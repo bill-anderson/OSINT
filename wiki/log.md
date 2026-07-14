@@ -2142,3 +2142,19 @@ corresponds to the National Data Cloud / chain-of-benefit model). **Contradictio
 
 **QUEUE DRAINED:** `new/` and `new-queue/` are now empty. All 62 drop items processed across Batches A–H
 (58 sources admitted; 3 dedups; 1 discard).
+
+---
+
+## 2026-07-14 — Mechanical sweep: topics-index & places-index regenerated
+
+Resolved the loose end flagged in the digest. Regenerated the faceted place-lists from **source-frontmatter
+coverage** across all raw/ sources (1,139 distinct topic×place pairs):
+- **topics-index.md** — each topic's `places:` code-list rebuilt as *existing ∪ source-coverage* (additive,
+  existing order preserved, new codes appended). This also fixed pre-existing under-representation (the
+  lists predated much of the corpus). No duplicates.
+- **places-index.md** — the "Lead topics" column is **curated prose** (annotations, `[[intersection]]`
+  links, "— stub" notes); preserved verbatim and only **appended** the topic slugs each place has source
+  coverage for but wasn't yet listed (inserted before any trailing "— note"). No duplicates; region rows
+  untouched.
+Done deterministically in a single awk pass (Git Bash `<()` process-substitution proved unreliable and was
+avoided). Row/line counts unchanged (topics-index 36 topic lines; places-index 56 country + 8 region rows).
