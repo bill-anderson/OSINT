@@ -1,11 +1,17 @@
 ---
-page: 
-title: The financing gap for data exchange is well documented, so why does it persist?
-author: Sarthak Satapathy
+type: source
+title: "The financing gap for data exchange is well documented, so why does it persist?"
+url: https://dial.global/the-financing-gap-for-data-exchange-is-well-documented-so-why-does-it-persist/
+publisher: Digital Impact Alliance (DIAL)
+author: Sarthak Satapathy; Jonathan Dolan
 published: 2026-06-16
-accessed: 2026-07-14
-source: https://dial.global/the-financing-gap-for-data-exchange-is-well-documented-so-why-does-it-persist/
-keywords: 
+date_precision: day
+date_source: source
+ingested: 2026-07-14
+places: [XAF, GHA]
+topics: [dpi.exchange, gov.policy, finance.new, data.open]
+entities: [[dial], [africa-data-leadership-initiative], [gates-foundation], [world-bank]]
+lens: []
 ---
 
 # The financing gap for data exchange is well documented, so why does it persist? – Digital Impact Alliance

@@ -2002,3 +2002,41 @@ bullet edits (opencrvs, wuri-programme, cdpi) **deferred to Obsidian backlinks**
 concept bullets already link them.
 
 **Contradictions:** none new. **Gaps:** none new (GAP-003 from Batch A still stands).
+
+---
+
+## 2026-07-14 — H1-2026 ingest, Batch C (DPI & instant payments)
+
+**Ingested (15 sources; 1 dedup-delete):**
+- PDFs (artefact + companion): SIIPS 2025 (AfricaNenda, **2025-11 proxy** — internal evidence favours Nov
+  2025 over the orientation lead's March 2026); DPI Roadmap Playbook (consortium instrument, 2026-03);
+  AfricaNenda Annual Report 2025 (2026-03); Scaling Instant Payments (2026-03); Making Non-bank
+  Participation a Reality / FOCUS-NOTE (AfricaNenda+AllianceDFA, 2026-04); The State of Cash Dependency
+  (Affinity/Mo Ibrahim/Yale, 2026-06); Interoperability as a Cornerstone (Development Gateway, **2024**
+  year-proxy); Cross-border payments & identity in Nigeria under the AfCFTA (ODI, 2026-03); Privacy &
+  Data Protection of Digital Lending Apps in Kenya (CIPIT, **2021** — pre-window but admissible); Mobile
+  Money Taxes & Affordability (GSMA, 2026-03); Building Open Digital States (DPGA, 2026-01, proxy).
+- Clips: Urgent Need to Harmonize Payment Regulations (AfricaNenda, 2026-02-18); The financing gap for
+  data exchange (DIAL, 2026-06-16); CIPESA Public Dialogue DPI East Africa (2026-03-23); DPI at the G20
+  (ODI, 2026-05-29 proxy).
+- **Dedup-delete:** the GSMA *State of the Industry Report on Mobile Money 2026* PDF was a byte-identical
+  duplicate of an already-held artefact (2026-07-11 …); deleted from `new/` (no new page).
+- **Reclassified out of Batch C:** *Appendix — Country Perspectives* is the companion appendix to ODI's
+  *China's infrastructure finance in Africa* — deferred to **Batch E** (left in `new/`).
+
+**Entities created (13):** mojaloop, dpi-roadmap-playbook (instrument), payment-service-directive-africa
+(instrument, proposed), odi-global, mo-ibrahim-foundation, affinity-africa, cipit, media-foundation-west-africa,
+alliancedfa, africa-data-leadership-initiative, gleif, central-bank-of-liberia, risa.
+
+**Pages updated:** dpi.pay + dpi.exchange concept synthesis; africanenda entity (2025 execution year);
+entities-index rows (13). LBR hub **not** re-edited — Liberia's IPS ("Pay Na-Na") already held; AfricaNenda
+AR linked via CBL + africanenda entities (dedup-adjacent call).
+
+**Editorial calls:** Large multi-country payment reports (SIIPS, Scaling, Affordability) tagged by region +
+2–3 standout countries; per-country detail kept on the source pages, **not** fanned into ~25 country hubs.
+DPI Roadmap Playbook filed as a standing **instrument** + dated companion source page.
+
+**Flags:** DPI Roadmap Playbook states "Malabo Convention adopted 2014, not yet ratified" — **outdated**
+(entered into force Jun 2023); wiki [[malabo-convention]] page is correct, source's phrasing noted on its
+page (not a wiki contradiction). SIIPS historical values restated via World Bank Atlas method → differ from
+prior editions (methodological). **Contradictions:** none new. **Gaps:** none new.

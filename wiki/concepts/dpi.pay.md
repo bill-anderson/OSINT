@@ -16,6 +16,18 @@ Interoperable digital payments and financial inclusion.
 
 ## Key material — continental & thematic
 
+- **Instant payments: from building rails to scaling them (2026).** SIIPS 2025 records **36 live IPS**
+  ($1.98tn / 64.6bn transactions in 2024; Nigeria's NIP the first rated "mature"), with ownership pivoting
+  to central banks (17 of 36) partly to avoid "loss of digital sovereignty." AfricaNenda's *Scaling Instant
+  Payments* and non-bank-participation notes argue usage, trust and fair competition — not the rail — are
+  now the constraint; **Liberia** stood up a [[mojaloop]] IPS in **73 days**. But affordability is under
+  threat: GSMA finds mobile-money levies above **~0.2%** of value harm inclusion (Cameroon −40% taxed
+  value), and Mo Ibrahim/Affinity show >90% of mobile-money value is still cashed out. Sources:
+  [[2025-11-01 SIIPS 2025 State of Inclusive Instant Payment Systems in Africa]],
+  [[2026-03-01 Scaling Instant Payments in Africa Policy Choices for Central Banks]],
+  [[2026-03-01 Mobile Money Taxes and Affordability in Sub-Saharan Africa]],
+  [[2026-06-01 The State of Cash Dependency and Digital Financial Inclusion in Africa]]. See [[dpi.exchange]], [[include.access]].
+
 - **Continental rail reaches Central Africa — but Nigeria pulls back (2026-07).** CEMAC
   central bank **[[beac]]** joined **[[papss]]** (2026-07-11), extending the rail into
   **[[XCA]] Central Africa**; Nigeria's [[nibss]] launched an ISO-20022 **National Payment

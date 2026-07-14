@@ -1,12 +1,17 @@
 ---
-page: 
-title: Digital Public Infrastructure at the G20: tensions, commitments and continuities
-author: Astha Kapoor
-                                Co-Founder, Aapti Institute
-published: 
-accessed: 2026-07-14
-source: https://odi.org/en/insights/digital-public-infrastructure-at-the-g20-tensions-commitments-and-continuities/
-keywords: 
+type: source
+title: "Digital Public Infrastructure at the G20: tensions, commitments and continuities"
+url: https://odi.org/en/insights/digital-public-infrastructure-at-the-g20-tensions-commitments-and-continuities/
+publisher: ODI Global
+author: Astha Kapoor (Aapti Institute)
+published: 2026-05-29
+date_precision: day
+date_source: proxy
+ingested: 2026-07-14
+places: [XAF, ZAF]
+topics: [dpi.exchange, gov.regional, gov.policy, geopol.india, data.open]
+entities: [[odi-global], [afcfta-digital-trade-protocol]]
+lens: [sovereignty, colonialism]
 ---
 
 # Digital Public Infrastructure at the G20: tensions, commitments and continuities | ODI: Think change

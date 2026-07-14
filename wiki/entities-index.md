@@ -84,6 +84,8 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 | X Corp (X / Twitter) | NGA, XGL | tech.ai, gov.legislate | [[x-corp]] |
 | Waka | KEN, XAF | dpi.pay, geopol.china | [[waka]] |
 
+| Affinity Africa | GHA, XAF | dpi.pay, include.access, finance.new | [[affinity-africa]] |
+
 ## Organisations
 
 | Entity | Places | Topics | Page |
@@ -184,6 +186,11 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 | Carnegie Mellon University Africa (CMU-Africa) | RWA, KEN, TZA, XAF | dpi.id, capacity.research, tech.ai | [[cmu-africa]] |
 | Caribou (Caribou Digital) | KEN, XAF, XGL | dpi.id, gov.protect, include.access | [[caribou]] |
 | Co-Develop | STP, XAF, XGL | dpi.govtech, dpi.id, finance.new | [[co-develop]] |
+| ODI Global | XAF, NGA, XGL | dpi.pay, dpi.exchange, gov.regional | [[odi-global]] |
+| Mo Ibrahim Foundation | XAF, XGL | gov.policy, dpi.pay, include.access | [[mo-ibrahim-foundation]] |
+| CIPIT (Strathmore) | KEN, XAF | gov.protect, dpi.pay, tech.ai | [[cipit]] |
+| Media Foundation for West Africa (MFWA) | GHA, XWA, XAF | gov.protect, include.divides, capacity.training | [[media-foundation-west-africa]] |
+| Alliance of Digital Finance & Fintech Associations (AllianceDFA) | XAF, XGL | dpi.pay, gov.regional, include.access | [[alliancedfa]] |
 
 ## Government bodies
 
@@ -260,6 +267,8 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 | Information Regulator (South Africa) | ZAF | gov.protect, gov.legislate | [[information-regulator-south-africa]] |
 | Personal Data Protection Office (PDPO, Uganda) | UGA | gov.protect, gov.legislate | [[personal-data-protection-office-uganda]] |
 | Electoral Commission of Uganda (EC) | UGA | dpi.id, dpi.registry, gov.protect | [[electoral-commission-uganda]] |
+| Central Bank of Liberia (CBL) | LBR | dpi.pay, include.access | [[central-bank-of-liberia]] |
+| Rwanda Information Society Authority (RISA) | RWA | dpi.govtech, dpi.exchange, gov.policy | [[risa]] |
 
 ## Initiatives / programmes
 
@@ -342,6 +351,8 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 | eKash (Rwanda instant payment system) | RWA | dpi.pay, include.access | [[ekash]] |
 | CAIGA (Continental Africa Internet Governance Architecture) | XAF | gov.regional, infra.connect, gov.policy | [[caiga]] |
 | Africa Declaration on Artificial Intelligence (Kigali) | XAF, RWA | tech.ai, gov.policy, gov.regional, finance.new | [[africa-ai-declaration]] |
+
+| Africa Data Leadership Initiative (ADLI) | XAF | dpi.exchange, gov.policy, data.open | [[africa-data-leadership-initiative]] |
 
 ## Deals
 
@@ -474,6 +485,8 @@ Databases, registries, datasets, tools and portals consulted repeatedly (entity_
 
 | Privacy Scorecard Report (Unwanted Witness) | XAF | gov.protect | [[privacy-scorecard-report]] |
 | Ripoti (Paradigm Initiative) | XAF | gov.protect | [[ripoti]] |
+| Mojaloop | XAF, RWA, LBR, XGL | dpi.pay, dpi.exchange, include.access | [[mojaloop]] |
+| GLEIF (Legal Entity Identifier) | XGL, NGA | dpi.id, dpi.exchange, gov.standards | [[gleif]] |
 
 ## Instruments — reference standards / frameworks / policy-legal instruments
 
@@ -522,6 +535,8 @@ about or from one becomes a normal source that cites it.
 | Data Protection and Privacy Act, 2019 (Uganda) | UGA | gov.protect, gov.legislate | [[data-protection-and-privacy-act-uganda-2019]] |
 | African Guidelines on Data Access (ACHPR Res.620, draft) | XAF | gov.legislate, gov.policy, data.open | [[african-guidelines-data-access]] |
 | Rwanda National Data Sharing Policy | RWA | dpi.exchange, data.open, gov.policy | [[rwanda-national-data-sharing-policy]] |
+| DPI Roadmap Playbook (AfricaNenda consortium) | XAF, ZAF | dpi.exchange, dpi.id, dpi.pay, gov.policy | [[dpi-roadmap-playbook]] |
+| Payment Service Directive for Africa (PSDA, proposed) | XAF | dpi.pay, gov.regional, gov.legislate | [[payment-service-directive-africa]] |
 
 ## Instruments — scholarly & analytical works (`entity_type: instrument`; formerly "publications")
 

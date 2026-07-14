@@ -17,6 +17,18 @@ cross-border scale, the legal enforceability of that exchange.
 
 ## Key material
 
+- **DPI as roadmap and sustainability problem (2026).** The **[[dpi-roadmap-playbook]]** (Gates
+  consortium) and DPGA's *Building Open Digital States* frame DPI as three building blocks (ID, payments,
+  data exchange) built on open-source DPGs for sovereignty; DIAL flags the **capex-funded, opex-unfunded**
+  financing gap that kills national data-exchange platforms ([[africa-data-leadership-initiative]]); ODI
+  reads DPI through the G20 troika and its contested, India-linked origins. CIPESA interrogates DPI's
+  governance/power in East Africa; ODI's Nigeria study shows cross-border payments failing at the
+  corporate-ID layer, not the rail. Sources:
+  [[2026-03-01 DPI Roadmap Playbook]],
+  [[2026-01-20 Building Open Digital States Country Case Studies on the Impact of DPGs for DPI]],
+  [[2026-06-16 The financing gap for data exchange is well documented so why does it persist]],
+  [[2026-05-29 Digital Public Infrastructure at the G20 tensions commitments and continuities]]. See [[dpi.pay]], [[gov.regional]].
+
 - **From owning data to governing it (2026 H1).** Rwanda operationalised a public-sector
   **[[rwanda-national-data-sharing-policy]]** (open-by-default, institutions as stewards) via the
   [[nisr]] Data Governance Unit; the draft **[[african-guidelines-data-access]]** pushes proactive

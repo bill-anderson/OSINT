@@ -1,11 +1,17 @@
 ---
-page: 
-title: CIPESA Public Dialogue Series: Interrogating Digital Public Infrastructure in East Africa
+type: source
+title: "CIPESA Public Dialogue Series: Interrogating Digital Public Infrastructure in East Africa"
+url: https://cipesa.org/2026/03/cipesa-public-dialogue-series-interrogating-digital-public-infrastructure-in-east-africa/
+publisher: CIPESA
 author: CIPESA
 published: 2026-03-23
-accessed: 2026-07-14
-source: https://cipesa.org/2026/03/cipesa-public-dialogue-series-interrogating-digital-public-infrastructure-in-east-africa/
-keywords: 
+date_precision: day
+date_source: source
+ingested: 2026-07-14
+places: [XEA, XWA, XAF]
+topics: [dpi.exchange, gov.protect, include.divides, dpi.govtech, gov.policy]
+entities: [[cipesa], [co-develop], [media-foundation-west-africa]]
+lens: [sovereignty]
 ---
 
 # CIPESA Public Dialogue Series: Interrogating Digital Public Infrastructure in East Africa – Collaboration on International ICT Policy for East and Southern Africa (CIPESA)

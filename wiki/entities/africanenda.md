@@ -6,7 +6,7 @@ places: [XAF, KEN]
 topics: [dpi.pay, dpi.exchange, include.access, gov.regional, finance.mou]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-12
+last_reviewed: 2026-07-14
 sources: [[2026-07-07 Equity, AfricaNenda and Gates Foundation Partner to Advance Digital Public Infrastructure Across Africa], [2026-02-02 How Strategic  Shift of NIBSS Is  Rewiring Nigeria's Payments System], [2025-12-05 From Access to Empowerment Introducing Rwanda's Instant Payment System — eKash], [2026-02-23 111 - Winning But Losing - The Payments End Game]]
 ---
 
@@ -16,6 +16,15 @@ African foundation advancing instant, inclusive payment systems and DPI; works w
 **30+ central banks** across the continent. CEO **Dr Robert Ochola**.
 
 ## Activity in this wiki
+
+- **2025 execution year — SIIPS 2025, Scaling, DPI Roadmap (2026-03).** The Annual Report and the SIIPS
+  2025 census record **36 live IPS** ($1.98tn in 2024) with Nigeria's NIP the first "mature"; **Liberia**
+  launched a [[mojaloop]] IPS in **73 days** ([[central-bank-of-liberia]]) and Rwanda's [[ekash]]
+  relaunched. With the AU Commission (AACB **Decision 21**) it is building a cross-border Regulatory
+  Harmonization Framework, and co-authored the **[[dpi-roadmap-playbook]]** and *Scaling Instant Payments*.
+  Sources: [[2026-03-01 AfricaNenda Annual Report 2025]],
+  [[2025-11-01 SIIPS 2025 State of Inclusive Instant Payment Systems in Africa]],
+  [[2026-03-01 Scaling Instant Payments in Africa Policy Choices for Central Banks]]. See [[dpi.pay]], [[gov.regional]].
 
 - **DPI partnership (2026-07-07).** MoU with **[[equity-group-holdings]]** and the
   **[[gates-foundation]]** to move DPI "from policy to implementation" across 20–30
