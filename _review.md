@@ -128,3 +128,15 @@ Related coverage on file (the parallel Zambia deal, useful context): Africanews,
 
 *(GAP-002 — GSMA SA smartphone-tax report — resolved 2026-07-14: the primary GSMA report arrived
 in the same batch and is now held; instrument upgraded stub→active. See log.md.)*
+
+- **GAP-003 · National DPA entity pages missing for the 2026 enforcement wave.** The H1-2026
+  data-protection batch surfaced several national data-protection authorities and their statutes as now
+  central to the continental enforcement/reform story, but with **no entity page** (referenced only in
+  prose): **Angola’s** data-protection agency (APD) and its AI-provisions revision; **Ghana** Data
+  Protection Commission (+ 2025 Bill / data-as-property); **Botswana** Information & Data Protection
+  Commission (2024 Act); **Mauritius** Data Protection Office (+ 2017 Act amendment, National Data
+  Strategy 2025–2029); **Seychelles** Information Commission (2023 Act); plus the new **Burundi**
+  (Jan 2026), **Djibouti** (Digital Code) and **Gambia** laws. *Lead: consider sourcing primaries and
+  creating the highest-recurrence DPA/instrument pages to anchor the [[gov.protect]] / [[gov.legislate]]
+  threads — created here only for the entities the batch actually leaned on.* (Recorded Batch A,
+  2026-07-14.)

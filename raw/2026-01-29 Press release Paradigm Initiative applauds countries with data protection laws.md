@@ -1,11 +1,17 @@
 ---
-page: 
-title: Press release: Paradigm Initiative applauds countries with data protection laws
-author: Communications
+type: source
+title: "Press release: Paradigm Initiative applauds countries with data protection laws"
+url: https://paradigmhq.org/press-release-paradigm-initiative-applauds-countries-with-data-protection-laws/
+publisher: Paradigm Initiative
+author: Paradigm Initiative
 published: 2026-01-29
-accessed: 2026-07-14
-source: https://paradigmhq.org/press-release-paradigm-initiative-applauds-countries-with-data-protection-laws/
-keywords: 
+date_precision: day
+date_source: source
+ingested: 2026-07-14
+places: [XAF, DJI, GMB, BDI, BWA, DZA, NGA]
+topics: [gov.protect, gov.legislate]
+entities: [[paradigm-initiative], [nigeria-data-protection-act-2023], [ripoti]]
+lens: []
 ---
 
 # Press release: Paradigm Initiative applauds countries with data protection laws - Paradigm Initiative

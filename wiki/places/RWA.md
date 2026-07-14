@@ -47,6 +47,11 @@ last_reviewed: 2026-07-14
   people forced to use that technology"). Source:
   [[2026-05-21 Pushing back from Big Tech Africa's hard road to AI sovereignty]]. See
   [[tech.ai]], [[gov.policy]].
+- **2026-05-07** — **NISR Data Governance Unit takes shape.** Cenfri profiled the [[nisr]] Data
+  Governance Unit — operational arm of the [[rwanda-national-data-sharing-policy]] (open-by-default;
+  institutions as stewards, not owners) — building classification standards, cataloguing tools and a
+  central data-sharing platform. Success = routine cross-institutional data use over 3–5 years.
+  [[2026-05-07 What will determine the success of Rwanda’s data governance push]] · [[dpi.exchange]]
 - **2026-04-27** — **Rwanda hosted Smart Africa's SADX Technical Assessment Mission** in
   **Kigali**, convening identification, immigration and ICT authorities from Rwanda,
   Benin and Ghana to advance the **Smart Africa Data Exchange** ([[sadx]]) — PKI trust

@@ -173,6 +173,15 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 | Tech Hive Advisory (Africa privacy/data-protection advisory; DP roundup publisher) | XAF, NGA, XGL | gov.protect, gov.legislate, gov.policy | [[tech-hive-advisory]] |
 | Code for Africa (civic-tech / open-data / OSINT network) | XAF, XGL | gov.protect, data.open, capacity.literacy, tech.ai | [[code-for-africa]] |
 
+| Future of Privacy Forum (FPF) | XGL, XAF | gov.protect, gov.legislate, tech.ai | [[future-of-privacy-forum]] |
+| Unwanted Witness | UGA, XAF | gov.protect, dpi.id, infra.cybersec | [[unwanted-witness]] |
+| Media Rights Agenda (MRA) | NGA, XAF | gov.protect, gov.legislate | [[media-rights-agenda]] |
+| Paradigm Initiative (PIN) | NGA, XAF | gov.protect, gov.legislate, include.access | [[paradigm-initiative]] |
+| Cenfri | ZAF, XAF | gov.protect, dpi.pay, dpi.exchange | [[cenfri]] |
+| CIPESA | UGA, XEA, XAF | gov.protect, tech.ai, dpi.exchange | [[cipesa]] |
+| Centre for the Study of the Economies of Africa (CSEA) | NGA, ZAF, XAF | gov.policy, tech.ai, gov.protect | [[csea]] |
+| African Commission on Human and Peoples’ Rights (ACHPR) | XAF | gov.protect, gov.regional, gov.legislate | [[african-commission]] |
+
 ## Government bodies
 
 | Entity | Places | Topics | Page |
@@ -243,6 +252,11 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 | Independent National Electoral Commission (INEC) | NGA | dpi.registry, gov.protect, dpi.id | [[inec]] |
 | Kenya School of Government (KSG) | KEN | capacity.training, tech.ai, infra.cybersec, dpi.govtech | [[kenya-school-of-government]] |
 | National Bank of Rwanda (BNR) | RWA | dpi.pay, gov.legislate, gov.policy | [[national-bank-of-rwanda]] |
+
+| National Institute of Statistics of Rwanda (NISR) | RWA | data.statistics, dpi.exchange, data.open | [[nisr]] |
+| Information Regulator (South Africa) | ZAF | gov.protect, gov.legislate | [[information-regulator-south-africa]] |
+| Personal Data Protection Office (PDPO, Uganda) | UGA | gov.protect, gov.legislate | [[personal-data-protection-office-uganda]] |
+| Electoral Commission of Uganda (EC) | UGA | dpi.id, dpi.registry, gov.protect | [[electoral-commission-uganda]] |
 
 ## Initiatives / programmes
 
@@ -455,6 +469,9 @@ Databases, registries, datasets, tools and portals consulted repeatedly (entity_
 | International Aid Transparency Initiative (IATI) | XGL | data.open, data.statistics | [[international-aid-transparency-initiative]] |
 | Digital Policy Alert (regulatory-change tracker; Africa DP roundup) | XGL, XAF | gov.protect, gov.legislate, gov.policy, tech.ai | [[digital-policy-alert]] |
 
+| Privacy Scorecard Report (Unwanted Witness) | XAF | gov.protect | [[privacy-scorecard-report]] |
+| Ripoti (Paradigm Initiative) | XAF | gov.protect | [[ripoti]] |
+
 ## Instruments — reference standards / frameworks / policy-legal instruments
 
 Published standards, taxonomies, frameworks, or policy/legal instruments that exist as
@@ -497,6 +514,11 @@ about or from one becomes a normal source that cites it.
 | CBN June 2026 Payments Circular (PSS/DIR/PUB/CIR/001/004) | NGA | gov.legislate, dpi.pay, infra.store, gov.protect | [[cbn-payments-circular-2026]] |
 | EU AI Act | XGL, XAF | tech.ai, gov.legislate, geopol.eu, gov.protect | [[eu-ai-act]] |
 | Kenya Artificial Intelligence Bill 2026 | KEN | tech.ai, gov.legislate, gov.protect | [[kenya-ai-bill-2026]] |
+
+| Kenya Data Protection Act, 2019 | KEN | gov.protect, gov.legislate | [[kenya-data-protection-act-2019]] |
+| Data Protection and Privacy Act, 2019 (Uganda) | UGA | gov.protect, gov.legislate | [[data-protection-and-privacy-act-uganda-2019]] |
+| African Guidelines on Data Access (ACHPR Res.620, draft) | XAF | gov.legislate, gov.policy, data.open | [[african-guidelines-data-access]] |
+| Rwanda National Data Sharing Policy | RWA | dpi.exchange, data.open, gov.policy | [[rwanda-national-data-sharing-policy]] |
 
 ## Instruments — scholarly & analytical works (`entity_type: instrument`; formerly "publications")
 

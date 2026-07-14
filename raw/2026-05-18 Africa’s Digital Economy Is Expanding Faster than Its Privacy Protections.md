@@ -1,11 +1,17 @@
 ---
-page: 
-title: Africa’s Digital Economy Is Expanding Faster than Its Privacy Protections
-author: Unwanted Witness
+type: source
+title: Africa’s Digital Economy Is Expanding Faster than Its Privacy Protections
+url: https://www.unwantedwitness.org/africas-digital-economy-is-expanding-faster-than-its-privacy-protections/
+publisher: Unwanted Witness
+author: Dia Michelle Bua
 published: 2026-05-18
-accessed: 2026-07-14
-source: https://www.unwantedwitness.org/africas-digital-economy-is-expanding-faster-than-its-privacy-protections/
-keywords: Data Protection,Data Privacy
+date_precision: day
+date_source: source
+ingested: 2026-07-14
+places: [XAF, KEN, NGA, UGA, MUS, GHA, BWA, RWA, TZA, ZWE]
+topics: [gov.protect, gov.legislate, dpi.pay, tech.ai, include.access]
+entities: [[unwanted-witness], [privacy-scorecard-report], [meta], [google], [malabo-convention]]
+lens: [sovereignty, colonialism]
 ---
 
 # Africa’s Digital Economy Is Expanding Faster than Its Privacy Protections  : Unwanted Witness

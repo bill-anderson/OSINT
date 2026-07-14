@@ -138,6 +138,11 @@ last_reviewed: 2026-07-13
   [[2026-06-19 Strategy Ahead of Infrastructure, Part II The Opportunity and the Case for Sequencing]],
   [[2026-02-23 111 - Winning But Losing - The Payments End Game]]. See [[dpi.pay]], [[infra.store]],
   **[[nigeria--gov-protect]]**.
+- **2026-06-22** — **13-CSO call for horizontal accountability.** [[media-rights-agenda]] and 12 other
+  groups argue Nigeria's data-protection failure is one of **implementation, not law** — the NDPA, NDPC
+  and a 121m+ digital-ID system coexist with an INEC credential-leak breach and NINs sold for ₦100; they
+  urge equal application of the NDPA to public bodies and Cybercrimes Act s.24 reform.
+  [[2026-06-22 MRA, Civil-Society Coalition Call on Nigerian Government to Strengthen Horizontal Accountability for Citizens Data]] · [[gov.protect]]
 - **2026-06-17** — At **AI Summit Nigeria** (Abuja), experts warn **eight siloed,
   non-interoperable** government databases (NIN, BVN, NCC, NIS, FIRS, FRSC, CAC, INEC)
   threaten Nigeria's AI ambitions; **[[nitda]]** developing data-exchange frameworks

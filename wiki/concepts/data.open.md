@@ -6,7 +6,7 @@ places: [KEN, ZMB, ETH, XGL, XSS]
 entities: [[kenya-data-marketplace], [publish-what-you-fund], [international-aid-transparency-initiative], [usaid], [data-for-policy], [the-govlab], [digital-data-driven-transformations-landscape-review-2025]]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-12
+last_reviewed: 2026-07-14
 sources: [[2026-06-08 Kenya proposes marketplace for State data], [2026-06-17 Zambia's govt leans towards open-source], [2026-07-02 Can AI solve open aid data's access problem], [2023-09-04 Data for Policy - About Us], [2025-01-01 Digital & data-driven transformations in governance a landscape review  Data & Policy], [2026-06-08 Kenya Wants to Sell Your Data. But It's Complicated], [2025-12-15 African AI Startups Should Publish Openly], [2026-02-10 AI in Africa Barriers, opportunities and policy]]
 ---
 
@@ -18,6 +18,14 @@ as a **strategic national asset** to be licensed for revenue, and open,
 vendor-neutral publication of foundational reference data.
 
 ## Key material
+
+- **Access-as-a-right and open-by-default (2026 H1).** The draft **[[african-guidelines-data-access]]**
+  (ACHPR Res.620) frames access to high-value public datasets (budgets, procurement, health,
+  environment) as a component of the right to information, with proactive-disclosure duties on public
+  *and* private actors; Rwanda’s data-sharing policy adopts an **open-by-default** posture for
+  government data. Sources:
+  [[2026-05-07 African Guidelines on Data Access ACHPR Res 620 draft]],
+  [[2026-05-07 What will determine the success of Rwanda’s data governance push]]. See [[dpi.exchange]], [[gov.regional]].
 
 - **Kenya's State-data marketplace (2026-06, ITWeb Africa).** Kenya's Ministry
   of ICT & the Digital Economy proposes a **State-run marketplace** to licence

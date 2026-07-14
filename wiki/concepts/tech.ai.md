@@ -18,6 +18,14 @@ converge.
 
 ## Key material — continental & thematic
 
+- **Data-protection law as de facto AI governance (2026 H1).** With no continental AI-specific statute
+  yet, DPAs and legislators regulate AI *through* data-protection law: **Angola** wrote AI credit-scoring
+  and anti-scraping provisions into its revised law (echoing the EU AI Act’s high-risk approach), while
+  **Zimbabwe, Mauritius, Ghana, Kenya, Djibouti, Malawi and Morocco** advanced AI strategies/bills in
+  early 2026. Sources:
+  [[2026-03-12 Africa’s Data Protection Reforms A Continental Perspective on the Drivers of Change in Legal Frameworks]],
+  [[2026-06-23 Bimonthly Update on Privacy in Africa (January & February 2026)]]. See [[gov.protect]], [[gov.policy]].
+
 - **The continental commitment, and the law that trails it (2025-04 → 2026).** The **[[africa-ai-declaration]]**
   (signed Kigali, 4 Apr 2025) is now anchored to its **primary text**
   ([[2025-04-04 Africa Declaration on Artificial Intelligence]]): **49 country signatories** plus the AU

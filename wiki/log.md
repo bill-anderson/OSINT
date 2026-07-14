@@ -1927,3 +1927,50 @@ output is never filed back as source; only external evidence becomes a source").
   migrate raw files into dated year-folders.
 
 **Contradictions:** none surfaced against existing pages (this is the first ingest).
+
+---
+
+## 2026-07-14 — H1-2026 think-tank ingest, Batch A (data protection / DPAs / data governance)
+
+Part of the H1-2026 literature catch-up (62-item drop; processed in thematic batches, one commit
+each). Orientation map: `my-notes/literature-catchup-2026-H1_1.md` (an Exa-sourced synthesis — used
+for dates/publishers only, **not cited as a source**).
+
+**Ingested (11 sources admitted):**
+- Clips → `raw/`: FPF continental DP reforms (2026-03-12); Unwanted Witness *Privacy Scorecard 2025*
+  (2026-05-18); Tech Hive bimonthly Jan–Feb (2026-06-23); MRA 13-CSO horizontal-accountability call
+  (2026-06-22); Paradigm Initiative Data Privacy Week stock-take (2026-01-29); Cenfri *Reassessing
+  DPAs* (2026-03-23); CIPESA app-based health data (2026-06-23); Cenfri Rwanda data-governance
+  (2026-05-07).
+- PDFs (artefact + companion source page): Unwanted Witness *Uganda 2026 Polls* (2026-03-31); ACHPR
+  Res.620 draft *African Guidelines on Data Access* (2026-05-07, **proxy** date/month precision —
+  undated draft); CSEA *SA Data Governance Snapshot 2026* (2026-04-07, **proxy**, export metadata).
+
+**Entities created (18):** orgs — future-of-privacy-forum, unwanted-witness, media-rights-agenda,
+paradigm-initiative, cenfri, cipesa, csea, african-commission; gov-bodies — nisr,
+information-regulator-south-africa, personal-data-protection-office-uganda, electoral-commission-uganda;
+instruments — kenya-data-protection-act-2019, data-protection-and-privacy-act-uganda-2019,
+african-guidelines-data-access (status: draft), rwanda-national-data-sharing-policy; resources —
+privacy-scorecard-report, ripoti.
+
+**Pages updated:** concept synthesis bullets added to gov.legislate, gov.protect, gov.regional, tech.ai,
+dpi.exchange, data.open (all last_reviewed → 2026-07-14). Place hubs NGA (MRA), RWA (NISR), UGA (2026
+polls). entities-index rows added (all 18).
+
+**Editorial calls (auto, digest-listed):**
+- Continental trackers (FPF, Tech Hive, Unwanted Witness, Paradigm) compiled with country detail held on
+  the **source page** and synthesis on **concept pages**; place hubs updated only for standout
+  country-specific developments — deliberately *not* fanned into ~20 country hubs (matrix anti-pattern).
+- CSEA SA snapshot treated as a reference profile: indicator figures kept on the source page, **not**
+  pushed into the ZAF hub or concept pages (per standing note on reference studies).
+- ACHPR guidelines: dated companion source page (proxy) + standing `instrument` entity (draft).
+- **Page-bloat flag:** gov.protect (~3.9k words), tech.ai (~4.4k), gov.regional (~3.5k), gov.policy
+  (~3.4k) are past the ~2,500-word review threshold. Added only tight bullets; extraction/trim deferred
+  and flagged for the digest.
+- topics-index / places-index place-list refresh **deferred to a final mechanical sweep** across all
+  batches (regenerated from source-frontmatter coverage) rather than per-batch nibbling.
+
+**Contradictions:** none new surfaced against existing pages. (Burundi's Jan-2026 law → "~45 laws" is
+consistent with the existing 44/38 count thread.)
+
+**Gaps flagged:** GAP-003 (national DPA entity pages) — see `_review.md`.

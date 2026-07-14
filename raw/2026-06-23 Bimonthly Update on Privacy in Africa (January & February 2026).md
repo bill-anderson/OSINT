@@ -1,11 +1,17 @@
 ---
-page: 
-title: Bimonthly Update on Privacy in Africa (January & February 2026)
-author: TH ADMIN
-published: 
-accessed: 2026-07-14
-source: https://www.techhiveadvisory.africa/insights/bimonthly-update-on-privacy-in-africa-january-february-2026
-keywords: 
+type: source
+title: Bimonthly Update on Privacy in Africa (January & February 2026)
+url: https://www.techhiveadvisory.africa/insights/bimonthly-update-on-privacy-in-africa-january-february-2026
+publisher: Tech Hive Advisory
+author: Tech Hive Advisory
+published: 2026-06-23
+date_precision: day
+date_source: source
+ingested: 2026-07-14
+places: [XAF, BDI, COG, MUS, TUN, EGY, DZA, KEN, NGA, TZA, GHA, ZWE, MOZ, ZAF, MAR]
+topics: [gov.protect, gov.legislate, tech.ai, gov.policy, gov.regional, gov.standards]
+entities: [[tech-hive-advisory], [national-personal-data-protection-commission-congo], [ndpc], [odpc-kenya], [malabo-convention]]
+lens: []
 ---
 
 # Bimonthly Update on Privacy in Africa (January & February 2026)
@@ -95,22 +101,3 @@ We would love to hear from you. What are your predictions for the next newslette
 
 
 
-Stay Informed
-
-Stay ahead of tech trends. Get our twice-monthly updates on tech policy, data laws, and business rules across Africa sent straight to you.
-
-Get the Insights
-
-Your Name
-
-FULL NAME
-
-EMAIL ADDRESS
-
-NAME@DOMAIN.COM
-
-Thank you! Your submission has been received!
-
-Oops! Something went wrong while submitting the form.
-
-![](https://cdn.prod.website-files.com/641a2c1dcea0041f8d407596/6a134c9d5a528723c5c541c3_volume-high.svg)

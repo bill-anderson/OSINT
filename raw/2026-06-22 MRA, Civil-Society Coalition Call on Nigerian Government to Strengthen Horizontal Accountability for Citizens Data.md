@@ -1,11 +1,17 @@
 ---
-page: 
-title: MRA, Civil-Society Coalition Call on Nigerian Government to Strengthen Horizontal Accountability for
-author: MRA
+type: source
+title: "MRA, Civil-Society Coalition Call on Nigerian Government to Strengthen Horizontal Accountability for Citizens’ Data"
+url: https://mediarightsagenda.org/mra-civil-society-coalition-call-on-nigerian-government-to-strengthen-horizontal-accountability-for-citizens-data/
+publisher: Media Rights Agenda
+author: Media Rights Agenda
 published: 2026-06-22
-accessed: 2026-07-14
-source: https://mediarightsagenda.org/mra-civil-society-coalition-call-on-nigerian-government-to-strengthen-horizontal-accountability-for-citizens-data/
-keywords: 
+date_precision: day
+date_source: source
+ingested: 2026-07-14
+places: [NGA]
+topics: [gov.protect, dpi.id, gov.legislate, infra.cybersec]
+entities: [[media-rights-agenda], [paradigm-initiative], [digital-rights-lawyers-initiative], [ndpc], [nigeria-data-protection-act-2023], [inec], [nimc]]
+lens: []
 ---
 
 # MRA, Civil-Society Coalition Call on Nigerian Government to Strengthen Horizontal Accountability for Citizens’ Data - Media Rights Agenda

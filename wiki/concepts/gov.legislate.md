@@ -6,7 +6,7 @@ places: [XAF, NGA, KEN, XGL, GHA, ZAF, MOZ, NAM, RWA, XSA, ZMB, SOM, COG, UGA, M
 entities: [[afcfta], [nimc], [cbn], [samuel-nartey-george], [popia], [bosun-tijani], [ncc], [mozambique-cyber-security-law], [sa-digital-id-regulations], [fccpc], [icasa], [cran], [starlink], [sarb], [nida-rwanda], [smart-zambia-institute], [somalia-ministry-communications-technology], [national-personal-data-protection-commission-congo], [uganda-communications-commission], [mtn-group], [airtel-africa], [malawi-data-protection-act-2024], [us-department-of-state], [ndpc], [nigeria-data-protection-act-2023], [inec], [digital-rights-lawyers-initiative], [eu-ai-act], [kenya-ai-bill-2026], [alice-munyua]]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-12
+last_reviewed: 2026-07-14
 sources: [[2026-07-03 AfCFTA, Data Governance and the Hidden Legal Gaps Reshaping Africa's Digital Economy - P.M. News], [2026-06-09 The Triad of Tech Sovereignty and Europe's Package Dependency, Openness, and Agency], [2025-01-01 Eaves commodification], [2026-07-09 Nigeria seeks support to operationalize new digital ID law as NIN tops 136M], [2026-07-07 CBN's local data order puts Nigeria's data centres to test], [2026-07-07 Ghana and UNDP Strengthen Partnership on Digital Transformation Projects], [2026-06-09 Meta backs NDPC in landmark privacy initiative], [2026-06-03 How the EU's Tech Sovereignty Package Finally Puts Open Source to the Test], [2026-06-10 Rwanda Launches Dedicated AI Agency to Drive Investment and Innovation], [2026-06-08 The Promise and Limits of African Data Sovereignty], [2026-06-16 Who Owns Africa's Sky], [2025-01-01 South African Digital Sovereignty at the Crossroad of Securitization and Development (Chapter 4) - Digital Sovereignty in the BRICS Countries], [2026-07-08 FG Halts Enforcement of New Regulations on Internet Platforms], [2026-07-09 NIMC Act 2026 Director-General Coker-Odusote Launches 8,809-Ward Digital ID Drive], [2026-04-17 Mozambique parliament unanimously approves Cyber Security Law], [2026-05-29 Opinion South Africa's Digital Identity Regulations A Governance Crossroads], [2026-04-21 South Africa's digital ID gets a targeted launch date], [2026-07-10 Nigeria tests data sovereignty as foreign tech firms facing probe], [2026-05-22 Why global hyperscalers are avoiding Nigeria despite Africa's biggest market], [2026-04-12 Icasa moves to mandate national infrastructure database], [2026-03-26 Starlink blocked from operating in Namibia], [2026-03-17 South Africa's National Payment System PSP licences and the 2026 payments reform], [2026-03-16 Digital IDs How registration is progressing so far], [2026-03-04 Nigeria takes new measures to regulate AI], [2026-02-27 Who Protects Nigeria's Digital Citizens Unmasking Accountability Gaps in Digital Rights Governance], [2026-07-10 Why Nigeria Is Investigating Meta, Google, X and AI Firms], [2026-07-10 FIJ Showed That INEC Broke Data Law. Digital Rights Lawyers Sue the Commission 10 Months Later]]
 ---
 
@@ -16,6 +16,17 @@ Binding law and regulation — data-protection statutes, cross-border enforceabi
 localization mandates, and the competition/antitrust angle on cloud concentration.
 
 ## Key material
+
+- **A "second-wave" reform surge across the continent (2026 H1).** Trackers converge on a wave of new
+  and amended data-protection statutes: **Burundi** enacted (15 Jan 2026), taking Africa to **~45
+  laws**; **Djibouti, The Gambia, Botswana** newly in force; **Angola, Ghana, Kenya, Mauritius,
+  Nigeria, Seychelles, Algeria, Tunisia** amending or overhauling. Drivers: local-nexus/accountability
+  rules for foreign platforms, AI regulation via data-protection law, and interoperability with
+  international standards; **Ghana** would become one of few states globally to recognise personal data
+  as *property*. Sources:
+  [[2026-03-12 Africa’s Data Protection Reforms A Continental Perspective on the Drivers of Change in Legal Frameworks]],
+  [[2026-06-23 Bimonthly Update on Privacy in Africa (January & February 2026)]],
+  [[2026-01-29 Press release Paradigm Initiative applauds countries with data protection laws]]. See [[gov.protect]], [[tech.ai]].
 
 - **African data-law patchwork (2026-07, Okorie).** Nigeria DPA 2023 and Kenya DPA 2019
   are becoming "enforcement-driven"; cross-jurisdictional enforceability of IP and data

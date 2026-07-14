@@ -63,6 +63,12 @@ last_reviewed: 2026-07-11
   from [[huawei]], [[zte]] and [[hikvision]] dominate, bundled with loans and data-centre
   deals. Source: [[2026-04-04 Chinese surveillance rolled out in Africa ZTE, Hikvision, Huawei at the helm]].
   See [[infra.cybersec]], [[gov.protect]], [[geopol.china]].
+- **2026-03-31** — **Data protection failed the 2026 polls (implementation deficit).** Unwanted Witness
+  found mandatory biometric voter verification (**109,142 kits** at **50,739** stations) and NIN-linked
+  voter registers deployed with near-absent DPIAs/privacy notices, and **selective enforcement** — the
+  Electoral Commission registered with the [[personal-data-protection-office-uganda]] only *after*
+  polling (21 Jan 2026) while CSO actors were pursued under DPPA s.35.
+  [[2026-03-31 Uneven Enforcement of Data Protection Laws Ugandas 2026 Polls]] · [[dpi.id]] · [[gov.protect]]
 - **2026-03-31** — **EAC "AI Sovereignty" bloc.** As an EAC member, Uganda took part in the
   4th EAC Regional STI Conference (Kigali) exploring a harmonised regional **AI Policy
   Roadmap** and data-sovereignty framing. Entity: [[eac]]. Source:

@@ -1,11 +1,17 @@
 ---
-page: 
+type: source
 title: Reassessing the role of data protection authorities in Africa
-author: Kyle de Klerk, Ashly Hope and Jeremy Gray
+url: https://cenfri.org/articles/african-data-governance-reform-in-an-era-of-reform/
+publisher: Cenfri
+author: Kyle de Klerk; Ashly Hope; Jeremy Gray
 published: 2026-03-23
-accessed: 2026-07-14
-source: https://cenfri.org/articles/african-data-governance-reform-in-an-era-of-reform/
-keywords: 
+date_precision: day
+date_source: source
+ingested: 2026-07-14
+places: [XAF, ZAF, LSO]
+topics: [gov.protect, gov.legislate, gov.regional, dpi.pay]
+entities: [[cenfri], [popia], [information-regulator-south-africa], [afcfta-digital-trade-protocol], [malabo-convention]]
+lens: [colonialism]
 ---
 
 # Reassessing the role of data protection authorities in Africa – Cenfri

@@ -1,11 +1,17 @@
 ---
-page: 
+type: source
 title: What will determine the success of Rwanda’s data governance push?
+url: https://cenfri.org/articles/what-will-determine-the-success-of-rwandas-data-governance-push/
+publisher: Cenfri
 author: Leana Bisa Ntete
 published: 2026-05-07
-accessed: 2026-07-14
-source: https://cenfri.org/articles/what-will-determine-the-success-of-rwandas-data-governance-push/
-keywords: 
+date_precision: day
+date_source: source
+ingested: 2026-07-14
+places: [RWA]
+topics: [dpi.exchange, data.statistics, data.open, gov.policy, dpi.govtech]
+entities: [[cenfri], [nisr], [rwanda-national-data-sharing-policy]]
+lens: []
 ---
 
 # What will determine the success of Rwanda’s data governance push? – Cenfri

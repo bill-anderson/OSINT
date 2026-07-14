@@ -1,11 +1,17 @@
 ---
-page: 
+type: source
 title: Towards Regulation of App-Based Health Data in Africa
-author: CIPESA
+url: https://cipesa.org/2026/06/towards-regulation-of-app-based-health-data-in-africa/
+publisher: CIPESA
+author: Edrine Wanyama
 published: 2026-06-23
-accessed: 2026-07-14
-source: https://cipesa.org/2026/06/towards-regulation-of-app-based-health-data-in-africa/
-keywords: 
+date_precision: day
+date_source: source
+ingested: 2026-07-14
+places: [XAF]
+topics: [gov.protect, dpi.mis, tech.ai, gov.standards, gov.regional, dpi.exchange]
+entities: [[cipesa], [africa-cdc]]
+lens: [sovereignty]
 ---
 
 # Towards Regulation of App-Based Health Data in Africa – Collaboration on International ICT Policy for East and Southern Africa (CIPESA)

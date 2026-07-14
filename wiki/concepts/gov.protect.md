@@ -17,6 +17,17 @@ Personal-data regimes across African jurisdictions — and the friction their
 
 ## Key material
 
+- **Enforcement is the frontier, not legislation (2026 H1).** The gap is now implementation, not
+  statute: Unwanted Witness’s **Privacy Scorecard 2025** ([[privacy-scorecard-report]]) puts
+  continental compliance at just **46%** (health sector 22%), and a 13-CSO coalition led by
+  [[media-rights-agenda]] argues Nigeria’s crisis is one of **horizontal accountability** — the NDPA,
+  NDPC and a 121m+ digital-ID system coexist with NINs sold for ₦100 and an INEC breach via leaked
+  credentials. DPAs in Kenya, Nigeria and Tanzania ramped up enforcement in early 2026 (Kenya 110+
+  decisions in 2025). Sources:
+  [[2026-05-18 Africa’s Digital Economy Is Expanding Faster than Its Privacy Protections]],
+  [[2026-06-22 MRA, Civil-Society Coalition Call on Nigerian Government to Strengthen Horizontal Accountability for Citizens Data]],
+  [[2026-06-23 Bimonthly Update on Privacy in Africa (January & February 2026)]]. See [[gov.legislate]], [[dpi.id]].
+
 - **Continental state of play — 44 laws, 38 authorities (end-2025).** The authoritative annual
   roundup ([[2026-01-11 The Year of the Teeth Data Protection in Africa Roundup, 2025, Projections for 2026]],
   [[digital-policy-alert]] × [[tech-hive-advisory]]) counts **≥44 African countries with
