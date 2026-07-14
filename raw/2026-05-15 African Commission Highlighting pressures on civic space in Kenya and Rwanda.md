@@ -1,11 +1,17 @@
 ---
-page: 
-title: African Commission: Highlighting pressures on civic space in Kenya and Rwanda - ARTICLE 19
-author: 
-published: 
-accessed: 2026-07-14
-source: https://www.article19.org/resources/african-commission-highlighting-pressures-on-civic-space-in-kenya-and-rwanda/
-keywords: 
+type: source
+title: "African Commission: Highlighting pressures on civic space in Kenya and Rwanda"
+url: https://www.article19.org/resources/african-commission-highlighting-pressures-on-civic-space-in-kenya-and-rwanda/
+publisher: ARTICLE 19
+author: ARTICLE 19 Eastern Africa
+published: 2026-05-15
+date_precision: month
+date_source: proxy
+ingested: 2026-07-14
+places: [KEN, RWA, XEA]
+topics: [gov.protect, infra.cybersec, gov.legislate, include.divides]
+entities: [[article-19], [african-commission]]
+lens: []
 ---
 
 # African Commission: Highlighting pressures on civic space in Kenya and Rwanda - ARTICLE 19

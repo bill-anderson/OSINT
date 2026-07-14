@@ -1,11 +1,17 @@
 ---
-page: 
-title: An investigation of digital transformation initiatives in South African rural local municipalities
-author: 
-published: 
-accessed: 2026-07-14
-source: https://sajim.co.za/index.php/sajim/article/view/2077/3555
-keywords: Business; Administration; Management; Communication; Computer; Information Science; Multimedia Systems; Applications; Information; knowledge; management; project; study; research; social; media; data; factors; quality; analysis; software; projects; sharing; development; process; business; technology; respondents; system; communication; content; mobile; records; public; model; students; agile; organization; systems; community; managers; online; time; learning; users; services; email; theory; work; environment; libraries; financial; findings; different; education
+type: source
+title: "An investigation of digital transformation initiatives in South African rural local municipalities"
+url: https://sajim.co.za/index.php/sajim/article/view/2077
+publisher: South African Journal of Information Management (SAJIM)
+author: Vusani Netshirando; Willard Munyoka; Armstrong Kadyamatimba
+published: 2025-01-01
+date_precision: year
+date_source: proxy
+ingested: 2026-07-14
+places: [ZAF]
+topics: [digital.localgov, digital.rural, gov.policy, include.divides, infra.connect]
+entities: [[sita], [salga]]
+lens: [sovereignty]
 ---
 
 # An investigation of digital transformation initiatives in South African rural local municipalities | Netshirando | South African Journal of Information Management

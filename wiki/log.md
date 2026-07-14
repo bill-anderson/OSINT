@@ -2091,3 +2091,29 @@ locality), COG (GSMA digital economy — stub topics expanded); entities-index r
 cross-border divergence, Ghana/DRC/Togo) and its restated global figures kept off concept/place pages.
 **Flags:** Model Framework is modelled on the US DHS resilience template (noted). **Contradictions/gaps:**
 none new.
+
+---
+
+## 2026-07-14 — H1-2026 ingest, Batches F (digital rights) & G (SA e-gov / DT academic)
+
+**Batch F — Ingested (4 sources):** ARTICLE 19 civic-space (Kenya/Rwanda, ACHPR May-2026 sessions,
+2026-05 proxy, clip); Pollicy *Systemic Barriers* Afro-feminist DPI analysis (Uganda/Kenya/SA, 2026-01,
+PDF); Bloggers of Zambia *State of Internet Freedom 2026* (6th ed., 2026-04 proxy, PDF); Access Now
+*#KeepItOn Internet Shutdowns 2025* (2026-03, PDF).
+
+**Batch G — Ingested (5 sources):** SAJIM — Gauteng municipal-healthcare DT framework (2025-05 proxy);
+SA rural-municipalities DT (2025 proxy/year); DT & transformational leadership (2026 proxy/year); EJISDC
+e-government platform-governance, Ghana (2026-03-11); AJIS SITA centralized-ICT-procurement (2026-02).
+
+**Entities created (5):** article-19, access-now, pollicy, bloggers-of-zambia, salga.
+
+**Pages updated:** concept synthesis on digital.localgov (G) and include.divides (F); ZMB hub (new cyber
+laws); entities-index rows. Tanzania's 8 shutdowns kept on the KeepItOn source page + include.divides
+(not fanned to the TZA hub).
+
+**Filing fix:** the 4 G items are markdown *clips* (full paper text), not PDFs — initially mis-filed as
+PDF-companion summary pages; corrected to frontmatter-transformed clips retaining the paper body.
+
+**Flags:** KeepItOn — **no Uganda-Starlink order** in the document (a common mis-claim), corrected on the
+source page. Several academic clips lost their publication date in clipping (proxy/year; verify via DOI).
+Bloggers of Zambia title-year ("2026/6th ed." vs "2025") noted. **Contradictions/gaps:** none new.

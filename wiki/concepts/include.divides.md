@@ -19,6 +19,17 @@ geography, and increasingly by **access to compute/intelligence**.
 
 ## Key material
 
+- **DPI, shutdowns and civic space: exclusion by design and by governance (2026 H1).** Pollicy's
+  Afro-feminist analysis argues DPI in Uganda/Kenya/South Africa is state-centric and reproduces gendered
+  and minority exclusion; Access Now records **313 shutdowns in 52 countries in 2025** (Tanzania the worst
+  African offender, 8; a five-day election blackout), with ECOWAS-Court/ACHPR/ICC pushback; ARTICLE 19
+  flagged surveillance and cybercrime-law misuse in Kenya and Rwanda at the ACHPR; and Bloggers of Zambia
+  tracked new interception-enabling cyber laws before the 2026 polls. Sources:
+  [[2026-01-01 Systemic Barriers Gendered Consequences An Afro-feminist Analysis of DPI]],
+  [[2026-03-01 Rising Repression Meets Global Resistance Internet Shutdowns in 2025]],
+  [[2026-05-15 African Commission Highlighting pressures on civic space in Kenya and Rwanda]],
+  [[2026-04-01 State of Internet Freedom in Zambia 2026 6th Edition]]. See [[gov.protect]], [[dpi.id]].
+
 - **ID as a gate that excludes (2026 H1).** Mandatory SIM-registration and national-ID requirements
   exclude the undocumented: CMU-Africa finds **>1 in 3** interviewees failed ID registration on the
   first attempt and many bank under a **third-party ID**; Caribou documents refugees in Kenya cut off

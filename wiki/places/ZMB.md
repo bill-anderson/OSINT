@@ -23,6 +23,12 @@ last_reviewed: 2026-07-12
   (infrastructure, emerging tech, skills), building on existing **[[huawei]]/ZTE**
   investments; statements of intent, no new deal. Source:
   [[2026-06-08 Zambia, China deepen digital ties]]. See [[geopol.china]], [[infra.connect]].
+- **2026-04** — **New surveillance-enabling cyber laws before the 2026 polls.** Bloggers of Zambia's 6th
+  digital-rights report flags the **Cyber Security Act No. 3 / Cyber Crimes Act No. 4 of 2025** (ISP
+  real-time interception; a Central Monitoring Centre) and a CCTV (Public Protection) Bill, alongside a
+  now-operational Office of the Data Protection Commissioner (even as Cabinet plans to repeal the 2021
+  Data Protection Act) and a post-election **digital-ID (INRIS) deferral**. Rated "Partly Free" (62/100).
+  [[2026-04-01 State of Internet Freedom in Zambia 2026 6th Edition]] · [[gov.legislate]] · [[gov.protect]]
 - **2026-04-04** — **Chinese surveillance.** An IDS "Smart City Surveillance in Africa"
   survey lists **Lusaka** among Chinese-supplied ([[hikvision]] / [[zte]] / [[huawei]])
   smart-city deployments, finding mass surveillance **despite no terrorism threat** and

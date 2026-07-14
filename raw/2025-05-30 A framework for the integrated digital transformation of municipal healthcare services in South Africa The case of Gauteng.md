@@ -1,11 +1,17 @@
 ---
-page: 
-title: A framework for the integrated digital transformation of municipal healthcare services in South Africa: The case of Gauteng
-author: 
-published: 
-accessed: 2026-07-14
-source: https://sajim.co.za/index.php/sajim/article/view/2134/3616
-keywords: Business; Administration; Management; Communication; Computer; Information Science; Multimedia Systems; Applications; Information; knowledge; management; project; study; research; social; media; data; factors; quality; analysis; software; projects; sharing; development; process; business; technology; respondents; system; communication; content; mobile; records; public; model; students; agile; organization; systems; community; managers; online; time; learning; users; services; email; theory; work; environment; libraries; financial; findings; different; education
+type: source
+title: "A framework for the integrated digital transformation of municipal healthcare services in South Africa: The case of Gauteng"
+url: https://sajim.co.za/index.php/sajim/article/view/2134
+publisher: South African Journal of Information Management (SAJIM)
+author: Musawakhe H. Khumalo; Tankiso S. Moloi
+published: 2025-05-30
+date_precision: month
+date_source: proxy
+ingested: 2026-07-14
+places: [ZAF]
+topics: [dpi.mis, digital.localgov, include.divides, include.access, gov.policy]
+entities: []
+lens: []
 ---
 
 # A framework for the integrated digital transformation of municipal healthcare services in South Africa: The case of Gauteng | Khumalo | South African Journal of Information Management

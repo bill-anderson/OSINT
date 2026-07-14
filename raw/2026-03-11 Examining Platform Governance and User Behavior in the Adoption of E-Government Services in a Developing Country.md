@@ -1,11 +1,17 @@
 ---
-page: 
-title: Examining Platform Governance and User Behavior in the Adoption of E‐Government Services in a Developing Country
-author: Abdallah Abdul-Salam
-published: 
-accessed: 2026-07-14
-source: https://onlinelibrary.wiley.com/doi/10.1002/isd2.70063
-keywords: 
+type: source
+title: "Examining Platform Governance and User Behavior in the Adoption of E-Government Services in a Developing Country"
+url: https://doi.org/10.1002/isd2.70063
+publisher: EJISDC (Wiley)
+author: Abdallah Abdul-Salam; Ibrahim Osman Adam; Mansah Preko
+published: 2026-03-11
+date_precision: day
+date_source: source
+ingested: 2026-07-14
+places: [GHA, XWA]
+topics: [dpi.govtech, gov.policy, include.access]
+entities: []
+lens: []
 ---
 
 # Examining Platform Governance and User Behavior in the Adoption of E‐Government Services in a Developing Country - Abdul‐Salam - 2026 - THE ELECTRONIC JOURNAL OF INFORMATION SYSTEMS IN DEVELOPING COUNTRIES - Wiley Online Library

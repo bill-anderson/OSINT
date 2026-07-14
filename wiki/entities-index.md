@@ -196,6 +196,11 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 | The Lawyers Hub | KEN, XAF | tech.ai, gov.policy, gov.protect | [[lawyers-hub]] |
 | Internet Society (ISOC) | XAF, XGL | infra.connect, include.access, gov.standards | [[internet-society]] |
 | Export-Import Bank of China (China Eximbank) | XAF, XGL | finance.new, geopol.china, infra.connect | [[china-eximbank]] |
+| ARTICLE 19 | KEN, RWA, XEA, XAF | gov.protect, gov.legislate, include.divides | [[article-19]] |
+| Access Now (#KeepItOn) | XAF, XGL | infra.connect, gov.legislate, gov.regional | [[access-now]] |
+| Pollicy | UGA, KEN, ZAF, XAF | dpi.id, gov.protect, include.divides | [[pollicy]] |
+| Bloggers of Zambia | ZMB, XAF | gov.protect, gov.legislate, include.divides | [[bloggers-of-zambia]] |
+| South African Local Government Association (SALGA) | ZAF | digital.localgov, gov.policy | [[salga]] |
 
 ## Government bodies
 

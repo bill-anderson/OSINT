@@ -6,7 +6,7 @@ places: [MWI, CMR, CIV]
 entities: [[blantyre-city-council], [malawi-revenue-authority], [undp], [maposte]]
 lens: []
 status: active
-last_reviewed: 2026-07-11
+last_reviewed: 2026-07-14
 sources: [[2026-03-06 Malawi's second city digitises tax collection], [2026-01-13 Cameroon intros digital system for civil documents]]
 ---
 
@@ -17,6 +17,18 @@ registration and local service delivery — distinct from national DPI programme
 the layer where citizens actually meet the state.
 
 ## Key material
+
+- **South African public-sector DT: culture and capacity, not tech (2026 H1).** A cluster of SAJIM/AJIS
+  studies finds the binding constraints are institutional: **organisational culture** (not digital
+  maturity or leadership) is the strongest determinant of DT across Gauteng government entities; rural
+  (B3/B4) Limpopo municipalities lack the **dynamic capabilities** to move beyond digitalising
+  communications; Gauteng municipal clinics stall on infrastructure/funding/skills; and centralised ICT
+  procurement via **[[sita]]** produces rigidity ("reform or redundancy"). Ghana's "e-government paradox"
+  echoes it — adoption is mediated by governance, not user acceptance. Sources:
+  [[2026-01-01 Digital transformation A model of transformational leadership in an organisation]],
+  [[2025-01-01 An investigation of digital transformation initiatives in South African rural local municipalities]],
+  [[2026-02-01 SITA and the Paradox of Centralized ICT Procurement in South Africas Public Sector]],
+  [[2026-03-11 Examining Platform Governance and User Behavior in the Adoption of E-Government Services in a Developing Country]]. See [[dpi.govtech]], [[gov.policy]].
 
 - **[[MWI]] Blantyre digitises council tax (2026-03).** **[[blantyre-city-council]]** — Malawi's
   second city — partnered NBS Bank to digitise **revenue and tax collection** and let residents pay

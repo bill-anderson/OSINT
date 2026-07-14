@@ -1,11 +1,17 @@
 ---
-page: 
-title: Digital transformation: A model of transformational leadership in an organisation
-author: 
-published: 
-accessed: 2026-07-14
-source: https://sajim.co.za/index.php/sajim/article/view/2057/3522
-keywords: Business; Administration; Management; Communication; Computer; Information Science; Multimedia Systems; Applications; Information; knowledge; management; project; study; research; social; media; data; factors; quality; analysis; software; projects; sharing; development; process; business; technology; respondents; system; communication; content; mobile; records; public; model; students; agile; organization; systems; community; managers; online; time; learning; users; services; email; theory; work; environment; libraries; financial; findings; different; education
+type: source
+title: "Digital transformation: A model of transformational leadership in an organisation"
+url: https://sajim.co.za/index.php/sajim/article/view/2057
+publisher: South African Journal of Information Management (SAJIM)
+author: Sello E. Mmakau; Tebogo Sethibe
+published: 2026-01-01
+date_precision: year
+date_source: proxy
+ingested: 2026-07-14
+places: [ZAF]
+topics: [digital.localgov, gov.policy, capacity.training, capacity.research]
+entities: []
+lens: [sovereignty]
 ---
 
 # Digital transformation: A model of transformational leadership in an organisation | Mmakau | South African Journal of Information Management
