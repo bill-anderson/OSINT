@@ -2158,3 +2158,19 @@ coverage** across all raw/ sources (1,139 distinct topic×place pairs):
   untouched.
 Done deterministically in a single awk pass (Git Bash `<()` process-substitution proved unreliable and was
 avoided). Row/line counts unchanged (topics-index 36 topic lines; places-index 56 country + 8 region rows).
+
+---
+
+## 2026-07-14 — Lint follow-up: 2 pre-existing dead links fixed
+
+Full 11-check lint (run on request) came back clean for the H1-2026 ingest. Two pre-existing dead links
+resolved — both were **binary artefacts in `raw/` that never got their companion `.md` source page**, so
+the dated `[[…]]` citations had nothing to resolve to:
+- **`2026-07-11 data-systems-crossroads.pdf`** (PARIS21 DP22, *Data Systems at a Crossroads*) — 8 dead
+  references. Created the companion source page; standing synthesis remains at instrument entity
+  [[data-systems-crossroads]].
+- **`2025-01-01 SE_GISW-Gillwald_final.pdf`** (Gillwald, GISW WSIS+20 special edition) — 1 dead reference.
+  Created the companion source page; synthesis at [[gillwald-digital-inequality-paradox-2025]].
+Both filed at their existing dated names (proxy dates, precision year) so all citations resolve. **Corpus
+dead-link count is now 0** (excluding the whitelisted lens values). Remaining lint notes are advisory:
+page-bloat on ~16 large pages (deferred editorial pass) and the standing `_review.md` worklist.
