@@ -1,0 +1,494 @@
+---
+page: 
+title: Africa’s Data Protection Reforms: A Continental Perspective on the Drivers of Change in Legal Frameworks
+author: Mercy King’ori
+published: 
+accessed: 2026-07-14
+source: https://fpf.org/blog/africas-data-protection-reforms-a-continental-perspective-on-the-drivers-of-change-in-legal-frameworks/
+keywords: 
+---
+
+# Africa’s Data Protection Reforms: A Continental Perspective on the Drivers of Change in Legal Frameworks
+
+> ## Excerpt
+> FILTER March 12, 2026 Share on Facebook Share on LinkedIn Share on Twitter Share through Email Mercy King’ori Policy Manager for Africa About Mercy Blogs by Mercy Bianca-Ioana Marcu Managing Director 
+
+---
+FILTER
+
+March 12, 2026
+
+[Share on Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Ffpf.org%2Fblog%2Fafricas-data-protection-reforms-a-continental-perspective-on-the-drivers-of-change-in-legal-frameworks%2F) [Share on LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Ffpf.org%2Fblog%2Fafricas-data-protection-reforms-a-continental-perspective-on-the-drivers-of-change-in-legal-frameworks%2F&title=Africa%E2%80%99s+Data+Protection+Reforms%3A+A+Continental+Perspective+on+the+Drivers+of+Change+in+Legal+Frameworks&summary=1.+Introduction+Within+an+evolving+digital+landscape%2C+several+African+jurisdictions+have+proposed+a+variety+of+reforms+to+existing+and+novel+legal+frameworks+that+regulate+the+processing+of+personal+data%2C+and+the+development+and+deployment+of+new+technologies.+Across+the+continent%2C+there+is+a+growing+consensus+among+legislators+on+the+need+to+create+a+regulatory+environment+%5B%26hellip%3B%5D&source=https://fpf.org) [Share on Twitter](https://twitter.com/intent/tweet?text=Africa%E2%80%99s+Data+Protection+Reforms%3A+A+Continental+Perspective+on+the+Drivers+of+Change+in+Legal+Frameworks&url=https%3A%2F%2Ffpf.org%2Fblog%2Fafricas-data-protection-reforms-a-continental-perspective-on-the-drivers-of-change-in-legal-frameworks%2F) [Share through Email](mailto:?subject=Africa%E2%80%99s+Data+Protection+Reforms%3A+A+Continental+Perspective+on+the+Drivers+of+Change+in+Legal+Frameworks&body=https%3A%2F%2Ffpf.org%2Fblog%2Fafricas-data-protection-reforms-a-continental-perspective-on-the-drivers-of-change-in-legal-frameworks%2F)
+
+Mercy King’ori
+
+Policy Manager for Africa
+
+[About Mercy](https://fpf.org/person/mercy-kingori/)
+
+[Blogs by Mercy](https://fpf.org/person/mercy-kingori/#blog)
+
+Bianca-Ioana Marcu
+
+Managing Director for Europe
+
+[About Bianca-Ioana](https://fpf.org/person/bianca-marcu/)
+
+[Blogs by Bianca-Ioana](https://fpf.org/person/bianca-marcu/#blog)
+
+**1\. Introduction**
+
+Within an evolving digital landscape, several African jurisdictions have proposed a variety of reforms to existing and novel legal frameworks that regulate the processing of personal data, and the development and deployment of new technologies. Across the continent, there is a growing consensus among legislators on the need to create a regulatory environment that is responsive and adaptable to a changing technological landscape and a growing digital economy.
+
+This blog traces data protection legal and policy reforms across **seven African countries, including Nigeria, Kenya, Angola, Ghana, Mauritius, Botswana, and Seychelles,** to identify their **scope, rationale, and common and diverging themes**. The blog also briefly looks at the regional and sub-regional legal reforms to note the potential implications for other countries that might consider similar reforms and eventual harmonization. 
+
+While these developments are unfolding across Africa, they are occurring alongside broader global efforts to rethink data protection frameworks. As discussions around data protection policy reforms are intensifying in jurisdictions such as the European Union, which introduced a [simplification package](https://commission.europa.eu/law/law-making-process/better-regulation/simplification-and-implementation/simplification_en) to reduce regulatory burdens and boost competitiveness; the UK, which finalized reforms to its data protection framework through the [Data Use and Access Act](https://www.gov.uk/government/collections/data-use-and-access-act-2025) (2025); and South Korea, which [continues to explore legal reforms](https://fpf.org/blog/south-koreas-new-ai-framework-act-a-balancing-act-between-innovation-and-regulation/) to its data protection law to facilitate the development of AI, data protection reforms across the African continent bring a different flavor to addressing their needs. Indeed, legislators across African jurisdictions agree that any reforms or amendments must first and foremost be reflective of local realities. 
+
+In the closing section, the blog considers the future of legal reforms on the continent by drawing from ongoing discussions and lessons learned in other key jurisdictions. In doing so, **the following takeaways emerge:** 
+
+-   There is **a growing patchwork of legal reforms across the continent**, with data protection law reforms taking both unilateral trajectories, primarily driven by national interests and concerns, including AI related, and multilateral ones, such as the growing need for alignment with international standards.
+
+-   Notable among the drivers of change in data protection legal frameworks are: requirements to establish a local nexus that would support accountability of foreign companies; the need to address processing of personal data through AI systems; and ensuring interoperability with international frameworks.
+
+-   Some legislative initiatives to amend data protection laws on the continent stand out with **unique policy proposals**: for instance, Angola proposes to restrict data scraping and to require entities involved in AI systems to establish governance and data management practices that prevent discrimination, while Ghana is looking to codify property rights over personal data.
+
+-   While [Regional Economic Communities](https://fpf.org/wp-content/uploads/2024/02/Africa-RECs-Report-.pdf) (RECs) are also involved in reform processes, their historically minimal influence on national laws means that new approaches to encourage Member States to harmonize such reforms will be necessary.
+
+-   Legal reforms in Africa are set to continue and are likely to  be influenced by the changing technological landscape and reforms in jurisdictions that have historically influenced current data protection frameworks.
+
+Overall, most reforms are, for the time being, confined to national borders. However, legal reforms have also been proposed both continentally and at the sub-regional level, for example, through the [Economic Community of West African States’ (ECOWAS) reform](https://citizenengagement.nepad.org/engagement/revision-of-the-supplementary-act-asa10110-on-the-protection-of-personal-data-in-the-ecowas-region) of its Supplementary Act on Personal Data Protection. While these regional reforms have not gained much traction compared to national efforts, they are nonetheless crucial as they can continue to inform ongoing debates for legal reforms within their respective Member States.
+
+**2\. A new task for data protection law? New obligations for digital platforms and developer accountability**
+
+Despite being a relatively new law, [proposals](https://www.aluko-oyebode.com/insights/amendment-nigeria-protection-act-2024/) to amend the Nigeria Data Protection Act 2023 (NDPA) have already emerged through two separate legislative initiatives. The [first](https://www.youtube.com/watch?v=LtLuSPRHtxA), [**SB.650: Nigeria Data Protection Act (Amendment) Bill, 2024**](https://docs.google.com/document/d/1YpYdgOT1hIz2sCnxLRtuJ3ox2IXrS2Xj/edit?tab=t.0), seeks to amend the NDPA **by introducing requirements for social media companies to establish physical offices in the country**. **At present, no other substantive changes to the NDPA have been outlined, making this the central focus of the reform proposal.** The Bill, which is in its second reading, notes that while major social media platforms have significant Nigerian user engagement, they are yet to set up physical presence in Nigeria as they have done in other countries. 
+
+[According](https://x.com/Prince_NedNwoko/status/1902423797803688318) to the sponsor of the Bill, Senator Ned Nwoko, the establishment of a company’s physical presence will contribute to the economy as well as ensure their compliance with the country’s legal framework. The Bill was referred to the Senate Committee on ICT & Cybersecurity and a report was expected within two months. 
+
+The second legislative proposal, [**HB.2436:**](https://drive.google.com/file/d/1OL8uw7H0u1O0ouBo7jefEZqgu_3S3QlD/view) **Nigeria Data Protection (Amendment) Bill, 2025**, focuses on strengthening accountability in the digital ecosystem by introducing obligations for application developers, regulating third-party data sharing, and expanding the enforcement powers of the Nigeria Data Protection Commission. Among other provisions, the bill proposes requirements for application developers to register with the Commission, maintain data processing registers, implement consent interfaces, and conduct annual data protection impact assessments, while also introducing stricter rules governing third-party data sharing and related enforcement measures.
+
+However, while updates regarding the progress of both Bills have been limited, the decision to amend the NDPA to cover social media companies has been [criticized](https://techpolicyadvisory.com/nigerias-data-protection-act-is-not-a-catch-all-tool/) by civil society groups on grounds that the proposal to require social media companies to establish physical offices in the country may extend beyond the initial objectives of the country’s data protection framework. Indeed, **the NDPA is a principles-based data protection law that focuses on regulating the processing of data across all sectors, rather than regulating specific entities** such as social media companies. 
+
+A brief look at the [history of social media regulation](https://www.tandfonline.com/doi/full/10.1080/10811680.2023.2206382#abstract) in Nigeria shows that it is intricately connected with state regulation of the freedom of expression. While past attempts to regulate the use of social media platforms have largely been led by ad-hoc bans on the basis of national security concerns, the proposed Bill to amend the NDPA signals a new approach: one that **aims to progressively embed social media oversight within broader data governance frameworks**, starting with data protection law. In this case, Nigeria’s approach to amending its NDPA uniquely highlights how national-level priorities and new technological realities converge under the umbrella of data protection.
+
+**3\. Processing of sensitive personal data by third parties in Kenya** 
+
+Calls for amendments to Kenya’s Data Protection Act of 2019 (KDPA) began informally, largely owing to implementation challenges and gaps observed by controllers and processors. This was further solidified in the [Parliamentary Report](http://libraryir.parliament.go.ke/items/d67fab21-14e8-4320-8f1f-9e0a2250a881) on the inquiry into the activities and operations of WorldCoin in Kenya, completed in 2023. The inquiry was set up to establish the legality of WorldCoin’s processing of sensitive personal data by an ad hoc Parliamentary Committee. The resulting Report included considerations on legal and regulatory gaps to provide safeguards for this type of data processing activity. While not legally binding, the Parliamentary Committee’s findings have nevertheless informed the push to amend the KDPA on grounds including:
+
+-   Aligning the KDPA with the [Companies Act](https://new.kenyalaw.org/akn/ke/act/2015/17/eng@2023-09-15) (the legal framework that governs the formation, operation, and regulation of companies in Kenya) by requiring foreign companies to provide proof of registration with local regulatory bodies under Part XXXVII, before registering as data processors and/or controllers with the data protection authority;
+-   Requiring full disclosure on how data controllers and processors utilize and store personal and sensitive data collected in Kenya;
+-   Providing discretion to the Office of the Data Protection Commissioner (ODPC) in the imposition of administrative fines. It does not describe the nature of such possibly expanded discretion. Currently, the ODPC can impose administrative fines for violations under the KDPA only; and
+-   Creating a board to which the ODPC reports or accounts on its daily operations.
+
+Negotiations on the amendment of the KDPA are ongoing and public consultations are expected to happen soon. Early contributions have been made by organizations such as the [Data Protection and Governance Society of Kenya](https://wamaeallen.com/summary-of-the-data-protection-amendment-bill-2025/) proposing amendments such as the creation of a data protection appeals tribunal that would hear appeals from the ODPC. This would reduce the burden of appeals at the High Court, which have been numerous. They also suggest repealing Section 54 of the KDPA that provides the Data Protection Commissioner with powers to exempt compliance with certain provisions of the Act, unless such exemptions are provided for under other regulations. This approach would provide more certainty on the conditions for exemption. Overall, Kenya’s approach to amending its data protection framework is driven by a growing interest to address specific procedural challenges as related to enforcement. 
+
+**4\. Angola leads the way in amending its data protection law to address the need for regulating AI**
+
+Unlike Kenya and Nigeria, the discourse of data protection reform in Angola is driven by the need to regulate emerging technologies including AI. As African countries continue to carve out policy and legislative proposals aimed at regulating the development and deployment of AI, mostly in the form of national AI strategies, some countries are considering more specific legislation. In this respect, countries such as South Africa have proposed standalone AI legislation under its [National AI Framework](https://www.dcdt.gov.za/sa-national-ai-policy-framework/file/338-sa-national-ai-policy-framework.html), while others such as Angola **have opted to revise existing data protection laws to address privacy challenges posed by AI systems** already in use. 
+
+Angola’s [preparedness](https://apd.ao/ao/noticias/apd-analisa-em-seminario-o-dilema-entre-a-regulacao-da-inteligencia-artificial-e-a-inovacao-tecnologica-em-angola/) to regulate AI began with the recognition of privacy risks posed by AI. In March 2025, Angola’s data protection agency [released](https://www.consultapublica.gov.ao/consulta/100021) a public consultation on the revision of its 2011 data protection law. Besides introducing numerous new sections, the [draft revised law](https://drive.google.com/file/d/1J71OJ1o3f1q91Nd3pVgLBjpEhGqtYnFx/view?usp=drive_link) notably contains a section dedicated to AI. Its robust provisions on AI differentiate the law from other data protection laws in Africa, whose automated decision-making provisions mostly mimic Article 22 of the GDPR. Noteworthy aspects on the regulation of AI in the revised law include:
+
+-   **Legitimate use of AI in credit scoring** by requiring consent to process credit and solvency data, providing data subjects with the right not to be subject to fully automated evaluations—especially those using AI—that could negatively profile them. If credit-based decisions are made, data controllers must explain the algorithm and criteria used and inform individuals when a denial results from a credit report, including providing access to the report and identifying its source, as governed by specific credit data laws (Article 23); 
+-   **Providing data subjects the right not to be subjected to a decision solely based on automated or semi-automated processing with legal effects.** However, this right does not apply if the decision is necessary for a contract or based on the data subject’s explicit consent. In such cases, the data controller must provide clear and sufficient information about the decision-making criteria and procedures, while respecting trade and industrial secrets (Article 33);
+-   **Prohibiting the use of AI systems** that compromise privacy, exploit vulnerabilities, or lead to illegitimate or discriminatory profiling (Article 36);
+-   **Granting data subjects** the rights to receive clear and adequate information about an AI system’s characteristics; request explanations for decisions, recommendations, or predictions made by the system and challenge a system’s decisions; demand human participation in system decisions; and receive fair and equal treatment (Article  37);
+-   **Requiring entities involved in AI systems** to establish governance and data management practices that prevent discrimination and ensure legal compliance. Among other responsibilities, entities will be required to inform users that a service uses AI if this is not evident to a user, as well as develop mechanisms for explainability (Article 38);
+-   **Restricting data scraping and unauthorized data transfers,** addressing a core concern at the intersection of personal data processing for AI. Though it does not explicitly refer to AI, Article 82 prohibits and criminalizes the unauthorized scraping, copying, or transfer of personal data without legal authorization or the data subject’s consent, regardless of purpose. Violations can lead to imprisonment or fines, with doubled penalties if security measures are bypassed, financial gain is involved, or sensitive data is affected (Article 82).
+
+What stands out about Angola’s approach to reforming its data protection law is the explicit specification of rules with regard to the use of AI for credit scoring. Article 23 provides nuance to the proposed legal reforms by identifying country-specific challenges introduced by the use of AI, and specifically the use of AI-enabled systems for credit scoring, thus moving away from the more general automated decision-making provisions seen continentally.
+
+The use of AI in credit scoring remains one of the earliest uses of AI continentally and has generated considerable data protection concerns, leading to several landmark enforcement decisions in some countries and necessitating specific guidelines on the use of personal data by digital lenders. For example, Kenya’s [body of enforcement decisions](https://www.dataprivacyke.africa/wp-content/uploads/2025/02/DPGSK-Analysis-of-ODPC-2024-Determinations.pdf) consists of numerous such decisions including repeat offenders. The decision to specifically regulate the use of AI within the credit scoring industry points to the need to address subject-specific issues relating to the processing of personal data in Angola.Notably, Angola’s proposed reforms parallel the EU AI Act’s approach by specifically regulating AI-enabled credit scoring as a high-risk application, recognizing its widespread use and potential for harm. Like the **EU AI Act’s Annex III(5)(b)**, which classifies credit scoring as high-risk, Angola moves beyond general provisions on automated decision-making to addressing country-specific risks to data subjects.
+
+**5\. Mauritius seeks to boost its growing business processing outsourcing industry**
+
+National economic considerations such as Mauritius’ vision of becoming a preferred destination for business process outsourcing (BPO) and knowledge-based services have been central to its data protection reforms. The recently released [National ICT Blueprint](https://mdpa.govmu.org/mdpa/wp-content/uploads/2025/08/Blueprint-for-Mauritius-2025.pdf) views legal and regulatory reforms, including to the data protection framework, as enablers of Mauritius’ goals for economic growth. According to the Blueprint, Mauritius intends to align its national frameworks with the AU Data Policy Framework as well as create regulatory conditions for pursuing an EU adequacy decision. These ongoing reforms aim to position Mauritius as a leader for outsourced services.
+
+  
+Such economic considerations have been a major factor influencing the [repeated data protection law amendments](https://www.tandfonline.com/doi/abs/10.1080/13642987.2020.1783532) in Mauritius to date. Its first data protection law, enacted in 2004, was heavily influenced by the EU Data Protection Directive of 1995. The 2004 law was [amended twice](https://www.tandfonline.com/doi/abs/10.1080/13642987.2020.1783532) to bring the text of the law in closer alignment with the EU Data Protection Directive to provide Mauritius with better chances of accreditation by the European Commission as an adequate country, thus facilitating personal data transfers at a time when the country sought investments in its BPO sector, with the EU as its primary beneficiary. In [2017](https://dataprotection.govmu.org/Pages/The%20Law/Data-Protection-Act-2017.aspx), the current data protection law of Mauritius was enacted, repealing the 2004 law but maintaining the initial aspirations of being a leader in outsourced BPO service providers. This further saw Mauritius ratify Council of Europe’s [Convention 108](https://www.coe.int/en/web/data-protection/convention108-and-protocol), and [Convention 108+](https://search.coe.int/cm#%7B%22CoEIdentifier%22:[%2209000016807c65bf%22],%22sort%22:[%22CoEValidationDate%20Descending%22]%7D) in 2020.
+
+**6\. Botswana’s path to filling in practical implementation gaps**
+
+Botswana enacted its new data protection law in 2024, repealing the [2018](https://www.bocra.org.bw/sites/default/files/documents/32%20Act%2010-08-2018-Data%20Protection.pdf) law and introducing new provisions to address implementation gaps in the latter. The 2018 framework, which had been in transition since 2021, did not provide sufficient clarity on certain provisions, including the institutional independence of the Information and Data Protection Commission, the scope of its enforcement powers, or the practical obligations of data controllers and processors. 
+
+For example, when compared to most data protection laws on the continent, Botswana’s 2018 data protection law did not provide modalities for responding to data subject rights, and its limited focus on data controllers with processors treated merely as agents created ambiguity in shared compliance responsibilities. It also lacked provisions on accountability, joint controllership, or clear rules governing relationships between controllers and processors, including the use of sub-processors. Similarly, there were no requirements for data protection impact assessments (DPIAs) or structured procedures for breach notification beyond informing the Commission, and sanctions were limited to fixed fines and criminal penalties rather than risk-based administrative measures.
+
+The 2024 Act responds to such uncertainty by clearly defining the Commission’s authority, strengthening accountability mechanisms, and introducing risk-based tools such as DPIAs. It distinguishes between controllers and processors as separate entities with direct statutory obligations, introduces concepts of joint controllership and data protection by design and default, and requires formalised contractual arrangements for processor relationships, including restrictions on the use of sub-processors. The Act further mandates breach notifications to both the Commission and affected data subjects, introduces proportionate administrative fines, and establishes structured compliance roles such as Data Protection Officers (DPOs). These reforms, alongside an expanded territorial scope and refined definitions of sensitive data, collectively close the significant regulatory and operational gaps left by the 2018 framework.
+
+**7\. Seychelles’ reforms reflect clearer provisions and expanded transfer mechanisms while retaining limited extraterritorial application**
+
+Still on the shift from theoretical legal frameworks to practical and clearer provisions, Seychelles repealed its [2002 Data Protection Act](https://seylii.org/akn/sc/act/2003/9/eng@2014-12-01) which had never been implemented with the [2023](https://seylii.org/akn/sc/act/2023/24/eng@2023-12-22) Data Protection Act. The overhaul of Seychelles’ data protection regime marked a move from a largely symbolic framework to one grounded in enforcement, accountability, and operational clarity. Unlike the earlier law, which relied on formal registration of “data users” and “computer bureaux” but imposed few operational duties, the 2023 Act abandons registration in favour of an accountability-based model requiring data controllers and processors to maintain internal records, demonstrate compliance, and cooperate with regulatory audits. Security obligations have also evolved from a general duty to prevent unauthorized disclosure to a detailed mandate for technical, organisational, and physical safeguards, including breach notification duties.
+
+Equally, the 2023 Act introduced explicit obligations for data processors including acting only on a controller’s instructions, maintaining security measures, and being jointly liable for breaches supported by mandatory written contracts between controllers and processors that define purpose, scope, and safeguards. The law also embeds governance mechanisms through the requirement for DPOs and DPIAs for high-risk processing, neither of which existed in the 2002 text. 
+
+With regard to cross-border data transfers, the 2023 regime replaces the earlier “transfer prohibition notice” system with a more flexible approach permitting international data flows where adequate protection or recognised safeguards exist. Notably, the 2023 Act expressly recognises participation in frameworks such as the [Global Cross-Border Privacy Rules (CBPR) System](https://www.globalcbpr.org/), signalling Seychelles’ intention to align its transfer mechanisms with interoperable international privacy standards expanding mechanisms for transfers. 
+
+Finally, enforcement capacity has been strengthened with the 2023 Act empowering the Information Commission to conduct audits and inspections independently, issue enforcement notices, and impose administrative fines, enhancing oversight compared to the limited, warrant-based powers of the 2002 law. 
+
+While its territorial scope remains modest compared to broader extraterritorial models, these reforms collectively transform Seychelles’ data protection law into a more operational, risk-based, and globally interoperable framework.
+
+**8\. Ghana seeks to introduce a new Bill to strengthen enforcement and oversight, including broader data subject protections**
+
+Ghana first enacted its data protection law in 2012, which also established the Data Protection Commission. However, implementation challenges soon emerged, including the absence of a clear framework for cross-border data transfers, limited protection for vulnerable groups such as children, and a narrow scope of application compared to new generation data protection laws that did not extend to foreign entities offering goods or services in Ghana. These gaps created practical and regulatory difficulties. On 17 October, the new [Data Protection Bill](https://moc.gov.gh/wp-content/uploads/2023/03/DATA-PROTECTION-BILL.pdf), 2025, spearheaded by the Ministry of Communication, Digital Technology, and Innovations, was therefore introduced with the aim of addressing these shortcomings and modernizing the country’s data governance framework.
+
+Overall, the Bill aims to strengthen oversight by introducing clearer obligations, enhanced data subject rights, and a more robust regulatory structure. Particularly, it introduces key reforms by addressing emerging privacy challenges associated with new technologies, introducing data ownership rights, and refining exemptions for the processing of personal data.
+
+In contrast to Angola’s targeted approach to addressing privacy concerns in AI systems, Ghana seeks to adopt a broader stance by regulating all emerging technologies, including AI systems, insofar as they process personal data. For automated decision-making (ADM) systems, the Bill would require outcomes to be explainable, contestable, and subject to human oversight, obligations that were absent from the 2012 Act which only required notification when decisions involved ADM. The Bill also aims to introduce explicit requirements for the use of privacy-enhancing technologies in ADM systems, a novel provision not contained in the earlier law.
+
+On data ownership, the Bill would introduce a **data ownership framework that recognises personal data as the property of the data subject,** and establish a fiduciary-style relationship between data subjects and controllers. Under this model, controllers and processors are deemed custodians of personal data with a duty of care, and any form of processing does not confer ownership rights including for public authorities. If passed, **Ghana would become one of the few jurisdictions globally to recognise the proprietary nature of personal data**, with significant implications for secondary data use, AI development, and the application of rights such as the right to object to processing. The Bill was open for public consultation until 28 November 2025, and could be adopted as early as 2026.
+
+Regarding exemptions, the Bill aims to retain the broad exemption themes found in the 2012 Act, but significantly expand and refine them. While both instruments include exemptions for national security, the 2012 Act required a ministerial certificate to validate the exemption. The 2025 Bill removes this safeguard, a notable development given the increasing reliance on public-interest grounds to limit privacy protections across the continent.
+
+Crucially, the Bill would introduce a comprehensive regime for cross-border data transfers, which was absent from the 2012 Act. The new framework emphasizes data localization, unless such localization would impair business operations. Where transfers are necessary, the Bill would require data subject consent, approval from the Data Protection Authority, and compliance with additional conditions designed to safeguard personal data before it leaves Ghana.
+
+**9\. The patchwork challenge: emerging regional frameworks**
+
+Even as countries unilaterally consider legal reforms, there are regional plans, led by the AU and the respective RECs, to amend or create new data protection frameworks for their Member States. Regional initiatives must navigate a complex landscape where many States already have distinct data protection regimes. At the continental level, the AU [announced](https://au.int/en/bids/20220617/consultancy-services-review-malabo-convention-cyber-security-and-personal-data) plans to revise the Malabo Convention. At the sub-regional level, ECOWAS is expected to [revise](https://www.raosupportcellecowas.com/post/ecowas-workshop-on-revising-the-supplementary-act-on-the-protection-of-personal-data) the Supplementary Act on Data Protection, the East Africa Community (EAC) is [developing](https://www.eac.int/press-releases/3195-eac-set-to-advance-data-governance-and-protection-with-development-of-a-regional-policy-framework) its data governance framework, and the Southern Africa Development Community (SADC) has plans to [revise](https://www.sadc.int/sites/default/files/2021-12/CONSULTANCY_FOR_THE_SADC_DATA_PROTECTION_MODEL_LAW_161121.pdf) the Model Law. Despite their [minimal influence](https://fpf.org/wp-content/uploads/2024/02/Africa-RECs-Report-.pdf) on national laws, legal reforms at the REC level could spur similar actions for Member States, especially in the ECOWAS region where the [Supplementary Act on Personal Data Protection](https://ictpolicyafrica.org/pt/document/z69cbq7b51?page=2) is legally binding on member states.
+
+As legal reforms continue, bigger questions of what will be the drivers of such reforms remain, especially considering that some African countries still maintain legal frameworks influenced by the now-defunct 1995 EU Data Protection Directive. 
+
+**9.1. Development and deployment of AI in Africa**
+
+Strongly tied to the aspect of responsible data use is the development of local AI systems as well as the general adoption of AI across the continent. Discussions of the former largely revolve around the lack of local datasets for training AI models, hence the emergence of [targeted initiatives](https://www.masakhane.io/) seeking to address this issue. The theory that effective data protection regimes can allow responsible local data collection and use has advanced, as seen in continental data governance frameworks such as the [AU Data Policy Framework](https://au.int/sites/default/files/documents/42078-doc-DATA-POLICY-FRAMEWORKS-2024-ENG-V2.pdf).
+
+Additionally, the risks posed by the general adoption of AI have been highlighted on the continent as drivers of legal reforms in countries such as Angola, as explored above. **Data protection frameworks have been fronted as useful instruments for ensuring responsible development and deployment of AI** as seen in the text of numerous national AI strategies, some of which note, however, that ADM provisions alone may not be sufficient for addressing AI harms. For example, the AI Policy Framework of South Africa [considers a standalone AI Act](https://www.dcdt.gov.za/sa-national-ai-policy-framework/file/338-sa-national-ai-policy-framework.html) to complement its national data protection law.
+
+While there is growing regulatory momentum on comprehensive AI specific laws, there are currently no AI specific laws that provide guidance on the development and deployment of high-risk AI systems. Nonetheless, [**some DPAs**](https://www.certafoundation.rw/resource/state-of-ai-regulation-in-africa-trends-and-developments) **on the continent are grappling with the foundational questions of what privacy risks are unfolding in the use of AI systems**. DPA activities related to regulating AI have included Senegal’s CDP [rejecting an application for the use of facial recognition systems](https://web.archive.org/web/20240419180203/https://www.cdp.sn/content/avis-trimestriel-n%C2%B001-2023-de-la-commission-de-protection-des-donnees-personnelles-du-0) in the workplace requiring the controller to use less intrusive means of registering work attendance and [Mauritius](https://dataprotection.govmu.org/Communique/Guide%20on%20Data%20Protection%20for%20health%20data%20and%20AI.pdf)’ data protection authority’s Guide on Data Protection for Health Data and Artificial Intelligence. Such approaches signal that even though considerations towards stand-alone AI regulation on the continent are in their nascent stages, **DPAs are nevertheless addressing new AI technologies on the basis of national data protection law**, either in the form of guidance or through enforcement.
+
+**10\. Concluding reflections: The future of data protection legal reforms in Africa**
+
+The EU, whose data protection legal framework has been relied on by many African countries, is currently considering amendments to its existing data protection framework through an [Omnibus initiative](https://digital-strategy.ec.europa.eu/en/library/digital-omnibus-regulation-proposal). Amendments to laws that have largely informed legal frameworks across Africa could provide a moment of reflection for the “recipient” countries, some of which have already registered the challenges of implementing current data protection frameworks, especially for SMEs, and questioned the impact of the “Brussels effect” for their own national data protection laws.
+
+In addition to the shifts noted in the EU, **legal reforms in Africa are also increasingly influenced by the growing recognition of** [**data**](https://www.facebook.com/ndpcngr/posts/the-nigeria-data-protection-act-ndp-act-2023-is-not-just-a-legislation-it-is-a-n/771046115588013/) **as a** [**national asset**](https://www.facebook.com/honkabogo/videos/cross-border-data-flow-in-the-eac/1210126493993061/) **and the subsequent need for autonomy on its protection and governance.** There are already new [sector-specific regulations](https://kenyalaw.org/kl/fileadmin/pdfdownloads/Acts/2023/TheDigitalHealthAct_2023.pdf) that place emphasis on balancing data use and protection, as well as explicitly designating governments as custodians of such data. Implementation of these sector-specific laws has revealed gaps in foundational data protection frameworks, prompting legal reforms towards frameworks that not only safeguard rights but also enable responsible data access and re-use.
+
+As data protection reforms take shape across the continent, the question is not whether change will come but, rather, what form it will take. 
+
+Last Updated: March 12, 2026
+
+## Explore
+
+## Data Brokers & Beyond: Navigating New Jersey’s Data Broker & “Data Collector” Registration Law
+
+## FPF Hosts Frontiers Workshop on Privacy, AI, and Emerging Infrastructure
+
+## FPF’s 2026 DC Privacy Forum: Leading Voices in AI, Privacy and Emerging Technology
+
+## Understanding Data Embassies and Corridors
+
+## Perseverance Pays Off for Vermont Privacy Efforts
+
+## Frontier AI Goes Federal: How the Great American AI Act Compares to State Laws
+
+## Privacy Becomes You, Bayou State: A Look at the Louisiana Data Privacy Act
+
+## Comparing Enacted App Store Accountability Acts
+
+## No Silver Bullet, But a Silver Lining? PETs and International Data Transfers
+
+## Career Choice in the AI Age: What Next for Privacy and Data Professionals?
+
+#### Dates
+
+None Past Month Past Year Custom Range
+
+#### Content Types
+
+### Publication Types
+
+White Papers(106)
+
+Filings(60)
+
+Infographics(31)
+
+Events(26)
+
+Reports(21)
+
+Videos(21)
+
+See 1 moreSee less
+
+#### Issues
+
+### Issues
+
+Global(251)
+
+U.S. Legislation(183)
+
+Youth Privacy(182)
+
+Artificial Intelligence(174)
+
+Research & Ethics(104)
+
+Smart Communities(79)
+
+Health(62)
+
+Mobility & Location(59)
+
+Ad Tech(57)
+
+Cybersecurity(37)
+
+De-Identification(34)
+
+Biometrics(24)
+
+Immersive Technologies(22)
+
+Global Legislation(15)
+
+Latin America(14)
+
+Privacy Enhancing Technologies(13) \[+\]
+
+Confidential Computing(4)
+
+Ed Tech(12)
+
+Africa(11)
+
+International Data Transfers(6)
+
+AgeTech(5)
+
+India(5)
+
+Open Banking(5)
+
+Education Privacy(3)
+
+#### Topics
+
+### Tags
+
+Guest expert(10)
+
+AI & Machine Learning(1)
+
+Privacy Enhancing Technologies(1)
+
+#### FPF Staff
+
+### Authors
+
+Jules Polonetsky(164)
+
+Stacey Gray(61)
+
+Gabriela Zanfir-Fortuna(41)
+
+Dominic Paulger(26)
+
+Daniel Berrick(24)
+
+Rob van Eijk(22)
+
+Tatiana Rice(21)
+
+Jameson Spivack(17)
+
+Jordan Francis(23)
+
+Peter Swire(12)
+
+Jordan Wrigley(14)
+
+Maria Badillo(13)
+
+Mercy King’ori(10)
+
+Daniel Hales(14)
+
+Lee Matheson(9)
+
+Josh Lee Kok Thong(8)
+
+Justine Gluck(13)
+
+Shea Swauger(6)
+
+Andreea Șerban(7)
+
+Sakshi Shivhare(6)
+
+Jim Siegl(7)
+
+Bianca-Ioana Marcu(8)
+
+Zoë Strickland(3)
+
+Adrienne Cuffley(3)
+
+Bilal Mohamed(3)
+
+Joana Bala(1)
+
+Megan McCollum(2)
+
+Malavika Raghavan(2)
+
+Mark MacCarthy(1)
+
+Doug Miller(2)
+
+Kwang Bae Park(1)
+
+Brenda Leong(167)
+
+Matthew Reisman(1)
+
+Desara Dushi(3)
+
+Vincenzo Tiani(1)
+
+Andrew Gruen(1)
+
+Niharika Vattikonda(2)
+
+Beth Do(8)
+
+Vasileios Rovilos(4)
+
+Alexander Thompson(1)
+
+Christina Michelakaki(5)
+
+Alyssa Rosinski(1)
+
+David Sallay(4)
+
+Felicity Slater(13)
+
+Stephanie Wong(3)
+
+Aaron Massey(4)
+
+Samuel Adams(3)
+
+Adonne Washington(6)
+
+Chloe Suzman(2)
+
+Isabella Perera(2)
+
+Jamie Gorosh(5)
+
+Sivan Tamir(1)
+
+Amie Stepanovich(5)
+
+Keir Lamont(22)
+
+Chloe Altieri(10)
+
+Amber Ezzell(6)
+
+Alexa Mooney(2)
+
+Lauren Merk(3)
+
+Hunter Dorwart(7)
+
+Clarisse Girot(3)
+
+Miles Light(1)
+
+Payal Shah(1)
+
+Sebastião Barros Vale(15)
+
+Katerina Demetzou(12)
+
+Nancy Levesque(18)
+
+Samuel Adams(1)
+
+Marcus Dessalgne(2)
+
+Bailey Sanchez(22)
+
+Karsen Bailey(1)
+
+Joseph Jerome(71)
+
+editor(32)
+
+Sophia Landress(1)
+
+Jenn Abramson(2)
+
+Matthew Green(2)
+
+Andrew Blanchard-Reed(1)
+
+Noelle Johnson(1)
+
+Kobie Pruitt(7)
+
+Jackson Lingane(1)
+
+Marianne Varkiani(15)
+
+Nat Wood(1)
+
+FPF Fellow(6)
+
+Carson Martinez(6)
+
+Margaret Honda(3)
+
+Melanie E. Bates(35)
+
+Sara Collins(3)
+
+Limor Shmerling Magazanik(1)
+
+Leslie Harris(1)
+
+Amelia Vance(33)
+
+Pollyanna Sanderson(17)
+
+Anisha Reddy(4)
+
+Tyler Park(2)
+
+Sara Jordan(8)
+
+Rachele Hendricks-Sturrup(3)
+
+Christy Harris(4)
+
+Kelsey Finch(18)
+
+Chelsey Colbert(6)
+
+Katelyn Ringrose(10)
+
+Jasmine Park(7)
+
+Charlotte Kress(1)
+
+Jeremy Greenberg(13)
+
+Alyssa Benton(1)
+
+John Verdi(8)
+
+See 97 moreSee less
+
+#### Guest Authors
+
+### Guest Authors
+
+Christopher Kuner(2)
+
+Yeong Zee Kin(2)
+
+Doug Miller(1)
+
+Haksoo Ko(1)
+
+Submit

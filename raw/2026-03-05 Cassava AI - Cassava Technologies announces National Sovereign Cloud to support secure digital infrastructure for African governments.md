@@ -1,0 +1,34 @@
+---
+type: source
+title: "Cassava Technologies announces National Sovereign Cloud for African governments"
+publisher: Cassava AI
+url: https://www.cassava.ai/2026/03/05/cassava-technologies-announces-national-sovereign-cloud-to-support-secure-digital-infrastructure-for-african-governments/
+published: 2026-03-05
+accessed: 2026-06-12
+ingested: 2026-07-10
+places: [XAF]
+topics: [dpi.govtech, gov.protect, tech.ai, infra.store, infra.capacity, capacity.training]
+entities: [[national-sovereign-cloud], [cassava-technologies], [cassava-ai]]
+lens: [sovereignty]
+---
+
+<!-- First-party launch: NSC for African governments (cloud, cyber, compute/AI, local-language
+     models, AI Institute, payments layer). Quoted: Ahmed El Beheiry (Group COO / CTO & AI). -->
+
+# Cassava AI - Cassava Technologies announces National Sovereign Cloud to support secure digital infrastructure for African governments
+
+> ## Excerpt
+> Cassava Technologies, a global technology leader of African heritage, today announced its National Sovereign Cloud (NSC) solution, designed to support African
+
+---
+Cassava Technologies, a global technology leader of African heritage, today announced its National Sovereign Cloud (NSC) solution, designed to support African governments with secure, locally-governed digital infrastructure that enables the deployment of AI-enabled public services.
+
+The solution provides government customers with Cloud, Cyber Security, Compute AI infrastructure, Local-Language AI models, and an AI Institute to support national platforms across the public sector. It further supports collaboration with the public sector by developing digital skills for both enterprises and individuals to help ensure African economies can fully and securely participate in the digital economy.  
+
+Building upon this secure foundation, the strategy also includes high-impact delivery through AI applications and specialised Payments & Remittances infrastructure. This involves deploying conversational AI to enhance citizen engagement, creating AI models tailored to local languages, and driving financial inclusion.
+
+Through these advancements, Cassava and its [Cloud Partners](https://www.cassavatechnologies.com/cassava-technologies-launches-cassava-cloud-partner-programme-to-accelerate-ai-and-cloud-adoption-across-emerging-markets/) aim to enable governments to deploy AI-driven applications that improve public service delivery, strengthen citizen engagement, protect against emerging digital threats, and support economic development.
+
+“Across Africa, governments are accelerating their digital transformation agendas and are increasingly focused on ensuring that data and digital infrastructure remain secure and sovereign,” said Ahmed El Beheiry, Group COO and Group Chief Technology & AI Officer, Cassava Technologies. “Our National Sovereign Cloud solution enables governments to develop secure AI and Cloud environments that support national digital transformation while empowering African developers, enterprises, and institutions to create solutions that address the continent’s unique needs.”
+
+By combining sovereign cloud infrastructure, advanced AI compute capabilities, and secure connectivity, Cassava serves as a technology partner, supporting Africa’s digital transformation by developing trusted, sovereign digital ecosystems.

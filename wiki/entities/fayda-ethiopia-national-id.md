@@ -1,0 +1,72 @@
+---
+type: entity
+entity_type: initiative
+title: Fayda — Ethiopia National Digital ID
+places: [ETH, MOZ, ZMB]
+topics: [dpi.id, include.divides, dpi.pay, gov.policy]
+lens: [sovereignty]
+status: active
+last_reviewed: 2026-07-11
+sources: [[2026-07-06 Safaricom Ethiopia partners National ID Program to expand digital identity registration], [2026-05-12 Strengthening Fayda Ethiopia's improvement journey through the Digital ID Assessment], [2024-01-16 Digital ID], [2026-04-28 Mozambique taps Ethiopia's digital ID expertise in DPI partnership], [2026-03-24 Zambia looking for MOSIP system integrator to support digital ID project], [2026-01-27 Digital Ethiopia 2030 Charting a Sovereign Path to Prosperity], [2026-03-04 Ethiopia's approach to use cases shows how to ground data governance in real-world priorities], [2026-01-07 Why Ethiopia, Somalia and Djibouti are starting to matter in digital Africa]]
+---
+
+# Fayda — Ethiopia National Digital ID
+
+Ethiopia's foundational digital-identity programme, run by the **National ID Program**
+(Executive Director **Yodahe Zemichael**) as a key component of the **Digital Ethiopia**
+strategy — pitched for financial inclusion, service delivery and governance.
+
+## Activity in this wiki
+
+- **Registration scale-up (2026-07).** The National ID Program brought in [[safaricom]]
+  (Safaricom Ethiopia) and Africom Technologies PLC under a Joint Venture Agreement to
+  deliver **Lots 3 & 4** of the registration project across seven regions (Afar, Amhara,
+  Tigray, Sidama, South West, Central and South Ethiopia). See
+  [[safaricom-ethiopia-fayda-jv]], [[ETH]], [[dpi.id]].
+- **Scale & continuous evaluation (2026-05).** Fayda passed **42m+ registrations** with
+  **130+ agency integrations**, tracking toward its **90m-enrolments-by-2028** target. NIDP
+  adopted DIAL's **[[digital-id-assessment]]** (first run early 2025, re-run 2026) as an
+  official monitoring mechanism to gauge design maturity. See [[gov.standards]],
+  [[capacity.research]]. Source:
+  [[2026-05-12 Strengthening Fayda Ethiopia's improvement journey through the Digital ID Assessment]].
+- **Digital Ethiopia 2030 anchor (2026-01).** Under [[digital-ethiopia-2030]], Fayda is
+  positioned as "the key to all public and private services," targeting **every adult
+  holding a digital ID by 2030** and enabling access to banking, healthcare and government
+  services via the MESOB one-stop platform. See [[gov.policy]], [[dpi.pay]]. Source:
+  [[2026-01-27 Digital Ethiopia 2030 Charting a Sovereign Path to Prosperity]].
+- **Cross-cutting enabler in data-strategy use cases (2026-03).** In [[dial]]'s use-case
+  work grounding Ethiopia's national data strategy, Fayda surfaced as a potential enabler
+  across agricultural priorities (AI advisory, farmer credit), though rural gender gaps in
+  access (81% rural vs 29% urban mobile-internet gap) temper reach. See [[include.divides]],
+  [[dpi.exchange]]. Source:
+  [[2026-03-04 Ethiopia's approach to use cases shows how to ground data governance in real-world priorities]].
+- **Authentication layer for Ethiopia's DPI (mid-2025 milestone).** Fayda registrations
+  surpassed **12 million** by mid-2025, already integrated across 12 federal institutions —
+  the biometric authentication layer underpinning Ethiopia's DPI (since grown to 42m+, above).
+  See [[ETH]], [[dpi.id]]. Source:
+  [[2026-01-07 Why Ethiopia, Somalia and Djibouti are starting to matter in digital Africa]].
+- **DIAL assessment adopter (2024, background).** Ethiopia's NIDP was among the first
+  countries to use DIAL's 12-category Digital ID Assessment to benchmark Fayda's design.
+  See [[dial]], [[digital-id-assessment]]. Source: [[2024-01-16 Digital ID]].
+- **DPI exporter — Mozambique MoU (2026-04).** NIDP and its business arm **FaydaVerse**
+  signed a 3-year MoU to support Mozambique's new [[atdi-mozambique]] on digital-ID
+  platforms, DPI pilots, interoperability and joint cybersecurity — positioning
+  Ethiopia/Fayda as a South-South DPI exporter (cf. a comparable Ethiopia–Zambia deal). See
+  [[mozambique-ethiopia-dpi-mou]], [[MOZ]], [[dpi.exchange]]. Source:
+  [[2026-04-28 Mozambique taps Ethiopia's digital ID expertise in DPI partnership]].
+- **DPI export — Zambia MoU (2026-03).** As Zambia builds its own MOSIP-based,
+  home-grown national digital ID under [[dzap]], [[smart-zambia-institute]] cited an
+  MoU with Ethiopia to learn from the Fayda model — a further instance of Fayda as a
+  South-South DPI reference. See [[ZMB]], [[dpi.exchange]]. Source:
+  [[2026-03-24 Zambia looking for MOSIP system integrator to support digital ID project]].
+
+## Sources
+
+- [[2026-07-06 Safaricom Ethiopia partners National ID Program to expand digital identity registration]]
+- [[2026-05-12 Strengthening Fayda Ethiopia's improvement journey through the Digital ID Assessment]]
+- [[2024-01-16 Digital ID]]
+- [[2026-04-28 Mozambique taps Ethiopia's digital ID expertise in DPI partnership]]
+- [[2026-03-24 Zambia looking for MOSIP system integrator to support digital ID project]]
+- [[2026-01-27 Digital Ethiopia 2030 Charting a Sovereign Path to Prosperity]]
+- [[2026-03-04 Ethiopia's approach to use cases shows how to ground data governance in real-world priorities]]
+- [[2026-01-07 Why Ethiopia, Somalia and Djibouti are starting to matter in digital Africa]]

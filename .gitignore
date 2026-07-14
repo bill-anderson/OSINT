@@ -1,0 +1,15 @@
+# Immutable binary artefacts — tracked by their companion .md source pages, not directly.
+# Keeps the repo lean; PDFs/images are only ever moved, never edited.
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+*.docx
+*.xlsx
+*.zip
+.git-note
+.obsidian/
+.claude/
+.trash/
