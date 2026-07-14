@@ -19,6 +19,14 @@ geography, and increasingly by **access to compute/intelligence**.
 
 ## Key material
 
+- **ID as a gate that excludes (2026 H1).** Mandatory SIM-registration and national-ID requirements
+  exclude the undocumented: CMU-Africa finds **>1 in 3** interviewees failed ID registration on the
+  first attempt and many bank under a **third-party ID**; Caribou documents refugees in Kenya cut off
+  from health cover (SHA) and mobile money, and tens of thousands of citizens denied IDs via
+  double-registration. Sources:
+  [[2026-01-01 My Money, Your Name Challenges and Workarounds in ID-Required Mobile Money in East Africa]],
+  [[2026-02-01 Digital Identity and Migration Struggles for Equitable Technology Governance]]. See [[dpi.id]], [[include.access]].
+
 - **The AI divide (2026-06, *The Sun* / Ademola).** A new axis of exclusion: "the digital
   divide is no longer about access to the internet; it is about access to intelligence."
   Africa hosts **<1%** of global HPC; institutions pay 25–40% more for cloud compute;

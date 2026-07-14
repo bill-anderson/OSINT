@@ -49,6 +49,11 @@ market's velocity.
   partnership to share infrastructure and reach overseas markets. Talks only, no
   signed deal. Source: [[2026-01-29 Ethio Telecom, Somcable talk cross-border collaboration]].
   See [[infra.connect]], [[gov.regional]], [[finance.mou]], [[ETH]].
+- **2026-01-16** — **Unified Digital CRVS in production (OpenCRVS).** Somalia’s [[opencrvs]]-based Unified
+  Digital Civil Registration System is now production-level across **30 districts** and **160 hospitals**,
+  with **28,000+ births** registered at point of occurrence — foundational legal identity rebuilt in a
+  fragile state via a digital public good.
+  [[2026-01-16 OpenCRVS Somalia Unified Digital Civil Registration System]] · [[dpi.registry]] · [[include.access]]
 - **2026-01-07** — **Horn of Africa framing.** Feature positioning Somalia (with
   **[[ETH]]** and **[[DJI]]**) as an emerging digital force. Somalia's mobile money
   processes ~**650m transactions/yr**, worth ~**$8bn (36% of GDP)**, with **~$2bn/yr

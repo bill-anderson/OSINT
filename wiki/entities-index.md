@@ -181,6 +181,9 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 | CIPESA | UGA, XEA, XAF | gov.protect, tech.ai, dpi.exchange | [[cipesa]] |
 | Centre for the Study of the Economies of Africa (CSEA) | NGA, ZAF, XAF | gov.policy, tech.ai, gov.protect | [[csea]] |
 | African Commission on Human and Peoples’ Rights (ACHPR) | XAF | gov.protect, gov.regional, gov.legislate | [[african-commission]] |
+| Carnegie Mellon University Africa (CMU-Africa) | RWA, KEN, TZA, XAF | dpi.id, capacity.research, tech.ai | [[cmu-africa]] |
+| Caribou (Caribou Digital) | KEN, XAF, XGL | dpi.id, gov.protect, include.access | [[caribou]] |
+| Co-Develop | STP, XAF, XGL | dpi.govtech, dpi.id, finance.new | [[co-develop]] |
 
 ## Government bodies
 

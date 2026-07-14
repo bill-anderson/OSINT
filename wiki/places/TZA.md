@@ -82,6 +82,11 @@ last_reviewed: 2026-07-11
   [[2026-03-05 Safeguarding Tanzania's information integrity]]. See [[include.divides]],
   [[infra.connect]], [[gov.policy]]. *(No dedicated disinformation/shutdown taxonomy slug —
   tagged to nearest; possible taxonomy gap flagged for human.)*
+- **2026-01-01** *(fieldwork 2022; CHI ’26)* — **Third-party SIMs in mobile money.** CMU-Africa’s
+  72-interview study (Kenya + Tanzania) finds Tanzania’s **biometric-fingerprint** SIM verification blocks
+  ID-borrowing (unlike Kenya), yet ID-required mobile money still pushes many onto agent-registered SIMs;
+  **>1 in 3** interviewees failed ID registration on the first attempt.
+  [[2026-01-01 My Money, Your Name Challenges and Workarounds in ID-Required Mobile Money in East Africa]] · [[dpi.id]] · [[dpi.pay]]
 - **2026-01-01** — **Starlink turns partner.** **[[starlink]]** ([[spacex]]) signed
   **[[airtel-africa]]** (Direct-to-Cell across 14 markets) and **[[vodacom]]** (LEO backhaul +
   reseller across 25 countries); Starlink was live in 25 African markets including **Tanzania**

@@ -1,11 +1,17 @@
 ---
-page: 
-title: My Money, Your Name: Challenges and Workarounds in ID-Required Mobile Money in East Africa | Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems
-author: Authors Info & Claims
-published: 
-accessed: 2026-07-14
-source: https://dl.acm.org/doi/10.1145/3772318.3791007
-keywords: 
+type: source
+title: "My Money, Your Name: Challenges and Workarounds in ID-Required Mobile Money in East Africa"
+url: https://doi.org/10.1145/3772318.3791007
+publisher: ACM (CHI 2026)
+author: CMU-Africa (author names per ACM DOI)
+published: 2026-01-01
+date_precision: year
+date_source: proxy
+ingested: 2026-07-14
+places: [KEN, TZA, XEA, XSS]
+topics: [dpi.id, dpi.pay, gov.protect, include.access, gov.legislate, digital.rural]
+entities: [[cmu-africa], [safaricom], [gsma], [gates-foundation]]
+lens: [sovereignty]
 ---
 
 # My Money, Your Name: Challenges and Workarounds in ID-Required Mobile Money in East Africa | Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems

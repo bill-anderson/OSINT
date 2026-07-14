@@ -144,6 +144,11 @@ last_reviewed: 2026-07-14
 - **2026-02-19** — A [[kenya-india-italy-sovereign-ai-partnership]] letter of intent at the India AI Impact Summit targets 100 African AI deployments by 2030, prioritising multilingual voice AI. [[2026-02-20 Kenya, India and Italy Launch Trilateral Sovereign AI Partnership for Africa]] · [[tech.ai]]
 - **2026-02-06** — The [[cbn]] proposes bilateral fintech-licence passporting with Kenya, Ghana, Senegal and South Africa — a test of AfCFTA financial integration. [[2026-02-06 Nigeria just raised the bar for West African Fintech]] · [[gov.regional]]
 - **2026-02-04** — PS John Tanui hosted a German ministry delegation toward a [[kenya-germany-ai-centre]] Centre of African Excellence for Applied AI, anchored on [[kenya-aist]]. [[2026-02-04 Kenya, Germany forge path for AI centre]] · [[tech.ai]]
+- **2026-02-01** — **ID as a gate that excludes (two studies).** Caribou’s *Digital Identity and Migration*
+  documents refugees in Kenya shut out of the **Social Health Authority** and **M-PESA** by SIM/ID rules,
+  and tens of thousands of citizens denied national IDs via double-registration; CMU-Africa’s CHI ’26
+  fieldwork (Kenya + Tanzania) shows mandatory SIM-ID rules driving **third-party SIM** banking.
+  [[2026-02-01 Digital Identity and Migration Struggles for Equitable Technology Governance]] · [[2026-01-01 My Money, Your Name Challenges and Workarounds in ID-Required Mobile Money in East Africa]] · [[dpi.id]] · [[include.divides]]
 - **2026-01-28** — [[ixafrica-data-centres]] named host for the [[oracle]] Cloud Infrastructure Nairobi region — Kenya's first public cloud region ([[ixafrica-oracle-oci-nairobi]]). [[2026-01-28 iXAfrica, Oracle to launch Kenya's first public cloud region]] · [[infra.store]]
 - **2026-01-27** — The [[european-union]]-funded $3.56m, 36-month [[kenya-cyber-resilience-project]] launched to harden critical infrastructure and build cyber skills. [[2026-01-27 Kenya launches project to boost cyber security]] · [[infra.cybersec]]
 - **2026-01-26** — The World Bank's 2025 [[gtmi]] places Kenya in Group A ("Extensive"), cited for eCitizen front-end services and digital-ID rollout. [[2026-01-26 Tanzania's GovTech success raises bar for East Africa's digital states]] · [[dpi.govtech]]

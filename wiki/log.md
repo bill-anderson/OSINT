@@ -1974,3 +1974,31 @@ polls). entities-index rows added (all 18).
 consistent with the existing 44/38 count thread.)
 
 **Gaps flagged:** GAP-003 (national DPA entity pages) — see `_review.md`.
+
+---
+
+## 2026-07-14 — H1-2026 ingest, Batch B (digital ID / foundational identity)
+
+**Ingested (5 new sources + 1 dedup):**
+- Clips → `raw/`: World Bank Benin "C’est Moi"/WURI (2026-05-20); OpenCRVS Somalia CRVS (2026-01-16,
+  **proxy**/month — page undated); CDPI São Tomé Citizen Portal (2026-04-07); CMU-Africa *My Money, Your
+  Name* CHI ’26 (2026, **proxy**/year — clip lost authors + date, retrieve from DOI 10.1145/3772318.3791007).
+- PDF (artefact + companion): Caribou *Digital Identity and Migration* (2026-02-01).
+- **Dedup:** the DIAL *Strengthening Fayda* case study was **already held** (`2026-05-12 …`, cited by
+  [[fayda-ethiopia-national-id]] and the ETH hub). Deleted the duplicate source page I had created; instead
+  **attached the source PDF artefact** to the existing 2026-05-12 page (kept its date to preserve links;
+  cover states only "May 2026"). No new ETH-hub/entity entries — already present.
+
+**Entities created (3):** cmu-africa, caribou, co-develop.
+
+**Pages updated:** concept bullets on dpi.id and include.divides (last_reviewed → 2026-07-14). Hubs: BEN
+(WURI), SOM (OpenCRVS), STP (Citizen Portal — stub→active, topics/entities expanded), KEN + TZA (ID-as-
+exclusion). entities-index rows (3).
+
+**Editorial calls:** My Money / Caribou are ID-*exclusion* evidence — filed under dpi.id + include.divides
+with the ID-rollout wins (Benin/Ethiopia/Somalia/São Tomé) framed as the countervailing thread. Non-African
+cases in the Caribou report (EU/UK/Germany) covered on the source page but not place-tagged. Existing-entity
+bullet edits (opencrvs, wuri-programme, cdpi) **deferred to Obsidian backlinks** — source pages, hubs and
+concept bullets already link them.
+
+**Contradictions:** none new. **Gaps:** none new (GAP-003 from Batch A still stands).

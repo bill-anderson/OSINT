@@ -20,6 +20,11 @@ last_reviewed: 2026-07-11
   (land transport), **ANIP** (identity) and **DGI** (tax); the public-services portal (PNS)
   and Ministry of Economy & Finance are the heaviest clients. Source:
   [[2026-07-11 UXP Directory]]. See [[dpi.exchange]], [[dpi.govtech]], [[data.statistics]].
+- **2026-05-20** — **"C’est Moi" reaches 7.7m (WURI).** A World Bank feature on the [[wuri-programme]]
+  reports ~**99% biometric enrolment** and **7.7m** Personal Identification Numbers issued via
+  [[anip-benin]]’s "C’est Moi" card (6.1m certificates free), unlocking credit, mobile-money accounts and
+  schooling — part of the $273m WURI project ($45m for Benin) across six West African states.
+  [[2026-05-20 Transforming lives in Benin a unique identification system]] · [[dpi.id]] · [[benin--dpi-id]]
 - **2026-05-16** — **APDP as a working data-protection authority.** At the ID4Africa 2026
   AGM, Benin's APDP (rapporteur Amouda Abou Seydou) was profiled as operational within a
   broader trust ecosystem: it maintains a **specific AI policy** plus strict purpose

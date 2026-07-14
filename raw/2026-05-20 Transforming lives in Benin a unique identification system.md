@@ -1,11 +1,17 @@
 ---
-page: 
-title: Transforming lives in Benin: a unique identification system
+type: source
+title: "Transforming lives in Benin: a unique identification system"
+url: https://www.worldbank.org/en/news/feature/2026/05/20/transforming-lives-in-benin-a-unique-identification-system
+publisher: World Bank
 author: World Bank Group
 published: 2026-05-20
-accessed: 2026-07-14
-source: https://www.worldbank.org/en/news/feature/2026/05/20/transforming-lives-in-benin-a-unique-identification-system
-keywords: Africa(AFR),Inclusive Growth,Benin(BJ),Social Inclusion,Economic Growth,Public Sector Management
+date_precision: day
+date_source: source
+ingested: 2026-07-14
+places: [BEN, XWA]
+topics: [dpi.id, dpi.registry, include.access, finance.new, dpi.pay]
+entities: [[world-bank], [wuri-programme], [anip-benin]]
+lens: []
 ---
 
 # Transforming lives in Benin: a unique identification system

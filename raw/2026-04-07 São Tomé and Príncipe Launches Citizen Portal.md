@@ -1,12 +1,17 @@
 ---
-page: 
-title: São Tomé and Príncipe Launches Citizen Portal
-author: CDPI Team 
-          Apr 7, 2026 | 11:49 am
-published: 
-accessed: 2026-07-14
-source: https://cdpi.dev/blog/sao-tome-and-principe-launches-citizen-portal/
-keywords: 
+type: source
+title: "São Tomé and Príncipe Launches Citizen Portal"
+url: https://cdpi.dev/blog/sao-tome-and-principe-launches-citizen-portal/
+publisher: Centre for Digital Public Infrastructure (CDPI)
+author: CDPI Team
+published: 2026-04-07
+date_precision: day
+date_source: source
+ingested: 2026-07-14
+places: [STP]
+topics: [dpi.govtech, dpi.id, dpi.exchange, include.access]
+entities: [[cdpi], [world-bank], [co-develop]]
+lens: []
 ---
 
 # São Tomé and Príncipe Launches Citizen Portal | CDPI

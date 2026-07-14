@@ -1,11 +1,17 @@
 ---
-page: 
-title: Somalia
-author: 
-published: 
-accessed: 2026-07-14
-source: https://www.opencrvs.org/about-us/country-stories/somalia
-keywords: 
+type: source
+title: "OpenCRVS: Somalia’s Unified Digital Civil Registration System"
+url: https://www.opencrvs.org/about-us/country-stories/somalia
+publisher: OpenCRVS
+author: OpenCRVS
+published: 2026-01-16
+date_precision: month
+date_source: proxy
+ingested: 2026-07-14
+places: [SOM]
+topics: [dpi.id, dpi.registry, dpi.mis, include.access]
+entities: [[opencrvs]]
+lens: []
 ---
 
 # OpenCRVS | Somalia

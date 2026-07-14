@@ -4,8 +4,8 @@ title: São Tomé and Príncipe
 code: STP
 parent: XWA
 place_kind: country
-topics: [gov.protect, gov.policy, gov.regional]
-status: stub
+topics: [gov.protect, gov.policy, gov.regional, dpi.govtech, dpi.id, dpi.exchange, include.access]
+status: active
 last_reviewed: 2026-07-14
 ---
 
@@ -28,6 +28,13 @@ governance at national level. Stub — expand as sources accrue.
   Source: [[2026-07-13 D4D Hub on Sao Tome and Principe]]. See [[gov.protect]], [[gov.policy]],
   [[gov.regional]], [[capacity.training]], [[XWA]].
 
+- **2026-04-07** — **Citizen Portal launched (verifiable-credentials pathway).** São Tomé launched its
+  **Citizen Portal** (beta) on **27 Mar 2026**, funded by World Bank digitisation financing and
+  **[[co-develop]]**, with technical advisory from **[[cdpi]]** — a pathway to verifiable credentialing
+  (tax, police clearances; later education certificates) and a growing Lusophone-Africa DPI footprint.
+  Launch coincided with the 18th anniversary of INIC (Institute for Innovation and Knowledge).
+  [[2026-04-07 São Tomé and Príncipe Launches Citizen Portal]] · [[dpi.govtech]] · [[dpi.id]]
+
 ## Active topics
 
 - [[gov.protect]] · [[gov.policy]] — nationalising the **[[au-data-policy-framework]]**;
@@ -37,4 +44,5 @@ governance at national level. Stub — expand as sources accrue.
 ## Entities
 
 - [[d4d-hub]] · [[au-data-policy-framework]] · [[auda-nepad]] · [[kictanet]] · [[giz]] · [[african-union]] · [[european-union]]
+- [[cdpi]] · [[co-develop]] · [[world-bank]] — Citizen Portal (2026).
 - Mentioned, not hubbed: Paula Medina (EU Delegation to São Tomé).

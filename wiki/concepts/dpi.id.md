@@ -16,6 +16,18 @@ Foundational identity as the anchor of digital public infrastructure.
 
 ## Key material — continental & thematic
 
+- **Foundational ID: rollout wins and exclusion harms in parallel (2026 H1).** Coverage milestones —
+  Benin’s WURI **"C’est Moi"** (~99% biometric enrolment, 7.7m NPIs; [[wuri-programme]], [[anip-benin]]),
+  Ethiopia’s **[[fayda-ethiopia-national-id]]** (>42m registrations, 130+ integrations), Somalia’s
+  production **[[opencrvs]]** CRVS (30 districts, 160 hospitals) and São Tomé’s citizen portal — sit
+  alongside evidence of ID-gated exclusion: CMU-Africa documents mandatory SIM-ID rules driving
+  **third-party SIM** use in Kenya/Tanzania, and Caribou shows refugee IDs shut out of Kenya’s Social
+  Health Authority and M-PESA. Sources:
+  [[2026-05-20 Transforming lives in Benin a unique identification system]],
+  [[2026-01-16 OpenCRVS Somalia Unified Digital Civil Registration System]],
+  [[2026-01-01 My Money, Your Name Challenges and Workarounds in ID-Required Mobile Money in East Africa]],
+  [[2026-02-01 Digital Identity and Migration Struggles for Equitable Technology Governance]]. See [[include.access]], [[dpi.pay]].
+
 - **Decentralised ID means different things by country (2026-05, reference explainer).**
   [[mosip]] now holds **MoUs with 29 countries** and underpins national IDs in Ethiopia,
   Uganda and Sierra Leone (Morocco the first implementer); **[[TGO]] Togo** has issued
