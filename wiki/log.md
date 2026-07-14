@@ -2040,3 +2040,27 @@ DPI Roadmap Playbook filed as a standing **instrument** + dated companion source
 (entered into force Jun 2023); wiki [[malabo-convention]] page is correct, source's phrasing noted on its
 page (not a wiki contradiction). SIIPS historical values restated via World Bank Atlas method → differ from
 prior editions (methodological). **Contradictions:** none new. **Gaps:** none new.
+
+---
+
+## 2026-07-14 — H1-2026 ingest, Batch D (AI governance & strategy)
+
+**Ingested (6 sources):**
+- Clips: CIPESA rights-centred submission to Uganda's AI strategy (2026-05-11); MISA Zimbabwe National AI
+  Strategy critique (2026-06-23); RIA "From digital ID to AI in policing" / SoNA 2026 (2026-02-13);
+  Brookings/Gabon "sequence, not rush into AI" (2026-02-10).
+- PDFs (artefact + companion): CIPIT "Rethinking Ownership…IP for African AI" (2026-04-19, proxy);
+  Lawyers Hub "Africa–Europe Cooperation on AI Governance" (2026-05, month).
+
+**Entities created (5):** misa, brookings, lawyers-hub, zimbabwe-national-ai-strategy (instrument),
+project-pangolin (initiative).
+
+**Pages updated:** tech.ai concept synthesis; hubs ZWE (AI strategy), ZAF (SoNA), UGA (CIPESA submission);
+entities-index rows. GAB hub **not** edited (the Brookings piece is continental commentary by Gabon's
+minister — GAB source tag suffices).
+
+**Flags:** the Lawyers Hub report carries several **in-source** inconsistencies (Africa Declaration
+signatories 52 vs 49; two distinct AI funds — $200m governance vs $60bn; divergent compliance-cost and
+AI-investment-share figures) — noted on its source page, not wiki contradictions. It also records **South
+Africa's draft AI Policy withdrawn (April 2026)** over AI-fabricated citations. tech.ai now well over the
+~2,500-word threshold (bloat flag stands). **Contradictions/gaps:** none new.

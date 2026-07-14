@@ -47,6 +47,12 @@ last_reviewed: 2026-07-11
   suffered **legal or operational breakdowns from weak safeguards** in the data-collection
   process. Source: [[2026-05-16 World Bank, African DPAs outline formula for trusted digital identity, DPI]].
   See [[gov.protect]].
+- **2026-05-11** — **Rights-centred AI-strategy submission (CIPESA).** [[cipesa]] urged Uganda's AI &
+  Emerging Technologies Strategy taskforce (Ministry of ICT) to adopt rights-by-design: mandatory Human
+  Rights Impact Assessments for high-risk AI (health, agriculture, taxation, law enforcement), safeguards
+  on the algorithmic profiling already in digital lending/mobile money, local datasets, and a national AI
+  research fund — warning Uganda risks becoming a "raw data supplier to foreign tech."
+  [[2026-05-11 CIPESA Urges Rights-Centred Approach to Uganda’s AI Strategy]] · [[tech.ai]] · [[gov.policy]]
 - **2026-04-21** — **Emaisha Pay** (agro-trade payments and embedded finance) joins
   **[[google-for-startups-accelerator-africa]]** Class 10; alumnus M-Scan (portable
   ultrasound) is cited as a program success. Source:

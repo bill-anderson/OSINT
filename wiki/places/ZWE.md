@@ -21,6 +21,12 @@ last_reviewed: 2026-07-11
   model, operational control retained by Powertel). Deal:
   [[powertel-paratus-fibre-corridor]]. See [[infra.connect]], [[gov.regional]].
   Source: [[2026-07-06 Powertel, Paratus Zimbabwe switch on new digital highway]].
+- **2026-06-23** — **National AI Strategy 2026–2030 — rights risks.** MISA Zimbabwe (Helen Sithole) warns
+  the strategy ([[zimbabwe-national-ai-strategy]]) centralises data and verification authority without
+  safeguards — **[[project-pangolin]]** (National AI & Data Platform), an AI–Cybersecurity Fusion Centre
+  and a National Reality Check Platform layered on Cyber & Data Protection Act s.164C and an executive-run
+  monitoring centre with no judicial oversight. "Ubuntu"/"data sovereignty" framing, but no legal force.
+  [[2026-06-23 Implications of Zimbabwe’s National AI Strategy on Freedom of Expression Privacy and Access to Information]] · [[tech.ai]] · [[gov.protect]]
 - **2026-06** — Zimbabwe named the **fastest-growing African Starlink market**
   (67,057 subscribers, Q4 2025, +31.6% QoQ). Source:
   [[2026-06-16 Who Owns Africa's Sky]]. See [[infra.connect]], [[starlink]].

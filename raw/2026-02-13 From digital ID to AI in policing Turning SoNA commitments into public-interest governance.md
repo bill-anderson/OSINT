@@ -1,11 +1,17 @@
 ---
-page: 
-title: From digital ID to AI in policing: Turning SoNA commitments into public-interest governance
+type: source
+title: "From digital ID to AI in policing: Turning SoNA commitments into public-interest governance"
+url: https://researchictafrica.net/2026/02/13/from-digital-id-to-ai-in-policing-turning-sona-commitments-into-public-interest-governance/
+publisher: Research ICT Africa
 author: Kola Ijasan
 published: 2026-02-13
-accessed: 2026-07-14
-source: https://researchictafrica.net/2026/02/13/from-digital-id-to-ai-in-policing-turning-sona-commitments-into-public-interest-governance/
-keywords: 
+date_precision: day
+date_source: source
+ingested: 2026-07-14
+places: [ZAF]
+topics: [dpi.id, tech.ai, gov.policy, infra.store, include.divides]
+entities: [[research-ict-africa], [cyril-ramaphosa], [mymzansi], [sa-digital-id-regulations]]
+lens: [sovereignty, colonialism]
 ---
 
 # From digital ID to AI in policing: Turning SoNA commitments into public-interest governance - Research ICT Africa

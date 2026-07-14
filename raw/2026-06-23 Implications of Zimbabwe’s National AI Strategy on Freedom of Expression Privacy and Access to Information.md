@@ -1,11 +1,17 @@
 ---
-page: 
-title: Implications of Zimbabwe’s National AI Strategy on Freedom of Expression, Privacy, and Access to Information
-author: 
+type: source
+title: "Implications of Zimbabwe’s National AI Strategy on Freedom of Expression, Privacy, and Access to Information"
+url: https://misa.org/blog/implications-of-zimbabwes-national-ai-strategy-on-freedom-of-expression-privacy-and-access-to-information/
+publisher: MISA Zimbabwe
+author: Helen Sithole
 published: 2026-06-23
-accessed: 2026-07-14
-source: https://misa.org/blog/implications-of-zimbabwes-national-ai-strategy-on-freedom-of-expression-privacy-and-access-to-information/
-keywords: 
+date_precision: day
+date_source: source
+ingested: 2026-07-14
+places: [ZWE]
+topics: [tech.ai, gov.policy, gov.protect, infra.cybersec, gov.legislate, include.divides]
+entities: [[misa], [zimbabwe-national-ai-strategy], [project-pangolin]]
+lens: [sovereignty]
 ---
 
 # Implications of Zimbabwe’s National AI Strategy on Freedom of Expression, Privacy, and Access to Information | MISA Regional

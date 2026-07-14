@@ -191,6 +191,9 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 | CIPIT (Strathmore) | KEN, XAF | gov.protect, dpi.pay, tech.ai | [[cipit]] |
 | Media Foundation for West Africa (MFWA) | GHA, XWA, XAF | gov.protect, include.divides, capacity.training | [[media-foundation-west-africa]] |
 | Alliance of Digital Finance & Fintech Associations (AllianceDFA) | XAF, XGL | dpi.pay, gov.regional, include.access | [[alliancedfa]] |
+| MISA (Media Institute of Southern Africa) | ZWE, XSA, XAF | gov.protect, tech.ai, gov.legislate | [[misa]] |
+| Brookings Institution (AGI) | XAF, XGL | gov.policy, tech.ai, gov.regional | [[brookings]] |
+| The Lawyers Hub | KEN, XAF | tech.ai, gov.policy, gov.protect | [[lawyers-hub]] |
 
 ## Government bodies
 
@@ -353,6 +356,7 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 | Africa Declaration on Artificial Intelligence (Kigali) | XAF, RWA | tech.ai, gov.policy, gov.regional, finance.new | [[africa-ai-declaration]] |
 
 | Africa Data Leadership Initiative (ADLI) | XAF | dpi.exchange, gov.policy, data.open | [[africa-data-leadership-initiative]] |
+| Project Pangolin (Zimbabwe National AI & Data Platform) | ZWE | tech.ai, infra.store, gov.protect | [[project-pangolin]] |
 
 ## Deals
 
@@ -537,6 +541,7 @@ about or from one becomes a normal source that cites it.
 | Rwanda National Data Sharing Policy | RWA | dpi.exchange, data.open, gov.policy | [[rwanda-national-data-sharing-policy]] |
 | DPI Roadmap Playbook (AfricaNenda consortium) | XAF, ZAF | dpi.exchange, dpi.id, dpi.pay, gov.policy | [[dpi-roadmap-playbook]] |
 | Payment Service Directive for Africa (PSDA, proposed) | XAF | dpi.pay, gov.regional, gov.legislate | [[payment-service-directive-africa]] |
+| Zimbabwe National AI Strategy 2026–2030 | ZWE | tech.ai, gov.policy, gov.protect | [[zimbabwe-national-ai-strategy]] |
 
 ## Instruments — scholarly & analytical works (`entity_type: instrument`; formerly "publications")
 

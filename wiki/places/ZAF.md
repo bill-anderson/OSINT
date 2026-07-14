@@ -167,6 +167,12 @@ last_reviewed: 2026-07-14
 - **2026-02-25** — Budget reframed data centres as "as critical as electricity, ports and transport" (incentives, priority grid); 55 DCs, >R50bn expected. [[2026-02-25 South Africa puts data centres on par with energy, ports in big policy shift]] · [[infra.store]] · [[gov.policy]]
 - **2026-02-24** — SA's ETA (ML checks + facial recognition, no human review) made the sole visa gateway; 30,000+ rejections; links to a biometric ID. [[2026-02-24 South Africa makes the ETA the cornerstone of its visa reform]] · [[south-africa-eta]] · [[dpi.id]]
 - **2026-02-18** — Starlink/SpaceX escalates SA-licence lobbying against the 30% ownership rule; pledged R2.5bn B-BBEE; committee urged withdrawal. [[2026-02-18 Starlink pushes for SA license with advocacy campaign]] · [[starlink]] · [[gov.policy]]
+- **2026-02-13** — **SoNA 2026: digital ID, R1tn infrastructure, AI in policing.** [[research-ict-africa]]
+  (Kola Ijasan) reads Ramaphosa's State of the Nation commitments — Digital ID + [[mymzansi]] expansion,
+  data-centre investment, and AI/data analytics against organised crime — and argues opaque policing
+  algorithms need transparency and oversight, and that imported governance models must be adapted to
+  local constitutional constraints (RIA's Just AI project).
+  [[2026-02-13 From digital ID to AI in policing Turning SoNA commitments into public-interest governance]] · [[dpi.id]] · [[tech.ai]]
 - **2026-02-09** — Space42 launched Thuraya-4 mobile-satellite services in SA, claiming first mobile-satellite coverage of the whole continent. [[2026-02-09 South Africa Marks New Era in Satellite Connectivity with Space42 Thuraya-4 Launch]] · [[space42]] · [[data.satellite]]
 - **2026-02-02** — MyMzansi single digital entry point opens to targeted test groups from March 2026; the MzansiXchange data-exchange pilot underpins it. [[2026-02-02 Momentum builds on SA's single digital entry point MyMzansi]] · [[mymzansi]] · [[dpi.govtech]]
 - **2026-01-29** — Home Affairs issued a record 4,002,964 smart ID cards in 2025 (+17%), crediting the repaired Online Verification Service. [[2026-01-29 Over 4 million smart ID cards issued in 2025]] · [[dpi.id]] · [[south-africa--dpi-id]]

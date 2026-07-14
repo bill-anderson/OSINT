@@ -1,11 +1,17 @@
 ---
-page: 
-title: Why Africa should sequence, not rush into AI | Brookings
-author: 
-published: 
-accessed: 2026-07-14
-source: https://www.brookings.edu/articles/why-africa-should-sequence-not-rush-into-ai/
-keywords: 
+type: source
+title: "Why Africa should sequence, not rush into AI"
+url: https://www.brookings.edu/articles/why-africa-should-sequence-not-rush-into-ai/
+publisher: Brookings (AGI)
+author: Mark-Alexandre Doumba
+published: 2026-02-10
+date_precision: day
+date_source: source
+ingested: 2026-07-14
+places: [GAB, XAF]
+topics: [tech.ai, gov.policy, include.divides, infra.store, capacity.research]
+entities: [[brookings], [au-continental-ai-strategy]]
+lens: [colonialism, sovereignty]
 ---
 
 # Why Africa should sequence, not rush into AI | Brookings

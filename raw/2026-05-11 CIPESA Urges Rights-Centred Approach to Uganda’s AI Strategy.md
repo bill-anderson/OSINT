@@ -1,11 +1,17 @@
 ---
-page: 
-title: CIPESA Urges Rights-Centred Approach to Uganda’s AI Strategy
+type: source
+title: "CIPESA Urges Rights-Centred Approach to Uganda’s AI Strategy"
+url: https://cipesa.org/2026/05/cipesa-urges-rights-centred-approach-to-ugandas-ai-strategy/
+publisher: CIPESA
 author: CIPESA
 published: 2026-05-11
-accessed: 2026-07-14
-source: https://cipesa.org/2026/05/cipesa-urges-rights-centred-approach-to-ugandas-ai-strategy/
-keywords: 
+date_precision: day
+date_source: source
+ingested: 2026-07-14
+places: [UGA, XAF]
+topics: [tech.ai, gov.policy, gov.protect, include.divides, capacity.research]
+entities: [[cipesa], [au-continental-ai-strategy]]
+lens: [sovereignty, colonialism]
 ---
 
 # CIPESA Urges Rights-Centred Approach to Uganda’s AI Strategy – Collaboration on International ICT Policy for East and Southern Africa (CIPESA)

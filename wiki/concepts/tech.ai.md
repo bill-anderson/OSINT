@@ -18,6 +18,21 @@ converge.
 
 ## Key material — continental & thematic
 
+- **AI-strategy proliferation and the sovereignty/rights tension (2026 H1).** National AI strategies
+  multiplied — **Zimbabwe** ([[zimbabwe-national-ai-strategy]]; [[project-pangolin]], an AI–Cybersecurity
+  Fusion Centre; MISA warns of centralisation without safeguards), Ghana, Kenya's AI Bill, and South
+  Africa's SoNA AI-in-policing agenda (RIA) — while SA's draft AI Policy was withdrawn over AI-fabricated
+  citations. Two framings recur: **sovereignty/anti-extraction** — Brookings/Gabon's "sequence, not rush"
+  ("once raw minerals, now raw data"), CIPIT on IP as a "standard-taker" problem, CIPESA on Uganda not
+  becoming a "raw data supplier"; and **Africa–Europe asymmetry** — the Lawyers Hub report's "regulatory
+  imperialism"/Adequacy Trap and a proposed **$200m AI Governance Capacity Fund**. Sources:
+  [[2026-06-23 Implications of Zimbabwe’s National AI Strategy on Freedom of Expression Privacy and Access to Information]],
+  [[2026-02-10 Why Africa should sequence not rush into AI]],
+  [[2026-04-19 Rethinking Ownership Authorship and Value Creation in IP Policy for African AI]],
+  [[2026-05-15 Africa–Europe Cooperation on AI Governance Report]],
+  [[2026-05-11 CIPESA Urges Rights-Centred Approach to Uganda’s AI Strategy]],
+  [[2026-02-13 From digital ID to AI in policing Turning SoNA commitments into public-interest governance]]. See [[gov.policy]], [[sovereignty]].
+
 - **Data-protection law as de facto AI governance (2026 H1).** With no continental AI-specific statute
   yet, DPAs and legislators regulate AI *through* data-protection law: **Angola** wrote AI credit-scoring
   and anti-scraping provisions into its revised law (echoing the EU AI Act’s high-risk approach), while
