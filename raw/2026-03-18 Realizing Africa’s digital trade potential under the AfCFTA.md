@@ -1,11 +1,17 @@
 ---
-page: 
-title: Realizing Africa’s digital trade potential under the AfCFTA | Brookings
-author: 
-published: 
-accessed: 2026-07-14
-source: https://www.brookings.edu/articles/realizing-africas-digital-trade-potential-under-the-afcfta/
-keywords: 
+type: source
+title: "Realizing Africa’s digital trade potential under the AfCFTA"
+url: https://www.brookings.edu/articles/realizing-africas-digital-trade-potential-under-the-afcfta/
+publisher: Brookings (AGI)
+author: Landry Signé; Chido Munyati
+published: 2026-03-18
+date_precision: day
+date_source: source
+ingested: 2026-07-14
+places: [XAF]
+topics: [dpi.exchange, dpi.pay, gov.regional, finance.new, gov.policy]
+entities: [[brookings], [afcfta], [afcfta-digital-trade-protocol]]
+lens: [sovereignty]
 ---
 
 # Realizing Africa’s digital trade potential under the AfCFTA | Brookings

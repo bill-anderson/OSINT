@@ -2117,3 +2117,28 @@ PDF-companion summary pages; corrected to frontmatter-transformed clips retainin
 **Flags:** KeepItOn — **no Uganda-Starlink order** in the document (a common mis-claim), corrected on the
 source page. Several academic clips lost their publication date in clipping (proxy/year; verify via DOI).
 Bloggers of Zambia title-year ("2026/6th ed." vs "2025") noted. **Contradictions/gaps:** none new.
+
+---
+
+## 2026-07-14 — H1-2026 ingest, Batch H (cross-cutting / trade / geopolitics) — FINAL BATCH
+
+**Ingested (8 sources):**
+- Clips: Mzalendo ICT Promise Tracker (Kenya, 2026-05 proxy); Brookings *Realizing Africa's digital trade
+  potential under the AfCFTA* (Signé & Munyati, 2026-03-18).
+- PDFs (artefact + companion): Brookings *Foresight Africa 2026* (2026-02-18); Mo Ibrahim *Africa on the
+  move* (2026-05); ODI *Getting Smart about Africa's mineral wealth* (Bright Simons, 2026-02); CIGI PB232
+  *Tech Diplomacy* (Soulé, 2026-03); CIGI PB226 *Governing Global Tech Giants* (Heffernan, 2026-02);
+  CSEP/AUDA-NEPAD *Africa–India Blueprint for Growth* (2026-01, from new-queue).
+
+**Entities created (3):** cigi, csep, mzalendo (resource).
+
+**Pages updated:** concept synthesis on gov.regional and tech.industry; entities-index rows. KEN hub not
+re-edited (Mzalendo tracker linked via its entity + konza-technopolis; KEN hub already very dense).
+
+**Editorial calls:** flagship reference studies (Foresight Africa, Africa on the move, Africa–India
+Blueprint) filed with figures **attributed on the source page**, not fanned into concept/place pages
+(reference-study rule). ODI mineral-wealth "Royale Protocol" term does not exist in the paper (noted;
+corresponds to the National Data Cloud / chain-of-benefit model). **Contradictions/gaps:** none new.
+
+**QUEUE DRAINED:** `new/` and `new-queue/` are now empty. All 62 drop items processed across Batches A–H
+(58 sources admitted; 3 dedups; 1 discard).

@@ -201,6 +201,8 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 | Pollicy | UGA, KEN, ZAF, XAF | dpi.id, gov.protect, include.divides | [[pollicy]] |
 | Bloggers of Zambia | ZMB, XAF | gov.protect, gov.legislate, include.divides | [[bloggers-of-zambia]] |
 | South African Local Government Association (SALGA) | ZAF | digital.localgov, gov.policy | [[salga]] |
+| Centre for International Governance Innovation (CIGI) | XAF, XGL | gov.policy, gov.regional, tech.industry | [[cigi]] |
+| Centre for Social and Economic Progress (CSEP) | XGL, XAF | gov.regional, geopol.india, dpi.exchange | [[csep]] |
 
 ## Government bodies
 
@@ -500,6 +502,7 @@ Databases, registries, datasets, tools and portals consulted repeatedly (entity_
 | Mojaloop | XAF, RWA, LBR, XGL | dpi.pay, dpi.exchange, include.access | [[mojaloop]] |
 | GLEIF (Legal Entity Identifier) | XGL, NGA | dpi.id, dpi.exchange, gov.standards | [[gleif]] |
 | Internet Society Pulse | XGL, XAF | infra.connect, infra.store, gov.standards | [[internet-society-pulse]] |
+| Mzalendo Promise Tracker (ICT) | KEN | dpi.govtech, gov.policy, infra.connect | [[mzalendo]] |
 
 ## Instruments — reference standards / frameworks / policy-legal instruments
 

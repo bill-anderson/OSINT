@@ -16,6 +16,18 @@ Cross-border harmonisation of digital infrastructure, rules and markets.
 
 ## Key material
 
+- **Africa's digital-diplomacy and integration moment (2026 H1).** As the AfCFTA Digital Trade Protocol
+  is operationalised (Brookings), African states are asserting agency amid great-power rivalry: CIGI's
+  Soulé maps "tech diplomacy" (Kenya's tech envoy; data-centre sovereignty), while a second CIGI brief
+  argues Africa should *lead* on governing US tech giants. The **[[csep]]**/AUDA-NEPAD Africa–India
+  Blueprint (RIA chapter) warns the AU Data Policy Framework and Malabo Convention "remain largely
+  undomesticated," pushing DPI as an alternative to frontier-AI dependence; ODI reframes mineral fiscal
+  regimes through sovereign geological-data DPI. Sources:
+  [[2026-03-18 Realizing Africa’s digital trade potential under the AfCFTA]],
+  [[2026-03-01 Tech Diplomacy and Avenues for Digital Development in Africa CIGI PB232]],
+  [[2026-01-01 The Africa-India Blueprint for Growth]],
+  [[2026-02-01 Getting Smart about Africas mineral wealth DPI and mineral fiscal regimes in West Africa]]. See [[tech.industry]], [[sovereignty]].
+
 - **Continental data-governance instruments advance (2026 H1).** The AU is revising the
   **[[malabo-convention]]**; ECOWAS is revising its binding Supplementary Act, the EAC is drafting a
   regional data-governance framework, and SADC is revising its Model Law and floating a SADC DPA bloc.

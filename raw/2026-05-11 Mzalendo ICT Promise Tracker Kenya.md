@@ -1,11 +1,17 @@
 ---
-page: 
-title: ICT - Promise Tracker
-author: 
-published: 
-accessed: 2026-07-14
-source: https://tracker.mzalendo.com/category/promise-category/ict/
-keywords: 
+type: source
+title: "ICT — Promise Tracker (Kenya, Mzalendo)"
+url: https://tracker.mzalendo.com/category/promise-category/ict/
+publisher: Mzalendo Trust
+author: Mzalendo Trust
+published: 2026-05-11
+date_precision: month
+date_source: proxy
+ingested: 2026-07-14
+places: [KEN]
+topics: [dpi.govtech, infra.connect, gov.policy, tech.ai, include.access]
+entities: [[mzalendo], [konza-technopolis]]
+lens: [sovereignty]
 ---
 
 # ICT - Promise Tracker
