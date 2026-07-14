@@ -1,11 +1,17 @@
 ---
-page: 
-title: Local Infrastructure, Lower Costs: How Peering Is Moving the Needle on Internet Affordability
+type: source
+title: "Local Infrastructure, Lower Costs: How Peering Is Moving the Needle on Internet Affordability"
+url: https://www.internetsociety.org/blog/2026/05/local-infrastructure-lower-costs-how-peering-is-moving-the-needle-on-internet-affordability/
+publisher: Internet Society
 author: Eliana Fram
 published: 2026-05-25
-accessed: 2026-07-14
-source: https://www.internetsociety.org/blog/2026/05/local-infrastructure-lower-costs-how-peering-is-moving-the-needle-on-internet-affordability/
-keywords: 
+date_precision: day
+date_source: source
+ingested: 2026-07-14
+places: [XAF, BFA, UGA, KEN, RWA, XSS]
+topics: [infra.connect, include.access, gov.standards]
+entities: [[internet-society], [afrinic]]
+lens: [sovereignty]
 ---
 
 # Local Infrastructure, Lower Costs: How Peering Is Moving the Needle on Internet Affordability - Internet Society

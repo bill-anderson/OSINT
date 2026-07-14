@@ -1,11 +1,17 @@
 ---
-page: 
-title: Beyond the Homepage: Measuring What It Really Takes to Keep Web Traffic Local
+type: source
+title: "Beyond the Homepage: Measuring What It Really Takes to Keep Web Traffic Local"
+url: https://pulse.internetsociety.org/en/blog/2026/06/beyond-the-homepage-measuring-what-it-really-takes-to-keep-web-traffic-local/
+publisher: Internet Society (Pulse)
 author: Martin Thodi
 published: 2026-06-09
-accessed: 2026-07-14
-source: https://pulse.internetsociety.org/en/blog/2026/06/beyond-the-homepage-measuring-what-it-really-takes-to-keep-web-traffic-local/
-keywords: 
+date_precision: day
+date_source: source
+ingested: 2026-07-14
+places: [XAF, ZAF, MWI, TZA, DZA, EGY, XSA, XSS]
+topics: [infra.connect, infra.store, include.access, gov.standards]
+entities: [[internet-society], [internet-society-pulse]]
+lens: [sovereignty, colonialism]
 ---
 
 # Beyond the Homepage: Measuring What It Really Takes to Keep Web Traffic Local | ISOC Pulse

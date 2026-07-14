@@ -2064,3 +2064,30 @@ signatories 52 vs 49; two distinct AI funds — $200m governance vs $60bn; diver
 AI-investment-share figures) — noted on its source page, not wiki contradictions. It also records **South
 Africa's draft AI Policy withdrawn (April 2026)** over AI-fabricated citations. tech.ai now well over the
 ~2,500-word threshold (bloat flag stands). **Contradictions/gaps:** none new.
+
+---
+
+## 2026-07-14 — H1-2026 ingest, Batch E (connectivity & infrastructure)
+
+**Ingested (6 sources):**
+- Clips: Internet Society peering→affordability (2026-05-25); ISOC Pulse content-locality "Beyond the
+  Homepage" (2026-06-09).
+- PDFs (artefact + companion): ODI *China's infrastructure finance in Africa* (2026-02-05; **main paper +
+  Country-Perspectives appendix = one source, two artefacts** — the appendix was reclassified here from
+  Batch C); GSMA *Digital Transformation…Republic of Congo* (2026-01, proxy/year); ATU/AFRINIC/ISOC
+  *Model Framework for Internet Resilience in Africa* (**2025-06**, pre-window instrument); GSMA *Mobile
+  Data for Humanitarian Action* (2026-05).
+
+**Entities created (7):** internet-society, internet-society-pulse (resource), china-eximbank,
+konza-technopolis (initiative), congo-digital-strategy-2030 (instrument),
+internet-resilience-framework-africa (instrument), + earlier risa. (Note: an `internet-society` org page
+now exists distinct from the pre-existing `internet-society-africa-history`.)
+
+**Pages updated:** infra.connect concept synthesis; hubs BFA (BFIX affordability), MWI (3% content
+locality), COG (GSMA digital economy — stub topics expanded); entities-index rows.
+
+**Editorial calls:** the Internet Resilience Framework and Congo Digital Strategy filed as **instruments**
++ dated companion pages. GSMA Humanitarian is global-LMIC — filed with African-actionable content (Ebola
+cross-border divergence, Ghana/DRC/Togo) and its restated global figures kept off concept/place pages.
+**Flags:** Model Framework is modelled on the US DHS resilience template (noted). **Contradictions/gaps:**
+none new.

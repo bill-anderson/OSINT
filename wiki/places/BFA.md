@@ -20,6 +20,10 @@ supervision centre for critical digital infrastructure.
 
 ## Recent developments
 
+- **2026-05-25** — **BFIX peering slashed the cost of access.** Internet Society data: Burkina Faso's IXP
+  (BFIX, ISOC-supported since 2019) grew peak capacity 0.5→6 Gbps and cut local latency from >300ms to
+  15–20ms; the income share for a basic mobile-broadband plan fell from **13% (2020) to 0.2% (2025)** —
+  the largest affordability gain in a 50-country sample. [[2026-05-25 Local Infrastructure Lower Costs How Peering Is Moving the Needle on Internet Affordability]] · [[infra.connect]] · [[include.access]]
 - **2026-03-23** — **PACTDIGITAL-BF anchors the strategy.** The Ministry of Digital
   Transition ([[bf-ministry-digital-transition]], minister Aminata Zerbo-Sabané)
   detailed **Fast-Tracking Digital Transformation (PACTDIGITAL-BF)** — 12 major

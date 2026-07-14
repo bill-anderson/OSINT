@@ -16,6 +16,19 @@ Broadband and network access as the base layer of the digital economy.
 
 ## Key material — continental & thematic
 
+- **Localise the traffic — resilience and the sovereignty cost (2026 H1).** Internet Society evidence ties
+  **IXP/peering** to affordability — in 40 of 50 grant countries the income share for basic broadband fell
+  >10% (Burkina Faso 13%→**0.2%**) — while a new Pulse content-locality measure shows most African traffic
+  still leaves the continent (Malawi **3% local**; South Africa a 66% regional hub). The ATU/AFRINIC/ISOC
+  **[[internet-resilience-framework-africa]]** gives regulators a six-step resilience template (53 IXPs in
+  36 countries). GSMA maps Congo-B's connectivity/tax-reform gap and the governance conditions for using
+  MNO data in crises (the Ebola cross-border divergence). ODI documents China's fibre/data-centre finance
+  (Ethiopia; Kenya's [[konza-technopolis]]) and its sovereignty/debt tail. Sources:
+  [[2026-05-25 Local Infrastructure Lower Costs How Peering Is Moving the Needle on Internet Affordability]],
+  [[2026-06-09 Beyond the Homepage Measuring What It Really Takes to Keep Web Traffic Local]],
+  [[2025-06-01 Model Framework for Building Internet Resilience in Africa]],
+  [[2026-02-05 Chinas infrastructure finance in Africa impacts and lessons]]. See [[infra.store]], [[include.access]].
+
 - **Global pledges vs the gap (2026-07, ITU).** **[[partner2connect]]** ([[itu]]) crossed
   **$100bn** in commitments (Africa a leading implementation region — incl. [[microsoft]]'s
   450 Kenya rural hubs via Azure Space), but ITU puts 2030 universal meaningful connectivity at

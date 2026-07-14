@@ -194,6 +194,8 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 | MISA (Media Institute of Southern Africa) | ZWE, XSA, XAF | gov.protect, tech.ai, gov.legislate | [[misa]] |
 | Brookings Institution (AGI) | XAF, XGL | gov.policy, tech.ai, gov.regional | [[brookings]] |
 | The Lawyers Hub | KEN, XAF | tech.ai, gov.policy, gov.protect | [[lawyers-hub]] |
+| Internet Society (ISOC) | XAF, XGL | infra.connect, include.access, gov.standards | [[internet-society]] |
+| Export-Import Bank of China (China Eximbank) | XAF, XGL | finance.new, geopol.china, infra.connect | [[china-eximbank]] |
 
 ## Government bodies
 
@@ -357,6 +359,7 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 
 | Africa Data Leadership Initiative (ADLI) | XAF | dpi.exchange, gov.policy, data.open | [[africa-data-leadership-initiative]] |
 | Project Pangolin (Zimbabwe National AI & Data Platform) | ZWE | tech.ai, infra.store, gov.protect | [[project-pangolin]] |
+| Konza Technopolis (Kenya) | KEN | infra.store, dpi.govtech, geopol.china | [[konza-technopolis]] |
 
 ## Deals
 
@@ -491,6 +494,7 @@ Databases, registries, datasets, tools and portals consulted repeatedly (entity_
 | Ripoti (Paradigm Initiative) | XAF | gov.protect | [[ripoti]] |
 | Mojaloop | XAF, RWA, LBR, XGL | dpi.pay, dpi.exchange, include.access | [[mojaloop]] |
 | GLEIF (Legal Entity Identifier) | XGL, NGA | dpi.id, dpi.exchange, gov.standards | [[gleif]] |
+| Internet Society Pulse | XGL, XAF | infra.connect, infra.store, gov.standards | [[internet-society-pulse]] |
 
 ## Instruments — reference standards / frameworks / policy-legal instruments
 
@@ -542,6 +546,8 @@ about or from one becomes a normal source that cites it.
 | DPI Roadmap Playbook (AfricaNenda consortium) | XAF, ZAF | dpi.exchange, dpi.id, dpi.pay, gov.policy | [[dpi-roadmap-playbook]] |
 | Payment Service Directive for Africa (PSDA, proposed) | XAF | dpi.pay, gov.regional, gov.legislate | [[payment-service-directive-africa]] |
 | Zimbabwe National AI Strategy 2026–2030 | ZWE | tech.ai, gov.policy, gov.protect | [[zimbabwe-national-ai-strategy]] |
+| Congo Digital Strategy 2030 | COG | gov.policy, infra.connect, dpi.govtech | [[congo-digital-strategy-2030]] |
+| Model Framework for Internet Resilience in Africa (ATU-S 001) | XAF | infra.connect, infra.cybersec, gov.policy | [[internet-resilience-framework-africa]] |
 
 ## Instruments — scholarly & analytical works (`entity_type: instrument`; formerly "publications")
 

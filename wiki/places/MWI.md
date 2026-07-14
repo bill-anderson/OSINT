@@ -23,6 +23,10 @@ last_reviewed: 2026-07-14
   [[2026-07-13 Malawi reaches 13.5M digital IDs as universal coverage comes into view]],
   [[2026-07-13 Malawi outlines plans to transition to digital IDs - CAJ News Africa]]. Full case:
   [[malawi--dpi-id]]. See [[dpi.id]], [[dpi.registry]], [[gov.legislate]], [[include.access]].
+- **2026-06-09** — **Only 3% of web content served locally.** An Internet Society Pulse content-locality
+  study (weighted by bytes) put Malawi at the bottom of 12 measured countries — **3% local** — but **62%
+  regional**, served largely from South Africa, keeping most traffic on-continent. Underlines the case for
+  local hosting/CDNs and IXPs. [[2026-06-09 Beyond the Homepage Measuring What It Really Takes to Keep Web Traffic Local]] · [[infra.store]] · [[infra.connect]]
 - **2026-06-03** — **[[malawi-revenue-authority]]**'s **Electronic Invoicing System
   (EIS)** now generates **>$1.2m/day** in tax revenue; **May collections exceeded
   ~$28m**. About **7,500 of ~9,000 registered VAT operators** have migrated. The EIS
