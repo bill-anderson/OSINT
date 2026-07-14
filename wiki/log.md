@@ -2174,3 +2174,31 @@ the dated `[[…]]` citations had nothing to resolve to:
 Both filed at their existing dated names (proxy dates, precision year) so all citations resolve. **Corpus
 dead-link count is now 0** (excluding the whitelisted lens values). Remaining lint notes are advisory:
 page-bloat on ~16 large pages (deferred editorial pass) and the standing `_review.md` worklist.
+
+---
+
+## 2026-07-14 — Page-bloat review (16 over-threshold pages) + place-hub append-log trims
+
+Ran the CLAUDE.md "stop and classify" step on the 16 pages over ~2,500 words. Verdict:
+
+**Concept pages (11) — LEAVE (correctly-long thematic).** tech.ai, infra.connect, infra.store, gov.protect,
+geopol.usa, gov.regional, gov.policy, finance.new, dpi.pay, dpi.exchange, gov.standards are all organised by
+**theme/argument, not by country cells** (bullet headers read "National data policies as sovereignty
+instruments", "Data-centre boom", "Health data as a funding condition", "Continental data-governance
+instruments"…). CLAUDE.md explicitly names tech.ai/infra.connect as thematic-stay-long; the same holds for
+the rest. dpi.pay/tech.ai/infra.connect additionally already carry "By place" extractions to intersections.
+Scattered country items are terse one-liners below the ≥120-word materiality bar. Per "when in doubt, don't
+split thematic," these are dense syntheses that are allowed to be long — **flag cleared as reviewed, not
+actioned.**
+
+**entities/google — LEAVE.** A dense thematic profile of a top-tier cross-continental actor (subsea cables,
+Cloud/AI, Cassava/Liquid, sovereignty critique); not an append-log or matrix.
+
+**Place hubs (4) — TRIMMED (append-log → synthesis).** NGA/ZAF/KEN/XAF each had a `### Earlier` section that
+had accreted into a 37–48-entry dated chronology — the append-log anti-pattern (CLAUDE.md: synthesis pages
+hold current state, not chronology; events live in the dated source pages). Trimmed `### Earlier` back to the
+most recent/material anchors (NGA hand-curated to 11 milestones; ZAF/KEN/XAF to the 12 most-recent), keeping
+`## Recent developments`, the `## Active topics` synthesis (which points to the topic intersections) and
+`## Entities`. Every trimmed entry is preserved in its linked source page, the topic intersections, and git.
+Result: NGA 3,536→2,258w · ZAF 3,448→2,250w · KEN 3,068→1,810w · XAF 3,190→2,283w. **Corpus dead-link count
+remains 0** after the trims. Reversible in git if the fuller timelines are wanted back.
