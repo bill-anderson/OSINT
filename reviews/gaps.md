@@ -1,70 +1,16 @@
-# Review worklist
+# reviews/gaps.md — structural-gap leads (human-owned)
 
-Standing **research agenda** of items held for human decision (see CLAUDE.md → Autonomy and
-review). Not just an error list — it carries two item types, each with an ID and (where a git repo
-exists) a commit ref:
+Standing register of **gaps**: high-confidence *structural* absences surfaced
+during ingest — an entity referenced with no page, a claim with no supporting
+source. Each is a **research lead for the human to consider sourcing**, never a
+task actioned autonomously (see CLAUDE.md → Autonomy and review). **The reconcile
+pass never reads this file.** When a gap is sourced, remove it here and append a
+resolution line to `log.md`.
 
-- **Contradiction** — competing claims the base can't reconcile. Each carries a **paste-ready,
-  wiki-agnostic external-research brief** (below the item): the claim in dispute, each competing
-  value, who asserts each, and the source URL(s) CC *holds* for each assertion (read from source-page
-  frontmatter). CC lists **only links it actually holds** — it suggests no external or primary
-  sources of its own; where a value has no clean source URL on file, that is flagged as a provenance
-  gap. Reconciling a contradiction is **external research the human runs in their own tool**, not a
-  query against the base — so no brief is placed in `queries/`.
-- **Gap** — a high-confidence *structural* absence (an entity referenced with no page; a claim with
-  no supporting source). A research lead for the human to *consider sourcing*, never actioned
-  autonomously. See Gaps section below.
-
-**Self-citation policy (curator directive, 2026-07-13).** The author's own *published* work
-(data-landscapers.com) is treated **as if written by an expert third party** — the same standing as
-any other named analyst (Kariuki, Munyua, Adebowale, …) — and **his framing, biases and opinions
-may influence the wiki's synthesis wherever relevant.** Such self-citations are therefore **not
-held here**. Only ordinary analytical hygiene still applies, exactly as for any analyst: attribute
-plainly ("as Data Landscapers has argued") and don't use a piece to corroborate a wiki claim that
-was itself drawn from that same piece. His *unpublished* notes and AI-generated assets (e.g.
-[[data-landscapers-cable-factsheet]], Perplexity-sourced) remain do-not-cite on their own pages —
-not covered by this directive.
-
-General `status: needs-review` provenance/editor holds are not here either — they live on their own
-pages and surface via lint check #9.
-
-> Note: not a git repo, so items carry a `log.md` date / page ref instead of a commit ref.
-> Seeded 2026-07-13. When an item is resolved, remove it here and append a resolution line to `log.md`.
+> Items carry an ID and — now the vault is under git — a commit ref alongside
+> the `log.md` date / page ref. Seeded 2026-07-13; migrated into `reviews/` 2026-07-16.
 
 ---
-
-## Contradictions (unresolved / provisionally-resolved)
-
-Each item has an internal line (**Affects** — wiki pages CC updates once resolved) and a
-**Brief** — the wiki-agnostic block the human copies into an external research tool.
-
----
-
-### REV-CAF-001 · Al Madina (CAR ID card printer) — home country: Lebanese or Omani?
-**Affects (wiki):** [[al-madina]] (status: needs-review), [[caf--dpi-id]], [[CAF]].
-
-**Brief (paste-ready):**
-**Where is Al Madina — the company printing the Central African Republic's national ID card (CNI) — actually headquartered?**
-- **Lebanese:** described as "la société **libanaise** Almadina" — Corbeau News Centrafrique, "Centrafrique : Le prix des cartes d'identité enfin réduit…," 27 Jul 2025 — https://corbeaunews-centrafrique.org/centrafrique-le-prix-des-cartes-didentite-enfin-reduit-apres-cinq-ans-de-violations-criminelle
-- **Oman-headquartered:** described as "an **Oman**-headquartered security printing company" — Biometric Update, "Central African Republic in full biometric voter registration preparations," 8 Oct 2024 — https://www.biometricupdate.com/202410/central-african-republic-in-full-biometric-voter-registration-preparations
-
-These sources give different home countries for the same firm. Investigate and suggest a resolution (it may be foreign-owned and HQ'd in a third country, or two similarly-named firms may be conflated), recording an as-of date. Distinguish from unrelated "Al Madina"–named companies elsewhere. (Recorded CAF batch, 2026-07-15.)
-
----
-
-### REV-DJI-001 · Djibouti cybersecurity authority — is "ANCS" (2024) the same body as the statutory "ANC" (2025)?
-**Affects (wiki):** [[national-cybersecurity-authority-djibouti]] (status: needs-review), [[djibouti--gov-protect]], [[DJI]].
-
-**Brief (paste-ready):**
-**Djibouti's national cybersecurity authority: is the "ANCS" credited with authoring the 2024–2030 National Cybersecurity Strategy the same institution as the "ANC" (National Cybersecurity Authority) that a November-2025 bill sought to create by law — and if so, what is its correct name and legal status?**
-- **"ANCS" already exists (2024):** the National Cybersecurity Strategy 2024–2030, released **28 Nov 2024**, is attributed to an existing **"National Cybersecurity Authority (ANCS)"** — We Are Tech Africa, "Djibouti Unveils 2024-2030 National Cybersecurity Strategy," 2 Dec 2024 — https://www.wearetech.africa/en/fils-uk/news/public-management/djibouti-unveils-2024-2030-national-cybersecurity-strategy
-- **"ANC" created by a bill (2025):** a bill presented to the National Assembly on **10 Nov 2025** would establish a **"National Cybersecurity Authority (ANC)"** as an independent statutory body — Ecofin Agency, "Djibouti Advances Bill to Create National Cybersecurity Authority," 12 Nov 2025 — https://www.ecofinagency.com/news-digital/1211-50395-djibouti-advances-bill-to-create-national-cybersecurity-authority
-
-These two sources name an authority with the same function but different acronyms (ANCS vs ANC) and different apparent legal status (already operating in 2024 vs being created by a 2025 bill). Investigate whether ANCS was an administrative precursor later given statutory form as the ANC, or whether one acronym is a reporting error, and record the correct name/status with an as-of date. (Recorded DJI/CPV batch, 2026-07-15.)
-
----
-
-## Gaps (structural absences — research leads, not tasks CC actions)
 
 - **GAP-001 · NADPA has no entity page.** The **Network of African Data Protection Authorities**
   (NADPA / RAPDP) is referenced as a standing pan-African body — it admitted **Somalia and Tanzania**
@@ -79,7 +25,7 @@ in the same batch and is now held; instrument upgraded stub→active. See log.md
 - **GAP-003 · National DPA entity pages missing for the 2026 enforcement wave.** The H1-2026
   data-protection batch surfaced several national data-protection authorities and their statutes as now
   central to the continental enforcement/reform story, but with **no entity page** (referenced only in
-  prose): **Angola’s** data-protection agency (APD) and its AI-provisions revision; **Ghana** Data
+  prose): **Angola's** data-protection agency (APD) and its AI-provisions revision; **Ghana** Data
   Protection Commission (+ 2025 Bill / data-as-property); **Botswana** Information & Data Protection
   Commission (2024 Act); **Mauritius** Data Protection Office (+ 2017 Act amendment, National Data
   Strategy 2025–2029); **Seychelles** Information Commission (2023 Act); plus the new **Burundi**
@@ -110,7 +56,7 @@ in the same batch and is now held; instrument upgraded stub→active. See log.md
 - **GAP-BDI-002 · Burundi–Vietnam digital-cooperation MoU referenced, not sourced.** The IFC piece notes
   Burundi "concluded a Memorandum of Understanding with Vietnam to sharpen collaboration on digital projects"
   (~late 2024), but the wiki holds no source or detail on it. *Lead: consider sourcing the Burundi–Vietnam
-  digital MoU (scope, date) — a geopol.* thread worth anchoring if it recurs.* (Recorded BEN/BDI batch, 2026-07-15.)
+  digital MoU (scope, date) — a geopol. thread worth anchoring if it recurs.* (Recorded BEN/BDI batch, 2026-07-15.)
 
 - **GAP-AGO-001 · Unitel–Ericsson network-modernisation deal unsourced.** A 2025 Unitel–Ericsson mobile
   network-modernisation partnership appears in the source datasets (Ericsson press-release URL) but was not

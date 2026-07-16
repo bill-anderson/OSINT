@@ -50,7 +50,12 @@ new/                      # unprocessed intake queue — clips land here; draine
 raw/                      # admitted sources, flat — immutable after ingest, never edited
   2026-06-16-cassava-nvidia-deal.md
 _leads/                   # parked non-source material (AI syntheses etc.) to mine, not compile
-_review.md                # standing worklist of items held for human decision (see Autonomy)
+reviews/                  # review pipeline — FIXES the wiki (separate from queries/, which reads it)
+  contradictions/
+    open/                 # one file per unresolved contradiction — the reconcile worklist
+    done/                 # resolved (last step)
+    research/             # quarantined external-research output — DO-NOT-INGEST
+  gaps.md                 # human-owned structural-gap leads — never auto-actioned
 wiki/
   concepts/               # one page per SUBJECT topic
   places/                 # 54 country + 8 region hub pages (one page type)
@@ -253,7 +258,7 @@ special self-authored regime:
   piece for its *analysis*, not as a shortcut around sourcing the facts.
 
 Because these are normal citation practice, such self-citations are **not** held
-in `_review.md` for review.
+in `reviews/` for review.
 
 ### Sources, entity profiles, and leads
 
@@ -350,9 +355,10 @@ queue means routing each item to its correct destination.
 6. For each **subject**: update the concept page. If place-specific and
    substantial, create/update the intersection and link from both sides.
 7. **Flag contradictions.** Never silently overwrite. Note it in `log.md`, set
-   `needs-review` on affected pages, and append a **contradiction** item to
-   `_review.md`. The item carries a **paste-ready external-research brief** for
-   the human to run in their own tool — **wiki-agnostic** (no facets, slugs, page
+   `needs-review` on affected pages, and add a **contradiction** item as a new
+   file in `reviews/contradictions/open/` (one file per item). The item carries a
+   **paste-ready external-research brief** for the human to run in their own tool
+   — **wiki-agnostic** (no facets, slugs, page
    links or scope), containing: the claim in dispute; each competing value; who
    asserts each; and **the source URL(s) CC already holds for each assertion**,
    read from the source pages' frontmatter. CC reports **only links it actually
@@ -361,10 +367,12 @@ queue means routing each item to its correct destination.
    is itself a provenance gap). Close with a plain instruction, e.g. "these
    sources report different values for X — investigate the discrepancy and suggest
    a resolution, recording an as-of date for each." The brief goes with the
-   `_review.md` item, **not** into `queries/` — resolving a contradiction is
-   external research, not a query against the base.
+   `reviews/contradictions/` item, **not** into `queries/` — resolving a
+   contradiction is external research, not a query against the base. That research
+   is now run in-session by the reconcile pass (see `reconcile_review.md`), no
+   longer relayed through a separate tool.
 8. **Structural gap check (conservative).** While filing, flag high-confidence
-   *absences* as **gap** items in `_review.md` — not problems in what was seen, but
+   *absences* as **gap** items in `reviews/gaps.md` — not problems in what was seen, but
    things that should exist and don't: an entity referenced with no page of its
    own, or a claim asserted with no supporting source. A gap is a **research lead
    for the human**, never work to action autonomously — CC surfaces it; the human
@@ -487,23 +495,25 @@ attention at the one point that matters. Three tiers:
   calls, page creation/deletion from dead-link triage, append-log trims, prose
   tightening, provisional contradiction resolutions. Do them, and list each in
   the weekly digest for skim and spot-check.
-- **Hold for the publication pass.** Nothing blocks ingest, but items are
-  appended to **`_review.md`**, the standing worklist, for human decision.
-  `_review.md` is a **research agenda**, not just an error list — it carries two
-  item types, each with a short **ID and git commit ref**:
-  - **Contradiction** — competing claims the base can't reconcile, carrying a
-    paste-ready, wiki-agnostic **external-research brief**: the competing values,
-    who asserts each, and the source URLs CC *holds* for each — for the human to
-    investigate outside the wiki (not a query against the base).
-  - **Gap** — a high-confidence structural absence flagged as a research lead:
-    something to *consider sourcing*, not a task CC actions itself.
+- **Hold for the publication pass (gaps).** Nothing blocks ingest. **Gaps** —
+  high-confidence structural absences flagged as research leads — are appended to
+  **`reviews/gaps.md`** for human decision: something to *consider sourcing*,
+  never a task CC actions itself. The human checks it on their own schedule and
+  prompts CC to act; when a gap is sourced, CC removes it and appends a
+  resolution line to `log.md`.
+- **Contradictions are no longer held here.** Each is recorded as a file in
+  **`reviews/contradictions/open/`**, carrying the same paste-ready,
+  wiki-agnostic external-research brief (the competing values, who asserts each,
+  and the source URLs CC *holds* for each). The **reconcile pass**
+  (`reconcile_review.md`, run on request) researches each via Exa, ingests the
+  primaries it surfaces through `new/`, and applies a **provisional** resolution
+  to the affected pages — a tier-2 "auto, then digest" action, itemised for the
+  human's sweep. Research output is quarantined in
+  `reviews/contradictions/research/` and never ingested; the page fix cites the
+  primaries, not the synthesis. `reviews/` holds what's *open*, `log.md` holds
+  what *happened*; an empty `open/` and a short `gaps.md` mean you're caught up.
   (Self-citation to the author's *published* work is **not** held — it is treated
   as ordinary expert analysis; see Source admissibility → The author's own work.)
-  The human checks `_review.md` on their own schedule and prompts CC to act; when
-  an item is resolved, CC **removes it from `_review.md` and appends a resolution
-  line to `log.md`** (what it was, how resolved). So `_review.md` holds what's
-  *open*, `log.md` holds what *happened*, and a short `_review.md` means you're
-  caught up.
 
 **Invariants — enforced, never waived.** These are not discretionary judgments
 and never generate a review; they simply hold:
@@ -536,9 +546,10 @@ Structure:
 - **Editorial actions** — itemised: extractions (which page → which intersections,
   which cells stayed as index lines), pages created or deleted from dead-link
   triage, append-logs trimmed, notable tightening.
-- **Held for review** — a pointer to `_review.md`: open-item count and what was
-  added this week, broken out by type (contradictions, gaps). The items
-  themselves live in `_review.md`, not here.
+- **Reviews** — contradictions reconciled this pass (provisional resolutions,
+  itemised under Editorial actions) plus any left open as inconclusive; and a
+  pointer to **`reviews/gaps.md`**: open gap count and what was added this week.
+  The items themselves live in `reviews/`, not here.
 - **Flags** — anything low-confidence, proxy/low-precision dates added, invariant
   cases raised, middle-band dead links left uncreated.
 
@@ -596,8 +607,8 @@ matrix questions (X across N places); prose/`md` suits interpretive, lens-driven
 questions.
 
 `queries/` is only for **reading the base**. Reconciling a contradiction is
-external research, not a wiki query — its brief lives with the `_review.md` item,
-never here.
+external research, not a wiki query — its brief lives with the
+`reviews/contradictions/` item, never here.
 
 ### Result file (`queries/results/`)
 
@@ -657,8 +668,9 @@ the ordinary hygiene in Source admissibility → The author's own work.
 
 ## Getting started
 
-Create `new/`, `raw/` and `_leads/` at the root, an empty `_review.md`,
-`queries/` (with `pending/`, `done/`, `results/`), and `wiki/` with its
-subfolders; initialise `index.md`, `log.md`, and copy `taxonomy.md` +
+Create `new/`, `raw/` and `_leads/` at the root, `reviews/` (with
+`contradictions/open/`, `contradictions/done/`, `contradictions/research/`, and
+`gaps.md`), `queries/` (with `pending/`, `done/`, `results/`), and `wiki/` with
+its subfolders; initialise `index.md`, `log.md`, and copy `taxonomy.md` +
 `countries.csv` into `wiki/`. Point the web clipper at `new/`. Then report
 "ready to ingest your first source."
