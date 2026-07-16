@@ -50,12 +50,13 @@ new/                      # unprocessed intake queue — clips land here; draine
 raw/                      # admitted sources, flat — immutable after ingest, never edited
   2026-06-16-cassava-nvidia-deal.md
 _leads/                   # parked non-source material (AI syntheses etc.) to mine, not compile
-reviews/                  # review pipeline — FIXES the wiki (separate from queries/, which reads it)
+reviews/                  # held for you — fixes, leads & decisions (separate from queries/, which only reads)
   contradictions/
     open/                 # one file per unresolved contradiction — the reconcile worklist
     done/                 # resolved (last step)
     research/             # quarantined external-research output — DO-NOT-INGEST
-  gaps.md                 # human-owned structural-gap leads — never auto-actioned
+  gaps.md                 # human-owned structural-gap leads — "consider sourcing" (never auto-actioned)
+  issues.md               # human-owned decision register — judgment calls awaiting your ruling
 wiki/
   concepts/               # one page per SUBJECT topic
   places/                 # 54 country + 8 region hub pages (one page type)
@@ -231,7 +232,8 @@ Such material is a **lead, not a source**: mine it for the primary documents it
 points to, ingest *those*, and discard the synthesis. Reporting that itself
 cites primary sources is admissible, but tag and, where it matters, verify
 against the primary source it draws on. When admissibility is genuinely unclear,
-park the item (below) and ask the human rather than guessing.
+park the item (below) and raise it as an issue in `reviews/issues.md` (with a
+recommended call) rather than guessing or asking at the prompt.
 
 ### The author's own work
 
@@ -495,12 +497,35 @@ attention at the one point that matters. Three tiers:
   calls, page creation/deletion from dead-link triage, append-log trims, prose
   tightening, provisional contradiction resolutions. Do them, and list each in
   the weekly digest for skim and spot-check.
-- **Hold for the publication pass (gaps).** Nothing blocks ingest. **Gaps** —
-  high-confidence structural absences flagged as research leads — are appended to
-  **`reviews/gaps.md`** for human decision: something to *consider sourcing*,
-  never a task CC actions itself. The human checks it on their own schedule and
-  prompts CC to act; when a gap is sourced, CC removes it and appends a
-  resolution line to `log.md`.
+- **Hold for the human — never at the prompt.** Nothing blocks ingest, and CC
+  **never interrupts with an ad-hoc question at the end of a job.** Anything that
+  needs the human goes to its standing register and CC carries on; the human
+  sweeps on their own schedule and the digest points the way. A direct question
+  is reserved for a true whole-job blocker that genuinely can't be parked — and
+  even then CC finishes everything not blocked first. Reporting *"filed 1 gap,
+  1 issue"* in the wrap-up is right; asking *"want me to do X or Y?"* is the
+  anti-pattern, because it assumes the human is watching when the system is built
+  on the premise that they are not. Two registers live here:
+  - **Gaps** (`reviews/gaps.md`) — high-confidence structural absences flagged as
+    research leads: something to *consider sourcing*, never actioned by CC.
+  - **Issues** (`reviews/issues.md`) — judgment calls the written rules don't
+    determine: an admissibility call CC can't make, a proposed schema tweak, a
+    taxonomy/vocabulary question, an invariant edge case, a genuinely uncertain
+    classification. Each carries CC's **recommended** resolution so the human can
+    rubber-stamp in bulk ("take your recommendations") rather than adjudicate each
+    cold. **Only** for decisions the rules genuinely leave open — if a rule
+    determines the action, that is a tier-1/2 action CC just does.
+  For both: append when it arises, the human decides on their own schedule, CC
+  actions it and appends a resolution line to `log.md`, then removes it from the
+  register.
+- **Every job ends with a status line.** The **last line** of CC's response is a
+  standing tally of the **overall open state** of the three registers — the
+  current totals, not a diff of the job just done — so the human sees the whole
+  queue at a glance without opening anything. CC's routine report-not-ask
+  surface, present whether or not anything changed:
+  `issues - NN ; contradictions - NN ; gaps - NN`
+  (zero-padded counts of *all* open items in `reviews/issues.md`,
+  `reviews/contradictions/open/`, and `reviews/gaps.md`).
 - **Contradictions are no longer held here.** Each is recorded as a file in
   **`reviews/contradictions/open/`**, carrying the same paste-ready,
   wiki-agnostic external-research brief (the competing values, who asserts each,
@@ -530,8 +555,8 @@ and never generate a review; they simply hold:
   the human's explicit ratification (in the digest or directly), with what changed
   and why, and take effect only once approved. This is the one rule about the
   rules.
-If a case seems to require waiving an invariant, stop and raise it in the digest
-rather than deciding.
+If a case seems to require waiving an invariant, stop and raise it as an issue in
+`reviews/issues.md` rather than deciding; the digest points to it.
 
 ## Weekly digest
 
@@ -547,9 +572,10 @@ Structure:
   which cells stayed as index lines), pages created or deleted from dead-link
   triage, append-logs trimmed, notable tightening.
 - **Reviews** — contradictions reconciled this pass (provisional resolutions,
-  itemised under Editorial actions) plus any left open as inconclusive; and a
-  pointer to **`reviews/gaps.md`**: open gap count and what was added this week.
-  The items themselves live in `reviews/`, not here.
+  itemised under Editorial actions) plus any left open as inconclusive; and
+  pointers to **`reviews/gaps.md`** and **`reviews/issues.md`**: open gap / issue
+  counts and what was added this week (issues each carry CC's recommended
+  resolution). The items themselves live in `reviews/`, not here.
 - **Flags** — anything low-confidence, proxy/low-precision dates added, invariant
   cases raised, middle-band dead links left uncreated.
 

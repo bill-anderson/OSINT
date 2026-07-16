@@ -118,3 +118,12 @@ in the same batch and is now held; instrument upgraded stub→active. See log.md
   reported only second-hand. *Lead: consider sourcing the primary CNIE contract award(s) to pin who
   supplies what, and a Visa/Gabon primary for the ID element.* See [[gabon--dpi-id]]. (Recorded GAB
   batch, 2026-07-15.)
+
+- **GAP-DJI-002 · ANSIE has no entity page.** The **Agence Nationale des Systèmes d'Information de l'État
+  (ANSIE)** — Djibouti's state IT agency (created by Loi n°100/AN/15) — is now central to the
+  cybersecurity-institution story: its **DSSI** directorate is the statutory **nucleus of the new
+  [[national-cybersecurity-authority-djibouti|ANC]]** (Loi n° 195/AN/25, Art. 24), and ANSIE also runs the
+  state's Tier-3 data centre and e-gov platforms. Referenced only in prose (plain text, no page). *Lead:
+  consider sourcing an ANSIE primary (its enabling law n°100/AN/15 or official site ansie.dj) and creating
+  the `government-body` entity.* See [[DJI]], [[national-cybersecurity-authority-djibouti]]. (Surfaced
+  reconcile REV-DJI-001, 2026-07-16.)

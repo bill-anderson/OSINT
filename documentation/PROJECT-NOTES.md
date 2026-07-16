@@ -30,9 +30,10 @@ analysis. Obsidian is the viewer, git the history, Claude Code the agent.
   tree; cross-listing by multi-tagging, never by two parents.
 - **Three-state pipeline**: `new/` → `raw/` (flat) → `_leads/`, all at root.
   Folder = state. Move out of `new/` is always the last step.
-- **`reviews/`** = the review pipeline that *fixes* the wiki:
-  `contradictions/{open,done,research}/` + `gaps.md`. **`log.md`** = append-only
-  record of what happened. Never conflate the open worklist with the log.
+- **`reviews/`** = everything held for the human:
+  `contradictions/{open,done,research}/` (fixes), `gaps.md` (sourcing leads) +
+  `issues.md` (decisions). **`log.md`** = append-only record of what happened.
+  Never conflate an open register with the log.
 - **Reviews split by autonomy tier (2026-07-16).** Contradictions are
   machine-actionable: they flow through `reviews/contradictions/open → done`,
   auto-researched via Exa and *provisionally* resolved by the reconcile pass
@@ -43,6 +44,15 @@ analysis. Obsidian is the viewer, git the history, Claude Code the agent.
   ingest boundary is structural, not remembered. This replaced the monolithic
   `_review.md` and folded the old copy-paste-to-a-separate-project relay into one
   in-session pass now that the wiki has Exa.
+- **Issues register + park-don't-ask (2026-07-16).** `reviews/issues.md` is a
+  third human-owned register beside `gaps.md`: judgment calls the rules don't
+  determine (admissibility, schema tweaks, taxonomy questions, invariant edge
+  cases), each with CC's *recommended* resolution for bulk rubber-stamping. CC
+  **never asks an ad-hoc decision at the prompt** — it parks in the right register
+  (contradiction / gap / issue) and reports. The reconcile pass and ingest may
+  both *append* to gaps/issues but never *work* them. Every response ends with a
+  standing status line — overall open totals, `issues - NN ; contradictions - NN ;
+  gaps - NN`.
 - **`queries/` reads the base only; `reviews/` fixes it** — kept fully separate,
   never crossing. Contradiction reconciliation is *external* research: its brief
   lives with the `reviews/contradictions/` item, never in `queries/`.
@@ -58,9 +68,8 @@ analysis. Obsidian is the viewer, git the history, Claude Code the agent.
 - **WB numeric roll-ups** — abandoned; parent declared per node instead.
 - **`raw/YYYY/` year folders** — skipped; date-prefixed filenames already sort
   and grep. Trivially shardable later if `raw/` ever gets unwieldy.
-- **`geopol.gulf`** (UAE/G42/Presight) — still not in the taxonomy. Arguably the
-  most active new capital in African digital infra. Add any time; the schema
-  reads `taxonomy.md` as authority, so it costs no schema change.
+- **`geopol.gulf`** (UAE/G42/Presight) — now tracked as **ISSUE-001** in
+  `reviews/issues.md` (recommended: add it), no longer a loose deferred note.
 - **Currency + coverage-asymmetry gap sweeps** — deferred as opt-in until the
   conservative structural gap signal proves useful rather than noisy.
 - **Re-flagging previously-resolved contradictions** — deliberately not ruled on.

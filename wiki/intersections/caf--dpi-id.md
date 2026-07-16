@@ -8,8 +8,8 @@ topics: [dpi.id, dpi.registry, include.access, gov.standards]
 entities: [[al-madina], [genkey], [ane-central-african-republic], [oif-la-francophonie], [greater-internet-freedom], [faustin-archange-touadera]]
 lens: [sovereignty, colonialism]
 status: active
-last_reviewed: 2026-07-15
-sources: [[2023-06-27 Country Report - Rebuilding Identification and Stakeholder Engagement in the Central African Republic], [2023-10-07 Centrafrique - la delivrance de la carte nationale d'identite facilitee pour les habitants de Bossangoa], [2024-10-08 Central African Republic in full biometric voter registration preparations], [2024-12-10 Central African Republic enrols citizens for first local elections in 36 years], [2025-07-27 Centrafrique - le prix des cartes d'identite reduit apres cinq ans de violations de la loi], [2025-08-12 La Francophonie supports birth registration efforts across Central Africa, Madagascar], [2025-12-08 RCA - la societe Al-Madina deploie sa mission d'identite a Birao]]
+last_reviewed: 2026-07-16
+sources: [[2020-08-21 Centrafrique - Al Madina, la societe qui pose question a Bangui (RFI)], [2023-06-27 Country Report - Rebuilding Identification and Stakeholder Engagement in the Central African Republic], [2023-10-07 Centrafrique - la delivrance de la carte nationale d'identite facilitee pour les habitants de Bossangoa], [2024-10-08 Central African Republic in full biometric voter registration preparations], [2024-12-10 Central African Republic enrols citizens for first local elections in 36 years], [2025-07-27 Centrafrique - le prix des cartes d'identite reduit apres cinq ans de violations de la loi], [2025-08-12 La Francophonie supports birth registration efforts across Central Africa, Madagascar], [2025-12-08 RCA - la societe Al-Madina deploie sa mission d'identite a Birao]]
 ---
 
 # Central African Republic × Digital Identity
@@ -23,7 +23,9 @@ than by any digital stack.
 ## What we know
 
 **Foundational ID: a contested rebuild.** After 2013 the government began re-issuing the
-**secure national ID card (CNI)**, contracted to private printer **[[al-madina]]**. The
+**secure national ID card (CNI)**, contracted to private printer **[[al-madina]]** — an
+**Oman-registered, Lebanese-owned** firm (the Nassour family's Almadina Group; the "Lebanese vs Omani"
+descriptors are domicile-vs-ownership, not two firms — REV-CAF-001 resolved). The
 **[[greater-internet-freedom]]** country report (Jun 2023) finds the contracting **opaque**
 (the award escaped public-procurement scrutiny; a predecessor "Centrafrique Carte System /
 CCS" held ID contracting in 2016–2017) and documents popular perceptions of **foreign control**
@@ -61,6 +63,7 @@ Place: [[CAF]] · Concepts: [[dpi.id]] · [[dpi.registry]] · [[include.access]]
 
 ## Sources
 
+- [[2020-08-21 Centrafrique - Al Madina, la societe qui pose question a Bangui (RFI)]]
 - [[2023-06-27 Country Report - Rebuilding Identification and Stakeholder Engagement in the Central African Republic]]
 - [[2023-10-07 Centrafrique - la delivrance de la carte nationale d'identite facilitee pour les habitants de Bossangoa]]
 - [[2024-10-08 Central African Republic in full biometric voter registration preparations]]

@@ -6,7 +6,7 @@ parent: XEA
 place_kind: country
 topics: [infra.connect, infra.store, gov.protect, dpi.exchange, tech.ai, gov.policy, gov.regional, include.divides, dpi.id, dpi.pay, dpi.govtech, infra.cybersec]
 status: active
-last_reviewed: 2026-07-15
+last_reviewed: 2026-07-16
 ---
 
 # Djibouti (DJI)
@@ -30,11 +30,16 @@ transit position.
   government-to-business one-stop shop for MSMEs (startup portal, G2B one-stop, e-payments) under
   Vision 2035. See [[dpi.govtech]]. Source:
   [[2025-12-18 Djibouti begins one-stop G2B digital platform for businesses]].
-- **2025-11-10** — **Bill to create a statutory National Cybersecurity Authority (ANC).**
-  Presented to the National Assembly; complements the National Cybersecurity Strategy 2024–2030 and
-  the Digital Code. Naming reconciliation with the earlier "ANCS" is open (`_review.md` REV-DJI-001).
-  See [[infra.cybersec]], [[national-cybersecurity-authority-djibouti]]. Source:
-  [[2025-11-12 Djibouti advances bill to create National Cybersecurity Authority]].
+- **2025-11-10 → 12-15** — **Statutory National Cybersecurity Authority (ANC) created and launched.**
+  A bill presented to the National Assembly (10 Nov) became **Loi n° 195/AN/25** (adopted 12 Nov;
+  Journal Officiel 15 Dec 2025) — the **[[national-cybersecurity-authority-djibouti|ANC]]** is an autonomous
+  public establishment under the Presidency, **operational from Dec 2025** (DG **Abdallah Ibrahim Yonis**),
+  with **ANSIE's DSSI** as its nucleus (law Art. 24). The earlier **"ANCS"** credited with the 2024 strategy
+  was a **pre-statutory label, not a separate body** (REV-DJI-001 resolved 2026-07-16). Complements the
+  Cybersecurity Strategy 2024–2030 and the Digital Code. See [[infra.cybersec]]. Sources:
+  [[2025-11-12 Djibouti advances bill to create National Cybersecurity Authority]],
+  [[2025-12-15 Loi n 195-AN-25 portant creation de l'Autorite Nationale de Cybersecurite (Djibouti, JO)]],
+  [[2025-12-09 Djibouti Launches National Cyber Security Authority (ANC operational, DG named)]].
 - **2025-09-16** — **Visa "Smart Wallet" national digital wallet MoU.** [[smart-wallet-djibouti]]
   with **[[visa]]** and **[[tech5]]** biometric onboarding — payments + government services +
   identity, targeting a 60% cash cut in three years. See [[dpi.pay]], [[djibouti--dpi-pay]]. Source:
@@ -85,7 +90,8 @@ transit position.
   **[[djibouti-digital-code|Digital Code]]** / **[[cndp-djibouti|CNDP]]** legal base. See
   [[djibouti--dpi-id]], [[djibouti--gov-protect]].
 - [[infra.cybersec]] — Digital Code cybersecurity provisions, National Cybersecurity Strategy
-  2024–2030, and the statutory **[[national-cybersecurity-authority-djibouti|ANC]]** bill.
+  2024–2030, and the statutory **[[national-cybersecurity-authority-djibouti|ANC]]** (Loi n° 195/AN/25,
+  operational Dec 2025; nucleus = ANSIE's DSSI).
 - [[dpi.pay]] — **[[smart-wallet-djibouti|Smart Wallet]]** (Visa/Tech5) and Djibouti Telecom's
   D-Money. See [[djibouti--dpi-pay]].
 - [[dpi.govtech]] — G2B one-stop platform; World Bank GovTech operations (customs/ASYCUDAWorld).

@@ -9,10 +9,12 @@ between the two.
 ## What it operates on
 
 Exactly the files in `reviews/contradictions/open/` — one contradiction per
-file. It **never** reads `reviews/gaps.md`: gaps are human-decision leads (the
-human decides whether to source them), so they are out of scope by
-construction, not by remembering. If `open/` is empty, report "no
-contradictions outstanding" and stop.
+file. It **never works the human-decision registers (`reviews/gaps.md`,
+`reviews/issues.md`) as worklists**: the gaps and issues already there are the
+human's to decide, out of scope by construction, not by remembering. (It *may
+append* a gap or issue it newly surfaces while reconciling — surfacing one is not
+working it; see Failure modes.) If `open/` is empty, report "no contradictions
+outstanding" and stop.
 
 ## The boundary (do not weaken)
 
@@ -64,6 +66,11 @@ A reconcile resolution is **provisional and reversible**: a tier-2 action
 Every resolved item is itemised in the weekly digest for the human's sweep and
 spot-check. The human ratifies on their own schedule; nothing here blocks.
 
+Anything the pass can't settle — a gap, an issue, an inconclusive contradiction —
+is **parked in its register and reported in the wrap-up, never asked at the
+prompt.** The wrap-up's **last line** is the standing status line (CLAUDE.md →
+Autonomy and review): `issues - NN ; contradictions - NN ; gaps - NN`.
+
 ## Failure modes
 
 - **Inconclusive research** — the sources still don't reconcile, or the
@@ -73,12 +80,22 @@ spot-check. The human ratifies on their own schedule; nothing here blocks.
   manufactured answer.
 - **New contradiction surfaced** — if research turns up a *fresh* conflict,
   create a new `open/` file for it rather than folding it silently into this one.
-- **A gap turns up instead of a resolution** — record it in `reviews/gaps.md`
-  for the human; do not action it.
+- **A gap surfaces while reconciling** — e.g. the resolution leaves a body
+  referenced-but-unhubbed. **Append** it to `reviews/gaps.md` as a lead (an ID +
+  a `*Lead:*` line), exactly as ingest step 8 files a gap — a tier-3 hold the
+  human still decides on. Surfacing it is in scope; **sourcing it or creating the
+  page is not.** Note the new gap in the digest.
+- **A judgment call surfaces that the rules don't settle** — e.g. an
+  admissibility question about a primary, or an uncertain classification.
+  **Append** it to `reviews/issues.md` with a **recommended** resolution and
+  carry on; never stop to ask at the prompt.
 
 ## What this pass must never do
 
-- Touch `reviews/gaps.md`, or create pages from gaps.
+- Work the human-decision registers (`reviews/gaps.md`, `reviews/issues.md`) as
+  worklists, or action / source / create a page from any gap, or resolve any
+  issue — existing or freshly surfaced. (It *may append* a newly-surfaced gap or
+  issue as a lead; see Failure modes.)
 - Write to `raw/`, or cite `reviews/contradictions/research/` from a wiki page.
 - Ingest a research synthesis as a source.
 - Edit `CLAUDE.md` — schema changes are ratified separately (invariant).

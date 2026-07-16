@@ -5,17 +5,17 @@ title: Al Madina
 places: [CAF]
 topics: [dpi.id, gov.standards]
 lens: [sovereignty, colonialism]
-status: needs-review
-last_reviewed: 2026-07-15
-sources: [[2023-06-27 Country Report - Rebuilding Identification and Stakeholder Engagement in the Central African Republic], [2023-10-07 Centrafrique - la delivrance de la carte nationale d'identite facilitee pour les habitants de Bossangoa], [2024-10-08 Central African Republic in full biometric voter registration preparations], [2025-07-27 Centrafrique - le prix des cartes d'identite reduit apres cinq ans de violations de la loi], [2025-12-08 RCA - la societe Al-Madina deploie sa mission d'identite a Birao]]
+status: active
+last_reviewed: 2026-07-16
+sources: [[2020-08-21 Centrafrique - Al Madina, la societe qui pose question a Bangui (RFI)], [2023-06-27 Country Report - Rebuilding Identification and Stakeholder Engagement in the Central African Republic], [2023-10-07 Centrafrique - la delivrance de la carte nationale d'identite facilitee pour les habitants de Bossangoa], [2024-10-08 Central African Republic in full biometric voter registration preparations], [2025-07-27 Centrafrique - le prix des cartes d'identite reduit apres cinq ans de violations de la loi], [2025-12-08 RCA - la societe Al-Madina deploie sa mission d'identite a Birao]]
 ---
 
 # Al Madina
 
-Private security-printing company contracted to produce the **Central African Republic's
-secure national ID card (CNI)** under a public-private arrangement — the private
-infrastructure provider at the centre of CAR's post-2013 identity rebuild, and a lightning
-rod for sovereignty concerns about foreign control of citizens' identity.
+**Oman-registered, Lebanese-owned** security-printing company (the **Nassour** family's Almadina
+Group) contracted to produce the **Central African Republic's secure national ID card (CNI)** under a
+public-private arrangement — the private infrastructure provider at the centre of CAR's post-2013 identity
+rebuild, and a lightning rod for sovereignty concerns about foreign control of citizens' identity.
 
 ## Activity in this wiki
 
@@ -40,12 +40,17 @@ rod for sovereignty concerns about foreign control of citizens' identity.
   [[2023-10-07 Centrafrique - la delivrance de la carte nationale d'identite facilitee pour les habitants de Bossangoa]],
   [[2025-12-08 RCA - la societe Al-Madina deploie sa mission d'identite a Birao]].
 
-## Provenance flag (needs-review)
+## Home country (resolved 2026-07-16, REV-CAF-001)
 
-Sources **conflict on Al Madina's home country**: Corbeau News calls it "la société
-**libanaise** Almadina" (Lebanese); Biometric Update calls it an "**Oman**-headquartered
-security printing company." Recorded, not silently resolved — see `_review.md` (REV-CAF-001).
-Distinguish from unrelated "Al Madina"–named firms elsewhere.
+The "Lebanese vs Omani" conflict is **the same firm described at two levels, not two firms**:
+**corporate domicile is Oman**, **ownership/management is Lebanese**. Al Madina / Almadina is
+**registered in Oman** (Muscat/Ruwi — "Al Madina Development & Supply LLC" and its "Security Printing
+Press Oman LLC" division, founded 1984), but is **run by the Lebanese Nassour family** — directed by
+**Aziz Nassour**, with associate Moustapha Nassour. RFI (21 Aug 2020) states it plainly: "société
+**enregistrée à Oman** et qui est **dirigée par Aziz Nassour**." So Corbeau News's "société **libanaise**"
+(ownership nationality) and Biometric Update's "**Oman**-headquartered" (registration) are both accurate.
+No distinct, unrelated "Al Madina"-named firm is the CAR printer. Source:
+[[2020-08-21 Centrafrique - Al Madina, la societe qui pose question a Bangui (RFI)]].
 
 ## Related
 

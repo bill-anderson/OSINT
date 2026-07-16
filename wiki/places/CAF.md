@@ -6,7 +6,7 @@ parent: XCA
 place_kind: country
 topics: [dpi.id, dpi.govtech, gov.protect, infra.connect, infra.energy, gov.policy, gov.regional, dpi.pay, dpi.registry, tech.ai, include.divides, include.access]
 status: active
-last_reviewed: 2026-07-15
+last_reviewed: 2026-07-16
 ---
 
 # Central African Republic (CAF)
@@ -58,7 +58,7 @@ struggling to reach its own territory on the other.
 ## Active topics
 
 - **Digital identity & CRVS** → **[[caf--dpi-id]]**. Post-2013 rebuild of the CNI via
-  **[[al-madina]]** (opaque contracting, Bangui-centralised, a resolved price scandal, mobile
+  **[[al-madina]]** (Oman-registered, Lebanese-owned; opaque contracting, Bangui-centralised, a resolved price scandal, mobile
   enrolment town-by-town); biometric voter register on **[[genkey]]** run by
   **[[ane-central-african-republic]]**; nascent **[[oif-la-francophonie]]** birth registration.
 - **GovTech / e-government** → **[[caf--dpi-govtech]]**. Three platforms in a year — **e-Tax**

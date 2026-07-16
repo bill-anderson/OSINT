@@ -5,6 +5,55 @@ contradictions found, and open `needs-review` flags.
 
 ---
 
+## 2026-07-16 — ISSUE-001 resolved (geopol.gulf already in taxonomy)
+
+Bill confirmed **`geopol.gulf`** is already in `wiki/taxonomy.md` (Geopolitics section, line 55 —
+"Gulf/UAE activities"). The issue was stale: the slug is both in the authority file **and** in active use
+(concept page [[geopol.gulf]], tagged across COD, KEN, geopol.usa, etc.). No action needed. Removed
+ISSUE-001 from `reviews/issues.md`; register now empty.
+
+---
+
+## 2026-07-16 — Reconcile pass (REV-CAF-001, REV-DJI-001 resolved — open/ now empty)
+
+First run of the in-session reconcile pass (`reconcile_review.md`) on `reviews/contradictions/open/`.
+Both open contradictions resolved conclusively; 3 primaries extracted → `new/` → ingested; research
+quarantined do-not-ingest; `open/` drained.
+
+**REV-CAF-001 · Al Madina home country — RESOLVED (conclusive).** Researched via Exa. **Both descriptors
+are right at different levels, not two firms:** Al Madina / Almadina is **registered/HQ'd in Oman**
+(Muscat/Ruwi; "Al Madina Development & Supply LLC" / "Security Printing Press Oman LLC", founded 1984) but
+**Lebanese-owned/run** (the **Nassour** family — Aziz Nassour, dir.). RFI (21 Aug 2020) states it plainly:
+"enregistrée à Oman… dirigée par Aziz Nassour." Corbeau's "libanaise" = ownership nationality; Biometric
+Update's "Oman-headquartered" = registration. No unrelated same-named firm involved.
+- **Primary extracted → new/ → ingested:** [[raw/2020-08-21 Centrafrique - Al Madina, la societe qui pose question a Bangui (RFI)]]
+  (routed through `new/` and the intake screen, not written to `raw/` directly).
+- **Research quarantined** (do-not-ingest): `reviews/contradictions/research/REV-CAF-001.md`.
+- **Pages resolved (cite the primary, not the research):** [[al-madina]] (needs-review → active; "Home
+  country (resolved)" section), [[caf--dpi-id]], [[CAF]].
+- Item moved `open/ → done/`.
+
+**REV-DJI-001 · Djibouti ANCS vs ANC — RESOLVED (conclusive, primary law text found).** The statutory
+body is the **ANC** (Autorité Nationale de Cybersécurité), created by **Loi n° 195/AN/25/9ème L** (adopted
+12 Nov 2025; JO n°23, 15 Dec 2025) — an autonomous public establishment under the Presidency, operational
+from Dec 2025 (DG **Abdallah Ibrahim Yonis**). Law **Art. 24** makes **ANSIE's DSSI** its initial nucleus,
+so the real predecessor is ANSIE's cyber directorate, **not** a body called "ANCS." "ANCS" (in the Nov-2024
+strategy reporting) was a **pre-statutory/informal label**, not a separate institution and not a straight
+rename.
+- **Primaries extracted → new/ → ingested (2):** [[raw/2025-12-15 Loi n 195-AN-25 portant creation de l'Autorite Nationale de Cybersecurite (Djibouti, JO)]]
+  (the Journal Officiel law text — gold-standard primary) and
+  [[raw/2025-12-09 Djibouti Launches National Cyber Security Authority (ANC operational, DG named)]].
+- **Research quarantined** (do-not-ingest): `reviews/contradictions/research/REV-DJI-001.md`.
+- **Pages resolved:** [[national-cybersecurity-authority-djibouti]] (needs-review → active; retitled to lead
+  with ANC; "Name / lineage (resolved)" section), [[djibouti--gov-protect]], [[DJI]].
+- Item moved `open/ → done/`.
+
+**Flag:** the ANC law transfers **ANSIE's** DSSI into the ANC — **ANSIE** (Agence Nationale des Systèmes
+d'Information de l'État) is now a referenced-but-unhubbed body (plain-text mentions, no dead links). Possible
+entity-creation follow-up for the human; not actioned here (reconcile pass does not touch `gaps.md`).
+
+---
+
 ## 2026-07-16 — Morning news ingest (9 items)
 
 Drained `new/` (9 clips). **7 admitted as new-development sources; 2 same-event duplicates attached to
