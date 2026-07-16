@@ -4,22 +4,38 @@ title: Senegal
 code: SEN
 parent: XWA
 place_kind: country
-topics: [gov.policy, infra.connect, infra.store, dpi.id, dpi.pay, dpi.exchange, gov.protect, infra.cybersec, include.access, tech.ai, capacity.research, geopol.usa, geopol.eu, digital.rural, include.divides, data.satellite, finance.new, gov.regional, gov.standards]
+topics: [gov.policy, infra.connect, infra.store, dpi.id, dpi.registry, dpi.govtech, dpi.pay, dpi.exchange, gov.protect, infra.cybersec, include.access, tech.ai, capacity.research, geopol.usa, geopol.eu, digital.rural, include.divides, data.satellite, finance.new, gov.regional, gov.standards]
 status: active
-last_reviewed: 2026-07-14
+last_reviewed: 2026-07-16
 ---
 
 # Senegal (SEN)
 
 ## Recent developments
 
+- **2026-07-15** — **15.3m civil-registration records digitised (ANEC).** Senegal's National Civil
+  Registration Agency **[[anec-senegal]]** reported digitising **>15.3m** civil-registration records, with
+  **629 civil-status centres** networked (67% via the LGEC software; 27% on the **Sama État Civil** online
+  platform) and 3,695 officers trained; a **data-verification campaign runs 13–29 Jul 2026** (Fatick, Louga,
+  Diourbel). Foundational CRVS beneath digital ID/DPI. See [[dpi.registry]], [[dpi.id]], [[dpi.govtech]].
+  Source: [[2026-07-15 Senegal digitizes more than 15 million birth records in civil registration overhaul]].
+- **2026-07-13** — **Public–private push to secure critical infrastructure.** At a consultation led by the
+  Minister of Telecommunications and Digital Affairs, Senegal launched stronger public–private cooperation to
+  protect critical digital infrastructure and **prepare a future CI-protection legal framework**, under the
+  **[[new-deal-technologique|New Deal Technologique]]**. Follows attacks on the **Public Treasury (May 2026)**,
+  the **tax authority (Oct 2025)** and the **national ID-card agency (Feb 2026)**. (ITU GCI 2024: 67.17/100,
+  tier 3 of 4.) See [[infra.cybersec]], [[gov.protect]], [[gov.policy]]. Source:
+  [[2026-07-15 Senegal pushes stronger cybersecurity cooperation to protect critical infrastructure]].
 - **2026-07-13** — **EBRD's first Senegal investment: €270m to Yas.** The **[[ebrd]]** extended a
   senior facility of up to **€270m** to **[[yas]]** ([[axian-telecom]]) for **4G/5G and accelerated
   fibre** in Senegal (and Kenya, [[KEN]]) — the Bank's **first-ever investment in Senegal** and its
   first local-currency / A/B loan structure in sub-Saharan Africa ([[ebrd-yas-network-loan]]; €170m
   committed + €100m uncommitted, [[ilx-fund]] in the B-loan). Senegal became an EBRD country of
-  operation in 2025. Source:
-  [[2026-07-13 EBRD Extends €270m Financing to Yas for Kenya, Senegal Network Expansion]]. See
+  operation in 2025. (Later coverage adds the Kenya leg targets modernising the **Zuku** network — Yas
+  acquired Zuku's parent Wananchi Group in 2025 — and confirms the EBRD firsts: first Senegal project, first
+  SSA local-currency financing, first regional A/B loan.) Sources:
+  [[2026-07-13 EBRD Extends €270m Financing to Yas for Kenya, Senegal Network Expansion]],
+  [[2026-07-14 Yas gets $307m to rebuild Zuku's broadband fight in Kenya and expand in Senegal]]. See
   [[infra.connect]], [[finance.new]], [[geopol.eu]], [[KEN]].
 - **2026-05-23** — **Via Africa subsea cable landing.** Senegal is a named landing point for
   the **[[orange]]**-led **[[via-africa-cable]]**, a >20,000km Atlantic corridor linking West

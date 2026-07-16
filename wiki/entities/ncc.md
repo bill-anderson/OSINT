@@ -6,8 +6,8 @@ places: [NGA]
 topics: [infra.connect, gov.policy, gov.legislate, gov.standards]
 lens: []
 status: active
-last_reviewed: 2026-07-12
-sources: [[2026-07-08 FG Halts Enforcement of New Regulations on Internet Platforms], [2026-05-22 Why global hyperscalers are avoiding Nigeria despite Africa's biggest market], [2026-06-04 Chinese bank backs Nigeria towers project], [2025-02-13 Digital ID necessity increases in Nigeria despite lingering challenges], [2026-01-15 Amazon Leo secures landing permit in Nigeria], [2026-01-13 Spacecoin strikes major deals to launch satellite internet], [2026-06-25 Regulating for Africa's future digital economy – A draft agenda to speed things up]]
+last_reviewed: 2026-07-16
+sources: [[2026-07-15 Nigeria records surge in fibre cuts (NCC)], [2026-07-08 FG Halts Enforcement of New Regulations on Internet Platforms], [2026-05-22 Why global hyperscalers are avoiding Nigeria despite Africa's biggest market], [2026-06-04 Chinese bank backs Nigeria towers project], [2025-02-13 Digital ID necessity increases in Nigeria despite lingering challenges], [2026-01-15 Amazon Leo secures landing permit in Nigeria], [2026-01-13 Spacecoin strikes major deals to launch satellite internet], [2026-06-25 Regulating for Africa's future digital economy – A draft agenda to speed things up]]
 ---
 
 # Nigerian Communications Commission (NCC)
@@ -18,6 +18,13 @@ a named party to a governance action.
 
 ## Activity in this wiki
 
+- **Record fibre-cut surge (2026-07, NCC data).** NCC data show **155,397 fibre-cut incidents** in
+  **Apr–May 2026** (74,276 → a record **79,121**), up **2,428%** on Q1 — **vandalism** the leading cause
+  (>54,000) despite the **Critical National Information Infrastructure** designation (penalties to 10 yrs);
+  road works/faults/degradation added >84,000. NCC is developing a **cost-based shared-duct framework**, and
+  operators are trialling **AI fibre-sensing**; the **Dig-Once** policy is not yet widely adopted. ~35,000 km
+  of fibre deployed under the National Broadband Plan. See [[infra.connect]], [[infra.cybersec]]. Source:
+  [[2026-07-15 Nigeria records surge in fibre cuts (NCC)]].
 - **Regulatory harmonisation committee (2026-07).** Named — with [[nitda]] and [[ndpc]] —
   to the joint technical coordination committee established by Minister [[bosun-tijani]] to
   develop a unified national digital-economy policy and governance framework, while
@@ -56,6 +63,7 @@ a named party to a governance action.
 
 ## Sources
 
+- [[2026-07-15 Nigeria records surge in fibre cuts (NCC)]]
 - [[2026-07-08 FG Halts Enforcement of New Regulations on Internet Platforms]]
 - [[2026-05-22 Why global hyperscalers are avoiding Nigeria despite Africa's biggest market]]
 - [[2026-06-04 Chinese bank backs Nigeria towers project]]

@@ -7,7 +7,7 @@ topics: [dpi.id, gov.regional, infra.cybersec, infra.store, dpi.govtech]
 lens: [sovereignty, colonialism]
 status: active
 last_reviewed: 2026-07-11
-sources: [[2026-03-30 Focus on Sahel digital sovereignty gets clearer with Niger's new biometric ID card], [2026-02-02 Mali unveils modern Tier III data centre], [2026-01-22 Burkina Faso aims for digital sovereignty with infrastructure supervision center]]
+sources: [[2026-03-30 Focus on Sahel digital sovereignty gets clearer with Niger's new biometric ID card], [2026-02-02 Mali unveils modern Tier III data centre], [2026-01-22 Burkina Faso aims for digital sovereignty with infrastructure supervision center], [2025-11-10 Burkina Faso introduces new AES biometric ID system (CIB-AES)]]
 ---
 
 # Alliance of Sahel States (AES)
@@ -23,8 +23,12 @@ dependence. See [[XWA]], [[gov.regional]], [[sovereignty]], [[colonialism]].
 - **Common AES biometric ID and passport.** The three states agreed a shared identity
   credential enabling **passport-free travel within the AES**, and launched a **common
   biometric passport in January 2025**. See [[dpi.id]].
-- **Burkina Faso first (Nov 2025).** Burkina Faso was the first to adopt the regional
-  ID document, with President Ibrahim Traoré the first to register.
+- **Burkina Faso first — the CIB-AES (Nov–Dec 2025).** Burkina Faso was the first to adopt the
+  regional ID document: the **[[cib-aes]]** (Carte d'Identité Biométrique de l'AES), approved by decree
+  6 Nov 2025 and unveiled by **[[oni-burkina-faso]]** on 1 Dec 2025, replacing the CNIB as the 5th
+  generation of national ID — deliverable from age 5, mandatory from 13, cost 3,500 FCFA, ICAO-aligned,
+  bearing both the national flag and the AES logo. See [[dpi.id]], [[burkina-faso--dpi-id]]. Source:
+  [[2025-11-10 Burkina Faso introduces new AES biometric ID system (CIB-AES)]].
 - **Niger enrolment began (2026-03-27).** Niger became the second AES state to launch
   the biometric national ID, with **President Abdourahamane Tiani the first enrollee**
   at the 2026-03-27 ceremony (presidential decree approved Dec 2025). Issued to
@@ -52,3 +56,4 @@ dependence. See [[XWA]], [[gov.regional]], [[sovereignty]], [[colonialism]].
 - [[2026-03-30 Focus on Sahel digital sovereignty gets clearer with Niger's new biometric ID card]]
 - [[2026-02-02 Mali unveils modern Tier III data centre]]
 - [[2026-01-22 Burkina Faso aims for digital sovereignty with infrastructure supervision center]]
+- [[2025-11-10 Burkina Faso introduces new AES biometric ID system (CIB-AES)]]

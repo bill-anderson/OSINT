@@ -4,19 +4,22 @@ title: Cameroon
 code: CMR
 parent: XCA
 place_kind: country
-topics: [infra.cybersec, dpi.govtech, dpi.registry, dpi.id, digital.localgov, include.access]
+topics: [infra.cybersec, dpi.govtech, dpi.registry, dpi.id, dpi.exchange, dpi.mis, tech.ai, infra.connect, infra.store, gov.legislate, gov.protect, gov.policy, digital.localgov, include.access, include.divides]
 status: active
-last_reviewed: 2026-07-11
+last_reviewed: 2026-07-15
 ---
 
 # Cameroon (CMR)
 
-Cameroon's digital transformation is running through two donor-backed tracks: a
-**World Bank–funded cybersecurity build-out** to protect critical digital
-infrastructure (via ANTIC and the PATNUC programme), and a **UNDP/Denmark-funded
-digitisation of civil registration** to widen legal-identity access in
-crisis-affected regions. Both are institutional-capacity plays rather than
-flagship national platforms.
+Cameroon is now running a **foreign-vendor-built foundational-identity overhaul** alongside its
+donor-backed capacity tracks. Two coordinated identity reforms anchor it: a new **biometric
+national ID card** (police/DGSN under a 15-year BOT with Germany's Augentic — the first African
+ID-1 portrait format) and a **legally-reformed digital civil registry** (BUNEC under Law 2024/016,
+targeting a fully digital CRVS by 2029 with Luxembourg's Liber). Around them sit a World Bank
+cybersecurity build (ANTIC/PATNUC), UNDP/Denmark civil-registration in crisis regions, a nascent
+national AI strategy (SNIA, with local ST Digital), and PATNUC rural connectivity. The unifying
+tension is **advanced-but-foreign-run infrastructure**: technically strong, but contested on cost,
+capacity and sovereignty.
 
 ## Recent developments
 
@@ -55,8 +58,32 @@ flagship national platforms.
   [[2026-02-16 Waking the dead - Slow road to extinction for Africa's former telco incumbents 11]],
   [[2026-04-16 The Long View - What ICT4D did for Africa and why that deep past matters for today]].
 
+- **2025-10-27** — **BUNEC × Liber Technologies: digital CRVS to 2029.** [[bunec]] partnered
+  Luxembourg's [[liber-technologies]] to implement the new civil-registration law
+  ([[cameroon-civil-registration-law-2024]], Law 2024/016 — digital certificates + a UPIN), targeting
+  a fully digital CRVS by 2029. → [[cameroon--dpi-id]]. Source: [[2025-10-27 Cameroon's BUNEC partners with Liber Technologies for CRVS digitization]].
+- **2025-11-09** — **PATNUC rural connectivity: 328 localities by 2028.** Bidding opened (55bn XAF, WB)
+  to connect 328 unserved 3G localities. [[patnuc]]. Source: [[2025-11-09 Cameroon aims to connect 328 rural communities by 2028 (PATNUC)]].
+- **2025-07-16** — **National AI Strategy (SNIA) with ST Digital.** Government tapped local operator
+  **[[st-digital]]** (Douala Tier 3 DC, sovereign cloud) to help roll out the **[[snia-cameroon]]**. See
+  [[tech.ai]]. Source: [[2025-07-16 Cameroon taps ST Digital to lead National AI Strategy (SNIA)]].
+- **2025-02 → 08** — **New biometric national ID card (DGSN × Augentic).** Pre-enrolment from 17 Feb 2025,
+  48-hour issuance promise; ICAO/ISO-IEC 19303, first African ID-1 portrait format; issuance began Mar
+  2025; Far North rapid-enrolment (Aug 2025). Opposition MPs criticised cost/complexity before the Oct
+  2025 presidential vote. → [[cameroon--dpi-id]]. Sources: [[2025-02-05 Cameroon's new-generation biometric national ID card system (Augentic) goes live]], [[2025-06-24 Cameroon lawmakers criticize cost, complications in new national ID system]].
+- **2024-11** — **Draft civil-registration + data-protection laws; Campost × FindMe address system.**
+  Parliament received the CRVS-reform and data-protection bills ([[cameroon-civil-registration-law-2024]]);
+  [[campost]] partnered start-up [[findme]] on the national address system (KYC). Sources: [[2024-11-19 Cameroon introduces draft laws on civil registration reform, data protection]], [[2024-11-04 Cameroon's Campost partners with FindMe to improve national address system]].
+- **Digital health gap (2025 study).** A peer-reviewed assessment found weak digital-health governance —
+  85% unaware of guidelines, 45% reporting DHIS2 interoperability problems. See [[dpi.mis]]. Source: [[2025-11-11 Assessing the landscape of digital health implementation for data services in Cameroon]].
+
 ## Active topics
 
+- **Digital identity & CRVS** → **[[cameroon--dpi-id]]**. The biometric CNI ([[dgsn-cameroon]]/[[augentic]],
+  15-yr BOT) + the Law-2024/016 digital civil registry ([[bunec]]/[[liber-technologies]], UPIN, CRVS-by-2029)
+  + UNDP/Denmark first digital birth certificates.
+- [[tech.ai]] · [[infra.store]] — National AI Strategy ([[snia-cameroon]]) with local sovereign-cloud
+  operator [[st-digital]].
 - [[infra.cybersec]] · [[dpi.govtech]] — **ANTIC**'s CIRT hardened via the World
   Bank **PATNUC** programme (~$1.3m procurement); Public Key Infrastructure and
   digital-trust mandate amid rising cybercrime (32,500 complaints in 2025).
@@ -66,8 +93,8 @@ flagship national platforms.
 
 ## Entities
 
-- [[antic-cameroon]] — National Agency for ICTs; CIRT operator (DG Ebot Ebot Enaw)
-- [[patnuc]] — World Bank Project for the Acceleration of Digital Transformation of Cameroon
-- [[world-bank]] · [[undp]] — cybersecurity and civil-registration financiers
-- Mentioned, not hubbed: Ministry of Posts & Telecommunications; Denmark (UNDP
-  Funding Windows).
+**Identity/CRVS:** [[dgsn-cameroon]] · [[augentic]] · [[bunec]] · [[liber-technologies]] · [[cameroon-civil-registration-law-2024]]
+**Infrastructure/AI:** [[st-digital]] · [[snia-cameroon]] · [[antic-cameroon]] (CIRT, DG Ebot Ebot Enaw) · [[patnuc]] (WB digital-transformation project)
+**Postal/address:** [[campost]] · [[findme]]
+**Financiers/partners:** [[world-bank]] · [[undp]]
+Mentioned, not hubbed: Ministry of Posts & Telecommunications; ART (regulator); Camtel; MTN Cameroon; Orange Cameroun; Denmark (UNDP Funding Windows); DHIS2.

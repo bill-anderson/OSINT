@@ -6,7 +6,7 @@ places: [MOZ]
 topics: [infra.cybersec, gov.legislate]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-11
+last_reviewed: 2026-07-16
 sources: [[2026-04-17 Mozambique parliament unanimously approves Cyber Security Law]]
 ---
 
@@ -18,7 +18,16 @@ Mozambique's national cyber security statute, approved unanimously by parliament
 
 - **Unanimous parliamentary approval (2026-04-17).** Both the Cyber Security Law and a companion Cybercrime Law (defining offences and penalties) passed all parliamentary benches. The [[MOZ]] parliamentary commission recommended the government pursue mutual legal-assistance agreements with other states, given cybercrime's transnational character. Source: [[2026-04-17 Mozambique parliament unanimously approves Cyber Security Law]].
 - **Institutional design (2026-04-17).** The National Institute of Communications of Mozambique (INCM) is designated technical coordinator for cyber-space security. Under Article 12, in a state of siege or emergency those functions of the National Cyber Security Authority pass to the Cyber Coordination Centre of the Defence and Security Forces — a civil-to-military handover on aggression, serious threat or disturbance of constitutional order, relevant to the [[sovereignty]] reading. The law also establishes a Cyber Security Fund to mobilise resources and train personnel.
-- **Cost figures internally inconsistent (as of 2026-04-17).** The source gives two irreconcilable implementation-cost figures — "just over 160 million meticais" (c. US$2.5m) in one passage and "167,257.94 million meticais" in another. Recorded as a discrepancy in the source; not reconciled here. Funding to come from the State Budget and donations. Source: [[2026-04-17 Mozambique parliament unanimously approves Cyber Security Law]].
+- **Implementation cost ≈167.26m MZN (≈US$2.5m) — resolved (REV-005, 2026-07-16).** The source's two
+  figures are **one number, not two**: "167.257,94" (PT number format) is a **thousands-of-meticais**
+  budget-table value (10³ MT) that the reporting mislabelled as "millions," so 167,257.94 × 1,000 MT ≈
+  **167.26 million MZN** — the same amount as the "just over 160 million meticais (≈US$2.5m)" printed
+  elsewhere in the article, loosely rounded down. The literal "167,257.94 million MZN" (≈167bn MZN /
+  ~US$2.6bn) is a units error — implausible at a double-digit share of Mozambique's entire annual State
+  Budget. Funding from the **State Budget and donations**. *Confidence high on the reconciliation, but the
+  figure originates in the bill's financial-impact annex (proposta de lei, 16 Apr 2026), which is **not
+  held**, and the enacted Lei n.º 13/2026 carries no cost — so the unit is not yet confirmed against a
+  primary budget line.* Source: [[2026-04-17 Mozambique parliament unanimously approves Cyber Security Law]].
 
 ## Sources
 

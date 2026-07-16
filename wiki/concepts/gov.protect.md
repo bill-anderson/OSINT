@@ -2,12 +2,12 @@
 type: concept
 title: Data protection
 slug: gov.protect
-places: [XAF, NGA, KEN, MWI, COD, ZAF, MUS, BEN, UGA, LBR, ZWE, ZMB, SEN, NAM, COG, SOM, MOZ, RWA, STP, XGL]
-entities: [[afcfta], [cbn], [ndpc], [meta], [ndpc-meta-settlement], [microsoft], [g42], [african-union], [popia], [research-ict-africa], [trendai], [ncc], [bosun-tijani], [fccpc], [sa-digital-id-regulations], [eac], [id4africa], [world-bank], [visa], [safaricom], [onafriq], [visa-mpesa-onafriq-drc-stablecoin-pilot], [america-first-global-health-strategy], [us-kenya-health-framework], [odpc-kenya], [zimbabwe-us-health-mou], [africa-cdc], [zte], [hikvision], [huawei], [cran], [starlink], [zambia-us-health-mou], [us-department-of-state], [national-personal-data-protection-commission-congo], [somalia-ministry-communications-technology], [intic-mozambique], [malawi-data-protection-act-2024], [dial], [nimc], [nigeria-data-protection-act-2023], [inec], [digital-rights-lawyers-initiative], [consumer-federation-of-kenya], [kenya-data-marketplace], [eu-ai-act], [au-data-policy-framework], [digital-policy-alert], [tech-hive-advisory], [code-for-africa], [d4d-hub], [auda-nepad], [kictanet]]
+places: [COM, CIV, CMR, BWA, BDI, AGO, XAF, CAF, NGA, KEN, MWI, COD, ZAF, MUS, BEN, UGA, LBR, ZWE, ZMB, SEN, NAM, COG, SOM, MOZ, RWA, STP, TZA, XGL, DJI, CPV, DZA, EGY]
+entities: [[afcfta], [cbn], [ndpc], [meta], [ndpc-meta-settlement], [microsoft], [g42], [african-union], [popia], [research-ict-africa], [trendai], [ncc], [bosun-tijani], [fccpc], [sa-digital-id-regulations], [eac], [id4africa], [world-bank], [visa], [safaricom], [onafriq], [visa-mpesa-onafriq-drc-stablecoin-pilot], [america-first-global-health-strategy], [us-kenya-health-framework], [odpc-kenya], [zimbabwe-us-health-mou], [africa-cdc], [zte], [hikvision], [huawei], [cran], [starlink], [zambia-us-health-mou], [us-department-of-state], [national-personal-data-protection-commission-congo], [somalia-ministry-communications-technology], [intic-mozambique], [malawi-data-protection-act-2024], [dial], [nimc], [nigeria-data-protection-act-2023], [inec], [digital-rights-lawyers-initiative], [consumer-federation-of-kenya], [kenya-data-marketplace], [eu-ai-act], [au-data-policy-framework], [digital-policy-alert], [tech-hive-advisory], [code-for-africa], [d4d-hub], [auda-nepad], [kictanet], [pdpc-tanzania]]
 lens: [sovereignty, colonialism]
 status: active
-last_reviewed: 2026-07-14
-sources: [[2026-01-11 The Year of the Teeth Data Protection in Africa Roundup, 2025, Projections for 2026], [2026-05-05 Africa's data protection laws began to bite in 2025], [2026-07-03 AfCFTA, Data Governance and the Hidden Legal Gaps Reshaping Africa's Digital Economy - P.M. News], [2026-07-07 CBN's local data order puts Nigeria's data centres to test], [2026-07-07 Malawi integrates immigration e-services], [2026-06-09 Meta backs NDPC in landmark privacy initiative], [2026-06-08 The Promise and Limits of African Data Sovereignty], [2026-07-03 Study finds governance, not technology, is blocking digital ID interoperability], [2026-06-17 Government data silos threaten Nigeria's AI ambitions], [2025-01-01 South African Digital Sovereignty at the Crossroad of Securitization and Development (Chapter 4) - Digital Sovereignty in the BRICS Countries], [2026-07-09 Anthropic's Claude to bolster data sovereignty in SA], [2026-07-10 Kenya and U.S. Discuss Draft Data Governance Policy to Strengthen Digital Economy], [2026-07-08 FG Halts Enforcement of New Regulations on Internet Platforms], [2026-07-10 Nigeria tests data sovereignty as foreign tech firms facing probe], [2026-05-29 Opinion South Africa's Digital Identity Regulations A Governance Crossroads], [2026-05-16 World Bank, African DPAs outline formula for trusted digital identity, DPI], [2026-04-23 Africa's $205 Billion Digital Shift Is Redefining Money, and Central Banks Are Losing Control], [2026-07-10 Visa and M-Pesa Launch Blockchain Stablecoin Pilot in DR Congo], [2026-03-04 Data Protection is the Next Frontier for Nigeria's Digital Economy, Says Samiat], [2026-02-02 NIN, Party e-registration and the NDPA 2023 When politics meets privacy (and why Nigerians should care)], [2026-02-27 Who Protects Nigeria's Digital Citizens Unmasking Accountability Gaps in Digital Rights Governance], [2026-03-07 Nigerians Groan Under Digital Identity Regime That Turns Basic Rights into Privileges], [2026-07-10 FIJ Showed That INEC Broke Data Law. Digital Rights Lawyers Sue the Commission 10 Months Later], [2026-07-10 Why Nigeria Is Investigating Meta, Google, X and AI Firms], [2026-07-10 CBN's Data Localisation Directive Puts Nigerian Fintechs In A Cloud Dilemma]]
+last_reviewed: 2026-07-16
+sources: [[2026-01-11 The Year of the Teeth Data Protection in Africa Roundup, 2025, Projections for 2026], [2026-05-05 Africa's data protection laws began to bite in 2025], [2026-07-03 AfCFTA, Data Governance and the Hidden Legal Gaps Reshaping Africa's Digital Economy - P.M. News], [2026-07-07 CBN's local data order puts Nigeria's data centres to test], [2026-07-07 Malawi integrates immigration e-services], [2026-06-09 Meta backs NDPC in landmark privacy initiative], [2026-06-08 The Promise and Limits of African Data Sovereignty], [2026-07-03 Study finds governance, not technology, is blocking digital ID interoperability], [2026-06-17 Government data silos threaten Nigeria's AI ambitions], [2025-01-01 South African Digital Sovereignty at the Crossroad of Securitization and Development (Chapter 4) - Digital Sovereignty in the BRICS Countries], [2026-07-09 Anthropic's Claude to bolster data sovereignty in SA], [2026-07-10 Kenya and U.S. Discuss Draft Data Governance Policy to Strengthen Digital Economy], [2026-07-08 FG Halts Enforcement of New Regulations on Internet Platforms], [2026-07-10 Nigeria tests data sovereignty as foreign tech firms facing probe], [2026-05-29 Opinion South Africa's Digital Identity Regulations A Governance Crossroads], [2026-05-16 World Bank, African DPAs outline formula for trusted digital identity, DPI], [2026-04-23 Africa's $205 Billion Digital Shift Is Redefining Money, and Central Banks Are Losing Control], [2026-07-10 Visa and M-Pesa Launch Blockchain Stablecoin Pilot in DR Congo], [2026-03-04 Data Protection is the Next Frontier for Nigeria's Digital Economy, Says Samiat], [2026-02-02 NIN, Party e-registration and the NDPA 2023 When politics meets privacy (and why Nigerians should care)], [2026-02-27 Who Protects Nigeria's Digital Citizens Unmasking Accountability Gaps in Digital Rights Governance], [2026-03-07 Nigerians Groan Under Digital Identity Regime That Turns Basic Rights into Privileges], [2026-07-10 FIJ Showed That INEC Broke Data Law. Digital Rights Lawyers Sue the Commission 10 Months Later], [2026-07-10 Why Nigeria Is Investigating Meta, Google, X and AI Firms], [2026-07-10 CBN's Data Localisation Directive Puts Nigerian Fintechs In A Cloud Dilemma], [2026-07-14 OUT, PDPC Launch National Data Protection Programme]]
 ---
 
 # Data protection (`gov.protect`)
@@ -140,9 +140,10 @@ Personal-data regimes across African jurisdictions — and the friction their
   money itself: SARB's Kganyago warned (Oct 2025) that **dollar stablecoins** could cost African
   states **monetary sovereignty**, with **$205bn** moving through SSA digital rails Jul 2024–Jun
   2025 (+52%), much via USD stablecoins outside central-bank oversight. Nigeria's [[cbn]] answered
-  with a 15-member task force and the regulated **cNGN**; meanwhile **[[visa]]/[[safaricom]] M-Pesa
-  / [[onafriq]]** launched a USD-stablecoin settlement pilot in **[[COD]] DR Congo**
-  ([[visa-mpesa-onafriq-drc-stablecoin-pilot]]). Governing transaction data becomes inseparable
+  with a 15-member task force and the regulated **cNGN**; meanwhile **[[visa]]** is settling
+  **[[safaricom]] M-Pesa** top-ups in stablecoins in **[[COD]] DR Congo** via Visa Pay with **[[onafriq]]**
+  ([[visa-mpesa-onafriq-drc-stablecoin-pilot]] — core mechanism corroborated on record; no jointly-announced
+  pilot and USD peg inferred). Governing transaction data becomes inseparable
   from governing the currency. See [[dpi.pay]], [[geopol.usa]]. Sources:
   [[2026-04-23 Africa's $205 Billion Digital Shift Is Redefining Money, and Central Banks Are Losing Control]],
   [[2026-07-10 Visa and M-Pesa Launch Blockchain Stablecoin Pilot in DR Congo]].
@@ -302,10 +303,21 @@ Personal-data regimes across African jurisdictions — and the friction their
   data-localisation-stack thread above — small states operationalising the AU's data-governance
   norms. See [[gov.policy]], [[gov.regional]], [[capacity.training]], [[XWA]]. Source:
   [[2026-07-13 D4D Hub on Sao Tome and Principe]].
+- **[[CAF]] Central African Republic — law without an authority.** Law No. 24.001 (2024,
+  [[car-data-protection-law-24-001]]) is comprehensive — tiered CEMAC/ECCAS transfers, resident DPO,
+  fines to 5% of turnover — but the supervisory authority it mandates is **still not appointed** (per
+  the [[data-protection-africa]] factsheet, Jan 2026). → [[caf--gov-protect]].
+- **[[AGO]] Angola — law *with* an authority.** Law 22/11 (2011, [[angola-data-protection-law-22-11]])
+  is enforced by an **active [[apd-angola]]** (sanctions issued 2024) — the opposite of CAR's dormant
+  regime; Malabo ratified; a draft AI bill + DP-law amendment now layer on top. → [[angola--gov-protect]].
+- **[[BWA]] Botswana — six years of a law that never took effect.** The 2018 Data Protection Act sat
+  un-commenced (its date pushed back by ministerial orders) until the **[[botswana-data-protection-act-2024]]**
+  (effective 14 Jan 2025) finally switched the regime on and empowered the Information & Data Protection
+  Commission. → [[botswana--gov-protect]].
 
 ## Places
 
-[[XAF]] · [[NGA]] · [[KEN]] · [[MWI]] · [[COD]] · [[ZAF]] · [[MUS]] · [[BEN]] · [[UGA]] · [[LBR]] ·
+[[AGO]] · [[BWA]] · [[XAF]] · [[CAF]] · [[NGA]] · [[KEN]] · [[MWI]] · [[COD]] · [[ZAF]] · [[MUS]] · [[BEN]] · [[UGA]] · [[LBR]] ·
 [[ZWE]] · [[ZMB]] · [[SEN]] · [[NAM]] · [[COG]] · [[SOM]] · [[MOZ]] · [[RWA]] · [[STP]] · [[XGL]]
 
 ## Related
@@ -349,3 +361,4 @@ Personal-data regimes across African jurisdictions — and the friction their
 - [[2026-06-08 Kenyan Citizens Took A $2.5 Billion Deal With America To Court To Fight For Their Health Data]]
 - [[2026-06-08 Kenya Wants to Sell Your Data. But It's Complicated]]
 - [[2026-07-13 D4D Hub on Sao Tome and Principe]]
+- [[2026-07-14 OUT, PDPC Launch National Data Protection Programme]]

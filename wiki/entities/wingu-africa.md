@@ -3,11 +3,11 @@ type: entity
 entity_type: company
 title: Wingu Africa
 places: [ETH, TZA, DJI]
-topics: [infra.store, dpi.exchange, gov.protect]
+topics: [infra.store, infra.connect, dpi.exchange, gov.protect]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-11
-sources: [[2026-04-01 Wingu Africa debuts cloud exchange platform in Ethiopia], [2026-01-07 Why Ethiopia, Somalia and Djibouti are starting to matter in digital Africa]]
+last_reviewed: 2026-07-15
+sources: [[2026-04-01 Wingu Africa debuts cloud exchange platform in Ethiopia], [2026-01-07 Why Ethiopia, Somalia and Djibouti are starting to matter in digital Africa], [2024-11-25 Djibouti inaugurates Wingu TO7 Tier-3 data centre and cable landing station]]
 ---
 
 # Wingu Africa
@@ -39,7 +39,15 @@ its regional markets. Deputy CEO, COO and co-founder: **Demos Kyriacou**.
   [[infra.store]], [[XEA]]. Source:
   [[2026-01-07 Why Ethiopia, Somalia and Djibouti are starting to matter in digital Africa]].
 
+- **TO7 Technology Park inaugurated (2024-11-25).** President Ismail Omar Guelleh inaugurated
+  Wingu's **TO7 Technology Park** in Djibouti — a **Tier-3 carrier-neutral data centre**
+  (99.982% uptime), a **cable landing station**, and an innovation centre; the first integrated
+  facility there combining a data centre and landing station, complementing Wingu's decade-old
+  existing Djibouti data centre. See [[DJI]], [[infra.store]], [[infra.connect]]. Source:
+  [[2024-11-25 Djibouti inaugurates Wingu TO7 Tier-3 data centre and cable landing station]].
+
 ## Sources
 
 - [[2026-04-01 Wingu Africa debuts cloud exchange platform in Ethiopia]]
 - [[2026-01-07 Why Ethiopia, Somalia and Djibouti are starting to matter in digital Africa]]
+- [[2024-11-25 Djibouti inaugurates Wingu TO7 Tier-3 data centre and cable landing station]]

@@ -2,12 +2,12 @@
 type: entity
 entity_type: company
 title: Margins ID Group
-places: [GHA, GMB, XAF]
+places: [GHA, GMB, COD, XAF]
 topics: [dpi.id, dpi.pay, gov.standards, tech.industry]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-11
-sources: [[2026-01-28 Margins ID Group emerges as Africa's leading provider of certified digital identity solutions]], [[2026-01-20 Margins takes Ghana's ID success to The Gambia]]
+last_reviewed: 2026-07-15
+sources: [[2026-01-28 Margins ID Group emerges as Africa's leading provider of certified digital identity solutions]], [[2026-01-20 Margins takes Ghana's ID success to The Gambia]], [[2025-08-11 DR Congo may partner with Ghana's Margins Group for national ID cards]]
 ---
 
 # Margins ID Group

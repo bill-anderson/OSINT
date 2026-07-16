@@ -2,7 +2,7 @@
 type: concept
 title: China activities
 slug: geopol.china
-places: [XAF, XGL, NAM, ZAF, NGA, KEN, EGY, ZMB, SEN, ZWE, MOZ, DZA, UGA, RWA, GHA, GAB, SSD, ETH]
+places: [BEN, AGO, XAF, XGL, NAM, ZAF, NGA, KEN, EGY, ZMB, SEN, ZWE, MOZ, DZA, UGA, RWA, GHA, GAB, SSD, ETH]
 entities: [[us-dfc], [huawei], [china-namibia-smart-city], [nucap], [ncc], [bosun-tijani], [zte], [hikvision], [ghana-national-ai-strategy], [kashifu-inuwa], [deepseek], [gabon-huawei-mou], [kenya-school-of-government]]
 lens: [sovereignty, colonialism]
 status: active

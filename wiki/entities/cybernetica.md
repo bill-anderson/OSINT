@@ -2,12 +2,12 @@
 type: entity
 entity_type: company
 title: Cybernetica (AS)
-places: [XGL, BEN, KEN]
+places: [XGL, BEN, KEN, CIV]
 topics: [dpi.exchange, dpi.govtech, infra.cybersec, dpi.id, gov.standards]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-11
-sources: [[2026-07-03 Cybernetica], [2026-07-11 UXP Directory], [2025-06-23 Benin shares its X-Road-inspired DPI interoperability experience in peer learning webinar], [2026-03-09 Cybernetica, Tony Blair Institute pilot digital credential wallet in Kenya]]
+sources: [[2026-07-03 Cybernetica], [2026-07-11 UXP Directory], [2025-06-23 Benin shares its X-Road-inspired DPI interoperability experience in peer learning webinar], [2026-03-09 Cybernetica, Tony Blair Institute pilot digital credential wallet in Kenya], [2025-09-29 Cote d'Ivoire unveils UXP interoperability platform for secure government data sharing]]
 ---
 
 # Cybernetica (AS)

@@ -6,7 +6,7 @@ parent: XSA
 place_kind: country
 topics: [infra.connect, infra.capacity, gov.regional, finance.new, tech.ai, geopol.usa, gov.protect, dpi.mis, data.statistics, include.access, capacity.training, digital.rural, infra.cybersec, geopol.china]
 status: active
-last_reviewed: 2026-07-11
+last_reviewed: 2026-07-16
 ---
 
 # Zimbabwe (ZWE)
@@ -50,9 +50,10 @@ last_reviewed: 2026-07-11
   "clearly unbalanced": objections to **long-term US access to national health data**, an
   attempt to fold in **critical minerals**, and a bilateral architecture outside the WHO.
   ~1.2m Zimbabweans rely on US-supported HIV treatment now facing wind-down. Deal:
-  [[zimbabwe-us-health-mou]] (see also [[usaid]]). **Contradiction (unresolved):** the deal
-  value is reported as **$350m** (Business Insider, 24 Feb) vs **$367m over 5 years**
-  (Ecofin / US Embassy Harare, 25 Feb). Sources:
+  [[zimbabwe-us-health-mou]] (see also [[usaid]]). **Value: $367m over 5 years** — the US Embassy
+  Harare's own figure (Ecofin, 25 Feb), corroborated by Africanews and Reuters/Africa CDC; the earlier
+  **$350m** (Business Insider, 24 Feb) was a pre-announcement estimate off the leaked Dec-2025 memo
+  (REV-004 resolved 2026-07-16). Sources:
   [[2026-02-24 ⁠Zimbabwe rejects $350 million US health funding deal warns It threatens national sovereignty]],
   [[2026-02-25 Zimbabwe Turns Down U.S. Health Funding, Citing Sovereignty Concerns]],
   [[2026-03-27 Kenya's Health Deal Is a Stress Test for the America First Global Health Strategy]].

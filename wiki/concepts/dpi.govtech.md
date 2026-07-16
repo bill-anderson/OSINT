@@ -2,7 +2,7 @@
 type: concept
 title: Other GovTech and e-Gov
 slug: dpi.govtech
-places: [ZMB, ZAF, XGL, MWI, GHA, NAM, KEN, NGA, UGA, BEN, CIV, MOZ, COD, TZA, RWA, EGY, CMR]
+places: [COG, COM, BWA, BFA, BDI, AGO, ZMB, ZAF, XGL, MWI, GHA, NAM, KEN, NGA, UGA, BEN, CIV, MOZ, COD, TZA, RWA, EGY, CMR, CAF, DJI, CPV, DZA, ERI]
 entities: [[smart-zambia-institute], [dzap], [david-eaves], [sita], [ucl-iipp], [dmap], [govguide-nigeria], [meta], [bosun-tijani], [malawi-revenue-authority], [mosip], [uxp-benin], [cybernetica], [kenya-revenue-authority], [nitda], [ngea], [galaxy-backbone], [safaricom], [sars], [sarb], [oneci], [maposte], [la-poste-cote-divoire], [atdi-mozambique], [malawi-ministry-of-ict], [undp], [gtmi], [world-bank], [trident-digital-tech], [rdc-pass], [idea-mpa]]
 lens: [sovereignty]
 status: active
@@ -165,14 +165,28 @@ Government service delivery online.
   municipalities** in the Far North, North-West and South-West — service continuity and legal-identity
   access in crisis/displacement regions. Fuller treatment on [[dpi.registry]]. See [[dpi.id]],
   [[digital.localgov]]. Source: [[2026-01-13 Cameroon intros digital system for civil documents]].
+- **[[CAF]] Central African Republic — three e-gov platforms in a year (2025–26).** e-Tax
+  ([[dgid-central-african-republic]], Mar 2025), the World Bank/EY "Gouvernemental Centralisé" services
+  portal (Dec 2025) and MEPCI's DUNIA (Feb 2026), all under the PND 2024-2028 — an ambitious
+  dematerialisation push against ~90% offline and ~14% electricity access. → [[caf--dpi-govtech]].
+- **[[CIV]] Côte d'Ivoire — interoperability layer + e-services toward "zero paper 2030".** [[sndi-cote-divoire]]
+  + [[cybernetica]] UXP data-exchange; e-Justice + digital nationality certificate ([[oneci]]); [[rsu-cote-divoire]]
+  social registry; a 2026-30 IT master plan (SDSI) and a rising digital budget (CFA83.2bn/2026). → [[civ--dpi-govtech]].
+- **[[GAB]] Gabon — a public-finance e-gov push under "eGabon"/Gabon Digital.** The
+  **[[sigfip-gabon]]** integrated PFM platform (Jan 2026), DGI **[[digitax-gabon]]**/e-tax, the FUP
+  participation file, e-invoicing and an e-visa platform — all under the WB [[digital-gabon-project]],
+  but hampered by low disbursement and weak interministerial coordination (5th steering committee,
+  Feb 2026). See [[GAB]]. Source:
+  [[2026-01-14-gabon-public-finance-egov-initiatives]].
 
 ## Places
 
 [[ZMB]] · [[ZAF]] · [[XGL]] · [[MWI]] · [[GHA]] · [[NAM]] · [[KEN]] · [[NGA]] · [[UGA]] · [[BEN]] ·
-[[CIV]] · [[MOZ]] · [[COD]] · [[TZA]] · [[RWA]] · [[EGY]] · [[CMR]]
+[[CIV]] · [[MOZ]] · [[COD]] · [[TZA]] · [[RWA]] · [[EGY]] · [[CMR]] · [[CAF]] · [[GAB]]
 
 ## Sources
 
+- [[2026-01-14-gabon-public-finance-egov-initiatives]]
 - [[2025-09-11 DZAP World Bank PAD]]
 - [[2025-12-15 The Path to a Sovereign Tech Stack is Via a Commodified Tech Stack  TechPolicy.Press]]
 - [[2026-07-07 South Africa's state IT agency is slowing government tech rollout]]

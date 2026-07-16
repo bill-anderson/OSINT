@@ -56,6 +56,11 @@ last_reviewed: 2026-07-11
   custodian role. Source:
   [[2026-03-11 The evolving role of National Statistics Offices (NSOs) as data custodians in the digital age]].
   See [[data.statistics]], [[data.open]], [[gov.policy]], [[gov.legislate]].
+- **2026-02-15** — **Digital vision to 2031 drafted.** A Cotonou seminar (5–6 Feb 2026) run by the
+  Ministry of Digital & Digitalisation with **Deloitte** set a shared "Benin digital nation by 2031"
+  vision spanning infrastructure, digitised services, cybersecurity, innovation, human capacity and
+  enterprise financing — a successor to the 2021–2026 plan ([[asin-benin]]). See [[gov.policy]]. Source:
+  [[2026-02-15 Digital - Benin outlines its strategic vision for 2031]].
 - **2026-02-02** — **75% of ID services now accessed digitally.** [[anip-benin]] reported that
   in 2025 **≥75%** of identification services were solicited via digital platforms — **10.5m**
   civil-status/ID services issued, **4m** citizens reached (channel split 37% gov portal / 30%
@@ -82,6 +87,14 @@ last_reviewed: 2026-07-11
   [[2025-12-18 Seamfix revealed as developer of Benin's biometric passport renewal app]],
   [[2025-10-24 Benin unveils platform to ease biometric passport applications for diaspora citizens]].
   See [[dpi.id]], [[dpi.govtech]].
+- **2025-11-27** — **2026 digital budget cut 6.32% to CFA27.2bn (~$48m).** A 12.22% drop in external
+  financing trimmed the budget even as priorities (AI in public services, nationwide high-speed coverage,
+  a digital-skills school) expanded ([[asin-benin]]; Minister Aurélie Adam Soulé Zoumarou). See
+  [[gov.policy]], [[finance.new]]. Source: [[2025-11-27 Benin Cuts Digital Budget by 6.32% Despite Expanding Tech Ambitions]].
+- **2025-11-21** — **National Data Strategy in the works (Smart Africa).** [[smart-africa]] (with GIZ)
+  issued a ToR to recruit a consultancy to develop **Benin's National Data Strategy** — a data-governance
+  layer above the ID/e-gov stack. See [[gov.standards]], [[gov.policy]]. Source:
+  [[2025-11-21 Smart Africa - ToR for Benin National Data Strategy]].
 - **2025-11-01** — **Foundational digital ID (fID / "C'est moi") reaches ~99%.** A World Bank
   account (echoing 2024 reporting) documents Benin's **[[wuri-programme]]** foundational-ID
   certificate: from 2017 (a quarter lacked birth certificates, <50% had a national ID, women
@@ -99,6 +112,10 @@ last_reviewed: 2026-07-11
   (2021-24)** flagging architecture vulnerabilities. Source:
   [[2025-09-01 Benin boosts digital inclusion, govt service access with cooperation deals]].
   See [[dpi.govtech]], [[infra.cybersec]], [[gov.policy]], [[dpi.pay]].
+- **2025-08-02** — **ANIP electoral platforms: RNPP as single source of electoral data.** [[anip-benin]]
+  unveiled platforms letting citizens find their NPI, change polling station and obtain voting documents
+  (app or **USSD *151#**), with diaspora-voter interoperability, ahead of the 2026 elections.
+  [[benin--dpi-id]]. Source: [[2025-08-02 Benin - ANIP unveils digital platforms to modernise the electoral process]].
 - **2025-06-23** — **DPI at scale: 1,500+ services, 70m+ transactions (CDPI webinar).** In a
   [[cdpi]] peer-learning webinar, [[asin-benin]] profiled Benin's Estonia-inspired DPI (started
   2016 under Talon): the **[[uxp-benin]]** interoperability layer (Cybernetica's UXP — a
@@ -116,12 +133,21 @@ last_reviewed: 2026-07-11
   analytics; goal of legal identity for every citizen by **2028**. Source:
   [[2025-06-18 Benin envisages mobile wallet launch in inclusive national digital ID push]].
   See [[dpi.id]], [[dpi.pay]], [[include.access]], [[tech.ai]].
+- **2025-02-22** — **Unregistered SIMs to be deactivated from 30 Apr 2025.** [[arcep-benin]] tied SIM-ID
+  to anti-fraud/cybercrime and mobile-money security — an ID-adjacent measure that reporting noted itself
+  needs a strong data-protection frame. See [[gov.protect]]. Source: [[2025-02-22 Benin - unregistered SIM cards to be deactivated from 30 April 2025]].
+- **2025-01-30** — **GSMA: digital economy could add XOF 1.2tn GDP + 300k jobs by 2028.** The GSMA report
+  (mobile sector = XOF 960bn of GDP in 2023) became the evidence base the government cites for its digital
+  budget and 2031 vision. See [[gov.policy]], [[finance.new]]. Source: [[2025-01-30 GSMA - Driving Digital Transformation of the Economy in Benin]].
 - **2025-01-29** — **GIZ "Beninnovation" e-gov tender.** [[giz]] extended (to 2025-02-03) its
   **Beninnovation** tender to build a PaaS development environment and capacity among civil
   servants and local providers for public-service digitalisation — citing the biometric **RNPP**
   (10m), the Smart Africa Digital ID Blueprint, X-Road implementation and the WURI fID. Source:
   [[2025-01-29 Deadline extended for Benin digital government transformation tender]].
   See [[dpi.govtech]], [[gov.policy]], [[capacity.training]].
+- **2024-11-25** — **MTN launches Benin's first commercial 5G.** [[mtn-benin]] went live in Cotonou and
+  Abomey-Calavi, beating Moov Africa Benin and Celtiis. See [[infra.connect]]. Source:
+  [[2024-11-25 MTN launches Benin's first commercial 5G network]].
 - **2024-10-28** — **2,050 biometric CRVS terminals from the World Bank.** [[world-bank]] donated
   2,050 mobile registration terminals to [[anip-benin]] via WURI-Benin, feeding births / marriages
   / deaths directly into the **RNPP** and civil-status register (RNEC); a 2021-22 WB survey had
@@ -150,8 +176,9 @@ last_reviewed: 2026-07-11
 
 - [[uxp-benin]] · [[cybernetica]] · [[asin-benin]] · [[cdpi]] · [[mosip]] · [[gates-foundation]] — DPI / interoperability
 - [[anip-benin]] · [[wuri-programme]] · [[world-bank]] · [[ecowas]] · [[id4africa]] · [[seamfix]] · [[epass-benin]] — identity
-- [[cybastion]] · [[securoute]] · [[giz]] — govtech / infrastructure
+- [[cybastion]] · [[securoute]] · [[giz]] · [[dgi-benin]] — govtech / infrastructure
+- [[mtn-benin]] · [[mtn-group]] · [[arcep-benin]] — telecoms / connectivity (first 5G 2024; SIM-registration regulator)
 - [[wardip]] · [[african-union]] · [[smart-africa]] · [[sadx]] — regional programmes
 - Mentioned, not hubbed: APDP (data-protection authority); Amouda Abou Seydou (APDP rapporteur);
-  Aristide Guy Adjinacou / Marc-André Loko (ANIP / ASIN DGs); ANATT; DGI; IIDiA; Quality
-  Corporate; Orbus Digital Services; ESTDEV (Estonia); UNICEF; Alafia microcredit.
+  Aristide Guy Adjinacou / Marc-André Loko (ANIP / ASIN DGs); ANATT; IIDiA; Quality
+  Corporate; Orbus Digital Services; ESTDEV (Estonia); Deloitte; Sonatel; UNICEF; Alafia microcredit.

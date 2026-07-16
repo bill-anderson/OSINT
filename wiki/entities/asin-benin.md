@@ -3,11 +3,11 @@ type: entity
 entity_type: government-body
 title: Agence des Systèmes d'Information et du Numérique (ASIN)
 places: [BEN]
-topics: [dpi.govtech, dpi.exchange, infra.cybersec, dpi.id]
+topics: [dpi.govtech, dpi.exchange, infra.cybersec, dpi.id, gov.policy]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-11
-sources: [[2025-06-23 Benin shares its X-Road-inspired DPI interoperability experience in peer learning webinar], [2025-09-01 Benin boosts digital inclusion, govt service access with cooperation deals], [2026-01-27 Cybastion Advances Digital Government Solutions, Supports Benin's SECUROUTE Infrastructure Upgrade]]
+last_reviewed: 2026-07-15
+sources: [[2025-06-23 Benin shares its X-Road-inspired DPI interoperability experience in peer learning webinar], [2025-09-01 Benin boosts digital inclusion, govt service access with cooperation deals], [2026-01-27 Cybastion Advances Digital Government Solutions, Supports Benin's SECUROUTE Infrastructure Upgrade], [2024-05-29 Marc-Andre Loko - Benin's digital strategy involves a diversified portfolio of partners], [2025-11-27 Benin Cuts Digital Budget by 6.32% Despite Expanding Tech Ambitions], [2026-02-15 Digital - Benin outlines its strategic vision for 2031]]
 ---
 
 # Agence des Systèmes d'Information et du Numérique (ASIN)
@@ -42,8 +42,25 @@ delivery for [[BEN]]. See [[dpi.govtech]], [[dpi.exchange]].
   Finance. Source:
   [[2026-01-27 Cybastion Advances Digital Government Solutions, Supports Benin's SECUROUTE Infrastructure Upgrade]].
 
+- **"Diversified portfolio of best-in-class partners" (2024, DG Loko).** ASIN frames Benin's
+  strategy as deliberate multi-vendor diversification against single-partner dependence: Estonia/Rwanda
+  expertise ([[cybernetica]], eGA); **Chinese** financing (Huawei, CITCC via China Development Bank /
+  EximBank); Microsoft/Oracle-certified firms; French feasibility houses; Tunisian firms; and delegated
+  management of Benin's digital-infrastructure company to Senegal's **Sonatel** (2021). Benin **leads
+  [[smart-africa]]'s digital-ID interoperability project** (cross-border ID: Senegal, Togo, soon Ghana).
+  See [[benin--dpi-id]], [[geopol.china]]. Source: [[2024-05-29 Marc-Andre Loko - Benin's digital strategy involves a diversified portfolio of partners]].
+- **Strategy & budget (2025–26).** Custodian of the new **digital vision to 2031** (Deloitte-facilitated,
+  Feb 2026 seminar); the **2026** digital budget was **CFA27.2bn (~$48m), down 6.32%** on 2025 (a 12.22%
+  external-financing drop) while retaining AI-in-public-services, nationwide high-speed coverage and a
+  digital-skills school. Minister: Aurélie Adam Soulé Zoumarou. Sources:
+  [[2025-11-27 Benin Cuts Digital Budget by 6.32% Despite Expanding Tech Ambitions]],
+  [[2026-02-15 Digital - Benin outlines its strategic vision for 2031]].
+
 ## Sources
 
 - [[2025-06-23 Benin shares its X-Road-inspired DPI interoperability experience in peer learning webinar]]
 - [[2025-09-01 Benin boosts digital inclusion, govt service access with cooperation deals]]
 - [[2026-01-27 Cybastion Advances Digital Government Solutions, Supports Benin's SECUROUTE Infrastructure Upgrade]]
+- [[2024-05-29 Marc-Andre Loko - Benin's digital strategy involves a diversified portfolio of partners]]
+- [[2025-11-27 Benin Cuts Digital Budget by 6.32% Despite Expanding Tech Ambitions]]
+- [[2026-02-15 Digital - Benin outlines its strategic vision for 2031]]

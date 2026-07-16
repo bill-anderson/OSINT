@@ -5,8 +5,8 @@ title: EthSwitch
 places: [ETH]
 topics: [dpi.pay, dpi.exchange]
 status: active
-last_reviewed: 2026-07-11
-sources: [[2026-03-30 M-PESA Ethiopia surges 258% as EthSwitch fuels growth], [2026-02-02 Safaricom Ethiopia Surpasses 12 Million Users as M-PESA Adoption Grows]]
+last_reviewed: 2026-07-15
+sources: [[2026-03-30 M-PESA Ethiopia surges 258% as EthSwitch fuels growth], [2026-02-02 Safaricom Ethiopia Surpasses 12 Million Users as M-PESA Adoption Grows], [2026-02-13 Ethiopia launches national instant payment system (EthioPay-IPS)], [2025-11-30 EthSwitch unveils 15-year vision and Mastercard partnership], [2025-11-02 EthSwitch - P2P transfers surpass ATM withdrawals (FY2024-25)]]
 ---
 
 # EthSwitch

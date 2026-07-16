@@ -6,8 +6,8 @@ places: [KEN, ETH, COD, XAF, XEA]
 topics: [infra.connect, dpi.id, dpi.pay, include.divides, finance.new]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-12
-sources: [[2026-07-06 Safaricom Ethiopia partners National ID Program to expand digital identity registration], [2026-07-03 Vodacom expands East Africa strategy], [2026-05-29 Africa's Mobile Money Networks Are Becoming Tax Infrastructure], [2026-04-16 3 Reasons Mobile Money Programs Have a $1.7 Trillion Problem], [2026-07-10 Visa and M-Pesa Launch Blockchain Stablecoin Pilot in DR Congo], [2026-03-30 M-PESA Ethiopia surges 258% as EthSwitch fuels growth], [2026-04-02 Safaricom Introduces My OneApp to Simplify Payments, Accounts, and Service Access], [2026-02-02 Safaricom Ethiopia Surpasses 12 Million Users as M-PESA Adoption Grows], [2026-01-07 Why Ethiopia, Somalia and Djibouti are starting to matter in digital Africa], [2026-03-10 Kenya begins audit of Airtel's Starlink Direct-to-Cell tech], [2025-12-04 Vodacom Group to take controlling stake in Safaricom], [2026-01-13 The rise of cheques as Kenya's preferred payment method], [2025-08-04 93 - Ecosystem Debt or Generative Platforms A Case for Digital Public Infrastructure], [2026-02-23 111 - Winning But Losing - The Payments End Game]]
+last_reviewed: 2026-07-16
+sources: [[2026-07-06 Safaricom Ethiopia partners National ID Program to expand digital identity registration], [2026-07-03 Vodacom expands East Africa strategy], [2026-05-29 Africa's Mobile Money Networks Are Becoming Tax Infrastructure], [2026-04-16 3 Reasons Mobile Money Programs Have a $1.7 Trillion Problem], [2026-07-02 Visa tests stablecoins in DRC for cross-border payments (The EastAfrican)], [2026-07-02 DR Congo becomes Africa's live test for dollar-settled mobile money (Ecofin)], [2026-03-30 M-PESA Ethiopia surges 258% as EthSwitch fuels growth], [2026-04-02 Safaricom Introduces My OneApp to Simplify Payments, Accounts, and Service Access], [2026-02-02 Safaricom Ethiopia Surpasses 12 Million Users as M-PESA Adoption Grows], [2026-01-07 Why Ethiopia, Somalia and Djibouti are starting to matter in digital Africa], [2026-03-10 Kenya begins audit of Airtel's Starlink Direct-to-Cell tech], [2025-12-04 Vodacom Group to take controlling stake in Safaricom], [2026-01-13 The rise of cheques as Kenya's preferred payment method], [2025-08-04 93 - Ecosystem Debt or Generative Platforms A Case for Digital Public Infrastructure], [2026-02-23 111 - Winning But Losing - The Payments End Game]]
 ---
 
 # Safaricom
@@ -55,14 +55,16 @@ national digital-ID rollout.
   SIM-swap fraud monitoring and ML credit scoring, raising governance questions about
   unaudited AI in M-PESA. See [[tech.ai]], [[include.divides]]. Source:
   [[2026-04-16 3 Reasons Mobile Money Programs Have a $1.7 Trillion Problem]].
-- **Visa–M-Pesa–Onafriq DRC stablecoin pilot (2026-07, needs-review).** Reporting (a
-  low-authority aggregator — flagged needs-review) says M-PESA joined **[[visa]]** and
-  **[[onafriq]]** in a USD-pegged **stablecoin settlement pilot in [[COD]]**, bypassing
-  correspondent banking (~8% SSA remittance fee) and building on Visa Pay's Sept-2025 DRC
-  launch — M-PESA's move into Web3 rails. Corroborate against Visa/Safaricom/Onafriq
-  primary releases before hardening. See
-  [[visa-mpesa-onafriq-drc-stablecoin-pilot]], [[finance.new]]. Source:
-  [[2026-07-10 Visa and M-Pesa Launch Blockchain Stablecoin Pilot in DR Congo]].
+- **M-PESA top-ups settled in stablecoins in the DRC (2026-07).** In a live DRC use case confirmed on
+  record by a **[[visa]]** exec (Sullivan), **M-PESA** wallet top-ups are settled in **stablecoins in the
+  background** via Visa Pay, with **[[onafriq]]** — bypassing correspondent banking (~8% SSA remittance
+  fee), building on Visa Pay's Sept-2025 DRC launch. M-PESA is the wallet topped up, not a confirmed
+  stablecoin-leg partner; its *own* announced stablecoin move is a **separate** Jan 2026 ADI Foundation
+  (UAE-dirham) alliance. The "joint USD-stablecoin *pilot* launch" framing is downgraded (no joint issuer
+  announcement; USD peg inferred) — REV-006 resolved 2026-07-16. See
+  [[visa-mpesa-onafriq-drc-stablecoin-pilot]], [[finance.new]]. Sources:
+  [[2026-07-02 Visa tests stablecoins in DRC for cross-border payments (The EastAfrican)]],
+  [[2026-07-02 DR Congo becomes Africa's live test for dollar-settled mobile money (Ecofin)]].
 - **M-PESA Ethiopia +258% via EthSwitch (2026-03).** M-PESA Ethiopia active users surged
   **258.5% YoY to 5.2m** (quarter to Dec 2025) after the **Oct 2025 [[ethswitch]]
   integration** linking M-PESA to 30+ banks/wallets with real-time wallet-to-bank
@@ -90,7 +92,8 @@ national digital-ID rollout.
 - [[2026-07-03 Vodacom expands East Africa strategy]]
 - [[2026-05-29 Africa's Mobile Money Networks Are Becoming Tax Infrastructure]]
 - [[2026-04-16 3 Reasons Mobile Money Programs Have a $1.7 Trillion Problem]]
-- [[2026-07-10 Visa and M-Pesa Launch Blockchain Stablecoin Pilot in DR Congo]]
+- [[2026-07-02 Visa tests stablecoins in DRC for cross-border payments (The EastAfrican)]]
+- [[2026-07-02 DR Congo becomes Africa's live test for dollar-settled mobile money (Ecofin)]]
 - [[2026-03-30 M-PESA Ethiopia surges 258% as EthSwitch fuels growth]]
 - [[2026-04-02 Safaricom Introduces My OneApp to Simplify Payments, Accounts, and Service Access]]
 - [[2026-02-02 Safaricom Ethiopia Surpasses 12 Million Users as M-PESA Adoption Grows]]

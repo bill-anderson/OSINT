@@ -2,7 +2,7 @@
 type: concept
 title: India activities
 slug: geopol.india
-places: [XGL, MAR, XAF]
+places: [AGO, XGL, MAR, XAF]
 entities: [[david-eaves], [mosip], [nandan-nilekani], [gates-foundation]]
 lens: [sovereignty]
 status: active

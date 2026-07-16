@@ -4,15 +4,23 @@ title: Zambia
 code: ZMB
 parent: XSA
 place_kind: country
-topics: [infra.connect, infra.cybersec, dpi.id, dpi.pay, dpi.exchange, dpi.govtech, capacity.training, gov.policy, gov.regional, finance.new, include.divides, data.open, gov.standards, geopol.china, dpi.registry, gov.protect, geopol.usa, dpi.mis, finance.mou, include.access, digital.rural, gov.legislate]
+topics: [infra.connect, infra.cybersec, dpi.id, dpi.pay, dpi.exchange, dpi.govtech, capacity.training, gov.policy, gov.regional, finance.new, include.divides, data.open, gov.standards, geopol.china, dpi.registry, gov.protect, geopol.usa, dpi.mis, finance.mou, include.access, digital.rural, gov.legislate, tech.ai]
 status: active
-last_reviewed: 2026-07-12
+last_reviewed: 2026-07-15
 ---
 
 # Zambia (ZMB)
 
 ## Recent developments
 
+- **2026-07-14** — **COMESA regional-AI workshop launched in Lusaka.** Zambia's **Ministry of
+  Technology and Science**, the **[[comesa]]** Secretariat and the **[[world-bank]]** opened an **AI
+  Sensitisation Workshop** under the **[[idea-mpa]]** programme — the first structured step toward a
+  **COMESA Regional AI Strategy** and **Regional Digital Inclusion Strategy** (PS Eng. Dr. Brilliant
+  Habeenzu; COMESA's Leonard Chitundu). Framed against policy fragmentation. Zambia's own stats cited:
+  **mobile broadband 72% (2025)**, up from <40% a decade earlier; **300+ towers since 2022**. Source:
+  [[2026-07-14 Zambia and COMESA Launch AI Initiative to Advance Regional Digital Transformation]].
+  See [[tech.ai]], [[gov.regional]], [[gov.policy]], [[XSA]].
 - **2026-06-17** — Zambia's Cabinet directed ministries to **adopt open-source
   technology**, alongside the Lusaka launch of the **National Spatial Data
   Infrastructure (NSDI) Policy and Portal** (open-source-built) to end fragmented
@@ -142,7 +150,7 @@ last_reviewed: 2026-07-12
 
 ## Entities
 
-[[world-bank]] · [[idea-mpa]] · [[dzap]] · [[smart-zambia-institute]] · [[huawei]]
+[[world-bank]] · [[idea-mpa]] · [[comesa]] · [[dzap]] · [[smart-zambia-institute]] · [[huawei]]
 - [[mosip]] · [[fayda-ethiopia-national-id]] · [[gates-foundation]] · [[america-first-global-health-strategy]]
 - [[hikvision]] · [[zte]]
 - [[zambia-us-health-mou]] · [[africa-cdc]] · [[usaid]] · [[us-department-of-state]] · [[zimbabwe-us-health-mou]]

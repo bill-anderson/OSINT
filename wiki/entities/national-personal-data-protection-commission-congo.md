@@ -7,7 +7,7 @@ topics: [gov.protect, gov.legislate]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-11
-sources: [[2026-01-22 Congo-Brazzaville intros data protection commission]]
+sources: [[2026-01-22 Congo-Brazzaville intros data protection commission], [2024-07-05 Congo - Council of Ministers approves bill creating National Personal Data Protection Commission]]
 ---
 
 # National Personal Data Protection Commission (Congo-Brazzaville)
@@ -18,6 +18,9 @@ public services and expands its digital economy.
 
 ## Activity in this wiki
 
+- **Origin — draft law approved (2024-07-03).** The Council of Ministers approved the bill creating the
+  commission (presented by Minister Léon-Juste Ibombo) on 3 July 2024 — to strengthen legislation, build
+  trust in digital services and ensure rigorous control of personal-data use. Source: [[2024-07-05 Congo - Council of Ministers approves bill creating National Personal Data Protection Commission]].
 - **Established (~2026-01-22).** ICT minister **Léon Juste Ibombo** installed the
   commission's members, framing the body as central to consolidating the
   country's **"digital rule of law"** amid rapid digital transformation

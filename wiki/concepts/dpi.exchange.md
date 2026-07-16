@@ -2,7 +2,7 @@
 type: concept
 title: Data Exchange
 slug: dpi.exchange
-places: [ZMB, XAF, NGA, KEN, MWI, ZAF, RWA, BEN, GHA, ETH, SEN, TGO, XWA, DJI, TZA, XEA, LSO, UGA, COD]
+places: [COM, CIV, CMR, AGO, ZMB, XAF, NGA, KEN, MWI, ZAF, RWA, BEN, GHA, ETH, SEN, TGO, XWA, DJI, TZA, XEA, LSO, UGA, COD, CPV, DZA, EGY, ERI]
 entities: [[dzap], [smart-zambia-institute], [afcfta], [papss], [equity-africanenda-gates-dpi-partnership], [ucl-iipp], [dmap], [undp], [popia], [research-ict-africa], [sadx], [smart-africa], [uxp-benin], [cybernetica], [estdev], [estdev-smart-africa-mou], [eac], [wamkele-mene], [afcfta-digital-trade-protocol], [wbg-dpi-white-paper], [dhis2], [africa-cdc], [adli], [dial], [ethswitch], [safaricom], [wingu-africa], [nitda], [ngea], [galaxy-backbone], [new-deal-technologique], [wuri-programme], [ecowas], [sigmat], [cybastion], [securoute], [asin-benin], [micsti-lesotho], [mosip], [gtmi], [onafriq]]
 lens: [sovereignty]
 status: active
@@ -203,9 +203,15 @@ cross-border scale, the legal enforceability of that exchange.
   analyst's framework, attributed to Kariuki. See [[dpi.pay]], [[dpi.id]], [[GHA]], [[ZAF]].
   Source: [[2025-08-04 93 - Ecosystem Debt or Generative Platforms A Case for Digital Public Infrastructure]].
 
+- **[[GAB]] Gabon — a government interoperability platform as a WB results indicator.** The
+  **[[digital-gabon-project]]** funds secure public-sector data exchange; its results framework targets
+  **5 government entities actively exchanging data on the interoperability platform** by June 2026 —
+  at baseline (0) as of Dec 2024, one measure of the project's slow execution. See [[GAB]]. Source:
+  [[2024-12-19-world-bank-digital-gabon-isr-seq7]].
+
 ## Places
 
-[[ZMB]] · [[XAF]] · [[NGA]] · [[KEN]] · [[MWI]] · [[ZAF]] · [[RWA]] · [[BEN]] · [[GHA]] · [[ETH]] · [[SEN]] · [[TGO]] · [[XWA]] · [[DJI]] · [[TZA]] · [[XEA]] · [[LSO]] · [[UGA]] · [[COD]]
+[[ZMB]] · [[XAF]] · [[NGA]] · [[KEN]] · [[MWI]] · [[ZAF]] · [[RWA]] · [[BEN]] · [[GHA]] · [[ETH]] · [[SEN]] · [[TGO]] · [[XWA]] · [[DJI]] · [[TZA]] · [[XEA]] · [[LSO]] · [[UGA]] · [[COD]] · [[GAB]]
 
 ## Sources
 

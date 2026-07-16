@@ -2,7 +2,7 @@
 type: concept
 title: Registries (population, land, address, etc.)
 slug: dpi.registry
-places: [ZAF, TZA, UGA, ETH, NGA, RWA, ZMB, XWA, BEN, CIV, CMR, LSO, MDG, XGL]
+places: [COG, COD, BFA, BDI, AGO, ZAF, TZA, UGA, ETH, NGA, RWA, ZMB, XWA, BEN, CIV, CMR, LSO, MDG, XGL, CAF, DZA, EGY]
 entities: [[sa-digital-id-regulations], [nida-tanzania], [mosip], [fayda-ethiopia-national-id], [digital-id-assessment], [nimc], [nigeria-id4d], [nida-rwanda], [sars], [smart-zambia-institute], [dzap], [wuri-programme], [ecowas], [anip-benin], [world-bank], [undp], [oneci], [maposte], [nissa-lesotho], [universal-dpi-safeguards-framework], [mg-ministry-digital-development], [opencrvs], [gates-foundation]]
 lens: [sovereignty]
 status: active
@@ -135,11 +135,17 @@ maintained and queried.
   authenticates it. Deployments cited: **Uganda (NIRA), Madagascar**, Philippines (PSA). See [[dpi.id]],
   [[dpi.exchange]], [[infra.cybersec]], [[XGL]]. Source:
   [[2026-07-02 OpenCRVS v2.0 Product Launch Webinar - The Next Generation of Civil Registration]].
+- **[[GAB]] Gabon — registries across social, land and justice (2025).** The
+  **[[registre-social-unique-gabon]]** (Unique Social Registry, technical work finalised Aug 2025;
+  ANINF + World Bank) for social-programme targeting; a French **[[ign-fi]]** engagement to modernise
+  the **cadastre** into an integrated land-management system ([[gabon-ign-fi-cadastre-deal]]); and
+  digitalisation of judicial **custody registers** (Méndez Principles). See [[GAB]]. Sources:
+  [[2025-08-28-gabon-registre-social-unique]] · [[2025-11-24-gabon-cadastre-modernization-ign-fi]].
 
 ## Places
 
 [[ZAF]] · [[TZA]] · [[UGA]] · [[ETH]] · [[NGA]] · [[RWA]] · [[ZMB]] · [[XWA]] · [[BEN]] · [[CIV]] ·
-[[CMR]] · [[LSO]] · [[MDG]] · [[XGL]] · Related: [[dpi.id]] · [[dpi.exchange]] · [[dpi.mis]]
+[[CMR]] · [[GAB]] · [[LSO]] · [[MDG]] · [[XGL]] · Related: [[dpi.id]] · [[dpi.exchange]] · [[dpi.mis]]
 
 ## Sources
 

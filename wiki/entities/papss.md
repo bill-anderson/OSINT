@@ -6,7 +6,7 @@ places: [XAF, XWA, NGA, GHA, EGY, KEN, XCA]
 topics: [dpi.pay, gov.regional, dpi.exchange, finance.new]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-12
+last_reviewed: 2026-07-16
 sources: [[2026-07-07 African nations recommit to operationalize AfCFTA digital single market framework], [2026-05-30 Afreximbank Banks on Digital Payments to Unlock Africa's Trillion-Dollar Trade Potential], [2026-07-09 Nigeria Takes AfCFTA Council Chair as Digital Forum Charts Roadmap for Implementation], [2026-02-04 PAPSS, Onafriq launch new trade rail for West Africa], [2022-05-11 Pan-African Payment and Settlement System], [2022-08-30 Pan-African Payment and Settlement System drives Africa's banking integration], [2026-02-05 Ghana Mobile Money Interoperability Nearly Doubles in 2025], [2026-03-02 Pesalink and PAPSS link networks for African payments], [2026-02-05 Bank of Ghana Calls for Payment System Overhaul to Unlock AfCFTA Trade], [2026-07-11 BEAC joins PAPSS and accelerates cross-border payments integration in Central Africa], [2026-01-27 Nigeria's PAPSS cross-border payments falls 53% to N5.6bn], [2026-01-23 Afreximbank flags Africa's digital trade gap at Davos], [2026-02-02 How Strategic  Shift of NIBSS Is  Rewiring Nigeria's Payments System], [2026-01-12 (3) Africa's Digital Policy Review 2025 in Perspective and Outlook for 2026]]
 ---
 
@@ -59,13 +59,19 @@ Continental cross-border payment-and-settlement infrastructure, operated by
   continental rail into **Central Africa** ([[XCA]]) beyond its West/East African cores.
   (Lede-only source; accession terms unconfirmed.) See [[XCA]], [[gov.regional]]. Source:
   [[2026-07-11 BEAC joins PAPSS and accelerates cross-border payments integration in Central Africa]].
-- **Nigeria usage contracted in H1 2025 (contradiction-watch).** Against the bullish
-  rollout narrative, CBN's Financial Stability Report (30 Jun 2025) shows **Nigeria's**
-  PAPSS flows **fell 53% to ₦5.6bn** in H1'25 (from ₦11.97bn H1'24) and transactions
-  **−29% to 3,246**, even though Nigeria is PAPSS's top participant (22+ integrated banks).
-  Recorded as a live counter-signal, not a correction of the growth story. In the same
-  window **[[papsscard]]** launched (Afreximbank + Mercury Payment Services). See [[NGA]],
-  [[dpi.pay]]. Source: [[2026-01-27 Nigeria's PAPSS cross-border payments falls 53% to N5.6bn]].
+- **Nigeria's H1 2025 dip — a narrow metric, not a counter-signal (REV-002 resolved 2026-07-16).**
+  CBN's Financial Stability Report (30 Jun 2025) shows **Nigeria's** reported PAPSS flows **fell 53%
+  to ₦5.6bn** in H1'25 (from ₦11.97bn) with transactions **−29% to 3,246**. The drop is **real, not
+  an FX artefact** — the transaction *count* fell independently and the naira was flat-to-stronger
+  over the period, so the USD decline (~52–55%) tracks the naira one. But ₦5.6bn is only **~US$3.7m
+  for a half-year** — far too small to be Nigeria's *total* PAPSS throughput given Nigeria is the top
+  participant (22+ banks) on a rail now spanning ~28 countries (post-**[[beac]]**/CEMAC accession). It
+  is almost certainly a **narrow CBN line item**, not a proxy for whether Nigeria is scaling on PAPSS:
+  local contraction on this metric and continental scaling **coexist rather than contradict**. Two
+  open caveats — the press disputes the **base period** (H1'24 vs H2'24), and **no H2 2025 figure
+  exists yet** (watch the H2 2025 CBN FSR). In the same window **[[papsscard]]** launched (Afreximbank
+  + Mercury Payment Services). See [[NGA]], [[nigeria--dpi-pay]], [[dpi.pay]]. Source:
+  [[2026-01-27 Nigeria's PAPSS cross-border payments falls 53% to N5.6bn]].
 - **Davos 2026 advocacy (2026-01-23).** At Africa Collective Davos, [[afreximbank]] again
   positioned PAPSS as the cornerstone rail without which AfCFTA's 1.4bn-market integration
   stalls — advocacy, no new transaction. Source:

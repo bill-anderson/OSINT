@@ -6,9 +6,15 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 
 | Entity | Places | Topics | Page |
 |---|---|---|---|
+| Mastercard | ETH, XAF, XGL | dpi.pay, geopol.usa | [[mastercard]] |
+| IN Groupe | GAB | dpi.id | [[in-groupe]] |
+| Thales | GAB | dpi.id | [[thales]] |
+| IGN FI (Institut Géographique National France Internationale) | GAB | dpi.registry, data.satellite | [[ign-fi]] |
 | Cassava Technologies (Africa Data Centres) | ZAF, KEN, NGA, XAF | infra.store, infra.energy, tech.ai, finance.new | [[cassava-technologies]] |
+| Raxio Group (pan-African data-centre operator) | UGA, ETH, MOZ, COD, CIV, AGO, TZA | infra.store, finance.new | [[raxio-group]] |
 | Yas (AXIAN Telecom operating brand) | XAF, KEN, SEN, MDG | infra.connect, tech.industry, dpi.pay | [[yas]] |
 | Seacom | ZAF, KEN, TZA, UGA, RWA, XAF | infra.connect, tech.ai, finance.new | [[seacom]] |
+| CSquared (pan-African wholesale infrastructure) | XWA, XAF, UGA, GHA, TGO, LBR | infra.connect | [[csquared]] |
 | MTN Group | NGA, ZAF, XAF | infra.store, tech.ai, finance.new | [[mtn-group]] |
 | Airtel Africa (Nxtra) | NGA, XAF | infra.store, tech.ai, finance.new | [[airtel-africa]] |
 | ST DIGITAL GABON | GAB, XAF | infra.store, infra.cybersec, tech.innovate | [[st-digital-gabon]] |
@@ -37,7 +43,7 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 | Amazon Web Services (AWS) | RWA, XAF, XGL | infra.store, tech.ai, geopol.usa | [[amazon-web-services]] |
 | Sand Technologies | RWA, XAF | tech.ai, infra.store, capacity.training | [[sand-technologies]] |
 | Peach Payments | MUS, ZAF, XAF | dpi.pay, finance.new | [[peach-payments]] |
-| Visa | COD, KEN, XAF | dpi.pay, geopol.usa | [[visa]] |
+| Visa | COD, KEN, DJI, XAF | dpi.pay, dpi.id, finance.mou, geopol.usa | [[visa]] |
 | Onafriq (formerly MFS Africa) | XAF, COD, KEN | dpi.pay, dpi.exchange | [[onafriq]] |
 | Kasi Cloud | NGA | infra.store, infra.energy | [[kasi-cloud]] |
 | Axiz | ZAF, XAF | infra.store, tech.industry | [[axiz]] |
@@ -49,7 +55,7 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 | Globalstar | XGL, ZAF, RWA, MOZ, GAB | infra.connect, data.satellite | [[globalstar]] |
 | Helios Towers | TZA, XAF | infra.connect, digital.rural | [[helios-towers]] |
 | Hikvision | XAF, NGA, KEN, ZWE, MOZ | infra.cybersec, geopol.china, tech.ai | [[hikvision]] |
-| Wingu Africa | ETH, TZA, DJI | infra.store, dpi.exchange, gov.protect | [[wingu-africa]] |
+| Wingu Africa | ETH, TZA, DJI | infra.store, infra.connect, dpi.exchange, gov.protect | [[wingu-africa]] |
 | ZTE | XAF, NGA, KEN, EGY | infra.cybersec, geopol.china | [[zte]] |
 | Backbone Connectivity Network (BCN) Nigeria | NGA | infra.connect, infra.store | [[backbone-connectivity-network-nigeria]] |
 | Bayobab Zambia (MTN) | ZMB | infra.connect, dpi.exchange | [[bayobab-zambia]] |
@@ -85,12 +91,40 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 | Waka | KEN, XAF | dpi.pay, geopol.china | [[waka]] |
 
 | Affinity Africa | GHA, XAF | dpi.pay, include.access, finance.new | [[affinity-africa]] |
+| Al Madina (CAR national ID card printer) | CAF | dpi.id, gov.standards | [[al-madina]] |
+| GenKey (Dutch biometric voter-registration vendor) | CAF, XAF | dpi.id, dpi.registry | [[genkey]] |
+| Orange Centrafrique | CAF | infra.connect, geopol.eu | [[orange-centrafrique]] |
+| SOCATEL (CAR incumbent fixed telco) | CAF | infra.connect | [[socatel]] |
+| ENERCA (CAR electricity utility) | CAF | infra.energy | [[enerca]] |
+| Africell (mobile operator; Afrimoney) | AGO, COD, SLE, GMB, XAF | infra.connect, infra.store, dpi.pay | [[africell]] |
+| Angola Cables (Atlantic subsea / AngoNAP / Angonix) | AGO, XAF | infra.connect, infra.store | [[angola-cables]] |
+| EMIS (Angola interbank switch; Multicaixa/KWiK) | AGO | dpi.pay | [[emis-angola]] |
+| Unitel (Angola incumbent mobile operator) | AGO | infra.connect, infra.store | [[unitel]] |
+| Mediabox (Burundian software / systems integrator) | BDI | dpi.registry, dpi.govtech | [[mediabox]] |
+| MTN Benin (first commercial 5G) | BEN | infra.connect | [[mtn-benin]] |
+| BoFiNet (Botswana Fibre Networks; national data centre) | BWA | infra.store, infra.connect | [[bofinet]] |
+| SmartSwitch Botswana (Lesaka; biometric UEPS payments) | BWA | dpi.pay, dpi.id | [[smartswitch-botswana]] |
+| AUGENTIC (German biometric ID vendor; Cameroon CNI, 15-yr BOT) | CMR, XAF | dpi.id, infra.store | [[augentic]] |
+| IDEMIA (French biometric ID multinational; DRC $1.2B contract cancelled) | COD, XGL | dpi.id | [[idemia]] |
+| OADC Texaf Digital (DRC's first Tier-III data centre, Kinshasa) | COD | infra.store, infra.connect | [[oadc-texaf-digital]] |
+| PayLogic (national/regional interoperable payment switches) | COM, XCA, SWZ, LSO | dpi.pay | [[paylogic]] |
+| Liber Technologies (Luxembourg CRVS / digital-gov vendor) | CMR, TCD | dpi.registry, dpi.govtech | [[liber-technologies]] |
+| ST Digital (Cameroon-HQ regional data-centre / cloud operator) | CMR, CIV, GAB, TGO | infra.store, tech.ai, infra.cybersec | [[st-digital]] |
+| FindMe (Cameroonian digital-addressing start-up) | CMR, SEN | dpi.registry | [[findme]] |
+| PAIX Data Centres | DJI, GHA, KEN | infra.store, infra.connect | [[paix-data-centres]] |
+| Djibouti Telecom | DJI | infra.connect, dpi.pay, infra.store | [[djibouti-telecom]] |
+| TECH5 | DJI, XGL | dpi.id, dpi.pay | [[tech5]] |
+| Algérie Télécom | DZA | infra.connect, infra.store, include.divides | [[algerie-telecom]] |
+| Telecom Egypt | EGY | infra.connect, infra.store | [[telecom-egypt]] |
+| tpay (TPay Mobile) | EGY, XAF | dpi.pay, include.access | [[tpay]] |
 
 ## Organisations
 
 | Entity | Places | Topics | Page |
 |---|---|---|---|
 | Southern African Development Community (SADC) | XSA | gov.regional, infra.connect, dpi.exchange | [[sadc]] |
+| UNCDF (United Nations Capital Development Fund) | GAB | dpi.pay, include.access, finance.mou | [[uncdf]] |
+| COMESA (Common Market for Eastern & Southern Africa) | XSA, XEA, XAF | gov.regional, gov.policy, tech.ai, dpi.exchange | [[comesa]] |
 | Digital for Development (D4D) Hub | XAF, XGL | gov.protect, gov.policy, gov.regional, capacity.training | [[d4d-hub]] |
 | AUDA-NEPAD (African Union Development Agency) | XAF | gov.policy, gov.regional, gov.protect, capacity.training | [[auda-nepad]] |
 | KICTANet (Kenya ICT Action Network) | KEN, XAF | gov.policy, gov.protect, gov.regional, capacity.training | [[kictanet]] |
@@ -120,7 +154,7 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 | AFNIC | XGL, XAF | infra.connect, infra.cybersec, gov.standards | [[afnic]] |
 | Research ICT Africa (RIA) | ZAF, XAF | gov.policy, gov.protect, infra.connect | [[research-ict-africa]] |
 | Afreximbank (African Export-Import Bank) | XAF, EGY, KEN, XSS | dpi.pay, finance.new, gov.regional | [[afreximbank]] |
-| African Development Bank (AfDB) | XAF, XSS | finance.new, gov.policy, gov.regional | [[african-development-bank]] |
+| African Development Bank (AfDB) | CPV, XAF, XSS | finance.new, gov.policy, gov.regional, infra.store | [[african-development-bank]] |
 | Société d'Infrastructures Numériques (SIN), Togo | TGO | infra.store, dpi.govtech | [[sin-togo]] |
 | Digital Impact Alliance (DIAL) | XGL, XAF, ETH | dpi.id, dpi.exchange, gov.standards, capacity.training | [[dial]] |
 | ID4Africa | XAF, XGL | dpi.id, gov.standards, gov.protect | [[id4africa]] |
@@ -203,13 +237,22 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 | South African Local Government Association (SALGA) | ZAF | digital.localgov, gov.policy | [[salga]] |
 | Centre for International Governance Innovation (CIGI) | XAF, XGL | gov.policy, gov.regional, tech.industry | [[cigi]] |
 | Centre for Social and Economic Progress (CSEP) | XGL, XAF | gov.regional, geopol.india, dpi.exchange | [[csep]] |
+| ECCAS (Economic Community of Central African States) | XCA, CAF | gov.regional | [[eccas]] |
+| OIF (Organisation internationale de la Francophonie) | XGL, CAF, TCD, CMR, MDG | dpi.id, dpi.registry, include.access | [[oif-la-francophonie]] |
+| Greater Internet Freedom (Internews) | XGL, CAF | gov.protect, tech.ai, dpi.id | [[greater-internet-freedom]] |
+| AfriLabs (pan-African tech-hub network) | XAF, XGL | tech.innovate, capacity.training | [[afrilabs]] |
+| Fonds Souverain de Djibouti (FSD) | DJI | infra.store, finance.new | [[fonds-souverain-djibouti]] |
 
 ## Government bodies
 
 | Entity | Places | Topics | Page |
 |---|---|---|---|
 | Smart Zambia Institute (SZI) | ZMB | dpi.govtech, gov.policy, dpi.exchange | [[smart-zambia-institute]] |
+| ANINF (National Agency for Digital Infrastructure and Frequencies, Gabon) | GAB | infra.connect, infra.store, dpi.govtech | [[aninf-gabon]] |
+| DGI Gabon (Direction Générale des Impôts) | GAB | dpi.pay, dpi.govtech | [[dgi-gabon]] |
+| Personal Data Protection Commission (PDPC, Tanzania) | TZA | gov.protect, gov.legislate, capacity.training | [[pdpc-tanzania]] |
 | National Registration Bureau (Malawi) | MWI | dpi.id, dpi.registry, dpi.govtech, gov.legislate | [[national-registration-bureau-malawi]] |
+| ANEC (National Civil Registration Agency, Senegal) | SEN | dpi.registry, dpi.id, dpi.govtech | [[anec-senegal]] |
 | Department of Communications and Digital Technologies (DCDT, South Africa) | ZAF | dpi.govtech, gov.policy, include.divides, gov.legislate | [[dcdt-south-africa]] |
 | State Information Technology Agency (SITA) | ZAF | dpi.govtech, gov.policy, tech.industry | [[sita]] |
 | US Department of Commerce (ITA) | XGL | geopol.usa, tech.ai | [[us-department-of-commerce]] |
@@ -281,12 +324,72 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 | Electoral Commission of Uganda (EC) | UGA | dpi.id, dpi.registry, gov.protect | [[electoral-commission-uganda]] |
 | Central Bank of Liberia (CBL) | LBR | dpi.pay, include.access | [[central-bank-of-liberia]] |
 | Rwanda Information Society Authority (RISA) | RWA | dpi.govtech, dpi.exchange, gov.policy | [[risa]] |
+| ANE — Autorité Nationale des Élections (CAR) | CAF | dpi.id, dpi.registry | [[ane-central-african-republic]] |
+| ARCEP — electronic-communications regulator (CAR) | CAF | infra.connect, gov.legislate | [[arcep-central-african-republic]] |
+| DGID — Direction Générale des Impôts et des Domaines (CAR) | CAF | dpi.govtech, dpi.pay | [[dgid-central-african-republic]] |
+| MEPCI — Ministry of Economy, Plan & Int'l Cooperation (CAR) | CAF | dpi.govtech, gov.policy | [[mepci-central-african-republic]] |
+| INFOSI — National Institute for the Info Society (Angola) | AGO | infra.store, dpi.govtech | [[infosi]] |
+| IMA — Instituto de Modernização Administrativa (Angola) | AGO | dpi.govtech, dpi.exchange | [[ima-angola]] |
+| AGT — Administração Geral Tributária (Angola) | AGO | dpi.govtech, dpi.pay | [[agt-angola]] |
+| APD — Agência de Proteção de Dados (Angola) | AGO | gov.protect, gov.legislate | [[apd-angola]] |
+| CENI — Commission Électorale Nationale Indépendante (Burundi) | BDI | dpi.id, dpi.registry | [[ceni-burundi]] |
+| OBR — Office Burundais des Recettes (revenue authority) | BDI | dpi.govtech, dpi.pay | [[obr-burundi]] |
+| SETIC — Executive Secretariat for ICT (Burundi) | BDI | dpi.govtech, gov.policy | [[setic-burundi]] |
+| DGI — Direction Générale des Impôts (Benin) | BEN | dpi.govtech, dpi.pay | [[dgi-benin]] |
+| ONI — Office National d'Identification (Burkina Faso) | BFA | dpi.id, gov.regional | [[oni-burkina-faso]] |
+| ARCEP Burkina Faso (electronic-comms & postal regulator) | BFA | infra.connect, infra.cybersec, gov.legislate | [[arcep-burkina-faso]] |
+| Information and Data Protection Commission (Botswana) | BWA | gov.protect, gov.legislate | [[information-data-protection-commission-botswana]] |
+| BOCRA (Botswana Communications Regulatory Authority) | BWA | infra.connect, gov.protect | [[bocra]] |
+| Bank of Botswana (Digital BoB2024) | BWA | dpi.pay, dpi.govtech | [[bank-of-botswana]] |
+| DGSN — General Delegation for National Security (Cameroon) | CMR | dpi.id | [[dgsn-cameroon]] |
+| ONIP — Office National d'Identification de la Population (DR Congo) | COD | dpi.id, dpi.registry | [[onip-drc]] |
+| Banque Centrale des Comores (BCC) | COM | dpi.pay, gov.regional | [[bcc-comoros]] |
+| ANADEN — National Agency for Digital Development (Comoros) | COM | infra.store, dpi.govtech | [[anaden]] |
+| ARPCE — posts & electronic-communications regulator (Congo-B) | COG | infra.connect, infra.store | [[arpce-congo]] |
+| BUNEC — Bureau National de l'État Civil (Cameroon) | CMR | dpi.registry, dpi.id | [[bunec]] |
+| CAMPOST — Cameroon Postal Services | CMR | dpi.registry, dpi.pay | [[campost]] |
+| SNDI — Société Nationale de Développement Informatique (CIV) | CIV | dpi.exchange, dpi.govtech | [[sndi-cote-divoire]] |
+| ARTCI — Telecoms/ICT regulator & DPA (Côte d'Ivoire) | CIV | gov.protect, infra.connect | [[artci]] |
+| ARCEP Benin (electronic-comms & postal regulator) | BEN | infra.connect, gov.protect | [[arcep-benin]] |
+| NOSi (Núcleo Operacional da Sociedade de Informação) | CPV | dpi.govtech, dpi.id, dpi.exchange, gov.policy | [[nosi]] |
+| National Commission for the Protection of Personal Data (CNDP) | DJI | gov.protect | [[cndp-djibouti]] |
+| National Cybersecurity Authority (ANC/ANCS) | DJI | infra.cybersec, gov.policy | [[national-cybersecurity-authority-djibouti]] |
+| National Data Protection Commission (CNPD) | CPV | gov.protect | [[cnpd-cabo-verde]] |
+| National Authority for Protection of Personal Data (ANPDCP) | DZA | gov.protect, gov.legislate | [[anpdcp]] |
+| High Commission for Digitalisation (HCD/HCN) | DZA | gov.policy, dpi.govtech, tech.ai | [[high-commission-digitalisation-algeria]] |
+| Central Bank of Egypt (CBE) | EGY | dpi.pay, dpi.id, include.access | [[central-bank-of-egypt]] |
+| Ministry of Communications & IT (MCIT, Egypt) | EGY | dpi.govtech, gov.policy, infra.connect | [[mcit-egypt]] |
+| Personal Data Protection Center (PDPC, Egypt) | EGY | gov.protect, gov.legislate | [[pdpc-egypt]] |
+| National Telecom Regulatory Authority (NTRA, Egypt) | EGY | infra.connect, dpi.pay | [[ntra-egypt]] |
+| Financial Regulatory Authority (FRA, Egypt) | EGY | dpi.pay, gov.policy | [[fra-egypt]] |
+| National Bank of Ethiopia (NBE) | ETH | dpi.pay, gov.policy, include.access | [[national-bank-of-ethiopia]] |
+| Ethiopian Communications Authority (ECA) | ETH | gov.protect, infra.connect | [[ethiopian-communications-authority]] |
 
 ## Initiatives / programmes
 
 | Entity | Places | Topics | Page |
 |---|---|---|---|
 | Pay Na-Na — Liberia Inclusive Instant Payment System | LBR | dpi.pay, include.access | [[pay-na-na]] |
+| Digital Gabon Project (P175987) | GAB | dpi.id, dpi.exchange, gov.protect, infra.store | [[digital-gabon-project]] |
+| SIGFIP (Integrated Public Finance Management System, Gabon) | GAB | dpi.govtech, dpi.pay, gov.policy | [[sigfip-gabon]] |
+| MADIGIPAIE (Gabon public digital-payments program) | GAB | dpi.pay, gov.policy | [[madigipaie-gabon]] |
+| Digitax Gabon / e-tax (DGI revenue digitalization) | GAB | dpi.pay, dpi.govtech | [[digitax-gabon]] |
+| Registre Social Unique (RSU, Gabon) | GAB | dpi.registry, include.access, dpi.mis | [[registre-social-unique-gabon]] |
+| SIGE (Education Management Information System, Gabon) | GAB | dpi.mis, gov.policy | [[sige-gabon]] |
+| Kwenda (Angola cash-transfer / G2P programme) | AGO | dpi.pay, dpi.registry, include.access | [[kwenda]] |
+| PAFEN — Digital Foundations Project for Burundi ($92m WB) | BDI | infra.connect, dpi.govtech, finance.new | [[pafen-burundi]] |
+| Merankabandi (Burundi Cash for Jobs social protection) | BDI | dpi.mis, dpi.registry, include.access | [[merankabandi]] |
+| PACTDIGITAL (Burkina Faso Digital Acceleration Project, WB) | BFA | dpi.govtech, infra.connect, finance.new | [[pactdigital]] |
+| Faso Arzêka (Burkina Faso government digital-payment platform) | BFA | dpi.pay, dpi.govtech | [[faso-arzeka]] |
+| VENEEM (Burkina Faso digital civil-registration platform) | BFA | dpi.id, dpi.registry | [[veneem]] |
+| Omang digital ID / Electronic Identification System (Botswana) | BWA | dpi.id, dpi.govtech | [[omang-digital-id-botswana]] |
+| Registre Social Unique (RSU, Côte d'Ivoire) | CIV | dpi.registry, include.access | [[rsu-cote-divoire]] |
+| ENCORE — public-finance / civil-servant registry project (DR Congo) | COD | dpi.registry, dpi.govtech | [[encore-drc]] |
+| Project to Support Digitization of the Comorian Economy (AfDB) | COM | dpi.govtech, infra.store | [[project-digitization-comorian-economy]] |
+| PATN — Digital Transformation Acceleration Project (Congo-B, WB) | COG | dpi.govtech, infra.connect, finance.new | [[patn-congo]] |
+| Congo National Data Centre (Brazzaville, CAB) | COG | infra.store, infra.connect | [[congo-national-data-centre]] |
+| TCIB — SADC cross-border instant payments (PayInc) | XSA, BWA | dpi.pay, gov.regional | [[tcib]] |
+| SADC cross-border DPI / digital-ID framework (Co-Develop × FinMark × CCBG) | XSA | dpi.id, dpi.exchange, dpi.pay | [[sadc-cross-border-dpi-framework]] |
 | EARDIP — Eastern Africa Regional Digital Integration Project | XEA, DJI | infra.connect, gov.regional, dpi.exchange, finance.new | [[eardip]] |
 | Vision Djibouti 2035 | DJI | gov.policy, tech.ai, infra.connect | [[vision-djibouti-2035]] |
 | IDEA MPA (Inclusive Digitalization in ESA) | XEA, XSA + 10 countries | finance.new, infra.connect, gov.regional | [[idea-mpa]] |
@@ -367,12 +470,30 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 | Africa Data Leadership Initiative (ADLI) | XAF | dpi.exchange, gov.policy, data.open | [[africa-data-leadership-initiative]] |
 | Project Pangolin (Zimbabwe National AI & Data Platform) | ZWE | tech.ai, infra.store, gov.protect | [[project-pangolin]] |
 | Konza Technopolis (Kenya) | KEN | infra.store, dpi.govtech, geopol.china | [[konza-technopolis]] |
+| Mobile ID (Djibouti) | DJI | dpi.id, dpi.exchange, gov.protect | [[mobile-id-djibouti]] |
+| Smart Wallet (Djibouti) | DJI | dpi.pay, dpi.id, finance.mou | [[smart-wallet-djibouti]] |
+| Gov.CV (Cabo Verde unified portal) | CPV | dpi.govtech, dpi.id, dpi.exchange | [[gov-cv]] |
+| TechPark CV | CPV | infra.store, gov.policy, dpi.govtech | [[techpark-cv]] |
+| Digital Cabo Verde Project (World Bank) | CPV | dpi.govtech, gov.policy, infra.store | [[digital-cabo-verde-project]] |
+| Digital Algeria 2030 (SNTN-2030) | DZA | gov.policy, dpi.govtech, tech.ai | [[digital-algeria-2030]] |
+| Dzair Services (public-services single window) | DZA | dpi.govtech, dpi.exchange | [[dzair-services]] |
+| AMLAK (electronic land-title system) | DZA | dpi.registry, dpi.govtech | [[amlak]] |
+| African Startup & Young Innovators Financing Fund (Algeria) | DZA, XAF | finance.new, gov.regional, tech.innovate | [[african-startup-fund-algeria]] |
+| Digital Egypt | EGY | dpi.govtech, dpi.exchange, gov.policy | [[digital-egypt]] |
+| Haweya (national digital financial ID) | EGY | dpi.id, dpi.pay, include.access | [[haweya]] |
+| MOIEG-PASS (Interior biometric app) | EGY | dpi.id, dpi.govtech | [[moieg-pass]] |
+| Takaful and Karama (social-protection programme) | EGY | dpi.mis, include.access, dpi.pay | [[takaful-and-karama]] |
 
 ## Deals
 
 | Entity | Places | Topics | Page |
 |---|---|---|---|
 | TeKnowledge–Equinix partnership | NGA, XWA | infra.store, tech.ai, infra.cybersec | [[teknowledge-equinix-partnership]] |
+| Gabon–UNCDF Financial Inclusion Partnership | GAB | finance.mou, dpi.pay, include.access | [[gabon-uncdf-financial-inclusion-deal]] |
+| Gabon–Visa Financial Inclusion Partnership | GAB | finance.mou, dpi.pay, dpi.id | [[gabon-visa-partnership-deal]] |
+| Gabon–IGN FI Cadastre Modernisation Engagement | GAB | finance.mou, dpi.registry, gov.policy | [[gabon-ign-fi-cadastre-deal]] |
+| India–Angola $200m DPI credit line (2025) | AGO | dpi.id, dpi.exchange, geopol.india, finance.mou | [[angola-india-dpi-credit-line]] |
+| Digital Angola — Govt of Angola × Presight (G42) MoU (2021) | AGO | tech.ai, geopol.gulf, finance.mou | [[digital-angola-presight-mou]] |
 | EBRD–Yas €270m network-expansion loan | KEN, SEN | finance.new, infra.connect, geopol.eu | [[ebrd-yas-network-loan]] |
 | Digital Zambia Acceleration Project (DZAP) | ZMB | finance.new + connectivity/DPI/skills | [[dzap]] |
 | Equity–AfricaNenda–Gates DPI Partnership | KEN, XAF | finance.mou, dpi.pay, dpi.id, include.access | [[equity-africanenda-gates-dpi-partnership]] |
@@ -388,7 +509,7 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 | NDPC–Meta settlement & M-SIDP | NGA | gov.protect, gov.legislate, finance.mou | [[ndpc-meta-settlement]] |
 | Smart Africa–AFNIC MoU (internet infrastructure) | XAF | infra.connect, infra.cybersec, gov.standards | [[smart-africa-afnic-mou]] |
 | AWS Outposts Rwanda (with Sand Technologies) | RWA | infra.store, dpi.govtech, gov.protect | [[aws-outposts-rwanda]] |
-| Visa–M-Pesa–Onafriq DRC stablecoin pilot | COD, KEN | dpi.pay, finance.new | [[visa-mpesa-onafriq-drc-stablecoin-pilot]] |
+| Visa–Onafriq DRC stablecoin settlement (via Visa Pay) | COD, KEN | dpi.pay, finance.new, gov.protect | [[visa-mpesa-onafriq-drc-stablecoin-pilot]] |
 | SIN–ST Digital Lomé cloud partnership | TGO | infra.store, tech.ai | [[sin-st-digital-lome-cloud-deal]] |
 | Mozambique–Ethiopia DPI MoU | MOZ, ETH | dpi.id, dpi.exchange, finance.mou | [[mozambique-ethiopia-dpi-mou]] |
 | ESTDEV–Smart Africa MoU | XAF | dpi.exchange, gov.standards, finance.mou, geopol.eu | [[estdev-smart-africa-mou]] |
@@ -418,12 +539,14 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 | Seychelles–AfCFTA–Quest Ghana digital-trade-hub MoU | SYC, GHA, XAF | finance.mou, gov.regional, dpi.exchange | [[seychelles-afcfta-mou]] |
 | Starlink–Airtel Direct-to-Cell Partnership | XAF | infra.connect, data.satellite, finance.mou | [[starlink-airtel-d2c-partnership]] |
 | Starlink–Vodacom LEO Backhaul Partnership | XAF, ZAF | infra.connect, data.satellite, finance.mou | [[starlink-vodacom-leo-partnership]] |
+| Ethiopia Digital ID for Inclusion and Services Project (WB, P179040) | ETH | dpi.id, finance.new, include.access | [[ethiopia-digital-id-inclusion-project]] |
 
 ## People
 
 | Entity | Places | Topics | Page |
 |---|---|---|---|
 | David Eaves (UCL IIPP) | XGL | gov.standards, tech.industry, dpi.govtech, gov.legislate | [[david-eaves]] |
+| Faustin-Archange Touadéra (President, CAR) | CAF | gov.policy, dpi.id | [[faustin-archange-touadera]] |
 | Solly Malatsi (SA Communications & Digital Technologies Minister) | ZAF | dpi.govtech, include.divides, gov.policy, gov.legislate | [[solly-malatsi]] |
 | Stefaan Verhulst (The GovLab) | XGL | gov.standards, geopol.eu | [[stefaan-verhulst]] |
 | Nandan Nilekani | XGL, MAR | dpi.id, dpi.pay, gov.standards, geopol.india | [[nandan-nilekani]] |
@@ -474,6 +597,9 @@ Databases, registries, datasets, tools and portals consulted repeatedly (entity_
 | Resource | Places | Topics | Page |
 |---|---|---|---|
 | PeeringDB (interconnection database — networks, IXPs, facilities, carriers) | XGL | infra.connect, infra.store | [[peeringdb]] |
+| Data Protection Africa (ALT Advisory — per-country DP factsheets) | XGL, XAF | gov.protect, gov.legislate | [[data-protection-africa]] |
+| openIMIS (open-source health-financing / social-protection MIS) | XGL, BDI | dpi.mis, dpi.registry | [[openimis]] |
+| BFIX (Burkina Faso Internet Exchange) | BFA | infra.connect | [[bfix]] |
 | SA Digital Infrastructure Investment Study / broadband map (Sadis 2025) | ZAF, XSS | infra.connect, include.divides, data.statistics | [[sadis-2025]] |
 | Lomé Data Centre (LDC) | TGO | infra.store, tech.ai | [[lome-data-centre]] |
 | UXP Benin (data-exchange dashboard) | BEN | dpi.exchange, dpi.govtech, data.statistics | [[uxp-benin]] |
@@ -518,6 +644,21 @@ about or from one becomes a normal source that cites it.
 | Algiers Declaration (OTT platform regulation) | DZA, XAF | gov.regional, gov.standards, tech.industry | [[algiers-declaration]] |
 | World Bank Theme Taxonomy (June 2025) | XGL | gov.standards, gov.policy, finance.new | [[world-bank-theme-taxonomy]] |
 | POPIA — Protection of Personal Information Act (South Africa) | ZAF | gov.protect, gov.legislate, dpi.exchange | [[popia]] |
+| CAR Law No. 24.001 on the Protection of Personal Data (2024) | CAF | gov.protect, gov.legislate | [[car-data-protection-law-24-001]] |
+| Plan National de Développement (PND-RCA) 2024-2028 | CAF | gov.policy, dpi.govtech | [[pnd-2024-2028-central-african-republic]] |
+| Angola Law 22/11 on the Protection of Personal Data (LPDP) | AGO | gov.protect, gov.legislate | [[angola-data-protection-law-22-11]] |
+| Angola ICT White Paper 2023-2027 (LBTIC) | AGO | gov.policy, infra.connect, dpi.govtech | [[livro-branco-tic-angola-2023-2027]] |
+| Angola draft Artificial Intelligence law (2025) | AGO | tech.ai, gov.legislate, gov.protect | [[angola-ai-bill]] |
+| Burundi Personal Data Protection Law (2026) | BDI | gov.protect, gov.legislate | [[burundi-data-protection-law-2026]] |
+| Botswana Data Protection Act No. 18 of 2024 | BWA | gov.protect, gov.legislate | [[botswana-data-protection-act-2024]] |
+| CIB-AES (AES biometric ID card) | BFA, XWA | dpi.id, gov.regional | [[cib-aes]] |
+| Cameroon Civil Registration Law (Law 2024/016) | CMR | dpi.registry, dpi.id, gov.legislate | [[cameroon-civil-registration-law-2024]] |
+| SNIA — Cameroon National AI Strategy | CMR | tech.ai, gov.policy | [[snia-cameroon]] |
+| DRC National Digital Plan 2026-2030 (PNN2) | COD | gov.policy, infra.connect, tech.ai | [[drc-national-digital-plan-pnn2]] |
+| DRC National Artificial Intelligence Strategy | COD | tech.ai, gov.policy | [[drc-national-ai-strategy]] |
+| DRC Digital Code (Loi 20/017) | COD | gov.legislate, gov.protect | [[drc-digital-code]] |
+| Comoros Protection of Personal Data Law (2021) | COM | gov.protect, gov.legislate | [[comoros-data-protection-law-2021]] |
+| NIU — Numéro d'Identification Unique (Republic of Congo) | COG | dpi.id, dpi.registry | [[niu-congo]] |
 | ITU Global Connectivity Report 2025 (UMC framework) | XGL, XAF, XSS | infra.connect, include.divides, data.statistics | [[itu-global-connectivity-report-2025]] |
 | World Development Report 2025 (Standards for Development) | XGL, XSS, XAF | gov.standards, gov.policy, dpi.exchange | [[world-development-report-2025]] |
 | DIAL Digital ID Assessment | XGL, ETH | dpi.id, gov.standards | [[digital-id-assessment]] |
@@ -556,6 +697,16 @@ about or from one becomes a normal source that cites it.
 | Zimbabwe National AI Strategy 2026–2030 | ZWE | tech.ai, gov.policy, gov.protect | [[zimbabwe-national-ai-strategy]] |
 | Congo Digital Strategy 2030 | COG | gov.policy, infra.connect, dpi.govtech | [[congo-digital-strategy-2030]] |
 | Model Framework for Internet Resilience in Africa (ATU-S 001) | XAF | infra.connect, infra.cybersec, gov.policy | [[internet-resilience-framework-africa]] |
+| Djibouti Digital Code | DJI | gov.protect, infra.cybersec, dpi.exchange | [[djibouti-digital-code]] |
+| Cabo Verde Data Protection Law (Law 133/V/2001) | CPV | gov.protect, dpi.exchange | [[data-protection-law-cabo-verde]] |
+| Algeria National AI Strategy | DZA | tech.ai, gov.policy | [[algeria-national-ai-strategy]] |
+| Algeria Digital ID & Trust Services Law (2025 draft) | DZA | dpi.id, gov.legislate, gov.protect | [[algeria-digital-id-trust-law]] |
+| Algeria National Data Governance Framework (Decree 25-350) | DZA | gov.policy, dpi.exchange, gov.protect | [[algeria-data-governance-framework]] |
+| Egypt Personal Data Protection Law (151/2020 + Regs 816/2025) | EGY | gov.protect, gov.legislate, dpi.exchange | [[egypt-pdpl]] |
+| Egypt Property ID Law | EGY | dpi.registry, gov.legislate, dpi.govtech | [[egypt-property-id-law]] |
+| Egypt Vision 2030 | EGY | gov.policy, dpi.govtech, tech.industry | [[egypt-vision-2030]] |
+| Ethiopia Personal Data Protection Proclamation (1321/2024) | ETH | gov.protect, gov.legislate, dpi.exchange | [[ethiopia-pdpp]] |
+| Ethiopia National Digital Payments Strategy (NDPS 2026–2030) | ETH | dpi.pay, gov.policy, include.access | [[ethiopia-ndps]] |
 
 ## Instruments — scholarly & analytical works (`entity_type: instrument`; formerly "publications")
 

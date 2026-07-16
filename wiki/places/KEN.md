@@ -6,7 +6,7 @@ parent: XEA
 place_kind: country
 topics: [infra.store, dpi.pay, dpi.id, dpi.exchange, include.access, include.divides, gov.protect, gov.policy, gov.standards, gov.regional, gov.legislate, tech.ai, tech.innovate, tech.industry, geopol.usa, geopol.gulf, geopol.china, geopol.eu, geopol.india, dpi.govtech, dpi.mis, infra.connect, infra.cybersec, finance.mou, finance.new, data.open, data.statistics, data.satellite, infra.capacity, infra.energy, capacity.training, capacity.research, capacity.literacy, digital.rural]
 status: active
-last_reviewed: 2026-07-14
+last_reviewed: 2026-07-16
 ---
 
 # Kenya (KEN)
@@ -62,13 +62,15 @@ last_reviewed: 2026-07-14
   **Azure Space**, through the [[itu]] [[partner2connect]] coalition. Source:
   [[2026-07-09 ITU's Partner2Connect crosses $100 billion in global connectivity pledges]].
   See [[infra.connect]], [[include.access]].
-- **2026-07 (early)** — **Safaricom's [[safaricom]] M-Pesa** joins **[[visa]]** and pan-African
-  network **[[onafriq]]** in a live **USD-pegged stablecoin pilot in the DRC**
-  ([[visa-mpesa-onafriq-drc-stablecoin-pilot]]) — blockchain settlement to bypass
-  correspondent banking (~8% SSA remittance fees), building on Visa Pay in DRC (Sept 2025).
-  Signals M-Pesa's Web3 pivot and would test CBK/CBN crypto stances. **needs-review** —
-  low-authority aggregator, no primary citation; verify against Visa/Safaricom/Onafriq
-  releases. Source: [[2026-07-10 Visa and M-Pesa Launch Blockchain Stablecoin Pilot in DR Congo]].
+- **2026-07 (early)** — **[[visa]] settles [[safaricom]] M-Pesa top-ups in stablecoins in the DRC**
+  via **Visa Pay** with pan-African network **[[onafriq]]** ([[visa-mpesa-onafriq-drc-stablecoin-pilot]])
+  — blockchain settlement to bypass correspondent banking (~8% SSA remittance fees), building on Visa Pay
+  in DRC (Sept 2025). The core mechanism is corroborated by an on-record Visa exec (Sullivan), though the
+  "joint USD-stablecoin *pilot* launch" framing is downgraded (no jointly-announced pilot; USD peg
+  inferred; one partnership awaiting regulatory approval). Still signals M-Pesa's Web3 direction and tests
+  CBK/CBN crypto stances (REV-006 resolved 2026-07-16). Sources:
+  [[2026-07-02 Visa tests stablecoins in DRC for cross-border payments (The EastAfrican)]],
+  [[2026-07-02 DR Congo becomes Africa's live test for dollar-settled mobile money (Ecofin)]].
   See [[dpi.pay]], [[finance.new]], [[geopol.gulf]], [[gov.protect]].
 
 - **2026-07-09** — The **$1bn [[microsoft-g42-kenya-datacenter]]** (Olkaria) has

@@ -2,7 +2,7 @@
 type: concept
 title: Use of satellite data
 slug: data.satellite
-places: [NGA, NAM, ZAF, KEN, UGA, SEN, RWA, MOZ, GAB, CIV, XAF, COD, LSO, TZA, XGL]
+places: [AGO, NGA, NAM, ZAF, KEN, UGA, SEN, RWA, MOZ, GAB, CIV, XAF, COD, LSO, TZA, XGL]
 entities: [[amazon-globalstar-acquisition], [globalstar], [starlink], [amazon-web-services], [nigcomsat], [cran], [nasa-harvest], [catherine-nakalembe], [watra], [netumbo-nandi-ndaitwah], [orange], [orange-cote-divoire], [orange-sat], [eutelsat], [spacecoin], [communications-authority-of-kenya], [ncc], [starlink-airtel-d2c-partnership], [starlink-vodacom-leo-partnership], [airtel-africa], [vodacom], [google]]
 lens: [sovereignty, colonialism]
 status: active

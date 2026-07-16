@@ -19,6 +19,12 @@ region-level; country-specific detail lives on the country hubs.
 
 ## Recent developments
 
+- **2025-08-12** — **La Francophonie CRVS support across Central Africa.** On the 8th Africa
+  CRVS Day, **[[oif-la-francophonie]]** reaffirmed birth-registration support spanning
+  **[[CAF]]** (3,000 certificates targeted), **[[TCD]]** (53,000+ children registered) and
+  **[[CMR]]** (5,400), plus Madagascar — legal identity for undocumented rural/vulnerable
+  populations under SDG 16.9. See [[dpi.id]]. Source:
+  [[2025-08-12 La Francophonie supports birth registration efforts across Central Africa, Madagascar]].
 - **2026-07-11** — **BEAC joins PAPSS.** The **[[beac]]** (Banque des États de l'Afrique
   Centrale, the CEMAC common central bank) officially joined the **[[papss]]** (Pan-African
   Payment and Settlement System), extending the continental real-time cross-border

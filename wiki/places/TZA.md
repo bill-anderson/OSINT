@@ -6,13 +6,21 @@ parent: XEA
 place_kind: country
 topics: [dpi.id, dpi.registry, infra.store, finance.new, tech.innovate, infra.connect, digital.rural, include.access, digital.localgov, dpi.mis, dpi.exchange, gov.standards, data.statistics, gov.regional, tech.ai, gov.policy, gov.protect, capacity.training]
 status: active
-last_reviewed: 2026-07-11
+last_reviewed: 2026-07-15
 ---
 
 # Tanzania (TZA)
 
 ## Recent developments
 
+- **2026-07-14** — **National Certified Data Protection Officer (CDPO) Programme.** The
+  **[[pdpc-tanzania]]** (Personal Data Protection Commission) and the **Open University of
+  Tanzania (OUT)** launched a national **CDPO Programme** to professionalise Data Protection
+  Officers — OUT delivers and assesses the training, **PDPC certifies** — targeting government,
+  finance, telecoms, healthcare, education and tech. A compliance-capacity build-out under the
+  **Personal Data Protection Act** (DG Dr. Emmanuel Mkilia; OUT VC Prof. Alex B. Makulilo). Source:
+  [[2026-07-14 OUT, PDPC Launch National Data Protection Programme]]. See [[gov.protect]],
+  [[capacity.training]].
 - **2026-07-10** — **First EAC cross-border instant-payment corridor (RSwitch↔TIPS).** Rwanda
   and Tanzania concluded a week-long technical meeting in Zanzibar on a proof of concept
   interlinking Tanzania's **[[tips-tanzania]]** (TIPS) with Rwanda's **[[rswitch-rwanda]]**
@@ -131,7 +139,7 @@ last_reviewed: 2026-07-11
 
 ## Entities
 
-- [[nida-tanzania]] · [[world-bank]] · [[google-for-startups-accelerator-africa]] · [[google]]
+- [[pdpc-tanzania]] · [[nida-tanzania]] · [[world-bank]] · [[google-for-startups-accelerator-africa]] · [[google]]
 - [[helios-towers]] · [[wingu-africa]] · [[uneca]] · [[eac]] · [[usaid]]
 - [[hmis-tanzania-pea]] · [[rhis-recording-burden-5country]] · [[dhis2]]
 - Batch (2026-07-12): [[eac-cross-border-payment-masterplan]] · [[tips-tanzania]] ·

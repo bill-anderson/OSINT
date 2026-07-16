@@ -2,7 +2,7 @@
 type: entity
 entity_type: organisation
 title: World Bank
-places: [ZMB, NGA, MWI, TZA, XEA, XSA, XWA, TGO, BEN, LBR, SLE, BFA, CMR, RWA, ZAF]
+places: [ZMB, NGA, MWI, TZA, XEA, XSA, XWA, TGO, BEN, LBR, SLE, BFA, CMR, RWA, ZAF, GAB]
 topics: [finance.new, dpi.id, dpi.govtech, infra.connect, gov.policy, gov.protect, infra.cybersec, dpi.registry, gov.standards]
 lens: [sovereignty, colonialism]
 status: active
@@ -104,6 +104,16 @@ credits, plus IFC/MIGA under a "One World Bank" approach.
   **[[rswitch-rwanda]]** under the [[eac-cross-border-payment-masterplan]]. See [[RWA]],
   [[TZA]], [[XEA]], [[dpi.pay]]. Source:
   [[2026-07-10 New Rwanda-Tanzania Payment Pilot could transform trade across East Africa]].
+- **Digital Gabon Project — $68.5m, chronic under-execution (2024).** The Bank's
+  **[[digital-gabon-project]]** (P175987; IBRD-92830) finances Gabon's legal-ID, interoperability,
+  data-protection/cybersecurity and data-centre build. Signed 2 Jan 2024 (approved Jul 2021) but the
+  Bank's own **Implementation Status & Results Reports** document a stark delivery gap: not yet
+  effective by mid-2024, effective only 30 Jul 2024 "after a significant delay," and **1.92%
+  disbursed** with all results indicators at baseline by Dec 2024 — the primary evidence behind
+  Gabon's 2026 push to raise disbursement. The Bank also partners on the [[registre-social-unique-gabon]]
+  social registry and the [[sige-gabon]] education MIS (tablets). See [[GAB]], [[dpi.id]],
+  [[dpi.exchange]]. Sources: [[2024-01-02-world-bank-digital-gabon-68m-loan]],
+  [[2024-06-29-world-bank-digital-gabon-isr-seq6]], [[2024-12-19-world-bank-digital-gabon-isr-seq7]].
 - **MyMzansi / Google–World Bank public-services partnership (2025-11, [[ZAF]]).** SA's
   Presidency-built **[[mymzansi]]** DPI prototype references a Google–World Bank partnership to
   reach 100m people with AI-driven public services — the Bank cited as a backer of AI-enabled
@@ -165,3 +175,6 @@ finance and technical assistance shaping national digital architecture).
 - [[2026-03-03 Nigeria's Disharmonised Digital System Leaving Low-Income Farmers Behind]]
 - [[2026-07-10 New Rwanda-Tanzania Payment Pilot could transform trade across East Africa]]
 - [[2025-11-09 Behind the speedy MyMzansi screens and the Presidency's race to build a digital government]]
+- [[2024-01-02-world-bank-digital-gabon-68m-loan]]
+- [[2024-06-29-world-bank-digital-gabon-isr-seq6]]
+- [[2024-12-19-world-bank-digital-gabon-isr-seq7]]

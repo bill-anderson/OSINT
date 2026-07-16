@@ -40,80 +40,27 @@ Each item has an internal line (**Affects** — wiki pages CC updates once resol
 
 ---
 
-### REV-002 · Nigeria PAPSS cross-border flows −53% (contradiction-watch)
-**Affects (wiki):** [[dpi.pay]], [[papss]], [[afreximbank]], [[NGA]], [[nigeria--dpi-pay]].
+### REV-CAF-001 · Al Madina (CAR ID card printer) — home country: Lebanese or Omani?
+**Affects (wiki):** [[al-madina]] (status: needs-review), [[caf--dpi-id]], [[CAF]].
 
 **Brief (paste-ready):**
-**Are Nigeria's PAPSS (Pan-African Payment and Settlement System) cross-border flows contracting or scaling?**
-- **Contraction:** PAPSS transaction value fell **53% to ₦5.6bn** in H1 2025 — Vanguard, "Nigeria's PAPSS cross-border payments falls 53% to N5.6bn," 27 Jan 2026, reporting the Central Bank of Nigeria Financial Stability Report — https://www.vanguardngr.com/2026/01/nigerias-papss-cross-border-payments-falls-53-to-n5-6bn/
-- **The countervailing "continental payment rail is scaling" reading has no single source on file** — it is a synthesised narrative, not one dated figure.
+**Where is Al Madina — the company printing the Central African Republic's national ID card (CNI) — actually headquartered?**
+- **Lebanese:** described as "la société **libanaise** Almadina" — Corbeau News Centrafrique, "Centrafrique : Le prix des cartes d'identité enfin réduit…," 27 Jul 2025 — https://corbeaunews-centrafrique.org/centrafrique-le-prix-des-cartes-didentite-enfin-reduit-apres-cinq-ans-de-violations-criminelle
+- **Oman-headquartered:** described as "an **Oman**-headquartered security printing company" — Biometric Update, "Central African Republic in full biometric voter registration preparations," 8 Oct 2024 — https://www.biometricupdate.com/202410/central-african-republic-in-full-biometric-voter-registration-preparations
 
-*Provenance gap:* only the contraction figure is sourced, and even that is a news write-up of the CBN report, not the CBN report itself.
-
-*Task:* the one hard figure I hold shows a 53% H1'25 decline — check whether later PAPSS / CBN data confirm contraction or a rebound, and whether the naira fall is a real volume drop or an FX/denomination effect. Record an as-of date.
+These sources give different home countries for the same firm. Investigate and suggest a resolution (it may be foreign-owned and HQ'd in a third country, or two similarly-named firms may be conflated), recording an as-of date. Distinguish from unrelated "Al Madina"–named companies elsewhere. (Recorded CAF batch, 2026-07-15.)
 
 ---
 
-### REV-003 · AMSP Afreximbank guarantee figure, + Masiyiwa/Econet dates
-**Affects (wiki):** [[africa-medical-supplies-platform]], [[strive-masiyiwa]].
+### REV-DJI-001 · Djibouti cybersecurity authority — is "ANCS" (2024) the same body as the statutory "ANC" (2025)?
+**Affects (wiki):** [[national-cybersecurity-authority-djibouti]] (status: needs-review), [[djibouti--gov-protect]], [[DJI]].
 
 **Brief (paste-ready):**
-Two loosely-related facts.
+**Djibouti's national cybersecurity authority: is the "ANCS" credited with authoring the 2024–2030 National Cybersecurity Strategy the same institution as the "ANC" (National Cybersecurity Authority) that a November-2025 bill sought to create by law — and if so, what is its correct name and legal status?**
+- **"ANCS" already exists (2024):** the National Cybersecurity Strategy 2024–2030, released **28 Nov 2024**, is attributed to an existing **"National Cybersecurity Authority (ANCS)"** — We Are Tech Africa, "Djibouti Unveils 2024-2030 National Cybersecurity Strategy," 2 Dec 2024 — https://www.wearetech.africa/en/fils-uk/news/public-management/djibouti-unveils-2024-2030-national-cybersecurity-strategy
+- **"ANC" created by a bill (2025):** a bill presented to the National Assembly on **10 Nov 2025** would establish a **"National Cybersecurity Authority (ANC)"** as an independent statutory body — Ecofin Agency, "Djibouti Advances Bill to Create National Cybersecurity Authority," 12 Nov 2025 — https://www.ecofinagency.com/news-digital/1211-50395-djibouti-advances-bill-to-create-national-cybersecurity-authority
 
-(a) **What is the size of the Afreximbank facility (PATIMFA) backing the Africa Medical Supplies Platform — $3bn or $3.8bn?** The wiki carries ~$3bn (with $200m reserved); "one source" gives $3.8bn but is not pinned. Sources on file discussing the AMSP guarantee:
-- Milken Institute interview with Strive Masiyiwa, Jun 2020 — https://milkeninstitute.org/content-hub/collections/articles/interview-au-special-envoy-strive-masiyiwa-launch-africa-medical-supplies-platform
-- Strive Masiyiwa, "Best practices from Africa: collaboration in the time of COVID-19," Commonwealth Security Research Group, 1 Jul 2020 — https://www.cwsrg.org/post/strive-masiyiwa-best-practices-from-africa-collaboration-in-the-time-of-covid-19
-- "Strive Masiyiwa on Tools and Weapons with Brad Smith" (transcript), 2023 — https://tools-and-weapons-with-brad-smith.simplecast.com/episodes/strive-masiyiwa-entrepreneurship-education-and-impatience/transcript
-
-*Provenance gap:* the $3.8bn figure is not attributed to a specific source in my records — it must be traced across these three.
-
-(b) **When was Econet founded — licensed 1997 or incorporated 1998?** The wiki already reads this as a licence-vs-incorporation distinction, not a true conflict.
-- **Licensed 1997:** NYU School of Law, 4 Apr 2017 — https://www.law.nyu.edu/news/Strive-Masiyiwa-Bernstein-Institute-leadership-business-human-rights-philanthropy-Econet-Zimbabwe ; Stanford GSB, 2023 — https://www.gsb.stanford.edu/insights/rebel-behind-africas-telecom-revolution ; African Leadership Magazine, 20 Jan 2014 — https://www.africanleadershipmagazine.co.uk/five-lessons-from-zimbabwes-richest-man-strive-masiyiwa/
-- **Incorporated/established 1998:** the wiki attributes this to "The Guardian (2014)," but **no matching Guardian source is on file** — the only Guardian page I hold is a 2021 COVID-vaccines piece unrelated to Econet's incorporation. (Provenance gap.)
-
-*Task:* reconcile the AMSP facility figure ($3bn vs $3.8bn) against a primary Afreximbank record, and confirm the Econet licence vs incorporation dates. Record an as-of date for each.
-
----
-
-### REV-004 · Zimbabwe–US health MoU amount
-*Recorded, not reconciled.*
-**Affects (wiki):** [[zimbabwe-us-health-mou]].
-
-**Brief (paste-ready):**
-**What was the headline value of the US health-funding package Zimbabwe rejected in February 2026 — $350m or $367m?**
-- **$350m:** Business Insider Africa, "Zimbabwe rejects $350 million US health funding deal, warns it threatens national sovereignty," 24 Feb 2026 — https://africa.businessinsider.com/local/markets/zimbabwe-rejects-dollar350-million-us-health-funding-deal/
-- **$367m:** Ecofin Agency, "Zimbabwe Turns Down U.S. Health Funding, Citing Sovereignty Concerns," 25 Feb 2026 — https://www.ecofinagency.com/news/2602-53296-zimbabwe-turns-down-u-s-health-funding-citing-sovereignty-concerns
-
-Related coverage on file (the parallel Zambia deal, useful context): Africanews, 26 Feb 2026 — https://www.africanews.com/2026/02/26/zambia-rejects-us-health-aid-over-mining-partnership-ties/ ; The Guardian, 25 Feb 2026 — https://www.theguardian.com/global-development/2026/feb/25/zambia-us-health-aid-deal-exploitation-mining-concessions-data-sharing-targets ; Channel Africa / Reuters, 5 Mar 2026 — **only the publisher homepage is on file** (https://www.channelafrica.co.za/), no clean article URL (provenance gap).
-
-*Task:* two figures ($350m vs $367m) for the same rejected deal — investigate which is correct against a primary US or Zimbabwe announcement, recording an as-of date.
-
----
-
-### REV-005 · Mozambique Cyber Security Law implementation cost
-**Affects (wiki):** [[mozambique-cyber-security-law]], [[MOZ]].
-
-**Brief (paste-ready):**
-**What is the implementation cost stated for Mozambique's Cyber Security Law (approved April 2026)?** A single source gives two irreconcilable figures — **~160m MZN (~US$2.5m)** vs **167,257.94m MZN** — a ~1,000× gap that reads like a units error (full-MZN vs millions, or a thousands/millions slip).
-- Only source on file: Club of Mozambique (via O País), "Mozambique parliament unanimously approves Cyber Security Law," 17 Apr 2026 — https://clubofmozambique.com/news/mozambique-parliament-unanimously-approves-cyber-security-law/
-
-*Provenance gap:* one secondary source only; no primary gazette (*Boletim da República*) or budget text held.
-
-*Task:* the single source I hold states two costs ~1,000× apart — resolve against the primary law text / budget line which figure and unit is correct, recording an as-of date.
-
----
-
-### REV-006 · DR Congo USD-stablecoin pilot — provisionally held (weak provenance)
-**Affects (wiki):** [[drc--dpi-pay]], [[visa-mpesa-onafriq-drc-stablecoin-pilot]], [[visa]] (visa entity provisionally moved to `active` on the corroborated Visa Pay leg, 2026-07-13).
-
-**Brief (paste-ready):**
-**Have Visa, M-Pesa (Safaricom) and Onafriq actually launched a USD-stablecoin pilot in the DR Congo?**
-- **Stablecoin-pilot claim — single low-authority source:** Streamline Feed, "Visa and M-Pesa Launch Blockchain Stablecoin Pilot in DR Congo," 10 Jul 2026 — https://streamlinefeed.co.ke/news/visa-and-m-pesa-launch-blockchain-stablecoin-pilot-in-dr-congo
-- **Related Visa Pay / Onafriq DRC activity (NOT the stablecoin leg), independently reported:** Connecting Africa, "How Onafriq is growing digital finance amid uncertainty in DRC," 26 Jan 2026 — https://www.connectingafrica.com/financial-inclusion/how-onafriq-is-growing-digital-finance-amid-uncertainty-in-drc
-
-*Provenance gap:* the stablecoin leg rests on one weak aggregator only; no Visa / Safaricom / Onafriq primary on file corroborates it.
-
-*Task:* verify the USD-stablecoin pilot against a Visa, Safaricom or Onafriq primary; if none confirms it, treat the stablecoin claim as unverified and downgrade. Record an as-of date.
+These two sources name an authority with the same function but different acronyms (ANCS vs ANC) and different apparent legal status (already operating in 2024 vs being created by a 2025 bill). Investigate whether ANCS was an administrative precursor later given statutory form as the ANC, or whether one acronym is a reporting error, and record the correct name/status with an as-of date. (Recorded DJI/CPV batch, 2026-07-15.)
 
 ---
 
@@ -140,3 +87,88 @@ in the same batch and is now held; instrument upgraded stub→active. See log.md
   creating the highest-recurrence DPA/instrument pages to anchor the [[gov.protect]] / [[gov.legislate]]
   threads — created here only for the entities the batch actually leaned on.* (Recorded Batch A,
   2026-07-14.)
+
+- **GAP-CMR-001 · Cameroon personal-data-protection bill — enactment status unconfirmed.** Cameroon
+  introduced two bills to parliament in late 2024 — a civil-registration reform (enacted as **Law 2024/016**,
+  now being implemented by BUNEC) and a **personal data protection** bill. The wiki holds no source confirming
+  whether the data-protection bill was enacted, and Cameroon's rapid biometric-ID + CRVS rollout is proceeding
+  without a confirmed operative DP law / authority. *Lead: consider sourcing the status of Cameroon's
+  data-protection law and any supervisory authority.* See [[cameroon--dpi-id]]. (Recorded CMR/CIV batch, 2026-07-15.)
+
+- **GAP-BFA-001 · Burkina Faso CIB-AES biometric ID — vendor/technology unconfirmed.** The AES biometric
+  card ([[cib-aes]], [[oni-burkina-faso]]) rollout is well-documented, but no source in hand confirms the
+  **vendor or technical platform** — "Emptech" appears only in a source's keyword list, not its body. *Lead:
+  consider sourcing a government/vendor primary on the CIB-AES production contract and platform (and whether it
+  shares the AES common-passport vendor).* See [[burkina-faso--dpi-id]]. (Recorded BFA/BWA batch, 2026-07-15.)
+
+- **GAP-BDI-001 · Burundi biometric national ID — no confirmed vendor, technology or firm launch date.**
+  The rollout has slipped repeatedly (2023: "before 2025"; May 2024: not ready for the 2025 voter enrolment;
+  Jan 2026: "pilot testing in ~a dozen communes"), but no source names the **vendor/platform** (e.g. MOSIP or
+  other) or a firm national-launch date. *Lead: consider sourcing a government/vendor primary on the biometric-
+  ID system's technology and timeline.* See [[burundi--dpi-id]]. (Recorded BEN/BDI batch, 2026-07-15.)
+
+- **GAP-BDI-002 · Burundi–Vietnam digital-cooperation MoU referenced, not sourced.** The IFC piece notes
+  Burundi "concluded a Memorandum of Understanding with Vietnam to sharpen collaboration on digital projects"
+  (~late 2024), but the wiki holds no source or detail on it. *Lead: consider sourcing the Burundi–Vietnam
+  digital MoU (scope, date) — a geopol.* thread worth anchoring if it recurs.* (Recorded BEN/BDI batch, 2026-07-15.)
+
+- **GAP-AGO-001 · Unitel–Ericsson network-modernisation deal unsourced.** A 2025 Unitel–Ericsson mobile
+  network-modernisation partnership appears in the source datasets (Ericsson press-release URL) but was not
+  fetched into this batch, so [[unitel]] carries the claim without a dated source page. *Lead: consider
+  sourcing the Ericsson/Unitel primary and adding a source page.* (Recorded AGO batch, 2026-07-15.)
+
+- **GAP-AGO-002 · Angola's foundational digital-ID stack — whose technology?** Sources describe two
+  different foreign stacks without reconciling them: a **Chinese-devised civil-registration system** (state-
+  owned CEIEC won the contract Nov 2019; live in Luanda 2020) and a **2025 India pivot** to model the digital
+  ID on **Aadhaar** under the $200m DPI credit ([[angola-india-dpi-credit-line]]; MOSIP context). These may be
+  complementary (China = civil registration/CRVS; India = future foundational digital ID) or a hand-off — no
+  single source clarifies which stack underpins the **Bilhete de Identidade (BI)** / planned digital ID.
+  *Lead: consider sourcing a primary (INFOSI / Ministry / vendor) that states the current and planned digital-ID
+  platform; watch for a China↔India stack contradiction as it develops.* See [[angola--dpi-id]]. (Recorded AGO
+  batch, 2026-07-15.)
+
+- **GAP-DZA-001 · Algeria data-governance framework — "JO-87" vs Presidential Decree 25-350.** The
+  We Are Tech Africa report anchors the national data-governance framework in **Presidential Decree
+  No. 25-350 (30 Dec 2025)**, but an earlier LinkedIn lead referenced a **"JO-87" national
+  data-governance / cyber strategy** — not held as a source. *Lead: confirm whether JO-87 (an
+  Official-Journal issue?) and Decree 25-350 denote the same instrument or two distinct texts, and
+  source the primary if they differ.* See [[algeria-data-governance-framework]]. (Recorded DZA batch,
+  2026-07-15.)
+
+- **GAP-DJI-001 · Djibouti D-Money port-payment launch — publication year unconfirmed.** The
+  Developing Telecoms report of Djibouti Telecom extending **D-Money** to port workers (launched by
+  PM Abdoulkader Kamil Mohamed "on 11 December") carries **no year** in the clip; the source page is
+  dated **2021-12-11** with `date_source: proxy` on an inferred year. *Lead: confirm the true
+  publication/launch year from the Developing Telecoms article (id 15938) or a Djibouti Telecom /
+  DPCS primary, and correct the source date if wrong.* See [[djibouti-telecom]], [[djibouti--dpi-pay]].
+  (Recorded DJI/CPV batch, 2026-07-15.)
+
+- **GAP-CAF-001 · SOCATEL "National Digital Hub" (planned Tier III data centre) unsourced.** The
+  CAF dataset lists a planned **SOCATEL National Digital Hub** (Tier III DC, Bangui) — noted on
+  [[socatel]] — but no dated primary confirms it; CAR currently has **no national data centre** (per the
+  2022 [[greater-internet-freedom]] baseline). *Lead: consider sourcing a SOCATEL / ministry primary on
+  the planned Bangui data centre; until then the claim stays flagged, not asserted.* (Recorded CAF batch,
+  2026-07-15.)
+
+- **GAP-GAB-001 · Gabon data-protection law/authority — asserted but unsourced.** The WB
+  [[digital-gabon-project]] is explicitly building "data protection and cybersecurity foundations,"
+  and Gabon is tagged [[gov.protect]], but the wiki holds **no primary on Gabon's actual
+  data-protection law or supervisory authority** — the fast-moving CNIE/NIP, RSU and SIGFIP builds are
+  proceeding without a confirmed operative DP regime on file. *Lead: consider sourcing Gabon's
+  data-protection statute and any authority (e.g. CNPDCP-equivalent).* See [[GAB]], [[gabon--dpi-id]].
+  (Recorded GAB batch, 2026-07-15.)
+
+- **GAP-GAB-002 · Gabon CNIE/NIP enrolment coverage — no published figure.** The digital-ID relaunch
+  is the flagship DPI component, and the WB results framework targets a "% of population 16+ with a
+  NIP," but that indicator was at **baseline (0) as of Dec 2024** and no source in hand gives a current
+  enrolment/coverage number. *Lead: consider sourcing a dated NIP/CNIE coverage figure (DGDI / ANINF /
+  WB ISR).* See [[gabon--dpi-id]]. (Recorded GAB batch, 2026-07-15.)
+
+- **GAP-GAB-003 · Gabon ID stack — vendor roles under-disambiguated + Visa digital-ID leg unsourced.**
+  Secondary coverage credits card/software supply to **[[in-groupe]]** (French) while reporting
+  **[[thales]]** (French) is resuming its **historical registry** contract (post-Semlex) — the two
+  roles (credential vs registry) are distinct but never cleanly separated, and no primary award is on
+  file. Separately, the **[[gabon-visa-partnership-deal]]** "secure digital-identity system" element is
+  reported only second-hand. *Lead: consider sourcing the primary CNIE contract award(s) to pin who
+  supplies what, and a Visa/Gabon primary for the ID element.* See [[gabon--dpi-id]]. (Recorded GAB
+  batch, 2026-07-15.)

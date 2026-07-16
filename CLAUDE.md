@@ -333,6 +333,11 @@ queue means routing each item to its correct destination.
    - **Same story, later date** (the situation has moved) → treat as an
      **update**, not a duplicate: revise the affected pages, add the new source,
      and keep the prior "as of" statement dated rather than deleting it.
+   - **Older publication, fresher state already held** (backfill) → the source is
+     a **historical baseline**, not a development. File and date it, but it must
+     **not overwrite or out-rank fresher state** on synthesis pages. Arriving late
+     never makes an old figure current. Ingest date is irrelevant here; only
+     `published` decides precedence.
    - **New event** → proceed normally.
    When same-vs-new is genuinely unclear, prefer attaching to the existing page
    and note the uncertainty in `log.md` rather than creating a near-duplicate.
@@ -376,8 +381,29 @@ queue means routing each item to its correct destination.
 ## Currency discipline
 
 - Every factual claim carries an "as of" date or cites a dated source.
-- `last_reviewed` = last substantive check, not a trivial edit.
-- On conflict, prefer the newest source; record the conflict, don't erase it.
+- **Time-varying figures are always written dated, never bare present tense.**
+  Any value that changes over time — rankings, penetration and access rates,
+  counts, prices, signatory totals — carries its date inline: "ranked 156th
+  (2020)", not "ranks 156th". There is **no staleness threshold** for this: it is
+  a phrasing rule, not an age rule, so it always applies and staleness stays
+  visible on the page. Structural facts (a law's provisions, a treaty's terms)
+  don't age this way and need dating only when amended or repealed.
+- **Reference studies: cite, don't absorb.** Large multi-country reference works
+  (World Bank flagships, global indices, CCDRs) are captured as `resource` or
+  `instrument` entities. Do **not** promote their dated figures into concept or
+  place pages as current state — fresher country-level data arrives via
+  clippings. Cite the study; leave its numbers in it.
+- **Supersession is not contradiction.** When a newer value simply replaces an
+  older one with no conflict, synthesis pages keep the **current value plus at
+  most one dated prior**, and only where the trajectory is analytically
+  meaningful ("14% in 2011, 47% in 2024"). Older values live in the source pages
+  and git. This is how the update rule and Page hygiene reconcile: dated priors
+  are capped, not accreted.
+- On **conflict** (sources disagreeing about the same period), prefer the newest;
+  record the conflict, don't erase it.
+- `last_reviewed` = last substantive check, not a trivial edit — and a review
+  includes re-checking the currency of the page's dated figures, not just its
+  structure.
 
 ## Page hygiene and scaling
 
@@ -608,8 +634,10 @@ the ordinary hygiene in Source admissibility → The author's own work.
 1. **Schema integrity** — pages missing required frontmatter for their type.
 2. **Vocabulary** — any `topics` slug absent from `taxonomy.md`, or any place
    absent from `countries.csv`.
-3. **Freshness** — `last_reviewed` older than 90 days, or a page whose newest
-   source is stale relative to newer material elsewhere.
+3. **Freshness** — `last_reviewed` older than 90 days; a page whose newest cited
+   source is over 2 years old while the same topic carries sources under 6 months
+   old elsewhere; or any time-varying figure written in bare, undated present
+   tense (see Currency discipline).
 4. **Orphans & dead links** — pages absent from indexes; broken `[[links]]`.
 5. **Untagged sources** — `raw/` items missing place/topic/entity tags.
 6. **Inadmissible sources** — any compiled source page whose origin is a

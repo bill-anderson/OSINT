@@ -2,7 +2,7 @@
 type: concept
 title: Sectoral management information systems (HMIS, EMIS, etc.)
 slug: dpi.mis
-places: [XAF, XSS, XGL, RWA, ETH, NGA, KEN, ZAF, MWI, TZA, MOZ, GHA, ZMB, UGA, ZWE, LSO]
+places: [COD, CMR, BDI, XAF, XSS, XGL, RWA, ETH, NGA, KEN, ZAF, MWI, TZA, MOZ, GHA, ZMB, UGA, ZWE, LSO, CPV, EGY]
 entities: [[dhis2], [hisp-centre], [africa-cdc], [open-data-watch], [ethiopia-moh], [echis-ethiopia], [hmis-tanzania-pea], [hmis-malawi-livingstonia], [his-developing-countries-review], [hmis-data-use-index-ethiopia], [echis-ethiopia-study], [dhis2-maturity-ethiopia], [rhis-recording-burden-5country], [america-first-global-health-strategy], [usaid], [gates-foundation], [malawi-revenue-authority], [nissa-lesotho], [universal-dpi-safeguards-framework], [micsti-lesotho], [mosip]]
 status: active
 last_reviewed: 2026-07-12
@@ -149,11 +149,22 @@ what makes it work or fail.
   service delivery — a cross-sector management-information layer over the DPI stack, built with
   academia. See [[dpi.exchange]], [[dpi.govtech]], [[dpi.id]]. Source:
   [[2026-02-20 MICSTI AND NUL ADVANCED LESOTHO DIGITAL PUBLIC INFRASTRUCTURE]].
+- **[[BDI]] Burundi — social protection on openIMIS (2025).** Burundi's flagship **[[merankabandi]]**
+  Cash for Jobs programme migrated to the CORE-MIS solution powered by **[[openimis]]**, managing
+  **1.25m beneficiaries** across five provinces (since May 2025; >1m records migrated), with integrated
+  payment providers and KoboToolbox — the base for a planned Unified Social Registry. See [[dpi.registry]],
+  [[include.access]]. Source: [[2026-01-01 Burundi's growing social protection system now runs on openIMIS]].
+
+- **[[GAB]] Gabon — education MIS (SIGE).** The **[[sige-gabon]]** (Système d'Information pour la
+  Gestion de l'Éducation) is being built out as the education-planning backbone: a 2025 school-data
+  collection push (World Bank tablets, UNESCO software) and integration of **school-health and
+  well-being indicators** to cross pedagogical with health data. See [[GAB]]. Sources:
+  [[2025-03-11-gabon-school-data-collection-priority]] · [[2025-08-09-gabon-school-health-sige-integration]].
 
 ## Places
 
-[[XAF]] · [[XSS]] · [[XGL]] · [[RWA]] · [[ETH]] · [[NGA]] · [[KEN]] · [[ZAF]] ·
-[[MWI]] · [[TZA]] · [[MOZ]] · [[GHA]] · [[ZMB]] · [[UGA]] · [[ZWE]] · [[LSO]] ·
+[[XAF]] · [[XSS]] · [[XGL]] · [[RWA]] · [[ETH]] · [[NGA]] · [[KEN]] · [[ZAF]] · [[GAB]] ·
+[[MWI]] · [[TZA]] · [[MOZ]] · [[GHA]] · [[ZMB]] · [[UGA]] · [[ZWE]] · [[LSO]] · [[BDI]] ·
 Intersections: [[ethiopia--dpi-mis]] · Related:
 [[dpi.exchange]] · [[dpi.id]] · [[dpi.registry]] · [[dpi.govtech]] · [[data.statistics]]
 

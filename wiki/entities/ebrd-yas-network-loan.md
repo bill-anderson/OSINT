@@ -6,8 +6,8 @@ places: [KEN, SEN]
 topics: [finance.new, infra.connect, geopol.eu]
 lens: []
 status: active
-last_reviewed: 2026-07-14
-sources: [[2026-07-13 EBRD Extends €270m Financing to Yas for Kenya, Senegal Network Expansion]]
+last_reviewed: 2026-07-16
+sources: [[2026-07-13 EBRD Extends €270m Financing to Yas for Kenya, Senegal Network Expansion], [2026-07-14 Yas gets $307m to rebuild Zuku's broadband fight in Kenya and expand in Senegal]]
 ---
 
 # EBRD–Yas €270m network-expansion loan
@@ -35,7 +35,8 @@ and fibre** expansion in **[[SEN]] Senegal** and **[[KEN]] Kenya**.
   and institutional capital mobilisation in one transaction. Senegal and Kenya both became EBRD
   shareholders / countries of operation in **2025**.
 - **Use of proceeds:** in Senegal, network modernisation + accelerated fibre; in Kenya, fibre
-  expansion building on Yas' **2025 Wananchi acquisition**, in a highly competitive market.
+  expansion building on Yas' **2025 Wananchi acquisition** — specifically modernising the **Zuku**
+  broadband brand, which had lost ground to Safaricom — in a highly competitive market.
 - Framed by EBRD President **Odile Renaud-Basso** as strengthening digital-infrastructure
   investment and mobilising institutional capital; by Yas CEO **Hassan Jaber** as the group's
   largest-ever financing, aimed at Africa's mobile-coverage gap (~1 in 10 excluded).
@@ -47,3 +48,4 @@ and fibre** expansion in **[[SEN]] Senegal** and **[[KEN]] Kenya**.
 ## Sources
 
 - [[2026-07-13 EBRD Extends €270m Financing to Yas for Kenya, Senegal Network Expansion]]
+- [[2026-07-14 Yas gets $307m to rebuild Zuku's broadband fight in Kenya and expand in Senegal]]

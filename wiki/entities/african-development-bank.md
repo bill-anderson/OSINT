@@ -2,12 +2,12 @@
 type: entity
 entity_type: organisation
 title: African Development Bank (AfDB)
-places: [XAF, XSS]
-topics: [finance.new, gov.policy, gov.regional, data.statistics]
+places: [CPV, XAF, XSS]
+topics: [finance.new, gov.policy, gov.regional, infra.store, data.statistics]
 lens: [sovereignty, colonialism]
 status: active
-last_reviewed: 2026-07-11
-sources: [[2026-05-26 AfDB says Africa must fund its own growth as aid model frays], [2026-02-26 The AfDB's push for African financial sovereignty, and a tech investment rebound]]
+last_reviewed: 2026-07-15
+sources: [[2026-05-26 AfDB says Africa must fund its own growth as aid model frays], [2026-02-26 The AfDB's push for African financial sovereignty, and a tech investment rebound], [2025-05-14 Cabo Verde unveils TechPark CV tech-islands vision ($50m AfDB)], [2025-05-16 Cabo Verde opens Mindelo TechPark CV campus ($58M)]]
 ---
 
 # African Development Bank (AfDB)
@@ -35,7 +35,16 @@ and building the [[nafa]] (New African Financial Architecture) to do it.
   by [[sidi-ould-tah]] at the AU summit, alongside a noted rebound in tech investment. Tags
   [[gov.policy]], [[gov.regional]]. Source: [[2026-02-26 The AfDB's push for African financial sovereignty, and a tech investment rebound]].
 
+- **TechPark CV, Cabo Verde (2025-05).** The AfDB is the anchor financier of Cabo Verde's
+  **[[techpark-cv|TechPark CV]]** "tech islands" programme — **~€45.5m ($50m)** of a ~$58m project
+  building data-centre-anchored campuses in Praia and Mindelo. AfDB President Adesina called the
+  Mindelo campus a "turning point." See [[CPV]], [[infra.store]], [[gov.policy]]. Sources:
+  [[2025-05-14 Cabo Verde unveils TechPark CV tech-islands vision ($50m AfDB)]],
+  [[2025-05-16 Cabo Verde opens Mindelo TechPark CV campus ($58M)]].
+
 ## Sources
 
 - [[2026-05-26 AfDB says Africa must fund its own growth as aid model frays]]
 - [[2026-02-26 The AfDB's push for African financial sovereignty, and a tech investment rebound]]
+- [[2025-05-14 Cabo Verde unveils TechPark CV tech-islands vision ($50m AfDB)]]
+- [[2025-05-16 Cabo Verde opens Mindelo TechPark CV campus ($58M)]]

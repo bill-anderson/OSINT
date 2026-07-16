@@ -2,7 +2,7 @@
 type: concept
 title: Technical Capacity
 slug: infra.capacity
-places: [KEN, ZAF, NAM, XSS, XEA, XAF, XGL, MAR, NGA]
+places: [AGO, KEN, ZAF, NAM, XSS, XEA, XAF, XGL, MAR, NGA]
 entities: [[seacom], [microsoft-g42-kenya-datacenter], [telecom-namibia], [equinix], [afcfta], [wamkele-mene], [amazon-web-services], [mapping-african-digital-infrastructures], [research-ict-africa]]
 lens: [sovereignty]
 status: active

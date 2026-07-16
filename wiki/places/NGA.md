@@ -6,13 +6,20 @@ parent: XWA
 place_kind: country
 topics: [infra.store, infra.energy, infra.connect, infra.capacity, gov.protect, gov.legislate, gov.policy, dpi.id, dpi.registry, dpi.pay, dpi.govtech, dpi.mis, tech.ai, tech.industry, tech.innovate, dpi.exchange, infra.cybersec, include.access, include.divides, digital.rural, digital.localgov, finance.new, finance.mou, data.statistics, capacity.research, capacity.training, capacity.literacy, gov.standards, gov.regional, geopol.usa, geopol.china, geopol.eu]
 status: active
-last_reviewed: 2026-07-14
+last_reviewed: 2026-07-16
 ---
 
 # Nigeria (NGA)
 
 ## Recent developments
 
+- **2026-07-15** — **Fibre cuts hit a record (NCC data).** Nigeria logged **155,397 fibre-cut incidents**
+  in **Apr–May 2026** (74,276 → a record **79,121**), a **2,428% jump** on Q1 — **vandalism** the leading cause
+  (>54,000) despite telecom infra's **Critical National Information Infrastructure** status; road works,
+  faults and degradation added >84,000. Also 675 equipment thefts and 4,319 denied-access cases (insecurity
+  ~¾ of disruptions). Fixes — **Dig-Once**, **AI fibre-sensing**, an NCC shared-duct framework — remain
+  under-adopted; ~35,000 km fibre deployed. A resilience counterpoint to the connectivity build-out. See
+  [[infra.connect]], [[infra.cybersec]]. Source: [[2026-07-15 Nigeria records surge in fibre cuts (NCC)]].
 - **2026-07-13** — **TeKnowledge–Equinix partnership.** [[teknowledge]] and [[equinix]] partnered
   ([[teknowledge-equinix-partnership]]) for cloud, cybersecurity and **AI-ready, locally-hosted
   infrastructure** across Nigeria and West Africa — data residency pitched, aligned to the Digital
@@ -200,7 +207,7 @@ _Full dated chronology (2025–mid-2026) lives in the linked source pages and th
   Naira rail (Nigeria→Ghana); stablecoins vs monetary sovereignty (CBN task force, cNGN);
   mobile-money literacy gap (22%); infrastructure capital. **[[nibss]]** National Payment Stack
   (**[[national-payment-stack]]**, ISO 20022; first live txn Nov 2025) and **[[papsscard]]**;
-  PAPSS H1'25 volume −53% (contradiction-watch). Full case: [[nigeria--dpi-pay]].
+  a reported PAPSS line −53% in H1'25 (a narrow CBN metric, not total throughput; REV-002 resolved). Full case: [[nigeria--dpi-pay]].
 - [[dpi.mis]] · [[data.statistics]] — US $5.1bn health-data MOU (AFGHS); UNECA call to fund national
   statistics offices; **[[dnemis-nigeria]]** national education MIS (DHIS2; data-sovereignty framing).
 - [[gov.regional]] · [[tech.industry]] — AfCFTA cross-border data; Nigeria's Council Bureau Chair and

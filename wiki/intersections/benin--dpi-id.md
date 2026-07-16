@@ -9,7 +9,7 @@ entities: [[anip-benin], [wuri-programme], [epass-benin], [seamfix], [uxp-benin]
 lens: []
 status: active
 last_reviewed: 2026-07-13
-sources: [[2024-06-27 WURI digital ID project improving access to public services in Benin], [2025-11-01 Identification System in Benin Increasing Access to Services], [2025-06-18 Benin envisages mobile wallet launch in inclusive national digital ID push], [2024-10-28 Benin receives 2,050 biometric terminals from World Bank to boost civil registration], [2026-02-02 Benin reports 75% of identification services accessed through digital platforms], [2025-10-24 Benin unveils platform to ease biometric passport applications for diaspora citizens], [2025-12-18 Seamfix revealed as developer of Benin's biometric passport renewal app]]
+sources: [[2024-06-27 WURI digital ID project improving access to public services in Benin], [2025-11-01 Identification System in Benin Increasing Access to Services], [2025-06-18 Benin envisages mobile wallet launch in inclusive national digital ID push], [2024-10-28 Benin receives 2,050 biometric terminals from World Bank to boost civil registration], [2026-02-02 Benin reports 75% of identification services accessed through digital platforms], [2026-01-28 Benin Advances E-Government With Mass Digital ID Adoption], [2024-05-06 Benin - the NPI certificate as the base for electronic identity], [2025-08-02 Benin - ANIP unveils digital platforms to modernise the electoral process], [2025-02-22 Benin - unregistered SIM cards to be deactivated from 30 April 2025], [2025-10-24 Benin unveils platform to ease biometric passport applications for diaspora citizens], [2025-12-18 Seamfix revealed as developer of Benin's biometric passport renewal app]]
 ---
 
 # Benin × Digital Identity
@@ -19,6 +19,8 @@ Benin has built one of Africa's most complete foundational-ID stacks: near-unive
 ## What we know
 
 One of Africa's most complete ID stacks. The **2017 Identification Law** created **[[anip-benin]]** (ANIP) and a unique personal identifier (~**10m** in six months); the World Bank-supported **[[wuri-programme]]** added **2.2m** more (incl. 4,000 abroad), lifting biometric enrolment to **~98–99%** — the free, lifelong QR-code **"Certificat NPI/fID" / "C'est moi"** card, linked to services from Alafia microcredit to telecoms. The **National Register of Natural Persons (RNPP)** connects **80+ institutions** at ~**200,000 biometric authentications/day**; in 2025 **≥75%** of ID services went digital (10.5m services, 25m eKYC verifications). The diaspora **[[epass-benin]]** passport-renewal app (Oct 2025, 80+ countries, ~15-min renewals), built by Nigeria/UK vendor **[[seamfix]]** on GovSmart and tied to national ID and immigration, rides on the X-Road-inspired **[[uxp-benin]]** exchange. ANIP plans a **citizen mobile wallet by end-2026** and targets **legal identity for every citizen by 2028** (ahead of SDG 16.9).
+
+The stack is now the **electoral backbone**: ANIP's mid-2025 platforms make the RNPP the **single source of electoral data** (law 2017-08), letting citizens find their NPI, change polling station and obtain voting documents — via app or a **USSD *151#** channel for the unconnected — with diaspora-voter interoperability, ahead of the **2026** elections. The identity net also tightened at the SIM layer: **[[arcep-benin]]** ordered unregistered SIMs **deactivated from 30 April 2025**, an ID-linked anti-fraud measure that reporting noted itself demands a strong data-protection frame. The foundational **fID** instrument rests on **décret 2020-099** (2020).
 
 See [[dpi.registry]], [[dpi.govtech]], [[include.access]], [[XWA]].
 
@@ -33,5 +35,9 @@ Place: [[BEN]] · Concepts: [[dpi.id]] · [[dpi.registry]] · [[dpi.govtech]] ·
 - [[2025-06-18 Benin envisages mobile wallet launch in inclusive national digital ID push]]
 - [[2024-10-28 Benin receives 2,050 biometric terminals from World Bank to boost civil registration]]
 - [[2026-02-02 Benin reports 75% of identification services accessed through digital platforms]]
+- [[2026-01-28 Benin Advances E-Government With Mass Digital ID Adoption]]
+- [[2024-05-06 Benin - the NPI certificate as the base for electronic identity]]
+- [[2025-08-02 Benin - ANIP unveils digital platforms to modernise the electoral process]]
+- [[2025-02-22 Benin - unregistered SIM cards to be deactivated from 30 April 2025]]
 - [[2025-10-24 Benin unveils platform to ease biometric passport applications for diaspora citizens]]
 - [[2025-12-18 Seamfix revealed as developer of Benin's biometric passport renewal app]]

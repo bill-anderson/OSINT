@@ -3,10 +3,10 @@ type: entity
 entity_type: company
 title: Ethio Telecom
 places: [ETH]
-topics: [infra.connect, dpi.pay, tech.industry]
+topics: [infra.connect, dpi.pay, tech.industry, tech.ai, infra.store]
 status: active
-last_reviewed: 2026-07-12
-sources: [[2026-01-30 Inside Ethio Telecom's bold TechCo transformation], [2026-01-29 Ethio Telecom, Somcable talk cross-border collaboration], [2026-01-07 Why Ethiopia, Somalia and Djibouti are starting to matter in digital Africa], [2025-12-04 Is it a bird Is it plane No, Jim, it's an African mobile operator, but not as we know it 9]]
+last_reviewed: 2026-07-16
+sources: [[2026-07-15 Ethio Telecom, Huawei expand digital push], [2026-01-30 Inside Ethio Telecom's bold TechCo transformation], [2026-01-29 Ethio Telecom, Somcable talk cross-border collaboration], [2026-01-07 Why Ethiopia, Somalia and Djibouti are starting to matter in digital Africa], [2025-12-04 Is it a bird Is it plane No, Jim, it's an African mobile operator, but not as we know it 9], [2025-08-21 Ethio Telecom expands 4G capacity with Huawei], [2024-09-24 Ethio Telecom pursues Shandong Hi-Speed hyperscale data-centre partnership]]
 ---
 
 # Ethio Telecom
@@ -19,6 +19,13 @@ than a pure connectivity operator, anchoring the [[telebirr]] platform and align
 
 ## Activity in this wiki
 
+- **Huawei enterprise/SME digital push (2026-07-15).** Expanding its **[[huawei]]** collaboration beyond
+  telecoms infrastructure into **cloud, AI, cybersecurity, IoT, data-centre services and digital platforms**
+  for enterprises and SMEs, under **Next Horizon: Digital & Beyond 2028** (CEO Frehiwot Tamru met Huawei N.
+  Africa president Li Shen). Also covers local capability-building (software dev, system integration, R&D),
+  affordable-device financing, and **[[telebirr]]** adoption campaigns. Expanded cooperation/discussions, not
+  a signed deal — deepens Ethiopia's Chinese-vendor dependency in the enterprise-digital layer. See
+  [[tech.ai]], [[infra.store]], [[tech.industry]]. Source: [[2026-07-15 Ethio Telecom, Huawei expand digital push]].
 - **H1 FY2025/26 results (as of 2026-01-30).** Added ~**4m** new customers to a base of
   **>87m**; revenue climbed to **$545m** (ETB 85.02bn) on rising data usage; paid **$228m**
   (ETB 35.6bn) in taxes — one of Ethiopia's largest fiscal contributors — and secured
@@ -50,6 +57,7 @@ than a pure connectivity operator, anchoring the [[telebirr]] platform and align
 
 ## Sources
 
+- [[2026-07-15 Ethio Telecom, Huawei expand digital push]]
 - [[2025-12-04 Is it a bird Is it plane No, Jim, it's an African mobile operator, but not as we know it 9]]
 - [[2026-01-30 Inside Ethio Telecom's bold TechCo transformation]]
 - [[2026-01-29 Ethio Telecom, Somcable talk cross-border collaboration]]

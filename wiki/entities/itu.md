@@ -6,8 +6,8 @@ places: [XGL, XAF, DJI]
 topics: [infra.connect, include.divides, capacity.training, gov.standards, tech.ai, gov.regional]
 lens: []
 status: active
-last_reviewed: 2026-07-14
-sources: [[2026-07-09 ITU's Partner2Connect crosses $100 billion in global connectivity pledges], [2026-07-09 Africa benefits from connectivity milestone], [2026-07-10 Africa urged to turn WSIS+20 commitments into measurable digital progress], [2026-01-23 Afreximbank flags Africa's digital trade gap at Davos], [2026-05-04 The World's Most Needed AI Governance Framework Doesn't Exist Yet. Africa Should Build It], [2026-07-13 Djibouti Seeks ITU, Smart Africa Support for Telecoms and AI Development]]
+last_reviewed: 2026-07-16
+sources: [[2026-07-09 ITU's Partner2Connect crosses $100 billion in global connectivity pledges], [2026-07-09 Africa benefits from connectivity milestone], [2026-07-10 Africa urged to turn WSIS+20 commitments into measurable digital progress], [2026-01-23 Afreximbank flags Africa's digital trade gap at Davos], [2026-05-04 The World's Most Needed AI Governance Framework Doesn't Exist Yet. Africa Should Build It], [2026-07-13 Djibouti Seeks ITU, Smart Africa Support for Telecoms and AI Development], [2026-07-16 African Union Commission, ITU sign cooperation agreement]]
 ---
 
 # International Telecommunication Union (ITU)
@@ -47,6 +47,12 @@ Zavazava**). Convenes the **WSIS Forum** / Geneva Digital Week and hosts the
   Africa) technical backing for its **[[vision-djibouti-2035]]** "Smart Nation" agenda. See
   [[tech.ai]], [[include.divides]], [[XEA]]. Source:
   [[2026-07-13 Djibouti Seeks ITU, Smart Africa Support for Telecoms and AI Development]].
+- **AUC–ITU cooperation MoU (2026-07).** ITU (SG **Doreen Bogdan-Martin**) signed a cooperation **MoU**
+  with the **[[african-union|AU Commission]]** (Commissioner Lerato Mataboge) at the **AI for Good Global
+  Summit** (Geneva), covering AI, DPI, digital/AI skills, universal connectivity, cybersecurity, space tech,
+  international standards and digital regulation — aligning the AU's digital strategies with the ITU's global
+  mandate across 194 members. See [[african-union]], [[gov.regional]], [[tech.ai]], [[gov.standards]]. Source:
+  [[2026-07-16 African Union Commission, ITU sign cooperation agreement]].
 - **Africa AI Council co-chair (analyst note, 2026-05-04).** Nagadya identifies the ITU as
   **co-chair (with the AU Commission)** of the **Africa AI Council** established by the April-2025
   Kigali **[[africa-ai-declaration]]** (which also committed a $60bn Africa AI Fund) — placing the ITU

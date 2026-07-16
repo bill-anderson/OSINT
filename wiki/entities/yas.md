@@ -6,8 +6,8 @@ places: [XAF, KEN, SEN, MDG]
 topics: [infra.connect, tech.industry, dpi.pay]
 lens: []
 status: active
-last_reviewed: 2026-07-14
-sources: [[2026-07-13 EBRD Extends €270m Financing to Yas for Kenya, Senegal Network Expansion]]
+last_reviewed: 2026-07-16
+sources: [[2026-07-13 EBRD Extends €270m Financing to Yas for Kenya, Senegal Network Expansion], [2026-07-14 Yas gets $307m to rebuild Zuku's broadband fight in Kenya and expand in Senegal]]
 ---
 
 # Yas (AXIAN Telecom operating brand)
@@ -26,8 +26,11 @@ Wananchi** (see [[axian-telecom]]).
   to expand **4G, 5G and fibre** in **[[SEN]] Senegal** (network modernisation + fibre
   rollout) and **[[KEN]] Kenya** (fibre expansion on the Wananchi base). Jaber called it
   the largest financing the group has raised, framed around closing Africa's mobile-coverage
-  gap (~1 in 10 still excluded). See [[infra.connect]], [[finance.new]]. Source:
-  [[2026-07-13 EBRD Extends €270m Financing to Yas for Kenya, Senegal Network Expansion]].
+  gap (~1 in 10 still excluded). The Kenya leg specifically modernises the **Zuku** broadband brand
+  (from the 2025 Wananchi acquisition); the facility is the EBRD's first Senegal project, first SSA
+  local-currency financing and first regional A/B loan. See [[infra.connect]], [[finance.new]]. Sources:
+  [[2026-07-13 EBRD Extends €270m Financing to Yas for Kenya, Senegal Network Expansion]],
+  [[2026-07-14 Yas gets $307m to rebuild Zuku's broadband fight in Kenya and expand in Senegal]].
 
 ## Related
 

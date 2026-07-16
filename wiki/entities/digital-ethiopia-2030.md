@@ -6,8 +6,8 @@ places: [ETH]
 topics: [gov.policy, dpi.id, dpi.pay, tech.ai, infra.connect]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-11
-sources: [[2026-01-27 Digital Ethiopia 2030 Charting a Sovereign Path to Prosperity], [2026-02-19 Ethiopia launches AI UniPod to drive innovation], [2026-01-30 Inside Ethio Telecom's bold TechCo transformation]]
+last_reviewed: 2026-07-15
+sources: [[2026-01-27 Digital Ethiopia 2030 Charting a Sovereign Path to Prosperity], [2026-02-19 Ethiopia launches AI UniPod to drive innovation], [2026-01-30 Inside Ethio Telecom's bold TechCo transformation], [2025-12-21 PM Abiy launches Digital Ethiopia 2030 strategy]]
 ---
 
 # Digital Ethiopia 2030

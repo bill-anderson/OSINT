@@ -8,8 +8,8 @@ topics: [dpi.pay, finance.new, dpi.govtech, geopol.usa]
 entities: [[visa], [safaricom], [onafriq], [visa-mpesa-onafriq-drc-stablecoin-pilot], [payservices], [payservices-drc-banking-deal]]
 lens: []
 status: active
-last_reviewed: 2026-07-13
-sources: [[2026-07-10 Visa and M-Pesa Launch Blockchain Stablecoin Pilot in DR Congo], [2026-01-26 How Onafriq is growing digital finance amid uncertainty in DRC], [2026-01-19 US fintech sues DR Congo for $400m over failed banking deal]]
+last_reviewed: 2026-07-16
+sources: [[2026-07-02 Visa tests stablecoins in DRC for cross-border payments (The EastAfrican)], [2026-07-02 DR Congo becomes Africa's live test for dollar-settled mobile money (Ecofin)], [2026-01-26 How Onafriq is growing digital finance amid uncertainty in DRC], [2026-01-19 US fintech sues DR Congo for $400m over failed banking deal]]
 ---
 
 # DR Congo × Digital Payments (`dpi.pay`)
@@ -20,13 +20,16 @@ state banking-modernisation contract has spilled into a US federal lawsuit.
 
 ## What we know
 
-- **[[COD]] Stablecoin settlement pilot — unverified (2026-07).** [[visa]], M-Pesa
-  ([[safaricom]]) and **[[onafriq]]** reportedly launched a **USD-pegged stablecoin pilot** in
-  DR Congo to bypass correspondent banking (~**8%** of SSA remittances), building on Visa Pay
-  DRC (Sept 2025). Deal: [[visa-mpesa-onafriq-drc-stablecoin-pilot]] — **needs-review**: from a
-  low-authority aggregator; corroborate against Visa / Safaricom / Onafriq primaries before
-  hardening. See [[geopol.gulf]], [[finance.new]]. Source:
-  [[2026-07-10 Visa and M-Pesa Launch Blockchain Stablecoin Pilot in DR Congo]].
+- **[[COD]] Visa settles M-Pesa top-ups in stablecoins via Onafriq / Visa Pay (2026-07).** A senior
+  [[visa]] executive confirmed on record a **live DRC use case** settling **[[safaricom]] M-Pesa** wallet
+  top-ups in **stablecoins in the background** via **Visa Pay**, with **[[onafriq]]** — bypassing
+  correspondent banking (~**8%** of SSA remittances), building on Visa Pay DRC (Sept 2025). The core
+  mechanism is corroborated; the "joint USD-stablecoin *pilot* launch" framing is downgraded — **no
+  jointly-announced pilot** (Ecofin), USD peg inferred, one partnership awaiting regulatory approval amid
+  BCC de-dollarisation. Deal: [[visa-mpesa-onafriq-drc-stablecoin-pilot]] (REV-006 resolved 2026-07-16).
+  See [[geopol.gulf]], [[finance.new]]. Sources:
+  [[2026-07-02 Visa tests stablecoins in DRC for cross-border payments (The EastAfrican)]],
+  [[2026-07-02 DR Congo becomes Africa's live test for dollar-settled mobile money (Ecofin)]].
 - **[[COD]] DR Congo — deepening rails amid a failed-deal dispute (2026-01).** [[onafriq]] is
   expanding in DRC (29m mobile-money accounts, 34.6% penetration as of Q4 2024), having
   supported the Q4-2025 **Visa Pay** launch bringing card–wallet interoperability. Against that,
@@ -44,6 +47,7 @@ Place: [[COD]] · Concepts: [[dpi.pay]] · Entities: [[onafriq]] · [[visa-mpesa
 
 ## Sources
 
-- [[2026-07-10 Visa and M-Pesa Launch Blockchain Stablecoin Pilot in DR Congo]]
+- [[2026-07-02 Visa tests stablecoins in DRC for cross-border payments (The EastAfrican)]]
+- [[2026-07-02 DR Congo becomes Africa's live test for dollar-settled mobile money (Ecofin)]]
 - [[2026-01-26 How Onafriq is growing digital finance amid uncertainty in DRC]]
 - [[2026-01-19 US fintech sues DR Congo for $400m over failed banking deal]]

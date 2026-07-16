@@ -2,7 +2,7 @@
 type: concept
 title: Energy
 slug: infra.energy
-places: [XAF, ZAF, NGA, KEN, ETH, MAR]
+places: [AGO, XAF, CAF, ZAF, NGA, KEN, ETH, MAR]
 entities: [[cassava-technologies], [kasi-cloud], [nsia], [ncc], [microsoft-sa-2026-expansion], [microsoft], [equinix], [equinix-sa-438m-expansion], [mtn-group], [africa-data-centres], [liquid-c2]]
 lens: [sovereignty]
 status: active
@@ -88,10 +88,19 @@ variable that turns colocation economics from marginal to unviable.
   (Jun 2025) as an energy-led, CLOUD-Act-free model
   ([[2026-06-01 Africa's Place in the AI Sovereignty Debate]]). See [[NGA]],
   [[KEN]], [[MAR]], [[infra.store]].
+- **[[CAF]] Central African Republic — energy as the binding constraint.** Only ~14.3% electricity
+  access (~0.4% rural); the World Bank **PARSE** project (2022, $138m) funds 10 MW of mini-grids, the
+  Danzi solar expansion (25→40 MW) and off-grid solar via utility **[[enerca]]** — inadequate power is
+  the ITU-flagged brake on CAR's connectivity and its absent data-centre base. Source:
+  [[2022-06-03 Central African Republic - Increasing Electricity Supply and Access and Supporting the Health System]].
+- **[[AGO]] Angola — the binding constraint on a digital build.** ~47% electrification (2020), **<10%
+  rural**; only 47% of Angolans enjoy a reliable supply (just 6% of rural residents). The power gap sits
+  under the sovereign-cloud/data-centre ambition. Source:
+  [[2023-07-04 AD664 - Lack of grid access plagues most rural residents in Angola]].
 
 ## Places
 
-[[XAF]] · [[ZAF]] · [[NGA]] · [[KEN]] · [[ETH]] · [[MAR]]
+[[XAF]] · [[AGO]] · [[CAF]] · [[ZAF]] · [[NGA]] · [[KEN]] · [[ETH]] · [[MAR]]
 
 ## Related
 

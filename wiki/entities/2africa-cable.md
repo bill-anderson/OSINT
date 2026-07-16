@@ -6,8 +6,8 @@ places: [XAF, EGY, ZAF, NGA, KEN, COD, MDG]
 topics: [infra.connect, infra.capacity, geopol.china]
 lens: [sovereignty, colonialism]
 status: active
-last_reviewed: 2026-07-11
-sources: [[2026-01-20 Cable wars Mapping the political economy of submarine cables in an era of geoeconomic competition], [2026-03-02 I traced who owns the undersea cables that carry 95% of global internet traffic — the map is a colonial one]]
+last_reviewed: 2026-07-16
+sources: [[2026-07-15 CSquared boosts internet by integrating with 2Africa West cable], [2026-01-20 Cable wars Mapping the political economy of submarine cables in an era of geoeconomic competition], [2026-03-02 I traced who owns the undersea cables that carry 95% of global internet traffic — the map is a colonial one]]
 ---
 
 # 2Africa subsea cable
@@ -50,6 +50,15 @@ China Mobile) China. The [[cable-wars-abels-babic-2026]] paper cautions against
 overstating the "cable wars" narrative, noting that expansion like 2Africa
 remains driven primarily by corporate commercial interest rather than pure state
 strategy.
+
+## Activity in this wiki
+
+- **CSquared integrates 2Africa West for resilience (2026-07-15).** Pan-African wholesale operator
+  **[[csquared]]** added **2Africa West** capacity to its own West Africa subsea + terrestrial backbone,
+  creating physically diverse international routes with automated rerouting — a response to West Africa's
+  landing-station concentration (Accra/Lagos/Abidjan) after three multi-country outages in 28 months. 2Africa's
+  core was completed **Nov 2025** (initial reach 33 countries). See [[csquared]], [[XWA]], [[infra.connect]].
+  Source: [[2026-07-15 CSquared boosts internet by integrating with 2Africa West cable]].
 
 ## Related
 - [[equiano-cable]]

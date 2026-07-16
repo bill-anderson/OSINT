@@ -4,14 +4,76 @@ title: Ethiopia
 code: ETH
 parent: XEA
 place_kind: country
-topics: [dpi.id, dpi.registry, finance.mou, include.divides, dpi.pay, dpi.govtech, tech.ai, tech.innovate, gov.standards, dpi.exchange, gov.regional, dpi.mis, infra.energy, infra.store, infra.connect, gov.protect, include.access, data.statistics, capacity.training, capacity.research, digital.rural, gov.policy, tech.industry, finance.new, geopol.china, geopol.usa]
+topics: [dpi.id, dpi.registry, finance.mou, include.divides, dpi.pay, dpi.govtech, tech.ai, tech.innovate, gov.standards, dpi.exchange, gov.regional, dpi.mis, infra.energy, infra.store, infra.connect, gov.protect, gov.legislate, infra.cybersec, include.access, data.statistics, capacity.training, capacity.research, capacity.literacy, digital.rural, gov.policy, tech.industry, finance.new, geopol.china, geopol.usa, geopol.india]
 status: active
-last_reviewed: 2026-07-11
+last_reviewed: 2026-07-16
 ---
 
 # Ethiopia (ETH)
 
 ## Recent developments
+
+> **2026-07-15 Ethiopia deep-dive batch** — the following consolidate a large source tranche
+> across Fayda, payments, data protection, GovTech, infrastructure and health. Dated events, newest
+> first; they sit alongside the pre-existing entries below.
+
+- **2026-07-15** — **Ethio Telecom + Huawei expand into enterprise/SME digital services.**
+  **[[ethio-telecom]]** and **[[huawei]]** are widening their collaboration beyond telecoms infrastructure
+  into **cloud, AI, cybersecurity, IoT, data-centre services and digital platforms** for enterprises and SMEs,
+  under Ethio Telecom's **"Next Horizon: Digital & Beyond 2028"** strategy (CEO Frehiwot Tamru; Huawei N.
+  Africa president Li Shen). Also covers local capability-building (software dev, system integration, R&D),
+  affordable-device financing, and adoption campaigns for **[[telebirr]]**. Framed as expanded cooperation, not
+  a signed deal — deepens the Huawei-Ethiopia dependency thread. See [[infra.connect]], [[tech.ai]],
+  [[tech.industry]], [[infra.store]]. Source: [[2026-07-15 Ethio Telecom, Huawei expand digital push]].
+- **2026-03-22** — **Africa's first unmanned "Smart Police Station"** opened in Addis (PM Abiy) —
+  AI-driven self-service kiosks for reporting crimes, paying fines and requesting documents 24/7,
+  under **[[digital-ethiopia-2030]]**. See [[dpi.govtech]], [[tech.ai]]. Source:
+  [[2026-03-22 Ethiopia opens Africa's first unmanned Smart Police Station]].
+- **2026-02-13** — **National Instant Payment System (EthioPay-IPS)** launched by **[[ethswitch]]**
+  (BPC SmartVista; 32 banks, 12 MFIs) — A2A/W2W, ETHQR, aliases. See [[dpi.pay]],
+  [[ethiopia--dpi-pay]]. Source: [[2026-02-13 Ethiopia launches national instant payment system (EthioPay-IPS)]].
+- **2026-01** — **Bitdeer completes 40 MW Oromia bitcoin-mining site** (20 MW more in progress) —
+  cheap-power compute draw. Indian engagement too: **RailTel (India)** received an
+  MEA order to **build a data centre in Ethiopia** (9 Jan 2026). See [[infra.energy]], [[infra.store]],
+  [[geopol.india]]. Sources: [[2026-01-12 Bitdeer completes 40 MW Oromia bitcoin-mining site in Ethiopia]],
+  [[2026-01-09 RailTel to build Data Centre in Ethiopia (press release)]].
+- **2025-12-21** — **Digital Ethiopia 2030 officially launched** by PM Abiy (three pillars: access,
+  equal opportunity, trust; INSA cybersecurity foundations, sovereign cloud, forensic lab). See
+  [[gov.policy]], [[digital-ethiopia-2030]]. Source:
+  [[2025-12-21 PM Abiy launches Digital Ethiopia 2030 strategy]].
+- **2025-12-10** — **NBE mandates full Fayda–banking integration** (all accounts, deadline 30 Mar
+  2026; 2,000 biometric kits). See [[national-bank-of-ethiopia]], [[dpi.id]]. Source:
+  [[2025-12-10 NBE launches full integration of Fayda digital ID with the banking system]].
+- **2025-12-09** — **National Digital Payments Strategy 2026–2030 launched** (+ instant payments;
+  proposes first-ever **outbound cross-border** transfers; 18.5tn birr/yr digital transactions).
+  See [[ethiopia-ndps]], [[dpi.pay]]. Source:
+  [[2025-12-09 Ethiopia launches National Digital Payments Strategy 2026-2030]].
+- **2025-11-30** — **EthSwitch 15-year vision + [[mastercard|Mastercard]] partnership** (MIP/MPGS —
+  international acceptance and co-branded cards). See [[ethswitch]], [[dpi.pay]]. Source:
+  [[2025-11-30 EthSwitch unveils 15-year vision and Mastercard partnership]].
+- **2025-11-15** — **Data-protection law: slow enforcement one year on** — the **[[ethiopia-pdpp|PDPP
+  (Proc. 1321/2024)]]** lacks secondary directives; the **[[ethiopian-communications-authority|ECA]]**
+  regulator has yet to enforce, even as Fayda/banking data-harmonisation races ahead. See
+  [[gov.protect]], [[ethiopia--gov-protect]]. Sources:
+  [[2025-11-15 One year on - Ethiopia's data protection law faces slow enforcement]],
+  [[2024-08-30 Ethiopia's Personal Data Protection Proclamation 1321-2024 (overview)]].
+- **2025-11-12** — **Fayda passes 28m registrations**; Grade-1/exam **education enrolment mandate**.
+  See [[dpi.id]], [[fayda-ethiopia-national-id]]. Source:
+  [[2025-11-12 Fayda passes 28 million registrations; education mandate]].
+- **2025-11** *(connectivity)* — **93.2m** mobile connections (**68.4%**, late 2025), up from 85.4m /
+  63.8% early 2025. Sources: [[2025-11-08 Digital 2026 Ethiopia (DataReportal)]],
+  [[2025-03-03 Digital 2025 Ethiopia (DataReportal)]].
+- **2025-05** — **Fayda formally launched** (TECH5/Visa, ID4Africa 2025) with a **90m-by-2027**
+  target; WB **$350m [[ethiopia-digital-id-inclusion-project|Digital ID for Inclusion Project]]**
+  backs refugees/IDPs; MESOB one-stop (41 services/12 agencies) runs on Fayda. See [[dpi.id]],
+  [[ethiopia--dpi-id]]. Sources: [[2025-05-22 Ethiopia launches Fayda digital ID (90M by 2027 target)]],
+  [[2025-07-12 How Fayda powers Ethiopia's MESOB one-stop government platform]].
+- **2024–25** *(GovTech/health/tax)* — Digital Government Strategy & Enterprise Architecture
+  2024–2029 and **EeGIF** interoperability; **DHIS2** national HMIS passes **1bn records** (30,000+
+  facilities); Fayda–tax and e-tax adoption studies; Ethio Telecom **Shandong** hyperscale-DC talks
+  and **Huawei** 4G expansion. See [[dpi.govtech]], [[dpi.mis]], [[ethiopia--dpi-govtech]]. Sources:
+  [[2024-07-19 Ethiopia's e-government leap to interoperability (EeGIF)]],
+  [[2025-02-28 Enhancing healthcare performance in Ethiopia using DHIS2]].
 
 - **2026-07-06** — **[[safaricom]]** (Safaricom Ethiopia), Ethiopia's **National ID
   Program** and **Africom Technologies PLC** sign a Joint Venture Agreement to deliver
@@ -248,6 +310,7 @@ last_reviewed: 2026-07-11
 
 ## Entities
 
+- **Added 2026-07-15:** [[national-bank-of-ethiopia]] · [[ethiopia-ndps]] · [[ethiopia-pdpp]] · [[ethiopian-communications-authority]] · [[ethiopia-digital-id-inclusion-project]] · [[mastercard]] · [[tech5]] · [[visa]] · [[huawei]] · intersections [[ethiopia--gov-protect]] · [[ethiopia--dpi-govtech]]
 - [[safaricom]] · [[ethswitch]] · [[fayda-ethiopia-national-id]] · [[safaricom-ethiopia-fayda-jv]] · [[vodacom]] · [[vodacom-safaricom-stake-deal]]
 - [[mosip]] · [[usaid]] · [[dial]] · [[digital-id-assessment]]
 - [[wingu-africa]] · [[amazon-web-services]] · [[microsoft]]

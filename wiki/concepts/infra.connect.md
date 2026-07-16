@@ -2,7 +2,7 @@
 type: concept
 title: Connectivity
 slug: infra.connect
-places: [CIV, CMR, COD, DJI, DZA, EGY, ETH, GHA, GNQ, KEN, LBR, MOZ, MRT, NAM, NGA, RWA, SEN, SOM, SSD, TGO, TUN, TZA, UGA, XEA, XSA, XWA, ZAF, ZMB, ZWE]
+places: [COM, BWA, BFA, BDI, AGO, CAF, CIV, CMR, COD, DJI, DZA, EGY, ETH, GHA, GNQ, KEN, LBR, MOZ, MRT, NAM, NGA, RWA, SEN, SOM, SSD, TGO, TUN, TZA, UGA, XEA, XSA, XWA, ZAF, ZMB, ZWE, CPV, ERI]
 entities: [[partner2connect], [itu], [microsoft], [smart-africa], [afnic], [seacom], [google], [meta], [amazon-web-services], [telegeography], [cable-wars-abels-babic-2026], [equiano-mainone-nwankwo-2025], [equiano-cable], [equinix], [umoja-cable], [liquid-c2], [cassava-technologies], [2africa-cable], [carnegie-endowment], [jane-munga], [international-cable-protection-committee], [bosun-tijani], [jess-auerbach], [jagun-sat3-open-access-2008], [internet-society-africa-history], [nsrc], [liquid-c2-google-cloud-mou], [powertel-paratus-fibre-corridor], [telecom-namibia], [starlink], [ifc], [airtel-africa], [mtn-group], [vodacom], [gsma], [via-africa-cable], [orange], [globalstar], [amazon-globalstar-acquisition], [cran], [nigcomsat], [watra], [ict-authority-kenya], [ncc], [amazon-leo], [spacecoin], [starlink-airtel-d2c-partnership], [starlink-vodacom-leo-partnership], [mtn-nigeria], [communications-authority-of-kenya], [dzap], [bayobab-zambia], [helios-towers], [new-deal-technologique], [paula-ingabire], [nucap], [nigeria-eqguinea-subsea-cable], [backbone-connectivity-network-nigeria], [ebrd], [ebrd-yas-network-loan], [yas], [axian-telecom], [tunisie-telecom], [medusa-submarine-cable], [orange-cote-divoire], [orange-sat], [eutelsat], [uganda-communications-commission], [mtn-ghana], [ralph-mupita], [finnfund], [crei-south-sudan], [ethio-telecom], [telebirr], [somcable]]
 lens: [sovereignty, colonialism]
 status: active
@@ -242,6 +242,7 @@ This topic is mostly continental (cables, satellite, financing, regulation — a
 
 - **[[ZAF]] South Africa** — state-backbone drift (the Sentech–Broadband Infraco/SITA merger stall) and MTN's **R21.8bn** three-year network pledge. → [[south-africa--infra-connect]]
 - **[[NAM]] Namibia** — [[cran]] refusing 100%-foreign-owned [[starlink]] on data-sovereignty grounds, paired with a free-internet-for-7-years counter-move. → [[namibia--infra-connect]]
+- **[[CAF]] Central African Republic** — ~10.6% penetration, mobile-only, landlocked with no undersea cable; [[orange-centrafrique]] wins the first 4G licence (2024); [[socatel]]'s gateway monopoly stalled the World Bank CAB backbone. → [[caf--infra-connect]]
 
 **Indexed here:**
 
@@ -262,7 +263,7 @@ This topic is mostly continental (cables, satellite, financing, regulation — a
 
 ## Places
 
-[[CIV]] · [[CMR]] · [[COD]] · [[DJI]] · [[DZA]] · [[EGY]] · [[ETH]] · [[GHA]] · [[GNQ]] · [[KEN]] · [[LBR]] · [[MOZ]] · [[MRT]] · [[NAM]] · [[NGA]] · [[RWA]] · [[SEN]] · [[SOM]] · [[SSD]] · [[TGO]] · [[TUN]] · [[TZA]] · [[UGA]] · [[XEA]] · [[XSA]] · [[XWA]] · [[ZAF]] · [[ZMB]] · [[ZWE]]
+[[CAF]] · [[CIV]] · [[CMR]] · [[COD]] · [[DJI]] · [[DZA]] · [[EGY]] · [[ETH]] · [[GHA]] · [[GNQ]] · [[KEN]] · [[LBR]] · [[MOZ]] · [[MRT]] · [[NAM]] · [[NGA]] · [[RWA]] · [[SEN]] · [[SOM]] · [[SSD]] · [[TGO]] · [[TUN]] · [[TZA]] · [[UGA]] · [[XEA]] · [[XSA]] · [[XWA]] · [[ZAF]] · [[ZMB]] · [[ZWE]]
 
 ## Sources
 

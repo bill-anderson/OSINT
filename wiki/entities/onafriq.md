@@ -5,8 +5,8 @@ title: Onafriq (formerly MFS Africa)
 places: [XAF, COD, KEN, NGA, GHA, XWA]
 topics: [dpi.pay, dpi.exchange, include.access, finance.new]
 status: active
-last_reviewed: 2026-07-12
-sources: [[2026-07-10 Visa and M-Pesa Launch Blockchain Stablecoin Pilot in DR Congo], [2026-01-26 How Onafriq is growing digital finance amid uncertainty in DRC], [2026-02-04 PAPSS, Onafriq launch new trade rail for West Africa], [2026-02-23 111 - Winning But Losing - The Payments End Game]]
+last_reviewed: 2026-07-16
+sources: [[2026-07-02 Visa tests stablecoins in DRC for cross-border payments (The EastAfrican)], [2026-07-02 DR Congo becomes Africa's live test for dollar-settled mobile money (Ecofin)], [2026-01-26 How Onafriq is growing digital finance amid uncertainty in DRC], [2026-02-04 PAPSS, Onafriq launch new trade rail for West Africa], [2026-02-23 111 - Winning But Losing - The Payments End Game]]
 ---
 
 # Onafriq (formerly MFS Africa)
@@ -18,14 +18,17 @@ accounts across 43 African countries**.
 
 ## Activity in this wiki
 
-- **DRC stablecoin pilot (early July 2026).** Onafriq is a partner in the USD-stablecoin
-  cross-border pilot in the DRC ([[COD]]) alongside [[visa]] and [[safaricom]]'s M-Pesa —
-  see [[visa-mpesa-onafriq-drc-stablecoin-pilot]]. Tags [[dpi.pay]], [[dpi.exchange]].
-  Source: [[2026-07-10 Visa and M-Pesa Launch Blockchain Stablecoin Pilot in DR Congo]].
+- **DRC stablecoin settlement (early July 2026).** Onafriq is the connecting infrastructure in Visa's
+  live DRC use case settling [[safaricom]] M-Pesa top-ups in stablecoins via Visa Pay — confirmed on
+  record by a Visa exec (the "joint USD-stablecoin *pilot*" framing is downgraded; USD peg inferred). See
+  [[visa-mpesa-onafriq-drc-stablecoin-pilot]]. Onafriq's own stablecoin move is **separate** — a Feb 2026
+  Conduit partnership on-ramping in **USDC** for treasury. Tags [[dpi.pay]], [[dpi.exchange]]. Sources:
+  [[2026-07-02 Visa tests stablecoins in DRC for cross-border payments (The EastAfrican)]],
+  [[2026-07-02 DR Congo becomes Africa's live test for dollar-settled mobile money (Ecofin)]].
 
 - **Visa Pay API in DRC (2025-09).** Onafriq provided the API through which [[visa]] launched
-  Visa Pay in the DRC in September 2025. Source:
-  [[2026-07-10 Visa and M-Pesa Launch Blockchain Stablecoin Pilot in DR Congo]].
+  Visa Pay in the DRC in **Q4 2025** — Onafriq's own account. Source:
+  [[2026-01-26 How Onafriq is growing digital finance amid uncertainty in DRC]].
 
 - **DRC digital-finance expansion (2026-01).** Despite eastern-DRC conflict, Onafriq is
   deepening [[COD]] payments infrastructure — it enabled [[visa]]'s Visa Pay DRC launch (Q4
@@ -51,7 +54,8 @@ accounts across 43 African countries**.
 
 ## Sources
 
-- [[2026-07-10 Visa and M-Pesa Launch Blockchain Stablecoin Pilot in DR Congo]]
+- [[2026-07-02 Visa tests stablecoins in DRC for cross-border payments (The EastAfrican)]]
+- [[2026-07-02 DR Congo becomes Africa's live test for dollar-settled mobile money (Ecofin)]]
 - [[2026-01-26 How Onafriq is growing digital finance amid uncertainty in DRC]]
 - [[2026-02-04 PAPSS, Onafriq launch new trade rail for West Africa]]
 - [[2026-02-23 111 - Winning But Losing - The Payments End Game]]

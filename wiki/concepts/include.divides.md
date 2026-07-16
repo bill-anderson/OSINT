@@ -2,7 +2,7 @@
 type: concept
 title: Digital divides
 slug: include.divides
-places: [ZMB, XAF, NGA, ZAF, KEN, RWA, NAM, ETH, SEN, XGL, XSS]
+places: [COM, COD, CIV, CMR, BFA, BDI, AGO, ZMB, XAF, NGA, ZAF, KEN, RWA, NAM, ETH, SEN, XGL, XSS, DJI, CPV, DZA, ERI]
 entities: [[dzap], [safaricom-ethiopia-fayda-jv], [china-namibia-smart-city], [itu], [partner2connect], [undp], [starlink], [safaricom], [gsma], [diode-network], [global-index-on-responsible-ai], [global-center-on-ai-governance], [sa-digital-id-regulations], [popia], [echis-ethiopia-study], [dhis2], [hisp-centre], [research-ict-africa], [after-access], [alison-gillwald], [solly-malatsi], [dcdt-south-africa], [mymzansi], [gsma-sa-smartphone-tax-reform-2026]]
 lens: [sovereignty, colonialism]
 status: active

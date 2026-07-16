@@ -2,7 +2,7 @@
 type: concept
 title: Digital Identity and CRVS
 slug: dpi.id
-places: [BEN, CIV, COD, ETH, GHA, GMB, KEN, LBR, LSO, MAR, MDG, MOZ, MUS, MWI, NGA, RWA, SDN, SLE, TGO, TZA, UGA, XAF, XWA, ZAF, ZMB]
+places: [COG, COM, CMR, BWA, BFA, BDI, AGO, BEN, CAF, CIV, COD, ETH, GHA, GMB, KEN, LBR, LSO, MAR, MDG, MOZ, MUS, MWI, NGA, RWA, SDN, SLE, TGO, TZA, UGA, XAF, XWA, ZAF, ZMB, DJI, CPV, DZA, EGY, ERI]
 entities: [[mosip], [id4africa], [equity-africanenda-gates-dpi-partnership], [afcfta-digital-trade-protocol], [adli], [afcfta], [eac], [nimc], [dial], [opencrvs], [gates-foundation], [atdi-mozambique], [mozambique-ethiopia-dpi-mou], [nida-tanzania], [bhutan-ndi], [sign-foundation], [rdc-pass], [trident-digital-tech], [oneci], [maposte], [sudapass], [micsti-lesotho], [margins-id-group]]
 lens: [sovereignty, colonialism]
 status: active
@@ -120,6 +120,13 @@ Substantial place treatments have their own intersection pages; the long tail is
 - **[[KEN]] Kenya** — statutory CRVS-access expansion (290 sub-counties) and the Cybernetica/TBI credential-wallet PoC. → [[kenya--dpi-id]]
 - **[[MWI]] Malawi** — near-universal foundational ID (>13.5m; ~99% of 16+; [[national-registration-bureau-malawi]] / [[undp]]), the mobile-ID transition and registration-law review under [[dmap]]. → [[malawi--dpi-id]]
 - **[[XWA]] West Africa** — WURI mutual recognition vs the AES/Sahel biometric secession bloc. → [[xwa--dpi-id]]
+- **[[CAF]] Central African Republic** — post-2013 rebuild of the CNI via [[al-madina]] (opaque contracting, Bangui-centralised, a resolved price scandal, mobile enrolment town-by-town), [[genkey]] biometric voter register, nascent OIF birth registration. → [[caf--dpi-id]]
+- **[[AGO]] Angola** — a low, colonial-era ID base (WB ID4D) rebuilt as a three-way sovereignty contest (China's CEIEC civil-registration system, India's $200m Aadhaar-style DPI credit, UAE/G42), plus a newborn-ID drive. → [[angola--dpi-id]]
+- **[[BDI]] Burundi** — a repeatedly-delayed biometric national ID (pilot communes as of Jan 2026), a voter register produced amid coercion ([[ceni-burundi]]), and a Jan-2026 data-protection law passed largely to enable the ID rollout. → [[burundi--dpi-id]]
+- **[[BFA]] Burkina Faso** — the **CIB-AES** biometric card ([[oni-burkina-faso]], Dec 2025) — a WURI-financed, VENEEM-fed foundational ID reframed as an Alliance of Sahel States (post-ECOWAS) sovereignty statement. → [[burkina-faso--dpi-id]]
+- **[[CMR]] Cameroon** — a foreign-vendor-built overhaul: the DGSN/**[[augentic]]** biometric CNI (15-yr BOT, first African ID-1 format) + the Law-2024/016 digital civil registry ([[bunec]]/Liber, UPIN, CRVS-by-2029). → [[cameroon--dpi-id]]
+- **[[COG]] Republic of Congo** — the **[[niu-congo]]** tax-number-turned-universal-biometric-ID (mandatory for banking/utilities/tax), a WB-PATN digital-ID framework + Digital Wallet + SIFEC, and decentralised passport/ID production. → [[congo--dpi-id]]
+- **[[GAB]] Gabon** — the **CNIE/NIP** relaunch (June 2024) after an ~11-year gap, French-vendor-supplied ([[in-groupe]] card/software, [[thales]] historical registry, Semlex terminated), keystone of the WB [[digital-gabon-project]] DPI ecosystem and the NIP-keyed electoral roll; coverage figure still unpublished. → [[gabon--dpi-id]]
 
 **Indexed here (sub-threshold):**
 
@@ -128,7 +135,7 @@ Substantial place treatments have their own intersection pages; the long tail is
 - **[[TZA]] Tanzania** — [[nida-tanzania]] procuring **Jamii Namba Phase II** (adding iris+facial), on a ~$70m Korea Eximbank loan. [[2026-04-22 Tanzania seeks biometrics contractors for Phase II of national digital ID project]]
 - **[[UGA]] Uganda** — [[mosip]]-based national ID (**>28m** records); a Government Systems Prototype Showcase courts local DPI innovators. [[2026-05-22 Uganda launches prototype program for digital ID and public infrastructure]]
 - **[[SLE]] Sierra Leone** — greenfield open-standards / W3C-VC ID MoU with [[bhutan-ndi]] and [[sign-foundation]] (Bhutan NDI as template). [[2026-07-08 Sierra Leone partners with Bhutan, Sign on digital identity platform]]
-- **[[COD]] DR Congo** — [[rdc-pass]] under a **20-year exclusive e-KYC PPP** with [[trident-digital-tech]] — the outsourced extreme. [[2026-06-11 DR Congo to Launch National Digital Identity System RDC-PASS on June 13]]
+- **[[COD]] DR Congo** — a cancelled $1.2bn [[idemia]] contract (overbilling) → [[rdc-pass]] under a **20-year exclusive e-KYC PPP** with [[trident-digital-tech]] ($97.1m, Web3) + a parallel [[margins-id-group]] card track — the outsourced extreme, with the DP authority still un-operational. → [[drc--dpi-id]]
 - **[[CIV]] Côte d'Ivoire** — [[oneci]]/[[maposte]] super-app ties the NNI to a digital mailbox and civil-status certificates. [[2026-01-19 Ivory Coast Launches MaPoste to Digitize Postal and Administrative Services]]
 - **[[MDG]] Madagascar** — national biometric-ID pilot (fingerprint/face/iris); 2m-adult target Apr–Jun 2026. [[2026-01-27 Madagascar Tests Biometric ID System, Aims to Register 2 Million People by Mid-2026]]
 - **[[SDN]] Sudan** — [[sudapass]] unified digital ID under the Baladna programme amid conflict (>14m displaced, last census 2008). [[2026-01-29 How to build trust alongside Sudan's digital identity system]]
@@ -139,7 +146,7 @@ Substantial place treatments have their own intersection pages; the long tail is
 
 ## Places
 
-[[BEN]] · [[CIV]] · [[COD]] · [[ETH]] · [[GHA]] · [[GMB]] · [[KEN]] · [[LBR]] · [[LSO]] · [[MAR]] · [[MDG]] · [[MOZ]] · [[MUS]] · [[MWI]] · [[NGA]] · [[RWA]] · [[SDN]] · [[SLE]] · [[TGO]] · [[TZA]] · [[UGA]] · [[XAF]] · [[XWA]] · [[ZAF]] · [[ZMB]] ·
+[[AGO]] · [[BDI]] · [[BEN]] · [[BFA]] · [[CAF]] · [[CIV]] · [[CMR]] · [[COD]] · [[COG]] · [[COM]] · [[ETH]] · [[GAB]] · [[GHA]] · [[GMB]] · [[KEN]] · [[LBR]] · [[LSO]] · [[MAR]] · [[MDG]] · [[MOZ]] · [[MUS]] · [[MWI]] · [[NGA]] · [[RWA]] · [[SDN]] · [[SLE]] · [[TGO]] · [[TZA]] · [[UGA]] · [[XAF]] · [[XWA]] · [[ZAF]] · [[ZMB]] ·
 Related: [[dpi.exchange]] · [[dpi.pay]] · [[dpi.govtech]] · [[dpi.registry]]
 
 ## Sources

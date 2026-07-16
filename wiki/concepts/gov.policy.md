@@ -2,7 +2,7 @@
 type: concept
 title: Strategies, plans and policies
 slug: gov.policy
-places: [ZMB, XGL, KEN, ZAF, GHA, NAM, MWI, NGA, XAF, EGY, XSS, SEN, CIV, XEA, RWA, TZA, UGA, LBR, ETH, BFA, MOZ, SOM]
+places: [COD, CMR, BDI, AGO, ZMB, XGL, KEN, ZAF, GHA, NAM, MWI, NGA, XAF, EGY, XSS, SEN, CIV, XEA, RWA, TZA, UGA, LBR, ETH, BFA, MOZ, SOM, CAF, DJI, CPV, DZA, ERI]
 entities: [[smart-zambia-institute], [world-bank], [david-eaves], [sita], [undp], [samuel-nartey-george], [popia], [research-ict-africa], [bosun-tijani], [us-department-of-state], [african-development-bank], [nafa], [sidi-ould-tah], [ncc], [paris21], [2026-07-11 data-systems-crossroads], [global-center-on-ai-governance], [new-deal-technologique], [nitda], [kashifu-inuwa], [eac], [paula-ingabire], [ghana-national-ai-strategy], [uneca], [african-union], [digital-liberia-strategy], [lta-liberia], [digital-ethiopia-2030], [fayda-ethiopia-national-id], [telebirr], [afcfta], [malawi-ministry-of-ict], [atdi-mozambique], [central-bank-of-somalia], [nira-somalia], [cbn], [cbn-policy-insight-series-2025], [ecowas], [bf-ministry-digital-transition], [rwanda-dpi-strategy], [rwanda-information-society-authority], [au-continental-ai-strategy], [digital-investment-facility], [global-gateway], [nigeria-digital-postcode-system], [ecdpm], [european-union], [aficta], [itu], [au-data-policy-framework], [au-digital-transformation-strategy]]
 lens: [sovereignty, colonialism]
 status: active
@@ -246,12 +246,21 @@ National digital strategy, ownership and the financing conditions around it.
   [[au-digital-transformation-strategy]]. Source:
   [[2026-01-12 (3) Africa's Digital Policy Review 2025 in Perspective and Outlook for 2026]].
 
+- **[[GAB]] Gabon — "digital sovereignty" strategy on a +156% budget.** Post-transition Gabon
+  frames its digital push (the WB "Gabon Digital"/eGabon programme) as sovereignty: a **2026 digital
+  budget of 82bn CFA, +156.2%** on 2025; a 2025 ordinance mandating public administrations to digitise,
+  interconnect and integrate the private sector; a 3 Oct 2025 directive to digitise financial agencies.
+  Benchmarks (2024-25): **EGDI 121st/193**, **ITU IDI 76.1/100 (11th in Africa)**, **GCI 2024 Tier 4**.
+  Execution lags the ambition (low WB disbursement). See [[GAB]], [[infra.store]], [[dpi.govtech]].
+  Source: [[2025-10-24-gabon-2026-digital-budget-156pct]].
+
 ## Places
 
-[[ZMB]] · [[XGL]] · [[KEN]] · [[ZAF]] · [[GHA]] · [[NAM]] · [[MWI]] · [[NGA]] · [[XAF]] · [[EGY]] · [[XSS]] · [[SEN]] · [[CIV]] · [[XEA]] · [[RWA]] · [[TZA]] · [[UGA]] · [[LBR]] · [[ETH]] · [[BFA]] · [[MOZ]] · [[SOM]]
+[[ZMB]] · [[XGL]] · [[KEN]] · [[ZAF]] · [[GHA]] · [[NAM]] · [[MWI]] · [[NGA]] · [[XAF]] · [[EGY]] · [[XSS]] · [[SEN]] · [[CIV]] · [[XEA]] · [[RWA]] · [[TZA]] · [[UGA]] · [[LBR]] · [[ETH]] · [[BFA]] · [[MOZ]] · [[SOM]] · [[GAB]]
 
 ## Sources
 
+- [[2025-10-24-gabon-2026-digital-budget-156pct]]
 - [[2025-09-11 DZAP World Bank PAD]]
 - [[2025-12-15 The Path to a Sovereign Tech Stack is Via a Commodified Tech Stack  TechPolicy.Press]]
 - [[2026-06-23 Africa's Data Centre Boom Where The New Facilities Are Being Built]]

@@ -2,11 +2,11 @@
 type: concept
 title: Digital Payments and Fintech
 slug: dpi.pay
-places: [COD, EGY, ETH, GHA, KEN, MOZ, MUS, NGA, RWA, SEN, SOM, SSD, XAF, XCA, XWA, ZAF, ZMB, LBR]
+places: [COM, BWA, BFA, BDI, AGO, COD, EGY, ETH, GHA, KEN, MOZ, MUS, NGA, RWA, SEN, SOM, SSD, XAF, XCA, XWA, ZAF, ZMB, LBR, DJI, DZA]
 entities: [[beac], [papss], [nibss], [africanenda], [equity-africanenda-gates-dpi-partnership], [equity-group-holdings], [afcfta], [cbn], [afreximbank], [safaricom], [mtn-group], [airtel-africa], [gsma], [huawei], [vodacom], [dzap], [onafriq], [pesalink], [bank-of-ghana], [ekash], [rswitch-rwanda], [cbn-payments-circular-2026], [ethswitch], [sarb], [payservices], [payz], [kenya-revenue-authority], [meta], [peach-payments], [bank-of-south-sudan], [bio-key-international], [runlevel], [simo-mozambique], [pay-na-na]]
 lens: [sovereignty, colonialism]
 status: active
-last_reviewed: 2026-07-14
+last_reviewed: 2026-07-16
 sources: [[2021-08-30 31 First we must build Infrastructure], [2022-05-11 Pan-African Payment and Settlement System], [2022-08-30 Pan-African Payment and Settlement System drives Africa's banking integration], [2025-08-04 93 - Ecosystem Debt or Generative Platforms A Case for Digital Public Infrastructure], [2025-09-11 DZAP World Bank PAD], [2025-12-05 From Access to Empowerment Introducing Rwanda's Instant Payment System — eKash], [2026-01-13 The rise of cheques as Kenya's preferred payment method], [2026-01-19 South Sudan introduces digital payment system for passports after supply crisis], [2026-01-27 Nigeria's PAPSS cross-border payments falls 53% to N5.6bn], [2026-01-30 Can a digital economy exist in South Sudan without reliable DPI], [2026-02-02 How Strategic  Shift of NIBSS Is  Rewiring Nigeria's Payments System], [2026-02-04 PAPSS, Onafriq launch new trade rail for West Africa], [2026-02-05 Bank of Ghana Calls for Payment System Overhaul to Unlock AfCFTA Trade], [2026-02-23 111 - Winning But Losing - The Payments End Game], [2026-02-24 BIO-key and RunLevel Deploy Biometric IAM Across Mozambique's National Payments Network], [2026-03-01 GSMA State of the Industry Report on Mobile Money 2026], [2026-03-02 Pesalink and PAPSS link networks for African payments], [2026-03-24 Mobile Money in Africa Strong Growth, but Adoption Still Falls Short], [2026-04-02 Safaricom Introduces My OneApp to Simplify Payments, Accounts, and Service Access], [2026-04-02 WhatsApp tax filing set to pull millions into Kenya's tax net], [2026-04-16 3 Reasons Mobile Money Programs Have a $1.7 Trillion Problem], [2026-04-20 117 - Payments Follow Trade], [2026-04-23 Africa's $205 Billion Digital Shift Is Redefining Money, and Central Banks Are Losing Control], [2026-05-18 Mauritius emerges as an African payments hub], [2026-05-29 Africa's Mobile Money Networks Are Becoming Tax Infrastructure], [2026-05-30 Afreximbank Banks on Digital Payments to Unlock Africa's Trillion-Dollar Trade Potential], [2026-06-10 MTN Group goes all-in on platforms and AI], [2026-06-18 Africa's $240 Billion Mobile Economy A Checkpoint on Africa's Digital Transformation Journey], [2026-06-19 Strategy Ahead of Infrastructure, Part II The Opportunity and the Case for Sequencing], [2026-07-01 Strategy Ahead of Infrastructure, Part I Inside the CBN's June 2026 Payments Circular], [2026-07-03 Vodacom expands East Africa strategy], [2026-07-06 Safaricom Ethiopia partners National ID Program to expand digital identity registration], [2026-07-07 African nations recommit to operationalize AfCFTA digital single market framework], [2026-07-07 CBN's local data order puts Nigeria's data centres to test], [2026-07-07 Equity, AfricaNenda and Gates Foundation Partner to Advance Digital Public Infrastructure Across Africa], [2026-07-07 Ghana and UNDP Strengthen Partnership on Digital Transformation Projects], [2026-07-10 Nigeria tests data sovereignty as foreign tech firms facing probe], [2026-07-11 BEAC joins PAPSS and accelerates cross-border payments integration in Central Africa], [2026-07-13 Liberia Expands Digital Finance]]
 ---
 
@@ -32,8 +32,10 @@ Interoperable digital payments and financial inclusion.
   central bank **[[beac]]** joined **[[papss]]** (2026-07-11), extending the rail into
   **[[XCA]] Central Africa**; Nigeria's [[nibss]] launched an ISO-20022 **National Payment
   Stack** and NIP became the first African instant-payment system rated "Mature" on
-  [[africanenda]]'s spectrum. Counter-signal: **Nigeria's PAPSS flows fell 53%** (to ₦5.6bn)
-  in H1'25 per CBN's Financial Stability Report — recorded, not erased. Paper **cheques still
+  [[africanenda]]'s spectrum. Nigeria footnote: **a reported PAPSS line fell 53%** (to ₦5.6bn,
+  ~$3.7m) in H1'25 per CBN's Financial Stability Report — a real but **narrow-scope** metric, not
+  Nigeria's total throughput and **not a counter-signal** to the rail's scaling (REV-002 resolved
+  2026-07-16). Paper **cheques still
   move ~$17bn/yr in Kenya** even as Burkina Faso, Zambia, Seychelles and Ghana phase them out.
   See [[gov.regional]], [[XCA]], [[NGA]], [[KEN]]. Sources:
   [[2026-07-11 BEAC joins PAPSS and accelerates cross-border payments integration in Central Africa]],
@@ -173,7 +175,7 @@ Continental rails and the sector-wide figures/theses are above. National payment
 - **[[ETH]] Ethiopia** — M-PESA's [[ethswitch]] interoperability surge (+258% YoY) and Telebirr/M-PESA at national scale under Digital Ethiopia 2030. → [[ethiopia--dpi-pay]]
 - **[[ZAF]] South Africa** — opening the bank-only National Payment System to non-bank PSPs ([[sarb]] Vision 2025, PayShap >100m txns) and the 2026 fintech rulebook. → [[south-africa--dpi-pay]]
 - **[[NGA]] Nigeria** — the [[cbn]] fintech blueprint (Single Regulatory Window, regulatory-passporting pilots) pitched as a regional template. → [[nigeria--dpi-pay]]
-- **[[COD]] DR Congo** — [[onafriq]]/Visa Pay deepening rails, a US$400m [[payservices]] lawsuit over a failed banking deal, and an unverified USD-stablecoin pilot (**needs-review**). → [[drc--dpi-pay]]
+- **[[COD]] DR Congo** — [[onafriq]]/Visa Pay deepening rails (incl. Visa settling M-Pesa top-ups in stablecoins via Visa Pay — corroborated on record, "joint pilot" framing downgraded) and a US$400m [[payservices]] lawsuit over a failed banking deal. → [[drc--dpi-pay]]
 - **[[SOM]] Somalia** — a privately-built, cash-light mobile-money economy (~36% of GDP) getting its first central-bank foothold via SIPS/SOMQR. → [[somalia--dpi-pay]]
 - **[[ZMB]] Zambia** — the [[payz]] compact for digital financial services and [[dzap]]'s ZamPay strand. → [[zambia--dpi-pay]]
 - **[[GHA]] Ghana** — interoperable mobile-money value **+87%** ([[bank-of-ghana]]); the Ghana-Card-payments claim was retracted. → [[ghana--dpi-pay]]
@@ -185,14 +187,18 @@ Continental rails and the sector-wide figures/theses are above. National payment
 - **[[MUS]] Mauritius** — [[peach-payments]]' Mauritius entity grew volume **>300% YoY** post-FATF-grey-list-exit, used as a treasury/billing gateway into fragmented African markets (11 direct). [[2026-05-18 Mauritius emerges as an African payments hub]]
 - **[[SSD]] South Sudan** — payments digitising faster than the rails: [[bank-of-south-sudan]]'s Inter-Bank Payment & Settlement System (Oct 2025) and cash abolished for passport/ID payments, but the missing national digital ID leaves systems siloed. [[2026-01-30 Can a digital economy exist in South Sudan without reliable DPI]] · [[2026-01-19 South Sudan introduces digital payment system for passports after supply crisis]]
 - **[[MOZ]] Mozambique** — [[bio-key-international]] + [[runlevel]] deploying biometric IAM into [[simo-mozambique]] (national payments switch SIMOrede). [[2026-02-24 BIO-key and RunLevel Deploy Biometric IAM Across Mozambique's National Payments Network]]
+- **[[AGO]] Angola** — [[emis-angola]]/Multicaixa + the fast-scaling **KWiK** instant rail (35m+ txns / 590bn kz in 2025, >100% growth); [[africell]] **Afrimoney** for the ~50% unbanked; [[kwenda]] digital G2P (1.6m-family target); [[agt-angola]] mandatory e-invoicing (2026). → [[angola--dpi-pay]]
+- **[[GAB]] Gabon** — a public-payments/PFM digitalisation stack: **[[madigipaie-gabon]]** (mobile-money public payments via [[beac]]/GIMACPAY QR, Dec 2025), **[[digitax-gabon]]**/e-tax (≥80% of tax revenue digital) and **[[sigfip-gabon]]** treasury platform, plus [[uncdf]]/[[visa]] inclusion deals; 4.5m mobile-money accounts end-2024 (1.6m active), 54% of adults unbanked (Findex 2025). See [[GAB]]. [[2025-12-11-gabon-madigipaie-digital-payments-launch]] · [[2025-09-15-gabon-2026-budget-revenue-digitalization]]
 
 
 ## Places
 
-[[COD]] · [[EGY]] · [[ETH]] · [[GHA]] · [[KEN]] · [[MOZ]] · [[MUS]] · [[NGA]] · [[RWA]] · [[SEN]] · [[SOM]] · [[SSD]] · [[XAF]] · [[XCA]] · [[XWA]] · [[ZAF]] · [[ZMB]]
+[[AGO]] · [[COD]] · [[EGY]] · [[ETH]] · [[GAB]] · [[GHA]] · [[KEN]] · [[MOZ]] · [[MUS]] · [[NGA]] · [[RWA]] · [[SEN]] · [[SOM]] · [[SSD]] · [[XAF]] · [[XCA]] · [[XWA]] · [[ZAF]] · [[ZMB]]
 
 ## Sources
 
+- [[2025-12-11-gabon-madigipaie-digital-payments-launch]]
+- [[2025-09-15-gabon-2026-budget-revenue-digitalization]]
 - [[2021-08-30 31 First we must build Infrastructure]]
 - [[2022-05-11 Pan-African Payment and Settlement System]]
 - [[2022-08-30 Pan-African Payment and Settlement System drives Africa's banking integration]]

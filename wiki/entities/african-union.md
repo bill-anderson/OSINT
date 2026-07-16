@@ -6,7 +6,7 @@ places: [XAF, ETH]
 topics: [gov.regional, tech.ai, gov.policy, finance.mou, finance.new, dpi.id, dpi.exchange, infra.connect, gov.protect, geopol.usa, geopol.eu, dpi.mis]
 lens: [sovereignty, colonialism]
 status: active
-last_reviewed: 2026-07-12
+last_reviewed: 2026-07-16
 sources: [[2026-01-28 Joint Statement of the United States and African Union on the Launch of a Strategic Investment Working Group], [2026-06-08 The Promise and Limits of African Data Sovereignty], [2026-06-23 A Kenya Technology Prosperity Deal Could Help Washington Secure Durable AI Partnerships with Africa], [2026-02-26 The AfDB's push for African financial sovereignty, and a tech investment rebound], [2026-05-26 AfDB says Africa must fund its own growth as aid model frays], [2026-05-21 Pushing back from Big Tech Africa's hard road to AI sovereignty], [2026-05-27 Africa's economic future hinges on breaking down silos. This ADLI cohort advances integration], [2026-04-13 Stakeholders urge shift in digital public infrastructure trajectory], [2026-07-09 African Union pushes for unified African voice at Global AI Governance Dialogue], [2026-03-17 Anthropic is Becoming the Backbone of Rwanda's Government. But Who is Accountable], [2025-09-18 Ethiopia's approach to their National Data Strategy offers lessons for Africa's digital future], [2026-03-16 New $137M initiative to enable digital service access for millions in three ECOWAS nations], [2026-01-27 Digital Ethiopia 2030 Charting a Sovereign Path to Prosperity], [2026-02-20 AUC Signs Partnership With Google], [2026-03-05 THE GATEKEEPERS PART XII], [2025-04-03 Beneath the Waves Addressing Vulnerabilities in Africa's Undersea Digital Infrastructure], [2026-03-20 Rwanda Launches Digital Public Infrastructure Strategy to Lay Groundwork for AI and Inclusive Growth], [2026-01-01 America First, Africa Last  Data Extraction from Africa's Bodies and the Erosion of Health Sovereignty], [2026-02-24 Global Health Nigeria and the Pathology of the Hostage State in an Era of Fragmentation], [2026-01-01 (2) Digital Public Infrastructure and the Politics of Data in Africa]]
 ---
 
@@ -73,6 +73,13 @@ in US–Africa engagement.
   panel scientists (Marivate, Tadesse, Orji, El-Assady) to align continental scientific expertise
   with AU political leadership in global AI-governance forums. See [[tech.ai]], [[gov.regional]].
   Source: [[2026-07-09 African Union pushes for unified African voice at Global AI Governance Dialogue]].
+- **AUC–ITU cooperation MoU (2026-07).** At the **AI for Good Global Summit** (Geneva), the AUC
+  (Commissioner **Lerato Mataboge**) and the **[[itu]]** (SG Doreen Bogdan-Martin) signed a cooperation
+  **MoU** covering AI, DPI, digital/AI skills, universal connectivity, cybersecurity, space tech, standards
+  and digital regulation — aligning the AU's Digital Transformation Strategy and Continental AI Strategy with
+  the ITU's global mandate, and naming the AUC the continental coordinating partner across the 55 member
+  states. See [[itu]], [[tech.ai]], [[gov.regional]], [[infra.connect]]. Source:
+  [[2026-07-16 African Union Commission, ITU sign cooperation agreement]].
 - **AU–Google AI MoU (2026-02-17).** The AUC (Commissioner Lerato Mataboge) signed an MoU with
   **[[google]]** at Addis Ababa ([[au-google-mou]]) on AI/cloud infrastructure, skills, R&D and
   AI-policy frameworks, anchored in the [[au-continental-ai-strategy]] and the Digital Transformation
@@ -146,6 +153,7 @@ See [[XAF]], [[afcfta]], [[gov.regional]].
 - [[2026-05-27 Africa's economic future hinges on breaking down silos. This ADLI cohort advances integration]]
 - [[2026-04-13 Stakeholders urge shift in digital public infrastructure trajectory]]
 - [[2026-07-09 African Union pushes for unified African voice at Global AI Governance Dialogue]]
+- [[2026-07-16 African Union Commission, ITU sign cooperation agreement]]
 - [[2026-03-17 Anthropic is Becoming the Backbone of Rwanda's Government. But Who is Accountable]]
 - [[2025-09-18 Ethiopia's approach to their National Data Strategy offers lessons for Africa's digital future]]
 - [[2026-03-16 New $137M initiative to enable digital service access for millions in three ECOWAS nations]]

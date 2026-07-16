@@ -2,7 +2,7 @@
 type: concept
 title: MoUs and other agreements
 slug: finance.mou
-places: [XAF, KEN, GAB, SLE, ETH, MOZ, TGO, XGL, XSS, RWA, ZMB, SOM, NGA, ZAF, COD, LSO, TZA, SYC]
+places: [AGO, XAF, KEN, GAB, SLE, ETH, MOZ, TGO, XGL, XSS, RWA, ZMB, SOM, NGA, ZAF, COD, LSO, TZA, SYC, DJI]
 entities: [[equity-africanenda-gates-dpi-partnership], [st-digital-gabon], [sierra-leone-digital-id-mou], [safaricom-ethiopia-fayda-jv], [estdev], [smart-africa], [estdev-smart-africa-mou], [atdi-mozambique], [mozambique-ethiopia-dpi-mou], [sin-togo], [lome-data-centre], [sin-st-digital-lome-cloud-deal], [realtyme], [smart-africa-realtyme-partnership], [gates-foundation], [anthropic], [gates-anthropic-partnership], [gabon-huawei-mou], [huawei], [anthropic-rwanda-mou], [zambia-us-health-mou], [america-first-global-health-strategy], [ethio-telecom], [somcable], [payz], [bank-of-zambia], [zicta], [nigeria-finland-digital-mou], [eu-nigeria-global-gateway-290m], [global-gateway], [au-google-mou], [google], [african-union], [starlink-airtel-d2c-partnership], [starlink-vodacom-leo-partnership], [starlink], [airtel-africa], [vodacom], [ixafrica-oracle-oci-nairobi], [oracle], [kenya-school-of-government], [seychelles-afcfta-mou], [afcfta-digital-trade-corridor]]
 lens: [sovereignty]
 status: active
@@ -64,6 +64,12 @@ is a **deal entity**; this concept tracks the pattern.
   startups, and skills transfer "for digital sovereignty" — expanding the Connected Schools
   Program. A Chinese-vendor partnership framed as sovereignty-building. Deal:
   [[gabon-huawei-mou]]. See [[GAB]], [[geopol.china]], [[tech.innovate]], [[capacity.training]].
+- **Gabon financial-inclusion & land deals (2025).** A cluster of partnerships behind Gabon's
+  digital-transformation push: **[[uncdf]]** ([[gabon-uncdf-financial-inclusion-deal]], Dec 2025;
+  UNDP-facilitated), **[[visa]]** ([[gabon-visa-partnership-deal]], May 2025, reported second-hand),
+  and French **[[ign-fi]]** on cadastre modernisation ([[gabon-ign-fi-cadastre-deal]], Nov 2025).
+  See [[GAB]], [[dpi.pay]], [[dpi.registry]]. Sources:
+  [[2025-12-12-gabon-uncdf-financial-inclusion-deal]] · [[2025-11-24-gabon-cadastre-modernization-ign-fi]].
 - **Anthropic × Rwanda (2026-02).** Three-year, **non-binding** MoU embedding [[anthropic]]'s
   AI across Rwanda's health ministry, public-sector agencies and education (Claude/Claude Code
   + API credits for government developers; the Chidi learning companion across eight
@@ -148,6 +154,8 @@ is a **deal entity**; this concept tracks the pattern.
 
 - [[2026-07-07 Equity, AfricaNenda and Gates Foundation Partner to Advance Digital Public Infrastructure Across Africa]]
 - [[2026-07-06 Gabon Inaugurates First Tier III Datacenter to Boost Digital Sovereignty]]
+- [[2025-12-12-gabon-uncdf-financial-inclusion-deal]]
+- [[2025-11-24-gabon-cadastre-modernization-ign-fi]]
 - [[2026-07-08 Sierra Leone partners with Bhutan, Sign on digital identity platform]]
 - [[2026-07-06 Safaricom Ethiopia partners National ID Program to expand digital identity registration]]
 - [[2026-01-28 Joint Statement of the United States and African Union on the Launch of a Strategic Investment Working Group]]

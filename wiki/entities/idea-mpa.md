@@ -6,8 +6,8 @@ places: [XEA, XSA, ZMB, AGO, COD, MWI, SWZ, TZA, BWA, MDG, LSO, SSD]
 topics: [finance.new, infra.connect, gov.regional, dpi.exchange]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-11
-sources: [[2025-09-11 DZAP World Bank PAD], [2026-01-30 DRC envisages a functional digital government platform by March]]
+last_reviewed: 2026-07-16
+sources: [[2025-09-11 DZAP World Bank PAD], [2026-01-30 DRC envisages a functional digital government platform by March], [2026-02-20 DRC operationalises $500m partner tranche of PNN2 financing (World Bank, AFD)], [2026-07-14 Zambia and COMESA Launch AI Initiative to Advance Regional Digital Transformation]]
 ---
 
 # IDEA — Inclusive Digitalization in Eastern and Southern Africa (MPA)
@@ -36,15 +36,29 @@ a Single Digital Market — see [[gov.regional]].
 
 ## Activity in this wiki
 
-- **DRC digital-transformation blueprint (2026-01-30).** The IDEA program is named among the
-  external financiers (with the French Development Agency) expected to fund **[[COD]] DR Congo**'s
-  2026–2030 digital blueprint — a ~**US$10.4bn** plan (government committing ~$1.5bn) targeting a
-  functional digital-government platform in Q1 2026, an interbank payment platform, tax/customs
-  portals, and the **[[rdc-pass]]** digital ID. Confirms IDEA's role in the COD operation flagged
-  above. See [[gov.regional]], [[dpi.govtech]]. Source:
-  [[2026-01-30 DRC envisages a functional digital government platform by March]].
+- **DRC digital-transformation blueprint (2026-01-30 → 2026-02-17).** The IDEA program is named among
+  the external financiers (with the French Development Agency, AFD) funding **[[COD]] DR Congo**'s
+  **[[drc-national-digital-plan-pnn2|PNN2]]** 2026–2030 plan — official **$1.5bn envelope** ($1bn
+  government treasury + $500m secured partners; a larger ~$10.4bn "total" was uncorroborated,
+  REV-COD-001 resolved 2026-07-16) — targeting a functional digital-government platform in Q1 2026, an
+  interbank payment platform, tax/customs portals, and the **[[rdc-pass]]** digital ID. On **17 Feb
+  2026** the DRC operationalised the **$500m partner tranche** after talks with World Bank and AFD
+  experts. Confirms IDEA's role in the COD operation flagged above. See [[gov.regional]],
+  [[dpi.govtech]]. Sources:
+  [[2026-01-30 DRC envisages a functional digital government platform by March]],
+  [[2026-02-20 DRC operationalises $500m partner tranche of PNN2 financing (World Bank, AFD)]].
+
+- **Regional AI strategy activity — Zambia workshop (2026-07).** Under IDEA, **[[comesa]]**, Zambia's
+  Ministry of Technology and Science and the **[[world-bank]]** launched an **AI Sensitisation Workshop**
+  in Lusaka — the first structured activity under the Stakeholder Engagement Plan for COMESA's AI &
+  Emerging Technologies Consultancy, feeding a **COMESA Regional AI Strategy** and **Regional Digital
+  Inclusion Strategy**. Shows IDEA's remit extending from connectivity/DPI into **regional AI-policy
+  harmonisation**. See [[tech.ai]], [[gov.policy]], [[ZMB]]. Source:
+  [[2026-07-14 Zambia and COMESA Launch AI Initiative to Advance Regional Digital Transformation]].
 
 ## Sources
 
 - [[2025-09-11 DZAP World Bank PAD]]
 - [[2026-01-30 DRC envisages a functional digital government platform by March]]
+- [[2026-02-20 DRC operationalises $500m partner tranche of PNN2 financing (World Bank, AFD)]]
+- [[2026-07-14 Zambia and COMESA Launch AI Initiative to Advance Regional Digital Transformation]]

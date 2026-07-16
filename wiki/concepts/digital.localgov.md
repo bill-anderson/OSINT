@@ -2,7 +2,7 @@
 type: concept
 title: Digitalisation of sub-national government
 slug: digital.localgov
-places: [MWI, CMR, CIV]
+places: [MWI, CMR, CIV, DZA]
 entities: [[blantyre-city-council], [malawi-revenue-authority], [undp], [maposte]]
 lens: []
 status: active

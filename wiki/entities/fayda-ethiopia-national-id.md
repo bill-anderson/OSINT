@@ -6,8 +6,8 @@ places: [ETH, MOZ, ZMB]
 topics: [dpi.id, include.divides, dpi.pay, gov.policy]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-11
-sources: [[2026-07-06 Safaricom Ethiopia partners National ID Program to expand digital identity registration], [2026-05-12 Strengthening Fayda Ethiopia's improvement journey through the Digital ID Assessment], [2024-01-16 Digital ID], [2026-04-28 Mozambique taps Ethiopia's digital ID expertise in DPI partnership], [2026-03-24 Zambia looking for MOSIP system integrator to support digital ID project], [2026-01-27 Digital Ethiopia 2030 Charting a Sovereign Path to Prosperity], [2026-03-04 Ethiopia's approach to use cases shows how to ground data governance in real-world priorities], [2026-01-07 Why Ethiopia, Somalia and Djibouti are starting to matter in digital Africa]]
+last_reviewed: 2026-07-15
+sources: [[2026-07-06 Safaricom Ethiopia partners National ID Program to expand digital identity registration], [2026-05-12 Strengthening Fayda Ethiopia's improvement journey through the Digital ID Assessment], [2024-01-16 Digital ID], [2026-04-28 Mozambique taps Ethiopia's digital ID expertise in DPI partnership], [2026-03-24 Zambia looking for MOSIP system integrator to support digital ID project], [2026-01-27 Digital Ethiopia 2030 Charting a Sovereign Path to Prosperity], [2026-03-04 Ethiopia's approach to use cases shows how to ground data governance in real-world priorities], [2026-01-07 Why Ethiopia, Somalia and Djibouti are starting to matter in digital Africa], [2025-05-22 Ethiopia launches Fayda digital ID (90M by 2027 target)], [2025-12-10 NBE launches full integration of Fayda digital ID with the banking system], [2025-11-12 Fayda passes 28 million registrations; education mandate]]
 ---
 
 # Fayda — Ethiopia National Digital ID

@@ -5,8 +5,8 @@ title: telebirr
 places: [ETH]
 topics: [dpi.pay, include.access]
 status: active
-last_reviewed: 2026-07-11
-sources: [[2026-01-07 Why Ethiopia, Somalia and Djibouti are starting to matter in digital Africa], [2026-01-27 Digital Ethiopia 2030 Charting a Sovereign Path to Prosperity], [2026-02-02 Safaricom Ethiopia Surpasses 12 Million Users as M-PESA Adoption Grows], [2026-01-30 Inside Ethio Telecom's bold TechCo transformation]]
+last_reviewed: 2026-07-15
+sources: [[2026-01-07 Why Ethiopia, Somalia and Djibouti are starting to matter in digital Africa], [2026-01-27 Digital Ethiopia 2030 Charting a Sovereign Path to Prosperity], [2026-02-02 Safaricom Ethiopia Surpasses 12 Million Users as M-PESA Adoption Grows], [2026-01-30 Inside Ethio Telecom's bold TechCo transformation], [2024-04-04 NBE governor on Ethiopia's digital-payments journey]]
 ---
 
 # telebirr

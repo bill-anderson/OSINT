@@ -4,9 +4,9 @@ title: Côte d'Ivoire
 code: CIV
 parent: XWA
 place_kind: country
-topics: [gov.policy, gov.legislate, tech.ai, infra.cybersec, data.open, infra.connect, geopol.eu, dpi.govtech, dpi.id, dpi.registry, gov.protect, digital.rural, include.access, include.divides, data.satellite]
+topics: [gov.policy, gov.legislate, tech.ai, infra.cybersec, data.open, infra.connect, infra.store, geopol.eu, dpi.govtech, dpi.exchange, dpi.id, dpi.registry, gov.protect, tech.innovate, finance.new, digital.rural, include.access, include.divides, data.satellite]
 status: active
-last_reviewed: 2026-07-11
+last_reviewed: 2026-07-15
 ---
 
 # Côte d'Ivoire (CIV)
@@ -47,8 +47,28 @@ last_reviewed: 2026-07-11
   [[2026-01-19 Ivory Coast Launches MaPoste to Digitize Postal and Administrative Services]]. See
   [[dpi.govtech]], [[dpi.id]], [[dpi.registry]], [[gov.protect]].
 
+- **2025-12-19** — **2026-30 Information System Master Plan (SDSI).** The economy/planning ministry (MEPD)
+  adopted a 5-year IT-governance master plan (data security, public-service systems). [[civ--dpi-govtech]].
+  Source: [[2025-12-19 Cote d'Ivoire Economy Ministry launches 2026-30 Information System Master Plan (SDSI)]].
+- **2025-11-24** — **2026 digital budget CFA83.2bn (~$146m, +37%).** The digital-transition budget rose
+  again (CFA52.6bn 2024 → 60.78bn 2025 → 83.2bn 2026). Source: [[2025-11-24 Cote d'Ivoire approves CFA83.2bn 2026 digital budget to accelerate digitalisation]]. See [[gov.policy]].
+- **2025-10** — **Data-centre cluster grows (ST Digital + Raxio).** Cameroon's [[st-digital]] opened a Tier III
+  DC at VITIB II Grand-Bassam (Oct 2025); [[raxio-group]] had launched **CIV1** at VITIB (Sept 2024) — an
+  Abidjan/Grand-Bassam cluster (with PAIX, MDXi). See [[infra.store]]. Sources: [[2025-10-03 ST Digital opens eco-responsible Tier III data centre in Cote d'Ivoire (Grand-Bassam)]], [[2024-09-25 Raxio launches CIV1 data centre in Abidjan (Cote d'Ivoire)]].
+- **2025-09-25** — **UXP government interoperability platform.** [[sndi-cote-divoire]] + [[cybernetica]] (UXP,
+  X-Road family) for secure inter-ministry data exchange, "zero paper 2030". → [[civ--dpi-govtech]]. Source: [[2025-09-29 Cote d'Ivoire unveils UXP interoperability platform for secure government data sharing]].
+- **2025-06-18** — **Digital nationality certificate decree** (Justice + Digital Transition), building on the
+  **e-Justice** platform (launched 30 Jan 2025). → [[civ--dpi-govtech]]. Sources: [[2025-06-19 Ivory Coast strengthens e-services with digital nationality certificate]], [[2025-02-05 Ivory Coast launches e-Justice digitalisation of judicial services]].
+- **2025-04** — **Registre Social Unique (RSU)** operationalising — 200,000+ households registering
+  ([[rsu-cote-divoire]]). See [[dpi.registry]]. Source: [[2025-04-12 Cote d'Ivoire - Registre Social Unique (RSU) operationalisation, 200,000+ households]].
+- **2024** — **ARTCI flags biometrics governance** (employee biometric access must comply with Law 2013-450);
+  [[artci]] as active DPA. See [[gov.protect]]. Source: [[2024-09-13 Is Cote d'Ivoire moving towards standard regulations for biometrics (ARTCI)]].
+
 ## Active topics
 
+- **GovTech / interoperability** → **[[civ--dpi-govtech]]**. [[sndi-cote-divoire]]/[[cybernetica]] UXP layer;
+  e-Justice + digital nationality certificate ([[oneci]]); [[rsu-cote-divoire]] social registry; SDSI + rising budget.
+- **Data centres** ([[infra.store]]) — Abidjan/Grand-Bassam cluster: [[st-digital]], [[raxio-group]] CIV1, PAIX, MDXi.
 - [[gov.policy]] · [[gov.legislate]] — harmonisation of the National Digital Development,
   Cybersecurity, Data Governance 2030 and AI strategies under one coordinated agenda ("Zero Paper
   by 2030").
@@ -66,6 +86,8 @@ last_reviewed: 2026-07-11
 - [[orange]] · [[via-africa-cable]] — subsea-cable landing.
 - [[oneci]] · [[la-poste-cote-divoire]] · [[maposte]] — digital ID + postal super-app.
 - [[orange-cote-divoire]] · [[orange-sat]] · [[eutelsat]] — satellite broadband.
-- Mentioned, not hubbed: Djibril Ouattara (Minister of Digital Transition & Technological
-  Innovation); PADCI, PARAE (donor programmes); National Data Governance Strategy 2030;
-  "Zero Paper by 2030".
+- **GovTech/interoperability:** [[sndi-cote-divoire]] · [[cybernetica]] · [[rsu-cote-divoire]] · [[artci]] (regulator/DPA)
+- **Data centres:** [[st-digital]] · [[raxio-group]]
+- Mentioned, not hubbed: Djibril Ouattara / Ibrahim Kalil Konaté (Digital Transition ministers); PADCI,
+  PARAE (donor programmes); National Data Governance Strategy 2030 / SDSI 2026-30; "Zero Paper by 2030";
+  ANSUT; PAIX, MDXi (data centres); Digital Afrique Telecom.

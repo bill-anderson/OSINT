@@ -13,6 +13,11 @@ last_reviewed: 2026-07-14
 
 ## Recent developments
 
+- **2025-03-27** — **Google launches its first African cloud region in Johannesburg** (GCP),
+  competing with **[[amazon-web-services|AWS]]**'s Cape Town region on in-region cloud/AI and data
+  residency. See [[infra.store]], [[google]]. Source:
+  [[2025-03-27 Google launches first African cloud region in Johannesburg (GCP)]]. *(Clip arrived
+  mis-filed in an Ethiopia batch.)*
 - **2025-04-01 (evidence 2026-07)** — **Smartphone luxury-tax removal lifts device access.** Effective
   **1 April 2025**, the **[[dcdt-south-africa]]** / National Treasury removed the **9% ad valorem luxury
   excise** on entry-level smartphones **below R2,500 (~USD 150)**. The GSMA evidence report

@@ -4,25 +4,34 @@ title: DR Congo
 code: COD
 parent: XCA
 place_kind: country
-topics: [dpi.id, dpi.govtech, dpi.pay, gov.protect, finance.new, infra.connect, tech.industry, gov.policy, include.access, geopol.usa, geopol.gulf, geopol.china, infra.store, infra.cybersec, capacity.training, data.satellite, tech.ai]
+topics: [dpi.id, dpi.registry, dpi.govtech, dpi.exchange, dpi.pay, dpi.mis, gov.protect, gov.legislate, finance.new, infra.connect, tech.industry, gov.policy, include.access, include.divides, geopol.usa, geopol.gulf, geopol.china, infra.store, infra.cybersec, capacity.training, data.satellite, tech.ai]
 status: active
-last_reviewed: 2026-07-12
+last_reviewed: 2026-07-16
 ---
 
 # DR Congo (COD)
 
 ## Recent developments
 
-- **2026-07 (early)** — **Visa–M-Pesa–Onafriq DRC stablecoin pilot.** [[visa]],
-  Safaricom's M-Pesa ([[safaricom]]) and pan-African network [[onafriq]] announced a
-  **live USD-pegged stablecoin pilot** settling cross-border mobile transactions on
-  blockchain, bypassing correspondent banking (which siphons ~**8%** in SSA remittance
-  fees). Builds on the **Visa Pay** platform launched in DRC (Sept 2025) via an Onafriq
-  API. Deal: [[visa-mpesa-onafriq-drc-stablecoin-pilot]]. Source:
-  [[2026-07-10 Visa and M-Pesa Launch Blockchain Stablecoin Pilot in DR Congo]].
-  See [[dpi.pay]], [[finance.new]], [[geopol.usa]], [[geopol.gulf]].
-  *(⚠ needs-review: low-authority aggregator, promotional, no clear primary citation —
-  corroborate against Visa/Safaricom/Onafriq releases before hardening.)*
+- **2026-07-14** — **Liquid names permanent DRC CEO.** **[[liquid-c2]]** (Liquid Intelligent
+  Technologies, a **[[cassava-technologies]]** business) appointed **Bernard Beya** CEO of its DRC
+  operations (effective 1 Apr 2026, acting since Nov 2025; ex-CFO from Sept 2022). Liquid frames the
+  DRC as one of its fastest-growing, most strategic African markets; Beya's mandate is to expand
+  connectivity, cloud, cyber security, colocation and **AI compute**. A signal of sustained pan-African
+  operator investment in the DRC market. Source: [[2026-07-14 Liquid appoints Bernard Beya as DRC CEO]].
+  See [[infra.connect]], [[tech.ai]].
+- **2026-07 (early)** — **Visa settles M-Pesa top-ups in stablecoins in the DRC (via Onafriq / Visa Pay).**
+  On record, a senior [[visa]] executive (Godfrey Sullivan, SVP CEMEA) confirmed a **live DRC use case**
+  settling **[[safaricom]] M-Pesa** wallet top-ups in **stablecoins in the background** through the
+  **Visa Pay** platform, in partnership with [[onafriq]] — bypassing correspondent banking (~**8%** of SSA
+  remittance fees). Builds on Visa Pay, launched in DRC (Sept 2025) via an Onafriq API. **Corroborated in
+  substance** by the Visa-exec primary; but the widely-reported "**joint USD-stablecoin *pilot* launch**"
+  framing is trade-press gloss — Ecofin reports **no jointly-announced pilot**, the **USD peg is inferred**
+  (not disclosed), and one Visa partnership **awaits regulatory approval** (the BCC is pursuing
+  de-dollarisation). Deal: [[visa-mpesa-onafriq-drc-stablecoin-pilot]]. Sources:
+  [[2026-07-02 Visa tests stablecoins in DRC for cross-border payments (The EastAfrican)]],
+  [[2026-07-02 DR Congo becomes Africa's live test for dollar-settled mobile money (Ecofin)]].
+  See [[dpi.pay]], [[finance.new]], [[geopol.usa]], [[geopol.gulf]]. *(REV-006 resolved 2026-07-16.)*
 - **2026-06-11** — DRC set to launch its national digital-ID platform
   **[[rdc-pass]]** on **13 June 2026** (Kinshasa) under President
   **[[felix-tshisekedi]]**, within the "DRC 2030 Digital Nation" strategy. Built
@@ -32,7 +41,12 @@ last_reviewed: 2026-07-12
   **[[trident-digital-tech]]** (signed June 2025) — raising data-sovereignty
   concerns. Source:
   [[2026-06-11 DR Congo to Launch National Digital Identity System RDC-PASS on June 13]].
-  See [[dpi.id]], [[gov.protect]]. *(⚠ confirm launch occurred.)*
+  See **[[drc--dpi-id]]**, [[dpi.id]], [[gov.protect]]. *(⚠ confirm launch occurred.)*
+  **Backstory (the reset):** RDC-PASS followed the **Aug 2024 cancellation of a $1.2bn [[idemia]]/Afritech
+  biometric-ID contract** (overbilling; [[onip-drc]]) → a Trident framework (Dec 2024) → validation phase
+  (Mar 2025) → the definitive 20-yr PPP (Jun 2025). A **separate physical-card track** with Ghana's
+  [[margins-id-group]] runs in parallel via ONIP; an NTU-SBF analysis flagged the concession's transparency
+  risk. Full case → **[[drc--dpi-id]]**.
 - **2026-01-30** — **Digital-government platform targeted for Q1 2026 + full 2026–2030 blueprint.**
   DRC plans to bring a **digital-government platform** online in the first quarter of 2026, alongside
   a **national interbank payment platform**, an **online tax portal** and a **customs system**
@@ -41,10 +55,11 @@ last_reviewed: 2026-07-12
   human-capital/inclusion, digital public services, cybersecurity/digital trust) built on the
   **[[rdc-pass]]** ID ([[trident-digital-tech]], ~**$97.1m**). Targets: broadband to ~30m people +
   1,000 institutions (+9.7m internet users by 2029); 250,000 youth trained in AI/cyber/programming;
-  a Tier-3 Kinshasa data centre; 30,000 cybersecurity jobs. The plan needs **~€8.7bn (US$10.4bn)** —
-  government committing ~**$1.5bn**, the rest from partners incl. the **[[world-bank]]** IDEA
-  programme ([[idea-mpa]]) and AFD — and is projected to add **$4.1bn to GDP by 2030**. Updates the
-  earlier "$1bn plan" framing. Source:
+  a Tier-3 Kinshasa data centre; 30,000 cybersecurity jobs. Financing: the official
+  **[[drc-national-digital-plan-pnn2|PNN2]] envelope is $1.5bn** (**$1bn** treasury + **$500m**
+  secured partners incl. the **[[world-bank]]** IDEA programme ([[idea-mpa]]) and AFD); a larger
+  **~€8.7bn / $10.4bn "total" reported here could not be corroborated** (REV-COD-001, resolved
+  2026-07-16). Projected to add **$4.1bn to GDP by 2030**. Source:
   [[2026-01-30 DRC envisages a functional digital government platform by March]]. See [[dpi.govtech]],
   [[dpi.id]], [[dpi.pay]], [[infra.store]], [[infra.connect]], [[gov.policy]], [[infra.cybersec]],
   [[capacity.training]].
@@ -89,6 +104,34 @@ last_reviewed: 2026-07-12
   context for DRC's Washington courtship. Source:
   [[2026-01-01 US critical-minerals diplomacy from America-First deals to Pax Silica]]. See
   [[geopol.usa]], [[geopol.china]], [[tech.ai]].
+- **2026-02-17** — **$500m PNN2 partner tranche operationalised.** After talks with **[[world-bank]]**
+  and **AFD** experts, Minister **Kibassa Maliba** announced operationalising the **US$500m external-partner
+  financing tranche** of the [[drc-national-digital-plan-pnn2|PNN2]] envelope — technical assistance being
+  finalised for two axes (digital-infrastructure strengthening; public-service digitalisation + skills).
+  Confirms the **$1.5bn envelope split**: **$1bn** government treasury (2026-2030) + **$500m** secured
+  partners (World Bank IDEA [[idea-mpa]], AFD); refs earlier June 2025 deals (WB $400m digital; EU €100m).
+  Hardens the REV-COD-001 resolution. Source:
+  [[2026-02-20 DRC operationalises $500m partner tranche of PNN2 financing (World Bank, AFD)]].
+  See [[gov.policy]], [[finance.new]], [[infra.connect]].
+- **2026-02-09** — **Courting data-centre FDI.** Digital Economy Minister Kibassa Maliba met UAE's
+  **The Founding** (data-centre proposals), Tunisia's Dirasset International and Bayayi Group, proposing a
+  working group on technical specs — the FDI/data-centre pipeline under PNN2. See [[infra.store]], [[geopol.gulf]].
+  Source: [[2026-02-09 DRC steps up talks with foreign firms on data centres and digital infrastructure]].
+- **2025-10-08** — **National Digital Plan 2026-2030 (PNN2) + first National AI Strategy launched** for
+  drafting (Minister Kibassa Maliba) — four pillars, technological sovereignty, critical-minerals leverage.
+  [[drc-national-digital-plan-pnn2]], [[drc-national-ai-strategy]]. **Cost: official envelope $1.5bn**
+  ($1bn treasury + $500m secured partners); circulating "$8.7bn" and "~$10.4bn" totals are unverified
+  (REV-COD-001, resolved 2026-07-16). Sources: [[2025-10-10 DR Congo launches National Digital Plan 2026-2030 (PNN2) and first AI strategy]], [[2026-02-01 DRC unveils $8.7 billion digital plan to expand connectivity and AI skills by 2030]]. See [[gov.policy]], [[tech.ai]].
+- **2025-07-17** — **Digital civil-servant registry (ghost-worker cleanup).** DRC's first clean cross-ministry
+  civil-servant directory (central govt + Kinshasa), World Bank **[[encore-drc]]** project (with COREF);
+  chaired by PM Judith Suminwa. See [[dpi.registry]], [[dpi.mis]]. Source: [[2025-07-17 DR Congo launches digital civil servant registry to tackle ghost workers (ENCORE)]].
+- **2024-08** — **First Tier-III data centres open in Kinshasa.** **[[oadc-texaf-digital]]** (OADC/WIOCC ×
+  TEXAF) — the DRC's first Tier-III, carrier-neutral DC — and **[[raxio-group]]** **DRC1** ($30m, the country's
+  largest) both went live; ST Digital ([[st-digital]]) later partnered OADC Texaf (Sep 2024). See [[infra.store]].
+  Sources: [[2024-08-14 DRC's first Tier-III data centre goes live (OADC Texaf Digital, Kinshasa)]], [[2024-08-26 DRC's largest data centre opens (Raxio DRC1, Kinshasa)]].
+- **2024-08-07** — **Data Protection Authority still on paper.** Think tank Law & Technologies urged the
+  government to operationalise the DP Authority required by Article 262 of the **[[drc-digital-code]]** — a
+  standing enforcement gap as the 20-yr e-KYC concession proceeds. See [[gov.protect]]. Source: [[2024-08-07 RDC - government urged to operationalise the Data Protection Authority]].
 - **2025-09** — **GSMA DRC Digital Economy Report** (with Through Line Advisors) profiles
   the mobile sector: **coverage low by regional standards** and **smartphone penetration
   below peers**, reflecting high network-build costs; a **complex multi-level tax
@@ -102,24 +145,31 @@ last_reviewed: 2026-07-12
 
 ## Active topics
 
+- **Digital identity** → **[[drc--dpi-id]]**. The cancelled [[idemia]] $1.2bn contract → [[rdc-pass|DRCPass]]
+  ([[trident-digital-tech]], 20-yr exclusive e-KYC, $97.1m) + a parallel [[margins-id-group]] card track ([[onip-drc]]) —
+  the most externalised national-ID build in the wiki, with the [[drc-digital-code]] DP authority still un-operational.
 - [[dpi.id]] · [[dpi.govtech]] · [[dpi.pay]] — RDC-PASS national ID / e-KYC; the Q1-2026
   digital-government platform, interbank payment platform, tax portal and customs system; stablecoin
-  pilot; Onafriq/Visa Pay interoperability. Full case: [[drc--dpi-pay]].
+  pilot; Onafriq/Visa Pay interoperability; the **[[encore-drc]]** civil-servant registry. Payments case: [[drc--dpi-pay]].
+- **[[drc-national-digital-plan-pnn2|PNN2 2026-2030]]** + first **[[drc-national-ai-strategy|AI strategy]]** — the policy umbrella (official cost: $1.5bn govt envelope; REV-COD-001 resolved).
 - [[gov.protect]] · [[infra.cybersec]] — data-sovereignty concerns over the 20-year foreign
   concession; cybersecurity/digital-trust pillar of the 2026–2030 blueprint.
 - [[infra.connect]] · [[infra.store]] · [[include.access]] — low mobile coverage / smartphone
   penetration; broadband + Tier-3 Kinshasa data-centre build-out under the blueprint.
 - [[tech.industry]] · [[gov.policy]] · [[finance.new]] · [[capacity.training]] — telecoms tax burden;
-  $10.4bn 2026–2030 reform roadmap; 250,000-youth AI/cyber training goal.
+  the $1.5bn PNN2 2026–2030 reform roadmap; 250,000-youth AI/cyber training goal.
 - [[geopol.usa]] — USD-pegged stablecoin rails; the **[[payservices]]** $400m US-court lawsuit
   (contract-certainty risk amid DRC–Washington security/minerals courtship).
 - [[geopol.gulf]] — M-Pesa's Gulf-remittance push.
 
 ## Entities
 
-- [[rdc-pass]] · [[trident-digital-tech]] · [[felix-tshisekedi]]
+- **Digital ID:** [[rdc-pass]] · [[trident-digital-tech]] · [[idemia]] · [[onip-drc]] · [[margins-id-group]] · [[drc-digital-code]] · [[felix-tshisekedi]]
+- **Strategy/registry:** [[drc-national-digital-plan-pnn2]] · [[drc-national-ai-strategy]] · [[encore-drc]]
+- **Data centres:** [[oadc-texaf-digital]] · [[raxio-group]] · [[st-digital]]
 - [[visa]] · [[safaricom]] · [[onafriq]] · [[visa-mpesa-onafriq-drc-stablecoin-pilot]]
 - [[payservices]] · [[payservices-drc-banking-deal]] — failed state-banking modernisation; $400m suit.
 - [[gsma]] · [[world-bank]]
+- [[liquid-c2]] · [[cassava-technologies]] — pan-African operator; Bernard Beya named DRC CEO (2026-07).
 - [[starlink]] · [[starlink-vodacom-leo-partnership]] · [[starlink-airtel-d2c-partnership]] · [[pax-silica]]
 - Sibling IDEA-programme country (tagged on [[idea-mpa]]).

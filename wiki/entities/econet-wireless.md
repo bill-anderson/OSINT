@@ -6,8 +6,8 @@ places: [ZWE, ZAF, KEN, NGA, XAF]
 topics: [infra.connect, dpi.pay, include.access, finance.new]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-12
-sources: [[2014-08-18 Zimbabwe's Econet Wireless and the making of Africa's first cashless society  Working in development  The Guardian], [2014-01-20 Five Lessons From Zimbabwe's Richest Man, Strive Masiyiwa - African Leadership Magazine], [2022-03-01 Liquid Intelligent acquires Google's fiber pair to improve offers], [2025-12-04 Is it a bird Is it plane No, Jim, it's an African mobile operator, but not as we know it 9]]
+last_reviewed: 2026-07-16
+sources: [[2026-07-16 Econet Wireless Zimbabwe About Us (network launch 10 July 1998)], [2014-08-18 Zimbabwe's Econet Wireless and the making of Africa's first cashless society  Working in development  The Guardian], [2014-01-20 Five Lessons From Zimbabwe's Richest Man, Strive Masiyiwa - African Leadership Magazine], [2022-03-01 Liquid Intelligent acquires Google's fiber pair to improve offers], [2025-12-04 Is it a bird Is it plane No, Jim, it's an African mobile operator, but not as we know it 9]]
 ---
 
 # Econet Wireless
@@ -19,9 +19,10 @@ emerged. In this wiki Econet matters as (a) the origin of Africa's mobile-money 
 
 ## Profile
 
-- **Origins.** Licensed in Zimbabwe in **1997** after a five-year constitutional-court
-  battle against the state PTC monopoly (incorporated ~1998); HQ moved to **South Africa
-  in 2000**. Described across sources (2014) as operating in **15–18 markets** including
+- **Origins.** **Incorporated 1993**; won its operating licence ~**1997** after a five-year
+  constitutional-court battle against the state PTC monopoly, and **launched Zimbabwe's first private
+  network on 10 July 1998** (ZSE listing within three months — Econet's own record). HQ moved to
+  **South Africa in 2000**. Described across sources (2014) as operating in **15–18 markets** including
   Burundi, Lesotho, Kenya, Nigeria, Botswana, Rwanda (plus UK/New Zealand) — *figures as
   of 2014; treat as dated.*
 - **Businesses.** Mobile telephony; mobile money / fintech ([[ecocash]]); insurance;
@@ -59,4 +60,4 @@ emerged. In this wiki Econet matters as (a) the origin of Africa's mobile-money 
 
 ## Sources
 
-- [[2014-08-18 Zimbabwe's Econet Wireless and the making of Africa's first cashless society  Working in development  The Guardian]] · [[2014-01-20 Five Lessons From Zimbabwe's Richest Man, Strive Masiyiwa - African Leadership Magazine]] · [[2023-01-01 The Rebel Behind Africa's Telecom Revolution  Stanford Graduate School of Business]] · [[2023-01-01 Transcript of Strive Masiyiwa A vision to connect Africa's greatest asset — its youth — to the world  Tools and Weapons with Brad Smith]] · [[2022-03-01 Liquid Intelligent acquires Google's fiber pair to improve offers]]
+- [[2026-07-16 Econet Wireless Zimbabwe About Us (network launch 10 July 1998)]] · [[2014-08-18 Zimbabwe's Econet Wireless and the making of Africa's first cashless society  Working in development  The Guardian]] · [[2014-01-20 Five Lessons From Zimbabwe's Richest Man, Strive Masiyiwa - African Leadership Magazine]] · [[2023-01-01 The Rebel Behind Africa's Telecom Revolution  Stanford Graduate School of Business]] · [[2023-01-01 Transcript of Strive Masiyiwa A vision to connect Africa's greatest asset — its youth — to the world  Tools and Weapons with Brad Smith]] · [[2022-03-01 Liquid Intelligent acquires Google's fiber pair to improve offers]]

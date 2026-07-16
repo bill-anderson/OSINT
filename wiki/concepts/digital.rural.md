@@ -2,12 +2,12 @@
 type: concept
 title: Rural digital data capture
 slug: digital.rural
-places: [ETH, KEN, NGA, ZMB, ZWE, TZA, UGA, RWA, SEN, MOZ, NAM, CIV, ZAF, XSS, XGL]
-entities: [[echis-ethiopia], [nasa-harvest], [nucap], [starlink], [helios-towers], [orange-sat], [google]]
+places: [ETH, KEN, NGA, ZMB, ZWE, TZA, UGA, RWA, SEN, MOZ, NAM, CIV, ZAF, XAF, XSS, XGL]
+entities: [[echis-ethiopia], [nasa-harvest], [nucap], [starlink], [helios-towers], [orange-sat], [google], [global-center-on-ai-governance]]
 lens: [sovereignty, colonialism]
 status: active
-last_reviewed: 2026-07-12
-sources: [[2026-03-31 Africa we have a data problem], [2026-03-12 Western AI models 'fail spectacularly' in farms and forests abroad], [2026-03-26 Has Satellite Become Africa's Most Critical Connectivity Infrastructure], [2025-12-19 Why one of the year's biggest AI-for-development stories isn't actually about AI]]
+last_reviewed: 2026-07-15
+sources: [[2026-03-31 Africa we have a data problem], [2026-03-12 Western AI models 'fail spectacularly' in farms and forests abroad], [2026-03-26 Has Satellite Become Africa's Most Critical Connectivity Infrastructure], [2025-12-19 Why one of the year's biggest AI-for-development stories isn't actually about AI], [2026-07-13 On Leapfrogging - What are we leaping over and where are we landing]]
 ---
 
 # Rural digital data capture
@@ -23,6 +23,15 @@ just digitisation"** thesis — see [[data.statistics]], [[2026-03-31 Africa we 
 
 ## What matters now
 
+- **"Leapfrogging" can privatise a public failure (2026-07, Ezejiofor).** A sovereignty/colonialism-lens
+  critique from the **[[global-center-on-ai-governance]]**'s *Algorithmic Review*: a drone-logistics start-up
+  serving disconnected **[[RWA]]** smallholders (basic phone + USSD → drone crop pickup) is inventive but
+  "a privatized solution to a large-scale public failure" — it patches an infrastructural gap the state
+  should fill and **reassigns responsibility** rather than closing it. The sharp question for rural capture:
+  *why does the farmer have no connectivity in the first place?* Frames the absence of a **government mandate
+  for rural connectivity** — not the start-up — as the real problem, reading leapfrogging as 1980s Structural
+  Adjustment rebranded as "innovation." See [[infra.connect]], [[gov.policy]], [[colonialism]], [[XAF]].
+  Source: [[2026-07-13 On Leapfrogging - What are we leaping over and where are we landing]].
 - **The last-mile capture gap is economic, not technical.** Coverage maps overstate reach:
   rural ARPU is too low for mobile operators to reach the last mile without obligation or
   subsidy, so LEO satellite ([[starlink]], [[orange-sat]], Amazon Leo) and universal-service

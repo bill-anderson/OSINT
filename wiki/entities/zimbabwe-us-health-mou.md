@@ -6,7 +6,7 @@ places: [ZWE]
 topics: [geopol.usa, gov.protect, dpi.mis]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-11
+last_reviewed: 2026-07-16
 sources: [[2026-02-25 Zimbabwe Turns Down U.S. Health Funding, Citing Sovereignty Concerns], [2026-02-24 ⁠Zimbabwe rejects $350 million US health funding deal warns It threatens national sovereignty], [2026-02-26 Zambia rejects U.S. health aid over mining partnership ties], [2026-02-25 US accused of 'shameless exploitation' over proposed Zambian health aid deal], [2026-03-05 Africa CDC head cites major concerns over data, pathogen sharing in US health deals]]
 ---
 
@@ -18,9 +18,15 @@ MoU (HIV/AIDS, TB, malaria, maternal/child health, epidemic preparedness) under 
 collapsed; the US Embassy in Harare confirmed the wind-down of US health assistance on
 **2026-02-25**.
 
-⚠ **Amount reported inconsistently — recorded, not reconciled:** **$350m** (Business Insider
-Africa, 2026-02-24) vs **$367m** (Ecofin Agency / US Embassy Harare, 2026-02-25; the $367m figure
-now independently corroborated by Africanews, 2026-02-26).
+**Amount — resolved (REV-004, 2026-07-16): $367 million over five years.** This is the **US Embassy
+Harare's own stated MoU value** (Ambassador Pamela Tremont, 24 Feb 2026), reported by Ecofin Agency
+([[2026-02-25 Zimbabwe Turns Down U.S. Health Funding, Citing Sovereignty Concerns]]) and independently
+corroborated by Africanews (26 Feb) and Reuters/Africa CDC (5 Mar). The earlier **$350m** (Business
+Insider Africa, 24 Feb — [[2026-02-24 ⁠Zimbabwe rejects $350 million US health funding deal warns It threatens national sovereignty]])
+was a **pre-announcement round estimate** carried by the first wave of reporting off the leaked 23 Dec
+2025 Zimbabwean memo, before the embassy released its precise figure — the **same deal**, not a rival
+value. (A third figure, ~**$328m**, circulated as Harare's own hedged characterisation — "in the region
+of" — via the state *Herald*; not held on file.)
 
 ## Activity in this wiki
 

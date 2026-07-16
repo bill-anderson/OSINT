@@ -7,7 +7,7 @@ topics: [dpi.pay, gov.regional]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-12
-sources: [[2026-07-11 BEAC joins PAPSS and accelerates cross-border payments integration in Central Africa]]
+sources: [[2026-07-11 BEAC joins PAPSS and accelerates cross-border payments integration in Central Africa], [2025-12-11-gabon-madigipaie-digital-payments-launch]]
 ---
 
 # BEAC (Banque des États de l'Afrique Centrale)
@@ -31,6 +31,13 @@ payment infrastructure.
   [[dpi.pay]], [[gov.regional]], [[XCA]]. Source:
   [[2026-07-11 BEAC joins PAPSS and accelerates cross-border payments integration in Central Africa]].
 
+- **MADIGIPAIE / GIMACPAY in Gabon (2025-12-09).** BEAC and the Central African Interbank Monetary
+  Group (GIMAC) are the implementing partners for Gabon's **[[madigipaie-gabon]]** public
+  digital-payments programme, which lets citizens pay for public services via mobile money by scanning
+  a **GIMACPAY QR code** (>1,000 deployed at launch) — the regional GIMACPAY rail underpinning a
+  national govtech-payments build. See [[GAB]], [[dpi.pay]]. Source:
+  [[2025-12-11-gabon-madigipaie-digital-payments-launch]].
+
 ## Related
 
-- [[papss]] · [[afreximbank]] · [[afcfta]] · [[XCA]]
+- [[papss]] · [[afreximbank]] · [[afcfta]] · [[madigipaie-gabon]] · [[XCA]]

@@ -6,7 +6,7 @@ parent: XSA
 place_kind: country
 topics: [infra.cybersec, gov.legislate, dpi.id, dpi.exchange, gov.regional, infra.store, tech.ai, data.statistics, gov.policy, infra.connect, geopol.usa, digital.rural, gov.protect, geopol.china, dpi.mis, gov.standards, dpi.govtech, dpi.pay, data.satellite]
 status: active
-last_reviewed: 2026-07-12
+last_reviewed: 2026-07-16
 ---
 
 # Mozambique (MOZ)
@@ -30,8 +30,10 @@ last_reviewed: 2026-07-12
   passing to the Defence & Security Forces' Cyber Coordination Centre under a state of siege
   or emergency (Art. 12); it also creates a **Cyber Security Fund**. Minister of
   Communications and Digital Transformation Américo Muchanga framed it as consolidating and
-  clarifying the legal framework. (Cost figures in the source are internally inconsistent —
-  ~160m MZN ≈ US$2.5m vs 167,257.94m MZN — recorded, not reconciled.) Source:
+  clarifying the legal framework. Implementation cost **≈167.26m MZN (≈US$2.5m)** from State Budget +
+  donations — the source's "160m" and "167,257.94m" are one figure, the latter a thousands-of-MT value
+  mislabelled "millions" (REV-005 resolved 2026-07-16; not yet confirmed against the primary budget line).
+  Source:
   [[2026-04-17 Mozambique parliament unanimously approves Cyber Security Law]].
   See [[infra.cybersec]], [[gov.legislate]].
 - **2026-04-14** — **Globalstar spectrum + Starlink presence.** Amazon's mooted **~$9bn
