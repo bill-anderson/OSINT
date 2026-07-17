@@ -4317,3 +4317,100 @@ its wire copy carries.
 
 **Remaining.** 42 countries plus the pan-African pass are `pending`; the pilot trio NGA/SEN/TCD still
 need completion passes (2025-04-01 → run date).
+
+---
+
+## 2026-07-17 — Phase-2 sweep: COM · CPV · DJI · DZA (rolling batch; survived an API incident)
+
+**Scope.** Window 2025-01-01 → 2026-07-17. Four countries spanning three language regimes — the batch
+that broke the Francophone run: **Comoros** (FR), **Cape Verde** (PT), **Djibouti** (FR), **Algeria**
+(the sweep's **first Arabic** country). **283 candidates staged from ~700 raw hits; 203 dropped, every
+one logged.** Writes confined to `new-queue/` and `sweep/`.
+
+| | queries | found | dropped | staged |
+|---|---|---|---|---|
+| COM | 30 | ~56 | 15 | 41 |
+| CPV | 40 | ~85 | 25 | 60 |
+| DJI | 30 | ~91 | 22 | 47 |
+| DZA | 37 | ~470 | 141 | 135 |
+
+**A platform-wide API incident (529 overload + 401 auth) struck mid-batch and killed six agents** —
+Algeria's newspaper half, both Cape Verde halves, Comoros' newspaper half, and Algeria's journal
+orchestrator plus several of its fan-out staging workers. **Nothing was lost.** The sweep pipeline is
+built for exactly this: a half's `new-queue/` folder *is* its state, so an interrupted run resumes
+cleanly. CC (a) checkpointed all staged files to git, (b) **stopped spawning until the incident cleared**
+rather than throwing agents at a degraded API, (c) wrote the recovery worklist to disk against context
+loss, (d) probed with two canary agents once a timer elapsed, then relaunched the five outstanding halves
+**as single sequential agents — no fan-out**, since the orchestrator→worker fan-out was what amplified the
+failures. Every country completed. **Method lesson recorded:** during an incident, back off and checkpoint;
+recover with flat single agents, not fan-out.
+
+**The recovery completeness-checks earned their keep — they were not just manifest-writing.** Cape Verde's
+journal recovery found the crashed run had **drained only the PR-wire vein and missed the government-policy
+angle entirely**, adding 9 items including a CRVS/**99%-birth-registration** flagship. Algeria's journal
+recovery found **13 missed items — three of them EN-twins the drop log had falsely recorded as staged**,
+direct evidence of workers dying mid-write after logging the FR-twin drop. Comoros' and Cape Verde's paper
+recoveries re-ran their second papers from scratch. Treating "write the missing manifest" as "re-verify the
+half" is why the recovered countries aren't quietly short.
+
+**"Establish thinness, don't assume it" — briefed after last batch's CAR lesson — paid off four times.**
+Every country CC or the ledger expected to be thin was **under-collected, not thin**. **Djibouti**: 47
+staged against a wiki holding only the flagship events — a submarine-cable hub whose national press
+(adi.dj, lanation.dj) was **entirely uncollected**. **Comoros**: "well-covered, not thin," La Gazette
+yielding 14 of 22 paper items. **Cape Verde**: the ledger's "trade-press blind spot" note **confirmed for
+the journals but its papers are a strong primary instrument** — zero CPV URLs held from either paper.
+**Algeria**: 135 staged, the Arabic run working on the first attempt.
+
+**The first Arabic country worked, and its recipe is now recorded.** Arabic N1–N7 (validated on
+echoroukonline.com) plus the gotchas are written into `sweep/query-recipes.md` for the six inheriting
+states (EGY/LBY/MAR/TUN/SDN/MRT). Key findings: **domain-scoping barely holds on Arabic queries** (~1–3
+on-domain hits per 15; the rest government portals, **AI-synthesis blogs that are inadmissible leads**, and
+aggregators — budget for heavy hand-filtering); the **country name collides with the capital** (الجزائر =
+Algeria *and* Algiers); **private papers (Echorouk) print clean Gregorian dates, state dailies (El
+Moudjahid) print none** and must be dated by article-ID interpolation with `date_source: proxy`; no
+Hijri/Eastern-numeral datelines appeared but they **remain a live risk for EGY/LBY/SDN/MRT**. Also recorded:
+the **fixed-8 journals are carried by four outlets for the Maghreb** (wearetech, techreviewafrica,
+techafricanews, telecomreviewafrica); the SSA-four are low-yield supplements — established by probing their
+tag pages, not assumed.
+
+**Most significant finds.** **Algeria** is the richest: a **National Data + AI strategy** and **SNTN-2030**,
+a **dual sovereign data centre inaugurated 2026-07-08 (Huawei-built)**, **5G live across all wilayas** on
+three operators, a **2025–2029 National Cybersecurity Strategy**, the **ANPDP** named (president Samir
+Bourehil) under Decree 26-07, and an **Alger–Moscow cybersecurity MoU** — a Russia vector the wiki's
+China-centric DZA page lacks. **Djibouti**: the **Horizon Fiber** tripartite corridor (Djibouti–Addis–Port
+Sudan, signed 2026-02-04), Wingu Africa's $60m raise, a Startup Act. **Comoros**: both operators' **5G
+launches** (May–June 2025), a **Starlink ban** (ANRTIC, June 2025 — a connectivity-sovereignty flashpoint),
+the **Semlex→GenKey** biometric handover moving citizens' data from Belgium to domestic hosting, and the
+**KomorPay** switch. **Cape Verde**: the **INE statistics-integrity controversy** (technicians alleging GDP
+manipulation since 2016; three INE rebuttals) — a live governance fight invisible to the trade press — plus
+a state SOC/CSIRT and PJ seeking access to national CCTV.
+
+**Contradictions/re-datings flagged for ingest** (candidates, not opened here): Algeria's data-governance
+decree is cited **n°25-320** by two independent papers against the wiki's **25-350**; Djibouti's mobile-ID
+forum dates to **2026-02-08** ("hier") against the held 2026-02-09; Djibouti's digital minister re-dates
+(Mariam Hamadou Ali → Safia Ali Mohamed Gadileh, delegate, 2026-05-22); Comoros' AfDB PADEC envelope
+**€9.51m** (La Gazette) vs held **$10.4m**; Cape Verde's AfDB E-PFMRP phase-2 loan given as **$20.7m** /
+**€17.7m** across two outlets.
+
+**Registers.** **GAP-CPV-001** filed: Cape Verde's **foundational-ID architecture (CNI/SNIAC/Chave Móvel
+Digital) is unsourced in the national press** — it lives only in government primaries outside the paper
+scope; a lead to source those directly as `instrument`/`resource` entities. **ISSUE-014 addendum**: the
+Russia-slug gap is now four countries deep (Algeria's Moscow MoU joins CAR, COG), and **a second bilateral
+gap recurs — the UK** (Algeria DGSN–UK forensics MoU) alongside Korea (Algeria KOICA, Cameroon) — revised
+recommendation is to add `geopol.russia` now and consider a general `geopol.other`/entity-carried convention
+for the bilateral long tail rather than a slug per partner. Two data-quality flags left in frontmatter for
+ingest, not the registers: an invalid `KOR` place code on one pre-staged Echorouk file, and the 25-320/25-350
+decree number.
+
+**Ledger corrections (tier-1, CC's own file).** **COG-style domain fix again**: no — this batch's fix was
+recording that Comoros/Djibouti/Cape Verde national press was entirely uncollected (0 held URLs each). The
+**held-urls.txt rebuild** from the prior batch (1,471 unique, 163 dedup-unsafe entries quarantined) held up:
+every agent this batch grepped candidate→file in the safe direction and reported clean dedup.
+
+**Tooling note for future rolling batches.** Four countries × two halves = eight concurrent agents was within
+tolerance on a healthy API but had no margin when the incident hit; the fan-out staging workers under the
+Algeria journal orchestrator multiplied the blast radius. Recovery ran flat (one agent per half) and was
+robust. For rolling mode, prefer flat agents over orchestrator→worker fan-out.
+
+**Remaining.** 38 countries plus the pan-African pass are `pending`; the pilot trio NGA/SEN/TCD still need
+completion passes.

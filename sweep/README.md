@@ -144,7 +144,14 @@ The standing prompt for a session is simply:
 in flight at once** (subagents, one country each). When a worker finishes
 its country, the orchestrator immediately claims the next `pending` row in
 ledger order and starts a new worker — a continuous pipeline, not fixed
-batches. The roll continues until the ledger has no `pending` rows left,
+batches.
+**Launch workers as background agents**, not as one blocking parallel
+call: a single parallel launch only returns control when the *slowest*
+worker finishes, which silently degrades the roll to fixed batches (a
+small country then sits complete while a big one grinds on). Backgrounded,
+each completion notification lets the orchestrator claim the next row at
+once. If backgrounding is unavailable in the session, fall back to batches
+of 4 and say so in the session summary. The roll continues until the ledger has no `pending` rows left,
 the session hits its limits, or the curator stops it; there is no need to
 state a batch size or country list in the prompt.
 

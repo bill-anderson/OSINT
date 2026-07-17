@@ -120,6 +120,52 @@ trade, ECCAS, IGAD digital initiatives, regional interoperability or roaming
 in Africa, regional instant payment systems (PAPSS), multi-country digital ID
 or payments rollouts, pan-African cable or cloud investments
 
+## Arabic newspaper recipe (N1–N7) — validated on DZA 2026-07-17
+
+For Arabic-language national papers (EGY, LBY, MAR, TUN, SDN, MRT, and the
+Arabic side of DZA). Query shape: `{domain} {Arabic terms} {country in Arabic} 2025 2026`,
+numResults 15, then **hand-filter to the target host** (see gotchas). All seven
+validated against echoroukonline.com — every cluster returned on-domain keepers.
+Include the definite article «ال» on key nouns to match headline style.
+
+- **N1 — Digital ID & registries:** `الهوية الرقمية البطاقة البيومترية الحالة المدنية السجل الوطني للسكان بطاقة التعريف`
+- **N2 — E-gov & data exchange:** `الرقمنة الحكومة الإلكترونية الخدمات العمومية الرقمية التحول الرقمي بوابة`
+- **N3 — Data governance & protection:** `حماية البيانات الشخصية السلطة الوطنية لحماية المعطيات قانون حماية المعطيات الشخصية` *(include the DPA's actual Arabic name — surfaced a keeper the generic phrasing missed)*
+- **N4 — Connectivity & divides:** `الألياف البصرية الإنترنت عالي التدفق الجيل الخامس تغطية الشبكة القمر الصناعي كابل`
+- **N5 — Data centres, cloud & sovereignty:** `مركز البيانات السحابة السيادية السيادة الرقمية استضافة البيانات`
+- **N6 — Payments & digital finance:** `الدفع الإلكتروني الدينار الرقمي التمويل الرقمي البنوك الرقمية اعرف زبونك` *(«اعرف زبونك» = KYC, surfaced a keeper)*
+- **N7 — AI, cyber & skills:** `الذكاء الاصطناعي الأمن السيبراني الجرائم الإلكترونية المهارات الرقمية الابتكار`
+
+**Arabic gotchas:**
+1. **Domain scoping barely holds on Arabic queries — far worse than French.** Expect
+   ~1–3 on-domain hits per 15; the rest are government portals, **AI-synthesis blogs
+   (inadmissible leads — discard)**, and aggregators. Budget for heavy hand-filtering
+   to the target host.
+2. **Country name is ambiguous with the capital** — «الجزائر» = both Algeria and Algiers;
+   «تونس» = both Tunisia and Tunis; etc. Both national and city stories are in-scope; note it.
+3. **Encoding:** URLs are percent-encoded Arabic; `grep -F`/`comm` dedup works on the
+   encoded form, but set `PYTHONIOENCODING=utf-8` (Windows console is cp1252 and crashes on
+   raw Arabic), and `unquote` for human-readable logs.
+4. **Dates:** private papers (Echorouk) print clean Gregorian `YYYY/MM/DD` in Western digits.
+   **State dailies (El Moudjahid, and likely the Egyptian/Libyan/Sudanese state papers) serve
+   no in-body dates** — date by article-ID interpolation, `date_source: proxy`, anchoring to
+   firm events where possible. Watch the "sur le même thème"/multimedia **live-clock widgets**.
+5. **Hijri / Eastern-Arabic-numeral (٠١٢٣) datelines** did NOT appear on the Algerian papers but
+   **remain a live risk for EGY/LBY/SDN/MRT** — convert to Gregorian and record if encountered.
+
+## North Africa journal-instrument note (from DZA 2026-07-17)
+
+The **fixed-8 trade journals are carried by four outlets for the Maghreb** —
+wearetech.africa, techreviewafrica.com, techafricanews.com, telecomreviewafrica.com.
+The four SSA-oriented journals (itweb.africa, techcabal.com, connectingafrica.com,
+biometricupdate.com) are **genuinely thin on Algeria — established by probing their
+tag/section pages, not assumed**: Algeria surfaces mainly in *regional* North-Africa
+pieces (Medusa/cable, Opensignal 5G comparisons) rather than country-tagged news.
+connectingafrica and biometricupdate each still carried one substantive Algeria-specific
+item, so treat the SSA-4 as **low-yield supplements, not coverage**. Egypt/Morocco will
+likely fare better on the SSA-4 (they recur in regional pieces); **LBY/SDN/MRT will be
+even thinner** — expect the papers half to carry those countries.
+
 ## Change log
 
 - 2026-07-17 — initial version, pre-pilot.
@@ -127,3 +173,6 @@ or payments rollouts, pan-African cable or cloud investments
   newspaper queries now language-of-publication first (skip EN on FR/PT/AR-only
   papers); date-verification-at-fetch and techreviewafrica notes added.
   Basis: TCD/SEN/NGA 2025-Q1 pilot.
+- 2026-07-17 (batch COM/CPV/DJI/DZA) — added the **Arabic N1–N7 recipe** and its
+  gotchas (validated on DZA), and the **North Africa journal-instrument note**.
+  Recorded for the six inheriting Arabic/Maghreb states EGY/LBY/MAR/TUN/SDN/MRT.

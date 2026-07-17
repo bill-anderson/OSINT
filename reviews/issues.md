@@ -200,3 +200,11 @@ removes the item here. A short `issues.md` means you're caught up.
   until a second instance appears — one item doesn't warrant a slug, and `finance.mou` + `tech.industry`
   carries it adequately for now. If adopted, the affected staged items should be retagged at ingest
   rather than back-filled across `raw/`. *Decision:* (awaiting). (Surfaced Phase-2 sweep, 2026-07-17.)
+  **Addendum (batch COM/CPV/DJI/DZA, 2026-07-17):** the evidence for `geopol.russia` is now stronger —
+  Algeria staged an **Alger–Moscow cybersecurity MoU** (Positive Technologies × CERIST/Proxylan), a third
+  country after CAR and COG. And a **second bilateral gap** now recurs: **the UK** (Algeria's DGSN–UK
+  Home Office digital-forensics MoU; the earlier Cameroon Korea item, plus an Algeria KOICA cyber track,
+  make Korea the second). So the pattern is broader than Russia alone. *Revised recommend:* add
+  **`geopol.russia`** now (four countries, load-bearing), and consider either **`geopol.uk`**/**`geopol.korea`**
+  or a general **`geopol.other`** + entity-carried convention for the long tail of bilaterals — a cleaner
+  fix than minting a slug per partner state. Still the human's call; CC continues tagging around it.

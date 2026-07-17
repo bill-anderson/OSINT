@@ -454,3 +454,12 @@ in the same batch and is now held; instrument upgraded stub→active. See log.md
 - **GAP-ZWE-005 · The ZIMRA/TaRMS page is undated.** Only "post-February 2024" is established; the year on
   file is the clipper's inference from a news-ID sequence, so it is held year-precision proxy and the
   prefix is padding. *Lead: establish the date, or accept the proxy openly.* (Surfaced ingest, 2026-07-17.)
+
+- **GAP-CPV-001 · Cape Verde's foundational-ID architecture is unsourced in the national press.** The CPV
+  papers sweep (the country's primary instrument, trade press being a blind spot) covered the *politics and
+  events* of digital transformation well — cybersecurity, statistics integrity, data protection, telecoms,
+  the innovation scene — but found **no in-window newspaper article on the foundational digital-ID system
+  itself**: the CNI, SNIAC, or Chave Móvel Digital. That record exists only in primary/government sources
+  (gov.cv, sniac.cv, NOSi/IGRP) outside the two-paper scope. *Lead: source the CNI/SNIAC/Chave Móvel Digital
+  architecture directly from the government primaries as `instrument`/`resource` entities — the papers will
+  not supply it.* (Surfaced Phase-2 sweep, 2026-07-17.)
