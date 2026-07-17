@@ -168,3 +168,123 @@ Month-slicing:
 - 15 sliced queries run (techcabal x3, techafricanews x3, itweb.africa x3, wearetech.africa x3 - combined J1+J2 phrasing per month; thisdaylive NIMC/NIN focus x3).
 - Slicing was triggered not by classic saturation (no base query returned >50% in-window) but by recency-swamping: base J1/J2 queries on high-volume domains returned almost no Q1-2025 items (techcabal 1, techafricanews 2 of 50). Month-named slices recovered the bulk of the window: techcabal went from 1 to ~35 in-window candidates, techafricanews from 2 to ~40, itweb from 4 to ~35, wearetech from ~10 to ~35.
 - Real cost: +15 queries (50% over the 30-query base), ~5 minutes wall-clock; without slicing roughly two-thirds of the staged items from those four domains would have been missed.
+
+---
+
+Sweep completion pass NGA - window 2025-04-01..2026-07-17 - run 2026-07-17 (115 new items appended; Q1 pilot items above unchanged)
+
+2025-04-02 | infra.store | ITWeb Africa | Equinix unveils new LG2.3 data centre expansion in Nigeria | completion-pass 2025-04..2026-07; not in Q1 holdings
+2025-04-03 | capacity.training, finance.mou | We Are Tech Africa | NITDA partners with Doballi to boost employment for Nigerian tech talents | completion-pass 2025-04..2026-07; not in Q1 holdings
+2025-04-15 | dpi.exchange, gov.standards, dpi.id, dpi.pay | Biometric Update | Nigeria's IT agency seeks feedback on draft technical standards for DPI | completion-pass 2025-04..2026-07; not in Q1 holdings
+2025-04-22 | dpi.id | Biometric Update | Nigeria adds 1M digital IDs as efforts to meet new target advance (118.4m NIN) | completion-pass 2025-04..2026-07; not in Q1 holdings
+2025-04-24 | infra.connect | TechAfrica News | IXPN hits 1Tbps traffic milestone, boosting Nigeria's digital growth | completion-pass 2025-04..2026-07; not in Q1 holdings
+2025-04-29 | dpi.pay, gov.policy, dpi.exchange | TechCabal | Nigeria's open banking to launch in August after four-year wait (CBN approval) | completion-pass 2025-04..2026-07; not in Q1 holdings
+2025-04-30 | gov.protect, dpi.exchange | Vanguard | Nigeria joins global cross-border privacy (CBPR) forum | completion-pass 2025-04..2026-07; not in Q1 holdings
+2025-05-06 | gov.protect, capacity.training | ITWeb Africa | Mastercard, NDPC target data protection in Nigeria's informal sector | completion-pass 2025-04..2026-07; not in Q1 holdings
+2025-05-07 | dpi.id, gov.protect | Biometric Update | Nigeria unveils NINAuth platform to streamline national ID authentication, verification | completion-pass 2025-04..2026-07; not in Q1 holdings
+2025-05-07 | gov.protect, capacity.training | ITWeb Africa | Nigeria debuts Virtual Privacy Academy | completion-pass 2025-04..2026-07; not in Q1 holdings
+2025-05-09 | dpi.pay, gov.legislate | TechCabal | What the Investments and Securities Act 2025 means for Nigeria's crypto ecosystem | completion-pass 2025-04..2026-07; not in Q1 holdings
+2025-05-09 | tech.innovate, geopol.china, tech.ai | ITWeb Africa | Huawei Nigeria opens innovation centre in Lagos | completion-pass 2025-04..2026-07; not in Q1 holdings
+2025-05-13 | dpi.pay, dpi.id | Vanguard | CBN launches Non-Resident BVN (diaspora BVN) platform | completion-pass 2025-04..2026-07; not in Q1 holdings
+2025-05-18 | infra.connect, finance.new, capacity.training | Vanguard | FG to roll out $2bn fibre optic infrastructure nationwide by Q4 2025 — Tijani (Project Bridge) | completion-pass 2025-04..2026-07; not in Q1 holdings
+2025-05-20 | infra.connect, finance.new | ThisDay | FG: Rollout of N3.3tn 90,000km fibre lines, 7,000 telecom towers begins Q4 2025 | completion-pass 2025-04..2026-07; not in Q1 holdings
+2025-05-28 | dpi.exchange, gov.policy, dpi.id, dpi.pay | ThisDay | FG inaugurates Presidential Committee on Implementation of Digital Public Infrastructure | completion-pass 2025-04..2026-07; not in Q1 holdings
+2025-05-28 | infra.cybersec, capacity.research | TechAfrica News | Nigeria commissions National Cybersecurity Centre at Bayero University, Kano | completion-pass 2025-04..2026-07; not in Q1 holdings
+2025-05-30 | infra.connect | ITWeb Africa | 9mobile secures NCC approval for national roaming on MTN network | completion-pass 2025-04..2026-07; not in Q1 holdings
+2025-06-05 | infra.cybersec, gov.policy | TechAfrica News | NCC initiates comprehensive cybersecurity framework to protect Nigeria's communications sector | completion-pass 2025-04..2026-07; not in Q1 holdings
+2025-06-10 | tech.innovate, gov.policy | TechCabal | Inside Itana, Nigeria's first digital free zone | completion-pass 2025-04..2026-07; not in Q1 holdings
+2025-06-11 | dpi.pay, infra.connect, gov.policy | TechCabal | NCC, CBN approve new USSD End User Billing model, ending telco-bank dispute | completion-pass 2025-04..2026-07; not in Q1 holdings
+2025-06-12 | dpi.id, dpi.registry, tech.ai, include.access | Biometric Update | Nigeria amplifies efforts to ID prisoners, expand social register (13m to 19.7m via AI) | completion-pass 2025-04..2026-07; not in Q1 holdings
+2025-06-17 | dpi.id, dpi.pay | ThisDay | CREDICORP to link citizens' credit scores to NIN for a centralised credit bureau | completion-pass 2025-04..2026-07; not in Q1 holdings
+2025-06-19 | tech.innovate, finance.mou | TechAfrica News | Nigeria signs agreement with Japanese consortium for $51.2 million startup hub project | completion-pass 2025-04..2026-07; not in Q1 holdings
+2025-06-20 | infra.connect, data.satellite, geopol.china | ITWeb Africa | Nigeria (NASRDA) partners China's Galaxy Space to deploy direct-to-device satellite connectivity | completion-pass 2025-04..2026-07; not in Q1 holdings
+2025-06-25 | digital.localgov, dpi.registry, include.access | We Are Tech Africa | Lagos unveils digital house-numbering system (Lagos Identity Project) | completion-pass 2025-04..2026-07; not in Q1 holdings
+2025-06-25 | infra.cybersec, dpi.id | Vanguard | Nigeria faces rising synthetic ID fraud despite fall in traditional methods (Sumsub Q1 2025) | completion-pass 2025-04..2026-07; not in Q1 holdings
+2025-06-30 | tech.ai, digital.localgov, dpi.govtech | TechCabal | Anambra builds AI model (SmartGov Suite) to track local government spending, identify ghost workers | completion-pass 2025-04..2026-07; not in Q1 holdings
+2025-07-01 | infra.store, tech.ai | ITWeb Africa | MTN unveils $240m Sifiso Dabengwa data centre in Lagos | completion-pass 2025-04..2026-07; not in Q1 holdings
+2025-07-03 | dpi.id, infra.connect | TechCabal | SIM registration halted as NIMC migrates to new identity platform | completion-pass 2025-04..2026-07; not in Q1 holdings
+2025-07-25 | tech.ai, geopol.usa, capacity.research | We Are Tech Africa | Google commits $37m to Africa's AI future (Accra; incl. Masakhane African languages hub) | completion-pass 2025-04..2026-07; not in Q1 holdings
+2025-07-30 | dpi.pay, include.access | ITWeb Africa | Fintech fuels $193 billion Q1 2025 digital payments in Nigeria (NIBSS) | completion-pass 2025-04..2026-07; not in Q1 holdings
+2025-08-01 | infra.cybersec, gov.legislate | Vanguard | How misuse of Cybercrime Act cost Nigeria N1.1trn in 7 years | completion-pass 2025-04..2026-07; not in Q1 holdings
+2025-08-07 | infra.connect, infra.cybersec | Vanguard | NCC, telcos raise alarm as Nigeria records over 1,000 fibre cuts weekly | completion-pass 2025-04..2026-07; not in Q1 holdings
+2025-08-07 | infra.store, tech.ai | TechAfrica News | Airtel Nigeria to build 38MW hyperscale data centre (Nxtra) in Eko Atlantic | completion-pass 2025-04..2026-07; not in Q1 holdings
+2025-08-25 | dpi.id | Biometric Update | Nigeria must issue 59M digital IDs in 18 months to meet World Bank target | completion-pass 2025-04..2026-07; not in Q1 holdings
+2025-08-25 | gov.policy, infra.connect | ITWeb Africa | Nigeria abolishes 5% excise duty on telecom services | completion-pass 2025-04..2026-07; not in Q1 holdings
+2025-08-25 | gov.protect, gov.legislate | TechAfrica News | NDPC probes 1,369 organisations in major data privacy crackdown | completion-pass 2025-04..2026-07; not in Q1 holdings
+2025-08-27 | dpi.pay, gov.standards | TechAfrica News | CBN mandates POS geo-tagging and ISO 20022 migration for payments | completion-pass 2025-04..2026-07; not in Q1 holdings
+2025-08-28 | dpi.exchange, gov.policy, dpi.govtech | We Are Tech Africa | Nigeria to launch National Data Exchange Platform (NGDX) by end-2025 | completion-pass 2025-04..2026-07; not in Q1 holdings
+2025-09-02 | gov.regional, capacity.training, tech.ai | Vanguard | Nigeria, Cabo Verde launch first Digital Africa Corridor pilot | completion-pass 2025-04..2026-07; not in Q1 holdings
+2025-09-04 | gov.legislate, dpi.pay, gov.protect | Vanguard | FCCPC issues DEON digital lending regulations to tackle abuses | completion-pass 2025-04..2026-07; not in Q1 holdings
+2025-09-08 | infra.connect, dpi.id | TechAfrica News | NCC report shows 169m active telecom subscriptions, broadband penetration 48% (July 2025) | completion-pass 2025-04..2026-07; not in Q1 holdings
+2025-09-10 | dpi.govtech, infra.store, dpi.exchange | ITWeb Africa | Nigeria commences full rollout of sovereign 1Gov cloud (Galaxy Backbone) | completion-pass 2025-04..2026-07; not in Q1 holdings
+2025-09-15 | infra.connect | TechCabal | Starlink pauses new orders in parts of Lagos and Abuja over congestion | completion-pass 2025-04..2026-07; not in Q1 holdings
+2025-09-16 | dpi.id | Vanguard | Over 126 million Nigerians now captured on NIMC database — Tinubu | completion-pass 2025-04..2026-07; not in Q1 holdings
+2025-09-22 | tech.ai, capacity.research | We Are Tech Africa | Nigeria launches N-ATLAS, an AI language model in Yoruba, Igbo, Hausa and Nigerian English | completion-pass 2025-04..2026-07; not in Q1 holdings
+2025-10-07 | tech.innovate, finance.new, infra.connect | We Are Tech Africa | Nigeria plans $10bn tech hub in Katsina; World Bank approves $500m for BRIDGE fibre project | completion-pass 2025-04..2026-07; not in Q1 holdings
+2025-10-08 | infra.connect, infra.cybersec | TechCabal | Nigeria's telcos hit by 19,000 fibre cuts in eight months (NCC) | completion-pass 2025-04..2026-07; not in Q1 holdings
+2025-10-09 | dpi.pay | ITWeb Africa | Nigerian e-payments hit $256bn by July 2025 (CBN) | completion-pass 2025-04..2026-07; not in Q1 holdings
+2025-10-10 | dpi.id, dpi.mis, include.access | TechAfrica News | Nigeria signs MoU to integrate digital identity into national health system (NIMC-NHIA) | completion-pass 2025-04..2026-07; not in Q1 holdings
+2025-10-10 | gov.standards, infra.cybersec, gov.protect | TechAfrica News | Nigeria (NITDA) launches Digital Trustmark Initiative | completion-pass 2025-04..2026-07; not in Q1 holdings
+2025-10-10 | infra.connect, include.access | TechAfrica News | MTN Nigeria unveils plan to connect 8 million homes with fibre by 2028 | completion-pass 2025-04..2026-07; not in Q1 holdings
+2025-10-22 | include.divides, infra.connect | Vanguard | Only 23% of rural communities have internet access in Nigeria — NCC | completion-pass 2025-04..2026-07; not in Q1 holdings
+2025-10-22 | infra.connect, geopol.china | TechAfrica News | MTN Nigeria and Huawei launch nation's first 400G/800G hybrid optical network in Lagos | completion-pass 2025-04..2026-07; not in Q1 holdings
+2025-10-31 | dpi.id, gov.protect | TechAfrica News | Nigeria unveils NINAuth app for secure, user-controlled data access | completion-pass 2025-04..2026-07; not in Q1 holdings
+2025-11-03 | dpi.pay, infra.cybersec, gov.legislate | Vanguard | SEC, CBN, EFCC partner to track, freeze illicit digital wallets | completion-pass 2025-04..2026-07; not in Q1 holdings
+2025-11-10 | dpi.pay, dpi.exchange, gov.standards | ThisDay | NIBSS executes first transaction on National Payment Stack (NPS) | completion-pass 2025-04..2026-07; not in Q1 holdings
+2025-11-10 | infra.store | TechCabal | Equinix to build $22 million LG3 data centre in Lagos | completion-pass 2025-04..2026-07; not in Q1 holdings
+2025-11-11 | dpi.id, gov.legislate, infra.cybersec | Vanguard | NCC moves to end pre-registered SIM cards, tighten telecom regulations | completion-pass 2025-04..2026-07; not in Q1 holdings
+2025-11-11 | gov.legislate, gov.policy, dpi.govtech | TechCabal | Nigeria's National Digital Economy and E-Governance Bill hands sweeping powers to NITDA | completion-pass 2025-04..2026-07; not in Q1 holdings
+2025-11-20 | tech.ai, gov.legislate | TechCabal | Nigeria's AI bill puts control first, but at what cost to innovation? | completion-pass 2025-04..2026-07; not in Q1 holdings
+2025-11-28 | dpi.id, gov.regional | Vanguard | FG unveils ECOWAS National Biometric Identity Card (ENBIC) | completion-pass 2025-04..2026-07; not in Q1 holdings
+2025-11-28 | tech.ai, capacity.training, geopol.usa | Vanguard | Google launches N3bn programme to train Nigerians on AI, digital safety | completion-pass 2025-04..2026-07; not in Q1 holdings
+2025-12-08 | infra.store | TechCabal (Partner/Press Room) | Nigeria's data centre capacity set to grow 6x to 400MW by 2030 (Verraki report) | completion-pass 2025-04..2026-07; not in Q1 holdings
+2025-12-12 | finance.new, geopol.eu, infra.connect | TechAfrica News | EU announces €45m investment to boost Nigeria's connectivity and digital services | completion-pass 2025-04..2026-07; not in Q1 holdings
+2025-12-21 | infra.connect | Vanguard | Nigeria's telecom subscriptions rise to 175.3m as broadband penetration hits 49.89% (October, NCC) | completion-pass 2025-04..2026-07; not in Q1 holdings
+2025-12-23 | dpi.pay, gov.regional | Vanguard | Nigeria leads as Africa's instant payment transactions hit $2tn — SIIPS 2025 | completion-pass 2025-04..2026-07; not in Q1 holdings
+2025-12-24 | infra.connect, include.access | TechCabal | Nigeria's internet penetration crosses 50% (November 2025), short of 70% target | completion-pass 2025-04..2026-07; not in Q1 holdings
+2025-12-31 | dpi.id, infra.connect | TechCabal | Nigeria extends SIM-style biometric rules to Starlink subscribers (66,000 users) | completion-pass 2025-04..2026-07; not in Q1 holdings
+2026-01-12 | dpi.pay, dpi.id, gov.legislate | TechCabal | Nigeria ties crypto to tax via TIN and NIN (NTAA 2025, aligning with OECD CARF) | completion-pass 2025-04..2026-07; not in Q1 holdings
+2026-01-14 | tech.ai, gov.legislate | ITWeb Africa | Nigeria plans to introduce AI regulations (risk-based framework in Digital Economy Bill) | completion-pass 2025-04..2026-07; not in Q1 holdings
+2026-01-15 | dpi.govtech, gov.policy | We Are Tech Africa | Nigeria taps Denmark's cBrain (F2 platform) to accelerate e-government reforms | completion-pass 2025-04..2026-07; not in Q1 holdings
+2026-01-15 | dpi.pay, gov.policy, finance.new | Vanguard | FG directs banks, fintechs to collect 7.5% VAT on electronic banking fees | completion-pass 2025-04..2026-07; not in Q1 holdings
+2026-01-15 | infra.connect, data.satellite, geopol.usa | TechAfrica News | NCC grants landing permit to Amazon's Project Kuiper for satellite operations in Nigeria | completion-pass 2025-04..2026-07; not in Q1 holdings
+2026-01-30 | infra.connect, finance.new, gov.policy | TechCabal | Nigeria to hold 49% (minority) stake in World Bank-backed $2bn BRIDGE fibre project | completion-pass 2025-04..2026-07; not in Q1 holdings
+2026-02-04 | dpi.pay, gov.regional | TechAfrica News | Onafriq and PAPSS launch Africa's first instant naira wallet payments from Nigeria to Ghana | completion-pass 2025-04..2026-07; not in Q1 holdings
+2026-02-05 | infra.store, tech.ai | TechCabal | A first look at Kasi Cloud's 100MW AI data centre in Lagos | completion-pass 2025-04..2026-07; not in Q1 holdings
+2026-02-06 | gov.protect, gov.regional | ThisDay | NCC, NDPC sign MoU to enhance data protection in telecoms sector | completion-pass 2025-04..2026-07; not in Q1 holdings
+2026-02-12 | infra.connect, gov.regional, finance.mou | Telecom Review Africa | Nigeria and Equatorial Guinea sign landmark subsea fibre-optic agreement | completion-pass 2025-04..2026-07; not in Q1 holdings
+2026-02-16 | gov.protect, dpi.exchange | Vanguard | NDPC probes Temu over alleged data protection violations | completion-pass 2025-04..2026-07; not in Q1 holdings
+2026-02-17 | finance.new, infra.connect | TechCabal | Nigeria telecoms foreign investment rebounds to highest since 2019 | completion-pass 2025-04..2026-07; not in Q1 holdings
+2026-02-18 | infra.connect, gov.policy | TechAfrica News | Nigeria moves to evaluate strategic impact of MTN–IHS Towers transaction | completion-pass 2025-04..2026-07; not in Q1 holdings
+2026-02-23 | gov.protect, gov.legislate | ITWeb Africa | Nigeria (NDPC) probes over 1,000 schools over data privacy compliance | completion-pass 2025-04..2026-07; not in Q1 holdings
+2026-02-26 | finance.new, geopol.eu, infra.connect | TechAfrica News | Project BRIDGE secures $100m from EBRD and €22m EU grant | completion-pass 2025-04..2026-07; not in Q1 holdings
+2026-03-05 | infra.cybersec, gov.standards | TechAfrica News | NCC mandates 4-hour cyber incident reporting for telecom operators (CRF-NCS) | completion-pass 2025-04..2026-07; not in Q1 holdings
+2026-03-05 | infra.store, tech.ai | TechAfrica News | Cassava Technologies launches National Sovereign Cloud to power AI for governments | completion-pass 2025-04..2026-07; not in Q1 holdings
+2026-03-10 | infra.connect, include.access | TechCabal | Nigeria's internet penetration hits record 53% in January 2026 | completion-pass 2025-04..2026-07; not in Q1 holdings
+2026-03-12 | dpi.pay, infra.cybersec, gov.standards | TechAfrica News | CBN mandates automated AML systems across Nigerian financial institutions | completion-pass 2025-04..2026-07; not in Q1 holdings
+2026-03-24 | tech.ai, geopol.china, infra.cybersec | ITWeb Africa | Nigeria leads Africa in $470m AI surveillance spend (IDS report) | completion-pass 2025-04..2026-07; not in Q1 holdings
+2026-03-25 | infra.cybersec, finance.mou, dpi.govtech | ITWeb Africa | Finland, Nigeria sign MoU on digitalisation and cybersecurity | completion-pass 2025-04..2026-07; not in Q1 holdings
+2026-03-27 | dpi.govtech, gov.standards | TechAfrica News | NITDA takes over Nigeria Government Enterprise Architecture (NGEA) from KOICA | completion-pass 2025-04..2026-07; not in Q1 holdings
+2026-04-07 | gov.protect, infra.cybersec | TechAfrica News | NDPC investigates Remita and Sterling Bank over alleged data breach | completion-pass 2025-04..2026-07; not in Q1 holdings
+2026-04-14 | infra.connect, finance.new | Connecting Africa | AfDB approves $200m for Nigeria's Project BRIDGE (D-VIBE) fibre expansion | completion-pass 2025-04..2026-07; not in Q1 holdings
+2026-04-21 | dpi.pay, dpi.id, infra.cybersec | TechCabal | CBN and NCC sign MoU (TIRMS) to share telecom data with banks for fraud checks | completion-pass 2025-04..2026-07; not in Q1 holdings
+2026-05-02 | infra.cybersec, gov.protect, infra.store | Vanguard | NDPC: 4,000 weekly cyberattacks push data localisation, stricter compliance | completion-pass 2025-04..2026-07; not in Q1 holdings
+2026-05-05 | infra.store, tech.innovate | TechAfrica News | Galaxy Backbone partners ONDI to deliver subsidised sovereign cloud for Nigerian startups | completion-pass 2025-04..2026-07; not in Q1 holdings
+2026-05-06 | infra.cybersec, infra.store | Vanguard | Cybercrime surge hits Nigeria's digital economy as losses hit N12bn annually (NDPC) | completion-pass 2025-04..2026-07; not in Q1 holdings
+2026-05-26 | dpi.id, gov.regional, dpi.exchange, dpi.pay | Biometric Update | Nigeria, Kenya, Morocco selected for AfCFTA digital identity and DPI rollout (ADAPT) | completion-pass 2025-04..2026-07; not in Q1 holdings
+2026-05-28 | infra.store, tech.ai | TechAfrica News | Kasi Cloud flags off West Africa's first AI-ready hyperscale data centre (LOS1) in Lagos | completion-pass 2025-04..2026-07; not in Q1 holdings
+2026-06-08 | dpi.id, infra.store | Vanguard | Nigeria loses $850m annually to digital identity neglect, stakeholders warn (NiRA) | completion-pass 2025-04..2026-07; not in Q1 holdings
+2026-06-09 | dpi.pay, tech.ai, infra.cybersec | TechAfrica News | Nigeria's central bank launches AI-driven system to detect financial fraud in real time | completion-pass 2025-04..2026-07; not in Q1 holdings
+2026-06-10 | infra.store, geopol.china | ITWeb Africa | 21st Century Technologies–China Mobile pact puts Nigeria step closer to data sovereignty | completion-pass 2025-04..2026-07; not in Q1 holdings
+2026-06-17 | dpi.pay, gov.policy | TechAfrica News | CBN launches Payments System Vision 2028 (PSV 2028) | completion-pass 2025-04..2026-07; not in Q1 holdings
+2026-06-17 | infra.store, gov.protect, dpi.pay | ThisDay | CBN orders banks, fintechs to disclose beneficial owners, localise payments data by 2027 | completion-pass 2025-04..2026-07; not in Q1 holdings
+2026-06-25 | dpi.pay, tech.ai | TechCabal | Paystack launches AI-powered checkout (Paystack Index) for Nigerian consumers | completion-pass 2025-04..2026-07; not in Q1 holdings
+2026-06-27 | dpi.id, gov.legislate | ThisDay | Tinubu signs new NIMC Act 2026, gives Nigeria single digital identity framework | completion-pass 2025-04..2026-07; not in Q1 holdings
+2026-06-28 | infra.connect | Vanguard | Nigeria's telecom subscriptions rise to 188m as broadband penetration hits 55.67% (April, NCC) | completion-pass 2025-04..2026-07; not in Q1 holdings
+2026-07-07 | finance.new, infra.connect | TechAfrica News | IFC provides $150 million to Airtel Africa to expand digital infrastructure | completion-pass 2025-04..2026-07; not in Q1 holdings
+2026-07-08 | dpi.id | ThisDay | NIMC enrols over 136m Nigerians as new NIMC Act 2026 takes effect | completion-pass 2025-04..2026-07; not in Q1 holdings
+2026-07-08 | gov.legislate, gov.policy | TechAfrica News | Nigeria suspends new digital platform rules pending unified regulatory framework | completion-pass 2025-04..2026-07; not in Q1 holdings
+2026-07-08 | tech.ai, gov.legislate | TechAfrica News | Nigeria (FCCPC) probes Meta, Google, X and AI platforms over exploitation of Nigerian media content | completion-pass 2025-04..2026-07; not in Q1 holdings
+2026-07-15 | dpi.id, dpi.exchange | Vanguard | Why Nigeria's national database is still fragmented despite NIMC's claims | completion-pass 2025-04..2026-07; not in Q1 holdings
+2026-07-16 | dpi.id, dpi.govtech, infra.cybersec | ThisDay | NIMC assumes digital signature role as Nigeria's certification authority | completion-pass 2025-04..2026-07; not in Q1 holdings
+2026-07-16 | dpi.id, gov.standards | Biometric Update | Nigeria achieves full ICAO PKD integration for its biometric passport | completion-pass 2025-04..2026-07; not in Q1 holdings
