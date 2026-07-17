@@ -7,7 +7,7 @@ topics: [gov.policy, dpi.exchange, gov.protect, infra.store]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-15
-sources: [[raw/2026-02-10 Algeria launches national public-data governance framework (Decree 25-350)]]
+sources: [[2026-02-10 Algeria launches national public-data governance framework (Decree 25-350)]]
 ---
 
 # Algeria National Data Governance Framework (Presidential Decree 25-350)

@@ -7,7 +7,7 @@ topics: [dpi.govtech, dpi.id, dpi.exchange]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-15
-sources: [[raw/2026-03-03 Cabo Verde and CAR launch digital government platforms (Gov.CV)]]
+sources: [[2026-03-03 Cabo Verde and CAR launch digital government platforms (Gov.CV)]]
 ---
 
 # Gov.CV (Cabo Verde unified government portal)

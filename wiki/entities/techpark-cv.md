@@ -7,7 +7,7 @@ topics: [infra.store, gov.policy, dpi.govtech]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-15
-sources: [[raw/2025-05-14 Cabo Verde unveils TechPark CV tech-islands vision ($50m AfDB)], [raw/2025-05-16 Cabo Verde opens Mindelo TechPark CV campus ($58M)]]
+sources: [[2025-05-14 Cabo Verde unveils TechPark CV tech-islands vision ($50m AfDB)], [raw/2025-05-16 Cabo Verde opens Mindelo TechPark CV campus ($58M)]]
 ---
 
 # TechPark CV

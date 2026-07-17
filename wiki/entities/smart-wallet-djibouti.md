@@ -7,7 +7,7 @@ topics: [dpi.pay, dpi.id, finance.mou, include.access]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-15
-sources: [[raw/2025-09-19 Djibouti-Visa Smart Wallet national digital wallet MoU]]
+sources: [[2025-09-19 Djibouti-Visa Smart Wallet national digital wallet MoU]]
 ---
 
 # Smart Wallet (Djibouti national digital wallet)

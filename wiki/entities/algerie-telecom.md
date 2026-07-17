@@ -7,7 +7,7 @@ topics: [infra.connect, infra.store, include.divides]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-15
-sources: [[raw/2026-02-18 Algeria Telecom plans 345 new 4G stations nationwide], [raw/2025-12-04 Algeria cloud and data-centre market to reach $450m by 2035]]
+sources: [[2026-02-18 Algeria Telecom plans 345 new 4G stations nationwide], [raw/2025-12-04 Algeria cloud and data-centre market to reach $450m by 2035]]
 ---
 
 # Algérie Télécom

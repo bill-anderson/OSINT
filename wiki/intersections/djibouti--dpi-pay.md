@@ -9,7 +9,7 @@ entities: [[smart-wallet-djibouti], [visa], [tech5], [djibouti-telecom]]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-15
-sources: [[raw/2025-09-19 Djibouti-Visa Smart Wallet national digital wallet MoU], [raw/2021-12-11 Djibouti Telecom extends D-Money mobile payments to ports]]
+sources: [[2025-09-19 Djibouti-Visa Smart Wallet national digital wallet MoU], [raw/2021-12-11 Djibouti Telecom extends D-Money mobile payments to ports]]
 ---
 
 # Djibouti × Digital Payments

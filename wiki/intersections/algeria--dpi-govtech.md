@@ -9,7 +9,7 @@ entities: [[dzair-services], [amlak], [high-commission-digitalisation-algeria], 
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-15
-sources: [[raw/2025-10-17 Algeria launches Dzair Services single-window public-services platform], [raw/2026-01-13 Algeria begins nationwide rollout of AMLAK electronic land system], [raw/2025-12-02 AI in government - Algeria's HCD and National AI Strategy], [raw/2025-01-01 e-Municipalities in Algeria within the e-Government Strategy (Billeh)]]
+sources: [[2025-10-17 Algeria launches Dzair Services single-window public-services platform], [raw/2026-01-13 Algeria begins nationwide rollout of AMLAK electronic land system], [raw/2025-12-02 AI in government - Algeria's HCD and National AI Strategy], [raw/2025-01-01 e-Municipalities in Algeria within the e-Government Strategy (Billeh)]]
 ---
 
 # Algeria × GovTech / e-Government

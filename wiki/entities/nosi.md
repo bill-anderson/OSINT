@@ -7,7 +7,7 @@ topics: [dpi.govtech, dpi.id, dpi.exchange, gov.policy]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-15
-sources: [[raw/2024-01-01 Cabo Verde targets 60pct of vital public services online by 2026 (NOSi)], [raw/2025-10-31 Cabo Verde launches national SOC and CSIRT]]
+sources: [[2024-01-01 Cabo Verde targets 60pct of vital public services online by 2026 (NOSi)], [raw/2025-10-31 Cabo Verde launches national SOC and CSIRT]]
 ---
 
 # NOSi (Núcleo Operacional da Sociedade de Informação)

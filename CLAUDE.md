@@ -47,6 +47,8 @@ AU entity plus the affected countries, not to a geographic region.
 
 ```
 new/                      # unprocessed intake queue — clips land here; drained on ingest
+new-queue/                # sweep candidates awaiting human review — only the human promotes to new/
+sweep/                    # Phase-2 acquisition sweep: procedure, query recipes, ledger, drop logs
 raw/                      # admitted sources, flat — immutable after ingest, never edited
   2026-06-16-cassava-nvidia-deal.md
 _leads/                   # parked non-source material (AI syntheses etc.) to mine, not compile
@@ -392,6 +394,28 @@ queue means routing each item to its correct destination.
     adding the `YYYY-MM-DD` prefix from its `published` date if not already
     present (see Filenames). For a binary artefact, ensure its companion source
     page and the artefact share the prefix.
+
+## Sweep intake (`new-queue/` and `sweep/`)
+
+*(Curator directive, 2026-07-17.)* The **Phase 2 acquisition sweep** back-fills
+press coverage since 2025-01-01 (two national newspapers per country + eight
+trade journals, via Exa). Full procedure, query recipes and progress ledger:
+**`sweep/README.md`**. The rules that bind here:
+
+- The sweep is *upstream* of the wiki. It writes **only** to `new-queue/`
+  (candidate source files with best-effort frontmatter, one folder per place
+  code, each with a `MANIFEST.md`) and to `sweep/` (ledger, drop logs). It
+  never writes to `new/`, `raw/`, or any `wiki/` page.
+- **Only the human promotes** items from `new-queue/` to `new/`; from there the
+  standard filing rules above apply unchanged. `new/ → raw/` via ingest remains
+  the only door into the wiki.
+- Sweep-time dedup against holdings is **conservative** (exact URL or confident
+  same-outlet re-crawl only), and every drop is logged to
+  `sweep/drop-log-{ISO3}.csv` — nothing is discarded silently. The aggressive
+  pass is the post-ingest duplicate lint (#7), with full text in hand.
+- The admissibility screen and the `published`-date discipline (fallback chain,
+  `date_source: proxy`, `date_precision`) apply at fetch/staging time exactly as
+  at ingest; staged candidates carry `retrieved:` but never `ingested:`.
 
 ## Currency discipline
 

@@ -7,7 +7,7 @@ topics: [gov.protect, gov.legislate, dpi.exchange]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-15
-sources: [[raw/2026-02-11 Egypt finalises Executive Regulations to the PDPL (Decree 816-2025)], [raw/2025-09-02 Egyptian court judgment tightens data-protection enforcement (Orange Egypt)], [raw/2025-06-21 Regulating Privacy and Digital Identities in the Age of AI - the View from Egypt (Cairo Review)]]
+sources: [[2026-02-11 Egypt finalises Executive Regulations to the PDPL (Decree 816-2025)], [raw/2025-09-02 Egyptian court judgment tightens data-protection enforcement (Orange Egypt)], [raw/2025-06-21 Regulating Privacy and Digital Identities in the Age of AI - the View from Egypt (Cairo Review)]]
 ---
 
 # Egypt Personal Data Protection Law (Law 151/2020 + Executive Regs 816/2025)

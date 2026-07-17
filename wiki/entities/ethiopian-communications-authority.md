@@ -7,7 +7,7 @@ topics: [gov.protect, infra.connect, gov.legislate]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-15
-sources: [[raw/2024-11-18 Review of Ethiopia's Data Protection Act], [raw/2025-11-15 One year on - Ethiopia's data protection law faces slow enforcement]]
+sources: [[2024-11-18 Review of Ethiopia's Data Protection Act], [raw/2025-11-15 One year on - Ethiopia's data protection law faces slow enforcement]]
 ---
 
 # Ethiopian Communications Authority (ECA)

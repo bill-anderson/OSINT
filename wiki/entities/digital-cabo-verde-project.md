@@ -7,7 +7,7 @@ topics: [dpi.govtech, gov.policy, gov.protect, infra.store]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-15
-sources: [[raw/2025-05-02 WB Project Paper - Digital Cabo Verde Project Additional Financing], [raw/2025-01-01 Cabo Verde MoF - ToR National Governance Framework for Digital Transformation], [raw/2024-10-23 Digital Transformation in Cabo Verde - The New Horizon (World Bank)]]
+sources: [[2025-05-02 WB Project Paper - Digital Cabo Verde Project Additional Financing], [raw/2025-01-01 Cabo Verde MoF - ToR National Governance Framework for Digital Transformation], [raw/2024-10-23 Digital Transformation in Cabo Verde - The New Horizon (World Bank)]]
 ---
 
 # Digital Cabo Verde Project (World Bank)

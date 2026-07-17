@@ -6,224 +6,307 @@ parent: XSA
 place_kind: country
 topics: [dpi.govtech, dpi.id, dpi.registry, dpi.pay, gov.standards, tech.industry, infra.store, infra.energy, infra.connect, tech.ai, gov.policy, gov.protect, gov.legislate, infra.cybersec, dpi.exchange, data.open, data.statistics, geopol.usa, geopol.eu, geopol.china, gov.regional, finance.new, infra.capacity, capacity.training, capacity.literacy, capacity.research, include.access, include.divides, digital.rural, geopol.gulf, data.satellite]
 status: active
-last_reviewed: 2026-07-14
+last_reviewed: 2026-07-17
 ---
 
 # South Africa (ZAF)
 
+The continent's digital anchor: **~70% of Africa's digital-infrastructure capacity**, its data-centre
+hub (**56 facilities, ~41% of the African market**, 2026-05), first in Africa on the **UN EGDI —
+rank 65 (2022) → 40 (2024)** — and the landing point for Google's and Microsoft's African cloud
+regions. Two tensions define it.
+
+**Capability outrunning delivery.** Home Affairs issued a record **4,002,964 Smart IDs in calendar
+2025**, but the digital ID they underpin carries **five competing launch dates**, four of them the
+department's own, and its legal framework was **still awaiting cabinet approval** as of 2026-02.
+
+**Inclusion claimed while exclusion is litigated.** On **2026-01-28** the DHA announced its inclusion
+record; the same day the state was reported defending at the Supreme Court of Appeal an
+**online-only** welfare system a high court had already struck down — and nine days earlier
+**[[sassa]]'s own figures** showed only **32%** of approved SRD applicants in one cohort had been
+paid. **The government's arithmetic corroborates the plaintiffs.** Full case:
+**[[south-africa--include-divides]]**.
+
 ## Recent developments
 
-- **2025-03-27** — **Google launches its first African cloud region in Johannesburg** (GCP),
-  competing with **[[amazon-web-services|AWS]]**'s Cape Town region on in-region cloud/AI and data
-  residency. See [[infra.store]], [[google]]. Source:
-  [[2025-03-27 Google launches first African cloud region in Johannesburg (GCP)]]. *(Clip arrived
-  mis-filed in an Ethiopia batch.)*
-- **2025-04-01 (evidence 2026-07)** — **Smartphone luxury-tax removal lifts device access.** Effective
-  **1 April 2025**, the **[[dcdt-south-africa]]** / National Treasury removed the **9% ad valorem luxury
-  excise** on entry-level smartphones **below R2,500 (~USD 150)**. The GSMA evidence report
-  (**[[gsma-sa-smartphone-tax-reform-2026]]**, primary held): entry-level unit growth **−7.9%→+6.2%**,
-  volumes **+80%** / feature-phone **−87%** (Mar 2025→Feb 2026), market value **+15% (R2.7bn→R3.1bn/mo)**.
-  Minister **[[solly-malatsi]]** popularised it (rounder "+1.1m units/11 months"). Sources:
-  [[2026-07-10 SOLLY MALATSI  Removing smartphone tax means access to opportunity]],
-  [[gsma-sa-smartphone-tax-reform-2026]]. See [[include.access]], [[include.divides]], [[tech.industry]].
-- **2026-07-13** — **"Digital-first must not become digital-only" (Malatsi).** Communications
-  minister **[[solly-malatsi]]** ([[dcdt-south-africa]]) warned that digitising government
-  before fixing **affordability, connectivity and digital literacy** risks a "premium service
-  layer for the already included," not a digital state — "a promise made only to the connected
-  is not a promise to the nation" — and that "the digital divide becomes a democratic divide."
-  Framed **[[mymzansi]]** as the inclusive "one trusted point of entry" needing low-data,
-  multilingual and **offline** channels; on platforms, preferred **self-regulation** but
-  reserved the right to legislate. Source:
-  [[2026-07-13 Digital-first must not become digital-only, says Malatsi]]. See [[include.divides]],
-  [[include.access]], [[dpi.govtech]], [[gov.policy]].
-- **2026-06** — **SA as the continent's AI-sovereignty anchor (analyst batch).** In
-  Anjola Adebowale's sovereign-data-stack benchmarking, **South Africa holds ~70%
-  of the continent's digital-infrastructure capacity**
-  ([[2026-06-12 Beyond the AI Stack Why Governments Need Dynamic Digital Infrastructure]]),
-  and its stalled/contrasting position recurs in the AI-sovereignty debate that
-  Rebecca Mbaya reads from a South African vantage (data vs digital sovereignty;
-  54 nations lacking a shared definition,
-  [[2026-06-24 Does AI Sovereignty Mean Controlling the Keys, or Owning the Building]]).
-  See [[infra.store]], [[tech.ai]], [[gov.regional]].
-- **2025-12** — **Vodacom's fixed-broadband and Maziv turn (Russell Southwood).**
-  Southwood's MNO state-of-market notes **[[vodacom]]** acquiring **30% of Maziv**
-  (Vumatel/Dark Fibre Africa) to anchor SA fibre, running **198,000** SA fixed-
-  broadband customers, and treating prepaid voice as a "managed decline" — the SA
-  operator pivoting from connectivity to infrastructure/platforms. See
-  [[tech.industry]], [[infra.connect]]. Source:
-  [[2025-12-04 Is it a bird Is it plane No, Jim, it's an African mobile operator, but not as we know it 9]].
-- **2026-07-10** — **SA cited in Nigeria's Big-Tech news-content probe.** As Nigeria's
-  [[fccpc]] opened an investigation into [[meta]], [[google]] and X over uncompensated AI
-  training on news content, the reporting cited **South Africa's** Competition Commission
-  arrangement under which **[[google]]** agreed to pay SA news publishers ~**R688m (~$40m)/yr
-  for 3–5 years** — a regional comparator for news-content remuneration. Source:
-  [[2026-07-10 Why Nigeria Is Investigating Meta, Google, X and AI Firms]]. See
-  [[gov.legislate]], [[tech.ai]], [[gov.protect]].
-- **2026-07** — **[[cassava-ai-factories]]** — Cassava's **first AI factory**
-  (3,000 **Nvidia H100 GPUs**) is live at the **[[africa-data-centres]]**
-  Johannesburg campus, the anchor of a **~$720m 5-country program**; Cassava bills
-  itself the continent's **first NVIDIA Cloud Partner** (GPUaaS/AIaaS), with the AI
-  Factory scaling to Nigeria, Kenya, Egypt and Morocco and its **CAIMEx** multi-model
-  exchange offering local-language models (Swahili → Zulu/Afrikaans). Sources:
-  [[2026-01-01 Africa's Sovereign AI Play Cassava Technologies and Zimbabwean Strive Masiyiwa $ 720 million Bets - Ecofin Agency]],
-  [[2026-03-18 Cassava Technologies Launches AI Factory in South Africa, Plans Expansion Across Africa]].
-  See [[infra.store]], [[infra.capacity]], [[tech.ai]].
-- **2026-04-08** — **[[liquid-c2]]** ([[cassava-technologies]]) opened **Africa's first
-  Google Cloud-powered Partner Experience Centre** in Johannesburg — reseller
-  accreditation, Gemini Enterprise/"Playspace," local-currency billing/credit — as the
-  channel arm of Cassava's Cape Town AI factory (further factories planned Kenya, Nigeria,
-  Morocco, Egypt). **[[strive-masiyiwa]]**: "the time for talking about AI is over."
-  Sources:
-  [[2026-04-08 Liquid C2 launches Africa's first Google Cloud-powered Experience Centre to accelerate AI adoption - Cassava Tech]],
-  [[2026-04-08 Liquid C2, Google open first-for-Africa Partner Experience Centre]],
-  [[2026-04-08 Liquid C2's new centre puts Google Cloud within Africa's reach]].
-  See [[tech.ai]], [[infra.store]], [[capacity.training]], [[google]].
-- **2026-07** — The **[[sadis-2025]]** national broadband map (DBSA / [[dbsa]] /
-  NPC): **4G reaches 98%** of the population, but **12.2% of households** sit
-  **>20km from fibre**. Source:
-  [[2026-03-31 SA finally has a broadband map - and it reveals where the gaps are]].
-  See [[infra.connect]].
-- **2026-07** — Analyst **Alison Gillwald** ([[research-ict-africa]]) on South
-  Africa's **diluted 2025 "African G20" presidency**. Source:
-  [[2026-02-17 From Davos to New Delhi, Rupture of Global Order Tests AI Governance]].
-  See [[gov.regional]], [[tech.ai]].
-- **2026-07-09** — **[[trendai]]** (with **[[anthropic]]**) went public on a
-  **locally-governed SA data centre + data lake** running **Claude Opus 4.7** under South
-  African law — pitched as the first credible "**sovereign AI**" implementation and as
-  compliance-by-architecture with **[[popia]]** §72/§19 cross-border limits; framed as
-  phase one of an African rollout. Vendor-asserted (single ITWeb interview) — corroborate
-  before use. Source: [[2026-07-09 Anthropic's Claude to bolster data sovereignty in SA]].
-  See [[infra.store]], [[tech.ai]], [[gov.protect]], [[south-africa--gov-protect]].
-- **2026-07** — **Partner2Connect ($100bn milestone).** **Telkom** pledged a **$6.1m
-  Telkom AI Institute** to build SA AI/digital skills, via the [[itu]] [[partner2connect]]
-  coalition. Source: [[2026-07-09 ITU's Partner2Connect crosses $100 billion in global connectivity pledges]].
-  See [[capacity.training]], [[tech.ai]].
-- **2025-01** — **Digital-sovereignty analysis (BRICS book chapter).** A Cambridge
-  chapter reads SA as a **"digital swing state"** balancing US/EU/China in cyberspace:
-  POPIA ([[popia]]) on an EU-adequacy model vs the more nationalistic **2021 Draft National
-  Policy on Data and Cloud** (localization, "data generated in SA is SA's property"), which
-  [[research-ict-africa]] warns could obstruct **AfCFTA** cross-border data flows; plus the
-  **Cybercrime Act**, the **Films and Publications Amendment Act** ("internet censorship"
-  critique), a securitization/surveillance thread, and heavy ransomware exposure (Transnet,
-  DBSA). Source: [[2025-01-01 South African Digital Sovereignty at the Crossroad of Securitization and Development (Chapter 4) - Digital Sovereignty in the BRICS Countries]].
-  See [[gov.protect]], [[gov.policy]], [[infra.cybersec]], [[dpi.exchange]], [[geopol.eu]],
-  [[geopol.china]], [[south-africa--gov-protect]].
+### Identity and civil registration
 
-- **2026-07-09** — [[seacom]]'s planned **Seacom 2.0** subsea system lands in South
-  Africa (a southern anchor before looping to West Africa). An ATF 2025 (Cape Town)
-  interview with Seacom's **Prenesh Padayachee** adds phasing and economics: **phase one
-  by early 2030**, original 2009 cable **retired 2035**, build cost **$1.5bn–$2bn** via a
-  shareholder-plus-new-investor raise, and an emphasis on **data-centre neutrality**.
-  Sources: [[2026-07-09 Seacom plans 25,000km subsea cable from France to Singapore and South Africa]],
-  [[2025-11-01 Seacom's Prenesh Padayachee on the 'Seacom 2.0' subsea cable]]. See [[infra.connect]].
-- **2026-07-06/07** — PSC investigation finds **systemic execution failure at
-  [[sita]]**, the state's central ICT procurement agency (25.2% procurement attrition;
-  contracts stuck >400 days), now a national digital-transformation bottleneck.
-  Departments seek exemptions. Source:
-  [[2026-07-07 South Africa's state IT agency is slowing government tech rollout]]. See [[dpi.govtech]], [[gov.policy]].
-- **2026-07-03** — At its first **Africa Cloud Summit** (Sandton; opened by President
-  **[[cyril-ramaphosa]]**), **[[google]]** said it had **exceeded its $1bn Africa
-  investment target** and projected its **Johannesburg Cloud Region** could add
-  **R1.7tn ($90.6bn)** in output and **~315,000 jobs by 2030**; unveiled a SA
-  **Digital Exchange Port** and five AI/skills/startup initiatives (incl. accelerator
-  cohorts and a Soweto innovation centre). [[vodacom]]/Discovery showcased AI on
-  Google Cloud with stress on **data residency**. Sources:
-  [[2026-07-03 Google Cloud Region forecasts R1.7tn boost for SA]],
-  [[2026-07-01 Google Cloud Summit in Africa Highlights the Continent's Digital Transformation and Unveils New Agentic AI and Infrastructure Investments]],
-  [[2026-07-01 Google has exceeded $1 billion Africa investment target]]. See [[infra.store]], [[tech.ai]], [[geopol.usa]].
-- **2026-06-19** — **[[microsoft]]** SA placed **64 Power-Platform-certified
-  graduates** across **11 government departments** under its B-BBEE EEIP (funded
-  through June 2028). Source: [[2026-06-19 Microsoft SA secures digital talent for govt]].
-  See [[capacity.training]], [[dpi.govtech]].
-- **2026-06-04** — **[[equinix]]** faces a formal objection (Housing Assembly +
-  Foxglove) to its two planned **Cape Town** data centres (combined up to **160 MW**)
-  over undisclosed water/power/environmental impact, invoking the "Day Zero" drought.
-  Source: [[2026-06-04 Equinix faces challenge to Cape Town data centres over environmental concerns]].
-  See [[infra.energy]], [[infra.capacity]].
+- **The digital-ID launch ladder — carried dated, not adjudicated; the spread is the finding.**
+  **2025** (DHA, Feb 2025 — **missed**) · **2026** (**[[cyril-ramaphosa]]**, SONA **2026-02-12**:
+  "This year, the DHA will launch a Digital ID") · **2027/28** (the DHA's tabled APP) · **2028/9**
+  (the DHA Strategic Plan) · **2029** (**[[leon-schreiber]]**, "before the national elections").
+  Implementation "**is behind schedule as the government said recently that the legal framework was
+  still being discussed, pending cabinet approval**". Source:
+  [[2026-02-16 South Africa digital ID and mDL to launch this year, president promises]].
+  See [[south-africa--dpi-id]].
+  The same SONA promises mDL, Matric certificates, online police statements and **remote SASSA
+  eligibility testing**, all via **[[mymzansi]]** as sole gateway, plus **55 data centres built,
+  >R50bn expected over three years** (*the earlier origin of a pair the wiki attributes elsewhere to
+  Godongwana, 2026-02-25*). SASSA claims **>R300m (~$18.8m) saved since biometric verification**
+  (Min. Tolashe, via SABC).
+- **The Smart ID chain, 2025-02 → 2026-01 — plan, repair, outcome.** **Announced (2025-02-04)**:
+  universal access "flat-out", bank branches to scale from **30** toward thousands, on
+  **[[idemia]]**'s **10-year contract including 80 million smart ID cards** — held nowhere else
+  (**GAP-ZAF-003**) — with **full implementation targeted for 2025, missed**. **Extended
+  (2025-05-12)** to **1.4 million** people previously barred by "unresolved IT system constraints" —
+  ~**800,000 naturalised citizens** + ~**700,000 permanent residents**; Schreiber says they had been
+  treated as "**second-class citizens**". **Delivered (2026-01-28)**: a record **4,002,964 Smart IDs
+  in calendar 2025**, **+17%** on **3,427,468 (2024)**, which the DHA credits to its **OVS repair**
+  and **[[government-printing-works]]** — "expanding inclusion and access at a scale never seen
+  before" (Schreiber). **Published the same day as the SCA exclusion reporting —
+  [[south-africa--include-divides]].** Sources:
+  [[2025-02-04 South Africa Plans Major Expansion of Smart ID Program for 2025]] (*second-hand*),
+  [[2025-05-12 South Africa Extends Smart ID Cards to 1.4M Permanent Residents and Citizens]]
+  (*second-hand*),
+  [[2026-01-28 Home Affairs sets new record by delivering over four million Smart IDs in 2025]].
+- **2025-07-03** — **[[njabulo-nzuza]]**'s NCOP budget vote. **Fiscal-year figures — must not be
+  conflated with the calendar-year counts above**: **3,597,856 Smart IDs in FY2024/25** against a
+  **2.5m target**; **cumulative 25,102,201 since inception**; Live Capture in **212** offices;
+  **>49m civic records digitised since 2023**. **Says the digital ID is built "working with the
+  South African Reserve Bank"**, where held material puts the stack in the **[[sars]]** hosting
+  environment — see `reviews/contradictions/open/south-africa-digital-id-sarb-or-sars`. Source:
+  [[2025-07-03 Deputy Minister Njabulo Nzuza - Home Affairs Dept Budget Vote 2025-26, NCOP]].
+- **2025-07-01 (announced 2025-07-06)** — **The OVS repair, and the DHA's own defence of the fee.**
+  The relaunched **Online Verification Service** against the NPR went live; the DHA says the old one
+  "had broken down to the point where **over half of all verification attempts failed**". The justice
+  cluster ([[sassa]], [[saps]], Justice) now runs **>180,000 transactions/day**, **under one
+  second**, error **below 1%**; new fees **R10 real-time / R1 off-peak batch**, free to government.
+  **This is the department's case for the ~6,500% increase the wiki holds as contested
+  ([[act-south-africa]]'s High Court challenge) — hold both readings.** Source:
+  [[2025-07-06 Home Affairs on launch of world-class new identity verification service and cost]].
+- **2025-04-08** — **Four-party pact signed: [[sars]] + [[home-affairs-south-africa]] +
+  [[border-management-authority]] + [[government-printing-works]]**; the **SARS–DHA bilateral**
+  renews a Direct Master Agreement **in place since 2010**. **The hub and [[south-africa--dpi-id]]
+  date this pact to April 2024 — see
+  `reviews/contradictions/open/south-africa-four-party-pact-date`; recorded, not silently fixed.**
+  Source:
+  [[2025-04-08 South African agencies sign multiparty digital ID deal to drive govt efficiency]].
+- **2025-12-15** — **[[intelligent-population-register]] proposed** in a **draft revised White Paper
+  on Citizenship, Immigration and Refugee Protection** (input 12 Dec 2025 – 31 Jan 2026): AI, ML,
+  biometrics and real-time integration atop the NPR; **birth and death registration to become
+  mandatory through digital channels**; merit-based naturalisation. **A draft, not law. Terminology
+  divergence: the DHA's own Strategic Plan says "National Population Register" / "Integrated Identity
+  System" — prefer the department's wording; the variant is recorded.** Source:
+  [[2025-12-15 South Africa plans Intelligent Population Register in proposed civil registration reform]].
+- **2025-04-01 (tabled)** — **DHA Strategic Plan 2025–2030** — **targets, not achievements**:
+  universal Smart ID enrolment **2029**; live capture to **1,000 bank branches**; **17.4m enabling
+  documents by 2030**; digital ID **with SARB**, "a reality in **2028/9**"; **340 million paper civic
+  records** to digitise; **ABIS Phase 2 completed Feb 2024** against an original **2022/23** target —
+  a missed milestone the plan states itself. Source:
+  [[2025-04-01 South Africa Department of Home Affairs Strategic Plan 2025-2030]].
+- **2025-04-01** — **[[edrs-south-africa]] launched** ([[department-of-land-reform-south-africa]]):
+  the **Electronic Deeds Registration Systems Act 19 of 2019** in full operation per **Proclamation
+  250 of 2025**, **registration module in pilot**. **Manual and electronic lodgement run in parallel
+  five years at the conveyancer's discretion**; the aim is to repeal **both** the **1937** Deeds
+  Registries Act and the 2019 Act by **2030**. Source:
+  [[2025-04-01 Land Reform and Rural Development implements Electronic Deeds Registration System]].
 
-### Earlier milestones
+### Data centres, cloud and energy
 
-_Older dated developments (through early 2026) are preserved in their linked source pages, the topic sections below, and git; the most recent/material anchors are kept here._
+- **2026-02-09** — **The aggregate thesis: SA capacity from ~400 MW to at least 1,200 MW** — an
+  increment **roughly equal to just over one stage of Eskom load shedding (1,000 MW)**. **Chris
+  Yelland**, reading **[[eskom]]**'s latest risk analysis: **constrained supply by 2029** absent
+  rapid new generation, against a "**looming base supply cliff**" from coal retirements and expiring
+  Cahora Bassa imports. **[[teraco]]** largest (**~190 MW IT load**, ~**670 customers**, internal
+  target **500 MW**); **[[cavaleros]]** **360 MW Cape Town + 200 MW Johannesburg**; **[[vantage]]**
+  100 MW. **The transparency contrast**: Cavaleros calls power procurement "**commercially
+  sensitive**" under **strict NDAs**, where Teraco discloses — Daily Maverick draws the contrast
+  explicitly. **[[cosmas-data-cities]]** is "**believed to be linked mainly to Microsoft**"; neither
+  would confirm. Source:
+  [[2026-02-09 Major SA data centre expansion plans emerge, set to more than double current power demand]].
+  See [[south-africa--infra-store]].
+- **2024-11 → 2025-11 — the build-out behind the thesis.** *Detail sits on the entity pages.*
+  **[[teraco]]** completed **JB5** (Isando to **70 MW**) and began **JB7** (40 MW; **R8bn** Absa-led
+  syndicated loan; a **120 MW solar PV plant wheeling into [[eskom]]**), **[[digital-realty]]**-owned
+  since Jan 2022; **[[vantage]]**/**[[attacq]]** formed a **50:50 JV** (**R628m/$34m** shell, Q1
+  2026) on the **80 MW** JNB1 campus; **[[cavaleros]]** launched **[[cosmas-data-cities]]** with
+  **[[knight-frank]]**; **[[africa-data-centres]]** doubled CPT1 to **11.5 MW** on a loan of **up to
+  $300m from the [[us-dfc]]**, then added **20 MW** (three SA sites to **50 MW**) on a 20-year
+  **[[distributed-power-africa]]** solar PPA. Sources:
+  [[2025-06-03 Teraco Unveils 8th Data Centre, JB5, Strengthening Africa's Digital Infrastructure]],
+  [[2025-06-08 Teraco completes JB5 data center in Johannesburg, South Africa (DCD)]],
+  [[2024-11-13 Teraco to build 40 MW JB7 data centre at Isando Campus]],
+  [[2025-03-11 Vantage partners with Attacq for Phase II of 80MW campus in Jo'burg, South Africa]],
+  [[2025-11-11 South African real estate firm Cavaleros Group launches data center unit, plans two campuses]],
+  [[2024-07-25 Africa Data Centres adding 6MW capacity in Cape Town]],
+  [[2024-11-20 Africa Data Centres expands by 20 megawatts to meet cloud, AI demand]] (*weak
+  provenance*).
+- **2024-01-31** — **Google's Johannesburg cloud region opens** (GCP, `africa-south1`) — Google's
+  first African cloud region, competing with **[[amazon-web-services|AWS]]**'s Cape Town region on
+  in-region cloud/AI and data residency; connected via **[[equiano]]**. At launch: **40 cloud regions
+  and 121 zones**; **$1bn** committed to African digital transformation. Source:
+  [[2024-01-31 Heita South Africa! The new Google Cloud region is now open in Johannesburg]] (Google's
+  own announcement — the canonical primary).
+  **⚠ Date corrected 2026-07-17, by 14 months** — this entry previously read **2025-03-27**, a
+  secondary AFRIBIT blog's *publication* date mistaken for the *event* date on ingest; Google's
+  announcement is internally corroborated to early 2024 (the "40 regions / 121 zones" count and the
+  "$180 billion by 2025" projection both fix it). *No contradiction is filed: the vendor's own
+  announcement is dispositive, so this is an error correction, not competing values needing research.
+  The class of error — a secondary re-report's date ingested as the event date — is raised as
+  ISSUE-009.*
+- **2019-03-06** — **T-zero of African hyperscale.** **[[microsoft]]** opened **Azure** in Cape Town
+  and Johannesburg. *Its "54 regions announced worldwide" and the IDC forecasts (~112,000 net-new SA
+  jobs by end-2022) are **2019 projections, now historical**.* **Microsoft claimed "our first
+  enterprise-grade datacenters in Africa" in 2019 while 2026 reporting calls its new build "SA's
+  first enterprise-grade data centres" — the wiki adopts neither "first".** Vendor self-report.
+  Source:
+  [[2019-03-06 Microsoft opens first datacenters in Africa with general availability of Microsoft Azure]].
 
-- **2026-05-29** — DHA draft Identification Regulations; analyst Mark Burke warns no biometric erasure, implied consent, DG power concentration, likely ultra vires. [[2026-05-29 Opinion South Africa's Digital Identity Regulations A Governance Crossroads]] · [[sa-digital-id-regulations]] · [[dpi.id]]
-- **2026-05-27** — Liquid C2/Microsoft/DCDT launched a solar-powered mobile digital lab in North West running a Power Platform cohort. [[2026-05-27 Liquid, Microsoft unveil mobile digital lab for North West youth]] · [[capacity.training]]
-- **2026-05-22** — SpaceX's IPO S-1 singles out SA: "bitter regulatory disputes have delayed Starlink's entry" over the equity/ownership rule. [[2026-05-22 View How SpaceX is making a quiet bet on Africa]] · [[infra.connect]]
-- **2026-05-21** — SA published then withdrew its draft AI policy in April 2026 after the AI tools used generated fake citations. [[2026-05-21 Pushing back from Big Tech Africa's hard road to AI sovereignty]] · [[tech.ai]] · [[gov.policy]]
-- **2026-05-21** — SA the continental data-centre anchor: 56 facilities, ~40.8% of Africa's market; Teraco building a 120 MW Free State solar plant. [[2026-05-21 Africa Data Center Investment 2026 The $4.5B Race and the Power Problem]] · [[infra.store]]
-- **2026-04-28** — Sentech–BBI state-broadband merger slips to 2028/29; BBI technically insolvent; echoes SITA governance rot. [[2026-04-28 State broadband merger limps into a second decade]] · [[infra.connect]] · [[dpi.govtech]]
-- **2026-04-28** — Axiz, Equinix's SA distribution partner, welcomed the investment as reinforcing SA's data-centre-hub and gateway role. [[2026-04-28 Axiz Welcomes Equinix Investment, Citing Boost to Africa's Digital Infrastructure]] · [[axiz]] · [[infra.store]]
-- **2026-04-22** — 2nd African Cyber Law Conference (Wits): Africa's AI-governance gap is coordination/enforcement, not legislation ("digital extractivism"). [[2026-04-22 2026-04 - AI is not built for African users, exposing a governance chasm]] · [[tech.ai]] · [[gov.policy]]
-- **2026-04-21** — Home Affairs APP sets a 31 Mar 2027 hosting deadline, platform online 2027/28; facial recognition primary biometric; NIR Bill to underpin. [[2026-04-21 South Africa's digital ID gets a targeted launch date]] · [[dpi.id]] · [[sa-digital-id-regulations]]
-- **2026-04-17** — Microsoft commits $329m (~R5.4bn) to SA: land for data-centre growth, power/water readiness, AI skills, and a Lelapa AI LLM partnership. [[2026-04-17 Microsoft picks South Africa for $329 million expansion in cloud infrastructure and AI training]] · [[2026-04-15 Microsoft secures land for future South Africa data centre growth]] · [[microsoft-sa-2026-expansion]]
-- **2026-04-14 / 2026-03-11** — Two RIA reference reports reframe DPI/digital inequality and press NSOs as data custodians (SA, Ghana, Kenya, Benin). [[2026-04-14 Taking digital inequality seriously for digital public infrastructure and data governance]] · [[2026-03-11 The evolving role of National Statistics Offices (NSOs) as data custodians in the digital age]] · [[research-ict-africa]]
-- **2026-04-17** — ITWeb TV #137: Google SA's Kabelo Makwane on inclusive connectivity, AI and appetite for an Africa-based cloud region. [[2026-04-17 ITWeb TV Making AI inclusive for Africa]] · [[google]] · [[tech.ai]]
+### Inclusion, connectivity and the digital economy
+
+- **2026-01-19 / 2026-01-28** — **Digital-by-default exclusion, litigated with numbers.**
+  **[[sassa]]**: as of **1 Jan 2026**, of **14,135** SRD applications from permanent residents,
+  refugees and special-permit holders, **8,368 approved but only 2,690 paid — 32%**. Nine days later
+  the **[[institute-for-economic-justice]]** and **[[paythegrants]]** opposed the state's **SCA
+  appeal** against a **January 2025** high court ruling striking the SRD's **online-only application
+  system**, the **R624** threshold and the **grant's value** as unlawful. Full case — mechanism,
+  scale, and the department's self-refuting "complaints on X prove access" argument:
+  **[[south-africa--include-divides]]**. Sources:
+  [[2026-01-19 SASSA on qualification criteria for COVID-19 SRD]],
+  [[2026-01-28 State is blocking access to SASSA grants, argue activists]].
+- **2026-02-27** — **Startup funding rebound, concentrated.** Per **[[disrupt-africa]]** (CY2025): SA
+  raised **$335.9m across 42 startups = 20.5% of Africa's $1.64bn**, a **234% surge** on 2024's
+  $100.4m but **still below the $512.3m 2023 peak**; average deal **$7.99m**. **Only 16.7%** of
+  funded SA startups had ≥1 female co-founder; **one (2.4%)** was female-CEO-led. **Never state a
+  bare Africa total — the wiki holds Partech's $4.1bn for the same year; see
+  `reviews/contradictions/open/africa-tech-funding-2025`. Always attribute to the tracker and date
+  it.** Source: [[2026-02-27 SA powers Africa's $1.64bn tech funding rebound]].
+- **2024-10-11** — **EGDI: rank 65 (2022) → 40 (2024)**, leading Africa (Mauritius 76, Tunisia 87),
+  entering the "**very high EGDI**" group for the first time; **255 government services identified
+  for digitisation, 134 e-Services live** on the SITA-hosted national portal, against a
+  whole-of-government target of **2030**. *Government's celebratory statement on a third-party index;
+  cite [[un-egdi]], don't absorb.* Source:
+  [[2024-10-11 South Africa's Significant Improvement in the UN e-Government Index 2024]].
+- **2026-07 / 2025-03-03** — **Coverage is not use.** **[[sadis-2025]]** (DBSA/NPC) reports **4G
+  reaching 98%** of the population, **12.2% of households >20km from fibre**
+  ([[2026-03-31 SA finally has a broadband map - and it reveals where the gaps are]]).
+  **[[datareportal]]** puts **13.6 million — 21.1% — offline at the start of 2025** (50.8m users,
+  **78.9%** penetration). *Reference study: cited, not absorbed
+  ([[2025-03-03 Digital 2025 - South Africa (DataReportal)]]).* **Compatible, and to be read
+  together** — see [[south-africa--include-divides]].
+- **2025-04-01 (evidence 2026-07)** — **Smartphone luxury-tax removal lifts device access.**
+  **[[dcdt-south-africa]]**/Treasury removed the **9% ad valorem luxury excise** on smartphones
+  **below R2,500 (~USD 150)**. Per **[[gsma-sa-smartphone-tax-reform-2026]]**: entry-level unit growth
+  **−7.9%→+6.2%**, volumes **+80%** / feature-phone **−87%** (Mar 2025→Feb 2026), market value **+15%
+  (R2.7bn→R3.1bn/mo)**. Source:
+  [[2026-07-10 SOLLY MALATSI  Removing smartphone tax means access to opportunity]].
+- **2026-07-13** — **"Digital-first must not become digital-only" (Malatsi).** Digitising government
+  before fixing **affordability, connectivity and digital literacy** risks "a premium service layer
+  for the already included" — "the digital divide becomes a democratic divide." Framed
+  **[[mymzansi]]** as needing low-data, multilingual and **offline** channels. Source:
+  [[2026-07-13 Digital-first must not become digital-only, says Malatsi]].
+
+### Earlier milestones (2025-01 → 2026-07)
+
+_Trimmed to pointers 2026-07-17 — an append-log had accreted here. The dated detail lives in the
+linked source pages, the entity pages and the six [[south-africa--dpi-id|intersections]], and in git._
+
+- **State capacity and govtech** — the PSC's finding of systemic execution failure at **[[sita]]**
+  (25.2% procurement attrition; contracts stuck >400 days); the **Sentech–BBI** state-broadband
+  merger slipping to **2028/29** with BBI technically insolvent; the DHA's **APP** hosting deadline
+  of **31 Mar 2027**; the draft **Identification Regulations** and Mark Burke's ultra-vires critique
+  ([[sa-digital-id-regulations]]).
+- **Cloud, AI and the hyperscalers** — **[[microsoft]]**'s **$329m (~R5.4bn)** SA commitment
+  (*dating disputed — see `reviews/contradictions/open/microsoft-sa-investment-date`*,
+  [[microsoft-sa-2026-expansion]]); **[[google]]** exceeding its **$1bn** Africa target and
+  projecting **R1.7tn / ~315,000 jobs by 2030**; **[[cassava-ai-factories]]**' 3,000-H100 AI factory
+  and **[[liquid-c2]]**'s Google Cloud Partner Experience Centre; **[[trendai]]**/**[[anthropic]]**'s
+  locally-governed sovereign-AI data centre (*vendor-asserted*); **[[equinix]]**'s contested Cape
+  Town build (Housing Assembly + Foxglove); SA at **56 facilities, ~40.8%** of Africa's market
+  (2026-05). Full case: [[south-africa--infra-store]].
+- **Policy and sovereignty** — SA's **withdrawn draft AI policy** (April 2026, fake citations); the
+  Cambridge BRICS chapter reading SA as a **"digital swing state"** ([[popia]]'s EU-adequacy model
+  vs the 2021 Draft National Policy on Data and Cloud, which [[research-ict-africa]] warns could
+  obstruct **AfCFTA** flows); the Wits African Cyber Law Conference on AI governance as coordination,
+  not legislation; **[[alison-gillwald]]** on the diluted 2025 "African G20" presidency. Full case:
+  [[south-africa--gov-protect]].
+- **Connectivity and industry** — **[[starlink]]**'s regulatory impasse (30% equity rule; SpaceX's
+  IPO S-1 naming SA); **[[vodacom]]**'s 30% of **Maziv**; **[[seacom]] 2.0**; SA cited in Nigeria's
+  [[fccpc]] probe over **[[google]]**'s ~**R688m/yr** SA news-publisher deal; Telkom's **$6.1m** AI
+  Institute via [[partner2connect]]; **[[microsoft]]**'s 64 Power-Platform graduates across 11
+  departments. Full case: [[south-africa--infra-connect]].
+
 ## Active topics
 
-- [[dpi.govtech]] — MyMzansi and open platform services; the Presidency's **Digital Services
-  Unit** ([[digital-services-unit-presidency-sa]]) built MyMzansi in 10 weeks under the
-  **[[sa-digital-transformation-roadmap]]** (May 2025), adding a digital driving licence;
-  SITA delivery failure; Sentech–BBI state-broadband merger stalled to 2028/29.
-- [[dpi.id]] · [[dpi.registry]] — national digital ID (hosting by 31 Mar 2027, platform
-  2027/28, SARS-hosted PKI, facial-recognition biometric); the **[[sars]]-led single
-  biometric identity** ("end of tax numbers," Modernisation 3.0); the Home Affairs–bank
-  **Smart ID gateway** (first live branch with Capitec, [[home-affairs-south-africa]]); a
-  record **4m smart IDs** issued in 2025 and the contested **OVS verification-fee hike**
-  ([[act-south-africa]] High Court challenge); the digital-ID policy still **unapproved** as
-  of Jan 2026 (Min. [[leon-schreiber]]); the **[[south-africa-eta]]** biometric visa platform;
-  DHA draft Identification Regulations and the Burke governance critique
-  ([[sa-digital-id-regulations]]); and traditional-leader opposition demanding
-  consultation/referendum.
-- [[gov.standards]] · [[tech.industry]] — interoperability vs. sovereign-stack choices;
-  AI-governance-as-coordination (Wits Cyber Law Conference).
-- [[gov.protect]] · [[gov.policy]] · [[dpi.exchange]] · [[gov.regional]] — POPIA ([[popia]]) adequacy
-  model vs Draft Data & Cloud localization; digital-ID data-sharing safeguards; the
-  sovereign-AI/data-residency debate; SA draft AI policy withdrawn (fake citations); the **Rubio
-  State-Dept cable** and US WTO/G20 pressure on SA's data-sovereignty stance ([[us-department-of-state]]).
-- [[infra.cybersec]] — securitization posture; ransomware exposure (Transnet, DBSA);
-  DHA's self-described "low" cybersecurity maturity.
-- [[infra.store]] · [[infra.energy]] — continental data-centre anchor (56 DCs, ~41% of
-  Africa's market; ~three-quarters of Africa's ~409 MW); captive solar (Teraco 120 MW);
-  Microsoft $329m and **[[equinix]] $438m/R890m** land/power build-outs (+ Axiz channel);
-  **[[mtn-group]]** AI-data-centre push; sovereign-AI data centre ([[trendai]]/[[anthropic]]).
-- [[infra.connect]] · [[data.satellite]] — Seacom 2.0 landing; Starlink SA regulatory delay
-  (30% equity rule, mirrored by Namibia's CRAN rejection; SpaceX advocacy campaign + R2.5bn
-  B-BBEE pledge); **[[space42]]** Thuraya-4 mobile-satellite launch; state broadband merger;
-  **[[icasa]]** draft national infrastructure GIS database; MTN R21.8bn ($1.3bn) network
-  pledge; US hyperscalers building **overland fibre** (Durban cable factory).
-- [[tech.ai]] · [[geopol.china]] — AI-workload data centres; low SME AI adoption; sovereign-AI
-  deployment; Google/Microsoft AI-skills programmes; the **US–China AI-market contest** (DeepSeek
-  chatbot share vs Microsoft/Nvidia/Cassava build-out, SA as anchor market). Full case: [[south-africa--tech-ai]].
-- [[dpi.pay]] · [[gov.legislate]] — **National Payment System reform**: opening the NPS to
-  non-bank PSPs from 2026 (activity-based licensing, [[sarb]]), PayShap scale-up, SADC TCIB
-  cross-border; SARS–SARB instant-payment plan. Full case: [[south-africa--dpi-pay]].
-- [[data.open]] — [[icasa]]'s mandated national GIS infrastructure database (regulation 7).
-- [[capacity.training]] · [[capacity.literacy]] · [[include.access]] — Microsoft/Liquid
-  skills labs (SABC+, North West mobile lab); **[[microsoft-elevate]]** AI literacy
-  ([[tiara-pathon]]); **[[google]]–DHET** 5,000 certifications; Telkom AI Institute.
+- [[dpi.id]] · [[dpi.registry]] — the **launch ladder**; the **[[sars]]**-led single biometric
+  identity ("end of tax numbers"); the **Smart ID** chain and bank gateway (first live branch,
+  Capitec); the **OVS** repair vs the contested **~6,500%** fee hike; the **IPR/NPR** White Paper;
+  **[[idemia]]**; **[[edrs-south-africa]]**; **[[south-africa-eta]]**;
+  **[[sa-digital-id-regulations]]**; traditional-leader opposition demanding consultation. Full case:
+  [[south-africa--dpi-id]].
+- [[include.divides]] · [[include.access]] · [[capacity.literacy]] · [[digital.rural]] — the **SRD
+  exclusion case**, SASSA's **32%** approved-to-paid, biometric-enrolment scope, **21.1% offline**
+  against **4G at 98%**; smartphone-tax removal; skills labs (**[[microsoft-elevate]]**,
+  [[tiara-pathon]]); [[google]]–DHET certifications. Full case:
+  **[[south-africa--include-divides]]**.
+- [[dpi.govtech]] — **EGDI 40 (2024)**, first in Africa; **255 services identified, 134 live**;
+  MyMzansi built in 10 weeks by [[digital-services-unit-presidency-sa]] under the
+  [[sa-digital-transformation-roadmap]] (May 2025); **[[sita]]** delivery failure.
+- [[infra.store]] · [[infra.energy]] · [[infra.capacity]] — **~400 MW → ≥1,200 MW (2026-02)**;
+  **[[eskom]]**'s 2029 constraint and "base supply cliff"; captive solar; the operator field
+  ([[teraco]], [[cavaleros]], [[vantage]], [[africa-data-centres]], [[equinix]], [[microsoft]]).
+  Full case: [[south-africa--infra-store]].
+- [[infra.connect]] · [[data.satellite]] — Seacom 2.0; Starlink's regulatory delay (30% equity rule);
+  **[[space42]]** Thuraya-4; **[[icasa]]**'s draft GIS database; MTN's R21.8bn pledge; US
+  hyperscalers' overland fibre. Full case: [[south-africa--infra-connect]].
+- [[gov.protect]] · [[gov.policy]] · [[dpi.exchange]] · [[gov.regional]] · [[infra.cybersec]] —
+  POPIA adequacy vs Draft Data & Cloud localisation; the **Rubio State-Dept cable** and US WTO/G20
+  pressure ([[us-department-of-state]]); ransomware exposure; DHA's self-described "low" cyber
+  maturity. Full case: [[south-africa--gov-protect]].
+- [[tech.ai]] · [[geopol.china]] — AI-workload data centres; low SME AI adoption; the **US–China
+  AI-market contest** ([[deepseek]] vs Microsoft/Nvidia/Cassava). Full case:
+  [[south-africa--tech-ai]].
+- [[dpi.pay]] · [[gov.legislate]] — **NPS reform**: non-bank PSPs from 2026 (activity-based
+  licensing, [[sarb]]), PayShap, SADC TCIB. Full case: [[south-africa--dpi-pay]].
+- [[finance.new]] · [[tech.industry]] · [[gov.standards]] — **$335.9m / 42 startups / 20.5% of
+  Africa's total (CY2025, Disrupt Africa)**; **16.7%** female co-founder rate.
+- [[data.open]] · [[data.statistics]] — [[icasa]]'s mandated national GIS infrastructure database
+  (regulation 7).
+
+## Reference studies held (cited, not absorbed)
+
+[[un-egdi]] (rank **40**, 2024 index) · [[datareportal]] **Digital 2025: South Africa** ·
+[[disrupt-africa]] African Tech Start-ups Funding Report **CY2025** (self-described "**minimum
+funding benchmark**") · [[research-and-markets]] **South Africa Existing & Upcoming Data Center
+Portfolio** (2025-03: ~53 DCs, ~300 MW existing, ~200 MW upcoming, $1.5bn by 2026 — a **dated
+prior**, below the held 55/56 series; a growth series, not a contradiction) · [[baker-mckenzie]]
+Smart ID guidance (undated page, current "as of May 2025": eligibility **16+**; Live Capture / bank
+branch / eHomeAffairs / BABS channels; **collection only, no mailing address**) ·
+[[research-ict-africa]] · [[gsma-sa-smartphone-tax-reform-2026]] · [[sadis-2025]].
 
 ## Entities
 
-- [[cassava-ai-factories]] · [[africa-data-centres]] · [[liquid-c2]] · [[strive-masiyiwa]] · [[sadis-2025]] · [[dbsa]]
-- [[david-eaves]] (author of the cited analysis) · [[research-ict-africa]] (cited research)
-- [[trendai]] · [[anthropic]] · [[popia]] · [[itu]] · [[partner2connect]]
-- [[sita]] · [[cassava-technologies]] · [[seacom]] · [[us-dfc]]
-- [[google]] · [[dhet-south-africa]] · [[microsoft]] · [[microsoft-elevate]] · [[tiara-pathon]] ·
-  [[microsoft-sa-2026-expansion]] · [[equinix]] · [[equinix-sa-438m-expansion]] · [[axiz]] ·
-  [[vodacom]] · [[nvidia]] · [[starlink]] · [[cyril-ramaphosa]] · [[world-bank]]
-- [[mtn-group]] · [[mtn-sa-2026-investment]] · [[ralph-mupita]] · [[icasa]] · [[meta]] · [[amazon-web-services]]
-- [[sars]] · [[sarb]] · [[sa-digital-id-regulations]]
-- [[home-affairs-south-africa]] · [[south-africa-eta]] · [[mymzansi]] · [[operation-vulindlela]] ·
-  [[saps]] · [[forensic-data-analysts]] · [[spacex]] · [[space42]] · [[thuraya-4]] ·
-  [[safaricom]] · [[vodacom-safaricom-stake-deal]]
-- [[leon-schreiber]] · [[digital-services-unit-presidency-sa]] · [[sa-digital-transformation-roadmap]] ·
-  [[act-south-africa]] · [[alison-gillwald]] · [[after-access]] ·
-  [[starlink-vodacom-leo-partnership]] · [[starlink-airtel-d2c-partnership]] · [[brics-pay]]
-- [[solly-malatsi]] · [[dcdt-south-africa]] — communications minister / department (digital-divide framing; MyMzansi; platform regulation).
-- [[deepseek]] · [[us-department-of-state]] — US–China AI-market contest; Rubio data-sovereignty cable.
-- Mentioned, not hubbed: Teraco / Digital Realty (120 MW Free State solar), PSC;
-  Minister Leon Schreiber (Home Affairs), Mark Burke (digital-ID
-  analyst); Edward Kieswetter (SARS Commissioner); Ferdi Moolman (MTN SA CEO); Sentech /
-  Broadband Infraco; Royal Bafokeng Institute; Lelapa AI; SABC+; Civic AI, Ikamva Digital
-  (GIZ); Yangtze Optics Africa Cable (Durban); Wits School of Law (African Cyber Law
-  Conference); Godongwana; Discovery, Pepkor, Naspers; Housing Assembly, Foxglove;
-  Vantage, Wiocc/OADC; Telkom (Telkom AI Institute); Transnet, DBSA (ransomware cases).
+- **Identity & registration** — [[home-affairs-south-africa]] · [[leon-schreiber]] ·
+  [[njabulo-nzuza]] · [[government-printing-works]] · [[border-management-authority]] · [[sars]] ·
+  [[idemia]] · [[intelligent-population-register]] · [[sa-digital-id-regulations]] ·
+  [[south-africa-eta]] · [[edrs-south-africa]] · [[department-of-land-reform-south-africa]] ·
+  [[mymzansi]] · [[digital-services-unit-presidency-sa]] · [[sa-digital-transformation-roadmap]] ·
+  [[baker-mckenzie]]
+- **Welfare & the exclusion case** — [[sassa]] · [[themba-matlou]] ·
+  [[institute-for-economic-justice]] · [[paythegrants]] · [[national-treasury-south-africa]] ·
+  [[act-south-africa]]
+- **Data centres & energy** — [[teraco]] · [[jan-hnizdo]] · [[digital-realty]] · [[cavaleros]] ·
+  [[cosmas-data-cities]] · [[knight-frank]] · [[vantage]] · [[attacq]] · [[equinix]] ·
+  [[equinix-sa-438m-expansion]] · [[axiz]] · [[africa-data-centres]] ·
+  [[distributed-power-africa]] · [[eskom]] · [[us-dfc]] · [[research-and-markets]]
+- **Cloud, AI & platforms** — [[google]] · [[microsoft]] · [[microsoft-elevate]] ·
+  [[microsoft-sa-2026-expansion]] · [[tiara-pathon]] · [[amazon-web-services]] · [[nvidia]] ·
+  [[anthropic]] · [[trendai]] · [[deepseek]] · [[meta]] · [[cassava-technologies]] ·
+  [[cassava-ai-factories]] · [[liquid-c2]] · [[strive-masiyiwa]]
+- **Connectivity** — [[seacom]] · [[equiano]] · [[vodacom]] · [[mtn-group]] ·
+  [[mtn-sa-2026-investment]] · [[ralph-mupita]] · [[icasa]] · [[starlink]] · [[spacex]] ·
+  [[space42]] · [[thuraya-4]] · [[starlink-vodacom-leo-partnership]] ·
+  [[starlink-airtel-d2c-partnership]] · [[safaricom]] · [[vodacom-safaricom-stake-deal]] ·
+  [[sadis-2025]] · [[dbsa]]
+- **Policy, state & research** — [[dcdt-south-africa]] · [[solly-malatsi]] · [[cyril-ramaphosa]] ·
+  [[sita]] · [[sarb]] · [[popia]] · [[saps]] · [[operation-vulindlela]] · [[dhet-south-africa]] ·
+  [[us-department-of-state]] · [[research-ict-africa]] · [[alison-gillwald]] · [[after-access]] ·
+  [[david-eaves]] · [[un-egdi]] · [[datareportal]] · [[disrupt-africa]] · [[itu]] ·
+  [[partner2connect]] · [[world-bank]] · [[brics-pay]] · [[fccpc]] · [[forensic-data-analysts]]
+- Mentioned, not hubbed: Chris Yelland (EE Business Intelligence); Penny Cavaleros; Samuel Erwin
+  (Teraco); Finhai Munzara, Hardy Pemhiwa (Cassava/ADC); Edward Kieswetter (SARS); Livhuwani Makhode
+  (DHA DG); Alinah Fosi (GPW); Paseka Letsatsi, Andile Tshona (SASSA); Min. Sisisi Nokuzola Tolashe
+  (Social Development); Mark Burke; Ferdi Moolman (MTN SA); Godongwana; Kabelo Makwane (Google SA);
+  Prenesh Padayachee (Seacom); Sentech / Broadband Infraco; PSC; Lelapa AI; SABC+; Civic AI, Ikamva
+  Digital (GIZ); Wits School of Law; Nedbank, Discovery, Naspers; Housing Assembly, Foxglove;
+  Wiocc/OADC; Telkom; Transnet, DBSA (ransomware); Future-tech; Absa.

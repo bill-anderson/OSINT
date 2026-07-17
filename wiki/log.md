@@ -26,7 +26,7 @@ are right at different levels, not two firms:** Al Madina / Almadina is **regist
 **Lebanese-owned/run** (the **Nassour** family — Aziz Nassour, dir.). RFI (21 Aug 2020) states it plainly:
 "enregistrée à Oman… dirigée par Aziz Nassour." Corbeau's "libanaise" = ownership nationality; Biometric
 Update's "Oman-headquartered" = registration. No unrelated same-named firm involved.
-- **Primary extracted → new/ → ingested:** [[raw/2020-08-21 Centrafrique - Al Madina, la societe qui pose question a Bangui (RFI)]]
+- **Primary extracted → new/ → ingested:** [[2020-08-21 Centrafrique - Al Madina, la societe qui pose question a Bangui (RFI)]]
   (routed through `new/` and the intake screen, not written to `raw/` directly).
 - **Research quarantined** (do-not-ingest): `reviews/contradictions/research/REV-CAF-001.md`.
 - **Pages resolved (cite the primary, not the research):** [[al-madina]] (needs-review → active; "Home
@@ -40,9 +40,9 @@ from Dec 2025 (DG **Abdallah Ibrahim Yonis**). Law **Art. 24** makes **ANSIE's D
 so the real predecessor is ANSIE's cyber directorate, **not** a body called "ANCS." "ANCS" (in the Nov-2024
 strategy reporting) was a **pre-statutory/informal label**, not a separate institution and not a straight
 rename.
-- **Primaries extracted → new/ → ingested (2):** [[raw/2025-12-15 Loi n 195-AN-25 portant creation de l'Autorite Nationale de Cybersecurite (Djibouti, JO)]]
+- **Primaries extracted → new/ → ingested (2):** [[2025-12-15 Loi n 195-AN-25 portant creation de l'Autorite Nationale de Cybersecurite (Djibouti, JO)]]
   (the Journal Officiel law text — gold-standard primary) and
-  [[raw/2025-12-09 Djibouti Launches National Cyber Security Authority (ANC operational, DG named)]].
+  [[2025-12-09 Djibouti Launches National Cyber Security Authority (ANC operational, DG named)]].
 - **Research quarantined** (do-not-ingest): `reviews/contradictions/research/REV-DJI-001.md`.
 - **Pages resolved:** [[national-cybersecurity-authority-djibouti]] (needs-review → active; retitled to lead
   with ANC; "Name / lineage (resolved)" section), [[djibouti--gov-protect]], [[DJI]].
@@ -64,25 +64,25 @@ existing pages; 2 new entities created.** No leads/discards.
   REV-COD-001, arrived via the clipper — renamed to its true 2025-10-11 publication date (clip was dated
   2026-07-16). **Backfill**, attached to [[drc-national-digital-plan-pnn2]] + [[drc-national-ai-strategy]];
   states the split explicitly ("$1bn public over 5 yrs + $500m external support already guaranteed") —
-  **further hardens REV-COD-001** and adds the planned **Congolese Academy of AI**. → [[raw/2025-10-11 La RDC prevoit 1,5 milliard $ de budget pour son Plan national du numerique et de l'IA 2026-2030 (Agence Ecofin)]].
+  **further hardens REV-COD-001** and adds the planned **Congolese Academy of AI**. → [[2025-10-11 La RDC prevoit 1,5 milliard $ de budget pour son Plan national du numerique et de l'IA 2026-2030 (Agence Ecofin)]].
 - **AUC–ITU cooperation MoU** (AI for Good Summit, Geneva; no clip date → `date_source: proxy`). Attached to
-  [[african-union]] + [[itu]]. → [[raw/2026-07-16 African Union Commission, ITU sign cooperation agreement]].
+  [[african-union]] + [[itu]]. → [[2026-07-16 African Union Commission, ITU sign cooperation agreement]].
 - **CSquared adds 2Africa West capacity** for West Africa route diversity/resilience. New entity
-  **[[csquared]]**; attached to [[2africa-cable]], [[XWA]]. → [[raw/2026-07-15 CSquared boosts internet by integrating with 2Africa West cable]].
+  **[[csquared]]**; attached to [[2africa-cable]], [[XWA]]. → [[2026-07-15 CSquared boosts internet by integrating with 2Africa West cable]].
 - **Ethio Telecom + Huawei** expand into enterprise/SME cloud/AI/cyber (Next Horizon 2028). Attached to
-  [[ethio-telecom]], [[huawei]] (added ETH), [[ETH]]. → [[raw/2026-07-15 Ethio Telecom, Huawei expand digital push]].
+  [[ethio-telecom]], [[huawei]] (added ETH), [[ETH]]. → [[2026-07-15 Ethio Telecom, Huawei expand digital push]].
 - **Nigeria fibre cuts hit record** (NCC: 155,397 in Apr–May 2026, +2,428% on Q1; vandalism-led). Attached to
-  [[ncc]], [[NGA]]. → [[raw/2026-07-15 Nigeria records surge in fibre cuts (NCC)]].
+  [[ncc]], [[NGA]]. → [[2026-07-15 Nigeria records surge in fibre cuts (NCC)]].
 - **Senegal cybersecurity cooperation** (critical-infrastructure protection; future legal framework). Attached
-  to [[new-deal-technologique]], [[SEN]]. → [[raw/2026-07-15 Senegal pushes stronger cybersecurity cooperation to protect critical infrastructure]].
+  to [[new-deal-technologique]], [[SEN]]. → [[2026-07-15 Senegal pushes stronger cybersecurity cooperation to protect critical infrastructure]].
 - **Senegal digitises 15.3m civil-registration records** (ANEC). New entity **[[anec-senegal]]**; attached to
-  [[SEN]]. → [[raw/2026-07-15 Senegal digitizes more than 15 million birth records in civil registration overhaul]].
+  [[SEN]]. → [[2026-07-15 Senegal digitizes more than 15 million birth records in civil registration overhaul]].
 
 **Same-event duplicates (attached, not spawned):**
 - **Raxio $380m committed capital** (tech.africa, 15 Jul) — same event as the held 2026-07-14 source; attached
-  to [[raxio-group]]. → [[raw/2026-07-15 Raxio data-centre capital tops $380m on investor boost]].
+  to [[raxio-group]]. → [[2026-07-15 Raxio data-centre capital tops $380m on investor boost]].
 - **Yas/EBRD €270m ($307m)** (TechBooky, 14 Jul) — same event as the held 2026-07-13 EBRD-Yas source; attached
-  to [[ebrd-yas-network-loan]], [[yas]], [[SEN]] (added the **Zuku**/Wananchi detail). → [[raw/2026-07-14 Yas gets $307m to rebuild Zuku's broadband fight in Kenya and expand in Senegal]].
+  to [[ebrd-yas-network-loan]], [[yas]], [[SEN]] (added the **Zuku**/Wananchi detail). → [[2026-07-14 Yas gets $307m to rebuild Zuku's broadband fight in Kenya and expand in Senegal]].
 
 **New entities:** [[csquared]] (company), [[anec-senegal]] (government-body) — both added to `entities-index`.
 **Mechanical:** 1 file renamed to true publication date (Ecofin FR, 2026-07-16 → 2025-10-11); SEN topics
@@ -107,10 +107,10 @@ the **USD peg** for the DRC leg (inferred from Visa's global USDC work, not disc
 Visa partnership still **awaiting regulatory approval**; the BCC is pursuing de-dollarisation).
 
 **Ingested 2 primaries** (both fetched direct = HTTP 403; built from curator's Exa verification, verbatim
-quotes/dates): [[raw/2026-07-02 Visa tests stablecoins in DRC for cross-border payments (The EastAfrican)]]
+quotes/dates): [[2026-07-02 Visa tests stablecoins in DRC for cross-border payments (The EastAfrican)]]
 (the Sullivan quote; editor's note on pending regulatory approval) and
-[[raw/2026-07-02 DR Congo becomes Africa's live test for dollar-settled mobile money (Ecofin)]] (the
-"no joint pilot" corrective). The weak Streamline Feed source ([[raw/2026-07-10 Visa and M-Pesa Launch Blockchain Stablecoin Pilot in DR Congo]])
+[[2026-07-02 DR Congo becomes Africa's live test for dollar-settled mobile money (Ecofin)]] (the
+"no joint pilot" corrective). The weak Streamline Feed source ([[2026-07-10 Visa and M-Pesa Launch Blockchain Stablecoin Pilot in DR Congo]])
 is retained on the deal entity as provenance history and swapped out of the other pages' inline citations.
 
 **Deal entity retitled + reframed:** [[visa-mpesa-onafriq-drc-stablecoin-pilot]] (slug kept to avoid
@@ -144,7 +144,7 @@ at the primary-budget-line level even though the reconciliation is high-confiden
 
 **Pages updated (hedge → resolved figure, gap flagged):** [[mozambique-cyber-security-law]], [[MOZ]].
 Item removed from `_review.md`. **No new ingest** — the correction is an interpretation of the one held
-source ([[raw/2026-04-17 Mozambique parliament unanimously approves Cyber Security Law]]).
+source ([[2026-04-17 Mozambique parliament unanimously approves Cyber Security Law]]).
 
 **Flag (optional follow-up, not actioned):** the note also surfaced the law's **enactment** — Lei n.º
 13/2026 (Segurança Cibernética) + Lei n.º 14/2026 (Crimes Cibernéticos), promulgated by President Chapo
@@ -158,9 +158,9 @@ wiki's instrument page still reads "approved 2026-04-17" only. Ingesting INTIC/L
 
 Curator ran the external-research brief for **REV-004** and returned a reconciliation. **Resolution:
 $367 million over five years** — the **US Embassy Harare's own stated MoU value** (Ambassador Pamela
-Tremont, 24 Feb 2026), reported by Ecofin (held: [[raw/2026-02-25 Zimbabwe Turns Down U.S. Health Funding, Citing Sovereignty Concerns]])
+Tremont, 24 Feb 2026), reported by Ecofin (held: [[2026-02-25 Zimbabwe Turns Down U.S. Health Funding, Citing Sovereignty Concerns]])
 and independently corroborated by Africanews (26 Feb) and Reuters/Africa CDC (5 Mar). The **$350m**
-(Business Insider, held: [[raw/2026-02-24 ⁠Zimbabwe rejects $350 million US health funding deal warns It threatens national sovereignty]])
+(Business Insider, held: [[2026-02-24 ⁠Zimbabwe rejects $350 million US health funding deal warns It threatens national sovereignty]])
 was a **pre-announcement round estimate** off the leaked 23 Dec 2025 Zimbabwean memo — same deal, not a
 rival value. A third figure (~$328m, Harare's own hedged "in the region of" via the state *Herald*) is
 noted but **not held on file**. No new ingest — both competing sources were already held; the "$367m is
@@ -181,9 +181,9 @@ reconciliation. Both anchor on sources the wiki **already holds**, so no new ing
 
 **(a) AMSP / PATIMFA facility — $3bn, not $3.8bn.** $3bn is the primary Afreximbank figure (Board-
 approved 20 Mar 2020, $200m reserved for AMSP), matching Masiyiwa's own **written** account
-([[raw/2020-07-01 Strive Masiyiwa. Best practices from Africa Collaboration in the time of COVID-19]]).
+([[2020-07-01 Strive Masiyiwa. Best practices from Africa Collaboration in the time of COVID-19]]).
 The stray **$3.8bn is now pinned**: a single verbal remark in his Milken interview
-([[raw/2020-06-01 Interview with AU Special Envoy Strive Masiyiwa on the Launch of the Africa Medical Supplies Platform  Milken Institute]])
+([[2020-06-01 Interview with AU Special Envoy Strive Masiyiwa on the Launch of the Africa Medical Supplies Platform  Milken Institute]])
 — an uncorroborated slip, not a rival estimate. Kept the wiki's $3bn/$200m; recharacterised the $3.8bn
 as a footnoted misstatement on [[africa-medical-supplies-platform]].
 
@@ -200,7 +200,7 @@ block on [[strive-masiyiwa]].
 
 **Follow-up ingest (2026-07-16, curator-directed):** to pin the precise **10 July 1998** launch,
 ingested Econet's own *About Us* page as a company primary record →
-[[raw/2026-07-16 Econet Wireless Zimbabwe About Us (network launch 10 July 1998)]]. Evergreen page,
+[[2026-07-16 Econet Wireless Zimbabwe About Us (network launch 10 July 1998)]]. Evergreen page,
 no publication date (copyright © 2026), so filed **`date_source: proxy`** on the ingest date — a
 historical-baseline backfill documenting a 1998 fact, not a 1998 publication. It fixes the launch at
 10 July 1998, the legal battle at 1993–1998, and a ZSE listing within three months; it carries no
@@ -227,8 +227,8 @@ Reframed the "contradiction-watch / counter-signal" language on all five affecte
 narrow-scope metric, not a counter-signal." **Pages updated:** [[papss]], [[dpi.pay]], [[NGA]],
 [[afreximbank]], [[nigeria--dpi-pay]] (added the resolved PAPSS-Nigeria treatment + the source).
 Item removed from `_review.md`. **No new sources ingested** — the wiki already held both anchors (the
-−53% source [[raw/2026-01-27 Nigeria's PAPSS cross-border payments falls 53% to N5.6bn]] and the
-[[beac]] accession [[raw/2026-07-11 BEAC joins PAPSS and accelerates cross-border payments integration in Central Africa]]);
+−53% source [[2026-01-27 Nigeria's PAPSS cross-border payments falls 53% to N5.6bn]] and the
+[[beac]] accession [[2026-07-11 BEAC joins PAPSS and accelerates cross-border payments integration in Central Africa]]);
 the "narrow line item" and "real-not-FX" findings are the curator's reasoned inference (my-notes,
 do-not-cite), recorded as dated analysis, not new cited facts. Continental-scaling detail the note
 surfaced but the wiki does **not** yet hold as sources (TechCabal 4-yr review incl. ~$600m/quarter;
@@ -244,8 +244,8 @@ PNN2 cost reported inconsistently) and returned a reconciliation. **Resolution:*
 figure is the **US$1.5bn government financing envelope** = **$1bn public treasury (2026–2030) + $500m
 secured partner support (2025–2029)**, attributed to the Ministry of the Digital Economy / President
 Tshisekedi at the 8 Oct 2025 launch and restated through July 2026 (held source
-[[raw/2025-10-10 DR Congo launches National Digital Plan 2026-2030 (PNN2) and first AI strategy]]).
-The **"$8.7bn total"** ([[raw/2026-02-01 DRC unveils $8.7 billion digital plan to expand connectivity and AI skills by 2030]])
+[[2025-10-10 DR Congo launches National Digital Plan 2026-2030 (PNN2) and first AI strategy]]).
+The **"$8.7bn total"** ([[2026-02-01 DRC unveils $8.7 billion digital plan to expand connectivity and AI skills by 2030]])
 is **unverified** — secondary tech-trade media only, currency-ambiguous ($8.7bn vs €8bn/$8.8bn in the
 same outlet), no primary source; most plausibly a fuller ambition envelope incl. private capital. The
 **€8.7bn / $10.4bn total** once carried on [[rdc-pass]] **could not be corroborated** from any public
@@ -261,7 +261,7 @@ pages left immutable (their inline "REV-COD-001" notes are historical).
 **Follow-up ingest (2026-07-16, curator-directed):** to give the **$1bn + $500m split** a hard
 citation rather than resting it on the reconciliation note, ingested **1 new source** — We Are Tech
 (Ecofin), 20 Feb 2026, reporting the DRC's **17 Feb 2026** operationalisation of the $500m external-
-partner tranche after World Bank/AFD talks → [[raw/2026-02-20 DRC operationalises $500m partner tranche of PNN2 financing (World Bank, AFD)]].
+partner tranche after World Bank/AFD talks → [[2026-02-20 DRC operationalises $500m partner tranche of PNN2 financing (World Bank, AFD)]].
 Directly states $1bn government treasury (2026-2030) + $500m secured partners; also refs June 2025
 deals (WB $400m digital; EU €100m). No new entities (WB, IDEA, PNN2 already held). Pages touched:
 [[drc-national-digital-plan-pnn2]] (source + split now cited), [[COD]] (new 2026-02-17 development),
@@ -3944,3 +3944,161 @@ a **dated target, never an accomplished rollout** (GAP-TUN-002), and the 2004 da
 **Lints clean across the 373 batch-touched files:** 0 dead links, 0 schema violations, 0 vocabulary
 violations, 0 stranded queue items (`new/` empty). All three hubs finish under the classify
 threshold (TUN 1,728w · TZA 1,656w · UGA 1,963w).
+
+## 2026-07-17 — Schema change (ratified): Phase-2 sweep intake
+
+**CLAUDE.md amended with the curator's explicit ratification** (Wiki Gaps Phase 2 session,
+2026-07-17): added `new-queue/` (sweep candidates awaiting human review; only the human promotes to
+`new/`) and `sweep/` (procedure, query recipes, progress ledger, drop logs) to the folder structure,
+plus a **Sweep intake** section binding the sweep to the existing invariants — conservative
+sweep-time dedup with per-country drop logs (aggressive dedup stays at lint #7), admissibility and
+`published`-date discipline applied at staging, and `new/ → raw/` ingest unchanged as the only door
+into the wiki. Created `sweep/README.md` (procedure), `sweep/query-recipes.md` (taxonomy-derived
+Exa query clusters, N1–N7 / J1–J2 / R1–R3) and `sweep/ledger.csv` (54 countries + XAF regional
+pass, newspapers prefilled from `my-notes/sources.csv`). Journal set fixed at eight per
+`my-notes/trade-journal-coverage-assessment.md`. Known source-list holes carried in the ledger:
+CAF (no papers listed), COG and GNQ (one paper each).
+
+---
+
+## 2026-07-17 — ZAF · ZMB · ZWE batch (South Africa, Zambia, Zimbabwe)
+
+**Scale.** 57 queue items (53 clips + 4 PDFs) drained to empty. **55 source pages** in `raw/`
+(51 clips + 4 artefact companions), **51 new entity pages** (1,038 → 1,089), **2 new intersections**,
+3 place hubs rebuilt, 3 indexes updated. Final batch of the seven-batch sweep.
+
+**Ingested.** 51 clips admitted; 4 artefacts date-prefixed with companion pages; **0 leads parked**;
+**3 discards**. No AI or second-hand syntheses.
+
+**This was the dedup batch.** These are the wiki's best-covered countries — 206 held sources already
+touched them — so the risk was never volume. **Three defects in already-held material surfaced, and
+each was a different flavour of the same failure: a secondary source's own date or framing ingested
+as fact.**
+- **The Google Johannesburg cloud region was mis-dated on the ZAF hub by 14 months.** Held as
+  **2025-03-27** — which is the *publication date of a secondary AFRIBIT blog post*. Google's own
+  announcement dates the region's opening to **2024-01-31**, and is internally corroborated (its
+  "40 regions / 121 zones" count and "$180bn by 2025" projection both fix it to early 2024).
+  Corrected on the hub. **No contradiction filed: the vendor's own announcement is dispositive, so
+  this is an error correction, not competing values needing research.** The *class* of error is
+  raised as **ISSUE-009** — because it is not a one-off (see Microsoft, below).
+- **The held four-party digital-ID pact date is probably wrong.** Held material says **April 2024**;
+  contemporaneous reporting of the signing says **April 2025**, and says the **2010** date belongs to
+  the SARS–DHA *bilateral*, not the four-party deal. Filed as a contradiction rather than fixed,
+  since a 2026 held source asserts it.
+- **A relevant-duplicate where the INCOMING item wins.** The wiki held an SAnews re-render of the
+  DHA's 4m-Smart-IDs statement (2026-01-29); the batch brought **the DHA's own gov.za statement
+  (2026-01-28)** — identical payload down to the same Schreiber quote, but **primary and a day
+  earlier**, so it takes both rungs (a) and (c) of the lint #7 ladder. Held copy pruned, **4
+  citations rewired**.
+
+**Other dedup.** The **two "Regional DPI" clips are the same article** (two capture passes — the
+comma in one filename is clipper noise; md5s differ, payload identical) **and both duplicate a held
+source** (`2025-08-26 SADC regional DPI initiative…`). Three copies of one article; both incoming
+discarded. *Note: the recon flagged the held page as under-tagging Zambia — but Zambia appears only
+in a 16-member list, which is a mention, not place-level payload. Tags left as `[XSA, BWA]`,
+consistent with how the EGDI "lowest-ranked" list was handled.* Nine further suspected pairs examined
+and **kept as complementary** (Teraco JB5 ×2, Africa Data Centres Jul-vs-Nov 2024, the Smart ID
+plan→extend→deliver chain, the SASSA enrolment pair, the Zimbabwe deeds pair, the Econet pair, the
+Zambian civil-registration pair, the ZILAS event-vs-profile pair, the MOSIP/SmartCare pair).
+
+**Corrections to held material beyond the duplicates.**
+- **Zambia's MOSIP thread starts January 2025, not March 2026.** The held `zambia--dpi-id` opened at
+  the system-integrator procurement; SMART Zambia developers had **completed MOSIP training by
+  2025-01-17**, with a SmartCarePro EHR integration already in flight. The SI hunt was not the start
+  — the intersection was **missing its own prehistory**. Section rewritten and re-dated.
+- **`[[raw/…]]` link form fixed across 75 files.** A pre-existing defect spanning Algeria, Egypt,
+  Djibouti, Ethiopia, Cabo Verde and Sudan entities and intersections, plus `log.md` and `SDN.md`.
+  Verified resolving after the fix; tier-1 mechanical.
+
+**Dates.** All 53 clips arrived prefixed `2026-07-17`; true publication dates established, spanning
+**2019-03-06 → 2026-02-27**. **The DCD "14 Jul 2026" header trap did not bite** — all three DCD clips
+carried intake notes neutralising it, and one rendered a *different* false date ("03 Mar 2026"),
+confirming it is a live current-date render rather than a fixed error. The **Microsoft Azure clip is
+a genuine 2019 primary** — the T-zero of African hyperscale, seven years old, admitted as historical
+baseline with its 2019 forecasts explicitly marked as forecasts. **Two clips could not be dated**:
+the ZIMRA/TaRMS page (undated; the year is the clipper's inference from a news-ID sequence — only
+"post-Feb-2024" is established, GAP-ZWE-005) and **Digital 2026 Zimbabwe**, whose clipper date of
+2025-11-08 **conflicts with house precedent** (every other DataReportal country report held publishes
+Feb–Mar of its report year) — filed month-precision proxy, GAP-ZWE-004.
+
+**Scope corrections.** Three clips arrived mis-routed: **"Electronic Transactions A Consumer Right"
+is Zimbabwe**, not Zambia (a "Consumer Protection Commission" name collision); **"Land Reform and
+Rural Development implements eDRS" is South Africa**, not Zimbabwe (gov.za, and the statutes are
+South African — it landed in the ZWE set because the Zimbabwean deeds material cites South Africa as
+a model it is copying); the **"Regional DPI" pair is region-level (XSA)**, not Zambia-primary.
+
+**Corrections to my own briefing, caught by the agents.** Two. I told the ZAF agent the DHA plans an
+"**Intelligent Population Register**" — **the department's own tabled Strategic Plan says National
+Population Register (NPR)** with an "Integrated Identity System" indicator; IPR is the trade press's
+term. The department's wording is preferred and the divergence recorded. And I passed on a recon
+claim that POTRAZ had launched a "Privacy Responsibility Challenge" — **the ZWE agent found it is not
+in `raw/` at all** and correctly invented nothing rather than fill the gap.
+
+**Editorial actions (tier-2, itemised).**
+- **Intersections created:** `south-africa--include-divides` (1,461w, 7 sources — the batch's most
+  important page) and `zimbabwe--dpi-registry` (1,285w, 5 sources — Zimbabwe's first intersection).
+- **Hubs:** ZAF **2,398 → 2,762w**; ZMB **1,383 → 2,335w**; ZWE **743 → 2,163w**. All three finish
+  **above the 1,300–1,800 target but under the ~2,500 classify threshold**, and each agent reported
+  the residual honestly rather than deleting facts to hit a number. **ZAF is the one to watch**: it is
+  not matrix-shaped (one country, thematic), but its Identity and Data-centre sections now carry batch
+  detail that belongs in the existing `south-africa--dpi-id` and `south-africa--infra-store` cells —
+  a follow-up pass would take it under 1,800 without losing anything. Flagged, not actioned.
+- **A bare figure fixed:** the ZMB hub carried internet penetration at "**21 per 100**" unqualified.
+  It is now dated and attributed alongside the competing 33.0% and 56.8% readings.
+- **`zambia--dpi-id`** re-dated and extended (7 new sources).
+
+**Registers.** **9 contradictions opened** — the most of any batch, and they are real rather than
+definitional noise. The sharpest: **`zambia-inris-enrolment`** (a *later* source reporting a *lower*
+figure on a register that only accumulates — 1.5m in Sep 2024, ~1.6m implied by the World Bank in Sep
+2025, ~1.3m in Dec 2025); **`south-africa-digital-id-sarb-or-sars`** (two DHA primaries — a
+ministerial speech and the department's own Strategic Plan — say the digital ID is built with the
+**Reserve Bank**, where held material says the **Revenue Service** hosts it; SARB ≠ SARS);
+**`africa-tech-funding-2025`** ($1.64bn vs $4.1bn — a 2.5× gap between two trackers reported a day
+apart, which nonetheless **agree to within 0.5pp on the big-four share**, strongly suggesting
+methodology not error). Plus `zambia-internet-penetration`, `zambia-digital-id-target` (the operating
+registrar says 2027; the digital-transformation agency says 2026), `econet-infraco-founding`,
+`sassa-biometric-enrolment-scope`, `south-africa-four-party-pact-date`, `microsoft-sa-investment-date`.
+**2 issues** — ISSUE-008 (the `econet-wireless` page conflates Group and Zimbabwean opco; *recommend*
+split, since InfraCo cannot hang off it as-is) and **ISSUE-009** (secondary re-reports ingested with
+their own publication date — *recommend* a standing intake rule, since it has now produced one
+confirmed 14-month error and one open contradiction). **ISSUE-004 annotated with a second instance**:
+the Zambia energy diagnostic is the same class as the Togo tariff clip and even thinner — testing its
+full text found **"digital" appears zero times** and "phone" only as an appliance wattage. Admitted
+narrowly per that issue's own recommended rule. **12 gaps** — ZAF-001…004, ZMB-001…003, ZWE-001…005.
+
+**Not filed as contradictions** (documented dated on pages): South Africa's **five digital-ID launch
+dates** (2025 missed · 2026 Ramaphosa · 2027/28 the DHA's own APP · 2028/9 the Strategic Plan · 2029
+Schreiber) — **this ladder is the finding, not a dispute to adjudicate**, and four of the five are the
+department's own; Microsoft claiming "first enterprise-grade datacenters in Africa" in **2019** and
+2026 reporting calling the new build "SA's first" — a marketing collision, neither adopted; Vantage's
+80 MW (one campus) vs 100 MW (two) — different scopes; the DataReportal "21.1% offline" against the
+held "4G reaches 98%" — **coverage is not use**, compatible but not interchangeable; Research and
+Markets' ~53 DCs (early 2025) below the held 55 (Feb 2026) and 56 (May 2026) — a consistent growth
+series; Zambia's DZAP **$100m IDA + $20m commercial = $120m** — reconciles; TelOne's "home-grown"
+traffic AI against held reporting of Chinese-supplied camera systems — **possibly different systems,
+insufficient evidence to call; flagged for the reconcile pass**.
+
+**Flags.** **The batch's strongest analytical finding is a collision the state produced itself:**
+SASSA's own statement of 2026-01-19 records that of 14,135 COVID-19 SRD applications from permanent
+residents, refugees and special-permit holders, **8,368 were approved but only 2,690 paid — 32%**.
+Nine days later the state was reported at the Supreme Court of Appeal defending an online-only welfare
+system against the charge that it had "**persistently failed to pay hundreds of thousands of approved
+beneficiaries**". The government's own dated primary corroborates the claim it is appealing — and the
+DHA's record-4-million-Smart-IDs triumph statement was published **the same day** as the SCA
+reporting. That chain is now `south-africa--include-divides`, and it is what the wiki previously
+lacked: somewhere digital-by-default exclusion is litigated with numbers rather than warned about
+rhetorically. The department's argument that **complaints posted on X prove there is no barrier to
+online access** is self-refuting on its face — it can only sample the connected.
+**Provenance discipline applied:** the DHA's OVS statement is held as the department's **own defence**
+of the ~6,500% fee the wiki records as contested — both readings kept. The Zambian ZILAS and
+SmartCare Pro accounts are the **implementers' own** (SMART Zambia's portal; IHM, who built the EHR;
+Co-Develop, who funds the agenda) — cited for what the systems do, never as evidence they work.
+Zimbabwe's Cyber and Data Protection Act rests entirely on a law firm **selling compliance services**,
+with the Act text unheld (GAP-ZWE-001). **`colonialism` deliberately not tagged anywhere in the
+Zimbabwe material** — the only clip touching it does so in a single euphemistic clause, framed as an
+investor-confidence problem by a lawyer with a stake; the observation that the deeds programme is the
+natural home for that read and **no source in the batch makes it** is recorded as prose instead.
+
+**Lints clean across the 486 batch-touched files:** 0 dead links, 0 schema violations, 0 vocabulary
+violations, 0 stranded queue items (`new/` empty). Whole-corpus entity/intersection dead links now
+stand at **1** (`zain-group`, pre-existing, already tracked as GAP-SDN-002).

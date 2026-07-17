@@ -8,7 +8,7 @@ topics: [include.divides, include.access, dpi.pay, capacity.literacy]
 lens: []
 status: active
 last_reviewed: 2026-07-16
-sources: [[raw/2025-05-20-mobile-gender-gap-report-2025-gsma]]
+sources: [[2025-05-20-mobile-gender-gap-report-2025-gsma]]
 ---
 
 # GSMA Mobile Gender Gap Report
@@ -25,7 +25,7 @@ of the relevant edition; leave the report's numbers in it. Country deep-dives (e
 Nigeria mobile-gender-gap work) arrive as their own sources that cite this series.
 
 ## Editions on file
-- **2025 edition** (published May 2025, on 2024 data) — see [[raw/2025-05-20-mobile-gender-gap-report-2025-gsma]].
+- **2025 edition** (published May 2025, on 2024 data) — see [[2025-05-20-mobile-gender-gap-report-2025-gsma]].
 
 ## Related
 - [[gsma]] · [[gates-foundation]] · [[include.divides]] · [[include.access]]

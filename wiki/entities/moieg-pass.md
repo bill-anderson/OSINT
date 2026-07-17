@@ -7,7 +7,7 @@ topics: [dpi.id, dpi.govtech, gov.protect]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-15
-sources: [[raw/2026-02-14 Egypt Interior Ministry launches MOIEG-PASS biometric verification app]]
+sources: [[2026-02-14 Egypt Interior Ministry launches MOIEG-PASS biometric verification app]]
 ---
 
 # MOIEG-PASS (Egypt Interior Ministry biometric verification app)

@@ -7,7 +7,7 @@ topics: [dpi.govtech, gov.policy, infra.connect, tech.ai]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-15
-sources: [[raw/2025-11-21 Egypt ICT and Digital Economy (US Country Commercial Guide)], [raw/2024-09-30 5 facts about Digital Public Infrastructure (UNDP Egypt)]]
+sources: [[2025-11-21 Egypt ICT and Digital Economy (US Country Commercial Guide)], [raw/2024-09-30 5 facts about Digital Public Infrastructure (UNDP Egypt)]]
 ---
 
 # Ministry of Communications and Information Technology (MCIT, Egypt)

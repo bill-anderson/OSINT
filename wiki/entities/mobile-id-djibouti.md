@@ -7,7 +7,7 @@ topics: [dpi.id, dpi.exchange, gov.protect]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-15
-sources: [[raw/2026-02-10 Djibouti launches Mobile ID national digital identity platform]]
+sources: [[2026-02-10 Djibouti launches Mobile ID national digital identity platform]]
 ---
 
 # Mobile ID (Djibouti)

@@ -7,7 +7,7 @@ topics: [dpi.id, finance.new, include.access]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-15
-sources: [[raw/2025-02-27 Ethiopia's digital ID unlocks services for women, refugees and IDPs (WB project)], [raw/2025-10-29 WB Ethiopia Digital ID for Inclusion and Services Project - implementation status report], [raw/2025-02-07 WB Ethiopia Digital ID for Inclusion and Services Project - appraisal ESRS]]
+sources: [[2025-02-27 Ethiopia's digital ID unlocks services for women, refugees and IDPs (WB project)], [raw/2025-10-29 WB Ethiopia Digital ID for Inclusion and Services Project - implementation status report], [raw/2025-02-07 WB Ethiopia Digital ID for Inclusion and Services Project - appraisal ESRS]]
 ---
 
 # Ethiopia Digital ID for Inclusion and Services Project (World Bank, P179040)

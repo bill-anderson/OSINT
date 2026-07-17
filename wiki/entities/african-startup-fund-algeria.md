@@ -7,7 +7,7 @@ topics: [finance.new, gov.regional, tech.innovate]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-15
-sources: [[raw/2025-10-27 Algeria commits $1bn to African Startup Financing Fund]]
+sources: [[2025-10-27 Algeria commits $1bn to African Startup Financing Fund]]
 ---
 
 # African Startup and Young Innovators Financing Fund (Algeria)

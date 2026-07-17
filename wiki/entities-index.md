@@ -162,6 +162,19 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 | Uqudo | TUN | dpi.id, gov.standards, tech.ai, dpi.pay | [[uqudo]] |
 | Veridos | UGA | dpi.id, tech.industry, gov.legislate | [[veridos]] |
 | Wananchi Group (Holdings) Ltd | UGA, KEN | infra.connect, tech.industry, finance.new | [[wananchi-group]] |
+| Attacq | ZAF | infra.store, infra.capacity, finance.new | [[attacq]] |
+| Cavaleros Group | ZAF | infra.store, infra.energy, infra.capacity, tech.ai | [[cavaleros]] |
+| Cosmas Data Cities | ZAF | infra.store, infra.energy, infra.capacity, tech.ai | [[cosmas-data-cities]] |
+| Distributed Power Africa (DPA) | ZAF | infra.energy, infra.store, finance.new | [[distributed-power-africa]] |
+| Econet InfraCo | ZWE | infra.store, infra.energy, infra.connect, tech.industry, finance.new | [[econet-infraco]] |
+| Eskom | ZAF | infra.energy, infra.store, infra.capacity, gov.policy | [[eskom]] |
+| Garsu Pasaulis | ZWE | dpi.id, tech.industry, infra.cybersec, dpi.exchange | [[garsu-pasaulis]] |
+| IHM Southern Africa | ZMB | dpi.mis, dpi.id, capacity.training, tech.industry, dpi.exchange | [[ihm-southern-africa]] |
+| Knight Frank | ZAF | infra.store, infra.capacity, finance.new | [[knight-frank]] |
+| TelOne | ZWE | infra.connect, tech.ai, dpi.govtech, tech.industry, infra.cybersec | [[telone]] |
+| Teraco | ZAF | infra.store, infra.capacity, infra.energy, infra.connect, finance.new, tech.ai | [[teraco]] |
+| Vantage Data Centers | ZAF | infra.store, infra.capacity, finance.new, infra.energy | [[vantage]] |
+| Victoria Falls Stock Exchange (VFEX) | ZWE | finance.new, tech.industry | [[victoria-falls-stock-exchange]] |
 
 ## Organisations
 
@@ -319,6 +332,8 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 | Tanzania Internet Service Providers Association (TSPAR) | TZA | infra.connect, infra.store, dpi.exchange | [[tspar]] |
 | UN-Habitat | UGA, XGL | dpi.registry, digital.rural, digital.localgov, include.divides | [[un-habitat]] |
 | Universal Postal Union (UPU) | XGL, TZA | gov.standards, dpi.registry, gov.regional | [[upu]] |
+| Institute for Economic Justice (IEJ) | ZAF | include.access, include.divides, dpi.pay, gov.legislate, capacity.literacy, digital.rural | [[institute-for-economic-justice]] |
+| "#PayTheGrants" | ZAF | include.access, include.divides, dpi.pay, gov.legislate, capacity.literacy, digital.rural | [[paythegrants]] |
 
 ## Government bodies
 
@@ -545,6 +560,23 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 | Tanzania Communications Regulatory Authority (TCRA) | TZA | infra.connect, gov.legislate, dpi.registry, data.statistics, include.access | [[tcra]] |
 | Uganda Revenue Authority (URA) | UGA | dpi.govtech, dpi.pay, dpi.id, dpi.exchange, gov.legislate, gov.policy | [[ura-uganda]] |
 | Uganda Registration Services Bureau (URSB) | UGA | dpi.registry, dpi.govtech, dpi.id, gov.legislate | [[ursb]] |
+| Border Management Authority (South Africa) | ZAF | dpi.id, dpi.exchange, dpi.govtech, gov.standards, dpi.registry | [[border-management-authority]] |
+| Civil Registry Department (Zimbabwe) | ZWE | dpi.id, dpi.registry, digital.rural, include.access, include.divides, data.statistics | [[civil-registry-department-zimbabwe]] |
+| Consumer Protection Commission (Zimbabwe) | ZWE | dpi.pay, gov.protect, gov.legislate, include.access | [[consumer-protection-commission-zimbabwe]] |
+| Department of Immigration (Zimbabwe) | ZWE | dpi.id, dpi.exchange, gov.regional, infra.cybersec, dpi.govtech | [[department-of-immigration-zimbabwe]] |
+| Department of Land Reform and Rural Development (South Africa) | ZAF | dpi.registry, gov.legislate, dpi.govtech, digital.rural | [[department-of-land-reform-south-africa]] |
+| Department of National Registration, Passport and Citizenship (DNRPC) | ZMB | dpi.id, dpi.registry, gov.protect, include.access, digital.rural, data.statistics | [[dnrpc-zambia]] |
+| Government Printing Works (South Africa) | ZAF | dpi.id, dpi.exchange, dpi.govtech, gov.standards, infra.cybersec | [[government-printing-works]] |
+| Ministry of Home Affairs and Cultural Heritage (Zimbabwe) | ZWE | dpi.id, dpi.registry, gov.policy, dpi.govtech, include.access | [[ministry-of-home-affairs-zimbabwe]] |
+| Ministry of Justice, Legal and Parliamentary Affairs (Zimbabwe) | ZWE | gov.legislate, dpi.registry, gov.standards, dpi.govtech | [[ministry-of-justice-zimbabwe]] |
+| Ministry of Lands and Natural Resources (MLNR), Zambia | ZMB | dpi.registry, dpi.govtech, dpi.pay, digital.localgov, include.access | [[ministry-of-lands-zambia]] |
+| National Treasury (South Africa) | ZAF | dpi.pay, include.access, gov.policy, finance.new | [[national-treasury-south-africa]] |
+| Postal and Telecommunications Regulatory Authority of Zimbabwe (POTRAZ) | ZWE | gov.protect, gov.legislate, infra.connect, gov.standards, infra.cybersec | [[potraz]] |
+| Registrar-General of Zimbabwe | ZWE | dpi.id, dpi.registry, dpi.govtech, capacity.training | [[registrar-general-zimbabwe]] |
+| Reserve Bank of Zimbabwe (RBZ) | ZWE | dpi.pay, gov.legislate, include.access | [[reserve-bank-of-zimbabwe]] |
+| South African Social Security Agency (SASSA) | ZAF | dpi.pay, dpi.id, include.access, include.divides, gov.protect, gov.policy, capacity.literacy | [[sassa]] |
+| Zimbabwe Deeds Registry | ZWE | dpi.registry, gov.legislate, dpi.govtech, gov.standards, infra.cybersec | [[zimbabwe-deeds-registry]] |
+| Zimbabwe Revenue Authority (ZIMRA) | ZWE | dpi.govtech, dpi.registry, dpi.id, dpi.pay, dpi.exchange | [[zimra]] |
 
 ## Initiatives / programmes
 
@@ -738,6 +770,13 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 | Subsidies Compensation Platform (Tunisia) | TUN | dpi.pay, dpi.registry, gov.protect, include.access | [[subsidies-compensation-platform-tunisia]] |
 | UGHub | UGA | dpi.exchange, dpi.govtech, gov.standards, data.open, include.access | [[ughub]] |
 | UGPass | UGA | dpi.govtech, dpi.id, dpi.exchange, gov.standards, infra.cybersec | [[ugpass]] |
+| Electronic Deeds Registration System (eDRS, South Africa) | ZAF | dpi.registry, gov.legislate, dpi.govtech | [[edrs-south-africa]] |
+| Integrated National Registration Information System (INRIS) | ZMB | dpi.id, dpi.registry, dpi.exchange, gov.standards, gov.protect, capacity.training, data.statistics | [[inris]] |
+| Intelligent Population Register (IPR) | ZAF | dpi.registry, dpi.id, gov.legislate, gov.policy, gov.protect, tech.ai, data.statistics | [[intelligent-population-register]] |
+| Online Border Management System (OBMS, Zimbabwe) | ZWE | dpi.id, dpi.exchange, infra.cybersec, gov.regional, dpi.govtech, gov.standards | [[obms-zimbabwe]] |
+| Safe City Project (Zimbabwe) | ZWE | tech.ai, dpi.govtech, infra.cybersec, digital.localgov, gov.protect | [[safe-city-project-zimbabwe]] |
+| SmartCare Pro | ZMB | dpi.mis, dpi.id, dpi.exchange, digital.rural, include.access | [[smartcare-pro]] |
+| Zambia Integrated Land Administration System (ZILAS) | ZMB | dpi.registry, dpi.govtech, dpi.exchange, dpi.pay, digital.localgov | [[zilas]] |
 
 ## Deals
 
@@ -812,6 +851,7 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 | Togo Digital Acceleration Financing (World Bank, $100m IDA series) | TGO | finance.new, infra.connect, capacity.training, tech.innovate, include.divides, include.access, infra.capacity | [[togo-digital-acceleration-financing]] |
 | Yas / AXIAN Telecom — Wananchi Group acquisition | UGA, KEN | finance.new, infra.connect, tech.industry, gov.regional | [[axian-wananchi-acquisition]] |
 | UXP Tunisia (national interoperability platform) | TUN | dpi.exchange, dpi.govtech, gov.standards, infra.cybersec, dpi.id, geopol.eu, finance.new | [[uxp-tunisia]] |
+| Zambia Refugee and Host Communities Project (ZRHCP) | ZMB | finance.new, dpi.id, dpi.registry, include.access, include.divides, infra.connect | [[zrhcp]] |
 
 ## People
 
@@ -878,6 +918,12 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 | Nick Opiyo | UGA | gov.protect, dpi.id, infra.cybersec, gov.legislate | [[nick-opiyo]] |
 | Nizar Ben Neji | TUN | dpi.id, dpi.govtech, dpi.exchange, gov.policy | [[nizar-ben-neji]] |
 | Rosemary Kisembo | UGA | dpi.id, gov.protect, dpi.registry, tech.industry | [[rosemary-kisembo]] |
+| Davies Chikalanga | ZMB | dpi.id, dpi.registry, include.access, data.statistics, gov.policy | [[davies-chikalanga]] |
+| Jack Mwiimbu | ZMB | dpi.id, dpi.registry, gov.policy, include.access, digital.rural, gov.regional | [[jack-mwiimbu]] |
+| Jan Hnizdo | ZAF | infra.store, infra.capacity, infra.connect, infra.energy | [[jan-hnizdo]] |
+| Michael Aboneka | UGA | dpi.id, gov.protect, gov.legislate, include.divides, include.access | [[michael-aboneka]] |
+| Njabulo Nzuza | ZAF | dpi.id, dpi.registry, dpi.govtech, data.statistics, include.access, digital.rural | [[njabulo-nzuza]] |
+| Themba Matlou | ZAF | dpi.id, dpi.pay, gov.protect, include.access | [[themba-matlou]] |
 
 ## Resources (standing data assets)
 
@@ -932,6 +978,10 @@ Databases, registries, datasets, tools and portals consulted repeatedly (entity_
 | StatEduc | TGO, XGL | dpi.mis, data.statistics, dpi.exchange | [[stateduc]] |
 | SYDONIA (ASYCUDA) customs system | TGO | dpi.govtech, dpi.exchange, data.statistics | [[sydonia]] |
 | Karuma Hydropower Plant (K-HPP) | UGA | infra.energy, infra.store, tech.ai | [[karuma-hydropower-plant]] |
+| Disrupt Africa | XAF, ZAF, NGA, EGY, KEN | finance.new, tech.industry, tech.innovate | [[disrupt-africa]] |
+| Equiano subsea cable | ZAF, NGA, TGO, NAM, XAF | infra.connect, infra.store, geopol.usa | [[equiano]] |
+| Research and Markets | XGL, ZAF | infra.store, infra.capacity, finance.new | [[research-and-markets]] |
+| TaRMS Self-Service Portal (Zimbabwe) | ZWE | dpi.govtech, dpi.registry, dpi.id, dpi.pay, dpi.exchange | [[tarms-zimbabwe]] |
 
 ## Instruments — reference standards / frameworks / policy-legal instruments
 
@@ -1073,6 +1123,8 @@ about or from one becomes a normal source that cites it.
 | Uganda National Financial Inclusion Strategy 2023-2028 (NFIS II) | UGA | dpi.pay, include.access, include.divides, gov.policy | [[uganda-nfis-ii]] |
 | UN E-Government Development Index (EGDI) | XGL, XAF | dpi.govtech, data.statistics, gov.standards | [[un-egdi]] |
 | UPU S42 (international addressing standard) | XGL, TZA | gov.standards, dpi.registry, gov.regional | [[upu-s42]] |
+| Zimbabwe Cyber and Data Protection Act (2021) | ZWE | gov.protect, gov.legislate, gov.standards, infra.cybersec, dpi.exchange | [[zimbabwe-cyber-and-data-protection-act]] |
+| Zimbabwe Statutory Instrument 76 of 2025 (securitised deeds) | ZWE | dpi.registry, gov.legislate, gov.standards, dpi.govtech, infra.cybersec | [[zimbabwe-si-76-2025]] |
 
 ## Instruments — scholarly & analytical works (`entity_type: instrument`; formerly "publications")
 

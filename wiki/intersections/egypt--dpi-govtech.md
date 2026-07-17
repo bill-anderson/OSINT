@@ -9,7 +9,7 @@ entities: [[digital-egypt], [mcit-egypt], [egypt-property-id-law]]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-15
-sources: [[raw/2025-11-13 Egypt to shift public services to the Digital Egypt platform], [raw/2025-12-18 Egypt targets full government automation and digital ID verification by 2026], [raw/2024-09-30 5 facts about Digital Public Infrastructure (UNDP Egypt)], [raw/2025-07-14 Between Ambition and Implementation - Egypt's e-government experience (Masaar)], [raw/2025-05-14 Egypt approves Property ID Law to digitise real estate]]
+sources: [[2025-11-13 Egypt to shift public services to the Digital Egypt platform], [raw/2025-12-18 Egypt targets full government automation and digital ID verification by 2026], [raw/2024-09-30 5 facts about Digital Public Infrastructure (UNDP Egypt)], [raw/2025-07-14 Between Ambition and Implementation - Egypt's e-government experience (Masaar)], [raw/2025-05-14 Egypt approves Property ID Law to digitise real estate]]
 ---
 
 # Egypt × GovTech / e-Government

@@ -7,7 +7,7 @@ topics: [dpi.pay, geopol.usa]
 lens: []
 status: active
 last_reviewed: 2026-07-15
-sources: [[raw/2025-11-30 EthSwitch unveils 15-year vision and Mastercard partnership]]
+sources: [[2025-11-30 EthSwitch unveils 15-year vision and Mastercard partnership]]
 ---
 
 # Mastercard

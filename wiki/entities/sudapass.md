@@ -44,9 +44,9 @@ post-conflict recovery and state coherence.
   exclusion/surveillance failures seen elsewhere — **Kenya** cited as a cautionary case — and stress
   trust, inclusivity and safeguards. The government also stood up the
   **[[sudanese-cybersecurity-authority]]** as part of the same digital-transformation drive. Source:
-  [[raw/2026-02-02 Sudan's planned national digital ID could strengthen recovery push - Experts]].
+  [[2026-02-02 Sudan's planned national digital ID could strengthen recovery push - Experts]].
 
 ## Sources
 
 - [[2026-01-29 How to build trust alongside Sudan's digital identity system]]
-- [[raw/2026-02-02 Sudan's planned national digital ID could strengthen recovery push - Experts]]
+- [[2026-02-02 Sudan's planned national digital ID could strengthen recovery push - Experts]]

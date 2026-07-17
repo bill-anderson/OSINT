@@ -9,7 +9,7 @@ entities: [[cnpd-cabo-verde], [data-protection-law-cabo-verde], [nosi]]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-15
-sources: [[raw/2024-01-01 Cabo Verde data protection - Digital Regulations in the Metaverse Era (IBA)], [raw/2025-10-31 Cabo Verde launches national SOC and CSIRT]]
+sources: [[2024-01-01 Cabo Verde data protection - Digital Regulations in the Metaverse Era (IBA)], [raw/2025-10-31 Cabo Verde launches national SOC and CSIRT]]
 ---
 
 # Cabo Verde × Data Protection

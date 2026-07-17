@@ -7,7 +7,7 @@ topics: [dpi.govtech, dpi.exchange, gov.policy, include.access]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-15
-sources: [[raw/2025-11-13 Egypt to shift public services to the Digital Egypt platform], [raw/2025-12-18 Egypt targets full government automation and digital ID verification by 2026], [raw/2024-09-30 5 facts about Digital Public Infrastructure (UNDP Egypt)]]
+sources: [[2025-11-13 Egypt to shift public services to the Digital Egypt platform], [raw/2025-12-18 Egypt targets full government automation and digital ID verification by 2026], [raw/2024-09-30 5 facts about Digital Public Infrastructure (UNDP Egypt)]]
 ---
 
 # Digital Egypt

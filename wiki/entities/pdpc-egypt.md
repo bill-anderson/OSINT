@@ -7,7 +7,7 @@ topics: [gov.protect, gov.legislate]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-15
-sources: [[raw/2026-02-11 Egypt finalises Executive Regulations to the PDPL (Decree 816-2025)]]
+sources: [[2026-02-11 Egypt finalises Executive Regulations to the PDPL (Decree 816-2025)]]
 ---
 
 # Personal Data Protection Center (PDPC, Egypt)

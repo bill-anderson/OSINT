@@ -9,7 +9,7 @@ entities: [[ethiopia-pdpp], [ethiopian-communications-authority], [fayda-ethiopi
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-15
-sources: [[raw/2024-08-30 Ethiopia's Personal Data Protection Proclamation 1321-2024 (overview)], [raw/2025-11-15 One year on - Ethiopia's data protection law faces slow enforcement], [raw/2024-11-18 Review of Ethiopia's Data Protection Act]]
+sources: [[2024-08-30 Ethiopia's Personal Data Protection Proclamation 1321-2024 (overview)], [raw/2025-11-15 One year on - Ethiopia's data protection law faces slow enforcement], [raw/2024-11-18 Review of Ethiopia's Data Protection Act]]
 ---
 
 # Ethiopia × Data Protection

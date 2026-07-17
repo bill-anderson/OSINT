@@ -7,7 +7,7 @@ topics: [dpi.pay, include.access]
 lens: []
 status: active
 last_reviewed: 2026-07-15
-sources: [[raw/2025-12-11 tpay secures NTRA licence for direct mobile payments for government services]]
+sources: [[2025-12-11 tpay secures NTRA licence for direct mobile payments for government services]]
 ---
 
 # tpay (TPay Mobile)

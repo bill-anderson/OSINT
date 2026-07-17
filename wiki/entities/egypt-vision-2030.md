@@ -7,7 +7,7 @@ topics: [gov.policy, dpi.govtech, tech.industry]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-15
-sources: [[raw/2023-01-01 Egypt Vision 2030 - National Agenda for Sustainable Development (updated)], [raw/2024-09-30 5 facts about Digital Public Infrastructure (UNDP Egypt)]]
+sources: [[2023-01-01 Egypt Vision 2030 - National Agenda for Sustainable Development (updated)], [raw/2024-09-30 5 facts about Digital Public Infrastructure (UNDP Egypt)]]
 ---
 
 # Egypt Vision 2030

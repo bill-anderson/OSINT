@@ -7,7 +7,7 @@ topics: [dpi.id, gov.legislate, gov.protect]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-15
-sources: [[raw/2025-11-05 Algeria approves draft law on national digital ID and trust services]]
+sources: [[2025-11-05 Algeria approves draft law on national digital ID and trust services]]
 ---
 
 # Algeria Digital Identity & Trust Services Law (2025 draft)

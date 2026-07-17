@@ -7,7 +7,7 @@ topics: [dpi.id, dpi.pay, include.access, gov.protect]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-15
-sources: [[raw/2025-11-13 Egypt CBE launches Haweya national digital financial ID (eKYC)]]
+sources: [[2025-11-13 Egypt CBE launches Haweya national digital financial ID (eKYC)]]
 ---
 
 # Haweya (Egypt national digital financial ID)

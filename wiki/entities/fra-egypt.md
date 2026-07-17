@@ -7,7 +7,7 @@ topics: [dpi.pay, gov.policy, dpi.exchange]
 lens: []
 status: active
 last_reviewed: 2026-07-15
-sources: [[raw/2026-02-08 Egypt FRA launches digital factoring portal]]
+sources: [[2026-02-08 Egypt FRA launches digital factoring portal]]
 ---
 
 # Financial Regulatory Authority (FRA, Egypt)

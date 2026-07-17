@@ -9,7 +9,7 @@ entities: [[papss], [afreximbank]]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-15
-sources: [[raw/2024-08-11 Algeria launches Tabioucom fiscal-stamp-duty e-payment platform], [raw/2024-10-14 Algeria to launch domestic instant payment system (Bank of Algeria)], [raw/2024-01-01 Algeria to launch DZ MOB PAY mobile payment system], [raw/2025-08-15 Bank of Algeria joins PAPSS network]]
+sources: [[2024-08-11 Algeria launches Tabioucom fiscal-stamp-duty e-payment platform], [raw/2024-10-14 Algeria to launch domestic instant payment system (Bank of Algeria)], [raw/2024-01-01 Algeria to launch DZ MOB PAY mobile payment system], [raw/2025-08-15 Bank of Algeria joins PAPSS network]]
 ---
 
 # Algeria × Digital Payments

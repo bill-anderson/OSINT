@@ -7,7 +7,7 @@ topics: [gov.protect, gov.legislate, dpi.exchange]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-15
-sources: [[raw/2024-08-30 Ethiopia's Personal Data Protection Proclamation 1321-2024 (overview)], [raw/2025-11-15 One year on - Ethiopia's data protection law faces slow enforcement]]
+sources: [[2024-08-30 Ethiopia's Personal Data Protection Proclamation 1321-2024 (overview)], [raw/2025-11-15 One year on - Ethiopia's data protection law faces slow enforcement]]
 ---
 
 # Ethiopia Personal Data Protection Proclamation (No. 1321/2024)

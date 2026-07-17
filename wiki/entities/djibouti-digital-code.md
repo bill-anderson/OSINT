@@ -7,7 +7,7 @@ topics: [gov.protect, infra.cybersec, dpi.exchange, gov.policy]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-15
-sources: [[raw/2025-07-01 Djibouti Digital Code adopted by National Assembly], [raw/2025-11-05 Review of Djibouti Data Protection Law]]
+sources: [[2025-07-01 Djibouti Digital Code adopted by National Assembly], [raw/2025-11-05 Review of Djibouti Data Protection Law]]
 ---
 
 # Djibouti Digital Code

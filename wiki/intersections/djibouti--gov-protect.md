@@ -9,7 +9,7 @@ entities: [[djibouti-digital-code], [cndp-djibouti], [national-cybersecurity-aut
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-16
-sources: [[raw/2025-07-01 Djibouti Digital Code adopted by National Assembly], [raw/2025-11-05 Review of Djibouti Data Protection Law], [raw/2024-12-02 Djibouti National Cybersecurity Strategy 2024-2030], [raw/2025-11-12 Djibouti advances bill to create National Cybersecurity Authority], [raw/2025-12-15 Loi n 195-AN-25 portant creation de l'Autorite Nationale de Cybersecurite (Djibouti, JO)], [raw/2025-12-09 Djibouti Launches National Cyber Security Authority (ANC operational, DG named)]]
+sources: [[2025-07-01 Djibouti Digital Code adopted by National Assembly], [raw/2025-11-05 Review of Djibouti Data Protection Law], [raw/2024-12-02 Djibouti National Cybersecurity Strategy 2024-2030], [raw/2025-11-12 Djibouti advances bill to create National Cybersecurity Authority], [raw/2025-12-15 Loi n 195-AN-25 portant creation de l'Autorite Nationale de Cybersecurite (Djibouti, JO)], [raw/2025-12-09 Djibouti Launches National Cyber Security Authority (ANC operational, DG named)]]
 ---
 
 # Djibouti × Data Protection

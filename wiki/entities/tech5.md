@@ -7,7 +7,7 @@ topics: [dpi.id, dpi.pay, dpi.govtech]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-16
-sources: [[raw/2025-09-19 Djibouti-Visa Smart Wallet national digital wallet MoU], [2026-03-04 Guinea Launches Biometric Birth Certificates in Sanoyah in Civil Registry Modernization Push], [2024-08-15 Mauritania Launches Digital ID for e-Services, Built on TECH5 Platform (Houwiyeti)]]
+sources: [[2025-09-19 Djibouti-Visa Smart Wallet national digital wallet MoU], [2026-03-04 Guinea Launches Biometric Birth Certificates in Sanoyah in Civil Registry Modernization Push], [2024-08-15 Mauritania Launches Digital ID for e-Services, Built on TECH5 Platform (Houwiyeti)]]
 ---
 
 # TECH5

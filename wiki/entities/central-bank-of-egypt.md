@@ -7,7 +7,7 @@ topics: [dpi.pay, dpi.id, include.access, gov.protect]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-15
-sources: [[raw/2025-11-13 Egypt CBE launches Haweya national digital financial ID (eKYC)], [raw/2026-02-01 Egypt CBE launches SoftPOS contactless payment-acceptance service], [raw/2026-02-17 Egypt financial inclusion reaches 77.6% (CBE, end-2025)]]
+sources: [[2025-11-13 Egypt CBE launches Haweya national digital financial ID (eKYC)], [raw/2026-02-01 Egypt CBE launches SoftPOS contactless payment-acceptance service], [raw/2026-02-17 Egypt financial inclusion reaches 77.6% (CBE, end-2025)]]
 ---
 
 # Central Bank of Egypt (CBE)

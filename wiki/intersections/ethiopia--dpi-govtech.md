@@ -9,7 +9,7 @@ entities: [[mesob-platform], [fayda-ethiopia-national-id], [digital-ethiopia-203
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-15
-sources: [[raw/2025-07-12 How Fayda powers Ethiopia's MESOB one-stop government platform], [raw/2024-07-19 Ethiopia's e-government leap to interoperability (EeGIF)], [raw/2024-07-11 Ethiopia's Digital Government Strategy and Enterprise Architecture 2024-2029], [raw/2026-03-22 Ethiopia opens Africa's first unmanned Smart Police Station]]
+sources: [[2025-07-12 How Fayda powers Ethiopia's MESOB one-stop government platform], [raw/2024-07-19 Ethiopia's e-government leap to interoperability (EeGIF)], [raw/2024-07-11 Ethiopia's Digital Government Strategy and Enterprise Architecture 2024-2029], [raw/2026-03-22 Ethiopia opens Africa's first unmanned Smart Police Station]]
 ---
 
 # Ethiopia × GovTech / e-Government

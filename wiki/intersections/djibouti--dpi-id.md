@@ -9,7 +9,7 @@ entities: [[mobile-id-djibouti], [djibouti-digital-code], [cndp-djibouti], [smar
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-15
-sources: [[raw/2026-02-10 Djibouti launches Mobile ID national digital identity platform], [raw/2025-11-05 Review of Djibouti Data Protection Law]]
+sources: [[2026-02-10 Djibouti launches Mobile ID national digital identity platform], [raw/2025-11-05 Review of Djibouti Data Protection Law]]
 ---
 
 # Djibouti × Digital Identity

@@ -7,7 +7,7 @@ topics: [infra.connect, infra.store]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-15
-sources: [[raw/2024-11-18 Telecom Egypt Regional Data Hub 2 awarded Tier III design certification], [raw/2025-11-21 Egypt ICT and Digital Economy (US Country Commercial Guide)]]
+sources: [[2024-11-18 Telecom Egypt Regional Data Hub 2 awarded Tier III design certification], [raw/2025-11-21 Egypt ICT and Digital Economy (US Country Commercial Guide)]]
 ---
 
 # Telecom Egypt

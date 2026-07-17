@@ -7,7 +7,7 @@ topics: [infra.cybersec, gov.policy]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-16
-sources: [[raw/2025-12-15 Loi n 195-AN-25 portant creation de l'Autorite Nationale de Cybersecurite (Djibouti, JO)], [raw/2025-12-09 Djibouti Launches National Cyber Security Authority (ANC operational, DG named)], [raw/2025-11-12 Djibouti advances bill to create National Cybersecurity Authority], [raw/2024-12-02 Djibouti National Cybersecurity Strategy 2024-2030]]
+sources: [[2025-12-15 Loi n 195-AN-25 portant creation de l'Autorite Nationale de Cybersecurite (Djibouti, JO)], [raw/2025-12-09 Djibouti Launches National Cyber Security Authority (ANC operational, DG named)], [raw/2025-11-12 Djibouti advances bill to create National Cybersecurity Authority], [raw/2024-12-02 Djibouti National Cybersecurity Strategy 2024-2030]]
 ---
 
 # Autorité Nationale de Cybersécurité (ANC, Djibouti)
@@ -34,8 +34,8 @@ d'Information de l'État, Loi n°100/AN/15) the ANC's **initial nucleus**, trans
 personnel and amending ANSIE's law so state-IT-security functions pass to the ANC. So the ANC is a
 newly-constituted statutory authority that **absorbed ANSIE's cybersecurity directorate**, superseding the
 informal "ANCS" designation. Sources:
-[[raw/2025-12-15 Loi n 195-AN-25 portant creation de l'Autorite Nationale de Cybersecurite (Djibouti, JO)]],
-[[raw/2025-12-09 Djibouti Launches National Cyber Security Authority (ANC operational, DG named)]].
+[[2025-12-15 Loi n 195-AN-25 portant creation de l'Autorite Nationale de Cybersecurite (Djibouti, JO)]],
+[[2025-12-09 Djibouti Launches National Cyber Security Authority (ANC operational, DG named)]].
 
 ## Context
 

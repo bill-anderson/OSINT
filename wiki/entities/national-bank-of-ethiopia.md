@@ -7,7 +7,7 @@ topics: [dpi.pay, gov.policy, include.access, gov.protect]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-15
-sources: [[raw/2025-12-10 NBE launches full integration of Fayda digital ID with the banking system], [raw/2024-04-04 NBE governor on Ethiopia's digital-payments journey], [raw/2025-12-09 Ethiopia launches National Digital Payments Strategy 2026-2030]]
+sources: [[2025-12-10 NBE launches full integration of Fayda digital ID with the banking system], [raw/2024-04-04 NBE governor on Ethiopia's digital-payments journey], [raw/2025-12-09 Ethiopia launches National Digital Payments Strategy 2026-2030]]
 ---
 
 # National Bank of Ethiopia (NBE)

@@ -7,7 +7,7 @@ topics: [gov.policy, dpi.govtech, tech.ai, infra.connect]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-15
-sources: [[raw/2025-10-17 Algeria launches Dzair Services single-window public-services platform], [raw/2025-12-02 AI in government - Algeria's HCD and National AI Strategy], [raw/2025-12-04 Algeria cloud and data-centre market to reach $450m by 2035]]
+sources: [[2025-10-17 Algeria launches Dzair Services single-window public-services platform], [raw/2025-12-02 AI in government - Algeria's HCD and National AI Strategy], [raw/2025-12-04 Algeria cloud and data-centre market to reach $450m by 2035]]
 ---
 
 # Digital Algeria 2030 (SNTN-2030)

@@ -9,7 +9,7 @@ entities: [[nosi], [gov-cv], [digital-cabo-verde-project]]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-15
-sources: [[raw/2024-01-01 Cabo Verde targets 60pct of vital public services online by 2026 (NOSi)], [raw/2026-03-03 Cabo Verde and CAR launch digital government platforms (Gov.CV)], [raw/2024-10-23 Digital Transformation in Cabo Verde - The New Horizon (World Bank)], [raw/2025-05-02 WB Project Paper - Digital Cabo Verde Project Additional Financing]]
+sources: [[2024-01-01 Cabo Verde targets 60pct of vital public services online by 2026 (NOSi)], [raw/2026-03-03 Cabo Verde and CAR launch digital government platforms (Gov.CV)], [raw/2024-10-23 Digital Transformation in Cabo Verde - The New Horizon (World Bank)], [raw/2025-05-02 WB Project Paper - Digital Cabo Verde Project Additional Financing]]
 ---
 
 # Cabo Verde × GovTech / e-Government

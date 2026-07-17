@@ -389,3 +389,68 @@ in the same batch and is now held; instrument upgraded stub→active. See log.md
   it as unlinked text. This breaches the Filenames rule that binary artefacts get a companion source
   page. Pre-existing, not from this batch; surfaced while building [[uganda--infra-store]]. *Lead:
   mint the companion page (or confirm the artefact should be dropped).* (Surfaced ingest, 2026-07-17.)
+
+- **GAP-ZAF-001 · Teraco has no entity page despite being South Africa's largest data-centre operator.**
+  Roughly **190 MW IT load** and ~**670 colocation customers** (2026-02), eight facilities, an internal
+  target of 500 MW — named across at least six held sources and four in this batch, yet it sits under
+  "mentioned, not hubbed" on the ZAF hub. The clearest structural absence in the batch. *Lead: create the
+  page from the material now held.* (Surfaced ingest, 2026-07-17.)
+
+- **GAP-ZAF-002 · SASSA has no entity page.** Four sources in this batch, a live Supreme Court of Appeal
+  case, R300m+ claimed savings from biometric verification, and a national payments rail that gates social
+  protection for millions. *Lead: create the page.* (Surfaced ingest, 2026-07-17.)
+
+- **GAP-ZAF-003 · IDEMIA's South African contract is unrecorded.** IDEMIA has an entity page, but its
+  **10-year contract to upgrade South Africa's ID system, including provision of 80 million smart ID
+  cards** and biometric enrolment, appears nowhere in held material — despite being the vendor spine of
+  the Smart ID programme. Single-sourced to a second-hand trade report (2025-02-04). *Lead: source the
+  contract award and terms.* (Surfaced ingest, 2026-07-17.)
+
+- **GAP-ZAF-004 · The ISER-adjacent SASSA/SRD litigation record is not held.** The wiki holds GroundUp's
+  account of the parties' filed arguments but not the **January 2025 high court ruling** that found
+  several SRD regulations unlawful, nor the state's SCA appeal papers. The case is the evidentiary centre
+  of South Africa's digital-exclusion story. *Lead: source the judgment and the appeal.* (Surfaced ingest,
+  2026-07-17.)
+
+- **GAP-ZMB-001 · The DNRPC has no entity page.** The Department of National Registration, Passport and
+  Citizenship *is* Zambia's civil-registration and ID authority and is the central actor in half this
+  batch — INRIS, the NRC campaign, birth registration, the Registrar General — yet has no page. *Lead:
+  create it.* (Surfaced ingest, 2026-07-17.)
+
+- **GAP-ZMB-002 · Zambia's land-administration digitisation was entirely absent until this batch.**
+  **ZILAS** (Zambia Integrated Land Administration System), deployed by SMART Zambia's E-Government
+  Division and accessed via the Government Service Bus, appears nowhere in held material and the ZMB hub
+  carries no land/registry-of-title thread. Now sourced, but only from the implementing agency's own
+  portal pages. *Lead: source an independent account of ZILAS coverage and outcomes.* (Surfaced ingest,
+  2026-07-17.)
+
+- **GAP-ZMB-003 · Three Zambian threads are named but untracked.** The **ZRHCP** ($30m World Bank refugee
+  and host-community project, biometric NRCs for refugees, to end-Oct 2028), the **SMART Zambia MVNO PPP
+  tender**, and the **TBI–UNDP MoU** each appear once in this batch and nowhere else. *Leads: source each.*
+  (Surfaced ingest, 2026-07-17.)
+
+- **GAP-ZWE-001 · Zimbabwe's Cyber and Data Protection Act text is not held.** Two held sources already
+  rely on the Act — the AI-Strategy critique cites **s.164C** directly — and the wiki now has a law-firm
+  overview of it, but not the statute. Nor are the **Cyber and Data Protection (Licensing of Data
+  Controllers and Appointment of Data Protection Officers) Regulations, 2024** held. *Lead: source both.*
+  (Surfaced ingest, 2026-07-17.)
+
+- **GAP-ZWE-002 · The outcome of Zimbabwe's 2024 biometric border pilot is unknown.** The wiki holds the
+  May-2024 announcement that the OBMS would "initially be tested" at three ports of entry, and nothing
+  since. *Lead: establish whether it went into production, and when.* (Surfaced ingest, 2026-07-17.)
+
+- **GAP-ZWE-003 · SI 76 of 2025's commencement date is unheld — and the whole scheme keys off it.**
+  Zimbabwe's securitised-deeds regime gives owners a **24-month validation window running from the
+  Minister's commencement announcement**, not from gazetting; as of August 2025 commencement was
+  "expected shortly" and had not been triggered. Without that date the wiki cannot say when the window
+  opens or closes, or when old deeds cease to be valid. *Lead: establish the commencement date.*
+  (Surfaced ingest, 2026-07-17.)
+
+- **GAP-ZWE-004 · The Digital 2026 Zimbabwe publication date is unverified and contradicts house
+  precedent.** The clip carries no in-body date; the clipper's 2025-11-08 conflicts with every other
+  DataReportal country report held here, which publish in February or March of the report year. Filed
+  month-precision proxy. *Lead: verify and re-prefix.* (Surfaced ingest, 2026-07-17.)
+
+- **GAP-ZWE-005 · The ZIMRA/TaRMS page is undated.** Only "post-February 2024" is established; the year on
+  file is the clipper's inference from a news-ID sequence, so it is held year-precision proxy and the
+  prefix is padding. *Lead: establish the date, or accept the proxy openly.* (Surfaced ingest, 2026-07-17.)

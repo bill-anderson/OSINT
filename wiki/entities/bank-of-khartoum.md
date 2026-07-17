@@ -7,7 +7,7 @@ topics: [dpi.pay, include.access]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-16
-sources: [[raw/2025-03-05 Rebuilding Sudan's digital infrastructure amidst conflict]]
+sources: [[2025-03-05 Rebuilding Sudan's digital infrastructure amidst conflict]]
 ---
 
 # Bank of Khartoum

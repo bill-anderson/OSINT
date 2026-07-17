@@ -7,7 +7,7 @@ topics: [dpi.pay, gov.policy, include.access]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-15
-sources: [[raw/2025-12-09 Ethiopia launches National Digital Payments Strategy 2026-2030], [raw/2024-04-04 NBE governor on Ethiopia's digital-payments journey]]
+sources: [[2025-12-09 Ethiopia launches National Digital Payments Strategy 2026-2030], [raw/2024-04-04 NBE governor on Ethiopia's digital-payments journey]]
 ---
 
 # Ethiopia National Digital Payments Strategy (NDPS 2026–2030)

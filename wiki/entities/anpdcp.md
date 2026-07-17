@@ -7,7 +7,7 @@ topics: [gov.protect, gov.legislate]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-15
-sources: [[raw/2024-09-19 Algeria Digital Economy (US Country Commercial Guide)]]
+sources: [[2024-09-19 Algeria Digital Economy (US Country Commercial Guide)]]
 ---
 
 # National Authority for the Protection of Personal Data (ANPDCP, Algeria)

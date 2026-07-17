@@ -9,7 +9,7 @@ entities: [[sa-digital-id-regulations], [popia], [home-affairs-south-africa], [m
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-13
-sources: [[2026-04-21 South Africa's digital ID gets a targeted launch date], [2026-05-29 Opinion South Africa's Digital Identity Regulations A Governance Crossroads], [2026-01-29 Over 4 million smart ID cards issued in 2025], [2026-01-27 SA's Telcos, Banks At War With Govt Over 6,500% ID Verification Fee Hike], [2026-01-28 Bad news about South Africa's newest ID book plan], [2025-11-09 Behind the speedy MyMzansi screens and the Presidency's race to build a digital government], [2026-01-07 Digital driving licence coming to South Africa], [2026-04-03 Say goodbye to SARS tax numbers in South Africa], [2026-03-31 Concerns over South Africa's proposed digital ID system from traditional leaders], [2026-03-09 Home affairs launches Smart ID partnership with banks], [2026-02-24 South Africa makes the ETA the cornerstone of its visa reform]]
+sources: [[2026-04-21 South Africa's digital ID gets a targeted launch date], [2026-05-29 Opinion South Africa's Digital Identity Regulations A Governance Crossroads], [2026-01-28 Home Affairs sets new record by delivering over four million Smart IDs in 2025], [2026-01-27 SA's Telcos, Banks At War With Govt Over 6,500% ID Verification Fee Hike], [2026-01-28 Bad news about South Africa's newest ID book plan], [2025-11-09 Behind the speedy MyMzansi screens and the Presidency's race to build a digital government], [2026-01-07 Digital driving licence coming to South Africa], [2026-04-03 Say goodbye to SARS tax numbers in South Africa], [2026-03-31 Concerns over South Africa's proposed digital ID system from traditional leaders], [2026-03-09 Home affairs launches Smart ID partnership with banks], [2026-02-24 South Africa makes the ETA the cornerstone of its visa reform]]
 ---
 
 # South Africa × Digital Identity
@@ -57,7 +57,7 @@ of the primary legislation, and analysts warn the governance scaffolding is thin
   (+17% YoY; ~1.3m more than 2022+2023 combined), its highest-ever annual delivery — credited
   to repairing the **Online Verification Service (OVS)** and improved population-register
   uptime. See [[home-affairs-south-africa]], [[dpi.registry]]. Source:
-  [[2026-01-29 Over 4 million smart ID cards issued in 2025]].
+  [[2026-01-28 Home Affairs sets new record by delivering over four million Smart IDs in 2025]].
 - **OVS verification-fee court fight (2026-01).** DHA raised the OVS ID-verification fee from
   **15c to ZAR 10** per real-time check (~6,500%; ZAR 1 off-peak batch), effective 1 July 2025,
   to fund an "Intelligent Population Register" and the future digital ID. The
@@ -118,7 +118,7 @@ Place: [[ZAF]] · Concepts: [[dpi.id]] · [[gov.protect]] · [[gov.legislate]] �
 
 - [[2026-04-21 South Africa's digital ID gets a targeted launch date]]
 - [[2026-05-29 Opinion South Africa's Digital Identity Regulations A Governance Crossroads]]
-- [[2026-01-29 Over 4 million smart ID cards issued in 2025]]
+- [[2026-01-28 Home Affairs sets new record by delivering over four million Smart IDs in 2025]]
 - [[2026-01-27 SA's Telcos, Banks At War With Govt Over 6,500% ID Verification Fee Hike]]
 - [[2026-01-28 Bad news about South Africa's newest ID book plan]]
 - [[2025-11-09 Behind the speedy MyMzansi screens and the Presidency's race to build a digital government]]

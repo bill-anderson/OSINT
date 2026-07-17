@@ -9,7 +9,7 @@ entities: [[central-bank-of-egypt], [tpay], [ntra-egypt], [fra-egypt], [haweya]]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-15
-sources: [[raw/2026-02-17 Egypt financial inclusion reaches 77.6% (CBE, end-2025)], [raw/2026-02-01 Egypt CBE launches SoftPOS contactless payment-acceptance service], [raw/2025-12-11 tpay secures NTRA licence for direct mobile payments for government services], [raw/2026-02-08 Egypt FRA launches digital factoring portal]]
+sources: [[2026-02-17 Egypt financial inclusion reaches 77.6% (CBE, end-2025)], [raw/2026-02-01 Egypt CBE launches SoftPOS contactless payment-acceptance service], [raw/2025-12-11 tpay secures NTRA licence for direct mobile payments for government services], [raw/2026-02-08 Egypt FRA launches digital factoring portal]]
 ---
 
 # Egypt × Digital Payments

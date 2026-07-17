@@ -1,0 +1,56 @@
+iso3,name,region,paper1_title,paper1_domain,paper2_title,paper2_domain,status,window_done,queries,found,dropped,staged,last_run,notes
+AGO,Angola,XSA,Angop (Angola Press Agency),angop.ao,Novo Jornal,novojornal.co.ao,pending,,,,,,,
+BDI,Burundi,XEA,Burundi Times,burunditimes.com,Iwacu,iwacu-burundi.org,pending,,,,,,,
+BEN,Benin,XWA,Fraternite,fraternite.bj,La Nation,lanation.bj,pending,,,,,,,
+BFA,Burkina Faso,XWA,Sidwaya,sidwaya.info,leFaso.net,lefaso.net,pending,,,,,,,
+BWA,Botswana,XSA,Mmegi,mmegi.bw,Sunday Standard,sundaystandard.info,pending,,,,,,,
+CAF,Central African Republic,XCA,,,,,pending,,,,,,,no suitable online national papers exist (confirmed 2026-07-17) - journals + targeted searches only
+CIV,Cote d'Ivoire,XWA,Fraternite Matin,fratmat.info,Linfodrome,linfodrome.com,pending,,,,,,,
+CMR,Cameroon,XCA,Le Jour,lejour.cm,Le quotidien L'Economie,leconomie.info,pending,,,,,,,
+COD,DR Congo,XCA,ACTUALITE.CD,actualite.cd,Magazine RD CONGO-MONDE,rdc-monde.com,pending,,,,,,,
+COG,Congo,XCA,Les Depeches de Brazzaville,lesdepechesdebrazzaville.fr,,,pending,,,,,,,only one suitable online national paper exists (confirmed 2026-07-17)
+COM,Comoros,XEA,Al-Watwan,alwatwan.net,La Gazette des Comores,lagazettedescomores.com,pending,,,,,,,
+CPV,Cape Verde,XWA,A Nacao,anacao.cv,Expresso das Ilhas,expressodasilhas.cv,pending,,,,,,,trade-press blind spot - newspapers are primary instrument
+DJI,Djibouti,XEA,Agence Djiboutienne d'Information (ADI),adi.dj,La Nation,lanation.dj,pending,,,,,,,
+DZA,Algeria,XNA,Echorouk El Yawmi,echoroukonline.com,El Moudjahid,elmoudjahid.dz,pending,,,,,,,
+EGY,Egypt,XNA,Al-Ahram,gate.ahram.org.eg,Youm7,youm7.com,pending,,,,,,,
+ERI,Eritrea,XEA,Awate,awate.com,Shabait (Eritrea Profile / Ministry of Information),shabait.com,pending,,,,,,,trade-press blind spot - newspapers are primary instrument
+ETH,Ethiopia,XEA,Addis Standard,addisstandard.com,The Reporter,thereporterethiopia.com,pending,,,,,,,
+GAB,Gabon,XCA,GabonReview,gabonreview.com,L'Union - Sonapresse,union.sonapresse.com,pending,,,,,,,
+GHA,Ghana,XWA,Graphic Online,graphic.com.gh,MyJoyOnline,myjoyonline.com,pending,,,,,,,
+GIN,Guinea,XWA,Aminata.com,aminata.com,Mediaguinee,mediaguinee.com,pending,,,,,,,
+GMB,Gambia,XWA,The Point,thepoint.gm,The Standard,standard.gm,pending,,,,,,,
+GNB,Guinea-Bissau,XWA,Agencia de Noticias da Guine (ANG),ang.gw,Gazeta de Noticias,gnbissau.com,pending,,,,,,,trade-press blind spot - newspapers are primary instrument
+GNQ,Equatorial Guinea,XCA,AHORAEG,ahoraeg.com,,,pending,,,,,,,only one suitable online national paper exists (confirmed 2026-07-17) | trade-press blind spot - newspapers are primary instrument
+KEN,Kenya,XEA,Daily Nation,nation.africa,The Standard,standardmedia.co.ke,pending,,,,,,,
+LBR,Liberia,XWA,FrontPage Africa,fpa.news,Liberian Observer,liberianobserver.com,pending,,,,,,,
+LBY,Libya,XNA,Alwasat (Bawabat Al-Wasat),alwasat.ly,Libya Herald,libyaherald.com,pending,,,,,,,
+LSO,Lesotho,XSA,Lesotho Times,lestimes.com,Public Eye,publiceyenews.com,pending,,,,,,,
+MAR,Morocco,XNA,Assabah,assabah.ma,Hespress,hespress.com,pending,,,,,,,
+MDG,Madagascar,XEA,L'Express de Madagascar,lexpress.mg,Midi Madagasikara,midi-madagasikara.mg,pending,,,,,,,
+MLI,Mali,XWA,L'Essor,lessor.ml,Maliweb,maliweb.net,pending,,,,,,,
+MOZ,Mozambique,XSA,Club of Mozambique,clubofmozambique.com,Jornal Noticias,jornalnoticias.co.mz,pending,,,,,,,
+MRT,Mauritania,XWA,Agence Mauritanienne d'Information (AMI),ami.mr,Le Quotidien de Nouakchott,lequotidien.mr,pending,,,,,,,
+MUS,Mauritius,XEA,L'Express (Maurice),lexpress.mu,Mauritius Times,mauritiustimes.com,pending,,,,,,,
+MWI,Malawi,XSA,Malawi24,malawi24.com,The Times (Times Group),times.mw,pending,,,,,,,
+NAM,Namibia,XSA,Namibian Sun,namibiansun.com,The Namibian,namibian.com.na,pending,,,,,,,
+NER,Niger,XWA,ActuNiger,actuniger.com,Le Sahel,lesahel.org,pending,,,,,,,
+NGA,Nigeria,XWA,ThisDay,thisdaylive.com,Vanguard,vanguardngr.com,pending,,,,,,,
+RWA,Rwanda,XEA,KT Press,ktpress.rw,The New Times,newtimes.co.rw,pending,,,,,,,
+SDN,Sudan,XEA,Sudan News Agency (SUNA),suna.sd,Sudan Tribune,sudantribune.com,pending,,,,,,,
+SEN,Senegal,XWA,Le Soleil,lesoleil.sn,Seneweb,seneweb.com,pending,,,,,,,
+SLE,Sierra Leone,XWA,Sierra Leone Telegraph,thesierraleonetelegraph.com,This Day (Salone),thisdaysl.com,pending,,,,,,,
+SOM,Somalia,XEA,Hiiraan Online,hiiraan.com,WardheerNews,wardheernews.com,pending,,,,,,,
+SSD,South Sudan,XEA,One Citizen Daily,onecitizendaily.com,The Dawn,thedawn.com.ss,pending,,,,,,,
+STP,Sao Tome and Principe,XWA,Jornal Transparencia,jornaltransparencia.st,Jornal Vitrina,vitrina.st,pending,,,,,,,trade-press blind spot - newspapers are primary instrument
+SWZ,Eswatini,XSA,Independent News Eswatini,independentnews.co.sz,Times of Eswatini,times.co.sz,pending,,,,,,,
+SYC,Seychelles,XEA,Seychelles Nation,nation.sc,Seychelles News Agency,seychellesnewsagency.com,pending,,,,,,,trade-press blind spot - newspapers are primary instrument
+TCD,Chad,XCA,Le N'Djam Post,lendjampost.com,Le Pays Tchad,lepaystchad.com,pending,,,,,,,
+TGO,Togo,XWA,Togo First,togofirst.com,Togo-Presse,togopresse.tg,pending,,,,,,,
+TUN,Tunisia,XNA,Al Chourouk,alchourouk.com,Assabah News,assabahnews.tn,pending,,,,,,,
+TZA,Tanzania,XEA,Mwananchi,mwananchi.co.tz,The Citizen,thecitizen.co.tz,pending,,,,,,,
+UGA,Uganda,XEA,New Vision,newvision.co.ug,Nile Post,nilepost.co.ug,pending,,,,,,,
+ZAF,South Africa,XSA,The Citizen,citizen.co.za,TimesLIVE (Sunday Times),timeslive.co.za,pending,,,,,,,
+ZMB,Zambia,XSA,Lusaka Times,lusakatimes.com,News Diggers,diggers.news,pending,,,,,,,
+ZWE,Zimbabwe,XSA,NewZimbabwe,newzimbabwe.com,NewsDay,newsday.co.zw,pending,,,,,,,
+XAF,Regional / pan-African pass,XGL,,,,,pending,,,,,,,journals only - recipes R1-R3

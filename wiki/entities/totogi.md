@@ -6,7 +6,7 @@ places: [XGL, SDN]
 topics: [infra.connect, tech.industry]
 status: active
 last_reviewed: 2026-07-16
-sources: [[raw/2025-03-06 How Zain Sudan restored mobile connectivity at a time of national crisis]]
+sources: [[2025-03-06 How Zain Sudan restored mobile connectivity at a time of national crisis]]
 ---
 
 # Totogi

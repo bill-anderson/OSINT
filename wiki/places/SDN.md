@@ -20,7 +20,7 @@ last_reviewed: 2026-07-16
   and stress trust, inclusivity and safeguards. The government also stood up the
   **[[sudanese-cybersecurity-authority]]** as part of the drive. See [[dpi.id]], [[include.access]],
   [[gov.protect]]. Source:
-  [[raw/2026-02-02 Sudan's planned national digital ID could strengthen recovery push - Experts]].
+  [[2026-02-02 Sudan's planned national digital ID could strengthen recovery push - Experts]].
 - **2025-11-07** — **Three national digital authorities established by decree.** PM **Kamil Idris**'s
   decree of **5 Nov 2025** created, under the **[[ministry-digital-transformation-sudan]]**, the
   **[[digital-transformation-authority-sudan]]**, the **[[sudanese-data-and-ai-authority]]** and the
@@ -28,23 +28,23 @@ last_reviewed: 2026-07-16
   sovereignty" amid conflict and weak capacity. Benchmarks: **EGDI 0.2759** (2024, below the 0.4247
   African average); cybersecurity **Tier 4** (48.17/100); **AI Readiness 24.63/100**. See
   [[dpi.govtech]], [[infra.cybersec]], [[tech.ai]], [[gov.policy]]. Source:
-  [[raw/2025-11-07 Sudan Establishes Three Digital Authorities to Advance E-Govt]].
+  [[2025-11-07 Sudan Establishes Three Digital Authorities to Advance E-Govt]].
 - **2025-03-06** — **Zain Sudan restores service after a ~40-day war blackout.** Amid the early-2024
   civil-war connectivity blackout (three MNOs down; **[[zain-sudan]]** losing ~$12m/week), Zain migrated
   **>20m subscribers** to **[[totogi]]**'s AWS public cloud, reportedly restoring charging ~18 days after
   signing. Illustrates cloud-native resilience and payments concentration risk in fragile states
   (vendor-sourced figures, unverified). See [[infra.connect]], [[dpi.pay]]. Source:
-  [[raw/2025-03-06 How Zain Sudan restored mobile connectivity at a time of national crisis]].
+  [[2025-03-06 How Zain Sudan restored mobile connectivity at a time of national crisis]].
 - **2025-03-05** — **Rebuilding Sudan's DPI amid conflict (Magdi Amin).** VoxDevTalks interview: the
   war (Apr 2023–) collapsed digital/financial infrastructure; only **[[bank-of-khartoum]]'s Bankak**
   reliably moved money — a single-provider vulnerability. **[[magdi-amin]]** (African Renaissance
   Ventures) advocates **[[mojaloop]]**-based interoperable rails for recovery, working with the central
   bank and development partners. See [[dpi.pay]], [[include.access]]. Source:
-  [[raw/2025-03-05 Rebuilding Sudan's digital infrastructure amidst conflict]].
+  [[2025-03-05 Rebuilding Sudan's digital infrastructure amidst conflict]].
 - **2025-03-03** — **Connectivity down sharply (DataReportal, cite-not-absorb).** Sudan had **21.6m**
   mobile connections (42.4%) in early 2025, **-20.6% YoY**; **14.6m** internet users (28.7% penetration);
   **71.3% offline** — a conflict-driven contraction. Reference snapshot, not current state. See
-  [[infra.connect]], [[include.divides]]. Source: [[raw/2025-03-03 Digital 2025 - Sudan (DataReportal)]].
+  [[infra.connect]], [[include.divides]]. Source: [[2025-03-03 Digital 2025 - Sudan (DataReportal)]].
 - **2026-01-29** — **SudaPass unified national digital ID in preparation.** Sudan's Ministry
   of Telecommunications and Digital Transformation is readying **[[sudapass]]**, a unified
   national digital identity platform under its wider **Baladna** e-government programme,

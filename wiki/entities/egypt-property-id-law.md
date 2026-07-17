@@ -7,7 +7,7 @@ topics: [dpi.registry, gov.legislate, dpi.govtech]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-15
-sources: [[raw/2025-05-14 Egypt approves Property ID Law to digitise real estate]]
+sources: [[2025-05-14 Egypt approves Property ID Law to digitise real estate]]
 ---
 
 # Egypt Property ID Law

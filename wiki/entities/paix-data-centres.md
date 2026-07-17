@@ -7,7 +7,7 @@ topics: [infra.store, infra.connect]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-15
-sources: [[raw/2024-05-15 PAIX-Djibouti Sovereign Fund data centre joint venture (JIB1)]]
+sources: [[2024-05-15 PAIX-Djibouti Sovereign Fund data centre joint venture (JIB1)]]
 ---
 
 # PAIX Data Centres

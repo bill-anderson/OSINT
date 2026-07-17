@@ -7,7 +7,7 @@ topics: [gov.protect, dpi.exchange]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-15
-sources: [[raw/2024-01-01 Cabo Verde data protection - Digital Regulations in the Metaverse Era (IBA)]]
+sources: [[2024-01-01 Cabo Verde data protection - Digital Regulations in the Metaverse Era (IBA)]]
 ---
 
 # Cabo Verde Data Protection Law (Law 133/V/2001)

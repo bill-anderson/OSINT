@@ -15,7 +15,7 @@ only slugs with a concept page are listed. Roll-up is by Level-1 parent.
 - [[dpi.pay]] — Digital Payments and Fintech · places: COM, BDI, CAF, ZMB, KEN, XAF, ETH, GHA, NGA, EGY, XSS, SEN, MUS, ZAF, COD, RWA, SOM, SSD, MOZ, XWA, XCA, AGO, BEN, BFA, BWA, CIV, CMR, COG, CPV, DJI, ERI, GAB, LBR, LSO, MAR, MLI, MWI, NAM, SDN, SLE, SYC, TGO, TZA, UGA, XEA, XGL, XSA, ZWE, DZA, GIN, GNQ, GNB, GMB, LBY, MDG, MRT, NER, SWZ, TCD, TUN
 - [[dpi.exchange]] — Data Exchange · places: COM, AGO, ZMB, XAF, NGA, KEN, MWI, ZAF, RWA, BEN, GHA, ETH, SEN, TGO, XWA, DJI, TZA, XEA, LSO, UGA, COD, BWA, CIV, CMR, CPV, EGY, LBR, MAR, MOZ, MUS, NAM, NER, SOM, SSD, STP, SYC, XCA, XGL, XSA, XSS, ZWE, DZA, ERI, GAB, GNB, MDG, SDN, SLE, SWZ, TCD, TUN
 - [[dpi.govtech]] — Other GovTech and e-Gov · places: COG, COM, BWA, BDI, CAF, ZMB, ZAF, XGL, MWI, GHA, NAM, KEN, NGA, UGA, BEN, CIV, MOZ, COD, TZA, RWA, EGY, CMR, AGO, BFA, ETH, GIN, GNQ, LBR, LSO, MAR, MDG, MLI, NER, SEN, SLE, SOM, SSD, STP, SWZ, XAF, XEA, XSS, XWA, ZWE, DJI, CPV, DZA, ERI, GAB, GNB, GMB, LBY, MRT, MUS, SYC, TCD, TGO, TUN
-- [[dpi.registry]] — Registries (population, land, address, etc.) · places: COG, COD, BFA, BDI, AGO, CAF, ZAF, TZA, UGA, ETH, NGA, RWA, ZMB, XWA, BEN, CIV, CMR, LSO, MDG, XGL, KEN, MWI, SOM, XAF, DZA, EGY, GAB, GHA, GIN, GNQ, GNB, GMB, LBR, LBY, MAR, MOZ, MLI, MRT, MUS, NAM, NER, SSD, SLE, STP, SWZ, SYC, TCD, TGO, TUN
+- [[dpi.registry]] — Registries (population, land, address, etc.) · places: COG, COD, BFA, BDI, AGO, CAF, ZAF, TZA, UGA, ETH, NGA, RWA, ZMB, XWA, BEN, CIV, CMR, LSO, MDG, XGL, KEN, MWI, SOM, XAF, DZA, EGY, GAB, GHA, GIN, GNQ, GNB, GMB, LBR, LBY, MAR, MOZ, MLI, MRT, MUS, NAM, NER, SSD, SLE, STP, SWZ, SYC, TCD, TGO, TUN, ZWE
 - [[dpi.mis]] — Sectoral management information systems (HMIS, EMIS, etc.) · places: COD, BDI, XAF, XSS, XGL, RWA, ETH, NGA, KEN, ZAF, MWI, TZA, MOZ, GHA, ZMB, UGA, ZWE, LSO, BEN, BWA, CIV, CMR, GAB, LBR, MDG, SEN, SLE, SOM, SWZ, TCD, XEA, CPV, EGY, GIN, GNQ, GMB, MUS, NAM, TGO
 
 ## Governance
@@ -53,7 +53,7 @@ only slugs with a concept page are listed. Roll-up is by Level-1 parent.
 
 ## Digitalisation
 - [[digital.rural]] — Rural digital data capture · places: ETH, KEN, NGA, ZMB, ZWE, TZA, UGA, RWA, SEN, MOZ, NAM, CIV, ZAF, XSS, XGL, AGO, COG, GAB, GHA, GIN, LBR, LSO, XAF, XCA, XEA, XSA, SLE, SWZ, TCD, TUN
-- [[digital.localgov]] — Digitalisation of sub-national government · places: MWI, CMR, CIV, NGA, TZA, ZAF, DZA, GIN, GMB, TGO
+- [[digital.localgov]] — Digitalisation of sub-national government · places: MWI, CMR, CIV, NGA, TZA, ZAF, DZA, GIN, GMB, TGO, ZMB
 
 ## Finance
 - [[finance.new]] — New investments · places: BDI, ZMB, XAF, ZAF, NGA, KEN, NAM, MWI, GHA, XSS, RWA, SWZ, EGY, TZA, MUS, AGO, SEN, ETH, ZWE, MOZ, GAB, DJI, TUN, XWA, BEN, LBR, SLE, SSD, GMB, COD, BWA, CIV, CMR, COG, DZA, GIN, MAR, MLI, MRT, SOM, UGA, XCA, XEA, XGL, XSA, SDN, TCD, TGO

@@ -7,7 +7,7 @@ topics: [dpi.govtech, gov.policy, dpi.id]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-16
-sources: [[raw/2026-02-02 Sudan's planned national digital ID could strengthen recovery push - Experts]]
+sources: [[2026-02-02 Sudan's planned national digital ID could strengthen recovery push - Experts]]
 ---
 
 # Ministry of Digital Transformation and Communications (Sudan)

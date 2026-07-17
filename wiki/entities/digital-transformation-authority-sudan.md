@@ -7,7 +7,7 @@ topics: [dpi.govtech, gov.policy]
 lens: [sovereignty]
 status: stub
 last_reviewed: 2026-07-16
-sources: [[raw/2025-11-07 Sudan Establishes Three Digital Authorities to Advance E-Govt]]
+sources: [[2025-11-07 Sudan Establishes Three Digital Authorities to Advance E-Govt]]
 ---
 
 # Digital Transformation Authority (Sudan)

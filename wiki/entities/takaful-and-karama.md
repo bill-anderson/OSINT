@@ -7,7 +7,7 @@ topics: [dpi.mis, include.access, dpi.pay, dpi.id]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-15
-sources: [[raw/2025-06-01 Takaful and Karama - Egypt's social-protection platform (World Bank interview)], [raw/2025-02-20 WB Policy Note - Automatic Health Insurance Enrollment for Vulnerable Individuals (Egypt UHI)]]
+sources: [[2025-06-01 Takaful and Karama - Egypt's social-protection platform (World Bank interview)], [raw/2025-02-20 WB Policy Note - Automatic Health Insurance Enrollment for Vulnerable Individuals (Egypt UHI)]]
 ---
 
 # Takaful and Karama (Egypt social-protection programme)

@@ -9,7 +9,7 @@ entities: [[paix-data-centres], [wingu-africa], [fonds-souverain-djibouti]]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-15
-sources: [[raw/2024-05-15 PAIX-Djibouti Sovereign Fund data centre joint venture (JIB1)], [raw/2024-11-25 Djibouti inaugurates Wingu TO7 Tier-3 data centre and cable landing station]]
+sources: [[2024-05-15 PAIX-Djibouti Sovereign Fund data centre joint venture (JIB1)], [raw/2024-11-25 Djibouti inaugurates Wingu TO7 Tier-3 data centre and cable landing station]]
 ---
 
 # Djibouti × Data Storage

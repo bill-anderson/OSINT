@@ -7,7 +7,7 @@ topics: [infra.connect, dpi.pay, gov.policy]
 lens: []
 status: active
 last_reviewed: 2026-07-15
-sources: [[raw/2025-12-11 tpay secures NTRA licence for direct mobile payments for government services], [raw/2025-11-21 Egypt ICT and Digital Economy (US Country Commercial Guide)]]
+sources: [[2025-12-11 tpay secures NTRA licence for direct mobile payments for government services], [raw/2025-11-21 Egypt ICT and Digital Economy (US Country Commercial Guide)]]
 ---
 
 # National Telecom Regulatory Authority (NTRA, Egypt)

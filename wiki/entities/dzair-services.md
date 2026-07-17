@@ -7,7 +7,7 @@ topics: [dpi.govtech, dpi.exchange]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-15
-sources: [[raw/2025-10-17 Algeria launches Dzair Services single-window public-services platform]]
+sources: [[2025-10-17 Algeria launches Dzair Services single-window public-services platform]]
 ---
 
 # Dzair Services (Algeria public-services single window)

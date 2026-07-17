@@ -9,7 +9,7 @@ entities: [[dhis2], [takaful-and-karama]]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-15
-sources: [[raw/2026-01-27 Egypt launches DHIS2 in its national health information system], [raw/2025-06-01 Takaful and Karama - Egypt's social-protection platform (World Bank interview)], [raw/2026-02-08 Egypt to launch digital platform for social insurance (40 initial services)], [raw/2025-02-20 WB Policy Note - Automatic Health Insurance Enrollment for Vulnerable Individuals (Egypt UHI)]]
+sources: [[2026-01-27 Egypt launches DHIS2 in its national health information system], [raw/2025-06-01 Takaful and Karama - Egypt's social-protection platform (World Bank interview)], [raw/2026-02-08 Egypt to launch digital platform for social insurance (40 initial services)], [raw/2025-02-20 WB Policy Note - Automatic Health Insurance Enrollment for Vulnerable Individuals (Egypt UHI)]]
 ---
 
 # Egypt × Sectoral MIS (health & social protection)

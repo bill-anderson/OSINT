@@ -9,7 +9,7 @@ entities: [[haweya], [moieg-pass], [central-bank-of-egypt], [digital-egypt]]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-15
-sources: [[raw/2025-11-13 Egypt CBE launches Haweya national digital financial ID (eKYC)], [raw/2026-02-14 Egypt Interior Ministry launches MOIEG-PASS biometric verification app], [raw/2024-09-24 Egypt deploys automated civil-registry kiosks (birth certificates and national ID)], [raw/2025-12-18 Egypt targets full government automation and digital ID verification by 2026]]
+sources: [[2025-11-13 Egypt CBE launches Haweya national digital financial ID (eKYC)], [raw/2026-02-14 Egypt Interior Ministry launches MOIEG-PASS biometric verification app], [raw/2024-09-24 Egypt deploys automated civil-registry kiosks (birth certificates and national ID)], [raw/2025-12-18 Egypt targets full government automation and digital ID verification by 2026]]
 ---
 
 # Egypt × Digital Identity

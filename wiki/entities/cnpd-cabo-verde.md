@@ -7,7 +7,7 @@ topics: [gov.protect]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-15
-sources: [[raw/2024-01-01 Cabo Verde data protection - Digital Regulations in the Metaverse Era (IBA)]]
+sources: [[2024-01-01 Cabo Verde data protection - Digital Regulations in the Metaverse Era (IBA)]]
 ---
 
 # National Data Protection Commission (CNPD, Cabo Verde)
