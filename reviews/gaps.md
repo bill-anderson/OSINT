@@ -327,3 +327,65 @@ in the same batch and is now held; instrument upgraded stub→active. See log.md
   appears to be the same portfolio. No source held reports a handover, so the wiki cannot say who holds
   the post or since when. *Lead: establish the current officeholder and the date of any change.*
   (Surfaced ingest, 2026-07-17.)
+
+- **GAP-UGA-001 · The ISER judgment itself is not held.** The wiki now holds an advocacy account of
+  *Initiative for Social and Economic Rights (ISER) & 2 Others v Attorney General & NIRA*
+  (**HCT-00-CV-MC-0066-2022**, High Court of Uganda, dismissed **10 June 2025**) but not the judgment. This
+  is the most consequential legal event in Uganda's digital-ID story, and the wiki reads it only through a
+  campaigning party's summary. *Lead: source the judgment.* (Surfaced ingest, 2026-07-17.)
+
+- **GAP-UGA-002 · The Bloomberg / Lighthouse Reports ID-surveillance investigation is not held.** The
+  wiki's account of Uganda's national ID being used in a surveillance dragnet (and of lawyer Nick Opiyo's
+  December 2020 detention) comes via Biometric Update reporting *on* that investigation. The original is
+  the primary and would materially strengthen the thread. *Lead: source the Bloomberg/Lighthouse feature.*
+  (Surfaced ingest, 2026-07-17.)
+
+- **GAP-UGA-003 · The Veridos / Muehlbauer card-production dispute is single-sourced.** An unresolved
+  contract controversy over Uganda's national ID card production — with Muehlbauer High Tech International
+  named as the prior NSIS supplier and described as having been "embroiled in a scandal concerning
+  overcharging" — appears in exactly one clip (2024-08-19) and nowhere else in the corpus. Analytically
+  live and currently unverifiable. *Lead: source the procurement record and the outcome.* (Surfaced ingest,
+  2026-07-17.)
+
+- **GAP-UGA-004 · The NITA-U GEA/e-GIF workshop item has no establishable date.** The clip carries an empty
+  `published:` field, no date in the body and no date in the URL path; it is filed `date_source: proxy` at
+  the ingest date, which is not a publication date and makes its sort position meaningless. *Lead: fetch
+  the page or the publisher's `/news/4057/` index to establish the true date, then re-prefix.* (Surfaced
+  ingest, 2026-07-17.)
+
+- **GAP-TZA-001 · The Bank of Tanzania is page-less despite anchoring three threads.** BOT now underpins
+  the TIPS national payment switch (453.7m transactions worth TZS 29.9tn in 2024), the Financial Consumer
+  Protection Regulations (GN 298 of 2025), and the mobile-money regime — but has no entity page and is
+  referenced on the TZA hub only via a TIPS official. *Lead: create the page from the material now held.*
+  (Surfaced ingest, 2026-07-17.)
+
+- **GAP-TZA-002 · Wananchi Group is page-less while three held pages assert its acquisition.** `yas.md`,
+  `axian-telecom.md` and a 2026-07 EBRD source all assert AXIAN's 2025 acquisition of Wananchi (parent of
+  Zuku and Simbanet); none carried a date, price or stake until this batch supplied them ($63m for 99.63%,
+  completed 2025-11-10). Wananchi still has no page. *Lead: create the company page and the deal entity.*
+  (Surfaced ingest, 2026-07-17.)
+
+- **GAP-TUN-001 · The Central Bank of Tunisia's own payments bulletin is not held.** Tunisia's 2025
+  mobile-payments figures (81% growth, 8.4m transactions worth TND 1,769m, 815,000 active wallets) reach the
+  wiki only via an aggregator's repackaging of a CBT bulletin. *Lead: source the bulletin.* (Surfaced
+  ingest, 2026-07-17.)
+
+- **GAP-TUN-002 · Tunisia's biometric ID rollout has no confirmed outcome.** Organic Laws 22 and 23 of 2024
+  were adopted 2024-03-06 and usage was targeted for H1 2025 against an ICAO 2026 recommendation — but the
+  freshest evidence held (2025-03) still describes the biometric card as *proposed*. The wiki therefore
+  carries a target with no confirmation it was met. *Lead: establish whether issuance actually began, and
+  when.* (Surfaced ingest, 2026-07-17.)
+
+- **GAP-TUN-003 · Tunisia's current national digital strategy is unidentified.** The wiki holds
+  **Digital Tunisia 2020-2025** as the framing strategy for the Cybernetica/UXP interoperability work,
+  but **its window has now closed**, and the 2026-01-19 EBRD source refers to a "National Digital
+  Strategy" without establishing whether that is the same document, a successor, or something else. No
+  successor plan is sourced. The wiki therefore risks citing an expired strategy as current framing.
+  *Lead: establish what strategy currently governs, and from when.* (Surfaced ingest, 2026-07-17.)
+
+- **GAP-UGA-005 · A held Uganda artefact has no companion source page.** `raw/2026-07-11
+  Data-Center-Market-Briefs-Uganda-2026.pdf` sits in `raw/` with **no companion markdown source
+  page**, so it carries no frontmatter and cannot be `[[linked]]` — pages that need it must reference
+  it as unlinked text. This breaches the Filenames rule that binary artefacts get a companion source
+  page. Pre-existing, not from this batch; surfaced while building [[uganda--infra-store]]. *Lead:
+  mint the companion page (or confirm the artefact should be dropped).* (Surfaced ingest, 2026-07-17.)

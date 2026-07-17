@@ -86,3 +86,30 @@ removes the item here. A short `issues.md` means you're caught up.
   on the merged page that approval remains unconfirmed in the corpus. Pending a ruling, both pages stand,
   cross-linked, with the identification marked probable-not-established. *Decision:* (awaiting).
   (Surfaced ingest, 2026-07-17.)
+
+- **ISSUE-006 · Tunisie Telecom's chief executive: one person or two?** The 2026-02-13 digital-health item
+  names **"Assad bin Dyab, president and general manager of Tunisie Telecom"**; the held 2026-01-19 EBRD
+  source names **"Lassaad Ben Dhiab (Tunisie Telecom CEO)"** — one month apart. These are near-certainly
+  the same person under different transliterations from Arabic, but **no source held states that**, and
+  merging two named individuals on the strength of a phonetic resemblance is not a call the rules
+  determine. *Recommend:* treat as **one person, canonical form "Lassaad Ben Dhiab"**, with "Assad bin
+  Dyab" recorded as a rendering variant on the entity page, and re-check against a primary Tunisie Telecom
+  source at the next opportunity. If they turn out to be two people (e.g. a chair and a CEO), the fix is a
+  one-line split. *Decision:* (awaiting). (Surfaced ingest, 2026-07-17.)
+
+- **ISSUE-007 · Two batch PDFs are undated AND unattributed — admit or hold?** Two artefacts arrived with
+  no printed date, no recoverable PDF metadata, and **no named publisher anywhere in the document**:
+  (a) *Seizing the opportunity to improve the national digital ID system for Uganda* — evidently a joint
+  civil-society submission (written in a collective "we recommend / we call upon NIRA" voice), whose content
+  brackets it to June–July 2024; it carries a striking claim, that **1 million people in the National
+  Identity Register have fingerprints that cannot be matched**, attributed to NIRA's Executive Director.
+  (b) *Tanzania_case_study.pdf* — a third-person analyst account of Tanzania's "Jamii" DPI stack
+  (Jamii Namba / Jamii Malipo / Jamii X-Change), post-dating 29 July 2024. Both are plainly genuine
+  documents, not AI syntheses — but source admissibility asks for a **dated, attributable origin**, and
+  neither has one as held. Both are **parked in `_leads/`** pending this call rather than admitted on a
+  guess. *Recommend:* **hold as leads and hand-source the original web postings** to establish publisher
+  and date, then admit properly — for (a) especially, since its fingerprint-failure claim is independently
+  corroborated by the IriTech account (>1m Ugandans unable to register fingerprints) and would be
+  load-bearing if admitted. Failing that, admit each with `date_source: proxy`, an explicit
+  publisher-unknown note, and never as corroboration for a claim it uniquely carries. *Decision:*
+  (awaiting). (Surfaced ingest, 2026-07-17.)

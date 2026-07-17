@@ -149,6 +149,19 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 | Thunes | TGO, XGL | dpi.pay, tech.industry, include.access | [[thunes]] |
 | WISeKey | SYC | dpi.id, infra.cybersec, tech.industry | [[wisekey]] |
 | Xalam Analytics | TGO, XAF | infra.store, tech.industry, data.statistics | [[xalam-analytics]] |
+| ABQ Cloud | UGA | infra.store, tech.ai, tech.innovate, infra.capacity | [[abq-cloud]] |
+| Baker McKenzie | XGL, TZA | dpi.id, gov.legislate, include.access | [[baker-mckenzie]] |
+| Centenary Group | UGA | infra.store, infra.energy, dpi.pay, tech.industry | [[centenary-group]] |
+| Clyde & Co | XGL, TZA | gov.protect, gov.legislate, infra.cybersec | [[clyde-and-co]] |
+| IriTech | UGA | dpi.id, dpi.registry, tech.industry, gov.standards, include.access, include.divides | [[iritech]] |
+| MTN Uganda | UGA | dpi.pay, infra.store, infra.connect, tech.industry, include.access | [[mtn-uganda]] |
+| Nxtra Africa (Nxtra by Airtel) | NGA, KEN, UGA, TZA, COD, ZMB, RWA | infra.store, infra.connect, infra.energy, tech.ai, geopol.india, finance.new | [[nxtra-africa]] |
+| Schneider Electric | UGA, XGL | infra.store, infra.energy, tech.ai | [[schneider-electric]] |
+| Synectics Technologies | UGA | tech.ai, infra.store, infra.energy, infra.connect, finance.new | [[synectics-technologies]] |
+| Tahaluf | UGA | dpi.id, tech.industry, geopol.gulf, dpi.registry | [[tahaluf]] |
+| Uqudo | TUN | dpi.id, gov.standards, tech.ai, dpi.pay | [[uqudo]] |
+| Veridos | UGA | dpi.id, tech.industry, gov.legislate | [[veridos]] |
+| Wananchi Group (Holdings) Ltd | UGA, KEN | infra.connect, tech.industry, finance.new | [[wananchi-group]] |
 
 ## Organisations
 
@@ -295,6 +308,17 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 | Royal Science and Technology Park (RSTP) | SWZ | infra.store, tech.innovate, dpi.govtech, capacity.research | [[rstp]] |
 | WAEMU / UEMOA (West African Economic and Monetary Union) | TGO, XWA | gov.regional, gov.legislate, gov.standards, dpi.pay | [[waemu]] |
 | World Intellectual Property Organization (WIPO) | XGL, SYC | tech.innovate, data.statistics | [[wipo]] |
+| African Centre for Media Excellence (ACME) | UGA | gov.protect, dpi.id, infra.cybersec, capacity.research | [[acme-uganda]] |
+| e-Governance Academy (eGA) | XGL, TUN, UGA | dpi.exchange, dpi.govtech, gov.standards, capacity.training, geopol.eu | [[e-governance-academy]] |
+| Financial Sector Deepening Tanzania (FSDT) | TZA | dpi.pay, include.access, capacity.literacy | [[fsdt]] |
+| Global Land Tool Network (GLTN) | UGA, XGL | dpi.registry, digital.rural, include.divides, gov.standards | [[gltn]] |
+| International Civil Aviation Organization (ICAO) | XGL | dpi.id, gov.standards, gov.regional | [[icao]] |
+| International Monetary Fund (IMF) | XGL, XAF | dpi.govtech, dpi.pay, gov.policy, data.statistics | [[imf]] |
+| Initiative for Social and Economic Rights (ISER), Uganda | UGA | gov.legislate, dpi.id, include.access, include.divides, gov.protect, digital.rural | [[iser-uganda]] |
+| Pan-African Postal Union (PAPU) | XAF, TZA | gov.regional, gov.standards, dpi.registry, include.access | [[papu]] |
+| Tanzania Internet Service Providers Association (TSPAR) | TZA | infra.connect, infra.store, dpi.exchange | [[tspar]] |
+| UN-Habitat | UGA, XGL | dpi.registry, digital.rural, digital.localgov, include.divides | [[un-habitat]] |
+| Universal Postal Union (UPU) | XGL, TZA | gov.standards, dpi.registry, gov.regional | [[upu]] |
 
 ## Government bodies
 
@@ -498,6 +522,29 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 | OTR (Office Togolais des Recettes / Togolese Revenue Office) | TGO | dpi.govtech, dpi.registry, data.satellite, gov.policy, dpi.exchange | [[otr-togo]] |
 | Registrar General's Office (Seychelles) | SYC | dpi.registry, dpi.govtech, gov.policy | [[registrar-general-office-seychelles]] |
 | Seychelles Postal Regulator (Postal Regulator Services) | SYC | dpi.registry, gov.standards, gov.legislate | [[seychelles-postal-regulator]] |
+| National Digital Certification Agency (ANCE, Tunisia) | TUN | dpi.id, infra.cybersec, gov.standards | [[ance-tunisia]] |
+| Bank of Tanzania (BOT) | TZA | dpi.pay, gov.legislate, gov.protect, dpi.exchange, include.access, gov.standards | [[bank-of-tanzania]] |
+| Bank of Uganda (BoU) | UGA | dpi.pay, dpi.exchange, gov.standards, gov.policy, include.access, infra.cybersec, gov.regional | [[bank-of-uganda]] |
+| Central Bank of Tunisia (BCT) | TUN | dpi.pay, gov.legislate, gov.standards, include.access, data.statistics | [[central-bank-of-tunisia]] |
+| National Computer Center (CNI, Tunisia) | TUN | dpi.id, dpi.govtech, infra.cybersec | [[cni-tunisia]] |
+| e-Government Authority (eGA), Tanzania | TZA | dpi.govtech, gov.policy, dpi.exchange, infra.cybersec, gov.standards | [[ega-tanzania]] |
+| Ministry of Information, Communication and Information Technology (MICIT), Tanzania | TZA | gov.policy, dpi.registry, dpi.govtech, tech.industry, digital.localgov | [[micit-tanzania]] |
+| Ministry of Communication Technologies (Tunisia) | TUN | gov.policy, dpi.govtech, dpi.exchange, dpi.id, tech.ai, gov.legislate | [[ministry-of-communication-technologies-tunisia]] |
+| Ministry of Education (Tunisia) | TUN | dpi.govtech, dpi.mis, include.divides, digital.rural, infra.connect, capacity.literacy | [[ministry-of-education-tunisia]] |
+| Ministry of Health (Tunisia) | TUN | infra.store, tech.ai, infra.connect, dpi.exchange, gov.protect, digital.rural, dpi.mis | [[ministry-of-health-tunisia]] |
+| Ministry of Home Affairs, Tanzania | TZA | dpi.id, dpi.registry, gov.policy, infra.cybersec, dpi.govtech | [[ministry-of-home-affairs-tanzania]] |
+| Ministry of Interior (Tunisia) | TUN | dpi.id, gov.legislate, gov.protect, infra.cybersec | [[ministry-of-interior-tunisia]] |
+| Ministry of Social Affairs (MoSA, Tunisia) | TUN | dpi.registry, dpi.pay, include.access, include.divides | [[ministry-of-social-affairs-tunisia]] |
+| Ministry of Lands, Housing and Urban Development (MLHUD), Uganda | UGA | dpi.registry, digital.rural, digital.localgov, gov.legislate, include.divides | [[mlhud-uganda]] |
+| National Audit Office of Tanzania (NAO) | TZA | dpi.id, dpi.registry, gov.policy, data.statistics | [[nao-tanzania]] |
+| National Identification and Registration Authority (NIRA) | UGA | dpi.id, dpi.registry, dpi.exchange, include.access, include.divides, gov.protect | [[nira-uganda]] |
+| National Information Technology Authority — Uganda (NITA-U) | UGA | dpi.exchange, dpi.govtech, gov.standards, gov.policy, digital.localgov | [[nita-uganda]] |
+| Registration, Insolvency and Trusteeship Agency (RITA), Tanzania | TZA | dpi.registry, dpi.id, data.statistics | [[rita-tanzania]] |
+| Science, Technology and Innovation Office of the President (STI-OP), Uganda | UGA | tech.innovate, tech.ai, infra.store, capacity.research, infra.capacity | [[sti-op-uganda]] |
+| Tanzania Posts Corporation (TPC) | TZA | dpi.registry, dpi.govtech, include.access, digital.rural | [[tanzania-posts-corporation]] |
+| Tanzania Communications Regulatory Authority (TCRA) | TZA | infra.connect, gov.legislate, dpi.registry, data.statistics, include.access | [[tcra]] |
+| Uganda Revenue Authority (URA) | UGA | dpi.govtech, dpi.pay, dpi.id, dpi.exchange, gov.legislate, gov.policy | [[ura-uganda]] |
+| Uganda Registration Services Bureau (URSB) | UGA | dpi.registry, dpi.govtech, dpi.id, gov.legislate | [[ursb]] |
 
 ## Initiatives / programmes
 
@@ -673,6 +720,24 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 | Tchad Connexion 2030 | TCD | gov.policy, infra.connect, dpi.govtech, finance.new, include.divides, tech.industry | [[tchad-connexion-2030]] |
 | Trans-Saharan Fiber Optic Backbone (Dorsale Transsaharienne, DTS) | TCD | infra.connect, gov.regional, finance.new | [[trans-saharan-fibre-backbone]] |
 | WAEMU Instant Payment Platform (PI-SPI) | TGO, SEN, XWA | dpi.pay, dpi.exchange, gov.regional, include.access, gov.standards, tech.innovate | [[waemu-instant-payment-platform]] |
+| The Aeonian Project | UGA | tech.ai, infra.store, infra.energy, infra.connect, finance.new, capacity.research | [[aeonian-project]] |
+| AMEN Program (Tunisia) | TUN | dpi.registry, dpi.pay, include.access, include.divides, data.statistics, finance.new | [[amen-program-tunisia]] |
+| Centenary Group Data Centre (Masaka) | UGA | infra.store, infra.energy, infra.connect, dpi.govtech, digital.localgov | [[centenary-group-data-centre]] |
+| Digital Hospital Project (Tunisia) | TUN | dpi.mis, infra.connect, tech.ai, infra.store, dpi.exchange | [[digital-hospital-project-tunisia]] |
+| E-Houwiya (Tunisia national mobile digital identity) | TUN | dpi.id, dpi.govtech, dpi.pay, gov.standards, include.access, infra.cybersec | [[e-houwiya]] |
+| East African Payment System (EAPS) | UGA | dpi.pay, gov.regional, dpi.exchange | [[eaps]] |
+| L'école de la Tunisie du futur (tarbia.tn) | TUN | dpi.govtech, dpi.mis, include.divides, digital.rural, infra.connect, capacity.literacy | [[ecole-de-la-tunisie-du-futur]] |
+| Electronic Fiscal Receipting and Invoicing System (EFRIS), Uganda | UGA | dpi.govtech, dpi.pay, gov.legislate, data.statistics | [[efris]] |
+| Jamii Namba (Universal ID), Tanzania | TZA | dpi.id, dpi.registry, include.access, gov.legislate, finance.new | [[jamii-namba]] |
+| Mobile Vital Records System (MVRS), Uganda | UGA | dpi.registry, dpi.mis, include.access, data.statistics | [[mvrs-uganda]] |
+| National Physical Addressing (NaPA), Tanzania | TZA | dpi.registry, dpi.govtech, digital.localgov, digital.rural, data.statistics, gov.standards, include.access | [[napa-tanzania]] |
+| Ndaga Muntu (Uganda National ID) | UGA | dpi.id, dpi.registry, include.access, include.divides, gov.protect, dpi.pay | [[ndaga-muntu]] |
+| Paysmart (Tunisia payments platform) | TUN | dpi.pay, dpi.id, include.access | [[paysmart]] |
+| Social Assistance Grants for Empowerment (SAGE), Uganda | UGA | include.access, include.divides, dpi.id, dpi.pay | [[sage-uganda]] |
+| Startup Tunisia | TUN | tech.innovate, tech.industry, finance.new, dpi.pay | [[startup-tunisia]] |
+| Subsidies Compensation Platform (Tunisia) | TUN | dpi.pay, dpi.registry, gov.protect, include.access | [[subsidies-compensation-platform-tunisia]] |
+| UGHub | UGA | dpi.exchange, dpi.govtech, gov.standards, data.open, include.access | [[ughub]] |
+| UGPass | UGA | dpi.govtech, dpi.id, dpi.exchange, gov.standards, infra.cybersec | [[ugpass]] |
 
 ## Deals
 
@@ -745,6 +810,8 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 | HAAC–IPDCP Institutional Cooperation Accord (Togo) | TGO | finance.mou, gov.protect, gov.legislate, infra.cybersec | [[haac-ipdcp-accord]] |
 | Seychelles Strengthening the Quality of the Social Protection System (PforR) | SYC | dpi.registry, finance.new, include.access | [[seychelles-social-protection-pforr]] |
 | Togo Digital Acceleration Financing (World Bank, $100m IDA series) | TGO | finance.new, infra.connect, capacity.training, tech.innovate, include.divides, include.access, infra.capacity | [[togo-digital-acceleration-financing]] |
+| Yas / AXIAN Telecom — Wananchi Group acquisition | UGA, KEN | finance.new, infra.connect, tech.industry, gov.regional | [[axian-wananchi-acquisition]] |
+| UXP Tunisia (national interoperability platform) | TUN | dpi.exchange, dpi.govtech, gov.standards, infra.cybersec, dpi.id, geopol.eu, finance.new | [[uxp-tunisia]] |
 
 ## People
 
@@ -801,6 +868,16 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 | Satu Kahkonen | SWZ | gov.policy, finance.new, infra.connect | [[satu-kahkonen]] |
 | Savannah Maziya | SWZ | gov.policy, dpi.govtech, capacity.training | [[savannah-maziya]] |
 | Wavel Ramkalawan | SYC | dpi.govtech, gov.policy, dpi.id | [[wavel-ramkalawan]] |
+| Anton Volianskyi | TZA | infra.store, infra.connect, finance.new | [[anton-volianskyi]] |
+| Asamo Hellen Grace | UGA | include.access, include.divides, dpi.pay, capacity.research | [[asamo-hellen-grace]] |
+| Claire Ollama | UGA | dpi.id, dpi.registry, include.access, include.divides | [[claire-ollama]] |
+| Edson Guyai | TZA | dpi.id, dpi.registry, include.access, dpi.exchange | [[edson-guyai]] |
+| James Kaji | TZA | dpi.id, dpi.registry, gov.legislate, include.access | [[james-kaji]] |
+| John R. Musinguzi | UGA | dpi.pay, dpi.govtech, dpi.id, include.access | [[john-musinguzi]] |
+| Michael Atingi-Ego | UGA | dpi.pay, gov.policy, gov.standards | [[michael-atingi-ego]] |
+| Nick Opiyo | UGA | gov.protect, dpi.id, infra.cybersec, gov.legislate | [[nick-opiyo]] |
+| Nizar Ben Neji | TUN | dpi.id, dpi.govtech, dpi.exchange, gov.policy | [[nizar-ben-neji]] |
+| Rosemary Kisembo | UGA | dpi.id, gov.protect, dpi.registry, tech.industry | [[rosemary-kisembo]] |
 
 ## Resources (standing data assets)
 
@@ -854,6 +931,7 @@ Databases, registries, datasets, tools and portals consulted repeatedly (entity_
 | Eswatini National Data Centre (NDC) | SWZ | infra.store, infra.energy, infra.cybersec, dpi.govtech | [[eswatini-national-data-centre]] |
 | StatEduc | TGO, XGL | dpi.mis, data.statistics, dpi.exchange | [[stateduc]] |
 | SYDONIA (ASYCUDA) customs system | TGO | dpi.govtech, dpi.exchange, data.statistics | [[sydonia]] |
+| Karuma Hydropower Plant (K-HPP) | UGA | infra.energy, infra.store, tech.ai | [[karuma-hydropower-plant]] |
 
 ## Instruments — reference standards / frameworks / policy-legal instruments
 
@@ -979,6 +1057,22 @@ about or from one becomes a normal source that cites it.
 | Digital Governance Analysis - Seychelles, 2024 Edition | SYC | dpi.govtech, gov.policy, gov.protect | [[seychelles-digital-governance-report]] |
 | Togo Anti-Money Laundering Law (2025) | TGO | gov.legislate, gov.standards, gov.regional, dpi.registry, dpi.id, gov.policy | [[togo-aml-law-2025]] |
 | Togo Digital Economy Diagnostic Report (World Bank, 2019) | TGO | gov.policy, infra.connect, dpi.govtech, tech.industry | [[togo-digital-economy-diagnostic]] |
+| Digital Tunisia 2020-2025 (National Strategic Plan) | TUN | gov.policy, dpi.govtech, dpi.exchange, dpi.id, infra.cybersec, infra.connect | [[digital-tunisia-2020-2025]] |
+| Organic Law 2004-63 (Tunisia Personal Data Protection Law) | TUN | gov.protect, gov.legislate, dpi.id | [[organic-law-2004-63-tunisia]] |
+| Organic Law No. 22 of 2024 (Tunisia Biometric Identity Card) | TUN | dpi.id, gov.legislate, gov.standards, gov.protect | [[organic-law-2024-22-tunisia]] |
+| Organic Law No. 23 of 2024 (Tunisia Biometric Passport) | TUN | dpi.id, gov.legislate, gov.standards, gov.protect | [[organic-law-2024-23-tunisia]] |
+| Registration of Persons Act 2015 (Uganda) | UGA | gov.legislate, dpi.id, include.access, gov.protect, dpi.pay | [[registration-of-persons-act-2015]] |
+| Social Tenure Domain Model (STDM) | UGA, XGL | dpi.registry, digital.rural, gov.standards, include.divides | [[stdm]] |
+| Tanzania Digital Economy Strategic Framework 2024-2034 | TZA | gov.policy, tech.industry, dpi.govtech | [[tanzania-digital-economy-framework]] |
+| Tanzania e-Government Strategy 2022 (2022-2027) | TZA | dpi.govtech, gov.policy, dpi.exchange, infra.cybersec, infra.store | [[tanzania-e-government-strategy-2022]] |
+| Bank of Tanzania (Financial Consumer Protection) (Amendment) Regulations, GN No. 298 of 2025 | TZA | gov.legislate, dpi.pay, gov.protect, include.access, capacity.literacy | [[tanzania-financial-consumer-protection-regulations]] |
+| Infant Registration Bill, Tanzania | TZA | gov.legislate, dpi.id, dpi.registry, include.access | [[tanzania-infant-registration-bill]] |
+| Personal Data Protection Act (PDPA), Tanzania | TZA | gov.protect, gov.legislate, gov.standards, infra.cybersec | [[tanzania-pdpa]] |
+| Uganda Digital Government Strategy, Version 1.1 | UGA | dpi.govtech, gov.policy, dpi.exchange, gov.standards | [[uganda-digital-government-strategy]] |
+| Uganda e-Government Interoperability Framework (e-GIF) | UGA | dpi.exchange, gov.standards, dpi.govtech, data.open | [[uganda-e-gif]] |
+| Uganda National Financial Inclusion Strategy 2023-2028 (NFIS II) | UGA | dpi.pay, include.access, include.divides, gov.policy | [[uganda-nfis-ii]] |
+| UN E-Government Development Index (EGDI) | XGL, XAF | dpi.govtech, data.statistics, gov.standards | [[un-egdi]] |
+| UPU S42 (international addressing standard) | XGL, TZA | gov.standards, dpi.registry, gov.regional | [[upu-s42]] |
 
 ## Instruments — scholarly & analytical works (`entity_type: instrument`; formerly "publications")
 

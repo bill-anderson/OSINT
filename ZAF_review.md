@@ -1,0 +1,415 @@
+# South Africa (ZAF) — dataset→wiki intake review
+
+*Run 2026-07-17. Method: `OSINT/country-ingest-workflow.md`. Coverage read off the hub `wiki/places/ZAF.md` (hub-as-complete-record, §1.3).*
+
+- Dataset rows matched: **dpi 147, data-centres 50, rural 4**
+- Total distinct source URLs: **189**
+- Already held by hub (no action): **0**
+- Excluded (pre-2024): **6**
+- New & in-window: **183**
+- Buckets — **A-web 31 · A-PDF 2 · B 26 · C 26 · D 98**
+
+## A-web · ingest (non-PDF) — CC fetches these in Phase 2  (31)
+
+- [https://cloud.google.com/blog/products/infrastructure/heita-south-africa-new-cloud-region](https://cloud.google.com/blog/products/infrastructure/heita-south-africa-new-cloud-region)
+  - unclassified — needs glance | OVERRIDE→A: country-specific dated primary — yr 2024 · ds dc · Google Cloud Johannesburg Region (africa-south1) / Johannesburg / Operational
+- [https://datareportal.com/reports/digital-2025-south-africa](https://datareportal.com/reports/digital-2025-south-africa)
+  - DataReportal country digital report — yr 2025 · ds dpi · ICT Infrastructure / 4G/LTE Population Coverage / 90%+
+- [https://groundup.org.za/article/government-uses-regulations-to-deliberately-keep-srd-grant-costs-down-argue-activists](https://groundup.org.za/article/government-uses-regulations-to-deliberately-keep-srd-grant-costs-down-argue-activists)
+  - SA national outlet — yr 2026 · ds dpi · Digital Pay / Government Payment Digitization / >89%
+- [https://iamhere.bakermckenzie.com/en/pages/south-africa](https://iamhere.bakermckenzie.com/en/pages/south-africa)
+  - law-firm instrument review — yr 1997/2022/2025 · ds dpi · Digital Id / Government Portal Authentication /  Yes
+- [https://idtechwire.com/south-africa-plans-major-expansion-of-smart-id-program-for-2025](https://idtechwire.com/south-africa-plans-major-expansion-of-smart-id-program-for-2025)
+  - ID trade reporting — yr 2024/2025 · ds dpi · Data Exchange / Civil Registration & Vital Statistics Integration /  Partially integrated
+- [https://idtechwire.com/south-africa-tables-r11-billion-budget-to-drive-digital-identity-border-security-and-election-readiness](https://idtechwire.com/south-africa-tables-r11-billion-budget-to-drive-digital-identity-border-security-and-election-readiness)
+  - ID trade reporting — yr 2024/2025 · ds dpi · Digital Id / Digital Authentication Function /  Yes
+- [https://idtechwire.com/south-africa-extends-smart-id-cards-to-1-4m-permanent-residents-and-citizens](https://idtechwire.com/south-africa-extends-smart-id-cards-to-1-4m-permanent-residents-and-citizens)
+  - ID trade reporting — yr 2024/2025 · ds dpi · Digital Id / Banking/Financial Services Use /  Accepted but not mandatory
+- [https://idtechwire.com/sassa-to-launch-mandatory-biometric-enrollment-for-grant-beneficiaries-on-september-1](https://idtechwire.com/sassa-to-launch-mandatory-biometric-enrollment-for-grant-beneficiaries-on-september-1)
+  - ID trade reporting — yr 2025 · ds dpi · Digital Id / Social Services Use /  Mandatory
+- [https://news.outsourceaccelerator.com/africa-data-centres-expands-20mw](https://news.outsourceaccelerator.com/africa-data-centres-expands-20mw)
+  - unclassified — needs glance | OVERRIDE→A: country-specific dated primary — yr 2026 · ds dc · Africa Data Centres CPT2 (Cape Town - Under Construction) / Cape Town (Brackenfell/North) / Under construction
+- [https://techafricanews.com/2025/06/03/teraco-unveils-8th-data-centre-jb5-strengthening-africas-digital-infrastructure](https://techafricanews.com/2025/06/03/teraco-unveils-8th-data-centre-jb5-strengthening-africas-digital-infrastructure)
+  - Africa tech trade press — yr 2020/2025 · ds dc · Teraco JB3 (Isando Campus) / Johannesburg (Isando) / Operational
+- [https://www.bankservafrica.com/news/payshap-milestone-136-million-transactions](https://www.bankservafrica.com/news/payshap-milestone-136-million-transactions)
+  - unclassified — needs glance | OVERRIDE→A: country-specific dated primary — yr 2025 · ds dpi · Digital Pay / Public Performance Reporting / Annual
+- [https://www.biometricupdate.com/202504/south-african-agencies-sign-multiparty-digital-id-deal](https://www.biometricupdate.com/202504/south-african-agencies-sign-multiparty-digital-id-deal)
+  - biometric/ID trade reporting — yr 2025 · ds dpi · Data Exchange / Civil Registration & Vital Statistics Integration /  Partially integrated
+- [https://www.biometricupdate.com/202512/south-africa-plans-intelligent-population-register-in-proposed-civil-registration-reform](https://www.biometricupdate.com/202512/south-africa-plans-intelligent-population-register-in-proposed-civil-registration-reform)
+  - biometric/ID trade reporting — yr 2024/2026 · ds dpi · Digital Id / Civil Registration Integration /  Partial integration
+- [https://www.biometricupdate.com/202602/south-africa-digital-id-and-mdl-to-launch-this-year-president-promises](https://www.biometricupdate.com/202602/south-africa-digital-id-and-mdl-to-launch-this-year-president-promises)
+  - biometric/ID trade reporting — yr 2025 · ds dpi · Digital Id / Digital ID Specific Regulation /  No
+- [https://www.biometricupdate.com/202508/regional-dpi-initiative-supports-kyc-digital-id-interoperability-across-16-countries](https://www.biometricupdate.com/202508/regional-dpi-initiative-supports-kyc-digital-id-interoperability-across-16-countries)
+  - biometric/ID trade reporting — yr 2025 · ds dpi · Digital Id / Cross-Border Recognition /  Recognized in some regional contexts (e.g., ECOWAS travel)
+- [https://www.citizen.co.za/news/south-africa/new-id-verification-process-sassa-grants-which-recipients](https://www.citizen.co.za/news/south-africa/new-id-verification-process-sassa-grants-which-recipients)
+  - SA national outlet — yr 2025 · ds dpi · Digital Id / Social Services Use /  Mandatory
+- [https://www.connectingafrica.com/data-centers/africa-data-centres-adding-6mw-capacity-in-cape-town](https://www.connectingafrica.com/data-centers/africa-data-centres-adding-6mw-capacity-in-cape-town)
+  - Africa telecom trade press — yr 2017 · ds dc · Africa Data Centres CPT1 (Cape Town - Elfindale) / Cape Town (Elfindale) / Operational
+- [https://www.dailymaverick.co.za/article/2026-02-09-major-sa-data-centre-expansion-plans-emes-emerge-set-to-more-than-double-current](https://www.dailymaverick.co.za/article/2026-02-09-major-sa-data-centre-expansion-plans-emes-emerge-set-to-more-than-double-current)
+  - SA national outlet — ds dc · Cosmas Data City - Johannesburg (Samrand/Kosmosdal) / Johannesburg (Samrand) / Planned
+- [https://www.datacenterdynamics.com/en/news/teraco-jb5-south-africa-johannesburg](https://www.datacenterdynamics.com/en/news/teraco-jb5-south-africa-johannesburg)
+  - DC trade press (use byline date) — yr 2025 · ds dc · Teraco JB5 (Isando Campus) / Johannesburg (Isando) / Operational
+- [https://www.datacenterdynamics.com/en/news/vantage-partners-with-attacq-for-phase-ii-of-80mw-campus-in-joburg-south-africa](https://www.datacenterdynamics.com/en/news/vantage-partners-with-attacq-for-phase-ii-of-80mw-campus-in-joburg-south-africa)
+  - DC trade press (use byline date) — yr 2022/2024 · ds dc · Vantage JNB1 (Johannesburg I - Waterfall City) / Johannesburg (Midrand/Waterfall) / Operational
+- [https://www.datacenterdynamics.com/en/news/south-african-real-estate-firm-cavaleros-group-launches-data-center-unit-plans-two-campuses](https://www.datacenterdynamics.com/en/news/south-african-real-estate-firm-cavaleros-group-launches-data-center-unit-plans-two-campuses)
+  - DC trade press (use byline date) — ds dc · Cosmas Data City - Johannesburg (Samrand/Kosmosdal) / Johannesburg (Samrand) / Planned
+- [https://www.dcdt.gov.za/media-statements-releases/532-south-africa-s-significant-improvement-in-the-united-nations-e-government-index-2024.html](https://www.dcdt.gov.za/media-statements-releases/532-south-africa-s-significant-improvement-in-the-united-nations-e-government-index-2024.html)
+  - official govt page (REVIEW: news vs portal) — yr 2024 · ds dpi · ICT Infrastructure / E-Government Development / EGDI 0.65-0.79 (Very High)
+- [https://www.engineeringnews.co.za/article/teraco-building-40-mw-jb7-expansion-to-isando-campus-2024-11-13](https://www.engineeringnews.co.za/article/teraco-building-40-mw-jb7-expansion-to-isando-campus-2024-11-13)
+  - SA trade press — yr 2026 · ds dc · Teraco JB7 (Isando Campus - Under Construction) / Johannesburg (Isando) / Under construction
+- [https://www.globenewswire.com/news-release/2025/03/18/3044727/0/en/South-Africa-Data-Center-Portfolio-2025-Major-Investors-Drive-South-Africa-s-Data-Center-Boom-Teraco-Equinix-Vodacom-More.html](https://www.globenewswire.com/news-release/2025/03/18/3044727/0/en/South-Africa-Data-Center-Portfolio-2025-Major-Investors-Drive-South-Africa-s-Data-Center-Boom-Teraco-Equinix-Vodacom-More.html)
+  - press-release wire — yr 2010 · ds dc · Vodacom Johannesburg Data Centre / Johannesburg (Midrand) / Operational
+- [https://www.gov.za/news/speeches/deputy-minister-njabulo-nzuza-home-affairs-dept-budget-vote-202526-ncop-03-jul-2025](https://www.gov.za/news/speeches/deputy-minister-njabulo-nzuza-home-affairs-dept-budget-vote-202526-ncop-03-jul-2025)
+  - unclassified — needs glance | OVERRIDE→A: country-specific dated primary — yr 2024/2025 · ds dpi · Digital Id / Biometric Data Collection /  Facial/Iris
+- [https://www.gov.za/news/media-statements/home-affairs-sets-new-record-delivering-over-four-million-smart-ids-2025-28](https://www.gov.za/news/media-statements/home-affairs-sets-new-record-delivering-over-four-million-smart-ids-2025-28)
+  - unclassified — needs glance | OVERRIDE→A: country-specific dated primary — yr 2025 · ds dpi · Digital Id / Digital ID System Exists /  Partially deployed
+- [https://www.gov.za/news/media-statements/sassa-qualification-criteria-covid-19-srd-19-jan-2026](https://www.gov.za/news/media-statements/sassa-qualification-criteria-covid-19-srd-19-jan-2026)
+  - unclassified — needs glance | OVERRIDE→A: country-specific dated primary — yr 2026 · ds dpi · Registries / Inclusivity / Permanent residents only
+- [https://www.gov.za/news/media-statements/land-reform-and-rural-development-implements-electronic-deeds-registration](https://www.gov.za/news/media-statements/land-reform-and-rural-development-implements-electronic-deeds-registration)
+  - unclassified — needs glance | OVERRIDE→A: country-specific dated primary — yr 2025 · ds dpi · Registries / Status / Partially deployed
+- [https://www.gov.za/news/media-statements/home-affairs-launch-world-class-new-identity-verification-service-and-cost](https://www.gov.za/news/media-statements/home-affairs-launch-world-class-new-identity-verification-service-and-cost)
+  - unclassified — needs glance | OVERRIDE→A: country-specific dated primary — yr 2025 · ds dpi · Registries / Status / Fully deployed nationwide
+- [https://www.itweb.co.za/article/sarb-buys-50-share-in-payinc-to-drive-instant-payments/lwrKxq3Ygzz7mg1o](https://www.itweb.co.za/article/sarb-buys-50-share-in-payinc-to-drive-instant-payments/lwrKxq3Ygzz7mg1o)
+  - SA ICT trade press — yr 2025 · ds dpi · Digital Pay / Central Bank Involvement in Governance / Direct Operation
+- [https://www.itweb.co.za/article/sa-powers-africas-164bn-tech-funding-rebound/4r1lyMR9YJR7pmda](https://www.itweb.co.za/article/sa-powers-africas-164bn-tech-funding-rebound/4r1lyMR9YJR7pmda)
+  - SA ICT trade press — yr 2025 · ds dpi · ICT Infrastructure / Tech Startup Ecosystem / Established (significant startup activity, $50M+ annual VC, multiple hubs 
+
+## A-PDF · ingest (PDF) — Bill handles by hand  (2)
+
+- [https://www.dha.gov.za/images/AnnualReports/DHA-STRATEGIC-PLAN-25-30.pdf](https://www.dha.gov.za/images/AnnualReports/DHA-STRATEGIC-PLAN-25-30.pdf)
+  - official govt page (REVIEW: news vs portal) [PDF] — yr 2024/2025 · ds dpi,rural · Digital Id / Maintenance / Partial in-country capacity
+- [https://www.stateofthenation.gov.za/assets/downloads/South_Africa_Roadmap_for_the_Digital_Transformation.pdf](https://www.stateofthenation.gov.za/assets/downloads/South_Africa_Roadmap_for_the_Digital_Transformation.pdf)
+  - official govt page (REVIEW: news vs portal) [PDF] — yr 2024/2025 · ds dpi · Data Exchange / Agriculture System Integration /  Under development
+
+## B · check first  (26)
+
+- [https://afripoli.org/what-african-countries-can-learn](https://afripoli.org/what-african-countries-can-learn)
+  - think-tank analysis — yr 2025 · ds dpi · Data Exchange / Business Registration & Licensing Integration /  Partially integrated
+- [https://arua.org/wp-content/uploads/South-African-Report.pdf](https://arua.org/wp-content/uploads/South-African-Report.pdf)
+  - university-alliance piece — ds dpi · ICT Infrastructure / Tertiary ICT/STEM Education / Good (established institutions with diverse ICT programmes)
+- [https://azure.microsoft.com/en-us/blog/microsoft-opens-first-datacenters-in-africa-with-general-availability-of-microsoft-azure](https://azure.microsoft.com/en-us/blog/microsoft-opens-first-datacenters-in-africa-with-general-availability-of-microsoft-azure)
+  - vendor blog announcement | OVERRIDE→B: check-first / old-facility / verify-date — yr 2019 · ds dc · Microsoft Azure South Africa North (Johannesburg) / Johannesburg / Operational
+- [https://channelwise.co.za/the-african-data-centre-landscape](https://channelwise.co.za/the-african-data-centre-landscape)
+  - channel trade press (check) — yr 2008/2013/2014/2017/2020/2022 · ds dc · Teraco JB1 (Isando Campus) / Johannesburg (Isando) / Operational
+- [https://cioafrica.co/oadc-acquires-seven-ntt-data-centres-in-sa](https://cioafrica.co/oadc-acquires-seven-ntt-data-centres-in-sa)
+  - CIO Africa trade press | OVERRIDE→B: check-first / old-facility / verify-date — yr 2005 · ds dc · OADC Umhlanga (ex-NTT/IS Umhlanga) / Durban (Umhlanga) / Operational
+- [https://citizenshiprightsafrica.org/south-africa-id-case-study](https://citizenshiprightsafrica.org/south-africa-id-case-study)
+  - unclassified — needs glance — yr 2024/2025 · ds dpi · Digital Id / Civil Registration Integration /  Partial integration
+- [https://datacentremagazine.com/company/digital-parks-africa](https://datacentremagazine.com/company/digital-parks-africa)
+  - DC trade press | OVERRIDE→B: check-first / old-facility / verify-date — yr 2017 · ds dc · Digital Parks Africa (Samrand Campus) / Johannesburg (Centurion/Samrand) / Operational
+- [https://disruptafrica.com/2024/08/26/hub-network-afrilabs-welcomes-18-new-hubs](https://disruptafrica.com/2024/08/26/hub-network-afrilabs-welcomes-18-new-hubs)
+  - startup trade press (check) — yr 2025 · ds dpi · ICT Infrastructure / Technology and Innovation Hubs / 25+ hubs with a vibrant, mature ecosystem
+- [https://dpi.africa/south-africas-digital-leap](https://dpi.africa/south-africas-digital-leap)
+  - unclassified — needs glance — yr 2025 · ds dpi · Data Exchange / Driver Licensing Integration /  Under development
+- [https://furtherafrica.com/2025/01/28/2025-south-african-id-free-smart-id-cards-for-youth](https://furtherafrica.com/2025/01/28/2025-south-african-id-free-smart-id-cards-for-youth)
+  - trade aggregator — yr 2025 · ds dpi · Digital Id / Cost of Credential /  Yes
+- [https://policyinnovationlab.sun.ac.za/creating-a-legislative-catalogue-for-digital-id-in-south-africa](https://policyinnovationlab.sun.ac.za/creating-a-legislative-catalogue-for-digital-id-in-south-africa)
+  - university policy lab — yr 2022 · ds dpi · Digital Id / Legal Framework /  Yes
+- [https://www.centreforchildlaw.co.za/dev/wp-content/uploads/2025/07/Centre-for-Child-Law-submissions-ACERWC-10.7.2025-final.pdf](https://www.centreforchildlaw.co.za/dev/wp-content/uploads/2025/07/Centre-for-Child-Law-submissions-ACERWC-10.7.2025-final.pdf)
+  - unclassified — needs glance — ds rural · Registry
+- [https://www.cigionline.org/documents/3552/Sithole_FDF_PB_final.pdf](https://www.cigionline.org/documents/3552/Sithole_FDF_PB_final.pdf)
+  - think-tank analysis — yr 2023 · ds dpi · Digital Pay / Cross-Border Payment Functionality / No
+- [https://www.cio.com/article/193405/heres-how-amazons-south-africa-data-centres-will-impact-enterprises.html](https://www.cio.com/article/193405/heres-how-amazons-south-africa-data-centres-will-impact-enterprises.html)
+  - CIO trade press | OVERRIDE→B: check-first / old-facility / verify-date — yr 2020 · ds dc · AWS Africa (Cape Town) Region / Cape Town / Operational
+- [https://www.datacenterdynamics.com/en/news/south-africas-teraco-completes-expansion-project-for-durban-data-center](https://www.datacenterdynamics.com/en/news/south-africas-teraco-completes-expansion-project-for-durban-data-center)
+  - DC trade press (use byline date) | OVERRIDE→B: check-first / old-facility / verify-date — yr 2011 · ds dc · Teraco DB1 (Durban - Riverhorse Valley) / Durban (Riverhorse Valley) / Operational
+- [https://www.datacenterdynamics.com/en/news/ntt-opens-johannesburg-south-africa](https://www.datacenterdynamics.com/en/news/ntt-opens-johannesburg-south-africa)
+  - DC trade press (use byline date) | OVERRIDE→B: check-first / old-facility / verify-date — yr 2022 · ds dc · NTT GDC Johannesburg 1 (Samrand/Centurion) / Johannesburg (Centurion/Samrand) / Operational
+- [https://www.datacenterdynamics.com/en/news/oadc-acquires-ntt-data-centers-in-south-africa](https://www.datacenterdynamics.com/en/news/oadc-acquires-ntt-data-centers-in-south-africa)
+  - DC trade press (use byline date) | OVERRIDE→B: check-first / old-facility / verify-date — yr 2005/2007/2008/2010/2012/2021 · ds dc · OADC Parklands (ex-NTT/IS Parklands) / Johannesburg (Rosebank/Parklands) / Operational
+- [https://www.datacenterdynamics.com/en/news/south-africas-xneelo-starts-construction-on-second-data-center-in-johannesburg](https://www.datacenterdynamics.com/en/news/south-africas-xneelo-starts-construction-on-second-data-center-in-johannesburg)
+  - DC trade press (use byline date) | OVERRIDE→B: check-first / old-facility / verify-date — yr 2013 · ds dc · Xneelo Samrand (JNB1) / Johannesburg (Centurion/Samrand) / Operational
+- [https://www.datacenterdynamics.com/en/news/hetzner-opens-its-second-data-centre-in-cape-town](https://www.datacenterdynamics.com/en/news/hetzner-opens-its-second-data-centre-in-cape-town)
+  - DC trade press (use byline date) | OVERRIDE→B: check-first / old-facility / verify-date — yr 2000 · ds dc · Hetzner South Africa Cape Town DC / Cape Town (Rondebosch) / Operational
+- [https://www.gov.za/sites/default/files/gcis_document/202501/dha-annual-report2023-2024_0.pdf](https://www.gov.za/sites/default/files/gcis_document/202501/dha-annual-report2023-2024_0.pdf)
+  - unclassified — needs glance — yr 2024 · ds dpi · Digital Id / Security Reviews /  Yes
+- [https://www.gov.za/sites/default/files/gcis_document/202511/dbeannualreport20242025.pdf](https://www.gov.za/sites/default/files/gcis_document/202511/dbeannualreport20242025.pdf)
+  - unclassified — needs glance — ds rural · School
+- [https://www.gov.za/news/media-statements/mec-albert-fritz-e-docket-software-not-being-effectively-used-saps-and-courts](https://www.gov.za/news/media-statements/mec-albert-fritz-e-docket-software-not-being-effectively-used-saps-and-courts)
+  - unclassified — needs glance | OVERRIDE→B: check-first / old-facility / verify-date — ds rural · Police
+- [https://www.ieabioenergy.com/wp-content/uploads/2024/12/CountryReport2024_SouthAfrica_final.pdf](https://www.ieabioenergy.com/wp-content/uploads/2024/12/CountryReport2024_SouthAfrica_final.pdf)
+  - unclassified — needs glance — yr 2023 · ds dpi · ICT Infrastructure / Renewable Energy Share of Generation / <10%
+- [https://www.insideprivacy.com/data-security/data-breaches/south-africa-introduces-mandatory-e-portal-reporting-for-data-breaches](https://www.insideprivacy.com/data-security/data-breaches/south-africa-introduces-mandatory-e-portal-reporting-for-data-breaches)
+  - law-firm DP review | OVERRIDE→B: check-first / old-facility / verify-date — yr 2021 · ds dpi · Digital Id / Data Protection Act /  Yes
+- [https://www.itweb.co.za/article/teraco-completes-ct2-hyperscale-data-centre-expansion/KPNG878NDaaq4mwD](https://www.itweb.co.za/article/teraco-completes-ct2-hyperscale-data-centre-expansion/KPNG878NDaaq4mwD)
+  - SA ICT trade press | OVERRIDE→B: check-first / old-facility / verify-date — yr 2020 · ds dc · Teraco CT2 (Cape Town - Brackenfell) / Cape Town (Brackenfell) / Operational
+- [https://www.sita.co.za/sites/default/files/SITA_Strategic_Plan_2025_2030.pdf](https://www.sita.co.za/sites/default/files/SITA_Strategic_Plan_2025_2030.pdf)
+  - unclassified — needs glance — yr 2025 · ds dpi · Data Exchange / AI/Analytics Capabilities /  Piloting
+
+## C · lead only (do not cite)  (26)
+
+- [https://bigid.com/blog/south-africa-popia](https://bigid.com/blog/south-africa-popia)
+  - data vendor marketing — yr 2021 · ds dpi · ICT Infrastructure / Data Protection Legislation / Legislation enacted with Data Protection Authority established
+- [https://developmentgateway.org/blog/why-africa-will-define](https://developmentgateway.org/blog/why-africa-will-define)
+  - implementer marketing — yr 2025 · ds dpi · Data Exchange / Urban-Rural Digital Divide /  Partial rural coverage
+- [https://digitalid.design/RIA%20docs/CIS_DigitalID_RIA_SouthAfrica_31.10.21.pdf](https://digitalid.design/RIA%20docs/CIS_DigitalID_RIA_SouthAfrica_31.10.21.pdf)
+  - design-blog/aggregator — yr 1997/2021/2022/2024/2025 · ds dpi · Digital Id / Individual Data Access /  Yes
+- [https://files.eric.ed.gov/fulltext/EJ1467203.pdf](https://files.eric.ed.gov/fulltext/EJ1467203.pdf)
+  - academic repository — ds rural · School
+- [https://iidentifii.com/blog/the-future-of-digital-identity-in-south-africa](https://iidentifii.com/blog/the-future-of-digital-identity-in-south-africa)
+  - ID vendor marketing — yr 2024 · ds dpi · Digital Id / KYC Enablement /  Yes
+- [https://incountry.com/blog/data-protection-and-data-privacy-laws-in-south-africa](https://incountry.com/blog/data-protection-and-data-privacy-laws-in-south-africa)
+  - data-residency vendor — yr 2025 · ds dpi · Data Exchange / Data Sovereignty Provisions /  Strong, enforced controls
+- [https://infotrust.com/articles/south-africas-protection-of-personal-information-act-popia](https://infotrust.com/articles/south-africas-protection-of-personal-information-act-popia)
+  - security vendor marketing — yr 2021/2024 · ds dpi · Digital Id / Individual Data Access /  Yes
+- [https://journals.co.za/doi/10.17159/sacq.n74.19281](https://journals.co.za/doi/10.17159/sacq.n74.19281)
+  - academic journal host — ds rural · Police
+- [https://medinform.jmir.org/2026/1/e73831](https://medinform.jmir.org/2026/1/e73831)
+  - academic journal — ds rural · Clinic
+- [https://phonefinder.co.za/news/an-overview-of-rica-in-south-africa](https://phonefinder.co.za/news/an-overview-of-rica-in-south-africa)
+  - price-comparison — yr 2009 · ds dpi · Digital Id / SIM Card Registration Use /  Mandatory
+- [https://pmc.ncbi.nlm.nih.gov/articles/PMC10437058](https://pmc.ncbi.nlm.nih.gov/articles/PMC10437058)
+  - academic journal host — ds rural · Clinic
+- [https://scielo.org.za/pdf/sajim/v26n1/55.pdf](https://scielo.org.za/pdf/sajim/v26n1/55.pdf)
+  - academic journal host — ds rural · Clinic
+- [https://theconversation.com/welfare-payments-are-going-digital-in-africa-but-this-isnt-helping-those-without-internet-access-or-smartphones-243184](https://theconversation.com/welfare-payments-are-going-digital-in-africa-but-this-isnt-helping-those-without-internet-access-or-smartphones-243184)
+  - secondary commentary — yr 2024 · ds dpi · Digital Pay / Accessibility for Persons with Disabilities / No
+- [https://theconversation.com/south-africas-addressing-system-is-still-not-in-place-a-clear-vision-is-needed-268135](https://theconversation.com/south-africas-addressing-system-is-still-not-in-place-a-clear-vision-is-needed-268135)
+  - secondary commentary — yr 2026 · ds dpi · Registries / Status / No
+- [https://www.afribit.co.za/2025/03/27/google-expands-in-africa-how-gcps-new-cloud-region-competes-with-aws](https://www.afribit.co.za/2025/03/27/google-expands-in-africa-how-gcps-new-cloud-region-competes-with-aws)
+  - crypto vendor — yr 2025 · ds dpi · ICT Infrastructure / Cloud Services Availability / Multiple hyperscale providers with local availability zones
+- [https://www.codevelop.fund/insights-1/strategic-collaboration-establishes-africas-first-cross-border-digital-identity-framework-enabling-financial-inclusion-for-millions](https://www.codevelop.fund/insights-1/strategic-collaboration-establishes-africas-first-cross-border-digital-identity-framework-enabling-financial-inclusion-for-millions)
+  - funder marketing — yr 2025 · ds dpi · Digital Id / Cross-Border Recognition /  Recognized in some regional contexts (e.g., ECOWAS travel)
+- [https://www.finglobal.com/2024/01/22/fica-requirements-south-africa](https://www.finglobal.com/2024/01/22/fica-requirements-south-africa)
+  - emigration-service marketing — yr 2024 · ds dpi · Digital Id / KYC Enablement /  Yes
+- [https://www.fticonsulting.com/insights/articles/out-darkness-lasting-economic-costs-load-shedding](https://www.fticonsulting.com/insights/articles/out-darkness-lasting-economic-costs-load-shedding)
+  - consultancy — yr 2023 · ds dpi · ICT Infrastructure / Grid Reliability (Power Outage Frequency) / Severe (frequent daily outages or regular load shedding
+- [https://www.igi-global.com/article/electronic-docket-adoption-in-rural-police-stations/357268](https://www.igi-global.com/article/electronic-docket-adoption-in-rural-police-stations/357268)
+  - academic publisher — ds rural · Police
+- [https://www.m2sys.com/blog/biometric-resources/south-africa-adopts-abis-solution-to-national-identity-program](https://www.m2sys.com/blog/biometric-resources/south-africa-adopts-abis-solution-to-national-identity-program)
+  - biometric vendor marketing — yr 2024 · ds dpi · Digital Id / Biometric Data Collection /  Facial/Iris
+- [https://www.nec.com/en/global/onlinetv/en/society/bio_id_h.html](https://www.nec.com/en/global/onlinetv/en/society/bio_id_h.html)
+  - vendor marketing — yr 2024 · ds dpi · Digital Id / Maintenance / Partial in-country capacity
+- [https://www.netiq.com/documentation/advanced-authentication-65/server-user-guide/data/hanis_oob.html](https://www.netiq.com/documentation/advanced-authentication-65/server-user-guide/data/hanis_oob.html)
+  - IAM vendor marketing — yr 2025 · ds dpi · Digital Id / Digital Authentication Function /  Yes
+- [http://www.offerzen.com/reports/software-developer-south-africa](http://www.offerzen.com/reports/software-developer-south-africa)
+  - dev-jobs platform — yr 2025 · ds dpi · ICT Infrastructure / Developer and Tech Community / Established (vibrant community, multiple events, 10,000-50,000 devel
+- [https://www.sarsefiling.co.za](https://www.sarsefiling.co.za)
+  - third-party efiling portal — yr 2024 · ds dpi · Digital Pay / Tax Portal / Under development
+- [https://www.scirp.org/journal/paperinformation?paperid=137516](https://www.scirp.org/journal/paperinformation?paperid=137516)
+  - academic journal — ds rural · School
+- [https://www.stitch.money/blog/how-south-africa-is-gearing-up-for-payshap-request-rtp](https://www.stitch.money/blog/how-south-africa-is-gearing-up-for-payshap-request-rtp)
+  - fintech vendor — yr 2024 · ds dpi · Digital Pay / Business-to-Business (B2B) Payments / No
+
+## D · resource / entity (not a dated source)  (98)
+
+- [https://aws.amazon.com/local/africa/cape-town](https://aws.amazon.com/local/africa/cape-town)
+  - unclassified — needs glance | OVERRIDE→D: portal/reference/homepage/legal — yr 2020 · ds dc · AWS Africa (Cape Town) Region / Cape Town / Operational
+- [https://baxtel.com/news/oadc-acquires-ntt-data-centers-in-south-africa](https://baxtel.com/news/oadc-acquires-ntt-data-centers-in-south-africa)
+  - DC registry — yr 2005/2007/2010/2018 · ds dc · OADC Parklands (ex-NTT/IS Parklands) / Johannesburg (Rosebank/Parklands) / Operational
+- [https://baxtel.com/data-center/digital-parks-africa-samrand](https://baxtel.com/data-center/digital-parks-africa-samrand)
+  - DC registry — yr 2017 · ds dc · Digital Parks Africa (Samrand Campus) / Johannesburg (Centurion/Samrand) / Operational
+- [https://baxtel.com/data-center/hetzer-cape-town](https://baxtel.com/data-center/hetzer-cape-town)
+  - DC registry — yr 2000 · ds dc · Hetzner South Africa Cape Town DC / Cape Town (Rondebosch) / Operational
+- [https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=ZA](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=ZA)
+  - WB indicators — yr 2022 · ds dpi · ICT Infrastructure / Internet Usage Rate / 70%+
+- [https://data.worldbank.org/indicator/NY.GNP.PCAP.PP.CD?locations=ZA](https://data.worldbank.org/indicator/NY.GNP.PCAP.PP.CD?locations=ZA)
+  - WB indicators — yr 2025 · ds dpi · ICT Infrastructure / Electricity Affordability / Affordable (1-2%)
+- [https://data.worldbank.org/indicator/EG.ELC.ACCS.UR.ZS?locations=ZA](https://data.worldbank.org/indicator/EG.ELC.ACCS.UR.ZS?locations=ZA)
+  - WB indicators — ds dpi · ICT Infrastructure / Urban-Rural Electrification Gap / Unknown or n.a.
+- [https://dig.watch/resource/south-african-national-e-government-strategy-and-roadmap](https://dig.watch/resource/south-african-national-e-government-strategy-and-roadmap)
+  - policy tracker — yr 2025 · ds dpi · Data Exchange / Strategic Framework /  Comprehensive Strategy Exists
+- [https://ehome.dha.gov.za/ehomeaffairs](https://ehome.dha.gov.za/ehomeaffairs)
+  - official govt page (REVIEW: news vs portal) | OVERRIDE→D: portal/reference/homepage/legal — yr 2025 · ds dpi · Digital Id / Digital Authentication Function /  Yes
+- [https://group.telkom.co.za/documents/ir/financial-information/presentation-2023/Telkom_Investors_Site_Tours_Presentations.pdf](https://group.telkom.co.za/documents/ir/financial-information/presentation-2023/Telkom_Investors_Site_Tours_Presentations.pdf)
+  - unclassified — needs glance | OVERRIDE→D: portal/reference/homepage/legal — yr 1987/2002/2004/2006/2009 · ds dc · BCX Midrand NDC1 / Johannesburg (Midrand) / Operational
+- [https://help.unhcr.org/southafrica/2022/02/21/sassa-srd-r350-grant](https://help.unhcr.org/southafrica/2022/02/21/sassa-srd-r350-grant)
+  - UNHCR service portal — yr 2022 · ds dpi · Digital Pay / Refugee and Migrant Access / Partial
+- [https://id4africa.com/2024/ps2/PS2-1-South-Africa-Final.pdf](https://id4africa.com/2024/ps2/PS2-1-South-Africa-Final.pdf)
+  - event/reference portal — yr 2022/2024/2025 · ds dpi · Digital Id / Civil Registration Integration /  Partial integration
+- [https://inforegulator.org.za/poPIA](https://inforegulator.org.za/poPIA)
+  - regulator homepage — yr 2021 · ds dpi · Digital Pay / Data Breach Notification Requirements / Mandatory
+- [https://itif.org/publications/2025/06/02/south-africa-cross-border-data-transfer-regulation](https://itif.org/publications/2025/06/02/south-africa-cross-border-data-transfer-regulation)
+  - think-tank reference — yr 2021/2025 · ds dpi · Data Exchange / Enabling Legislation /  Yes
+- [https://itif.org/publications/2025/06/09/south-africa-localization-regulation](https://itif.org/publications/2025/06/09/south-africa-localization-regulation)
+  - think-tank reference — yr 2024 · ds dpi · ICT Infrastructure / Data Localisation Requirements / Sectoral requirements only (e.g., financial or telecoms data)
+- [https://openaccessdc.net/parklands](https://openaccessdc.net/parklands)
+  - DC-operator entity page — yr 2010 · ds dc · OADC Parklands (ex-NTT/IS Parklands) / Johannesburg (Rosebank/Parklands) / Operational
+- [https://openaccessdc.net](https://openaccessdc.net)
+  - DC-operator entity page — yr 2020 · ds dc · OADC Brackenfell (Cape Town) / Cape Town (Brackenfell) / Operational
+- [https://openknowledge.worldbank.org/handle/10986/31885](https://openknowledge.worldbank.org/handle/10986/31885)
+  - WB document/feature (REVIEW date+scope) | OVERRIDE→D: portal/reference/homepage/legal — yr 2019 · ds dpi · Registries / Uptake / >89%
+- [https://pulse.internetsociety.org/en/ixp-tracker/country/ZA](https://pulse.internetsociety.org/en/ixp-tracker/country/ZA)
+  - connectivity indicators — yr 2025 · ds dpi · ICT Infrastructure / Internet Exchange Point Presence / Mature IXP ecosystem with broad participation
+- [https://rackzar.com/about-rackzar/datacentres](https://rackzar.com/about-rackzar/datacentres)
+  - hosting-operator entity page — yr 2009/2013 · ds dc · Teraco CT1 (Cape Town - Rondebosch) / Cape Town (Rondebosch) / Operational
+- [https://sbm.gov.za/wp-content/uploads/Pages/Policies_and_By-laws/2016-2017/Street-Name-Policy-Final.pdf](https://sbm.gov.za/wp-content/uploads/Pages/Policies_and_By-laws/2016-2017/Street-Name-Policy-Final.pdf)
+  - small-business portal — yr 2014 · ds dpi · Registries / Separate cadastral register / Partially deployed
+- [https://services.global.ntt/en-us/services-and-products/global-data-centers/global-locations/emea/johannesburg-1-data-center](https://services.global.ntt/en-us/services-and-products/global-data-centers/global-locations/emea/johannesburg-1-data-center)
+  - DC-operator entity page — yr 2022 · ds dc · NTT GDC Johannesburg 1 (Samrand/Centurion) / Johannesburg (Centurion/Samrand) / Operational
+- [https://services.sassa.gov.za](https://services.sassa.gov.za)
+  - official govt page (REVIEW: news vs portal) | OVERRIDE→D: portal/reference/homepage/legal — yr 2026 · ds dpi · Registries / Status / Fully deployed nationwide
+- [https://spdci.org/resource/advancing-the-integration-of-social-assistance](https://spdci.org/resource/advancing-the-integration-of-social-assistance)
+  - DPI-reference org — yr 2025 · ds dpi · Data Exchange / Employment Services Integration /  Under development
+- [https://spdci.org/wp-content/uploads/2025/07/South-Africa.pdf](https://spdci.org/wp-content/uploads/2025/07/South-Africa.pdf)
+  - DPI-reference org — yr 2025 · ds dpi · Digital Id / System Interoperability /  Yes
+- [https://statbase.org/data/zaf-global-cybersecurity-index](https://statbase.org/data/zaf-global-cybersecurity-index)
+  - indicator aggregator — yr 2024 · ds dpi · ICT Infrastructure / National Cybersecurity Readiness / GCI score 80+ (Role-modelling)
+- [https://tradingeconomics.com/south-africa/access-to-electricity-percent-of-population-wb-data.html](https://tradingeconomics.com/south-africa/access-to-electricity-percent-of-population-wb-data.html)
+  - indicator aggregator — yr 2023 · ds dpi · ICT Infrastructure / Electricity Access Rate / 75-89%
+- [https://uptimeinstitute.com/uptime-institute-awards/country/id/ZA](https://uptimeinstitute.com/uptime-institute-awards/country/id/ZA)
+  - standards-body reference — yr 2017 · ds dc · Digital Parks Africa (Samrand Campus) / Johannesburg (Centurion/Samrand) / Operational
+- [https://vantage-dc.com/news/vantage-data-centers-expands-to-africa-with-us1-billion-flagship-johannesburg-campus-in-continents-largest-data-center-market](https://vantage-dc.com/news/vantage-data-centers-expands-to-africa-with-us1-billion-flagship-johannesburg-campus-in-continents-largest-data-center-market)
+  - DC-operator entity page — yr 2022 · ds dc · Vantage JNB1 (Johannesburg I - Waterfall City) / Johannesburg (Midrand/Waterfall) / Operational
+- [https://vantage-dc.com/data-center-locations/emea/johannesburg-ii-south-africa](https://vantage-dc.com/data-center-locations/emea/johannesburg-ii-south-africa)
+  - DC-operator entity page — yr 2024 · ds dc · Vantage JNB2 (Johannesburg II - Ekurhuleni) / Johannesburg (Germiston/Ekurhuleni) / Operational
+- [https://www.africadatacentres.com/africa-data-centres-opens-newly-expanded-carrier-grade-facilities-in-johannesburg-and-cape-town](https://www.africadatacentres.com/africa-data-centres-opens-newly-expanded-carrier-grade-facilities-in-johannesburg-and-cape-town)
+  - DC-operator entity page — yr 2017 · ds dc · Africa Data Centres JHB1 (Midrand) / Johannesburg (Midrand) / Operational
+- [https://www.africadatacentres.com/samrand-2](https://www.africadatacentres.com/samrand-2)
+  - DC-operator entity page — yr 2021 · ds dc · Africa Data Centres JHB2 (Samrand) / Johannesburg (Centurion/Samrand) / Operational
+- [https://www.africadatacentres.com/africa-data-centres-announces-additional-6mw-capacity-now-live-in-cape-town](https://www.africadatacentres.com/africa-data-centres-announces-additional-6mw-capacity-now-live-in-cape-town)
+  - DC-operator entity page — yr 2017 · ds dc · Africa Data Centres CPT1 (Cape Town - Elfindale) / Cape Town (Elfindale) / Operational
+- [https://www.africadatacentres.com/africa-data-centres-announces-groundbreaking-of-a-second-data-centre-in-cape-town](https://www.africadatacentres.com/africa-data-centres-announces-groundbreaking-of-a-second-data-centre-in-cape-town)
+  - DC-operator entity page — yr 2026 · ds dc · Africa Data Centres CPT2 (Cape Town - Under Construction) / Cape Town (Brackenfell/North) / Under construction
+- [https://www.bizportal.gov.za](https://www.bizportal.gov.za)
+  - companies registry portal — yr 2025 · ds dpi · Registries / Status / Fully deployed nationwide
+- [https://www.cipc.co.za](https://www.cipc.co.za)
+  - companies registry — yr 2025 · ds dpi · Data Exchange / Business Registration & Licensing Integration /  Partially integrated
+- [https://www.dalrrd.gov.za](https://www.dalrrd.gov.za)
+  - official govt page (REVIEW: news vs portal) | OVERRIDE→D: portal/reference/homepage/legal — yr 2025 · ds dpi · Data Exchange / Agriculture System Integration /  Under development
+- [https://www.datacentermap.com/south-africa/johannesburg/ntt-johannesburg-1-data-center/specs](https://www.datacentermap.com/south-africa/johannesburg/ntt-johannesburg-1-data-center/specs)
+  - DC registry — yr 2022 · ds dc · NTT GDC Johannesburg 1 (Samrand/Centurion) / Johannesburg (Centurion/Samrand) / Operational
+- [https://www.datacentermap.com/south-africa/johannesburg](https://www.datacentermap.com/south-africa/johannesburg)
+  - DC registry — yr 2010/2012 · ds dc · OADC Bryanston (ex-NTT/IS Bryanston) / Johannesburg (Bryanston) / Operational
+- [https://www.datacentermap.com/south-africa/johannesburg/open-access-isandp/specs](https://www.datacentermap.com/south-africa/johannesburg/open-access-isandp/specs)
+  - DC registry — yr 2018 · ds dc · OADC Isando (JHB1) / Johannesburg (Isando) / Operational
+- [https://www.datacentermap.com/south-africa/cape-town](https://www.datacentermap.com/south-africa/cape-town)
+  - DC registry — yr 2008/2020 · ds dc · OADC Cape Town/Rondebosch (ex-NTT/IS) / Cape Town (Rondebosch) / Operational
+- [https://www.datacentermap.com/south-africa/johannesburg/equinix-jn1/specs](https://www.datacentermap.com/south-africa/johannesburg/equinix-jn1/specs)
+  - DC registry — yr 2024 · ds dc · Equinix JN1 (Johannesburg IBX) / Johannesburg (Germiston) / Operational
+- [https://www.datacentermap.com/south-africa/johannesburg/neotel-data-center](https://www.datacentermap.com/south-africa/johannesburg/neotel-data-center)
+  - DC registry — yr 2007 · ds dc · Liquid Intelligent Technologies DC (Midrand) / Johannesburg (Midrand) / Operational
+- [https://www.datacentermap.com/south-africa/johannesburg/bcx-johannesburg/specs](https://www.datacentermap.com/south-africa/johannesburg/bcx-johannesburg/specs)
+  - DC registry — yr 2004 · ds dc · BCX Midrand NDC1 / Johannesburg (Midrand) / Operational
+- [https://www.datacentermap.com/south-africa/cape-town/vodacom-cape-town-data-center](https://www.datacentermap.com/south-africa/cape-town/vodacom-cape-town-data-center)
+  - DC registry — yr 2008 · ds dc · Vodacom Cape Town Data Centre / Cape Town (Foreshore) / Operational
+- [https://www.datacentermap.com/south-africa/johannesburg/vox-datapro-johannesburg/specs](https://www.datacentermap.com/south-africa/johannesburg/vox-datapro-johannesburg/specs)
+  - DC registry — yr 2010 · ds dc · Vox DataPro Johannesburg / Johannesburg (Waverley) / Operational
+- [https://www.datacentermap.com/south-africa/cape-town/vox-datapro-cape-town](https://www.datacentermap.com/south-africa/cape-town/vox-datapro-cape-town)
+  - DC registry — yr 2012 · ds dc · Vox DataPro Cape Town / Cape Town (Newlands) / Operational
+- [https://www.datacentermap.com/south-africa/johannesburg/xneelo-samrand](https://www.datacentermap.com/south-africa/johannesburg/xneelo-samrand)
+  - DC registry — yr 2013 · ds dc · Xneelo Samrand (JNB1) / Johannesburg (Centurion/Samrand) / Operational
+- [https://www.datacentermap.com/south-africa/cape-town/rsaweb-cape-town-dc2](https://www.datacentermap.com/south-africa/cape-town/rsaweb-cape-town-dc2)
+  - DC registry — yr 2009 · ds dc · RSAWEB Cape Town DC2 / Cape Town (CBD) / Operational
+- [https://www.dha.gov.za/files/Brochures/SmartIDrequirements.pdf](https://www.dha.gov.za/files/Brochures/SmartIDrequirements.pdf)
+  - official govt page (REVIEW: news vs portal) [PDF] | OVERRIDE→D: portal/reference/homepage/legal — yr 2025 · ds dpi · Digital Id / Cost of Credential /  Yes
+- [https://www.dlapiperdataprotection.com/index.html?t=law&c=ZA](https://www.dlapiperdataprotection.com/index.html?t=law&c=ZA)
+  - DP-law reference tool — yr 2021 · ds dpi · Digital Pay / Data Breach Notification Requirements / Mandatory
+- [https://www.education.gov.za](https://www.education.gov.za)
+  - official govt page (REVIEW: news vs portal) | OVERRIDE→D: portal/reference/homepage/legal — yr 2025 · ds dpi · Data Exchange / Education System Integration /  Under development
+- [https://www.elections.org.za](https://www.elections.org.za)
+  - election portal — yr 2024 · ds dpi · Data Exchange / Electoral Register Integration /  Under development
+- [https://www.elections.org.za/pw/StatsData/Voter-Registration-Statistics](https://www.elections.org.za/pw/StatsData/Voter-Registration-Statistics)
+  - election portal — yr 2026 · ds dpi · Registries / Status / Fully deployed nationwide
+- [https://www.elections.org.za/content/Voters-Roll/Percentage-registered-voters--Maps-and-summary](https://www.elections.org.za/content/Voters-Roll/Percentage-registered-voters--Maps-and-summary)
+  - election portal — yr 2013 · ds dpi · Registries / Uptake / 70-89%
+- [https://www.equinix.com/data-centers/europe-colocation/south-africa-colocation/johannesburg-data-centers/jn1](https://www.equinix.com/data-centers/europe-colocation/south-africa-colocation/johannesburg-data-centers/jn1)
+  - DC product page — yr 2024 · ds dc · Equinix JN1 (Johannesburg IBX) / Johannesburg (Germiston) / Operational
+- [https://www.fsca.co.za/Pages/default.aspx](https://www.fsca.co.za/Pages/default.aspx)
+  - regulator homepage — yr 2024 · ds dpi · Digital Pay / Consumer Protection Framework for Payments / Yes
+- [https://www.globalpetrolprices.com/South-Africa/electricity_prices](https://www.globalpetrolprices.com/South-Africa/electricity_prices)
+  - indicator aggregator — yr 2025 · ds dpi · ICT Infrastructure / Electricity Affordability / Affordable (1-2%)
+- [https://www.gov.za/about-government/government-system/home-affairs](https://www.gov.za/about-government/government-system/home-affairs)
+  - unclassified — needs glance | OVERRIDE→D: portal/reference/homepage/legal — yr 2024/2025 · ds dpi · Digital Id / Ministry of Finance Oversight /  Partial oversight
+- [https://www.gov.za/services/services-residents/birth/register-birth](https://www.gov.za/services/services-residents/birth/register-birth)
+  - unclassified — needs glance | OVERRIDE→D: portal/reference/homepage/legal — yr 2025 · ds dpi,rural · Registries / Scope / All
+- [https://www.health.gov.za](https://www.health.gov.za)
+  - official govt page (REVIEW: news vs portal) | OVERRIDE→D: portal/reference/homepage/legal — yr 2025 · ds dpi · Data Exchange / Health System Integration /  Under development
+- [https://www.icasa.org.za/news/2025/bridging-the-digital-gender-divide-for-an-inclusive-south-africa](https://www.icasa.org.za/news/2025/bridging-the-digital-gender-divide-for-an-inclusive-south-africa)
+  - regulator homepage — yr 2024 · ds dpi · ICT Infrastructure / Gender Gap in ICT Access / Small gap (10-19% fewer)
+- [https://www.itu.int/dms_pub/itu-d/opb/ind/D-IND-ICT_PRICES.01-2025-PDF-E.pdf](https://www.itu.int/dms_pub/itu-d/opb/ind/D-IND-ICT_PRICES.01-2025-PDF-E.pdf)
+  - ITU reference — yr 2024 · ds dpi · ICT Infrastructure / Mobile Data Affordability / Affordable (1-2%)
+- [https://www.justice.gov.za](https://www.justice.gov.za)
+  - official govt page (REVIEW: news vs portal) | OVERRIDE→D: portal/reference/homepage/legal — yr 2025 · ds dpi · Data Exchange / Justice System Integration /  Under development
+- [https://www.labour.gov.za](https://www.labour.gov.za)
+  - official govt page (REVIEW: news vs portal) | OVERRIDE→D: portal/reference/homepage/legal — yr 2025 · ds dpi · Data Exchange / Employment Services Integration /  Under development
+- [https://www.mymzansi.gov.za/roadmap/initiative-3](https://www.mymzansi.gov.za/roadmap/initiative-3)
+  - govt service portal — yr 2025 · ds dpi · Data Exchange / Digital Payments Integration /  Partially integrated
+- [https://www.mymzansi.gov.za](https://www.mymzansi.gov.za)
+  - govt service portal — yr 2025 · ds dpi · Data Exchange / Implementation Roadmap / Yes
+- [https://www.mymzansi.gov.za/roadmap/initiative-1](https://www.mymzansi.gov.za/roadmap/initiative-1)
+  - govt service portal — yr 2021/2025 · ds dpi · Digital Id / Government Portal Authentication /  Yes
+- [https://www.ocolo.io/colocation/open-access-data-centers/oadc-amanzimtoti-dur1](https://www.ocolo.io/colocation/open-access-data-centers/oadc-amanzimtoti-dur1)
+  - DC-operator entity page — yr 2021 · ds dc · OADC Durban DUR1 (Amanzimtoti) / Durban (Amanzimtoti) / Operational
+- [https://www.ombudcouncil.org.za](https://www.ombudcouncil.org.za)
+  - ombud homepage — yr 2024 · ds dpi · Digital Pay / Consumer Protection Framework for Payments / Yes
+- [https://www.resbank.co.za/en/home/what-we-do/national-payment-system/overview/payshap](https://www.resbank.co.za/en/home/what-we-do/national-payment-system/overview/payshap)
+  - unclassified — needs glance | OVERRIDE→D: portal/reference/homepage/legal — yr 2025 · ds dpi · Digital Pay / Person-to-Person (P2P) Payments / Yes
+- [https://www.resbank.co.za/en/home/what-we-do/national-payment-system](https://www.resbank.co.za/en/home/what-we-do/national-payment-system)
+  - unclassified — needs glance | OVERRIDE→D: portal/reference/homepage/legal — yr 2024/2025 · ds dpi · Digital Pay / Central Bank Involvement in Governance / Direct Operation
+- [https://www.resbank.co.za/en/home/what-we-do/national-payment-system/overview/vision-2025](https://www.resbank.co.za/en/home/what-we-do/national-payment-system/overview/vision-2025)
+  - unclassified — needs glance | OVERRIDE→D: portal/reference/homepage/legal — yr 2021/2024 · ds dpi · Digital Pay / Pro-Poor Governance Mechanisms / Partial
+- [https://www.rsaweb.co.za/company/about-us](https://www.rsaweb.co.za/company/about-us)
+  - ISP entity page — yr 2009 · ds dc · RSAWEB Cape Town DC2 / Cape Town (CBD) / Operational
+- [https://www.sars.gov.za](https://www.sars.gov.za)
+  - official govt page (REVIEW: news vs portal) | OVERRIDE→D: portal/reference/homepage/legal — yr 2024/2025 · ds dpi · Data Exchange / Tax & Revenue Integration /  Partially integrated
+- [https://www.sars.gov.za/wp-content/uploads/2025taxstats/2025-Tax-Statistics-Highlights.pdf](https://www.sars.gov.za/wp-content/uploads/2025taxstats/2025-Tax-Statistics-Highlights.pdf)
+  - official govt page (REVIEW: news vs portal) [PDF] | OVERRIDE→D: portal/reference/homepage/legal — yr 2024/2025 · ds dpi · Registries / Business taxpayer uptake / 70-89%
+- [https://www.sars.gov.za/individuals/how-do-i-register-for-tax](https://www.sars.gov.za/individuals/how-do-i-register-for-tax)
+  - official govt page (REVIEW: news vs portal) | OVERRIDE→D: portal/reference/homepage/legal | OVERRIDE→D: portal/reference/homepage/legal — yr 2025 · ds dpi · Registries / Status / Fully deployed nationwide
+- [https://www.sassa.gov.za/Pages/Payment.aspx](https://www.sassa.gov.za/Pages/Payment.aspx)
+  - official govt page (REVIEW: news vs portal) | OVERRIDE→D: portal/reference/homepage/legal — yr 2024/2026 · ds dpi · Digital Pay / Government-to-Person (G2P) Payments / Yes - Active Use
+- [https://www.sassa.gov.za/Pages/AnnualReports.aspx](https://www.sassa.gov.za/Pages/AnnualReports.aspx)
+  - official govt page (REVIEW: news vs portal) | OVERRIDE→D: portal/reference/homepage/legal — yr 2024 · ds dpi · Digital Pay / Government-to-Person (G2P) Payments / Yes - Active Use
+- [https://www.sita.co.za/mios](https://www.sita.co.za/mios)
+  - unclassified — needs glance | OVERRIDE→D: portal/reference/homepage/legal — yr 2021/2025 · ds dpi · Data Exchange / Enabling Legislation /  Yes
+- [https://www.sita.co.za/content/managed-infrastructure](https://www.sita.co.za/content/managed-infrastructure)
+  - unclassified — needs glance | OVERRIDE→D: portal/reference/homepage/legal — yr 1999 · ds dc · SITA National Data Centre (Centurion) / Johannesburg (Centurion) / Operational
+- [https://www.standardbank.co.za/southafrica/personal/products-and-services/digital-banking/ways-to-bank/standard-bank-app/payshap](https://www.standardbank.co.za/southafrica/personal/products-and-services/digital-banking/ways-to-bank/standard-bank-app/payshap)
+  - unclassified — needs glance | OVERRIDE→D: portal/reference/homepage/legal — yr 2025 · ds dpi · Digital Pay / Person-to-Person (P2P) Payments / Yes
+- [https://www.standardbank.co.za/southafrica/personal/products-and-services/digital-banking/ways-to-bank/standard-bank-app/payshap/terms-and-conditions](https://www.standardbank.co.za/southafrica/personal/products-and-services/digital-banking/ways-to-bank/standard-bank-app/payshap/terms-and-conditions)
+  - unclassified — needs glance | OVERRIDE→D: portal/reference/homepage/legal — yr 2023 · ds dpi · Digital Pay / Scheme Rules Publicly Available / Partial - On Request
+- [https://www.statssa.gov.za](https://www.statssa.gov.za)
+  - official govt page (REVIEW: news vs portal) | OVERRIDE→D: portal/reference/homepage/legal — yr 2025 · ds dpi · Data Exchange / National Planning & Statistics Integration /  Partially integrated
+- [https://www.statssa.gov.za/publications/P0305/P03052024.pdf](https://www.statssa.gov.za/publications/P0305/P03052024.pdf)
+  - official govt page (REVIEW: news vs portal) [PDF] | OVERRIDE→D: portal/reference/homepage/legal — yr 2024 · ds dpi · Registries / Status / Fully deployed nationwide
+- [https://www.teraco.co.za/data-centre-locations](https://www.teraco.co.za/data-centre-locations)
+  - DC-operator entity/facility page — yr 2008 · ds dc · Teraco JB1 (Isando Campus) / Johannesburg (Isando) / Operational
+- [https://www.teraco.co.za/news/teraco-completes-ct2-data-centre-expansion](https://www.teraco.co.za/news/teraco-completes-ct2-data-centre-expansion)
+  - DC-operator entity/facility page — yr 2008/2020/2026 · ds dc · Teraco JB1 (Isando Campus) / Johannesburg (Isando) / Operational
+- [https://www.teraco.co.za/news/teraco-breaks-ground-on-jb5-a-30mw-data-centre-expansion-to-isando-campus](https://www.teraco.co.za/news/teraco-breaks-ground-on-jb5-a-30mw-data-centre-expansion-to-isando-campus)
+  - DC-operator entity/facility page — yr 2025 · ds dc · Teraco JB5 (Isando Campus) / Johannesburg (Isando) / Operational
+- [https://www.teraco.co.za/news/teraco-completes-significant-jb4-hyperscale-data-centre-expansion-incorporating-new-sustainability-designs](https://www.teraco.co.za/news/teraco-completes-significant-jb4-hyperscale-data-centre-expansion-incorporating-new-sustainability-designs)
+  - DC-operator entity/facility page — yr 2022 · ds dc · Teraco JB4 (Bredell Campus) / Johannesburg (Kempton Park) / Operational
+- [https://www.teraco.co.za](https://www.teraco.co.za)
+  - DC-operator entity/facility page — yr 2013 · ds dc · Teraco CT1 (Cape Town - Rondebosch) / Cape Town (Rondebosch) / Operational
+- [https://www.teraco.co.za/news/teraco-completes-durban-data-centre-expansion-to-double-existing-facility-capacity](https://www.teraco.co.za/news/teraco-completes-durban-data-centre-expansion-to-double-existing-facility-capacity)
+  - DC-operator entity/facility page — yr 2011 · ds dc · Teraco DB1 (Durban - Riverhorse Valley) / Durban (Riverhorse Valley) / Operational
+- [https://www.teraco.co.za/news/teraco-announces-access-to-johannesburg-google-cloud-region-via-cloud-interconnect](https://www.teraco.co.za/news/teraco-announces-access-to-johannesburg-google-cloud-region-via-cloud-interconnect)
+  - DC-operator entity/facility page — yr 2024 · ds dc · Google Cloud Johannesburg Region (africa-south1) / Johannesburg / Operational
+- [https://www.theglobaleconomy.com/South-Africa/Internet_bandwidth](https://www.theglobaleconomy.com/South-Africa/Internet_bandwidth)
+  - indicator aggregator — yr 2016 · ds dpi · ICT Infrastructure / International Internet Bandwidth / Strong (100+ kbit/s per user)
+- [https://www.vox.co.za/wp-content/uploads/2021/05/3786.1-Co-location-Product-Sheet-V10-09_04_2021-RGB-1.pdf](https://www.vox.co.za/wp-content/uploads/2021/05/3786.1-Co-location-Product-Sheet-V10-09_04_2021-RGB-1.pdf)
+  - ISP entity page — yr 2010 · ds dc · Vox DataPro Johannesburg / Johannesburg (Waverley) / Operational
+- [https://www.wipo.int/edocs/gii-ranking/2024/za.pdf](https://www.wipo.int/edocs/gii-ranking/2024/za.pdf)
+  - GII reference — yr 2024 · ds dpi · ICT Infrastructure / Global Innovation Index Ranking / GII rank 61-80
+- [https://www.worldbank.org/en/publication/globalfindex](https://www.worldbank.org/en/publication/globalfindex)
+  - WB document/feature (REVIEW date+scope) | OVERRIDE→D: portal/reference/homepage/legal — yr 2021 · ds dpi · Digital Pay / Active Digital Payment Users / 70-89%
+- [https://xneelo.co.za/data-centre](https://xneelo.co.za/data-centre)
+  - hosting entity page — yr 2013 · ds dc · Xneelo Samrand (JNB1) / Johannesburg (Centurion/Samrand) / Operational
+- [https://za.liquid.tech/local-offices/country/south-africa](https://za.liquid.tech/local-offices/country/south-africa)
+  - operator entity page — yr 2007 · ds dc · Liquid Intelligent Technologies DC (Midrand) / Johannesburg (Midrand) / Operational
+
+## Excluded — produced before 2024 (dropped)  (6)
+
+- [https://cenfri.org/wp-content/uploads/2010/07/RICA-impact-on-financial-inclusion_FinMark-Trust_October-2010.pdf](https://cenfri.org/wp-content/uploads/2010/07/RICA-impact-on-financial-inclusion_FinMark-Trust_October-2010.pdf)
+  - think-tank research — yr 2009 · ds dpi · Digital Id / SIM Card Registration Use /  Mandatory
+- [https://news.microsoft.com/en-xm/2022/11/01/microsoft-expands-cloud-services-in-south-african-data-centres-to-drive-growth-and-competitiveness](https://news.microsoft.com/en-xm/2022/11/01/microsoft-expands-cloud-services-in-south-african-data-centres-to-drive-growth-and-competitiveness)
+  - Microsoft Source press — yr 2019 · ds dc · Microsoft Azure South Africa North (Johannesburg) / Johannesburg / Operational
+- [https://newsroom.equinix.com/2022-12-13-Equinix-to-Enter-South-Africa-with-US-160M-Data-Centre-Investment-in-Johannesburg](https://newsroom.equinix.com/2022-12-13-Equinix-to-Enter-South-Africa-with-US-160M-Data-Centre-Investment-in-Johannesburg)
+  - operator press release — yr 2024 · ds dc · Equinix JN1 (Johannesburg IBX) / Johannesburg (Germiston) / Operational
+- [https://www.datacentrix.co.za/uploads/8/3/1/1/83111140/2022-teraco-tech-spec-jb2.pdf](https://www.datacentrix.co.za/uploads/8/3/1/1/83111140/2022-teraco-tech-spec-jb2.pdf)
+  - SI vendor marketing — yr 2014 · ds dc · Teraco JB2 (Bredell Campus) / Johannesburg (Kempton Park) / Operational
+- [https://www.gov.za/sites/default/files/gcis_document/201802/landauditreport13feb2018.pdf](https://www.gov.za/sites/default/files/gcis_document/201802/landauditreport13feb2018.pdf)
+  - unclassified — needs glance — yr 2018 · ds dpi · Registries / Uptake / >89%
+- [https://www.intelligentcio.com/africa/2020/04/07/africa-data-centres-acquires-world-class-data-centre-in-johannesburg](https://www.intelligentcio.com/africa/2020/04/07/africa-data-centres-acquires-world-class-data-centre-in-johannesburg)
+  - CIO trade press — yr 2021 · ds dc · Africa Data Centres JHB2 (Samrand) / Johannesburg (Centurion/Samrand) / Operational
+
+---
+
+## Phase 2 run summary (fetch → `/new-queue`, 2026-07-17)
+
+- **A-web fetched: 31 · clips built: 28 · skipped: 3.**
+- Skipped: `idtechwire.com/...r11-billion-budget` (fetch-fail, livecrawl timeout ×2); `itweb.co.za/...sarb-buys-50-share-in-payinc` (fetch-fail, NOT_FOUND ×2 — would be **primary-for-held** "SARB into PayInc"); `bankservafrica.com/news/payshap-milestone-136-million` (no-body, JS shell — would be **primary-for-held** PayShap milestone). **Both PayShap/PayInc skips are worth a manual/browser re-fetch.**
+- DCD byline-date corrections applied (top-of-page dates were bogus 2026-07-14 / 2026-03-03): Teraco JB5 (2025-06-08), Vantage/Attacq (2025-03-11), Cavaleros/Cosmas (2025-11-11).
+- **Merge-clusters flagged for Bill:** Teraco JB5 (techafricanews 2025-06-03 + DCD 2025-06-08 = one event); ADC Cape Town (connectingafrica CPT1 6MW 2024-07 + outsourceaccelerator 20MW/CPT2 2024-11); Cosmas/Cavaleros Data City (DCD 2025-11 + Daily Maverick 2026-02, DM = update); SASSA biometric enrolment (Citizen 2025-04 alternate-ID phase + IDTechWire 2025-08 Sept-1 mandatory phase = distinct phases); Smart-ID expansion (4 distinct developments, not one event). Several clips are **primary-for-held** hub facts (Google JB Cloud Region, JB7, 4m smart IDs, UN e-gov index, SONA-2026 digital-ID/mDL).

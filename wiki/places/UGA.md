@@ -4,146 +4,225 @@ title: Uganda
 code: UGA
 parent: XEA
 place_kind: country
-topics: [dpi.id, dpi.govtech, dpi.registry, tech.innovate, capacity.research, gov.protect, tech.ai, gov.regional, dpi.mis, data.statistics, digital.rural, data.satellite, infra.cybersec, geopol.china, geopol.usa, infra.connect, gov.legislate, dpi.pay, dpi.exchange]
+topics: [dpi.id, dpi.pay, dpi.registry, dpi.exchange, dpi.govtech, dpi.mis, gov.protect, gov.legislate, gov.policy, gov.standards, gov.regional, infra.connect, infra.store, infra.capacity, infra.cybersec, include.access, include.divides, capacity.literacy, capacity.research, tech.ai, tech.innovate, tech.industry, data.statistics, data.satellite, digital.rural, finance.new, geopol.china, geopol.usa, geopol.gulf]
 status: active
-last_reviewed: 2026-07-11
+last_reviewed: 2026-07-17
 ---
 
 # Uganda (UGA)
 
+East African ([[XEA]]) state whose national ID — **[[ndaga-muntu]]**, run by **[[nira-uganda]]** under
+the **[[registration-of-persons-act-2015]]** — has become **load-bearing for finance, tax, education
+and social protection**, while NIRA's own numbers show it reached **barely over a third of the people
+it set out to reach**. The gate closed faster than the register filled: **74 financial institutions**
+had NIRA database access for digital KYC **as of June 2024**, and the Court that heard the challenge
+to mandatory ID found the excluded *"few and isolated cases"* **eight months before the registrar
+reported a 37.3% first-time enrolment rate**. Full treatment: **[[uganda--dpi-id]]**.
+
+The pattern recurs beyond identity. Payments are growing fast **in agents and handsets, not cards** —
+and are stated by [[ura-uganda]] to be a tax-visibility instrument (**[[uganda--dpi-pay]]**). Compute
+is almost entirely **announced rather than built**, and almost entirely sold on sovereignty
+(**[[uganda--infra-store]]**). And on **13 January 2026** the state turned the network off for four
+days, two days before a presidential election — reminding every layer above it what it rests on.
+
+## Intersections
+
+- **[[uganda--dpi-id]]** — [[ndaga-muntu]] on [[mosip]]; the 74-institution KYC gate and the UGX 1m
+  threshold; NIRA's Feb-2026 review (37.3% first-time enrolment, 90.5% renewals, 10.1m printed /
+  2.5m collected); the *ISER* judgment; iris after >1m fingerprint failures; surveillance mechanism;
+  the ~12-month registration slip; [[mvrs-uganda]] civil registration.
+- **[[uganda--dpi-pay]]** — [[bank-of-uganda]] FY2024/25 rails and the agent/card divergence;
+  [[ura-uganda]] tax-on-MoMo; the [[imf]] DPI-tax case; [[uganda-nfis-ii]]; the mobile-money data and
+  AI-lending governance gaps.
+- **[[uganda--infra-store]]** — the [[aeonian-project]] / USIO supercomputer at
+  [[karuma-hydropower-plant]]; [[abq-cloud]]; [[centenary-group-data-centre]]; Liquid's Azure Stack;
+  [[nxtra-africa]].
+
 ## Recent developments
 
-- **2026-07-10** — **Cross-border identity governance.** A DIAL ([[dial]]) research-fellowship
-  analysis uses **Kenya, Rwanda and Uganda** as its worked example: their national ID cards are
-  **mutually recognised for travel** but often **inadequate for cross-border financial services**
-  (where passports/permits are demanded) — illustrating the data-sufficiency, adequacy and
-  sovereignty problems that arise when identity must "travel" for **[[afcfta]]** integration. Source:
+*(Hub-level items only; identity, payments and data-centre detail live in the intersections above.)*
+
+- **2026-07-17** *(both items undated — proxy-dated at ingest)* — **Architecture renewal, and the stack
+  described.** [[nita-uganda]] concluded a workshop with the **[[e-governance-academy]]** on renewing
+  the **Government Enterprise Architecture** and **[[uganda-e-gif]]** (GAP-UGA-004). A joint
+  NIRA/NITA-U deck records NIRA's services used by **90 of 135 entities** on **[[ughub]]**, with
+  **[[ugpass]]** as the authentication and e-signature platform. *Undated figures — not to be read as
+  current-dated.* Sources:
+  [[2026-07-17 NITA-Uganda concludes workshop on renewal of government enterprise architecture and interoperability framework]],
+  [[2026-07-17 A Collaborative Approach to Digital Identity and Digital Transformation (NIRA and NITA-U)]].
+  See [[dpi.exchange]], [[gov.standards]].
+- **2026-07-10** — **Cross-border identity governance.** A [[dial]] analysis uses **Kenya, Rwanda and
+  Uganda** as its worked example: national ID cards **mutually recognised for travel** but often
+  **inadequate for cross-border financial services**, where passports/permits are demanded — the
+  sovereignty problem when identity must travel for **[[afcfta]]**. Source:
   [[2026-07-10 Every country defines identity differently. Can digital public infrastructure bridge those differences]].
-  See [[dpi.id]], [[dpi.exchange]], [[gov.regional]], [[gov.protect]].
-- **2026-07-02** — **NIRA a design contributor to OpenCRVS v2.0.** At the **[[opencrvs]] v2.0** launch,
-  Uganda's **National Identification & Registration Authority (NIRA)** is cited (with Madagascar and
-  the Philippines) as a government whose operational needs shaped the re-architected platform —
-  specifically NIRA's request to let registrars **escalate non-straightforward cases** to a legal /
-  senior officer before completing registration. v2.0 adds configurable workflows, offline
-  registration, MOSIP-interoperable verifiable credentials with selective disclosure, and passed an
-  Orange Cyber Defense penetration test (zero critical/high findings). Source:
+  See [[dpi.exchange]], [[gov.regional]].
+- **2026-07-02** — **NIRA a design contributor to [[opencrvs]] v2.0** (with Madagascar and the
+  Philippines), specifically its request to let registrars **escalate non-straightforward cases** to a
+  senior officer before completing registration. Source:
   [[2026-07-02 OpenCRVS v2.0 Product Launch Webinar - The Next Generation of Civil Registration]].
-  See [[dpi.registry]], [[dpi.id]], [[dpi.exchange]], [[infra.cybersec]], [[mosip]].
-- **2026-05-28** — **MOSIP-based national ID.** A Biometric Update explainer records Uganda
-  among the countries whose national digital ID is underpinned by **[[mosip]]** (alongside
-  Ethiopia and Sierra Leone). Source:
-  [[2026-05-28 Why decentralized digital identity looks different in every country]]. See [[dpi.id]].
-- **2026-05-22** — **Government Systems Prototype Showcase + National Innovator Registry.**
-  The Ministry of ICT & National Guidance launched a call for working systems / functional
-  prototypes across digital ID, civil registration, DPI, health information systems (HMIS,
-  cf. [[dhis2]]), interoperability and citizen engagement — showcase held 25 Jun, with the
-  **Uganda National Innovator Registry** gazetted **5 Jul** to steer future government
-  procurement toward local tech firms ("technology sovereignty"). Ties to the new
-  MOSIP-based ID, into which **>28 million records** have been migrated. Source:
-  [[2026-05-22 Uganda launches prototype program for digital ID and public infrastructure]].
-  See [[dpi.govtech]], [[dpi.registry]], [[tech.innovate]], [[capacity.research]].
-- **2026-05-16** — **Weak-safeguard warning.** At the ID4Africa 2026 AGM, the World Bank
-  cited Uganda (with Kenya and India) as a successful digital-ID system that nonetheless
-  suffered **legal or operational breakdowns from weak safeguards** in the data-collection
-  process. Source: [[2026-05-16 World Bank, African DPAs outline formula for trusted digital identity, DPI]].
-  See [[gov.protect]].
-- **2026-05-11** — **Rights-centred AI-strategy submission (CIPESA).** [[cipesa]] urged Uganda's AI &
-  Emerging Technologies Strategy taskforce (Ministry of ICT) to adopt rights-by-design: mandatory Human
-  Rights Impact Assessments for high-risk AI (health, agriculture, taxation, law enforcement), safeguards
-  on the algorithmic profiling already in digital lending/mobile money, local datasets, and a national AI
-  research fund — warning Uganda risks becoming a "raw data supplier to foreign tech."
-  [[2026-05-11 CIPESA Urges Rights-Centred Approach to Uganda’s AI Strategy]] · [[tech.ai]] · [[gov.policy]]
-- **2026-04-21** — **Emaisha Pay** (agro-trade payments and embedded finance) joins
-  **[[google-for-startups-accelerator-africa]]** Class 10; alumnus M-Scan (portable
-  ultrasound) is cited as a program success. Source:
-  [[2026-04-21 Meet the 15 Startups Joining the Google for Startups Accelerator Africa Class 10]].
-  See [[tech.innovate]].
-- **2026-04-16** — **Mobile-money data opacity.** An ICT4D evidence audit notes Ugandan
-  mobile-money operators **refused to share real transaction data** with researchers
-  (forcing Azamuke et al. to build a synthetic dataset), and that Uganda — among the world's
-  largest mobile-money markets — has no central-bank guidance on AI in mobile lending.
-  Source: [[2026-04-16 3 Reasons Mobile Money Programs Have a $1.7 Trillion Problem]]. See
-  [[gov.protect]], [[capacity.research]].
-- **2026-04-04** — **Chinese "safe city" surveillance.** An IDS report (Mar 2026) lists
-  Uganda among 11 African states where Beijing-financed facial-recognition / ANPR systems
-  from [[huawei]], [[zte]] and [[hikvision]] dominate, bundled with loans and data-centre
-  deals. Source: [[2026-04-04 Chinese surveillance rolled out in Africa ZTE, Hikvision, Huawei at the helm]].
-  See [[infra.cybersec]], [[gov.protect]], [[geopol.china]].
-- **2026-03-31** — **Data protection failed the 2026 polls (implementation deficit).** Unwanted Witness
-  found mandatory biometric voter verification (**109,142 kits** at **50,739** stations) and NIN-linked
-  voter registers deployed with near-absent DPIAs/privacy notices, and **selective enforcement** — the
+  See [[dpi.registry]].
+- **2026-05-22** — **Prototype Showcase + National Innovator Registry.** The Ministry of ICT called for
+  working prototypes across digital ID, civil registration, DPI, health information systems and
+  interoperability — showcase 25 Jun, the **Uganda National Innovator Registry** gazetted **5 Jul** to
+  steer procurement toward local firms ("technology sovereignty"). Source:
+  [[2026-05-22 Uganda launches prototype program for digital ID and public infrastructure]]. See
+  [[dpi.govtech]], [[tech.innovate]].
+- **2026-05-16** — **Weak-safeguard warning.** At the ID4Africa 2026 AGM the [[world-bank]] cited
+  Uganda (with Kenya and India) as a successful digital-ID system that nonetheless suffered **legal or
+  operational breakdowns from weak safeguards** in data collection. Source:
+  [[2026-05-16 World Bank, African DPAs outline formula for trusted digital identity, DPI]]. See
+  [[gov.protect]].
+- **2026-05-11** — **Rights-centred AI-strategy submission.** [[cipesa]] urged the AI & Emerging
+  Technologies Strategy taskforce to adopt rights-by-design: mandatory HRIAs for high-risk AI,
+  safeguards on the algorithmic profiling already in digital lending and mobile money, local datasets,
+  a national AI research fund — warning Uganda risks becoming a "raw data supplier to foreign tech."
+  Source: [[2026-05-11 CIPESA Urges Rights-Centred Approach to Uganda’s AI Strategy]]. See [[tech.ai]].
+- **2026-04-21** — **Emaisha Pay** (agro-trade payments, embedded finance) joins
+  **[[google-for-startups-accelerator-africa]]** Class 10; alumnus M-Scan cited as a success. Source:
+  [[2026-04-21 Meet the 15 Startups Joining the Google for Startups Accelerator Africa Class 10]]. See
+  [[tech.innovate]].
+- **2026-04-04** — **Chinese "safe city" surveillance.** An IDS report (Mar 2026) lists Uganda among
+  11 African states where Beijing-financed facial-recognition / ANPR systems from [[huawei]], [[zte]]
+  and [[hikvision]] dominate, bundled with loans and data-centre deals. Source:
+  [[2026-04-04 Chinese surveillance rolled out in Africa ZTE, Hikvision, Huawei at the helm]]. See
+  [[infra.cybersec]], [[geopol.china]].
+- **2026-03-31** — **Data protection failed the 2026 polls.** Unwanted Witness found mandatory
+  biometric voter verification (**109,142 kits** at **50,739** stations) and NIN-linked voter
+  registers deployed with near-absent DPIAs/privacy notices, and **selective enforcement** — the
   Electoral Commission registered with the [[personal-data-protection-office-uganda]] only *after*
-  polling (21 Jan 2026) while CSO actors were pursued under DPPA s.35.
-  [[2026-03-31 Uneven Enforcement of Data Protection Laws Ugandas 2026 Polls]] · [[dpi.id]] · [[gov.protect]]
-- **2026-03-31** — **EAC "AI Sovereignty" bloc.** As an EAC member, Uganda took part in the
-  4th EAC Regional STI Conference (Kigali) exploring a harmonised regional **AI Policy
-  Roadmap** and data-sovereignty framing. Entity: [[eac]]. Source:
-  [[2026-03-31 EAC moves to create unified AI Sovereignty bloc]]. See [[tech.ai]],
-  [[gov.regional]], [[XEA]].
-- **2026-03-12** — **Local crop data beats parachuted AI.** NASA Harvest's
-  **[[catherine-nakalembe]]** ([[nasa-harvest]]) maps cropland and crop types in Uganda
-  (with Kenya and Senegal) using **locally collected training data**, because Western-trained
-  models fail on local crops — a "digital colonialism" warning. Source:
-  [[2026-03-12 Western AI models 'fail spectacularly' in farms and forests abroad]]. See
-  [[tech.ai]], [[data.satellite]], [[digital.rural]], [[capacity.research]].
-- **2026-02-05** — **After Access gender study (RIA).** A Research ICT Africa qualitative
-  country report ([[research-ict-africa]]) finds mobile phones increasingly embedded in
-  Ugandan women's lives (mobile money, WhatsApp, education/health) but affordability,
-  connectivity/electricity, skills and social norms still constrain use — basic/feature phones
-  remain the primary access point for many women. (Reference study — figures kept on the source,
-  not promoted here.) Source:
-  [[2026-02-05 After Access qualitative study on gender and digital technologies Uganda report]].
-  See [[include.divides]], [[include.access]], [[capacity.literacy]], [[dpi.pay]].
-- **2026-01-13** — **Election internet shutdown and its costs.** The
-  **[[uganda-communications-commission]]** ordered a full internet blackout on the evening of
-  **13 Jan 2026**, two days before the presidential election; it lasted **four days** (social media
-  then throttled / VPN-only for over a week). The government's **>$70m** biometric voter-verification
-  kits (BVVKs) **failed by 9am** on polling day — exposing how "rudimentary" Uganda's DPI remains —
-  and Museveni was declared winner (71%). The blackout cost **[[mtn-group]]** and
-  **[[airtel-africa]]** an estimated **~$15m**, crippled the "mobile-money economy," and spilled into
-  regional trade (Northern Corridor / Mombasa port). The Uganda Law Society called it **illegal**
-  (no state of emergency under UCC Act §87); a lawsuit was filed against UCC, the telcos and the AG.
-  Source: [[2026-01-26 The cost of Uganda's internet shutdown]]. See [[infra.connect]],
-  [[gov.legislate]], [[dpi.pay]], [[dpi.id]], [[infra.cybersec]].
-- **2025-10-01** *(RIA report)* — **After Access 2022 Uganda.** A Research ICT Africa country
-  report ([[research-ict-africa]]) in its seven-country post-COVID study documents rising
-  internet access but persistent divides (high data costs, ICT taxes, low digital literacy),
-  recommending lower ICT taxes, stronger competition, digital-skills investment and affordable
-  devices/community connectivity. (Reference study — figures kept on the source, not promoted
-  here.) Source: [[2025-10-01 Digital Africa post the pandemic Uganda report]]. See
-  [[include.divides]], [[include.access]], [[infra.connect]], [[capacity.literacy]].
-- **2025-04-03** *(background)* — **Locally-owned health data proved resilient.** HISP /
-  [[dhis2]] cites Uganda's MoH as a case where the national DHIS2 system (case-based TB /
-  immunisation analytics, ICD-11 death notification) **stayed online through the 2025
-  US/USAID funding cuts** thanks to local ownership and [[hisp-centre]] support — an argument
-  for investing in locally-owned routine systems over donor-run parallel ones. Source:
-  [[2025-04-03 Now is the time to invest in locally-owned health data systems]]. See
-  [[dpi.mis]], [[data.statistics]], [[geopol.usa]].
+  polling (21 Jan 2026) while CSO actors were pursued under DPPA s.35. Source:
+  [[2026-03-31 Uneven Enforcement of Data Protection Laws Ugandas 2026 Polls]]. See [[dpi.id]],
+  [[gov.protect]].
+- **2026-03-31** — **EAC "AI Sovereignty" bloc.** Uganda took part in the 4th [[eac]] Regional STI
+  Conference (Kigali) exploring a harmonised regional **AI Policy Roadmap** and data-sovereignty
+  framing. Source: [[2026-03-31 EAC moves to create unified AI Sovereignty bloc]]. See [[tech.ai]],
+  [[gov.regional]].
+- **2026-03-12** — **Local crop data beats parachuted AI.** **[[catherine-nakalembe]]**
+  ([[nasa-harvest]]) maps cropland and crop types in Uganda (with Kenya and Senegal) using **locally
+  collected training data**, because Western-trained models fail on local crops — a "digital
+  colonialism" warning. Source:
+  [[2026-03-12 Western AI models 'fail spectacularly' in farms and forests abroad]]. See [[tech.ai]],
+  [[data.satellite]], [[digital.rural]].
+- **2026-01-26** — **Election internet shutdown and its costs.** The
+  **[[uganda-communications-commission]]** ordered a full blackout on the evening of **13 Jan 2026**,
+  two days before the presidential election; it lasted **four days**. The government's **>$70m**
+  biometric voter-verification kits **failed by 9am** on polling day — exposing how "rudimentary" the
+  DPI remains — and Museveni was declared winner (71%). The blackout cost [[mtn-group]] and
+  [[airtel-africa]] an estimated **~$15m** and crippled the "mobile-money economy," spilling into
+  Northern Corridor trade. The Uganda Law Society called it **illegal** (no state of emergency under
+  UCC Act §87); a lawsuit was filed. Source: [[2026-01-26 The cost of Uganda's internet shutdown]].
+  See [[infra.connect]], [[gov.legislate]], [[uganda--dpi-pay]].
+- **2025-11-11** — **Yas completes the Wananchi acquisition.** [[axian-wananchi-acquisition]]: Yas
+  completed the purchase of **99.63% of [[wananchi-group]]** — parent of **Zuku** and **Simbanet**,
+  operating in **Kenya and Uganda** — for **~US$63 million**; approvals included **COMESA**; no job
+  losses. Source:
+  [[2025-11-11 YAS completes $63m acquisition of parent company of Zuku and Simbanet]]. See
+  [[infra.connect]], [[finance.new]].
+- **2025-04-03** *(background)* — **Locally-owned health data proved resilient.** HISP / [[dhis2]]
+  cites Uganda's MoH as a case where the national DHIS2 system stayed online through the **2025
+  US/USAID funding cuts** thanks to local ownership and [[hisp-centre]] support. Source:
+  [[2025-04-03 Now is the time to invest in locally-owned health data systems]]. See [[dpi.mis]],
+  [[data.statistics]], [[geopol.usa]].
+- **2024-06-28** — **UGHub, the exchange layer.** A [[dial]] case study records **[[ughub]]** serving
+  **over 100 government MDAs** plus banks, insurers and fintechs **(as of June 2024)**, cutting wait
+  times **from days to hours** — notably **passports, work permits and vehicle registrations**.
+  Challenges named: **financial sustainability, slow uptake, connectivity gaps**. Source:
+  [[2024-06-28 Integrated National Data Exchange Systems - Uganda Case Study]]. See [[dpi.exchange]],
+  [[gov.standards]].
+- **2024-01-01** *(`date_precision: year`, `date_source: proxy` — the GLTN blog is undated; its only
+  hard in-body date is the Gazette notice of 18 September 2020, so this is not a 2024 datapoint)* —
+  **Digital Certificates of Customary Ownership.** CCOs under the **Land Act 1998** and the **2013
+  National Land Policy**, covering the ~**80% of Uganda's land held under customary tenure**. Since
+  **2014** [[gltn]] / [[un-habitat]] has partnered with **[[mlhud-uganda]]**; **over 7,684 parcels
+  registered** — pilot scale against that 80%. The digital CCO template is built on the **[[stdm]]**,
+  gazetted **18 September 2020**, carrying a **unique QR code**. Source:
+  [[2024-01-01 Uganda Moves to Digital Certificates of Customary Ownership to secure land rights and improve land use]].
+  See [[dpi.registry]], [[digital.rural]].
 
 ## Active topics
 
-- [[dpi.id]] · [[dpi.registry]] · [[dpi.exchange]] — MOSIP-based national ID, >28m records migrated
-  ([[mosip]]); NIRA as a design contributor to **[[opencrvs]] v2.0** civil registration.
-- [[dpi.govtech]] · [[tech.innovate]] — Prototype Showcase + National Innovator Registry;
-  push for locally developed government systems.
-- [[infra.connect]] · [[gov.legislate]] · [[dpi.pay]] — Jan-2026 **election internet shutdown**
-  ([[uganda-communications-commission]]): BVVK failure, ~$15m operator loss, mobile-money disruption,
-  illegality/lawsuit.
-- [[capacity.research]] — local DPI innovation pipeline; mobile-money data-access gap.
-- [[gov.protect]] — data-collection safeguard weaknesses; no AI-lending guidance; cross-border
-  identity-data governance.
-- [[tech.ai]] · [[gov.regional]] — EAC "AI Sovereignty" bloc; DIAL cross-border ID (Kenya/Rwanda/Uganda
-  mutual recognition; [[afcfta]]); locally-adapted agricultural AI.
-- [[dpi.mis]] · [[data.statistics]] · [[geopol.usa]] — DHIS2 resilience through US health cuts.
-- [[infra.cybersec]] · [[geopol.china]] — Chinese "safe city" surveillance suppliers.
+- [[dpi.id]] · [[dpi.registry]] — [[ndaga-muntu]] on [[mosip]]; [[nira-uganda]]; [[mvrs-uganda]] civil
+  registration; [[opencrvs]] v2.0 design input; land registry ([[stdm]] CCOs). Statutory basis:
+  [[registration-of-persons-act-2015]]. → **[[uganda--dpi-id]]**
+- [[dpi.pay]] — [[bank-of-uganda]] rails; [[eaps]] settlement; [[mtn-uganda]] mobile money;
+  [[ura-uganda]] tax integration; strategy [[uganda-nfis-ii]]. → **[[uganda--dpi-pay]]**
+- [[dpi.govtech]] · [[dpi.exchange]] · [[gov.standards]] — **[[ughub]]** (100+ MDAs as of Jun 2024),
+  **[[ugpass]]** authentication and e-signature, **[[uganda-e-gif]]** (6 May 2021 — twelve principles,
+  six interoperability layers) and the **[[uganda-digital-government-strategy]]** v1.1 (26 Feb 2022, a
+  formal addendum to the GEA/e-GIF engagement), under renewal with the [[e-governance-academy]].
+  Prototype Showcase and National Innovator Registry push local build.
+- [[gov.legislate]] · [[gov.protect]] — the **ISER judgment (10 June 2025)** (→ [[uganda--dpi-id]]);
+  DPI deployed with weak safeguards (World Bank, ID4Africa 2026); selective DPPA enforcement around
+  the 2026 polls ([[personal-data-protection-office-uganda]]); no central-bank guidance on AI in
+  lending.
+- [[tech.ai]] · [[infra.store]] · [[infra.capacity]] — the compute pipeline
+  (→ **[[uganda--infra-store]]**); CIPESA's rights-by-design submission to the national AI strategy;
+  the [[eac]] "AI Sovereignty" bloc; locally-trained agricultural AI ([[nasa-harvest]]).
+- [[infra.connect]] — the **Jan-2026 election shutdown** ([[uganda-communications-commission]]);
+  [[axian-wananchi-acquisition]] consolidating Zuku/Simbanet broadband.
+- [[include.access]] · [[include.divides]] · [[digital.rural]] — the enrolment shortfall and
+  uncollected cards (→ [[uganda--dpi-id]]); **>1.3m persons with disabilities (Dec 2025)** facing
+  financial-service barriers; refugee misidentification risk in Adjumani; NFIS II widening priority
+  groups to add **refugees and PWDs**.
+- [[dpi.mis]] · [[data.statistics]] · [[geopol.usa]] — DHIS2 resilience through the 2025 US health cuts.
+- [[infra.cybersec]] · [[geopol.china]] — Chinese "safe city" surveillance suppliers; the ID database
+  access mechanism ([[acme-uganda]], [[nick-opiyo]]).
+- [[tech.innovate]] · [[capacity.research]] — the local DPI innovation pipeline
+  ([[google-for-startups-accelerator-africa]]); the mobile-money data-access gap.
+
+## Contested figures
+
+- **How many Ugandans lack a National ID — unresolved; the wiki adopts neither value.**
+  - **~18 million (about 40% of the population)** — asserted by **[[michael-aboneka]] / DRAA**
+    (2025-09-13). *The estimate carries **no cited source**; that absence is itself the finding.*
+  - **A register of more than 35 million** uniquely identifiable people — **[[nira-uganda]]**
+    (2026-02-11), which frames coverage rather than the gap.
+  - NIRA's own 2024 baseline of **17.2m unregistered** minus **6.4m** first-time enrolments implies
+    **~10.8m still unregistered (Feb 2026)** — which cleanly contradicts neither.
+  - Likely definitional root: **"registered", "holds a NIN" and "holds a usable card" are three
+    different populations** — 10.1m cards printed against 2.5m collected is the same gap in another
+    guise. See `reviews/contradictions/open/uganda-unregistered-population` and [[uganda--dpi-id]].
+- **"First AI factory / supercomputer in Africa"** — three Uganda clips carry three different
+  superlatives for the same Karuma facility, against [[cassava-technologies]]' competing claim for
+  South Africa. **The label is contested; no claim is adopted.** See [[uganda--infra-store]].
+- *Carried, not reconciled:* BoU reports national e-money of **UGX 326tn (+28.6%, FY2024/25)** and
+  [[mtn-uganda]] at **UGX 319.6tn (+28.6%)** while stating MTN handles **40%** — internally
+  inconsistent; no derived shares are computed from it. See [[uganda--dpi-pay]].
+
+## Reference studies held (cited, not absorbed)
+
+[[research-ict-africa]] **After Access** — the qualitative gender study (2026-02-05: mobile phones
+increasingly embedded in Ugandan women's lives, but affordability, connectivity, skills and norms
+still constrain use; basic/feature phones remain the primary access point) and the post-pandemic
+country report (2025-10-01: rising access, persistent divides — data costs, ICT taxes, low digital
+literacy) · the [[idrc-crvs-centre-of-excellence]] Uganda CRVS snapshot (2019) · [[imf]] DPI/tax
+analysis (2025-04-21) · [[un-egdi]] · the **Uganda Data Centre Market Brief 2026**.
 
 ## Entities
 
-- [[mosip]] · [[google-for-startups-accelerator-africa]] · [[google]] · [[world-bank]]
-- [[eac]] · [[nasa-harvest]] · [[catherine-nakalembe]] · [[dhis2]] · [[hisp-centre]] · [[huawei]]
-- [[uganda-communications-commission]] · [[mtn-group]] · [[airtel-africa]] — election internet shutdown.
-- [[opencrvs]] · [[dial]] · [[afcfta]] — civil registration (NIRA); cross-border identity governance.
-- Batch (2026-07-12): [[research-ict-africa]] — After Access gender + post-pandemic Uganda reports.
-- Mentioned, not hubbed: Ministry of ICT & National Guidance; Uganda National Innovator
-  Registry; Emaisha Pay; M-Scan; Upanzi Network (CMU Africa); [[zte]]; [[hikvision]];
-  Africa CDC; USAID; Paul Mbaka (MoH Division of Health Informatics).
+- **Government** — [[nira-uganda]] · [[nita-uganda]] · [[ura-uganda]] · [[bank-of-uganda]] ·
+  [[ursb]] · [[mlhud-uganda]] · [[sti-op-uganda]] · [[uganda-communications-commission]] ·
+  [[personal-data-protection-office-uganda]]
+- **Systems** — [[ndaga-muntu]] · [[ughub]] · [[ugpass]] · [[mvrs-uganda]] · [[sage-uganda]] ·
+  [[efris]] · [[eaps]] · [[mosip]] · [[opencrvs]] · [[dhis2]] · [[stdm]]
+- **Instruments** — [[registration-of-persons-act-2015]] · [[uganda-e-gif]] ·
+  [[uganda-digital-government-strategy]] · [[uganda-nfis-ii]]
+- **People** — [[claire-ollama]] · [[rosemary-kisembo]] · [[michael-atingi-ego]] ·
+  [[john-musinguzi]] · [[asamo-hellen-grace]] · [[nick-opiyo]] · [[michael-aboneka]] ·
+  [[catherine-nakalembe]]
+- **Civil society / research** — [[iser-uganda]] · [[acme-uganda]] · [[cipesa]] · [[access-now]] ·
+  [[research-ict-africa]] · [[dial]] · [[world-bank]] · [[imf]] · [[gltn]] · [[un-habitat]] ·
+  [[nasa-harvest]] · [[hisp-centre]]
+- **Industry** — [[tahaluf]] · [[tech5]] · [[veridos]] · [[iritech]] · [[mtn-uganda]] ·
+  [[mtn-group]] · [[airtel-africa]] · [[raxio-group]] · [[nxtra-africa]] · [[abq-cloud]] ·
+  [[centenary-group]] · [[centenary-group-data-centre]] · [[aeonian-project]] ·
+  [[synectics-technologies]] · [[schneider-electric]] · [[karuma-hydropower-plant]] ·
+  [[cassava-technologies]] · [[africa-data-centres]] · [[wananchi-group]] ·
+  [[axian-wananchi-acquisition]] · [[huawei]] · [[zte]] · [[hikvision]] · [[nvidia]]
+- **Regional** — [[eac]] · [[afcfta]] · [[un-egdi]] · [[e-governance-academy]] ·
+  [[idrc-crvs-centre-of-excellence]]
+- Mentioned, not hubbed: Ministry of ICT & National Guidance; Uganda National Innovator Registry;
+  Monica Musenero Masanza; Eric Mugerwa (ABQ Cloud); Oladele Oyekunle (Synectics); MDCS.AI,
+  Automation NV; Emaisha Pay; M-Scan; Unwanted Witness; Uganda Bankers Association. *(Identity-,
+  payments- and data-centre-specific names sit on the intersections.)*

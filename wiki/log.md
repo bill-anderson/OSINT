@@ -3808,3 +3808,139 @@ rollout).
 
 **Lints run clean across the 208 batch-touched files:** 0 dead links, 0 schema violations, 0
 vocabulary violations, 0 stranded queue items (`new/` empty).
+
+---
+
+## 2026-07-17 — TUN · TZA · UGA batch (Tunisia, Tanzania, Uganda)
+
+**Scale.** 65 queue items (47 clips + 18 PDFs) drained to empty. **61 source pages** in `raw/`
+(46 clips + 15 artefact companions), **99 new entity pages** (943 → 1,038), **6 new intersections**,
+3 place hubs rebuilt, 3 indexes updated.
+
+**Ingested.** 46 clips admitted; 15 artefacts date-prefixed with companion source pages; **2 leads
+parked**; **4 discards/prunes**. No AI or second-hand syntheses in the batch — every clip was
+attributable, dated and published.
+
+**Dedup — four prunes, one tag fix, one origin recovered.**
+- **`Digitalization of CRVS in Africa.pdf` re-clipped again** — md5 `b974d892…` confirmed
+  **byte-identical** to the held `2023-04-01` artefact. Discarded. (Second batch running to
+  re-clip this same file.)
+- **E-Houwiya double-clip** — the Mobile ID World copy **self-declares** "*This is a repost of the
+  same authored article carried by IDTechWire*" and adds nothing. Pruned; ID Tech kept (canonical,
+  and a strict superset carrying the CBT KYC regs, the three operating bodies, the X.509 detail and
+  the "no legal obligation" caveat).
+- **URA TIN→NIN double-clip** — Nile Post (2025-11-12) vs SoftPower (2025-11-11): same URA
+  #LearnTaxUg statement, payload identical field-for-field; Nile Post's only distinctive content is
+  rhetorical framing, which lint #7 excludes. Pruned by rung (c), earliest publication. Pruned URL:
+  `nilepost.co.ug/business/301709/ura-announces-historic-shift-from-tin-to-nin`.
+- **EGDI re-clip of a HELD source** — same URL as `2024-09-23 South Africa, Mauritius and Tunisia
+  Lead E-Government Progress in Africa (UN EGDI 2024)`. Discarded rather than admitted as a second
+  page for one article, and its three extra details (regional increase percentages, the band counts
+  with the lowest-ranked list, the Tunisia-surpasses-Seychelles line) folded into the held page.
+  **The re-clip also exposed a defect in the held page: it was tagged `places: [MUS]` alone despite
+  its own title leading with South Africa, Mauritius *and* Tunisia, and naming Morocco, Seychelles
+  and Egypt with individual scores — which is why a TUN place-search never surfaced it.** Fixed to
+  `[ZAF, MUS, TUN, MAR, SYC, EGY, XAF]`; `entities: []` filled. Created **[[un-egdi]]**, which did
+  not exist despite the index being cited across Chad, Seychelles, Tunisia and more.
+- **Uganda's "28M records" clip is the ORIGIN account, not a duplicate.** The wiki held that fact
+  only second-hand, as a passing clause in the held 2026-05-22 prototype-programme source — **which
+  hyperlinks to this very article**. Admitted, and the UGA hub's two `>28m` citations **re-anchored**
+  to it. Independently corroborated by IriTech as MOSIP's **first completed brownfield
+  implementation**.
+- Nine further apparent duplicate pairs examined and **kept as complementary**: both Tunisia
+  biometric-ID accounts, both NaPA accounts, both Tanzania infant-registration accounts, both PDPA
+  analyses, the two Centenary accounts, the three Aeonian accounts.
+
+**Dates.** All 47 clips arrived prefixed `2026-07-17` (clipper date, meaningless); true publication
+dates established, spanning **2019-01-01 → 2026-03-02**. Traps: **Data Center Dynamics renders a
+bogus "14 Jul 2026" current-date page header** — caught on both DCD clips, true bylines 2024-08-12
+and 2024-12-13 (**a standing trap for future clips from that publisher**); the Tanzania
+infant-registration piece's on-page "Saturday, January 3, 2025" is a typo resolved by weekday
+arithmetic (3 Jan 2026 *is* a Saturday; 3 Jan 2025 was a Friday). **Four PDFs and one clip could not
+be dated** and were filed honestly: the NIRA/NITA-U deck and the NITA-U workshop clip fall back to
+the **ingest date** marked `proxy` (not publication dates; their sort positions are meaningless —
+GAP-UGA-004); the IDRC COVID/MVRS brief and the GLTN land blog are year-precision proxies.
+
+**Scope corrections.** Three clips arrived mis-routed: **"Home Affairs unveils 2.06tri- budget" is
+Tanzania**, not Uganda (a "Ministry of Home Affairs" name collision — it turned out to corroborate
+the ID4Africa coverage figures by an independent parliamentary route); the **YAS/Wananchi**
+acquisition arrived with the Tanzania batch but contains **no Tanzanian fact** (Uganda/Kenya); the
+**Nxtra** piece is pan-African **and marked `(sponsored)`** — the company's account of its own
+plans, held to a one-line ceiling on the UGA hub.
+
+**Corrections to my own briefing, caught by the agents.** Three, all mine: **`e-GIF.pdf` and
+`Digital-Strategy.pdf` are Uganda's**, not Tanzania's, and `National-Financial-Inclusion-Strategy`
+is Uganda's; the **`CIS_..._RIA_...` filename's "RIA" is Research ICT Africa**, the co-publisher,
+not a regulatory impact assessment; and I briefed that the High Court found "few and isolated cases"
+**three months** before NIRA published 37.3% — **the true interval is eight months** (10 Jun 2025 →
+11 Feb 2026); "three months" was the judgment-to-DRAA-piece gap. The point is stronger for the
+correction.
+
+**Editorial actions (tier-2, itemised).**
+- **Intersections extracted** (all clear the materiality bar; parents left as indexes):
+  `uganda--dpi-id` (1,855w, 11 sources — the batch's central page), `tanzania--dpi-id` (1,133w, 7),
+  `uganda--dpi-pay` (865w, 8), `tanzania--gov-protect` (764w, 4), `uganda--infra-store` (715w, 8),
+  `tanzania--dpi-registry` (492w, 2).
+- **Hubs rebuilt and trimmed:** TUN **280 → 1,728w** (a single-thread stub before this batch); TZA
+  **1,280 → 3,122 → 1,656w**; UGA **1,341 → 3,470 → 1,963w**. Both TZA and UGA crossed the ~2,500
+  classify threshold on rebuild and were brought back by extraction, with mechanical fact-loss
+  audits (55 and 100 distinctive figures respectively grepped against the outputs — **zero lost**).
+- **[[un-egdi]] created** — a recurring reference index cited across the corpus with no page. Its
+  figures live on it, per cite-don't-absorb.
+- **[[cybernetica]] fixed** — Tunisia was missing from its places despite the UXP deployment.
+- **`michael-aboneka` created** — the Uganda hub agent had de-linked him rather than mint a dead
+  link; he is load-bearing for attributing the ISER critique.
+
+**Mechanical (tier-1).** 47 clips re-prefixed and moved `new/→raw/`; 15 PDFs renamed from opaque
+filenames (`01J5TJ…` → Tanzania Digital Economy Strategic Framework; `2025051609501183` → the
+BOT/FSDT TIPS case study; `sc.pdf`-class names resolved) with companion pages; 94 rows added to
+`entities-index.md`; 17 place-code additions across `topics-index.md`; 3 rows rewritten in
+`places-index.md`.
+
+**Registers.** **1 contradiction opened** — `uganda-unregistered-population`: DRAA's **18 million
+(~40%)** unregistered against NIRA's **35 million** register. It does not resolve as supersession:
+NIRA's own 2024 baseline (17.2m unregistered) minus 6.4m enrolled implies **~10.8m**, contradicting
+neither cleanly, and **the DRAA estimate carries no cited source — which is itself the finding**.
+Likely definitional root: *registered*, *holds a NIN* and *holds a usable card* are three different
+populations (10.1m cards printed, 2.5m collected). **2 issues** — ISSUE-006 (Tunisie Telecom's chief
+executive: "Lassaad Ben Dhiab" vs "Assad bin Dyab", one month apart, near-certainly one person under
+two transliterations; *recommend* treat as one, canonical form, variant recorded), ISSUE-007 (two
+PDFs **undated *and* unattributed** — a Uganda CSO submission and a Tanzania DPI case study — parked
+in `_leads/` rather than admitted on a guess; *recommend* hand-source the originals, since the
+former's claim that **1 million people in the register have unmatchable fingerprints** is
+independently corroborated by IriTech and would be load-bearing). **11 gaps** — UGA-001…005,
+TZA-001/002, TUN-001/002/003.
+
+**Not filed as contradictions** (documented dated on pages): the Centenary data-centre date
+(end-2025 → Q1 2026 — **supersession**, same publisher, current value plus one dated prior; the
+later piece calls the rebased schedule "on schedule" without acknowledging the earlier commitment —
+a rhetorical tell, not a source conflict); the registration-start chronology (1 Jun 2024 → Jul 2024
+→ Oct 2024 → **actually 27 May 2025** — a ~12-month slip against a hard Electoral Commission
+deadline, each source accurate as of its date); NaPA's **85% population rate (2024)** vs **12.9m
+absolute count (2026)** — **different metrics, neither derivable from the other, no trend
+inferable**; Wingu's $50m Mbezi phase vs the WCX platform vs a $60m raise, and 99.983% (Mbezi) vs
+99.982% (Djibouti TO7) — different objects, different sites; AXIAN's **$63m purchase price** vs its
+**$600m capital raise** — different quantities; kit counts 5,680 planned (2024) vs 5,665 deployed
+(2026) — rounding; Tanzania's ministry rendered two ways across 2024/2026 — variants recorded, not
+normalised.
+**Internal inconsistencies carried as reported, not reconciled:** the BoU/UBC report gives national
+e-money at **UGX 326tn (+28.6%)** *and* MTN Uganda's at **UGX 319.6tn (+28.6%)** while stating MTN
+handles **40%** — two near-identical values incompatible with a 40% share. Do not compute derived
+shares from them.
+
+**Flags.** Attribution calls that matter: the **definitive E-Houwiya source is authored by Nizar Ben
+Neji, Tunisia's former Minister of Communication Technologies (2021–2024), who led the system's
+implementation** — first-hand principal testimony, not neutral trade reporting, flagged wherever
+cited. The **DRAA ISER critique** is advocacy analysis of a real judgment the wiki does *not* hold
+(GAP-UGA-001). The **Opiyo surveillance piece** establishes the *mechanism* (datasets "easily
+accessed by individuals at all levels of law enforcement") but **does not document which ID records
+were pulled on him** — the causal link is asserted, not shown, and NIRA's ED refuted database access
+on the record. **No "first AI factory in Africa" claim adopted** — three Uganda clips give three
+different superlatives against Cassava's competing claim; the label is contested marketing, and the
+$1.2bn Aeonian cost is single-sourced. **Currency**: Tunisia's biometric ID is written throughout as
+a **dated target, never an accomplished rollout** (GAP-TUN-002), and the 2004 data-protection law is
+**historical baseline**, superseded by a 123-article reform bill the wiki already holds.
+
+**Lints clean across the 373 batch-touched files:** 0 dead links, 0 schema violations, 0 vocabulary
+violations, 0 stranded queue items (`new/` empty). All three hubs finish under the classify
+threshold (TUN 1,728w · TZA 1,656w · UGA 1,963w).
