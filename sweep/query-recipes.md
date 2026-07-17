@@ -12,11 +12,26 @@ cluster below, so running all clusters covers the whole taxonomy.
 
 - **Newspapers:** run every topic cluster (N1–N7) per paper domain. Query
   shape: domain-scoped semantic search, `{cluster phrasing}`, 25–50 results,
-  2025-01-01 → today. In Francophone/Lusophone/Arabic-press countries use the
-  FR/PT/AR variant *as well as* English if the paper publishes in both.
+  2025-01-01 → today. **Query in the paper's publication language(s)**: for a
+  Francophone/Lusophone/Arabic-only paper run the FR/PT/AR variants and skip
+  English (pilot finding: EN passes on FR-only papers return nothing — spend
+  the query on a month-sliced FR pass instead). Add English only where the
+  paper actually publishes in it.
 - **Trade journals:** run the two country recipes (J1–J2) per journal domain,
   substituting the country name (and common variants, e.g. "DRC" /
   "DR Congo" / "Congo-Kinshasa"; "Cabo Verde" / "Cape Verde").
+- **Month-slice by default on busy pairs.** Exa fails by *recency-swamping*,
+  not saturation: an unsliced J1/J2 on a high-volume domain returned 1–2
+  in-window hits from 50 where month-named slices recovered ~35–40 (pilot,
+  NGA). For big markets (NGA, ZAF, KEN, EGY) and for any query whose results
+  are mostly out-of-window, re-run the query once per month of the window
+  ("… in January 2025", etc.). Cost is ~+50% queries for ~3× recall.
+- **Verify every date at fetch.** Exa's date filters leak badly (pilot: only
+  ~23% of on-domain hits genuinely in-window); the `published` in frontmatter
+  comes from the fetched page, never from the search result.
+- **techreviewafrica.com** serves no dates to search at all — run J1/J2
+  anyway, but expect to date every keeper via fetch; it remains a lead-net
+  (see README source table).
 - **Regional pass:** run R1–R3 against the 8 journal domains only.
 
 ## Newspaper clusters
@@ -108,3 +123,7 @@ or payments rollouts, pan-African cable or cloud investments
 ## Change log
 
 - 2026-07-17 — initial version, pre-pilot.
+- 2026-07-17 (post-pilot) — month-slicing made default for busy pairs;
+  newspaper queries now language-of-publication first (skip EN on FR/PT/AR-only
+  papers); date-verification-at-fetch and techreviewafrica notes added.
+  Basis: TCD/SEN/NGA 2025-Q1 pilot.

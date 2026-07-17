@@ -1,0 +1,37 @@
+---
+type: source
+title: "Mobile Money au Bénin : une débrouille qui soulage les poches"
+url: https://fraternite.bj/mobile-money-au-benin-une-debrouille-qui-soulage-les-poches/
+publisher: Fraternité
+author: Patrice SOKEGBE
+published: 2025-04-29
+date_precision: day
+date_source: source
+retrieved: 2026-07-17
+sweep_batch: BEN-2026-07-17
+places: [BEN]
+topics: [dpi.pay, include.access, digital.rural, gov.policy, infra.cybersec]
+entities: [[moov-money-benin], [mtn-mobile-money-benin], [bceao]]
+---
+
+# Mobile Money au Bénin : une débrouille qui soulage les poches
+
+*Fraternité — 29 avril 2025 — Patrice SOKEGBE*
+
+Dans un contexte où l'inclusion financière progresse à pas de géant, l'activité de Mobile Money s'impose comme une source de revenus viable pour de nombreux Béninois. Qu'ils soient jeunes entrepreneurs, mères de famille ou anciens chômeurs, beaucoup se tournent vers cette activité à faible barrière d'entrée, attirés par la promesse d'un revenu quotidien. Mais qu'en est-il réellement de sa rentabilité. Comme dans de nombreux pays africains, cette activité à forte croissance comporte aussi des risques et des défis spécifiques.
+
+Patrice SOKEGBE
+
+Dans les rues animées de Cotonou, derrière une petite table en bois recouverte d'un parasol jaune, Mireille, la trentaine, jongle avec deux téléphones. Elle encaisse un retrait de 10 000 FCFA pour un client Moov Money, tout en traitant un dépôt sur MTN MoMo. Son commerce : le Mobile Money. Un service devenu vital pour des milliers de Béninois… et une source de revenus non négligeable. « Certains jours, je traite plus de 500 000 FCFA de transactions. Si tout se passe bien, je peux faire 10 000 FCFA de bénéfices par jour. Mais ce n'est pas sans stress », confie-t-elle, les yeux fixés sur la rue. Derrière le succès apparent, les marges restent modestes. Les commissions varient de 0,5% à 1% selon les opérateurs et la nature des opérations. En zone urbaine, un agent peut engranger jusqu'à 300 000 FCFA de bénéfices par mois, mais ce chiffre peut chuter à 30 000 FCFA dans les zones rurales où le volume des transactions est faible. « Le Mobile Money, c'est comme vendre du crédit. Tu gagnes petit à petit, mais il faut du volume pour que ça compte vraiment », explique Rodrigue, un agent de Godomey.
+
+Sur le terrain, poursuit Rodrigue, les revenus d'un point de Mobile Money dépendent fortement de son emplacement et du flux de clients quotidien. On distingue généralement trois niveaux de rentabilité. Avec des transactions journalières avoisinant les 50 000 à 150 000 FCFA dans les zones rurales ou peu fréquentées, les revenus mensuels tournent autour de 30 000 à 80 000 FCFA. Dans les zones semi-urbaines ou centres de quartier, un agent peut y réaliser 100 000 à 250 000 FCFA de bénéfice net mensuel, pour des volumes journaliers allant jusqu'à 500 000 FCFA. Dans les zones à fort trafic comme les marchés, gares, centre-villes et autres endroits stratégiques, le chiffre d'affaires peut dépasser 1 million FCFA par jour, avec des bénéfices mensuels pouvant grimper à 600 000 FCFA ou plus.
+
+Selon lui, l'investissement de départ raisonnable est entre 100 000 et 500 000 FCFA pour constituer le capital de roulement cash et solde électronique, s'équiper d'un smartphone, d'un mobilier basique et parfois louer un espace. Dans des conditions optimales, un agent peut atteindre le seuil de rentabilité en deux à quatre mois. Cependant, si la rentabilité est possible, elle n'est ni garantie ni automatique. Elle repose sur une gestion stricte du double flux (argent liquide et solde électronique), un emplacement stratégique et une capacité à fidéliser la clientèle par la fiabilité et la disponibilité. Les imprévus (vol, erreur de transaction, surcharge de demande) peuvent réduire les gains. « C'est une activité qui paie si tu es organisé. Mais dès que tu es distrait ou trop confiant, tu peux perdre en une journée ce que tu as mis un mois à gagner », confie Jean-Baptiste, agent Mobile Money Godomey.
+
+### Un métier accessible, mais dangereux
+
+Mais au-delà des chiffres, c'est une activité à haut risque. Vols, fraudes, braquages : la menace est constante. « Une nuit, on a cassé ma vitrine. Ils sont partis avec plus de 200 000 FCFA en cash », raconte Adama, agent à Abomey-Calavi, les traits tirés. Les cas de braquages se multiplient, surtout dans les zones peu surveillées ou mal éclairées. Les agents deviennent des cibles faciles pour les voleurs, car ils manipulent à la fois de l'argent liquide et des téléphones portables coûteux. Aussi, les escroqueries liées au mobile money sont-elles devenues monnaie courante. Certains clients utilisent de faux messages de confirmation, des numéros de transfert erronés ou profitent de la distraction de l'agent pour semer la confusion. « Une fois, un client m'a montré un faux SMS pour un dépôt. Je n'ai compris que c'était une arnaque qu'après avoir validé l'opération. J'ai perdu 50 000 francs », raconte Mireille, agent à Abomey-Calavi. Hubert, un agent à Abomey-Calavi confie : « Je servais un client dont l'apparence parait plutôt responsable. Mais le hic, avec lui, il ne recevait jamais les transferts sur son numéro personnel. Mais un jour, il m'appelle en me demandant de lui faire un transfert de 50.000 Fcfa, le lendemain, un autre de 30.000 Fcfa. Sans hésiter, je lui ai fait ces transferts au regard de mon degré de confiance en lui, et de sa fidélité à mes services. Mais depuis ce moment, il est devenu introuvable ». Pour éviter les pertes, certains agents choisissent de ne garder que le minimum en espèces. D'autres installent des caméras, paient un vigile, ou ferment plus tôt. Malgré ces précautions, l'insécurité reste un frein majeur. Pour continuer à servir leurs clients, les agents doivent constamment gérer un équilibre entre l'argent liquide (cash) et l'argent électronique (float). En période de forte demande, comme les fins de mois ou les rentrées scolaires, il devient difficile de satisfaire tout le monde. « Si je n'ai pas assez de float, je perds des clients. Si je garde trop de cash, je m'expose aux voleurs », déplore un agent de Bohicon.
+
+### Une activité encore peu encadrée
+
+Malgré son importance croissante, le mobile money reste peu structuré au Bénin. La plupart des agents travaillent sans licence formelle, sans assurance, et sans aucune formation en gestion des risques. Bien que la Banque Centrale des États de l'Afrique de l'Ouest (BCEAO) ait édicté des directives, leur application reste faible dans le pays. « Il est temps que l'État béninois, en collaboration avec les opérateurs de téléphonie et les fintechs, prenne des mesures pour protéger ces acteurs clés de l'inclusion financière », plaide un expert en finance numérique basé à Cotonou. Pour mieux sécuriser cette activité, il a évoqué plusieurs pistes, notamment la formation des agents sur les techniques de prévention des fraudes, la sécurisation physique des kiosques de vente, la mise en place d'un système d'assurance adapté et le suivi régulier par les opérateurs et autorités financières. Le mobile money joue un rôle majeur dans le quotidien des Béninois. Il favorise la bancarisation, facilite les échanges, et offre une opportunité économique à de nombreux jeunes. Mais pour que cette activité devienne réellement durable, elle doit être mieux encadrée, sécurisée et professionnalisée. Il en va de la survie économique de milliers de familles à travers le pays.

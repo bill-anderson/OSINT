@@ -62,11 +62,12 @@ directed otherwise. For each country:
      date-bounded 2025-01-01 → today).
    - *Journals:* for each of the 8 domains, run the two country-scoped
      recipes (country name led; no topic filter).
-   - **Time-slicing:** for high-volume pairs (any big-market country ×
-     TechCabal / Techpoint-class volume, or any query that visibly saturates),
-     slice the window by quarter and re-run per slice. Small-country pairs
-     need one query. Exa's date filter leaks: always re-check `published` at
-     fetch time and discard out-of-window items.
+   - **Time-slicing (default, not exception):** Exa fails by recency-swamping
+     — the pilot showed unsliced queries on busy domains miss ~2/3 of
+     in-window items. Month-slice by default for big markets (NGA, ZAF, KEN,
+     EGY) and for any query whose results come back mostly out-of-window.
+     Small-country pairs need one query. Exa's date filter leaks: always
+     re-check `published` at fetch time and discard out-of-window items.
 2. **Dedup — conservative.** Compare hits against current holdings
    (`raw/` frontmatter: url, title, event + entities + date). Drop **only**:
    - exact URL already held;
@@ -92,6 +93,12 @@ directed otherwise. For each country:
    date_precision, date_source, places, topics, entities, lens) plus
    `retrieved: YYYY-MM-DD` and `sweep_batch: {ISO3}-{run-date}`. Do **not**
    set `ingested` — that belongs to ingest.
+   **Body = the full clipped article text captured at fetch time** (ISSUE-008
+   ruling, 2026-07-17): the page is already fetched for date verification, and
+   capturing then guards against link rot — never store an AI summary as the
+   body. If a page cannot be fetched after retries, stage with a clearly
+   flagged summary body and log it; promotion of such an item needs a manual
+   clip. Promotion to `new/` therefore requires no refetch.
 6. **Manifest.** Write/update `new-queue/{ISO3}/MANIFEST.md`: one line per
    item — `published | topics | source | title | one-line why-it's-new`.
    Review is a skim of the manifest with spot-checks, not open-every-file.
@@ -117,12 +124,31 @@ The human reviews `new-queue/` (via the manifests), moves accepted items into
 filing rules apply unchanged — including the full dedup ladder and, after
 ingest, an **aggressive duplicate lint** (lint #7) across the enlarged corpus.
 
-## Pilot
+## Pilot — done (2026-07-17)
 
-Before the full run: **TCD (hard), SEN (Francophone mid-size), NGA (big,
-forces time-slicing)**, window 2025-Q1 only. Review the pilot output, tune
-`query-recipes.md`, the dedup threshold and the manifest format, then scale.
-The NGA pilot prices the sliced big pairs before multiplying by 54.
+**TCD / SEN / NGA, window 2025-Q1** ran 2026-07-17: 191 candidates staged
+(TCD 8 · SEN 32 · NGA 151), full-text bodies, drop logs written, recipes
+tuned (see `query-recipes.md` change log). **The pilot trio covered 2025-Q1
+only** — their ledger rows carry `window_done: 2025Q1` and each needs a
+**completion pass** (2025-04-01 → run date) before being marked done.
+
+## Running a production batch
+
+The standing prompt for a session is simply:
+
+> Run the Phase-2 sweep per `sweep/README.md` for the next N pending
+> countries in `sweep/ledger.csv`.
+
+The procedure resolves everything else from files: the batch = the first N
+rows with `status: pending` in ledger order (skip rows whose papers are
+blank-by-design and run journals-only there); the **window = 2025-01-01 →
+run date** unless the ledger row's `window_done` says part of it is already
+covered (then sweep only the remainder); queries come from
+`query-recipes.md`; sources from the ledger row + the fixed journal table
+above. Each country ends with its manifest, drop log and ledger row updated
+before the next begins, so an interrupted batch resumes from the ledger.
+Batches of 5 are the sensible default (NGA-scale countries count double —
+pair a big market with small ones).
 
 ## Known blind spot
 

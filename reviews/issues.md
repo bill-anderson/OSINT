@@ -68,13 +68,6 @@ removes the item here. A short `issues.md` means you're caught up.
   civil-registry item already establishes with a genuine digital hook. Adopt "on-facet but no
   data/digital payload → admit narrowly, don't promote" as the general rule for this class.
   *Decision:* (awaiting). (Surfaced ingest, 2026-07-17.)
-  **Second instance, 2026-07-17 (ZAF·ZMB·ZWE batch):** the *Zambia — Beyond Connections Energy
-  Access Diagnostic* (World Bank MTF, 2019) is the same class and even thinner — testing its full
-  text found **"digital" appears zero times**, "mobile" twice (both "mobile phone charger" in an
-  appliance list), and "phone" eleven times, every one an appliance wattage benchmark. Filed per
-  this issue's recommended rule: **admitted narrowly**, tagged `infra.energy` + ZMB only, figures
-  confined to the source page. Two instances in two batches suggests the rule is worth ratifying
-  rather than re-deciding each time.
 
 - **ISSUE-005 · Merge `eswatini-digital-transformation-project` into `digital-eswatini-project`?** The
   wiki holds two entity pages that are probably one project. `[[eswatini-digital-transformation-project]]`
@@ -121,30 +114,37 @@ removes the item here. A short `issues.md` means you're caught up.
   publisher-unknown note, and never as corroboration for a claim it uniquely carries. *Decision:*
   (awaiting). (Surfaced ingest, 2026-07-17.)
 
-- **ISSUE-008 · `econet-wireless.md` conflates Econet Group with Econet Wireless Zimbabwe.** The held page
-  profiles the **Group** (it records the HQ move to South Africa in 2000 and lists 15–18 markets) while
-  being the wiki's only Econet entity — so Zimbabwean opco facts land on a page about a multinational.
-  The ZWE batch forces the question: **Econet InfraCo is a subsidiary of Econet Wireless *Zimbabwe***, per
-  both sources, and cannot be attached to the Group page without inheriting the conflation. The sources
-  themselves are loose — ITWeb calls Douglas Mboweni "Econet CEO", Developing Telecoms calls him "Econet
-  Group chief executive" — so the wiki cannot resolve it by citation alone. *Recommend:* **split** —
-  keep `econet-wireless.md` as the **Group / Econet Global** page, create a distinct
-  `econet-wireless-zimbabwe` page for the listed Zimbabwean operator, and hang `[[econet-infraco]]`
-  (created this batch) off the latter. Also refresh Mboweni, whom the held page still dates to 2014 and
-  who is confirmed still serving in Dec 2025. Not actioned: splitting an entity with existing referrers on
-  my own reading of loose trade copy is a judgment call, not a rule-determined fix. *Decision:*
-  (awaiting). (Surfaced ingest, 2026-07-17.)
+- **ISSUE-009 · `econet-wireless` conflates the Group and the Zimbabwean opco — split?** The single
+  entity page carries both **Econet Wireless Global/Group** and **Econet Wireless Zimbabwe**, which are
+  distinct legal persons with different owners, footprints and regulators. This was tolerable while the
+  page was descriptive, but **[[econet-infraco]] cannot hang off it as-is**: InfraCo is a carve-out of the
+  *Zimbabwean* opco specifically, and attaching it to a page that is also the Group misstates the
+  corporate tree. *Recommend:* **split into `econet-wireless-group` and `econet-wireless-zimbabwe`**,
+  rewire referrers, and hang InfraCo off the Zimbabwean entity. Deferred rather than actioned because it
+  touches a well-referenced page and the rules don't determine how to apportion the existing sources
+  between the two. *Decision:* (awaiting). (Surfaced ZAF/ZMB/ZWE ingest, 2026-07-17.)
 
-- **ISSUE-009 · Secondary re-reports ingested with their own publication date — a class of error, not a
-  one-off.** This batch found the ZAF hub dating **Google's Johannesburg cloud region to 2025-03-27**,
-  which is the publication date of a secondary AFRIBIT blog post; Google's own announcement dates the
-  opening to **2024-01-31** — a **14-month** error sitting on a country hub, now corrected. In the same
-  batch, held sources date **Microsoft's R5.4bn SA investment to 2026-04-17** while a 2026-02-09 Daily
-  Maverick piece treats it as already announced — the same shape, unresolved (see
-  `reviews/contradictions/open/microsoft-sa-investment-date`). Both involve a **corporate announcement**
-  reaching the wiki through a **secondary outlet**, whose own date gets ingested as the event date.
-  *Recommend:* adopt a standing intake rule — **for any corporate or institutional announcement arriving
-  via a secondary outlet, the event date must be taken from the primary (the company/government release)
-  or explicitly marked `date_source: proxy` and flagged.** Cheap to apply at ingest, expensive to find
-  later: the Google error survived at least one prior batch. *Decision:* (awaiting). (Surfaced ingest,
-  2026-07-17.)
+- **ISSUE-010 · Secondary re-reports ingested carrying their own publication date as the event date.**
+  A confirmed, repeating defect rather than a one-off. The Google Johannesburg cloud region sat on the ZAF
+  hub dated **2025-03-27** — the publication date of a secondary AFRIBIT blog post — when Google's own
+  announcement dates the opening to **2024-01-31**: a **14-month error** in held material. The same class
+  produced the open `microsoft-sa-investment-date` contradiction. The mechanism: a secondary outlet
+  re-reports an older event, and its own `published` date silently becomes the event date on the synthesis
+  page. *Recommend:* a **standing intake rule** — when a source is a secondary account of an event it does
+  not itself break, the **event date must be established from the primary** (or explicitly marked unknown),
+  and the source's `published` date is never promoted to an event date on a synthesis page. This is close
+  to a schema/rule addition, which is why it is raised rather than adopted (see the schema-change-control
+  invariant). *Decision:* (awaiting). (Surfaced ZAF/ZMB/ZWE ingest, 2026-07-17.)
+
+- **ISSUE-011 · Paywalled papers stage partial bodies — does that satisfy the full-text rule?** The
+  ISSUE-008 ruling binds sweep bodies to **the full clipped article text captured at fetch**, with one
+  written escape: a page that *cannot be fetched* may stage a flagged summary. **Botswana's two papers fit
+  neither branch.** `mmegi.bw` and `sundaystandard.info` fetch fine (HTTP 200) but **paywall**, serving
+  only a lede and 1–3 paragraphs to non-subscribers — so the "full clipped article text" *is* what was
+  captured, and it is still partial. **16 BWA items are flagged `[CLIP]`.** The rules don't settle whether
+  a paywall-truncated body is an admissible staged form, and this is a standing property of these outlets,
+  not an incident. *Recommend:* **treat paywall truncation as a third, named state** — stage it, mark it
+  `body_completeness: paywalled` with the free-to-read text (which is genuine first-hand text, not a
+  summary, so it does not offend the AI-synthesis invariant), and require a **manual subscriber clip before
+  promotion to `new/`** for any item whose payload depends on the withheld body. Items whose full payload
+  sits in the free lede promote normally. *Decision:* (awaiting). (Surfaced Phase-2 sweep, 2026-07-17.)

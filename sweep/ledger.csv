@@ -1,9 +1,9 @@
 iso3,name,region,paper1_title,paper1_domain,paper2_title,paper2_domain,status,window_done,queries,found,dropped,staged,last_run,notes
 AGO,Angola,XSA,Angop (Angola Press Agency),angop.ao,Novo Jornal,novojornal.co.ao,pending,,,,,,,
-BDI,Burundi,XEA,Burundi Times,burunditimes.com,Iwacu,iwacu-burundi.org,pending,,,,,,,
-BEN,Benin,XWA,Fraternite,fraternite.bj,La Nation,lanation.bj,pending,,,,,,,
-BFA,Burkina Faso,XWA,Sidwaya,sidwaya.info,leFaso.net,lefaso.net,pending,,,,,,,
-BWA,Botswana,XSA,Mmegi,mmegi.bw,Sunday Standard,sundaystandard.info,pending,,,,,,,
+BDI,Burundi,XEA,Burundi Times,burunditimes.com,Iwacu,iwacu-burundi.org,staged,2025-01-01/2026-07-17,30,147,51,41,2026-07-17,papers+journals; Iwacu serves no publication dates - 4 items date_source proxy; internet-penetration figures conflict 11.1/12.5/19/~30 pct - adjudicate at ingest
+BEN,Benin,XWA,Fraternite,fraternite.bj,La Nation,lanation.bj,staged,2025-01-01/2026-07-17,30,264,74,141,2026-07-17,"papers+journals; national press was entirely unheld (0 of 1512 held URLs); NEW GOVERNMENT - Wadagni replaced Talon, digital portfolio Zoumarou->Akplogan May 2026, so every held BEN page naming the incumbent is stale; techreviewafrica serves no dates - 9 items dated by fetch; 1 fetch-failed (ISOC Benin) needs manual clip"
+BFA,Burkina Faso,XWA,Sidwaya,sidwaya.info,leFaso.net,lefaso.net,staged,2025-01-01/2026-07-17,30,356,88,126,2026-07-17,papers+journals; Sidwaya/leFaso entirely unheld (0 of 1512 held URLs); WURI STILL RUNNING IN BFA post-ECOWAS-exit per Aug-2025 enrolment workshop + Feb-2026 World Bank mid-term review - held ECOWAS-exit-drops-WURI line needs re-dating at ingest; 3 items need manual clip; techcabal yielded nothing BFA-specific
+BWA,Botswana,XSA,Mmegi,mmegi.bw,Sunday Standard,sundaystandard.info,staged,2025-01-01/2026-07-17,30,273,158,115,2026-07-17,"papers+journals; wiki holdings were near-empty - only 4 of 273 hits already held; BOTH papers paywall (Mmegi, Sunday Standard) so 16 bodies are free-to-read text only, flagged [CLIP] - see ISSUE-011; penetration conflicts 73/~80/81.4 pct"
 CAF,Central African Republic,XCA,,,,,pending,,,,,,,no suitable online national papers exist (confirmed 2026-07-17) - journals + targeted searches only
 CIV,Cote d'Ivoire,XWA,Fraternite Matin,fratmat.info,Linfodrome,linfodrome.com,pending,,,,,,,
 CMR,Cameroon,XCA,Le Jour,lejour.cm,Le quotidien L'Economie,leconomie.info,pending,,,,,,,
@@ -35,17 +35,17 @@ MUS,Mauritius,XEA,L'Express (Maurice),lexpress.mu,Mauritius Times,mauritiustimes
 MWI,Malawi,XSA,Malawi24,malawi24.com,The Times (Times Group),times.mw,pending,,,,,,,
 NAM,Namibia,XSA,Namibian Sun,namibiansun.com,The Namibian,namibian.com.na,pending,,,,,,,
 NER,Niger,XWA,ActuNiger,actuniger.com,Le Sahel,lesahel.org,pending,,,,,,,
-NGA,Nigeria,XWA,ThisDay,thisdaylive.com,Vanguard,vanguardngr.com,pending,,,,,,,
+NGA,Nigeria,XWA,ThisDay,thisdaylive.com,Vanguard,vanguardngr.com,pilot-staged,2025Q1,45,260,24,151,2026-07-17,completion pass needed: 2025-04-01 to run date
 RWA,Rwanda,XEA,KT Press,ktpress.rw,The New Times,newtimes.co.rw,pending,,,,,,,
 SDN,Sudan,XEA,Sudan News Agency (SUNA),suna.sd,Sudan Tribune,sudantribune.com,pending,,,,,,,
-SEN,Senegal,XWA,Le Soleil,lesoleil.sn,Seneweb,seneweb.com,pending,,,,,,,
+SEN,Senegal,XWA,Le Soleil,lesoleil.sn,Seneweb,seneweb.com,pilot-staged,2025Q1,28,47,15,32,2026-07-17,completion pass needed: 2025-04-01 to run date
 SLE,Sierra Leone,XWA,Sierra Leone Telegraph,thesierraleonetelegraph.com,This Day (Salone),thisdaysl.com,pending,,,,,,,
 SOM,Somalia,XEA,Hiiraan Online,hiiraan.com,WardheerNews,wardheernews.com,pending,,,,,,,
 SSD,South Sudan,XEA,One Citizen Daily,onecitizendaily.com,The Dawn,thedawn.com.ss,pending,,,,,,,
 STP,Sao Tome and Principe,XWA,Jornal Transparencia,jornaltransparencia.st,Jornal Vitrina,vitrina.st,pending,,,,,,,trade-press blind spot - newspapers are primary instrument
 SWZ,Eswatini,XSA,Independent News Eswatini,independentnews.co.sz,Times of Eswatini,times.co.sz,pending,,,,,,,
 SYC,Seychelles,XEA,Seychelles Nation,nation.sc,Seychelles News Agency,seychellesnewsagency.com,pending,,,,,,,trade-press blind spot - newspapers are primary instrument
-TCD,Chad,XCA,Le N'Djam Post,lendjampost.com,Le Pays Tchad,lepaystchad.com,pending,,,,,,,
+TCD,Chad,XCA,Le N'Djam Post,lendjampost.com,Le Pays Tchad,lepaystchad.com,pilot-staged,2025Q1,26,650,3,8,2026-07-17,completion pass needed: 2025-04-01 to run date
 TGO,Togo,XWA,Togo First,togofirst.com,Togo-Presse,togopresse.tg,pending,,,,,,,
 TUN,Tunisia,XNA,Al Chourouk,alchourouk.com,Assabah News,assabahnews.tn,pending,,,,,,,
 TZA,Tanzania,XEA,Mwananchi,mwananchi.co.tz,The Citizen,thecitizen.co.tz,pending,,,,,,,
