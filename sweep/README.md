@@ -140,18 +140,25 @@ The standing prompt for a session is simply:
 > Run the Phase-2 sweep per `sweep/README.md`, rolling: 4 countries in
 > parallel, continuing down the ledger.
 
-**The rolling model.** CC works as an orchestrator with **4 country workers
-in flight at once** (subagents, one country each). When a worker finishes
-its country, the orchestrator immediately claims the next `pending` row in
-ledger order and starts a new worker — a continuous pipeline, not fixed
-batches.
+**The rolling model — flat topology.** The **main CC session itself is the
+orchestrator**; do not delegate coordination to an intermediate
+orchestrator agent (field lesson, 2026-07-17: a supervisory agent is a
+single point of failure — one 529 against it orphans every worker's
+results, where flat agents fail one country at a time and recover
+cleanly). The main loop keeps **up to 4 flat country workers in flight**
+(one subagent per country, launched directly, one level deep). When a
+worker finishes, the main loop immediately claims the next `pending` row
+in ledger order and starts a new worker — a continuous pipeline, not
+fixed batches.
 **Launch workers as background agents**, not as one blocking parallel
 call: a single parallel launch only returns control when the *slowest*
 worker finishes, which silently degrades the roll to fixed batches (a
 small country then sits complete while a big one grinds on). Backgrounded,
-each completion notification lets the orchestrator claim the next row at
+each completion notification lets the main loop claim the next row at
 once. If backgrounding is unavailable in the session, fall back to batches
-of 4 and say so in the session summary. The roll continues until the ledger has no `pending` rows left,
+of 4 and say so in the session summary. On any worker failure (529s,
+timeouts), relaunch just that country; if failures cluster, drop to 2 in
+flight until stable. The roll continues until the ledger has no `pending` rows left,
 the session hits its limits, or the curator stops it; there is no need to
 state a batch size or country list in the prompt.
 
