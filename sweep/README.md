@@ -158,9 +158,33 @@ each completion notification lets the main loop claim the next row at
 once. If backgrounding is unavailable in the session, fall back to batches
 of 4 and say so in the session summary. On any worker failure (529s,
 timeouts), relaunch just that country; if failures cluster, drop to 2 in
-flight until stable. The roll continues until the ledger has no `pending` rows left,
+flight until stable.
+**Spawn granularity: one agent = one whole country.** A worker handles all
+of its country's sources, dedup, fetching and staging inside a single
+agent; never spawn per-source, per-query or per-recovery micro-agents
+(field lesson, 2026-07-17: fragmenting countries into "sweep X paper",
+"recover Y journals" agents burned the session's 200-subagent budget at
+~10× the necessary rate). Mop-ups and partial recoveries belong to the
+main loop's own tools or to the one relaunched country worker. Budget
+check: a full 54-country pass plus retries should spend well under 100
+spawns; if the count is running hot, granularity has slipped. The roll continues until the ledger has no `pending` rows left,
 the session hits its limits, or the curator stops it; there is no need to
 state a batch size or country list in the prompt.
+**The 200-subagent budget is shared across the *whole* session** — every
+sweep worker, plus every ingest's synthesis/recovery agents and every
+mop-up, counts against one cap. A session that *also* ingests a batch (each
+ingest can spend 5–10 synthesis agents) exhausts the budget well before 54
+countries: the 2026-07-17 roll reached the cap at ~24 swept because the same
+session had earlier run a 122-source ingest and two recovery waves. So
+**prefer to run sweeping and heavy ingests in separate sessions** — neither
+should starve the other's spawn budget. When the cap is hit mid-roll:
+(1) revert any row you *claimed but could not launch* from `in-progress`
+back to `pending` — an unlaunched claim never ran, so it is not a casualty;
+(2) let the already-spawned workers finish and record their rows normally
+(the cap limits *spawning*, not completion); (3) commit. The ledger then
+holds a clean boundary — `swept` behind, `pending` ahead, **zero
+`in-progress`** — and the next session resumes simply by claiming the next
+`pending` row.
 
 **Claim discipline (one writer).** Only the orchestrator edits
 `ledger.csv` — workers never touch it (concurrent CSV writes corrupt).
