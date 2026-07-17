@@ -53,8 +53,9 @@ a better outlet when the same story exists elsewhere.
 
 ## Per-country procedure
 
-Work in batches of **5–10 countries per session**, in ledger order unless
-directed otherwise. For each country:
+Countries are processed as a **rolling pipeline** (see *Running a production
+sweep* below): several in flight at once, each new one claimed from the
+ledger as a slot frees up. For each country:
 
 1. **Search.**
    - *Newspapers:* for each of the two domains, run the topic clusters in
@@ -132,23 +133,40 @@ tuned (see `query-recipes.md` change log). **The pilot trio covered 2025-Q1
 only** — their ledger rows carry `window_done: 2025Q1` and each needs a
 **completion pass** (2025-04-01 → run date) before being marked done.
 
-## Running a production batch
+## Running a production sweep (rolling)
 
 The standing prompt for a session is simply:
 
-> Run the Phase-2 sweep per `sweep/README.md` for the next N pending
-> countries in `sweep/ledger.csv`.
+> Run the Phase-2 sweep per `sweep/README.md`, rolling: 4 countries in
+> parallel, continuing down the ledger.
 
-The procedure resolves everything else from files: the batch = the first N
-rows with `status: pending` in ledger order (skip rows whose papers are
-blank-by-design and run journals-only there); the **window = 2025-01-01 →
-run date** unless the ledger row's `window_done` says part of it is already
-covered (then sweep only the remainder); queries come from
-`query-recipes.md`; sources from the ledger row + the fixed journal table
-above. Each country ends with its manifest, drop log and ledger row updated
-before the next begins, so an interrupted batch resumes from the ledger.
-Batches of 5 are the sensible default (NGA-scale countries count double —
-pair a big market with small ones).
+**The rolling model.** CC works as an orchestrator with **4 country workers
+in flight at once** (subagents, one country each). When a worker finishes
+its country, the orchestrator immediately claims the next `pending` row in
+ledger order and starts a new worker — a continuous pipeline, not fixed
+batches. The roll continues until the ledger has no `pending` rows left,
+the session hits its limits, or the curator stops it; there is no need to
+state a batch size or country list in the prompt.
+
+**Claim discipline (one writer).** Only the orchestrator edits
+`ledger.csv` — workers never touch it (concurrent CSV writes corrupt).
+On claiming a country the orchestrator sets its row to
+`status: in-progress` with `last_run` = today; on the worker's completion
+report it writes the counts and sets `status: swept` (the pilot rows'
+`pilot-staged` means the same, scoped to 2025-Q1). A row left `in-progress` with no
+manifest marks a casualty of an interrupted session: re-claim and re-run
+it first on the next roll.
+
+Everything else resolves from files, per country: skip nothing — rows whose
+papers are blank-by-design (CAF; COG/GNQ single-paper) run journals-only;
+the **window = 2025-01-01 → run date**, unless the row's `window_done` says
+part is covered (then sweep only the remainder — the pilot trio need
+2025-04-01 onward); queries from `query-recipes.md`; sources from the
+ledger row + the fixed journal table above. Each country ends with its
+manifest, drop log and ledger row updated before its slot is reused.
+NGA/ZAF/KEN/EGY-scale countries take far longer than small ones — the
+rolling model absorbs this naturally, small countries flowing past a big
+one still in flight.
 
 ## Known blind spot
 

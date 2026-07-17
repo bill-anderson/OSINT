@@ -148,3 +148,55 @@ removes the item here. A short `issues.md` means you're caught up.
   summary, so it does not offend the AI-synthesis invariant), and require a **manual subscriber clip before
   promotion to `new/`** for any item whose payload depends on the withheld body. Items whose full payload
   sits in the free lede promote normally. *Decision:* (awaiting). (Surfaced Phase-2 sweep, 2026-07-17.)
+
+- **ISSUE-012 · CAF has no newspapers — but it does have standing outlets. Revise the ledger?** The
+  ledger records *"no suitable online national papers exist (confirmed 2026-07-17)"* for the Central
+  African Republic, so its sweep ran journals + targeted institutional searches instead. That pass
+  reports the note is **true of newspapers and misleading as a coverage judgment**: CAR has no online
+  newspaper of record, but it does have usable dated, bylined domestic outlets, and targeted search
+  roughly doubled CAR's evidence base. The catch is that targeted search **does not amortise** — it was
+  an investigation across ~15 unfamiliar outlets, not a re-runnable recipe — and what it finds skews to
+  announcements: government/vendor/donor items outran independent reporting ~3:1. The one piece of real
+  domestic accountability journalism surfaced by luck of phrasing. **Because the note records a curator
+  confirmation, CC has not overridden it.** *Recommend:* set **paper1 = Radio Ndeke Luka**
+  (`radiondekeluka.org` — UN/Hirondelle-backed, French + Sango, dated, bylined, independent of both
+  Bangui and Moscow; caveat: it is a *radio station*, so web items are stubs that reliably say *that*
+  something happened and fail to say *what was said*) and **paper2 = Oubangui Médias** (domestic,
+  reliable, repeatedly the *original* that vendors and the Pravda mirror copy), with **Corbeau News
+  Centrafrique** as a standing third for the identity beat (the only adversarial reporting on the ID
+  system — but diaspora-run, committed opposition line, and it renders a live "today" date). Also
+  **recognise Agence Ecofin as CAF's de facto trade paper of record** — already the most-cited CAF source
+  in `raw/`, and the ledger names CAF nothing at all. *Decision:* (awaiting). (Surfaced Phase-2 sweep,
+  2026-07-17.)
+
+- **ISSUE-013 · A Russian-network mirror is the most prolific "source" on CAR — add a standing
+  drop-list?** `rca.news-pravda.com` was the **single most prolific CAR digital-news hit in every French
+  query** of the CAF sweep. It is an unattributed mirror in the Pravda network. This was **verified, not
+  assumed**: its AIAL data-centre story is a verbatim copy of Oubangui Médias, posted two minutes later.
+  All 7 hits were dropped and the originals staged instead. Two things make this more than one country's
+  problem. First, **a naïve French-language run would have built CAR's record out of this mirror while
+  looking successful** — it is high-volume, on-topic, correctly dated and superficially clean. Second,
+  **three real stories exist only there** (the April-2025 digital-identity/état-civil strategic report
+  validation, the SOS Télécoms licence, and "Pata Polélé"), so it cannot simply be treated as noise: it
+  is laundering real reporting whose originals CC could not locate. The sweep's drop vocabulary has no
+  reason code for "inadmissible origin" either — the DRC agent hit the same gap dropping an ExpressVPN
+  affiliate advertorial as `off-topic` because nothing better existed. *Recommend:* (a) add a **standing
+  drop-list** to `sweep/` for known mirrors/influence-network domains, `rca.news-pravda.com` first, with
+  the rule that a mirror is never staged and its **original is sought instead**; (b) add
+  `inadmissible-origin` to the drop-log reason vocabulary so these stop being mislabelled `off-topic`;
+  (c) file the three mirror-only stories as **gap leads**, not sources. *Decision:* (awaiting).
+  (Surfaced Phase-2 sweep, 2026-07-17.)
+
+- **ISSUE-014 · `geopol.*` has no slug for Russia (or Korea) — extend the taxonomy?** Two agents hit this
+  independently. `taxonomy.md` offers `geopol.usa`, `geopol.china`, `geopol.eu`, `geopol.india`,
+  `geopol.gulf` — and **no `geopol.russia`**. This is not a marginal omission: **Russia is the dominant
+  external actor in CAR**, where it installed the country's first free public Wi-Fi (2026-04-24, staged),
+  and in Congo-Brazzaville it is financing CARIA phases 3–4 via a **Sberbank debt-to-development swap**.
+  Those items currently have nowhere correct to file and are riding on `finance.new` / the `sovereignty`
+  lens, which loses the geopolitical dimension the vocabulary exists to capture. Separately, Cameroon
+  surfaced a **Korea–Africa digital-cooperation** item with the same problem. Vocabulary changes are the
+  human's call, so CC has tagged around it rather than extending the controlled list. *Recommend:* **add
+  `geopol.russia`** (the evidence is already multi-country and load-bearing) and **hold `geopol.korea`**
+  until a second instance appears — one item doesn't warrant a slug, and `finance.mou` + `tech.industry`
+  carries it adequately for now. If adopted, the affected staged items should be retagged at ingest
+  rather than back-filled across `raw/`. *Decision:* (awaiting). (Surfaced Phase-2 sweep, 2026-07-17.)

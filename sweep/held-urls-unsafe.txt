@@ -1,0 +1,127 @@
+# DEDUP-UNSAFE held URLs — do NOT prefix-match against these.
+# From raw/*.md `url:` frontmatter recording only a domain/stub. Reference only.
+# Format: <url>	<holding filename>	<reason>
+50in5.net	2024-05-01 Lesotho joins 50-in-5 (country profile)	bare-domain
+afdb.org	2023-04-01 Digitalization of CRVS Systems in Africa (AfDB & COMESA)	bare-domain
+african.business/2022/08	2022-08-30 Pan-African Payment and Settlement System drives Africa's banking integration	date-fragment-only
+africanenda.org	2022-01-01 SIIPS 2022 Case Study - Pesalink (AfricaNenda)	bare-domain
+afripoli.org	2024-01-01 What African Countries Can Learn in E-Government (APRI)	bare-domain
+amnestykenya.org	2024-01-01 Digital ID in Kenya - Final Policy Paper (Amnesty Kenya)	bare-domain
+antimonopoly.ca	2025-01-01 Eaves commodification	bare-domain
+arii.uneca.org	2023-01-01 Digital Trade Regulatory Integration - Namibia Country Profile	bare-domain
+arpce.cg	2024-05-28 Congo allocates $63.9m for 2024 digital transformation (PATN)	bare-domain
+au.int	2020-02-01 Digital Transformation Strategy for Africa 2020-2030	bare-domain
+biometricupdate.com	2026-05-01 Understanding-MOSIP-Biometric-Update-report	bare-domain
+biometricupdate.com/202602	2026-02-24 Nigeria explores avenues for digital trust collaboration with Trust Stamp	date-fragment-only
+bipa.na	2026-07-16 The Home of Business and IP Registrations, Administration and Regulation in Namibia	bare-domain
+bog.gov.gh	2024-01-01 Payment Systems Oversight Annual Report 2023 (Bank of Ghana)	bare-domain
+bot.go.tz	2025-05-16 Building an Inclusive Payments Ecosystem in Tanzania through TIPS (BOT and FSDT)	bare-domain
+bou.or.ug	2023-11-01 Uganda National Financial Inclusion Strategy 2023-2028 (NFIS II)	bare-domain
+businesstech.co.za	2026-04-01 US tech giant from Silicon Valley buys R890 million worth of land in South Africa	bare-domain
+capitalfm.africa	2026-02-05 Nigeria's fintech blueprint raises stakes for Kenya, Africa's digital economy	bare-domain
+cbl.org.lr	2024-01-01 Liberia Mobile Money Regulations (Central Bank of Liberia)	bare-domain
+centralbank.go.ke	2024-01-01 Central Bank of Kenya Annual Report 2024	bare-domain
+centralbank.org.ls	2025-09-01 The Regulator (Central Bank of Lesotho) July-Sept 2025	bare-domain
+channelafrica.co.za	2026-03-05 Africa CDC head cites major concerns over data, pathogen sharing in US health deals	bare-domain
+child-identity.org	2023-05-01 Children's Right to Identity in Senegal (CHIP CRC submission)	bare-domain
+cipit.strathmore.edu	2021-01-01 Privacy and Data Protection Practices of Digital Lending Apps in Kenya	bare-domain
+commission.aiforgood.itu.int	2026-05-21 AI for Good Global Commission	bare-domain
+crvssystems.ca	2019-01-01 Linking National ID and CRVS Systems (IDRC Centre of Excellence)	bare-domain
+csep.org	2026-01-01 The Africa-India Blueprint for Growth	bare-domain
+cyber.ee	2026-07-03 Cybernetica	bare-domain
+d4dhub.eu	2026-01-01 Data Governance in Africa - Digital Investment Facility	bare-domain
+datalaw.africa	2024-03-27 DS-I Africa Law - Cameroon country report (data law)	bare-domain
+developingtelecoms.com	2025-09-22 Google plans to build four subsea cable connectivity hubs for Africa	bare-domain
+dgsn.gov.ma	2024-09-18 DGSN Institutional Brochure (Morocco)	bare-domain
+dha.gov.za	2025-04-01 South Africa Department of Home Affairs Strategic Plan 2025-2030	bare-domain
+digitalid.design	2021-10-31 Digital Identity in Rwanda (CIS-RIA case study)	bare-domain
+digitalimpactalliance.org	2024-01-01 Ghana national data exchange case study (Digital Impact Alliance)	bare-domain
+documents.worldbank.org	2007-06-01 Survey of ICT and Education in Africa - Mali Country Report (infoDev, World Bank)	bare-domain
+effectivecooperation.org	2024-03-01 Enhancing Data-Sharing Practices Between Government Agencies (case study, Sone Osakwe)	bare-domain
+eforumsd.com	2024-01-01 Digital Governance Analysis - Seychelles 2024 Edition	bare-domain
+enterprisesurveys.org	2024-01-01 World Bank Enterprise Surveys - Benin 2024 Country Profile	bare-domain
+fesnews.media/315047/2026/01/14	2026-01-14 Morocco — 16.5m voters on electoral rolls; most 2026 registrations via digital channels	date-fragment-only
+finmark.org.za	2024-08-01 FinScope Consumer Survey Malawi 2023 - Main Findings	bare-domain
+gfintegrity.org	2026-01-01 Trade-Related Illicit Financial Flows in Africa 2013-2022 (Global Financial Integrity)	bare-domain
+ghs.gov.gh	2023-01-01 Ghana Policy and Strategy on Digital Health 2023-2027 (GHS)	bare-domain
+giswatch.org	2025-01-01 SE_GISW-Gillwald_final	bare-domain
+googlessa.publicfirst.co.uk	2024-01-01 Google's Impact in Sub-Saharan Africa – Google's Impact in Sub-Saharan Africa	bare-domain
+gov.ls	2024-01-01 Lesotho National Digital Policy 2024	bare-domain
+gov.sc	2022-11-01 Seychelles Civil Status Act Cap 34 (as at 1 Nov 2022)	bare-domain
+gov.sz	2022-03-04 Eswatini Data Protection Act 2022 (Act No. 5 of 2022)	bare-domain
+gsma.com	2025-09-01 GSMA DRC Digital Economy Report 2025	bare-domain
+health.go.ke	2025-03-26 Policy Brief - Digitalisation of Health Services in Kenya	bare-domain
+humansecurityghana.org	2024-01-01 Integration and Interoperability of National Identification Systems - Ghana	bare-domain
+icj-kenya.org	2025-01-01 Mapping Global DPI - A Human Rights Perspective with Focus on Kenya (ICJ Kenya)	bare-domain
+id4d.worldbank.org	2016-04-01 Namibia Identity Management System Analysis Report	bare-domain
+ids.ac.uk	2026-03-01 Smart City Surveillance in Africa (IDS 2026)	bare-domain
+iebc.or.ke/news	2025-11-11 IEBC joins inter-agency forum on data-sharing framework to support Continuous Voter Registration	stub-path
+imf.org	2024-05-01 Guinea-Bissau - Further Improvements in Tax Compliance (IMF technical assistance)	bare-domain
+itweb.africa/article	2026-03-10 Kenya begins audit of Airtel's Starlink Direct-to-Cell tech	stub-path
+lc.gov.gh	2023-01-01 Digitalization of Land Administration in Ghana (Lands Commission)	bare-domain
+lca.org.ls	2024-01-01 Policy and economic incentives for affordable internet in Lesotho (Makhele)	bare-domain
+lesahel.org	2019-12-24 Niger Data Protection Law - Loi 2019-71 (amending Loi 2017-28)	bare-domain
+liquidc2.com	2025-12-01 Liquid C2 expands Google Cloud access in Africa with AI-driven distribution programme, Liquid G	bare-domain
+micit.go.tz	2024-01-01 Tanzania Digital Economy Strategic Framework 2024-2034 (MICIT)	bare-domain
+mmegi.bw/business/botswana-advances-drive-to-digitise-government-payments/news	2025-07-16 Botswana advances drive to digitise government payments	stub-path
+mocde.gov.gm	2024-01-01 Gambia National Digital Economy Master Plan 2024-2034	bare-domain
+mopt.gov.lr	2026-02-03 Liberia National Digital Strategy 2025-2029 (Digital Liberia)	bare-domain
+mpfepv.gov.gn	2025-01-01 Registre Social Unifie (RSU) presentation - Guinea	bare-domain
+namibia.un.org	2019-01-01 Identity and Electronic-Digital Government - Namibia (presentation, Melanie Tjijenda)	bare-domain
+nao.go.tz	2021-03-01 Performance Audit - Registration and Issuance of National ID Cards by NIDA (NAO Tanzania)	bare-domain
+nca.org.gh	2024-09-01 Quarterly Statistical Bulletin on Communications in Ghana Q2 2024 (NCA)	bare-domain
+nigeridentite.com	2026-01-01 Republic of Niger - National Electronic Identity (E-ID)	bare-domain
+nir.gov.lr	2024-01-01 Liberia NIR presentation - Legal Framework and Mandate	bare-domain
+nita.go.ug	2021-05-06 Uganda e-Government Interoperability Framework (e-GIF)	bare-domain
+openknowledge.worldbank.org	2025-04-01 Regional Harmonization of Remittance Policies in ECCAS - Burundi	bare-domain
+paradigmhq.org	2024-01-01 Londa 2023 Digital Rights and Inclusion in Africa Report - Botswana	bare-domain
+published: 2025-04-04	2025-04-04 Africa Declaration on Artificial Intelligence	bare-domain
+publisher:	2026-07-16 Building Resilience through Digital Financial Services in Sudan	bare-domain
+publisher: africanenda (state of inclusive instant payment systems in africa)	2024-01-01 SIIPS 2024 Case Study - MauCAS (Mauritius)	bare-domain
+publisher: centre of excellence for crvs systems (idrc)	2020-01-01 CRVS Systems Snapshot - Ethiopia (ESEC)	bare-domain
+publisher: civil status division, republic of mauritius	2019-06-28 The CRVS and Identity Eco-System in the Republic of Mauritius (presentation)	bare-domain
+publisher: data-protection legal reference compendium (secondary summary of law no. 2008-12)	2026-07-16 Data Protection Laws of Senegal (reference summary)	bare-domain
+publisher: farida hammal, university of algiers 3 (capital and performance research laboratory)	2025-12-04 The Digital Transition in Algeria - Challenges and Opportunities (Hammal)	bare-domain
+publisher: financial sector deepening ethiopia (fsd ethiopia)	2023-08-16 Mobile Money in Ethiopia (FSD Ethiopia)	bare-domain
+publisher: government of egypt (ministry of planning and economic development)	2023-01-01 Egypt Vision 2030 - National Agenda for Sustainable Development (updated)	bare-domain
+publisher: government of mauritius	2002-11-01 Mauritius e-Government Interoperability Framework v1.0	bare-domain
+publisher: government of namibia (government gazette)	2023-08-08 Namibia Payment System Management Act 14 of 2023	bare-domain
+publisher: higher school of economics (hse), center for african studies, moscow	2026-01-01 E-Governance in Namibia (2026)	bare-domain
+publisher: mauritius police force	2024-10-01 Mauritius Police Force Annual Report 2023-2024	bare-domain
+publisher: ministry of health and quality of life, republic of mauritius	2015-01-01 Health 2015 - Seamless Continuity of Care (Mauritius eHealth strategy)	bare-domain
+publisher: ministry of health and social services, namibia	2021-01-01 Namibia National eHealth Strategy 2021-2025	bare-domain
+publisher: national bank of ethiopia	2024-04-01 Ethiopia's Digital Payments Performance (NBE)	bare-domain
+publisher: prime minister's office, republic of mauritius	2024-01-01 Mauritius Prime Minister's Office Annual Report on Performance FY2023-2024 (incl. Home Affairs)	bare-domain
+publisher: railtel corporation of india ltd.	2026-01-09 RailTel to build Data Centre in Ethiopia (press release)	bare-domain
+publisher: republic of cabo verde, ministry of finance (ugpe)	2025-01-01 Cabo Verde MoF - ToR National Governance Framework for Digital Transformation	bare-domain
+publisher: undp (digital financing for sustainable development)	2023-01-01 Digital Financing for Sustainable Development - Namibia Ecosystem Assessment & Strategy 2023	bare-domain
+publisher: world bank	2022-06-01 Sudan Digital Economy Assessment (World Bank)	bare-domain
+publisher: world bank (govtech global partnership — "solutions that work")	2024-01-01 WB GovTech Case Study - Djibouti Digital Customs ASYCUDAWorld	bare-domain
+publisher: world bank (health, nutrition & population — mena)	2025-02-20 WB Policy Note - Automatic Health Insurance Enrollment for Vulnerable Individuals (Egypt UHI)	bare-domain
+publisher: xalam analytics (prepared for haus, giz and digital investment facility partners)	2025-05-01-east-africa-data-center-markets-brief-xalam	bare-domain
+publisher: zahag el mouatassim billeh, university of blida 02 — science, education and innovations in the context of modern problems (issue 12, vol. 8, 2025)	2025-01-01 e-Municipalities in Algeria within the e-Government Strategy (Billeh)	bare-domain
+researchictafrica.net	2021-10-31 Digital Identity in Lesotho (Research ICT Africa)	bare-domain
+resources.telegeography.com	2025-05-12 International Bandwidth Demand Surpasses 6.4 Pbps	bare-domain
+rura.rw	2024-08-09 Regulation Governing SIM Card Registration in Rwanda (RURA No.18-2024)	bare-domain
+sadc.int	2012-08-01 SADC RIDMP Executive Summary	bare-domain
+smartafrica.org	2025-07-25 RFP - Eswatini National Data Policy (Smart Africa)	bare-domain
+st-digital.africa	2024-09-17 ST Digital expands into DRC, partners with OADC Texaf Kinshasa (press release)	bare-domain
+stat-niger.org	2024-12-01 Niger Civil Status (État Civil) Analysis Report 2023 (INS Niger)	bare-domain
+statistiques.xroad.bj	2026-07-11 UXP Directory	bare-domain
+techafricanews.com	2026-02-05 Can Africa's Power Grid Withstand the Next Wave of Emerging Technologies	bare-domain
+techafricanews.com/2026/02/09	2026-02-09 South Africa Marks New Era in Satellite Connectivity with Space42 Thuraya-4 Launch	date-fragment-only
+techafricanews.com/2026/03/18	2026-03-18 Cassava Technologies Launches AI Factory in South Africa, Plans Expansion Across Africa	date-fragment-only
+techcrunch.com/2024/12/17	2024-12-17 Google joins $90M investment into Cassava to bolster Africa's digital infrastructure	date-fragment-only
+theafricareport.com/411855	2026-03-16 Why Google, Amazon and Meta are going overland in Africa	date-fragment-only
+thepaypers.com/payments/news	2026-03-02 Pesalink and PAPSS link networks for African payments	stub-path
+transformhealthcoalition.org	2024-01-01 Health Data Governance Legislative & Regulatory Landscape Review - Malawi Country Report	bare-domain
+un.org	2026-07-01 Independent International Scientific Panel on AI - Preliminary Report 2026	bare-domain
+undp.org	2024-11-01 Digital Readiness Assessment - Eswatini (UNDP)	bare-domain
+unicef.org	2021-01-01 Mozambique CRVS Case Study - UNICEF Evaluation	bare-domain
+unknown              	2025-09-11 DZAP World Bank PAD	bare-domain
+utumishi.go.tz	2022-01-01 Tanzania e-Government Strategy 2022 (2022-2027)	bare-domain
+v0-malawi-digital-readiness.vercel.app	2024-01-01 Malawi Digital Readiness Assessment	bare-domain
+vukaninews.co.za	2026-03-31 Concerns over South Africa's proposed digital ID system from traditional leaders	bare-domain
+wipo.int	2025-01-01 Global Innovation Index 2025 - Seychelles country profile (WIPO)	bare-domain
+worldbank.org	2025-04-01 Data Governance in Mozambique - Rapid Diagnostic (World Bank, draft)	bare-domain
+xalamanalytics.com	2025-07-01 Togo Data Center Market Briefing (Xalam Analytics)	bare-domain

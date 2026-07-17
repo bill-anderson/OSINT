@@ -4195,3 +4195,125 @@ ingested carrying their own publication date as the event date — the class beh
 
 **Remaining.** Pilot trio **NGA/SEN/TCD** still carry `window_done: 2025Q1` and need completion
 passes (2025-04-01 → run date). 47 countries and the pan-African pass remain `pending`.
+
+---
+
+## 2026-07-17 — Phase-2 sweep: CAF · CIV · CMR · COD · COG (second production batch)
+
+**Scope.** Window 2025-01-01 → 2026-07-17, all five Francophone. Ten agents (papers + journals per
+country) plus one completion pass. **505 candidates staged from ~2,280 raw hits across 141 queries;
+734 dropped, every one logged.** Writes confined to `new-queue/` and `sweep/`. Two countries ran
+non-standard: **CAF has no national papers** (targeted institutional/pan-African searches
+substituted), and **COG has one paper**.
+
+| | queries | found | dropped | staged |
+|---|---|---|---|---|
+| CAF | 22 | ~210 | 86 | 38 |
+| CIV | 36 | ~935 | 278 | 187 |
+| CMR | 35 | ~214 | 129 | 127 |
+| COD | 27 | ~580 | 102 | 90 |
+| COG | 21 | ~342 | 139 | 63 |
+
+**The unheld-national-press finding repeats, and hardens.** As with BEN/BFA last batch: **zero
+fratmat.info, linfodrome.com, lejour.cm, leconomie.info, actualite.cd or rdc-monde.com URLs were
+held.** Côte d'Ivoire's rich hub was built **entirely** from trade press and multilaterals — and the
+national press is exactly where the ANSSI, WURI, CAIDP, ANSUT and US-EXIM material lives. This is now
+a pattern across two batches and eight countries, not a quirk: **the wiki's Francophone coverage has
+been assembled from outsiders' accounts.**
+
+**Two tooling defects found in `sweep/held-urls.txt` — a file CC built — and fixed.**
+- **Dedup-unsafe entries.** It carried **bare domains** (`biometricupdate.com`, `techafricanews.com`)
+  and stub paths (`itweb.africa/article`). Prefix-matched, those silently drop **every** candidate on
+  the domain: the CIV agent's first pass wrongly flagged **64 items as held against a true 6**. The
+  entries were not truncation — they came faithfully from `raw/` frontmatter where the source page
+  records only a domain (an AfDB report cited to `afdb.org`). **Prior batches were checked and are
+  clean**: AGO/BDI/BEN/BFA/BWA staged 26/9/15/28/32 items from those three domains with `already-held`
+  drops of only 4–9 — no suppression occurred, because those agents grepped the candidate *against*
+  the file (a direction bare domains cannot match). **Fixed:** 163 unsafe entries quarantined to
+  `sweep/held-urls-unsafe.txt` with a reason each; the safe file now states the required grep direction.
+- **Incompleteness.** 38 `url:` lines in `raw/` never reached the file. **Rebuilt** from every `url:`
+  line (1,550 parsed, 0 skipped, 1,471 unique). The rebuild also shows **~79 URLs held twice** across
+  different `raw/` files — a lint #7 duplicate-source lead, not actioned here. The header now says
+  plainly that held-urls is a **fast pre-filter, not an index of holdings** (54 `raw/` artefact
+  companions carry no URL at all).
+
+**Method: recency-swamping returned, exactly where predicted.** Last batch needed **no** month-slicing;
+these are the first large countries since the pilot and it was **essential** for CIV and COD. Unsliced,
+CIV's Apr–Jul 2026 held 43% of hits while Nov 2025 returned 2 — slicing recovered **+41 items (+28%)**
+and filled precisely the thin months. For COD, **three of the top five finds are 2025 items no unsliced
+query reached.** CMR did *not* need it despite its size (results came back spread across 2023–26). Also
+confirmed: **Exa's `site:` filter leaks badly** — only 145 of CIV's 480 in-window hits were on-domain.
+
+**Date traps: a second live-clock, worse than Burundi's.** `rdc-monde.com` renders its header date live —
+**six pages in two fetches returned four different dates**, one showing "June 14" where Exa claimed
+April 27. No rdc-monde article carries an in-body date; all six are `date_source: proxy`. Corbeau News
+(CAF) does the same. Against that, **actualite.cd encodes the date in its URL** (`/YYYY/MM/DD/`), a
+server-assigned anchor that matched the body dateline in **all 54 cases**. Exa's dates were wrong on
+**7 of 10** Le Jour items — always *later* than truth, by up to 16 days.
+
+**The sharpest single finding is CAF's, and it inverts the brief.** CC briefed the agents to expect a
+thin country. **CAF is not thin — it is under-collected**: 38 staged against **3 held for the whole
+window**. And the wiki holds *nothing* on CAR's tokenisation track, where by presidential decree the
+**`$CAR` token buys tokenised land concessions — 1,700 ha at Bossongo** — with mineral rights flagged
+next: a meme coin wired into the land registry of a state whose land records were destroyed in 2013,
+invisible to a page that carries a live `dpi.registry` tag. GI-TOC's *Behind the Blockchain* (Dec 2025)
+is the primary counterweight to the promotional copy. Alongside it, a **Starlink arc running acquisition
+→ control in six weeks** (US-embassy-brokered agreement Dec 2025 → launch Mar 2026 → roaming deactivated
+Apr 2026 citing *user traceability*) — a **US** foothold in a country the wiki frames around Russia.
+
+**Framings the batch complicates.** **CIV's data-centre story is US-financed**, not a private cluster:
+US EXIM at **$66m → $100m → $170m**, EXIM's own framing calling it the first data centre it has financed
+in sub-Saharan Africa, under the China and Transformational Exports Program, "directly displacing a
+Chinese competitor" — with a **smart border surveillance system** latterly attached to a "sovereign"
+build. The hub carries **no `geopol.usa` for CIV at all**. Conversely **CMR's backbone turns out to be
+Chinese-financed** (China EXIM ¥1.35bn decree of 2026-03-06) and Douala's cadastre is a Huawei MoU —
+against a hub whose foreign hand was German/Luxembourgish. And **COD gains its first major Chinese entry**
+(Genew, $1.5bn Congo River fibre MoU) in a file otherwise US/Singapore/Gulf.
+
+**Corrections to held material** (candidates, filed at ingest against compiled pages, not here): CMR's
+data-protection law is **enacted** (Loi 2024/017 of 23 Dec 2024), not the draft the wiki holds; the
+CMR **IMEI block did not take effect** on 25 May 2026 as held material reads — operators refused;
+CMR's SNIA was **drafted by Cabinet Danielle Moukouri** on tender, not led by ST Digital; the **COG ICT
+minister changed** (Ibombo → Frédéric Malik Nguema Nzé by 2026-05), dating attributions across `COG.md`
+and `patn-congo`; the **COG GSMA study re-dates from a proxy 2026-01-01 to 2026-06-22**, cross-confirmed
+by three independent items; **COD's government denied DRCPass had launched** (2025-06-26), and Starlink
+was **banned in Mar 2024 before being licensed** in May 2025 — the wiki holds a flat "Starlink is live".
+COG's national data centre **stalled on a government payment default** at 80% with the AfDB threatening
+to walk; the wiki holds only "75% complete".
+
+**Registers.** Three issues filed. **ISSUE-012** — CAF's "no suitable papers exist" note is true of
+*newspapers* and misleading as a coverage judgment; targeted search doubled CAR's base but **does not
+amortise** and skews ~3:1 to announcements. *Recommend* Radio Ndeke Luka + Oubangui Médias as
+paper1/paper2, Corbeau News third, and recognising Agence Ecofin. Not overridden by CC, because the note
+records a curator confirmation. **ISSUE-013** — `rca.news-pravda.com`, an unattributed Pravda-network
+mirror, was **the most prolific CAR hit in every French query**; verified as a mirror (its AIAL story is
+a verbatim copy of Oubangui Médias posted two minutes later). **A naïve French-language run would have
+built CAR's record out of it while looking successful.** Three real stories exist *only* there.
+*Recommend* a standing drop-list plus an `inadmissible-origin` drop reason — the drop vocabulary
+currently forces such items to be mislabelled `off-topic`, as happened to an ExpressVPN affiliate
+advertorial in COD. **ISSUE-014** — `geopol.*` has **no Russia slug**, hit independently by two agents;
+Russia is CAR's dominant external actor and is financing CARIA via a **Sberbank debt-to-development
+swap** in COG. *Recommend* adding `geopol.russia`; hold `geopol.korea` for a second instance.
+
+**Ledger corrections (tier-1, CC's own file).** **COG paper1 was unsweepable**:
+`lesdepechesdebrazzaville.fr` serves only whole-edition PDFs via `download.php` with no per-article
+HTML — the paper's articles live on its publisher's domain, **`adiac-congo.com`**. Row corrected;
+everything was staged from there. **CMR needed a completion pass**: its journals agent hit its fetch
+budget and, correctly, **documented 43 residual candidates in the manifest rather than dropping them**;
+a completion pass took them from that list without re-searching (42 staged, 1 fetch-failed with a
+better twin already held). Residual list now empty.
+
+**Notable.** The **COD/COG name collision is real and large — 45 hits caught and rejected** across the
+two agents. Two would have mis-filed on a headline read: "Congo Partners with Trident…" and "Congo
+Unveils New Biometric Passport" are both **DRC**. The inverse also fired: a TechAfrica piece opens "DRC
+is set to unveil its first National Data Center" while every fact in it is **Congo-Brazzaville** — an
+outlet error, staged to COG with the error preserved. **Exa byline fabrication on techafricanews.com is
+now measured, and subtler than thought**: it is not a single bad default — "Jennifer Onyeagoro" is a
+real byline that Exa over-applies, and it also errs the other way (giving "Editorial Team" where the page
+reads Aayushya Ranjan). Never trust Exa bylines on that domain. Two agents independently flagged that
+**ARPTC's published communiqués end with a chatbot's closing question left in the copy** — admissible as
+first-hand ARPTC speech, but direct evidence its comms are partly AI-drafted, which bears on the weight
+its wire copy carries.
+
+**Remaining.** 42 countries plus the pan-African pass are `pending`; the pilot trio NGA/SEN/TCD still
+need completion passes (2025-04-01 → run date).
