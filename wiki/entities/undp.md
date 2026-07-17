@@ -2,12 +2,12 @@
 type: entity
 entity_type: organisation
 title: United Nations Development Programme (UNDP)
-places: [GHA, XAF, NGA, TZA, ZAF, RWA, KEN, ETH, CMR, MWI]
-topics: [gov.policy, capacity.training, tech.ai, finance.new, dpi.id, dpi.pay, dpi.exchange, gov.regional, include.divides, dpi.registry, capacity.research]
+places: [GHA, XAF, NGA, TZA, ZAF, RWA, KEN, ETH, CMR, MWI, ERI]
+topics: [gov.policy, capacity.training, tech.ai, finance.new, dpi.id, dpi.pay, dpi.exchange, gov.regional, include.divides, dpi.registry, capacity.research, data.statistics]
 lens: [sovereignty, colonialism]
 status: active
-last_reviewed: 2026-07-11
-sources: [[2026-07-07 Ghana and UNDP Strengthen Partnership on Digital Transformation Projects], [2026-01-01 Digital Public Infrastructure in Africa - UNDP], [2026-02-19 Ethiopia launches AI UniPod to drive innovation], [2026-01-13 Cameroon intros digital system for civil documents], [2026-02-20 Malawi validates AI strategy, digital transformation policy - CAJ News Africa], [2026-02-20 Kenya, India and Italy Launch Trilateral Sovereign AI Partnership for Africa]]
+last_reviewed: 2026-07-17
+sources: [[2026-07-07 Ghana and UNDP Strengthen Partnership on Digital Transformation Projects], [2026-01-01 Digital Public Infrastructure in Africa - UNDP], [2026-02-19 Ethiopia launches AI UniPod to drive innovation], [2026-01-13 Cameroon intros digital system for civil documents], [2026-02-20 Malawi validates AI strategy, digital transformation policy - CAJ News Africa], [2026-02-20 Kenya, India and Italy Launch Trilateral Sovereign AI Partnership for Africa], [2026-05-08 Eritrea strengthens data systems with EPHS 2025 (UNDP)]]
 ---
 
 # United Nations Development Programme (UNDP)
@@ -61,6 +61,14 @@ see [[zambia--dpi-id]]).
   [[gov.regional]]. Source:
   [[2026-02-20 Kenya, India and Italy Launch Trilateral Sovereign AI Partnership for Africa]].
 
+- **Eritrea — data systems / EPHS 2025 (2026-05).** Under the **Joint Programme on Data
+  for Development (D4D)** (with UNECA), supported the **[[eritrea-national-statistics-office]]**
+  in completing the **Fourth Round Eritrea Population and Health Survey (EPHS 2025)** — a
+  CAPI-based digital survey of 9,794 households (98.4% completion) and 2023/24 national-
+  accounts work, Eritrea's most concrete data-systems development on record. See [[ERI]],
+  [[data.statistics]], [[capacity.research]]. Source:
+  [[2026-05-08 Eritrea strengthens data systems with EPHS 2025 (UNDP)]].
+
 ## Sources
 
 - [[2026-07-07 Ghana and UNDP Strengthen Partnership on Digital Transformation Projects]]
@@ -69,3 +77,4 @@ see [[zambia--dpi-id]]).
 - [[2026-01-13 Cameroon intros digital system for civil documents]]
 - [[2026-02-20 Malawi validates AI strategy, digital transformation policy - CAJ News Africa]]
 - [[2026-02-20 Kenya, India and Italy Launch Trilateral Sovereign AI Partnership for Africa]]
+- [[2026-05-08 Eritrea strengthens data systems with EPHS 2025 (UNDP)]]

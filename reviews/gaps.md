@@ -485,3 +485,14 @@ in the same batch and is now held; instrument upgraded stub→active. See log.md
   link `[[sita]]`. *Lead: create a distinct vendor entity (e.g. `sita-aero`) for the aviation company and
   cross-reference, so future border/aviation-data sources have a correct home.* *(Surfaced AGO ingest,
   2026-07-17.)*
+
+- **GAP-ERI-001 · Eritrea's submarine-cable and Starlink status is unsourced (only an inadmissible AI
+  synthesis).** Two analytically load-bearing claims recur for Eritrea but have **no admissible source in
+  the wiki**: that Eritrea is reportedly the **only coastal African state with zero submarine-cable
+  landings**, and that **Starlink was unlicensed as of 2024**. The ERI sweep surfaced both only via a
+  ts2.tech "Digital Desert" piece, which is a second-hand AI synthesis (inadmissible; left in the drop log,
+  not ingested). Both bear directly on [[infra.connect]] / [[include.divides]] and the "digital desert"
+  framing on [[ERI]]. *Lead: source the cable claim from a primary such as submarinenetworks.com / the
+  TeleGeography submarine-cable map, and the Starlink-licensing status from on-the-record reporting or an
+  Eritrean regulatory notice, then compile — do not cite ts2.tech.* *(Surfaced ERI sweep ingest,
+  2026-07-17.)*

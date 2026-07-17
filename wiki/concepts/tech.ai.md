@@ -2,7 +2,7 @@
 type: concept
 title: AI
 slug: tech.ai
-places: [COD, CIV, CMR, AGO, CAF, DJI, EGY, ETH, GHA, KEN, MAR, MWI, NAM, NGA, RWA, SDN, SEN, UGA, XEA, ZAF, ZMB, ZWE, XSA, XGL, XSS, DZA, SLE]
+places: [COD, CIV, CMR, AGO, CAF, DJI, EGY, ETH, GHA, KEN, MAR, MWI, NAM, NGA, RWA, SDN, SEN, UGA, XEA, ZAF, ZMB, ZWE, XSA, XGL, XSS, DZA, SLE, ERI]
 entities: [[partner2connect], [gsma], [china-namibia-smart-city], [jane-munga], [technology-prosperity-deal], [pax-silica], [american-ai-exports-program], [uae], [uae-ai-for-development-initiative], [g42], [google], [microsoft], [microsoft-g42-kenya-datacenter], [african-union], [au-google-mou], [au-continental-ai-strategy], [cloud-act], [waxal], [rwanda-national-ai-agency], [paula-ingabire], [mesob-platform], [ethiopian-ai-institute], [openai], [eac], [smart-africa], [ghana-national-ai-strategy], [kashifu-inuwa], [nasa-harvest], [catherine-nakalembe], [google-deepmind], [google-ai-research-foundations], [hustle-academy], [microsoft-elevate], [tiara-pathon], [liquid-c2], [cassava-technologies], [mtn-group], [ralph-mupita], [ai-for-good-global-commission], [nvidia], [africa-ai-declaration], [kenya-ai-bill-2026], [eu-ai-act], [global-center-on-ai-governance], [global-index-on-responsible-ai], [google-for-startups-accelerator-africa], [un-ai-scientific-panel], [tech-corps], [deepseek], [martin-tisne], [ecdpm], [european-union], [viamo], [african-telecommunications-union], [axian-telecom], [abeba-birhane], [meta], [ndpc], [govguide-nigeria], [digital-ethiopia-2030], [ai-unipod-ethiopia], [mtn-ghana], [malawi-ministry-of-ict], [undp], [vision-djibouti-2035], [eardip], [comesa], [idea-mpa]]
 lens: [sovereignty, colonialism]
 status: active

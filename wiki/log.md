@@ -4490,3 +4490,57 @@ detail pushed into the nine intersections (549–871 w each) and cited. No page 
 pre-clustered manifest made the synthesis fan-out clean, but exposed the Portuguese/English slug-convention
 mismatch as a standing reconciliation cost for every future sweep-sourced ingest (worth a normalisation step
 at stage or ingest — noted, not actioned as a schema change).
+
+**Amended same day — overnight mode (curator directive).** The runbook must run unattended overnight,
+not stop when a session's budget runs low. Execution model rewritten: **one folder per headless CC
+invocation**, driven by a new outer loop **`sweep/run-overnight.ps1`** that re-invokes `claude -p` until
+`new-queue/` is empty (guards: 200-iteration backstop, 5 consecutive failures, 3-iteration no-progress
+stall; all iterations logged to `sweep/overnight-run.log`). Big folders finishing across multiple
+invocations via interruption recovery is expected behaviour. Per-folder rules unchanged.
+
+## 2026-07-17 — Batch ingest: ERI (Eritrea) — Phase-2 sweep, smallest folder
+
+**Runbook.** Phase-2 batch ingest per `sweep/ingest-runbook.md`, one folder per invocation.
+Interruption recovery: `new/` empty, no folder split across `new-queue/{ISO3}`+`done/` — clean start.
+Claimed **ERI** (5 candidates, smallest pending; ledger status `swept`, fair game).
+
+**Screen & promote.** Copied the folder to `new-queue/done/ERI/` (backup/review trail). One candidate —
+`2026-04-10-eritrea-teachers-ict-use-education-policy-tpe.md`, a **paywalled** T&F peer-reviewed article
+(`body_completeness: paywalled`, `[CLIP]`) — routed to **`new-queue/needs-clip/ERI/`**: its substantive
+payload sits behind the paywall (only abstract/metadata captured), so the body is not admissible source
+text and needs a manual subscriber clip before promotion. This is exactly the pending **ISSUE-011** scenario
+(paywall-truncated body whose payload depends on the withheld text) — action aligns with its recommendation
+and the item's own note; no new issue filed. Promoted the other **4** to `new/`.
+
+**Ingested — 4 admitted, 0 leads, 0 discards, 1 needs-clip (= 5 candidates).** All net-new (manifest: zero
+held URLs overlap). No dedup collisions, no contradictions. Sources (dates = publication):
+- `2025-11-01 Eri-Chat offline AI app` — Shabait (state MoI). Domestically built **offline AI app** (Eri-Chat),
+  data stored locally on device; launched Apr 2025, shown at Asmara UN Day Oct 2025. tech.ai, tech.innovate.
+  Rare first Eritrean AI/innovation datapoint. Attributed as state voice.
+- `2026-05-08 Eritrea strengthens data systems with EPHS 2025 (UNDP)` — UNDP (partner). **EPHS 2025** CAPI
+  survey (9,794 households / 405 EAs, 98.4% completion) + 2023/24 national accounts under the D4D Joint
+  Programme; NSO responsible, UNDP/UNECA partners. data.statistics, capacity.research.
+- `2026-05-19 Eritrea substantial investment in communication service expansion` — Shabait (state). Minister's
+  telecom claims: 184 towers, ~90% **geographic** mobile coverage, "4G level", ~1,536 Mbps bandwidth, 35bn+
+  Nakfa. infra.connect, include.divides. Attributed as unverifiable state claims; geographic ≠ population
+  coverage (held DataReportal 23.7% population penetration is not contradicted).
+- `2026-07-02 Eritrea's banking ultimatum - deposit cash by 31 July 2026` — Awate (opposition; embedded Bank
+  of Eritrea legal notice as the primary artefact). Cash-deposit-by-31-Jul-2026 order; context for the
+  near-absence of mobile money/digital payments. dpi.pay, gov.legislate. Opposition framing attributed.
+
+**Entities.** Created 3: `eritel` (company, state telecom monopoly), `bank-of-eritrea` (government-body),
+`eritrea-national-statistics-office` (government-body). Updated `undp` (+ERI place, +data.statistics topic,
++EPHS source and activity note).
+
+**Places/concepts.** `ERI` hub rebuilt and **promoted stub → active** (6 new developments, expanded topic
+and entity sections). Concept tags: ERI added to `tech.ai`, `tech.innovate`, `dpi.pay`, `gov.legislate`,
+`data.statistics`, `capacity.research` frontmatter (`infra.connect`/`include.divides` already carried it);
+`data.statistics` also got a per-country Eritrea entry + source (clean fit; big thematic pages took the
+faceted tag only, detail on the ERI hub). Indexes updated: places-index (ERI row + stub→active note),
+entities-index (3 new rows + undp), topics-index (4 topic lines).
+
+**Gap filed.** **GAP-ERI-001** — Eritrea's submarine-cable (reportedly only coastal African state with zero
+landings) and Starlink-licensing status are load-bearing but sourced only via an inadmissible ts2.tech AI
+synthesis (left in drop log, not ingested); lead to source from submarinenetworks.com / on-record reporting.
+
+**Teardown.** `new/` drained to empty. `new-queue/ERI/` reduced to `MANIFEST.md` husk — deleted. Committed.

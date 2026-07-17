@@ -2,7 +2,7 @@
 type: concept
 title: Research institutions
 slug: capacity.research
-places: [XAF, NGA, ZAF, KEN, RWA, UGA, XGL, XSS, SEN, ETH, GHA, TZA, BEN]
+places: [XAF, NGA, ZAF, KEN, RWA, UGA, XGL, XSS, SEN, ETH, GHA, TZA, BEN, ERI]
 entities: [[global-center-on-ai-governance], [global-index-on-responsible-ai], [paris21], [2026-07-11 data-systems-crossroads], [mosip], [gates-foundation], [anthropic], [gates-anthropic-partnership], [nasa-harvest], [catherine-nakalembe], [google-ai-research-foundations], [google-deepmind], [dhis2], [hisp-centre], [research-ict-africa], [after-access], [mapping-african-digital-infrastructures], [dpi-map], [ucl-iipp], [data-for-policy]]
 lens: [sovereignty, colonialism]
 status: active

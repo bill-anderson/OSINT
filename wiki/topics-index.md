@@ -23,12 +23,12 @@ only slugs with a concept page are listed. Roll-up is by Level-1 parent.
 - [[gov.regional]] — Regional collaboration · places: COM, CAF, ZMB, XAF, NGA, KEN, RWA, NAM, AGO, ZWE, EGY, GHA, BEN, XEA, XWA, TGO, NER, BFA, MLI, TZA, UGA, MOZ, BWA, LBR, SLE, XSA, XCA, SYC, BDI, CIV, CMR, COD, COG, CPV, DJI, DZA, ETH, GMB, GNQ, LSO, MAR, MDG, MUS, MWI, SDN, SEN, SOM, STP, SWZ, TUN, XGL, XSS, ZAF, GIN, GNB, MRT, TCD
 - [[gov.standards]] — Standards · places: XGL, ZAF, MAR, XAF, SLE, ZMB, NGA, ETH, RWA, BEN, XWA, TGO, GHA, MOZ, TZA, LSO, UGA, KEN, EGY, BDI, BFA, BWA, COG, DJI, DZA, GAB, MUS, MWI, NER, SEN, TUN, XCA, XEA, XSA, XSS, ZWE, GIN, NAM, SYC, TCD
 - [[gov.protect]] — Data protection · places: COM, CAF, XAF, NGA, KEN, MWI, COD, ZAF, MUS, BEN, UGA, LBR, ZWE, ZMB, SEN, NAM, COG, SOM, MOZ, RWA, STP, XGL, AGO, BDI, BWA, CIV, CMR, DJI, DZA, EGY, ETH, GAB, GHA, GMB, LSO, MAR, MDG, SDN, SLE, SSD, SWZ, SYC, TGO, TUN, TZA, XCA, XEA, XSA, XSS, XWA, CPV, GIN, LBY, MRT, NER
-- [[gov.legislate]] — Legislation and regulation · places: CAF, XAF, NGA, KEN, XGL, GHA, ZAF, MOZ, NAM, RWA, XSA, ZMB, SOM, COG, UGA, MWI, AGO, BDI, BEN, BFA, BWA, CIV, CMR, COD, DJI, DZA, EGY, ETH, GMB, LSO, MAR, MLI, MUS, SDN, SEN, SYC, TGO, TUN, TZA, XEA, XSS, XWA, ZWE, GAB, GIN, LBR, MDG, MRT, NER, SSD, SLE, STP, SWZ, TCD
+- [[gov.legislate]] — Legislation and regulation · places: CAF, XAF, NGA, KEN, XGL, GHA, ZAF, MOZ, NAM, RWA, XSA, ZMB, SOM, COG, UGA, MWI, AGO, BDI, BEN, BFA, BWA, CIV, CMR, COD, DJI, DZA, EGY, ETH, GMB, LSO, MAR, MLI, MUS, SDN, SEN, SYC, TGO, TUN, TZA, XEA, XSS, XWA, ZWE, GAB, GIN, LBR, MDG, MRT, NER, SSD, SLE, STP, SWZ, TCD, ERI
 
 ## Technology
-- [[tech.ai]] — AI · places: CAF, XAF, XGL, RWA, GAB, NGA, KEN, ZAF, NAM, GHA, ETH, XSS, EGY, MAR, ZMB, XEA, TZA, UGA, SEN, MWI, ZWE, COD, DJI, AGO, BDI, BEN, BFA, BWA, CIV, CMR, COG, DZA, GMB, LBR, MLI, MOZ, MUS, SDN, SYC, TGO, TUN, XCA, XSA, XWA, GIN, SLE
+- [[tech.ai]] — AI · places: CAF, XAF, XGL, RWA, GAB, NGA, KEN, ZAF, NAM, GHA, ETH, XSS, EGY, MAR, ZMB, XEA, TZA, UGA, SEN, MWI, ZWE, COD, DJI, AGO, BDI, BEN, BFA, BWA, CIV, CMR, COG, DZA, GMB, LBR, MLI, MOZ, MUS, SDN, SYC, TGO, TUN, XCA, XSA, XWA, GIN, SLE, ERI
 - [[tech.industry]] — ICT Industry · places: XGL, XAF, ZAF, NGA, MAR, KEN, EGY, GHA, AGO, BEN, CMR, COD, DJI, DZA, ERI, ETH, GMB, MLI, NAM, NER, RWA, SEN, SLE, SOM, SSD, SWZ, TCD, TGO, TZA, UGA, XEA, XSS, ZMB, ZWE, GNQ, SYC, TUN
-- [[tech.innovate]] — Innovation ecosystem · places: COG, BWA, BFA, BEN, BDI, GAB, XAF, GHA, UGA, NGA, KEN, ZAF, AGO, CIV, ETH, MAR, RWA, SEN, SLE, TGO, TZA, XCA, XGL, XSS, DZA, SWZ, TUN
+- [[tech.innovate]] — Innovation ecosystem · places: COG, BWA, BFA, BEN, BDI, GAB, XAF, GHA, UGA, NGA, KEN, ZAF, AGO, CIV, ETH, MAR, RWA, SEN, SLE, TGO, TZA, XCA, XGL, XSS, DZA, SWZ, TUN, ERI
 
 ## Inclusion
 - [[include.divides]] — Digital divides · places: COM, BDI, CAF, ZMB, XAF, NGA, ZAF, KEN, RWA, NAM, ETH, SEN, XGL, XSS, AGO, BEN, BFA, CIV, CMR, COD, COG, EGY, ERI, GAB, GHA, LBR, MAR, MOZ, MUS, SSD, SWZ, TGO, TZA, UGA, XCA, XEA, XSA, XWA, ZWE, DJI, CPV, DZA, GIN, GNQ, SDN, TCD, TUN
@@ -48,7 +48,7 @@ only slugs with a concept page are listed. Roll-up is by Level-1 parent.
 
 ## Data
 - [[data.open]] — Open data · places: KEN, ZMB, ETH, XGL, XSS, BEN, BWA, CIV, EGY, GAB, GHA, GMB, MAR, MOZ, MWI, NGA, RWA, SEN, SLE, TUN, TZA, UGA, XAF, XWA, ZAF, ZWE, LBY
-- [[data.statistics]] — National statistics · places: XAF, XSS, XGL, ETH, KEN, ZMB, ZAF, MWI, TZA, GHA, MOZ, NGA, UGA, RWA, ZWE, EGY, BEN, BWA, CIV, CMR, GAB, GMB, LBR, LSO, MAR, MDG, SEN, SLE, SOM, SWZ, XCA, XEA, GIN, GNQ, GNB, LBY, MLI, MRT, MUS, NER, TCD, TGO, TUN, AGO
+- [[data.statistics]] — National statistics · places: XAF, XSS, XGL, ETH, KEN, ZMB, ZAF, MWI, TZA, GHA, MOZ, NGA, UGA, RWA, ZWE, EGY, BEN, BWA, CIV, CMR, GAB, GMB, LBR, LSO, MAR, MDG, SEN, SLE, SOM, SWZ, XCA, XEA, GIN, GNQ, GNB, LBY, MLI, MRT, MUS, NER, TCD, TGO, TUN, AGO, ERI
 - [[data.satellite]] — Use of satellite data · places: NGA, NAM, ZAF, KEN, UGA, SEN, RWA, MOZ, GAB, CIV, XAF, COD, LSO, TZA, XGL, AGO, BEN, CMR, GHA, XSS, ZWE, GMB, TGO
 
 ## Digitalisation

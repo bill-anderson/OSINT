@@ -6,6 +6,7 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 
 | Entity | Places | Topics | Page |
 |---|---|---|---|
+| EriTel (Eritrea state telecom monopoly) | ERI | infra.connect, include.divides | [[eritel]] |
 | MVola (Madagascar mobile money / digital bank) | MDG | dpi.pay, dpi.exchange, include.access | [[mvola]] |
 | MTC (Mobile Telecommunications Company, Namibia) | NAM | infra.connect, dpi.pay, include.access | [[mtc-namibia]] |
 | Al Itissal Al Jadeed (Libyan ID/passport vendor) | LBY, NER | dpi.id, gov.regional | [[al-itissal-al-jadeed]] |
@@ -203,7 +204,7 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 | The GovLab | XGL | gov.standards, geopol.eu | [[the-govlab]] |
 | UCL IIPP | XGL | dpi.govtech, gov.standards, gov.policy | [[ucl-iipp]] |
 | Canadian Anti-Monopoly Project (CAMP) | XGL | tech.industry, gov.legislate, infra.store | [[camp]] |
-| United Nations Development Programme (UNDP) | GHA, XAF | gov.policy, capacity.training, tech.ai, finance.new | [[undp]] |
+| United Nations Development Programme (UNDP) | GHA, XAF, ERI | gov.policy, capacity.training, tech.ai, finance.new, data.statistics | [[undp]] |
 | Data Landscapers (analysis practice / publisher) | XAF, ZAF | gov.policy, tech.ai, dpi.id, infra.store | [[data-landscapers]] |
 | Development Gateway (an IREX venture) | XGL, XAF | data.statistics, data.open, gov.policy | [[development-gateway]] |
 | UN Independent Intl Scientific Panel on AI | XAF, ZAF, XGL | tech.ai, gov.standards, gov.policy | [[un-ai-scientific-panel]] |
@@ -347,6 +348,8 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 | Entity | Places | Topics | Page |
 |---|---|---|---|
 | Digital Governance Unit (UGD, Madagascar) | MDG | dpi.exchange, dpi.govtech | [[ugd-madagascar]] |
+| Bank of Eritrea | ERI | dpi.pay, gov.legislate | [[bank-of-eritrea]] |
+| Eritrea National Statistics Office (NSO) | ERI | data.statistics, capacity.research | [[eritrea-national-statistics-office]] |
 | Civil Status Division (Mauritius) | MUS | dpi.registry, dpi.id | [[civil-status-division-mauritius]] |
 | Ministry of Home Affairs, Immigration, Safety & Security (Namibia) | NAM | dpi.id, dpi.registry, dpi.govtech | [[ministry-home-affairs-namibia]] |
 | Business and Intellectual Property Authority (BIPA, Namibia) | NAM | dpi.registry, dpi.govtech | [[bipa-namibia]] |
