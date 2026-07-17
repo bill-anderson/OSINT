@@ -6,8 +6,8 @@ places: [GHA, GMB, COD, XAF]
 topics: [dpi.id, dpi.pay, gov.standards, tech.industry]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-15
-sources: [[2026-01-28 Margins ID Group emerges as Africa's leading provider of certified digital identity solutions]], [[2026-01-20 Margins takes Ghana's ID success to The Gambia]], [[2025-08-11 DR Congo may partner with Ghana's Margins Group for national ID cards]]
+last_reviewed: 2026-07-16
+sources: [[2026-01-28 Margins ID Group emerges as Africa's leading provider of certified digital identity solutions]], [[2026-01-20 Margins takes Ghana's ID success to The Gambia]], [[2025-08-11 DR Congo may partner with Ghana's Margins Group for national ID cards]], [[2025-04-15 Ghana's SIM Registration Goes Fully Online from June 2025]]
 ---
 
 # Margins ID Group
@@ -35,6 +35,11 @@ databases. Also operates Identity Management Systems.
   development partners. Architect and operator of Ghana's National Identification System.
   Tags [[dpi.id]], [[dpi.pay]], [[gov.standards]]. Source: [[2026-01-28 Margins ID Group emerges as Africa's leading provider of certified digital identity solutions]].
 
+- **SIM re-registration goes fully online, at ICPS Accra (2025-04-15).** [[dpi.id]] Communications
+  Minister [[samuel-nartey-george]] announced (8 Apr 2025) — during a visit to Margins ID Group's
+  ICPS plant in Accra — that from June 2025 SIM re-registration would run fully online via the
+  [[ghana-card]] with automatic verification. Underlines ICPS as the domestic production/verification
+  hub for Ghana's ID stack. Source: [[2025-04-15 Ghana's SIM Registration Goes Fully Online from June 2025]].
 - **Wins The Gambia national-ID contract (2026-01-20).** Selected under a design-build-
   finance-co-operate-transfer (DBFOT) contract for The Gambia's national ID and integrated
   digital ID — becoming the first African-owned firm to export a full national ID system
@@ -46,3 +51,5 @@ databases. Also operates Identity Management Systems.
 
 - [[2026-01-28 Margins ID Group emerges as Africa's leading provider of certified digital identity solutions]]
 - [[2026-01-20 Margins takes Ghana's ID success to The Gambia]]
+- [[2025-08-11 DR Congo may partner with Ghana's Margins Group for national ID cards]]
+- [[2025-04-15 Ghana's SIM Registration Goes Fully Online from June 2025]]

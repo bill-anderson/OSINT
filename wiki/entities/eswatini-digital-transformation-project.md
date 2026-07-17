@@ -26,8 +26,15 @@ Economic Planning).
   [[dpi.govtech]], [[infra.connect]]. Source:
   [[2026-05-18 Eswatini promotes digital transformation project through World Bank engagements]].
 
-> **⚠ Verify:** thin, low-profile source with no primary WB document or funding
-> figure — confirm against a World Bank project record before citing figures.
+> **⚠ Verify — partially resolved 2026-07-17.** The candidate World Bank record is
+> **[[digital-eswatini-project]]** (Digital Eswatini, **P508948**; concept-stage PID
+> 2025-06-28; **US$65.16m** proposed), which matches on country, financier, implementing
+> ministry and the GIYH delivery platform. The apparent chronology objection dissolves on
+> inspection: the PID's appraisal and approval dates are printed as **Estimated**, so a
+> May-2026 report of live negotiations is consistent with slipped planned dates rather than a
+> second project. **But no source states the two are the same**, and board approval is
+> unconfirmed in the corpus — so the identification is **probable, not established**, and this
+> page is not yet merged. A merge is proposed as **ISSUE-005** in `reviews/issues.md`.
 
 See [[SWZ]], [[world-bank]], [[dpi.govtech]].
 

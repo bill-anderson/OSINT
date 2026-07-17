@@ -6,8 +6,8 @@ places: [SDN]
 topics: [dpi.id, dpi.govtech, include.access]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-11
-sources: [[2026-01-29 How to build trust alongside Sudan's digital identity system]]
+last_reviewed: 2026-07-16
+sources: [[2026-01-29 How to build trust alongside Sudan's digital identity system], [raw/2026-02-02 Sudan's planned national digital ID could strengthen recovery push - Experts]]
 ---
 
 # SudaPass
@@ -38,7 +38,15 @@ post-conflict recovery and state coherence.
   enrolment for displaced and nomadic populations and interoperability without
   unrestricted data pooling. See [[gov.protect]]. Source:
   [[2026-01-29 How to build trust alongside Sudan's digital identity system]].
+- **Design specifics (as of 2026-02).** Sudan's Ministry of Digital Transformation says the launch
+  is **imminent**; SudaPass will be **free**, activated using **passport details and face
+  biometrics**. Experts (reported by Biometric Update on the WEF commentary) warn against repeating
+  exclusion/surveillance failures seen elsewhere — **Kenya** cited as a cautionary case — and stress
+  trust, inclusivity and safeguards. The government also stood up the
+  **[[sudanese-cybersecurity-authority]]** as part of the same digital-transformation drive. Source:
+  [[raw/2026-02-02 Sudan's planned national digital ID could strengthen recovery push - Experts]].
 
 ## Sources
 
 - [[2026-01-29 How to build trust alongside Sudan's digital identity system]]
+- [[raw/2026-02-02 Sudan's planned national digital ID could strengthen recovery push - Experts]]

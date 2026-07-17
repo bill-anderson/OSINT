@@ -3,10 +3,10 @@ type: entity
 entity_type: government-body
 title: Central Bank of Somalia
 places: [SOM]
-topics: [dpi.pay, gov.legislate]
+topics: [dpi.pay, gov.legislate, finance.new]
 status: active
-last_reviewed: 2026-07-11
-sources: [[2026-01-07 Why Ethiopia, Somalia and Djibouti are starting to matter in digital Africa], [2026-01-29 Mogadishu to Host First National Digital Public Infrastructure Summit; Key Agencies to Map Out Digital Transformation Strategy]]
+last_reviewed: 2026-07-16
+sources: [[2026-01-07 Why Ethiopia, Somalia and Djibouti are starting to matter in digital Africa], [2025-03-25 Somalia taps BPC to launch first nationwide instant payment system], [2026-01-29 Mogadishu to Host First National Digital Public Infrastructure Summit; Key Agencies to Map Out Digital Transformation Strategy]]
 ---
 
 # Central Bank of Somalia
@@ -17,13 +17,19 @@ sophisticated — but long informal — mobile-money economies.
 
 ## Activity in this wiki
 
-- **SIPS and SOMQR (early 2025).** CBS launched the **Somalia Instant Payment System
+- **SIPS and SOMQR (early 2025).** CBS launched the **[[somalia-instant-payment-system]]
   (SIPS)** with a national **SOMQR** QR-code standard, bridging previously isolated mobile
   wallets and the emerging banking sector — its first credible move to assert regulatory
   oversight over a market it had largely only observed. Context: Somalia's mobile money is
   worth ~**$8bn/yr (~36% of GDP)**, ~650m transactions annually, sustaining ~$2bn in
   annual diaspora remittances. See [[dpi.pay]], [[gov.legislate]]. Source:
   [[2026-01-07 Why Ethiopia, Somalia and Djibouti are starting to matter in digital Africa]].
+- **BPC / SIPS build-out (2025-03-25).** SIPS — operated by Somalia Payment Switch (SPS)
+  under CBS — runs on **BPC's SmartVista** platform; launched Jan 2025 via cloud (moving to
+  a local data centre), with **7 institutions** live and SOMQR (2023) routing contactless
+  transactions. CBS acts as clearing and settlement agent. See [[finance.new]].
+- **ID-linked eKYC (2025-07-29).** CBS mandated the national ID ([[snid]]) for opening or
+  updating bank accounts, tightening KYC. See [[dpi.id]].
 - **National DPI Summit (2026-01-29).** Named a collaborating institution — with the
   National Communications Authority, [[nira-somalia]] and the Data Protection Authority —
   for Somalia's **first National DPI Summit** (Mogadishu, 14–15 Feb 2026), organised by
@@ -34,4 +40,5 @@ sophisticated — but long informal — mobile-money economies.
 ## Sources
 
 - [[2026-01-07 Why Ethiopia, Somalia and Djibouti are starting to matter in digital Africa]]
+- [[2025-03-25 Somalia taps BPC to launch first nationwide instant payment system]]
 - [[2026-01-29 Mogadishu to Host First National Digital Public Infrastructure Summit; Key Agencies to Map Out Digital Transformation Strategy]]

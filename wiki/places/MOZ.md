@@ -80,8 +80,12 @@ last_reviewed: 2026-07-16
   **[[RWA]]**, with a **Multi-Sector Technical Commission** to draft an integration roadmap by
   **mid-2026** ("no technological islands within the state"). Led by the new Ministry of
   Communications & Digital Transformation; **[[atdi-mozambique]]** is the standing agency.
-  Mozambique ranks **177/193** on the 2024 UN E-Gov Index (~25% internet access). Source:
-  [[2026-02-21 Mozambique Launches Digital Government Overhaul, Looking to Kenya and Rwanda as Models]].
+  This built on the **National Conference on Digital Transformation** (Maputo, 11–12 Feb 2026), where
+  **[[intic-mozambique|INTIC]]** formally **launched the drafting of a National Digital Transformation
+  Strategy** (12 Feb) via regional consultations. Mozambique ranks **177/193** on the 2024 UN E-Gov Index
+  (~25% internet access; ~80% offline in 2024). Sources:
+  [[2026-02-21 Mozambique Launches Digital Government Overhaul, Looking to Kenya and Rwanda as Models]],
+  [[2026-02-16 Mozambique Launches Drafting of National Digital Transformation Strategy]].
   See [[dpi.govtech]], [[gov.policy]], [[dpi.exchange]], [[dpi.pay]], [[gov.regional]].
 - **2026-02-06** — **Data-breach reporting platform.** **[[intic-mozambique]]** (National
   Institute of ICT; board chair Lourino Chemane) launched a **pilot platform for reporting
@@ -95,6 +99,65 @@ last_reviewed: 2026-07-16
   **[[starlink-vodacom-leo-partnership]]** (LEO backhaul + equipment resale). Source:
   [[2026-01-01 Starlink Partners with Airtel & Vodacom From Rival to Ally]]. See
   [[infra.connect]], [[data.satellite]].
+- **2025-10-28** — **Merchant digital payments.** A World Bank study of 2,000+ merchants across five
+  provinces found **22% still don't accept digital payments**, and many use personal rather than business
+  e-wallets; the safety-net agency INAS uses e-wallets/smartcards. The lesson: make digital payments simple,
+  useful and **interoperable** between banks and e-wallets. Source:
+  [[2025-10-28 From coins to clicks - What I have learned from small merchants in Mozambique]]. See
+  [[dpi.pay]], [[include.access]].
+- **2025-09-23** — **Draft Personal Data Protection Law reviewed.** A TechHive Advisory review of Mozambique's
+  comprehensive **[[mozambique-data-protection-law|draft PDPL]]** (aligned to the AU Malabo Convention,
+  ratified 2019) sets up a two-tier regime: a Prime-Minister-chaired **CNPD** for coordination and an **ANPD**
+  enforcer — a role assigned to the existing ICT Regulatory Authority — with mandatory DPOs, data-subject
+  rights and risk-based international transfers. Source:
+  [[2025-09-23 Review of Mozambique's Proposed Personal Data Protection Law]]. See [[gov.protect]],
+  [[gov.legislate]].
+- **2025-07-16** — **Digital Transformation Strategy (US ITA).** A US market-intelligence note describes the
+  2025 creation of the Ministry of Communications & Digital Transformation and a draft strategy spanning
+  **"Internet for All"** (from <25% to 100% by 2030, [[incm-mozambique|INCM]]-led), e-gov integration and an
+  e-payment gateway, a **Citizen Portal** (digital ID, civil registration, tax number), digital signatures,
+  and an e-procurement system (e-GP, Apr 2025). Source:
+  [[2025-07-16 Mozambique Digital Transformation Strategy (Market Intelligence)]]. See [[gov.policy]],
+  [[dpi.govtech]], [[infra.connect]], [[digital.rural]].
+- **2025-04** — **Data-governance rapid diagnostic (World Bank).** A World Bank **[[world-bank|WB]]** draft
+  rapid diagnostic, *Data Governance in Mozambique*, sets out findings and recommendations on the country's
+  data-governance regime (cited, not absorbed). Source:
+  [[2025-04-01 Data Governance in Mozambique - Rapid Diagnostic (World Bank, draft)]]. See [[gov.protect]],
+  [[gov.policy]], [[data.open]].
+- **2024–2025** — **Data-centre build-out (Raxio, Vodacom, BCX/Alibaba).** Mozambique added Tier III capacity:
+  **[[raxio-group|Raxio MZ1]]** (Beluluane, first Tier III, ~May 2024, near 2Africa), **[[vodacom|Vodacom]]**'s
+  **$25m** carrier-neutral Matola centre (Mar 2025, said to be the country's largest — the PM counted **18 data
+  centres** nationally), and **BCX**'s hosting of **Alibaba Cloud**'s local (ALP) services in Maputo (Jun 2024,
+  billed in local currency for data sovereignty). Sources:
+  [[2024-05-28 Raxio launches data center in Mozambique (Raxio MZ1)]],
+  [[2024-05-28 Raxio Launches New Data Centre In Mozambique]],
+  [[2025-03-31 Vodacom opens data center in Maputo, Mozambique]],
+  [[2025-04-23 Vodacom Business Data Centre - A Strategic Step Towards Business Digitalisation in Mozambique]],
+  [[2024-06-10 BCX brings Alibaba Cloud to Mozambique]]. See [[infra.store]], [[infra.connect]].
+- **2024** — **Legal-identity gap and free-ID drive.** Only **~34% of adults held an ID card (2024)** though
+  ~55% had a birth certificate (IOM). Backed by the World Bank **[[edge-mozambique|EDGE]]** project and ID4D,
+  the **[[dnic-mozambique|DNIC]]** ran Mozambique's **first-ever nationwide free-ID campaign** (from 13 Nov
+  2023), delivering **140,000+ free IDs** within months; a related project reached 21,000+ displaced persons
+  in Cabo Delgado. Sources:
+  [[2024-06-12 Only 34 per cent of Mozambicans have an identity card]],
+  [[2024-07-03 Unlocking Opportunities for Millions in Mozambique with Free IDs]],
+  [[2024-07-08 World Bank supports Mozambique to scale up free issuance of national ID cards]]. See
+  [[dpi.id]], [[dpi.registry]], [[include.access]].
+- **2024-01-18** — **Biometric SIM registration mandated.** The regulator **[[incm-mozambique|INCM]]** required
+  SIM registration with **biometric data** (fingerprints + facial recognition) under **decree 12/2023** —
+  optional pilot from 15 Jan 2024, compulsory in H2 2024, blocking from 2025 — assigning each subscriber a
+  **Unique Telecommunications Number (NUTEL)** amid ~5,000 monthly scams. Source:
+  [[2024-01-18 Mozambique to Require Biometric Card Registration for Cellphone Users]]. See [[dpi.id]],
+  [[gov.legislate]], [[infra.cybersec]].
+- **2021** *(baselines)* — **EDGE project & CRVS reform.** The World Bank **[[edge-mozambique|EDGE]]** Digital
+  Governance & Economy Project (P172350; US$150m; PID Jun 2021) funds legal ID, digital public services and
+  the digital-business ecosystem (implemented by INAGE/INTIC). A UNICEF **CRVS** evaluation records reforms
+  since 2016 lifting birth registration (55% in 2015) via an e-CRVS system in 80% of district offices.
+  Sources: [[2021-06-29 Mozambique Digital Governance and Economy Project - PID (EDGE, P172350, World Bank)]],
+  [[2021-01-01 Mozambique CRVS Case Study - UNICEF Evaluation]]. See [[dpi.id]], [[dpi.registry]].
+- **2024-02-23** *(baseline)* — **DataReportal Digital 2024.** Population 34.4m; **internet penetration
+  23.2%** (7.96m users); 18.91m mobile connections (55%). Source:
+  [[2024-02-23 Digital 2024 - Mozambique (DataReportal)]]. See [[data.statistics]].
 - **2016–2017** *(background; publ. 2021-09-13)* — **Health-data recording burden.** A
   five-country WHO study ([[rhis-recording-burden-5country]]) found Mozambique's PHC
   facilities carried the **most reporting forms (~52 mandated, 25 in use)** and spent the
@@ -102,6 +165,10 @@ last_reviewed: 2026-07-16
   monthly reporting time (~4h)** — a function of very high patient loads. Source:
   [[2021-09-13 The burden of recording and reporting health data in primary health care facilities in five low- and lower-middle income countries]].
   See [[dpi.mis]], [[data.statistics]], [[gov.standards]].
+- **2008-12** *(baseline)* — **Land administration.** A World Bank note on Mozambique's 1997 Land Law and
+  the DUAT land-use-right system flags a cumbersome, centralised **Deeds Registry / Cadastre** registration
+  process — an early data point on land-registry modernisation needs. Source:
+  [[2008-12-01 Land Reform in Mozambique (World Bank ARD Note 43)]]. See [[dpi.registry]], [[gov.legislate]].
 
 ## Active topics
 
@@ -118,14 +185,21 @@ last_reviewed: 2026-07-16
 - [[infra.store]] · [[infra.connect]] · [[geopol.usa]] — sovereign-cloud / data-classification
   argument; Chanida–Cassacatiza cross-border fibre to Zambia; Globalstar/Starlink satellite footprint.
 - [[gov.protect]] · [[geopol.china]] — Chinese surveillance cameras sited in opposition areas.
+- [[dpi.id]] · [[dpi.registry]] · [[include.access]] — **[[edge-mozambique|EDGE]]**/ID4D free-ID drive via
+  **[[dnic-mozambique|DNIC]]** (only ~34% ID coverage, 2024); CRVS reform; biometric SIM registration (NUTEL).
+- [[gov.protect]] · [[gov.legislate]] — draft **[[mozambique-data-protection-law|Personal Data Protection Law]]**
+  (Malabo-aligned); World Bank data-governance rapid diagnostic (2025).
+- [[infra.store]] — Tier III data-centre build-out (**[[raxio-group|Raxio MZ1]]**, **[[vodacom|Vodacom]]**
+  Matola, BCX/Alibaba); ~18 data centres nationally by 2025.
 - [[dpi.mis]] · [[data.statistics]] · [[gov.standards]] — heavy PHC health-data recording/reporting burden.
 
 ## Entities
 
 - [[atdi-mozambique]] · [[mozambique-cyber-security-law]] · [[mozambique-ethiopia-dpi-mou]] · [[fayda-ethiopia-national-id]]
-- [[intic-mozambique]] · [[bio-key-international]] · [[runlevel]] · [[simo-mozambique]] · [[bayobab-zambia]] · [[vodacom]]
+- [[intic-mozambique]] · [[incm-mozambique]] · [[bio-key-international]] · [[runlevel]] · [[simo-mozambique]] · [[bayobab-zambia]] · [[vodacom]]
+- [[edge-mozambique]] · [[dnic-mozambique]] · [[mozambique-data-protection-law]] · [[raxio-group]] · [[world-bank]]
 - [[uneca]] · [[globalstar]] · [[amazon-globalstar-acquisition]] · [[starlink]] · [[starlink-vodacom-leo-partnership]]
 - [[huawei]] · [[zte]] · [[hikvision]] · [[rhis-recording-burden-5country]]
-- Mentioned, not hubbed: INCM (National Institute of Communications); Américo Muchanga
+- Mentioned, not hubbed: INAGE (National Institute of Electronic Government); Américo Muchanga
   (Minister of Communications & Digital Transformation); Adilson dos Santos Cousin Gomes
   (ATDI chair); Yodahe Zemichael (Ethiopia NIDP ED); FaydaVerse.

@@ -5,8 +5,8 @@ title: The Gambia National ID + Integrated Digital ID (DBFOT)
 places: [GMB]
 topics: [dpi.id, finance.new]
 status: active
-last_reviewed: 2026-07-11
-sources: [[2026-01-20 Margins takes Ghana's ID success to The Gambia]]
+last_reviewed: 2026-07-16
+sources: [[2026-01-20 Margins takes Ghana's ID success to The Gambia], [2026-01-22 The Gambia picks Margins ID Group for national ID infrastructure upgrade]]
 ---
 
 # The Gambia National ID + Integrated Digital ID (DBFOT)
@@ -33,6 +33,14 @@ Digital ID System for the Government of The Gambia ([[GMB]]).
   **The Gambia's third attempt** at a national ID system after two prior failures.
 - Amount/timeline not disclosed. Tags [[dpi.id]], [[finance.new]].
 
+- **Corroboration + implementing subsidiary (2026-01-22).** [[dpi.id]] A second outlet confirms the
+  contract is held by **MIDSA** (Margins ID Systems Applications Ltd), a Margins subsidiary, on a
+  build-co-operate-transfer basis with the Ministry of Interior — for a "secure, scalable, integrated
+  National Identity Management System and **ICAO-compliant e-identity card** infrastructure," ending
+  "an era of confusion" in the Gambian ID sector (Interior Minister Abdoulie Sanyang hinted Sep 2024).
+  Source: [[2026-01-22 The Gambia picks Margins ID Group for national ID infrastructure upgrade]].
+
 ## Sources
 
 - [[2026-01-20 Margins takes Ghana's ID success to The Gambia]]
+- [[2026-01-22 The Gambia picks Margins ID Group for national ID infrastructure upgrade]]

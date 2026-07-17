@@ -32,6 +32,6 @@ lens: [sovereignty]
 - **DHIS2** (adopted 2012; 700+ facilities): data completeness 88%→95%, timeliness 60%→90%+; COVID
   vaccination 77%+ and 5.8m+ tests tracked via DHIS2 + national-ID linkage. Maternal mortality fell
   >50% (476→203 per 100,000, 2010–2019).
-- **Center for Digital Public Infrastructure (CDPI)** established within [[risa]] in **Feb 2025**;
+- **Center for Digital Public Infrastructure (CDPI)** established within [[rwanda-information-society-authority]] in **Feb 2025**;
   Mojaloop-based IPS (eKash); local firm **WiredIN** now exports Mojaloop expertise regionally
   (South–South cooperation, soft power). Value framework: economic, social, governance, political.

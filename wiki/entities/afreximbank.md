@@ -7,7 +7,7 @@ topics: [dpi.pay, finance.new, gov.regional]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-16
-sources: [[2026-05-30 Afreximbank Banks on Digital Payments to Unlock Africa's Trillion-Dollar Trade Potential], [2022-08-30 Pan-African Payment and Settlement System drives Africa's banking integration], [2022-05-11 Pan-African Payment and Settlement System], [2026-01-23 Afreximbank flags Africa's digital trade gap at Davos], [2026-01-27 Nigeria's PAPSS cross-border payments falls 53% to N5.6bn]]
+sources: [[2026-05-30 Afreximbank Banks on Digital Payments to Unlock Africa's Trillion-Dollar Trade Potential], [2022-08-30 Pan-African Payment and Settlement System drives Africa's banking integration], [2022-05-11 Pan-African Payment and Settlement System], [2026-01-23 Afreximbank flags Africa's digital trade gap at Davos], [2026-01-27 Nigeria's PAPSS cross-border payments falls 53% to N5.6bn], [2025-06-23 Onafriq and PAPSS launch cross-border payments in Ghana]]
 ---
 
 # Afreximbank (African Export-Import Bank)
@@ -50,6 +50,11 @@ continent's dependence on the US dollar and correspondent banking.
   total throughput and not a genuine counter-signal to the rail's growth (REV-002 resolved
   2026-07-16). See [[NGA]], [[nigeria--dpi-pay]], [[dpi.pay]]. Source:
   [[2026-01-27 Nigeria's PAPSS cross-border payments falls 53% to N5.6bn]].
+- **Settlement agent for the Onafriq–PAPSS Ghana pilot (2025-06-23).** [[dpi.pay]] Afreximbank acts
+  as **settlement agent** for the [[onafriq]]–[[papss]] cross-border service launched in Ghana under a
+  BoG six-month pilot ([[onafriq-papss-ghana-launch]]) — the same settlement-guarantor role it plays
+  across PAPSS. See [[GHA]], [[gov.regional]]. Source:
+  [[2025-06-23 Onafriq and PAPSS launch cross-border payments in Ghana]].
 - **Leadership — verify.** The source names Benedict Oramah as president, but its caption
   inconsistently references "George Elombi." ⚠ Current president to be confirmed against a
   primary Afreximbank release before citing.
@@ -61,3 +66,4 @@ continent's dependence on the US dollar and correspondent banking.
 - [[2022-05-11 Pan-African Payment and Settlement System]]
 - [[2026-01-23 Afreximbank flags Africa's digital trade gap at Davos]]
 - [[2026-01-27 Nigeria's PAPSS cross-border payments falls 53% to N5.6bn]]
+- [[2025-06-23 Onafriq and PAPSS launch cross-border payments in Ghana]]

@@ -6,7 +6,7 @@ places: [XWA, NER, BFA, MLI]
 topics: [dpi.id, gov.regional, infra.cybersec, infra.store, dpi.govtech]
 lens: [sovereignty, colonialism]
 status: active
-last_reviewed: 2026-07-11
+last_reviewed: 2026-07-16
 sources: [[2026-03-30 Focus on Sahel digital sovereignty gets clearer with Niger's new biometric ID card], [2026-02-02 Mali unveils modern Tier III data centre], [2026-01-22 Burkina Faso aims for digital sovereignty with infrastructure supervision center], [2025-11-10 Burkina Faso introduces new AES biometric ID system (CIB-AES)]]
 ---
 
@@ -22,7 +22,18 @@ dependence. See [[XWA]], [[gov.regional]], [[sovereignty]], [[colonialism]].
 
 - **Common AES biometric ID and passport.** The three states agreed a shared identity
   credential enabling **passport-free travel within the AES**, and launched a **common
-  biometric passport in January 2025**. See [[dpi.id]].
+  biometric passport in January 2025** (coinciding with their definitive ECOWAS exit; old
+  ECOWAS-logo passports valid until expiry). See [[dpi.id]]. Source:
+  [[2025-01-27 Sahel states under military rule unveil common biometric passport Jan. 29]].
+- **Mali's "E-AES" passport — Emptech replaces Idemia (2025-10-28).** Mali launched its E-AES
+  biometric passport, switching supplier from France's **[[idemia]]** to China's **[[emptech]]**
+  after a 2023 data-transfer dispute — framed as "regained sovereignty" and local data management,
+  and inscribed "E-AES" as a symbol of confederal integration. See [[dpi.id]], [[sovereignty]].
+  Source: [[2025-10-28 Mali Launches 'E-AES' Biometric Passport, Taps China's Emptech in Digital Sovereignty Move]].
+- **Mali diaspora services platform (2025-02).** Mali deployed a digital platform for its diaspora
+  to access administrative, identity and travel documents across consular missions — built by Malian
+  experts, future-compatible with the AES **Visa Liptako** confederal visa. See [[dpi.govtech]].
+  Source: [[2025-02-21 Mali Launches Digital Platform to Streamline Services for Its Diaspora]].
 - **Burkina Faso first — the CIB-AES (Nov–Dec 2025).** Burkina Faso was the first to adopt the
   regional ID document: the **[[cib-aes]]** (Carte d'Identité Biométrique de l'AES), approved by decree
   6 Nov 2025 and unveiled by **[[oni-burkina-faso]]** on 1 Dec 2025, replacing the CNIB as the 5th
@@ -42,8 +53,12 @@ dependence. See [[XWA]], [[gov.regional]], [[sovereignty]], [[colonialism]].
   Centre** during its 3rd Digital Week, with [[MLI]]/[[NER]]/[[BFA]] digital ministers present, to
   host Malian state strategic data and — in the short term — **"mutualised" AES infrastructure**;
   cast as ending dependence on foreign/extraterritorial cloud and a shared base for e-gov, AI and
-  confederate digital platforms. See [[infra.store]], [[dpi.govtech]]. Source:
-  [[2026-02-02 Mali unveils modern Tier III data centre]].
+  confederate digital platforms (inaugurated 31 Jan 2026, Bamako, during Mali's 3rd Digital Week).
+  See [[infra.store]], [[dpi.govtech]]. Sources:
+  [[2026-02-02 Mali unveils modern Tier III data centre]],
+  [[2026-02-02 Mali opens Tier III data center in Bamako amid regional push to keep data at home]],
+  [[2026-02-03 Mali Paves the Way for Digital Sovereign Tier III Data Centre Deployment]],
+  [[2026-02-05 Government of Mali launches data center in Bamako]].
 - **Burkina Faso Digital Infrastructure Supervision Center (2026-01).** Burkina Faso began building
   a **~$5.4m** supervision centre (9-month build, delivery ~Oct 2026) to centralise oversight of its
   national backbone, data centres and cyberspace — embodying a **"zero data abroad"** localisation

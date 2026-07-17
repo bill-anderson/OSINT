@@ -2,12 +2,12 @@
 type: concept
 title: Legislation and regulation
 slug: gov.legislate
-places: [COD, CIV, CMR, BWA, BFA, AGO, XAF, NGA, KEN, XGL, GHA, ZAF, MOZ, NAM, RWA, XSA, ZMB, SOM, COG, UGA, MWI, DZA, EGY]
-entities: [[afcfta], [nimc], [cbn], [samuel-nartey-george], [popia], [bosun-tijani], [ncc], [mozambique-cyber-security-law], [sa-digital-id-regulations], [fccpc], [icasa], [cran], [starlink], [sarb], [nida-rwanda], [smart-zambia-institute], [somalia-ministry-communications-technology], [national-personal-data-protection-commission-congo], [uganda-communications-commission], [mtn-group], [airtel-africa], [malawi-data-protection-act-2024], [us-department-of-state], [ndpc], [nigeria-data-protection-act-2023], [inec], [digital-rights-lawyers-initiative], [eu-ai-act], [kenya-ai-bill-2026], [alice-munyua]]
+places: [COD, CIV, CMR, BWA, BFA, AGO, XAF, NGA, KEN, XGL, GHA, ZAF, MOZ, NAM, RWA, XSA, ZMB, SOM, COG, UGA, MWI, DZA, EGY, STP, SSD, SLE, SWZ, SYC, TCD, TGO, XWA]
+entities: [[afcfta], [nimc], [cbn], [samuel-nartey-george], [popia], [bosun-tijani], [ncc], [mozambique-cyber-security-law], [sa-digital-id-regulations], [fccpc], [icasa], [cran], [starlink], [sarb], [nida-rwanda], [smart-zambia-institute], [somalia-ministry-communications-technology], [national-personal-data-protection-commission-congo], [uganda-communications-commission], [mtn-group], [airtel-africa], [malawi-data-protection-act-2024], [us-department-of-state], [ndpc], [nigeria-data-protection-act-2023], [inec], [digital-rights-lawyers-initiative], [eu-ai-act], [kenya-ai-bill-2026], [alice-munyua], [data-protection-act-2022-eswatini], [esccom], [apc], [data-protection-act-2023-seychelles], [information-commission-seychelles], [boukar-michel], [togo-aml-law-2025], [fatf], [waemu]]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-14
-sources: [[2026-07-03 AfCFTA, Data Governance and the Hidden Legal Gaps Reshaping Africa's Digital Economy - P.M. News], [2026-06-09 The Triad of Tech Sovereignty and Europe's Package Dependency, Openness, and Agency], [2025-01-01 Eaves commodification], [2026-07-09 Nigeria seeks support to operationalize new digital ID law as NIN tops 136M], [2026-07-07 CBN's local data order puts Nigeria's data centres to test], [2026-07-07 Ghana and UNDP Strengthen Partnership on Digital Transformation Projects], [2026-06-09 Meta backs NDPC in landmark privacy initiative], [2026-06-03 How the EU's Tech Sovereignty Package Finally Puts Open Source to the Test], [2026-06-10 Rwanda Launches Dedicated AI Agency to Drive Investment and Innovation], [2026-06-08 The Promise and Limits of African Data Sovereignty], [2026-06-16 Who Owns Africa's Sky], [2025-01-01 South African Digital Sovereignty at the Crossroad of Securitization and Development (Chapter 4) - Digital Sovereignty in the BRICS Countries], [2026-07-08 FG Halts Enforcement of New Regulations on Internet Platforms], [2026-07-09 NIMC Act 2026 Director-General Coker-Odusote Launches 8,809-Ward Digital ID Drive], [2026-04-17 Mozambique parliament unanimously approves Cyber Security Law], [2026-05-29 Opinion South Africa's Digital Identity Regulations A Governance Crossroads], [2026-04-21 South Africa's digital ID gets a targeted launch date], [2026-07-10 Nigeria tests data sovereignty as foreign tech firms facing probe], [2026-05-22 Why global hyperscalers are avoiding Nigeria despite Africa's biggest market], [2026-04-12 Icasa moves to mandate national infrastructure database], [2026-03-26 Starlink blocked from operating in Namibia], [2026-03-17 South Africa's National Payment System PSP licences and the 2026 payments reform], [2026-03-16 Digital IDs How registration is progressing so far], [2026-03-04 Nigeria takes new measures to regulate AI], [2026-02-27 Who Protects Nigeria's Digital Citizens Unmasking Accountability Gaps in Digital Rights Governance], [2026-07-10 Why Nigeria Is Investigating Meta, Google, X and AI Firms], [2026-07-10 FIJ Showed That INEC Broke Data Law. Digital Rights Lawyers Sue the Commission 10 Months Later]]
+last_reviewed: 2026-07-17
+sources: [[2026-07-03 AfCFTA, Data Governance and the Hidden Legal Gaps Reshaping Africa's Digital Economy - P.M. News], [2026-06-09 The Triad of Tech Sovereignty and Europe's Package Dependency, Openness, and Agency], [2025-01-01 Eaves commodification], [2026-07-09 Nigeria seeks support to operationalize new digital ID law as NIN tops 136M], [2026-07-07 CBN's local data order puts Nigeria's data centres to test], [2026-07-07 Ghana and UNDP Strengthen Partnership on Digital Transformation Projects], [2026-06-09 Meta backs NDPC in landmark privacy initiative], [2026-06-03 How the EU's Tech Sovereignty Package Finally Puts Open Source to the Test], [2026-06-10 Rwanda Launches Dedicated AI Agency to Drive Investment and Innovation], [2026-06-08 The Promise and Limits of African Data Sovereignty], [2026-06-16 Who Owns Africa's Sky], [2025-01-01 South African Digital Sovereignty at the Crossroad of Securitization and Development (Chapter 4) - Digital Sovereignty in the BRICS Countries], [2026-07-08 FG Halts Enforcement of New Regulations on Internet Platforms], [2026-07-09 NIMC Act 2026 Director-General Coker-Odusote Launches 8,809-Ward Digital ID Drive], [2026-04-17 Mozambique parliament unanimously approves Cyber Security Law], [2026-05-29 Opinion South Africa's Digital Identity Regulations A Governance Crossroads], [2026-04-21 South Africa's digital ID gets a targeted launch date], [2026-07-10 Nigeria tests data sovereignty as foreign tech firms facing probe], [2026-05-22 Why global hyperscalers are avoiding Nigeria despite Africa's biggest market], [2026-04-12 Icasa moves to mandate national infrastructure database], [2026-03-26 Starlink blocked from operating in Namibia], [2026-03-17 South Africa's National Payment System PSP licences and the 2026 payments reform], [2026-03-16 Digital IDs How registration is progressing so far], [2026-03-04 Nigeria takes new measures to regulate AI], [2026-02-27 Who Protects Nigeria's Digital Citizens Unmasking Accountability Gaps in Digital Rights Governance], [2026-07-10 Why Nigeria Is Investigating Meta, Google, X and AI Firms], [2026-07-10 FIJ Showed That INEC Broke Data Law. Digital Rights Lawyers Sue the Commission 10 Months Later], [2022-03-04 Eswatini Data Protection Act 2022 (Act No. 5 of 2022)], [2024-07-22 Risk of human rights infringement as Eswatini rushes to regulate the ICT sector], [2025-07-31 Eswatini Economic Update - Digital Transformation Key to Unlocking Growth], [2024-06-04 Review of Seychelles DPA], [2024-03-25 Data Protection Law Now In Force In Seychelles], [2025-12-10 Chad Finalizes Digital Law to Align National Framework With Global Standards], [2025-12-30 Togo Adopts New Law to Strengthen Anti-Money Laundering Rules], [2025-03-24 Togo Adopts WAEMU Consumer Protection Framework]]
 ---
 
 # Legislation and regulation (`gov.legislate`)
@@ -179,9 +179,49 @@ localization mandates, and the competition/antitrust angle on cloud concentratio
   [[2026-05-19 GATEKEEPERS XIV]],
   [[2026-02-17 Corporate Interests Must Not Co-Opt Africa's AI Moment]].
 
+- **New statutes across the smaller states — STP, SSD, SLE, SOM (2016–2026).** The legislative layer
+  thickens in four more states: **[[STP]] São Tomé and Príncipe** rests on its data-protection
+  **Law 03/2016** plus an **Interoperability Framework (Law 1/2024)**; **[[SSD]] South Sudan** passed a
+  **Cybercrime & Abuse of Computer Bill 2025** (awaiting presidential assent); **[[SLE]] Sierra Leone**
+  validated a combined **Data Protection & RTI Bill 2025**; and **[[SOM]] Somalia** approved a
+  **Cybersecurity Law** (**26 Jan 2026**) establishing a national CIRT (**SOM-CIRT**). See
+  [[gov.protect]], [[infra.cybersec]], [[STP]], [[SSD]], [[SLE]], [[SOM]].
+
+- **Statute enacted, regulator borrowed — Eswatini and Seychelles (2022–2023).** Two small states
+  legislated by **designating an existing body** rather than building a privacy regulator.
+  **[[SWZ]] Eswatini**'s [[data-protection-act-2022-eswatini]] (Act No. 5 of 2022) was gazetted and
+  effective **4 March 2022**, one of **four ICT Acts** passed that year — all, [[apc]] notes,
+  **tabled with certificates of urgency**, compressing stakeholder input — and made the sector
+  regulator [[esccom]] the data protection authority, with fines to **E5,000,000 or 2% of
+  turnover**; the World Bank reports the **Data Protection Office not yet operationalised
+  (2025-07-31)**. **[[SYC]] Seychelles**'s [[data-protection-act-2023-seychelles]] (enacted **19
+  December 2023**) repealed a **2003** Act "enacted but never implemented," designating the
+  Access-to-Information-Act-constituted [[information-commission-seychelles]] as authority (s.5) —
+  the model TechHive Advisory likens to **[[ZAF]]**'s; its 18-month transition ran from **22
+  December 2023** and **elapsed around 22 June 2025**. Enactment is the easy part; the enforcing
+  institution is the lag. → [[eswatini--gov-protect]], [[seychelles--gov-protect]]. See
+  [[gov.protect]].
+
+- **Francophone lawmaking — Chad drafting, Togo passing (2025).** **[[TCD]] Chad** is
+  **finalising, not enacting**: Minister [[boukar-michel]] announced (**9 Dec 2025**) a digital law
+  to incorporate international standards on cybersecurity, data protection and internet governance —
+  **no text, enactment date or gazette reference is held**. Its National Assembly did approve, on
+  **22 October 2025**, an **ordinance amending the 2014 law** on electronic communications and
+  postal services. **[[TGO]] Togo** legislated for real: the [[togo-aml-law-2025]] (National
+  Assembly, Dec 2025 budget session) **replaces a 2018 statute**, importing updated **[[fatf]]**
+  recommendations and a **2023 [[waemu]]/UEMOA directive**, introducing a **risk-based approach**,
+  extending due diligence to **virtual asset service providers** and strengthening **beneficial
+  ownership** identification — the data-governance hook in an AML instrument. Separately, Togo is
+  **aligning** with WAEMU's **June 2023** consumer-protection directive via a **20–21 March 2025**
+  Lomé stakeholder workshop — **consultation, not an adoption instrument**. See [[gov.protect]],
+  [[gov.standards]], [[gov.regional]], [[dpi.registry]], [[XWA]]. Sources:
+  [[2025-12-10 Chad Finalizes Digital Law to Align National Framework With Global Standards]],
+  [[2025-12-30 Togo Adopts New Law to Strengthen Anti-Money Laundering Rules]],
+  [[2025-03-24 Togo Adopts WAEMU Consumer Protection Framework]].
+
 ## Places
 
-[[XAF]] · [[NGA]] · [[KEN]] · [[XGL]] · [[GHA]] · [[ZAF]] · [[MOZ]] · [[NAM]] · [[RWA]] · [[XSA]] · [[ZMB]] · [[SOM]] · [[COG]] · [[UGA]] · [[MWI]]
+[[XAF]] · [[NGA]] · [[KEN]] · [[XGL]] · [[GHA]] · [[ZAF]] · [[MOZ]] · [[NAM]] · [[RWA]] · [[XSA]] · [[ZMB]] · [[SOM]] · [[COG]] · [[UGA]] · [[MWI]] · [[STP]] · [[SSD]] · [[SLE]] · [[SWZ]] · [[SYC]] · [[TCD]] · [[TGO]] · [[XWA]]
 
 ## Related
 
@@ -222,3 +262,11 @@ localization mandates, and the competition/antitrust angle on cloud concentratio
 - [[2026-05-18 Europe Wrote The World's Most Advanced AI Law. The EU AI Act]]
 - [[2026-05-19 GATEKEEPERS XIV]]
 - [[2026-02-17 Corporate Interests Must Not Co-Opt Africa's AI Moment]]
+- [[2022-03-04 Eswatini Data Protection Act 2022 (Act No. 5 of 2022)]]
+- [[2024-07-22 Risk of human rights infringement as Eswatini rushes to regulate the ICT sector]]
+- [[2025-07-31 Eswatini Economic Update - Digital Transformation Key to Unlocking Growth]]
+- [[2024-06-04 Review of Seychelles DPA]]
+- [[2024-03-25 Data Protection Law Now In Force In Seychelles]]
+- [[2025-12-10 Chad Finalizes Digital Law to Align National Framework With Global Standards]]
+- [[2025-12-30 Togo Adopts New Law to Strengthen Anti-Money Laundering Rules]]
+- [[2025-03-24 Togo Adopts WAEMU Consumer Protection Framework]]

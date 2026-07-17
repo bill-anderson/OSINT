@@ -2,12 +2,12 @@
 type: concept
 title: Other GovTech and e-Gov
 slug: dpi.govtech
-places: [COG, COM, BWA, BFA, BDI, AGO, ZMB, ZAF, XGL, MWI, GHA, NAM, KEN, NGA, UGA, BEN, CIV, MOZ, COD, TZA, RWA, EGY, CMR, CAF, DJI, CPV, DZA, ERI]
-entities: [[smart-zambia-institute], [dzap], [david-eaves], [sita], [ucl-iipp], [dmap], [govguide-nigeria], [meta], [bosun-tijani], [malawi-revenue-authority], [mosip], [uxp-benin], [cybernetica], [kenya-revenue-authority], [nitda], [ngea], [galaxy-backbone], [safaricom], [sars], [sarb], [oneci], [maposte], [la-poste-cote-divoire], [atdi-mozambique], [malawi-ministry-of-ict], [undp], [gtmi], [world-bank], [trident-digital-tech], [rdc-pass], [idea-mpa]]
+places: [COG, COM, BWA, BFA, BDI, AGO, ZMB, ZAF, XGL, MWI, GHA, NAM, KEN, NGA, UGA, BEN, CIV, MOZ, COD, TZA, RWA, SDN, EGY, CMR, CAF, DJI, CPV, DZA, ERI, GIN, STP, SSD, SLE, SWZ, TGO, TCD, SYC]
+entities: [[smart-zambia-institute], [dzap], [david-eaves], [sita], [ucl-iipp], [dmap], [govguide-nigeria], [meta], [bosun-tijani], [malawi-revenue-authority], [mosip], [uxp-benin], [cybernetica], [kenya-revenue-authority], [nitda], [ngea], [galaxy-backbone], [safaricom], [sars], [sarb], [oneci], [maposte], [la-poste-cote-divoire], [atdi-mozambique], [malawi-ministry-of-ict], [undp], [gtmi], [world-bank], [trident-digital-tech], [rdc-pass], [idea-mpa], [government-in-your-hand], [digital-eswatini-project], [services-publics-togo], [otr-togo], [gest-exo], [ministry-of-transport-chad], [registrar-general-office-seychelles]]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-12
-sources: [[2025-09-11 DZAP World Bank PAD], [2025-12-15 The Path to a Sovereign Tech Stack is Via a Commodified Tech Stack  TechPolicy.Press], [2026-07-07 South Africa's state IT agency is slowing government tech rollout], [2025-01-01 dpi_conceptualisation_and_measurement], [2026-07-07 Malawi integrates immigration e-services], [2026-06-20 Ethiopia launches unified MESOB Platform to accelerate national digital transformation], [2026-06-08 Kenya proposes marketplace for State data], [2026-05-18 Eswatini promotes digital transformation project through World Bank engagements], [2026-06-19 Microsoft SA secures digital talent for govt], [2026-06-11 DR Congo to Launch National Digital Identity System RDC-PASS on June 13], [2026-06-18 UAE-Kenya Tech Partnership Gains Momentum as AI Investments Grow], [2026-06-17 Zambia's govt leans towards open-source], [2026-05-22 Nigeria launches GovGuide, an AI chatbot for public service access], [2026-06-03 Malawi reaps digital tax gains], [2026-05-22 Uganda launches prototype program for digital ID and public infrastructure], [2026-07-11 UXP Directory], [2026-07-03 Cybernetica], [2026-04-02 WhatsApp tax filing set to pull millions into Kenya's tax net], [2026-04-07 NITDA Assumes Control Of NGEA Infrastructure], [2026-04-03 Say goodbye to SARS tax numbers in South Africa], [2026-04-02 Safaricom Introduces My OneApp to Simplify Payments, Accounts, and Service Access], [2026-01-19 Ivory Coast Launches MaPoste to Digitize Postal and Administrative Services], [2026-01-08 Zambia unveils online passport application system], [2026-01-23 Zambia begins amending Electronic Government Act], [2026-02-21 Mozambique Launches Digital Government Overhaul, Looking to Kenya and Rwanda as Models], [2026-02-16 Malawi President orders digital revolution], [2026-02-20 Malawi validates AI strategy, digital transformation policy - CAJ News Africa], [2026-01-30 DRC envisages a functional digital government platform by March], [2026-01-26 Tanzania's GovTech success raises bar for East Africa's digital states], [2026-01-13 Cameroon intros digital system for civil documents], [2025-11-09 Behind the speedy MyMzansi screens and the Presidency's race to build a digital government], [2026-01-07 Digital driving licence coming to South Africa]]
+last_reviewed: 2026-07-17
+sources: [[2025-06-28 PID Concept Stage - Digital Eswatini (P508948)], [2025-01-01 ToR - Government in Your Hand Digital Government Implementation Roadmap (Digital Eswatini)], [2025-08-05 Robust DPI inevitable for Eswatini's economic, jobs boom - World Bank], [2025-12-17 Togo Expands Public Service Digitisation With Online Civil Registry Platform], [2025-10-01 Togo Launches Online Platform for Tax Exemptions and Waivers], [2025-09-12 Chad to deploy integrated digital platform for transport services], [2025-02-10 Seychelles Pledges to Modernize Public Services Through Digital Transformation], [2025-09-11 DZAP World Bank PAD], [2025-12-15 The Path to a Sovereign Tech Stack is Via a Commodified Tech Stack  TechPolicy.Press], [2026-07-07 South Africa's state IT agency is slowing government tech rollout], [2025-01-01 dpi_conceptualisation_and_measurement], [2026-07-07 Malawi integrates immigration e-services], [2026-06-20 Ethiopia launches unified MESOB Platform to accelerate national digital transformation], [2026-06-08 Kenya proposes marketplace for State data], [2026-05-18 Eswatini promotes digital transformation project through World Bank engagements], [2026-06-19 Microsoft SA secures digital talent for govt], [2026-06-11 DR Congo to Launch National Digital Identity System RDC-PASS on June 13], [2026-06-18 UAE-Kenya Tech Partnership Gains Momentum as AI Investments Grow], [2026-06-17 Zambia's govt leans towards open-source], [2026-05-22 Nigeria launches GovGuide, an AI chatbot for public service access], [2026-06-03 Malawi reaps digital tax gains], [2026-05-22 Uganda launches prototype program for digital ID and public infrastructure], [2026-07-11 UXP Directory], [2026-07-03 Cybernetica], [2026-04-02 WhatsApp tax filing set to pull millions into Kenya's tax net], [2026-04-07 NITDA Assumes Control Of NGEA Infrastructure], [2026-04-03 Say goodbye to SARS tax numbers in South Africa], [2026-04-02 Safaricom Introduces My OneApp to Simplify Payments, Accounts, and Service Access], [2026-01-19 Ivory Coast Launches MaPoste to Digitize Postal and Administrative Services], [2026-01-08 Zambia unveils online passport application system], [2026-01-23 Zambia begins amending Electronic Government Act], [2026-02-21 Mozambique Launches Digital Government Overhaul, Looking to Kenya and Rwanda as Models], [2026-02-16 Malawi President orders digital revolution], [2026-02-20 Malawi validates AI strategy, digital transformation policy - CAJ News Africa], [2026-01-30 DRC envisages a functional digital government platform by March], [2026-01-26 Tanzania's GovTech success raises bar for East Africa's digital states], [2026-01-13 Cameroon intros digital system for civil documents], [2025-11-09 Behind the speedy MyMzansi screens and the Presidency's race to build a digital government], [2026-01-07 Digital driving licence coming to South Africa]]
 ---
 
 # Other GovTech and e-Gov (`dpi.govtech`)
@@ -178,14 +178,83 @@ Government service delivery online.
   but hampered by low disbursement and weak interministerial coordination (5th steering committee,
   Feb 2026). See [[GAB]]. Source:
   [[2026-01-14-gabon-public-finance-egov-initiatives]].
+- **[[SDN]] Sudan — three digital authorities by decree (2025-11).** Sudan established **three
+  agencies** by decree — digital transformation, data & AI, and cybersecurity — under the
+  **[[ministry-digital-transformation-sudan]]**, pursuing a unified digital system amid conflict
+  (EGDI **0.2759**, 2024). See [[tech.ai]], [[infra.cybersec]], [[SDN]]. Source:
+  [[2025-11-07 Sudan Establishes Three Digital Authorities to Advance E-Govt]].
+- **[[RWA]] Rwanda — the Irembo single-window model (2021).** **[[irembo]]** is Rwanda's
+  single-window e-services platform (25-year PPP model, 100+ services, commission-funded,
+  ~4,000 agents) — the regional reference for citizen service delivery. See [[rwanda--dpi-govtech]].
+  Source: [[2021-06-01 The Irembo model in Rwanda]].
+- **[[STP]] São Tomé and Príncipe — an early e-gov strategy (2020).** São Tomé's **2020 National
+  Strategy for Digital Governance** organises its e-government agenda around nine thematic axes. See
+  [[gov.policy]], [[STP]].
+- **[[SSD]] South Sudan — digitisation by decree (2025-12).** South Sudan issued a **full-digitisation
+  decree** (Dec 2025) setting a **Jan-2026** deadline for government services, from an **EGDI 192/193**
+  (2024) base — ambition far ahead of infrastructure. See [[gov.policy]], [[SSD]].
+- **[[SLE]] Sierra Leone — services digitised, AI-readiness under way (2025).** Sierra Leone reports
+  **~80%** of government services digitised (2025; EGDI 172/193, 2024) and signed a **World Bank AI
+  Readiness** assessment plus a Qhala AI MoU to modernise public services (2025-10). See [[tech.ai]],
+  [[gov.policy]], [[SLE]].
+- **[[SWZ]] Eswatini — a roadmap ahead of an approval (2025).** **[[government-in-your-hand]]** (GIYH) is
+  the intended delivery platform; its roadmap ToR under the **[[digital-eswatini-project]]** covers
+  digital ID, data exchange, social registries, PKI, payments and **~200 services**. Read the status
+  carefully: the project (P508948) is **US$65.16m *proposed***, and the concept-stage PID prints its
+  appraisal (1 Aug 2025) and approval (1 Sep 2025) as ***estimated*** dates — nothing held confirms
+  approval, so this is a pipeline, not a programme. The World Bank's 2025 Eswatini economic update
+  urges a biometric national digital ID for eKYC and G2P payments, interoperability with health,
+  education and social protection, full tax digitisation, an online business registry and
+  e-procurement — noting **>90% of P2B payments were still cash-based (2025-08)**. A **GIYH App
+  launched May 2025 and met data-privacy criticism**, as reported by Biometric Update; no source held
+  covers that launch or the criticism directly. See [[dpi.id]], [[dpi.pay]], [[gov.protect]]. Sources:
+  [[2025-06-28 PID Concept Stage - Digital Eswatini (P508948)]],
+  [[2025-01-01 ToR - Government in Your Hand Digital Government Implementation Roadmap (Digital Eswatini)]],
+  [[2025-08-05 Robust DPI inevitable for Eswatini's economic, jobs boom - World Bank]].
+- **[[TGO]] Togo — civil status online, tax exemptions made mandatory (2025-09 → 2026-01).** Togo routes
+  services through the **Guichet National du Service Public** ([[services-publics-togo]]): online
+  civil-status requests (birth, marriage and death copies, with real-time tracking) announced
+  **15 Dec 2025** across **five pilot communes** — Agoè-Nyivé 1, Golfe 1, Avé 2, Zio 2, Lacs 1 — while
+  the Ministry of Energy added **29 procedures** (CEET, AT2ER, ARSE) and other departments were
+  expected to join from **January 2026**. Separately [[otr-togo]] launched **[[gest-exo]]**
+  (**30 Sept 2025**) for tax exemptions and waivers, auto-integrating with the **SYDONIA/ASYCUDA**
+  customs system and **mandatory from 1 Jan 2026** after a three-month transition — a deadline, not
+  merely a portal. See [[dpi.registry]], [[dpi.exchange]], [[digital.localgov]]. Sources:
+  [[2025-12-17 Togo Expands Public Service Digitisation With Online Civil Registry Platform]],
+  [[2025-10-01 Togo Launches Online Platform for Tax Exemptions and Waivers]].
+- **[[TCD]] Chad — a transport platform still at the planning stage (2025-09).** The Ministry of
+  Transport ([[ministry-of-transport-chad]]) discussed (**9 Sept 2025**) an integrated platform to
+  centralise vehicle registration cards, driver's licences, technical-inspection certificates,
+  transport licences and the mandatory consignment note (*lettre de voiture obligatoire*, LVO) — but
+  **no contract, vendor, budget or timeline is named**: intent, not procurement. The baseline it works
+  from: Chad ranked **189th of 193 on the UN EGDI, score 0.1785 (2024 index)**, against an African
+  average of 0.4247 and a global 0.6382 — a reference-index figure, cited not absorbed. See
+  [[dpi.registry]], [[TCD]]. Source:
+  [[2025-09-12 Chad to deploy integrated digital platform for transport services]].
+- **[[SYC]] Seychelles — registry digitalisation, reforms unspecified (2025-02).** President Wavel
+  Ramkalawan toured the **[[registrar-general-office-seychelles|Registrar General's Office]]**
+  (**7 Feb 2025**), praising digitalisation of Business Registration and Intellectual Property and
+  announcing **unspecified** legislative reforms to support modernised operations — a commitment
+  without a named instrument. Seychelles ranked **92nd of 193 on the UN EGDI, 0.6773 (2024 index)**,
+  among Africa's stronger performers; again a reference-index figure, not current state. See
+  [[dpi.registry]], [[SYC]]. Source:
+  [[2025-02-10 Seychelles Pledges to Modernize Public Services Through Digital Transformation]].
 
 ## Places
 
 [[ZMB]] · [[ZAF]] · [[XGL]] · [[MWI]] · [[GHA]] · [[NAM]] · [[KEN]] · [[NGA]] · [[UGA]] · [[BEN]] ·
-[[CIV]] · [[MOZ]] · [[COD]] · [[TZA]] · [[RWA]] · [[EGY]] · [[CMR]] · [[CAF]] · [[GAB]]
+[[CIV]] · [[MOZ]] · [[COD]] · [[TZA]] · [[RWA]] · [[SDN]] · [[EGY]] · [[CMR]] · [[CAF]] · [[GAB]] ·
+[[STP]] · [[SSD]] · [[SLE]] · [[SWZ]] · [[TGO]] · [[TCD]] · [[SYC]]
 
 ## Sources
 
+- [[2025-06-28 PID Concept Stage - Digital Eswatini (P508948)]]
+- [[2025-01-01 ToR - Government in Your Hand Digital Government Implementation Roadmap (Digital Eswatini)]]
+- [[2025-08-05 Robust DPI inevitable for Eswatini's economic, jobs boom - World Bank]]
+- [[2025-12-17 Togo Expands Public Service Digitisation With Online Civil Registry Platform]]
+- [[2025-10-01 Togo Launches Online Platform for Tax Exemptions and Waivers]]
+- [[2025-09-12 Chad to deploy integrated digital platform for transport services]]
+- [[2025-02-10 Seychelles Pledges to Modernize Public Services Through Digital Transformation]]
 - [[2026-01-14-gabon-public-finance-egov-initiatives]]
 - [[2025-09-11 DZAP World Bank PAD]]
 - [[2025-12-15 The Path to a Sovereign Tech Stack is Via a Commodified Tech Stack  TechPolicy.Press]]
@@ -219,3 +288,5 @@ Government service delivery online.
 - [[2026-01-13 Cameroon intros digital system for civil documents]]
 - [[2025-11-09 Behind the speedy MyMzansi screens and the Presidency's race to build a digital government]]
 - [[2026-01-07 Digital driving licence coming to South Africa]]
+- [[2025-11-07 Sudan Establishes Three Digital Authorities to Advance E-Govt]]
+- [[2021-06-01 The Irembo model in Rwanda]]

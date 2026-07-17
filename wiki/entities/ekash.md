@@ -7,7 +7,7 @@ topics: [dpi.pay, dpi.exchange, include.access]
 lens: []
 status: active
 last_reviewed: 2026-07-14
-sources: [[2025-12-05 From Access to Empowerment Introducing Rwanda's Instant Payment System — eKash], [2026-07-13 Rwanda's eKash System Achieves Full Interoperability for Digital Payments]]
+sources: [[2025-12-05 From Access to Empowerment Introducing Rwanda's Instant Payment System — eKash], [2026-07-13 Rwanda's eKash System Achieves Full Interoperability for Digital Payments], [2025-03-10 Powering Rwanda's Payments Future How Mojaloop Enables RNDPS 2.0 and eKash]]
 ---
 
 # eKash (Rwanda instant payment system)
@@ -18,6 +18,17 @@ launched on 5 December 2025**. eKash connects banks and mobile-money wallets
 into a single interoperable rail, succeeding the bank-to-bank RIPPS as the
 consumer-facing instant-payments layer of Rwanda's DPI (see
 [[rwanda-dpi-strategy]]).
+
+eKash is the **consumer brand of RNDPS 2.0** — the second generation of Rwanda's
+National Digital Payment System. RNDPS 2.0 was **launched onstage on 27 Feb 2025** at
+the Inclusive Fintech Forum (Minister [[paula-ingabire]], BNR Governor John Rwangombwa,
+RSwitch, RISA), then given its official consumer launch in Dec 2025. Unlike RNDPS 1.0
+(a different switch), **RNDPS 2.0 is built on [[mojaloop]]** — the open-source DPG
+provides the core switching infrastructure — adding **P2M and P2B** payments and
+prioritising **integration of SACCOs and MFIs**. Implementation was led by
+**[[rswitch-rwanda]]** with Rwandan systems integrator **WiredIn** (a Mojaloop
+Accelerator graduate) and support from the Mojaloop Foundation. Source:
+[[2025-03-10 Powering Rwanda's Payments Future How Mojaloop Enables RNDPS 2.0 and eKash]].
 
 ## Full interoperability (effective 2026-07-14)
 
@@ -58,3 +69,4 @@ Source: [[2026-07-13 Rwanda's eKash System Achieves Full Interoperability for Di
 
 - [[2025-12-05 From Access to Empowerment Introducing Rwanda's Instant Payment System — eKash]]
 - [[2026-07-13 Rwanda's eKash System Achieves Full Interoperability for Digital Payments]]
+- [[2025-03-10 Powering Rwanda's Payments Future How Mojaloop Enables RNDPS 2.0 and eKash]]

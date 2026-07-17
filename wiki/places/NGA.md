@@ -162,6 +162,11 @@ last_reviewed: 2026-07-16
 
 _Full dated chronology (2025–mid-2026) lives in the linked source pages and the topic intersections below; only load-bearing anchors are kept here._
 
+- **2025-02-12** — FG makes the **NIN mandatory** for social services and palliatives (ID4D inter-ministerial retreat). [[2025-02-12 FG mandates use of NIN for social services and interventions (Guardian)]] · [[nigeria--dpi-id]]
+- **2025-07-01** — **[[mtn-sifiso-dabengwa-data-centre]]** launched ($235m Tier III, naira-priced cloud) — Lagos DC build-out anchor. [[2025-07-01 MTN launches West Africa's largest Tier III data centre with cloud services (Techpoint)]] · [[nigeria--infra-store]]
+- **2025-08-25** — **[[ngdx]]** Nigeria Data Exchange unveiled (NITDA + EU/Finland/Estonia); end-2025 operational target. [[2025-08-28 Nigeria to launch National Data Exchange (NGDX) platform to boost digital economy]] · [[nigeria--dpi-exchange]]
+- **2025-11** — **[[e-crvs-nigeria]]** birth/death registration launched ([[npc-nigeria]]); 14m births in 2yr (UNICEF, Feb 2026). [[2026-02-20 UNICEF records 14 million Nigeria birth registrations in two years]] · [[dpi.registry]]
+- **2025-11-28** — **ENBIC** ECOWAS biometric ID card rolled out, replacing the paper travel certificate. [[2025-11-28 Nigeria Unveils ECOWAS ID Card To Boost Regional Travel, Security]] · [[enbic]]
 - **2025-11-07** — NIBSS executes the first live transaction on its **ISO 20022 National Payment Stack**; NIP later rated "Mature" by AfricaNenda. [[2026-02-02 How Strategic  Shift of NIBSS Is  Rewiring Nigeria's Payments System]] · [[national-payment-stack]]
 - **2026-02-06** — CBN **fintech blueprint** (Single Regulatory Window, Responsible-AI Hub, regulatory passporting with Ghana/Kenya/Senegal/SA). [[2026-02-06 Nigeria just raised the bar for West African Fintech]] · [[cbn-policy-insight-series-2025]]
 - **2026-03-19** — Nigeria's **$5.1bn US health MOU** (America First Global Health Strategy) bundles data-sharing and 10-yr US access. [[2026-03-19 African Digital Health Data Is a Condition of Global Health Funding]] · [[geopol.usa]]
@@ -176,10 +181,12 @@ _Full dated chronology (2025–mid-2026) lives in the linked source pages and th
 
 ## Active topics
 
-- [[infra.store]] · [[infra.energy]] — Lagos data-centre cluster (~20+ facilities), diesel/grid
+- [[infra.store]] · [[infra.energy]] — Lagos data-centre cluster (~20+ facilities): **[[mtn-sifiso-dabengwa-data-centre]]**
+  ($235m, 4.5→9–14MW, naira-priced cloud), **[[airtel-nxtra-eko-atlantic-data-centre]]** (38MW GPU/AI,
+  Q1 2026), **[[digital-realty]]** LKK2 (Lekki, 2MW), **[[oadc]]** Lagos → 24MW by 2027; diesel/grid
   power penalty (Kasi Cloud; GITEX "grid-first can't be the strategy"; hydropower co-location pilot),
   the CBN-driven localization test ([[nigeria--gov-protect]]), and why hyperscalers run no full cloud
-  region in Nigeria; MTN AI-DC bet (SA + Lagos Dabengwa → 14–20MW). Full case: [[nigeria--infra-store]].
+  region in Nigeria. Full case: [[nigeria--infra-store]].
 - [[infra.connect]] · [[infra.capacity]] · [[digital.rural]] — 8 subsea cables + Orange
   **[[via-africa-cable]]** + the **[[nigeria-eqguinea-subsea-cable]]** (Backbone Connectivity);
   **[[nucap]]** rural towers (China Industrial Bank); NCC's 12,000-site upgrade; **[[nigcomsat]]**
@@ -190,13 +197,20 @@ _Full dated chronology (2025–mid-2026) lives in the linked source pages and th
   **NITDA digital-sovereignty doctrine** ([[kashifu-inuwa]]); Abuja/Lagos Chinese surveillance
   ([[zte]], [[hikvision]]); Nigeria's $5.1bn US health-data MOU; **[[fccpc]]** big-tech
   news-content probe (**[[meta]]**/**[[google]]**/**[[x-corp]]**, ordered by **[[bola-tinubu]]**);
-  **[[digital-rights-lawyers-initiative]]** v **[[inec]]** privacy-policy suit.
-- [[dpi.id]] · [[dpi.registry]] — NIN (136M → 180M target); NIMC Act; ID4D financing;
+  **[[digital-rights-lawyers-initiative]]** v **[[inec]]** privacy-policy suit; **[[itu]]** Global
+  Cybersecurity Index 2024 places Nigeria in **tier-3** (strongest on legal, 19.52/20).
+- [[dpi.id]] · [[dpi.registry]] — NIN (136M → 180M target; 123.9M Oct 2025, 56/44 M/F); NIMC Act;
+  ID4D financing ([[world-bank]] restructuring → 180M/June-2026); **[[ninauth]]** authentication
+  layer; **[[enbic]]** (ENBIC, rolled out Nov 2025);
+  **[[e-crvs-nigeria]]** birth/death registration ([[npc-nigeria]]; 14m births/2yr, UNICEF Feb 2026);
   database-integrity/fraud clean-up; NIN-suspension accountability; **rural gender gap** (38.8%
   women, 22.3-pt gap; Niger State) ([[nigeria--dpi-id]]).
-- [[dpi.govtech]] · [[dpi.exchange]] — **[[govguide-nigeria]]** multilingual public-service AI chatbot;
-  **[[ngea]]** enterprise architecture (NITDA/KOICA/[[galaxy-backbone]]) for MDA interoperability;
-  national-domain sovereignty — **[[nira-nigeria]]** and low **.ng** adoption.
+- [[dpi.govtech]] · [[dpi.exchange]] — **[[ngdx]]** Nigeria Data Exchange (NITDA, unveiled Aug 2025
+  with EU/Finland/Estonia; end-2025 operational target) to break the **eight siloed databases**;
+  **[[govguide-nigeria]]** multilingual public-service AI chatbot; **[[ngea]]** enterprise
+  architecture (NITDA/KOICA/[[galaxy-backbone]]) for MDA interoperability; DPI-for-tax at
+  subnational level (ICTD); national-domain sovereignty — **[[nira-nigeria]]** and low **.ng**
+  adoption. Full case: [[nigeria--dpi-exchange]].
 - [[tech.ai]] · [[tech.innovate]] · [[capacity.research]] · [[capacity.training]] — compute-cost
   exclusion; AI-sovereignty push and US-tech dependence; US–China AI-stack contest (DeepSeek gaining
   Nigerian users); **[[teknowledge]]–[[microsoft]]** Phase 2 (10,000 trainees); frugal-AI overtures
@@ -209,7 +223,9 @@ _Full dated chronology (2025–mid-2026) lives in the linked source pages and th
   (**[[national-payment-stack]]**, ISO 20022; first live txn Nov 2025) and **[[papsscard]]**;
   a reported PAPSS line −53% in H1'25 (a narrow CBN metric, not total throughput; REV-002 resolved). Full case: [[nigeria--dpi-pay]].
 - [[dpi.mis]] · [[data.statistics]] — US $5.1bn health-data MOU (AFGHS); UNECA call to fund national
-  statistics offices; **[[dnemis-nigeria]]** national education MIS (DHIS2; data-sovereignty framing).
+  statistics offices; **[[dnemis-nigeria]]** national education MIS (DHIS2; data-sovereignty framing);
+  **[[e-crvs-nigeria]]** civil registration ([[npc-nigeria]]) as a vital-statistics source amid the
+  census gap.
 - [[gov.regional]] · [[tech.industry]] — AfCFTA cross-border data; Nigeria's Council Bureau Chair and
   the **[[afcfta-digital-trade-protocol]]**; UNECA/ECA sovereignty roundtable.
 
@@ -219,6 +235,7 @@ _Full dated chronology (2025–mid-2026) lives in the linked source pages and th
 - [[cassava-ai-factories]] · [[africa-data-centres]] · [[cassava-technologies]] · [[liquid-c2]] · [[kasi-cloud]] · [[nsia]]
 - [[fccpc]] · [[govguide-nigeria]] · [[orange]] · [[via-africa-cable]] · [[backbone-connectivity-network-nigeria]] · [[nigeria-eqguinea-subsea-cable]] · [[nucap]] · [[nigcomsat]]
 - **New this batch:** [[nibss]] · [[national-payment-stack]] · [[papsscard]] · [[mtn-nigeria]] · [[amazon-leo]] · [[nira-nigeria]] · [[inec]] · [[digital-rights-lawyers-initiative]] · [[x-corp]] · [[bola-tinubu]] · [[federal-ministry-education-nigeria]] · [[dnemis-nigeria]] · [[dl4all-nitda]]
+- **New this batch (2026-07-16 NGA ingest):** [[ngdx]] · [[ninauth]] · [[enbic]] · [[npc-nigeria]] · [[e-crvs-nigeria]] · [[mtn-sifiso-dabengwa-data-centre]] · [[airtel-nxtra-eko-atlantic-data-centre]] · [[oadc]] · [[nigeria--dpi-exchange]]
 - [[nitda]] · [[kashifu-inuwa]] · [[ngea]] · [[galaxy-backbone]] · [[ndpc]] · [[ncc]] · [[bosun-tijani]] · [[meta]] · [[ndpc-meta-settlement]]
 - [[google]] · [[google-ai-research-foundations]] · [[google-deepmind]] · [[hustle-academy]] · [[taslim-okunola]] · [[microsoft]] · [[teknowledge]] · [[deepseek]] · [[nvidia]]
 - [[zte]] · [[hikvision]] · [[huawei]] — Abuja/Lagos surveillance network (China Exim-financed)

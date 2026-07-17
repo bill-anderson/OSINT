@@ -6,8 +6,8 @@ places: [MWI]
 topics: [dpi.id, dpi.registry, dpi.govtech, gov.legislate]
 lens: []
 status: active
-last_reviewed: 2026-07-14
-sources: [[2026-07-13 Malawi reaches 13.5M digital IDs as universal coverage comes into view], [2026-07-13 Malawi outlines plans to transition to digital IDs - CAJ News Africa]]
+last_reviewed: 2026-07-16
+sources: [[2026-07-13 Malawi reaches 13.5M digital IDs as universal coverage comes into view], [2026-07-13 Malawi outlines plans to transition to digital IDs - CAJ News Africa], [2026-02-04 10 years of a fruitful partnership with the Government of Malawi on civil registration], [2025-05-28 Malawi nears full scale digital ID rollout to streamline access to services], [2025-05-21 NRB to roll out digital ID by 2026], [2024-05-14 Malawi on path to inclusion with digital ID project supported by EU, UNDP]]
 ---
 
 # National Registration Bureau (Malawi)
@@ -38,9 +38,22 @@ services already onboarded to the **Bomalathu** single digital-services platform
   [[dpi.govtech]], [[gov.legislate]]. Source:
   [[2026-07-13 Malawi outlines plans to transition to digital IDs - CAJ News Africa]].
 
+- **Mass birth-registration campaign (2026-02).** With the **EU** (a 10-year civil-registration
+  partnership begun 2016), Norway, Ireland and **[[undp]]**, the NRB launched phase 1 of a **mass birth-
+  registration campaign** to register **4.6m children** and close the gap to universal coverage — after
+  achieving **full adult registration in 2024**. The national ID already anchors voter registration, social-
+  protection targeting and payroll. See [[dpi.registry]], [[include.access]]. Source:
+  [[2026-02-04 10 years of a fruitful partnership with the Government of Malawi on civil registration]].
+- **ID4Africa 2025 milestone; IDT4M.** At the ID4Africa 2025 AGM the NRB reported **~12.5m** enrolled and a
+  planned full digital-ID (wallet) rollout by 2026; the drive is supported by the EU/UNDP
+  **[[idt4m]]** programme (€10m to the registration foundation). Sources:
+  [[2025-05-28 Malawi nears full scale digital ID rollout to streamline access to services]],
+  [[2025-05-21 NRB to roll out digital ID by 2026]],
+  [[2024-05-14 Malawi on path to inclusion with digital ID project supported by EU, UNDP]].
+
 ## Related
 
-- [[dmap]] · [[world-bank]] · [[undp]] · [[malawi--dpi-id]] · [[malawi-ministry-of-ict]]
+- [[dmap]] · [[world-bank]] · [[undp]] · [[idt4m]] · [[malawi--dpi-id]] · [[malawi-ministry-of-ict]] · [[macra-malawi]]
 
 ## Sources
 

@@ -3138,3 +3138,673 @@ vendor-role disambiguation IN Groupe vs Thales + Visa digital-ID leg reported se
 primary evidence of the project's **chronic under-execution** (effective only Jul 2024 after a
 ~3-year delay; **1.92% disbursed** by Dec 2024) — recorded as the through-line behind Gabon's 2026
 acceleration push, not smoothed over.
+
+---
+
+## 2026-07-16 — Ghana batch ingest
+
+**Intake:** drained `new/` (22 items → 0). **Sources admitted (21):** 15 markdown clips + 6 PDF
+companion source pages. **Leads parked (1):** the eaglebadger.com "Digital ID Systems: Lessons from
+Ghana's Success Story" comparative analysis (second-hand/aggregated synthesis, author "Data Analytics
+Team") → `_leads/2025-07-01 …` (inadmissible; its cited primaries — Ghana DP/NIA/NIR Acts, WB ID4D —
+noted for separate sourcing, and conflicting statute dates flagged GAP-GHA-002). **Discards:** none.
+**Artefacts:** 7 PDFs moved to `raw/` with published-date prefixes; each has a date-matched companion
+source page carrying `artefact:` frontmatter.
+
+**Filenames:** all clips re-prefixed from the clip date (2026-07-15/16) to true **published** dates
+(2024-07 → 2026-01). Four PDFs dated by proxy (`date_source: proxy`): Payment Systems Report 2023
+(2024, year), NCA Q2-2024 bulletin (2024-09, month), DIAL case study (2024, year), Lands Commission
+cadastral deck (2023, year); digital-health policy & integration study self-dated (source).
+
+**Entities created (10):** government bodies — [[national-identification-authority-ghana]] (central; ~8
+sources), [[data-protection-commission-ghana]], [[national-communications-authority-ghana]],
+[[ghana-health-service]], [[lands-commission-ghana]]; company — [[digital-realty]]; initiatives —
+[[ghana-national-data-strategy]], [[leap-ghana]]; instrument — [[ghana-digital-health-policy-2023-2027]];
+deal — [[onafriq-papss-ghana-launch]]. **Entities updated (10):** [[ghana-card]] (dated coverage
+trajectory 17.56m→19.2m; mandatory-banking; NIA operations; SIM link), [[bank-of-ghana]] (guidance
+note, Onafriq–PAPSS pilot, FY2023 payment stats), [[margins-id-group]] (SIM-online at ICPS),
+[[onafriq]], [[papss]], [[afreximbank]] (Ghana launch), [[gsma]] (+GHA, Digital Africa Summit report),
+[[smart-africa]] (National Data Strategy), [[samuel-nartey-george]] (SIM framework), [[2africa-cable]]
+(ACR2 anchor).
+
+**Editorial actions (auto, itemised):**
+- **Intersections expanded (2):** [[ghana--dpi-id]] (330w → full NIA/coverage/SIM/mandatory-ID
+  synthesis, +7 sources) and [[ghana--dpi-pay]] (+Onafriq–PAPSS, LEAP G2P, MoMo scale/fraud, +5
+  sources). No new intersections minted (ID/pay material folded into the two existing ones;
+  data-centre/digital-health/land below the standalone-intersection materiality bar — kept on
+  concept/hub).
+- **Place hub [[GHA]]** — Recent developments +~11 dated entries (Jan-2026 BoG banking mandate; LEAP;
+  Digital Realty ACR2; NIA Sept cluster; GSMA report; Onafriq–PAPSS; NIA May cluster; SIM-online;
+  ID critique) + one consolidated **"Baselines & institutional map (2023-2024)"** entry folding the 8
+  reference/backgrounder sources (kept as one dense line, not 8 log entries, per page hygiene).
+  Active-topics rebuilt; Entities block expanded (NIA/DPC/NCA/GHS/Lands/Digital Realty/LEAP/DIAL/…);
+  frontmatter topics +geopol.usa, dpi.registry, dpi.govtech, gov.protect, include.access,
+  digital.rural, digital.localgov, data.satellite.
+- **Concept pages updated (5, terse link-outs to avoid bloating near-threshold pages):** infra.store
+  (Digital Realty ACR2), dpi.mis (digital-health policy), dpi.registry (CRVS + land digitalization),
+  dpi.exchange (DIAL eGIF/Ghana.gov), include.divides (GSMA usage gap + rural school study).
+- **Indexes:** entities-index (+10 rows across Companies/Government bodies/Initiatives/Deals/
+  Instruments), places-index (GHA row rebuilt with entity pointers), topics-index (GHA added to
+  dpi.registry; both Ghana intersection descriptions refreshed).
+
+**Dedup:** the 2025-09-08 (Biometric Update) and 2025-09-09 (Ecofin) SIM-framework reports = same
+event → both filed as sources, attached to the same pages (NIA/SNG/ghana--dpi-id), no parallel pages.
+
+**Currency:** Ghana Card coverage recorded as a **dated trajectory** (17.56m Oct-2023 → 19.2m early-2026),
+older figures kept as baselines, newest (19.2m / 262 institutions) as current — no overwrite. The Sep-2025
+"95 institutions (real-time auth)" vs early-2026 "262 institutions" recorded as dated, likely different
+metrics (not raised as a contradiction). Reference statistical reports (BoG Payments 2023, NCA Q2-2024)
+cited, not promoted to synthesis pages.
+
+**Registers:** **GAP-003** Ghana-DPC portion resolved (DPC entity created; 2025 DP Bill primary still
+to source). **Gaps added (3):** GAP-GHA-001 (GhIPSS no page), GAP-GHA-002 (NIA statutory basis
+single-sourced / date conflict), GAP-GHA-003 (NITA/CSA/GIFEC under-hubbed). No contradictions, no
+issues.
+
+**Flag (currency/precision):** 4 proxy dates added (above), all `date_source: proxy` with the
+uncertainty stated on the companion pages. The Integration-study and headteacher-study findings rest
+on small, skewed samples (n=104 tertiary-skewed; n=200 single-municipality) — noted as indicative on
+their source pages.
+
+---
+
+## 2026-07-16 — Guinea batch ingest
+
+**Intake:** drained `new/` (20 items → 0). **Sources admitted (20):** 18 markdown clips + 2 PDF
+companion source pages (WB WURI ISR; RSU social-registry presentation). **Leads parked:** none.
+**Discards:** none. **Artefacts:** 2 PDFs moved to `raw/` with published-date prefixes + date-matched
+companion pages (`artefact:` frontmatter). All clips re-prefixed from clip date (2026-07-15/16) to true
+**published** dates (2023-08 → 2026-03). Two proxy dates: RSU deck (2025, year) and — the WURI ISR
+dated to its archival date (2025-05-02, source).
+
+**New place hub:** **[[GIN]] Guinea rebuilt from a one-line stub** (submarine-cable landing only) into a
+full hub — reverse-chron Recent developments (15 dated entries) + Active-topics + Entities; frontmatter
+topics 1 → 19.
+
+**Entities created (12):** gov bodies — [[bcrg]], [[ministry-digital-economy-guinea]], [[oneci-guinea]],
+[[arpt-guinea]]; initiatives — [[simandou-2040]], [[transform-africa-summit-2025]], [[fugas]],
+[[telemo]], [[tresor-pay]], [[rsu-guinea]]; resource — [[guinea-national-data-centre]]; person —
+[[rose-pola-pricemou]]. **Entities updated (6):** [[wuri-programme]] (+GIN/CIV; Guinea early closure
+28-Jun-2024, ~8,000 IDs, Oct-2023 ID-law caution), [[smart-africa]] (+GIN; TAS 2025 host, SANIA, 42
+members, ARPT/CAR chair), [[visa]] (+GIN; TAS Smart Africa MoU), [[mosip]] (+GIN), [[tech5]] (+GIN).
+
+**Editorial actions (auto, itemised):**
+- **Intersections created (2):** [[guinea--dpi-id]] (WURI exit → domestic MOSIP/TECH5 civil registry +
+  national ID via ONECI, RAVEC, FUGAS payroll, RSU — 5 sources) and [[guinea--dpi-pay]] (cash-preference
+  crisis; BCRG Mojaloop SPI, M-Pesa-style merchant system, Trésor Pay — 4 sources). Both clear the
+  materiality bar; other threads (infra, TAS, govtech, health) kept on hub/entities.
+- **Concept pages updated (10, terse):** dpi.id & dpi.pay (By-place bullets + intersections),
+  dpi.registry (civil registry/RAVEC/RSU/cadastre), infra.store (Tier III DC), infra.connect (200 Gbps
+  backbone/GIGA), gov.regional (TAS host/CAR chair); GIN added to `places` frontmatter on those plus
+  dpi.govtech, dpi.mis, include.access; topics-index GIN added to ~14 topic lists.
+- **Indexes:** entities-index (+12 rows), places-index (GIN row rebuilt from "stub"), topics-index (GIN
+  added across topic lists + 2 Guinea intersection lines).
+
+**Dedup (clusters, each event filed once, multiple outlets attached):** FUGAS launch (Ecofin 2025-11-30
++ Biometric Update 2025-12-03); Tier III data centre / .gn (Ecofin 2025-09-04 + TechAfrica 2025-09-05);
+BCRG SPI 18-Dec workshop (WeAreTech 2025-12-22 + Ecofin 2025-12-21); Transform Africa Summit 2025 (Smart
+Africa opening 2025-11-13 + closing 2025-11-19).
+
+**Currency/analysis:** Guinea's low base recorded honestly (26.5% internet penetration, ~23% banked,
+45-60% birth-registration) so the ambitious 2025 milestones aren't read as outcomes. The **WURI early
+closure** (~8,000 IDs) is kept as the pivot point behind the domestic MOSIP/TECH5 path, and the ISR's
+caution on Guinea's Oct-2023 ID law is preserved, not smoothed.
+
+**Registers:** **Gaps added (2):** GAP-GIN-001 (ANDE/ANSSI/ANSUTEN agency architecture under-hubbed),
+GAP-GIN-002 (SNIS health-information-system has no entity page). No contradictions, no issues.
+
+**Flag (precision):** 2 proxy/low-precision dates (RSU year; WURI ISR archival date). The RSU and the
+Smart Africa "Get to know Guinea" backgrounder are establishing/promotional in tone — captured as
+profile/reference, not event reporting.
+
+---
+
+## 2026-07-16 — Four-country batch (GNQ · GNB · GMB · KEN)
+
+**Intake:** drained `new/` (77 items → 0), processed as four sequential country sub-batches. **Sources
+admitted (77):** 63 markdown clips + 14 PDF/docx companion source pages. **Leads parked:** none.
+**Discards:** none. All clips re-prefixed from clip date to true **published** dates (2018 → 2026);
+artefacts moved to `raw/` with date prefixes + companion pages (several year/month proxies flagged).
+
+**Equatorial Guinea (GNQ)** — hub rebuilt from a subsea-cable stub into a full hub (nascent, oil-dependent
+digital economy; no digital ID yet, no licensed mobile-money operator). Entities (3): [[cnedoge]] (DIP/
+passport issuer), [[adige]] (digital agenda / AGENDA 2035), [[equatorial-guinea-digital-economy-diagnostic]].
+Updated [[dhis2]] (+GNQ malaria eLMIS, Bioko).
+
+**Guinea-Bissau (GNB)** — **new hub created from scratch** (least-connected; donor-driven civil-registry/ID
+build; ENTD.GW strategy; no national backbone). Entities (5): [[sirec]], [[entd-gw]], [[semlex]], [[enbic]],
+[[guinea-bissau-digital-economy-diagnostic]]. Intersection [[guinea-bissau--dpi-id]] created.
+
+**The Gambia (GMB)** — hub expanded (eCRVS unique-national-ID backbone; Mojaloop instant switch; social
+registry; data-protection law). Entities (7): [[gamswitch]] (BANTABA 2.0), [[yonna-wallet]],
+[[gambia-social-registry]], [[gambia-data-protection-act-2025]], [[gambia-national-digital-id-strategy]],
+[[gambia-national-digital-economy-masterplan]], [[gicta]]. Intersection [[gambia--dpi-pay]] created.
+Updated [[margins-id-group]]/[[gambia-national-id-contract]] (MIDSA corroboration), [[mojaloop]] (+GMB/GIN),
+[[dhis2]] (+GMB health/education).
+
+**Kenya (KEN)** — mature hub; batch mostly backfilled/corroborated existing threads (kept hub growth
+bounded via one consolidated block). Entities (7): [[maisha-namba]] (central digital-ID initiative,
+finally hubbed), [[social-health-authority-kenya]], [[ardhisasa]], [[kenya-dpi-roadmap]], [[inua-jamii]],
+[[kenya-national-digital-masterplan]], [[i-cemac]] (continental/CEMAC). Intersection [[kenya--dpi-id]]
+expanded with the Maisha Namba governance/exclusion material. Updated [[microsoft-g42-kenya-datacenter]]
+(founding $1bn announcement backfill + Semafor US-China framing), [[pesalink]] (Afreximbank primary +
+SIIPS 2022), [[afrilabs]] (dedup: the "18 new hubs / 496 total" event folded into the held source).
+
+**Dedup:** AfriLabs "18 new hubs" (my clip = existing 2024-08-22 event); Margins/Gambia ID (2026-01-22 =
+held 2026-01-20 contract); Microsoft-G42 announcement (2024-05 ×2, same event); Pesalink-PAPSS (Afreximbank
+primary vs held reporting); FUGAS/SPI/TAS/data-centre clusters within countries. Two clips reclassified
+mid-batch from Gambia to **Kenya** (civil-registration bill; refugee-ID SIM regs).
+
+**Currency/analysis:** low bases recorded honestly (GNQ 45% mobile / GNB 32.5% internet / GMB 45.9% /
+KEN 48%); statistical/reference reports (CBK AR/KEPSS, WB diagnostics, DataReportal) cited, not absorbed.
+Kenya's Maisha Namba kept as a **contested** programme (adoption budget vs Temple iLIT / Amnesty / HRRC
+exclusion findings), not smoothed into a success story.
+
+**Registers:** **Gaps added (3):** GAP-GNQ-001 (GITGE no page), GAP-GMB-001 (Central Bank of The Gambia /
+GRA no pages), GAP-KEN-001 (IPRS / NPSIMS govtech systems no pages). No contradictions, no issues.
+
+**Flag (precision):** multiple year/month proxy dates on reference PDFs (WB diagnostics, national strategies,
+CBK AR) — all `date_source: proxy` with the uncertainty stated on companion pages. The Semlex GNB item is a
+vendor announcement (flagged for verification); the HRRC/Amnesty Kenya ID pieces are advocacy analyses,
+tagged as such.
+
+---
+
+## 2026-07-16 — Four-country batch (LBR · LBY · LSO · MAR)
+
+**Intake:** drained `new/` (70 items → 0), processed as four sequential country sub-batches + continental.
+**Sources admitted (70):** 54 markdown clips + 16 PDF/docx companion source pages. **Leads parked:** none.
+**Discards:** none. All clips re-prefixed to true published dates (2016 → 2026); artefacts moved with date
+prefixes + companion pages (many year/month proxies flagged).
+
+**Liberia (LBR)** — hub gained a **national-ID-crisis** thread: [[national-identification-registry-liberia|NIR]]
+(EO 147 mandatory NBIS; ~14% coverage; $5 fee) stalled by a **procurement scandal** (rejected restricted-bid
+award to Austria's OSD → issuance suspension), funded by the [[great-project-liberia|GREAT]] WB project, all
+without a data-protection authority. Entities (2): NIR, GREAT. Intersection [[liberia--dpi-id]] created.
+
+**Libya (LBY)** — **new hub created from scratch** (digital transformation despite an east-west political
+split). Entities (5): [[central-bank-of-libya]] (payments boom, Ratebk Lahzi payroll), [[gia-libya]] (data
+governance/LY-GOVREP), [[gaci-libya]] (root servers/sovereignty), [[civil-registry-authority-libya]]
+(National ID Number, Intilaqa, breach warnings), [[libya-unified-social-registry]].
+
+**Lesotho (LSO)** — hub expanded: [[leswitch]] national payment switch (POS/ATM localization),
+[[lesotho-national-id]] (digital birth registration, Ntlafatsa Bana), [[lesotho-digital-transformation-strategy]]
+(Agenda 2030 + Digital Policy; 50-in-5); NISSA updated. Entities (3).
+
+**Morocco (MAR)** — hub rebuilt into a full DPI hub (Africa's most advanced: 92% internet, ITU Tier 1, EGDI
+90th). Entities (7): [[digital-morocco-2030]], [[dgsn-morocco]] (4.6m e-IDs), [[add-morocco]] (chairs Smart
+Africa CAITA), [[mon-e-id]] wallet, [[idarati-x0]] e-gov platform, [[digital-x0-law]] (AI/data/ID),
+[[morocco-national-population-registry]] (RNP/RSU, Law 72-18, WB $70m). Intersection [[morocco--dpi-id]]
+created. Company [[idakto]].
+
+**Continental:** [[biometric-digital-id-in-africa]] (10-country reference volume, Sesan & Roberts, Dec 2025);
+[[smart-africa]] updated (+MAR; Africa's first Cross-Border Data Exchange Guidelines, Rabat/CAITA); AfriLabs
+"18 hubs" folded (prior batch had established the entity). Al Itissan (Libyan ID vendor) → Niger contract
+cross-linked to [[NER]].
+
+**Dedup:** Liberia EO-147 (ID Tech + Biometric Update, same order); Morocco Digital X.0 (CADE + Biometric
+Update); Morocco Idarati X.0 + iDakto/ShareID (same Feb-2026 launch); LeSwitch (2024 press release + 2025 POS
+update). **Cross-region signal:** the ITU GCI 2024 places Morocco Tier 1 and Libya third-tier (recorded on
+both hubs).
+
+**Currency/analysis:** low bases kept honest (LBR 32.4% internet, ~14% ID coverage; LBY/LSO baselines) vs
+Morocco's high penetration. Reference reports (WB diagnostics/DPFs, DataReportal, CBK/CBL/GovTech studies)
+cited, not absorbed. Liberia's ID programme kept as a **cautionary case** (mandate + crisis), not a success
+story; Libya's payroll/civil-registry reforms recorded with their **east-west politicization**, not smoothed.
+
+**Registers:** **Gaps added (4):** GAP-LBR-001 (no data-protection authority/law), GAP-LBY-001 (HNEC / Libyan
+Tax Authority / Commercial Registry Authority under-hubbed), GAP-LSO-001 (Central Bank of Lesotho / Revenue
+Services Lesotho no pages), GAP-MAR-001 (CNDP / ANCFCC / CNSS Morocco under-hubbed). No contradictions, no
+issues.
+
+**Flag (precision):** many year/month proxy dates on reference PDFs (WB, national strategies, GovTech/RIA
+studies, CBL AR) — all `date_source: proxy` with the uncertainty stated. The Alwadi "State of Digital
+Transformation in Libya" and the Makhele affordability deck are partly promotional/analytical, tagged as such.
+
+## 2026-07-16 — Four-country batch (MDG · MLI · MOZ · MRT)
+
+**Intake:** drained `new/` (61 items → 0), processed as four per-country sub-batches (parallel source-page
+creation, coordinator-led synthesis). **Sources admitted (59):** 49 markdown clips + 10 PDF companion source
+pages. **Leads parked (2):** the two ISS/Peter Johnson "Madagascar 2044" futurist scenario op-eds (same piece,
+blog + ISS Today re-publish) → `_leads/` (speculative analysis, no datable event). **Discards:** none. All
+clips re-prefixed to true published dates (2007 → 2026); artefacts moved with date prefixes + companion pages.
+
+**Madagascar (MDG)** — stub-ish hub rebuilt into a full DPI hub around **[[prodigy-madagascar|PRODIGY]]** (WB
+P169413, ~$143m, PAD 2020, extended to 30 Jun 2026): biometric national ID (NUI, pilot 27 Jan 2026 via
+[[oni-madagascar|ONI]]), civil-registry reform bill (Senate 4 Jul 2025), X-Road interoperability
+([[ugd-madagascar|UGD]], Estonia eGA). Payments: [[mvola]] (GSMA API-compliant, 10m+), Orange Money Pro,
+[[e-ariary]] CBDC pilot (23 May 2025). Entities (5 new): prodigy, mvola, e-ariary, ugd, oni;
+[[mg-ministry-digital-development]] expanded. WB baselines (ID4D 2017, NFIS 2018, PAD 2020, FI restructuring
+2021) cited not absorbed.
+
+**Mali (MLI)** — hub expanded from one entry into a **digital-sovereignty** hub: Tier III National Data Centre
+(31 Jan 2026, AES-mutualised), **E-AES biometric passport** ([[emptech]] replacing [[idemia]], Oct 2025),
+locally-built Sigui-Dolo/OpenClinic/SIGIP platforms (Sep 2025), diaspora platform, birth-reg reform (ANSAEC),
+TerraPay–Wave remittances. Entity [[emptech]] created; [[alliance-of-sahel-states]] updated (E-AES passport,
+diaspora platform, data-centre outlets). WB diagnostics (infoDev 2007, DE4A 2023) cited not absorbed.
+
+**Mozambique (MOZ)** — large hub extended (still under bloat threshold): legal-identity drive
+([[edge-mozambique|EDGE]]/ID4D free-ID campaign via [[dnic-mozambique|DNIC]]; ~34% ID coverage 2024), draft
+**[[mozambique-data-protection-law|PDPL]]** (Malabo-aligned, CNPD/ANPD), WB data-governance rapid diagnostic
+(2025), Tier III data-centre build-out ([[raxio-group|Raxio MZ1]], [[vodacom]] Matola, BCX/Alibaba — ~18 DCs
+nationally), biometric SIM registration ([[incm-mozambique|INCM]], NUTEL), merchant digital-payments study.
+Entities (4 new): edge, dnic, mozambique-data-protection-law, incm; raxio-group + vodacom updated. EDGE PID
+(2021), CRVS UNICEF (2021) and land-reform (2008) filed as baselines. Clarified the 2026-02 Maputo conference
+(11–12 Feb; INTIC strategy drafting) against the existing 2026-02-21 overhaul entry — same event, publication
+date; folded, not a contradiction.
+
+**Mauritania (MRT)** — **stub → active** (promotion noted in places-index). Full ID/e-gov hub:
+**[[anrpts-mauritania|ANRPTS]]** biometric register (94% coverage, SIGPTS), **[[houwiyeti]]** digital-ID/e-gov
+app ([[tech5]]/SmartMS/[[undp]], 2022 pilot → 2024), Ijraati 800-procedure portal ([[mtnima-mauritania|
+MTNIMA]]), biometric-SIM enforcement ([[are-mauritania|ARE]] notices Jan 2026), EIB Tier III Nouakchott data
+centre (WARCIP/ACE/Ellalink). Entities (4 new): houwiyeti, anrpts, mtnima, are; [[tech5]] updated (+MRT). WB
+DPF P171238 (2021) baseline. Admitted the businessfocus advertorial ministerial interview (2023) as a source
+(on-the-record ministerial statements establishing the 2022–2025 Agenda), flagged as advertorial.
+
+**Dedup / clusters:** Madagascar pilot (ID Tech Wire + Biometric Update, 27 Jan 2026); Mali data centre (4
+outlets, 31 Jan 2026); Mali platforms (Biometric Update/CADE/Ecofin, 16 Sep 2025); Mali AES passport (2
+outlets); Mozambique Raxio MZ1 (CIO + DCD), Vodacom Matola (360 + DCD), free-IDs (WB feature + Biometric
+Update); Mauritania Houwiyeti (ID Tech Wire/Biometric Update/UNDP), Nouakchott DC (EEAS + EIB) — each folded
+onto shared hub entries.
+
+**Editorial call:** no intersections minted this batch — the new entity pages (PRODIGY, Houwiyeti, ANRPTS,
+DNIC, EDGE, MTNIMA) already carry the substantive place-specific treatment, so `{place}--{topic}` cells would
+duplicate (anti-fragmentation). Indexes updated (places-index rows for all four + MRT promotion; entities-index
++14 rows; topics-index place-code additions across ~13 subjects).
+
+**Registers:** no gaps, contradictions or issues added this batch.
+
+**Flag (precision):** year/month proxy dates on reference PDFs — ID4D Madagascar (2017, year), NFIS (2018,
+month), CRVS Mozambique (2021, year), Mali DE diagnostic (2023, year), infoDev Mali (2007, month), Data
+Governance Mozambique (2025, month). The **Madagascar FI Project restructuring (P161491)** carries
+`date_source: proxy`, `2021-01-01` year — the PDF prints no approval date but references a May–Jul 2021 MTR,
+so it postdates mid-2021 (proxy stated). The businessfocus Mauritania piece is advertorial, tagged as such.
+
+## 2026-07-16 — Four-country batch (MUS · MWI · NAM · NER)
+
+**Intake:** drained `new/` (98 items → 0) — the largest batch yet — processed via six parallel per-country
+source-page agents (MWI and NAM split in two), coordinator-led synthesis. **Sources admitted (94):** 61
+markdown clips + 33 PDF companion pages. **Leads parked (4):** an ICT-vs-IT op-ed (NAM), an International IDEA
+democracy tracker (NAM), a Niger electricity-tariff notice (NER), and a Shufti Pro AML/KYC vendor summary
+(NAM, PDF). **Discards:** none. Clips re-prefixed to true published dates (2002 → 2026); 34 PDFs moved with
+date prefixes + companion pages (many year/month proxies flagged truthfully).
+
+**Mauritius (MUS)** — thin hub (257w) built into a full digitally-mature-state hub. Entities (4):
+**[[mauritius-mobile-id]]** (Thales ISO-standard wallet, Sep 2024; NIC Mobile ID Regs 2024),
+**[[maucas]]** (instant-payment switch), **[[mauritius-digital-blueprint-2025-2029]]** (May-2025 strategy +
+inter-ministerial committee), **[[civil-status-division-mauritius]]** (CRVS base). EGDI-2024 leader; [[thales]]
+updated (+MUS). Older baselines (e-Gov Interop Framework 2002, Health 2015) cited not absorbed.
+
+**Malawi (MWI)** — already-rich hub (1,003w) extended with new threads (still under bloat threshold). Entities
+(4 new): **[[macra-malawi]]** (biometric SIM registration Jul 2025 + National Addressing System),
+**[[idt4m]]** (UNDP/EU DPI programme), **[[reserve-bank-of-malawi]]** (mobile money >20m subscribers, K19.5tn),
+**[[malawi-electoral-commission]]** (voter-register access tension); **[[national-registration-bureau-malawi]]**
+expanded (EEAS 10-yr CRVS partnership, 4.6m-child birth-registration campaign, ID4Africa 2025). **[[comesa]]**
+updated (+MWI/ZMB DRPP first Malawi–Zambia cross-border payment). WB Fiscal-Governance PforR (e-GP), FinScope,
+SIIPS, Health-Data-Governance review filed as baselines.
+
+**Namibia (NAM)** — connectivity-heavy hub (724w) gained a whole new **ID / CRVS / payments** thread it lacked.
+Entities (7 new): **[[namibia-civil-registration-identification-act-2024]]** (CRIA 2024, single Civil
+Register), **[[namibia-digital-id]]** (e-ID by Jul 2026), **[[ministry-home-affairs-namibia]]**,
+**[[mtc-namibia]]**, **[[bipa-namibia]]**, **[[namibia-payment-system-management-act-2023]]**,
+**[[bank-of-namibia]]** (Instant Payment Solution / G2P, Q3-2026); [[papss]] updated (+NAM courting). Strong
+CRVS/ID base documented (ID4D 2018, IMS 2016, eGA X-Road 2016, eHealth strategy 2021-25). Privacy caution
+carried honestly (APC: biometric collection ahead of a weak DP regime).
+
+**Niger (NER)** — thin hub (275w) rebuilt into a full digital-sovereignty hub. Entities (5 new):
+**[[niger-national-eid]]** (AES biometric ID + e-passport; decrees Dec 2025, Tiani first enrollee Mar 2026),
+**[[al-itissal-al-jadeed]]** (Libyan supplier, June-2025 MoUs), **[[hapdp-niger]]** + **[[niger-data-protection-law]]**
+(Loi 2017-28/2019-71), **[[niger-ixp]]** (Niamey IXP). [[wuri-programme]] updated (+NER; Accra fID
+interoperability validation + 2023 brief). ID4D Niger (2017), état-civil report (2023), STAR-UEMOA baselines.
+
+**Continental:** a data-sharing case study (found to be about Mauritius → filed MUS/XGL); an AfDB/COMESA
+**CRVS-digitalisation-in-Africa** assessment (XAF); a **data-localization "tax on the poor"** working paper
+(CGD, XGL — publisher corrected from the spec's "CGAP").
+
+**Dedup / clusters folded:** MUS Mobile ID coverage; MWI ID4Africa-2025 rollout (two outlets) + WB-brief/Biometric
+Update duplicate; NAM APC/Biometric-Update CRVS-bill assessment; NER AES e-ID decrees + June MoUs (two outlets)
++ portal snapshot — each attached to shared hub/entity entries rather than spawning parallels.
+
+**Editorial call:** no new intersections minted — the new entity pages (Mobile ID, CRIA 2024, namibia-digital-id,
+niger-national-eid, IDT4M, etc.) carry the place-specific depth; the existing [[malawi--dpi-id]] intersection
+absorbed the new Malawi ID material by reference. Indexes updated (places rows for all four; entities-index +20
+rows; topics-index place-code additions across ~10 subjects).
+
+**Registers:** **1 contradiction opened** — `malawi-data-protection-law-status` (a May-2025 SIM-registration
+article says Malawi has no enacted DP law, vs the enacted Malawi Data Protection Act 2024; likely an
+enacted-but-not-operational reconciliation). No gaps, no issues added.
+
+**Flags:** the Niger public **E-ID portal** snapshot (`nigeridentite.com`) is of uncertain provenance (expired
+hosting, "simulate" capture) — admitted but its counters are **not** promoted. Several analysis/opinion pieces
+admitted-and-flagged rather than parked (APC digital-rights essays, CIPIT MDPA review, EdTech scan,
+community-policing study, land-reform and climate-DPI blogs); the Malawi DRA clip is served from a vercel.app
+preview domain (content genuine). Date corrections vs first guesses: **ID4D Niger = 2017** (not 2021),
+**Namibia IMS Analysis = 2016** (verified in-doc). Many year/month **proxy** dates on reference PDFs/strategies,
+all `date_source: proxy` with the uncertainty stated.
+
+---
+
+## 2026-07-16 — Batch ingest: NGA · RWA · SDN · SEN (four-country)
+
+Large batch (~90 `new/` items) drained via four per-country workers (sole writer each of its place hub,
+source pages and country entities) + a parent merge of the shared surfaces (concepts, indexes, shared
+entities, reviews, log). `new/` fully drained to empty.
+
+**Sources admitted (~67 source pages, clips + PDF companions):** NGA 26 clips + 5 PDFs (Digital-Skills WB,
+INEC Handbook, NIMC ID4Africa, PwC expatriates, ID4D P167183 restructuring); RWA 13 clips + 4 PDFs
+(CIS-RIA, People's Perspectives WB, ID4D-2016, RURA SIM Reg 18/2024); SDN 5 clips (Rebuilding-Sudan
+short+long **merged to one**) + 2 PDFs (WB Digital Economy 2022, DFS resilience); SEN 17 clips + 3 PDFs
+(RNU/PRB63, Children's-Right-to-Identity, DP-law). Parent-filed globals: **GSMA Mobile Gender Gap Report
+2025** (new `resource` entity), **Xalam East Africa DC market brief** (May 2025), **DIAL/ADLI** pan-African
+DPI-exemplars piece (2025-05-02). Currency discipline held (dated figures; DataReportal/ID4D reference works
+cited-not-absorbed).
+
+**Entities:** ~35 created — SDN (zain-sudan, bank-of-khartoum, ministry-digital-transformation-sudan,
+sudanese-cybersecurity-authority, digital-transformation-authority-sudan, sudanese-data-and-ai-authority,
+magdi-amin, totogi); RWA (irembo, rura-rwanda, rwanda-sim-card-registration-regulation-2024); SEN
+(daf-senegal, iris-corporation, senegal-numerique, cdp-senegal, senegal-data-protection-law, rnu-senegal,
+dgpsn-senegal, nekkal-programme, sen-csu, google-senegal-sovereign-cloud); NGA (ngdx, ninauth,
+ecowas-national-biometric-identity-card, npc-nigeria, e-crvs-nigeria, mtn-sifiso-dabengwa-data-centre,
+airtel-nxtra-eko-atlantic-data-centre, oadc); parent (unicloud-africa, fringe-infrastructure,
+benue-digital-infrastructure-company, gsma-mobile-gender-gap-report, unicef, better-than-cash-alliance).
+Updated: kasi-cloud, nida-rwanda, rwanda-national-data-sharing-policy, ekash, anec-senegal,
+new-deal-technologique, sudapass, rwanda-information-society-authority.
+
+**Intersections:** created nigeria--dpi-exchange, rwanda--dpi-govtech, senegal--dpi-id, senegal--dpi-pay;
+updated nigeria--dpi-id, nigeria--infra-store, rwanda--dpi-id.
+
+**Editorial actions (tier-2, itemised):**
+- **Duplicate-page merge:** `risa.md` → `[[rwanda-information-society-authority]]` (folded CDPI-Feb-2025 +
+  NISR Data-Governance-Unit secondment + DPGA-case-study CEO note; referrers repointed; `risa.md` deleted).
+- **Duplicate reference removed:** my `2025-01-01 dpga-building-open-digital-states` (md+pdf) was a duplicate
+  of the pre-existing `2026-01-20 Building Open Digital States…` (DPGA report already ingested 2026-07-14 with
+  its PDF) — deleted; the report is dated **2026-01-20**, not my 2025 guess.
+- **Worker-dropped clips recovered:** the NGA worker omitted 6 data-centre/cloud clips (ran long on 36
+  items); parent processed them — Kasi Cloud 100MW (2026-02-05, → [[kasi-cloud]]), Fringe Ikoyi Metro EDGE
+  (2026-01-08, new entity), UniCloud–BDIC Makurdi (2024-07-12, new entities); the 3 redundant homepages/dups
+  discarded.
+
+**Mechanical (tier-1, aggregate):** ~47 clips date-prefixed from clip-date `2026-07-16` to true `published`
+and moved `new/→raw/`; 15 PDF binaries moved+prefixed to match companions; curly→straight apostrophe
+normalisation on filenames/links.
+
+**Dedup / clusters folded:** MTN Sifiso Dabengwa (3 outlets → 1 deal); NGDX (multiple → 1 event); NIN-mandatory
+(Guardian+ID Tech); ward-level NIN drive; Rebuilding-Sudan (short+long); SEN national-ID breach (4 outlets → one
+evolving incident); New Deal Technologique (strategy + digital-rights analysis).
+
+**Leads parked (5):** Sudan KYC vendor SEO guide; SYLVERE MUGUMYA MSc thesis (→ ISSUE-001); NGA NGDX "impact"
+AI-generated piece; NGA NDPA vendor compliance guide; NGA DPI explainer (thin). **Discards:** NGA corrupted
+NGDX capture; SDN "How to build trust" (re-clip of held 2026-01-29); PAPSS homepage (entity exists); DPGA
+duplicate; 3 orphan homepages/dups.
+
+**Registers:** **2 contradictions opened** — `senegal-national-id-breach-volume` (139TB vs 139GB vs
+official no-leak) and `senegal-civil-records-digitised-count` (19m 2024 vs 15.3m 2026, likely counting-base).
+**2 issues** — ISSUE-001 (MSc-thesis admissibility, recommend admit as low-authority dated ref), ISSUE-002
+(Sudan XEA vs North-Africa parent, recommend keep XEA). **Gaps** — NGA-001, RWA-001, SEN-001, SDN-001,
+SDN-002 (NDPC fine primary; RWA DPI actors; SEN DP-law revision + Iris↔breach; Sudan AML framework; CBOS /
+Zain-Group / DFS-date). Not filed as contradictions: RWA $38m-vs-$57m ID cost (different funding envelopes,
+recorded dated on [[nida-rwanda]]); SEN EGDI 0.5162/0.5142 (same publisher rounding); Kasi groundbreaking
+2022-vs-2026 framing (recorded dated on [[kasi-cloud]]).
+
+**Flags:** several proxy/low-precision dates on reference PDFs (`date_source: proxy` set truthfully — Irembo
+interview 2021, Sudan DFS report, SEN DP-law summary, SEN Children's-Right CRC submission); analysis/opinion
+admitted-and-attributed not parked (Paradigm Initiative on the New Deal; interweave.africa on Rwanda; Totogi
+& Mojaloop-Foundation first-party tech blogs tagged low-authority).
+
+**Addendum (same batch):** duplicate-page merge — the NGA worker's `ecowas-national-biometric-identity-card`
+was folded into the pre-existing `[[enbic]]` instrument (same ECOWAS card; Nigeria-rollout + Senegal-voter
+content merged in; links repointed; duplicate page + index row deleted). Flagged by the index pass.
+
+## 2026-07-16 — Full lint pass (all 11 checks; duplicate-focused)
+
+Ran the full lint on request. **Clean:** #1 schema (0 of 1,357 raw `.md` missing type/title/published),
+#2 vocabulary (0 bad topic/place tags), #5 untagged sources (0), #6 inadmissible (no AI-synthesis
+publishers), #11 date prefixes (all 1,357 `.md` + 252 artefacts prefixed). #3 freshness: 0 `last_reviewed`
+>90d; **1 page missing `last_reviewed`** (`intersections/burundi--dpi-id.md`). #4 dead links: essentially
+clean — 0 "wanted" (≥10-ref) and 0 middle-band; ~2 genuine strays (`[[zain-group]]` from `zain-sudan.md`;
+`[[instrument]]` from a Ghana source), rest are `log.md` prose false-positives. Orphans: 0 (every
+entity/concept/place indexed). #10 stranded queue: `new/` holds 67 items (all 2026-07-16 — the S-country
+intake batch awaiting ingest, not stranded).
+
+**#7 duplicates (tier-2, auto-then-digest).** Entity+date clustering over all 1,357 sources → ~26 tightest
+candidate clusters; 18 verified by payload comparison. Finding: multi-outlet clusters are overwhelmingly
+**complementary, not redundant** (each clip adds distinct facts/figures/quotes) — the fold-in rule working
+as designed. Only **4 exact relevant-duplicates** confirmed; **2 pruned this pass:**
+- **Pruned** `[[2024-07-02-gabon-resumes-electronic-id-11-year-break]]` (Innovation Village) — identical
+  payload to kept `[[2024-07-02-gabon-electronic-id-11-year-hiatus]]` (Techpoint; ladder (d), lexicographically
+  first + fuller Thales name). 5 redundant links removed from `thales.md` + `gabon--dpi-id.md` (keeper already
+  co-cited); file git-rm'd.
+- **Pruned** `[[2024-03-06 Liquid C2 partners…capabilities to Africa - Mar 6, 2024]]` (PRNewswire wire copy) —
+  verbatim same release as kept `…capabilities to Africa` (Cassava first-party; ladder (a) primary + (d)
+  cited by 4 pages vs 2). Suffix links removed from `anthropic.md`; in `liquid-c2.md` sources-list entry
+  repointed to keeper and body duplicate removed; file git-rm'd. Keeper intact in 4 pages.
+
+**Held (not auto-pruned — see reviews/):** (1) Social Registries duplicate pair — filed **ISSUE-003**
+(pruning one companion `.md` also implicates deleting a second PDF copy that can't be byte-diffed). (2) The
+2026-04-08 Liquid "Experience Centre" cluster is actually **3 source files**, not 2 (the pair audit missed
+`[[2026-04-08 Liquid C2, Google open first-for-Africa Partner Experience Centre]]`); needs a 3-way payload
+check before any prune — flagged for the next dedup/reconcile pass. Also noted: `2024-08-22 AfriLabs opens
+18 new tech hubs` is nearly subsumed by the 2024-08-26 account but carries no *conflicting* payload, so it
+stays under the strict rule (manual-prune candidate only).
+
+**Lint completion (remaining sub-checks run same pass).** Closing gaps in the first sweep so the lint is
+executed in full against the current CLAUDE.md:
+- **#3b (stale-source coverage asymmetry):** 65 pages flagged (page's newest cited source >2yr old while a
+  shared topic carries a source <6mo old). **All 65 are entity pages — 0 concept/place synthesis pages** —
+  and most are legitimately old (historical laws/instruments/entities: `angola-data-protection-law-22-11`
+  2011, `sadc` 2022, telco pages). A few are genuine refresh candidates. Reported as a review list, not
+  actioned.
+- **#3c (bare undated present-tense time-varying figures):** 58 candidate lines (penetration/coverage/
+  rank/% figures without an inline "as of" on the line) — e.g. `places/GHA.md:180` "62% usage gap … 99% 4G
+  coverage", `concepts/dpi.pay.md:94` "SSA smartphone ownership ~33%". Heuristic; many have a date in the
+  surrounding sentence/source. Reported as a currency-review list for verification, not auto-edited.
+- **#7 Pages (near-identical pages, flag for merge):** 1 genuine duplicate found —
+  **`entities/adli.md` ⇄ `entities/africa-data-leadership-initiative.md`** are the same entity (identical
+  title "Africa Data Leadership Initiative (ADLI)", both DIAL-convened peer-learning networks), split across
+  two ingests. `adli.md` is the richer page (5 topics, XAF/NGA/KEN, two developments, cites 2026-05-27);
+  the other is a stub (cites 2026-06-16). **Merged (tier-2):** keeper = `adli` (10 inbound links vs 2;
+  acronym slug matches the `dial`/`eac`/`sadc`/`ecowas`/`afcfta` convention). Folded the stub's 2026-06-16
+  source + data-exchange-sustainability framing and `data.open` topic into `adli.md`; repointed the
+  `dpi.exchange.md` inline link; removed the stub's `entities-index` row and synced the keeper row; git-rm'd
+  `africa-data-leadership-initiative.md`. No dangling refs. Other 10 title-matches were false positives
+  (place-hub vs its intersection/entity of the same name; different-country DGIs and diagnostics).
+- **#7 Sources — Experience Centre 3-way resolved:** the 2026-04-08 cluster is **complementary** — Cassava
+  (first-party primary) kept; IT-Online adds a KEN/NGA/MAR/EGY market footprint + Strive Masiyiwa; htxt is a
+  thin subsumed secondary (manual-prune candidate, non-conflicting). No auto-prune.
+- **#6 (deep body-provenance scan):** run — grepped `raw/` bodies for AI-output tells (knowledge-cutoff /
+  "as an AI" / "generated by ChatGPT|Claude|Gemini|Perplexity|NotebookLM" / summary-boilerplate) and AI
+  publishers. **0 hits.** Syntheses are correctly parked in `_leads/` (34). #6 clean.
+
+All 11 lint checks and their sub-parts now executed in full against the current CLAUDE.md.
+
+## 2026-07-16 — Batch ingest: SLE · SOM · SSD · STP (four-country)
+
+66 `new/` clips drained via four per-country workers (sole writer each of its place hub, source pages and
+country entities) + a parent merge of shared surfaces (concepts, indexes, shared entities, reviews, log).
+`new/` fully drained to empty; no dropped clips.
+
+**Sources admitted (~54 pages):** SOM 24 (from 35 clips — 6 multi-outlet folds, 5 NIRA portal pages routed
+to entities), SLE 13 (from 15 — two dup pairs folded), SSD 11, STP 5 (2 DataReportal editions = supersession),
++ parent-filed cross-cutting **AfricLaw "DPI Through an Open Government Lens"** (2026-02-11, Hlengiwe Dube —
+admitted as attributed analysis, `[[open-government-partnership]]`, places [XSS]). Currency discipline held
+(dated figures; DataReportal Digital-20xx editions cited-not-absorbed; EGDI/penetration written dated).
+
+**Entities:** ~32 country entities created — **SOM** (nira-somalia*, snid, eaqoonsi, somali-data-protection-act,
+somalia-data-protection-authority, somalia-cybersecurity-law, hormuud-telecom, somtel,
+somalia-digital-transformation-strategy, somalia-instant-payment-system, somalia-crvs, somalia-moifar,
+somalia-national-electoral-commission, somalia-spring-project; central-bank-of-somalia* updated),
+**SSD** (dcrnpi-south-sudan, national-communication-authority-south-sudan, electronic-services-council-south-sudan,
+koneta-hub, nips-south-sudan, mgi-communications, south-sudan-data-protection-bill, south-sudan-cybercrime-bill-2025;
+bank-of-south-sudan* updated), **SLE** (ncra, sierra-leone-data-protection-rti-bill-2025,
+sierra-leone-instant-payment-switch, sierra-leone-national-digital-farmer-registry,
+sierra-leone-national-data-strategy, orange-sierra-leone; sierra-leone-digital-id-mou* updated),
+**STP** (national-strategy-digital-governance-sao-tome, sao-tome-national-digital-id, sao-tome-data-protection-law-2016,
+sao-tome-interoperability-framework-2024, national-data-protection-agency-sao-tome). Parent-filed shared
+entities: **datareportal, kepios, unhcr, unu-egov, open-government-partnership, dare1-cable, nadra** (7 created);
+**eac** updated (Somalia membership + e-Passport).
+
+**Intersections:** created `somalia--dpi-id`, `somalia--gov-protect`, `south-sudan--dpi-id`; updated
+`somalia--dpi-pay`. (SLE `dpi.id` kept on the hub — anti-fragmentation; flagged `sierra-leone--dpi-id` as first
+extraction candidate if the hub bloats.)
+
+**Concepts (18 updated):** dated country lines folded across dpi.id, dpi.registry, dpi.pay, dpi.exchange,
+dpi.govtech, gov.protect, gov.legislate, gov.policy, gov.standards, gov.regional, infra.connect, infra.store,
+infra.cybersec, infra.energy, include.access, include.divides, tech.ai, digital.rural.
+**Indexes:** entities-index +~39 rows; places-index & topics-index expanded topic memberships + 3 new
+intersections registered; STP de-stubbed.
+
+**Dedup / clusters folded:** SLE — F4D + We-Are-Tech → one instant-payment source; AYV + Sierraloaded ID-deadline
+(2024) → one (Sierraloaded, earliest). SOM — mass-registration (3 outlets→1), biometric-mandate, DT-Strategy,
+EAC-e-Passport, CRVS-launch, DP-Act analyses each folded to one keeper. STP — DataReportal 2025/2026 supersession.
+
+**Editorial actions (tier-2, itemised):**
+- **Duplicate-page merge:** parent's brief mistakenly had a worker create `east-african-community` while `[[eac]]`
+  already existed (same org). Folded the Somalia-membership + EAC-e-Passport fact into `[[eac]]`, repointed the
+  e-Passport source + index row, deleted `east-african-community.md` and its dup index row.
+- **Demotions (below materiality):** `international-bar-association` (single STP reference) and `qhala` (single
+  SLE reference) demoted to plain-text mentions — no thin stubs minted; the IBA `[[link]]` removed from STP hub
+  + the raw source.
+- **Straggler fix (from the earlier lint ADLI merge):** `2025-05-02-dial-african-countries-foundational-dpi`
+  still linked `[[africa-data-leadership-initiative]]` (a `raw/` ref the merge missed) → repointed to `[[adli]]`.
+
+**Mechanical (tier-1):** ~54 clips date-prefixed from clip-date `2026-07-16` to true `published` and moved
+`new/→raw/`; DataReportal supersession dating; curly/straight apostrophe + Windows-illegal-char sanitisation
+on filenames.
+
+**Registers:** **2 contradictions opened** — `somalia-national-id-data-hosting` (stored in Somalia vs
+Pakistan-hosted) and `south-sudan-nips-vs-ibpss` (one system, two phases, or two rails?). **4 gaps** —
+SSD-001 (SSD de-facto tax platform primary), SLE-001 (SLE gov-portal 403 items: NCPC, NCRA–SLRSA, NACSA),
+STP-001 (STP registry/ID owning bodies page-less), SOM-001 (SOM MOIFAR CRVS + NIRA-Act primaries). **Not filed
+as contradictions** (documented dated on pages): SOM NADRA-vs-FBI (two distinct systems — civilian foundational
+ID vs police ABIS); SLE internet penetration 20.7% vs 30.4% and 93%-registration vs card-issuance (definitional);
+STP broadband-share 93.3%→82.6% (GSMA methodology). **0 leads parked; 2 discards** (SLE F4D + AYV folded dups).
+
+**Flags:** proxy/low-precision dates set truthfully — SOM Garowe data-security (year, proxy), SOM Pakistan-partnership
+(proxy), STP National-Strategy + IBA-Metaverse (year), SSD Policy-&-Legal (year, proxy), SLE three ToR/announcement
+pages (year). Admitted-and-attributed analysis (not parked): Biometric Update "thorny road", CIPIT/Strathmore DP-Act
+critique, IBA Metaverse chapter, AfricLaw DPI open-gov lens. Figure variants noted dated on pages: SOM 15m-ID target
+(end-2029 dominant vs 2030/2026 variants), SOM $125m rollout cost (single-sourced), SOM internet 27.6%→55.2% jump.
+
+---
+
+## 2026-07-17 — SWZ · SYC · TCD · TGO batch (Eswatini, Seychelles, Chad, Togo)
+
+**Scale.** The largest single ingest to date: **85 queue items** — 57 markdown clips + 28 PDFs —
+drained to empty. **82 source pages** now in `raw/` from this batch (56 clips + 26 artefact
+companions), **104 new entity pages** (839 → 943), **6 new intersections**, 4 place hubs rebuilt,
+12 concept pages updated.
+
+**Ingested.** 56 clips admitted; **26 artefacts** date-prefixed with companion source pages; **0
+leads parked** — no AI or second-hand syntheses in the batch, every item attributable, dated and
+published; **2 discards** — one byte-identical PDF (`Digitalization of CRVS in Africa (1).pdf`,
+md5 `b974d892…` confirmed against its twin) and one redundant re-clip (below). Entities created by
+type: government-body 26, initiative 16, instrument 15, organisation 13, company 12, deal 11,
+person 6, resource 5.
+
+**Dedup — one merge, one prune.** The batch re-clipped
+`biometricupdate.com/202506/chad-mali-senegal-pursue-birth-registration-reforms…`, already held as a
+**Mali-focused extract**. Same URL, same date, one published item — but neither extract contained the
+other (the held one carried unique Mali detail; the incoming carried the full Chad section). **Merged
+into the held page** (now `places: [TCD, MLI, SEN]`, both payloads folded in, filename kept so the
+`MLI` hub citation needed no rewire); redundant re-clip deleted. Nine *apparent* duplicate pairs or
+clusters were examined and **kept as complementary**: the Seychelles DPA analyses (Appleby vs
+TechHive — each carries facts the other lacks, in both directions), the SeyID launch pair (the ICS
+primary vs the trade re-report carrying the WISeKey lineage), the Eswatini Economic Update cluster
+(×3), the Digital Readiness Assessment cluster (×3), the APC pair, the Chad data-centre pair, the
+Senegal-on-Togo pair, the DHIS2 pair and the BCEAO pair. **No exact relevant-duplicate found under
+lint #7 beyond the merge above.**
+
+**Dates — the active step.** All 57 clips arrived prefixed `2026-07-16` (the clipper date,
+meaningless). True publication dates established for every item, spanning **2018-01-01 →
+2026-03-16**, and files re-prefixed. Traps caught and recorded: the **BIS/Mnisi** speech (published
+2025-01-14, but the Eswatini Payment Switch launch it reports is **2024-12-11** — synthesis pages
+date the launch, not the publication); the **DCD Chad** piece (the site's "14 Jul 2026" stamp is a
+template artefact; true byline 2026-01-06); the **World Bank Togo $100m** release (URL says /12/19/,
+dateline says 18 Dec — dateline taken). Four PDFs printed no date: two were resolved by reading the
+artefacts (the **WURI ISR** carries a 12/21/2023 stamp; **Enterprise Surveys Eswatini 2024** is
+© 2025, 2024 being the *survey* year), two fell back to year-precision proxy.
+
+**A correction to an inference this batch nearly made.** The Digital Eswatini PID (P508948) prints
+**"Estimated Appraisal Date 01-Aug-2025"** and **"Estimated Approval Date 01-Sep-2025"** — *planned*
+dates in a concept-stage document, not a record of approval. An initial reading took them as actual,
+which manufactured a false conflict with the May-2026 report of live negotiations. Reading the
+artefact dissolved it: estimated dates that slipped are consistent with both accounts. **No source
+confirms P508948 was approved**; the pages say so.
+
+**Editorial actions (tier-2, itemised).**
+- **Intersections extracted** (all clear the materiality bar; parents left as indexes):
+  `togo--dpi-id` (1,238w, 7 sources), `chad--dpi-id` (940w), `seychelles--dpi-id` (773w),
+  `togo--dpi-pay` (841w), `eswatini--gov-protect` (792w), `seychelles--gov-protect` (517w).
+  **TGO promoted** from a `dpi.id` index one-liner to an extracted cell.
+- **Cells deliberately NOT extracted:** `eswatini--dpi-pay` (would near-duplicate the
+  `[[eswatini-payment-switch]]` entity page — a stub minted to hit a word count);
+  `eswatini--dpi-id` (its story is an *absence* — "not rolled out in earnest" — better as a rich
+  index line); Chad and Togo on `gov.protect` (Chad has no enacted law to describe; Togo's single
+  accord doesn't yet stand as a cell).
+- **Duplicate slugs avoided:** `wuri` and `afdb` were briefed in error; both already existed as
+  **`wuri-programme`** (42 referrers) and **`african-development-bank`** (~20 referrers). The
+  canonical pages were extended instead, and stray frontmatter refs repaired (`[wuri]` →
+  `[wuri-programme]` ×5, `[afdb]` → `[african-development-bank]` ×2).
+- **WURI financing reconciled** (inference, recorded as such, not asserted): the reported "$395m
+  WURI total" (Togo First via Biometric Update, 2024-03) does not match the ISR's **$317.1m** 2018
+  MPA envelope — but Phase 1 ($122.1m) + Phase 2 ($273m) = **$395.1m**, so the figure is almost
+  certainly the two phases summed against an original envelope later exceeded. Recorded on
+  `[[wuri-programme]]`; **no contradiction opened**.
+- **Standing flag resolved, partially:** the SWZ hub's "⚠ verify against a WB project record" is
+  answered — the record is **P508948** — but approval is unconfirmed, so the identification is
+  marked probable-not-established pending ISSUE-005.
+- **Seychelles Digital Governance Report publisher established** by reading the artefact's cover:
+  **Economic Forum for Sustainable Development**, "created for" the Commonwealth Secretary-General.
+  It is an index digest restating ITU/UN readings, so the cite-don't-absorb guard was strengthened
+  — promoting its figures would launder an index number through an intermediary.
+
+**Mechanical (tier-1).** 57 clips re-prefixed clip-date → true `published` and moved `new/→raw/`;
+26 PDFs renamed from opaque filenames (`sc.pdf` → GII 2025 Seychelles profile; `BOSIB11f3…` → Chad
+PAD00070; four World Bank `P…` project IDs resolved) with companion pages minted; `url:` +
+`artefact:` added to 26 companions to satisfy the source schema; 104 rows added to
+`entities-index.md`; 40 place-code additions across `topics-index.md`; 4 rows rewritten in
+`places-index.md`; CRLF line endings restored on `infra.connect.md` after an editing pass stripped
+them.
+
+**Registers.** **3 contradictions opened** — `chad-internet-penetration-2024-2025` (22.5% Jan-2024
+vs 13.2% start-2025, both tracing to DataReportal: a 9.3pt fall against that publisher's own +9.2%
+growth); `togo-dhis2-emis-start-date` (same publisher — "since 2019, national scale" vs "in 2021…",
+plus piloting / under-review / national-scale as three maturity states);
+`eswatini-dra-handover-date` (ESEPARC's 5 Dec account predates the 10 Dec date UNDP assigns the same
+handover). **2 issues** — ISSUE-004 (scope of utility-tariff reporting; *recommend* admit-narrowly),
+ISSUE-005 (merge the two Eswatini project pages; *recommend* merge). **12 gaps** — SWZ-001/002,
+SYC-001/002, TCD-001…005, TGO-001/002/003.
+
+**Not filed as contradictions** (documented dated on pages, per precedent): SWZ rural share 77% (WB,
+2026-02) vs 74.9% (DataReportal, Jan 2025) — definitional; SWZ youth 70% (Maziya) vs 30% (World
+Bank) — different cut-offs, each attributed; SWZ internet 57.6% vs "about 58%" — consistent, same
+series rounded; Chad data centre "built, awaiting certification" vs "under construction" — framing,
+resolved by specificity; Chad PMICE $180m → $204.7m — supersession, both dated; ANATS "Secure
+Documents"/"Secure Titles", TECHSO-GROUP/Techso Group, PI-PSI/PI-SPI/PI, ESEPARC/"SEPARC" — naming
+variance, aliased; Eswatini gazette "Data Protection **Commission**" vs ESCCOM's own "Data
+Protection **Agency**" — recorded as an unresolved terminology mismatch against the primary, not
+harmonised.
+
+**Flags.** Proxy / low-precision dates set truthfully: SWZ ITLawCo (year), ESCCOM mandate (year),
+RSTP NDC (year); SYC addressing portal (year) and the SNA cheque piece (**canonical URL 403'd — body
+is a syndicated copy**); TCD Airtel Money (**no internal date at all — launch year not
+established**); TGO DHIS2 country profile (a living page whose date is a page date); G2PX Togo and
+the GIYH ToR (year). `needs-review` deliberately **not** set on `dpi.mis` / `infra.connect` for the
+two contradictions: both are registered in `reviews/contradictions/open/`, and flagging 3–5k-word
+thematic pages over one country bullet each reads as noise (prior art agrees — `infra.connect`
+already carried the Chad contradiction at `active`). Reversible.
+
+**Bloat findings for the digest** (flagged, not actioned): **`dpi.registry` (now ~3,400w) is a
+textbook matrix page** — ~25 separable country cells; extraction warranted, scheduled not done.
+**`gov.protect` (now ~5,000w) is half-refactored** — a genuinely thematic top with an
+already-matrix country tail where CAF/AGO/BWA point out to intersections but SOM/SEN are still
+written longhand. `infra.connect` (5,304w) and `infra.store` (5,369w) reviewed and **correctly left
+long** — thematic, with place detail woven through the argument rather than separable into cells.
+`dpi.id` narrative body is back **under** 2,500w after the three extractions.
+
+**Provenance concentration** noted on the TGO hub: **Togo First supplies 9 of the 19 Togo clips**
+and is sole source for most of Togo's current-state picture (payments, AML, civil registry, e-ID
+rollout).
+
+**Lints run clean across the 208 batch-touched files:** 0 dead links, 0 schema violations, 0
+vocabulary violations, 0 stranded queue items (`new/` empty).

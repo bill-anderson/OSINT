@@ -2,11 +2,11 @@
 type: concept
 title: Regional collaboration
 slug: gov.regional
-places: [COG, COM, BDI, ZMB, XAF, NGA, KEN, RWA, NAM, AGO, ZWE, EGY, GHA, BEN, XEA, XWA, TGO, NER, BFA, MLI, TZA, UGA, MOZ, BWA, LBR, SLE, XSA, XCA, SYC, DZA]
+places: [COG, COM, BDI, ZMB, XAF, NGA, KEN, RWA, NAM, AGO, ZWE, EGY, GHA, BEN, XEA, XWA, TGO, NER, BFA, MLI, TZA, UGA, MOZ, BWA, LBR, SLE, GIN, XSA, XCA, SYC, DZA, SOM]
 entities: [[idea-mpa], [afcfta], [papss], [wamkele-mene], [equity-africanenda-gates-dpi-partnership], [ai-for-good-global-commission], [african-union], [us-auc-strategic-investment-working-group], [telecom-namibia], [powertel-paratus-fibre-corridor], [smart-africa], [afnic], [smart-africa-afnic-mou], [undp], [afcfta-digital-trade-protocol], [adli], [dial], [estdev-smart-africa-mou], [sadx], [eac], [afreximbank], [nafa], [african-development-bank], [seacom], [paula-ingabire], [watra], [wuri-programme], [ecowas], [alliance-of-sahel-states], [uneca], [gsma], [africa-data-centres], [cassava-technologies], [africa-cdc], [america-first-global-health-strategy], [sigmat], [wardip], [un-ai-scientific-panel], [gtmi], [onafriq], [vodacom], [bayobab-zambia], [cbn], [world-bank], [pesalink], [bank-of-ghana], [au-google-mou], [google], [beac], [eac-cross-border-payment-masterplan], [tips-tanzania], [rswitch-rwanda], [afcfta-digital-trade-corridor], [seychelles-afcfta-mou], [cross-border-data-flows-afcfta-ria-2025], [research-ict-africa], [caiga], [icann], [afrinic], [africa-ai-declaration], [itu], [alice-munyua], [comesa]]
 lens: [sovereignty, colonialism]
 status: active
-last_reviewed: 2026-07-14
+last_reviewed: 2026-07-16
 sources: [[2026-07-07 African nations recommit to operationalize AfCFTA digital single market framework], [2025-09-11 DZAP World Bank PAD], [2026-07-03 AfCFTA, Data Governance and the Hidden Legal Gaps Reshaping Africa's Digital Economy - P.M. News], [2026-07-07 Equity, AfricaNenda and Gates Foundation Partner to Advance Digital Public Infrastructure Across Africa], [2026-06-17 Priced out of the future Confronting the rising cost of AI in Africa], [2026-05-21 AI for Good Global Commission], [2026-01-28 Joint Statement of the United States and African Union on the Launch of a Strategic Investment Working Group], [2026-07-03 Study finds governance, not technology, is blocking digital ID interoperability], [2026-06-15 Telecom Namibia signs more satellite, subsea connectivity deals with Angola firms], [2026-07-06 Powertel, Paratus Zimbabwe switch on new digital highway], [2026-07-09 Smart Africa and AFNIC Partner to Strengthen Africa's Internet Infrastructure], [2026-01-01 Digital Public Infrastructure in Africa - UNDP], [2026-07-09 Nigeria Takes AfCFTA Council Chair as Digital Forum Charts Roadmap for Implementation], [2026-04-08 Africa's digital trade push requires 700 data centres, says AfCFTA chief], [2026-05-27 Africa's economic future hinges on breaking down silos. This ADLI cohort advances integration], [2026-05-28 Estonia backs Africa digital infrastructure], [2026-04-27 Smart Africa drives cross-border data interoperability through SADX Technical Mission], [2026-05-16 World Bank, African DPAs outline formula for trusted digital identity, DPI], [2026-05-30 Afreximbank Banks on Digital Payments to Unlock Africa's Trillion-Dollar Trade Potential], [2026-02-26 The AfDB's push for African financial sovereignty, and a tech investment rebound], [2026-05-26 AfDB says Africa must fund its own growth as aid model frays], [2025-09-24 Unveiling Seacom 2.0 - ​ ​A new digital renaissance and subsea network to power the Indian Ocean Basin's digital and AI future], [2026-03-31 EAC moves to create unified AI Sovereignty bloc], [2026-04-13 WATRA rallies Africa for region's $216b digital economy], [2026-03-30 ECOWAS, World Bank Advance West Africa Digital Identity], [2026-03-30 Focus on Sahel digital sovereignty gets clearer with Niger's new biometric ID card], [2026-04-13 Stakeholders urge shift in digital public infrastructure trajectory], [2026-03-19 African Digital Health Data Is a Condition of Global Health Funding], [2026-03-02 Pesalink and PAPSS link networks for African payments], [2026-02-05 Bank of Ghana Calls for Payment System Overhaul to Unlock AfCFTA Trade], [2026-02-20 AUC Signs Partnership With Google], [2026-07-14 Zambia and COMESA Launch AI Initiative to Advance Regional Digital Transformation]]
 ---
 
@@ -154,6 +154,13 @@ Cross-border harmonisation of digital infrastructure, rules and markets.
   protection and NGSO satellite regulation** — "practical instruments" to harmonise rules across
   a **$216bn** regional digital economy. See [[infra.connect]], [[infra.cybersec]], [[gov.policy]],
   [[BFA]]. Source: [[2026-04-13 WATRA rallies Africa for region's $216b digital economy]].
+- **[[GIN]] Guinea — Transform Africa Summit host and CAR chair (2025-11).** Guinea hosted the 7th
+  **[[transform-africa-summit-2025|Transform Africa Summit]]** ([[smart-africa]], 42 states; 7,000+
+  participants, 14 MoUs) — the first Francophone West African host — and chairs the Smart Africa
+  **Council of African Regulators** via **[[arpt-guinea|ARPT]]**; TELEMO e-procurement was built through
+  a **Guinea-Rwanda** partnership. See [[GIN]], [[tech.ai]], [[finance.mou]]. Sources:
+  [[2025-11-13 Transform Africa Summit 2025 opens in Conakry, epicentre of digital cooperation in Africa]],
+  [[2025-11-19 Transform Africa Summit 2025 (Conakry) - Simandou 2040 Pillar 3, TELEMO, SANIA-SADX and the closing wrap]].
 - **[[XWA]] WURI — mutual recognition of digital ID (2026-03).** The **[[wuri-programme]]**
   ([[ecowas]] + World Bank co-secretariat) held its 2nd Supervisory Committee and validated a
   **cross-border interoperability strategy** and 2026 work plan toward mutual recognition of ID
@@ -274,10 +281,19 @@ Cross-border harmonisation of digital infrastructure, rules and markets.
   [[itu]]** and a $60bn Africa AI Fund — read (with the AU Continental AI Strategy) as the continental
   coordination layer whose shared blind spot is the informal economy. See [[tech.ai]]. Source:
   [[2026-05-04 The World's Most Needed AI Governance Framework Doesn't Exist Yet. Africa Should Build It]].
+- **[[NGA]]/[[XWA]] Nigeria rolls out the ECOWAS biometric ID card (2025-11).** Nigeria launched the
+  **[[enbic]]** (ENBIC), replacing the paper ECOWAS travel
+  certificate with a biometric card for passport-free regional movement — the mutual-recognition ID
+  layer of ECOWAS integration made national. See [[dpi.id]], [[XWA]], [[ecowas]]. Source:
+  [[2025-11-28 Nigeria Unveils ECOWAS ID Card To Boost Regional Travel, Security]].
+- **[[SOM]] Somalia joins the EAC bloc (2024–2026).** Somalia became a **full [[eac]] member**
+  (Mar 2024) and was cleared to **adopt and print the EAC e-Passport** (Feb 2026) — regional integration
+  extending the East African bloc's identity and travel rails to the Horn. See [[dpi.id]], [[XEA]],
+  [[SOM]].
 
 ## Places
 
-[[ZMB]] (regional program spans Eastern & Southern Africa — see [[idea-mpa]]) · [[XAF]] · [[NGA]] · [[KEN]] · [[RWA]] · [[NAM]] · [[AGO]] · [[ZWE]] · [[EGY]] · [[GHA]] · [[BEN]] · [[XEA]] · [[XWA]] · [[TGO]] · [[NER]] · [[BFA]] · [[MLI]] · [[TZA]] · [[UGA]] · [[MOZ]] · [[BWA]] · [[LBR]] · [[SLE]] · [[XSA]] · [[XCA]] · [[SYC]]
+[[ZMB]] (regional program spans Eastern & Southern Africa — see [[idea-mpa]]) · [[XAF]] · [[NGA]] · [[KEN]] · [[RWA]] · [[NAM]] · [[AGO]] · [[ZWE]] · [[EGY]] · [[GHA]] · [[BEN]] · [[XEA]] · [[XWA]] · [[TGO]] · [[NER]] · [[BFA]] · [[MLI]] · [[TZA]] · [[UGA]] · [[MOZ]] · [[BWA]] · [[LBR]] · [[SLE]] · [[XSA]] · [[XCA]] · [[SYC]] · [[SOM]]
 
 ## Sources
 
@@ -321,3 +337,4 @@ Cross-border harmonisation of digital infrastructure, rules and markets.
 - [[2025-09-22 Cross-border data flows in Africa An analysis of the alignment with AfCFTA]]
 - [[2025-11-04 The Double Standard Why Are Internet Governance Rules Different for Africa]]
 - [[2026-05-04 The World's Most Needed AI Governance Framework Doesn't Exist Yet. Africa Should Build It]]
+- [[2025-11-28 Nigeria Unveils ECOWAS ID Card To Boost Regional Travel, Security]]

@@ -1,0 +1,67 @@
+---
+type: intersection
+title: Digital identity and CRVS in South Sudan
+place: SSD
+topic: dpi.id
+status: active
+last_reviewed: 2026-07-16
+sources: [[2024-11-21 Over 17,400 South Sudanese receive national identity cards thanks to UNHCR and the EU]], [[2026-01-16 Juba - Passport, ID card issuance resumes]], [[2025-12-15 Strengthening Civil Registration and Ending Statelessness in South Sudan]], [[2025-01-01 Policy and Legal in South Sudan (civil registry and identity framework)]]
+---
+
+# Digital identity and CRVS in South Sudan
+
+South Sudan has **no unified interoperable national digital ID** — the single
+defining gap in its de-facto DPI. What exists is a low-coverage stack of paper
+and donor-driven documents administered by the
+**[[dcrnpi-south-sudan]]** (Directorate of Civil Registry, Nationality, Passport
+and Immigration, styled DCRNPI/DNPI): a nationality certificate (Jinsia), a
+personal ID card (Butaka Shakhsia), and national ID cards issued at scale mainly
+through humanitarian projects. Biometric registries that do exist — a
+World-Bank-backed public-servant payroll, donor health systems — are siloed and
+do not function as an identity layer. See [[dpi.id]], [[SSD]].
+
+## Document types and what they unlock
+
+- **Personal ID card (Butaka Shakhsia)** — as of 2026-01, required for **banking,
+  land transactions and court processes** (adults 18+); "contains full personal
+  details." DNPI held **380,000** cards.
+- **Nationality certificate (Jinsia)** — proves citizenship only; DNPI held
+  ~35,000. Distinct from the personal ID.
+- **National Identity Card** — issued mainly via the EU/UNHCR returnee project
+  (see below).
+
+## Coverage and developments
+
+- **EU/UNHCR issuance (2024).** **17,400+** National Identity Cards issued to
+  returnees and people at risk of statelessness since the start of 2024, focused
+  on Central Equatoria return counties (Morobo, Lainya, Yei, Kajo-Keji). Source:
+  [[2024-11-21 Over 17,400 South Sudanese receive national identity cards thanks to UNHCR and the EU]].
+- **Statelessness / CRVS baseline (2025-12).** Only ~**10%** of the ~12m
+  population held Nationality Certificates; national ID and birth certificates
+  **not yet issued at scale**. A **CRVS Costed Plan** and Civil Registry Rules
+  are adopted; a birth-registration pilot runs at Juba Teaching Hospital. UNHCR
+  reported 590,956 refugees in-country. Source:
+  [[2025-12-15 Strengthening Civil Registration and Ending Statelessness in South Sudan]].
+- **Passport/ID resumption (2026-01).** DNPI resumed issuance after booklet
+  shortages and announced a SIM-linked foreigner-registration scheme. Source:
+  [[2026-01-16 Juba - Passport, ID card issuance resumes]].
+
+## Legal framework
+
+Civil Registry Act 2018; Civil Registry Regulations 2024 (adopted 4 Dec 2024);
+Nationality Act 2011; accession to the 1954 and 1961 Statelessness Conventions
+(Nov 2024). Source:
+[[2025-01-01 Policy and Legal in South Sudan (civil registry and identity framework)]].
+
+## Open question — is national ID being "issued"?
+
+Sources use different definitions and give different pictures, so the state of
+national-ID rollout must be read with as-of dates and document type:
+- **Statelessness Alliance (Dec 2025):** country "yet to issue National Identity
+  cards … at scale"; ~10% hold Nationality Certificates.
+- **DNPI (Jan 2026):** holds **380,000 personal ID cards** in stock.
+- **UNHCR (Nov 2024):** **17,400** National Identity Cards issued via the EU/UNHCR
+  project in 2024.
+These are not necessarily contradictory — they mix stock-held vs issued, and
+Nationality Certificate vs personal ID vs national biometric ID — but there is no
+single reconciled coverage figure. See the reconcile flag in the digest.

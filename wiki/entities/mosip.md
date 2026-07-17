@@ -2,7 +2,7 @@
 type: entity
 entity_type: initiative
 title: MOSIP (Modular Open Source Identity Platform)
-places: [MAR, XGL, XAF, SLE, ETH, UGA, TGO, ZMB, LSO, NGA]
+places: [MAR, XGL, XAF, SLE, ETH, UGA, TGO, ZMB, LSO, NGA, GIN]
 topics: [dpi.id, gov.standards, capacity.training, dpi.pay, tech.industry]
 lens: [sovereignty, colonialism]
 status: active
@@ -94,6 +94,12 @@ public good rather than buy a proprietary vendor system. Funded by Tata Trusts,
   "sovereign data" layer. See [[NGA]], [[dpi.id]], [[gov.standards]]. Source:
   [[2026-06-12 Beyond the AI Stack Why Governments Need Dynamic Digital Infrastructure]].
 
+- **Guinea's biometric national ID on MOSIP + TECH5 (2026-03).** [[GIN]] Guinea's national ID and
+  biometric-birth-certificate programme ([[oneci-guinea]]) is built on **MOSIP and [[tech5]]**
+  infrastructure — the "one citizen, one identity" stack rolled out from communes like Sanoyah, and
+  Guinea's domestic path after its World Bank WURI project closed early (2024). See [[dpi.id]],
+  [[dpi.registry]]. Source: [[2026-03-04 Guinea Launches Biometric Birth Certificates in Sanoyah in Civil Registry Modernization Push]].
+
 ## Related (mentioned, not hubbed)
 
 Nandan Nilekani ([[nandan-nilekani]]), CDPI, OpenG2P, Coss, iSpirt, UIDAI, Inji,
@@ -103,6 +109,7 @@ Sunbird — the India DPI-export ecosystem.
 
 - [[2026-06-17 They're taking DPI to the world - The Times of India]]
 - [[2026-07-08 Sierra Leone partners with Bhutan, Sign on digital identity platform]]
+- [[2026-03-04 Guinea Launches Biometric Birth Certificates in Sanoyah in Civil Registry Modernization Push]]
 - [[2026-06-09 MOSIP accredits Fime for biometric device testing]]
 - [[2026-05-01 Understanding-MOSIP-Biometric-Update-report]]
 - [[2026-07-07 Beyond the Platform Understanding the Growing MOSIP Ecosystem]]

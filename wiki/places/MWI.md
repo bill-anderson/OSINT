@@ -72,6 +72,56 @@ last_reviewed: 2026-07-14
   curbing data misuse and building trust in e-government and digital-ID platforms. Source:
   [[2026-01-28 Malawi positions data privacy as cornerstone of digital development]]. See
   [[gov.protect]], [[gov.policy]], [[dpi.govtech]].
+- **2026-02-04** — **Mass birth-registration campaign; IDT4M.** With the **EU** (a 10-year civil-registration
+  partnership), Norway, Ireland and **[[undp]]**, the **[[national-registration-bureau-malawi|NRB]]** launched
+  phase 1 of a campaign to register **4.6m children** and close the gap to universal coverage (full **adult**
+  registration reached 2024). The EU/UNDP **[[idt4m]]** programme (€10m; ID4Africa 2025 reported ~12.5m
+  enrolled) underpins the DPI foundation. Sources:
+  [[2026-02-04 10 years of a fruitful partnership with the Government of Malawi on civil registration]],
+  [[2024-05-14 Malawi on path to inclusion with digital ID project supported by EU, UNDP]],
+  [[2025-05-28 Malawi nears full scale digital ID rollout to streamline access to services]],
+  [[2025-05-21 NRB to roll out digital ID by 2026]]. See [[dpi.registry]], [[dpi.id]], [[include.access]],
+  [[malawi--dpi-id]].
+- **2025-05-21** — **Biometric SIM registration + National Addressing (MACRA).** The
+  **[[macra-malawi|MACRA]]** communications regulator mandated **biometric SIM registration** from **1 July
+  2025** (tying subscriptions to verified identity) and runs a **National Addressing System** project. Sources:
+  [[2025-05-21 Malawi to Launch Mandatory Biometric SIM Registration in July 2025]],
+  [[2024-02-12 National Addressing Project - MACRA Website]]. See [[dpi.id]], [[dpi.registry]],
+  [[gov.legislate]].
+- **2025** — **Mobile-money economy passes 20m; COMESA cross-border rail.** The
+  **[[reserve-bank-of-malawi|Reserve Bank of Malawi]]**'s National Payment Systems reports show **mobile-money
+  subscribers passing 20.1m** (Q2 2025; ~16.2m and **K19.5tn** in transactions across 2024). Separately,
+  **[[comesa]]**'s Digital Retail Payments Platform ran a **first Malawi–Zambia** cross-border local-currency
+  payment (Oct 2025). Sources:
+  [[2025-11-18 Malawi Hits 20 Million Mobile Money Subscribers Amid Rising Digital Payments]],
+  [[2025-04-16 Mobile money deals hit K19.5tn in 2024]],
+  [[2025-01-22 National payment system registers growth in 2024 Quarter 3]],
+  [[2025-10-13 Comesa payment system connects Malawi, Zambia]]. See [[dpi.pay]], [[include.access]],
+  [[gov.regional]], [[data.statistics]].
+- **2025-06-08** — **Voter-register access denied.** The **[[malawi-electoral-commission|MEC]]** rejected an
+  observer coalition's (Chisankho Watch) request for machine-readable access to the electronic voter roll — a
+  transparency-versus-privacy tension over a state-held identity dataset. Source:
+  [[2025-06-08 MEC Rejects Observer Coalition's Electronic Voter Register Access Request]]. See [[dpi.id]],
+  [[gov.protect]], [[data.open]].
+- **2024-03** — **Government Data Centre under construction.** The Malawi Government (via the Public Private
+  Partnership Commission) reported its **Lilongwe Government Data Centre** ~51% complete — the local-hosting
+  backbone for e-government and data sovereignty. Source:
+  [[2024-03-01 Government Data Center making progress]]. See [[infra.store]], [[dpi.govtech]].
+- **Reference / baselines.** Financial-inclusion and sector studies cited, not absorbed: **FinScope 2023**
+  and **SIIPS 2023** (inclusive payments); a World Bank **Fiscal Governance Program-for-Results** (US$80m,
+  behind PPDA **e-GP** procurement digitisation); a **Health Data Governance** legislative review; an **EdTech
+  rapid scan**; a climate-**DPI**/agriculture dialogue; land-reform implementation lessons; the UNDP
+  **IDT4M Digital Systems Catalogue** (2026); and DataReportal 2025/2026 (~18% internet). Sources:
+  [[2024-08-01 FinScope Consumer Survey Malawi 2023 - Main Findings]],
+  [[2023-01-01 SIIPS 2023 Malawi - Consumer Research Findings]],
+  [[2024-04-26 Malawi Fiscal Governance Program-for-Results - PAD (World Bank)]],
+  [[2024-01-01 The National Digitalization Initiative Transforming Public Procurement in Malawi]],
+  [[2024-01-01 Health Data Governance Legislative & Regulatory Landscape Review - Malawi Country Report]],
+  [[2024-04-01 EdTech in Malawi - A Rapid Scan (EdTech Hub)]],
+  [[2023-12-21 Unlocking the potential of digital public infrastructure for climate data and agriculture - Malawi]],
+  [[2020-01-01 What We Have Learned through Land Reform Implementation in Malawi]],
+  [[2026-01-01 UNDP IDT4M - Digital Systems Catalogue 2026]],
+  [[2025-11-08 Digital 2026 - Malawi (DataReportal)]].
 - **2025-10-21** *(publ.)* — **HMIS data under-used in faith-based facilities.** A
   cross-sectional study of six **Synod of Livingstonia** health facilities (Aug 2023; 103
   staff) found **70%** of facility respondents used HMIS data but only **33%** of district
@@ -101,8 +151,10 @@ last_reviewed: 2026-07-14
   [[national-registration-bureau-malawi]] / [[undp]]); mobile-ID transition + registration-law
   review; immigration / passport / civil-registration services online; Digital Identity Wallet
   pilot. Full case: [[malawi--dpi-id]].
-- [[infra.store]] · [[gov.protect]] — locally hosted servers; data sovereignty.
-- [[finance.new]] — World Bank financing via [[dmap]].
+- [[infra.store]] · [[gov.protect]] — locally hosted servers; data sovereignty; Lilongwe Government Data Centre.
+- [[dpi.id]] · [[dpi.registry]] — **[[macra-malawi|MACRA]]** biometric SIM registration + National Addressing System; mass birth-registration campaign; **[[malawi-electoral-commission|MEC]]** voter-register access tension.
+- [[dpi.pay]] · [[include.access]] · [[gov.regional]] — **[[reserve-bank-of-malawi|RBM]]** mobile-money economy (>20m subscribers); **[[comesa]]** Malawi–Zambia cross-border rail; FinScope/SIIPS.
+- [[finance.new]] — World Bank financing via [[dmap]]; Fiscal Governance PforR (e-GP procurement).
 - [[dpi.mis]] · [[data.statistics]] · [[gov.policy]] — MRA Electronic Invoicing System;
   digital domestic-revenue mobilisation.
 - [[dpi.mis]] · [[gov.standards]] · [[capacity.training]] — HMIS data under-use at facility /
@@ -112,7 +164,8 @@ last_reviewed: 2026-07-14
 
 - [[dmap]] · [[world-bank]] · [[malawi-revenue-authority]] · [[blantyre-city-council]]
 - [[malawi-ministry-of-ict]] · [[undp]] · [[malawi-data-protection-act-2024]]
-- [[national-registration-bureau-malawi]] (PS Patrick Machika)
+- [[national-registration-bureau-malawi]] (PS Patrick Machika) · [[idt4m]] · [[macra-malawi]]
+- [[reserve-bank-of-malawi]] · [[malawi-electoral-commission]] · [[comesa]]
 - [[hmis-malawi-livingstonia]] · [[dhis2]] · [[his-developing-countries-review]]
 - Mentioned, not hubbed: Department of E-Government (Prosper Mopiwa); Department of
   Immigration and Citizenship Services (Denis Chipao); Bomalathu platform; Synod of

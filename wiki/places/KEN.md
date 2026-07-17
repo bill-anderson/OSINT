@@ -110,6 +110,21 @@ last_reviewed: 2026-07-16
 
 _Older dated developments (through early 2026) are preserved in their linked source pages, the topic sections below, and git; the most recent/material anchors are kept here._
 
+- **Batch backfill (2024-2026) — Maisha Namba, DPI roadmap, health, land, payments.** A 2026-07-16
+  ingest added the primary/analytical base for several existing threads: **[[maisha-namba]]** digital ID
+  (Temple iLIT + Amnesty + HRRC governance/exclusion critiques; KES 15.13bn/$117m FY24/25 budget +
+  UPI-at-birth via the Births & Deaths Registration Bill 2025; first-time-ID fees scrapped Mar 2025) →
+  full case [[kenya--dpi-id]]; the **[[kenya-dpi-roadmap]]** (GovStack, under the
+  **[[kenya-national-digital-masterplan|Masterplan 2022-2032]]**); the **[[microsoft-g42-kenya-datacenter]]**
+  founding $1bn announcement (May 2024) behind the later stall; **[[social-health-authority-kenya|SHA]]**
+  dropping OTP for **biometric health ID** + MoH BHI/HIE (Aug 2025); **[[ardhisasa]]** land-platform
+  county rollout; **[[inua-jamii]]** G2P cash transfers on M-Pesa/eCitizen (KES 3.52bn, Feb 2025);
+  **[[pesalink]]**-PAPSS ([[afreximbank]] primary + SIIPS 2022); NPSIMS police digitization; DIIMS
+  diaspora portal; refugee-ID SIM registration (Legal Notice 90); Airtel **Nxtra** Tatu City (44 MW),
+  iXAfrica 20 MW financing and **[[safaricom]]** Limuru DC; GSMA KSH 662bn/2028 + local-smartphone
+  quality gap; DataReportal 2024/2025 (internet penetration 40.8% → 48.0%). See [[dpi.id]], [[dpi.pay]],
+  [[dpi.mis]], [[infra.store]], [[dpi.govtech]].
+
 - **2026-06-18** — At AI Everything x GITEX Kenya, Kenya deepened [[uae]] ties; [[servernah-cloud]] pitched as "Kenya's first sovereign-hosted AI platform", with UAE–Kenya digital-corridor calls. [[2026-06-18 UAE-Kenya Tech Partnership Gains Momentum as AI Investments Grow]] · [[tech.ai]]
 - **2026-06-18** — [[william-ruto]] disclosed G7-sidelines talks with [[openai]]'s Sam Altman on a Nairobi OpenAI Academy for East Africa (proposal, unsigned). [[2026-06-18 Kenya Eyes First OpenAI Academy in East Africa Following Ruto–Sam Altman Talks]] · [[capacity.training]]
 - **2026-06-08** — Kenya proposes a State [[kenya-data-marketplace]] to licence anonymised government datasets (eCitizen, KNBS) — 1,000+ over five years. [[2026-06-08 Kenya proposes marketplace for State data]] · [[data.open]]
@@ -171,6 +186,8 @@ _Older dated developments (through early 2026) are preserved in their linked sou
   [[research-ict-africa]]
 - Substack/analysis batch (2026-07-12): [[alice-munyua]] · [[kenya-ai-bill-2026]] · [[eu-ai-act]] ·
   [[consumer-federation-of-kenya]] · [[africa-ai-declaration]]
+- Batch (2026-07-16): [[maisha-namba]] · [[kenya-dpi-roadmap]] · [[kenya-national-digital-masterplan]] ·
+  [[social-health-authority-kenya]] · [[ardhisasa]] · [[inua-jamii]] · [[airtel-africa]] (Nxtra Tatu City)
 - Mentioned, not hubbed: IXAfrica, Mojaloop Foundation, DPI4Africa; John Tanui (PS,
   State Dept of ICT & Digital Economy); Immaculate Kassait (Data Protection Commissioner);
   Emmanuel Kata (ICT Security Directorate); David Bunei (Oracle Kenya); EverseTech (Michael

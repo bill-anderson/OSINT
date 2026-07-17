@@ -6,7 +6,7 @@ places: [XAF, COD, KEN, NGA, GHA, XWA]
 topics: [dpi.pay, dpi.exchange, include.access, finance.new]
 status: active
 last_reviewed: 2026-07-16
-sources: [[2026-07-02 Visa tests stablecoins in DRC for cross-border payments (The EastAfrican)], [2026-07-02 DR Congo becomes Africa's live test for dollar-settled mobile money (Ecofin)], [2026-01-26 How Onafriq is growing digital finance amid uncertainty in DRC], [2026-02-04 PAPSS, Onafriq launch new trade rail for West Africa], [2026-02-23 111 - Winning But Losing - The Payments End Game]]
+sources: [[2026-07-02 Visa tests stablecoins in DRC for cross-border payments (The EastAfrican)], [2026-07-02 DR Congo becomes Africa's live test for dollar-settled mobile money (Ecofin)], [2026-01-26 How Onafriq is growing digital finance amid uncertainty in DRC], [2026-02-04 PAPSS, Onafriq launch new trade rail for West Africa], [2026-02-23 111 - Winning But Losing - The Payments End Game], [2025-06-23 Onafriq and PAPSS launch cross-border payments in Ghana]]
 ---
 
 # Onafriq (formerly MFS Africa)
@@ -38,6 +38,12 @@ accounts across 43 African countries**.
   [[include.access]]. Source:
   [[2026-01-26 How Onafriq is growing digital finance amid uncertainty in DRC]].
 
+- **Ghana cross-border launch, BoG pilot (2025-06-23).** With [[papss]], Onafriq launched live
+  cross-border payments in Ghana — partner banks, fintechs and MMOs sending/receiving to wallets
+  and bank accounts on PAPSS rails, [[afreximbank]] settling — under a BoG-approved **six-month
+  pilot** ([[onafriq-papss-ghana-launch]]). The foundational Ghana leg that the Feb-2026
+  Nigeria→Ghana naira rail built on. See [[GHA]], [[bank-of-ghana]]. Source:
+  [[2025-06-23 Onafriq and PAPSS launch cross-border payments in Ghana]].
 - **PAPSS Nigeria→Ghana trade rail (2026-02).** With [[papss]], Onafriq is piloting
   wallet-based outbound payments from Nigeria to Ghana **fully in Naira** (no hard-currency
   conversion), CBN-approved, a six-month pilot from 1 Dec — connecting bank and mobile-money
@@ -59,3 +65,4 @@ accounts across 43 African countries**.
 - [[2026-01-26 How Onafriq is growing digital finance amid uncertainty in DRC]]
 - [[2026-02-04 PAPSS, Onafriq launch new trade rail for West Africa]]
 - [[2026-02-23 111 - Winning But Losing - The Payments End Game]]
+- [[2025-06-23 Onafriq and PAPSS launch cross-border payments in Ghana]]

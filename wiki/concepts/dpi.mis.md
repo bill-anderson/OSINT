@@ -2,11 +2,11 @@
 type: concept
 title: Sectoral management information systems (HMIS, EMIS, etc.)
 slug: dpi.mis
-places: [COD, CMR, BDI, XAF, XSS, XGL, RWA, ETH, NGA, KEN, ZAF, MWI, TZA, MOZ, GHA, ZMB, UGA, ZWE, LSO, CPV, EGY]
-entities: [[dhis2], [hisp-centre], [africa-cdc], [open-data-watch], [ethiopia-moh], [echis-ethiopia], [hmis-tanzania-pea], [hmis-malawi-livingstonia], [his-developing-countries-review], [hmis-data-use-index-ethiopia], [echis-ethiopia-study], [dhis2-maturity-ethiopia], [rhis-recording-burden-5country], [america-first-global-health-strategy], [usaid], [gates-foundation], [malawi-revenue-authority], [nissa-lesotho], [universal-dpi-safeguards-framework], [micsti-lesotho], [mosip]]
+places: [COD, CMR, BDI, XAF, XSS, XGL, RWA, ETH, NGA, KEN, ZAF, MWI, TZA, MOZ, GHA, GIN, ZMB, UGA, ZWE, LSO, CPV, EGY, SWZ, TGO]
+entities: [[dhis2], [hisp-centre], [africa-cdc], [open-data-watch], [ethiopia-moh], [echis-ethiopia], [hmis-tanzania-pea], [hmis-malawi-livingstonia], [his-developing-countries-review], [hmis-data-use-index-ethiopia], [echis-ethiopia-study], [dhis2-maturity-ethiopia], [rhis-recording-burden-5country], [america-first-global-health-strategy], [usaid], [gates-foundation], [malawi-revenue-authority], [nissa-lesotho], [universal-dpi-safeguards-framework], [micsti-lesotho], [mosip], [eswatini-cbhis], [eswatini-cmis], [ministry-of-health-eswatini], [eswatini-nhssp], [eswatini-health-system-strengthening-project], [hisp-wca], [stateduc], [mepsta-togo]]
 status: active
-last_reviewed: 2026-07-12
-sources: [[2026-04-23 Health Data Without Continuity Why Electronic Health Records Still Have Not Scaled Across Africa], [2026-06-03 Malawi reaps digital tax gains], [2026-05-13 Shared Services Fee], [2021-08-04 Health information systems in developing countries case of African countries], [2023-10-30 A political economy analysis of strengthening health information system in Tanzania], [2025-10-21 Utilisation of data and factors affecting the performance of the Health Management Information System (HMIS). The case of six Synods of Livingstonia health facilities in Malawi], [2023-05-11 Data for local decision-making, not a mere reporting requirement development of an index to measure facility-level use of HMIS data  Published in Journal of Global Health Reports], [2023-06-07 Barriers, facilitators and motivators of electronic community health information system use among health workers in Ethiopia], [2024-07-26 Maturity Assessment of District Health Information System Version 2 Implementation in Ethiopia Current Status and Improvement Pathways], [2021-09-13 The burden of recording and reporting health data in primary health care facilities in five low- and lower-middle income countries], [2025-04-03 Now is the time to invest in locally-owned health data systems], [2025-11-05 New report highlights urgent need to rebuild and sustain health data systems], [2026-03-19 African Digital Health Data Is a Condition of Global Health Funding], [2026-03-27 Kenya's Health Deal Is a Stress Test for the America First Global Health Strategy], [2026-02-25 Zimbabwe Turns Down U.S. Health Funding, Citing Sovereignty Concerns], [2026-01-16 Lesotho's Digital Leap How Child-Centred Systems are Reshaping Social Protection], [2026-02-20 MICSTI AND NUL ADVANCED LESOTHO DIGITAL PUBLIC INFRASTRUCTURE], [2026-07-05 Post by DHIS2 on LinkedIn]]
+last_reviewed: 2026-07-17
+sources: [[2026-02-23 From Paper to Pixels - Digital Transformation of Community Health Services in Eswatini], [2024-08-01 Eswatini National Health Sector Strategic Plan 2024-25 to 2027-28], [2024-11-19 HISP WCA develops DHIS2 EMIS for education data analysis and visualization in Togo], [2024-11-05 Togo - Integrating DHIS2 with existing EMIS systems], [2026-04-23 Health Data Without Continuity Why Electronic Health Records Still Have Not Scaled Across Africa], [2026-06-03 Malawi reaps digital tax gains], [2026-05-13 Shared Services Fee], [2021-08-04 Health information systems in developing countries case of African countries], [2023-10-30 A political economy analysis of strengthening health information system in Tanzania], [2025-10-21 Utilisation of data and factors affecting the performance of the Health Management Information System (HMIS). The case of six Synods of Livingstonia health facilities in Malawi], [2023-05-11 Data for local decision-making, not a mere reporting requirement development of an index to measure facility-level use of HMIS data  Published in Journal of Global Health Reports], [2023-06-07 Barriers, facilitators and motivators of electronic community health information system use among health workers in Ethiopia], [2024-07-26 Maturity Assessment of District Health Information System Version 2 Implementation in Ethiopia Current Status and Improvement Pathways], [2021-09-13 The burden of recording and reporting health data in primary health care facilities in five low- and lower-middle income countries], [2025-04-03 Now is the time to invest in locally-owned health data systems], [2025-11-05 New report highlights urgent need to rebuild and sustain health data systems], [2026-03-19 African Digital Health Data Is a Condition of Global Health Funding], [2026-03-27 Kenya's Health Deal Is a Stress Test for the America First Global Health Strategy], [2026-02-25 Zimbabwe Turns Down U.S. Health Funding, Citing Sovereignty Concerns], [2026-01-16 Lesotho's Digital Leap How Child-Centred Systems are Reshaping Social Protection], [2026-02-20 MICSTI AND NUL ADVANCED LESOTHO DIGITAL PUBLIC INFRASTRUCTURE], [2026-07-05 Post by DHIS2 on LinkedIn]]
 ---
 
 # Sectoral management information systems (HMIS, EMIS, etc.) (`dpi.mis`)
@@ -53,6 +53,12 @@ what makes it work or fail.
   does not automatically relieve it. The study calls for **international
   standards** for facility registers and forms. See [[capacity.training]],
   [[GHA]], [[MOZ]], [[NGA]], [[TZA]].
+- **[[GHA]] Ghana's digital-health strategy (2023).** The [[ghana-health-service|GHS]]
+  **[[ghana-digital-health-policy-2023-2027|Policy and Strategy on Digital Health 2023-2027]]** sets ten
+  strategic objectives centred on **HMIS interoperability and connectivity** — a formal frame for the
+  same recording/integration gaps the recording-burden study quantifies (LHIMS integration remains a
+  gap for the Ghana Card). See [[GHA]], [[gov.policy]]. Source:
+  [[2023-01-01 Ghana Policy and Strategy on Digital Health 2023-2027 (GHS)]].
 - **The data-use gap (2023–25).** Digitisation ≠ use. In Malawi's Livingstonia
   synod facilities ([[hmis-malawi-livingstonia]], Salangwa et al.) **70% of
   facility staff** but only **33% of district officials** regularly reviewed
@@ -123,6 +129,30 @@ what makes it work or fail.
   the largest DHIS2 deployments). See [[gov.standards]], [[infra.energy]],
   [[RWA]], [[ETH]], [[NGA]], [[KEN]], [[ZAF]]. Source:
   [[2026-04-23 Health Data Without Continuity Why Electronic Health Records Still Have Not Scaled Across Africa]].
+- **[[RWA]] Rwanda — CRVS–EIR interoperability via DHIS2 (2022-04).** A DHIS2-based integration of
+  Rwanda's Civil Registration & Vital Statistics with the Electronic Immunization Registry uses the
+  NIN assigned at birth to link the birth registry to immunization records, improving EPI management —
+  an early African example of registry↔HMIS interoperability. See [[dpi.registry]], [[dpi.id]], [[RWA]].
+  Source: [[2022-04-28 Interoperability of CRVS and EIR systems for improved EPI management in Rwanda]].
+- **[[SWZ]] Eswatini — offline-first community health, wired to the national EHR (2026-02).** The
+  Ministry of Health's electronic **Community-Based Health Information System** ([[eswatini-cbhis]])
+  runs **offline** on handheld devices and synchronises once connectivity allows, integrated with the
+  national electronic health record — the **Client Management Information System** ([[eswatini-cmis]]).
+  Modules cover NCDs (diabetes, hypertension), antenatal care, under-five nutritional screening, health
+  education, malaria and HIV. The workforce being digitised is what makes it consequential: **Rural
+  Health Motivators are nearly 22% of the national health workforce**, in a country where an estimated
+  **77% of the population lives in rural areas (as of 2026-02-23)**. RHMs previously spent hours on
+  paper registers and travelled at their own expense to the chiefdom, Inkhundla, nearest facility or
+  regional office — often completing **duplicate forms for different funding partners**, the same
+  donor-driven fragmentation the Tanzania and recording-burden studies above quantify. A pilot is
+  complete in **Mpolonjeni Inkhundla, Lubombo**, with national rollout beginning and RHMs in training;
+  financing runs through the World Bank **[[eswatini-health-system-strengthening-project]]** (PAD3539,
+  US$20m), under the **[[eswatini-nhssp|National Health Sector Strategic Plan 2024/25–2027/28]]**. The
+  offline-first design meets the same infrastructure floor as Ethiopia's **[[echis-ethiopia]]** — but
+  by syncing rather than running parallel paper. See [[digital.rural]], [[dpi.exchange]],
+  [[include.access]], [[SWZ]]. Sources:
+  [[2026-02-23 From Paper to Pixels - Digital Transformation of Community Health Services in Eswatini]],
+  [[2024-08-01 Eswatini National Health Sector Strategic Plan 2024-25 to 2027-28]].
 
 ## Key material — other sectoral MIS
 
@@ -155,6 +185,27 @@ what makes it work or fail.
   payment providers and KoboToolbox — the base for a planned Unified Social Registry. See [[dpi.registry]],
   [[include.access]]. Source: [[2026-01-01 Burundi's growing social protection system now runs on openIMIS]].
 
+- **[[TGO]] Togo — DHIS2 over StatEduc, and a start date its own publisher disputes (2024-11).**
+  Togo's **[[mepsta-togo|MEPSTA]]** runs a **[[dhis2]]**-based EMIS built by **[[hisp-wca]]** on
+  **Norad** and **GPE KIX** funding, layered over the incumbent **[[stateduc]]** application (used in
+  ~20 countries, thin analytical tools, leaving sub-national levels dependent on central analyses).
+  Data from Togo's **16,000** nursery, primary and secondary schools was collected on paper and entered
+  into StatEduc — which **remains the collection tool**, while DHIS2 processes it and produces the
+  information products, giving schools and sub-national actors real-time dashboards. Indicators include
+  enrolment by level, teacher–learner ratio and national exam pass rates, disaggregated by gender **and
+  disability status**; local innovations run to a school observation tool, school report cards, a
+  **WhatsApp bot for exam results** and MICS-EAGLE integration. **Contradiction, unresolved — same
+  publisher, two accounts:** the DHIS2 country implementation profile records "**Since 2019, national
+  scale**" while describing the ministry as "**piloting**" DHIS2 alongside StatEduc; the DHIS2 article
+  of **2024-11-19** says "**In 2021** DHIS2 was implemented in interoperability with StatEduc" and that
+  the EMIS is "**currently under review by Togo's Ministry of Education**." Both are recorded, neither
+  adopted → `reviews/contradictions/open/togo-dhis2-emis-start-date`. Togo is one of **six** education
+  ministries in the global **DHIS2 for Education** research project — with **[[SWZ]] Eswatini**,
+  Mozambique, The Gambia, Sri Lanka and Uganda. See [[data.statistics]], [[dpi.exchange]],
+  [[gov.standards]], [[TGO]]. Sources:
+  [[2024-11-19 HISP WCA develops DHIS2 EMIS for education data analysis and visualization in Togo]],
+  [[2024-11-05 Togo - Integrating DHIS2 with existing EMIS systems]].
+
 - **[[GAB]] Gabon — education MIS (SIGE).** The **[[sige-gabon]]** (Système d'Information pour la
   Gestion de l'Éducation) is being built out as the education-planning backbone: a 2025 school-data
   collection push (World Bank tablets, UNESCO software) and integration of **school-health and
@@ -165,6 +216,7 @@ what makes it work or fail.
 
 [[XAF]] · [[XSS]] · [[XGL]] · [[RWA]] · [[ETH]] · [[NGA]] · [[KEN]] · [[ZAF]] · [[GAB]] ·
 [[MWI]] · [[TZA]] · [[MOZ]] · [[GHA]] · [[ZMB]] · [[UGA]] · [[ZWE]] · [[LSO]] · [[BDI]] ·
+[[SWZ]] · [[TGO]] ·
 Intersections: [[ethiopia--dpi-mis]] · Related:
 [[dpi.exchange]] · [[dpi.id]] · [[dpi.registry]] · [[dpi.govtech]] · [[data.statistics]]
 
@@ -188,3 +240,8 @@ Intersections: [[ethiopia--dpi-mis]] · Related:
 - [[2026-01-16 Lesotho's Digital Leap How Child-Centred Systems are Reshaping Social Protection]]
 - [[2026-02-20 MICSTI AND NUL ADVANCED LESOTHO DIGITAL PUBLIC INFRASTRUCTURE]]
 - [[2026-07-05 Post by DHIS2 on LinkedIn]]
+- [[2022-04-28 Interoperability of CRVS and EIR systems for improved EPI management in Rwanda]]
+- [[2026-02-23 From Paper to Pixels - Digital Transformation of Community Health Services in Eswatini]]
+- [[2024-08-01 Eswatini National Health Sector Strategic Plan 2024-25 to 2027-28]]
+- [[2024-11-19 HISP WCA develops DHIS2 EMIS for education data analysis and visualization in Togo]]
+- [[2024-11-05 Togo - Integrating DHIS2 with existing EMIS systems]]

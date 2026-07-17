@@ -6,8 +6,8 @@ places: [KEN, XAF]
 topics: [dpi.pay, dpi.exchange, gov.regional, finance.mou]
 lens: []
 status: active
-last_reviewed: 2026-07-12
-sources: [[2026-03-02 Pesalink and PAPSS link networks for African payments], [2026-01-13 The rise of cheques as Kenya's preferred payment method]]
+last_reviewed: 2026-07-16
+sources: [[2026-03-02 Pesalink and PAPSS link networks for African payments], [2026-01-13 The rise of cheques as Kenya's preferred payment method], [2026-02-26 Pesalink and PAPSS Unlock Cross-Border Payments in Local Currencies in Kenya], [2022-01-01 SIIPS 2022 Case Study - Pesalink (AfricaNenda)]]
 ---
 
 # Pesalink
@@ -19,7 +19,8 @@ telcos**, giving it broad reach across Kenya's financial system.
 
 ## Why it matters here
 
-As reported **2026-03-02**, Pesalink signed a **partnership agreement with the
+As reported **2026-03-02** (and confirmed in an **[[afreximbank]]** primary release, 2026-02-26),
+Pesalink signed a **partnership agreement with the
 [[papss|Pan-African Payment and Settlement System (PAPSS)]]**, joining the PAPSS
 platform as a **Technical Connectivity Provider**. The integration connects
 Pesalink's 80+ Kenyan institutions to **over 160 commercial banks and fintechs**
@@ -52,9 +53,15 @@ separate correspondent relationships.
 Pesalink now functions as Kenya's on-ramp into the pan-African instant-payments
 architecture, a switch-to-switch model that PAPSS intends to replicate elsewhere.
 
+Pesalink is operated by Integrated Payment Services Limited (IPSL), owned by the Kenya Bankers
+Association, and is profiled in AfricaNenda's **SIIPS 2022** case study as Kenya's bank-led instant
+payment system. Sources: [[2026-02-26 Pesalink and PAPSS Unlock Cross-Border Payments in Local Currencies in Kenya]],
+[[2022-01-01 SIIPS 2022 Case Study - Pesalink (AfricaNenda)]].
+
 ## Related
 
 - [[papss]]
 - [[afcfta]]
 - [[onafriq]]
 - [[safaricom]]
+- [[afreximbank]]

@@ -2,12 +2,12 @@
 type: entity
 entity_type: initiative
 title: Pan-African Payment and Settlement System (PAPSS)
-places: [XAF, XWA, NGA, GHA, EGY, KEN, XCA]
+places: [XAF, XWA, NGA, GHA, EGY, KEN, XCA, NAM]
 topics: [dpi.pay, gov.regional, dpi.exchange, finance.new]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-16
-sources: [[2026-07-07 African nations recommit to operationalize AfCFTA digital single market framework], [2026-05-30 Afreximbank Banks on Digital Payments to Unlock Africa's Trillion-Dollar Trade Potential], [2026-07-09 Nigeria Takes AfCFTA Council Chair as Digital Forum Charts Roadmap for Implementation], [2026-02-04 PAPSS, Onafriq launch new trade rail for West Africa], [2022-05-11 Pan-African Payment and Settlement System], [2022-08-30 Pan-African Payment and Settlement System drives Africa's banking integration], [2026-02-05 Ghana Mobile Money Interoperability Nearly Doubles in 2025], [2026-03-02 Pesalink and PAPSS link networks for African payments], [2026-02-05 Bank of Ghana Calls for Payment System Overhaul to Unlock AfCFTA Trade], [2026-07-11 BEAC joins PAPSS and accelerates cross-border payments integration in Central Africa], [2026-01-27 Nigeria's PAPSS cross-border payments falls 53% to N5.6bn], [2026-01-23 Afreximbank flags Africa's digital trade gap at Davos], [2026-02-02 How Strategic  Shift of NIBSS Is  Rewiring Nigeria's Payments System], [2026-01-12 (3) Africa's Digital Policy Review 2025 in Perspective and Outlook for 2026]]
+sources: [[2026-07-07 African nations recommit to operationalize AfCFTA digital single market framework], [2026-05-30 Afreximbank Banks on Digital Payments to Unlock Africa's Trillion-Dollar Trade Potential], [2026-07-09 Nigeria Takes AfCFTA Council Chair as Digital Forum Charts Roadmap for Implementation], [2026-02-04 PAPSS, Onafriq launch new trade rail for West Africa], [2022-05-11 Pan-African Payment and Settlement System], [2022-08-30 Pan-African Payment and Settlement System drives Africa's banking integration], [2026-02-05 Ghana Mobile Money Interoperability Nearly Doubles in 2025], [2026-03-02 Pesalink and PAPSS link networks for African payments], [2026-02-05 Bank of Ghana Calls for Payment System Overhaul to Unlock AfCFTA Trade], [2026-07-11 BEAC joins PAPSS and accelerates cross-border payments integration in Central Africa], [2026-01-27 Nigeria's PAPSS cross-border payments falls 53% to N5.6bn], [2026-01-23 Afreximbank flags Africa's digital trade gap at Davos], [2026-02-02 How Strategic  Shift of NIBSS Is  Rewiring Nigeria's Payments System], [2026-01-12 (3) Africa's Digital Policy Review 2025 in Perspective and Outlook for 2026], [2025-06-23 Onafriq and PAPSS launch cross-border payments in Ghana]]
 ---
 
 # Pan-African Payment and Settlement System (PAPSS)
@@ -30,6 +30,12 @@ Continental cross-border payment-and-settlement infrastructure, operated by
   real-time cross-border reach. PAPSS CEO Mike Ogbalu III; Afreximbank president Benedict
   Oramah. See [[dpi.pay]], [[KEN]], [[finance.new]]. Source:
   [[2026-05-30 Afreximbank Banks on Digital Payments to Unlock Africa's Trillion-Dollar Trade Potential]].
+- **Ghana launch, BoG six-month pilot (2025-06-23).** PAPSS and [[onafriq]] launched live
+  cross-border payments in Ghana ([[onafriq-papss-ghana-launch]]) — banks, fintechs and MMOs
+  transacting to wallets/accounts on PAPSS rails, [[afreximbank]] settling — under a Bank of Ghana
+  six-month pilot. The foundational Ghana leg preceding the Feb-2026 Nigeria→Ghana naira rail. See
+  [[GHA]], [[bank-of-ghana]], [[dpi.pay]]. Source:
+  [[2025-06-23 Onafriq and PAPSS launch cross-border payments in Ghana]].
 - **Onafriq West Africa trade rail (2026-02).** PAPSS and [[onafriq]] launched a wallet-based
   **Nigeria→Ghana** outbound-payment pilot fully in Naira (CBN-approved, six months from 1
   Dec), bridging bank and mobile-money silos to support [[afcfta]]; PAPSS network cited at
@@ -72,6 +78,10 @@ Continental cross-border payment-and-settlement infrastructure, operated by
   exists yet** (watch the H2 2025 CBN FSR). In the same window **[[papsscard]]** launched (Afreximbank
   + Mercury Payment Services). See [[NGA]], [[nigeria--dpi-pay]], [[dpi.pay]]. Source:
   [[2026-01-27 Nigeria's PAPSS cross-border payments falls 53% to N5.6bn]].
+- **Namibia courted (2024-10).** Afreximbank pressed **Namibia ([[NAM]])** and the
+  **[[bank-of-namibia|Bank of Namibia]]** to join PAPSS for local-currency cross-border settlement at a
+  Windhoek seminar — southern-African outreach ahead of Namibia's own instant-payments build. See [[NAM]],
+  [[dpi.pay]], [[gov.regional]]. Source: [[2024-10-21 Namibia can benefit from Africa trade payment system (PAPSS)]].
 - **Davos 2026 advocacy (2026-01-23).** At Africa Collective Davos, [[afreximbank]] again
   positioned PAPSS as the cornerstone rail without which AfCFTA's 1.4bn-market integration
   stalls — advocacy, no new transaction. Source:
@@ -103,3 +113,5 @@ Continental cross-border payment-and-settlement infrastructure, operated by
 - [[2026-01-23 Afreximbank flags Africa's digital trade gap at Davos]]
 - [[2026-02-02 How Strategic  Shift of NIBSS Is  Rewiring Nigeria's Payments System]]
 - [[2026-01-12 (3) Africa's Digital Policy Review 2025 in Perspective and Outlook for 2026]]
+- [[2025-06-23 Onafriq and PAPSS launch cross-border payments in Ghana]]
+- [[2024-10-21 Namibia can benefit from Africa trade payment system (PAPSS)]]

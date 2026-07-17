@@ -2,11 +2,11 @@
 type: concept
 title: Data Exchange
 slug: dpi.exchange
-places: [COM, CIV, CMR, AGO, ZMB, XAF, NGA, KEN, MWI, ZAF, RWA, BEN, GHA, ETH, SEN, TGO, XWA, DJI, TZA, XEA, LSO, UGA, COD, CPV, DZA, EGY, ERI]
+places: [COM, CIV, CMR, AGO, ZMB, XAF, NGA, KEN, MWI, ZAF, RWA, BEN, GHA, ETH, SEN, TGO, XWA, DJI, TZA, XEA, LSO, UGA, COD, CPV, DZA, EGY, ERI, STP, SLE]
 entities: [[dzap], [smart-zambia-institute], [afcfta], [papss], [equity-africanenda-gates-dpi-partnership], [ucl-iipp], [dmap], [undp], [popia], [research-ict-africa], [sadx], [smart-africa], [uxp-benin], [cybernetica], [estdev], [estdev-smart-africa-mou], [eac], [wamkele-mene], [afcfta-digital-trade-protocol], [wbg-dpi-white-paper], [dhis2], [africa-cdc], [adli], [dial], [ethswitch], [safaricom], [wingu-africa], [nitda], [ngea], [galaxy-backbone], [new-deal-technologique], [wuri-programme], [ecowas], [sigmat], [cybastion], [securoute], [asin-benin], [micsti-lesotho], [mosip], [gtmi], [onafriq]]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-14
+last_reviewed: 2026-07-16
 sources: [[2025-09-11 DZAP World Bank PAD], [2025-08-04 93 - Ecosystem Debt or Generative Platforms A Case for Digital Public Infrastructure], [2026-07-03 AfCFTA, Data Governance and the Hidden Legal Gaps Reshaping Africa's Digital Economy - P.M. News], [2026-07-07 Equity, AfricaNenda and Gates Foundation Partner to Advance Digital Public Infrastructure Across Africa], [2025-01-01 dpi_conceptualisation_and_measurement], [2026-07-07 African nations recommit to operationalize AfCFTA digital single market framework], [2026-07-07 Malawi integrates immigration e-services], [2026-06-17 Government data silos threaten Nigeria's AI ambitions], [2026-07-03 Study finds governance, not technology, is blocking digital ID interoperability], [2026-06-05 Nigeria looks beyond enrollment as digital ID passes 130 million], [2026-07-03 Google Cloud Region forecasts R1.7tn boost for SA], [2026-01-01 Digital Public Infrastructure in Africa - UNDP], [2026-07-10 Kenya and U.S. Discuss Draft Data Governance Policy to Strengthen Digital Economy], [2025-01-01 South African Digital Sovereignty at the Crossroad of Securitization and Development (Chapter 4) - Digital Sovereignty in the BRICS Countries], [2026-04-27 Smart Africa drives cross-border data interoperability through SADX Technical Mission], [2026-07-11 UXP Directory], [2026-07-03 Cybernetica], [2026-05-28 Estonia backs Africa digital infrastructure], [2026-05-16 World Bank, African DPAs outline formula for trusted digital identity, DPI], [2026-07-09 Nigeria Takes AfCFTA Council Chair as Digital Forum Charts Roadmap for Implementation], [2026-04-08 Africa's digital trade push requires 700 data centres, says AfCFTA chief], [2026-05-27 Africa's economic future hinges on breaking down silos. This ADLI cohort advances integration], [2026-04-23 Health Data Without Continuity Why Electronic Health Records Still Have Not Scaled Across Africa], [2026-03-30 M-PESA Ethiopia surges 258% as EthSwitch fuels growth], [2026-04-01 Wingu Africa debuts cloud exchange platform in Ethiopia], [2026-04-07 NITDA Assumes Control Of NGEA Infrastructure], [2026-03-25 Senegal Accelerates Digital Sovereignty with Rollout of Flagship Technology Initiatives], [2026-03-30 ECOWAS, World Bank Advance West Africa Digital Identity], [2026-03-31 EAC moves to create unified AI Sovereignty bloc], [2026-01-30 ECOWAS PRESENTS 'SIGMAT' AT THE WORLD CUSTOMS ORGANIZATION 2026 TECHNOLOGY CONFERENCE IN ABU DHABI   Economic Community of West African States (ECOWAS)], [2026-01-27 Cybastion Advances Digital Government Solutions, Supports Benin's SECUROUTE Infrastructure Upgrade], [2026-02-20 MICSTI AND NUL ADVANCED LESOTHO DIGITAL PUBLIC INFRASTRUCTURE], [2026-01-26 Tanzania's GovTech success raises bar for East Africa's digital states], [2026-07-10 Every country defines identity differently. Can digital public infrastructure bridge those differences], [2026-01-26 How Onafriq is growing digital finance amid uncertainty in DRC]]
 ---
 
@@ -20,7 +20,7 @@ cross-border scale, the legal enforceability of that exchange.
 - **DPI as roadmap and sustainability problem (2026).** The **[[dpi-roadmap-playbook]]** (Gates
   consortium) and DPGA's *Building Open Digital States* frame DPI as three building blocks (ID, payments,
   data exchange) built on open-source DPGs for sovereignty; DIAL flags the **capex-funded, opex-unfunded**
-  financing gap that kills national data-exchange platforms ([[africa-data-leadership-initiative]]); ODI
+  financing gap that kills national data-exchange platforms ([[adli]]); ODI
   reads DPI through the G20 troika and its contested, India-linked origins. CIPESA interrogates DPI's
   governance/power in East Africa; ODI's Nigeria study shows cross-border payments failing at the
   corporate-ID layer, not the rail. Sources:
@@ -30,13 +30,14 @@ cross-border scale, the legal enforceability of that exchange.
   [[2026-05-29 Digital Public Infrastructure at the G20 tensions commitments and continuities]]. See [[dpi.pay]], [[gov.regional]].
 
 - **From owning data to governing it (2026 H1).** Rwanda operationalised a public-sector
-  **[[rwanda-national-data-sharing-policy]]** (open-by-default, institutions as stewards) via the
+  **[[rwanda-national-data-sharing-policy]]** (open-by-default, Five Safes, institutions as stewards, NISR governance / RISA platform split) via the
   [[nisr]] Data Governance Unit; the draft **[[african-guidelines-data-access]]** pushes proactive
   disclosure and interoperable access continent-wide; and CIPESA flags weak cross-border interoperability
   of app-based **health** data. Sources:
   [[2026-05-07 What will determine the success of Rwanda’s data governance push]],
   [[2026-05-07 African Guidelines on Data Access ACHPR Res 620 draft]],
-  [[2026-06-23 Towards Regulation of App-Based Health Data in Africa]]. See [[data.open]], [[dpi.mis]].
+  [[2026-06-23 Towards Regulation of App-Based Health Data in Africa]],
+  [[2025-06-09 Rwanda charts a new course for government data sharing]]. See [[data.open]], [[dpi.mis]].
 
 - **Cross-border data under AfCFTA (2026-07).** As [[afcfta]] accelerates continental
   expansion, **incompatible national regimes** turn data-sharing into legal exposure — "a
@@ -131,11 +132,20 @@ cross-border scale, the legal enforceability of that exchange.
   cutting duplication. Piloted at NIMC, Customs, Immigration and NITDA; hosted by
   **[[galaxy-backbone]]**. The within-government exchange bus. See [[dpi.govtech]], [[gov.standards]].
   Source: [[2026-04-07 NITDA Assumes Control Of NGEA Infrastructure]].
+- **[[NGA]] Nigeria — NGDX, a verify-and-share data backbone (2025-08).** [[nitda]] unveiled the
+  **Nigeria Data Exchange ([[ngdx]])** — built with the **[[european-union]]**, Finland and Estonia —
+  to end the eight-siloed-database problem (NIN/BVN/NCC/NIS/FIRS/FRSC/CAC/INEC) with a verify-and-share
+  backbone, targeting operational status by end-2025. Complements the [[ngea]] architecture above. See
+  [[nigeria--dpi-exchange]], [[dpi.govtech]], [[dpi.id]]. Source:
+  [[2025-08-28 Nigeria to launch National Data Exchange (NGDX) platform to boost digital economy]].
 - **[[SEN]] Senegal — a National Interoperability Platform (2026-03).** Under the
   **[[new-deal-technologique]]**, Senegal is rolling out a **National Interoperability Platform** to
   break silos between ministries and enable **secure, real-time data exchange** behind online public
-  services, paired with sovereign data centres/cloud to keep data in-country. See [[dpi.govtech]],
-  [[gov.protect]], [[infra.store]]. Source:
+  services, paired with sovereign data centres/cloud to keep data in-country; the platform was
+  first announced (2025-04) as a JICA-supported interministerial system, its first phase (end-2025)
+  targeting faster social assistance. See [[dpi.govtech]],
+  [[gov.protect]], [[infra.store]]. Sources:
+  [[2025-04-22 Senegal launches interministerial interoperable data-exchange platform]],
   [[2026-03-25 Senegal Accelerates Digital Sovereignty with Rollout of Flagship Technology Initiatives]].
 - **[[XWA]] West Africa — cross-border ID as exchange (2026-03).** The **[[wuri-programme]]**
   ([[ecowas]] + World Bank) validated a regional/cross-border interoperability strategy for **mutual
@@ -203,15 +213,30 @@ cross-border scale, the legal enforceability of that exchange.
   analyst's framework, attributed to Kariuki. See [[dpi.pay]], [[dpi.id]], [[GHA]], [[ZAF]].
   Source: [[2025-08-04 93 - Ecosystem Debt or Generative Platforms A Case for Digital Public Infrastructure]].
 
+- **[[GHA]] Ghana — why the exchange layer lags (case study, DIAL).** [[dial]]'s Ghana case study
+  explains the weakness Kariuki scores: the national data-exchange hub **eGIF (2009) stalled** on
+  funding and unclear mandates, and a private-sector-led ecosystem produced **fragmented, decentralized**
+  government data. **Ghana.gov** — the fintech-enabled payments portal — became the de-facto exchange
+  catalyst instead: a use-case-first path where a top-down interoperability framework failed. See
+  [[GHA]], [[dpi.govtech]], [[dpi.pay]], [[ghana--dpi-pay]]. Source:
+  [[2024-01-01 Ghana national data exchange case study (Digital Impact Alliance)]].
+
 - **[[GAB]] Gabon — a government interoperability platform as a WB results indicator.** The
   **[[digital-gabon-project]]** funds secure public-sector data exchange; its results framework targets
   **5 government entities actively exchanging data on the interoperability platform** by June 2026 —
   at baseline (0) as of Dec 2024, one measure of the project's slow execution. See [[GAB]]. Source:
   [[2024-12-19-world-bank-digital-gabon-isr-seq7]].
 
+- **[[STP]] São Tomé and Príncipe — an interoperability framework by law (2024).** São Tomé enacted a
+  **National Framework for Interoperability** (Law 1/2024) to govern public-sector data sharing — the
+  legal scaffolding for exchange ahead of the platform. See [[dpi.govtech]], [[gov.legislate]], [[STP]].
+- **[[SLE]] Sierra Leone — an X-Road service bus in prototype (2024).** Sierra Leone is prototyping a
+  **Government Service Bus** on X-Road via a Ministry of Finance PFM working group. See [[dpi.govtech]],
+  [[gov.standards]], [[SLE]].
+
 ## Places
 
-[[ZMB]] · [[XAF]] · [[NGA]] · [[KEN]] · [[MWI]] · [[ZAF]] · [[RWA]] · [[BEN]] · [[GHA]] · [[ETH]] · [[SEN]] · [[TGO]] · [[XWA]] · [[DJI]] · [[TZA]] · [[XEA]] · [[LSO]] · [[UGA]] · [[COD]] · [[GAB]]
+[[ZMB]] · [[XAF]] · [[NGA]] · [[KEN]] · [[MWI]] · [[ZAF]] · [[RWA]] · [[BEN]] · [[GHA]] · [[ETH]] · [[SEN]] · [[TGO]] · [[XWA]] · [[DJI]] · [[TZA]] · [[XEA]] · [[LSO]] · [[UGA]] · [[COD]] · [[GAB]] · [[STP]] · [[SLE]]
 
 ## Sources
 
@@ -250,3 +275,6 @@ cross-border scale, the legal enforceability of that exchange.
 - [[2026-07-10 Every country defines identity differently. Can digital public infrastructure bridge those differences]]
 - [[2026-01-26 How Onafriq is growing digital finance amid uncertainty in DRC]]
 - [[2025-08-04 93 - Ecosystem Debt or Generative Platforms A Case for Digital Public Infrastructure]]
+- [[2025-06-09 Rwanda charts a new course for government data sharing]]
+- [[2025-04-22 Senegal launches interministerial interoperable data-exchange platform]]
+- [[2025-08-28 Nigeria to launch National Data Exchange (NGDX) platform to boost digital economy]]

@@ -333,10 +333,15 @@ queue means routing each item to its correct destination.
    reports an event already in the wiki or a genuinely new development. Match
    incoming sources against existing pages by event + entities + date:
    - **Same event, same period** (another outlet on the same story) → do *not*
-     spawn parallel pages. Create the source page, then attach it to the
-     `sources` list of the pages the event already touches. Fold in any detail,
-     figure or quote the existing account lacks; if it conflicts, apply the
-     contradiction rule below rather than overwriting.
+     spawn parallel pages. If the incoming clip is a **relevant-duplicate** of a
+     source already held — its in-scope payload adds no fact, figure, date, quote
+     or provenance link the existing one lacks — do **not** admit it as a second
+     source: keep the better of the two by the lint #7 ladder (primary >
+     provenance > earliest > deterministic), discard the redundant copy, and note
+     it in `log.md`. Otherwise create the source page, attach it to the `sources`
+     list of the pages the event already touches, and fold in any detail, figure
+     or quote the existing account lacks; if it conflicts, apply the contradiction
+     rule below rather than overwriting.
    - **Same story, later date** (the situation has moved) → treat as an
      **update**, not a duplicate: revise the affected pages, add the new source,
      and keep the prior "as of" statement dated rather than deleting it.
@@ -681,8 +686,28 @@ the ordinary hygiene in Source admissibility → The author's own work.
    second-hand or AI-generated synthesis, or the author's *unpublished* notes;
    flag for removal and re-sourcing. (Published Data Landscapers work is
    admissible as analysis — do not flag it.)
-7. **Duplicate pages** — near-identical concept/entity/intersection pages
-   covering the same event; flag for merge.
+7. **Duplicates.**
+   - *Pages* — near-identical concept/entity/intersection pages covering the same
+     event; flag for merge.
+   - *Sources* — cluster `raw/` items sharing event + entities + date, then within
+     each cluster find **relevant-duplicates**: two sources whose *in-scope
+     payload* — the facts, figures, dates, entities and quotes the wiki draws on —
+     is identical, one adding nothing the other lacks (outlet boilerplate, framing
+     and length don't count). For each such set **keep one and delete the rest**,
+     choosing the keeper by the first rule that separates them: (a) primary over
+     secondary; (b) better provenance — `date_source: source` with finer
+     `date_precision`, and a canonical URL over a syndicated/aggregator copy;
+     (c) earliest publication (the origin; later identical copies are derivative);
+     (d) failing all else, the one cited by more pages, then
+     lexicographically-first filename — an immaterial pick, since the payloads are
+     identical. Before deleting, rewire any `sources:` citation to the kept twin
+     and record the deletion in `log.md` (kept + pruned URLs/titles). Delete
+     **only** exact relevant-duplicates; if payloads differ at all — a figure,
+     date, quote or provenance link one lacks — they are complementary or
+     contradictory, not duplicates: leave them, folding in detail or applying the
+     contradiction rule. Tier-2 (auto, then digest); git holds the deleted files.
+     *(A preferred-sources list, when it exists, extends this to near-duplicates
+     and re-orders (a)–(c); it is not needed for exact duplicates.)*
 8. **Page bloat** — synthesis pages past the refactor threshold (~2,500 words)
    or reading as append-logs; flag for trimming or intersection split. Oversized
    indexes; flag for sharding.

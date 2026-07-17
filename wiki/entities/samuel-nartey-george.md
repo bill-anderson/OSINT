@@ -3,11 +3,11 @@ type: entity
 entity_type: person
 title: Samuel Nartey George
 places: [GHA]
-topics: [gov.policy, gov.legislate, tech.innovate, tech.ai, finance.new, capacity.training]
+topics: [gov.policy, gov.legislate, tech.innovate, tech.ai, finance.new, capacity.training, dpi.id]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-12
-sources: [[2026-07-07 Ghana and UNDP Strengthen Partnership on Digital Transformation Projects], [2026-04-03 Ghana approves $250M AI Hub & National AI Strategy], [2026-03-05 Ghana strikes AI training deal with Chinese multinational amid $250m tech investment push], [2026-01-22 Ghana to take state control of .GH domain to strengthen digital identity], [2026-01-15 Leveraging AI to Bypass the Smartphone Barrier and Advance Digital Inclusion in Africa]]
+last_reviewed: 2026-07-16
+sources: [[2026-07-07 Ghana and UNDP Strengthen Partnership on Digital Transformation Projects], [2026-04-03 Ghana approves $250M AI Hub & National AI Strategy], [2026-03-05 Ghana strikes AI training deal with Chinese multinational amid $250m tech investment push], [2026-01-22 Ghana to take state control of .GH domain to strengthen digital identity], [2026-01-15 Leveraging AI to Bypass the Smartphone Barrier and Advance Digital Inclusion in Africa], [2025-09-08 Ghana plans new framework for SIM card-digital ID linkage], [2025-04-15 Ghana's SIM Registration Goes Fully Online from June 2025]]
 ---
 
 # Samuel Nartey George
@@ -38,6 +38,13 @@ government's digital-transformation agenda.
   [[capacity.training]], [[geopol.china]], [[tech.ai]]. Source:
   [[2026-03-05 Ghana strikes AI training deal with Chinese multinational amid $250m tech investment push]].
 
+- **Biometric SIM–Ghana Card linkage framework (2025-09).** [[dpi.id]] [[gov.legislate]] Announced a
+  new Legislative Instrument (expected Oct 2025) to link every SIM to the NIA biometric database via a
+  Centralized Equipment Identity Register (CEIR), to curb mobile-money fraud — citing ~7,250 MoMo fraud
+  cases in 2023 (+32%). Earlier (Apr 2025, at Margins ID's ICPS plant) he announced SIM re-registration
+  going **fully online** via the Ghana Card from June 2025. See [[GHA]], [[national-identification-authority-ghana]],
+  [[ghana-card]]. Sources: [[2025-09-08 Ghana plans new framework for SIM card-digital ID linkage]],
+  [[2025-04-15 Ghana's SIM Registration Goes Fully Online from June 2025]].
 - **.GH domain state control (2026-01).** Announced plans to bring Ghana's **.GH ccTLD fully under
   state ownership** — managed privately since 1996 by internet pioneer Prof. Nii Narku Quaynor via
   the **[[ghana-domain-name-registry]]** (GDNR) — and to push businesses onto **.com.gh** (auto-assigned
@@ -57,3 +64,5 @@ government's digital-transformation agenda.
 - [[2026-03-05 Ghana strikes AI training deal with Chinese multinational amid $250m tech investment push]]
 - [[2026-01-22 Ghana to take state control of .GH domain to strengthen digital identity]]
 - [[2026-01-15 Leveraging AI to Bypass the Smartphone Barrier and Advance Digital Inclusion in Africa]]
+- [[2025-09-08 Ghana plans new framework for SIM card-digital ID linkage]]
+- [[2025-04-15 Ghana's SIM Registration Goes Fully Online from June 2025]]

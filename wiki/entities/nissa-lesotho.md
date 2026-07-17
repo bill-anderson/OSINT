@@ -6,7 +6,7 @@ places: [LSO]
 topics: [dpi.registry, dpi.mis, include.access]
 status: active
 last_reviewed: 2026-07-11
-sources: [[2026-01-16 Lesotho's Digital Leap How Child-Centred Systems are Reshaping Social Protection]]
+sources: [[2026-01-16 Lesotho's Digital Leap How Child-Centred Systems are Reshaping Social Protection], [2024-01-01 Lesotho — RFP for NISSA social registry and MISSA]]
 ---
 
 # NISSA (National Information System for Social Assistance, Lesotho)

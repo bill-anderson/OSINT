@@ -4,9 +4,9 @@ title: Ghana
 code: GHA
 parent: XWA
 place_kind: country
-topics: [gov.policy, capacity.training, gov.legislate, tech.innovate, finance.new, tech.ai, dpi.pay, infra.store, geopol.china, include.divides, dpi.id, dpi.mis, data.statistics, gov.standards, infra.connect, infra.cybersec, tech.industry, gov.regional, dpi.exchange, finance.mou]
+topics: [gov.policy, capacity.training, gov.legislate, tech.innovate, finance.new, tech.ai, dpi.pay, infra.store, geopol.china, geopol.usa, include.divides, include.access, dpi.id, dpi.registry, dpi.govtech, dpi.mis, data.statistics, gov.standards, gov.protect, infra.connect, infra.cybersec, tech.industry, gov.regional, dpi.exchange, finance.mou, digital.rural, digital.localgov, data.satellite]
 status: active
-last_reviewed: 2026-07-12
+last_reviewed: 2026-07-16
 ---
 
 # Ghana (GHA)
@@ -135,6 +135,29 @@ last_reviewed: 2026-07-12
   cheque usage, Ghana is noted (with Seychelles) among African markets tightening cheque
   rules, against a continental trend toward phase-out. Source:
   [[2026-01-13 The rise of cheques as Kenya's preferred payment method]]. See [[dpi.pay]].
+- **2026-01-11** — **Ghana Card mandatory for banking (BoG).** A revised **[[bank-of-ghana]]**
+  Supervisory Guidance Note (replacing June 2022) makes the **[[ghana-card]]** the primary — and
+  mostly sole — ID for all regulated financial institutions, centring the NIA database in
+  KYC/CDD/AML and requiring **full biometric + liveness verification for all digital onboarding**
+  (no risk-based exemption); customers without a card are barred. Source:
+  [[2026-01-11 Ghana Card mandatory for banking and digital transactions - BoG]]. See [[dpi.id]],
+  [[dpi.pay]], [[gov.legislate]], [[gov.protect]].
+- **2025-12-22** — **LEAP 99th cash-grant cycle.** The MoGCSP disbursed **GH¢139.3m** to
+  **~350,580 households (~1.5m people)** via **[[leap-ghana]]**, on mobile-money-enabled G2P rails;
+  the FY allocation was **GH¢1.1bn** (highest ever), coverage expanding to 400,000 households in
+  2026. Source: [[2025-12-22 Government begins 99th cycle of LEAP cash-grant payments]]. See
+  [[dpi.pay]], [[include.access]].
+- **2025-11-04** — **Digital Realty opens ACR2 in Accra.** US operator **[[digital-realty]]**
+  inaugurated a carrier-neutral colocation facility (**1.7 MW**, 500 racks) connected to **2Africa**
+  ([[2africa-cable]]) and its 300+ global DC platform — pitched to banks, fintechs and cloud
+  providers ("same quality as London/Amsterdam/Johannesburg, without leaving Accra"). Source:
+  [[2025-11-04 Digital Realty Expands African Footprint With New Data Center in Ghana (ACR2)]]. See
+  [[infra.store]], [[geopol.usa]], [[finance.new]].
+- **2025-11-26** — **Rural school-management digital divide (study).** A peer-reviewed UTAUT study
+  (n=200 headteachers, Wenchi) finds advanced ICT/data-management tools little used for school
+  administration, with a sharp urban–rural gap. Source:
+  [[2025-11-26 Bridging the digital divide - ICT adoption among Ghanaian headteachers (Wenchi)]].
+  See [[include.divides]], [[digital.rural]], [[capacity.training]].
 - **2025-10-08** — **After Access 2022 Ghana report (RIA).** [[research-ict-africa]] published
   *Digital Africa post the pandemic: Ghana report* (**[[after-access]]** series), comparing
   2022 survey data with the 2012/2018 waves on ICT development and digital inequality;
@@ -142,6 +165,22 @@ last_reviewed: 2026-07-12
   Digital Economy Policy. Source:
   [[2025-10-08 Digital Africa post the pandemic Ghana report]].
   See [[include.divides]], [[include.access]], [[dpi.pay]], [[gov.policy]], [[infra.connect]].
+- **2025-09** — **NIA: backlog cleared + biometric SIM–ID framework.** The
+  **[[national-identification-authority-ghana|NIA]]** cleared the Mar-2023–Jan-2025 [[ghana-card]]
+  backlog for **same-day issuance** (292 centres; **18.95m enrolled / 17.75m issued**, 95 institutions
+  on real-time authentication — Sep 2025). In parallel Minister **[[samuel-nartey-george]]** announced
+  a **Legislative Instrument** (expected Oct) linking every SIM to the NIA biometric database via a
+  **CEIR**, to curb mobile-money fraud (~7,250 MoMo fraud cases in 2023, +32%). Sources:
+  [[2025-09-13 NIA clears Ghana Card backlog, issues instant card nationwide]],
+  [[2025-09-08 Ghana plans new framework for SIM card-digital ID linkage]],
+  [[2025-09-09 Ghana to Mandate Biometric SIM Links in Bid to Curb Mobile Money Fraud]]. See
+  [[dpi.id]], [[gov.legislate]], [[dpi.pay]], [[ghana--dpi-id]].
+- **2025-09-03** — **GSMA Digital Africa Summit report.** *Driving Digital Transformation of the
+  Economy in Ghana* ([[gsma]]): reforms could add ~**$3.4bn** by 2030; mobile is **8% of GDP** but a
+  **62% usage gap** persists despite 99% 4G coverage; device affordability the main barrier; target
+  20.6m unique mobile-internet users by 2029 (from 13.1m). Source:
+  [[2025-09-03 New GSMA report at Digital Africa Summit Ghana - digital reforms could add $3.4bn to the economy by 2030]].
+  See [[infra.connect]], [[include.divides]], [[dpi.pay]], [[gov.policy]].
 - **2025-08-04** *(analysis)* — **Ghana a joint-leader on Kariuki's DPI-maturity rubric.** Samora
   Kariuki's six-country read scores **Ghana ~40/60 (joint-top with South Africa)**: the
   **[[ghana-card]]** as sole financial *identifier*, fully interoperable mobile-money/bank payments
@@ -150,6 +189,51 @@ last_reviewed: 2026-07-12
   analyst's rubric, attributed to Kariuki — not an authoritative index. Sources:
   [[2025-08-04 93 - Ecosystem Debt or Generative Platforms A Case for Digital Public Infrastructure]],
   [[2026-02-23 111 - Winning But Losing - The Payments End Game]]. See [[dpi.pay]], [[dpi.exchange]].
+- **2025-06-23** — **Onafriq–PAPSS cross-border payments launch.** **[[onafriq]]** and **[[papss]]**
+  went live in Ghana ([[onafriq-papss-ghana-launch]]) under a **[[bank-of-ghana]]** six-month pilot,
+  [[afreximbank]] settling — the foundational leg before the Feb-2026 Nigeria→Ghana naira rail. Full
+  case: [[ghana--dpi-pay]]. Source:
+  [[2025-06-23 Onafriq and PAPSS launch cross-border payments in Ghana]]. See [[dpi.pay]],
+  [[dpi.exchange]], [[gov.regional]], [[finance.new]].
+- **2025-05** — **NIA modernization: new board, online-only apps, continuous registration.** A new
+  NIA governing board was commissioned (May 12); first-time [[ghana-card]] applications + premium
+  services moved **online-only** and a new **chip-embedded passport** rolled out (May 6); and a
+  continuous-registration plan targets remaining adults plus **~3m diaspora, 7m under-15s** and 10,000
+  refugees, with a Births & Deaths Registry / GHS pilot for ages 0-6 (May 1). Sources:
+  [[2025-05-12 Ghana's new National Identification Authority board to focus on public trust, inclusive service delivery]],
+  [[2025-05-06 Ghana takes first-time national ID card requests online (plus new chip-embedded passport)]],
+  [[2025-05-01 NIA to capture 7 million under-15s and 3 million Ghanaians abroad for Ghana Card]]. See
+  [[dpi.id]], [[dpi.registry]], [[dpi.govtech]].
+- **2025-04-15** — **SIM re-registration goes fully online.** From June 2025, SIM re-registration
+  runs fully online via the Ghana Card with automatic verification — announced by
+  [[samuel-nartey-george]] at **[[margins-id-group]]**'s ICPS plant. Baseline (Nov 2022): 30.0m
+  phase-one linked, 20.9m biometrically verified (~70%). Source:
+  [[2025-04-15 Ghana's SIM Registration Goes Fully Online from June 2025]]. See [[dpi.id]], [[dpi.govtech]].
+- **2025-03-20** *(analysis)* — **"National ID yet to realize full potential."** Seven years on, the
+  Ghana Card remains under-integrated — citizens still hold multiple credentials and 2018/2019
+  enrolment data is unrefreshed — even as the NIA PIN replaced the GRA TIN (since Apr 2021). Source:
+  [[2025-03-20 National ID system yet to realize full potential (Ghana Card)]]. See [[dpi.id]],
+  [[dpi.exchange]], [[ghana--dpi-id]].
+- **Baselines & institutional map (2023–2024).** Reference sources filed this batch (cited, not
+  promoted as current state): US **Country Commercial Guide** — institutional map (MoCD; NITA,
+  **[[national-communications-authority-ghana|NCA]]**, GIFEC, CSA, **[[data-protection-commission-ghana|DPC]]**)
+  and ICT4AD / Electronic Transactions Act baselines
+  ([[2024-09-20 Ghana Digital Economy (US Country Commercial Guide)]]); the
+  **[[ghana-national-data-strategy]]** National Validation Workshop with **[[smart-africa]]** / Team
+  Europe ([[2024-07-02 Ghana develops its National Data Strategy with Smart Africa and Team Europe]]);
+  **[[dial]]**'s data-exchange case study (eGIF stalled; **Ghana.gov** as de-facto exchange —
+  [[2024-01-01 Ghana national data exchange case study (Digital Impact Alliance)]]); an HSRC **ID
+  interoperability** study (98% hold the card, yet still multiple credentials —
+  [[2024-01-01 Integration and Interoperability of National Identification Systems - Ghana]]); the
+  **[[bank-of-ghana]]** Payment Systems Oversight Report 2023 (MoMo **GH¢1.92tn**, 6.81bn txns —
+  [[2024-01-01 Payment Systems Oversight Annual Report 2023 (Bank of Ghana)]]); the **NCA** Q2-2024
+  bulletin (**37.55m** mobile subs, **114.6%** penetration; MTN 75% —
+  [[2024-09-01 Quarterly Statistical Bulletin on Communications in Ghana Q2 2024 (NCA)]]); the GHS
+  **[[ghana-digital-health-policy-2023-2027]]**
+  ([[2023-01-01 Ghana Policy and Strategy on Digital Health 2023-2027 (GHS)]]); and the
+  **[[lands-commission-ghana]]** land-administration digitalization deck
+  ([[2023-01-01 Digitalization of Land Administration in Ghana (Lands Commission)]]). See
+  [[gov.policy]], [[dpi.exchange]], [[gov.protect]], [[dpi.mis]], [[dpi.registry]], [[data.statistics]].
 - **2016–2017** *(background; publ. 2021-09-13)* — **Health-data recording burden.** A
   five-country WHO study ([[rhis-recording-burden-5country]]) found Ghana's PHC facilities
   used ~**16 registers** (the fewest of the five) but carried the **highest per-worker
@@ -167,16 +251,28 @@ last_reviewed: 2026-07-12
   ecosystem; Ghana Card carries **no** payment functionality (2026-04 retraction). Full case: [[ghana--dpi-pay]].
 - [[tech.ai]] · [[infra.store]] · [[finance.new]] — $250m AI compute centre + National AI
   Strategy; Huawei AI-skills partnership ([[geopol.china]], [[include.divides]]).
-- [[dpi.id]] · [[infra.cybersec]] · [[tech.industry]] — Ghana Card / national ID (Margins ID
-  Group & ICPS security printing); .GH domain sovereignty (GDNR); Margins' national-ID export
-  to The Gambia (first African-owned firm to do so). Full case: [[ghana--dpi-id]].
+- [[dpi.id]] · [[dpi.registry]] · [[dpi.govtech]] — Ghana Card / national ID via the
+  **[[national-identification-authority-ghana|NIA]]** (~19.2m registered, 262 institutions; backlog
+  cleared for instant issuance; online-only applications; continuous registration of under-15s and
+  diaspora; chip passport); biometric **SIM–Ghana Card** linkage framework (CEIR); **[[margins-id-group]]**
+  & ICPS domestic security printing; .GH domain sovereignty (GDNR). Full case: [[ghana--dpi-id]].
 - [[dpi.pay]] · [[dpi.exchange]] · [[gov.regional]] · [[finance.mou]] — mobile-money
-  interoperability (+87%, BoG); PAPSS–Onafriq Nigeria→Ghana naira rail; fintech passporting
-  (Nigeria CBN pilot, Rwanda); AfCFTA financial integration.
-- [[infra.connect]] · [[infra.store]] — MTN Ghana $1.1bn (4G/5G, hyperscale DC, AI/cloud);
-  subsea-cable capacity as a West African hub.
-- [[dpi.mis]] · [[data.statistics]] · [[gov.standards]] — PHC health-data recording/reporting
-  burden ([[rhis-recording-burden-5country]]).
+  interoperability (+87%, BoG); **[[onafriq-papss-ghana-launch|Onafriq–PAPSS]]** cross-border rail;
+  Ghana Card mandated as sole banking ID (BoG); **[[leap-ghana|LEAP]]** G2P cash transfers on MoMo
+  rails; fintech passporting; AfCFTA financial integration. Full case: [[ghana--dpi-pay]].
+- [[infra.store]] · [[geopol.usa]] · [[infra.connect]] — **[[digital-realty]]** ACR2 Accra data
+  centre (2Africa-connected); MTN Ghana $1.1bn (4G/5G, hyperscale DC, AI/cloud); subsea-cable capacity
+  and Tier IV/III facilities as a West African hub.
+- [[gov.protect]] · [[gov.policy]] · [[dpi.exchange]] — the **[[data-protection-commission-ghana|DPC]]**
+  (Act 843, 2012) and the **[[ghana-national-data-strategy]]** (Smart Africa / Team Europe); national
+  data-exchange history (eGIF stalled; Ghana.gov as de-facto exchange — [[dial]]).
+- [[dpi.mis]] · [[data.statistics]] · [[gov.standards]] — GHS **[[ghana-digital-health-policy-2023-2027|digital-health policy]]** (HMIS interoperability);
+  PHC health-data recording/reporting burden ([[rhis-recording-burden-5country]]); NCA/BoG
+  telecom & payment statistics.
+- [[dpi.registry]] · [[digital.localgov]] · [[data.satellite]] — **[[lands-commission-ghana]]** land-
+  administration digitalization / fit-for-purpose cadastre.
+- [[include.divides]] · [[digital.rural]] · [[capacity.training]] — urban–rural digital divide (school
+  ICT/management); device-affordability usage gap (GSMA).
 
 ## Entities
 
@@ -184,9 +280,13 @@ last_reviewed: 2026-07-12
 - [[ghana-national-ai-strategy]] · [[smart-africa]] · [[huawei]] · [[ghana-card]] · [[rhis-recording-burden-5country]]
 - [[margins-id-group]] · [[gambia-national-id-contract]] · [[ghana-domain-name-registry]]
 - [[mtn-ghana]] · [[mtn-group]] · [[ralph-mupita]]
-- [[bank-of-ghana]] · [[papss]] · [[onafriq]] · [[afreximbank]] · [[afcfta]] · [[cbn]] · [[cbn-policy-insight-series-2025]] · [[ecowas]]
+- [[bank-of-ghana]] · [[papss]] · [[onafriq]] · [[onafriq-papss-ghana-launch]] · [[afreximbank]] · [[afcfta]] · [[cbn]] · [[cbn-policy-insight-series-2025]] · [[ecowas]]
+- Gov bodies / regulators: [[national-identification-authority-ghana]] · [[data-protection-commission-ghana]] · [[national-communications-authority-ghana]] · [[ghana-health-service]] · [[lands-commission-ghana]]
+- Initiatives / instruments: [[ghana-national-data-strategy]] · [[leap-ghana]] · [[ghana-digital-health-policy-2023-2027]]
+- Infrastructure / data: [[digital-realty]] · [[2africa-cable]] · [[dial]]
 - Mentioned, not hubbed: Ministry of Communication, Digital Technology and Innovations;
   UNESCO; GIZ FAIR Forward; The Future Society; Niloy Banerjee (UNDP Ghana); Google Africa
   Applied AI Lab (Accra); Girls in ICT / One Million Coders programmes; Nii Narku Quaynor
-  (.gh pioneer); Moses Kwesi Baiden Jnr (Margins CEO); National Identification Authority
-  (NIA); GhIPSS; GIFEC.
+  (.gh pioneer); Moses Kwesi Baiden Jnr (Margins CEO); Prof. Kenneth Agyemang Attafuah &
+  Wisdom Kwaku Deku (NIA); Patricia Adusei-Poku (DPC ED); **GhIPSS**; **GIFEC**; **NITA**;
+  Cyber Security Authority (CSA); Biometric Travel Solutions (chip passport).

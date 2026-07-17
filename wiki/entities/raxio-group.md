@@ -41,8 +41,17 @@ Africa and Asia Infrastructure Fund**. CEO: **Robert Skjodt**.
   [[angola--infra-store]]. Source:
   [[2025-10-02 Raxio Opens Angola's Largest Data Centre in Landmark 30 Million Expansion]].
 
+- **Raxio Mozambique (MZ1), Beluluane — country's first Tier III (2024-05).** Opened Mozambique's first
+  Tier III Uptime-certified data centre near Maputo (Beluluane Industrial Park / MozParks): **3 MW** across
+  2,000 m², up to 400 racks, sited near three subsea-cable landings including 2Africa, with a high share of
+  renewable (hydro + solar) power. Broke ground September 2022; eight top telecom/connectivity providers
+  signed up at launch. See [[MOZ]], [[infra.store]]. Sources:
+  [[2024-05-28 Raxio launches data center in Mozambique (Raxio MZ1)]],
+  [[2024-05-28 Raxio Launches New Data Centre In Mozambique]].
+
 ## Sources
 
 - [[2026-07-14 Raxio raises data centre funding]]
 - [[2026-07-15 Raxio data-centre capital tops $380m on investor boost]]
 - [[2025-10-02 Raxio Opens Angola's Largest Data Centre in Landmark 30 Million Expansion]]
+- [[2024-05-28 Raxio launches data center in Mozambique (Raxio MZ1)]]

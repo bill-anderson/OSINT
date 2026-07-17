@@ -3,10 +3,10 @@ type: entity
 entity_type: company
 title: Vodacom Group
 places: [ZAF, KEN, TZA, XEA, XSS, EGY, COD, MOZ, LSO, ZMB]
-topics: [dpi.pay, infra.connect, tech.ai, include.access, finance.new]
+topics: [dpi.pay, infra.connect, tech.ai, include.access, finance.new, infra.store]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-12
+last_reviewed: 2026-07-16
 sources: [[2026-07-03 Vodacom expands East Africa strategy], [2026-07-03 Google Cloud Region forecasts R1.7tn boost for SA], [2026-06-18 Africa's $240 Billion Mobile Economy A Checkpoint on Africa's Digital Transformation Journey], [2026-05-26 Africa risks losing billions to satellite internet operators, report says], [2026-02-23 Zambia and Mozambique launch fibre-optic interconnector at Chanida–Cassacatiza border], [2025-12-04 Vodacom Group to take controlling stake in Safaricom], [2026-01-01 Starlink Partners with Airtel & Vodacom From Rival to Ally], [2025-12-04 Is it a bird Is it plane No, Jim, it's an African mobile operator, but not as we know it 9]]
 ---
 
@@ -67,6 +67,14 @@ platforms.
   a "managed decline"** business. Mobile-money is **11.6%** of group revenue but
   **42%** of Safaricom's. See [[tech.industry]], [[infra.connect]], [[ZAF]].
   Source: [[2025-12-04 Is it a bird Is it plane No, Jim, it's an African mobile operator, but not as we know it 9]].
+
+- **Vodacom Business Data Centre, Matola (2025-03).** Vodacom Mozambique opened a **$25m**
+  carrier-neutral **Tier 3** (Uptime-certified) data centre in Tchumene, Matola — said to be the
+  country's largest — with direct access to the **2Africa** subsea cable; 2,600 m² starting at 128
+  racks (expandable past 500). At the launch PM Benvinda Levi noted Mozambique now had **18 data
+  centres**. See [[MOZ]], [[infra.store]]. Sources:
+  [[2025-03-31 Vodacom opens data center in Maputo, Mozambique]],
+  [[2025-04-23 Vodacom Business Data Centre - A Strategic Step Towards Business Digitalisation in Mozambique]].
 
 See [[ZAF]], [[KEN]], [[safaricom]], [[dpi.pay]], [[XEA]].
 

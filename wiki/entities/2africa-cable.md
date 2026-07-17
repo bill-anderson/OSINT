@@ -7,7 +7,7 @@ topics: [infra.connect, infra.capacity, geopol.china]
 lens: [sovereignty, colonialism]
 status: active
 last_reviewed: 2026-07-16
-sources: [[2026-07-15 CSquared boosts internet by integrating with 2Africa West cable], [2026-01-20 Cable wars Mapping the political economy of submarine cables in an era of geoeconomic competition], [2026-03-02 I traced who owns the undersea cables that carry 95% of global internet traffic — the map is a colonial one]]
+sources: [[2026-07-15 CSquared boosts internet by integrating with 2Africa West cable], [2026-01-20 Cable wars Mapping the political economy of submarine cables in an era of geoeconomic competition], [2026-03-02 I traced who owns the undersea cables that carry 95% of global internet traffic — the map is a colonial one], [2025-11-04 Digital Realty Expands African Footprint With New Data Center in Ghana (ACR2)]]
 ---
 
 # 2Africa subsea cable
@@ -59,6 +59,12 @@ strategy.
   landing-station concentration (Accra/Lagos/Abidjan) after three multi-country outages in 28 months. 2Africa's
   core was completed **Nov 2025** (initial reach 33 countries). See [[csquared]], [[XWA]], [[infra.connect]].
   Source: [[2026-07-15 CSquared boosts internet by integrating with 2Africa West cable]].
+
+- **Anchors Digital Realty's Accra ACR2 (2025-11-04).** [[infra.connect]] [[GHA]] The new
+  **[[digital-realty]]** ACR2 colocation facility in Accra is pitched on its dense fibre/subsea
+  connectivity, **including 2Africa** — the cable's landing feeding carrier-neutral data-centre
+  capacity for Ghanaian banks, fintechs and cloud providers. Source:
+  [[2025-11-04 Digital Realty Expands African Footprint With New Data Center in Ghana (ACR2)]].
 
 ## Related
 - [[equiano-cable]]

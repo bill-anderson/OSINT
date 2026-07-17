@@ -61,6 +61,15 @@ analysis. Obsidian is the viewer, git the history, Claude Code the agent.
   re-ingesting wiki-rendered pieces), not a per-instance review.
 - **Staleness is a phrasing rule, not a threshold** — time-varying figures always
   written dated. Thresholds belong in lint, not in prose rules.
+- **Source-level dedup (2026-07-16).** Exact **relevant-duplicate** sources
+  (identical *in-scope* payload — the facts/figures/dates/quotes the wiki uses;
+  boilerplate, framing and length ignored) are **auto-deleted** at ingest (step 2)
+  and by lint #7, keeping one via a deterministic ladder — primary > provenance >
+  earliest > cited-by-most / lexicographic. No source-quality judgment needed,
+  because exact duplication is precisely the case where preference is moot. Every
+  auto-delete is recorded in `log.md` (kept + pruned URLs); git-reversible. Only
+  *exact* dups delete — anything differing in relevant content is complementary or
+  contradictory, not a duplicate.
 
 ## Rejected / deferred — reasons, in case they resurface
 
@@ -114,3 +123,7 @@ analysis. Obsidian is the viewer, git the history, Claude Code the agent.
   unaffected. Possible GitHub issue with net-export log evidence.
 - **Output step** — house style is still a placeholder line. Wire `bill-writing-
   style` in properly when the wiki starts drafting publication prose.
+- **Preferred-sources list** — to extend dedup to *near*-duplicates (sources that
+  differ in relevant content, where you must pick the more authoritative) and to
+  re-order the keep-ladder. Deferred; exact-duplicate dedup doesn't need it. Build
+  it over time as the corpus shows which outlets recur.

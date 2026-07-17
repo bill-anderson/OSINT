@@ -2,12 +2,12 @@
 type: concept
 title: Data protection
 slug: gov.protect
-places: [COM, CIV, CMR, BWA, BDI, AGO, XAF, CAF, NGA, KEN, MWI, COD, ZAF, MUS, BEN, UGA, LBR, ZWE, ZMB, SEN, NAM, COG, SOM, MOZ, RWA, STP, TZA, XGL, DJI, CPV, DZA, EGY]
-entities: [[afcfta], [cbn], [ndpc], [meta], [ndpc-meta-settlement], [microsoft], [g42], [african-union], [popia], [research-ict-africa], [trendai], [ncc], [bosun-tijani], [fccpc], [sa-digital-id-regulations], [eac], [id4africa], [world-bank], [visa], [safaricom], [onafriq], [visa-mpesa-onafriq-drc-stablecoin-pilot], [america-first-global-health-strategy], [us-kenya-health-framework], [odpc-kenya], [zimbabwe-us-health-mou], [africa-cdc], [zte], [hikvision], [huawei], [cran], [starlink], [zambia-us-health-mou], [us-department-of-state], [national-personal-data-protection-commission-congo], [somalia-ministry-communications-technology], [intic-mozambique], [malawi-data-protection-act-2024], [dial], [nimc], [nigeria-data-protection-act-2023], [inec], [digital-rights-lawyers-initiative], [consumer-federation-of-kenya], [kenya-data-marketplace], [eu-ai-act], [au-data-policy-framework], [digital-policy-alert], [tech-hive-advisory], [code-for-africa], [d4d-hub], [auda-nepad], [kictanet], [pdpc-tanzania]]
+places: [COM, CIV, CMR, BWA, BDI, AGO, XAF, CAF, NGA, KEN, MWI, COD, ZAF, MUS, BEN, UGA, LBR, ZWE, ZMB, SEN, NAM, COG, SOM, MOZ, RWA, STP, TZA, XGL, DJI, CPV, DZA, EGY, SSD, SLE, SWZ, SYC, TCD, TGO]
+entities: [[afcfta], [cbn], [ndpc], [meta], [ndpc-meta-settlement], [microsoft], [g42], [african-union], [popia], [research-ict-africa], [trendai], [ncc], [bosun-tijani], [fccpc], [sa-digital-id-regulations], [eac], [id4africa], [world-bank], [visa], [safaricom], [onafriq], [visa-mpesa-onafriq-drc-stablecoin-pilot], [america-first-global-health-strategy], [us-kenya-health-framework], [odpc-kenya], [zimbabwe-us-health-mou], [africa-cdc], [zte], [hikvision], [huawei], [cran], [starlink], [zambia-us-health-mou], [us-department-of-state], [national-personal-data-protection-commission-congo], [somalia-ministry-communications-technology], [intic-mozambique], [malawi-data-protection-act-2024], [dial], [nimc], [nigeria-data-protection-act-2023], [inec], [digital-rights-lawyers-initiative], [consumer-federation-of-kenya], [kenya-data-marketplace], [eu-ai-act], [au-data-policy-framework], [digital-policy-alert], [tech-hive-advisory], [code-for-africa], [d4d-hub], [auda-nepad], [kictanet], [pdpc-tanzania], [data-protection-act-2022-eswatini], [esccom], [apc], [smart-africa], [sadc], [data-protection-act-2023-seychelles], [information-commission-seychelles], [boukar-michel], [ipdcp-togo], [haac-togo], [haac-ipdcp-accord]]
 lens: [sovereignty, colonialism]
 status: active
-last_reviewed: 2026-07-16
-sources: [[2026-01-11 The Year of the Teeth Data Protection in Africa Roundup, 2025, Projections for 2026], [2026-05-05 Africa's data protection laws began to bite in 2025], [2026-07-03 AfCFTA, Data Governance and the Hidden Legal Gaps Reshaping Africa's Digital Economy - P.M. News], [2026-07-07 CBN's local data order puts Nigeria's data centres to test], [2026-07-07 Malawi integrates immigration e-services], [2026-06-09 Meta backs NDPC in landmark privacy initiative], [2026-06-08 The Promise and Limits of African Data Sovereignty], [2026-07-03 Study finds governance, not technology, is blocking digital ID interoperability], [2026-06-17 Government data silos threaten Nigeria's AI ambitions], [2025-01-01 South African Digital Sovereignty at the Crossroad of Securitization and Development (Chapter 4) - Digital Sovereignty in the BRICS Countries], [2026-07-09 Anthropic's Claude to bolster data sovereignty in SA], [2026-07-10 Kenya and U.S. Discuss Draft Data Governance Policy to Strengthen Digital Economy], [2026-07-08 FG Halts Enforcement of New Regulations on Internet Platforms], [2026-07-10 Nigeria tests data sovereignty as foreign tech firms facing probe], [2026-05-29 Opinion South Africa's Digital Identity Regulations A Governance Crossroads], [2026-05-16 World Bank, African DPAs outline formula for trusted digital identity, DPI], [2026-04-23 Africa's $205 Billion Digital Shift Is Redefining Money, and Central Banks Are Losing Control], [2026-07-10 Visa and M-Pesa Launch Blockchain Stablecoin Pilot in DR Congo], [2026-03-04 Data Protection is the Next Frontier for Nigeria's Digital Economy, Says Samiat], [2026-02-02 NIN, Party e-registration and the NDPA 2023 When politics meets privacy (and why Nigerians should care)], [2026-02-27 Who Protects Nigeria's Digital Citizens Unmasking Accountability Gaps in Digital Rights Governance], [2026-03-07 Nigerians Groan Under Digital Identity Regime That Turns Basic Rights into Privileges], [2026-07-10 FIJ Showed That INEC Broke Data Law. Digital Rights Lawyers Sue the Commission 10 Months Later], [2026-07-10 Why Nigeria Is Investigating Meta, Google, X and AI Firms], [2026-07-10 CBN's Data Localisation Directive Puts Nigerian Fintechs In A Cloud Dilemma], [2026-07-14 OUT, PDPC Launch National Data Protection Programme]]
+last_reviewed: 2026-07-17
+sources: [[2026-01-11 The Year of the Teeth Data Protection in Africa Roundup, 2025, Projections for 2026], [2026-05-05 Africa's data protection laws began to bite in 2025], [2026-07-03 AfCFTA, Data Governance and the Hidden Legal Gaps Reshaping Africa's Digital Economy - P.M. News], [2026-07-07 CBN's local data order puts Nigeria's data centres to test], [2026-07-07 Malawi integrates immigration e-services], [2026-06-09 Meta backs NDPC in landmark privacy initiative], [2026-06-08 The Promise and Limits of African Data Sovereignty], [2026-07-03 Study finds governance, not technology, is blocking digital ID interoperability], [2026-06-17 Government data silos threaten Nigeria's AI ambitions], [2025-01-01 South African Digital Sovereignty at the Crossroad of Securitization and Development (Chapter 4) - Digital Sovereignty in the BRICS Countries], [2026-07-09 Anthropic's Claude to bolster data sovereignty in SA], [2026-07-10 Kenya and U.S. Discuss Draft Data Governance Policy to Strengthen Digital Economy], [2026-07-08 FG Halts Enforcement of New Regulations on Internet Platforms], [2026-07-10 Nigeria tests data sovereignty as foreign tech firms facing probe], [2026-05-29 Opinion South Africa's Digital Identity Regulations A Governance Crossroads], [2026-05-16 World Bank, African DPAs outline formula for trusted digital identity, DPI], [2026-04-23 Africa's $205 Billion Digital Shift Is Redefining Money, and Central Banks Are Losing Control], [2026-07-10 Visa and M-Pesa Launch Blockchain Stablecoin Pilot in DR Congo], [2026-03-04 Data Protection is the Next Frontier for Nigeria's Digital Economy, Says Samiat], [2026-02-02 NIN, Party e-registration and the NDPA 2023 When politics meets privacy (and why Nigerians should care)], [2026-02-27 Who Protects Nigeria's Digital Citizens Unmasking Accountability Gaps in Digital Rights Governance], [2026-03-07 Nigerians Groan Under Digital Identity Regime That Turns Basic Rights into Privileges], [2026-07-10 FIJ Showed That INEC Broke Data Law. Digital Rights Lawyers Sue the Commission 10 Months Later], [2026-07-10 Why Nigeria Is Investigating Meta, Google, X and AI Firms], [2026-07-10 CBN's Data Localisation Directive Puts Nigerian Fintechs In A Cloud Dilemma], [2026-07-14 OUT, PDPC Launch National Data Protection Programme], [2022-03-04 Eswatini Data Protection Act 2022 (Act No. 5 of 2022)], [2024-01-01 Data Protection Act 5 of 2022 - Eswatini], [2025-01-01 Role of ESCCOM as National Data Protection Agency], [2024-03-11 Eswatini strives for digital sovereignty amid technological advancements], [2024-07-22 Risk of human rights infringement as Eswatini rushes to regulate the ICT sector], [2025-07-25 RFP - Eswatini National Data Policy (Smart Africa)], [2025-07-31 Eswatini Economic Update - Digital Transformation Key to Unlocking Growth], [2024-03-25 Data Protection Law Now In Force In Seychelles], [2024-06-04 Review of Seychelles DPA], [2025-12-10 Chad Finalizes Digital Law to Align National Framework With Global Standards], [2025-12-12 Personal data and digital rights in Togo - HAAC and IPDCP seal institutional cooperation accord], [2023-12-21 ISR - WURI Phase 2 Seq 7 (P169594)]]
 ---
 
 # Data protection (`gov.protect`)
@@ -314,11 +314,65 @@ Personal-data regimes across African jurisdictions — and the friction their
   un-commenced (its date pushed back by ministerial orders) until the **[[botswana-data-protection-act-2024]]**
   (effective 14 Jan 2025) finally switched the regime on and empowered the Information & Data Protection
   Commission. → [[botswana--gov-protect]].
+- **[[SEN]] Senegal — data-protection law and the New Deal's rights gap (2008 → 2026).** Senegal's
+  regime rests on **[[senegal-data-protection-law|Law No. 2008-12]]** (2008; in force 2014) and the
+  **[[cdp-senegal|CDP]]**, with a revision reported underway (2025); Paradigm Initiative argues the
+  **[[new-deal-technologique|New Deal Technologique]]** omits explicit digital-rights provisions. See
+  [[gov.legislate]], [[gov.policy]], [[SEN]]. Source:
+  [[2025-03-27 Senegal's Technological New Deal – A Digital Ambition Tested by Digital Rights]].
+
+- **[[STP]] São Tomé and Príncipe — a 2016 data-protection law.** São Tomé's **Personal Data Guarantee
+  and Protection Law** (Law 03/2016) is enforced by the **ANPDP** data-protection authority. See
+  [[gov.legislate]], [[STP]].
+- **[[SOM]] Somalia — a law and an authority, with gaps.** Somalia's **Data Protection Act**
+  (Law 005/2023) is backed by a DPA inaugurated **Feb 2024**, but "public data" is left undefined and the
+  regulator's independence is qualified (as of 2026). → [[somalia--gov-protect]] ([[SOM]]).
+- **[[SLE]] Sierra Leone — a combined bill pre-enactment (2025).** Sierra Leone validated a combined
+  **Data Protection & Right-to-Access-Information Bill 2025**, awaiting enactment. See [[gov.legislate]],
+  [[SLE]].
+- **[[SSD]] South Sudan — no regime yet (2025–26).** South Sudan has no comprehensive data-protection
+  law; a **first Data Protection Bill** was promised for **2026** (Paradigm Initiative / Koneta Hub
+  convening, Oct 2025). See [[gov.legislate]], [[SSD]].
+- **[[SWZ]] Eswatini — law in force, office not stood up.** The
+  [[data-protection-act-2022-eswatini]] (Act No. 5 of 2022) has been effective since **4 March
+  2022**, with the sector regulator [[esccom]] designated the data protection authority and fines to
+  **E5,000,000 or 2% of turnover** — but the World Bank reports the **Data Protection Office is not
+  yet operationalised (2025-07-31)** and the national data policy was still being **procured
+  (2025-07-25)**. [[apc]] flags s.36 and the certificates of urgency behind all four 2022 Acts.
+  → [[eswatini--gov-protect]].
+- **[[SYC]] Seychelles — a 2003 law replaced, and the transition already elapsed.** The
+  [[data-protection-act-2023-seychelles]] repeals a 2003 Act "enacted but never implemented,"
+  designating the pre-existing [[information-commission-seychelles]] as authority (s.5) — the same
+  designate-an-existing-body model as [[ZAF]]. Enacted **19 December 2023**; the 18-month transition
+  ran from **22 December 2023** and **elapsed around 22 June 2025**, so the Act now binds in full.
+  → [[seychelles--gov-protect]].
+- **[[TCD]] Chad — a data-protection law *being finalised*, not enacted (2025-12).** Minister
+  **[[boukar-michel]]** announced (**9 Dec 2025**, third Chadian School of Internet Governance) that
+  Chad was **finalising** a digital law incorporating international standards on cybersecurity, data
+  protection and internet governance — **no text, enactment date or gazette reference is held**, so
+  it is not law here. His framing is the sharpest ministerial statement of the
+  [[sovereignty]] lens in this batch: *"In the digital age, a country that does not control its data
+  does not control its destiny."* See [[gov.legislate]], [[TCD]]. Source:
+  [[2025-12-10 Chad Finalizes Digital Law to Align National Framework With Global Standards]].
+- **[[TGO]] Togo — the DPA gets into the broadcast regulator's monitoring room (2025-12).** Togo's
+  authority **[[ipdcp-togo]]** — created alongside a **data protection law of September 2019** (per
+  the World Bank's WURI ISR; **neither the 2019 text nor the IPDCP's establishing act is held**) —
+  signed an accord with broadcast regulator **[[haac-togo]]** on **10 December 2025**
+  ([[haac-ipdcp-accord]]) whose operative mechanism is that **the HAAC authorises the IPDCP to
+  access its control and monitoring room**, enabling tracking of broadcast content and coordinated
+  reaction to personal-data breaches; both presidents argued press freedom "cannot hold if the
+  protection of digital rights remains fragile." The sole account is **sourced to the IPDCP and
+  carries no critical framing** of a data-protection authority acquiring monitoring-room access —
+  the absence is recorded, not filled in. See [[gov.legislate]], [[infra.cybersec]], [[TGO]].
+  Sources:
+  [[2025-12-12 Personal data and digital rights in Togo - HAAC and IPDCP seal institutional cooperation accord]],
+  [[2023-12-21 ISR - WURI Phase 2 Seq 7 (P169594)]].
 
 ## Places
 
 [[AGO]] · [[BWA]] · [[XAF]] · [[CAF]] · [[NGA]] · [[KEN]] · [[MWI]] · [[COD]] · [[ZAF]] · [[MUS]] · [[BEN]] · [[UGA]] · [[LBR]] ·
-[[ZWE]] · [[ZMB]] · [[SEN]] · [[NAM]] · [[COG]] · [[SOM]] · [[MOZ]] · [[RWA]] · [[STP]] · [[XGL]]
+[[ZWE]] · [[ZMB]] · [[SEN]] · [[NAM]] · [[COG]] · [[SOM]] · [[MOZ]] · [[RWA]] · [[STP]] · [[SSD]] · [[SLE]] · [[SWZ]] ·
+[[SYC]] · [[TCD]] · [[TGO]] · [[XGL]]
 
 ## Related
 
@@ -362,3 +416,16 @@ Personal-data regimes across African jurisdictions — and the friction their
 - [[2026-06-08 Kenya Wants to Sell Your Data. But It's Complicated]]
 - [[2026-07-13 D4D Hub on Sao Tome and Principe]]
 - [[2026-07-14 OUT, PDPC Launch National Data Protection Programme]]
+- [[2025-03-27 Senegal's Technological New Deal – A Digital Ambition Tested by Digital Rights]]
+- [[2022-03-04 Eswatini Data Protection Act 2022 (Act No. 5 of 2022)]]
+- [[2024-01-01 Data Protection Act 5 of 2022 - Eswatini]]
+- [[2025-01-01 Role of ESCCOM as National Data Protection Agency]]
+- [[2024-03-11 Eswatini strives for digital sovereignty amid technological advancements]]
+- [[2024-07-22 Risk of human rights infringement as Eswatini rushes to regulate the ICT sector]]
+- [[2025-07-25 RFP - Eswatini National Data Policy (Smart Africa)]]
+- [[2025-07-31 Eswatini Economic Update - Digital Transformation Key to Unlocking Growth]]
+- [[2024-03-25 Data Protection Law Now In Force In Seychelles]]
+- [[2024-06-04 Review of Seychelles DPA]]
+- [[2025-12-10 Chad Finalizes Digital Law to Align National Framework With Global Standards]]
+- [[2025-12-12 Personal data and digital rights in Togo - HAAC and IPDCP seal institutional cooperation accord]]
+- [[2023-12-21 ISR - WURI Phase 2 Seq 7 (P169594)]]

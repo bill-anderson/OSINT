@@ -4,14 +4,25 @@ title: Liberia
 code: LBR
 parent: XWA
 place_kind: country
-topics: [gov.policy, infra.connect, infra.cybersec, dpi.govtech, include.access, capacity.literacy]
+topics: [gov.policy, infra.connect, infra.cybersec, dpi.govtech, dpi.id, dpi.registry, dpi.pay, gov.protect, gov.legislate, gov.regional, include.access, include.divides, capacity.literacy, data.statistics, finance.new]
 status: active
-last_reviewed: 2026-07-13
+last_reviewed: 2026-07-16
 ---
 
 # Liberia (LBR)
 
 ## Recent developments
+
+- **2026-01/2025 — National ID crisis (the batch's dominant Liberia story).** Liberia mandated biometric
+  ID by **Executive Order 147** (Boakai, Apr 2025) through the **[[national-identification-registry-liberia|NIR]]**
+  (est. 2011; NIN/NBIS), backed by the World Bank **[[great-project-liberia|GREAT]]** project ($30m+$13m,
+  enroll 2m). But it stalled: coverage only **~14-16%** of ~5.5m (740,000 by Dec 2024), a **$5 fee**
+  excluding the poor (lawmakers urge free ID), bribery at overwhelmed centres, and a **procurement scandal**
+  — a rejected restricted-bid award to Austria's OSD International (PPCC, Jul 2025) forced a **suspension**
+  of issuance, halting EO 147. All while Liberia has **no data-protection law / DPA** despite mandating
+  biometric ID and SIM-ID linkage (LTA-NIR MoU, Oct 2024). The NIR's Five-Year Strategic Plan 2026-2030
+  ("No ID, No Inclusion") promises a reset. Full case: **[[liberia--dpi-id]]**. See [[dpi.id]],
+  [[gov.protect]], [[include.access]].
 
 - **2026-07-13** — **Pay Na-Na instant-payment launch.** Liberia's Inclusive Instant Payment
   System (**[[pay-na-na]]**, launched by President Boakai) makes money interoperable across
@@ -55,8 +66,16 @@ last_reviewed: 2026-07-13
 - [[infra.connect]] · [[include.access]] · [[dpi.govtech]] — **[[wardip]]**
   ($137m WARDIP2, World Bank): broadband + digital public services for ~10.6m
   across Liberia, Benin and Sierra Leone.
+- [[dpi.id]] · [[dpi.registry]] · [[gov.protect]] — **[[national-identification-registry-liberia|NIR]]**
+  national ID (EO 147, NBIS, NIN); **[[great-project-liberia|GREAT]]** WB project; procurement crisis +
+  issuance suspension; no data-protection authority. Full case: [[liberia--dpi-id]].
+- [[dpi.pay]] · [[include.access]] — **[[pay-na-na]]** instant-payment system (<1% cost, >11m wallets);
+  CBL mobile-money regulations.
 
 ## Entities
 
-- [[digital-liberia-strategy]] · [[lta-liberia]] · [[wardip]] · [[world-bank]] · [[ecowas]] · [[african-union]] · [[smart-africa]]
-- Mentioned, not hubbed: Ministry of Posts and Telecommunications; WAEMU.
+- [[national-identification-registry-liberia]] · [[great-project-liberia]] · [[pay-na-na]] · [[digital-liberia-strategy]] · [[lta-liberia]]
+- [[wardip]] · [[world-bank]] · [[ecowas]] · [[african-union]] · [[smart-africa]] · [[undp]]
+- Mentioned, not hubbed: Ministry of Posts and Telecommunications; Ministry of Finance & Development
+  Planning; Civil Service Agency; Central Bank of Liberia; PPCC; OSD International (Austria); Andrew Peters
+  (NIR ED); Samuel Kofi Woods (NBIS steering committee); WAEMU.

@@ -50,6 +50,31 @@ policy**, not physical racks.
   encryption and hybrid hosting over wholesale relocation. Source:
   [[2026-07-10 CBN's Data Localisation Directive Puts Nigerian Fintechs In A Cloud Dilemma]].
 
+### Lagos data-centre cluster — 2025 build-out (backfill)
+
+The physical capacity behind the localisation debate is a fast-growing, still-modest Lagos cluster
+(Equinix/MainOne, Rack Centre, Digital Realty, WIOCC/OADC, MTN, Airtel):
+
+- **MTN Sifiso Dabengwa DC (2025-07-01).** [[mtn-nigeria]]'s **$235m**
+  **[[mtn-sifiso-dabengwa-data-centre]]** — Phase 1 Tier III, 780 racks, **4.5 MW**, with a
+  naira-priced, self-orchestration cloud; scaling to **9–14 MW** (Phase 2, Tier IV). MTN claims
+  West Africa's largest Tier III. Sources:
+  [[2025-07-01 MTN launches West Africa's largest Tier III data centre with cloud services (Techpoint)]],
+  [[2025-07-02 MTN Nigeria launches Tier III Sifiso Dabengwa data centre in Lagos (Developing Telecoms)]],
+  [[2025-07-02 MTN Nigeria launches data center in Lagos (Connecting Africa)]].
+- **Airtel Nxtra Eko Atlantic DC (2025-08-08).** A planned **38 MW** GPU/AI-ready hyperscale build
+  ([[airtel-nxtra-eko-atlantic-data-centre]]), **>$120m**, 3,000+ racks, PUE < 1.4, targeted Q1
+  2026. Source: [[2025-08-08 Airtel Nigeria to build 38MW hyperscale data centre in Eko Atlantic (Nxtra)]].
+- **Digital Realty LKK2 (2025-08-25).** [[digital-realty]] (ex-Medallion) opened **~2 MW** LKK2 in
+  Lekki, interconnecting with LKK1 (the **2Africa** landing station) and LOS1/LOS2. Source:
+  [[2025-08-25 Digital Realty launches a 2MW data center (LKK2) in Lagos, Nigeria]].
+- **OADC Lagos expansion (2025-03-24).** [[oadc]] (WIOCC) expanding its Lagos facility to **24 MW by
+  2027** (~$240m) under a $500m pan-African plan. Source:
+  [[2025-03-24 Open Access Data Centres to expand Lagos facility to 24MW by 2027]].
+- **Subsea backbone.** Eight subsea cables land in Nigeria (MainOne, SAT-3, GLO-2, ACE, WACS,
+  Equiano, 2Africa, NCSCS) — the low-latency connectivity underpinning the DC cluster (accessed
+  2026-07-16). Source: [[2026-07-16 Nigeria - Submarine Networks]].
+
 ## Reads
 
 - `sovereignty`: onshoring mandates + sovereign-fund-backed builds ([[nsia]]/[[kasi-cloud]]) aim to
@@ -58,8 +83,9 @@ policy**, not physical racks.
 
 ## Links
 
-Place: [[NGA]] · Concepts: [[infra.store]] · [[infra.energy]] · Intersection: [[nigeria--gov-protect]] ·
-Entities: [[kasi-cloud]] · [[ncc]]
+Place: [[NGA]] · Concepts: [[infra.store]] · [[infra.energy]] · [[infra.connect]] ·
+Intersection: [[nigeria--gov-protect]] · Entities: [[kasi-cloud]] · [[ncc]] · [[mtn-nigeria]] ·
+[[mtn-sifiso-dabengwa-data-centre]] · [[airtel-nxtra-eko-atlantic-data-centre]] · [[digital-realty]] · [[oadc]]
 
 ## Sources
 
@@ -68,3 +94,10 @@ Entities: [[kasi-cloud]] · [[ncc]]
 - [[2026-05-21 Africa Data Center Investment 2026 The $4.5B Race and the Power Problem]]
 - [[2026-07-10 Nigeria tests data sovereignty as foreign tech firms facing probe]]
 - [[2026-07-10 CBN's Data Localisation Directive Puts Nigerian Fintechs In A Cloud Dilemma]]
+- [[2025-07-01 MTN launches West Africa's largest Tier III data centre with cloud services (Techpoint)]]
+- [[2025-07-02 MTN Nigeria launches Tier III Sifiso Dabengwa data centre in Lagos (Developing Telecoms)]]
+- [[2025-07-02 MTN Nigeria launches data center in Lagos (Connecting Africa)]]
+- [[2025-08-08 Airtel Nigeria to build 38MW hyperscale data centre in Eko Atlantic (Nxtra)]]
+- [[2025-08-25 Digital Realty launches a 2MW data center (LKK2) in Lagos, Nigeria]]
+- [[2025-03-24 Open Access Data Centres to expand Lagos facility to 24MW by 2027]]
+- [[2026-07-16 Nigeria - Submarine Networks]]

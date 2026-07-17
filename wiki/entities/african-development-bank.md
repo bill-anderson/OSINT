@@ -2,12 +2,12 @@
 type: entity
 entity_type: organisation
 title: African Development Bank (AfDB)
-places: [CPV, XAF, XSS]
-topics: [finance.new, gov.policy, gov.regional, infra.store, data.statistics]
+places: [CPV, TGO, XAF, XSS]
+topics: [finance.new, gov.policy, gov.regional, infra.store, data.statistics, dpi.pay]
 lens: [sovereignty, colonialism]
 status: active
-last_reviewed: 2026-07-15
-sources: [[2026-05-26 AfDB says Africa must fund its own growth as aid model frays], [2026-02-26 The AfDB's push for African financial sovereignty, and a tech investment rebound], [2025-05-14 Cabo Verde unveils TechPark CV tech-islands vision ($50m AfDB)], [2025-05-16 Cabo Verde opens Mindelo TechPark CV campus ($58M)]]
+last_reviewed: 2026-07-17
+sources: [[2026-05-26 AfDB says Africa must fund its own growth as aid model frays], [2026-02-26 The AfDB's push for African financial sovereignty, and a tech investment rebound], [2025-05-14 Cabo Verde unveils TechPark CV tech-islands vision ($50m AfDB)], [2025-05-16 Cabo Verde opens Mindelo TechPark CV campus ($58M)], [2025-10-01 BCEAO Launches Instant Payments Platform in Togo with Three Banks]]
 ---
 
 # African Development Bank (AfDB)
@@ -31,6 +31,15 @@ and building the [[nafa]] (New African Financial Architecture) to do it.
   sovereignty-and-decolonisation argument backed by the Outlook's figures. Source:
   [[2026-05-26 AfDB says Africa must fund its own growth as aid model frays]].
 
+- **Backing WAEMU instant payments (2025-09-30).** The AfDB, with the
+  **[[gates-foundation]]**, provided financial backing for implementation of the
+  **[[bceao]]**'s interoperable instant-payment platform
+  ([[waemu-instant-payment-platform]]), launched in Dakar and covering the eight UEMOA states
+  including **[[TGO]]** — where **three banks were operational as of 2025-10-01**
+  ([[ecobank]], [[orabank]], Coris Bank). Regional public payments rails part-funded by a
+  multilateral and a private foundation. Tags [[dpi.pay]], [[gov.regional]]. Source:
+  [[2025-10-01 BCEAO Launches Instant Payments Platform in Togo with Three Banks]].
+
 - **Financial-sovereignty push (2026-02-26).** The AfDB is the champion of [[nafa]], presented
   by [[sidi-ould-tah]] at the AU summit, alongside a noted rebound in tech investment. Tags
   [[gov.policy]], [[gov.regional]]. Source: [[2026-02-26 The AfDB's push for African financial sovereignty, and a tech investment rebound]].
@@ -48,3 +57,4 @@ and building the [[nafa]] (New African Financial Architecture) to do it.
 - [[2026-02-26 The AfDB's push for African financial sovereignty, and a tech investment rebound]]
 - [[2025-05-14 Cabo Verde unveils TechPark CV tech-islands vision ($50m AfDB)]]
 - [[2025-05-16 Cabo Verde opens Mindelo TechPark CV campus ($58M)]]
+- [[2025-10-01 BCEAO Launches Instant Payments Platform in Togo with Three Banks]]

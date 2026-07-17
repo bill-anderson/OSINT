@@ -2,12 +2,12 @@
 type: entity
 entity_type: organisation
 title: GSMA
-places: [XAF, XSS, XGL]
+places: [XAF, XSS, XGL, GHA]
 topics: [infra.connect, include.divides, tech.ai, gov.policy, dpi.pay]
 lens: [sovereignty, colonialism]
 status: active
-last_reviewed: 2026-07-12
-sources: [[2026-06-18 Africa's $240 Billion Mobile Economy A Checkpoint on Africa's Digital Transformation Journey], [2026-06-16 Who Owns Africa's Sky], [2026-07-09 ITU's Partner2Connect crosses $100 billion in global connectivity pledges], [2026-04-16 3 Reasons Mobile Money Programs Have a $1.7 Trillion Problem], [2026-03-24 Mobile Money in Africa Strong Growth, but Adoption Still Falls Short], [2026-04-13 Stakeholders urge shift in digital public infrastructure trajectory], [2026-03-01 GSMA State of the Industry Report on Mobile Money 2026], [2026-01-07 Why Ethiopia, Somalia and Djibouti are starting to matter in digital Africa], [2026-02-05 Can Africa's Power Grid Withstand the Next Wave of Emerging Technologies], [2026-01-15 Leveraging AI to Bypass the Smartphone Barrier and Advance Digital Inclusion in Africa], [2026-04-16 The Long View - What ICT4D did for Africa and why that deep past matters for today]]
+last_reviewed: 2026-07-16
+sources: [[2026-06-18 Africa's $240 Billion Mobile Economy A Checkpoint on Africa's Digital Transformation Journey], [2026-06-16 Who Owns Africa's Sky], [2026-07-09 ITU's Partner2Connect crosses $100 billion in global connectivity pledges], [2026-04-16 3 Reasons Mobile Money Programs Have a $1.7 Trillion Problem], [2026-03-24 Mobile Money in Africa Strong Growth, but Adoption Still Falls Short], [2026-04-13 Stakeholders urge shift in digital public infrastructure trajectory], [2026-03-01 GSMA State of the Industry Report on Mobile Money 2026], [2026-01-07 Why Ethiopia, Somalia and Djibouti are starting to matter in digital Africa], [2026-02-05 Can Africa's Power Grid Withstand the Next Wave of Emerging Technologies], [2026-01-15 Leveraging AI to Bypass the Smartphone Barrier and Advance Digital Inclusion in Africa], [2026-04-16 The Long View - What ICT4D did for Africa and why that deep past matters for today], [2025-09-03 New GSMA report at Digital Africa Summit Ghana - digital reforms could add $3.4bn to the economy by 2030]]
 ---
 
 # GSMA
@@ -82,6 +82,16 @@ continent's connectivity and usage gaps.
   (M-Pesa, MoMo). See [[tech.industry]], [[include.divides]]. Source:
   [[2026-04-16 The Long View - What ICT4D did for Africa and why that deep past matters for today]].
 
+- **Digital Africa Summit Ghana report (2025-09-03).** [[gov.policy]] At its Digital Africa Summit
+  (Accra, 3 Sep 2025) GSMA launched *Driving Digital Transformation of the Economy in Ghana*:
+  strategic reforms could add ~**$3.4bn** by 2030; mobile is already **8% of GDP (GHS 94bn)** but a
+  **62% usage gap** persists despite 99% 4G coverage. Barriers centre on device affordability
+  (smartphone = 27% of monthly GDP/capita; 76% for the poorest 40%); it praises the e-levy removal and
+  calls for device-financing PPPs, a 5G roadmap and rights-of-way reform, targeting 20.6m unique
+  mobile-internet users by 2029 (from 13.1m). Tied to Ghana's RESET agenda. See [[GHA]],
+  [[include.divides]], [[dpi.pay]]. Source:
+  [[2025-09-03 New GSMA report at Digital Africa Summit Ghana - digital reforms could add $3.4bn to the economy by 2030]].
+
 ## Reads
 
 - `colonialism`: the exclusion of African languages from global AI systems, and
@@ -102,3 +112,4 @@ See [[XAF]], [[include.divides]], [[infra.connect]].
 - [[2026-01-07 Why Ethiopia, Somalia and Djibouti are starting to matter in digital Africa]]
 - [[2026-02-05 Can Africa's Power Grid Withstand the Next Wave of Emerging Technologies]]
 - [[2026-01-15 Leveraging AI to Bypass the Smartphone Barrier and Advance Digital Inclusion in Africa]]
+- [[2025-09-03 New GSMA report at Digital Africa Summit Ghana - digital reforms could add $3.4bn to the economy by 2030]]

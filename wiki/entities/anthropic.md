@@ -7,7 +7,7 @@ topics: [tech.ai, infra.store, gov.protect, include.access, dpi.govtech, capacit
 lens: [sovereignty, colonialism]
 status: active
 last_reviewed: 2026-07-12
-sources: [[2026-07-09 Anthropic's Claude to bolster data sovereignty in SA], [2024-03-06 Liquid C2 partners with Google Cloud and Anthropic to bring advanced cloud, cyber security and generative AI capabilities to Africa - Mar 6, 2024], [2026-02-28 CAIMEx - Cassava AI], [2026-05-14 Making AI work for more people], [2026-05-21 Pushing back from Big Tech Africa's hard road to AI sovereignty], [2026-03-04 U.S.-based AI firm Anthropic bags first multi-sector government deal in Africa despite policy pressures at home], [2026-03-17 Anthropic is Becoming the Backbone of Rwanda's Government. But Who is Accountable], [2026-03-12 China's DeepSeek gives US tech giants a run for their money as Microsoft and others expand AI push in Africa], [2026-03-02 The U.S. Launches a Peace Corps for AI to Compete With China], [2024-03-06 Liquid C2 partners with Google Cloud and Anthropic to bring advanced cloud, cyber security and generative AI capabilities to Africa], [2026-03-06 Cassava launches sovereign cloud for Africa's public sector], [2026-03-04 Rwanda–Anthropic AI deal targets health, education gains], [2026-07-11 'Not where they hoped it'd be' Launch of Trump AI promotion program underwhelms]]
+sources: [[2026-07-09 Anthropic's Claude to bolster data sovereignty in SA], [2026-02-28 CAIMEx - Cassava AI], [2026-05-14 Making AI work for more people], [2026-05-21 Pushing back from Big Tech Africa's hard road to AI sovereignty], [2026-03-04 U.S.-based AI firm Anthropic bags first multi-sector government deal in Africa despite policy pressures at home], [2026-03-17 Anthropic is Becoming the Backbone of Rwanda's Government. But Who is Accountable], [2026-03-12 China's DeepSeek gives US tech giants a run for their money as Microsoft and others expand AI push in Africa], [2026-03-02 The U.S. Launches a Peace Corps for AI to Compete With China], [2024-03-06 Liquid C2 partners with Google Cloud and Anthropic to bring advanced cloud, cyber security and generative AI capabilities to Africa], [2026-03-06 Cassava launches sovereign cloud for Africa's public sector], [2026-03-04 Rwanda–Anthropic AI deal targets health, education gains], [2026-07-11 'Not where they hoped it'd be' Launch of Trump AI promotion program underwhelms]]
 ---
 
 # Anthropic
@@ -36,7 +36,6 @@ general-market actor.
   **[[caimex]]** LLM exchange — and Claude is now one of the two models (with Google Gemini)
   offered through Cassava's **[[national-sovereign-cloud]]** Cloud Partner Programme for African
   governments (2026-03). Sources:
-  [[2024-03-06 Liquid C2 partners with Google Cloud and Anthropic to bring advanced cloud, cyber security and generative AI capabilities to Africa - Mar 6, 2024]],
   [[2024-03-06 Liquid C2 partners with Google Cloud and Anthropic to bring advanced cloud, cyber security and generative AI capabilities to Africa]],
   [[2026-02-28 CAIMEx - Cassava AI]], [[2026-03-06 Cassava launches sovereign cloud for Africa's public sector]].
 - **Gates Foundation partnership (2026-05-14).** A four-year, **$200m** partnership

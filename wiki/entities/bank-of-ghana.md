@@ -3,10 +3,10 @@ type: entity
 entity_type: government-body
 title: Bank of Ghana (BoG)
 places: [GHA]
-topics: [dpi.pay, gov.legislate, data.statistics, gov.regional]
+topics: [dpi.pay, gov.legislate, data.statistics, gov.regional, gov.protect]
 status: active
-last_reviewed: 2026-07-12
-sources: [[2026-02-05 Ghana Mobile Money Interoperability Nearly Doubles in 2025], [2026-02-05 Bank of Ghana Calls for Payment System Overhaul to Unlock AfCFTA Trade], [2026-02-23 111 - Winning But Losing - The Payments End Game], [2026-06-25 Regulating for Africa's future digital economy – A draft agenda to speed things up]]
+last_reviewed: 2026-07-16
+sources: [[2026-02-05 Ghana Mobile Money Interoperability Nearly Doubles in 2025], [2026-02-05 Bank of Ghana Calls for Payment System Overhaul to Unlock AfCFTA Trade], [2026-02-23 111 - Winning But Losing - The Payments End Game], [2026-06-25 Regulating for Africa's future digital economy – A draft agenda to speed things up], [2026-01-11 Ghana Card mandatory for banking and digital transactions - BoG], [2025-06-23 Onafriq and PAPSS launch cross-border payments in Ghana], [2024-01-01 Payment Systems Oversight Annual Report 2023 (Bank of Ghana)]]
 ---
 
 # Bank of Ghana (BoG)
@@ -19,6 +19,22 @@ for regional integration.
 
 ## Activity in this wiki
 
+- **Ghana Card mandated as sole ID for financial transactions (2026-01-11).** [[gov.legislate]]
+  [[gov.protect]] A revised Supervisory Guidance Note makes the **[[ghana-card]]** the primary — and
+  mostly sole — identification for all BoG-regulated financial institutions, centring the NIA
+  database in KYC/CDD/AML and requiring **full biometric + liveness verification for all digital
+  onboarding** (no risk-based exemption). Customers without a card are barred. See [[dpi.id]],
+  [[dpi.pay]]. Source: [[2026-01-11 Ghana Card mandatory for banking and digital transactions - BoG]].
+- **Approved the Onafriq–PAPSS Ghana pilot (2025-06-23).** [[dpi.pay]] [[gov.regional]] BoG approved
+  a **six-month pilot** for **[[onafriq]]**–**[[papss]]** cross-border payments in Ghana
+  ([[onafriq-papss-ghana-launch]]), with [[afreximbank]] as settlement agent — the AfCFTA-aligned
+  rail that later carried the Feb-2026 Nigeria→Ghana naira leg. Source:
+  [[2025-06-23 Onafriq and PAPSS launch cross-border payments in Ghana]].
+- **Payment-system statistics, FY2023 (reference).** [[data.statistics]] BoG's Payment Systems
+  Oversight Annual Report 2023 records mobile money at **6.81bn transactions / GH¢1.92tn** (+34%/+79%
+  y/y), 609,000 active agents, GhIPSS Instant Pay at 115.4m txns / GH¢120.1bn (+51%/+105%), and
+  Ghana's first PAPSS transaction (Mar 2023). Reference figures — cited, not promoted as current.
+  Source: [[2024-01-01 Payment Systems Oversight Annual Report 2023 (Bank of Ghana)]].
 - **Interoperable mobile-money volumes near-double in 2025 (reported 2026-02-04).** At the
   African Prosperity Dialogue, Second Deputy Governor Matilda Asante-Asiedu reported that
   interoperable mobile-money transaction value rose from GH¢3.1bn (December 2024) to
@@ -56,3 +72,6 @@ for regional integration.
 - [[2026-02-05 Bank of Ghana Calls for Payment System Overhaul to Unlock AfCFTA Trade]]
 - [[2026-02-23 111 - Winning But Losing - The Payments End Game]]
 - [[2026-06-25 Regulating for Africa's future digital economy – A draft agenda to speed things up]]
+- [[2026-01-11 Ghana Card mandatory for banking and digital transactions - BoG]]
+- [[2025-06-23 Onafriq and PAPSS launch cross-border payments in Ghana]]
+- [[2024-01-01 Payment Systems Oversight Annual Report 2023 (Bank of Ghana)]]

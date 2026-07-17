@@ -2,7 +2,7 @@
 type: entity
 entity_type: resource
 title: DHIS2
-places: [XGL, XAF, ETH, RWA, TZA, MWI, KEN, NGA, EGY]
+places: [XGL, XAF, ETH, RWA, TZA, MWI, KEN, NGA, EGY, GNQ, GMB]
 topics: [dpi.mis, data.statistics, dpi.exchange]
 status: active
 last_reviewed: 2026-07-15
@@ -88,6 +88,18 @@ electronic-health-record and interoperability progress on the continent.
   UNICEF and the [[european-union]]; Minister Maruf Tunji Alausa framed it as data sovereignty
   (data domiciled in Nigeria). See [[dnemis-nigeria]], [[federal-ministry-education-nigeria]],
   [[NGA]], [[dpi.mis]]. Source: [[2026-07-05 Post by DHIS2 on LinkedIn]].
+- **[[GNQ]] Equatorial Guinea — DHIS2 eLMIS for malaria logistics (2022).** The Bioko Island Malaria
+  Elimination Project (BIMEP) extended its DHIS2 health instance into an **electronic logistics MIS**
+  for malaria commodities — forecasting stock-on-hand, triangulating stock vs services data (exposing
+  reporting gaps/leakage) and alerting on expiries — replacing error-prone Excel tools. See [[dpi.mis]].
+  Source: [[2022-12-08 Deploying DHIS2 for eLMIS to improve Malaria stock management in Equatorial Guinea]].
+- **[[GMB]] The Gambia — DHIS2 for health and education (2017-2026).** The Gambia runs DHIS2 as its
+  HMIS backbone: **Smart Paper Technology** (Shifo Foundation, MRCG-LSHTM, US CDC) scans structured
+  paper forms into DHIS2 for maternal/child health (unique IDs, QR codes; reporting lags months→days),
+  and **MoBSE** is building a learner-level education MIS on **DHIS2 for Education** (GPE/HISP). See
+  [[dpi.mis]], [[GMB]]. Sources:
+  [[2025-12-22 Smart Paper Technology is Transforming Community Health Data Capture in The Gambia]],
+  [[2026-01-30 The Gambia charts a path to data-driven education with DHIS2]].
 
 ## Sources
 
@@ -102,3 +114,6 @@ electronic-health-record and interoperability progress on the continent.
 - [[2025-10-21 Utilisation of data and factors affecting the performance of the Health Management Information System (HMIS). The case of six Synods of Livingstonia health facilities in Malawi]]
 - [[2026-01-01 Digital Public Goods Alliance]]
 - [[2026-07-05 Post by DHIS2 on LinkedIn]]
+- [[2022-12-08 Deploying DHIS2 for eLMIS to improve Malaria stock management in Equatorial Guinea]]
+- [[2025-12-22 Smart Paper Technology is Transforming Community Health Data Capture in The Gambia]]
+- [[2026-01-30 The Gambia charts a path to data-driven education with DHIS2]]

@@ -9,7 +9,7 @@ entities: [[digital-gabon-project], [in-groupe], [thales], [aninf-gabon]]
 lens: [sovereignty, colonialism]
 status: active
 last_reviewed: 2026-07-15
-sources: [[2024-06-26-gabon-launches-electronic-national-id-card], [2024-06-28-gabon-national-id-card-goes-digital], [2024-07-02-gabon-resumes-electronic-id-11-year-break], [2024-07-02-gabon-electronic-id-11-year-hiatus], [2024-09-25-gabon-digital-id-forefront-transformation], [2025-01-01-gabon-electoral-roll-verification-platform]]
+sources: [[2024-06-26-gabon-launches-electronic-national-id-card], [2024-06-28-gabon-national-id-card-goes-digital], [2024-07-02-gabon-electronic-id-11-year-hiatus], [2024-09-25-gabon-digital-id-forefront-transformation], [2025-01-01-gabon-electoral-roll-verification-platform]]
 ---
 
 # Gabon × Digital Identity
@@ -70,7 +70,6 @@ A sovereign national-ID build delivered end-to-end on **French vendor stacks** i
 
 - [[2024-06-26-gabon-launches-electronic-national-id-card]]
 - [[2024-06-28-gabon-national-id-card-goes-digital]]
-- [[2024-07-02-gabon-resumes-electronic-id-11-year-break]]
 - [[2024-07-02-gabon-electronic-id-11-year-hiatus]]
 - [[2024-09-25-gabon-digital-id-forefront-transformation]]
 - [[2025-01-01-gabon-electoral-roll-verification-platform]]

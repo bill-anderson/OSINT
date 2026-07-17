@@ -2,12 +2,12 @@
 type: concept
 title: Data Storage
 slug: infra.store
-places: [COG, COM, CMR, XGL, XAF, ZAF, NGA, KEN, GAB, EGY, SEN, GHA, NAM, MWI, AGO, TGO, MAR, ETH, TZA, DJI, MOZ, BWA, MLI, NER, BFA, GNQ, UGA, COD, CIV, XSS, CPV, DZA]
-entities: [[david-eaves], [cassava-technologies], [mtn-group], [airtel-africa], [st-digital-gabon], [us-dfc], [cbn], [huawei], [oracle], [google], [microsoft], [equinix], [g42], [microsoft-g42-kenya-datacenter], [trendai], [anthropic], [popia], [kasi-cloud], [nsia], [microsoft-sa-2026-expansion], [ncc], [axiz], [lome-data-centre], [sin-togo], [afcfta], [wamkele-mene], [amazon-web-services], [fccpc], [equinix-sa-438m-expansion], [wingu-africa], [uneca], [africa-data-centres], [liquid-c2], [galaxy-backbone], [alliance-of-sahel-states], [bf-ministry-digital-transition], [world-bank], [ixafrica-data-centres], [servernah-cloud], [mtn-ghana], [backbone-connectivity-network-nigeria], [nigeria-eqguinea-subsea-cable], [national-sovereign-cloud], [cassava-ai-factories], [google-cassava-90m-round], [liquid-c2-google-cloud-mou], [finnfund], [ixafrica-oracle-oci-nairobi], [raxio-group]]
+places: [COG, COM, CMR, XGL, XAF, ZAF, NGA, KEN, GAB, EGY, SEN, GHA, NAM, MWI, AGO, TGO, MAR, ETH, TZA, DJI, MOZ, BWA, MLI, NER, BFA, GNQ, UGA, COD, CIV, GIN, XSS, CPV, DZA, SSD, SLE, SOM, TCD, SWZ]
+entities: [[david-eaves], [cassava-technologies], [mtn-group], [airtel-africa], [st-digital-gabon], [us-dfc], [cbn], [huawei], [oracle], [google], [microsoft], [equinix], [g42], [microsoft-g42-kenya-datacenter], [trendai], [anthropic], [popia], [kasi-cloud], [nsia], [microsoft-sa-2026-expansion], [ncc], [axiz], [lome-data-centre], [sin-togo], [afcfta], [wamkele-mene], [amazon-web-services], [fccpc], [equinix-sa-438m-expansion], [wingu-africa], [uneca], [africa-data-centres], [liquid-c2], [galaxy-backbone], [alliance-of-sahel-states], [bf-ministry-digital-transition], [world-bank], [ixafrica-data-centres], [servernah-cloud], [mtn-ghana], [backbone-connectivity-network-nigeria], [nigeria-eqguinea-subsea-cable], [national-sovereign-cloud], [cassava-ai-factories], [google-cassava-90m-round], [liquid-c2-google-cloud-mou], [finnfund], [ixafrica-oracle-oci-nairobi], [raxio-group], [chad-national-data-centre], [pmice], [tchad-connexion-2030], [chad-digital-transformation-project], [adetic], [ansice], [techso-group], [flexenclosure], [eswatini-national-data-centre], [rstp], [xalam-analytics]]
 lens: [sovereignty, colonialism]
 status: active
-last_reviewed: 2026-07-12
-sources: [[2025-12-15 The Path to a Sovereign Tech Stack is Via a Commodified Tech Stack  TechPolicy.Press], [2026-06-23 Africa's Data Centre Boom Where The New Facilities Are Being Built], [2026-07-06 Gabon Inaugurates First Tier III Datacenter to Boost Digital Sovereignty], [2025-01-01 Eaves commodification], [2026-07-07 CBN's local data order puts Nigeria's data centres to test], [2026-07-08 China funds Namibia digital infrastructure], [2026-07-07 Kenya's State Department of ICT and Digital Economy discusses digital partnership with Oracle], [2026-07-07 Malawi integrates immigration e-services], [2026-02-25 South Africa puts data centres on par with energy, ports in big policy shift], [2026-07-03 Google Cloud Region forecasts R1.7tn boost for SA], [2026-06-04 Equinix faces challenge to Cape Town data centres over environmental concerns], [2026-07-09 Microsoft and G42 data center in Kenya stalled due to lack of power capacity], [2026-06-15 Namibia encouraged by Angola on datacentre establishment], [2026-06-08 The Promise and Limits of African Data Sovereignty], [2026-06-29 How AI Keeps Europe Hooked on US Cloud], [2026-07-09 Anthropic's Claude to bolster data sovereignty in SA], [2026-05-21 Africa Data Center Investment 2026 The $4.5B Race and the Power Problem], [2026-04-08 Africa's digital trade push requires 700 data centres, says AfCFTA chief], [2026-02-26 Lagos Is Getting a $250 Million Hyperscale Data Center. Here's Why Nigeria Still Can't Power the Cloud], [2026-05-22 Why global hyperscalers are avoiding Nigeria despite Africa's biggest market], [2026-04-17 Microsoft picks South Africa for $329 million expansion in cloud infrastructure and AI training], [2026-04-15 Microsoft secures land for future South Africa data centre growth], [2026-04-28 Axiz Welcomes Equinix Investment, Citing Boost to Africa's Digital Infrastructure], [2026-06-02 SIN, ST Digital to deploy cloud services at Lomé data center], [2026-05-21 Pushing back from Big Tech Africa's hard road to AI sovereignty], [2026-07-10 Nigeria tests data sovereignty as foreign tech firms facing probe], [2026-07-11 AWS in Africa], [2026-04-01 US data centre firm Equinix is investing $438 million in South Africa], [2026-04-01 US tech giant from Silicon Valley buys R890 million worth of land in South Africa], [2026-03-28 MTN makes big bet on AI data centres in South Africa], [2026-04-14 Africa's data centres rethink power as grids falter], [2026-04-01 Wingu Africa debuts cloud exchange platform in Ethiopia], [2026-04-13 Stakeholders urge shift in digital public infrastructure trajectory], [2026-04-07 NITDA Assumes Control Of NGEA Infrastructure], [2026-02-02 Mali unveils modern Tier III data centre], [2026-03-23 Burkina Faso steps into the future with digital investment], [2026-01-22 Burkina Faso aims for digital sovereignty with infrastructure supervision center], [2026-03-12 iXAfrica hosts Kenya's first sovereign-hosted AI cloud], [2026-02-23 MTN Ghana secures $1.1bn boost as AI push deepens], [2026-02-24 Nigeria, Equatorial Guinea subsea cable strengthens connectivity], [2026-03-06 Cassava launches sovereign cloud for Africa's public sector], [2026-03-18 Cassava Technologies Launches AI Factory in South Africa, Plans Expansion Across Africa], [2024-12-17 Google joins $90M investment into Cassava to bolster Africa's digital infrastructure], [2026-02-05 Can Africa's Power Grid Withstand the Next Wave of Emerging Technologies], [2026-03-02 Synthesis, Google Cloud smash data silos holding back African enterprises], [2026-01-28 iXAfrica, Oracle to launch Kenya's first public cloud region], [2026-07-10 CBN's Data Localisation Directive Puts Nigerian Fintechs In A Cloud Dilemma], [2026-07-14 Raxio raises data centre funding]]
+last_reviewed: 2026-07-17
+sources: [[2026-02-06 ADETIC, ANSICE, and TECHSO-GROUP Join Forces to Protect Chad's Digital Infrastructure], [2026-02-06 Chad Moves to Secure National Data Center Ahead of Launch], [2026-01-06 Chad invests 175m in national data center and networks], [2021-01-01 The National Data Centre - Royal Science and Technology Park], [2025-07-01 Togo Data Center Market Briefing (Xalam Analytics)], [2025-12-15 The Path to a Sovereign Tech Stack is Via a Commodified Tech Stack  TechPolicy.Press], [2026-06-23 Africa's Data Centre Boom Where The New Facilities Are Being Built], [2026-07-06 Gabon Inaugurates First Tier III Datacenter to Boost Digital Sovereignty], [2025-01-01 Eaves commodification], [2026-07-07 CBN's local data order puts Nigeria's data centres to test], [2026-07-08 China funds Namibia digital infrastructure], [2026-07-07 Kenya's State Department of ICT and Digital Economy discusses digital partnership with Oracle], [2026-07-07 Malawi integrates immigration e-services], [2026-02-25 South Africa puts data centres on par with energy, ports in big policy shift], [2026-07-03 Google Cloud Region forecasts R1.7tn boost for SA], [2026-06-04 Equinix faces challenge to Cape Town data centres over environmental concerns], [2026-07-09 Microsoft and G42 data center in Kenya stalled due to lack of power capacity], [2026-06-15 Namibia encouraged by Angola on datacentre establishment], [2026-06-08 The Promise and Limits of African Data Sovereignty], [2026-06-29 How AI Keeps Europe Hooked on US Cloud], [2026-07-09 Anthropic's Claude to bolster data sovereignty in SA], [2026-05-21 Africa Data Center Investment 2026 The $4.5B Race and the Power Problem], [2026-04-08 Africa's digital trade push requires 700 data centres, says AfCFTA chief], [2026-02-26 Lagos Is Getting a $250 Million Hyperscale Data Center. Here's Why Nigeria Still Can't Power the Cloud], [2026-05-22 Why global hyperscalers are avoiding Nigeria despite Africa's biggest market], [2026-04-17 Microsoft picks South Africa for $329 million expansion in cloud infrastructure and AI training], [2026-04-15 Microsoft secures land for future South Africa data centre growth], [2026-04-28 Axiz Welcomes Equinix Investment, Citing Boost to Africa's Digital Infrastructure], [2026-06-02 SIN, ST Digital to deploy cloud services at Lomé data center], [2026-05-21 Pushing back from Big Tech Africa's hard road to AI sovereignty], [2026-07-10 Nigeria tests data sovereignty as foreign tech firms facing probe], [2026-07-11 AWS in Africa], [2026-04-01 US data centre firm Equinix is investing $438 million in South Africa], [2026-04-01 US tech giant from Silicon Valley buys R890 million worth of land in South Africa], [2026-03-28 MTN makes big bet on AI data centres in South Africa], [2026-04-14 Africa's data centres rethink power as grids falter], [2026-04-01 Wingu Africa debuts cloud exchange platform in Ethiopia], [2026-04-13 Stakeholders urge shift in digital public infrastructure trajectory], [2026-04-07 NITDA Assumes Control Of NGEA Infrastructure], [2026-02-02 Mali unveils modern Tier III data centre], [2026-03-23 Burkina Faso steps into the future with digital investment], [2026-01-22 Burkina Faso aims for digital sovereignty with infrastructure supervision center], [2026-03-12 iXAfrica hosts Kenya's first sovereign-hosted AI cloud], [2026-02-23 MTN Ghana secures $1.1bn boost as AI push deepens], [2026-02-24 Nigeria, Equatorial Guinea subsea cable strengthens connectivity], [2026-03-06 Cassava launches sovereign cloud for Africa's public sector], [2026-03-18 Cassava Technologies Launches AI Factory in South Africa, Plans Expansion Across Africa], [2024-12-17 Google joins $90M investment into Cassava to bolster Africa's digital infrastructure], [2026-02-05 Can Africa's Power Grid Withstand the Next Wave of Emerging Technologies], [2026-03-02 Synthesis, Google Cloud smash data silos holding back African enterprises], [2026-01-28 iXAfrica, Oracle to launch Kenya's first public cloud region], [2026-07-10 CBN's Data Localisation Directive Puts Nigerian Fintechs In A Cloud Dilemma], [2026-07-14 Raxio raises data centre funding]]
 # Source-linkage: the TrendAI/Anthropic "locally-governed data centre + data lake" is a
 # data-residency-driven storage case (POPIA §72). Prose enrichment pending.
 ---
@@ -149,10 +149,14 @@ hosted on the continent at all.
   [[axiz]] welcomed Equinix's SA investment as AI-workload, hybrid-cloud and data-sovereignty
   demand rises (Equinix also runs LG1–LG3 in Lagos). In Togo, state-owned [[sin-togo]] —
   operator of the Tier III [[lome-data-centre]] — partnered ST Digital to launch a **sovereign
-  private cloud**, hosting local firms' data in-country to cut foreign-infrastructure reliance.
+  private cloud**, hosting local firms' data in-country to cut foreign-infrastructure reliance —
+  SIN's DG Attia Byll pitching sub-rack access for those who "cannot afford to rent half a rack."
+  The standing reference work on that market is [[xalam-analytics]]' **Togo Data Center Market
+  Briefing** (July 2025) — cite it, don't absorb its figures.
   See [[TGO]], [[gov.regional]]. Sources:
   [[2026-04-28 Axiz Welcomes Equinix Investment, Citing Boost to Africa's Digital Infrastructure]],
-  [[2026-06-02 SIN, ST Digital to deploy cloud services at Lomé data center]].
+  [[2026-06-02 SIN, ST Digital to deploy cloud services at Lomé data center]],
+  [[2025-07-01 Togo Data Center Market Briefing (Xalam Analytics)]].
 - **The <1% ceiling and AI sovereignty (2026-05).** Africa holds **<1%** of global DC capacity
   for **18%** of world population (WEF); its top five markets have less capacity than
   France in 2024 (McKinsey). Nigeria, Egypt and Kenya have draft AI strategies naming
@@ -294,6 +298,15 @@ hosted on the continent at all.
   **hyperscale data centres** (alongside 4G/5G and AI/cloud) to position Ghana as a West-African
   digital hub, leaning on subsea-cable capacity. See [[infra.connect]], [[tech.ai]]. Source:
   [[2026-02-23 MTN Ghana secures $1.1bn boost as AI push deepens]].
+- **[[GHA]] Digital Realty opens ACR2 Accra (2025-11).** US colocation operator [[digital-realty]]
+  inaugurated a **1.7 MW / 500-rack** carrier-neutral facility connected to **2Africa**
+  ([[2africa-cable]]) — a hyperscaler-adjacent [[geopol.usa]] addition to Ghana's Tier IV/III capacity.
+  Source: [[2025-11-04 Digital Realty Expands African Footprint With New Data Center in Ghana (ACR2)]].
+- **[[GIN]] Guinea's first Tier III national data centre (2025-09).** Guinea inaugurated a
+  **Uptime-certified Tier III** state data centre in Conakry ([[guinea-national-data-centre]]) for local
+  data hosting, launched with sovereign **.gn** management — the physical anchor of its digital-sovereignty
+  narrative under [[simandou-2040]]. See [[GIN]], [[sovereignty]]. Source:
+  [[2025-09-04 Guinea opens Tier 3 national data centre to strengthen digital transition]].
 - **[[NGA]]/[[GNQ]] Data centre in the subsea deal (2026-02).** The Nigeria–Equatorial Guinea subsea
   agreement ([[backbone-connectivity-network-nigeria]], [[nigeria-eqguinea-subsea-cable]]) bundles a
   **commercial data centre**, so local hosting rides in on the cross-border cable — localised storage
@@ -303,10 +316,67 @@ hosted on the continent at all.
   (~$89–90m; mandatory 30-day government-service migration) plus one of the region's denser commercial
   clusters — [[raxio-group]] (Tier III), [[paratus]] (DC1/2/3, first Tier IV), [[africell]],
   [[angola-cables]]/AngoNAP, [[unitel]]. Localisation as strategy. → [[angola--infra-store]].
+- **[[SEN]] Senegal — sovereign cloud and a Dakar data centre (2024–25).** Senegal signed a **Google
+  sovereign-cloud MoU** ([[google-senegal-sovereign-cloud]]) to keep critical data onshore (2024-10),
+  and **[[paix-data-centres]]** broke ground on a **1.2MW Dakar** data centre (2025-01). See [[SEN]],
+  [[gov.protect]]. Sources: [[2024-10-04 Senegal launches sovereign cloud initiative with Google]],
+  [[2025-01-23 PAIX Data Centres breaks ground on Dakar data center]].
+- **[[NGA]] Nigeria — the Lagos data-centre cluster thickens (2025–26).** Beyond the diesel-powered
+  Kasi campus above, a wave of Lagos builds: **[[kasi-cloud]]**'s AI-first Lekki campus (up to **100MW**
+  at full density, $250m; positioned as Nigeria's first AI-purpose-built hyperscale campus, 2026-02);
+  **[[fringe-infrastructure]]**'s **Ikoyi Metro EDGE** launch (2026-01); MTN's Sifiso Dabengwa ($235m),
+  Airtel's Nxtra Eko Atlantic (38MW), Digital Realty's LKK2 (2MW), and OADC (→24MW by 2027); plus
+  **[[unicloud-africa]]**+BDIC's Makurdi DC (2024). See [[nigeria--infra-store]], [[NGA]], [[tech.ai]].
+  Sources: [[2026-02-05 Inside Kasi Cloud, Nigeria's first 100MW AI data centre in Lagos]],
+  [[2026-01-08 Nigeria's digital future gets a boost with Fringe's Ikoyi Metro EDGE launch]].
+- **[[SSD]] South Sudan — a data-sovereignty gateway and oversight committee (2026-01).** South Sudan's
+  NCA routed international traffic through an **[[mgi-communications|MGI]]** gateway and stood up a
+  **national data-centre oversight committee** (Jan 2026) under a data-sovereignty mandate. See
+  [[gov.protect]], [[SSD]].
+- **[[SLE]] Sierra Leone — backup and Tier-3 hosting (2025).** **[[orange-sierra-leone]]** opened a
+  **€23m** backup data centre in Bo (2025-12), alongside an **NCRA Tier-3** data centre. See [[SLE]].
+- **[[SOM]] Somalia — private-operator data centres (2024-12).** **[[hormuud-telecom]]** runs
+  **11 data centres** (~10 MWh) — the cash-light economy's private hosting base. See [[infra.energy]],
+  [[SOM]].
+- **[[TCD]] Chad — a data centre built, and three figures that must not be added up (2016 → 2026-02).**
+  The **[[chad-national-data-centre]]** reached its final pre-inauguration milestone on **5 Feb 2026**,
+  when **[[adetic]]**, **[[ansice]]** and **[[techso-group]]** signed a tripartite security-audit and
+  certification agreement; **Phase 1 — the building plus operational equipment — is already complete**
+  (2026-02-06), leaving audit and certification against critical-infrastructure standards as the last
+  step. The agreement also covers **100 micro-data centres** across government institutions,
+  interconnected with the NDC. ADETIC DG Adoum Djimet Saboun: "a strategic base for **sovereign housing
+  of state data** and continuity of public digital services." Three separate money figures attach to
+  Chad's build, and **no source states how they relate — they are not versions of one another and must
+  not be summed**: **[[pmice]]** (State Connectivity Infrastructure Modernization Project),
+  **€175.1m / US$204.7m** for Phase I — National Data Center plus **1,200 km** of fibre and nationwide
+  GSM/3G/4G — commencement announced **20 Dec 2025**, ceremony in **Sarh, Moyen-Chari** (Dec 2025);
+  **[[tchad-connexion-2030]]**, the **US$1.5bn** national umbrella strategy; and the World Bank
+  **[[chad-digital-transformation-project]]** (P180000 / PAD00070), **US$120m** total including an
+  SDR 69.5m (**US$92.2m**) IDA grant (board 19 Dec 2023; PAD 4 Sep 2024). PMICE was **originally costed
+  $180m** and financed by an **Eximbank whose country of origin the source does not state** (a 2023
+  World Bank document) — supersession, recorded dated, not a contradiction. For scale, Chad's **first**
+  data centre (2016) cost **$6m**: **374 sqm**, built in Sweden by **[[flexenclosure]]**, shipped to
+  N'Djamena, designed for a **400kW** IT load. *(A 2026-02-13 telecoms piece calls the NDC "under
+  construction" — loose background phrasing; prefer the specific, on-topic 2026-02-06 accounts.)* See
+  [[infra.cybersec]], [[infra.connect]], [[dpi.govtech]], [[TCD]]. Sources:
+  [[2026-02-06 ADETIC, ANSICE, and TECHSO-GROUP Join Forces to Protect Chad's Digital Infrastructure]],
+  [[2026-02-06 Chad Moves to Secure National Data Center Ahead of Launch]],
+  [[2026-01-06 Chad invests 175m in national data center and networks]].
+- **[[SWZ]] Eswatini — an operator's prospectus, not a capacity disclosure (2021).** The
+  **[[eswatini-national-data-centre]]**, operated by **[[rstp]]**, is carrier-neutral on two diverse
+  provider feeds, with **4× 500 KVA** diesel generators and biometric authentication into smart rows of
+  42U racks; it sells PaaS, IaaS, SaaS, remote hands and colocation, and states objectives spanning
+  e-government, high-performance computing and national payment gateways. **Capture is not endorsement,
+  and here the absence is the finding:** this is the operator's own marketing-inflected facility page,
+  disclosing **no capacity (rack count or MW), no tenant, no uptime tier and no utilisation figure** —
+  precisely the numbers that would let anyone judge it against the Tier III builds above. Its only date
+  signal is a 2021 CMS stamp (year precision, `date_source: proxy`), so treat it as a standing profile,
+  not a dated development. See [[dpi.govtech]], [[infra.energy]], [[SWZ]]. Source:
+  [[2021-01-01 The National Data Centre - Royal Science and Technology Park]].
 
 ## Places
 
-[[XGL]] · [[XAF]] · [[ZAF]] · [[NGA]] · [[KEN]] · [[GAB]] · [[EGY]] · [[SEN]] · [[GHA]] · [[NAM]] · [[MWI]] · [[AGO]] · [[TGO]] · [[MAR]] · [[ETH]] · [[TZA]] · [[DJI]] · [[MOZ]] · [[BWA]] · [[MLI]] · [[NER]] · [[BFA]] · [[GNQ]] · [[XSS]]
+[[XGL]] · [[XAF]] · [[ZAF]] · [[NGA]] · [[KEN]] · [[GAB]] · [[EGY]] · [[SEN]] · [[GHA]] · [[NAM]] · [[MWI]] · [[AGO]] · [[TGO]] · [[MAR]] · [[ETH]] · [[TZA]] · [[DJI]] · [[MOZ]] · [[BWA]] · [[MLI]] · [[NER]] · [[BFA]] · [[GNQ]] · [[XSS]] · [[SSD]] · [[SLE]] · [[SOM]] · [[TCD]] · [[SWZ]]
 
 ## Related
 
@@ -314,6 +384,11 @@ hosted on the continent at all.
 
 ## Sources
 
+- [[2026-02-06 ADETIC, ANSICE, and TECHSO-GROUP Join Forces to Protect Chad's Digital Infrastructure]]
+- [[2026-02-06 Chad Moves to Secure National Data Center Ahead of Launch]]
+- [[2026-01-06 Chad invests 175m in national data center and networks]]
+- [[2021-01-01 The National Data Centre - Royal Science and Technology Park]]
+- [[2025-07-01 Togo Data Center Market Briefing (Xalam Analytics)]]
 - [[2025-12-15 The Path to a Sovereign Tech Stack is Via a Commodified Tech Stack  TechPolicy.Press]]
 - [[2026-06-23 Africa's Data Centre Boom Where The New Facilities Are Being Built]]
 - [[2026-07-06 Gabon Inaugurates First Tier III Datacenter to Boost Digital Sovereignty]]
@@ -359,3 +434,7 @@ hosted on the continent at all.
 - [[2026-06-12 Beyond the AI Stack Why Governments Need Dynamic Digital Infrastructure]]
 - [[2026-06-01 Africa's Place in the AI Sovereignty Debate]]
 - [[2026-07-01 Strategy Ahead of Infrastructure, Part I Inside the CBN's June 2026 Payments Circular]]
+- [[2024-10-04 Senegal launches sovereign cloud initiative with Google]]
+- [[2025-01-23 PAIX Data Centres breaks ground on Dakar data center]]
+- [[2026-02-05 Inside Kasi Cloud, Nigeria's first 100MW AI data centre in Lagos]]
+- [[2026-01-08 Nigeria's digital future gets a boost with Fringe's Ikoyi Metro EDGE launch]]

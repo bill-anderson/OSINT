@@ -7,7 +7,7 @@ topics: [dpi.registry, dpi.id, dpi.govtech]
 lens: []
 status: active
 last_reviewed: 2026-07-16
-sources: [[2026-07-15 Senegal digitizes more than 15 million birth records in civil registration overhaul]]
+sources: [[2026-07-15 Senegal digitizes more than 15 million birth records in civil registration overhaul], [2026-01-28 Senegal plans digital overhaul of civil status system (ANEC)], [2024-06-27 Senegal digitizes millions of civil records under the Nekkal program]]
 ---
 
 # ANEC (National Civil Registration Agency, Senegal)
@@ -25,6 +25,16 @@ Senegal's **Agence Nationale de l'État Civil** — the government body modernis
   access to identity-dependent services. See [[SEN]], [[dpi.registry]], [[dpi.id]]. Source:
   [[2026-07-15 Senegal digitizes more than 15 million birth records in civil registration overhaul]].
 
+- **Pre-declaration software for health facilities (2026-01).** DG Matar Ndao announced (Ziguinchor,
+  **2026-01-27**) the nationwide rollout of official pre-declaration software in health facilities to capture
+  births/deaths at the point they occur — closing the gap for events outside facilities and offering a
+  state-certified, free, standardised alternative to uncertified local software (framed as a data-protection
+  measure). See [[dpi.registry]], [[gov.protect]], [[SEN]]. Source:
+  [[2026-01-28 Senegal plans digital overhaul of civil status system (ANEC)]].
+- **Nékkal-programme lineage.** The civil-registration modernisation ANEC now operationalises traces to the
+  EU-funded **[[nekkal-programme]]** (2021), which had digitised/indexed **19m+ records by June 2024**. Source:
+  [[2024-06-27 Senegal digitizes millions of civil records under the Nekkal program]].
+
 ## Related
 
-- [[SEN]] · [[dpi.registry]] · [[dpi.id]] · [[dpi.govtech]]
+- [[SEN]] · [[nekkal-programme]] · [[dpi.registry]] · [[dpi.id]] · [[dpi.govtech]]

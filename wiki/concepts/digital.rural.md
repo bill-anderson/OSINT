@@ -2,11 +2,11 @@
 type: concept
 title: Rural digital data capture
 slug: digital.rural
-places: [ETH, KEN, NGA, ZMB, ZWE, TZA, UGA, RWA, SEN, MOZ, NAM, CIV, ZAF, XAF, XSS, XGL]
+places: [ETH, KEN, NGA, ZMB, ZWE, TZA, UGA, RWA, SEN, MOZ, NAM, CIV, ZAF, XAF, XSS, XGL, SLE]
 entities: [[echis-ethiopia], [nasa-harvest], [nucap], [starlink], [helios-towers], [orange-sat], [google], [global-center-on-ai-governance]]
 lens: [sovereignty, colonialism]
 status: active
-last_reviewed: 2026-07-15
+last_reviewed: 2026-07-16
 sources: [[2026-03-31 Africa we have a data problem], [2026-03-12 Western AI models 'fail spectacularly' in farms and forests abroad], [2026-03-26 Has Satellite Become Africa's Most Critical Connectivity Infrastructure], [2025-12-19 Why one of the year's biggest AI-for-development stories isn't actually about AI], [2026-07-13 On Leapfrogging - What are we leaping over and where are we landing]]
 ---
 
@@ -64,6 +64,11 @@ just digitisation"** thesis — see [[data.statistics]], [[2026-03-31 Africa we 
   on the unglamorous capture-and-delivery layer this concept tracks, built over years. Global/
   India case ([[XGL]]). See [[data.satellite]], [[tech.ai]], [[include.access]]. Source:
   [[2025-12-19 Why one of the year's biggest AI-for-development stories isn't actually about AI]].
+
+- **A NIN-integrated farmer registry — Sierra Leone (2025-05).** Under **Feed Salone**, **[[SLE]]**
+  Sierra Leone launched a **[[sierra-leone-national-digital-farmer-registry|National Digital Farmer
+  Registry]]** tied to the national ID number — rural data capture built directly on foundational ID.
+  See [[dpi.registry]], [[dpi.id]], [[SLE]].
 
 ## Reads
 

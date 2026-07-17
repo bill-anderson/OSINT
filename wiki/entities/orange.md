@@ -2,11 +2,11 @@
 type: entity
 entity_type: company
 title: Orange
-places: [XWA, XAF, NGA, SEN, CIV, MAR]
-topics: [infra.connect, geopol.eu, capacity.training, infra.store]
+places: [XWA, XAF, NGA, SEN, CIV, MAR, MDG]
+topics: [infra.connect, geopol.eu, capacity.training, infra.store, dpi.pay]
 lens: [colonialism]
 status: active
-last_reviewed: 2026-07-12
+last_reviewed: 2026-07-16
 sources: [[2026-05-23 Orange-backed subsea cable to connect Nigeria, 19 other countries], [2024-05-30 Orange and AWS partner to deliver cloud services in Morocco and Senegal], [2026-01-21 Orange Côte d'Ivoire Launches Orange Sat Satellite Internet to Boost Nationwide Connectivity], [2025-12-04 Is it a bird Is it plane No, Jim, it's an African mobile operator, but not as we know it 9], [2026-02-16 Waking the dead - Slow road to extinction for Africa's former telco incumbents 11]]
 ---
 
@@ -42,6 +42,11 @@ legacy dimension.
   [[infra.connect]], [[include.divides]]. Source:
   [[2026-01-21 Orange Côte d'Ivoire Launches Orange Sat Satellite Internet to Boost Nationwide Connectivity]].
 
+- **Orange Money Pro merchant app, Madagascar (2025-03).** Orange Madagascar launched
+  **Orange Money Pro** (18 Mar 2025), an Android app for merchants and distributors — QR-code
+  payments, remote payment links, real-time tracking — to deepen mobile-money financial inclusion
+  (10,000+ downloads early on). See [[MDG]], [[dpi.pay]], [[include.access]]. Source:
+  [[2025-03-19 Madagascar - Orange Launches Mobile App (Orange Money Pro) for Business Transactions]].
 - **Rural DRC solar base-station JV (Russell Southwood, 2025-12-04).** Orange and
   [[vodacom]] signed a **Jan 2025** joint venture to build **solar-powered base
   stations** in rural **[[COD]]** — an example of the network-sharing and

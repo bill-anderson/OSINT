@@ -6,7 +6,7 @@ parent: XEA
 place_kind: country
 topics: [tech.ai, gov.regional, capacity.research, gov.policy, gov.legislate, finance.new, infra.connect, infra.store, dpi.exchange, gov.standards, infra.cybersec, dpi.id, dpi.mis, dpi.registry, gov.protect, include.access, geopol.china, geopol.usa, digital.rural, data.statistics, dpi.govtech, capacity.training, dpi.pay]
 status: active
-last_reviewed: 2026-07-14
+last_reviewed: 2026-07-16
 ---
 
 # Rwanda (RWA)
@@ -192,6 +192,64 @@ last_reviewed: 2026-07-14
   a DRC peace accord and a US deportation agreement, complicating assessment of Rwanda's
   leverage. Source: [[2026-03-19 African Digital Health Data Is a Condition of Global Health Funding]].
   See [[gov.protect]], [[geopol.usa]], [[dpi.mis]], [[data.statistics]].
+- **2025-08-07 → 2026-03 — SDIS digital-ID enrolment scaled.** [[nida-rwanda]] launched
+  nationwide registration for the biometric **e-Indangamuntu** (Single Digital
+  Identification System), completed enrolments climbing **>300k (Nov 2025) → ~1.5m (Feb
+  2026) → 2,373,854 (16 Mar 2026)**; non-citizens (refugees, migrants, stateless persons)
+  included via the Directorate General of Immigration. Cost cited as **~$38m (SDIS)** or
+  **~$57m (RDAP component)** — possibly different scopes. Full chronology:
+  [[rwanda--dpi-id]]. Sources:
+  [[2025-08-08 Rwanda National Identification Agency begins digital ID enrollment]],
+  [[2026-02-10 Rwanda digital ID initiative advances with 1.5 million enrollments]],
+  [[2026-02-10 Where can refugees, foreigners register for digital ID]]. See [[dpi.id]],
+  [[include.access]].
+- **2025-06-18 — Auditor-General flags a multiple-NIN flaw.** The 2025 AG report found
+  the legacy system **issued a new national ID number on every correction/replacement**,
+  letting one person accumulate several NINs and breaking banking, land, SIM, voting and
+  pension links — the precise defect SDIS's "one number for life" is meant to close.
+  Source:
+  [[2025-06-18 Why Are Rwandans Getting Multiple National ID Numbers - Auditor General Points to a System Flaw]].
+  See [[dpi.registry]], [[gov.protect]], [[dpi.id]].
+- **2025-06-12 — Internet penetration 38% (ITU, mid-2025)**, up from **34% (2024)** and
+  matching Africa's average — **5.5m users / 14.4m pop** (DataReportal put early-2024
+  penetration at **34.4%**, 12.29m mobile connections =86.2%, social-media users 6.5%:
+  [[2024-02-23 Digital 2024 - Rwanda (DataReportal)]]); [[gsma]] warns of affordability
+  (typical smartphone ~$160; a basic phone + 1GB can be **~60% of monthly income** for the
+  poorest), with urban **57%** vs rural **19%** usage (EICV7). MTN Rwanda launched **5G in
+  June 2025**; 1,760 towers cover 96% of inhabited areas (+840 by 2028); digital literacy
+  reported at **75% (2025)**. Source:
+  [[2025-06-12 Rwanda hits 38% internet penetration, but cost still keeps millions offline]].
+  See [[include.divides]], [[include.access]], [[infra.connect]].
+- **2025 — National Data Sharing Policy approved.** Cabinet approved the inter-agency
+  **[[rwanda-national-data-sharing-policy]]** (open-by-default; Five Safes; DPPL-compliant)
+  with a governance/technology split — **[[nisr]]** (Data Governance Unit, standards) and
+  **[[rwanda-information-society-authority]]** (Data Sharing Platform) — anchored to NST2
+  and Vision 2050. Sources:
+  [[2025-06-09 Rwanda charts a new course for government data sharing]],
+  [[2025-10-27 Introduction to the Rwanda National Data Sharing Policy]]. See [[dpi.exchange]],
+  [[gov.policy]], [[data.open]].
+- **2025-02-27 — RNDPS 2.0 / eKash launched on Mojaloop.** Rwanda's National Digital
+  Payment System **2.0** — consumer brand **[[ekash]]** — launched onstage at the Inclusive
+  Fintech Forum, built on **[[mojaloop]]** as the open-source switching core (led by
+  [[rswitch-rwanda]] with integrator WiredIn), adding P2M/P2B and SACCO/MFI integration;
+  official consumer launch followed in Dec 2025. Source:
+  [[2025-03-10 Powering Rwanda's Payments Future How Mojaloop Enables RNDPS 2.0 and eKash]].
+  See [[dpi.pay]], [[dpi.exchange]], [[include.access]].
+- **2024-08 → 2024-09 — Biometric SIM registration.** [[rura-rwanda]] issued
+  **Regulation No. 18/2024** ([[rwanda-sim-card-registration-regulation-2024]], 9 Aug 2024)
+  tying SIM registration to verification against NIDA's biometric database (SIM bound to
+  the holder's ID number), followed by a **Sept-2024 pilot** — anti-fraud (mobile-money
+  scams) and national security. Source:
+  [[2024-09-17 Rwanda conducts pilot to implement biometric SIM registration, verification]].
+  See [[dpi.id]], [[infra.cybersec]], [[gov.legislate]].
+- **GovTech single-window — Irembo.** [[irembo]], Rwanda's part-government-owned services
+  company, runs the citizen portal (100+ services, ~20% of all public services) under a
+  **25-year agreement**, funded by a per-transaction commission and staffed by ~70
+  insourced engineers plus ~4,000 field agents; foundational to Rwanda's Group-A GovTech
+  standing. Full case: [[rwanda--dpi-govtech]]. Sources:
+  [[2021-06-01 The Irembo model in Rwanda]],
+  [[2024-09-30 Rwanda's digital transformation an effort at intergovernmental collaboration]].
+  See [[dpi.govtech]], [[dpi.pay]], [[capacity.training]].
 - The **[[aisca-foundation]]** (AI Skills & Compute Africa) launched in
   **Kigali** ([[strive-masiyiwa]] / [[cassava-technologies]]). Source:
   [[2025-01-01 (1) From AI consumers to AI creators! __ The AI Skills & Compute Africa AISCA Foundation launches in Kigali  LinkedIn]].
@@ -224,16 +282,26 @@ last_reviewed: 2026-07-14
 - [[tech.ai]] · [[gov.regional]] — Kagame's global AI-governance role; AISCA
   Foundation; Gates/OpenAI health-AI pilot critique; the **[[anthropic-rwanda-mou]]**
   (multi-sector government AI deal) and its accountability critique; US-China AI contest. Full case: [[rwanda--tech-ai]].
-- [[dpi.govtech]] · [[capacity.training]] — Anthropic embedding Claude across health,
-  public-sector and education; GovTech **Group A** on the 2025 GTMI ([[gtmi]]); Vision-2050
-  service dashboards.
+- [[dpi.govtech]] · [[capacity.training]] — **[[irembo]]** single-window services platform
+  (25-yr model, commission-funded); the **[[rwanda-national-data-sharing-policy]]**;
+  Anthropic embedding Claude across health, public-sector and education; GovTech **Group A**
+  on the 2025 GTMI ([[gtmi]]); Vision-2050 service dashboards; heavy GIZ/AFD scaffolding.
+  Full case: [[rwanda--dpi-govtech]].
 - [[dpi.exchange]] · [[gov.standards]] · [[infra.cybersec]] · [[dpi.id]] — Kigali as
-  host of the Smart Africa SADX cross-border data-exchange mission; cross-border identity
-  friction (Kenya/Rwanda/Uganda mutual recognition vs financial-service inadequacy).
-- [[dpi.mis]] · [[data.statistics]] — EHR-interoperability exemplar; national
-  digital-health dashboards; DHIS2 resilience and the US health-MOU data-sharing terms.
+  host of the Smart Africa SADX cross-border data-exchange mission; the National Data
+  Sharing Policy (NISR governance / RISA platform split); cross-border identity friction
+  (Kenya/Rwanda/Uganda mutual recognition vs financial-service inadequacy).
+- [[dpi.pay]] — **[[ekash]] / RNDPS 2.0** on [[mojaloop]] (P2M/P2B, SACCO/MFI
+  integration; full interoperability 2026-07); the phased sequencing model.
+- [[dpi.mis]] · [[data.statistics]] — EHR-interoperability exemplar; **CRVS–EIR
+  integration via DHIS2** (NIN-at-birth, Irembo birth-certificate retrieval; complete Apr
+  2022 — [[2022-04-28 Interoperability of CRVS and EIR systems for improved EPI management in Rwanda]]);
+  national digital-health dashboards; DHIS2 resilience and the US health-MOU
+  data-sharing terms.
 - [[dpi.id]] · [[dpi.registry]] · [[gov.protect]] — e-Indangamuntu biometric ID rollout
-  ([[nida-rwanda]]): iris scan, Single Digital ID Law, June-2027 sunset, eRainbow consent.
+  ([[nida-rwanda]]): iris scan, Single Digital ID Law, June-2027 sunset, eRainbow consent;
+  SDIS enrolment scaled to 2.37m (Mar 2026); Auditor-General multiple-NIN flaw; biometric
+  SIM linkage ([[rura-rwanda]], [[rwanda-sim-card-registration-regulation-2024]]).
   Full case: [[rwanda--dpi-id]].
 - [[capacity.research]] — AI health-diagnostics pilots.
 - [[infra.store]] — AWS Outposts (hybrid cloud; data sovereignty).
@@ -254,5 +322,9 @@ last_reviewed: 2026-07-14
 - [[huawei]] · [[zte]] · [[hikvision]] · [[america-first-global-health-strategy]]
 - Batch (2026-07-12): [[horizon1000]] · [[rswitch-rwanda]] · [[tips-tanzania]] ·
   [[eac-cross-border-payment-masterplan]] · [[giz]] · [[ekash]]
-- Mentioned, not hubbed: Rwanda AI Scaling Hub; UNESCO; RISA; NIDA DG Josephine Mukesha;
+- Batch (2026-07-16): [[irembo]] · [[rura-rwanda]] ·
+  [[rwanda-sim-card-registration-regulation-2024]] · [[rwanda-national-data-sharing-policy]] ·
+  [[nisr]] · [[rwanda-information-society-authority]] · [[mojaloop]] · [[nida-rwanda]]
+- Mentioned, not hubbed: Rwanda AI Scaling Hub; UNESCO; NIDA DG Josephine Mukesha;
+  WiredIn (Mojaloop integrator); Rwanda Space Agency / GeoHub; AFD; KT Corp / KTRN;
   Zipline; Ginkgo Bioworks; Africa CDC; USAID.

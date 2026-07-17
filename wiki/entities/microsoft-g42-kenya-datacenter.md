@@ -6,8 +6,8 @@ places: [KEN]
 topics: [infra.store, infra.energy, infra.capacity, tech.ai, finance.new, geopol.usa, geopol.gulf]
 lens: [sovereignty, colonialism]
 status: needs-review
-last_reviewed: 2026-07-12
-sources: [[2026-07-09 Microsoft and G42 data center in Kenya stalled due to lack of power capacity], [2026-06-08 The Promise and Limits of African Data Sovereignty], [2026-06-23 A Kenya Technology Prosperity Deal Could Help Washington Secure Durable AI Partnerships with Africa], [2026-05-21 Africa Data Center Investment 2026 The $4.5B Race and the Power Problem], [2026-05-19 Trying to make sense of who will use Artificial Intelligence in Africa and how – Going beyond the hype], [2026-07-01 Strategy Ahead of Infrastructure, Part I Inside the CBN's June 2026 Payments Circular], [2026-06-01 Africa's Place in the AI Sovereignty Debate], [2026-06-08 Kenyan Citizens Took A $2.5 Billion Deal With America To Court To Fight For Their Health Data]]
+last_reviewed: 2026-07-16
+sources: [[2026-07-09 Microsoft and G42 data center in Kenya stalled due to lack of power capacity], [2026-06-08 The Promise and Limits of African Data Sovereignty], [2026-06-23 A Kenya Technology Prosperity Deal Could Help Washington Secure Durable AI Partnerships with Africa], [2026-05-21 Africa Data Center Investment 2026 The $4.5B Race and the Power Problem], [2026-05-19 Trying to make sense of who will use Artificial Intelligence in Africa and how – Going beyond the hype], [2026-07-01 Strategy Ahead of Infrastructure, Part I Inside the CBN's June 2026 Payments Circular], [2026-06-01 Africa's Place in the AI Sovereignty Debate], [2026-06-08 Kenyan Citizens Took A $2.5 Billion Deal With America To Court To Fight For Their Health Data], [2024-05-22 Microsoft and G42 announce $1 billion comprehensive digital ecosystem initiative for Kenya], [2024-05-22 Microsoft and G42 to build geothermal-powered data center in Kenya], [2025-09-22 Africa's forgotten battleground in the US-China tech war (Kenya Olkaria data center)]]
 ---
 
 # Microsoft–G42 Kenya data centre ($1bn)
@@ -51,6 +51,18 @@ marketed as a "trusted data zone" running on Microsoft Azure.
   lists the "$1bn geothermal data centre" among Kenya's data-localisation stack
   ([[2026-06-08 Kenyan Citizens Took A $2.5 Billion Deal With America To Court To Fight For Their Health Data]]).
 
+- **Origins — the $1bn announcement (backfill, 2024-05-22).** The deal was announced during President
+  Ruto's US state visit (US + UAE government assistance), G42 leading an initial **$1bn**: a green
+  **Olkaria** data centre running **Azure** in a new East Africa Cloud Region (targeted within 24 months),
+  100% geothermal (initial 100 MW, potentially 1 GW; KenGen powers the region), plus Swahili-AI model
+  work, an innovation lab and connectivity. Brad Smith called it "the single largest and broadest digital
+  investment in Kenya's history." A **Semafor** exclusive (Sep 2025) later framed it as a US-China
+  battleground — G42 severed Huawei ties (late 2023) for US chips, after which Microsoft invested $1.5bn —
+  and confirmed the stall. Sources:
+  [[2024-05-22 Microsoft and G42 announce $1 billion comprehensive digital ecosystem initiative for Kenya]],
+  [[2024-05-22 Microsoft and G42 to build geothermal-powered data center in Kenya]],
+  [[2025-09-22 Africa's forgotten battleground in the US-China tech war (Kenya Olkaria data center)]].
+
 ## Reads
 
 - `sovereignty` / `colonialism`: the flagship case where **capacity** (power) and
@@ -70,3 +82,6 @@ See [[microsoft]], [[g42]], [[KEN]], [[infra.capacity]].
 - [[2026-07-01 Strategy Ahead of Infrastructure, Part I Inside the CBN's June 2026 Payments Circular]]
 - [[2026-06-01 Africa's Place in the AI Sovereignty Debate]]
 - [[2026-06-08 Kenyan Citizens Took A $2.5 Billion Deal With America To Court To Fight For Their Health Data]]
+- [[2024-05-22 Microsoft and G42 announce $1 billion comprehensive digital ecosystem initiative for Kenya]]
+- [[2024-05-22 Microsoft and G42 to build geothermal-powered data center in Kenya]]
+- [[2025-09-22 Africa's forgotten battleground in the US-China tech war (Kenya Olkaria data center)]]

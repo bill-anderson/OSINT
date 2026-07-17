@@ -7,7 +7,7 @@ topics: [finance.mou, dpi.id, gov.standards, capacity.training]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-10
-sources: [[2026-07-08 Sierra Leone partners with Bhutan, Sign on digital identity platform]]
+sources: [[2026-07-08 Sierra Leone partners with Bhutan, Sign on digital identity platform], [2025-11-12 Sierra Leone partners to build blockchain-powered digital ID system]]
 ---
 
 # Sierra Leone–Bhutan NDI–Sign digital ID MoU
@@ -26,8 +26,14 @@ of Sierra Leone (**Ministry of Communication, Technology and Innovation, MoCTI**
 - **Approach.** Open-source technologies and **W3C-compliant verifiable credentials**;
   strong emphasis on institutional capacity building, knowledge transfer, and governance
   so the platform can be **sustainably managed and evolved by national institutions**.
-- **Lineage.** Builds on an existing **Nov 2025** SL–Sign MoU for a blockchain-powered
-  digital ID. A joint working group will produce a phased implementation roadmap.
+- **Lineage.** Builds on the **Nov 2025** bilateral **MoCTI–[[sign-foundation]]** MoU
+  (Sign CEO **Xin Yan**) for a blockchain-powered digital ID: under it Sign would lead
+  "sovereign blockchain infrastructure" — a national digital ID system, digital wallet and
+  **asset-tokenization framework** — coordinated from the **Felei TechCity** hub, with the
+  Sierra Leone embassy's commercial office in China sourcing investors. That in turn cites a
+  **2019 Kiva-backed** blockchain ID pilot (billed then as Africa's first). A joint working
+  group will produce a phased implementation roadmap. Source:
+  [[2025-11-12 Sierra Leone partners to build blockchain-powered digital ID system]].
 - See [[SLE]], [[dpi.id]], [[gov.standards]], [[capacity.training]].
 
 ## Why it matters here
@@ -40,3 +46,4 @@ the transfer is explicitly **South–South** (Bhutan → Sierra Leone).
 ## Sources
 
 - [[2026-07-08 Sierra Leone partners with Bhutan, Sign on digital identity platform]]
+- [[2025-11-12 Sierra Leone partners to build blockchain-powered digital ID system]]

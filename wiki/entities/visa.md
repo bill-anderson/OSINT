@@ -2,11 +2,11 @@
 type: entity
 entity_type: company
 title: Visa
-places: [COD, KEN, DJI, GAB, XAF]
+places: [COD, KEN, DJI, GAB, GIN, XAF]
 topics: [dpi.pay, dpi.id, finance.mou, geopol.usa]
 status: active
 last_reviewed: 2026-07-16
-sources: [[2026-07-02 Visa tests stablecoins in DRC for cross-border payments (The EastAfrican)], [2026-07-02 DR Congo becomes Africa's live test for dollar-settled mobile money (Ecofin)], [2026-01-26 How Onafriq is growing digital finance amid uncertainty in DRC], [2026-02-23 111 - Winning But Losing - The Payments End Game], [2025-09-19 Djibouti-Visa Smart Wallet national digital wallet MoU]]
+sources: [[2026-07-02 Visa tests stablecoins in DRC for cross-border payments (The EastAfrican)], [2026-07-02 DR Congo becomes Africa's live test for dollar-settled mobile money (Ecofin)], [2026-01-26 How Onafriq is growing digital finance amid uncertainty in DRC], [2026-02-23 111 - Winning But Losing - The Payments End Game], [2025-09-19 Djibouti-Visa Smart Wallet national digital wallet MoU], [2025-11-19 Transform Africa Summit 2025 (Conakry) - Simandou 2040 Pillar 3, TELEMO, SANIA-SADX and the closing wrap]]
 ---
 
 # Visa
@@ -65,6 +65,13 @@ see the deal page [[visa-mpesa-onafriq-drc-stablecoin-pilot]] (REV-006 resolved 
   [[geopol.usa]]. Sources: [[2025-12-12-gabon-uncdf-financial-inclusion-deal]],
   [[2025-12-11-gabon-madigipaie-digital-payments-launch]].
 
+- **Smart Africa MoU at TAS 2025 (2025-11).** [[finance.mou]] At the Transform Africa Summit in Conakry
+  ([[transform-africa-summit-2025]]), Visa signed an MoU with **[[smart-africa]]** to digitalize
+  government services and expand digital payments, financial inclusion and e-commerce across the
+  Single Digital Market — a continental-framework MoU rather than a single-country deal ([[GIN]] host).
+  See [[dpi.pay]], [[gov.regional]]. Source:
+  [[2025-11-19 Transform Africa Summit 2025 (Conakry) - Simandou 2040 Pillar 3, TELEMO, SANIA-SADX and the closing wrap]].
+
 ## Sources
 
 - [[2026-07-02 Visa tests stablecoins in DRC for cross-border payments (The EastAfrican)]]
@@ -72,5 +79,6 @@ see the deal page [[visa-mpesa-onafriq-drc-stablecoin-pilot]] (REV-006 resolved 
 - [[2026-01-26 How Onafriq is growing digital finance amid uncertainty in DRC]]
 - [[2026-02-23 111 - Winning But Losing - The Payments End Game]]
 - [[2025-09-19 Djibouti-Visa Smart Wallet national digital wallet MoU]]
+- [[2025-11-19 Transform Africa Summit 2025 (Conakry) - Simandou 2040 Pillar 3, TELEMO, SANIA-SADX and the closing wrap]]
 - [[2025-12-12-gabon-uncdf-financial-inclusion-deal]]
 - [[2025-12-11-gabon-madigipaie-digital-payments-launch]]

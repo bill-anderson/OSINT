@@ -2,11 +2,11 @@
 type: concept
 title: Cybersecurity
 slug: infra.cybersec
-places: [ZMB, ZAF, XAF, NGA, MOZ, RWA, BEN, GHA, KEN, MUS, LBR, XEA, XSS, CMR, BFA, EGY, SEN, ZWE, DZA, UGA, DJI, CPV]
+places: [ZMB, ZAF, XAF, NGA, MOZ, RWA, BEN, GHA, KEN, MUS, LBR, XEA, XSS, CMR, BFA, EGY, SDN, SEN, ZWE, DZA, UGA, DJI, CPV, SOM]
 entities: [[dzap], [research-ict-africa], [smart-africa], [afnic], [nimc], [mozambique-cyber-security-law], [realtyme], [smart-africa-realtyme-partnership], [sadx], [sa-digital-id-regulations], [popia], [world-bank], [mosip], [id4africa], [eac], [antic-cameroon], [patnuc], [bf-ministry-digital-transition], [alliance-of-sahel-states], [intic-mozambique], [cybastion], [securoute], [asin-benin], [zte], [hikvision], [huawei], [bio-key-international], [runlevel], [simo-mozambique], [kenya-cyber-resilience-project], [expertise-france], [estdev], [european-union], [nira-nigeria], [nitda]]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-12
+last_reviewed: 2026-07-16
 sources: [[2025-09-11 DZAP World Bank PAD], [2025-01-01 South African Digital Sovereignty at the Crossroad of Securitization and Development (Chapter 4) - Digital Sovereignty in the BRICS Countries], [2026-07-09 Smart Africa and AFNIC Partner to Strengthen Africa's Internet Infrastructure], [2026-07-09 NIMC Act 2026 Director-General Coker-Odusote Launches 8,809-Ward Digital ID Drive], [2026-04-17 Mozambique parliament unanimously approves Cyber Security Law], [2026-04-16 Smart Africa, RealTyme join forces for data sovereignty], [2026-04-27 Smart Africa drives cross-border data interoperability through SADX Technical Mission], [2026-04-21 South Africa's digital ID gets a targeted launch date], [2026-05-16 World Bank, African DPAs outline formula for trusted digital identity, DPI], [2026-01-22 Cameroon boosts cyber defense systems], [2026-01-27 Cameroon deploys cybersecurity system to protect DPI, boost digital trust], [2026-01-22 Burkina Faso aims for digital sovereignty with infrastructure supervision center], [2026-02-06 Mozambique intros data breach platform], [2026-01-27 Cybastion Advances Digital Government Solutions, Supports Benin's SECUROUTE Infrastructure Upgrade], [2026-03-01 Smart City Surveillance in Africa (IDS 2026)], [2026-02-24 BIO-key and RunLevel Deploy Biometric IAM Across Mozambique's National Payments Network], [2026-01-27 Kenya launches project to boost cyber security], [2026-01-21 How foreign domains compromise digital identity]]
 ---
 
@@ -134,10 +134,22 @@ how "cyber threat" is defined and acted on.
   policy mandating **.gov.ng** migration (enforced by [[nitda]]) is unevenly applied, leaving
   government identity exposed on foreign domains. See [[dpi.id]], [[dpi.govtech]], [[gov.policy]].
   Source: [[2026-01-21 How foreign domains compromise digital identity]].
+- **[[SDN]] Sudan — a national cybersecurity authority (2025-11).** Sudan created the
+  **[[sudanese-cybersecurity-authority]]** (one of three agencies established by decree) to build a
+  national cybersecurity framework, against an ITU GCI **Tier 4** score (48.17/100, 2024). See
+  [[dpi.govtech]], [[SDN]]. Source: [[2025-11-07 Sudan Establishes Three Digital Authorities to Advance E-Govt]].
+- **[[NGA]] Nigeria — ITU Global Cybersecurity Index tier-3 (2024).** Nigeria placed **tier-3** in the
+  **[[itu]]** Global Cybersecurity Index 2024, strongest on the legal pillar (**19.52/20**). See
+  [[gov.policy]], [[NGA]]. Source:
+  [[2024-09-18 Nigeria among tier-3 countries in ITU Global Cybersecurity Index 2024]].
+- **[[SOM]] Somalia — a cybersecurity law and an early breach (2025–26).** Somalia approved a
+  **Cybersecurity Law** (**26 Jan 2026**) establishing a national CIRT (**SOM-CIRT**), against an ITU GCI
+  **Tier 4/5** score (37.38/100, 2024); a **Nov-2025 e-visa data breach** underlined the exposure. See
+  [[gov.legislate]], [[SOM]].
 
 ## Places
 
-[[ZMB]] · [[ZAF]] · [[XAF]] · [[NGA]] · [[MOZ]] · [[RWA]] · [[BEN]] · [[GHA]] · [[KEN]] · [[MUS]] · [[LBR]] · [[XEA]] · [[XSS]] · [[CMR]] · [[BFA]] · [[EGY]] · [[SEN]] · [[ZWE]] · [[DZA]] · [[UGA]]
+[[ZMB]] · [[ZAF]] · [[XAF]] · [[NGA]] · [[MOZ]] · [[RWA]] · [[BEN]] · [[GHA]] · [[KEN]] · [[MUS]] · [[LBR]] · [[XEA]] · [[XSS]] · [[CMR]] · [[BFA]] · [[EGY]] · [[SDN]] · [[SEN]] · [[ZWE]] · [[DZA]] · [[UGA]] · [[SOM]]
 
 ## Sources
 
@@ -159,3 +171,5 @@ how "cyber threat" is defined and acted on.
 - [[2026-02-24 BIO-key and RunLevel Deploy Biometric IAM Across Mozambique's National Payments Network]]
 - [[2026-01-27 Kenya launches project to boost cyber security]]
 - [[2026-01-21 How foreign domains compromise digital identity]]
+- [[2025-11-07 Sudan Establishes Three Digital Authorities to Advance E-Govt]]
+- [[2024-09-18 Nigeria among tier-3 countries in ITU Global Cybersecurity Index 2024]]

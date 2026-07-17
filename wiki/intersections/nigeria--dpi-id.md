@@ -88,6 +88,50 @@ by gender, by geography and by who pays to fix the state's errors.
   ([[gov.protect]], [[include.divides]]). Source:
   [[2026-03-07 Nigerians Groan Under Digital Identity Regime That Turns Basic Rights into Privileges]].
 
+### 2024–2026 build-out (backfill)
+
+- **NIN made mandatory for social services (2025-02-12).** At an inter-ministerial ID4D retreat
+  in Lagos, SGF **George Akume** (PESC chair) and Humanitarian Affairs Minister Tanko Sununu made
+  the NIN a prerequisite for accessing social services and palliatives — the policy anchor behind
+  the later farmer/welfare use-cases. NINs issued stood at ~**115m (Oct 2024)**. Sources:
+  [[2025-02-12 FG mandates use of NIN for social services and interventions (Guardian)]],
+  [[2025-02-12 Nigeria makes National ID Number mandatory for access to social services (ID Tech)]].
+- **ID4D restructuring — origin of the 180m target (2024-12).** The **[[world-bank]]** ID4D project
+  ($430m: $115m IDA + $100m AFD + $215m EIB; launched Feb 2020) was restructured, raising the NIN
+  target from **148m → 180m** and extending to **30 June 2026** after Nigeria missed the 148m/June-
+  2024 milestone (~115m at Oct 2024; ~53% disbursed). Sources:
+  [[2024-12-01 Nigeria ID4D Project Restructuring Paper (World Bank, P167183)]],
+  [[2024-12-30 World Bank expands Nigeria's digital ID target to 180 million, extends ID4D project to 2026]].
+- **NIMC legal reforms → NIMC Act 2026 (2024-07).** The NIMC repeal-and-enact bill (No. 23, first
+  read June 2024, sponsor Sen. Barau Jibrin) proposed decriminalising non-use of the NIN, expanding
+  registrable persons and strengthening enforcement — the legislative precursor to the **NIMC Act
+  2026**. Source: [[2024-07-29 Nigeria undertakes reforms to strengthen national digital ID legal framework]].
+- **NINAuth authentication layer (2025-05-06).** [[nimc]] launched **[[ninauth]]** (web/API/mobile),
+  a consent-based verification service for immigration, licences, SIM, tax and social protection —
+  Nigeria's ID-assurance front end. Source:
+  [[2025-05-07 Nigeria unveils NINAuth platform to streamline national ID authentication and verification]].
+- **Ward-level enrolment drive — start (2026-02-16).** [[nimc]] launched free NIN enrolment at ward
+  level across all **774 LGAs / 36 states + FCT** (later framed as **8,809 wards**), targeting
+  children, rural women, PWDs and refugees — the origin of the drive the hub records at 2026-07-09.
+  Sources: [[2026-02-16 Nigeria launches nationwide ward-level drive to boost digital ID coverage and inclusion]],
+  [[2026-03-04 NIMC Intensifies Ward-Level NIN Enrolment Nationwide]].
+- **Enrolment & distribution (Oct 2025).** NIN reached **123.9m** (from 114m end-2024; +9.9m in 10
+  months) — **56.25% male / 43.75% female**; Lagos 13.1m, Kano 11.5m, Kaduna 7.3m lead. Source:
+  [[2025-12-18 NIN enrollments hit 123.9 million in October 2025 - NIMC]].
+- **ECOWAS biometric ID card (ENBIC) rollout (2025-11-28).** FG unveiled the
+  **[[enbic]]** in Abuja, replacing the paper ECOWAS travel
+  certificate — linking foundational ID to regional free movement ([[gov.regional]]). Source:
+  [[2025-11-28 Nigeria Unveils ECOWAS ID Card To Boost Regional Travel, Security]].
+- **CRVS foundation — birth registration digitalised.** President [[bola-tinubu]] launched the
+  **[[e-crvs-nigeria]]** system (managed by the **[[npc-nigeria]]**) in **Nov 2025**; [[unicef]]
+  reported **14m** children registered over two years (2026-02-20) — the legal-identity entry point
+  beneath NIN. Sources: [[2025-12-01 Nigeria intensifies efforts to digitalise birth, death registrations]],
+  [[2026-02-20 UNICEF records 14 million Nigeria birth registrations in two years]].
+- **Landscape baseline (2023–2024).** BVN registrations reached ~**60m (Dec 2023)** — well short of
+  the CBN's 100m target — with NIN, voter, SIM, passport and driver's-licence registers each a
+  partial identity silo; financial inclusion **74% (2023)**. Historical baseline. Source:
+  [[2024-04-10 Understanding Nigeria's digital identity landscape (BVN, NIN, voter, SIM, passport)]].
+
 ## Reads
 
 - `sovereignty`: legal consolidation of a national foundational identity, coverage push,
@@ -99,7 +143,9 @@ by gender, by geography and by who pays to fix the state's errors.
 ## Links
 
 Place: [[NGA]] · Concepts: [[dpi.id]] · [[gov.legislate]] · [[gov.policy]] ·
-[[finance.new]] · Entities: [[nimc]] · [[nigeria-id4d]] · [[world-bank]]
+[[gov.regional]] · [[dpi.registry]] · [[finance.new]] · Entities: [[nimc]] · [[nigeria-id4d]] ·
+[[world-bank]] · [[ninauth]] · [[enbic]] · [[npc-nigeria]] ·
+[[e-crvs-nigeria]] · [[inec]]
 
 ## Sources
 
@@ -111,3 +157,19 @@ Place: [[NGA]] · Concepts: [[dpi.id]] · [[gov.legislate]] · [[gov.policy]] ·
 - [[2026-01-28 The Gender Gap in Rural Niger State's Digital Identity]]
 - [[2026-03-07 Nigerians Groan Under Digital Identity Regime That Turns Basic Rights into Privileges]]
 - [[2026-07-12 Agric Ministry adopts NIMC identity system to verify genuine farmers]]
+- [[2025-02-12 FG mandates use of NIN for social services and interventions (Guardian)]]
+- [[2025-02-12 Nigeria makes National ID Number mandatory for access to social services (ID Tech)]]
+- [[2024-12-01 Nigeria ID4D Project Restructuring Paper (World Bank, P167183)]]
+- [[2024-12-30 World Bank expands Nigeria's digital ID target to 180 million, extends ID4D project to 2026]]
+- [[2024-07-29 Nigeria undertakes reforms to strengthen national digital ID legal framework]]
+- [[2025-05-07 Nigeria unveils NINAuth platform to streamline national ID authentication and verification]]
+- [[2026-02-16 Nigeria launches nationwide ward-level drive to boost digital ID coverage and inclusion]]
+- [[2026-03-04 NIMC Intensifies Ward-Level NIN Enrolment Nationwide]]
+- [[2025-12-18 NIN enrollments hit 123.9 million in October 2025 - NIMC]]
+- [[2025-11-28 Nigeria Unveils ECOWAS ID Card To Boost Regional Travel, Security]]
+- [[2025-12-01 Nigeria intensifies efforts to digitalise birth, death registrations]]
+- [[2026-02-20 UNICEF records 14 million Nigeria birth registrations in two years]]
+- [[2024-04-10 Understanding Nigeria's digital identity landscape (BVN, NIN, voter, SIM, passport)]]
+- [[2024-05-01 Update on the Implementation of Digital Identity in Nigeria (NIMC, ID4Africa)]]
+- [[2021-02-25 Nigeria - NIN requested for expatriates (PwC Global Mobility)]]
+- [[2025-07-01 Innovations in Electoral Technology 2015-2025 (INEC Handbook)]]

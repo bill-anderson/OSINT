@@ -4,7 +4,7 @@ title: Senegal
 code: SEN
 parent: XWA
 place_kind: country
-topics: [gov.policy, infra.connect, infra.store, dpi.id, dpi.registry, dpi.govtech, dpi.pay, dpi.exchange, gov.protect, infra.cybersec, include.access, tech.ai, capacity.research, geopol.usa, geopol.eu, digital.rural, include.divides, data.satellite, finance.new, gov.regional, gov.standards]
+topics: [gov.policy, infra.connect, infra.store, dpi.id, dpi.registry, dpi.govtech, dpi.pay, dpi.exchange, dpi.mis, gov.protect, gov.legislate, infra.cybersec, include.access, tech.ai, capacity.research, geopol.usa, geopol.eu, digital.rural, include.divides, data.satellite, finance.new, finance.mou, gov.regional, gov.standards]
 status: active
 last_reviewed: 2026-07-16
 ---
@@ -63,6 +63,74 @@ last_reviewed: 2026-07-16
   [[2026-03-25 Senegal Accelerates Digital Sovereignty with Rollout of Flagship Technology Initiatives]].
   See [[gov.policy]], [[infra.store]], [[dpi.exchange]], [[dpi.id]], [[dpi.pay]], [[include.access]],
   [[infra.cybersec]], [[gov.protect]].
+- **2026-02** — **National ID breach halts card production.** A cyberattack on the **[[daf-senegal|DAF]]**
+  (biometric population register / ID-passport issuer) suspended national ID-card production in early Feb 2026;
+  the **"Green Blood Group"** ransomware crew claimed the database with **competing unverified figures of
+  139TB and 139GB**, while authorities insisted citizen data stayed intact. **[[senegal-numerique|SENUM SA]]**
+  was reportedly hit around the same time; a leaked **[[iris-corporation]]** email described two DAF servers
+  breached on **19 Jan 2026**, amid an **unpaid-invoices dispute** with the state. One of a run of state
+  cyberattacks (tax authority Oct 2025, Treasury May 2026). Full cluster: **[[senegal--dpi-id]]**. Sources:
+  [[2026-02-10 Senegal data breach disrupts national ID issuance]],
+  [[2026-02-10 Senegal shuts National ID office after ransomware attack]],
+  [[2026-02-24 Senegal ID System Breach – 139TB Hack Claim]]. See [[dpi.id]], [[infra.cybersec]], [[gov.protect]].
+- **2026-01-27** — **ANEC pre-declaration software in health facilities.** **[[anec-senegal|ANEC]]** began
+  rolling out state-certified **pre-declaration software** in health facilities to capture births/deaths at
+  source — traceable to the EU-funded **[[nekkal-programme|Nékkal programme]]** (2021), which had digitised
+  **19m+ civil records by June 2024**. See [[senegal--dpi-id]], [[dpi.registry]]. Sources:
+  [[2026-01-28 Senegal plans digital overhaul of civil status system (ANEC)]],
+  [[2024-06-27 Senegal digitizes millions of civil records under the Nekkal program]].
+- **2025-12** — **2026 digital budget: CFA81.06bn, ~60% to investment.** The National Assembly set the 2026
+  Digital Ministry budget at **CFA81.06bn (~$143.9m)**, funding universal coverage, free connectivity for
+  **1m people**, a **sovereign cloud**, **biometric digital ID** and interoperability; Senegal ranked
+  **135th/193 on the UN EGDI (0.5162, 2024)**. See [[new-deal-technologique]], [[gov.policy]], [[finance.new]].
+  Source: [[2025-12-09 Senegal allocates 60% of 2026 digital ministry budget to investment]].
+- **2025-12** — **GSMA reform map for the New Deal.** A **[[gsma]]** study (Digital Africa Summit Senegal,
+  5 Dec 2025) found **76% of adults on mobile money** but a ~54% mobile-broadband usage gap, recommending
+  scrapping the **0.5% mobile-money transfer tax**, cutting sector taxes to 3%, and treating telecom as
+  critical infrastructure. See [[senegal--dpi-pay]], [[include.divides]]. Source:
+  [[2025-12-08 GSMA maps the reforms required for Senegal's digital takeoff]].
+- **2025-12** — **RNU social registry doubles to 1m households.** The **[[rnu-senegal|Registre National
+  Unique]]** ([[dgpsn-senegal|DGPSN]]) **grew from 542,000 to 1 million households in 2024**, now covering
+  climate/economic-shock-vulnerable households; 64,000 people with disabilities receive the Family Security
+  Grant. See [[dpi.registry]], [[include.access]]. Source:
+  [[2025-12-09 Senegal's RNU social registry rises from 542,000 to one million households]].
+- **2025-11** — **Mobile-money tax debate.** A proposed **0.5% levy on mobile-money transfers** (to raise
+  ~CFA220bn over three years) drew warnings from consumer bodies and fintechs that it could reverse financial
+  inclusion (>90% of adults use wallets; CFA15.3tn processed in 2025). See [[senegal--dpi-pay]],
+  [[gov.legislate]]. Source:
+  [[2025-11-24 Digitizing public payments provide solution to mobile money tax reform in Senegal]].
+- **2025-10** *(2022 milestone)* — **Digital payments drove UHC past 50%.** **[[sen-csu|SEN-CSU]]** digitised
+  health-coverage operations/payments, helping coverage pass **50% of citizens in 2022** (from <10%); digital
+  payments halved enrolment costs; women are **85% of beneficiaries**. Built in-country with
+  **[[better-than-cash-alliance]]** support. See [[senegal--dpi-pay]], [[dpi.mis]]. Source:
+  [[2025-10-01 How has Senegal made responsible digital payments a catalyst for universal health coverage]].
+- **2025-09** — **Gates Foundation $10m for the New Deal.** The **[[gates-foundation]]** committed **$10m**
+  (Faye–Gates at UNGA80) toward a **universal digital identity**, an **AI hub** and a **Delivery Unit**;
+  Senegal needs ~$1.7bn for 2025–2034. See [[new-deal-technologique]], [[dpi.id]], [[tech.ai]],
+  [[finance.new]]. Source: [[2025-09-29 Gates Foundation fuels Senegal's digital transformation with $10M]].
+- **2025-04-22** — **National Interoperability Platform launched.** Senegal launched an interministerial,
+  interoperable data-exchange platform (with **JICA**), a structuring DPI project of the
+  **[[new-deal-technologique|New Deal]]**; first phase (end-2025) aims to speed social assistance. See
+  [[dpi.exchange]], [[dpi.govtech]]. Source:
+  [[2025-04-22 Senegal launches interministerial interoperable data-exchange platform]].
+- **2025-02-24** — **New Deal Technologique founding launch.** President Faye launched the strategy
+  (Horizon 2034, "Senegal 2050"), centred on a **unique biometric digital ID** generating functional
+  identities, a single citizen portal, and integrated services; ~$1.7bn budget. See
+  [[new-deal-technologique]], [[dpi.id]]. Source:
+  [[2025-02-27 Senegal unveils New Deal Technologique digital transformation strategy]].
+- **2025-02-18** — **ECOWAS biometric ID becomes sole voter-registration proof.** A registration exercise
+  (from 1 Feb 2025) targeted **~3m ECOWAS-biometric-ID holders** off the electoral roll; the ECOWAS CNI
+  (produced by **[[iris-corporation]]**) replaced birth-certificate extracts. See [[senegal--dpi-id]],
+  [[gov.regional]]. Source:
+  [[2025-02-18 Senegal targets 3M ECOWAS biometric ID holders for voter registration]].
+- **2025-01-23** — **PAIX breaks ground on a Dakar data centre.** **[[paix-data-centres]]** began a
+  **1.2MW / 918 sqm** facility in Les Mamelles, Dakar (operational 2026), leveraging Dakar's submarine-cable
+  landings. See [[infra.store]], [[finance.new]]. Source:
+  [[2025-01-23 PAIX Data Centres breaks ground on Dakar data center]].
+- **2024-10** — **Google sovereign-cloud MoU.** Senegal signed an MoU with **[[google]]** to build a
+  **sovereign cloud** ([[google-senegal-sovereign-cloud]]) keeping critical data onshore — the founding move
+  of the New Deal's onshore-cloud thread (distinct from the AWS Wavelength baseline). See [[infra.store]],
+  [[geopol.usa]]. Source: [[2024-10-04 Senegal launches sovereign cloud initiative with Google]].
 - **2025-12-04** — **Sonatel's fixed-broadband lead (Russell Southwood).** In Southwood's
   MNO state-of-market, **[[orange]]**'s Senegalese unit **Sonatel** is a residential-broadband
   standout — **614,000** residential fixed-broadband customers in Senegal plus **280,000** in
@@ -119,9 +187,23 @@ last_reviewed: 2026-07-16
   under the New Deal; the US–Senegal health MOU's Senegalese-law data safeguard.
 - [[tech.ai]] · [[capacity.research]] — NASA Harvest locally-adapted agricultural AI.
 
+## Intersections
+
+- [[senegal--dpi-id]] — digital identity & CRVS: the Feb 2026 national-ID breach, ECOWAS voter ID, and the
+  ANEC/Nékkal civil-registration modernisation.
+- [[senegal--dpi-pay]] — digital payments & fintech: the mobile-money tax debate, GSMA financial-inclusion
+  data, and SEN-CSU's digital-payments-driven universal health coverage.
+
 ## Entities
 
 - [[new-deal-technologique]] — flagship national digital roadmap (four pillars).
+- [[daf-senegal]] · [[iris-corporation]] · [[senegal-numerique]] — national-ID issuance (DAF), ID-card
+  supplier (Iris Corp), and state digital-infrastructure agency (SENUM SA); central to the Feb 2026 breach.
+- [[anec-senegal]] · [[nekkal-programme]] — civil-registration (CRVS) modernisation.
+- [[rnu-senegal]] · [[dgpsn-senegal]] — the National Single Registry social-targeting database and its agency.
+- [[sen-csu]] — Universal Health Coverage agency (digital-payments case).
+- [[cdp-senegal]] · [[senegal-data-protection-law]] — data-protection authority and Law No. 2008-12.
+- [[google-senegal-sovereign-cloud]] · [[gates-foundation]] — sovereign-cloud MoU; $10m New Deal grant.
 - [[ebrd]] · [[yas]] · [[axian-telecom]] · [[ebrd-yas-network-loan]] · [[ilx-fund]] — €270m 4G/5G/fibre loan (EBRD's first Senegal investment).
 - [[orange]] · [[via-africa-cable]] · [[amazon-web-services]] — subsea-cable landing; Orange–AWS
   Wavelength data-residency zones.

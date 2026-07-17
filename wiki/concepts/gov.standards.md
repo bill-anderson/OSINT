@@ -6,7 +6,7 @@ places: [XGL, ZAF, MAR, XAF, SLE, ZMB, NGA, ETH, RWA, BEN, XWA, TGO, GHA, MOZ, T
 entities: [[david-eaves], [mosip], [nandan-nilekani], [the-govlab], [ucl-iipp], [camp], [sign-foundation], [bhutan-ndi], [smart-zambia-institute], [afcfta], [world-bank-theme-taxonomy], [smart-africa], [afnic], [popia], [afcfta-digital-trade-protocol], [adli], [dial], [digital-id-assessment], [fayda-ethiopia-national-id], [sadx], [id4africa], [wbg-dpi-white-paper], [world-development-report-2025], [global-index-on-responsible-ai], [global-center-on-ai-governance], [wuri-programme], [ecowas], [icasa], [nitda], [ngea], [galaxy-backbone], [rhis-recording-burden-5country], [dhis2], [gtmi], [sigmat], [universal-dpi-safeguards-framework], [nissa-lesotho], [margins-id-group], [ghana-card], [un-ai-scientific-panel], [african-union], [world-bank], [nibss], [national-payment-stack], [mapping-african-digital-infrastructures], [internet-society-africa-history], [research-ict-africa]]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-12
+last_reviewed: 2026-07-16
 sources: [[2025-12-15 The Path to a Sovereign Tech Stack is Via a Commodified Tech Stack  TechPolicy.Press], [2026-06-17 They're taking DPI to the world - The Times of India], [2026-06-09 The Triad of Tech Sovereignty and Europe's Package Dependency, Openness, and Agency], [2025-01-01 Eaves commodification], [2025-01-01 dpi_conceptualisation_and_measurement], [2026-07-08 Sierra Leone partners with Bhutan, Sign on digital identity platform], [2026-06-17 Zambia's govt leans towards open-source], [2026-07-03 Study finds governance, not technology, is blocking digital ID interoperability], [2026-06-09 MOSIP accredits Fime for biometric device testing], [2026-06-03 How the EU's Tech Sovereignty Package Finally Puts Open Source to the Test], [2026-05-01 Understanding-MOSIP-Biometric-Update-report], [2026-07-09 Smart Africa and AFNIC Partner to Strengthen Africa's Internet Infrastructure], [2026-01-01 Digital Public Infrastructure in Africa - UNDP], [2026-05-27 Africa's economic future hinges on breaking down silos. This ADLI cohort advances integration], [2026-05-12 Strengthening Fayda Ethiopia's improvement journey through the Digital ID Assessment], [2024-01-16 Digital ID], [2026-04-27 Smart Africa drives cross-border data interoperability through SADX Technical Mission], [2026-05-28 Why decentralized digital identity looks different in every country], [2026-03-30 ECOWAS, World Bank Advance West Africa Digital Identity], [2026-04-12 Icasa moves to mandate national infrastructure database], [2021-09-13 The burden of recording and reporting health data in primary health care facilities in five low- and lower-middle income countries], [2026-04-07 NITDA Assumes Control Of NGEA Infrastructure]]
 ---
 
@@ -33,7 +33,8 @@ Technical and de facto standards as instruments of policy and sovereignty.
   **W3C verifiable credentials**, with governance designed so national institutions can
   "**sustainably manage and evolve**" the platform — the standards-as-agency thesis
   applied to a new national ID, via **South–South** transfer (Bhutan → Sierra Leone). Ties
-  to [[zambia--dpi-id]] and [[mosip]]. See [[SLE]], [[dpi.id]],
+  to [[zambia--dpi-id]] and [[mosip]]. Sierra Leone's **National Data Strategy** (2025) is likewise
+  aligned to the **AU Data Policy Framework**. See [[SLE]], [[dpi.id]], [[gov.policy]],
   [[sierra-leone-digital-id-mou]]. Source:
   [[2026-07-08 Sierra Leone partners with Bhutan, Sign on digital identity platform]].
 
