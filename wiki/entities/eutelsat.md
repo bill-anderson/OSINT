@@ -2,11 +2,11 @@
 type: entity
 entity_type: company
 title: Eutelsat
-places: [XGL, CIV]
+places: [XGL, CIV, AGO]
 topics: [infra.connect, data.satellite]
 status: active
-last_reviewed: 2026-07-11
-sources: [[2026-01-22 Orange Côte d'Ivoire intros satellite broadband]], [[2026-01-21 Orange Côte d'Ivoire Launches Orange Sat Satellite Internet to Boost Nationwide Connectivity]]
+last_reviewed: 2026-07-17
+sources: [[2026-01-22 Orange Côte d'Ivoire intros satellite broadband]], [[2026-01-21 Orange Côte d'Ivoire Launches Orange Sat Satellite Internet to Boost Nationwide Connectivity]], [[2025-06-30-eutelsat-secures-15-year-oneweb-licence-in-angola]], [[2026-06-12-mercury-eutelsat-acordo-conectividade-leo]]
 ---
 
 # Eutelsat
@@ -26,7 +26,20 @@ mobile operators (cf. [[starlink]]).
   [[2026-01-22 Orange Côte d'Ivoire intros satellite broadband]],
   [[2026-01-21 Orange Côte d'Ivoire Launches Orange Sat Satellite Internet to Boost Nationwide Connectivity]].
 
+- **First and only licensed LEO operator in Angola (2025-06).** Eutelsat secured a **definitive
+  15-year licence** to operate its **OneWeb** LEO service in Angola — the **first LEO operator** to
+  win an operating licence there — following the inauguration of a **Luanda ground station** (INACOM /
+  MINTTICS). A rare case of a European LEO operator being licensed where SA/Namibia blocked
+  [[starlink]]. See [[AGO]], [[angola--infra-connect]]. Source:
+  [[2025-06-30-eutelsat-secures-15-year-oneweb-licence-in-angola]].
+- **Multi-year LEO deal with [[mercury-telecom-angola|Mercury]] (2026-06).** At ANGOTIC 2026, Eutelsat
+  signed a multi-year OneWeb capacity agreement with Angolan provider **Mercury**, deepening its local
+  footprint (gateway + PoP); Eutelsat restated as **still the only licensed LEO operator in Angola**.
+  Source: [[2026-06-12-mercury-eutelsat-acordo-conectividade-leo]].
+
 ## Sources
 
 - [[2026-01-22 Orange Côte d'Ivoire intros satellite broadband]]
 - [[2026-01-21 Orange Côte d'Ivoire Launches Orange Sat Satellite Internet to Boost Nationwide Connectivity]]
+- [[2025-06-30-eutelsat-secures-15-year-oneweb-licence-in-angola]]
+- [[2026-06-12-mercury-eutelsat-acordo-conectividade-leo]]

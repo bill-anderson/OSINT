@@ -2,12 +2,12 @@
 type: entity
 entity_type: initiative
 title: 2Africa subsea cable
-places: [XAF, EGY, ZAF, NGA, KEN, COD, MDG]
+places: [XAF, EGY, ZAF, NGA, KEN, COD, MDG, AGO]
 topics: [infra.connect, infra.capacity, geopol.china]
 lens: [sovereignty, colonialism]
 status: active
-last_reviewed: 2026-07-16
-sources: [[2026-07-15 CSquared boosts internet by integrating with 2Africa West cable], [2026-01-20 Cable wars Mapping the political economy of submarine cables in an era of geoeconomic competition], [2026-03-02 I traced who owns the undersea cables that carry 95% of global internet traffic — the map is a colonial one], [2025-11-04 Digital Realty Expands African Footprint With New Data Center in Ghana (ACR2)]]
+last_reviewed: 2026-07-17
+sources: [[2026-07-15 CSquared boosts internet by integrating with 2Africa West cable], [2026-01-20 Cable wars Mapping the political economy of submarine cables in an era of geoeconomic competition], [2026-03-02 I traced who owns the undersea cables that carry 95% of global internet traffic — the map is a colonial one], [2025-11-04 Digital Realty Expands African Footprint With New Data Center in Ghana (ACR2)], [2025-12-13-unitel-investe-43-milhoes-usd-ramal-2africa], [2025-12-13-cabo-submarino-2africa-unitel-soberania-digital]]
 ---
 
 # 2Africa subsea cable
@@ -52,6 +52,16 @@ remains driven primarily by corporate commercial interest rather than pure state
 strategy.
 
 ## Activity in this wiki
+
+- **Angola branch lands at Cacuaco — [[unitel]]'s $43m stake (2025-12-13).** [[infra.connect]] [[AGO]]
+  Unitel — the **sole Angolan operator** in the consortium — invested **US$43m** to build Angola's
+  2Africa branch and the **Cacuaco landing station**, activated 13 Dec 2025 with **23.6 Tbps** of the
+  cable's ~180 Tbps allocated to Angola. Minister [[mario-oliveira]] framed it as decisive for digital
+  sovereignty precisely because **SAT-3 has reached end-of-life after 25 years and WACS is at
+  capacity** — 2Africa as the modern replacement securing an independent international route. See
+  [[angola--infra-connect]]. Sources:
+  [[2025-12-13-unitel-investe-43-milhoes-usd-ramal-2africa]],
+  [[2025-12-13-cabo-submarino-2africa-unitel-soberania-digital]].
 
 - **CSquared integrates 2Africa West for resilience (2026-07-15).** Pan-African wholesale operator
   **[[csquared]]** added **2Africa West** capacity to its own West Africa subsea + terrestrial backbone,

@@ -7,7 +7,7 @@ entities: [[sa-digital-id-regulations], [nida-tanzania], [mosip], [fayda-ethiopi
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-17
-sources: [[2025-01-01 National Addressing System - Seychelles Postal Regulator], [2025-12-18 Urban addressing - modernisation effort], [2025-11-19 Georeferencing of land titles - a revolution for security and transparency in Togo], [2025-12-17 Togo Expands Public Service Digitisation With Online Civil Registry Platform], [2025-12-16 Digitalisation - civil status act requests now possible online], [2025-06-03 Chad, Mali, Senegal pursue birth registration reforms to close gaps], [2025-05-12 New World Bank Project Supports Job Creation for Eswatini's Youth], [2025-08-05 Robust DPI inevitable for Eswatini's economic, jobs boom - World Bank], [2025-04-02 Municipal elections in Togo - revision of electoral rolls begins 7 April], [2023-01-01 Case Study - G2PX in Togo, End-to-End Digital G2P (World Bank)], [2026-04-21 South Africa's digital ID gets a targeted launch date], [2026-05-29 Opinion South Africa's Digital Identity Regulations A Governance Crossroads], [2026-04-22 Tanzania seeks biometrics contractors for Phase II of national digital ID project], [2026-05-22 Uganda launches prototype program for digital ID and public infrastructure], [2026-05-12 Strengthening Fayda Ethiopia's improvement journey through the Digital ID Assessment], [2025-02-13 Digital ID necessity increases in Nigeria despite lingering challenges], [2026-03-16 Digital IDs How registration is progressing so far], [2026-04-03 Say goodbye to SARS tax numbers in South Africa], [2026-03-24 Zambia looking for MOSIP system integrator to support digital ID project], [2026-03-24 Zambia seeks partner for national digital ID system], [2026-03-30 ECOWAS, World Bank Advance West Africa Digital Identity], [2024-10-28 Benin receives 2,050 biometric terminals from World Bank to boost civil registration], [2025-11-01 Identification System in Benin Increasing Access to Services], [2026-01-19 Ivory Coast Launches MaPoste to Digitize Postal and Administrative Services], [2026-01-13 Cameroon intros digital system for civil documents], [2026-01-16 Lesotho's Digital Leap How Child-Centred Systems are Reshaping Social Protection], [2026-01-27 Madagascar Tests Biometric ID System, Aims to Register 2 Million People by Mid-2026], [2026-07-02 OpenCRVS v2.0 Product Launch Webinar - The Next Generation of Civil Registration], [2026-01-28 Home Affairs sets new record by delivering over four million Smart IDs in 2025], [2026-01-27 SA's Telcos, Banks At War With Govt Over 6,500% ID Verification Fee Hike]]
+sources: [[2025-01-01 National Addressing System - Seychelles Postal Regulator], [2025-12-18 Urban addressing - modernisation effort], [2025-11-19 Georeferencing of land titles - a revolution for security and transparency in Togo], [2025-12-17 Togo Expands Public Service Digitisation With Online Civil Registry Platform], [2025-12-16 Digitalisation - civil status act requests now possible online], [2025-06-03 Chad, Mali, Senegal pursue birth registration reforms to close gaps], [2025-05-12 New World Bank Project Supports Job Creation for Eswatini's Youth], [2025-08-05 Robust DPI inevitable for Eswatini's economic, jobs boom - World Bank], [2025-04-02 Municipal elections in Togo - revision of electoral rolls begins 7 April], [2023-01-01 Case Study - G2PX in Togo, End-to-End Digital G2P (World Bank)], [2026-04-21 South Africa's digital ID gets a targeted launch date], [2026-05-29 Opinion South Africa's Digital Identity Regulations A Governance Crossroads], [2026-04-22 Tanzania seeks biometrics contractors for Phase II of national digital ID project], [2026-05-22 Uganda launches prototype program for digital ID and public infrastructure], [2026-05-12 Strengthening Fayda Ethiopia's improvement journey through the Digital ID Assessment], [2025-02-13 Digital ID necessity increases in Nigeria despite lingering challenges], [2026-03-16 Digital IDs How registration is progressing so far], [2026-04-03 Say goodbye to SARS tax numbers in South Africa], [2026-03-24 Zambia looking for MOSIP system integrator to support digital ID project], [2026-03-24 Zambia seeks partner for national digital ID system], [2026-03-30 ECOWAS, World Bank Advance West Africa Digital Identity], [2024-10-28 Benin receives 2,050 biometric terminals from World Bank to boost civil registration], [2025-11-01 Identification System in Benin Increasing Access to Services], [2026-01-19 Ivory Coast Launches MaPoste to Digitize Postal and Administrative Services], [2026-01-13 Cameroon intros digital system for civil documents], [2026-01-16 Lesotho's Digital Leap How Child-Centred Systems are Reshaping Social Protection], [2026-01-27 Madagascar Tests Biometric ID System, Aims to Register 2 Million People by Mid-2026], [2026-07-02 OpenCRVS v2.0 Product Launch Webinar - The Next Generation of Civil Registration], [2026-01-28 Home Affairs sets new record by delivering over four million Smart IDs in 2025], [2026-01-27 SA's Telcos, Banks At War With Govt Over 6,500% ID Verification Fee Hike], [2026-06-08-pr-cria-comissao-actualizacao-dados-cidadaos-maiores-bdcm], [2026-06-15-arranca-prova-de-vida-para-actualizacao-do-registo-eleitoral], [2026-07-01-impressao-do-bi-abrange-todas-as-provincias]]
 ---
 
 # Registries (population, land, address, etc.) (`dpi.registry`)
@@ -246,9 +246,27 @@ maintained and queried.
   [[2025-08-05 Robust DPI inevitable for Eswatini's economic, jobs boom - World Bank]],
   [[2025-05-12 New World Bank Project Supports Job Creation for Eswatini's Youth]].
 
+- **[[AGO]] Angola — registers assembled under an electoral clock (2026).** Angola ran the
+  region's most visible **civil-registry mobilisation** ahead of the 2027 elections, from a
+  base of **63% birth registration (2024)**. Over mid-2026 it decentralised
+  **[[bilhete-de-identidade-angola|BI]]** production from one Luanda centre to **all 21
+  provinces** (24–48h target), tied births to the register via **[[nascer-com-registo-angola|
+  Nascer com Registo]]** (EU/UNICEF) and the World Bank **[[projecto-njila-angola|Njila]]**
+  project, and — the analytic core — is wiring the **civil-identification database
+  ([[bdic-angola|BDIC]])** to the **adult-citizen database ([[base-de-dados-de-cidadaos-maiores-angola|
+  BDCM]])** under a presidential proof-of-life commission, targeting **16,707,455** citizens
+  across **254 of 634 [[balcao-unico-de-atendimento-ao-publico-angola|BUAP]]** counters by
+  2027-03-31. A parallel land-register platform ([[igca-angola|IGCA]]/AGT/Conservatória)
+  targets 40,000 legalised properties. Connectivity is the binding constraint. Fuller
+  treatment: → **[[angola--dpi-registry]]**. See [[dpi.id]], [[dpi.exchange]],
+  [[digital.localgov]]. Sources:
+  [[2026-06-08-pr-cria-comissao-actualizacao-dados-cidadaos-maiores-bdcm]],
+  [[2026-06-15-arranca-prova-de-vida-para-actualizacao-do-registo-eleitoral]],
+  [[2026-07-01-impressao-do-bi-abrange-todas-as-provincias]].
+
 ## Places
 
-[[ZAF]] · [[TZA]] · [[UGA]] · [[ETH]] · [[NGA]] · [[RWA]] · [[ZMB]] · [[XWA]] · [[BEN]] · [[CIV]] ·
+[[AGO]] · [[ZAF]] · [[TZA]] · [[UGA]] · [[ETH]] · [[NGA]] · [[RWA]] · [[ZMB]] · [[XWA]] · [[BEN]] · [[CIV]] ·
 [[CMR]] · [[GAB]] · [[LSO]] · [[MDG]] · [[MLI]] · [[SEN]] · [[SWZ]] · [[SYC]] · [[TCD]] · [[TGO]] · [[XGL]] ·
 Related: [[dpi.id]] · [[dpi.exchange]] · [[dpi.mis]]
 
@@ -288,3 +306,6 @@ Related: [[dpi.id]] · [[dpi.exchange]] · [[dpi.mis]]
 - [[2025-08-05 Robust DPI inevitable for Eswatini's economic, jobs boom - World Bank]]
 - [[2025-04-02 Municipal elections in Togo - revision of electoral rolls begins 7 April]]
 - [[2023-01-01 Case Study - G2PX in Togo, End-to-End Digital G2P (World Bank)]]
+- [[2026-06-08-pr-cria-comissao-actualizacao-dados-cidadaos-maiores-bdcm]]
+- [[2026-06-15-arranca-prova-de-vida-para-actualizacao-do-registo-eleitoral]]
+- [[2026-07-01-impressao-do-bi-abrange-todas-as-provincias]]

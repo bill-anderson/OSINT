@@ -2,7 +2,7 @@
 type: concept
 title: National statistics
 slug: data.statistics
-places: [XAF, XSS, XGL, ETH, KEN, ZMB, ZAF, MWI, TZA, GHA, MOZ, NGA, UGA, RWA, ZWE, EGY, BEN]
+places: [XAF, XSS, XGL, ETH, KEN, ZMB, ZAF, MWI, TZA, GHA, MOZ, NGA, UGA, RWA, ZWE, EGY, BEN, AGO]
 entities: [[development-gateway], [usaid], [bill], [world-development-report-2025], [paris21], [2026-07-11 data-systems-crossroads], [malawi-revenue-authority], [african-development-bank], [nafa], [dhis2], [hisp-centre], [open-data-watch], [africa-cdc], [gsma], [research-ict-africa]]
 lens: [sovereignty, colonialism]
 status: active
@@ -110,6 +110,17 @@ is where the **"is the data even being created?"** question lives, upstream of D
   [[gov.regional]]. Source:
   [[2026-01-01 Trade-Related Illicit Financial Flows in Africa 2013-2022 (Global Financial Integrity)]].
 
+- **[[AGO]] Angola — NSO digitisation and open access (2026 H1).** The **[[ine-angola]]** (Instituto
+  Nacional de Estatística) is modernising in-house: it launched a **Censo 2024 open portal + "INE Angola"
+  mobile app (2026-07-02)**, and its field practice with **ArcGIS/Esri Field Maps** cut data-collection
+  time **from 6–8 months to ~2** (Benguela, 2026-02). A new **[[ende-angola]]** (National Statistics
+  Development Strategy 2026–2032) and a **statistics-law revision** are heading to the Conselho Nacional de
+  Estatística. A concrete case of a Lusophone NSO building open, machine-readable official data at source.
+  See [[data.open]], [[dpi.govtech]], [[data.satellite]]. Sources:
+  [[2026-07-02-ine-lanca-portal-do-censo-2024-e-aplicacao-movel]],
+  [[2026-06-12-nova-estrategia-de-desenvolvimento-da-estatistica-2026-2032]],
+  [[2026-02-10-tecnologias-digitais-dados-estatisticos-em-benguela]].
+
 ## Reads
 
 - `sovereignty` / `colonialism`: who funds, defines and holds a country's statistics is a
@@ -119,4 +130,4 @@ is where the **"is the data even being created?"** question lives, upstream of D
 
 ## Sources
 
-- [[2026-05-26 A Year After USAID Reclaiming Control of Data Systems – Development Gateway An IREX Venture – Data and digital solutions for international development]] · [[2026-03-31 Africa we have a data problem]] · [[2021-09-01 2021-data-side-of-lnob]] · [[2022-03-01 2022-data-disharmony]] · [[2023-04-01 2023-is-the-sdg-monitoring-framework-broken]] · [[2024-09-01 2024-digital-compacts-global-ideals-regional-realities]] · [[2026-07-11 data-systems-crossroads.pdf]] · [[2026-06-03 Malawi reaps digital tax gains]] · [[2026-05-26 AfDB says Africa must fund its own growth as aid model frays]] · [[2021-08-04 Health information systems in developing countries case of African countries]] · [[2021-09-13 The burden of recording and reporting health data in primary health care facilities in five low- and lower-middle income countries]] · [[2023-05-11 Data for local decision-making, not a mere reporting requirement development of an index to measure facility-level use of HMIS data  Published in Journal of Global Health Reports]] · [[2023-10-30 A political economy analysis of strengthening health information system in Tanzania]] · [[2025-11-05 New report highlights urgent need to rebuild and sustain health data systems]] · [[2025-04-03 Now is the time to invest in locally-owned health data systems]] · [[2026-03-24 Mobile Money in Africa Strong Growth, but Adoption Still Falls Short]] · [[2026-03-11 The evolving role of National Statistics Offices (NSOs) as data custodians in the digital age]] · [[2026-01-01 Trade-Related Illicit Financial Flows in Africa 2013-2022 (Global Financial Integrity)]]
+- [[2026-05-26 A Year After USAID Reclaiming Control of Data Systems – Development Gateway An IREX Venture – Data and digital solutions for international development]] · [[2026-03-31 Africa we have a data problem]] · [[2021-09-01 2021-data-side-of-lnob]] · [[2022-03-01 2022-data-disharmony]] · [[2023-04-01 2023-is-the-sdg-monitoring-framework-broken]] · [[2024-09-01 2024-digital-compacts-global-ideals-regional-realities]] · [[2026-07-11 data-systems-crossroads.pdf]] · [[2026-06-03 Malawi reaps digital tax gains]] · [[2026-05-26 AfDB says Africa must fund its own growth as aid model frays]] · [[2021-08-04 Health information systems in developing countries case of African countries]] · [[2021-09-13 The burden of recording and reporting health data in primary health care facilities in five low- and lower-middle income countries]] · [[2023-05-11 Data for local decision-making, not a mere reporting requirement development of an index to measure facility-level use of HMIS data  Published in Journal of Global Health Reports]] · [[2023-10-30 A political economy analysis of strengthening health information system in Tanzania]] · [[2025-11-05 New report highlights urgent need to rebuild and sustain health data systems]] · [[2025-04-03 Now is the time to invest in locally-owned health data systems]] · [[2026-03-24 Mobile Money in Africa Strong Growth, but Adoption Still Falls Short]] · [[2026-03-11 The evolving role of National Statistics Offices (NSOs) as data custodians in the digital age]] · [[2026-01-01 Trade-Related Illicit Financial Flows in Africa 2013-2022 (Global Financial Integrity)]] · [[2026-07-02-ine-lanca-portal-do-censo-2024-e-aplicacao-movel]] · [[2026-06-12-nova-estrategia-de-desenvolvimento-da-estatistica-2026-2032]] · [[2026-02-10-tecnologias-digitais-dados-estatisticos-em-benguela]]

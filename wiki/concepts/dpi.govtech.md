@@ -3,7 +3,7 @@ type: concept
 title: Other GovTech and e-Gov
 slug: dpi.govtech
 places: [COG, COM, BWA, BFA, BDI, AGO, ZMB, ZAF, XGL, MWI, GHA, NAM, KEN, NGA, UGA, BEN, CIV, MOZ, COD, TZA, RWA, SDN, EGY, CMR, CAF, DJI, CPV, DZA, ERI, GIN, STP, SSD, SLE, SWZ, TGO, TCD, SYC]
-entities: [[smart-zambia-institute], [dzap], [david-eaves], [sita], [ucl-iipp], [dmap], [govguide-nigeria], [meta], [bosun-tijani], [malawi-revenue-authority], [mosip], [uxp-benin], [cybernetica], [kenya-revenue-authority], [nitda], [ngea], [galaxy-backbone], [safaricom], [sars], [sarb], [oneci], [maposte], [la-poste-cote-divoire], [atdi-mozambique], [malawi-ministry-of-ict], [undp], [gtmi], [world-bank], [trident-digital-tech], [rdc-pass], [idea-mpa], [government-in-your-hand], [digital-eswatini-project], [services-publics-togo], [otr-togo], [gest-exo], [ministry-of-transport-chad], [registrar-general-office-seychelles]]
+entities: [[smart-zambia-institute], [dzap], [david-eaves], [sita], [ucl-iipp], [dmap], [govguide-nigeria], [meta], [bosun-tijani], [malawi-revenue-authority], [mosip], [uxp-benin], [cybernetica], [kenya-revenue-authority], [nitda], [ngea], [galaxy-backbone], [safaricom], [sars], [sarb], [oneci], [maposte], [la-poste-cote-divoire], [atdi-mozambique], [malawi-ministry-of-ict], [undp], [gtmi], [world-bank], [trident-digital-tech], [rdc-pass], [idea-mpa], [government-in-your-hand], [digital-eswatini-project], [services-publics-togo], [otr-togo], [gest-exo], [ministry-of-transport-chad], [registrar-general-office-seychelles], [ima-angola], [tis-angola], [agt-angola], [i-lab-angola], [serpro]]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-17
@@ -240,9 +240,11 @@ Government service delivery online.
   [[dpi.registry]], [[SYC]]. Source:
   [[2025-02-10 Seychelles Pledges to Modernize Public Services Through Digital Transformation]].
 
+- **[[AGO]] Angola — a coordinated agenda on a low base (2025–26).** Angola's **Governo Digital 2027** agenda counts **218 structuring projects** (2026-03, up from 214 in 2025) under the **[[ima-angola|IMA]]**, from a UN **EGDI 156/193** base (up 18 places in a decade). The concrete DPI backbone is a **US$150m IMA–[[tis-angola|TIS]] contract** (Despacho Presidencial 38/26): interoperability platform, digital identity, **PKI e-signatures**. A PKI/time-stamp **trust layer** underpins **[[agt-angola|AGT]]** mandatory e-invoicing (live 1 Jan 2026) and a FATCA data flow to the US IRS; the Ministry of Finance's **[[i-lab-angola|i.Lab]]** (with Brazil's **[[serpro]]**) tests public-finance solutions under a sovereignty framing; INSS and Cubango-province ([[digital.localgov]]) rollouts extend it. Rare user-side evidence: SME/DTSER digitisation ended the informal "mixeiros" but the portal is hard to use. → **[[angola--dpi-govtech]]**. Sources: [[2026-03-05-governo-aposta-reorganizacao-administracao-publica-governo-digital-2027]], [[2026-06-17-ima-tis-contrato-projecto-infra-estruturas-digitais-publicas]], [[2025-11-06-servicos-digitais-no-sme-e-dtser-acabam-com-enchentes]].
+
 ## Places
 
-[[ZMB]] · [[ZAF]] · [[XGL]] · [[MWI]] · [[GHA]] · [[NAM]] · [[KEN]] · [[NGA]] · [[UGA]] · [[BEN]] ·
+[[AGO]] · [[ZMB]] · [[ZAF]] · [[XGL]] · [[MWI]] · [[GHA]] · [[NAM]] · [[KEN]] · [[NGA]] · [[UGA]] · [[BEN]] ·
 [[CIV]] · [[MOZ]] · [[COD]] · [[TZA]] · [[RWA]] · [[SDN]] · [[EGY]] · [[CMR]] · [[CAF]] · [[GAB]] ·
 [[STP]] · [[SSD]] · [[SLE]] · [[SWZ]] · [[TGO]] · [[TCD]] · [[SYC]]
 
@@ -290,3 +292,6 @@ Government service delivery online.
 - [[2026-01-07 Digital driving licence coming to South Africa]]
 - [[2025-11-07 Sudan Establishes Three Digital Authorities to Advance E-Govt]]
 - [[2021-06-01 The Irembo model in Rwanda]]
+- [[2026-03-05-governo-aposta-reorganizacao-administracao-publica-governo-digital-2027]]
+- [[2026-06-17-ima-tis-contrato-projecto-infra-estruturas-digitais-publicas]]
+- [[2025-11-06-servicos-digitais-no-sme-e-dtser-acabam-com-enchentes]]

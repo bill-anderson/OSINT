@@ -2,7 +2,7 @@
 type: concept
 title: Cybersecurity
 slug: infra.cybersec
-places: [ZMB, ZAF, XAF, NGA, MOZ, RWA, BEN, GHA, KEN, MUS, LBR, XEA, XSS, CMR, BFA, EGY, SDN, SEN, ZWE, DZA, UGA, DJI, CPV, SOM]
+places: [ZMB, ZAF, XAF, NGA, MOZ, RWA, BEN, GHA, KEN, MUS, LBR, XEA, XSS, CMR, BFA, EGY, SDN, SEN, ZWE, DZA, UGA, DJI, CPV, SOM, AGO]
 entities: [[dzap], [research-ict-africa], [smart-africa], [afnic], [nimc], [mozambique-cyber-security-law], [realtyme], [smart-africa-realtyme-partnership], [sadx], [sa-digital-id-regulations], [popia], [world-bank], [mosip], [id4africa], [eac], [antic-cameroon], [patnuc], [bf-ministry-digital-transition], [alliance-of-sahel-states], [intic-mozambique], [cybastion], [securoute], [asin-benin], [zte], [hikvision], [huawei], [bio-key-international], [runlevel], [simo-mozambique], [kenya-cyber-resilience-project], [expertise-france], [estdev], [european-union], [nira-nigeria], [nitda]]
 lens: [sovereignty]
 status: active
@@ -147,9 +147,24 @@ how "cyber threat" is defined and acted on.
   **Tier 4/5** score (37.38/100, 2024); a **Nov-2025 e-visa data breach** underlined the exposure. See
   [[gov.legislate]], [[SOM]].
 
+- **[[AGO]] Angola — two-track build, plus surveillance in practice (2025–26).** Angola is standing up a
+  cyber apparatus on **two parallel tracks that create the same institutions**: a **draft-Presidential-Decree
+  National Cybersecurity Strategy** ([[national-cybersecurity-strategy-angola]], Dec 2025 — National
+  Cybersecurity Council + CERTs) and a **legislative bill** ([[angola-cybersecurity-law]]) that won general
+  approval **23 Jan 2026 (105–1–75)** but was **suspended in committee (Jul 2026)** — the decree-vs-statute
+  overlap flagged as a contradiction. A **US vendor, [[cybastion]]**, is financing the national cybersecurity
+  *agency* itself (**$170m** with [[angola-telecom]], $25m first phase, Cisco training). Angola scored
+  **ITU GCI Tier 4 (2024)**. Yet practice runs ahead of safeguards: the **first forensic confirmation** of
+  **Predator spyware** ([[predator-spyware-angola]], [[sinse-angola]]) against a journalist (Amnesty; active
+  2024-05-04), and a **"fake news" law** ([[angola-fake-news-law]], passed May 2026). Angola has **signed the
+  UN Convention against Cybercrime**. → [[angola--infra-cybersec]]. Sources:
+  [[2025-12-09-angola-unveils-national-cybersecurity-strategy]],
+  [[2026-07-08-deputados-suspendem-discussao-lei-da-ciberseguranca]],
+  [[2026-02-26-sinse-adquiriu-spyware-predator-para-espiar-jornalista]].
+
 ## Places
 
-[[ZMB]] · [[ZAF]] · [[XAF]] · [[NGA]] · [[MOZ]] · [[RWA]] · [[BEN]] · [[GHA]] · [[KEN]] · [[MUS]] · [[LBR]] · [[XEA]] · [[XSS]] · [[CMR]] · [[BFA]] · [[EGY]] · [[SDN]] · [[SEN]] · [[ZWE]] · [[DZA]] · [[UGA]] · [[SOM]]
+[[AGO]] · [[ZMB]] · [[ZAF]] · [[XAF]] · [[NGA]] · [[MOZ]] · [[RWA]] · [[BEN]] · [[GHA]] · [[KEN]] · [[MUS]] · [[LBR]] · [[XEA]] · [[XSS]] · [[CMR]] · [[BFA]] · [[EGY]] · [[SDN]] · [[SEN]] · [[ZWE]] · [[DZA]] · [[UGA]] · [[SOM]]
 
 ## Sources
 
@@ -173,3 +188,6 @@ how "cyber threat" is defined and acted on.
 - [[2026-01-21 How foreign domains compromise digital identity]]
 - [[2025-11-07 Sudan Establishes Three Digital Authorities to Advance E-Govt]]
 - [[2024-09-18 Nigeria among tier-3 countries in ITU Global Cybersecurity Index 2024]]
+- [[2025-12-09-angola-unveils-national-cybersecurity-strategy]]
+- [[2026-07-08-deputados-suspendem-discussao-lei-da-ciberseguranca]]
+- [[2026-02-26-sinse-adquiriu-spyware-predator-para-espiar-jornalista]]

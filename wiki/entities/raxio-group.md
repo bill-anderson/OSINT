@@ -37,9 +37,13 @@ Africa and Asia Infrastructure Fund**. CEO: **Robert Skjodt**.
 - **Raxio Angola (AG1), Cacuaco — country's largest DC (2025-10).** Opened Angola's biggest and only
   **Tier III** commercial data centre: up to **3 MW** / 800+ racks across 19,000 m² (Raxio's biggest
   campus), a **$30m** development sited near Luanda's undersea-cable landings to host local traffic;
-  plan to exceed 7 MW within five years. Telecom/IT Minister Oliveira officiated. See [[AGO]],
-  [[angola--infra-store]]. Source:
-  [[2025-10-02 Raxio Opens Angola's Largest Data Centre in Landmark 30 Million Expansion]].
+  plan to exceed 7 MW within five years. Telecom/IT Minister Oliveira officiated. AG1 is the commercial
+  Tier III anchor of Angola's estate: the government's own sovereign
+  **[[data-center-e-cloud-do-governo-angola|national data centre]]** (Camama) opened **~six months
+  later** (April 2026) — state build layered over the commercial one. See [[AGO]],
+  [[angola--infra-store]]. Sources:
+  [[2025-10-02 Raxio Opens Angola's Largest Data Centre in Landmark 30 Million Expansion]],
+  [[2026-04-27-angola-autonomia-armazenamento-documentos-data-center]].
 
 - **Raxio Mozambique (MZ1), Beluluane — country's first Tier III (2024-05).** Opened Mozambique's first
   Tier III Uptime-certified data centre near Maputo (Beluluane Industrial Park / MozParks): **3 MW** across

@@ -463,3 +463,25 @@ in the same batch and is now held; instrument upgraded stub→active. See log.md
   (gov.cv, sniac.cv, NOSi/IGRP) outside the two-paper scope. *Lead: source the CNI/SNIAC/Chave Móvel Digital
   architecture directly from the government primaries as `instrument`/`resource` entities — the papers will
   not supply it.* (Surfaced Phase-2 sweep, 2026-07-17.)
+
+- **GAP-AGO-001 · High-referrer Angola entities referenced by the batch but not yet paged.** The 122-source
+  AGO ingest links several entities that recur enough to warrant their own pages (dead-link triage —
+  "wanted page → create"), but which need identity/role confirmation before a page is written rather than
+  guessed: **`mario-oliveira`** (12 refs — the Telecommunications minister; confirm full name/role against
+  a primary), **`marcy-lopes`** (10 refs), **`dionisio-da-fonseca`** (4 refs); the institutions
+  **`assembleia-nacional-angola`** (7), **`unita`** (6) and **`mpla`** (6, recurring in legislative-vote
+  contexts); the event **`angotic`** (6 — Angola's flagship ICT conference, a standing `initiative`); and the
+  initiatives **`plano-de-universalizacao-do-bilhete-de-identidade`** (5), **`ilumina-angola`** (2), and
+  **`censo-2024-angola`** (4, an INE `resource`/`instrument`). *Lead: create the confirmable ones (ANGOTIC,
+  the census, the BI-universalisation plan are unambiguous from the sources; the persons/parties need a
+  primary).* The residual long tail (~110 single-reference Angolan officials and bodies) is low-value per
+  the anti-fragmentation rule and should be left to the periodic dead-link lint, not paged individually.
+  *(Surfaced AGO ingest, 2026-07-17.)*
+
+- **GAP-AGO-002 · SITA namespace collision.** The batch's Luanda-airport passenger-data story concerns
+  **SITA — Société Internationale de Télécommunications Aéronautiques**, the aviation-IT vendor. The wiki
+  already holds `wiki/entities/sita.md` for a **different** organisation — South Africa's **State Information
+  Technology Agency**. To avoid miscitation the ingest created `sita-angola` for the deployment and did *not*
+  link `[[sita]]`. *Lead: create a distinct vendor entity (e.g. `sita-aero`) for the aviation company and
+  cross-reference, so future border/aviation-data sources have a correct home.* *(Surfaced AGO ingest,
+  2026-07-17.)*

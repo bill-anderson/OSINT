@@ -16,7 +16,7 @@ only slugs with a concept page are listed. Roll-up is by Level-1 parent.
 - [[dpi.exchange]] — Data Exchange · places: COM, AGO, ZMB, XAF, NGA, KEN, MWI, ZAF, RWA, BEN, GHA, ETH, SEN, TGO, XWA, DJI, TZA, XEA, LSO, UGA, COD, BWA, CIV, CMR, CPV, EGY, LBR, MAR, MOZ, MUS, NAM, NER, SOM, SSD, STP, SYC, XCA, XGL, XSA, XSS, ZWE, DZA, ERI, GAB, GNB, MDG, SDN, SLE, SWZ, TCD, TUN
 - [[dpi.govtech]] — Other GovTech and e-Gov · places: COG, COM, BWA, BDI, CAF, ZMB, ZAF, XGL, MWI, GHA, NAM, KEN, NGA, UGA, BEN, CIV, MOZ, COD, TZA, RWA, EGY, CMR, AGO, BFA, ETH, GIN, GNQ, LBR, LSO, MAR, MDG, MLI, NER, SEN, SLE, SOM, SSD, STP, SWZ, XAF, XEA, XSS, XWA, ZWE, DJI, CPV, DZA, ERI, GAB, GNB, GMB, LBY, MRT, MUS, SYC, TCD, TGO, TUN
 - [[dpi.registry]] — Registries (population, land, address, etc.) · places: COG, COD, BFA, BDI, AGO, CAF, ZAF, TZA, UGA, ETH, NGA, RWA, ZMB, XWA, BEN, CIV, CMR, LSO, MDG, XGL, KEN, MWI, SOM, XAF, DZA, EGY, GAB, GHA, GIN, GNQ, GNB, GMB, LBR, LBY, MAR, MOZ, MLI, MRT, MUS, NAM, NER, SSD, SLE, STP, SWZ, SYC, TCD, TGO, TUN, ZWE
-- [[dpi.mis]] — Sectoral management information systems (HMIS, EMIS, etc.) · places: COD, BDI, XAF, XSS, XGL, RWA, ETH, NGA, KEN, ZAF, MWI, TZA, MOZ, GHA, ZMB, UGA, ZWE, LSO, BEN, BWA, CIV, CMR, GAB, LBR, MDG, SEN, SLE, SOM, SWZ, TCD, XEA, CPV, EGY, GIN, GNQ, GMB, MUS, NAM, TGO
+- [[dpi.mis]] — Sectoral management information systems (HMIS, EMIS, etc.) · places: COD, BDI, XAF, XSS, XGL, RWA, ETH, NGA, KEN, ZAF, MWI, TZA, MOZ, GHA, ZMB, UGA, ZWE, LSO, BEN, BWA, CIV, CMR, GAB, LBR, MDG, SEN, SLE, SOM, SWZ, TCD, XEA, CPV, EGY, GIN, GNQ, GMB, MUS, NAM, TGO, AGO
 
 ## Governance
 - [[gov.policy]] — Strategies, plans and policies · places: CAF, ZMB, XGL, KEN, ZAF, GHA, NAM, MWI, NGA, XAF, EGY, XSS, SEN, CIV, XEA, RWA, TZA, UGA, LBR, ETH, BFA, MOZ, SOM, AGO, BDI, BEN, BWA, CMR, COD, COG, DJI, DZA, GAB, GMB, LSO, MAR, MDG, MUS, SDN, SLE, STP, SWZ, TCD, TUN, XCA, XSA, XWA, ZWE, CPV, ERI, GIN, GNQ, GNB, LBY, MLI, MRT, NER, SSD, TGO
@@ -48,7 +48,7 @@ only slugs with a concept page are listed. Roll-up is by Level-1 parent.
 
 ## Data
 - [[data.open]] — Open data · places: KEN, ZMB, ETH, XGL, XSS, BEN, BWA, CIV, EGY, GAB, GHA, GMB, MAR, MOZ, MWI, NGA, RWA, SEN, SLE, TUN, TZA, UGA, XAF, XWA, ZAF, ZWE, LBY
-- [[data.statistics]] — National statistics · places: XAF, XSS, XGL, ETH, KEN, ZMB, ZAF, MWI, TZA, GHA, MOZ, NGA, UGA, RWA, ZWE, EGY, BEN, BWA, CIV, CMR, GAB, GMB, LBR, LSO, MAR, MDG, SEN, SLE, SOM, SWZ, XCA, XEA, GIN, GNQ, GNB, LBY, MLI, MRT, MUS, NER, TCD, TGO, TUN
+- [[data.statistics]] — National statistics · places: XAF, XSS, XGL, ETH, KEN, ZMB, ZAF, MWI, TZA, GHA, MOZ, NGA, UGA, RWA, ZWE, EGY, BEN, BWA, CIV, CMR, GAB, GMB, LBR, LSO, MAR, MDG, SEN, SLE, SOM, SWZ, XCA, XEA, GIN, GNQ, GNB, LBY, MLI, MRT, MUS, NER, TCD, TGO, TUN, AGO
 - [[data.satellite]] — Use of satellite data · places: NGA, NAM, ZAF, KEN, UGA, SEN, RWA, MOZ, GAB, CIV, XAF, COD, LSO, TZA, XGL, AGO, BEN, CMR, GHA, XSS, ZWE, GMB, TGO
 
 ## Digitalisation

@@ -219,9 +219,24 @@ localization mandates, and the competition/antitrust angle on cloud concentratio
   [[2025-12-30 Togo Adopts New Law to Strengthen Anti-Money Laundering Rules]],
   [[2025-03-24 Togo Adopts WAEMU Consumer Protection Framework]].
 
+- **A whole digital-law package moving at once — Angola (2026 H1).** Angola is legislating the digital
+  stack in parallel, with uneven results. Its **cybersecurity bill** ([[angola-cybersecurity-law]]) won
+  general approval **23 Jan 2026 (105–1–75)** but was **suspended in committee (7–8 Jul 2026)** over
+  drafting non-conformities; a **"fake news" law** ([[angola-fake-news-law]]) **passed definitively
+  21 May 2026** (1–10 years); a **Digital Government framework bill** ([[angola-digital-government-law]])
+  entered **public consultation (6 May 2026)** expressly to end "dispersão legislativa" since 1997; and
+  the government's **Law 22/11 data-protection revision** cleared consultation (2026-06) — while a UNITA
+  electoral-data amendment **passed committee then failed in plenary (2026-06-25)**. Fragmentation is
+  both the diagnosis and, in the stall of the cyber bill, the symptom. See [[infra.cybersec]],
+  [[gov.protect]], [[AGO]], [[angola--infra-cybersec]]. Sources:
+  [[2026-01-23-proposta-lei-ciberseguranca-aprovada-generalidade]],
+  [[2026-07-08-deputados-suspendem-discussao-lei-da-ciberseguranca]],
+  [[2026-05-21-lei-contra-fake-news-aprovada-definitivamente]],
+  [[2026-05-06-consulta-publica-proposta-de-lei-do-governo-digital]].
+
 ## Places
 
-[[XAF]] · [[NGA]] · [[KEN]] · [[XGL]] · [[GHA]] · [[ZAF]] · [[MOZ]] · [[NAM]] · [[RWA]] · [[XSA]] · [[ZMB]] · [[SOM]] · [[COG]] · [[UGA]] · [[MWI]] · [[STP]] · [[SSD]] · [[SLE]] · [[SWZ]] · [[SYC]] · [[TCD]] · [[TGO]] · [[XWA]]
+[[AGO]] · [[XAF]] · [[NGA]] · [[KEN]] · [[XGL]] · [[GHA]] · [[ZAF]] · [[MOZ]] · [[NAM]] · [[RWA]] · [[XSA]] · [[ZMB]] · [[SOM]] · [[COG]] · [[UGA]] · [[MWI]] · [[STP]] · [[SSD]] · [[SLE]] · [[SWZ]] · [[SYC]] · [[TCD]] · [[TGO]] · [[XWA]]
 
 ## Related
 
@@ -270,3 +285,7 @@ localization mandates, and the competition/antitrust angle on cloud concentratio
 - [[2025-12-10 Chad Finalizes Digital Law to Align National Framework With Global Standards]]
 - [[2025-12-30 Togo Adopts New Law to Strengthen Anti-Money Laundering Rules]]
 - [[2025-03-24 Togo Adopts WAEMU Consumer Protection Framework]]
+- [[2026-01-23-proposta-lei-ciberseguranca-aprovada-generalidade]]
+- [[2026-07-08-deputados-suspendem-discussao-lei-da-ciberseguranca]]
+- [[2026-05-21-lei-contra-fake-news-aprovada-definitivamente]]
+- [[2026-05-06-consulta-publica-proposta-de-lei-do-governo-digital]]

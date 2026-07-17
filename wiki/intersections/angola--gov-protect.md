@@ -5,11 +5,11 @@ place: AGO
 topic: gov.protect
 places: [AGO]
 topics: [gov.protect, gov.legislate, tech.ai, infra.cybersec]
-entities: [[apd-angola], [angola-data-protection-law-22-11], [angola-ai-bill], [malabo-convention]]
+entities: [[apd-angola], [angola-data-protection-law-22-11], [angola-ai-bill], [malabo-convention], [angola-digital-government-law], [ima-angola]]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-15
-sources: [[2011-09-19 Angola Passes Personal Data Protection Law (Law 22-11)], [2024-08-10 Angola - Dados Pessoais e Ciber-seguranca (APD enforcement)], [2025-10-08 Data protection and cybersecurity laws in Angola (CMS guide)], [2025-12-29 Review of Angola's Proposed Law on Artificial Intelligence]]
+last_reviewed: 2026-07-17
+sources: [[2011-09-19 Angola Passes Personal Data Protection Law (Law 22-11)], [2024-08-10 Angola - Dados Pessoais e Ciber-seguranca (APD enforcement)], [2025-10-08 Data protection and cybersecurity laws in Angola (CMS guide)], [2025-12-29 Review of Angola's Proposed Law on Artificial Intelligence], [2026-06-17-nova-lei-de-proteccao-de-dados-proximo-ano-legislativo], [2026-04-13-an-aprova-generalidade-alteracao-lei-proteccao-de-dados], [2026-06-25-parlamento-rejeita-proposta-proteccao-de-dados-pessoais], [2026-05-06-consulta-publica-proposta-de-lei-do-governo-digital]]
 ---
 
 # Angola × Data Protection
@@ -24,11 +24,17 @@ Unusually for the region, Angola pairs an **early data-protection law (2011) wit
 
 **The next layer: AI.** The **[[angola-ai-bill]]** (draft, reviewed Dec 2025) proposes a comprehensive, EU-AI-Act-influenced, risk-based framework with strong extraterritorial reach and a dual industry-building / sovereignty + safeguards objective — reviewed **alongside a concurrent amendment to the Data Protection Act**, tightening the AI/DP linkage.
 
-The open question is capacity: an active-but-young APD now facing AI-era enforcement. See [[gov.protect]], [[gov.legislate]], [[tech.ai]], [[AGO]].
+**The government's Law 22/11 revision (2026-06).** The **[[apd-angola]]** reports the executive's own revision has **cleared public consultation** and heads to the Council of Ministers, then the National Assembly, in the next legislative year (announced 17 Jun 2026 at a UNESCO/Smart Africa PALOP data-governance workshop). It responds to AI, the digital economy and data governance: a new **data-protection officer (DPO)** role for high-volume processors, stronger oversight/sanction mechanisms, and **fines re-denominated into Kwanza** (from the current dollar figures). This is the substantive modernisation — distinct from the failed opposition amendment below.
+
+**Transparency vs privacy — a clean plenary reversal (2026-04 → 06).** Separately, a **UNITA** bill to amend Law 22/11 so as to **open electoral personal data** — the Base de Dados de Cidadãos Maiores (BDCM), the Ficheiro Informático de Cidadãos Maiores (FICM) and the electoral registers — to citizens and parties, in the name of electoral transparency, **passed committee 10–0–12 on 13 Apr 2026** but was **rejected in plenary on 25 Jun 2026**. The MPLA's Nvunda Salukombo argued it would expose sensitive personal data without the data subjects' consent, breaching the constitutional right to private life; UNITA's Olívio Quilumbo framed it as reducing electoral abstention and boosting trust. A textbook transparency-vs-privacy conflict — resolved, on this occasion, **for privacy**.
+
+**"Dispersão legislativa" as the meta-problem.** The **[[angola-digital-government-law]]** now in consultation ([[ima-angola]], from 6 May 2026) is framed explicitly around ending the ICT sector's legislative fragmentation since 1997, with the stated aim that "the digital law and the data-protection law move in step" — situating the DP revision inside a wider harmonisation push. See [[gov.legislate]], [[dpi.govtech]].
+
+The open question is capacity: an active-but-young APD now facing AI-era enforcement across a fast-thickening legal stack. See [[gov.protect]], [[gov.legislate]], [[tech.ai]], [[AGO]].
 
 ## Links
 
-Place: [[AGO]] · Concepts: [[gov.protect]] · [[gov.legislate]] · [[tech.ai]] · Region: [[XSA]] · Entities: [[apd-angola]] · [[angola-data-protection-law-22-11]] · [[angola-ai-bill]] · [[malabo-convention]]
+Place: [[AGO]] · Concepts: [[gov.protect]] · [[gov.legislate]] · [[tech.ai]] · Region: [[XSA]] · Entities: [[apd-angola]] · [[angola-data-protection-law-22-11]] · [[angola-ai-bill]] · [[angola-digital-government-law]] · [[malabo-convention]] · Related intersection: [[angola--infra-cybersec]]
 
 ## Sources
 
@@ -36,3 +42,7 @@ Place: [[AGO]] · Concepts: [[gov.protect]] · [[gov.legislate]] · [[tech.ai]] 
 - [[2024-08-10 Angola - Dados Pessoais e Ciber-seguranca (APD enforcement)]]
 - [[2025-10-08 Data protection and cybersecurity laws in Angola (CMS guide)]]
 - [[2025-12-29 Review of Angola's Proposed Law on Artificial Intelligence]]
+- [[2026-06-17-nova-lei-de-proteccao-de-dados-proximo-ano-legislativo]]
+- [[2026-04-13-an-aprova-generalidade-alteracao-lei-proteccao-de-dados]]
+- [[2026-06-25-parlamento-rejeita-proposta-proteccao-de-dados-pessoais]]
+- [[2026-05-06-consulta-publica-proposta-de-lei-do-governo-digital]]

@@ -307,9 +307,16 @@ Personal-data regimes across African jurisdictions — and the friction their
   [[car-data-protection-law-24-001]]) is comprehensive — tiered CEMAC/ECCAS transfers, resident DPO,
   fines to 5% of turnover — but the supervisory authority it mandates is **still not appointed** (per
   the [[data-protection-africa]] factsheet, Jan 2026). → [[caf--gov-protect]].
-- **[[AGO]] Angola — law *with* an authority.** Law 22/11 (2011, [[angola-data-protection-law-22-11]])
-  is enforced by an **active [[apd-angola]]** (sanctions issued 2024) — the opposite of CAR's dormant
-  regime; Malabo ratified; a draft AI bill + DP-law amendment now layer on top. → [[angola--gov-protect]].
+- **[[AGO]] Angola — law *with* an authority, now under revision.** Law 22/11 (2011,
+  [[angola-data-protection-law-22-11]]) is enforced by an **active [[apd-angola]]** (sanctions issued
+  2024) — the opposite of CAR's dormant regime; Malabo ratified. The government's **revision cleared
+  public consultation (announced 2026-06-17)** and heads to the Council of Ministers then National
+  Assembly next legislative year — adding a **DPO role**, stronger sanctions, **fines re-denominated
+  into Kwanza**, and AI provisions. Separately, a UNITA bill to **open electoral personal data**
+  passed committee 10–0–12 (2026-04-13) but was **rejected in plenary (2026-06-25)** on
+  constitutional-privacy grounds — a clean transparency-vs-privacy reversal. → [[angola--gov-protect]].
+  Sources: [[2026-06-17-nova-lei-de-proteccao-de-dados-proximo-ano-legislativo]],
+  [[2026-06-25-parlamento-rejeita-proposta-proteccao-de-dados-pessoais]].
 - **[[BWA]] Botswana — six years of a law that never took effect.** The 2018 Data Protection Act sat
   un-commenced (its date pushed back by ministerial orders) until the **[[botswana-data-protection-act-2024]]**
   (effective 14 Jan 2025) finally switched the regime on and empowered the Information & Data Protection
@@ -429,3 +436,5 @@ Personal-data regimes across African jurisdictions — and the friction their
 - [[2025-12-10 Chad Finalizes Digital Law to Align National Framework With Global Standards]]
 - [[2025-12-12 Personal data and digital rights in Togo - HAAC and IPDCP seal institutional cooperation accord]]
 - [[2023-12-21 ISR - WURI Phase 2 Seq 7 (P169594)]]
+- [[2026-06-17-nova-lei-de-proteccao-de-dados-proximo-ano-legislativo]]
+- [[2026-06-25-parlamento-rejeita-proposta-proteccao-de-dados-pessoais]]

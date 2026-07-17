@@ -3,7 +3,7 @@ type: concept
 title: Innovation ecosystem
 slug: tech.innovate
 places: [COG, CIV, BWA, BFA, BEN, BDI, AGO, GAB, XAF, GHA, UGA, NGA, KEN, ZAF, DZA]
-entities: [[st-digital-gabon], [samuel-nartey-george], [google], [google-for-startups-accelerator-africa], [mosip], [id4africa]]
+entities: [[st-digital-gabon], [samuel-nartey-george], [google], [google-for-startups-accelerator-africa], [mosip], [id4africa], [angola-startups-law], [kimbo-fund], [luanda-technology-park], [slb-africa-performance-center], [ifc], [african-development-bank]]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-12
@@ -68,9 +68,11 @@ economic activity — the layer beyond hardware.
   ([[2025-12-15 African AI Startups Should Publish Openly]]). See [[capacity.research]],
   [[data.open]], [[include.divides]].
 
+- **[[AGO]] Angola — a law and the first cheques, on a thin base (2025–26).** Angola passed a **[[angola-startups-law|Startups Law]]** (unanimous, March 2026): ~$3.5m revenue ceiling, no floor, provisional seal, **75% investor tax break** — the framework the **[[ifc|IFC]]** recommended after counting ~**125 startups with no exits** (2023) and **<2% venture-funded** (Launch Base Africa). Scaffolding: the **[[luanda-technology-park|Luanda Science & Technology Park]]** (AfDB $100m STDP, opened June 2026), the INAPEM–INFOSI **DIGITAL.AO** incubator, and rare private capital via **[[kimbo-fund|Kimbo Fund]]** (BFA AM; FSDEA-anchored, first PE to deploy — $1.2m into mobility startup Anda after 3-year diligence). Angola's actual AI capacity is landing in oil & gas (**[[slb-africa-performance-center|SLB's Luanda hub]]**, 2025). Sources: [[2026-03-23-angola-passes-landmark-start-up-law]], [[2026-06-29-angola-launches-luanda-technology-park]], [[2026-03-30-bfa-asset-management-kimbo-fund-angola-startups]], [[2025-03-18-angolan-agencies-join-forces-to-strengthen-nascent-startup-sector]].
+
 ## Places
 
-[[GAB]] · [[XAF]] · [[GHA]] · [[UGA]] · [[NGA]] · [[KEN]] · [[ZAF]]
+[[AGO]] · [[GAB]] · [[XAF]] · [[GHA]] · [[UGA]] · [[NGA]] · [[KEN]] · [[ZAF]]
 
 ## Related
 
@@ -89,3 +91,7 @@ economic activity — the layer beyond hardware.
 - [[2026-05-28 Why decentralized digital identity looks different in every country]]
 - [[2026-03-25 On Documenting African AI Knowledge What Becomes Possible]]
 - [[2025-12-15 African AI Startups Should Publish Openly]]
+- [[2026-03-23-angola-passes-landmark-start-up-law]]
+- [[2026-06-29-angola-launches-luanda-technology-park]]
+- [[2026-03-30-bfa-asset-management-kimbo-fund-angola-startups]]
+- [[2025-03-18-angolan-agencies-join-forces-to-strengthen-nascent-startup-sector]]

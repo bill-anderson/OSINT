@@ -4,50 +4,70 @@ title: Angola
 code: AGO
 parent: XSA
 place_kind: country
-topics: [infra.store, infra.connect, infra.capacity, infra.energy, dpi.pay, dpi.id, dpi.registry, dpi.govtech, dpi.exchange, gov.protect, gov.legislate, gov.policy, gov.regional, tech.ai, tech.innovate, capacity.training, include.access, include.divides, data.satellite, finance.new, finance.mou, geopol.china, geopol.india, geopol.gulf]
+topics: [infra.store, infra.connect, infra.capacity, infra.energy, infra.cybersec, dpi.pay, dpi.id, dpi.registry, dpi.govtech, dpi.exchange, dpi.mis, gov.protect, gov.legislate, gov.policy, gov.regional, gov.standards, tech.ai, tech.industry, tech.innovate, capacity.training, capacity.research, include.access, include.divides, digital.rural, data.satellite, data.statistics, finance.new, finance.mou, geopol.china, geopol.india, geopol.gulf, geopol.usa, geopol.eu]
 status: active
-last_reviewed: 2026-07-15
+last_reviewed: 2026-07-17
 ---
 
 # Angola (AGO)
 
-A **post-oil petrostate betting on digital sovereignty** — building a state cloud, one of the region's denser data-centre clusters, and an Aadhaar-style DPI, while ~55% of people are offline and rural electrification runs under 10%. Its defining pattern is a **three-way courtship** over whose stack runs the core (China's civil-registration system, India's $200m DPI credit, the UAE's G42), paired with an unusually **active data-protection authority** and a comprehensive legal build-out. The gap between ambition (national cloud, mandatory migration, AI bill) and base (156/193 on e-government, 138/139 on innovation) is the story.
+A **post-oil petrostate betting on digital sovereignty** — building a state cloud, one of the region's denser data-centre clusters, an Aadhaar-style DPI and its own Earth-observation satellite, while the base underneath stays thin: only **52.4% of the population hold a national ID card (Censo 2024)**, ~47% have reliable electricity (2020), and Angola ranks **156/193 on e-government (EGDI 0.4149, 2024)** and 138/139 on innovation (GII, 2025).
+
+The wiki has read Angola's stack as a **three-way courtship** (China / India / UAE). The 2026 evidence forces a wider map: a **US pole** (Cybastion's $170m cyber-agency build), a **European pole** (Airbus/Société Générale's ANGEO-1 satellite; Portugal's ANACOM shaping the *rules*), and a **Brazilian pole** (Serpro inside the Ministry of Finance) now sit alongside the original three. Angola is also no longer only a recipient: through ANGOSAT-2 it has become a regional space/DPI **exporter** to Namibia, Mozambique and Nigeria. The defining tension is unchanged but sharper — a state hedging across an ever-wider field of suppliers while **making the BI the sole legal ID for a population nearly half of which does not hold one**.
 
 ## Recent developments
 
-- **2026-06-15** — Angola's **sovereign national data centre** (Luanda; ~$89m, hosted by **[[infosi]]**, inaugurated end-April 2026) held up as a regional model — Namibia's ICT minister **[[emma-theofelus]]** cited it at ANGOTIC. [[angola--infra-store]]. Source: [[2026-06-15 Namibia encouraged by Angola on datacentre establishment]].
-- **2026-06-15** — Connectivity deals with **[[telecom-namibia]]**: **GGPEN** (Angosat-2 trial) and Angola Telecom + SATCAB (integrating **SARSSy** with Google's **Equiano** via Swakopmund; 1 Tbps to Angola Telecom). Deal: [[telecom-namibia-angola-deals]]. Source: [[2026-06-15 Telecom Namibia signs more satellite, subsea connectivity deals with Angola firms]].
-- **2026-02-03** — **KWiK** instant payments (EMIS) hit 35m+ transactions / 590bn kwanzas in 2025 (>100% growth). [[angola--dpi-pay]]. Source: [[2026-02-03 Angola - Operations With Payment App Kwik Grow Over 100 Percent]].
-- **2025-12-29** — Analyst review of Angola's **draft AI law** ([[angola-ai-bill]]) + a concurrent DP-law amendment. [[angola--gov-protect]]. Source: [[2025-12-29 Review of Angola's Proposed Law on Artificial Intelligence]].
-- **2025-11-17** — Angola begins **issuing ID cards to newborns** ('Born with a birth certificate', MoH + UNICEF, Zaire Province). [[angola--dpi-id]]. Source: [[2025-11-17 Angola begins issuance of ID cards to newborns]].
-- **2025-11-14** — **National data centre ~75% complete**, operational H1 2026; unified government cloud; mandatory 30-day service migration. [[angola--infra-store]]. Source: [[2025-11-14 Angola Nears Completion of National Data Center, Set for 2026 Launch]].
-- **2025-10-02** — **[[raxio-group]]** opens Angola's largest and only Tier III DC (Cacuaco, $30m). [[angola--infra-store]]. Source: [[2025-10-02 Raxio Opens Angola's Largest Data Centre in Landmark 30 Million Expansion]].
-- **2025-10** — **[[agt-angola]]** mandatory **e-invoicing** phasing in (Decree 71/25; from 1 Jan 2026). [[angola--dpi-pay]]. Source: [[2025-10-02 Angola - Mandatory e-invoicing implementation postponed]].
-- **2025-09-10** — First stone of the **national cloud** (INFOSI); Huawei ICT skills (5,000→10,000 by 2027). Source: [[2025-09-10 Angola advances technological development for digital transformation]].
-- **2025-05** — **India $200m DPI credit line** (Lourenço–Modi); Angola to model digital ID on Aadhaar. [[angola--dpi-id]]. Source: [[2025-05-07 India helps Angola with DPI, digital ID as part of 200M credit line]].
-- **2024-08** — **[[apd-angola]]** data-protection authority issues **sanctions** on several companies. [[angola--gov-protect]]. Source: [[2024-08-10 Angola - Dados Pessoais e Ciber-seguranca (APD enforcement)]].
-- **2024-06-27** — **PADA** ($300m WB, via **[[ima-angola]]**) under the regional **[[idea-mpa]]** programme; interoperability the priority. Source: [[2024-06-27 Inclusive Digitalization in Eastern and Southern Africa Program - Angola]].
-- **2024-12-05** — **ICT White Paper 2023-2027** ([[livro-branco-tic-angola-2023-2027]]) approved. Source: [[2025-02-18 White Paper on ICT 2023-2027 - Strategic Vision for ICTs in Angola]].
+- **2026-07-16** — **BNA completes migration to ISO 20022** (as of 2026-07-10) across EMIS, BODIVA and SPTR. [[angola--dpi-pay]]. Source: [[2026-07-16-bna-conclui-migracao-iso-20022]].
+- **2026-07-08** — The **cybersecurity bill stalls**: parliament unanimously suspends the committee discussion over drafting "inconsistencies" — the law is stuck as the window closes, against a parallel executive Cybersecurity Strategy track. [[angola--infra-cybersec]]. Source: [[2026-07-08-deputados-suspendem-discussao-lei-da-ciberseguranca]].
+- **2026-07-07** — **[[unitel]] opens a 15% IPO** (~294bn kwanza / ~$320m; offer 6–24 July), tracing to the 2022 seizure of Isabel dos Santos's stake. Source: [[2026-07-07-unitel-opens-angola-share-offering]].
+- **2026-06-25** — Parliament **rejects in plenary** the UNITA bill to open electoral data — a clean transparency-vs-privacy reversal ten weeks after it cleared committee. [[angola--gov-protect]]. Source: [[2026-06-25-parlamento-rejeita-proposta-proteccao-de-dados-pessoais]].
+- **2026-06-11→23** — **Regional space/ICT diplomacy at ANGOTIC 2026**: ministerial MoUs with **Namibia** and **Nigeria** (NASRDA–GGPEN), and days later a space & digital MoU with **Mozambique** (Boane earth station live on ANGOSAT-2). See Regional cooperation below.
+- **2026-04-29** — Council-of-Ministers bill makes the **BI the sole valid ID** for banking, telecoms, school enrolment, property and contracts (QR + barcode + microchip). [[angola--dpi-id]]. Source: [[2026-04-29-bi-documento-unico-valido-identificacao]].
+- **2026-04-28** — President **[[joao-lourenco]] inaugurates the ~$89m national data centre** (Camama, Luanda; 6,225 m², Tier III, 208 racks/1,040 kW), framed as digital sovereignty; migration to the Nuvem Nacional to be progressive and mandatory. [[angola--infra-store]]. Source: [[2026-04-28-pr-inaugura-novo-centro-de-dados-do-governo]].
+- **2026-03-30** — **i.Lab** public-finance innovation hub launched with **Serpro (Brazil)** at the table — "the State needs to own its own digital destiny." [[angola--dpi-govtech]]. Source: [[2026-03-30-angola-launches-i-lab-public-finance-techafricanews]].
+- **2026-03-16** — **ANGEO-1** kicks off: **Airbus** to build Angola's first Earth-observation satellite (€225m Société Générale financing signed Jan 2025). [[angola--data-satellite]]. Source: [[2026-03-16-arranque-do-projecto-angeo-1-airbus]].
+- **2026-02-26** — First forensic confirmation that **SINSE acquired Predator spyware** (Amnesty Security Lab), used to spy on journalist Teixeira Cândido — the surveillance underside of the sovereignty narrative. [[angola--infra-cybersec]]. Source: [[2026-02-26-sinse-adquiriu-spyware-predator-para-espiar-jornalista]].
+- **2025-11-26** — **Censo 2024 definitive results:** only **52.4% hold a BI** (63% urban vs 30.9% rural); 14.9m undocumented — the hard exclusion baseline under every ID claim. [[angola--dpi-id]]. Source: [[2025-11-26-quase-metade-dos-angolanos-sem-bilhete-de-identidade]].
+- **2025-06-25** — **[[cybastion]]–Angola Telecom $170m** deal (US–Africa Business Summit, Luanda) to build a national cybersecurity agency — the US pole. [[angola--infra-cybersec]]. Source: [[2025-06-25-cybastion-angola-telecom-170m-digital-sovereignty]].
+- **2025-05** — **India $200m DPI credit line** (Lourenço–Modi); digital ID modelled on Aadhaar. [[angola--dpi-id]]. Source: [[2025-05-07 India helps Angola with DPI, digital ID as part of 200M credit line]].
+- **2025-10-02** — **[[raxio-group]]** opens Angola's only Tier III commercial DC (Cacuaco, $30m). [[angola--infra-store]]. Source: [[2025-10-02 Raxio Opens Angola's Largest Data Centre in Landmark 30 Million Expansion]].
 
 ## Active topics
 
-- **Data-centre estate & sovereign cloud** → **[[angola--infra-store]]**. [[infosi]] national DC/cloud (30-day migration mandate); commercial Tier III/IV build ([[raxio-group]], [[paratus]], [[africell]], [[angola-cables]]/AngoNAP, [[unitel]]).
-- **Digital payments & fintech** → **[[angola--dpi-pay]]**. [[emis-angola]]/Multicaixa + fast-scaling **KWiK**; [[africell]] **Afrimoney**; [[kwenda]] digital G2P; [[agt-angola]] e-invoicing; SADC settlement.
-- **Digital identity** → **[[angola--dpi-id]]**. Colonial-era base (WB ID4D); the **three-way** China/India/UAE stack contest; newborn-ID drive; [[ima-angola]] interoperability.
-- **Data protection & AI law** → **[[angola--gov-protect]]**. **[[angola-data-protection-law-22-11]]** (2011) with an **active [[apd-angola]]**; Malabo ratified; **[[angola-ai-bill]]** + DP amendment.
-- **Connectivity** ([[infra.connect]]) — mobile-led (44.8% internet penetration, early 2023); [[africell]] 5G, [[unitel]] incumbent, [[angola-cables]]/SACS Atlantic corridor, AngoSat-II; Telecom Namibia SARSSy/Equiano integration.
-- **Energy** ([[infra.energy]]) — the binding constraint: ~47% electrification (2020), **<10% rural**; only 47% of Angolans enjoy reliable supply. Source: [[2023-07-04 AD664 - Lack of grid access plagues most rural residents in Angola]].
-- **GovTech / policy** ([[dpi.govtech]], [[gov.policy]]) — [[livro-branco-tic-angola-2023-2027]] (LBTIC) umbrella; PADA/[[idea-mpa]]; e-government base low (EGDI 156/193). Innovation weak (GII 138/139, 2025).
+- **Digital identity & the exclusion baseline** → **[[angola--dpi-id]]**, **[[angola--dpi-registry]]**. The BI is being made the sole legal ID even as **only 52.4% hold one (2025-11)**; a 15m-BI-by-2027 target drives provincial BI printing (all 21 provinces, 2026-07), BI-at-birth ("Nascer com Registo," EU/UNICEF), a proof-of-life BDCM registry (~$275m supplementary budget) and the 2027 electoral roll. Aadhaar-modelled ([[angola-india-dpi-credit-line]]); [[ima-angola]] interoperability.
+- **Data-centre estate & sovereign cloud** → **[[angola--infra-store]]**. [[infosi]]'s ~$89m Camama national DC + Nuvem Nacional (30-day migration mandate); commercial Tier III/IV via [[raxio-group]], [[angola-cables]]/AngoNAP, [[unitel]] — "repatriation" of citizens' documents from foreign custody the stated frame.
+- **Connectivity & satellite** → **[[angola--infra-connect]]**, **[[angola--data-satellite]]**. ~75% mobile penetration, ~17.5m broadband subscribers, ~22,000 km national fibre (2026-04); [[unitel]]'s $43m 2Africa branch; [[angola-cables]] Atlantic corridor; **ANGOSAT-2** opened to commercial ISPs and **ANGEO-1** ([[angeo-1]], Airbus) EO satellite; Eutelsat the first licensed LEO operator.
+- **Digital payments & fintech** → **[[angola--dpi-pay]]**. [[emis-angola]]/Multicaixa + fast-scaling **KWiK** (35m+ transfers, 590bn Kz in 2025); ISO 20022 complete (2026-07); Kwanza joining SADC-RTGS (H2 2026); financial inclusion **51.7% (Q1 2026)** vs a 65%/2027 target.
+- **Data protection, cybersecurity & surveillance** → **[[angola--gov-protect]]**, **[[angola--infra-cybersec]]**. An **active [[apd-angola]]** and a Lei 22/11 revision through consultation; but the cybersecurity *bill* stalled in parliament (2026-07) while an executive decree track advances — and **SINSE's confirmed Predator use** and a "fake-news" law (up to 10 years) mark the authoritarian edge. [[angola-ai-bill]] + DP amendment pending.
+- **GovTech, e-gov & statistics** → **[[angola--dpi-govtech]]**. Governo Digital 2027 (218 projects); the $150m IMA/TIS "Digitais Públicas" DPI build (interoperability, PKI e-signatures); i.Lab with Serpro; INE's Censo 2024 open portal; ENDE 2026–2032 statistics strategy. Base low (**EGDI 156/193, 2024**).
+- **AI & innovation** ([[tech.ai]], [[tech.innovate]]) — UNESCO RAM puts Angola **83% ready** for ethical AI (2026-06), feeding a National AI Strategy; a landmark **Startups Law** (75% investor tax relief) passed unanimously (2026-03); Luanda technology park (AfDB $100m). Innovation base weak (**GII 138/139, 2025**).
+- **Energy** ([[infra.energy]]) — the binding constraint: ~47% electrification, **<10% rural** (2020) — the physical floor under every digital target. Source: [[2023-07-04 AD664 - Lack of grid access plagues most rural residents in Angola]].
+
+## Regional cooperation — Angola as exporter, not just recipient
+
+The 2026 batch establishes Angola playing an **outbound** role, its sovereign infrastructure recast as a diplomatic asset, coordinated by [[ministerio-das-telecomunicacoes-tecnologias-de-informacao-e-comunicacao-social-angola|MINTTICS]] under [[mario-oliveira]].
+
+- **Kenya** — a **[[kenya-angola-ict-mou]]** signed on the sidelines of the **Luanda Financing Summit** (Oct 2025), with [[african-development-bank]], [[world-bank]] and AUDA-NEPAD present; covers satellite networks, rural connectivity, cybersecurity and digital literacy, plus new Nairobi–Luanda flights — an East–Southern Africa "digital corridor."
+- **Namibia** — a ministerial **ICT & media MoU** at **ANGOTIC 2026** (Theofelus × Oliveira), riding a Telecom Namibia–GGPEN [[angosat-2]] pilot and the SARSSy/Equiano subsea layer ([[telecom-namibia-angola-deals]]); and Namibia studying the **[[infosi]] Camama data centre as a model** — the sovereignty play acquiring regional prestige.
+- **Mozambique** — space & digital **[[angola-mozambique-space-digital-mou|MoUs]]** (Maputo, Jun 2026), with the **Boane Earth Station already live on ANGOSAT-2** — Angola exporting space infrastructure to a fellow Lusophone state.
+- **Nigeria** — a **[[nigeria-angola-space-cooperation|NASRDA–GGPEN]]** space-science agreement at ANGOTIC, witnessed by the Portuguese, South African (SANSA) and African space agencies.
+- **The regulatory counter-current** — Portugal's **[[anacom-angola-mission|ANACOM]]**, with the EU Delegation, ran an institutional-strengthening mission training **INACOM** in ICT policy and regulation (2026-03). Where Angola courts diverse capital for *infrastructure*, the **rulemaking layer is being socialised toward a European template** — the ex-metropole shaping the rules (`colonialism`).
+
+See the continental picture at **[[gov.regional]]**.
+
+## Reading: the sovereignty contest, re-mapped
+
+Angola's own framing — supplied here largely by **Angop, the state agency, whose voice is the government's** — is one of steady advance toward digital sovereignty: repatriated data, a national cloud, a homegrown satellite, a regional model. The adversarial reporting (**Novo Jornal**) supplies the counter-evidence the official account omits: four months of ID-system outages across Luanda, procurement opacity, a minister conceding fraudulent BI issuance "with human interference," and the SINSE–Predator surveillance case. Read together, the pattern is a state **buying sovereignty from everyone at once** — Chinese, Indian, Emirati, American, European and Brazilian suppliers each inside a different layer of the stack — while the enabling base (documented population, electricity, e-government maturity) remains the real constraint. The most consequential single fact in the batch is the collision between ambition and base: **the BI becomes the sole key to banking, schooling and property at the moment the census shows nearly half the country cannot produce one.**
 
 ## Entities
 
-**Companies:** [[africell]] · [[angola-cables]] · [[emis-angola]] · [[unitel]] · [[raxio-group]] · [[paratus]] · [[telecom-namibia]]
-**Government bodies:** [[infosi]] · [[ima-angola]] · [[agt-angola]] · [[apd-angola]]
-**Initiatives / deals:** [[kwenda]] · [[angola-india-dpi-credit-line]] · [[digital-angola-presight-mou]] · [[telecom-namibia-angola-deals]] · [[idea-mpa]]
+**Companies:** [[africell]] · [[angola-cables]] · [[emis-angola]] · [[unitel]] · [[raxio-group]] · [[paratus]] · [[telecom-namibia]] · [[cybastion]] · [[airbus]]
+**Government bodies:** [[ministerio-das-telecomunicacoes-tecnologias-de-informacao-e-comunicacao-social-angola]] (MINTTICS) · [[infosi]] · [[ima-angola]] · [[agt-angola]] · [[apd-angola]] · [[ggpen]]
+**People:** [[joao-lourenco]] (President) · [[mario-oliveira]] (ICT minister) · [[emma-theofelus]] (Namibia)
+**Initiatives / deals:** [[kenya-angola-ict-mou]] · [[telecom-namibia-angola-deals]] · [[angola-mozambique-space-digital-mou]] · [[nigeria-angola-space-cooperation]] · [[anacom-angola-mission]] · [[kwenda]] · [[angola-india-dpi-credit-line]] · [[digital-angola-presight-mou]] · [[idea-mpa]] · [[angeo-1]] · [[angosat-2]]
 **Instruments:** [[angola-data-protection-law-22-11]] · [[livro-branco-tic-angola-2023-2027]] · [[angola-ai-bill]] · [[malabo-convention]]
-**People:** [[emma-theofelus]] (Namibia, via DC-model link)
-Mentioned, not hubbed: GGPEN, Angola Telecom, SATCAB, MSTelcom, Movicel, FAS, MINTTICS, Presight/G42, CEIEC.
 
 ## Notes
 
 - Parent region: [[XSA]] · continental: [[XAF]]. Phase-1 country of the regional **[[idea-mpa]]** (IDEA) programme (with DRC, Malawi; COMESA coordinating).
+- **Source weighting:** [[2025-11-26-quase-metade-dos-angolanos-sem-bilhete-de-identidade|Novo Jornal]] supplies adversarial reporting; Angop framing is the government's view. A **census figure to watch:** Luanda reported at 7,961,235 (2025-11) vs "8.6m / 24.1%" (2026-03), both citing Censo 2024.

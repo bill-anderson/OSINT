@@ -4414,3 +4414,79 @@ robust. For rolling mode, prefer flat agents over orchestrator→worker fan-out.
 
 **Remaining.** 38 countries plus the pan-African pass are `pending`; the pilot trio NGA/SEN/TCD still need
 completion passes.
+
+---
+
+## 2026-07-17 — Batch ingest: AGO (Angola) — the first sweep-sourced ingest
+
+**Scale.** The 124-item AGO sweep batch (promoted from `new-queue/AGO/` to `new/` by the curator) drained
+to empty. **122 source pages admitted** to `raw/` (2 pruned as exact relevant-duplicates, below), against
+41 AGO sources already held. **55 new entity pages** + **14 existing entities updated**; **9 Angola
+intersections** (5 created: `angola--dpi-registry`, `angola--infra-connect`, `angola--data-satellite`,
+`angola--infra-cybersec`, `angola--dpi-govtech`; 4 updated: `angola--dpi-id`, `angola--infra-store`,
+`angola--gov-protect`, `angola--dpi-pay`); ~15 concept pages touched; the **AGO hub rebuilt 730 → 1,424
+words**; three faceted indexes updated. Synthesised by a five-agent fan-out on disjoint clusters
+(identity/registry, infra/cables/satellite, law/cyber/AI/statistics, payments/e-gov/startups,
+hub+regional) with disjoint entity ownership; the orchestrator did dedup, contradictions, gaps, indexes,
+the slug reconciliation, and the queue move.
+
+**The analytical finding.** The batch forces a reframing the hub now carries: Angola's DPI sovereignty
+contest is **no longer three-way (China/India/UAE)**. The 2026 evidence adds a **US pole** (Cybastion's
+$170m building the national cybersecurity agency), a **European pole** (Airbus/Société Générale's €225m
+ANGEO-1 satellite; Portugal's ANACOM shaping the *rules* under an EU mission), and a **Brazilian pole**
+(Serpro inside the Ministry of Finance's i.Lab). The defining tension is the collision between that
+ever-widening supplier field and the base: **the Council of Ministers is making the Bilhete de Identidade
+the sole legal ID for banking, schooling, property and contracts at the moment the 2024 census shows only
+52.4% of Angolans hold one** (63% urban vs 30.9% rural; 14.9m undocumented). Angop (the state agency)
+supplies the advance narrative; Novo Jornal supplies the counter-evidence the official account omits —
+four months of ID-system outages across Luanda, procurement opacity, a minister conceding fraudulent BI
+issuance "com interferência humana," and the SINSE–Predator surveillance case (first forensic confirmation
+of Predator in Angola, Amnesty). Weighted accordingly throughout.
+
+**Dedup (lint #7).** The sweep deliberately kept same-event twins across its two halves for adjudication
+here with full text. Assessed by the cluster agents: **almost all are complementary, not exact** — Novo
+Jornal consistently adds figures/framing Angop omits, and journal twins add distinct data (the data-centre
+event has five accounts, each with unique payload — specs / currency / repatriation framing / broadband
+coverage). **Two exact relevant-duplicates pruned**, both with citations already rewired off them:
+`2026-03-20-angola-approves-startups-bill-techafricanews` (generic re-report of the general approval; kept
+the richer, earlier Novo Jornal `2026-03-19`) and `2026-06-12-namibia-and-angola-strengthen-digital-cooperation-telecomreview`
+(exact twin of the earlier TechAfrica `2026-06-11` ministerial-MoU account; earliest-wins per the ladder).
+
+**Slug reconciliation (tier-1 mechanical).** The sweep-staged sources carry best-effort **Portuguese**
+entity slugs in frontmatter, which diverge from the wiki's **English-canonical** convention; two cluster
+agents created canonical English pages while two matched the Portuguese source slugs, leaving dead
+source→entity links. **63 link instances across 44 sources remapped** to canonical slugs (only where the
+target page exists), e.g. `banco-nacional-de-angola → bna-angola`, `gabinete-de-gestao-do-programa-espacial-nacional-angola → ggpen`,
+`instituto-de-modernizacao-administrativa-angola → ima-angola`, `readiness-assessment-methodology-unesco → unesco-ram-angola`.
+**118 residual unresolved source→entity slugs remain** — overwhelmingly single-reference Angolan officials
+and bodies that legitimately have no page (left to the periodic dead-link lint per anti-fragmentation), plus
+the high-referrer create-candidates now filed as **GAP-AGO-001**.
+
+**Contradictions filed (3).** `angola-cybersecurity-strategy-vs-bill` (a draft Presidential-Decree strategy
+vs the parliamentary bill — both stand up a National Cybersecurity Council + Centro, the bill **stalled
+2026-07-08**; decree-track vs legislative-track, unresolved); `angola-luanda-population-censo-2024` (the same
+paper gives Luanda as 7,961,235 and "mais de 8,6 milhões," both citing Censo 2024 — neither promoted onto a
+synthesis page); `angola-national-fibre-length-2025-2026` (14,000 → 22,000 → 28,000 km across seven months —
+genuine growth, different measures, or error; written as a dated trajectory, no bare current figure).
+
+**Gaps filed (2).** **GAP-AGO-001** — high-referrer entities not yet paged (the Telecom minister
+`mario-oliveira` (12 refs), `marcy-lopes` (10), `assembleia-nacional-angola`, `unita`/`mpla`, the ANGOTIC
+conference, the census, the BI-universalisation plan): create the unambiguous ones, confirm the persons
+against a primary. **GAP-AGO-002** — a **SITA namespace collision**: the batch's aviation-IT vendor SITA
+(Société Internationale de Télécommunications Aéronautiques) is not the held `sita` (South Africa's State IT
+Agency); the ingest created `sita-angola` and avoided miscitation — recommend a distinct `sita-aero` vendor
+entity.
+
+**Accuracy guard.** The sweep manifest called the $89m Camama data centre "UAE-origin," but the infra agent
+found the primary article body does **not** substantiate a UAE financing link — held on the data-centre
+entity and `angola--infra-store` as an **attributed, unconfirmed** provenance point (TechAfrica's
+`geopol.gulf` framing), never as fact. The genuine UAE tie in the ID stack is the separate G42/Presight MoU
+(2021), which is correctly retained.
+
+**Page hygiene.** The rebuilt hub is a bounded synthesis (1,424 w, well under the ~2,500 classify threshold);
+detail pushed into the nine intersections (549–871 w each) and cited. No page crossed the refactor line.
+
+**Flags.** First ingest to run entirely from sweep-staged material — the sweep's pre-tagged entities and
+pre-clustered manifest made the synthesis fan-out clean, but exposed the Portuguese/English slug-convention
+mismatch as a standing reconciliation cost for every future sweep-sourced ingest (worth a normalisation step
+at stage or ingest — noted, not actioned as a schema change).

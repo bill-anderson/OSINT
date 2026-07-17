@@ -93,7 +93,6 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 | Viamo | XAF, ZMB | tech.ai, include.access, include.divides | [[viamo]] |
 | X Corp (X / Twitter) | NGA, XGL | tech.ai, gov.legislate | [[x-corp]] |
 | Waka | KEN, XAF | dpi.pay, geopol.china | [[waka]] |
-
 | Affinity Africa | GHA, XAF | dpi.pay, include.access, finance.new | [[affinity-africa]] |
 | Al Madina (CAR national ID card printer) | CAF | dpi.id, gov.standards | [[al-madina]] |
 | GenKey (Dutch biometric voter-registration vendor) | CAF, XAF | dpi.id, dpi.registry | [[genkey]] |
@@ -175,6 +174,15 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 | Teraco | ZAF | infra.store, infra.capacity, infra.energy, infra.connect, finance.new, tech.ai | [[teraco]] |
 | Vantage Data Centers | ZAF | infra.store, infra.capacity, finance.new, infra.energy | [[vantage]] |
 | Victoria Falls Stock Exchange (VFEX) | ZWE | finance.new, tech.industry | [[victoria-falls-stock-exchange]] |
+| Airbus (Defence and Space) | XGL, AGO | data.satellite, tech.industry | [[airbus]] |
+| Angola Telecom | AGO | infra.connect, infra.capacity | [[angola-telecom]] |
+| Megaport | XGL, AGO | infra.connect, infra.store | [[megaport]] |
+| Mercury (Angola) | AGO | infra.connect, data.satellite | [[mercury-telecom-angola]] |
+| Paypay (Paypay Africa) | AGO | dpi.pay, include.access | [[paypay-angola]] |
+| Serpro (Brazil) | XGL, AGO | dpi.govtech, gov.standards | [[serpro]] |
+| TIS Tech Angola | AGO | dpi.exchange, dpi.id, dpi.govtech, infra.cybersec | [[tis-angola]] |
+| Unitel Money (USPM) | AGO | dpi.pay, include.access | [[unitel-money]] |
+| Uniti Wholesale (Uniti Group) | XGL, AGO | infra.connect, infra.store | [[uniti-fiber]] |
 
 ## Organisations
 
@@ -266,7 +274,6 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 | Consumer Federation of Kenya (COFEK) | KEN | gov.protect, geopol.usa | [[consumer-federation-of-kenya]] |
 | Tech Hive Advisory (Africa privacy/data-protection advisory; DP roundup publisher) | XAF, NGA, XGL | gov.protect, gov.legislate, gov.policy | [[tech-hive-advisory]] |
 | Code for Africa (civic-tech / open-data / OSINT network) | XAF, XGL | gov.protect, data.open, capacity.literacy, tech.ai | [[code-for-africa]] |
-
 | Future of Privacy Forum (FPF) | XGL, XAF | gov.protect, gov.legislate, tech.ai | [[future-of-privacy-forum]] |
 | Unwanted Witness | UGA, XAF | gov.protect, dpi.id, infra.cybersec | [[unwanted-witness]] |
 | Media Rights Agenda (MRA) | NGA, XAF | gov.protect, gov.legislate | [[media-rights-agenda]] |
@@ -424,7 +431,6 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 | Independent National Electoral Commission (INEC) | NGA | dpi.registry, gov.protect, dpi.id | [[inec]] |
 | Kenya School of Government (KSG) | KEN | capacity.training, tech.ai, infra.cybersec, dpi.govtech | [[kenya-school-of-government]] |
 | National Bank of Rwanda (BNR) | RWA | dpi.pay, gov.legislate, gov.policy | [[national-bank-of-rwanda]] |
-
 | National Institute of Statistics of Rwanda (NISR) | RWA | data.statistics, dpi.exchange, data.open | [[nisr]] |
 | Information Regulator (South Africa) | ZAF | gov.protect, gov.legislate | [[information-regulator-south-africa]] |
 | Personal Data Protection Office (PDPO, Uganda) | UGA | gov.protect, gov.legislate | [[personal-data-protection-office-uganda]] |
@@ -577,6 +583,16 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 | South African Social Security Agency (SASSA) | ZAF | dpi.pay, dpi.id, include.access, include.divides, gov.protect, gov.policy, capacity.literacy | [[sassa]] |
 | Zimbabwe Deeds Registry | ZWE | dpi.registry, gov.legislate, dpi.govtech, gov.standards, infra.cybersec | [[zimbabwe-deeds-registry]] |
 | Zimbabwe Revenue Authority (ZIMRA) | ZWE | dpi.govtech, dpi.registry, dpi.id, dpi.pay, dpi.exchange | [[zimra]] |
+| Balcão Único de Atendimento ao Público (BUAP) — Angola | AGO | dpi.govtech, dpi.registry, digital.localgov, include.access | [[balcao-unico-de-atendimento-ao-publico-angola]] |
+| BNA (Banco Nacional de Angola) | AGO | dpi.pay, gov.regional, gov.standards, gov.policy | [[bna-angola]] |
+| Centro Nacional de Cibersegurança (Angola) | AGO | infra.cybersec | [[centro-nacional-de-ciberseguranca-angola]] |
+| GGPEN — Gabinete de Gestão do Programa Espacial Nacional | AGO | data.satellite, infra.connect, tech.ai | [[ggpen]] |
+| IGCA / land-and-property registry platform — Angola | AGO | dpi.registry, dpi.exchange, dpi.govtech, include.access | [[igca-angola]] |
+| INE (Instituto Nacional de Estatística, Angola) | AGO | data.statistics, data.open | [[ine-angola]] |
+| Ministério da Administração do Território (MAT) — Angola | AGO | dpi.registry, digital.localgov, dpi.id, finance.new | [[ministerio-da-administracao-do-territorio-angola]] |
+| Ministério da Justiça e dos Direitos Humanos (MINJUSDH) — Angola | AGO | dpi.id, dpi.registry, gov.legislate, include.access | [[ministerio-da-justica-e-dos-direitos-humanos-angola]] |
+| MINTTICS (Ministério das Telecomunicações, Tecnologias de Informação e Comunicação Social) | AGO | gov.policy, gov.regional, infra.connect, infra.store, dpi.govtech, data.satellite | [[ministerio-das-telecomunicacoes-tecnologias-de-informacao-e-comunicacao-social-angola]] |
+| SINSE (Serviço de Inteligência e Segurança de Estado) | AGO | infra.cybersec, gov.protect | [[sinse-angola]] |
 
 ## Initiatives / programmes
 
@@ -689,7 +705,6 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 | eKash (Rwanda instant payment system) | RWA | dpi.pay, include.access | [[ekash]] |
 | CAIGA (Continental Africa Internet Governance Architecture) | XAF | gov.regional, infra.connect, gov.policy | [[caiga]] |
 | Africa Declaration on Artificial Intelligence (Kigali) | XAF, RWA | tech.ai, gov.policy, gov.regional, finance.new | [[africa-ai-declaration]] |
-
 | Project Pangolin (Zimbabwe National AI & Data Platform) | ZWE | tech.ai, infra.store, gov.protect | [[project-pangolin]] |
 | Konza Technopolis (Kenya) | KEN | infra.store, dpi.govtech, geopol.china | [[konza-technopolis]] |
 | Mobile ID (Djibouti) | DJI | dpi.id, dpi.exchange, gov.protect | [[mobile-id-djibouti]] |
@@ -777,6 +792,24 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 | Safe City Project (Zimbabwe) | ZWE | tech.ai, dpi.govtech, infra.cybersec, digital.localgov, gov.protect | [[safe-city-project-zimbabwe]] |
 | SmartCare Pro | ZMB | dpi.mis, dpi.id, dpi.exchange, digital.rural, include.access | [[smartcare-pro]] |
 | Zambia Integrated Land Administration System (ZILAS) | ZMB | dpi.registry, dpi.govtech, dpi.exchange, dpi.pay, digital.localgov | [[zilas]] |
+| ANACOM–INACOM regulatory cooperation mission (2026) | AGO, XSA | gov.legislate, gov.standards, capacity.training, geopol.eu | [[anacom-angola-mission]] |
+| ANGEO-1 (Earth-observation satellite) | AGO | data.satellite, tech.industry, finance.new | [[angeo-1]] |
+| Angola National AI Strategy (Estratégia Nacional de Inteligência Artificial) | AGO | tech.ai, gov.policy | [[angola-national-ai-strategy]] |
+| AngoREN (National Research and Education Network) | AGO | capacity.research, infra.connect, gov.policy | [[angoren]] |
+| ANGOSAT-2 | AGO | data.satellite, infra.connect, include.divides | [[angosat-2]] |
+| Conecta Angola | AGO | infra.connect, data.satellite, include.divides, digital.rural | [[conecta-angola]] |
+| Data Center e Cloud do Governo (Camama national data centre) | AGO | infra.store, dpi.govtech, gov.policy | [[data-center-e-cloud-do-governo-angola]] |
+| i.Lab — Innovation Laboratory for Public Finance (Angola) | AGO | dpi.govtech, tech.innovate, gov.standards | [[i-lab-angola]] |
+| Kimbo Fund (BFA Asset Management) | AGO | finance.new, tech.innovate | [[kimbo-fund]] |
+| KWiK (Angola instant-payment system) | AGO | dpi.pay, include.access, dpi.exchange | [[kwik-angola]] |
+| Luanda Science and Technology Park | AGO | tech.innovate, capacity.research, capacity.training, finance.new | [[luanda-technology-park]] |
+| Nascer com Registo — Angola | AGO | dpi.registry, dpi.id, dpi.mis, include.access, geopol.eu | [[nascer-com-registo-angola]] |
+| Nuvem Nacional de Angola (Government Cloud) | AGO | infra.store, dpi.govtech, gov.policy | [[nuvem-nacional-de-angola]] |
+| Projecto Njila — Angola | AGO | dpi.registry, dpi.id, digital.localgov, digital.rural, finance.new | [[projecto-njila-angola]] |
+| ReDIV (Angola digital immunisation registry) | AGO | dpi.mis, dpi.registry, include.access | [[rediv-angola]] |
+| Registo Eleitoral Oficioso — Angola | AGO | dpi.registry, dpi.id, include.access | [[registo-eleitoral-oficioso-angola]] |
+| SARSSy (Southern African Regional Submarine System) | AGO, NAM, XSA | infra.connect, gov.regional, finance.mou | [[sarssy]] |
+| SLB Africa Performance Center (Luanda) | AGO | tech.ai, tech.industry, capacity.training, geopol.usa | [[slb-africa-performance-center]] |
 
 ## Deals
 
@@ -852,6 +885,13 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 | Yas / AXIAN Telecom — Wananchi Group acquisition | UGA, KEN | finance.new, infra.connect, tech.industry, gov.regional | [[axian-wananchi-acquisition]] |
 | UXP Tunisia (national interoperability platform) | TUN | dpi.exchange, dpi.govtech, gov.standards, infra.cybersec, dpi.id, geopol.eu, finance.new | [[uxp-tunisia]] |
 | Zambia Refugee and Host Communities Project (ZRHCP) | ZMB | finance.new, dpi.id, dpi.registry, include.access, include.divides, infra.connect | [[zrhcp]] |
+| Angola–France satellite financing (Société Générale €225m) | AGO | finance.new, data.satellite, geopol.eu | [[angola-france-satellite-financing]] |
+| Angola–Mozambique space & digital cooperation MoUs (2026) | AGO, MOZ, XSA | gov.regional, finance.mou, data.satellite, infra.connect | [[angola-mozambique-space-digital-mou]] |
+| Angola–Huawei digital-health MoU | AGO | dpi.mis, geopol.china, tech.ai, capacity.training, finance.mou | [[huawei-angola-health-mou]] |
+| Kenya–Angola ICT Cooperation MoU (2025) | AGO, KEN, XSA, XEA | gov.regional, finance.mou, infra.connect, infra.cybersec, capacity.literacy, digital.rural | [[kenya-angola-ict-mou]] |
+| Nigeria–Angola space cooperation agreement (2026) | AGO, NGA, XAF | gov.regional, finance.mou, data.satellite, capacity.research | [[nigeria-angola-space-cooperation]] |
+| Angola–Intellexa Predator spyware procurement | AGO | infra.cybersec, gov.protect | [[predator-spyware-angola]] |
+| SITA Passenger Data System — Angola (API/PNR Gateway, Luanda) | AGO | dpi.id, dpi.exchange, infra.store, gov.protect | [[sita-angola]] |
 
 ## People
 
@@ -924,6 +964,7 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 | Michael Aboneka | UGA | dpi.id, gov.protect, gov.legislate, include.divides, include.access | [[michael-aboneka]] |
 | Njabulo Nzuza | ZAF | dpi.id, dpi.registry, dpi.govtech, data.statistics, include.access, digital.rural | [[njabulo-nzuza]] |
 | Themba Matlou | ZAF | dpi.id, dpi.pay, gov.protect, include.access | [[themba-matlou]] |
+| João Lourenço | AGO | gov.policy, gov.regional, infra.cybersec, dpi.id, data.satellite | [[joao-lourenco]] |
 
 ## Resources (standing data assets)
 
@@ -958,7 +999,6 @@ Databases, registries, datasets, tools and portals consulted repeatedly (entity_
 | After Access (RIA survey programme) | XAF, XSS, ZAF, NGA, GHA, UGA, ETH | include.divides, include.access, data.statistics, capacity.literacy | [[after-access]] |
 | International Aid Transparency Initiative (IATI) | XGL | data.open, data.statistics | [[international-aid-transparency-initiative]] |
 | Digital Policy Alert (regulatory-change tracker; Africa DP roundup) | XGL, XAF | gov.protect, gov.legislate, gov.policy, tech.ai | [[digital-policy-alert]] |
-
 | Privacy Scorecard Report (Unwanted Witness) | XAF | gov.protect | [[privacy-scorecard-report]] |
 | Ripoti (Paradigm Initiative) | XAF | gov.protect | [[ripoti]] |
 | Mojaloop | XAF, RWA, LBR, XGL | dpi.pay, dpi.exchange, include.access | [[mojaloop]] |
@@ -982,6 +1022,8 @@ Databases, registries, datasets, tools and portals consulted repeatedly (entity_
 | Equiano subsea cable | ZAF, NGA, TGO, NAM, XAF | infra.connect, infra.store, geopol.usa | [[equiano]] |
 | Research and Markets | XGL, ZAF | infra.store, infra.capacity, finance.new | [[research-and-markets]] |
 | TaRMS Self-Service Portal (Zimbabwe) | ZWE | dpi.govtech, dpi.registry, dpi.id, dpi.pay, dpi.exchange | [[tarms-zimbabwe]] |
+| Base de Dados de Cidadãos Maiores (BDCM) — Angola | AGO | dpi.registry, dpi.exchange, dpi.id | [[base-de-dados-de-cidadaos-maiores-angola]] |
+| Base de Dados de Identificação Civil (BDIC) — Angola | AGO | dpi.registry, dpi.id, dpi.exchange | [[bdic-angola]] |
 
 ## Instruments — reference standards / frameworks / policy-legal instruments
 
@@ -1045,7 +1087,6 @@ about or from one becomes a normal source that cites it.
 | CBN June 2026 Payments Circular (PSS/DIR/PUB/CIR/001/004) | NGA | gov.legislate, dpi.pay, infra.store, gov.protect | [[cbn-payments-circular-2026]] |
 | EU AI Act | XGL, XAF | tech.ai, gov.legislate, geopol.eu, gov.protect | [[eu-ai-act]] |
 | Kenya Artificial Intelligence Bill 2026 | KEN | tech.ai, gov.legislate, gov.protect | [[kenya-ai-bill-2026]] |
-
 | Kenya Data Protection Act, 2019 | KEN | gov.protect, gov.legislate | [[kenya-data-protection-act-2019]] |
 | Data Protection and Privacy Act, 2019 (Uganda) | UGA | gov.protect, gov.legislate | [[data-protection-and-privacy-act-uganda-2019]] |
 | African Guidelines on Data Access (ACHPR Res.620, draft) | XAF | gov.legislate, gov.policy, data.open | [[african-guidelines-data-access]] |
@@ -1125,6 +1166,14 @@ about or from one becomes a normal source that cites it.
 | UPU S42 (international addressing standard) | XGL, TZA | gov.standards, dpi.registry, gov.regional | [[upu-s42]] |
 | Zimbabwe Cyber and Data Protection Act (2021) | ZWE | gov.protect, gov.legislate, gov.standards, infra.cybersec, dpi.exchange | [[zimbabwe-cyber-and-data-protection-act]] |
 | Zimbabwe Statutory Instrument 76 of 2025 (securitised deeds) | ZWE | dpi.registry, gov.legislate, gov.standards, dpi.govtech, infra.cybersec | [[zimbabwe-si-76-2025]] |
+| Angola Cybersecurity Bill (Proposta de Lei de Cibersegurança) | AGO | infra.cybersec, gov.legislate, gov.protect | [[angola-cybersecurity-law]] |
+| Angola Digital Government Bill (Proposta de Lei do Governo Digital) | AGO | gov.legislate, dpi.govtech, gov.protect | [[angola-digital-government-law]] |
+| Angola Law against False Information on the Internet ("fake news" law) | AGO | gov.legislate, infra.cybersec | [[angola-fake-news-law]] |
+| Angola Startups Law (Lei das Startups) | AGO | tech.innovate, gov.legislate, finance.new | [[angola-startups-law]] |
+| Bilhete de Identidade (BI) — Angola | AGO | dpi.id, dpi.registry, gov.legislate, include.access | [[bilhete-de-identidade-angola]] |
+| Angola National Statistics Development Strategy 2026–2032 (ENDE) | AGO | data.statistics, gov.policy, gov.legislate | [[ende-angola]] |
+| Angola National Cybersecurity Strategy (draft Presidential Decree) | AGO | infra.cybersec, gov.policy, gov.legislate | [[national-cybersecurity-strategy-angola]] |
+| UNESCO AI Readiness Assessment (RAM) — Angola | AGO | tech.ai, gov.policy, gov.standards | [[unesco-ram-angola]] |
 
 ## Instruments — scholarly & analytical works (`entity_type: instrument`; formerly "publications")
 

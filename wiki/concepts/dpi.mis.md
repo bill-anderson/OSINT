@@ -2,8 +2,8 @@
 type: concept
 title: Sectoral management information systems (HMIS, EMIS, etc.)
 slug: dpi.mis
-places: [COD, CMR, BDI, XAF, XSS, XGL, RWA, ETH, NGA, KEN, ZAF, MWI, TZA, MOZ, GHA, GIN, ZMB, UGA, ZWE, LSO, CPV, EGY, SWZ, TGO]
-entities: [[dhis2], [hisp-centre], [africa-cdc], [open-data-watch], [ethiopia-moh], [echis-ethiopia], [hmis-tanzania-pea], [hmis-malawi-livingstonia], [his-developing-countries-review], [hmis-data-use-index-ethiopia], [echis-ethiopia-study], [dhis2-maturity-ethiopia], [rhis-recording-burden-5country], [america-first-global-health-strategy], [usaid], [gates-foundation], [malawi-revenue-authority], [nissa-lesotho], [universal-dpi-safeguards-framework], [micsti-lesotho], [mosip], [eswatini-cbhis], [eswatini-cmis], [ministry-of-health-eswatini], [eswatini-nhssp], [eswatini-health-system-strengthening-project], [hisp-wca], [stateduc], [mepsta-togo]]
+places: [COD, CMR, BDI, XAF, XSS, XGL, RWA, ETH, NGA, KEN, ZAF, MWI, TZA, MOZ, GHA, GIN, ZMB, UGA, ZWE, LSO, CPV, EGY, SWZ, TGO, AGO]
+entities: [[dhis2], [rediv-angola], [huawei-angola-health-mou], [hisp-centre], [africa-cdc], [open-data-watch], [ethiopia-moh], [echis-ethiopia], [hmis-tanzania-pea], [hmis-malawi-livingstonia], [his-developing-countries-review], [hmis-data-use-index-ethiopia], [echis-ethiopia-study], [dhis2-maturity-ethiopia], [rhis-recording-burden-5country], [america-first-global-health-strategy], [usaid], [gates-foundation], [malawi-revenue-authority], [nissa-lesotho], [universal-dpi-safeguards-framework], [micsti-lesotho], [mosip], [eswatini-cbhis], [eswatini-cmis], [ministry-of-health-eswatini], [eswatini-nhssp], [eswatini-health-system-strengthening-project], [hisp-wca], [stateduc], [mepsta-togo]]
 status: active
 last_reviewed: 2026-07-17
 sources: [[2026-02-23 From Paper to Pixels - Digital Transformation of Community Health Services in Eswatini], [2024-08-01 Eswatini National Health Sector Strategic Plan 2024-25 to 2027-28], [2024-11-19 HISP WCA develops DHIS2 EMIS for education data analysis and visualization in Togo], [2024-11-05 Togo - Integrating DHIS2 with existing EMIS systems], [2026-04-23 Health Data Without Continuity Why Electronic Health Records Still Have Not Scaled Across Africa], [2026-06-03 Malawi reaps digital tax gains], [2026-05-13 Shared Services Fee], [2021-08-04 Health information systems in developing countries case of African countries], [2023-10-30 A political economy analysis of strengthening health information system in Tanzania], [2025-10-21 Utilisation of data and factors affecting the performance of the Health Management Information System (HMIS). The case of six Synods of Livingstonia health facilities in Malawi], [2023-05-11 Data for local decision-making, not a mere reporting requirement development of an index to measure facility-level use of HMIS data  Published in Journal of Global Health Reports], [2023-06-07 Barriers, facilitators and motivators of electronic community health information system use among health workers in Ethiopia], [2024-07-26 Maturity Assessment of District Health Information System Version 2 Implementation in Ethiopia Current Status and Improvement Pathways], [2021-09-13 The burden of recording and reporting health data in primary health care facilities in five low- and lower-middle income countries], [2025-04-03 Now is the time to invest in locally-owned health data systems], [2025-11-05 New report highlights urgent need to rebuild and sustain health data systems], [2026-03-19 African Digital Health Data Is a Condition of Global Health Funding], [2026-03-27 Kenya's Health Deal Is a Stress Test for the America First Global Health Strategy], [2026-02-25 Zimbabwe Turns Down U.S. Health Funding, Citing Sovereignty Concerns], [2026-01-16 Lesotho's Digital Leap How Child-Centred Systems are Reshaping Social Protection], [2026-02-20 MICSTI AND NUL ADVANCED LESOTHO DIGITAL PUBLIC INFRASTRUCTURE], [2026-07-05 Post by DHIS2 on LinkedIn]]
@@ -154,6 +154,8 @@ what makes it work or fail.
   [[2026-02-23 From Paper to Pixels - Digital Transformation of Community Health Services in Eswatini]],
   [[2024-08-01 Eswatini National Health Sector Strategic Plan 2024-25 to 2027-28]].
 
+- **[[AGO]] Angola — an immunisation registry wiring into DHIS2 (2026-02).** Angola runs **[[rediv-angola|ReDIV]]**, a digital platform for **individual, real-time immunisation records** — begun in the COVID-19 response, now used in all national campaigns (polio, measles, HPV) for near-real-time coverage monitoring — plus **IOTA** for real-time vaccine/medicine stock management (central warehouses to peripheral units). Both are being made **interoperable with a [[dhis2|DHIS2]]-based national HMIS**, alongside a telemedicine expansion (Angola was the 2nd Sub-Saharan country with robotic surgery; a robot-commanded operation ran from Orlando at ANGOTIC 2025). Separately, a **[[huawei-angola-health-mou|MINSA–Huawei MoU]]** (Jan 2026) targets **38,000 health workers trained** and **500,000 remote consultations over four years** plus hospital digitisation and health AI — the China vendor inside the health-data stack. See [[dpi.registry]], [[geopol.china]], [[angola--dpi-govtech]], [[AGO]]. Sources: [[2026-02-14-angola-inovacao-digital-no-sistema-de-saude-rediv-dhis2]], [[2026-01-26-angola-huawei-memorando-saude-digital]].
+
 ## Key material — other sectoral MIS
 
 - **[[MWI]] Malawi — revenue as a real-time MIS (2026-06).** The
@@ -216,7 +218,7 @@ what makes it work or fail.
 
 [[XAF]] · [[XSS]] · [[XGL]] · [[RWA]] · [[ETH]] · [[NGA]] · [[KEN]] · [[ZAF]] · [[GAB]] ·
 [[MWI]] · [[TZA]] · [[MOZ]] · [[GHA]] · [[ZMB]] · [[UGA]] · [[ZWE]] · [[LSO]] · [[BDI]] ·
-[[SWZ]] · [[TGO]] ·
+[[SWZ]] · [[TGO]] · [[AGO]] ·
 Intersections: [[ethiopia--dpi-mis]] · Related:
 [[dpi.exchange]] · [[dpi.id]] · [[dpi.registry]] · [[dpi.govtech]] · [[data.statistics]]
 
@@ -245,3 +247,5 @@ Intersections: [[ethiopia--dpi-mis]] · Related:
 - [[2024-08-01 Eswatini National Health Sector Strategic Plan 2024-25 to 2027-28]]
 - [[2024-11-19 HISP WCA develops DHIS2 EMIS for education data analysis and visualization in Togo]]
 - [[2024-11-05 Togo - Integrating DHIS2 with existing EMIS systems]]
+- [[2026-02-14-angola-inovacao-digital-no-sistema-de-saude-rediv-dhis2]]
+- [[2026-01-26-angola-huawei-memorando-saude-digital]]

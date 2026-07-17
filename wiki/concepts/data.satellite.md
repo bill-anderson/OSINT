@@ -3,11 +3,11 @@ type: concept
 title: Use of satellite data
 slug: data.satellite
 places: [AGO, NGA, NAM, ZAF, KEN, UGA, SEN, RWA, MOZ, GAB, CIV, XAF, COD, LSO, TZA, XGL]
-entities: [[amazon-globalstar-acquisition], [globalstar], [starlink], [amazon-web-services], [nigcomsat], [cran], [nasa-harvest], [catherine-nakalembe], [watra], [netumbo-nandi-ndaitwah], [orange], [orange-cote-divoire], [orange-sat], [eutelsat], [spacecoin], [communications-authority-of-kenya], [ncc], [starlink-airtel-d2c-partnership], [starlink-vodacom-leo-partnership], [airtel-africa], [vodacom], [google]]
+entities: [[amazon-globalstar-acquisition], [globalstar], [starlink], [amazon-web-services], [nigcomsat], [cran], [nasa-harvest], [catherine-nakalembe], [watra], [netumbo-nandi-ndaitwah], [orange], [orange-cote-divoire], [orange-sat], [eutelsat], [spacecoin], [communications-authority-of-kenya], [ncc], [starlink-airtel-d2c-partnership], [starlink-vodacom-leo-partnership], [airtel-africa], [vodacom], [google], [ggpen], [angosat-2], [angeo-1], [airbus], [conecta-angola]]
 lens: [sovereignty, colonialism]
 status: active
 last_reviewed: 2026-07-12
-sources: [[2026-04-14 Amazon's $9bn satellite deal set to benefit Africa], [2026-04-01 Nigeria satellite revenue soars to $2 billion], [2026-03-26 Starlink blocked from operating in Namibia], [2026-03-26 Has Satellite Become Africa's Most Critical Connectivity Infrastructure], [2026-04-13 WATRA rallies Africa for region's $216b digital economy], [2026-03-12 Western AI models 'fail spectacularly' in farms and forests abroad], [2026-02-13 Namibia gets  Chinese satellite ground station], [2026-01-22 Orange Côte d'Ivoire intros satellite broadband], [2026-02-05 Senegal embraces Starlink to connect the future]]
+sources: [[2026-04-14 Amazon's $9bn satellite deal set to benefit Africa], [2026-04-01 Nigeria satellite revenue soars to $2 billion], [2026-03-26 Starlink blocked from operating in Namibia], [2026-03-26 Has Satellite Become Africa's Most Critical Connectivity Infrastructure], [2026-04-13 WATRA rallies Africa for region's $216b digital economy], [2026-03-12 Western AI models 'fail spectacularly' in farms and forests abroad], [2026-02-13 Namibia gets  Chinese satellite ground station], [2026-01-22 Orange Côte d'Ivoire intros satellite broadband], [2026-02-05 Senegal embraces Starlink to connect the future], [2026-03-17-angola-launches-259-million-earth-observation-satellite-project], [2025-12-23-angola-launches-commercial-access-to-angosat-2], [2026-06-11-angola-referencia-africana-em-tecnologias-espaciais]]
 ---
 
 # Use of satellite data (`data.satellite`)
@@ -118,6 +118,19 @@ data harvested from it.
   [[data.statistics]], [[digital.rural]]. Source:
   [[2025-12-19 Why one of the year's biggest AI-for-development stories isn't actually about AI]].
 
+- **[[AGO]] Angola builds a full sovereign space stack (2025–26).** Under **[[ggpen]]** (and an
+  Angolan Space Agency created Oct 2025), Angola runs both layers: **[[angosat-2]]** communications
+  (opened to commercial ISPs Dec 2025, anchoring the **[[conecta-angola]]** rural programme — 32 free
+  access points, six universities, border-post VSAT, TVWS-to-schools) and a new **[[angeo-1]]**
+  Earth-observation satellite by **[[airbus]]** (~**€225m/$259m**, Société Générale-financed, S250
+  platform, **>1,000 images/day**; SKP milestone May 2026). GGPEN productises EO — AI + geospatial for
+  **asset registers and land-use mapping** into public finance — while **ANGOSAT-3** (EO) sits in the
+  2025 procurement plan. A layered sovereignty play blending **European** (Airbus/SocGen) and
+  **Chinese** (broadband) poles. → [[angola--data-satellite]]. Sources:
+  [[2026-03-17-angola-launches-259-million-earth-observation-satellite-project]],
+  [[2025-12-23-angola-launches-commercial-access-to-angosat-2]],
+  [[2026-06-11-angola-referencia-africana-em-tecnologias-espaciais]].
+
 ## Places
 
 [[NGA]] · [[NAM]] · [[ZAF]] · [[KEN]] · [[UGA]] · [[SEN]] · [[RWA]] · [[MOZ]] · [[GAB]] · [[CIV]] · [[XAF]] · [[COD]] · [[LSO]] · [[TZA]] · [[XGL]]
@@ -140,3 +153,6 @@ data harvested from it.
 - [[2026-01-01 Starlink Partners with Airtel & Vodacom From Rival to Ally]]
 - [[2026-01-13 Spacecoin strikes major deals to launch satellite internet]]
 - [[2025-12-19 Why one of the year's biggest AI-for-development stories isn't actually about AI]]
+- [[2026-03-17-angola-launches-259-million-earth-observation-satellite-project]]
+- [[2025-12-23-angola-launches-commercial-access-to-angosat-2]]
+- [[2026-06-11-angola-referencia-africana-em-tecnologias-espaciais]]
