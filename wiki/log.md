@@ -4102,3 +4102,96 @@ stand at **1** (`zain-group`, pre-existing, already tracked as GAP-SDN-002).
 *(Log entry appended 2026-07-17, out of band: the batch itself committed at `a250c64` without it.
 Issue numbers corrected on filing — the drafted 008/009 collided with the sweep pilot ISSUE-008,
 so the econet split is **ISSUE-009** and the secondary-re-report dating rule is **ISSUE-010**.)*
+
+---
+
+## 2026-07-17 — Phase-2 sweep: AGO · BDI · BEN · BFA · BWA (first production batch)
+
+**Scope.** The first **full-window** sweep (2025-01-01 → 2026-07-17), against the pilot trio's
+2025-Q1 slice. Ten agents — papers + trade journals per country, on disjoint file sets — then
+merged per country into one `MANIFEST.md` and one `drop-log-{ISO3}.csv`. **547 candidates staged
+from ~1,400 raw hits across 150 queries; 483 dropped, every one logged.** Writes confined to
+`new-queue/` and `sweep/`; nothing entered `new/`, `raw/` or `wiki/` beyond this log and the
+registers. Promotion remains the human's.
+
+| | queries | found | dropped | staged |
+|---|---|---|---|---|
+| AGO | 30 | ~360 | 112 | 124 |
+| BDI | 30 | ~147 | 51 | 41 |
+| BEN | 30 | ~264 | 74 | 141 |
+| BFA | 30 | ~356 | 88 | 126 |
+| BWA | 30 | ~273 | 158 | 115 |
+
+**The headline result is how little was already held.** Across ~1,400 hits, **fewer than 25 were
+`already-held`** — and for three countries the national press was untouched: **not one URL from
+Sidwaya, leFaso.net, Fraternité or La Nation appears among the 1,512 held**. Benin has strong wiki
+coverage *from journals and international sources* and **zero from its own newspapers**. That is the
+sweep's structural finding: the wiki's Francophone and Lusophone coverage has been reaching these
+countries only through outsiders' eyes.
+
+**Two staged findings contradict held material.** Neither is filed as a contradiction yet — they
+are candidates carried in the manifests, because the rule says contradictions are opened at *ingest*,
+against compiled pages, not at staging.
+- **WURI is still running in Burkina Faso after the ECOWAS exit.** Held material says the exit drops
+  BFA out of WURI. Two independent sources say otherwise: a **WURI enrolment workshop at
+  Bobo-Dioulasso (2025-08-21)**, eight months post-exit, with the digital minister fronting it and
+  WURI's own jurist stating the data is hosted *in* Burkina Faso; and a **World Bank mid-term review
+  (2026-02-09)** showing the Bank still running **PACTDIGITAL and WURI jointly** there. The held line
+  needs re-dating and qualifying, not deleting.
+- **Benin has a new government.** **Romuald Wadagni** replaced Talon; the digital portfolio passed
+  from Aurélie Adam Soulé Zoumarou to **Mahuna Akplogan** (May–June 2026), the ministry renamed and
+  re-scoped around AI. Every held Benin page attributing the agenda to the former incumbents is now
+  historical. A currency-discipline problem spanning a whole country's holdings.
+
+**The sharpest single item is Angola's.** Censo 2024 definitive results put BI coverage at **52.4%
+— 14.9m Angolans undocumented, 63% urban against 30.9% rural** (2025-11-26). Five months later the
+BI became the **sole legal identifier**, mandatory for banking, telecoms, school enrolment, property
+and contracts (2026-04-29). The state legislated universal ID dependence while half the population
+lacks the credential; both figures come from the state's own sources. Alongside it: the **first
+forensic confirmation of Predator spyware in Angola** (Amnesty/Novo Jornal, 2026-02-26), **SINSE
+named as end user**, landing while the cybersecurity bill sits suspended and the fake-news law
+(10-year penalties) has passed.
+
+**Framings the batch complicates.** Angola's ID contest is held as **three-way China/India/UAE**;
+the batch adds a **US pole** (Cybastion's $170m into Angola Telecom and the *national cybersecurity
+agency*), a **European pole** (Airbus/Société Générale, €225m ANGEO-1) and a **Brazilian pole**
+(Serpro inside the Finance Ministry). Understated, not wrong. Burundi's Jan-2026 data-protection law
+is held standalone; the batch finds a **National Data Governance Strategy (Nov 2025)** preceding it,
+plus a **National AI Strategy 2026–2030** the wiki lacks entirely — and the biometric-ID unveiling
+(2026-05-06) **explicitly confirms the causal link the wiki had only inferred**: the law was passed
+*before* building the platform. Botswana was near-empty and is now the batch's largest net gain — a
+**Data Protection Commissioner** (Feb 2026), a **Cybersecurity Act** (Nov 2025), **data localisation
+as declared ministerial policy** ("the data sovereignty of the people"), and a Citizen Wallet.
+
+**Method notes.** **No country needed month-slicing** — all five are low-volume enough that unsliced
+queries covered the window; recency-swamping was a large-country problem. The inverse failure
+appeared instead: 2024 evergreens recurring across domains. **Exa metadata was unreliable again** —
+wrong dates on 10 Benin items, fabricated bylines on TechAfrica News; **body dates and in-page
+bylines won throughout**. `techreviewafrica.com` serves no dates for Benin but *does* for Angola.
+`techcabal.com` and `connectingafrica.com` yielded nothing for several countries — confirmed thin,
+not under-searched. **Iwacu (Burundi) serves no publication dates at all**, and its
+"Bigirimana disparu depuis N jours" counter is **live-rendered at fetch — a trap, not an anchor**;
+all 4 Iwacu items are `date_source: proxy`.
+
+**Registers.** **ISSUE-011** filed: **Botswana's two papers fetch fine (HTTP 200) but paywall**,
+serving a lede and 1–3 paragraphs. The ISSUE-008 full-text rule has two branches — full clipped text,
+or a flagged summary if the page *cannot be fetched* — and this fits neither: the capture *is* the
+full free-to-read text and is still partial. 16 items flagged `[CLIP]`; *recommend* a third named
+state, `body_completeness: paywalled`, with a manual subscriber clip required before promotion only
+where the payload depends on the withheld body. Same-event twins across the two halves are
+**deliberately kept** throughout — same event, different outlet is never a sweep-stage drop; lint #7
+adjudicates at ingest with full text. Angola's Angop/Novo Jornal pairs should be **folded, not
+discarded**: Angop is the state agency and carries the government's framing, Novo Jornal the
+adversarial reporting.
+
+**Out-of-band repairs to the previous batch (`a250c64`).** Three, all found while filing this one.
+The **ZAF/ZMB/ZWE batch committed without its `log.md` entry** — appended above, out of order. The
+**two issues that batch recommended had never been filed**, and their drafted numbering had since
+collided with the sweep pilot's ISSUE-008; filed as **ISSUE-009** (`econet-wireless` conflates Group
+and Zimbabwean opco — InfraCo cannot hang off it as-is) and **ISSUE-010** (secondary re-reports
+ingested carrying their own publication date as the event date — the class behind the confirmed
+14-month Google Johannesburg error and the open `microsoft-sa-investment-date` contradiction). And
+`log.md` recorded **ISSUE-008 as resolved and removed when the removal had not happened**; removed.
+
+**Remaining.** Pilot trio **NGA/SEN/TCD** still carry `window_done: 2025Q1` and need completion
+passes (2025-04-01 → run date). 47 countries and the pan-African pass remain `pending`.
