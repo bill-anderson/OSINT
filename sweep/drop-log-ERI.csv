@@ -1,0 +1,25 @@
+url,title,published,reason,kept_twin
+https://shabait.com/2026/01/08/eritrea-launches-landmark-digital-customs-system,Eritrea launches ASYCUDA World digital customs system,2026-01-08,already-held,raw/2026-01-08 Eritrea launches ASYCUDA World digital customs system
+https://digitalidentityindex.com/eritreas-population-digital-identity-challenges-ahead/,Eritrea's Population: Digital Identity Challenges Ahead,2025-07-26,already-held,globaldigitalidentityindex.com/eritrea-population-digital-identity (held twin - same date/title/content)
+https://ts2.tech/en/eritreas-digital-desert-inside-the-worlds-most-isolated-internet-and-the-satellite-lifeline-on-the-horizon/,Eritrea's Digital Desert: Inside the World's Most Isolated Internet,2025-06-12,inadmissible-ai-synthesis,(lead only - cites submarinenetworks.com & eastafricanreview.com for 'only coastal African state with zero submarine cable landings' + 'Starlink unlicensed as of 2024'; source those primaries at ingest)
+https://shabait.com/2024/04/06/benefits-of-digital-library-in-vocational-education/,Benefits of Digital Library in Vocational Education,2024-04-06,out-of-window,
+https://shabait.com/2021/05/05/communications-service-way-forward-from-microwave-to-broadband/,Communications Service: Way Forward From Microwave to Broadband,2021-05-05,out-of-window,
+https://shabait.com/2018/10/17/world-standards-day/,World Standards Day,2018-10-17,out-of-window,
+https://shabait.com/2010/11/05/public-registration-office-and-the-public-mutual-cooperation-for-efficient-services/,Public Registration Office,2010-11-05,out-of-window,
+https://shabait.com/2026/04/25/training-on-database-management/,Training on database management (Orotta College of Medicine),2026-04-25,off-topic,(generic staff DB-management workshop; no digital-governance development)
+https://shabait.com/2026/07/13/training-on-geographic-information-systems-in-gash-barka-region/,Training on GIS in Gash Barka Region,2026-07-13,off-topic,(minor training workshop)
+https://shabait.com/2025/09/08/training-on-documentation-and-archives/,Training on Documentation and Archives,2025-09-08,off-topic,(records-mgmt workshop; mentions digital doc mgmt in passing only)
+https://shabait.com/2026/01/31/77883/,Activity assessment meeting of Ministry of Education,2026-01-31,off-topic,(education-sector review; ICT only in passing)
+https://shabait.com/2026/05/13/education-the-bedrock-of-eritreas-development-and-social-justice/,Education: The Bedrock of Eritrea's Development,2026-05-13,off-topic,(education policy essay; ICT-in-schools mentioned in passing)
+https://shabait.com/2026/05/14/successful-effort-to-expand-educational-services/,Successful Effort to Expand Educational Services,2026-05-14,off-topic,(education stats; not digital)
+https://shabait.com/2026/06/04/vocational-training-provided-to-college-students/,Vocational training provided to college students,2026-06-04,off-topic,(mixed vocational skills incl some computer training; not a digital development)
+https://shabait.com/2026/02/04/vocational-training-to-youth-in-adi-quala/,Vocational training to youth in Adi-Quala,2026-02-04,off-topic,(3-month computer-tech class; routine skills training)
+https://shabait.com/2025/07/03/halai-technical-school-graduates-25-students/,Halai Technical School Graduates 25 Students,2025-07-03,off-topic,(TVET graduation; computer/network installation)
+http://dehai.org/dehai/dehai-news/212164,Eritrea Institute of Technology EdTech Lab (ICT4EEDU),undated,off-topic,(diaspora repost of an undated Shabait feature; ICT4EEDU project runs since 2015 - likely pre-window; lead only)
+https://us.embassyeritrea.org/national-id/,National ID (Eritrean Embassy consular CAPS page),undated,off-topic,(undated consular service page - shows online/biometric national-ID application via CAPS portal for diaspora; entity/resource context not a dated source)
+https://eritel.com.er/,Eritel Telecom Corporation (corporate site),undated,off-topic,(entity profile - sole state CSP; '85% coverage / 600k+ customers' claims; not a dated development)
+https://dig.watch/countries/eritrea,Eritrea | Digital Watch Observatory,undated,off-topic,(observatory country profile; undated reference not a source)
+https://dtri.uneca.org/v1/country-profiles/eritrea,ERITREA (UNECA Digital Trade Readiness Index profile),undated,off-topic,(reference index profile; undated)
+https://www.bcsatellite.net/eritrea/,Satellite Internet in Eritrea (BusinessCom Networks),undated,off-topic,(commercial VSAT vendor page; not a dated news source)
+https://awate.com/awate-7-0-preliminary-report/,Awate 7.0 Preliminary Report,undated,off-topic,(Awate's own reader-survey report; not Eritrea digital content)
+https://techreviewafrica.com/?s=eritrea,Tech Review Africa search (Eritrea),n/a,fetch-failed,(journal blind-spot probe - CRAWL_LIVECRAWL_TIMEOUT x3; PR-wire, no evidence of Eritrea content)
