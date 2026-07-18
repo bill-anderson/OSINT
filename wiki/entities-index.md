@@ -6,6 +6,18 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 
 | Entity | Places | Topics | Page |
 |---|---|---|---|
+| CAMTEL (Cameroon Telecommunications) | CMR | infra.connect, infra.store, dpi.pay | [[camtel]] |
+| MTN Cameroon | CMR | infra.connect, dpi.pay, tech.ai | [[mtn-cameroon]] |
+| Orange Cameroun | CMR | infra.connect, dpi.pay, capacity.training | [[orange-cameroun]] |
+| Impact Palmarès Group | CIV, CMR | dpi.id, dpi.govtech | [[impact-palmares]] |
+| Cabinet Danielle Moukouri | CMR | tech.ai, gov.policy | [[cabinet-danielle-moukouri]] |
+| Innovendi Data Technologies | CMR | infra.store, infra.connect | [[innovendi-data-technologies]] |
+| Avanti Communications | GBR, CMR | infra.connect | [[avanti-communications]] |
+| InTouch (payment aggregator) | CMR, SEN | dpi.pay | [[intouch]] |
+| Kiro'o Games | CMR | tech.innovate, dpi.pay | [[kiroo-games]] |
+| Flutterwave | NGA, CMR | dpi.pay | [[flutterwave]] |
+| Afriland First Bank | CMR | dpi.pay | [[afriland-first-bank]] |
+| Yango | CMR | tech.industry, dpi.pay | [[yango]] |
 | Chinguitel (Mauritania telecom operator) | MRT | infra.connect, geopol.china | [[chinguitel]] |
 | Sudatel (Sudatel Telecom Group) | SDN | infra.connect, gov.regional, tech.industry | [[sudatel]] |
 | Sudani (Sudatel domestic operator) | SDN | infra.connect, tech.industry | [[sudani-telecom]] |
@@ -212,6 +224,8 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 
 | Entity | Places | Topics | Page |
 |---|---|---|---|
+| ARTAC (Central African telecom regulators) | XCA | gov.regional, gov.standards | [[artac]] |
+| Université de Yaoundé II | CMR | capacity.research, gov.policy | [[university-yaounde-ii]] |
 | European Investment Bank (EIB) | MRT, XGL | infra.connect, infra.store, finance.new, geopol.eu | [[eib]] |
 | World Health Organization (WHO) | XGL | dpi.mis, dpi.govtech | [[world-health-organization]] |
 | Islamic Development Bank (IsDB) | MRT, XGL | finance.mou, geopol.gulf, gov.policy | [[islamic-development-bank]] |
@@ -376,6 +390,13 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 
 | Entity | Places | Topics | Page |
 |---|---|---|---|
+| ELECAM (Elections Cameroon) | CMR | dpi.id, dpi.registry | [[elecam]] |
+| ART / TRB (Cameroon telecom regulator) | CMR | gov.legislate, gov.standards | [[art-cameroon]] |
+| CENADI (National Centre for Computer Development) | CMR | infra.store | [[cenadi]] |
+| INS (National Institute of Statistics, Cameroon) | CMR | data.statistics, data.open | [[ins-cameroon]] |
+| MINREX (Ministry of External Relations, Cameroon) | CMR | dpi.govtech, dpi.id | [[ministry-of-external-relations-cameroon]] |
+| MINPOSTEL (Posts & Telecommunications, Cameroon) | CMR | gov.policy, tech.ai | [[ministry-of-posts-and-telecommunications-cameroon]] |
+| MINAT (Territorial Administration, Cameroon) | CMR | dpi.pay, dpi.id | [[ministry-of-territorial-administration-cameroon]] |
 | Central Bank of Mauritania (BCM) | MRT | dpi.pay, infra.store, finance.new, infra.cybersec | [[central-bank-mauritania]] |
 | Central Bank of Sudan (CBoS) | SDN | dpi.pay, finance.new, infra.cybersec | [[central-bank-of-sudan]] |
 | National Electronic Certification Authority (Sudan) | SDN | infra.cybersec, dpi.id, dpi.govtech | [[national-electronic-certification-authority-sudan]] |
@@ -654,6 +675,11 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 
 | Entity | Places | Topics | Page |
 |---|---|---|---|
+| CONIA (National AI Consultations, Cameroon) | CMR | tech.ai, gov.policy | [[conia]] |
+| Zamengoe Data Centre (CAMTEL) | CMR | infra.store | [[zamengoe-data-centre]] |
+| DIGI-CoR (local-government digitisation, Cameroon) | CMR | digital.localgov, dpi.govtech | [[digi-cor]] |
+| CAMCIH (Cameroon Climate Innovation Hub) | CMR | tech.innovate | [[camcih]] |
+| BankCompar (CNEF bank price-transparency) | CMR | dpi.pay, data.open | [[bankcompar]] |
 | CAR crypto & land tokenisation (Sango Coin / $CAR) | CAF | dpi.pay, finance.new, gov.legislate | [[car-crypto-tokenisation]] |
 | Starlink in CAR (licence → launch → roaming suspension) | CAF | infra.connect, include.access, geopol.usa | [[starlink-car]] |
 | CAR national data centre (Huawei Tier III + threads) | CAF | infra.store, dpi.govtech, geopol.china | [[car-national-datacentre]] |
@@ -986,6 +1012,7 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 
 | Entity | Places | Topics | Page |
 |---|---|---|---|
+| Anthony Same (ST Digital founder/CEO) | CMR, GAB, COG, CIV | infra.store, tech.industry | [[anthony-same]] |
 | David Eaves (UCL IIPP) | XGL | gov.standards, tech.industry, dpi.govtech, gov.legislate | [[david-eaves]] |
 | Faustin-Archange Touadéra (President, CAR) | CAF | gov.policy, dpi.id | [[faustin-archange-touadera]] |
 | Solly Malatsi (SA Communications & Digital Technologies Minister) | ZAF | dpi.govtech, include.divides, gov.policy, gov.legislate | [[solly-malatsi]] |
@@ -1062,6 +1089,10 @@ Databases, registries, datasets, tools and portals consulted repeatedly (entity_
 
 | Resource | Places | Topics | Page |
 |---|---|---|---|
+| IDCAM (Cameroon CNI pre-enrolment platform) | CMR | dpi.id, dpi.govtech | [[idcam]] |
+| CAMCIS (Cameroon Customs Information System) | CMR | dpi.govtech, dpi.registry | [[camcis]] |
+| COLEPS (Cameroon Online E-Procurement System) | CMR, KOR | dpi.govtech | [[coleps]] |
+| PROXIGAB (Cameroon national SME platform) | CMR | dpi.govtech, tech.innovate | [[proxigab]] |
 | PeeringDB (interconnection database — networks, IXPs, facilities, carriers) | XGL | infra.connect, infra.store | [[peeringdb]] |
 | Data Protection Africa (ALT Advisory — per-country DP factsheets) | XGL, XAF | gov.protect, gov.legislate | [[data-protection-africa]] |
 | openIMIS (open-source health-financing / social-protection MIS) | XGL, BDI | dpi.mis, dpi.registry | [[openimis]] |
@@ -1123,6 +1154,9 @@ about or from one becomes a normal source that cites it.
 
 | Instrument | Places | Topics | Page |
 |---|---|---|---|
+| Cameroon Personal Data Protection Law (Law 2024/017) | CMR | gov.protect, gov.legislate | [[cameroon-data-protection-law-2024]] |
+| Cameroon Cybercrime & Cybersecurity Law (Law 2010/012) | CMR | infra.cybersec, gov.legislate | [[cameroon-cybercrime-law-2010]] |
+| PSNSN (Cameroon Digital Health Plan 2026–2030) | CMR | dpi.mis, gov.policy | [[psnsn-cameroon]] |
 | Mozambique Personal Data Protection Law (proposed) | MOZ | gov.protect, gov.legislate | [[mozambique-data-protection-law]] |
 | ASYCUDA (Automated System for Customs Data, UNCTAD) | XGL, SDN | dpi.govtech, dpi.exchange, infra.connect | [[asycuda]] |
 | A Blueprint for Mauritius — Digital Transformation 2025-2029 | MUS | gov.policy, dpi.govtech, dpi.id | [[mauritius-digital-blueprint-2025-2029]] |

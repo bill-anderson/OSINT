@@ -5277,3 +5277,22 @@ chair), [[camcih]] (climate hub — **CAMCIH≠CAMCIS**). Added Camtel public-se
 (relevant-dup of kept 2026-04-16 ART Douala inspections); 2026-01-15 baccalaureate PR-wire (relevant-dup
 of kept 2026-01-19 TechAfrica). DIW/AI-youth/SNK/agro-met + chunk-7 citizen-budget to be cited on the hub
 at finalize. All 16 moved new→raw. **`new/` now empty of sources — 125 admitted, 2 pruned = 127.**
+
+### 2026-07-18 · ingest CMR · BATCH COMPLETE
+**125 sources admitted, 0 leads, 0 discards, 2 pruned (lint #7 relevant-duplicates).** From 127 staged
+(55 newspaper + 72 trade-journal, window 2025-01-01→2026-07-17). CMR was the wiki's first substantial
+national/trade-press coverage. **~38 new entities** (companies: [[camtel]], [[mtn-cameroon]],
+[[orange-cameroun]], [[impact-palmares]], [[cabinet-danielle-moukouri]], [[innovendi-data-technologies]],
+[[avanti-communications]], [[intouch]], [[kiroo-games]], [[flutterwave]], [[afriland-first-bank]],
+[[yango]]; orgs [[artac]], [[university-yaounde-ii]]; gov-bodies [[elecam]], [[art-cameroon]], [[cenadi]],
+[[ins-cameroon]], [[ministry-of-external-relations-cameroon]], [[ministry-of-posts-and-telecommunications-cameroon]], [[ministry-of-territorial-administration-cameroon]]; initiatives [[conia]],
+[[zamengoe-data-centre]], [[digi-cor]], [[camcih]], [[bankcompar]]; person [[anthony-same]]; resources
+[[idcam]], [[camcis]], [[coleps]], [[proxigab]]; instruments [[cameroon-data-protection-law-2024]],
+[[cameroon-cybercrime-law-2010]], [[psnsn-cameroon]]). **7 new intersections**: [[cameroon--tech-ai]],
+[[cameroon--infra-connect]], [[cameroon--infra-store]], [[cameroon--infra-cybersec]], [[cameroon--dpi-pay]],
+[[cameroon--dpi-govtech]] (+ expanded [[cameroon--dpi-id]]). CMR hub fully rewritten. Provisional
+resolutions (tier-2, digest): SNIA re-dated to CONIA Jun 2024 + author = Cabinet Danielle Moukouri;
+data-protection law confirmed enacted (Loi 2024/017, 23 Dec 2024); CAMTEL/CBC figures reconciled;
+ARTAC-vs-AWS filed as hub analysis not contradiction. New: ISSUE-015 (Socadel/Eneo rename);
+GAP-CMR-001/002. Indexes updated (entities/places). MANIFEST → new-queue/done/CMR/. Ingested thematically
+in 8 chunks. All 125 source links lint clean (0 unresolved, 0 orphans).
