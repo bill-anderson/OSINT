@@ -39,6 +39,9 @@ ART as "mentioned, not hubbed"; it is now an active enforcer.
 - **Regional — ARTAC (Feb 2026).** Zoo Zame led Cameroon's delegation to the **[[artac]]** 10th Ordinary
   Session (Kinshasa), which adopted a Central African **data-residency / NGSO** position. Source:
   [[2026-02-24-trb-artac-10th-ordinary-session-kinshasa-ngso-techreviewafrica]].
+- **Funding its own research base (Feb 2026).** Established an **Academic Chair in Digital Governance** at
+  **[[university-yaounde-ii]]** — steering committee explicitly preserving academic freedom. Source:
+  [[2026-02-11-university-yaounde-ii-art-digital-governance-chair-techafricanews]].
 
 ## Related
 

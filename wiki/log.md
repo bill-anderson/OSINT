@@ -5267,3 +5267,13 @@ entities [[ins-cameroon]] (Open SDG platform Sep 2025 + RGPH 2026 census — 4th
 MoMo-paid enumerators), [[psnsn-cameroon]] (digital-health plan ~29bn FCFA, answers held 2025 gap). Filed
 **GAP-CMR-001** (gazette texts of Loi 2024/016 & 2024/017) and **GAP-CMR-002** (Biya CNI decree N°2025/059).
 Citizen-budget (East) source to be cited on the hub at finalize. All 5 moved new→raw.
+
+### 2026-07-18 · ingest CMR · chunk 8/8 — Skills, innovation & platform economy
+**16 sources admitted, 2 pruned (lint #7).** New entities: [[mtn-cameroon]] & [[orange-cameroun]] (local
+opcos — market leaders, sectoral-ID/road-safety verticals; Orange Digital Center Maroua), [[yango]]
+(Yandex/Russia — rides ISSUE-014 geopol gap), [[university-yaounde-ii]] (ART-funded digital-governance
+chair), [[camcih]] (climate hub — **CAMCIH≠CAMCIS**). Added Camtel public-service/skills section
+(baccalaureate exams, WTO connectivity, 700 talents/MINESUP). **Pruned**: 2026-04-13 MTN-engage
+(relevant-dup of kept 2026-04-16 ART Douala inspections); 2026-01-15 baccalaureate PR-wire (relevant-dup
+of kept 2026-01-19 TechAfrica). DIW/AI-youth/SNK/agro-met + chunk-7 citizen-budget to be cited on the hub
+at finalize. All 16 moved new→raw. **`new/` now empty of sources — 125 admitted, 2 pruned = 127.**

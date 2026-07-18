@@ -70,6 +70,18 @@ Ethio Telecom MSA below (the "Bluepony" naming in one account is Blue Money). So
   [[2026-07-08-camtel-aws-digital-transformation-talks-techafricanews]],
   [[2026-04-09-camtel-avanti-satellite-partnership-techafricanews]].
 
+## Public-service partner & skills
+
+Beyond networks, CAMTEL positions itself as a **technology partner to public administration** and a
+skills actor: it partnered the **Baccalaureate Office to digitise/secure national exams** (Jan 2026, exam
+data into the sovereign national cloud — an EMIS-shaped vertical); provided **connectivity for the WTO
+14th Ministerial Conference** (Yaoundé, Mar 2026); and ran youth-skills intakes — **700 young talents**
+(May 2026) and a **MINESUP telecoms-skills MoU** (3 Jun 2026, the same programme thread). Sources:
+[[2026-01-19-camtel-baccalaureate-office-digitize-national-exams-techafricanews]],
+[[2026-03-28-camtel-connectivity-wto-ministerial-conference-yaounde-techreviewafrica]],
+[[2026-05-08-lejour-camtel-700-young-talents]],
+[[2026-06-04-camtel-minesup-youth-skills-telecoms-techafricanews]].
+
 ## Related
 
-- [[CMR]] · [[cameroon--infra-connect]] · [[cameroon--infra-store]] · [[infra.connect]] · [[zamengoe-data-centre]] · [[ethio-telecom]] · [[art-cameroon]] · [[ministry-of-posts-and-telecommunications-cameroon]]
+- [[CMR]] · [[cameroon--infra-connect]] · [[cameroon--infra-store]] · [[infra.connect]] · [[zamengoe-data-centre]] · [[ethio-telecom]] · [[art-cameroon]] · [[mtn-cameroon]] · [[orange-cameroun]] · [[ministry-of-posts-and-telecommunications-cameroon]]
