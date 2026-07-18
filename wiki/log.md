@@ -5809,3 +5809,10 @@ liberalisation/3rd-operator/UAF, Dashen, critiques); Active topics infra.connect
 dashen-bank company) — +2 entities-index rows. places-index ETH row updated. Dead-link lint 0; orphan lint 0/34.
 Home-grown Fayda critique (Addis Standard) captured under colonialism/rights counter-read. new-queue/ETH → done;
 stray new/MANIFEST.md removed.
+
+## 2026-07-18 — ingest(GAB) chunk 1/6: Data centres, cloud & sovereignty
+9 sources admitted. New intersection `gabon--infra-store`. Entities: gabon-national-datacenter (resource; Nkok Tier III,
+$14m/8bn CFA, 92 racks/3,000m²/1MW, dual 15kV+N+1/22% PV, ACE+SAT-3/WACS, inaugurated 3 Jul 2026 by Oligui Nguema),
+apdpvp-gabon (govt-body, data-protection authority — renamed CNPDCP, president Joël Dominique Ledaga — partially resolves
+GAP-GAB-001). Updated st-digital-gabon (national DC build, ANINF MoU) + aninf-gabon (ST MoU). 95% of Gabon data hosted abroad;
+Huawei exploration (2025-07 predates Dec MoU). Two journal versions kept as complementary (figures + technical spec) to held inauguration.

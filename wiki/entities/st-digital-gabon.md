@@ -6,8 +6,8 @@ places: [GAB, XAF]
 topics: [infra.store, infra.cybersec, tech.ai, tech.innovate, finance.mou]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-11
-sources: [[2026-07-06 Gabon Inaugurates First Tier III Datacenter to Boost Digital Sovereignty], [2026-06-02 SIN, ST Digital to deploy cloud services at Lomé data center]]
+last_reviewed: 2026-07-18
+sources: [[[2026-07-06 Gabon Inaugurates First Tier III Datacenter to Boost Digital Sovereignty]], [[2026-06-02 SIN, ST Digital to deploy cloud services at Lomé data center]], [[2025-02-14-gabon-st-digital-nkok-datacenter-announced]], [[2025-07-16-gabon-aninf-st-digital-mou]], [[2026-07-07-gabon-datacenter-inauguration-figures]]]
 ---
 
 # ST DIGITAL GABON
@@ -16,11 +16,11 @@ Gabonese datacenter developer/operator, led by **Laïka Mba**.
 
 ## Activity in this wiki
 
-- **Gabon's first Tier III datacenter (inaugurated 2026-07-04).** Built to Tier III
-  international standards to host sensitive government and business data within Gabon's
-  borders, "reducing reliance on foreign digital infrastructure" — explicitly framed as
-  digital sovereignty by President **Brice Clotaire Oligui Nguema**. To support public
-  services, cybersecurity, AI applications and business hosting.
+- **Gabon's first Tier III datacenter (inaugurated 2026-07-03).** The **[[gabon-national-datacenter|Nkok
+  national data centre]]** (**$14m / 8bn CFA**, 92 racks, 3,000 m², 1 MW) — announced Feb 2025, ground broken
+  Aug 2025, inaugurated by President **Brice Clotaire Oligui Nguema** — hosts government/business data onshore
+  against ~95% currently abroad. An **[[aninf-gabon|ANINF]]–ST Digital MoU (2025-07)** frames cloud,
+  cybersecurity, digital-ID and e-gov cooperation. See [[gabon--infra-store]].
 - **Startup-hosting MoU.** Signed with the **Ministry of Digital Economy, Digitalization
   and Innovation** (Minister **Mark-Alexandre Doumba**) for preferential hosting rates to
   ministry-supported startups. See [[finance.mou]], [[tech.innovate]].

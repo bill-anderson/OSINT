@@ -5,8 +5,8 @@ title: ANINF (National Agency for Digital Infrastructure and Frequencies, Gabon)
 places: [GAB]
 topics: [infra.connect, infra.store, dpi.govtech]
 status: active
-last_reviewed: 2026-07-15
-sources: [[2025-08-28-gabon-registre-social-unique], [2025-01-01-gabon-electoral-roll-verification-platform]]
+last_reviewed: 2026-07-18
+sources: [[[2025-08-28-gabon-registre-social-unique]], [[2025-01-01-gabon-electoral-roll-verification-platform]], [[2025-07-16-gabon-aninf-st-digital-mou]]]
 ---
 
 # ANINF (National Agency for Digital Infrastructure and Frequencies, Gabon)
