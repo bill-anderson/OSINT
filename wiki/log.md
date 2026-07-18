@@ -5402,3 +5402,9 @@ and the Code **invoked as a repression instrument** (4-tier document classificat
 as connectivity-destroyer**, mobile money the first casualty: nationwide X/TikTok restriction (Feb 2025,
 first shutdown item); Walikale (generator-fuel mechanism); Rutshuru/Masisi month-long blackout;
 Rubaya coltan-hub shelling. All 4 moved new→raw.
+
+### 2026-07-18 · ingest COD · chunk 4/8 — Starlink, satellite & universal access
+**7 sources admitted.** Appended to [[drc--infra-connect]]. **Starlink licensed May 2025** (ARPTC reversing
+its Mar-2024 ban; ACAJ frames it antitrust; 150 kits as Ebola health-data infra); new entities
+[[monacosat-drc-satellite]] ($400m sovereign satellite, DRC–Monaco MoU) and [[fdsu-drc]] (universal-service
+fund, dormant→first Nkamba sites 30 May 2026). All 7 moved new→raw.

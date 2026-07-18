@@ -9,7 +9,7 @@ entities: [[starlink], [helios-towers-drc], [genew-technologies], [fdsu-drc], [m
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-18
-sources: [[2025-02-03-acces-restreint-reseaux-sociaux-actualite], [2025-03-28-walikale-reseaux-telephonie-coupes-actualite], [2026-02-18-rutshuru-masisi-reconnectes-airtel-orange-actualite], [2026-02-26-rubaya-reseaux-retablis-actualite]]
+sources: [[2025-02-03-acces-restreint-reseaux-sociaux-actualite], [2025-03-28-walikale-reseaux-telephonie-coupes-actualite], [2026-02-18-rutshuru-masisi-reconnectes-airtel-orange-actualite], [2026-02-26-rubaya-reseaux-retablis-actualite], [2025-05-02-starlink-licence-officielle-actualite], [2025-05-05-acaj-salue-homologation-starlink-actualite], [2025-08-31-projet-acquisition-satellite-monacosat-actualite], [2026-04-03-somaf-group-kindu-starlink-actualite], [2026-06-04-starlink-kits-ebola-ituri-actualite], [2025-02-19-internet-society-masterclass-fdsu-actualite], [2026-06-02-fdsu-sites-pilotes-nkamba-actualite]]
 ---
 
 # DR Congo × Connectivity
@@ -36,6 +36,25 @@ The national press documents a mechanism the wiki lacked — **the AFC/M23 war k
   [[2026-02-18-rutshuru-masisi-reconnectes-airtel-orange-actualite]].
 - **Rubaya (Feb 2026)** — shelling damaged all three operators' masts at the **coltan hub**; 24-hour
   outage, mobile money the first casualty. Source: [[2026-02-26-rubaya-reseaux-retablis-actualite]].
+
+## Satellite, Starlink & universal access
+
+Against the conflict backdrop, satellite is the state's bet:
+
+- **Starlink licensed (May 2025).** ARPTC granted **[[starlink]] DRC S.A.** an official ISP licence —
+  **reversing its own March-2024 position** that Starlink held no title and its terminals were illegal.
+  Civil society (ACAJ) welcomed it as an **antitrust corrective** against incumbent monopoly abuse; retail
+  channels followed (Somaf, Kindu, Maniema); and Africa CDC used **150 Starlink kits as health-data
+  infrastructure** in the **Ebola** response in Ituri (lab results, contact tracing). Sources:
+  [[2025-05-02-starlink-licence-officielle-actualite]], [[2025-05-05-acaj-salue-homologation-starlink-actualite]],
+  [[2026-04-03-somaf-group-kindu-starlink-actualite]], [[2026-06-04-starlink-kits-ebola-ituri-actualite]].
+- **A sovereign satellite ($400m).** A **[[monacosat-drc-satellite|DRC–Monaco (Monacosat) MoU]]** (Nov
+  2024) launched a **sovereign satellite programme**, cost estimated at **$400m** said already mobilised.
+  Source: [[2025-08-31-projet-acquisition-satellite-monacosat-actualite]].
+- **The universal-service fund finally moves.** The **[[fdsu-drc|FDSU]]** (legal base loi n°20/17, 5 Nov
+  2020) sat unfunded ("n'est toujours pas disponible," Feb 2025) until it **launched its first pilot sites
+  at Nkamba, Kongo Central (30 May 2026)** — the first state-financed rural telecom build. Sources:
+  [[2025-02-19-internet-society-masterclass-fdsu-actualite]], [[2026-06-02-fdsu-sites-pilotes-nkamba-actualite]].
 
 ## Links
 
