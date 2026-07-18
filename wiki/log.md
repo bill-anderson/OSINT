@@ -5866,3 +5866,11 @@ liveness + Ghana Card single source of truth + MTN phased; Births&Deaths Registr
 Ghana Card integration, 2026 shake-up), ghana-digital-acceleration-project (deal; WB $200m 2023-27). Danish eBoks model
 (merge NHIS/GRA/DVLA); Interior digital-services portal (Dec 2025); Trident-GRA MSME platform (Sikaflow, 530k); GHIMS
 rollout after LHIMS/Lightwave failure; $77m health-data contract scandal (~15m records reconstructed).
+
+## 2026-07-18 — ingest(GHA) chunk 3/7: Data governance, protection & tech-law (NITA)
+11 sources admitted (NDPC/Development-Planning item deferred to chunk 7). New intersection `ghana--gov-protect`.
+Entities: nita-ghana (govt-body; NITA Act split regulatory/commercial, new DG Nana Yaw Amoah-Yeboah, Bill licensing/1%-levy
+critique + Sam George rebuttal — partly resolves GAP-GHA-003), ghana-data-harmonisation-bill (instrument; NITA data-sharing/
+interoperability bill, consultation Nov 2025). Updated data-protection-commission-ghana (new Governing Board chair Teki
+Akuetteh Aug 2025, 2026 "year of enforcement"). Privacy campaign (GAPP/16-region); tech-law "15 digital bills"/AITLAP.
+Fixed 2026-06-05 file: NDPC = National Development Planning Commission (not Data Protection); dropped gov.protect tag.
