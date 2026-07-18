@@ -6,7 +6,7 @@ parent: XEA
 place_kind: country
 topics: [dpi.id, dpi.registry, finance.mou, include.divides, dpi.pay, dpi.govtech, tech.ai, tech.innovate, gov.standards, dpi.exchange, gov.regional, dpi.mis, infra.energy, infra.store, infra.connect, gov.protect, gov.legislate, infra.cybersec, include.access, data.statistics, capacity.training, capacity.research, capacity.literacy, digital.rural, gov.policy, tech.industry, finance.new, geopol.china, geopol.usa, geopol.india]
 status: active
-last_reviewed: 2026-07-16
+last_reviewed: 2026-07-18
 ---
 
 # Ethiopia (ETH)
@@ -17,6 +17,29 @@ last_reviewed: 2026-07-16
 > across Fayda, payments, data protection, GovTech, infrastructure and health. Dated events, newest
 > first; they sit alongside the pre-existing entries below.
 
+- **2026-07** — **Fayda at 46.5m; refugee-inclusion "Makatet."** **[[fayda-ethiopia-national-id|Fayda]]**
+  reached **46.5m registrations** (from 16.4m in Jun 2025); the new **Makatet** framework makes it central to a
+  **state-led refugee-inclusion** model (1.1m refugees + 2m IDPs). See [[dpi.id]], [[ethiopia--dpi-id]],
+  [[ethiopia-digital-id-inclusion-project]]. Source:
+  [[2026-07-16-fayda-refugee-inclusion-makatet-strategy-biometricupdate]].
+- **2026-07** — **Ethio Telecom network build & China DC track.** **99.8% coverage**; **MWC 2026** deals
+  (Ericsson 1,500 sites, ZTE 647 sites / 4G to 95.5%, Huawei, Nokia); **teleStream** + Zero-Touch Broadband; and
+  **Inspur/Shandong** data-centre talks (`geopol.china`). See [[ethiopia--infra-connect]], [[ethio-telecom]].
+  Sources: [[2026-03-09-ethio-telecom-network-expansion-mwc-barcelona-addisstandard]],
+  [[2026-07-16-ethio-telecom-inspur-partnership-techafricanews]].
+- **2026-06** — **MESOB "sovereignty stack" (185 services)** anchored on Fayda (Africa's 2nd-largest ID); Fayda
+  **commercialised into the EIH sovereign wealth fund** (10bn birr cap, authentication-as-a-service). See
+  [[mesob-platform]], [[dpi.govtech]]. Sources:
+  [[2026-06-26-ethiopia-dpi-sovereign-digital-state-mesob-biometricupdate]],
+  [[2026-03-13-fayda-joins-sovereign-wealth-fund-1m-weekly-biometricupdate]].
+- **2026** — **Liberalisation debate & fintech.** Analysts urge a **third operator + $5bn** and treat
+  connectivity as basic infrastructure; a **1.5% Universal Access Fund levy** on Ethio Telecom & Safaricom;
+  **[[dashen-bank|Dashen Bank]]** opened Ethiopia's **first Fayda-based remote accounts**, and **M-PESA LeHulum**
+  went telco-agnostic. Home-grown **Addis Standard critiques** flag mandatory-ID coercion risks. See
+  [[ethiopia--infra-connect]], [[ethiopia--dpi-pay]]. Sources:
+  [[2026-05-18-ethiopia-needs-third-telecom-operator-5bn-reporter]],
+  [[2026-04-07-dashen-bank-first-digital-id-accounts-biometricupdate]],
+  [[2026-02-05-coercion-over-consent-mandatory-digital-id-addisstandard]].
 - **2026-07-15** — **Ethio Telecom + Huawei expand into enterprise/SME digital services.**
   **[[ethio-telecom]]** and **[[huawei]]** are widening their collaboration beyond telecoms infrastructure
   into **cloud, AI, cybersecurity, IoT, data-centre services and digital platforms** for enterprises and SMEs,
@@ -293,8 +316,9 @@ last_reviewed: 2026-07-16
 - [[gov.standards]] · [[capacity.research]] — Fayda self-assessment / standards tailoring.
 - [[dpi.govtech]] — Fayda authentication-as-a-service; MESOB platform; US aid-freeze data disruption.
 - [[infra.connect]] · [[tech.industry]] · [[digital.rural]] — **[[ethio-telecom]]** TechCo
-  transformation ("Next Horizon 2028", base >87m, [[telebirr]]); **[[safaricom-ethiopia]]**
-  12.2m customers / 4G to 57%; Ethio Telecom–[[somcable]] cross-border talks ([[SOM]]).
+  transformation ("Next Horizon 2028", 99.8% coverage, MWC-2026 vendor deals, [[telebirr]]);
+  **[[safaricom-ethiopia]]** fibre + $5bn need; **liberalisation / third-operator** debate; **1.5% UAF levy**;
+  **[[horizon-fiber]]** transit corridor. Full case: [[ethiopia--infra-connect]].
 - [[dpi.exchange]] · [[gov.regional]] · [[finance.mou]] — Mozambique–Ethiopia and
   Zambia–Ethiopia Fayda MoUs (Ethiopia as **South-South DPI exporter**); Safaricom /
   National ID Program / Africom JV.
@@ -317,6 +341,7 @@ last_reviewed: 2026-07-16
 - [[atdi-mozambique]] · [[mozambique-ethiopia-dpi-mou]] · [[dhis2]] · [[ethiopia-moh]] · [[africa-cdc]]
 - [[dhis2-maturity-ethiopia]] · [[echis-ethiopia]] · [[echis-ethiopia-study]] · [[hmis-data-use-index-ethiopia]] · [[gates-foundation]]
 - [[mesob-platform]] · [[ethiopian-ai-institute]] · [[abiy-ahmed]]
+- **Added 2026-07-18 (ETH sweep):** [[faydapass]] · [[dashen-bank]] · [[raxio-group]] · intersection [[ethiopia--infra-connect]]
 - [[digital-ethiopia-2030]] · [[ethio-telecom]] · [[telebirr]] · [[safaricom-ethiopia]] · [[ai-unipod-ethiopia]] · [[undp]] · [[insa-ethiopia]]
 - [[somcable]] · [[central-bank-of-somalia]] · [[deepseek]] · [[microsoft]] · [[gsma]] · [[world-bank]] · [[african-union]] · [[afcfta]]
 - Batch (2026-07-12): [[research-ict-africa]] · [[publish-what-you-fund]] · [[international-aid-transparency-initiative]]

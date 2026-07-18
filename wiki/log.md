@@ -5799,3 +5799,13 @@ DC/infra talks, geopol.china dependency), wingu-africa ($60m RMB raise primary 2
 site/12 subsea/AMS-IX), ethiopian-ai-institute (PM Abiy AI-progress statement 2026-07, AI-education focus; pr-wire noted).
 PRUNED per lint #7: 2026-07-14-raxio-secures-380m (techafricanews) — 3rd outlet of the $380m raise already held on
 raxio-group via 2 sources (2026-07-14 + 2026-07-15); payload identical, kept held, discarded copy.
+
+## 2026-07-18 — ingest(ETH) FINALIZE
+Batch total: 34 sources admitted (5 chunks), 0 leads, 0 discards, 2 pruned (relevant-duplicates: 2025-12-11 banks-harmonize;
+2026-07-14 Raxio $380m). Fayda-dominated; Ethiopia already very mature so batch was mostly updates. Hub ETH.md refreshed:
+new top Recent-developments block (Fayda 46.5m/Makatet, Ethio Telecom MWC/99.8%/Inspur, MESOB sovereignty stack/EIH,
+liberalisation/3rd-operator/UAF, Dashen, critiques); Active topics infra.connect line rewritten; Entities + new intersection.
+1 new intersection (ethiopia--infra-connect); ~6 existing intersections/entities updated. 2 new entities (faydapass resource,
+dashen-bank company) — +2 entities-index rows. places-index ETH row updated. Dead-link lint 0; orphan lint 0/34.
+Home-grown Fayda critique (Addis Standard) captured under colonialism/rights counter-read. new-queue/ETH → done;
+stray new/MANIFEST.md removed.

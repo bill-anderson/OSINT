@@ -6,6 +6,7 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 
 | Entity | Places | Topics | Page |
 |---|---|---|---|
+| Dashen Bank (Ethiopia) | ETH | dpi.pay, dpi.id, include.access | [[dashen-bank]] |
 | Fawry | EGY | dpi.pay, tech.industry, finance.new | [[fawry]] |
 | Blnk | EGY | dpi.pay, finance.new, include.access | [[blnk]] |
 | onebank (Egypt's first digital bank) | EGY | dpi.pay, finance.new | [[onebank-egypt]] |
@@ -1176,6 +1177,7 @@ Databases, registries, datasets, tools and portals consulted repeatedly (entity_
 
 | Resource | Places | Topics | Page |
 |---|---|---|---|
+| FaydaPass (Ethiopia digital-ID wallet) | ETH | dpi.id, dpi.pay | [[faydapass]] |
 | National Digital Services Center (Algeria) | DZA | infra.store, dpi.govtech, geopol.china | [[national-digital-services-center-algeria]] |
 | AventureCloudz (Djezzy sovereign AI cloud) | DZA | tech.ai, infra.store | [[aventurecloudz]] |
 | ALSAT-3B (Algeria Earth-observation satellite) | DZA | data.satellite, capacity.research | [[alsat-3b]] |
