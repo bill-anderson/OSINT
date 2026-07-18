@@ -5680,3 +5680,10 @@ index lines, not stubbed): e-commercial register "Sedjilkoum" (173,651 new/125,1
 platform, import-tracking, agri MIS (farm/land/livestock registers), health patient-transfer, SME economic IS,
 market-supply IS, social cartography portal, lawyers' court portal, 4 higher-ed platforms (Baddari 24 Feb 2026),
 CNC qualifications, tax-data integration, notaries MoU.
+
+## 2026-07-18 — ingest(DZA) chunk 6/8: Payments & fintech
+13 sources admitted. Updated intersection `algeria--dpi-pay`. Entities: bank-of-algeria (govt-body, central bank,
+governor Lebbou; KYC instruction 04-2026; digital-bank/PSP licensing), yassir (company, super-app; Uno acquisition),
+vaulfi (company, stablecoin super-app). 22m+ cards end-Mar 2026 (~18m Edahabia); e-payments +46% YoY 2025 to DZD 939bn
+(~$7bn); ENIE 1.6m TPE; Posty Mob (Algérie Poste–Sonelgaz); BaridiMob virtual card; online stamp-duty; VOLZ DZD 600m
+(first ASF exit); digital-dinar/blockchain track.
