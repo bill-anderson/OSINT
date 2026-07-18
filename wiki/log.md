@@ -5408,3 +5408,10 @@ Rubaya coltan-hub shelling. All 4 moved new→raw.
 its Mar-2024 ban; ACAJ frames it antitrust; 150 kits as Ebola health-data infra); new entities
 [[monacosat-drc-satellite]] ($400m sovereign satellite, DRC–Monaco MoU) and [[fdsu-drc]] (universal-service
 fund, dormant→first Nkamba sites 30 May 2026). All 7 moved new→raw.
+
+### 2026-07-18 · ingest COD · chunk 5/8 — Towers, fibre, data centres & spectrum
+**13 sources admitted.** Completed [[drc--infra-connect]]. New entities [[helios-towers-drc]] (~3,000
+towers; 32m→39m self-reported claims flagged), [[genew-technologies]] (**$1.5bn Congo River fibre** — first
+big Chinese entry), [[acix-drc]] (first distributed IX, DE-CIX), [[paratus-group]] (Goma-Mombasa G2M).
+Gap quantified (30.79% mobile/<0.02% fixed 2023; GSMA 2026 dataset); états généraux; 5G consultation;
+Orange-Vodacom rural solar JV; Raxio/OADC compliance. All 13 moved new→raw.
