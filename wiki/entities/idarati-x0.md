@@ -21,11 +21,18 @@ months. Extends [[digital-morocco-2030]]. See [[MAR]].
 ## Activity in this wiki
 
 - **Operational-phase launch, 8 MoUs (2026-02-10).** [[gov.protect]] Signatories: Youth/Culture, Transport,
-  CNSS, Road Safety Agency, ANCFCC; the wallet uses [[mon-e-id]] for authentication (iDakto + ShareID on
-  architecture). Sources: [[2026-02-13 Morocco launches Idarati X.0 e-government platform (8 MoUs, national digital wallet)]],
-  [[2026-02-13 Morocco signs agreements with iDakto and ShareID for national digital identity wallet]].
+  CNSS, Road Safety Agency (NARSA), ANCFCC; the wallet uses [[mon-e-id]] for authentication (iDakto +
+  ShareID on architecture, built on **IDEMIA** foundations; MTNRA Minister **Amal El Fallah Seghrouchni**;
+  six-month build). Morocco ranks **90th globally / 4th in Africa** on the 2024 UN E-Government
+  Development Index with **600 public services online**. Sources:
+  [[2026-02-13 Morocco launches Idarati X.0 e-government platform (8 MoUs, national digital wallet)]],
+  [[2026-02-13 Morocco signs agreements with iDakto and ShareID for national digital identity wallet]],
+  [[2026-02-12-wearetech-morocco-idarati-x0-egov-architecture]],
+  [[2026-02-12-biometricupdate-idakto-shareid-digital-wallet-superapp]].
 
 ## Sources
 
 - [[2026-02-13 Morocco launches Idarati X.0 e-government platform (8 MoUs, national digital wallet)]]
 - [[2026-02-13 Morocco signs agreements with iDakto and ShareID for national digital identity wallet]]
+- [[2026-02-12-wearetech-morocco-idarati-x0-egov-architecture]]
+- [[2026-02-12-biometricupdate-idakto-shareid-digital-wallet-superapp]]

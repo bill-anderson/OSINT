@@ -42,6 +42,27 @@ one framework — with sectoral IDs keeping data control with users.
 - **[[MAR]] Digital X.0 law — AI + data + ID (2025-11).** [[gov.legislate]] Morocco's first attempt to
   legislate AI governance, alongside sectoral digital IDs and interoperability, under Law 09-08. Source:
   [[2025-11-07 Morocco introduces 'Digital X.0' law for AI governance, data governance and digital identity]].
+- **[[MAR]] CNIE renewal moves online (2026-05/06).** [[dpi.govtech]] The **[[dgsn-morocco|DGSN]]**
+  digitised most of the national-ID (CNIE) renewal — pre-fill, document upload, residency-certificate
+  tracking and **stamp-fee payment online** via **Epolice.ma** and **cnie.ma**, with only the biometric
+  capture in person (announced at a Rabat open house, 18–22 May; Commissioner Loubna Kikou). Cuts travel
+  and processing time. Sources: [[2026-05-23-wearetech-morocco-digitizes-national-id-renewal]],
+  [[2026-06-02-biometricupdate-morocco-national-id-renewal-online]].
+- **[[MAR]] Idarati X.0 — scale context (2026-02).** [[dpi.govtech]] Morocco ranks **90th globally / 4th
+  in Africa** on the 2024 UN E-Government Development Index with **600 public services online**; the
+  Idarati X.0 wallet binds cross-sector bodies (Youth/Culture, Transport, **CNSS**, **NARSA**, **ANCFCC**)
+  on a CNIE-authenticated core, built by **iDakto/ShareID on IDEMIA** foundations (MTNRA Minister Amal El
+  Fallah Seghrouchni; six-month build). Sources:
+  [[2026-02-12-wearetech-morocco-idarati-x0-egov-architecture]],
+  [[2026-02-12-biometricupdate-idakto-shareid-digital-wallet-superapp]].
+- **[[MAR]] New biometric passport — decree 2.26.551 (2026-07).** [[gov.legislate]] The government council
+  approved (9 Jul) a decree overhauling the 2008 biometric-passport system: **four languages (Arabic,
+  Amazigh, French, English)**, an **encrypted ICAO-aligned chip**, a secured photo on the signature page,
+  **residential address removed** (privacy), and **temporary passports abolished** — plus removal of the
+  exception letting minors obtain a national e-ID via passport applications; a joint Interior/Foreign
+  Affairs body sets procedures. Rollout from **August 2026**. Sources:
+  [[2026-07-10-en-hespress-morocco-new-biometric-passport-amazigh]],
+  [[2026-07-15-biometricupdate-morocco-biometric-passport-legal-framework]].
 
 ## Links
 
@@ -55,3 +76,9 @@ Place: [[MAR]] · Concepts: [[dpi.id]] · [[dpi.registry]] · Entities: [[dgsn-m
 - [[2026-02-13 Morocco signs agreements with iDakto and ShareID for national digital identity wallet]]
 - [[2024-12-04 World Bank approves $70M for Morocco's social protection delivery (RNP and Unified Social Registry)]]
 - [[2025-11-07 Morocco introduces 'Digital X.0' law for AI governance, data governance and digital identity]]
+- [[2026-05-23-wearetech-morocco-digitizes-national-id-renewal]]
+- [[2026-06-02-biometricupdate-morocco-national-id-renewal-online]]
+- [[2026-02-12-wearetech-morocco-idarati-x0-egov-architecture]]
+- [[2026-02-12-biometricupdate-idakto-shareid-digital-wallet-superapp]]
+- [[2026-07-10-en-hespress-morocco-new-biometric-passport-amazigh]]
+- [[2026-07-15-biometricupdate-morocco-biometric-passport-legal-framework]]

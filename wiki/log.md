@@ -6296,3 +6296,16 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
   launch and Vodacom-$40m same-event twins were not multiplied by the sweep (best outlet staged).
 - 1 paywalled `[CLIP]` (migrants-fintech). Starlink foreign-ownership fight = the sharpest sovereignty
   thread; Convalt $6.2bn = largest-ever LSO FDI.
+
+## 2026-07-18 — ingest(MAR) chunk 1/7: Digital identity — CNIE, biometric passport, wallet
+
+- **6 sources admitted** (0 leads, 0 discards).
+- **Intersection updated:** [[morocco--dpi-id]] — CNIE renewal moved online (Epolice.ma/cnie.ma); Idarati
+  X.0 scale context (UN EGDI 90th/4th-Africa, 600 services, IDEMIA/Seghrouchni, cross-sector bodies);
+  new **biometric passport decree 2.26.551** (4 languages incl. Amazigh, ICAO chip, address removed, temp
+  passports abolished, Aug-2026 rollout).
+- **Entities updated:** [[dgsn-morocco]] (CNIE online renewal + biometric passport), [[idarati-x0]]
+  (EGDI ranking + IDEMIA/Seghrouchni/institutions).
+- Dedup (lint #7): CNIE-renewal twins (wearetech 05-23 primary + biometricupdate 06-02 derivative) and
+  Idarati-X.0 twins (02-12 pair) all KEPT as complementary to held material — each carries distinct facts
+  (portals; EGDI ranking/institutions/IDEMIA); attached to existing pages, not new pages.
