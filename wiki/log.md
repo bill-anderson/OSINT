@@ -6337,3 +6337,12 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
 - Note: 4 techreviewafrica items are `provenance_flag: pr-wire` (first-hand ministry/company announcements,
   admissible, dated from explicit Date field).
 - Dedup: overtakes-SA (23 facilities, Global Finance) kept as complementary to held "25+ Casablanca" figure.
+
+## 2026-07-18 — ingest(MAR) chunk 4/7: Connectivity — 5G, fibre, subsea
+
+- **7 sources admitted** (0 leads, 0 discards).
+- **Intersection created:** [[morocco--infra-connect]] — 5G launch (7 Nov 2025, 3 operators); ANRT
+  licensing-via-stability (fees 900m/600m dirham, 25%/70% targets); Maroc Telecom-Inwi FiberCo/TowerCo
+  JVs; Orange-Ericsson; Nokia-Medusa subsea (Europe-North Africa); Vodafone-Maroc Telecom enterprise MoU.
+- **Entities created:** [[inwi]] (company), [[anrt-morocco]] (government-body/regulator), [[nokia]]
+  (company), [[vodafone]] (company).
