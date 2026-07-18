@@ -5355,3 +5355,12 @@ Via Africa + transfrontier fibre + Plateau shared-duct + Moov A2P exclusivity. F
 (Treasury G2P/P2G rail), [[cdc-ci]] (state fund taking fintech equity), [[green-pay]] (fintech),
 [[djogana-pay]] (4th BCEAO e-money licence EME.CI.025/2025). **UEMOA payment interoperability mandatory
 30 Jun 2026** (BCEAO instruction); Visa in discussion; OQSF rating system. All 10 moved new→raw.
+
+### 2026-07-18 · ingest CIV · chunk 9/9 — Skills, innovation, sectoral MIS & investment
+**39 sources admitted.** New intersection [[civ--tech-innovate]] (catch-all); new entities
+[[ivoire-tech-forum]] (100bn fund, 250bn invested/2,965 jobs), [[geoportail-grand-abidjan]]. **Adds the
+`geopol.china` layer** the hub lacked: Huawei ICT competition + China students, Huawei-run Orange GNOC
+(10 yrs), govt super-app pitch, Smart Agriculture (cocoa/EU deforestation). Orange×UNDP skills MoU (5
+outlets); French Tech education pact; Yango continental HQ; VivaTech/African Digital Week; EMIS/SODECI/
+health-MIS; 2026 budget CFA 83.275bn (+37%); digital 6%→15% GDP by 2030. All 39 moved new→raw.
+**new/ now empty of sources — 187 admitted, 0 pruned.**
