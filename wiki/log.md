@@ -5459,3 +5459,11 @@ gov non-payment*, AfDB threatened to walk→>90%→inaugurated per minister Jan 
 (ONG Pratic MoU). **Filed contradiction** `congo-datacentre-afdb-financing` — held **$57m AfDB/$72.8m** vs
 Les Dépêches' recurring **$13m AfDB** (plausibly total-project-incl-fibre vs building-only; both held dated).
 All 5 moved new→raw.
+
+### 2026-07-18 · ingest COG · chunk 2/6 — CARIA, AI strategy, cybersecurity & ANSSI
+**14 sources admitted.** New entities [[caria-congo]] (PATN keystone; **built with China's CAICT AND
+Russia's Sberbank debt-swap for phases 3-4** — dual-patron; training platform), [[anssi-congo]] (under
+Conseil national de sécurité; $1.3m budget, ARPCE-ANSSI MoU, 13th Cyberdrill, first C.African cyber
+conference), [[congo-ai-strategy]] (underway May 2026, UNDP; **lingala/kituba digitisation**). ARPCE
+regulation seminars (EU/HEC advisers) asserted DC-inaugurated + 5G-launched (primaries needed).
+Russia/CARIA rides open **ISSUE-014** (no geopol.russia slug). All 14 moved new→raw.
