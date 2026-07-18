@@ -9,7 +9,7 @@ entities: [[camtel], [intouch], [kiroo-games], [flutterwave], [afriland-first-ba
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-18
-sources: [[2025-05-02-lejour-camtel-blue-money-launch-announced], [2025-12-23-lejour-camtel-ethio-telecom-blue-money], [2025-10-20-lejour-gimacpay-600bn-fcfa-transactions], [2025-06-23-flutterwave-digital-payment-license-beac-ecobank-connectingafrica], [2025-02-21-leconomie-digital-africa-invests-fintech-futa], [2025-02-27-kiroo-games-payment-aggregation-monopoly-intouch-wearetech], [2025-10-17-leconomie-trade-finance-banks-vs-fintechs], [2026-03-12-leconomie-ai-biometric-fraud-fintech], [2026-03-12-visa-afriland-first-bank-digital-payments-techreviewafrica], [2026-06-23-lejour-momo-helep-sme-treasury], [2026-06-23-cnef-bankcompar-financial-literacy-platform-itweb], [2026-07-09-beac-joins-papss-cross-border-payments-cemac-techafricanews]]
+sources: [[2025-05-02-lejour-camtel-blue-money-launch-announced], [2025-12-23-lejour-camtel-ethio-telecom-blue-money], [2025-10-20-lejour-gimacpay-600bn-fcfa-transactions], [2025-06-23-flutterwave-digital-payment-license-beac-ecobank-connectingafrica], [2025-02-21-leconomie-digital-africa-invests-fintech-futa], [2025-02-27-kiroo-games-payment-aggregation-monopoly-intouch-wearetech], [2025-10-17-leconomie-trade-finance-banks-vs-fintechs], [2026-03-12-leconomie-ai-biometric-fraud-fintech], [2026-03-12-visa-afriland-first-bank-digital-payments-techreviewafrica], [2026-06-23-lejour-momo-helep-sme-treasury], [2025-06-23-cnef-bankcompar-financial-literacy-platform-itweb], [2026-07-09-beac-joins-papss-cross-border-payments-cemac-techafricanews]]
 ---
 
 # Cameroon × Digital payments
@@ -51,7 +51,7 @@ online payments via MoMo), with the state now pushing in three directions: a **s
   **MoMo Helep** SME-treasury product (2026); a trade-finance market survey pitting banks against local
   fintechs; and Smile ID data that **AI drives 70% of biometric fraud in Africa** (Mar 2026), bearing on
   the CNI/KYC stack. Sources:
-  [[2026-06-23-cnef-bankcompar-financial-literacy-platform-itweb]],
+  [[2025-06-23-cnef-bankcompar-financial-literacy-platform-itweb]],
   [[2026-06-23-lejour-momo-helep-sme-treasury]],
   [[2025-10-17-leconomie-trade-finance-banks-vs-fintechs]],
   [[2026-03-12-leconomie-ai-biometric-fraud-fintech]].
