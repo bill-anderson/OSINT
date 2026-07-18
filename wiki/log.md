@@ -4642,3 +4642,69 @@ referenced without their own pages.
 
 **Teardown.** `new/` drained to empty (17 in = 17 admitted + 0 leads + 0 discards + 0 needs-clip).
 `new-queue/MRT/` reduced to `MANIFEST.md` husk — deleted. Committed.
+
+## 2026-07-18 — Batch ingest: SDN (Sudan) — Phase-2 sweep, smallest pending folder
+
+**Run.** Single-folder batch ingest per `sweep/ingest-runbook.md`. Interruption recovery clean (`new/` empty;
+no half-torn-down folder — `done/` held only AGO/ERI/GNB/MRT, none pending). Claimed **SDN** — smallest
+pending folder (17 candidates); no `in-progress` ledger row. Copied folder to `new-queue/done/SDN/`
+(backup/review trail) before any moves.
+
+**Screen.** All 17 candidates are full-text clips — **no flagged summaries** (0 needs-clip). All admissible:
+12 SUNA (Sudanese state agency — Port-Sudan government voice, `provenance_flag: state-agency`, capture ≠
+endorsement; RSF/"systematic targeting" attributions are the government's framing) + 5 trade-journal
+(TechAfrica News ×4, Telecom Review Africa ×1). No AI syntheses, **no discards**.
+
+**Dedup.** The two **Horizon Fiber** items (2026-02-04 SUNA signing-ceremony + 2026-02-10 Telecom Review
+Africa binding-deal) are same-event/different-outlet but **complementary, both admitted** — SUNA carries the
+~2,700 km wartime-build + Chad/Ethiopia routes; Telecom Review carries the Dec-2024 MoU origin + CEO quotes.
+Not relevant-duplicates. **SUDAPASS launch (21 May 2026) supersedes** the held "imminent/preparing" status
+(Jan–Feb 2026) — supersession dated inline on [[sudapass]], [[SDN]] and [[dpi.id]], **not** a contradiction
+(no file opened). No contradictions filed.
+
+**Sources.** 17 admitted to `raw/` with `YYYY-MM-DD Title` filenames (staged kebab names renamed on ingest,
+per GNB/MRT precedent); `ingested: 2026-07-18` added; `retrieved:`/`sweep_batch:` kept. All
+`date_source: source`, `date_precision: day` (SUNA serves clean in-body Gregorian datelines; the one
+Eastern-numeral dateline — Bankak-fraud ٢/٢٢ — converted at sweep time). Two staged entity-list corrections:
+dropped `[[sudan-electricity-holding-company]]` (not named in the energy body) and `[[zain-fintech]]` (Zain
+Group sub-brand, folded into [[bede-wallet]]/[[zain-sudan]]).
+
+**Entities.** Created **20**: companies `sudatel`, `sudani-telecom`, `mtn-sudan`, `network-international`,
+`saudi-sudanese-bank`, `national-workers-bank-sudan`; initiatives `horizon-fiber`, `bede-wallet`,
+`baladna-platform-sudan`, `isali`, `unified-social-registry-sudan`, `afia-platform-sudan`, `bankak`;
+government bodies `central-bank-of-sudan`, `national-electronic-certification-authority-sudan`,
+`civil-registry-sudan`, `ministry-of-finance-sudan`, `tax-authority-sudan`, `sudan-customs-authority`,
+`ministry-of-energy-sudan`, `ministry-of-health-sudan`, `ministry-human-resources-social-welfare-sudan`,
+`national-investment-authority-sudan`, `communications-postal-regulatory-authority-sudan`; organisation
+`world-health-organization` (XGL); instrument `asycuda` (XGL, UNCTAD). *(26 pages total across the batch.)*
+Updated **6**: `sudapass` (**now LIVE** 2026-05-21), `ministry-digital-transformation-sudan` (2026 build-out
+— SUDAPASS/Afia/social-registry/USSD/operators), `bank-of-khartoum` (Bankak fraud + Bankak link),
+`sudanese-cybersecurity-authority` (SUDAPASS role), `ethio-telecom` + `djibouti-telecom` (Horizon Fiber).
+
+**Places/concepts.** `SDN` hub substantially reworked: intro reframed (Port-Sudan digital-state build +
+wartime survival rails); Recent developments rebuilt reverse-chron with the 17 new items folded in (Horizon
+and Isali consolidated); topics frontmatter +dpi.registry/dpi.mis/gov.protect/gov.regional/infra.energy/
+finance.mou/geopol.gulf/capacity.training/tech.industry/digital.localgov; Active topics + Entities sections
+rewritten. Concept updates: `dpi.id` per-place SDN entry updated to **SUDAPASS live** (+source); SDN added to
+`places:` frontmatter of 10 concept pages (dpi.registry, dpi.mis, infra.energy, finance.mou, geopol.gulf,
+capacity.training, tech.industry, digital.localgov, gov.regional, gov.protect) with `last_reviewed` bumped.
+No intersection created — SDN's material is a single-country thematic narrative, correctly on the hub (not
+matrix-shaped).
+
+**Indexes.** entities-index (+26 rows across Companies/Organisations/Government bodies/Initiatives/
+Instruments), topics-index (+SDN on 8 topic lines: dpi.registry, dpi.mis, infra.energy, finance.mou,
+geopol.gulf, capacity.training, tech.industry, digital.localgov), places-index (SDN row topic summary
+refreshed).
+
+**Gap filed.** **GAP-SDN-002** — four in-window SDN developments logged `off-source-scope` by the sweep
+(CBoS NIPS/EBS national payment switch; CBoS Al-Asjad licence revocation; Baladna "28 digital services";
+Khartoum data-centre reopening) need primary/designated sourcing; the national payment switch is a DPI
+keystone currently unrepresented against the Bankak-concentration thesis.
+
+**Gap partially resolved.** Creating [[central-bank-of-sudan]] this batch closes the CBoS half of the
+pre-existing **GAP-SDN-002** (Zain-Group page + DFS-report date verification remain open); item updated in
+`reviews/gaps.md`. My new off-source-scope lead was numbered **GAP-SDN-003** (GAP-SDN-001/002 pre-existed).
+
+**Teardown.** `new/` empty throughout (staged files git-mv'd straight to `raw/`, 17 in = 17 admitted +
+0 leads + 0 discards + 0 needs-clip). `new-queue/SDN/` reduced to `MANIFEST.md` husk — deleted (copy
+preserved in `new-queue/done/SDN/`). Committed.

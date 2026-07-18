@@ -6,8 +6,8 @@ places: [SDN]
 topics: [infra.cybersec, gov.policy]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-16
-sources: [[2025-11-07 Sudan Establishes Three Digital Authorities to Advance E-Govt]]
+last_reviewed: 2026-07-18
+sources: [[2025-11-07 Sudan Establishes Three Digital Authorities to Advance E-Govt], [2026-05-21 Sudan launches national digital identity SUDAPASS (SUNA)]]
 ---
 
 # Sudanese Cybersecurity Authority
@@ -19,3 +19,12 @@ Charged with building a national cybersecurity framework and protecting public d
 
 Context: Sudan ranked **Tier 4** (score 48.17/100) on cybersecurity in 2024; the authority is
 stood up amid conflict, weak infrastructure and a skills shortage. See [[infra.cybersec]].
+
+## Activity in this wiki
+
+- **SUDAPASS implementation (2026-05).** Co-implemented the launch of the
+  **[[sudapass]]** national digital ID (with the
+  **[[national-electronic-certification-authority-sudan]]** and the
+  **[[civil-registry-sudan]]**) — providing the cybersecurity layer for Sudan's
+  national digital-identity infrastructure. See [[dpi.id]]. Source:
+  [[2026-05-21 Sudan launches national digital identity SUDAPASS (SUNA)]].

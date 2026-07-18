@@ -226,11 +226,12 @@ in the same batch and is now held; instrument upgraded stub→active. See log.md
   AML or data-protection legal framework. *Lead: source the primaries to anchor [[gov.legislate]] /
   [[gov.protect]] for SDN.* (Recorded batch, 2026-07-16.)
 
-- **GAP-SDN-002 · Sudan payments/telecom parents page-less.** **Central Bank of Sudan (CBOS)** (payments/AML
-  authority) and **Zain Group** (parent of [[zain-sudan]]) recur but have no entity pages; and the artefact
+- **GAP-SDN-002 · Sudan payments/telecom parents page-less (partially resolved).** ~~**Central Bank of
+  Sudan (CBOS)**~~ page created as [[central-bank-of-sudan]] (SDN ingest, 2026-07-18). **Still open:**
+  **Zain Group** (parent of [[zain-sudan]]) recurs but has no entity page; and the artefact
   `2026-07-16 Building Resilience through Digital Financial Services in Sudan` carries an **unverified
-  publication date** (filed `date_source: proxy`). *Leads: create CBOS/Zain-Group pages; verify and re-prefix
-  the DFS report date.* (Recorded batch, 2026-07-16.)
+  publication date** (filed `date_source: proxy`). *Leads: create the Zain-Group page; verify and re-prefix
+  the DFS report date.* (Recorded batch, 2026-07-16; CBoS half resolved 2026-07-18.)
 
 - **GAP-SSD-001 · South Sudan's de-facto tax/revenue DPI unsourced.** A privately-owned national tax/revenue
   platform (associated with Adut Salva Kiir Mayardit) is described as load-bearing fiscal DPI in South Sudan,
@@ -525,3 +526,13 @@ in the same batch and is now held; instrument upgraded stub→active. See log.md
   each from its primary (MTNIMA / taqadoumy / mtnima.gov.mr strategy PDFs) and capture as reference
   instruments, so [[tech.ai]] and [[infra.cybersec]] claims for Mauritania have a citable home.* *(Surfaced
   MRT sweep ingest, 2026-07-18.)*
+
+- **GAP-SDN-003 · Significant in-window Sudan digital developments surfaced only on non-designated
+  outlets and were not staged/sourced.** The SDN sweep manifest logged four load-bearing developments as
+  `off-source-scope` (found on Reuters/Dabanga/ITWeb-class outlets outside the two designated newspapers +
+  eight trade journals): the **CBoS NIPS instant-payment tender + national payment switch / EBS**; the
+  **CBoS revocation of Al-Asjad's licence** (UAE-ties controversy); the **Baladna "28 digital services"
+  launch** (would deepen the [[baladna-platform-sudan]] profile); and a **Khartoum data-centre reopening**.
+  Each needs primary/designated sourcing to compile. *Lead: source these from primaries (CBoS notices,
+  Baladna/ministry announcements) and compile — the national payment switch in particular is a DPI keystone
+  currently unrepresented against the Bankak-concentration thesis.* *(Surfaced SDN sweep ingest, 2026-07-18.)*

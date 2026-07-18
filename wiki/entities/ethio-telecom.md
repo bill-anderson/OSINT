@@ -6,7 +6,7 @@ places: [ETH]
 topics: [infra.connect, dpi.pay, tech.industry, tech.ai, infra.store]
 status: active
 last_reviewed: 2026-07-16
-sources: [[2026-07-15 Ethio Telecom, Huawei expand digital push], [2026-01-30 Inside Ethio Telecom's bold TechCo transformation], [2026-01-29 Ethio Telecom, Somcable talk cross-border collaboration], [2026-01-07 Why Ethiopia, Somalia and Djibouti are starting to matter in digital Africa], [2025-12-04 Is it a bird Is it plane No, Jim, it's an African mobile operator, but not as we know it 9], [2025-08-21 Ethio Telecom expands 4G capacity with Huawei], [2024-09-24 Ethio Telecom pursues Shandong Hi-Speed hyperscale data-centre partnership]]
+sources: [[2026-07-15 Ethio Telecom, Huawei expand digital push], [2026-02-10 Ethio telecom, Djibouti Telecom, Sudatel Seal Binding Deal on Cross-Border Fiber Network], [2026-01-30 Inside Ethio Telecom's bold TechCo transformation], [2026-01-29 Ethio Telecom, Somcable talk cross-border collaboration], [2026-01-07 Why Ethiopia, Somalia and Djibouti are starting to matter in digital Africa], [2025-12-04 Is it a bird Is it plane No, Jim, it's an African mobile operator, but not as we know it 9], [2025-08-21 Ethio Telecom expands 4G capacity with Huawei], [2024-09-24 Ethio Telecom pursues Shandong Hi-Speed hyperscale data-centre partnership]]
 ---
 
 # Ethio Telecom
@@ -19,6 +19,12 @@ than a pure connectivity operator, anchoring the [[telebirr]] platform and align
 
 ## Activity in this wiki
 
+- **Horizon Fiber cross-border corridor (2026-02).** Joined **[[djibouti-telecom]]**
+  and Sudan's **[[sudatel]]** to launch the **[[horizon-fiber]]** multi-terabit
+  terrestrial fibre corridor from Djibouti's subsea landing stations through
+  Ethiopia to Sudan — MoU (Dec 2024) converted to a **binding agreement**
+  (Feb 2026). See [[infra.connect]], [[gov.regional]], [[SDN]], [[DJI]]. Source:
+  [[2026-02-10 Ethio telecom, Djibouti Telecom, Sudatel Seal Binding Deal on Cross-Border Fiber Network]].
 - **Huawei enterprise/SME digital push (2026-07-15).** Expanding its **[[huawei]]** collaboration beyond
   telecoms infrastructure into **cloud, AI, cybersecurity, IoT, data-centre services and digital platforms**
   for enterprises and SMEs, under **Next Horizon: Digital & Beyond 2028** (CEO Frehiwot Tamru met Huawei N.

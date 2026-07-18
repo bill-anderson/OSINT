@@ -2,11 +2,11 @@
 type: concept
 title: Digitalisation of sub-national government
 slug: digital.localgov
-places: [MWI, CMR, CIV, DZA]
+places: [MWI, CMR, CIV, DZA, SDN]
 entities: [[blantyre-city-council], [malawi-revenue-authority], [undp], [maposte]]
 lens: []
 status: active
-last_reviewed: 2026-07-14
+last_reviewed: 2026-07-18
 sources: [[2026-03-06 Malawi's second city digitises tax collection], [2026-01-13 Cameroon intros digital system for civil documents]]
 ---
 

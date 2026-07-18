@@ -2,11 +2,11 @@
 type: concept
 title: Energy
 slug: infra.energy
-places: [AGO, XAF, CAF, ZAF, NGA, KEN, ETH, MAR, SOM]
+places: [AGO, XAF, CAF, ZAF, NGA, KEN, ETH, MAR, SOM, SDN]
 entities: [[cassava-technologies], [kasi-cloud], [nsia], [ncc], [microsoft-sa-2026-expansion], [microsoft], [equinix], [equinix-sa-438m-expansion], [mtn-group], [africa-data-centres], [liquid-c2]]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-16
+last_reviewed: 2026-07-18
 sources: [[2026-06-23 Africa's Data Centre Boom Where The New Facilities Are Being Built], [2026-06-04 Equinix faces challenge to Cape Town data centres over environmental concerns], [2026-02-25 South Africa puts data centres on par with energy, ports in big policy shift], [2026-07-09 Microsoft and G42 data center in Kenya stalled due to lack of power capacity], [2026-05-21 Africa Data Center Investment 2026 The $4.5B Race and the Power Problem], [2026-02-26 Lagos Is Getting a $250 Million Hyperscale Data Center. Here's Why Nigeria Still Can't Power the Cloud], [2026-05-22 Why global hyperscalers are avoiding Nigeria despite Africa's biggest market], [2026-04-17 Microsoft picks South Africa for $329 million expansion in cloud infrastructure and AI training], [2026-04-15 Microsoft secures land for future South Africa data centre growth], [2026-04-14 Africa's data centres rethink power as grids falter], [2026-03-28 MTN makes big bet on AI data centres in South Africa], [2026-04-01 US data centre firm Equinix is investing $438 million in South Africa], [2026-04-01 US tech giant from Silicon Valley buys R890 million worth of land in South Africa], [2026-02-10 AI in Africa Barriers, opportunities and policy], [2026-07-01 Strategy Ahead of Infrastructure, Part I Inside the CBN's June 2026 Payments Circular], [2026-06-01 Africa's Place in the AI Sovereignty Debate]]
 ---
 

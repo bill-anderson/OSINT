@@ -7,6 +7,12 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 | Entity | Places | Topics | Page |
 |---|---|---|---|
 | Chinguitel (Mauritania telecom operator) | MRT | infra.connect, geopol.china | [[chinguitel]] |
+| Sudatel (Sudatel Telecom Group) | SDN | infra.connect, gov.regional, tech.industry | [[sudatel]] |
+| Sudani (Sudatel domestic operator) | SDN | infra.connect, tech.industry | [[sudani-telecom]] |
+| MTN Sudan | SDN | infra.connect, capacity.training, include.access | [[mtn-sudan]] |
+| Network International | SDN, XGL | dpi.pay, finance.mou | [[network-international]] |
+| Saudi Sudanese Bank | SDN | dpi.pay, finance.new | [[saudi-sudanese-bank]] |
+| National Workers Bank (Sudan) | SDN | dpi.pay, dpi.govtech | [[national-workers-bank-sudan]] |
 | Mauritel (Mauritania telecom operator) | MRT | infra.connect | [[mauritel]] |
 | Mattel (Mauritania telecom operator) | MRT | infra.connect | [[mattel]] |
 | Rimatel (Mauritania telecom operator, new entrant) | MRT | infra.connect | [[rimatel]] |
@@ -197,6 +203,7 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 | Entity | Places | Topics | Page |
 |---|---|---|---|
 | European Investment Bank (EIB) | MRT, XGL | infra.connect, infra.store, finance.new, geopol.eu | [[eib]] |
+| World Health Organization (WHO) | XGL | dpi.mis, dpi.govtech | [[world-health-organization]] |
 | Islamic Development Bank (IsDB) | MRT, XGL | finance.mou, geopol.gulf, gov.policy | [[islamic-development-bank]] |
 | UNCTAD (UN Conference on Trade and Development) | XGL | gov.policy, data.statistics, dpi.pay | [[unctad]] |
 | Southern African Development Community (SADC) | XSA | gov.regional, infra.connect, dpi.exchange | [[sadc]] |
@@ -358,6 +365,17 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 | Entity | Places | Topics | Page |
 |---|---|---|---|
 | Central Bank of Mauritania (BCM) | MRT | dpi.pay, infra.store, finance.new, infra.cybersec | [[central-bank-mauritania]] |
+| Central Bank of Sudan (CBoS) | SDN | dpi.pay, finance.new, infra.cybersec | [[central-bank-of-sudan]] |
+| National Electronic Certification Authority (Sudan) | SDN | infra.cybersec, dpi.id, dpi.govtech | [[national-electronic-certification-authority-sudan]] |
+| Civil Registry (Sudan) | SDN | dpi.id, dpi.registry | [[civil-registry-sudan]] |
+| Ministry of Finance (Sudan) | SDN | dpi.pay, dpi.govtech, finance.new | [[ministry-of-finance-sudan]] |
+| Tax Authority (Sudan, Diwan al-Daraib) | SDN | dpi.govtech, dpi.pay | [[tax-authority-sudan]] |
+| Sudan Customs Authority | SDN | dpi.govtech, dpi.exchange, infra.connect | [[sudan-customs-authority]] |
+| Ministry of Energy (Sudan) | SDN | infra.energy, infra.connect | [[ministry-of-energy-sudan]] |
+| Ministry of Health (Sudan) | SDN | dpi.mis, dpi.govtech | [[ministry-of-health-sudan]] |
+| Ministry of Human Resources and Social Welfare (Sudan) | SDN | dpi.registry, include.access, gov.policy | [[ministry-human-resources-social-welfare-sudan]] |
+| National Investment Authority (Sudan) | SDN | dpi.govtech, finance.new | [[national-investment-authority-sudan]] |
+| Communications and Postal Regulatory Authority (Sudan) | SDN | infra.connect, dpi.pay, gov.legislate | [[communications-postal-regulatory-authority-sudan]] |
 | Autorité de Protection des Données (APD, Mauritania) | MRT | gov.protect, gov.policy | [[apd-mauritania]] |
 | Digital Governance Unit (UGD, Madagascar) | MDG | dpi.exchange, dpi.govtech | [[ugd-madagascar]] |
 | ARN-TIC (National Regulatory Authority for ICT, Guinea-Bissau) | GNB | infra.connect, gov.legislate, include.access | [[arn]] |
@@ -615,6 +633,13 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 | Entity | Places | Topics | Page |
 |---|---|---|---|
 | EllaLink (Mauritania second submarine cable) | MRT, XWA | infra.connect, geopol.eu, finance.new | [[ellalink]] |
+| Horizon Fiber (Djibouti–Ethiopia–Sudan corridor) | SDN, DJI, ETH, XEA | infra.connect, gov.regional, finance.mou | [[horizon-fiber]] |
+| Baladna (Sudan national e-gov platform) | SDN | dpi.govtech, dpi.id, dpi.exchange | [[baladna-platform-sudan]] |
+| Bede (Zain digital wallet, Sudan) | SDN | dpi.pay, finance.new, include.access | [[bede-wallet]] |
+| Bankak (Bank of Khartoum mobile-money app) | SDN | dpi.pay, include.access, infra.cybersec | [[bankak]] |
+| Isali (Sudan government e-collection) | SDN | dpi.pay, dpi.govtech, digital.localgov | [[isali]] |
+| Unified Social Registry (Sudan) | SDN | dpi.registry, dpi.id, include.access | [[unified-social-registry-sudan]] |
+| Afia (Sudan health-sector platform) | SDN | dpi.mis, dpi.govtech | [[afia-platform-sudan]] |
 | ACE — Africa Coast to Europe submarine cable | MRT, XWA, XAF | infra.connect | [[ace-cable]] |
 | PAMIF (Mauritania financial-infrastructure modernisation) | MRT | dpi.pay, finance.new, include.access, infra.store | [[pamif]] |
 | PAFIID (Mauritania inclusive-finance support programme) | MRT | dpi.pay, infra.cybersec, include.access | [[pafiid]] |
@@ -1055,6 +1080,7 @@ about or from one becomes a normal source that cites it.
 | Instrument | Places | Topics | Page |
 |---|---|---|---|
 | Mozambique Personal Data Protection Law (proposed) | MOZ | gov.protect, gov.legislate | [[mozambique-data-protection-law]] |
+| ASYCUDA (Automated System for Customs Data, UNCTAD) | XGL, SDN | dpi.govtech, dpi.exchange, infra.connect | [[asycuda]] |
 | A Blueprint for Mauritius — Digital Transformation 2025-2029 | MUS | gov.policy, dpi.govtech, dpi.id | [[mauritius-digital-blueprint-2025-2029]] |
 | Namibia Civil Registration and Identification Act, 2024 | NAM | dpi.registry, dpi.id, gov.legislate | [[namibia-civil-registration-identification-act-2024]] |
 | Namibia Payment System Management Act 14 of 2023 | NAM | dpi.pay, gov.legislate | [[namibia-payment-system-management-act-2023]] |

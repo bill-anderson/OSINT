@@ -6,19 +6,31 @@ places: [SDN]
 topics: [dpi.id, dpi.govtech, include.access]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-16
-sources: [[2026-01-29 How to build trust alongside Sudan's digital identity system], [raw/2026-02-02 Sudan's planned national digital ID could strengthen recovery push - Experts]]
+last_reviewed: 2026-07-18
+sources: [[2026-01-29 How to build trust alongside Sudan's digital identity system], [raw/2026-02-02 Sudan's planned national digital ID could strengthen recovery push - Experts], [2026-05-21 Sudan launches national digital identity SUDAPASS (SUNA)]]
 ---
 
 # SudaPass
 
-Sudan's planned **unified national digital identity platform**, announced by the
-Ministry of Telecommunications & Digital Transformation as part of the wider
-**Baladna** e-government programme, and positioned as a foundation for
-post-conflict recovery and state coherence.
+Sudan's **unified national digital identity platform**, run by the Ministry of
+Digital Transformation & Communications as part of the wider **[[baladna-platform-sudan|Baladna]]**
+e-government programme, and positioned as a foundation for post-conflict recovery
+and state coherence. **Launched 21 May 2026** after a preparation period through
+early 2026.
 
 ## Activity in this wiki
 
+- **LAUNCHED (2026-05-21).** Sudan's Ministry of Digital Transformation and
+  Telecommunications formally launched SUDAPASS, implemented via the
+  **[[sudanese-cybersecurity-authority]]** and the
+  **[[national-electronic-certification-authority-sudan]]**, in partnership with
+  the Interior Ministry's **[[civil-registry-sudan]]**. It enables secure access
+  to government and private services, electronic transactions and legally-
+  recognised **digital signatures**, spanning government, banking, telecoms,
+  education and health. This **supersedes** the earlier "imminent/preparing"
+  status (Jan–Feb 2026) — SUDAPASS is now live. See [[dpi.id]], [[dpi.govtech]],
+  [[infra.cybersec]]. Source:
+  [[2026-05-21 Sudan launches national digital identity SUDAPASS (SUNA)]].
 - **Preparing for launch (as of 2026-01).** SudaPass is being readied to unify
   fragmented registries — ministries currently use different identifiers and
   humanitarian agencies run parallel databases — into a single identity layer to
@@ -48,5 +60,6 @@ post-conflict recovery and state coherence.
 
 ## Sources
 
+- [[2026-05-21 Sudan launches national digital identity SUDAPASS (SUNA)]]
 - [[2026-01-29 How to build trust alongside Sudan's digital identity system]]
 - [[2026-02-02 Sudan's planned national digital ID could strengthen recovery push - Experts]]
