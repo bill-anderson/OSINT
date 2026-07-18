@@ -5852,3 +5852,11 @@ Hub GAB.md refreshed (data-centre inauguration $14m, ANINF-MITRE, GABIX, Gabon C
 pillars; connectivity Airtel/Moov/GABIX; cyber/DP section; entities + intersections). places-index GAB row rewritten.
 Dead-link lint 0; orphan lint 0/39. GAP-GAB-001 narrowed (APDPVP authority now sourced; DP statute still open);
 GAP-GAB-003 narrowed (Visa element now sourced; vendor-role disambiguation still open). new-queue/GAB → done.
+
+## 2026-07-18 — ingest(GHA) chunk 1/7: Digital ID (Ghana Card / NIA / SIM)
+19 sources admitted. Updated national-identification-authority-ghana (L.I. 2111 biometric-only verification / photocopying
+criminalised GH¢24k fine 2026-07-15; NIA Act 707 restructure under Interior + law-enforcement DB access; 640k backlog cleared
++ diaspora; child 6-14 enrolment 3.1m + mandatory biometric; NIA 20 years; Baiden "most-integrated" 19.4m/92%/262 institutions)
+and ghana--dpi-id (SIM-ID overhaul: 2021-23 registration invalid / 2022 biometrics never authenticated → fresh 2026 drive +
+liveness + Ghana Card single source of truth + MTN phased; Births&Deaths Registry backlog). Confirms NIA Act 707 basis
+(narrows GAP-GHA-002).

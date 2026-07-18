@@ -71,6 +71,22 @@ African-owned national ID system**, via Margins to The Gambia.
   [[2026-01-28 Margins ID Group emerges as Africa's leading provider of certified digital identity solutions]],
   [[2026-01-20 Margins takes Ghana's ID success to The Gambia]].
 
+## SIM–ID overhaul (2025–26)
+
+Ghana declared its **2021–2023 SIM registration invalid** — officials confirmed the **2022 SIM biometrics were
+never authenticated against the NIA database** — and ordered a **fresh nationwide biometric SIM drive from Q1
+2026**, with **facial-liveness detection** tied to the NIA DB (80% self-service), the **Ghana Card as the single
+source of truth** ("non-negotiable"), and operators (MTN, CEO Blewett) backing a **phased re-registration**.
+Sources: [[2025-10-13-ghana-2022-sim-biometric-never-authenticated-biometricupdate]],
+[[2025-12-05-ghana-new-sim-registration-2026-telecomreview]],
+[[2026-03-20-ghana-liveness-detection-sim-verification-biometricupdate]],
+[[2026-03-23-ghana-card-non-negotiable-sim-graphic]], [[2026-03-25-mtn-ghana-backs-phased-sim-reregistration-techafricanews]].
+
+## Civil registration
+
+The **Births & Deaths Registry** received **181,000 security papers** and began clearing its CRVS
+certificate backlog (2025-07). Source: [[2025-07-16-births-deaths-registry-backlog-graphic]].
+
 ## Links
 
 Place: [[GHA]] · Recipient: [[GMB]] · Concepts: [[dpi.id]] · [[dpi.registry]] · [[dpi.pay]] · Entities: [[national-identification-authority-ghana]] · [[ghana-card]] · [[margins-id-group]]
