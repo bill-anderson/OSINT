@@ -5304,3 +5304,11 @@ banks as a KYC utility** via SocGen, ID4Africa 2026; **on-time birth registratio
 counter-current), [[wuri-programme]] (CIV social-eval restitution, 10 sous-préfectures, CMU linkage),
 [[maposte]] (digital post boxes mandatory 1 Mar 2026). IOM MIDAS border (Kalamon CIV-BFA, Japan-funded,
 ANSSI/DST). All 14 moved new→raw. Hub roll-up deferred to finalize.
+
+### 2026-07-18 · ingest CIV · chunk 2/9 — GovTech, e-justice & interoperability
+**22 sources admitted.** Expanded [[civ--dpi-govtech]]: **e-Justice arc dated end-to-end** (30 Jan 2025
+2-court pilot → 39 tribunals 30 Jun 2026; corrects the hub's compression — 18 Jun 2025 was the *decree*,
+not the launch); UXP interop corroborated + Estonian lineage (Cybernetica/12 pilots; Estonia DPI study);
+GUCE trade single-window ↔ DGI data exchange; **232-service PADCI mapping**; e-mining cadastre, Tradepost,
+transport platform. New entities [[emy-101]] (govt AI chatbot), [[guce-ci]] (trade single window). SDSI
+re-dated 2025-12-16 (second outlet). All 22 moved new→raw.
