@@ -6234,3 +6234,15 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
 - **Contradiction filed:** `lesotho-convalt-kobong-deal-legal-status` — binding MoA (Tech Africa News,
   4 Jun signed) vs non-binding MoU/intent (Connecting Africa). Both-sided brief with held URLs; primary
   instrument not held. Pages describe the deal as "agreed" with status disputed (cautious reading noted).
+
+## 2026-07-18 — ingest(LSO) chunk 2/5: Connectivity — Starlink & satellite (sovereignty)
+
+- **6 sources admitted** (0 leads, 0 discards).
+- **Intersection created:** [[lesotho--infra-connect]] (Starlink section; MNO section added chunk 3) —
+  the LSO Starlink licensing saga: Section 2 foreign-ownership objection (Econet 70/30, Vodacom 80/20
+  precedent), LCA 10-year licence amid US 50% tariff politics, T-Connect launch + surveillance/sovereignty
+  fears + M10/session pricing, rural community hotspots + T-Connect Impact (schools/clinics).
+- **Entities created:** [[lesotho-communications-authority]] (government-body/regulator), [[t-connect-lesotho]]
+  (company — exclusive Starlink reseller).
+- Note: 2026-01-17 body carries a "15 January 2025" date that is a typo for 2026 (per 2026-01-17 pub +
+  URL path); `published` kept as 2026-01-17.
