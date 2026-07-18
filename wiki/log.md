@@ -5888,3 +5888,11 @@ interop, cross-border ISO 20022/VASP — RESOLVES GAP-GHA-001), momo-fintech-gha
 $549m 2025), zeepay-ghana (company; DEMI licence revoked 14 Jul 2026, Act 987 s.13). MoMo trajectory GH¢1→1.9→3.01→4.5tn
 (2022-25); GH¢518.4b = Dec-2025 monthly peak (reconciled). Tap-to-pay, Fincra licence, eCedi not abandoned/cross-border
 pivot, 81% Findex inclusion, 0.75% MoMo-bank fee debate, fraud 16,733/GH¢99m, BoG digital-banking framework.
+
+## 2026-07-18 — ingest(GHA) chunk 6/7: AI, cybersecurity & skills
+12 sources admitted. New intersection `ghana--tech-ai` (sovereignty/colonialism lens cluster). Updated
+ghana-national-ai-strategy (Mahama $270m definitive launch Apr 2026 = $250m compute + $20m impl fund; Responsible AI
+Office; KNUST RAIL; cabinet Feb 2026; AI-hub-4-years origin). Home-grown sovereignty debate (declaration; "sovereignty
+paradox / data colonialism" — Ghana rejected US $109m health-data deal; infrastructure-not-ambition; healthcare-not-hype/
+foreign-datasets). BoG Cyber & Info Security Directive 2026 (financial-data localisation, FICSOC, first AI-governance
+framework); Africa's-largest AI-driven security centre (VIA/Exabeam); One Million Coders critique (IMANI); YEA 2,000 youth.

@@ -5,8 +5,8 @@ title: Ghana National AI Strategy (2023–2033)
 places: [GHA]
 topics: [tech.ai, gov.policy, gov.standards, finance.new]
 status: active
-last_reviewed: 2026-07-12
-sources: [[2026-04-03 Ghana approves $250M AI Hub & National AI Strategy], [2026-03-05 Ghana strikes AI training deal with Chinese multinational amid $250m tech investment push], [2026-05-04 The World's Most Needed AI Governance Framework Doesn't Exist Yet. Africa Should Build It]]
+last_reviewed: 2026-07-18
+sources: [[[2026-04-03 Ghana approves $250M AI Hub & National AI Strategy]], [[2026-03-05 Ghana strikes AI training deal with Chinese multinational amid $250m tech investment push]], [[2026-05-04 The World's Most Needed AI Governance Framework Doesn't Exist Yet. Africa Should Build It]], [[2026-04-24-mahama-unveils-10-year-ai-strategy-myjoy]], [[2026-04-25-president-unveils-270m-national-ai-strategy-graphic]], [[2026-02-28-ai-strategy-knust-leadership-myjoy]], [[2025-01-31-ghana-africa-ai-hub-4-years-graphic]]]
 ---
 
 # Ghana National AI Strategy (2023–2033)
@@ -16,6 +16,14 @@ Ghana's ([[GHA]]) national artificial-intelligence strategy, a ten-year roadmap
 with [[smart-africa]], German development agency **GIZ FAIR Forward** and **The
 Future Society**, with an AI Readiness Assessment run with **UNESCO** (EU-funded).
 Implementation is to be overseen by a dedicated Responsible AI Office.
+
+**Definitive launch (2026-04).** President **John Dramani Mahama** unveiled the strategy as a **$270m**
+investment — **$250m for a computing/AI centre + a $20m implementation fund** — to make Ghana West Africa's
+AI hub (ecosystem horizon to ~2035, Responsible AI Office). Cabinet approved it Feb 2026; **KNUST's RAIL**
+led the technical work (2022–25). Traces to a 2025 "Africa's AI hub in 4 years" vision (Minister Sam George).
+See [[ghana--tech-ai]]. Sources: [[2026-04-24-mahama-unveils-10-year-ai-strategy-myjoy]],
+[[2026-04-25-president-unveils-270m-national-ai-strategy-graphic]],
+[[2026-02-28-ai-strategy-knust-leadership-myjoy]], [[2025-01-31-ghana-africa-ai-hub-4-years-graphic]].
 
 ## Activity in this wiki
 
