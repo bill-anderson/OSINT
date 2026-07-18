@@ -6,6 +6,9 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 
 | Entity | Places | Topics | Page |
 |---|---|---|---|
+| GETESA (Equatorial Guinea state telecom operator) | GNQ | infra.connect, geopol.china | [[getesa-gnq]] |
+| Telgesa (Equatorial Guinea 2nd state operator) | GNQ | infra.connect, tech.industry | [[telgesa-gnq]] |
+| BANGE (Banco Nacional de Guinea Ecuatorial) | GNQ | dpi.pay, finance.new | [[bange-gnq]] |
 | Cauridor (Guinea cross-border payments infra) | GIN, XWA | dpi.pay, finance.new | [[cauridor]] |
 | Next-Gen InfraCo (NGIC, Ghana) | GHA | infra.connect, gov.legislate | [[ngic-ghana]] |
 | MobileMoney Fintech Ltd (MTN Ghana MoMo) | GHA | dpi.pay, finance.new | [[momo-fintech-ghana]] |
@@ -432,6 +435,8 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 
 | Entity | Places | Topics | Page |
 |---|---|---|---|
+| GITGE (state telecoms-infra manager, Equatorial Guinea) | GNQ | infra.connect, infra.store | [[gitge-gnq]] |
+| CNIAPGE (public-administration informatisation, Equatorial Guinea) | GNQ | dpi.govtech, gov.policy | [[cniapge-gnq]] |
 | NDASC (National Digital Addressing Steering Committee, The Gambia) | GMB | dpi.govtech, digital.localgov | [[ndasc-gambia]] |
 | GUILAB (Guinéenne de Large Bande) | GIN | infra.connect, infra.store | [[guilab-guinea]] |
 | ANDE (State Digitalisation Agency, Guinea) | GIN | dpi.govtech, gov.policy | [[ande-guinea]] |
@@ -745,6 +750,8 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 
 | Entity | Places | Topics | Page |
 |---|---|---|---|
+| Equatorial Guinea Medusa / Via Africa submarine-cable plans | GNQ | infra.connect, gov.regional | [[gnq-medusa-cable]] |
+| ZEEDE-GE (Djibloho digital economic zone, Equatorial Guinea) | GNQ | infra.store, tech.ai | [[zeede-djibloho]] |
 | PN-RAVEC / RNPP & biometric electoral file (Guinea) | GIN | dpi.id, dpi.registry | [[pn-ravec-guinea]] |
 | DouIA2 / Manifesto of Conakry (Guinea AI) | GIN | tech.ai, gov.policy | [[douia2-guinea]] |
 | Ghana Continental Digital Trade Corridor | GHA, RWA, ZMB | gov.regional, dpi.exchange | [[ghana-continental-digital-trade-corridor]] |
@@ -1199,6 +1206,7 @@ Databases, registries, datasets, tools and portals consulted repeatedly (entity_
 
 | Resource | Places | Topics | Page |
 |---|---|---|---|
+| SIGF (civil-servant management system, Equatorial Guinea) | GNQ | dpi.govtech, dpi.mis | [[sigf-gnq]] |
 | NIMS (National Identity Management System, The Gambia) | GMB | dpi.id, infra.store | [[nims-gambia]] |
 | QGroup House data centre (The Gambia) | GMB | infra.store, geopol.china | [[qgroup-house-datacentre]] |
 | CORIS Money (Guinea) | GIN | dpi.pay, include.access | [[coris-money-guinea]] |
@@ -1296,6 +1304,7 @@ about or from one becomes a normal source that cites it.
 
 | Instrument | Places | Topics | Page |
 |---|---|---|---|
+| Ley 7/2024 (cybercrime / cybersecurity law, Equatorial Guinea) | GNQ | gov.legislate, infra.cybersec | [[ley-7-2024-gnq]] |
 | Gambia Communications Bill 2025 | GMB | gov.legislate, infra.cybersec | [[gambia-communications-bill-2025]] |
 | Guinea National Data Governance Strategy | GIN | gov.policy, gov.protect | [[guinea-data-governance-strategy]] |
 | Guinea 3% foreign-digital-services tax (RCN) & Digital Sovereignty Fund | GIN | gov.legislate, finance.new | [[guinea-digital-services-tax]] |

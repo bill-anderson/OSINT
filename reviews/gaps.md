@@ -170,11 +170,20 @@ in the same batch and is now held; instrument upgraded stub→active. See log.md
   [[GIN]] and [[dpi.mis]]. *Lead: consider sourcing an MSHP/SNIS primary and creating the entity to anchor
   Guinea's [[dpi.mis]] thread.* (Recorded Guinea batch, 2026-07-16.)
 
-- **GAP-GNQ-001 · GITGE has no entity page.** **GITGE** (Gestión de Infraestructuras de Telecomunicaciones
-  de Guinea Ecuatorial) — Equatorial Guinea's state telecom-infrastructure manager operating the Ceiba-1/
-  Ceiba-2 and ACE subsea cables — is referenced only in prose on [[GNQ]]. *Lead: consider sourcing a GITGE
-  primary and creating the `government-body`/`company` entity to anchor [[GNQ]] connectivity.* (Recorded
-  four-country batch, 2026-07-16.)
+*(GAP-GNQ-001 — GITGE has no entity page — RESOLVED, GNQ sweep 2026-07-18: created [[gitge-gnq]]
+(government-body; state telecoms-infra manager, ACE landing/O&M host, authored the ministries digital-gap
+study). See log.md.)*
+
+- **GAP-GNQ-002 · GNQ government-primary sources are cookie-walled / unfetchable.** Several *significant*
+  Equatorial-Guinea digital-governance primaries on **guineaecuatorialpress.com** (the government outlet) could
+  not be captured (cookie-walled, no body/date via the sweep) and are logged as **leads for manual clipping**:
+  the **Huawei e-Government MoU**; the **e-government law** ("acceso a servicios públicos por medios
+  electrónicos"); **BEAC joining PAPSS**; the **Starlink Guinea Ecuatorial** entity creation; the **Jul–Dec 2026
+  connectivity plan** (2G/4G to 85%, Roaming Cero, 34 towers in Annobón); the **unique person/entity ID code**
+  (likely 2023); and the **full text of Ley 7/2024**. *Lead: hand-clip these from guineaecuatorialpress.com (or
+  a fetchable twin) — each is a real, currently-unheld GNQ development.* The sweep also recommends adding
+  **realequatorialguinea.com** and **GITGE/IDENTIC** as standing GNQ sources (curator ledger decision). (Surfaced
+  GNQ sweep, 2026-07-18.)
 
 - **GAP-GMB-001 · Central Bank of The Gambia / GRA under-hubbed.** The **Central Bank of The Gambia** (which
   launched the BANTABA 2.0 instant switch) and the **Gambia Revenue Authority** (e-invoicing) are central to

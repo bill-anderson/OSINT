@@ -6,7 +6,7 @@ parent: XCA
 place_kind: country
 topics: [dpi.id, dpi.registry, dpi.mis, infra.connect, infra.store, gov.policy, dpi.pay, dpi.govtech, gov.regional, data.statistics, tech.industry, include.divides]
 status: active
-last_reviewed: 2026-07-16
+last_reviewed: 2026-07-18
 ---
 
 # Equatorial Guinea (GNQ)
@@ -22,6 +22,25 @@ pronounced **island (Bioko/Malabo) vs continental (Bata)** and gender divide.
 
 ## Recent developments
 
+- **2026 — telecom & cable modernisation.** **[[getesa-gnq|GETESA]]** modernisation (5G/eSIM/Wi-Fi/Getesa
+  Money) with a **[[huawei|Huawei]]** contract; a new 2nd state operator **[[telgesa-gnq|Telgesa]]**; and cable
+  diversification (**[[gnq-medusa-cable|Medusa]]** study, Via Africa) with **[[gitge-gnq|GITGE]]** hosting the ACE
+  consortium. See [[gnq--infra-connect]]. Sources:
+  [[2026-05-25-getesa-modernizacion-5g-wifi-getesa-money-reg]], [[2026-04-03-estudio-cable-submarino-medusa-analysys-mason-reg]].
+- **2026 — e-government & data centres.** The **[[sigf-gnq|SIGF]]** civil-servant system (M2M Group, biometric
+  attendance/payroll); **PAMFP** government data centres (Malabo/Bata); a **[[zeede-djibloho|ZEEDE-GE]]** digital
+  zone; and a **[[gitge-gnq|GITGE]]** ministries digital-gap study (interop ~15%). See [[gnq--dpi-govtech]],
+  [[gnq--infra-store]]. Sources: [[2026-02-20-sigf-activa-funcion-publica-18-meses-reg]],
+  [[2026-06-03-pamfp-licitacion-centros-datos-malabo-bata-reg]].
+- **2026 — cyber & data law.** GNQ (the host state) **ratified the [[malabo-convention|Malabo Convention]]** (25
+  Mar 2026) and rolled out **[[ley-7-2024-gnq|Ley 7/2024]]** (cybercrime/social-media/privacy; creates the ANCIC
+  cyber agency). See [[gnq--dpi-govtech]]. Source: [[2026-03-25-ratifican-convencion-malabo-ciberseguridad-datos-reg]].
+- **2025–26 — payments cash-lite drive.** A national **ATM/POS plan**, VP bank-sector directives (5 banks + BEAC),
+  **[[bange-gnq|BANGE MOBILE GE]]** and Getesa Money — bottlenecked by connectivity. See [[gnq--dpi-pay]]. Source:
+  [[2026-02-25-vp-banca-cajeros-tpv-pago-electronico-reg]].
+- **2025 — regional & partners.** **Gabon–GNQ** fibre/roaming/frequency accords (Mongomo); **[[cniapge-gnq|CNIAPGE]]**
+  at the WB Global Digital Summit; **UNDP "Digital Fitness"**; a **China** tech-hub cooperation roadmap. See
+  [[gnq--dpi-govtech]]. Source: [[2025-11-13-gabon-guinea-ecuatorial-fibra-roaming-frecuencias-techafricanews]].
 - **2025-04-04** — **DIP tightening + civil-registry integrity.** The government moved to require the
   **DIP** (national ID) more strictly of over-18s and to control fraudulent "literal" (birth)
   certificates used by expatriates to obtain the DIP/passport (against the 2011 Nationality Law).
@@ -79,8 +98,13 @@ pronounced **island (Bioko/Malabo) vs continental (Bata)** and gender divide.
 
 ## Entities
 
-- [[cnedoge]] · [[adige]] · [[equatorial-guinea-digital-economy-diagnostic]] · [[dhis2]] · [[world-bank]] · [[beac]] · [[nigeria-eqguinea-subsea-cable]]
-- Mentioned, not hubbed: GITGE (telecom-infrastructure manager); Ceiba-1/Ceiba-2/ACE cables; AGENDA
-  2035 / National Development Plan 2035; BIMEP (Bioko Island Malaria Elimination Project); the DIP;
-  the 2011 Nationality Law.
+- ID / e-gov: [[cnedoge]] · [[cniapge-gnq]] · [[sigf-gnq]] · [[adige]] · [[equatorial-guinea-digital-economy-diagnostic]]
+- Connectivity / telecom: [[gitge-gnq]] · [[getesa-gnq]] · [[telgesa-gnq]] · [[gnq-medusa-cable]] · [[nigeria-eqguinea-subsea-cable]]
+- Data centres / economy: [[zeede-djibloho]] · [[bange-gnq]]
+- Law / cyber: [[ley-7-2024-gnq]] · [[malabo-convention]]
+- Intersections: [[gnq--infra-connect]] · [[gnq--dpi-pay]] · [[gnq--dpi-govtech]] · [[gnq--infra-store]]
+- [[dhis2]] · [[world-bank]] · [[beac]] · [[huawei]]
+- Mentioned, not hubbed: ANCIC (cybersecurity agency, created by Ley 7/2024); INSTTIC / INEGE; MUNI /
+  Muni Dinero / ORTEL (state telecom firms); Ceiba-1/2/ACE cables; AGENDA 2035; BIMEP; the DIP; Ley 1/2016
+  de Protección de Datos Personales (pre-window).
 - Parent region: [[XCA]] · continental: [[XAF]].

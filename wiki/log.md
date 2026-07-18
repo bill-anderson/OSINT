@@ -6023,3 +6023,13 @@ zeede-djibloho (initiative; Djibloho digital economic zone AI/big-data/data-cent
 (GNQ — the host state — finally ratified 25 Mar 2026, a decade after adopting it in Malabo). PAMFP data centres (Malabo
 primary + Bata backup solar); WB/ADIGE data-centre planning; GITGE ministries digital-maturity gap (interop 15%/BigData
 21%/analysis 10%).
+
+## 2026-07-18 — ingest(GNQ) FINALIZE
+Batch total: 28 sources admitted (5 chunks), 0 leads, 0 discards, 0 pruned. GNQ (only Spanish-speaking African state)
+proved not-thin. 4 new intersections (gnq--infra-connect, --dpi-pay, --dpi-govtech, --infra-store; GNQ had none before).
+9 new entities (gitge-gnq, getesa-gnq, telgesa-gnq, gnq-medusa-cable, bange-gnq, sigf-gnq, cniapge-gnq, ley-7-2024-gnq,
+zeede-djibloho) → +9 entities-index rows. Updated cnedoge + malabo-convention (GNQ ratified). Hub GNQ.md refreshed (top
+developments block, entities/intersections); places-index GNQ row rewritten. Dead-link lint 0; orphan lint 0/28.
+GAP-GNQ-001 (GITGE) RESOLVED; filed GAP-GNQ-002 (cookie-walled guineaecuatorialpress.com government primaries — Huawei
+e-gov MoU, e-gov law, BEAC-PAPSS, Starlink entity, connectivity plan, unique ID code, Ley 7/2024 full text — manual-clip
+leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing sources). new-queue/GNQ → done.
