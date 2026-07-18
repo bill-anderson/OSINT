@@ -6192,3 +6192,31 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
 - **Entities updated:** [[gia-libya]] (LY_GOVREP full activation; Unified Chambers of Commerce digital
   system), [[gaci-libya]] (sovereign digital-economy vision at UNECA COM 2026 Tangier).
 - Note: 1 proxy-dated item (Geneva, `date_source: proxy`, month precision).
+
+## 2026-07-18 — ingest(LBY) chunk 5/5 + finalize: AI / cyber / skills + hub refresh
+
+- **7 sources admitted** (0 leads, 0 discards).
+- **Intersections created:** [[libya--tech-ai]] (National AI Strategy 2025-2030, LIBIGPT, India/UNDP
+  skills), [[libya--infra-cybersec]] (east-side cybersecurity-law drafting, CBL cyber incident, Interior
+  cybercrime Q1-2025).
+- **Entity created:** [[libigpt]] (initiative — first Libyan generative-AI system).
+- **Entities updated:** [[central-bank-of-libya]] (cyber incident), [[gia-libya]] (National AI Strategy).
+- **Finalize:**
+  - [[LBY|Libya hub]] refreshed — sweep-batch summary block; new entities + 5 intersections; last_reviewed
+    → 2026-07-18.
+  - **entities-index.md** — 6 new LBY entities (Companies 2, Government bodies 1, Initiatives 2, People 1).
+  - **places-index.md** — LBY row: intersection cross-links (dpi.pay, dpi.id, tech.ai, infra.connect,
+    infra.cybersec).
+  - **Lint:** all 32 LBY sources non-orphan; zero dead links across 16 created/edited pages.
+  - **Teardown:** `new-queue/LBY` → `new-queue/done/LBY`; `new/MANIFEST.md` drained; `new/` empty.
+  - **Gaps filed:** GAP-LBY-001 (gia.gov.ly off-source: LY-DNID/LY-NDEX/open-data/cloud-policy/AI-strategy
+    2026-2030 + new minister), GAP-LBY-002 (no data-protection law/DPA), GAP-LBY-003 (Huawei/China
+    east-west infrastructure off-source).
+
+### LBY ingest total (chunks 1-5): **32 sources admitted, 0 leads, 0 discards, 0 needs-clip**
+- Entities created: 6 (jumhouria-bank, lptic, almadar-aljadid, ziad-al-hajjaji, baladiyabot, libigpt);
+  updated: CBL, CRA, GIA, GACI. Intersections created: libya--dpi-pay, libya--dpi-id, libya--infra-connect,
+  libya--tech-ai, libya--infra-cybersec.
+- Dedup: AR 2026-02-21 kept as complementary to held libyaherald 2026-02-24; AR/EN EPAIX twins both kept.
+- 6 proxy-dated Arabic items (`date_source: proxy`); several thin Arabic excerpts flagged for full clip
+  at promotion. East/west split noted throughout (national claims = GNU/Tripoli-side).

@@ -39,6 +39,10 @@ platform, and the Seventh National Human Development Report with UNDP. See [[LBY
   issuing standardised **digital certificates of origin** and registration certificates, a trade-statistics
   portal, and a customs/regulatory verification service — later aligned to the National Data Distributor.
   Source: [[2026-03-02-unified-chambers-of-commerce-digital-system-libyaherald]].
+- **National AI Strategy 2025–2030 published (2025-10).** [[tech.ai]] The GIA published Libya's **National
+  Strategy for AI 2025–2030** (with ESCWA) — the state's "highest reference strategy," targeting a
+  **data-protection law by 2026**. Full thread: [[libya--tech-ai]]. Source:
+  [[2025-10-30-national-ai-strategy-2025-2030-published-libyaherald]].
 
 ## Sources
 
@@ -48,3 +52,4 @@ platform, and the Seventh National Human Development Report with UNDP. See [[LBY
 - [[2025-05-15 The State of Digital Transformation in Libya]]
 - [[2026-04-10-ly-govrep-government-reporting-platform-activated-libyaherald]]
 - [[2026-03-02-unified-chambers-of-commerce-digital-system-libyaherald]]
+- [[2025-10-30-national-ai-strategy-2025-2030-published-libyaherald]]

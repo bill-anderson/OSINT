@@ -595,3 +595,25 @@ study). See log.md.)*
   infrastructure) as core participants — both notable Kenyan AI-sovereignty players referenced with no
   entity page of their own. *Lead: source primary profiles/funding for Qhala and Amini AI to hub them.*
   See [[qubit-hub]]. (Surfaced KEN sweep ingest, 2026-07-18.)
+
+- **GAP-LBY-001 · GIA official domain (gia.gov.ly) is the richest Libya-DPI source and is unmined.** The
+  paper-sweep confirms but does not hold major GIA developments living on official domains outside the
+  assigned two-paper + 8-journal source list: **LY-DNID** national digital identity (Level-2 pilot
+  2025-11-20; Level-3 biometric eKYC with CBL 2026-04-19); **LY-NDEX** National Data Distributor
+  (>300m transactions/yr, 2026-07-01); the **Open Government Data Platform** (opendata.gia.gov.ly,
+  2025-11-27; 91-dataset milestone 2026-02-11); a **National Cloud Computing Policy** with ESCWA
+  (2025-12-30); and the **AI Ethics Charter + National AI Strategy 2026–2030 formally adopted by PM
+  Dbeibeh (2026-06-01)** alongside a new **Minister of State for Digital Economy & AI** ([[ziad-al-hajjaji]]).
+  *Lead: source these from gia.gov.ly to build out [[gia-libya]], [[libya--tech-ai]] and the DPI stack.*
+  (Surfaced LBY sweep ingest, 2026-07-18.)
+- **GAP-LBY-002 · Libya has no data-protection law / DPA — draft promised by 2026.** The National AI
+  Strategy 2025–2030 itself flags the legislative vacuum; DLA Piper and NISSA (public-sector-only)
+  corroborate no general data-protection instrument exists. *Lead: track the promised draft; the gap
+  underpins the [[libya--dpi-id]] fraud crisis and [[libya--dpi-pay]] data exposure.* (Surfaced LBY sweep
+  ingest, 2026-07-18.)
+- **GAP-LBY-003 · Huawei/China east-west infrastructure thread is off-source.** The GNU **suspended
+  Huawei's Libya activities (2025-08-17)** over an eastern ~US$700m "Ozon" mobile-network contract
+  (libyasecuritymonitor); a **Trans-Sahara + Tatweer Huawei FusionModule data centre** for Tripoli (DCD,
+  2026-06-24); and an **LTT–ZTE MoU at MWC26** (2026-03-11) all sit outside the assigned source list.
+  *Lead: source from DCD / libyasecuritymonitor / Ecofin to capture the China/east-west infrastructure
+  contest behind [[libya--infra-connect]].* (Surfaced LBY sweep ingest, 2026-07-18.)

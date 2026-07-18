@@ -6,6 +6,8 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 
 | Entity | Places | Topics | Page |
 |---|---|---|---|
+| Jumhouria Bank | LBY | dpi.pay, finance.new | [[jumhouria-bank]] |
+| Almadar Aljadid | LBY | infra.connect | [[almadar-aljadid]] |
 | Moniepoint | NGA, KEN | dpi.pay, finance.new | [[moniepoint]] |
 | Kenswitch | KEN | dpi.pay, infra.connect | [[kenswitch]] |
 | Bayobab | XAF, KEN, UGA | infra.connect, gov.regional | [[bayobab]] |
@@ -443,6 +445,7 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 
 | Entity | Places | Topics | Page |
 |---|---|---|---|
+| Libyan Post, Telecom & IT Company (LPTIC) | LBY | infra.connect, infra.store | [[lptic]] |
 | National Registration Bureau (NRB, Kenya) | KEN | dpi.id, dpi.registry, dpi.govtech | [[national-registration-bureau]] |
 | Kenya National Bureau of Statistics (KNBS) | KEN | data.statistics, data.open, dpi.govtech | [[knbs]] |
 | National Cyber Security Agency (NCSA, Kenya) | KEN | infra.cybersec, gov.legislate, gov.protect | [[national-cyber-security-agency-kenya]] |
@@ -761,6 +764,8 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 
 | Entity | Places | Topics | Page |
 |---|---|---|---|
+| LIBIGPT (Libya first generative-AI system) | LBY | tech.ai, tech.innovate | [[libigpt]] |
+| BaladiyaBOT (Tripoli municipal digital assistant) | LBY | digital.localgov, dpi.govtech | [[baladiyabot]] |
 | eCitizen (Kenya govt digital-services platform) | KEN | dpi.govtech, dpi.pay, gov.protect | [[ecitizen]] |
 | Qubit Hub (Kenya AI research/innovation lab) | KEN | tech.ai, infra.store, tech.innovate | [[qubit-hub]] |
 | Equatorial Guinea Medusa / Via Africa submarine-cable plans | GNQ | infra.connect, gov.regional | [[gnq-medusa-cable]] |
@@ -1140,6 +1145,7 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 
 | Entity | Places | Topics | Page |
 |---|---|---|---|
+| Ziad al-Hajjaji (Libya Minister of State for Digital Economy) | LBY | tech.ai, gov.policy | [[ziad-al-hajjaji]] |
 | William Kabogo Gitau (Kenya ICT & Digital Economy CS) | KEN | gov.policy, dpi.govtech | [[william-kabogo]] |
 | Immaculate Kassait (Kenya Data Protection Commissioner) | KEN | gov.protect, dpi.id | [[immaculate-kassait]] |
 | Abdelmadjid Tebboune (President, Algeria) | DZA | gov.policy | [[abdelmadjid-tebboune]] |

@@ -45,6 +45,10 @@ political split, which complicates data-sharing for its payroll-digitization ref
 - **Resilience gap (2026-05).** [[infra.cybersec]] A record **2m POS transactions across 67,000 points
   in one day crashed the system**; the CBL apologised — adoption outpacing backbone investment. Source:
   [[2026-05-27-cbl-epayment-system-crash-2m-pos-libyaherald]].
+- **Cyber incident (2026-06).** [[infra.cybersec]] The CBL disclosed a **cyber incident** affecting some
+  technical systems, isolating suspect systems and investigating with global support firms; card services
+  and LYPAY continued with no confirmed customer-account impact. See [[libya--infra-cybersec]]. Source:
+  [[2026-06-24-cbl-cyber-incident-alwasat]].
 
 ## Sources
 
@@ -58,3 +62,4 @@ political split, which complicates data-sharing for its payroll-digitization ref
 - [[2026-05-27-cbl-epayment-system-crash-2m-pos-libyaherald]]
 - [[2026-06-16-cbl-epaix-softpos-visa-alwasat]]
 - [[2026-06-17-cbl-epaix-2026-softpos-visa-standin-libyaherald]]
+- [[2026-06-24-cbl-cyber-incident-alwasat]]

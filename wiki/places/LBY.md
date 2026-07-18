@@ -6,7 +6,7 @@ parent: XNA
 place_kind: country
 topics: [dpi.pay, dpi.id, dpi.registry, dpi.govtech, dpi.exchange, gov.policy, gov.protect, infra.connect, infra.cybersec, infra.store, data.open, data.statistics, include.access, digital.localgov]
 status: active
-last_reviewed: 2026-07-16
+last_reviewed: 2026-07-18
 ---
 
 # Libya (LBY)
@@ -21,6 +21,21 @@ digital-sovereignty** push by the **[[gia-libya|GIA]]** and **[[gaci-libya|GACI]
 government reports, national root servers). Much of this reform is entangled with the east-west split.
 
 ## Recent developments
+
+> **2026-07-18 LBY sweep batch (32 sources)** — a Libya Herald + Alwasat (AR) press tranche since
+> 2025-01, consolidated into thematic intersections. Anchors:
+> - **Payments** (strongest theme) — CBL e-payments **LD 389bn / +186% (2025)**, EPAIX 2026 (SoftPOS,
+>   Visa, National Stand-In Processing), foreigners' e-wallets (Circular 9/2026), and the **2m-POS crash**
+>   resilience gap. Hub: [[libya--dpi-pay]]; [[jumhouria-bank]].
+> - **Civil registry** — integrity crisis: **225 Malian nationals** given national IDs (AG crackdown),
+>   Al-Marj east case, forged-number black market. Hub: [[libya--dpi-id]].
+> - **Connectivity** — Medusa subsea cable to Europe, **first 5G** (Almadar), LPTIC vendor MoUs (KBR/US,
+>   Nokia/Finland), IPv6, Ghat-Tahala fibre cut. Hub: [[libya--infra-connect]]; [[lptic]].
+> - **AI & cyber** — National AI Strategy 2025-2030, **LIBIGPT**, India/UNDP skills; and the east-side
+>   **cybersecurity-law drafting**, CBL cyber incident, Interior cybercrime data. Hubs: [[libya--tech-ai]],
+>   [[libya--infra-cybersec]]; [[ziad-al-hajjaji]].
+> - **E-gov/regional** — LY_GOVREP activation, Unified Chambers digital system, [[baladiyabot|BaladiyaBOT]]
+>   (EU/GIZ), GACI at UNECA COM 2026, Libya at the Geneva "financing digital sovereignty" ministerial.
 
 - **2026-02-24** — **Digital payments boom.** [[central-bank-of-libya|CBL]] statistics (2025 → Feb 2026):
   mobile banking **4.29m subscribers / 200.7m transactions / 313.6bn LYD**; POS 165,313 terminals; the
@@ -94,6 +109,8 @@ government reports, national root servers). Much of this reform is entangled wit
 ## Entities
 
 - [[central-bank-of-libya]] · [[gia-libya]] · [[gaci-libya]] · [[civil-registry-authority-libya]] · [[libya-unified-social-registry]] · [[undp]] · [[ecowas]]
+- LBY sweep batch (2026-07-18): [[lptic]] · [[almadar-aljadid]] · [[jumhouria-bank]] · [[ziad-al-hajjaji]] · [[libigpt]] · [[baladiyabot]]
+- LBY sweep intersections (2026-07-18): [[libya--dpi-pay]] · [[libya--dpi-id]] · [[libya--infra-connect]] · [[libya--tech-ai]] · [[libya--infra-cybersec]]
 - Mentioned, not hubbed: Government of National Unity (PM Abdulhamid Dabaiba); eastern government (Osama
   Hammad); Libyan Tax Authority; Commercial Registry Authority / NESDB; HNEC (electoral commission); Libya
   Post; Telecommunications Holding Company; Al-Madar Al-Jadid; Al Itissan Al-Jadeed (biometrics vendor);
