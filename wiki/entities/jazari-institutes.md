@@ -28,7 +28,12 @@ Minister **Amal El Fallah Seghrouchni**. See [[tech.ai]], [[morocco--tech-ai]].
   competitiveness and human development." See [[morocco--tech-ai]]. Source:
   [[2026-06-05-techafricanews-morocco-orange-ai-partnership]].
 
+- **Al-Jazari Institute, Dakhla (2025-11).** [[infra.energy]] An agreement established the **Al-Jazari
+  Institute for AI & Energy Transition** in Dakhla (with the "Icudar Dakhla" green data centre) — advanced
+  programmes in algorithms, big data and energy management, part of the specialised AI/IoT/energy institute
+  network. See [[morocco--infra-store]]. Source:
+  [[2025-11-18-techreviewafrica-morocco-green-data-center-ai-institute-dakhla]].
+
 ## Related
 
-- [[MAR]] · [[tech.ai]] · [[digital-morocco-2030]] · [[orange]] · [[morocco--tech-ai]]
-- Related build: the Al-Jazari green-DC/AI-energy institute at Dakhla (data-centre sovereignty thread).
+- [[MAR]] · [[tech.ai]] · [[digital-morocco-2030]] · [[orange]] · [[morocco--tech-ai]] · [[morocco--infra-store]]

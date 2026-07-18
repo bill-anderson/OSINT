@@ -6324,3 +6324,16 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
   frontmatter, Arabic dateline and content are all 2025-01-09 (Thu); the sweep prefix was a year off.
 - Dedup: Digital-X.0 wearetech 2025-11-04 kept as complementary to held 11-06/11-07 (adds sector-ID +
   traceable-consent detail).
+
+## 2026-07-18 — ingest(MAR) chunk 3/7: Data centres, cloud & AI-infra sovereignty
+
+- **7 sources admitted** (0 leads, 0 discards).
+- **Intersection created:** [[morocco--infra-store]] — Morocco #1 in Africa by DC facility count (23,
+  overtaking SA; 2021 local-storage law); Nexus AI Factory (HPC, GITEX 2026); green DCs (Orange Tech
+  Nouaceur; Icudar Dakhla + Al-Jazari institute); Cloud Computing Week (Oracle); Oracle Agadir R&D;
+  "third-way" sovereignty framing.
+- **Entities created:** [[nexus-ai-factory]] (deal), [[nexus-core-systems]] (company).
+- **Entity updated:** [[jazari-institutes]] (Dakhla Al-Jazari institute).
+- Note: 4 techreviewafrica items are `provenance_flag: pr-wire` (first-hand ministry/company announcements,
+  admissible, dated from explicit Date field).
+- Dedup: overtakes-SA (23 facilities, Global Finance) kept as complementary to held "25+ Casablanca" figure.
