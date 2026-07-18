@@ -5430,3 +5430,12 @@ Mobile-money count divergence (24/29/30/35m) noted. All 14 moved new→raw.
 state platform (Quantum Vertex); skills ground-truth (Femintech 41 brevets vs 250k goal); **$500m WB/AFD**
 transformation + "AI Sphere"; **first DRC–China police accord naming cybercrime** (May 2026). New entities
 [[adis-drc]], [[bokeli-fogec]]. Added DRC to [[cybastion]] (Washington MoU, Apr 2026). All 12 moved new→raw.
+
+### 2026-07-18 · ingest COD · chunk 8/8 — E-gov & sectoral / state-function
+**14 sources admitted.** New intersection [[drc--dpi-govtech]] (catch-all). Names the **National
+e-Government Strategy 2025–2030** (DPI-consultant search; RDC-PASS March target slipped). New entities
+[[rsu-drc]] (2nd population register), [[esursi-portal]] (higher-ed portal + digital library),
+[[onem-mikuba]] (Enabel skills DB), [[ticef-drc]] (ICT-for-education policy). E-Contrôle, IGF-digital,
+Go Pass/TRAFIGO, Kinshasa drones/KIN ALERTE, **WFP biometric cards routing aid around bank closures in
+AFC/M23 zones**, SCPT near-insolvency, UNESCO. Six rdc-monde items are date_source:proxy (flagged).
+All 14 moved new→raw. **new/ now empty — 90 admitted, 0 pruned.**
