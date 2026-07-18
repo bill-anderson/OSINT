@@ -5952,3 +5952,10 @@ ks-wallet-guinea, guinea-data-governance-strategy, guinea-digital-services-tax, 
 2026-05-26 folded in; duplicate deleted, refs rewired). Currency: MCENI ministry merger (Mourana Soumah supersedes Rose
 Pola Pricemou). Hub GIN.md refreshed (top developments block, entities/intersections); places-index GIN row rewritten.
 Dead-link lint 0; orphan lint 0/37. GAP-GIN-001 narrowed (ANDE+ANSUTEN created; ANSSI remains). new-queue/GIN → done.
+
+## 2026-07-18 — ingest(GMB) chunk 1/5: Digital ID / NIMS (Margins)
+7 sources admitted. New intersection `gambia--dpi-id`. Entity: nims-gambia (resource; National Identity Management System
+launched by Barrow 1 Jul 2026, instant GAM ID, Margins BOT, Abuko National Data Centre, nationwide enrolment Aug 4).
+Updated gambia-national-id-contract (local signing twins, 10-yr validity/free replacement/8-yr term/70-30 revenue share/
+phase-2 data centre). ID-eCRVS-passport integration policy (Barrow SoNA 2025); UDP unlawful-ID-abroad allegation (Mauritania/
+Congo/Togo, election-integrity). Twins kept as complementary: Margins signing (Point+Standard); NIMS launch (Standard+biometricupdate).
