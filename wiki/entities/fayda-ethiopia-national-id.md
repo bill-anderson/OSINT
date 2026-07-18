@@ -23,12 +23,25 @@ strategy — pitched for financial inclusion, service delivery and governance.
   deliver **Lots 3 & 4** of the registration project across seven regions (Afar, Amhara,
   Tigray, Sidama, South West, Central and South Ethiopia). See
   [[safaricom-ethiopia-fayda-jv]], [[ETH]], [[dpi.id]].
-- **Scale & continuous evaluation (2026-05).** Fayda passed **42m+ registrations** with
-  **130+ agency integrations**, tracking toward its **90m-enrolments-by-2028** target. NIDP
-  adopted DIAL's **[[digital-id-assessment]]** (first run early 2025, re-run 2026) as an
-  official monitoring mechanism to gauge design maturity. See [[gov.standards]],
-  [[capacity.research]]. Source:
-  [[2026-05-12 Strengthening Fayda Ethiopia's improvement journey through the Digital ID Assessment]].
+- **Scale (dated trajectory).** **46.5m registrations (2026-07)** — up a steep curve: **16.4m** (Jun 2025)
+  → **23m** issued (Oct 2025) → **28m** (Nov 2025) → **37m+** (Mar 2026, ~**1m/week**) → **39m+** with **78m+
+  authentications**, **100+ institution integrations** and **9m+ cards** (May 2026) → **40m+** (Jun 2026).
+  Toward a **~90m target (end-2027** per NIDP's roadmap). **Second-largest digital-ID project in Africa** (after
+  Nigeria). NIDP adopted DIAL's **[[digital-id-assessment]]** as an official monitoring mechanism. Sources:
+  [[2026-07-08-safaricom-fayda-enrollment-7-regions-jv-biometricupdate]],
+  [[2026-05-21-fayda-54m-super-agent-procurement-biometricupdate]].
+- **Commercialisation — into the sovereign wealth fund (2026-03).** Fayda/NIDP joined **Ethiopian Investment
+  Holdings (EIH)** — the state's sovereign wealth fund / commercialisation engine — with **authorized capital
+  10bn birr (~$64m)** (2.5bn paid-up), signalling a shift from project to a **revenue-generating entity**
+  (authentication-as-a-service). A **$54m "Super Agent"** procurement (World-Bank-recommended) targets
+  large-scale registration in underserved areas; total project financing **$350m**. See [[finance.new]].
+  Source: [[2026-03-13-fayda-joins-sovereign-wealth-fund-1m-weekly-biometricupdate]].
+- **Debate — home-grown critique.** Alongside the official framing, Addis Standard mounted a **critical
+  counter-narrative**: *"Coercion Over Consent"* (2026-02) argues **mandatory** ID without consent, trust or
+  accountability risks surveillance and exclusion given weak data-protection safeguards; *"Digital Leap Paradox"*
+  (2026-01) warns of **fragile foundations** beneath rapid progress. A rare domestic sovereignty/rights read.
+  Sources: [[2026-02-05-coercion-over-consent-mandatory-digital-id-addisstandard]],
+  [[2026-01-28-ethiopia-digital-leap-paradox-addisstandard]].
 - **Digital Ethiopia 2030 anchor (2026-01).** Under [[digital-ethiopia-2030]], Fayda is
   positioned as "the key to all public and private services," targeting **every adult
   holding a digital ID by 2030** and enabling access to banking, healthcare and government

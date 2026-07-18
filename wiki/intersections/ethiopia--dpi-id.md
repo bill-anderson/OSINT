@@ -47,11 +47,27 @@ Ethiopia's **Fayda / National ID Program (NIDP)** is the **flagship deployment o
   foundational ID is in Ethiopia. See [[dpi.mis]], [[dpi.exchange]]. Source:
   [[2024-07-26 Maturity Assessment of District Health Information System Version 2 Implementation in Ethiopia Current Status and Improvement Pathways]].
 
+## Trajectory & official framing
+
+**16.4m** (Jun 2025, ID4Africa roadmap to ~90m by end-2027) → **63m year-end target** (Oct 2025, 23m issued) →
+**46.5m** (Jul 2026); positioned by the government as the anchor of **Digital Ethiopia 2030** and the
+**[[mesob-platform|MESOB]]** "sovereignty stack" (185 government services). Sources:
+[[2025-05-20-ethiopia-reveals-fayda-strategy-id4africa-2025-biometricupdate]],
+[[2025-06-04-fayda-chief-roadmap-90m-enrollments-2027-biometricupdate]],
+[[2025-10-14-ethiopia-fayda-issuance-63m-year-end-biometricupdate]],
+[[2026-01-07-ethiopia-reiterates-fayda-role-2030-strategy-biometricupdate]].
+
 ## Reads
 
 - `sovereignty`: an African state running a nationally-governed, open-source ID at
   continental-leading scale, monetising authentication domestically — the strongest
   positive data point in the wiki's DPI-sovereignty argument.
+- **`colonialism` / rights counter-read (home-grown).** Addis Standard argues the **mandatory** design —
+  enforcement without consent, trust or accountability, atop weak data-protection safeguards — risks
+  surveillance and exclusion ("Coercion Over Consent"), and that rapid progress rests on "fragile foundations"
+  ("Digital Leap Paradox"). A rare *domestic* critique, not an external one. Sources:
+  [[2026-02-05-coercion-over-consent-mandatory-digital-id-addisstandard]],
+  [[2026-01-28-ethiopia-digital-leap-paradox-addisstandard]].
 
 ## Links
 

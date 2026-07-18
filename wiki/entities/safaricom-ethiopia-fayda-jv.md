@@ -25,7 +25,12 @@ Ethiopian **National ID Program** and **Africom Technologies PLC** signed a JV t
   **short-term registration jobs for thousands** of Ethiopians.
 - **Principals.** Wim Vanhelleputte (Safaricom Ethiopia CEO); Yodahe Zemichael (National
   ID Program ED). See [[ETH]], [[dpi.id]], [[include.divides]].
+- **Biometrics & scale (2026-07 confirmation).** Enrolment captures **fingerprint, face and iris**; a
+  second-outlet account puts national Fayda registrations at **46.5m** (up from 16.4m in Jun 2025) at signing,
+  and notes Safaricom is **[[ethio-telecom|Ethio Telecom]]'s only competitor** (Ethio Telecom was an early
+  registration partner). Source: [[2026-07-08-safaricom-fayda-enrollment-7-regions-jv-biometricupdate]].
 
 ## Sources
 
 - [[2026-07-06 Safaricom Ethiopia partners National ID Program to expand digital identity registration]]
+- [[2026-07-08-safaricom-fayda-enrollment-7-regions-jv-biometricupdate]]

@@ -24,6 +24,11 @@ Ethiopia's AI-driven, integrated digital public-service platform, built by the
   African countries. No monetary figures or hard deadlines disclosed. See [[ETH]],
   [[dpi.govtech]], [[tech.ai]]. Source:
   [[2026-06-20 Ethiopia launches unified MESOB Platform to accelerate national digital transformation]].
+- **"Sovereignty stack" (2026-06 exhibition).** At the MESOB Innovation Exhibition, Ethiopia framed digital
+  ID, payments and cloud converging into a unified national platform for autonomy; **185 government services**
+  now integrated with the super-app, anchored on **[[fayda-ethiopia-national-id|Fayda]]** (Africa's
+  second-largest ID after Nigeria). Source:
+  [[2026-06-26-ethiopia-dpi-sovereign-digital-state-mesob-biometricupdate]].
 
 ## Reads
 

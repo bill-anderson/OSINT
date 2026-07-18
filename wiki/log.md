@@ -5766,3 +5766,10 @@ AI Strategy 2, Digital Egypt 210 services/GTMI 22nd, fintech); standing profile 
 infra-store, tech-ai); 3 updated (dpi-pay, dpi-id, dpi-govtech). entities-index +8 rows (4 companies, 1 govt body,
 1 deal, 2 instruments). places-index EGY row rewritten. Dead-link lint 0; orphan lint 0/35. Minister handover recorded
 (Amr Talaat → Raafat Hindi, H1 2026). new-queue/EGY → done; stray new/MANIFEST.md removed. No contradictions/leads/discards.
+
+## 2026-07-18 — ingest(ETH) chunk 1/5: Fayda strategy, enrollment & sovereignty
+10 sources admitted. Updated fayda-ethiopia-national-id (scale trajectory 16.4m Jun-2025 → 46.5m Jul-2026; ~90m by
+end-2027; EIH sovereign-fund commercialisation 10bn birr / authentication-as-a-service; $54m Super Agent; 2nd-largest
+ID in Africa) + home-grown critique (Addis Standard "Coercion Over Consent" / "Digital Leap Paradox" — colonialism/rights
+counter-read). Updated ethiopia--dpi-id (trajectory + counter-narrative), mesob-platform (185 services / sovereignty stack),
+safaricom-ethiopia-fayda-jv (fingerprint/face/iris; 46.5m; Ethio Telecom = only competitor).
