@@ -5966,3 +5966,9 @@ Starlink paid fee Dec 2024, unissued >1yr, minister refused VSAT category despit
 debate; geopol.usa), qgroup-house-datacentre (resource; first PRIVATE data centre, QGroup/QCell/QFiber, Huawei 17-yr partner,
 Barrow inaugurated 30 Apr 2026, geopol.china). Two 2026 data-centre openings (QGroup private + Abuko National/state);
 balanced fibre+satellite strategy. QGroup twins (Point+Standard) kept complementary.
+
+## 2026-07-18 — ingest(GMB) chunk 3/5: Telecom market (GAMTEL/GAMCEL)
+5 sources admitted. Entities: gamcel-ycell-deal (deal; YCELL acquires 80% of GAMCEL — 8 bidders, DK Telecom vs YCell,
+winning bid D6.7bn Dec 2025 → final signed GMD 6.1bn network-modernisation Jul 2026; price stages noted dated),
+gamtel-sysroad-ppp (deal; GAMTEL + SYSROAD SA Senegal $50m PPP, backbone 40→800 Gbps ~20x, resolves the chunk-2 forward-ref).
+Twins kept complementary: GAMTEL-SYSROAD (techafrica+standard), GAMTEL-YCELL (Point+techafrica).
