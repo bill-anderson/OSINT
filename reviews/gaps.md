@@ -161,6 +161,8 @@ in the same batch and is now held; instrument upgraded stub→active. See log.md
   the [[simandou-2040]] digital push but have **no entity pages** (prose-only on [[GIN]]). *Lead: consider
   sourcing agency primaries (enabling decrees / official sites) and creating the highest-recurrence pages
   — ANSSI and ANDE anchor [[infra.cybersec]] / [[gov.policy]].* (Recorded Guinea batch, 2026-07-16.)
+  **Update (GIN sweep 2026-07-18):** **[[ande-guinea|ANDE]]** and **[[ansuten-guinea|ANSUTEN]]** now have entity
+  pages — gap narrowed to **ANSSI** (cybersecurity agency), still page-less.
 
 - **GAP-GIN-002 · SNIS (Guinea health information system) has no entity page.** The **Système National
   d'Information Sanitaire (SNIS)** is the target of a 2025 interoperability/data-governance modernization

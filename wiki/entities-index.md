@@ -6,6 +6,7 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 
 | Entity | Places | Topics | Page |
 |---|---|---|---|
+| Cauridor (Guinea cross-border payments infra) | GIN, XWA | dpi.pay, finance.new | [[cauridor]] |
 | Next-Gen InfraCo (NGIC, Ghana) | GHA | infra.connect, gov.legislate | [[ngic-ghana]] |
 | MobileMoney Fintech Ltd (MTN Ghana MoMo) | GHA | dpi.pay, finance.new | [[momo-fintech-ghana]] |
 | Zeepay (Ghana) | GHA | dpi.pay, gov.legislate | [[zeepay-ghana]] |
@@ -431,6 +432,9 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 
 | Entity | Places | Topics | Page |
 |---|---|---|---|
+| GUILAB (Guinéenne de Large Bande) | GIN | infra.connect, infra.store | [[guilab-guinea]] |
+| ANDE (State Digitalisation Agency, Guinea) | GIN | dpi.govtech, gov.policy | [[ande-guinea]] |
+| ANSUTEN (Universal Telecom & Digital Service Agency, Guinea) | GIN | infra.connect, include.divides | [[ansuten-guinea]] |
 | NITA (National Information Technology Agency, Ghana) | GHA | dpi.govtech, gov.legislate | [[nita-ghana]] |
 | GIFEC (Ghana universal-access fund) | GHA | infra.connect, digital.rural | [[gifec-ghana]] |
 | GhIPSS (Ghana Interbank Payment & Settlement Systems) | GHA | dpi.pay, dpi.exchange | [[ghipss-ghana]] |
@@ -740,6 +744,8 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 
 | Entity | Places | Topics | Page |
 |---|---|---|---|
+| PN-RAVEC / RNPP & biometric electoral file (Guinea) | GIN | dpi.id, dpi.registry | [[pn-ravec-guinea]] |
+| DouIA2 / Manifesto of Conakry (Guinea AI) | GIN | tech.ai, gov.policy | [[douia2-guinea]] |
 | Ghana Continental Digital Trade Corridor | GHA, RWA, ZMB | gov.regional, dpi.exchange | [[ghana-continental-digital-trade-corridor]] |
 | Gabon legal-identity projects (RBPP, SNID, CNEC) | GAB | dpi.id, dpi.registry | [[gabon-legal-id-projects]] |
 | Gabon Connect (single digital window) | GAB | dpi.govtech, dpi.exchange | [[gabon-connect]] |
@@ -1019,6 +1025,7 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 
 | Entity | Places | Topics | Page |
 |---|---|---|---|
+| State acquisition of MTN Guinée (87.5%) | GIN | infra.connect, tech.industry | [[guinea-mtn-nationalisation]] |
 | Ghana Digital Acceleration Project (World Bank, $200m) | GHA | dpi.govtech, finance.new | [[ghana-digital-acceleration-project]] |
 | Hassan Allam Digital Infrastructure data-centre licence ($400m, +A15) | EGY | infra.store, tech.ai, finance.new | [[hassan-allam-data-centre]] |
 | Algérie Télécom–Sparkle Italy–Algeria subsea cable (MoU) | DZA | infra.connect, finance.mou | [[algerie-telecom-sparkle-cable]] |
@@ -1188,6 +1195,8 @@ Databases, registries, datasets, tools and portals consulted repeatedly (entity_
 
 | Resource | Places | Topics | Page |
 |---|---|---|---|
+| CORIS Money (Guinea) | GIN | dpi.pay, include.access | [[coris-money-guinea]] |
+| KS-Wallet (BGB Solutions, Guinea) | GIN | dpi.pay, include.access | [[ks-wallet-guinea]] |
 | Ghana.gov (national digital-services platform) | GHA | dpi.govtech, dpi.pay | [[ghana-gov-platform]] |
 | Digital Realty ACR2 (Accra data centre) | GHA | infra.store, infra.connect | [[digital-realty-accra]] |
 | Gabon National (Nkok) Data Centre | GAB | infra.store, gov.protect | [[gabon-national-datacenter]] |
@@ -1281,6 +1290,8 @@ about or from one becomes a normal source that cites it.
 
 | Instrument | Places | Topics | Page |
 |---|---|---|---|
+| Guinea National Data Governance Strategy | GIN | gov.policy, gov.protect | [[guinea-data-governance-strategy]] |
+| Guinea 3% foreign-digital-services tax (RCN) & Digital Sovereignty Fund | GIN | gov.legislate, finance.new | [[guinea-digital-services-tax]] |
 | Ghana Data Harmonisation Bill 2025 | GHA | gov.legislate, dpi.exchange | [[ghana-data-harmonisation-bill]] |
 | Egypt National AI Strategy (2nd edition, 2025) | EGY | tech.ai, gov.policy | [[egypt-ai-strategy]] |
 | Egypt Startup Charter | EGY | tech.innovate, finance.new, gov.policy | [[egypt-startup-charter]] |

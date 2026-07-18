@@ -6,7 +6,7 @@ parent: XWA
 place_kind: country
 topics: [dpi.pay, dpi.id, dpi.registry, dpi.govtech, dpi.mis, infra.connect, infra.store, gov.policy, gov.regional, gov.legislate, gov.protect, gov.standards, include.access, include.divides, tech.ai, capacity.training, data.statistics, digital.localgov, finance.mou]
 status: active
-last_reviewed: 2026-07-16
+last_reviewed: 2026-07-18
 ---
 
 # Guinea (GIN)
@@ -23,6 +23,23 @@ early-stage build, not yet outcomes.
 
 ## Recent developments
 
+- **2025–26 — biometric electoral file & free ID.** The **[[pn-ravec-guinea|PN-RAVEC]]** administrative census
+  (from 15 Apr 2025) feeds the **RNPP**, now the **single official source** for a **permanent biometric electoral
+  file** (**6.95m electors / 23,681 stations** for the 31 May 2026 coupled elections; **RGPH-4 population
+  17,521,167**); the biometric ID card was **decreed free** (Feb 2025). See [[guinea--dpi-id]]. Sources:
+  [[2025-08-28-mediaguinee-definitive-biometric-electoral-file]], [[2026-04-25-mediaguinee-fichier-electoral-7m-elections-couplees]].
+- **2024–26 — telecom sovereignty & cables.** The **State took 87.5% of MTN Guinée**
+  ([[guinea-mtn-nationalisation]]); with a single saturated ACE cable, **[[guilab-guinea|GUILAB]]** contracted
+  a **second cable (MEDUSA Africa)** and joined a **third (Via Africa)**. See [[guinea--infra-connect]]. Source:
+  [[2026-05-06-mediaguinee-medusa-africa-second-submarine-cable-cma]].
+- **2026 — data-sovereignty policy & GovTech.** A **National Data Governance Strategy** (DNTIEN, Jun 2026); a
+  **3% foreign-digital-services tax + Digital Sovereignty Fund** (decree 21 May 2026); nine public-admin
+  projects and **TELEMO** e-procurement; the **MCENI** ministry merger (Minister **Mourana Soumah**). See
+  [[guinea--dpi-govtech]]. Sources: [[2026-06-26-ecofin-guinea-national-data-governance-strategy]],
+  [[2026-05-26-ecofin-guinea-3pct-tax-foreign-digital-services]].
+- **2026 — fintech wave.** **[[coris-money-guinea|CORIS Money]]**, **[[ks-wallet-guinea|KS-Wallet]]**, Orange
+  Money–BNG interop, Visa MoU talks, and **[[cauridor|Cauridor]]** (Guinea-founded cross-border infra, 36
+  countries). See [[guinea--dpi-pay]]. Source: [[2026-02-19-techafricanews-coris-money-launch]].
 - **2026-03-02** — **Biometric birth certificates in Sanoyah (civil-registry modernization).** The
   **[[oneci-guinea|ONECI]]** began issuing **biometric birth certificates** and enrolling the
   **biometric national ID card** locally in Sanoyah commune (phase 1: 2,000 certificates), on a "one
@@ -144,12 +161,14 @@ early-stage build, not yet outcomes.
 
 ## Entities
 
-- Strategy / events: [[simandou-2040]] · [[transform-africa-summit-2025]] · [[smart-africa]]
-- Gov bodies: [[bcrg]] · [[ministry-digital-economy-guinea]] · [[oneci-guinea]] · [[arpt-guinea]] · [[rose-pola-pricemou]]
-- Platforms / systems: [[fugas]] · [[telemo]] · [[tresor-pay]] · [[rsu-guinea]] · [[guinea-national-data-centre]]
+- Strategy / policy: [[simandou-2040]] · [[transform-africa-summit-2025]] · [[smart-africa]] · [[guinea-data-governance-strategy]] · [[guinea-digital-services-tax]] · [[douia2-guinea]]
+- Gov bodies: [[bcrg]] · [[ministry-digital-economy-guinea]] · [[oneci-guinea]] · [[arpt-guinea]] · [[ande-guinea]] · [[ansuten-guinea]] · [[guilab-guinea]]
+- Platforms / systems: [[fugas]] · [[telemo]] · [[tresor-pay]] · [[rsu-guinea]] · [[guinea-national-data-centre]] · [[pn-ravec-guinea]]
+- Payments / fintech: [[coris-money-guinea]] · [[ks-wallet-guinea]] · [[cauridor]]
+- Connectivity: [[guinea-mtn-nationalisation]] · [[guilab-guinea]]
 - ID / regional: [[wuri-programme]] · [[mosip]] · [[tech5]] · [[world-bank]] · [[ecowas]] · [[mojaloop]] · [[papss]] · [[visa]] · [[itu]]
-- Mentioned, not hubbed: President Mamadi Doumbouya; PM Amadou Oury Bah; Djiba Diakité (Simandou
-  Committee); Mohamed Lamine Conté (BCRG VG); Mourana Soumah (Finance); Mohamed Lamine Sy Savané
-  (Urbanism); **ANDE** (state digitalization); **ANSSI** (cybersecurity); **ANSUTEN** (universal
-  service); SNIS; RAVEC; Enabel / DXC Technology; Terre des Hommes; Orange Guinea; GIGA.
+- Intersections: [[guinea--dpi-id]] · [[guinea--dpi-pay]] · [[guinea--dpi-govtech]] · [[guinea--infra-connect]]
+- Mentioned, not hubbed: President Mamadi Doumbouya; PM Amadou Oury Bah; Mourana Soumah (MCENI minister);
+  Rose Pola Pricemou (ex-minister); Djiba Diakité (Simandou Committee); **ANSSI** (cybersecurity — still
+  page-less, GAP-GIN-001); **SNIS** (health MIS, GAP-GIN-002); RAVEC; Enabel / DXC Technology; Orange Guinea; GIGA.
 - Parent region: [[XWA]] · continental: [[XAF]].

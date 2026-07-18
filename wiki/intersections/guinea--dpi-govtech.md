@@ -5,7 +5,7 @@ place: GIN
 topic: dpi.govtech
 places: [GIN, XWA]
 topics: [dpi.govtech, dpi.exchange, dpi.mis, gov.policy, gov.standards, data.open]
-entities: [[ande-guinea], [telemo-guinea], [ministry-digital-economy-guinea], [simandou-2040], [fugas]]
+entities: [[ande-guinea], [telemo], [ministry-digital-economy-guinea], [simandou-2040], [fugas]]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-18
@@ -23,7 +23,7 @@ Guinea is standing up an e-government layer under **[[simandou-2040]]**, deliver
   digital-skills training and the **[[fugas|FUGAS]]** payroll.
 - **One-stop shop — ASAN model.** A **Guinea–Azerbaijan** partnership (Mar 2026) to build the **Guichet Unique
   des Services Publics** on Azerbaijan's **ASAN** model.
-- **E-procurement — TELEMO** ([[telemo-guinea]], 22 May 2026; Guinea–Rwanda) digitising the full procurement
+- **E-procurement — TELEMO** ([[telemo]], 22 May 2026; Guinea–Rwanda) digitising the full procurement
   cycle (procurement = 11–15% of GDP).
 - **Foundations.** A **GovStack workshop** under the World Bank **WARDIP** project (interoperability base);
   the **Journal Officiel went digital** (free online legal gazette, 1,100+ journals / 6,000+ texts); the
@@ -33,4 +33,4 @@ Guinea is standing up an e-government layer under **[[simandou-2040]]**, deliver
 
 ## Links
 
-Place: [[GIN]] · Concepts: [[dpi.govtech]] · [[dpi.exchange]] · Region: [[XWA]] · Entities: [[ande-guinea]] · [[telemo-guinea]] · [[simandou-2040]] · See also [[guinea--dpi-id]]
+Place: [[GIN]] · Concepts: [[dpi.govtech]] · [[dpi.exchange]] · Region: [[XWA]] · Entities: [[ande-guinea]] · [[telemo]] · [[simandou-2040]] · See also [[guinea--dpi-id]]

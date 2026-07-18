@@ -6,8 +6,8 @@ places: [GIN, RWA]
 topics: [dpi.govtech, gov.regional]
 lens: []
 status: active
-last_reviewed: 2026-07-16
-sources: [[2025-11-13 Transform Africa Summit 2025 opens in Conakry, epicentre of digital cooperation in Africa], [2025-11-19 Transform Africa Summit 2025 (Conakry) - Simandou 2040 Pillar 3, TELEMO, SANIA-SADX and the closing wrap], [2026-01-14 Guinea Reviews 2025 Digital Sector Gains, Targets Faster Rollout in 2026]]
+last_reviewed: 2026-07-18
+sources: [[2025-11-13 Transform Africa Summit 2025 opens in Conakry, epicentre of digital cooperation in Africa], [2025-11-19 Transform Africa Summit 2025 (Conakry) - Simandou 2040 Pillar 3, TELEMO, SANIA-SADX and the closing wrap], [2026-01-14 Guinea Reviews 2025 Digital Sector Gains, Targets Faster Rollout in 2026], [2026-05-26-techafricanews-telemo-procurement-platform-launch]]
 ---
 
 # TELEMO (national e-procurement platform, Guinea)
@@ -17,6 +17,7 @@ Guinea's national **electronic public-procurement platform**, born of a **Guinea
 ## Activity in this wiki
 
 - **Launched at TAS 2025 (2025-11-12).** Officially rolled out; the 2025 sector review reports TELEMO "fully digitized public procurement." Sources: [[2025-11-13 Transform Africa Summit 2025 opens in Conakry, epicentre of digital cooperation in Africa]], [[2025-11-19 Transform Africa Summit 2025 (Conakry) - Simandou 2040 Pillar 3, TELEMO, SANIA-SADX and the closing wrap]], [[2026-01-14 Guinea Reviews 2025 Digital Sector Gains, Targets Faster Rollout in 2026]].
+- **National rollout (2026-05-22).** A national-launch event in Conakry framed TELEMO as centralising the full procurement cycle (planning → tenders → bids → evaluation → award → archiving) — notable as **public procurement is 11–15% of Guinea's GDP**. See [[guinea--dpi-govtech]]. Source: [[2026-05-26-techafricanews-telemo-procurement-platform-launch]].
 
 ## Sources
 

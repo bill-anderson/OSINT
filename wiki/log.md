@@ -5942,3 +5942,13 @@ AU Data Policy Framework), guinea-digital-services-tax (instrument; 3% RCN on fo
 decree 21 May 2026, tiered 1.5-7%, exempt <250m GNF, creates FSN Digital Sovereignty Fund + PARN), ansuten-guinea (govt-body;
 universal-service agency, 90% rural by 2030, GIS, N'Zérékoré hub, Univ Connect — RESOLVES part of GAP-GIN-001), douia2-guinea
 (initiative; DouIA2 + Manifesto of Conakry AI phase 2). Cyber law/HAC web-media noted.
+
+## 2026-07-18 — ingest(GIN) FINALIZE
+Batch total: 37 sources admitted (5 chunks), 0 leads, 0 discards, 0 pruned. Guinea back-filled entirely-unheld threads.
+2 new intersections (guinea--infra-connect, guinea--dpi-govtech; guinea--dpi-id & --dpi-pay existed/updated). 11 new
+entities (pn-ravec-guinea, guinea-mtn-nationalisation, guilab-guinea, ande-guinea, cauridor, coris-money-guinea,
+ks-wallet-guinea, guinea-data-governance-strategy, guinea-digital-services-tax, ansuten-guinea, douia2-guinea) →
++11 entities-index rows. DEDUP (lint #7): telemo-guinea created then merged into existing [[telemo]] (national-launch
+2026-05-26 folded in; duplicate deleted, refs rewired). Currency: MCENI ministry merger (Mourana Soumah supersedes Rose
+Pola Pricemou). Hub GIN.md refreshed (top developments block, entities/intersections); places-index GIN row rewritten.
+Dead-link lint 0; orphan lint 0/37. GAP-GIN-001 narrowed (ANDE+ANSUTEN created; ANSSI remains). new-queue/GIN → done.
