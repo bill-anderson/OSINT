@@ -5725,3 +5725,9 @@ new-queue/DZA → new-queue/done/DZA; stray new/MANIFEST.md removed. Filed 1 con
 Huawei FTTR first-in-Egypt, 5m fibre lines/1,250+ villages Decent Life, $3.5bn/+410MHz spectrum, 5G licence Jan 2024
 $150m) and ntra-egypt (spectrum deal, Spectrum Strategy 2026-30). ~15 active subsea cables (Africa's largest); digital
 exports $7.4bn/outsourcing $4.8bn 2025; fixed broadband 12.6m (Nov 2025); $6bn telecom investment since 2019.
+
+## 2026-07-18 — ingest(EGY) chunk 2/6: Data centres, cloud & sovereignty
+6 sources admitted. New intersection `egypt--infra-store`. Entity: hassan-allam-data-centre (deal, $400m + A15, 10th
+NTRA licence in 2yrs). MCIT national DC strategy (presidential directive, localisation); cabinet hyperscale expansion;
+Sinai green >$1bn hyperscale DC (Renergy, Japanese interest); Huawei Cloud Egypt region 2024 + FRA localisation + Thndr
+MoU (geopol.china); SAP cloud/AI (geopol.eu). $42.7bn AI value / 7.7% GDP by 2030; Africa <2% global DC capacity.
