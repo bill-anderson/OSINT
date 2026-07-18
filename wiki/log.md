@@ -5929,3 +5929,9 @@ dispute; Orange quality push; Univ Connect 17 unis (ANSUTEN). JMTSI 2025 soverei
 ministry-digital-economy-guinea (MCENI merger Feb 2026 — Mourana Soumah supersedes Rose Pola Pricemou; Communication+Digital
 Economy merged). Nine-project package (GUSP/Gouv-Lab/eTax/ANDE/FUGAS, Simandou 2040); Guichet Unique ASAN (Azerbaijan);
 GovStack/WARDIP; digital Journal Officiel; eCNSS; LANDAYA e-permits; vehicle-attestation (Ivorian SIIN/DIGITECH).
+
+## 2026-07-18 — ingest(GIN) chunk 4/5: Payments & fintech
+5 sources admitted. Updated intersection `guinea--dpi-pay`. Entities: cauridor (company; Guinea-founded cross-border
+payments infra, 36 countries, $13m, ex-Flutterwave COO Awa Koné), coris-money-guinea (resource; Coris Bank e-money for
+unbanked, Feb 2026), ks-wallet-guinea (resource; BGB Solutions non-bank e-wallet, 200+ country remittance). Orange Money
+"Accès à ma banque" wallet↔bank interop with BNG; Visa-MoF MoU talks. 2026 private fintech wave atop the state instant-payment build.

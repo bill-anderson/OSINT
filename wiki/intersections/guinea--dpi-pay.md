@@ -44,7 +44,19 @@ markets.
 
 ## Links
 
-Place: [[GIN]] · Concepts: [[dpi.pay]] · Intersection: [[guinea--dpi-id]] · Entities: [[bcrg]] · [[tresor-pay]] · [[mojaloop]]
+Place: [[GIN]] · Concepts: [[dpi.pay]] · Intersection: [[guinea--dpi-id]] · Entities: [[bcrg]] · [[tresor-pay]] · [[cauridor]] · [[coris-money-guinea]] · [[ks-wallet-guinea]] · [[mojaloop]]
+
+## 2026 fintech wave
+
+Around the state's instant-payment build, a burst of **private e-money and cross-border** entrants arrived in
+2026: **[[coris-money-guinea|CORIS Money]]** (bank-issued, Coris Bank, Feb 2026), **[[ks-wallet-guinea|KS-Wallet]]**
+(BGB Solutions, non-bank, Apr 2026), **Orange Money "Accès à ma banque"** wallet↔bank interoperability with
+**BNG** (Mar 2026), and **[[cauridor|Cauridor]]** — a **Guinea-founded cross-border payments infrastructure**
+now in **36 countries** (ex-Flutterwave COO). **Visa** opened talks with the Finance Ministry toward a
+central-bank MoU to shift Guinea off cash (Apr 2026). Sources:
+[[2026-02-19-techafricanews-coris-money-launch]], [[2026-04-01-mediaguinee-bgb-solutions-ks-wallet-emoney]],
+[[2026-03-13-mediaguinee-orange-money-bng-acces-a-ma-banque]], [[2026-04-14-techcabal-cauridor-appoints-coo]],
+[[2026-04-12-techreviewafrica-visa-engages-guinea-digital-payments]].
 
 ## Sources
 
