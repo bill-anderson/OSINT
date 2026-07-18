@@ -17,6 +17,12 @@ last_reviewed: 2026-07-18
 > across Fayda, payments, data protection, GovTech, infrastructure and health. Dated events, newest
 > first; they sit alongside the pre-existing entries below.
 
+- **2026-02-05** — **Horizon Fiber binding agreement (Djibouti–Ethiopia–Sudan).** **Ethio Telecom**,
+  **Djibouti Telecom** and the **Sudatel Group** converted their Dec-2024 Horizon Fiber MoU into a
+  binding agreement, establishing a resilient terrestrial fibre corridor from Djibouti's subsea landing
+  stations through Ethiopia to Sudan — CEO Frehiwot Tamru framing it as strengthening Ethiopia's role as
+  a **strategic digital transit hub**. See [[infra.connect]], [[gov.regional]], [[DJI]], [[SDN]]. Source:
+  [[2026-02-05-east-african-telcos-cross-border-fiber-connectingafrica]].
 - **2026-07** — **Fayda at 46.5m; refugee-inclusion "Makatet."** **[[fayda-ethiopia-national-id|Fayda]]**
   reached **46.5m registrations** (from 16.4m in Jun 2025); the new **Makatet** framework makes it central to a
   **state-led refugee-inclusion** model (1.1m refugees + 2m IDPs). See [[dpi.id]], [[ethiopia--dpi-id]],

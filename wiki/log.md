@@ -6081,3 +6081,17 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
 - Dedup: Nation marketplace primary (2026-06-07) kept alongside existing itweb source — complementary
   (adds dataset-type detail + is the national-paper primary), not a relevant-duplicate.
 - Note: 4 summary-only `[CLIP]` (The Standard: Treasury-leak, AG-handover, Pesaflow-heist, Kabogo pivot).
+
+## 2026-07-18 — ingest(KEN) chunk 4/8: Connectivity / telecom
+
+- **12 sources admitted** (0 leads, 0 discards).
+- **Intersection created:** [[kenya--infra-connect]] — hub for the connectivity cluster: CA Q3 market
+  structure (84.1m SIMs, Safaricom 68.9%, Starlink top-10 fixed ISP); 50m smartphones; 25-year unified
+  licence; Daraja subsea cable; Bayobab UG-KE route; LINX Nairobi peering; Ericsson 5G transport; Huawei
+  FTTR; Digital Superhighway rural/county (Kirinyaga OGN).
+- **Entities created:** [[meta-daraja-subsea-cable]] (deal), [[bayobab]] (company/MTN), [[linx-nairobi]]
+  (resource/IXP), [[angani]] (company/cloud — also feeds AI-infra chunk).
+- **Mis-tag corrected:** `2026-02-05-east-african-telcos-cross-border-fiber` was staged `[KEN]` but is
+  the **Djibouti–Ethiopia–Sudan Horizon Fiber** corridor (no Kenya) → retagged `[ETH, DJI, SDN]` and
+  filed to the [[ETH|Ethiopia]] hub, not Kenya.
+- Note: 1 summary-only `[CLIP]` (Starlink share, The Standard).

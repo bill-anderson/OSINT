@@ -6,7 +6,7 @@ publisher: Connecting Africa
 published: 2026-02-05
 date_precision: day
 date_source: source
-places: [KEN]
+places: [ETH, DJI, SDN]
 topics: [infra.connect, gov.regional]
 entities: []
 lens: []
