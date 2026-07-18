@@ -5997,3 +5997,8 @@ Huawei contract 9 Jul 2026 geopol.china), telgesa-gnq (company; new 2nd state op
 gnq-medusa-cable (initiative; Analysys Mason study, Medusa landing Bome/Bata €20-60m 2029-30, Via Africa MoU). Gabon-EqG
 fibre/roaming/frequency (Mongomo Nov 2025); Starlink entry signal; telecoms-law reform tender. RadioMacuto independent
 counterweight (opaque Huawei procurement) — capture-not-endorsement.
+
+## 2026-07-18 — ingest(GNQ) chunk 2/5: Digital ID & civil registry
+3 sources admitted. Updated cnedoge (parliamentary scrutiny 2025-04 fees/consumable shortages; new provincial offices
+Mongomo/Ciudad de la Paz + online cita-previa portal cnedoge.com 2026-06 — first citizen e-gov service; GNQ hosted continental
+African CRVS experts' meeting Sipopo Jun 2025, AU/UNECA APAI-CRVS 2023-2027, INEGE-led). No new entities.
