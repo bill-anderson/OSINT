@@ -5599,3 +5599,10 @@ inline (TechPark €45.59M = $51.7M; AfDB E-PFMRP €17.7M = $20.7M — same eve
 items are `body_completeness: paywalled` [CLIP] (canonical URL to verify on any re-use). Indexes updated
 (9 entities + NOSi-Angola deal; CPV places-index row). MANIFEST → new-queue/done/CPV/. Ingested in 5
 thematic chunks. All 60 source links lint clean (0 unresolved, 0 orphans).
+
+### 2026-07-18 · ingest DJI · chunk 1/4 — Connectivity & regional cables
+**15 sources admitted (many multi-outlet twins).** New intersection [[djibouti--infra-connect]]; new entity
+[[djibouti-digital-foundation-dfn]] (WB fibre to the interior — Ali-Sabieh hospital, Damerjog school).
+Horizon Fiber binding deal (~2,800km/144 pairs/14ms, 5 outlets); DARE1 Kenya-SA extension (36 Tbit/s, 3
+twins); Ethio-DJT partnership; Djibouti Telecom monopoly profile (**stale cable figures flagged, not
+promoted**); Wingu $60M (AMS-IX IXP). All 15 moved new→raw.
