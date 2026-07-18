@@ -25,7 +25,7 @@ split; the same account **re-dates RDC-PASS** ("targeted a March rollout, but no
 announced" — the March target slipped). A thin PR-wire piece also asserts new fintech/cloud/platform
 **regulatory frameworks** without naming an instrument (treated as a lead). Sources:
 [[2026-05-06-drc-seeks-consultant-digital-transformation-dpi-biometricupdate]],
-[[2026-04-07-drc-improves-digital-economy-framework-regulatory-measures-techreviewafrica], [2026-06-01-scpt-redressement-communique-rdcmonde]].
+[[2026-04-07-drc-improves-digital-economy-framework-regulatory-measures-techreviewafrica]].
 
 ## Sectoral registers & platforms
 

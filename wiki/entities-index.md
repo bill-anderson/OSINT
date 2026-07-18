@@ -6,6 +6,13 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 
 | Entity | Places | Topics | Page |
 |---|---|---|---|
+| DERMALOG | DEU, COD | dpi.id, dpi.registry | [[dermalog]] |
+| Genew Technologies | CHN, COD | infra.connect, geopol.china | [[genew-technologies]] |
+| Paratus Group | COD, XAF | infra.connect | [[paratus-group]] |
+| Helios Towers (DR Congo) | COD | infra.connect, infra.energy | [[helios-towers-drc]] |
+| MainMoney | COD | dpi.pay, dpi.id | [[mainmoney]] |
+| Flash (DR Congo) | COD, COG | dpi.pay, include.access | [[flash-drc]] |
+| MultiPay (DR Congo) | COD | dpi.pay, finance.new | [[multipay-drc]] |
 | Beyon Connect | BHR, CIV | dpi.id, dpi.govtech | [[beyon-connect]] |
 | Artefact | CIV, FRA | tech.ai, tech.industry | [[artefact]] |
 | Cloudoor (Door) | CIV, SEN | infra.store | [[cloudoor]] |
@@ -398,6 +405,8 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 
 | Entity | Places | Topics | Page |
 |---|---|---|---|
+| FDSU (Universal Service Development Fund, DR Congo) | COD | infra.connect, include.access, digital.rural | [[fdsu-drc]] |
+| BCC (Banque Centrale du Congo) | COD | dpi.pay, finance.new | [[banque-centrale-du-congo]] |
 | ANSSI (National Info-Systems Security Agency, CIV) | CIV | infra.cybersec, gov.legislate | [[anssi-cote-divoire]] |
 | CAIDP (Access to Public-Interest Information Commission, CIV) | CIV | data.open, gov.policy | [[caidp]] |
 | MTND (Ministry of Digital Transition, CIV) | CIV | gov.policy, tech.ai | [[ministry-of-digital-transition-cote-divoire]] |
@@ -688,6 +697,10 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 
 | Entity | Places | Topics | Page |
 |---|---|---|---|
+| DRC sovereign satellite (Monacosat) | COD, MCO | infra.connect, data.satellite | [[monacosat-drc-satellite]] |
+| RGPH-2 (2nd population & housing census, DR Congo) | COD | data.statistics, gov.policy | [[rgph2-drc]] |
+| ADIS (Africa Digital Innovation Summit, DR Congo) | COD | tech.innovate, gov.regional | [[adis-drc]] |
+| RSU (Registre Social Unique, DR Congo) | COD | dpi.registry, dpi.mis | [[rsu-drc]] |
 | PARAE (CIV AI/data support programme) | CIV | tech.ai, finance.new, infra.store | [[parae]] |
 | National Data Centre (Côte d'Ivoire) | CIV | infra.store, geopol.usa | [[national-data-centre-civ]] |
 | Digital City (Côte d'Ivoire) | CIV | infra.store, dpi.govtech | [[digital-city-civ]] |
@@ -1106,6 +1119,11 @@ Databases, registries, datasets, tools and portals consulted repeatedly (entity_
 
 | Resource | Places | Topics | Page |
 |---|---|---|---|
+| ACIX (DR Congo distributed internet exchange) | COD | infra.connect, infra.store | [[acix-drc]] |
+| SISAG (DR Congo govt programme-tracking MIS) | COD | dpi.mis, dpi.govtech | [[sisag-drc]] |
+| ESURSI (DR Congo higher-education digital portal) | COD | dpi.mis, dpi.govtech | [[esursi-portal]] |
+| MIKUBA (ONEM skills/labour-market database, DR Congo) | COD, BEL | dpi.registry, capacity.training | [[onem-mikuba]] |
+| Bokeli (FOGEC AI business-plan platform, DR Congo) | COD | tech.ai, dpi.govtech | [[bokeli-fogec]] |
 | EMY 101 (CIV government AI assistant) | CIV | tech.ai, dpi.govtech | [[emy-101]] |
 | GUCE-CI (Single Window for Foreign Trade) | CIV | dpi.govtech, dpi.exchange | [[guce-ci]] |
 | CERTINUM (ARTCI data-protection compliance platform) | CIV | gov.protect, gov.standards | [[certinum]] |
@@ -1178,6 +1196,8 @@ about or from one becomes a normal source that cites it.
 
 | Instrument | Places | Topics | Page |
 |---|---|---|---|
+| DR Congo Access to Information bill | COD | data.open, gov.legislate | [[access-to-information-bill-drc]] |
+| TICEF (DR Congo national ICT-for-education policy) | COD | gov.policy, dpi.mis | [[ticef-drc]] |
 | Côte d'Ivoire National AI Strategy | CIV | tech.ai, gov.policy | [[civ-ai-strategy]] |
 | Côte d'Ivoire National Data Governance Strategy 2030 | CIV | data.open, gov.policy | [[civ-data-governance-strategy]] |
 | Cameroon Personal Data Protection Law (Law 2024/017) | CMR | gov.protect, gov.legislate | [[cameroon-data-protection-law-2024]] |

@@ -4,9 +4,9 @@ title: DR Congo
 code: COD
 parent: XCA
 place_kind: country
-topics: [dpi.id, dpi.registry, dpi.govtech, dpi.exchange, dpi.pay, dpi.mis, gov.protect, gov.legislate, finance.new, infra.connect, tech.industry, gov.policy, include.access, include.divides, geopol.usa, geopol.gulf, geopol.china, infra.store, infra.cybersec, capacity.training, data.satellite, tech.ai]
+topics: [dpi.id, dpi.registry, dpi.govtech, dpi.exchange, dpi.pay, dpi.mis, gov.protect, gov.legislate, finance.new, infra.connect, tech.industry, gov.policy, include.access, include.divides, geopol.usa, geopol.gulf, geopol.china, infra.store, infra.cybersec, capacity.training, data.satellite, tech.ai, data.open, digital.rural, gov.standards, gov.regional, capacity.literacy, capacity.research, tech.innovate, geopol.eu, infra.energy]
 status: active
-last_reviewed: 2026-07-16
+last_reviewed: 2026-07-18
 ---
 
 # DR Congo (COD)
@@ -41,7 +41,9 @@ last_reviewed: 2026-07-16
   **[[trident-digital-tech]]** (signed June 2025) — raising data-sovereignty
   concerns. Source:
   [[2026-06-11 DR Congo to Launch National Digital Identity System RDC-PASS on June 13]].
-  See **[[drc--dpi-id]]**, [[dpi.id]], [[gov.protect]]. *(⚠ confirm launch occurred.)*
+  See **[[drc--dpi-id]]**, [[dpi.id]], [[gov.protect]]. *(Launch **confirmed** — 13 Jun 2026 state
+  ceremony, two independent outlets; national-press record adds the ONIP physical-card track as a
+  securitised life-course register, IDEMIA re-dated $697m→$1.2bn, and [[dermalog]] passports.)*
   **Backstory (the reset):** RDC-PASS followed the **Aug 2024 cancellation of a $1.2bn [[idemia]]/Afritech
   biometric-ID contract** (overbilling; [[onip-drc]]) → a Trident framework (Dec 2024) → validation phase
   (Mar 2025) → the definitive 20-yr PPP (Jun 2025). A **separate physical-card track** with Ghana's
@@ -156,6 +158,22 @@ last_reviewed: 2026-07-16
   concession; cybersecurity/digital-trust pillar of the 2026–2030 blueprint.
 - [[infra.connect]] · [[infra.store]] · [[include.access]] — low mobile coverage / smartphone
   penetration; broadband + Tier-3 Kinshasa data-centre build-out under the blueprint.
+- **Connectivity, in full** → **[[drc--infra-connect]]** — the batch's distinctive thread: **AFC/M23 war as
+  connectivity-destroyer** (eastern outages, mobile money the first casualty); **Starlink licensed** +
+  Monacosat $400m sovereign satellite + [[fdsu-drc|FDSU]]; **[[helios-towers-drc|Helios]]** towers,
+  **[[genew-technologies]] $1.5bn Congo River fibre** (first big Chinese entry), [[acix-drc]] IX,
+  [[paratus-group]] G2M.
+- **Govtech & state-function** → **[[drc--dpi-govtech]]** — National e-Gov Strategy 2025–2030;
+  [[rsu-drc]] social register; [[esursi-portal]]/[[ticef-drc]] education; [[onem-mikuba]] labour DB; IGF/
+  E-Contrôle; WFP biometric aid routing around bank closures in conflict zones.
+- **Payments, in full** → **[[drc--dpi-pay]]** — the **[[banque-centrale-du-congo|BCC]]'s de-dollarisation**
+  (no foreign cash from 9 Apr 2027) vs proliferating USD/stablecoin rails; bottom-up interoperability
+  (Ecobank Auto-Allocation, FirstMonie, Transforme/Paycode); [[mainmoney]] palm-vein; [[flash-drc]]/Mastercard.
+- **Data governance** — [[drc-digital-code]] DPO network (first Art. 262 step, Mar 2026) + Livre III;
+  [[access-to-information-bill-drc]]; [[rgph2-drc]] census (first since 1984); [[sisag-drc]].
+- **AI in practice** — the [[drc-national-ai-strategy]] now shows AI **marking state exams**, [[bokeli-fogec]]
+  and [[adis-drc]]; a DRC–China police/cyber accord. *(Minister Kibassa's portfolio was renamed mid-window,
+  PTNTIC → Économie Numérique.)*
 - [[tech.industry]] · [[gov.policy]] · [[finance.new]] · [[capacity.training]] — telecoms tax burden;
   the $1.5bn PNN2 2026–2030 reform roadmap; 250,000-youth AI/cyber training goal.
 - [[geopol.usa]] — USD-pegged stablecoin rails; the **[[payservices]]** $400m US-court lawsuit
@@ -164,8 +182,11 @@ last_reviewed: 2026-07-16
 
 ## Entities
 
-- **Digital ID:** [[rdc-pass]] · [[trident-digital-tech]] · [[idemia]] · [[onip-drc]] · [[margins-id-group]] · [[drc-digital-code]] · [[felix-tshisekedi]]
-- **Strategy/registry:** [[drc-national-digital-plan-pnn2]] · [[drc-national-ai-strategy]] · [[encore-drc]]
+- **Digital ID:** [[rdc-pass]] · [[trident-digital-tech]] · [[idemia]] · [[onip-drc]] · [[margins-id-group]] · [[dermalog]] · [[drc-digital-code]] · [[felix-tshisekedi]]
+- **Strategy/registry:** [[drc-national-digital-plan-pnn2]] · [[drc-national-ai-strategy]] · [[encore-drc]] · [[rsu-drc]] · [[rgph2-drc]] · [[sisag-drc]] · [[access-to-information-bill-drc]]
+- **Connectivity:** [[helios-towers-drc]] · [[genew-technologies]] · [[paratus-group]] · [[acix-drc]] · [[fdsu-drc]] · [[monacosat-drc-satellite]]
+- **Payments:** [[banque-centrale-du-congo]] · [[mainmoney]] · [[flash-drc]] · [[multipay-drc]] · [[mastercard]]
+- **Govtech/sectoral:** [[esursi-portal]] · [[ticef-drc]] · [[onem-mikuba]] · [[adis-drc]] · [[bokeli-fogec]] · [[cybastion]]
 - **Data centres:** [[oadc-texaf-digital]] · [[raxio-group]] · [[st-digital]]
 - [[visa]] · [[safaricom]] · [[onafriq]] · [[visa-mpesa-onafriq-drc-stablecoin-pilot]]
 - [[payservices]] · [[payservices-drc-banking-deal]] — failed state-banking modernisation; $400m suit.

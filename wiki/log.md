@@ -5439,3 +5439,16 @@ e-Government Strategy 2025–2030** (DPI-consultant search; RDC-PASS March targe
 Go Pass/TRAFIGO, Kinshasa drones/KIN ALERTE, **WFP biometric cards routing aid around bank closures in
 AFC/M23 zones**, SCPT near-insolvency, UNESCO. Six rdc-monde items are date_source:proxy (flagged).
 All 14 moved new→raw. **new/ now empty — 90 admitted, 0 pruned.**
+
+### 2026-07-18 · ingest COD · BATCH COMPLETE
+**90 sources admitted, 0 leads, 0 discards, 0 pruned.** From 90 staged (60 newspaper + 30 trade-journal,
+window 2025-01-01→2026-07-17) — COD's first national-press provenance. **20 new entities** + **3 new
+intersections** ([[drc--infra-connect]], [[drc--dpi-govtech]] + expanded [[drc--dpi-id]]/[[drc--dpi-pay]]).
+COD hub updated. Highlights: **RDC-PASS launch confirmed (13 Jun 2026)** — closes the hub flag; **AFC/M23
+war documented as connectivity-destroyer**; **BCC de-dollarisation** (no foreign cash from 9 Apr 2027);
+Genew **$1.5bn Congo River fibre** (first big Chinese entry); ONIP securitised life-course register; DPO
+network; RGPH-2 census. Re-datings/corrections (tier-2): IDEMIA $697m→$1.2bn; ENCORE quantified. Figure
+caveats recorded inline as dated claims (Helios 32m→39m; $100bn flows; mobile-money 24/29/30/35m). Six
+rdc-monde items are `date_source: proxy` (flagged). Indexes updated (20 entities; COD places-index row).
+MANIFEST → new-queue/done/COD/. Ingested in 8 thematic chunks. All 90 source links lint clean (0
+unresolved, 0 orphans).
