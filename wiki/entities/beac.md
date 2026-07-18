@@ -38,6 +38,13 @@ payment infrastructure.
   national govtech-payments build. See [[GAB]], [[dpi.pay]]. Source:
   [[2025-12-11-gabon-madigipaie-digital-payments-launch]].
 
+- **PAPSS accession dated + a mobile-money-tax fight (2026).** [[gov.regional]] Afreximbank announced
+  (9 Jul 2026) that **CEMAC banks will connect to [[papss]] by end-2026** (PAPSS now 28 countries) —
+  dating the previously bare "BEAC PAPSS accession." Separately, the BEAC governor publicly attacked member
+  states' **mobile-money taxes** as "**régulation parallèle**," proposing to tax **cash** instead — a rare
+  central-bank intervention against national dpi.pay taxation. Sources:
+  [[2026-07-10-beac-joins-papss-cemac-banks-agenceecofin]], [[2026-03-11-beac-mobile-money-taxation-centrafriqueinfos]].
+
 ## Related
 
-- [[papss]] · [[afreximbank]] · [[afcfta]] · [[madigipaie-gabon]] · [[XCA]]
+- [[papss]] · [[afreximbank]] · [[afcfta]] · [[madigipaie-gabon]] · [[cardip]] · [[XCA]]

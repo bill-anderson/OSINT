@@ -162,8 +162,19 @@ Investment flowing into African digital transformation. (A *specific* transactio
   [[SLE]] Sierra Leone**, targeting broadband for 5m+ and digital public services for 5m+ more
   (~10.6m total) via data-centre capacity, cross-border business rules and WAEMU-aligned
   regulatory harmonisation; [[ecowas]], the [[african-union]] and [[smart-africa]] collaborate.
-  See [[infra.connect]], [[dpi.govtech]], [[gov.regional]], [[include.access]]. Source:
-  [[2026-03-16 New $137M initiative to enable digital service access for millions in three ECOWAS nations]].
+  Liberia's **$50m** tranche was signed 2026-06-08 at Mount Coffee (part of a $125m package also
+  covering RESPITE solar and SECRAMP roads). See [[infra.connect]], [[dpi.govtech]], [[gov.regional]],
+  [[include.access]]. Sources:
+  [[2026-03-16 New $137M initiative to enable digital service access for millions in three ECOWAS nations]],
+  [[2026-06-08-125m-world-bank-wardip2-financing-techafricanews]].
+- **[[BEN]] Benin — IFC investment hub + the GSMA growth case (2025).** The **[[ifc]]** signalled up to
+  **$100m/year** into Benin (broadband, mobile, data centres) on a Benin–Nigeria investment-corridor
+  strategy; the evidence base the government cites is a **GSMA** report estimating the digital economy
+  could add **XOF 1.2tn** of GDP and **300,000 jobs by 2028** (mobile sector already XOF 960bn, 2023),
+  with a call to scrap the mobile-money levy; Benin also hosted **FONI 2025** linking private finance to
+  public-service digitalisation. See [[dpi.pay]], [[infra.connect]], [[BEN]]. Sources:
+  [[2025-07-10-techcabal-ifc-benin-investment-hub]], [[2025-01-30-techafricanews-gsma-benin-digital-economy-report]],
+  [[2025-05-23-foni-2025-cotonou-financement-digitalisation]].
 - **[[SSD]] South Sudan — blended finance for green telecom power (2026-02).** **[[finnfund]]**
   committed a **$5m** follow-on (total $10m) into **[[crei-south-sudan]]**, backed by the EU's
   EFSD+/Africa Connected, to fund solar-hybrid energy across [[mtn-group]]'s 499 South Sudan

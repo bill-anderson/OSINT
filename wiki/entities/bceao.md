@@ -2,11 +2,11 @@
 type: entity
 entity_type: government-body
 title: BCEAO (Banque Centrale des États de l'Afrique de l'Ouest)
-places: [TGO, SEN, XWA]
+places: [TGO, SEN, XWA, BEN]
 topics: [dpi.pay, dpi.exchange, gov.regional, gov.standards, include.access, tech.innovate]
 status: active
-last_reviewed: 2026-07-17
-sources: [[2025-10-01 BCEAO Launches Instant Payments Platform in Togo with Three Banks], [2025-11-18 BCEAO Launches Developer Sandbox for Instant Payments], [2025-10-31 Ecobank launches instant international payment service in Togo]]
+last_reviewed: 2026-07-18
+sources: [[2025-10-01 BCEAO Launches Instant Payments Platform in Togo with Three Banks], [2025-11-18 BCEAO Launches Developer Sandbox for Instant Payments], [2025-10-31 Ecobank launches instant international payment service in Togo], [2025-10-07-lancement-pi-spi-uemoa], [2026-03-17-uemoa-248-millions-comptes-momo], [2025-09-15-bceao-monnaie-numerique-jeunes-entrepreneurs-beninois]]
 ---
 
 # BCEAO (Banque Centrale des États de l'Afrique de l'Ouest)
@@ -42,13 +42,27 @@ builder of shared regional payments infrastructure rather than a national regula
   [[ecobank-thunes-partnership]]. Source:
   [[2025-10-31 Ecobank launches instant international payment service in Togo]].
 
+- **Union-wide PI-SPI launch (2025-09-30).** [[dpi.pay]] BCEAO launched the **[[pi-spi]]** interoperable
+  instant-payment platform across all eight UEMOA states — instant, 24/7, cross-institution and
+  cross-border, free domestically — the regional rail behind national inclusion drives; connection
+  deadlines later extended to 2026–27. Source: [[2025-10-07-lancement-pi-spi-uemoa]].
+- **Digital-money base + CBDC (2024–26).** [[include.access]] BCEAO's 2024 annual report (Jan 2026) put
+  UEMOA at **248.7m e-money accounts** (+18.99%; 76.8m active) transacting ~119% of union GDP; UEMOA
+  financial inclusion rose **47% (2016) → 72.3% (2023)** with 227 FinTechs mapped. Its **e-CFA CBDC** is in
+  technical pilot (deployment targeted 2025–26), and BCEAO convened an international **crypto-assets**
+  conference (Dakar, May 2026) framing stablecoins as a monetary-sovereignty question. Sources:
+  [[2026-03-17-uemoa-248-millions-comptes-momo]], [[2025-09-15-bceao-monnaie-numerique-jeunes-entrepreneurs-beninois]].
+
 ## Related (mentioned, not hubbed)
 
 Jean-Claude Kassi-Brou (Governor); UEMOA banking federation; Coris Bank; BOA; BIAT; COFINA;
-Banque Atlantique; Sunu Bank Togo.
+Banque Atlantique; Sunu Bank Togo; [[pi-spi]]; OQSF (financial-services quality observatory).
 
 ## Sources
 
 - [[2025-10-01 BCEAO Launches Instant Payments Platform in Togo with Three Banks]]
 - [[2025-11-18 BCEAO Launches Developer Sandbox for Instant Payments]]
 - [[2025-10-31 Ecobank launches instant international payment service in Togo]]
+- [[2025-10-07-lancement-pi-spi-uemoa]]
+- [[2026-03-17-uemoa-248-millions-comptes-momo]]
+- [[2025-09-15-bceao-monnaie-numerique-jeunes-entrepreneurs-beninois]]

@@ -8,7 +8,7 @@ topics: [dpi.id, dpi.registry, include.access, gov.standards]
 entities: [[al-madina], [genkey], [ane-central-african-republic], [oif-la-francophonie], [greater-internet-freedom], [faustin-archange-touadera]]
 lens: [sovereignty, colonialism]
 status: active
-last_reviewed: 2026-07-16
+last_reviewed: 2026-07-18
 sources: [[2020-08-21 Centrafrique - Al Madina, la societe qui pose question a Bangui (RFI)], [2023-06-27 Country Report - Rebuilding Identification and Stakeholder Engagement in the Central African Republic], [2023-10-07 Centrafrique - la delivrance de la carte nationale d'identite facilitee pour les habitants de Bossangoa], [2024-10-08 Central African Republic in full biometric voter registration preparations], [2024-12-10 Central African Republic enrols citizens for first local elections in 36 years], [2025-07-27 Centrafrique - le prix des cartes d'identite reduit apres cinq ans de violations de la loi], [2025-08-12 La Francophonie supports birth registration efforts across Central Africa, Madagascar], [2025-12-08 RCA - la societe Al-Madina deploie sa mission d'identite a Birao]]
 ---
 
@@ -50,12 +50,31 @@ first enrolled in 2020. Registration was hampered by the **lack of ID documents*
 fell back on **verbal testimony from traditional chiefs**.
 
 **Civil registration (CRVS).** **[[oif-la-francophonie]]** launched a birth-registration
-project in CAR (2025) targeting **3,000 birth certificates** for undocumented children/youth
-plus staff training — small and early-stage, aligned to SDG 16.9.
+project in CAR (2025) targeting **3,000 birth certificates** — small and early-stage — but the
+**EU/CIVIPOL [[modero-central-african-republic|MODERO]]** programme is an order of magnitude larger,
+targeting **400,000 birth certificates by 2028** and putting the **EU** onto CAR's identity stack.
 
 Biometric collection is **fingerprint-based**; the CNI carries legal-proof status but digital
 authentication / government-portal functions remain absent. See [[dpi.id]], [[dpi.registry]],
 [[include.access]], [[CAF]].
+
+**The "resolved" price scandal, re-dated (2026-06).** The 4,500-FCFA legal tariff restored in 2025 holds
+**on paper**; in substance the extortion **moved to an informal, religiously-targeted layer**. At Ndélé
+(Bamingui-Bangoran) — and reportedly Paoua, Yaloké, Zawa, Markounda and Bangui — corrupt police serve
+**Christians first and relegate Muslims**, demanding **the father's *and* grandfather's birth certificate**
+and charging **100,000–200,000 FCFA** for what should cost 4,500. It is the one piece of adversarial
+domestic reporting this sweep surfaced, and it says more about what the identity system *does* than any
+announcement. Source: [[2026-06-16-cni-extortion-discrimination-ndele-corbeaunews]].
+
+**A second document rail — biometric passports (EDESEC).** Separate from the CNI, biometric **passport**
+issuance resumed (28 Jan 2025) under a new operator **EDESEC** (Édition des Documents Sécurisés en
+Centrafrique), with payment funnelled through **only two banks** (Ecobank, BGFI) — a bottleneck flagged by
+users' associations. Source: [[2025-01-29-passeports-biometriques-edesec-reprise-corbeaunews]].
+
+**Identity as speech control (2026-06).** [[tech.ai]] After the election, the media regulator **HCC**
+(president José Richard Pouambi) framed **AI deepfakes** of Touadéra and officials as cybercrime and
+proposed **tighter SIM-holder identification** as the fix — an explicit **digital-ID → speech-control**
+linkage. Source: [[2026-06-12-hcc-deepfakes-ai-disinformation-centranews]].
 
 ## Links
 
@@ -71,3 +90,6 @@ Place: [[CAF]] · Concepts: [[dpi.id]] · [[dpi.registry]] · [[include.access]]
 - [[2025-07-27 Centrafrique - le prix des cartes d'identite reduit apres cinq ans de violations de la loi]]
 - [[2025-08-12 La Francophonie supports birth registration efforts across Central Africa, Madagascar]]
 - [[2025-12-08 RCA - la societe Al-Madina deploie sa mission d'identite a Birao]]
+- [[2026-06-16-cni-extortion-discrimination-ndele-corbeaunews]]
+- [[2025-01-29-passeports-biometriques-edesec-reprise-corbeaunews]]
+- [[2026-06-12-hcc-deepfakes-ai-disinformation-centranews]]

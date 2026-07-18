@@ -2,7 +2,7 @@
 type: concept
 title: Data Exchange
 slug: dpi.exchange
-places: [MRT, COM, CIV, CMR, AGO, ZMB, XAF, NGA, KEN, MWI, ZAF, RWA, BEN, GHA, ETH, SEN, TGO, XWA, DJI, TZA, XEA, LSO, UGA, COD, CPV, DZA, EGY, ERI, STP, SLE]
+places: [MRT, COM, CIV, CMR, AGO, ZMB, XAF, NGA, KEN, MWI, ZAF, RWA, BEN, GHA, ETH, SEN, TGO, XWA, DJI, TZA, XEA, LSO, UGA, COD, CPV, DZA, EGY, ERI, STP, SLE, BDI]
 entities: [[dzap], [smart-zambia-institute], [afcfta], [papss], [equity-africanenda-gates-dpi-partnership], [ucl-iipp], [dmap], [undp], [popia], [research-ict-africa], [sadx], [smart-africa], [uxp-benin], [cybernetica], [estdev], [estdev-smart-africa-mou], [eac], [wamkele-mene], [afcfta-digital-trade-protocol], [wbg-dpi-white-paper], [dhis2], [africa-cdc], [adli], [dial], [ethswitch], [safaricom], [wingu-africa], [nitda], [ngea], [galaxy-backbone], [new-deal-technologique], [wuri-programme], [ecowas], [sigmat], [cybastion], [securoute], [asin-benin], [micsti-lesotho], [mosip], [gtmi], [onafriq]]
 lens: [sovereignty]
 status: active
@@ -233,10 +233,18 @@ cross-border scale, the legal enforceability of that exchange.
 - **[[SLE]] Sierra Leone — an X-Road service bus in prototype (2024).** Sierra Leone is prototyping a
   **Government Service Bus** on X-Road via a Ministry of Finance PFM working group. See [[dpi.govtech]],
   [[gov.standards]], [[SLE]].
+- **[[XEA]] East Africa — a regional cross-border data-sharing framework (2026-06).** The [[eac]], under
+  the World Bank **[[eardip]]** project, validated a **secure cross-border data-sharing framework** in
+  Dar es Salaam — common transfer standards preserving national regulatory authority — as core
+  infrastructure for the Single Digital Market (mobile money, e-commerce, telemedicine, customs). At
+  national level **[[BDI]] Burundi** put its electronic **Guichet Unique** (+ ABREMA) into production
+  toward the [[asycuda]] customs system. See [[gov.regional]], [[gov.protect]], [[BDI]]. Sources:
+  [[2026-06-25-eac-backs-secure-data-sharing-framework]],
+  [[2026-02-19-burundi-guichet-unique-importation-wearetech]].
 
 ## Places
 
-[[ZMB]] · [[XAF]] · [[NGA]] · [[KEN]] · [[MWI]] · [[ZAF]] · [[RWA]] · [[BEN]] · [[GHA]] · [[ETH]] · [[SEN]] · [[TGO]] · [[XWA]] · [[DJI]] · [[TZA]] · [[XEA]] · [[LSO]] · [[UGA]] · [[COD]] · [[GAB]] · [[STP]] · [[SLE]] · [[GNB]]
+[[ZMB]] · [[XAF]] · [[NGA]] · [[KEN]] · [[MWI]] · [[ZAF]] · [[RWA]] · [[BEN]] · [[GHA]] · [[ETH]] · [[SEN]] · [[TGO]] · [[XWA]] · [[DJI]] · [[TZA]] · [[XEA]] · [[LSO]] · [[UGA]] · [[COD]] · [[GAB]] · [[STP]] · [[SLE]] · [[GNB]] · [[BDI]]
 
 ## Sources
 

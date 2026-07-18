@@ -196,12 +196,18 @@ Cross-border harmonisation of digital infrastructure, rules and markets.
   (live since 2019, showcased at the WCO 2026 conference in Abu Dhabi) is the working cross-border
   data-exchange e-Hub beneath it; the World Bank's **$137m [[wardip]]2** (announced 2026-03-11) funds
   broadband + digital public services for **~10.6m** people in **[[BEN]]/[[LBR]]/[[SLE]]** with
-  [[world-bank]]/[[smart-africa]]/[[african-union]] backing; and **[[papss]]**/[[onafriq]] began a
+  [[world-bank]]/[[smart-africa]]/[[african-union]] backing (Liberia's **$50m** tranche signed
+  2026-06-08); a parallel **[[LBR]]-[[SLE]]-[[GIN]]-[[CIV]] consortium** agreed (Abidjan, Jun 2026) to
+  commercialize spare fibre on the **TRANSCO CLSG** power-transmission grid — terrestrial cross-border
+  redundancy against single-cable (ACE) dependence, targeting operation before end-2026; and
+  **[[papss]]**/[[onafriq]] began a
   CBN-approved pilot moving Nigeria→Ghana payments **fully in naira** (PAPSS: 160+ banks, 400m+
   accounts, 19 countries). See [[dpi.pay]], [[dpi.id]], [[dpi.exchange]], [[gov.standards]]. Sources:
   [[2026-01-24 ECOWAS Adopts Digital Roadmap; Targets Unified Single Market and AI Governance for West Africa]],
   [[2026-01-30 ECOWAS PRESENTS 'SIGMAT' AT THE WORLD CUSTOMS ORGANIZATION 2026 TECHNOLOGY CONFERENCE IN ABU DHABI   Economic Community of West African States (ECOWAS)]],
   [[2026-03-16 New $137M initiative to enable digital service access for millions in three ECOWAS nations]],
+  [[2026-06-08-125m-world-bank-wardip2-financing-techafricanews]],
+  [[2026-06-16-transco-clsg-fibre-expansion-techafricanews]],
   [[2026-02-04 PAPSS, Onafriq launch new trade rail for West Africa]].
 - **[[XEA]] GovTech maturity as regional benchmark (2026-01).** The World Bank's **2025 [[gtmi]]**
   (GovTech Maturity Index; 48 indicators, 4 pillars) placed **[[TZA]] Tanzania** in Group A
@@ -310,6 +316,13 @@ Cross-border harmonisation of digital infrastructure, rules and markets.
   (Mar 2024) and was cleared to **adopt and print the EAC e-Passport** (Feb 2026) — regional integration
   extending the East African bloc's identity and travel rails to the Horn. See [[dpi.id]], [[XEA]],
   [[SOM]].
+- **[[XWA]] Cotonou Declaration — a West & Central Africa single digital market (2025-11).** At a
+  Benin-hosted, World-Bank-co-organised summit (17–18 Nov 2025), digital ministers committed to
+  **90% affordable broadband by 2030**, interoperable DPI (digital ID + payment rails), doubled
+  intra-African e-commerce, harmonised cyber/data/AI frameworks, and mass skilling (**20m** with basic
+  digital skills, **2m** youth/women in digital jobs), with national digital compacts by 2028. See
+  [[BEN]], [[dpi.id]], [[dpi.pay]], [[gov.standards]]. Source:
+  [[2025-11-19-declaration-cotonou-transformation-numerique]].
 
 ## Places
 

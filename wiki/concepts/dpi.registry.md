@@ -98,10 +98,31 @@ maintained and queried.
   the World Bank donated **2,050 mobile biometric terminals** (via [[wuri-programme]] / **[[anip-benin]]**,
   Oct 2024) so health facilities register births, marriages and deaths instantly, and a **digital
   civil-registration** pilot (Oct 2025, UNICEF + WURI) issues a birth certificate **and a Personal
-  Identification Number at birth**. With the 2017–18 mass enrolment, biometric coverage is **~99%**. See
-  [[dpi.id]], [[include.access]]. Sources:
+  Identification Number at birth**. With the 2017–18 mass enrolment, biometric coverage is **~99%** — but
+  the *civil-registration* leg lagged badly: **2021–2025 ~2.5m births were declared yet under 1m
+  registered**, because parents had to make a second trip to an ANIP unit. The fix is a **guichet unique**
+  at maternities (WURI/UNICEF/World Bank) that merges declaration and registration; a 10-maternity pilot
+  lifted the rate to **76.56%** (vs ~22% nationally, 2025), with generalisation slipping 3–4 months into a
+  consolidation phase. See [[dpi.id]], [[include.access]], [[benin--dpi-id]]. Sources:
   [[2024-10-28 Benin receives 2,050 biometric terminals from World Bank to boost civil registration]],
-  [[2025-11-01 Identification System in Benin Increasing Access to Services]].
+  [[2025-11-01 Identification System in Benin Increasing Access to Services]],
+  [[2026-07-16-adjinacou-maternite-identite-legale]],
+  [[2026-02-26-guichet-unique-naissances-bilan-six-mois]].
+- **[[BFA]] Burkina Faso — CRVS + a social registry under a security crisis (2024–26).** The **SNEC**
+  civil-registration strategy ([[veneem]]) hit **64.11%** execution in 2024 (**3.39m acts, 54 communes**;
+  30 communes fully digitised by end-2025), issuing **121,000 acts to internally displaced persons** (2×
+  the target) — registration as resilience. A **Registre Social Unique** interoperating with the unique ID
+  reached **362,698 households / 2.2m people (99 communes)**. See [[dpi.id]], [[burkina-faso--dpi-id]],
+  [[BFA]]. Sources: [[2025-06-19-snec-taux-execution-physique-6411-2024]],
+  [[2026-01-06-registre-social-unique-protection-sociale]].
+- **[[BEN]] Benin — a digital land cadastre with a legal lock (2025–26).** Alongside the CRVS/RNPP,
+  **[[andf-benin|ANDF]]**'s **e-Foncier Bénin** platform (InfoCad field app; per-parcel **NUP**) registered
+  **445,695 parcels** (Mar 2026; **491,420** across 12 communes at the Feb-2025 baseline), Netherlands-funded
+  via PMAF→PPMEC. **Décret 2025-176** (9 Apr 2025) makes the **Certificat d'Enregistrement au Cadastre**
+  mandatory for any transaction — legalising sales without a full title but only through e-FB, closing the
+  informal land market; a national **addressing** strategy and GIS urban registries (Abomey, fiscal) extend
+  it. Women hold ~12% of parcels. See [[digital.localgov]], [[BEN]]. Sources:
+  [[2026-03-26-andf-e-foncier-cadastre-national-445000-parcelles]], [[2025-02-04-e-foncier-491000-parcelles]].
 - **[[CIV]] Côte d'Ivoire — the RNPP as service backbone (2026-01).** **[[oneci]]**'s biometric
   **National Register of Natural Persons (RNPP)** is the pillar under the new **[[maposte]]** super-app,
   which delivers ID cards and civil-status/nationality/criminal-record certificates on a certified

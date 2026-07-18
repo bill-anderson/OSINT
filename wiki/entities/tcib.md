@@ -16,7 +16,7 @@ The **SADC regional cross-border instant-payments scheme** — real-time low-val
 
 ## Activity in this wiki
 
-- **Botswana activation (2026).** TCIB activated payments into Botswana via **First Capital Bank (FCB) Botswana**, extending real-time SADC cross-border/remittance rails to the country. See [[dpi.pay]], [[gov.regional]], [[XSA]]. Source: [[2026-03-02 PayInc and First Capital Bank Botswana Launch Instant Cross-Border Payments (TCIB)]].
+- **Botswana activation (2026).** TCIB activated payments into Botswana via **First Capital Bank (FCB) Botswana**, extending real-time SADC cross-border/remittance rails to the country — with inbound corridors from **South Africa (SendHome)** and **Zimbabwe (ZB Bank)**. See [[dpi.pay]], [[gov.regional]], [[XSA]]. Sources: [[2026-03-02 PayInc and First Capital Bank Botswana Launch Instant Cross-Border Payments (TCIB)]], [[2026-03-02-payinc-fcb-botswana-tcib-corridor-live-techafricanews]], [[2026-03-02-fcb-botswana-payinc-tcib-cross-border-payments-itweb]], [[2026-03-09-first-capital-bank-rolls-out-instant-sadc-payments]].
 - Part of the SADC regional-payments layer (alongside the SADC-RTGS and the cross-border DPI/eKYC framework — [[sadc-cross-border-dpi-framework]]).
 
 ## Related

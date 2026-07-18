@@ -2,7 +2,7 @@
 type: concept
 title: Other GovTech and e-Gov
 slug: dpi.govtech
-places: [MRT, COG, COM, BWA, BFA, BDI, AGO, ZMB, ZAF, XGL, MWI, GHA, NAM, KEN, NGA, UGA, BEN, CIV, MOZ, COD, TZA, RWA, SDN, EGY, CMR, CAF, DJI, CPV, DZA, ERI, GIN, STP, SSD, SLE, SWZ, TGO, TCD, SYC]
+places: [MRT, COG, COM, BWA, BFA, BDI, AGO, ZMB, ZAF, XGL, MWI, GHA, NAM, KEN, NGA, UGA, BEN, CIV, MOZ, COD, TZA, RWA, SDN, EGY, CMR, CAF, DJI, CPV, DZA, ERI, GIN, STP, SSD, SLE, SWZ, TGO, TCD, SYC, LBR]
 entities: [[smart-zambia-institute], [dzap], [david-eaves], [sita], [ucl-iipp], [dmap], [govguide-nigeria], [meta], [bosun-tijani], [malawi-revenue-authority], [mosip], [uxp-benin], [cybernetica], [kenya-revenue-authority], [nitda], [ngea], [galaxy-backbone], [safaricom], [sars], [sarb], [oneci], [maposte], [la-poste-cote-divoire], [atdi-mozambique], [malawi-ministry-of-ict], [undp], [gtmi], [world-bank], [trident-digital-tech], [rdc-pass], [idea-mpa], [government-in-your-hand], [digital-eswatini-project], [services-publics-togo], [otr-togo], [gest-exo], [ministry-of-transport-chad], [registrar-general-office-seychelles], [ima-angola], [tis-angola], [agt-angola], [i-lab-angola], [serpro]]
 lens: [sovereignty]
 status: active
@@ -77,11 +77,25 @@ Government service delivery online.
   records) — "technology sovereignty" as a procurement strategy. See [[dpi.id]],
   [[tech.innovate]]. Source:
   [[2026-05-22 Uganda launches prototype program for digital ID and public infrastructure]].
+- **[[BWA]] Botswana — a "digital-by-default" reform after a stalled decade (2025–26).** Under Minister
+  Tshere, Botswana is standing up a **[[digital-services-act-botswana|Digital Services Act + Digital
+  Services Authority]]** to set interoperability/cyber/governance standards across MDAs, on the
+  **1Gov-1Citizen** platform (e-services **33→52**, SD-WAN over 600 sites, 13,400+ facilities on the Local
+  Access Network) — recovering from a **P500m e-government programme** the Auditor General judged a fiasco,
+  and drawing on **Estonia** (Nortal, Baltic Computer Systems) and Rwanda's **Irembo**. A **PEMANDU Citizen
+  Wallet + Cryptographic Card** ([[pemandu-citizen-wallet]]) is the DPI layer beneath. See [[BWA]],
+  [[gov.legislate]]. Sources: [[2026-03-18-botswana-1gov-1citizen-digital-services-act-techafricanews]],
+  [[2025-05-12-anatomy-of-a-p500-million-e-government-fiasco]].
 - **[[BEN]] Benin — e-services on a national exchange (2026-07).** Benin routes public
   services through a single **Portail des services publics** riding on the **[[uxp-benin]]**
   exchange (**[[cybernetica]]**'s UXP), the most active client on a bus carrying 138m+
-  requests — the working template for interoperable e-gov the region is chasing. See
-  [[dpi.exchange]]. Sources: [[2026-07-11 UXP Directory]], [[2026-07-03 Cybernetica]].
+  requests — the working template for interoperable e-gov the region is chasing. **1,000+** services
+  are digitised and **210+ fully dematerialised** (>85% online, 2025); ASIN is now **"urbanising"** the
+  fragmented state IS via two referentials — **PASI** (architecture) and **PDAIE** (application
+  integration) — and pushing govtech to communes (e-Commune, the GEC mail platform, the "229 Cadre de
+  Vie" citizen-reporting app). See [[dpi.exchange]], [[benin-digital-strategy-2031]]. Sources:
+  [[2026-07-11 UXP Directory]], [[2026-07-03 Cybernetica]],
+  [[2026-07-01-pasi-pdaie-architecture-systemes-etat]].
 - **Also this ingest (2026-07).** Related e-gov moves carried on their country hubs:
   Ghana's Japanese-backed **AI-for-public-services** programme and Civil-Service AI
   capacity-building ([[GHA]]); Namibia's smart-city **digital government services**
@@ -242,11 +256,31 @@ Government service delivery online.
 
 - **[[AGO]] Angola — a coordinated agenda on a low base (2025–26).** Angola's **Governo Digital 2027** agenda counts **218 structuring projects** (2026-03, up from 214 in 2025) under the **[[ima-angola|IMA]]**, from a UN **EGDI 156/193** base (up 18 places in a decade). The concrete DPI backbone is a **US$150m IMA–[[tis-angola|TIS]] contract** (Despacho Presidencial 38/26): interoperability platform, digital identity, **PKI e-signatures**. A PKI/time-stamp **trust layer** underpins **[[agt-angola|AGT]]** mandatory e-invoicing (live 1 Jan 2026) and a FATCA data flow to the US IRS; the Ministry of Finance's **[[i-lab-angola|i.Lab]]** (with Brazil's **[[serpro]]**) tests public-finance solutions under a sovereignty framing; INSS and Cubango-province ([[digital.localgov]]) rollouts extend it. Rare user-side evidence: SME/DTSER digitisation ended the informal "mixeiros" but the portal is hard to use. → **[[angola--dpi-govtech]]**. Sources: [[2026-03-05-governo-aposta-reorganizacao-administracao-publica-governo-digital-2027]], [[2026-06-17-ima-tis-contrato-projecto-infra-estruturas-digitais-publicas]], [[2025-11-06-servicos-digitais-no-sme-e-dtser-acabam-com-enchentes]].
 
+- **[[BDI]] Burundi — revenue-first digitalisation (2026).** Burundi's govtech push runs through its
+  revenue authority [[obr-burundi|OBR]]: the World-Bank-backed **e-KORI** online tax platform (launched
+  19 Jan 2026, nine-phase rollout) and the electronic **Guichet Unique** single window (+ **ABREMA**
+  pharma-import module, Feb 2026; [[unctad]]/[[asycuda]]) — pitched as mobilising domestic revenue
+  "without relying exclusively on external aid," under the [[pafen-burundi|PAFEN]] Digital Foundations
+  Project and Vision 2040/2060. See [[dpi.exchange]], [[BDI]]. Sources:
+  [[2026-01-20-burundi-revenue-authority-e-kori-digital-tax-platform]],
+  [[2026-02-19-burundi-guichet-unique-importation-wearetech]].
+- **[[LBR]] Liberia — a whole-of-government coordinator, on a stalled ID base (2025–26).** Boakai's
+  **[[otdi-liberia|Executive Order 163]]** (22 Apr 2026) creates the **NDMI** and the **Office of
+  Technology, Digitalization and Innovation (OTDI)** in the Presidency — enterprise architecture and
+  interoperability frameworks, **technical clearance** for major ICT investments, baseline cybersecurity,
+  and a 60-day systems inventory / 180-day roadmap / 12-month draft law. Early service-delivery wins
+  include the CSA's biometric **Legal Power of Attorney** platform (5,000 civil servants, Dec 2025) and
+  the **[[wardip|WARDIP2]]** $50m digital-governance tranche — even as the flagship national ID stays
+  stalled ([[national-identification-registry-liberia|NIR]], [[liberia--dpi-id]]) and tech-sector voices
+  press for inclusion of Liberian expertise. See [[gov.standards]], [[dpi.exchange]], [[infra.cybersec]],
+  [[LBR]]. Sources: [[2026-04-29-executive-order-163-digital-government-ndmi-observer]],
+  [[2025-12-17-csa-automated-lpa-platform-observer]].
+
 ## Places
 
 [[AGO]] · [[ZMB]] · [[ZAF]] · [[XGL]] · [[MWI]] · [[GHA]] · [[NAM]] · [[KEN]] · [[NGA]] · [[UGA]] · [[BEN]] ·
 [[CIV]] · [[MOZ]] · [[COD]] · [[TZA]] · [[RWA]] · [[SDN]] · [[EGY]] · [[CMR]] · [[CAF]] · [[GAB]] ·
-[[STP]] · [[SSD]] · [[SLE]] · [[SWZ]] · [[TGO]] · [[TCD]] · [[SYC]]
+[[STP]] · [[SSD]] · [[SLE]] · [[SWZ]] · [[TGO]] · [[TCD]] · [[SYC]] · [[LBR]]
 
 ## Sources
 

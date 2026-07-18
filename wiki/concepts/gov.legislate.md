@@ -233,10 +233,21 @@ localization mandates, and the competition/antitrust angle on cloud concentratio
   [[2026-07-08-deputados-suspendem-discussao-lei-da-ciberseguranca]],
   [[2026-05-21-lei-contra-fake-news-aprovada-definitivamente]],
   [[2026-05-06-consulta-publica-proposta-de-lei-do-governo-digital]].
+- **[[LBR]] Liberia — rule by executive order, ahead of statute.** Liberia's digital agenda advances
+  largely by **executive order** while primary law lags: **EO 147** (Apr 2025) mandated biometric ID and
+  **EO 163** (Apr 2026) created the [[otdi-liberia|OTDI/NDMI]] digital-government framework, each promising
+  follow-on legislation (EO 163 gives 12 months to draft an institutionalising law). The
+  **[[liberia-data-protection-bill|Personal Information Act]]** reached a House committee (Jun 2025) but is
+  unpassed; a **Cybercrime Act 2025** exists; and the [[lta-liberia|LTA]] is rewriting the licensing regime
+  under the 2007 Telecom Act (splitting infrastructure/service licences, satellite and IMEI rules). See
+  [[dpi.id]], [[gov.protect]], [[LBR]]. Sources:
+  [[2025-06-11-house-reviews-privacy-data-protection-bill-observer]],
+  [[2026-04-29-executive-order-163-digital-government-ndmi-observer]],
+  [[2026-07-17-lta-telecom-reforms-star-cell-revoked-fpa]].
 
 ## Places
 
-[[AGO]] · [[XAF]] · [[NGA]] · [[KEN]] · [[XGL]] · [[GHA]] · [[ZAF]] · [[MOZ]] · [[NAM]] · [[RWA]] · [[XSA]] · [[ZMB]] · [[SOM]] · [[COG]] · [[UGA]] · [[MWI]] · [[STP]] · [[SSD]] · [[SLE]] · [[SWZ]] · [[SYC]] · [[TCD]] · [[TGO]] · [[XWA]] · [[GNB]]
+[[AGO]] · [[XAF]] · [[NGA]] · [[KEN]] · [[XGL]] · [[GHA]] · [[ZAF]] · [[MOZ]] · [[NAM]] · [[RWA]] · [[XSA]] · [[ZMB]] · [[SOM]] · [[COG]] · [[UGA]] · [[MWI]] · [[STP]] · [[SSD]] · [[SLE]] · [[SWZ]] · [[SYC]] · [[TCD]] · [[TGO]] · [[XWA]] · [[GNB]] · [[LBR]]
 
 ## Related
 

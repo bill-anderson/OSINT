@@ -2,7 +2,7 @@
 type: concept
 title: AI
 slug: tech.ai
-places: [COD, CIV, CMR, AGO, CAF, DJI, EGY, ETH, GHA, KEN, MAR, MWI, NAM, NGA, RWA, SDN, SEN, UGA, XEA, ZAF, ZMB, ZWE, XSA, XGL, XSS, DZA, SLE, ERI, MLI, BFA, GIN, BEN, XWA]
+places: [COD, CIV, CMR, AGO, CAF, DJI, EGY, ETH, GHA, KEN, MAR, MWI, NAM, NGA, RWA, SDN, SEN, UGA, XEA, ZAF, ZMB, ZWE, XSA, XGL, XSS, DZA, SLE, ERI, MLI, BFA, GIN, BEN, XWA, BDI]
 entities: [[partner2connect], [gsma], [china-namibia-smart-city], [jane-munga], [technology-prosperity-deal], [pax-silica], [american-ai-exports-program], [uae], [uae-ai-for-development-initiative], [g42], [google], [microsoft], [microsoft-g42-kenya-datacenter], [african-union], [au-google-mou], [au-continental-ai-strategy], [cloud-act], [waxal], [rwanda-national-ai-agency], [paula-ingabire], [mesob-platform], [ethiopian-ai-institute], [openai], [eac], [smart-africa], [ghana-national-ai-strategy], [kashifu-inuwa], [nasa-harvest], [catherine-nakalembe], [google-deepmind], [google-ai-research-foundations], [hustle-academy], [microsoft-elevate], [tiara-pathon], [liquid-c2], [cassava-technologies], [mtn-group], [ralph-mupita], [ai-for-good-global-commission], [nvidia], [africa-ai-declaration], [kenya-ai-bill-2026], [eu-ai-act], [global-center-on-ai-governance], [global-index-on-responsible-ai], [niyel], [google-for-startups-accelerator-africa], [un-ai-scientific-panel], [tech-corps], [deepseek], [martin-tisne], [ecdpm], [european-union], [viamo], [african-telecommunications-union], [axian-telecom], [abeba-birhane], [meta], [ndpc], [govguide-nigeria], [digital-ethiopia-2030], [ai-unipod-ethiopia], [mtn-ghana], [malawi-ministry-of-ict], [undp], [vision-djibouti-2035], [eardip], [comesa], [idea-mpa]]
 lens: [sovereignty, colonialism]
 status: active
@@ -349,11 +349,27 @@ This topic is mostly continental (the sovereignty debate, the partnership scramb
 - **[[SDN]] Sudan** — a **[[sudanese-data-and-ai-authority]]** stood up by decree; ITU AI Readiness **24.63/100** (2024, vs 32.70 SSA average). [[2025-11-07 Sudan Establishes Three Digital Authorities to Advance E-Govt]]
 - **[[SEN]] Senegal** — a **[[gates-foundation]]** $10m grant funds a universal digital ID, an AI hub (health/agriculture) and a Delivery Unit under the New Deal (2025-09). [[2025-09-29 Gates Foundation fuels Senegal's digital transformation with $10M]]
 - **[[SLE]] Sierra Leone** — a **World Bank AI Readiness** assessment plus a **Qhala** AI MoU to modernise public services (2025-10). See [[SLE]], [[gov.policy]].
+- **[[BWA]] Botswana** — infrastructure-poor but debated: analysts pitch it as a small-market AI/regulatory **"living lab,"** yet a World Bank readiness framing puts it **among the lowest AI adopters** (to Mar 2024); the Chief Justice committed to training judges on **AI/deepfake evidence** and e-filing, and Huawei is the endorsed AI-infra partner. [[2025-12-12-infrastructure-gap-botswana-ai-boom-world-bank]] · [[2026-01-22-judges-courts-must-embrace-ai-driven-cases]]
+- **[[BFA]] Burkina Faso** — from **"no national AI strategy" (2025) to a validated Roadmap 2026–2030**
+  (RELANCE Plan, "AI for All"), with a distinctive **sovereign-AI-by-language** flagship — an LLM corpus in
+  **Mooré, Dioula, Fulfuldé and Gulmancema** ([[bf-ai-roadmap]]) — alongside a Maison de l'IA, the CITADEL
+  $1m Mooré–French MT grant, lawmaker training (SPIVTEN) and US youth AI training. Framed inside the same
+  "zero data abroad" sovereignty doctrine ([[bf-national-datacenters]]); one of four UEMOA states with a
+  strategy. [[2026-06-17-national-ai-roadmap-2026-2030-validated-techafricanews]] · [[2026-03-25-burkina-faso-culturally-inspired-ai-local-languages]]
+- **[[BEN]] Benin** — an early-mover with a **sovereignty-and-inclusion** slant: the **[[sniam-benin|SNIAM]]**
+  strategy (2023–27; Benin rose **145th → SSA top-5** on Oxford Insights, and its AI-figure minister
+  Akplogan now runs the portfolio); the first **voice-to-voice AI in Fon** ([[fon-language-voice-ai]],
+  Gates/IIDiA/ASIN, BEN/SEN/CIV) for mother-tongue service access; a first **National AI Olympiad**
+  ([[seme-city]]); a strict **AI-in-administration** frame (sovereign hosting, no-training clauses, APDP
+  declarations); a Benin-co-led **six-country francophone AI-governance framework** to the UN Global AI
+  Dialogue (`colonialism` lens); and an **AI + drones + geospatial** malaria programme ($2.3m Japan/TICAD;
+  incidence −38%, mortality −39%, 2022–24). [[2025-06-30-techafricanews-benin-fon-voice-ai-lab]] · [[2026-07-09-wearetech-six-francophone-ai-governance-framework]] · [[2026-07-03-wearetech-benin-ai-drones-malaria-mapping]]
+- **[[BDI]] Burundi** — a **six-pillar National AI Strategy 2026–2030** ([[ministry-of-finance-budget-and-digital-economy-burundi]], [[undp]]; validated 22 Apr 2026): governance/ethics, sovereign cloud + data hubs ([[setic-burundi]] data-centre), education/research, innovation & incubators (Bujumbura/Ngozi/Gitega), human capital (train >1,000 officials), and ~15 health/agriculture pilots — explicitly sovereignty-framed but constrained by ~11% internet and weak rural electrification. Preceded by an AILA/EPIA readiness diagnostic (Nov 2025). [[2026-04-23-burundi-six-pillar-ai-strategy-wearetech]] · [[2026-04-22-lia-au-coeur-de-la-strategie-numerique-burundi]]
 
 
 ## Places
 
-[[AGO]] · [[CAF]] · [[DJI]] · [[EGY]] · [[ETH]] · [[GHA]] · [[KEN]] · [[MAR]] · [[MWI]] · [[NAM]] · [[NGA]] · [[RWA]] · [[SDN]] · [[SEN]] · [[SLE]] · [[UGA]] · [[XEA]] · [[ZAF]] · [[ZMB]] · [[ZWE]] · [[MLI]] · [[BFA]] · [[GIN]] · [[BEN]] · [[CIV]] · [[XWA]]
+[[AGO]] · [[CAF]] · [[DJI]] · [[EGY]] · [[ETH]] · [[GHA]] · [[KEN]] · [[MAR]] · [[MWI]] · [[NAM]] · [[NGA]] · [[RWA]] · [[SDN]] · [[SEN]] · [[SLE]] · [[UGA]] · [[XEA]] · [[ZAF]] · [[ZMB]] · [[ZWE]] · [[MLI]] · [[BFA]] · [[GIN]] · [[BEN]] · [[CIV]] · [[XWA]] · [[BDI]]
 
 ## Related
 

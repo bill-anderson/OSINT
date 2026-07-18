@@ -2,12 +2,12 @@
 type: entity
 entity_type: instrument
 title: CIB-AES (Carte d'Identité Biométrique de l'Alliance des États du Sahel)
-places: [BFA, XWA, MLI]
+places: [BFA, XWA, MLI, NER]
 topics: [dpi.id, gov.regional]
 lens: [sovereignty, colonialism]
 status: active
 last_reviewed: 2026-07-18
-sources: [[2025-11-10 Burkina Faso introduces new AES biometric ID system (CIB-AES)], [2026-06-02-afriktimes-aes-cib-aes-diaspora-pilot-bamako]]
+sources: [[2025-11-10 Burkina Faso introduces new AES biometric ID system (CIB-AES)], [2026-06-02-afriktimes-aes-cib-aes-diaspora-pilot-bamako], [2026-03-30-niger-biometric-id-aes-sahel-sovereignty], [2026-04-21-niger-rollout-biometric-ids-aes-connectingafrica]]
 ---
 
 # CIB-AES (AES Biometric Identity Card)
@@ -28,6 +28,28 @@ The **harmonised biometric national ID card of the Alliance of Sahel States (AES
   AES ID is its primary foundational-ID track.) See [[MLI]], [[gov.regional]], [[sovereignty]].
   Source: [[2026-06-02-afriktimes-aes-cib-aes-diaspora-pilot-bamako]].
 
+- **Formal launch, Burkina (2025-12).** Traoré was the first enrollee; ONI began mass production from
+  January 2026 (national outlets confirm the polycarbonate / age-5-deliverable-13-mandatory / 10-year /
+  3,500-FCFA specs). Sources: [[2025-12-02-cib-aes-lancement-traore-enrolement]],
+  [[2025-12-01-cib-aes-premiere-carte-biometrique-traore-lefaso]].
+- **A bloc-wide credential — Niger becomes the 2nd adopter (2026-03).** [[NER]] Niger launched the AES
+  biometric ID on **27 March 2026** (President Tiani the first enrollee, mirroring Traoré in Burkina),
+  the **second** AES state after Burkina under a three-country credentials agreement — confirming the
+  CIB-AES is a **bloc-wide card with cross-border chip verification and passport-free AES travel**, not a
+  national one; Niger's is supplied by Libyan vendor **Al Itissan Al-Jadeed**. Critical coverage flags
+  surveillance/exclusion risk and vendor dependence. Sources:
+  [[2026-03-30-niger-biometric-id-aes-sahel-sovereignty]],
+  [[2026-04-21-niger-rollout-biometric-ids-aes-connectingafrica]].
+
 ## Related
 
-- [[alliance-of-sahel-states]] · [[oni-burkina-faso]] · [[BFA]] · [[MLI]] · [[dpi.id]] · [[burkina-faso--dpi-id]]
+- [[alliance-of-sahel-states]] · [[oni-burkina-faso]] · [[BFA]] · [[MLI]] · [[NER]] · [[dpi.id]] · [[burkina-faso--dpi-id]]
+
+## Sources
+
+- [[2025-11-10 Burkina Faso introduces new AES biometric ID system (CIB-AES)]]
+- [[2026-06-02-afriktimes-aes-cib-aes-diaspora-pilot-bamako]]
+- [[2026-03-30-niger-biometric-id-aes-sahel-sovereignty]]
+- [[2026-04-21-niger-rollout-biometric-ids-aes-connectingafrica]]
+- [[2025-12-02-cib-aes-lancement-traore-enrolement]]
+- [[2025-12-01-cib-aes-premiere-carte-biometrique-traore-lefaso]]

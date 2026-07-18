@@ -382,6 +382,49 @@ Personal-data regimes across African jurisdictions — and the friction their
   Sources:
   [[2025-12-12 Personal data and digital rights in Togo - HAAC and IPDCP seal institutional cooperation accord]],
   [[2023-12-21 ISR - WURI Phase 2 Seq 7 (P169594)]].
+- **[[BFA]] Burkina Faso — a weak DPA elevated by the sovereignty drive (2025).** The **[[cil-burkina-faso|CIL]]**
+  (President Dr Halguièta Nassa-Trawina) admits it has **no repressive powers** without the missing
+  implementing decrees — yet a **PM-led, ministry-by-ministry** compliance campaign raised its standing and
+  made data-protection sign-off **mandatory before platform deployment**. Its one concrete enforcement act:
+  a body **noticed for hosting citizens' data offshore** — protection fused with the "zero data abroad"
+  data-localisation and counter-insurgency framing. See [[gov.legislate]], [[BFA]],
+  [[bf-national-datacenters]]. Sources: [[2025-03-19-cil-sollicite-accompagnement-premier-ministre-jnpdp]],
+  [[2025-07-28-cadres-ministere-administration-territoriale-outilles]],
+  [[2025-09-04-burkina-faso-strengthens-data-protection-digital-transition]].
+- **[[BEN]] Benin — a working, outward-facing DPA with hard numbers (2025–26).** The **[[apdp-benin|APDP]]**
+  (President **Luciano Hounkponou**), created by the Code du numérique (loi 2017-20 / 2020-35), is among
+  Africa's more operational DPAs: a **2025 bilan** of **907 files examined (87.4% validated), 782
+  contentious, 64 control missions, 75 conformity certificates, 37 DPOs and 14 sanctioned cases**; a
+  **specific AI policy** with strict purpose-limitation; and a concrete enforcement act — making the
+  electoral agency **strip extraneous fields from the electoral roll before publication**. It leads
+  regionally (Hounkponou **AFAPDP vice-president**; **INPDPA executive committee**; conventions with
+  Senegal's CDP and Mali's DPA) while flagging its own gaps (no algorithmic-audit tooling, budget). A
+  rights-side counterweight to Benin's fast ID/e-gov build — see [[benin--dpi-id]], [[dpi.id]], [[BEN]].
+  Sources: [[2026-06-25-apdp-bilan-2025-conformite]], [[2026-04-17-benin-senegal-apdp-cdp-convention]],
+  [[2025-05-05-benin-loi-protection-donnees-2021]].
+- **[[BDI]] Burundi — a data-protection law built to enable the ID (2026-01), plus a data strategy.**
+  The National Assembly unanimously adopted Burundi's first **[[burundi-data-protection-law-2026|personal
+  data-protection law]]** (15 Jan 2026, Ministry of Interior) — eight chapters, an independent authority,
+  criminal penalties, Malabo-aligned — **explicitly sequenced ahead of the biometric ID** rather than as
+  an independent check ("we first adopted legislation… before developing the platform"). It pairs with a
+  Nov-2025 **National Data Governance Strategy** (SNGD, seven pillars, UNECA-supported,
+  [[au-data-policy-framework]]-aligned, data as a public good). Whether a brand-new authority can check a
+  state ID drive in a dominant-party system is untested; regional peers rate Burundi's DP regime
+  "**nascent**." See [[dpi.id]], [[burundi--dpi-id]], [[BDI]]. Sources:
+  [[2026-01-16-burundi-personal-data-protection-law-techafricanews]],
+  [[2025-11-14-burundi-adopts-national-data-governance-strategy]].
+- **[[LBR]] Liberia — mandating biometric ID and outsourcing data, with no law beneath it (2025–26).**
+  Liberia keeps expanding data collection ahead of protection: EO 147 makes the biometric NIN mandatory,
+  the [[osd-international|OSD]] concession hands a foreign firm the biometric records of **5.3m**
+  citizens, and a Feb-2026 House probe alleges a breach of ~**2m** citizens' data (LRA/LEC/NIC) — yet the
+  comprehensive **[[liberia-data-protection-bill|Personal Information Act]]** (drafted with Internews
+  under the EU LMEP, validated Dec 2024) only reached a **House committee in June 2025** and is unpassed;
+  the **Cybercrime Act 2025** and [[otdi-liberia|EO 163]]'s Article-16 data-sharing rules are the only
+  standing guards. Civil society ([[naymote]]) and a Liberian Observer editorial call it building the
+  "digital spine" without its legal skeleton. See [[dpi.id]], [[infra.cybersec]], [[liberia--dpi-id]].
+  Sources: [[2025-06-11-house-reviews-privacy-data-protection-bill-observer]],
+  [[2026-02-12-house-probe-data-breach-2m-citizens-observer]],
+  [[2026-05-15-editorial-digital-sovereignty-outsourcing-spine-observer]].
 
 ## Places
 

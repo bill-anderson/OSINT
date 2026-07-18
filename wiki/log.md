@@ -4758,3 +4758,440 @@ in batch ingest) — admitted as secondary reporting, noted on source + hub.
 
 **Teardown.** `new/` empty after ingest (18 in = 18 admitted). `new-queue/MLI/` reduced to `MANIFEST.md`
 husk — deleted (copy preserved in `new-queue/done/MLI/`). Committed.
+
+## 2026-07-18 — Batch ingest: LBR (Liberia) — Phase-2 sweep
+
+**Screen + dedup.** 20 sweep-sourced items, all `[LBR]`. All admissible primary/first-hand reporting
+(national outlets: Liberian Observer, FrontPage Africa; trade: Biometric Update, TechAfrica News) — one
+opinion piece (Observer editorial, admitted as dated analysis). Dedup vs existing corpus: three items
+overlap events already held but each adds in-scope payload, so complementary, not relevant-duplicates —
+2025-04-30 EO147 (Observer) adds PRC-Decree-#65 + LTA/SIM detail over the held IDTechWire/BiometricUpdate
+pair; 2025-07-09 Kofi-Woods (Observer) adds the deadline extension + suspension mechanics over the held
+IDTechWire steering-committee piece. The four Dec-2025 IIPS items (Observer×2, FPA, TechAfrica) are a
+multi-outlet launch cluster with distinct quotes/stats — all admitted. **20 in → 20 admitted.** No leads,
+no discards.
+
+**Sources admitted (20).** EO 147 (Observer); DP-bill House review; ID-card security critique (Naymote);
+Kofi-Woods steering committee; 4× IIPS launch (CBL agreements, TechAfrica launch, FPA silos, Observer
+Orange); CSA LPA platform; 5G/fibre (Observer); 2m-citizen data-breach probe; $1.7m debt (FPA + Biometric
+Update); EO 163/OTDI-NDMI; OSD rescue (FPA) + concession restart (Biometric Update); digital-sovereignty
+editorial; $125m/WARDIP2 signing; TRANSCO CLSG fibre; LTA telecom reforms / Star Cell revoked.
+
+**Entities created (5).** `naymote` (organisation), `osd-international` (company), `techno-brain`
+(company), `otdi-liberia` (initiative — EO 163/OTDI/NDMI), `liberia-data-protection-bill` (initiative).
+**Updated (8).** NIR (debt-lock → OSD concession arc), lta-liberia (5G + telecom reforms), CBL (IIPS
+launch anchor), pay-na-na (Dec-2025 launch + agreements + partners), great-project-liberia ($2m tranche
+frozen), wardip ($50m Liberia signing), starlink (156-school links + LBR place), central-bank (EO-163
+independence). world-bank left as-is (already current; per-country tranche would bloat the global page).
+
+**Intersection + place.** `liberia--dpi-id` extended with the debt-lock, OSD concession and sovereignty
+editorial (now the fullest ID narrative). `LBR` hub: 6 new Recent-developments entries (reverse-chron),
+Active-topics + Entities rewritten, Pay Na-Na re-dated to its **Dec 2025 launch** (was mis-anchored to a
+Jul-2026 source), topics frontmatter +gov.standards, dpi.exchange, finance.mou.
+
+**Concept updates (net-new only).** `dpi.pay` (Liberia line → Dec-2025 launch/CBL/mojaloop/NEPS),
+`dpi.id` (added missing Liberia entry to the Extracted list → intersection), `dpi.govtech` (+LBR place +
+EO-163/OTDI + CSA-LPA bullet), `gov.protect` (+2m-breach / no-law-beneath-mandate bullet), `infra.connect`
+(+LBR indexed bullet: TRANSCO redundancy, LTA reforms, Starlink schools), `infra.cybersec` (+2m-breach
+bullet), `gov.regional` (+TRANSCO CLSG consortium + $50m signing), `finance.new` (+$50m Liberia WARDIP2
+tranche), `gov.legislate` (+LBR place + rule-by-EO bullet). include.access/gov.policy held on hub/entities
+(already active, avoid bloat on large pages).
+
+**Indexes.** entities-index +5 rows (2 Companies, 1 Organisation, 2 Initiatives); places-index LBR row
+refreshed; topics-index unchanged (LBR already listed under all affected concepts).
+
+**Registers.** No new gaps/issues/contradictions. Note filed in-line, not as a contradiction: Pay Na-Na
+launch was previously anchored to a Jul-2026 source but actually launched 16 Dec 2025 — corrected as a
+supersession, not a conflict.
+
+**Teardown.** `new/` emptied (20 in = 20 admitted → raw/). Filenames already carried correct `published`
+date prefixes; no renames needed.
+
+## 2026-07-18 — Batch ingest: BDI (Burundi) — Phase-2 sweep (large, 41 sources)
+
+**Screen + dedup.** 41 sweep-sourced items (Burundi Times, Iwacu FR, We Are Tech, TechAfrica, Biometric
+Update, ITWeb, Connecting Africa), all [BDI] (+ XEA on regional items). All admissible primary/first-hand
+reporting. Many multi-outlet clusters — e-KORI (2 new + 1 held), DP law (1 new + 1 held), ABREMA/guichet
+unique (2), AI validation (3, distinct from the Nov-2025 diagnostic), BurundiPay (3), ONATEL $5.9m rural
+(3), biometric ID unveiling (2), India Stack (3) — each admitted as **complementary** (distinct
+quotes/figures per outlet); no exact relevant-duplicates. Overlap with held sources: the new DP-law
+(TechAfrica) and e-KORI (BurundiTimes) add payload over the held We-Are-Tech/Ecofin copies. **41 in → 41
+admitted.** No leads, no discards. (`MANIFEST.md` travelled into new/ with the promotion — set aside, not
+ingested.)
+
+**Date corrections (active `published`).** Three Iwacu proxy files re-dated + renamed at ingest per their
+sweep dating notes: AI diagnostic workshop **2025-11-01→2025-11-25** (day/source, corroborated); AI
+validation **2026-04-01→2026-04-22** (day/source); PAFEN-80% tour recap **2026-01-01→2026-05-01** (month/
+proxy — its content post-dates the 23 Apr BurundiPay launch, so the Jan pad was misleading).
+
+**Slug normalisation (mechanical).** Sweep frontmatter used non-canonical entity slugs; normalised across
+sources: `office-burundais-des-recettes`→`obr-burundi`, `pafen`→`pafen-burundi`,
+`east-african-community`→`eac`, `banque-de-la-republique-du-burundi`→`bank-of-the-republic-of-burundi`.
+
+**Entities created (10).** Government bodies: `bank-of-the-republic-of-burundi` (BRB),
+`ministry-of-finance-budget-and-digital-economy-burundi`, `ministry-of-interior-burundi`, `arct-burundi`
+(regulator). Companies: `lumitel` (Viettel), `onatel-burundi` (state), `lyca-mobile`. Initiative:
+`burundipay`. Instrument: `india-stack` (exportable DPI reference architecture, XGL). Resource:
+`elmis-medexis` (health supply MIS). **Updated (8):** eardip (EAC data-sharing framework + digital-divide),
+obr-burundi (Guichet Unique/ABREMA + regional tax), pafen-burundi (rural contracts, 61% mid-term, data
+centre, BurundiPay), setic-burundi, ceni-burundi (2027 election), burundi-data-protection-law-2026, eac
+(data-sharing + statistics bureau), starlink (BDI). Aadhaar folded into india-stack; IGAD/TradeMark
+Africa/opposition parties left as plain-text mentions (no page).
+
+**Intersection + place.** `burundi--dpi-id` extended: biometric ID **"technically ready" but awaiting a
+law/decree** (May 2026, ~15bn BIF, EAC-mobility, full re-registration; [[ministry-of-interior-burundi]])
+and the June-2026 **India Stack** exploration. `BDI` hub rewritten — reverse-chron Recent developments
+grouped by month (2025-01 → 2026-06), Active topics + Entities expanded to the new payments/AI/ID/
+connectivity clusters; topics frontmatter +dpi.exchange, digital.rural, gov.legislate, gov.standards,
+tech.ai, data.statistics.
+
+**Concept updates (net-new only).** dpi.id (Burundi cell → "technically ready" + India Stack), dpi.pay
+(+BurundiPay indexed line), tech.ai (+Burundi six-pillar AI strategy; +place), gov.protect (+DP-law/SNGD
+bullet), infra.connect (+Burundi rural-4G/crisis/Starlink line), dpi.govtech (+e-KORI/Guichet Unique),
+geopol.india (+India Stack export + Burundi; +entity/place), dpi.mis (+eLMIS Medexis), dpi.exchange
+(+EAC data-sharing framework; +place). Land-title-fee, US health MoU, phone-ban held on the hub/entities
+to avoid bloating large concept pages.
+
+**Indexes.** entities-index +10 rows (3 Companies, 4 Government bodies, 1 Initiative, 1 Instrument, 1
+Resource); topics-index +BDI on dpi.exchange & geopol.india; places-index BDI row rewritten.
+
+**Registers.** No new gaps/issues/contradictions filed. (India Stack talks are exploratory, not a deal;
+the biometric ID "awaiting law" is recorded as current state, not a contradiction.)
+
+**Teardown.** `new/` emptied (41 → raw/); MANIFEST.md discarded from new/ (copy preserved in
+new-queue/done/BDI/). Three files renamed for corrected publication dates.
+
+## 2026-07-18 — Batch ingest: BEN (Benin) — Phase-2 sweep (LARGE: 141 sources, chunked)
+
+Benin folder promoted with **141 sources** (~3.5× BDI). Per curator direction, processing in **thematic
+chunks over multiple turns** (resumable: unprocessed sources stay in new/). The sweep MANIFEST is
+unusually rich — thematic clusters, per-source "why-new" notes, dedup + contradiction flags — and is
+used to triage. Existing BEN coverage is already substantial (UXP/Cybernetica, WURI "C'est Moi" 7.7m,
+APDP-as-working-DPA, SADX, benin--dpi-id).
+
+**★ Cross-cutting finding (regime change).** The 12 Apr 2026 poll returned a **new government under
+President Romuald Wadagni** (succeeding Talon); digital minister **Aurélie Adam Soulé Zoumarou** handed
+to **Mahuna Akplogan** (27 May 2026), ministry renamed **Transformation Digitale et Innovation** with an
+AI mandate. Recorded on the BEN hub now; agenda attributions to Talon/Zoumarou elsewhere are dated and
+will be corrected as chunks touch those pages.
+
+### Chunk 1 — Digital Identity & CRVS (27 sources admitted → raw/)
+
+Net-new over held material: (1) **governance-first ID model** — ANIP is presidency-attached, the single
+identity authority, holding population + civil + electoral registers as one integrated system, DG also
+National Civil Registrar (ID4Africa 2026); (2) **50-in-5** — Benin the 16th African member (via ASIN);
+(3) **Law 2025-12** extends the biometric register to foreigners/Afro-descendants (résidents file,
+distinct PINs); (4) the **electoral register under ECOWAS + AU scrutiny** before the 12 Apr poll;
+(5) **AFIS** wired into ECOWAS SIPAO (Sep 2025) + ECOWAS biometric card since 2020; (6) the honest
+**CRVS gap** — 2021–25 ~2.5m births declared but <1m registered, now met by a maternity **guichet
+unique** (76.56% in a 10-maternity pilot vs ~22% nationally). No new entities (all folded into
+[[anip-benin]] + [[benin--dpi-id]]). Updated: benin--dpi-id intersection (governance + CRVS + electoral +
+law-2025-12 sections), anip-benin, BEN hub (regime change + 3 dated devs + topics/entities), dpi.id
+(Benin cell), dpi.registry (Benin CRVS gap). Dedup: the La Nation ANIP-2025-stats pair (01-28/01-29)
+admitted as origin coverage corroborating figures already held via aggregators — flagged for lint #7.
+Regime-change sources 2026-05-27 + 2026-06-01 admitted here (cited on the hub); remaining handover twins
+(05-28/05-29) deferred to Chunk 3.
+
+_Chunks 2–6 pending: land/cadastre + APDP · govtech/strategy/regime · payments · cyber+connectivity ·
+AI/skills + finalize._
+
+### Chunk 2 — Land/cadastre + Data protection (19 admitted → raw/, 1 discarded)
+
+New entities: **[[apdp-benin]]** (data-protection authority — President Luciano Hounkponou; 2025 bilan
+907 files/75 certs/14 sanctions; AI policy; AFAPDP VP, INPDPA exec, Senegal+Mali conventions;
+electoral-roll field-stripping enforcement) and **[[andf-benin]]** (Agence Nationale du Domaine et du
+Foncier — e-Foncier national cadastre, 445,695 parcels, décret 2025-176 making the CEC mandatory,
+Netherlands PMAF/PPMEC, national addressing + GIS urban registries). Updated gov.protect (Benin
+working-DPA bullet), dpi.registry (Benin land-cadastre bullet), BEN hub (2 devs + 2 active topics +
+entities; APDP promoted out of "mentioned"). **Discard:** 2026-05-16 Biometric Update DPA piece — exact
+relevant-duplicate of held [[2026-05-16 World Bank, African DPAs outline formula for trusted digital identity, DPI]].
+
+### Chunk 3 — Govtech / strategy / regime change / open data (21 admitted → raw/, 2 discarded)
+
+New entity **[[benin-digital-strategy-2031]]** (Vision 2060 ALAFIA digital pillar + Deloitte 2031 roadmap
++ the new Wadagni government's AI-first manifesto: data-localisation law, national supercomputers, AI
+"Super App"; GovTech Maturity Index top performer). Updated [[asin-benin]] (trust services / National
+Root CA; PASI+PDAIE "urbanising" the state IS; service-delivery scale 1000+/210+, Beninnovation,
+e-Commune, GEC, 229 Cadre de Vie; ministerial change Zoumarou→Akplogan). BEN hub: strategy-stack,
+budget-transparency (OBS 2025 77/100, 5th globally), PASI/trust-services and Cotonou-Declaration devs;
+regime entry extended with the handover twins + Akplogan's AI-readiness rise. Concepts: gov.policy
+(Benin strategy stack), dpi.govtech (PASI/services), data.open (OBS budget-transparency front-runner),
+gov.regional (Cotonou Declaration single digital market). **Discards:** 2025-09-01 (held dup of
+[[2025-09-01 Benin boosts digital inclusion, govt service access with cooperation deals]]); 2025-07-18
+Telecom Review (thinnest of the 5-outlet ASIN-MoU cluster, lint #7 prune). Deferred to later chunks:
+IFC/FONI (→ payments), OIF D-CLIC / SENUM / Law-and-Tech / Benin-Tunisia / Zoumarou interview (→ AI/skills),
+Loko cyber-report interview + sovereign-data (→ cyber).
+
+### Chunk 4 — Payments & digital finance (17 admitted → raw/)
+
+New entities **[[pi-spi]]** (BCEAO UEMOA interoperable instant-payment rail — launched 30 Sep 2025 across
+all 8 states, banks+MoMo 100% interconnected by May 2026, connection deadlines extended to 2026–27) and
+**[[kkiapay]]** (100% Beninese payment aggregator, 13,000+ merchants). Updated [[bceao]] (PI-SPI union
+launch; 2024 e-money report — 248.7m accounts; e-CFA CBDC pilot; Dakar crypto conference; +BEN place),
+BEN hub (payments dev + dpi.pay topic + payments entities). Concepts: dpi.pay (Benin/UEMOA cell — PI-SPI,
+88% MoMo penetration/11.65m accounts/MTN-led, levy+PLFR, Kkiapay, e-CFA), finance.new (Benin IFC $100m/yr
+hub + GSMA XOF 1.2tn/300k-jobs case + FONI). Non-contradiction noted: Benin national inclusion 87.7%
+(2023, La Nation citing Digital Frontiers/Financial Afrik) vs UEMOA-wide 72.3% (2023, BCEAO) measure
+different populations — dated both, no file. IFC/FONI/GSMA pulled forward from Chunk 3 as finance items.
+
+### Chunk 5 — Cybersecurity + Connectivity (27 admitted → raw/, 1 discarded)
+
+New intersection **[[benin--infra-cybersec]]** (cyber stack since 2020 — CSIRT/PKI/forensic lab, CNIN;
+the candid first national vulnerability report 2021–24: 878 vulns/23% critical, 832 password breaches,
+SSIE 6–87%; Cyber Africa Forum host 2025+2026; Cyber Incub; EBIOS; 300 police; Interpol Carton Rouge;
+2033 sovereign-cloud roadmap; "cognitive sovereignty"). Updated arcep-benin (ARCEP-2025 market snapshot —
+88% MoMo penetration, 4000→995 FCFA/GB, BEN/SEN/TGO free roaming, Moov 5G, internet-freedom 4th, Starlink),
+mtn-benin (Moov as 2nd 5G operator; +Huawei Future Tech Summit / geopol.china), wardip (Benin WARDIP2
+targets: 5.2m broadband/5.4m services/9000 trained/140+ startups). Concepts: infra.cybersec (Benin cell),
+infra.connect (Benin cell). BEN hub: cyber + connectivity devs + intersection entity. **Discard:**
+2026-04-27 SADX techreviewafrica — held dup of [[2026-04-27 Smart Africa drives cross-border data interoperability through SADX Technical Mission]].
+Non-contradiction: 2023 internet-user figures ARCEP 7.0m/55.4% vs GSMA 3.8m/28% (different measurement
+bases, both attributed) — dated, no file.
+
+### Chunk 6 — AI, innovation, skills + finalize (25 admitted → raw/, 1 discarded)
+
+New entities: **[[fon-language-voice-ai]]** (first voice-to-voice AI in Fon — Gates/IIDiA/ASIN Regional
+Innovation Lab, NVIDIA A100/H100, BEN/SEN/CIV; mobile-money-balance + birth-cert use cases; sovereignty
+framing), **[[sniam-benin]]** (National AI & Big Data Strategy 2023–27 — AI Olympiad, strict
+AI-in-administration frame, six-country francophone AI-governance framework to the UN Global AI Dialogue;
+Benin 145th→SSA top-5 Oxford Insights), **[[seme-city]]** (innovation hub — Sorbonne convention, AI
+Olympiad host, GDIZ). Updated tech.ai (Benin cell), capacity.training (Benin skills/e-learning cell),
+asin-benin (Code du numérique 8 decrees; eServices CoP→Club DSI). BEN hub: AI, e-learning and
+customs/trade devs + AI entities. Also folded the deferred govtech/skills stragglers (Zoumarou interview,
+SENUM, Law-and-Tech, Benin–Tunisia/EO Africa Cloud, OIF D-CLIC, Webb Fontaine customs, e-waybill).
+**Discard:** 2025-02-14 Webb Fontaine (near-identical 2nd outlet, lint #7 prune).
+
+### BEN batch complete — totals
+
+**141 staged → 135 admitted to raw/, 6 discarded** (2 held-dups: 2025-09-01 ASIN, 2026-04-27 SADX,
+2026-05-16 DPA; 3 thinnest/near-identical outlet twins: 2025-07-18 ASIN-MoU, 2025-02-14 Webb Fontaine;
+plus the 2026-05-16 already counted). No leads. **9 new entities** (apdp-benin, andf-benin,
+benin-digital-strategy-2031, pi-spi, kkiapay, fon-language-voice-ai, sniam-benin, seme-city) **+ 1
+intersection** (benin--infra-cybersec) + updates to anip-benin, asin-benin, bceao, arcep-benin, mtn-benin,
+wardip and ~13 concept pages. **Cross-cutting:** the Wadagni-government / Akplogan-minister regime change
+recorded on the hub. Indexes (entities/places/topics) refreshed. **MANIFEST** preserved in
+new-queue/done/BEN/ and removed from new/; new/ empty. No new gaps/issues/contradictions (two measurement
+"discrepancies" — internet users, financial inclusion — dated in place, not filed as contradictions).
+
+## 2026-07-18 — Batch ingest: BFA (Burkina Faso) — Phase-2 sweep (LARGE: 126 sources, chunked)
+
+Burkina Faso promoted with **126 sources**. Processing in thematic chunks over turns (resumable). Defining
+thread: **digital sovereignty** under the Traoré/AES military government — "zero data abroad", national
+datacenters, AES biometric ID, sovereign AI-by-language. Existing coverage already substantial (place hub,
+burkina-faso--dpi-id, PACTDIGITAL, ONI/CIB-AES/VENEEM, ARCEP, BFIX, Faso Arzêka).
+
+### Chunk 1 — Sovereignty / infra / datacenters / strategy (29 admitted → raw/)
+
+New entity **[[bf-national-datacenters]]** ("zero data abroad" — two mini datacenters commissioned Jan
+2026: 3,000 TB / 7,000 VMs / 16bn FCFA / ~30bn 5-yr savings, run by national teams; national Big Data
+Centre ~2028; national hosting is a **PM circular** not the platforms decree, health data needs a
+derogation — DG Tinto). Updated bf-ministry-digital-transition (Traoré Semaine-du-numérique sovereignty
+framing, 12 chantiers, decree on state platforms, IS-procedures manual, 2025 scorecards 43.61%→85–91% with
+the eID tender stall), pactdigital ($170m/5 components, budget doubled to 61bn CFA 2026, safeguards
+workshops, WB mid-term confirming PACTDIGITAL+WURI still joint post-ECOWAS). BFA hub: datacenter + Traoré
+devs, active topics + entity. Concept: infra.store (BFA cell enriched with specs). Cluster twins
+(datacenter ×5 outlets, scorecard ×3, 12-chantiers ×3, SN-2025 ×4) admitted as complementary and attached.
+
+### Chunk 2 — ID / AES card / civil registry / WURI (12 admitted → raw/)
+
+Updated cib-aes (Niger 2nd AES adopter Mar 2026 — confirms CIB-AES is a **bloc-wide** credential with
+cross-border chip verification + passport-free travel; Libyan vendor Al Itissan for Niger; Dec-2025
+launch twins), burkina-faso--dpi-id intersection (Niger; CRVS quantified — SNEC 64.11%/3.39m acts,
+121k IDP acts, RSU 362,698 households/2.2m people; and the **key re-dating: WURI still run jointly with
+PACTDIGITAL post-ECOWAS per WB Feb-2026 mid-term**, unique eID stalled on a failed tender), veneem (CRVS
+baseline). BFA hub: Niger-AES, CRVS/RSU, border-travel devs. Concepts: dpi.id (BFA cell — bloc credential
++ WURI-still-live), dpi.registry (new BFA cell — CRVS/RSU under security crisis). Travel-declaration
+platforms filed under place/dpi.govtech (border DPI), not the ID intersection.
+
+### Chunk 3 — Data protection (CIL) + cybersecurity (11 admitted → raw/)
+
+New entity **[[cil-burkina-faso]]** (data-protection authority — President Dr Halguièta Nassa-Trawina;
+loi 010-2004 origin / 001-2021 operative; **no repressive powers** without missing decrees, but elevated
+by a **PM-led ministry-by-ministry** campaign making DP sign-off mandatory pre-deployment; the one
+enforcement act = a body noticed for **offshore data hosting**; protection fused with the "zero data
+abroad" / counter-insurgency framing; first national cybercrime week + Galian prize). gov.protect (BFA
+cell), BFA hub (CIL dev + entity). Note: CIL founding-law citation (2004 vs 2021) is supersession,
+unreconciled in coverage — recorded, not filed.
+
+### Chunk 4 — Payments / fintech / financial inclusion (15 admitted → raw/, 1 discarded)
+
+Extended [[pi-spi]] (BFA rollout: live-test Aug 2025 → 30 Sep launch → 9 institutions authorised Feb 2026;
+80 connected union-wide) and [[faso-arzeka]] (Treasury LANAYA + e-BDT, mandatory certified e-invoice from
+1 Jul 2026, e-Dimaakia travel-procurement). dpi.pay BFA cell + BFA hub payments dev covering Orange
+Money/BSIC, Telecel pharmacies, Wave, YENGA/KREEZUS, PAIF-PME. **Discard:** 2025-07-03 InTouch UEMOA
+e-money licence — `fetch_failed` stub (PDF link, no usable body); flagged for manual re-clip.
+
+### Chunk 5 — Connectivity / telecom / white zones (23 admitted → raw/)
+
+Updated arcep-burkina-faso substantially: the FASU/PACTDIGITAL **"zéro zone blanche"** drive (138 covered
+2024 → 750/1,000-locality tranches vs ~2,000 uncovered, 10–12%), operators at 80–90% of 2025 commitments
+(Omdia Q3-2025: Orange 14.2m/Moov 12.7m/Telecel 2.8m; Telecel 150→300, Moov ZACA HQ), affordability
+(~8.8% GNI vs 2% ITU), IPv6/fibre-oversight/WebSIG observatory, Ghana+AES frequency/roaming harmonisation,
+and connectivity-in-a-security-crisis (Gassan 4-yr outage recovered; ETC humanitarian). BFA hub +
+infra.connect BFA cell. **Contradiction filed:** `reviews/contradictions/open/bfa-white-zones-completion-horizon`
+— the programme's completion horizon is stated as **end-2027** (ministry) vs **2030** (a DG), unreconciled.
+
+### Chunk 6 — AI / govtech services / partnerships (34 admitted → raw/, 1 discarded)
+
+New entity **[[bf-ai-roadmap]]** (National AI Roadmap 2026–2030 — the "no strategy 2025 → validated
+roadmap 2026" arc; distinctive **sovereign-AI-by-language** LLM corpus in Mooré/Dioula/Fulfuldé/Gulmancema;
+CITADEL $1m, Maison de l'IA, SPIVTEN lawmaker + US youth training; Grand Salon de la Data / SIPEN-UEMOA).
+BFA hub: AI, e-services (central portal 1,672 sheets / 17 region portals / 600k criminal records / Dèmè
+Sira / SYC@D+RAF cadastre) and partner-diversification (US, UAE Presight/G42, Italy, AfDB) devs. Concept:
+tech.ai (BFA cell). **Discard:** 2026-03-23 "steps into the future" — dup of held
+[[2026-03-23 Burkina Faso steps into the future with digital investment]].
+
+### BFA batch complete — totals
+
+**126 staged → 124 admitted to raw/, 2 discarded** (1 held-dup: 2026-03-23 steps-into-future ITWeb; 1
+fetch-failed stub: 2025-07-03 InTouch UEMOA e-money licence, flagged for manual re-clip). Chunk moves:
+29 + 12 + 11 + 15 + 23 + 34 = 124. **3 new entities**
+(bf-national-datacenters, cil-burkina-faso, bf-ai-roadmap) + updates to bf-ministry-digital-transition,
+pactdigital, cib-aes, veneem, faso-arzeka, arcep-burkina-faso, pi-spi, burkina-faso--dpi-id and ~10 concept
+pages. **1 contradiction filed** (white-zones completion horizon 2027 vs 2030). Cross-cutting theme
+throughout: **digital sovereignty** under the Traoré/AES government. Indexes refreshed; MANIFEST preserved
+in new-queue/done/BFA/; new/ empty. Key re-dating: **WURI still run jointly with PACTDIGITAL post-ECOWAS**
+(WB Feb-2026 mid-term).
+
+## 2026-07-18 — Batch ingest: BWA (Botswana) — Phase-2 sweep (LARGE: 115 sources, chunked)
+
+Botswana promoted with **115 sources**. Stable-democracy profile (unlike the Sahel batches): many newspaper
+bodies are paywall-truncated (Mmegi/Sunday Standard [CLIP] flags), so synthesis leans on the fuller
+trade-journal twins + MANIFEST notes. The sweep opens threads the wiki lacked: Digital Services Act +
+Authority, PEMANDU Citizen Wallet, Cybersecurity Act, data centres (Digital Delta / Tlou-Kala /
+ChillMine), BOTSAT-1 + Artemis Accords, TCIB payments, and an embraced Huawei relationship.
+
+### Chunk 1 — Govtech / Digital Services Act / strategy (13 admitted → raw/)
+
+New entities **[[digital-services-act-botswana]]** (Digital Services Act + Digital Services Authority +
+1Gov-1Citizen "digital-by-default"; e-services 33→52, SD-WAN/600 sites, LAN 13,400+ facilities; recovering
+from a P500m e-gov fiasco; Estonia/Irembo blueprints; NDP12 P8.8bn) and **[[pemandu-citizen-wallet]]**
+(PEMANDU Digital Ecosystem Model — Citizen Wallet + Cryptographic Card, Botswana's clearest DPI programme).
+BWA hub: Digital Services Act, Tshere roadmap (ITU IDI 82.1, 6th in Africa; 81.4% penetration), PEMANDU
+devs + entities. dpi.govtech BWA cell.
+
+### Chunk 2 — Data centres / infra / satellite / space (22 admitted → raw/)
+
+New entities **[[digital-delta-data-centre]]** (BoFiNet Tier-III national DC, Gaborone; + the Gulf-linked
+Kala DC and the Palapye ChillMine/AAAS solar campus — a national + two energy-anchored private builds) and
+**[[botsat-1]]** (BIUST hyperspectral satellite, SpaceX-launched 2025; Botswana 68th **Artemis Accords**
+signatory 2026; SKA + data commercialisation). Updated bofinet (P100m citizen-owned gateway, SADC-IXP bid,
+MTC-Namibia MoU, new CEO Seleka). BWA hub: Artemis/BOTSAT-1, data-centre landscape, Huawei-embraced/Liquid
+devs + entities. infra.store BWA cell. Huawei = the geopol.china thread the government publicly endorses.
+
+### Chunk 3 — Cyber / data protection / sovereignty (12 admitted → raw/)
+
+New entity **[[botswana-cybersecurity-act-2025]]** (Cybersecurity Act Nov 2025 + National Cybersecurity
+Authority; APT28/Moobot first incident; 2026 Cyber Drill AI/IoT/quantum; TransUnion 0.9% fraud lowest in
+Africa). Updated botswana--gov-protect intersection (first Commissioner **Somolekae** enforcing on NBFIs +
+cross-border; Tshere's pledge to **amend the DPA to compel in-country data storage** — "data sovereignty
+of the people"; data-colonialism columns) and the IDPC entity. BWA hub cyber/data-sovereignty dev; concept
+infra.cybersec BWA cell.
+
+### Chunk 4 — Payments / fintech / crypto (19 admitted → raw/)
+
+New entity **[[botswana-virtual-assets]]** (Virtual Asset Act 2022 — 2 licensed VASPs, no legal tender,
+ESAAMLG oversight gaps). Updated tcib (BWA corridor live via FCB/PayInc, inbound from SA/Zimbabwe),
+smartswitch (fuller: 1,200+ shops, UEPS accredited by NAM/GHA/ZAF central banks). BWA hub: TCIB/payment-
+rails + crypto/digital-tax devs (Remote Service VAT 14% from Jun 2026). dpi.pay BWA cell. NDP12 national
+payment switch referenced (source held from Chunk 1).
+
+### Chunk 5 — Connectivity / telecom / roaming / rural (19 admitted → raw/)
+
+Updated bocra (BTC data-price cuts; **One Network Area** roaming expanded to 5 more SADC states, cuts
+10–98.6%; MNP started Dec 2025; IPv6 training; ITU/CRASA broadband-mapping GIS; national e-waste strategy;
+**RRB 2027–30 seat bid** — Basebi Mosinyi). BWA hub connectivity dev (satellite for the last mile: Starlink
+"existential threat" yet school-donated; Liquid/Paratus×Eutelsat; BTC 61 villages; Orange–SEZA smart-zone;
+Brastorne rural). Penetration measured variously — **~73% (BOCRA)** vs **81.4% (DataReportal)** — dated
+both inline as different methodologies (not filed as a contradiction).
+
+### Chunk 6 — Digital ID / stats / registries / AI / innovation (29 admitted → raw/) + finalize
+
+New entity **[[botswana-tech-fund]]** (VC vehicle; **£50m target vs £10m committed** — contradiction filed).
+Updated omang-digital-id-botswana (IDS/ADRN **10-country digital-ID study**, Botswana a case study, colonial-
+control-tools lens). BWA hub devs: registries/MIS (manual deeds backlog, SMME registration, LMIS, BAITS
+animal-disease dashboard, agri data), cautious election-digitisation (EMS, no EVMs), AI (living-lab vs
+lowest-adopter, judges/AI), innovation (Scalar/SBIP, UB VR, hackathon, research agenda) and statistics (new
+SG Lekobane). Concepts: tech.ai BWA cell.
+
+### BWA batch complete — totals
+
+**115 staged → 115 admitted to raw/, 0 discarded** (no exact dups surfaced this batch; same-event twins kept
+as complementary per the conservative rule — paywalled newspaper bodies rarely fully overlap the fuller
+trade-journal accounts). **7 new entities** (digital-services-act-botswana, pemandu-citizen-wallet,
+digital-delta-data-centre, botsat-1, botswana-cybersecurity-act-2025, botswana-virtual-assets,
+botswana-tech-fund) + updates to bofinet, bocra, tcib, smartswitch, omang, IDPC, botswana--gov-protect and
+~8 concept pages. **1 contradiction filed** (Botswana Tech Fund size: £50m target vs £10m committed). The
+internet-penetration spread (~73% BOCRA vs 81.4% DataReportal) dated inline as different methodologies, not
+filed. Cross-cutting: threads the wiki wholly lacked are now open (Digital Services Act, PEMANDU wallet,
+Cybersecurity Act, data centres, BOTSAT-1/Artemis, TCIB, Huawei). Indexes refreshed; MANIFEST preserved in
+new-queue/done/BWA/; new/ empty.
+
+## 2026-07-18 — Batch ingest: CAF (Central African Republic) — Phase-2 sweep (38 sources, chunked)
+
+CAR promoted with **38 sources** — a special sweep: **no national press exists** online, so it is a
+targeted-search + trade-journal run (per `sweep/ledger.csv`), with a documented **"Pravda mirror" hazard**
+(a Russian-aligned aggregator that scraped CAR outlets; 7 hits dropped, originals staged instead). The run
+roughly doubles CAR's evidence base. Cross-cutting register actions (penetration contradiction,
+geopol.russia vocabulary issue, sweep-method + institutional-pass gaps) handled across chunks / at finalize.
+
+### Chunk 1 — Crypto / Sango / land tokenisation (4 admitted → raw/)
+
+New entity **[[car-crypto-tokenisation]]** (Sango Coin sell-off, $CAR meme coin −90%, tokenised land at
+Bossongo by decree, July-2023 resource-tokenisation law; **GI-TOC** reads the track as criminal capture
+with Russia-linked figures — the largest single gap this run closed). BWA—CAF hub crypto dev + entity.
+Gaps filed: GI-TOC full PDF (binary-artefact download), Le Monde meme-coin launch (bot-blocked, manual clip).
+
+### Chunk 2 — Starlink / satellite (10 admitted → raw/)
+
+New entity **[[starlink-car]]** (US-Embassy-brokered convention Dec 2025 → launch Mar 2026, 27th African
+market, DEVEA Centrafrique operator, ~136% GNI/month → roaming suspended Apr 2026 on traceability/security
+— "acquire-then-control"). CAF added to global [[starlink]]; BWA—no, CAF hub Starlink dev + entity.
+**Contradiction filed:** `reviews/contradictions/open/caf-internet-penetration` — four incompatible values
+(wiki ~10.6%, DataReportal ~12%, ITU ~14%, ministry ~30%).
+
+### Chunk 3 — 4G sequence + ARCEP/USF + interconnection (10 admitted → raw/)
+
+caf--infra-connect intersection rewritten: **4G sequence now complete** (Orange licence 2024 + launch May
+2025; Moov renewal Jan 2025; Telecel licence Dec 2025 + 4G+ May 2026 — all three licensed, coverage still
+lags per GSMA "inexistante"); ARCEP QoS kit + **Universal Service Fund** (loi 18.002, CDCE, 2% revenue);
+**South Sudan interconnection** with MTN via a new Central African Digital Development Agency; and CAR's
+**first free public Wi-Fi installed by Russian cooperation** (Bocaranga) — the US(Starlink)/Russia(Wi-Fi)/
+EU(Orange) crosscut. Place connectivity topic updated (penetration disputed → contradiction file).
+
+### Chunk 4 — e-gov / data centres / e-Tax / Dûnîa / MODERO (8 admitted → raw/)
+
+New entities **[[car-national-datacentre]]** (the "no national DC" line is now 3 threads — live **Huawei
+Tier III** + 5 microwave sites + **eLTE police radio**, China-backed; unconfirmed AIAL/Kigali MoU; older
+AfDB/CAB procurement) and **[[modero-central-african-republic]]** (EU/CIVIPOL CRVS, **400k birth certs by
+2028** — dwarfs the held OIF project; puts the EU on CAR's identity stack). CAF hub: data-centre, MODERO,
+e-Tax-re-dating (EU-funded, adoption from Jan 2025) devs; Dûnîa detail folded in (EDEN TiiiT prefinancing,
+$9bn Casablanca); Warani startup noted. AfDB/CAB datacentre outcome = a gap lead.
+
+### 2026-07-18 · ingest CAF · Chunk 5 (Digital ID / CNI / HCC + Regional)
+Filed 6 sources. **Digital-ID** thread on [[caf--dpi-id]]: the "resolved" 2025 CNI price scandal
+**re-dated** — extortion moved to an informal, **religiously-targeted** layer (Ndélé/Paoua/Yaloké:
+police serve Christians first, charge Muslims 100k–200k FCFA + father's *and* grandfather's birth
+certificate) — [[2026-06-16-cni-extortion-discrimination-ndele-corbeaunews]], the sweep's one piece of
+adversarial domestic reporting; a **second document rail**, biometric **passports** resumed under
+**EDESEC** (payment via only Ecobank/BGFI) — [[2025-01-29-passeports-biometriques-edesec-reprise-corbeaunews]];
+and **identity-as-speech-control** — the **HCC** framed AI **deepfakes** of Touadéra as cybercrime and
+proposed tighter **SIM-holder ID** — [[2026-06-12-hcc-deepfakes-ai-disinformation-centranews]] (also
+tags [[tech.ai]]). **Regional**: new initiative **[[cardip]]** (World Bank Central African Digital
+Integration Program, CEMAC-6; CAR in accession talks) — [[2026-03-06-cardip-world-bank-digital-integration-talks-africabusinessinsight]];
+**[[beac]]** updated — PAPSS accession **dated** (Afreximbank 9 Jul 2026; CEMAC banks connected end-2026;
+PAPSS now 28 countries — [[2026-07-10-beac-joins-papss-cemac-banks-agenceecofin]]) and a **mobile-money-tax
+fight** (governor calls member-state MoMo taxes "régulation parallèle," proposes taxing cash —
+[[2026-03-11-beac-mobile-money-taxation-centrafriqueinfos]]). Indexes: 5 new CAF entities added to
+entities-index (Initiatives); CAF row refreshed in places-index. Gaps GAP-CAF-002/003/004. No new
+contradictions (internet-penetration contradiction already open). Issues 012/013/014 already carry the
+CAF sweep-method / Pravda-mirror / geopol.russia recommendations.
+
+### 2026-07-18 · ingest CAF · BATCH COMPLETE
+**38 admitted, 0 leads, 0 discards.** No national press (targeted-search + trade-journal sweep); the most
+prolific "source" on CAR is a Russian-network mirror (rca.news-pravda.com) — held out, flagged as ISSUE-013.
+New entities: [[car-crypto-tokenisation]], [[starlink-car]], [[car-national-datacentre]],
+[[modero-central-african-republic]], [[cardip]]. Intersections updated: [[caf--infra-connect]],
+[[caf--dpi-id]]. [[CAF]] hub substantially expanded (crypto, Starlink, data-centre, MODERO, CNI racket,
+HCC, regional). 1 contradiction open (caf-internet-penetration). MANIFEST → new-queue/done/CAF/. All
+CAF source links lint clean (184 unique, 0 unresolved).

@@ -22,13 +22,61 @@ struggling to reach its own territory on the other.
 
 ## Recent developments
 
+- **2025-12→2026-04 — Starlink: US-brokered, launched, then partly suspended.** [[infra.connect]] CAR
+  signed a **US-Embassy-brokered** Starlink convention (Dec 2025), launched (Mar 2026, **27th African
+  market**, operator **DEVEA Centrafrique**, 450 government kits) at **~136% of GNI/month**, then the
+  ministry **deactivated roaming on non-homologated kits** (Apr 2026) on **traceability/security** grounds
+  — acquire-then-control. Full case: **[[starlink-car]]**. Sources:
+  [[2025-12-19-starlink-convention-signing-primature-cf]],
+  [[2026-03-17-starlink-commercial-launch-affordability-agenceecofin]],
+  [[2026-04-28-car-suspends-starlink-kits-techafricanews]]. See [[geopol.usa]], [[digital.rural]].
+- **2026-05 — "No national data centre" is now three threads (Huawei live).** [[infra.store]] Against the
+  wiki's standing line, CAR has a China-backed **Huawei Tier III** proposal (national DC + 5 microwave sites
+  + a **secure eLTE police radio**), an unconfirmed **AIAL Group MoU** (Kigali, Jan 2025), and an older
+  AfDB/CAB procurement. Full case: **[[car-national-datacentre]]**. Sources:
+  [[2026-05-27-huawei-tier-iii-data-centre-egov-modernisation-agenceecofin]],
+  [[2025-01-22-aial-group-data-centre-mou-oubanguimedias]]. See [[geopol.china]], [[infra.cybersec]].
+- **2026-02-20 — MODERO: EU/CIVIPOL scales civil registration.** [[dpi.registry]] An **EU-funded**
+  civil-registration programme (**[[modero-central-african-republic|MODERO]]**, CIVIPOL + MATDDL) targets
+  **400,000 birth certificates by 2028** — an order of magnitude beyond the held OIF project (3,000). Puts
+  the **EU** on CAR's identity stack. Source: [[2026-02-23-modero-etat-civil-eu-civipol-oubanguimedias]].
+  → [[caf--dpi-id]].
+- **2025-01 — e-Tax re-dated: EU-funded, adoption from January.** [[dpi.govtech]] The DGID e-Tax platform's
+  adoption + training ran **from 27 Jan 2025** (the wiki dated it to the 25 Mar "official launch"), under a
+  **24-month EU service contract** (301 large / 325 medium firms; CAR EGDI 182nd). First EU actor on the
+  CAF govtech record. Sources: [[2025-01-29-centrafrique-adopte-e-tax-wearetech]], [[2025-01-31-car-advances-tax-digitalisation-itweb]].
+  → [[caf--dpi-govtech]].
+- **2026-06-16 — CNI racket returns, religiously targeted.** [[dpi.id]] Eleven months after the legal
+  4,500-FCFA price was restored, CNI access in the periphery (Ndélé, Paoua, Yaloké…) costs
+  **100,000–200,000 FCFA — for Muslim applicants only**, gated on producing a **father's and grandfather's
+  birth certificate** — the "resolved" scandal re-dated as informal, discriminatory extortion. The regulator
+  **HCC** separately proposed **tighter SIM-ID** to fight deepfakes of officials — identity as speech
+  control. → [[caf--dpi-id]]. Sources: [[2026-06-16-cni-extortion-discrimination-ndele-corbeaunews]],
+  [[2026-06-12-hcc-deepfakes-ai-disinformation-centranews]]. See [[tech.ai]], [[gov.protect]].
+- **2026-03→07 — Regional: CARDIP, PAPSS, a BEAC tax fight.** [[gov.regional]] CAR is trying to board
+  **[[cardip]]** (the World Bank six-country Central African Digital Integration Program); **CEMAC** banks
+  are to join **[[papss]]** by end-2026 (dating the wiki's bare "BEAC PAPSS accession"); and the **BEAC**
+  governor attacked member-state **mobile-money taxes** as "régulation parallèle," proposing to tax cash
+  instead. Sources: [[2026-03-06-cardip-world-bank-digital-integration-talks-africabusinessinsight]],
+  [[2026-07-10-beac-joins-papss-cemac-banks-agenceecofin]], [[2026-03-11-beac-mobile-money-taxation-centrafriqueinfos]].
+  See [[XCA]], [[dpi.pay]].
+- **2025 — Crypto & tokenisation: sovereignty pitch, criminal-capture reality.** [[dpi.pay]] CAR's serial
+  crypto experiments — **Sango Coin** (site dead Apr 2025, <10% sold, <$2m raised), a **$CAR meme coin**
+  (Feb 2025; −90% in 24h), and **tokenised land** (1,700 ha at Bossongo by presidential decree, Jun 2025) —
+  are read by **GI-TOC** (Dec 2025) as a vehicle for **criminal capture** with **Russia-linked** figures
+  central. Full case: **[[car-crypto-tokenisation]]**. Sources:
+  [[2025-12-01-gitoc-behind-the-blockchain-crypto-criminal-capture-globalinitiative]],
+  [[2025-06-23-car-land-ownership-cryptocurrency-itweb]]. See [[gov.legislate]], [[dpi.registry]].
 - **2026-03-03** — **CAR and Cabo Verde launch digital-government platforms (paired coverage).**
   Biometric Update paired the CAR rollout with Cabo Verde's Gov.CV portal as two African states
   standing up digital-government gateways. [[caf--dpi-govtech]]. Source:
   [[2026-03-03 Cabo Verde and CAR launch digital government platforms (Gov.CV)]]. (See [[CPV]].)
 - **2026-02-11** — **MEPCI's DUNIA platform** launch announced for 23 Feb 2026 — the third
-  e-gov platform, under the PND 2024-2028. [[caf--dpi-govtech]]. Source:
-  [[2026-02-11 La digitalisation des services publics et la gouvernance numerique du PND 2024-2028]].
+  e-gov platform, under the PND 2024-2028 (Ambition28; a central project register; tied to a **$9bn
+  Casablanca roundtable**, Sept 2025). Notably **EDEN TiiiT's Cédric Pidjou pre-financed** the ministry's
+  core system. [[caf--dpi-govtech]]. Sources:
+  [[2026-02-11 La digitalisation des services publics et la gouvernance numerique du PND 2024-2028]],
+  [[2026-03-03-car-dunia-platform-techafricanews]].
 - **2026-01-28** — **Data-protection factsheet**: law in place, **authority still not
   appointed**. [[caf--gov-protect]]. Source: [[2026-01-28 Central African Republic Data Protection Factsheet]].
 - **2025-12-12** — **"Gouvernemental Centralisé"** unified public-services portal launched
@@ -67,9 +115,11 @@ struggling to reach its own territory on the other.
 - **Data protection** → **[[caf--gov-protect]]**. **[[car-data-protection-law-24-001]]** (2024)
   comprehensive but the supervisory authority is unfilled; CEMAC instruments apply
   ([[data-protection-africa]]).
-- **Connectivity** → **[[caf--infra-connect]]**. ~10.6% internet penetration, mobile-only,
-  landlocked with no undersea cable; first 4G in 2024. Operators [[orange-centrafrique]],
-  Telecel, Moov; incumbent [[socatel]]; regulator [[arcep-central-african-republic]].
+- **Connectivity** → **[[caf--infra-connect]]**. ~12% internet penetration (disputed — see
+  `reviews/contradictions/open/`), mobile-only, landlocked with no undersea cable; the **4G sequence is now
+  complete** (Orange/Moov/Telecel all licensed, though coverage lags); a **universal-service fund** (2%
+  operator revenue, CDCE) planned for 2026; **[[starlink-car|Starlink]]** US-brokered then suspended; a
+  **South Sudan interconnection** with MTN. Regulator [[arcep-central-african-republic]].
 - **Energy** ([[infra.energy]]) — ~14% electricity access; World Bank **PARSE** project and
   utility **[[enerca]]**; the binding constraint on connectivity/data infrastructure. Source:
   [[2022-06-03 Central African Republic - Increasing Electricity Supply and Access and Supporting the Health System]].
@@ -85,9 +135,14 @@ struggling to reach its own territory on the other.
 **Companies:** [[al-madina]] · [[genkey]] · [[orange-centrafrique]] · [[socatel]] · [[enerca]]
 **Government bodies:** [[ane-central-african-republic]] · [[arcep-central-african-republic]] · [[dgid-central-african-republic]] · [[mepci-central-african-republic]]
 **Organisations:** [[eccas]] · [[oif-la-francophonie]] · [[greater-internet-freedom]] · [[world-bank]] · [[undp]] · [[beac]]
-**Instruments:** [[car-data-protection-law-24-001]] · [[pnd-2024-2028-central-african-republic]]
+**Instruments:** [[car-data-protection-law-24-001]] · [[pnd-2024-2028-central-african-republic]] · [[car-crypto-tokenisation]]
+**Initiatives:** [[starlink-car]] · [[car-national-datacentre]] · [[modero-central-african-republic]] · [[cardip]] · [[papss]]
 **Person:** [[faustin-archange-touadera]]
 **Resource:** [[data-protection-africa]]
+
+Mentioned, not hubbed: **Warani** (Bangui startup digitising services, founder Vianney Kanda, the only
+private-sector item — [[2025-05-14-vianney-kanda-warani-wearetech]]); EDESEC (passport vendor); DEVEA
+Centrafrique (Starlink operator); Central African Digital Development Agency; CIVIPOL; EDEN TiiiT; AIAL Group.
 
 ## Notes
 

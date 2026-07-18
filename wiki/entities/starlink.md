@@ -2,7 +2,7 @@
 type: entity
 entity_type: company
 title: Starlink (SpaceX)
-places: [XSS, XAF, NGA, KEN, ZWE, ZAF, NAM, SEN, GNB, MRT]
+places: [XSS, XAF, NGA, KEN, ZWE, ZAF, NAM, SEN, GNB, MRT, LBR, BDI, CAF]
 topics: [infra.connect, include.access, include.divides, infra.capacity, gov.standards]
 lens: [sovereignty, colonialism]
 status: active
@@ -114,6 +114,21 @@ controls African connectivity infrastructure.
   subscription; GNB internet penetration was just **32.5%** (723k users, Jan 2025). See
   [[infra.connect]], [[include.access]]. Sources: [[2025-04-10 ARN-TIC grants Starlink Guinea-Bissau provisional authorization]], [[2025-06-19 Starlink enters Guinea-Bissau]].
 
+- **Liberia — school connectivity + first satellite rules (2026-07).** [[LBR]] The [[lta-liberia|LTA]]
+  is overseeing installation of Starlink in **156 public schools** (~90 reached); Starlink supplied
+  equipment worth ~**US$156,000** while the LTA finances distribution/installation (~US$135,000). The
+  LTA is drafting Liberia's **first comprehensive satellite-communications regulations** as more LEO
+  operators are expected. See [[include.access]], [[infra.connect]]. Source:
+  [[2026-07-17-lta-telecom-reforms-star-cell-revoked-fpa]].
+
+- **Burundi — licensed but priced out (2024–26).** [[BDI]] Starlink was licensed **May 2024** and
+  launched **Sept 2024**, greeted as a fix for one of the region's worst connectivity gaps (internet
+  penetration ~11–12.5%) — but at **>$500** for a kit ("my whole year's salary," one civil servant) it is
+  out of reach for most; it is being weighed for [[elmis-medexis|health-facility]] connectivity in
+  underserved areas. See [[infra.connect]], [[include.divides]]. Sources:
+  [[2025-09-10-unreliable-connectivity-impacts-burundi-citizens]],
+  [[2026-06-26-burundi-elmis-medexis-health-rollout-wearetech]].
+
 ## Reads
 
 - `sovereignty` / `colonialism`: a foreign-owned constellation supplying scarce
@@ -140,3 +155,6 @@ See [[XSS]], [[infra.connect]], [[include.access]].
 - [[2026-01-01 Starlink Partners with Airtel & Vodacom From Rival to Ally]]
 - [[2025-04-10 ARN-TIC grants Starlink Guinea-Bissau provisional authorization]]
 - [[2025-06-19 Starlink enters Guinea-Bissau]]
+- [[2026-07-17-lta-telecom-reforms-star-cell-revoked-fpa]]
+- [[2025-09-10-unreliable-connectivity-impacts-burundi-citizens]]
+- [[2026-06-26-burundi-elmis-medexis-health-rollout-wearetech]]

@@ -13,6 +13,96 @@ last_reviewed: 2026-07-11
 
 ## Recent developments
 
+- **2026-04→05 — New government; digital portfolio renamed and re-scoped on AI.** The **12 April 2026
+  presidential poll** (electoral roll compiled/managed by [[anip-benin]]; ECOWAS + AU missions assessed
+  preparedness) returned a **new government under President Romuald Wadagni** (ex-Minister of State for
+  Economy & Finance, and Benin's Starlink interlocutor), succeeding Patrice Talon. On **27 May 2026**
+  digital minister **Aurélie Adam Soulé Zoumarou** — quoted across most held Benin material — handed to
+  **Mahuna Akplogan**, with the ministry renamed **Transformation Digitale et Innovation** and an
+  explicit **national AI-strategy** mandate. *Agenda attributions to Talon/Zoumarou on other pages are
+  now dated.* Akplogan is himself an AI figure — Benin rose from **145th globally to sub-Saharan top-5**
+  on the Oxford Insights AI-readiness index in three years, and he was a contributor to the SNIAM AI
+  strategy and GPT-BJ. Sources: [[2026-04-11-techreviewafrica-ecowas-au-benin-electoral-roll]],
+  [[2026-06-01-techreviewafrica-benin-appoints-akplogan-digital-minister]],
+  [[2026-05-27-passation-ministere-digitalisation-akplogan]],
+  [[2026-05-28-techreviewafrica-benin-digital-minister-handover]],
+  [[2026-05-29-mahuna-akplogan-ministre]]. See [[gov.policy]], [[tech.ai]].
+- **2026-07-16 — CRVS: the birth-registration gap and the maternity guichet unique.** [[dpi.registry]]
+  Behind ~99% *biometric* coverage, **2021–2025 ~2.5m births were declared but under 1m registered**
+  ([[anip-benin]] DG Adjinacou). A **guichet unique** at 10 pilot maternities (WURI/UNICEF/World Bank)
+  lifted registration to **76.56%** (vs ~22% nationally); generalisation slipped 3–4 months into
+  consolidation. Sources: [[2026-07-16-adjinacou-maternite-identite-legale]],
+  [[2026-02-26-guichet-unique-naissances-bilan-six-mois]]. See [[benin--dpi-id]], [[include.access]].
+- **2026-06-02 — Governance-first ID; Benin joins 50-in-5.** [[dpi.id]] At ID4Africa 2026, Adjinacou
+  framed Benin's model as "a structural decision" — one presidency-attached agency ([[anip-benin]])
+  owning identity, the population register, the civil registry **and** the electoral register, its DG
+  also National Civil Registrar. Benin became the **16th African member** of the UNDP/World Bank
+  **50-in-5** campaign (via [[asin-benin]]); it has issued the **ECOWAS biometric card since 2020** and
+  an **AFIS** wired into ECOWAS SIPAO (Sep 2025). Law **2025-12** extended the register to foreigners and
+  Afro-descendants. Sources: [[2026-06-02-biometricupdate-benin-joins-50-in-5]],
+  [[2026-05-12-biometricupdate-id4africa-2026-benin-anip-governance]],
+  [[2025-06-23-article-6-loi-identification-retouche]]. Full case: [[benin--dpi-id]].
+- **2026-06-25 — APDP: a working DPA with hard numbers + regional leadership.** [[gov.protect]] Benin's
+  data-protection authority **[[apdp-benin]]** (President **Luciano Hounkponou**) published a 2025 bilan —
+  **907 files examined (87.4% validated), 782 contentious, 64 control missions, 75 conformity
+  certificates, 37 DPOs, 14 sanctioned cases**. Hounkponou is now **AFAPDP vice-president**; Benin sits on
+  the **INPDPA executive committee** and signed cooperation conventions with **Senegal** and **Mali**. The
+  APDP maintains a specific **AI policy** and made the electoral agency strip extraneous fields from the
+  roll before publication. Sources: [[2026-06-25-apdp-bilan-2025-conformite]],
+  [[2026-04-17-benin-senegal-apdp-cdp-convention]]. See [[gov.legislate]], [[dpi.id]].
+- **2026-03-26 — e-Foncier: a national land cadastre with a legal lock.** [[dpi.registry]]
+  **[[andf-benin|ANDF]]**'s **e-Foncier Bénin** cadastre reached **445,695 parcels** (491,420 across 12
+  communes at the Feb-2025 baseline), Netherlands-funded (PMAF→PPMEC). **Décret 2025-176** (9 Apr 2025)
+  makes the **Certificat d'Enregistrement au Cadastre** mandatory for any transaction — legalising sales
+  without a full title but only through the platform. A national **addressing** strategy and Abomey's
+  GIS urban registry (fiscal) extend it. Sources:
+  [[2026-03-26-andf-e-foncier-cadastre-national-445000-parcelles]], [[2025-02-04-e-foncier-491000-parcelles]].
+  See [[digital.localgov]], [[BEN]].
+- **2025-06→2026-07 — AI: sovereignty-and-inclusion, from Fon voice AI to a regional framework.**
+  [[tech.ai]] Under the **[[sniam-benin|SNIAM]]** strategy Benin launched the first **voice-to-voice AI in
+  Fon** ([[fon-language-voice-ai]], Gates/IIDiA/ASIN, for mother-tongue service access), a first **National
+  AI Olympiad** ([[seme-city]]), a strict **AI-in-administration** frame (sovereign hosting, no-training
+  clauses, APDP declarations), a Benin-co-led **six-country francophone AI-governance framework** to the
+  UN Global AI Dialogue, and an **AI+drones malaria** programme ($2.3m Japan/TICAD; incidence −38%). Benin
+  rose **145th → SSA top-5** on Oxford Insights AI-readiness. Sources:
+  [[2025-06-30-techafricanews-benin-fon-voice-ai-lab]], [[2026-07-09-wearetech-six-francophone-ai-governance-framework]],
+  [[2026-06-16-asin-encadrement-ia-administration]], [[2026-07-03-wearetech-benin-ai-drones-malaria-mapping]].
+- **2026-07 — National e-learning + a widening skills stack.** [[capacity.training]] The Council of
+  Ministers authorised the national **etudiant.bj** tele-teaching platform across four public universities
+  (2026–27), with "virtual amphitheatres" for hinterland students; alongside the **[[seme-city]]** hub
+  network (Sorbonne partnership), an **OIF D-CLIC** programme and Benin's **SENUM** Digital Week (Dec
+  2025). Sources: [[2026-07-06-wearetech-benin-national-e-learning-universities]],
+  [[2026-07-08-amphitheatre-virtuel-universite]], [[2026-07-02-tele-enseignement-universites-publiques]],
+  [[2026-07-08-e-learning-universites-reportage]], [[2025-10-20-techafricanews-benin-oif-d-clic-training]],
+  [[2025-12-03-techreviewafrica-benin-senum-2025-digital-week]].
+- **2025-02→2026-05 — Customs & trade digitisation.** [[dpi.exchange]] **Webb Fontaine** migrated
+  **44 of 49 customs offices** off ASYCUDAWorld (>30bn CFA collected); ANATT launched the **SYGFR
+  electronic waybill** (Lettre de Voiture Internationale) at the Port of Cotonou (ENABEL-funded, mandatory
+  after a 3-month transition). Sources: [[2025-02-13-itweb-webb-fontaine-benin-customs-digitisation]],
+  [[2026-05-22-lettre-voiture-internationale-electronique-port]]. See [[dpi.govtech]].
+- **2025-06→2026-07 — Cyber-hub bid, with a candid vulnerability report.** [[infra.cybersec]] Benin
+  hosted the **Cyber Africa Forum** (5th, Jun 2025; 6th returning Nov 2026) and released its **first
+  national vulnerability report (2021–24)** — **878 vulnerabilities (23% critical), 832 password
+  breaches, SSIE compliance 6–87%**, Public Service worst-hit — atop a real stack (strategy since 2020,
+  CSIRT, PKI, forensic lab, CNIN) plus **Cyber Incub**, statewide **EBIOS** and 300 police trained. A 2033
+  roadmap urges a sovereign cloud + national cyber authority. Full case: **[[benin--infra-cybersec]]**.
+  Sources: [[2025-07-03-techafricanews-benin-first-national-cybersecurity-report]],
+  [[2025-06-26-caf-5e-edition-assises-cotonou-cybersecurite]].
+- **2026-04 — Free roaming (BEN/SEN/TGO) + second 5G operator.** [[infra.connect]] Benin, Senegal and
+  Togo launched **community free roaming** (24 Apr 2026, ARTAO Lomé, ECOWAS reg C/REG.21/12/17; free
+  incoming 30 days); **Moov Africa Bénin** became the **second 5G operator** after MTN (2024). Data prices
+  fell 4,000→995 FCFA/GB (2016–23); Benin ranks **4th in Africa** on 2026 internet freedom. Sources:
+  [[2026-04-26-benin-senegal-togo-roaming-sans-frontieres]], [[2026-04-28-techafricanews-moov-africa-benin-5g-launch]],
+  [[2026-07-11-liberte-internet-afrique-benin-top-5]]. See [[gov.regional]], [[XWA]].
+- **2025-09→2026-06 — On the UEMOA instant-payment rail; near-saturated mobile money.** [[dpi.pay]]
+  Benin joined the BCEAO's regional **[[pi-spi]]** instant-payment platform (launched 30 Sep 2025, all 8
+  UEMOA states, free domestically; banks + mobile money 100% interconnected by May 2026). ARCEP's 2025
+  report put mobile-money penetration at **88.09%** (**11.65m** active accounts; **MTN ~51%** of accounts,
+  ~83% of revenue), atop **248.7m** UEMOA e-money accounts. Home-grown aggregator **[[kkiapay]]**
+  (13,000+ merchants) is a rare Beninese-owned rail; a 1% cash levy + PLFR-2026 tax push adoption; BCEAO's
+  **e-CFA** CBDC is in pilot. Sources: [[2025-10-07-lancement-pi-spi-uemoa]],
+  [[2026-05-19-arcep-benin-essor-usages-numeriques]], [[2026-03-17-uemoa-248-millions-comptes-momo]].
+  See [[include.access]], [[bceao]].
 - **2026-07-11** — **UXP/X-Road data-exchange dashboard at scale.** Benin's national
   interoperability layer (**[[uxp-benin]]**, built on **[[cybernetica]]**'s Unified eXchange
   Platform) reports **138,174,337 total requests** (32.7m in the last 30 days), **73 members**,
@@ -56,11 +146,34 @@ last_reviewed: 2026-07-11
   custodian role. Source:
   [[2026-03-11 The evolving role of National Statistics Offices (NSOs) as data custodians in the digital age]].
   See [[data.statistics]], [[data.open]], [[gov.policy]], [[gov.legislate]].
-- **2026-02-15** — **Digital vision to 2031 drafted.** A Cotonou seminar (5–6 Feb 2026) run by the
-  Ministry of Digital & Digitalisation with **Deloitte** set a shared "Benin digital nation by 2031"
-  vision spanning infrastructure, digitised services, cybersecurity, innovation, human capacity and
-  enterprise financing — a successor to the 2021–2026 plan ([[asin-benin]]). See [[gov.policy]]. Source:
+- **2026-02 — Strategy stack: Vision 2060 digital pillar + Stratégie 2031.** [[gov.policy]] The
+  **[[benin-digital-strategy-2031|digital strategy stack]]** took shape: **Vision Bénin 2060 (ALAFIA)**
+  put digital at the core of national transformation (pillar launched 3 Feb), and a Deloitte-facilitated
+  **Stratégie 2031** opened drafting (5–6 Feb), building on **>3,000 km fibre, the RNPP and >250 digital
+  services** that rank Benin a **2025 GovTech Maturity Index** top performer (with DZA/ZAF/NGA). The new
+  **Wadagni government's** manifesto adds a **data-localisation law, national supercomputers and an AI
+  "Super App."** A third **Benin–Tunisia** digital forum pivoted from alliance to delivery, with an **EO
+  Africa Cloud** installation in Benin cited as a first outcome ([[2026-06-19-forum-benino-tunisien-numerique]]).
+  Sources: [[2026-02-09-wearetech-benin-2031-digital-strategy-roadmap]],
+  [[2026-02-12-vision-benin-2060-volet-numerique]], [[2026-03-24-wadagni-talata-hub-technologique]],
   [[2026-02-15 Digital - Benin outlines its strategic vision for 2031]].
+- **2026-06-19 — Budget-transparency leader.** [[data.open]] Benin's **Open Budget Survey 2025** (IBP)
+  scored **77/100 transparency (5th globally, 2nd in SSA), 52/100 participation (2nd globally), 72/100
+  oversight** — up from **1/100 in 2012**; its first **OGP National Action Plan** entered commune-level
+  consultation (Jul 2026). Sources: [[2026-06-19-obs-2025-benin-transparence-budgetaire]],
+  [[2026-07-09-pgo-communes-plan-action-national]]. See [[gov.policy]].
+- **2026-07-01 — ASIN "urbanises" the state IS (PASI/PDAIE) + trust services.** [[dpi.exchange]]
+  [[asin-benin]] consulted on two interoperability referentials (**PASI** architecture + **PDAIE**
+  application-integration) to end siloed platform-building; it also operates the **National Root
+  Certification Authority** off its 2025 trust-services MoUs. Sources:
+  [[2026-07-01-pasi-pdaie-architecture-systemes-etat]],
+  [[2025-07-17-techafricanews-benin-asin-trust-services-agreements]]. See [[gov.standards]].
+- **2025-11-19 — Cotonou Declaration (W&C Africa digital summit).** [[gov.regional]] Ministers from West
+  & Central Africa (World Bank co-organised) committed to a **single digital market**: **90% affordable
+  broadband by 2030**, interoperable DPI (digital ID + payments), doubled intra-African e-commerce,
+  harmonised cyber/data/AI frameworks, **20m people with basic digital skills** and **2m youth/women in
+  digital jobs**, with national digital compacts by 2028. Source:
+  [[2025-11-19-declaration-cotonou-transformation-numerique]]. See [[XWA]], [[gov.standards]].
 - **2026-02-02** — **75% of ID services now accessed digitally.** [[anip-benin]] reported that
   in 2025 **≥75%** of identification services were solicited via digital platforms — **10.5m**
   civil-status/ID services issued, **4m** citizens reached (channel split 37% gov portal / 30%
@@ -158,27 +271,38 @@ last_reviewed: 2026-07-11
 ## Active topics
 
 - [[dpi.id]] · [[dpi.registry]] · [[include.access]] — ANIP national register (~98–99%, 10m+
-  documents, ~200k authentications/day, 80+ institutions connected); WURI foundational-ID "C'est
-  moi"; 2,050 CRVS terminals + birth-registration-at-birth; planned citizen mobile wallet; legal
-  identity for all by 2028. Full case: [[benin--dpi-id]].
+  documents, ~200k authentications/day, 80+ institutions connected); **governance-first** model
+  (presidency-attached single ID authority; population + civil + electoral registers integrated);
+  50-in-5 member; ECOWAS biometric card + AFIS/SIPAO; WURI "C'est moi"; **the CRVS birth-registration
+  gap** (guichet unique at maternities); planned citizen mobile wallet; legal identity for all by 2028.
+  Full case: [[benin--dpi-id]].
 - [[dpi.exchange]] · [[dpi.govtech]] · [[data.statistics]] — mature UXP layer (Cybernetica; 138m+
   requests, 1,500+ services, 70m+ transactions, 73 members); SECUROUTE road-enforcement platform;
   75% of ID services now digital; cross-border extension via SADX.
-- [[dpi.pay]] · [[finance.new]] · [[infra.connect]] — mobile-money payments platform; planned
-  citizen mobile wallet; WARDIP2 $137m broadband + services for millions.
-- [[gov.protect]] · [[infra.cybersec]] — APDP with an AI policy and strict purpose limitation
-  (amicable enforcement model); maiden national cybersecurity report (2021-24); Cyber Africa
-  Forum PKI / trust-services deals.
+- [[dpi.pay]] · [[finance.new]] · [[infra.connect]] — on the BCEAO **[[pi-spi]]** UEMOA instant-payment
+  rail; mobile-money penetration ~88% (11.65m accounts, MTN-led); home-grown **[[kkiapay]]**; planned
+  ANIP citizen mobile wallet; **[[ifc]]** $100m/yr hub ambition; WARDIP2 $137m broadband + services.
+- [[gov.protect]] · [[infra.cybersec]] — **[[apdp-benin]]** working DPA (2025: 907 files, 75 certs,
+  14 sanctions; AI policy; AFAPDP VP / INPDPA; Senegal + Mali conventions); maiden national cybersecurity
+  report (2021-24); Cyber Africa Forum PKI / trust-services deals.
+- [[dpi.registry]] · [[digital.localgov]] — **[[andf-benin]]** e-Foncier national cadastre (445k+ parcels;
+  décret 2025-176 CEC mandatory; Netherlands PMAF/PPMEC) + national addressing + GIS urban registries.
 - [[gov.regional]] · [[gov.standards]] · [[gov.policy]] — SADX + Smart Africa Digital ID
   Blueprint; WURI / ECOWAS regional integration; WARDIP2; GIZ Beninnovation capacity-building.
 
 ## Entities
 
-- [[uxp-benin]] · [[cybernetica]] · [[asin-benin]] · [[cdpi]] · [[mosip]] · [[gates-foundation]] — DPI / interoperability
+- [[uxp-benin]] · [[cybernetica]] · [[asin-benin]] · [[benin-digital-strategy-2031]] · [[cdpi]] · [[mosip]] · [[gates-foundation]] — DPI / strategy / interoperability
 - [[anip-benin]] · [[wuri-programme]] · [[world-bank]] · [[ecowas]] · [[id4africa]] · [[seamfix]] · [[epass-benin]] — identity
+- [[apdp-benin]] · [[andf-benin]] — data protection / land cadastre
+- [[pi-spi]] · [[bceao]] · [[kkiapay]] · [[ifc]] — payments / finance
+- [[benin--infra-cybersec]] (cyber posture: CAF host, national vuln report, Cyber Incub, CNIN)
+- [[sniam-benin]] · [[fon-language-voice-ai]] · [[seme-city]] — AI / innovation / skills
 - [[cybastion]] · [[securoute]] · [[giz]] · [[dgi-benin]] — govtech / infrastructure
 - [[mtn-benin]] · [[mtn-group]] · [[arcep-benin]] — telecoms / connectivity (first 5G 2024; SIM-registration regulator)
 - [[wardip]] · [[african-union]] · [[smart-africa]] · [[sadx]] — regional programmes
-- Mentioned, not hubbed: APDP (data-protection authority); Amouda Abou Seydou (APDP rapporteur);
-  Aristide Guy Adjinacou / Marc-André Loko (ANIP / ASIN DGs); ANATT; IIDiA; Quality
-  Corporate; Orbus Digital Services; ESTDEV (Estonia); Deloitte; Sonatel; UNICEF; Alafia microcredit.
+- Mentioned, not hubbed: Amouda Abou Seydou (APDP rapporteur); Luciano Hounkponou (APDP president);
+  Aristide Guy Adjinacou / Marc-André Loko (ANIP / ASIN DGs); **President Romuald Wadagni** (from 2026;
+  succeeded Talon); **Mahuna Akplogan** (digital minister from 2026-05; succeeded Aurélie Adam Soulé
+  Zoumarou); 50-in-5 campaign; ANATT; IIDiA; Quality Corporate; Orbus Digital Services; ESTDEV (Estonia);
+  Deloitte; Sonatel; UNICEF; Alafia microcredit.

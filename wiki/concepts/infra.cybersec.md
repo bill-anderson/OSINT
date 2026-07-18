@@ -79,6 +79,33 @@ how "cyber threat" is defined and acted on.
   **[[eac]]** created a body for its **eight** member DPAs to share capacity and co-investigate.
   See [[gov.protect]], [[dpi.id]], [[mosip]], [[id4africa]], [[XEA]]. Source:
   [[2026-05-16 World Bank, African DPAs outline formula for trusted digital identity, DPI]].
+- **[[BWA]] Botswana — a Cybersecurity Act + Authority, and a data-sovereignty turn (2025–26).** Botswana
+  passed a **Cybersecurity Act (Nov 2025)** creating a **National Cybersecurity Authority** over critical
+  infrastructure ([[botswana-cybersecurity-act-2025]]); a first cyber-incident signal came from Russian-
+  linked **APT28/Moobot** activity in BOCRA's 2024 report, and the 2026 Cyber Drill flagged AI/IoT/quantum.
+  It pairs with a data-protection regime now enforcing (Commissioner **Somolekae**) and Minister Tshere's
+  pledge to **compel in-country data storage** — "the data sovereignty of the people." TransUnion rates
+  Botswana **lowest in Africa** for suspected fraud (0.9%, H1 2026). See [[gov.protect]], [[BWA]],
+  [[botswana--gov-protect]]. Sources: [[2026-05-25-botswana-cybersecurity-act-national-authority-wtisd-itweb]],
+  [[2025-11-25-govt-moves-to-in-house-local-data]].
+- **[[BEN]] Benin — a cyber hub that publishes its own weaknesses (2025–26).** Benin pairs a fast e-gov
+  build with a real cyber stack (national strategy since 2020, CSIRT/bjCSIRT, PKI, forensic lab,
+  Malabo/Budapest) and a bid for West African cyber-hub status (host of the **Cyber Africa Forum**, a
+  cybersecurity incubator **Cyber Incub**, statewide **EBIOS**). Its **first national vulnerability report
+  (2021–24)** is a rare act of candour — **878 vulnerabilities (23% critical), 832 password breaches,
+  SSIE compliance 6–87%**, Public Service worst-hit — even as ASIN warns 230+ digitised services widen the
+  attack surface and a 2033 roadmap urges a sovereign cloud + national cyber authority. Full case:
+  **[[benin--infra-cybersec]]**. See [[BEN]], [[dpi.govtech]].
+- **[[LBR]] Liberia — a 2m-citizen breach with no framework beneath it (2026-02).** The House ordered a
+  probe into an alleged breach exposing personal data of ~**2 million** citizens across the tax authority
+  (LRA, which denied it), electricity corporation (LEC) and investment commission (NIC), reportedly sold
+  on the dark web — exposing the gap between Liberia's fast digitization (biometric ID, the
+  [[osd-international|OSD]] concession over 5.3m records) and its thin protections: the **Cybercrime Act
+  of 2025** exists but the [[liberia-data-protection-bill|data-protection bill]] is unpassed and there is
+  no national cybersecurity strategy. [[otdi-liberia|EO 163]] (Apr 2026) later mandated baseline
+  cybersecurity for government systems. See [[gov.protect]], [[dpi.id]], [[LBR]]. Sources:
+  [[2026-02-12-house-probe-data-breach-2m-citizens-observer]],
+  [[2026-04-29-executive-order-163-digital-government-ndmi-observer]].
 - **[[CMR]] ANTIC hardens the CIRT (2026-01).** Cameroon's **[[antic-cameroon]]** commissioned
   **~XAF735m ($1.3m)** of intrusion-detection/prevention hardware and software for its Computer
   Incident Response Team via the World-Bank-funded **[[patnuc]]** programme. ANTIC has flagged

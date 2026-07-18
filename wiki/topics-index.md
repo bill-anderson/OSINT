@@ -6,14 +6,14 @@ only slugs with a concept page are listed. Roll-up is by Level-1 parent.
 ## ICT Infrastructure
 - [[infra.connect]] — Connectivity · places: COM, BDI, CAF, ZMB, XAF, ZAF, KEN, TZA, UGA, RWA, XEA, XSS, XSA, NAM, AGO, ZWE, TCD, NGA, SEN, GIN, CIV, MRT, EGY, DZA, XWA, MOZ, GAB, GNQ, XCA, TUN, GHA, SSD, ETH, SOM, TGO, CMR, LBR, MDG, DJI, COD, XGL, BEN, BFA, BWA, COG, ERI, GMB, LSO, MAR, MLI, MUS, MWI, SDN, SLE, SWZ, CPV, GNB, LBY, NER, STP
 - [[infra.store]] — Data Storage · places: COG, COM, XGL, XAF, ZAF, NGA, KEN, GAB, EGY, SEN, GHA, NAM, MWI, AGO, TGO, MAR, ETH, TZA, DJI, MOZ, BWA, MLI, NER, BFA, GNQ, XSS, CIV, CMR, COD, DZA, GIN, RWA, TCD, UGA, XCA, XEA, XSA, XWA, ZMB, ZWE, CPV, MRT, SSD, SLE, SOM, SWZ, TUN
-- [[infra.energy]] — Energy · places: AGO, CAF, XAF, ZAF, NGA, KEN, ETH, MAR, DJI, EGY, GHA, RWA, SEN, SLE, SSD, TZA, XEA, XGL, XSA, XSS, ZWE, SWZ, TCD, TGO, SDN, MLI
+- [[infra.energy]] — Energy · places: AGO, CAF, XAF, ZAF, NGA, KEN, ETH, MAR, DJI, EGY, GHA, RWA, SEN, SLE, SSD, TZA, XEA, XGL, XSA, XSS, ZWE, SWZ, TCD, TGO, SDN, MLI, BWA
 - [[infra.capacity]] — Technical Capacity · places: KEN, ZAF, NAM, XSS, XEA, XAF, XGL, MAR, NGA, AGO, BFA, BWA, CIV, EGY, GHA, LBR, RWA, TUN, UGA, XSA, XWA, ZMB, ZWE
-- [[infra.cybersec]] — Cybersecurity · places: AGO, ZMB, ZAF, XAF, NGA, MOZ, RWA, BEN, GHA, KEN, MUS, LBR, XEA, XSS, CMR, BFA, EGY, SEN, ZWE, DZA, UGA, CIV, COD, COG, DJI, GAB, GNQ, MAR, MLI, NER, SLE, SWZ, TCD, TUN, XCA, XGL, XWA, CPV, LBY, SDN, SOM, TZA, MRT
+- [[infra.cybersec]] — Cybersecurity · places: AGO, ZMB, ZAF, XAF, NGA, MOZ, RWA, BEN, GHA, KEN, MUS, LBR, XEA, XSS, CMR, BFA, EGY, SEN, ZWE, DZA, UGA, CIV, COD, COG, DJI, GAB, GNQ, MAR, MLI, NER, SLE, SWZ, TCD, TUN, XCA, XGL, XWA, CPV, LBY, SDN, SOM, TZA, MRT, BWA
 
 ## DPI
 - [[dpi.id]] — Digital Identity and CRVS · places: COG, COM, BWA, BDI, AGO, CAF, ZMB, MAR, KEN, NGA, ETH, SLE, UGA, XAF, COD, XGL, ZAF, TZA, MOZ, TGO, GHA, BEN, MUS, LBR, XEA, RWA, XWA, NER, BFA, MLI, CIV, MDG, SDN, LSO, GMB, MWI, CMR, DJI, EGY, NAM, SEN, SOM, SSD, STP, XSA, XSS, ZWE, CPV, DZA, ERI, GAB, GIN, GNQ, GNB, LBY, MRT, SWZ, SYC, TCD, TUN
 - [[dpi.pay]] — Digital Payments and Fintech · places: COM, BDI, CAF, ZMB, KEN, XAF, ETH, GHA, NGA, EGY, XSS, SEN, MUS, ZAF, COD, RWA, SOM, SSD, MOZ, XWA, XCA, AGO, BEN, BFA, BWA, CIV, CMR, COG, CPV, DJI, ERI, GAB, LBR, LSO, MAR, MLI, MWI, NAM, SDN, SLE, SYC, TGO, TZA, UGA, XEA, XGL, XSA, ZWE, DZA, GIN, GNQ, GNB, GMB, LBY, MDG, MRT, NER, SWZ, TCD, TUN
-- [[dpi.exchange]] — Data Exchange · places: COM, AGO, ZMB, XAF, NGA, KEN, MWI, ZAF, RWA, BEN, GHA, ETH, SEN, TGO, XWA, DJI, TZA, XEA, LSO, UGA, COD, BWA, CIV, CMR, CPV, EGY, LBR, MAR, MOZ, MUS, NAM, NER, SOM, SSD, STP, SYC, XCA, XGL, XSA, XSS, ZWE, DZA, ERI, GAB, GNB, MDG, SDN, SLE, SWZ, TCD, TUN, MRT
+- [[dpi.exchange]] — Data Exchange · places: COM, AGO, ZMB, XAF, NGA, KEN, MWI, ZAF, RWA, BEN, GHA, ETH, SEN, TGO, XWA, DJI, TZA, XEA, LSO, UGA, COD, BWA, CIV, CMR, CPV, EGY, LBR, MAR, MOZ, MUS, NAM, NER, SOM, SSD, STP, SYC, XCA, XGL, XSA, XSS, ZWE, DZA, ERI, GAB, GNB, MDG, SDN, SLE, SWZ, TCD, TUN, MRT, BDI
 - [[dpi.govtech]] — Other GovTech and e-Gov · places: COG, COM, BWA, BDI, CAF, ZMB, ZAF, XGL, MWI, GHA, NAM, KEN, NGA, UGA, BEN, CIV, MOZ, COD, TZA, RWA, EGY, CMR, AGO, BFA, ETH, GIN, GNQ, LBR, LSO, MAR, MDG, MLI, NER, SEN, SLE, SOM, SSD, STP, SWZ, XAF, XEA, XSS, XWA, ZWE, DJI, CPV, DZA, ERI, GAB, GNB, GMB, LBY, MRT, MUS, SYC, TCD, TGO, TUN
 - [[dpi.registry]] — Registries (population, land, address, etc.) · places: COG, COD, BFA, BDI, AGO, CAF, ZAF, TZA, UGA, ETH, NGA, RWA, ZMB, XWA, BEN, CIV, CMR, LSO, MDG, XGL, KEN, MWI, SOM, XAF, DZA, EGY, GAB, GHA, GIN, GNQ, GNB, GMB, LBR, LBY, MAR, MOZ, MLI, MRT, MUS, NAM, NER, SSD, SLE, STP, SWZ, SYC, TCD, TGO, TUN, ZWE, SDN
 - [[dpi.mis]] — Sectoral management information systems (HMIS, EMIS, etc.) · places: COD, BDI, XAF, XSS, XGL, RWA, ETH, NGA, KEN, ZAF, MWI, TZA, MOZ, GHA, ZMB, UGA, ZWE, LSO, BEN, BWA, CIV, CMR, GAB, LBR, MDG, SEN, SLE, SOM, SWZ, TCD, XEA, CPV, EGY, GIN, GNQ, GMB, MUS, NAM, TGO, AGO, MRT, SDN, MLI
@@ -22,7 +22,7 @@ only slugs with a concept page are listed. Roll-up is by Level-1 parent.
 - [[gov.policy]] — Strategies, plans and policies · places: CAF, ZMB, XGL, KEN, ZAF, GHA, NAM, MWI, NGA, XAF, EGY, XSS, SEN, CIV, XEA, RWA, TZA, UGA, LBR, ETH, BFA, MOZ, SOM, AGO, BDI, BEN, BWA, CMR, COD, COG, DJI, DZA, GAB, GMB, LSO, MAR, MDG, MUS, SDN, SLE, STP, SWZ, TCD, TUN, XCA, XSA, XWA, ZWE, CPV, ERI, GIN, GNQ, GNB, LBY, MLI, MRT, NER, SSD, TGO
 - [[gov.regional]] — Regional collaboration · places: COM, CAF, ZMB, XAF, NGA, KEN, RWA, NAM, AGO, ZWE, EGY, GHA, BEN, XEA, XWA, TGO, NER, BFA, MLI, TZA, UGA, MOZ, BWA, LBR, SLE, XSA, XCA, SYC, BDI, CIV, CMR, COD, COG, CPV, DJI, DZA, ETH, GMB, GNQ, LSO, MAR, MDG, MUS, MWI, SDN, SEN, SOM, STP, SWZ, TUN, XGL, XSS, ZAF, GIN, GNB, MRT, TCD
 - [[gov.standards]] — Standards · places: XGL, ZAF, MAR, XAF, SLE, ZMB, NGA, ETH, RWA, BEN, XWA, TGO, GHA, MOZ, TZA, LSO, UGA, KEN, EGY, BDI, BFA, BWA, COG, DJI, DZA, GAB, MUS, MWI, NER, SEN, TUN, XCA, XEA, XSA, XSS, ZWE, GIN, NAM, SYC, TCD, MRT
-- [[gov.protect]] — Data protection · places: COM, CAF, XAF, NGA, KEN, MWI, COD, ZAF, MUS, BEN, UGA, LBR, ZWE, ZMB, SEN, NAM, COG, SOM, MOZ, RWA, STP, XGL, AGO, BDI, BWA, CIV, CMR, DJI, DZA, EGY, ETH, GAB, GHA, GMB, LSO, MAR, MDG, SDN, SLE, SSD, SWZ, SYC, TGO, TUN, TZA, XCA, XEA, XSA, XSS, XWA, CPV, GIN, LBY, MRT, NER, MLI
+- [[gov.protect]] — Data protection · places: COM, CAF, XAF, NGA, KEN, MWI, COD, ZAF, MUS, BEN, UGA, LBR, ZWE, ZMB, SEN, NAM, COG, SOM, MOZ, RWA, STP, XGL, AGO, BDI, BWA, CIV, CMR, DJI, DZA, EGY, ETH, GAB, GHA, GMB, LSO, MAR, MDG, SDN, SLE, SSD, SWZ, SYC, TGO, TUN, TZA, XCA, XEA, XSA, XSS, XWA, CPV, GIN, LBY, MRT, NER, MLI, BFA
 - [[gov.legislate]] — Legislation and regulation · places: CAF, XAF, NGA, KEN, XGL, GHA, ZAF, MOZ, NAM, RWA, XSA, ZMB, SOM, COG, UGA, MWI, AGO, BDI, BEN, BFA, BWA, CIV, CMR, COD, DJI, DZA, EGY, ETH, GMB, LSO, MAR, MLI, MUS, SDN, SEN, SYC, TGO, TUN, TZA, XEA, XSS, XWA, ZWE, GAB, GIN, LBR, MDG, MRT, NER, SSD, SLE, STP, SWZ, TCD, ERI
 
 ## Technology
@@ -39,7 +39,7 @@ only slugs with a concept page are listed. Roll-up is by Level-1 parent.
 - [[geopol.china]] — China activities · places: BEN, XAF, XGL, NAM, ZAF, NGA, KEN, EGY, ZMB, SEN, ZWE, MOZ, DZA, UGA, RWA, GHA, GAB, SSD, ETH, AGO, BWA, CIV, CMR, COD, GIN, LBR, LSO, MAR, MDG, SLE, SWZ, XSS, TCD, TUN
 - [[geopol.gulf]] — Gulf / UAE activities · places: AGO, XAF, KEN, ZAF, XGL, COD, MDG, NGA, XEA, UGA, SDN
 - [[geopol.eu]] — EU activities · places: XGL, ZAF, XAF, NGA, XSS, KEN, CIV, DZA, EGY, ETH, GHA, GIN, MRT, RWA, SEN, TUN, UGA, XEA, XWA, ZWE, TCD
-- [[geopol.india]] — India activities · places: AGO, XGL, MAR, XAF, ETH, KEN, NAM, NER, NGA, XSS, ZAF, ZMB
+- [[geopol.india]] — India activities · places: AGO, XGL, MAR, XAF, ETH, KEN, NAM, NER, NGA, XSS, ZAF, ZMB, BDI
 
 ## Capacity
 - [[capacity.training]] — Training and skills · places: ZMB, MAR, XGL, GHA, NAM, SLE, XAF, ZAF, NGA, KEN, ZWE, XSS, ETH, GAB, RWA, AGO, BEN, BFA, CIV, CMR, COD, DZA, EGY, GIN, MOZ, MRT, MWI, SEN, STP, SWZ, TZA, UGA, XEA, XWA, GMB, MLI, TGO, SDN
@@ -47,9 +47,9 @@ only slugs with a concept page are listed. Roll-up is by Level-1 parent.
 - [[capacity.literacy]] — Literacy · places: NGA, GHA, UGA, ETH, ZMB, LBR, XAF, EGY, KEN, SWZ, XSS, ZAF, ZWE, TUN, TZA
 
 ## Data
-- [[data.open]] — Open data · places: KEN, ZMB, ETH, XGL, XSS, BEN, BWA, CIV, EGY, GAB, GHA, GMB, MAR, MOZ, MWI, NGA, RWA, SEN, SLE, TUN, TZA, UGA, XAF, XWA, ZAF, ZWE, LBY
+- [[data.open]] — Open data · places: KEN, ZMB, ETH, XGL, XSS, BEN, BWA, CIV, EGY, GAB, GHA, GMB, MAR, MOZ, MWI, NGA, RWA, SEN, SLE, TUN, TZA, UGA, XAF, XWA, ZAF, ZWE, LBY, BFA
 - [[data.statistics]] — National statistics · places: XAF, XSS, XGL, ETH, KEN, ZMB, ZAF, MWI, TZA, GHA, MOZ, NGA, UGA, RWA, ZWE, EGY, BEN, BWA, CIV, CMR, GAB, GMB, LBR, LSO, MAR, MDG, SEN, SLE, SOM, SWZ, XCA, XEA, GIN, GNQ, GNB, LBY, MLI, MRT, MUS, NER, TCD, TGO, TUN, AGO, ERI
-- [[data.satellite]] — Use of satellite data · places: NGA, NAM, ZAF, KEN, UGA, SEN, RWA, MOZ, GAB, CIV, XAF, COD, LSO, TZA, XGL, AGO, BEN, CMR, GHA, XSS, ZWE, GMB, TGO, MLI
+- [[data.satellite]] — Use of satellite data · places: NGA, NAM, ZAF, KEN, UGA, SEN, RWA, MOZ, GAB, CIV, XAF, COD, LSO, TZA, XGL, AGO, BEN, CMR, GHA, XSS, ZWE, GMB, TGO, MLI, BWA
 
 ## Digitalisation
 - [[digital.rural]] — Rural digital data capture · places: ETH, KEN, NGA, ZMB, ZWE, TZA, UGA, RWA, SEN, MOZ, NAM, CIV, ZAF, XSS, XGL, AGO, COG, GAB, GHA, GIN, LBR, LSO, XAF, XCA, XEA, XSA, SLE, SWZ, TCD, TUN

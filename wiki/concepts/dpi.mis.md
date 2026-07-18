@@ -186,6 +186,11 @@ what makes it work or fail.
   **1.25m beneficiaries** across five provinces (since May 2025; >1m records migrated), with integrated
   payment providers and KoboToolbox — the base for a planned Unified Social Registry. See [[dpi.registry]],
   [[include.access]]. Source: [[2026-01-01 Burundi's growing social protection system now runs on openIMIS]].
+- **[[BDI]] Burundi — health supply chain on eLMIS Medexis (2022→26).** The **[[elmis-medexis]]**
+  logistics MIS (Ministry of Public Health with the Dutch NGO i+Solutions) reached **all public and
+  faith-based facilities** — >2,000 users across **956 facilities**, 839 laptops + 148 routers — and is
+  extending to private facilities, with [[starlink]] weighed for underserved areas and interoperability
+  with other health platforms sought. Source: [[2026-06-26-burundi-elmis-medexis-health-rollout-wearetech]].
 
 - **[[TGO]] Togo — DHIS2 over StatEduc, and a start date its own publisher disputes (2024-11).**
   Togo's **[[mepsta-togo|MEPSTA]]** runs a **[[dhis2]]**-based EMIS built by **[[hisp-wca]]** on

@@ -83,6 +83,16 @@ vendor-neutral publication of foundational reference data.
   data-standard harmonisation** ([[2026-02-10 AI in Africa Barriers, opportunities and policy]]).
   See [[KEN]], [[gov.protect]], [[capacity.research]], [[tech.innovate]].
 
+- **[[BEN]] Benin — a budget-transparency front-runner (2025).** On the International Budget
+  Partnership's **Open Budget Survey 2025**, Benin scored **77/100 transparency (5th globally, 2nd in
+  sub-Saharan Africa behind South Africa), 52/100 participation (2nd globally, behind Brazil)** and
+  **72/100 oversight** — a climb from **1/100 in 2012**. Its first **OGP National Action Plan** entered
+  commune-level consultation (Jul 2026). Officials frame it as "active transparency" (consult, publish,
+  explain, account). A signed critical read separates procedural from substantive participation. See
+  [[gov.policy]], [[digital.localgov]], [[BEN]]. Sources:
+  [[2026-06-19-obs-2025-benin-transparence-budgetaire]],
+  [[2026-06-05-benin-2e-mondial-participation-budget-ouvert]], [[2026-07-09-pgo-communes-plan-action-national]].
+
 ## Reads
 
 - `sovereignty`: both cases treat national data and the software that manages it

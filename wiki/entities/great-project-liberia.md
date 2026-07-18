@@ -6,8 +6,8 @@ places: [LBR]
 topics: [dpi.id, dpi.govtech, finance.new]
 lens: []
 status: active
-last_reviewed: 2026-07-16
-sources: [[2025-03-24 Liberia launches DPI project (GREAT) with $30M World Bank funding], [2025-09-26 Liberian lawmakers urge free national ID cards; registry chief backs proposal]]
+last_reviewed: 2026-07-18
+sources: [[2025-03-24 Liberia launches DPI project (GREAT) with $30M World Bank funding], [2025-09-26 Liberian lawmakers urge free national ID cards; registry chief backs proposal], [2026-03-20-national-id-rollout-held-up-1-7m-debt-fpa]]
 ---
 
 # GREAT project (Governance Reform Accountability Transformation, Liberia)
@@ -28,8 +28,13 @@ The funding vehicle behind the drive to make ID enrollment (and possibly issuanc
   [[2025-03-24 Liberia launches DPI project (GREAT) with $30M World Bank funding]].
 - **Funds the free-ID push (2025-09).** Cited as the vehicle for 100 enrollment centres and printing
   capacity, amid the lawmakers' free-ID proposal. Source: [[2025-09-26 Liberian lawmakers urge free national ID cards; registry chief backs proposal]].
+- **Component-one stall (2026-03).** [[dpi.id]] The ID card sits under GREAT component one; a **$2m**
+  tranche for expanding enrollment centres was put **on hold** while the [[techno-brain]] debt locked the
+  database, stalling the commitment to enroll 2m more adults before 2030. Source:
+  [[2026-03-20-national-id-rollout-held-up-1-7m-debt-fpa]].
 
 ## Sources
 
 - [[2025-03-24 Liberia launches DPI project (GREAT) with $30M World Bank funding]]
 - [[2025-09-26 Liberian lawmakers urge free national ID cards; registry chief backs proposal]]
+- [[2026-03-20-national-id-rollout-held-up-1-7m-debt-fpa]]

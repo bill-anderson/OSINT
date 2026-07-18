@@ -6,7 +6,7 @@ places: [XWA, BEN, LBR, SLE, GNB, MRT]
 topics: [infra.connect, dpi.govtech, gov.regional, finance.new, include.access]
 status: active
 last_reviewed: 2026-07-18
-sources: [[2026-03-16 New $137M initiative to enable digital service access for millions in three ECOWAS nations], [2026-06-30-national-cloud-launch-ecofin], [2025-04-02 President Embalo launches WARDIP in Guinea-Bissau], [2026-01-01 Guinea-Bissau National Fibre-Optic Backbone specifications (WARDIP-GB)], [2026-05-21 WARDIP-GB fibre backbone environmental and social impact study (EIASS)]]
+sources: [[2026-03-16 New $137M initiative to enable digital service access for millions in three ECOWAS nations], [2026-06-30-national-cloud-launch-ecofin], [2025-04-02 President Embalo launches WARDIP in Guinea-Bissau], [2026-01-01 Guinea-Bissau National Fibre-Optic Backbone specifications (WARDIP-GB)], [2026-05-21 WARDIP-GB fibre backbone environmental and social impact study (EIASS)], [2026-06-08-125m-world-bank-wardip2-financing-techafricanews]]
 ---
 
 # WARDIP (Western Africa Regional Digital Integration Program)
@@ -29,7 +29,18 @@ phase-2 states below.
   operation; and streamlined public-service delivery plus digital skills and jobs. Also
   cited as supporting West Africa Economic and Monetary Union (WAEMU) regulatory reforms.
   Tags [[infra.connect]], [[dpi.govtech]], [[gov.regional]], [[finance.new]],
-  [[include.access]]. Source: [[2026-03-16 New $137M initiative to enable digital service access for millions in three ECOWAS nations]].
+  [[include.access]]. Benin-specific targets from the Board release: **5.2m** people to new/enhanced
+  broadband, **5.4m** new digital-service users, **9,000** trained and **140+** startups supported.
+  Sources: [[2026-03-16 New $137M initiative to enable digital service access for millions in three ECOWAS nations]],
+  [[2026-03-13-techafricanews-world-bank-wardip2-137m]], [[2026-03-16-biometricupdate-wardip2-137m-ecowas]].
+- **Liberia WARDIP2 financing signed — $50M (2026-06-08).** [[LBR]] Liberia and the World Bank signed
+  three financing agreements worth **US$125m** at the Mount Coffee Hydropower Complex, of which
+  **US$50m** is WARDIP2: expanding broadband and digital connectivity, strengthening cybersecurity and
+  digital governance, promoting digital entrepreneurship, supporting e-commerce/digital payments, and
+  advancing the West African single digital market. (The package also included $57m RESPITE solar and
+  $18m SECRAMP roads, out of scope.) WB Country Manager Georgia Wallen and Finance Minister Augustine
+  Ngafuan signed. Tags [[finance.new]], [[infra.connect]], [[infra.cybersec]], [[dpi.govtech]]. Source:
+  [[2026-06-08-125m-world-bank-wardip2-financing-techafricanews]].
 - **WARDIP-GB — Guinea-Bissau national rollout (2025-26).** [[GNB]] President Umaro Sissoco Embaló
   launched WARDIP-GB in Bissau on **2025-04-02**, framing five components (connectivity, data and
   online markets, digital public services, human-capacity) as a way for GNB "not to miss the train of
@@ -48,3 +59,4 @@ phase-2 states below.
 - [[2025-04-02 President Embalo launches WARDIP in Guinea-Bissau]]
 - [[2026-01-01 Guinea-Bissau National Fibre-Optic Backbone specifications (WARDIP-GB)]]
 - [[2026-05-21 WARDIP-GB fibre backbone environmental and social impact study (EIASS)]]
+- [[2026-06-08-125m-world-bank-wardip2-financing-techafricanews]]

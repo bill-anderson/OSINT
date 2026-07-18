@@ -265,13 +265,24 @@ hosted on the continent at all.
   as ending dependence on foreign and **extraterritorial cloud**. Digital sovereignty is
   cast as a pillar of the junta bloc's wider security/economic independence. See [[gov.regional]],
   [[infra.cybersec]], [[dpi.govtech]]. Source: [[2026-02-02 Mali unveils modern Tier III data centre]].
+- **[[BWA]] Botswana — a national DC plus two energy-anchored private builds (2025–26).** BoFiNet's
+  Tier-III **[[digital-delta-data-centre|Digital Delta]]** (Gaborone, government-owned, sovereignty-framed,
+  Zhong Gan-built) is the hosting foundation for the 1Gov migration; alongside it a Gulf-linked **Kala DC**
+  (Tlou Energy gas-to-power + UAE Kala Data FZCO) and a proposed **solar hyperscaler/AI campus at Palapye**
+  (US ChillMine × Dutch AAAS Energy, 250 MW solar + BESS) — compute increasingly tied to energy sites. See
+  [[infra.energy]], [[dpi.govtech]], [[BWA]]. Sources:
+  [[2025-11-26-digital-delta-data-centre-launch-connectingafrica]], [[2025-09-26-kala-data-centre-tlou-energy-itweb]].
 - **[[BFA]] "Zero data abroad" and a supervision centre (2026-01/03).** Under **PACTDIGITAL-BF**
   (~**$170m** [[world-bank]] IDA + national, 12 flagship projects to 2030), Burkina Faso commissioned
   **two mini data centres** in Ouagadougou (Jan 2026) as an interim step to a planned national data
-  centre, enforcing a **"zero data abroad"** localization rule ([[bf-ministry-digital-transition]]). It
+  centre, enforcing a **"zero data abroad"** localization rule ([[bf-national-datacenters]]) — **~3,000 TB
+  (10×), 7,000+ VMs, 16bn FCFA, ~30bn FCFA / 5-yr savings**, run by national teams, ahead of a national
+  Big Data Centre (~2028). National hosting is a **PM circular** (health data needs a derogation). It
   is also building a **Digital Infrastructure Supervision Center** (~**$5.4m**, nine-month build,
   delivery ~Oct 2026) to oversee the backbone, data centres and cyberspace. See [[infra.cybersec]],
   [[gov.policy]], [[alliance-of-sahel-states]]. Sources:
+  [[2026-01-23-burkina-faso-asserts-digital-sovereignty-mini-data-centres]],
+  [[2026-03-03-tinto-hebergement-national-souverainete]],
   [[2026-03-23 Burkina Faso steps into the future with digital investment]],
   [[2026-01-22 Burkina Faso aims for digital sovereignty with infrastructure supervision center]].
 - **[[KEN]] Sovereign-hosted AI cloud (2026-03).** **[[servernah-cloud]]**, billed as Kenya's first

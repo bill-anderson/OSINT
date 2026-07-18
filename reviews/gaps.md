@@ -536,3 +536,20 @@ in the same batch and is now held; instrument upgraded stub→active. See log.md
   Each needs primary/designated sourcing to compile. *Lead: source these from primaries (CBoS notices,
   Baladna/ministry announcements) and compile — the national payment switch in particular is a DPI keystone
   currently unrepresented against the Bankak-concentration thesis.* *(Surfaced SDN sweep ingest, 2026-07-18.)*
+
+- **GAP-CAF-002 · GI-TOC "Behind the Blockchain" full PDF not held.** The staged source
+  [[2025-12-01-gitoc-behind-the-blockchain-crypto-criminal-capture-globalinitiative]] captured only the
+  front matter + Summary of a ~20-page GI-TOC report; the analytical chapters (named intermediaries,
+  token accounts annex) are not held. *Lead: download the PDF and store as a dated binary artefact with a
+  companion source page (per CLAUDE.md → binary artefacts).* (Surfaced CAF sweep, 2026-07-18.)
+- **GAP-CAF-003 · $CAR meme-coin launch primary (Le Monde) bot-blocked.** Le Monde (2025-02-11) *"La
+  Centrafrique lance une nouvelle cryptomonnaie"* is the only dated news source for the $CAR launch but was
+  bot-blocked at fetch; the wiki relies on the TechCabal digest + GI-TOC analysis. *Lead: manual clip.*
+  (Surfaced CAF sweep, 2026-07-18.)
+- **GAP-CAF-004 · CAR data-centre threads unresolved — AfDB/CAB outcome + AIAL/Kigali MoU + WB CARDIP pass.**
+  [[car-national-datacentre]] holds three under-sourced threads: (a) the older **AfDB/Central African
+  Backbone (CAB)** procurement for a national data centre — outcome/commissioning status unknown; (b) an
+  **unconfirmed AIAL / Kigali (Rwanda) data-centre MoU** carried only by a single aggregator; (c) the
+  **World Bank P174620 / CARDIP** institutional and financing pass ([[cardip]] rests on one paywalled
+  Africa Business Insight lede). *Leads: an AfDB project page or CAB closure report; a primary for the
+  Kigali MoU; the WB project document / a BEAC-CEMAC CARDIP release.* (Surfaced CAF sweep, 2026-07-18.)

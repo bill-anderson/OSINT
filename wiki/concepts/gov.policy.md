@@ -257,6 +257,13 @@ National digital strategy, ownership and the financing conditions around it.
   Execution lags the ambition (low WB disbursement). See [[GAB]], [[infra.store]], [[dpi.govtech]].
   Source: [[2025-10-24-gabon-2026-digital-budget-156pct]].
 
+- **[[BEN]] Benin — a layered strategy stack, AI-re-scoped by a new government (2026).** The
+  **[[benin-digital-strategy-2031|Vision 2060 / Stratégie 2031]]** stack builds on reforms since 2016
+  (>3,000 km fibre, RNPP, >250 digital services — a **2025 GovTech Maturity Index** top performer with
+  DZA/ZAF/NGA). The new **Wadagni government** (2026) re-scoped the agenda around AI: a manifesto for a
+  **data-localisation law, national supercomputers and an AI government "Super App,"** and renamed the
+  ministry **Transformation Digitale et Innovation**. See [[tech.ai]], [[dpi.govtech]], [[BEN]]. Sources:
+  [[2026-02-09-wearetech-benin-2031-digital-strategy-roadmap]], [[2026-03-24-wadagni-talata-hub-technologique]].
 - **National strategies — STP, SLE, SOM (2020–2030).** Three more roadmaps: **[[STP]] São Tomé and
   Príncipe**'s **2020 National Strategy for Digital Governance**; **[[SLE]] Sierra Leone**'s **National
   Data Strategy** update, aligned to the **AU Data Policy Framework** (2025); and **[[SOM]] Somalia**'s

@@ -146,9 +146,18 @@ Building the digital-skills base for citizens and the workforce.
   don't absorb its dated figures). See [[include.divides]], [[NGA]]. Source:
   [[2024-01-01 Digital Skills in Nigeria (World Bank)]].
 
+- **[[BEN]] Benin — skills pipeline from schools to AI olympiads (2025–26).** Benin is building a training
+  stack: a national **e-learning platform etudiant.bj** across four public universities (Council of
+  Ministers, Jul 2026) with "virtual amphitheatres" reaching hinterland students; the **[[seme-city]]**
+  hub network (Sorbonne degree partnership); an **OIF "D-CLIC"** programme via a new École des Métiers du
+  Numérique; and a first **National AI Olympiad** ([[sniam-benin]]). The framing is the coast/hinterland
+  digital divide the platforms risk reproducing. See [[include.divides]], [[tech.ai]], [[BEN]]. Sources:
+  [[2026-07-06-wearetech-benin-national-e-learning-universities]], [[2026-07-08-amphitheatre-virtuel-universite]],
+  [[2025-10-20-techafricanews-benin-oif-d-clic-training]].
+
 ## Places
 
-[[ZMB]] · [[MAR]] · [[XGL]] · [[GHA]] · [[NAM]] · [[SLE]] · [[ZAF]] · [[XAF]] · [[NGA]] · [[KEN]] · [[ZWE]] · [[XSS]] · [[ETH]] · [[GAB]] · [[RWA]] · [[GNB]]
+[[ZMB]] · [[MAR]] · [[XGL]] · [[GHA]] · [[NAM]] · [[SLE]] · [[ZAF]] · [[XAF]] · [[NGA]] · [[KEN]] · [[ZWE]] · [[XSS]] · [[ETH]] · [[GAB]] · [[RWA]] · [[GNB]] · [[BEN]]
 
 ## Sources
 

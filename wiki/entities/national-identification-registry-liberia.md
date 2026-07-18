@@ -6,8 +6,8 @@ places: [LBR]
 topics: [dpi.id, dpi.registry, gov.protect]
 lens: [colonialism]
 status: active
-last_reviewed: 2026-07-16
-sources: [[2026-01-14 'No ID, No Inclusion' — NIR launches Five-Year Strategic Plan 2026-2030], [2025-04-30 Liberia makes biometric ID mandatory — Executive Order 147], [2025-08-14 Liberia suspends biometric ID contract amid procurement controversy], [2025-06-09 Liberia needs more funding to widen national ID coverage (NIR's Peters)], [2025-03-12 Liberia says national ID system drives digital economy, facilitates service delivery], [2025-09-26 Liberian lawmakers urge free national ID cards; registry chief backs proposal]]
+last_reviewed: 2026-07-18
+sources: [[2026-01-14 'No ID, No Inclusion' — NIR launches Five-Year Strategic Plan 2026-2030], [2025-04-30 Liberia makes biometric ID mandatory — Executive Order 147], [2025-08-14 Liberia suspends biometric ID contract amid procurement controversy], [2025-06-09 Liberia needs more funding to widen national ID coverage (NIR's Peters)], [2025-03-12 Liberia says national ID system drives digital economy, facilitates service delivery], [2025-09-26 Liberian lawmakers urge free national ID cards; registry chief backs proposal], [2026-03-20-national-id-rollout-held-up-1-7m-debt-fpa], [2026-05-13-osd-austrian-firm-rescue-national-id-security-concerns-fpa], [2026-05-28-osd-concession-issuance-restart-biometricupdate]]
 ---
 
 # National Identification Registry (NIR, Liberia)
@@ -16,9 +16,10 @@ Liberia's identity authority, created by a **2011 Act of the Legislature**, oper
 Biometric Identification System (NBIS)** and issuing the unique **National Identification Number (NIN)**
 and biometric ID card ([[dpi.id]]). Executive Director (2025-26): **Andrew Peters**. The NBIS is the
 cornerstone of Liberia's Digital Transformation Initiative and the [[great-project-liberia|GREAT]]
-project, but coverage is very low (~14-16% of ~5.5m enrolled) and the system entered **crisis** in 2025
-— long queues and bribery allegations, then a full suspension over a **procurement scandal**. See
-[[LBR]], [[liberia--dpi-id]].
+project, but coverage is very low (**<15%** of ~5.3m enrolled) and the system entered **crisis** in
+2025: long queues and bribery, a procurement scandal and issuance suspension, then a year-long **debt
+lock** ([[techno-brain]], US$1.7m) — resolved only by handing the system to Austria's
+[[osd-international|OSD]] under a **PPP concession**. See [[LBR]], [[liberia--dpi-id]].
 
 ## Activity in this wiki
 
@@ -43,6 +44,19 @@ project, but coverage is very low (~14-16% of ~5.5m enrolled) and the system ent
   "if the government shoulders the cost." A UNICEF child-enrollment pilot captured ~5,000 children.
   Sources: [[2025-06-09 Liberia needs more funding to widen national ID coverage (NIR's Peters)]],
   [[2025-09-26 Liberian lawmakers urge free national ID cards; registry chief backs proposal]].
+- **The $1.7m debt lock (2026-03).** [[dpi.registry]] Seven months after the halt, the NIR still could
+  not run the system: [[techno-brain]] (Nairobi), which built it for $5.9m, withheld full database
+  access pending a **US$1.7m** unpaid balance not in the Registry's approved 2026 budget. ~640,000 prior
+  registrants were locked out and a **$2m World Bank tranche** was on hold. Deputy director Sylvester
+  Nyema (appointed Sept 2025) confirmed the committee had not shared its plan. Source:
+  [[2026-03-20-national-id-rollout-held-up-1-7m-debt-fpa]].
+- **OSD concession + issuance restart (2026-05).** [[finance.mou]] The government restructured the deal
+  into a **PPP concession** with Austria's [[osd-international|OSD]]: OSD finances enrollment of the
+  entire ~5.3m population (plus foreigners) within **18 months**, operates, then transfers the system;
+  ~3.5m vulnerable Liberians to be enrolled free; polycarbonate cards. The deal, modelled on Ghana's
+  PPP, awaits legislative ratification amid civil-society alarm over secrecy and the missing data-
+  protection law. Sources: [[2026-05-13-osd-austrian-firm-rescue-national-id-security-concerns-fpa]],
+  [[2026-05-28-osd-concession-issuance-restart-biometricupdate]].
 
 ## Sources
 
@@ -52,3 +66,6 @@ project, but coverage is very low (~14-16% of ~5.5m enrolled) and the system ent
 - [[2025-06-09 Liberia needs more funding to widen national ID coverage (NIR's Peters)]]
 - [[2025-03-12 Liberia says national ID system drives digital economy, facilitates service delivery]]
 - [[2025-09-26 Liberian lawmakers urge free national ID cards; registry chief backs proposal]]
+- [[2026-03-20-national-id-rollout-held-up-1-7m-debt-fpa]]
+- [[2026-05-13-osd-austrian-firm-rescue-national-id-security-concerns-fpa]]
+- [[2026-05-28-osd-concession-issuance-restart-biometricupdate]]

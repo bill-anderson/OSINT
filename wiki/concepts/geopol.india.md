@@ -2,8 +2,8 @@
 type: concept
 title: India activities
 slug: geopol.india
-places: [AGO, XGL, MAR, XAF]
-entities: [[david-eaves], [mosip], [nandan-nilekani], [gates-foundation]]
+places: [AGO, XGL, MAR, XAF, BDI]
+entities: [[david-eaves], [mosip], [nandan-nilekani], [gates-foundation], [india-stack]]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-10
@@ -32,9 +32,18 @@ India's DPI model and its export as a template for other states.
   "India is following this playbook." Presented as the model African states could adopt
   to get [[dpi.govtech]] without proprietary lock-in ([[gov.standards]]).
 
+- **[[BDI]] Burundi studies India Stack (2026-06).** Burundi's finance/digital-economy ministry opened
+  talks with India's ambassador to adapt **[[india-stack]]** (Aadhaar-style ID + UPI payments) to
+  fast-track its national ID and payment rails — pitched as a faster, cheaper, **more sovereign** path
+  that reduces reliance on proprietary foreign vendors, echoing India's South-South DPI-as-public-good
+  framing. One of ≥23 national DPI cooperation partnerships; in Africa alongside Kenya, Tanzania,
+  Ethiopia, Sierra Leone, The Gambia and Lesotho. See [[dpi.id]], [[dpi.pay]], [[burundi--dpi-id]].
+  Sources: [[2026-06-30-burundi-india-stack-digital-id-payments-biometricupdate]],
+  [[2026-06-23-burundi-studies-india-stack-digital-id-payments]].
+
 ## Places
 
-[[XGL]] · [[MAR]] · [[XAF]]
+[[XGL]] · [[MAR]] · [[XAF]] · [[BDI]]
 
 ## Related
 
@@ -44,3 +53,5 @@ India's DPI model and its export as a template for other states.
 
 - [[2025-12-15 The Path to a Sovereign Tech Stack is Via a Commodified Tech Stack  TechPolicy.Press]]
 - [[2026-06-17 They're taking DPI to the world - The Times of India]]
+- [[2026-06-30-burundi-india-stack-digital-id-payments-biometricupdate]]
+- [[2026-06-23-burundi-studies-india-stack-digital-id-payments]]

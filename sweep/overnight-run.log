@@ -7,3 +7,103 @@ At C:\Users\bill\Dropbox\OSINT\sweep\run-overnight.ps1:72 char:5
     + CategoryInfo          : NotSpecified: (Warning: no std...or wait longer.:String) [], RemoteException
     + FullyQualifiedErrorId : NativeCommandError
  
+2026-07-18 06:31:12  === overnight run started (root: C:\Users\bill\Dropbox\OSINT) ===
+2026-07-18 06:31:12  iteration 1 - 53 folder(s) pending: BDI,BEN,BFA,BWA,CAF,CIV,CMR,COD,COG,COM,CPV,DJI,DZA,EGY,ETH,GAB,GHA,GIN,GMB,GNB,GNQ,KEN,LBR,LBY,LSO,MAR,MDG,MLI,MOZ,MRT,MUS,MWI,NAM,NER,NGA,RWA,SDN,SEN,SLE,SOM,SSD,STP,SWZ,SYC,TCD,TGO,TUN,TZA,UGA,XAF,ZAF,ZMB,ZWE
+Committed (`803e0da`). One folder fully processed; per the runbook I stop here and do not claim a second.
+
+## GNB (Guinea-Bissau) ÔÇö batch ingest complete
+
+**Folder selection.** Interruption recovery clean (no stranded `new/`, no half-torn-down folder). Claimed **GNB** as the smallest pending folder (13 candidates; ledger `swept`).
+
+**Candidates in ÔåÆ out: 13 ÔåÆ 13 admitted / 0 leads / 0 discards / 0 needs-clip.** All 13 were full-text clips (no failed-fetch summaries) and admissible ÔÇö ANG state-agency reporting, ARN-TIC/WARDIP/Telecel primaries, Connecting Africa trade journal, two Bissau-Guinean newspapers. No AI syntheses.
+
+**Dedup calls.** The two flagged "same-event-as-held" items were both **admitted as complementary, not pruned**: the ANG ENTD.GW-launch account (adds PM/minister quotes + named UNDP rep vs the held UNU-EGOV piece) and the ANG civil-ID workshop (a distinct domestic event under DGICRAN, with the 23.4%ÔåÆ46% birth-registration figure, vs the held Biometric Update interview). The **2,877 km WARDIP-GB backbone supersedes the old ~888 km figure** ÔÇö dated supersession, not a contradiction.
+
+**Entities.** Created **2** ÔÇö `arn` (ARN-TIC ICT regulator, government-body), `telecel` (company, ex-MTN opco). Updated **5** ÔÇö `wardip` (+GNB, national rollout + backbone + EIASS), `entd-gw` (ANG launch + July decrees), `enbic` (S├úo Domingos issuance), `sirec` (DGICRAN workshop), `starlink` (+GNB, licenceÔåÆlaunch).
+
+**Places / concepts / intersections.** `GNB` hub reworked as an index (the sweep's headline ÔÇö a previously-missing 2025-26 governance/legislative spine, plus connectivity). Created **2 intersections** ÔÇö `guinea-bissau--gov-policy` and `guinea-bissau--infra-connect` ÔÇö and extended `guinea-bissau--dpi-id`. `GNB` added to the Places nav of 9 concept pages. All three faceted indexes updated. Link check: all 13 new sources referenced (2ÔÇô4├ù), no orphans, no dead links.
+
+**Gap filed.** `GAP-GNB-001` ÔÇö the World Bank WARDIP-GB financing agreement (~US$60M, behind the backbone/cable/govcloud/data-protection regulator) is referenced but unsourced.
+
+**Teardown.** `new/` drained to empty; `new-queue/GNB/` backed up to `done/GNB/` (14 files) and removed. Committed as `803e0da`. (Pre-existing `sweep/overnight-run.log` modification left untouched ÔÇö not part of this ingest.)
+
+53 folders remain pending in `new-queue/`; next smallest is MRT/SDN (17).
+
+issues - 13 ; contradictions - 21 ; gaps - 73
+2026-07-18 06:48:02  iteration 3 - 52 folder(s) pending: BDI,BEN,BFA,BWA,CAF,CIV,CMR,COD,COG,COM,CPV,DJI,DZA,EGY,ETH,GAB,GHA,GIN,GMB,GNQ,KEN,LBR,LBY,LSO,MAR,MDG,MLI,MOZ,MRT,MUS,MWI,NAM,NER,NGA,RWA,SDN,SEN,SLE,SOM,SSD,STP,SWZ,SYC,TCD,TGO,TUN,TZA,UGA,XAF,ZAF,ZMB,ZWE
+Complete. Register counts confirmed: 13 open issues (ISSUE-008 is resolved, referenced only in-body), 22 contradictions, 77 gaps.
+
+## Wrap-up ÔÇö MRT (Mauritania) ingested
+
+**Folder processed:** `new-queue/MRT/` ÔÇö the smallest pending folder (17 candidates, tied with SDN, MRT first). Interruption recovery was clean (`new/` empty; no split folders).
+
+**Candidates in ÔåÆ out:** 17 in = **17 admitted / 0 leads / 0 discards / 0 needs-clip** (all 17 were full-text bodies ÔÇö no flagged summaries). Counts reconcile.
+
+**Entities ÔÇö 16 created:**
+- *Cables/telecom:* `ellalink` (2nd submarine cable), `ace-cable`, `alcatel-submarine-networks`, `chinguitel`, `mauritel`, `mattel`, `rimatel` (new 4th operator)
+- *Finance:* `central-bank-mauritania` (BCM), `pamif`, `pafiid`, `bmci`, `islamic-development-bank`
+- *Governance/finance orgs:* `eib`, `unctad`, `apd-mauritania` (net-new data-protection authority), `digital-y`
+
+**Entities ÔÇö 10 updated:** `houwiyeti` (ÔåÆneeds-review, contradiction), `anrpts-mauritania` (register growth + ID-exclusion/sovereignty-colonialism lens), `mtnima-mauritania`, `are-mauritania` (satellite tender + 5G), `huawei`, `african-development-bank`, `giz`, `world-bank`, `wardip`, `starlink` (each +MRT place).
+
+**Synthesis:** MRT hub gained 16 dated developments (national cloud, 2nd EllaLink cable, PAMIF inclusion 21%ÔåÆ55%, 5G, ID-exclusion debate, e-transaction tax, IsDB $50m, etc.), rewritten topic/entity sections, expanded topics frontmatter. MRT propagated to 16 concept `places:` lists (pre-existing nav gap) + all three faceted indexes.
+
+**Contradiction filed (1):** `mauritania-houwiyeti-passport-share-extracts` ÔÇö held ID4Africa "70% of passport requests / 622k extracts" (May 2025) vs Tech Rek "35.7% via app / 406,871 civil-status extracts" (June 2026); both kept dated, wiki-agnostic research brief attached.
+
+**Gaps filed (2):** GAP-MRT-001 (new national digital-ID + PKI WARDIP tender, unsourced); GAP-MRT-002 (National AI Strategy 2025ÔÇô2029 + National Cybersecurity Strategy 2022ÔÇô2025 referenced without pages).
+
+**Teardown:** `new/` drained empty; `new-queue/MRT/` deleted (husk); `done/MRT/` backup intact (18 files). Committed as `3c19ac1`. Exiting without claiming a second folder.
+
+issues - 13 ; contradictions - 22 ; gaps - 77
+2026-07-18 07:06:29  iteration 4 - 51 folder(s) pending: BDI,BEN,BFA,BWA,CAF,CIV,CMR,COD,COG,COM,CPV,DJI,DZA,EGY,ETH,GAB,GHA,GIN,GMB,GNQ,KEN,LBR,LBY,LSO,MAR,MDG,MLI,MOZ,MUS,MWI,NAM,NER,NGA,RWA,SDN,SEN,SLE,SOM,SSD,STP,SWZ,SYC,TCD,TGO,TUN,TZA,UGA,XAF,ZAF,ZMB,ZWE
+Done. SDN is fully processed, committed, and torn down. Working tree is clean except the driver's own `overnight-run.log` (left untouched).
+
+## SDN (Sudan) ÔÇö ingest complete
+
+**Candidates:** 17 in ÔåÆ **17 admitted ┬À 0 leads ┬À 0 discards ┬À 0 needs-clip** (`new/` empty throughout; all counts reconcile).
+
+**Nature of the folder:** 12 SUNA (Sudanese state-agency, `provenance_flag: state-agency`, capture Ôëá endorsement) + 5 trade-journal clips ÔÇö all full-text, no flagged summaries. The Port-Sudan digital-state build plus wartime survival rails.
+
+**Key intelligence:**
+- **SUDAPASS national digital ID is now LIVE (2026-05-21)** ÔÇö supersedes the held "imminent/preparing" status; implemented via the cybersecurity authority, e-certification authority and civil registry. Dated-supersession, **not** a contradiction.
+- **Horizon Fiber** DjiboutiÔÇôEthiopiaÔÇôSudan corridor went to a binding agreement (the two same-event outlets kept as complementary, not deduped).
+- Wartime DFS rails (Bankak/Bede/USSD/Isali) + post-war system restoration (customs/tax/e-collection/licensing) + social-registry & Afia health DPI.
+
+**Entities:** 26 touched ÔÇö **20 created** (sudatel, sudani-telecom, mtn-sudan, network-international, saudi-sudanese-bank, national-workers-bank-sudan, horizon-fiber, bede-wallet, baladna-platform-sudan, isali, unified-social-registry-sudan, afia-platform-sudan, bankak, central-bank-of-sudan, national-electronic-certification-authority-sudan, civil-registry-sudan, ministry-of-finance-sudan, tax-authority-sudan, sudan-customs-authority, ministry-of-energy-sudan, ministry-of-health-sudan, ministry-human-resources-social-welfare-sudan, national-investment-authority-sudan, communications-postal-regulatory-authority-sudan, world-health-organization, asycuda ÔÇö *note: 26 created incl. org/instrument*); **6 updated** (sudapass, ministry-digital-transformation-sudan, bank-of-khartoum, sudanese-cybersecurity-authority, ethio-telecom, djibouti-telecom).
+
+**Pages/indexes:** SDN hub reworked; dpi.id per-place entry ÔåÆ SUDAPASS-live; SDN added to 10 concept-page frontmatters + 8 topics-index lines; entities-index +26 rows; places-index SDN row refreshed.
+
+**Contradictions:** none filed (SUDAPASS is supersession, not conflict).
+**Gaps:** filed **GAP-SDN-003** (off-source-scope leads: CBoS NIPS/EBS national payment switch, Al-Asjad licence revocation, Baladna "28 services", Khartoum data-centre). Also **partially resolved the pre-existing GAP-SDN-002** ÔÇö creating `central-bank-of-sudan` closes its CBoS half (Zain-Group page + DFS-report date remain open).
+
+**Mechanical:** 17 git-mv renames to `raw/` with published-date titles + `ingested:` stamps; 2 staged entity-list corrections; folder copied to `new-queue/done/SDN/`; `new-queue/SDN/` husk deleted. One commit. **Exiting ÔÇö not claiming a second folder.**
+
+issues - 14 ; contradictions - 22 ; gaps - 74
+2026-07-18 07:25:12  iteration 5 - 50 folder(s) pending: BDI,BEN,BFA,BWA,CAF,CIV,CMR,COD,COG,COM,CPV,DJI,DZA,EGY,ETH,GAB,GHA,GIN,GMB,GNQ,KEN,LBR,LBY,LSO,MAR,MDG,MLI,MOZ,MUS,MWI,NAM,NER,NGA,RWA,SEN,SLE,SOM,SSD,STP,SWZ,SYC,TCD,TGO,TUN,TZA,UGA,XAF,ZAF,ZMB,ZWE
+Done. Committed cleanly. Exiting after exactly one folder as the runbook requires.
+
+## Wrap-up ÔÇö MLI (Mali)
+
+**Interruption recovery:** clean start ÔÇö `new/` empty, no split `new-queue`/`done` folder.
+
+**Folder claimed:** **MLI** ÔÇö smallest pending (18 candidates), ledger status `swept`.
+
+**MLI: 18 candidates in ÔåÆ 18 admitted / 0 leads / 0 discards / 0 needs-clip** (all 18 bodies were full-text primary/first-hand reporting; count balances). One URL-collision flag (IFCÔÇôOrange Mali) was a false positive ÔÇö that URL only appears as a citation row inside the Data Landscapers data-centre dataset, not a held copy of the event; the IFC primary was admitted normally.
+
+**Entities created (10):**
+- *Companies:* orange-mali, intelsat, sotelma, maroc-telecom
+- *Government bodies:* apdp-mali (DPA), agetic (ICT agency), anssi-mali (cyber agency)
+- *Organisation:* niyel
+- *Deals:* ifc-orange-mali-loan (Ôé¼80m), sotelma-state-majority-2026 (~$277m reclaim)
+
+**Entities updated (5):** ifc, smart-africa, cib-aes, alliance-of-sahel-states, orange.
+
+**Synthesis:** MLI hub expanded with the full 2025ÔÇô26 arc (14 new dated developments) + rewritten topic/entity sections; four concept pages updated where Mali is genuinely net-new (gov.protect ÔÇö new enforcing DPA; tech.ai ÔÇö Niyel Francophone-WA framework; data.satellite ÔÇö first 4G-over-satellite; infra.cybersec ÔÇö ANSSI/strategy/chamber). Country-level items already covered by Mali's active topics were held on the hub + entity pages to avoid concept bloat. No intersection created (single-country thematic narrative, not matrix-shaped).
+
+**Indexes:** entities-index (+10 rows), topics-index (+MLI on 5 topic lines), places-index (MLI row refreshed).
+
+**Registers:** none filed ÔÇö ISSUE-014 (no Russia geopol slug) already open and flagged in-line; the minor ANSSI strategy-date nuance recorded as not-a-contradiction. techgriot health-portal cites We Are Tech as primary (un-fetchable in batch ingest) ÔÇö admitted as secondary reporting, noted.
+
+**Mechanical:** 18 files stamped `ingested:` and moved `new/ ÔåÆ raw/`; backup preserved in `new-queue/done/MLI/`; husk `new-queue/MLI/` deleted. Committed as `88833ab`. `new/` verified empty. Exiting without claiming a second folder.
+
+issues - 14 ; contradictions - 22 ; gaps - 77
