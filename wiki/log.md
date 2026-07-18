@@ -5671,3 +5671,12 @@ Badaoui; UK Home Office forensics MoU 2025-11), algeria-biometric-id-card (instr
 Updated algeria-digital-id-trust-law (Council of Ministers 2 Nov 2025 → APN; modernises 2015 e-sig; ARPCE+AGCE
 certification base). E-signature/certification launched Jan 2025 (ARPCE = national e-cert authority); remote biometric
 passport renewal (diaspora); vehicle registration all-digital 3rd phase (biometric ID required); CNAS e-health card (uninsured).
+
+## 2026-07-18 — ingest(DZA) chunk 5/8: GovTech, registries, sectoral MIS & open data
+21 sources admitted. Updated intersection `algeria--dpi-govtech` (platform wave). New entity algeria-apostille
+(initiative; live 9 Jul 2026, Hague accession 25 Aug 2025, ~126 states). Updated dzair-services (52 services, UN/UNDP)
+and amlak (twin source). Indexed on the govtech intersection (materiality bar — one-source sectoral MIS kept as
+index lines, not stubbed): e-commercial register "Sedjilkoum" (173,651 new/125,195 struck-off 2025), export-data
+platform, import-tracking, agri MIS (farm/land/livestock registers), health patient-transfer, SME economic IS,
+market-supply IS, social cartography portal, lawyers' court portal, 4 higher-ed platforms (Baddari 24 Feb 2026),
+CNC qualifications, tax-data integration, notaries MoU.
