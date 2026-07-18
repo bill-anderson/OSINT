@@ -4,9 +4,9 @@ title: Comoros
 code: COM
 parent: XEA
 place_kind: country
-topics: [dpi.pay, infra.store, dpi.id, gov.protect, dpi.govtech, dpi.exchange, gov.regional, infra.connect, include.access, include.divides]
+topics: [dpi.pay, infra.store, dpi.id, gov.protect, dpi.govtech, dpi.exchange, gov.regional, infra.connect, include.access, include.divides, tech.ai, tech.innovate, tech.industry, capacity.training, capacity.literacy, dpi.mis, data.statistics, data.satellite, gov.standards, gov.legislate, gov.policy, digital.localgov, geopol.china, geopol.eu, geopol.usa, finance.new]
 status: active
-last_reviewed: 2026-07-15
+last_reviewed: 2026-07-18
 ---
 
 # Comoros (COM)
@@ -15,6 +15,16 @@ A **small Indian-Ocean archipelago building DPI from a very low base**, largely 
 
 ## Recent developments
 
+- **2025–26 national-press sweep** — Al-Watwan + La Gazette + trade press add, for a country this small, a
+  strikingly complete picture: **[[genkey|GenKey]] officially replaced Semlex (Apr 2026) and repatriated
+  biometric data from Belgium to domestic storage** (a data-sovereignty event); the **`.km` ccTLD moved to
+  [[anaden|ANADEN]]**; **both operators launched 5G** (2025) while the regulator **banned Starlink pending a
+  licence**; the **[[paylogic|PayLogic]] switch** dated award→go-live, joined by the BCC's
+  **[[komorpay-comoros|KomorPay]]** stack and an **AXIAN DFI licence** (a regulated-digital-finance first);
+  a civil registry with a **PIN** ([[amecc-comoros|AMECC]]) and a WB **[[rsu-comoros|social register]]**; a
+  Huawei **[[technopole-numerique-comoros|Technopole]]**, the **first AI Forum**, and the **[[rgph5-comoros|
+  RGPH-5]] census** (launched Jun 2026). See [[com--dpi-id]], [[com--infra-connect]], [[com--dpi-pay]],
+  [[com--dpi-govtech]].
 - **2026-02-16** — **Anjouan (Ndzuani) to print its own biometric ID cards.** From April 2026, Dutch firm
   **[[genkey]] replaces Semlex** producing Comoros' biometric documents; ID-card printing decentralises to
   Ndzuani so residents no longer travel to Moroni. See [[dpi.id]]. Source: [[2026-02-16 Comoros - Anjouan (Ndzuani) to produce its own biometric ID cards (Genkey replaces Semlex)]].
@@ -33,23 +43,32 @@ A **small Indian-Ocean archipelago building DPI from a very low base**, largely 
 
 ## Active topics
 
-- **Digital payments** ([[dpi.pay]]) — the **[[paylogic]]** national interoperable switch; **PAPSS** cross-border
-  ([[bcc-comoros]]); a digital public payment system under the AfDB project.
-- **Data centres / DPI** ([[infra.store]], [[dpi.govtech]]) — the **[[anaden]]** Tier-3 data centre and the
-  AfDB **[[project-digitization-comorian-economy]]** (data centre + admin platform + interoperability + incubator).
-- **Digital identity** ([[dpi.id]]) — decentralised biometric ID production ([[genkey]] replacing Semlex, Anjouan).
+- **Digital payments** → **[[com--dpi-pay]]** — the **[[paylogic]]** switch (dated award→go-live); the
+  BCC-branded **[[komorpay-comoros|KomorPay]]/Komor Switch** stack; **[[komoralink-comoros|KomoraLink]]** B2B;
+  **PAPSS** ([[bcc-comoros]]); the **AXIAN DFI licence** (BCC first) + AXIAN-Mastercard cards.
+- **Digital identity** → **[[com--dpi-id]]** — **[[genkey|GenKey]] replaced Semlex and repatriated biometric
+  data from Belgium** to domestic storage; **[[amecc-comoros|AMECC]]** civil registry + a **PIN**;
+  **[[anec-comoros|ANEC]]** agency; **[[rsu-comoros|RSU]]** social register.
+- **Connectivity** → **[[com--infra-connect]]** — **.km ccTLD → [[anaden|ANADEN]]**; **dual 5G launch**
+  ([[yas|Yas]]/Huawei + [[comores-telecom|Comores Télécom]]); **Starlink banned pending licence**; AXIAN
+  $82m 4G + Yas €25m IFC.
+- **E-gov / AI / census** → **[[com--dpi-govtech]]** — two donor tracks (AfDB **[[project-digitization-comorian-economy|PADEC]]** + EU **[[e-administration-comoros|e-Administration]]**); Huawei
+  **[[technopole-numerique-comoros|Technopole]]**; 1st AI Forum; **[[e-msomo-comoros|e-Msomo/e-Shiyo]]**
+  EdTech; **[[rgph5-comoros|RGPH-5]]** census.
+- **Data centres / DPI** ([[infra.store]]) — the **[[anaden]]** Tier-3 data centre.
 - **Data protection** ([[gov.protect]]) — a GDPR-aligned **[[comoros-data-protection-law-2021]]** whose National
-  Authority is not yet operational (the AfDB project funds standing one up).
-- **Connectivity** ([[infra.connect]]) — see [[2025-03-03 Digital 2025 - Comoros]] for the baseline.
+  Authority is not yet operational.
 
 ## Entities
 
-**Government bodies:** [[anaden]] · [[bcc-comoros]]
-**Companies:** [[paylogic]] · [[genkey]]
-**Initiatives:** [[project-digitization-comorian-economy]]
+**Government bodies:** [[anaden]] · [[bcc-comoros]] · [[anec-comoros]]
+**Companies:** [[paylogic]] · [[genkey]] · [[comores-telecom]] · [[yas]] · [[axian-telecom]]
+**Identity/registry:** [[amecc-comoros]] · [[anec-comoros]] · [[rsu-comoros]] · [[comoros-cctld-km]]
+**Payments:** [[komorpay-comoros]] · [[komoralink-comoros]] · [[mastercard]]
+**E-gov/AI/EMIS/census:** [[project-digitization-comorian-economy]] · [[e-administration-comoros]] · [[technopole-numerique-comoros]] · [[e-msomo-comoros]] · [[rgph5-comoros]]
 **Instruments:** [[comoros-data-protection-law-2021]]
 **Partners:** [[world-bank]] · [[papss]] · [[afreximbank]]
-Mentioned, not hubbed: Comores Cable; Semlex (replaced by Genkey); National Authority for the Protection of Personal Data and Access to Information (to be created); PADSF (WB financial-sector project).
+Mentioned, not hubbed: Comores Cable; Semlex (replaced by GenKey, data repatriated from Belgium); National Authority for the Protection of Personal Data (to be created); Hazi Haki (AI training); ZynBusiness (ERP); Kartapay; INSEED; ANRTIC (regulator, Starlink ban).
 
 ## Notes
 

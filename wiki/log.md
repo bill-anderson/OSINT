@@ -5538,3 +5538,15 @@ first) + AXIAN-Mastercard cards. All 9 moved new→raw.
 AfDB PADEC), [[e-msomo-comoros]] (EdTech + student ID), [[rgph5-comoros]] (5th census, launched Jun 2026).
 1st national AI Forum; tax téléprocédures; measles ODK. PADEC €9.51m vs held $10.4m = same project dated
 differently. All 13 moved new→raw. **new/ empty — 41 admitted, 0 pruned.**
+
+### 2026-07-18 · ingest COM · BATCH COMPLETE
+**41 sources admitted, 0 leads, 0 discards, 0 pruned.** From 41 staged (27 newspaper Al-Watwan/La Gazette +
+14 trade-journal). **~15 new entities** + **4 new intersections** ([[com--dpi-id]], [[com--infra-connect]],
+[[com--dpi-pay]], [[com--dpi-govtech]]). COM hub updated. **Not thin** — Comoros highly productive for its
+size. Highlights: **GenKey replaced Semlex and repatriated biometric data from Belgium to domestic storage**
+(data-sovereignty event); **.km ccTLD → ANADEN**; dual 5G + **Starlink ban**; PayLogic dated + KomorPay BCC
+stack + **AXIAN DFI licence** (regulated-digital-finance first); AMECC civil-registry PIN; Huawei Technopole;
+RGPH-5 census. No hard contradictions. PADEC €9.51m vs held $10.4m recorded as same project dated
+differently. Ledger note for the human: COM paper domain is **adiac**-style — Al-Watwan (alwatwan.net) +
+La Gazette (lagazettedescomores.com). Indexes updated (11 entities; COM places-index row). MANIFEST →
+new-queue/done/COM/. Ingested in 4 thematic chunks. All 41 source links lint clean (0 unresolved, 0 orphans).

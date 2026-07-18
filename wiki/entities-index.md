@@ -6,6 +6,7 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 
 | Entity | Places | Topics | Page |
 |---|---|---|---|
+| Comores Télécom | COM | infra.connect, tech.industry | [[comores-telecom]] |
 | Congo Télécom | COG | infra.connect, tech.industry | [[congo-telecom]] |
 | Gozem (Congo-Brazzaville) | COG, TGO | dpi.pay, tech.innovate | [[gozem-congo]] |
 | Kerry Payments (Congo-Brazzaville) | COG | dpi.pay, dpi.exchange | [[kerry-payments-congo]] |
@@ -410,6 +411,7 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 
 | Entity | Places | Topics | Page |
 |---|---|---|---|
+| ANEC (National Civil-Status Agency, Comoros) | COM | dpi.registry, dpi.id | [[anec-comoros]] |
 | ANSSI (National Cybersecurity Agency, Congo-Brazzaville) | COG | infra.cybersec, gov.regional | [[anssi-congo]] |
 | FASUCE (universal-access fund, Congo-Brazzaville) | COG | infra.connect, include.access | [[fasuce-congo]] |
 | INS (National Institute of Statistics, Congo-Brazzaville) | COG | data.statistics | [[ins-congo]] |
@@ -710,6 +712,12 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 | RGPH-2 (2nd population & housing census, DR Congo) | COD | data.statistics, gov.policy | [[rgph2-drc]] |
 | ADIS (Africa Digital Innovation Summit, DR Congo) | COD | tech.innovate, gov.regional | [[adis-drc]] |
 | RSU (Registre Social Unique, DR Congo) | COD | dpi.registry, dpi.mis | [[rsu-drc]] |
+| AMECC (Comoros civil-registry modernisation) | COM | dpi.registry, dpi.id | [[amecc-comoros]] |
+| RSU (Registre Social Unique, Comoros) | COM | dpi.registry, dpi.mis | [[rsu-comoros]] |
+| KomorPay / Komor Switch (Comoros) | COM | dpi.pay, finance.new | [[komorpay-comoros]] |
+| Technopole numérique (Comoros) | COM | tech.innovate, capacity.training, geopol.china | [[technopole-numerique-comoros]] |
+| e-Administration project (Comoros, EU) | COM | dpi.govtech, geopol.eu | [[e-administration-comoros]] |
+| RGPH-5 (Comoros 5th population census) | COM | data.statistics, data.satellite | [[rgph5-comoros]] |
 | PARAE (CIV AI/data support programme) | CIV | tech.ai, finance.new, infra.store | [[parae]] |
 | National Data Centre (Côte d'Ivoire) | CIV | infra.store, geopol.usa | [[national-data-centre-civ]] |
 | Digital City (Côte d'Ivoire) | CIV | infra.store, dpi.govtech | [[digital-city-civ]] |
@@ -1140,6 +1148,9 @@ Databases, registries, datasets, tools and portals consulted repeatedly (entity_
 | Africa-BB-Maps (CIV broadband infrastructure map) | CIV | infra.connect, data.open | [[africa-bb-maps]] |
 | Géoportail du Grand Abidjan | CIV | data.satellite, dpi.registry, digital.localgov | [[geoportail-grand-abidjan]] |
 | TrésorPay–TrésorMoney (CIV Treasury payment rail) | CIV | dpi.pay, dpi.govtech | [[tresorpay-tresormoney]] |
+| .km ccTLD (Comoros) | COM | infra.connect, gov.standards | [[comoros-cctld-km]] |
+| KomoraLink (Comoros B2B commerce platform) | COM | dpi.pay, tech.innovate | [[komoralink-comoros]] |
+| e-Msomo / e-Shiyo (Comoros EdTech platforms) | COM | dpi.mis, dpi.id | [[e-msomo-comoros]] |
 | IDCAM (Cameroon CNI pre-enrolment platform) | CMR | dpi.id, dpi.govtech | [[idcam]] |
 | CAMCIS (Cameroon Customs Information System) | CMR | dpi.govtech, dpi.registry | [[camcis]] |
 | COLEPS (Cameroon Online E-Procurement System) | CMR, KOR | dpi.govtech | [[coleps]] |
