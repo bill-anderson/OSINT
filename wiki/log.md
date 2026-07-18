@@ -5248,3 +5248,12 @@ entry, via Ecobank), [[afriland-first-bank]] (Visa entry), [[bankcompar]] (CNEF 
 [[ministry-of-territorial-administration-cameroon]]. Added Blue Money to [[camtel]]. New intersection
 [[cameroon--dpi-pay]] (MoMo duopoly + Camtel Blue Money; GIMACPAY 600bn FCFA + BEAC/PAPSS CEMAC;
 Visa vs sovereign rails; InTouch monopoly harm). All 12 moved new→raw.
+
+### 2026-07-18 · ingest CMR · chunk 6/8 — E-government & data exchange
+**20 sources admitted.** New entities: [[camcis]] (customs/IMEI device-registry regime — **enforcement
+did NOT land on 25 May 2026**, operators refused; MANIFEST Flags 12/16, CAMCIS≠CAMCIH), [[digi-cor]]
+($163m local-govt digitisation; 68.5% of councils lack networks), [[coleps]] (KOICA $12M e-procurement),
+[[proxigab]] (SME platform). New intersection [[cameroon--dpi-govtech]] (customs/device-registry chain;
+COLEPS/PROXIGAB/DGI/e-Visa/RF-eTrust; DIGI-CoR + NW councils + Douala×Huawei cadastre; urban-data /
+Nigeria-model / Korea-cooperation). Korea partnership rides on existing ISSUE-014 (no geopol.korea slug).
+All 20 moved new→raw.
