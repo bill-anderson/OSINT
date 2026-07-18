@@ -5989,3 +5989,11 @@ ndasc-gambia) → +7 entities-index rows. Hub GMB.md refreshed (top developments
 GMB row rewritten. Dead-link lint 0; orphan lint 0/28. Same-event twins kept complementary (Margins signing, NIMS launch,
 QGroup House, GAMTEL-SYSROAD, GAMTEL-YCELL) — none pruned. GAMCEL price stages noted dated (D6.7bn bid → GMD 6.1bn final).
 GAP-GMB-001 (Central Bank/GRA) unchanged — not addressed this batch. new-queue/GMB → done.
+
+## 2026-07-18 — ingest(GNQ) chunk 1/5: Connectivity, cables, GITGE & GETESA
+9 sources admitted. New intersection `gnq--infra-connect`. Entities: gitge-gnq (govt-body; state telecoms-infra manager,
+ACE landing/O&M host — RESOLVES GAP-GNQ-001), getesa-gnq (company; state operator modernisation 5G/eSIM/WiFi/Getesa Money,
+Huawei contract 9 Jul 2026 geopol.china), telgesa-gnq (company; new 2nd state operator ~$50m/260 towers/90%, Cyberteq 2025),
+gnq-medusa-cable (initiative; Analysys Mason study, Medusa landing Bome/Bata €20-60m 2029-30, Via Africa MoU). Gabon-EqG
+fibre/roaming/frequency (Mongomo Nov 2025); Starlink entry signal; telecoms-law reform tender. RadioMacuto independent
+counterweight (opaque Huawei procurement) — capture-not-endorsement.
