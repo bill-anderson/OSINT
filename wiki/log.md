@@ -5319,3 +5319,10 @@ Félix Adom** (May 2026), **[[certinum]]** DP-compliance platform (live 2 Jul 20
 postal data-reporting mandates, ITU **TDAG chair (Bessou)**, WSIS "data-driven regulation" doctrine,
 rights outreach, e-transactions law (Ord. 2017 amendment). New entities [[certinum]], [[caidp]]
 (access-to-info authority — the data.open anchor). All 18 moved new→raw.
+
+### 2026-07-18 · ingest CIV · chunk 4/9 — Cybersecurity & ANSSI
+**10 sources admitted.** New entity [[anssi-cote-divoire]] (the hub's cybersecurity institutional gap):
+created by decree 30 Oct 2024, launched Feb 2025, centralises PLCC/CI-CERT/Alertes100; **Ordinance
+2024-950 moved the cyber mandate from ARTCI to ANSSI** (ratified Apr–Jun 2025); cybercrime **12,100
+dossiers / ~7bn FCFA**, Kaspersky **27m attacks (2024)**; SOC + national RSSI/CISO network (2026);
+Togo cooperation. All 10 moved new→raw.
