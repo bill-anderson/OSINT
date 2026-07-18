@@ -5860,3 +5860,9 @@ criminalised GH¢24k fine 2026-07-15; NIA Act 707 restructure under Interior + l
 and ghana--dpi-id (SIM-ID overhaul: 2021-23 registration invalid / 2022 biometrics never authenticated → fresh 2026 drive +
 liveness + Ghana Card single source of truth + MTN phased; Births&Deaths Registry backlog). Confirms NIA Act 707 basis
 (narrows GAP-GHA-002).
+
+## 2026-07-18 — ingest(GHA) chunk 2/7: E-government, Ghana.gov & health MIS
+8 sources admitted. New intersection `ghana--dpi-govtech`. Entities: ghana-gov-platform (resource; 16,000-service revamp,
+Ghana Card integration, 2026 shake-up), ghana-digital-acceleration-project (deal; WB $200m 2023-27). Danish eBoks model
+(merge NHIS/GRA/DVLA); Interior digital-services portal (Dec 2025); Trident-GRA MSME platform (Sikaflow, 530k); GHIMS
+rollout after LHIMS/Lightwave failure; $77m health-data contract scandal (~15m records reconstructed).
