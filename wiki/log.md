@@ -5606,3 +5606,10 @@ thematic chunks. All 60 source links lint clean (0 unresolved, 0 orphans).
 Horizon Fiber binding deal (~2,800km/144 pairs/14ms, 5 outlets); DARE1 Kenya-SA extension (36 Tbit/s, 3
 twins); Ethio-DJT partnership; Djibouti Telecom monopoly profile (**stale cable figures flagged, not
 promoted**); Wingu $60M (AMS-IX IXP). All 15 moved new→raw.
+
+### 2026-07-18 · ingest DJI · chunk 2/4 — Digital ID, payments & GovTech
+**11 sources admitted (twins).** Updated [[mobile-id-djibouti]] (forum twins: Somalia CB/Benin ANIP present;
+emergency-medical; Guelleh warnings; forum-vs-launch 08/09-Feb ambiguity noted) and [[smart-wallet-djibouti]]
+(MDENI/Visa/Tech5 detail; **flagged "Asmara" source error**). New entities [[dpcs-djibouti]] (port community
+system, IMO/WB best practice), [[online-company-creation-djibouti]] (8,446 firms), [[limo-djibouti-startup]]
++ [[limo-platform-djibouti]] (**name-collision disambiguated**). All 11 moved new→raw.
