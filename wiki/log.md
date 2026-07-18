@@ -5518,3 +5518,9 @@ Note: COG paper's real article domain is **adiac-congo.com** (ledger correction 
 + **PIN** under 27 Jul 2023 law), [[anec-comoros]] (civil-status agency decree), [[rsu-comoros]] (WB social
 register, 62k households). Updated [[genkey]] (now COM: **replaced Semlex, repatriated biometric data from
 Belgium to domestic storage** — data-sovereignty fact). All 10 moved new→raw.
+
+### 2026-07-18 · ingest COM · chunk 2/4 — Connectivity, ccTLD, 5G & telecom investment
+**9 sources admitted.** New intersection [[com--infra-connect]]; new entities [[comores-telecom]]
+(incumbent, 5G WTTX), [[comoros-cctld-km]] (**.km ccTLD transferred to ANADEN** — sovereignty). Dual 5G
+launch (Yas/Huawei + CT); **Starlink banned pending licence (ANRTIC, 12 Jun 2025)**; foreign-financed
+build (AXIAN $82m 4G, Yas €25m IFC, NEXT 2030). All 9 moved new→raw.
