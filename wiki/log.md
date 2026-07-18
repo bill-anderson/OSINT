@@ -5240,3 +5240,11 @@ not duplicate), >19m threats blocked 2024, fintech cyber workshop. New entity
 [[cameroon--infra-cybersec]] holding **both faces**: capability/sovereignty build vs rights counterweight
 (Paradigm Initiative/Civic Watch DIPES critique; 23 Oct 2025 election shutdown; XAF39bn urban video-
 surveillance loan). All 8 moved new→raw. infra.cybersec concept by-place line deferred to finalize.
+
+### 2026-07-18 · ingest CMR · chunk 5/8 — Payments & fintech
+**12 sources admitted.** New entities: [[intouch]] (state-granted online-gaming payment monopoly),
+[[kiroo-games]] (the harmed studio — 10+ days no payments), [[flutterwave]] (first BEAC-licensed fintech
+entry, via Ecobank), [[afriland-first-bank]] (Visa entry), [[bankcompar]] (CNEF price-transparency),
+[[ministry-of-territorial-administration-cameroon]]. Added Blue Money to [[camtel]]. New intersection
+[[cameroon--dpi-pay]] (MoMo duopoly + Camtel Blue Money; GIMACPAY 600bn FCFA + BEAC/PAPSS CEMAC;
+Visa vs sovereign rails; InTouch monopoly harm). All 12 moved new→raw.
