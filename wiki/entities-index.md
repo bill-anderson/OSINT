@@ -6,6 +6,13 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 
 | Entity | Places | Topics | Page |
 |---|---|---|---|
+| Ooredoo Algeria | DZA | infra.connect, tech.ai | [[ooredoo-algeria]] |
+| Djezzy (Optimum Télécom Algérie) | DZA | infra.connect, tech.ai, tech.industry | [[djezzy]] |
+| Mobilis (ATM Mobilis) | DZA | infra.connect, include.access | [[mobilis]] |
+| Sparkle (Telecom Italia Sparkle) | ITA, DZA | infra.connect, infra.store | [[sparkle]] |
+| Ericsson | XGL | infra.connect, tech.industry | [[ericsson]] |
+| Yassir (Algeria super-app) | DZA | dpi.pay, tech.innovate | [[yassir]] |
+| VaulFi | DZA, XNA | dpi.pay, tech.innovate, finance.new | [[vaulfi]] |
 | Limo (Djibouti e-commerce startup) | DJI | tech.innovate, dpi.pay | [[limo-djibouti-startup]] |
 | VisionWare | PRT, CPV | infra.cybersec, tech.industry | [[visionware]] |
 | CV Telecom (Cabo Verde Telecom) | CPV | infra.connect, tech.industry | [[cv-telecom]] |
@@ -245,6 +252,7 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 
 | Entity | Places | Topics | Page |
 |---|---|---|---|
+| CERIST (Algeria research centre) | DZA | capacity.research, infra.store, tech.innovate | [[cerist]] |
 | Fédération Nationale des Entreprises du Numérique (Djibouti) | DJI | tech.innovate, gov.regional | [[federation-entreprises-numeriques-djibouti]] |
 | CARIA (Congo) | COG | tech.ai, capacity.training, geopol.china | [[caria-congo]] |
 | EXIM Bank (Export-Import Bank of the USA) | XGL, CIV | finance.new, geopol.usa, infra.store | [[exim-bank-usa]] |
@@ -415,6 +423,12 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 
 | Entity | Places | Topics | Page |
 |---|---|---|---|
+| ARPCE (Algeria post/telecom regulator) | DZA | infra.connect, gov.legislate, dpi.id | [[arpce-algeria]] |
+| Ministry of Post & Telecommunications (Algeria) | DZA | infra.connect, gov.policy | [[ministry-of-post-and-telecommunications-algeria]] |
+| ASSI (Information Systems Security Agency, Algeria) | DZA | infra.cybersec, gov.policy | [[assi]] |
+| MPT-CERT (Algeria sectoral post/telecom CERT) | DZA | infra.cybersec | [[mpt-cert]] |
+| DGSN (National Security Directorate, Algeria) | DZA | dpi.id, infra.cybersec | [[dgsn-algeria]] |
+| Bank of Algeria | DZA | dpi.pay, gov.legislate, finance.new | [[bank-of-algeria]] |
 | INE (National Statistics Institute, Cabo Verde) | CPV | data.statistics, data.open | [[ine-cabo-verde]] |
 | ANEC (National Civil-Status Agency, Comoros) | COM | dpi.registry, dpi.id | [[anec-comoros]] |
 | ANSSI (National Cybersecurity Agency, Congo-Brazzaville) | COG | infra.cybersec, gov.regional | [[anssi-congo]] |
@@ -713,6 +727,10 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 
 | Entity | Places | Topics | Page |
 |---|---|---|---|
+| Algeria 5G programme (three licences, 2025) | DZA | infra.connect, finance.new | [[algeria-5g]] |
+| Algeria Apostille (Hague e-legalisation) | DZA | dpi.govtech, gov.regional | [[algeria-apostille]] |
+| "7.77" National Digital Empowerment (Algeria) | DZA | capacity.training, tech.ai | [[algeria-digital-empowerment-7-77]] |
+| Algeria 50-in-5 DPI membership | DZA | dpi.exchange, gov.regional | [[algeria-50in5]] |
 | Djibouti Digital Foundation (DFN) | DJI | tech.innovate, gov.regional, gov.policy | [[djibouti-digital-foundation-dfn]] |
 | Digital Houses / E-SKILLS (Djibouti) | DJI | capacity.training, include.divides | [[digital-houses-djibouti]] |
 | École 42 Djibouti | DJI | capacity.training, geopol.eu | [[ecole-42-djibouti]] |
@@ -985,6 +1003,8 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 
 | Entity | Places | Topics | Page |
 |---|---|---|---|
+| Algérie Télécom–Sparkle Italy–Algeria subsea cable (MoU) | DZA | infra.connect, finance.mou | [[algerie-telecom-sparkle-cable]] |
+| Algeria–Russia cybersecurity MoU (Positive Technologies × Proxylan/CERIST) | DZA | infra.cybersec, finance.mou | [[algeria-russia-cybersecurity-mou]] |
 | NOSi–SETIC FP Angola govtech MoU | CPV, AGO | dpi.govtech, finance.mou, gov.regional | [[nosi-angola-setic-mou]] |
 | TeKnowledge–Equinix partnership | NGA, XWA | infra.store, tech.ai, infra.cybersec | [[teknowledge-equinix-partnership]] |
 | Gabon–UNCDF Financial Inclusion Partnership | GAB | finance.mou, dpi.pay, include.access | [[gabon-uncdf-financial-inclusion-deal]] |
@@ -1070,6 +1090,9 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 
 | Entity | Places | Topics | Page |
 |---|---|---|---|
+| Abdelmadjid Tebboune (President, Algeria) | DZA | gov.policy | [[abdelmadjid-tebboune]] |
+| Meriem Benmouloud (Min. Digitalization & Statistics, Algeria) | DZA | gov.policy, dpi.govtech | [[meriem-benmouloud]] |
+| Sid Ali Zerrouki (Min. Post & Telecoms, Algeria) | DZA | infra.connect, gov.policy | [[sid-ali-zerrouki]] |
 | Anthony Same (ST Digital founder/CEO) | CMR, GAB, COG, CIV | infra.store, tech.industry | [[anthony-same]] |
 | David Eaves (UCL IIPP) | XGL | gov.standards, tech.industry, dpi.govtech, gov.legislate | [[david-eaves]] |
 | Faustin-Archange Touadéra (President, CAR) | CAF | gov.policy, dpi.id | [[faustin-archange-touadera]] |
@@ -1147,6 +1170,9 @@ Databases, registries, datasets, tools and portals consulted repeatedly (entity_
 
 | Resource | Places | Topics | Page |
 |---|---|---|---|
+| National Digital Services Center (Algeria) | DZA | infra.store, dpi.govtech, geopol.china | [[national-digital-services-center-algeria]] |
+| AventureCloudz (Djezzy sovereign AI cloud) | DZA | tech.ai, infra.store | [[aventurecloudz]] |
+| ALSAT-3B (Algeria Earth-observation satellite) | DZA | data.satellite, capacity.research | [[alsat-3b]] |
 | Djibouti Open Data Platform (SGDD-a / IMF e-GDDS) | DJI | data.open, data.statistics | [[djibouti-open-data]] |
 | Online company-creation platform (Djibouti) | DJI | dpi.govtech, gov.legislate | [[online-company-creation-djibouti]] |
 | DPCS (Djibouti Port Community System) | DJI | dpi.exchange, dpi.govtech | [[dpcs-djibouti]] |
@@ -1232,6 +1258,8 @@ about or from one becomes a normal source that cites it.
 
 | Instrument | Places | Topics | Page |
 |---|---|---|---|
+| Algeria National ISS Strategy 2025–2029 | DZA | infra.cybersec, gov.policy | [[algeria-national-cybersecurity-strategy-2025-2029]] |
+| Algeria biometric national ID card | DZA | dpi.id, dpi.registry | [[algeria-biometric-id-card]] |
 | Djibouti National AI Strategy | DJI | tech.ai, gov.policy, geopol.china | [[djibouti-ai-strategy]] |
 | PND-ADEEG 2025–2030 (Djibouti 3rd National Development Plan) | DJI | gov.policy, gov.legislate | [[pnd-adeeg-djibouti]] |
 | Djibouti Startup Act (Loi n°179/AN/25) | DJI | gov.legislate, finance.new, tech.innovate | [[startup-act-djibouti]] |

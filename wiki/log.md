@@ -5709,3 +5709,13 @@ Tier-1 fix across 47 DZA-touched wiki files: multi-item `sources:` frontmatter l
 (`[[a]], [[b]]`) so all 135 batch sources resolve. Also flagged in log: Algiers Declaration identity ambiguity
 (OTT-platforms Dec-2025 vs telecom-sovereignty 2026-2030) — treated as one event, two facets; noted on entity, not a
 formal contradiction (scope/identity question, no competing value on a single fact).
+
+## 2026-07-18 — ingest(DZA) FINALIZE
+Batch total: 135 sources admitted (8 chunks), 0 leads, 0 discards. Largest batch to date. Hub DZA.md refreshed:
+new Recent-developments (National Digital Services Center 2026-07-05 + one-month order; apostille; AI-strategy review;
+cyber framework; FTTH 1st-Africa/5G); decree-number dispute flagged; standing profile updated (7m fixed/3.4m fibre/51m
+mobile; ITU IDI 74th); Active topics expanded with 6 new intersections; Entities section rebuilt (~26 new). entities-index:
++28 rows (7 companies, 1 org, 6 govt bodies, 3 people, 4 initiatives, 2 deals, 3 resources, 2 instruments). places-index
+DZA row rewritten. 6 new intersections (infra-connect, infra-store, infra-cybersec, dpi-id, tech-innovate, gov-regional);
+4 updated (gov-protect, dpi-govtech, dpi-pay, tech-ai). Dead-link lint 0 unresolved; orphan lint 0/135.
+new-queue/DZA → new-queue/done/DZA; stray new/MANIFEST.md removed. Filed 1 contradiction (data-gov decree number).
