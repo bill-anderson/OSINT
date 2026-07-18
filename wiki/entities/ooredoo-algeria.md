@@ -7,7 +7,7 @@ topics: [infra.connect, tech.ai, include.access]
 lens: []
 status: active
 last_reviewed: 2026-07-18
-sources: [[2025-07-04-ooredoo-secures-5g-licence--telecomreviewafrica], [2025-12-08-mobilis-djezzy-ooredoo-492m-5g-rollout--itweb], [2026-02-04-ooredoo-setif-smart-city-5g-iot--techreviewafrica], [2026-03-12-ooredoo-5g-all-provinces--connectingafrica], [2026-03-13-ooredoo-algeria-5g-nationwide--telecomreviewafrica], [2025-05-06-ooredoo-algeria-interview--telecomreviewafrica]]
+sources: [[[2025-07-04-ooredoo-secures-5g-licence--telecomreviewafrica]], [[2025-12-08-mobilis-djezzy-ooredoo-492m-5g-rollout--itweb]], [[2026-02-04-ooredoo-setif-smart-city-5g-iot--techreviewafrica]], [[2026-03-12-ooredoo-5g-all-provinces--connectingafrica]], [[2026-03-13-ooredoo-algeria-5g-nationwide--telecomreviewafrica]], [[2025-05-06-ooredoo-algeria-interview--telecomreviewafrica]]]
 ---
 
 # Ooredoo Algeria

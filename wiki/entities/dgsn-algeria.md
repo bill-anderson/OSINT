@@ -7,7 +7,7 @@ topics: [dpi.id, infra.cybersec, gov.protect]
 lens: []
 status: active
 last_reviewed: 2026-07-18
-sources: [[2025-11-21-dgsn-uk-digital-forensics-biometrics-mou--biometricupdate], [2026-07-01-dgsn-digital-space-data-protection-elmoudjahid]]
+sources: [[[2025-11-21-dgsn-uk-digital-forensics-biometrics-mou--biometricupdate]], [[2026-07-01-dgsn-digital-space-data-protection-elmoudjahid]]]
 ---
 
 # DGSN (Directorate General of National Security)

@@ -7,7 +7,7 @@ topics: [dpi.govtech, dpi.exchange, gov.regional]
 lens: []
 status: active
 last_reviewed: 2026-07-18
-sources: [[2026-07-10-apostille-online-legalisation-elmoudjahid], [2026-07-10-apostille-platform-launch-echorouk], [2026-07-15-higher-education-apostille-digital-certification-echorouk]]
+sources: [[[2026-07-10-apostille-online-legalisation-elmoudjahid]], [[2026-07-10-apostille-platform-launch-echorouk]], [[2026-07-15-higher-education-apostille-digital-certification-echorouk]]]
 ---
 
 # Algeria Apostille (Hague Convention e-legalisation)

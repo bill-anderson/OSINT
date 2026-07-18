@@ -7,7 +7,7 @@ topics: [gov.policy, dpi.exchange, gov.protect, infra.store]
 lens: [sovereignty]
 status: needs-review
 last_reviewed: 2026-07-18
-sources: [[2026-02-10 Algeria launches national public-data governance framework (Decree 25-350)], [2026-01-01-decree-25-320-data-governance-technical-base-elmoudjahid], [2026-04-27-unified-market-supply-monitoring-system-echorouk]]
+sources: [[[2026-02-10 Algeria launches national public-data governance framework (Decree 25-350)]], [[2026-01-01-decree-25-320-data-governance-technical-base-elmoudjahid]], [[2026-04-27-unified-market-supply-monitoring-system-echorouk]]]
 ---
 
 # Algeria National Data Governance Framework (Presidential Decree of 30 Dec 2025)

@@ -7,7 +7,7 @@ topics: [infra.cybersec, finance.mou, capacity.research]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-18
-sources: [[2025-11-01-algeria-russia-cybersecurity-mou-elmoudjahid]]
+sources: [[[2025-11-01-algeria-russia-cybersecurity-mou-elmoudjahid]]]
 ---
 
 # Algeria–Russia cybersecurity MoU

@@ -7,7 +7,7 @@ topics: [gov.regional, gov.standards, tech.industry, geopol.eu, gov.legislate]
 lens: [sovereignty, colonialism]
 status: active
 last_reviewed: 2026-07-13
-sources: [[2026-07-12 Algiers Declaration Africa's OTT Platform Rules]]
+sources: [[[2026-07-12 Algiers Declaration Africa's OTT Platform Rules]]]
 ---
 
 # Algiers Declaration (on Fair, Safe and Responsible Digital Platforms in Africa)
@@ -34,10 +34,17 @@ telecom networks.
 
 ## Status
 
-Not yet binding. Formally **validated by participating states**; to be **transmitted to the African
-Union for political adoption, expected early 2026**, after which it is meant to translate into
-binding legal instruments. Sits alongside a parallel **telecom-sovereignty** agenda also adopted in
-Algiers. See [[gov.regional]], [[gov.standards]], [[tech.industry]].
+Not yet binding. Formally **validated by participating states**; to be transmitted to the African
+Union for political adoption, after which it is meant to translate into binding legal instruments.
+
+**Telecom-sovereignty facet (2026-03).** African telecom/ICT ministers in Algiers adopted the **"Algiers
+Declaration on African Telecommunications Sovereignty and Integrated Connectivity (2026–2030)"** — a unified
+continental position (Kenya's CS William Kabogo Gitau prominent) committing to affordable connectivity in
+rural/underserved areas and to integrated terrestrial/submarine/satellite infrastructure, **local data
+centres, IXPs, secure cloud, cybersecurity and human capital**. *(Whether this is a distinct instrument or the
+telecom-sovereignty dimension of the same Algiers Declaration is not fully resolved in sources — treated here
+as one Algiers Declaration event with an OTT-platform facet and a connectivity/sovereignty facet.)* See
+[[algeria--gov-regional]], [[gov.regional]], [[gov.standards]], [[tech.industry]].
 
 ## Related
 
@@ -46,3 +53,5 @@ Algiers. See [[gov.regional]], [[gov.standards]], [[tech.industry]].
 ## Sources
 
 - [[2026-07-12 Algiers Declaration Africa's OTT Platform Rules]]
+- [[2026-03-30-algiers-declaration-telecom-sovereignty--techreviewafrica]]
+- [[2026-03-31-africa-adopts-algiers-declaration--techafricanews]]

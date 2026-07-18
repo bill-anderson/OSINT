@@ -7,7 +7,7 @@ topics: [infra.connect, finance.new, gov.legislate]
 lens: []
 status: active
 last_reviewed: 2026-07-18
-sources: [[2025-05-29-arpce-launches-5g-licence-tender-echorouk], [2025-07-04-ooredoo-secures-5g-licence--telecomreviewafrica], [2025-12-05-algeria-launches-5g-rollout--connectingafrica], [2025-12-08-mobilis-djezzy-ooredoo-492m-5g-rollout--itweb], [2026-03-04-djezzy-nationwide-5g-18-states--techafricanews], [2026-03-12-ooredoo-5g-all-provinces--connectingafrica]]
+sources: [[[2025-05-29-arpce-launches-5g-licence-tender-echorouk]], [[2025-07-04-ooredoo-secures-5g-licence--telecomreviewafrica]], [[2025-12-05-algeria-launches-5g-rollout--connectingafrica]], [[2025-12-08-mobilis-djezzy-ooredoo-492m-5g-rollout--itweb]], [[2026-03-04-djezzy-nationwide-5g-18-states--techafricanews]], [[2026-03-12-ooredoo-5g-all-provinces--connectingafrica]]]
 ---
 
 # Algeria 5G programme

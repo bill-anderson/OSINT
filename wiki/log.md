@@ -5694,3 +5694,18 @@ AI cloud), algeria-digital-empowerment-7-77 (initiative, 64,508 enrollees, AI to
 + algeria-national-ai-strategy (25 May 2026 govt deployment review, 3 levers; New Lines Institute "most likely to lead
 AI in N.Africa", 57k students/74 masters/52 unis). AI supercomputing Oran; Huawei AI/GPU cooperation; ethical-AI law
 prep; virtual-education AI centre; AI vocational training; IPO-fee waiver to 2028; video-game industry; High Council of Scientists.
+
+## 2026-07-18 — ingest(DZA) chunk 8/8: Strategy, governance, regional cooperation & benchmarks
+25 sources admitted. New intersection `algeria--gov-regional`. Entities: algeria-50in5 (initiative; 15th African/33rd
+overall member, Algérie Poste 29M accounts), alsat-3b (resource; 2nd EO satellite). Updated digital-algeria-2030
+(SNTN launch 12-13 May 2025 by Benmouloud; 5→7 pillars; 500k ICT specialists, -40% emigration, 20% GDP; FNI tech hub;
+CSTHCN expert panel; decree-number dispute noted) and algiers-declaration (telecom-sovereignty 2026-2030 facet + March
+sources; identity-vs-OTT-declaration ambiguity flagged in-text). Italy/Niger/Tunisia bilateral; UNDP + UNDP-Japan; AfCFTA
+startup conf; UN AI governance Geneva; Smart Africa AI talks; ITU IDI 74th (up from 89th, score 86.1); WSIS AI award.
+
+## 2026-07-18 — ingest(DZA) mechanical: source-citation normalization
+Tier-1 fix across 47 DZA-touched wiki files: multi-item `sources:` frontmatter lists were single-bracketed per item
+(`[a], [b]`), so only the first item resolved as a `[[wikilink]]` for the orphan lint. Double-bracketed each item
+(`[[a]], [[b]]`) so all 135 batch sources resolve. Also flagged in log: Algiers Declaration identity ambiguity
+(OTT-platforms Dec-2025 vs telecom-sovereignty 2026-2030) — treated as one event, two facets; noted on entity, not a
+formal contradiction (scope/identity question, no competing value on a single fact).

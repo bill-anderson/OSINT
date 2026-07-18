@@ -7,7 +7,7 @@ topics: [infra.cybersec, gov.policy]
 lens: []
 status: active
 last_reviewed: 2026-07-18
-sources: [[2026-06-15-mpt-cert-cyber-incident-response--techafricanews], [2026-06-15-mpt-cert-cyber-incident-response-centre-echorouk]]
+sources: [[[2026-06-15-mpt-cert-cyber-incident-response--techafricanews]], [[2026-06-15-mpt-cert-cyber-incident-response-centre-echorouk]]]
 ---
 
 # MPT-CERT

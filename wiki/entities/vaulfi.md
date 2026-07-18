@@ -7,7 +7,7 @@ topics: [dpi.pay, tech.innovate, finance.new]
 lens: []
 status: active
 last_reviewed: 2026-07-18
-sources: [[2026-02-24-vaulfi-stablecoin-superapp-north-africa--techcabal]]
+sources: [[[2026-02-24-vaulfi-stablecoin-superapp-north-africa--techcabal]]]
 ---
 
 # VaulFi

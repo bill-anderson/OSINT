@@ -9,7 +9,7 @@ entities: [[anpdcp], [algeria-data-governance-framework], [algeria-digital-id-tr
 lens: [sovereignty]
 status: needs-review
 last_reviewed: 2026-07-18
-sources: [[2024-09-19 Algeria Digital Economy (US Country Commercial Guide)], [raw/2026-02-10 Algeria launches national public-data governance framework (Decree 25-350)], [raw/2025-11-05 Algeria approves draft law on national digital ID and trust services], [2025-12-01-anpdp-data-conservation-law-compliance-elmoudjahid], [2026-01-01-decree-25-320-data-governance-technical-base-elmoudjahid], [2026-07-01-dgsn-digital-space-data-protection-elmoudjahid], [2026-04-19-algerian-cyber-policy-digital-sovereignty-analysis-echorouk]]
+sources: [[[2024-09-19 Algeria Digital Economy (US Country Commercial Guide)]], [[raw/2026-02-10 Algeria launches national public-data governance framework (Decree 25-350)]], [[raw/2025-11-05 Algeria approves draft law on national digital ID and trust services]], [[2025-12-01-anpdp-data-conservation-law-compliance-elmoudjahid]], [[2026-01-01-decree-25-320-data-governance-technical-base-elmoudjahid]], [[2026-07-01-dgsn-digital-space-data-protection-elmoudjahid]], [[2026-04-19-algerian-cyber-policy-digital-sovereignty-analysis-echorouk]]]
 ---
 
 # Algeria × Data Protection & Sovereignty

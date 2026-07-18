@@ -7,7 +7,7 @@ topics: [dpi.id, dpi.registry]
 lens: []
 status: active
 last_reviewed: 2026-07-18
-sources: [[2025-11-10-digital-id-trust-services-draft-law--biometricupdate], [2026-04-05-vehicle-registration-fully-digital-elmoudjahid]]
+sources: [[[2025-11-10-digital-id-trust-services-draft-law--biometricupdate]], [[2026-04-05-vehicle-registration-fully-digital-elmoudjahid]]]
 ---
 
 # Algeria biometric national ID card

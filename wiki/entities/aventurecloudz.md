@@ -7,7 +7,7 @@ topics: [tech.ai, infra.store, tech.innovate]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-18
-sources: [[2026-04-30-djezzy-aventurecloudz-ai-platform--techafricanews]]
+sources: [[[2026-04-30-djezzy-aventurecloudz-ai-platform--techafricanews]]]
 ---
 
 # AventureCloudz

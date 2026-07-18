@@ -9,7 +9,7 @@ entities: [[african-startup-fund-algeria], [algeria-digital-empowerment-7-77], [
 lens: []
 status: active
 last_reviewed: 2026-07-18
-sources: [[2025-02-20-ai-to-boost-economy--telecomreviewafrica], [2026-02-03-algeria-structured-video-game-industry--techreviewafrica], [2026-02-03-waives-ipo-fees-startups-until-2028--wearetech], [2026-04-27-ai-vocational-training-programme--techreviewafrica], [2026-05-19-national-digital-empowerment-7-77--techreviewafrica], [2026-05-21-national-digital-empowerment-7-77-enrolment-echorouk], [2026-06-08-first-virtual-education-ai-innovation-centre-echorouk], [2026-06-20-high-council-scientists-presidency-structures-echorouk]]
+sources: [[[2025-02-20-ai-to-boost-economy--telecomreviewafrica]], [[2026-02-03-algeria-structured-video-game-industry--techreviewafrica]], [[2026-02-03-waives-ipo-fees-startups-until-2028--wearetech]], [[2026-04-27-ai-vocational-training-programme--techreviewafrica]], [[2026-05-19-national-digital-empowerment-7-77--techreviewafrica]], [[2026-05-21-national-digital-empowerment-7-77-enrolment-echorouk]], [[2026-06-08-first-virtual-education-ai-innovation-centre-echorouk]], [[2026-06-20-high-council-scientists-presidency-structures-echorouk]]]
 ---
 
 # Algeria × Innovation ecosystem, startups & digital skills

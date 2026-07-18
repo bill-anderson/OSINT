@@ -7,7 +7,7 @@ topics: [capacity.training, capacity.literacy, tech.ai, include.access]
 lens: []
 status: active
 last_reviewed: 2026-07-18
-sources: [[2026-05-19-national-digital-empowerment-7-77--techreviewafrica], [2026-05-21-national-digital-empowerment-7-77-enrolment-echorouk]]
+sources: [[[2026-05-19-national-digital-empowerment-7-77--techreviewafrica]], [[2026-05-21-national-digital-empowerment-7-77-enrolment-echorouk]]]
 ---
 
 # "7.77" National Digital Empowerment programme

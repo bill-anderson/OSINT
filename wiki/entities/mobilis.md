@@ -7,7 +7,7 @@ topics: [infra.connect, include.access]
 lens: []
 status: active
 last_reviewed: 2026-07-18
-sources: [[2025-12-08-mobilis-djezzy-ooredoo-492m-5g-rollout--itweb]]
+sources: [[[2025-12-08-mobilis-djezzy-ooredoo-492m-5g-rollout--itweb]]]
 ---
 
 # Mobilis (ATM Mobilis)

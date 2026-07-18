@@ -7,7 +7,7 @@ topics: [infra.connect, infra.store, include.divides]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-18
-sources: [[2026-02-18 Algeria Telecom plans 345 new 4G stations nationwide], [raw/2025-12-04 Algeria cloud and data-centre market to reach $450m by 2035], [2025-02-25-algerie-telecom-huawei-400g--techafricanews], [2025-05-05-algerie-telecom-wifi-7--telecomreviewafrica], [2025-07-25-algerie-telecom-sparkle-subsea-cable--connectingafrica], [2026-02-17-algeria-first-africa-ftth-connectivity-echorouk], [2026-05-16-zerrouki-fibre-optic-completion-2027-echorouk], [2026-07-14-ipv6-adoption-echorouk]]
+sources: [[[2026-02-18 Algeria Telecom plans 345 new 4G stations nationwide]], [[raw/2025-12-04 Algeria cloud and data-centre market to reach $450m by 2035]], [[2025-02-25-algerie-telecom-huawei-400g--techafricanews]], [[2025-05-05-algerie-telecom-wifi-7--telecomreviewafrica]], [[2025-07-25-algerie-telecom-sparkle-subsea-cable--connectingafrica]], [[2026-02-17-algeria-first-africa-ftth-connectivity-echorouk]], [[2026-05-16-zerrouki-fibre-optic-completion-2027-echorouk]], [[2026-07-14-ipv6-adoption-echorouk]]]
 ---
 
 # Algérie Télécom
