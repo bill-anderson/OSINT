@@ -6405,3 +6405,14 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
   cyclone (100% data completeness).
 - **Entity created:** [[laxton]] (company — biometric kits, MOSIP full-service partner).
 - **Entity updated:** [[prodigy-madagascar]] (mass-rollout 2026 note).
+
+## 2026-07-18 — ingest(MDG) chunk 2/6: Digital ID — scale, law, DECIM, records
+
+- **6 sources admitted** (0 leads, 0 discards).
+- **Intersection extended:** [[madagascar--dpi-id]] — dated enrolment progression (2.6M→3.25M adults→
+  5.6M total; scopes/dates differ, NOT a contradiction per manifest); 28-May-2026 mass-birth-registration
+  law (~6m/40% lack birth cert); Studia ~10m AI-digitised records; $543m PRODIGY+DECIM review + renewable
+  DCs.
+- **Entities created:** [[decim-madagascar]] (initiative — WB $400m digital+energy connectivity),
+  [[studia-inc]] (company — OCR/AI civil-records digitisation).
+- Currency: enrolment figures written dated; progression explicitly flagged as scope-driven, not conflict.
