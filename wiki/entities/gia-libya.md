@@ -30,6 +30,15 @@ platform, and the Seventh National Human Development Report with UNDP. See [[LBY
   [[2026-02-16 Libya's GIA presents Government Data Governance vision at cloud-computing workshop]].
 - **UNDP MoU (2025-07).** Cooperation on human development, data systems and the Seventh National Human
   Development Report. Source: [[2025-07-02 UNDP and Libya's GIA sign MoU on data systems and human development]].
+- **LY_GOVREP activated (2026-04).** [[dpi.govtech]] The GIA moved LY_GOVREP from preliminary launch to
+  **full activation** as a unified national tool for monitoring public-entity performance — dashboards,
+  data analysis and evidence-based decision-making under the Council of Ministers' Secretary-General.
+  Source: [[2026-04-10-ly-govrep-government-reporting-platform-activated-libyaherald]].
+- **Unified Chambers of Commerce Digital System (2026-03).** [[dpi.exchange]] The General Union of
+  Chambers of Commerce (under the Ministry of Economy & Trade) launched a **unified digital system**
+  issuing standardised **digital certificates of origin** and registration certificates, a trade-statistics
+  portal, and a customs/regulatory verification service — later aligned to the National Data Distributor.
+  Source: [[2026-03-02-unified-chambers-of-commerce-digital-system-libyaherald]].
 
 ## Sources
 
@@ -37,3 +46,5 @@ platform, and the Seventh National Human Development Report with UNDP. See [[LBY
 - [[2026-02-16 Libya's GIA presents Government Data Governance vision at cloud-computing workshop]]
 - [[2025-07-02 UNDP and Libya's GIA sign MoU on data systems and human development]]
 - [[2025-05-15 The State of Digital Transformation in Libya]]
+- [[2026-04-10-ly-govrep-government-reporting-platform-activated-libyaherald]]
+- [[2026-03-02-unified-chambers-of-commerce-digital-system-libyaherald]]

@@ -6182,3 +6182,13 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
 - **Entities created:** [[lptic]] (government-body — state telecoms holding), [[almadar-aljadid]]
   (company — first 5G operator).
 - Cross-links to existing [[trans-saharan-fibre-backbone]], [[gaci-libya]].
+
+## 2026-07-18 — ingest(LBY) chunk 4/5: E-government / data / regional
+
+- **5 sources admitted** (0 leads, 0 discards).
+- **Entities created:** [[ziad-al-hajjaji]] (person — Minister of State for Digital Economy; Geneva
+  "financing digital sovereignty" ministerial), [[baladiyabot]] (initiative — Tripoli municipal digital
+  assistant, EU/GIZ-funded).
+- **Entities updated:** [[gia-libya]] (LY_GOVREP full activation; Unified Chambers of Commerce digital
+  system), [[gaci-libya]] (sovereign digital-economy vision at UNECA COM 2026 Tangier).
+- Note: 1 proxy-dated item (Geneva, `date_source: proxy`, month precision).

@@ -25,8 +25,14 @@ and Informatics Strategy 2023-2027** and national internet infrastructure ([[inf
 - **Cloud/data workshop (2026-02).** Hosted "The Future Vision for Data and Cloud Computing Services,"
   where the GIA presented data-governance policies. Source:
   [[2026-02-16 Libya's GIA presents Government Data Governance vision at cloud-computing workshop]].
+- **Sovereign digital-economy vision at UNECA COM 2026 (2026-03).** [[gov.regional]] [[sovereignty]] GACI
+  presented a "sovereign and integrated digital economy" vision at UNECA's **58th COM 2026** (Tangier),
+  pitching Libya as a **regional technical hub serving African digital interests** and advocating a
+  **unified African data-governance framework** upholding digital sovereignty (fibre, e-gov,
+  data-exchange). Source: [[2026-03-30-gaci-digital-economy-vision-com2026-tangier-libyaherald]].
 
 ## Sources
 
 - [[2025-10-26 Libya launches root servers in Tripoli and Benghazi — digital sovereignty]]
 - [[2026-02-16 Libya's GIA presents Government Data Governance vision at cloud-computing workshop]]
+- [[2026-03-30-gaci-digital-economy-vision-com2026-tangier-libyaherald]]
