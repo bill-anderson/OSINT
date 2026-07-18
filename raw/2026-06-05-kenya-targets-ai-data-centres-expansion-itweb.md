@@ -8,7 +8,7 @@ date_precision: day
 date_source: source
 places: [KEN]
 topics: [infra.store, tech.ai, gov.policy]
-entities: [[john-tanui], [konza], [oracle]]
+entities: [[john-tanui], [konza-technopolis], [oracle]]
 lens: []
 retrieved: 2026-07-17
 sweep_batch: KEN-2026-07-17

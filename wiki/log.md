@@ -6095,3 +6095,17 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
   the **Djibouti–Ethiopia–Sudan Horizon Fiber** corridor (no Kenya) → retagged `[ETH, DJI, SDN]` and
   filed to the [[ETH|Ethiopia]] hub, not Kenya.
 - Note: 1 summary-only `[CLIP]` (Starlink share, The Standard).
+
+## 2026-07-18 — ingest(KEN) chunk 5/8: Data centres / sovereign cloud + AI strategy/surveillance
+
+- **12 sources admitted** (0 leads, 0 discards).
+- **Intersection created:** [[kenya--infra-store]] — data-centre/sovereign-cloud hub (iXAfrica AI-ready
+  DC; TouchNet/Zadara, Servernah, Baobab sovereign-cloud wave; Qubit Hub AI-compute ecosystem; Airtel
+  Nxtra DC; Tanui policy forum + Konza/Oracle/Liquid ecosystem).
+- **Intersection updated:** [[kenya--tech-ai]] — AI Strategy Implementation Roadmap 2025-2030 (5 pillars,
+  Swahili LLMs, 80% 5G by 2030); KES 152bn AI-hub bet; AI-as-surveillance (policing/NIS algorithmic
+  governance + KES 2.7bn social-media sentiment AI); Safaricom AWS GenAI.
+- **Entities created:** [[touchnet]] (company), [[baobab-cloud]] (company/Mitsumi), [[qubit-hub]]
+  (initiative), [[aws]] (company).
+- **Vocab fix:** source frontmatter `[[konza]]` → `[[konza-technopolis]]` (1 source).
+- Note: 3 summary-only `[CLIP]` (The Standard: 152bn AI hub, Airtel DC, GITEX sovereign cloud).

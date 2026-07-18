@@ -69,6 +69,29 @@ that its power grid and jurisdiction keep qualifying.
   $60bn-fund "philanthropic industrial complex," and counts the declaration's signatories at **54**
   (vs Nagadya's 49). See [[gov.legislate]], [[gov.protect]]. Source: [[2026-05-19 GATEKEEPERS XIV]].
 
+- **The domestic strategy & its foundations (2026-02/03).** [[gov.policy]] Kenya published an **AI
+  Strategy Implementation Roadmap 2025–2030** (Ministry of ICT) positioning AI as a "cross-cutting
+  enabler" across five pillars — advanced infrastructure, **secure national datasets + locally-relevant
+  LLMs (incl. Swahili)**, high-impact sector applications, agile governance, ethical oversight — with an
+  **80% 5G population-coverage target by 2030**. Commentary warns "you cannot run the future on weak
+  foundations": power, skills, data and trust are the make-or-break constraints (cf. the stalled
+  [[microsoft-g42-kenya-datacenter]]). The state separately signalled a **KES 152bn** AI investment to
+  become "Africa's technology hub" (CS [[william-kabogo]]). Sources:
+  [[2026-02-20-real-test-ai-roadmap-nation]], [[2026-03-26-kenya-bets-152bn-ai-hub-standard]].
+- **AI-as-surveillance — policing & social media (2026-04/05).** [[gov.protect]] [[infra.cybersec]]
+  Interior CS Murkomen said the state is **embedding AI across policing** (a digital OB crime-reporting
+  system, CCTV across stations/public spaces) and the NIS is shifting to **"algorithmic governance"**;
+  separately the State Department for Broadcasting & Telecommunications sought **KES 2.7bn** for **AI
+  social-media sentiment-analysis software** and a National Communication Centre, citing
+  dis/misinformation. Read alongside the [[national-registration-bureau|NRB]]-CCTV facial-recognition
+  proposal (see [[kenya--dpi-id]], [[kenya--gov-protect]]), this marks a concerted surveillance build-out
+  ahead of any AI Bill. Sources: [[2026-04-03-state-ai-curb-insecurity-nation]],
+  [[2026-05-24-state-27b-ai-surveillance-social-media-nation]].
+- **AWS GenAI in the M-Pesa stack (2025-06).** [[geopol.usa]] Safaricom expanded its **[[aws]]**
+  collaboration for **Generative-AI use cases** (fraud detection, customer-service automation, engineer
+  upskilling) — the AI that the 2026 [[kenya--dpi-pay|M-Pesa decisioning suit]] would later challenge.
+  Source: [[2025-06-05-safaricom-aws-genai-itweb]].
+
 ## Reads
 
 - `sovereignty`: Kenya plays patrons off each other and brands local capability
@@ -94,3 +117,8 @@ Place: [[KEN]] · Concepts: [[tech.ai]] · [[infra.capacity]] · [[infra.store]]
 - [[2026-02-20 Kenya, India and Italy Launch Trilateral Sovereign AI Partnership for Africa]]
 - [[2026-02-04 Kenya, Germany forge path for AI centre]]
 - [[2026-04-17 Meta contract end sparks 1 100 Sama job cuts]]
+- [[2026-02-20-real-test-ai-roadmap-nation]]
+- [[2026-03-26-kenya-bets-152bn-ai-hub-standard]]
+- [[2026-04-03-state-ai-curb-insecurity-nation]]
+- [[2026-05-24-state-27b-ai-surveillance-social-media-nation]]
+- [[2025-06-05-safaricom-aws-genai-itweb]]
