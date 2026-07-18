@@ -6,6 +6,7 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 
 | Entity | Places | Topics | Page |
 |---|---|---|---|
+| Limo (Djibouti e-commerce startup) | DJI | tech.innovate, dpi.pay | [[limo-djibouti-startup]] |
 | VisionWare | PRT, CPV | infra.cybersec, tech.industry | [[visionware]] |
 | CV Telecom (Cabo Verde Telecom) | CPV | infra.connect, tech.industry | [[cv-telecom]] |
 | Comores Télécom | COM | infra.connect, tech.industry | [[comores-telecom]] |
@@ -244,6 +245,7 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 
 | Entity | Places | Topics | Page |
 |---|---|---|---|
+| Fédération Nationale des Entreprises du Numérique (Djibouti) | DJI | tech.innovate, gov.regional | [[federation-entreprises-numeriques-djibouti]] |
 | CARIA (Congo) | COG | tech.ai, capacity.training, geopol.china | [[caria-congo]] |
 | EXIM Bank (Export-Import Bank of the USA) | XGL, CIV | finance.new, geopol.usa, infra.store | [[exim-bank-usa]] |
 | VITIB (Grand-Bassam technology park) | CIV | infra.store, tech.industry | [[vitib]] |
@@ -711,6 +713,9 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 
 | Entity | Places | Topics | Page |
 |---|---|---|---|
+| Djibouti Digital Foundation (DFN) | DJI | tech.innovate, gov.regional, gov.policy | [[djibouti-digital-foundation-dfn]] |
+| Digital Houses / E-SKILLS (Djibouti) | DJI | capacity.training, include.divides | [[digital-houses-djibouti]] |
+| École 42 Djibouti | DJI | capacity.training, geopol.eu | [[ecole-42-djibouti]] |
 | DRC sovereign satellite (Monacosat) | COD, MCO | infra.connect, data.satellite | [[monacosat-drc-satellite]] |
 | RGPH-2 (2nd population & housing census, DR Congo) | COD | data.statistics, gov.policy | [[rgph2-drc]] |
 | ADIS (Africa Digital Innovation Summit, DR Congo) | COD | tech.innovate, gov.regional | [[adis-drc]] |
@@ -1142,6 +1147,10 @@ Databases, registries, datasets, tools and portals consulted repeatedly (entity_
 
 | Resource | Places | Topics | Page |
 |---|---|---|---|
+| Djibouti Open Data Platform (SGDD-a / IMF e-GDDS) | DJI | data.open, data.statistics | [[djibouti-open-data]] |
+| Online company-creation platform (Djibouti) | DJI | dpi.govtech, gov.legislate | [[online-company-creation-djibouti]] |
+| DPCS (Djibouti Port Community System) | DJI | dpi.exchange, dpi.govtech | [[dpcs-djibouti]] |
+| LIMO (Djibouti ministry innovation platform) | DJI | tech.innovate, dpi.govtech | [[limo-platform-djibouti]] |
 | ACIX (DR Congo distributed internet exchange) | COD | infra.connect, infra.store | [[acix-drc]] |
 | SISAG (DR Congo govt programme-tracking MIS) | COD | dpi.mis, dpi.govtech | [[sisag-drc]] |
 | ESURSI (DR Congo higher-education digital portal) | COD | dpi.mis, dpi.govtech | [[esursi-portal]] |
@@ -1223,6 +1232,10 @@ about or from one becomes a normal source that cites it.
 
 | Instrument | Places | Topics | Page |
 |---|---|---|---|
+| Djibouti National AI Strategy | DJI | tech.ai, gov.policy, geopol.china | [[djibouti-ai-strategy]] |
+| PND-ADEEG 2025–2030 (Djibouti 3rd National Development Plan) | DJI | gov.policy, gov.legislate | [[pnd-adeeg-djibouti]] |
+| Djibouti Startup Act (Loi n°179/AN/25) | DJI | gov.legislate, finance.new, tech.innovate | [[startup-act-djibouti]] |
+| SNDS-3 (Djibouti National Statistics Development Strategy 2025–2029) | DJI | data.statistics, gov.policy, dpi.exchange | [[snds3-djibouti]] |
 | Cabo Verde National 5G Strategy | CPV | infra.connect, gov.policy | [[cabo-verde-5g-strategy]] |
 | Cabo Verde National Data & AI Strategies | CPV | tech.ai, gov.policy | [[cabo-verde-data-ai-strategy]] |
 | Congo-Brazzaville National AI Strategy | COG | tech.ai, gov.policy | [[congo-ai-strategy]] |

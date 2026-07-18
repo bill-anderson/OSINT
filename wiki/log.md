@@ -5628,3 +5628,12 @@ startup-act-djibouti (instrument, Loi n°179/AN/25, JO 08/01/2026), federation-e
 First national AI Strategy (Jan 2026, UNESCO/ESCWA); China-Exim AI-platform pitch (geopol.china); Romania & Japan bilateral tracks;
 WSIS 2026 presence. New Minister Delegate Safia Ali Mohamed Gadileh (appointed May 2026) supersedes Mariam Hamadou Ali — hub to reflect at finalize.
 GAP: Startup Act primary text (eJO / journalofficiel.dj) not held.
+
+## 2026-07-18 — ingest(DJI) FINALIZE
+Batch total: 47 sources admitted (4 chunks), 0 leads, 0 discards. Hub DJI.md refreshed:
+new PND/AI/skills strategy stack up top; minister Mariam Hamadou Ali → Safia Ali Mohamed Gadileh (May 2026);
+Entities section expanded (DFN, DPCS, online-company-creation, AI strategy, PND-ADEEG, Startup Act, Digital Houses,
+École 42, federation, SNDS-3, open-data, Limo x2); topics frontmatter +tech.innovate/capacity.training/gov.legislate/
+data.statistics/data.open/geopol.china. entities-index: +12 rows (1 company, 1 org, 3 initiatives, 4 resources, 3 instruments;
+Limo already? no — 12 new). places-index DJI row rewritten. Dead-link lint (touched files) 0 unresolved; orphan lint 0/47.
+Stray new/MANIFEST.md removed; new-queue/DJI → new-queue/done/DJI. Filed GAP-DJI-003 (Startup Act primary).

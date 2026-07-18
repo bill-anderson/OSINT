@@ -562,3 +562,9 @@ in the same batch and is now held; instrument upgraded stub→active. See log.md
 - **GAP-CMR-002 · Biya decree N°2025/059 (28 Feb 2025, CNI characteristics) not held.** The decree fixing
   the new national-ID card's characteristics and distribution — the legal hinge before 3-Mar-2025 issuance
   — is referenced across staged sources but not held as a primary (published on prc.cm). Consider sourcing.
+
+- **GAP-DJI-003 · Djibouti Startup Act primary text (Loi n°179/AN/25) not held.** The startup law
+  ([[startup-act-djibouti]]) — "Startup" label, fund-of-funds and a Startup Visa — was presented 9 Nov 2025
+  and promulgated as **Loi n°179/AN/25** (Journal Officiel 08/01/2026), but the wiki holds only trade-press
+  reporting, not the gazetted text. *Lead: source the primary from eJO / journalofficiel.dj so the Act's
+  provisions can be cited directly.* See [[djibouti--tech-innovate]]. (Surfaced DJI sweep ingest, 2026-07-18.)

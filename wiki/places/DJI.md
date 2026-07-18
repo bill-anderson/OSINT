@@ -4,9 +4,9 @@ title: Djibouti
 code: DJI
 parent: XEA
 place_kind: country
-topics: [infra.connect, infra.store, gov.protect, dpi.exchange, tech.ai, gov.policy, gov.regional, include.divides, dpi.id, dpi.pay, dpi.govtech, infra.cybersec]
+topics: [infra.connect, infra.store, gov.protect, dpi.exchange, tech.ai, gov.policy, gov.regional, include.divides, dpi.id, dpi.pay, dpi.govtech, infra.cybersec, tech.innovate, capacity.training, gov.legislate, data.statistics, data.open, geopol.china]
 status: active
-last_reviewed: 2026-07-16
+last_reviewed: 2026-07-18
 ---
 
 # Djibouti (DJI)
@@ -18,6 +18,18 @@ transit position.
 
 ## Recent developments
 
+- **2026-06-30** — **PND-ADEEG 2025–2030 (3rd National Development Plan) adopted by decree.**
+  The **[[pnd-adeeg-djibouti|PND-ADEEG]]** succeeds prior plans as the Vision-2035 delivery frame under
+  which the whole digital strategy stack sits. Around it: Djibouti's **first national AI strategy**
+  (**[[djibouti-ai-strategy]]**, Jan 2026, UNESCO/ESCWA), a **[[startup-act-djibouti|Startup Act]]**
+  (Loi n°179/AN/25, JO 08/01/2026), and an aggressive skills build — **[[digital-houses-djibouti|E-SKILLS
+  Digital Houses]]** (5 regions, 3,000 by 2029) and **[[ecole-42-djibouti|École 42]]** — against ~76% youth
+  unemployment. A **[[federation-entreprises-numeriques-djibouti|national digital-enterprise federation]]**
+  now gives the sector a voice, and Djibouti ran busy **small-state digital diplomacy** (Romania, Japan,
+  WSIS 2026, a China-Exim AI-platform pitch). See [[djibouti--tech-innovate]], [[tech.innovate]], [[tech.ai]],
+  [[capacity.training]], [[geopol.china]]. Sources:
+  [[2026-06-30-conseil-ministres-pnd-adeeg-2025-2030-adoption-adi]],
+  [[2026-01-29-national-ai-strategy-wearetech]], [[2026-06-22-djibouti-china-industrial-ai-roadmap-beijing-adi]].
 - **2026-02-09** — **Mobile ID national digital identity platform launched.** President Guelleh
   launched **[[mobile-id-djibouti|Mobile ID]]** at the National Digital Identity Forum — a single
   citizen identifier for authentication, e-signature and service access (civil registry, tax,
@@ -95,22 +107,30 @@ transit position.
 - [[dpi.pay]] — **[[smart-wallet-djibouti|Smart Wallet]]** (Visa/Tech5) and Djibouti Telecom's
   D-Money. See [[djibouti--dpi-pay]].
 - [[dpi.govtech]] — G2B one-stop platform; World Bank GovTech operations (customs/ASYCUDAWorld).
-- [[tech.ai]] · [[gov.policy]] — first national AI strategy (ESCWA/UNESCO) under
-  **[[vision-djibouti-2035]]** "Smart Nation"; ITU/Smart Africa/China support sought.
+- [[tech.ai]] · [[gov.policy]] — first national AI strategy (**[[djibouti-ai-strategy]]**, ESCWA/UNESCO)
+  under **[[vision-djibouti-2035]]** "Smart Nation"; ITU/Smart Africa/China support sought.
+- [[tech.innovate]] · [[capacity.training]] · [[gov.legislate]] — **[[pnd-adeeg-djibouti|PND-ADEEG
+  2025–2030]]**, **[[startup-act-djibouti|Startup Act]]**, and a skills build (**[[digital-houses-djibouti]]**,
+  **[[ecole-42-djibouti]]**) against ~76% youth unemployment. See [[djibouti--tech-innovate]].
+- [[data.statistics]] · [[data.open]] — **[[snds3-djibouti|SNDS-3]]** statistics strategy and the IMF
+  e-GDDS **[[djibouti-open-data|Open Data platform]]**, tying statistics into interoperability.
 - [[gov.regional]] — aligning national projects to **[[eardip]]** and Smart Africa continental
   initiatives; a visible Horn-of-Africa seat in regional digital governance.
 - [[infra.connect]] · [[infra.store]] — cable/IXP hub, three data centres, data residency
-  (**[[wingu-africa]]** TO7, **[[paix-data-centres]]** JIB1). See [[djibouti--infra-store]].
-  Parent region: [[XEA]].
+  (**[[wingu-africa]]** TO7, **[[paix-data-centres]]** JIB1). See [[djibouti--infra-store]],
+  [[djibouti--infra-connect]]. Parent region: [[XEA]].
 - [[include.divides]] — urban–rural digital-divide reduction a stated priority.
 
 ## Entities
 
-- **Identity / GovTech:** [[mobile-id-djibouti]] · [[djibouti-digital-code]] · [[cndp-djibouti]]
+- **Identity / GovTech:** [[mobile-id-djibouti]] · [[djibouti-digital-code]] · [[cndp-djibouti]] · [[online-company-creation-djibouti]] · [[dpcs-djibouti]]
 - **Payments:** [[smart-wallet-djibouti]] · [[visa]] · [[tech5]] · [[djibouti-telecom]]
-- **Infrastructure:** [[wingu-africa]] · [[paix-data-centres]] · [[fonds-souverain-djibouti]]
+- **Infrastructure:** [[wingu-africa]] · [[paix-data-centres]] · [[fonds-souverain-djibouti]] · [[djibouti-digital-foundation-dfn]]
 - **Cybersecurity:** [[national-cybersecurity-authority-djibouti]] · [[malabo-convention]]
+- **Strategy / AI / skills:** [[djibouti-ai-strategy]] · [[pnd-adeeg-djibouti]] · [[startup-act-djibouti]] · [[digital-houses-djibouti]] · [[ecole-42-djibouti]] · [[federation-entreprises-numeriques-djibouti]]
+- **Data / statistics:** [[snds3-djibouti]] · [[djibouti-open-data]]
+- **Startups:** [[limo-djibouti-startup]] · [[limo-platform-djibouti]]
 - **Cross-cutting:** [[vision-djibouti-2035]] · [[itu]] · [[smart-africa]] · [[eardip]]
 - Mentioned, not hubbed: Ministry of Communication, Posts and Telecommunications (Min. Mohamed
-  Abdoulkader Moussa Helem); Ministry of Digital Economy and Innovation (Min. Mariam Hamadou Ali);
-  Djibouti Digital Foundation (DFN); Djibouti Port Community Systems (DPCS); ESCWA; UNESCO.
+  Abdoulkader Moussa Helem); Ministry of Digital Economy and Innovation (Minister Delegate **Safia Ali
+  Mohamed Gadileh**, appointed May 2026, superseding Mariam Hamadou Ali); ESCWA; UNESCO; DERE.
