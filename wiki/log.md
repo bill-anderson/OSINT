@@ -5524,3 +5524,10 @@ Belgium to domestic storage** — data-sovereignty fact). All 10 moved new→raw
 (incumbent, 5G WTTX), [[comoros-cctld-km]] (**.km ccTLD transferred to ANADEN** — sovereignty). Dual 5G
 launch (Yas/Huawei + CT); **Starlink banned pending licence (ANRTIC, 12 Jun 2025)**; foreign-financed
 build (AXIAN $82m 4G, Yas €25m IFC, NEXT 2030). All 9 moved new→raw.
+
+### 2026-07-18 · ingest COM · chunk 3/4 — Payments & digital finance
+**9 sources admitted.** New intersection [[com--dpi-pay]]; new entities [[komorpay-comoros]] (BCC-branded
+stack: KomorPay/Komor Switch/Mali Ya Wakazi, presidential launch May 2026), [[komoralink-comoros]] (private
+B2B, Kartapay/CCI). PayLogic switch dated end-to-end (award Feb→go-live Aug 2025; internet 35.7%/mobile
+77.6%); BCC×Banque de France seminar; **AXIAN Decentralised Digital Financial Institution licence** (BCC
+first) + AXIAN-Mastercard cards. All 9 moved new→raw.
