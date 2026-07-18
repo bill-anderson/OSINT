@@ -5349,3 +5349,9 @@ Starlink 12-month licence (live Jul 2026) + 5G**; Orange/MTN Eutelsat KONNECT sa
 ANSUT/PNCR rural fill (smartphone 41%→80% by 2030); ARTCI traffic-localisation (CIVIX/peering/IPv6);
 Via Africa + transfrontier fibre + Plateau shared-duct + Moov A2P exclusivity. Figures: 95% coverage,
 ~130% penetration, 38,000km fibre. All 32 moved new→raw.
+
+### 2026-07-18 · ingest CIV · chunk 8/9 — Payments & digital finance
+**10 sources admitted.** New intersection [[civ--dpi-pay]]; new entities [[tresorpay-tresormoney]]
+(Treasury G2P/P2G rail), [[cdc-ci]] (state fund taking fintech equity), [[green-pay]] (fintech),
+[[djogana-pay]] (4th BCEAO e-money licence EME.CI.025/2025). **UEMOA payment interoperability mandatory
+30 Jun 2026** (BCEAO instruction); Visa in discussion; OQSF rating system. All 10 moved new→raw.
