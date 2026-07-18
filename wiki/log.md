@@ -5341,3 +5341,11 @@ displacing a Chinese bidder; +$47m Commerce; $100m→$170m CTEP; $550m package).
 geopol.china to CIV** (hub had geopol.eu only). New entities [[exim-bank-usa]], [[national-data-centre-civ]],
 [[vitib]], [[cloudoor]], [[digital-city-civ]]; big [[cybastion]] CIV section. Competing VITIB cluster
 ([[st-digital]] Tier III + OVHcloud + NVIDIA GPU; Raxio MoU; VITIB $311m India). All 21 moved new→raw.
+
+### 2026-07-18 · ingest CIV · chunk 7/9 — Connectivity, Starlink & universal access
+**32 sources admitted.** New intersection [[civ--infra-connect]]; new entities [[ansut]] (universal-service
+agency), [[civix]] (3rd IXP), [[africa-bb-maps]] (broadband map), [[mtn-cote-divoire]]. **2026 pivot:
+Starlink 12-month licence (live Jul 2026) + 5G**; Orange/MTN Eutelsat KONNECT satellite vs Starlink;
+ANSUT/PNCR rural fill (smartphone 41%→80% by 2030); ARTCI traffic-localisation (CIVIX/peering/IPv6);
+Via Africa + transfrontier fibre + Plateau shared-duct + Moov A2P exclusivity. Figures: 95% coverage,
+~130% penetration, 38,000km fibre. All 32 moved new→raw.
