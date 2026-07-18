@@ -5664,3 +5664,10 @@ CONTRADICTION filed: data-governance decree number 25-350 (held EN source) vs 25
 reviews/contradictions/open/algeria-data-governance-decree-number; set needs-review on algeria-data-governance-framework
 + algeria--gov-protect. Fixed MPT-CERT echorouk file: stripped invalid KOR place code + geopol.china mis-tag (ISSUE-014
 addendum already covers geopol.russia/korea/uk gap).
+
+## 2026-07-18 — ingest(DZA) chunk 4/8: Digital ID, trust services & biometrics
+9 sources admitted. New intersection `algeria--dpi-id`. Entities: dgsn-algeria (govt-body, national police, DG Ali
+Badaoui; UK Home Office forensics MoU 2025-11), algeria-biometric-id-card (instrument, foundational credential).
+Updated algeria-digital-id-trust-law (Council of Ministers 2 Nov 2025 → APN; modernises 2015 e-sig; ARPCE+AGCE
+certification base). E-signature/certification launched Jan 2025 (ARPCE = national e-cert authority); remote biometric
+passport renewal (diaspora); vehicle registration all-digital 3rd phase (biometric ID required); CNAS e-health card (uninsured).
