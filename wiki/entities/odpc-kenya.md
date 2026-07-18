@@ -50,6 +50,17 @@ sensitive personal data — including the health-data localization rules central
   **2025–2029 Strategic Plan** prioritised cross-border-transfer guidance — a lead to verify
   against the ODPC's own publication before hardening. See [[gov.protect]]. Source:
   [[2026-01-12 (3) Africa's Digital Policy Review 2025 in Perspective and Outlook for 2026]].
+- **Biometrics & age-assurance guidance (2025-05).** [[gov.standards]] The ODPC issued **draft Guidance
+  Notes** under the Data Protection Act — one on **processing children's data** (proportionate,
+  privacy-preserving, risk-based **age verification**) and a substantive note on **biometric data**
+  (mandatory registration of all biometric processors; data minimisation; adherence to **ISO/IEC
+  39794-1/-4/-5** to avoid interoperability lock-in, with a compliance checklist). See [[dpi.id]].
+  Source: [[2025-05-19-draft-guidance-biometrics-age-assurance-biometricupdate]].
+- **Phone-number-as-identifier ruling (2026-03).** [[dpi.id]] A Milimani High Court judgement treated a
+  **registered phone number as a protected personal digital identifier**, barred non-consensual
+  number recycling, and directed the Attorney General to build a protective framework within six months —
+  extending data-protection duties onto the telco/M-Pesa layer. See [[kenya--dpi-id]], [[safaricom]].
+  Source: [[2026-03-23-high-court-phone-numbers-digital-id-biometricupdate]].
 - **Personnel.** Former deputy data commissioner **Rose Mosero** (who helped build Kenya's
   data-protection regime and the Digital Health Act) co-authored the Carnegie analysis with
   [[jane-munga]].

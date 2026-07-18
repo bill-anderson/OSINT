@@ -6033,3 +6033,21 @@ developments block, entities/intersections); places-index GNQ row rewritten. Dea
 GAP-GNQ-001 (GITGE) RESOLVED; filed GAP-GNQ-002 (cookie-walled guineaecuatorialpress.com government primaries — Huawei
 e-gov MoU, e-gov law, BEAC-PAPSS, Starlink entity, connectivity plan, unique ID code, Ley 7/2024 full text — manual-clip
 leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing sources). new-queue/GNQ → done.
+
+## 2026-07-18 — ingest(KEN) chunk 1/8: Digital ID / Maisha Namba / civil registry
+
+- **18 sources admitted** (0 leads, 0 discards). Kenya's flagship digital-ID thread.
+- **Entity created:** [[national-registration-bureau]] (NRB, government-body) — ID/passport issuance,
+  CRVS digitisation, contested CCTV/facial-recognition database-linkage proposal.
+- **Intersection rewritten:** [[kenya--dpi-id]] — 2025-26 developments folded into a tight thematic
+  synthesis: adoption-vs-exclusion (Bingham/Fisher DPIA testimony); access liberalisation (40k
+  double-registered deregistered, vetting removed, free first-time IDs); lifecycle CRVS (auto-ID at 18,
+  digital birth-notification, KEMIS, 42m records digitised); ID-as-health-credential for minors 7-17
+  (SHA); new frontiers (phone-as-ID High Court ruling, MITI digital seller ID, IEBC iris); surveillance
+  escalation (NRB register × six-city CCTV, KES 25bn tender); EU €102m DPI incl. €12m land-registration.
+- **Entities updated:** [[maisha-namba]] (lifecycle-ID + surveillance-risk notes), [[odpc-kenya]]
+  (2025 biometrics/age-assurance guidance notes; phone-as-identifier ruling directive to AG).
+- **Vocab fix:** source frontmatter `[[eu]]` → `[[european-union]]` (1 source).
+- Note: 4 items are summary-only `[CLIP]` (The Standard, paywalled) — dates byline-verified, full clip
+  required on promotion: KTN ID-trade expose, online birth-cert download, IDs-in-10-days, Maisha-Namba
+  privacy critique.

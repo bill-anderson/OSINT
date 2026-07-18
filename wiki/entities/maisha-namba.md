@@ -34,6 +34,21 @@ privately-contracted IT firms. See [[KEN]], [[kenya--dpi-id]].
   [[2024-06-17 Kenya dedicates $117M to digital ID, related projects in 2024-2025 budget]],
   [[2025-09-08 Scrapping fees for first-timers boosts Kenya digital ID registration]],
   [[2026-03-05 Kenya Government moves to introduce digital civil registration system (Births and Deaths Bill 2025)]].
+- **Lifecycle ID & scale (2025-26).** [[dpi.registry]] Reforms pivoted Maisha Namba from a foundational
+  credential to a **lifecycle-based system** — automatic ID at 18 off civil-registration data, a digital
+  **birth-notification** pilot (hospitals → CRVS → UPI), education integration via **KEMIS**, and
+  extension to **minors aged 7–17** via the **[[social-health-authority-kenya|SHA]]** health rollout. By
+  mid-2026 the Interior Ministry claimed **42m records digitised** and 1.5m cards in five months. Full
+  case: [[kenya--dpi-id]]. Sources:
+  [[2025-02-25-birth-registration-reforms-automatic-id-biometricupdate]],
+  [[2026-05-21-digital-birth-notification-system-biometricupdate]],
+  [[2026-06-15-expands-digital-id-minors-health-biometricupdate]],
+  [[2026-06-24-institutionalize-trust-digital-government-biometricupdate]].
+- **Surveillance risk crystallises (2026-06).** [[gov.protect]] [[sovereignty]] The 2025 High Court
+  "centralised repository = surveillance tool" warning gained substance when the government proposed
+  linking the **[[national-registration-bureau|NRB]]** civil register to a six-city CCTV/facial-recognition
+  network (KES 25bn tender). See [[kenya--dpi-id]]. Source:
+  [[2026-06-26-national-id-cctv-facial-recognition-biometricupdate]].
 
 ## Sources
 
