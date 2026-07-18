@@ -5326,3 +5326,10 @@ created by decree 30 Oct 2024, launched Feb 2025, centralises PLCC/CI-CERT/Alert
 2024-950 moved the cyber mandate from ARTCI to ANSSI** (ratified Apr–Jun 2025); cybercrime **12,100
 dossiers / ~7bn FCFA**, Kaspersky **27m attacks (2024)**; SOC + national RSSI/CISO network (2026);
 Togo cooperation. All 10 moved new→raw.
+
+### 2026-07-18 · ingest CIV · chunk 5/9 — AI & national strategy stack
+**21 sources admitted.** New intersection [[civ--tech-ai]]; new entities [[ministry-of-digital-transition-cote-divoire]] (MTND — Djibril Ouattara replaced Konaté Jan 2026; 7 priorities), [[civ-ai-strategy]]
+(**912bn FCFA, 15 objectives, 109 projects**; UNESCO RAM; 13 Mar 2025 handover), [[civ-data-governance-strategy]] (2030), [[parae]] (~49bn incl. data centre), [[artefact]] (Abidjan francophone AI hub).
+US + Gulf ([[g42]]/Presight MoUs) courted side by side; AI university (PND 2026-30); "African AI by
+Africans" at UN dialogue. **Yamoussoukro seminar date discrepancy noted** (8 Apr LI vs 12 Apr hub — 4-day,
+unresolved, recorded inline not as a formal contradiction). All 21 moved new→raw.
