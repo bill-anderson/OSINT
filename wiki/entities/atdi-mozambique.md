@@ -27,7 +27,23 @@ ATDI is [[MOZ]]'s digital-transformation agency, created in 2026 and chaired sin
   [[dpi.id]] agenda. See [[dpi.govtech]], [[gov.policy]], [[dpi.exchange]]. Source:
   [[2026-02-21 Mozambique Launches Digital Government Overhaul, Looking to Kenya and Rwanda as Models]].
 
+- **Formal stand-up + institutional framework (2026-03).** [[dpi.govtech]] The Council of Ministers
+  formally approved ATDI (under the Ministry of Communications & Digital Transformation) to **coordinate
+  digital transformation and build a single unified government database + citizen portal**, alongside two
+  parallel bodies: the **National Commission for Artificial Intelligence (CNIA)** and the **Multisectoral
+  Technical Commission for Digital Transformation (CTD)**. **Adilson dos Santos Cousin Gomes** was named
+  board chairman; targets include **80% mobile penetration / 95% territorial coverage** (EGDI 177/193).
+  Sources: [[2026-03-16-sets-up-agency-digital-transformation-biometricupdate]],
+  [[2026-03-27-builds-institutional-framework-digital-transformation-wearetech]].
+- **Justice-sector e-adoption (2026-06).** [[dpi.registry]] Justice Minister Saize reported **74% of
+  legal-entity registration applications now submitted electronically**, with registries, notary, prison
+  and criminal-records systems on digital databases (Law 8/2024 on electronic legal proceedings the
+  cornerstone). Source: [[2026-06-29-74pct-legal-entity-registration-electronic-clubofmozambique]].
+
 ## Sources
 
 - [[2026-04-28 Mozambique taps Ethiopia's digital ID expertise in DPI partnership]]
 - [[2026-02-21 Mozambique Launches Digital Government Overhaul, Looking to Kenya and Rwanda as Models]]
+- [[2026-03-16-sets-up-agency-digital-transformation-biometricupdate]]
+- [[2026-03-27-builds-institutional-framework-digital-transformation-wearetech]]
+- [[2026-06-29-74pct-legal-entity-registration-electronic-clubofmozambique]]

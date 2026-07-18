@@ -6486,3 +6486,10 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
   [[mozambique-ethiopia-dpi-mou]] (in-scope Club account).
 - Dedup: mobile digital-ID tender twins (Club 05-25 + Biometric Update 05-26) kept as complementary
   (X-Road/DNIC vs SIM/eSIM technical detail).
+
+## 2026-07-18 — ingest(MOZ) chunk 2/6: E-government & digital-transformation institutions
+
+- **4 sources admitted** (0 leads, 0 discards).
+- **Entities updated:** [[atdi-mozambique]] (formal Council-of-Ministers stand-up; CNIA + CTD created;
+  Gomes chairman; 80%-mobile/95%-coverage targets; 74% e-registration justice-sector adoption),
+  [[intic-mozambique]] (first digital-operator licences under the Electronic Transactions Law).

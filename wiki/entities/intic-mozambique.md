@@ -28,6 +28,13 @@ country's personal-data-protection regulator. Distinct from
   [[infra.cybersec]], [[sovereignty]]. Source:
   [[2026-02-06 Mozambique intros data breach platform]].
 
+- **First digital-operator licences — Electronic Transactions Law (2026-06).** [[gov.legislate]]
+  [[tech.industry]] The government issued its **first licences to intermediate electronic-service
+  providers and digital-platform operators** (Maputo, 8 Jun) under the **Electronic Transactions Law** —
+  a registration/supervision/licensing regime (fee = one minimum wage + 1% of annual revenue thereafter),
+  formalising the digital economy. Source: [[2026-06-08-issues-first-licenses-digital-operators-techafricanews]].
+
 ## Sources
 
 - [[2026-02-06 Mozambique intros data breach platform]]
+- [[2026-06-08-issues-first-licenses-digital-operators-techafricanews]]
