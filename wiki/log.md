@@ -6515,3 +6515,15 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
 - **Entities updated:** [[simo-mozambique]] (METIX/National-Switch operator), [[mozambique-cyber-security-law]]
   (Chapo promulgation, same decree as NPS law).
 - Dedup: SPIM (03-02, Notice 1/GB/2026) + METIX (03-16 launch) kept as same-rail different-stage twins.
+
+## 2026-07-18 — ingest(MOZ) chunk 5/6: Connectivity, 5G & satellite
+
+- **11 sources admitted** (0 leads, 0 discards).
+- **Intersection created:** [[mozambique--infra-connect]] — rural FSAU build (Vodacom 60 stations);
+  Starlink flood response; internet-restriction controversy (Anamola vs minister); 5G entry (spectrum
+  bids → licences to 3 operators, ~710k subsidised phones); Chapo 5G-by-2027 + "Southern Africa digital
+  hub" vision; SpaceX partnership talks.
+- Dedup: 5G spectrum-bid twins (techafricanews 04-20 + connectingafrica 04-21) kept (subscriber detail);
+  5G-rollout trio (Chapo pledge / hub vision / licences) kept as distinct angles; internet-restriction
+  both sides kept.
+- Note: several journal excerpts thin (one-liners); synthesised with manifest why-it's-new detail.
