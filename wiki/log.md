@@ -5823,3 +5823,9 @@ workshops 23 Jun 2025 — note: Gabon SNID distinct from Somali [[snid]]). Enric
 enforcement, arrêté 032-22). Updated gabon--dpi-id: 2025 biometric voter registration (~300k new / 850k register, 12 Apr
 election); land registry "Un Gabonais un titre foncier" (~1,200 cessions 2025, 14bn FCFA arrears, ANUTTC) + cadastre
 digitalisation; ID Day 2025 milestone. Partially resolves GAP-GAB-001 (DP authority now named/sourced).
+
+## 2026-07-18 — ingest(GAB) chunk 3/6: E-government & govtech
+7 sources admitted. New intersection `gabon--dpi-govtech`. Entity: gabon-connect (initiative; single digital window,
+IKA Technology, presented to Oligui Nguema Feb 2026). e-Gov legal framework (ordinance JO 7 Sept 2025, first legal basis);
+5e Copil bilan (Feb 2026, Min. Doumba); ANINF-World Bank e-Gabon closure review (Jun 2026); ANINF first provincial office
+Franceville (subnational reach); eGabon-SIS health MIS equipment; sub-regional digital-reference framing.
