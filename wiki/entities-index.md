@@ -461,6 +461,8 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 
 | Entity | Places | Topics | Page |
 |---|---|---|---|
+| CNIA (Mozambique National Commission for AI) | MOZ | tech.ai, gov.policy | [[cnia-mozambique]] |
+| Banco de Moçambique (BdM, central bank) | MOZ | dpi.pay, gov.legislate | [[banco-de-mocambique]] |
 | CIRT Madagascar (Computer Incident Response Team) | MDG | infra.cybersec, gov.legislate | [[cirt-madagascar]] |
 | CEDIA (Madagascar Customs Data & AI Centre) | MDG | tech.ai, dpi.govtech | [[cedia-madagascar]] |
 | CMIL (Madagascar data-protection authority, unestablished) | MDG | gov.protect, gov.legislate | [[cmil-madagascar]] |

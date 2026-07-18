@@ -6527,3 +6527,25 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
   5G-rollout trio (Chapo pledge / hub vision / licences) kept as distinct angles; internet-restriction
   both sides kept.
 - Note: several journal excerpts thin (one-liners); synthesised with manifest why-it's-new detail.
+
+## 2026-07-18 — ingest(MOZ) chunk 6/6 + finalize: Data centres & cloud
+
+- **3 sources admitted** (0 leads, 0 discards).
+- **Intersection created:** [[mozambique--infra-store]] — DC/cloud regulation + sanctions (INTIC, public
+  consultation); Vodacom DC / "17 data centres" (PM Levi); 5-year local-DC + data-localisation plan
+  (Muchanga, cloud for banks).
+- **Finalize:**
+  - [[MOZ|Mozambique hub]] refreshed — sweep-batch summary block; new topics (dpi.registry/data.open/
+    include.access/finance.new/etc.); Entities + 5 intersections; last_reviewed → 2026-07-18.
+  - **entities-index.md** — 2 new MOZ government-bodies (CNIA, Banco de Moçambique).
+  - **places-index.md** — MOZ row: 5 intersection cross-links.
+  - **Lint:** all 39 MOZ sources non-orphan; zero dead links across created/edited pages.
+  - **Teardown:** `new-queue/MOZ` → `new-queue/done/MOZ`; `new/MANIFEST.md` drained; `new/` empty.
+
+### MOZ ingest total (chunks 1-6): **39 sources admitted, 0 leads, 0 discards, 0 needs-clip**
+- Entities created: 2 (cnia-mozambique, banco-de-mocambique); intersections created: mozambique--dpi-id,
+  mozambique--tech-ai, mozambique--dpi-pay, mozambique--infra-connect, mozambique--infra-store. Heavy
+  updates to existing base (ATDI, INTIC, EDGE, DNIC, SIMO, cyber-law, Ethiopia-MoU).
+- No contradictions or gaps. Several same-event twins kept as complementary (mobile-ID tender, SPIM/METIX,
+  5G spectrum bids, internet-restriction two-sided); Jornal Notícias PT coverage near-invisible to Exa
+  (noted, PT flowed via out-of-scope .mz outlets).

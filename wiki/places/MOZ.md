@@ -4,14 +4,29 @@ title: Mozambique
 code: MOZ
 parent: XSA
 place_kind: country
-topics: [infra.cybersec, gov.legislate, dpi.id, dpi.exchange, gov.regional, infra.store, tech.ai, data.statistics, gov.policy, infra.connect, geopol.usa, digital.rural, gov.protect, geopol.china, dpi.mis, gov.standards, dpi.govtech, dpi.pay, data.satellite]
+topics: [infra.cybersec, gov.legislate, dpi.id, dpi.registry, dpi.exchange, gov.regional, infra.store, tech.ai, data.statistics, data.open, gov.policy, infra.connect, geopol.usa, digital.rural, include.access, include.divides, gov.protect, geopol.china, dpi.mis, gov.standards, dpi.govtech, dpi.pay, data.satellite, finance.new, finance.mou]
 status: active
-last_reviewed: 2026-07-16
+last_reviewed: 2026-07-18
 ---
 
 # Mozambique (MOZ)
 
 ## Recent developments
+
+> **2026-07-18 MOZ sweep batch (39 sources)** — Club of Mozambique + 6 SSA journals, consolidated into
+> thematic intersections. Anchors:
+> - **Digital ID** — mass free civil-registration drive (7M/500 brigades); mobile digital-ID + e-signature
+>   tender (X-Road); new ID-card regs (Law 6/2022); Ethiopia FaydaVerse MoU. Hub: [[mozambique--dpi-id]].
+> - **Institutions** — ATDI formal stand-up + CNIA + CTD; first digital-operator licences; 74% e-registration.
+> - **Cyber/AI/data** — CNIA AI-advisory + draft AI strategy; 173,770 cyberattacks (2024) behind the cyber
+>   laws; National Data Governance Policy (AU-aligned). Hub: [[mozambique--tech-ai]]; [[cnia-mozambique]].
+> - **Payments** — e-money 109.8% of adults; METIX/SPIM instant payments; SNP law (promulgated with cyber
+>   laws); National-Switch 60-min failure reporting. Hub: [[mozambique--dpi-pay]]; [[banco-de-mocambique]].
+> - **Connectivity** — rural FSAU build; Starlink flood response; internet-restriction controversy; **5G
+>   entry** (spectrum → licences, Chapo-2027, "Southern Africa digital hub"); SpaceX talks. Hub:
+>   [[mozambique--infra-connect]].
+> - **Data centres** — DC/cloud regulation + sanctions; 17 DCs; 5-year local-DC + data-localisation plan.
+>   Hub: [[mozambique--infra-store]].
 
 - **2026-04-28** — **DPI partnership with Ethiopia.** Mozambique's new Digital
   Transformation and Innovation Agency (**[[atdi-mozambique]]**, chaired by Adilson dos
@@ -200,6 +215,9 @@ last_reviewed: 2026-07-16
 - [[edge-mozambique]] · [[dnic-mozambique]] · [[mozambique-data-protection-law]] · [[raxio-group]] · [[world-bank]]
 - [[uneca]] · [[globalstar]] · [[amazon-globalstar-acquisition]] · [[starlink]] · [[starlink-vodacom-leo-partnership]]
 - [[huawei]] · [[zte]] · [[hikvision]] · [[rhis-recording-burden-5country]]
+- MOZ sweep batch (2026-07-18): [[cnia-mozambique]] · [[banco-de-mocambique]] · [[digital-realty]]
+- MOZ sweep intersections (2026-07-18): [[mozambique--dpi-id]] · [[mozambique--tech-ai]] ·
+  [[mozambique--dpi-pay]] · [[mozambique--infra-connect]] · [[mozambique--infra-store]]
 - Mentioned, not hubbed: INAGE (National Institute of Electronic Government); Américo Muchanga
   (Minister of Communications & Digital Transformation); Adilson dos Santos Cousin Gomes
   (ATDI chair); Yodahe Zemichael (Ethiopia NIDP ED); FaydaVerse.
