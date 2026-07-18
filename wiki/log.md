@@ -5562,3 +5562,11 @@ surveillance debate**). PALOP digital-ID cooperation (CPV among 5). All 5 moved 
 in); Empresa Online business registry; **Semana do Digital** annual instrument; AfDB E-PFMRP ph2 (**$20.7M
 = €17.7M, same event two currencies**); WB support (60/80% online); South Korea; RABIDA; ATU. New entity
 [[nosi-angola-setic-mou]] (NOSi govtech export to Angola). All 13 moved new→raw.
+
+### 2026-07-18 · ingest CPV · chunk 3/5 — Cybersecurity & the INE statistics thread
+**14 sources admitted.** Expanded [[cabo-verde--gov-protect]]: PJ cybercrime (scams, mule accounts,
+sextortion); **NOSi election-night cyber-incident** (2026 legislatives — apology→anomalies→"technical
+causes"); SOC/CSIRT (NOSi/WB). New entities [[visionware]] (cyber firm in both TechParks) and
+[[ine-cabo-verde]] holding the **INE data-manipulation controversy from both sides** (technicians allege
+GDP/VAB manipulation vs INE repudiation/independence/formal complaint + Coimbra protocol; capture-not-
+endorsement, no value adjudicated). All 14 moved new→raw.
