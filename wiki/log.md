@@ -5687,3 +5687,10 @@ governor Lebbou; KYC instruction 04-2026; digital-bank/PSP licensing), yassir (c
 vaulfi (company, stablecoin super-app). 22m+ cards end-Mar 2026 (~18m Edahabia); e-payments +46% YoY 2025 to DZD 939bn
 (~$7bn); ENIE 1.6m TPE; Posty Mob (Algérie Poste–Sonelgaz); BaridiMob virtual card; online stamp-duty; VOLZ DZD 600m
 (first ASF exit); digital-dinar/blockchain track.
+
+## 2026-07-18 — ingest(DZA) chunk 7/8: AI, innovation, startups & skills
+14 sources admitted. New intersection `algeria--tech-innovate`. Entities: aventurecloudz (resource, Djezzy sovereign
+AI cloud), algeria-digital-empowerment-7-77 (initiative, 64,508 enrollees, AI top choice). Updated algeria--tech-ai
++ algeria-national-ai-strategy (25 May 2026 govt deployment review, 3 levers; New Lines Institute "most likely to lead
+AI in N.Africa", 57k students/74 masters/52 unis). AI supercomputing Oran; Huawei AI/GPU cooperation; ethical-AI law
+prep; virtual-education AI centre; AI vocational training; IPO-fee waiver to 2028; video-game industry; High Council of Scientists.
