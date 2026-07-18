@@ -5476,3 +5476,9 @@ spectrum 5% vs 0.5% SSA — 10×; ~80% rural no 4G); PATN underdelivery (20/76 s
 66-vs-76 reconciled); WACS single-cable exposure; **satellite = Eutelsat/OneWeb, not Starlink**; China
 vectors (Wing Wah private net, BeiDou CFCO). **GSMA report re-dated to 22 Jun 2026** (held source to be
 re-dated at finalize). All 22 moved new→raw.
+
+### 2026-07-18 · ingest COG · chunk 4/6 — Digital identity & registries
+**5 sources admitted.** Expanded [[congo--dpi-id]]: secure-ID workshop detailed (Thales/Laurent Jutard;
+**CARIA the PATN keystone**); **uncollected backlog** (10,506 CNI + 25,549 NIU in Pointe-Noire alone);
+**SIM–ID linkage not enforced** (only Kinkala/Djambala compliant; SIMs sold without ID across major towns)
+— hard evidence against the NIU/SIM-linkage story. All 5 moved new→raw.
