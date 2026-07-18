@@ -37,8 +37,14 @@ Mozambique's national cyber security statute, approved unanimously by parliament
   [[2025-12-16-end-impunity-cybercrime-minister-clubofmozambique]],
   [[2026-04-16-records-173000-cyberattacks-2024-clubofmozambique]].
 
+- **Promulgated into force (2026-06).** [[gov.legislate]] President **Chapo promulgated the Cybersecurity
+  Law and the Cybercrime Law** — protecting citizens/State/data, networks and critical infrastructure,
+  penalties up to **160 minimum wages** — **in the same decree as the National Payments System law** (see
+  [[mozambique--dpi-pay]]). Source: [[2026-06-13-cybercrime-cybersecurity-nps-laws-signed-clubofmozambique]].
+
 ## Sources
 
 - [[2026-04-17 Mozambique parliament unanimously approves Cyber Security Law]]
 - [[2025-12-16-end-impunity-cybercrime-minister-clubofmozambique]]
 - [[2026-04-16-records-173000-cyberattacks-2024-clubofmozambique]]
+- [[2026-06-13-cybercrime-cybersecurity-nps-laws-signed-clubofmozambique]]

@@ -27,6 +27,14 @@ mandate over shared banking infrastructure serving a population of 36.6 million.
   our national payments infrastructure" ([[MOZ]], [[dpi.pay]],
   [[infra.cybersec]]). Source: [[2026-02-24 BIO-key and RunLevel Deploy Biometric IAM Across Mozambique's National Payments Network]].
 
+- **METIX/SPIM operator (2026-03).** [[dpi.pay]] SIMO **operates and manages** the central bank's new
+  **Instant Payment System (METIX/SPIM)** — real-time bank+wallet transfers, free interbank P2P — and the
+  **Single Payments Network (National Switch)** under the new 60-minute failure-reporting rules. See
+  [[mozambique--dpi-pay]]. Sources: [[2026-03-16-central-bank-launches-metix-clubofmozambique]],
+  [[2026-06-16-financial-institutions-60-minutes-report-failures-clubofmozambique]].
+
 ## Sources
 
 - [[2026-02-24 BIO-key and RunLevel Deploy Biometric IAM Across Mozambique's National Payments Network]]
+- [[2026-03-16-central-bank-launches-metix-clubofmozambique]]
+- [[2026-06-16-financial-institutions-60-minutes-report-failures-clubofmozambique]]

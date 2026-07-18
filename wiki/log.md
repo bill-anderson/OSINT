@@ -6504,3 +6504,14 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
 - **Entities updated:** [[intic-mozambique]] (National Data Governance Policy validation, AU-aligned;
   draft AI strategy), [[mozambique-cyber-security-law]] (threat-scale rationale: 173,770 attacks / 1,061
   cases 2024, "end impunity" framing, 160-min-wage penalties).
+
+## 2026-07-18 — ingest(MOZ) chunk 4/6: Payments & fintech
+
+- **8 sources admitted** (0 leads, 0 discards).
+- **Intersection created:** [[mozambique--dpi-pay]] — e-money 109.8% of adults + NFIS 2025-2031; IRPS tax
+  on mobile-money commissions; METIX/SPIM instant payments (free interbank P2P, SIMO-operated); SNP law
+  (unanimous, AI provisions) promulgated with the cyber laws; National Switch 60-min failure reporting.
+- **Entity created:** [[banco-de-mocambique]] (government-body — central bank).
+- **Entities updated:** [[simo-mozambique]] (METIX/National-Switch operator), [[mozambique-cyber-security-law]]
+  (Chapo promulgation, same decree as NPS law).
+- Dedup: SPIM (03-02, Notice 1/GB/2026) + METIX (03-16 launch) kept as same-rail different-stage twins.
