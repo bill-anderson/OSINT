@@ -6395,3 +6395,13 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
   $1.2bn/500MW/TAQA/Nvidia confirmed from source body, not the manifest.
 - Dedup: CNIE-renewal + Idarati-X.0 + biometric-passport twins kept as complementary; 1 open-gov twin
   pruned. techreviewafrica items flagged pr-wire (admissible, dated).
+
+## 2026-07-18 — ingest(MDG) chunk 1/6: Digital ID / civil registry — enrolment arc (PRODIGY/RECI)
+
+- **6 sources admitted** (0 leads, 0 discards).
+- **Intersection created:** [[madagascar--dpi-id]] — PRODIGY/RECI biometric national-ID (NUI, "Izaho
+  Tokana"): IN Groupe €8.5m + Laxton kit awards; UGD tenders + Tsimbazaza/Iavoloha data-centre rehab;
+  enrolment launch (27 Jan, 2,500 kits/1,729 centres); POC validation; ~130k pilot amid regime change +
+  cyclone (100% data completeness).
+- **Entity created:** [[laxton]] (company — biometric kits, MOSIP full-service partner).
+- **Entity updated:** [[prodigy-madagascar]] (mass-rollout 2026 note).

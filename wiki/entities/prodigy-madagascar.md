@@ -30,5 +30,17 @@ Contractors under PRODIGY include **Laxton** (biometric enrolment kits), **[[in-
 Digital Development, Posts & Telecom]]** with the **[[oni-madagascar|National Office for Identification]]**.
 Pilot enrolment began 27 January 2026; nationwide rollout targets 12m+ citizens.
 
+## Mass rollout (2026)
+
+- **Vendor awards firmed (2025-05):** **[[in-groupe|IN Groupe]]** €8.5m database/civil-registry; **[[laxton]]**
+  biometric kits. Five UGD tenders (Dec 2025) include **data-centre rehab at Tsimbazaza + Iavoloha**.
+- **Enrolment launched 27 Jan 2026** (RECI, "Izaho Tokana"); POC validated; national rollout of 2,500 kits.
+  Pilot enrolled ~130,000 (116 centres, 26 communes; 100% data completeness) despite regime change and a
+  cyclone. Enrolment then scaled to **2.6M (Jun), >5.6M (24 Jun)** with a **28-May-2026 mass-birth-
+  registration law** and a **$543m PRODIGY+DECIM** WB review. Full thread: [[madagascar--dpi-id]]. Sources:
+  [[2025-05-16-madagascar-selects-in-groupe-8-5m-digital-id-biometricupdate]],
+  [[2025-12-22-prodigy-tenders-data-center-biometricupdate]],
+  [[2026-03-16-etat-civil-enrolement-biometrique-national-lexpress]].
+
 ## Links
-Place: [[MDG]] · Topics: [[dpi.id]] · [[dpi.registry]] · [[dpi.exchange]] · Entities: [[world-bank]] · [[oni-madagascar]] · [[ugd-madagascar]] · [[in-groupe]]
+Place: [[MDG]] · Topics: [[dpi.id]] · [[dpi.registry]] · [[dpi.exchange]] · Entities: [[world-bank]] · [[oni-madagascar]] · [[ugd-madagascar]] · [[in-groupe]] · [[laxton]] · [[madagascar--dpi-id]]
