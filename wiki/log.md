@@ -5482,3 +5482,10 @@ re-dated at finalize). All 22 moved new→raw.
 **CARIA the PATN keystone**); **uncollected backlog** (10,506 CNI + 25,549 NIU in Pointe-Noire alone);
 **SIM–ID linkage not enforced** (only Kinkala/Djambala compliant; SIMs sold without ID across major towns)
 — hard evidence against the NIU/SIM-linkage story. All 5 moved new→raw.
+
+### 2026-07-18 · ingest COG · chunk 5/6 — Payments & financial inclusion
+**8 sources admitted.** New intersection [[congo--dpi-pay]]; new entities [[gozem-congo]] ($30m Series B;
+**Yango exited Brazzaville**), [[kerry-payments-congo]] (PawaPay VAS aggregator licence — unified API), 
+[[digipay-congo]] (Belmoney FR/BE remittance corridor). MoMo duopoly (MTN 74.5%/Airtel 25.5%; fee creep;
+bancarisation 17%→7%; 61%-vs-19% metric clash noted); SIM-terminal import tax (1 Jun 2026, framed as
+*funding* connectivity — inverts GSMA). All 8 moved new→raw.
