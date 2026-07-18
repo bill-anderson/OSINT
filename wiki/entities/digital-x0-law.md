@@ -23,12 +23,17 @@ See [[MAR]].
 
 ## Activity in this wiki
 
-- **Unveiled (2025-11).** Two outlets covered the draft; it supports digital sovereignty, responsible AI
-  and interoperability, referencing MOSIP-based DPI and a Sept-2025 D4SD Hub (UNDP). Sources:
+- **Unveiled (2025-11).** Multiple outlets covered the draft (presented by Minister Seghrouchni, under
+  General Secretariat of the Government review); it supports digital sovereignty, responsible AI and
+  interoperability, referencing MOSIP-based DPI and a Sept-2025 D4SD Hub (UNDP), with a **sector-specific
+  digital identity** limiting data access to what each activity strictly needs and **traceable consent**
+  for any public↔private exchange. See [[morocco--tech-ai]]. Sources:
   [[2025-11-07 Morocco introduces 'Digital X.0' law for AI governance, data governance and digital identity]],
-  [[2025-11-06 Morocco prepares 'Digital X.o' draft law (AI governance, sectoral digital IDs, interoperability)]].
+  [[2025-11-06 Morocco prepares 'Digital X.o' draft law (AI governance, sectoral digital IDs, interoperability)]],
+  [[2025-11-04-wearetech-morocco-landmark-law-ai-data-identity]].
 
 ## Sources
 
 - [[2025-11-07 Morocco introduces 'Digital X.0' law for AI governance, data governance and digital identity]]
 - [[2025-11-06 Morocco prepares 'Digital X.o' draft law (AI governance, sectoral digital IDs, interoperability)]]
+- [[2025-11-04-wearetech-morocco-landmark-law-ai-data-identity]]

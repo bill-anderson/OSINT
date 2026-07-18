@@ -29,9 +29,14 @@ FDI, and grow the startup ecosystem — projecting ~240,000 jobs and ~100bn dirh
 - **Cloud First Policy.** [[infra.store]] Cloud is the mandatory default for public-admin IT investment
   (cloud excellence centre with ADD; national cloud observatory from 2027), with an emerging AI First
   strategy. Source: [[2025-01-01 Morocco adopts Cloud First Policy under Digital Morocco 2030]].
+- **"AI Made in Morocco" / JAZARI (2026-03).** [[tech.ai]] The strategy's AI arm — the
+  **[[jazari-institutes|"AI Made in Morocco" / JAZARI Institutes]]** programme — targets a homegrown AI
+  ecosystem and sovereign solutions (Minister Seghrouchni, Fez seminar). See [[morocco--tech-ai]]. Source:
+  [[2026-03-11-techafricanews-ai-made-in-morocco-industry-x0]].
 
 ## Sources
 
 - [[2025-07-31 Morocco Digital Economy — US Country Commercial Guide (Digital Morocco 2030)]]
 - [[2025-05-05 Morocco boosts digital ID for government services (DGSN–Ministry partnership)]]
 - [[2025-01-01 Morocco adopts Cloud First Policy under Digital Morocco 2030]]
+- [[2026-03-11-techafricanews-ai-made-in-morocco-industry-x0]]

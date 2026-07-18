@@ -6309,3 +6309,18 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
 - Dedup (lint #7): CNIE-renewal twins (wearetech 05-23 primary + biometricupdate 06-02 derivative) and
   Idarati-X.0 twins (02-12 pair) all KEPT as complementary to held material — each carries distinct facts
   (portals; EGDI ranking/institutions/IDEMIA); attached to existing pages, not new pages.
+
+## 2026-07-18 — ingest(MAR) chunk 2/7: AI strategy, law & responsible-AI
+
+- **7 sources admitted** (0 leads, 0 discards).
+- **Intersection created:** [[morocco--tech-ai]] — two legislative tracks (Jan-2025 parliamentary AI bill,
+  17 articles; Digital X.0 framework law); CNDP sovereign responsible-AI/LLM platform; "AI Made in
+  Morocco"/JAZARI; Orange AI Garden startup programme; AI-in-health cybersecurity gap.
+- **Entities created:** [[cndp-morocco]] (government-body — data-protection authority), [[jazari-institutes]]
+  (initiative — "AI Made in Morocco"/JAZARI).
+- **Entities updated:** [[digital-x0-law]] (wearetech twin + sector-ID/traceable-consent detail),
+  [[digital-morocco-2030]] (AI Made in Morocco arm).
+- **Date-prefix fix (auto):** `2026-01-09-...ai-legislative-initiative` renamed to **`2025-01-09`** — its
+  frontmatter, Arabic dateline and content are all 2025-01-09 (Thu); the sweep prefix was a year off.
+- Dedup: Digital-X.0 wearetech 2025-11-04 kept as complementary to held 11-06/11-07 (adds sector-ID +
+  traceable-consent detail).
