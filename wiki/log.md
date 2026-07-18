@@ -5652,3 +5652,15 @@ algerie-telecom-sparkle-cable (deal); sparkle, ericsson (vendor companies). Upda
 cerist (organisation; cloud/drone/incubator Mar 2025), abdelmadjid-tebboune (person, President), meriem-benmouloud
 (person, Min. Digitalization & Statistics). Constantine DC (2023), Oran AI DC (2025-03), Blida under deployment;
 200,000+ km fibre; parliament sovereign cloud; one-month admin-interconnection order (2026-07-12). Huawei = geopol.china thread.
+
+## 2026-07-18 — ingest(DZA) chunk 3/8: Cybersecurity & data protection
+17 sources admitted (market-supply IS held for chunk 5). New intersection `algeria--infra-cybersec`.
+Entities: assi (govt-body, ISS agency under MDN), algeria-national-cybersecurity-strategy-2025-2029 (instrument,
+adopted 2026-03-03, Kaspersky 70m attacks 2024, ITU GCI Tier 3), mpt-cert (govt-body, sectoral CERT, KOICA),
+algeria-russia-cybersecurity-mou (deal, Positive Technologies × Proxylan/CERIST). Updated anpdcp (also ANPDP;
+Law 25-11 amendment; president Samir Bourehil; 2025-12 enforcement push; DGSN study day) and algeria--gov-protect.
+Decree 26-07 (7 Jan 2026) institutional framework: ASSI, National Council for ISS, ANPDP, HCD, ICT-crimes authority.
+CONTRADICTION filed: data-governance decree number 25-350 (held EN source) vs 25-320 (2 Algerian-press sources) —
+reviews/contradictions/open/algeria-data-governance-decree-number; set needs-review on algeria-data-governance-framework
++ algeria--gov-protect. Fixed MPT-CERT echorouk file: stripped invalid KOR place code + geopol.china mis-tag (ISSUE-014
+addendum already covers geopol.russia/korea/uk gap).

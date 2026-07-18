@@ -10,9 +10,10 @@ date_precision: day
 date_source: source
 retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
-places: [DZA, KOR]
-topics: [infra.cybersec, gov.policy, geopol.china]
-entities: [ministere-de-la-poste-et-des-telecommunications, mpt-cert, sid-ali-zerrouki, koica]
+places: [DZA]
+topics: [infra.cybersec, gov.policy]
+entities: [[ministry-of-post-and-telecommunications-algeria], [mpt-cert], [sid-ali-zerrouki]]
+date_note: "Fixed at ingest: invalid place code KOR removed (South Korea not in countries.csv); geopol.china mis-tag removed (KOICA is South-Korean, and no geopol.korea slug exists — see ISSUE-014). Korea/KOICA cooperation noted in prose."
 lens: [sovereignty]
 ---
 
