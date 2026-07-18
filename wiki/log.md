@@ -5744,3 +5744,9 @@ bank, Banque Misr/MDI, CBE-approved 2025-08). InstaPay 16m users/1.1bn tx/EGP 2.
 25m+ verifications/yr). MCIT national digital ID (eKYC+e-sig approaching, May 2026); MOIEG-PASS selfie-biometrics pilot
 (Mar 2026 update); child biometric national-ID proposal (age 5, Child Law 12/1996 amendment) at proposal stage. Updated
 pdpc-egypt (Cairo ICT data-sovereignty framing, acting-CEO).
+
+## 2026-07-18 — ingest(EGY) chunk 5/6: GovTech / Digital Egypt platform
+6 sources admitted. Updated digital-egypt (210 services/10.7m users/73 exclusive; transactions 7.8m→25m; 270 target;
+9 commercial-registry exclusive from 1 Jan 2026) and egypt--dpi-govtech (GTMI 22nd/0.911 Group A + Open Data Policy;
+AI-readiness 52nd; e-gov 77th; GAFI 460-service licensing platform; Unified Government Services Card, Port Said pilot 41,500
+families, Egypt Post-linked). No new entities (updates to existing platform pages).
