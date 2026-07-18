@@ -5195,3 +5195,13 @@ New entities: [[car-crypto-tokenisation]], [[starlink-car]], [[car-national-data
 [[caf--dpi-id]]. [[CAF]] hub substantially expanded (crypto, Starlink, data-centre, MODERO, CNI racket,
 HCC, regional). 1 contradiction open (caf-internet-penetration). MANIFEST → new-queue/done/CAF/. All
 CAF source links lint clean (184 unique, 0 unresolved).
+
+### 2026-07-18 · ingest CMR · chunk 1/8 — Identity, CRVS & registries
+**14 sources admitted.** New entities: [[elecam]], [[impact-palmares]], [[idcam]],
+[[ministry-of-external-relations-cameroon]]. Updated [[dgsn-cameroon]] (IDCAM portal + 10,000 FCFA fee,
+48h delivery reality, Garoua 2nd production centre ~2,000 cards/day, sectoral IDs), [[augentic]] (Garoua),
+[[bunec]] + [[cameroon-civil-registration-law-2024]] (enactment **23 Dec 2024, 130 sections**; councils'
+digital birth certs with full legal worth), [[cameroon--dpi-id]] intersection substantially expanded
+(priced gateway; ELECAM election-side register + ~12,000 fingerprint-exclusion harm 2024; Impact Palmarès
+consular+printing; taxi/student sectoral IDs; MINDCAF chief non-objection letter). CMR hub roll-up deferred
+to finalize. All 14 sources moved new→raw. Note: student/taxi ID and e-Visa cross-cited from later chunks.
