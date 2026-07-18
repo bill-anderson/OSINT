@@ -5719,3 +5719,9 @@ mobile; ITU IDI 74th); Active topics expanded with 6 new intersections; Entities
 DZA row rewritten. 6 new intersections (infra-connect, infra-store, infra-cybersec, dpi-id, tech-innovate, gov-regional);
 4 updated (gov-protect, dpi-govtech, dpi-pay, tech-ai). Dead-link lint 0 unresolved; orphan lint 0/135.
 new-queue/DZA → new-queue/done/DZA; stray new/MANIFEST.md removed. Filed 1 contradiction (data-gov decree number).
+
+## 2026-07-18 — ingest(EGY) chunk 1/6: Connectivity, cables & 5G
+6 sources admitted. New intersection `egypt--infra-connect`. Updated telecom-egypt (2Africa Mediterranean/Cisco,
+Huawei FTTR first-in-Egypt, 5m fibre lines/1,250+ villages Decent Life, $3.5bn/+410MHz spectrum, 5G licence Jan 2024
+$150m) and ntra-egypt (spectrum deal, Spectrum Strategy 2026-30). ~15 active subsea cables (Africa's largest); digital
+exports $7.4bn/outsourcing $4.8bn 2025; fixed broadband 12.6m (Nov 2025); $6bn telecom investment since 2019.
