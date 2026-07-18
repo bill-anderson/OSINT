@@ -2,8 +2,8 @@
 type: concept
 title: AI
 slug: tech.ai
-places: [COD, CIV, CMR, AGO, CAF, DJI, EGY, ETH, GHA, KEN, MAR, MWI, NAM, NGA, RWA, SDN, SEN, UGA, XEA, ZAF, ZMB, ZWE, XSA, XGL, XSS, DZA, SLE, ERI]
-entities: [[partner2connect], [gsma], [china-namibia-smart-city], [jane-munga], [technology-prosperity-deal], [pax-silica], [american-ai-exports-program], [uae], [uae-ai-for-development-initiative], [g42], [google], [microsoft], [microsoft-g42-kenya-datacenter], [african-union], [au-google-mou], [au-continental-ai-strategy], [cloud-act], [waxal], [rwanda-national-ai-agency], [paula-ingabire], [mesob-platform], [ethiopian-ai-institute], [openai], [eac], [smart-africa], [ghana-national-ai-strategy], [kashifu-inuwa], [nasa-harvest], [catherine-nakalembe], [google-deepmind], [google-ai-research-foundations], [hustle-academy], [microsoft-elevate], [tiara-pathon], [liquid-c2], [cassava-technologies], [mtn-group], [ralph-mupita], [ai-for-good-global-commission], [nvidia], [africa-ai-declaration], [kenya-ai-bill-2026], [eu-ai-act], [global-center-on-ai-governance], [global-index-on-responsible-ai], [google-for-startups-accelerator-africa], [un-ai-scientific-panel], [tech-corps], [deepseek], [martin-tisne], [ecdpm], [european-union], [viamo], [african-telecommunications-union], [axian-telecom], [abeba-birhane], [meta], [ndpc], [govguide-nigeria], [digital-ethiopia-2030], [ai-unipod-ethiopia], [mtn-ghana], [malawi-ministry-of-ict], [undp], [vision-djibouti-2035], [eardip], [comesa], [idea-mpa]]
+places: [COD, CIV, CMR, AGO, CAF, DJI, EGY, ETH, GHA, KEN, MAR, MWI, NAM, NGA, RWA, SDN, SEN, UGA, XEA, ZAF, ZMB, ZWE, XSA, XGL, XSS, DZA, SLE, ERI, MLI, BFA, GIN, BEN, XWA]
+entities: [[partner2connect], [gsma], [china-namibia-smart-city], [jane-munga], [technology-prosperity-deal], [pax-silica], [american-ai-exports-program], [uae], [uae-ai-for-development-initiative], [g42], [google], [microsoft], [microsoft-g42-kenya-datacenter], [african-union], [au-google-mou], [au-continental-ai-strategy], [cloud-act], [waxal], [rwanda-national-ai-agency], [paula-ingabire], [mesob-platform], [ethiopian-ai-institute], [openai], [eac], [smart-africa], [ghana-national-ai-strategy], [kashifu-inuwa], [nasa-harvest], [catherine-nakalembe], [google-deepmind], [google-ai-research-foundations], [hustle-academy], [microsoft-elevate], [tiara-pathon], [liquid-c2], [cassava-technologies], [mtn-group], [ralph-mupita], [ai-for-good-global-commission], [nvidia], [africa-ai-declaration], [kenya-ai-bill-2026], [eu-ai-act], [global-center-on-ai-governance], [global-index-on-responsible-ai], [niyel], [google-for-startups-accelerator-africa], [un-ai-scientific-panel], [tech-corps], [deepseek], [martin-tisne], [ecdpm], [european-union], [viamo], [african-telecommunications-union], [axian-telecom], [abeba-birhane], [meta], [ndpc], [govguide-nigeria], [digital-ethiopia-2030], [ai-unipod-ethiopia], [mtn-ghana], [malawi-ministry-of-ict], [undp], [vision-djibouti-2035], [eardip], [comesa], [idea-mpa]]
 lens: [sovereignty, colonialism]
 status: active
 last_reviewed: 2026-07-16
@@ -265,6 +265,17 @@ converge.
   align continental expertise with political leadership. Africa pressing for a seat in norm-setting,
   not just adoption. See [[gov.regional]], [[gov.standards]]. Source:
   [[2026-07-09 African Union pushes for unified African voice at Global AI Governance Dialogue]].
+- **Francophone West Africa's shared AI-governance framework (Niyel, 2026-07).** Six states —
+  **Benin, Burkina Faso, Côte d'Ivoire, Guinea, Mali and Senegal** — adopted shared AI-governance
+  guidelines convened by advocacy org **[[niyel]]**, announced at the same inaugural Global AI
+  Dialogue (submitted as a written contribution). It recommends transparent/inclusive AI, stronger
+  data protection, skills, algorithmic-bias mitigation, local innovation and **digital sovereignty**;
+  complements national strategies and aligns with UNESCO's 2021 recommendation and the AU's 2024
+  Continental AI Strategy, warning that uncontrolled adoption of externally-developed AI could deepen
+  technological dependence. A **sub-regional** counterpart to the AU push above, and **[[MLI|Mali]]'s
+  first substantive continental AI-governance commitment**. See [[gov.regional]], [[gov.policy]],
+  [[XWA]], [[sovereignty]]. Source:
+  [[2026-07-09-wearetech-six-francophone-wa-ai-governance-niyel]].
 - **The US–China AI-diffusion contest reaches Africa (2026-03).** Two moves cast Africa as a stack
   battleground. Washington launched **[[tech-corps]]** (Kratsios, India AI Impact Summit) — thousands
   of US technical volunteers offering "last-mile" deployment of American AI in partner-nation
@@ -342,7 +353,7 @@ This topic is mostly continental (the sovereignty debate, the partnership scramb
 
 ## Places
 
-[[AGO]] · [[CAF]] · [[DJI]] · [[EGY]] · [[ETH]] · [[GHA]] · [[KEN]] · [[MAR]] · [[MWI]] · [[NAM]] · [[NGA]] · [[RWA]] · [[SDN]] · [[SEN]] · [[SLE]] · [[UGA]] · [[XEA]] · [[ZAF]] · [[ZMB]] · [[ZWE]]
+[[AGO]] · [[CAF]] · [[DJI]] · [[EGY]] · [[ETH]] · [[GHA]] · [[KEN]] · [[MAR]] · [[MWI]] · [[NAM]] · [[NGA]] · [[RWA]] · [[SDN]] · [[SEN]] · [[SLE]] · [[UGA]] · [[XEA]] · [[ZAF]] · [[ZMB]] · [[ZWE]] · [[MLI]] · [[BFA]] · [[GIN]] · [[BEN]] · [[CIV]] · [[XWA]]
 
 ## Related
 
@@ -399,6 +410,7 @@ This topic is mostly continental (the sovereignty debate, the partnership scramb
 - [[2026-07-08 China funds Namibia digital infrastructure]]
 - [[2026-07-08 The UN Scientific Panel on AI's Preliminary Report Does Not Establish Its Independence]]
 - [[2026-07-09 African Union pushes for unified African voice at Global AI Governance Dialogue]]
+- [[2026-07-09-wearetech-six-francophone-wa-ai-governance-niyel]]
 - [[2026-07-09 ITU's Partner2Connect crosses $100 billion in global connectivity pledges]]
 - [[2026-07-09 Seacom plans 25,000km subsea cable from France to Singapore and South Africa]]
 - [[2026-07-10 Can the United Nations Bring the World Together on AI]]

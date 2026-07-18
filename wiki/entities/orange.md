@@ -2,12 +2,12 @@
 type: entity
 entity_type: company
 title: Orange
-places: [XWA, XAF, NGA, SEN, CIV, MAR, MDG]
-topics: [infra.connect, geopol.eu, capacity.training, infra.store, dpi.pay]
+places: [XWA, XAF, NGA, SEN, CIV, MAR, MDG, MLI]
+topics: [infra.connect, geopol.eu, capacity.training, infra.store, dpi.pay, data.satellite]
 lens: [colonialism]
 status: active
-last_reviewed: 2026-07-16
-sources: [[2026-05-23 Orange-backed subsea cable to connect Nigeria, 19 other countries], [2024-05-30 Orange and AWS partner to deliver cloud services in Morocco and Senegal], [2026-01-21 Orange Côte d'Ivoire Launches Orange Sat Satellite Internet to Boost Nationwide Connectivity], [2025-12-04 Is it a bird Is it plane No, Jim, it's an African mobile operator, but not as we know it 9], [2026-02-16 Waking the dead - Slow road to extinction for Africa's former telco incumbents 11]]
+last_reviewed: 2026-07-18
+sources: [[2026-05-23 Orange-backed subsea cable to connect Nigeria, 19 other countries], [2024-05-30 Orange and AWS partner to deliver cloud services in Morocco and Senegal], [2026-01-21 Orange Côte d'Ivoire Launches Orange Sat Satellite Internet to Boost Nationwide Connectivity], [2025-12-04 Is it a bird Is it plane No, Jim, it's an African mobile operator, but not as we know it 9], [2026-02-16 Waking the dead - Slow road to extinction for Africa's former telco incumbents 11], [2025-05-07-techafricanews-orange-mali-intelsat-4g-satellite]]
 ---
 
 # Orange
@@ -54,6 +54,12 @@ legacy dimension.
   Orange's mobile-money share is **20.4%** of EMEA revenue. See [[COD]],
   [[infra.energy]], [[tech.industry]]. Source:
   [[2025-12-04 Is it a bird Is it plane No, Jim, it's an African mobile operator, but not as we know it 9]].
+- **Orange Mali — satellite reach + IFC-backed 4G/fibre (2025).** [[orange-mali]] (Mali's
+  market leader, >12m subscribers) tapped **[[intelsat]]** for 4G-over-satellite to remote
+  regions ("a first in Francophone West Africa", ~360k reached) and drew a **€80m IFC social
+  loan** ([[ifc-orange-mali-loan]]) for 300 4G towers and fibre to ~300k households, plus an
+  Orange Money–Orabank Mastercard. See [[MLI]], [[data.satellite]], [[include.divides]],
+  [[dpi.pay]]. Source: [[2025-05-07-techafricanews-orange-mali-intelsat-4g-satellite]].
 - **Telkom Kenya exit (Russell Southwood, 2026-02-16).** In Southwood's account of
   Africa's stranded former incumbents, Orange bought **60%** of Telkom Kenya for
   **US$390m**, raised it to **70%** in 2013, then sold **60%** to **Helios
@@ -69,3 +75,4 @@ legacy dimension.
 - [[2026-05-23 Orange-backed subsea cable to connect Nigeria, 19 other countries]]
 - [[2024-05-30 Orange and AWS partner to deliver cloud services in Morocco and Senegal]]
 - [[2026-01-21 Orange Côte d'Ivoire Launches Orange Sat Satellite Internet to Boost Nationwide Connectivity]]
+- [[2025-05-07-techafricanews-orange-mali-intelsat-4g-satellite]]

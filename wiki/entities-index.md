@@ -197,6 +197,10 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 | TIS Tech Angola | AGO | dpi.exchange, dpi.id, dpi.govtech, infra.cybersec | [[tis-angola]] |
 | Unitel Money (USPM) | AGO | dpi.pay, include.access | [[unitel-money]] |
 | Uniti Wholesale (Uniti Group) | XGL, AGO | infra.connect, infra.store | [[uniti-fiber]] |
+| Orange Mali | MLI | infra.connect, dpi.pay, include.divides, data.satellite | [[orange-mali]] |
+| SOTELMA (Moov Africa Malitel) | MLI | infra.connect, tech.industry, dpi.pay, tech.ai | [[sotelma]] |
+| Maroc Telecom | MAR, MLI, XAF | infra.connect, tech.industry, dpi.pay | [[maroc-telecom]] |
+| Intelsat | MLI, XGL | infra.connect, data.satellite, include.divides | [[intelsat]] |
 
 ## Organisations
 
@@ -359,6 +363,7 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 | Universal Postal Union (UPU) | XGL, TZA | gov.standards, dpi.registry, gov.regional | [[upu]] |
 | Institute for Economic Justice (IEJ) | ZAF | include.access, include.divides, dpi.pay, gov.legislate, capacity.literacy, digital.rural | [[institute-for-economic-justice]] |
 | "#PayTheGrants" | ZAF | include.access, include.divides, dpi.pay, gov.legislate, capacity.literacy, digital.rural | [[paythegrants]] |
+| Niyel | XWA, MLI, BFA, NER, SEN, CIV, GIN, BEN | tech.ai, gov.policy, gov.regional | [[niyel]] |
 
 ## Government bodies
 
@@ -627,6 +632,9 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 | Ministério da Justiça e dos Direitos Humanos (MINJUSDH) — Angola | AGO | dpi.id, dpi.registry, gov.legislate, include.access | [[ministerio-da-justica-e-dos-direitos-humanos-angola]] |
 | MINTTICS (Ministério das Telecomunicações, Tecnologias de Informação e Comunicação Social) | AGO | gov.policy, gov.regional, infra.connect, infra.store, dpi.govtech, data.satellite | [[ministerio-das-telecomunicacoes-tecnologias-de-informacao-e-comunicacao-social-angola]] |
 | SINSE (Serviço de Inteligência e Segurança de Estado) | AGO | infra.cybersec, gov.protect | [[sinse-angola]] |
+| APDP (Autorité de Protection des Données à caractère Personnel) — Mali | MLI | gov.protect, gov.legislate, dpi.registry | [[apdp-mali]] |
+| AGETIC (Agence des Technologies de l'Information et de la Communication) — Mali | MLI | dpi.govtech, infra.cybersec, infra.connect | [[agetic]] |
+| ANSSI (Agence nationale de la Sécurité des Systèmes d'Information) — Mali | MLI | infra.cybersec, gov.legislate | [[anssi-mali]] |
 
 ## Initiatives / programmes
 
@@ -938,6 +946,8 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 | Nigeria–Angola space cooperation agreement (2026) | AGO, NGA, XAF | gov.regional, finance.mou, data.satellite, capacity.research | [[nigeria-angola-space-cooperation]] |
 | Angola–Intellexa Predator spyware procurement | AGO | infra.cybersec, gov.protect | [[predator-spyware-angola]] |
 | SITA Passenger Data System — Angola (API/PNR Gateway, Luanda) | AGO | dpi.id, dpi.exchange, infra.store, gov.protect | [[sita-angola]] |
+| IFC €80m social loan to Orange Mali (2025) | MLI | finance.new, infra.connect, include.divides, infra.energy | [[ifc-orange-mali-loan]] |
+| Mali regains SOTELMA majority stake (2026, ~$277m) | MLI | tech.industry, infra.connect, gov.policy | [[sotelma-state-majority-2026]] |
 
 ## People
 

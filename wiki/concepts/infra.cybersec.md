@@ -2,11 +2,11 @@
 type: concept
 title: Cybersecurity
 slug: infra.cybersec
-places: [MRT, ZMB, ZAF, XAF, NGA, MOZ, RWA, BEN, GHA, KEN, MUS, LBR, XEA, XSS, CMR, BFA, EGY, SDN, SEN, ZWE, DZA, UGA, DJI, CPV, SOM, AGO]
-entities: [[dzap], [research-ict-africa], [smart-africa], [afnic], [nimc], [mozambique-cyber-security-law], [realtyme], [smart-africa-realtyme-partnership], [sadx], [sa-digital-id-regulations], [popia], [world-bank], [mosip], [id4africa], [eac], [antic-cameroon], [patnuc], [bf-ministry-digital-transition], [alliance-of-sahel-states], [intic-mozambique], [cybastion], [securoute], [asin-benin], [zte], [hikvision], [huawei], [bio-key-international], [runlevel], [simo-mozambique], [kenya-cyber-resilience-project], [expertise-france], [estdev], [european-union], [nira-nigeria], [nitda]]
+places: [MRT, ZMB, ZAF, XAF, NGA, MOZ, RWA, BEN, GHA, KEN, MUS, LBR, XEA, XSS, CMR, BFA, EGY, SDN, SEN, ZWE, DZA, UGA, DJI, CPV, SOM, AGO, MLI]
+entities: [[dzap], [research-ict-africa], [smart-africa], [afnic], [nimc], [mozambique-cyber-security-law], [realtyme], [smart-africa-realtyme-partnership], [sadx], [sa-digital-id-regulations], [popia], [world-bank], [mosip], [id4africa], [eac], [antic-cameroon], [patnuc], [bf-ministry-digital-transition], [alliance-of-sahel-states], [anssi-mali], [agetic], [intic-mozambique], [cybastion], [securoute], [asin-benin], [zte], [hikvision], [huawei], [bio-key-international], [runlevel], [simo-mozambique], [kenya-cyber-resilience-project], [expertise-france], [estdev], [european-union], [nira-nigeria], [nitda]]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-16
+last_reviewed: 2026-07-18
 sources: [[2025-09-11 DZAP World Bank PAD], [2025-01-01 South African Digital Sovereignty at the Crossroad of Securitization and Development (Chapter 4) - Digital Sovereignty in the BRICS Countries], [2026-07-09 Smart Africa and AFNIC Partner to Strengthen Africa's Internet Infrastructure], [2026-07-09 NIMC Act 2026 Director-General Coker-Odusote Launches 8,809-Ward Digital ID Drive], [2026-04-17 Mozambique parliament unanimously approves Cyber Security Law], [2026-04-16 Smart Africa, RealTyme join forces for data sovereignty], [2026-04-27 Smart Africa drives cross-border data interoperability through SADX Technical Mission], [2026-04-21 South Africa's digital ID gets a targeted launch date], [2026-05-16 World Bank, African DPAs outline formula for trusted digital identity, DPI], [2026-01-22 Cameroon boosts cyber defense systems], [2026-01-27 Cameroon deploys cybersecurity system to protect DPI, boost digital trust], [2026-01-22 Burkina Faso aims for digital sovereignty with infrastructure supervision center], [2026-02-06 Mozambique intros data breach platform], [2026-01-27 Cybastion Advances Digital Government Solutions, Supports Benin's SECUROUTE Infrastructure Upgrade], [2026-03-01 Smart City Surveillance in Africa (IDS 2026)], [2026-02-24 BIO-key and RunLevel Deploy Biometric IAM Across Mozambique's National Payments Network], [2026-01-27 Kenya launches project to boost cyber security], [2026-01-21 How foreign domains compromise digital identity]]
 ---
 
@@ -94,6 +94,19 @@ how "cyber threat" is defined and acted on.
   **"zero data abroad"** localization rule — cyber-sovereignty as infrastructure control across the
   **[[alliance-of-sahel-states]]** bloc. See [[infra.store]], [[gov.policy]]. Source:
   [[2026-01-22 Burkina Faso aims for digital sovereignty with infrastructure supervision center]].
+- **[[MLI]] Mali stands up a full cyber-institutional stack (2025-12 → 2026-07).** Fellow AES state
+  Mali built its cyber apparatus in one year: the Council of Ministers **took note of a National
+  Cybersecurity Strategy 2026–2030** (5 Dec 2025) — its first coordinated framework (ITU GCI Tier 4/5,
+  citing an Aug-2022 breach of **312,000** taxpayers attributed to "Russian cybercriminals" — no Russia
+  slug, ISSUE-014 — and a 2023 Bank of Africa Mali attack); made the **cybercrime criminal chamber**
+  operational (May 2026, first 4 cases/8 accused); and **created [[anssi-mali|ANSSI]]** (Council 10 Jun
+  2026) to implement the strategy. **[[agetic|AGETIC]]** runs the secured government Intranet and the
+  **.ml** ccTLD alongside. See [[gov.legislate]], [[gov.policy]], [[alliance-of-sahel-states]],
+  [[sovereignty]]. Sources:
+  [[2025-12-09-wearetech-mali-strategie-cybersecurite-2026-2030]],
+  [[2026-05-21-lessor-cybercrime-chamber-operational]],
+  [[2026-07-01-maliactuel-anssi-agence-cybersecurite-creee]],
+  [[2025-12-30-lessor-agetic-intranet-point-ml]].
 - **[[MOZ]] Two tracks — breach reporting and biometric IAM (2026-02).** **[[intic-mozambique]]**
   launched a pilot **personal-data-breach reporting platform**, part of consolidating the
   data-protection regime and supplying the incident-reporting mechanism many DPAs still lack. In
@@ -164,7 +177,7 @@ how "cyber threat" is defined and acted on.
 
 ## Places
 
-[[AGO]] · [[ZMB]] · [[ZAF]] · [[XAF]] · [[NGA]] · [[MOZ]] · [[RWA]] · [[BEN]] · [[GHA]] · [[KEN]] · [[MUS]] · [[LBR]] · [[XEA]] · [[XSS]] · [[CMR]] · [[BFA]] · [[EGY]] · [[SDN]] · [[SEN]] · [[ZWE]] · [[DZA]] · [[UGA]] · [[SOM]] · [[GNB]]
+[[AGO]] · [[ZMB]] · [[ZAF]] · [[XAF]] · [[NGA]] · [[MOZ]] · [[RWA]] · [[BEN]] · [[GHA]] · [[KEN]] · [[MUS]] · [[LBR]] · [[XEA]] · [[XSS]] · [[CMR]] · [[BFA]] · [[EGY]] · [[SDN]] · [[SEN]] · [[ZWE]] · [[DZA]] · [[UGA]] · [[SOM]] · [[GNB]] · [[MLI]]
 
 ## Sources
 
@@ -180,6 +193,10 @@ how "cyber threat" is defined and acted on.
 - [[2026-01-22 Cameroon boosts cyber defense systems]]
 - [[2026-01-27 Cameroon deploys cybersecurity system to protect DPI, boost digital trust]]
 - [[2026-01-22 Burkina Faso aims for digital sovereignty with infrastructure supervision center]]
+- [[2025-12-09-wearetech-mali-strategie-cybersecurite-2026-2030]]
+- [[2026-05-21-lessor-cybercrime-chamber-operational]]
+- [[2026-07-01-maliactuel-anssi-agence-cybersecurite-creee]]
+- [[2025-12-30-lessor-agetic-intranet-point-ml]]
 - [[2026-02-06 Mozambique intros data breach platform]]
 - [[2026-01-27 Cybastion Advances Digital Government Solutions, Supports Benin's SECUROUTE Infrastructure Upgrade]]
 - [[2026-03-01 Smart City Surveillance in Africa (IDS 2026)]]

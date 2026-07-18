@@ -2,11 +2,11 @@
 type: concept
 title: Use of satellite data
 slug: data.satellite
-places: [AGO, NGA, NAM, ZAF, KEN, UGA, SEN, RWA, MOZ, GAB, CIV, XAF, COD, LSO, TZA, XGL]
-entities: [[amazon-globalstar-acquisition], [globalstar], [starlink], [amazon-web-services], [nigcomsat], [cran], [nasa-harvest], [catherine-nakalembe], [watra], [netumbo-nandi-ndaitwah], [orange], [orange-cote-divoire], [orange-sat], [eutelsat], [spacecoin], [communications-authority-of-kenya], [ncc], [starlink-airtel-d2c-partnership], [starlink-vodacom-leo-partnership], [airtel-africa], [vodacom], [google], [ggpen], [angosat-2], [angeo-1], [airbus], [conecta-angola]]
+places: [AGO, NGA, NAM, ZAF, KEN, UGA, SEN, RWA, MOZ, GAB, CIV, XAF, COD, LSO, TZA, XGL, MLI]
+entities: [[amazon-globalstar-acquisition], [globalstar], [starlink], [amazon-web-services], [nigcomsat], [cran], [nasa-harvest], [catherine-nakalembe], [watra], [netumbo-nandi-ndaitwah], [orange], [orange-cote-divoire], [orange-sat], [orange-mali], [intelsat], [eutelsat], [spacecoin], [communications-authority-of-kenya], [ncc], [starlink-airtel-d2c-partnership], [starlink-vodacom-leo-partnership], [airtel-africa], [vodacom], [google], [ggpen], [angosat-2], [angeo-1], [airbus], [conecta-angola]]
 lens: [sovereignty, colonialism]
 status: active
-last_reviewed: 2026-07-12
+last_reviewed: 2026-07-18
 sources: [[2026-04-14 Amazon's $9bn satellite deal set to benefit Africa], [2026-04-01 Nigeria satellite revenue soars to $2 billion], [2026-03-26 Starlink blocked from operating in Namibia], [2026-03-26 Has Satellite Become Africa's Most Critical Connectivity Infrastructure], [2026-04-13 WATRA rallies Africa for region's $216b digital economy], [2026-03-12 Western AI models 'fail spectacularly' in farms and forests abroad], [2026-02-13 Namibia gets  Chinese satellite ground station], [2026-01-22 Orange Côte d'Ivoire intros satellite broadband], [2026-02-05 Senegal embraces Starlink to connect the future], [2026-03-17-angola-launches-259-million-earth-observation-satellite-project], [2025-12-23-angola-launches-commercial-access-to-angosat-2], [2026-06-11-angola-referencia-africana-em-tecnologias-espaciais]]
 ---
 
@@ -131,9 +131,18 @@ data harvested from it.
   [[2025-12-23-angola-launches-commercial-access-to-angosat-2]],
   [[2026-06-11-angola-referencia-africana-em-tecnologias-espaciais]].
 
+- **[[MLI]] Mali — first 4G-over-satellite in Francophone West Africa (2025-05).** **[[orange-mali]]**
+  selected **[[intelsat]]** to deliver 3G/4G to hard-to-reach regions by satellite — described as "a
+  first in Francophone West Africa" for 4G-over-satellite, judged optimal given the country's size and
+  logistics; a later account credits it with reaching **~360,000** remote residents, directly
+  addressing Mali's rural connectivity gap (internet penetration ~35%). Satellite backhaul as a
+  coverage tool for a low-penetration Sahelian market. See [[MLI]], [[include.divides]],
+  [[infra.connect]], [[digital.rural]]. Source:
+  [[2025-05-07-techafricanews-orange-mali-intelsat-4g-satellite]].
+
 ## Places
 
-[[NGA]] · [[NAM]] · [[ZAF]] · [[KEN]] · [[UGA]] · [[SEN]] · [[RWA]] · [[MOZ]] · [[GAB]] · [[CIV]] · [[XAF]] · [[COD]] · [[LSO]] · [[TZA]] · [[XGL]]
+[[NGA]] · [[NAM]] · [[ZAF]] · [[KEN]] · [[UGA]] · [[SEN]] · [[RWA]] · [[MOZ]] · [[GAB]] · [[CIV]] · [[XAF]] · [[COD]] · [[LSO]] · [[TZA]] · [[XGL]] · [[MLI]]
 
 ## Related
 
@@ -155,4 +164,5 @@ data harvested from it.
 - [[2025-12-19 Why one of the year's biggest AI-for-development stories isn't actually about AI]]
 - [[2026-03-17-angola-launches-259-million-earth-observation-satellite-project]]
 - [[2025-12-23-angola-launches-commercial-access-to-angosat-2]]
+- [[2025-05-07-techafricanews-orange-mali-intelsat-4g-satellite]]
 - [[2026-06-11-angola-referencia-africana-em-tecnologias-espaciais]]

@@ -3,11 +3,11 @@ type: entity
 entity_type: organisation
 title: Alliance of Sahel States (AES)
 places: [XWA, NER, BFA, MLI]
-topics: [dpi.id, gov.regional, infra.cybersec, infra.store, dpi.govtech]
+topics: [dpi.id, gov.regional, infra.cybersec, infra.store, dpi.govtech, tech.industry]
 lens: [sovereignty, colonialism]
 status: active
-last_reviewed: 2026-07-16
-sources: [[2026-03-30 Focus on Sahel digital sovereignty gets clearer with Niger's new biometric ID card], [2026-02-02 Mali unveils modern Tier III data centre], [2026-01-22 Burkina Faso aims for digital sovereignty with infrastructure supervision center], [2025-11-10 Burkina Faso introduces new AES biometric ID system (CIB-AES)]]
+last_reviewed: 2026-07-18
+sources: [[2026-03-30 Focus on Sahel digital sovereignty gets clearer with Niger's new biometric ID card], [2026-02-02 Mali unveils modern Tier III data centre], [2026-01-22 Burkina Faso aims for digital sovereignty with infrastructure supervision center], [2025-11-10 Burkina Faso introduces new AES biometric ID system (CIB-AES)], [2026-06-02-afriktimes-aes-cib-aes-diaspora-pilot-bamako], [2026-06-25-businessinsider-mali-regains-sotelma-majority-stake]]
 ---
 
 # Alliance of Sahel States (AES)
@@ -59,6 +59,18 @@ dependence. See [[XWA]], [[gov.regional]], [[sovereignty]], [[colonialism]].
   [[2026-02-02 Mali opens Tier III data center in Bamako amid regional push to keep data at home]],
   [[2026-02-03 Mali Paves the Way for Digital Sovereign Tier III Data Centre Deployment]],
   [[2026-02-05 Government of Mali launches data center in Bamako]].
+- **CIB-AES cross-border diaspora enrolment, Bamako (2026-06-01).** Burkina Faso ran a pilot to
+  biometrically enrol **Burkinabè residents in Mali** using mobile kits for near-instant
+  production of the **[[cib-aes]]** and the AES passport, data relayed to central platforms in
+  Burkina Faso — the first cross-border AES ID enrolment, **hosted on Malian soil**, and a model
+  for consular/diaspora rollout and unified AES consular cards. See [[dpi.id]], [[MLI]], [[BFA]].
+  Source: [[2026-06-02-afriktimes-aes-cib-aes-diaspora-pilot-bamako]].
+- **Mali reclaims SOTELMA majority (2026-06) — economic-sovereignty pattern.** Mali raised its
+  state stake in **[[sotelma]]** from 49% to 56% (~$277m), cutting **[[maroc-telecom]]** to a
+  minority — cast by the transition government as economic sovereignty over strategic assets,
+  **mirroring AES asset-reclaim moves** in mining and energy. Deal:
+  [[sotelma-state-majority-2026]]. See [[tech.industry]], [[MLI]], [[sovereignty]]. Source:
+  [[2026-06-25-businessinsider-mali-regains-sotelma-majority-stake]].
 - **Burkina Faso Digital Infrastructure Supervision Center (2026-01).** Burkina Faso began building
   a **~$5.4m** supervision centre (9-month build, delivery ~Oct 2026) to centralise oversight of its
   national backbone, data centres and cyberspace — embodying a **"zero data abroad"** localisation
@@ -72,3 +84,5 @@ dependence. See [[XWA]], [[gov.regional]], [[sovereignty]], [[colonialism]].
 - [[2026-02-02 Mali unveils modern Tier III data centre]]
 - [[2026-01-22 Burkina Faso aims for digital sovereignty with infrastructure supervision center]]
 - [[2025-11-10 Burkina Faso introduces new AES biometric ID system (CIB-AES)]]
+- [[2026-06-02-afriktimes-aes-cib-aes-diaspora-pilot-bamako]]
+- [[2026-06-25-businessinsider-mali-regains-sotelma-majority-stake]]

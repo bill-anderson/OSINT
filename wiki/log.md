@@ -4708,3 +4708,53 @@ pre-existing **GAP-SDN-002** (Zain-Group page + DFS-report date verification rem
 **Teardown.** `new/` empty throughout (staged files git-mv'd straight to `raw/`, 17 in = 17 admitted +
 0 leads + 0 discards + 0 needs-clip). `new-queue/SDN/` reduced to `MANIFEST.md` husk — deleted (copy
 preserved in `new-queue/done/SDN/`). Committed.
+
+## 2026-07-18 — Batch ingest: MLI (Mali) — Phase-2 sweep, smallest pending folder
+
+**Scope.** Per `sweep/ingest-runbook.md`. Interruption recovery clean (`new/` empty, no split
+`new-queue`/`done` folder). Claimed **MLI** — the smallest pending folder (18 candidates; ledger `swept`).
+Copied folder → `new-queue/done/MLI/` (backup/review trail) before any move. **No flagged summaries** (all
+18 bodies full-text) → 0 needs-clip. All 18 admissible primary/first-hand reporting; promoted to `new/`,
+`ingested: 2026-07-18` stamped, then git-mv'd to `raw/` keeping staged hyphenated filenames.
+
+**Admitted 18 / leads 0 / discards 0 / needs-clip 0.** Dedup: manifest-flagged already-held items (Tier III
+DC, E-AES passport, Sept-2025 platforms, diaspora platform, AES passport, TerraPay-Wave, birth-registration)
+were excluded at sweep time; the 18 are net-additive. One URL-collision flag (IFC-Orange-Mali) proved a
+false positive — the URL is only a citation row inside the Data Landscapers data-centre dataset, not a held
+copy of the press-release event; admitted the IFC primary normally.
+
+**Entities created (10).** Companies: [[orange-mali]], [[intelsat]], [[sotelma]], [[maroc-telecom]].
+Government-bodies: [[apdp-mali]] (data-protection authority, Law 2013-015), [[agetic]] (ICT agency),
+[[anssi-mali]] (cyber agency, created 10 Jun 2026). Organisation: [[niyel]] (AI-governance advocacy). Deals:
+[[ifc-orange-mali-loan]] (€80m social loan), [[sotelma-state-majority-2026]] (state 49%→56%, ~$277m).
+**Entities updated (5).** [[ifc]] (+MLI place, Orange loan bullet), [[smart-africa]] (+MLI, MWC-2026
+cooperation), [[cib-aes]] (+MLI, Bamako diaspora-enrolment pilot), [[alliance-of-sahel-states]] (+diaspora
+pilot, SOTELMA reclaim as AES economic-sovereignty pattern), [[orange]] (+MLI, Orange Mali bullet).
+
+**Place hub.** [[MLI]] Recent developments expanded with the full 2025–2026 arc (14 new dated bullets,
+reverse-chron: Niyel AI framework, health portal, SOTELMA reclaim, Moov fibre/MIA, ANSSI, CIB-AES pilot,
+cybercrime chamber, Moov card, Smart Africa, justice e-services, AGETIC Intranet/.ml, cyber strategy, APDP
+Ségou, IFC loan, APDP files, Orange Money card, Intelsat satellite, TrésorPay); Active topics + Entities
+sections rewritten; topics frontmatter +gov.protect, infra.connect, tech.ai, tech.industry, finance.new,
+data.satellite, infra.energy, include.divides, dpi.mis, capacity.training.
+
+**Concept updates (net-new thematic only).** `gov.protect` (+MLI place/entity, APDP actively-enforcing-DPA
+bullet — partial GAP-003), `tech.ai` (+Niyel Francophone-WA framework bullet, +MLI/BFA/GIN/BEN/XWA places),
+`data.satellite` (+MLI Intelsat first-4G-over-satellite bullet, +orange-mali/intelsat entities),
+`infra.cybersec` (+MLI institutional-cyber-stack bullet, +anssi-mali/agetic entities). Country-level items in
+dpi.pay/dpi.govtech/infra.connect/dpi.id (Mali already active) held on hub + entity pages to avoid concept
+bloat.
+
+**Indexes.** entities-index (+10 rows: 4 Companies, 1 Organisation, 3 Government bodies, 2 Deals);
+topics-index (+MLI on gov.protect, data.satellite, include.divides, infra.energy, dpi.mis — already listed
+on the others); places-index MLI row topic summary refreshed. No intersection created — Mali's material is a
+single-country thematic narrative, correctly on the hub (not matrix-shaped).
+
+**Registers.** ISSUE-014 (Russia/Korea geopol slug) already open — the cyber-strategy "Russian
+cybercriminals" attribution flagged in-line, not re-filed. Minor ANSSI date nuance (strategy noted 5 Dec 2025
+vs report's "adopted February" 2026) recorded as not-a-contradiction, no file. No new gaps/issues/
+contradictions filed this batch. techgriot health-portal cites We Are Tech as primary (unavailable to fetch
+in batch ingest) — admitted as secondary reporting, noted on source + hub.
+
+**Teardown.** `new/` empty after ingest (18 in = 18 admitted). `new-queue/MLI/` reduced to `MANIFEST.md`
+husk — deleted (copy preserved in `new-queue/done/MLI/`). Committed.

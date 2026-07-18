@@ -2,12 +2,12 @@
 type: entity
 entity_type: organisation
 title: Smart Africa (Smart Africa Alliance)
-places: [XAF, RWA, GHA, DJI, GIN, MAR]
+places: [XAF, RWA, GHA, DJI, GIN, MAR, MLI]
 topics: [infra.connect, gov.regional, gov.standards, capacity.training, tech.ai, dpi.exchange, infra.cybersec, gov.policy, gov.protect]
 lens: [sovereignty, colonialism]
 status: active
-last_reviewed: 2026-07-16
-sources: [[2026-07-09 Smart Africa and AFNIC Partner to Strengthen Africa's Internet Infrastructure], [2026-05-28 Building the same road twice], [2026-05-28 Estonia backs Africa digital infrastructure], [2026-04-27 Smart Africa drives cross-border data interoperability through SADX Technical Mission], [2026-04-16 Smart Africa, RealTyme join forces for data sovereignty], [2026-04-03 Ghana approves $250M AI Hub & National AI Strategy], [2026-05-21 Pushing back from Big Tech Africa's hard road to AI sovereignty], [2026-03-16 New $137M initiative to enable digital service access for millions in three ECOWAS nations], [2025-06-18 Benin envisages mobile wallet launch in inclusive national digital ID push], [2025-01-29 Deadline extended for Benin digital government transformation tender], [2025-11-04 The Double Standard Why Are Internet Governance Rules Different for Africa], [2026-07-13 Djibouti Seeks ITU, Smart Africa Support for Telecoms and AI Development], [2024-07-02 Ghana develops its National Data Strategy with Smart Africa and Team Europe], [2025-11-13 Transform Africa Summit 2025 opens in Conakry, epicentre of digital cooperation in Africa], [2025-11-19 Transform Africa Summit 2025 (Conakry) - Simandou 2040 Pillar 3, TELEMO, SANIA-SADX and the closing wrap], [2025-09-09 Get to know The Republic of Guinea Home of Transform Africa Summit 2025], [2025-07-14 Smart Africa co-creates Africa's first Cross-Border Data Exchange Guidelines (Rabat, ADD-chaired CAITA)]]
+last_reviewed: 2026-07-18
+sources: [[2026-03-10-techafricanews-mali-smart-africa-mwc2026], [2026-07-09 Smart Africa and AFNIC Partner to Strengthen Africa's Internet Infrastructure], [2026-05-28 Building the same road twice], [2026-05-28 Estonia backs Africa digital infrastructure], [2026-04-27 Smart Africa drives cross-border data interoperability through SADX Technical Mission], [2026-04-16 Smart Africa, RealTyme join forces for data sovereignty], [2026-04-03 Ghana approves $250M AI Hub & National AI Strategy], [2026-05-21 Pushing back from Big Tech Africa's hard road to AI sovereignty], [2026-03-16 New $137M initiative to enable digital service access for millions in three ECOWAS nations], [2025-06-18 Benin envisages mobile wallet launch in inclusive national digital ID push], [2025-01-29 Deadline extended for Benin digital government transformation tender], [2025-11-04 The Double Standard Why Are Internet Governance Rules Different for Africa], [2026-07-13 Djibouti Seeks ITU, Smart Africa Support for Telecoms and AI Development], [2024-07-02 Ghana develops its National Data Strategy with Smart Africa and Team Europe], [2025-11-13 Transform Africa Summit 2025 opens in Conakry, epicentre of digital cooperation in Africa], [2025-11-19 Transform Africa Summit 2025 (Conakry) - Simandou 2040 Pillar 3, TELEMO, SANIA-SADX and the closing wrap], [2025-09-09 Get to know The Republic of Guinea Home of Transform Africa Summit 2025], [2025-07-14 Smart Africa co-creates Africa's first Cross-Border Data Exchange Guidelines (Rabat, ADD-chaired CAITA)]]
 ---
 
 # Smart Africa (Smart Africa Alliance)
@@ -101,6 +101,13 @@ listed as a "mentioned" body — hubbed here as it becomes the subject of a sour
   (Smart Africa's **Digital ID Blueprint** and cross-border trust-framework work also underpin Benin's
   national-ID and e-gov programmes.)
 
+- **Mali cooperation at MWC 2026 (2026-03-03).** [[gov.regional]] [[capacity.training]] On the
+  sidelines of MWC 2026 (Barcelona), Mali's digital minister Alhamdou Ag Ilyène met CEO Lacina
+  Koné to reaffirm a strengthened Smart Africa partnership — human-capital/skills development,
+  reinforcing fibre-optic interconnections with neighbours, and Mali possibly hosting the next
+  **Transform Africa Summit** — signalling Mali balancing AES-centric sovereignty with
+  continental cooperation. See [[MLI]], [[XWA]]. Source:
+  [[2026-03-10-techafricanews-mali-smart-africa-mwc2026]].
 - **Djibouti alignment sought (2026-07).** At WSIS 2026, CEO Lacina Koné met Djibouti's
   communications minister to discuss aligning **[[DJI]] Djibouti**'s national digital projects
   (the Djibouti Digital Foundation) and the **[[eardip]]** regional integration project with
@@ -115,6 +122,7 @@ listed as a "mentioned" body — hubbed here as it becomes the subject of a sour
 
 ## Sources
 
+- [[2026-03-10-techafricanews-mali-smart-africa-mwc2026]]
 - [[2026-07-09 Smart Africa and AFNIC Partner to Strengthen Africa's Internet Infrastructure]]
 - [[2026-05-28 Building the same road twice]]
 - [[2026-05-28 Estonia backs Africa digital infrastructure]]

@@ -2,8 +2,8 @@
 type: concept
 title: Data protection
 slug: gov.protect
-places: [MRT, COM, CIV, CMR, BWA, BDI, AGO, XAF, CAF, NGA, KEN, MWI, COD, ZAF, MUS, BEN, UGA, LBR, ZWE, ZMB, SEN, NAM, COG, SOM, MOZ, RWA, STP, TZA, XGL, DJI, CPV, DZA, EGY, SSD, SLE, SWZ, SYC, TCD, TGO, SDN]
-entities: [[afcfta], [cbn], [ndpc], [meta], [ndpc-meta-settlement], [microsoft], [g42], [african-union], [popia], [research-ict-africa], [trendai], [ncc], [bosun-tijani], [fccpc], [sa-digital-id-regulations], [eac], [id4africa], [world-bank], [visa], [safaricom], [onafriq], [visa-mpesa-onafriq-drc-stablecoin-pilot], [america-first-global-health-strategy], [us-kenya-health-framework], [odpc-kenya], [zimbabwe-us-health-mou], [africa-cdc], [zte], [hikvision], [huawei], [cran], [starlink], [zambia-us-health-mou], [us-department-of-state], [national-personal-data-protection-commission-congo], [somalia-ministry-communications-technology], [intic-mozambique], [malawi-data-protection-act-2024], [dial], [nimc], [nigeria-data-protection-act-2023], [inec], [digital-rights-lawyers-initiative], [consumer-federation-of-kenya], [kenya-data-marketplace], [eu-ai-act], [au-data-policy-framework], [digital-policy-alert], [tech-hive-advisory], [code-for-africa], [d4d-hub], [auda-nepad], [kictanet], [pdpc-tanzania], [data-protection-act-2022-eswatini], [esccom], [apc], [smart-africa], [sadc], [data-protection-act-2023-seychelles], [information-commission-seychelles], [boukar-michel], [ipdcp-togo], [haac-togo], [haac-ipdcp-accord]]
+places: [MRT, COM, CIV, CMR, BWA, BDI, AGO, XAF, CAF, NGA, KEN, MWI, COD, ZAF, MUS, BEN, UGA, LBR, ZWE, ZMB, SEN, NAM, COG, SOM, MOZ, RWA, STP, TZA, XGL, DJI, CPV, DZA, EGY, SSD, SLE, SWZ, SYC, TCD, TGO, SDN, MLI]
+entities: [[afcfta], [cbn], [ndpc], [meta], [ndpc-meta-settlement], [microsoft], [g42], [african-union], [popia], [research-ict-africa], [trendai], [ncc], [bosun-tijani], [fccpc], [sa-digital-id-regulations], [eac], [id4africa], [world-bank], [visa], [safaricom], [onafriq], [visa-mpesa-onafriq-drc-stablecoin-pilot], [america-first-global-health-strategy], [us-kenya-health-framework], [odpc-kenya], [zimbabwe-us-health-mou], [africa-cdc], [zte], [hikvision], [huawei], [cran], [starlink], [zambia-us-health-mou], [us-department-of-state], [national-personal-data-protection-commission-congo], [somalia-ministry-communications-technology], [intic-mozambique], [malawi-data-protection-act-2024], [dial], [nimc], [nigeria-data-protection-act-2023], [inec], [digital-rights-lawyers-initiative], [consumer-federation-of-kenya], [kenya-data-marketplace], [eu-ai-act], [au-data-policy-framework], [digital-policy-alert], [tech-hive-advisory], [code-for-africa], [d4d-hub], [auda-nepad], [kictanet], [pdpc-tanzania], [data-protection-act-2022-eswatini], [esccom], [apc], [smart-africa], [sadc], [data-protection-act-2023-seychelles], [information-commission-seychelles], [boukar-michel], [ipdcp-togo], [haac-togo], [haac-ipdcp-accord], [apdp-mali]]
 lens: [sovereignty, colonialism]
 status: active
 last_reviewed: 2026-07-18
@@ -317,6 +317,14 @@ Personal-data regimes across African jurisdictions — and the friction their
   constitutional-privacy grounds — a clean transparency-vs-privacy reversal. → [[angola--gov-protect]].
   Sources: [[2026-06-17-nova-lei-de-proteccao-de-dados-proximo-ano-legislativo]],
   [[2026-06-25-parlamento-rejeita-proposta-proteccao-de-dados-pessoais]].
+- **[[MLI]] Mali — an actively enforcing DPA (2013 law), newly captured.** Mali's **[[apdp-mali|APDP]]**
+  (Autorité de Protection des Données à caractère Personnel), an independent authority under **Law No.
+  2013-015 of 21 May 2013**, is an *enforcing* regulator: in 2025 it fined a Bamako clinic **5m FCFA**
+  for obstructing a verification mission, issued **100+ formal notices**, reviewed ~2,000 declaratory
+  files (incl. a mandatory-lease-declaration decree), and opened a first **regional antenna in Ségou** —
+  DPA territorial expansion in a junta-led AES state (contrast CAR's dormant regime). Fills part of the
+  H1-2026 DPA-coverage gap (GAP-003). See [[gov.legislate]], [[dpi.registry]], [[MLI]]. Sources:
+  [[2025-10-07-apanews-apdp-examine-2000-dossiers-baux]], [[2025-12-05-lessor-apdp-segou-antenne]].
 - **[[BWA]] Botswana — six years of a law that never took effect.** The 2018 Data Protection Act sat
   un-commenced (its date pushed back by ministerial orders) until the **[[botswana-data-protection-act-2024]]**
   (effective 14 Jan 2025) finally switched the regime on and empowered the Information & Data Protection
@@ -379,7 +387,7 @@ Personal-data regimes across African jurisdictions — and the friction their
 
 [[AGO]] · [[BWA]] · [[XAF]] · [[CAF]] · [[NGA]] · [[KEN]] · [[MWI]] · [[COD]] · [[ZAF]] · [[MUS]] · [[BEN]] · [[UGA]] · [[LBR]] ·
 [[ZWE]] · [[ZMB]] · [[SEN]] · [[NAM]] · [[COG]] · [[SOM]] · [[MOZ]] · [[RWA]] · [[STP]] · [[SSD]] · [[SLE]] · [[SWZ]] ·
-[[SYC]] · [[TCD]] · [[TGO]] · [[XGL]] · [[GNB]]
+[[SYC]] · [[TCD]] · [[TGO]] · [[XGL]] · [[GNB]] · [[MLI]]
 
 ## Related
 
@@ -438,3 +446,5 @@ Personal-data regimes across African jurisdictions — and the friction their
 - [[2023-12-21 ISR - WURI Phase 2 Seq 7 (P169594)]]
 - [[2026-06-17-nova-lei-de-proteccao-de-dados-proximo-ano-legislativo]]
 - [[2026-06-25-parlamento-rejeita-proposta-proteccao-de-dados-pessoais]]
+- [[2025-10-07-apanews-apdp-examine-2000-dossiers-baux]]
+- [[2025-12-05-lessor-apdp-segou-antenne]]
