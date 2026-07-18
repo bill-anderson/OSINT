@@ -5364,3 +5364,17 @@ Via Africa + transfrontier fibre + Plateau shared-duct + Moov A2P exclusivity. F
 outlets); French Tech education pact; Yango continental HQ; VivaTech/African Digital Week; EMIS/SODECI/
 health-MIS; 2026 budget CFA 83.275bn (+37%); digital 6%→15% GDP by 2030. All 39 moved new→raw.
 **new/ now empty of sources — 187 admitted, 0 pruned.**
+
+### 2026-07-18 · ingest CIV · BATCH COMPLETE
+**187 sources admitted, 0 leads, 0 discards, 0 pruned.** From 187 staged (84 newspaper + 103 trade-journal,
+window 2025-01-01→2026-07-17) — CIV's first national-press provenance. **26 new entities** + **7 new
+intersections** ([[civ--dpi-id]], [[civ--tech-ai]], [[civ--infra-store]], [[civ--infra-connect]],
+[[civ--dpi-pay]], [[civ--tech-innovate]] + expanded [[civ--dpi-govtech]]). CIV hub fully rewritten.
+**Headline: US EXIM anchors Ivorian "digital sovereignty"** ($66m→$170m National Data Centre via Cybastion,
+first EXIM DC in SSA) — **adds geopol.usa + geopol.china to CIV** (hub had geopol.eu only). Provisional
+re-datings/corrections (tier-2, digest): e-Justice arc (18 Jun 2025 = decree not launch; 2→39 courts);
+data-protection/ARTCI now dynamic (new Council + CERTINUM); AI strategy costed (912bn). **Counter-current
+recorded**: on-time birth registration falling 66.8%→55.4%. **Minor unresolved date discrepancy**:
+Yamoussoukro seminar 8 Apr (LI) vs 12 Apr (hub) — noted inline, not a formal contradiction. Indexes updated
+(26 entities; CIV places-index row). MANIFEST → new-queue/done/CIV/. Ingested in 9 thematic chunks. All 187
+source links lint clean (0 unresolved, 0 orphans).

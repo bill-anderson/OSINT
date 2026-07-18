@@ -6,6 +6,12 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 
 | Entity | Places | Topics | Page |
 |---|---|---|---|
+| Beyon Connect | BHR, CIV | dpi.id, dpi.govtech | [[beyon-connect]] |
+| Artefact | CIV, FRA | tech.ai, tech.industry | [[artefact]] |
+| Cloudoor (Door) | CIV, SEN | infra.store | [[cloudoor]] |
+| MTN Côte d'Ivoire | CIV | infra.connect, dpi.pay | [[mtn-cote-divoire]] |
+| Green-Pay | CIV | dpi.pay, finance.new | [[green-pay]] |
+| Djogana Pay | CIV | dpi.pay | [[djogana-pay]] |
 | CAMTEL (Cameroon Telecommunications) | CMR | infra.connect, infra.store, dpi.pay | [[camtel]] |
 | MTN Cameroon | CMR | infra.connect, dpi.pay, tech.ai | [[mtn-cameroon]] |
 | Orange Cameroun | CMR | infra.connect, dpi.pay, capacity.training | [[orange-cameroun]] |
@@ -224,6 +230,8 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 
 | Entity | Places | Topics | Page |
 |---|---|---|---|
+| EXIM Bank (Export-Import Bank of the USA) | XGL, CIV | finance.new, geopol.usa, infra.store | [[exim-bank-usa]] |
+| VITIB (Grand-Bassam technology park) | CIV | infra.store, tech.industry | [[vitib]] |
 | ARTAC (Central African telecom regulators) | XCA | gov.regional, gov.standards | [[artac]] |
 | Université de Yaoundé II | CMR | capacity.research, gov.policy | [[university-yaounde-ii]] |
 | European Investment Bank (EIB) | MRT, XGL | infra.connect, infra.store, finance.new, geopol.eu | [[eib]] |
@@ -390,6 +398,11 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 
 | Entity | Places | Topics | Page |
 |---|---|---|---|
+| ANSSI (National Info-Systems Security Agency, CIV) | CIV | infra.cybersec, gov.legislate | [[anssi-cote-divoire]] |
+| CAIDP (Access to Public-Interest Information Commission, CIV) | CIV | data.open, gov.policy | [[caidp]] |
+| MTND (Ministry of Digital Transition, CIV) | CIV | gov.policy, tech.ai | [[ministry-of-digital-transition-cote-divoire]] |
+| ANSUT (Universal Telecom Service Agency, CIV) | CIV | include.access, infra.connect, digital.rural | [[ansut]] |
+| CDC-CI (Caisse des Dépôts et Consignations, CIV) | CIV | finance.new, dpi.pay | [[cdc-ci]] |
 | ELECAM (Elections Cameroon) | CMR | dpi.id, dpi.registry | [[elecam]] |
 | ART / TRB (Cameroon telecom regulator) | CMR | gov.legislate, gov.standards | [[art-cameroon]] |
 | CENADI (National Centre for Computer Development) | CMR | infra.store | [[cenadi]] |
@@ -675,6 +688,10 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 
 | Entity | Places | Topics | Page |
 |---|---|---|---|
+| PARAE (CIV AI/data support programme) | CIV | tech.ai, finance.new, infra.store | [[parae]] |
+| National Data Centre (Côte d'Ivoire) | CIV | infra.store, geopol.usa | [[national-data-centre-civ]] |
+| Digital City (Côte d'Ivoire) | CIV | infra.store, dpi.govtech | [[digital-city-civ]] |
+| Ivoire Tech Forum | CIV | tech.innovate, finance.new | [[ivoire-tech-forum]] |
 | CONIA (National AI Consultations, Cameroon) | CMR | tech.ai, gov.policy | [[conia]] |
 | Zamengoe Data Centre (CAMTEL) | CMR | infra.store | [[zamengoe-data-centre]] |
 | DIGI-CoR (local-government digitisation, Cameroon) | CMR | digital.localgov, dpi.govtech | [[digi-cor]] |
@@ -1089,6 +1106,13 @@ Databases, registries, datasets, tools and portals consulted repeatedly (entity_
 
 | Resource | Places | Topics | Page |
 |---|---|---|---|
+| EMY 101 (CIV government AI assistant) | CIV | tech.ai, dpi.govtech | [[emy-101]] |
+| GUCE-CI (Single Window for Foreign Trade) | CIV | dpi.govtech, dpi.exchange | [[guce-ci]] |
+| CERTINUM (ARTCI data-protection compliance platform) | CIV | gov.protect, gov.standards | [[certinum]] |
+| CIVIX (Côte d'Ivoire Internet Exchange Point) | CIV | infra.connect, gov.standards | [[civix]] |
+| Africa-BB-Maps (CIV broadband infrastructure map) | CIV | infra.connect, data.open | [[africa-bb-maps]] |
+| Géoportail du Grand Abidjan | CIV | data.satellite, dpi.registry, digital.localgov | [[geoportail-grand-abidjan]] |
+| TrésorPay–TrésorMoney (CIV Treasury payment rail) | CIV | dpi.pay, dpi.govtech | [[tresorpay-tresormoney]] |
 | IDCAM (Cameroon CNI pre-enrolment platform) | CMR | dpi.id, dpi.govtech | [[idcam]] |
 | CAMCIS (Cameroon Customs Information System) | CMR | dpi.govtech, dpi.registry | [[camcis]] |
 | COLEPS (Cameroon Online E-Procurement System) | CMR, KOR | dpi.govtech | [[coleps]] |
@@ -1154,6 +1178,8 @@ about or from one becomes a normal source that cites it.
 
 | Instrument | Places | Topics | Page |
 |---|---|---|---|
+| Côte d'Ivoire National AI Strategy | CIV | tech.ai, gov.policy | [[civ-ai-strategy]] |
+| Côte d'Ivoire National Data Governance Strategy 2030 | CIV | data.open, gov.policy | [[civ-data-governance-strategy]] |
 | Cameroon Personal Data Protection Law (Law 2024/017) | CMR | gov.protect, gov.legislate | [[cameroon-data-protection-law-2024]] |
 | Cameroon Cybercrime & Cybersecurity Law (Law 2010/012) | CMR | infra.cybersec, gov.legislate | [[cameroon-cybercrime-law-2010]] |
 | PSNSN (Cameroon Digital Health Plan 2026–2030) | CMR | dpi.mis, gov.policy | [[psnsn-cameroon]] |
