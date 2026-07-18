@@ -26,6 +26,12 @@ mobile money by scanning a **GIMACPAY QR code**.
   late-October 2025 pilot digitised social and tax payments ahead of full January 2026 deployment.
 - **Context figures (end-2024, per Ministry of Economy):** 4.5m mobile-money accounts of which only
   1.6m active; 368.3m transactions in 2024 worth CFA4,087bn (up from CFA3,487bn in 2023).
+- **TaxiGab spearhead (2026-02).** Digital payments deployed across the **TaxiGab** transport network (28 Feb
+  2026) as the flagship use case; **Libreville municipality** backed the deployment (Jul 2026). See
+  [[gabon--dpi-pay]]. Sources: [[2026-03-01-gabon-madigipaie-taxigab]], [[2026-03-03-gabon-lunion-madigipaie-taxigab]],
+  [[2026-07-07-gabon-lunion-madigipaie-libreville]].
+- **Adoption friction.** Underlying **GimacPay** cross-border transfers drew complaints (undelivered CEMAC
+  transfers, slow redress) — a critical adoption signal. Source: [[2026-06-28-gabon-lunion-gimacpay-dysfunction]].
 
 Sits on the payments side of Gabon's PFM stack alongside [[sigfip-gabon]] (treasury/PFM) and
 [[digitax-gabon]] (revenue).

@@ -5829,3 +5829,9 @@ digitalisation; ID Day 2025 milestone. Partially resolves GAP-GAB-001 (DP author
 IKA Technology, presented to Oligui Nguema Feb 2026). e-Gov legal framework (ordinance JO 7 Sept 2025, first legal basis);
 5e Copil bilan (Feb 2026, Min. Doumba); ANINF-World Bank e-Gabon closure review (Jun 2026); ANINF first provincial office
 Franceville (subnational reach); eGabon-SIS health MIS equipment; sub-regional digital-reference framing.
+
+## 2026-07-18 — ingest(GAB) chunk 4/6: Payments & fintech
+7 sources admitted. New intersection `gabon--dpi-pay`. Updated madigipaie-gabon (TaxiGab spearhead 28 Feb 2026,
+Libreville municipality backing Jul 2026, GimacPay dysfunction critical adoption signal) and gabon-visa-partnership-deal
+(public-services follow-up 18 Jul 2025, Visa VP Ismahill Diaby × VP Barro Chambrier — resolves GAP-GAB-003 Visa element).
+GIMAC interoperability vision (Jun 2025). GimacPay cross-border malfunction complaints = rare critical payments coverage.
