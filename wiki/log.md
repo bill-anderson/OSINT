@@ -6429,3 +6429,13 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
   (re-linked to the connectivity intersection).
 - Dedup: Direct-to-Cell FCC notice (May) + actual Sadabe trial (Jul) kept as distinct events (manifest
   notes 7 same-event trial twins already dropped at sweep).
+
+## 2026-07-18 — ingest(MDG) chunk 4/6: Payments & digital finance
+
+- **4 sources admitted** (0 leads, 0 discards).
+- **Intersection created:** [[madagascar--dpi-pay]] — Visa landscape study (MVola 100%/73%, 17% banked,
+  81% cash); eAriary CBDC vendor (eCurrency DSC3/PayLogic, BFM sole issuer); AXIAN Digibank & Fintech
+  (MVola/Mixx → full digital bank); Airtel Money-Baobab Mbanking integration.
+- **Entities created:** [[ecurrency-mint]] (company — CBDC tech), [[baobab-bank]] (company).
+- **Entities updated:** [[e-ariary]] (eCurrency DSC3 tech partner), [[airtel-madagascar]] (Baobab bullet).
+- Note: 1 pr-wire (eCurrency/eAriary — vendor announcement).

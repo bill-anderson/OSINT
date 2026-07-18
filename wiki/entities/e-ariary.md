@@ -22,5 +22,13 @@ everyday use — merchant payments, transport fares, salaries, social transfers 
 to **complement, not replace, mobile money** ([[mvola]]). Trial participants include commercial banks,
 microfinance institutions, state utility Jirama, market vendors, the Treasury and the tax administration.
 
+## Technology partner (2025-10)
+
+**[[ecurrency-mint|eCurrency Mint]]**'s **DSC3** platform (with **PayLogic SA**) was selected as the
+technology for the eAriary pilot — a **post-quantum digital bearer instrument** integrating into the
+existing financial ecosystem, with **BFM as sole issuer** and distribution via banks, e-money providers,
+MFIs and fintechs. See [[madagascar--dpi-pay]]. Source:
+[[2025-10-29-ecurrency-dsc3-eariary-cbdc-partner-prnewswire]].
+
 ## Links
-Place: [[MDG]] · Topics: [[dpi.pay]] · Entities: [[mvola]]
+Place: [[MDG]] · Topics: [[dpi.pay]] · Entities: [[mvola]] · [[ecurrency-mint]] · [[madagascar--dpi-pay]]
