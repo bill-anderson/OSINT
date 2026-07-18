@@ -5779,3 +5779,10 @@ safaricom-ethiopia-fayda-jv (fingerprint/face/iris; 46.5m; Ethio Telecom = only 
 remote accounts + Mastercard virtual card). Updated fayda-ethiopia-national-id (utility-first: banking mandate 1 Jan 2025
 Addis→nationwide 1 Jan 2026/all linked 31 Dec 2026, doc-auth 9.1m, passport integration) and ethiopia-digital-id-inclusion-project
 (Makatet refugee-inclusion framework, ~190k refugee reg/170k IDs/200k host, UNHCR, Kojak off-grid scanners; 1.1m refugees/2m IDPs).
+
+## 2026-07-18 — ingest(ETH) chunk 3/5: Payments & fintech
+4 sources admitted, 1 pruned (relevant-duplicate). Updated ethiopia-ndps (2026-07 policy→execution, MoF/NBE/EthSwitch
+unified framework, EthioPay) and ethiopia--dpi-pay (M-PESA LeHulum telco-agnostic wallet 2025-12; EBA 2,000 biometric
+kits/31 banks/$17m of 6,000 planned; Ethio Telecom 10% IPO via Telebirr deadline). PRUNED per lint #7:
+2025-12-11-ethiopia-banks-harmonize (biometricupdate secondary) — its full payload (NBE directive, 1 Dec 2025–30 Mar 2026
+window, 2,000 kits, DE2030) is already merged into held primary raw/2025-12-10 NBE (nbe.gov.et); kept primary, discarded copy.

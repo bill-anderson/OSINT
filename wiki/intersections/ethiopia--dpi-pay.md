@@ -37,6 +37,17 @@ interoperability, rather than licensing, into the growth lever.
   [[2026-02-02 Safaricom Ethiopia Surpasses 12 Million Users as M-PESA Adoption Grows]],
   [[2026-01-30 Inside Ethio Telecom's bold TechCo transformation]],
   [[2026-01-27 Digital Ethiopia 2030 Charting a Sovereign Path to Prosperity]].
+- **M-PESA LeHulum — telco-agnostic wallet (2025-12).** M-PESA launched an in-house **telco-agnostic**
+  platform working with a SIM from **any network** (removing network lock-in): register with any number, verify
+  via **[[fayda-ethiopia-national-id|Fayda]]**, then transact (P2P, merchants, bills, airtime, QR, short-term
+  loans; bank/wallet transfers via **[[ethswitch]]**). M-PESA went live in Ethiopia Aug 2023. Source:
+  [[2025-12-02-mpesa-lehulum-telco-agnostic-platform-connectingafrica]].
+- **Banking-mandate rails.** To back the Fayda banking mandate, the **Ethiopian Bankers Association distributed
+  2,000 biometric enrolment kits to 31 banks** (of 6,000 planned, ~**$17m**; 4,000 under a re-issued tender),
+  each a portable face/fingerprint/iris kit (2025-11). The **[[ethio-telecom|Ethio Telecom]] 10% IPO** (via
+  [[telebirr]]) extended its offer deadline to 14 Feb (2025-01). Sources:
+  [[2025-11-11-ethiopia-banks-receive-biometric-kits-fayda-biometricupdate]],
+  [[2025-01-11-ethio-telecom-extends-public-offering-deadline-reporter]].
 
 ## Links
 
