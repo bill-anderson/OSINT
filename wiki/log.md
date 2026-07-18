@@ -5216,3 +5216,17 @@ leads"; ST Digital is the infra partner). Rewrote [[snia-cameroon]] with the **7
 intersection **[[cameroon--tech-ai]]** (policy chain + societal contestation: CENC bishops, Oct-2025
 campaign, Camrail, SME framing). Added CMR index line to [[tech.ai]] concept. Provisional re-dating is a
 tier-2 action (digest). All 16 moved new→raw. CMR hub roll-up deferred to finalize.
+
+### 2026-07-18 · ingest CMR · chunk 3/8 — Infrastructure sovereignty & connectivity
+**34 sources admitted.** New entities: [[camtel]] (now hubbed — market split Camtel 2.67%/Orange 50.08%/
+MTN 47.2%, wholesale-profitable gatekeeper), [[art-cameroon]] (ART/TRB, **TRB=ART**, fines + QoS +
+2024 Observatory 18% growth), [[cenadi]] (269-page DC study — damning base), [[zamengoe-data-centre]]
+(CAMTEL, "largest in C.Africa/Tier III" **unverified**), [[artac]] (Central African **data-residency**
+position), [[anthony-same]] (person, ST Digital founder), [[innovendi-data-technologies]],
+[[avanti-communications]]. Updated [[st-digital]] (founder + infra-partner-not-author correction),
+[[china-eximbank]] (**Phase IV fibre ~$195m / decree 6 Mar 2026**), [[ethio-telecom]] (CAMTEL MSA),
+[[beac]] (Zamengoe hosting interest). New intersections [[cameroon--infra-connect]] +
+[[cameroon--infra-store]]. **CAMTEL/CBC figures reconciled** (44.884bn FCFA phase-1 syndicated vs $81.2m
+facility — tranche-vs-total, both kept dated; not a contradiction — MANIFEST Flag 4). **ARTAC vs CAMTEL-AWS
+treated as policy-tension analysis on the infra-store intersection, not a contradiction** (Flag 14).
+Filed **ISSUE-015** (unverified Socadel/Eneo rename — held as Eneo). All 34 moved new→raw.

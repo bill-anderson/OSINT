@@ -6,8 +6,8 @@ places: [XCA, CMR, CAF, TCD, COG, GNQ, GAB]
 topics: [dpi.pay, gov.regional]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-12
-sources: [[2026-07-11 BEAC joins PAPSS and accelerates cross-border payments integration in Central Africa], [2025-12-11-gabon-madigipaie-digital-payments-launch]]
+last_reviewed: 2026-07-18
+sources: [[2026-07-11 BEAC joins PAPSS and accelerates cross-border payments integration in Central Africa], [2025-12-11-gabon-madigipaie-digital-payments-launch], [2025-12-17-beac-national-director-visits-camtel-data-center-techreviewafrica], [2026-07-09-beac-joins-papss-cross-border-payments-cemac-techafricanews]]
 ---
 
 # BEAC (Banque des États de l'Afrique Centrale)
@@ -45,6 +45,11 @@ payment infrastructure.
   central-bank intervention against national dpi.pay taxation. Sources:
   [[2026-07-10-beac-joins-papss-cemac-banks-agenceecofin]], [[2026-03-11-beac-mobile-money-taxation-centrafriqueinfos]].
 
+- **Eyeing sovereign hosting at Zamengoe (Dec 2025).** The BEAC National Director inspected CAMTEL's
+  **[[zamengoe-data-centre]]** with a view to hosting — potentially siting six-state CEMAC data on a
+  Cameroonian sovereign facility. See [[cameroon--infra-store]], [[infra.store]]. Source:
+  [[2025-12-17-beac-national-director-visits-camtel-data-center-techreviewafrica]].
+
 ## Related
 
-- [[papss]] · [[afreximbank]] · [[afcfta]] · [[madigipaie-gabon]] · [[cardip]] · [[XCA]]
+- [[papss]] · [[afreximbank]] · [[afcfta]] · [[madigipaie-gabon]] · [[zamengoe-data-centre]] · [[cardip]] · [[XCA]]

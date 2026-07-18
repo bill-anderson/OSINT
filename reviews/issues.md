@@ -208,3 +208,13 @@ removes the item here. A short `issues.md` means you're caught up.
   **`geopol.russia`** now (four countries, load-bearing), and consider either **`geopol.uk`**/**`geopol.korea`**
   or a general **`geopol.other`** + entity-carried convention for the long tail of bilaterals — a cleaner
   fix than minting a slug per partner state. Still the human's call; CC continues tagging around it.
+
+- **ISSUE-015 · Unverified national-utility rename "Socadel (formerly Eneo)" — record or correct?**
+  The staged smart-meters item ([[2026-05-29-rollout-20000-smart-meters-ami-world-bank-wearetech]],
+  We Are Tech Africa) calls Cameroon's national electricity company **"Socadel (formerly Eneo)."** The
+  wiki carries **Eneo**, and **no other staged CMR source mentions Socadel** — so this is a single-source
+  claim that is either a real (undated) rename or an outlet error. Per the currency-honesty invariant CC
+  has **not** recorded the rename: the smart-meter development and `cameroon--infra-store` name the utility
+  as Eneo, with the Socadel claim flagged in-text and no `socadel` entity created. *Recommend:* leave as
+  Eneo pending a second source; if the rename is confirmed, record it with an effective date and add a
+  redirect note on the Eneo entity. *Decision:* (awaiting). (Surfaced ingest CMR chunk 3, 2026-07-18.)

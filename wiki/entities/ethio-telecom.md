@@ -2,11 +2,11 @@
 type: entity
 entity_type: company
 title: Ethio Telecom
-places: [ETH]
+places: [ETH, CMR]
 topics: [infra.connect, dpi.pay, tech.industry, tech.ai, infra.store]
 status: active
-last_reviewed: 2026-07-16
-sources: [[2026-07-15 Ethio Telecom, Huawei expand digital push], [2026-02-10 Ethio telecom, Djibouti Telecom, Sudatel Seal Binding Deal on Cross-Border Fiber Network], [2026-01-30 Inside Ethio Telecom's bold TechCo transformation], [2026-01-29 Ethio Telecom, Somcable talk cross-border collaboration], [2026-01-07 Why Ethiopia, Somalia and Djibouti are starting to matter in digital Africa], [2025-12-04 Is it a bird Is it plane No, Jim, it's an African mobile operator, but not as we know it 9], [2025-08-21 Ethio Telecom expands 4G capacity with Huawei], [2024-09-24 Ethio Telecom pursues Shandong Hi-Speed hyperscale data-centre partnership]]
+last_reviewed: 2026-07-18
+sources: [[2026-07-15 Ethio Telecom, Huawei expand digital push], [2026-02-10 Ethio telecom, Djibouti Telecom, Sudatel Seal Binding Deal on Cross-Border Fiber Network], [2026-01-30 Inside Ethio Telecom's bold TechCo transformation], [2026-01-29 Ethio Telecom, Somcable talk cross-border collaboration], [2026-01-07 Why Ethiopia, Somalia and Djibouti are starting to matter in digital Africa], [2025-12-04 Is it a bird Is it plane No, Jim, it's an African mobile operator, but not as we know it 9], [2025-08-21 Ethio Telecom expands 4G capacity with Huawei], [2024-09-24 Ethio Telecom pursues Shandong Hi-Speed hyperscale data-centre partnership], [2025-12-05-ethio-telecom-camtel-master-service-agreement-telecomreviewafrica], [2025-12-16-ethio-telecom-team-concludes-strategic-visit-camtel-telecomreviewafrica]]
 ---
 
 # Ethio Telecom
@@ -53,6 +53,14 @@ than a pure connectivity operator, anchoring the [[telebirr]] platform and align
   See [[gov.regional]], [[finance.mou]]. Source:
   [[2026-01-29 Ethio Telecom, Somcable talk cross-border collaboration]].
 
+- **Cameroon: CAMTEL Master Service Agreement (4 Dec 2025).** Signed an MSA with **[[camtel]]** as a
+  South–South technology partner — four workstreams: **Blue Money** fintech, a **Sovereign Government
+  Cloud** architecture, 4G/5G, and digital culture — framed "African solutions to African problems" (a
+  Dec-2025 execution visit followed). Ethio Telecom exporting its incumbent-TechCo playbook to a peer
+  state, an alternative to Western/Chinese vendor substitution. See [[camtel]], [[cameroon--infra-store]],
+  [[dpi.pay]]. Sources:
+  [[2025-12-05-ethio-telecom-camtel-master-service-agreement-telecomreviewafrica]],
+  [[2025-12-16-ethio-telecom-team-concludes-strategic-visit-camtel-telecomreviewafrica]].
 - **Government-incumbent category (Russell Southwood, 2025-12-04).** Southwood's
   MNO state-of-market classes Ethio Telecom among the surviving **government-owned
   incumbents** — a distinct segment from the pan-African "power players" and the
