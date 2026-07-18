@@ -5396,3 +5396,9 @@ and the Code **invoked as a repression instrument** (4-tier document classificat
 [[rgph2-drc]] (census, first since 1984; enumeration Jul 2027), [[sisag-drc]] (govt MIS + Kibassa's
 2035 sovereignty doctrine; $100bn-flows claim flagged unsourced), [[access-to-information-bill-drc]]
 (recevable 27 Mar 2026). All 8 moved new→raw.
+
+### 2026-07-18 · ingest COD · chunk 3/8 — Conflict outages & shutdowns
+**4 sources admitted.** New intersection [[drc--infra-connect]] (holds all COD connectivity). **AFC/M23 war
+as connectivity-destroyer**, mobile money the first casualty: nationwide X/TikTok restriction (Feb 2025,
+first shutdown item); Walikale (generator-fuel mechanism); Rutshuru/Masisi month-long blackout;
+Rubaya coltan-hub shelling. All 4 moved new→raw.
