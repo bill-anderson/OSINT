@@ -6369,3 +6369,29 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
   270,000 jobs by 2030; parliamentary progress review).
 - Verification note: the Nexus $1.2bn/500MW/TAQA/Nvidia detail was confirmed against the connectingafrica
   source body (not asserted from the sweep manifest).
+
+## 2026-07-18 — ingest(MAR) chunk 7/7 + finalize: Regional cooperation & open government
+
+- **4 sources admitted** (0 leads, 1 discard-as-duplicate).
+- **Intersection created:** [[morocco--gov-regional]] — African Open Government Conference (Rabat);
+  Morocco-Ghana Statement of Intent; Morocco-Gabon digital-skills; Morocco-DCO engagement (Geneva).
+- Dedup (lint #7): pruned **2026-05-14-techafricanews** as a relevant-duplicate of 2026-05-07 (same
+  Open-Government forum, no new in-scope fact); kept the earlier techreviewafrica report.
+- **Finalize:**
+  - [[MAR|Morocco hub]] refreshed — sweep-batch summary block; new topics (dpi.pay/infra.connect/
+    gov.regional/data.open/finance.mou/tech.innovate/dpi.mis); Entities + 6 intersections;
+    last_reviewed → 2026-07-18.
+  - **entities-index.md** — 11 new MAR entities (Companies 4, Government bodies 3, Initiatives 3, Deals 1).
+  - **places-index.md** — MAR row: 6 intersection cross-links.
+  - **Lint:** all 44 MAR sources non-orphan; zero dead links across created/edited pages.
+  - **Teardown:** `new-queue/MAR` → `new-queue/done/MAR`; `new/MANIFEST.md` drained; `new/` empty.
+
+### MAR ingest total (chunks 1-7): **44 sources admitted, 0 leads, 1 duplicate-pruned, 0 needs-clip**
+- Entities created: 11 (cndp-morocco, jazari-institutes, nexus-ai-factory, nexus-core-systems, inwi,
+  anrt-morocco, nokia, vodafone, dgssi-morocco, morocco-fintech-center, gitex-africa). Intersections
+  created: morocco--tech-ai, morocco--infra-store, morocco--infra-connect, morocco--infra-cybersec,
+  morocco--gov-regional; updated: morocco--dpi-id.
+- Date-prefix fix: 2026-01-09 AI-bill → 2025-01-09 (true published date). Verification: Nexus AI Factory
+  $1.2bn/500MW/TAQA/Nvidia confirmed from source body, not the manifest.
+- Dedup: CNIE-renewal + Idarati-X.0 + biometric-passport twins kept as complementary; 1 open-gov twin
+  pruned. techreviewafrica items flagged pr-wire (admissible, dated).

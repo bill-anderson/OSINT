@@ -6,6 +6,10 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 
 | Entity | Places | Topics | Page |
 |---|---|---|---|
+| Inwi | MAR | infra.connect, infra.store | [[inwi]] |
+| Nexus Core Systems | MAR | infra.store, tech.ai | [[nexus-core-systems]] |
+| Nokia | XGL, MAR | infra.connect, tech.industry | [[nokia]] |
+| Vodafone | XGL, MAR | infra.connect, dpi.govtech | [[vodafone]] |
 | Convalt Energy | XGL, LSO | infra.energy, infra.store, tech.ai | [[convalt-energy]] |
 | T-Connect Lesotho | LSO | infra.connect, data.satellite | [[t-connect-lesotho]] |
 | Econet Telecom Lesotho (ETL) | LSO | infra.connect, dpi.pay | [[econet-telecom-lesotho]] |
@@ -452,6 +456,9 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 
 | Entity | Places | Topics | Page |
 |---|---|---|---|
+| CNDP (Morocco data-protection authority) | MAR | gov.protect, tech.ai | [[cndp-morocco]] |
+| DGSSI (Morocco cybersecurity authority / maCERT) | MAR | infra.cybersec, gov.regional | [[dgssi-morocco]] |
+| ANRT (Morocco telecoms regulator) | MAR | infra.connect, gov.legislate | [[anrt-morocco]] |
 | Lesotho Communications Authority (LCA) | LSO | infra.connect, gov.legislate, data.satellite | [[lesotho-communications-authority]] |
 | Central Bank of Lesotho (CBL) | LSO | dpi.pay, gov.legislate | [[central-bank-of-lesotho]] |
 | Libyan Post, Telecom & IT Company (LPTIC) | LBY | infra.connect, infra.store | [[lptic]] |
@@ -773,6 +780,9 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 
 | Entity | Places | Topics | Page |
 |---|---|---|---|
+| JAZARI Institutes / "AI Made in Morocco" | MAR | tech.ai, capacity.training | [[jazari-institutes]] |
+| GITEX Africa (Morocco) | MAR | tech.industry, gov.policy | [[gitex-africa]] |
+| Morocco FinTech Center / Offre Startup Maroc | MAR | dpi.pay, include.access | [[morocco-fintech-center]] |
 | Sebabatso Initiative (Lesotho youth empowerment) | LSO | capacity.training, tech.innovate | [[sebabatso-initiative]] |
 | LIBIGPT (Libya first generative-AI system) | LBY | tech.ai, tech.innovate | [[libigpt]] |
 | BaladiyaBOT (Tripoli municipal digital assistant) | LBY | digital.localgov, dpi.govtech | [[baladiyabot]] |
@@ -1061,6 +1071,7 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 
 | Entity | Places | Topics | Page |
 |---|---|---|---|
+| Nexus AI Factory ($1.2bn Morocco sovereign AI data centre) | MAR | infra.store, tech.ai, finance.new | [[nexus-ai-factory]] |
 | Project Kobong ($6.2bn Convalt hydropower + AI data centre) | LSO | infra.store, infra.energy, tech.ai | [[project-kobong]] |
 | Lesotho-India DPI MoU (India Stack) | LSO | dpi.id, dpi.pay, geopol.india | [[lesotho-india-dpi-mou]] |
 | Daraja subsea cable (Meta–Safaricom) | KEN | infra.connect, geopol.usa | [[meta-daraja-subsea-cable]] |

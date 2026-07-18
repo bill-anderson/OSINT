@@ -4,9 +4,9 @@ title: Morocco
 code: MAR
 parent: XNA
 place_kind: country
-topics: [dpi.id, dpi.registry, dpi.govtech, dpi.exchange, gov.policy, gov.legislate, gov.protect, gov.standards, infra.store, infra.cybersec, tech.ai, tech.industry, geopol.india, geopol.usa, capacity.training, infra.energy, include.access, include.divides, data.statistics, finance.new]
+topics: [dpi.id, dpi.registry, dpi.govtech, dpi.exchange, dpi.pay, dpi.mis, gov.policy, gov.legislate, gov.protect, gov.standards, gov.regional, infra.store, infra.connect, infra.cybersec, infra.energy, tech.ai, tech.industry, tech.innovate, geopol.india, geopol.usa, capacity.training, include.access, include.divides, data.statistics, data.open, finance.new, finance.mou]
 status: active
-last_reviewed: 2026-07-16
+last_reviewed: 2026-07-18
 ---
 
 # Morocco (MAR)
@@ -22,6 +22,22 @@ Africa's CAITA). Persistent gaps: institutional fragmentation, a skills deficit,
 divide (~1,800 villages offline).
 
 ## Recent developments
+
+> **2026-07-18 MAR sweep batch (44 sources)** — a Hespress (AR/EN) + Assabah + SSA-trade-press tranche
+> since 2025-01, consolidated into thematic intersections. Anchors:
+> - **Digital ID** — CNIE renewal online (Epolice.ma/cnie.ma); Idarati X.0 scale (UN EGDI 90th/4th-Africa);
+>   new **biometric passport** (decree 2.26.551 — Amazigh, ICAO chip, address removed, Aug 2026). See
+>   [[morocco--dpi-id]].
+> - **AI** — two legislative tracks (Jan-2025 AI bill; Digital X.0 law); CNDP sovereign responsible-AI
+>   LLMs; "AI Made in Morocco"/JAZARI; Orange AI programmes. Hub: [[morocco--tech-ai]].
+> - **Data centres** — #1 in Africa by DC count (overtaking SA); **[[nexus-ai-factory|Nexus AI Factory]]**
+>   ($1.2bn, 500MW, TAQA/Nvidia); green DCs (Dakhla, Orange Tech); Oracle Agadir. Hub: [[morocco--infra-store]].
+> - **Connectivity** — 5G launch (Nov 2025, ANRT licensing); Maroc Telecom-Inwi FiberCo/TowerCo;
+>   Nokia-Medusa subsea. Hub: [[morocco--infra-connect]].
+> - **Cyber** — $1.2bn market; maCERT FortiBleed; Rabat as ANCA regional cyber hub. Hub:
+>   [[morocco--infra-cybersec]].
+> - **Digital economy & diplomacy** — [[gitex-africa|GITEX Africa]] as investment gateway; offshoring
+>   scale-up; open-government forum + Ghana/Gabon/DCO bilaterals. Hub: [[morocco--gov-regional]].
 
 - **2026-02-10** — **Idarati X.0 e-government platform (national digital wallet).** Morocco signed 8 MoUs
   in Rabat to launch **[[idarati-x0]]** — a unified entry point for public services built around a
@@ -108,7 +124,12 @@ divide (~1,800 villages offline).
 
 - [[digital-morocco-2030]] · [[dgsn-morocco]] · [[add-morocco]] · [[mon-e-id]] · [[idarati-x0]] · [[digital-x0-law]] · [[morocco-national-population-registry]]
 - [[idakto]] · [[idemia]] · [[in-groupe]] · [[mosip]] · [[smart-africa]] · [[oracle]] · [[world-bank]] · [[cassava-ai-factories]]
+- MAR sweep batch (2026-07-18): [[cndp-morocco]] · [[dgssi-morocco]] · [[anrt-morocco]] · [[jazari-institutes]] ·
+  [[nexus-ai-factory]] · [[nexus-core-systems]] · [[gitex-africa]] · [[morocco-fintech-center]] · [[inwi]] ·
+  [[maroc-telecom]] · [[orange]] · [[ericsson]] · [[nokia]] · [[vodafone]] · [[visa]]
+- MAR sweep intersections (2026-07-18): [[morocco--dpi-id]] · [[morocco--tech-ai]] · [[morocco--infra-store]] ·
+  [[morocco--infra-connect]] · [[morocco--infra-cybersec]] · [[morocco--gov-regional]]
 - Mentioned, not hubbed: Ministry of Digital Transition and Administrative Reform (Amal El Fallah
-  Seghrouchni); CNDP (data-protection commission); CNSS; ANCFCC (land/cadastre); DGI/TGR; ShareID; Bank
-  Al-Maghrib; Noureddine Boutayeb / Maharat; Law 09-08 / Law 72-18; GITEX Africa; D4SD Hub.
+  Seghrouchni); CNSS; ANCFCC (land/cadastre); DGI/TGR; ShareID; Bank Al-Maghrib; Noureddine Boutayeb /
+  Maharat; Law 09-08 / Law 72-18; D4SD Hub; TAQA Morocco; Naver; Medasys / N+One.
 - Parent region: [[XNA]] · continental: [[XAF]].
