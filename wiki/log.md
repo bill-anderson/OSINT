@@ -4544,3 +4544,52 @@ landings) and Starlink-licensing status are load-bearing but sourced only via an
 synthesis (left in drop log, not ingested); lead to source from submarinenetworks.com / on-record reporting.
 
 **Teardown.** `new/` drained to empty. `new-queue/ERI/` reduced to `MANIFEST.md` husk — deleted. Committed.
+
+## 2026-07-18 — Batch ingest: GNB (Guinea-Bissau) — Phase-2 sweep, smallest pending folder
+
+**Run.** Single-folder batch ingest per `sweep/ingest-runbook.md`. Interruption recovery clean (no `new/`,
+no half-torn-down folder). Claimed **GNB** — smallest pending folder (13 candidates); ledger row `swept`.
+Copied folder to `new-queue/done/GNB/` (backup/review trail) before any moves.
+
+**Screen.** All 13 candidates are full-text clips — **no flagged summaries** (0 needs-clip). All admissible:
+ANG state-agency reporting (government voice, capture ≠ endorsement), ARN-TIC regulator + WARDIP project +
+Telecel company primaries, Connecting Africa trade journal, O Democrata / Última Hora newspapers. No AI
+syntheses, **no discards**.
+
+**Dedup.** Two flagged same-event-as-held items both **admitted as complementary**, not pruned: the ANG
+ENTD.GW-launch account (adds PM Barros / Minister Barbeiro quotes + named UNDP rep Casazza + 2025-30 period
+vs held UNU-EGOV) and the ANG civil-ID/registry workshop (a distinct domestic two-day workshop under DGICRAN
+— EU/UNICEF/CNE detail + the 23.4%→46% birth-registration figure — vs the held Biometric Update ID4Africa
+interview). Neither is a relevant-duplicate. The **2,877 km WARDIP-GB backbone supersedes the old ~888 km**
+figure — supersession, dated inline, **not** a contradiction (no file opened).
+
+**Sources.** 13 admitted to `raw/` with `YYYY-MM-DD Title` filenames (staged kebab names renamed on ingest,
+per AGO/ERI precedent); `ingested: 2026-07-18` added, `entities:` YAML normalised, `retrieved:`/`sweep_batch:`
+kept. 3 carry `date_source: proxy` (two 2026 items precision-**year**: Electronic Communications Law, WARDIP
+backbone specs; civil-ID workshop precision-**month** 2025-06) — honest, ANG serves no in-body dates.
+
+**Entities.** Created 2: `arn` (government-body — ARN-TIC ICT regulator), `telecel` (company — ex-MTN opco,
+STARTOCODE partner). Updated: `wardip` (+GNB place, WARDIP-GB national rollout + 2,877 km backbone + EIASS,
+3 sources), `entd-gw` (ANG launch account + the July-2025 three-decree approval, 2 sources), `enbic` (São
+Domingos 262-women field issuance), `sirec` (DGICRAN digitization workshop, 23.4%→46%), `starlink` (+GNB
+place, licensed 2025-04-10 / live 2025-06-19 bullet, 2 sources).
+
+**Places/concepts/intersections.** `GNB` hub reworked as an index: intro now flags the 2025-26 governance
+spine + WARDIP/Starlink connectivity; Recent developments gained the governance-spine and connectivity
+events; topics frontmatter +gov.legislate/gov.protect/infra.cybersec/capacity.training; entities +arn/telecel/
+wardip/starlink. Created 2 intersections — **`guinea-bissau--gov-policy`** (ENTD.GW; three decrees —
+interoperability + data governance/protection + cybersecurity strategy & agency; Electronic Communications
+Law; CNT digital-integrity/online-falsehoods law) and **`guinea-bissau--infra-connect`** (WARDIP-GB 2,877 km
+backbone; Starlink licence→launch; Electronic Comms Law) — and extended **`guinea-bissau--dpi-id`** (workshop
++ São Domingos issuance). Concept cross-link: `GNB` added to the Places index of 9 concept pages (gov.policy,
+gov.legislate, gov.protect, infra.cybersec, dpi.exchange, infra.connect, capacity.training, dpi.id,
+gov.regional). Indexes updated: places-index (GNB row rewritten), topics-index (2 new intersection lines +
+dpi-id line refreshed), entities-index (arn + telecel rows; wardip + starlink places).
+
+**Gap filed.** **GAP-GNB-001** — the World Bank WARDIP-GB financing agreement (~US$60M grant behind the
+backbone, Amílcar Cabral cable, govcloud and data-protection regulator) is referenced but **unsourced**;
+lead to capture the PAD/financing agreement as reference material on `wardip`. (Also noted: RNEP-GB; ARN
+IDN/.GW accented domains.)
+
+**Teardown.** `new/` drained to empty (13 in = 13 admitted + 0 leads + 0 discards + 0 needs-clip).
+`new-queue/GNB/` reduced to `MANIFEST.md` husk — deleted. Committed.

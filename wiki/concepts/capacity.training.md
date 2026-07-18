@@ -148,7 +148,7 @@ Building the digital-skills base for citizens and the workforce.
 
 ## Places
 
-[[ZMB]] · [[MAR]] · [[XGL]] · [[GHA]] · [[NAM]] · [[SLE]] · [[ZAF]] · [[XAF]] · [[NGA]] · [[KEN]] · [[ZWE]] · [[XSS]] · [[ETH]] · [[GAB]] · [[RWA]]
+[[ZMB]] · [[MAR]] · [[XGL]] · [[GHA]] · [[NAM]] · [[SLE]] · [[ZAF]] · [[XAF]] · [[NGA]] · [[KEN]] · [[ZWE]] · [[XSS]] · [[ETH]] · [[GAB]] · [[RWA]] · [[GNB]]
 
 ## Sources
 

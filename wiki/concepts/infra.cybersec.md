@@ -164,7 +164,7 @@ how "cyber threat" is defined and acted on.
 
 ## Places
 
-[[AGO]] · [[ZMB]] · [[ZAF]] · [[XAF]] · [[NGA]] · [[MOZ]] · [[RWA]] · [[BEN]] · [[GHA]] · [[KEN]] · [[MUS]] · [[LBR]] · [[XEA]] · [[XSS]] · [[CMR]] · [[BFA]] · [[EGY]] · [[SDN]] · [[SEN]] · [[ZWE]] · [[DZA]] · [[UGA]] · [[SOM]]
+[[AGO]] · [[ZMB]] · [[ZAF]] · [[XAF]] · [[NGA]] · [[MOZ]] · [[RWA]] · [[BEN]] · [[GHA]] · [[KEN]] · [[MUS]] · [[LBR]] · [[XEA]] · [[XSS]] · [[CMR]] · [[BFA]] · [[EGY]] · [[SDN]] · [[SEN]] · [[ZWE]] · [[DZA]] · [[UGA]] · [[SOM]] · [[GNB]]
 
 ## Sources
 

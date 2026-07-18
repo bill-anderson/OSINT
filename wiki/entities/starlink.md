@@ -2,7 +2,7 @@
 type: entity
 entity_type: company
 title: Starlink (SpaceX)
-places: [XSS, XAF, NGA, KEN, ZWE, ZAF, NAM, SEN]
+places: [XSS, XAF, NGA, KEN, ZWE, ZAF, NAM, SEN, GNB]
 topics: [infra.connect, include.access, include.divides, infra.capacity, gov.standards]
 lens: [sovereignty, colonialism]
 status: active
@@ -107,6 +107,13 @@ controls African connectivity infrastructure.
   30%-HDI-ownership pledge. See [[data.satellite]], [[include.access]], [[ZAF]]. Source:
   [[2026-01-01 Starlink Partners with Airtel & Vodacom From Rival to Ally]].
 
+- **Guinea-Bissau — licensed then live (2025-04 / 2025-06).** [[GNB]] Regulator [[arn]] (ARN-TIC)
+  granted a general provisional authorization on **2025-04-10** (after a Dec 2024 provisional
+  licence); commercial launch followed on **2025-06-19**, GNB being Starlink's **7th West African**
+  and **20th continental** market. A standard kit cost **XOF 228,000 (~$400)** with a **$63/mo**
+  subscription; GNB internet penetration was just **32.5%** (723k users, Jan 2025). See
+  [[infra.connect]], [[include.access]]. Sources: [[2025-04-10 ARN-TIC grants Starlink Guinea-Bissau provisional authorization]], [[2025-06-19 Starlink enters Guinea-Bissau]].
+
 ## Reads
 
 - `sovereignty` / `colonialism`: a foreign-owned constellation supplying scarce
@@ -131,3 +138,5 @@ See [[XSS]], [[infra.connect]], [[include.access]].
 - [[2024-03-15 Undersea cables for Africa's internet retrace history and leave digital gaps as they connect continents]]
 - [[2026-02-18 Starlink pushes for SA license with advocacy campaign]]
 - [[2026-01-01 Starlink Partners with Airtel & Vodacom From Rival to Ally]]
+- [[2025-04-10 ARN-TIC grants Starlink Guinea-Bissau provisional authorization]]
+- [[2025-06-19 Starlink enters Guinea-Bissau]]

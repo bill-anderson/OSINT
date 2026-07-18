@@ -313,7 +313,7 @@ Cross-border harmonisation of digital infrastructure, rules and markets.
 
 ## Places
 
-[[ZMB]] (regional program spans Eastern & Southern Africa — see [[idea-mpa]]) · [[XAF]] · [[NGA]] · [[KEN]] · [[RWA]] · [[NAM]] · [[AGO]] · [[ZWE]] · [[EGY]] · [[GHA]] · [[BEN]] · [[XEA]] · [[XWA]] · [[TGO]] · [[NER]] · [[BFA]] · [[MLI]] · [[TZA]] · [[UGA]] · [[MOZ]] · [[BWA]] · [[LBR]] · [[SLE]] · [[XSA]] · [[XCA]] · [[SYC]] · [[SOM]]
+[[ZMB]] (regional program spans Eastern & Southern Africa — see [[idea-mpa]]) · [[XAF]] · [[NGA]] · [[KEN]] · [[RWA]] · [[NAM]] · [[AGO]] · [[ZWE]] · [[EGY]] · [[GHA]] · [[BEN]] · [[XEA]] · [[XWA]] · [[TGO]] · [[NER]] · [[BFA]] · [[MLI]] · [[TZA]] · [[UGA]] · [[MOZ]] · [[BWA]] · [[LBR]] · [[SLE]] · [[XSA]] · [[XCA]] · [[SYC]] · [[SOM]] · [[GNB]]
 
 ## Sources
 

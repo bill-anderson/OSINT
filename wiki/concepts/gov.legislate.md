@@ -236,7 +236,7 @@ localization mandates, and the competition/antitrust angle on cloud concentratio
 
 ## Places
 
-[[AGO]] · [[XAF]] · [[NGA]] · [[KEN]] · [[XGL]] · [[GHA]] · [[ZAF]] · [[MOZ]] · [[NAM]] · [[RWA]] · [[XSA]] · [[ZMB]] · [[SOM]] · [[COG]] · [[UGA]] · [[MWI]] · [[STP]] · [[SSD]] · [[SLE]] · [[SWZ]] · [[SYC]] · [[TCD]] · [[TGO]] · [[XWA]]
+[[AGO]] · [[XAF]] · [[NGA]] · [[KEN]] · [[XGL]] · [[GHA]] · [[ZAF]] · [[MOZ]] · [[NAM]] · [[RWA]] · [[XSA]] · [[ZMB]] · [[SOM]] · [[COG]] · [[UGA]] · [[MWI]] · [[STP]] · [[SSD]] · [[SLE]] · [[SWZ]] · [[SYC]] · [[TCD]] · [[TGO]] · [[XWA]] · [[GNB]]
 
 ## Related
 

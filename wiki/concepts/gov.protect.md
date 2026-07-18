@@ -379,7 +379,7 @@ Personal-data regimes across African jurisdictions — and the friction their
 
 [[AGO]] · [[BWA]] · [[XAF]] · [[CAF]] · [[NGA]] · [[KEN]] · [[MWI]] · [[COD]] · [[ZAF]] · [[MUS]] · [[BEN]] · [[UGA]] · [[LBR]] ·
 [[ZWE]] · [[ZMB]] · [[SEN]] · [[NAM]] · [[COG]] · [[SOM]] · [[MOZ]] · [[RWA]] · [[STP]] · [[SSD]] · [[SLE]] · [[SWZ]] ·
-[[SYC]] · [[TCD]] · [[TGO]] · [[XGL]]
+[[SYC]] · [[TCD]] · [[TGO]] · [[XGL]] · [[GNB]]
 
 ## Related
 

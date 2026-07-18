@@ -265,7 +265,7 @@ National digital strategy, ownership and the financing conditions around it.
 
 ## Places
 
-[[ZMB]] · [[XGL]] · [[KEN]] · [[ZAF]] · [[GHA]] · [[NAM]] · [[MWI]] · [[NGA]] · [[XAF]] · [[EGY]] · [[XSS]] · [[SEN]] · [[CIV]] · [[XEA]] · [[RWA]] · [[TZA]] · [[UGA]] · [[LBR]] · [[ETH]] · [[BFA]] · [[MOZ]] · [[SOM]] · [[GAB]] · [[STP]] · [[SLE]]
+[[ZMB]] · [[XGL]] · [[KEN]] · [[ZAF]] · [[GHA]] · [[NAM]] · [[MWI]] · [[NGA]] · [[XAF]] · [[EGY]] · [[XSS]] · [[SEN]] · [[CIV]] · [[XEA]] · [[RWA]] · [[TZA]] · [[UGA]] · [[LBR]] · [[ETH]] · [[BFA]] · [[MOZ]] · [[SOM]] · [[GAB]] · [[STP]] · [[SLE]] · [[GNB]]
 
 ## Sources
 

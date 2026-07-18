@@ -7,6 +7,7 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 | Entity | Places | Topics | Page |
 |---|---|---|---|
 | EriTel (Eritrea state telecom monopoly) | ERI | infra.connect, include.divides | [[eritel]] |
+| Telecel (Guinea-Bissau) | GNB | infra.connect, capacity.training, capacity.literacy, tech.innovate | [[telecel]] |
 | MVola (Madagascar mobile money / digital bank) | MDG | dpi.pay, dpi.exchange, include.access | [[mvola]] |
 | MTC (Mobile Telecommunications Company, Namibia) | NAM | infra.connect, dpi.pay, include.access | [[mtc-namibia]] |
 | Al Itissal Al Jadeed (Libyan ID/passport vendor) | LBY, NER | dpi.id, gov.regional | [[al-itissal-al-jadeed]] |
@@ -30,7 +31,7 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 | Google (Alphabet) | ZAF, GHA, KEN, XAF | infra.store, tech.ai, infra.connect, geopol.usa | [[google]] |
 | Microsoft | ZAF, KEN, NGA, XAF | infra.store, tech.ai, geopol.usa, capacity.training | [[microsoft]] |
 | Vodacom Group | ZAF, KEN, TZA, XEA | dpi.pay, infra.connect, tech.ai | [[vodacom]] |
-| Starlink (SpaceX) | XSS, NGA, KEN, ZWE, ZAF, NAM | infra.connect, include.access, include.divides | [[starlink]] |
+| Starlink (SpaceX) | XSS, NGA, KEN, ZWE, ZAF, NAM, SEN, GNB | infra.connect, include.access, include.divides | [[starlink]] |
 | G42 | KEN, XAF, XGL | tech.ai, infra.store, geopol.gulf, geopol.usa | [[g42]] |
 | Equinix | ZAF, NGA, XAF | infra.store, infra.energy, infra.capacity | [[equinix]] |
 | Meta Platforms | NGA, XAF | gov.protect, gov.legislate, geopol.usa | [[meta]] |
@@ -348,6 +349,7 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 | Entity | Places | Topics | Page |
 |---|---|---|---|
 | Digital Governance Unit (UGD, Madagascar) | MDG | dpi.exchange, dpi.govtech | [[ugd-madagascar]] |
+| ARN-TIC (National Regulatory Authority for ICT, Guinea-Bissau) | GNB | infra.connect, gov.legislate, include.access | [[arn]] |
 | Bank of Eritrea | ERI | dpi.pay, gov.legislate | [[bank-of-eritrea]] |
 | Eritrea National Statistics Office (NSO) | ERI | data.statistics, capacity.research | [[eritrea-national-statistics-office]] |
 | Civil Status Division (Mauritius) | MUS | dpi.registry, dpi.id | [[civil-status-division-mauritius]] |
@@ -681,7 +683,7 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 | SudaPass (Sudan digital ID) | SDN | dpi.id, dpi.govtech, include.access | [[sudapass]] |
 | Tech Corps (US AI-diffusion program) | XGL | geopol.usa, tech.ai, capacity.training | [[tech-corps]] |
 | telebirr | ETH | dpi.pay, include.access | [[telebirr]] |
-| WARDIP (Western Africa Regional Digital Integration Program) | XWA, BEN, LBR, SLE | infra.connect, dpi.govtech, gov.regional | [[wardip]] |
+| WARDIP (Western Africa Regional Digital Integration Program) | XWA, BEN, LBR, SLE, GNB | infra.connect, dpi.govtech, gov.regional | [[wardip]] |
 | 2Africa subsea cable | XAF, EGY, ZAF, NGA, KEN, COD, MDG | infra.connect, infra.capacity, geopol.china | [[2africa-cable]] |
 | Equiano subsea cable | XWA, NGA, TGO, GHA, CIV, NAM, ZAF | infra.connect, infra.store, dpi.exchange, geopol.usa | [[equiano-cable]] |
 | Umoja subsea cable | KEN, UGA, RWA, COD, ZMB, ZWE, ZAF, XAF | infra.connect, infra.cybersec, geopol.usa, finance.new | [[umoja-cable]] |

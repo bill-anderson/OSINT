@@ -236,7 +236,7 @@ cross-border scale, the legal enforceability of that exchange.
 
 ## Places
 
-[[ZMB]] · [[XAF]] · [[NGA]] · [[KEN]] · [[MWI]] · [[ZAF]] · [[RWA]] · [[BEN]] · [[GHA]] · [[ETH]] · [[SEN]] · [[TGO]] · [[XWA]] · [[DJI]] · [[TZA]] · [[XEA]] · [[LSO]] · [[UGA]] · [[COD]] · [[GAB]] · [[STP]] · [[SLE]]
+[[ZMB]] · [[XAF]] · [[NGA]] · [[KEN]] · [[MWI]] · [[ZAF]] · [[RWA]] · [[BEN]] · [[GHA]] · [[ETH]] · [[SEN]] · [[TGO]] · [[XWA]] · [[DJI]] · [[TZA]] · [[XEA]] · [[LSO]] · [[UGA]] · [[COD]] · [[GAB]] · [[STP]] · [[SLE]] · [[GNB]]
 
 ## Sources
 

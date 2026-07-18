@@ -272,7 +272,7 @@ This topic is mostly continental (cables, satellite, financing, regulation — a
 
 ## Places
 
-[[CAF]] · [[CIV]] · [[CMR]] · [[COD]] · [[DJI]] · [[DZA]] · [[EGY]] · [[ETH]] · [[GHA]] · [[GNQ]] · [[KEN]] · [[LBR]] · [[MOZ]] · [[MRT]] · [[NAM]] · [[NGA]] · [[RWA]] · [[SDN]] · [[SEN]] · [[SOM]] · [[SSD]] · [[STP]] · [[SLE]] · [[TGO]] · [[TUN]] · [[TZA]] · [[UGA]] · [[XEA]] · [[XSA]] · [[XWA]] · [[ZAF]] · [[ZMB]] · [[ZWE]] · [[TCD]] · [[SWZ]]
+[[CAF]] · [[CIV]] · [[CMR]] · [[COD]] · [[DJI]] · [[DZA]] · [[EGY]] · [[ETH]] · [[GHA]] · [[GNQ]] · [[KEN]] · [[LBR]] · [[MOZ]] · [[MRT]] · [[NAM]] · [[NGA]] · [[RWA]] · [[SDN]] · [[SEN]] · [[SOM]] · [[SSD]] · [[STP]] · [[SLE]] · [[TGO]] · [[TUN]] · [[TZA]] · [[UGA]] · [[XEA]] · [[XSA]] · [[XWA]] · [[ZAF]] · [[ZMB]] · [[ZWE]] · [[TCD]] · [[SWZ]] · [[GNB]]
 
 ## Sources
 

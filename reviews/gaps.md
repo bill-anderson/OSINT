@@ -496,3 +496,15 @@ in the same batch and is now held; instrument upgraded stub→active. See log.md
   TeleGeography submarine-cable map, and the Starlink-licensing status from on-the-record reporting or an
   Eritrean regulatory notice, then compile — do not cite ts2.tech.* *(Surfaced ERI sweep ingest,
   2026-07-17.)*
+
+- **GAP-GNB-001 · World Bank WARDIP-GB financing agreement is unsourced.** The GNB batch's connectivity
+  and governance spine (WARDIP launch, the 2,877 km national fibre backbone, the EIASS safeguards study,
+  and the data-governance/interoperability decrees) all rest on the **World Bank WARDIP-GB financing**
+  (manifest notes a **US$60M grant** funding the Amílcar Cabral submarine cable, the national backbone, a
+  govcloud and a data-protection regulator), but the wiki holds **no source or `instrument` page** for the
+  financing agreement itself — only the downstream events cite [[world-bank]]/[[wardip]] generically.
+  *Lead: source the WARDIP-GB Project Appraisal Document / financing agreement from the World Bank projects
+  portal (P-number) and capture it as reference material on the [[wardip]] entity, so the $60M figure and
+  its components have a primary home.* Also noted as leads, lower priority: **RNEP-GB** (national research
+  & education network, WARDIP-GB Final Report, 2025-04) and ARN's **IDN/.GW accented-domains** announcement.
+  *(Surfaced GNB sweep ingest, 2026-07-18.)*
