@@ -5512,3 +5512,9 @@ rides open **ISSUE-014** (no geopol.russia slug). Figure caveats recorded inline
 61%-vs-19% mobile internet). Indexes updated (11 entities; COG places-index row). MANIFEST → new-queue/
 done/COG/. Ingested in 6 thematic chunks. All 62 source links lint clean (0 unresolved, 0 orphans).
 Note: COG paper's real article domain is **adiac-congo.com** (ledger correction for the human).
+
+### 2026-07-18 · ingest COM · chunk 1/4 — Digital identity & registries
+**10 sources admitted.** New intersection [[com--dpi-id]]; new entities [[amecc-comoros]] (civil-registry
++ **PIN** under 27 Jul 2023 law), [[anec-comoros]] (civil-status agency decree), [[rsu-comoros]] (WB social
+register, 62k households). Updated [[genkey]] (now COM: **replaced Semlex, repatriated biometric data from
+Belgium to domestic storage** — data-sovereignty fact). All 10 moved new→raw.
