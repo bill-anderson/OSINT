@@ -6416,3 +6416,16 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
 - **Entities created:** [[decim-madagascar]] (initiative — WB $400m digital+energy connectivity),
   [[studia-inc]] (company — OCR/AI civil-records digitisation).
 - Currency: enrolment figures written dated; progression explicitly flagged as scope-driven, not conflict.
+
+## 2026-07-18 — ingest(MDG) chunk 3/6: Connectivity & infrastructure
+
+- **8 sources admitted** (0 leads, 0 discards).
+- **Intersection created:** [[madagascar--infra-connect]] — DECIM+Starlink enclaved zones; EIB $100m
+  AXIAN (Yas) 4G/5G ($40m MDG); DARE1 subsea extension (Mahajanga/Toliara, RFS 2028); Orange 558km
+  Tana-Mahajanga fibre backbone; state-operator tariff-cut/excise deal; Direct-to-Cell (SpaceX/Airtel
+  trial, 3rd African country) + Airtel-Eutelsat OneWeb.
+- **Entity created:** [[airtel-madagascar]] (company).
+- **Entities updated:** [[eutelsat]] (added MDG place + Airtel OneWeb activity), [[decim-madagascar]]
+  (re-linked to the connectivity intersection).
+- Dedup: Direct-to-Cell FCC notice (May) + actual Sadabe trial (Jul) kept as distinct events (manifest
+  notes 7 same-event trial twins already dropped at sweep).

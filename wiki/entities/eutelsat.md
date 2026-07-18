@@ -2,7 +2,7 @@
 type: entity
 entity_type: company
 title: Eutelsat
-places: [XGL, CIV, AGO]
+places: [XGL, CIV, AGO, MDG]
 topics: [infra.connect, data.satellite]
 status: active
 last_reviewed: 2026-07-17
@@ -36,6 +36,10 @@ mobile operators (cf. [[starlink]]).
   signed a multi-year OneWeb capacity agreement with Angolan provider **Mercury**, deepening its local
   footprint (gateway + PoP); Eutelsat restated as **still the only licensed LEO operator in Angola**.
   Source: [[2026-06-12-mercury-eutelsat-acordo-conectividade-leo]].
+- **Airtel Madagascar rural broadband (2026-06).** [[include.access]] With **[[airtel-madagascar|Airtel
+  Madagascar]]**, Eutelsat **OneWeb** expanded LEO broadband integrated with fibre/4G to remote areas —
+  including a **100 Mbps moving-train** test. See [[MDG]], [[madagascar--infra-connect]]. Source:
+  [[2026-06-01-airtel-eutelsat-rural-broadband-techafricanews]].
 
 ## Sources
 
@@ -43,3 +47,4 @@ mobile operators (cf. [[starlink]]).
 - [[2026-01-21 Orange Côte d'Ivoire Launches Orange Sat Satellite Internet to Boost Nationwide Connectivity]]
 - [[2025-06-30-eutelsat-secures-15-year-oneweb-licence-in-angola]]
 - [[2026-06-12-mercury-eutelsat-acordo-conectividade-leo]]
+- [[2026-06-01-airtel-eutelsat-rural-broadband-techafricanews]]

@@ -15,7 +15,7 @@ sources: [[[2026-06-24-madagascar-worldbank-review-543m-prodigy-decim-ecofin]], 
 A **World Bank $400m** project (Board approval 7 Apr 2023) to **double electricity access** while
 bringing internet connectivity to an **additional 3.4 million people** — the connectivity/energy
 complement to the identity-focused **[[prodigy-madagascar|PRODIGY]]** (together **$543m**). See
-[[infra.connect]], madagascar--infra-connect (connectivity thread).
+[[infra.connect]], [[madagascar--infra-connect]].
 
 ## Activity in this wiki
 
@@ -26,8 +26,8 @@ complement to the identity-focused **[[prodigy-madagascar|PRODIGY]]** (together 
   [[2026-06-24-madagascar-worldbank-review-543m-prodigy-decim-ecofin]],
   [[2026-07-06-last-mile-civil-registration-biometricupdate]].
 - **Starlink/enclaved-zones link.** [[digital.rural]] DECIM underpins connectivity for enclaved zones
-  (Starlink CSR schools/health) — see madagascar--infra-connect (connectivity thread).
+  (Starlink CSR schools/health) — see [[madagascar--infra-connect]].
 
 ## Related
 
-- [[MDG]] · [[infra.connect]] · [[infra.energy]] · [[prodigy-madagascar]] · [[world-bank]] · madagascar--infra-connect (connectivity thread)
+- [[MDG]] · [[infra.connect]] · [[infra.energy]] · [[prodigy-madagascar]] · [[world-bank]] · [[madagascar--infra-connect]]
