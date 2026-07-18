@@ -103,7 +103,9 @@ in the same batch and is now held; instrument upgraded stub→active. See log.md
   data-protection law or supervisory authority** — the fast-moving CNIE/NIP, RSU and SIGFIP builds are
   proceeding without a confirmed operative DP regime on file. *Lead: consider sourcing Gabon's
   data-protection statute and any authority (e.g. CNPDCP-equivalent).* See [[GAB]], [[gabon--dpi-id]].
-  (Recorded GAB batch, 2026-07-15.)
+  (Recorded GAB batch, 2026-07-15.) **Update (GAB sweep, 2026-07-18):** the **authority** is now sourced —
+  **[[apdpvp-gabon|APDPVP]]** (renamed CNPDCP; president Joël Dominique Ledaga), with a concrete 2026 enforcement
+  action (DGMP data destruction). The **DP statute text** itself is still not held — gap narrowed to the law.
 
 - **GAP-GAB-002 · Gabon CNIE/NIP enrolment coverage — no published figure.** The digital-ID relaunch
   is the flagship DPI component, and the WB results framework targets a "% of population 16+ with a
@@ -118,7 +120,9 @@ in the same batch and is now held; instrument upgraded stub→active. See log.md
   file. Separately, the **[[gabon-visa-partnership-deal]]** "secure digital-identity system" element is
   reported only second-hand. *Lead: consider sourcing the primary CNIE contract award(s) to pin who
   supplies what, and a Visa/Gabon primary for the ID element.* See [[gabon--dpi-id]]. (Recorded GAB
-  batch, 2026-07-15.)
+  batch, 2026-07-15.) **Update (GAB sweep, 2026-07-18):** the **Visa** leg is now better-sourced (2025-07-20
+  GabonReview: Visa VP Ismahill Diaby × VP Barro Chambrier, public-services digitalisation) — gap narrowed to
+  the **vendor role disambiguation** (IN Groupe credential vs Thales registry) and the primary contract award.
 
 - **GAP-DJI-002 · ANSIE has no entity page.** The **Agence Nationale des Systèmes d'Information de l'État
   (ANSIE)** — Djibouti's state IT agency (created by Loi n°100/AN/15) — is now central to the

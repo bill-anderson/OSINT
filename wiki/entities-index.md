@@ -428,6 +428,7 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 
 | Entity | Places | Topics | Page |
 |---|---|---|---|
+| APDPVP (Gabon data-protection authority) | GAB | gov.protect, gov.legislate | [[apdpvp-gabon]] |
 | ITIDA (IT Industry Development Agency, Egypt) | EGY | tech.industry, capacity.training | [[itida-egypt]] |
 | ARPCE (Algeria post/telecom regulator) | DZA | infra.connect, gov.legislate, dpi.id | [[arpce-algeria]] |
 | Ministry of Post & Telecommunications (Algeria) | DZA | infra.connect, gov.policy | [[ministry-of-post-and-telecommunications-algeria]] |
@@ -733,6 +734,8 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 
 | Entity | Places | Topics | Page |
 |---|---|---|---|
+| Gabon legal-identity projects (RBPP, SNID, CNEC) | GAB | dpi.id, dpi.registry | [[gabon-legal-id-projects]] |
+| Gabon Connect (single digital window) | GAB | dpi.govtech, dpi.exchange | [[gabon-connect]] |
 | Algeria 5G programme (three licences, 2025) | DZA | infra.connect, finance.new | [[algeria-5g]] |
 | Algeria Apostille (Hague e-legalisation) | DZA | dpi.govtech, gov.regional | [[algeria-apostille]] |
 | "7.77" National Digital Empowerment (Algeria) | DZA | capacity.training, tech.ai | [[algeria-digital-empowerment-7-77]] |
@@ -1177,6 +1180,8 @@ Databases, registries, datasets, tools and portals consulted repeatedly (entity_
 
 | Resource | Places | Topics | Page |
 |---|---|---|---|
+| Gabon National (Nkok) Data Centre | GAB | infra.store, gov.protect | [[gabon-national-datacenter]] |
+| GABIX (Gabon Internet Exchange Point) | GAB | infra.connect, dpi.exchange | [[gabix]] |
 | FaydaPass (Ethiopia digital-ID wallet) | ETH | dpi.id, dpi.pay | [[faydapass]] |
 | National Digital Services Center (Algeria) | DZA | infra.store, dpi.govtech, geopol.china | [[national-digital-services-center-algeria]] |
 | AventureCloudz (Djezzy sovereign AI cloud) | DZA | tech.ai, infra.store | [[aventurecloudz]] |

@@ -5841,3 +5841,14 @@ GIMAC interoperability vision (Jun 2025). GimacPay cross-border malfunction comp
 Interpol Serengeti 2.0 (1,209 arrests / ~$97.4m/55bn FCFA recovered, UK-backed, 2025-08); 2nd Cybersecurity Forum
 (ST Digital/ANINF/BGFI, Nov 2025); ARCEP "digital soft-power hub" strategy (cyber/AI/sovereignty, Jan 2026); CNAMGS-ANINF
 IS-audit MoU (8 May 2026, dpi.mis); ANINF-MITRE (US) critical-infra cyber architecture (2026-06, geopol.usa — new US thread).
+
+## 2026-07-18 — ingest(GAB) chunk 6/6 + FINALIZE
+Chunk 6: 3 sources admitted (Airtel first tech-neutral fixed authorisation Jan 2025; Moov FTTH coverage leader 2025;
+GABIX IXP relaunch 2026). New entity gabix (resource).
+FINALIZE — Batch total: 39 sources admitted (6 chunks), 0 leads, 0 discards, 0 pruned. 4 new intersections
+(gabon--infra-store, --dpi-govtech, --dpi-pay, --infra-cybersec; gabon--dpi-id existed & updated). 5 new entities
+(gabon-national-datacenter, apdpvp-gabon, gabon-legal-id-projects, gabon-connect, gabix) → +5 entities-index rows.
+Hub GAB.md refreshed (data-centre inauguration $14m, ANINF-MITRE, GABIX, Gabon Connect, e-gov legal framework, legal-ID
+pillars; connectivity Airtel/Moov/GABIX; cyber/DP section; entities + intersections). places-index GAB row rewritten.
+Dead-link lint 0; orphan lint 0/39. GAP-GAB-001 narrowed (APDPVP authority now sourced; DP statute still open);
+GAP-GAB-003 narrowed (Visa element now sourced; vendor-role disambiguation still open). new-queue/GAB → done.

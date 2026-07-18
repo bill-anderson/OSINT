@@ -4,9 +4,9 @@ title: Gabon
 code: GAB
 parent: XCA
 place_kind: country
-topics: [dpi.id, dpi.pay, dpi.govtech, dpi.registry, dpi.mis, dpi.exchange, gov.policy, gov.protect, gov.legislate, infra.store, infra.connect, infra.cybersec, tech.innovate, finance.new, finance.mou, include.access, capacity.training]
+topics: [dpi.id, dpi.pay, dpi.govtech, dpi.registry, dpi.mis, dpi.exchange, gov.policy, gov.protect, gov.legislate, infra.store, infra.connect, infra.cybersec, tech.innovate, tech.ai, finance.new, finance.mou, include.access, capacity.training, digital.localgov, geopol.usa, geopol.china]
 status: active
-last_reviewed: 2026-07-15
+last_reviewed: 2026-07-18
 ---
 
 # Gabon (GAB)
@@ -19,10 +19,24 @@ substantially on foreign finance and vendors, and dogged by slow disbursement an
 
 ## Recent developments
 
-- **2026-07-04** — Inaugurates its **first Tier III datacenter** ([[st-digital-gabon]], led by Laïka
-  Mba) to host government/business data domestically and "reduce reliance on foreign digital
-  infrastructure." A Ministry–ST Digital **MoU** gives supported startups preferential hosting. Source:
-  [[2026-07-06 Gabon Inaugurates First Tier III Datacenter to Boost Digital Sovereignty]].
+- **2026-07-03** — Inaugurates its **first national Tier III data centre** ([[gabon-national-datacenter]],
+  built by **[[st-digital-gabon]]** in the Nkok SEZ; President Oligui Nguema) — **$14m / 8bn CFA**, 92 racks,
+  3,000 m², 1 MW, peered to ACE + SAT-3/WACS — against **~95% of Gabon's data hosted abroad**, reviewed with the
+  **[[apdpvp-gabon|APDPVP]]** for data-localisation compliance. See [[gabon--infra-store]]. Sources:
+  [[2026-07-07-gabon-datacenter-inauguration-figures]], [[2026-06-10-gabon-datacenter-readiness-apdpvp-compliance]].
+- **2026-06** — **ANINF–MITRE (US) cybersecurity architecture** cooperation; ANINF opened its **first
+  provincial office (Franceville)**. See [[gabon--infra-cybersec]], [[gabon--dpi-govtech]]. Sources:
+  [[2026-06-23-gabon-aninf-mitre-cybersecurity]], [[2026-06-24-gabon-aninf-franceville-office]].
+- **2026-05** — **GABIX national IXP relaunch** ([[gabix]]) for local peering / sovereignty; **CNAMGS–ANINF**
+  IS-audit MoU. See [[gabon--infra-cybersec]]. Sources: [[2026-05-13-gabon-gabix-ixp-relaunch]],
+  [[2026-05-10-gabon-cnamgs-aninf-mou]].
+- **2026-02** — **"Gabon Connect" single digital window** ([[gabon-connect]], IKA Technology) presented to the
+  President; **Madigipaie** extended to **TaxiGab**. See [[gabon--dpi-govtech]], [[gabon--dpi-pay]]. Sources:
+  [[2026-02-20-gabon-connect-single-digital-window]], [[2026-03-01-gabon-madigipaie-taxigab]].
+- **2025-10-07** — **E-government legal framework** — an ordinance (JO 7 Sept 2025) gives e-gov its **first
+  comprehensive legal basis**. See [[gabon--dpi-govtech]]. Source: [[2025-10-07-gabon-egov-legal-framework]].
+- **2025-06** — **Three legal-ID pillars launched** ([[gabon-legal-id-projects]]: RBPP, SNID, CNEC) under Gabon
+  Digital component 2. See [[gabon--dpi-id]]. Source: [[2025-06-23-gabon-legal-digital-id-three-projects]].
 - **2026-02-23** — **5th eGabon / Gabon Digital steering committee**: officials flag the **too-low
   disbursement rate** and weak interministerial coordination, pushing from project-structuring to
   execution. Source: [[2026-02-24-gabon-digital-reform-execution-speedup]].
@@ -80,8 +94,10 @@ The education MIS **[[sige-gabon]]** (SIGE), with World Bank tablets and integra
 indicators.
 
 ### Strategy, governance & data protection — [[gov.policy]] · [[gov.protect]] · [[infra.cybersec]]
-"Gabon Digital"/eGabon strategy under the [[digital-gabon-project]]; a 2025 digital-sovereignty
-ordinance; data-protection/cybersecurity foundations financed by the World Bank. Benchmarks (2024-25):
+"Gabon Digital"/eGabon strategy under the [[digital-gabon-project]] ([[gabon--dpi-govtech]]); a 2025
+digital-sovereignty ordinance (JO Sept 2025); the **[[apdpvp-gabon|APDPVP]]** data-protection authority (2026
+DGMP data-destruction enforcement); a cyber posture via **ANINF** (SecBOM, ANINF–**MITRE** US cooperation,
+Interpol Serengeti 2.0, soft-power-hub strategy) — see [[gabon--infra-cybersec]]. Benchmarks (2024-25):
 **EGDI 121st/193 (0.5741)**; **ITU IDI 76.1/100 (11th of 42 in Africa)**; **ITU GCI 2024 Tier 4
 (39.86/100)** — strong on legal, weak on technical/organisational.
 
@@ -89,15 +105,21 @@ ordinance; data-protection/cybersecurity foundations financed by the World Bank.
 Early-2025 (DataReportal): **71.9% internet penetration** (1.84m users), 124% mobile-connection
 penetration (3.19m, 88% broadband), 30.5% social-media use; population 2.57m, 91.4% urban. 2026 plans:
 fibre expansion, 5G, a new submarine cable. Source: [[2025-03-03-datareportal-digital-2025-gabon]].
+**Airtel Gabon** won the **first technology-neutral fixed-network authorisation** (ARCEP, Jan 2025); **Moov
+Africa Gabon Telecom** led **FTTH** coverage (9 new localities in 2025); the **[[gabix|GABIX]]** national IXP
+was **relaunched** (2026) for local peering and lower transit costs. Sources:
+[[2025-01-07-gabon-airtel-fixed-services]], [[2025-01-29-gabon-moov-ftth-coverage-leader]].
 
 ## Entities
 
 - Programmes: [[digital-gabon-project]] · [[sigfip-gabon]] · [[madigipaie-gabon]] · [[digitax-gabon]] ·
-  [[registre-social-unique-gabon]] · [[sige-gabon]]
-- Bodies: [[aninf-gabon]] · [[dgi-gabon]]
+  [[registre-social-unique-gabon]] · [[sige-gabon]] · [[gabon-legal-id-projects]] · [[gabon-connect]]
+- Bodies: [[aninf-gabon]] · [[dgi-gabon]] · [[apdpvp-gabon]]
+- Infrastructure: [[gabon-national-datacenter]] · [[gabix]] · [[st-digital-gabon]]
 - Vendors/partners: [[in-groupe]] · [[thales]] · [[ign-fi]] · [[world-bank]] · [[uncdf]] · [[visa]] ·
-  [[huawei]] · [[st-digital-gabon]] · [[beac]]
+  [[huawei]] · [[beac]]
 - Deals: [[gabon-huawei-mou]] · [[gabon-uncdf-financial-inclusion-deal]] ·
   [[gabon-visa-partnership-deal]] · [[gabon-ign-fi-cadastre-deal]]
-- Mentioned, not hubbed: Ministry of Digital Economy (Minister Mark-Alexandre Doumba), CN-TIPPEE
-  (implementing agency), GIMAC/GIMACPAY, Semlex, ID30, APT, Cisco, Tech 41, Moov Africa Gabon Telecom.
+- Intersections: [[gabon--dpi-id]] · [[gabon--dpi-govtech]] · [[gabon--dpi-pay]] · [[gabon--infra-store]] · [[gabon--infra-cybersec]]
+- Mentioned, not hubbed: Ministry of Digital Economy (Minister Mark-Alexandre Doumba); CN-TIPPEE; GIMAC/GIMACPAY;
+  Semlex; ID30; IKA Technology; MITRE; CNAMGS; ANUTTC; Airtel Gabon; Moov Africa Gabon Telecom.
