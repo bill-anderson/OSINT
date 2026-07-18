@@ -6015,3 +6015,11 @@ M2M Group Morocco, 18-mo, biometric attendance/automated payroll/centralised reg
 public-administration informatisation body distinct from CNEDOGE, WB Global Digital Summit 2025, CARDIP). Patente Tributaria
 Única digital tax-licence; UNDP "Digital Fitness" public-sector capacity; China tech cooperation (INSTTIC training, FOCAC
 2027 co-chair, Djibloho cyber/AI forum — geopol.china, capture-not-endorsement). DG of AI Systems noted.
+
+## 2026-07-18 — ingest(GNQ) chunk 5/5: Data centres, digital economy & cyber
+6 sources admitted. New intersection `gnq--infra-store`. Entities: ley-7-2024-gnq (instrument; cybercrime/social-media
+law 23 Dec 2024, minors<14/privacy/identity-usurpation, creates ANCIC cyber agency, Budapest+Malabo-inspired),
+zeede-djibloho (initiative; Djibloho digital economic zone AI/big-data/data-centres, draft decree). Updated malabo-convention
+(GNQ — the host state — finally ratified 25 Mar 2026, a decade after adopting it in Malabo). PAMFP data centres (Malabo
+primary + Bata backup solar); WB/ADIGE data-centre planning; GITGE ministries digital-maturity gap (interop 15%/BigData
+21%/analysis 10%).

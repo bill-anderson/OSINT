@@ -29,6 +29,10 @@ affected countries, not to a geographic region.
 - **Slow ratification is itself the story.** The near-decade gap between adoption (2014) and
   entry into force (2023) is a recurring datapoint on the weakness of continental data-governance
   harmonisation — the fragmentation that [[gov.regional]] and AfCFTA data-flow work must overcome.
+  Pointedly, the **host state itself — Equatorial Guinea — only ratified the Convention on 25 March
+  2026** (Chamber of Deputies, unanimous; alongside its **[[ley-7-2024-gnq|Ley 7/2024]]** cybercrime
+  law) — a decade after adopting it in Malabo. Source:
+  [[2026-03-25-ratifican-convencion-malabo-ciberseguridad-datos-reg]].
 
 ## How to use / cite
 
