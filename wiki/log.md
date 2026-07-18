@@ -5584,3 +5584,18 @@ open-access/neutrality objection**; Starlink at 0.2% market (ARME Q2 2025). All 
 $51.7M AfDB, same event**) + Mindelo; Web Summit/SikaBaDu; honest AI-divide press debate; Uni-CV Creole
 NLP; Digital Africa Corridor (NGA); Tech Ambassador (Olavo Correia). All 23 moved new→raw. **new/ empty —
 60 admitted, 0 pruned.**
+
+### 2026-07-18 · ingest CPV · BATCH COMPLETE
+**60 sources admitted, 0 leads, 0 discards, 0 pruned.** From 60 staged (36 newspaper A Nação/Expresso das
+Ilhas + 24 trade-journal) — CPV was a **genuine prior blind spot** (no held paper URLs). **~15 new
+entities** + **3 new intersections** ([[cabo-verde--dpi-id]], [[cabo-verde--infra-connect]],
+[[cabo-verde--tech-innovate]]) + expanded [[cabo-verde--dpi-govtech]]/[[cabo-verde--gov-protect]]. CPV hub
+updated. Highlights: **Autentika CRVS-ID → ~99% birth registration** (UIN at birth); National 5G Strategy
+(Resolution 33/2026); **€37M CVT guarantee vs UNITEL T+ neutrality objection**; TechPark Praia/Mindelo;
+NOSi govtech **export to Angola**; new Data + AI strategies. Two controversies held both-sided:
+**[[ine-cabo-verde|INE]] data-manipulation** row and a **NOSi election-night cyber-incident** (no formal
+contradiction — allegation vs rebuttal, not a wiki-adjudicated value). Figure reconciliations recorded
+inline (TechPark €45.59M = $51.7M; AfDB E-PFMRP €17.7M = $20.7M — same events, two currencies). 4 Expresso
+items are `body_completeness: paywalled` [CLIP] (canonical URL to verify on any re-use). Indexes updated
+(9 entities + NOSi-Angola deal; CPV places-index row). MANIFEST → new-queue/done/CPV/. Ingested in 5
+thematic chunks. All 60 source links lint clean (0 unresolved, 0 orphans).

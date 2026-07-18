@@ -4,9 +4,9 @@ title: Cabo Verde
 code: CPV
 parent: XWA
 place_kind: country
-topics: [dpi.govtech, dpi.id, dpi.exchange, gov.protect, infra.store, infra.cybersec, gov.policy, dpi.mis, include.divides, infra.connect]
+topics: [dpi.govtech, dpi.id, dpi.exchange, gov.protect, infra.store, infra.cybersec, gov.policy, dpi.mis, include.divides, infra.connect, tech.ai, tech.innovate, tech.industry, capacity.training, capacity.literacy, capacity.research, data.statistics, data.open, gov.legislate, gov.regional, gov.standards, finance.new, geopol.eu, geopol.usa, include.access]
 status: active
-last_reviewed: 2026-07-15
+last_reviewed: 2026-07-18
 ---
 
 # Cabo Verde (CPV)
@@ -20,6 +20,15 @@ digital and "tech islands" hub** (**[[techpark-cv|TechPark CV]]**), backed by th
 
 ## Recent developments
 
+- **2025–26 national-press sweep** — A Nação + Expresso das Ilhas + trade press (a genuine prior blind
+  spot) fill in the picture: **CRVS–ID interoperability ([[autentika-cabo-verde|Autentika]]) drove birth
+  registration to ~99%** (UIN at birth); a **National 5G Strategy** (Resolution 33/2026) bundling a
+  universal digital ID + data strategy; a **€37M [[cv-telecom]] guarantee** drawing a **[[unitel|UNITEL T+]]
+  neutrality objection**; **[[techpark-cv|TechPark]]** Praia (€45.59M AfDB) + Mindelo; **[[fundo-morabeza|
+  Fundo Morabeza]]** €24M; new **[[cabo-verde-data-ai-strategy|Data + AI strategies]]**; NOSi's govtech
+  **export to Angola**; and two live controversies — the **[[ine-cabo-verde|INE]] data-manipulation** row
+  and a **NOSi election-night cyber-incident**. See [[cabo-verde--dpi-id]], [[cabo-verde--infra-connect]],
+  [[cabo-verde--tech-innovate]], [[cabo-verde--gov-protect]].
 - **2026 (early)** — **Gov.CV unified government portal launched.** PM Ulisses Correia e Silva
   launched **[[gov-cv|Gov.CV]]** (web + app) as the single gateway to identity, tax, education,
   transport and social services — alongside a parallel CAR platform. See [[dpi.govtech]],
@@ -56,9 +65,20 @@ digital and "tech islands" hub** (**[[techpark-cv|TechPark CV]]**), backed by th
 
 ## Active topics
 
-- [[dpi.govtech]] · [[dpi.id]] — NOSi's IGRP stack, the Gov.CV portal, digital identity &
-  interoperability; target of **60% services online by 2026, 80% by 2030**. See
-  [[cabo-verde--dpi-govtech]].
+- [[dpi.govtech]] · [[dpi.id]] — NOSi's IGRP stack, the Gov.CV portal, Empresa Online, the annual **Semana
+  do Digital**, and NOSi's govtech **export to Angola** ([[nosi-angola-setic-mou]]); target of **60%
+  services online by 2026, 80% by 2030**. See [[cabo-verde--dpi-govtech]].
+- **Digital identity & CRVS** → **[[cabo-verde--dpi-id]]** — **[[autentika-cabo-verde|Autentika]]** CRVS-ID
+  (UIN at birth → ~99% birth registration); [[cnpd-cabo-verde|CNPD]] (deepfakes, PJ CCTV-access debate);
+  PALOP cooperation.
+- **Connectivity & 5G** → **[[cabo-verde--infra-connect]]** — the [[cabo-verde-5g-strategy|National 5G
+  Strategy]]; a **€37M [[cv-telecom]] guarantee vs [[unitel|UNITEL T+]] neutrality objection**; Starlink 0.2%.
+- **AI, innovation & skills** → **[[cabo-verde--tech-innovate]]** — [[techpark-cv|TechPark]] Praia/Mindelo;
+  [[fundo-morabeza]] €24M; [[skodji-digital]]; [[cabo-verde-data-ai-strategy|Data + AI strategies]];
+  the honest AI-divide debate.
+- **Statistics integrity** — the **[[ine-cabo-verde|INE]]** data-manipulation controversy (allegation vs
+  rebuttal, both held); and a **NOSi election-night cyber-incident** (2026 legislatives). See
+  [[cabo-verde--gov-protect]].
 - [[gov.protect]] · [[infra.cybersec]] — Law 133/V/2001 + CNPD; national SOC/CSIRT. See
   [[cabo-verde--gov-protect]].
 - [[infra.store]] · [[gov.policy]] — **[[techpark-cv|TechPark CV]]** "tech islands" (Praia +
@@ -69,9 +89,12 @@ digital and "tech islands" hub** (**[[techpark-cv|TechPark CV]]**), backed by th
 
 ## Entities
 
-- **GovTech / e-gov:** [[nosi]] · [[gov-cv]] · [[digital-cabo-verde-project]]
-- **Data protection:** [[cnpd-cabo-verde]] · [[data-protection-law-cabo-verde]]
-- **Infrastructure / investment:** [[techpark-cv]] · [[african-development-bank]]
+- **GovTech / e-gov:** [[nosi]] · [[gov-cv]] · [[digital-cabo-verde-project]] · [[nosi-angola-setic-mou]]
+- **Identity / statistics:** [[autentika-cabo-verde]] · [[ine-cabo-verde]]
+- **Data protection / cyber:** [[cnpd-cabo-verde]] · [[data-protection-law-cabo-verde]] · [[visionware]]
+- **Connectivity:** [[cv-telecom]] · [[unitel]] · [[cabo-verde-5g-strategy]] · [[starlink]]
+- **Innovation / AI / skills:** [[techpark-cv]] · [[fundo-morabeza]] · [[skodji-digital]] · [[cabo-verde-data-ai-strategy]]
+- **Infrastructure / investment:** [[african-development-bank]]
 - Mentioned, not hubbed: PM Ulisses (José) Correia e Silva; Min. Eurico Monteiro (State
   Modernization & Public Administration); Sec. of State Pedro Lopes (Digital Economy); Health
   Min. Jorge Figueiredo; Cabo Verde Digital; WebLabs / NOSiAkademia; "Sikabadu" diaspora programme.

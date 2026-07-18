@@ -6,6 +6,8 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 
 | Entity | Places | Topics | Page |
 |---|---|---|---|
+| VisionWare | PRT, CPV | infra.cybersec, tech.industry | [[visionware]] |
+| CV Telecom (Cabo Verde Telecom) | CPV | infra.connect, tech.industry | [[cv-telecom]] |
 | Comores Télécom | COM | infra.connect, tech.industry | [[comores-telecom]] |
 | Congo Télécom | COG | infra.connect, tech.industry | [[congo-telecom]] |
 | Gozem (Congo-Brazzaville) | COG, TGO | dpi.pay, tech.innovate | [[gozem-congo]] |
@@ -411,6 +413,7 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 
 | Entity | Places | Topics | Page |
 |---|---|---|---|
+| INE (National Statistics Institute, Cabo Verde) | CPV | data.statistics, data.open | [[ine-cabo-verde]] |
 | ANEC (National Civil-Status Agency, Comoros) | COM | dpi.registry, dpi.id | [[anec-comoros]] |
 | ANSSI (National Cybersecurity Agency, Congo-Brazzaville) | COG | infra.cybersec, gov.regional | [[anssi-congo]] |
 | FASUCE (universal-access fund, Congo-Brazzaville) | COG | infra.connect, include.access | [[fasuce-congo]] |
@@ -712,6 +715,8 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 | RGPH-2 (2nd population & housing census, DR Congo) | COD | data.statistics, gov.policy | [[rgph2-drc]] |
 | ADIS (Africa Digital Innovation Summit, DR Congo) | COD | tech.innovate, gov.regional | [[adis-drc]] |
 | RSU (Registre Social Unique, DR Congo) | COD | dpi.registry, dpi.mis | [[rsu-drc]] |
+| Fundo Morabeza (Cabo Verde startup fund) | CPV | finance.new, tech.innovate | [[fundo-morabeza]] |
+| Skodji Digital (Cabo Verde youth digital-skills) | CPV | capacity.training, include.access | [[skodji-digital]] |
 | AMECC (Comoros civil-registry modernisation) | COM | dpi.registry, dpi.id | [[amecc-comoros]] |
 | RSU (Registre Social Unique, Comoros) | COM | dpi.registry, dpi.mis | [[rsu-comoros]] |
 | KomorPay / Komor Switch (Comoros) | COM | dpi.pay, finance.new | [[komorpay-comoros]] |
@@ -975,6 +980,7 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 
 | Entity | Places | Topics | Page |
 |---|---|---|---|
+| NOSi–SETIC FP Angola govtech MoU | CPV, AGO | dpi.govtech, finance.mou, gov.regional | [[nosi-angola-setic-mou]] |
 | TeKnowledge–Equinix partnership | NGA, XWA | infra.store, tech.ai, infra.cybersec | [[teknowledge-equinix-partnership]] |
 | Gabon–UNCDF Financial Inclusion Partnership | GAB | finance.mou, dpi.pay, include.access | [[gabon-uncdf-financial-inclusion-deal]] |
 | Gabon–Visa Financial Inclusion Partnership | GAB | finance.mou, dpi.pay, dpi.id | [[gabon-visa-partnership-deal]] |
@@ -1148,6 +1154,7 @@ Databases, registries, datasets, tools and portals consulted repeatedly (entity_
 | Africa-BB-Maps (CIV broadband infrastructure map) | CIV | infra.connect, data.open | [[africa-bb-maps]] |
 | Géoportail du Grand Abidjan | CIV | data.satellite, dpi.registry, digital.localgov | [[geoportail-grand-abidjan]] |
 | TrésorPay–TrésorMoney (CIV Treasury payment rail) | CIV | dpi.pay, dpi.govtech | [[tresorpay-tresormoney]] |
+| Autentika (Cabo Verde CRVS-ID interoperability platform) | CPV | dpi.id, dpi.registry | [[autentika-cabo-verde]] |
 | .km ccTLD (Comoros) | COM | infra.connect, gov.standards | [[comoros-cctld-km]] |
 | KomoraLink (Comoros B2B commerce platform) | COM | dpi.pay, tech.innovate | [[komoralink-comoros]] |
 | e-Msomo / e-Shiyo (Comoros EdTech platforms) | COM | dpi.mis, dpi.id | [[e-msomo-comoros]] |
@@ -1216,6 +1223,8 @@ about or from one becomes a normal source that cites it.
 
 | Instrument | Places | Topics | Page |
 |---|---|---|---|
+| Cabo Verde National 5G Strategy | CPV | infra.connect, gov.policy | [[cabo-verde-5g-strategy]] |
+| Cabo Verde National Data & AI Strategies | CPV | tech.ai, gov.policy | [[cabo-verde-data-ai-strategy]] |
 | Congo-Brazzaville National AI Strategy | COG | tech.ai, gov.policy | [[congo-ai-strategy]] |
 | Congo-Brazzaville National Data Governance Strategy | COG | data.open, gov.policy | [[congo-data-governance-strategy]] |
 | DR Congo Access to Information bill | COD | data.open, gov.legislate | [[access-to-information-bill-drc]] |
