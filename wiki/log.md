@@ -5874,3 +5874,10 @@ critique + Sam George rebuttal — partly resolves GAP-GHA-003), ghana-data-harm
 interoperability bill, consultation Nov 2025). Updated data-protection-commission-ghana (new Governing Board chair Teki
 Akuetteh Aug 2025, 2026 "year of enforcement"). Privacy campaign (GAPP/16-region); tech-law "15 digital bills"/AITLAP.
 Fixed 2026-06-05 file: NDPC = National Development Planning Commission (not Data Protection); dropped gov.protect tag.
+
+## 2026-07-18 — ingest(GHA) chunk 4/7: Connectivity (5G, fibre, data centres)
+13 sources admitted. New intersection `ghana--infra-connect`. Entities: ngic-ghana (company; Next-Gen InfraCo wholesale
+5G — NCA clearance/Nokia Mar 2026, then exclusivity ENDED Jul 2026 / market opened MTN+Telecel), gifec-ghana (govt-body;
+universal-access fund, Rural Telephony Project/Huawei — partly resolves GAP-GHA-003), digital-realty-accra (resource;
+ACR2 largest DC, 1.7MW/500 racks/2Africa). 5G-by-2027 directive (70%); 8,000+ fibre cuts/yr + 157-site sabotage; Dig Once
+(60% cost cut); 1,150 cell sites; MTN fibre price cut GH¢987→299; spectrum applications opened.
