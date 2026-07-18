@@ -5922,3 +5922,10 @@ DGE-ONECI convention (RNPP = source unique). Updated guinea--dpi-id (RAVEC/RNPP 
 Karifa Diawara). Single ACE cable saturated → MEDUSA Africa 2nd cable (C&MA May 2026) + Via Africa 3rd cable (co-invest
 Jun 2026) + Amílcar Cabral; Guinea-Sierra Leone fibre (42.5→100 Gbps); FESATEL FTTH/Wifi-Zone/Starlink-non-recognition
 dispute; Orange quality push; Univ Connect 17 unis (ANSUTEN). JMTSI 2025 sovereignty scorecard (Technopark/CERT-SOC/PKI).
+
+## 2026-07-18 — ingest(GIN) chunk 3/5: GovTech & e-government
+9 sources admitted. New intersection `guinea--dpi-govtech`. Entities: ande-guinea (govt-body; state digitalisation agency
+— partly resolves GAP-GIN-001), telemo-guinea (resource; e-procurement Guinea-Rwanda, procurement 11-15% GDP). Updated
+ministry-digital-economy-guinea (MCENI merger Feb 2026 — Mourana Soumah supersedes Rose Pola Pricemou; Communication+Digital
+Economy merged). Nine-project package (GUSP/Gouv-Lab/eTax/ANDE/FUGAS, Simandou 2040); Guichet Unique ASAN (Azerbaijan);
+GovStack/WARDIP; digital Journal Officiel; eCNSS; LANDAYA e-permits; vehicle-attestation (Ivorian SIIN/DIGITECH).

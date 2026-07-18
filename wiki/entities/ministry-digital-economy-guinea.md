@@ -6,11 +6,17 @@ places: [GIN]
 topics: [gov.policy, infra.connect, dpi.govtech, infra.store]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-16
-sources: [[2026-01-14 Guinea Reviews 2025 Digital Sector Gains, Targets Faster Rollout in 2026], [2025-11-13 Transform Africa Summit 2025 opens in Conakry, epicentre of digital cooperation in Africa]]
+last_reviewed: 2026-07-18
+sources: [[[2026-01-14 Guinea Reviews 2025 Digital Sector Gains, Targets Faster Rollout in 2026]], [[2025-11-13 Transform Africa Summit 2025 opens in Conakry, epicentre of digital cooperation in Africa]], [[2026-02-06-mediaguinee-mourana-soumah-takes-office-mceni]]]
 ---
 
 # Ministry of Posts, Telecommunications and Digital Economy (Guinea)
+
+> **Reorganisation (2026-02).** The digital-economy portfolio was **merged with Communication and Innovation**
+> into a new ministry (**MCENI** — Communication, Économie numérique et Innovation), with **Mourana Soumah**
+> taking office (6 Feb 2026), superseding **Rose Pola Pricemou**. Framed as "at the heart of the state's modern
+> sovereignty." Source: [[2026-02-06-mediaguinee-mourana-soumah-takes-office-mceni]].
+
 
 Guinea's lead ministry for the digital agenda — driving connectivity, e-government, data sovereignty and the sector's contribution to GDP under [[simandou-2040]]. Minister (2025): **[[rose-pola-pricemou]]**. It oversees the national backbone, the Tier III data centre ([[guinea-national-data-centre]]), sovereign .gn management, and the newly structured delivery agencies **ANDE** (state digitalization), **ANSSI** (cybersecurity) and **ANSUTEN** (universal service/inclusion). See [[GIN]], [[gov.policy]].
 
