@@ -5645,3 +5645,10 @@ mobilis (companies); arpce-algeria, ministry-of-post-and-telecommunications-alge
 algerie-telecom-sparkle-cable (deal); sparkle, ericsson (vendor companies). Updated algerie-telecom (3m FTTH households
 / 3.4m fibre subs / 7m fixed / 51m mobile 2026-05; 400G, WiFi7, IPv6, Sparkle). FTTH "1st in Africa" (2026-02);
 5G nationwide by Djezzy (18 states) & Ooredoo (all wilayas) 2026-03; satellite-ISP NGSO tender (2026-04); Ookla Algiers 48th.
+
+## 2026-07-18 — ingest(DZA) chunk 2/8: Data centres, cloud & sovereignty
+8 sources admitted. New intersection `algeria--infra-store`. Entities: national-digital-services-center-algeria
+(resource; Algiers/Mohammadia + Blida active-active, Huawei, Tier III, 99.98%, inaugurated 2026-07-05 by Tebboune),
+cerist (organisation; cloud/drone/incubator Mar 2025), abdelmadjid-tebboune (person, President), meriem-benmouloud
+(person, Min. Digitalization & Statistics). Constantine DC (2023), Oran AI DC (2025-03), Blida under deployment;
+200,000+ km fibre; parliament sovereign cloud; one-month admin-interconnection order (2026-07-12). Huawei = geopol.china thread.
