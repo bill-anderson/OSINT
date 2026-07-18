@@ -5731,3 +5731,10 @@ exports $7.4bn/outsourcing $4.8bn 2025; fixed broadband 12.6m (Nov 2025); $6bn t
 NTRA licence in 2yrs). MCIT national DC strategy (presidential directive, localisation); cabinet hyperscale expansion;
 Sinai green >$1bn hyperscale DC (Renergy, Japanese interest); Huawei Cloud Egypt region 2024 + FRA localisation + Thndr
 MoU (geopol.china); SAP cloud/AI (geopol.eu). $42.7bn AI value / 7.7% GDP by 2030; Africa <2% global DC capacity.
+
+## 2026-07-18 — ingest(EGY) chunk 3/6: Payments & fintech
+7 sources admitted. Updated intersection `egypt--dpi-pay`. Entities created: fawry (company, $1.3bn cap, ~6m tx/day,
+2025 financials), blnk (company, $37m raise, PoS lending, 16.7m credit-excluded), onebank-egypt (company, first digital
+bank, Banque Misr/MDI, CBE-approved 2025-08). InstaPay 16m users/1.1bn tx/EGP 2.4tn (Jun 2025)/EGP 4.2tn (Jul24-Jun25)
++ remittances; fees from 1 Apr 2025 (0.1%, max EGP20); Meeza 43.5m; wallets 55.5m; inclusion 76.3%→77.6%; Senate
+45m-wallet onboarding proposal.
