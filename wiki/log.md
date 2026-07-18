@@ -5757,3 +5757,12 @@ families, Egypt Post-linked). No new entities (updates to existing platform page
 (instrument, EGP 50bn/5,000 startups/$5bn/500k jobs; InfiniLink→GlobalFoundries), itida-egypt (govt-body, EY MENA ITO MoU
 1,000+ jobs). NTI Cybersecurity SuperHero Academy (6,000 trainees/17 govs, EG-CERT/Fortinet/Cisco); Egypt-UK ICT (no geopol.uk).
 CURRENCY: MCIT minister Amr Talaat (through early 2026) → Raafat Hindi (Senate AI session Jun 2026) — handover noted dated on mcit-egypt.
+
+## 2026-07-18 — ingest(EGY) FINALIZE
+Batch total: 35 sources admitted (6 chunks), 0 leads, 0 discards. Egypt hub already mature — batch was mostly
+updates + new deals/entities. Hub EGY.md refreshed: new Recent-developments (data-centre/AI push, spectrum deal,
+AI Strategy 2, Digital Egypt 210 services/GTMI 22nd, fintech); standing profile updated (GTMI 22nd, InstaPay EGP 4.2tn,
+~15 subsea, 10 DC licences, digital exports $7.4bn); Active topics + Entities expanded. 3 new intersections (infra-connect,
+infra-store, tech-ai); 3 updated (dpi-pay, dpi-id, dpi-govtech). entities-index +8 rows (4 companies, 1 govt body,
+1 deal, 2 instruments). places-index EGY row rewritten. Dead-link lint 0; orphan lint 0/35. Minister handover recorded
+(Amr Talaat → Raafat Hindi, H1 2026). new-queue/EGY → done; stray new/MANIFEST.md removed. No contradictions/leads/discards.

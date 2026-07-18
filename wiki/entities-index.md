@@ -6,6 +6,10 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 
 | Entity | Places | Topics | Page |
 |---|---|---|---|
+| Fawry | EGY | dpi.pay, tech.industry, finance.new | [[fawry]] |
+| Blnk | EGY | dpi.pay, finance.new, include.access | [[blnk]] |
+| onebank (Egypt's first digital bank) | EGY | dpi.pay, finance.new | [[onebank-egypt]] |
+| Digified | EGY | dpi.id, dpi.pay | [[digified]] |
 | Ooredoo Algeria | DZA | infra.connect, tech.ai | [[ooredoo-algeria]] |
 | Djezzy (Optimum Télécom Algérie) | DZA | infra.connect, tech.ai, tech.industry | [[djezzy]] |
 | Mobilis (ATM Mobilis) | DZA | infra.connect, include.access | [[mobilis]] |
@@ -423,6 +427,7 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 
 | Entity | Places | Topics | Page |
 |---|---|---|---|
+| ITIDA (IT Industry Development Agency, Egypt) | EGY | tech.industry, capacity.training | [[itida-egypt]] |
 | ARPCE (Algeria post/telecom regulator) | DZA | infra.connect, gov.legislate, dpi.id | [[arpce-algeria]] |
 | Ministry of Post & Telecommunications (Algeria) | DZA | infra.connect, gov.policy | [[ministry-of-post-and-telecommunications-algeria]] |
 | ASSI (Information Systems Security Agency, Algeria) | DZA | infra.cybersec, gov.policy | [[assi]] |
@@ -1003,6 +1008,7 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 
 | Entity | Places | Topics | Page |
 |---|---|---|---|
+| Hassan Allam Digital Infrastructure data-centre licence ($400m, +A15) | EGY | infra.store, tech.ai, finance.new | [[hassan-allam-data-centre]] |
 | Algérie Télécom–Sparkle Italy–Algeria subsea cable (MoU) | DZA | infra.connect, finance.mou | [[algerie-telecom-sparkle-cable]] |
 | Algeria–Russia cybersecurity MoU (Positive Technologies × Proxylan/CERIST) | DZA | infra.cybersec, finance.mou | [[algeria-russia-cybersecurity-mou]] |
 | NOSi–SETIC FP Angola govtech MoU | CPV, AGO | dpi.govtech, finance.mou, gov.regional | [[nosi-angola-setic-mou]] |
@@ -1258,6 +1264,8 @@ about or from one becomes a normal source that cites it.
 
 | Instrument | Places | Topics | Page |
 |---|---|---|---|
+| Egypt National AI Strategy (2nd edition, 2025) | EGY | tech.ai, gov.policy | [[egypt-ai-strategy]] |
+| Egypt Startup Charter | EGY | tech.innovate, finance.new, gov.policy | [[egypt-startup-charter]] |
 | Algeria National ISS Strategy 2025–2029 | DZA | infra.cybersec, gov.policy | [[algeria-national-cybersecurity-strategy-2025-2029]] |
 | Algeria biometric national ID card | DZA | dpi.id, dpi.registry | [[algeria-biometric-id-card]] |
 | Djibouti National AI Strategy | DJI | tech.ai, gov.policy, geopol.china | [[djibouti-ai-strategy]] |
