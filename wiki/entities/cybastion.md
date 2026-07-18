@@ -2,7 +2,7 @@
 type: entity
 entity_type: company
 title: Cybastion
-places: [BEN, AGO, CIV, XAF]
+places: [BEN, AGO, CIV, COD, XAF]
 topics: [dpi.govtech, infra.cybersec, dpi.pay, geopol.usa, geopol.china, finance.new]
 lens: [sovereignty]
 status: active
@@ -39,6 +39,11 @@ Angolan reporting characterises Cybastion as a **US-based** technology firm (CEO
   [[2026-04-24-cybastion-etourism-platform-roadmap-techafricanews]],
   [[2026-06-15-cybastion-sublime-cote-divoire-e-tourism-platform-techafricanews]],
   [[2026-07-17-us-starlink-approval-170m-data-centre-garcia-techafricanews]].
+- **DR Congo MoU (Apr 2026, Washington).** Signed an MoU with the DRC to support **digital-infrastructure
+  and cybersecurity** development — inked in **Washington DC on the sidelines of the IMF–World Bank Spring
+  Meetings** — adding DRC to the US-courtship thread (beside PayServices and Pax Silica). See [[COD]],
+  [[geopol.usa]]. Sources: [[2026-04-17-cybastion-partners-drc-digital-infrastructure-cybersecurity-techafricanews]],
+  [[2026-04-22-cybastion-support-digital-infrastructure-drc-biometricupdate]].
 - **Benin SECUROUTE upgrade (Jan 2026).** Cybastion is partnering with Benin's
   **Ministry of Economy and Finance** to expand digital infrastructure for full
   interoperability with [[securoute]], the national road-enforcement data

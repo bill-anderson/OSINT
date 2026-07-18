@@ -5423,3 +5423,10 @@ Orange-Vodacom rural solar JV; Raxio/OADC compliance. All 13 moved new→raw.
 interbank, historical baseline). Bottom-up interoperability (Ecobank Auto-Allocation Airtel+Orange;
 FirstMonie; Transforme/Paycode MFI-to-switch). USD rails (FirstBank) vs de-dollarisation tension flagged.
 Mobile-money count divergence (24/29/30/35m) noted. All 14 moved new→raw.
+
+### 2026-07-18 · ingest COD · chunk 7/8 — AI, cybersecurity, skills & innovation
+**12 sources admitted.** Expanded [[drc-national-ai-strategy]]: **AI already in the classroom** (marked the
+2024-25 Examen d'État; e-Diplôme; Malu/ADIS argues endogenous>foreign); **[[bokeli-fogec|Bokeli]]** live AI
+state platform (Quantum Vertex); skills ground-truth (Femintech 41 brevets vs 250k goal); **$500m WB/AFD**
+transformation + "AI Sphere"; **first DRC–China police accord naming cybercrime** (May 2026). New entities
+[[adis-drc]], [[bokeli-fogec]]. Added DRC to [[cybastion]] (Washington MoU, Apr 2026). All 12 moved new→raw.
