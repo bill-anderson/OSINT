@@ -5881,3 +5881,10 @@ Fixed 2026-06-05 file: NDPC = National Development Planning Commission (not Data
 universal-access fund, Rural Telephony Project/Huawei — partly resolves GAP-GHA-003), digital-realty-accra (resource;
 ACR2 largest DC, 1.7MW/500 racks/2Africa). 5G-by-2027 directive (70%); 8,000+ fibre cuts/yr + 157-site sabotage; Dig Once
 (60% cost cut); 1,150 cell sites; MTN fibre price cut GH¢987→299; spectrum applications opened.
+
+## 2026-07-18 — ingest(GHA) chunk 5/7: Payments & fintech
+18 sources admitted. Updated intersection `ghana--dpi-pay`. Entities: ghipss-ghana (govt-body; national switch/GIP/MoMo
+interop, cross-border ISO 20022/VASP — RESOLVES GAP-GHA-001), momo-fintech-ghana (company; MTN MoMo spinoff, Act 987,
+$549m 2025), zeepay-ghana (company; DEMI licence revoked 14 Jul 2026, Act 987 s.13). MoMo trajectory GH¢1→1.9→3.01→4.5tn
+(2022-25); GH¢518.4b = Dec-2025 monthly peak (reconciled). Tap-to-pay, Fincra licence, eCedi not abandoned/cross-border
+pivot, 81% Findex inclusion, 0.75% MoMo-bank fee debate, fraud 16,733/GH¢99m, BoG digital-banking framework.

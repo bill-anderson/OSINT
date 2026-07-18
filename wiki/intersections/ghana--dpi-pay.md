@@ -9,7 +9,7 @@ entities: [[bank-of-ghana], [papss], [onafriq], [onafriq-papss-ghana-launch], [l
 lens: []
 status: active
 last_reviewed: 2026-07-16
-sources: [[2026-04-01 RETRACTION Ghana's National ID cards can now make payments], [2026-02-05 Ghana Mobile Money Interoperability Nearly Doubles in 2025], [2025-06-23 Onafriq and PAPSS launch cross-border payments in Ghana], [2025-12-22 Government begins 99th cycle of LEAP cash-grant payments], [2025-09-09 Ghana to Mandate Biometric SIM Links in Bid to Curb Mobile Money Fraud], [2026-01-11 Ghana Card mandatory for banking and digital transactions - BoG], [2024-01-01 Payment Systems Oversight Annual Report 2023 (Bank of Ghana)]]
+sources: [[[2026-04-01 RETRACTION Ghana's National ID cards can now make payments]], [[2026-02-05 Ghana Mobile Money Interoperability Nearly Doubles in 2025]], [[2025-06-23 Onafriq and PAPSS launch cross-border payments in Ghana]], [[2025-12-22 Government begins 99th cycle of LEAP cash-grant payments]], [[2025-09-09 Ghana to Mandate Biometric SIM Links in Bid to Curb Mobile Money Fraud]], [[2026-01-11 Ghana Card mandatory for banking and digital transactions - BoG]], [[2024-01-01 Payment Systems Oversight Annual Report 2023 (Bank of Ghana)]]]
 ---
 
 # Ghana × Digital Payments
@@ -58,9 +58,40 @@ claim about Ghana Card *payment* functionality, kept so the reversed claim does 
   domestic interoperability as the platform for AfCFTA integration. See [[data.statistics]],
   [[gov.regional]]. Source: [[2026-02-05 Ghana Mobile Money Interoperability Nearly Doubles in 2025]].
 
+## 2025–26 developments
+
+- **Record scale (dated).** MoMo transaction value climbed **GH¢1tn → 1.9tn → 3.01tn → 4.5tn (2022 → 2025
+  full-year)** — a record GH¢4.5tn in 2025 (BoG). The **GH¢518.4b** figure is the **December-2025 monthly peak**
+  (not annual), consistent with the GH¢4.5tn year. Sources:
+  [[2025-12-15-momo-3trn-digital-payments-surge-myjoy]], [[2026-01-29-momo-2025-4-5-trillion-myjoy]],
+  [[2026-02-02-momo-transactions-518b-2025-graphic]].
+- **MoMo as standalone fintech.** **[[momo-fintech-ghana|MTN MobileMoney Fintech Ltd]]** — MTN completed the
+  **spin-off of its Ghana MoMo business** (Act 987 compliance; MoMo earned **$549m in 2025**). Tap-to-pay
+  arrived via **Blu Penguin × Network International** (any-provider MoMo on N-Genius POS); **Nikulipe** extended
+  MTN MoMo cross-border. Sources: [[2026-04-03-mtn-momo-standalone-fintech-techcabal]],
+  [[2025-07-18-ghana-tap-to-pay-blu-penguin-itweb]], [[2025-09-08-mtn-momo-nikulipe-expand-telecomreview]].
+- **Rails & cross-border.** **[[ghipss-ghana|GhIPSS]]** (the national switch behind GIP and MoMo
+  interoperability) is pushing **cross-border expansion** (ISO 20022 migration, VASP integration, 3i Africa
+  Summit). A **Nigerian PSP, Fincra**, secured an enhanced payment licence. Sources:
+  [[2026-05-06-ghipss-cross-border-expansion-3i-myjoy]], [[2026-05-06-fincra-enhanced-payment-licence-techcabal]].
+- **eCedi & inclusion.** BoG says the **eCedi is not abandoned** — it wants more pilots and is **pivoting to
+  cross-border settlement** (AfCFTA/stablecoin talks for SME trade); on inclusion, **81% account/phone ownership**
+  (2025 Findex) but "architecture" gaps remain, and BoG's fintech head argues **MoMo histories should unlock
+  loans/insurance**. A proposed **0.75% MoMo-to-bank fee** (e-levy successor) drew inclusion concerns, and Prof
+  Bokpin warned against a **"tax trap."** Sources: [[2026-05-20-ecedi-not-abandoned-governor-myjoy]],
+  [[2026-05-25-ecedi-cross-border-pivot-graphic]], [[2026-05-12-bog-inclusion-architecture-gaps-connectingafrica]],
+  [[2026-07-09-momo-histories-unlock-loans-informal-myjoy]], [[2026-05-27-momo-to-bank-0-75-fee-concerns-myjoy]],
+  [[2026-07-09-digital-finance-tax-trap-bokpin-myjoy]].
+- **Regulation & enforcement.** BoG revoked **[[zeepay-ghana|Zeepay]]'s DEMI licence** (14 Jul 2026; Act 987
+  s.13, e-money not fully cash-backed) and is rolling out a **new digital-banking framework** (draft guidelines +
+  VASP Act 2025 rules + revised cyber directive). Fraud is rising (**16,733 cases / ~GH¢99m at risk, 2024**),
+  fuelling a banks-vs-fintechs regulatory-burden dispute; BoG put **fintech at the forefront** of the digital
+  economy. Sources: [[2026-07-15-zeepay-licence-revocation-myjoy]], [[2026-07-16-bog-new-digital-banking-framework-myjoy]],
+  [[2026-07-08-banks-fintechs-regulatory-burden-fraud-myjoy]], [[2026-03-25-ghana-fintech-forefront-digital-economy-itweb]].
+
 ## Links
 
-Place: [[GHA]] · Concepts: [[dpi.pay]] · [[dpi.exchange]] · Intersection: [[ghana--dpi-id]] · Entities: [[bank-of-ghana]] · [[onafriq]] · [[papss]] · [[leap-ghana]]
+Place: [[GHA]] · Concepts: [[dpi.pay]] · [[dpi.exchange]] · Intersection: [[ghana--dpi-id]] · Entities: [[bank-of-ghana]] · [[ghipss-ghana]] · [[momo-fintech-ghana]] · [[zeepay-ghana]] · [[onafriq]] · [[papss]] · [[leap-ghana]]
 
 ## Sources
 
