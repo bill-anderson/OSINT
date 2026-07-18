@@ -6346,3 +6346,14 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
   JVs; Orange-Ericsson; Nokia-Medusa subsea (Europe-North Africa); Vodafone-Maroc Telecom enterprise MoU.
 - **Entities created:** [[inwi]] (company), [[anrt-morocco]] (government-body/regulator), [[nokia]]
   (company), [[vodafone]] (company).
+
+## 2026-07-18 — ingest(MAR) chunk 5/7: Cybersecurity + payments/fintech
+
+- **5 sources admitted** (0 leads, 0 discards).
+- **Intersection created:** [[morocco--infra-cybersec]] — $1.2bn market (+30% incidents); maCERT
+  FortiBleed alert; Rabat as ANCA regional cyber hub (leadership programme + regional CERT centre +
+  AUDA-NEPAD office).
+- **Entities created:** [[dgssi-morocco]] (government-body — DGSSI/maCERT, ANCA vice-presidency),
+  [[morocco-fintech-center]] (initiative — FinTech Center / Offre Startup Maroc; two Visa Fintech Days,
+  ~44% financial exclusion).
+- Note: 2 techreviewafrica items `provenance_flag: pr-wire`; 1 Assabah keeper (thin domain per manifest).
