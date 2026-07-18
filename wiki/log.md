@@ -5979,3 +5979,13 @@ e-commerce/e-signatures/cybercrime, 2nd reading Mar 2026, distinct from DP Act),
 Addressing Steering Committee, NDA Policy 2023). Updated gambia-data-protection-act-2025 (Paradigm Initiative praise/awaiting
 assent). KALP "Gambia One" blockchain DPI MoU; National Enterprise Architecture validated (ITU GovStack/GICTA); Senegal-Gambia
 ARTP-PURA regulatory cooperation + free roaming.
+
+## 2026-07-18 — ingest(GMB) chunk 5/5 + FINALIZE
+Chunk 5: 3 sources admitted (Wave-GTSC transport payments on gambia--dpi-pay; labour-digital-skill + Innovation-Sprint
+skills items cited on hub). FINALIZE — Batch total: 28 sources admitted (5 chunks), 0 leads, 0 discards, 0 pruned. 3 new
+intersections (gambia--dpi-id, gambia--infra-connect, gambia--dpi-govtech; gambia--dpi-pay existed/updated). 7 new entities
+(nims-gambia, gambia-starlink-licence, qgroup-house-datacentre, gamcel-ycell-deal, gamtel-sysroad-ppp, gambia-communications-bill-2025,
+ndasc-gambia) → +7 entities-index rows. Hub GMB.md refreshed (top developments block, entities/intersections); places-index
+GMB row rewritten. Dead-link lint 0; orphan lint 0/28. Same-event twins kept complementary (Margins signing, NIMS launch,
+QGroup House, GAMTEL-SYSROAD, GAMTEL-YCELL) — none pruned. GAMCEL price stages noted dated (D6.7bn bid → GMD 6.1bn final).
+GAP-GMB-001 (Central Bank/GRA) unchanged — not addressed this batch. new-queue/GMB → done.

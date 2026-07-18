@@ -432,6 +432,7 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 
 | Entity | Places | Topics | Page |
 |---|---|---|---|
+| NDASC (National Digital Addressing Steering Committee, The Gambia) | GMB | dpi.govtech, digital.localgov | [[ndasc-gambia]] |
 | GUILAB (Guinéenne de Large Bande) | GIN | infra.connect, infra.store | [[guilab-guinea]] |
 | ANDE (State Digitalisation Agency, Guinea) | GIN | dpi.govtech, gov.policy | [[ande-guinea]] |
 | ANSUTEN (Universal Telecom & Digital Service Agency, Guinea) | GIN | infra.connect, include.divides | [[ansuten-guinea]] |
@@ -1025,6 +1026,9 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 
 | Entity | Places | Topics | Page |
 |---|---|---|---|
+| Starlink Gambia licence saga | GMB | infra.connect, geopol.usa | [[gambia-starlink-licence]] |
+| YCELL acquisition of 80% of GAMCEL | GMB | tech.industry, finance.new | [[gamcel-ycell-deal]] |
+| GAMTEL–SYSROAD $50m broadband PPP | GMB, SEN | infra.connect, finance.new | [[gamtel-sysroad-ppp]] |
 | State acquisition of MTN Guinée (87.5%) | GIN | infra.connect, tech.industry | [[guinea-mtn-nationalisation]] |
 | Ghana Digital Acceleration Project (World Bank, $200m) | GHA | dpi.govtech, finance.new | [[ghana-digital-acceleration-project]] |
 | Hassan Allam Digital Infrastructure data-centre licence ($400m, +A15) | EGY | infra.store, tech.ai, finance.new | [[hassan-allam-data-centre]] |
@@ -1195,6 +1199,8 @@ Databases, registries, datasets, tools and portals consulted repeatedly (entity_
 
 | Resource | Places | Topics | Page |
 |---|---|---|---|
+| NIMS (National Identity Management System, The Gambia) | GMB | dpi.id, infra.store | [[nims-gambia]] |
+| QGroup House data centre (The Gambia) | GMB | infra.store, geopol.china | [[qgroup-house-datacentre]] |
 | CORIS Money (Guinea) | GIN | dpi.pay, include.access | [[coris-money-guinea]] |
 | KS-Wallet (BGB Solutions, Guinea) | GIN | dpi.pay, include.access | [[ks-wallet-guinea]] |
 | Ghana.gov (national digital-services platform) | GHA | dpi.govtech, dpi.pay | [[ghana-gov-platform]] |
@@ -1290,6 +1296,7 @@ about or from one becomes a normal source that cites it.
 
 | Instrument | Places | Topics | Page |
 |---|---|---|---|
+| Gambia Communications Bill 2025 | GMB | gov.legislate, infra.cybersec | [[gambia-communications-bill-2025]] |
 | Guinea National Data Governance Strategy | GIN | gov.policy, gov.protect | [[guinea-data-governance-strategy]] |
 | Guinea 3% foreign-digital-services tax (RCN) & Digital Sovereignty Fund | GIN | gov.legislate, finance.new | [[guinea-digital-services-tax]] |
 | Ghana Data Harmonisation Bill 2025 | GHA | gov.legislate, dpi.exchange | [[ghana-data-harmonisation-bill]] |

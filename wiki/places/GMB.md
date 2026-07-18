@@ -6,7 +6,7 @@ parent: XWA
 place_kind: country
 topics: [dpi.id, dpi.pay, dpi.registry, dpi.mis, dpi.govtech, gov.protect, gov.policy, gov.legislate, include.access, digital.localgov, data.statistics, data.satellite, finance.new, tech.industry, gov.regional, infra.connect, data.open, capacity.training]
 status: active
-last_reviewed: 2026-07-16
+last_reviewed: 2026-07-18
 ---
 
 # The Gambia (GMB)
@@ -24,6 +24,24 @@ Digital Economy Master Plan 2024-2034.
 
 ## Recent developments
 
+- **2026-07** — **Sovereign digital ID goes live.** President Barrow launched the **[[nims-gambia|NIMS]]**
+  National Identity Management System and the **National Data Centre (Abuko)** — instant **GAM ID** built by
+  **[[margins-id-group]]** on a BOT model; nationwide enrolment from 4 Aug. See [[gambia--dpi-id]]. Source:
+  [[2026-07-01-barrow-inaugurates-national-data-centre-nims-standard]].
+- **2026 — telecom restructuring.** **YCELL acquired 80% of GAMCEL** ([[gamcel-ycell-deal]]; winning bid D6.7bn
+  → final GMD 6.1bn); **[[gamtel-sysroad-ppp|GAMTEL–SYSROAD]]** $50m PPP upgrades the backbone (40→800 Gbps).
+  See [[gambia--infra-connect]]. Source: [[2026-07-10-gamtel-ycell-share-investment-modernization-thepoint]].
+- **2026 — data-centre & Starlink sovereignty.** The **[[qgroup-house-datacentre|QGroup House]]** (first private
+  data centre; Huawei) opened; the **[[gambia-starlink-licence|Starlink licence]]** stayed stalled amid US
+  pressure and data-sovereignty conditions. Sources:
+  [[2026-04-30-barrow-qgroup-house-first-data-centre-thepoint]], [[2026-05-18-starlink-gambia-future-economic-fear-thepoint]].
+- **2025–26 — legal & governance scaffolding.** The **[[gambia-data-protection-act-2025|Data Protection Act]]**,
+  the **[[gambia-communications-bill-2025|Communications Bill 2025]]**, the **[[ndasc-gambia|NDASC]]** digital
+  addressing, an ITU **GovStack** national enterprise architecture, a **Senegal–Gambia** regulatory MoU, and a
+  **KALP "Gambia One"** blockchain DPI pact. See [[gambia--dpi-govtech]].
+- **2025–26 — skills.** A WARDIP-funded (**$3.35m**) **National Labour Digital Skill** methodology (target 280
+  certified) validated; a **Gambia Digital Innovation Sprint** youth showcase (NYC / MOCDE / UNICEF). Sources:
+  [[2025-12-23-validate-labour-digital-skill-report-thepoint]], [[2026-07-09-young-gambians-digital-innovations-children-thepoint]].
 - **2026-03** — **Digitizing the state: government payments, elections, policing.** **[[yonna-wallet]]**
   became the first Gambian fintech authorized to collect **all government-service payments** (via the
   Accountant General), with diaspora payment via its Global Wallet (2 Mar). The **IEC** announced
@@ -108,11 +126,13 @@ Digital Economy Master Plan 2024-2034.
 
 ## Entities
 
-- [[margins-id-group]] · [[gambia-national-id-contract]] · [[gambia-national-digital-id-strategy]] · [[gambia-social-registry]] · [[gicta]]
-- [[gamswitch]] · [[yonna-wallet]] · [[mojaloop]] · [[gambia-data-protection-act-2025]] · [[gambia-national-digital-economy-masterplan]]
-- [[dhis2]] · [[wardip]] · [[ecowas]] · [[world-bank]] · [[smart-africa]] · [[undp]]
-- Mentioned, not hubbed: Central Bank of The Gambia (Dr Paul Mendy); Gambia Revenue Authority (Yankuba
-  Darboe); Accountant General's Department; IEC (Joseph Colley); Gambia Police Force (IGP Seedy Touray);
-  Ministry of Communications and Digital Economy (Ousman Bah); MoBSE; Gambia Bureau of Statistics; IIDiA;
-  Shifo Foundation; Avatar Technologies; Presight; Gamtel/Gamcel.
+- ID: [[margins-id-group]] · [[gambia-national-id-contract]] · [[nims-gambia]] · [[gambia-national-digital-id-strategy]] · [[gambia-social-registry]] · [[gicta]]
+- Payments / DPI: [[gamswitch]] · [[yonna-wallet]] · [[mojaloop]] · [[gambia-national-digital-economy-masterplan]]
+- Law / governance: [[gambia-data-protection-act-2025]] · [[gambia-communications-bill-2025]] · [[ndasc-gambia]]
+- Connectivity / telecom: [[gambia-starlink-licence]] · [[starlink]] · [[qgroup-house-datacentre]] · [[gamcel-ycell-deal]] · [[gamtel-sysroad-ppp]]
+- Intersections: [[gambia--dpi-id]] · [[gambia--dpi-pay]] · [[gambia--dpi-govtech]] · [[gambia--infra-connect]]
+- [[dhis2]] · [[wardip]] · [[ecowas]] · [[world-bank]] · [[smart-africa]] · [[undp]] · [[huawei]]
+- Mentioned, not hubbed: Central Bank of The Gambia (Dr Paul Mendy — GAP-GMB-001); Gambia Revenue Authority
+  (Yankuba Darboe — GAP-GMB-001); Accountant General's Department; IEC; Gambia Police Force; Ministry of
+  Communications & Digital Economy (Ousman Bah / Lamin Jabbi); GAMTEL/GAMCEL; YCELL; QGroup/QCell; SYSROAD; PURA.
 - Parent region: [[XWA]] · continental: [[XAF]].

@@ -34,6 +34,9 @@ diaspora), and GRA **e-invoicing** for tax — pursuing a low-cost, sovereign DP
 - **[[GMB]] GRA digital tax-invoicing (2025-07-09).** [[include.access]] The Gambia Revenue Authority
   launched e-invoicing (Avatar Technologies) with tamper-proof digital signatures to cut under-declaration.
   Source: [[2025-07-09 Gambia Gov't launches Digital Tax Invoicing System (GRA)]].
+- **[[GMB]] Wave–GTSC transport payments (2025-06-20).** **Wave Gambia** and the **Gambia Transport Service
+  Company (GTSC)** signed a partnership for **QR / mobile-money bus-fare payment** via the Wave app —
+  digitising public-transport fares. Source: [[2025-06-20-wave-gambia-gtsc-digital-payment-partnership-thepoint]].
 
 ## Links
 
