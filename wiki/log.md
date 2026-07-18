@@ -5915,3 +5915,10 @@ Fixed NDPC=Development-Planning mistag. new-queue/GHA → done.
 permanent biometric electoral file). Free biometric ID decree (Doumbouya Feb 2025); electoral roll 6.77m (Sept-2025
 referendum) → 6.95m/23,681 stations (31 May 2026 coupled elections); RGPH-4 pop 17,521,167; DGE verification.dge.gov.gn;
 DGE-ONECI convention (RNPP = source unique). Updated guinea--dpi-id (RAVEC/RNPP thread). Entirely unheld before this sweep.
+
+## 2026-07-18 — ingest(GIN) chunk 2/5: Connectivity, cables & telecom sovereignty
+9 sources admitted. New intersection `guinea--infra-connect`. Entities: guinea-mtn-nationalisation (deal; State took
+87.5% of MTN Guinée, official 30 Dec 2024, ~3M subs), guilab-guinea (govt-body; national cable landing party, DG Ahmed
+Karifa Diawara). Single ACE cable saturated → MEDUSA Africa 2nd cable (C&MA May 2026) + Via Africa 3rd cable (co-invest
+Jun 2026) + Amílcar Cabral; Guinea-Sierra Leone fibre (42.5→100 Gbps); FESATEL FTTH/Wifi-Zone/Starlink-non-recognition
+dispute; Orange quality push; Univ Connect 17 unis (ANSUTEN). JMTSI 2025 sovereignty scorecard (Technopark/CERT-SOC/PKI).
