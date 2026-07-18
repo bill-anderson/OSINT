@@ -6172,3 +6172,13 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
   number black market, and "administrative-numbers" exclusion. Fraud spans both administrations.
 - **Entity updated:** [[civil-registry-authority-libya]] — 2026 fraud-escalation bullet + 4 sources.
 - Note: 3 thin Arabic excerpts (full clip recommended at promotion).
+
+## 2026-07-18 — ingest(LBY) chunk 3/5: Connectivity & infrastructure
+
+- **6 sources admitted** (0 leads, 0 discards).
+- **Intersection created:** [[libya--infra-connect]] — Medusa subsea cable (8,700km to Europe); Almadar
+  first 5G (Tripoli); LPTIC vendor MoUs (KBR/US, Nokia/Finland); GACI IPv6 transition; Ghat-Tahala fibre
+  cut (91.7% restored via VSAT, south-west divide).
+- **Entities created:** [[lptic]] (government-body — state telecoms holding), [[almadar-aljadid]]
+  (company — first 5G operator).
+- Cross-links to existing [[trans-saharan-fibre-backbone]], [[gaci-libya]].
