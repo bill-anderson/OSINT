@@ -6008,3 +6008,10 @@ African CRVS experts' meeting Sipopo Jun 2025, AU/UNECA APAI-CRVS 2023-2027, INE
 G-MAT Pay CEMAC gateway/Visa prepaid). National ATM/POS plan (connectivity bottleneck; GITGE/GETESA/Muni Dinero); VP
 bank-sector cash-lite push (5 banks BANGE/CCEIBANK/SocGen/BGFIBank/Ecobank + BEAC, tourism/VAT). Fintech baseline (Fintech
 Times reference, cite-not-absorb: <5-10 fintechs, CEMAC inclusion ~32%, Orange Money, ADIGE/NDP-2035).
+
+## 2026-07-18 — ingest(GNQ) chunk 4/5: E-government & SIGF
+6 sources admitted. New intersection `gnq--dpi-govtech`. Entities: sigf-gnq (resource; civil-servant management system,
+M2M Group Morocco, 18-mo, biometric attendance/automated payroll/centralised registry), cniapge-gnq (govt-body;
+public-administration informatisation body distinct from CNEDOGE, WB Global Digital Summit 2025, CARDIP). Patente Tributaria
+Única digital tax-licence; UNDP "Digital Fitness" public-sector capacity; China tech cooperation (INSTTIC training, FOCAC
+2027 co-chair, Djibloho cyber/AI forum — geopol.china, capture-not-endorsement). DG of AI Systems noted.
