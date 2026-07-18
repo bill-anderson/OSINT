@@ -6148,3 +6148,18 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
   kenya--infra-store. Intersections updated: kenya--dpi-id, kenya--tech-ai, kenya--gov-protect.
 - 17 summary-only `[CLIP]` items (The Standard, paywalled) admitted with byline-verified dates —
   full clip required on promotion.
+
+## 2026-07-18 — ingest(LBY) chunk 1/5: Payments & digital finance
+
+- **10 sources admitted** (0 leads, 0 discards). Libya's strongest theme.
+- **Intersection created:** [[libya--dpi-pay]] — CBL e-payments hub: LD 389bn/+186% 2025 keystone;
+  instrument breakdown (banking apps 4.29m, POS LD 37.8bn, ATM, e-wallets, LYPAY-ONEPAY); Aldabaiba
+  e-payment-mandate decree + FX caps; QR-POS; Circular 9/2026 foreigners' e-wallets; EPAIX 2026 (SoftPOS,
+  Visa, National Stand-In Processing, H1 LD 162bn→proj 700bn); 2m-POS crash resilience gap; Jumhouria
+  petrol e-payment; Finnovate bank build-out (Tadamon+JMR India, Seraj+Network Intl UAE).
+- **Entity created:** [[jumhouria-bank]] (company — largest state bank).
+- **Entity updated:** [[central-bank-of-libya]] — 2025-26 payments developments + 8 new sources.
+- Dedup: AR 2026-02-21 kept alongside held libyaherald 2026-02-24 — complementary (adds POS-value/ATM/
+  e-wallet figures the held one lacks), not a relevant-duplicate. AR/EN EPAIX twins (06-16/06-17) both
+  kept — complementary (AR H1 figures; EN Stand-In Processing detail).
+- Note: 1 proxy-dated item (Finnovate, `date_source: proxy`, month precision).
