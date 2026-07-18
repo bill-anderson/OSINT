@@ -5972,3 +5972,10 @@ balanced fibre+satellite strategy. QGroup twins (Point+Standard) kept complement
 winning bid D6.7bn Dec 2025 → final signed GMD 6.1bn network-modernisation Jul 2026; price stages noted dated),
 gamtel-sysroad-ppp (deal; GAMTEL + SYSROAD SA Senegal $50m PPP, backbone 40→800 Gbps ~20x, resolves the chunk-2 forward-ref).
 Twins kept complementary: GAMTEL-SYSROAD (techafrica+standard), GAMTEL-YCELL (Point+techafrica).
+
+## 2026-07-18 — ingest(GMB) chunk 4/5: Governance, legislation & DPI-gov
+6 sources admitted. New intersection `gambia--dpi-govtech`. Entities: gambia-communications-bill-2025 (instrument;
+e-commerce/e-signatures/cybercrime, 2nd reading Mar 2026, distinct from DP Act), ndasc-gambia (govt-body; National Digital
+Addressing Steering Committee, NDA Policy 2023). Updated gambia-data-protection-act-2025 (Paradigm Initiative praise/awaiting
+assent). KALP "Gambia One" blockchain DPI MoU; National Enterprise Architecture validated (ITU GovStack/GICTA); Senegal-Gambia
+ARTP-PURA regulatory cooperation + free roaming.

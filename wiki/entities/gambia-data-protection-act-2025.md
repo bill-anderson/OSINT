@@ -6,8 +6,8 @@ places: [GMB]
 topics: [gov.protect, gov.legislate]
 lens: []
 status: active
-last_reviewed: 2026-07-16
-sources: [[2025-10-13 Gambia Passes Landmark Data Protection and Privacy Law], [2025-10-29 The Gambia strengthens digital trust with personal data protection & privacy bill], [2025-12-26 Review of Gambia's Personal Data Protection and Privacy Act, 2025]]
+last_reviewed: 2026-07-18
+sources: [[[2025-10-13 Gambia Passes Landmark Data Protection and Privacy Law]], [[2025-10-29 The Gambia strengthens digital trust with personal data protection & privacy bill]], [[2025-12-26 Review of Gambia's Personal Data Protection and Privacy Act, 2025]], [[2025-10-06-gambia-praised-data-protection-privacy-bill-thepoint]]]
 ---
 
 # Gambia Personal Data Protection and Privacy Act, 2025
