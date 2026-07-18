@@ -6,10 +6,12 @@ places: [EGY]
 topics: [gov.protect, gov.legislate]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-15
-sources: [[2026-02-11 Egypt finalises Executive Regulations to the PDPL (Decree 816-2025)]]
+last_reviewed: 2026-07-18
+sources: [[[2026-02-11 Egypt finalises Executive Regulations to the PDPL (Decree 816-2025)]], [[2025-11-16-egypt-data-sovereignty-pdpc-cairo-ict-ahram]]]
 ---
 
 # Personal Data Protection Center (PDPC, Egypt)
 
 Egypt's **data-protection supervisory authority**, confirmed by the 2025 Executive Regulations as the body responsible for **implementing, monitoring and enforcing** the **[[egypt-pdpl|Personal Data Protection Law (151/2020)]]**. Runs a structured **approvals/licensing** regime — including **licences for cross-border data transfers** (specifying destination, purpose, data categories and safeguards), approvals for electronic marketing and certain public-space surveillance, DPO registration, and receipt of **72-hour breach notifications**. Enforcement is expected to begin **1 November 2026**.
+
+At **Cairo ICT 2025** the PDPC's acting CEO framed the PDPL as a **data-sovereignty** instrument, stressing localisation and controlled cross-border transfer as national-security matters. See [[egypt--gov-protect]].

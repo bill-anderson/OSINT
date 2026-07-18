@@ -5738,3 +5738,9 @@ MoU (geopol.china); SAP cloud/AI (geopol.eu). $42.7bn AI value / 7.7% GDP by 203
 bank, Banque Misr/MDI, CBE-approved 2025-08). InstaPay 16m users/1.1bn tx/EGP 2.4tn (Jun 2025)/EGP 4.2tn (Jul24-Jun25)
 + remittances; fees from 1 Apr 2025 (0.1%, max EGP20); Meeza 43.5m; wallets 55.5m; inclusion 76.3%→77.6%; Senate
 45m-wallet onboarding proposal.
+
+## 2026-07-18 — ingest(EGY) chunk 4/6: Digital identity, CRVS & data protection
+5 sources admitted. Updated intersection `egypt--dpi-id`. Entity: digified (company, FRA-licensed eKYC/e-sig regtech,
+25m+ verifications/yr). MCIT national digital ID (eKYC+e-sig approaching, May 2026); MOIEG-PASS selfie-biometrics pilot
+(Mar 2026 update); child biometric national-ID proposal (age 5, Child Law 12/1996 amendment) at proposal stage. Updated
+pdpc-egypt (Cairo ICT data-sovereignty framing, acting-CEO).
