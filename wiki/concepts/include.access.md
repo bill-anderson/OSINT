@@ -2,7 +2,7 @@
 type: concept
 title: Access to services
 slug: include.access
-places: [COG, COM, CMR, BWA, BFA, BDI, AGO, XAF, KEN, NGA, ZAF, SEN, XSS, ETH, TZA, ZWE, NAM, CIV, BEN, LBR, SLE, SSD, GIN, XWA, DJI, DZA, EGY]
+places: [MRT, COG, COM, CMR, BWA, BFA, BDI, AGO, XAF, KEN, NGA, ZAF, SEN, XSS, ETH, TZA, ZWE, NAM, CIV, BEN, LBR, SLE, SSD, GIN, XWA, DJI, DZA, EGY]
 entities: [[africanenda], [equity-group-holdings], [nimc], [partner2connect], [undp], [nucap], [starlink], [govguide-nigeria], [meta], [liquid-c2], [microsoft], [safaricom], [gsma], [helios-towers], [kenya-revenue-authority], [ethswitch], [uae], [emma-theofelus], [cran], [orange-cote-divoire], [orange-sat], [eutelsat], [wardip], [world-bank], [anip-benin], [seamfix], [south-sudan-national-revenue-authority], [viamo], [mtn-group], [solly-malatsi], [dcdt-south-africa], [gsma-sa-smartphone-tax-reform-2026]]
 lens: [sovereignty]
 status: active

@@ -2,12 +2,12 @@
 type: entity
 entity_type: company
 title: Starlink (SpaceX)
-places: [XSS, XAF, NGA, KEN, ZWE, ZAF, NAM, SEN, GNB]
+places: [XSS, XAF, NGA, KEN, ZWE, ZAF, NAM, SEN, GNB, MRT]
 topics: [infra.connect, include.access, include.divides, infra.capacity, gov.standards]
 lens: [sovereignty, colonialism]
 status: active
-last_reviewed: 2026-07-12
-sources: [[2026-06-15 Starlink drives African broadband speeds higher], [2026-06-16 Who Owns Africa's Sky], [2026-05-26 Africa risks losing billions to satellite internet operators, report says], [2026-05-22 View How SpaceX is making a quiet bet on Africa], [2026-03-26 Starlink blocked from operating in Namibia], [2026-04-14 Amazon's $9bn satellite deal set to benefit Africa], [2026-04-07 Zimbabwe switches on free wifi to power AI future], [2026-02-05 Senegal embraces Starlink to connect the future], [2026-03-24 Namibia puts foot down against Musk's Starlink], [2026-01-30 Can a digital economy exist in South Sudan without reliable DPI], [2026-01-07 Why Ethiopia, Somalia and Djibouti are starting to matter in digital Africa], [2026-03-10 Kenya begins audit of Airtel's Starlink Direct-to-Cell tech], [2024-03-15 Undersea cables for Africa's internet retrace history and leave digital gaps as they connect continents], [2026-02-18 Starlink pushes for SA license with advocacy campaign], [2026-01-01 Starlink Partners with Airtel & Vodacom From Rival to Ally]]
+last_reviewed: 2026-07-18
+sources: [[2026-01-29-satellite-internet-licence-tender-are-techafricanews], [2026-06-15 Starlink drives African broadband speeds higher], [2026-06-16 Who Owns Africa's Sky], [2026-05-26 Africa risks losing billions to satellite internet operators, report says], [2026-05-22 View How SpaceX is making a quiet bet on Africa], [2026-03-26 Starlink blocked from operating in Namibia], [2026-04-14 Amazon's $9bn satellite deal set to benefit Africa], [2026-04-07 Zimbabwe switches on free wifi to power AI future], [2026-02-05 Senegal embraces Starlink to connect the future], [2026-03-24 Namibia puts foot down against Musk's Starlink], [2026-01-30 Can a digital economy exist in South Sudan without reliable DPI], [2026-01-07 Why Ethiopia, Somalia and Djibouti are starting to matter in digital Africa], [2026-03-10 Kenya begins audit of Airtel's Starlink Direct-to-Cell tech], [2024-03-15 Undersea cables for Africa's internet retrace history and leave digital gaps as they connect continents], [2026-02-18 Starlink pushes for SA license with advocacy campaign], [2026-01-01 Starlink Partners with Airtel & Vodacom From Rival to Ally]]
 ---
 
 # Starlink (SpaceX)

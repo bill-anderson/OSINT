@@ -2,12 +2,12 @@
 type: entity
 entity_type: company
 title: Huawei
-places: [NAM, KEN, GHA, NGA, SSD, GAB, ETH, XAF, XGL]
+places: [NAM, KEN, GHA, NGA, SSD, GAB, ETH, MRT, XAF, XGL]
 topics: [geopol.china, infra.store, tech.ai, capacity.training, infra.connect, finance.mou]
 lens: [sovereignty, colonialism]
 status: active
-last_reviewed: 2026-07-16
-sources: [[2026-07-15 Ethio Telecom, Huawei expand digital push], [2026-07-08 China funds Namibia digital infrastructure], [2026-06-08 Zambia, China deepen digital ties], [2026-01-08 African smart cities A critical analysis], [2026-04-16 3 Reasons Mobile Money Programs Have a $1.7 Trillion Problem], [2026-04-04 Chinese surveillance rolled out in Africa ZTE, Hikvision, Huawei at the helm], [2026-03-05 Ghana strikes AI training deal with Chinese multinational amid $250m tech investment push], [2026-02-09 Huawei reconnects with South Sudan], [2026-01-05 Gabon and Huawei Forge Partnership to Boost National Digital Transformation], [2026-03-02 The U.S. Launches a Peace Corps for AI to Compete With China], [2026-01-07 Why Ethiopia, Somalia and Djibouti are starting to matter in digital Africa], [2026-01-12 Kenya, Huawei to boost public sector digital skills], [2026-04-20 117 - Payments Follow Trade]]
+last_reviewed: 2026-07-18
+sources: [[2025-11-13-chinguitel-huawei-network-modernisation-techafricanews], [2026-07-15 Ethio Telecom, Huawei expand digital push], [2026-07-08 China funds Namibia digital infrastructure], [2026-06-08 Zambia, China deepen digital ties], [2026-01-08 African smart cities A critical analysis], [2026-04-16 3 Reasons Mobile Money Programs Have a $1.7 Trillion Problem], [2026-04-04 Chinese surveillance rolled out in Africa ZTE, Hikvision, Huawei at the helm], [2026-03-05 Ghana strikes AI training deal with Chinese multinational amid $250m tech investment push], [2026-02-09 Huawei reconnects with South Sudan], [2026-01-05 Gabon and Huawei Forge Partnership to Boost National Digital Transformation], [2026-03-02 The U.S. Launches a Peace Corps for AI to Compete With China], [2026-01-07 Why Ethiopia, Somalia and Djibouti are starting to matter in digital Africa], [2026-01-12 Kenya, Huawei to boost public sector digital skills], [2026-04-20 117 - Payments Follow Trade]]
 ---
 
 # Huawei

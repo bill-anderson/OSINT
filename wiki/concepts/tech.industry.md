@@ -2,7 +2,7 @@
 type: concept
 title: ICT Industry
 slug: tech.industry
-places: [XGL, XAF, ZAF, NGA, MAR, KEN, EGY, GHA]
+places: [MRT, XGL, XAF, ZAF, NGA, MAR, KEN, EGY, GHA]
 entities: [[david-eaves], [camp], [the-govlab], [cassava-technologies], [mtn-group], [sita], [mosip], [amazon-web-services], [afcfta], [papss], [african-development-bank], [nafa], [sidi-ould-tah], [diode-network], [axiz], [equinix], [kasi-cloud], [orange], [amazon-leo], [spacecoin], [mtn-nigeria], [starlink], [airtel-africa], [vodacom], [axian-telecom], [econet-wireless], [ethio-telecom], [microsoft], [gsma], [research-ict-africa]]
 lens: [sovereignty, colonialism]
 status: active

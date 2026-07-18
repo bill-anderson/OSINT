@@ -2,7 +2,7 @@
 type: concept
 title: Registries (population, land, address, etc.)
 slug: dpi.registry
-places: [COG, COD, BFA, BDI, AGO, ZAF, TZA, UGA, ETH, NGA, RWA, ZMB, XWA, BEN, CIV, CMR, LSO, MDG, GHA, GAB, GIN, SEN, XGL, CAF, DZA, EGY, STP, SOM, SLE, SWZ, SYC, TCD, TGO, MLI]
+places: [MRT, COG, COD, BFA, BDI, AGO, ZAF, TZA, UGA, ETH, NGA, RWA, ZMB, XWA, BEN, CIV, CMR, LSO, MDG, GHA, GAB, GIN, SEN, XGL, CAF, DZA, EGY, STP, SOM, SLE, SWZ, SYC, TCD, TGO, MLI]
 entities: [[sa-digital-id-regulations], [nida-tanzania], [mosip], [fayda-ethiopia-national-id], [digital-id-assessment], [nimc], [nigeria-id4d], [nida-rwanda], [sars], [smart-zambia-institute], [dzap], [wuri-programme], [ecowas], [anip-benin], [world-bank], [undp], [oneci], [maposte], [nissa-lesotho], [universal-dpi-safeguards-framework], [mg-ministry-digital-development], [opencrvs], [gates-foundation], [seychelles-national-addressing-system], [seychelles-postal-regulator], [dagl-togo], [otr-togo], [services-publics-togo], [ceni-togo], [novissi], [anats], [eswatini-youth-employment-opportunities-project]]
 lens: [sovereignty]
 status: active

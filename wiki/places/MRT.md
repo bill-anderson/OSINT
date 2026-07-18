@@ -4,9 +4,9 @@ title: Mauritania
 code: MRT
 parent: XWA
 place_kind: country
-topics: [dpi.id, dpi.registry, dpi.govtech, gov.policy, infra.store, infra.connect, gov.regional, gov.legislate, dpi.pay, include.access, data.statistics]
+topics: [dpi.id, dpi.registry, dpi.govtech, dpi.mis, dpi.exchange, gov.policy, gov.standards, gov.protect, infra.store, infra.connect, infra.cybersec, gov.regional, gov.legislate, dpi.pay, finance.new, finance.mou, include.access, include.divides, tech.industry, data.statistics]
 status: active
-last_reviewed: 2026-07-16
+last_reviewed: 2026-07-18
 ---
 
 # Mauritania (MRT)
@@ -21,6 +21,86 @@ fourth-tier cybersecurity ranking mark the distance still to travel.
 
 ## Recent developments
 
+- **2026-07-10** — **Digital consular-services platform for the diaspora.** Foreign Affairs and Digital
+  Transformation ministers launched (9 July 2026) three platforms — a consular-services portal, a diaspora
+  communities/skills platform, and a communities forum — with a **first phase of nine online services**
+  (consular registration, cards, powers of attorney, authentication, appointments) and a **unified digital
+  consular registry** to map the diaspora (built by diaspora engineers with **[[mtnima-mauritania|MTNIMA]]**,
+  after consultations in 22 countries). Source:
+  [[2026-07-10-digital-consular-services-diaspora-wearetech]]. See [[dpi.govtech]], [[dpi.registry]].
+- **2026-07-08** — **10,000+ cyber threats to the digital financial system (H1 2026).** **[[pafiid|PAFIID]]**
+  reported the **[[central-bank-mauritania|Central Bank]]**'s AI-supported "digital reputation protection"
+  platform detected **>10,000 electronic threats** (phishing, impersonation, app/site fraud) in H1 2026, of
+  which **470 were confirmed and removed**; 20 digital identities protected. A rare operational cybersecurity
+  data point. Source: [[2026-07-08-pafiid-bcm-cyber-threats-elvetach]]. See [[infra.cybersec]], [[dpi.pay]].
+- **2026-06-30** — **National cloud launched (digital sovereignty).** Mauritania launched its **national cloud
+  platform** (29 June 2026) at the Nouakchott National Data Center — a **Tier III facility built under
+  [[wardip|WARDIP]]** — to host government data and services domestically and centralise public IT. World Bank
+  resident rep, the **[[apd-mauritania|APD]]** head and the WARDIP coordinator attended; no migration timeline,
+  capacity or cost disclosed. The 2026 ministry budget rose 104.6% to $24.2m. Source:
+  [[2026-06-30-national-cloud-launch-ecofin]]. See [[infra.store]], [[gov.policy]], [[dpi.exchange]].
+- **2026-06-21** — **Houwiyeti usage indicators — and a figure conflict.** ANRPTS reported (16–17 June 2026
+  seminar) **677k activated accounts, 554,027 remote services, 1,511,139 beneficiaries (~30% of population)**;
+  app share of passport requests **24.8%→32.9%→35.7% (Jan 2026)**; 406,871 cumulative civil-status extracts.
+  These **do not reconcile cleanly** with the held ID4Africa (May 2025) "70% of passport requests / 622k
+  extracts in a year" — flagged as a contradiction (metric/basis/period), both kept dated. Source:
+  [[2026-06-21-houwiyeti-usage-metrics-techrek]]. See [[houwiyeti]], [[dpi.id]].
+- **2026-06-18** — **Parliamentary debate on the ID-exclusion question** *(lens: sovereignty, colonialism)*.
+  Opposition deputies pressed the Interior Minister over **citizens left without identity papers**. He replied
+  enrolment is now a **permanent public service** (2025 reform): the National Population Register rose **3.4m
+  (2019) → 5.1m today** (1.7m+ new enrolments), 613k+ captured by a difficulties survey, **238 local
+  commissions** installed. The contested residual — falling disproportionately on Haratine and Afro-Mauritanian
+  groups — sits in tension with the ~94% aggregate-coverage claim. Source:
+  [[2026-06-18-etat-civil-parliamentary-id-exclusion-ladepeche]]. See [[dpi.id]], [[dpi.registry]],
+  [[include.access]], [[gov.legislate]].
+- **2026-05-04** — **Second submarine cable (EllaLink) — phase-1 coastal landing completed.** The
+  **[[ellalink|EllaLink]]** branch (669 km, 200 Gb/s → 12 Tbit/s; EU/EIB-financed, built with
+  **[[alcatel-submarine-networks|ASN]]**) completed its phase-1 coastal landing at Nouadhibou (28 km PLSE / Bu7
+  junction); offshore laying scheduled August 2026, **commissioning expected Q1 2027**. A separate dated
+  baseline notes Mauritania's continued dependence on the **[[ace-cable|ACE]]** cable (since 2011) and
+  affordability gaps: **internet use 45.8% (2024, ITU)**; 5GB mobile = 2.94% GNI, fixed = 17.6% GNI. Sources:
+  [[2026-05-04-ellalink-second-cable-phase1-landing-ami]],
+  [[2026-05-05-second-cable-connectivity-baseline-ecofin]]. See [[infra.connect]], [[include.divides]].
+- **2026-04-16** — **Mauritania–IsDB $50m digital-transformation financing (principle agreement).** A
+  principle agreement (14 April 2026) with the **[[islamic-development-bank|Islamic Development Bank]]**
+  ([[geopol.gulf]]) covering digital infrastructure, cybersecurity, interoperability and skills; context cites
+  the €4m **[[digital-y|Digital-Y]]** project and EU/WB data-centre and cable support. EGDI 165th; ITU
+  cybersecurity fourth tier. Source: [[2026-04-16-isdb-50m-digital-financing-wearetech]]. See [[finance.mou]],
+  [[gov.policy]].
+- **2026-04-15** — **5G provisional licence winners named.** **[[are-mauritania|ARE]]** designated **all four
+  bidders** provisional winners — incumbents **[[mauritel]]**, **[[mattel]]**, **[[chinguitel]]** and **new
+  entrant [[rimatel]]** (bids MRU 252.6m–305m + 5% of revenue) — the first break in the three-operator
+  structure. Process opened 2 December 2025. Source:
+  [[2026-04-15-5g-provisional-licence-winners-techafricanews]]. See [[infra.connect]], [[tech.industry]].
+- **2026-04-13** — **PAMIF: financial inclusion 21% → 55%.** A **$4.78m AfDB-financed** initiative
+  (**[[pamif|PAMIF]]**, with the **[[central-bank-mauritania|Central Bank]]**) rebuilt financial-market
+  infrastructure — télécompensation, real-time RTGS, automated refinancing — **more than doubling financial
+  inclusion (21% in 2019–20 → 55% in 2026)** and cutting inflation below 2%. **[[bmci|BMCI]]** went from 5,000
+  transfers (all 2023) to 94,000 (H2 2025). A second phase targets a fintech ecosystem. Source:
+  [[2026-04-13-pamif-financial-inclusion-afdb]]. See [[dpi.pay]], [[include.access]], [[finance.new]].
+- **2026-03-27** — **National framework for public-digital-services standards.** **[[mtnima-mauritania|MTNIMA]]**
+  ran a three-day workshop to **unify standards and interoperability** for government digital services
+  (fragmented systems blamed for inefficiency), supported by Germany via **[[giz|GIZ]]** and the
+  **[[digital-y|Digital-Y]]** project (€4m, Jan 2025). Source:
+  [[2026-03-27-public-digital-services-standards-framework-techafricanews]]. See [[gov.standards]],
+  [[dpi.govtech]], [[dpi.exchange]].
+- **2026-02-10** *(reference — cite, don't absorb)* — **US ITA Country Commercial Guide (Digital Economy).**
+  Establishes two net-new reference objects: the **data-protection authority (**[[apd-mauritania|APD]]**,
+  2023–2026 plan)** and the **National AI Strategy 2025–2029**; notes a Tier III data centre (May 2025),
+  e-commerce strategy, and **[[unctad|UNCTAD]]** eTrade Readiness (2024). Source:
+  [[2026-02-10-digital-economy-country-commercial-guide-tradegov]]. See [[gov.policy]], [[gov.protect]],
+  [[tech.ai]].
+- **2026-01-29** — **Satellite-internet licence tender (ARE).** ARE launched an international tender (22 Jan
+  2026, two batches: GEO retail + capacity sale) to widen access where ~63% remained offline (2023);
+  **[[starlink|Starlink]]** flagged a **2026 commercial launch** but LEO providers are not yet authorised for
+  direct service. Source: [[2026-01-29-satellite-internet-licence-tender-are-techafricanews]]. See
+  [[infra.connect]], [[include.divides]], [[geopol.usa]].
+- **2026-01-17** — **2026 finance law: 0.1% tax on electronic transactions.** The budget introduced a **0.1%
+  levy on electronic transactions above 5,000 MRU** (wallets, payment apps, digital banking) plus **10% on
+  agent commissions**, collected at source — the fiscalisation of mobile money, with sector warnings on cost
+  pass-through to low-income users. Source:
+  [[2026-01-17-loi-finances-2026-electronic-transaction-tax-investtime]]. See [[gov.legislate]], [[dpi.pay]],
+  [[finance.new]].
 - **2026-02-22** — **Ijraati e-government portal (800+ procedures).** The **[[mtnima-mauritania|MTNIMA]]**
   ministry launched **"Ijraati,"** consolidating **800+ administrative procedures** into one directory
   (documents, processing times, agencies, tracking), with a three-phase roadmap feeding the **"Khdamati"**
@@ -36,6 +116,19 @@ fourth-tier cybersecurity ranking mark the distance still to travel.
   in October 2023. Source:
   [[2026-01-16 Mauritania Steps Up Pressure on Telecom Operators Over Biometric Identification]]. See
   [[dpi.id]], [[gov.legislate]], [[gov.protect]].
+- **2025-11-13** — **Chinguitel–Huawei network modernisation** *(lens: sovereignty)*. **[[chinguitel]]**
+  completed a full network modernisation in Nouakchott with **[[huawei|Huawei]]** — a Chinese vendor footprint
+  ([[geopol.china]]) in Mauritanian mobile infrastructure, set against the EU-financed cable and data centre.
+  Source: [[2025-11-13-chinguitel-huawei-network-modernisation-techafricanews]]. See [[infra.connect]].
+- **2025-07-28** — **Second submarine cable (EllaLink) — project launch.** President Ghazouani launched the
+  **[[ellalink|EllaLink]]** connection project at Nouadhibou — the "second cable" long held only as
+  "contracted": 669 km, 200 Gb/s (→12 Tbit/s), **>€43.5m EIB/EU-financed** — promising a second internet
+  source, fivefold speed and ~20% lower prices. Source: [[2025-07-28-ellalink-second-cable-launch-ami]]. See
+  [[infra.connect]], [[gov.regional]], [[geopol.eu]].
+- **2025-07-24** — **Houwiyeti extends into education certificates.** A new e-service on
+  **[[houwiyeti|Houwiyeti]]** lets citizens extract and confirm **national (education) certificates** (issued
+  after 2013 or NNI-linked) — an MIS expansion beyond civil-status/identity documents. Source:
+  [[2025-07-24-houwiyati-national-certificates-service-ami]]. See [[dpi.govtech]], [[dpi.mis]].
 - **2025-05-08** — **Nouakchott Tier III data centre inaugurated.** President Ghazaouani inaugurated the
   national data centre (8 May 2025), a **€15m EIB-financed Tier III** facility (Uptime-certified) that lets
   Mauritania host national data locally and improve data-exchange security. Part of the **West African
@@ -73,19 +166,33 @@ fourth-tier cybersecurity ranking mark the distance still to travel.
 
 ## Active topics
 
-- [[dpi.id]] · [[dpi.registry]] — **[[anrpts-mauritania|ANRPTS]]** biometric register (94% coverage, SIGPTS);
-  **[[houwiyeti]]** app ([[tech5]]/UNDP); biometric SIM identification ([[are-mauritania|ARE]]).
-- [[dpi.govtech]] · [[gov.policy]] — **Ijraati/Khdamati** portals; National Digital Transformation Agenda
-  2022–2025; Digital-Y; EGDI 165th (2024).
-- [[infra.store]] · [[infra.connect]] · [[gov.regional]] — EIB Tier III Nouakchott data centre; WARCIP
-  backbone; ACE + Ellalink submarine cables; single-landing fragility.
-- [[gov.legislate]] · [[gov.protect]] — biometric-SIM law and enforcement; subscriber-data protection.
-- [[dpi.pay]] · [[data.statistics]] — financial-inclusion reforms (WB DPF); 37% internet reach.
+- [[dpi.id]] · [[dpi.registry]] · [[include.access]] — **[[anrpts-mauritania|ANRPTS]]** biometric register
+  (~94% coverage claim; register 3.4m→5.1m 2019–2026; permanent-enrolment 2025 reform; contested residual
+  exclusion, sovereignty/colonialism lens); **[[houwiyeti]]** app ([[tech5]]/UNDP; 1.5m beneficiaries, figures
+  under review); biometric SIM identification ([[are-mauritania|ARE]]).
+- [[dpi.govtech]] · [[dpi.mis]] · [[dpi.exchange]] · [[gov.policy]] · [[gov.standards]] — **Ijraati/Khdamati**
+  portals; digital consular platform; Houwiyeti education-certificates service; national public-digital-services
+  standards framework ([[giz]]/[[digital-y]]); National Digital Transformation Agenda 2022–2025; EGDI 165th
+  (2024).
+- [[infra.store]] · [[infra.connect]] · [[gov.regional]] — EIB Tier III Nouakchott data centre; **national
+  cloud** ([[wardip|WARDIP]], June 2026); WARCIP backbone; **[[ace-cable|ACE]]** + second **[[ellalink|EllaLink]]**
+  cable (landing May 2026, commissioning Q1 2027); 5G provisional licences (4 operators incl. [[rimatel]]);
+  satellite-internet tender ([[starlink|Starlink]] flagged); single-landing fragility.
+- [[dpi.pay]] · [[finance.new]] · [[include.access]] — **[[pamif|PAMIF]]** modernisation (inclusion 21%→55%);
+  0.1% electronic-transaction tax (2026); **[[islamic-development-bank|IsDB]]** $50m programme (principle
+  agreement).
+- [[infra.cybersec]] — **[[pafiid|PAFIID]]**/Central Bank AI threat-monitoring (10k+ threats H1 2026); National
+  Cybersecurity Strategy 2022–2025 (planned CERT); ITU fourth-tier ranking.
+- [[gov.legislate]] · [[gov.protect]] — biometric-SIM law and enforcement; **[[apd-mauritania|APD]]**
+  data-protection authority (2023–2026 plan).
+- [[data.statistics]] — internet use 45.8% (2024, ITU) / penetration 37.4% (DataReportal); affordability gaps.
 
 ## Entities
 
-- [[houwiyeti]] · [[anrpts-mauritania]] · [[mtnima-mauritania]] · [[are-mauritania]]
-- [[tech5]] · [[undp]] · [[world-bank]]
+- [[houwiyeti]] · [[anrpts-mauritania]] · [[mtnima-mauritania]] · [[are-mauritania]] · [[apd-mauritania]]
+- [[central-bank-mauritania]] · [[pamif]] · [[pafiid]] · [[bmci]] · [[african-development-bank]] · [[islamic-development-bank]]
+- [[ellalink]] · [[ace-cable]] · [[alcatel-submarine-networks]] · [[eib]] · [[mauritel]] · [[mattel]] · [[chinguitel]] · [[rimatel]] · [[starlink]] · [[huawei]]
+- [[digital-y]] · [[giz]] · [[wardip]] · [[tech5]] · [[undp]] · [[world-bank]] · [[unctad]]
 - Mentioned, not hubbed: SmartMS (local integrator); International Mauritania Telecom (IMT); Mauripost;
-  Mattel / Mauritel / Chinguitel (operators); EIB; WARCIP; Ijraati / Khdamati portals; Digital-Y project.
+  WARCIP; Ijraati / Khdamati portals; National AI Strategy 2025–2029.
 - Parent region: [[XWA]] · continental: [[XAF]].

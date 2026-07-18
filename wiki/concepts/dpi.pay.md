@@ -2,7 +2,7 @@
 type: concept
 title: Digital Payments and Fintech
 slug: dpi.pay
-places: [COM, BWA, BFA, BDI, AGO, COD, EGY, ETH, GHA, KEN, MOZ, MUS, NGA, RWA, SDN, SEN, SOM, SSD, XAF, XCA, XWA, ZAF, ZMB, LBR, DJI, DZA, GIN, SLE, SWZ, SYC, TCD, TGO, ERI]
+places: [MRT, COM, BWA, BFA, BDI, AGO, COD, EGY, ETH, GHA, KEN, MOZ, MUS, NGA, RWA, SDN, SEN, SOM, SSD, XAF, XCA, XWA, ZAF, ZMB, LBR, DJI, DZA, GIN, SLE, SWZ, SYC, TCD, TGO, ERI]
 entities: [[beac], [papss], [nibss], [africanenda], [equity-africanenda-gates-dpi-partnership], [equity-group-holdings], [afcfta], [cbn], [afreximbank], [safaricom], [mtn-group], [airtel-africa], [gsma], [huawei], [vodacom], [dzap], [onafriq], [pesalink], [bank-of-ghana], [ekash], [rswitch-rwanda], [cbn-payments-circular-2026], [ethswitch], [sarb], [payservices], [payz], [kenya-revenue-authority], [meta], [peach-payments], [bank-of-south-sudan], [bio-key-international], [runlevel], [simo-mozambique], [pay-na-na], [eswatini-payment-switch], [central-bank-of-eswatini], [paylogic], [central-bank-of-seychelles], [seft-seychelles], [bceao], [waemu-instant-payment-platform], [ecobank], [thunes], [ecobank-thunes-partnership], [novissi], [airtel-chad], [kwik-angola], [paypay-angola], [unitel-money], [bna-angola]]
 lens: [sovereignty, colonialism]
 status: active

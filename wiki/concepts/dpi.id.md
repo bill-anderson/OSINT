@@ -2,7 +2,7 @@
 type: concept
 title: Digital Identity and CRVS
 slug: dpi.id
-places: [COG, COM, CMR, BWA, BFA, BDI, AGO, BEN, CAF, CIV, COD, ETH, GHA, GMB, KEN, LBR, LSO, MAR, MDG, MOZ, MUS, MWI, NGA, RWA, SDN, SEN, SLE, SWZ, SYC, TCD, TGO, TZA, UGA, XAF, XWA, ZAF, ZMB, DJI, CPV, DZA, EGY, ERI, GIN, STP, SSD, SOM]
+places: [MRT, COG, COM, CMR, BWA, BFA, BDI, AGO, BEN, CAF, CIV, COD, ETH, GHA, GMB, KEN, LBR, LSO, MAR, MDG, MOZ, MUS, MWI, NGA, RWA, SDN, SEN, SLE, SWZ, SYC, TCD, TGO, TZA, UGA, XAF, XWA, ZAF, ZMB, DJI, CPV, DZA, EGY, ERI, GIN, STP, SSD, SOM]
 entities: [[mosip], [id4africa], [equity-africanenda-gates-dpi-partnership], [afcfta-digital-trade-protocol], [adli], [afcfta], [eac], [nimc], [dial], [opencrvs], [gates-foundation], [atdi-mozambique], [mozambique-ethiopia-dpi-mou], [nida-tanzania], [bhutan-ndi], [sign-foundation], [rdc-pass], [trident-digital-tech], [oneci], [maposte], [sudapass], [micsti-lesotho], [margins-id-group], [anid-togo], [e-id-togo], [novissi], [anats], [chad-biometric-registry], [seyid], [certexpress], [wisekey], [rstp]]
 lens: [sovereignty, colonialism]
 status: active

@@ -8,30 +8,30 @@ only slugs with a concept page are listed. Roll-up is by Level-1 parent.
 - [[infra.store]] — Data Storage · places: COG, COM, XGL, XAF, ZAF, NGA, KEN, GAB, EGY, SEN, GHA, NAM, MWI, AGO, TGO, MAR, ETH, TZA, DJI, MOZ, BWA, MLI, NER, BFA, GNQ, XSS, CIV, CMR, COD, DZA, GIN, RWA, TCD, UGA, XCA, XEA, XSA, XWA, ZMB, ZWE, CPV, MRT, SSD, SLE, SOM, SWZ, TUN
 - [[infra.energy]] — Energy · places: AGO, CAF, XAF, ZAF, NGA, KEN, ETH, MAR, DJI, EGY, GHA, RWA, SEN, SLE, SSD, TZA, XEA, XGL, XSA, XSS, ZWE, SWZ, TCD, TGO
 - [[infra.capacity]] — Technical Capacity · places: KEN, ZAF, NAM, XSS, XEA, XAF, XGL, MAR, NGA, AGO, BFA, BWA, CIV, EGY, GHA, LBR, RWA, TUN, UGA, XSA, XWA, ZMB, ZWE
-- [[infra.cybersec]] — Cybersecurity · places: AGO, ZMB, ZAF, XAF, NGA, MOZ, RWA, BEN, GHA, KEN, MUS, LBR, XEA, XSS, CMR, BFA, EGY, SEN, ZWE, DZA, UGA, CIV, COD, COG, DJI, GAB, GNQ, MAR, MLI, NER, SLE, SWZ, TCD, TUN, XCA, XGL, XWA, CPV, LBY, SDN, SOM, TZA
+- [[infra.cybersec]] — Cybersecurity · places: AGO, ZMB, ZAF, XAF, NGA, MOZ, RWA, BEN, GHA, KEN, MUS, LBR, XEA, XSS, CMR, BFA, EGY, SEN, ZWE, DZA, UGA, CIV, COD, COG, DJI, GAB, GNQ, MAR, MLI, NER, SLE, SWZ, TCD, TUN, XCA, XGL, XWA, CPV, LBY, SDN, SOM, TZA, MRT
 
 ## DPI
 - [[dpi.id]] — Digital Identity and CRVS · places: COG, COM, BWA, BDI, AGO, CAF, ZMB, MAR, KEN, NGA, ETH, SLE, UGA, XAF, COD, XGL, ZAF, TZA, MOZ, TGO, GHA, BEN, MUS, LBR, XEA, RWA, XWA, NER, BFA, MLI, CIV, MDG, SDN, LSO, GMB, MWI, CMR, DJI, EGY, NAM, SEN, SOM, SSD, STP, XSA, XSS, ZWE, CPV, DZA, ERI, GAB, GIN, GNQ, GNB, LBY, MRT, SWZ, SYC, TCD, TUN
 - [[dpi.pay]] — Digital Payments and Fintech · places: COM, BDI, CAF, ZMB, KEN, XAF, ETH, GHA, NGA, EGY, XSS, SEN, MUS, ZAF, COD, RWA, SOM, SSD, MOZ, XWA, XCA, AGO, BEN, BFA, BWA, CIV, CMR, COG, CPV, DJI, ERI, GAB, LBR, LSO, MAR, MLI, MWI, NAM, SDN, SLE, SYC, TGO, TZA, UGA, XEA, XGL, XSA, ZWE, DZA, GIN, GNQ, GNB, GMB, LBY, MDG, MRT, NER, SWZ, TCD, TUN
-- [[dpi.exchange]] — Data Exchange · places: COM, AGO, ZMB, XAF, NGA, KEN, MWI, ZAF, RWA, BEN, GHA, ETH, SEN, TGO, XWA, DJI, TZA, XEA, LSO, UGA, COD, BWA, CIV, CMR, CPV, EGY, LBR, MAR, MOZ, MUS, NAM, NER, SOM, SSD, STP, SYC, XCA, XGL, XSA, XSS, ZWE, DZA, ERI, GAB, GNB, MDG, SDN, SLE, SWZ, TCD, TUN
+- [[dpi.exchange]] — Data Exchange · places: COM, AGO, ZMB, XAF, NGA, KEN, MWI, ZAF, RWA, BEN, GHA, ETH, SEN, TGO, XWA, DJI, TZA, XEA, LSO, UGA, COD, BWA, CIV, CMR, CPV, EGY, LBR, MAR, MOZ, MUS, NAM, NER, SOM, SSD, STP, SYC, XCA, XGL, XSA, XSS, ZWE, DZA, ERI, GAB, GNB, MDG, SDN, SLE, SWZ, TCD, TUN, MRT
 - [[dpi.govtech]] — Other GovTech and e-Gov · places: COG, COM, BWA, BDI, CAF, ZMB, ZAF, XGL, MWI, GHA, NAM, KEN, NGA, UGA, BEN, CIV, MOZ, COD, TZA, RWA, EGY, CMR, AGO, BFA, ETH, GIN, GNQ, LBR, LSO, MAR, MDG, MLI, NER, SEN, SLE, SOM, SSD, STP, SWZ, XAF, XEA, XSS, XWA, ZWE, DJI, CPV, DZA, ERI, GAB, GNB, GMB, LBY, MRT, MUS, SYC, TCD, TGO, TUN
 - [[dpi.registry]] — Registries (population, land, address, etc.) · places: COG, COD, BFA, BDI, AGO, CAF, ZAF, TZA, UGA, ETH, NGA, RWA, ZMB, XWA, BEN, CIV, CMR, LSO, MDG, XGL, KEN, MWI, SOM, XAF, DZA, EGY, GAB, GHA, GIN, GNQ, GNB, GMB, LBR, LBY, MAR, MOZ, MLI, MRT, MUS, NAM, NER, SSD, SLE, STP, SWZ, SYC, TCD, TGO, TUN, ZWE
-- [[dpi.mis]] — Sectoral management information systems (HMIS, EMIS, etc.) · places: COD, BDI, XAF, XSS, XGL, RWA, ETH, NGA, KEN, ZAF, MWI, TZA, MOZ, GHA, ZMB, UGA, ZWE, LSO, BEN, BWA, CIV, CMR, GAB, LBR, MDG, SEN, SLE, SOM, SWZ, TCD, XEA, CPV, EGY, GIN, GNQ, GMB, MUS, NAM, TGO, AGO
+- [[dpi.mis]] — Sectoral management information systems (HMIS, EMIS, etc.) · places: COD, BDI, XAF, XSS, XGL, RWA, ETH, NGA, KEN, ZAF, MWI, TZA, MOZ, GHA, ZMB, UGA, ZWE, LSO, BEN, BWA, CIV, CMR, GAB, LBR, MDG, SEN, SLE, SOM, SWZ, TCD, XEA, CPV, EGY, GIN, GNQ, GMB, MUS, NAM, TGO, AGO, MRT
 
 ## Governance
 - [[gov.policy]] — Strategies, plans and policies · places: CAF, ZMB, XGL, KEN, ZAF, GHA, NAM, MWI, NGA, XAF, EGY, XSS, SEN, CIV, XEA, RWA, TZA, UGA, LBR, ETH, BFA, MOZ, SOM, AGO, BDI, BEN, BWA, CMR, COD, COG, DJI, DZA, GAB, GMB, LSO, MAR, MDG, MUS, SDN, SLE, STP, SWZ, TCD, TUN, XCA, XSA, XWA, ZWE, CPV, ERI, GIN, GNQ, GNB, LBY, MLI, MRT, NER, SSD, TGO
 - [[gov.regional]] — Regional collaboration · places: COM, CAF, ZMB, XAF, NGA, KEN, RWA, NAM, AGO, ZWE, EGY, GHA, BEN, XEA, XWA, TGO, NER, BFA, MLI, TZA, UGA, MOZ, BWA, LBR, SLE, XSA, XCA, SYC, BDI, CIV, CMR, COD, COG, CPV, DJI, DZA, ETH, GMB, GNQ, LSO, MAR, MDG, MUS, MWI, SDN, SEN, SOM, STP, SWZ, TUN, XGL, XSS, ZAF, GIN, GNB, MRT, TCD
-- [[gov.standards]] — Standards · places: XGL, ZAF, MAR, XAF, SLE, ZMB, NGA, ETH, RWA, BEN, XWA, TGO, GHA, MOZ, TZA, LSO, UGA, KEN, EGY, BDI, BFA, BWA, COG, DJI, DZA, GAB, MUS, MWI, NER, SEN, TUN, XCA, XEA, XSA, XSS, ZWE, GIN, NAM, SYC, TCD
+- [[gov.standards]] — Standards · places: XGL, ZAF, MAR, XAF, SLE, ZMB, NGA, ETH, RWA, BEN, XWA, TGO, GHA, MOZ, TZA, LSO, UGA, KEN, EGY, BDI, BFA, BWA, COG, DJI, DZA, GAB, MUS, MWI, NER, SEN, TUN, XCA, XEA, XSA, XSS, ZWE, GIN, NAM, SYC, TCD, MRT
 - [[gov.protect]] — Data protection · places: COM, CAF, XAF, NGA, KEN, MWI, COD, ZAF, MUS, BEN, UGA, LBR, ZWE, ZMB, SEN, NAM, COG, SOM, MOZ, RWA, STP, XGL, AGO, BDI, BWA, CIV, CMR, DJI, DZA, EGY, ETH, GAB, GHA, GMB, LSO, MAR, MDG, SDN, SLE, SSD, SWZ, SYC, TGO, TUN, TZA, XCA, XEA, XSA, XSS, XWA, CPV, GIN, LBY, MRT, NER
 - [[gov.legislate]] — Legislation and regulation · places: CAF, XAF, NGA, KEN, XGL, GHA, ZAF, MOZ, NAM, RWA, XSA, ZMB, SOM, COG, UGA, MWI, AGO, BDI, BEN, BFA, BWA, CIV, CMR, COD, DJI, DZA, EGY, ETH, GMB, LSO, MAR, MLI, MUS, SDN, SEN, SYC, TGO, TUN, TZA, XEA, XSS, XWA, ZWE, GAB, GIN, LBR, MDG, MRT, NER, SSD, SLE, STP, SWZ, TCD, ERI
 
 ## Technology
 - [[tech.ai]] — AI · places: CAF, XAF, XGL, RWA, GAB, NGA, KEN, ZAF, NAM, GHA, ETH, XSS, EGY, MAR, ZMB, XEA, TZA, UGA, SEN, MWI, ZWE, COD, DJI, AGO, BDI, BEN, BFA, BWA, CIV, CMR, COG, DZA, GMB, LBR, MLI, MOZ, MUS, SDN, SYC, TGO, TUN, XCA, XSA, XWA, GIN, SLE, ERI
-- [[tech.industry]] — ICT Industry · places: XGL, XAF, ZAF, NGA, MAR, KEN, EGY, GHA, AGO, BEN, CMR, COD, DJI, DZA, ERI, ETH, GMB, MLI, NAM, NER, RWA, SEN, SLE, SOM, SSD, SWZ, TCD, TGO, TZA, UGA, XEA, XSS, ZMB, ZWE, GNQ, SYC, TUN
+- [[tech.industry]] — ICT Industry · places: XGL, XAF, ZAF, NGA, MAR, KEN, EGY, GHA, AGO, BEN, CMR, COD, DJI, DZA, ERI, ETH, GMB, MLI, NAM, NER, RWA, SEN, SLE, SOM, SSD, SWZ, TCD, TGO, TZA, UGA, XEA, XSS, ZMB, ZWE, GNQ, SYC, TUN, MRT
 - [[tech.innovate]] — Innovation ecosystem · places: COG, BWA, BFA, BEN, BDI, GAB, XAF, GHA, UGA, NGA, KEN, ZAF, AGO, CIV, ETH, MAR, RWA, SEN, SLE, TGO, TZA, XCA, XGL, XSS, DZA, SWZ, TUN, ERI
 
 ## Inclusion
-- [[include.divides]] — Digital divides · places: COM, BDI, CAF, ZMB, XAF, NGA, ZAF, KEN, RWA, NAM, ETH, SEN, XGL, XSS, AGO, BEN, BFA, CIV, CMR, COD, COG, EGY, ERI, GAB, GHA, LBR, MAR, MOZ, MUS, SSD, SWZ, TGO, TZA, UGA, XCA, XEA, XSA, XWA, ZWE, DJI, CPV, DZA, GIN, GNQ, SDN, TCD, TUN
+- [[include.divides]] — Digital divides · places: COM, BDI, CAF, ZMB, XAF, NGA, ZAF, KEN, RWA, NAM, ETH, SEN, XGL, XSS, AGO, BEN, BFA, CIV, CMR, COD, COG, EGY, ERI, GAB, GHA, LBR, MAR, MOZ, MUS, SSD, SWZ, TGO, TZA, UGA, XCA, XEA, XSA, XWA, ZWE, DJI, CPV, DZA, GIN, GNQ, SDN, TCD, TUN, MRT
 - [[include.access]] — Access to services · places: COG, COM, BDI, CAF, XAF, KEN, NGA, ZAF, SEN, XSS, ETH, TZA, ZWE, NAM, CIV, BEN, LBR, SLE, SSD, XWA, AGO, BFA, BWA, CMR, COD, CPV, DJI, DZA, EGY, GHA, LSO, MLI, MOZ, MUS, MWI, NER, RWA, SDN, SOM, STP, TGO, UGA, XCA, XEA, XGL, XSA, ZMB, GAB, GIN, GNB, GMB, MAR, MDG, MRT, SYC, TUN
 
 ## Geopolitics
@@ -57,7 +57,7 @@ only slugs with a concept page are listed. Roll-up is by Level-1 parent.
 
 ## Finance
 - [[finance.new]] — New investments · places: BDI, ZMB, XAF, ZAF, NGA, KEN, NAM, MWI, GHA, XSS, RWA, SWZ, EGY, TZA, MUS, AGO, SEN, ETH, ZWE, MOZ, GAB, DJI, TUN, XWA, BEN, LBR, SLE, SSD, GMB, COD, BWA, CIV, CMR, COG, DZA, GIN, MAR, MLI, MRT, SOM, UGA, XCA, XEA, XGL, XSA, SDN, TCD, TGO
-- [[finance.mou]] — MoUs and other agreements · places: XAF, KEN, GAB, SLE, ETH, MOZ, TGO, XGL, XSS, RWA, ZMB, SOM, NGA, ZAF, COD, LSO, TZA, SYC, AGO, BFA, CPV, EGY, GHA, GIN, LBR, MWI, NAM, SEN, TCD, XCA, XEA, XSA, XWA, ZWE, DJI
+- [[finance.mou]] — MoUs and other agreements · places: XAF, KEN, GAB, SLE, ETH, MOZ, TGO, XGL, XSS, RWA, ZMB, SOM, NGA, ZAF, COD, LSO, TZA, SYC, AGO, BFA, CPV, EGY, GHA, GIN, LBR, MWI, NAM, SEN, TCD, XCA, XEA, XSA, XWA, ZWE, DJI, MRT
 
 ---
 

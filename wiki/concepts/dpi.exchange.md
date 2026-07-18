@@ -2,7 +2,7 @@
 type: concept
 title: Data Exchange
 slug: dpi.exchange
-places: [COM, CIV, CMR, AGO, ZMB, XAF, NGA, KEN, MWI, ZAF, RWA, BEN, GHA, ETH, SEN, TGO, XWA, DJI, TZA, XEA, LSO, UGA, COD, CPV, DZA, EGY, ERI, STP, SLE]
+places: [MRT, COM, CIV, CMR, AGO, ZMB, XAF, NGA, KEN, MWI, ZAF, RWA, BEN, GHA, ETH, SEN, TGO, XWA, DJI, TZA, XEA, LSO, UGA, COD, CPV, DZA, EGY, ERI, STP, SLE]
 entities: [[dzap], [smart-zambia-institute], [afcfta], [papss], [equity-africanenda-gates-dpi-partnership], [ucl-iipp], [dmap], [undp], [popia], [research-ict-africa], [sadx], [smart-africa], [uxp-benin], [cybernetica], [estdev], [estdev-smart-africa-mou], [eac], [wamkele-mene], [afcfta-digital-trade-protocol], [wbg-dpi-white-paper], [dhis2], [africa-cdc], [adli], [dial], [ethswitch], [safaricom], [wingu-africa], [nitda], [ngea], [galaxy-backbone], [new-deal-technologique], [wuri-programme], [ecowas], [sigmat], [cybastion], [securoute], [asin-benin], [micsti-lesotho], [mosip], [gtmi], [onafriq]]
 lens: [sovereignty]
 status: active

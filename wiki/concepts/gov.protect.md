@@ -2,7 +2,7 @@
 type: concept
 title: Data protection
 slug: gov.protect
-places: [COM, CIV, CMR, BWA, BDI, AGO, XAF, CAF, NGA, KEN, MWI, COD, ZAF, MUS, BEN, UGA, LBR, ZWE, ZMB, SEN, NAM, COG, SOM, MOZ, RWA, STP, TZA, XGL, DJI, CPV, DZA, EGY, SSD, SLE, SWZ, SYC, TCD, TGO]
+places: [MRT, COM, CIV, CMR, BWA, BDI, AGO, XAF, CAF, NGA, KEN, MWI, COD, ZAF, MUS, BEN, UGA, LBR, ZWE, ZMB, SEN, NAM, COG, SOM, MOZ, RWA, STP, TZA, XGL, DJI, CPV, DZA, EGY, SSD, SLE, SWZ, SYC, TCD, TGO]
 entities: [[afcfta], [cbn], [ndpc], [meta], [ndpc-meta-settlement], [microsoft], [g42], [african-union], [popia], [research-ict-africa], [trendai], [ncc], [bosun-tijani], [fccpc], [sa-digital-id-regulations], [eac], [id4africa], [world-bank], [visa], [safaricom], [onafriq], [visa-mpesa-onafriq-drc-stablecoin-pilot], [america-first-global-health-strategy], [us-kenya-health-framework], [odpc-kenya], [zimbabwe-us-health-mou], [africa-cdc], [zte], [hikvision], [huawei], [cran], [starlink], [zambia-us-health-mou], [us-department-of-state], [national-personal-data-protection-commission-congo], [somalia-ministry-communications-technology], [intic-mozambique], [malawi-data-protection-act-2024], [dial], [nimc], [nigeria-data-protection-act-2023], [inec], [digital-rights-lawyers-initiative], [consumer-federation-of-kenya], [kenya-data-marketplace], [eu-ai-act], [au-data-policy-framework], [digital-policy-alert], [tech-hive-advisory], [code-for-africa], [d4d-hub], [auda-nepad], [kictanet], [pdpc-tanzania], [data-protection-act-2022-eswatini], [esccom], [apc], [smart-africa], [sadc], [data-protection-act-2023-seychelles], [information-commission-seychelles], [boukar-michel], [ipdcp-togo], [haac-togo], [haac-ipdcp-accord]]
 lens: [sovereignty, colonialism]
 status: active

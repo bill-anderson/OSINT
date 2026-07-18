@@ -2,7 +2,7 @@
 type: concept
 title: Sectoral management information systems (HMIS, EMIS, etc.)
 slug: dpi.mis
-places: [COD, CMR, BDI, XAF, XSS, XGL, RWA, ETH, NGA, KEN, ZAF, MWI, TZA, MOZ, GHA, GIN, ZMB, UGA, ZWE, LSO, CPV, EGY, SWZ, TGO, AGO]
+places: [MRT, COD, CMR, BDI, XAF, XSS, XGL, RWA, ETH, NGA, KEN, ZAF, MWI, TZA, MOZ, GHA, GIN, ZMB, UGA, ZWE, LSO, CPV, EGY, SWZ, TGO, AGO]
 entities: [[dhis2], [rediv-angola], [huawei-angola-health-mou], [hisp-centre], [africa-cdc], [open-data-watch], [ethiopia-moh], [echis-ethiopia], [hmis-tanzania-pea], [hmis-malawi-livingstonia], [his-developing-countries-review], [hmis-data-use-index-ethiopia], [echis-ethiopia-study], [dhis2-maturity-ethiopia], [rhis-recording-burden-5country], [america-first-global-health-strategy], [usaid], [gates-foundation], [malawi-revenue-authority], [nissa-lesotho], [universal-dpi-safeguards-framework], [micsti-lesotho], [mosip], [eswatini-cbhis], [eswatini-cmis], [ministry-of-health-eswatini], [eswatini-nhssp], [eswatini-health-system-strengthening-project], [hisp-wca], [stateduc], [mepsta-togo]]
 status: active
 last_reviewed: 2026-07-17

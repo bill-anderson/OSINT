@@ -4593,3 +4593,52 @@ IDN/.GW accented domains.)
 
 **Teardown.** `new/` drained to empty (13 in = 13 admitted + 0 leads + 0 discards + 0 needs-clip).
 `new-queue/GNB/` reduced to `MANIFEST.md` husk — deleted. Committed.
+
+## 2026-07-18 — Batch ingest: MRT (Mauritania) — Phase-2 sweep, smallest pending folder
+
+**Scope.** Drained `new-queue/MRT/` (17 staged candidates, batch MRT-2026-07-17). Interruption recovery clean
+(`new/` empty; no folder split across `new-queue/` and `done/`). Copied MRT to `new-queue/done/MRT/` before
+any move. **Screen:** all 17 were full-text bodies — **0 flagged summaries / 0 needs-clip**. All 17 admitted;
+0 leads, 0 discards. Frontmatter verified against bodies (published dates, precision, provenance flags all
+held); added `ingested: 2026-07-18`.
+
+**Sources admitted (17).** Houwiyeti education-certificates service (AMI, 2025-07-24); EllaLink 2nd cable
+launch (AMI, 2025-07-28) and phase-1 landing (AMI, 2026-05-04) + connectivity/affordability baseline (Ecofin,
+2026-05-05); Chinguitel–Huawei modernisation (2025-11-13); 2026 finance-law 0.1% e-transaction tax
+(Invest-Time, 2026-01-17); ARE satellite-internet tender (2026-01-29) and 5G provisional winners (2026-04-15);
+US ITA Country Commercial Guide (reference, 2026-02-10); public-digital-services standards framework
+(2026-03-27); PAMIF financial-inclusion 21%→55% (AfDB, 2026-04-13); IsDB $50m principle agreement
+(2026-04-16); parliamentary état-civil / ID-exclusion debate (La Dépêche, 2026-06-18); Houwiyeti usage
+indicators (Tech Rek, 2026-06-21); national cloud launch (Ecofin, 2026-06-30); PAFIID/BCM 10k+ cyber threats
+(Elvetach, 2026-07-08); digital consular-services platform (We Are Tech, 2026-07-10).
+
+**Entities.** Created 16 — companies: `chinguitel`, `mauritel`, `mattel`, `rimatel` (new 4th operator), `bmci`,
+`alcatel-submarine-networks`; organisations: `eib`, `islamic-development-bank`, `unctad`; government-bodies:
+`central-bank-mauritania` (BCM), `apd-mauritania` (data-protection authority, net-new); initiatives: `ellalink`,
+`ace-cable`, `pamif`, `pafiid`, `digital-y`. Updated 10 — `houwiyeti` (set needs-review; new dated usage
+figures + contradiction flag), `anrpts-mauritania` (register 3.4m→5.1m, 2025 permanent-enrolment reform,
+exclusion angle + sovereignty/colonialism lens), `mtnima-mauritania` (national cloud, standards framework,
+consular platform, IsDB; +5 sources), `are-mauritania` (satellite tender + 5G; +infra.connect), `huawei`
+(+MRT), `african-development-bank` (+MRT, PAMIF), `giz` (+MRT), `world-bank` (+MRT, national cloud), `wardip`
+(+MRT, national cloud), `starlink` (+MRT, tender).
+
+**Places/concepts.** `MRT` hub: 16 new dated developments added (13 in 2026, 3 in 2025-H2); frontmatter topics
+expanded (+dpi.mis, dpi.exchange, gov.standards, gov.protect, infra.cybersec, finance.new, finance.mou,
+include.divides, tech.industry); Active topics + Entities sections rewritten. Added `MRT` to the Places
+frontmatter of 16 concept pages (mechanical nav fix — pre-existing gap; MRT holdings existed but weren't
+propagated). No intersections created (hub carries the synthesis; anti-fragmentation). Indexes: entities-index
+(16 new rows across 4 sections; +MRT on huawei/starlink/wardip rows; removed a duplicate `houwiyeti` row I'd
+added), topics-index (+MRT on 7 topic lines: infra.cybersec, finance.mou, gov.standards, dpi.exchange, dpi.mis,
+include.divides, tech.industry), places-index (MRT row topic summary refreshed).
+
+**Contradiction filed.** `mauritania-houwiyeti-passport-share-extracts` — held ID4Africa (May 2025) "70% of
+passport requests / 622k extracts in a year" vs Tech Rek (June 2026) "35.7% via app / 406,871 cumulative
+civil-status extracts". Both kept dated; `houwiyeti` set `needs-review`; paste-ready wiki-agnostic research
+brief attached (both source URLs held).
+
+**Gaps filed.** **GAP-MRT-001** — distinct new national digital-ID + PKI system (WARDIP tender, IDA-7445-MR)
+unsourced. **GAP-MRT-002** — National AI Strategy 2025–2029 and National Cybersecurity Strategy 2022–2025
+referenced without their own pages.
+
+**Teardown.** `new/` drained to empty (17 in = 17 admitted + 0 leads + 0 discards + 0 needs-clip).
+`new-queue/MRT/` reduced to `MANIFEST.md` husk — deleted. Committed.

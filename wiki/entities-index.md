@@ -6,6 +6,12 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 
 | Entity | Places | Topics | Page |
 |---|---|---|---|
+| Chinguitel (Mauritania telecom operator) | MRT | infra.connect, geopol.china | [[chinguitel]] |
+| Mauritel (Mauritania telecom operator) | MRT | infra.connect | [[mauritel]] |
+| Mattel (Mauritania telecom operator) | MRT | infra.connect | [[mattel]] |
+| Rimatel (Mauritania telecom operator, new entrant) | MRT | infra.connect | [[rimatel]] |
+| BMCI (Banque Mauritanienne pour le Commerce International) | MRT | dpi.pay, finance.new | [[bmci]] |
+| Alcatel Submarine Networks (ASN) | MRT, XGL | infra.connect | [[alcatel-submarine-networks]] |
 | EriTel (Eritrea state telecom monopoly) | ERI | infra.connect, include.divides | [[eritel]] |
 | Telecel (Guinea-Bissau) | GNB | infra.connect, capacity.training, capacity.literacy, tech.innovate | [[telecel]] |
 | MVola (Madagascar mobile money / digital bank) | MDG | dpi.pay, dpi.exchange, include.access | [[mvola]] |
@@ -25,13 +31,13 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 | Airtel Africa (Nxtra) | NGA, XAF | infra.store, tech.ai, finance.new | [[airtel-africa]] |
 | ST DIGITAL GABON | GAB, XAF | infra.store, infra.cybersec, tech.innovate | [[st-digital-gabon]] |
 | Equity Group Holdings | KEN, XAF | dpi.pay, dpi.id, include.access, finance.mou | [[equity-group-holdings]] |
-| Huawei | NAM, XAF, XGL | geopol.china, infra.store, tech.ai, capacity.training | [[huawei]] |
+| Huawei | NAM, MRT, XAF, XGL | geopol.china, infra.store, tech.ai, capacity.training | [[huawei]] |
 | Oracle | KEN, XAF, XGL | infra.store, tech.ai, geopol.usa, dpi.govtech | [[oracle]] |
 | Safaricom | KEN, ETH, XAF, XEA | infra.connect, dpi.id, dpi.pay, include.divides | [[safaricom]] |
 | Google (Alphabet) | ZAF, GHA, KEN, XAF | infra.store, tech.ai, infra.connect, geopol.usa | [[google]] |
 | Microsoft | ZAF, KEN, NGA, XAF | infra.store, tech.ai, geopol.usa, capacity.training | [[microsoft]] |
 | Vodacom Group | ZAF, KEN, TZA, XEA | dpi.pay, infra.connect, tech.ai | [[vodacom]] |
-| Starlink (SpaceX) | XSS, NGA, KEN, ZWE, ZAF, NAM, SEN, GNB | infra.connect, include.access, include.divides | [[starlink]] |
+| Starlink (SpaceX) | XSS, NGA, KEN, ZWE, ZAF, NAM, SEN, GNB, MRT | infra.connect, include.access, include.divides | [[starlink]] |
 | G42 | KEN, XAF, XGL | tech.ai, infra.store, geopol.gulf, geopol.usa | [[g42]] |
 | Equinix | ZAF, NGA, XAF | infra.store, infra.energy, infra.capacity | [[equinix]] |
 | Meta Platforms | NGA, XAF | gov.protect, gov.legislate, geopol.usa | [[meta]] |
@@ -190,6 +196,9 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 
 | Entity | Places | Topics | Page |
 |---|---|---|---|
+| European Investment Bank (EIB) | MRT, XGL | infra.connect, infra.store, finance.new, geopol.eu | [[eib]] |
+| Islamic Development Bank (IsDB) | MRT, XGL | finance.mou, geopol.gulf, gov.policy | [[islamic-development-bank]] |
+| UNCTAD (UN Conference on Trade and Development) | XGL | gov.policy, data.statistics, dpi.pay | [[unctad]] |
 | Southern African Development Community (SADC) | XSA | gov.regional, infra.connect, dpi.exchange | [[sadc]] |
 | UNCDF (United Nations Capital Development Fund) | GAB | dpi.pay, include.access, finance.mou | [[uncdf]] |
 | COMESA (Common Market for Eastern & Southern Africa) | XSA, XEA, XAF | gov.regional, gov.policy, tech.ai, dpi.exchange | [[comesa]] |
@@ -348,6 +357,8 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 
 | Entity | Places | Topics | Page |
 |---|---|---|---|
+| Central Bank of Mauritania (BCM) | MRT | dpi.pay, infra.store, finance.new, infra.cybersec | [[central-bank-mauritania]] |
+| Autorité de Protection des Données (APD, Mauritania) | MRT | gov.protect, gov.policy | [[apd-mauritania]] |
 | Digital Governance Unit (UGD, Madagascar) | MDG | dpi.exchange, dpi.govtech | [[ugd-madagascar]] |
 | ARN-TIC (National Regulatory Authority for ICT, Guinea-Bissau) | GNB | infra.connect, gov.legislate, include.access | [[arn]] |
 | Bank of Eritrea | ERI | dpi.pay, gov.legislate | [[bank-of-eritrea]] |
@@ -603,6 +614,11 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 
 | Entity | Places | Topics | Page |
 |---|---|---|---|
+| EllaLink (Mauritania second submarine cable) | MRT, XWA | infra.connect, geopol.eu, finance.new | [[ellalink]] |
+| ACE — Africa Coast to Europe submarine cable | MRT, XWA, XAF | infra.connect | [[ace-cable]] |
+| PAMIF (Mauritania financial-infrastructure modernisation) | MRT | dpi.pay, finance.new, include.access, infra.store | [[pamif]] |
+| PAFIID (Mauritania inclusive-finance support programme) | MRT | dpi.pay, infra.cybersec, include.access | [[pafiid]] |
+| Digital-Y (Mauritania — German digital cooperation) | MRT | dpi.govtech, gov.standards, capacity.training | [[digital-y]] |
 | PRODIGY (Madagascar Digital Governance & ID Project) | MDG | dpi.id, dpi.registry, dpi.govtech, dpi.exchange | [[prodigy-madagascar]] |
 | Mauritius Mobile ID (digital wallet, Thales) | MUS | dpi.id, dpi.govtech | [[mauritius-mobile-id]] |
 | MauCAS (Mauritius Central Automated Switch) | MUS | dpi.pay, include.access | [[maucas]] |
@@ -683,7 +699,7 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 | SudaPass (Sudan digital ID) | SDN | dpi.id, dpi.govtech, include.access | [[sudapass]] |
 | Tech Corps (US AI-diffusion program) | XGL | geopol.usa, tech.ai, capacity.training | [[tech-corps]] |
 | telebirr | ETH | dpi.pay, include.access | [[telebirr]] |
-| WARDIP (Western Africa Regional Digital Integration Program) | XWA, BEN, LBR, SLE, GNB | infra.connect, dpi.govtech, gov.regional | [[wardip]] |
+| WARDIP (Western Africa Regional Digital Integration Program) | XWA, BEN, LBR, SLE, GNB, MRT | infra.connect, dpi.govtech, gov.regional | [[wardip]] |
 | 2Africa subsea cable | XAF, EGY, ZAF, NGA, KEN, COD, MDG | infra.connect, infra.capacity, geopol.china | [[2africa-cable]] |
 | Equiano subsea cable | XWA, NGA, TGO, GHA, CIV, NAM, ZAF | infra.connect, infra.store, dpi.exchange, geopol.usa | [[equiano-cable]] |
 | Umoja subsea cable | KEN, UGA, RWA, COD, ZMB, ZWE, ZAF, XAF | infra.connect, infra.cybersec, geopol.usa, finance.new | [[umoja-cable]] |

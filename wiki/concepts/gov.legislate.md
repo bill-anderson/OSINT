@@ -2,7 +2,7 @@
 type: concept
 title: Legislation and regulation
 slug: gov.legislate
-places: [COD, CIV, CMR, BWA, BFA, AGO, XAF, NGA, KEN, XGL, GHA, ZAF, MOZ, NAM, RWA, XSA, ZMB, SOM, COG, UGA, MWI, DZA, EGY, STP, SSD, SLE, SWZ, SYC, TCD, TGO, XWA, ERI]
+places: [MRT, COD, CIV, CMR, BWA, BFA, AGO, XAF, NGA, KEN, XGL, GHA, ZAF, MOZ, NAM, RWA, XSA, ZMB, SOM, COG, UGA, MWI, DZA, EGY, STP, SSD, SLE, SWZ, SYC, TCD, TGO, XWA, ERI]
 entities: [[afcfta], [nimc], [cbn], [samuel-nartey-george], [popia], [bosun-tijani], [ncc], [mozambique-cyber-security-law], [sa-digital-id-regulations], [fccpc], [icasa], [cran], [starlink], [sarb], [nida-rwanda], [smart-zambia-institute], [somalia-ministry-communications-technology], [national-personal-data-protection-commission-congo], [uganda-communications-commission], [mtn-group], [airtel-africa], [malawi-data-protection-act-2024], [us-department-of-state], [ndpc], [nigeria-data-protection-act-2023], [inec], [digital-rights-lawyers-initiative], [eu-ai-act], [kenya-ai-bill-2026], [alice-munyua], [data-protection-act-2022-eswatini], [esccom], [apc], [data-protection-act-2023-seychelles], [information-commission-seychelles], [boukar-michel], [togo-aml-law-2025], [fatf], [waemu]]
 lens: [sovereignty]
 status: active

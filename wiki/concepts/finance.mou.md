@@ -2,7 +2,7 @@
 type: concept
 title: MoUs and other agreements
 slug: finance.mou
-places: [AGO, XAF, KEN, GAB, SLE, ETH, MOZ, TGO, XGL, XSS, RWA, ZMB, SOM, NGA, ZAF, COD, LSO, TZA, SYC, DJI]
+places: [MRT, AGO, XAF, KEN, GAB, SLE, ETH, MOZ, TGO, XGL, XSS, RWA, ZMB, SOM, NGA, ZAF, COD, LSO, TZA, SYC, DJI]
 entities: [[equity-africanenda-gates-dpi-partnership], [st-digital-gabon], [sierra-leone-digital-id-mou], [safaricom-ethiopia-fayda-jv], [estdev], [smart-africa], [estdev-smart-africa-mou], [atdi-mozambique], [mozambique-ethiopia-dpi-mou], [sin-togo], [lome-data-centre], [sin-st-digital-lome-cloud-deal], [realtyme], [smart-africa-realtyme-partnership], [gates-foundation], [anthropic], [gates-anthropic-partnership], [gabon-huawei-mou], [huawei], [anthropic-rwanda-mou], [zambia-us-health-mou], [america-first-global-health-strategy], [ethio-telecom], [somcable], [payz], [bank-of-zambia], [zicta], [nigeria-finland-digital-mou], [eu-nigeria-global-gateway-290m], [global-gateway], [au-google-mou], [google], [african-union], [starlink-airtel-d2c-partnership], [starlink-vodacom-leo-partnership], [starlink], [airtel-africa], [vodacom], [ixafrica-oracle-oci-nairobi], [oracle], [kenya-school-of-government], [seychelles-afcfta-mou], [afcfta-digital-trade-corridor]]
 lens: [sovereignty]
 status: active

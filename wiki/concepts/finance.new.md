@@ -2,7 +2,7 @@
 type: concept
 title: New investments
 slug: finance.new
-places: [COG, BDI, ZMB, XAF, ZAF, NGA, KEN, NAM, MWI, GHA, XSS, RWA, SWZ, EGY, TZA, MUS, AGO, SEN, ETH, ZWE, MOZ, GAB, DJI, TUN, XWA, BEN, LBR, SLE, SSD, GMB, COD, UGA, CIV, DZA]
+places: [MRT, COG, BDI, ZMB, XAF, ZAF, NGA, KEN, NAM, MWI, GHA, XSS, RWA, SWZ, EGY, TZA, MUS, AGO, SEN, ETH, ZWE, MOZ, GAB, DJI, TUN, XWA, BEN, LBR, SLE, SSD, GMB, COD, UGA, CIV, DZA]
 entities: [[dzap], [world-bank], [idea-mpa], [cassava-technologies], [us-dfc], [seacom], [mtn-group], [airtel-africa], [china-namibia-smart-city], [dmap], [nigeria-id4d], [google], [uae], [uae-ai-for-development-initiative], [ifc], [ifc-airtel-africa-loan], [microsoft-g42-kenya-datacenter], [partner2connect], [itu], [undp], [african-development-bank], [nafa], [sidi-ould-tah], [kasi-cloud], [nsia], [microsoft-sa-2026-expansion], [nida-tanzania], [nucap], [orange], [via-africa-cable], [peach-payments], [google-for-startups-accelerator-africa], [equinix], [equinix-sa-438m-expansion], [mtn-sa-2026-investment], [ghana-national-ai-strategy], [amazon-web-services], [globalstar], [amazon-globalstar-acquisition], [wingu-africa], [nigcomsat], [america-first-global-health-strategy], [us-kenya-health-framework], [zimbabwe-us-health-mou], [ebrd], [ebrd-yas-network-loan], [yas], [ilx-fund], [tunisie-telecom], [medusa-submarine-cable], [mtn-ghana], [ralph-mupita], [wardip], [ecowas], [african-union], [smart-africa], [finnfund], [crei-south-sudan], [margins-id-group], [gambia-national-id-contract], [payservices], [payservices-drc-banking-deal], [zambia-us-health-mou], [horizon1000], [gates-foundation], [openai], [kenya-cyber-resilience-project], [expertise-france], [european-union], [raxio-group]]
 lens: [sovereignty, colonialism]
 status: active

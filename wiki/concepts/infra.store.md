@@ -2,7 +2,7 @@
 type: concept
 title: Data Storage
 slug: infra.store
-places: [COG, COM, CMR, XGL, XAF, ZAF, NGA, KEN, GAB, EGY, SEN, GHA, NAM, MWI, AGO, TGO, MAR, ETH, TZA, DJI, MOZ, BWA, MLI, NER, BFA, GNQ, UGA, COD, CIV, GIN, XSS, CPV, DZA, SSD, SLE, SOM, TCD, SWZ]
+places: [MRT, COG, COM, CMR, XGL, XAF, ZAF, NGA, KEN, GAB, EGY, SEN, GHA, NAM, MWI, AGO, TGO, MAR, ETH, TZA, DJI, MOZ, BWA, MLI, NER, BFA, GNQ, UGA, COD, CIV, GIN, XSS, CPV, DZA, SSD, SLE, SOM, TCD, SWZ]
 entities: [[david-eaves], [cassava-technologies], [mtn-group], [airtel-africa], [st-digital-gabon], [us-dfc], [cbn], [huawei], [oracle], [google], [microsoft], [equinix], [g42], [microsoft-g42-kenya-datacenter], [trendai], [anthropic], [popia], [kasi-cloud], [nsia], [microsoft-sa-2026-expansion], [ncc], [axiz], [lome-data-centre], [sin-togo], [afcfta], [wamkele-mene], [amazon-web-services], [fccpc], [equinix-sa-438m-expansion], [wingu-africa], [uneca], [africa-data-centres], [liquid-c2], [galaxy-backbone], [alliance-of-sahel-states], [bf-ministry-digital-transition], [world-bank], [ixafrica-data-centres], [servernah-cloud], [mtn-ghana], [backbone-connectivity-network-nigeria], [nigeria-eqguinea-subsea-cable], [national-sovereign-cloud], [cassava-ai-factories], [google-cassava-90m-round], [liquid-c2-google-cloud-mou], [finnfund], [ixafrica-oracle-oci-nairobi], [raxio-group], [chad-national-data-centre], [pmice], [tchad-connexion-2030], [chad-digital-transformation-project], [adetic], [ansice], [techso-group], [flexenclosure], [eswatini-national-data-centre], [rstp], [xalam-analytics], [data-center-e-cloud-do-governo-angola], [nuvem-nacional-de-angola]]
 lens: [sovereignty, colonialism]
 status: active

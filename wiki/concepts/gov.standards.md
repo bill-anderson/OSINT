@@ -2,7 +2,7 @@
 type: concept
 title: Standards
 slug: gov.standards
-places: [XGL, ZAF, MAR, XAF, SLE, ZMB, NGA, ETH, RWA, BEN, XWA, TGO, GHA, MOZ, TZA, LSO, UGA, KEN, EGY]
+places: [MRT, XGL, ZAF, MAR, XAF, SLE, ZMB, NGA, ETH, RWA, BEN, XWA, TGO, GHA, MOZ, TZA, LSO, UGA, KEN, EGY]
 entities: [[david-eaves], [mosip], [nandan-nilekani], [the-govlab], [ucl-iipp], [camp], [sign-foundation], [bhutan-ndi], [smart-zambia-institute], [afcfta], [world-bank-theme-taxonomy], [smart-africa], [afnic], [popia], [afcfta-digital-trade-protocol], [adli], [dial], [digital-id-assessment], [fayda-ethiopia-national-id], [sadx], [id4africa], [wbg-dpi-white-paper], [world-development-report-2025], [global-index-on-responsible-ai], [global-center-on-ai-governance], [wuri-programme], [ecowas], [icasa], [nitda], [ngea], [galaxy-backbone], [rhis-recording-burden-5country], [dhis2], [gtmi], [sigmat], [universal-dpi-safeguards-framework], [nissa-lesotho], [margins-id-group], [ghana-card], [un-ai-scientific-panel], [african-union], [world-bank], [nibss], [national-payment-stack], [mapping-african-digital-infrastructures], [internet-society-africa-history], [research-ict-africa]]
 lens: [sovereignty]
 status: active

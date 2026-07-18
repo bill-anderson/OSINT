@@ -508,3 +508,20 @@ in the same batch and is now held; instrument upgraded stub→active. See log.md
   its components have a primary home.* Also noted as leads, lower priority: **RNEP-GB** (national research
   & education network, WARDIP-GB Final Report, 2025-04) and ARN's **IDN/.GW accented-domains** announcement.
   *(Surfaced GNB sweep ingest, 2026-07-18.)*
+
+- **GAP-MRT-001 · A distinct new national digital-ID system + national PKI (WARDIP tender) is unsourced.**
+  The MRT batch's manifest flags a **WARDIP national digital-ID + PKI/e-certification tender** (beta.mr /
+  MTNIMA PPM, ref AP-01, IDA-7445-MR, issued 28 Apr 2026) — a **new national digital-ID system and national
+  PKI integrated with ANRPTS**, distinct from the [[houwiyeti]] app — with `agenceecofin` (07 Jul 2026,
+  "trois entreprises sélectionnées") possibly reporting the award. No source was staged or ingested. This is
+  a load-bearing DPI development (a second identity rail beneath the app layer). *Lead: source a news
+  writeup or the tender/award notice and compile, so the new digital-ID/PKI programme has a home separate
+  from Houwiyeti and ANRPTS.* *(Surfaced MRT sweep ingest, 2026-07-18.)*
+
+- **GAP-MRT-002 · National AI Strategy 2025–2029 and National Cybersecurity Strategy 2022–2025 are
+  referenced without their own pages.** Both are cited across the MRT batch (the US ITA guide establishes the
+  AI strategy; the national-cloud and IsDB sources cite the cybersecurity strategy and a planned national
+  CERT/CSIRT) but neither exists as an `instrument`/`initiative` page — the references dangle. *Lead: source
+  each from its primary (MTNIMA / taqadoumy / mtnima.gov.mr strategy PDFs) and capture as reference
+  instruments, so [[tech.ai]] and [[infra.cybersec]] claims for Mauritania have a citable home.* *(Surfaced
+  MRT sweep ingest, 2026-07-18.)*

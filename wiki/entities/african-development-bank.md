@@ -2,12 +2,12 @@
 type: entity
 entity_type: organisation
 title: African Development Bank (AfDB)
-places: [CPV, TGO, XAF, XSS]
+places: [CPV, TGO, MRT, XAF, XSS]
 topics: [finance.new, gov.policy, gov.regional, infra.store, data.statistics, dpi.pay]
 lens: [sovereignty, colonialism]
 status: active
-last_reviewed: 2026-07-17
-sources: [[2026-05-26 AfDB says Africa must fund its own growth as aid model frays], [2026-02-26 The AfDB's push for African financial sovereignty, and a tech investment rebound], [2025-05-14 Cabo Verde unveils TechPark CV tech-islands vision ($50m AfDB)], [2025-05-16 Cabo Verde opens Mindelo TechPark CV campus ($58M)], [2025-10-01 BCEAO Launches Instant Payments Platform in Togo with Three Banks]]
+last_reviewed: 2026-07-18
+sources: [[2026-04-13-pamif-financial-inclusion-afdb], [2026-05-26 AfDB says Africa must fund its own growth as aid model frays], [2026-02-26 The AfDB's push for African financial sovereignty, and a tech investment rebound], [2025-05-14 Cabo Verde unveils TechPark CV tech-islands vision ($50m AfDB)], [2025-05-16 Cabo Verde opens Mindelo TechPark CV campus ($58M)], [2025-10-01 BCEAO Launches Instant Payments Platform in Togo with Three Banks]]
 ---
 
 # African Development Bank (AfDB)

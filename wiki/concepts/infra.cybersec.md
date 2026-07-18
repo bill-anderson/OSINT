@@ -2,7 +2,7 @@
 type: concept
 title: Cybersecurity
 slug: infra.cybersec
-places: [ZMB, ZAF, XAF, NGA, MOZ, RWA, BEN, GHA, KEN, MUS, LBR, XEA, XSS, CMR, BFA, EGY, SDN, SEN, ZWE, DZA, UGA, DJI, CPV, SOM, AGO]
+places: [MRT, ZMB, ZAF, XAF, NGA, MOZ, RWA, BEN, GHA, KEN, MUS, LBR, XEA, XSS, CMR, BFA, EGY, SDN, SEN, ZWE, DZA, UGA, DJI, CPV, SOM, AGO]
 entities: [[dzap], [research-ict-africa], [smart-africa], [afnic], [nimc], [mozambique-cyber-security-law], [realtyme], [smart-africa-realtyme-partnership], [sadx], [sa-digital-id-regulations], [popia], [world-bank], [mosip], [id4africa], [eac], [antic-cameroon], [patnuc], [bf-ministry-digital-transition], [alliance-of-sahel-states], [intic-mozambique], [cybastion], [securoute], [asin-benin], [zte], [hikvision], [huawei], [bio-key-international], [runlevel], [simo-mozambique], [kenya-cyber-resilience-project], [expertise-france], [estdev], [european-union], [nira-nigeria], [nitda]]
 lens: [sovereignty]
 status: active

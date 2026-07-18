@@ -2,11 +2,11 @@
 type: entity
 entity_type: initiative
 title: WARDIP (Western Africa Regional Digital Integration Program)
-places: [XWA, BEN, LBR, SLE, GNB]
+places: [XWA, BEN, LBR, SLE, GNB, MRT]
 topics: [infra.connect, dpi.govtech, gov.regional, finance.new, include.access]
 status: active
 last_reviewed: 2026-07-18
-sources: [[2026-03-16 New $137M initiative to enable digital service access for millions in three ECOWAS nations], [2025-04-02 President Embalo launches WARDIP in Guinea-Bissau], [2026-01-01 Guinea-Bissau National Fibre-Optic Backbone specifications (WARDIP-GB)], [2026-05-21 WARDIP-GB fibre backbone environmental and social impact study (EIASS)]]
+sources: [[2026-03-16 New $137M initiative to enable digital service access for millions in three ECOWAS nations], [2026-06-30-national-cloud-launch-ecofin], [2025-04-02 President Embalo launches WARDIP in Guinea-Bissau], [2026-01-01 Guinea-Bissau National Fibre-Optic Backbone specifications (WARDIP-GB)], [2026-05-21 WARDIP-GB fibre backbone environmental and social impact study (EIASS)]]
 ---
 
 # WARDIP (Western Africa Regional Digital Integration Program)

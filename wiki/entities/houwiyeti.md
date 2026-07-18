@@ -5,9 +5,9 @@ title: Houwiyeti (Mauritania digital ID / e-government platform)
 places: [MRT]
 topics: [dpi.id, dpi.govtech, include.access]
 lens: [sovereignty]
-status: active
-last_reviewed: 2026-07-16
-sources: [[2024-08-15 Mauritania Launches Digital ID for e-Services, Built on TECH5 Platform (Houwiyeti)], [2024-08-02 Mauritania launches digital ID app to boost access to services and improve governance], [2024-08-01 Mauritania pilots digital ID app (e-ID Mauritania)], [2025-05-20 African nations making digital ID gains in the face of common challenges (ID4Africa 2025)]]
+status: needs-review
+last_reviewed: 2026-07-18
+sources: [[2024-08-15 Mauritania Launches Digital ID for e-Services, Built on TECH5 Platform (Houwiyeti)], [2024-08-02 Mauritania launches digital ID app to boost access to services and improve governance], [2024-08-01 Mauritania pilots digital ID app (e-ID Mauritania)], [2025-05-20 African nations making digital ID gains in the face of common challenges (ID4Africa 2025)], [2025-07-24-houwiyati-national-certificates-service-ami], [2026-06-21-houwiyeti-usage-metrics-techrek]]
 ---
 
 # Houwiyeti
@@ -19,10 +19,25 @@ digital-ID solution; **[[tech5|TECH5]]** won the pilot (June 2022) with local in
 verification (TECH5's T5-OmniMatch Face, T5-AirSnap, liveness detection) with a citizen matching their
 e-passport/ID to a selfie and storing a digital ID on their phone; TECH5 has shared expertise with MOSIP.
 
-Launched in **2023–24**, Houwiyeti lets citizens access government e-services without travelling to offices.
-By 2025 it carried strong uptake — **70% of passport requests** made through it, and **622,000+ document
-extracts** processed in a year — layered above Mauritania's biometric national ID (the
-**[[anrpts-mauritania|ANRPTS]]** system, ~94% population coverage).
+Launched officially **December 2023** (public January 2024), Houwiyeti lets citizens access government
+e-services without travelling to offices, layered above Mauritania's biometric national ID (the
+**[[anrpts-mauritania|ANRPTS]]** system, ~94% population coverage). It won two African awards in 2026 (Africa
+T-Awards, Dakar; African CIO Awards, Marrakech). In **July 2025** a new e-service was added to extract and
+confirm **national (education) certificates** (for certificates issued after 2013 or NNI-linked) — an MIS
+expansion beyond civil-status/identity documents.
+
+**Usage (dated — figures conflict; see below).** ANRPTS's June 2026 indicators report **677,000 activated
+accounts**, **554,027 services completed remotely**, and **1,511,139 actual beneficiaries** (account holders
+plus their minor children) — **~30% of the ~5.1m population** in ~2.5 years. Most-requested: civil-status
+extracts **406,871**; passport requests **63,384**; national ID-card requests **59,363**; e-certificates
+**24,409**. The share of passport requests made via the app rose **24.8% (2024) → 32.9% (2025) → 35.7%
+(Jan 2026)**.
+
+> **Currency/contradiction flag (2026-07-18).** The earlier held figures — "**70% of passport requests**" and
+> "**622,000+ document extracts in a year**" (ID4Africa, May 2025) — do not reconcile cleanly with the June
+> 2026 indicators above ("35.7% of passport requests via the app"; 406,871 cumulative civil-status extracts).
+> Likely a difference of metric/basis/period rather than a straight reversal, but held open pending research —
+> see `reviews/contradictions/open/`. Both values kept dated; neither overwrites the other.
 
 ## Links
-Place: [[MRT]] · Topics: [[dpi.id]] · [[dpi.govtech]] · Entities: [[tech5]] · [[undp]] · [[mtnima-mauritania]] · [[anrpts-mauritania]]
+Place: [[MRT]] · Topics: [[dpi.id]] · [[dpi.govtech]] · [[dpi.mis]] · [[include.access]] · Entities: [[tech5]] · [[undp]] · [[mtnima-mauritania]] · [[anrpts-mauritania]]

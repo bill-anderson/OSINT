@@ -2,7 +2,7 @@
 type: concept
 title: Other GovTech and e-Gov
 slug: dpi.govtech
-places: [COG, COM, BWA, BFA, BDI, AGO, ZMB, ZAF, XGL, MWI, GHA, NAM, KEN, NGA, UGA, BEN, CIV, MOZ, COD, TZA, RWA, SDN, EGY, CMR, CAF, DJI, CPV, DZA, ERI, GIN, STP, SSD, SLE, SWZ, TGO, TCD, SYC]
+places: [MRT, COG, COM, BWA, BFA, BDI, AGO, ZMB, ZAF, XGL, MWI, GHA, NAM, KEN, NGA, UGA, BEN, CIV, MOZ, COD, TZA, RWA, SDN, EGY, CMR, CAF, DJI, CPV, DZA, ERI, GIN, STP, SSD, SLE, SWZ, TGO, TCD, SYC]
 entities: [[smart-zambia-institute], [dzap], [david-eaves], [sita], [ucl-iipp], [dmap], [govguide-nigeria], [meta], [bosun-tijani], [malawi-revenue-authority], [mosip], [uxp-benin], [cybernetica], [kenya-revenue-authority], [nitda], [ngea], [galaxy-backbone], [safaricom], [sars], [sarb], [oneci], [maposte], [la-poste-cote-divoire], [atdi-mozambique], [malawi-ministry-of-ict], [undp], [gtmi], [world-bank], [trident-digital-tech], [rdc-pass], [idea-mpa], [government-in-your-hand], [digital-eswatini-project], [services-publics-togo], [otr-togo], [gest-exo], [ministry-of-transport-chad], [registrar-general-office-seychelles], [ima-angola], [tis-angola], [agt-angola], [i-lab-angola], [serpro]]
 lens: [sovereignty]
 status: active
