@@ -5556,3 +5556,9 @@ new-queue/done/COM/. Ingested in 4 thematic chunks. All 41 source links lint cle
 (CRVS-ID interoperability, **UIN at birth → ~99% birth registration in 5 yrs**, ID4Africa 2026). Updated
 [[cnpd-cabo-verde]] (decade review; Convention 108/Malabo; deepfake cases since 2021; **PJ CCTV-access
 surveillance debate**). PALOP digital-ID cooperation (CPV among 5). All 5 moved new→raw.
+
+### 2026-07-18 · ingest CPV · chunk 2/5 — e-Gov, DPI & digital state
+**13 sources admitted.** Expanded [[cabo-verde--dpi-govtech]]: Gov.cv dated (Porton di Nos Ilha migrates
+in); Empresa Online business registry; **Semana do Digital** annual instrument; AfDB E-PFMRP ph2 (**$20.7M
+= €17.7M, same event two currencies**); WB support (60/80% online); South Korea; RABIDA; ATU. New entity
+[[nosi-angola-setic-mou]] (NOSi govtech export to Angola). All 13 moved new→raw.
