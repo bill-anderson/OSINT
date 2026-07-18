@@ -73,10 +73,33 @@ not the executive, have become the check.
 - `colonialism`: health funding conditioned on long-horizon specimen/data access reframes aid as a
   data-extraction bargain (cf. [[XAF]] AFGHS coverage and Zimbabwe's rejection).
 
+## ODPC enforcement & the cyber-agency turn (2025-26)
+
+Beyond the health-deal stress test, Kenya's data-governance machinery moved on enforcement and
+institutionalisation through 2025-26:
+
+- **ODPC enforcement wave.** [[gov.protect]] Commissioner **[[immaculate-kassait]]** launched a **KES
+  12.6bn** ODPC five-year privacy plan (2025-07); opened **suo moto investigations into the Ray-Ban Meta
+  AI glasses** (mass-surveillance / non-consensual recording / Meta-AI training data, 150+ signatories —
+  Kenya joining UK/US scrutiny, 2026-03); and, with ICT CS **[[william-kabogo]]**, threatened **185
+  betting/gaming firms** holding **children's data** with shutdown for non-registration (only 15 of 224
+  fully registered as controllers+processors, 2026-05). A Data Privacy Conference 2026 op-ed framed
+  **public trust** as decisive for Kenya's digital future. Sources:
+  [[2025-07-05-odpc-sh126bn-privacy-plan-standard]], [[2026-03-31-ray-ban-meta-ai-glasses-probe-nation]],
+  [[2026-05-13-kabogo-betting-firms-children-data-nation]], [[2026-01-31-public-trust-data-governance-standard]].
+- **Cyber institutionalisation.** [[infra.cybersec]] After hackers **defaced president.go.ke** and
+  multiple ministry sites (2025-11), Kenya stood up a central **[[national-cyber-security-agency-kenya|National
+  Cyber Security Agency]]** (2026-06) — amid oversight concerns over its wide security-chief mandate. A new
+  **Access to Information (Amendment) Bill** would criminalise sharing **classified information via
+  personal WhatsApp/email** (four classification tiers; up to KES 1m fine / 6 months), a speech/privacy
+  tension. Sources: [[2025-11-17-hackers-government-websites-presidency-nation]],
+  [[2026-07-02-state-secrets-whatsapp-bill-nation]].
+
 ## Links
 
-Place: [[KEN]] · Concepts: [[gov.protect]] · [[geopol.usa]] · [[dpi.mis]] · [[dpi.id]] · Entities:
-[[america-first-global-health-strategy]] · [[odpc-kenya]] · [[icj-kenya]]
+Place: [[KEN]] · Concepts: [[gov.protect]] · [[geopol.usa]] · [[dpi.mis]] · [[dpi.id]] · [[infra.cybersec]] · Entities:
+[[america-first-global-health-strategy]] · [[odpc-kenya]] · [[immaculate-kassait]] ·
+[[national-cyber-security-agency-kenya]] · [[icj-kenya]]
 
 ## Sources
 
@@ -88,3 +111,9 @@ Place: [[KEN]] · Concepts: [[gov.protect]] · [[geopol.usa]] · [[dpi.mis]] · 
 - [[2026-06-08 Kenya Wants to Sell Your Data. But It's Complicated]]
 - [[2026-06-15 If The Technology Can't See Us Accurately, We Build The Rules That Make It]]
 - [[2025-01-01 Mapping Global DPI - A Human Rights Perspective with Focus on Kenya (ICJ Kenya)]] — ICJ Kenya DPI/human-rights report (2025): M-Pesa, eCitizen, Huduma Namba, Worldcoin biometric consent concerns.
+- [[2025-07-05-odpc-sh126bn-privacy-plan-standard]]
+- [[2026-01-31-public-trust-data-governance-standard]]
+- [[2026-03-31-ray-ban-meta-ai-glasses-probe-nation]]
+- [[2026-05-13-kabogo-betting-firms-children-data-nation]]
+- [[2025-11-17-hackers-government-websites-presidency-nation]]
+- [[2026-07-02-state-secrets-whatsapp-bill-nation]]

@@ -6109,3 +6109,13 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
   (initiative), [[aws]] (company).
 - **Vocab fix:** source frontmatter `[[konza]]` → `[[konza-technopolis]]` (1 source).
 - Note: 3 summary-only `[CLIP]` (The Standard: 152bn AI hub, Airtel DC, GITEX sovereign cloud).
+
+## 2026-07-18 — ingest(KEN) chunk 6/8: Data protection/governance + cybersecurity
+
+- **10 sources admitted** (0 leads, 0 discards).
+- **Entities created:** [[national-cyber-security-agency-kenya]] (government-body — NCSA, resolves the
+  Chunk-1 forward-reference); [[immaculate-kassait]] (person — Data Protection Commissioner).
+- **Intersection updated:** [[kenya--gov-protect]] — new section: ODPC enforcement wave (KES 12.6bn plan,
+  Ray-Ban Meta suo moto probe, 185 betting firms w/ children's data, public-trust op-ed) + cyber
+  institutionalisation (presidency-portal hack, NCSA, WhatsApp official-secrets bill).
+- Note: 4 summary-only `[CLIP]` (The Standard: ODPC plan, public-trust op-ed, Kassait op-ed, cyber+AI).
