@@ -6357,3 +6357,15 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
   [[morocco-fintech-center]] (initiative — FinTech Center / Offre Startup Maroc; two Visa Fintech Days,
   ~44% financial exclusion).
 - Note: 2 techreviewafrica items `provenance_flag: pr-wire`; 1 Assabah keeper (thin domain per manifest).
+
+## 2026-07-18 — ingest(MAR) chunk 6/7: Digital economy, e-gov strategy & GITEX
+
+- **8 sources admitted** (0 leads, 0 discards).
+- **Entity created:** [[gitex-africa]] (initiative — Africa's largest tech event, Marrakech; 2025/2026
+  editions, deal round-ups, D4SD pavilion).
+- **Entities updated:** [[nexus-ai-factory]] (GITEX round-up figures: $1.2bn Casablanca, 500MW, TAQA
+  renewable, Nvidia — corrected from manifest's unverified "$1.28bn/Lloyds"); [[digital-morocco-2030]]
+  (multinationals cluster: Oracle Casablanca R&D 1,000 jobs, Naver AI DC, Nokia Salé; offshoring 148,500→
+  270,000 jobs by 2030; parliamentary progress review).
+- Verification note: the Nexus $1.2bn/500MW/TAQA/Nvidia detail was confirmed against the connectingafrica
+  source body (not asserted from the sweep manifest).

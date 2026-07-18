@@ -33,6 +33,19 @@ FDI, and grow the startup ecosystem — projecting ~240,000 jobs and ~100bn dirh
   **[[jazari-institutes|"AI Made in Morocco" / JAZARI Institutes]]** programme — targets a homegrown AI
   ecosystem and sovereign solutions (Minister Seghrouchni, Fez seminar). See [[morocco--tech-ai]]. Source:
   [[2026-03-11-techafricanews-ai-made-in-morocco-industry-x0]].
+- **Multinationals cluster in Morocco (2025-06).** [[tech.industry]] [[finance.new]] Oracle (a Casablanca
+  R&D centre, ~**1,000 skilled jobs**, cloud/AI/cyber), South Korea's **Naver** (a next-gen AI data
+  centre), Nokia (a Salé innovation centre, end-2024), plus Cisco, Jumia, Atos, Huawei and IBM — drawn by
+  stability, political vision and infrastructure. Source:
+  [[2025-06-26-wearetech-morocco-attracts-major-tech-players]].
+- **Digital offshoring push (2026-01).** [[tech.industry]] Three agreements (skills, territorial
+  attractiveness, high-value projects) to grow offshoring — **148,500 jobs / 26.2bn dirham exports (end
+  2024)**, targeting **270,000 jobs / ~40bn dirham by 2030**. Source:
+  [[2026-01-30-wearetech-morocco-three-deals-digital-offshoring]].
+- **Parliamentary progress review (2025-10/11).** [[gov.policy]] Minister Seghrouchni reviewed digital/
+  AI/5G progress in Parliament — legal framework for administrative digitisation, joint national digital
+  platforms, and Amazigh in e-gov, toward "technological sovereignty, inclusive access and sustainable
+  development." Source: [[2025-11-04-techafricanews-morocco-reviews-digital-progress-ai-5g]].
 
 ## Sources
 
@@ -40,3 +53,6 @@ FDI, and grow the startup ecosystem — projecting ~240,000 jobs and ~100bn dirh
 - [[2025-05-05 Morocco boosts digital ID for government services (DGSN–Ministry partnership)]]
 - [[2025-01-01 Morocco adopts Cloud First Policy under Digital Morocco 2030]]
 - [[2026-03-11-techafricanews-ai-made-in-morocco-industry-x0]]
+- [[2025-06-26-wearetech-morocco-attracts-major-tech-players]]
+- [[2026-01-30-wearetech-morocco-three-deals-digital-offshoring]]
+- [[2025-11-04-techafricanews-morocco-reviews-digital-progress-ai-5g]]
