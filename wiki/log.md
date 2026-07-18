@@ -6002,3 +6002,9 @@ counterweight (opaque Huawei procurement) — capture-not-endorsement.
 3 sources admitted. Updated cnedoge (parliamentary scrutiny 2025-04 fees/consumable shortages; new provincial offices
 Mongomo/Ciudad de la Paz + online cita-previa portal cnedoge.com 2026-06 — first citizen e-gov service; GNQ hosted continental
 African CRVS experts' meeting Sipopo Jun 2025, AU/UNECA APAI-CRVS 2023-2027, INEGE-led). No new entities.
+
+## 2026-07-18 — ingest(GNQ) chunk 3/5: Payments & fintech
+4 sources admitted. New intersection `gnq--dpi-pay`. Entity: bange-gnq (company; national bank, BANGE MOBILE GE app,
+G-MAT Pay CEMAC gateway/Visa prepaid). National ATM/POS plan (connectivity bottleneck; GITGE/GETESA/Muni Dinero); VP
+bank-sector cash-lite push (5 banks BANGE/CCEIBANK/SocGen/BGFIBank/Ecobank + BEAC, tourism/VAT). Fintech baseline (Fintech
+Times reference, cite-not-absorb: <5-10 fintechs, CEMAC inclusion ~32%, Orange Money, ADIGE/NDP-2035).
