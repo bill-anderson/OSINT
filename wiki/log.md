@@ -5835,3 +5835,9 @@ Franceville (subnational reach); eGabon-SIS health MIS equipment; sub-regional d
 Libreville municipality backing Jul 2026, GimacPay dysfunction critical adoption signal) and gabon-visa-partnership-deal
 (public-services follow-up 18 Jul 2025, Visa VP Ismahill Diaby × VP Barro Chambrier — resolves GAP-GAB-003 Visa element).
 GIMAC interoperability vision (Jun 2025). GimacPay cross-border malfunction complaints = rare critical payments coverage.
+
+## 2026-07-18 — ingest(GAB) chunk 5/6: Cybersecurity, AI & skills
+6 sources admitted. New intersection `gabon--infra-cybersec`. ANINF SecBOM (Security Bill of Material, 2025-06);
+Interpol Serengeti 2.0 (1,209 arrests / ~$97.4m/55bn FCFA recovered, UK-backed, 2025-08); 2nd Cybersecurity Forum
+(ST Digital/ANINF/BGFI, Nov 2025); ARCEP "digital soft-power hub" strategy (cyber/AI/sovereignty, Jan 2026); CNAMGS-ANINF
+IS-audit MoU (8 May 2026, dpi.mis); ANINF-MITRE (US) critical-infra cyber architecture (2026-06, geopol.usa — new US thread).
