@@ -5415,3 +5415,11 @@ towers; 32m→39m self-reported claims flagged), [[genew-technologies]] (**$1.5b
 big Chinese entry), [[acix-drc]] (first distributed IX, DE-CIX), [[paratus-group]] (Goma-Mombasa G2M).
 Gap quantified (30.79% mobile/<0.02% fixed 2023; GSMA 2026 dataset); états généraux; 5G consultation;
 Orange-Vodacom rural solar JV; Raxio/OADC compliance. All 13 moved new→raw.
+
+### 2026-07-18 · ingest COD · chunk 6/8 — Payments & digital finance
+**14 sources admitted.** Expanded [[drc--dpi-pay]]. New entities [[banque-centrale-du-congo]] (BCC —
+**de-dollarisation: no foreign cash from 9 Apr 2027**; 58% access/25-30% bancarisation), [[mainmoney]]
+(palm-vein biometric, Visa/Keyo), [[flash-drc]] (Mastercard prepaid cards), [[multipay-drc]] (2015 first
+interbank, historical baseline). Bottom-up interoperability (Ecobank Auto-Allocation Airtel+Orange;
+FirstMonie; Transforme/Paycode MFI-to-switch). USD rails (FirstBank) vs de-dollarisation tension flagged.
+Mobile-money count divergence (24/29/30/35m) noted. All 14 moved new→raw.
