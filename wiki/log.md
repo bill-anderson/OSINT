@@ -6066,3 +6066,18 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
 - **Entity updated:** [[kenya-revenue-authority]] — digital-services tax (Netflix/ChatGPT/Airbnb),
   eTIMS fuel-station friction, mobile-money excise.
 - Note: 1 summary-only `[CLIP]` (KRA digital tax, The Standard).
+
+## 2026-07-18 — ingest(KEN) chunk 3/8: eCitizen / GovTech + data marketplace
+
+- **12 sources admitted** (0 leads, 0 discards).
+- **Entities created:** [[ecitizen]] (initiative — the government single-window platform: scale
+  22k services / KES 600m-a-day, Auditor-General "single point of failure" + KES 9.4bn diversion +
+  KES 6.3bn Pesaflow heist, contract-cancellation push, KES 50 fee struck down, 1,695/11,000 migration
+  non-compliance); [[knbs]] (government-body — statistics office, Safaricom mobile-data-for-stats MoU,
+  marketplace supplier); [[william-kabogo]] (person — ICT & Digital Economy CS, governance pivot).
+- **Entity updated:** [[kenya-data-marketplace]] — national-paper primary (Nation) + editorial folded
+  in: National Data Governance & Emerging Technologies Council, saleable-dataset list, targeting/predatory
+  risks.
+- Dedup: Nation marketplace primary (2026-06-07) kept alongside existing itweb source — complementary
+  (adds dataset-type detail + is the national-paper primary), not a relevant-duplicate.
+- Note: 4 summary-only `[CLIP]` (The Standard: Treasury-leak, AG-handover, Pesaflow-heist, Kabogo pivot).

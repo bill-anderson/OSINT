@@ -40,6 +40,17 @@ datasets — the sharpest current example of an African state treating data as a
   [[gov.protect]], [[dpi.exchange]]. Source:
   [[2026-06-08 Kenya Wants to Sell Your Data. But It's Complicated]].
 
+- **National-paper primary + what's on offer (2026-06).** The Daily Nation's report — the national-paper
+  primary behind the marketplace proposal — names the aggregating body the **National Data Governance and
+  Emerging Technologies Council** and lists the intended saleable datasets: business-registration trends,
+  passport/immigration application volumes by region, vehicle-registration statistics, birth/death trends,
+  land-transaction volumes, regional crop production, and traffic flows — sourced from **[[ecitizen]]**,
+  **[[knbs]]** and other State organs; personal data excluded under the Data Protection Act 2019. A Nation
+  **editorial** cautioned that bulk data could be used to **target citizens for political campaigns or
+  predatory financial products**, and flagged the national-security/breach risk. See [[data.open]],
+  [[gov.protect]]. Sources: [[2026-06-07-state-plans-ecitizen-data-sale-nation]],
+  [[2026-06-08-curb-risks-data-sale-plan-nation]].
+
 ## Reads
 
 - `sovereignty`: monetising sovereign data as a revenue-generating asset — a
@@ -51,3 +62,5 @@ See [[KEN]], [[data.open]], [[gov.protect]].
 
 - [[2026-06-08 Kenya proposes marketplace for State data]]
 - [[2026-06-08 Kenya Wants to Sell Your Data. But It's Complicated]]
+- [[2026-06-07-state-plans-ecitizen-data-sale-nation]]
+- [[2026-06-08-curb-risks-data-sale-plan-nation]]
