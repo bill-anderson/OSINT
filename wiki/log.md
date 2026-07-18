@@ -5230,3 +5230,13 @@ position), [[anthony-same]] (person, ST Digital founder), [[innovendi-data-techn
 facility — tranche-vs-total, both kept dated; not a contradiction — MANIFEST Flag 4). **ARTAC vs CAMTEL-AWS
 treated as policy-tension analysis on the infra-store intersection, not a contradiction** (Flag 14).
 Filed **ISSUE-015** (unverified Socadel/Eneo rename — held as Eneo). All 34 moved new→raw.
+
+### 2026-07-18 · ingest CMR · chunk 4/8 — Cybersecurity
+**8 sources admitted.** Rebuilt [[antic-cameroon]]: **DNS sovereignty** (`.cm` DNSSEC-signed 8 Apr 2025;
+validation 56.60% Dec 2025, Orange Cameroun 2.75%; targets 98%→100% DNSSEC + 100% RPKI by 2026; IPv6 push),
+CIRT handover dated 20 Jan 2026 (FCFA 735m+, PATNUC/WB — third account of the held event, complementary
+not duplicate), >19m threats blocked 2024, fintech cyber workshop. New entity
+[[cameroon-cybercrime-law-2010]] (Law 2010/012 — rights critique). New intersection
+[[cameroon--infra-cybersec]] holding **both faces**: capability/sovereignty build vs rights counterweight
+(Paradigm Initiative/Civic Watch DIPES critique; 23 Oct 2025 election shutdown; XAF39bn urban video-
+surveillance loan). All 8 moved new→raw. infra.cybersec concept by-place line deferred to finalize.
