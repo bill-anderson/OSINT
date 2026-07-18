@@ -5312,3 +5312,10 @@ not the launch); UXP interop corroborated + Estonian lineage (Cybernetica/12 pil
 GUCE trade single-window ↔ DGI data exchange; **232-service PADCI mapping**; e-mining cadastre, Tradepost,
 transport platform. New entities [[emy-101]] (govt AI chatbot), [[guce-ci]] (trade single window). SDSI
 re-dated 2025-12-16 (second outlet). All 22 moved new→raw.
+
+### 2026-07-18 · ingest CIV · chunk 3/9 — Data governance & ARTCI
+**18 sources admitted.** Rebuilt [[artci]] (was static since 2024): **new Regulatory Council under Roger
+Félix Adom** (May 2026), **[[certinum]]** DP-compliance platform (live 2 Jul 2026), operator compliance +
+postal data-reporting mandates, ITU **TDAG chair (Bessou)**, WSIS "data-driven regulation" doctrine,
+rights outreach, e-transactions law (Ord. 2017 amendment). New entities [[certinum]], [[caidp]]
+(access-to-info authority — the data.open anchor). All 18 moved new→raw.
