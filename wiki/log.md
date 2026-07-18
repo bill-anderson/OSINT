@@ -5570,3 +5570,9 @@ causes"); SOC/CSIRT (NOSi/WB). New entities [[visionware]] (cyber firm in both T
 [[ine-cabo-verde]] holding the **INE data-manipulation controversy from both sides** (technicians allege
 GDP/VAB manipulation vs INE repudiation/independence/formal complaint + Coimbra protocol; capture-not-
 endorsement, no value adjudicated). All 14 moved new→raw.
+
+### 2026-07-18 · ingest CPV · chunk 4/5 — Connectivity, 5G & telecoms
+**5 sources admitted.** New intersection [[cabo-verde--infra-connect]]; new entities [[cv-telecom]]
+(incumbent), [[cabo-verde-5g-strategy]] (launched Sept 2025, approved Resolution 33/2026; 90% penetration
+by 2026; universal digital ID + data strategy bundled). **€37M CVT sovereign guarantee vs UNITEL T+
+open-access/neutrality objection**; Starlink at 0.2% market (ARME Q2 2025). All 5 moved new→raw.
