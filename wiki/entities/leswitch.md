@@ -23,11 +23,16 @@ cross-border). See [[LSO]].
 
 - **Journey and milestones.** [[include.access]] 2016 conceptualized; 2021 instant payments bank↔mobile
   money (M-Pesa, Khetsi); 2023 domesticated ATM cards; Oct 2024 ATM localization; **11 May 2025** localized
-  **POS** (any-bank debit cards on any POS). Next phase: e-commerce/retail. Sources:
+  **POS** (any-bank debit cards on any POS). Next phase: e-commerce/retail. The switch runs **two streams
+  — instant payments and card payments** — led by the **[[central-bank-of-lesotho|CBL]]** with the four
+  commercial banks (Standard Lesotho Bank's Samuel Koatla; CBL's Mothetsi Sekoati). Full thread:
+  [[lesotho--dpi-pay]]. Sources:
   [[2024-10-08 Lesotho National Payment Switch (LeSwitch) — Standard Lesotho Bank press release]],
-  [[2025-05-20 LeSwitch expands to localized POS transactions (Central Bank of Lesotho)]].
+  [[2025-05-20 LeSwitch expands to localized POS transactions (Central Bank of Lesotho)]],
+  [[2025-05-14-leswitch-pos-financial-inclusion-lestimes]].
 
 ## Sources
 
 - [[2024-10-08 Lesotho National Payment Switch (LeSwitch) — Standard Lesotho Bank press release]]
 - [[2025-05-20 LeSwitch expands to localized POS transactions (Central Bank of Lesotho)]]
+- [[2025-05-14-leswitch-pos-financial-inclusion-lestimes]]

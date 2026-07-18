@@ -6256,3 +6256,16 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
   stations, 14,000 M-Pesa agents).
 - **Entity created:** [[econet-telecom-lesotho]] (company — MNO, 70/30 ownership, EcoCash).
 - **Entity updated:** [[vodacom]] (Lesotho market-leader bullet).
+
+## 2026-07-18 — ingest(LSO) chunk 4/5: Payments & digital finance
+
+- **3 sources admitted** (0 leads, 0 discards).
+- **Intersection created:** [[lesotho--dpi-pay]] — LeSwitch domestic-payment localisation (POS 11 May
+  2025), EcoCash SEFS upgrade, mobile-money rails (M-Pesa/VCL + EcoCash), ZAF cross-border remittance
+  dependence pushing migrants to fintechs (Mukuru).
+- **Entities created:** [[central-bank-of-lesotho]] (government-body), [[mukuru]] (company/remittances).
+- **Entities updated:** [[leswitch]] (two-stream detail + LT complement source), [[ecocash]] (added LSO/
+  SEFS instance + place LSO), [[econet-telecom-lesotho]] (EcoCash bullet).
+- Dedup: LT 2025-05-14 LeSwitch-POS kept as complementary to held CBL 2025-05-20 (adds two-stream
+  structure + named officials + four-banks), not a relevant-duplicate.
+- Note: 1 paywalled `[CLIP]` (migrants-fintech, TechCabal — free lede only).

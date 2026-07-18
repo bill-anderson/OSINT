@@ -27,7 +27,11 @@ money platform. CEO Dennis Plaatjies. See [[infra.connect]], [[lesotho--infra-co
 - **Ownership precedent (2025-03).** ETL's **70/30** split (with Vodacom's 80/20) featured in the
   Starlink 100%-foreign-ownership debate. See [[lesotho--infra-connect]]. Source:
   [[2025-03-11-starlink-opposition-section2-connectingafrica]].
+- **EcoCash upgrade via SEFS (2025-04).** [[dpi.pay]] ETL's **Sasai Econet Financial Services (SEFS)**
+  migrated the **[[ecocash|EcoCash]]** mobile-money platform to a new system (Oct 2024), adding Mokhatlo,
+  payroll, fraud controls and wallet interest. See [[lesotho--dpi-pay]]. Source:
+  [[2025-04-30-econet-ecocash-upgrade-lestimes]].
 
 ## Related
 
-- [[LSO]] · [[infra.connect]] · [[dpi.pay]] · [[econet-wireless]] · [[lesotho--infra-connect]]
+- [[LSO]] · [[infra.connect]] · [[dpi.pay]] · [[econet-wireless]] · [[ecocash]] · [[lesotho--infra-connect]] · [[lesotho--dpi-pay]]
