@@ -29,6 +29,16 @@ Mozambique's national cyber security statute, approved unanimously by parliament
   held**, and the enacted Lei n.º 13/2026 carries no cost — so the unit is not yet confirmed against a
   primary budget line.* Source: [[2026-04-17 Mozambique parliament unanimously approves Cyber Security Law]].
 
+- **Threat-scale rationale (2025-12 → 2026-04).** [[infra.cybersec]] Minister **Muchanga** framed the law
+  around **"ending impunity and lack of State authority"** in cybercrime/data protection, with INTIC to be
+  resourced for response (Dec 2025); government told Parliament Mozambique logged **173,770 cyberattacks /
+  1,061 cybercrime cases in 2024** (up from 912 in 2023; 36,330 attacks in H1-2025), justifying a regulator
+  with penalties up to **160 minimum wages**. Sources:
+  [[2025-12-16-end-impunity-cybercrime-minister-clubofmozambique]],
+  [[2026-04-16-records-173000-cyberattacks-2024-clubofmozambique]].
+
 ## Sources
 
 - [[2026-04-17 Mozambique parliament unanimously approves Cyber Security Law]]
+- [[2025-12-16-end-impunity-cybercrime-minister-clubofmozambique]]
+- [[2026-04-16-records-173000-cyberattacks-2024-clubofmozambique]]
