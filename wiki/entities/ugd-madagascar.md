@@ -22,5 +22,18 @@ The interoperability system is one of [[prodigy-madagascar|PRODIGY]]'s three pil
 digital ID is to be integrated with ministries and public services **through the interoperability system
 overseen by the UGD**.
 
+## Activity in this wiki
+
+- **E-signature & interoperability legal framework (2025-09).** [[gov.legislate]] The Ministry validated a
+  regulatory framework activating the dormant **2015 e-signature law** (certificates guaranteeing identity,
+  authenticity, integrity, non-repudiation) and establishing interoperability rules on the national
+  **X-Road** platform — with the UGD and a **National Interoperability Committee** — feeding a future
+  **Code du numérique**. Source: [[2025-09-13-signature-electronique-interoperabilite-cadre-juridique-newsmada]].
+- **Rahaka national interoperability go-live (2026-04).** [[dpi.govtech]] The UGD launched the **Rahaka**
+  national data-exchange system and an **online single window (guichet unique)** — already operational
+  across **EDBM, CNaPS, Instat, Justice and the tax authority (DGI)** — so "a single ID suffices" to access
+  services (e.g. direct access to medical records), built with PRODIGY (World Bank). See
+  [[madagascar--dpi-id]]. Source: [[2026-04-29-guichet-unique-en-ligne-interoperabilite-rahaka-lexpress]].
+
 ## Links
-Place: [[MDG]] · Topics: [[dpi.exchange]] · [[dpi.govtech]] · Entities: [[prodigy-madagascar]]
+Place: [[MDG]] · Topics: [[dpi.exchange]] · [[dpi.govtech]] · Entities: [[prodigy-madagascar]] · [[mg-ministry-digital-development]]

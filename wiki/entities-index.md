@@ -6,6 +6,11 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 
 | Entity | Places | Topics | Page |
 |---|---|---|---|
+| Laxton | XGL, MDG | dpi.id, dpi.registry | [[laxton]] |
+| Studia Inc | MDG | dpi.registry, tech.ai | [[studia-inc]] |
+| Airtel Madagascar | MDG | infra.connect, dpi.pay | [[airtel-madagascar]] |
+| eCurrency Mint | XGL, MDG | dpi.pay | [[ecurrency-mint]] |
+| Baobab Bank (Madagascar) | MDG | dpi.pay, include.access | [[baobab-bank]] |
 | Inwi | MAR | infra.connect, infra.store | [[inwi]] |
 | Nexus Core Systems | MAR | infra.store, tech.ai | [[nexus-core-systems]] |
 | Nokia | XGL, MAR | infra.connect, tech.industry | [[nokia]] |
@@ -456,6 +461,9 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 
 | Entity | Places | Topics | Page |
 |---|---|---|---|
+| CIRT Madagascar (Computer Incident Response Team) | MDG | infra.cybersec, gov.legislate | [[cirt-madagascar]] |
+| CEDIA (Madagascar Customs Data & AI Centre) | MDG | tech.ai, dpi.govtech | [[cedia-madagascar]] |
+| CMIL (Madagascar data-protection authority, unestablished) | MDG | gov.protect, gov.legislate | [[cmil-madagascar]] |
 | CNDP (Morocco data-protection authority) | MAR | gov.protect, tech.ai | [[cndp-morocco]] |
 | DGSSI (Morocco cybersecurity authority / maCERT) | MAR | infra.cybersec, gov.regional | [[dgssi-morocco]] |
 | ANRT (Morocco telecoms regulator) | MAR | infra.connect, gov.legislate | [[anrt-morocco]] |
@@ -780,6 +788,7 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 
 | Entity | Places | Topics | Page |
 |---|---|---|---|
+| DECIM (Madagascar digital + energy connectivity, WB $400m) | MDG | infra.connect, infra.energy | [[decim-madagascar]] |
 | JAZARI Institutes / "AI Made in Morocco" | MAR | tech.ai, capacity.training | [[jazari-institutes]] |
 | GITEX Africa (Morocco) | MAR | tech.industry, gov.policy | [[gitex-africa]] |
 | Morocco FinTech Center / Offre Startup Maroc | MAR | dpi.pay, include.access | [[morocco-fintech-center]] |

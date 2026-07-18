@@ -626,3 +626,10 @@ study). See log.md.)*
   2026); and the **National AI Policy/Strategy** text — all on gov.ls / lesotho.co.ls / CIPESA / lena.gov.ls.
   *Lead: source these from gov.ls to deepen [[lesotho--tech-ai]], [[lesotho-national-id]] and the data-
   governance thread.* (Surfaced LSO sweep ingest, 2026-07-18.)
+
+- **GAP-MDG-001 · Madagascar's data-protection authority (CMIL) is legislated but never established.**
+  The **Commission Malagasy de l'Informatique et des Libertés**, provided for by law n°2014-038 (2015),
+  still does not exist — a structural governance gap as PRODIGY biometric enrolment (5.6M+) and Rahaka
+  interoperability accelerate (AFAPDP flagged it urgent, Feb 2025). *Lead: track any CMIL establishment
+  decree; the absence undercuts safeguards on the new biometric/interop stack.* See [[cmil-madagascar]],
+  [[madagascar--dpi-id]]. (Surfaced MDG sweep ingest, 2026-07-18.)

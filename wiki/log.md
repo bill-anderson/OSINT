@@ -6451,3 +6451,27 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
 - **Entity updated:** [[mg-ministry-digital-development]] — 6%-GDP-by-2028 target, e-gov 168th, VIGS 153rd,
   Tunisia ICT MoU, UNIPOD universities internet+AI.
 - Dedup: cyber-law twins (06-25 preview + 07-09 adoption) kept as distinct-stage events.
+
+## 2026-07-18 — ingest(MDG) chunk 6/6 + finalize: E-gov/interop + data protection
+
+- **3 sources admitted** (0 leads, 0 discards).
+- **Entity created:** [[cmil-madagascar]] (government-body, stub — the legislated-but-unestablished data
+  protection authority).
+- **Entity updated:** [[ugd-madagascar]] (e-signature framework + Rahaka national-interoperability go-live).
+- **Finalize:**
+  - [[MDG|Madagascar hub]] refreshed — sweep-batch summary block; new topics (gov.protect/tech.ai/
+    infra.cybersec/digital.rural/data.satellite/finance.new/etc.); Entities + 4 intersections;
+    last_reviewed → 2026-07-18.
+  - **entities-index.md** — 9 new MDG entities (Companies 5, Government bodies 3, Initiatives 1).
+  - **places-index.md** — MDG row: 4 intersection cross-links + new topics.
+  - **Lint:** all 34 MDG sources non-orphan; zero dead links across created/edited pages.
+  - **Teardown:** `new-queue/MDG` → `new-queue/done/MDG`; `new/MANIFEST.md` drained; `new/` empty.
+  - **Gap filed:** GAP-MDG-001 (CMIL data-protection authority legislated 2014 but never established).
+
+### MDG ingest total (chunks 1-6): **34 sources admitted, 0 leads, 0 discards, 0 needs-clip**
+- Entities created: 9 (laxton, decim-madagascar, studia-inc, airtel-madagascar, ecurrency-mint,
+  baobab-bank, cirt-madagascar, cedia-madagascar, cmil-madagascar); intersections created:
+  madagascar--dpi-id, madagascar--infra-connect, madagascar--dpi-pay, madagascar--infra-cybersec.
+- Enrolment figures written as a dated progression (2.6M→3.25M adults→5.6M) — scope-driven, explicitly
+  NOT a contradiction. No contradictions filed. 1 pr-wire (eCurrency), several French local-press
+  supplements (admissible on-the-record).

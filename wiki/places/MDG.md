@@ -4,9 +4,9 @@ title: Madagascar
 code: MDG
 parent: XEA
 place_kind: country
-topics: [dpi.id, dpi.registry, dpi.govtech, dpi.exchange, gov.legislate, gov.policy, dpi.pay, include.access, infra.connect, data.statistics]
+topics: [dpi.id, dpi.registry, dpi.govtech, dpi.exchange, gov.legislate, gov.policy, gov.protect, dpi.pay, tech.ai, infra.cybersec, include.access, digital.rural, infra.connect, infra.energy, data.satellite, data.statistics, finance.new, finance.mou, capacity.research]
 status: active
-last_reviewed: 2026-07-16
+last_reviewed: 2026-07-18
 ---
 
 # Madagascar (MDG)
@@ -19,6 +19,21 @@ speed (private fibre; a BPO destination) but thin on reach: **internet penetrati
 offline, with a large rural divide.
 
 ## Recent developments
+
+> **2026-07-18 MDG sweep batch (34 sources)** — L'Express + Midi Madagasikara + 8 SSA journals + French
+> supplements, consolidated into thematic intersections. Anchors:
+> - **Digital ID (dominant story)** — PRODIGY/RECI mass biometric enrolment (IN Groupe/Laxton; NUI,
+>   "Izaho Tokana") climbing **2.6M→3.25M adults→5.6M**, a **28-May-2026 mass-birth-registration law**,
+>   Studia ~10m AI-digitised records, $543m PRODIGY+DECIM review. Hub: [[madagascar--dpi-id]].
+> - **Connectivity** — DECIM+Starlink enclaved zones; EIB $100m AXIAN; DARE1 subsea extension; Orange
+>   558km fibre; **Direct-to-Cell** (SpaceX/Airtel trial — 3rd African country) + Eutelsat OneWeb. Hub:
+>   [[madagascar--infra-connect]]; [[decim-madagascar]].
+> - **Payments** — Visa landscape (MVola 100%/73%, 81% cash); eAriary CBDC vendor (eCurrency); AXIAN
+>   Digibank; Airtel Money-Baobab. Hub: [[madagascar--dpi-pay]].
+> - **Cyber/AI** — national cyber strategy + cybercrime-bill overhaul (adopted 8 Jul); Customs AI (CEDIA,
+>   IMF pilot); UNIPOD universities; CMIL data-protection gap. Hubs: [[madagascar--infra-cybersec]];
+>   [[cirt-madagascar]], [[cedia-madagascar]], [[cmil-madagascar]].
+> - **E-gov** — Rahaka national interoperability go-live + e-signature framework ([[ugd-madagascar|UGD]]).
 
 - **2026-01-27/28** — **National biometric-ID pilot launched (PRODIGY).** Madagascar began pilot enrolment
   for its national digital ID, enrolling President Randrianirina and government first to test the
@@ -98,6 +113,12 @@ offline, with a large rural divide.
 
 - [[prodigy-madagascar]] · [[mg-ministry-digital-development]] · [[oni-madagascar]] · [[ugd-madagascar]]
 - [[mvola]] · [[e-ariary]] · [[orange]] · [[in-groupe]] · [[idemia]] · [[opencrvs]] · [[world-bank]]
-- Mentioned, not hubbed: ARTEC (regulator); PAOMA (post); IriTech (iris hardware); Laxton (enrolment kits);
-  Banky Foibem-pirenena Madagasikara (central bank); Digital Transformation Plan 2023–2028 (PSN).
+- MDG sweep batch (2026-07-18): [[laxton]] · [[decim-madagascar]] · [[studia-inc]] · [[airtel-madagascar]] ·
+  [[eutelsat]] · [[ecurrency-mint]] · [[baobab-bank]] · [[cirt-madagascar]] · [[cedia-madagascar]] ·
+  [[cmil-madagascar]] · [[axian-telecom]] · [[visa]] · [[starlink]] · [[dare1-cable]]
+- MDG sweep intersections (2026-07-18): [[madagascar--dpi-id]] · [[madagascar--infra-connect]] ·
+  [[madagascar--dpi-pay]] · [[madagascar--infra-cybersec]]
+- Mentioned, not hubbed: ARTEC (regulator); PAOMA (post); IriTech (iris hardware); BFM / Banky Foiben'i
+  Madagasikara (central bank, CBDC issuer); PayLogic SA; Digital Transformation Plan 2023–2028 (PSN); Miary
+  Digital; EDBM / CNaPS / Instat (Rahaka-connected).
 - Parent region: [[XEA]] · continental: [[XAF]].
