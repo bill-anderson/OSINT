@@ -58,6 +58,22 @@ A sovereign national-ID build delivered end-to-end on **French vendor stacks** i
 - **Social targeting:** the [[registre-social-unique-gabon]] social registry is designed to sit
   downstream of the ID layer.
 
+## 2025 build-out — registers, civil status & the vote
+
+- **Three legal-ID pillars ([[gabon-legal-id-projects]]).** WB-financed workshops (23 Jun 2025) launched the
+  **RBPP** (biometric population register extension), **SNID** (national digital-identity system) and **CNEC**
+  (national civil-registration centre) under Gabon Digital component 2 — the registry/civil-status layer beneath
+  the CNIE. ID Day 2025 (Sept, ANINF as ID4Africa ambassador) marked the governance milestone.
+  Sources: [[2025-06-23-gabon-legal-digital-id-three-projects]], [[2025-09-16-gabon-digital-identity-governance-milestone]].
+- **Biometric voter registration (2025 election).** A nationwide biometric enrolment (2 Jan → 31 Jan 2025) added
+  **~300,000 voters** to the **850,000** existing register ahead of the **12 April 2025** presidential vote,
+  keyed on the NIP. Sources: [[2025-01-15-gabon-biometric-voter-registration-underway]],
+  [[2025-01-31-gabon-biometric-voter-register-integrity]].
+- **Land registry — "Un Gabonais, un titre foncier."** ANUTTC signed **~1,200 cession decisions in 2025**, but
+  ~3,000 people owe **~14bn FCFA** in arrears; a parallel **cadastre-digitalisation** drive aims to formalise
+  untitled land (unlocking credit and cutting disputes). Sources:
+  [[2025-12-01-gabon-land-registry-cession-figures]], [[2025-12-02-gabon-cadastre-digitalisation-land-title]].
+
 ## Open items
 
 - **Coverage unknown.** No published NIP/CNIE enrolment figure yet; the World Bank results framework
