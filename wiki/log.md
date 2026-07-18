@@ -5333,3 +5333,11 @@ Togo cooperation. All 10 moved new→raw.
 US + Gulf ([[g42]]/Presight MoUs) courted side by side; AI university (PND 2026-30); "African AI by
 Africans" at UN dialogue. **Yamoussoukro seminar date discrepancy noted** (8 Apr LI vs 12 Apr hub — 4-day,
 unresolved, recorded inline not as a formal contradiction). All 21 moved new→raw.
+
+### 2026-07-18 · ingest CIV · chunk 6/9 — Data centres, cloud & US-EXIM sovereignty
+**21 sources admitted.** New intersection [[civ--infra-store]] — **the batch's biggest find: US EXIM
+anchors Ivorian "digital sovereignty"** ($66m National Data Centre = first EXIM DC in SSA, via Cybastion,
+displacing a Chinese bidder; +$47m Commerce; $100m→$170m CTEP; $550m package). Adds **geopol.usa +
+geopol.china to CIV** (hub had geopol.eu only). New entities [[exim-bank-usa]], [[national-data-centre-civ]],
+[[vitib]], [[cloudoor]], [[digital-city-civ]]; big [[cybastion]] CIV section. Competing VITIB cluster
+([[st-digital]] Tier III + OVHcloud + NVIDIA GPU; Raxio MoU; VITIB $311m India). All 21 moved new→raw.
