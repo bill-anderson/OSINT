@@ -25,6 +25,14 @@ than a pure connectivity operator, anchoring the [[telebirr]] platform and align
   Ethiopia to Sudan — MoU (Dec 2024) converted to a **binding agreement**
   (Feb 2026). See [[infra.connect]], [[gov.regional]], [[SDN]], [[DJI]]. Source:
   [[2026-02-10 Ethio telecom, Djibouti Telecom, Sudatel Seal Binding Deal on Cross-Border Fiber Network]].
+- **Network expansion — MWC 2026 & 99.8% coverage.** Reached **99.8% population coverage** (2026-04); at **MWC
+  2026 (Barcelona)** signed expansion/modernisation deals with **Ericsson** (1,500 mobile sites; 502 3G→4G),
+  **ZTE** (647 sites incl. 115 rural, 4G coverage to **95.5%**), **Huawei** and **Nokia**, and launched
+  **teleStream** + **Zero-Touch Broadband** — all under **Next Horizon: Digital & Beyond 2028**. Contributes
+  **1.5% of revenue** to the Universal Access Fund. See [[ethiopia--infra-connect]]. Sources:
+  [[2026-03-09-ethio-telecom-network-expansion-mwc-barcelona-addisstandard]],
+  [[2026-04-20-ethio-telecom-99-8-coverage-smart-infrastructure-techafricanews]],
+  [[2026-02-23-ethio-telecom-telestream-zero-touch-broadband-techafricanews]].
 - **Huawei enterprise/SME digital push (2026-07-15).** Expanding its **[[huawei]]** collaboration beyond
   telecoms infrastructure into **cloud, AI, cybersecurity, IoT, data-centre services and digital platforms**
   for enterprises and SMEs, under **Next Horizon: Digital & Beyond 2028** (CEO Frehiwot Tamru met Huawei N.
