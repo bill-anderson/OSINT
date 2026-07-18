@@ -5452,3 +5452,10 @@ caveats recorded inline as dated claims (Helios 32m→39m; $100bn flows; mobile-
 rdc-monde items are `date_source: proxy` (flagged). Indexes updated (20 entities; COD places-index row).
 MANIFEST → new-queue/done/COD/. Ingested in 8 thematic chunks. All 90 source links lint clean (0
 unresolved, 0 orphans).
+
+### 2026-07-18 · ingest COG · chunk 1/6 — Data centre & digital sovereignty
+**5 sources admitted.** Updated [[congo-national-data-centre]]: **timeline superseded** (75%→80% *stalled on
+gov non-payment*, AfDB threatened to walk→>90%→inaugurated per minister Jan 2026); Côte-Matève regional DC
+(ONG Pratic MoU). **Filed contradiction** `congo-datacentre-afdb-financing` — held **$57m AfDB/$72.8m** vs
+Les Dépêches' recurring **$13m AfDB** (plausibly total-project-incl-fibre vs building-only; both held dated).
+All 5 moved new→raw.
