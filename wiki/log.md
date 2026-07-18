@@ -5531,3 +5531,10 @@ stack: KomorPay/Komor Switch/Mali Ya Wakazi, presidential launch May 2026), [[ko
 B2B, Kartapay/CCI). PayLogic switch dated end-to-end (award Feb→go-live Aug 2025; internet 35.7%/mobile
 77.6%); BCC×Banque de France seminar; **AXIAN Decentralised Digital Financial Institution licence** (BCC
 first) + AXIAN-Mastercard cards. All 9 moved new→raw.
+
+### 2026-07-18 · ingest COM · chunk 4/4 — E-gov, AI, skills, EMIS & census
+**13 sources admitted.** New intersection [[com--dpi-govtech]]; new entities [[technopole-numerique-comoros]]
+(Huawei-built, $4.09m/2000 youth), [[e-administration-comoros]] (EU/Expertise France — 2nd donor track vs
+AfDB PADEC), [[e-msomo-comoros]] (EdTech + student ID), [[rgph5-comoros]] (5th census, launched Jun 2026).
+1st national AI Forum; tax téléprocédures; measles ODK. PADEC €9.51m vs held $10.4m = same project dated
+differently. All 13 moved new→raw. **new/ empty — 41 admitted, 0 pruned.**
