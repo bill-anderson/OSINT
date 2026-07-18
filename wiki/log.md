@@ -5296,3 +5296,11 @@ data-protection law confirmed enacted (Loi 2024/017, 23 Dec 2024); CAMTEL/CBC fi
 ARTAC-vs-AWS filed as hub analysis not contradiction. New: ISSUE-015 (Socadel/Eneo rename);
 GAP-CMR-001/002. Indexes updated (entities/places). MANIFEST → new-queue/done/CMR/. Ingested thematically
 in 8 chunks. All 125 source links lint clean (0 unresolved, 0 orphans).
+
+### 2026-07-18 · ingest CIV · chunk 1/9 — Digital ID, CRVS & ONECI
+**14 sources admitted.** New intersection [[civ--dpi-id]]; new entity [[beyon-connect]] (Bahraini
+OneID/OneBox — 3rd foreign ID vector). Updated [[oneci]] (myONECI+ CNI app, e-stamps, **RNPP sold to
+banks as a KYC utility** via SocGen, ID4Africa 2026; **on-time birth registration falling 66.8%→55.4%**
+counter-current), [[wuri-programme]] (CIV social-eval restitution, 10 sous-préfectures, CMU linkage),
+[[maposte]] (digital post boxes mandatory 1 Mar 2026). IOM MIDAS border (Kalamon CIV-BFA, Japan-funded,
+ANSSI/DST). All 14 moved new→raw. Hub roll-up deferred to finalize.

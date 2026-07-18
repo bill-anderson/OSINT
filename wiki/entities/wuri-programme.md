@@ -99,6 +99,15 @@ summed. See [[finance.new]]. Sources:
   [[2024-10-28 Benin receives 2,050 biometric terminals from World Bank to boost civil registration]],
   [[2026-02-02 Benin reports 75% of identification services accessed through digital platforms]].
 
+- **Côte d'Ivoire — social-evaluation restitution (2026-02).** A WURI-CIV **social-evaluation study**
+  (16 Feb–1 Mar 2025, Dr Bouaki Stanislas) across **10 sous-préfectures** (Ouangolodougou, Kasseré,
+  Béoumi, Daloa, Sangouiné, Gbapleu, Grand-Béréby, Méagui, Bondoukou, Niablé) was restituted to
+  sub-prefects and community leaders at Yamoussoukro — recommending **mobile identification units**,
+  adapted enrolment hours, a multi-channel communication plan against disinformation, a grievance
+  mechanism (incl. a GBV channel) and CMU-card distribution to vulnerable groups. Ivorian WURI is hosted
+  by the Employment & Social Protection ministry and tied to CMU universal-health enrolment. See
+  [[civ--dpi-id]], [[CIV]], [[digital.rural]]. Source:
+  [[2026-02-27-projet-wuri-restitution-sous-prefets-linfodrome]].
 - **Phase 1 uneven — Guinea exits early, Côte d'Ivoire advances (ISR, 2025-05-02).** [[dpi.id]]
   The WB Implementation Status Report (P161329, Phase 1 = **[[CIV]] Côte d'Ivoire and [[GIN]]
   Guinea**) records a **sharp divergence**: **WURI-Guinea closed early on 28 June 2024** (two years
@@ -123,6 +132,7 @@ summed. See [[finance.new]]. Sources:
 
 ## Sources
 
+- [[2026-02-27-projet-wuri-restitution-sous-prefets-linfodrome]]
 - [[2026-03-30 ECOWAS, World Bank Advance West Africa Digital Identity]]
 - [[2024-06-27 WURI digital ID project improving access to public services in Benin]]
 - [[2025-11-01 Identification System in Benin Increasing Access to Services]]

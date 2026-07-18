@@ -5,8 +5,8 @@ title: MaPoste (digital super-app, Côte d'Ivoire)
 places: [CIV]
 topics: [dpi.govtech, dpi.id, dpi.registry]
 status: active
-last_reviewed: 2026-07-11
-sources: [[2026-01-19 Ivory Coast Launches MaPoste to Digitize Postal and Administrative Services]]
+last_reviewed: 2026-07-18
+sources: [[2026-01-19 Ivory Coast Launches MaPoste to Digitize Postal and Administrative Services], [2026-01-19-maposte-app-oneci-la-poste-techafricanews], [2026-01-20-maposte-app-postal-digital-id-biometricupdate]]
 ---
 
 # MaPoste (digital super-app, Côte d'Ivoire)
@@ -27,6 +27,14 @@ can use it to reach a digital mailbox from a smartphone and transact with public
   [[dpi.id]], [[dpi.registry]]. Source:
   [[2026-01-19 Ivory Coast Launches MaPoste to Digitize Postal and Administrative Services]].
 
+- **National-press/second-outlet detail (Jan 2026).** Coverage adds that MaPoste's **digital post boxes
+  become mandatory from 1 Mar 2026**, CNI home delivery runs through **200+ post offices**, and the app
+  is explicitly backed by the biometric **RNPP/NNI**. See [[civ--dpi-id]]. Sources:
+  [[2026-01-19-maposte-app-oneci-la-poste-techafricanews]],
+  [[2026-01-20-maposte-app-postal-digital-id-biometricupdate]].
+
 ## Sources
 
 - [[2026-01-19 Ivory Coast Launches MaPoste to Digitize Postal and Administrative Services]]
+- [[2026-01-19-maposte-app-oneci-la-poste-techafricanews]]
+- [[2026-01-20-maposte-app-postal-digital-id-biometricupdate]]
