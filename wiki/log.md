@@ -5550,3 +5550,9 @@ RGPH-5 census. No hard contradictions. PADEC €9.51m vs held $10.4m recorded as
 differently. Ledger note for the human: COM paper domain is **adiac**-style — Al-Watwan (alwatwan.net) +
 La Gazette (lagazettedescomores.com). Indexes updated (11 entities; COM places-index row). MANIFEST →
 new-queue/done/COM/. Ingested in 4 thematic chunks. All 41 source links lint clean (0 unresolved, 0 orphans).
+
+### 2026-07-18 · ingest CPV · chunk 1/5 — Digital identity, CRVS & data protection
+**5 sources admitted.** New intersection [[cabo-verde--dpi-id]]; new entity [[autentika-cabo-verde]]
+(CRVS-ID interoperability, **UIN at birth → ~99% birth registration in 5 yrs**, ID4Africa 2026). Updated
+[[cnpd-cabo-verde]] (decade review; Convention 108/Malabo; deepfake cases since 2021; **PJ CCTV-access
+surveillance debate**). PALOP digital-ID cooperation (CPV among 5). All 5 moved new→raw.
