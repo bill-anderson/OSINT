@@ -6,8 +6,8 @@ places: [COG]
 topics: [gov.protect, gov.legislate]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-11
-sources: [[2026-01-22 Congo-Brazzaville intros data protection commission], [2024-07-05 Congo - Council of Ministers approves bill creating National Personal Data Protection Commission]]
+last_reviewed: 2026-07-18
+sources: [[2026-01-22 Congo-Brazzaville intros data protection commission], [2024-07-05 Congo - Council of Ministers approves bill creating National Personal Data Protection Commission], [2026-01-22-congo-launches-data-protection-commission-techafricanews], [2025-11-13-congo-arpce-judiciary-digital-governance-techafricanews]]
 ---
 
 # National Personal Data Protection Commission (Congo-Brazzaville)
@@ -35,6 +35,15 @@ public services and expands its digital economy.
   and rights protection. See [[sovereignty]]. Source:
   [[2026-01-22 Congo-Brazzaville intros data protection commission]].
 
+- **Legal instruments named (2026-01).** A second-outlet account supplies the **two instruments the held
+  source lacked: Decree No. 2025-538 (31 Dec 2025) and Law No. 29-2019 (10 Oct 2019)**, plus the election of
+  President/VP/Rapporteur. And the judiciary is building capacity to *apply* digital law (2nd Magistrates
+  Open Days, Pointe-Noire, Nov 2025) — the enforcement layer under the commission. Sources:
+  [[2026-01-22-congo-launches-data-protection-commission-techafricanews]],
+  [[2025-11-13-congo-arpce-judiciary-digital-governance-techafricanews]].
+
 ## Sources
 
 - [[2026-01-22 Congo-Brazzaville intros data protection commission]]
+- [[2026-01-22-congo-launches-data-protection-commission-techafricanews]]
+- [[2025-11-13-congo-arpce-judiciary-digital-governance-techafricanews]]

@@ -5489,3 +5489,12 @@ re-dated at finalize). All 22 moved new→raw.
 [[digipay-congo]] (Belmoney FR/BE remittance corridor). MoMo duopoly (MTN 74.5%/Airtel 25.5%; fee creep;
 bancarisation 17%→7%; 61%-vs-19% metric clash noted); SIM-terminal import tax (1 Jun 2026, framed as
 *funding* connectivity — inverts GSMA). All 8 moved new→raw.
+
+### 2026-07-18 · ingest COG · chunk 6/6 — Statistics, open data, governance & ministry
+**8 sources admitted.** New entities [[congo-data-governance-strategy]] (**UNECA, 2-9 Jun 2026** — the
+instrument GSMA recommended; the batch's most significant governance find), [[ins-congo]] (ILO quarterly
+labour survey; BEAC BoP collapse 98%→41.81%), [[cntr-congo]] (fiscal-transparency ECTR platform). Updated
+[[congo-digital-strategy-2030]] (**new minister Frédéric Malik Nguema Nzé** supersedes Ibombo; 9-point
+roadmap; EGDI 166th, awaiting decree) and [[national-personal-data-protection-commission-congo]] (legal
+instruments: Decree 2025-538, Law 29-2019; magistrates enforcement layer). All 8 moved new→raw. **new/
+empty — 63 admitted, 1 pruned.**
