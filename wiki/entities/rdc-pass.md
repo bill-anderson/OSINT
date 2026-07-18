@@ -6,15 +6,15 @@ places: [COD]
 topics: [dpi.id, dpi.govtech, dpi.pay, gov.protect]
 lens: [sovereignty, colonialism]
 status: active
-last_reviewed: 2026-07-16
-sources: [[2026-06-11 DR Congo to Launch National Digital Identity System RDC-PASS on June 13], [2026-01-30 DRC envisages a functional digital government platform by March], [2024-09-04 DR Congo cancels $1.2B IDEMIA-Afritech biometric ID contract], [2025-02-13 DR Congo signs Trident implementation agreement for national digital ID (DRCPass validation)], [2025-06-25 Trident and DR Congo sign final DRCPass PPP; nationwide deployment begins], [2025-07-30 DR Congo gives Singapore firm exclusive digital-ID rights (NTU-SBF risk analysis)], [2026-01-26 DRCPass digital ID priced at $97.1M, financing unclear]]
+last_reviewed: 2026-07-18
+sources: [[2026-06-11 DR Congo to Launch National Digital Identity System RDC-PASS on June 13], [2026-01-30 DRC envisages a functional digital government platform by March], [2024-09-04 DR Congo cancels $1.2B IDEMIA-Afritech biometric ID contract], [2025-02-13 DR Congo signs Trident implementation agreement for national digital ID (DRCPass validation)], [2025-06-25 Trident and DR Congo sign final DRCPass PPP; nationwide deployment begins], [2025-07-30 DR Congo gives Singapore firm exclusive digital-ID rights (NTU-SBF risk analysis)], [2026-01-26 DRCPass digital ID priced at $97.1M, financing unclear], [2026-06-15-drc-launches-rdc-pass-20-year-ppp-trident-biometricupdate], [2026-06-19-trident-launches-rdc-pass-sovereign-digital-identity-techafricanews]]
 ---
 
 # RDC-PASS (DR Congo national digital ID)
 
-DR Congo's national digital-identity platform, slated to launch **13 June 2026**
-in Kinshasa under President **[[felix-tshisekedi]]**, within the "DRC 2030 Digital
-Nation" strategy.
+DR Congo's national digital-identity platform, **launched 13 June 2026** in a state ceremony in Kinshasa
+under President **[[felix-tshisekedi]]** (confirmed independently by two outlets), within the "DRC 2030
+Digital Nation" strategy.
 
 ## Activity in this wiki
 
@@ -51,10 +51,14 @@ Nation" strategy.
   externalised of the batch's national-ID cases; contrast Zambia's
   vendor-independence model ([[zambia--dpi-id]]) and Ethiopia's homegrown stack.
 
-> **⚠ Verify:** confirm the 13 June 2026 launch actually occurred (source is a
-> pre-launch report).
+- **Launch confirmed (13 Jun 2026).** Two independent outlets confirmed the state ceremony; the Ministry of
+  Planning valued RDC-PASS at **$97.1m**, Trident raised only **$2.6m** for rollout, and phased plans open
+  with **technical audits and pilot testing** (Trident also holds an **$800m Ghana JV**). A June-2025
+  ministry *denial* of a "DRCPass launch" refers to the 2025 PPP signature, a different moment — not the
+  2026 activation. Sources: [[2026-06-15-drc-launches-rdc-pass-20-year-ppp-trident-biometricupdate]],
+  [[2026-06-19-trident-launches-rdc-pass-sovereign-digital-identity-techafricanews]].
 
-See [[COD]], [[trident-digital-tech]], [[dpi.id]].
+See [[COD]], [[trident-digital-tech]], [[dpi.id]], [[drc--dpi-id]].
 
 ## Sources
 

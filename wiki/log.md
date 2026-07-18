@@ -5378,3 +5378,13 @@ recorded**: on-time birth registration falling 66.8%→55.4%. **Minor unresolved
 Yamoussoukro seminar 8 Apr (LI) vs 12 Apr (hub) — noted inline, not a formal contradiction. Indexes updated
 (26 entities; CIV places-index row). MANIFEST → new-queue/done/CIV/. Ingested in 9 thematic chunks. All 187
 source links lint clean (0 unresolved, 0 orphans).
+
+### 2026-07-18 · ingest COD · chunk 1/8 — Digital ID (Trident/RDC-PASS + ONIP + passports)
+**18 sources admitted.** **RDC-PASS launch CONFIRMED (13 Jun 2026, two outlets)** — closes the hub's
+"⚠ confirm launch" flag; $97.1m valuation, Trident raised only $2.6m, $800m Ghana JV. Expanded
+[[drc--dpi-id]]: full Trident chain dated (Dec 2024→13 Jun 2026); the 2025 DRCPass *denial* clarified as a
+different moment; **ONIP physical-card track as a securitised life-course register** (CENI→ONIP file
+handover; Shabani rationale; new PPP partner; 2026 ID bill mandating civil-registry/migration/health
+interoperability); **IDEMIA re-dated** ($697m→$1.2bn); **ENCORE quantified** ($250m, 118k cards, 26
+provinces). New entity [[dermalog]] (passports, $48m, price cut to $75). Updated [[rdc-pass]], [[onip-drc]].
+All 18 moved new→raw.
