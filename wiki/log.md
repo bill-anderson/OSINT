@@ -6439,3 +6439,15 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
 - **Entities created:** [[ecurrency-mint]] (company — CBDC tech), [[baobab-bank]] (company).
 - **Entities updated:** [[e-ariary]] (eCurrency DSC3 tech partner), [[airtel-madagascar]] (Baobab bullet).
 - Note: 1 pr-wire (eCurrency/eAriary — vendor announcement).
+
+## 2026-07-18 — ingest(MDG) chunk 5/6: AI, cybersecurity & skills
+
+- **7 sources admitted** (0 leads, 0 discards).
+- **Intersection created:** [[madagascar--infra-cybersec]] — national cyber strategy (via PRODIGY, Dec
+  2025); 2014-law overhaul → cybercrime bill adopted by Council of Ministers (8 Jul 2026; OIVs, e-evidence,
+  operator cooperation).
+- **Entities created:** [[cirt-madagascar]] (government-body — CIRT), [[cedia-madagascar]] (government-body
+  — Customs AI Centre of Excellence, IMF Africa pilot).
+- **Entity updated:** [[mg-ministry-digital-development]] — 6%-GDP-by-2028 target, e-gov 168th, VIGS 153rd,
+  Tunisia ICT MoU, UNIPOD universities internet+AI.
+- Dedup: cyber-law twins (06-25 preview + 07-09 adoption) kept as distinct-stage events.
