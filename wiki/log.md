@@ -6051,3 +6051,18 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
 - Note: 4 items are summary-only `[CLIP]` (The Standard, paywalled) — dates byline-verified, full clip
   required on promotion: KTN ID-trade expose, online birth-cert download, IDs-in-10-days, Maisha-Namba
   privacy critique.
+
+## 2026-07-18 — ingest(KEN) chunk 2/8: Payments / fintech + tax
+
+- **15 sources admitted** (0 leads, 0 discards).
+- **Entities created:** [[moniepoint]] (company, Nigeria unicorn → Kenya entry via Sumac MFB),
+  [[kenswitch]] (company, national-switch contender w/ Visa), [[nairobi-securities-exchange]]
+  (organisation, Ziidi Trader equities-on-M-Pesa).
+- **Intersection created:** [[kenya--dpi-pay]] — new hub for the M-Pesa/payments thematic cluster:
+  M-Pesa as systemic infrastructure (CBK KES 83.7tn / too-big-to-fail); Fintech 2.0 core migration;
+  Daraja 3.0; ADI blockchain/stablecoins; Ziidi Trader; number-masking data minimisation; national-switch
+  contest (Kenswitch-Visa vs Pesalink vs NIBSS); Moniepoint entry; Fuliza KES 1.46tn + credit strategy;
+  Safaricom AI-decisioning suit + DTB SIM-swap liability; Finance Bill 2026 mobile-money excise.
+- **Entity updated:** [[kenya-revenue-authority]] — digital-services tax (Netflix/ChatGPT/Airbnb),
+  eTIMS fuel-station friction, mobile-money excise.
+- Note: 1 summary-only `[CLIP]` (KRA digital tax, The Standard).

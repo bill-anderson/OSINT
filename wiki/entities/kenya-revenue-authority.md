@@ -26,6 +26,20 @@ rails into tax infrastructure to widen the compliance net.
   [[data.statistics]] in [[KEN]]. Source:
   [[2026-04-02 WhatsApp tax filing set to pull millions into Kenya's tax net]].
 
+- **Digital-services tax on non-resident platforms (2025-09).** [[gov.legislate]] [[geopol.usa]] KRA
+  moved to tax **Netflix, ChatGPT (OpenAI), Airbnb** and other non-resident digital platforms under a
+  **significant-economic-presence / digital-services** regime — extending the tax net to the platform
+  economy. Source: [[2025-09-24-kra-netflix-chatgpt-airbnb-digital-tax-standard]] *(summary-only clip)*.
+- **eTIMS mandate friction — fuel stations (2026-01).** [[dpi.pay]] Petroleum dealers (Unepa) protested
+  KRA's directive to use the **Electronic Tax Invoice Management System (eTIMS)** at fuel stations
+  without adequate public participation, citing affordability, connectivity in remote areas, dispenser
+  incompatibility, and VAT-computation conflicts with EPRA-regulated pump prices — a live case of
+  digital-tax-infrastructure rollout resistance. Source:
+  [[2026-01-01-petroleum-dealers-etims-fuel-nation]].
+- **Mobile-money excise (Finance Bill 2026).** [[gov.legislate]] [[include.divides]] Telcos warned the
+  Bill's **25% phone-import excise + VAT reclassification** would raise mobile-money transaction costs by
+  up to **33.4%**, hitting low-income users — the affordability edge of turning M-Pesa into a tax rail.
+  See [[kenya--dpi-pay]]. Source: [[2026-05-31-telcos-warn-33pc-excise-tax-nation]].
 - **Continental context.** Part of Africa's broader "digital rails as tax infrastructure" turn,
   alongside SARS eFiling ([[sars]]), Nigeria's FIRS and Rwanda's Irembo (cf. Malawi's
   [[malawi-revenue-authority]]).
@@ -34,3 +48,6 @@ rails into tax infrastructure to widen the compliance net.
 
 - [[2026-04-02 WhatsApp tax filing set to pull millions into Kenya's tax net]]
 - [[2026-02-24 Kenya streamlines access to legal and digital identity]]
+- [[2025-09-24-kra-netflix-chatgpt-airbnb-digital-tax-standard]]
+- [[2026-01-01-petroleum-dealers-etims-fuel-nation]]
+- [[2026-05-31-telcos-warn-33pc-excise-tax-nation]]
