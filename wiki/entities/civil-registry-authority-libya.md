@@ -29,8 +29,21 @@ is a recurring national-security concern (fake-number scandals, foreign-national
   Committee warned of "manipulation and serious violations" letting foreign nationals obtain Libyan
   national ID numbers — "a direct threat to national security and Libyan identity." Source:
   [[2025-12-08 Libyan Parliament warns of breaches in Civil Registry national ID system]].
+- **Fraud crisis escalates (2026).** [[sovereignty]] The AG prosecuted a scheme giving **225 Malian
+  nationals** national ID numbers and passports (61 irregular family records, Ubari→Hun/Sukna); an
+  **Al-Marj (east)** case cancelled 10 numbers; and a black market in forged numbers persists — while
+  holders of partial **"administrative numbers"** remain excluded from services. Full thread:
+  [[libya--dpi-id]]. Sources:
+  [[2026-01-02-attorney-general-civil-registry-id-fraud-crackdown-libyaherald]],
+  [[2026-01-14-almarj-civil-registry-fake-national-numbers-alwasat]],
+  [[2026-04-19-fake-national-numbers-for-sale-alwasat]],
+  [[2025-06-07-administrative-numbers-holders-anger-alwasat]].
 
 ## Sources
 
 - [[2024-09-06 Libya's Project Intilaqa matches Civil Registry electronic data with paper records]]
 - [[2025-12-08 Libyan Parliament warns of breaches in Civil Registry national ID system]]
+- [[2026-01-02-attorney-general-civil-registry-id-fraud-crackdown-libyaherald]]
+- [[2026-01-14-almarj-civil-registry-fake-national-numbers-alwasat]]
+- [[2026-04-19-fake-national-numbers-for-sale-alwasat]]
+- [[2025-06-07-administrative-numbers-holders-anger-alwasat]]

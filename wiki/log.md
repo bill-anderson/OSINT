@@ -6163,3 +6163,12 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
   e-wallet figures the held one lacks), not a relevant-duplicate. AR/EN EPAIX twins (06-16/06-17) both
   kept — complementary (AR H1 figures; EN Stand-In Processing detail).
 - Note: 1 proxy-dated item (Finnovate, `date_source: proxy`, month precision).
+
+## 2026-07-18 — ingest(LBY) chunk 2/5: Digital identity & civil registry
+
+- **4 sources admitted** (0 leads, 0 discards).
+- **Intersection created:** [[libya--dpi-id]] — civil-registry integrity crisis: AG crackdown (225 Malian
+  nationals via 61 irregular records), Al-Marj east-side case (10 numbers cancelled), persistent forged-
+  number black market, and "administrative-numbers" exclusion. Fraud spans both administrations.
+- **Entity updated:** [[civil-registry-authority-libya]] — 2026 fraud-escalation bullet + 4 sources.
+- Note: 3 thin Arabic excerpts (full clip recommended at promotion).
