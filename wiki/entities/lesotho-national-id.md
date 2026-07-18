@@ -23,6 +23,16 @@ country's DPI build-out (X-Road interoperability, a **[[mosip]]**-based biometri
   programme (EU + UNICEF; attended by King Letsie III), recognising children's identities from birth to
   open healthcare/education; part of the CASH Plus approach with digital grant payments. Source:
   [[2025-04-02 Lesotho launches Digital Birth Registration under Ntlafatsa Bana programme]].
+- **MOSIP integrated national-ID work plan with UNICEF (2026-03).** [[dpi.registry]] **[[unicef-lesotho|UNICEF]]**
+  and **[[micsti-lesotho|MICSTI]]** signed a **2026 Action Plan** to build an **integrated national
+  digital-ID ecosystem on [[mosip|MOSIP]]** — passport/ID renewal, biometric registration, proof-of-life,
+  document updates — strengthening identity verification for financial services and AML/fraud prevention
+  (aligned to NSDP II, NSPS II and **50-in-5**). A **child-focused DPI** workshop (Apr 2026) extended this
+  to birth registration, education, health and social protection with children's-data safeguards.
+  Sources: [[2026-03-03-lesotho-unicef-mosip-national-id-biometricupdate]],
+  [[2026-04-08-child-focused-dpi-unicef-techafricanews]].
+- **India-Stack DPI partnership (2025-07).** [[dpi.id]] The **[[lesotho-india-dpi-mou]]** set digital ID
+  as "the foundation of everything," with pilots underway with India. See [[india-stack]].
 - **Reference base.** The WB GovTech case study, a WB people-centred-service-delivery note, and a Research
   ICT Africa digital-identity study document the NIS's design and gaps. Sources:
   [[2024-01-01 Lesotho National Identification System (World Bank GovTech Case Study)]],

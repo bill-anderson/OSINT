@@ -6,6 +6,12 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 
 | Entity | Places | Topics | Page |
 |---|---|---|---|
+| Convalt Energy | XGL, LSO | infra.energy, infra.store, tech.ai | [[convalt-energy]] |
+| T-Connect Lesotho | LSO | infra.connect, data.satellite | [[t-connect-lesotho]] |
+| Econet Telecom Lesotho (ETL) | LSO | infra.connect, dpi.pay | [[econet-telecom-lesotho]] |
+| DNS Technologies Ltd | MUS, LSO | infra.store, infra.cybersec | [[dns-technologies]] |
+| Computer Business Solutions (CBS, Lesotho) | LSO | infra.store, tech.industry | [[computer-business-solutions]] |
+| Mukuru | XAF, LSO, ZAF | dpi.pay, finance.new | [[mukuru]] |
 | Jumhouria Bank | LBY | dpi.pay, finance.new | [[jumhouria-bank]] |
 | Almadar Aljadid | LBY | infra.connect | [[almadar-aljadid]] |
 | Moniepoint | NGA, KEN | dpi.pay, finance.new | [[moniepoint]] |
@@ -273,6 +279,7 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 
 | Entity | Places | Topics | Page |
 |---|---|---|---|
+| UNICEF Lesotho | LSO | dpi.id, dpi.registry, gov.protect | [[unicef-lesotho]] |
 | Nairobi Securities Exchange (NSE) | KEN | dpi.pay, finance.new | [[nairobi-securities-exchange]] |
 | CERIST (Algeria research centre) | DZA | capacity.research, infra.store, tech.innovate | [[cerist]] |
 | Fédération Nationale des Entreprises du Numérique (Djibouti) | DJI | tech.innovate, gov.regional | [[federation-entreprises-numeriques-djibouti]] |
@@ -445,6 +452,8 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 
 | Entity | Places | Topics | Page |
 |---|---|---|---|
+| Lesotho Communications Authority (LCA) | LSO | infra.connect, gov.legislate, data.satellite | [[lesotho-communications-authority]] |
+| Central Bank of Lesotho (CBL) | LSO | dpi.pay, gov.legislate | [[central-bank-of-lesotho]] |
 | Libyan Post, Telecom & IT Company (LPTIC) | LBY | infra.connect, infra.store | [[lptic]] |
 | National Registration Bureau (NRB, Kenya) | KEN | dpi.id, dpi.registry, dpi.govtech | [[national-registration-bureau]] |
 | Kenya National Bureau of Statistics (KNBS) | KEN | data.statistics, data.open, dpi.govtech | [[knbs]] |
@@ -764,6 +773,7 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 
 | Entity | Places | Topics | Page |
 |---|---|---|---|
+| Sebabatso Initiative (Lesotho youth empowerment) | LSO | capacity.training, tech.innovate | [[sebabatso-initiative]] |
 | LIBIGPT (Libya first generative-AI system) | LBY | tech.ai, tech.innovate | [[libigpt]] |
 | BaladiyaBOT (Tripoli municipal digital assistant) | LBY | digital.localgov, dpi.govtech | [[baladiyabot]] |
 | eCitizen (Kenya govt digital-services platform) | KEN | dpi.govtech, dpi.pay, gov.protect | [[ecitizen]] |
@@ -1051,6 +1061,8 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 
 | Entity | Places | Topics | Page |
 |---|---|---|---|
+| Project Kobong ($6.2bn Convalt hydropower + AI data centre) | LSO | infra.store, infra.energy, tech.ai | [[project-kobong]] |
+| Lesotho-India DPI MoU (India Stack) | LSO | dpi.id, dpi.pay, geopol.india | [[lesotho-india-dpi-mou]] |
 | Daraja subsea cable (Meta–Safaricom) | KEN | infra.connect, geopol.usa | [[meta-daraja-subsea-cable]] |
 | Starlink Gambia licence saga | GMB | infra.connect, geopol.usa | [[gambia-starlink-licence]] |
 | YCELL acquisition of 80% of GAMCEL | GMB | tech.industry, finance.new | [[gamcel-ycell-deal]] |

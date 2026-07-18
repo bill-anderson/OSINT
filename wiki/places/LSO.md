@@ -4,14 +4,28 @@ title: Lesotho
 code: LSO
 parent: XSA
 place_kind: country
-topics: [dpi.registry, dpi.mis, dpi.id, dpi.pay, dpi.exchange, dpi.govtech, gov.policy, gov.protect, gov.regional, include.access, infra.connect, data.statistics, data.satellite]
+topics: [dpi.registry, dpi.mis, dpi.id, dpi.pay, dpi.exchange, dpi.govtech, gov.policy, gov.protect, gov.legislate, gov.regional, include.access, include.divides, infra.connect, infra.store, infra.energy, infra.cybersec, data.statistics, data.satellite, tech.ai, tech.industry, tech.innovate, capacity.training, digital.rural, finance.new, finance.mou, geopol.usa, geopol.india]
 status: active
-last_reviewed: 2026-07-16
+last_reviewed: 2026-07-18
 ---
 
 # Lesotho (LSO)
 
 ## Recent developments
+
+> **2026-07-18 LSO sweep batch (25 sources)** — a Lesotho Times + Public Eye + SSA-trade-press tranche
+> since 2025-01, consolidated into thematic intersections. Anchors:
+> - **AI & sovereign infrastructure** — the **$6.2bn Convalt "Project Kobong"** hydropower + AI data
+>   centre (largest-ever FDI; legal status disputed — see contradiction); three signed digital policies
+>   (Broadband/Data/AI); Geneva "co-creator not consumer" pitch; US-backed AI skills. Hub:
+>   [[lesotho--tech-ai]]; [[convalt-energy]], [[project-kobong]].
+> - **Connectivity** — the **Starlink licensing saga** (100%-foreign-ownership sovereignty fight, US-tariff
+>   politics, T-Connect rural rollout) and MNO upgrades (Econet 5G, Vodacom-at-30). Hub:
+>   [[lesotho--infra-connect]]; [[t-connect-lesotho]], [[lesotho-communications-authority]].
+> - **Payments** — LeSwitch POS localisation, EcoCash upgrade, ZAF cross-border remittance dependence
+>   (Mukuru). Hub: [[lesotho--dpi-pay]]; [[central-bank-of-lesotho]].
+> - **Digital ID / DPI** — the **[[lesotho-india-dpi-mou|Lesotho–India India-Stack MoU]]**, a
+>   **MOSIP** integrated national-ID work plan with **[[unicef-lesotho|UNICEF]]**, and child-focused DPI.
 
 - **2026-02-11** — **RSL–Standard Lesotho Bank tax e-payment integration.** Revenue Services Lesotho
   and SLB launched integrated e-payment (USSD, internet banking, mobile app) for CIT, PAYE, VAT and
@@ -82,6 +96,11 @@ last_reviewed: 2026-07-16
 ## Entities
 
 - [[nissa-lesotho]] · [[lesotho-national-id]] · [[leswitch]] · [[lesotho-digital-transformation-strategy]] · [[universal-dpi-safeguards-framework]] · [[micsti-lesotho]] · [[mosip]]
-- Mentioned, not hubbed: UNICEF Lesotho; Co-Develop Fund; National University of Lesotho; Central Bank
-  of Lesotho; Standard Lesotho Bank; Revenue Services Lesotho; Ntlafatsa Bana / CASH Plus; Child Grants
-  Programme (CGP); Lesotho Communications Authority; 50-in-5 campaign.
+- LSO sweep batch (2026-07-18): [[convalt-energy]] · [[project-kobong]] · [[t-connect-lesotho]] ·
+  [[lesotho-communications-authority]] · [[econet-telecom-lesotho]] · [[central-bank-of-lesotho]] ·
+  [[ecocash]] · [[mukuru]] · [[sebabatso-initiative]] · [[dns-technologies]] · [[computer-business-solutions]] ·
+  [[unicef-lesotho]] · [[lesotho-india-dpi-mou]] · [[india-stack]] · [[starlink]] · [[vodacom]]
+- LSO sweep intersections (2026-07-18): [[lesotho--tech-ai]] · [[lesotho--infra-connect]] · [[lesotho--dpi-pay]]
+- Mentioned, not hubbed: Co-Develop Fund; National University of Lesotho; Standard Lesotho Bank; Revenue
+  Services Lesotho; Ntlafatsa Bana / CASH Plus; Child Grants Programme (CGP); 50-in-5 campaign;
+  Sasai Econet Financial Services (SEFS); US Embassy Maseru.

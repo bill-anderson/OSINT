@@ -37,8 +37,19 @@ infrastructure, working with the **National University of Lesotho (NUL)**.
   of AI — citing **100% broadband coverage but only ~50% regular internet use**. See [[lesotho--tech-ai]].
   Source: [[2026-07-09-lesotho-equitable-ai-future-itweb]].
 
+- **India-Stack DPI MoU (2025-07).** [[geopol.india]] Minister Moorosi signed a DPI MoU with India's
+  MeitY ([[lesotho-india-dpi-mou]]) — digital ID, unified QR payments and once-only data exchange, on the
+  **[[india-stack|India Stack]]** model. Source: [[2025-07-29-lesotho-india-dpi-mou-publiceye]].
+- **DPI partnership with UNICEF (2026).** [[dpi.id]] MICSTI signed a 2026 work plan with **[[unicef-lesotho|UNICEF]]**
+  for a **MOSIP-based integrated national ID** and ran a **child-focused DPI** workshop. See
+  [[lesotho-national-id]]. Sources: [[2026-03-03-lesotho-unicef-mosip-national-id-biometricupdate]],
+  [[2026-04-08-child-focused-dpi-unicef-techafricanews]].
+
 ## Sources
 
 - [[2026-02-20 MICSTI AND NUL ADVANCED LESOTHO DIGITAL PUBLIC INFRASTRUCTURE]]
 - [[2026-06-12-three-digital-policies-signed-lestimes]]
 - [[2026-07-09-lesotho-equitable-ai-future-itweb]]
+- [[2025-07-29-lesotho-india-dpi-mou-publiceye]]
+- [[2026-03-03-lesotho-unicef-mosip-national-id-biometricupdate]]
+- [[2026-04-08-child-focused-dpi-unicef-techafricanews]]

@@ -617,3 +617,12 @@ study). See log.md.)*
   2026-06-24); and an **LTT–ZTE MoU at MWC26** (2026-03-11) all sit outside the assigned source list.
   *Lead: source from DCD / libyasecuritymonitor / Ecofin to capture the China/east-west infrastructure
   contest behind [[libya--infra-connect]].* (Surfaced LBY sweep ingest, 2026-07-18.)
+
+- **GAP-LSO-001 · Strong off-source Lesotho DPI developments live on gov.ls, not the assigned sources.**
+  The sweep confirms but cannot stage (outside the two newspapers + fixed-8 journals): the **National
+  Data Value Creation Blueprint** workshop (Smart Africa + GIZ + AU, 14–15 Jul 2026; Lesotho selected
+  with Senegal & Kenya); **AUDPF domestication / Data Governance workshops** (Jul & Oct 2025,
+  AUDA-NEPAD/GIZ/CIPESA); a **digital service-ID pilot** (10,000 participants, biometric, from 2 Apr
+  2026); and the **National AI Policy/Strategy** text — all on gov.ls / lesotho.co.ls / CIPESA / lena.gov.ls.
+  *Lead: source these from gov.ls to deepen [[lesotho--tech-ai]], [[lesotho-national-id]] and the data-
+  governance thread.* (Surfaced LSO sweep ingest, 2026-07-18.)

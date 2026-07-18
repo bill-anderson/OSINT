@@ -6269,3 +6269,30 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
 - Dedup: LT 2025-05-14 LeSwitch-POS kept as complementary to held CBL 2025-05-20 (adds two-stream
   structure + named officials + four-banks), not a relevant-duplicate.
 - Note: 1 paywalled `[CLIP]` (migrants-fintech, TechCabal — free lede only).
+
+## 2026-07-18 — ingest(LSO) chunk 5/5 + finalize: Digital ID / DPI + hub refresh
+
+- **3 sources admitted** (0 leads, 0 discards).
+- **Entities created:** [[lesotho-india-dpi-mou]] (deal — India-Stack DPI), [[unicef-lesotho]]
+  (organisation — MOSIP national-ID + child DPI partner).
+- **Entities updated:** [[lesotho-national-id]] (MOSIP/UNICEF 2026 work plan + India-Stack), [[micsti-lesotho]]
+  (India MoU + UNICEF DPI).
+- **Vocab fix:** `[[IND]]` (India not in African countries.csv) → `geopol.india` slug.
+- **Finalize:**
+  - [[LSO|Lesotho hub]] refreshed — sweep-batch summary block; new topics (tech.ai/infra.store/energy/
+    geopol.usa/india/etc.); Entities + 3 intersections; last_reviewed → 2026-07-18.
+  - **entities-index.md** — 12 new LSO entities (Companies 6, Government bodies 2, Organisations 1,
+    Initiatives 1, Deals 2).
+  - **places-index.md** — LSO row: intersection cross-links + new topics.
+  - **Lint:** all 25 LSO sources non-orphan; zero dead links across 21 created/edited pages.
+  - **Teardown:** `new-queue/LSO` → `new-queue/done/LSO`; `new/MANIFEST.md` drained; `new/` empty.
+  - **Gap filed:** GAP-LSO-001 (gov.ls off-source: Data Value Creation Blueprint, AUDPF domestication,
+    digital service-ID pilot, National AI Policy).
+
+### LSO ingest total (chunks 1-5): **25 sources admitted, 0 leads, 0 discards, 0 needs-clip**
+- Entities created: 12; intersections created: lesotho--tech-ai, lesotho--infra-connect, lesotho--dpi-pay.
+- Contradiction filed: Convalt "Project Kobong" legal status (binding MoA vs non-binding MoU).
+- Dedup: LeSwitch-POS LT 2025-05-14 kept as complementary to held CBL 2025-05-20. Vodacom/Joosub, Starlink-
+  launch and Vodacom-$40m same-event twins were not multiplied by the sweep (best outlet staged).
+- 1 paywalled `[CLIP]` (migrants-fintech). Starlink foreign-ownership fight = the sharpest sovereignty
+  thread; Convalt $6.2bn = largest-ever LSO FDI.
