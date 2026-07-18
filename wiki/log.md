@@ -5576,3 +5576,11 @@ endorsement, no value adjudicated). All 14 moved new→raw.
 (incumbent), [[cabo-verde-5g-strategy]] (launched Sept 2025, approved Resolution 33/2026; 90% penetration
 by 2026; universal digital ID + data strategy bundled). **€37M CVT sovereign guarantee vs UNITEL T+
 open-access/neutrality objection**; Starlink at 0.2% market (ARME Q2 2025). All 5 moved new→raw.
+
+### 2026-07-18 · ingest CPV · chunk 5/5 — AI, innovation, TechPark, skills & startups
+**23 sources admitted.** New intersection [[cabo-verde--tech-innovate]]; new entities
+[[cabo-verde-data-ai-strategy]] (Data + AI strategies, 28 Apr 2026, EU-supported), [[fundo-morabeza]]
+(€24M AfDB startup fund), [[skodji-digital]] (youth gig-economy skills). TechPark Praia (**€45.59M =
+$51.7M AfDB, same event**) + Mindelo; Web Summit/SikaBaDu; honest AI-divide press debate; Uni-CV Creole
+NLP; Digital Africa Corridor (NGA); Tech Ambassador (Olavo Correia). All 23 moved new→raw. **new/ empty —
+60 admitted, 0 pruned.**
