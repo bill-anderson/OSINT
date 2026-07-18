@@ -5637,3 +5637,11 @@ Entities section expanded (DFN, DPCS, online-company-creation, AI strategy, PND-
 data.statistics/data.open/geopol.china. entities-index: +12 rows (1 company, 1 org, 3 initiatives, 4 resources, 3 instruments;
 Limo already? no — 12 new). places-index DJI row rewritten. Dead-link lint (touched files) 0 unresolved; orphan lint 0/47.
 Stray new/MANIFEST.md removed; new-queue/DJI → new-queue/done/DJI. Filed GAP-DJI-003 (Startup Act primary).
+
+## 2026-07-18 — ingest(DZA) chunk 1/8: Connectivity & operators
+28 sources admitted. New intersection `algeria--infra-connect`. Entities created: ooredoo-algeria, djezzy,
+mobilis (companies); arpce-algeria, ministry-of-post-and-telecommunications-algeria (govt bodies); sid-ali-zerrouki
+(person, Min. Post & Telecoms); algeria-5g (initiative, $492m/DZD 63.9bn three-licence award Dec 2025);
+algerie-telecom-sparkle-cable (deal); sparkle, ericsson (vendor companies). Updated algerie-telecom (3m FTTH households
+/ 3.4m fibre subs / 7m fixed / 51m mobile 2026-05; 400G, WiFi7, IPv6, Sparkle). FTTH "1st in Africa" (2026-02);
+5G nationwide by Djezzy (18 states) & Ooredoo (all wilayas) 2026-03; satellite-ISP NGSO tender (2026-04); Ookla Algiers 48th.
