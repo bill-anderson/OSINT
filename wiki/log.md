@@ -5257,3 +5257,13 @@ did NOT land on 25 May 2026**, operators refused; MANIFEST Flags 12/16, CAMCIS�
 COLEPS/PROXIGAB/DGI/e-Visa/RF-eTrust; DIGI-CoR + NW councils + Douala×Huawei cadastre; urban-data /
 Nigeria-model / Korea-cooperation). Korea partnership rides on existing ISSUE-014 (no geopol.korea slug).
 All 20 moved new→raw.
+
+### 2026-07-18 · ingest CMR · chunk 7/8 — Policy, statistics & open data
+**5 sources admitted.** **Resolved the data-protection-law question** (MANIFEST Flag 3): the Minpostel's
+Apr-2025 National Assembly speech names the enacted **Loi n°2024/017 of 23 Dec 2024** — the Nov-2024 draft
+became law; wiki was stale. New entity [[cameroon-data-protection-law-2024]]; updated
+[[cameroon-civil-registration-law-2024]] note (paired 23-Dec-2024 statutes, no longer "disputed"). New
+entities [[ins-cameroon]] (Open SDG platform Sep 2025 + RGPH 2026 census — 4th since 2005, satellite +
+MoMo-paid enumerators), [[psnsn-cameroon]] (digital-health plan ~29bn FCFA, answers held 2025 gap). Filed
+**GAP-CMR-001** (gazette texts of Loi 2024/016 & 2024/017) and **GAP-CMR-002** (Biya CNI decree N°2025/059).
+Citizen-budget (East) source to be cited on the hub at finalize. All 5 moved new→raw.

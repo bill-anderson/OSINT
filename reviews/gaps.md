@@ -553,3 +553,12 @@ in the same batch and is now held; instrument upgraded stub→active. See log.md
   **World Bank P174620 / CARDIP** institutional and financing pass ([[cardip]] rests on one paywalled
   Africa Business Insight lede). *Leads: an AfDB project page or CAB closure report; a primary for the
   Kigali MoU; the WB project document / a BEAC-CEMAC CARDIP release.* (Surfaced CAF sweep, 2026-07-18.)
+
+- **GAP-CMR-001 · Official gazette text of the two paired 23-Dec-2024 laws not held.** The
+  personal-data-protection **Loi n°2024/017** (recorded as [[cameroon-data-protection-law-2024]]) and the
+  civil-registration **Loi n°2024/016** were both enacted 23 Dec 2024, but the wiki holds only secondary
+  reporting and a ministerial citation, not the **primary gazette/PRC texts**. Sourcing them (prc.cm /
+  official gazette) would let the wiki cite provisions directly rather than via press. Consider sourcing.
+- **GAP-CMR-002 · Biya decree N°2025/059 (28 Feb 2025, CNI characteristics) not held.** The decree fixing
+  the new national-ID card's characteristics and distribution — the legal hinge before 3-Mar-2025 issuance
+  — is referenced across staged sources but not held as a primary (published on prc.cm). Consider sourcing.
