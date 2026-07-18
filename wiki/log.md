@@ -5909,3 +5909,9 @@ ghana-continental-digital-trade-corridor) → +11 entities-index rows. Hub GHA.m
 entities/intersections sections); places-index GHA row rewritten. Dead-link lint 0; orphan lint 0/85.
 GAP-GHA-001 (GhIPSS) RESOLVED; GAP-GHA-002 (NIA Act 707) narrowed; GAP-GHA-003 (NITA+GIFEC created, CSA remains) narrowed.
 Fixed NDPC=Development-Planning mistag. new-queue/GHA → done.
+
+## 2026-07-18 — ingest(GIN) chunk 1/5: Digital ID & biometric electoral file
+8 sources admitted. New entity pn-ravec-guinea (initiative; PN-RAVEC administrative census from 15 Apr 2025 → RNPP →
+permanent biometric electoral file). Free biometric ID decree (Doumbouya Feb 2025); electoral roll 6.77m (Sept-2025
+referendum) → 6.95m/23,681 stations (31 May 2026 coupled elections); RGPH-4 pop 17,521,167; DGE verification.dge.gov.gn;
+DGE-ONECI convention (RNPP = source unique). Updated guinea--dpi-id (RAVEC/RNPP thread). Entirely unheld before this sweep.

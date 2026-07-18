@@ -47,9 +47,17 @@ IDs are advancing on parallel tracks.
   Sources: [[2023-08-03 The modernisation of Guinea's civil registry inspired by Belgium's experience (Citizenship Rights in Africa)]],
   [[2025-01-01 Registre Social Unifie (RSU) presentation - Guinea]].
 
+## The RAVEC → RNPP → biometric electoral file (2025–26)
+
+The domestic pivot found its spine in the **[[pn-ravec-guinea|PN-RAVEC]]** administrative census (from 15 Apr
+2025) feeding the **RNPP**, now the **single official source** for Guinea's **permanent biometric electoral
+file** (**6.77m electors** for the Sept-2025 referendum → **6.95m / 23,681 stations** for the 31 May 2026
+coupled elections; RGPH-4 population **17,521,167**). A **DGE–ONECI convention** institutionalised the
+RNPP→roll data-sharing, and the biometric ID card was **decreed free**. See [[pn-ravec-guinea]].
+
 ## Links
 
-Place: [[GIN]] · Concepts: [[dpi.id]] · [[dpi.registry]] · Entities: [[oneci-guinea]] · [[wuri-programme]] · [[fugas]] · [[rsu-guinea]]
+Place: [[GIN]] · Concepts: [[dpi.id]] · [[dpi.registry]] · Entities: [[pn-ravec-guinea]] · [[oneci-guinea]] · [[wuri-programme]] · [[fugas]] · [[rsu-guinea]]
 
 ## Sources
 
