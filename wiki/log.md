@@ -5619,3 +5619,12 @@ system, IMO/WB best practice), [[online-company-creation-djibouti]] (8,446 firms
 exercise**, Jun 2026; GCI 11.84/20) and [[djibouti-digital-code]] (8-book explainer twins). New entities
 [[snds3-djibouti]] (statistics strategy 2025-29, WB) and [[djibouti-open-data]] (IMF SGDD-a / e-GDDS
 National Summary Data Page). All 6 moved new→raw.
+
+## 2026-07-18 — ingest(DJI) chunk 4/4: Strategy, AI, skills, startups & diplomacy
+15 sources admitted. New intersection `djibouti--tech-innovate` (strategy stack + skills + diplomacy).
+Entities created: djibouti-ai-strategy (instrument), pnd-adeeg-djibouti (instrument, 3rd NDP adopted 30 Jun 2026),
+digital-houses-djibouti (initiative, E-SKILLS 5 regions/3,000 by 2029/€7M), ecole-42-djibouti (initiative, EU/Expertise France),
+startup-act-djibouti (instrument, Loi n°179/AN/25, JO 08/01/2026), federation-entreprises-numeriques-djibouti (organisation).
+First national AI Strategy (Jan 2026, UNESCO/ESCWA); China-Exim AI-platform pitch (geopol.china); Romania & Japan bilateral tracks;
+WSIS 2026 presence. New Minister Delegate Safia Ali Mohamed Gadileh (appointed May 2026) supersedes Mariam Hamadou Ali — hub to reflect at finalize.
+GAP: Startup Act primary text (eJO / journalofficiel.dj) not held.
