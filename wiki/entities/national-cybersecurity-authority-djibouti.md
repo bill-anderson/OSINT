@@ -6,8 +6,8 @@ places: [DJI]
 topics: [infra.cybersec, gov.policy]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-16
-sources: [[2025-12-15 Loi n 195-AN-25 portant creation de l'Autorite Nationale de Cybersecurite (Djibouti, JO)], [raw/2025-12-09 Djibouti Launches National Cyber Security Authority (ANC operational, DG named)], [raw/2025-11-12 Djibouti advances bill to create National Cybersecurity Authority], [raw/2024-12-02 Djibouti National Cybersecurity Strategy 2024-2030]]
+last_reviewed: 2026-07-18
+sources: [[2025-12-15 Loi n 195-AN-25 portant creation de l'Autorite Nationale de Cybersecurite (Djibouti, JO)], [raw/2025-12-09 Djibouti Launches National Cyber Security Authority (ANC operational, DG named)], [raw/2025-11-12 Djibouti advances bill to create National Cybersecurity Authority], [raw/2024-12-02 Djibouti National Cybersecurity Strategy 2024-2030], [2025-12-09-anc-cybersecurity-authority-wearetech], [2026-07-09-anc-dj-cert-igad-cyber-exercise-lanation]]
 ---
 
 # Autorité Nationale de Cybersécurité (ANC, Djibouti)
@@ -41,5 +41,10 @@ informal "ANCS" designation. Sources:
 
 Complements the **[[djibouti-digital-code]]** and the **National Cybersecurity Strategy 2024–2030** (five
 pillars). Djibouti ratified the AU **[[malabo-convention]]** (Nov 2023) and signed the **UN Convention on
-Cybercrime** (Hanoi, late Oct 2025); ITU GCI 2024 Tier 4. Framed within the Smart Nation / **Vision 2035**
-agenda. See [[DJI]], [[djibouti--gov-protect]], [[infra.cybersec]].
+Cybercrime** (Hanoi, late Oct 2025); **ITU GCI 11.84/20** (twin account). Framed within the Smart Nation /
+**Vision 2035** agenda. See [[DJI]], [[djibouti--gov-protect]], [[infra.cybersec]]. Sources:
+[[2025-12-09-anc-cybersecurity-authority-wearetech]].
+
+**DJ-CERT operational win (2026-07).** The ANC's national **DJ-CERT** placed **1st in both simulation
+scenarios** of the IGAD regional cyber exercise (Addis, 26–30 Jun 2026) — the first concrete performance
+signal for the newly-stood-up authority. Source: [[2026-07-09-anc-dj-cert-igad-cyber-exercise-lanation]].

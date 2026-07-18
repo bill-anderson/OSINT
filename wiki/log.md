@@ -5613,3 +5613,9 @@ emergency-medical; Guelleh warnings; forum-vs-launch 08/09-Feb ambiguity noted) 
 (MDENI/Visa/Tech5 detail; **flagged "Asmara" source error**). New entities [[dpcs-djibouti]] (port community
 system, IMO/WB best practice), [[online-company-creation-djibouti]] (8,446 firms), [[limo-djibouti-startup]]
 + [[limo-platform-djibouti]] (**name-collision disambiguated**). All 11 moved new→raw.
+
+### 2026-07-18 · ingest DJI · chunk 3/4 — Cybersecurity, data governance & law
+**6 sources admitted.** Updated [[national-cybersecurity-authority-djibouti]] (**DJ-CERT 1st at IGAD cyber
+exercise**, Jun 2026; GCI 11.84/20) and [[djibouti-digital-code]] (8-book explainer twins). New entities
+[[snds3-djibouti]] (statistics strategy 2025-29, WB) and [[djibouti-open-data]] (IMF SGDD-a / e-GDDS
+National Summary Data Page). All 6 moved new→raw.

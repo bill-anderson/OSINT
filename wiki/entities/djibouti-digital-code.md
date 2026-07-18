@@ -6,8 +6,8 @@ places: [DJI]
 topics: [gov.protect, infra.cybersec, dpi.exchange, gov.policy]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-15
-sources: [[2025-07-01 Djibouti Digital Code adopted by National Assembly], [raw/2025-11-05 Review of Djibouti Data Protection Law]]
+last_reviewed: 2026-07-18
+sources: [[2025-07-01 Djibouti Digital Code adopted by National Assembly], [raw/2025-11-05 Review of Djibouti Data Protection Law], [2025-07-02-digital-code-enacted-techafricanews], [2025-07-13-code-du-numerique-digital-code-explainer-lanation]]
 ---
 
 # Djibouti Digital Code
@@ -19,3 +19,7 @@ Djibouti's **first comprehensive Digital Code**, passed by the National Assembly
 - **Cybersecurity:** provides for a cybersecurity body (see **[[national-cybersecurity-authority-djibouti]]**).
 
 Foundational to **[[mobile-id-djibouti|Mobile ID]]** and the **[[smart-wallet-djibouti|Smart Wallet]]**. Sits under **[[vision-djibouti-2035]]**. Awaiting full promulgation and implementing decrees.
+
+*National-press/trade twins add detail: the full **8-book structure** (a "first for East Africa"), and a
+CNDP-powers explainer (sanction powers, mandatory DPOs, access/erasure/portability rights). Sources:*
+[[2025-07-02-digital-code-enacted-techafricanews]], [[2025-07-13-code-du-numerique-digital-code-explainer-lanation]].
