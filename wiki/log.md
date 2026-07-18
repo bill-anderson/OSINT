@@ -5896,3 +5896,16 @@ Office; KNUST RAIL; cabinet Feb 2026; AI-hub-4-years origin). Home-grown soverei
 paradox / data colonialism" — Ghana rejected US $109m health-data deal; infrastructure-not-ambition; healthcare-not-hype/
 foreign-datasets). BoG Cyber & Info Security Directive 2026 (financial-data localisation, FICSOC, first AI-governance
 framework); Africa's-largest AI-driven security centre (VIA/Exabeam); One Million Coders critique (IMANI); YEA 2,000 youth.
+
+## 2026-07-18 — ingest(GHA) chunk 7/7 + FINALIZE
+Chunk 7: 4 sources admitted. Entity ghana-continental-digital-trade-corridor (initiative; Ghana/Rwanda/Zambia AfCFTA
+pilot, 3i Summit, MoMo interop/cross-border ID KYC/e-invoicing). GSS quarterly-employment + NDPC(Dev-Planning) data-literacy
+cited on hub statistics.
+FINALIZE — Batch total: 85 sources admitted (7 chunks), 0 leads, 0 discards, 0 pruned. Largest SSA-core batch. 4 new
+intersections (ghana--dpi-govtech, --gov-protect, --infra-connect, --tech-ai; --dpi-id & --dpi-pay existed/updated).
+11 new entities (ghana-gov-platform, ghana-digital-acceleration-project, nita-ghana, ghana-data-harmonisation-bill,
+ngic-ghana, gifec-ghana, digital-realty-accra, ghipss-ghana, momo-fintech-ghana, zeepay-ghana,
+ghana-continental-digital-trade-corridor) → +11 entities-index rows. Hub GHA.md refreshed (top developments block,
+entities/intersections sections); places-index GHA row rewritten. Dead-link lint 0; orphan lint 0/85.
+GAP-GHA-001 (GhIPSS) RESOLVED; GAP-GHA-002 (NIA Act 707) narrowed; GAP-GHA-003 (NITA+GIFEC created, CSA remains) narrowed.
+Fixed NDPC=Development-Planning mistag. new-queue/GHA → done.

@@ -133,13 +133,8 @@ in the same batch and is now held; instrument upgraded stub→active. See log.md
   the `government-body` entity.* See [[DJI]], [[national-cybersecurity-authority-djibouti]]. (Surfaced
   reconcile REV-DJI-001, 2026-07-16.)
 
-- **GAP-GHA-001 · GhIPSS has no entity page.** **GhIPSS** (Ghana Interbank Payment and Settlement
-  Systems) — operator of the national switch, **GhIPSS Instant Pay (GIP)** and mobile-money
-  interoperability — is referenced repeatedly across [[dpi.pay]], [[bank-of-ghana]] and the Payment
-  Systems Oversight Report 2023 (GIP GH¢120.1bn in 2023) but has **no page** (plain-text/"mentioned"
-  only). It is the central rail behind Ghana's interoperability story and the natural anchor for
-  [[ghana--dpi-pay]]. *Lead: consider sourcing a GhIPSS primary (BoG/GhIPSS site or annual report) and
-  creating the `government-body`/`resource` entity.* (Recorded Ghana batch, 2026-07-16.)
+*(GAP-GHA-001 — GhIPSS has no entity page — RESOLVED, GHA sweep 2026-07-18: created [[ghipss-ghana]]
+(government-body; national switch/GIP/MoMo interop, cross-border ISO 20022/VASP). See log.md.)*
 
 - **GAP-GHA-002 · NIA statutory basis single-sourced / date conflict.** The
   [[national-identification-authority-ghana|NIA]]'s enabling statute is cited inconsistently across
@@ -148,12 +143,17 @@ in the same batch and is now held; instrument upgraded stub→active. See log.md
   Identity Register Act 2008 (Act 750)**. No clean primary (the Acts themselves) is on file. *Lead:
   consider sourcing the primary Ghanaian statutes to pin the NIA's legal basis before it is cited as
   settled.* See [[national-identification-authority-ghana]]. (Recorded Ghana batch, 2026-07-16.)
+  **Update (GHA sweep 2026-07-18):** a 2025-08 restructure item confirms the **NIA Act 707** basis, and
+  **L.I. 2111 (National Identity Register Regulations 2012, as amended)** is now on file — narrows the gap to
+  reconciling the 2006/2009 dating against the primary Acts.
 
 - **GAP-GHA-003 · MoCD agency cluster under-hubbed.** The US Country Commercial Guide names several
   central Ghanaian digital agencies with **no entity page** — **NITA** (ICT security/standards),
   **Cyber Security Authority (CSA)** and **GIFEC** (universal-access fund). Referenced in prose on
   [[GHA]] only. *Lead: consider sourcing primaries and creating the highest-recurrence of these
   (CSA and NITA anchor [[infra.cybersec]] / [[gov.standards]]).* (Recorded Ghana batch, 2026-07-16.)
+  **Update (GHA sweep 2026-07-18):** **[[nita-ghana|NITA]]** and **[[gifec-ghana|GIFEC]]** now have entity
+  pages — gap narrowed to the **Cyber Security Authority (CSA)**.
 
 - **GAP-GIN-001 · Guinea's digital-agency architecture under-hubbed.** Guinea's newly structured
   delivery agencies — **ANDE** (Agence Nationale de Digitalisation de l'État), **ANSSI** (cybersecurity)

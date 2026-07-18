@@ -6,6 +6,9 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 
 | Entity | Places | Topics | Page |
 |---|---|---|---|
+| Next-Gen InfraCo (NGIC, Ghana) | GHA | infra.connect, gov.legislate | [[ngic-ghana]] |
+| MobileMoney Fintech Ltd (MTN Ghana MoMo) | GHA | dpi.pay, finance.new | [[momo-fintech-ghana]] |
+| Zeepay (Ghana) | GHA | dpi.pay, gov.legislate | [[zeepay-ghana]] |
 | Dashen Bank (Ethiopia) | ETH | dpi.pay, dpi.id, include.access | [[dashen-bank]] |
 | Fawry | EGY | dpi.pay, tech.industry, finance.new | [[fawry]] |
 | Blnk | EGY | dpi.pay, finance.new, include.access | [[blnk]] |
@@ -428,6 +431,9 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 
 | Entity | Places | Topics | Page |
 |---|---|---|---|
+| NITA (National Information Technology Agency, Ghana) | GHA | dpi.govtech, gov.legislate | [[nita-ghana]] |
+| GIFEC (Ghana universal-access fund) | GHA | infra.connect, digital.rural | [[gifec-ghana]] |
+| GhIPSS (Ghana Interbank Payment & Settlement Systems) | GHA | dpi.pay, dpi.exchange | [[ghipss-ghana]] |
 | APDPVP (Gabon data-protection authority) | GAB | gov.protect, gov.legislate | [[apdpvp-gabon]] |
 | ITIDA (IT Industry Development Agency, Egypt) | EGY | tech.industry, capacity.training | [[itida-egypt]] |
 | ARPCE (Algeria post/telecom regulator) | DZA | infra.connect, gov.legislate, dpi.id | [[arpce-algeria]] |
@@ -734,6 +740,7 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 
 | Entity | Places | Topics | Page |
 |---|---|---|---|
+| Ghana Continental Digital Trade Corridor | GHA, RWA, ZMB | gov.regional, dpi.exchange | [[ghana-continental-digital-trade-corridor]] |
 | Gabon legal-identity projects (RBPP, SNID, CNEC) | GAB | dpi.id, dpi.registry | [[gabon-legal-id-projects]] |
 | Gabon Connect (single digital window) | GAB | dpi.govtech, dpi.exchange | [[gabon-connect]] |
 | Algeria 5G programme (three licences, 2025) | DZA | infra.connect, finance.new | [[algeria-5g]] |
@@ -1012,6 +1019,7 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 
 | Entity | Places | Topics | Page |
 |---|---|---|---|
+| Ghana Digital Acceleration Project (World Bank, $200m) | GHA | dpi.govtech, finance.new | [[ghana-digital-acceleration-project]] |
 | Hassan Allam Digital Infrastructure data-centre licence ($400m, +A15) | EGY | infra.store, tech.ai, finance.new | [[hassan-allam-data-centre]] |
 | Algérie Télécom–Sparkle Italy–Algeria subsea cable (MoU) | DZA | infra.connect, finance.mou | [[algerie-telecom-sparkle-cable]] |
 | Algeria–Russia cybersecurity MoU (Positive Technologies × Proxylan/CERIST) | DZA | infra.cybersec, finance.mou | [[algeria-russia-cybersecurity-mou]] |
@@ -1180,6 +1188,8 @@ Databases, registries, datasets, tools and portals consulted repeatedly (entity_
 
 | Resource | Places | Topics | Page |
 |---|---|---|---|
+| Ghana.gov (national digital-services platform) | GHA | dpi.govtech, dpi.pay | [[ghana-gov-platform]] |
+| Digital Realty ACR2 (Accra data centre) | GHA | infra.store, infra.connect | [[digital-realty-accra]] |
 | Gabon National (Nkok) Data Centre | GAB | infra.store, gov.protect | [[gabon-national-datacenter]] |
 | GABIX (Gabon Internet Exchange Point) | GAB | infra.connect, dpi.exchange | [[gabix]] |
 | FaydaPass (Ethiopia digital-ID wallet) | ETH | dpi.id, dpi.pay | [[faydapass]] |
@@ -1271,6 +1281,7 @@ about or from one becomes a normal source that cites it.
 
 | Instrument | Places | Topics | Page |
 |---|---|---|---|
+| Ghana Data Harmonisation Bill 2025 | GHA | gov.legislate, dpi.exchange | [[ghana-data-harmonisation-bill]] |
 | Egypt National AI Strategy (2nd edition, 2025) | EGY | tech.ai, gov.policy | [[egypt-ai-strategy]] |
 | Egypt Startup Charter | EGY | tech.innovate, finance.new, gov.policy | [[egypt-startup-charter]] |
 | Algeria National ISS Strategy 2025–2029 | DZA | infra.cybersec, gov.policy | [[algeria-national-cybersecurity-strategy-2025-2029]] |

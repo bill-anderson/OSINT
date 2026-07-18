@@ -6,13 +6,40 @@ parent: XWA
 place_kind: country
 topics: [gov.policy, capacity.training, gov.legislate, tech.innovate, finance.new, tech.ai, dpi.pay, infra.store, geopol.china, geopol.usa, include.divides, include.access, dpi.id, dpi.registry, dpi.govtech, dpi.mis, data.statistics, gov.standards, gov.protect, infra.connect, infra.cybersec, tech.industry, gov.regional, dpi.exchange, finance.mou, digital.rural, digital.localgov, data.satellite]
 status: active
-last_reviewed: 2026-07-16
+last_reviewed: 2026-07-18
 ---
 
 # Ghana (GHA)
 
 ## Recent developments
 
+- **2026-07** — **L.I. 2111: biometric-only Ghana Card verification.** Amendment gazetted making **biometric
+  verification the only lawful means** of verifying a Ghana Card holder — **photocopying/visual inspection now a
+  criminal offence** (fines to GH¢24,000). See [[national-identification-authority-ghana]], [[ghana--dpi-id]].
+  Sources: [[2026-07-15-photocopying-ghana-card-illegal-fines-graphic]],
+  [[2026-07-15-biometric-verification-mandatory-ghana-card-myjoy]].
+- **2026-07** — **5G market opened; fintech enforcement.** Government **ended [[ngic-ghana|NGIC]]'s wholesale-5G
+  exclusivity** and opened **spectrum-licence applications** (MTN/Telecel to bid); the BoG **revoked
+  [[zeepay-ghana|Zeepay]]'s DEMI licence** and unveiled a **new digital-banking framework**; **[[nita-ghana|NITA]]**
+  is being split (regulatory/commercial) with a new DG. See [[ghana--infra-connect]], [[ghana--dpi-pay]],
+  [[ghana--gov-protect]]. Sources: [[2026-07-09-ghana-widens-5g-competition-ngic-exclusivity-ended-itweb]],
+  [[2026-07-15-zeepay-licence-revocation-myjoy]], [[2026-07-16-nita-split-regulatory-commercial-myjoy]].
+- **2026-04** — **$270m National AI Strategy launched** (Mahama; $250m compute + $20m fund) — triggering a
+  home-grown **digital-sovereignty / data-colonialism** debate (Ghana rejected a US $109m health-data deal). See
+  [[ghana-national-ai-strategy]], [[ghana--tech-ai]]. Sources:
+  [[2026-04-25-president-unveils-270m-national-ai-strategy-graphic]],
+  [[2026-04-29-sovereignty-paradox-data-colonialism-myjoy]].
+- **2025–26 — payments at scale & GovTech.** MoMo hit **GH¢4.5tn (2025)**; **[[ghipss-ghana|GhIPSS]]** pushes
+  cross-border (ISO 20022); a **Continental Digital Trade Corridor** (Ghana/Rwanda/Zambia); **Ghana.gov** revamp
+  to 16,000 services (**$200m WB** project); **GHIMS** health-MIS reset after a **$77m** contract scandal. See
+  [[ghana--dpi-pay]], [[ghana--dpi-govtech]]. Sources: [[2026-01-29-momo-2025-4-5-trillion-myjoy]],
+  [[2026-05-07-ghana-afcfta-digital-trade-pilot-graphic]].
+- **2025–26 — data governance.** New **[[data-protection-commission-ghana|DPC]] board** (chair Teki Akuetteh);
+  **[[ghana-data-harmonisation-bill|Data Harmonisation Bill 2025]]** and the "15 digital bills" agenda; a
+  **[[digital-realty-accra|Digital Realty ACR2]]** data centre (Accra). Statistics: the Finance Minister urged
+  **GSS quarterly employment data**, and the National Development Planning Commission pushed data-driven
+  governance (GSS data-sharing with 25 MDAs). Sources:
+  [[2026-07-15-finance-minister-gss-quarterly-employment-data-myjoy]], [[2026-06-05-ndpc-data-literacy-week-myjoy]].
 - **2026-07-01** — **[[google]]** announced **Africa's first applied AI lab in Ghana**
   (Accra AI Community Center; applications close 31 Aug 2026), part of the five
   initiatives unveiled at its Johannesburg Africa Cloud Summit. Source:
@@ -281,12 +308,13 @@ last_reviewed: 2026-07-16
 - [[margins-id-group]] · [[gambia-national-id-contract]] · [[ghana-domain-name-registry]]
 - [[mtn-ghana]] · [[mtn-group]] · [[ralph-mupita]]
 - [[bank-of-ghana]] · [[papss]] · [[onafriq]] · [[onafriq-papss-ghana-launch]] · [[afreximbank]] · [[afcfta]] · [[cbn]] · [[cbn-policy-insight-series-2025]] · [[ecowas]]
-- Gov bodies / regulators: [[national-identification-authority-ghana]] · [[data-protection-commission-ghana]] · [[national-communications-authority-ghana]] · [[ghana-health-service]] · [[lands-commission-ghana]]
-- Initiatives / instruments: [[ghana-national-data-strategy]] · [[leap-ghana]] · [[ghana-digital-health-policy-2023-2027]]
-- Infrastructure / data: [[digital-realty]] · [[2africa-cable]] · [[dial]]
+- Gov bodies / regulators: [[national-identification-authority-ghana]] · [[data-protection-commission-ghana]] · [[national-communications-authority-ghana]] · [[ghana-health-service]] · [[lands-commission-ghana]] · [[nita-ghana]] · [[gifec-ghana]] · [[ghipss-ghana]]
+- Initiatives / instruments: [[ghana-national-data-strategy]] · [[ghana-national-ai-strategy]] · [[leap-ghana]] · [[ghana-digital-health-policy-2023-2027]] · [[ghana-data-harmonisation-bill]] · [[ghana-gov-platform]] · [[ghana-digital-acceleration-project]] · [[ghana-continental-digital-trade-corridor]]
+- Payments / fintech: [[bank-of-ghana]] · [[ghipss-ghana]] · [[momo-fintech-ghana]] · [[zeepay-ghana]]
+- Connectivity / infrastructure: [[ngic-ghana]] · [[digital-realty-accra]] · [[2africa-cable]] · [[dial]]
+- Intersections: [[ghana--dpi-id]] · [[ghana--dpi-pay]] · [[ghana--dpi-govtech]] · [[ghana--gov-protect]] · [[ghana--infra-connect]] · [[ghana--tech-ai]]
 - Mentioned, not hubbed: Ministry of Communication, Digital Technology and Innovations;
-  UNESCO; GIZ FAIR Forward; The Future Society; Niloy Banerjee (UNDP Ghana); Google Africa
-  Applied AI Lab (Accra); Girls in ICT / One Million Coders programmes; Nii Narku Quaynor
-  (.gh pioneer); Moses Kwesi Baiden Jnr (Margins CEO); Prof. Kenneth Agyemang Attafuah &
-  Wisdom Kwaku Deku (NIA); Patricia Adusei-Poku (DPC ED); **GhIPSS**; **GIFEC**; **NITA**;
-  Cyber Security Authority (CSA); Biometric Travel Solutions (chip passport).
+  UNESCO; GIZ FAIR Forward; The Future Society; Google Africa Applied AI Lab (Accra); Girls in
+  ICT / One Million Coders programmes; Moses Kwesi Baiden Jnr (Margins CEO); Wisdom Kwaku Deku
+  (NIA ES); Teki Akuetteh (DPC board chair); Nana Yaw Amoah-Yeboah (NITA DG); Cyber Security
+  Authority (CSA); Trident/Aliska (GRA MSME platform).
