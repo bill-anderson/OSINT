@@ -5959,3 +5959,10 @@ launched by Barrow 1 Jul 2026, instant GAM ID, Margins BOT, Abuko National Data 
 Updated gambia-national-id-contract (local signing twins, 10-yr validity/free replacement/8-yr term/70-30 revenue share/
 phase-2 data centre). ID-eCRVS-passport integration policy (Barrow SoNA 2025); UDP unlawful-ID-abroad allegation (Mauritania/
 Congo/Togo, election-integrity). Twins kept as complementary: Margins signing (Point+Standard); NIMS launch (Standard+biometricupdate).
+
+## 2026-07-18 — ingest(GMB) chunk 2/5: Data centres, connectivity & Starlink
+7 sources admitted. New intersection `gambia--infra-connect`. Entities: gambia-starlink-licence (deal; stalled licence —
+Starlink paid fee Dec 2024, unissued >1yr, minister refused VSAT category despite US pressure; data-sovereignty conditions
+debate; geopol.usa), qgroup-house-datacentre (resource; first PRIVATE data centre, QGroup/QCell/QFiber, Huawei 17-yr partner,
+Barrow inaugurated 30 Apr 2026, geopol.china). Two 2026 data-centre openings (QGroup private + Abuko National/state);
+balanced fibre+satellite strategy. QGroup twins (Point+Standard) kept complementary.
