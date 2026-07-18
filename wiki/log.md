@@ -5205,3 +5205,14 @@ digital birth certs with full legal worth), [[cameroon--dpi-id]] intersection su
 (priced gateway; ELECAM election-side register + ~12,000 fingerprint-exclusion harm 2024; Impact Palmarès
 consular+printing; taxi/student sectoral IDs; MINDCAF chief non-objection letter). CMR hub roll-up deferred
 to finalize. All 14 sources moved new→raw. Note: student/taxi ID and e-Visa cross-cited from later chunks.
+
+### 2026-07-18 · ingest CMR · chunk 2/8 — AI strategy (SNIA) chain
+**16 sources admitted.** Re-dated the SNIA: origin **CONIA 25–26 Jun 2024** (not 2025), authored on public
+tender by **[[cabinet-danielle-moukouri]]** (a digital-law firm — corrects the wiki's implied "ST Digital
+leads"; ST Digital is the infra partner). Rewrote [[snia-cameroon]] with the **7 pillars / 2040 roadmap**
+(AI Authority + Presidential Council, "GPT Cameroon" LLM, 15 solar edge nodes, 60k specialists/40% women,
+12k jobs, +0.8–1.2% GDP) and benchmarks (AFD 30/100 Jan 2025; ITU 46.3/100, 30th of 42, 2025). New entities:
+[[conia]], [[cabinet-danielle-moukouri]], [[ministry-of-posts-and-telecommunications-cameroon]]. New
+intersection **[[cameroon--tech-ai]]** (policy chain + societal contestation: CENC bishops, Oct-2025
+campaign, Camrail, SME framing). Added CMR index line to [[tech.ai]] concept. Provisional re-dating is a
+tier-2 action (digest). All 16 moved new→raw. CMR hub roll-up deferred to finalize.
