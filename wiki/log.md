@@ -5498,3 +5498,17 @@ labour survey; BEAC BoP collapse 98%→41.81%), [[cntr-congo]] (fiscal-transpare
 roadmap; EGDI 166th, awaiting decree) and [[national-personal-data-protection-commission-congo]] (legal
 instruments: Decree 2025-538, Law 29-2019; magistrates enforcement layer). All 8 moved new→raw. **new/
 empty — 63 admitted, 1 pruned.**
+
+### 2026-07-18 · ingest COG · BATCH COMPLETE
+**62 sources admitted, 0 leads, 0 discards, 1 pruned.** From 63 staged (23 newspaper/ADIAC + 40 trade-
+journal). **~17 new entities** + **2 new intersections** ([[congo--infra-connect]], [[congo--dpi-pay]] +
+expanded [[congo--dpi-id]]). COG hub updated. Highlights: **new minister Frédéric Malik Nguema Nzé**
+(supersedes Ibombo); **National Data Centre stalled on gov non-payment→inaugurated**; **CARIA built with
+China (CAICT) AND Russia (Sberbank debt-swap)**; ANSSI/AI-strategy (lingala/kituba); ARPCE enforcement vs
+structural rural-cost problem; satellite = Eutelsat/OneWeb not Starlink; UNECA data-governance strategy.
+**Mechanical fixes (tier-1):** re-dated + renamed the held GSMA source **2026-01-01(proxy)→2026-06-22**
+(links updated). **Filed contradiction** `congo-datacentre-afdb-financing` ($13m vs $57m AfDB). Russia/CARIA
+rides open **ISSUE-014** (no geopol.russia slug). Figure caveats recorded inline (66-vs-76 PATN sites;
+61%-vs-19% mobile internet). Indexes updated (11 entities; COG places-index row). MANIFEST → new-queue/
+done/COG/. Ingested in 6 thematic chunks. All 62 source links lint clean (0 unresolved, 0 orphans).
+Note: COG paper's real article domain is **adiac-congo.com** (ledger correction for the human).

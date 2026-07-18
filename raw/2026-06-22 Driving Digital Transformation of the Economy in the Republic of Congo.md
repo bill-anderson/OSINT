@@ -4,9 +4,9 @@ title: "Driving Digital Transformation of the Economy in The Republic of Congo â
 url: https://www.gsma.com/newsroom/press-release/new-gsma-report-digital-reforms-could-unlock-fcfa-870-billion-and-connect-over-540000-more-people-in-the-republic-of-the-congo-by-2030/
 publisher: GSMA (GSMA Intelligence)
 author: GSMA
-published: 2026-01-01
-date_precision: year
-date_source: proxy
+published: 2026-06-22
+date_precision: day
+date_source: source
 ingested: 2026-07-14
 places: [COG, XCA, XSS]
 topics: [infra.connect, dpi.pay, gov.protect, infra.cybersec, tech.ai, include.divides, digital.rural, finance.new]

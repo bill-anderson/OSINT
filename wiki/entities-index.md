@@ -6,6 +6,10 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 
 | Entity | Places | Topics | Page |
 |---|---|---|---|
+| Congo Télécom | COG | infra.connect, tech.industry | [[congo-telecom]] |
+| Gozem (Congo-Brazzaville) | COG, TGO | dpi.pay, tech.innovate | [[gozem-congo]] |
+| Kerry Payments (Congo-Brazzaville) | COG | dpi.pay, dpi.exchange | [[kerry-payments-congo]] |
+| DigiPay (Congo-Brazzaville) | COG, FRA, BEL | dpi.pay, finance.mou | [[digipay-congo]] |
 | DERMALOG | DEU, COD | dpi.id, dpi.registry | [[dermalog]] |
 | Genew Technologies | CHN, COD | infra.connect, geopol.china | [[genew-technologies]] |
 | Paratus Group | COD, XAF | infra.connect | [[paratus-group]] |
@@ -237,6 +241,7 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 
 | Entity | Places | Topics | Page |
 |---|---|---|---|
+| CARIA (Congo) | COG | tech.ai, capacity.training, geopol.china | [[caria-congo]] |
 | EXIM Bank (Export-Import Bank of the USA) | XGL, CIV | finance.new, geopol.usa, infra.store | [[exim-bank-usa]] |
 | VITIB (Grand-Bassam technology park) | CIV | infra.store, tech.industry | [[vitib]] |
 | ARTAC (Central African telecom regulators) | XCA | gov.regional, gov.standards | [[artac]] |
@@ -405,6 +410,10 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 
 | Entity | Places | Topics | Page |
 |---|---|---|---|
+| ANSSI (National Cybersecurity Agency, Congo-Brazzaville) | COG | infra.cybersec, gov.regional | [[anssi-congo]] |
+| FASUCE (universal-access fund, Congo-Brazzaville) | COG | infra.connect, include.access | [[fasuce-congo]] |
+| INS (National Institute of Statistics, Congo-Brazzaville) | COG | data.statistics | [[ins-congo]] |
+| CNTR (fiscal-transparency body, Congo-Brazzaville) | COG | data.open, gov.policy | [[cntr-congo]] |
 | FDSU (Universal Service Development Fund, DR Congo) | COD | infra.connect, include.access, digital.rural | [[fdsu-drc]] |
 | BCC (Banque Centrale du Congo) | COD | dpi.pay, finance.new | [[banque-centrale-du-congo]] |
 | ANSSI (National Info-Systems Security Agency, CIV) | CIV | infra.cybersec, gov.legislate | [[anssi-cote-divoire]] |
@@ -1196,6 +1205,8 @@ about or from one becomes a normal source that cites it.
 
 | Instrument | Places | Topics | Page |
 |---|---|---|---|
+| Congo-Brazzaville National AI Strategy | COG | tech.ai, gov.policy | [[congo-ai-strategy]] |
+| Congo-Brazzaville National Data Governance Strategy | COG | data.open, gov.policy | [[congo-data-governance-strategy]] |
 | DR Congo Access to Information bill | COD | data.open, gov.legislate | [[access-to-information-bill-drc]] |
 | TICEF (DR Congo national ICT-for-education policy) | COD | gov.policy, dpi.mis | [[ticef-drc]] |
 | Côte d'Ivoire National AI Strategy | CIV | tech.ai, gov.policy | [[civ-ai-strategy]] |

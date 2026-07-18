@@ -4,9 +4,9 @@ title: Congo (Republic of / Brazzaville)
 code: COG
 parent: XCA
 place_kind: country
-topics: [gov.protect, gov.legislate, dpi.id, dpi.registry, infra.connect, infra.store, dpi.pay, dpi.govtech, gov.policy, gov.regional, tech.ai, finance.new, include.access, include.divides]
+topics: [gov.protect, gov.legislate, dpi.id, dpi.registry, infra.connect, infra.store, dpi.pay, dpi.govtech, gov.policy, gov.regional, tech.ai, finance.new, include.access, include.divides, geopol.china, geopol.eu, infra.cybersec, capacity.training, capacity.literacy, data.satellite, data.open, data.statistics, digital.rural, gov.standards, tech.industry, tech.innovate]
 status: active
-last_reviewed: 2026-07-15
+last_reviewed: 2026-07-18
 ---
 
 # Congo-Brazzaville (COG)
@@ -46,14 +46,23 @@ are arriving, though GSMA flags weak connectivity (18.8% unique mobile-internet 
   [[patn-congo]]. Source: [[2024-05-28 Congo allocates $63.9m for 2024 digital transformation (PATN)]].
 - **2024-02-28** — **Pointe-Noire data centre + 2Africa cable landing** ([[arpce-congo]]; state's 2nd DC).
   See [[infra.store]]. Source: [[2024-03-11 Republic of Congo launches Pointe-Noire data centre for 2Africa cable]].
-- **2026-01** — **GSMA: reform the mobile sector or the digital strategy stalls.** A GSMA country study
-  finds Congo-B below African/CEMAC averages on connectivity and policy indices — ~100% SIM penetration
-  but only **18.8% unique mobile-internet use** (rural 4G 21%) — and diagnoses heavy taxes (2026 Finance
-  Law: 5% RGL levy, FCFA 10,000 SIM tax), high energy/infrastructure costs and an outdated 2009 legal
-  framework. Recommends a Cybersecurity & National Data Governance Strategy, ARPCE–BEAC mobile-money
-  co-regulation and a national AI strategy; models a **+FCFA 870bn (8%) GDP** gain by 2030 under the
-  [[congo-digital-strategy-2030]] / World Bank PATN.
-  [[2026-01-01 Driving Digital Transformation of the Economy in the Republic of Congo]] · [[infra.connect]] · [[dpi.pay]]
+- **2026-06-22 (re-dated)** — **GSMA: reform the mobile sector or the digital strategy stalls.** A GSMA
+  country study (launched at the GSMA Digital Africa Summit, Brazzaville — *previously held proxy-dated
+  2026-01-01, now correctly 22 Jun 2026*) finds Congo-B below African/CEMAC averages — **86% 4G coverage but
+  only 19% unique mobile-internet use**, Digital Nations index **26/100**, policy sub-index **33/100** — and
+  diagnoses heavy taxes, high energy/infrastructure costs and an outdated 2009 legal framework. Recommends a
+  Cybersecurity & **National Data Governance Strategy** (now underway with UNECA — [[congo-data-governance-strategy]]),
+  ARPCE–BEAC mobile-money co-regulation (a Kerry/PawaPay aggregator licence now tests it) and a **national AI
+  strategy** (now underway — [[congo-ai-strategy]]); models **+FCFA 870bn / $1.5bn and 144,000 jobs by 2030**.
+  Full connectivity case → **[[congo--infra-connect]]**.
+  [[2026-06-22 Driving Digital Transformation of the Economy in the Republic of Congo]] · [[infra.connect]] · [[dpi.pay]]
+- **National-press sweep (2025–26)** — the ADIAC/Les Dépêches + trade record adds: **new ICT minister
+  Frédéric Malik Nguema Nzé** (superseding Ibombo, Jul 2026); the **National Data Centre stalled on
+  government non-payment then inaugurated** (AfDB financing conflict $13m vs $57m — open contradiction);
+  **[[caria-congo|CARIA]]** built with **both China (CAICT) and Russia (Sberbank debt-swap)**; **[[anssi-congo|ANSSI]]**
+  and a national AI strategy (lingala/kituba); ARPCE **enforcement** (mise en demeure of MTN/Airtel) against
+  a **structural rural-cost problem** (backhaul spectrum 10× the SSA median); satellite running to
+  **Eutelsat/OneWeb, not Starlink**. See [[congo--infra-connect]], [[congo--dpi-pay]], [[congo--dpi-id]].
 
 ## Active topics
 
@@ -64,10 +73,21 @@ are arriving, though GSMA flags weak connectivity (18.8% unique mobile-internet 
 - **Digital strategy** ([[gov.policy]]) — the World Bank **[[patn-congo]]** ($100m) / "Congo Digital 2025" / [[congo-digital-strategy-2030]].
 - [[gov.protect]] · [[gov.legislate]] — **[[national-personal-data-protection-commission-congo]]**: independent DP
   authority (bill approved Jul 2024, members installed Jan 2026) underpinning the "digital rule of law."
+- **Connectivity** → **[[congo--infra-connect]]** — ARPCE enforcement; PATN underdelivery + EU/EIB limb;
+  **structural rural-cost problem**; WACS single-cable exposure; Eutelsat/OneWeb; China vectors (Wing Wah,
+  BeiDou); [[congo-telecom]] transit-hub bid; [[fasuce-congo]] universal-access fund.
+- **Payments** → **[[congo--dpi-pay]]** — MoMo duopoly (MTN/Airtel); [[kerry-payments-congo]]/PawaPay
+  aggregator licence; [[gozem-congo]] (Yango exited); [[digipay-congo]] remittances; SIM-terminal tax.
+- **AI, CARIA & cyber** — [[caria-congo]] (China CAICT + Russia Sberbank), [[congo-ai-strategy]]
+  (lingala/kituba), [[anssi-congo]] (Cyberdrill, first C.African cyber conference).
+- **Data & statistics** — [[congo-data-governance-strategy]] (UNECA); [[ins-congo]] (labour survey;
+  BEAC BoP collapse); [[cntr-congo]] (fiscal-transparency ECTR).
 
 ## Entities
 
 - **Identity/registry:** [[niu-congo]] · [[national-personal-data-protection-commission-congo]]
-- **Infrastructure:** [[patn-congo]] · [[arpce-congo]] · [[congo-national-data-centre]]
-- **Strategy/analysis:** [[congo-digital-strategy-2030]] · [[gsma]] · [[world-bank]]
-- Mentioned, not hubbed: ICT minister Léon Juste Ibombo; Thales; SIFEC (civil-status system); DGID (tax authority).
+- **Infrastructure:** [[patn-congo]] · [[arpce-congo]] · [[congo-national-data-centre]] · [[congo-telecom]] · [[fasuce-congo]]
+- **AI/cyber:** [[caria-congo]] · [[congo-ai-strategy]] · [[anssi-congo]]
+- **Payments:** [[kerry-payments-congo]] · [[gozem-congo]] · [[digipay-congo]] · [[beac]]
+- **Strategy/data/stats:** [[congo-digital-strategy-2030]] · [[congo-data-governance-strategy]] · [[ins-congo]] · [[cntr-congo]] · [[gsma]] · [[world-bank]]
+- Mentioned, not hubbed: **ICT minister Frédéric Malik Nguema Nzé** (from ~mid-2026; superseded Léon Juste Ibombo); Thales; SIFEC (civil-status system); DGID (tax authority); ADEN; Sopéco; GVA/CanalBox; Osiane.
