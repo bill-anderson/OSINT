@@ -5467,3 +5467,12 @@ Conseil national de sécurité; $1.3m budget, ARPCE-ANSSI MoU, 13th Cyberdrill, 
 conference), [[congo-ai-strategy]] (underway May 2026, UNDP; **lingala/kituba digitisation**). ARPCE
 regulation seminars (EU/HEC advisers) asserted DC-inaugurated + 5G-launched (primaries needed).
 Russia/CARIA rides open **ISSUE-014** (no geopol.russia slug). All 14 moved new→raw.
+
+### 2026-07-18 · ingest COG · chunk 3/6 — Connectivity & divides
+**22 admitted, 1 pruned (lint #7 thin twin).** New intersection [[congo--infra-connect]]; new entities
+[[congo-telecom]] (incumbent, ISO cert, transit-hub bid), [[fasuce-congo]] (universal-access fund).
+**ARPCE enforces** (mise en demeure MTN/Airtel; elections roaming); **structural cost problem** (backhaul
+spectrum 5% vs 0.5% SSA — 10×; ~80% rural no 4G); PATN underdelivery (20/76 sites; EU/EIB FCFA 27bn limb;
+66-vs-76 reconciled); WACS single-cable exposure; **satellite = Eutelsat/OneWeb, not Starlink**; China
+vectors (Wing Wah private net, BeiDou CFCO). **GSMA report re-dated to 22 Jun 2026** (held source to be
+re-dated at finalize). All 22 moved new→raw.
