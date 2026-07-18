@@ -6,6 +6,13 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 
 | Entity | Places | Topics | Page |
 |---|---|---|---|
+| Moniepoint | NGA, KEN | dpi.pay, finance.new | [[moniepoint]] |
+| Kenswitch | KEN | dpi.pay, infra.connect | [[kenswitch]] |
+| Bayobab | XAF, KEN, UGA | infra.connect, gov.regional | [[bayobab]] |
+| Angani Ltd | KEN | infra.store, infra.connect, tech.ai | [[angani]] |
+| TouchNet | XAF, KEN | infra.store, tech.ai | [[touchnet]] |
+| Baobab Cloud Services (Mitsumi) | KEN | infra.store, tech.ai | [[baobab-cloud]] |
+| Amazon Web Services (AWS) | XGL, KEN | infra.store, tech.ai | [[aws]] |
 | GETESA (Equatorial Guinea state telecom operator) | GNQ | infra.connect, geopol.china | [[getesa-gnq]] |
 | Telgesa (Equatorial Guinea 2nd state operator) | GNQ | infra.connect, tech.industry | [[telgesa-gnq]] |
 | BANGE (Banco Nacional de Guinea Ecuatorial) | GNQ | dpi.pay, finance.new | [[bange-gnq]] |
@@ -264,6 +271,7 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 
 | Entity | Places | Topics | Page |
 |---|---|---|---|
+| Nairobi Securities Exchange (NSE) | KEN | dpi.pay, finance.new | [[nairobi-securities-exchange]] |
 | CERIST (Algeria research centre) | DZA | capacity.research, infra.store, tech.innovate | [[cerist]] |
 | Fédération Nationale des Entreprises du Numérique (Djibouti) | DJI | tech.innovate, gov.regional | [[federation-entreprises-numeriques-djibouti]] |
 | CARIA (Congo) | COG | tech.ai, capacity.training, geopol.china | [[caria-congo]] |
@@ -435,6 +443,9 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 
 | Entity | Places | Topics | Page |
 |---|---|---|---|
+| National Registration Bureau (NRB, Kenya) | KEN | dpi.id, dpi.registry, dpi.govtech | [[national-registration-bureau]] |
+| Kenya National Bureau of Statistics (KNBS) | KEN | data.statistics, data.open, dpi.govtech | [[knbs]] |
+| National Cyber Security Agency (NCSA, Kenya) | KEN | infra.cybersec, gov.legislate, gov.protect | [[national-cyber-security-agency-kenya]] |
 | GITGE (state telecoms-infra manager, Equatorial Guinea) | GNQ | infra.connect, infra.store | [[gitge-gnq]] |
 | CNIAPGE (public-administration informatisation, Equatorial Guinea) | GNQ | dpi.govtech, gov.policy | [[cniapge-gnq]] |
 | NDASC (National Digital Addressing Steering Committee, The Gambia) | GMB | dpi.govtech, digital.localgov | [[ndasc-gambia]] |
@@ -750,6 +761,8 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 
 | Entity | Places | Topics | Page |
 |---|---|---|---|
+| eCitizen (Kenya govt digital-services platform) | KEN | dpi.govtech, dpi.pay, gov.protect | [[ecitizen]] |
+| Qubit Hub (Kenya AI research/innovation lab) | KEN | tech.ai, infra.store, tech.innovate | [[qubit-hub]] |
 | Equatorial Guinea Medusa / Via Africa submarine-cable plans | GNQ | infra.connect, gov.regional | [[gnq-medusa-cable]] |
 | ZEEDE-GE (Djibloho digital economic zone, Equatorial Guinea) | GNQ | infra.store, tech.ai | [[zeede-djibloho]] |
 | PN-RAVEC / RNPP & biometric electoral file (Guinea) | GIN | dpi.id, dpi.registry | [[pn-ravec-guinea]] |
@@ -1033,6 +1046,7 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 
 | Entity | Places | Topics | Page |
 |---|---|---|---|
+| Daraja subsea cable (Meta–Safaricom) | KEN | infra.connect, geopol.usa | [[meta-daraja-subsea-cable]] |
 | Starlink Gambia licence saga | GMB | infra.connect, geopol.usa | [[gambia-starlink-licence]] |
 | YCELL acquisition of 80% of GAMCEL | GMB | tech.industry, finance.new | [[gamcel-ycell-deal]] |
 | GAMTEL–SYSROAD $50m broadband PPP | GMB, SEN | infra.connect, finance.new | [[gamtel-sysroad-ppp]] |
@@ -1126,6 +1140,8 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 
 | Entity | Places | Topics | Page |
 |---|---|---|---|
+| William Kabogo Gitau (Kenya ICT & Digital Economy CS) | KEN | gov.policy, dpi.govtech | [[william-kabogo]] |
+| Immaculate Kassait (Kenya Data Protection Commissioner) | KEN | gov.protect, dpi.id | [[immaculate-kassait]] |
 | Abdelmadjid Tebboune (President, Algeria) | DZA | gov.policy | [[abdelmadjid-tebboune]] |
 | Meriem Benmouloud (Min. Digitalization & Statistics, Algeria) | DZA | gov.policy, dpi.govtech | [[meriem-benmouloud]] |
 | Sid Ali Zerrouki (Min. Post & Telecoms, Algeria) | DZA | infra.connect, gov.policy | [[sid-ali-zerrouki]] |
@@ -1206,6 +1222,7 @@ Databases, registries, datasets, tools and portals consulted repeatedly (entity_
 
 | Resource | Places | Topics | Page |
 |---|---|---|---|
+| LINX Nairobi (Internet Exchange Point) | KEN | infra.connect, dpi.exchange | [[linx-nairobi]] |
 | SIGF (civil-servant management system, Equatorial Guinea) | GNQ | dpi.govtech, dpi.mis | [[sigf-gnq]] |
 | NIMS (National Identity Management System, The Gambia) | GMB | dpi.id, infra.store | [[nims-gambia]] |
 | QGroup House data centre (The Gambia) | GMB | infra.store, geopol.china | [[qgroup-house-datacentre]] |

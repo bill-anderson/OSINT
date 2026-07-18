@@ -6119,3 +6119,32 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
   Ray-Ban Meta suo moto probe, 185 betting firms w/ children's data, public-trust op-ed) + cyber
   institutionalisation (presidency-portal hack, NCSA, WhatsApp official-secrets bill).
 - Note: 4 summary-only `[CLIP]` (The Standard: ODPC plan, public-trust op-ed, Kassait op-ed, cyber+AI).
+
+## 2026-07-18 — ingest(KEN) chunk 7/8 + finalize: Policy / innovation / EU + hub refresh
+
+- **5 sources admitted** (0 leads, 0 discards) — Nairobi-monopoly decentralisation, 2026 ICT Budget
+  Policy Statement, Technopolis Act, EU-Kenya Digital Partnership (KES 15.3bn / Blue Raman / DTC II /
+  adequacy track).
+- **Entities updated:** [[konza-technopolis]] (Technopolis Act statutory framework + Technopolis
+  Development Authority + innovation-decentralisation), [[european-union]] (EU-Kenya Digital Partnership
+  section).
+- **Vocab fixes:** source frontmatter `[[eu]]` → `[[european-union]]` (2 sources), `[[konza]]` →
+  `[[konza-technopolis]]` (1 source).
+- **Finalize:**
+  - [[KEN|Kenya hub]] refreshed — sweep-batch summary block (7 thematic anchors) atop Recent
+    developments; new entities + intersections added to Entities lists; last_reviewed → 2026-07-18.
+  - **entities-index.md** — 17 new KEN entities added (Companies 7, Government bodies 3, Organisations 1,
+    Initiatives 2, Deals 1, People 2, Resources 1).
+  - **places-index.md** — KEN row: new intersection cross-links (dpi.pay, infra.store, gov.protect,
+    infra.connect).
+  - **Lint:** all 84 KEN sources non-orphan; zero dead links across 30 created/edited pages.
+  - **Teardown:** `new-queue/KEN` → `new-queue/done/KEN`; `new/MANIFEST.md` drained; `new/` empty.
+  - **Gaps filed:** GAP-KEN-001 (Pesaflow/ECS consortium unpaged), GAP-KEN-002 (Qhala/Amini AI unpaged).
+
+### KEN ingest total (chunks 1-7): **84 sources admitted, 0 leads, 0 discards, 0 needs-clip**
+- Entities created: 24 (NRB, ecitizen, knbs, william-kabogo, immaculate-kassait, NCSA, moniepoint,
+  kenswitch, nairobi-securities-exchange, meta-daraja-subsea-cable, bayobab, linx-nairobi, angani, aws,
+  touchnet, baobab-cloud, qubit-hub). Intersections created: kenya--dpi-pay, kenya--infra-connect,
+  kenya--infra-store. Intersections updated: kenya--dpi-id, kenya--tech-ai, kenya--gov-protect.
+- 17 summary-only `[CLIP]` items (The Standard, paywalled) admitted with byline-verified dates —
+  full clip required on promotion.

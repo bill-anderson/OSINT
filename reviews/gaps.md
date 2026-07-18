@@ -583,3 +583,15 @@ study). See log.md.)*
   and promulgated as **Loi n°179/AN/25** (Journal Officiel 08/01/2026), but the wiki holds only trade-press
   reporting, not the gazetted text. *Lead: source the primary from eJO / journalofficiel.dj so the Act's
   provisions can be cited directly.* See [[djibouti--tech-innovate]]. (Surfaced DJI sweep ingest, 2026-07-18.)
+
+- **GAP-KEN-001 · Pesaflow / ECS consortium unpaged despite centrality to the eCitizen scandal.** The
+  [[ecitizen]] platform is operated by **ECS (Electronic Services Solutions LLP)** — Webmasters Kenya,
+  **Pesaflow** and Olive Tree — and Pesaflow is the named vehicle of the alleged **KES 6.3bn diversion**
+  and the Auditor-General's "single point of failure" finding. The consortium is referenced but has no
+  entity page. *Lead: source Pesaflow/ECS incorporation, ownership and the eCitizen contract terms to
+  hub the consortium behind the governance story.* See [[ecitizen]]. (Surfaced KEN sweep ingest, 2026-07-18.)
+- **GAP-KEN-002 · Qubit Hub participants Qhala and Amini AI unpaged.** The [[qubit-hub]] AI-infrastructure
+  collaboration names **Qhala (under QTrust)** and **Amini AI** (sovereign compute / AI-data
+  infrastructure) as core participants — both notable Kenyan AI-sovereignty players referenced with no
+  entity page of their own. *Lead: source primary profiles/funding for Qhala and Amini AI to hub them.*
+  See [[qubit-hub]]. (Surfaced KEN sweep ingest, 2026-07-18.)

@@ -87,6 +87,20 @@ revenue — reuse that GDPR and German informational self-determination would ba
 "wouldn't-fly-at-home" dependency critique. See [[KEN]], [[geopol.eu]], [[kenya-data-marketplace]].
 Source: [[2026-06-08 Kenya Wants to Sell Your Data. But It's Complicated]].
 
+## EU–Kenya Digital Partnership (2026-06)
+
+The EU deepened its bilateral digital engagement with Kenya on two tracks. A **KES 15.3bn** commitment
+under the **EU–Kenya Digital Partnership** targets digital infrastructure, connectivity and innovation —
+including **€37m for the Blue Raman submarine cable** (Djibouti–Somalia–Kenya–Tanzania), boosting
+regional bandwidth. And PS **[[john-tanui]]** held talks with an EU/Germany/Estonia/France delegation
+(GIZ, ESTDEV, Expertise France) under the **Digital Transformation Center Kenya (DTC II)** framework —
+digital jobs/BPO, AI & data-governance frameworks, and DPI/DPGs — explicitly working toward an **EU
+Adequacy Decision** to enable cross-border data flows. A Brussels-effect alignment play (cf. the
+[[kenya-ai-bill-2026]] EU-AI-Act transplant and the data-marketplace critique above). See [[KEN]],
+[[geopol.eu]], [[dpi.exchange]], [[kenya--infra-connect]]. Sources:
+[[2026-06-09-kenya-153bn-eu-digital-boost-techafricanews]],
+[[2026-06-18-kenya-eu-digital-cooperation-ai-dpi-techafricanews]].
+
 ## Related
 
 - [[eu-ai-act]]

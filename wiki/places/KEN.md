@@ -6,12 +6,40 @@ parent: XEA
 place_kind: country
 topics: [infra.store, dpi.pay, dpi.id, dpi.exchange, include.access, include.divides, gov.protect, gov.policy, gov.standards, gov.regional, gov.legislate, tech.ai, tech.innovate, tech.industry, geopol.usa, geopol.gulf, geopol.china, geopol.eu, geopol.india, dpi.govtech, dpi.mis, infra.connect, infra.cybersec, finance.mou, finance.new, data.open, data.statistics, data.satellite, infra.capacity, infra.energy, capacity.training, capacity.research, capacity.literacy, digital.rural]
 status: active
-last_reviewed: 2026-07-16
+last_reviewed: 2026-07-18
 ---
 
 # Kenya (KEN)
 
 ## Recent developments
+
+> **2026-07-18 KEN sweep batch (84 sources)** — a deep press-coverage tranche (since 2025-01) across
+> digital ID, payments, eCitizen, connectivity, data centres, AI, data protection and cyber. Consolidated
+> into thematic intersections rather than listed individually here; the anchors below point in.
+>
+> - **Digital ID / Maisha Namba** — access liberalisation (40k double-registered deregistered, vetting
+>   removed, free IDs), lifecycle CRVS (auto-ID at 18, digital birth-notification, 42m records digitised),
+>   ID-as-health-credential for minors, phone-number-as-identifier ruling, and the **NRB register × CCTV
+>   facial-recognition** surveillance proposal (KES 25bn). Full case: [[kenya--dpi-id]];
+>   [[national-registration-bureau]].
+> - **Payments** — CBK deems M-Pesa **systemically critical** (KES 83.7tn, ~4× GDP); Fintech-2.0 core
+>   migration; national-switch contest ([[kenswitch]]-Visa vs Pesalink); [[moniepoint]] entry; Fuliza KES
+>   1.46tn; AI-decisioning suit + SIM-swap liability. Hub: [[kenya--dpi-pay]].
+> - **eCitizen** — 22k services / KES 600m-a-day but Auditor-General "single point of failure", KES 9.4bn
+>   diversion + **KES 6.3bn Pesaflow heist**, KES 50-fee struck down, migration non-compliance.
+>   [[ecitizen]].
+> - **Connectivity** — 84.1m SIMs (Safaricom 68.9%), Starlink top-10 fixed ISP, 25-year licence, Daraja
+>   cable, LINX Nairobi peering. Hub: [[kenya--infra-connect]].
+> - **Data centres / sovereign cloud** — the iXAfrica-anchored sovereign-cloud wave (TouchNet, Servernah,
+>   Baobab), [[qubit-hub]] AI-compute, Airtel DC. Hub: [[kenya--infra-store]].
+> - **AI & data protection** — AI Strategy Roadmap 2025-30; **AI-as-surveillance** (policing + KES 2.7bn
+>   social-media AI); ODPC enforcement (Ray-Ban Meta probe, betting-firms/children's data); the
+>   **[[national-cyber-security-agency-kenya|NCSA]]** + WhatsApp official-secrets bill. See
+>   [[kenya--tech-ai]], [[kenya--gov-protect]].
+> - **Policy/EU** — 2026 ICT Budget Policy Statement (MTP IV alignment); **Technopolis Act**; EU–Kenya
+>   Digital Partnership (KES 15.3bn, Blue Raman, DTC II, adequacy-decision track). Source:
+>   [[2026-02-20-kenya-ict-budget-policy-statement-techafricanews]]; see [[european-union]],
+>   [[konza-technopolis]].
 
 - **2026-07-13** — **EBRD €270m to Yas for Kenya + Senegal fibre.** The **[[ebrd]]** extended a
   senior facility of up to **€270m** to **[[yas]]** ([[axian-telecom]]) for 4G/5G/fibre, with the
@@ -188,6 +216,12 @@ _Older dated developments (through early 2026) are preserved in their linked sou
   [[consumer-federation-of-kenya]] · [[africa-ai-declaration]]
 - Batch (2026-07-16): [[maisha-namba]] · [[kenya-dpi-roadmap]] · [[kenya-national-digital-masterplan]] ·
   [[social-health-authority-kenya]] · [[ardhisasa]] · [[inua-jamii]] · [[airtel-africa]] (Nxtra Tatu City)
+- KEN sweep batch (2026-07-18): [[national-registration-bureau]] · [[ecitizen]] · [[knbs]] ·
+  [[william-kabogo]] · [[immaculate-kassait]] · [[national-cyber-security-agency-kenya]] · [[moniepoint]] ·
+  [[kenswitch]] · [[nairobi-securities-exchange]] · [[meta-daraja-subsea-cable]] · [[bayobab]] ·
+  [[linx-nairobi]] · [[angani]] · [[touchnet]] · [[baobab-cloud]] · [[qubit-hub]] · [[aws]]
+- KEN sweep intersections (2026-07-18): [[kenya--dpi-pay]] · [[kenya--infra-connect]] ·
+  [[kenya--infra-store]] (+ updated [[kenya--dpi-id]], [[kenya--tech-ai]], [[kenya--gov-protect]])
 - Mentioned, not hubbed: IXAfrica, Mojaloop Foundation, DPI4Africa; John Tanui (PS,
   State Dept of ICT & Digital Economy); Immaculate Kassait (Data Protection Commissioner);
   Emmanuel Kata (ICT Security Directorate); David Bunei (Oracle Kenya); EverseTech (Michael
