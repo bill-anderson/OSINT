@@ -76,6 +76,16 @@ platforms.
   [[2025-03-31 Vodacom opens data center in Maputo, Mozambique]],
   [[2025-04-23 Vodacom Business Data Centre - A Strategic Step Towards Business Digitalisation in Mozambique]].
 
+- **Lesotho — market leader at 30 (2025-26).** [[infra.connect]] Vodacom Lesotho (80% Group / 20%
+  Sekha-Metsi) marked 30 years with **1.21m customers / 85% share**, 422 base stations, and **14,000
+  M-Pesa agents**; it invested **$40m** in a network/AI upgrade (Joosub visit; AWS digital-skills pledge),
+  engaged the government on digitisation ("as in Kenya and Egypt"), and spun M-Pesa off as **VCL
+  Financial Services** — amid LCA consumer-protection/UAF scrutiny. See [[LSO]], [[lesotho--infra-connect]].
+  Sources: [[2026-06-17-vodacom-lesotho-30-years-publiceye]],
+  [[2026-03-13-vodacom-40m-investment-vcl-financial-itweb]],
+  [[2025-08-25-vodacom-network-upgrade-joosub-techafricanews]],
+  [[2026-02-17-lesotho-vodacom-digitisation-partnership-itweb]].
+
 See [[ZAF]], [[KEN]], [[safaricom]], [[dpi.pay]], [[XEA]].
 
 ## Sources

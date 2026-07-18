@@ -5,11 +5,11 @@ place: LSO
 topic: infra.connect
 places: [LSO]
 topics: [infra.connect, data.satellite, gov.legislate, geopol.usa, include.divides, digital.rural, dpi.pay, tech.ai]
-entities: [[starlink], [t-connect-lesotho], [lesotho-communications-authority], [vodacom]]
+entities: [[starlink], [t-connect-lesotho], [lesotho-communications-authority], [vodacom], [econet-telecom-lesotho]]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2025-03-11-starlink-opposition-section2-connectingafrica]], [[2025-04-22-starlink-licence-mixed-reactions-publiceye]], [[2025-06-30-starlink-launch-tconnect-lestimes]], [[2025-07-01-starlink-launch-publiceye]], [[2025-09-12-tconnect-community-hotspots-publiceye]], [[2026-01-17-tconnect-impact-soofia-school-publiceye]]]
+sources: [[[2025-03-11-starlink-opposition-section2-connectingafrica]], [[2025-04-22-starlink-licence-mixed-reactions-publiceye]], [[2025-06-30-starlink-launch-tconnect-lestimes]], [[2025-07-01-starlink-launch-publiceye]], [[2025-09-12-tconnect-community-hotspots-publiceye]], [[2026-01-17-tconnect-impact-soofia-school-publiceye]], [[2025-05-21-econet-ran-network-upgrade-lestimes]], [[2025-06-20-econet-5g-network-upgrade-techafricanews]], [[2025-07-11-econet-wifi-plus-fmc-lestimes]], [[2025-08-25-vodacom-network-upgrade-joosub-techafricanews]], [[2026-02-17-lesotho-vodacom-digitisation-partnership-itweb]], [[2026-03-13-vodacom-40m-investment-vcl-financial-itweb]], [[2026-06-17-vodacom-lesotho-30-years-publiceye]]]
 ---
 
 # Lesotho × Connectivity
@@ -39,6 +39,27 @@ and rural coverage — in a market with 100% broadband *coverage* but only ~50% 
   **Soofia International School, Butha-Buthe** — reaching the ~80% of the rural population offline.
   Sources: [[2025-09-12-tconnect-community-hotspots-publiceye]], [[2026-01-17-tconnect-impact-soofia-school-publiceye]].
 
+## MNO networks — Econet & Vodacom
+
+- **Econet — RAN, 5G, Wi-Fi Plus (2025).** [[tech.industry]] **[[econet-telecom-lesotho|ETL]]** ran a
+  phased Maseru **RAN/transport upgrade** ("Re le Utloile"), grew **5G sites 54→149 on 700MHz** with
+  AI-driven network ops, and launched **Wi-Fi Plus** fixed-mobile convergence. Sources:
+  [[2025-05-21-econet-ran-network-upgrade-lestimes]], [[2025-06-20-econet-5g-network-upgrade-techafricanews]],
+  [[2025-07-11-econet-wifi-plus-fmc-lestimes]].
+- **Vodacom — upgrades, AWS skills, govt digitisation (2025-26).** [[geopol.usa]] **[[vodacom]]** upgraded
+  its network (Group CEO **Joosub** visit, PM meeting), pledging government online-payments support and
+  **free digital-skills training with [[aws|AWS]]**; then a **$40m (M700m)** phased upgrade with AI across
+  network/customer/HR. The government engaged Vodacom (delegation led by Vodafone-Egypt CEO Mohamed
+  Abdallah) to modernise government systems "as it did in **Kenya and Egypt**." Sources:
+  [[2025-08-25-vodacom-network-upgrade-joosub-techafricanews]], [[2026-02-17-lesotho-vodacom-digitisation-partnership-itweb]],
+  [[2026-03-13-vodacom-40m-investment-vcl-financial-itweb]].
+- **Vodacom at 30 — market baseline (2026-06).** [[include.access]] From one portable base station (1996)
+  to **1.21m customers / 85% share**, **422 base stations (101 solar)**, 2G 97% / 3G 98% / 4G 96%
+  coverage, and **14,000 M-Pesa agents**. Its mobile money was spun off as **VCL Financial Services** (2026)
+  for regulatory alignment, adding savings/investment products — while the **LCA** cited it for
+  consumer-protection and Universal Access Fund compliance issues. Sources:
+  [[2026-06-17-vodacom-lesotho-30-years-publiceye]], [[2026-03-13-vodacom-40m-investment-vcl-financial-itweb]].
+
 ## Links
 
-Place: [[LSO]] · Concepts: [[infra.connect]] · [[data.satellite]] · Entities: [[starlink]] · [[t-connect-lesotho]] · [[lesotho-communications-authority]] · [[vodacom]] · Region: [[XSA]] · See also [[lesotho--tech-ai]]
+Place: [[LSO]] · Concepts: [[infra.connect]] · [[data.satellite]] · Entities: [[starlink]] · [[t-connect-lesotho]] · [[lesotho-communications-authority]] · [[vodacom]] · [[econet-telecom-lesotho]] · Region: [[XSA]] · See also [[lesotho--tech-ai]]

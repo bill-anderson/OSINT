@@ -6246,3 +6246,13 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
   (company — exclusive Starlink reseller).
 - Note: 2026-01-17 body carries a "15 January 2025" date that is a typo for 2026 (per 2026-01-17 pub +
   URL path); `published` kept as 2026-01-17.
+
+## 2026-07-18 — ingest(LSO) chunk 3/5: Connectivity — MNO networks
+
+- **7 sources admitted** (0 leads, 0 discards).
+- **Intersection extended:** [[lesotho--infra-connect]] — MNO section: Econet RAN/5G(54→149 on 700MHz)/
+  Wi-Fi Plus; Vodacom upgrades + Joosub/AWS + govt-digitisation (Kenya/Egypt model) + $40m/AI +
+  M-Pesa→VCL Financial Services spin-off; Vodacom-at-30 baseline (1.21m customers, 85% share, 422 base
+  stations, 14,000 M-Pesa agents).
+- **Entity created:** [[econet-telecom-lesotho]] (company — MNO, 70/30 ownership, EcoCash).
+- **Entity updated:** [[vodacom]] (Lesotho market-leader bullet).
