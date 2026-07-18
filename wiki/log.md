@@ -5750,3 +5750,10 @@ pdpc-egypt (Cairo ICT data-sovereignty framing, acting-CEO).
 9 commercial-registry exclusive from 1 Jan 2026) and egypt--dpi-govtech (GTMI 22nd/0.911 Group A + Open Data Policy;
 AI-readiness 52nd; e-gov 77th; GAFI 460-service licensing platform; Unified Government Services Card, Port Said pilot 41,500
 families, Egypt Post-linked). No new entities (updates to existing platform pages).
+
+## 2026-07-18 — ingest(EGY) chunk 6/6: AI, cyber, skills & industry
+5 sources admitted. New intersection `egypt--tech-ai`. Entities: egypt-ai-strategy (instrument, 2nd National AI Strategy
+2025, Karnak LLM, ECRAI, council→AI+quantum+emerging, 1st Africa/51st AI-readiness, ITU cyber 100%), egypt-startup-charter
+(instrument, EGP 50bn/5,000 startups/$5bn/500k jobs; InfiniLink→GlobalFoundries), itida-egypt (govt-body, EY MENA ITO MoU
+1,000+ jobs). NTI Cybersecurity SuperHero Academy (6,000 trainees/17 govs, EG-CERT/Fortinet/Cisco); Egypt-UK ICT (no geopol.uk).
+CURRENCY: MCIT minister Amr Talaat (through early 2026) → Raafat Hindi (Senate AI session Jun 2026) — handover noted dated on mcit-egypt.
