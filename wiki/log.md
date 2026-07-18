@@ -5935,3 +5935,10 @@ GovStack/WARDIP; digital Journal Officiel; eCNSS; LANDAYA e-permits; vehicle-att
 payments infra, 36 countries, $13m, ex-Flutterwave COO Awa Koné), coris-money-guinea (resource; Coris Bank e-money for
 unbanked, Feb 2026), ks-wallet-guinea (resource; BGB Solutions non-bank e-wallet, 200+ country remittance). Orange Money
 "Accès à ma banque" wallet↔bank interop with BNG; Visa-MoF MoU talks. 2026 private fintech wave atop the state instant-payment build.
+
+## 2026-07-18 — ingest(GIN) chunk 5/5: Data governance, cyber, AI & inclusion
+6 sources admitted. Entities: guinea-data-governance-strategy (instrument; DNTIEN-led, launched 19 Jun 2026, UNECA/GIZ,
+AU Data Policy Framework), guinea-digital-services-tax (instrument; 3% RCN on foreign streaming/cloud/SaaS/ads/e-commerce,
+decree 21 May 2026, tiered 1.5-7%, exempt <250m GNF, creates FSN Digital Sovereignty Fund + PARN), ansuten-guinea (govt-body;
+universal-service agency, 90% rural by 2030, GIS, N'Zérékoré hub, Univ Connect — RESOLVES part of GAP-GIN-001), douia2-guinea
+(initiative; DouIA2 + Manifesto of Conakry AI phase 2). Cyber law/HAC web-media noted.
