@@ -32,6 +32,12 @@ its regional markets. Deputy CEO, COO and co-founder: **Demos Kyriacou**.
   debut follows a **$60m raise** to fast-track expansion across its East African markets —
   **Djibouti, Ethiopia and Tanzania**. See [[TZA]], [[DJI]]. Source:
   [[2026-04-01 Wingu Africa debuts cloud exchange platform in Ethiopia]].
+- **$60m raise — the primary (2025-06).** The **$60m** came from **Rand Merchant Bank (RMB)** to fund
+  hyperscale/cloud/enterprise expansion; in Ethiopia Wingu's **Tier III campus hosts the ADDIX exchange** (a
+  cloud/content-acceleration foundation), and it opened a **second Djibouti site** (integrated cable landing +
+  data centre; 12 operational subsea cables; AMS-IX Djibouti IX). CEO Anthony Voscarides framed it as "an
+  investment in Africa's digital independence." Source:
+  [[2025-06-06-wingu-africa-secures-60m-east-africa-connectingafrica]].
 - **Horn-of-Africa hub footprint (2026-01).** Wingu's Djibouti technology park is cited among
   the infrastructure anchoring the Horn's rise as a set of "digital powerhouses" — the
   city-state's carrier-neutral Tier-3 ecosystem (12 subsea landings, 65% penetration, the

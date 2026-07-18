@@ -5792,3 +5792,10 @@ window, 2,000 kits, DE2030) is already merged into held primary raw/2025-12-10 N
 Ericsson 1,500 sites/ZTE 647 sites-4G 95.5%/Huawei/Nokia; teleStream+Zero-Touch Broadband; Next Horizon 2028; 1.5% UAF levy).
 Liberalisation governance-shift (Beyond Connectivity/IFA); third-operator + $5bn call; Universal Access Fund 1.5%/~2.5bn birr;
 Horizon Fiber binding (Ethio/Djibouti/Sudatel, transit hub — twin attached); Safaricom fibre Afdera-Mekelle.
+
+## 2026-07-18 — ingest(ETH) chunk 5/5: Data centres, cloud & AI
+3 sources admitted, 1 pruned (relevant-duplicate). Updated ethio-telecom (Inspur Software + Shandong Hi-Speed 2026-07
+DC/infra talks, geopol.china dependency), wingu-africa ($60m RMB raise primary 2025-06; ADDIX exchange ETH; 2nd Djibouti
+site/12 subsea/AMS-IX), ethiopian-ai-institute (PM Abiy AI-progress statement 2026-07, AI-education focus; pr-wire noted).
+PRUNED per lint #7: 2026-07-14-raxio-secures-380m (techafricanews) — 3rd outlet of the $380m raise already held on
+raxio-group via 2 sources (2026-07-14 + 2026-07-15); payload identical, kept held, discarded copy.

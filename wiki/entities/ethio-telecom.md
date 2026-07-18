@@ -25,6 +25,11 @@ than a pure connectivity operator, anchoring the [[telebirr]] platform and align
   Ethiopia to Sudan — MoU (Dec 2024) converted to a **binding agreement**
   (Feb 2026). See [[infra.connect]], [[gov.regional]], [[SDN]], [[DJI]]. Source:
   [[2026-02-10 Ethio telecom, Djibouti Telecom, Sudatel Seal Binding Deal on Cross-Border Fiber Network]].
+- **Inspur / Shandong data-centre & infra track (2026-07).** High-level talks with China's **Inspur Software**
+  and **Shandong Hi-Speed Road & Bridge International Engineering** on a potential long-term partnership pairing
+  digital tech with infrastructure under **Next Horizon** — extending the earlier Ethio Telecom–Shandong
+  hyperscale-DC thread and **deepening China–Ethiopia digital dependency** (`geopol.china`). See [[infra.store]].
+  Source: [[2026-07-16-ethio-telecom-inspur-partnership-techafricanews]].
 - **Network expansion — MWC 2026 & 99.8% coverage.** Reached **99.8% population coverage** (2026-04); at **MWC
   2026 (Barcelona)** signed expansion/modernisation deals with **Ericsson** (1,500 mobile sites; 502 3G→4G),
   **ZTE** (647 sites incl. 115 rural, 4G coverage to **95.5%**), **Huawei** and **Nokia**, and launched

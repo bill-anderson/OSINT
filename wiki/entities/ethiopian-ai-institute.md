@@ -35,6 +35,12 @@ platform, positioned as homegrown/indigenous digital-infrastructure capacity.
   draft with [[dial]]. See [[gov.policy]], [[dpi.govtech]]. Source:
   [[2025-09-18 Ethiopia's approach to their National Data Strategy offers lessons for Africa's digital future]].
 
+- **PM endorsement (2026-07).** At the House of Peoples' Representatives, PM **[[abiy-ahmed|Abiy Ahmed]]**
+  highlighted the Institute's achievements and Ethiopia's AI progress, framing its creation as placing Ethiopia
+  **among Africa's early AI adopters** and pledging a focus on **AI education and human-capacity building**.
+  *(Reported via a PR-wire outlet; prefer a primary if the remarks recur.)* See [[capacity.training]]. Source:
+  [[2026-07-07-ethiopia-highlights-ai-progress-education-techreviewafrica]].
+
 See [[ETH]], [[mesob-platform]], [[fayda-ethiopia-national-id]], [[tech.ai]].
 
 ## Sources
@@ -42,3 +48,4 @@ See [[ETH]], [[mesob-platform]], [[fayda-ethiopia-national-id]], [[tech.ai]].
 - [[2026-06-20 Ethiopia launches unified MESOB Platform to accelerate national digital transformation]]
 - [[2026-02-19 Ethiopia launches AI UniPod to drive innovation]]
 - [[2025-09-18 Ethiopia's approach to their National Data Strategy offers lessons for Africa's digital future]]
+- [[2026-07-07-ethiopia-highlights-ai-progress-education-techreviewafrica]]
