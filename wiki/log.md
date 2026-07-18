@@ -5388,3 +5388,11 @@ handover; Shabani rationale; new PPP partner; 2026 ID bill mandating civil-regis
 interoperability); **IDEMIA re-dated** ($697m→$1.2bn); **ENCORE quantified** ($250m, 118k cards, 26
 provinces). New entity [[dermalog]] (passports, $48m, price cut to $75). Updated [[rdc-pass]], [[onip-drc]].
 All 18 moved new→raw.
+
+### 2026-07-18 · ingest COD · chunk 2/8 — Data governance, law, policy & census
+**8 sources admitted.** Updated [[drc-digital-code]]: **DPO network launched 12 Mar 2026** (first concrete
+step under Art. 262; precedes the still-planned DPA), Livre III now governs DP "extensively" (Henrotte),
+and the Code **invoked as a repression instrument** (4-tier document classification). New entities
+[[rgph2-drc]] (census, first since 1984; enumeration Jul 2027), [[sisag-drc]] (govt MIS + Kibassa's
+2035 sovereignty doctrine; $100bn-flows claim flagged unsourced), [[access-to-information-bill-drc]]
+(recevable 27 Mar 2026). All 8 moved new→raw.
