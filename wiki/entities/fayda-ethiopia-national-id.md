@@ -36,6 +36,15 @@ strategy — pitched for financial inclusion, service delivery and governance.
   (authentication-as-a-service). A **$54m "Super Agent"** procurement (World-Bank-recommended) targets
   large-scale registration in underserved areas; total project financing **$350m**. See [[finance.new]].
   Source: [[2026-03-13-fayda-joins-sovereign-wealth-fund-1m-weekly-biometricupdate]].
+- **Utility-first adoption.** Fayda is being made load-bearing across services to drive uptake: a **banking
+  mandate** (Fayda required to open/hold accounts — Addis Ababa from 1 Jan 2025, nationwide from 1 Jan 2026, all
+  accounts linked by 31 Dec 2026); **[[dashen-bank|Dashen Bank]]** opened the first Fayda-based remote accounts;
+  the **[[faydapass|FaydaPass]]** wallet (TECH5/Visa) as the consumer front-end; **document authentication /
+  fraud prevention** (9.1m authentications by Feb 2025); and **passport-application integration** (ICS, 2026-06,
+  processing on NIDP biometrics). Sources:
+  [[2025-01-06-mandatory-digital-id-banking-in-effect-biometricupdate]],
+  [[2025-02-26-fayda-document-authentication-fraud-prevention-biometricupdate]],
+  [[2026-06-23-fayda-passport-system-integration-biometricupdate]].
 - **Debate — home-grown critique.** Alongside the official framing, Addis Standard mounted a **critical
   counter-narrative**: *"Coercion Over Consent"* (2026-02) argues **mandatory** ID without consent, trust or
   accountability risks surveillance and exclusion given weak data-protection safeguards; *"Digital Leap Paradox"*

@@ -5773,3 +5773,9 @@ end-2027; EIH sovereign-fund commercialisation 10bn birr / authentication-as-a-s
 ID in Africa) + home-grown critique (Addis Standard "Coercion Over Consent" / "Digital Leap Paradox" — colonialism/rights
 counter-read). Updated ethiopia--dpi-id (trajectory + counter-narrative), mesob-platform (185 services / sovereignty stack),
 safaricom-ethiopia-fayda-jv (fingerprint/face/iris; 46.5m; Ethio Telecom = only competitor).
+
+## 2026-07-18 — ingest(ETH) chunk 2/5: Fayda utility, banking & refugee inclusion
+8 sources admitted. Entities created: faydapass (resource, wallet TECH5/Visa), dashen-bank (company, first Fayda-based
+remote accounts + Mastercard virtual card). Updated fayda-ethiopia-national-id (utility-first: banking mandate 1 Jan 2025
+Addis→nationwide 1 Jan 2026/all linked 31 Dec 2026, doc-auth 9.1m, passport integration) and ethiopia-digital-id-inclusion-project
+(Makatet refugee-inclusion framework, ~190k refugee reg/170k IDs/200k host, UNHCR, Kojak off-grid scanners; 1.1m refugees/2m IDPs).
