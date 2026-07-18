@@ -22,5 +22,10 @@ of Justice's National Directorate of Registries and Notary (DNRN), the DNIC ran 
 provinces from September 2023 and then spearheaded, on **13 November 2023, the country's first nationwide
 free-ID campaign** — delivering 140,000+ free IDs within months and scaling up thereafter.
 
+- **New ID-card regulations (2026-06).** [[gov.legislate]] The Council of Ministers updated the **Civil
+  Identification & National ID Card regulations under Law 6/2022** — governing collection, processing,
+  management and retention of identification data and standardising secure BI issuance nationwide. See
+  [[mozambique--dpi-id]]. Source: [[2026-06-03-cabinet-approves-new-id-card-regulations-clubofmozambique]].
+
 ## Links
 Place: [[MOZ]] · Topics: [[dpi.id]] · [[dpi.registry]] · Entities: [[edge-mozambique]] · [[world-bank]]

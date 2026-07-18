@@ -6475,3 +6475,14 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
 - Enrolment figures written as a dated progression (2.6M→3.25M adults→5.6M) — scope-driven, explicitly
   NOT a contradiction. No contradictions filed. 1 pr-wire (eCurrency), several French local-press
   supplements (admissible on-the-record).
+
+## 2026-07-18 — ingest(MOZ) chunk 1/6: Digital identity & civil registry
+
+- **7 sources admitted** (0 leads, 0 discards).
+- **Intersection created:** [[mozambique--dpi-id]] — mass free civil-registration drive (7M/500 brigades,
+  Mar-Dec 2026, Chapo push); mobile digital-ID + e-signature tender (SIM/eSIM/Java Card, X-Road/DNIC);
+  new ID-card regs (Law 6/2022); Ethiopia FaydaVerse MoU.
+- **Entities updated:** [[edge-mozambique]] (2026 campaign), [[dnic-mozambique]] (ID-card regs),
+  [[mozambique-ethiopia-dpi-mou]] (in-scope Club account).
+- Dedup: mobile digital-ID tender twins (Club 05-25 + Biometric Update 05-26) kept as complementary
+  (X-Road/DNIC vs SIM/eSIM technical detail).

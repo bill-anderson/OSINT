@@ -26,5 +26,12 @@ campaign** (from 13 November 2023), which had delivered **140,000+ free IDs** wi
 backdrop where more than half of adults lack proof of identity. A related ID4D project issued IDs and birth
 certificates to forcibly displaced persons in Cabo Delgado.
 
+- **Mass free civil-registration drive (2026).** [[include.access]] A **free birth-registration campaign**
+  (23 Mar → 31 Dec 2026) targets **~7m people** at **25,000/day** via up to **500 mobile brigades**
+  (President Chapo urging enrolment); EDGE procurement sought services to strengthen civil registration and
+  the mobile digital-ID layer. Full thread: [[mozambique--dpi-id]]. Sources:
+  [[2026-03-31-government-launches-free-birth-registration-clubofmozambique]],
+  [[2026-01-05-seeks-expert-services-mass-birth-id-registration-biometricupdate]].
+
 ## Links
 Place: [[MOZ]] · Topics: [[dpi.id]] · [[dpi.registry]] · [[include.access]] · Entities: [[world-bank]] · [[dnic-mozambique]] · [[intic-mozambique]]
