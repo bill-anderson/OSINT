@@ -6220,3 +6220,17 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
 - Dedup: AR 2026-02-21 kept as complementary to held libyaherald 2026-02-24; AR/EN EPAIX twins both kept.
 - 6 proxy-dated Arabic items (`date_source: proxy`); several thin Arabic excerpts flagged for full clip
   at promotion. East/west split noted throughout (national claims = GNU/Tripoli-side).
+
+## 2026-07-18 — ingest(LSO) chunk 1/5: Data centres & AI/data policy + sovereignty
+
+- **6 sources admitted** (0 leads, 0 discards).
+- **Intersection created:** [[lesotho--tech-ai]] — $6.2bn Convalt AI-data-centre bid; three signed digital
+  policies (Broadband/Data/AI); Geneva "co-creator not consumer" pitch (100% broadband/~50% usage); US-
+  backed AI skills; DNS/CBS cloud-cyber workshop.
+- **Entities created:** [[convalt-energy]] (company/US), [[project-kobong]] (deal — largest-ever LSO FDI),
+  [[sebabatso-initiative]] (initiative — PM youth programme), [[dns-technologies]] (company/Mauritius),
+  [[computer-business-solutions]] (company/Lesotho).
+- **Entity updated:** [[micsti-lesotho]] (three policies + Geneva AI-sovereignty pitch).
+- **Contradiction filed:** `lesotho-convalt-kobong-deal-legal-status` — binding MoA (Tech Africa News,
+  4 Jun signed) vs non-binding MoU/intent (Connecting Africa). Both-sided brief with held URLs; primary
+  instrument not held. Pages describe the deal as "agreed" with status disputed (cautious reading noted).
