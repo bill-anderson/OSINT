@@ -10,6 +10,7 @@ places: [STP]
 topics: [gov.protect, dpi.exchange, geopol.china]
 entities: [[anpdp]], [[dspdp-macau]], [[rede-lusofona-protecao-dados]]
 lens: [sovereignty]
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: STP-2026-07-17
 ---

@@ -65,7 +65,8 @@ operationalise continental data governance at national level.
 
 - [[gov.protect]] · [[gov.legislate]] — data protection under Law 03/2016
   ([[sao-tome-data-protection-law-2016]]), enforced by the ANPDP
-  ([[national-data-protection-agency-sao-tome]]); Malabo Convention signatory.
+  ([[national-data-protection-agency-sao-tome]]); Malabo signatory; Lusophone network (RLPD) founding
+  member + China–Lusophone Macau MoU (2026). Full case: [[sao-tome--gov-protect]].
 - [[gov.policy]] — the 2020 **[[national-strategy-digital-governance-sao-tome]]** (nine
   thematic axes); nationalising the **[[au-data-policy-framework]]** (D4DataGOV / Team Europe).
 - [[dpi.id]] · [[dpi.registry]] — **[[sao-tome-national-digital-id]]** (MOSIP pilot from 2024, Ooru

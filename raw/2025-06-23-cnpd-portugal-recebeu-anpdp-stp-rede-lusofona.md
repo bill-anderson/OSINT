@@ -10,6 +10,7 @@ places: [STP]
 topics: [gov.protect]
 entities: [[anpdp]], [[cnpd-portugal]], [[rede-lusofona-protecao-dados]]
 lens: []
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: STP-2026-07-17
 ---
