@@ -10,6 +10,7 @@ places: [ZWE]
 topics: [gov.protect, gov.legislate]
 entities: [[potraz]]
 lens: [sovereignty]
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: ZWE-2026-07-17
 ---

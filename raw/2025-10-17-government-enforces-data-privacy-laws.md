@@ -10,6 +10,7 @@ places: [ZWE]
 topics: [gov.protect, infra.cybersec, gov.policy]
 entities: [[potraz], [ministry-of-ict-postal-and-courier-services-zimbabwe]]
 lens: [sovereignty]
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: ZWE-2026-07-17
 ---

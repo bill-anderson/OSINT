@@ -10,6 +10,7 @@ places: [ZWE]
 topics: [gov.standards, dpi.govtech, dpi.exchange]
 entities: [[e-government-technology-unit-zimbabwe], [office-of-the-president-and-cabinet-zimbabwe]]
 lens: []
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: ZWE-2026-07-17
 ---

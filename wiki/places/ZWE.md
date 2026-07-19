@@ -206,10 +206,12 @@ doubles as the data protection authority** — there is no separate DPA.
 - [[dpi.registry]] · [[gov.legislate]] — deeds securitisation ([[zimbabwe-si-76-2025]],
   gazetted Jul 2025, **commencement not established**), the population registry upgrade
   (~2023–), [[zimra]] / [[tarms-zimbabwe]]. Full treatment: **[[zimbabwe--dpi-registry]]**.
-- [[gov.protect]] · [[gov.standards]] · [[dpi.exchange]] —
-  **[[zimbabwe-cyber-and-data-protection-act]] (2021)**, regulations in force Sept 2024,
-  enforced by **[[potraz]]** in its dual regulator/DPA role; **the Act text is not held
-  (GAP-ZWE-001)**.
+- [[gov.protect]] · [[gov.standards]] · [[dpi.exchange]] — extracted: **[[zimbabwe--gov-protect]]** —
+  POTRAZ's carrot-then-stick data-protection build (SI 155/2024 licensing; 570→721 controllers, 500→~1,200
+  DPOs; National Cybersecurity Strategy; enforcement escalating to **Q4-2026 audits + 7-yr CEO jail**; the
+  e-Gov Technology Unit's MDA-interoperability bottleneck). Underpinned by the
+  **[[zimbabwe-cyber-and-data-protection-act]] (2021)**, regulations in force Sept 2024, enforced by
+  **[[potraz]]** in its dual regulator/DPA role; **the Act text is not held (GAP-ZWE-001)**.
 - [[dpi.pay]] · [[dpi.govtech]] — [[ecocash]]'s foundational role; the
   [[reserve-bank-of-zimbabwe]]'s sub-US$10 fee exemption (Sept 2024);
   [[consumer-protection-commission-zimbabwe]] POS enforcement; TaRMS TIN issuance.
