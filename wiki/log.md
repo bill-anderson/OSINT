@@ -7325,3 +7325,14 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
   (fast-tracked, full-foreign-ownership accommodated; AstaanConnect first reseller), IFC submarine-cable
   working group, IPv6 migration, and Hormuud's shift to digital-economy anchor (local data centres). +7 sources.
 - **Entity created:** [[nca-somalia]] (regulator).
+
+## 2026-07-19 — ingest(SOM) chunk 2: Digital ID & DPI
+
+- **11 admitted, 2 pruned** (PM-Hamza directive + mass-registration — both held events, different outlets).
+- **[[somalia--dpi-id]] expanded:** new "Federal-state politics & the proclamation" section (Puntland/
+  Jubbaland refuse the federal ID; Puntland's own authority; the president's "national crime" proclamation
+  exceeding Law 009/2023); mandates updated (inter-state travel/Aden Adde/PISCES, driver's licences); DPI
+  tool-set (HUBIYE/CDS/eAqoonsi, Somali-built, WB $75m Scaled-UP); enrolment 1m→~2m + eAqoonsi inclusion
+  gaps; CRMVS/NADRA "Look Africa" lineage. +8 sources.
+- **Created:** [[somalia--dpi-govtech]] — National Job Portal (domestically hosted), EIR immunization
+  register (DHIS2/WHO, 60% zero-dose), and the "digitising the same fragmentation" governance critique.
