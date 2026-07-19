@@ -48,9 +48,13 @@ geography, and increasingly by **access to compute/intelligence**.
   exclude the undocumented: CMU-Africa finds **>1 in 3** interviewees failed ID registration on the
   first attempt and many bank under a **third-party ID**; Caribou documents refugees in Kenya cut off
   from health cover (SHA) and mobile money, and tens of thousands of citizens denied IDs via
-  double-registration. Sources:
+  double-registration. In **[[NAM]] Namibia (2026-07)**, undocumented citizens petitioned to **suspend the e-ID
+  rollout until a years-long documentation backlog is cleared** — a constitutional-exclusion argument that
+  layering a digital ID atop an incomplete foundational register entrenches exclusion (see [[namibia--dpi-id]]).
+  Sources:
   [[2026-01-01 My Money, Your Name Challenges and Workarounds in ID-Required Mobile Money in East Africa]],
-  [[2026-02-01 Digital Identity and Migration Struggles for Equitable Technology Governance]]. See [[dpi.id]], [[include.access]].
+  [[2026-02-01 Digital Identity and Migration Struggles for Equitable Technology Governance]],
+  [[2026-07-01-delay-e-id-rollout-until-backlog-cleared-namibiansun]]. See [[dpi.id]], [[include.access]].
 
 - **The AI divide (2026-06, *The Sun* / Ademola).** A new axis of exclusion: "the digital
   divide is no longer about access to the internet; it is about access to intelligence."

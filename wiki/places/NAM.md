@@ -6,13 +6,23 @@ parent: XSA
 place_kind: country
 topics: [geopol.china, tech.ai, infra.store, finance.new, capacity.training, dpi.govtech, include.divides, infra.connect, infra.capacity, gov.regional, gov.policy, gov.legislate, gov.protect, digital.rural, data.satellite, tech.industry, include.access, dpi.id, dpi.registry, dpi.pay, dpi.exchange, dpi.mis, gov.standards, data.statistics]
 status: active
-last_reviewed: 2026-07-16
+last_reviewed: 2026-07-19
 ---
 
 # Namibia (NAM)
 
 ## Recent developments
 
+- **2026-07-01** — **e-ID slips to September amid two backlashes.** The **[[namibia-digital-id|e-ID]]** launch,
+  first set for **July 2026**, was restated as **September 2026**. It drew a **"microchip-tracking"** panic
+  (Omusati protests; Minister Iipumbu rebutted — the chip is in the card, CRIA-2024-compliant) *and* a petition
+  from **undocumented Namibians to suspend** it until a years-long **documentation backlog** is cleared (a
+  constitutional-exclusion critique). In 2025 the ministry issued **117,175 national IDs**, **126,737 birth
+  certs**, **682 refugee IDs**; a **[[cran]]** e-signature system was planned for Feb 2026. Full case:
+  **[[namibia--dpi-id]]**. Sources: [[2026-07-01-delay-e-id-rollout-until-backlog-cleared-namibiansun]],
+  [[2026-06-20-iipumbu-dismisses-e-id-microchip-tracking-namibian]],
+  [[2026-03-16-namibia-expedites-electronic-ids-issuance-itweb]]. See [[dpi.id]], [[include.divides]],
+  [[gov.protect]].
 - **2026-07-08** — China commits **¥98m (~US$14.4m)** to Namibia's **Smart City pilot**,
   acknowledged by President **[[netumbo-nandi-ndaitwah]]** during a state visit to China
   (meeting **[[huawei]]** in Shenzhen). Funding supports AI, digital infrastructure and
@@ -83,7 +93,7 @@ last_reviewed: 2026-07-16
   Civil Registration and Identification Act, 2024]]** (assented 30 Dec 2024) created a single Civil Register,
   e-notices, a **unique identifier** per person and **biometric IDs**, run by the
   **[[ministry-home-affairs-namibia|Ministry of Home Affairs]]**. On this base the ministry is rolling out a
-  **[[namibia-digital-id|national e-ID]]** — a smart contactless-chip card — by **July 2026** to curb fraud and
+  **[[namibia-digital-id|national e-ID]]** — a smart contactless-chip card — by **September 2026** (slipped from July; see **[[namibia--dpi-id]]**) to curb fraud and
   duplicate records, backed by **[[undp]]** ("Namibia's Digital Identity Journey," linking the **NamX** data
   exchange and **Nampay**) and a stepped-up civil-registration drive (~**US$9m** budget). Digital-rights
   analysts (APC) warned that **biometric collection is running ahead of a weak data-protection regime**.
@@ -147,7 +157,7 @@ last_reviewed: 2026-07-16
   licence denied by [[cran]] on foreign-ownership + data-sovereignty grounds. Full case: [[namibia--infra-connect]].
 - [[include.access]] · [[include.divides]] — device-affordability gap (4G tax breaks; MTC
   <50% utilisation); free internet for schools/clinics under RAN towers ([[emma-theofelus]]).
-- [[dpi.id]] · [[dpi.registry]] · [[gov.legislate]] · [[gov.protect]] — **[[namibia-civil-registration-identification-act-2024|CRIA 2024]]** single Civil Register; **[[namibia-digital-id|national e-ID]]** (by Jul 2026, [[ministry-home-affairs-namibia|MHAISS]]/[[undp]]); biometric-privacy-vs-weak-DP-law caution.
+- [[dpi.id]] · [[dpi.registry]] · [[gov.legislate]] · [[gov.protect]] — **[[namibia-civil-registration-identification-act-2024|CRIA 2024]]** single Civil Register; **[[namibia-digital-id|national e-ID]]** (Sept 2026, [[ministry-home-affairs-namibia|MHAISS]]/[[undp]]) — microchip-panic + documentation-backlog backlashes; biometric-privacy-vs-weak-DP-law caution — **[[namibia--dpi-id]]**.
 - [[dpi.pay]] · [[gov.regional]] — **[[bank-of-namibia|Bank of Namibia]]** Instant Payment Solution (G2P, Q3-2026); Payment System Management Act 2023; PAPSS courtship; MTC refugee mobile money.
 - [[dpi.mis]] · [[gov.standards]] · [[dpi.exchange]] — National eHealth Strategy 2021-2025; eGA X-Road interoperability; digital-trade regulatory profile.
 
@@ -157,5 +167,6 @@ last_reviewed: 2026-07-16
 - [[telecom-namibia]] · [[telecom-namibia-angola-deals]] · [[emma-theofelus]] · [[paratus]] · [[starlink]] · [[cran]]
 - [[namibia-civil-registration-identification-act-2024]] · [[namibia-digital-id]] · [[ministry-home-affairs-namibia]] · [[mtc-namibia]] · [[bipa-namibia]]
 - [[bank-of-namibia]] · [[namibia-payment-system-management-act-2023]] · [[papss]] · [[undp]]
+- Intersections: [[namibia--infra-connect]] · [[namibia--dpi-id]]
 - Mentioned, not hubbed: Ministry of ICT; Registrar-General (Etienne Maritz, MHAISS ED); Leo Chen (Huawei
   Enterprise); INFOSI, GGPEN, Angola Telecom, SATCAB; NamX / Nampay; Armada / Virtual Space Data Centre.

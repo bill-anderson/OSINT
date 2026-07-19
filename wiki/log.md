@@ -6804,3 +6804,18 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
   airtel-malawi, sparc-systems, paychangu, malswitch, malawi-language-data-trust) + heavy updates to NRB,
   MACRA, DPA-2024, ministry-of-ict, RBM.
 - 1 relevant-duplicate pruned (wearetech WB Digital Foundations write-up). No contradictions, no gaps.
+
+## 2026-07-19 — ingest(NAM) chunk 1/6: Digital ID / CRVS
+
+- **5 sources admitted, 0 leads, 0 discards.** Batch NAM-2026-07-17 (34 staged). One source paywalled
+  (delay-e-id, body_completeness: paywalled — free lede only).
+- **Intersection created:** [[namibia--dpi-id]] — the e-ID programme (smart card, CRIA 2024, UNDP, mobile
+  verification), e-signature precursor (CRAN Feb 2026), timeline slip July→Sept 2026 + 2025 volumes, and two
+  backlashes (Omusati "microchip-tracking" panic; undocumented-Namibians documentation-backlog exclusion).
+- **Entities updated:** [[namibia-digital-id]] (+Sept slip, controversy, backlog, e-signature, 2025 stats;
+  +5 sources); [[ministry-home-affairs-namibia]] (+Iipumbu rebuttal, Sept date, stats; +2 sources).
+- **NAM hub:** +1 Recent-developments entry (e-ID controversy 2026-07-01); updated Foundational-ID entry (July→
+  Sept) + dpi.id Active-topics line → intersection; +Intersections line; last_reviewed → 2026-07-19.
+- **Concept:** [[include.divides]] — ID-as-gate bullet +Namibia documentation-backlog case.
+- Sources: 2025-06-09 e-ID launch (Namibian Sun), 2025-06-12 July-2026 date (biometricupdate), 2026-03-16
+  expedite/budget (itweb), 2026-06-20 microchip rebuttal (Namibian), 2026-07-01 backlog petition (Namibian Sun).
