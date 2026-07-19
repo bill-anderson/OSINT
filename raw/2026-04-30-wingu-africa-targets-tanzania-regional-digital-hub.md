@@ -10,6 +10,7 @@ places: [TZA]
 topics: [infra.store, infra.connect, gov.protect]
 entities: [[wingu-africa]]
 lens: [sovereignty]
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: TZA-2026-07-17
 ---

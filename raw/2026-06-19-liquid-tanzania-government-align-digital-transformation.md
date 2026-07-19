@@ -8,8 +8,9 @@ date_precision: day
 date_source: source
 places: [TZA]
 topics: [infra.store, infra.connect, infra.cybersec]
-entities: [[liquid-intelligent-technologies], [cassava-technologies], [ministry-communication-information-technology-tanzania]]
+entities: [[liquid-intelligent-technologies], [cassava-technologies], [micit-tanzania]]
 lens: [sovereignty]
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: TZA-2026-07-17
 ---

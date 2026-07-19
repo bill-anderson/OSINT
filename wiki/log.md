@@ -7587,3 +7587,8 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
 - Created wiki/intersections/tanzania--infra-connect.md: NICTBB state backbone (200→2,000 Gbps, DRC link, budgets Sh73bn/Sh222.6bn); TTCL Kilimanjaro One subsea cable to Mauritius; Yas ~4,800 towers + 758-tower PPP handover; TTCL 1m-fibre target; Zanzibar Airtel/Yas-ZICTIA PPPs; Starlink; 5G stats vs falling smartphone base (include.divides); infra-sharing/visual-pollution + "declare telecom critical infrastructure" frictions.
 - Created entities: nictbb, ttcl, yas-tanzania, zictia, airtel-tanzania. Mapped clip entity [[ministry-communication-information-technology-tanzania]] → [[micit-tanzania]]. 0 prunes (budget/5G pairs complementary, folded).
 - Wired TZA hub infra.connect bullet → Full case. Dead-link: only forward-ref tanzania--infra-store (chunk 4).
+
+## 2026-07-19 ingest(TZA) chunk 4 — Data centres & cloud (4 sources)
+- Created wiki/intersections/tanzania--infra-store.md: PDPA + localisation policy as demand driver ("data protection as industrial policy"); Wingu WCX local cloud + regional-hub pitch (TIX, energy/skills constraints); Liquid–government alignment + $855m recap; public DCs Dodoma/Zanzibar.
+- Created entity liquid-intelligent-technologies. Mapped ministry ref → micit-tanzania. 0 prunes.
+- Wired TZA hub infra.store bullet → Full case. Dead-link NONE (chunk-3/4 forward-refs resolved).

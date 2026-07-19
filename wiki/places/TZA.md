@@ -157,7 +157,9 @@ intersections above.*
   **e-Government Authority in 2019** under the **e-Government Act 2019** — [[ega-tanzania]]) and the
   **[[tanzania-digital-economy-framework]]** (2024–2034, [[micit-tanzania]], presidential foreword).
 - [[infra.store]] · [[dpi.exchange]] — [[wingu-africa]]'s Mbezi Tier 3 phase 2 and the WCX platform;
-  the Digital Tanzania Project data-centre core; a second-tier DC market on 2031 projections.
+  **[[liquid-intelligent-technologies|Liquid]]** entering; public data centres in Dodoma + Zanzibar; the
+  **PDPA + localisation policy driving in-country hosting** (compliance as demand); the Digital Tanzania
+  Project data-centre core; a second-tier DC market on 2031 projections. Full case: **[[tanzania--infra-store]]**.
 - [[infra.connect]] · [[digital.rural]] · [[include.divides]] — **[[nictbb]]** state backbone (200→2,000
   Gbps; DRC link); **[[ttcl]]**'s **Kilimanjaro One** subsea cable to Mauritius; **[[yas-tanzania|Yas]]**
   (~4,800 towers, PPP handover of 758 towers) / Airtel / Vodacom; **5G at 32.83% pop but smartphones only
