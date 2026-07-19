@@ -5,11 +5,11 @@ place: ZAF
 topic: gov.protect
 places: [ZAF]
 topics: [gov.protect, gov.legislate, gov.policy, dpi.exchange, infra.store, infra.cybersec]
-entities: [[popia], [research-ict-africa], [trendai], [anthropic]]
+entities: [[popia], [information-regulator-south-africa], [statistics-south-africa], [sibanye-stillwater], [research-ict-africa], [trendai], [anthropic]]
 lens: [sovereignty, colonialism]
 status: active
-last_reviewed: 2026-07-10
-sources: [[2025-01-01 South African Digital Sovereignty at the Crossroad of Securitization and Development (Chapter 4) - Digital Sovereignty in the BRICS Countries], [2026-07-09 Anthropic's Claude to bolster data sovereignty in SA]]
+last_reviewed: 2026-07-19
+sources: [[2025-01-01 South African Digital Sovereignty at the Crossroad of Securitization and Development (Chapter 4) - Digital Sovereignty in the BRICS Countries], [2026-07-09 Anthropic's Claude to bolster data sovereignty in SA], [2025-04-15-mandatory-eportal-breach-reporting], [2025-05-08-popia-regulations-amendments], [2025-07-16-cybersecurity-counter-intelligence-priority], [2025-11-13-data-breaches-surge-40-percent], [2026-03-30-statssa-ransomware-attack], [2026-04-14-inforeg-788-breaches-q1], [2026-04-20-cpa-direct-marketing-optout-regs], [2026-06-04-college-popia-probe], [2026-06-14-inforeg-first-enforcement-notice-2026], [2026-06-16-paia-enforcement-mining-house-sibanye], [2026-06-18-misdirected-email-enforcement-notice], [2026-07-06-popia-five-years-nobody-accountable]]
 ---
 
 # South Africa × Data Protection
@@ -47,6 +47,35 @@ build-out is now forcing the choice into procurement.
   (Transnet, DBSA; SEACOM reporting 220m+ email threats in 2021). See [[infra.cybersec]],
   [[gov.legislate]]. Source:
   [[2025-01-01 South African Digital Sovereignty at the Crossroad of Securitization and Development (Chapter 4) - Digital Sovereignty in the BRICS Countries]].
+
+## POPIA enforcement wakes up — but breaches outrun it (2025–26)
+
+Five years after POPIA became fully enforceable, the **[[information-regulator-south-africa|Information
+Regulator]]** is finally acting — yet breaches are rising faster than accountability.
+
+- **The enforcement machinery tightens.** A **mandatory e-portal** for breach reporting (Apr 2025), amended
+  **POPIA regulations** (May 2025), and **2026 CPA Amendment Regulations** operationalising a **national
+  opt-out registry** for direct marketing (shifting anti-spam duty to the National Consumer Commission).
+  Sources: [[2025-04-15-mandatory-eportal-breach-reporting]], [[2025-05-08-popia-regulations-amendments]],
+  [[2026-04-20-cpa-direct-marketing-optout-regs]].
+- **First real enforcement notices.** The Regulator issued a **POPIA** enforcement notice against **Central
+  Johannesburg TVET College** (unlawful processing + failure to notify a s.22 breach), a **landmark PAIA**
+  notice against mining house **[[sibanye-stillwater]]** (compelling disclosure of Social & Labour Plan
+  reports — a precedent for *private bodies*), and a notice treating a **misdirected email as a reportable
+  data breach** (internal/accidental compromises count). Sources: [[2026-06-04-college-popia-probe]],
+  [[2026-06-14-inforeg-first-enforcement-notice-2026]], [[2026-06-16-paia-enforcement-mining-house-sibanye]],
+  [[2026-06-18-misdirected-email-enforcement-notice]].
+- **The accountability gap.** The Regulator received **2,374 breach notifications in FY2024/25** (~200/month);
+  **788 in Q1** alone; Apr–Nov 2025 up **+40%**. Yet POPIA's **maximum fine is R10m** against an **IBM-measured
+  average breach cost of R44.1m** — so, five years on, *"nobody is being held accountable"* in a way that
+  bites. Sources: [[2026-04-14-inforeg-788-breaches-q1]], [[2025-11-13-data-breaches-surge-40-percent]],
+  [[2026-07-06-popia-five-years-nobody-accountable]].
+- **The state itself is exposed.** **[[statistics-south-africa|Stats SA]]** was hit by **ransomware** (XP95;
+  453,362 files / 154 GB claimed, $100k ransom, Mar 2026) — one of two major government incidents that month —
+  and the government elevated **cybersecurity to a counter-intelligence priority** (Jul 2025). The regulator
+  polices private breaches while the state's own systems (Stats SA, and see the DHA "low" cyber maturity on
+  [[south-africa--dpi-id]]) are themselves breached. See [[infra.cybersec]]. Sources:
+  [[2026-03-30-statssa-ransomware-attack]], [[2025-07-16-cybersecurity-counter-intelligence-priority]].
 
 ## Reads
 

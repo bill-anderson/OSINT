@@ -253,7 +253,9 @@ linked source pages, the entity pages and the six [[south-africa--dpi-id|interse
   Full case: [[south-africa--infra-connect]].
 - [[gov.protect]] · [[gov.policy]] · [[dpi.exchange]] · [[gov.regional]] · [[infra.cybersec]] —
   POPIA adequacy vs Draft Data & Cloud localisation; the **Rubio State-Dept cable** and US WTO/G20
-  pressure ([[us-department-of-state]]); ransomware exposure; DHA's self-described "low" cyber
+  pressure ([[us-department-of-state]]); the **Information Regulator's enforcement awakening** (POPIA/PAIA
+  notices vs [[sibanye-stillwater]], a college; 2,374 breach notifications FY24/25, +40%, but R10m fine vs
+  R44.1m breach cost); the **[[statistics-south-africa|Stats SA]] ransomware** breach; DHA's "low" cyber
   maturity. Full case: [[south-africa--gov-protect]].
 - [[tech.ai]] · [[geopol.china]] — AI-workload data centres; low SME AI adoption; the **US–China
   AI-market contest** ([[deepseek]] vs Microsoft/Nvidia/Cassava). Full case:
