@@ -20,6 +20,8 @@ leading African digital hub. **Launched 24 February 2025** by President Bassirou
 
 ## Activity in this wiki
 
+**Full strategy detail** (four pillars, ATN financing breakdown, 2034 KPIs, launch, one-year stocktake, GouvNum, e-Senegal): [[senegal--gov-policy]].
+
 - **Founding launch (2025-02-24).** Faye unveiled the strategy: universal affordable internet; a **unique
   biometric-based digital ID** able to spawn functional/sectoral identities across life events; a single
   citizen portal; and an integrated services platform (business creation, tax, land registry, payments).

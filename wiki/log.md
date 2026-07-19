@@ -7195,3 +7195,15 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
 - New entities: nisr(existing), broadband-systems-corporation, mtn-rwanda.
 - 4 partial-body New Times items ingested as body_completeness: excerpt (land registration, Mbaza,
   BSC-Starlink, eKash editorial) — flagged for optional full-clip backfill.
+
+## 2026-07-19 — ingest(SEN) chunk 1: New Deal Technologique (strategy spine)
+
+- **10 admitted, 5 pruned** (batch SEN-2026-07-17 + Q1-2025 pilot). Pruned: ITD user-group (thin),
+  Sall interministerial panel (near-dup of launch), TechReviewAfrica launch (second-hand synthesis —
+  inadmissible), TechAfrica launch + We Are Tech operational-phase (already-held events).
+- **Created:** [[senegal--gov-policy]] — consolidates the New Deal: four pillars (90% dematerialisation),
+  ATN financing (1,105bn FCFA = 950 identified/150 private/155 gap), 2034 KPIs (95% connectivity, 5,000
+  experts/yr, 150k+200k jobs, 15% GDP), Faye's "three circles of alliances", 20-member Council, one-year
+  stocktake (e-Senegal, interop "Once Only", Sengec, Startup Act), Sonko's 12 structuring projects +
+  GouvNum. +10 Le Soleil/primary sources.
+- Wired into hub Intersections + linked from the [[new-deal-technologique]] entity.

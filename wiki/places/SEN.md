@@ -189,6 +189,7 @@ last_reviewed: 2026-07-16
 
 ## Intersections
 
+- [[senegal--gov-policy]] — the New Deal Technologique: pillars, 1,105bn-FCFA financing, 2034 KPIs, GouvNum, e-Senegal.
 - [[senegal--dpi-id]] — digital identity & CRVS: the Feb 2026 national-ID breach, ECOWAS voter ID, and the
   ANEC/Nékkal civil-registration modernisation.
 - [[senegal--dpi-pay]] — digital payments & fintech: the mobile-money tax debate, GSMA financial-inclusion
