@@ -1,71 +1,54 @@
-Sweep pilot TCD — window 2025-01-01..2025-03-31 — run 2026-07-17
+# TGO sweep manifest — batch TGO-2026-07-17
 
-Staged items (published | topics | publisher | title | why-new):
+Window: 2025-01-01 → 2026-07-17. Newspapers: Togo First (togofirst.com, FR primary + some EN), Togo-Presse (togopresse.tg). Journals: fixed-8. 33 candidates staged. Drop log: `sweep/drop-log-TGO.csv` (20 rows). Coverage: RICH (Togo is a DPI leader).
 
-- 2025-01-08 | infra.store, geopol.china, infra.energy | Le N'Djam Post | Tchad : vers la garantie d'une souveraineté numérique | Ministerial visit with Chinese delegation to the National Data Center building; earliest local coverage of the facility — holdings only cover the data centre from Dec 2025/2026 (wearetech, DCD).
-- 2025-01-25 | infra.cybersec, geopol.usa, capacity.training | Le N'Djam Post | Sécurité informatique : l'ANSICE et la CISA unissent leurs forces | ANSICE–US CISA videoconference cooperation; predates the 2026 US-Chad cybersecurity items in holdings and is a distinct event.
-- 2025-02-11 | tech.innovate, digital.rural, include.access | We Are Tech Africa | Telemedan Delivers Healthcare to Rural Chad Through Solar-Powered Kiosks | Startup/solutions profile of Chadian telehealth kiosks; no holdings coverage. Founder quotes sourced from a Disrupt Africa interview (partially second-hand, but original trade-press write-up).
-- 2025-02-12 | include.access, include.divides, infra.connect | Le N'Djam Post | Coupure d'Internet dans le Lac : Internet Society Tchad tire la sonnette d'alarme | Civil-society alarm over the 3-month Lac province internet shutdown; shutdown not covered anywhere in holdings.
-- 2025-02-17 | geopol.india, capacity.training, dpi.govtech, tech.ai | We Are Tech Africa | Le Tchad explore un partenariat avec l'Inde dans le numérique | First Chad–India digital cooperation talks (AI training, ENASTIC, postal bank); new geopolitical vector not in holdings.
-- 2025-02-25 | capacity.training, include.access, geopol.eu | We Are Tech Africa | Tchad : un centre d'apprentissage numérique inauguré à Abéché | UNHCR/Italy-funded digital learning centre for refugees in Abéché; brief but new.
-- 2025-03-07 | infra.connect, gov.regional | We Are Tech Africa | Chad Urges Speed on Delayed Trans-Saharan Fiber Optic Project | DTS backbone at 32% completion, government pressure on contractors; holdings' fibre items are later (Aug 2025 onward).
-- 2025-03-19 | infra.connect, include.access, gov.policy | Telecom Review Africa | Starlink Launches Services in Niger and Secures Operating License in Chad | Confirmation of Chad's Starlink operating licence (approved Nov 2024); precedes the Sept 2025 Starlink-decree items in holdings. PR/ministry-announcement-derived ("PR-derived").
+`published | topics | source | title | why-it's-new`
 
-Note on staging format: article bodies are staged as condensed summaries (frontmatter + ~150-200-word abstract per item) rather than full reproduced text, to avoid reproducing the outlets' copyrighted prose; canonical URLs carry the full text.
+## Digital identity / e-ID / WURI (dpi.id)
+2025-08-12 | dpi.id | Togo First | Togo Launches Biometric ID Registration in Agoè Nyivé on August 20 | Aug-2025 enrollment phase (Agoè-Nyivé, post-Golfe); not held
+2026-01-15 | dpi.id, digital.rural | Togo First | Enrôlement biométrique démarre dans le Zio le 19 janvier | Jan-2026 Zio-prefecture launch; not held
+2026-01-23 | dpi.id, digital.rural | Togo First | Enregistrement de masse se poursuit dans le Zio jusqu'au 18 février | Zio mass-enrollment update (to 18 Feb); notes <15% ID coverage baseline
+2026-04-23 | dpi.id, dpi.registry | Togo First | Plus de 6 millions de citoyens disposent d'un NIU à fin 2025 | Key milestone: 6M NIUs as of Dec-2025 (official reforms report); not held
+2026-04-27 | dpi.id, dpi.pay | Biometric Update | Togo issues 6M unique numbers as MOSIP-based digital ID project progresses | Journal coverage of 6M milestone; adds Atos/Idemia, Novissi, WURI $72M framing
+2026-05-11 | dpi.id, digital.rural | Togo First | ANID prépare une nouvelle phase d'enregistrement dans les Plateaux-Ouest | May-2026 Kloto/Wawa phase; reconfirms 6M NIU
+2025-10-30 | dpi.id, gov.regional | TechAfrica News | Senegal and Togo Strengthen Cooperation on Digital Identity Systems | 3rd-outlet on Senegal ANID benchmarking visit (Oct 22-27); SAME EVENT as 2 held (ecofin, biometricupdate) — flag for ingest lint #7
 
-Sources/queries that returned nothing in-window:
+## E-gov / govtech / registries (dpi.govtech, dpi.registry, digital.localgov)
+2025-01-01 | dpi.govtech, dpi.registry | Togo-Presse | Une plateforme numérique créée pour rendre les services gouvernementaux plus accessibles | PROXY DATE (page undated; content thru 2024). Backgrounder on "Services publics" portal (2017/2022), NUP, CATO; overlaps held republicoftogo 2026-03-22
+2026-04-02 | dpi.govtech, infra.cybersec | Togo First | Ministère des Affaires étrangères amorce la digitalisation de ses services | 4-week MAE digitalisation sprint; 280 agents trained; program rolling ministry-by-ministry
+2026-04-03 | dpi.govtech, dpi.registry | Togo First | Guichet unique de cartographie des infrastructures officiellement lancé | New infra-mapping platform + CENTIPOS (25-station cm-precision GNSS network)
+2026-06-10 | dpi.govtech, tech.industry | Togo First | ATD lance une "Boite à outils digitaux" pour la numérisation des TPME | New ATD SME-digitisation platform (GIZ ProDigiT / EU-Luxembourg funded)
+2026-07-07 | dpi.govtech, dpi.registry | Togo First | La transition numérique relance le chantier de la gestion des archives | Public archives/GED digitisation push (DBAN); MEF Alfresco rollout
 
-- lepaystchad.com — indexed by Exa and reachable, but almost no in-window digital coverage; its only Jan–Mar 2025 "connectivity" hit (World Bank Lake Chad project, 2025-02-21) turned out to be road/transport connectivity and was dropped as off-topic. Clusters N1–N7 were merged into 4 FR queries + 1 EN query per paper (results sparse); merges: N1+N2, N3, N4+N5, N6+N7.
-- lendjampost.com — same merged clusters (N1+N2, N3, N4+N5, N6+N7 in FR; one merged EN query); well indexed, 3 in-window items staged.
-- biometricupdate.com (J1, J2) — nearest Chad items are 2024-07 (contractor tender) and 2025-05-09 (refugee biometric IDs); nothing published in-window.
-- connectingafrica.com (J1, J2) — Chad coverage exists but starts Aug 2025; nothing in-window.
-- itweb.africa (J1, J2) — Chad items are May 2025 (Cameroon–Chad telecoms) and 2026; nothing in-window.
-- techafricanews.com (J1, J2) — Chad coverage starts May 2025; nothing in-window.
-- techcabal.com (J1, J2) — only one Chad story ever found (Telemedan, 2026-04); nothing in-window.
-- techreviewafrica.com (J1, J2) — Exa returns most pages without dates ("N/A"); its earliest Chad items are May 2025; the AI-council hit proved to be 2025-11-13 on fetch (dropped out-of-window).
+## Data governance / protection (gov.protect)
+2025-03-29 | gov.protect | Togo First | L'Instance de protection des données (IPDCP) démarre ses activités | IPDCP formally launches operations + public awareness campaign (Mar-2025)
+2025-11-03 | gov.protect, infra.cybersec, capacity.literacy | Togo First | 3000 jeunes togolais formés aux bons réflexes numériques | IPDCP+ANCy youth data-protection campaign; cites cyber-strategy 2024-2028, CERT.tg
+2026-06-25 | gov.protect, capacity.training | Togo First | IPDCP forme ses premiers correspondants (CPD) | First 32 corporate data-protection officers certified; new compliance programme
 
-Method notes: Exa's MCP tool exposes no date or domain filters, so domain scoping was done via site:-style queries (with off-domain leakage discarded) and every candidate's date was verified on-page via fetch. Exa-reported dates were reliable for lendjampost/wearetech, absent for techreviewafrica.
+## Data centre / cloud / sovereignty (infra.store, tech.ai)
+2026-05-28 | infra.store, tech.ai | Togo First | SIN et ST DIGITAL s'allient pour une offre de cloud privé au Lomé Data Centre | Designated-paper account of SIN/ST Digital LDC private-cloud deal (26 May); SAME EVENT as held connectingafrica 2026-06-02 — adds local detail (Tier III, 99.982% SLA, DG quotes)
 
----
+## Connectivity / infra finance (infra.connect, finance.new)
+2026-04-21 | infra.connect, gov.regional | Togo First | PPP, la clé pour accélérer le haut débit en Afrique (ARTAO) | ARTAO 23rd AGM in Lomé; broadband-financing/PPP debate; fibre cost data
+2026-07-16 | infra.cybersec, finance.mou | Togo First | Togo, Luxembourg Sign Three Agreements incl. TogoCyber+ | New Togo-Luxembourg cyber/dev cooperation (TogoCyber+, PIC)
+2026-07-17 | finance.new, dpi.id | Togo First | Togo Signs CFA257.4bn Financing for Vision 2040 | World Bank $429M package incl. WURI digital-ID top-up (+$20M); portfolio now $2.1bn
 
-## Completion pass — window 2025-04-01..2026-07-17 — run 2026-07-17 (batch TCD-2026-07-17)
+## Payments / digital finance (dpi.pay)
+2025-08-04 | dpi.pay, gov.regional | Togo First | 7 institutions financières sur la plateforme PI-SPI de la BCEAO | Aug-2025 pre-launch: 7 TGO institutions on BCEAO instant-payment platform
+2025-10-15 | dpi.pay, finance.new | Togo First | Gozem Money entre en service | New mobile-money wallet (Gozem × NSIA Banque), live since 7 Oct
+2025-10-16 | dpi.pay, finance.new | TechAfrica News | Gozem Launches Mobile Money Platform in Togo | Journal on Gozem Money; SAME EVENT as Togo First 2025-10-15 — flag for lint #7
+2026-02-17 | dpi.pay, gov.legislate | TechCabal | Togo fintech Semoa wins full-service BCEAO Level 3 licence | Semoa gains BCEAO Level 3 (29 Jan); analysis of UEMOA fintech licensing regime
+2026-03-06 | dpi.pay, gov.regional | Togo First | BCEAO : six acteurs autorisés à ouvrir au public les services PI-SPI | PI-SPI public rollout expands 3→6 authorised providers (as of 24 Feb)
+2026-03-18 | dpi.pay, data.statistics | Togo First | Comptes de monnaie électronique +76,87% en un an | BCEAO annual data: 12.55M e-money accounts (6.07M active) end-2024; +76.87%
+2026-04-03 | dpi.pay, gov.regional | Togo First | BCEAO fixe au 30 juin l'adhésion à PI-SPI | Hard deadline (30 Jun 2026); 80 institutions connected region-wide as of 2 Apr
+2026-04-14 | dpi.pay, gov.regional | Togo First | Mixx Togo lance les paiements instantanés UEMOA via PI-SPI | Mixx (Yas Togo) joins PI-SPI; cross-border UEMOA transfers + interoperable QR
+2026-07-08 | dpi.pay, include.access | Togo First | Moov Africa Togo lance de nouveaux services mobile money | Moov "Soyi Mavo" campaign + 3 new services; ARCEP market-share data (Mixx 58% / Flooz 42%)
 
-33 items appended (Chad proved RICH in this window, unlike the Q1 pilot). Assigned .com papers: lendjampost.com well-indexed (8 items staged); lepaystchad.com still weakly indexed (no keeper). Leaned heavily on trade journals (techafricanews, connectingafrica, wearetech, biometricupdate) + Chadian/agency primaries (tchadinfos, journaldutchad, tribuneechos, tchad24.tv, Digital Business Africa, Ecofin Agency, Salam Info), each flagged by provenance.
+## AI / innovation / cyber (tech.ai, tech.innovate)
+2025-10-27 | tech.innovate, tech.industry | Togo First | Lancement officiel de TogoTech, synergie nationale des startups | New startup association (Gozem, Semoa, etc.); CFA2bn cumulative revenue
+2026-06-05 | gov.policy, tech.ai | Togo First | Forum national sur la gouvernance de l'Internet (Togo IGF), 19 juin | Togo IGF 2026 on digital-sovereignty theme; ISOC Togo
+2026-07-08 | tech.ai, infra.cybersec | Togo First | Fraude et blanchiment : experts réfléchissent au rôle de l'IA (GRCRO) | 3rd GRCRO in Lomé, 46 countries; AI in AML/fraud; CENTIF-Togo, HAPLUCIA
+2026-07-14 | tech.ai, capacity.research | Togo First | Projet pour valoriser les langues nationales via l'IA | Togo AI Lab + Zindi + Umbaji open-source language-model project (50 languages); presented at AI for Good
 
-Staged items (published | topics | publisher | title | why-new):
-
-- 2025-05-09 | dpi.id, dpi.registry, include.access, geopol.eu | Biometric Update | Chad issues biometric IDs to thousands of refugees with Idemia tech, UNHCR's help | ANATS/CNARR/UNHCR/World Bank refugee NNIR rollout on SIGPTS (Idemia); 4,000+ IDs by 1 May 2025; predates held items.
-- 2025-07-05 | infra.connect, include.access, include.divides, geopol.usa | Tchadinfos | Les services de Starlink désormais disponibles au Tchad | Starlink commercial launch (4 Jul 2025) + tariff grid; Chadian primary; distinct from the Mar-2025 licence (Q1).
-- 2025-07-18 | gov.policy, infra.connect, dpi.govtech, dpi.pay | TechAfrica News | Chad Launches $1.5B Digital Strategy to Connect Citizens by 2030 | Formal launch of Tchad Connexion 2030 ($1.5B, Sotel privatisation, 509km N'Djamena–Niger fibre); anchor strategy source.
-- 2025-08-28 | gov.policy, gov.protect, infra.connect, infra.cybersec | Tchadinfos | Tchad : le gouvernement fixe les conditions d'utilisation des services Starlink | 27 Aug 2025 arrêté: user ID via ARCEP, 24-month IP/log retention, sanctions regime.
-- 2025-09-02 | infra.connect, gov.standards, include.access | Afrique IT News | Le Tchad ordonne aux opérateurs de se connecter au réseau national de fibre optique | Gov 7-day ultimatum to Airtel/Moov to connect to PMICE backbone; 13.2% penetration data.
-- 2025-09-17 | dpi.id, dpi.registry, dpi.govtech | Le N'Djam Post | Tchad : l'État Civil Numérique, un pas décisif dans l'identification des citoyens | ANATS launches civil-registration digitalisation (African Identity Day, 16 Sep); assigned-paper local coverage.
-- 2025-09-29 | infra.connect, gov.policy, include.access | Digital Business Africa | Internet/Tchad : Starlink pourrait passer de FAI à opérateur télécom | Possible upgrade of Starlink from ISP to full telecom operator. [FLAG: site content-protected, summary body — manual clip needed.]
-- 2025-12-16 | infra.connect, gov.regional, dpi.exchange | Tchadinfos | N'Djamena accueille l'atelier sous-régional sur la cartographie des infrastructures de fibre optique | ARTAC/ITU/ARCEP Central-Africa fibre-mapping + CEMAC free-roaming workshop (15–18 Dec); regional (XCA).
-- 2025-12-21 | infra.connect, digital.rural, include.access, infra.store | Le N'Djam Post | Inauguration de la fibre optique au Moyen-Chari : un pas vers la modernisation numérique | PMICE Phase I inauguration at Sarh (20 Dec), Safitel; assigned-paper local coverage of the €175M project.
-- 2025-12-26 | gov.legislate, gov.policy, infra.cybersec | Afrique IT News | Tchad : le Parlement modernise le cadre juridique des communications électroniques | Law ratifying ordinance 011/PR/2025 (amends art.18 of 013/PR/2014), adopted 23 Dec; Senate 65/67.
-- 2026-01-08 | infra.energy, include.access, digital.rural, geopol.china | Le N'Djam Post | Tchad : des mini-réseaux solaires seront installés dans cinq villes d'ici juillet 2026 | PAAET (World Bank) solar mini-grids via Shenzhen Lemi (China); 5 Tchadelec sites; energy-for-connectivity.
-- 2026-01-11 | infra.connect, gov.regional | Tchadinfos | Projet de la dorsale transsaharienne à fibre optique : des dégradations constatées sur le site technique de Bol | DTS backbone vandalism at Bol; EU €29M funding; 2023-launched works slowed.
-- 2026-01-24 | dpi.pay, dpi.govtech, gov.policy, finance.new | Le N'Djam Post | Budget 2026 au Tchad : zéro cash, zéro papier, zéro facture fantôme | SIGFIP/FEN e-invoicing; cash & cheques banned from 1 Apr 2026; assigned-paper. [FLAG: body truncated at capture.]
-- 2026-01-29 | data.satellite, infra.connect, finance.mou, digital.rural | Tchad24 TV | Numérique : le Tchad et Azercosmos signent un accord spatial historique | ARCEP–Azercosmos (Azerbaijan) satellite MoU: connectivity + remote sensing; new geopolitical vector.
-- 2026-02-06 | infra.store, infra.cybersec, gov.standards | Le N'Djam Post | Data Center National, un pas vers la souveraineté numérique sécurisée du Tchad | Assigned-paper local coverage of the ANSICE–ADETIC–TECHSO tripartite data-centre audit (same event as held items).
-- 2026-02-09 | infra.connect, gov.regional, gov.standards | Connecting Africa | Chad tells operators to fast-track fiber link to Cameroon | N'Djamena–Mberé route; Apr-2025 MoU suspended by ARCEP over sovereignty clauses; only int'l submarine-cable entry point.
-- 2026-02-17 | dpi.pay, dpi.govtech, finance.new, include.access | Journal du Tchad | Tchad : le gouvernement accélère l'intégration du paiement mobile des services publics | Finance Min pushes convention-cadre with Moov Money, Airtel Money, Konoom, Cashi for state e-payments.
-- 2026-02-19 | infra.store, finance.mou, infra.capacity | TechAfrica News | Chad and Azerbaijan Explore Strategic Partnership in Digital Transformation | Azerbaijani ICT delegation visits ADETIC data centre (17 Feb); follows Baku trip; distinct from Azercosmos MoU.
-- 2026-03-09 | infra.connect, finance.mou, infra.store, dpi.pay | TechAfrica News | Ethio telecom and Chad Explore Digital Infrastructure Partnership at MWC Barcelona | Ethio telecom–Chad talks at MWC 2026; proposed technical delegation to Chad; new operator-partnership vector.
-- 2026-03-16 | gov.legislate, gov.protect, infra.cybersec, tech.ai | Ecofin Agency | Chad approves reform strengthening national cybersecurity agency | Senate ratifies ANSICE reform (13 Mar): mandate expands to data protection, cybercrime, AI, drones, VSS, vital-entity classification.
-- 2026-03-26 | capacity.training, include.access, capacity.literacy | Le N'Djam Post | Tchad : 120 jeunes à la maîtrise des outils numériques et à la sensibilisation à l'inclusion financière | PDMFI/RJET youth digital+finance training (24–25 Mar, Festafrica); assigned-paper, brief.
-- 2026-04-02 | dpi.pay, finance.new, include.access | We Are Tech Africa | La fintech Cashi s'allie à la SFI pour accélérer les paiements numériques au Tchad | Cashi–IFC interoperable payments platform for Central Africa, Chad-first.
-- 2026-04-17 | capacity.training, tech.innovate, capacity.literacy, geopol.eu | Le N'Djam Post | Tchad : le programme D-CLIC lance une nouvelle génération de jeunes innovateurs | OIF "Makers Tchad" D-CLIC launch at Wenaklabs; 150 youth (CNC/IoT); assigned-paper.
-- 2026-04-28 | dpi.registry, dpi.id, dpi.exchange, digital.localgov | Tribune Echos | Tchad : l'ANATS et l'OIF s'unissent pour la transformation numérique de l'état civil | ANATS–OIF civil-registry interoperability with N'Djamena municipality; free jugement supplétif.
-- 2026-04-29 | gov.legislate, gov.policy | TechAfrica News | Chad Forms Committee to Overhaul Digital, Telecom and Postal Legal Framework | 34-member committee, 45-day deadline to rewrite digital/telecom/postal legislation.
-- 2026-05-07 | dpi.id, dpi.registry, finance.mou, include.access | Le N'Djam Post | Tchad : l'ANATS et l'OIM scellent un partenariat pour l'identité sécurisée | ANATS–IOM MoU on secure ID for vulnerable populations/migrants (7 May); assigned-paper.
-- 2026-05-09 | dpi.id, gov.protect, infra.cybersec, dpi.registry | Tchadinfos | Sécurisation des données : l'ANATS et Airtel Tchad signent un partenariat stratégique | ANATS–Airtel mass-enrolment + SIM-data interconnection deal (8 May); anti-fraud/data-protection.
-- 2026-05-21 | infra.connect, dpi.exchange, infra.store | Digital Business Africa | Tchad : l'ADETIC célèbre un an du point d'échange Internet TCHADIX | One year of the TCHADIX IXP; localising national traffic. [FLAG: site content-protected, summary body — manual clip needed.]
-- 2026-06-01 | geopol.usa, infra.connect, infra.store, dpi.mis, finance.mou | Digital Business Africa | Tchad : à Washington, N'Djamena multiplie les contacts avec Starlink, InterSystems... | US mission (23–31 May): State/Commerce + InterSystems, Starlink, Cybastion, Vertiv, 19Labs; e-health for 5 CHUs/23 hospitals/1000+ centres.
-- 2026-06-02 | infra.connect, dpi.govtech, gov.regional, include.divides | Salam Info | Le gouvernement tchadien et la Banque Mondiale accélèrent le déploiement des « routes virtuelles » | WB mission (1–5 Jun) on PATN; ~500 zones blanches; new PATN country rep Marc Lixi; CARDIP regional programme.
-- 2026-06-19 | dpi.pay, tech.innovate, include.access, finance.new | We Are Tech Africa | Tchad : Konoom élargit l'accès aux paiements numériques grâce à ses plateformes web et mobiles | Chadian fintech Konoom (COBAC-licensed) multichannel wallet (app/web/USSD/WhatsApp); launched 2025.
-- 2026-06-19 | gov.standards, infra.cybersec, data.statistics | TechAfrica News | Chad Inaugurates Strategic Regulatory Platforms to Strengthen Telecom Oversight | ARCEP real-time monitoring platforms (18 Jun) for traffic/spectrum/QoS/VSAT oversight.
-- 2026-06-26 | infra.connect, gov.standards, infra.energy, include.access | Connecting Africa | Chad pushes telcos for network upgrades | Gov warns Airtel/Moov over QoS; Moov told to solve fuel/solar power; Airtel investment plan met with scepticism.
-
-Method notes (completion pass): Exa returned high in-window volume for Chad this window; every `published` re-verified at fetch and pre-2025-04-01 items hard-dropped (see drop log, incl. portail.td Starlink-licence 2025-03-13, lobservateur 2025-01-13). digitalbusiness.africa serves "Content is protected" — 2 keepers (Starlink-FAI-operator, TCHADIX) staged with flagged summary bodies pending manual clip. Off-host primaries used with provenance flags: tchadinfos, journaldutchad, tribuneechos, tchad24.tv, salaminfo, Ecofin, Digital Business Africa. Lead not staged: the official Tchad Connexion 2030 plan PDF (tchadconnexion2030.td/.../20250827_..._Rapport.pdf, 2025-08-27) — primary strategy instrument worth capturing as a companion source page at ingest. Candidate entity pages seen (not staged): ARCEP (arcep.td), Airtel Tchad, Moov Money Tchad, Konoom, Cashi, Wenaklabs, TCHADIX, ANATS, ADETIC, ANSICE, Chad Telecom backbone.
+## Digital strategy / policy (gov.policy)
+2025-05-28 | gov.policy, tech.innovate | WeAreTech.Africa | Togo : nouvelle stratégie numérique 2025-2030 en préparation | Consultant recruitment for "Togo Digital 2025-2030"; digital = 4% GDP (2022), target 10%
