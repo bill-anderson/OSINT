@@ -11,6 +11,7 @@ places: [SSD]
 topics: [dpi.id, include.access]
 entities: [[directorate-civil-registry-nationality-passport-immigration-south-sudan]]
 lens: []
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: SSD-2026-07-17
 ---

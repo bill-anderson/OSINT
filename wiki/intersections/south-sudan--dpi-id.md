@@ -3,9 +3,13 @@ type: intersection
 title: Digital identity and CRVS in South Sudan
 place: SSD
 topic: dpi.id
+places: [SSD]
+topics: [dpi.id, dpi.registry, include.access, gov.protect, dpi.mis, dpi.pay]
+entities: [[dcrnpi-south-sudan]]
+lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-16
-sources: [[2024-11-21 Over 17,400 South Sudanese receive national identity cards thanks to UNHCR and the EU]], [[2026-01-16 Juba - Passport, ID card issuance resumes]], [[2025-12-15 Strengthening Civil Registration and Ending Statelessness in South Sudan]], [[2025-01-01 Policy and Legal in South Sudan (civil registry and identity framework)]]
+last_reviewed: 2026-07-19
+sources: [[2024-11-21 Over 17,400 South Sudanese receive national identity cards thanks to UNHCR and the EU]], [[2026-01-16 Juba - Passport, ID card issuance resumes]], [[2025-12-15 Strengthening Civil Registration and Ending Statelessness in South Sudan]], [[2025-01-01 Policy and Legal in South Sudan (civil registry and identity framework)]], [[2026-01-16-15m-biometric-drive-dpi-ghost-workers-onecitizendaily]], [[2026-06-24-biometric-registration-organised-forces-onecitizendaily]], [[2026-05-08-govt-procures-5-machine-systems-id-passport-onecitizendaily]], [[2026-07-13-national-id-cards-collection-greater-yei-onecitizendaily]], [[2025-06-18-digital-land-register-fraud-onecitizendaily]]
 ---
 
 # Digital identity and CRVS in South Sudan
@@ -45,6 +49,36 @@ do not function as an identity layer. See [[dpi.id]], [[SSD]].
 - **Passport/ID resumption (2026-01).** DNPI resumed issuance after booklet
   shortages and announced a SIM-linked foreigner-registration scheme. Source:
   [[2026-01-16 Juba - Passport, ID card issuance resumes]].
+- **Production capacity & distribution (2026).** CRNPI took delivery of **five machine
+  systems** (two for passports, three for national ID / nationality certificates); the
+  **Greater Yei** region began **distributing 4,000+ national ID cards** (Jul 2026), with
+  new applications processed in ~2 weeks. Fees: passport **$100**, national ID **>50,000
+  SSP**. The rollout in practice — slow, regional, fee-gated. Sources:
+  [[2026-05-08-govt-procures-5-machine-systems-id-passport-onecitizendaily]],
+  [[2026-07-13-national-id-cards-collection-greater-yei-onecitizendaily]].
+
+## Biometric payroll — DPI by default
+
+- **The $15M biometric drive (2026).** A **$15m** World-Bank-backed biometric registration of
+  civil servants (cameras + thumbprint scanners) to purge **ghost workers and duplicate names**
+  is framed as **"the nation's first major DPI building block"** — by default, in the absence of a
+  national digital ID. It rolls out in **three phases** (national → states → **organised forces**,
+  launched Jun 2026 via the PFMIS project); data is stored on the **Ministry of Finance** server.
+  The open governance question: **without a data-protection authority or law, who controls the
+  biometric data after the project ends?** See [[dpi.mis]], [[dpi.pay]], [[gov.protect]],
+  [[south-sudan--gov-protect]]. Sources:
+  [[2026-01-16-15m-biometric-drive-dpi-ghost-workers-onecitizendaily]],
+  [[2026-06-24-biometric-registration-organised-forces-onecitizendaily]].
+- The payroll registry is powerful but **siloed** — an anti-fraud tool, not an interoperable
+  identity layer, and it hardens biometric data collection ahead of the safeguards.
+
+## Land registry
+
+- **Digital land register advocacy (2025).** A policy expert urged replacing the "backward,
+  manipulative" manual land-registration system with a **single central digital land database**
+  unifying customary and statutory tenure — to cut fraud, secure tenure and reduce overlapping-claim
+  disputes. The only land-registry signal for SSD in window. See [[dpi.registry]]. Source:
+  [[2025-06-18-digital-land-register-fraud-onecitizendaily]].
 
 ## Legal framework
 

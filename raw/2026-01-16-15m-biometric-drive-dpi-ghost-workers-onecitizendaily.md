@@ -11,6 +11,7 @@ places: [SSD]
 topics: [dpi.id, dpi.mis, dpi.pay, gov.protect]
 entities: [[world-bank]]
 lens: [sovereignty]
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: SSD-2026-07-17
 ---
