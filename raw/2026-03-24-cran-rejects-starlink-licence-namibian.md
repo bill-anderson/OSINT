@@ -12,6 +12,7 @@ entities: [[cran], [starlink]]
 lens: [sovereignty]
 retrieved: 2026-07-17
 sweep_batch: NAM-2026-07-17
+body_completeness: excerpt
 ---
 
 # Cran rejects Starlink licence

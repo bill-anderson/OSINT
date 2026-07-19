@@ -6,7 +6,7 @@ places: [NAM, AGO, XSA]
 topics: [finance.mou, infra.connect, infra.capacity, gov.regional, infra.cybersec]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-17
+last_reviewed: 2026-07-19
 sources: [[2026-06-15 Telecom Namibia signs more satellite, subsea connectivity deals with Angola firms], [2026-06-15-telecom-namibia-angola-satcab-sarssy-1tbps-techafricanews], [2026-06-12-namibia-angola-ink-satellite-deal-itweb], [2026-06-11-namibia-and-angola-join-forces-angotic-mou], [2026-04-24-angola-namibias-dynamic-connectivity-partnership-itweb], [2025-10-14-namibia-taps-angosat-2-to-boost-connectivity]]
 ---
 

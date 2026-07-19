@@ -6,7 +6,7 @@ places: [ZWE, NAM, AGO, XSA, XAF]
 topics: [infra.connect, infra.capacity, infra.store, finance.new]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-15
+last_reviewed: 2026-07-19
 sources: [[2026-07-06 Powertel, Paratus Zimbabwe switch on new digital highway], [2026-06-15 Namibia encouraged by Angola on datacentre establishment], [2023-06-27 Paratus to build third Angola data center (DC3, Tier IV)], [2025-09-04-paratus-launches-namibia-first-private-mobile-network-connectingafrica], [2025-08-19-paratus-to-launch-mobile-network-namibiansun]]
 ---
 

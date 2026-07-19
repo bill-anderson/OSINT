@@ -6,8 +6,8 @@ places: [NAM]
 topics: [gov.legislate, gov.protect, infra.connect, include.access]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-11
-sources: [[2026-03-26 Starlink blocked from operating in Namibia], [2026-03-24 Namibia puts foot down against Musk's Starlink], [2026-02-02 Namibian regulator proposes tax breaks on 4G devices]]
+last_reviewed: 2026-07-19
+sources: [[2026-03-26 Starlink blocked from operating in Namibia], [2026-03-24 Namibia puts foot down against Musk's Starlink], [2026-02-02 Namibian regulator proposes tax breaks on 4G devices], [2026-06-24-namibian-regulator-rejects-starlink-again-connectingafrica], [2026-03-24-cran-rejects-starlink-licence-namibian], [2026-03-31-starlink-says-cran-denial-unjustified-namibiansun], [2026-07-14-namibia-pushes-cyber-security-reforms-itweb]]
 ---
 
 # Communications Regulatory Authority of Namibia (CRAN)
@@ -42,6 +42,14 @@ licenses operators, manages spectrum and enforces sector compliance.
   licensing impasse over local-ownership rules). See [[infra.connect]], [[digital.rural]].
   Sources: [[2026-03-26 Starlink blocked from operating in Namibia]],
   [[2026-03-24 Namibia puts foot down against Musk's Starlink]].
+- **Reconsideration rejected — denial upheld (2026-06-24).** CEO **Emilia Nghikembua** said CRAN received
+  **624 reconsideration requests**; **622** failed the legal threshold and **2**, heard on merits, showed "no
+  new evidence nor a material error" — so the **March denial stands** (Starlink still failing ownership,
+  compliance and national-security criteria). She stressed the issue "has never been whether satellite
+  technology is beneficial" but statutory compliance; CRAN noted a **fresh Starlink application on 8 June 2026**.
+  CRAN also runs **[[nam-csirt|Nam-CSIRT]]** (see [[namibia--infra-cybersec]]). Sources:
+  [[2026-06-24-namibian-regulator-rejects-starlink-again-connectingafrica]],
+  [[2026-03-31-starlink-says-cran-denial-unjustified-namibiansun]].
 - **4G-device tax breaks proposed (2026-02).** At an MTC Namibia tower launch in Kunene
   (Epupa), CRAN CEO **Emilia Nghikembua** proposed tax breaks and incentives to make
   4G-enabled handsets affordable, citing MTC 4G-tower utilisation of **under 50%** ("putting

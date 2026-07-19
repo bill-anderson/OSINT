@@ -6869,3 +6869,22 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
   vs held coverage).
 - Sources: 2025-08-19 Paratus plan (Namibian Sun), 2025-09-04 Paratus launch (connectingafrica), 2025-08-24 25
   towers (Namibian Sun), 2026-02-10 5G feature (telecomreview), 2026-06-15 SARSSy MSA (techafricanews).
+
+## 2026-07-19 — ingest(NAM) chunk 5/6: Starlink licensing saga
+
+- **6 sources admitted, 0 leads, 0 discards.** Three paywalled (ownership-exemption, CRAN-rejects Namibian Sun,
+  Starlink-unjustified — free ledes; the last carries usable body).
+- **Intersection updated:** [[namibia--infra-connect]] — new "## The Starlink saga (2025-06 → 2026-06)" section:
+  ownership-exemption stage → 23-Mar gazetted denial (0% local ownership; frequencies; Q-Kon approved; s.31
+  90-day window) → Starlink appeal/"misleading" pushback (98.6%, deposits, 164 markets) → **624 reconsideration
+  requests, 622 declined, 2 on merits, denial upheld; re-applied 8 Jun 2026**. +6 sources.
+- **Entities updated:** [[starlink]] (+Namibia reconsideration; +3 sources), [[cran]] (+reconsideration upheld;
+  +Nam-CSIRT link; +4 sources); last_reviewed bumped on both.
+- **NAM hub:** +1 Recent-developments entry (reconsideration rejected 2026-06-24); enriched the 2026-03-26 denial
+  entry with the exemption stage, Starlink pushback and Q-Kon detail (+3 sources).
+- **Dedup notes:** the two 23-Mar rejection reports (Namibian, Namibian Sun) kept complementary; the March
+  denial itself was largely already held — this chunk adds the exemption stage, the appeal/response, and the
+  NEW June reconsideration outcome.
+- Sources: 2025-06-30 exemption review (Namibian Sun), 2026-03-24 rejection (Namibian), 2026-03-24 rejection
+  (Namibian Sun), 2026-03-27 appeal (Namibian), 2026-03-31 unjustified (Namibian Sun), 2026-06-24 reconsideration
+  rejected (connectingafrica).

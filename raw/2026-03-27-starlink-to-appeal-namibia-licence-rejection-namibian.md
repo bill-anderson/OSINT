@@ -12,6 +12,7 @@ entities: [[starlink], [cran]]
 lens: [sovereignty]
 retrieved: 2026-07-17
 sweep_batch: NAM-2026-07-17
+body_completeness: excerpt
 ---
 
 # Starlink to appeal Namibia's licence rejection

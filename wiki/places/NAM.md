@@ -77,8 +77,19 @@ last_reviewed: 2026-07-19
   (where Musk branded the 30%-empowerment rule "openly racist"), and reiterates CRAN **may
   reconsider within 90 days**. Sources:
   [[2026-03-26 Starlink blocked from operating in Namibia]],
-  [[2026-03-24 Namibia puts foot down against Musk's Starlink]], [[2026-06-16 Who Owns Africa's Sky]]. See
-  [[infra.connect]], [[gov.legislate]], [[gov.protect]], [[digital.rural]].
+  [[2026-03-24 Namibia puts foot down against Musk's Starlink]], [[2026-06-16 Who Owns Africa's Sky]],
+  [[2026-03-24-cran-rejects-starlink-licence-namibian]] *(0% local ownership; Q-Kon transfer approved; s.31
+  90-day reconsideration)*, [[2026-03-31-starlink-says-cran-denial-unjustified-namibiansun]] *(Starlink: denial
+  "misleading"; deposits; "164 markets")*,
+  [[2025-06-30-theofelus-starlink-ownership-exemption-under-review-namibiansun]] *(the 2025 exemption stage)*.
+  See [[infra.connect]], [[gov.legislate]], [[gov.protect]], [[digital.rural]].
+- **2026-06-24** — **Starlink reconsideration rejected — denial upheld.** **[[cran]]** (CEO Nghikembua)
+  received **624 reconsideration requests**; **622** failed the legal threshold and **2** were heard on merits
+  but showed "no new evidence nor material error" — the **March denial stands** (still failing ownership,
+  compliance, national security). Starlink filed a **fresh application on 8 June 2026**. Full timeline:
+  **[[namibia--infra-connect]]**. Source:
+  [[2026-06-24-namibian-regulator-rejects-starlink-again-connectingafrica]]. See [[infra.connect]],
+  [[gov.legislate]], [[sovereignty]].
 
 - **2026-02-13** — **China hands over Namibia's first satellite ground station.** China
   transferred a **satellite data-receiving ground station** at the Telecom Earth Station
