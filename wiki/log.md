@@ -6992,3 +6992,24 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
   (+places); [[tech.ai]] +NER AI-for-human-security/Illimi bullet (+places/footer).
 - Sources: 2026-06-10 UN AI/Illimi 140 cadres (Le Sahel), 2025-08-04 ANSI startups (Le Sahel), 2026-07-10 ANSI
   smart villages Tabelot (Le Sahel).
+
+## 2026-07-19 — ingest(NER) chunk 5/5 + finalize: E-health + payments
+
+- **2 sources admitted, 0 leads, 0 discards.**
+- **Entities created (2):** [[niger-ehealth-masterplan]] (instrument — National e-Health Master Plan 2025-2029,
+  27 projects), [[banque-atlantique]] (company — Groupe BCP; resolves the NITA bank-to-wallet link).
+- **NER hub:** +2 Recent-developments entries (e-Health Master Plan 2026-07-09; Banque Atlantique×NITA
+  bank-to-wallet 2026-06-29); +dpi.mis Active-topics line; NITA/Banque-Atlantique added to dpi.pay line;
+  +dpi.mis/dpi.exchange/finance.mou/geopol.india topics; +3 entities.
+- **Concept:** [[dpi.mis]] +NER (was absent) +e-Health-Master-Plan bullet (+places/footer).
+- **entities-index:** +niger-ehealth-masterplan, +banque-atlantique.
+- Sources: 2026-07-09 e-Health Master Plan (Le Sahel), 2026-06-29 Banque Atlantique×NITA (Le Sahel, pr-wire).
+
+### NER ingest total (chunks 1-5): **21 sources admitted, 0 leads, 1 discard (relevant-duplicate), 0 needs-clip**
+- Intersections created: 3 (niger--dpi-id, niger--infra-cybersec, niger--infra-connect). Entities created: 9
+  (nita-niger, bioenable, arcep-niger, ansi-niger, ninetec, airtel-niger, niger-ehealth-masterplan,
+  banque-atlantique) + updates to niger-national-eid, cib-aes, wuri-programme, niger-data-protection-law (Loi
+  2022-59 re-dating), hapdp-niger, trans-saharan-fibre-backbone, starlink.
+- 1 relevant-duplicate pruned (connectingafrica biometric-ID re-clip). DP-law current-law correction to Loi
+  2022-59. No contradictions, no gaps. Several paywalled/PR-wire sources flagged. Le Sahel state-daily items
+  carry "capture is not endorsement" notes.

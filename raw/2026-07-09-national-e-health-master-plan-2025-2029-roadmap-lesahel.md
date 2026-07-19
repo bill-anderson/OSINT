@@ -12,6 +12,7 @@ entities: []
 lens: []
 retrieved: 2026-07-17
 sweep_batch: NER-2026-07-17
+body_completeness: excerpt
 ---
 
 # Atelier de la Direction de la e-Santé : vers une transformation numérique du système de santé

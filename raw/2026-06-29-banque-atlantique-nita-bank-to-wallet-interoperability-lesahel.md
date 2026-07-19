@@ -13,6 +13,7 @@ lens: []
 provenance_flag: pr-wire
 retrieved: 2026-07-17
 sweep_batch: NER-2026-07-17
+body_completeness: excerpt
 ---
 
 # Niger : Banque Atlantique et NITA renforcent l'interopérabilité entre services bancaires et paiement mobile

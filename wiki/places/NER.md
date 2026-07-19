@@ -4,7 +4,7 @@ title: Niger
 code: NER
 parent: XWA
 place_kind: country
-topics: [dpi.id, dpi.registry, gov.regional, gov.legislate, gov.protect, infra.store, infra.cybersec, infra.connect, dpi.govtech, dpi.pay, data.statistics, include.access, geopol.usa, include.divides, tech.industry, gov.standards, tech.ai, tech.innovate, digital.rural, capacity.training, data.open]
+topics: [dpi.id, dpi.registry, gov.regional, gov.legislate, gov.protect, infra.store, infra.cybersec, infra.connect, dpi.govtech, dpi.pay, data.statistics, include.access, geopol.usa, include.divides, tech.industry, gov.standards, tech.ai, tech.innovate, digital.rural, capacity.training, data.open, dpi.mis, dpi.exchange, finance.mou, geopol.india]
 status: active
 last_reviewed: 2026-07-19
 ---
@@ -26,6 +26,19 @@ all against very low connectivity (**internet penetration ~23% (2025)**).
   produced by the **Police DST** with **[[al-itissal-al-jadeed|Al Itissal Al Jadeed]]** + local partner HASDI.
   Source: [[2026-07-16-aes-biometric-passport-tiani-first-enrollee-actuniger]]. See
   [[niger--dpi-id]], [[dpi.id]], [[gov.regional]].
+- **2026-07-09** — **National e-Health Master Plan 2025-2029 validated.** The Health Ministry (Min. Garba
+  Hakimi) validated the budgeted roadmap of the **[[niger-ehealth-masterplan|Schéma Directeur National de la
+  e-Santé 2025-2029]]** — **27 structuring projects** (HMIS, interoperability, epidemiological surveillance,
+  cybersecurity, data-for-decision) under the Refondation programme — moving "from dispersed projects to a
+  national digital-health policy." A first **[[dpi.mis]]** anchor for Niger. Source:
+  [[2026-07-09-national-e-health-master-plan-2025-2029-roadmap-lesahel]]. See [[dpi.mis]], [[gov.policy]],
+  [[dpi.exchange]].
+- **2026-06-29** — **Bank-to-wallet interoperability (Banque Atlantique × NITA).** **[[banque-atlantique|Banque
+  Atlantique Niger]]** (Groupe BCP) and **[[nita-niger|NITA]]** launched **"Bank to Wallet / Wallet to Bank"**
+  instant transfers (26 Jun 2026) — the same **NITA** that runs CNIB-AES enrolment-fee kiosks, now at the
+  bank↔wallet interoperability layer. Source:
+  [[2026-06-29-banque-atlantique-nita-bank-to-wallet-interoperability-lesahel]]. See [[dpi.pay]], [[finance.mou]],
+  [[include.access]].
 - **2026-03-27** — **AES biometric national ID: mass enrolment.** Niger became the **second** AES member (after
   Burkina Faso) to roll out the bloc's regional **[[niger-national-eid|biometric national ID]]** (President
   **Tiani** first enrollee; PM Zeine 9 Apr). **Mass enrolment** began 25 Apr 2026 across Niamey's **20
@@ -138,7 +151,10 @@ all against very low connectivity (**internet penetration ~23% (2025)**).
   **[[ninetec]]** distributor; ARCEP anti-"Wifi Zone" enforcement; **[[airtel-niger|Airtel]]** "Starlink by
   Airtel") over a ~23%-penetration, ~80%-rural base — **[[niger--infra-connect]]**.
 - [[dpi.govtech]] · [[dpi.pay]] — "Niger 2.0" digital-administration reform (**[[ansi-niger|ANSI]]**);
+  **[[nita-niger|NITA]]** × **[[banque-atlantique|Banque Atlantique]]** bank-to-wallet interoperability;
   STAR-UEMOA regional settlement.
+- [[dpi.mis]] · [[gov.policy]] — **[[niger-ehealth-masterplan|National e-Health Master Plan 2025-2029]]** (27
+  projects; HMIS, interoperability, surveillance, cybersecurity).
 - [[tech.innovate]] · [[tech.ai]] · [[digital.rural]] — ANSI startup ecosystem (Qwiper, CodeLoccol);
   **Villages Intelligents** (Tabelot); UN **Illimi** AI-for-human-security (140 cadres; multisectoral data
   platform).
@@ -147,7 +163,7 @@ all against very low connectivity (**internet penetration ~23% (2025)**).
 
 - [[niger-national-eid]] · [[cib-aes]] · [[al-itissal-al-jadeed]] · [[hapdp-niger]] · [[niger-data-protection-law]] · [[niger-ixp]] · [[nita-niger]]
 - [[alliance-of-sahel-states]] · [[wuri-programme]] · [[mosip]] · [[bioenable]] · [[world-bank]]
-- [[ansi-niger]] · [[arcep-niger]] · [[trans-saharan-fibre-backbone]] · [[african-development-bank]] · [[starlink]] · [[ninetec]] · [[airtel-niger]]
+- [[ansi-niger]] · [[arcep-niger]] · [[trans-saharan-fibre-backbone]] · [[african-development-bank]] · [[starlink]] · [[ninetec]] · [[airtel-niger]] · [[nita-niger]] · [[banque-atlantique]] · [[niger-ehealth-masterplan]]
 - Intersections: [[niger--dpi-id]] · [[niger--infra-cybersec]] · [[niger--infra-connect]]
 - Mentioned, not hubbed: President Abdourahamane Tiani (first enrollee); ANSI (national IT agency); INS Niger
   (statistics office); BCEAO / STAR-UEMOA; Ministry of Interior, Security and Territorial Administration.
