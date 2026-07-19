@@ -7227,3 +7227,11 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
   cloud contest: Huawei accord (DC modernisation + IT assembly plant, China visit), Alibaba Dakar-2026
   sovereign cloud. +5 sources; sovereignty/colonialism read (place vs technology).
 - Added [[senegal--infra-connect]] + [[senegal--infra-store]] to hub Intersections list.
+
+## 2026-07-19 — ingest(SEN) chunk 4: Payments & fintech
+
+- **7 admitted, 0 pruned.**
+- **[[senegal--dpi-pay]] expanded:** fintech market ($3.08bn→$8.15bn; Wave $137m debt/1% model/20m MAU,
+  bank-to-wallet), BCEAO licensing crackdown (2 SN agréments Paydunya/Mikati; Flutterwave licence), G2P
+  agri-subsidy digitisation (IFC), Catalyst DER/FJ $50m startup fund + DER-Wave, Max it into Dakar BRT.
+  +7 sources, +tech.innovate/finance.new/gov.regional/gov.standards tags.
