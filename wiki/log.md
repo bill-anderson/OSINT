@@ -6673,3 +6673,19 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
   --dpi-pay, --tech-ai, --infra-cybersec).
 - 1 gap filed (GAP-MUS-001, off-source AllMyT announcements). No contradictions. 1 relevant-duplicate pruned
   (wearetech NDS).
+
+## 2026-07-19 — ingest(MWI) chunk 1/7: Digital identity & civil registration
+
+- **6 sources admitted, 0 leads, 0 discards.** Batch MWI-2026-07-17 (39 staged).
+- Mostly enrichment of an already-rich ID story (13.5m IDs; near-universal).
+- **Entity created:** [[ictam]] (organisation — ICT Association of Malawi; recurs across batch).
+- **Entities updated:** [[national-registration-bureau-malawi]] — +Nzika Wallet (Sept 2026 launch, no-renewal),
+  +NRB 2025–2030 Strategic Plan (six pillars, SDG 16.9), +costed birth-reg (K17.8bn/7 phases/25 districts).
+- **Intersection updated:** [[malawi--dpi-id]] — +Nzika Wallet section, +Strategic Plan section, +birth-reg
+  costing section, +ICTAM/NRIS financial-inclusion-foundation section; +6 sources.
+- **MWI hub:** enriched existing mobile-ID (2026-07-13) + birth-reg (2026-02-04) entries with Nzika/Sept/cost/
+  strategy/ICTAM detail + sources; +ictam to Entities; last_reviewed → 2026-07-19.
+- **entities-index:** +ictam (Organisations).
+- Sources: 2026-07-06 Sept launch (times), 2026-06-11 Nzika Wallet (itweb), 2026-01-16 birth-reg K17.8bn
+  (malawi24), 2025-10-27 NRB Strategic Plan (biometricupdate), 2025-05-26 2026 target (techafricanews),
+  2025-01-07 ICTAM ID-integration (times).

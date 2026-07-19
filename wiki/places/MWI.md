@@ -6,7 +6,7 @@ parent: XSA
 place_kind: country
 topics: [dpi.govtech, dpi.exchange, dpi.id, infra.store, gov.protect, finance.new, dpi.mis, data.statistics, gov.policy, capacity.training, gov.standards, capacity.research, tech.ai, include.access, digital.localgov, dpi.pay]
 status: active
-last_reviewed: 2026-07-14
+last_reviewed: 2026-07-19
 ---
 
 # Malawi (MWI)
@@ -18,11 +18,14 @@ last_reviewed: 2026-07-14
   reaching the brink of universal coverage (150,000+ enrolled Apr–Jun, **53% women**), on
   **[[undp]]** / EU / Norway / Irish Aid support. Separately, the
   **[[national-registration-bureau-malawi]]** (PS Patrick Machika) outlined a transition to
-  **mobile-accessible digital ID cards** and a review of the **National Registration Act** (and
+  **mobile-accessible digital ID cards** — shipping as the **Nzika ("Citizen") Wallet** app in **September
+  2026** (no renewal; complements the plastic ID) — plus a review of the **National Registration Act** (and
   Marriage/Divorce Act), under the **[[dmap]]** — the enrolment→service-gateway pivot. Sources:
   [[2026-07-13 Malawi reaches 13.5M digital IDs as universal coverage comes into view]],
-  [[2026-07-13 Malawi outlines plans to transition to digital IDs - CAJ News Africa]]. Full case:
-  [[malawi--dpi-id]]. See [[dpi.id]], [[dpi.registry]], [[gov.legislate]], [[include.access]].
+  [[2026-07-13 Malawi outlines plans to transition to digital IDs - CAJ News Africa]],
+  [[2026-06-11-nrb-nzika-wallet-digital-id-september-itweb]],
+  [[2026-07-06-digital-id-cards-september-launch-times]]. Full case: [[malawi--dpi-id]]. See [[dpi.id]],
+  [[dpi.registry]], [[gov.legislate]], [[include.access]].
 - **2026-06-09** — **Only 3% of web content served locally.** An Internet Society Pulse content-locality
   study (weighted by bytes) put Malawi at the bottom of 12 measured countries — **3% local** — but **62%
   regional**, served largely from South Africa, keeping most traffic on-continent. Underlines the case for
@@ -75,9 +78,14 @@ last_reviewed: 2026-07-14
 - **2026-02-04** — **Mass birth-registration campaign; IDT4M.** With the **EU** (a 10-year civil-registration
   partnership), Norway, Ireland and **[[undp]]**, the **[[national-registration-bureau-malawi|NRB]]** launched
   phase 1 of a campaign to register **4.6m children** and close the gap to universal coverage (full **adult**
-  registration reached 2024). The EU/UNDP **[[idt4m]]** programme (€10m; ID4Africa 2025 reported ~12.5m
-  enrolled) underpins the DPI foundation. Sources:
+  registration reached 2024). Costed at **K17.8bn** (7 phases, 25 districts, schools as centres; **K5.4bn** in
+  FY2025/26 for phases 1–2), it builds on the six-pillar **NRB 2025–2030 Strategic Plan** (SDG 16.9). The EU/UNDP
+  **[[idt4m]]** programme (€10m; ID4Africa 2025 reported ~12.5m enrolled) underpins the DPI foundation; **[[ictam]]**
+  presses for national-ID **integration** with digital/financial platforms (NSFI III 95%-by-2028). Sources:
   [[2026-02-04 10 years of a fruitful partnership with the Government of Malawi on civil registration]],
+  [[2026-01-16-birth-registration-campaign-4.6m-children-malawi24]],
+  [[2025-10-27-nrb-2025-2030-strategic-plan-sdg-16.9-biometricupdate]],
+  [[2025-01-07-ictam-national-id-integration-digital-growth-times]],
   [[2024-05-14 Malawi on path to inclusion with digital ID project supported by EU, UNDP]],
   [[2025-05-28 Malawi nears full scale digital ID rollout to streamline access to services]],
   [[2025-05-21 NRB to roll out digital ID by 2026]]. See [[dpi.registry]], [[dpi.id]], [[include.access]],
@@ -165,7 +173,7 @@ last_reviewed: 2026-07-14
 - [[dmap]] · [[world-bank]] · [[malawi-revenue-authority]] · [[blantyre-city-council]]
 - [[malawi-ministry-of-ict]] · [[undp]] · [[malawi-data-protection-act-2024]]
 - [[national-registration-bureau-malawi]] (PS Patrick Machika) · [[idt4m]] · [[macra-malawi]]
-- [[reserve-bank-of-malawi]] · [[malawi-electoral-commission]] · [[comesa]]
+- [[reserve-bank-of-malawi]] · [[malawi-electoral-commission]] · [[comesa]] · [[ictam]]
 - [[hmis-malawi-livingstonia]] · [[dhis2]] · [[his-developing-countries-review]]
 - Mentioned, not hubbed: Department of E-Government (Prosper Mopiwa); Department of
   Immigration and Citizenship Services (Denis Chipao); Bomalathu platform; Synod of
