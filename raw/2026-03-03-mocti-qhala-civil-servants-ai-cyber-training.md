@@ -6,6 +6,7 @@ publisher: Ministry of Communication, Technology & Innovation (MoCTI), Sierra Le
 published: 2026-03-03
 date_precision: day
 date_source: source
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: SLE-2026-07-17
 places: [SLE]

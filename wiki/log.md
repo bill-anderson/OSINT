@@ -7285,3 +7285,15 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
   launches: Vult (Velmie/Metro Cable), MikashBoks-Ecobank Interest Plus (6%), Orange Money Mastercard
   (Zenith), Afrimoney Prepaid Visa (Africell/Ecobank, "techquity"), Open Hub Flot AI chatbot. +5 sources.
 - **Entity created:** [[bank-of-sierra-leone]].
+
+## 2026-07-19 — ingest(SLE) chunk 3: Data centres & AI/skills
+
+- **8 admitted, 0 pruned** (Orange Bo statehouse-primary + wearetech-figures reconciled per lint #7 as
+  complementary to the held DCD item — quotes + investment/market figures).
+- **Created:** [[sierra-leone--infra-store]] — Orange Bo €23m disaster-recovery DC (+$50m network, 51%/
+  3.04m, green sites) and the NatCA HQ **National Data Centre** — geographic redundancy + data-sovereignty
+  (custody/continuity) framing.
+- **Created:** [[sierra-leone--tech-ai]] — Salima Bah tech-ambition ($132m, OneMobile 5G, SALCAB 90→500Gbps),
+  first National AI Strategy + readiness diagnostic (World Bank), MoCTI/DSTI/NC3/Qhala cyber-AI leadership
+  training, 1,000-civil-servant Digital Skills Pipeline, DSTI-CRS geospatial CVP/SDS4D.
+- **Entities created:** [[dsti]], [[nc3]].

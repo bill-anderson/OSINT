@@ -6,6 +6,7 @@ publisher: State House Sierra Leone (Office of the President)
 published: 2025-11-29
 date_precision: day
 date_source: source
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: SLE-2026-07-17
 places: [SLE]

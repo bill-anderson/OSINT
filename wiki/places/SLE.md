@@ -83,12 +83,13 @@ The through-line across the ID work is **open standards and national ownership**
 - **[[dpi.registry]]** / **[[digital.rural]]** — National Digital Farmer Registry integrated
   with the NIN (Feed Salone). [[sierra-leone-national-digital-farmer-registry]].
 - **[[dpi.govtech]]** / **[[tech.ai]]** — 80% of services digitized (2025); AI-in-government
-  MoU (Qhala) and National AI Readiness Assessment; EGDI 172/193 (2024).
+  MoU (Qhala), National AI Readiness Assessment, first **National AI Strategy** (World Bank, 2026);
+  civil-service digital-skills pipeline (1,000→5,000); EGDI 172/193 (2024). Full case: [[sierra-leone--tech-ai]].
 - **[[gov.protect]]** / **[[gov.legislate]]** — Data Protection & RTI Bill 2025 (validated,
   pre-enactment). [[sierra-leone-data-protection-rti-bill-2025]].
 - **[[gov.policy]]** / **[[gov.standards]]** — National Data Strategy (AU DPF-aligned);
   open-standards emphasis across ID and interoperability.
-- **[[infra.store]]** — NCRA Tier-3 data centre; Orange Bo backup data centre (€23m, 2025).
+- **[[infra.store]]** — NCRA Tier-3 DC; Orange Bo backup DC (€23m, 2025); NatCA HQ National Data Centre (2026); data-sovereignty/resilience framing. Full case: [[sierra-leone--infra-store]].
 - **[[infra.connect]]** — 20.7% internet penetration (Jan 2025) / 20.8% (Oct 2025), 99.2% mobile
   connections; ~$400m invested but a 60% usage gap; regional interconnection (Guinea axis, ECOWAS
   roaming), Starlink, and the Sierratel MVNO rescue. Full case: [[sierra-leone--infra-connect]].
