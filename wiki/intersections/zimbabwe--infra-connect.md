@@ -5,11 +5,11 @@ place: ZWE
 topic: infra.connect
 places: [ZWE]
 topics: [infra.connect, include.access, include.divides, data.statistics, digital.rural, finance.new, gov.regional]
-entities: [[potraz], [econet-wireless-zimbabwe], [netone], [telecel-zimbabwe], [telone], [liquid-intelligent-technologies], [starlink], [paratus], [mutapa-investment-fund]]
+entities: [[potraz], [econet-wireless-zimbabwe], [netone], [telecel-zimbabwe], [telone], [liquid-intelligent-technologies], [starlink], [paratus], [mutapa-investment-fund], [ministry-of-health-and-child-care-zimbabwe]]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-19
-sources: [[2025-05-21-potraz-approves-telco-tariff-raise], [2026-04-30-econet-5g-exceeds-netone-telecel-combined], [2026-05-07-liquid-fibre-price-war-starlink], [2026-05-19-over-50pc-fixed-broadband-now-wireless], [2026-06-29-govt-debt-to-telone-doubles], [2026-07-03-powertel-paratus-digital-highway], [2026-07-15-internet-traffic-surges-57pc-q1-2026], [2026-07-15-netone-at-30-digital-future]]
+sources: [[2025-05-21-potraz-approves-telco-tariff-raise], [2026-04-30-econet-5g-exceeds-netone-telecel-combined], [2026-05-07-liquid-fibre-price-war-starlink], [2026-05-19-over-50pc-fixed-broadband-now-wireless], [2026-06-29-govt-debt-to-telone-doubles], [2026-07-03-powertel-paratus-digital-highway], [2026-07-15-internet-traffic-surges-57pc-q1-2026], [2026-07-15-netone-at-30-digital-future], [2025-06-26-starlink-hype-cities-silence-rural], [2025-07-24-govt-donates-250-starlink-kits-local-authorities], [2026-05-16-govt-defends-starlink-rollout], [2026-05-19-starlink-broke-potraz-bandwidth-framework], [2026-07-17-starlink-kits-gather-dust-rural-hospitals]]
 ---
 
 # Zimbabwe × Connectivity & Broadband
@@ -71,7 +71,34 @@ a **fibre-vs-satellite price war** reshaping the cities — all against **61.6% 
   Liquid-vs-Starlink price war that finally broke the "monopoly tax." Growth is real; the binding constraint
   remains the 61.6% offline, whom neither fibre economics nor Starlink's USD pricing yet reaches.
 
-*(Starlink — subsidies, pricing, and the measurement problem — is compiled in the next section below.)*
+## Starlink: fastest-growing, hardest to measure, still unaffordable
+
+Zimbabwe is the **fastest-growing African Starlink market** (67,057 subs, Q4 2025 — hub), but its story here
+is three unresolved tensions: **the urban/rural inversion, the measurement gap, and the affordability wall.**
+
+- **Hype in the cities, silence in the villages (Jun 2025).** Early Starlink adoption clustered in Harare
+  and Bulawayo rooftops; **USD pricing** kept it from the rural areas it was pitched to serve, and local ISPs
+  were only allowed to resell satellite from **Jan 2025**. Source: [[2025-06-26-starlink-hype-cities-silence-rural]].
+- **The state buys in — for councils and clinics.** Government donated **250 Starlink kits to local
+  authorities** (2025) and **400+ kits to rural health facilities** (2026) under its digitisation drive — but
+  the health kits **gather dust unactivated** because the Ministry of Health **cannot afford the
+  subscriptions**, exposing that hardware donation without an operating-cost model is not connectivity. The
+  USF (POTRAZ-administered) covers subscriptions **only for digital centres and schools, one year** — a gap
+  MPs pushed to extend. Sources: [[2025-07-24-govt-donates-250-starlink-kits-local-authorities]],
+  [[2026-07-17-starlink-kits-gather-dust-rural-hospitals]].
+- **The measurement problem — "measured but not counted."** Starlink **broke POTRAZ's bandwidth framework**:
+  Q1-2025 *used* international bandwidth (2.69 Tbps) **exceeded total equipped capacity (1.43 Tbps)** because
+  Starlink — **83% of used bandwidth** — has **no Zimbabwean ground infrastructure to measure** and so sat
+  outside the capacity table. From Q2 2025 POTRAZ **excluded Starlink and restated the baseline**, making
+  headline "used bandwidth" appear to collapse 81% — a pure reclassification. A regulator that **cannot
+  measure the dominant carrier** is a measurement-sovereignty problem in miniature. See [[data.statistics]].
+  Source: [[2026-05-19-starlink-broke-potraz-bandwidth-framework]].
+- **The affordability and sovereignty debate (May 2026).** Defending Starlink's entry as pro-competition,
+  ICT Minister Mavetera cited a **USF "tower-relocation"** scheme (moving infrastructure from over-serviced
+  urban to marginalised areas); legislators countered that Starlink prices **rose US$65 → US$100+**, that
+  reliance on **foreign-owned internet** with **limited local-currency payment** raises **data-sovereignty**
+  concerns, and pressed for local solutions (Mavetera pointing to the National AI Strategy's "AI Grand
+  Challenge"). Source: [[2026-05-16-govt-defends-starlink-rollout]].
 
 ## Links
 

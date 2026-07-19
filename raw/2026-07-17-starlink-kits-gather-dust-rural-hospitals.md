@@ -10,6 +10,7 @@ places: [ZWE]
 topics: [infra.connect, include.divides, dpi.mis, digital.rural]
 entities: [[starlink], [ministry-of-health-and-child-care-zimbabwe], [potraz]]
 lens: []
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: ZWE-2026-07-17
 ---

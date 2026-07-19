@@ -10,6 +10,7 @@ places: [ZWE]
 topics: [infra.connect, include.divides, digital.localgov, dpi.govtech]
 entities: [[starlink], [ministry-of-ict-postal-and-courier-services-zimbabwe]]
 lens: []
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: ZWE-2026-07-17
 ---
