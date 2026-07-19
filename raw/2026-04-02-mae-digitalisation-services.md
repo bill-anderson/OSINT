@@ -10,6 +10,7 @@ places: [TGO]
 topics: [dpi.govtech, infra.cybersec, capacity.training]
 entities: [[cina-lawson], [agence-togo-digital]]
 lens: []
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: TGO-2026-07-17
 ---

@@ -10,6 +10,7 @@ places: [TGO]
 topics: [dpi.govtech, dpi.registry, digital.localgov]
 entities: [[cina-lawson]]
 lens: []
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: TGO-2026-07-17
 ---

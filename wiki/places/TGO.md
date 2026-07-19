@@ -180,7 +180,7 @@ the payments, AML, civil-registry and e-ID-rollout threads.
   addressing; pre-2007 land-title georeferencing; the CENI electoral roll (a separate register).
 - [[dpi.pay]] — [[waemu-instant-payment-platform]] via [[bceao]]; [[ecobank-thunes-partnership]];
   [[novissi]] as the G2P precedent (April 2020, **500,000+ recipients, 65% women**).
-- [[dpi.govtech]] · [[dpi.exchange]] — [[services-publics-togo]]; [[gest-exo]] ↔ [[sydonia]].
+- [[dpi.govtech]] · [[dpi.exchange]] — [[services-publics-togo]]; [[gest-exo]] ↔ [[sydonia]]; ministry-by-ministry digitisation (MAE), CENTIPOS infrastructure-mapping single-window, ATD SME toolbox, archives/GED. Full case: [[togo--dpi-govtech]].
 - [[gov.protect]] · [[gov.legislate]] — [[ipdcp-togo]] (data protection law of Sept 2019; *neither
   the law's text nor the IPDCP's establishing act is held* — GAP-TGO-001); [[togo-aml-law-2025]].
 - [[dpi.mis]] — [[dhis2]] / [[stateduc]] education MIS via [[hisp-wca]].

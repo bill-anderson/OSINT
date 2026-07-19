@@ -10,6 +10,7 @@ places: [TGO]
 topics: [dpi.govtech, tech.industry, tech.innovate, geopol.eu]
 entities: [[agence-togo-digital], [giz], [european-union]]
 lens: []
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: TGO-2026-07-17
 ---
