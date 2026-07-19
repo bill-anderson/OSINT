@@ -8,8 +8,8 @@ topics: [dpi.id, gov.legislate, gov.policy, infra.cybersec, include.access, fina
 entities: [[nimc], [nigeria-id4d], [world-bank], [ndpc], [research-ict-africa]]
 lens: [sovereignty, colonialism]
 status: active
-last_reviewed: 2026-07-14
-sources: [[2026-07-09 Nigeria seeks support to operationalize new digital ID law as NIN tops 136M], [2026-06-05 Nigeria looks beyond enrollment as digital ID passes 130 million], [2026-07-03 Study finds governance, not technology, is blocking digital ID interoperability], [2026-07-09 NIMC Act 2026 Director-General Coker-Odusote Launches 8,809-Ward Digital ID Drive], [2026-03-29 When digital identity fails the citizen Who bears responsibility for NIN suspensions], [2026-01-28 The Gender Gap in Rural Niger State's Digital Identity], [2026-03-07 Nigerians Groan Under Digital Identity Regime That Turns Basic Rights into Privileges], [2026-07-12 Agric Ministry adopts NIMC identity system to verify genuine farmers]]
+last_reviewed: 2026-07-19
+sources: [[2026-07-09 Nigeria seeks support to operationalize new digital ID law as NIN tops 136M], [2026-06-05 Nigeria looks beyond enrollment as digital ID passes 130 million], [2026-07-03 Study finds governance, not technology, is blocking digital ID interoperability], [2026-07-09 NIMC Act 2026 Director-General Coker-Odusote Launches 8,809-Ward Digital ID Drive], [2026-03-29 When digital identity fails the citizen Who bears responsibility for NIN suspensions], [2026-01-28 The Gender Gap in Rural Niger State's Digital Identity], [2026-03-07 Nigerians Groan Under Digital Identity Regime That Turns Basic Rights into Privileges], [2026-07-12 Agric Ministry adopts NIMC identity system to verify genuine farmers], [2025-01-27-multiuse-biometric-id-card-launch], [2025-03-08-nimc-nelfund-biometric-cards-mou], [2025-06-12-nimc-id-prisoners-social-register-ai], [2025-06-17-credicorp-nin-credit-scores-bureau], [2025-06-25-synthetic-id-fraud-sumsub-q1], [2025-10-10-nimc-nhia-digital-id-health-mou], [2026-06-08-nigeria-loses-850m-digital-identity-neglect], [2026-07-15-nigeria-national-database-still-fragmented], [2026-07-16-nigeria-icao-pkd-biometric-passport], [2026-07-16-nimc-digital-signature-certification-authority]]
 ---
 
 # Nigeria × Digital Identity
@@ -131,6 +131,34 @@ by gender, by geography and by who pays to fix the state's errors.
   the CBN's 100m target — with NIN, voter, SIM, passport and driver's-licence registers each a
   partial identity silo; financial inclusion **74% (2023)**. Historical baseline. Source:
   [[2024-04-10 Understanding Nigeria's digital identity landscape (BVN, NIN, voter, SIM, passport)]].
+
+## Credentials, integration and the trust layer (2025-2026)
+
+- **From number to card and trust services.** Beyond the NIN, NIMC is building the credential and trust layer:
+  a **General Multipurpose Card (GMPC)** — a biometric "three-in-one" card with multiple wallets (with **NIBSS**
+  and ****AfriGo****) for MDA services, student loans and farmer inputs (enrolment on 115m+ biometrics); a
+  **NELFUND / Data Mining G2P Service Card** for education loans (MoU Mar 2025); and, under the NIMC Act 2026,
+  NIMC as Nigeria's **root certification authority** for **electronic signatures / digital trust services** — the
+  legal-technical base for cryptographically trusted transactions. Sources:
+  [[2025-01-27-multiuse-biometric-id-card-launch]], [[2025-03-08-nimc-nelfund-biometric-cards-mou]],
+  [[2026-07-16-nimc-digital-signature-certification-authority]].
+- **The passport goes cryptographic (2026-07).** Nigeria completed **ICAO PKD** integration (importing its CSCAs;
+  111-member directory), moving passports from "machine-readable" to **cryptographically verifiable** at any
+  member's border — a chain-of-trust milestone. Source: [[2026-07-16-nigeria-icao-pkd-biometric-passport]].
+- **ID wired into services — and credit.** NIMC integrated the NIN with **health** (an **NHIA** MoU linking
+  identity to insurance records) and, via ****CREDICORP**** (Nigerian Consumer Credit Corporation), plans to tie
+  **credit scores to the NIN** in a centralised bureau — with consequences for defaulters (passport/licence
+  renewal, tenancy). The social register was expanded **13m → 19.7m** using **AI + satellite imagery + telecoms
+  data** to find urban-slum households; **74% of prison inmates** now hold a NIN. Sources:
+  [[2025-10-10-nimc-nhia-digital-id-health-mou]], [[2025-06-17-credicorp-nin-credit-scores-bureau]],
+  [[2025-06-12-nimc-id-prisoners-social-register-ai]].
+- **The cracks — fragmentation and synthetic fraud.** Despite NIMC's "single identity" claims, a 2026 Vanguard
+  investigation finds the **national database still fragmented** across agencies; and Sumsub reports Nigeria's
+  **synthetic (AI-generated) ID fraud up 192%** (Q1 2025) even as document forgery fell 80% — the fraud frontier
+  moving to synthetic identities. Separately, NiRA warns Nigeria loses **~$850m/yr** by under-using its own
+  digital-identity infrastructure and **.ng** domain (foreign-dependency critique). Sources:
+  [[2026-07-15-nigeria-national-database-still-fragmented]], [[2025-06-25-synthetic-id-fraud-sumsub-q1]],
+  [[2026-06-08-nigeria-loses-850m-digital-identity-neglect]].
 
 ## Reads
 

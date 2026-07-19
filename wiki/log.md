@@ -7013,3 +7013,17 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
 - 1 relevant-duplicate pruned (connectingafrica biometric-ID re-clip). DP-law current-law correction to Loi
   2022-59. No contradictions, no gaps. Several paywalled/PR-wire sources flagged. Le Sahel state-daily items
   carry "capture is not endorsement" notes.
+
+## 2026-07-19 — ingest(NGA) chunk 1: Identity (NIMC/NIN/e-ID)
+
+- **Very large batch (266 clips); aggressive dedup per curator directive.** NGA wiki already richly
+  synthesized (nigeria--dpi-id ~1,700w), so most clips duplicate already-held events → pruned hard.
+- **Identity: 10 admitted, 22 pruned** (already-synthesized enrolment milestones 117M/118M/126M/136M,
+  NINAuth ×2, ENBIC, SGF-social-services ×2, NIMC-Act-signing, iris/portal/manhunt/civil-servant/WAEC-NIN —
+  all already on nigeria--dpi-id or superseded). Census/SIM-registration/crypto-tax deferred to later chunks.
+- **Intersection updated:** [[nigeria--dpi-id]] — new "Credentials, integration and the trust layer" section:
+  GMPC/AfriGo multipurpose + NELFUND G2P cards; NIMC as **root certification authority** (NIMC Act 2026); **ICAO
+  PKD** cryptographic passport; NIN↔health (NHIA) + credit (CREDICORP) integration; AI/satellite social-register
+  13m→19.7m; database-fragmentation critique; synthetic-ID fraud +192%; $850m NiRA digital-independence. +10
+  sources; last_reviewed → 2026-07-19.
+- Hub untouched (already at ~2,600w threshold; detail routed to the intersection).
