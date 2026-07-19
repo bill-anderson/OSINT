@@ -8242,3 +8242,67 @@ Skydd/Bamboo on [[tech.industry]]; GSMA Mobile Net Zero on [[infra.energy]]; ZRA
 **Residual risk:** any *prose* edit an earlier chunk made to those five concept pages that left no
 trace in entity/place frontmatter would not be recoverable by the above and may still be missing —
 worth a spot-check of this batch's earlier chunks against those five pages before committing.
+
+---
+
+## 2026-07-19 — ingest `daily-2026-07-19b` (9 promoted; 7 admitted, 2 parked)
+
+Second sweep run of the day, promoted by Bill into `new/`. All nine items are dated **2026-07-17**
+(a Friday) — every one a *search-recall* miss from the day run 1 had already swept, recovered by
+front-page reconciliation. Ingested in three thematic chunks.
+
+**Chunk A — Malawi (2 admitted).**
+- `2026-07-17-malawi-macra-telecom-tariff-compliance` (ITWeb) — **same event, different outlet** as the
+  held `2026-07-17-macra-airtel-malawi-tnm-tariff-compensation` (Tech Africa News). Assessed under
+  filing rule 2 / lint #7: **not** an exact relevant-duplicate — the ITWeb copy adds a verbatim MACRA
+  quote and names DG **Mayamiko Nkoloma**, neither in the held copy. Admitted as a second source on the
+  same event; no parallel page spawned. Folded the restitutional framing of the remedy ("restore
+  consumers to the position they would have been in…") into [[gov.legislate]] and [[MWI]] — the
+  doctrinally notable part, a *procedural* breach treated as generating a compensable loss.
+- `2026-07-17-malawi-must-ai-fertigation` (ITWeb) — new event. MUST's AI fertigation system at Thyolo
+  under TagDev 2.0. Added to [[MWI]], [[tech.ai]], [[digital.rural]], [[capacity.training]],
+  [[capacity.research]] (MWI added to the latter's places).
+- **Tag drift corrected (tier-1):** incoming used `[[macra]]` and `[[telekom-networks-malawi]]`;
+  canonical are `[[macra-malawi]]` (12 refs) and `[[tnm-malawi]]` (4 refs). Normalised at ingest.
+  `[[communications-act-2016-malawi]]` is new (0 refs) — tagged, no page (below the instrument bar).
+
+**Chunk B — payments / platforms (2 admitted, 2 parked).**
+- `2026-07-17-airtel-money-zambia-new-md` — MD succession (Kelvin Ndhlovu ← Andrew Chuma). Thin;
+  recorded as a leadership fact on [[ZMB]], source appended to [[dpi.pay]]/[[include.access]] and to
+  [[airtel-africa]]. No new concept prose — a personnel change is not a change in the state of a topic.
+- `2026-07-17-senegal-yango-expands-into-corporate-mobility` — Yango Rides for Business. Admitted on
+  the **established precedent** that Yango items enter as *digital-platform* stories (`tech.industry` /
+  `dpi.pay`), per the held CIV/CMR items — not as transport. SEN added to [[yango]] and to
+  [[tech.industry]] places; SEN place frontmatter gained `tech.industry`.
+
+**Chunk C — entity profiles (3 admitted).** All three report **no development**; admitted under filing
+rule 1, which directs that an item profiling a standing object be *captured as the matching entity
+type* and explicitly **"never park it as a lead."** Tagged, with prose kept at concept level and
+**deliberately no place-hub bullets** — a profile is not a "recent development."
+- `…-avec-qantev-le-marocain-tarik-dadi…` — recorded on [[tech.innovate]]/[[tech.ai]] **with the tag
+  stated honestly**: Qantev has no disclosed African operations or customers; the MAR tag rests on the
+  founder's nationality alone.
+- `…-quick-fire-helina-bischoff-africa-collective` — **retagged**: dropped `finance.new` (the piece
+  reports no investment), kept `tech.innovate`.
+- `…-truecaller-q2-sales-decline-recovery-signals` — Q2 figures recorded on [[tech.industry]] under
+  *cite, don't absorb*, with an explicit caveat that the report carries **no African segment data** and
+  none of its figures may be promoted to a place page.
+
+**Parked to `_leads/` (2)** — admissible-vs-scope calls the rules leave open; both raised as issues
+rather than guessed:
+- `2026-07-17-iron-capital-euromoney-nigeria-investment-bank-award` — TechCabal **"Partner / Press
+  Room"** sponsored placement, awards PR, no digital-governance angle. Pending **ISSUE-021**.
+- `2026-07-17-kcb-epuremotion-nairobi-psv-ev-charging-station` — matatu EV charging + asset finance.
+  Checked against practice: [[infra.energy]] is used exclusively for **power serving digital
+  infrastructure** (data centres, networks, grid), and there is **no EV/e-mobility precedent** in
+  `raw/`. Distinct from the Yango case, where the actor is itself a digital platform. Pending
+  **ISSUE-022**.
+
+**Self-correction (disclosed).** While appending to `sources:` frontmatter I introduced the exact
+malformed hybrid **ISSUE-018** warns about — `[[name]]` where the convention is `[name]` — on six
+concept pages. Caught on verification and repaired in the same pass; all six re-checked. Cause: the
+list reads `sources: [[a], [b]]`, so the append must be `, [c]`, not `, [[c]]`. Further argument for
+ISSUE-018's normalisation-plus-lint recommendation.
+
+Indexes: `topics-index` place lists re-synced from concept frontmatter (10 rows). `places-index`
+needed no change (SEN already listed `tech.industry`). `last_reviewed` set on 16 touched pages.

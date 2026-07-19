@@ -2,12 +2,12 @@
 type: concept
 title: Innovation ecosystem
 slug: tech.innovate
-places: [COG, CIV, BWA, BFA, BEN, BDI, AGO, GAB, XAF, GHA, UGA, NGA, KEN, ZAF, DZA, ERI, NER, MUS, ZMB]
-entities: [[st-digital-gabon], [kimba-connect], [societe-gabonaise-de-garantie], [gabon-sgg-startup-guarantee-accord], [gabon-huawei-kimba-connect-accord], [ministere-economie-numerique-gabon], [mark-alexandre-doumba], [samuel-nartey-george], [google], [google-for-startups-accelerator-africa], [mosip], [id4africa], [angola-startups-law], [kimbo-fund], [luanda-technology-park], [slb-africa-performance-center], [ifc], [african-development-bank], [kenya-investment-authority], [john-mwendwa], [kutanapay], [zerobionics], [norah-kimathi], [e-mark-innovation-hub], [zambia-national-ai-strategy]]
+places: [COG, CIV, BWA, BFA, BEN, BDI, AGO, GAB, XAF, GHA, UGA, NGA, KEN, ZAF, DZA, ERI, NER, MUS, ZMB, MAR]
+entities: [[st-digital-gabon], [kimba-connect], [societe-gabonaise-de-garantie], [gabon-sgg-startup-guarantee-accord], [gabon-huawei-kimba-connect-accord], [ministere-economie-numerique-gabon], [mark-alexandre-doumba], [samuel-nartey-george], [google], [google-for-startups-accelerator-africa], [mosip], [id4africa], [angola-startups-law], [kimbo-fund], [luanda-technology-park], [slb-africa-performance-center], [ifc], [african-development-bank], [kenya-investment-authority], [john-mwendwa], [kutanapay], [zerobionics], [norah-kimathi], [e-mark-innovation-hub], [zambia-national-ai-strategy], [qantev], [tarik-dadi], [axa], [africa-collective], [swiss-african-business-circle], [helina-bischoff]]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-19
-sources: [[2026-07-06 Gabon Inaugurates First Tier III Datacenter to Boost Digital Sovereignty], [2026-07-07 Ghana and UNDP Strengthen Partnership on Digital Transformation Projects], [2026-07-01 Google Cloud Summit in Africa Highlights the Continent's Digital Transformation and Unveils New Agentic AI and Infrastructure Investments], [2026-06-20 Ethiopia launches unified MESOB Platform to accelerate national digital transformation], [2026-06-19 What Google's latest startup cohort says about AI in Africa], [2026-06-11 DR Congo to Launch National Digital Identity System RDC-PASS on June 13], [2026-04-21 Meet the 15 Startups Joining the Google for Startups Accelerator Africa Class 10], [2026-05-22 Uganda launches prototype program for digital ID and public infrastructure], [2026-05-28 Why decentralized digital identity looks different in every country], [2026-03-25 On Documenting African AI Knowledge What Becomes Possible], [2025-12-15 African AI Startups Should Publish Openly], [2026-07-17-kenya-golden-visa-investors], [2026-07-17-kutanapay-ai-blockchain-cross-border-trade], [2026-07-17-gabon-garantie-publique-huawei-start-up]]
+sources: [[2026-07-06 Gabon Inaugurates First Tier III Datacenter to Boost Digital Sovereignty], [2026-07-07 Ghana and UNDP Strengthen Partnership on Digital Transformation Projects], [2026-07-01 Google Cloud Summit in Africa Highlights the Continent's Digital Transformation and Unveils New Agentic AI and Infrastructure Investments], [2026-06-20 Ethiopia launches unified MESOB Platform to accelerate national digital transformation], [2026-06-19 What Google's latest startup cohort says about AI in Africa], [2026-06-11 DR Congo to Launch National Digital Identity System RDC-PASS on June 13], [2026-04-21 Meet the 15 Startups Joining the Google for Startups Accelerator Africa Class 10], [2026-05-22 Uganda launches prototype program for digital ID and public infrastructure], [2026-05-28 Why decentralized digital identity looks different in every country], [2026-03-25 On Documenting African AI Knowledge What Becomes Possible], [2025-12-15 African AI Startups Should Publish Openly], [2026-07-17-kenya-golden-visa-investors], [2026-07-17-kutanapay-ai-blockchain-cross-border-trade], [2026-07-17-gabon-garantie-publique-huawei-start-up], [2026-07-17-avec-qantev-le-marocain-tarik-dadi-traque-la-fraude-a-l-assurance-sante], [2026-07-17-quick-fire-helina-bischoff-africa-collective]]
 ---
 
 # Innovation ecosystem (`tech.innovate`)
@@ -17,6 +17,22 @@ economic activity — the layer beyond hardware.
 
 ## Key material
 
+- **Diaspora founders and the "African tech" boundary problem (2026-07-17, profiles).** Two
+  wearetech.africa/TechCabal profiles this week illustrate how loosely the category travels.
+  **[[qantev]]** — founded 2018 by Moroccan **[[tarik-dadi]]**, based in France, ex-[[axa]] data
+  scientist — sells claims-automation and fraud-detection software to **20+ health and life insurers
+  across Asia, Europe, the Middle East and the Americas**; its technology extracts and structures data
+  from medical documents, including handwritten notes, and flags anomalies. **Note the tag honestly:
+  Qantev has no disclosed African operations or customers** — the [[MAR]] link is the founder's
+  nationality alone. Separately, **[[helina-bischoff]]** (Deputy Managing Partner,
+  **[[africa-collective]]**, which also runs the **[[swiss-african-business-circle]]**) describes
+  convening Africa-focused platforms at Davos and Geneva, and reports changing her mind on one point
+  worth logging: she now sees African tech less as an end in itself than as **"an enabler of lower-tech
+  businesses"** and as built for export, not only local markets. Both are captured as **entity profiles,
+  not developments** — no investment, product launch or policy change is reported in either. See
+  [[tech.ai]], [[XAF]]. Sources:
+  [[2026-07-17-avec-qantev-le-marocain-tarik-dadi-traque-la-fraude-a-l-assurance-sante]],
+  [[2026-07-17-quick-fire-helina-bischoff-africa-collective]].
 - **Immigration policy becomes an ecosystem instrument ([[KEN]], 2026-07-17).** The
   **[[kenya-investment-authority|Invest Kenya]]** proposal for **residency by investment** — long-term
   residency for investors committing substantial capital and creating jobs, reviving a 2019 plan never

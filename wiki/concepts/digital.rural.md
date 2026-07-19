@@ -3,11 +3,11 @@ type: concept
 title: Rural digital data capture
 slug: digital.rural
 places: [ETH, KEN, NGA, ZMB, ZWE, TZA, UGA, RWA, SEN, MOZ, NAM, CIV, ZAF, XAF, XSS, XGL, SLE, MWI, NER]
-entities: [[echis-ethiopia], [nasa-harvest], [nucap], [starlink], [helios-towers], [orange-sat], [google], [global-center-on-ai-governance]]
+entities: [[echis-ethiopia], [nasa-harvest], [nucap], [starlink], [helios-towers], [orange-sat], [google], [global-center-on-ai-governance], [malawi-university-of-science-and-technology], [tagdev-2]]
 lens: [sovereignty, colonialism]
 status: active
 last_reviewed: 2026-07-19
-sources: [[2026-03-31 Africa we have a data problem], [2026-03-12 Western AI models 'fail spectacularly' in farms and forests abroad], [2026-03-26 Has Satellite Become Africa's Most Critical Connectivity Infrastructure], [2025-12-19 Why one of the year's biggest AI-for-development stories isn't actually about AI], [2026-07-13 On Leapfrogging - What are we leaping over and where are we landing]]
+sources: [[2026-03-31 Africa we have a data problem], [2026-03-12 Western AI models 'fail spectacularly' in farms and forests abroad], [2026-03-26 Has Satellite Become Africa's Most Critical Connectivity Infrastructure], [2025-12-19 Why one of the year's biggest AI-for-development stories isn't actually about AI], [2026-07-13 On Leapfrogging - What are we leaping over and where are we landing], [2026-07-17-malawi-must-ai-fertigation]]
 ---
 
 # Rural digital data capture
@@ -36,6 +36,14 @@ just digitisation"** thesis — see [[data.statistics]], [[2026-03-31 Africa we 
   [[malawi--dpi-govtech]], [[malawi--dpi-pay]], [[dpi.exchange]], [[dpi.id]]. Sources:
   [[2025-12-05-farmer-data-interoperability-nagdi-dpi-times]],
   [[2026-06-24-airtel-money-admarc-farmer-payments-itweb]].
+- **[[MWI]] Malawi — sensor-led capture at the plot (2026-07-17).** Against that fragmented-platform
+  backdrop, **MUST** deployed an **AI fertigation** system at Thyolo that captures crop-growth data
+  continuously and closes the loop automatically on water and nutrient dosing, with a smart nursery
+  attached; it is framed as a training hub for surrounding farming communities under **TagDev 2.0**.
+  Note the contrast with the entries above: this generates **new plot-level data** rather than trying to
+  reconcile existing farmer registries — the capture problem and the interoperability problem are being
+  worked at different ends, by different actors, with no stated link between them. See [[tech.ai]],
+  [[capacity.research]]. Source: [[2026-07-17-malawi-must-ai-fertigation]].
 - **"Leapfrogging" can privatise a public failure (2026-07, Ezejiofor).** A sovereignty/colonialism-lens
   critique from the **[[global-center-on-ai-governance]]**'s *Algorithmic Review*: a drone-logistics start-up
   serving disconnected **[[RWA]]** smallholders (basic phone + USSD → drone crop pickup) is inventive but

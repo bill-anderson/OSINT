@@ -306,5 +306,26 @@ removes the item here. A short `issues.md` means you're caught up.
   not admissible as sources**, on the existing "reports no development" logic; but if such an item *names a
   standing object of OSINT value* (a new data centre, an operator, a regulator), tag the entity and discard
   the item, per *Entities: tag always, page when material*. **This would be a CLAUDE.md edit, so it needs
-  your explicit ratification** — CC has not made it. *Decision:* (awaiting).
-  (Surfaced sweep daily-2026-07-19b, 2026-07-19.)
+  your explicit ratification** — CC has not made it. **Concrete case now pending on this ruling:**
+  `_leads/2026-07-17-iron-capital-euromoney-nigeria-investment-bank-award.md` — a TechCabal
+  "Partner / Press Room" placement announcing a Euromoney award, by-lined "By Partner", with no
+  digital-governance content; parked at ingest rather than admitted or discarded. If you accept the
+  recommendation it should be **deleted**; if you reject it, it is a one-line move back to `new/`.
+  *Decision:* (awaiting). (Surfaced sweep daily-2026-07-19b, 2026-07-19.)
+
+- **ISSUE-022 · Where do admissible-but-out-of-scope items go? (EV charging as the test case.)**
+  Ingest parked `_leads/2026-07-17-kcb-epuremotion-nairobi-psv-ev-charging-station.md` — KCB Bank Kenya,
+  the Matatu Owners Association and ePureMotion opening a PSV **EV charging station** in Buruburu, with
+  asset and insurance-premium financing for matatu Saccos. It is impeccably sourced and first-hand, so
+  admissibility is not the problem; **scope** is. Checked against practice before parking: [[infra.energy]]
+  is used exclusively for **power serving digital infrastructure** (data-centre siting, grid constraints,
+  network energy), and `raw/` holds **no EV/e-mobility precedent**. It is distinguishable from the Yango
+  items the wiki does admit, where the actor is itself a digital platform. The wider problem is that the
+  pipeline has **no bucket for "admissible, well-sourced, but off-topic"** — `_leads/` is defined for
+  second-hand/AI syntheses, and Discard is defined narrowly for config and failed captures, so out-of-scope
+  items land in `_leads/` by default and slightly stretch its meaning. *Recommend:* **(a)** confirm
+  transport electrification is out of scope unless it carries a real data/platform layer, and **delete**
+  this item; **(b)** if you want the boundary recorded rather than left to per-run judgment, either widen
+  `_leads/` explicitly to mean "parked, not compiled — synthesis *or* out-of-scope," or add a one-line
+  scope note to CLAUDE.md. (b) would be a CLAUDE.md edit needing your ratification; (a) alone does not.
+  *Decision:* (awaiting). (Surfaced ingest daily-2026-07-19b, 2026-07-19.)

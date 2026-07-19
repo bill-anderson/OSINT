@@ -2,13 +2,13 @@
 type: entity
 entity_type: company
 title: Yango
-places: [CMR, CIV]
+places: [CMR, CIV, SEN]
 topics: [tech.industry, dpi.pay, infra.connect, tech.innovate, infra.energy, finance.new]
 entities: [[gocab]]
 lens: []
 status: active
 last_reviewed: 2026-07-19
-sources: [[2026-04-02-yango-deepens-cameroon-footprint-itweb], [2025-07-24-mtn-yango-dedicated-sim-drivers-itweb], [2026-07-18-gocab-yango-abidjan-evs]]
+sources: [[2026-04-02-yango-deepens-cameroon-footprint-itweb], [2025-07-24-mtn-yango-dedicated-sim-drivers-itweb], [2026-07-18-gocab-yango-abidjan-evs], [2026-07-17-senegal-yango-expands-into-corporate-mobility]]
 ---
 
 # Yango
@@ -38,7 +38,13 @@ in the CMR corpus (the taxonomy has **no Russia `geopol.*` slug**; see the open 
   **GOYA**, Yango's premium service. Côte d'Ivoire was also the first market for **Yango Motors**, the
   group's automotive arm, launched at the **Abidjan Auto Show in September 2025**. See
   [[civ--tech-innovate]], [[infra.energy]]. Source: [[2026-07-18-gocab-yango-abidjan-evs]].
+- **[[SEN]] Senegal — B2B mobility (2026-07-17).** Launched **Yango Rides for Business**, a corporate
+  travel platform with spending limits, **automated billing** and real-time ride tracking, claiming a
+  **~30%** transport-cost reduction (vendor figure). Country manager **Aïcha Niang**. Extends the
+  West African footprint beyond CIV/CMR and moves Yango from consumer ride-hailing toward **enterprise
+  expense infrastructure** — the billing layer is what makes it a [[dpi.pay]] item rather than pure
+  transport. Source: [[2026-07-17-senegal-yango-expands-into-corporate-mobility]].
 
 ## Related
 
-- [[CMR]] · [[CIV]] · [[mtn-cameroon]] · [[gocab]] · [[tech.industry]] · [[dpi.pay]] · [[infra.energy]]
+- [[CMR]] · [[CIV]] · [[SEN]] · [[mtn-cameroon]] · [[gocab]] · [[tech.industry]] · [[dpi.pay]] · [[infra.energy]]

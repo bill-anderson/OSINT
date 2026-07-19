@@ -27,6 +27,14 @@ The third is **evidentiary**: the headline numbers disagree. Penetration spans *
 
 ## Recent developments
 
+- **2026-07-17** — **Airtel Money Zambia changes MD.** **Kelvin Ndhlovu** became managing director of
+  **Airtel Money Zambia**, succeeding **Andrew Chuma**, who moved to a group role within
+  **[[airtel-africa|Airtel Africa]]**. Ndhlovu was previously group head of decision support for Airtel
+  Money Africa, covering strategic planning and performance management across **14 African markets** — an
+  internal promotion the company framed as succession planning. Recorded as a leadership fact on a major
+  mobile-money operator rather than a development in its own right; the company states a continued focus on
+  digital financial services and financial inclusion, with no new product, target or figure disclosed. See
+  [[dpi.pay]], [[include.access]]. Source: [[2026-07-17-airtel-money-zambia-new-md]].
 - **2026-07-17** — **Robotics result, and an AI strategy still unpublished.** The government
   celebrated **Team Zambia** reaching the global finals of the **2026 AI for Good Global Summit and
   Robotics for Good Youth Challenge** (Geneva) among **nearly 50 participating countries**, with an

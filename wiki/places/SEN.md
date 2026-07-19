@@ -4,7 +4,7 @@ title: Senegal
 code: SEN
 parent: XWA
 place_kind: country
-topics: [gov.policy, infra.connect, infra.store, dpi.id, dpi.registry, dpi.govtech, dpi.pay, dpi.exchange, dpi.mis, gov.protect, gov.legislate, infra.cybersec, include.access, tech.ai, capacity.research, geopol.usa, geopol.eu, digital.rural, include.divides, data.satellite, finance.new, finance.mou, gov.regional, gov.standards]
+topics: [gov.policy, infra.connect, infra.store, dpi.id, dpi.registry, dpi.govtech, dpi.pay, dpi.exchange, dpi.mis, gov.protect, gov.legislate, infra.cybersec, include.access, tech.ai, capacity.research, geopol.usa, geopol.eu, digital.rural, include.divides, data.satellite, finance.new, finance.mou, gov.regional, gov.standards, tech.industry]
 status: active
 last_reviewed: 2026-07-19
 ---
@@ -13,6 +13,13 @@ last_reviewed: 2026-07-19
 
 ## Recent developments
 
+- **2026-07-17** — **Yango launches B2B corporate mobility.** **[[yango]]** launched **Yango Rides for
+  Business** in Senegal — a centralised platform for companies to manage employee travel, set spending
+  limits and **automate billing**, with real-time ride tracking; Yango claims it can cut transport costs by
+  **~30%** (vendor figure, unverified). Continues the platform's West African expansion already tracked in
+  [[CIV]] and [[CMR]]; the billing-automation layer is the part that touches [[dpi.pay]]. Country manager
+  **Aïcha Niang**. Source: [[2026-07-17-senegal-yango-expands-into-corporate-mobility]]. See
+  [[tech.industry]], [[dpi.pay]].
 - **2026-07-15** — **15.3m civil-registration records digitised (ANEC).** Senegal's National Civil
   Registration Agency **[[anec-senegal]]** reported digitising **>15.3m** civil-registration records, with
   **629 civil-status centres** networked (67% via the LGEC software; 27% on the **Sama État Civil** online
