@@ -164,7 +164,9 @@ poverty through digital-enabled services within five years. Other accounts rende
   micro-data centres. Chad's **first** data centre (2016) cost **$6m**, 374 sqm, was built in
   Sweden by **[[flexenclosure]]** and shipped to N'Djamena, designed for a 400kW IT load.
 - [[infra.connect]] · [[include.divides]] — [[sotel-tchad]], [[arcep-chad]],
-  [[trans-saharan-fibre-backbone]] (60% complete, 2026-02-13).
+  [[trans-saharan-fibre-backbone]] (60% complete, 2026-02-13); Starlink (licensed→launched→ISP-operator),
+  N'Djamena-Mberé Cameroon lifeline (MoU suspended over sovereignty), TCHADIX IXP, PATN routes virtuelles
+  (~500 zones blanches), adversarial operator QoS regulation, the Lac 3-month shutdown. Full case: [[chad--infra-connect]].
 - [[infra.cybersec]] — [[ansice]]; ITU GCI **Tier 4, 48.67/100 (2024)** — relatively strong on
   legislation and cooperation, weak on technical capability, organisational preparedness and
   capacity-building.

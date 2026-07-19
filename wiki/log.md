@@ -7474,3 +7474,13 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
   resilience** with cross-geopolitical vendor pluralism (Huawei/Hytera, Ericsson, Starlink); and the
   **offshore-finance cyber exposure** (SCB breach) testing a DPA whose regulator has a self-acknowledged
   enforcement gap.
+
+## 2026-07-19 — ingest(TCD) chunk 1: Connectivity
+
+- **13 admitted, 0 pruned** (batch TCD-2026-07-17 + Q1-2025 pilot; FR primaries; 2 content-protected
+  clips staged summary — flag). TCD had 1 intersection (dpi-id); this adds the second.
+- **Created:** [[chad--infra-connect]] — Starlink (licence→launch→ISP-operator), DTS backbone (32%→
+  vandalism at Bol), the N'Djamena-Mberé Cameroon single-door (MoU suspended over sovereignty clauses),
+  PMICE/PATN "routes virtuelles" (~500 white zones), TCHADIX IXP, ARTAC/ITU regional mapping, adversarial
+  operator QoS regulation (fuel→solar, ARCEP monitoring platforms), the Lac 3-month internet shutdown. +13 sources.
+- **Entities created:** [[moov-africa-chad]], [[tchadix]]. (dpi-pay/gov-protect are forward-refs, next chunks.)
