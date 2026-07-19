@@ -257,7 +257,10 @@ linked source pages, the entity pages and the six [[south-africa--dpi-id|interse
   AI-market contest** ([[deepseek]] vs Microsoft/Nvidia/Cassava). Full case:
   [[south-africa--tech-ai]].
 - [[dpi.pay]] · [[gov.legislate]] — **NPS reform**: non-bank PSPs from 2026 (activity-based
-  licensing, [[sarb]]), PayShap, SADC TCIB. Full case: [[south-africa--dpi-pay]].
+  licensing, [[sarb]]); **[[payshap]]** becoming a **national utility** ([[payinc|PayInc]], SARB 50% stake;
+  R403bn/461m txns) but hobbled by bank-ownership fees; the **QR+** interoperable standard; **payments-first,
+  CBDC-later** (Cassim/Khokha); PA embedding AI/cloud in supervision; SADC TCIB. Full case:
+  [[south-africa--dpi-pay]].
 - [[finance.new]] · [[tech.industry]] · [[gov.standards]] — **$335.9m / 42 startups / 20.5% of
   Africa's total (CY2025, Disrupt Africa)**; **16.7%** female co-founder rate.
 - [[data.open]] · [[data.statistics]] — [[icasa]]'s mandated national GIS infrastructure database
