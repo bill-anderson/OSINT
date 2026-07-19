@@ -10,6 +10,7 @@ places: [TCD]
 topics: [geopol.usa, infra.connect, infra.store, dpi.mis, finance.mou]
 entities: [[ministry-telecom-digital-economy-chad], [starlink], [intersystems]]
 lens: [sovereignty]
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: TCD-2026-07-17
 ---

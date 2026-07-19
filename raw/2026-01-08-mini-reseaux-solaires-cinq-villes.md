@@ -10,6 +10,7 @@ places: [TCD]
 topics: [infra.energy, include.access, digital.rural, geopol.china]
 entities: [[tchadelec], [shenzhen-lemi-technology], [world-bank]]
 lens: [sovereignty]
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: TCD-2026-07-17
 ---

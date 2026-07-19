@@ -10,6 +10,7 @@ places: [TCD]
 topics: [infra.connect, digital.rural, include.access, infra.store]
 entities: [[pmice], [safitel], [ministry-telecom-digital-economy-chad]]
 lens: [sovereignty]
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: TCD-2026-07-17
 ---

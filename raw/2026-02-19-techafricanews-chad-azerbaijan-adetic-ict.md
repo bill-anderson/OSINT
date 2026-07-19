@@ -10,6 +10,7 @@ places: [TCD]
 topics: [infra.store, finance.mou, infra.capacity]
 entities: [[adetic], [azercosmos]]
 lens: []
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: TCD-2026-07-17
 ---

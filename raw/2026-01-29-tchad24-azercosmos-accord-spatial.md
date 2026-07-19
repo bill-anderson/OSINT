@@ -10,6 +10,7 @@ places: [TCD]
 topics: [data.satellite, infra.connect, finance.mou, digital.rural]
 entities: [[arcep-chad], [azercosmos]]
 lens: [sovereignty]
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: TCD-2026-07-17
 ---
