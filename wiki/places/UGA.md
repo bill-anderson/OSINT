@@ -162,9 +162,11 @@ days, two days before a presidential election — reminding every layer above it
   DPI deployed with weak safeguards (World Bank, ID4Africa 2026); selective DPPA enforcement around
   the 2026 polls ([[personal-data-protection-office-uganda]]); no central-bank guidance on AI in
   lending.
-- [[tech.ai]] · [[infra.store]] · [[infra.capacity]] — the compute pipeline
-  (→ **[[uganda--infra-store]]**); CIPESA's rights-by-design submission to the national AI strategy;
-  the [[eac]] "AI Sovereignty" bloc; locally-trained agricultural AI ([[nasa-harvest]]).
+- [[tech.ai]] · [[infra.store]] · [[infra.capacity]] — the AI story extracted: **[[uganda--tech-ai]]**
+  (first national AI policy/strategy + AI Secretariat; the **National AI Research Cloud** at Makerere/RENU
+  as data-sovereignty compute; inclusive AI curriculum; China/UN-Foundation skills MoU; Musenero's "1% of
+  AI wealth" framing). Also the compute pipeline (→ **[[uganda--infra-store]]**); CIPESA's rights-by-design
+  submission; the [[eac]] "AI Sovereignty" bloc; locally-trained agricultural AI ([[nasa-harvest]]).
 - [[infra.connect]] — extracted: **[[uganda--infra-connect]]** (fibre superhighways — Bayobab, Paratus
   G2M, CSquared; Savanna 1 Gbps; the NCRCBSI regional satellite; UCC 47m SIMs, telecom-tax-cut proposal,
   Wi-Fi-licensing enforcement; and network control incl. the **Jan-2026 election shutdown** + Starlink).

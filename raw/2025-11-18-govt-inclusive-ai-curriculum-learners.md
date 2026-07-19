@@ -10,6 +10,7 @@ places: [UGA]
 topics: [tech.ai, capacity.training, capacity.literacy]
 entities: []
 lens: []
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: UGA-2026-07-17
 ---
