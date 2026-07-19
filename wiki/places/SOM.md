@@ -141,8 +141,9 @@ market's velocity.
   (ITU-supported validation, Oct 2025; Vision 2060); first **National DPI Summit** (Feb 2026).
 - [[infra.connect]] · [[infra.store]] · [[gov.regional]] — **[[dare1-cable]]** landings
   (Bosaso/Mogadishu) with [[hormuud-telecom]] + [[somtel]]; Hormuud green data centres (11
-  DCs, 10 MWh); Starlink licensed (Apr 2025); **EAC e-Passport** adoption (Feb 2026); Horn of
-  Africa integration.
+  DCs, 10 MWh); Starlink licensed (Apr 2025, live Aug); AstaanConnect reseller; 10.7m internet users (2025);
+  IPv6 migration; IFC submarine-cable working group; **EAC e-Passport** adoption (Feb 2026); Horn of
+  Africa integration. Full case: [[somalia--infra-connect]].
 
 ## Entities
 

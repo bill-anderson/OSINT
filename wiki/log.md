@@ -7316,3 +7316,12 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
 - Through-lines: affordability gap (60% usage gap, top-5 costly data), Guinea-axis regional
   integration, sandbox-incubated fintech inclusion (18%→40%), data-sovereignty via redundant data
   centres, open-standards ID (MOSIP/W3C) with a colonial-era human last mile.
+
+## 2026-07-19 — ingest(SOM) chunk 1: Connectivity
+
+- **7 admitted, 1 pruned** (WardheerNews Starlink-launch — syndicated dup of the Hiiraan Aug-launch).
+  Batch SOM-2026-07-17.
+- **Created:** [[somalia--infra-connect]] — 10.7m internet users / Digital Strategy 2025-2030, Starlink
+  (fast-tracked, full-foreign-ownership accommodated; AstaanConnect first reseller), IFC submarine-cable
+  working group, IPv6 migration, and Hormuud's shift to digital-economy anchor (local data centres). +7 sources.
+- **Entity created:** [[nca-somalia]] (regulator).
