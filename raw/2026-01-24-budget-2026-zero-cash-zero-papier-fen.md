@@ -10,6 +10,7 @@ places: [TCD]
 topics: [dpi.pay, dpi.govtech, gov.policy, finance.new]
 entities: [[sigfip-chad]]
 lens: [sovereignty]
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: TCD-2026-07-17
 ---

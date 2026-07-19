@@ -10,6 +10,7 @@ places: [TCD]
 topics: [dpi.pay, dpi.govtech, finance.new, include.access]
 entities: [[moov-money-chad], [airtel-money-chad], [konoom], [cashi-chad]]
 lens: []
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: TCD-2026-07-17
 ---

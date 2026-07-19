@@ -10,6 +10,7 @@ places: [TCD]
 topics: [dpi.pay, tech.innovate, include.access, finance.new]
 entities: [[konoom]]
 lens: []
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: TCD-2026-07-17
 ---

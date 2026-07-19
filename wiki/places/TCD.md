@@ -173,6 +173,7 @@ poverty through digital-enabled services within five years. Other accounts rende
 - [[dpi.pay]] — [[airtel-chad]] launched Airtel Money with [[ecobank]] (ETI); registration requires
   valid identification. *The launch date held is unverified — the source carries no internal date
   and is filed `date_source: proxy`.*
+  State cashless push (Budget 2026 SIGFIP e-invoicing, mobile-payment convention-cadre); home-grown fintechs Konoom (COBAC) & Cashi-IFC. Full case: [[chad--dpi-pay]].
 - [[geopol.usa]] · [[geopol.china]] · [[geopol.eu]] · [[gov.regional]] — simultaneous courtship of
   the US, Huawei, the EU, Azerbaijan and [[cemac]] / [[cadnac]] neighbours.
 - [[dpi.mis]] — digital-health / EMR interconnection (InterSystems, 19Labs).

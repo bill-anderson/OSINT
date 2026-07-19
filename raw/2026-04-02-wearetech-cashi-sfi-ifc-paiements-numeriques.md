@@ -10,6 +10,7 @@ places: [TCD, XCA]
 topics: [dpi.pay, finance.new, include.access]
 entities: [[cashi-chad], [ifc]]
 lens: []
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: TCD-2026-07-17
 ---
