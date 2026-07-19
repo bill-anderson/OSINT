@@ -7718,3 +7718,7 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
 ## 2026-07-19 ingest(ZMB) chunk 3 — Payments & digital finance (3 sources)
 - Extended zambia--dpi-pay: government-as-collector (GSB/GEPG/ZamPortal/ZamPay collected K8.8bn/$488m, 400+ services, 8/116 councils); local fintech on the rail — Zoyk-Visa SADC cross-border partnership; Dot Com Zambia (LuSE-listed, eToll/eLevy) + digital-ID "single source of truth" KYC (Ghana/Mauritius ties). Read: state collection rail + local fintechs plugging in, tied to national digital ID; reach the constraint.
 - Created entities zoyk, dot-com-zambia, ministry-of-finance-zambia, ministry-of-technology-and-science-zambia. 0 prunes. Dead-link NONE.
+
+## 2026-07-19 ingest(ZMB) chunk 4 — Connectivity & rural access (8 sources)
+- Created zambia--infra-connect: backbone growth (fibre 15k→45k km, 94% coverage, K255m QoS approval at DERT III, ZICTA quarterly reports); GovLink government-owned 4G (Ndola launch, health flagship — Care 2.0/SmartCare Pro 2,000+, Copperbelt model); Starlink for the rural last mile (Moomba Chiefdom); UASF rural projects (Copperbelt/NW/Muchinga); ZICTA "visible action" over poor QoS that gates social cash transfers/FISP. Read: GovLink sovereignty vs Starlink last-mile dependency; coverage-vs-lived-service gap.
+- Created entity airtel-zambia. GovLink 2-outlet clips kept as complementary (TechAfrica: partners/Copperbelt; ITWeb: Lishimpi/telemedicine) per lint #7. News Diggers clips lede-only. 0 prunes. Dead-link NONE.

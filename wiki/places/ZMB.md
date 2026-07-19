@@ -212,8 +212,11 @@ The third is **evidentiary**: the headline numbers disagree. Penetration spans *
   [[gov.protect]] — Chinese smart-city surveillance (Lusaka) without oversight; the 2025 cyber Acts.
 - [[geopol.usa]] · [[dpi.mis]] — AFGHS health-data pushback ([[zambia-us-health-mou]]).
   · [[geopol.china]] — [[huawei]]/[[zte]] infrastructure and surveillance supply.
-- [[infra.connect]] · [[digital.rural]] · [[gov.regional]] — fibre backbone; Chanida–Cassacatiza (fibre to
-  8 neighbours); LEO satellite (DZAP Component 1, US$50M).
+- [[infra.connect]] · [[digital.rural]] · [[gov.regional]] — extracted: **[[zambia--infra-connect]]** (fibre
+  15k→45k km, 94% coverage; **GovLink** government-owned 4G / health flagship; Starlink for the rural last
+  mile; UASF projects; K255m QoS approval; ZICTA threatening operators over poor QoS that gates social
+  grants). Fibre backbone; Chanida–Cassacatiza (fibre to 8 neighbours); LEO satellite (DZAP Component 1,
+  US$50M).
 - [[include.access]] · [[finance.new]] — **[[zrhcp]]**: $30m ([[world-bank]] IDA20 WHR + [[unhcr]]),
   biometric NRCs for 112,000 refugees (2025-10), to end-Oct 2028.
 - [[capacity.training]] — Digital Transformation Centres; e-Gov Plan 2023–2026; MOSIP training aimed at
