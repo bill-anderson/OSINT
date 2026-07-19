@@ -7650,3 +7650,8 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
 ## 2026-07-19 ingest(UGA) chunk 7 — Cybersecurity & cyber-law (4 sources)
 - Created uganda--infra-cybersec: threat curve (financial-sector targeting, Milima ISO 27001, 446 cases/72.1bn 2024; NISF 2026 + 60% YoY attack rise incl. UGX 62bn central-bank incident); Computer Misuse Act nullification (Constitutional Court struck ss.11/23/26-29 + Penal Code criminal libel — quorum + vagueness; removes state online-speech tool); UCC anti-piracy/content-blocking framework (DNS/IP blocking; pay-TV subs 1.65m→800k) with dual-use-vs-shutdown caveat. Read: securing the network vs securing the narrative, institutions pulling opposite ways.
 - Mapped clip alias [[nita-u]] → [[nita-uganda]]. 0 prunes. Dead-link NONE.
+
+## 2026-07-19 ingest(UGA) chunk 8 — E-government, govtech & registries (6 sources)
+- Created uganda--dpi-govtech: NITA-U 5-year strategy (shift build→use: e-gov 9.2%→40%, UGHub 37%→73% MDAs, DC util 70%→83%, IT-law compliance 67%→81%); unified-systems/e-services push; Service Uganda Centres (Gulu UGX 4bn, NITA-U+Posta); PPDA GPP→OC4IDS open contracting; National Innovator Registry local-build call (corroborates hub 2026-05-22). Read: strong standards-literate GovTech, but 9.2% actual use is the bottleneck.
+- Extended uganda--dpi-registry: land registry — Administrative Circular 1/2025 controls + blockchain/AI anti-fraud + mass titling (MLHUD, Nabakooba).
+- Created entities ppda-uganda, posta-uganda. Mapped clip alias [[nita-u]] → [[nita-uganda]]. 0 prunes. Dead-link NONE.

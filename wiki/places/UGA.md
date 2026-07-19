@@ -153,11 +153,12 @@ days, two days before a presidential election — reminding every layer above it
   **cash-lite** withdrawal-cap regime (2027); and a **digital-asset frontier** (GSN/AKIBA tokenisation,
   CBDC "digital shilling", stablecoin corridors) pulling against the **Protection of Sovereignty Bill**'s
   foreign-funding cap. → **[[uganda--dpi-pay]]**
-- [[dpi.govtech]] · [[dpi.exchange]] · [[gov.standards]] — **[[ughub]]** (100+ MDAs as of Jun 2024),
-  **[[ugpass]]** authentication and e-signature, **[[uganda-e-gif]]** (6 May 2021 — twelve principles,
-  six interoperability layers) and the **[[uganda-digital-government-strategy]]** v1.1 (26 Feb 2022, a
-  formal addendum to the GEA/e-GIF engagement), under renewal with the [[e-governance-academy]].
-  Prototype Showcase and National Innovator Registry push local build.
+- [[dpi.govtech]] · [[dpi.exchange]] · [[gov.standards]] — extracted: **[[uganda--dpi-govtech]]** (NITA-U
+  5-year strategy shifting to *citizen use* — e-gov 9.2%→40%, UGHub 37%→73%; Service Uganda Centres with
+  [[posta-uganda]]; PPDA open-contracting OC4IDS; National Innovator Registry for local build). Foundations:
+  **[[ughub]]** (100+ MDAs as of Jun 2024), **[[ugpass]]** authentication, **[[uganda-e-gif]]** (6 May 2021)
+  and the **[[uganda-digital-government-strategy]]** v1.1 (26 Feb 2022), under renewal with the
+  [[e-governance-academy]].
 - [[gov.legislate]] · [[gov.protect]] — extracted: **[[uganda--gov-protect]]** — the **PDPO**'s assertive
   Big-Tech enforcement (Ssekamwa v **Google** 2025; AdLegal v **WhatsApp/Meta** 2026 — extraterritorial
   reach, cross-border adequacy, "material harm" incl. dignity); first local prosecution (Vuka Africa);

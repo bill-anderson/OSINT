@@ -4,12 +4,12 @@ title: Uganda × Civil & Business Registries
 place: UGA
 topic: dpi.registry
 places: [UGA]
-topics: [dpi.registry, dpi.id, dpi.exchange, gov.legislate, include.access]
-entities: [[nira-uganda], [ursb], [mvrs-uganda], [claire-ollama], [rosemary-kisembo]]
+topics: [dpi.registry, dpi.id, dpi.exchange, gov.legislate, include.access, tech.ai, digital.rural]
+entities: [[nira-uganda], [ursb], [mvrs-uganda], [claire-ollama], [rosemary-kisembo], [mlhud-uganda]]
 lens: []
 status: active
 last_reviewed: 2026-07-19
-sources: [[2025-04-25-ursb-hands-marriage-registration-to-nira], [2026-06-01-nira-birth-registration-alien-registration], [2026-06-04-nira-first-registration-of-foreigners], [2026-05-08-ursb-non-individual-register-launch]]
+sources: [[2025-04-25-ursb-hands-marriage-registration-to-nira], [2026-06-01-nira-birth-registration-alien-registration], [2026-06-04-nira-first-registration-of-foreigners], [2026-05-08-ursb-non-individual-register-launch], [2026-04-07-govt-tightens-land-controls-blockchain-ai]]
 ---
 
 # Uganda × Civil & Business Registries
@@ -50,6 +50,17 @@ DPI — the registry underpinning of the [[uganda--dpi-id|ID]] gate.
   2025). Framed as **"a single source of truth"** and **shared digital infrastructure for all MDAs**
   (entity authentication/verification) — the corporate counterpart to the NIN. See [[dpi.exchange]].
   Source: [[2026-05-08-ursb-non-individual-register-launch]].
+
+## The land registry — tightening, and going digital (Apr 2026)
+
+- **Controls first, technology next.** Faced with rising land disputes, **Administrative Circular No. 1 of
+  2025** gave RDCs and city authorities an active oversight role (no eviction without district security
+  committees + Ministry of Lands consultation; mandatory inspection of larger parcels before
+  subdivision/transfer). The **[[mlhud-uganda|Ministry of Lands]]** is planning **blockchain and AI systems
+  to cut fraud** in land transactions (paper systems "vulnerable to manipulation") plus **mass titling** —
+  Minister Judith Nabakooba framing it as a shift **from reactive dispute-resolution to preventive
+  governance**. This runs atop the customary-tenure digitisation (STDM CCOs) on [[UGA]]. See [[tech.ai]],
+  [[digital.rural]]. Source: [[2026-04-07-govt-tightens-land-controls-blockchain-ai]].
 
 ## Reads
 

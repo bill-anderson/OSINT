@@ -8,8 +8,9 @@ date_precision: day
 date_source: source
 places: [UGA]
 topics: [dpi.govtech]
-entities: [[nita-u], [posta-uganda]]
+entities: [[nita-uganda], [posta-uganda]]
 lens: []
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: UGA-2026-07-17
 ---
