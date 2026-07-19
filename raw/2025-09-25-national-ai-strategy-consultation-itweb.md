@@ -12,6 +12,7 @@ entities: [[malawi-ministry-of-ict], [undp], [dmap]]
 lens: []
 retrieved: 2026-07-17
 sweep_batch: MWI-2026-07-17
+body_completeness: excerpt
 ---
 
 # Malawi initiates dialogue on AI strategy

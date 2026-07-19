@@ -12,6 +12,7 @@ entities: [[world-bank], [malawi-ministry-of-ict]]
 lens: []
 retrieved: 2026-07-17
 sweep_batch: MWI-2026-07-17
+body_completeness: excerpt
 ---
 
 # Malawi Launches Chichewa AI Initiative to Drive Digital Inclusion and Innovation

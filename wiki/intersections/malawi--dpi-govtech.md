@@ -9,7 +9,7 @@ entities: [[malawi-ministry-of-ict], [dmap], [ppda-malawi], [malawi-data-protect
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-19
-sources: [[2026-06-11-government-data-sharing-regulation-boma-lathu-itweb], [2026-06-09-huawei-180m-ict-investment-plan-malawi24], [2026-04-01-ppda-mandatory-e-procurement-maneps-malawi24], [2026-01-27-ict-sector-eyes-policy-enforcement-times], [2026-01-13-ict-sector-2025-implementation-woes-times], [2026-05-20-local-authorities-ict-policy-dowa-malawi24]]
+sources: [[2026-06-11-government-data-sharing-regulation-boma-lathu-itweb], [2026-06-09-huawei-180m-ict-investment-plan-malawi24], [2026-04-01-ppda-mandatory-e-procurement-maneps-malawi24], [2026-01-27-ict-sector-eyes-policy-enforcement-times], [2026-01-13-ict-sector-2025-implementation-woes-times], [2026-05-20-local-authorities-ict-policy-dowa-malawi24], [2025-12-05-farmer-data-interoperability-nagdi-dpi-times]]
 ---
 
 # Malawi × E-Government & Data Exchange
@@ -67,5 +67,17 @@ with binding rules, mandatory systems and (proposed) Chinese finance.
   business registration, tax) and a **28-district high-speed ring-protected network** to power Boma Lathu — a
   `sovereignty`/`geopol.china` dependency the funding terms of which are not yet public. See [[geopol.china]],
   [[infra.connect]], [[finance.new]]. Source: [[2026-06-09-huawei-180m-ict-investment-plan-malawi24]].
+
+## Sectoral interoperability — the farmer-data case
+
+- **Fragmented farmer data → a National Agricultural Data Infrastructure (2025-12).** Malawian farmers (14
+  districts) juggle **non-interoperable** platforms — the met department's **PICSA** (climate), **One Acre
+  Fund**, the government **Farm Input Subsidy Programme (FISP)**, and ACE's **Zaulimi** app (market/warehouse
+  receipts) — logging into each and losing control of their data. Analysts argue the UNDP-led **NRIS** offers a
+  foundation for a sectoral **farmer-ID** layer, the **[[malawi-data-protection-act-2024|DPA 2024]]** (MACRA as
+  DPA; registration required to process >10,000 people's data) gives farmers a say, and the Commonwealth-proposed
+  **NAGDI** (National Agricultural Data Infrastructure) framework could harmonise the silos. See
+  [[dpi.exchange]], [[digital.rural]], [[dpi.id]]. Source:
+  [[2025-12-05-farmer-data-interoperability-nagdi-dpi-times]].
 
 See [[MWI]], [[dpi.govtech]], [[dmap]].

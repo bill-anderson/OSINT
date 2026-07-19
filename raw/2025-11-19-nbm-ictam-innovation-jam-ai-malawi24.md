@@ -12,6 +12,7 @@ entities: []
 lens: []
 retrieved: 2026-07-17
 sweep_batch: MWI-2026-07-17
+body_completeness: excerpt
 ---
 
 # K75.5m to help Malawian young innovators turn ideas into thriving solutions

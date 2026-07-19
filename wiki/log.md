@@ -6774,3 +6774,33 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
 - Sources: 2026-04-16 NPS strategy (itweb), 2026-03-30 K38tn NPS report (times), 2026-06-24 Airtel-Admarc
   (itweb), 2025-07-16 CFTC-Mpamba interop (malawi24), 2025-06-17 PayChangu-Centenary (malawi24), 2026-04-24
   PayChangu profile (wearetech).
+
+## 2026-07-19 — ingest(MWI) chunk 7/7 + finalize: AI, skills & innovation
+
+- **7 sources admitted, 0 leads, 0 discards.**
+- **Intersection created:** [[malawi--tech-ai]] — inclusion-framed AI: draft National AI Strategy, Chichewa Low
+  Resource Language Data Trust (WB+Gates), MACRA-UNDP AI/ID, TNM AI labs, NBM/ICTAM Innovation Jam, ICT
+  Innovation Awards, Airtel Nzeru Fund STEM.
+- **Entity created:** [[malawi-language-data-trust]] (initiative — Chichewa AI).
+- **Entities updated:** [[tnm-malawi]] (+30yr/85% coverage/AI labs), [[airtel-malawi]] (+Nzeru Fund + Admarc
+  agri-pay), [[ictam]] (+Innovation Jam), [[macra-malawi]] (+MACRA-UNDP AI/ID). NAGDI farmer-data added to
+  [[malawi--dpi-govtech]].
+- **MWI hub:** +2 Recent-developments entries (AI push 2026-06-24; farmer-data/NAGDI 2025-12-05); tech.ai
+  Active-topics line → intersection; +data.open topic; +malawi-language-data-trust + malawi--tech-ai.
+- **Concepts:** [[tech.ai]] +MWI Chichewa low-resource-language bullet; [[capacity.training]] +MWI AI-skills
+  bullet (+places/footer); [[digital.rural]] +MWI farmer-data/agri-pay bullet (+places).
+- **entities-index:** +malawi-language-data-trust.
+- Sources: 2026-07-10 MACRA-UNDP AI/ID (itweb), 2026-06-24 Chichewa AI (techafricanews), 2025-12-05 NAGDI
+  farmer-data (times), 2025-11-10 TNM 30yr/AI labs (times), 2025-11-19 Innovation Jam (malawi24), 2026-04-22
+  ICT Innovation Awards (techreviewafrica pr-wire), 2026-01-07 Airtel Nzeru STEM (malawi24).
+
+- **+1 source (manifest under-count):** `2025-09-25-national-ai-strategy-consultation-itweb` (Sept 2025 launch
+  of the AI-Strategy consultation; not in the manifest's 38 bullets) folded into [[malawi--tech-ai]] +
+  [[malawi-ministry-of-ict]] as the baseline preceding the held Feb-2026 validation. Chunk 7 = **8 sources**.
+
+### MWI ingest total (chunks 1-7): **38 sources admitted, 0 leads, 1 discard (relevant-duplicate), 0 needs-clip**
+- Intersections created: 6 (malawi--dpi-govtech, --infra-connect, --infra-store, --dpi-pay, --tech-ai; plus
+  enrichment of the pre-existing malawi--dpi-id). Entities created: 11 (ictam, ppda-malawi, tnm-malawi,
+  airtel-malawi, sparc-systems, paychangu, malswitch, malawi-language-data-trust) + heavy updates to NRB,
+  MACRA, DPA-2024, ministry-of-ict, RBM.
+- 1 relevant-duplicate pruned (wearetech WB Digital Foundations write-up). No contradictions, no gaps.

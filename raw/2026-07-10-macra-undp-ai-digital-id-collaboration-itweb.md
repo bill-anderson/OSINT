@@ -12,6 +12,7 @@ entities: [[macra-malawi], [undp]]
 lens: []
 retrieved: 2026-07-17
 sweep_batch: MWI-2026-07-17
+body_completeness: excerpt
 ---
 
 # Malawi explores AI, digital IDs collaboration

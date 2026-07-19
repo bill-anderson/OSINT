@@ -2,7 +2,7 @@
 type: concept
 title: Training and skills
 slug: capacity.training
-places: [AGO, ZMB, MAR, XGL, GHA, NAM, SLE, XAF, ZAF, NGA, KEN, ZWE, XSS, ETH, GAB, RWA, TZA, SDN, MUS]
+places: [AGO, ZMB, MAR, XGL, GHA, NAM, SLE, XAF, ZAF, NGA, KEN, ZWE, XSS, ETH, GAB, RWA, TZA, SDN, MUS, MWI]
 entities: [[dzap], [mosip], [undp], [smart-africa], [afnic], [partner2connect], [liquid-c2], [microsoft], [cassava-technologies], [microsoft-sa-2026-expansion], [orange], [adli], [dial], [google], [google-for-startups-accelerator-africa], [google-ai-research-foundations], [google-deepmind], [hustle-academy], [dhet-south-africa], [microsoft-elevate], [tiara-pathon], [huawei], [ghana-national-ai-strategy], [uae], [starlink], [teknowledge], [ai-unipod-ethiopia], [digital-ethiopia-2030], [ethiopian-ai-institute], [gabon-huawei-mou], [anthropic-rwanda-mou], [anthropic], [tech-corps], [kenya-school-of-government], [kenya-cyber-resilience-project], [expertise-france], [dl4all-nitda], [nitda], [pdpc-tanzania]]
 lens: [sovereignty]
 status: active
@@ -25,6 +25,13 @@ Building the digital-skills base for citizens and the workforce.
   scaling from 10 schools into secondary. An unusually concrete whole-of-population AI-literacy bet for a small
   state. See **[[mauritius--tech-ai]]**, [[MUS]], [[tech.ai]]. Source:
   [[2026-06-20-budget-2026-2027-ai-training-50000-fintech-lexpress]].
+- **[[MWI]] Malawi — a private-sector-led AI-skills pipeline (2025-2026).** Skilling is being carried by banks
+  and telcos: the **Airtel Africa Foundation**'s **Nzeru Fund** funds 25 low-income STEM undergraduates (incl.
+  data science, AI, cybersecurity) at MUST; NBM's **K75.5m** backs the ICTAM **Innovation Jam** ("AI for
+  Sustainable Development"); and MACRA/UNDP pair AI with youth digital skills on the Universal Service Fund. See
+  **[[malawi--tech-ai]]**, [[MWI]], [[tech.ai]]. Sources:
+  [[2026-01-07-airtel-nzeru-fund-stem-scholarships-malawi24]],
+  [[2025-11-19-nbm-ictam-innovation-jam-ai-malawi24]].
 - **Professionalising Data Protection Officers (2026-07, Tanzania).** Tanzania's **[[pdpc-tanzania]]**
   (Personal Data Protection Commission) and the **Open University of Tanzania** launched a national
   **Certified Data Protection Officer (CDPO) Programme** — OUT trains and assesses, PDPC certifies — to
@@ -164,7 +171,7 @@ Building the digital-skills base for citizens and the workforce.
 
 ## Places
 
-[[ZMB]] · [[MAR]] · [[XGL]] · [[GHA]] · [[NAM]] · [[SLE]] · [[ZAF]] · [[XAF]] · [[NGA]] · [[KEN]] · [[ZWE]] · [[XSS]] · [[ETH]] · [[GAB]] · [[RWA]] · [[GNB]] · [[BEN]] · [[MUS]]
+[[ZMB]] · [[MAR]] · [[XGL]] · [[GHA]] · [[NAM]] · [[SLE]] · [[ZAF]] · [[XAF]] · [[NGA]] · [[KEN]] · [[ZWE]] · [[XSS]] · [[ETH]] · [[GAB]] · [[RWA]] · [[GNB]] · [[BEN]] · [[MUS]] · [[MWI]]
 
 ## Sources
 

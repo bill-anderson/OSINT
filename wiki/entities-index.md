@@ -1092,6 +1092,7 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 | SLB Africa Performance Center (Luanda) | AGO | tech.ai, tech.industry, capacity.training, geopol.usa | [[slb-africa-performance-center]] |
 | E-Social Security (Mauritius) | MUS | dpi.mis, dpi.registry, include.access, dpi.govtech | [[e-social-security-mauritius]] |
 | mytGPT (MT sovereign AI platform) | MUS | tech.ai, capacity.training, infra.store | [[mytgpt]] |
+| Malawi Low Resource Language Data Trust (Chichewa AI) | MWI | tech.ai, data.open, capacity.research | [[malawi-language-data-trust]] |
 
 ## Deals
 

@@ -2,11 +2,11 @@
 type: concept
 title: Rural digital data capture
 slug: digital.rural
-places: [ETH, KEN, NGA, ZMB, ZWE, TZA, UGA, RWA, SEN, MOZ, NAM, CIV, ZAF, XAF, XSS, XGL, SLE]
+places: [ETH, KEN, NGA, ZMB, ZWE, TZA, UGA, RWA, SEN, MOZ, NAM, CIV, ZAF, XAF, XSS, XGL, SLE, MWI]
 entities: [[echis-ethiopia], [nasa-harvest], [nucap], [starlink], [helios-towers], [orange-sat], [google], [global-center-on-ai-governance]]
 lens: [sovereignty, colonialism]
 status: active
-last_reviewed: 2026-07-16
+last_reviewed: 2026-07-19
 sources: [[2026-03-31 Africa we have a data problem], [2026-03-12 Western AI models 'fail spectacularly' in farms and forests abroad], [2026-03-26 Has Satellite Become Africa's Most Critical Connectivity Infrastructure], [2025-12-19 Why one of the year's biggest AI-for-development stories isn't actually about AI], [2026-07-13 On Leapfrogging - What are we leaping over and where are we landing]]
 ---
 
@@ -23,6 +23,14 @@ just digitisation"** thesis — see [[data.statistics]], [[2026-03-31 Africa we 
 
 ## What matters now
 
+- **[[MWI]] Malawi — fragmented farmer data, and digitising farm payments (2025-2026).** Malawian smallholders
+  juggle **non-interoperable** platforms (met-service **PICSA**, **FISP**, One Acre Fund, ACE's **Zaulimi**),
+  logging into each and losing control of their data; analysts pitch an **NRIS** farmer-ID layer, the DPA 2024,
+  and a Commonwealth-proposed **NAGDI** (National Agricultural Data Infrastructure) to harmonise the silos.
+  Separately, **Airtel Money × Admarc** put value-chain payments into farmers' wallets. See
+  [[malawi--dpi-govtech]], [[malawi--dpi-pay]], [[dpi.exchange]], [[dpi.id]]. Sources:
+  [[2025-12-05-farmer-data-interoperability-nagdi-dpi-times]],
+  [[2026-06-24-airtel-money-admarc-farmer-payments-itweb]].
 - **"Leapfrogging" can privatise a public failure (2026-07, Ezejiofor).** A sovereignty/colonialism-lens
   critique from the **[[global-center-on-ai-governance]]**'s *Algorithmic Review*: a drone-logistics start-up
   serving disconnected **[[RWA]]** smallholders (basic phone + USSD → drone crop pickup) is inventive but

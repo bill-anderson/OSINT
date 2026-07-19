@@ -18,6 +18,12 @@ converge.
 
 ## Key material — continental & thematic
 
+- **[[MWI]] Malawi — low-resource-language AI (Chichewa, 2026-06).** Malawi launched a **Low Resource Language
+  Data Trust** to build **Chichewa** AI models, assembling licensed local-language content as training data
+  (**World Bank + Gates Foundation**) — an **inclusion-first** AI bet (digital assistants, translation,
+  education) rather than a compute play. It sits alongside a draft National AI Strategy (in validation) and
+  MACRA-UNDP responsible-AI/ID work. See **[[malawi--tech-ai]]**, [[malawi-language-data-trust]], [[data.open]].
+  Source: [[2026-06-24-chichewa-ai-language-data-trust-techafricanews]].
 - **Mauritius — a governance-led AI model (2026).** Africa's EGDI leader launched **AI for Mauritius (AIM)**
   (9 Apr 2026, AI Unit) with **FAIR guidelines** that make ethics the starting point: **vendor-neutral and
   border-agnostic** (any AI operating in Mauritius complies, whatever its origin — governance by *impact, not

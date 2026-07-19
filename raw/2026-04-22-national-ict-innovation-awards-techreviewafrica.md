@@ -13,6 +13,7 @@ entities: [[malawi-ministry-of-ict]]
 lens: []
 retrieved: 2026-07-17
 sweep_batch: MWI-2026-07-17
+body_completeness: excerpt
 ---
 
 # Malawi showcases digital transformation progress at National ICT Innovation Awards

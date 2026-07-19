@@ -12,6 +12,7 @@ entities: [[national-registration-bureau-malawi], [malawi-data-protection-act-20
 lens: []
 retrieved: 2026-07-17
 sweep_batch: MWI-2026-07-17
+body_completeness: excerpt
 ---
 
 # Connecting farmer data

@@ -4,7 +4,7 @@ title: Malawi
 code: MWI
 parent: XSA
 place_kind: country
-topics: [dpi.govtech, dpi.exchange, dpi.id, infra.store, gov.protect, finance.new, dpi.mis, data.statistics, gov.policy, capacity.training, gov.standards, capacity.research, tech.ai, include.access, digital.localgov, dpi.pay, infra.cybersec, gov.legislate, geopol.china, infra.connect, include.divides, tech.industry, gov.regional, digital.rural, tech.innovate, finance.mou]
+topics: [dpi.govtech, dpi.exchange, dpi.id, infra.store, gov.protect, finance.new, dpi.mis, data.statistics, gov.policy, capacity.training, gov.standards, capacity.research, tech.ai, include.access, digital.localgov, dpi.pay, infra.cybersec, gov.legislate, geopol.china, infra.connect, include.divides, tech.industry, gov.regional, digital.rural, tech.innovate, finance.mou, data.open]
 status: active
 last_reviewed: 2026-07-19
 ---
@@ -51,6 +51,19 @@ last_reviewed: 2026-07-19
   [[2026-06-11-nrb-nzika-wallet-digital-id-september-itweb]],
   [[2026-07-06-digital-id-cards-september-launch-times]]. Full case: [[malawi--dpi-id]]. See [[dpi.id]],
   [[dpi.registry]], [[gov.legislate]], [[include.access]].
+- **2026-06-24** — **AI, inclusion-framed: Chichewa Data Trust + responsible-AI/ID.** Malawi launched a
+  **[[malawi-language-data-trust|Low Resource Language Data Trust]]** to build **Chichewa AI** models (World Bank
+  + Gates) and, with UNDP, is exploring **AI + digital-ID + data-protection** work at **[[macra-malawi|MACRA]]**
+  (National ID↔SIM verification, responsible AI, skills). **[[tnm-malawi|TNM]]** plans AI labs; NBM/ICTAM's
+  Innovation Jam ran on "AI for Sustainable Development"; Airtel's **Nzeru Fund** funds 25 STEM/AI students. Full
+  picture: **[[malawi--tech-ai]]**. Sources: [[2026-06-24-chichewa-ai-language-data-trust-techafricanews]],
+  [[2026-07-10-macra-undp-ai-digital-id-collaboration-itweb]]. See [[tech.ai]], [[data.open]],
+  [[capacity.training]].
+- **2025-12-05** — **Farmer data siloed; a case for agricultural DPI.** Malawian farmers juggle
+  non-interoperable platforms (PICSA, FISP, One Acre Fund, Zaulimi); analysts pitch the **NRIS** farmer-ID
+  layer, the **DPA 2024**, and a Commonwealth-proposed **NAGDI** framework to harmonise them. Source:
+  [[2025-12-05-farmer-data-interoperability-nagdi-dpi-times]]. See [[malawi--dpi-govtech]], [[dpi.exchange]],
+  [[digital.rural]].
 - **2026-06-09** — **Only 3% of web content served locally.** An Internet Society Pulse content-locality
   study (weighted by bytes) put Malawi at the bottom of 12 measured countries — **3% local** — but **62%
   regional**, served largely from South Africa, keeping most traffic on-continent. Underlines the case for
@@ -206,8 +219,10 @@ last_reviewed: 2026-07-19
   Regulation**; **MANePS** mandatory e-procurement ([[ppda-malawi]]); ESB interoperability push; National Single
   Window; proposed **$180m [[huawei]]** plan; first Local Authorities ICT policy; the 2025 implementation-gap
   story — **[[malawi--dpi-govtech]]**.
-- [[gov.policy]] · [[tech.ai]] — Draft National Digital Transformation + AI Strategies in
-  validation ([[malawi-ministry-of-ict]] / [[undp]]); Malawi 2063 alignment.
+- [[gov.policy]] · [[tech.ai]] · [[tech.innovate]] — Draft National Digital Transformation + AI Strategies in
+  validation ([[malawi-ministry-of-ict]] / [[undp]]); **Chichewa [[malawi-language-data-trust|Language Data
+  Trust]]** (WB+Gates); MACRA-UNDP AI/ID work; TNM AI labs; NBM/ICTAM Innovation Jam; Airtel Nzeru Fund —
+  **[[malawi--tech-ai]]**.
 - [[gov.protect]] · [[infra.cybersec]] — data privacy as cornerstone; "Privacy by Design"; the
   **[[malawi-data-protection-act-2024]]**; **[[macra-malawi|MACRA]]** as DPA with draft registration
   regulations/fees; DPA + **MwCERT** to become independent institutions (World Bank TA).
@@ -237,9 +252,9 @@ last_reviewed: 2026-07-19
 
 - [[dmap]] · [[world-bank]] · [[malawi-revenue-authority]] · [[blantyre-city-council]] · [[ppda-malawi]]
 - [[malawi-ministry-of-ict]] · [[undp]] · [[malawi-data-protection-act-2024]]
-- Intersections: [[malawi--dpi-id]] · [[malawi--dpi-govtech]] · [[malawi--infra-connect]] · [[malawi--infra-store]] · [[malawi--dpi-pay]]
+- Intersections: [[malawi--dpi-id]] · [[malawi--dpi-govtech]] · [[malawi--infra-connect]] · [[malawi--infra-store]] · [[malawi--dpi-pay]] · [[malawi--tech-ai]]
 - [[national-registration-bureau-malawi]] (PS Patrick Machika) · [[idt4m]] · [[macra-malawi]]
-- [[reserve-bank-of-malawi]] · [[malawi-electoral-commission]] · [[comesa]] · [[ictam]] · [[tnm-malawi]] · [[airtel-malawi]] · [[sparc-systems]] · [[paychangu]] · [[malswitch]]
+- [[reserve-bank-of-malawi]] · [[malawi-electoral-commission]] · [[comesa]] · [[ictam]] · [[tnm-malawi]] · [[airtel-malawi]] · [[sparc-systems]] · [[paychangu]] · [[malswitch]] · [[malawi-language-data-trust]]
 - [[hmis-malawi-livingstonia]] · [[dhis2]] · [[his-developing-countries-review]]
 - Mentioned, not hubbed: Department of E-Government (Prosper Mopiwa); Department of
   Immigration and Citizenship Services (Denis Chipao); Bomalathu platform; Synod of

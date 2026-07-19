@@ -6,7 +6,7 @@ places: [MWI]
 topics: [gov.policy, dpi.govtech, tech.ai, gov.protect]
 status: active
 last_reviewed: 2026-07-19
-sources: [[2026-02-20 Malawi validates AI strategy, digital transformation policy - CAJ News Africa], [2026-01-28 Malawi positions data privacy as cornerstone of digital development], [2026-06-11-government-data-sharing-regulation-boma-lathu-itweb], [2026-06-09-huawei-180m-ict-investment-plan-malawi24], [2026-01-27-ict-sector-eyes-policy-enforcement-times], [2026-05-20-local-authorities-ict-policy-dowa-malawi24]]
+sources: [[2026-02-20 Malawi validates AI strategy, digital transformation policy - CAJ News Africa], [2026-01-28 Malawi positions data privacy as cornerstone of digital development], [2026-06-11-government-data-sharing-regulation-boma-lathu-itweb], [2026-06-09-huawei-180m-ict-investment-plan-malawi24], [2026-01-27-ict-sector-eyes-policy-enforcement-times], [2026-05-20-local-authorities-ict-policy-dowa-malawi24], [2025-09-25-national-ai-strategy-consultation-itweb], [2026-06-24-chichewa-ai-language-data-trust-techafricanews]]
 ---
 
 # Malawi Ministry of Information and Communications Technology
@@ -24,13 +24,13 @@ the Malawi 2063 development vision and the National Digitisation Policy.
   curb data misuse and build trust in e-government, digital ID and emerging-tech systems. Tags
   [[gov.protect]], [[gov.policy]]. Source:
   [[2026-01-28 Malawi positions data privacy as cornerstone of digital development]].
-- **Draft digital-transformation and AI strategies validated (~2026-02-18).** The ministry,
-  through the Department of E-Government and in partnership with [[undp]], began validation of a
-  **Draft National Digital Transformation Strategy** and a **Draft National AI Strategy** at a
-  two-day workshop in Lilongwe, and launched a "Shape Malawi's Digital and AI Future" citizen-
-  feedback portal. PS Mopiwa framed the strategies as a coordinated framework to strengthen DPI,
-  service delivery and data systems, aligned to Malawi 2063. Tags [[tech.ai]], [[dpi.govtech]],
-  [[gov.policy]]. Source:
+- **First National AI + Digital Transformation Strategies — consultation to validation (2025-09 → 2026-02).**
+  The ministry (Department of E-Government) launched **regional consultative workshops in Sept 2025** to develop
+  Malawi's **first National AI Strategy** and a National Digital Transformation Strategy — with [[undp]] under
+  **[[idt4m|IDT4M]]** and the PPP Commission under **[[dmap]]** — reaching a **validation workshop** and a
+  "Shape Malawi's Digital and AI Future" citizen-feedback portal in **Feb 2026** (Malawi 2063; pre-adoption; PS
+  Mopiwa). See [[malawi--tech-ai]], [[tech.ai]], [[gov.policy]]. Sources:
+  [[2025-09-25-national-ai-strategy-consultation-itweb]],
   [[2026-02-20 Malawi validates AI strategy, digital transformation policy - CAJ News Africa]].
 - **E-government build-out (2026).** The ministry (via the Department of E-Government) advanced the operational
   layer: a proposed **Government Data Sharing Regulation** for the **Boma Lathu** National Data Exchange Platform

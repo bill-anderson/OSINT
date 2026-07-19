@@ -3,11 +3,11 @@ type: entity
 entity_type: government-body
 title: Malawi Communications Regulatory Authority (MACRA)
 places: [MWI]
-topics: [infra.connect, dpi.id, dpi.registry, gov.legislate, gov.protect, infra.cybersec]
+topics: [infra.connect, dpi.id, dpi.registry, gov.legislate, gov.protect, infra.cybersec, tech.ai]
 lens: []
 status: active
 last_reviewed: 2026-07-19
-sources: [[2025-05-21 Malawi to Launch Mandatory Biometric SIM Registration in July 2025], [2024-02-12 National Addressing Project - MACRA Website], [2024-06-25 Review of the Malawi Data Protection Act 2024], [2026-07-16-macra-data-protection-registration-compliance-malawi24], [2026-07-14-macra-data-protection-registration-fees-consultation-itweb], [2026-03-26-world-bank-cybersecurity-data-protection-support-techafricanews]]
+sources: [[2025-05-21 Malawi to Launch Mandatory Biometric SIM Registration in July 2025], [2024-02-12 National Addressing Project - MACRA Website], [2024-06-25 Review of the Malawi Data Protection Act 2024], [2026-07-16-macra-data-protection-registration-compliance-malawi24], [2026-07-14-macra-data-protection-registration-fees-consultation-itweb], [2026-03-26-world-bank-cybersecurity-data-protection-support-techafricanews], [2026-07-10-macra-undp-ai-digital-id-collaboration-itweb]]
 ---
 
 # Malawi Communications Regulatory Authority (MACRA)
@@ -34,7 +34,13 @@ standardised addresses — a registry layer feeding e-government and service del
   **Mayamiko Nkoloma**; the USF **Connect-a-School** project noted). See [[infra.cybersec]]. Source:
   [[2026-03-26-world-bank-cybersecurity-data-protection-support-techafricanews]].
 
+- **AI + digital-ID collaboration with UNDP (2026-07).** MACRA and **[[undp]]** are exploring collaboration on
+  **AI, digital identity and data protection** — a priority being **integrating the National ID with SIM
+  verification** (telecom integrity, anti-fraud) alongside responsible AI and youth digital skills (DG
+  Mayamiko Nkoloma). See [[tech.ai]], [[malawi--tech-ai]]. Source:
+  [[2026-07-10-macra-undp-ai-digital-id-collaboration-itweb]].
+
 ## Links
 Place: [[MWI]] · Topics: [[infra.connect]] · [[dpi.id]] · [[dpi.registry]] · [[gov.protect]] ·
-[[infra.cybersec]] · Entities: [[national-registration-bureau-malawi]] · [[malawi-data-protection-act-2024]] ·
-[[world-bank]]
+[[infra.cybersec]] · [[tech.ai]] · Entities: [[national-registration-bureau-malawi]] ·
+[[malawi-data-protection-act-2024]] · [[world-bank]] · [[undp]]
