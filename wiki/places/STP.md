@@ -6,7 +6,7 @@ parent: XWA
 place_kind: country
 topics: [gov.protect, gov.legislate, gov.policy, gov.regional, dpi.govtech, dpi.id, dpi.registry, dpi.exchange, infra.connect, include.access]
 status: active
-last_reviewed: 2026-07-16
+last_reviewed: 2026-07-19
 ---
 
 # São Tomé and Príncipe (STP)
@@ -76,7 +76,8 @@ operationalise continental data governance at national level.
 - [[dpi.govtech]] · [[dpi.exchange]] — Citizen Portal (INIC beta, 2026); trade single-window + ASYFIVE
   (UNDP, 22 institutions); interoperability under Law 1/2024 ([[sao-tome-interoperability-framework-2024]]).
   Full case: [[sao-tome--dpi-govtech]].
-- [[infra.connect]] · [[include.access]] — ~61.5% internet penetration (2025); DataReportal baselines.
+- [[infra.connect]] · [[include.access]] — ~61.5% internet penetration (2025); CST incumbent (35 antennas) + US-brokered Starlink (live Dec 2025). Full case: [[sao-tome--infra-connect]].
+- [[dpi.pay]] · [[finance.new]] — BCSTP FinTech Sandbox under the National Financial Inclusion Strategy. Full case: [[sao-tome--dpi-pay]].
 - [[gov.regional]] — a small state translating continental AU frameworks into national action.
 
 ## Entities

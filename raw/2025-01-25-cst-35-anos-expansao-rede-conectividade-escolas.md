@@ -10,6 +10,7 @@ places: [STP]
 topics: [infra.connect, include.access, include.divides]
 entities: [[cst]]
 lens: []
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: STP-2026-07-17
 ---

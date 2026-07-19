@@ -7395,3 +7395,24 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
   diaspora/embassy issuance, passport SEP 2.0, and the EU-funded PReSE **automatic electoral roll**
   (registry↔CEN interoperability, Africa's first Lusophone automatic registration, €2m/yr saved) with ANPDP oversight.
 - **Entity created:** [[prese-sao-tome]]. (sao-tome--gov-protect is a forward-ref resolved in chunk 3.)
+
+## 2026-07-19 — ingest(STP) chunk 4: Connectivity & fintech
+
+- **6 admitted, 0 pruned.**
+- **Created:** [[sao-tome--infra-connect]] — CST incumbent (35 antennas, schools connectivity, Água Izé)
+  + US-brokered Starlink (US chargé backed entry as the US closed its 32-yr VOA relay; live Dec 2025,
+  ~$80/mo). +[[cst-sao-tome]].
+- **Created:** [[sao-tome--dpi-pay]] — BCSTP FinTech Sandbox (National Financial Inclusion Strategy,
+  5-phase, offline transfers) + a SIDS-fintech landscape analysis. +[[central-bank-sao-tome]].
+- Hub wired + last_reviewed → 2026-07-19. **new/ drained to 0 — STP batch complete.**
+
+### STP batch summary (chunks 1-4)
+- Full 22-clip drain (PT primaries) across 4 thematic chunks; 0 pruned. STP went from **0 intersections
+  to 5**.
+- New intersections: sao-tome--dpi-id, --dpi-govtech, --gov-protect, --infra-connect, --dpi-pay.
+- New entities: prese-sao-tome, inic-sao-tome, lusophone-data-protection-network, cst-sao-tome,
+  central-bank-sao-tome.
+- Through-lines: "micro-state DPI done right" — open-standards ID (Ooru/MOSIP/VCI-DEX) on a ~98% civil
+  register, an EU-funded automatic electoral roll (registry↔CEN, €2m/yr saved); and outsized **data
+  diplomacy** — a tiny DPA courted by both the EU/Lusophone network and China (via Macau, incl. AI
+  supervision). US soft-power pivot (VOA out, Starlink in). Donor-financed but design-sovereign.

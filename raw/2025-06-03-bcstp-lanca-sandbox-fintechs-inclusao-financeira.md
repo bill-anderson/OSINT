@@ -10,6 +10,7 @@ places: [STP]
 topics: [dpi.pay, finance.new, tech.innovate]
 entities: [[bcstp]], [[afap]]
 lens: []
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: STP-2026-07-17
 ---
