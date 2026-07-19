@@ -175,6 +175,9 @@ intersections above.*
   **AI story extracted**: **[[tanzania--tech-ai]]** ([[ict-commission-tanzania|ICTC]] AI Forum; AI a Vision
   2050 pillar; the "consumers-vs-contributors" debate; deepfakes; **digital health & AI** — hospitals
   exposed to ransomware, [[jakaya-kikwete-cardiac-institute|JKCI]] tooling).
+- [[infra.cybersec]] — extracted: **[[tanzania--infra-cybersec]]** (ITU GCI tier-1; ICTC forum; KISA/South
+  Korea skills; e-GA public-sector hardening; SIM-registration agents feeding fraud rings — cyber-governance
+  ahead of cyber-hygiene).
 - [[tech.innovate]] · [[finance.new]] — external ID financing; Google-backed startup Safiri.
 
 *Naming note: the ministry appears as "Ministry of Information, Communication and Information

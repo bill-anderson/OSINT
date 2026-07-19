@@ -8,8 +8,9 @@ date_precision: day
 date_source: source
 places: [TZA]
 topics: [infra.cybersec, tech.ai, infra.capacity]
-entities: [[e-government-authority-tanzania]]
+entities: [[ega-tanzania]]
 lens: []
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: TZA-2026-07-17
 ---

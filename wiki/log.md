@@ -7603,3 +7603,8 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
 - Created wiki/intersections/tanzania--tech-ai.md: responsible-AI frame (ICTC National AI Forum; AI a Vision 2050 pillar, Kairuki at Geneva; state lawyers & AI); "consumers vs contributors" sovereignty debate (UDSM workshop); skills (16 to S.Africa/34 to Ireland; universities); risks (deepfakes/info integrity); digital health & AI (hospitals ransomware-exposed under Digital Health Strategy 2025-30; health-workforce readiness; JKCI patient tracking + AI echocardiography/Dozee).
 - Created entities: ict-commission-tanzania (ICTC), jakaya-kikwete-cardiac-institute (JKCI). Mapped ministry ref → micit-tanzania. 0 prunes.
 - Wired TZA hub tech.ai bullet → extracted. Dead-link NONE.
+
+## 2026-07-19 ingest(TZA) chunk 7 — Cybersecurity (6 sources)
+- Created wiki/intersections/tanzania--infra-cybersec.md: ITU GCI tier-1 (top-47); ICTC 4th Cybersecurity Forum; KISA/South Korea skills training; e-GA public-sector hardening; Zanzibar-Serensic MoU; SIM-registration agents feeding fraud rings (halohalo, 198 SIMs seized) — cyber-governance ahead of cyber-hygiene, identity layer as both defence and attack surface.
+- Mapped clip entity [[e-government-authority-tanzania]] → [[ega-tanzania]]. Serensic Africa/KISA mentioned inline. 0 prunes (forum/GCI pair complementary).
+- Wired TZA hub infra.cybersec bullet → extracted. Dead-link NONE.
