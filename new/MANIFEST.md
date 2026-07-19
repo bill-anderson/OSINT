@@ -1,70 +1,34 @@
-# SSD — sweep manifest (`SSD-2026-07-17`)
+# new-queue/STP — sweep manifest (batch STP-2026-07-17)
 
-**Window:** 2025-01-01 → 2026-07-17 · **Staged:** 37 · **Dropped:** 31 (`sweep/drop-log-SSD.csv`)
+Country: São Tomé and Príncipe (STP, region XWA). Window: 2025-01-01 → 2026-07-17.
+Language: Portuguese (PT clusters N1–N7). Trade-press blind spot — the two ledger papers
+(jornaltransparencia.st, vitrina.st) are thinly indexed by Exa (only homepages/archive
+.htm pages surface); primary instruments proved to be Téla Nón, RSTP (rstp.st), Jornal
+Transparência archive pages, Magazine Santomensidade, plus off-host Lusophone/official
+primaries (gov.mo, cnpd.pt, Macau Business, Space in Africa, Jornal Económico, World Bank).
+22 staged. See drop-log-STP.csv for drops (dedup / out-of-window / inadmissible).
 
-Sources — Newspapers (ledger): **One Citizen Daily** (`onecitizendaily.com`, 18) · **The Dawn** (`thedawn.com.ss`, **0 — unindexed**). Journals (fixed 8): TechAfrica News (5), ITWeb Africa (2), Telecom Review Africa (1), Tech Review Africa (1). Targeted SSD-outlet passes (thin-country / CAF-ERI precedent): Radio Tamazuj (3), Eye Radio (3), Standard Zone News (1), Citizen Digital (1), CAJ News Africa (1), CPJ (1).
+published | topics | source | title | why-it's-new
 
-Queries: **16** (onecitizendaily N1–N7 EN; thedawn ×2; journals ×8; targeted). English-language throughout.
-
-**Baseline / coverage note.** Contrary to the "likely thin" prior, SSD is **richly indexed** by Exa via One Citizen Daily and the trade press — *not* under-collected. The wiki already holds ~15 SSD sources (NIPS, Huawei-reconnect, gateway/data-centre committee, passport-digital-payment, Jan-2026 ID resumption, DPI features). This sweep adds first designated-paper coverage plus distinct journal/outlet events. **The Dawn (`thedawn.com.ss`) is effectively invisible to Exa** — only its homepage and a single 2024 (out-of-window) article surfaced across two query passes; it contributed **zero** staged items.
-
-**Date health:** all `date_source: source`, `date_precision: day`. Tech Review Africa serves no dates via Exa; its one item (`2026-03-04`) dated from the fetched page. No fetch failures. Bodies are verbatim article text captured via Exa 2026-07-17 (partial clips where elided); Tech Review Africa item fully fetched.
-
-Format: `published | topics | source | title | why it's new`
-
----
-
-## Identity, CRVS & biometric registration
-
-- `2026-01-16` | `dpi.id, dpi.mis, dpi.pay, gov.protect` | One Citizen Daily | $15M Biometric Drive: SSD Lays DPI Foundations to Purge 'Ghost' Workers | **★ $15m World-Bank-backed civil-service biometric payroll** framed explicitly as SSD's first DPI building block; three-phase rollout, data-protection gap flagged.
-- `2026-06-24` | `dpi.id, dpi.mis, dpi.pay` | One Citizen Daily | Biometric registration exercise for organised forces | Extends the biometric payroll drive to the **organised forces** (army/police), single verified database, PFMIS/World Bank support.
-- `2026-05-08` | `dpi.id, dpi.registry, include.access` | One Citizen Daily | Govt procures 5 advanced machine systems for ID/passport production | **5 production machines + 100 mobile enrolment kits + 100,000 nationality cards** delivered to CRNPI; passport/ID fee schedule.
-- `2026-07-13` | `dpi.id, include.access` | One Citizen Daily | Thousand begin collecting national IDs in greater Yei | Ground-level ID **distribution** reaching a specific region (Yei, 4,000+ cards) — the rollout in practice, most recent item in window.
-- `2025-06-18` | `dpi.registry, gov.policy` | One Citizen Daily | Digital land register, key in fighting fraud - expert | Expert push for a **digital land registry**; only land-registry item for SSD in window.
-
-## E-government, digitization & revenue
-
-- `2026-02-13` | `dpi.govtech, dpi.pay, gov.policy` | One Citizen Daily | SSD Digitizes Regulation to Strengthen Revenue Collection | **NCA e-Services Platform launch** ("Digital Transformation for Transparency and Accountability"); MTN/Zain/Liquid participation.
-- `2026-03-10` | `dpi.govtech, dpi.pay, infra.capacity` | One Citizen Daily | SSD Tax: 'Digital First' Strategy to Combat Revenue Leakages | **SSRA digital-first** e-tax/e-visa/e-work-permit; 7 of state offices digitized; ICT-infrastructure/skills constraints.
-- `2026-05-15` | `dpi.govtech, finance.mou, gov.policy` | Citizen Digital | SSD confirms digital services partnership with Crawford Capital Ltd | **Candidate deal/entity:** MICT&PS + SSRA engage Crawford Capital for e-services & revenue digitalisation, amid governance scrutiny.
-
-## Data protection, cybersecurity & digital rights
-
-- `2026-02-19` | `infra.cybersec, gov.legislate, gov.protect` | Radio Tamazuj | Minister Ateny defends cybercrime law (Kiir signs Cyber Crimes & Computer Abuse Act 2026) | **★ President Kiir signs the cybercrime Act (18 Feb 2026)** — the enactment event; full text withheld from journalists.
-- `2026-02-20` | `infra.cybersec, gov.legislate` | One Citizen Daily | ICT Ministry vows effective operation of Cyber crime Act 2026 | Designated-paper coverage of the Act's **operationalization** plan (NCA + Justice coordination, awareness campaigns).
-- `2025-11-26` | `infra.cybersec, gov.legislate, gov.protect` | TechAfrica News | SSD Takes Major Step Against Cybercrime with New Bill | **RNLA passes** the Cybersecurity & Computer Misuse Bill (25 Nov 2025); minister urges a Data Protection law.
-- `2025-11-20` | `gov.protect, gov.legislate, capacity.literacy` | Radio Tamazuj | Feature: Digital rights ignorance puts South Sudanese at risk | Data-protection **gap feature**; first Data Protection Policy Bill drafted Oct 2025 (Koneta + Paradigm + NCA); would create a Data Protection Commission.
-
-## Connectivity, fibre & satellite
-
-- `2025-10-09` | `infra.connect, finance.new, gov.regional` | TechAfrica News | SSD Announces 2,400km Fiber-Optic Network | **★ 2,400km cable** to the Indian Ocean via Kenya; Dec-2025 construction target announced in Lusaka.
-- `2025-08-08` | `infra.connect, gov.regional` | ITWeb Africa | SSD to lay fibre from Kenya | Cross-border **Kenya fibre** plan (feasibility/EIA phase); notes single existing 200km Uganda-Juba line.
-- `2025-11-25` | `infra.connect, tech.industry, finance.new, gov.regional` | TechAfrica News | MTN/Bayobab secures 15-yr licence to expand fibre | **★ Bayobab Infra Solutions 15-yr NCA licence** (eff. 16 Oct 2025); part of Project East 2 West corridor.
-- `2026-03-04` | `infra.connect, finance.new, gov.regional` | Tech Review Africa | NCT South Sudan & Bayobab national backbone fiber project | Bayobab backbone moves to **execution** (Juba–Nadapal eastern segment); PR-wire, treat as announcement record.
-- `2025-06-30` | `infra.connect, finance.new` | One Citizen Daily | Govt approves $9 million for fiber optic design | **$9m design-phase budget** approved; contracts slated July 2025; World Bank $67m (2023) context.
-- `2025-04-07` | `infra.connect, tech.ai, dpi.pay, finance.new` | One Citizen Daily | Govt targets fibre optics to boost AI development | First fibre network targeted for Sept 2025; ties fibre to AI/data-centre ambitions (Kigali AI summit).
-- `2025-04-05` | `tech.ai, infra.store, infra.capacity` | One Citizen Daily | SSD identifies key pillars for AI development | Three AI pillars (infrastructure, data centre, skills) at Kigali summit; World Bank $3m/5yr portfolio.
-- `2025-01-24` | `infra.connect, gov.legislate, include.access` | CPJ | SSD blocks social media access amid unrest | **★ Jan-2025 NCA social-media shutdown** (Facebook/TikTok, 22–27 Jan) — significant in-window event absent from holdings.
-- `2026-06-25` | `infra.connect, gov.policy, include.access` | Radio Tamazuj | NCA adjusts telecom tariff exchange rate to avert network collapse | **Tariff/FX crisis**: regulated 4,526 vs market ~27,000 SSP/$; +70 SSP/min adjustment; operators mulling infra cutbacks.
-- `2025-12-12` | `infra.connect, include.access, gov.legislate` | TechAfrica News | ICT Ministry commends MTN for 25% tariff reduction | **MTN 25% tariff cut**; cybercrime bill awaiting assent; Data Protection Bill work announced.
-- `2025-11-27` | `infra.connect, include.access` | One Citizen Daily | Editorial: high cost of mobile calls and data | Datable figure: **~US$23.70/GB** (Nov 2025), among Africa's most expensive; editorial/opinion.
-- `2025-07-03` | `infra.connect, include.access, dpi.pay` | Eye Radio | NCA reports huge internet growth | Time-varying figures: **1.3m→1.9m users; 12%→15.7% penetration** (2024→2025); NIPS + $9m fibre context.
-- `2025-04-14` | `infra.connect, tech.industry` | TechAfrica News | MTN secures 15-yr mobile operator licence | MTN South Sudan's new **15-yr mobile operator licence** (distinct from Bayobab infra licence).
-- `2025-01-22` | `infra.connect, tech.industry` | Telecom Review Africa | MTN South Sudan pioneers eSIM technology | First **eSIM** in SSD; launched with NCA.
-- `2026-01-05` | `infra.connect, include.divides, infra.cybersec, gov.policy` | One Citizen Daily | SSD Targets Rural Connectivity, Child Online Safety in 2026 | NCA's **2026 agenda**: rural connectivity, Child Online Protection, regulatory reform; ITU/EAC cooperation.
-
-## Data centres, cloud & geopolitics
-
-- `2025-09-29` | `geopol.china, infra.store, infra.connect, infra.energy` | ITWeb Africa | Huawei expresses interest in SSD's digital future | **Huawei re-engagement** at China-Africa summit; national data hub in Juba nearing completion; electricity as the binding constraint. (Distinct from held Feb-2026 Huawei-reconnect item.)
-- `2026-04-30` | `gov.policy, infra.store, infra.connect, gov.protect, gov.legislate` | Eye Radio | Ateny outlines SSD digital transformation at Nairobi summit | Consolidated update: **national data centre halfway built; 2,700km fibre; ICT Authority; Data Protection Act pending** (Connected Africa Summit).
-- `2026-05-21` | `gov.legislate, gov.policy, gov.protect` | Standard Zone News | SSD to establish ICT authority | **ICT Authority legal framework signed into law by Kiir**; Data Protection Act to take effect alongside it.
-
-## Payments & digital finance
-
-- `2025-02-04` | `dpi.pay, dpi.exchange` | One Citizen Daily | SSD launches National Instant Payment System (NIPS) | Designated-paper coverage of the **NIPS launch** with AfricaNenda (same event as held techcabal 2025-02-07; ingest lint #7 to adjudicate).
-- `2025-07-19` | `dpi.pay, gov.legislate` | One Citizen Daily | Central Bank affirms mobile money as legal tender | **★ BoSS declares mobile money legal tender**; strategic-plan target 30% adult usage by 2027; penalties for refusal.
-- `2025-07-22` | `dpi.pay, include.access, gov.protect` | One Citizen Daily | Mobile-money legal-tender push triggers mixed reactions | Economist critique (90% cash economy; cybersecurity/data-protection risk); pilot-first advice — useful contra-view.
-- `2025-08-15` | `dpi.pay, include.access` | One Citizen Daily | Mobile Money providers pledge nationwide expansion | MTN & Digitel pledge nationwide **agent expansion** with BoSS toward a cash-light economy.
-- `2025-08-29` | `dpi.pay, tech.industry` | One Citizen Daily | BoSS vows to safeguard robust payment system | **MTN MoMo 'Mata fekir' campaign** launch; BoSS payment-system safeguards commitment.
-- `2026-03-17` | `dpi.pay, infra.cybersec, infra.capacity` | Eye Radio | SSD boosts mobile payment security with ITU DFS lab training | **NCA DFS Security Lab** (ITU Phase-3 knowledge transfer) with BoSS — mobile-payment app security testing.
-- `2026-05-20` | `dpi.pay, dpi.exchange, dpi.govtech` | CAJ News Africa | SSD platform to digitise economy pays off (RTGS uptake) | **RTGS system** (launched Oct 2025) uptake review by BoSS + Finance Ministry.
+2025-01-25 | infra.connect, include.access, include.divides | RSTP | CST celebra 35 anos — expansão da rede e conectividade nas escolas | Incumbent CST's 2025 network/schools connectivity plan; flags Água Izé expansion
+2025-02-24 | infra.connect, geopol.usa | RSTP | Starlink pretende investir em STP (via encarregado de negócios dos EUA) | US-brokered Starlink entry intent; licence pending; VOA-station-closure context
+2025-04-07 | dpi.govtech, dpi.registry, dpi.id | Jornal Transparência | Governo lança sistema de emissão de documentos na Embaixada em Portugal | e-gov diaspora document issuance off SIGA registry; first embassy rollout
+2025-06-03 | dpi.pay, finance.new, tech.innovate | RSTP | BCSTP lança 1ª Sandbox para FinTechs | Central-bank fintech regulatory sandbox under National Financial Inclusion Strategy
+2025-06-18 | dpi.govtech, gov.policy | Téla Nón | Ministra da Justiça aposta na digitalização para reformar o setor público | New public-administration reform strategy with e-gov as core pillar
+2025-06-23 | gov.protect | CNPD (PT) | CNPD recebeu a ANPDP de São Tomé e Príncipe | STP DPA (ANPDP) cooperation visit; founding member of Lusophone DP Network (RLPD)
+2025-09-02 | dpi.exchange, dpi.registry, dpi.id | RSTP | STP encerra o Projeto de Reforma do Sistema Eleitoral (PReSE) | EU-funded civil-registry↔electoral-roll interoperability platform (Univ. Aveiro)
+2025-09-17 | infra.store, dpi.id, dpi.exchange, dpi.govtech, infra.connect, infra.cybersec, data.statistics | World Bank | Ajuda-Memória STP Digital (P177158), missão set-2025 | Primary project doc: data-centre TIER III/cloud costings, digital-ID roadmap, CSIRT, VCI/DEX
+2025-12-11 | infra.connect, geopol.usa | Space in Africa | Starlink Begins Service in São Tomé and Príncipe | Starlink activation (26th African market); STN pricing; ends Feb-2025 intent thread
+2026-01-22 | dpi.id, dpi.registry, include.access | Téla Nón | Campanha gratuita do BI — Ilhéu das Rolas / Porto Alegre | Mass free national-ID field campaign; Starlink-powered mobile emission in remote areas
+2026-01-25 | dpi.govtech, dpi.exchange | Téla Nón | Salto tecnológico no comércio externo — Janela Única + ASYFIVE (PNUD) | UNDP-backed single-window + ASYFIVE (ASYCUDA successor); 22-institution integration
+2026-02-06 | dpi.registry, dpi.exchange, dpi.id | Jornal Económico/Lusa | STP pronto para novo sistema de recenseamento eleitoral | PReSE pre-launch milestone; study visit to Portugal; July-2026 election framing
+2026-03-27 | infra.connect, include.divides, include.access | RSTP | CST inaugura antena em Água Izé | New CST tower (35th nationwide); closes rural connectivity gap flagged in Jan 2025
+2026-03-28 | dpi.govtech, dpi.exchange | RSTP | INIC lança plataforma Portal do Cidadão (beta) | INIC beta launch of single citizen portal (complements held cdpi.dev item, diff source)
+2026-04-15 | gov.protect, dpi.registry, dpi.exchange | Téla Nón | Recenseamento automático fiscalizado pela ANPDP | DPA oversight of civil-registry↔CEN database linkage for 2026 elections
+2026-04-15 | dpi.id, dpi.registry | RSTP | STP lança sistema de emissão de passaportes SEP 2.0 | Passport-issuance modernisation; 4-yr contract w/ Imprensa Nacional-Casa da Moeda PT
+2026-04-30 | dpi.registry, dpi.exchange, geopol.eu | Téla Nón | PReSE inaugura recenseamento automático — poupa milhões | First Lusophone-African automatic voter registration; €500k EU, ~€2m/yr saved
+2026-05-14 | infra.store, dpi.id | Téla Nón | AFAP — tender: servidores data center + DR para identidade digital | Procurement for data-centre/DR backbone of digital-ID (body = tender notice, PDF; manual clip needed)
+2026-05-27 | gov.protect, dpi.exchange, geopol.china | Macau Business/Lusa | Macau to sign data-protection pacts with STP + Cabo Verde | Pre-signing authorization; Macau joins RLPD; China–Lusophone data diplomacy
+2026-06-10 | gov.protect, dpi.exchange, geopol.china | Gov. de Macau (RAEM) | DSPDP de Macau formaliza cooperação com ANPDP de STP | Official primary: MoU signed 1 Jun; cross-border data-flow + AI-supervision cooperation
+2026-06-25 | dpi.id, dpi.registry | Magazine Santomensidade | BI disponíveis para levantamento — campanha diáspora Portugal | Diaspora arm of national "BI para Todos" campaign; consular document delivery
+2026-07-09 | dpi.pay, finance.new | The Fintech Times | STP: Fintech in Africa's Second-Smallest Nation | Dated trade-press ANALYSIS/backgrounder on STP fintech & banking landscape (attribute, not primary)

@@ -7385,3 +7385,13 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
   data-protection law; biometric payroll as DPI-by-default); foreign custody of the backbone (MTN/
   Bayobab) and gateway/data-centre (MGI) + Huawei re-engagement; the FX crisis and $23.70/GB affordability
   ceiling; connectivity as control (Jan-2025 social-media shutdown, withheld cyber-law text).
+
+## 2026-07-19 — ingest(STP) chunk 1: Digital identity & registries
+
+- **10 admitted, 0 pruned** (batch STP-2026-07-17; PT primaries). STP had no intersections; this is the first.
+- **Created:** [[sao-tome--dpi-id]] — the WB "STP Digital" (P177158, $21.8m) foundational digital ID (Ooru
+  integrator; VCI/DEX/Portal/e-Signature open-standards roadmap Jan–May 2026; mass registration; urgent
+  identity law), AFAP data-centre/DR tender, "BI para Todos" free-ID field campaign (Starlink off-grid) +
+  diaspora/embassy issuance, passport SEP 2.0, and the EU-funded PReSE **automatic electoral roll**
+  (registry↔CEN interoperability, Africa's first Lusophone automatic registration, €2m/yr saved) with ANPDP oversight.
+- **Entity created:** [[prese-sao-tome]]. (sao-tome--gov-protect is a forward-ref resolved in chunk 3.)

@@ -68,8 +68,10 @@ operationalise continental data governance at national level.
   ([[national-data-protection-agency-sao-tome]]); Malabo Convention signatory.
 - [[gov.policy]] — the 2020 **[[national-strategy-digital-governance-sao-tome]]** (nine
   thematic axes); nationalising the **[[au-data-policy-framework]]** (D4DataGOV / Team Europe).
-- [[dpi.id]] · [[dpi.registry]] — **[[sao-tome-national-digital-id]]** (MOSIP pilot from 2024)
-  on a ~98% birth-registration base.
+- [[dpi.id]] · [[dpi.registry]] — **[[sao-tome-national-digital-id]]** (MOSIP pilot from 2024, Ooru
+  integrator, VCI/DEX/Portal roadmap) on a ~98% birth-registration base; "BI para Todos" free-ID
+  campaign; passport SEP 2.0; PReSE automatic electoral roll (registry↔CEN interoperability). Full
+  case: [[sao-tome--dpi-id]].
 - [[dpi.govtech]] · [[dpi.exchange]] — Citizen Portal (2026); interoperability under Law 1/2024
   ([[sao-tome-interoperability-framework-2024]]).
 - [[infra.connect]] · [[include.access]] — ~61.5% internet penetration (2025); DataReportal baselines.
