@@ -10,6 +10,7 @@ places: [TGO]
 topics: [dpi.id, dpi.pay]
 entities: [[agence-nationale-identification-togo], [e-id-togo], [wuri], [world-bank], [mosip], [atos], [idemia], [novissi]]
 lens: [sovereignty]
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: TGO-2026-07-17
 ---

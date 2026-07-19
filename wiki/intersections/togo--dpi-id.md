@@ -4,12 +4,12 @@ title: Togo × Digital Identity & CRVS
 place: TGO
 topic: dpi.id
 places: [TGO, XWA]
-topics: [dpi.id, dpi.registry, dpi.pay, gov.legislate, gov.regional, include.access, finance.new]
+topics: [dpi.id, dpi.registry, dpi.pay, gov.legislate, gov.regional, include.access, finance.new, digital.rural]
 entities: [[anid-togo], [e-id-togo], [novissi], [inseed-togo], [wuri-programme], [mosip], [world-bank], [ipdcp-togo], [ceni-togo]]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-17
-sources: [[2023-12-21 ISR - WURI Phase 2 Seq 7 (P169594)], [2024-03-06 1 step forward, 3 steps back for West Africa's regional digital ID projects], [2025-11-19 Togo Advances Digital ID Program With New Enrollment Phase in Maritime Region], [2025-10-30 Senegal Benchmarks Togo's e-ID System for Digital Transformation], [2025-11-03 Senegal taps inspiration from Togo's digital ID experience], [2023-01-01 Case Study - G2PX in Togo, End-to-End Digital G2P (World Bank)], [2026-05-28 Why decentralized digital identity looks different in every country]]
+last_reviewed: 2026-07-19
+sources: [[2023-12-21 ISR - WURI Phase 2 Seq 7 (P169594)], [2024-03-06 1 step forward, 3 steps back for West Africa's regional digital ID projects], [2025-11-19 Togo Advances Digital ID Program With New Enrollment Phase in Maritime Region], [2025-10-30 Senegal Benchmarks Togo's e-ID System for Digital Transformation], [2025-11-03 Senegal taps inspiration from Togo's digital ID experience], [2023-01-01 Case Study - G2PX in Togo, End-to-End Digital G2P (World Bank)], [2026-05-28 Why decentralized digital identity looks different in every country], [2026-04-23-togo-6-millions-niu-fin-2025], [2026-04-27-biometricupdate-togo-6m-niu-mosip], [2025-08-12-togo-enregistrement-biometrique-agoe-nyive], [2026-01-23-identification-biometrique-zio-18-fevrier], [2026-05-11-anid-plateaux-ouest-enregistrement], [2026-07-17-togo-world-bank-vision-2040-financement]]
 ---
 
 # Togo × Digital Identity & CRVS
@@ -17,8 +17,8 @@ sources: [[2023-12-21 ISR - WURI Phase 2 Seq 7 (P169594)], [2024-03-06 1 step fo
 Togo built the **legal scaffolding before the rollout** — data protection, then a
 foundational ID law, then a cybersecurity regime — and now runs a MOSIP-based
 foundational ID, [[e-id-togo]], that neighbours come to study rather than one built
-from an imported template. The conspicuous absence is a number: **no cumulative
-enrolment count appears in any 2025 source held here.**
+from an imported template. The formerly-missing number is now on record: **over 6 million
+NIUs issued as of end-2025** (GAP-TGO-002 resolved).
 
 ## The stack
 
@@ -47,6 +47,36 @@ account of the sequence:
 
 See [[gov.legislate]], [[gov.protect]]. Source:
 [[2023-12-21 ISR - WURI Phase 2 Seq 7 (P169594)]].
+
+## The 6-million milestone (resolves GAP-TGO-002)
+
+Togo's Permanent Secretariat for Reform Monitoring reported (H2-2025 report, published Apr 2026) that
+**over 6 million citizens held a NIU as of end-December 2025** — each materialised as a **biometric card
+with a secure QR code** — enrolled through nationwide ANID campaigns across Greater Lomé and rural areas,
+under the Ministry of Public-Service Efficiency & Digital Transformation. It is the first cumulative
+figure on file, closing the earlier gap. Sources: [[2026-04-23-togo-6-millions-niu-fin-2025]],
+[[2026-04-27-biometricupdate-togo-6m-niu-mosip]].
+
+## Geographic rollout (2025-2026)
+
+Enrolment moved prefecture by prefecture off the Golfe/Greater-Lomé base:
+
+- **Agoè-Nyivé (Aug 2025)** — the phase after Golfe, INSEED + ANID leading the field. Source:
+  [[2025-08-12-togo-enregistrement-biometrique-agoe-nyive]].
+- **Zio prefecture (Jan–Feb 2026)** — mass enrolment at Tsévié and surrounds, preceded by a **grievance-
+  mechanism workshop** for transparency/trust. See [[digital.rural]]. Source:
+  [[2026-01-23-identification-biometrique-zio-18-fevrier]].
+- **Plateaux-Ouest — Kloto/Wawa (May 2026)** — sensitisation at Kpalimé/Badou ahead of enrolment; a
+  prefectural SG noted "many citizens still live without recognised proof of identity... a barrier to
+  essential services." Framed under **WURI-Togo (World Bank $72m)**. Source:
+  [[2026-05-11-anid-plateaux-ouest-enregistrement]].
+
+## Financing top-up (2026)
+
+- **WURI +$20m (Jul 2026).** Under a **$429m / CFA257.4bn** World Bank package (five agreements, aligned
+  to **Togo Vision 2040** and the 2026–2031 "Protect, Unite, Transform" roadmap), the **WURI** identity
+  project received an **additional $20m** to expand access to secure identification (under the "Unite"
+  pillar). See [[finance.new]]. Source: [[2026-07-17-togo-world-bank-vision-2040-financement]].
 
 ## Rollout — a sequence, not a coverage figure
 

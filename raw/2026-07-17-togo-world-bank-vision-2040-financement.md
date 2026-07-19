@@ -10,6 +10,7 @@ places: [TGO]
 topics: [finance.new, dpi.id, gov.regional, infra.energy]
 entities: [[world-bank], [wuri]]
 lens: []
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: TGO-2026-07-17
 # Broad World Bank financing package; digital relevance = WURI digital-ID top-up (+$20M).
