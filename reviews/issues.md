@@ -269,3 +269,42 @@ removes the item here. A short `issues.md` means you're caught up.
   hybrid can't recur. CC has **not** run that sweep: 217 files touching `[[link]]` syntax is too large and
   too link-adjacent to do as a side effect of a batch. *Decision:* (awaiting).
   (Surfaced ingest daily-2026-07-19, 2026-07-19.)
+
+- **ISSUE-019 · Should TechCabal Daily newsletter editions be captured as a running record?**
+  The sweep dropped *"TechCabal Daily — Uber takeover"* (2026-07-17) as a second-hand digest: its payload
+  is a roundup of wire coverage plus items already held separately. By the letter of Source admissibility
+  that call is right — a digest is a synthesis of others' reporting. But TC Daily is *human-edited original
+  editorial* by a publication whose standalone pieces the wiki admits freely, and it sometimes carries
+  framing and small scoops that appear nowhere else. It will recur every single weekday, so a standing rule
+  beats a per-run judgment. *Recommend:* **keep dropping it as a source**, but treat it as a **lead** — skim
+  it at sweep time for primaries it points to and stage *those*, exactly as `_leads/` handling works for AI
+  syntheses. This preserves the audit trail (no laundering of others' reporting into the base) while not
+  losing the scoops. If you'd rather have the record, the alternative is to stage TC Daily to `_leads/`
+  rather than discard it. *Decision:* (awaiting). (Surfaced sweep daily-2026-07-19b, 2026-07-19.)
+
+- **ISSUE-020 · `itweb.co.za` is on no sweep's list, and itweb.africa links into it.**
+  The itweb.africa slice surfaced *"SAPO upgrades payment platform to 'match' industry standards"*
+  (2026-07-17, ZAF, `dpi.pay`) on an itweb.africa listing page, but its canonical URL is **itweb.co.za** —
+  a domain in neither `wiki/trade-journals.csv` (so this sweep won't fetch it) nor, as far as CC can tell,
+  the digest's registry. It was dropped as out-of-domain, and any future South African story ITWeb files to
+  its `.co.za` masthead will be dropped the same way. Since the two sweeps are defined as disjoint, an
+  unlisted domain falls in the gap between them rather than being covered by default. *Recommend:* **add
+  `https://www.itweb.co.za/,ITWeb South Africa` to `wiki/trade-journals.csv`**, scoped like the other SSA
+  titles — ITWeb's editorial standard is already vetted via itweb.africa, and ZAF is core coverage. Note the
+  volume caveat: `.co.za` is a far larger general-IT masthead, so expect more out-of-scope drops per run
+  than its `.africa` sibling. *Decision:* (awaiting). (Surfaced sweep daily-2026-07-19b, 2026-07-19.)
+
+- **ISSUE-021 · No standing rule for advertorial / sponsored trade-press content.**
+  Three agents independently hit this class in one run and dropped all four items — ITWeb's sponsored
+  "Companies in the news" award PR (Paratus Namibia), an undated SPONSORED vendor opinion, a vendor
+  thought-leadership column, and Telecom Review Africa's promo for **its own** August webinar (registration
+  link + sponsorship contact). The calls were consistent and CC judges them right, but they were made ad hoc
+  against no written rule, so a later run could easily decide otherwise. Source admissibility covers
+  second-hand synthesis and AI output; it does not name paid placement or a publisher's own marketing, which
+  are first-hand and dated yet report no development. *Recommend:* add a line to Source admissibility —
+  **paid/sponsored placement, awards PR, vendor thought-leadership and a publisher's own event marketing are
+  not admissible as sources**, on the existing "reports no development" logic; but if such an item *names a
+  standing object of OSINT value* (a new data centre, an operator, a regulator), tag the entity and discard
+  the item, per *Entities: tag always, page when material*. **This would be a CLAUDE.md edit, so it needs
+  your explicit ratification** — CC has not made it. *Decision:* (awaiting).
+  (Surfaced sweep daily-2026-07-19b, 2026-07-19.)

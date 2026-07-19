@@ -107,15 +107,26 @@ notices. The cost of the loose edge is a duplicate; the cost of the tight edge i
 gap.
 
 **Expect the newest ~48h to be under-indexed.** Every domain in the 2026-07-19 run
-independently returned nothing dated within about two days of the run, with the
-site's own front page confirming (where it wasn't served stale) that the gap was
-Exa index lag rather than a publishing gap. This is precisely what the 48h overlap
-floor exists to absorb — the next run recovers those items — so it is expected
-behaviour, not a fault to chase. Where a domain's front page is live, fetching it
-as a backstop recovers in-window items the index missed (this worked on
-wearetech.africa; datacentresafrica.com, connectingafrica.com and
-telecomreviewafrica.com all serve stale or live-clock listing pages and cannot be
-relied on for it).
+independently returned nothing dated within about two days of the run. This is
+what the 48h overlap floor exists to absorb — the next run recovers those items —
+so it is expected behaviour, not a fault to chase. Where a domain's listing can be
+fetched live (cache-busted, per step 3a), it recovers in-window items the index
+missed.
+
+**But check the calendar before blaming the index.** The second run of 2026-07-19
+tested that first run's lag hypothesis directly and it did not hold: 2026-07-17 was
+a **Friday**, and five domains independently confirmed via live listings that they
+published nothing on the Saturday and Sunday. **These journals are weekday
+publishers.** A window whose tail is a weekend will look identical to an
+index-lagged window, and the two demand opposite responses — a lagged window is
+recovered by re-running, an empty weekend never is. Distinguish them by evidence,
+not assumption: a date-archive 404 whose sibling days resolve, or a live listing
+whose newest timestamp is Friday, is positive evidence of *no publication*.
+Connecting Africa's listing showed the same weekend gap on 11/12 Jul, 4/5 Jul and
+27/28 Jun. Record which of the two you actually established — the first run's
+`state.json` note asserted lag where the cause was mostly the weekend, and the
+follow-up run it invited returned nine items that were all **search-recall** misses
+from the day *already* swept, not newly-indexed weekend items.
 
 ## Procedure
 
@@ -133,11 +144,33 @@ relied on for it).
    2026-07-19 run this step was decisive: on techafricanews.com the four queries
    surfaced only 2 of ~20 in-window articles (an 85% miss, recovered by
    reconstructing article URLs from headline slugs on the listing page), and on
-   techcabal.com only 2 of 8. Treat search as the wide net and the front page as
-   the completeness check, not the other way round. Three domains serve stale or
-   live-clock listing pages and cannot be used this way — datacentresafrica.com,
-   connectingafrica.com, telecomreviewafrica.com; note the miss rather than trusting
-   their listings. *(Added 2026-07-19 from that run's evidence.)*
+   techcabal.com only 2 of 8. The second run of 2026-07-19 went further: across all
+   four productive domains, Exa search contributed **zero** staged items and all
+   nine came from listing pages. **Treat the listing as the primary instrument and
+   search as the fallback**, not the other way round.
+
+   **Cache-bust every listing fetch.** Exa serves badly stale listing caches that
+   silently hide the whole window — subtelforum's front page dated "July 14" with
+   listings at "March 28"; telecomreviewafrica attaching "1 day ago" labels to Feb
+   2026 datelines; itweb's front page dated 8 Jul; connectingafrica's bare
+   `/latest-news` missing a known 07-17 article. Appending a query string forces a
+   live crawl and fixed every one: `?nocache=YYYYMMDD` generally, `?page=1` on
+   connectingafrica.com, `?p=1` on itweb.africa. **This supersedes the earlier
+   blanket "cannot be used this way" warning on datacentresafrica.com,
+   connectingafrica.com and telecomreviewafrica.com — their listings *are* usable,
+   but only via a cache-busted URL.** Two residual cautions stand: a stale
+   *header* clock does not imply stale per-article date stamps (datacentresafrica's
+   article dates were sound under a stale header), and wearetech.africa's homepage
+   hero slot is editorially curated rather than chronological — use its aggregate
+   `/fr/fils/actualites` and EN feeds. *(Added 2026-07-19; extended 2026-07-19 run 2.)*
+
+   **Date archives are a positive-evidence completeness check** where a domain uses
+   dated URLs: on techcabal.com and techafricanews.com, `/YYYY/MM/DD/` resolves for
+   days with output and 404s for days without, so a 404 whose sibling days work is
+   evidence of *no publication*, not of a fetch problem. Conversely, **ID probing
+   does not work on telecomreviewafrica.com** — IDs above the maximum silently fall
+   back to recent articles instead of 404ing, so probing can confirm the ceiling but
+   never discover new items.
 4. **Dedup — conservative.** Drop a hit only if it is **(a)** an exact URL already
    in `seen.csv`, in `raw/` frontmatter, or in a current `new-queue/` candidate; or
    **(b)** confidently the same outlet's re-crawl of a story already held.
@@ -286,3 +319,14 @@ window <start>→<end>`.
 - 2026-07-19 — full-body fidelity made explicit: added `body_completeness` to the
   frontmatter and required the whole verbatim article (from `web_fetch_exa`, not the
   search excerpt); excerpt only for a genuine paywall/fetch-fail, flagged for clip.
+- 2026-07-19 (run 2) — second run same day, to test run 1's index-lag hypothesis.
+  Findings folded in above: **the weekend caveat** (07-17 was a Friday and five
+  domains independently confirmed no weekend publishing — a weekend tail and an
+  index-lagged tail look identical but demand opposite responses); **listing over
+  search** (search contributed zero of nine staged items; all came from front-page
+  reconciliation, so step 3a is now the primary instrument); **cache-busting**
+  (`?nocache=`, `?page=1`, `?p=1`) which forced live crawls and partially overturns
+  the standing "unreliable listing" warning on datacentresafrica.com,
+  connectingafrica.com and telecomreviewafrica.com; **date archives as positive
+  evidence** of non-publication; and **ID probing does not work** on
+  telecomreviewafrica.com. Query clusters D1/D2 unchanged.
