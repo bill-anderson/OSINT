@@ -8,6 +8,7 @@ date_precision: day
 date_source: source
 retrieved: 2026-07-17
 sweep_batch: NGA-2026-07-17
+body_completeness: excerpt
 places: [NGA]
 topics: [dpi.pay, finance.new]
 entities: ["[[sec-nigeria]]"]

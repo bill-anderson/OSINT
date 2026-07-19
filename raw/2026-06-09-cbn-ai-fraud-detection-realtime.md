@@ -12,6 +12,7 @@ entities: [[central-bank-of-nigeria]]
 lens: []
 retrieved: 2026-07-17
 sweep_batch: NGA-2026-07-17
+body_completeness: excerpt
 ---
 
 The CBN announced a policy shift to strengthen digital financial security through AI and Machine Learning, improving detection of fraudulent transactions and oversight of the electronic payments ecosystem. Part of the reform agenda under the Nigeria Payments System Vision 2028. The tools are intended to reduce the high rate of false fraud alerts common in older rule-based systems while accurately detecting complex scams such as phishing and authorized push payment fraud, transitioning from traditional rule-based monitoring to AI/ML-driven approaches.

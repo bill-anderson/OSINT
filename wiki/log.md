@@ -7027,3 +7027,14 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
   13m→19.7m; database-fragmentation critique; synthetic-ID fraud +192%; $850m NiRA digital-independence. +10
   sources; last_reviewed → 2026-07-19.
 - Hub untouched (already at ~2,600w threshold; detail routed to the intersection).
+
+## 2026-07-19 — ingest(NGA) chunk 2: Payments & fintech
+
+- **22 admitted, 20 pruned.** nigeria--dpi-pay was thin (2 bullets) — the CBN/NIBSS payments transformation was
+  largely un-synthesized, so most clips were genuinely new. Pruned same-event dups (Visa-Moniepoint ×3→1,
+  Flutterwave-tax ×3→1, cNGN ×2→1, USSD ×3→1, 193bn-vs-256bn scale dup) + minor retail (PalmPay/QR/DocFlow).
+- **Intersection expanded:** [[nigeria--dpi-pay]] +"The payments transformation (2025-2026)" section — open
+  banking (first in Africa), NPS/ISO 20022, PSV 2028, $256bn/SIIPS-mature NIP, USSD End-User Billing, CBN data
+  localisation + beneficial-owners circular, ISO/geo-tag/AML/AI-fraud/TIRMS, DEON lending, crypto
+  formalisation (ISA 2025 / NTAA-CARF / illicit-wallet freezes / 7.5% VAT), NRBVN diaspora, Onafriq-PAPSS
+  naira→Ghana, Visa-Moniepoint, Paystack. +22 sources.

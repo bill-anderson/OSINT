@@ -12,6 +12,7 @@ entities: [[central-bank-of-nigeria]]
 lens: []
 retrieved: 2026-07-17
 sweep_batch: NGA-2026-07-17
+body_completeness: excerpt
 ---
 
 Nigeria's Central Bank (CBN) approved the launch of open banking, mandating that banks begin sharing customer data with other financial institutions starting August 2025 — making Nigeria the first African country to implement open banking, four years after the CBN first released its regulatory framework. Customers can consent to allow regulated financial institutions to access data (account balances, transaction histories, spending patterns) and in some cases initiate transactions, via a standardised API. A central registry authenticates participants; a consent management framework tied to customers' BVNs keeps customers in control.

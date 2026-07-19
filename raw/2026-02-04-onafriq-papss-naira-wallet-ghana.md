@@ -12,6 +12,7 @@ entities: [[onafriq], [papss], [central-bank-of-nigeria]]
 lens: []
 retrieved: 2026-07-17
 sweep_batch: NGA-2026-07-17
+body_completeness: excerpt
 ---
 
 Onafriq Nigeria Payments Ltd (a CBN-licensed payment service provider) partnered with the Pan-African Payment and Settlement System (PAPSS) to pilot the continent's first wallet-based outbound payments from Nigeria to Ghana — fully in naira and instant, without relying on hard-currency conversion, in partnership with banks and Mobile Money Operators. The pilot, approved by the CBN, enables cross-border intra-Africa payments for individuals, merchants and traders, particularly benefiting SMEs by reducing barriers to cross-border trade.

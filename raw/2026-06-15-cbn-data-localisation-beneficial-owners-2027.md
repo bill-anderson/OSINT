@@ -12,6 +12,7 @@ entities: [[central-bank-of-nigeria]]
 lens: [sovereignty]
 retrieved: 2026-07-17
 sweep_batch: NGA-2026-07-17
+body_completeness: excerpt
 ---
 
 The Central Bank of Nigeria (CBN) ordered banks, fintechs and other payment service providers to disclose their ultimate beneficial owners, localise payments transaction data, and comply with new market-share limits designed to curb concentration risk. The measures were contained in a circular dated June 15, 2026, signed by CBN's Director, Payments System Supervision Department, Dr Rakiya Yusuf — one of the most significant CBN interventions in the payments industry in recent times, restructuring the fast-growing digital payments ecosystem. Addressed to Deposit Money Banks, Microfinance Banks, Mobile Money Operators and others.
