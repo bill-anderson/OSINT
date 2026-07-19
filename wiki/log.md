@@ -7710,3 +7710,7 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
 ## 2026-07-19 ingest(ZMB) chunk 1 — Digital ID (3 sources)
 - Extended zambia--dpi-id: digital-ID-as-way-off-US-blacklist sovereignty pitch (Chinyama from Washington; $50m of DZAP to ID; corroborates contested end-2026 target); ID4Africa Abidjan multi-sectoral delegation incl. now-operational Data Protection Commissioner + Bank of Zambia; the ECZ voter-card case for a permanent biometric NRC (op-ed).
 - Created entities office-of-the-data-protection-commissioner-zambia, electoral-commission-of-zambia. Mapped clip alias [[digital-zambia-acceleration-project]]→[[dzap]]. News Diggers clips stamped lede-only. 0 prunes. Dead-link NONE.
+
+## 2026-07-19 ingest(ZMB) chunk 2 — E-government, govtech & local government (7 sources)
+- Created zambia--dpi-govtech: SMART Zambia in-house/local-vendor whole-of-government digitisation — SMART Office e-registry (MoH/Luapula, K400m savings); PMIS property system (CoreLink, ZamPortal/ZamPay); CTMIS contract tracking (AG's Chambers); LCC first of 116 councils on ZamPortal (e-Council rollout by 30 Jun 2026); GWAN NW Province + SmartCare Pro 80% + ZNSDI GeoPortal; E-Gov Act No. 41/2021 Amendment Bill (anti-corruption "remove the human factor"). Read: local-build sovereignty govtech atop thin connectivity/civil registration.
+- Created entities zamportal, zampay, lusaka-city-council, ministry-of-health-zambia. News Diggers clips stamped lede-only. 0 prunes. Dead-link NONE.

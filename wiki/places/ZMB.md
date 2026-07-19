@@ -205,9 +205,11 @@ The third is **evidentiary**: the headline numbers disagree. Penetration spans *
 - [[dpi.pay]] · [[include.access]] · [[finance.mou]] — ZamPay, mobile money, DFS; the PAYZ State House
   partnership. · [[dpi.exchange]] — ZamConnect; the Mozambique interconnector. Full case:
   [[zambia--dpi-pay]].
-- [[dpi.govtech]] · [[gov.legislate]] — ZamPortal / eServices (≈300 of ~1,500 services); the online
-  passport system; the e-Government (Amendment) Bill. · [[infra.cybersec]] · [[gov.protect]] — Chinese
-  smart-city surveillance (Lusaka) without oversight; the 2025 cyber Acts.
+- [[dpi.govtech]] · [[gov.legislate]] — extracted: **[[zambia--dpi-govtech]]** — SZI's in-house/local-vendor
+  whole-of-government digitisation ([[zamportal]]/[[zampay]]; SMART Office e-registry; PMIS; CTMIS; LCC first
+  of 116 councils; GWAN NW Province; SmartCare Pro 80%); ZamPortal / eServices (≈300 of ~1,500 services); the
+  online passport system; the e-Government (Amendment) Bill (anti-corruption framing). · [[infra.cybersec]] ·
+  [[gov.protect]] — Chinese smart-city surveillance (Lusaka) without oversight; the 2025 cyber Acts.
 - [[geopol.usa]] · [[dpi.mis]] — AFGHS health-data pushback ([[zambia-us-health-mou]]).
   · [[geopol.china]] — [[huawei]]/[[zte]] infrastructure and surveillance supply.
 - [[infra.connect]] · [[digital.rural]] · [[gov.regional]] — fibre backbone; Chanida–Cassacatiza (fibre to
