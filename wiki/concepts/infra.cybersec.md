@@ -2,7 +2,7 @@
 type: concept
 title: Cybersecurity
 slug: infra.cybersec
-places: [MRT, ZMB, ZAF, XAF, NGA, MOZ, RWA, BEN, GHA, KEN, MUS, LBR, XEA, XSS, CMR, BFA, EGY, SDN, SEN, ZWE, DZA, UGA, DJI, CPV, SOM, AGO, MLI, NAM]
+places: [MRT, ZMB, ZAF, XAF, NGA, MOZ, RWA, BEN, GHA, KEN, MUS, LBR, XEA, XSS, CMR, BFA, EGY, SDN, SEN, ZWE, DZA, UGA, DJI, CPV, SOM, AGO, MLI, NAM, NER]
 entities: [[dzap], [research-ict-africa], [smart-africa], [afnic], [nimc], [mozambique-cyber-security-law], [realtyme], [smart-africa-realtyme-partnership], [sadx], [sa-digital-id-regulations], [popia], [world-bank], [mosip], [id4africa], [eac], [antic-cameroon], [patnuc], [bf-ministry-digital-transition], [alliance-of-sahel-states], [anssi-mali], [agetic], [intic-mozambique], [cybastion], [securoute], [asin-benin], [zte], [hikvision], [huawei], [bio-key-international], [runlevel], [simo-mozambique], [kenya-cyber-resilience-project], [expertise-france], [estdev], [european-union], [nira-nigeria], [nitda]]
 lens: [sovereignty]
 status: active
@@ -17,6 +17,15 @@ how "cyber threat" is defined and acted on.
 
 ## Key material
 
+- **[[NER]] Niger — building sovereign cyber-infrastructure from scratch (2025-2026).** The junta is standing up
+  a full **critical-infrastructure** stack framed as digital sovereignty: a national **PKI**, a **National
+  Cybersecurity Centre (CNAC)** with SOC + CERT, a **Forensic Lab**, **Tier III government data centres**, an IXP
+  and the Trans-Sahara fibre backbone — with a **National Cybersecurity Strategy** being elaborated (AfricaCERT
+  Handshake, Niamey) and **[[ansi-niger|ANSI]]** pitching an **AES regional cyber-defence alliance**
+  (infrastructure / competence / regional-alliance). A ground-up build in a Sahel AES state, distinct from the
+  breach-response postures elsewhere. See **[[niger--infra-cybersec]]**, [[gov.regional]], [[infra.store]].
+  Sources: [[2025-07-24-national-committee-critical-digital-infrastructure-lesahel]],
+  [[2025-07-25-africacert-handshake-symposium-niamey-lesahel]].
 - **[[NAM]] Namibia — digital build outrunning defences (2025-2026).** A **Tier-4 ("evolving")** posture
   (37.93/100 ITU 2024; NDP6 readiness 37 vs a 65 target) meets a fast-rising threat curve: **[[nam-csirt]]**
   logged **1.7m attacks (+37%)** and **2.23m vulnerabilities** in 2025, and a run of major ransomware breaches
@@ -224,7 +233,7 @@ how "cyber threat" is defined and acted on.
 
 ## Places
 
-[[AGO]] · [[ZMB]] · [[ZAF]] · [[XAF]] · [[NGA]] · [[MOZ]] · [[RWA]] · [[BEN]] · [[GHA]] · [[KEN]] · [[MUS]] · [[LBR]] · [[XEA]] · [[XSS]] · [[CMR]] · [[BFA]] · [[EGY]] · [[SDN]] · [[SEN]] · [[ZWE]] · [[DZA]] · [[UGA]] · [[SOM]] · [[GNB]] · [[MLI]] · [[NAM]]
+[[AGO]] · [[ZMB]] · [[ZAF]] · [[XAF]] · [[NGA]] · [[MOZ]] · [[RWA]] · [[BEN]] · [[GHA]] · [[KEN]] · [[MUS]] · [[LBR]] · [[XEA]] · [[XSS]] · [[CMR]] · [[BFA]] · [[EGY]] · [[SDN]] · [[SEN]] · [[ZWE]] · [[DZA]] · [[UGA]] · [[SOM]] · [[GNB]] · [[MLI]] · [[NAM]] · [[NER]]
 
 ## Sources
 

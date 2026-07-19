@@ -6937,3 +6937,25 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
 - **entities-index:** +nita-niger, +bioenable.
 - Sources: 2026-07-16 e-passport (ActuNiger), 2026-05-07 CNIB mass enrolment (Le Sahel), 2026-04-27 NITA kiosks
   (ActuNiger), 2025-05-01 WURI birth-cert Filingué (biometricupdate), 2025-02-21 BioEnable MOSIP (biometricupdate).
+
+## 2026-07-19 — ingest(NER) chunk 2/5: Data protection, cyber-institutions, fibre & national DC
+
+- **6 sources admitted, 0 leads, 0 discards.**
+- **Current-law correction:** Niger's DP regime re-dated from Loi 2017-28/2019-71 to **Loi 2022-59 (16 Dec
+  2022)** (+ Loi 2023-31; Malabo ratified 23 May 2022), per the HAPDP president — supersession, not
+  contradiction; primary DPA source. Updated [[niger-data-protection-law]] (retitled), [[hapdp-niger]], and the
+  hub.
+- **Intersection created:** [[niger--infra-cybersec]] — the junta's sovereign critical-infrastructure build-out:
+  critical-infra committee blueprint (PKI, CNAC SOC+CERT, Forensic Lab, Tier III gov DCs), National Cybersecurity
+  Strategy (AfricaCERT / ANSI three-pillar / AES cyber-alliance), Trans-Sahara fibre 1,031km + Tier III DC
+  (AfDB), national Data Center (Raliou), ARCEP monitoring platform.
+- **Entities created (2):** [[arcep-niger]] (regulator), [[ansi-niger]] (national digital agency).
+- **Entities updated:** [[niger-data-protection-law]] (Loi 2022-59), [[hapdp-niger]] (Loi 2022-59/Malabo),
+  [[trans-saharan-fibre-backbone]] (+Niger DTS reception; +NER place).
+- **NER hub:** DP-law entry corrected to Loi 2022-59; +sovereign-infra Recent-developments entry; gov.protect +
+  infra Active-topics lines updated; +ansi/arcep/trans-sahara/afdb + intersection to Entities.
+- **Concept:** [[infra.cybersec]] +NER (was absent) +sovereign-cyber-infra bullet (+places/footer).
+- **entities-index:** +arcep-niger, +ansi-niger.
+- Sources: 2025-07-28 HAPDP interview (Le Sahel), 2025-07-24 critical-infra committee (Le Sahel), 2025-03-04
+  Raliou DC interview (Le Sahel), 2025-07-25 AfricaCERT (Le Sahel), 2025-11-17 Trans-Sahara fibre + Tier III DC
+  (Le Sahel), 2026-01-29 ARCEP monitoring (Le Sahel).

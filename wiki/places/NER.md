@@ -50,6 +50,19 @@ all against very low connectivity (**internet penetration ~23% (2025)**).
   [[2025-06-30 Niger moves to modernize ID system with biometric e-ID and e-Passport]],
   [[2025-06-30 Signature of two MoUs between Niger and Libyan firm Al Itissal Al Jadeed - toward digitising passports and the national ID card]].
   See [[dpi.id]], [[gov.legislate]].
+- **2025-11-14** — **Sovereign digital infrastructure build-out.** Niger is standing up state infrastructure "from
+  the ground up": a **critical-infrastructure committee** (Jul 2025) blueprinting a national **PKI**, a **National
+  Cybersecurity Centre (CNAC: SOC+CERT)**, government **Tier III data centres**, a **Forensic Lab** and the fibre
+  backbone; a **National Cybersecurity Strategy** being elaborated (AfricaCERT Handshake, PM Zeine; **[[ansi-niger|
+  ANSI]]** three-pillar framing); provisional acceptance of **1,031 km of Trans-Sahara fibre + a Tier III Niamey
+  data centre** (AfDB ~€43m); a national Data Center (Min. Raliou); and an **[[arcep-niger|ARCEP]]** continuous
+  network-monitoring platform. Full picture: **[[niger--infra-cybersec]]**. Sources:
+  [[2025-11-17-trans-sahara-fibre-backbone-1031km-tier3-datacentre-lesahel]],
+  [[2025-07-24-national-committee-critical-digital-infrastructure-lesahel]],
+  [[2025-07-25-africacert-handshake-symposium-niamey-lesahel]],
+  [[2025-03-04-minister-raliou-national-data-center-interview-lesahel]],
+  [[2026-01-29-arcep-continuous-mobile-network-monitoring-platform-lesahel]]. See [[infra.cybersec]],
+  [[infra.store]], [[infra.connect]].
 - **2025-08-19** — **Niamey Internet Exchange Point inaugurated.** Niger inaugurated a **[[niger-ixp|national
   IXP]]** in Niamey, letting domestic networks exchange traffic locally (lower latency/cost, more data kept
   in-country) — modest but strategic in a market at **~23% internet penetration (ITU 2025)**. Source:
@@ -69,10 +82,12 @@ all against very low connectivity (**internet penetration ~23% (2025)**).
   awkwardly alongside Niger's ECOWAS exit and AES pivot. Source:
   [[2025-08-11 Stakeholders validate strategy on digital ID interoperability in West Africa (WURI)]]. See
   [[dpi.exchange]], [[gov.regional]].
-- **2024-09** — **Data-protection authority (HAPDP).** Niger's **[[hapdp-niger|High Authority for the
-  Protection of Personal Data]]** oversees personal-data processing under **[[niger-data-protection-law|Loi
-  2017-28]]** (amended by Loi 2019-71) — the privacy backstop for a fast-moving biometric-ID programme.
-  Source: [[2024-09-20 The High Authority for the Protection of Personal Data (HAPDP)]]. See [[gov.protect]],
+- **2025-07-28** — **Data-protection law re-dated: Loi 2022-59 is now the regime.** Per HAPDP president **Iro
+  Adamou**, Niger's **[[niger-data-protection-law|Loi 2017-28 (amended 2019-71)]]** was **repealed and replaced
+  by Loi n° 2022-59 (16 Dec 2022)** (+ Loi 2023-31), backed by **Malabo Convention ratification (23 May 2022)** —
+  the privacy backstop for the fast-moving biometric-ID programme. *(Corrects the wiki's prior 2017-28 framing.)*
+  Sources: [[2025-07-28-hapdp-president-interview-loi-2022-59-lesahel]],
+  [[2024-09-20 The High Authority for the Protection of Personal Data (HAPDP)]]. See [[gov.protect]],
   [[gov.legislate]].
 - **2019-11** *(baseline)* — **Digital-administration reform support (Niger 2.0).** Expertise France / AFD
   backed a project to support Niger's national IT agency (ANSI) in reforming digital administration under the
@@ -94,10 +109,12 @@ all against very low connectivity (**internet penetration ~23% (2025)**).
   **[[niger-national-eid|AES biometric ID + e-passport]]** (mass enrolment Apr 2026, 4,500 FCFA;
   **[[al-itissal-al-jadeed]]** / **[[nita-niger|NITA]]** kiosks) and the World-Bank **[[wuri-programme|WURI]] /
   [[mosip|MOSIP]]** open-source path (**[[bioenable]]** pilot; Filingué birth-certs) — **[[niger--dpi-id]]**.
-- [[gov.protect]] · [[gov.legislate]] — **[[hapdp-niger|HAPDP]]** and **[[niger-data-protection-law|Loi
-  2017-28/2019-71]]**.
-- [[infra.connect]] · [[infra.store]] · [[infra.cybersec]] — Niamey **[[niger-ixp|IXP]]**; planned national
-  data-centre and cybersecurity build-out (AES digital-sovereignty complement).
+- [[gov.protect]] · [[gov.legislate]] — **[[hapdp-niger|HAPDP]]** under **[[niger-data-protection-law|Loi
+  2022-59]]** (16 Dec 2022, repealing Loi 2017-28/2019-71; Malabo ratified 23 May 2022).
+- [[infra.cybersec]] · [[infra.store]] · [[infra.connect]] — **sovereign critical-infrastructure** build-out:
+  CNAC (SOC+CERT), PKI, Forensic Lab, Tier III data centres, National Cybersecurity Strategy (**[[ansi-niger|
+  ANSI]]**), **[[trans-saharan-fibre-backbone|Trans-Sahara fibre]]**, Niamey **[[niger-ixp|IXP]]**,
+  **[[arcep-niger|ARCEP]]** monitoring — **[[niger--infra-cybersec]]**.
 - [[dpi.govtech]] · [[dpi.pay]] — "Niger 2.0" digital-administration reform (ANSI); STAR-UEMOA regional
   settlement.
 
@@ -105,7 +122,8 @@ all against very low connectivity (**internet penetration ~23% (2025)**).
 
 - [[niger-national-eid]] · [[cib-aes]] · [[al-itissal-al-jadeed]] · [[hapdp-niger]] · [[niger-data-protection-law]] · [[niger-ixp]] · [[nita-niger]]
 - [[alliance-of-sahel-states]] · [[wuri-programme]] · [[mosip]] · [[bioenable]] · [[world-bank]]
-- Intersections: [[niger--dpi-id]]
+- [[ansi-niger]] · [[arcep-niger]] · [[trans-saharan-fibre-backbone]] · [[african-development-bank]]
+- Intersections: [[niger--dpi-id]] · [[niger--infra-cybersec]]
 - Mentioned, not hubbed: President Abdourahamane Tiani (first enrollee); ANSI (national IT agency); INS Niger
   (statistics office); BCEAO / STAR-UEMOA; Ministry of Interior, Security and Territorial Administration.
 - Parent region: [[XWA]] · continental: [[XAF]].

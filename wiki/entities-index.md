@@ -802,6 +802,8 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 | Data Protection Office (Mauritius) | MUS | gov.protect, gov.legislate, dpi.id | [[data-protection-office-mauritius]] |
 | Bank of Mauritius (BoM) | MUS | dpi.pay, gov.regional, geopol.india | [[bank-of-mauritius]] |
 | Nam-CSIRT (Namibia Cyber Security Incident Response Team) | NAM | infra.cybersec, data.statistics | [[nam-csirt]] |
+| ARCEP Niger (electronic-communications regulator) | NER | infra.connect, gov.legislate, gov.standards | [[arcep-niger]] |
+| ANSI (Agence Nationale pour la Société de l'Information) — Niger | NER | dpi.govtech, infra.cybersec, tech.innovate | [[ansi-niger]] |
 
 ## Initiatives / programmes
 

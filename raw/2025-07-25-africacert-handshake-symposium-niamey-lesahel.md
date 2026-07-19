@@ -12,6 +12,7 @@ entities: [[africacert], [ansi-niger], [alliance-of-sahel-states]]
 lens: [sovereignty]
 retrieved: 2026-07-17
 sweep_batch: NER-2026-07-17
+body_completeness: excerpt
 ---
 
 # 13è édition du symposium AfricaCERT Handshake 2025 : Le Niger au cœur de la stratégie numérique africaine

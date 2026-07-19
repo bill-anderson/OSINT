@@ -12,6 +12,7 @@ entities: [[niger-ixp], [hapdp-niger]]
 lens: [sovereignty]
 retrieved: 2026-07-17
 sweep_batch: NER-2026-07-17
+body_completeness: excerpt
 ---
 
 # Entretien accordé à la RTN par le ministre Sidi Mohamed Raliou : « Nous sommes en train de construire un Data center (…) au plus tard le 30 septembre, nous allons réceptionner cet outil où toutes les données du Niger seront stockées et sécurisées »

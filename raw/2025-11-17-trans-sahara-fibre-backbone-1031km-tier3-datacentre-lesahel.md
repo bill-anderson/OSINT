@@ -12,6 +12,7 @@ entities: [[trans-saharan-fibre-backbone], [niger-telecoms], [african-developmen
 lens: [sovereignty]
 retrieved: 2026-07-17
 sweep_batch: NER-2026-07-17
+body_completeness: excerpt
 ---
 
 # Projet de la Dorsale Transsaharienne à Fibre Optique : un levier essentiel pour le désenclavement numérique du Niger

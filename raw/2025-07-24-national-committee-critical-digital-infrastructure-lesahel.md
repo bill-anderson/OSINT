@@ -12,6 +12,7 @@ entities: [[ansi-niger], [niger-ixp]]
 lens: [sovereignty]
 retrieved: 2026-07-17
 sweep_batch: NER-2026-07-17
+body_completeness: excerpt
 ---
 
 # Installation d'un comité national chargé de l'opérationnalisation et du déploiement des infrastructures numériques critiques

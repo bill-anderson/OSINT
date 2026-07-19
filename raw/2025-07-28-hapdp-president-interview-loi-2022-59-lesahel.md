@@ -12,6 +12,7 @@ entities: [[hapdp-niger], [niger-data-protection-law], [malabo-convention]]
 lens: [sovereignty]
 retrieved: 2026-07-17
 sweep_batch: NER-2026-07-17
+body_completeness: excerpt
 ---
 
 # Entretien avec le président de la HAPDP (M. Iro Adamou)

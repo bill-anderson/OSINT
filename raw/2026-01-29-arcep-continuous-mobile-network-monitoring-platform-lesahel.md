@@ -12,6 +12,7 @@ entities: [[arcep-niger]]
 lens: [sovereignty]
 retrieved: 2026-07-17
 sweep_batch: NER-2026-07-17
+body_completeness: excerpt
 ---
 
 # Régulation des télécommunications : L'ARCEP inaugure une plateforme de contrôle continu des réseaux mobiles

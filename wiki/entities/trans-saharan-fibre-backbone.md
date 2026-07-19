@@ -2,11 +2,11 @@
 type: entity
 entity_type: initiative
 title: Trans-Saharan Fiber Optic Backbone (Dorsale Transsaharienne, DTS)
-places: [TCD]
+places: [TCD, NER]
 topics: [infra.connect, gov.regional, finance.new]
 status: active
-last_reviewed: 2026-07-17
-sources: [[2026-02-13 Chad Plans 50 Telecom Sites, 50 km of Fiber in N'Djamena], [2026-01-06 Chad invests 175m in national data center and networks]]
+last_reviewed: 2026-07-19
+sources: [[2026-02-13 Chad Plans 50 Telecom Sites, 50 km of Fiber in N'Djamena], [2026-01-06 Chad invests 175m in national data center and networks], [2025-11-17-trans-sahara-fibre-backbone-1031km-tier3-datacentre-lesahel]]
 ---
 
 # Trans-Saharan Fiber Optic Backbone (Dorsale Transsaharienne, DTS)
@@ -26,6 +26,13 @@ historic, costly dependence on Cameroon. Reported **60% complete as of 2026-02-1
 
 ## Activity in this wiki
 
+- **[[NER]] Niger component — 1,031 km received + a Tier III data centre (2025-11).** Niger took **provisional
+  acceptance** (14 Nov 2025, at Niger Telecoms) of **1,031 km of fibre on five cross-border axes** (to Algeria,
+  Chad, Nigeria, Benin and Burkina Faso) plus an **88-km urban loop to the future national data centre**, under
+  the **AfDB-financed** DTS/FO (~**30bn FCFA / €43m**), alongside a **Tier III data centre in Niamey** billed as
+  guaranteeing "Niger's digital sovereignty." Fibre laid by the LORYNE grouping; framed within Tiani's
+  "Programme pour la Refondation." See [[niger--infra-cybersec]], [[infra.store]], [[african-development-bank]].
+  Source: [[2025-11-17-trans-sahara-fibre-backbone-1031km-tier3-datacentre-lesahel]].
 - **A possible EU-funded relative — not equated here.** A **2023** [[world-bank]] document
   detailing Chad's wider digital-transformation plans referenced a **"Trans-Saharan Corridor
   Project, funded by the EU"**, alongside an Internet Exchange Point and [[pmice]]. **No source
