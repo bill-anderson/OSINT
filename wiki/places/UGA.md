@@ -158,10 +158,13 @@ days, two days before a presidential election — reminding every layer above it
   six interoperability layers) and the **[[uganda-digital-government-strategy]]** v1.1 (26 Feb 2022, a
   formal addendum to the GEA/e-GIF engagement), under renewal with the [[e-governance-academy]].
   Prototype Showcase and National Innovator Registry push local build.
-- [[gov.legislate]] · [[gov.protect]] — the **ISER judgment (10 June 2025)** (→ [[uganda--dpi-id]]);
-  DPI deployed with weak safeguards (World Bank, ID4Africa 2026); selective DPPA enforcement around
-  the 2026 polls ([[personal-data-protection-office-uganda]]); no central-bank guidance on AI in
-  lending.
+- [[gov.legislate]] · [[gov.protect]] — extracted: **[[uganda--gov-protect]]** — the **PDPO**'s assertive
+  Big-Tech enforcement (Ssekamwa v **Google** 2025; AdLegal v **WhatsApp/Meta** 2026 — extraterritorial
+  reach, cross-border adequacy, "material harm" incl. dignity); first local prosecution (Vuka Africa);
+  "Beera Ku Guard" awareness campaign; the CIPESA digital-rights dialogue. Set against the **ISER judgment
+  (10 June 2025)** (→ [[uganda--dpi-id]]), DPI deployed with weak safeguards (World Bank, ID4Africa 2026),
+  and selective DPPA enforcement around the 2026 polls — robust vs the private sector, permissive of the
+  state. Also: no central-bank guidance on AI in lending.
 - [[tech.ai]] · [[infra.store]] · [[infra.capacity]] — the AI story extracted: **[[uganda--tech-ai]]**
   (first national AI policy/strategy + AI Secretariat; the **National AI Research Cloud** at Makerere/RENU
   as data-sovereignty compute; inclusive AI curriculum; China/UN-Foundation skills MoU; Musenero's "1% of

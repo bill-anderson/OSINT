@@ -8,8 +8,9 @@ date_precision: day
 date_source: source
 places: [UGA]
 topics: [gov.protect, gov.legislate]
-entities: [[personal-data-protection-office-uganda], [meta], [whatsapp]]
+entities: [[personal-data-protection-office-uganda], [meta], [meta]]
 lens: [sovereignty]
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: UGA-2026-07-17
 ---

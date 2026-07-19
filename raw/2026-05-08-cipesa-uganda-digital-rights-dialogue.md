@@ -10,6 +10,7 @@ places: [UGA]
 topics: [gov.protect, tech.ai]
 entities: [[cipesa]]
 lens: [sovereignty]
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: UGA-2026-07-17
 ---

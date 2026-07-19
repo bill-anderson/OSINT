@@ -8,8 +8,9 @@ date_precision: day
 date_source: source
 places: [UGA]
 topics: [gov.protect, infra.cybersec]
-entities: [[personal-data-protection-office-uganda], [nita-u]]
+entities: [[personal-data-protection-office-uganda], [nita-uganda]]
 lens: []
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: UGA-2026-07-17
 ---

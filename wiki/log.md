@@ -7642,3 +7642,7 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
 ## 2026-07-19 ingest(UGA) chunk 5 — Artificial Intelligence (7 sources)
 - Created uganda--tech-ai: policy machinery (Kigali signal; first national AI policy NDP4; AI Secretariat/strategy engagement; CIPESA rights-by-design counterweight cross-ref); National AI Research Cloud at Makerere/RENU (data-sovereignty compute vs Amazon/Google); inclusive AI curriculum + regional innovation hubs by 2027; UN Health Foundation + China smart-agri AI MoU (geopol.china); Musenero "Africa's industrial revolution" / "1% of AI wealth" consumers-vs-contributors framing.
 - Created entity renu. Mapped clip alias [[nita-u]] → [[nita-uganda]]. 0 prunes. Dead-link NONE.
+
+## 2026-07-19 ingest(UGA) chunk 6 — Data protection & digital rights (4 sources)
+- Created uganda--gov-protect: PDPO's assertive Big-Tech enforcement doctrine (Ssekamwa v Google 2025 — no registration + cross-border without safeguards, extraterritorial reach; AdLegal v WhatsApp/Meta 2026 — data minimisation breach, Meta joined, equivalent-protection, "material harm" incl. dignity); first local prosecution (Vuka Africa, DPPA ss.5/35/36); "Beera Ku Guard" awareness campaign (only 13.6% grasp DP; cybercrime +93.5% 2024); CIPESA digital-rights dialogue. Read: robust vs private sector, permissive of the state (selective enforcement vs hub's 2026-polls record + NIRA breach).
+- Mapped clip aliases [[nita-u]]→[[nita-uganda]], [[whatsapp]]→[[meta]]. 0 prunes. Dead-link NONE.
