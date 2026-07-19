@@ -6,7 +6,7 @@ parent: XNA
 place_kind: country
 topics: [dpi.id, dpi.pay, dpi.exchange, dpi.govtech, dpi.registry, gov.protect, gov.legislate, gov.standards, gov.policy, infra.connect, infra.capacity, infra.store, infra.cybersec, include.access, include.divides, tech.ai, tech.innovate, tech.industry, capacity.literacy, digital.rural, data.open, data.statistics, geopol.eu, geopol.china, finance.new]
 status: active
-last_reviewed: 2026-07-17
+last_reviewed: 2026-07-19
 ---
 
 # Tunisia (TUN)
@@ -163,6 +163,10 @@ thing to watch.
   61,000 km fibre backbone; the [[medusa-submarine-cable]] Bizerte landing (22 Tbps) positioning Tunisia as
   a Mediterranean hub — though **who owns the Bizerte landing is disputed** (TT vs Orange, CONTRA-TUN-001).
   Full case: [[tunisia--infra-connect]].
+- [[infra.store]] · [[infra.energy]] — data centres a **TIA investment priority** (Oct 2025; DP-law reform,
+  renewables, cloud SEZ recommended); flagship **20 MW solar-AI DC at Bizerte** ([[solecrypt]] × Schneider,
+  MoU Feb 2026); flagged an **emerging North-African market** (Arizton, 2026). Prospective, not yet
+  operational. Full case: [[tunisia--infra-store]].
 - [[tech.ai]] · [[tech.innovate]] — an **AI strategy scheduled for 2025**; **[[startup-tunisia]]**,
   under which **over 40 firms** expanded into Europe, MENA and Sub-Saharan Africa; fintech raised
   **US$150 million**.

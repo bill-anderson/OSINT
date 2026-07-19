@@ -7559,3 +7559,15 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
 - Created wiki/intersections/tunisia--infra-connect.md (status needs-review); created entities orange-tunisia, ooredoo-tunisia, instance-nationale-des-telecommunications-tunisia (INT); updated medusa-submarine-cable (+Nov-2025 landing, +ViaTunisia, +ownership flag).
 - CONTRADICTION: filed CONTRA-TUN-001 (Bizerte Medusa landing ownership — Tunisie Telecom vs Orange Tunisia). needs-review set on tunisia--infra-connect + medusa entity; contradiction file with paste-ready brief (4 held URLs).
 - Wired TUN hub infra.connect bullet → Full case. Dead-link: only forward-ref tunisia--infra-store (next chunk).
+
+## 2026-07-19 ingest(TUN) chunk 6/6 — Data centres & cloud
+- Admitted 3 sources: TIA data-centre strategy (2025-10-15), SoleCrypt–Schneider 20 MW solar-AI DC Bizerte (2026-02-06), Arizton Africa DC market reference (2026-07-05). 0 prunes (a same-event African Manager duplicate had been dropped at sweep).
+- Created wiki/intersections/tunisia--infra-store.md (resolves chunk-5 forward-ref); created entities solecrypt, solecrypt-schneider-electric-mou (deal), arizton-advisory (resource, cite-not-absorb).
+- Wired TUN hub: added infra.store bullet → Full case; bumped hub last_reviewed 2026-07-19. Dead-link NONE.
+
+## 2026-07-19 ingest(TUN) — batch summary
+- 22 clips drained from new/ (new/ = 0): 21 admitted to raw/, 1 (birth-declaration) admitted headline-only. 0 discards, 0 leads, 0 prunes.
+- 6 intersections created: tunisia--dpi-pay, --dpi-id, --dpi-govtech, --gov-protect, --infra-connect, --infra-store.
+- Entities created: smt-tunisia, national-business-register-tunisia, tunisia-investment-authority, instance-nationale-protection-donnees-personnelles-tunisia (INPDP), assembly-of-peoples-representatives-tunisia (ARP), orange-tunisia, ooredoo-tunisia, instance-nationale-des-telecommunications-tunisia (INT), solecrypt, solecrypt-schneider-electric-mou, arizton-advisory. Updated: ministry-of-health-tunisia, ministry-of-communication-technologies-tunisia, uxp-tunisia, medusa-submarine-cable.
+- 1 contradiction filed: CONTRA-TUN-001 (Medusa Bizerte landing ownership). tunisia--infra-connect status needs-review.
+- Theme: "capability ahead of safeguards" — mandatory Mobile ID + NHI + blanket e-invoicing arriving ahead of the still-in-committee 123-article DP law; strong sovereign connectivity/DC ambition (Medusa, solar-AI DC) with one ownership provenance gap.

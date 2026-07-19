@@ -10,6 +10,7 @@ places: [TUN]
 topics: [infra.store, infra.energy, tech.ai, finance.mou]
 entities: [[solecrypt], [schneider-electric], [solecrypt-schneider-electric-mou]]
 lens: []
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: TUN-2026-07-17
 ---
