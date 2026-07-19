@@ -183,6 +183,7 @@ the payments, AML, civil-registry and e-ID-rollout threads.
 - [[dpi.govtech]] · [[dpi.exchange]] — [[services-publics-togo]]; [[gest-exo]] ↔ [[sydonia]]; ministry-by-ministry digitisation (MAE), CENTIPOS infrastructure-mapping single-window, ATD SME toolbox, archives/GED. Full case: [[togo--dpi-govtech]].
 - [[gov.protect]] · [[gov.legislate]] — [[ipdcp-togo]] (data protection law of Sept 2019; *neither
   the law's text nor the IPDCP's establishing act is held* — GAP-TGO-001); [[togo-aml-law-2025]].
+  IPDCP now operational (awareness campaigns, 3,000 youth trained, first 32 corporate DPOs); ANCy/CERT.tg + cyber-strategy 2024-2028; a security-linked DPA (colonel-led, HAAC monitoring-room access). Full case: [[togo--gov-protect]].
 - [[dpi.mis]] — [[dhis2]] / [[stateduc]] education MIS via [[hisp-wca]].
 - [[infra.store]] · [[tech.ai]] — [[sin-togo]] / [[lome-data-centre]] sovereign cloud.
 - [[infra.connect]] · [[include.divides]] — **3.56m internet users, 37.0% penetration (Jan 2025)**,

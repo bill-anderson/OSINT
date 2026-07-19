@@ -10,6 +10,7 @@ places: [TGO]
 topics: [gov.protect, infra.cybersec, capacity.literacy]
 entities: [[ipdcp-togo], [agence-nationale-cybersecurite-togo]]
 lens: [sovereignty]
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: TGO-2026-07-17
 ---
