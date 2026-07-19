@@ -10,6 +10,7 @@ places: [SWZ]
 topics: [infra.connect, include.divides, data.satellite]
 entities: [[starlink], [government-of-eswatini], [mtn-eswatini], [eswatini-mobile]]
 lens: []
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: SWZ-2026-07-17
 ---

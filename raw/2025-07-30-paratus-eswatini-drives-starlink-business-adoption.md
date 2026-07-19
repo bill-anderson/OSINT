@@ -10,6 +10,7 @@ places: [SWZ]
 topics: [infra.connect, include.divides]
 entities: [[paratus-eswatini], [paratus-group], [starlink], [real-image-internet]]
 lens: []
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: SWZ-2026-07-17
 ---

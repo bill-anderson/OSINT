@@ -10,6 +10,7 @@ places: [SWZ]
 topics: [gov.legislate, infra.connect, capacity.training, dpi.govtech, tech.ai]
 entities: [[ministry-of-ict-eswatini], [world-bank]]
 lens: []
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: SWZ-2026-07-17
 ---

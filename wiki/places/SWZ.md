@@ -170,6 +170,7 @@ The rails exist; usage lags them.
   *A World Bank feature gives ~**77% rural** as of 2026-02-23 — ~2.1pp apart, across different
   dates and near-certainly different definitions (UN/World-Bank urban-agglomeration vs Kepios).
   Both recorded dated rather than reconciled.*
+  Fibre rollout (47→72 Gbps), Mbabane smart city (5G/59 AI cameras), Paratus Starlink JV + government Starlink gateway (landlocked resilience). Full case: [[eswatini--infra-connect]].
 - [[infra.store]] — [[eswatini-national-data-centre]], operated by [[rstp]].
 - [[infra.cybersec]] — Cybersecurity Agency **not yet operationalised** (2025-07-31).
 - [[gov.policy]] — [[eswatini-digitalisation-strategy-2024-2028]]; a national **data policy** was

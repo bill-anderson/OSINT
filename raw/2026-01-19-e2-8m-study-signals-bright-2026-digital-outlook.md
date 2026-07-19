@@ -10,6 +10,7 @@ places: [SWZ]
 topics: [data.statistics, gov.policy, infra.connect]
 entities: [[esccom], [ministry-of-ict-eswatini]]
 lens: []
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: SWZ-2026-07-17
 ---

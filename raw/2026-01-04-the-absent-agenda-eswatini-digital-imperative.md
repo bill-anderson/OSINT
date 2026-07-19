@@ -10,6 +10,7 @@ places: [SWZ]
 topics: [gov.policy, infra.connect, finance.new]
 entities: [[digital-eswatini-project], [world-bank], [eptc]]
 lens: []
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: SWZ-2026-07-17
 ---

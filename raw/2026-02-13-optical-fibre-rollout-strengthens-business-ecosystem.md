@@ -10,6 +10,7 @@ places: [SWZ]
 topics: [infra.connect, gov.policy, dpi.govtech]
 entities: [[ministry-of-ict-eswatini], [rstp], [business-eswatini]]
 lens: []
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: SWZ-2026-07-17
 ---
