@@ -6569,3 +6569,22 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
 - **entities-index:** +4 rows.
 - Sources admitted: 2025-05-26 blueprint launch (lexpress), 2026-02-01 NDS (lexpress), 2026-06-02
   e-social-security (wearetech).
+
+## 2026-07-19 — ingest(MUS) chunk 2/6: Data protection / privacy / surveillance
+
+- **5 sources admitted, 0 leads, 0 discards.**
+- **Intersection created:** [[mauritius--gov-protect]] — pairs the mature regime (DPA 2017; ~3,000
+  actions/yr; DPO Regulations 2026; **2026 EU adequacy bid / full GDPR alignment**; FOI Bill) against the
+  **state-surveillance counter-current** (VERINT/PertSol 2017/2022, no judicial oversight, post-2019 data
+  wipe; Moustass Leaks; e-evidence & deepfakes). Hub gov.protect section now points to it.
+- **Entity created:** [[verint]] (company — Israeli interception vendor, PertSol).
+- **Entities updated:** [[data-protection-office-mauritius]] (+EU adequacy, legal lineage 2004/2009/2017,
+  AFAPDP presidency, DPO Regs 2026; +2 sources); [[ministry-ict-mauritius]] (+2025 "citizen data hub" /
+  EGDI-slip reform runway; +1 source).
+- **MUS hub:** +3 Recent-developments entries (Moustass/surveillance 2026-07-13; DPO Regs 2026-06-12; EU
+  adequacy 2026-05-27); +geopol.eu, +infra.cybersec topics; gov.protect active-topics line → intersection.
+- **Concepts:** [[gov.protect]] +MUS EU-adequacy/regime-vs-surveillance bullet; [[geopol.eu]] +MUS +adequacy
+  bullet.
+- **entities-index:** +verint (Companies).
+- Sources: 2025-04-09 ICT DP strategy (lexpress), 2026-06-12 DPO Regs (lexpress), 2026-05-27 EU adequacy
+  (biometricupdate), 2025-02-07 mass surveillance (mauritiustimes), 2026-07-13 Moustass leaks (mauritiustimes).

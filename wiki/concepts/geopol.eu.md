@@ -2,11 +2,11 @@
 type: concept
 title: EU activities
 slug: geopol.eu
-places: [XGL, ZAF, XAF, NGA, XSS, KEN]
+places: [XGL, ZAF, XAF, NGA, XSS, KEN, MUS]
 entities: [[david-eaves], [the-govlab], [stefaan-verhulst], [popia], [estdev], [smart-africa], [estdev-smart-africa-mou], [orange], [via-africa-cable], [european-union], [eu-nigeria-global-gateway-290m], [global-gateway], [ebrd], [nigeria-finland-digital-mou], [finnfund], [bosun-tijani], [triad-tech-sovereignty-verhulst-otero-2026], [kenya-cyber-resilience-project], [expertise-france], [ecdpm], [au-continental-ai-strategy], [african-union], [eu-ai-act], [kenya-data-marketplace]]
 lens: [sovereignty, colonialism]
 status: active
-last_reviewed: 2026-07-12
+last_reviewed: 2026-07-19
 sources: [[2025-12-15 The Path to a Sovereign Tech Stack is Via a Commodified Tech Stack  TechPolicy.Press], [2026-06-09 The Triad of Tech Sovereignty and Europe's Package Dependency, Openness, and Agency], [2026-06-03 How the EU's Tech Sovereignty Package Finally Puts Open Source to the Test], [2026-06-11 The Case Against the EU's Tech Sovereignty Package], [2026-06-29 How AI Keeps Europe Hooked on US Cloud], [2025-01-01 South African Digital Sovereignty at the Crossroad of Securitization and Development (Chapter 4) - Digital Sovereignty in the BRICS Countries], [2026-05-28 Estonia backs Africa digital infrastructure], [2026-05-23 Orange-backed subsea cable to connect Nigeria, 19 other countries], [2026-06-04 Series What Europe's AI Market Actually Looks Like], [2026-03-24 Nigeria EU Announces New €290m Investments in Nigeria], [2026-01-26 How the Brussels Effect Hinders Innovation in the Global South], [2026-03-01 Nigeria Signs MoU With Finland On Digital Innovation, Deepens Bilateral Ties]]
 # NB (source-linkage): the BRICS chapter shows the EU as a norm-exporter to Africa — POPIA
 # on the GDPR/Directive-95/46 model, the Budapest Convention, the EU–AU digital task force
@@ -19,6 +19,12 @@ European digital-sovereignty policy and its lessons.
 
 ## Key material
 
+- **Mauritius seeks EU GDPR adequacy (2026).** In a rare African move, **[[MUS]] Mauritius** is **pursuing the
+  EU adequacy assessment in 2026, fully aligning its Data Protection Act 2017 with the GDPR** (Commissioner
+  Madhub, also AFAPDP president). Adequacy would smooth EU–Mauritius data flows and reinforce the island's
+  cross-border fintech/data-hub positioning — the Brussels Effect operating by invitation rather than
+  imposition. See [[mauritius--gov-protect]], [[gov.protect]]. Source:
+  [[2026-05-27-no-digital-id-without-data-protection-madhub-biometricupdate]].
 - **Tech Sovereignty Package + the Triad (2026-06, [[the-govlab]]).** The EU's
   **Technological Sovereignty Package** (IP/26/1187, 2026-06-03) — Chips Act 2.0, Cloud &
   AI Development Act (tripling EU data-centre capacity), Open Source Strategy, AI Factories

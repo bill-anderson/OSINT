@@ -19,6 +19,7 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 | T-Connect Lesotho | LSO | infra.connect, data.satellite | [[t-connect-lesotho]] |
 | Econet Telecom Lesotho (ETL) | LSO | infra.connect, dpi.pay | [[econet-telecom-lesotho]] |
 | DNS Technologies Ltd | MUS, LSO | infra.store, infra.cybersec | [[dns-technologies]] |
+| Verint Systems | XGL, MUS | infra.cybersec, gov.protect | [[verint]] |
 | Computer Business Solutions (CBS, Lesotho) | LSO | infra.store, tech.industry | [[computer-business-solutions]] |
 | Mukuru | XAF, LSO, ZAF | dpi.pay, finance.new | [[mukuru]] |
 | Jumhouria Bank | LBY | dpi.pay, finance.new | [[jumhouria-bank]] |
