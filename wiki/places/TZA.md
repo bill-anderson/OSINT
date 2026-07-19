@@ -41,7 +41,10 @@ carries the framing and the hub-level chronology only.
 - **[[tanzania--gov-protect]]** — the [[tanzania-pdpa]] and [[pdpc-tanzania]]: scope, extraterritorial
   reach, the Zanzibar Union-Matters limit, cross-border transfers without an adequacy mechanism,
   breach notification unconditioned on harm but textually undefined, penalties, the BOT
-  consumer-protection cross-reference, and the CDPO programme.
+  consumer-protection cross-reference, and the CDPO programme. Now with the **enforcement arc** (awareness
+  2025 → **inspections from 9 Apr 2026** → 7-day ultimatum → first National Privacy Conference), the
+  forthcoming **National Data Management Framework** (targeted Jan 2026), and a critical **IGP/TMC**
+  counter-read that data-localisation/surveillance is a growth *bottleneck*, not just a safeguard.
 - **[[tanzania--dpi-registry]]** — [[napa-tanzania]] addressing since 2010; the 85% rate (2024-07) and
   the 12.9m address count (2026-02) as non-comparable metrics; [[upu-s42]] certification as a
   continental benchmark; 29 systems interconnected.

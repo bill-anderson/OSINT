@@ -8,8 +8,9 @@ date_precision: day
 date_source: source
 places: [TZA]
 topics: [gov.policy, gov.protect, infra.connect]
-entities: [[tech-media-convergency]]
+entities: []
 lens: [sovereignty, colonialism]
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: TZA-2026-07-17
 ---

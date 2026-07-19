@@ -5,11 +5,11 @@ place: TZA
 topic: gov.protect
 places: [TZA]
 topics: [gov.protect, gov.legislate, infra.cybersec, dpi.pay, capacity.training, capacity.literacy]
-entities: [[tanzania-pdpa], [pdpc-tanzania], [clyde-and-co], [bank-of-tanzania], [tanzania-financial-consumer-protection-regulations], [micit-tanzania]]
-lens: [sovereignty]
+entities: [[tanzania-pdpa], [pdpc-tanzania], [clyde-and-co], [bank-of-tanzania], [tanzania-financial-consumer-protection-regulations], [micit-tanzania], [african-union]]
+lens: [sovereignty, colonialism]
 status: active
-last_reviewed: 2026-07-17
-sources: [[2025-05-07 The Tanzanian Personal Data Protection Act (PDPA) and its applicability in Arbitration Proceedings], [2026-02-09 Notification obligations arising from personal data breaches in Tanzania], [2025-06-27 Key Highlights of the Bank of Tanzania Financial Consumer Protection Amendment Regulations GN 298 of 2025], [2026-07-14 OUT, PDPC Launch National Data Protection Programme]]
+last_reviewed: 2026-07-19
+sources: [[2025-05-07 The Tanzanian Personal Data Protection Act (PDPA) and its applicability in Arbitration Proceedings], [2026-02-09 Notification obligations arising from personal data breaches in Tanzania], [2025-06-27 Key Highlights of the Bank of Tanzania Financial Consumer Protection Amendment Regulations GN 298 of 2025], [2026-07-14 OUT, PDPC Launch National Data Protection Programme], [2025-06-23-mifumo-dhaifu-tehama-vihatarishi-taarifa-binafsi], [2025-08-29-tanzania-ukinara-usimamizi-data], [2026-02-12-pdpc-to-begin-data-protection-inspections-april], [2026-06-12-wananchi-waonywa-kutoa-taarifa-binafsi], [2026-06-30-why-data-privacy-matters-economic-growth], [2026-06-09-tanzania-getting-online-digital-economy-igp-report]]
 ---
 
 # Tanzania × Data Protection
@@ -84,12 +84,76 @@ finance, telecoms, healthcare, education and tech. It is the capacity answer to 
 mandatory-DPO duty above (PDPC DG Dr. Emmanuel Mkilia; OUT VC Prof. Alex B. Makulilo). Source:
 [[2026-07-14 OUT, PDPC Launch National Data Protection Programme]]. [[capacity.training]]
 
+## Enforcement arc: awareness → inspection → ultimatum (2025–2026)
+
+The commission moved, across a year, from training to teeth:
+
+- **Risk training (Jun 2025).** A three-day **[[pdpc-tanzania|PDPC]]** workshop in Arusha for risk
+  coordinators, board members, IT officers and auditors (public and private), DG **Dr Emmanuel Mkilia**
+  framing **insecure IT systems and the absence of robust data-management policy as the core privacy
+  risk**. See [[capacity.training]], [[infra.cybersec]]. Source:
+  [[2025-06-23-mifumo-dhaifu-tehama-vihatarishi-taarifa-binafsi]].
+- **Inspections from 9 April 2026.** PDPC announced **nationwide compliance inspections from 9 April**,
+  targeting institutions that failed to **register and appoint DPOs** — "a decisive shift from
+  awareness-raising to enforcement" — with Mbeya RC **Beno Malisa** demanding **"strict penalties, not
+  leniency"** against those trading in others' private data. Source:
+  [[2026-02-12-pdpc-to-begin-data-protection-inspections-april]].
+- **Seven-day ultimatum (Jun 2026).** Mkilia gave institutions **mid-registration seven days to finish**
+  (and the unregistered to start "immediately"), naming **health and education** as sensitive sectors still
+  processing data without registration, and telling citizens to **check a body is PDPC-registered before
+  handing over data**. Source: [[2026-06-12-wananchi-waonywa-kutoa-taarifa-binafsi]].
+- **First National Privacy Conference (Jun 2026).** The inaugural **National Privacy and Personal Data
+  Protection Conference** (Dar, **800+ delegates**, theme "*Privacy as a Pillar… Towards Vision 2050*")
+  cast data protection as an **economic-trust precondition**: digital transformation is one of five Vision
+  2050 drivers, and (National Planning Commission's Josiah Mwakabeza) *"you cannot build a digitally enabled
+  society if people do not trust how their data is handled"* — citing formal financial inclusion up **65%
+  (2017) → 76% (2023)**. Deputy Minister **Dr Sweetbert Mkama** opened it; Mkilia cited online registration,
+  guidelines and the coming CDPO programme. See [[gov.policy]]. Source:
+  [[2026-06-30-why-data-privacy-matters-economic-growth]].
+
+## The National Data Management Framework, and the AU alignment (2025-08)
+
+A stakeholder process to build a **National Data Management Framework** (targeted completion **January
+2026**) advanced the sovereignty argument explicitly — MICIT's Mohamed Mashaka calling **"data a national
+resource"** and stressing rules for **how data is protected, shared, stored or deleted as it crosses
+borders**. Infrastructure director Leo Magomba tied it to the **[[nictbb|NICTBB]]**, **six major IXPs** and
+data centres **keeping data processed in-country**, positioning Tanzania within the **[[african-union|AU]]
+Data Policy Framework (2022)** (via AU/UNECA cooperation). See [[gov.policy]], [[dpi.exchange]],
+[[tanzania--infra-store]], [[sovereignty]]. Source: [[2025-08-29-tanzania-ukinara-usimamizi-data]].
+
+## The critical read: localisation as a bottleneck (IGP/TMC, 2026-06-09)
+
+*Attribution: a named think-tank analysis — the **Internet Governance Project** (Georgia Tech), sponsored by
+**Tech & Media Convergency** — "The Political Economy of Digital Governance in Tanzania." Treat as analysis,
+not primary evidence.*
+
+The IGP report is the sharpest counterpoint in the Tanzania material to the state's own sovereignty framing.
+It argues that despite internet adoption reaching **~31%**, the **digital economy has not followed**:
+Tanzania's **services-sector GDP share fell from a 2001 peak of 49% to 29% (2024)**, ICT stagnates at
+**1.5–1.6% of GDP**, and its digital-economy contribution is **less than one-fifth of Kenya's** at similar
+penetration. The bottleneck, it contends, is **governance, not infrastructure**: **data-localisation and
+local-ownership mandates that deter foreign investment**, **censorship / VPN registration / shutdowns**
+(an estimated **$250m lost in the 2025 election period**), and **cronyism** aligning the regulator with
+private commercial interest. Its ten recommendations are "politically survivable" — revoke localisation
+mandates, adopt **risk-based cross-border rules**, require **judicial oversight for data access**,
+liberalise content licensing, open wholesale infrastructure — and it warns the **surveillance apparatus
+(SIM registration + the forthcoming [[jamii-namba|Jamii Namba]]) risks locking in a durable architecture of
+control**. See [[include.divides]], [[tanzania--dpi-id]], [[colonialism]]. Source:
+[[2026-06-09-tanzania-getting-online-digital-economy-igp-report]].
+
+**The tension worth holding.** This directly cuts against the "data protection as industrial policy" read
+on [[tanzania--infra-store]]: **localisation that *drives* local data-centre demand is, in IGP's account,
+the same policy that *deters* the foreign investment a digital economy needs**. Both can be true — good for
+domestic hosting, bad for FDI — and the wiki records the disagreement rather than resolving it.
+
 ## See also
 
 - Place: [[TZA]] · Region: [[XEA]]
 - Concepts: [[gov.protect]] · [[gov.legislate]] · [[infra.cybersec]] · [[capacity.training]]
 - Intersections: [[tanzania--dpi-id]] · [[tanzania--dpi-registry]]
 - Entities: [[tanzania-pdpa]] · [[pdpc-tanzania]] · [[clyde-and-co]] · [[bank-of-tanzania]] ·
-  [[tanzania-financial-consumer-protection-regulations]] · [[micit-tanzania]]
+  [[tanzania-financial-consumer-protection-regulations]] · [[micit-tanzania]] · [[african-union]]
 - Mentioned, not hubbed: Dr Emmanuel Mkilia (PDPC DG); Prof. Alex B. Makulilo (OUT); Open University of
-  Tanzania; Kemi Advocates; Malekela and Jurisic (Kluwer Arbitration Blog).
+  Tanzania; Kemi Advocates; Malekela and Jurisic (Kluwer Arbitration Blog); Beno Malisa (Mbeya RC); Dr
+  Sweetbert Mkama (Deputy Minister); Josiah Mwakabeza (National Planning Commission); Internet Governance
+  Project (Georgia Tech); Tech & Media Convergency (TMC).

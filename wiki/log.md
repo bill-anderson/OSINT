@@ -7592,3 +7592,9 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
 - Created wiki/intersections/tanzania--infra-store.md: PDPA + localisation policy as demand driver ("data protection as industrial policy"); Wingu WCX local cloud + regional-hub pitch (TIX, energy/skills constraints); Liquid–government alignment + $855m recap; public DCs Dodoma/Zanzibar.
 - Created entity liquid-intelligent-technologies. Mapped ministry ref → micit-tanzania. 0 prunes.
 - Wired TZA hub infra.store bullet → Full case. Dead-link NONE (chunk-3/4 forward-refs resolved).
+
+## 2026-07-19 ingest(TZA) chunk 5 — Data protection & governance (6 sources, 1 prune)
+- Extended tanzania--gov-protect: enforcement arc (PDPC Arusha risk training 2025-06 → inspections from 9 Apr 2026 → 7-day registration ultimatum → first National Privacy Conference 800 delegates); National Data Management Framework (targeted Jan 2026, AU Data Policy Framework alignment); and the critical IGP/TMC analysis ("Political Economy of Digital Governance") arguing data-localisation + surveillance are a growth bottleneck — held as a named-analysis counterpoint to the infra-store "data protection as industrial policy" read (tension recorded, not resolved). Lens +colonialism.
+- Mapped clip entities [[personal-data-protection-commission-tanzania]]→[[pdpc-tanzania]], [[ministry-...]]→[[micit-tanzania]]; dropped mention-only [[tech-media-convergency]] (IGP attributed inline).
+- PRUNE (lint #7): 2026-02-13 pdpc-kutotekelezwa (Nipashe) is a Swahili subset of 2026-02-12 The Citizen inspections piece — deleted, kept The Citizen.
+- Wired TZA hub gov-protect line. Dead-link NONE.

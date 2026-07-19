@@ -8,8 +8,9 @@ date_precision: day
 date_source: source
 places: [TZA]
 topics: [gov.policy, gov.protect, dpi.exchange, infra.store]
-entities: [[ministry-communication-information-technology-tanzania], [african-union]]
+entities: [[micit-tanzania], [african-union]]
 lens: [sovereignty]
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: TZA-2026-07-17
 ---
