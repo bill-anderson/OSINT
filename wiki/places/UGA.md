@@ -165,7 +165,9 @@ days, two days before a presidential election — reminding every layer above it
 - [[tech.ai]] · [[infra.store]] · [[infra.capacity]] — the compute pipeline
   (→ **[[uganda--infra-store]]**); CIPESA's rights-by-design submission to the national AI strategy;
   the [[eac]] "AI Sovereignty" bloc; locally-trained agricultural AI ([[nasa-harvest]]).
-- [[infra.connect]] — the **Jan-2026 election shutdown** ([[uganda-communications-commission]]);
+- [[infra.connect]] — extracted: **[[uganda--infra-connect]]** (fibre superhighways — Bayobab, Paratus
+  G2M, CSquared; Savanna 1 Gbps; the NCRCBSI regional satellite; UCC 47m SIMs, telecom-tax-cut proposal,
+  Wi-Fi-licensing enforcement; and network control incl. the **Jan-2026 election shutdown** + Starlink).
   [[axian-wananchi-acquisition]] consolidating Zuku/Simbanet broadband.
 - [[include.access]] · [[include.divides]] · [[digital.rural]] — the enrolment shortfall and
   uncollected cards (→ [[uganda--dpi-id]]); **>1.3m persons with disabilities (Dec 2025)** facing

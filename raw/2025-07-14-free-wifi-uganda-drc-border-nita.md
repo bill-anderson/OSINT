@@ -8,8 +8,9 @@ date_precision: day
 date_source: source
 places: [UGA]
 topics: [infra.connect, include.access]
-entities: [[nita-u]]
+entities: [[nita-uganda]]
 lens: []
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: UGA-2026-07-17
 ---

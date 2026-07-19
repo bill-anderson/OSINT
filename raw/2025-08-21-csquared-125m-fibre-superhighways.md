@@ -10,6 +10,7 @@ places: [UGA, XAF]
 topics: [infra.connect, finance.new]
 entities: [[csquared]]
 lens: []
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: UGA-2026-07-17
 ---
