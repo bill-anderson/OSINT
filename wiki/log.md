@@ -6978,3 +6978,17 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
   (adds continental context: 18th market, Lesotho/Namibia/Chad comparisons).
 - Sources: 2025-03-13 Starlink available (ActuNiger), 2025-03-17 beams into Niger (connectingafrica), 2025-05-06
   NINETEC (Le Sahel), 2025-09-09 ARCEP crackdown (ActuNiger), 2026-01-18 Airtel Starlink (ActuNiger).
+
+## 2026-07-19 — ingest(NER) chunk 4/5: AI, innovation, skills, rural
+
+- **3 sources admitted, 0 leads, 0 discards.** All ANSI-adjacent — thicken under-collected NER topics.
+- **Entities updated:** [[ansi-niger]] (+Illimi AI-for-human-security bullet; fixed smart-villages date
+  2025→2026; +source).
+- **NER hub:** +1 consolidated Recent-developments entry (ANSI startups / Villages Intelligents Tabelot / Illimi
+  AI-140-cadres); +tech.innovate/tech.ai/digital.rural Active-topics line; +tech.ai/tech.innovate/digital.rural/
+  capacity.training/data.open topics.
+- **Concepts (NER added to all three — was absent):** [[tech.innovate]] +NER startup-ecosystem bullet (Qwiper/
+  CodeLoccol/Maria Server; +places/footer); [[digital.rural]] +NER Villages-Intelligents/Tabelot bullet
+  (+places); [[tech.ai]] +NER AI-for-human-security/Illimi bullet (+places/footer).
+- Sources: 2026-06-10 UN AI/Illimi 140 cadres (Le Sahel), 2025-08-04 ANSI startups (Le Sahel), 2026-07-10 ANSI
+  smart villages Tabelot (Le Sahel).

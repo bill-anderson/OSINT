@@ -12,6 +12,7 @@ entities: [[ansi-niger], [world-bank]]
 lens: []
 retrieved: 2026-07-17
 sweep_batch: NER-2026-07-17
+body_completeness: excerpt
 ---
 
 # Projet de villages intelligents de l'ANSI à Tabelot : le numérique au service de l'inclusion et du développement local

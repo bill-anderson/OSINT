@@ -12,6 +12,7 @@ entities: [[ansi-niger]]
 lens: []
 retrieved: 2026-07-17
 sweep_batch: NER-2026-07-17
+body_completeness: excerpt
 ---
 
 # ANSI — Startups nigériennes : le numérique au service d'une économie plus résiliente

@@ -2,7 +2,7 @@
 type: concept
 title: Rural digital data capture
 slug: digital.rural
-places: [ETH, KEN, NGA, ZMB, ZWE, TZA, UGA, RWA, SEN, MOZ, NAM, CIV, ZAF, XAF, XSS, XGL, SLE, MWI]
+places: [ETH, KEN, NGA, ZMB, ZWE, TZA, UGA, RWA, SEN, MOZ, NAM, CIV, ZAF, XAF, XSS, XGL, SLE, MWI, NER]
 entities: [[echis-ethiopia], [nasa-harvest], [nucap], [starlink], [helios-towers], [orange-sat], [google], [global-center-on-ai-governance]]
 lens: [sovereignty, colonialism]
 status: active
@@ -23,6 +23,11 @@ just digitisation"** thesis — see [[data.statistics]], [[2026-03-31 Africa we 
 
 ## What matters now
 
+- **[[NER]] Niger — "smart villages" as rural digital inclusion (2026).** **[[ansi-niger|ANSI]]**'s **Villages
+  Intelligents** programme (World-Bank-linked) put a **digital centre at Tabelot** (remote Agadez) offering
+  online-service access, IT training and dedicated **women/girls' digital-opportunity** sessions — a state-led
+  rural-inclusion model in a very-low-connectivity Sahel state. See [[NER]], [[include.divides]],
+  [[capacity.literacy]]. Source: [[2026-07-10-ansi-smart-villages-tabelot-lesahel]].
 - **[[MWI]] Malawi — fragmented farmer data, and digitising farm payments (2025-2026).** Malawian smallholders
   juggle **non-interoperable** platforms (met-service **PICSA**, **FISP**, One Acre Fund, ACE's **Zaulimi**),
   logging into each and losing control of their data; analysts pitch an **NRIS** farmer-ID layer, the DPA 2024,

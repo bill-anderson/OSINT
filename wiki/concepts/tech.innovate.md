@@ -2,11 +2,11 @@
 type: concept
 title: Innovation ecosystem
 slug: tech.innovate
-places: [COG, CIV, BWA, BFA, BEN, BDI, AGO, GAB, XAF, GHA, UGA, NGA, KEN, ZAF, DZA, ERI]
+places: [COG, CIV, BWA, BFA, BEN, BDI, AGO, GAB, XAF, GHA, UGA, NGA, KEN, ZAF, DZA, ERI, NER]
 entities: [[st-digital-gabon], [samuel-nartey-george], [google], [google-for-startups-accelerator-africa], [mosip], [id4africa], [angola-startups-law], [kimbo-fund], [luanda-technology-park], [slb-africa-performance-center], [ifc], [african-development-bank]]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-12
+last_reviewed: 2026-07-19
 sources: [[2026-07-06 Gabon Inaugurates First Tier III Datacenter to Boost Digital Sovereignty], [2026-07-07 Ghana and UNDP Strengthen Partnership on Digital Transformation Projects], [2026-07-01 Google Cloud Summit in Africa Highlights the Continent's Digital Transformation and Unveils New Agentic AI and Infrastructure Investments], [2026-06-20 Ethiopia launches unified MESOB Platform to accelerate national digital transformation], [2026-06-19 What Google's latest startup cohort says about AI in Africa], [2026-06-11 DR Congo to Launch National Digital Identity System RDC-PASS on June 13], [2026-04-21 Meet the 15 Startups Joining the Google for Startups Accelerator Africa Class 10], [2026-05-22 Uganda launches prototype program for digital ID and public infrastructure], [2026-05-28 Why decentralized digital identity looks different in every country], [2026-03-25 On Documenting African AI Knowledge What Becomes Possible], [2025-12-15 African AI Startups Should Publish Openly]]
 ---
 
@@ -17,6 +17,12 @@ economic activity — the layer beyond hardware.
 
 ## Key material
 
+- **[[NER]] Niger — a state-backed startup scene under a junta (2025).** Despite conflict and low connectivity,
+  **[[ansi-niger|ANSI]]** backs an emerging ecosystem: **Qwiper** (an all-in-one super-app; sovereign cloud/AI),
+  **E-Mobility Niger** (PCI-DSS payments + green mobility), the ANSI-subsidised **CodeLoccol** digital school
+  (international robotics prizes), **Maria Server** (offline servers for no-network zones), ADN and Africa Ycone —
+  digital entrepreneurship as economic resilience. See [[NER]], [[tech.industry]]. Source:
+  [[2025-08-04-ansi-nigerien-startups-digital-economy-lesahel]].
 - **Infrastructure-for-startups (2026-07, Gabon).** At Gabon's first Tier III datacenter
   inauguration, an MoU gives ministry-supported startups **enterprise-grade hosting at
   preferential rates** — an explicit bid to seed a local innovation ecosystem and
@@ -72,7 +78,7 @@ economic activity — the layer beyond hardware.
 
 ## Places
 
-[[AGO]] · [[GAB]] · [[XAF]] · [[GHA]] · [[UGA]] · [[NGA]] · [[KEN]] · [[ZAF]]
+[[AGO]] · [[GAB]] · [[XAF]] · [[GHA]] · [[UGA]] · [[NGA]] · [[KEN]] · [[ZAF]] · [[NER]]
 
 ## Related
 

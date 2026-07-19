@@ -12,6 +12,7 @@ entities: [[ansi-niger], [united-nations]]
 lens: []
 retrieved: 2026-07-17
 sweep_batch: NER-2026-07-17
+body_completeness: excerpt
 ---
 
 # Renforcement de capacités en IA appliquée à la sécurité humaine : le Bureau de la coordination des Nations unies au Niger perfectionne 140 cadres

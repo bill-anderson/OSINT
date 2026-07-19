@@ -2,7 +2,7 @@
 type: concept
 title: AI
 slug: tech.ai
-places: [COD, CIV, CMR, AGO, CAF, DJI, EGY, ETH, GHA, KEN, MAR, MWI, NAM, NGA, RWA, SDN, SEN, UGA, XEA, ZAF, ZMB, ZWE, XSA, XGL, XSS, DZA, SLE, ERI, MLI, BFA, GIN, BEN, XWA, BDI, MUS]
+places: [COD, CIV, CMR, AGO, CAF, DJI, EGY, ETH, GHA, KEN, MAR, MWI, NAM, NGA, RWA, SDN, SEN, UGA, XEA, ZAF, ZMB, ZWE, XSA, XGL, XSS, DZA, SLE, ERI, MLI, BFA, GIN, BEN, XWA, BDI, MUS, NER]
 entities: [[partner2connect], [gsma], [china-namibia-smart-city], [jane-munga], [technology-prosperity-deal], [pax-silica], [american-ai-exports-program], [uae], [uae-ai-for-development-initiative], [g42], [google], [microsoft], [microsoft-g42-kenya-datacenter], [african-union], [au-google-mou], [au-continental-ai-strategy], [cloud-act], [waxal], [rwanda-national-ai-agency], [paula-ingabire], [mesob-platform], [ethiopian-ai-institute], [openai], [eac], [smart-africa], [ghana-national-ai-strategy], [kashifu-inuwa], [nasa-harvest], [catherine-nakalembe], [google-deepmind], [google-ai-research-foundations], [hustle-academy], [microsoft-elevate], [tiara-pathon], [liquid-c2], [cassava-technologies], [mtn-group], [ralph-mupita], [ai-for-good-global-commission], [nvidia], [africa-ai-declaration], [kenya-ai-bill-2026], [eu-ai-act], [global-center-on-ai-governance], [global-index-on-responsible-ai], [niyel], [google-for-startups-accelerator-africa], [un-ai-scientific-panel], [tech-corps], [deepseek], [martin-tisne], [ecdpm], [european-union], [viamo], [african-telecommunications-union], [axian-telecom], [abeba-birhane], [meta], [ndpc], [govguide-nigeria], [digital-ethiopia-2030], [ai-unipod-ethiopia], [mtn-ghana], [malawi-ministry-of-ict], [undp], [vision-djibouti-2035], [eardip], [comesa], [idea-mpa]]
 lens: [sovereignty, colonialism]
 status: active
@@ -18,6 +18,12 @@ converge.
 
 ## Key material — continental & thematic
 
+- **[[NER]] Niger — AI for human security in a fragile state (2026-06).** A UN Trust Fund **Illimi Niger**
+  programme trained **140 cadres** in **AI applied to human security** (crisis anticipation, protection of
+  vulnerable populations), building a **multisectoral government/UN data platform** (Interior, INS,
+  **[[ansi-niger|ANSI]]**, peace bodies) — AI framed for **stabilisation** rather than growth in a junta-led
+  Sahel state. See [[NER]], [[data.statistics]], [[capacity.training]]. Source:
+  [[2026-06-10-un-ai-human-security-capacity-illimi-140-cadres-lesahel]].
 - **[[MWI]] Malawi — low-resource-language AI (Chichewa, 2026-06).** Malawi launched a **Low Resource Language
   Data Trust** to build **Chichewa** AI models, assembling licensed local-language content as training data
   (**World Bank + Gates Foundation**) — an **inclusion-first** AI bet (digital assistants, translation,
@@ -387,7 +393,7 @@ This topic is mostly continental (the sovereignty debate, the partnership scramb
 
 ## Places
 
-[[AGO]] · [[CAF]] · [[DJI]] · [[EGY]] · [[ETH]] · [[GHA]] · [[KEN]] · [[MAR]] · [[MWI]] · [[MUS]] · [[NAM]] · [[NGA]] · [[RWA]] · [[SDN]] · [[SEN]] · [[SLE]] · [[UGA]] · [[XEA]] · [[ZAF]] · [[ZMB]] · [[ZWE]] · [[MLI]] · [[BFA]] · [[GIN]] · [[BEN]] · [[CIV]] · [[XWA]] · [[BDI]]
+[[AGO]] · [[CAF]] · [[DJI]] · [[EGY]] · [[ETH]] · [[GHA]] · [[KEN]] · [[MAR]] · [[MWI]] · [[MUS]] · [[NAM]] · [[NGA]] · [[RWA]] · [[SDN]] · [[SEN]] · [[SLE]] · [[UGA]] · [[XEA]] · [[ZAF]] · [[ZMB]] · [[ZWE]] · [[MLI]] · [[BFA]] · [[GIN]] · [[BEN]] · [[CIV]] · [[XWA]] · [[BDI]] · [[NER]]
 
 ## Related
 

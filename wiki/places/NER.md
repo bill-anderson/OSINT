@@ -4,7 +4,7 @@ title: Niger
 code: NER
 parent: XWA
 place_kind: country
-topics: [dpi.id, dpi.registry, gov.regional, gov.legislate, gov.protect, infra.store, infra.cybersec, infra.connect, dpi.govtech, dpi.pay, data.statistics, include.access, geopol.usa, include.divides, tech.industry, gov.standards]
+topics: [dpi.id, dpi.registry, gov.regional, gov.legislate, gov.protect, infra.store, infra.cybersec, infra.connect, dpi.govtech, dpi.pay, data.statistics, include.access, geopol.usa, include.divides, tech.industry, gov.standards, tech.ai, tech.innovate, digital.rural, capacity.training, data.open]
 status: active
 last_reviewed: 2026-07-19
 ---
@@ -98,6 +98,16 @@ all against very low connectivity (**internet penetration ~23% (2025)**).
   Sources: [[2025-07-28-hapdp-president-interview-loi-2022-59-lesahel]],
   [[2024-09-20 The High Authority for the Protection of Personal Data (HAPDP)]]. See [[gov.protect]],
   [[gov.legislate]].
+- **2026-07-10** — **ANSI: startups, smart villages and AI-for-human-security.** The **[[ansi-niger|ANSI]]**
+  digital agency backs a growing **startup ecosystem** (Qwiper super-app, E-Mobility Niger, the subsidised
+  CodeLoccol school, Maria Server's offline servers) and a **Villages Intelligents** rural-inclusion programme (a
+  digital centre at **Tabelot**, Agadez; women/girls' digital skills). Separately, a UN Trust Fund **Illimi**
+  programme trained **140 cadres** in **AI applied to human security** (with INS/ANSI/Interior), building a
+  **multisectoral government/UN data platform**. Sources:
+  [[2025-08-04-ansi-nigerien-startups-digital-economy-lesahel]],
+  [[2026-07-10-ansi-smart-villages-tabelot-lesahel]],
+  [[2026-06-10-un-ai-human-security-capacity-illimi-140-cadres-lesahel]]. See [[tech.innovate]],
+  [[digital.rural]], [[tech.ai]].
 - **2019-11** *(baseline)* — **Digital-administration reform support (Niger 2.0).** Expertise France / AFD
   backed a project to support Niger's national IT agency (ANSI) in reforming digital administration under the
   "Niger 2.0" agenda. Source:
@@ -127,8 +137,11 @@ all against very low connectivity (**internet penetration ~23% (2025)**).
 - [[infra.connect]] · [[geopol.usa]] · [[include.divides]] — **Starlink** (Oct-2024 SpaceX–junta deal;
   **[[ninetec]]** distributor; ARCEP anti-"Wifi Zone" enforcement; **[[airtel-niger|Airtel]]** "Starlink by
   Airtel") over a ~23%-penetration, ~80%-rural base — **[[niger--infra-connect]]**.
-- [[dpi.govtech]] · [[dpi.pay]] — "Niger 2.0" digital-administration reform (ANSI); STAR-UEMOA regional
-  settlement.
+- [[dpi.govtech]] · [[dpi.pay]] — "Niger 2.0" digital-administration reform (**[[ansi-niger|ANSI]]**);
+  STAR-UEMOA regional settlement.
+- [[tech.innovate]] · [[tech.ai]] · [[digital.rural]] — ANSI startup ecosystem (Qwiper, CodeLoccol);
+  **Villages Intelligents** (Tabelot); UN **Illimi** AI-for-human-security (140 cadres; multisectoral data
+  platform).
 
 ## Entities
 
