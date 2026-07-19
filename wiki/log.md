@@ -6588,3 +6588,24 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
 - **entities-index:** +verint (Companies).
 - Sources: 2025-04-09 ICT DP strategy (lexpress), 2026-06-12 DPO Regs (lexpress), 2026-05-27 EU adequacy
   (biometricupdate), 2025-02-07 mass surveillance (mauritiustimes), 2026-07-13 Moustass leaks (mauritiustimes).
+
+## 2026-07-19 — ingest(MUS) chunk 3/6: Connectivity / data centres / sovereignty
+
+- **5 sources admitted, 0 leads, 0 discards.**
+- **Intersection created:** [[mauritius--infra-store]] — Indian-Ocean data-centre & connectivity hub (10-DC
+  estate/5 locations, MIXP; Rose-Belle Tier IV sovereign hosting of e-Health/portal/Mobile ID/AI; SAFE/LION/
+  METISS + T4/SEACOM 2.0 cables; ~1.01M subs, ITU 3rd-in-Africa; Digital Mauritius 2030) + the 2026 Tech Trends
+  data-sovereignty debate.
+- **Entity created:** [[mauritius-telecom]] (company — "Bridging Africa & Asia" 2026-2029 four-corridor
+  strategy; MT Connect Rs 20bn/$434M; my.t money; Rose-Belle Tier IV).
+- **MUS hub:** +3 Recent-developments entries (Tech Trends sovereignty 2026-04-03; MT strategy 2026-01-21 incl.
+  MT Connect Dec 2025; Rose-Belle Tier IV 2025-12-31 incl. hyperscale-hub baseline); +infra.store/infra.connect/
+  tech.ai topics; new Active-topics infrastructure line + intersection.
+- **Concepts:** [[infra.store]] +MUS +Indian-Ocean-hub bullet (+Places); [[infra.connect]] +MUS +Africa-Asia
+  gateway bullet (+Places).
+- **entities-index:** +mauritius-telecom.
+- **Dedup note:** MT 2026-01-21 e-booklet (lexpress) and 2025-12-08 MT Connect launch (techafricanews) kept as
+  **complementary** — each carries facts the other lacks (corridor detail/AI-Enablement vs investment figure/
+  cables/my.t-money users); not relevant-duplicates.
+- Sources: 2026-01-21 MT strategy (lexpress), 2025-12-08 MT Connect (techafricanews), 2025-07-16 hyperscale hub
+  (telecomreviewafrica), 2025-12-31 Rose-Belle Tier IV (lexpress), 2026-04-03 Tech Trends (lexpress).

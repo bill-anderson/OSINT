@@ -4,7 +4,7 @@ title: Mauritius
 code: MUS
 parent: XEA
 place_kind: country
-topics: [dpi.pay, finance.new, gov.protect, gov.regional, dpi.id, dpi.govtech, gov.policy, gov.legislate, dpi.registry, dpi.exchange, gov.standards, dpi.mis, data.statistics, include.access, data.open, geopol.eu, infra.cybersec]
+topics: [dpi.pay, finance.new, gov.protect, gov.regional, dpi.id, dpi.govtech, gov.policy, gov.legislate, dpi.registry, dpi.exchange, gov.standards, dpi.mis, data.statistics, include.access, data.open, geopol.eu, infra.cybersec, infra.store, infra.connect, tech.ai]
 status: active
 last_reviewed: 2026-07-19
 ---
@@ -54,6 +54,12 @@ cross-border fintech and payments gateway into Africa.
   mandates chief data officers, and is amending the law to add administrative fines. Source:
   [[2026-05-16 World Bank, African DPAs outline formula for trusted digital identity, DPI]]. See
   [[gov.protect]].
+- **2026-04-03** — **Data-sovereignty debate goes mainstream (Tech Trends).** A *L'Express* Tech Trends feature
+  framed **data sovereignty** as strategic for Mauritius — citing the dark-web citizen-data leak — with local
+  experts (GWS Technologies, Knowledge7, Hodi) urging local/regional hosting for control and legal clarity, and
+  pitching the island as a **regional cloud & cybersecurity hub**. Source:
+  [[2026-04-03-tech-trends-data-sovereignty-lexpress]]. See [[mauritius--infra-store]], [[infra.store]],
+  [[gov.protect]].
 - **2026-01-28** — **National Data Strategy 2025-2029 launched ("A New Era of Trust").** MITCI and the
   **[[data-protection-office-mauritius|Data Protection Office]]** launched the
   **[[mauritius-national-data-strategy|National Data Strategy 2025-2029]]** on World Data Protection Day —
@@ -61,6 +67,20 @@ cross-border fintech and payments gateway into Africa.
   announced a **Freedom of Information Bill** in preparation; a **MPF–DPO–CERT-MU MoU** was signed. Source:
   [[2026-02-01-national-data-strategy-2025-2029-launch-lexpress]]. See [[gov.policy]], [[gov.protect]],
   [[data.open]].
+- **2026-01-21** — **Mauritius Telecom's "Bridging Africa & Asia" 2026-2029 strategy.** MT (CEO Veemal
+  Gungadin) published a four-corridor strategy (Connectivity / Financial / AI & Compute / Innovation) — a
+  reported **Rs 20bn (~$434M)** programme with new cables **T4 + SEACOM 2.0**, **5G-Advanced**, sovereign
+  cloud/GPU compute and cross-border **my.t money** — launched at the **MT Connect** event (5 Dec 2025). Entity:
+  [[mauritius-telecom]]. Sources:
+  [[2026-01-21-mauritius-telecom-strategy-2026-2029-bridging-africa-asia-lexpress]],
+  [[2025-12-08-mauritius-telecom-connect-strategy-launch-techafricanews]]. See [[infra.connect]],
+  [[infra.store]], [[tech.ai]].
+- **2025-12-31** — **Rose-Belle Tier IV data centre — sovereign hosting.** MT's Tier IV facility at Rose-Belle
+  became the critical-infrastructure anchor for citizen systems (**e-Health**, government portal, **Mobile ID**,
+  penalty-points, government AI), with disaster-recovery redundancy to the ageing GOC Ébène. Sits within a wider
+  **10-data-centre** Indian-Ocean hub estate. Full picture: **[[mauritius--infra-store]]**. Sources:
+  [[2025-12-31-rose-belle-tier-iv-data-centre-national-strategy-lexpress]],
+  [[2025-07-16-hyperscale-data-hub-data-centres-telecomreviewafrica]]. See [[infra.store]], [[dpi.govtech]].
 - **2025-08/09** — **Digital Transformation 2025-2029 Blueprint moves into delivery.** Following the May-2025
   **[[mauritius-digital-blueprint-2025-2029|Blueprint]]** (MITCI), the government announced **new digital
   regulations** (Minister Ramtohul, 21 Aug 2025) and set up an **inter-ministerial committee** (26 Aug 2025) to
@@ -121,12 +141,15 @@ cross-border fintech and payments gateway into Africa.
   **[[mauritius--gov-protect]]**.
 - [[dpi.mis]] · [[dpi.registry]] · [[include.access]] — **[[e-social-security-mauritius|E-Social Security]]**
   welfare digitisation (10.5M records).
+- [[infra.store]] · [[infra.connect]] · [[tech.ai]] — Indian-Ocean **data-centre & connectivity hub**
+  (**[[mauritius-telecom|MT]]** "Bridging Africa & Asia"; Rose-Belle Tier IV; 10-DC estate; T4/SEACOM 2.0
+  cables; MIXP) with a sovereign-hosting pitch — **[[mauritius--infra-store]]**.
 - [[dpi.exchange]] · [[gov.standards]] — e-Gov Interoperability Framework (2002); Health 2015 eHealth strategy.
 
 ## Entities
 
-- [[mauritius-mobile-id]] · [[mauritius-digital-blueprint-2025-2029]] · [[mauritius-national-data-strategy]] · [[ministry-ict-mauritius]] · [[data-protection-office-mauritius]] · [[e-social-security-mauritius]] · [[maucas]] · [[civil-status-division-mauritius]] · [[thales]] · [[peach-payments]] · [[verint]]
-- Intersections: [[mauritius--gov-protect]]
+- [[mauritius-mobile-id]] · [[mauritius-digital-blueprint-2025-2029]] · [[mauritius-national-data-strategy]] · [[ministry-ict-mauritius]] · [[data-protection-office-mauritius]] · [[e-social-security-mauritius]] · [[maucas]] · [[civil-status-division-mauritius]] · [[thales]] · [[peach-payments]] · [[verint]] · [[mauritius-telecom]]
+- Intersections: [[mauritius--gov-protect]] · [[mauritius--infra-store]]
 - Mentioned, not hubbed: Drudeisha Madhub (data-protection commissioner, heads the
   [[data-protection-office-mauritius|DPO]]); Ashok Subron (Minister of Social Security); Bank of Mauritius;
   ICTA; CERT-MU; MPF; FATF.
