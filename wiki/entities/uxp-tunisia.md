@@ -6,8 +6,8 @@ places: [TUN]
 topics: [dpi.exchange, dpi.govtech, gov.standards, infra.cybersec, dpi.id, geopol.eu, finance.new]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-17
-sources: [[2024-02-14 National interoperability platform in Tunisia (Cybernetica UXP)]]
+last_reviewed: 2026-07-19
+sources: [[2024-02-14 National interoperability platform in Tunisia (Cybernetica UXP)], [2026-05-14-cybernetica-national-interoperability-platform-phase2]]
 ---
 
 # UXP Tunisia (national interoperability platform)
@@ -40,6 +40,15 @@ account of the deployment is held.*
   focused on the go-live phase, **finalising Phase 1** and scaling in later phases. See
   [[dpi.exchange]], [[dpi.govtech]], [[capacity.training]]. Source:
   [[2024-02-14 National interoperability platform in Tunisia (Cybernetica UXP)]].
+- **Phase 2 — business-sector expansion (May 2026).** Cybernetica signed a **Phase 2** contract with the
+  Ministries of **Communication Technologies** and **Economy & Planning** to extend UXP from the five
+  Phase-1 institutions to the **business-environment bodies**: the **[[national-business-register-tunisia|RNE]]**,
+  **[[tunisia-investment-authority|TIA]]**, **APII** (industry/innovation), **CEPEX** (exports), the
+  **Ministry of Finance** and the **[[central-bank-of-tunisia|CBT]]** — adding high-availability modules,
+  integrating government databases, and explicitly targeting a **better UN EGDI ranking**. Funded by
+  **[[ebrd]] + SECO** (Sector Reform & Capacity Building); local partner PwC; completion **2027**. Phase 1
+  had onboarded 5 organisations — Phase 2 is the platform moving from pilot to economic-services backbone.
+  See [[dpi.exchange]], [[dpi.govtech]]. Source: [[2026-05-14-cybernetica-national-interoperability-platform-phase2]].
 - **Architecture.** UXP is based on the technical principles of **Estonia's X-Road** (Cybernetica's
   proprietary product, not X-Road itself), enabling secure peer-to-peer data exchange among
   independent organisations and their information systems, with digital signature and encryption

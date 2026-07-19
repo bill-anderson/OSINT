@@ -150,8 +150,10 @@ thing to watch.
   introducing a 123-article data protection bill to replace it** (per
   [[2026-06-23 Bimonthly Update on Privacy in Africa (January & February 2026)]]). The 2004 law must
   not be written as current.
-- [[dpi.exchange]] · [[gov.standards]] — [[uxp-tunisia]] ([[cybernetica]] / [[ebrd]] / SECO), an
-  X-Road-derived platform at five-ministry proof-of-concept stage as of Feb 2024.
+- [[dpi.exchange]] · [[gov.standards]] · [[dpi.govtech]] — [[uxp-tunisia]] ([[cybernetica]] / [[ebrd]] /
+  SECO), an X-Road-derived platform: five-ministry PoC (Feb 2024) now in **Phase 2** (May 2026) extending to
+  business-sector bodies (RNE, TIA, APII, CEPEX, Finance, CBT). Cabinet monitors **192 digital-transformation
+  projects** (2026–2030 Development Plan). Full case: [[tunisia--dpi-govtech]].
 - [[dpi.registry]] · [[include.access]] — the **AMEN social registry**.
 - [[dpi.govtech]] — **EGDI 0.6935 (2024 index)**, third in Africa, leading North Africa; see
   [[un-egdi]].

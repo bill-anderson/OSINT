@@ -7541,3 +7541,9 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
 - Created wiki/intersections/tunisia--dpi-id.md (e-Houwiya crossing available→mandatory as a gateway; sectoral IDs digitising; "capability ahead of safeguards").
 - Created entities: national-business-register-tunisia (RNE), tunisia-investment-authority (TIA); updated ministry-of-health-tunisia (+NHI, +birth-declaration).
 - Mapped clip entity mobile-id-tunisia → e-houwiya (same object). Wired TUN hub dpi.id bullet → Full case. Dead-link: only forward-ref tunisia--gov-protect (created in a later chunk).
+
+## 2026-07-19 ingest(TUN) chunk 3/6 — E-government, interoperability & policy
+- Admitted 3 sources: Cabinet monitors 192 digital projects (2026-02-16), UXP Phase 2 to business sector (Cybernetica, 2026-05-14), Tunisia Digital Summit 10th edition (2026-04-22). 0 prunes.
+- Created wiki/intersections/tunisia--dpi-govtech.md (whole-of-state e-gov programme; UXP pilot→economic backbone; EU-anchored, safeguards-lag caveat).
+- Updated entities: uxp-tunisia (+Phase 2), ministry-of-communication-technologies-tunisia (+192 projects, +Digital Summit).
+- Dropped mention-only [[pwc]] from UXP clip frontmatter. Wired TUN hub dpi.exchange/govtech bullet → Full case. Dead-link NONE.

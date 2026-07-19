@@ -6,8 +6,8 @@ places: [TUN]
 topics: [gov.policy, dpi.govtech, dpi.exchange, dpi.id, tech.ai, gov.legislate]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-17
-sources: [[2024-02-14 National interoperability platform in Tunisia (Cybernetica UXP)], [2025-03-19 E-Houwiya - A Milestone in Tunisia's Digital Transformation Roadmap 2025 (ID Tech)], [2024-04-23 Tunisia - Biometric ID card and passport usage to begin in H1 2025], [2025-03-01 Tunisia drives digitization agenda forward while navigating risks], [2026-01-19 EBRD and Tunisie Telecom Partner on €190 Million Digital Infrastructure Upgrade]]
+last_reviewed: 2026-07-19
+sources: [[2024-02-14 National interoperability platform in Tunisia (Cybernetica UXP)], [2025-03-19 E-Houwiya - A Milestone in Tunisia's Digital Transformation Roadmap 2025 (ID Tech)], [2024-04-23 Tunisia - Biometric ID card and passport usage to begin in H1 2025], [2025-03-01 Tunisia drives digitization agenda forward while navigating risks], [2026-01-19 EBRD and Tunisie Telecom Partner on €190 Million Digital Infrastructure Upgrade], [2026-02-16-techafricanews-cabinet-192-digital-projects], [2026-04-22-assabah-tunisia-digital-summit-10]]
 ---
 
 # Ministry of Communication Technologies (Tunisia)
@@ -50,6 +50,24 @@ platform [[uxp-tunisia]], and the department under which the national digital id
 - **Partner to the GIZ Digital Transformation Centre (as of 2025-03).** The GIZ-founded **Digital
   Transformation Centre Tunisia** works with this ministry and the Ministry of Industry. Source:
   [[2025-03-01 Tunisia drives digitization agenda forward while navigating risks]].
+
+- **192 projects under cabinet monitoring (Feb 2026).** At a ministerial council (13 Feb 2026, chaired by
+  PM **Sarah Zafrani Al-Zanzari**), minister **Sofiene Hemissi** reviewed the digital-transformation
+  portfolio: **192 initiatives under active follow-up** within the **2026–2030 Development Plan**'s unified
+  national vision, with **2026 declared the launch of full-scale administration digitisation**. 2025
+  completions cited: the **Unified Gateway for Administrative Services**, e-stamping, Digital Hospital
+  phase 1, the national project-monitoring platform, remote ID-card services for students, the building-
+  permits platform, and export/company-registration systems. PM directives: expand e-payments, interlink
+  citizen services, embed cybersecurity, AI and open data. See [[gov.policy]], [[dpi.govtech]]. Source:
+  [[2026-02-16-techafricanews-cabinet-192-digital-projects]].
+- **Tunisia Digital Summit, 10th edition (Apr 2026).** Opening the summit (22–23 Apr 2026, theme
+  public-private-institution partnership for rapid innovation; ~2,000 experts, 80 exhibitors), Hemissi
+  called digital transformation **"no longer a choice but a historical necessity,"** set the strategic goal
+  of making Tunisia a **regional digital hub** radiating across the Maghreb, Africa and the Mediterranean,
+  and pledged continued development of **legal/regulatory frameworks, especially on AI and data
+  protection**. Tunisia was to enter the **15th Startup World Cup** (San Francisco, 4–6 Nov 2026) for the
+  first time (3 startups selected). See [[tech.innovate]]. Source:
+  [[2026-04-22-assabah-tunisia-digital-summit-10]].
 
 ## Related (mentioned, not hubbed)
 

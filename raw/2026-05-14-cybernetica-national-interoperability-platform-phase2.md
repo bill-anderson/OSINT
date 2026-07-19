@@ -8,8 +8,9 @@ date_precision: day
 date_source: source
 places: [TUN]
 topics: [dpi.exchange, dpi.govtech, gov.regional]
-entities: [[cybernetica], [ministry-of-communication-technologies-tunisia], [ebrd], [pwc]]
+entities: [[cybernetica], [ministry-of-communication-technologies-tunisia], [ebrd]]
 lens: []
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: TUN-2026-07-17
 ---

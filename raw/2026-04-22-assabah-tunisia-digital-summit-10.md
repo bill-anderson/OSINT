@@ -10,6 +10,7 @@ places: [TUN]
 topics: [gov.policy, tech.ai, tech.innovate]
 entities: [[ministry-of-communication-technologies-tunisia]]
 lens: []
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: TUN-2026-07-17
 ---
