@@ -10,6 +10,7 @@ places: [ZWE]
 topics: [infra.connect, infra.store, finance.new]
 entities: [[telone], [starlink]]
 lens: []
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: ZWE-2026-07-17
 ---

@@ -10,6 +10,7 @@ places: [ZWE]
 topics: [infra.connect, dpi.mis, include.divides, finance.new]
 entities: [[netone], [mutapa-investment-fund]]
 lens: []
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: ZWE-2026-07-17
 ---

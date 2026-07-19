@@ -10,6 +10,7 @@ places: [ZWE]
 topics: [infra.connect, gov.regional, finance.new]
 entities: [[powertel-communications], [paratus-zimbabwe], [zesa], [mutapa-investment-fund], [potraz]]
 lens: []
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: ZWE-2026-07-17
 ---

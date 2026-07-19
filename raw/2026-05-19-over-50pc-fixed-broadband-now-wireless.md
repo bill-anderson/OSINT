@@ -10,6 +10,7 @@ places: [ZWE]
 topics: [infra.connect, include.access, data.statistics]
 entities: [[potraz], [telone], [starlink], [liquid-intelligent-technologies]]
 lens: []
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: ZWE-2026-07-17
 ---
