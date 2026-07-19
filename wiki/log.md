@@ -7355,3 +7355,12 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
   president's "national crime" proclamation exceeding Law 009/2023); private-rail mobile money (EVC Plus
   90%, GSMA-certified) with a handset-not-mast device barrier; Starlink fast-tracked (full foreign
   ownership) vs Hormuud onshoring data centres; DPI's real test framed as coordination, not procurement.
+
+## 2026-07-19 — ingest(SSD) chunk 1: Connectivity
+
+- **14 admitted, 0 pruned** (batch SSD-2026-07-17). SSD had 1 intersection (dpi-id); this adds the second.
+- **Created:** [[south-sudan--infra-connect]] — the first-ever fibre backbone (national programme $9m
+  design/2,400km Kenya cable/fibre-for-AI + private MTN/Bayobab 15-yr backbone), MTN (eSIM, 15-yr licence,
+  25% cut), affordability ($23.70/GB) + the FX tariff crisis (4,526 vs 27,000 SSP/$), growth (1.9m/15.7%),
+  the Jan-2025 social-media shutdown, 2026 rural/child-safety agenda. +14 sources.
+- **Entities created:** [[mtn-south-sudan]], [[bayobab-south-sudan]].

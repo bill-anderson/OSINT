@@ -140,7 +140,9 @@ but ahead of the governance frameworks meant to hold it.
   oversight committee** (Jan 2026), digitising SSIGW revenue under a
   sovereignty/security mandate; among the region's most expensive internet;
   coverage 69%→80% (2023→2026) via CREI solar-hybrid at MTN sites; Starlink for
-  NGOs/media only. **Connectivity baseline (early 2025):** 4.47m mobile
+  NGOs/media only; first national fibre backbone (MTN/Bayobab 15-yr licence + $9m design/2,400km
+  Kenya cable), MTN eSIM/25%-cut, ~$23.70/GB, FX tariff crisis, Jan-2025 social-media shutdown. Full
+  case: [[south-sudan--infra-connect]]. **Connectivity baseline (early 2025):** 4.47m mobile
   connections (37.1%), 1.90m internet users (15.7%), 868k social (7.2%), pop 12.1m
   — [[2025-03-03 Digital 2025 - South Sudan (DataReportal)]].
 - [[infra.energy]] · [[include.divides]] · [[include.access]] — reliable energy is
