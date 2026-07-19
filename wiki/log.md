@@ -7167,3 +7167,11 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
 - **Resolved hub flag:** the eKash-interoperability "low-authority aggregator; verify" caveat is
   cleared — ITWeb + We Are Tech corroborate BNR Directive 45/2026 (tier-2, itemised).
 - One partial-body clip (2026-07-16 eKash editorial) staged excerpt — see Flags.
+
+## 2026-07-19 — ingest(RWA) chunk 4: AI, cyber & skills
+
+- **5 admitted, 0 pruned.**
+- **[[rwanda--tech-ai]] updated:** National AI Agency (Cabinet-approved Jun 2026 — the domestic
+  governance body answering the page's accountability-vacuum thesis); public-sector AI capacity (CDO
+  training, Cenfri); regional AI diplomacy (Egypt WSIS MoU, Kenya cooperation); NCSA CyberHub centre
+  of excellence (Univ. of Rwanda, Cisco/GIZ). +5 sources, +[[rwanda-national-ai-agency]] entity link.

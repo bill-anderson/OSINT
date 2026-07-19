@@ -4,12 +4,12 @@ title: Rwanda × AI
 place: RWA
 topic: tech.ai
 places: [RWA]
-topics: [tech.ai, dpi.govtech, gov.protect, dpi.mis]
-entities: [[anthropic], [anthropic-rwanda-mou], [paula-ingabire], [horizon1000], [gates-foundation], [openai]]
+topics: [tech.ai, dpi.govtech, gov.protect, dpi.mis, gov.policy, gov.regional, capacity.training, infra.cybersec]
+entities: [[anthropic], [anthropic-rwanda-mou], [paula-ingabire], [horizon1000], [gates-foundation], [openai], [rwanda-national-ai-agency]]
 lens: [sovereignty, colonialism]
 status: active
-last_reviewed: 2026-07-13
-sources: [[2026-03-17 Anthropic is Becoming the Backbone of Rwanda's Government. But Who is Accountable], [2026-03-04 U.S.-based AI firm Anthropic bags first multi-sector government deal in Africa despite policy pressures at home], [2026-01-22 Gates Foundation and OpenAI Commit $50m to AI-Powered Health Systems in Africa]]
+last_reviewed: 2026-07-19
+sources: [[2026-03-17 Anthropic is Becoming the Backbone of Rwanda's Government. But Who is Accountable], [2026-03-04 U.S.-based AI firm Anthropic bags first multi-sector government deal in Africa despite policy pressures at home], [2026-01-22 Gates Foundation and OpenAI Commit $50m to AI-Powered Health Systems in Africa], [2026-06-08-ai-agency-cabinet-approves-ktpress], [2026-03-19-ai-capacity-building-cdo-techafricanews], [2026-07-10-rwanda-egypt-ai-mou-techafricanews], [2026-05-14-kenya-rwanda-digital-cooperation-techafricanews], [2025-10-03-cyber-security-centre-cyberhub-itweb]]
 ---
 
 # Rwanda × AI (`tech.ai`)
@@ -42,12 +42,50 @@ parliamentary, multilateral or civil-society governance defines its obligations.
   health-worker gap. See [[RWA]], [[dpi.mis]], [[finance.new]], [[geopol.usa]]. Source:
   [[2026-01-22 Gates Foundation and OpenAI Commit $50m to AI-Powered Health Systems in Africa]].
 
+## The domestic governance answer — a National AI Agency
+
+Against that accountability-vacuum reading, Rwanda moved to build its own institutional capacity:
+
+- **National AI Agency approved (Jun 2026).** Cabinet (chaired by President Kagame, 8 Jun 2026)
+  approved establishing a **[[rwanda-national-ai-agency]]** to accelerate AI development, adoption,
+  investment and **governance** — building on the **2023 National AI Policy** (~70% skills-focused).
+  It is the standing body that a commercial-partnership regime (Anthropic, Gates/OpenAI) had until now
+  lacked. See [[gov.policy]], [[gov.legislate]]. Source: [[2026-06-08-ai-agency-cabinet-approves-ktpress]].
+- **Public-sector AI capacity (Mar 2026).** MINICT ran a targeted **AI training for government Chief
+  Digital Officers** (generative AI, real use cases, responsible-deployment governance), facilitated
+  by **Cenfri** — pushing AI "beyond experimentation" into service delivery. See [[capacity.training]].
+  Source: [[2026-03-19-ai-capacity-building-cdo-techafricanews]].
+
+## Regional AI diplomacy
+
+- **Egypt (Jul 2026).** Rwanda and Egypt signed an **AI/digital-transformation MoU** at **WSIS 2026**
+  ([[paula-ingabire]] / Rafaat Hendy) — responsible AI, digital government, innovation and skills.
+  Source: [[2026-07-10-rwanda-egypt-ai-mou-techafricanews]].
+- **Kenya (May 2026).** Rwanda and Kenya held bilateral talks on **AI, data centres, digital
+  infrastructure and talent**, coordinated through Connected Africa and **Smart Africa**. (Pairs with
+  the Kenya–Rwanda payments licence passporting — [[rwanda--dpi-pay]].) See [[gov.regional]], [[KEN]].
+  Source: [[2026-05-14-kenya-rwanda-digital-cooperation-techafricanews]].
+
+## Cyber capacity — CyberHub
+
+- **CyberHub (Oct 2025).** The **National Cyber Security Authority (NCSA)** unveiled a **Cyber Security
+  Centre of Excellence** at the University of Rwanda's College of Science & Technology — a cyber
+  academy, innovation hub and tech labs (partners include Cisco and GIZ), aimed at making Rwanda a
+  regional cyber-capacity leader. See [[infra.cybersec]], [[capacity.training]]. Source:
+  [[2025-10-03-cyber-security-centre-cyberhub-itweb]].
+
 ## Links
 
-Place: [[RWA]] · Concepts: [[tech.ai]] · [[dpi.govtech]] · Entities: [[anthropic]] · [[horizon1000]]
+Place: [[RWA]] · Concepts: [[tech.ai]] · [[dpi.govtech]] · [[gov.policy]] · [[infra.cybersec]] ·
+Entities: [[anthropic]] · [[horizon1000]] · [[rwanda-national-ai-agency]] · [[paula-ingabire]]
 
 ## Sources
 
 - [[2026-03-17 Anthropic is Becoming the Backbone of Rwanda's Government. But Who is Accountable]]
 - [[2026-03-04 U.S.-based AI firm Anthropic bags first multi-sector government deal in Africa despite policy pressures at home]]
 - [[2026-01-22 Gates Foundation and OpenAI Commit $50m to AI-Powered Health Systems in Africa]]
+- [[2026-06-08-ai-agency-cabinet-approves-ktpress]]
+- [[2026-03-19-ai-capacity-building-cdo-techafricanews]]
+- [[2026-07-10-rwanda-egypt-ai-mou-techafricanews]]
+- [[2026-05-14-kenya-rwanda-digital-cooperation-techafricanews]]
+- [[2025-10-03-cyber-security-centre-cyberhub-itweb]]

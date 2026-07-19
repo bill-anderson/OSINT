@@ -9,6 +9,7 @@ date_precision: day
 date_source: source
 retrieved: 2026-07-17
 sweep_batch: RWA-2026-07-17
+body_completeness: excerpt
 places: [RWA]
 topics: [tech.ai, gov.policy, gov.legislate]
 entities: [[rwanda-national-ai-agency]], [[paula-ingabire]]

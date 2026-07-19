@@ -9,6 +9,7 @@ date_precision: day
 date_source: source
 retrieved: 2026-07-17
 sweep_batch: RWA-2026-07-17
+body_completeness: excerpt
 places: [RWA]
 topics: [infra.cybersec, capacity.training]
 entities: [[national-cyber-security-authority-rwanda]], [[paula-ingabire]]
