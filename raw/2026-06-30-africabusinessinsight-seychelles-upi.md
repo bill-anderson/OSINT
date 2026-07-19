@@ -10,6 +10,7 @@ places: [SYC]
 topics: [dpi.pay, finance.mou, geopol.india]
 entities: [[central-bank-of-seychelles], [npci-international]]
 lens: []
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: SYC-2026-07-17
 ---
