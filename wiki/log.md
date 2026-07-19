@@ -7057,3 +7057,12 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
 - **Intersection expanded:** [[nigeria--infra-store]] +"The sovereign-cloud push" section — 1Gov/Galaxy Backbone
   (GovDrive/Mail/E-Sign) + ONDI startup cloud; Cassava National Sovereign Cloud; 21st Century × China Mobile;
   Kasi LOS1 hyperscale; Visa $1bn DC; Equinix LG3; AWS naira; Verraki 400MW-by-2030. +10 sources.
+
+## 2026-07-19 — ingest(NGA) chunk 5: Data protection / NDPC enforcement
+
+- **10 admitted, 1 pruned** (DKIPPI MoU — TikTok/Truecaller payload already in the probes clip).
+  Renamed remita clip 04-05→04-07 (published = press-release date).
+- **Intersection expanded:** [[nigeria--gov-protect]] +"NDPC enforcement — the sector-by-sector
+  crackdown" — compliance 4%→55%; sweeps (1,369 orgs, 1,000+ schools); probes (TikTok/Truecaller,
+  Temu 12.7m, Remita/Sterling); capacity (₦400m fines, 23k jobs, 250k DPOs/yr Mastercard, Virtual
+  Privacy Academy); CBPR Forum, NCC MoU, 4,000 attacks/wk. +10 sources, +capacity.training/infra.cybersec.

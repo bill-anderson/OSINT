@@ -11,6 +11,7 @@ topics: [gov.protect, infra.cybersec]
 entities: [[ndpc], [remita], [sterling-bank]]
 lens: []
 retrieved: 2026-07-17
+body_completeness: excerpt
 sweep_batch: NGA-2026-07-17
 ---
 
