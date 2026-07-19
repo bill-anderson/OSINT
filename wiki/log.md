@@ -7691,3 +7691,7 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
 ## 2026-07-19 ingest(ZAF) chunk 6 — Data protection, POPIA enforcement & cyber (12 sources)
 - Extended south-africa--gov-protect: POPIA enforcement awakening — machinery (mandatory e-portal breach reporting; POPIA regs amendments; CPA opt-out registry to NCC); first real enforcement notices (POPIA vs Central Johannesburg TVET College; landmark PAIA vs Sibanye-Stillwater; misdirected-email as reportable breach); the accountability gap (2,374 notifications FY24/25 / 788 Q1 / +40%; R10m max fine vs R44.1m IBM breach cost); state exposure (Stats SA ransomware 453k files; cyber elevated to counter-intelligence priority).
 - Created entities statistics-south-africa, sibanye-stillwater. Dropped mention-only [[state-security-agency]], [[national-consumer-commission]] from clip frontmatter. 0 prunes. Dead-link NONE.
+
+## 2026-07-19 ingest(ZAF) chunk 7 — National AI policy (4 sources)
+- Extended south-africa--tech-ai: the AI-policy debacle arc (Feb-2026 timeline → April withdrawal for AI-hallucinated "fictitious sources" → May expert panel → delayed to 2027). Read: a state drafting rules for AI caught using AI to draft them without human verification.
+- Mapped clip alias [[department-of-communications-and-digital-technologies]]→[[dcdt-south-africa]]. 0 prunes. Dead-link NONE.

@@ -258,8 +258,9 @@ linked source pages, the entity pages and the six [[south-africa--dpi-id|interse
   R44.1m breach cost); the **[[statistics-south-africa|Stats SA]] ransomware** breach; DHA's "low" cyber
   maturity. Full case: [[south-africa--gov-protect]].
 - [[tech.ai]] · [[geopol.china]] — AI-workload data centres; low SME AI adoption; the **US–China
-  AI-market contest** ([[deepseek]] vs Microsoft/Nvidia/Cassava). Full case:
-  [[south-africa--tech-ai]].
+  AI-market contest** ([[deepseek]] vs Microsoft/Nvidia/Cassava); the **National AI Policy debacle**
+  (timeline Feb → withdrawn April for AI-hallucinated citations → expert panel → delayed to 2027). Full
+  case: [[south-africa--tech-ai]].
 - [[dpi.pay]] · [[gov.legislate]] — **NPS reform**: non-bank PSPs from 2026 (activity-based
   licensing, [[sarb]]); **[[payshap]]** becoming a **national utility** ([[payinc|PayInc]], SARB 50% stake;
   R403bn/461m txns) but hobbled by bank-ownership fees; the **QR+** interoperable standard; **payments-first,
