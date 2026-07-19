@@ -6,7 +6,7 @@ parent: XSA
 place_kind: country
 topics: [infra.connect, infra.cybersec, dpi.id, dpi.pay, dpi.exchange, dpi.govtech, capacity.training, gov.policy, gov.regional, finance.new, include.divides, data.open, gov.standards, geopol.china, dpi.registry, gov.protect, geopol.usa, dpi.mis, finance.mou, include.access, digital.rural, gov.legislate, tech.ai, digital.localgov, data.statistics]
 status: active
-last_reviewed: 2026-07-17
+last_reviewed: 2026-07-19
 ---
 
 # Zambia (ZMB)
@@ -38,6 +38,13 @@ The third is **evidentiary**: the headline numbers disagree. Penetration spans *
   [[2026-06-17 Zambia's govt leans towards open-source]].
 - **2026-06-08** — **China** digital-cooperation talks on existing [[huawei]]/[[zte]] investments; intent
   only, no new deal. Source: [[2026-06-08 Zambia, China deepen digital ties]].
+- **2026-06-08** — **Huawei "sovereign AI" MoU.** SMART Zambia and **[[huawei]]** signed an MoU
+  (**[[national-ai-data-centre-zambia]]**) at the 2026 Zambia Mobile Congress: **AI infrastructure, sovereign
+  cloud, DPI for 25 ministries, a co-invested national data centre** (critical data in-country), and **~5,000
+  youth** trained via the Huawei Global Academy (VP Nalumango). **The sovereignty paradox** — a "sovereign"
+  AI/cloud build delivered by the Chinese vendor that built the earlier Zambia National Data Centre
+  (colonialism lens). Source: [[2026-06-08-zambia-huawei-ai-sovereignty-partnership]]. See [[infra.store]],
+  [[tech.ai]], [[geopol.china]].
 - **2026-04-04** — **Chinese surveillance.** An IDS survey lists **Lusaka** among Chinese-supplied
   ([[hikvision]]/[[zte]]/[[huawei]]) smart-city deployments — mass surveillance **despite no terrorism
   threat** and **without adequate legal oversight**. Source:

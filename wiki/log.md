@@ -7722,3 +7722,16 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
 ## 2026-07-19 ingest(ZMB) chunk 4 — Connectivity & rural access (8 sources)
 - Created zambia--infra-connect: backbone growth (fibre 15k→45k km, 94% coverage, K255m QoS approval at DERT III, ZICTA quarterly reports); GovLink government-owned 4G (Ndola launch, health flagship — Care 2.0/SmartCare Pro 2,000+, Copperbelt model); Starlink for the rural last mile (Moomba Chiefdom); UASF rural projects (Copperbelt/NW/Muchinga); ZICTA "visible action" over poor QoS that gates social cash transfers/FISP. Read: GovLink sovereignty vs Starlink last-mile dependency; coverage-vs-lived-service gap.
 - Created entity airtel-zambia. GovLink 2-outlet clips kept as complementary (TechAfrica: partners/Copperbelt; ITWeb: Lishimpi/telemedicine) per lint #7. News Diggers clips lede-only. 0 prunes. Dead-link NONE.
+
+## 2026-07-19 ingest(ZMB) chunk 5 — Cyber law, surveillance & AI (6 sources)
+- Created zambia--infra-cybersec: the 2025 Cyber Security Act No. 3 + Cyber Crimes Act No. 4 (interception mandate/Central Monitoring Centre) in four framings — US Embassy surveillance alert; LAZ legal challenge; opposition (Makebi Zulu/NRPUP) repeal pledge; ZCSA's protective journalist outreach — all sharpened by the 13 Aug 2026 election; + the parliamentary AI-regulation motion. Read: sovereignty-for-citizens-or-over-them, dispute recorded not resolved.
+- Hub Recent-development: SMART Zambia–Huawei "sovereign AI" MoU (national AI data centre, sovereign cloud, 25 ministries, 5,000 trainees) — the sovereignty-via-Chinese-vendor paradox (colonialism lens).
+- Created entities cyber-security-act-zambia, zambia-cyber-security-agency, national-ai-data-centre-zambia, parliament-of-zambia. News Diggers/Lusaka Times clips lede-only. 0 prunes. Dead-link NONE.
+
+## 2026-07-19 ingest(ZMB) — batch summary
+- 27 clips drained from new/ (new/ = 0): all 27 admitted to raw/. 0 prunes (GovLink 2-outlet pair kept complementary per lint #7), 0 discards, 0 leads.
+- 3 intersections created (zambia--dpi-govtech, --infra-connect, --infra-cybersec); 2 extended (zambia--dpi-id, --dpi-pay).
+- Entities created (~16): office-of-the-data-protection-commissioner-zambia, electoral-commission-of-zambia, zamportal, zampay, lusaka-city-council, ministry-of-health-zambia, zoyk, dot-com-zambia, ministry-of-finance-zambia, ministry-of-technology-and-science-zambia, airtel-zambia, cyber-security-act-zambia, zambia-cyber-security-agency, national-ai-data-centre-zambia, parliament-of-zambia. Mapped [[digital-zambia-acceleration-project]]→[[dzap]].
+- Paywalled News Diggers + nav-only Lusaka Times items stamped lede-only (honest currency). Bumped hub last_reviewed 2026-07-19.
+- 0 contradictions/gaps/issues filed (existing ZMB open contradictions — internet-penetration, inris-enrolment, digital-id-target — and GAP-ZMB-003 remain).
+- Through-line reinforced: an unusually explicit vendor-independence/sovereignty agenda (in-house SZI govtech, GovLink govt-owned 4G, MOSIP open-standards ID, local fintechs) running on thin connectivity + near-absent civil registration + foreign scaffolding — and now the sovereignty double-edge: a Huawei-built "sovereign" AI data centre and a surveillance-enabling cyber-law regime bedding in before the 13 Aug 2026 election.
