@@ -7246,3 +7246,25 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
   Treasury May-2026), why-exposed analysis, free-internet cyber risk + national-cyber-agency calls,
   armed-forces AI/cyberdefence doctrine, Finland cooperation (Global Gateway). +4 sources.
 - Added both to hub Intersections list.
+
+## 2026-07-19 — ingest(SEN) chunk 6: E-gov, interoperability & innovation ecosystem
+
+- **14 admitted, 3 pruned** (id-card/passport demand surge — thin; Orange-backs-New-Deal — thin
+  meeting; état-civil 66% — relevant-dup of held ANEC item).
+- **Created:** [[senegal--dpi-govtech]] — National Interoperability Platform (JICA, COCOOR, "Once
+  Only", phase-1 end-2025), National Digital Council (CNN, 20 experts, Oct 2025), ARTP's eight
+  platforms (SUNUCARTO…), NINEA business registry, Smart Africa Francophone data-governance workshop,
+  OPTIC-Mauritania + UNDP MoUs.
+- **Created:** [[senegal--tech-innovate]] — Startup Act implementing decree (Law 2020-01), DER/FJ×
+  Sonatel (Bambey hub), France-Senegal cooperation, Digital Schools (Sonatel Foundation).
+- **[[senegal--gov-policy]]** +PAENS/World Bank financing (SIGIF, sovereign gov cloud, CFA95.05bn).
+- **[[senegal--tech-ai]]** +media-regulator bill.
+- Added both new intersections to hub; hub last_reviewed → 2026-07-19. **new/ drained to 0 — SEN batch complete.**
+
+### SEN batch summary (chunks 1-6)
+- Full 71-clip drain (2-pass sweep: Q1-2025 pilot + completion pass) across 6 thematic chunks; standard
+  dedup against an already-rich hub (17 pruned as duplicates/thin/inadmissible).
+- New intersections (8): senegal--gov-policy, --infra-connect, --infra-store, --tech-ai, --infra-cybersec,
+  --dpi-govtech, --tech-innovate; expanded senegal--dpi-pay. New entities: sonatel, artp-senegal.
+- Le Soleil French national-primaries supplied the New Deal's hard financing/KPI/governance detail the
+  hub lacked. All pilot-pass summaries staged body_completeness: excerpt; 4 partial-body items flagged.

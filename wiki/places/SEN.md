@@ -6,7 +6,7 @@ parent: XWA
 place_kind: country
 topics: [gov.policy, infra.connect, infra.store, dpi.id, dpi.registry, dpi.govtech, dpi.pay, dpi.exchange, dpi.mis, gov.protect, gov.legislate, infra.cybersec, include.access, tech.ai, capacity.research, geopol.usa, geopol.eu, digital.rural, include.divides, data.satellite, finance.new, finance.mou, gov.regional, gov.standards]
 status: active
-last_reviewed: 2026-07-16
+last_reviewed: 2026-07-19
 ---
 
 # Senegal (SEN)
@@ -193,6 +193,8 @@ last_reviewed: 2026-07-16
 - [[senegal--infra-store]] — data centres & sovereign cloud: PAIX, SENUM-Sonatel, and the US(Google/AWS)–China(Huawei/Alibaba) sovereign-cloud contest.
 - [[senegal--tech-ai]] — AI strategy, AI4D labs, the data/AI blueprint, and global AI-governance diplomacy.
 - [[senegal--infra-cybersec]] — the state-breach wave (DGID/DAF/Treasury), free-internet cyber risk, Finland cooperation.
+- [[senegal--dpi-govtech]] — e-gov & interoperability: the National Interoperability Platform, CNN, ARTP's eight platforms, NINEA.
+- [[senegal--tech-innovate]] — Startup Act, DER/FJ entrepreneurship engine, digital-skills education.
 - [[senegal--gov-policy]] — the New Deal Technologique: pillars, 1,105bn-FCFA financing, 2034 KPIs, GouvNum, e-Senegal.
 - [[senegal--dpi-id]] — digital identity & CRVS: the Feb 2026 national-ID breach, ECOWAS voter ID, and the
   ANEC/Nékkal civil-registration modernisation.

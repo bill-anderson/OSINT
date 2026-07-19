@@ -9,7 +9,7 @@ entities: [[new-deal-technologique], [senegal-numerique]]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-19
-sources: [[2025-02-15-new-deal-stakes-and-challenges], [2025-02-24-new-deal-launch-live-coverage], [2025-02-24-new-deal-council-members], [2025-02-24-new-deal-1105-billion-investment], [2025-02-24-new-deal-2034-indicators], [2025-02-24-sall-interview-digital-society], [2025-03-02-senum-explains-new-deal-concepts], [2026-03-19-lesoleil-new-deal-un-an-apres], [2026-03-24-lesoleil-sonko-projets-structurants], [2026-03-27-biometricupdate-e-senegal-portal]]
+sources: [[2026-02-17-wearetech-world-bank-paens], [2025-02-15-new-deal-stakes-and-challenges], [2025-02-24-new-deal-launch-live-coverage], [2025-02-24-new-deal-council-members], [2025-02-24-new-deal-1105-billion-investment], [2025-02-24-new-deal-2034-indicators], [2025-02-24-sall-interview-digital-society], [2025-03-02-senum-explains-new-deal-concepts], [2026-03-19-lesoleil-new-deal-un-an-apres], [2026-03-24-lesoleil-sonko-projets-structurants], [2026-03-27-biometricupdate-e-senegal-portal]]
 ---
 
 # Senegal × The New Deal Technologique
@@ -42,6 +42,12 @@ and a **155bn FCFA gap** still to be financed. Source: [[2025-02-24-new-deal-110
 **95% internet connectivity** at low cost; **5,000 certified digital experts trained per year**;
 **150,000 direct + 200,000 indirect jobs**; and a **15% contribution to GDP**. Source:
 [[2025-02-24-new-deal-2034-indicators]].
+
+**PAENS / World Bank (2026).** The **Digital Economy Acceleration Project (PAENS)** was aligned to the 2026
+agenda: an integrated public financial-management system (**SIGIF**), a **sovereign government cloud**,
+cybersecurity and AI use cases, plus a white-zones connectivity tender (groundnut basin, Lower Casamance).
+The 2026 digital budget is **CFA81.06bn (+38.7%)**, ~60% investment; the **World Bank committed CFA95.05bn**.
+Source: [[2026-02-17-wearetech-world-bank-paens]].
 
 ## The launch and its framing (Feb 2025)
 

@@ -9,7 +9,7 @@ entities: [[new-deal-technologique], [smart-africa]]
 lens: [sovereignty, colonialism]
 status: active
 last_reviewed: 2026-07-19
-sources: [[2025-01-31-alive-dicentre4ai-ai-labs], [2025-02-04-ai-strategy-for-senegal], [2025-03-19-ai-as-public-good-regulation], [2026-07-06-wearetech-data-ai-governance-blueprint], [2026-07-08-lesoleil-ia-cooperation-mondiale], [2026-07-06-seneweb-programme-employabilite-non-voyants]]
+sources: [[2025-01-24-draft-law-media-regulator], [2025-01-31-alive-dicentre4ai-ai-labs], [2025-02-04-ai-strategy-for-senegal], [2025-03-19-ai-as-public-good-regulation], [2026-07-06-wearetech-data-ai-governance-blueprint], [2026-07-08-lesoleil-ia-cooperation-mondiale], [2026-07-06-seneweb-programme-employabilite-non-voyants]]
 ---
 
 # Senegal × AI
@@ -28,6 +28,10 @@ capacity-building** — while standing up research labs and a data/AI use-case b
   Benin, Côte d'Ivoire, Mauritania) and Senegalese digital-rights org **Jonction**, seven experts
   drafted Senegal's recommendations for **inclusive AI governance** — algorithmic influence on public
   opinion as the core concern. See [[gov.protect]]. Source: [[2025-03-19-ai-as-public-good-regulation]].
+- **Media-regulator bill (Jan 2025).** With the CNRA, the ministry unveiled a draft law creating an
+  independent **media regulatory authority** covering digital platforms and social networks — motivated
+  partly by AI-driven **misinformation/hate speech**. See [[gov.legislate]]. Source:
+  [[2025-01-24-draft-law-media-regulator]].
 
 ## Research capacity
 
