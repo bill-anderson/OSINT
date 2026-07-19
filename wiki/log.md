@@ -6704,3 +6704,21 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
   figures + PS Msusa quote) kept as **complementary** (same Mount Soche consultation, distinct payloads).
 - Sources: 2026-07-16 registration compliance (malawi24), 2026-07-14 fee consultation (itweb), 2026-03-26 World
   Bank cyber/DPA support (techafricanews).
+
+## 2026-07-19 — ingest(MWI) chunk 3/7: E-gov, data exchange & digitalisation
+
+- **6 sources admitted, 0 leads, 0 discards.**
+- **Intersection created:** [[malawi--dpi-govtech]] — the e-government build-out vs implementation gap: Boma
+  Lathu + Government Data Sharing Regulation, MANePS mandatory e-procurement, ESB/passport-saga/2025 woes,
+  National Single Window + e-Payment Gateway, first Local Authorities ICT policy, proposed $180m Huawei plan.
+- **Entity created:** [[ppda-malawi]] (government-body — runs MANePS).
+- **Entities updated:** [[malawi-ministry-of-ict]] (+e-gov build-out: data-sharing regulation, Huawei $180m,
+  local-gov ICT policy, ICTAM enforcement push; +4 sources).
+- **MWI hub:** +2 Recent-developments entries (data-exchange regulation + Huawei $180m 2026-06-11; MANePS
+  2026-04-01); dpi.govtech/dpi.exchange Active-topics line → intersection; +geopol.china topic; +ppda-malawi
+  + malawi--dpi-govtech to Entities.
+- **Concepts:** [[dpi.exchange]] +MWI Government-Data-Sharing-Regulation bullet; [[geopol.china]] +MWI +Huawei
+  $180m bullet (+places).
+- Sources: 2026-06-11 data-sharing regulation (itweb), 2026-06-09 Huawei $180m (malawi24), 2026-04-01 MANePS
+  (malawi24), 2026-01-27 policy enforcement (times), 2026-01-13 implementation woes (times), 2026-05-20 local
+  authorities ICT policy (malawi24).

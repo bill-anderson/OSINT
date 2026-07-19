@@ -5,8 +5,8 @@ title: Malawi Ministry of Information and Communications Technology
 places: [MWI]
 topics: [gov.policy, dpi.govtech, tech.ai, gov.protect]
 status: active
-last_reviewed: 2026-07-11
-sources: [[2026-02-20 Malawi validates AI strategy, digital transformation policy - CAJ News Africa], [2026-01-28 Malawi positions data privacy as cornerstone of digital development]]
+last_reviewed: 2026-07-19
+sources: [[2026-02-20 Malawi validates AI strategy, digital transformation policy - CAJ News Africa], [2026-01-28 Malawi positions data privacy as cornerstone of digital development], [2026-06-11-government-data-sharing-regulation-boma-lathu-itweb], [2026-06-09-huawei-180m-ict-investment-plan-malawi24], [2026-01-27-ict-sector-eyes-policy-enforcement-times], [2026-05-20-local-authorities-ict-policy-dowa-malawi24]]
 ---
 
 # Malawi Ministry of Information and Communications Technology
@@ -32,6 +32,16 @@ the Malawi 2063 development vision and the National Digitisation Policy.
   service delivery and data systems, aligned to Malawi 2063. Tags [[tech.ai]], [[dpi.govtech]],
   [[gov.policy]]. Source:
   [[2026-02-20 Malawi validates AI strategy, digital transformation policy - CAJ News Africa]].
+- **E-government build-out (2026).** The ministry (via the Department of E-Government) advanced the operational
+  layer: a proposed **Government Data Sharing Regulation** for the **Boma Lathu** National Data Exchange Platform
+  (encryption, common standard, binding Data Sharing Agreements, audit trails via the National Data Centre); a
+  proposed **US$180m [[huawei]]** four-year plan (one-stop government portal + 28-district network); and a first
+  **Local Authorities ICT policy**. ICTAM pressed the department to make the Digitalisation Policy a "lived
+  reality." Full picture: **[[malawi--dpi-govtech]]**. Sources:
+  [[2026-06-11-government-data-sharing-regulation-boma-lathu-itweb]],
+  [[2026-06-09-huawei-180m-ict-investment-plan-malawi24]],
+  [[2026-05-20-local-authorities-ict-policy-dowa-malawi24]],
+  [[2026-01-27-ict-sector-eyes-policy-enforcement-times]].
 - **Presidential push.** President Mutharika ordered accelerated digitalisation of public
   services (Feb 2026), reinforcing the ministry's mandate. ⚠ Sourced from prompt context; not
   detailed in the ingested sources above — confirm against a primary release before citing.

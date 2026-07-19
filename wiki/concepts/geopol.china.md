@@ -2,11 +2,11 @@
 type: concept
 title: China activities
 slug: geopol.china
-places: [BEN, AGO, XAF, XGL, NAM, ZAF, NGA, KEN, EGY, ZMB, SEN, ZWE, MOZ, DZA, UGA, RWA, GHA, GAB, SSD, ETH]
+places: [BEN, AGO, XAF, XGL, NAM, ZAF, NGA, KEN, EGY, ZMB, SEN, ZWE, MOZ, DZA, UGA, RWA, GHA, GAB, SSD, ETH, MWI]
 entities: [[us-dfc], [huawei], [china-namibia-smart-city], [nucap], [ncc], [bosun-tijani], [zte], [hikvision], [ghana-national-ai-strategy], [kashifu-inuwa], [deepseek], [gabon-huawei-mou], [kenya-school-of-government]]
 lens: [sovereignty, colonialism]
 status: active
-last_reviewed: 2026-07-12
+last_reviewed: 2026-07-19
 sources: [[2026-06-23 Africa's Data Centre Boom Where The New Facilities Are Being Built], [2026-06-17 Priced out of the future Confronting the rising cost of AI in Africa], [2026-07-08 China funds Namibia digital infrastructure], [2026-06-08 Zambia, China deepen digital ties], [2026-06-11 The Case Against the EU's Tech Sovereignty Package], [2025-01-01 South African Digital Sovereignty at the Crossroad of Securitization and Development (Chapter 4) - Digital Sovereignty in the BRICS Countries], [2026-06-04 Chinese bank backs Nigeria towers project], [2026-05-21 Pushing back from Big Tech Africa's hard road to AI sovereignty], [2026-04-04 Chinese surveillance rolled out in Africa ZTE, Hikvision, Huawei at the helm], [2026-03-05 Ghana strikes AI training deal with Chinese multinational amid $250m tech investment push], [2026-04-02 Nations priced out of Big AI are building with frugal models], [2026-04-14 Nigeria Seeks Stronger Digital Sovereignty, National Software Infrastructure], [2026-03-01 Smart City Surveillance in Africa (IDS 2026)], [2026-03-12 China's DeepSeek gives US tech giants a run for their money as Microsoft and others expand AI push in Africa], [2026-01-05 Gabon and Huawei Forge Partnership to Boost National Digital Transformation], [2026-02-09 Huawei reconnects with South Sudan], [2026-02-13 Namibia gets  Chinese satellite ground station], [2026-04-20 117 - Payments Follow Trade]]
 # Source-linkage: the BRICS chapter notes China's Global Initiative on Data Security, the
 # TCP/IP-redesign proposal, and African reliance on Chinese networking kit as a standards
@@ -20,6 +20,12 @@ financing and the global AI-capacity race.
 
 ## Key material
 
+- **[[MWI]] Malawi — a proposed US$180m Huawei ICT plan (2026-06).** ICT Minister Namalomba presented, in China,
+  a four-year **US$180m [[huawei]]** roadmap: a **one-stop digital-government portal** (passports, business
+  registration, tax) and a **28-district high-speed ring-protected network** to power the Boma Lathu platform —
+  extending Huawei's role beyond the TNM 5G rollout it already backs. Funding terms undisclosed; a China-finance
+  dependency at the core of Malawi's e-government stack. See [[malawi--dpi-govtech]], [[infra.connect]],
+  [[finance.new]]. Source: [[2026-06-09-huawei-180m-ict-investment-plan-malawi24]].
 - **DFC framed against China (2026-06, TechTrends).** The US DFC's **$300m** backing of
   Africa Data Centres ([[cassava-technologies]]) is framed *explicitly* "as a
   counterweight to Chinese infrastructure financing on the continent" — the clearest
@@ -130,7 +136,7 @@ financing and the global AI-capacity race.
 ## Places
 
 [[XAF]] · [[XGL]] · [[NAM]] · [[NGA]] · [[KEN]] · [[EGY]] · [[ZMB]] · [[SEN]] · [[ZWE]] ·
-[[MOZ]] · [[DZA]] · [[UGA]] · [[RWA]] · [[GHA]] · [[GAB]] · [[SSD]] · [[ETH]]
+[[MOZ]] · [[DZA]] · [[UGA]] · [[RWA]] · [[GHA]] · [[GAB]] · [[SSD]] · [[ETH]] · [[MWI]]
 
 ## Related
 

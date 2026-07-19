@@ -4,7 +4,7 @@ title: Malawi
 code: MWI
 parent: XSA
 place_kind: country
-topics: [dpi.govtech, dpi.exchange, dpi.id, infra.store, gov.protect, finance.new, dpi.mis, data.statistics, gov.policy, capacity.training, gov.standards, capacity.research, tech.ai, include.access, digital.localgov, dpi.pay, infra.cybersec, gov.legislate]
+topics: [dpi.govtech, dpi.exchange, dpi.id, infra.store, gov.protect, finance.new, dpi.mis, data.statistics, gov.policy, capacity.training, gov.standards, capacity.research, tech.ai, include.access, digital.localgov, dpi.pay, infra.cybersec, gov.legislate, geopol.china]
 status: active
 last_reviewed: 2026-07-19
 ---
@@ -39,6 +39,14 @@ last_reviewed: 2026-07-19
   study (weighted by bytes) put Malawi at the bottom of 12 measured countries — **3% local** — but **62%
   regional**, served largely from South Africa, keeping most traffic on-continent. Underlines the case for
   local hosting/CDNs and IXPs. [[2026-06-09 Beyond the Homepage Measuring What It Really Takes to Keep Web Traffic Local]] · [[infra.store]] · [[infra.connect]]
+- **2026-06-11** — **Binding rules for the data-exchange platform; proposed $180m Huawei plan.** A **Government
+  Data Sharing Regulation** would put operational safeguards on the **Boma Lathu** National Data Exchange
+  Platform (requests routed via the National Data Centre; encryption; binding Data Sharing Agreements + audit
+  trails) — the "missing piece" over the DPA 2024. In parallel, ICT Minister Namalomba presented a four-year
+  **US$180m [[huawei]]** plan (one-stop gov portal + 28-district ring-protected network) in China. Full picture:
+  **[[malawi--dpi-govtech]]**. Sources: [[2026-06-11-government-data-sharing-regulation-boma-lathu-itweb]],
+  [[2026-06-09-huawei-180m-ict-investment-plan-malawi24]]. See [[dpi.exchange]], [[geopol.china]],
+  [[infra.store]].
 - **2026-06-03** — **[[malawi-revenue-authority]]**'s **Electronic Invoicing System
   (EIS)** now generates **>$1.2m/day** in tax revenue; **May collections exceeded
   ~$28m**. About **7,500 of ~9,000 registered VAT operators** have migrated. The EIS
@@ -63,6 +71,11 @@ last_reviewed: 2026-07-19
   e-invoicing drive, sitting within the **[[dmap]]**. Source:
   [[2026-03-06 Malawi's second city digitises tax collection]]. See [[digital.localgov]],
   [[dpi.pay]], [[dpi.govtech]].
+- **2026-04-01** — **E-procurement goes mandatory (MANePS).** The **[[ppda-malawi|PPDA]]** made the **Malawi
+  National Electronic Procurement System (MANePS)** mandatory for all public entities (March-2026 directive) —
+  "we are no longer going to use paper" — advancing earlier World Bank eGP work. Source:
+  [[2026-04-01-ppda-mandatory-e-procurement-maneps-malawi24]]. See [[dpi.govtech]], [[gov.policy]],
+  [[malawi--dpi-govtech]].
 - **2026-02-20** — **AI + digital-transformation strategies enter validation.** Malawi
   opened a two-day validation workshop (Lilongwe) for a **Draft National Digital
   Transformation Strategy** and a **Draft National AI Strategy**, and launched a "Shape
@@ -157,8 +170,10 @@ last_reviewed: 2026-07-19
 
 ## Active topics
 
-- [[dpi.govtech]] · [[dpi.exchange]] — Bomalathu single portal; cross-MDA interoperability;
-  Mutharika's "digital revolution" directive to move all MDA services online.
+- [[dpi.govtech]] · [[dpi.exchange]] · [[geopol.china]] — Bomalathu single portal + **Government Data Sharing
+  Regulation**; **MANePS** mandatory e-procurement ([[ppda-malawi]]); ESB interoperability push; National Single
+  Window; proposed **$180m [[huawei]]** plan; first Local Authorities ICT policy; the 2025 implementation-gap
+  story — **[[malawi--dpi-govtech]]**.
 - [[gov.policy]] · [[tech.ai]] — Draft National Digital Transformation + AI Strategies in
   validation ([[malawi-ministry-of-ict]] / [[undp]]); Malawi 2063 alignment.
 - [[gov.protect]] · [[infra.cybersec]] — data privacy as cornerstone; "Privacy by Design"; the
@@ -180,8 +195,9 @@ last_reviewed: 2026-07-19
 
 ## Entities
 
-- [[dmap]] · [[world-bank]] · [[malawi-revenue-authority]] · [[blantyre-city-council]]
+- [[dmap]] · [[world-bank]] · [[malawi-revenue-authority]] · [[blantyre-city-council]] · [[ppda-malawi]]
 - [[malawi-ministry-of-ict]] · [[undp]] · [[malawi-data-protection-act-2024]]
+- Intersections: [[malawi--dpi-id]] · [[malawi--dpi-govtech]]
 - [[national-registration-bureau-malawi]] (PS Patrick Machika) · [[idt4m]] · [[macra-malawi]]
 - [[reserve-bank-of-malawi]] · [[malawi-electoral-commission]] · [[comesa]] · [[ictam]]
 - [[hmis-malawi-livingstonia]] · [[dhis2]] · [[his-developing-countries-review]]

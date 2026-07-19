@@ -12,6 +12,7 @@ entities: []
 lens: []
 retrieved: 2026-07-17
 sweep_batch: MWI-2026-07-17
+body_completeness: excerpt
 ---
 
 # PPDA rolls out mandatory E-Procurement system

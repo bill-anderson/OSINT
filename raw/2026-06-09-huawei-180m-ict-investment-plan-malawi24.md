@@ -12,6 +12,7 @@ entities: [[malawi-ministry-of-ict], [huawei]]
 lens: [sovereignty]
 retrieved: 2026-07-17
 sweep_batch: MWI-2026-07-17
+body_completeness: excerpt
 ---
 
 # Malawi eyes wider digital access in $180m Huawei ICT deal

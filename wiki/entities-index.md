@@ -552,6 +552,7 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 | DGI Gabon (Direction Générale des Impôts) | GAB | dpi.pay, dpi.govtech | [[dgi-gabon]] |
 | Personal Data Protection Commission (PDPC, Tanzania) | TZA | gov.protect, gov.legislate, capacity.training | [[pdpc-tanzania]] |
 | National Registration Bureau (Malawi) | MWI | dpi.id, dpi.registry, dpi.govtech, gov.legislate | [[national-registration-bureau-malawi]] |
+| PPDA (Public Procurement & Disposal of Assets Authority) — Malawi | MWI | dpi.govtech, gov.policy, dpi.pay | [[ppda-malawi]] |
 | ANEC (National Civil Registration Agency, Senegal) | SEN | dpi.registry, dpi.id, dpi.govtech | [[anec-senegal]] |
 | Department of Communications and Digital Technologies (DCDT, South Africa) | ZAF | dpi.govtech, gov.policy, include.divides, gov.legislate | [[dcdt-south-africa]] |
 | State Information Technology Agency (SITA) | ZAF | dpi.govtech, gov.policy, tech.industry | [[sita]] |

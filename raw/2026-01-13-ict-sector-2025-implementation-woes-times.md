@@ -12,6 +12,7 @@ entities: [[malawi-electoral-commission], [macra-malawi], [dmap]]
 lens: []
 retrieved: 2026-07-17
 sweep_batch: MWI-2026-07-17
+body_completeness: excerpt
 ---
 
 # The year ICT sector grappled with implementation woes

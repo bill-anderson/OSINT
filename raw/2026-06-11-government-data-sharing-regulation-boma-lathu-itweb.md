@@ -12,6 +12,7 @@ entities: [[malawi-ministry-of-ict], [malawi-data-protection-act-2024], [dmap], 
 lens: [sovereignty]
 retrieved: 2026-07-17
 sweep_batch: MWI-2026-07-17
+body_completeness: excerpt
 ---
 
 # Malawi devises operational rules for national data exchange platform
