@@ -6756,3 +6756,21 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
 - **entities-index:** +sparc-systems.
 - Sources: 2026-06-06 ICT exports K270bn (malawi24), 2026-05-01 Sparc data centre (malawi24), 2026-03-06 TNM
   3rd DC + VoLTE (itweb).
+
+## 2026-07-19 — ingest(MWI) chunk 6/7: Payments & digital finance
+
+- **6 sources admitted, 0 leads, 0 discards.**
+- **Intersection created:** [[malawi--dpi-pay]] — K37.9tn mobile-money economy stuck in cash-substitution
+  (merchant pay 7.7%); RBM NPS Strategy 2026-2030 (CBDC PoC, ISO 20022); Malswitch/PayChangu aggregation; CFTC
+  interoperability enforcement (TNM Mpamba e-ticketing); Airtel Money × Admarc agri-pay; COMESA cross-border.
+- **Entities created (2):** [[paychangu]] (company/fintech aggregator), [[malswitch]] (national payment switch).
+- **Entities updated:** [[reserve-bank-of-malawi]] (+2025 NPS Report figures, +NPS Strategy 2026-2030; +gov.policy,
+  gov.regional topics; +2 sources).
+- **MWI hub:** +1 Recent-developments entry (payments roadmap 2026-04-16); dpi.pay Active-topics line →
+  intersection; +gov.regional, digital.rural, tech.innovate, finance.mou topics; +paychangu, malswitch + intersection.
+- **Concept:** [[dpi.pay]] +MWI to places (was absent) + a by-place bullet + Places footer.
+- **Dedup note:** the two PayChangu clips (2025-06 Centenary/Malswitch product launch; 2026-04 aggregator
+  profile) kept as complementary.
+- Sources: 2026-04-16 NPS strategy (itweb), 2026-03-30 K38tn NPS report (times), 2026-06-24 Airtel-Admarc
+  (itweb), 2025-07-16 CFTC-Mpamba interop (malawi24), 2025-06-17 PayChangu-Centenary (malawi24), 2026-04-24
+  PayChangu profile (wearetech).

@@ -4,7 +4,7 @@ title: Malawi
 code: MWI
 parent: XSA
 place_kind: country
-topics: [dpi.govtech, dpi.exchange, dpi.id, infra.store, gov.protect, finance.new, dpi.mis, data.statistics, gov.policy, capacity.training, gov.standards, capacity.research, tech.ai, include.access, digital.localgov, dpi.pay, infra.cybersec, gov.legislate, geopol.china, infra.connect, include.divides, tech.industry]
+topics: [dpi.govtech, dpi.exchange, dpi.id, infra.store, gov.protect, finance.new, dpi.mis, data.statistics, gov.policy, capacity.training, gov.standards, capacity.research, tech.ai, include.access, digital.localgov, dpi.pay, infra.cybersec, gov.legislate, geopol.china, infra.connect, include.divides, tech.industry, gov.regional, digital.rural, tech.innovate, finance.mou]
 status: active
 last_reviewed: 2026-07-19
 ---
@@ -100,6 +100,14 @@ last_reviewed: 2026-07-19
   "we are no longer going to use paper" — advancing earlier World Bank eGP work. Source:
   [[2026-04-01-ppda-mandatory-e-procurement-maneps-malawi24]]. See [[dpi.govtech]], [[gov.policy]],
   [[malawi--dpi-govtech]].
+- **2026-04-16** — **Payments: a 2026-2030 roadmap over a K37.9tn but cash-substitution economy.** The
+  **[[reserve-bank-of-malawi|RBM]]** launched an **NPS Vision & Strategy 2026–2030** (cybersecurity, regional
+  integration, a **CBDC PoC by 2030**, ISO 20022). The 2025 NPS Report shows mobile-money value **+94% to
+  K37.9tn** and **19.9m** subs — but **merchant payments only 7.7%** (still cash-substitution). Interoperability
+  is advancing via the **[[malswitch]]** switch + **[[paychangu]]** aggregator and a **CFTC** ruling forcing
+  **[[tnm-malawi|TNM]] Mpamba** to open up; **[[airtel-malawi|Airtel]] Money × Admarc** digitised farmer pay.
+  Full picture: **[[malawi--dpi-pay]]**. Sources: [[2026-04-16-rbm-national-payments-strategy-2026-2030-itweb]],
+  [[2026-03-30-mobile-money-k38tn-2025-nps-report-times]]. See [[dpi.pay]], [[gov.regional]], [[include.access]].
 - **2026-02-20** — **AI + digital-transformation strategies enter validation.** Malawi
   opened a two-day validation workshop (Lilongwe) for a **Draft National Digital
   Transformation Strategy** and a **Draft National AI Strategy**, and launched a "Shape
@@ -215,7 +223,10 @@ last_reviewed: 2026-07-19
   interest; Digital Foundations wholesale-price collapse; DMAP tower rollout (1,000+ needed); 85% of schools
   offline; retail-price petition — **[[malawi--infra-connect]]**.
 - [[dpi.id]] · [[dpi.registry]] — **[[macra-malawi|MACRA]]** biometric SIM registration + National Addressing System; mass birth-registration campaign; **[[malawi-electoral-commission|MEC]]** voter-register access tension.
-- [[dpi.pay]] · [[include.access]] · [[gov.regional]] — **[[reserve-bank-of-malawi|RBM]]** mobile-money economy (>20m subscribers); **[[comesa]]** Malawi–Zambia cross-border rail; FinScope/SIIPS.
+- [[dpi.pay]] · [[include.access]] · [[gov.regional]] · [[digital.rural]] — **[[reserve-bank-of-malawi|RBM]]**
+  mobile-money economy (**K37.9tn**, 19.9m subs; merchant pay only 7.7%); **NPS Strategy 2026–2030** (CBDC PoC,
+  ISO 20022); **[[malswitch]]** switch + **[[paychangu]]** aggregator; CFTC interoperability enforcement; Airtel
+  Money × Admarc agri-pay; **[[comesa]]** cross-border rail — **[[malawi--dpi-pay]]**.
 - [[finance.new]] — World Bank financing via [[dmap]]; Fiscal Governance PforR (e-GP procurement).
 - [[dpi.mis]] · [[data.statistics]] · [[gov.policy]] — MRA Electronic Invoicing System;
   digital domestic-revenue mobilisation.
@@ -226,9 +237,9 @@ last_reviewed: 2026-07-19
 
 - [[dmap]] · [[world-bank]] · [[malawi-revenue-authority]] · [[blantyre-city-council]] · [[ppda-malawi]]
 - [[malawi-ministry-of-ict]] · [[undp]] · [[malawi-data-protection-act-2024]]
-- Intersections: [[malawi--dpi-id]] · [[malawi--dpi-govtech]] · [[malawi--infra-connect]] · [[malawi--infra-store]]
+- Intersections: [[malawi--dpi-id]] · [[malawi--dpi-govtech]] · [[malawi--infra-connect]] · [[malawi--infra-store]] · [[malawi--dpi-pay]]
 - [[national-registration-bureau-malawi]] (PS Patrick Machika) · [[idt4m]] · [[macra-malawi]]
-- [[reserve-bank-of-malawi]] · [[malawi-electoral-commission]] · [[comesa]] · [[ictam]] · [[tnm-malawi]] · [[airtel-malawi]] · [[sparc-systems]]
+- [[reserve-bank-of-malawi]] · [[malawi-electoral-commission]] · [[comesa]] · [[ictam]] · [[tnm-malawi]] · [[airtel-malawi]] · [[sparc-systems]] · [[paychangu]] · [[malswitch]]
 - [[hmis-malawi-livingstonia]] · [[dhis2]] · [[his-developing-countries-review]]
 - Mentioned, not hubbed: Department of E-Government (Prosper Mopiwa); Department of
   Immigration and Citizenship Services (Denis Chipao); Bomalathu platform; Synod of

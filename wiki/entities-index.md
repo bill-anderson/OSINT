@@ -9,6 +9,8 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 | Telekom Networks Malawi (TNM) | MWI | infra.connect, infra.store, dpi.pay | [[tnm-malawi]] |
 | Airtel Malawi Plc | MWI | infra.connect, dpi.pay, include.divides | [[airtel-malawi]] |
 | Sparc Systems Limited | MWI, ZMB, TZA, MOZ, RWA | infra.store, tech.industry, dpi.pay | [[sparc-systems]] |
+| PayChangu | MWI | dpi.pay, tech.innovate, finance.new | [[paychangu]] |
+| Malswitch (national payment switch) | MWI | dpi.pay, infra.store | [[malswitch]] |
 | Laxton | XGL, MDG | dpi.id, dpi.registry | [[laxton]] |
 | Studia Inc | MDG | dpi.registry, tech.ai | [[studia-inc]] |
 | Airtel Madagascar | MDG | infra.connect, dpi.pay | [[airtel-madagascar]] |

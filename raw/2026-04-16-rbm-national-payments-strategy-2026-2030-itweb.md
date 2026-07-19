@@ -12,6 +12,7 @@ entities: [[reserve-bank-of-malawi]]
 lens: []
 retrieved: 2026-07-17
 sweep_batch: MWI-2026-07-17
+body_completeness: excerpt
 ---
 
 # Malawi unveils digital payments roadmap
