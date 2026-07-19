@@ -158,8 +158,11 @@ intersections above.*
   **[[tanzania-digital-economy-framework]]** (2024–2034, [[micit-tanzania]], presidential foreword).
 - [[infra.store]] · [[dpi.exchange]] — [[wingu-africa]]'s Mbezi Tier 3 phase 2 and the WCX platform;
   the Digital Tanzania Project data-centre core; a second-tier DC market on 2031 projections.
-- [[infra.connect]] · [[digital.rural]] — Helios Towers/UCSAF rural sites; [[tspar]]'s IXP extension
-  to Wingu; Starlink live since Nov 2025; East African ([[XEA]]) backbone context.
+- [[infra.connect]] · [[digital.rural]] · [[include.divides]] — **[[nictbb]]** state backbone (200→2,000
+  Gbps; DRC link); **[[ttcl]]**'s **Kilimanjaro One** subsea cable to Mauritius; **[[yas-tanzania|Yas]]**
+  (~4,800 towers, PPP handover of 758 towers) / Airtel / Vodacom; **5G at 32.83% pop but smartphones only
+  42.5% and falling**; Helios Towers/UCSAF rural sites; [[tspar]]'s IXP extension to Wingu; Starlink live
+  since Nov 2025. Full case: **[[tanzania--infra-connect]]**.
 - [[dpi.mis]] · [[data.statistics]] — fragmented HMIS (18 systems), [[dhis2]] >90% of flows since
   2013, heaviest reporting burden of five studied countries; closed-source lock-in and donor power as
   structural constraints.

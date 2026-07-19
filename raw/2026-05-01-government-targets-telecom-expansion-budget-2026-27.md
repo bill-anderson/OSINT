@@ -8,8 +8,9 @@ date_precision: day
 date_source: source
 places: [TZA]
 topics: [infra.connect, gov.policy, infra.store]
-entities: [[ministry-communication-information-technology-tanzania], [tcra]]
+entities: [[micit-tanzania], [tcra]]
 lens: []
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: TZA-2026-07-17
 ---

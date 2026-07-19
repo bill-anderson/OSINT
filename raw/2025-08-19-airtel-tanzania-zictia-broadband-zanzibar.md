@@ -10,6 +10,7 @@ places: [TZA]
 topics: [infra.connect, finance.mou, dpi.pay]
 entities: [[airtel-tanzania], [zictia]]
 lens: []
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: TZA-2026-07-17
 ---

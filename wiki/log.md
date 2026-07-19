@@ -7582,3 +7582,8 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
 - Created entities: vodacom-tanzania, mpesa, nala, paypal. Mapped clip entity [[east-african-community]] → [[eac]].
 - PRUNE (lint #7): 2026-06-25 faida-za-malipo-kidijitali (Mwananchi) is a relevant-duplicate subset of 2026-06-24 The Citizen cash-lite piece (same budget, same sectors, English canonical more complete) — deleted, kept The Citizen.
 - Wired TZA hub dpi.pay bullet → Full case. Dead-link: only forward-ref tanzania--infra-connect (chunk 3).
+
+## 2026-07-19 ingest(TZA) chunk 3 — Connectivity & telecom infrastructure (15 sources)
+- Created wiki/intersections/tanzania--infra-connect.md: NICTBB state backbone (200→2,000 Gbps, DRC link, budgets Sh73bn/Sh222.6bn); TTCL Kilimanjaro One subsea cable to Mauritius; Yas ~4,800 towers + 758-tower PPP handover; TTCL 1m-fibre target; Zanzibar Airtel/Yas-ZICTIA PPPs; Starlink; 5G stats vs falling smartphone base (include.divides); infra-sharing/visual-pollution + "declare telecom critical infrastructure" frictions.
+- Created entities: nictbb, ttcl, yas-tanzania, zictia, airtel-tanzania. Mapped clip entity [[ministry-communication-information-technology-tanzania]] → [[micit-tanzania]]. 0 prunes (budget/5G pairs complementary, folded).
+- Wired TZA hub infra.connect bullet → Full case. Dead-link: only forward-ref tanzania--infra-store (chunk 4).
