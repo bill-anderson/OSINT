@@ -7038,3 +7038,14 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
   localisation + beneficial-owners circular, ISO/geo-tag/AML/AI-fraud/TIRMS, DEON lending, crypto
   formalisation (ISA 2025 / NTAA-CARF / illicit-wallet freezes / 7.5% VAT), NRBVN diaspora, Onafriq-PAPSS
   naira→Ghana, Visa-Moniepoint, Paystack. +22 sources.
+
+## 2026-07-19 — ingest(NGA) chunk 3: Connectivity & telecom
+
+- **22 admitted, 44 pruned.** Heavy same-event multi-outlet clusters collapsed hard (tariff hike 10→1+context,
+  7,000 towers 6→1, 90,000km/BRIDGE/WIOCC/EU ~9→3, subscriptions 5→1, submarine-summit 3→0, LEO/Eutelsat 3→1,
+  1M-terabytes 2→0, MainOne/Equiano 3→0).
+- **Intersection created:** [[nigeria--infra-connect]] — tariff reset (+50%, first in 11yrs; $11.3bn foregone);
+  Project BRIDGE/D-VIBE ($2bn, 90,000km, 774 LGAs, $800m WB+AfDB+EBRD+EU, 49% SPV stake); 188m subs/55.67%
+  broadband; 19,384 fibre cuts; 23% rural divide; Starlink surge (2nd ISP, congestion, biometric-SIM regime) +
+  Kuiper/NigComSat-Eutelsat LEO race; MTN 400G/800G + IHS review + 8m homes; IXPN 1Tbps; IFC-Airtel $150m;
+  Eq-Guinea subsea. +22 sources. Added to hub Intersections line.
