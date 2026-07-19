@@ -12,6 +12,7 @@ entities: [[bank-of-namibia], [namibia-payment-system-management-act-2023]]
 lens: []
 retrieved: 2026-07-17
 sweep_batch: NAM-2026-07-17
+body_completeness: excerpt
 ---
 
 # Bank of Namibia, IPN and NamClear Sign Pact to Strengthen Instant Payments

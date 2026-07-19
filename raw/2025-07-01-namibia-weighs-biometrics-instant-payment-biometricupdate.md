@@ -12,6 +12,7 @@ entities: [[bank-of-namibia], [namibia-digital-id], [namibia-civil-registration-
 lens: [sovereignty]
 retrieved: 2026-07-17
 sweep_batch: NAM-2026-07-17
+body_completeness: excerpt
 ---
 
 # Namibia weighs biometrics options for foundation of instant payment system

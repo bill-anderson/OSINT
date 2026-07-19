@@ -12,6 +12,7 @@ entities: [[emma-theofelus], [netumbo-nandi-ndaitwah], [paratus], [mtc-namibia]]
 lens: [sovereignty]
 retrieved: 2026-07-17
 sweep_batch: NAM-2026-07-17
+body_completeness: excerpt
 ---
 
 # Namibia expedites data centre, smart city development

@@ -12,6 +12,7 @@ entities: [[equiano-cable]]
 lens: [sovereignty]
 retrieved: 2026-07-17
 sweep_batch: NAM-2026-07-17
+body_completeness: excerpt
 ---
 
 # Grounding the cloud in Namibia (analysis)

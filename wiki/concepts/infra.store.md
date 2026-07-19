@@ -31,6 +31,16 @@ hosted on the continent at all.
   [[2025-07-16-hyperscale-data-hub-data-centres-telecomreviewafrica]],
   [[2025-12-31-rose-belle-tier-iv-data-centre-national-strategy-lexpress]],
   [[2026-04-03-tech-trends-data-sovereignty-lexpress]].
+- **[[NAM]] Namibia — a sovereign data centre and a green-AI-host pitch (2025-2026).** Cabinet directed a
+  concept note for a **National/Public Data Centre** (local hosting as technological sovereignty), with an
+  **AI-ready** national data centre to come via **[[huawei]]** (¥98m smart-city). More ambitiously, a widely-cited
+  analysis positions Namibia as a **green-powered AI-compute host**: 3,000+ sun hours, the **3GW Walvis Bay
+  green-hydrogen** plant and the **Equiano** landing, with cheap coastal ground cooling beating "orbital compute"
+  — a **sovereignty + cheap-renewable-energy** case for terrestrial African compute (AI workloads use ~10× a
+  standard search's energy). The catch: the sovereign cloud is being built substantially on a **Chinese stack**.
+  See **[[namibia--infra-store]]**, [[infra.energy]], [[tech.ai]], [[geopol.china]]. Sources:
+  [[2026-02-19-grounding-the-cloud-in-namibia-namibiansun]],
+  [[2025-09-23-namibia-expedites-data-centre-smart-city-development-itweb]].
 - **[[MWI]] Malawi — a small local-hosting market on a forex/sovereignty logic (2026).** Beyond the government
   **National Data Centre** (Boma Lathu; being made AI-ready under DMAP), commercial capacity is emerging:
   **[[sparc-systems]]** launched a Lilongwe data centre to cut **offshore hosting** (which drains scarce forex

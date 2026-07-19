@@ -6888,3 +6888,32 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
 - Sources: 2025-06-30 exemption review (Namibian Sun), 2026-03-24 rejection (Namibian), 2026-03-24 rejection
   (Namibian Sun), 2026-03-27 appeal (Namibian), 2026-03-31 unjustified (Namibian Sun), 2026-06-24 reconsideration
   rejected (connectingafrica).
+
+## 2026-07-19 — ingest(NAM) chunk 6/6 + finalize: Payments + data centres/AI/e-gov
+
+- **7 sources admitted, 0 leads, 0 discards.**
+- **Intersection created:** [[namibia--infra-store]] — sovereign National/Public Data Centre (cabinet concept
+  note; Windhoek smart-city; $20m VC fund), Huawei AI-ready DC, and the green-hydrogen/solar "grounding the
+  cloud" AI-compute-host thesis (3GW Walvis Bay, Equiano) — sovereignty on a Chinese stack.
+- **Entity created:** [[instant-payments-namibia]] (organisation — IPN, the IPS operator).
+- **Entities updated:** [[bank-of-namibia]] (+IPN/NamClear/NISS DoI + biometric IPS; +2 sources);
+  [[china-namibia-smart-city]] (+AI-jobs framing; +source).
+- **NAM hub:** +1 Recent-developments entry (MICT Strategic Plan 2025-2030 + inclusive-AI-UN 2026-01-29);
+  enriched the China (AI jobs), IPS (IPN/NamClear) and National-DC (green-AI-host) entries; infra.store + dpi.pay
+  Active-topics lines → intersections; +IPN + namibia--infra-store to Entities/Intersections.
+- **Concept:** [[infra.store]] +NAM green-AI-host bullet.
+- **entities-index:** +instant-payments-namibia.
+- **Dedup note:** the 2026-07-08 Namibian (AI-jobs) clip kept complementary to the held itweb china-funds item
+  (adds AI-jobs/skills framing).
+- Sources: 2025-07-01 biometrics IPS (biometricupdate), 2026-07-02 BoN-IPN-NamClear (techafricanews), 2026-01-29
+  ICT strategic plan (Namibian), 2026-02-19 grounding-the-cloud (Namibian Sun), 2025-09-23 DC/smart-city (itweb),
+  2026-07-07 inclusive-AI-UN (techreviewafrica pr-wire), 2026-07-08 Huawei AI jobs (Namibian).
+
+### NAM ingest total (chunks 1-6): **34 sources admitted, 0 leads, 0 discards, 0 needs-clip**
+- Intersections: 3 created (namibia--dpi-id, --infra-cybersec, --infra-store) + heavy enrichment of the
+  pre-existing namibia--infra-connect (telecom/5G + full Starlink saga). Entities created: 4 (namibia-data-
+  protection-bill, nam-csirt, instant-payments-namibia) — plus updates to namibia-digital-id, ministry-home-
+  affairs, cran, starlink, paratus, telecom-namibia-angola-deals, bank-of-namibia, china-namibia-smart-city.
+- 6 sources were paywalled [CLIP] (free-lede only, flagged body_completeness: paywalled). No relevant-duplicates
+  pruned, no contradictions, no gaps. Pre-existing dead link [[mario-oliveira]] (Angolan minister) left for a
+  future AGO pass.

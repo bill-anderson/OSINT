@@ -297,6 +297,7 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 | Entity | Places | Topics | Page |
 |---|---|---|---|
 | ICT Association of Malawi (ICTAM) | MWI | gov.policy, tech.innovate, dpi.id | [[ictam]] |
+| Instant Payments Namibia (IPN) | NAM | dpi.pay, dpi.id, include.access | [[instant-payments-namibia]] |
 | UNICEF Lesotho | LSO | dpi.id, dpi.registry, gov.protect | [[unicef-lesotho]] |
 | Nairobi Securities Exchange (NSE) | KEN | dpi.pay, finance.new | [[nairobi-securities-exchange]] |
 | CERIST (Algeria research centre) | DZA | capacity.research, infra.store, tech.innovate | [[cerist]] |

@@ -48,9 +48,11 @@ last_reviewed: 2026-07-19
   (meeting **[[huawei]]** in Shenzhen). Funding supports AI, digital infrastructure and
   skills under the **Windhoek People-Centred Smart City Strategy (2026–2036)**; Huawei is
   building smart-city solutions and an **AI-ready national data centre** with Namibia's
-  MICT and Ministry of Home Affairs. Deal: [[china-namibia-smart-city]]. Source:
-  [[2026-07-08 China funds Namibia digital infrastructure]]. See [[geopol.china]],
-  [[tech.ai]], [[infra.store]].
+  MICT and Ministry of Home Affairs. President Nandi-Ndaitwah pressed Huawei to **create AI jobs and skills**
+  for Namibians (Leo Chen pitching "strengthening data sovereignty"). Deal: [[china-namibia-smart-city]]; full
+  DC picture **[[namibia--infra-store]]**. Sources: [[2026-07-08 China funds Namibia digital infrastructure]],
+  [[2026-07-08-nandi-ndaitwah-pushes-ai-jobs-huawei-talks-namibian]]. See [[geopol.china]], [[tech.ai]],
+  [[infra.store]], [[capacity.training]].
 - **2026-06-15** — **[[telecom-namibia]]** signed two agreements with Angolan firms —
   an **Angosat-2** satellite pilot (with GGPEN) and a **SARSSy / Equiano** subsea
   integration (with Angola Telecom + SATCAB) via its Swakopmund landing station (1 Tbps
@@ -107,6 +109,14 @@ last_reviewed: 2026-07-19
   Minister **[[emma-theofelus]]** handed out **100 USF-funded phones** to top learners.
   Source: [[2026-02-02 Namibian regulator proposes tax breaks on 4G devices]]. See
   [[include.access]], [[include.divides]], [[infra.connect]].
+- **2026-01-29** — **MICT Strategic Plan 2025-2030 + national ICT policy.** Minister **[[emma-theofelus]]**
+  launched the ministry's **five-year Strategic Plan (2025-2030)** and the **national ICT policy** (Opuwo,
+  Kunene) — expanding affordable broadband to underserved regions, strengthening cybersecurity and data
+  protection, growing digital skills and e-government, aligned to Vision 2030 / NDP6. Theofelus separately
+  pressed **inclusive, human-centred AI governance** at the UN's Geneva AI-governance dialogue (6 Jul 2026).
+  Sources: [[2026-01-29-ict-ministry-launches-strategic-plan-policy-namibian]],
+  [[2026-07-07-namibia-calls-for-inclusive-ai-governance-un-dialogue-techreviewafrica]]. See [[gov.policy]],
+  [[infra.connect]], [[tech.ai]].
 - **2026-01-27** — **Free internet for schools and clinics.** Minister **[[emma-theofelus]]**
   announced that schools and clinics under towers built in the last two years will get **free
   internet for seven years**; Namibia invested **N$80m (~US$4.98m)** over two years in **nine
@@ -116,9 +126,13 @@ last_reviewed: 2026-07-19
 - **2026-03-02** — **Instant government payments (IPS).** The **[[bank-of-namibia|Bank of Namibia]]** and
   Ministry of Finance are building an **Instant Payment Solution** for real-time retail and
   **government-to-person** payments (social grants), flagged for a **Q3-2026** launch — under the
-  **[[namibia-payment-system-management-act-2023|Payment System Management Act 2023]]**. Afreximbank had also
-  courted Namibia into **[[papss|PAPSS]]** for local-currency cross-border settlement (Windhoek seminar, Oct
-  2024). Sources: [[2026-03-02 Namibia draws closer to instant government payments (IPS)]],
+  **[[namibia-payment-system-management-act-2023|Payment System Management Act 2023]]**. The IPS is built by
+  **[[instant-payments-namibia|IPN]]** (COO Marsorry Ickua), likely on **biometric** auth over the new digital
+  ID (India Stack / M-Pesa models); in **Jul 2026** the BoN, IPN and **NamClear** signed a DoI to integrate it
+  with the **NISS** clearing system. Afreximbank had also courted Namibia into **[[papss|PAPSS]]**. Sources:
+  [[2026-07-02-bon-ipn-namclear-instant-payments-pact-techafricanews]],
+  [[2025-07-01-namibia-weighs-biometrics-instant-payment-biometricupdate]],
+  [[2026-03-02 Namibia draws closer to instant government payments (IPS)]],
   [[2024-10-21 Namibia can benefit from Africa trade payment system (PAPSS)]]. See [[dpi.pay]],
   [[dpi.govtech]], [[gov.regional]].
 - **2024–2026** — **Foundational ID + CRVS overhaul.** The **[[namibia-civil-registration-identification-act-2024|
@@ -138,11 +152,15 @@ last_reviewed: 2026-07-19
   [[2024-09-09 Namibia's new CRVS, national ID system reflects key data protection aspects]],
   [[2024-04-01 Namibia navigates biometric data privacy pending civil registration bill]]. See [[dpi.id]],
   [[dpi.registry]], [[gov.legislate]], [[gov.protect]].
-- **2025-09-22** — **National data centre under the 2025-2029 digital strategy.** Namibia set plans for a
-  **sovereign national data centre** as a pillar of its 2025-2029 digital strategy (the plan ICT minister
-  [[emma-theofelus]] later said Angola's Luanda centre had "encouraged"). Source:
-  [[2025-09-22 Namibia to build national data centre under 2025-2029 digital strategy]]. See [[infra.store]],
-  [[gov.policy]].
+- **2025-09-22** — **Sovereign data centre + green-AI-host ambition.** Namibia is pursuing a **National/Public
+  Data Centre** (cabinet directed a concept note, Sep 2025), a **Windhoek smart-city** legal framework and a
+  **US$20m ICT VC fund** — with an **AI-ready national data centre** to come via Huawei (¥98m). An influential
+  analysis pitches Namibia as a **green-powered AI-compute host** (3,000+ sun hours; the 3GW Walvis Bay
+  green-hydrogen plant; Equiano; cheap ground cooling vs "orbital compute"). Full picture:
+  **[[namibia--infra-store]]**. Sources:
+  [[2025-09-22 Namibia to build national data centre under 2025-2029 digital strategy]],
+  [[2025-09-23-namibia-expedites-data-centre-smart-city-development-itweb]],
+  [[2026-02-19-grounding-the-cloud-in-namibia-namibiansun]]. See [[infra.store]], [[tech.ai]], [[infra.energy]].
 - **2025-08-17** — **Data Protection Bill returns to parliament — after ~12 years.** ICT Minister
   **[[emma-theofelus]]** said the long-delayed **[[namibia-data-protection-bill|Data Protection Bill]]** would be
   tabled (Sept 2025), calling it "a cornerstone of Namibia's digital governance strategy." The **IPPR**'s
@@ -200,7 +218,9 @@ last_reviewed: 2026-07-19
 - [[geopol.china]] · [[finance.new]] — Chinese-financed, Huawei-delivered digital build.
 - [[data.satellite]] · [[tech.industry]] — China-donated satellite ground station; Space
   Science & Technology Bill; Namibia's "clear skies" space-observation positioning.
-- [[tech.ai]] · [[infra.store]] — AI capabilities; AI-ready national data centre.
+- [[tech.ai]] · [[infra.store]] · [[infra.energy]] — sovereign **National/Public Data Centre**; Huawei
+  **AI-ready** national data centre; the **green-hydrogen/solar AI-compute-host** thesis (3GW Walvis Bay,
+  Equiano) — **[[namibia--infra-store]]**.
 - [[capacity.training]] · [[include.divides]] · [[dpi.govtech]] — skills, digital
   inclusion, smart municipal services.
 - [[infra.connect]] · [[gov.legislate]] · [[gov.protect]] · [[digital.rural]] — Starlink
@@ -212,7 +232,9 @@ last_reviewed: 2026-07-19
   Protection Bill]]** (~12 yrs; IPPR data-subject-rights concern) + **Cybercrime Bill** being finalised;
   **[[nam-csirt]]** (at [[cran]]) 1.7m attacks +37% (2025); breach wave (Telecom Namibia, Airports, NSFAF); AI
   deepfake fraud — **[[namibia--infra-cybersec]]**.
-- [[dpi.pay]] · [[gov.regional]] — **[[bank-of-namibia|Bank of Namibia]]** Instant Payment Solution (G2P, Q3-2026); Payment System Management Act 2023; PAPSS courtship; MTC refugee mobile money.
+- [[dpi.pay]] · [[gov.regional]] — **[[bank-of-namibia|Bank of Namibia]]** / **[[instant-payments-namibia|IPN]]**
+  Instant Payment System (G2P, Q3-2026; biometric auth; NamClear/NISS integration); Payment System Management
+  Act 2023; PAPSS courtship; MTC refugee mobile money.
 - [[dpi.mis]] · [[gov.standards]] · [[dpi.exchange]] — National eHealth Strategy 2021-2025; eGA X-Road interoperability; digital-trade regulatory profile.
 
 ## Entities
@@ -220,7 +242,7 @@ last_reviewed: 2026-07-19
 - [[huawei]] · [[china-namibia-smart-city]] · [[netumbo-nandi-ndaitwah]]
 - [[telecom-namibia]] · [[telecom-namibia-angola-deals]] · [[emma-theofelus]] · [[paratus]] · [[starlink]] · [[cran]]
 - [[namibia-civil-registration-identification-act-2024]] · [[namibia-digital-id]] · [[ministry-home-affairs-namibia]] · [[mtc-namibia]] · [[bipa-namibia]]
-- [[bank-of-namibia]] · [[namibia-payment-system-management-act-2023]] · [[papss]] · [[undp]] · [[namibia-data-protection-bill]] · [[nam-csirt]]
-- Intersections: [[namibia--infra-connect]] · [[namibia--dpi-id]] · [[namibia--infra-cybersec]]
+- [[bank-of-namibia]] · [[namibia-payment-system-management-act-2023]] · [[papss]] · [[undp]] · [[namibia-data-protection-bill]] · [[nam-csirt]] · [[instant-payments-namibia]]
+- Intersections: [[namibia--infra-connect]] · [[namibia--dpi-id]] · [[namibia--infra-cybersec]] · [[namibia--infra-store]]
 - Mentioned, not hubbed: Ministry of ICT; Registrar-General (Etienne Maritz, MHAISS ED); Leo Chen (Huawei
   Enterprise); INFOSI, GGPEN, Angola Telecom, SATCAB; NamX / Nampay; Armada / Virtual Space Data Centre.

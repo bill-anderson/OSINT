@@ -12,6 +12,7 @@ entities: [[netumbo-nandi-ndaitwah], [huawei], [china-namibia-smart-city], [mini
 lens: [sovereignty]
 retrieved: 2026-07-17
 sweep_batch: NAM-2026-07-17
+body_completeness: excerpt
 ---
 
 # Nandi-Ndaitwah pushes AI jobs in Huawei talks

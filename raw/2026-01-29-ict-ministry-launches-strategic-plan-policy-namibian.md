@@ -12,6 +12,7 @@ entities: [[emma-theofelus]]
 lens: []
 retrieved: 2026-07-17
 sweep_batch: NAM-2026-07-17
+body_completeness: excerpt
 ---
 
 # ICT ministry launches strategic plan, policy to expand digital access and strengthen cybersecurity
