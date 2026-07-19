@@ -1,84 +1,77 @@
-# new-queue/UGA — MANIFEST
+# ZAF sweep manifest — batch ZAF-2026-07-17
 
-Sweep batch **UGA-2026-07-17** (window 2025-01-01 -> 2026-07-17). 78 candidate source files staged for human review. Uganda was partly held; sweep-time dedup was conservative and the aggressive duplicate pass is the post-ingest lint #7. See sweep/drop-log-UGA.csv for dropped/not-staged hits.
+71 candidates staged. Window 2025-01-01 to 2026-07-17.
 
-Format: published | topics | source | title | why it's new
-
-- 2025-04-02 | [dpi.id] | New Vision | NIRA acquires high-capacity machines for national ID issuance | NIRA/digital-ID + CRVS rollout development
-- 2025-04-02 | [tech.innovate, gov.policy] | We Are Tech Africa | Uganda bets on tax cuts to support startups (three-year income tax exemption) | skills / inclusion / innovation / tax policy
-- 2025-04-05 | [tech.ai, gov.policy] | New Vision | Uganda calls for inclusive AI policies at Kigali Global AI Summit | national AI strategy / AI ecosystem
-- 2025-04-14 | [dpi.id, dpi.pay] | Biometric Update | Uganda launching 5 MOSIP modules for national digital ID | NIRA/digital-ID + CRVS rollout development
-- 2025-04-25 | [dpi.registry, dpi.id] | New Vision | URSB hands over marriage registration role to NIRA | NIRA/digital-ID + CRVS rollout development
-- 2025-05-06 | [infra.connect] | New Vision | Kampala-Malaba get new fibre optic route (Bayobab) | connectivity / fibre / infrastructure
-- 2025-05-08 | [dpi.id] | Biometric Update | Uganda targets 33M citizens for mass ID registration, renewal from May 27 | in-scope development
-- 2025-06-11 | [dpi.pay] | TechCabal | MTN Uganda to spin off mobile money unit into a standalone fintech | digital payments / fintech / mobile money
-- 2025-06-16 | [dpi.id] | Biometric Update | Uganda president wants biometric verification for 2026 vote; tender forthcoming | NIRA/digital-ID + CRVS rollout development
-- 2025-06-18 | [tech.ai, gov.policy] | New Vision | Uganda to develop national artificial intelligence policy | national AI strategy / AI ecosystem
-- 2025-06-19 | [dpi.pay, gov.legislate] | New Vision | 'Delay to embrace cryptocurrency reforms will be costly' — Uganda urged | digital payments / fintech / mobile money
-- 2025-06-20 | [tech.innovate, finance.new, tech.industry] | TechCabal | Uganda's tech sector has 'prepared the bride,' now it wants a dowry (Investor Summit) | skills / inclusion / innovation / tax policy
-- 2025-06-23 | [dpi.id, gov.protect] | New Vision | NIRA speaks out on data protection as mass ID renewals hit 3.5 million | NIRA/digital-ID + CRVS rollout development
-- 2025-07-14 | [infra.connect, include.access] | New Vision | Free Wi-Fi to boost security, trade along Uganda–DRC border | connectivity / fibre / infrastructure
-- 2025-07-16 | [dpi.id] | Biometric Update | 5M Ugandans renew national IDs, 100k new cards ready for pickup | NIRA/digital-ID + CRVS rollout development
-- 2025-07-20 | [gov.protect, gov.legislate] | New Vision | Google declared in breach of Uganda's data protection laws | PDPO data-protection enforcement (new)
-- 2025-07-23 | [dpi.pay] | ITWeb Africa | MTN Uganda to list MoMo fintech unit (shareholders approve separation) | digital payments / fintech / mobile money
-- 2025-08-21 | [infra.connect, finance.new] | TechCabal | CSquared bets $125m on fibre superhighways across Africa (Uganda-founded) | connectivity / fibre / infrastructure
-- 2025-09-22 | [dpi.id, gov.protect, infra.cybersec] | Biometric Update | Uganda to tighten biometric ID database security after data breach claims | NIRA/digital-ID + CRVS rollout development
-- 2025-10-08 | [dpi.pay, finance.new, infra.store] | TechCabal | Uganda's $5.5 billion digital project to link farms, mines, factories (with CBDC pilot) | digital payments / fintech / mobile money
-- 2025-10-27 | [dpi.id] | New Vision | Enhanced national IDs dispatched to districts, says NIRA | NIRA/digital-ID + CRVS rollout development
-- 2025-11-12 | [dpi.id, dpi.pay, dpi.exchange] | Nile Post | URA announces historic shift from TIN to NIN | NIRA/digital-ID + CRVS rollout development
-- 2025-11-14 | [dpi.govtech, data.open] | New Vision | Why govt is moving to upgrade Government Procurement Portal (open contracting) | e-gov / DPI / govtech / registries
-- 2025-11-18 | [tech.ai, capacity.training, capacity.literacy] | New Vision | Govt moves to introduce inclusive AI curriculum for learners | national AI strategy / AI ecosystem
-- 2025-12-05 | [infra.connect, gov.legislate] | Nile Post | Govt signals social media clampdown as January elections near | election-period internet shutdown / restriction
-- 2025-12-11 | [gov.protect, infra.cybersec] | New Vision | Kampala data collection company (Vuka Africa) prosecuted over information breach | PDPO data-protection enforcement (new)
-- 2025-12-23 | [infra.connect, geopol.usa] | New Vision | Army warns against Starlink internet as URA restricts component importation | Starlink licensing/satellite (sovereignty)
-- 2025-12-29 | [dpi.id] | New Vision | Over 13.3 million national IDs renewed as NIRA extends exercise to February 2026 | NIRA/digital-ID + CRVS rollout development
-- 2025-12-30 | [dpi.pay, finance.new] | We Are Tech Africa | Tanzanian fintech NALA receives Uganda payment service, system licenses | digital payments / fintech / mobile money
-- 2026-01-06 | [infra.connect, geopol.usa] | New Vision | Why Starlink accepted Uganda's request to block illegal users | election-period internet shutdown / restriction
-- 2026-01-13 | [infra.connect, gov.legislate] | Nile Post | Govt orders temporary public internet shutdown (2026 election) | election-period internet shutdown / restriction
-- 2026-01-18 | [infra.connect, gov.legislate] | New Vision | Govt restores partial internet connectivity except social media, defends shutdown | election-period internet shutdown / restriction
-- 2026-01-20 | [infra.connect, dpi.pay] | New Vision | Mobile money services 'fully restored' after election shutdown | election-period internet shutdown / restriction
-- 2026-01-30 | [infra.cybersec, dpi.pay] | Nile Post | Experts urge tougher cybersecurity as financial sector faces rising cyber threats | cybersecurity development
-- 2026-02-05 | [dpi.mis, dpi.exchange] | New Vision | Uganda's new lab data repository to boost health surveillance and planning | in-scope development
-- 2026-02-09 | [dpi.id, dpi.registry] | New Vision | 35 million Ugandans registered in national ID drive (first milestone closed) | NIRA/digital-ID + CRVS rollout development
-- 2026-02-09 | [infra.connect] | Connecting Africa | Paratus lights up new East Africa fiber route (Goma-to-Mombasa via Kampala) | connectivity / fibre / infrastructure
-- 2026-02-11 | [dpi.pay, finance.new] | TechCabal | Payaza expands East African footprint with Uganda license | digital payments / fintech / mobile money
-- 2026-02-19 | [dpi.id] | Biometric Update | Brownfield implementations represent MOSIP's next wave of national digital IDs (Uganda case) | NIRA/digital-ID + CRVS rollout development
-- 2026-02-20 | [capacity.training, include.divides] | New Vision | Mbale ICT Hub to boost employable skills acquisition (Uganda-UK MoU) | skills / inclusion / innovation / tax policy
-- 2026-02-24 | [dpi.pay, infra.connect] | ITWeb Africa | Airtel Uganda hits $124m profit as data sales overtake voice (2025 results) | digital payments / fintech / mobile money
-- 2026-02-27 | [gov.protect, gov.legislate] | New Vision | PDPO directs WhatsApp/Meta to stop processing Ugandan users' data (analysis) | PDPO data-protection enforcement (new)
-- 2026-03-10 | [infra.connect, gov.legislate] | New Vision | Govt ordered to table directives behind pre-election internet shutdown | election-period internet shutdown / restriction
-- 2026-03-12 | [tech.ai, gov.policy] | New Vision | Govt crafts national strategy to harness AI opportunities | national AI strategy / AI ecosystem
-- 2026-03-13 | [dpi.govtech] | New Vision | Construction of sh4b Service Uganda Centre begins in Gulu | e-gov / DPI / govtech / registries
-- 2026-03-13 | [dpi.pay, infra.connect] | ITWeb Africa | MTN Uganda data, fintech push fuels double-digit growth (2025 results) | digital payments / fintech / mobile money
-- 2026-03-16 | [tech.ai, infra.store, capacity.research] | New Vision | Minister Musenero launches National AI Research Cloud (Makerere/RENU) | national AI strategy / AI ecosystem
-- 2026-03-17 | [gov.legislate, infra.cybersec] | New Vision | Constitutional Court nullifies key Computer Misuse Act provisions | cyber-law: Computer Misuse Act ruling
-- 2026-03-27 | [dpi.pay, include.access] | New Vision | World Bank: more Ugandans turn to phones for loans (Global Findex 2025) | digital payments / fintech / mobile money
-- 2026-04-01 | [capacity.training, tech.ai, geopol.china] | New Vision | Ministry of ICT signs partnership to boost youth skills, smart agriculture (AI labs) | national AI strategy / AI ecosystem
-- 2026-04-07 | [dpi.registry, tech.ai] | New Vision | Govt tightens land controls as disputes rise (blockchain/AI for land) | land registry / titling (blockchain/AI)
-- 2026-04-08 | [dpi.pay, finance.new, gov.legislate] | TechCabal | GSH to acquire majority stake in Uganda's AKIBA to deepen tokenisation push | Protection of Sovereignty Bill / tokenised finance
-- 2026-04-30 | [gov.legislate, dpi.pay] | New Vision | BOU governor Atingi-Ego warns Sovereignty Bill could trigger financial shocks | Protection of Sovereignty Bill / tokenised finance
-- 2026-05-04 | [data.satellite, gov.regional, infra.connect] | Connecting Africa | East African countries (incl. Uganda) to launch regional satellite (NCRCBSI) | connectivity / fibre / infrastructure
-- 2026-05-04 | [infra.connect] | ITWeb Africa | Savanna Fibre Uganda unveils 1 Gbps fixed broadband | connectivity / fibre / infrastructure
-- 2026-05-06 | [dpi.govtech, dpi.exchange] | Nile Post | Govt pushes for unified digital systems to strengthen e-services delivery | e-gov / DPI / govtech / registries
-- 2026-05-07 | [dpi.pay] | Connecting Africa | Vodacom Tanzania, Thunes roll out M-Pesa links to Uganda and China | digital payments / fintech / mobile money
-- 2026-05-08 | [dpi.registry, dpi.exchange] | New Vision | Centralised digital register (URSB Non-Individual Register) to streamline business services | NIRA/digital-ID + CRVS rollout development
-- 2026-05-08 | [gov.protect, tech.ai] | Tech Review Africa | Stakeholders call for human-centred digital transformation at Uganda Digital Rights Dialogue | in-scope development
-- 2026-05-15 | [infra.connect, geopol.usa] | New Vision | Starlink enters Uganda's telecom sector after agreement signed at State House | Starlink licensing/satellite (sovereignty)
-- 2026-05-19 | [dpi.govtech, tech.innovate] | New Vision | Govt turns to local innovators to build State systems (National Innovator Registry) | e-gov / DPI / govtech / registries
-- 2026-05-19 | [infra.connect, geopol.usa] | Connecting Africa | Starlink gets greenlight in Uganda, Airtel tests direct-to-cell | Starlink licensing/satellite (sovereignty)
-- 2026-05-20 | [tech.ai] | Connecting Africa | Ugandan minister (Musenero): Africa must embrace AI as an economic revolution | national AI strategy / AI ecosystem
-- 2026-05-23 | [dpi.pay, geopol.china, infra.store] | New Vision | Huawei partnership pushes Centenary into digital future | digital payments / fintech / mobile money
-- 2026-06-01 | [dpi.id, dpi.registry] | New Vision | NIRA intensifies birth registration drive, launches alien registration | NIRA/digital-ID + CRVS rollout development
-- 2026-06-03 | [dpi.pay] | New Vision | BOU sets cash withdrawal limits for individuals, businesses (cash-lite drive) | digital payments / fintech / mobile money
-- 2026-06-04 | [dpi.id, dpi.registry] | New Vision | NIRA kicks off first registration of foreigners | NIRA/digital-ID + CRVS rollout development
-- 2026-06-10 | [geopol.china, finance.new] | New Vision | Nakalema (SHIPU) meets trade minister Tanna, Huawei executives | geopolitics (China/Huawei) engagement
-- 2026-06-15 | [data.statistics, dpi.mis] | New Vision | Gender ministry unveils initiative to address labour market data gaps | digital payments / fintech / mobile money
-- 2026-06-22 | [gov.policy, dpi.govtech] | TechAfrica News | NITA-U launches five-year digital strategy to increase e-government use in Uganda | e-gov / DPI / govtech / registries
-- 2026-06-22 | [gov.policy, infra.connect, dpi.pay] | TechAfrica News | UCC proposes major telecom tax cuts to boost Uganda's digital economy | skills / inclusion / innovation / tax policy
-- 2026-06-26 | [tech.innovate] | TechAfrica News | MTN Uganda calls for greater support to scale home-grown innovations | digital payments / fintech / mobile money
-- 2026-07-02 | [infra.connect, gov.policy] | ITWeb Africa | Uganda outlines next ICT goals (UCC sector statistics) | connectivity / fibre / infrastructure
-- 2026-07-08 | [infra.connect, gov.legislate] | TechAfrica News | Uganda begins nationwide enforcement against illegal public Wi-Fi services | connectivity / fibre / infrastructure
-- 2026-07-13 | [dpi.pay, tech.innovate] | New Vision | Makerere Innovation Incubation Center, Afriventia Group launch Fintech Fridays | digital payments / fintech / mobile money
-- 2026-07-16 | [dpi.pay] | TechAfrica News | SCRYPT expands stablecoin settlement network across four East African markets (incl. Uganda) | digital payments / fintech / mobile money
-- 2026-07-16 | [infra.cybersec, gov.policy] | ITWeb Africa | Uganda launches updated National Information Security Framework (NISF) 2026 | cybersecurity development
-- 2026-07-17 | [infra.cybersec, gov.legislate] | TechAfrica News | UCC leads national push against digital piracy to protect creative economy | cybersecurity development
+published | topics | source | title | slug
+---|---|---|---|---
+2025-03-06 | dpi.id,gov.protect | Biometric Update | South Africa’s biometric driver’s license tender process no good, AG finds | Biometric Update | biometric-drivers-licence-tender-ag
+2025-03-11 | dpi.id,gov.policy | Biometric Update | South Africa envisages fully-functional digital ID system before 2029 national elections | Biometric Update | digital-id-before-2029-elections
+2025-03-25 | dpi.id,dpi.pay,gov.protect | Biometric Update | South Africa upgrades biometric verification system for critical public services, increases fees | Biometric Update | biometric-verification-fee-increase
+2025-04-15 | gov.protect,gov.legislate | Inside Privacy (Covington) | South Africa Introduces Mandatory e-Portal Reporting for Data Breaches | Inside Privacy | mandatory-eportal-breach-reporting
+2025-05-08 | gov.protect,gov.legislate | Baker McKenzie | South Africa: Amendments to the POPIA regulations - Key changes you need to know - Connect On Tech | popia-regulations-amendments
+2025-05-29 | dpi.id,gov.protect | Biometric Update | South Africa using biometrics to verify immigration status during raids | Biometric Update | biometrics-immigration-raids
+2025-07-16 | infra.cybersec,gov.policy | ITWeb | SA govt elevates cyber security to counter-intelligence priority | ITWeb | cybersecurity-counter-intelligence-priority
+2025-07-21 | dpi.pay,gov.legislate | Business Day | Payments reform on the cards as Reserve Bank draws up draft law | sarb-payments-reform-draft-law
+2025-08-12 | dpi.id,dpi.govtech,gov.policy | Daily Maverick | Leon Schreiber’s digital Home Affairs dreams are becoming reality | schreiber-digital-home-affairs
+2025-10-10 | dpi.exchange,dpi.govtech,data.statistics | SAnews | Government launches MzansiXchange to improve evidence-based policy | SAnews | mzansixchange-launch
+2025-11-05 | dpi.exchange,dpi.govtech | Biometric Update | South Africa trials govt data exchange platform modeled after Estonia’s X-Road | Biometric Update | govt-data-exchange-estonia-xroad
+2025-11-10 | infra.store,finance.new | TechAfrica News | Teraco Expands Cape Town CT2 Data Centre to 50MW, Boosting Africa’s Hyperscale Capacity - TechAfrica News | teraco-ct2-50mw-cape-town
+2025-11-13 | gov.protect,infra.cybersec | The Citizen | SA data breaches surge 40% as regulator warns of cybersecurity shortfalls | The Citizen | data-breaches-surge-40-percent
+2025-12-12 | infra.connect,gov.legislate,geopol.usa | Daily Maverick | Malatsi issues directive to bypass Icasa BEE deadlock and clear Starlink for landing | malatsi-directive-bypass-icasa-bee-starlink
+2025-12-12 | infra.connect,gov.legislate,geopol.usa | Reuters | South Africa eases ownership rules, opening door for Starlink and other foreign operators | Reuters | sa-eases-ownership-rules-starlink
+2026-01-23 | infra.store,finance.new | TechAfrica News | CompCom Recommends Approval of STANLIB’s Acquisition of Africa Data Centres - TechAfrica News | compcom-stanlib-africa-data-centres
+2026-01-30 | dpi.id,dpi.govtech,gov.policy | Biometric Update | South Africa behind schedule on digital ID rollout under MyMzansi roadmap | Biometric Update | digital-id-behind-schedule-mymzansi
+2026-02-13 | dpi.govtech,gov.policy | Hypertext | Ramaphosa champions digital mega-platform at SONA 2026 - Hypertext | sona-2026-digital-mega-platform
+2026-02-15 | infra.store,finance.new | Business Day | Ramaphosa bullish on data centres as R50bn expected over three years | ramaphosa-data-centres-r50bn
+2026-02-17 | infra.connect,gov.legislate | TechCentral | Icasa gears up for South Africa's next big spectrum auction | icasa-next-spectrum-auction
+2026-02-25 | tech.ai,gov.policy | ITWeb | Timeline for SA’s national AI policy revealed | ITWeb | timeline-sa-national-ai-policy
+2026-02-26 | infra.connect,include.access,finance.new | Business Day | Government allocates R3bn for SA Connect digital push | r3bn-sa-connect
+2026-03-26 | dpi.pay | TechCentral | The conflict of interest at the heart of PayShap's slow adoption | payshap-conflict-of-interest
+2026-03-30 | infra.cybersec,data.statistics | Central News | Statistics South Africa Hit by Ransomware Attack, Hackers Claim Theft of 450,000 Files | Central News South Africa | statssa-ransomware-attack
+2026-04-02 | dpi.pay | ClearingPost | PayShap Crosses R100 Billion as SARB Builds National Payment Utility | ClearingPost | payshap-r100bn-national-payment-utility
+2026-04-14 | gov.protect,infra.cybersec | ITWeb | InfoReg raises alarm as data breaches hit 788 in Q1 | ITWeb | inforeg-788-breaches-q1
+2026-04-14 | infra.connect,gov.legislate,geopol.usa | The Citizen | Starlink blocked by ICASA rules despite empowerment pathway | starlink-blocked-icasa-empowerment-pathway
+2026-04-20 | gov.protect,gov.legislate | Polity | Do not call me I’ll call you …… South Africa’s 2026 CPA Amendment Regulations: operationalising the national opt‑out regime for direct marketing and shifting day‑to‑day anti‑spam responsibility to the National Consumer Commission | cpa-direct-marketing-optout-regs
+2026-04-23 | dpi.govtech,gov.policy | ITWeb | Operation Vulindlela’s digital transformation gathers pace | ITWeb | operation-vulindlela-digital-transformation
+2026-04-24 | infra.connect,gov.legislate,geopol.usa | TechCentral | Icasa caught in the political crossfire over Starlink | icasa-political-crossfire-starlink
+2026-04-28 | tech.ai,gov.policy | The Citizen | AI hallucination forces policy withdrawal, but expert frames it as governance lesson | ai-hallucination-policy-withdrawal
+2026-05-06 | dpi.id,gov.legislate | Biometric Update | South Africa gazettes digital ID draft regulation, seeks comments | Biometric Update | digital-id-draft-regulation-gazetted
+2026-05-09 | dpi.id,gov.legislate | The Citizen | Smart IDs go digital? Home Affairs publishes draft rules | The Citizen | smart-ids-go-digital-draft-rules
+2026-05-12 | tech.ai,gov.policy | TimesLIVE | Malatsi sets up team of experts after AI policy blunder | malatsi-ai-expert-panel
+2026-05-14 | infra.connect,gov.legislate,geopol.usa | The Citizen | South Africa's Starlink dream hits legal dead-end after ICASA rejects Malatsi's BEE plan | starlink-legal-deadend-icasa-rejects-bee
+2026-05-20 | dpi.id,finance.new,gov.policy | Biometric Update | South Africa Home Affairs seeks $828M budget for digital ID, biometric visa projects | Biometric Update | home-affairs-828m-digital-id-budget
+2026-05-21 | dpi.pay | TechCentral | Three years in, PayShap pivots to merchants | payshap-pivots-to-merchants
+2026-05-27 | infra.connect,gov.legislate | TechCentral | Mobile operators locked out as Icasa opens 900MHz of spectrum | operators-locked-out-900mhz-spectrum
+2026-05-27 | tech.ai,gov.policy | TechCabal | SA delays AI policy to 2027 | sa-delays-ai-policy-2027
+2026-06-04 | gov.protect | southafricanews24 | Central Johannesburg College Faces POPIA Probe Over Employee Data Exposure | southafricanews24.com | college-popia-probe
+2026-06-08 | dpi.registry,dpi.id | SAnews | SA unveils biometric population register to tighten migration controls | SAnews | biometric-population-register-unveiled
+2026-06-09 | dpi.id,dpi.pay | TechCentral | South Africa's operators solved fintech. Digital identity is next | operators-solved-fintech-digital-identity-next
+2026-06-14 | gov.protect,gov.legislate | Mondaq | Information Regulator’s First Enforcement Notice For 2026 - Data Protection - South Africa | inforeg-first-enforcement-notice-2026
+2026-06-16 | dpi.pay,finance.new | Bank for International Settlements | Rashad Cassim: Money in motion - payments, digital assets and the future of finance | cassim-money-in-motion-sarb
+2026-06-16 | gov.protect,gov.legislate | Mondaq | Landmark Ruling For Private Bodies Under PAIA: Information Regulator's Enforcement Notice Against Mining House - Contracts and Commercial Law - South Africa | paia-enforcement-mining-house-sibanye
+2026-06-18 | gov.protect,gov.legislate | Werksmans Attorneys | When a misdirected email becomes a data breach: The Information Regulator issues an enforcement notice on internal and accidental security compromises - Werksmans Attorneys | misdirected-email-enforcement-notice
+2026-06-18 | infra.connect,include.access | TechCentral | Flagship broadband programme in South Africa stalled | flagship-broadband-stalled
+2026-06-30 | infra.connect,geopol.usa | TechCentral | South Africa's broadband future is being decided in orbit, not in Pretoria | broadband-decided-in-orbit
+2026-06-30 | infra.connect,gov.legislate,geopol.usa | TechAfrica News | ICASA Spells Out Satellite Licensing Rules as Starlink's South Africa Entry Remains on Hold - TechAfrica News | icasa-satellite-licensing-rules-starlink-hold
+2026-07-01 | infra.connect,geopol.usa | MyBroadband | State-backed South African satellite Internet and phone company launched – MyBroadband | state-backed-sa-satellite-company
+2026-07-01 | infra.connect,geopol.usa | TechCentral | Google plots E Cape as southern anchor of four-hub Africa network - eriinfo | google-ecape-four-hub-anchor
+2026-07-02 | dpi.pay,gov.policy | Mondaq | Payments First: Why The SARB Is Prioritising Digital Infrastructure Over A Retail CBDC - Financial Services - South Africa | sarb-payments-first-over-cbdc
+2026-07-05 | infra.store,tech.ai,finance.new | southafricanews24 | Google Confirms R2 Billion AI Hub in South Africa — What Changes Next | southafricanews24.com | google-r2bn-ai-hub
+2026-07-06 | dpi.govtech,gov.standards | The Citizen | Sita investigation flags R2bn irregular spending and governance weaknesses | The Citizen | sita-r2bn-irregular-spending
+2026-07-06 | gov.protect | Mining Weekly | POPIA Five Years Later: Why Is Nobody Being Held Accountable? - Transform Marketing (Pty) Ltd | popia-five-years-nobody-accountable
+2026-07-06 | infra.connect,geopol.usa | ITWeb | Malatsi addresses Starlink lobbying allegations | ITWeb | malatsi-starlink-lobbying-allegations
+2026-07-06 | infra.store,gov.policy | MyBroadband | South Africa building its own cloud infrastructure, says Ramaphosa – MyBroadband | sa-building-own-cloud-ramaphosa
+2026-07-07 | dpi.govtech,gov.standards | Daily Maverick | Malatsi gives Sita 30 days to come up with a recovery plan | malatsi-sita-30-days-recovery
+2026-07-07 | dpi.id,gov.protect | Biometric Update | South Africa tenders biometric case management system for migration enforcement | Biometric Update | biometric-case-management-migration
+2026-07-07 | infra.store,gov.policy | The Citizen | 'Digital sovereignty key to South Africa's future,' Ramaphosa says | The Citizen | digital-sovereignty-key-ramaphosa
+2026-07-10 | dpi.id,dpi.pay | EWN | SARB explores digital identity system to secure financial sector | sarb-explores-digital-identity
+2026-07-13 | dpi.pay | Bizcommunity | Massive payment change: Sarb’s QR+ could simplify checkout nationwide | sarb-qr-plus-checkout
+2026-07-14 | dpi.pay | TechCabal | Why South African banks still charge for instant payments | why-sa-banks-charge-instant-payments
+2026-07-15 | infra.connect,geopol.usa | Daily Maverick | Herotel chosen as Amazon Leo distributor in race for satellite internet | herotel-amazon-leo-distributor
+2026-07-15 | infra.connect,geopol.usa | MyBroadband | Cyril Ramaphosa and Solly Malatsi meet Amazon to discuss Starlink competitor – MyBroadband | ramaphosa-malatsi-meet-amazon
+2026-07-16 | dpi.id,dpi.pay | SAnews | Home Affairs announces Absa joining banking sector to provide Smart IDs | SAnews | absa-joins-home-affairs-smart-id
+2026-07-16 | infra.connect,geopol.usa | TechCabal | Why Amazon partnered where Starlink pushed back in South Africa | why-amazon-partnered-where-starlink-pushed-back
+2026-07-16 | infra.store,infra.energy | Moneyweb | Giant data centres get the first green light from Cape Town tribunal - Moneyweb | cape-town-tribunal-data-centre-greenlight
+2026-07-16 | tech.ai,dpi.pay,gov.standards | ITWeb | Banks face stricter AI scrutiny as regulator sharpens focus | ITWeb | banks-stricter-ai-scrutiny-regulator
+2026-07-17 | dpi.id,dpi.registry,include.access | IOL | Home Affairs struggles to unblock identity numbers due to unserviceable addresses | home-affairs-unblock-identity-numbers-addresses
+2026-07-17 | infra.connect,geopol.usa | MyBroadband | Starlink launches in 27th African country before South Africa – MyBroadband | starlink-27th-african-country-before-sa

@@ -5,11 +5,11 @@ place: ZAF
 topic: dpi.id
 places: [ZAF]
 topics: [dpi.id, dpi.registry, dpi.govtech, gov.legislate, gov.protect, gov.standards, infra.cybersec, include.divides, digital.rural]
-entities: [[sa-digital-id-regulations], [popia], [home-affairs-south-africa], [mymzansi], [act-south-africa], [leon-schreiber], [digital-services-unit-presidency-sa], [sars], [sarb], [south-africa-eta]]
+entities: [[sa-digital-id-regulations], [popia], [home-affairs-south-africa], [mymzansi], [act-south-africa], [leon-schreiber], [cyril-ramaphosa], [digital-services-unit-presidency-sa], [sars], [sarb], [south-africa-eta], [intelligent-population-register], [idemia], [absa], [capitec]]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-13
-sources: [[2026-04-21 South Africa's digital ID gets a targeted launch date], [2026-05-29 Opinion South Africa's Digital Identity Regulations A Governance Crossroads], [2026-01-28 Home Affairs sets new record by delivering over four million Smart IDs in 2025], [2026-01-27 SA's Telcos, Banks At War With Govt Over 6,500% ID Verification Fee Hike], [2026-01-28 Bad news about South Africa's newest ID book plan], [2025-11-09 Behind the speedy MyMzansi screens and the Presidency's race to build a digital government], [2026-01-07 Digital driving licence coming to South Africa], [2026-04-03 Say goodbye to SARS tax numbers in South Africa], [2026-03-31 Concerns over South Africa's proposed digital ID system from traditional leaders], [2026-03-09 Home affairs launches Smart ID partnership with banks], [2026-02-24 South Africa makes the ETA the cornerstone of its visa reform]]
+last_reviewed: 2026-07-19
+sources: [[2026-04-21 South Africa's digital ID gets a targeted launch date], [2026-05-29 Opinion South Africa's Digital Identity Regulations A Governance Crossroads], [2026-01-28 Home Affairs sets new record by delivering over four million Smart IDs in 2025], [2026-01-27 SA's Telcos, Banks At War With Govt Over 6,500% ID Verification Fee Hike], [2026-01-28 Bad news about South Africa's newest ID book plan], [2025-11-09 Behind the speedy MyMzansi screens and the Presidency's race to build a digital government], [2026-01-07 Digital driving licence coming to South Africa], [2026-04-03 Say goodbye to SARS tax numbers in South Africa], [2026-03-31 Concerns over South Africa's proposed digital ID system from traditional leaders], [2026-03-09 Home affairs launches Smart ID partnership with banks], [2026-02-24 South Africa makes the ETA the cornerstone of its visa reform], [2025-03-06-biometric-drivers-licence-tender-ag], [2025-03-11-digital-id-before-2029-elections], [2025-03-25-biometric-verification-fee-increase], [2025-05-29-biometrics-immigration-raids], [2025-08-12-schreiber-digital-home-affairs], [2026-01-30-digital-id-behind-schedule-mymzansi], [2026-05-06-digital-id-draft-regulation-gazetted], [2026-05-09-smart-ids-go-digital-draft-rules], [2026-05-20-home-affairs-828m-digital-id-budget], [2026-06-08-biometric-population-register-unveiled], [2026-07-07-biometric-case-management-migration], [2026-07-16-absa-joins-home-affairs-smart-id], [2026-07-17-home-affairs-unblock-identity-numbers-addresses], [2026-07-10-sarb-explores-digital-identity], [2026-06-09-operators-solved-fintech-digital-identity-next]]
 ---
 
 # South Africa × Digital Identity
@@ -102,6 +102,52 @@ of the primary legislation, and analysts warn the governance scaffolding is thin
   [[gov.protect]], [[sa-digital-id-regulations]]. Sources:
   [[2026-03-09 Home affairs launches Smart ID partnership with banks]],
   [[2026-02-24 South Africa makes the ETA the cornerstone of its visa reform]].
+
+## 2025–26: migration enforcement, the register, the banks, and the money
+
+The 2025–26 material sharpens two things the framing above already carries — **the register is being built as
+a migration-control instrument**, and **the bank channel is scaling fast while the money and the enabling law
+lag**.
+
+- **Identity as migration enforcement.** Biometrics moved from the counter to the street: **Operation New
+  Broom** (May 2025) used on-site fingerprint/face checks during immigration raids (25 arrested, District 6),
+  the PSA warning on privacy/data security. In June 2026 **[[cyril-ramaphosa]]** cast the
+  **[[intelligent-population-register|Intelligent Population Register]]** explicitly as migration control —
+  biometrics for *every* person, the foundation of the Digital ID, with the **green ID book to be
+  de-recognised** and the **Traffic Registration Number** (a foreigner ID workaround) abolished, under a
+  Cabinet "Comprehensive Approach for Migration Management." DHA then tendered a **biometric case-management
+  system + 600 handheld readers** for its inspectorate. Sources: [[2025-05-29-biometrics-immigration-raids]],
+  [[2026-06-08-biometric-population-register-unveiled]], [[2026-07-07-biometric-case-management-migration]].
+- **The bank channel scales.** The Digital Partnership Model reached **four banks** (Capitec → Standard Bank,
+  FNB, then **[[absa|Absa]]**, Jul 2026) across **296 branches**, **385,000+ Smart-ID applications in four
+  months**, targeting **750 branches by end-2026** with first-time Smart ID/passport applications and
+  **doorstep delivery**. Source: [[2026-07-16-absa-joins-home-affairs-smart-id]].
+- **The money.** DHA tabled **R13.8bn (~$828m) for FY2026/27** (up from ~$615–618m) for Smart IDs, the
+  digital visa (ETA) and the digital-ID launch — plus a **biometric voter-registration** drive from 27 May
+  2026. Source: [[2026-05-20-home-affairs-828m-digital-id-budget]].
+- **The financial-sector ID, and the telco claim.** The **[[sarb|SARB]]** Prudential Authority is exploring a
+  **formal digital identity** for financial services (verification, fraud reduction) under Payments
+  Modernisation (Fundi Tshazibana) — the [[dpi.pay]] side of the same convergence. A vendor op-ed argues
+  **operators, not banks**, will drive adoption by turning **RICA into a reusable identity credential**
+  (Vodacom+MTN mobile money past **$1tn**; SIM-swap = 60% of mobile-banking breaches, R5.3bn/yr) —
+  *promoted content, treat as opinion*. Sources: [[2026-07-10-sarb-explores-digital-identity]],
+  [[2026-06-09-operators-solved-fintech-digital-identity-next]].
+- **The exclusion counter-fact.** As of Jul 2026, **377,060 IDs remain blocked** on the National Population
+  Register (down from 702,267 when the Gauteng High Court found marker-placement without due process
+  unconstitutional; 52.6% duplicates), and DHA blames **"unserviceable addresses"** for failing to trace
+  ~400,000 people — court deadline extended to **March 2027**. The register that is being made compulsory
+  still cannot reliably reach the people it wrongly blocked. See [[include.access]],
+  [[south-africa--include-divides]]. Source: [[2026-07-17-home-affairs-unblock-identity-numbers-addresses]].
+- **A procurement shadow.** The Auditor-General found the **biometric driver's-licence card tender**
+  (Department of Transport DLCA, awarded to **[[idemia]]**, Aug 2024) irregular — all bids exceeded the
+  R486m budget (ballooning toward R898m), technical requirements unmet, evaluation improper (OUTA
+  complaint); the matter went to the High Court. Source: [[2025-03-06-biometric-drivers-licence-tender-ag]].
+
+*(Corroborating the framing above: the 2029 "before elections" target [[2025-03-11-digital-id-before-2029-elections]];
+the MyMzansi-roadmap schedule slip [[2026-01-30-digital-id-behind-schedule-mymzansi]]; the gazetted draft
+Identification Regulations [[2026-05-06-digital-id-draft-regulation-gazetted]], [[2026-05-09-smart-ids-go-digital-draft-rules]];
+the April-2025 verification-fee increase [[2025-03-25-biometric-verification-fee-increase]]; and Schreiber's
+digital-Home-Affairs vision [[2025-08-12-schreiber-digital-home-affairs]].)*
 
 ## Reads
 
