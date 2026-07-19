@@ -7576,3 +7576,9 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
 - Extended tanzania--dpi-id: 2025–26 registration drive (Jamii Namba for children+foreigners 2025-04; $4.5m minors pilot + integration portal + $145.2m Abu-Dhabi-financed smart-cities surveillance note 2025-05; fake-cert dispensation Oct2025–Oct2026; toll-free SMS 15274; TZS 131bn card production; Act amendment for birth registration + NIDA/RITA integration; centralised printing / Zanzibar declined). Folded corroborations: Project-II (2026-04-18) and Infant Bill (2026-01-06, +eRITA 48h, +60% birth reg).
 - Extended tanzania--dpi-registry: Zanzibar National Address Programme (450k addresses, 489k HESLB student loans); eRITA 48h birth certs; EU/UNICEF BRIDGE-Tanzania; 61–76% under-five registration.
 - Created entity heslb. Mapped clip entity [[nida]] → [[nida-tanzania]] across 12 clips. 0 prunes (2 corroborating near-dups folded, both add payload). Dead-link NONE.
+
+## 2026-07-19 ingest(TZA) chunk 2 — Payments & fintech (8 sources, 1 prune)
+- Created wiki/intersections/tanzania--dpi-pay.md: TIPS as state-built backbone (Governor Tutuba framing; TISS 31.1tn / mobile 23tn / TIPS 4.9tn yr-to-Aug-2025); fee caps + 113 licensed PSPs; M-Pesa Fintech 2.0 ($28m) + PayPal alliance; NALA $50m stablecoin rails; mandatory cash-lite economy from 1 Jul 2026; EAC TIPS-RSwitch corridor (corroborates hub).
+- Created entities: vodacom-tanzania, mpesa, nala, paypal. Mapped clip entity [[east-african-community]] → [[eac]].
+- PRUNE (lint #7): 2026-06-25 faida-za-malipo-kidijitali (Mwananchi) is a relevant-duplicate subset of 2026-06-24 The Citizen cash-lite piece (same budget, same sectors, English canonical more complete) — deleted, kept The Citizen.
+- Wired TZA hub dpi.pay bullet → Full case. Dead-link: only forward-ref tanzania--infra-connect (chunk 3).

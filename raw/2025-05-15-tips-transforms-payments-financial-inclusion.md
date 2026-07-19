@@ -10,6 +10,7 @@ places: [TZA]
 topics: [dpi.pay]
 entities: [[tips-tanzania], [bank-of-tanzania]]
 lens: []
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: TZA-2026-07-17
 ---

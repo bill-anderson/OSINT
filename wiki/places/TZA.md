@@ -149,7 +149,9 @@ intersections above.*
 - [[dpi.pay]] · [[include.access]] — **[[tips-tanzania]]**, built in-house by
   **[[bank-of-tanzania]]** with **[[fsdt]]**/[[gates-foundation]] support; the
   **[[tanzania-financial-consumer-protection-regulations]]** (GN 298 of 2025) cross-reference the
-  PDPA; the [[rswitch-rwanda]] corridor is the first EAC interlink.
+  PDPA; the [[rswitch-rwanda]] corridor is the first EAC interlink. Fee caps + **113 licensed PSPs**
+  (Mar 2026); **[[mpesa|M-Pesa]]** Fintech 2.0 and **[[nala]]** moving up the stack; a **mandatory
+  cash-lite economy from 1 Jul 2026**. Full case: **[[tanzania--dpi-pay]]**.
 - [[dpi.govtech]] · [[gov.policy]] — **[[tanzania-e-government-strategy-2022]]** (2022–2027, the
   *second* such strategy, replacing the expired 2013 one; the e-Government Agency became a full
   **e-Government Authority in 2019** under the **e-Government Act 2019** — [[ega-tanzania]]) and the

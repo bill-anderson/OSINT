@@ -10,6 +10,7 @@ places: [TZA]
 topics: [dpi.pay, finance.mou]
 entities: [[vodacom-tanzania], [mpesa], [paypal]]
 lens: []
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: TZA-2026-07-17
 ---

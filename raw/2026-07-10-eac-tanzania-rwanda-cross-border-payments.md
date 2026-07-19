@@ -8,8 +8,9 @@ date_precision: day
 date_source: source
 places: [TZA]
 topics: [dpi.pay, gov.regional, dpi.exchange]
-entities: [[east-african-community], [tips-tanzania], [bank-of-tanzania]]
+entities: [[eac], [tips-tanzania], [bank-of-tanzania]]
 lens: []
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: TZA-2026-07-17
 ---
