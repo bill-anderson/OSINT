@@ -21,6 +21,7 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 | DNS Technologies Ltd | MUS, LSO | infra.store, infra.cybersec | [[dns-technologies]] |
 | Verint Systems | XGL, MUS | infra.cybersec, gov.protect | [[verint]] |
 | Mauritius Telecom (MT) | MUS | infra.connect, infra.store, tech.ai, dpi.pay | [[mauritius-telecom]] |
+| Mauritius Commercial Bank (MCB) | MUS | dpi.pay, include.access | [[mauritius-commercial-bank]] |
 | Computer Business Solutions (CBS, Lesotho) | LSO | infra.store, tech.industry | [[computer-business-solutions]] |
 | Mukuru | XAF, LSO, ZAF | dpi.pay, finance.new | [[mukuru]] |
 | Jumhouria Bank | LBY | dpi.pay, finance.new | [[jumhouria-bank]] |
@@ -789,6 +790,7 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 | ANSSI (Agence nationale de la Sécurité des Systèmes d'Information) — Mali | MLI | infra.cybersec, gov.legislate | [[anssi-mali]] |
 | Ministry of IT, Communication and Innovation (MITCI) — Mauritius | MUS | gov.policy, dpi.govtech, tech.ai | [[ministry-ict-mauritius]] |
 | Data Protection Office (Mauritius) | MUS | gov.protect, gov.legislate, dpi.id | [[data-protection-office-mauritius]] |
+| Bank of Mauritius (BoM) | MUS | dpi.pay, gov.regional, geopol.india | [[bank-of-mauritius]] |
 
 ## Initiatives / programmes
 
@@ -1537,6 +1539,7 @@ about or from one becomes a normal source that cites it.
 | Angola National Cybersecurity Strategy (draft Presidential Decree) | AGO | infra.cybersec, gov.policy, gov.legislate | [[national-cybersecurity-strategy-angola]] |
 | UNESCO AI Readiness Assessment (RAM) — Angola | AGO | tech.ai, gov.policy, gov.standards | [[unesco-ram-angola]] |
 | Mauritius National Data Strategy 2025-2029 | MUS | gov.policy, gov.protect, data.open | [[mauritius-national-data-strategy]] |
+| Mauritius National Fintech Strategy 2026-2030 | MUS | dpi.pay, gov.policy, finance.new | [[mauritius-national-fintech-strategy]] |
 
 ## Instruments — scholarly & analytical works (`entity_type: instrument`; formerly "publications")
 

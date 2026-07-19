@@ -2,11 +2,11 @@
 type: concept
 title: India activities
 slug: geopol.india
-places: [AGO, XGL, MAR, XAF, BDI]
+places: [AGO, XGL, MAR, XAF, BDI, MUS]
 entities: [[david-eaves], [mosip], [nandan-nilekani], [gates-foundation], [india-stack]]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-10
+last_reviewed: 2026-07-19
 sources: [[2025-12-15 The Path to a Sovereign Tech Stack is Via a Commodified Tech Stack  TechPolicy.Press], [2026-06-17 They're taking DPI to the world - The Times of India]]
 ---
 
@@ -41,9 +41,16 @@ India's DPI model and its export as a template for other states.
   Sources: [[2026-06-30-burundi-india-stack-digital-id-payments-biometricupdate]],
   [[2026-06-23-burundi-studies-india-stack-digital-id-payments]].
 
+- **[[MUS]] Mauritius — UPI-RuPay cross-border link (2024→2026).** The **[[bank-of-mauritius|Bank of
+  Mauritius]]** launched the **UPI-RuPay partnership with India in February 2024** — Mauritius's **first
+  bilateral cross-border payments agreement** — enabling interoperability with India's UPI rail and pointing
+  toward a future UPI Global Hub. India's payments-stack diplomacy landing in the Indian Ocean, reinforced by the
+  Indian G20 presidency's DPI push. See [[dpi.pay]], [[mauritius--dpi-pay]], [[gov.regional]]. Source:
+  [[2026-02-04-bom-digital-payments-workshop-lexpress]].
+
 ## Places
 
-[[XGL]] · [[MAR]] · [[XAF]] · [[BDI]]
+[[XGL]] · [[MAR]] · [[XAF]] · [[BDI]] · [[MUS]]
 
 ## Related
 

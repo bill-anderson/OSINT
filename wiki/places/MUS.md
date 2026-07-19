@@ -4,7 +4,7 @@ title: Mauritius
 code: MUS
 parent: XEA
 place_kind: country
-topics: [dpi.pay, finance.new, gov.protect, gov.regional, dpi.id, dpi.govtech, gov.policy, gov.legislate, dpi.registry, dpi.exchange, gov.standards, dpi.mis, data.statistics, include.access, data.open, geopol.eu, infra.cybersec, infra.store, infra.connect, tech.ai]
+topics: [dpi.pay, finance.new, gov.protect, gov.regional, dpi.id, dpi.govtech, gov.policy, gov.legislate, dpi.registry, dpi.exchange, gov.standards, dpi.mis, data.statistics, include.access, data.open, geopol.eu, infra.cybersec, infra.store, infra.connect, tech.ai, geopol.india]
 status: active
 last_reviewed: 2026-07-19
 ---
@@ -27,6 +27,11 @@ cross-border fintech and payments gateway into Africa.
   election). Full thread: **[[mauritius--gov-protect]]**. Sources:
   [[2026-07-13-privacy-of-communications-moustass-leaks-mauritiustimes]],
   [[2025-02-07-in-the-shadows-of-mass-surveillance-mauritiustimes]]. See [[gov.protect]], [[tech.ai]].
+- **2026-06-29** — **National Fintech Strategy 2026-2030.** Unveiled 25 Jun 2026 (UN ECA support): six pillars,
+  a **National Fintech Governance Committee**, **open banking**, AI-in-finance and a **Business Facilitation
+  Bill**, delivered with the **[[bank-of-mauritius|BoM]]**. Instrument:
+  [[mauritius-national-fintech-strategy]]. Source: [[2026-06-29-national-fintech-strategy-2026-2030-wearetech]].
+  See [[mauritius--dpi-pay]], [[dpi.pay]], [[gov.policy]].
 - **2026-06-12** — **DPO Regulations 2026 promulgated.** The Cabinet approved the **Data Protection
   (Designation, Tasks and Position of Data Protection Officers) Regulations 2026**, formalising DPO status and
   duties across public and private sectors (six-month compliance window; in force **1 Jan 2027**). Source:
@@ -60,6 +65,13 @@ cross-border fintech and payments gateway into Africa.
   pitching the island as a **regional cloud & cybersecurity hub**. Source:
   [[2026-04-03-tech-trends-data-sovereignty-lexpress]]. See [[mauritius--infra-store]], [[infra.store]],
   [[gov.protect]].
+- **2026-02-04** — **Central-bank payments modernisation + measurable adoption.** BoM Governor Muthoora Thakoor
+  put payments transformation at the centre (**KYC System**, G20 cross-border roadmap, stablecoin caution, AI
+  fraud detection) and recalled the **UPI-RuPay** link with India (Feb 2024, the country's first bilateral
+  cross-border payments deal). Adoption is real: **[[mauritius-commercial-bank|MCB]]** reported **QR payments
+  +67%** in 2025 and cash falling **30%→27%** of spend. Sources:
+  [[2026-02-04-bom-digital-payments-workshop-lexpress]], [[2026-01-19-mcb-qr-payments-67pc-growth-lexpress]]. See
+  [[mauritius--dpi-pay]], [[geopol.india]], [[include.access]].
 - **2026-01-28** — **National Data Strategy 2025-2029 launched ("A New Era of Trust").** MITCI and the
   **[[data-protection-office-mauritius|Data Protection Office]]** launched the
   **[[mauritius-national-data-strategy|National Data Strategy 2025-2029]]** on World Data Protection Day —
@@ -133,8 +145,10 @@ cross-border fintech and payments gateway into Africa.
   Transformation 2025-2029]]** (**[[ministry-ict-mauritius|MITCI]]**) + new digital regulations;
   **[[mauritius-national-data-strategy|National Data Strategy 2025-2029]]**; inter-ministerial committee; EGDI
   2024 leader.
-- [[dpi.pay]] · [[finance.new]] · [[gov.regional]] — **[[maucas|MauCAS]]** instant payments; cross-border
-  fintech gateway ([[peach-payments]]); FATF grey-list exit.
+- [[dpi.pay]] · [[finance.new]] · [[gov.regional]] · [[geopol.india]] — **[[maucas|MauCAS]]** instant payments
+  (QR adoption +67% at [[mauritius-commercial-bank|MCB]]); **[[mauritius-national-fintech-strategy|National
+  Fintech Strategy 2026-2030]]**; **[[bank-of-mauritius|BoM]]** modernisation; **UPI-RuPay** India link;
+  cross-border gateway ([[peach-payments]]; FATF exit) — **[[mauritius--dpi-pay]]**.
 - [[gov.protect]] · [[data.open]] · [[geopol.eu]] — advanced **[[data-protection-office-mauritius|DPO]]** regime
   (~3,000 amicable actions/yr; DPO Regulations 2026; **EU adequacy** bid / full GDPR alignment; FOI Bill) set
   against a **state-surveillance controversy** (VERINT/PertSol; Moustass Leaks) — full picture in
@@ -148,8 +162,8 @@ cross-border fintech and payments gateway into Africa.
 
 ## Entities
 
-- [[mauritius-mobile-id]] · [[mauritius-digital-blueprint-2025-2029]] · [[mauritius-national-data-strategy]] · [[ministry-ict-mauritius]] · [[data-protection-office-mauritius]] · [[e-social-security-mauritius]] · [[maucas]] · [[civil-status-division-mauritius]] · [[thales]] · [[peach-payments]] · [[verint]] · [[mauritius-telecom]]
-- Intersections: [[mauritius--gov-protect]] · [[mauritius--infra-store]]
+- [[mauritius-mobile-id]] · [[mauritius-digital-blueprint-2025-2029]] · [[mauritius-national-data-strategy]] · [[ministry-ict-mauritius]] · [[data-protection-office-mauritius]] · [[e-social-security-mauritius]] · [[maucas]] · [[civil-status-division-mauritius]] · [[thales]] · [[peach-payments]] · [[verint]] · [[mauritius-telecom]] · [[bank-of-mauritius]] · [[mauritius-commercial-bank]] · [[mauritius-national-fintech-strategy]]
+- Intersections: [[mauritius--gov-protect]] · [[mauritius--infra-store]] · [[mauritius--dpi-pay]]
 - Mentioned, not hubbed: Drudeisha Madhub (data-protection commissioner, heads the
   [[data-protection-office-mauritius|DPO]]); Ashok Subron (Minister of Social Security); Bank of Mauritius;
   ICTA; CERT-MU; MPF; FATF.

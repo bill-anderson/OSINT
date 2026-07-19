@@ -6609,3 +6609,20 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
   cables/my.t-money users); not relevant-duplicates.
 - Sources: 2026-01-21 MT strategy (lexpress), 2025-12-08 MT Connect (techafricanews), 2025-07-16 hyperscale hub
   (telecomreviewafrica), 2025-12-31 Rose-Belle Tier IV (lexpress), 2026-04-03 Tech Trends (lexpress).
+
+## 2026-07-19 — ingest(MUS) chunk 4/6: Payments / fintech
+
+- **3 sources admitted, 0 leads, 0 discards.**
+- **Intersection created:** [[mauritius--dpi-pay]] — consolidates the payments picture: MauCAS + MCB/Juice QR
+  adoption (+67% 2025, cash 30→27%), National Fintech Strategy 2026-2030 (open banking, National Fintech
+  Governance Committee, UN ECA), BoM modernisation (KYC, stablecoin caution, AI fraud), UPI-RuPay India link
+  (first bilateral cross-border deal), my.t money, peach-payments cross-border hub / FATF exit.
+- **Entities created (3):** [[bank-of-mauritius]] (government-body/central bank),
+  [[mauritius-commercial-bank]] (company), [[mauritius-national-fintech-strategy]] (instrument).
+- **MUS hub:** +2 Recent-developments entries (Fintech Strategy 2026-06-29; BoM/UPI-RuPay + MCB adoption
+  2026-02-04); dpi.pay Active-topics line → intersection; +geopol.india topic; Entities/Intersections refreshed.
+- **Concepts:** [[dpi.pay]] MUS by-place line expanded (strategy/BoM/MCB/UPI-RuPay → intersection);
+  [[geopol.india]] +MUS +UPI-RuPay bullet (+Places).
+- **entities-index:** +3 rows.
+- Sources: 2026-06-29 Fintech Strategy (wearetech), 2026-02-04 BoM workshop (lexpress), 2026-01-19 MCB QR
+  (lexpress).
