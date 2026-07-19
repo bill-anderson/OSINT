@@ -6549,3 +6549,23 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
 - No contradictions or gaps. Several same-event twins kept as complementary (mobile-ID tender, SPIM/METIX,
   5G spectrum bids, internet-restriction two-sided); Jornal Notícias PT coverage near-invisible to Exa
   (noted, PT flowed via out-of-scope .mz outlets).
+
+## 2026-07-19 — ingest(MUS) chunk 1/6: Digital strategy / e-gov / data governance
+
+- **3 sources admitted, 0 leads, 1 discard** (relevant-duplicate pruned).
+- **Dedup:** `2026-02-03-national-data-strategy-launch-wearetech` pruned as an exact relevant-duplicate of
+  the richer, earlier `2026-02-01-national-data-strategy-2025-2029-launch-lexpress` (kept: FR daily,
+  canonical node URL, adds FOI Bill + MPF-DPO-CERT-MU MoU + Ramtohul detail the trade brief lacked; pruned
+  brief added no in-scope fact). Lint #7 ladder (b)+(c). Not cited anywhere.
+- **Entities created (4):** [[data-protection-office-mauritius]] (government-body),
+  [[ministry-ict-mauritius]] (MITCI, government-body), [[mauritius-national-data-strategy]] (instrument),
+  [[e-social-security-mauritius]] (initiative).
+- **Entities updated:** [[mauritius-digital-blueprint-2025-2029]] — added 26 May 2025 launch source
+  (President Gokhool; "A Bridge to the Future"; OECD/SDG alignment).
+- **MUS hub:** +2 Recent-developments entries (E-Social Security 2026-05-27; National Data Strategy
+  2026-01-28); Active-topics + Entities refreshed; +data.open topic; last_reviewed → 2026-07-19.
+- **Concepts:** [[gov.policy]] +MUS +"stacked 2025-2029 strategy programme" bullet; [[data.open]] +MUS +FOI
+  Bill bullet.
+- **entities-index:** +4 rows.
+- Sources admitted: 2025-05-26 blueprint launch (lexpress), 2026-02-01 NDS (lexpress), 2026-06-02
+  e-social-security (wearetech).

@@ -4,9 +4,9 @@ title: Mauritius
 code: MUS
 parent: XEA
 place_kind: country
-topics: [dpi.pay, finance.new, gov.protect, gov.regional, dpi.id, dpi.govtech, gov.policy, gov.legislate, dpi.registry, dpi.exchange, gov.standards, dpi.mis, data.statistics, include.access]
+topics: [dpi.pay, finance.new, gov.protect, gov.regional, dpi.id, dpi.govtech, gov.policy, gov.legislate, dpi.registry, dpi.exchange, gov.standards, dpi.mis, data.statistics, include.access, data.open]
 status: active
-last_reviewed: 2026-07-16
+last_reviewed: 2026-07-19
 ---
 
 # Mauritius (MUS)
@@ -20,6 +20,13 @@ cross-border fintech and payments gateway into Africa.
 
 ## Recent developments
 
+- **2026-05-27** — **E-Social Security: welfare system digitised after 13 years.** The government launched the
+  **[[e-social-security-mauritius|"Bulk Scanning of Beneficiary Files"]]** project to digitise **10.5M+
+  social-benefit documents** into a future E-Social Security platform. Social-protection spend hit **Rs 91.4bn
+  (12.8% of GDP)** in FY2024-25; **279,559** drew the Basic Retirement Pension (Jun 2025); ~**800,000
+  payments/month** to ≥**350,000** beneficiaries; full integration ~18 months (Minister Ashok Subron). Source:
+  [[2026-06-02-e-social-security-digitization-welfare-wearetech]]. See [[dpi.mis]], [[dpi.registry]],
+  [[include.access]].
 - **2026-05-18** — **Emerging as an African cross-border payments hub.** Fintechs use the island as a treasury
   and billing gateway into fragmented African markets. **[[peach-payments]]** reports its Mauritius entity grew
   transaction volume **>300% YoY** (2024→2025) and merchant count **+42%**, now serving **150+ companies**;
@@ -31,14 +38,23 @@ cross-border fintech and payments gateway into Africa.
   mandates chief data officers, and is amending the law to add administrative fines. Source:
   [[2026-05-16 World Bank, African DPAs outline formula for trusted digital identity, DPI]]. See
   [[gov.protect]].
+- **2026-01-28** — **National Data Strategy 2025-2029 launched ("A New Era of Trust").** MITCI and the
+  **[[data-protection-office-mauritius|Data Protection Office]]** launched the
+  **[[mauritius-national-data-strategy|National Data Strategy 2025-2029]]** on World Data Protection Day —
+  responsible data governance, cybercrime prevention and online protection of minors. Commissioner Madhub
+  announced a **Freedom of Information Bill** in preparation; a **MPF–DPO–CERT-MU MoU** was signed. Source:
+  [[2026-02-01-national-data-strategy-2025-2029-launch-lexpress]]. See [[gov.policy]], [[gov.protect]],
+  [[data.open]].
 - **2025-08/09** — **Digital Transformation 2025-2029 Blueprint moves into delivery.** Following the May-2025
   **[[mauritius-digital-blueprint-2025-2029|Blueprint]]** (MITCI), the government announced **new digital
   regulations** (Minister Ramtohul, 21 Aug 2025) and set up an **inter-ministerial committee** (26 Aug 2025) to
   coordinate the strategy. Sources:
   [[2025-09-10 Mauritius Digital Transformation 2025-2029 - A Blueprint and New Digital Regulations]],
   [[2025-09-01 Mauritius Establishes Inter-Ministerial Committee to Drive Digital Strategy]],
-  [[2025-05-01 A Blueprint for Mauritius - Digital Transformation 2025-2029]]. See [[gov.policy]],
-  [[dpi.govtech]].
+  [[2025-05-01 A Blueprint for Mauritius - Digital Transformation 2025-2029]],
+  [[2025-05-26-blueprint-digital-transformation-launch-lexpress]] *(newspaper-of-record account of the 26 May
+  launch — President Gokhool presiding; aligned to the "A Bridge to the Future" programme, OECD digital-gov
+  principles and the SDGs)*. See [[gov.policy]], [[dpi.govtech]].
 - **2025-02-06** — **Mobile ID: privacy caution.** A *Le Mauricien* analysis welcomed the
   **[[mauritius-mobile-id|Mobile ID]]** wallet's convenience but flagged **privacy/surveillance** risks and
   urged safeguards around the NIC (Mobile ID) Regulations 2024. Source:
@@ -78,17 +94,22 @@ cross-border fintech and payments gateway into Africa.
 - [[dpi.id]] · [[dpi.registry]] — **[[mauritius-mobile-id|Mobile ID]]** wallet (Thales, ISO-standard); NIC
   (Mobile ID) Regulations 2024; **[[civil-status-division-mauritius|CSD]]** CRVS base; SIM eKYC.
 - [[gov.policy]] · [[dpi.govtech]] · [[gov.legislate]] — **[[mauritius-digital-blueprint-2025-2029|Digital
-  Transformation 2025-2029]]** + new digital regulations; inter-ministerial committee; EGDI 2024 leader.
+  Transformation 2025-2029]]** (**[[ministry-ict-mauritius|MITCI]]**) + new digital regulations;
+  **[[mauritius-national-data-strategy|National Data Strategy 2025-2029]]**; inter-ministerial committee; EGDI
+  2024 leader.
 - [[dpi.pay]] · [[finance.new]] · [[gov.regional]] — **[[maucas|MauCAS]]** instant payments; cross-border
   fintech gateway ([[peach-payments]]); FATF grey-list exit.
-- [[gov.protect]] — advanced DPO regime (~3,000 amicable actions/yr; mandated chief data officers; pending
-  administrative-fines amendment).
-- [[dpi.exchange]] · [[gov.standards]] · [[dpi.mis]] — e-Gov Interoperability Framework (2002); Health 2015
-  eHealth strategy.
+- [[gov.protect]] · [[data.open]] — advanced **[[data-protection-office-mauritius|DPO]]** regime (~3,000
+  amicable actions/yr; mandated chief data officers; pending administrative-fines amendment); **Freedom of
+  Information Bill** in preparation.
+- [[dpi.mis]] · [[dpi.registry]] · [[include.access]] — **[[e-social-security-mauritius|E-Social Security]]**
+  welfare digitisation (10.5M records).
+- [[dpi.exchange]] · [[gov.standards]] — e-Gov Interoperability Framework (2002); Health 2015 eHealth strategy.
 
 ## Entities
 
-- [[mauritius-mobile-id]] · [[mauritius-digital-blueprint-2025-2029]] · [[maucas]] · [[civil-status-division-mauritius]] · [[thales]] · [[peach-payments]]
-- Mentioned, not hubbed: MITCI (Ministry of IT, Communication & Innovation; Minister Ramtohul); Drudeisha
-  Madhub (data-protection commissioner); Bank of Mauritius; ICTA; FATF.
+- [[mauritius-mobile-id]] · [[mauritius-digital-blueprint-2025-2029]] · [[mauritius-national-data-strategy]] · [[ministry-ict-mauritius]] · [[data-protection-office-mauritius]] · [[e-social-security-mauritius]] · [[maucas]] · [[civil-status-division-mauritius]] · [[thales]] · [[peach-payments]]
+- Mentioned, not hubbed: Drudeisha Madhub (data-protection commissioner, heads the
+  [[data-protection-office-mauritius|DPO]]); Ashok Subron (Minister of Social Security); Bank of Mauritius;
+  ICTA; CERT-MU; MPF; FATF.
 - Parent region: [[XEA]] · continental: [[XAF]].

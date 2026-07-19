@@ -2,11 +2,11 @@
 type: concept
 title: Strategies, plans and policies
 slug: gov.policy
-places: [COD, CMR, BDI, AGO, ZMB, XGL, KEN, ZAF, GHA, NAM, MWI, NGA, XAF, EGY, XSS, SEN, CIV, XEA, RWA, TZA, UGA, LBR, ETH, BFA, MOZ, SOM, CAF, DJI, CPV, DZA, ERI, STP, SLE]
+places: [COD, CMR, BDI, AGO, ZMB, XGL, KEN, ZAF, GHA, NAM, MWI, NGA, XAF, EGY, XSS, SEN, CIV, XEA, RWA, TZA, UGA, LBR, ETH, BFA, MOZ, SOM, CAF, DJI, CPV, DZA, ERI, STP, SLE, MUS]
 entities: [[smart-zambia-institute], [world-bank], [david-eaves], [sita], [undp], [samuel-nartey-george], [popia], [research-ict-africa], [bosun-tijani], [us-department-of-state], [african-development-bank], [nafa], [sidi-ould-tah], [ncc], [paris21], [2026-07-11 data-systems-crossroads], [global-center-on-ai-governance], [new-deal-technologique], [nitda], [kashifu-inuwa], [eac], [paula-ingabire], [ghana-national-ai-strategy], [uneca], [african-union], [digital-liberia-strategy], [lta-liberia], [digital-ethiopia-2030], [fayda-ethiopia-national-id], [telebirr], [afcfta], [malawi-ministry-of-ict], [atdi-mozambique], [central-bank-of-somalia], [nira-somalia], [cbn], [cbn-policy-insight-series-2025], [ecowas], [bf-ministry-digital-transition], [rwanda-dpi-strategy], [rwanda-information-society-authority], [au-continental-ai-strategy], [digital-investment-facility], [global-gateway], [nigeria-digital-postcode-system], [ecdpm], [european-union], [aficta], [itu], [au-data-policy-framework], [au-digital-transformation-strategy]]
 lens: [sovereignty, colonialism]
 status: active
-last_reviewed: 2026-07-16
+last_reviewed: 2026-07-19
 sources: [[2025-09-11 DZAP World Bank PAD], [2025-12-15 The Path to a Sovereign Tech Stack is Via a Commodified Tech Stack  TechPolicy.Press], [2026-06-23 Africa's Data Centre Boom Where The New Facilities Are Being Built], [2026-07-07 South Africa's state IT agency is slowing government tech rollout], [2026-07-07 Ghana and UNDP Strengthen Partnership on Digital Transformation Projects], [2026-07-08 China funds Namibia digital infrastructure], [2026-06-08 Kenya proposes marketplace for State data], [2026-02-25 South Africa puts data centres on par with energy, ports in big policy shift], [2026-06-10 Rwanda Launches Dedicated AI Agency to Drive Investment and Innovation], [2026-05-18 Eswatini promotes digital transformation project through World Bank engagements], [2026-06-17 Zambia's govt leans towards open-source], [2026-06-16 Who Owns Africa's Sky], [2026-06-03 How the EU's Tech Sovereignty Package Finally Puts Open Source to the Test], [2026-06-11 The Case Against the EU's Tech Sovereignty Package], [2025-01-01 South African Digital Sovereignty at the Crossroad of Securitization and Development (Chapter 4) - Digital Sovereignty in the BRICS Countries], [2026-07-10 Kenya and U.S. Discuss Draft Data Governance Policy to Strengthen Digital Economy], [2026-07-08 FG Halts Enforcement of New Regulations on Internet Platforms], [2026-01-01 Digital Public Infrastructure in Africa - UNDP], [2026-02-26 The AfDB's push for African financial sovereignty, and a tech investment rebound], [2026-05-26 AfDB says Africa must fund its own growth as aid model frays], [2026-05-21 Pushing back from Big Tech Africa's hard road to AI sovereignty], [2026-04-28 African Ministers call for harmonised policies and infrastructure investment at Connected Africa Summit Roundtable], [2026-05-29 Africa's Mobile Money Networks Are Becoming Tax Infrastructure], [2026-06-03 Malawi reaps digital tax gains], [2026-05-22 Why global hyperscalers are avoiding Nigeria despite Africa's biggest market], [2026-03-25 Senegal Accelerates Digital Sovereignty with Rollout of Flagship Technology Initiatives], [2026-04-12 Côte d'Ivoire convenes strategic seminar to align digital transformation agenda], [2026-04-14 Nigeria Seeks Stronger Digital Sovereignty, National Software Infrastructure], [2026-03-31 EAC moves to create unified AI Sovereignty bloc], [2026-04-03 Ghana approves $250M AI Hub & National AI Strategy], [2026-04-13 Stakeholders urge shift in digital public infrastructure trajectory], [2026-03-20 Rwanda Launches Digital Public Infrastructure Strategy to Lay Groundwork for AI and Inclusive Growth], [2026-01-01 Data Governance in Africa - Digital Investment Facility], [2026-03-05 Nigeria approves modern digital postcode system], [2026-01-01 (2) Digital Public Infrastructure and the Politics of Data in Africa]]
 ---
 
@@ -16,6 +16,16 @@ National digital strategy, ownership and the financing conditions around it.
 
 ## Key material
 
+- **Mauritius's stacked 2025-2029 strategy programme (2025-05→2026).** Africa's EGDI leader is executing an
+  unusually coherent, layered policy stack out of **[[ministry-ict-mauritius|MITCI]]**: the
+  **[[mauritius-digital-blueprint-2025-2029|Digital Transformation Blueprint 2025-2029]]** (umbrella, launched
+  May 2025, aligned to the OECD digital-gov principles and SDGs), then the
+  **[[mauritius-national-data-strategy|National Data Strategy 2025-2029]]** ("A New Era of Trust," Jan 2026,
+  with a Freedom of Information Bill), a **National AI Strategy** + FAIR guidelines (Apr 2026) and a **National
+  Fintech Strategy 2026-2030** — a small-state model of sequenced, instrument-by-instrument digital policy. See
+  [[MUS]], [[gov.protect]], [[tech.ai]], [[dpi.pay]]. Sources:
+  [[2025-05-26-blueprint-digital-transformation-launch-lexpress]],
+  [[2026-02-01-national-data-strategy-2025-2029-launch-lexpress]].
 - **National data policies as sovereignty instruments (2026-07).** Three tracks:
   **[[ZAF]]** South Africa's EU-adequacy **[[popia]]** vs its localization-leaning Draft
   Data & Cloud Policy ([[research-ict-africa]] warns it obstructs AfCFTA flows);

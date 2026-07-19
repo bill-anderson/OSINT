@@ -785,6 +785,8 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 | APDP (Autorité de Protection des Données à caractère Personnel) — Mali | MLI | gov.protect, gov.legislate, dpi.registry | [[apdp-mali]] |
 | AGETIC (Agence des Technologies de l'Information et de la Communication) — Mali | MLI | dpi.govtech, infra.cybersec, infra.connect | [[agetic]] |
 | ANSSI (Agence nationale de la Sécurité des Systèmes d'Information) — Mali | MLI | infra.cybersec, gov.legislate | [[anssi-mali]] |
+| Ministry of IT, Communication and Innovation (MITCI) — Mauritius | MUS | gov.policy, dpi.govtech, tech.ai | [[ministry-ict-mauritius]] |
+| Data Protection Office (Mauritius) | MUS | gov.protect, gov.legislate, dpi.id | [[data-protection-office-mauritius]] |
 
 ## Initiatives / programmes
 
@@ -1077,6 +1079,7 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 | Registo Eleitoral Oficioso — Angola | AGO | dpi.registry, dpi.id, include.access | [[registo-eleitoral-oficioso-angola]] |
 | SARSSy (Southern African Regional Submarine System) | AGO, NAM, XSA | infra.connect, gov.regional, finance.mou | [[sarssy]] |
 | SLB Africa Performance Center (Luanda) | AGO | tech.ai, tech.industry, capacity.training, geopol.usa | [[slb-africa-performance-center]] |
+| E-Social Security (Mauritius) | MUS | dpi.mis, dpi.registry, include.access, dpi.govtech | [[e-social-security-mauritius]] |
 
 ## Deals
 
@@ -1531,6 +1534,7 @@ about or from one becomes a normal source that cites it.
 | Angola National Statistics Development Strategy 2026–2032 (ENDE) | AGO | data.statistics, gov.policy, gov.legislate | [[ende-angola]] |
 | Angola National Cybersecurity Strategy (draft Presidential Decree) | AGO | infra.cybersec, gov.policy, gov.legislate | [[national-cybersecurity-strategy-angola]] |
 | UNESCO AI Readiness Assessment (RAM) — Angola | AGO | tech.ai, gov.policy, gov.standards | [[unesco-ram-angola]] |
+| Mauritius National Data Strategy 2025-2029 | MUS | gov.policy, gov.protect, data.open | [[mauritius-national-data-strategy]] |
 
 ## Instruments — scholarly & analytical works (`entity_type: instrument`; formerly "publications")
 

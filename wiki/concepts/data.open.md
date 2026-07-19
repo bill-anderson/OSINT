@@ -2,11 +2,11 @@
 type: concept
 title: Open data
 slug: data.open
-places: [KEN, ZMB, ETH, XGL, XSS]
+places: [KEN, ZMB, ETH, XGL, XSS, MUS]
 entities: [[kenya-data-marketplace], [publish-what-you-fund], [international-aid-transparency-initiative], [usaid], [data-for-policy], [the-govlab], [digital-data-driven-transformations-landscape-review-2025]]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-14
+last_reviewed: 2026-07-19
 sources: [[2026-06-08 Kenya proposes marketplace for State data], [2026-06-17 Zambia's govt leans towards open-source], [2026-07-02 Can AI solve open aid data's access problem], [2023-09-04 Data for Policy - About Us], [2025-01-01 Digital & data-driven transformations in governance a landscape review  Data & Policy], [2026-06-08 Kenya Wants to Sell Your Data. But It's Complicated], [2025-12-15 African AI Startups Should Publish Openly], [2026-02-10 AI in Africa Barriers, opportunities and policy]]
 ---
 
@@ -27,6 +27,12 @@ vendor-neutral publication of foundational reference data.
   [[2026-05-07 African Guidelines on Data Access ACHPR Res 620 draft]],
   [[2026-05-07 What will determine the success of Rwanda’s data governance push]]. See [[dpi.exchange]], [[gov.regional]].
 
+- **Mauritius: Freedom of Information Bill in preparation (2026-01).** At the launch of the
+  **[[mauritius-national-data-strategy|National Data Strategy 2025-2029]]**, Data Protection Commissioner
+  Drudeisha Madhub announced a **Freedom of Information Bill** in preparation, framing access to information as
+  central to modern democracy and the **[[data-protection-office-mauritius|DPO]]** as a facilitator of
+  transparency — a rare African RTI/FOI move paired with a data-protection regime. See [[MUS]], [[gov.protect]].
+  Source: [[2026-02-01-national-data-strategy-2025-2029-launch-lexpress]].
 - **Kenya's State-data marketplace (2026-06, ITWeb Africa).** Kenya's Ministry
   of ICT & the Digital Economy proposes a **State-run marketplace** to licence
   **anonymised** government datasets (from **eCitizen** — 22,000+ services across
@@ -102,7 +108,7 @@ vendor-neutral publication of foundational reference data.
 
 ## Places
 
-[[KEN]] · [[ZMB]] · [[ETH]] · [[XGL]] · [[XSS]]
+[[KEN]] · [[ZMB]] · [[ETH]] · [[MUS]] · [[XGL]] · [[XSS]]
 
 ## Related
 
