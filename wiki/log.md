@@ -7507,3 +7507,25 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
   system (Cameroon lifeline, stalled/vandalised backbone) hedged with an IXP and Starlink; and courting
   every bloc (China/US/Azerbaijan/India/EU) with few signed instruments — the sovereign data centre built,
   audited and powered by outsiders.
+
+## 2026-07-19 — ingest(TGO) chunk 5: AI, innovation & strategy
+
+- **7 admitted, 1 pruned** (SIN-ST Digital cloud — held event).
+- **Created:** [[togo--tech-ai]] — sovereign AI (Togo AI Lab open-source models for 50 national languages,
+  "language models as public infrastructure"), GRCRO AI-AML (46 countries, CENTIF/HAPLUCIA), Togo IGF
+  (digital-sovereignty theme), TogoTech startups, Togo Digital 2025-2030 strategy. +Togo AI Lab & TogoTech.
+- Hub: ARTAO broadband-PPP + Togo-Luxembourg TogoCyber+ added as gov.regional/finance.mou entries.
+- Hub wired + last_reviewed → 2026-07-19. **new/ drained to 0 — TGO batch complete.**
+
+### TGO batch summary (chunks 1-5)
+- Full 33-clip drain across 5 thematic chunks; standard dedup (5 pruned as multi-outlet/held/proxy dups).
+  TGO went from 2 intersections to 6.
+- New intersections: togo--dpi-govtech, togo--gov-protect, togo--tech-ai; expanded togo--dpi-id, --dpi-pay.
+  New entities: gozem, semoa, atd-togo, centipos, ancy-togo, togo-ai-lab, togotech.
+- **Resolved GAP-TGO-002** (6M+ NIUs end-2025, official gov figure) — reconciled the stale gap paragraph.
+- Through-lines: a **regional DPI reference implementation** consolidating rather than founding (6M e-ID,
+  ministry-by-ministry digitisation, CENTIF cm-precision mapping); a **regional payments rail** (PI-SPI)
+  it participates in rather than owns, with a Mixx/Flooz duopoly + Gozem/Semoa fintechs hardened by BCEAO
+  licensing; an **operational DPA** (rare for the region) but security-linked (colonel-led, HAAC monitoring
+  access) — independence the open question; and **sovereign AI** framed as owning national-language models
+  as public infrastructure.

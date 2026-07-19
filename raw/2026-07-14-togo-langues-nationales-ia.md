@@ -10,6 +10,7 @@ places: [TGO]
 topics: [tech.ai, capacity.research, data.open]
 entities: [[togo-ai-lab], [cina-lawson], [zindi]]
 lens: [sovereignty]
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: TGO-2026-07-17
 ---

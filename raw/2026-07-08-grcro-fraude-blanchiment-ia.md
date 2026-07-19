@@ -10,6 +10,7 @@ places: [TGO]
 topics: [tech.ai, infra.cybersec, gov.protect]
 entities: [[centif-togo]]
 lens: []
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: TGO-2026-07-17
 ---

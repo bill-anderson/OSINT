@@ -6,7 +6,7 @@ parent: XWA
 place_kind: country
 topics: [dpi.id, dpi.registry, dpi.pay, dpi.govtech, dpi.exchange, dpi.mis, gov.protect, gov.legislate, gov.regional, gov.standards, gov.policy, infra.store, infra.connect, infra.energy, include.access, include.divides, tech.ai, tech.industry, tech.innovate, capacity.training, digital.localgov, data.statistics, data.satellite, finance.new, finance.mou]
 status: active
-last_reviewed: 2026-07-17
+last_reviewed: 2026-07-19
 ---
 
 # Togo (TGO)
@@ -185,7 +185,8 @@ the payments, AML, civil-registry and e-ID-rollout threads.
   the law's text nor the IPDCP's establishing act is held* — GAP-TGO-001); [[togo-aml-law-2025]].
   IPDCP now operational (awareness campaigns, 3,000 youth trained, first 32 corporate DPOs); ANCy/CERT.tg + cyber-strategy 2024-2028; a security-linked DPA (colonel-led, HAAC monitoring-room access). Full case: [[togo--gov-protect]].
 - [[dpi.mis]] — [[dhis2]] / [[stateduc]] education MIS via [[hisp-wca]].
-- [[infra.store]] · [[tech.ai]] — [[sin-togo]] / [[lome-data-centre]] sovereign cloud.
+- [[infra.store]] · [[tech.ai]] — [[sin-togo]] / [[lome-data-centre]] sovereign cloud; Togo AI Lab national-language models (sovereign AI), TogoTech startups, Togo IGF, GRCRO AI-AML, Togo Digital 2025-2030 strategy. Full case: [[togo--tech-ai]].
+- [[gov.regional]] · [[finance.mou]] — ARTAO 23rd AGM (Lomé, broadband-PPP financing debate — [[2026-04-21-artao-ppp-haut-debit]]); Togo-Luxembourg TogoCyber+ cyber-cooperation agreements ([[2026-07-16-togo-luxembourg-accords-cybersecurite]]).
 - [[infra.connect]] · [[include.divides]] — **3.56m internet users, 37.0% penetration (Jan 2025)**,
   +2.2% YoY with the adoption rate unchanged; **6.06m people (63.0%) offline**; **7.53m mobile
   connections = 78.2% of population**, 63.5% broadband; population **9.62m**, **54.7% rural**.
