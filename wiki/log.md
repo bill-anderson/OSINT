@@ -7547,3 +7547,9 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
 - Created wiki/intersections/tunisia--dpi-govtech.md (whole-of-state e-gov programme; UXP pilot→economic backbone; EU-anchored, safeguards-lag caveat).
 - Updated entities: uxp-tunisia (+Phase 2), ministry-of-communication-technologies-tunisia (+192 projects, +Digital Summit).
 - Dropped mention-only [[pwc]] from UXP clip frontmatter. Wired TUN hub dpi.exchange/govtech bullet → Full case. Dead-link NONE.
+
+## 2026-07-19 ingest(TUN) chunk 4/6 — Data protection & legal frameworks
+- Admitted 2 sources: 123-article DP organic law in ARP committee (2026-02-20), Art-53 e-invoicing amendment + DP-readiness report (2026-02-10). 0 prunes.
+- Created wiki/intersections/tunisia--gov-protect.md (the guardrail half of "capability ahead of safeguards"; resolves the chunk-2 forward-ref).
+- Created entities: instance-nationale-protection-donnees-personnelles-tunisia (INPDP), assembly-of-peoples-representatives-tunisia (ARP).
+- Wired TUN hub gov.protect bullet → Full case. Dead-link NONE (forward-ref resolved).

@@ -10,6 +10,7 @@ places: [TUN]
 topics: [gov.legislate, dpi.govtech, gov.protect]
 entities: [[assembly-of-peoples-representatives-tunisia], [ministry-of-communication-technologies-tunisia]]
 lens: []
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: TUN-2026-07-17
 ---

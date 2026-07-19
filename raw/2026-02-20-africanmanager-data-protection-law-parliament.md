@@ -10,6 +10,7 @@ places: [TUN]
 topics: [gov.protect, gov.legislate, tech.ai]
 entities: [[assembly-of-peoples-representatives-tunisia], [instance-nationale-protection-donnees-personnelles-tunisia]]
 lens: [sovereignty]
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: TUN-2026-07-17
 ---

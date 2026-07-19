@@ -146,10 +146,12 @@ thing to watch.
   [[smt-tunisia]], May 2026); telco/Gulf wallets ([[tunisie-telecom]] Kashy, Ooredoo walletii).
   Full case: [[tunisia--dpi-pay]].
 - [[gov.protect]] · [[gov.legislate]] — **[[organic-law-2004-63-tunisia]]** governed this period and
-  is described by civil society as outdated. **Currency: the wiki holds fresher state — Tunisia is
-  introducing a 123-article data protection bill to replace it** (per
-  [[2026-06-23 Bimonthly Update on Privacy in Africa (January & February 2026)]]). The 2004 law must
-  not be written as current.
+  is described by civil society as outdated. **Currency: the wiki holds fresher state — a 123-article
+  organic data-protection bill is in ARP committee (Feb 2026)** to replace it (strengthened
+  [[instance-nationale-protection-donnees-personnelles-tunisia|INPDP]], DPO regime, sanctions department;
+  targets AI, surveillance cameras, cross-border transfers), and parliament paused the Art-53 blanket
+  e-invoicing mandate for a DP-readiness report. The 2004 law must not be written as current.
+  Full case: [[tunisia--gov-protect]].
 - [[dpi.exchange]] · [[gov.standards]] · [[dpi.govtech]] — [[uxp-tunisia]] ([[cybernetica]] / [[ebrd]] /
   SECO), an X-Road-derived platform: five-ministry PoC (Feb 2024) now in **Phase 2** (May 2026) extending to
   business-sector bodies (RNE, TIA, APII, CEPEX, Finance, CBT). Cabinet monitors **192 digital-transformation
