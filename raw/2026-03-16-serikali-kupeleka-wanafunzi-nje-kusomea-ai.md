@@ -10,6 +10,7 @@ places: [TZA]
 topics: [capacity.training, tech.ai, capacity.research]
 entities: []
 lens: []
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: TZA-2026-07-17
 ---

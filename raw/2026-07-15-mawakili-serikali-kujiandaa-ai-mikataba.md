@@ -10,6 +10,7 @@ places: [TZA]
 topics: [tech.ai, gov.legislate, capacity.training]
 entities: []
 lens: []
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: TZA-2026-07-17
 ---

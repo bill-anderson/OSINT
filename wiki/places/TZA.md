@@ -171,7 +171,10 @@ intersections above.*
 - [[dpi.mis]] · [[data.statistics]] — fragmented HMIS (18 systems), [[dhis2]] >90% of flows since
   2013, heaviest reporting burden of five studied countries; closed-source lock-in and donor power as
   structural constraints.
-- [[gov.regional]] · [[tech.ai]] — EAC AI-sovereignty roadmap; UNECA DPI/sovereignty debate.
+- [[gov.regional]] · [[tech.ai]] — EAC AI-sovereignty roadmap; UNECA DPI/sovereignty debate. National
+  **AI story extracted**: **[[tanzania--tech-ai]]** ([[ict-commission-tanzania|ICTC]] AI Forum; AI a Vision
+  2050 pillar; the "consumers-vs-contributors" debate; deepfakes; **digital health & AI** — hospitals
+  exposed to ransomware, [[jakaya-kikwete-cardiac-institute|JKCI]] tooling).
 - [[tech.innovate]] · [[finance.new]] — external ID financing; Google-backed startup Safiri.
 
 *Naming note: the ministry appears as "Ministry of Information, Communication and Information

@@ -8,8 +8,9 @@ date_precision: day
 date_source: source
 places: [TZA]
 topics: [tech.ai, gov.policy, gov.regional]
-entities: [[ministry-communication-information-technology-tanzania]]
+entities: [[micit-tanzania]]
 lens: [sovereignty]
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: TZA-2026-07-17
 ---

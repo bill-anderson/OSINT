@@ -7598,3 +7598,8 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
 - Mapped clip entities [[personal-data-protection-commission-tanzania]]→[[pdpc-tanzania]], [[ministry-...]]→[[micit-tanzania]]; dropped mention-only [[tech-media-convergency]] (IGP attributed inline).
 - PRUNE (lint #7): 2026-02-13 pdpc-kutotekelezwa (Nipashe) is a Swahili subset of 2026-02-12 The Citizen inspections piece — deleted, kept The Citizen.
 - Wired TZA hub gov-protect line. Dead-link NONE.
+
+## 2026-07-19 ingest(TZA) chunk 6 — AI & digital health (10 sources)
+- Created wiki/intersections/tanzania--tech-ai.md: responsible-AI frame (ICTC National AI Forum; AI a Vision 2050 pillar, Kairuki at Geneva; state lawyers & AI); "consumers vs contributors" sovereignty debate (UDSM workshop); skills (16 to S.Africa/34 to Ireland; universities); risks (deepfakes/info integrity); digital health & AI (hospitals ransomware-exposed under Digital Health Strategy 2025-30; health-workforce readiness; JKCI patient tracking + AI echocardiography/Dozee).
+- Created entities: ict-commission-tanzania (ICTC), jakaya-kikwete-cardiac-institute (JKCI). Mapped ministry ref → micit-tanzania. 0 prunes.
+- Wired TZA hub tech.ai bullet → extracted. Dead-link NONE.

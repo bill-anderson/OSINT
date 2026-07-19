@@ -10,6 +10,7 @@ places: [TZA]
 topics: [tech.ai, gov.policy]
 entities: [[ict-commission-tanzania]]
 lens: [sovereignty]
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: TZA-2026-07-17
 ---
