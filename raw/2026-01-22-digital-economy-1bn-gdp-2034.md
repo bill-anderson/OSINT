@@ -8,8 +8,9 @@ date_precision: day
 date_source: source
 places: [TZA]
 topics: [gov.policy, tech.industry]
-entities: [[ict-commission-tanzania], [ministry-communication-information-technology-tanzania]]
+entities: [[ict-commission-tanzania], [micit-tanzania]]
 lens: []
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: TZA-2026-07-17
 ---

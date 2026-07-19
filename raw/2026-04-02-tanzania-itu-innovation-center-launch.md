@@ -10,6 +10,7 @@ places: [TZA]
 topics: [tech.innovate, gov.regional, infra.capacity]
 entities: [[itu], [ict-commission-tanzania], [tcra]]
 lens: []
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: TZA-2026-07-17
 ---

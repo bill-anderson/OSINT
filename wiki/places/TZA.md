@@ -6,7 +6,7 @@ parent: XEA
 place_kind: country
 topics: [dpi.id, dpi.registry, dpi.pay, dpi.exchange, dpi.govtech, dpi.mis, gov.protect, gov.legislate, gov.standards, gov.policy, gov.regional, infra.store, infra.connect, infra.cybersec, include.access, include.divides, digital.rural, digital.localgov, data.statistics, data.satellite, tech.ai, tech.innovate, tech.industry, capacity.training, capacity.literacy, finance.new]
 status: active
-last_reviewed: 2026-07-17
+last_reviewed: 2026-07-19
 ---
 
 # Tanzania (TZA)
@@ -155,10 +155,12 @@ intersections above.*
   PDPA; the [[rswitch-rwanda]] corridor is the first EAC interlink. Fee caps + **113 licensed PSPs**
   (Mar 2026); **[[mpesa|M-Pesa]]** Fintech 2.0 and **[[nala]]** moving up the stack; a **mandatory
   cash-lite economy from 1 Jul 2026**. Full case: **[[tanzania--dpi-pay]]**.
-- [[dpi.govtech]] · [[gov.policy]] — **[[tanzania-e-government-strategy-2022]]** (2022–2027, the
-  *second* such strategy, replacing the expired 2013 one; the e-Government Agency became a full
-  **e-Government Authority in 2019** under the **e-Government Act 2019** — [[ega-tanzania]]) and the
-  **[[tanzania-digital-economy-framework]]** (2024–2034, [[micit-tanzania]], presidential foreword).
+- [[dpi.govtech]] · [[gov.policy]] — extracted: **[[tanzania--dpi-govtech]]** — World Bank **GTMI Group A**
+  (top tier); **GovESB** interoperability backbone (PM-mandated); the **Digital Economy Strategic Framework
+  2024–2034** targets; **ITU Acceleration Center**, **Huawei** and **IIT Madras Zanzibar** partners; startup
+  ecosystem. Underpinned by **[[tanzania-e-government-strategy-2022]]** (2022–2027, the *second* such
+  strategy; the e-Government Agency became a full **e-Government Authority in 2019** — [[ega-tanzania]]) and
+  the **[[tanzania-digital-economy-framework]]** (2024–2034, [[micit-tanzania]], presidential foreword).
 - [[infra.store]] · [[dpi.exchange]] — [[wingu-africa]]'s Mbezi Tier 3 phase 2 and the WCX platform;
   **[[liquid-intelligent-technologies|Liquid]]** entering; public data centres in Dodoma + Zanzibar; the
   **PDPA + localisation policy driving in-country hosting** (compliance as demand); the Digital Tanzania

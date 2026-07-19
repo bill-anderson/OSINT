@@ -8,8 +8,9 @@ date_precision: day
 date_source: source
 places: [TZA]
 topics: [dpi.govtech, gov.policy, dpi.exchange]
-entities: [[e-government-authority-tanzania], [world-bank]]
+entities: [[ega-tanzania], [world-bank]]
 lens: []
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: TZA-2026-07-17
 ---

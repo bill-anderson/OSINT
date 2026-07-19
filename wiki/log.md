@@ -7608,3 +7608,15 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
 - Created wiki/intersections/tanzania--infra-cybersec.md: ITU GCI tier-1 (top-47); ICTC 4th Cybersecurity Forum; KISA/South Korea skills training; e-GA public-sector hardening; Zanzibar-Serensic MoU; SIM-registration agents feeding fraud rings (halohalo, 198 SIMs seized) — cyber-governance ahead of cyber-hygiene, identity layer as both defence and attack surface.
 - Mapped clip entity [[e-government-authority-tanzania]] → [[ega-tanzania]]. Serensic Africa/KISA mentioned inline. 0 prunes (forum/GCI pair complementary).
 - Wired TZA hub infra.cybersec bullet → extracted. Dead-link NONE.
+
+## 2026-07-19 ingest(TZA) chunk 8 — E-government, digital economy & innovation (7 sources)
+- Created wiki/intersections/tanzania--dpi-govtech.md: World Bank GTMI Group A (top tier; 90th 2021→26th 2022, B→A); GovESB interoperability backbone (PM Majaliwa mandate) + e-Wekeza; Digital Economy Strategic Framework 2024-2034 targets (TAIC 2026); ITU Acceleration Center (ICTC-managed); Huawei gov/banking hosting (geopol.china); IIT Madras Zanzibar; startup ecosystem (1,041 firms, $53m FDI); TZeDGS.
+- Created entity iit-madras-zanzibar. Mapped clip entities e-government-authority-tanzania→ega-tanzania, ministry-...→micit-tanzania. 0 prunes.
+- Wired TZA hub dpi.govtech bullet → extracted; bumped hub last_reviewed 2026-07-19. Dead-link NONE.
+
+## 2026-07-19 ingest(TZA) — batch summary
+- 70 clips drained from new/ (new/ = 0): 67 admitted to raw/, 3 pruned as relevant-duplicates (2026-06-25 cash-lite SW; 2026-02-13 PDPC SW; both Swahili subsets of English canonicals). 0 discards, 0 leads.
+- 6 intersections created (tanzania--dpi-pay, --infra-connect, --infra-store, --tech-ai, --infra-cybersec, --dpi-govtech); 3 extended (tanzania--dpi-id, --dpi-registry, --gov-protect).
+- Entities created (~24): heslb, vodacom-tanzania, mpesa, nala, paypal, nictbb, ttcl, yas-tanzania, zictia, airtel-tanzania, liquid-intelligent-technologies, ict-commission-tanzania, jakaya-kikwete-cardiac-institute, iit-madras-zanzibar, and (chunk detail above) smt-side entities N/A. Mapped clip aliases → canonical entities throughout ([[nida]]→nida-tanzania, [[personal-data-protection-commission-tanzania]]→pdpc-tanzania, [[e-government-authority-tanzania]]→ega-tanzania, [[ministry-communication-information-technology-tanzania]]→micit-tanzania, [[east-african-community]]→eac).
+- 0 contradictions, 0 gaps, 0 issues filed. Zanzibar items counted in-scope as TZA throughout.
+- Through-line reinforced: capable, state-built DPI (TIPS, NICTBB, GovESB, GTMI Group A) alongside a lagging last mile (5G ahead of smartphones, cash-lite mandate ahead of inclusion, AI/health adoption ahead of cyber-hygiene) — plus a live analytical tension: data-localisation as industrial policy (infra-store) vs growth bottleneck (IGP critique, gov-protect).
