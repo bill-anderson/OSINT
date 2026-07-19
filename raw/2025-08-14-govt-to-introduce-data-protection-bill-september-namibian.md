@@ -12,6 +12,7 @@ entities: [[emma-theofelus]]
 lens: [sovereignty]
 retrieved: 2026-07-17
 sweep_batch: NAM-2026-07-17
+body_completeness: excerpt
 ---
 
 # Govt to introduce data protection bill in September

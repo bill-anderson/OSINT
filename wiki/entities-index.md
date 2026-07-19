@@ -1377,6 +1377,7 @@ about or from one becomes a normal source that cites it.
 
 | Instrument | Places | Topics | Page |
 |---|---|---|---|
+| Namibia Data Protection Bill | NAM | gov.protect, gov.legislate | [[namibia-data-protection-bill]] |
 | Ley 7/2024 (cybercrime / cybersecurity law, Equatorial Guinea) | GNQ | gov.legislate, infra.cybersec | [[ley-7-2024-gnq]] |
 | Gambia Communications Bill 2025 | GMB | gov.legislate, infra.cybersec | [[gambia-communications-bill-2025]] |
 | Guinea National Data Governance Strategy | GIN | gov.policy, gov.protect | [[guinea-data-governance-strategy]] |

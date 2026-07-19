@@ -13,6 +13,16 @@ last_reviewed: 2026-07-19
 
 ## Recent developments
 
+- **2026-07-14** — **Cyber-law reforms: Cybercrime + Data Protection Bills finalising.** Minister
+  **[[emma-theofelus]]** (at CRAN's new board's inaugural meeting) said the **Cybercrime Bill** and **Data
+  Protection Bill** are being finalised to combat cybercrime, digital violence and protect personal data — with
+  interim reliance on the ETA, Communications Act and Penal Code. **Nam-CSIRT** (run by [[cran]]) logged
+  **103,085 threats + 367,670 vulnerabilities** in Q1-2026 and issued a **FortiBleed** alert to 13 orgs.
+  Cabinet had earlier (Nov 2025) approved a **government-sector CSIRT + SOCs** and cyber-skills training (OPM
+  coordinating). Full cyber picture: **[[namibia--infra-cybersec]]**. Sources:
+  [[2026-07-14-namibia-pushes-cyber-security-reforms-itweb]],
+  [[2025-11-21-namibia-cabinet-approves-cyber-crime-proposals-itweb]]. See [[infra.cybersec]], [[gov.legislate]],
+  [[gov.protect]].
 - **2026-07-01** — **e-ID slips to September amid two backlashes.** The **[[namibia-digital-id|e-ID]]** launch,
   first set for **July 2026**, was restated as **September 2026**. It drew a **"microchip-tracking"** panic
   (Omusati protests; Minister Iipumbu rebutted — the chip is in the card, CRIA-2024-compliant) *and* a petition
@@ -111,6 +121,14 @@ last_reviewed: 2026-07-19
   [[emma-theofelus]] later said Angola's Luanda centre had "encouraged"). Source:
   [[2025-09-22 Namibia to build national data centre under 2025-2029 digital strategy]]. See [[infra.store]],
   [[gov.policy]].
+- **2025-08-17** — **Data Protection Bill returns to parliament — after ~12 years.** ICT Minister
+  **[[emma-theofelus]]** said the long-delayed **[[namibia-data-protection-bill|Data Protection Bill]]** would be
+  tabled (Sept 2025), calling it "a cornerstone of Namibia's digital governance strategy." The **IPPR**'s
+  Frederico Links warned it may still **fall short on data-subject rights** (a rights section removed in 2020,
+  not clearly reintroduced). E-signatures were planned for Feb 2026 under the ETA 2019; the FIC froze **N$96.9m**
+  in the prior year. Sources: [[2025-08-17-data-protection-bill-returns-to-parliament-namibiansun]],
+  [[2025-08-14-govt-to-introduce-data-protection-bill-september-namibian]]. See [[gov.protect]],
+  [[gov.legislate]].
 - **2025-06-04** — **100% telecom coverage target by 2030.** Namibia set a goal of **100% nationwide telecom
   coverage by 2030**, USF-backed, extending **[[telecom-namibia]]** and operator reach into underserved
   areas. Source: [[2025-06-04 Namibia targets 100% telecom coverage nationwide by 2030]]. See [[infra.connect]],
@@ -158,6 +176,9 @@ last_reviewed: 2026-07-19
 - [[include.access]] · [[include.divides]] — device-affordability gap (4G tax breaks; MTC
   <50% utilisation); free internet for schools/clinics under RAN towers ([[emma-theofelus]]).
 - [[dpi.id]] · [[dpi.registry]] · [[gov.legislate]] · [[gov.protect]] — **[[namibia-civil-registration-identification-act-2024|CRIA 2024]]** single Civil Register; **[[namibia-digital-id|national e-ID]]** (Sept 2026, [[ministry-home-affairs-namibia|MHAISS]]/[[undp]]) — microchip-panic + documentation-backlog backlashes; biometric-privacy-vs-weak-DP-law caution — **[[namibia--dpi-id]]**.
+- [[gov.protect]] · [[gov.legislate]] · [[infra.cybersec]] — long-delayed **[[namibia-data-protection-bill|Data
+  Protection Bill]]** (~12 yrs; IPPR data-subject-rights concern) + **Cybercrime Bill** being finalised; govt
+  CSIRT/SOCs; Nam-CSIRT ([[cran]]) — full cyber picture **[[namibia--infra-cybersec]]**.
 - [[dpi.pay]] · [[gov.regional]] — **[[bank-of-namibia|Bank of Namibia]]** Instant Payment Solution (G2P, Q3-2026); Payment System Management Act 2023; PAPSS courtship; MTC refugee mobile money.
 - [[dpi.mis]] · [[gov.standards]] · [[dpi.exchange]] — National eHealth Strategy 2021-2025; eGA X-Road interoperability; digital-trade regulatory profile.
 
@@ -166,7 +187,7 @@ last_reviewed: 2026-07-19
 - [[huawei]] · [[china-namibia-smart-city]] · [[netumbo-nandi-ndaitwah]]
 - [[telecom-namibia]] · [[telecom-namibia-angola-deals]] · [[emma-theofelus]] · [[paratus]] · [[starlink]] · [[cran]]
 - [[namibia-civil-registration-identification-act-2024]] · [[namibia-digital-id]] · [[ministry-home-affairs-namibia]] · [[mtc-namibia]] · [[bipa-namibia]]
-- [[bank-of-namibia]] · [[namibia-payment-system-management-act-2023]] · [[papss]] · [[undp]]
-- Intersections: [[namibia--infra-connect]] · [[namibia--dpi-id]]
+- [[bank-of-namibia]] · [[namibia-payment-system-management-act-2023]] · [[papss]] · [[undp]] · [[namibia-data-protection-bill]]
+- Intersections: [[namibia--infra-connect]] · [[namibia--dpi-id]] · [[namibia--infra-cybersec]]
 - Mentioned, not hubbed: Ministry of ICT; Registrar-General (Etienne Maritz, MHAISS ED); Leo Chen (Huawei
   Enterprise); INFOSI, GGPEN, Angola Telecom, SATCAB; NamX / Nampay; Armada / Virtual Space Data Centre.

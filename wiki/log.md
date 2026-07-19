@@ -6819,3 +6819,19 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
 - **Concept:** [[include.divides]] — ID-as-gate bullet +Namibia documentation-backlog case.
 - Sources: 2025-06-09 e-ID launch (Namibian Sun), 2025-06-12 July-2026 date (biometricupdate), 2026-03-16
   expedite/budget (itweb), 2026-06-20 microchip rebuttal (Namibian), 2026-07-01 backlog petition (Namibian Sun).
+
+## 2026-07-19 — ingest(NAM) chunk 2/6: Data protection & cyber law
+
+- **4 sources admitted, 0 leads, 0 discards.**
+- **Entity created:** [[namibia-data-protection-bill]] (instrument — ~12-yr DP Bill; IPPR data-subject-rights
+  concern; finalising with the Cybercrime Bill).
+- **MWI hub → NAM hub:** +2 Recent-developments entries (cyber-law reforms/Cybercrime+DP Bills 2026-07-14 incl.
+  Nov-2025 cabinet CSIRT; DP Bill returns 2025-08-17); +gov.protect/cyber Active-topics line; +DP-Bill entity +
+  forward-ref to namibia--infra-cybersec (created chunk 3).
+- **Concept:** [[gov.protect]] +NAM 12-yr-DP-bill bullet.
+- **entities-index:** +namibia-data-protection-bill.
+- **Dedup note:** the two DP-Bill clips (Namibian e-signature detail; Namibian Sun IPPR critique + FIC figures)
+  kept as complementary (same Standard Bank conference, distinct payloads). The two cyber-law sources
+  (2025-11-21 cabinet CSIRT, 2026-07-14 reforms) also feed [[namibia--infra-cybersec]] (chunk 3).
+- Sources: 2025-08-14 DP bill Sept (Namibian), 2025-08-17 DP bill returns (Namibian Sun), 2025-11-21 cabinet
+  cybercrime proposals (itweb), 2026-07-14 cyber reforms (itweb).

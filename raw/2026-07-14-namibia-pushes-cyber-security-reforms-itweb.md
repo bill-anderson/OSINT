@@ -12,6 +12,7 @@ entities: [[emma-theofelus], [cran]]
 lens: []
 retrieved: 2026-07-17
 sweep_batch: NAM-2026-07-17
+body_completeness: excerpt
 ---
 
 # Namibia pushes cyber security reforms

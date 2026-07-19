@@ -12,6 +12,7 @@ entities: [[emma-theofelus], [netumbo-nandi-ndaitwah], [cran]]
 lens: []
 retrieved: 2026-07-17
 sweep_batch: NAM-2026-07-17
+body_completeness: excerpt
 ---
 
 # Namibia cabinet approves fresh proposals to combat cyber crime

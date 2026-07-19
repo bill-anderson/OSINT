@@ -17,6 +17,14 @@ Personal-data regimes across African jurisdictions — and the friction their
 
 ## Key material
 
+- **[[NAM]] Namibia — a 12-year data-protection bill, still short on rights (2025-2026).** Namibia's **Data
+  Protection Bill** — **~12 years** in the making — was set for tabling (Sept 2025) and, by mid-2026, still being
+  finalised alongside a **Cybercrime Bill**. The **IPPR** (Frederico Links) warns it may **fall short on
+  data-subject rights** (a rights section removed in 2020, seemingly not reintroduced; the public hasn't seen the
+  latest draft). The gap is not academic: it sits under a live biometric **e-ID** rollout — statute lagging the
+  DPI it should govern. See [[namibia-data-protection-bill]], [[namibia--dpi-id]], [[gov.legislate]]. Sources:
+  [[2025-08-17-data-protection-bill-returns-to-parliament-namibiansun]],
+  [[2026-07-14-namibia-pushes-cyber-security-reforms-itweb]].
 - **Mauritius going for EU adequacy — regime vs surveillance (2026).** Africa's most mature DP regime is
   **pursuing the EU adequacy assessment in 2026, fully aligning the Data Protection Act 2017 with the GDPR** — a
   rare African adequacy bid (Commissioner **Madhub**, who also chairs the Francophone DPA association, ID4Africa
