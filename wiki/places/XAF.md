@@ -6,7 +6,7 @@ parent: XGL
 place_kind: region
 topics: [infra.store, infra.connect, infra.cybersec, infra.energy, tech.ai, dpi.pay, dpi.id, dpi.exchange, dpi.mis, dpi.govtech, gov.regional, gov.standards, gov.protect, gov.policy, include.access, include.divides, capacity.training, capacity.research, capacity.literacy, finance.new, finance.mou, data.statistics, geopol.usa, geopol.china, geopol.gulf, geopol.eu]
 status: active
-last_reviewed: 2026-07-13
+last_reviewed: 2026-07-19
 ---
 
 # Africa (XAF)
@@ -31,6 +31,28 @@ rule, is all `XAF` children except `XNA`; `XGL` is for non-Africa-specific/globa
   Eritrea, Libya, Seychelles, Tanzania, Western Sahara). Sources:
   [[2025-04-04 Africa Declaration on Artificial Intelligence]],
   [[2025-05-13 Optimism but uncertainty over Africa's AI Declaration]]. See [[tech.ai]], [[gov.policy]].
+- **2026-02 → 2026-06** — **Subsea capacity leaps, ownership shifts to hyperscalers.** The **[[2africa-cable|2Africa]]**
+  system (Meta-led) was **declared complete and activated (late 2025)** — **45,000 km, 46+ landings, 33
+  countries, 180 Tbps**, more than all prior Africa-serving cables combined. A new **Atlantic-coast Europe–
+  South Africa route, [[via-africa-cable|Via Africa]]**, advanced via an **[[orange]]/[[sonatel]]/Canalink**
+  consortium MoU. A subsea feature counted **77 systems (2025)** and flagged the structural shift: **content/
+  hyperscaler ownership** of cables (Meta, Google) displacing the old telco-consortium model, concentrating
+  bandwidth and control. Sources: [[2026-02-12-2africa-subsea-cable-complete]], [[2026-05-13-via-africa-subsea-cable-mou]],
+  [[2026-06-22-beyond-the-signal-subsea-cables]]. See [[infra.connect]].
+- **2026-02 → 2026-06** — **The storage-sovereignty gap, and the presidents' race to close it.** The
+  contradiction at the heart of the localisation push: 40+ countries legislate data-protection/localisation,
+  yet **>80% of African data is hosted offshore** (IFC/GSMA) — routed to Frankfurt/London/Amsterdam/Northern
+  Virginia — because local infrastructure (power, rack density, cooling, financing) is short (~**1,000 MW
+  demand vs ~360 MW capacity**). Microsoft's counter-argument: **AI could add $136bn to Africa *if* data can
+  move freely**, framing localisation-vs-free-flow as the core tension (223 DCs / 38 countries). The
+  political response crystallised at the **Africa Forward Summit** (Nairobi, 12 May 2026): AI took centre
+  stage, and the **Africa Forward Declaration** (30 heads of state + France, Section 6) called for investment
+  in data centres, cloud, trusted data and **African-led ownership of data and AI systems** — against a
+  continent holding **<1% of global data-centre capacity** while mobile data grows **~40%/yr**. Most
+  commitments come from DFIs/private (IFC's **$100m to [[raxio-group|Raxio]]**, Ethiopia→Angola). Sources:
+  [[2026-05-14-where-is-africas-data-stored]], [[2026-02-19-microsoft-136bn-ai-cross-border-data]],
+  [[2026-06-11-african-presidents-racing-ai-infrastructure]]. See [[infra.store]], [[tech.ai]], [[gov.protect]],
+  [[include.divides]].
 - **2025-02 → 2026-05** — **Continental data governance: the sovereignty debate sharpens.** Four strands
   converged on the question of who controls African data. A **[[future-of-privacy-forum|FPF]]** report (7
   states) found Africa is regulating AI **"through the backdoor"** — embedding AI rules in **revised data-

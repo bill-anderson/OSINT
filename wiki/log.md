@@ -7781,3 +7781,14 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
 ## 2026-07-19 ingest(XAF) chunk 3 — Continental data governance & AI frameworks (5 sources)
 - Added consolidated XAF hub entry: continental data-governance sovereignty debate — FPF "backdoor" AI regulation via revised data-protection laws (7 states, "second wave" diverging from GDPR); the $200-400bn "data reserve"/"giving it away" framing (Data Governance Compact + National Data Trusts); AU Protocol on Digital Trade as DPI lever (Mene, GITEX); Smart Africa/UNESCO Francophone data-governance workshop (SADA/WARDIP); ADP president on Malabo ratification lag + no continental adequacy standard.
 - Created entity africa-data-protection (future-of-privacy-forum/wardip/malabo-convention/afcfta-digital-trade-protocol already held). 0 prunes. Dead-link NONE.
+
+## 2026-07-19 ingest(XAF) chunk 4 — Subsea cables, data centres & AI infrastructure (6 sources)
+- Added two consolidated XAF hub entries: (1) subsea capacity leap + hyperscaler ownership shift (2Africa activated late-2025: 45,000km/180Tbps/33 countries; Via Africa Orange/Sonatel/Canalink MoU; 77 systems 2025, content-owner cable shift); (2) storage-sovereignty gap + presidents' AI race (>80% African data offshore, ~1,000MW demand vs ~360MW capacity; Microsoft $136bn-if-data-flows-freely; Africa Forward Declaration 30 heads of state, <1% global DC capacity; IFC $100m Raxio).
+- 0 new entities (all held). Bumped hub last_reviewed 2026-07-19. 0 prunes. Dead-link NONE.
+
+## 2026-07-19 ingest(XAF) — batch summary
+- 23 candidates: 21 admitted to raw/ (new/ = 0), 2 pruned as exact-URL duplicates already held (SCRYPT stablecoin + NCRCBSI satellite, both from the UGA batch).
+- Regional/continental sweep — filed via 5 consolidated XAF-hub Recent-developments entries (regional payments; cross-border DPI initiatives; continental data governance; subsea cables; data-centre/AI sovereignty) rather than country intersections, matching the XAF hub's list-based structure.
+- ~10 entities created (gim-uemoa, igad, adapt, iota-foundation, africa-ai-council, smart-africa-data-exchange, ascend-digital-solutions, africa-data-protection). Most blocs/systems already held (PAPSS, BEAC, CEMAC, COMESA, BCEAO, WAEMU, EAC, EARDIP, AfCFTA, Smart Africa, 2Africa/Via Africa cables, Raxio).
+- Places tagged: XAF (continental), XCA/XEA/XSA/XWA (regional), XGL (tag-only continental/global).
+- Through-line: continental integration is real and accelerating on two tracks — payments (PAPSS/DRPP/PI-SPI/EARDIP converging on local-currency interoperable rails) and DPI (ADAPT/SADX shared rails, Africa AI Council) — set against the unresolved sovereignty gap: >80% of African data offshore, <1% of global DC capacity, and a data-governance debate ("backdoor" AI regulation, $200-400bn data "given away", no continental adequacy standard) racing to catch commercial integration.
