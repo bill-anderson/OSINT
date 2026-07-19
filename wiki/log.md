@@ -7553,3 +7553,9 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
 - Created wiki/intersections/tunisia--gov-protect.md (the guardrail half of "capability ahead of safeguards"; resolves the chunk-2 forward-ref).
 - Created entities: instance-nationale-protection-donnees-personnelles-tunisia (INPDP), assembly-of-peoples-representatives-tunisia (ARP).
 - Wired TUN hub gov.protect bullet → Full case. Dead-link NONE (forward-ref resolved).
+
+## 2026-07-19 ingest(TUN) chunk 5/6 — Connectivity, 5G & submarine cables
+- Admitted 7 sources: TT 5G launch (2025-02-14), tri-operator 5G (2025-02-17), TT Medusa Bizerte landing (2025-11-03), Orange ViaTunisia live (2026-06-05), Orange Medusa operational (2026-06-26), INT data-driven growth (2025-04-11), North Africa digital-generation overview (2026-03-09). 0 prunes.
+- Created wiki/intersections/tunisia--infra-connect.md (status needs-review); created entities orange-tunisia, ooredoo-tunisia, instance-nationale-des-telecommunications-tunisia (INT); updated medusa-submarine-cable (+Nov-2025 landing, +ViaTunisia, +ownership flag).
+- CONTRADICTION: filed CONTRA-TUN-001 (Bizerte Medusa landing ownership — Tunisie Telecom vs Orange Tunisia). needs-review set on tunisia--infra-connect + medusa entity; contradiction file with paste-ready brief (4 held URLs).
+- Wired TUN hub infra.connect bullet → Full case. Dead-link: only forward-ref tunisia--infra-store (next chunk).

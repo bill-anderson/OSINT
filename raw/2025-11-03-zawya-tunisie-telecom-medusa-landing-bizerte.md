@@ -10,6 +10,7 @@ places: [TUN]
 topics: [infra.connect, infra.store, geopol.eu]
 entities: [[tunisie-telecom], [medusa-submarine-cable]]
 lens: [sovereignty]
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: TUN-2026-07-17
 ---

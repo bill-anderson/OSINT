@@ -159,8 +159,10 @@ thing to watch.
 - [[dpi.registry]] · [[include.access]] — the **AMEN social registry**.
 - [[dpi.govtech]] — **EGDI 0.6935 (2024 index)**, third in Africa, leading North Africa; see
   [[un-egdi]].
-- [[infra.connect]] · [[infra.capacity]] — Tunisie Telecom's 5G and FTTH programme; the
-  [[medusa-submarine-cable]] connection positioning Tunisia as a Mediterranean hub.
+- [[infra.connect]] · [[infra.capacity]] — **all three operators live on 5G (Feb 2025)** on a mature
+  61,000 km fibre backbone; the [[medusa-submarine-cable]] Bizerte landing (22 Tbps) positioning Tunisia as
+  a Mediterranean hub — though **who owns the Bizerte landing is disputed** (TT vs Orange, CONTRA-TUN-001).
+  Full case: [[tunisia--infra-connect]].
 - [[tech.ai]] · [[tech.innovate]] — an **AI strategy scheduled for 2025**; **[[startup-tunisia]]**,
   under which **over 40 firms** expanded into Europe, MENA and Sub-Saharan Africa; fintech raised
   **US$150 million**.
