@@ -1,54 +1,43 @@
-# TGO sweep manifest — batch TGO-2026-07-17
+# Sweep manifest — TUN (Tunisia)
 
-Window: 2025-01-01 → 2026-07-17. Newspapers: Togo First (togofirst.com, FR primary + some EN), Togo-Presse (togopresse.tg). Journals: fixed-8. 33 candidates staged. Drop log: `sweep/drop-log-TGO.csv` (20 rows). Coverage: RICH (Togo is a DPI leader).
+Batch: TUN-2026-07-17 · Window: 2025-01-01 → 2026-07-17 · Region: XNA
+Newspapers (assigned): Al Chourouk (alchourouk.com), Assabah News (assabahnews.tn) — both Arabic.
+Staged: 22 · Drop-log rows: 16 (see sweep/drop-log-TUN.csv)
 
-`published | topics | source | title | why-it's-new`
+Format: `published | topics | source | title | why-it's-new`
 
-## Digital identity / e-ID / WURI (dpi.id)
-2025-08-12 | dpi.id | Togo First | Togo Launches Biometric ID Registration in Agoè Nyivé on August 20 | Aug-2025 enrollment phase (Agoè-Nyivé, post-Golfe); not held
-2026-01-15 | dpi.id, digital.rural | Togo First | Enrôlement biométrique démarre dans le Zio le 19 janvier | Jan-2026 Zio-prefecture launch; not held
-2026-01-23 | dpi.id, digital.rural | Togo First | Enregistrement de masse se poursuit dans le Zio jusqu'au 18 février | Zio mass-enrollment update (to 18 Feb); notes <15% ID coverage baseline
-2026-04-23 | dpi.id, dpi.registry | Togo First | Plus de 6 millions de citoyens disposent d'un NIU à fin 2025 | Key milestone: 6M NIUs as of Dec-2025 (official reforms report); not held
-2026-04-27 | dpi.id, dpi.pay | Biometric Update | Togo issues 6M unique numbers as MOSIP-based digital ID project progresses | Journal coverage of 6M milestone; adds Atos/Idemia, Novissi, WURI $72M framing
-2026-05-11 | dpi.id, digital.rural | Togo First | ANID prépare une nouvelle phase d'enregistrement dans les Plateaux-Ouest | May-2026 Kloto/Wawa phase; reconfirms 6M NIU
-2025-10-30 | dpi.id, gov.regional | TechAfrica News | Senegal and Togo Strengthen Cooperation on Digital Identity Systems | 3rd-outlet on Senegal ANID benchmarking visit (Oct 22-27); SAME EVENT as 2 held (ecofin, biometricupdate) — flag for ingest lint #7
+## Digital identity / registries / CRVS
+- 2026-06-26 | dpi.id, dpi.govtech | TechAfrica News | Mobile ID made mandatory for all investment-project declarations from 1 July 2026 | first hard mandate turning e-ID (Mobile ID) into a gating requirement for a public service
+- 2026-04-27 | dpi.registry, dpi.govtech, dpi.id | African Manager | National Business Register (RNE) goes fully digital from 1 July 2026; paper filings end; digital identity required | registry digitisation + e-ID dependency; online tax-ID card from Sept 2026
+- 2026-07-15 | dpi.mis, dpi.id, dpi.registry | Tunisian Monitor | National Health Identifier (NHI) pilot enrols 9,000+ patients at Habib Thameur hospital, Tunis | new lifetime health-ID rollout; nationwide by end-2026 target
+- 2026-06-11 | dpi.mis, dpi.registry, dpi.id | Al Chourouk (TARGET HOST) | Health Ministry begins first pilot of digital birth-declaration system | CRVS digitisation. **FETCH-FAIL: body is a manual-clip TODO (JS ticker returned); title+date confirmed**
 
-## E-gov / govtech / registries (dpi.govtech, dpi.registry, digital.localgov)
-2025-01-01 | dpi.govtech, dpi.registry | Togo-Presse | Une plateforme numérique créée pour rendre les services gouvernementaux plus accessibles | PROXY DATE (page undated; content thru 2024). Backgrounder on "Services publics" portal (2017/2022), NUP, CATO; overlaps held republicoftogo 2026-03-22
-2026-04-02 | dpi.govtech, infra.cybersec | Togo First | Ministère des Affaires étrangères amorce la digitalisation de ses services | 4-week MAE digitalisation sprint; 280 agents trained; program rolling ministry-by-ministry
-2026-04-03 | dpi.govtech, dpi.registry | Togo First | Guichet unique de cartographie des infrastructures officiellement lancé | New infra-mapping platform + CENTIPOS (25-station cm-precision GNSS network)
-2026-06-10 | dpi.govtech, tech.industry | Togo First | ATD lance une "Boite à outils digitaux" pour la numérisation des TPME | New ATD SME-digitisation platform (GIZ ProDigiT / EU-Luxembourg funded)
-2026-07-07 | dpi.govtech, dpi.registry | Togo First | La transition numérique relance le chantier de la gestion des archives | Public archives/GED digitisation push (DBAN); MEF Alfresco rollout
+## E-gov / interoperability / policy
+- 2026-02-16 | gov.policy, dpi.govtech, dpi.exchange | TechAfrica News | Cabinet tracks 192 digital-transformation projects under 2026–2030 Plan; 2026 = "full-scale" admin digitisation | umbrella programme + list of completed 2025 platforms
+- 2026-05-14 | dpi.exchange, dpi.govtech | Cybernetica (company) | Phase 2 of national interoperability platform (UXP) extends to business services (RNE, TIA, APII, CEPEX, MoF, BCT); EBRD/SECO-funded, ends 2027 | update to held 2024 Phase-1 interop item
+- 2026-04-22 | gov.policy, tech.ai, tech.innovate | Assabah News (TARGET HOST) | 10th Tunisia Digital Summit (22–23 Apr 2026); ICT minister frames digital transition as "historic necessity" | flagship annual event; AI/data-protection legal-framework commitment
 
-## Data governance / protection (gov.protect)
-2025-03-29 | gov.protect | Togo First | L'Instance de protection des données (IPDCP) démarre ses activités | IPDCP formally launches operations + public awareness campaign (Mar-2025)
-2025-11-03 | gov.protect, infra.cybersec, capacity.literacy | Togo First | 3000 jeunes togolais formés aux bons réflexes numériques | IPDCP+ANCy youth data-protection campaign; cites cyber-strategy 2024-2028, CERT.tg
-2026-06-25 | gov.protect, capacity.training | Togo First | IPDCP forme ses premiers correspondants (CPD) | First 32 corporate data-protection officers certified; new compliance programme
+## Data governance / protection / e-invoicing
+- 2026-02-20 | gov.protect, gov.legislate, tech.ai | African Manager | ARP committee reviews new 123-article organic data-protection bill (to replace 2004 law); DPO role, AI/surveillance gaps, financial sanctions | major DPA-reform legislative development
+- 2026-02-10 | gov.legislate, dpi.govtech, gov.protect | Assabah News (TARGET HOST) | Parliament debates amendment to Art. 53 of 2026 Finance Law on mandatory e-invoicing rollout | data-protection-flagged e-invoicing scope fight
 
-## Data centre / cloud / sovereignty (infra.store, tech.ai)
-2026-05-28 | infra.store, tech.ai | Togo First | SIN et ST DIGITAL s'allient pour une offre de cloud privé au Lomé Data Centre | Designated-paper account of SIN/ST Digital LDC private-cloud deal (26 May); SAME EVENT as held connectingafrica 2026-06-02 — adds local detail (Tier III, 99.982% SLA, DG quotes)
+## Payments / fintech
+- 2026-05-07 | dpi.pay, finance.new, gov.standards | We Are Tech | Central Bank launches national "TUNPAY" label to unify mobile-payment ecosystem (with SMT); mobile payments +81% in 2025 to 1.769bn dinars | new national payments standard/brand
+- 2026-03-18 | dpi.pay, finance.new | Assabah News (TARGET HOST) | Tunisie Telecom launches "Kashy" mobile-payment app with Viamobile (BCT-licensed since 2021) | telco-to-fintech move; Arabic primary
+- 2026-03-07 | dpi.pay, finance.new, geopol.gulf | MENA Startup Digest | Ooredoo Fintech gets BCT license for "walletii" digital wallet (with QNB, Monétique) | second telco wallet license; Gulf fintech entry
 
-## Connectivity / infra finance (infra.connect, finance.new)
-2026-04-21 | infra.connect, gov.regional | Togo First | PPP, la clé pour accélérer le haut débit en Afrique (ARTAO) | ARTAO 23rd AGM in Lomé; broadband-financing/PPP debate; fibre cost data
-2026-07-16 | infra.cybersec, finance.mou | Togo First | Togo, Luxembourg Sign Three Agreements incl. TogoCyber+ | New Togo-Luxembourg cyber/dev cooperation (TogoCyber+, PIC)
-2026-07-17 | finance.new, dpi.id | Togo First | Togo Signs CFA257.4bn Financing for Vision 2040 | World Bank $429M package incl. WURI digital-ID top-up (+$20M); portfolio now $2.1bn
+## Connectivity / cables / 5G
+- 2026-06-26 | infra.connect, infra.store, geopol.eu | TechAfrica News | Orange Tunisia declares MEDUSA cable operational; owns Tunisian section + Bizerte landing station | cable enters service (operator milestone)
+- 2026-06-05 | infra.connect, infra.store, geopol.eu | Connecting Africa | "ViaTunisia" France–Tunisia Medusa segment now live; EU CEF-Digital 30% co-financed | RFS milestone, EU-funding detail
+- 2025-11-03 | infra.connect, infra.store, geopol.eu | Zawya/TAP | Tunisie Telecom marks Medusa cable landing in Bizerte (1 Nov 2025); 22 Tbps Bizerte–Marseille, 8× intl capacity | landing milestone (earlier stage of the same cable saga)
+- 2025-02-17 | infra.connect, tech.industry | Developing Telecoms | All three operators (Orange, Ooredoo, Tunisie Telecom) launch commercial 5G; licences issued Nov 2024 | headline 5G commercial launch (3-operator)
+- 2025-02-14 | infra.connect, tech.industry | Assabah News (TARGET HOST) | Tunisie Telecom officially launches 5G (14 Feb 2025); ~90k connections day one; 61k km fibre | operator-specific 5G launch; Arabic primary
+- 2025-04-11 | infra.connect, tech.industry | TechAfrica News | INT data shows data-driven shift; mobile broadband dominates, voice plateaus | sector-trend baseline
 
-## Payments / digital finance (dpi.pay)
-2025-08-04 | dpi.pay, gov.regional | Togo First | 7 institutions financières sur la plateforme PI-SPI de la BCEAO | Aug-2025 pre-launch: 7 TGO institutions on BCEAO instant-payment platform
-2025-10-15 | dpi.pay, finance.new | Togo First | Gozem Money entre en service | New mobile-money wallet (Gozem × NSIA Banque), live since 7 Oct
-2025-10-16 | dpi.pay, finance.new | TechAfrica News | Gozem Launches Mobile Money Platform in Togo | Journal on Gozem Money; SAME EVENT as Togo First 2025-10-15 — flag for lint #7
-2026-02-17 | dpi.pay, gov.legislate | TechCabal | Togo fintech Semoa wins full-service BCEAO Level 3 licence | Semoa gains BCEAO Level 3 (29 Jan); analysis of UEMOA fintech licensing regime
-2026-03-06 | dpi.pay, gov.regional | Togo First | BCEAO : six acteurs autorisés à ouvrir au public les services PI-SPI | PI-SPI public rollout expands 3→6 authorised providers (as of 24 Feb)
-2026-03-18 | dpi.pay, data.statistics | Togo First | Comptes de monnaie électronique +76,87% en un an | BCEAO annual data: 12.55M e-money accounts (6.07M active) end-2024; +76.87%
-2026-04-03 | dpi.pay, gov.regional | Togo First | BCEAO fixe au 30 juin l'adhésion à PI-SPI | Hard deadline (30 Jun 2026); 80 institutions connected region-wide as of 2 Apr
-2026-04-14 | dpi.pay, gov.regional | Togo First | Mixx Togo lance les paiements instantanés UEMOA via PI-SPI | Mixx (Yas Togo) joins PI-SPI; cross-border UEMOA transfers + interoperable QR
-2026-07-08 | dpi.pay, include.access | Togo First | Moov Africa Togo lance de nouveaux services mobile money | Moov "Soyi Mavo" campaign + 3 new services; ARCEP market-share data (Mixx 58% / Flooz 42%)
+## Data centres / cloud / sovereignty
+- 2026-07-05 | infra.store, tech.ai, finance.new | La Presse de Tunisie | Arizton report flags Tunisia (+Morocco) as emerging N-Africa data-centre/AI market; Africa DC market → $8.76bn by 2031 | positions Tunisia as regional DC hub (reference-study; cite, don't absorb)
+- 2026-02-06 | infra.store, infra.energy, tech.ai, finance.mou | Data Center Dynamics | SoleCrypt + Schneider Electric MoU: 20MW solar-powered AI data centre in Bizerte, powered by 60MW Tozeur solar (site T60) | concrete DC+renewables MoU. **DATE re-dated from Exa's 2026-07-01 to byline 2026-02-06**
+- 2025-10-15 | infra.store, gov.policy, finance.new | Trends N Africa | Tunisia Investment Authority names data centres a core investment pillar (22nd Strategic Council); recommends DP-law + SEZ for cloud | national DC investment strategy
 
-## AI / innovation / cyber (tech.ai, tech.innovate)
-2025-10-27 | tech.innovate, tech.industry | Togo First | Lancement officiel de TogoTech, synergie nationale des startups | New startup association (Gozem, Semoa, etc.); CFA2bn cumulative revenue
-2026-06-05 | gov.policy, tech.ai | Togo First | Forum national sur la gouvernance de l'Internet (Togo IGF), 19 juin | Togo IGF 2026 on digital-sovereignty theme; ISOC Togo
-2026-07-08 | tech.ai, infra.cybersec | Togo First | Fraude et blanchiment : experts réfléchissent au rôle de l'IA (GRCRO) | 3rd GRCRO in Lomé, 46 countries; AI in AML/fraud; CENTIF-Togo, HAPLUCIA
-2026-07-14 | tech.ai, capacity.research | Togo First | Projet pour valoriser les langues nationales via l'IA | Togo AI Lab + Zindi + Umbaji open-source language-model project (50 languages); presented at AI for Good
-
-## Digital strategy / policy (gov.policy)
-2025-05-28 | gov.policy, tech.innovate | WeAreTech.Africa | Togo : nouvelle stratégie numérique 2025-2030 en préparation | Consultant recruitment for "Togo Digital 2025-2030"; digital = 4% GDP (2022), target 10%
+## Overview / reference
+- 2026-03-09 | gov.policy, tech.industry, dpi.pay, include.access | Telecom Review Africa | Feature on Tunisia's National Digital Strategy 2021-2025: ~80% internet users, 95% 4G, ICT ~11% GDP, 2,200 firms | dated overview/reference of the strategy era

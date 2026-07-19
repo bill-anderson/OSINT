@@ -7529,3 +7529,9 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
   licensing; an **operational DPA** (rare for the region) but security-linked (colonel-led, HAAC monitoring
   access) — independence the open question; and **sovereign AI** framed as owning national-language models
   as public infrastructure.
+
+## 2026-07-19 ingest(TUN) chunk 1/6 — Payments & fintech
+- Admitted 3 sources: TUNPAY national label (CBT+SMT, 2026-05-07), Kashy wallet (Tunisie Telecom×Viamobile, 2026-03-18), walletii licence (Ooredoo Fintech+QNB+SMT, 2026-03-07). 0 prunes.
+- Created wiki/intersections/tunisia--dpi-pay.md (identity→volume: e-Houwiya–PaySmart drove +81% 2025; national TUNPAY label; telco/Gulf wallets).
+- Created entity: smt-tunisia (Société Monétique Tunisie — national monétique operator).
+- Wired TUN hub dpi.pay bullet → Full case; dead-link check NONE.

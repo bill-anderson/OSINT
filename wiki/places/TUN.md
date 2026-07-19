@@ -140,7 +140,9 @@ thing to watch.
   H1 2025, outcome unconfirmed*. **[[uqudo]]** supplies document verification against the MRZ field
   for KYC/AML.
 - [[dpi.pay]] — [[central-bank-of-tunisia]]; [[paysmart]] integrated with E-Houwiya; CBT **KYC
-  regulations of 28 February 2025**; ISO 20022 adoption.
+  regulations of 28 February 2025**; ISO 20022 adoption. National **TUNPAY** label (CBT +
+  [[smt-tunisia]], May 2026); telco/Gulf wallets ([[tunisie-telecom]] Kashy, Ooredoo walletii).
+  Full case: [[tunisia--dpi-pay]].
 - [[gov.protect]] · [[gov.legislate]] — **[[organic-law-2004-63-tunisia]]** governed this period and
   is described by civil society as outdated. **Currency: the wiki holds fresher state — Tunisia is
   introducing a 123-article data protection bill to replace it** (per
