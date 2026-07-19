@@ -7078,3 +7078,12 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
   and the $470m Chinese AI-surveillance estate. +14 sources.
 - **Entities created:** [[awarri-technologies]] (company), [[ncair]] (government-body).
 - Added [[nigeria--tech-ai]] to the NGA hub intersections line.
+
+## 2026-07-19 — ingest(NGA) chunk 7: Cybersecurity
+
+- **7 admitted, 4 pruned** (INTERPOL 2→1; NCC framework-intent superseded by the CRF; thin UK trade-
+  mission meeting and PODES-Cyberpedia partnership dropped).
+- **Created:** [[nigeria--infra-cybersec]] — threat scale (4,000/wk, ₦12bn losses, 90% data offshore/
+  $850m cloud), NPF-NCCC INTERPOL #1, the dual-use Cybercrimes Act, NCC Cyber Resilience Framework
+  (4-hour reporting), National Cybersecurity Centre BUK, NAICOM cyber-insurance, Finland MoU. +7 sources.
+- Added [[nigeria--infra-cybersec]] to the NGA hub intersections line.
