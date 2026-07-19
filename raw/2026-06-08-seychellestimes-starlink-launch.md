@@ -10,6 +10,7 @@ places: [SYC]
 topics: [infra.connect, geopol.usa, include.access]
 entities: [[starlink]]
 lens: [sovereignty]
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: SYC-2026-07-17
 ---

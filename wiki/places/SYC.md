@@ -112,6 +112,7 @@ about commencement dates, enforcement reach and drafting gaps rather than covera
   proxy-dated) its legal framework was still being drafted and draft legislation not yet
   submitted to Cabinet — a status statement with no reliable as-of date, which may well have
   moved since.*
+- [[infra.connect]] · [[data.satellite]] — Starlink licensed/launched 2026 (outer-island resilience); Airtel 5G (2nd operator after CWS/Huawei 2020); Hytera-CWS emergency-comms MoU. Full case: [[seychelles--infra-connect]].
 - [[gov.regional]] · [[dpi.exchange]] · [[finance.mou]] — host of the **AfCFTA Digital Trade
   Corridor** HQ (Victoria); the March-2026 tripartite MoU with the AfCFTA Secretariat and
   [[quest-ghana]].
