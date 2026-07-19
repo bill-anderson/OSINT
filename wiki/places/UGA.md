@@ -6,7 +6,7 @@ parent: XEA
 place_kind: country
 topics: [dpi.id, dpi.pay, dpi.registry, dpi.exchange, dpi.govtech, dpi.mis, gov.protect, gov.legislate, gov.policy, gov.standards, gov.regional, infra.connect, infra.store, infra.capacity, infra.cybersec, include.access, include.divides, capacity.literacy, capacity.research, tech.ai, tech.innovate, tech.industry, data.statistics, data.satellite, digital.rural, finance.new, geopol.china, geopol.usa, geopol.gulf]
 status: active
-last_reviewed: 2026-07-17
+last_reviewed: 2026-07-19
 ---
 
 # Uganda (UGA)
@@ -65,6 +65,15 @@ days, two days before a presidential election — reminding every layer above it
   senior officer before completing registration. Source:
   [[2026-07-02 OpenCRVS v2.0 Product Launch Webinar - The Next Generation of Civil Registration]].
   See [[dpi.registry]].
+- **2026-06-15** — **Labour-market data programme.** The Ministry of Gender, Labour and Social Development
+  launched a **Labour, Employment, Productivity and Reporting Programme** for an integrated administrative
+  labour-data ecosystem (Employment Act Cap 226, ILO conventions), citing fragmented admin data against UBOS
+  figures (**12.3% unemployment, 42% labour underutilisation, 88% informality**). Source:
+  [[2026-06-15-gender-ministry-labour-market-data-programme]]. See [[data.statistics]], [[dpi.mis]].
+- **2026-06-10** — **SHIPU–Huawei engagement.** State House Investors Protection Unit head **Col Edith
+  Nakalema** met new trade minister Sanjay Tanna and **[[huawei]]** executives (with URA, NITA-U, UMA) on
+  trade/investment and taxation — a [[geopol.china]] investment-climate touchpoint. Source:
+  [[2026-06-10-nakalema-meets-trade-minister-huawei-executives]]. See [[finance.new]].
 - **2026-05-22** — **Prototype Showcase + National Innovator Registry.** The Ministry of ICT called for
   working prototypes across digital ID, civil registration, DPI, health information systems and
   interoperability — showcase 25 Jun, the **Uganda National Innovator Registry** gazetted **5 Jul** to
@@ -107,6 +116,10 @@ days, two days before a presidential election — reminding every layer above it
   colonialism" warning. Source:
   [[2026-03-12 Western AI models 'fail spectacularly' in farms and forests abroad]]. See [[tech.ai]],
   [[data.satellite]], [[digital.rural]].
+- **2026-02-05** — **National Laboratory Data Repository.** The Ministry of Health launched a one-stop
+  platform linking all lab information systems to the **National Health Data Warehouse** for real-time
+  disease surveillance and planning (facility→national) — extending the DHIS2/HMIS stack. Source:
+  [[2026-02-05-national-laboratory-data-repository-health]]. See [[dpi.mis]], [[dpi.exchange]].
 - **2026-01-26** — **Election internet shutdown and its costs.** The
   **[[uganda-communications-commission]]** ordered a full blackout on the evening of **13 Jan 2026**,
   two days before the presidential election; it lasted **four days**. The government's **>$70m**
@@ -185,8 +198,10 @@ days, two days before a presidential election — reminding every layer above it
   Act ss.11/23/26–29 + criminal libel**; UCC anti-piracy DNS/IP-blocking framework — the dual-use tension).
   Chinese "safe city" surveillance suppliers; the ID database access mechanism ([[acme-uganda]],
   [[nick-opiyo]]).
-- [[tech.innovate]] · [[capacity.research]] — the local DPI innovation pipeline
-  ([[google-for-startups-accelerator-africa]]); the mobile-money data-access gap.
+- [[tech.innovate]] · [[capacity.research]] — extracted: **[[uganda--tech-innovate]]** (deep-tech/
+  manufacturing "prepared the bride" framing + Kiira Motors; startup tax holiday; ecosystem funding down 60%
+  to $10.6m 2023; MTN's "scaling not talent" problem; Mbale women's ICT hub). The local DPI innovation
+  pipeline ([[google-for-startups-accelerator-africa]]); the mobile-money data-access gap.
 
 ## Contested figures
 
