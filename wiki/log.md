@@ -7207,3 +7207,14 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
   stocktake (e-Senegal, interop "Once Only", Sengec, Startup Act), Sonko's 12 structuring projects +
   GouvNum. +10 Le Soleil/primary sources.
 - Wired into hub Intersections + linked from the [[new-deal-technologique]] entity.
+
+## 2026-07-19 — ingest(SEN) chunk 2: Connectivity
+
+- **11 admitted, 4 pruned** (ARTP PR-twin; ConnectingAfrica Starlink-live — held; Via Africa 05-13 —
+  held via entity; Sonatel-Netgem cloud gaming — marginal).
+- **Created:** [[senegal--infra-connect]] — Dakar-hub backbone (2Africa 45,000km/180Tbps landing,
+  Phase3-Sonatel 3,500km Lagos-Dakar, Gandoul OneWeb LEO teleport), Sonatel 2025 scale (rev 1,923bn,
+  FTTH 640k, 99% coverage, 1m sockets 2026-28), and the state Starlink free-connectivity deal (5,000
+  kits/1m free, 5-yr licence, 64bn saving, Casamance/Plan Diomaye, Apr deployment tour), ARTP SIM.
+- **Entities created:** [[sonatel]], [[artp-senegal]]. (senegal--infra-store is a forward-ref resolved
+  next chunk.)
