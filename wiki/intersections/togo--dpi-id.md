@@ -93,11 +93,11 @@ Bas-Mono and Lacs**) from **22 November 2025**, following earlier rollouts in
 aged 0–5**, registrable using a parent's NIU; **[[inseed-togo]]** manages
 field-personnel deployment.
 
-**The enrolment-count gap (GAP-TGO-002).** **No source held here reports a cumulative
-enrolment total for 2025.** The November-2025 report gives phases but no figure, and
-coverage must not be inferred from the phase sequence. The 6m figure above is a
-May-2026 MOSIP-explainer datapoint, not a Togolese-government total, and the 8m
-figure is a *target* stated in December 2023. See [[include.divides]]. Sources:
+**The enrolment-count gap (GAP-TGO-002 — now resolved).** For 2025 no cumulative total was on file
+(the November-2025 phase report gave no figure). That gap is now **closed** by the Togolese government's
+own H2-2025 reforms report: **6m+ NIUs as of end-Dec 2025** (see "The 6-million milestone" above). The
+**8m** figure remains a *target* stated in December 2023, not a coverage claim. See [[include.divides]].
+Sources:
 [[2023-12-21 ISR - WURI Phase 2 Seq 7 (P169594)]],
 [[2024-03-06 1 step forward, 3 steps back for West Africa's regional digital ID projects]],
 [[2025-11-19 Togo Advances Digital ID Program With New Enrollment Phase in Maritime Region]].
