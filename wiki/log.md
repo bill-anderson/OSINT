@@ -7777,3 +7777,7 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
 ## 2026-07-19 ingest(XAF) chunk 2 — Cross-border DPI & continental initiatives (6 sources)
 - Added consolidated XAF hub entry: continental cross-border-DPI initiatives crystallise — AfCFTA ADAPT (Kenya/Morocco/Nigeria first trio; shared ID/payments/data rails on TWIN; TBI/IOTA/WEF; stablecoin exploration); Smart Africa SADX (Benin/Ghana/Rwanda open-standards data exchange, Ascend pilot); Africa AI Council (Kagame-chaired) + SANIA (Transform Africa Conakry); Smart Africa-AU AI renewal; 2026 DPI-operationalization outlook.
 - Created entities adapt, iota-foundation, africa-ai-council, smart-africa-data-exchange (SADX), ascend-digital-solutions. 0 prunes. Dead-link NONE.
+
+## 2026-07-19 ingest(XAF) chunk 3 — Continental data governance & AI frameworks (5 sources)
+- Added consolidated XAF hub entry: continental data-governance sovereignty debate — FPF "backdoor" AI regulation via revised data-protection laws (7 states, "second wave" diverging from GDPR); the $200-400bn "data reserve"/"giving it away" framing (Data Governance Compact + National Data Trusts); AU Protocol on Digital Trade as DPI lever (Mene, GITEX); Smart Africa/UNESCO Francophone data-governance workshop (SADA/WARDIP); ADP president on Malabo ratification lag + no continental adequacy standard.
+- Created entity africa-data-protection (future-of-privacy-forum/wardip/malabo-convention/afcfta-digital-trade-protocol already held). 0 prunes. Dead-link NONE.

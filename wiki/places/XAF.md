@@ -31,6 +31,22 @@ rule, is all `XAF` children except `XNA`; `XGL` is for non-Africa-specific/globa
   Eritrea, Libya, Seychelles, Tanzania, Western Sahara). Sources:
   [[2025-04-04 Africa Declaration on Artificial Intelligence]],
   [[2025-05-13 Optimism but uncertainty over Africa's AI Declaration]]. See [[tech.ai]], [[gov.policy]].
+- **2025-02 → 2026-05** — **Continental data governance: the sovereignty debate sharpens.** Four strands
+  converged on the question of who controls African data. A **[[future-of-privacy-forum|FPF]]** report (7
+  states) found Africa is regulating AI **"through the backdoor"** — embedding AI rules in **revised data-
+  protection laws** rather than standalone AI statutes, a "second wave" diverging from GDPR toward local
+  realities (credit scoring, facial recognition, digital lending). An influential op-ed reframed the stakes
+  as an asset problem — Africa's ~600m digital citizens generate data worth **$200–400bn/year** that is
+  **"given away" offshore**, proposing a continental **Data Governance Compact + National Data Trusts**. The
+  **[[afcfta]]** SG **[[wamkele-mene]]** pitched the **[[afcfta-digital-trade-protocol|AU Protocol on Digital
+  Trade]]** as a DPI lever (GITEX Africa; ~700-data-centre / $721bn-by-2050 framing). And on the regulatory
+  base, **[[smart-africa]]**/UNESCO convened seven **Francophone** West African states on data governance
+  (under SADA/[[wardip]]), while **[[africa-data-protection]]**'s president flagged the persistent gaps: the
+  **Malabo-Convention ratification lag**, cross-border-transfer friction, and **no continental "adequacy"
+  standard**. Sources: [[2026-03-19-data-protection-africas-default-ai-policy-tool]],
+  [[2026-05-08-africas-data-worth-400bn-giving-it-away]], [[2026-04-21-au-protocol-digital-trade-boost-dpi-afcfta]],
+  [[2026-05-26-smart-africa-data-governance-francophone]], [[2025-02-27-africas-blueprint-secure-digital-future-qa]].
+  See [[gov.protect]], [[gov.policy]], [[tech.ai]], [[gov.regional]].
 - **2025-11 → 2026-05** — **Continental cross-border-DPI initiatives crystallise.** Two flagship, explicitly
   **African-led** shared-rail efforts moved from declaration to pilot: **[[adapt]]** (Africa Digital Access &
   Public Infrastructure for Trade), launched by the **[[afcfta]]** Secretariat (Nov 2025, with [[tony-blair-institute]]/

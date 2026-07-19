@@ -6,6 +6,7 @@ publisher: ITWeb Africa
 published: 2026-05-08
 date_precision: day
 date_source: source
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: XAF-2026-07-17
 places: [XGL]
