@@ -6,6 +6,7 @@ publisher: Connecting Africa
 published: 2025-01-27
 date_precision: day
 date_source: source
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: SEN-2026-07-17
 places: [SEN]

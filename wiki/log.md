@@ -7218,3 +7218,12 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
   kits/1m free, 5-yr licence, 64bn saving, Casamance/Plan Diomaye, Apr deployment tour), ARTP SIM.
 - **Entities created:** [[sonatel]], [[artp-senegal]]. (senegal--infra-store is a forward-ref resolved
   next chunk.)
+
+## 2026-07-19 — ingest(SEN) chunk 3: Data centres & sovereign cloud
+
+- **5 admitted, 2 pruned** (two PAIX groundbreaking outlets — event already held).
+- **Created:** [[senegal--infra-store]] — PAIX Dakar DC, SENUM-Sonatel (sovereign cloud + SENIX IXP
+  reactivation + submarine-cable interconnect), and the US(Google/AWS)–China(Huawei/Alibaba) sovereign-
+  cloud contest: Huawei accord (DC modernisation + IT assembly plant, China visit), Alibaba Dakar-2026
+  sovereign cloud. +5 sources; sovereignty/colonialism read (place vs technology).
+- Added [[senegal--infra-connect]] + [[senegal--infra-store]] to hub Intersections list.

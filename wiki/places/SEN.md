@@ -189,6 +189,8 @@ last_reviewed: 2026-07-16
 
 ## Intersections
 
+- [[senegal--infra-connect]] — connectivity: 2Africa/Phase3/Gandoul backbone, Sonatel scale, the state Starlink free-connectivity deal.
+- [[senegal--infra-store]] — data centres & sovereign cloud: PAIX, SENUM-Sonatel, and the US(Google/AWS)–China(Huawei/Alibaba) sovereign-cloud contest.
 - [[senegal--gov-policy]] — the New Deal Technologique: pillars, 1,105bn-FCFA financing, 2034 KPIs, GouvNum, e-Senegal.
 - [[senegal--dpi-id]] — digital identity & CRVS: the Feb 2026 national-ID breach, ECOWAS voter ID, and the
   ANEC/Nékkal civil-registration modernisation.
