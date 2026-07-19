@@ -10,6 +10,7 @@ places: [SWZ]
 topics: [dpi.govtech, dpi.pay, include.access]
 entities: [[government-in-your-hand], [ministry-of-ict-eswatini], [eswatini-revenue-service]]
 lens: []
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: SWZ-2026-07-17
 ---

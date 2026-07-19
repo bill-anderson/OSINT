@@ -7416,3 +7416,16 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
   register, an EU-funded automatic electoral roll (registry↔CEN, €2m/yr saved); and outsized **data
   diplomacy** — a tiny DPA courted by both the EU/Lusophone network and China (via Macau, incl. AI
   supervision). US soft-power pivot (VOA out, Starlink in). Donor-financed but design-sovereign.
+
+## 2026-07-19 — ingest(SWZ) chunk 3: GovTech, GIYH & Google MoU
+
+- **7 admitted, 3 pruned** (Google TechAfrica dup of ITWeb primary; two GIYH-launch dups of the
+  Independent primary).
+- **Created:** [[eswatini--dpi-govtech]] — GIYH+TaxPal launch, Digital Eswatini Project (E1.2bn/$65m WB
+  loan, Change-Agent training, E648m broadband+E450m GIYH, e-IDs+USSD, 2027 rollout), the Google-MoU
+  cabinet controversy (cloud/e-gov framework not monetisation; PM/AG contradiction), Google Cloud Summit
+  spotlight, MTN Umelusi/TruMD/Content-Hub sector apps.
+- **Resolves GAP-SWZ-001** (Google MoU now backed by journal primaries + full 2026-controversy cluster;
+  updated [[eswatini-google-partnership]]) and **GAP-SWZ-002** (GIYH launch now primary-sourced; privacy
+  thread evidenced via school-gate biometrics + Home Affairs breach on [[eswatini--dpi-id]]). Left in the
+  gaps register for the human to close.

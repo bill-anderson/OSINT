@@ -10,6 +10,7 @@ places: [SWZ]
 topics: [geopol.usa, finance.mou, capacity.training, dpi.govtech]
 entities: [[google], [ministry-of-ict-eswatini], [google-eswatini-mou], [government-in-your-hand]]
 lens: [sovereignty]
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: SWZ-2026-07-17
 ---

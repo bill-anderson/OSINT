@@ -48,3 +48,5 @@ Transformation and Economic Prosperity."* See [[finance.mou]], [[geopol.usa]].
 ## Sources
 
 - [[2025-01-22 Eswatini partners with Google to drive digital transformation and economic growth]]
+
+**Provenance & the 2026 controversy (resolves GAP-SWZ-001).** The Jan-2025 MoU is now backed by in-window journal primaries ([[2025-01-21-google-works-with-eswatini-to-accelerate-digital-economy]]). In Apr 2026 it became a cabinet controversy: PM Russell Dlamini first dismissed it, then acknowledged **Cabinet had approved** it (AG confirmed the minister consulted Cabinet/AG). An investigation established the MoU — with **Google Cloud EMEA** — was a **cloud-services/e-government framework, not a monetisation deal**. Eswatini later featured at the Google Cloud Summit Africa 2026 (Ramaphosa acknowledgement). Full case: [[eswatini--dpi-govtech]].

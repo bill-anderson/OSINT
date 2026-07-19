@@ -10,6 +10,7 @@ places: [SWZ]
 topics: [dpi.govtech, capacity.training, infra.connect, finance.new]
 entities: [[digital-eswatini-project], [ministry-of-ict-eswatini], [world-bank], [government-in-your-hand]]
 lens: []
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: SWZ-2026-07-17
 ---

@@ -10,6 +10,7 @@ places: [SWZ]
 topics: [gov.policy, tech.ai, dpi.govtech, geopol.usa]
 entities: [[ministry-of-ict-eswatini], [google], [government-in-your-hand], [digital-eswatini-project]]
 lens: []
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: SWZ-2026-07-17
 ---

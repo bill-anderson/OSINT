@@ -160,8 +160,9 @@ The rails exist; usage lags them.
   Payment Systems Strategy 2022–2025 ([[central-bank-of-eswatini]]); **over 90% of P2B payments
   still cash-based (2025-08-05)**; national e-KYC, National FinTech Strategy 2025-2030, SIIPS entrant.
   Full case: [[eswatini--dpi-pay]].
-- [[dpi.govtech]] — [[government-in-your-hand]] and [[digital-eswatini-project]] (P508948,
-  US$65.16m proposed; approval unconfirmed).
+- [[dpi.govtech]] — [[government-in-your-hand]] (GIYH+TaxPal launched May 2025) and [[digital-eswatini-project]]
+  (P508948, E1.2bn/US$65m, Change-Agent training, 2027 rollout); the Google-MoU cabinet controversy; MTN
+  sector apps (Umelusi/TruMD/Content Hub). Full case: [[eswatini--dpi-govtech]].
 - [[dpi.mis]] · [[digital.rural]] — [[eswatini-cbhis]] / [[eswatini-cmis]] under the
   [[eswatini-nhssp]].
 - [[infra.connect]] · [[include.divides]] — **57.6% internet penetration (Jan 2025)**; **1.67m

@@ -10,6 +10,7 @@ places: [SWZ]
 topics: [geopol.usa, tech.innovate, finance.mou]
 entities: [[google], [google-eswatini-mou], [ministry-of-ict-eswatini]]
 lens: [sovereignty]
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: SWZ-2026-07-17
 ---

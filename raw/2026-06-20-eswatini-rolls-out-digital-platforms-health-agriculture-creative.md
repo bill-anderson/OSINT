@@ -10,6 +10,7 @@ places: [SWZ]
 topics: [dpi.mis, tech.innovate, include.access, digital.rural]
 entities: [[mtn-eswatini], [ministry-of-ict-eswatini]]
 lens: []
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: SWZ-2026-07-17
 ---
