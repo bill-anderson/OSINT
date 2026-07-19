@@ -8,8 +8,8 @@ topics: [infra.store, infra.energy, gov.policy, gov.legislate, gov.protect, tech
 entities: [[kasi-cloud], [nsia], [ncc], [equinix], [africa-data-centres], [cbn]]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-12
-sources: [[2026-05-22 Why global hyperscalers are avoiding Nigeria despite Africa's biggest market], [2026-02-26 Lagos Is Getting a $250 Million Hyperscale Data Center. Here's Why Nigeria Still Can't Power the Cloud], [2026-05-21 Africa Data Center Investment 2026 The $4.5B Race and the Power Problem], [2026-07-10 Nigeria tests data sovereignty as foreign tech firms facing probe], [2026-07-10 CBN's Data Localisation Directive Puts Nigerian Fintechs In A Cloud Dilemma]]
+last_reviewed: 2026-07-19
+sources: [[2026-05-22 Why global hyperscalers are avoiding Nigeria despite Africa's biggest market], [2026-02-26 Lagos Is Getting a $250 Million Hyperscale Data Center. Here's Why Nigeria Still Can't Power the Cloud], [2026-05-21 Africa Data Center Investment 2026 The $4.5B Race and the Power Problem], [2026-07-10 Nigeria tests data sovereignty as foreign tech firms facing probe], [2026-07-10 CBN's Data Localisation Directive Puts Nigerian Fintechs In A Cloud Dilemma], [2025-09-10-1gov-cloud-galaxy-backbone], [2026-03-05-cassava-national-sovereign-cloud], [2026-06-10-21st-century-china-mobile-sovereign-cloud], [2025-12-08-data-centre-capacity-400mw-2030-verraki], [2026-05-05-gbb-ondi-subsidised-sovereign-cloud-startups], [2026-05-28-kasi-cloud-los1-hyperscale-flagoff], [2025-03-24-visa-data-centre-1-billion], [2025-11-10-equinix-lg3-22m-lagos-data-centre], [2025-01-14-aws-accepts-naira-payments], [2025-03-20-rack-centre-data-sovereignty]]
 ---
 
 # Nigeria × Data Storage
@@ -80,6 +80,31 @@ The physical capacity behind the localisation debate is a fast-growing, still-mo
 - `sovereignty`: onshoring mandates + sovereign-fund-backed builds ([[nsia]]/[[kasi-cloud]]) aim to
   nationalise the infrastructure layer — but with no local hyperscale *cloud* region, the compute
   platforms remain foreign even as the racks come home (cf. [[nigeria--gov-protect]]).
+
+## The sovereign-cloud push (2025-2026)
+
+The "racks come home, cloud stays foreign" gap is exactly what a wave of **sovereign-cloud** initiatives now
+targets — reinforced by the CBN/NDPC data-localisation mandates (see [[nigeria--gov-protect]], [[nigeria--dpi-pay]]).
+
+- **Government: 1Gov / Galaxy Backbone (2025-09).** The FG began full rollout of a **sovereign 1Government Cloud
+  (1Gov)** via **[[galaxy-backbone]]** — GovDrive, GovMail (encrypted), GovECMS and GovE-Sign — across ministries,
+  to cut foreign-system reliance and recurrent costs. It later paired with **ONDI** (NITDA) to give **iHatch
+  startups subsidised sovereign cloud** on the Galaxy Cloud Platform. Sources:
+  [[2025-09-10-1gov-cloud-galaxy-backbone]], [[2026-05-05-gbb-ondi-subsidised-sovereign-cloud-startups]].
+- **Commercial sovereign cloud.** **[[cassava-technologies]]** launched a **National Sovereign Cloud** for
+  African governments (cloud + cyber + AI compute + local-language models + an AI Institute); and indigenous
+  **21st Century Technologies** partnered **China Mobile International** to expand sovereign cloud + AI in Nigeria
+  ("much data still hosted outside the country") — a data-sovereignty push riding partly on a **Chinese** stack
+  ([[geopol.china]]). Sources: [[2026-03-05-cassava-national-sovereign-cloud]],
+  [[2026-06-10-21st-century-china-mobile-sovereign-cloud]].
+- **Hyperscale build-out.** **[[kasi-cloud|Kasi]] LOS1** (Lekki, ~4ha by six subsea landings incl. Equiano/2Africa)
+  flagged off as **West Africa's first hyperscale-ready, AI-capable** platform (scaling to ~100MW); **Visa** plans
+  a **$1bn**-portfolio Nigeria data centre; **Equinix** added an LG3 build ($22m); **AWS** began accepting
+  **naira** (cutting cloud cost for Nigerian firms hosting in its EU region). A Verraki report projects national
+  DC capacity **65–86MW → 400MW+ by ~2030** (17 active DCs, 9+ under construction). Sources:
+  [[2026-05-28-kasi-cloud-los1-hyperscale-flagoff]], [[2025-03-24-visa-data-centre-1-billion]],
+  [[2025-11-10-equinix-lg3-22m-lagos-data-centre]], [[2025-01-14-aws-accepts-naira-payments]],
+  [[2025-12-08-data-centre-capacity-400mw-2030-verraki]], [[2025-03-20-rack-centre-data-sovereignty]].
 
 ## Links
 

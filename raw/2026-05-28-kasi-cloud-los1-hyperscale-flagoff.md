@@ -12,6 +12,7 @@ entities: [[kasi-cloud]]
 lens: [sovereignty]
 retrieved: 2026-07-17
 sweep_batch: NGA-2026-07-17
+body_completeness: excerpt
 ---
 
 Kasi Cloud Datacenters held the flag-off ceremony for its Lekki campus in Lagos, commissioning West Africa's first hyperscale-ready, AI-capable, carrier-neutral data centre platform. The event signals the transition of Kasi LOS1 from construction into operational readiness, opening a sovereign cloud and AI infrastructure option for Nigerian enterprises, financial institutions and government agencies. Developed on ~4 hectares in Maiyegun, Lekki, adjacent to six subsea cable landing stations (including Equiano and 2Africa), the campus is designed to scale to approximately 100MW of critical IT capacity upon full development.

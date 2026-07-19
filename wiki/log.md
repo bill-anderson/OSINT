@@ -7049,3 +7049,11 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
   broadband; 19,384 fibre cuts; 23% rural divide; Starlink surge (2nd ISP, congestion, biometric-SIM regime) +
   Kuiper/NigComSat-Eutelsat LEO race; MTN 400G/800G + IHS review + 8m homes; IXPN 1Tbps; IFC-Airtel $150m;
   Eq-Guinea subsea. +22 sources. Added to hub Intersections line.
+
+## 2026-07-19 — ingest(NGA) chunk 4: Data centres & sovereign cloud
+
+- **10 admitted, 9 pruned** (MTN-Sifiso/Airtel-Nxtra/OADC already hubbed; Visa ×2→1, Rack ×2→1, Equinix
+  LG2.3/LG3→LG3, Kasi 100MW→LOS1). NASRDA-Galaxy-Space deferred to China pass.
+- **Intersection expanded:** [[nigeria--infra-store]] +"The sovereign-cloud push" section — 1Gov/Galaxy Backbone
+  (GovDrive/Mail/E-Sign) + ONDI startup cloud; Cassava National Sovereign Cloud; 21st Century × China Mobile;
+  Kasi LOS1 hyperscale; Visa $1bn DC; Equinix LG3; AWS naira; Verraki 400MW-by-2030. +10 sources.

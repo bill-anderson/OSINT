@@ -12,6 +12,7 @@ entities: [[galaxy-backbone], [ondi], [nitda]]
 lens: [sovereignty]
 retrieved: 2026-07-17
 sweep_batch: NGA-2026-07-17
+body_completeness: excerpt
 ---
 
 Galaxy Backbone Limited (GBB) entered a strategic partnership with the Office for Nigerian Digital Innovation (ONDI, a NITDA unit) to provide subsidised sovereign cloud services to startups under the iHatch programme, giving participating startups access to the Galaxy Cloud Platform (GxCP) — GBB's sovereign cloud infrastructure supported by Tier III facilities. The collaboration aims to strengthen Nigeria's digital innovation ecosystem.
