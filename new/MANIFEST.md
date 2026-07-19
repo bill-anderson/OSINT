@@ -1,49 +1,53 @@
-# ZMB sweep manifest — batch ZMB-2026-07-17
+# ZWE sweep manifest — batch ZWE-2026-07-17
 
-Window: 2025-01-01 → 2026-07-17 (full). Sources: Lusaka Times, News Diggers (newspapers) + fixed-8 trade journals. 27 candidates staged; 6 dropped (exact-URL held) — see `sweep/drop-log-ZMB.csv`.
+Window: 2025-01-01 → 2026-07-17. Papers: NewZimbabwe, NewsDay (EN). Journals: fixed-8. 35 staged.
+Format: `published | topics | source | title | why-it's-new`
 
-Legend: `published | topics | source | title | why-it's-new`
+## Digital ID / civil registry / deeds (dpi.id, dpi.registry)
+- 2025-07-14 | dpi.id, dpi.registry, include.access, digital.rural | NewsDay | Bringing identity home: Mobile registration changes lives in Binga | Named-paper primary on UNICEF/Sweden-backed Binga mobile registration (57% birth-reg baseline); complements held mobileidworld Binga item.
+- 2025-10-10 | dpi.id, dpi.registry, digital.rural | Biometric Update | Nigeria, Zimbabwe launch new farmer digital ID initiatives | New thread: AMA cotton-farmer biometric registry (after tobacco/TIMB) — sector digital ID not previously in wiki.
+- 2026-04-07 | dpi.registry, dpi.govtech, gov.legislate | NewZimbabwe | Title Deed Validation & Reissuance Pilot (Vengai Madzima) | Update to held 2025 deeds item: 16-firm DLAP pilot from 4 Apr 2026, SI 76/2025, 18 Jul 2027 digitization deadline.
+- 2026-05-14 | dpi.id, dpi.registry, dpi.govtech | NewsDay (Southern Eye) | Minister denies ID backlog amid growing public outcry | Named-paper: Senate exchange, ZPRS/e-passport rollout vs 1.5m undocumented children; currency of the ID-backlog debate.
 
-## Digital ID / civil registration (dpi.id, dpi.registry)
-- 2025-09-08 | dpi.id, dpi.registry | News Diggers | This is why we need biometric national identity cards | Op-ed tying voter registration to case for permanent biometric NRC (ECZ angle); not held.
-- 2025-12-25 | dpi.id, geopol.usa | News Diggers | Zambia to have digital IDs by end of 2026 | SZI/Chinyama from Washington; ties digital ID to lifting US "blacklist"; $50M of DZAP to IDs. Sovereignty angle not held.
-- 2026-05-18 | dpi.id, gov.protect | TechAfrica News | Zambia Advances Digital Identity Agenda Through Multi-Sectoral Engagement | ID4Africa Abidjan (concluded 15 May 2026); delegation incl. Data Protection Commissioner + BoZ. Not held.
+## E-government / standards (dpi.govtech, gov.standards)
+- 2025-05-26 | gov.standards, dpi.govtech, dpi.exchange | NewsDay | Govt reviews ICT standards to boost digitalisation | e-Gov Technology Unit (OPC) on MDA interoperability/connectivity gaps; establishes e-gov governance actors.
 
-## E-government / govtech / local government (dpi.govtech, dpi.mis, digital.localgov)
-- 2025-06-23 | dpi.govtech, dpi.mis | TechAfrica News | Zambia Advances Public Sector Digitisation with SMART Office System Rollout | New in-house SMART Office e-registry piloting at MoH/Luapula; K400m stationery savings claim. Not held.
-- 2026-01-24 | dpi.govtech, gov.legislate | News Diggers | Digitisation has reduced corruption - SMART Zambia | Chinyama on E-Government Act No. 41/2021 Amendment Bill; anti-corruption framing. Not held.
-- 2026-05-07 | dpi.govtech, infra.connect | TechAfrica News | Zambia Targets Full Digitalisation of Public Services Under SMART Zambia | Plan to connect all health facilities + schools; Muchinga engagement. Not held.
-- 2026-05-13 | dpi.govtech, digital.localgov | TechAfrica News | Zambia Launches Digital Property Management System (PMIS) | New PMIS by CoreLink, integrated w/ ZamPortal+ZamPay. Not held.
-- 2026-05-29 | dpi.govtech, digital.localgov | News Diggers | Councils to go digital, as LCC becomes first on ZamPortal | LCC first of 116 councils live on ZamPortal; e-Council rollout by 30 Jun 2026. Not held.
-- 2026-07-08 | dpi.govtech, infra.connect, digital.rural | TechAfrica News | SMART Zambia Expands Digital Infrastructure to Reach Every Corner | GWAN in NW Province; SmartCare Pro at 80% facilities; ZNSDI GeoPortal. Not held.
-- 2026-07-12 | dpi.govtech, dpi.mis | News Diggers | Govt launches digital system to track and manage contracts (CTMIS) | New Contract Tracking & MIS w/ Ministry of Justice/AG's Chambers. Not held.
+## Data governance / protection / POTRAZ enforcement (gov.protect, gov.legislate)
+- 2025-06-06 | gov.protect, gov.legislate | TechnoMag | 570 Institutions Receive Data Controllers Licences | Inaugural Data Controller Licence handover (SI 155/2024), 4 tiers, 570 licensed / 500+ DPOs trained — baseline figure.
+- 2025-06-09 | gov.protect, gov.legislate | TechnoMag | POTRAZ Unveils 2025/26 Planned Enforcement Actions | Enforcement roadmap: voluntary 2025 → fines/criminal 2026.
+- 2025-10-17 | gov.protect, infra.cybersec, gov.policy | NewsDay | Government enforces data privacy laws (National Cybersecurity Strategy) | New: National Cybersecurity Strategy launch; 830 DPOs trained, 721 controllers licensed (up from 570).
+- 2026-03-27 | gov.protect, gov.legislate | TechnoMag | POTRAZ Warning to Unlicensed Data Controllers | March-2025 licensing deadline lapsed; widespread non-compliance; surveillance/biometric processors in scope.
+- 2026-05-14 | gov.protect, gov.legislate | Business Times | POTRAZ plots crackdown on firms | Escalation: large-scale audits from Q4 2026, up-to-7-yr CEO jail terms, ~1,200 DPOs trained (progression 570→721→1,200).
 
-## Payments / digital finance (dpi.pay, finance.*)
-- 2026-06-03 | dpi.pay, finance.mou | TechAfrica News | Zoyk and Visa Launch Strategic Partnership to Advance Digital Payments | New Zoyk–Visa fintech deal; SADC cross-border framing; SZI keynote. Deal entity. Not held.
-- 2026-07-10 | dpi.pay, dpi.govtech | ITWeb Africa | Digital services strengthen Zambia finances | K8.8bn/$488M collected via GSB/ZamPortal/ZamPay; 400+ services onboarded. Not held.
-- 2026-05-14 | tech.industry, finance.new, dpi.id | TechAfrica News | Zambia Seeks to Accelerate Digital Economy Through Public-Private Collaboration | Dot Com Zambia (LuSE-listed) + Mutati on "single source of truth" digital ID KYC. Not held.
+## Connectivity / Starlink / broadband (infra.connect, include.access/divides)
+- 2025-05-21 | infra.connect, include.access, data.statistics | NewsDay | Potraz approves telco tariff raise | ZiG bundles +35%; 2024 sector data (opex +42.83%, rev US$716.6m, capex US$83.3m).
+- 2025-06-26 | infra.connect, include.divides, include.access | TechCabal | Starlink: hype in cities, silence in rural | Urban/rural divide; USD pricing barrier; local ISPs allowed satellite only Jan 2025.
+- 2025-07-24 | infra.connect, include.divides, digital.localgov | Techzim | Govt Donates 250 Starlink Kits to Local Authorities | 250 kits to councils (distinct from schools/hospitals); deployment-risk analysis.
+- 2026-05-07 | infra.connect, include.access | NewsDay | Empire strikes back: Liquid's fibre price war vs Starlink | Liquid Infinity 99 (500Mbps/US$99) undercuts Starlink; Q4 2025 Liquid traffic -10%, Starlink +42%.
+- 2026-05-16 | infra.connect, include.access, tech.ai | NewsDay | Govt defends Starlink rollout | National Assembly: USF tower-relocation, Starlink price rises US$65→US$100+, data-sovereignty debate.
+- 2026-05-19 | infra.connect, data.statistics | NewsDay (Independent) | Measured but not counted: Starlink broke Potraz's bandwidth framework | Analysis: Starlink 83% of Q1 2025 used bandwidth exceeded total equipped capacity; POTRAZ restated methodology — measurement-sovereignty angle.
+- 2026-05-19 | infra.connect, include.access, data.statistics | NewsDay (Independent) | Over 50% of Zim's fixed broadband now wireless | FWA crossover to 54.54% in 2025; fixed-LTE 109k→143k; DSL decline; Starlink VSAT 30.9k→67k.
+- 2026-06-29 | infra.connect, infra.store, finance.new | NewsDay | Govt debt to TelOne doubles to US$42m | State arrears choke TelOne capex; Starlink partnership revenue US$3.7m (2025, from US$215k).
+- 2026-07-03 | infra.connect, gov.regional, finance.new | NewsDay | Powertel + Paratus launch new digital highway | Named-paper primary on Plumtree-Bulawayo cross-border fibre (800Gbps DWDM, IRU, Botswana-Zim-Zambia corridor); held via ITWeb but adds detail.
+- 2026-07-15 | infra.connect, include.access, data.statistics | NewsDay | Internet traffic surges 57% (Q1 2026) | Post-Cabinet: +57.28% traffic, 379 5G stations, fibre backbone 19,000km, Presidential Internet Scheme.
+- 2026-07-17 | infra.connect, include.divides, dpi.mis, digital.rural | NewsDay | Starlink kits gather dust at rural hospitals | 400+ health facilities have kits unactivated over subscription costs; USF extension debate — most recent item.
 
-## Connectivity / rural / divides (infra.connect, digital.rural, include.access)
-- 2025-06-13 | infra.connect, include.access | News Diggers | We're investigating disruption of internet services - ZICTA | ZICTA probes Airtel/network outages. Not held.
-- 2025-09-01 | infra.connect, include.access, digital.rural | TechAfrica News | ZICTA Board Committee Reviews UASF Projects in Copperbelt & NW | UASF towers/last-mile fibre inspection (24 & 51 Towers projects). Not held.
-- 2025-09-29 | infra.connect, digital.rural | TechAfrica News | Smart Zambia Brings Starlink Internet to Remote Moomba Chiefdom | Govt Starlink kits to rural clinic/schools in Kazungula GMA. Not held.
-- 2026-02-17 | infra.connect, include.access | News Diggers | We'll take visible action against mobile operators over poor network - ZICTA | Regulator threatens operators over Copperbelt QoS. Not held.
-- 2026-05-15 | infra.connect, include.access, finance.new | TechAfrica News | Zambia Approves K255 Million to Upgrade Digital Infrastructure | DERT III; fibre 15k→45k km; K255m QoS approval; ZICTA quarterly reports. Not held.
-- 2026-06-17 | infra.connect, digital.rural | TechAfrica News | ZICTA Assesses UASF ICT Projects Across Rural Zambia | Board tour Muchinga/Northern/Luapula; Chinsali Special School ICT. Not held.
-- 2026-07-16 | infra.connect, dpi.govtech, dpi.mis | TechAfrica News | Zambia Launches GovLink Private 4G Network | Govt-owned 4G backbone; health flagship (Care 2.0/SmartCare). Not held.
-- 2026-07-16 | infra.connect, dpi.govtech | ITWeb Africa | Zambia launches GovLink private 4G network | Same event, second outlet (complementary detail). Not held.
+## Data centres / cloud / AI sovereignty (infra.store, tech.ai)
+- 2026-01-14 | infra.store, tech.ai, finance.new, gov.policy | TechAfrica News | Zimbabwe Unveils AI-Ready Data Center and Industrial Tech Park | Journal announcement of Econet data-centre/tech-park (Mavetera + Chimanikire); precedes March AI strategy.
+- 2026-03-16 | tech.ai, gov.policy, gov.legislate, data.open | ITWeb Africa | Mnangagwa launches five-year AI Strategy (2026-2030) | Official launch: AISIO, sandbox, National Digital Regulatory Committee under POTRAZ, National AI Act, open-data.
+- 2026-03-16 | tech.ai, infra.store, gov.policy | TechnoMag | New AI Strategy Mandates Local Storage (Sovereign National Cloud) | Sovereignty framing: data residency for agri/mineral data, HPC as national assets, "data is our heritage."
+- 2026-04-17 | tech.ai, infra.store, tech.innovate | Techzim | Econet AI launch (Cassava compute) | Econet AI unit; GPU compute via Cassava (may be offshore); sovereign cloud, Shona local-language AI. (ISSUE-009: opco/group distinction noted.)
+- 2026-05-22 | tech.ai, gov.policy, gov.regional | CIPESA | Zimbabwe's National AI Strategy: Policy Lessons for Africa | Analysis: six pillars, AU AI-strategy alignment, digital-neocolonialism framing; Zim scored 0 on 2024 Responsible-AI index.
+- 2026-06-30 | tech.ai, infra.store, geopol.usa, finance.new | TechnoMag | Masiyiwa, Manyika at centre of Google's $1B Africa Cloud push | Liquid C2 Google Cloud Partner Experience Centre (Jhb); Zim-owned infra exported; 1m AI-jobs target.
 
-## Data centre / cloud / sovereignty (infra.store, geopol.china, tech.ai)
-- 2026-06-08 | infra.store, tech.ai, geopol.china, finance.mou | Biometric Update | Zambia deepens digital sovereignty push with Huawei AI partnership | SZI–Huawei MoU at Zambia Mobile Congress: national AI data centre, sovereign cloud, 5,000 trainees. Sovereignty/colonialism. Not held.
+## Payments / fintech / ZiG (dpi.pay, finance.new)
+- 2025-06-12 | dpi.pay, infra.connect, finance.new | TechnoMag | Econet's Fintech Comeback (EcoCash) | EcoCash re-integration: volume +21%, value +210%; opco data. (ISSUE-009 noted.)
+- 2025-09-15 | dpi.pay, finance.new, data.statistics | TechAfrica News | Digital finance sector explosive growth | RBZ: digital retail US$5.93bn Q2 2025 (+34% on Q1); 152k POS deployed; ZimSwitch interoperability.
+- 2025-11-13 | dpi.pay, gov.policy, tech.innovate | TechnoMag | RBZ unveils Digital Transformation & Fintech dept | New RBZ department; sandbox, Innovation Hub, NFIS II, CBDC exploration signalled.
+- 2026-02-27 | dpi.pay, gov.legislate, finance.new | NewsDay | RBZ cuts bank charges, expands ZipIt limits (2026 MPS) | Charge caps (2% withdrawal, 1.5% POS); ZIPIT/mobile limits ZiG8k→13k; new ZiG notes.
+- 2026-05-07 | dpi.pay, include.access, finance.new | NewsDay | ZiG is legal tender. So why can't you use it online? | Payment-gateway analysis (Paynow/Zimswitch); ZiG cards fail online vs USD — sovereignty angle.
+- 2026-07-02 | dpi.pay, include.access, digital.rural | Equity Axis | The O-Mari Effect: mobile money war goes physical | Cash-out competition (O-Mari/CABS, EcoCash/TN CyberTech, Innbucks recyclers, NetOne/AFC); ZIPIT interoperability gap.
 
-## AI / cyber / surveillance law (tech.ai, infra.cybersec, gov.legislate) — key sovereignty thread
-- 2025-04-18 | infra.cybersec, gov.legislate, geopol.usa | News Diggers | US warns its citizens over new surveillance law in Zambia | US Embassy alert on Cyber Security Act (signed 8 Apr 2025) mandating interception of all e-comms. Not held.
-- 2025-04-22 | infra.cybersec, gov.legislate | Lusaka Times | LAZ Set to Mount Legal Challenge Against Cyber Laws | Law Association of Zambia to challenge cyber laws as democratic backslide. Body needs manual clip. Not held.
-- 2025-07-01 | tech.ai, gov.policy, gov.legislate | News Diggers | Regulating AI, why and why not? | Op-ed on Parliament motion for AI policy/legal framework. Not held.
-- 2026-07-04 | infra.cybersec, gov.legislate | News Diggers | We'll repeal Cyber law - Makebi | Opposition (NRPUP/Mundubile) pledge to repeal 2025 cyber laws pre-election. Not held.
-- 2026-07-15 | infra.cybersec, gov.legislate | Lusaka Times | Journalists Urged To Learn Cybersecurity Laws | ZCSA on Cyber Security Act No. 3 / Cyber Crimes Act No. 4 of 2025 ahead of 13 Aug election. Not held.
-
-## Notes for reviewer
-- News Diggers is paywalled: those items carry lede-only bodies (flagged); promotion needs a manual clip. Two Lusaka Times items also need manual clip (site returned navigation, not article body).
-- GovLink (2026-07-16) staged from two outlets (TechAfrica News + ITWeb) — same event; ingest lint #7 to adjudicate.
-- Off-source-list gap (NOT staged, flagged for curator): several major Zambia stories appear only on domains outside the fixed sweep list — MTN Zambia's "first-in-Africa" Starlink Direct-to-Cell field test (Mar 2026; developingtelecoms/spaceinafrica/techtrends), ZICTA 5G spectrum consultation (May 2026), Office of the Data Protection Commissioner activation (Apr 2025; itedgenews), Cabinet approval to repeal/replace the Data Protection Act for AI analytics (Apr 2025; zambiamonitor), and DW/CIPESA surveillance-law analyses. Consider adding a supplementary source or promoting via the human review gate.
+## Operators / infrastructure (infra.connect, data.statistics)
+- 2026-04-30 | infra.connect, data.statistics, include.access | Equity Axis | Econet's 5G exceeds NetOne + Telecel combined | POTRAZ Q4 2025: Econet 340 5G / 7,143 total stations, 73.75% subs, 81.2% data; data >50% of MNO revenue. (ISSUE-009 noted.)
+- 2026-07-15 | infra.connect, dpi.mis, include.divides, finance.new | 263Chat | NetOne at 30 | Turnaround (US$40m loss 2022 → $210m rev 2025, $1bn-by-2029 target); 46% rural base stations; OneHealth telemedicine.

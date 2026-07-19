@@ -197,10 +197,12 @@ doubles as the data protection authority** — there is no separate DPA.
   health-data-sovereignty and critical-minerals concerns.
 - [[infra.cybersec]] · [[geopol.china]] — Chinese smart-city surveillance without oversight;
   the [[telone]] "home-grown" traffic-AI claim sits unreconciled against it.
-- [[dpi.id]] — **programme status, not achievement**: digital ID announced May 2025 for a July
-  2025 start, **no launch and no coverage figure held**; biometric borders
-  ([[obms-zimbabwe]] / [[garsu-pasaulis]]) a **2024 pilot with no recorded outcome**. The one
-  accomplished fact is Binga (Jul 2025); **birth registration 57% (ZDHS 2023–24)**.
+- [[dpi.id]] — **programme status, not achievement**: extracted **[[zimbabwe--dpi-id]]** — the ID-backlog
+  denial (Kazembe "not aware"; 1.5m undocumented children; ZPRS/e-passports); Binga mobile registration (the
+  one accomplished fact, birth reg 57% ZDHS 2023–24); and the **sector biometric-ID thread** (AMA cotton
+  after TIMB tobacco — market-control IDs shipping ahead of the citizen one). Digital ID announced May 2025
+  for a July 2025 start, **no launch/coverage figure held**; biometric borders ([[obms-zimbabwe]] /
+  [[garsu-pasaulis]]) a **2024 pilot with no recorded outcome**.
 - [[dpi.registry]] · [[gov.legislate]] — deeds securitisation ([[zimbabwe-si-76-2025]],
   gazetted Jul 2025, **commencement not established**), the population registry upgrade
   (~2023–), [[zimra]] / [[tarms-zimbabwe]]. Full treatment: **[[zimbabwe--dpi-registry]]**.

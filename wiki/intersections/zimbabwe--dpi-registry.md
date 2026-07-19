@@ -5,10 +5,10 @@ place: ZWE
 topic: dpi.registry
 places: [ZWE]
 topics: [dpi.registry, gov.legislate, dpi.govtech, gov.standards, infra.cybersec, dpi.id]
-entities: [[zimbabwe-si-76-2025], [zimbabwe-deeds-registry], [ministry-of-justice-zimbabwe], [zimra], [tarms-zimbabwe], [registrar-general-zimbabwe], [civil-registry-department-zimbabwe]]
+entities: [[zimbabwe-si-76-2025], [zimbabwe-deeds-registry], [digital-land-administration-platform], [ministry-of-justice-zimbabwe], [zimra], [tarms-zimbabwe], [registrar-general-zimbabwe], [civil-registry-department-zimbabwe]]
 status: active
-last_reviewed: 2026-07-17
-sources: [[2025-07-28 Legal Discussions with Vengai Madzima - Digitization of the Deeds Registry in Zimbabwe]], [[2025-08-01 How to secure your property in Zimbabwe with the new digital deed system]], [[2025-01-01 ZIMRA Taxpayer Registration]], [[2025-07-15 Zimbabwe looks forward to digital ID rollout after population registry reform]], [[2025-07-10 Zimbabwe Launches Mobile ID Registration Program to Serve Remote Binga Communities]]
+last_reviewed: 2026-07-19
+sources: [[2025-07-28 Legal Discussions with Vengai Madzima - Digitization of the Deeds Registry in Zimbabwe]], [[2025-08-01 How to secure your property in Zimbabwe with the new digital deed system]], [[2025-01-01 ZIMRA Taxpayer Registration]], [[2025-07-15 Zimbabwe looks forward to digital ID rollout after population registry reform]], [[2025-07-10 Zimbabwe Launches Mobile ID Registration Program to Serve Remote Binga Communities]], [[2026-04-07-title-deed-validation-reissuance-pilot-madzima]]
 ---
 
 # Zimbabwe — registries (dpi.registry)
@@ -98,6 +98,20 @@ adjacency, not evidence, and this page is **not** tagged `colonialism` on the st
 it. The absence is itself worth recording: the held material treats Zimbabwean land title
 purely as a fraud-and-confidence engineering problem, and the wiki should not mistake that
 framing for the whole of the question.
+
+### The pilot commences, and the deadline gets a date (2026-04) — GAP-ZWE-003 updated
+
+The commencement the wiki could not previously establish is now evidenced. Per a notice of **4 April 2026**,
+**16 law firms** (including Madzima's MCM Legal) were selected for a **Title Deed Validation & Reissuance
+Pilot** to test/refine the **[[digital-land-administration-platform|Digital Land Administration Platform
+(DLAP)]]** — the operational system for securitised deeds. Madzima now states the **24-month validation window
+runs from the SI's publication date, giving a digitisation deadline of ~18 July 2027** (paper-deed holders
+validate through conveyancers, with **fingerprints + notarized ID**); a **parallel company re-registration
+deadline of 20 April 2026** applies (lapsed re-registration lets third parties reuse an abandoned company
+name, imperilling its title deeds). *Nuance to carry: the earlier held sources framed the clock as running
+from a ministerial **announcement of commencement**, whereas Madzima here dates it from **SI publication** —
+the pilot's existence resolves the "has it commenced?" gap, but the trigger-date framing is now stated two
+ways; both recorded.* Source: [[2026-04-07-title-deed-validation-reissuance-pilot-madzima]].
 
 ## Tax: ZIMRA and TaRMS
 
