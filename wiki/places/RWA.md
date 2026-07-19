@@ -40,6 +40,15 @@ last_reviewed: 2026-07-16
   Rwanda's **Irembo** is cited as a nationally-designed DPI exemplar. Source:
   [[2026-07-10 Every country defines identity differently. Can digital public infrastructure bridge those differences]]
   ([[dial]], [[afcfta]]). See [[dpi.id]], [[dpi.exchange]], [[gov.regional]], [[KEN]], [[UGA]].
+- **2026-07-05 / 2026-06-09** — **Registries complete around the ID spine.** Digital-ID
+  biometric enrolment reached **4.4m** (Jun 2026, up from 2.37m in Mar) province by province,
+  with sector offices to hold biometric kits permanently and the **June-2027** switchover to
+  SDID as primary authentication ([[rwanda--dpi-id]]). Alongside it, [[nisr]]'s fully digital
+  **CRVS** pushed birth registration to **92.9%** (2025), linking birth/death/identity into one
+  architecture, and an **Eastern Province land-titling** drive (Kayonza, 28,000+ titles) advanced
+  the land register — full case [[rwanda--dpi-registry]]. A KT Press analysis reads the ID's
+  consent-by-design as a firewall against the 1994 ethnicity-card history. See [[dpi.id]],
+  [[dpi.registry]], [[data.statistics]], [[include.access]].
 - **2026-05-21** — Rwanda features in a survey of Africa's **AI-sovereignty** push:
   **[[anthropic]]'s AI partnership (MoU) with Rwanda** is held up as emblematic of the
   tension — training and public-service capacity on one hand, but critics warn it lets a

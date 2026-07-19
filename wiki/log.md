@@ -7130,3 +7130,16 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
 - New intersections: tech-ai, infra-cybersec, dpi-govtech, tech-innovate, dpi-registry, digital-localgov
   (+ infra-connect created earlier); expanded dpi-id, dpi-pay, gov-protect, infra-store, dpi-exchange.
 - New entities: awarri-technologies, ncair, npc.
+
+## 2026-07-19 — ingest(RWA) chunk 1: Digital identity, CRVS & registries
+
+- **11 admitted, 0 pruned** (standard dedup — Rwanda heavily held; same-event twins kept as
+  complementary/corroborating per lint #7). Batch RWA-2026-07-17.
+- **[[rwanda--dpi-id]] updated:** enrolment chronology extended (2.37m Mar → 4.4m Jun 2026, province
+  by province; sector-office kits), three-component SDID structure (SDIN/token/QR), 2027 primary-auth
+  switchover, Mahama-camp refugee inclusion; new "Privacy by design — the 1994 shadow" section
+  (genocide ID-card history, DPO independence) — added colonialism lens. +9 sources.
+- **Created:** [[rwanda--dpi-registry]] — NISR digital CRVS (birth reg 92.9% 2025, real-time
+  population map) + Eastern Province land titling (Kayonza 28k+). +2 sources.
+- Hub Recent developments +consolidated 2026-07-05/06-09 entry. One partial-body clip
+  (2026-07-05 land) staged body_completeness: excerpt — see Flags.
