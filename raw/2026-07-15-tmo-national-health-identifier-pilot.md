@@ -10,6 +10,7 @@ places: [TUN]
 topics: [dpi.mis, dpi.id, dpi.registry]
 entities: [[ministry-of-health-tunisia]]
 lens: []
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: TUN-2026-07-17
 ---

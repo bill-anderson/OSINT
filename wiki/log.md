@@ -7535,3 +7535,9 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
 - Created wiki/intersections/tunisia--dpi-pay.md (identity→volume: e-Houwiya–PaySmart drove +81% 2025; national TUNPAY label; telco/Gulf wallets).
 - Created entity: smt-tunisia (Société Monétique Tunisie — national monétique operator).
 - Wired TUN hub dpi.pay bullet → Full case; dead-link check NONE.
+
+## 2026-07-19 ingest(TUN) chunk 2/6 — Digital ID, registries & CRVS
+- Admitted 4 sources: Mobile ID mandatory for investment declarations (TIA, 2026-06-26), RNE business register fully digital (2026-04-27), National Health Identifier pilot 9,000+ patients (2026-07-15), digital birth-declaration pilot (2026-06-11, headline-only — body not captured). 0 prunes.
+- Created wiki/intersections/tunisia--dpi-id.md (e-Houwiya crossing available→mandatory as a gateway; sectoral IDs digitising; "capability ahead of safeguards").
+- Created entities: national-business-register-tunisia (RNE), tunisia-investment-authority (TIA); updated ministry-of-health-tunisia (+NHI, +birth-declaration).
+- Mapped clip entity mobile-id-tunisia → e-houwiya (same object). Wired TUN hub dpi.id bullet → Full case. Dead-link: only forward-ref tunisia--gov-protect (created in a later chunk).

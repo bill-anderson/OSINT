@@ -3,11 +3,11 @@ type: entity
 entity_type: government-body
 title: Ministry of Health (Tunisia)
 places: [TUN]
-topics: [infra.store, tech.ai, infra.connect, dpi.exchange, gov.protect, digital.rural, dpi.mis]
+topics: [infra.store, tech.ai, infra.connect, dpi.exchange, gov.protect, digital.rural, dpi.mis, dpi.id, dpi.registry]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-17
-sources: [[2026-02-13 Tunisia Advances Digital Health Reform With AI and National Cloud Strategy]]
+last_reviewed: 2026-07-19
+sources: [[2026-02-13 Tunisia Advances Digital Health Reform With AI and National Cloud Strategy], [2026-07-15-tmo-national-health-identifier-pilot], [2026-06-11-alchourouk-digital-birth-declaration-pilot]]
 ---
 
 # Ministry of Health (Tunisia)
@@ -50,6 +50,17 @@ these are stated plans and priorities, and are written as such.
   **[[digital-hospital-project-tunisia]]** and saying the collaboration will help translate digital
   transformation into faster, more efficient and citizen-focused healthcare services. Source:
   [[2026-02-13 Tunisia Advances Digital Health Reform With AI and National Cloud Strategy]].
+
+- **National Health Identifier (NHI) pilot (Jul 2026).** A **unique lifetime code** per citizen threading
+  a patient's full medical history across providers; piloted from early July at **Habib Thameur University
+  Hospital (Tunis)**, using the **national ID card** at registration; **9,000+ patients** enrolled in the
+  first weeks (Regional Directorate of Health, Tunis), with nationwide extension targeted by end-2026. The
+  concrete first instance of the digital-health agenda above. See [[dpi.id]], [[tunisia--dpi-id]]. Source:
+  [[2026-07-15-tmo-national-health-identifier-pilot]].
+- **Digital birth-declaration pilot (Jun 2026).** First trial of an **electronic birth-declaration**
+  system — a CRVS digitisation step tying into the health-identifier programme. *(Body not captured —
+  headline/date only.)* See [[dpi.registry]]. Source:
+  [[2026-06-11-alchourouk-digital-birth-declaration-pilot]].
 
 ## Related (mentioned, not hubbed)
 

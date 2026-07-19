@@ -8,8 +8,9 @@ date_precision: day
 date_source: source
 places: [TUN]
 topics: [dpi.registry, dpi.govtech, dpi.id]
-entities: [[national-business-register-tunisia], [mobile-id-tunisia]]
+entities: [[national-business-register-tunisia], [e-houwiya]]
 lens: []
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: TUN-2026-07-17
 ---

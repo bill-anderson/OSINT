@@ -138,7 +138,9 @@ thing to watch.
 - [[dpi.id]] — **[[e-houwiya]]** (live since Aug 2022; 200,000 subscribers as of Mar 2025) and the
   biometric ID/passport programme under Organic Laws 22 and 23 of 2024 — *legislated, targeted for
   H1 2025, outcome unconfirmed*. **[[uqudo]]** supplies document verification against the MRZ field
-  for KYC/AML.
+  for KYC/AML. **Mobile ID turned mandatory** (investment declarations + [[national-business-register-tunisia|RNE]]
+  business register, both from 1 Jul 2026); sectoral IDs digitising (NHI health identifier, digital birth
+  declaration). Full case: [[tunisia--dpi-id]].
 - [[dpi.pay]] — [[central-bank-of-tunisia]]; [[paysmart]] integrated with E-Houwiya; CBT **KYC
   regulations of 28 February 2025**; ISO 20022 adoption. National **TUNPAY** label (CBT +
   [[smt-tunisia]], May 2026); telco/Gulf wallets ([[tunisie-telecom]] Kashy, Ooredoo walletii).

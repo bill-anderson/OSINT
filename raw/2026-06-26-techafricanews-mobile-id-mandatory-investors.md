@@ -8,8 +8,9 @@ date_precision: day
 date_source: source
 places: [TUN]
 topics: [dpi.id, dpi.govtech]
-entities: [[mobile-id-tunisia], [tunisia-investment-authority]]
+entities: [[e-houwiya], [tunisia-investment-authority]]
 lens: []
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: TUN-2026-07-17
 ---
