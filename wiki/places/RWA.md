@@ -6,7 +6,7 @@ parent: XEA
 place_kind: country
 topics: [tech.ai, gov.regional, capacity.research, gov.policy, gov.legislate, finance.new, infra.connect, infra.store, dpi.exchange, gov.standards, infra.cybersec, dpi.id, dpi.mis, dpi.registry, gov.protect, include.access, geopol.china, geopol.usa, digital.rural, data.statistics, dpi.govtech, capacity.training, dpi.pay]
 status: active
-last_reviewed: 2026-07-16
+last_reviewed: 2026-07-19
 ---
 
 # Rwanda (RWA)
@@ -44,6 +44,13 @@ last_reviewed: 2026-07-16
   Rwanda's **Irembo** is cited as a nationally-designed DPI exemplar. Source:
   [[2026-07-10 Every country defines identity differently. Can digital public infrastructure bridge those differences]]
   ([[dial]], [[afcfta]]). See [[dpi.id]], [[dpi.exchange]], [[gov.regional]], [[KEN]], [[UGA]].
+- **2026-05-29** — **Infrastructure: Gulf-backed AI data centre + connectivity.**
+  **[[broadband-systems-corporation]]** signed an MoU with **Oman Data Park** for an **AI-ready Tier
+  III data centre** (following the MINICT/DCO/WEF Digital-FDI report launched at FII Riyadh) — full
+  case [[rwanda--infra-store]]. On connectivity ([[rwanda--infra-connect]]): near-universal 4G but
+  ~43% internet penetration, **[[mtn-rwanda]]** back to profit (MoMo MAU 6.2m), BSC a certified
+  **[[starlink]]** reseller, and an 812-rural-school connectivity gap (27% rural vs 75% urban). See
+  [[infra.store]], [[infra.connect]], [[geopol.gulf]], [[digital.rural]].
 - **2026-07-05 / 2026-06-09** — **Registries complete around the ID spine.** Digital-ID
   biometric enrolment reached **4.4m** (Jun 2026, up from 2.37m in Mar) province by province,
   with sector offices to hold biometric kits permanently and the **June-2027** switchover to

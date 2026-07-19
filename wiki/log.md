@@ -7175,3 +7175,23 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
   governance body answering the page's accountability-vacuum thesis); public-sector AI capacity (CDO
   training, Cenfri); regional AI diplomacy (Egypt WSIS MoU, Kenya cooperation); NCSA CyberHub centre
   of excellence (Univ. of Rwanda, Cisco/GIZ). +5 sources, +[[rwanda-national-ai-agency]] entity link.
+
+## 2026-07-19 — ingest(RWA) chunk 5: Data centres, cloud & connectivity
+
+- **8 admitted, 0 pruned.**
+- **Created:** [[rwanda--infra-store]] — BSC × Oman Data Park AI-ready Tier III DC (Gulf FDI), Digital
+  FDI Rwanda report (MINICT/DCO/WEF, FII Riyadh), data-centre water-policy gap. +3 sources.
+- **Created:** [[rwanda--infra-connect]] — near-universal 4G / ~43% penetration, MTN Rwanda return to
+  profit (MoMo 6.2m), Hayo entry (eSIM/NMR), BSC Starlink reseller, 812-rural-school gap. +5 sources.
+- **Entities created:** [[broadband-systems-corporation]], [[mtn-rwanda]].
+- Hub Recent developments +2026-05-29 infra entry; hub last_reviewed → 2026-07-19.
+  **new/ drained to 0 — RWA batch complete.**
+
+### RWA batch summary (chunks 1-5)
+- Full 42-clip drain across 5 thematic chunks, standard dedup (2 relevant-duplicates pruned from the
+  eKash cluster; hub eKash aggregator verify-flag resolved via ITWeb/We-Are-Tech corroboration).
+- Updated: rwanda--dpi-id, --dpi-govtech, --tech-ai. New intersections: rwanda--dpi-registry,
+  --dpi-exchange, --dpi-pay, --infra-store, --infra-connect.
+- New entities: nisr(existing), broadband-systems-corporation, mtn-rwanda.
+- 4 partial-body New Times items ingested as body_completeness: excerpt (land registration, Mbaza,
+  BSC-Starlink, eKash editorial) — flagged for optional full-clip backfill.
