@@ -4,12 +4,12 @@ title: Chad × Digital Identity & CRVS
 place: TCD
 topic: dpi.id
 places: [TCD]
-topics: [dpi.id, dpi.registry, dpi.exchange, dpi.govtech, gov.legislate, gov.protect, include.access, digital.rural]
-entities: [[anats], [chad-biometric-registry], [idemia], [unhcr], [tchad-connexion-2030], [id4africa], [world-bank]]
+topics: [dpi.id, dpi.registry, dpi.exchange, dpi.govtech, gov.legislate, gov.protect, include.access, digital.rural, digital.localgov, finance.mou, geopol.eu]
+entities: [[anats], [chad-biometric-registry], [idemia], [unhcr], [tchad-connexion-2030], [id4africa], [world-bank], [airtel-chad], [adetic]]
 lens: [colonialism, sovereignty]
 status: active
-last_reviewed: 2026-07-17
-sources: [[2026-03-16 Chad uses national biometric registry to boost govt systems interoperability], [2025-06-03 Chad, Mali, Senegal pursue birth registration reforms to close gaps]]
+last_reviewed: 2026-07-19
+sources: [[2026-03-16 Chad uses national biometric registry to boost govt systems interoperability], [2025-06-03 Chad, Mali, Senegal pursue birth registration reforms to close gaps], [2025-09-17-anats-etat-civil-numerique-lancement], [2025-05-09-biometricupdate-refugees-biometric-ids-idemia-unhcr], [2026-04-28-tribuneechos-anats-oif-etat-civil-interoperabilite], [2026-05-07-anats-oim-mou-identite-securisee], [2026-05-09-tchadinfos-anats-airtel-partenariat-securisation-donnees]]
 ---
 
 # Chad × Digital Identity & CRVS
@@ -99,6 +99,35 @@ support its inclusive-ID push (as reported **2026-03-16**). See [[include.access
 Source:
 [[2026-03-16 Chad uses national biometric registry to boost govt systems interoperability]].
 
+## The enrolment push — partnerships (2025-2026)
+
+The registry sits on **SIGPTS** (Système Intégré de Gestion des Populations et des Titres Sécurisés),
+managed by ANATS, and 2025–26 saw a wave of partnerships to fill and secure it:
+
+- **Civil-registration digitalisation launched (Sep 2025).** ANATS officially launched **digital civil
+  registration** on **African Identity Day** (16 Sep 2025) — "a modern, secure and inclusive
+  identification system" to guarantee every citizen their "first fundamental right." Source:
+  [[2025-09-17-anats-etat-civil-numerique-lancement]].
+- **Refugees onto SIGPTS (2025).** A **World Bank-funded pilot** (with **CNARR**, **[[unhcr]]** and
+  **[[idemia]]**) registered refugees on **SIGPTS** with biometric IDs — thousands issued by May 2025 —
+  replacing earlier CNARR/UNHCR credentials that local authorities, banks and providers often **did not
+  recognise**. See [[include.access]], [[geopol.eu]]. Source:
+  [[2025-05-09-biometricupdate-refugees-biometric-ids-idemia-unhcr]].
+- **OIF × N'Djamena municipality (Apr 2026).** ANATS and the **Organisation Internationale de la
+  Francophonie** (with N'Djamena city hall) deepened civil-registry **interoperability** — already
+  regularising **thousands of children** with secure birth certificates across provinces (incl. free
+  *jugements supplétifs*). See [[digital.localgov]], [[dpi.exchange]]. Source:
+  [[2026-04-28-tribuneechos-anats-oif-etat-civil-interoperabilite]].
+- **IOM × secure ID for the vulnerable (May 2026).** ANATS and the **IOM** signed an MoU on secure
+  identity for **vulnerable populations and migrants**, building on SIGPTS. See [[finance.mou]]. Source:
+  [[2026-05-07-anats-oim-mou-identite-securisee]].
+- **Airtel mass-enrolment + SIM-data interconnection (May 2026).** ANATS and **[[airtel-chad]]** signed a
+  strategic partnership for **mass enrolment** and **securing population data** — with the **Ministry of
+  Public Security, the National Police and [[adetic]]** present. Interconnecting **telco SIM data** with
+  the ID registry is framed as anti-fraud/reliable identification — but it wires **surveillance-adjacent
+  data** into the registry with **no data-protection authority** yet overseeing it (see below). See
+  [[gov.protect]], [[infra.cybersec]]. Source: [[2026-05-09-tchadinfos-anats-airtel-partenariat-securisation-donnees]].
+
 ## Reading it
 
 The "single source of truth" ambition and the open-to-private-sector connection model
@@ -119,3 +148,8 @@ rural-coverage figure also come from a single ID4Africa panel account. See
 
 - [[2026-03-16 Chad uses national biometric registry to boost govt systems interoperability]]
 - [[2025-06-03 Chad, Mali, Senegal pursue birth registration reforms to close gaps]]
+- [[2025-09-17-anats-etat-civil-numerique-lancement]]
+- [[2025-05-09-biometricupdate-refugees-biometric-ids-idemia-unhcr]]
+- [[2026-04-28-tribuneechos-anats-oif-etat-civil-interoperabilite]]
+- [[2026-05-07-anats-oim-mou-identite-securisee]]
+- [[2026-05-09-tchadinfos-anats-airtel-partenariat-securisation-donnees]]

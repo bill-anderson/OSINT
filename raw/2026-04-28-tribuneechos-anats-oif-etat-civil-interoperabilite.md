@@ -10,6 +10,7 @@ places: [TCD]
 topics: [dpi.registry, dpi.id, dpi.exchange, digital.localgov]
 entities: [[anats], [oif]]
 lens: [sovereignty]
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: TCD-2026-07-17
 ---
