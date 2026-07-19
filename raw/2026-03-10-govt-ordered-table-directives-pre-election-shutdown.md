@@ -10,6 +10,7 @@ places: [UGA]
 topics: [infra.connect, gov.legislate]
 entities: [[uganda-communications-commission]]
 lens: [sovereignty]
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: UGA-2026-07-17
 ---

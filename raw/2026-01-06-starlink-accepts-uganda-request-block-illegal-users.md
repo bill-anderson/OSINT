@@ -10,6 +10,7 @@ places: [UGA]
 topics: [infra.connect, geopol.usa]
 entities: [[starlink], [uganda-communications-commission]]
 lens: [sovereignty]
+body_completeness: headline-lead
 retrieved: 2026-07-17
 sweep_batch: UGA-2026-07-17
 ---

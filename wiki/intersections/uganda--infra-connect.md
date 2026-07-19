@@ -5,11 +5,11 @@ place: UGA
 topic: infra.connect
 places: [UGA]
 topics: [infra.connect, data.satellite, gov.policy, gov.legislate, gov.regional, include.access, geopol.usa, dpi.pay, finance.new]
-entities: [[uganda-communications-commission], [nita-uganda], [bayobab], [csquared], [paratus-group], [savanna-fibre-uganda], [mtn-uganda], [airtel-uganda]]
+entities: [[uganda-communications-commission], [nita-uganda], [bayobab], [csquared], [paratus-group], [savanna-fibre-uganda], [mtn-uganda], [airtel-uganda], [starlink], [electoral-commission-uganda]]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-19
-sources: [[2025-05-06-kampala-malaba-fibre-route-bayobab], [2025-07-14-free-wifi-uganda-drc-border-nita], [2025-08-21-csquared-125m-fibre-superhighways], [2026-02-09-paratus-goma-mombasa-g2m-fibre-route], [2026-05-04-east-africa-regional-satellite-ncrcbsi], [2026-05-04-savanna-fibre-uganda-1gbps-broadband], [2026-07-02-uganda-outlines-next-ict-goals-ucc-stats], [2026-07-08-ucc-enforcement-against-illegal-public-wifi], [2026-06-22-ucc-proposes-major-telecom-tax-cuts]]
+sources: [[2025-05-06-kampala-malaba-fibre-route-bayobab], [2025-07-14-free-wifi-uganda-drc-border-nita], [2025-08-21-csquared-125m-fibre-superhighways], [2026-02-09-paratus-goma-mombasa-g2m-fibre-route], [2026-05-04-east-africa-regional-satellite-ncrcbsi], [2026-05-04-savanna-fibre-uganda-1gbps-broadband], [2026-07-02-uganda-outlines-next-ict-goals-ucc-stats], [2026-07-08-ucc-enforcement-against-illegal-public-wifi], [2026-06-22-ucc-proposes-major-telecom-tax-cuts], [2025-12-05-govt-signals-social-media-clampdown-elections], [2025-12-23-army-warns-starlink-ura-restricts-imports], [2026-01-06-starlink-accepts-uganda-request-block-illegal-users], [2026-01-13-govt-orders-temporary-internet-shutdown-election], [2026-01-18-govt-restores-partial-internet-social-media-blocked], [2026-01-20-mobile-money-restored-after-election-shutdown], [2026-03-10-govt-ordered-table-directives-pre-election-shutdown], [2026-05-15-starlink-enters-uganda-state-house-license], [2026-05-19-starlink-provisional-license-airtel-d2c-test]]
 ---
 
 # Uganda × Connectivity & Network Control
@@ -73,8 +73,54 @@ pipes are being laid faster than ever; who may switch them on, and at what price
   connectivity is treated as public infrastructure or as a controllable, taxable chokepoint. The election
   shutdown answered that question at least once.
 
-*(Starlink and the January-2026 election shutdown — the sharpest expression of network control — are
-compiled in the next section below.)*
+## The January-2026 election internet shutdown
+
+The clearest expression of network-as-lever. (Hub-level costs — ~$15m to operators, biometric kits failing
+by 9am, ULS calling it illegal — are on [[UGA]]; the primary chronology is here.)
+
+- **Pre-signals (Dec 2025).** With 41 days to the election, the **[[electoral-commission-uganda|EC]]** met
+  the international platforms, formally complaining they are **"unruly" and "ungovernable"** and asking them
+  to "whip their users" (declined) — *"this is why it repeatedly switches off the internet during
+  elections."* Context: 2021's blackout, after which **Facebook stayed officially restricted** (VPN
+  circumvention declared illegal). Source: [[2025-12-05-govt-signals-social-media-clampdown-elections]].
+- **The shutdown (13 Jan 2026).** A UCC directive (signed **Nyombi Thembo**, effective **6pm, 13 Jan**, on
+  the **Inter-Agency Security Committee**'s "strong recommendation") ordered MNOs/ISPs to suspend public
+  internet, **halt new SIM sales**, and disable outbound One-Network-Area roaming — **across mobile, fibre,
+  leased lines, fixed wireless, microwave and satellite**. A tight whitelist kept hospitals, core
+  financial/payment infrastructure, and **EC voter-verification/results portals** online; **mobile VPNs
+  were force-disabled**, operators barred from extending the list. Source:
+  [[2026-01-13-govt-orders-temporary-internet-shutdown-election]].
+- **Partial restoration (17–18 Jan).** General internet restored **midnight 17 Jan** after a "security
+  assessment," defended as **"necessary, proportionate"**; **social media and OTT messaging stayed
+  blocked**; renewed VPN warnings. **Mobile money "fully restored" by 20 Jan** — it had been down for two
+  days around the **15 Jan** poll. Sources: [[2026-01-18-govt-restores-partial-internet-social-media-blocked]],
+  [[2026-01-20-mobile-money-restored-after-election-shutdown]].
+- **Accountability (Mar 2026).** Parliament's **PAC (Central)** ordered the government to **table the
+  shutdown directives**; MPs called it high-handed and disruptive. Officials said the order came from the
+  **National Security Council** via the inter-agency committee; social media was the target and **mobile
+  money "suffered collateral damage"** (Airtel implementation issues) — MPs noting shutdowns are now
+  **routine at elections (2016, 2021, 2026)**, against **43.4m mobile-money customers / 6.4bn transactions
+  / UGX 227.5tn** (2023). See [[gov.legislate]], [[uganda--dpi-pay]]. Source:
+  [[2026-03-10-govt-ordered-table-directives-pre-election-shutdown]].
+
+## Starlink — from illegal to licensed, on the state's terms
+
+- **Blocked first (Dec 2025 – Jan 2026).** With Starlink **unlicensed**, URA (19 Dec 2025) barred imports of
+  Starlink kit without **UPDF Chief of Defence Forces clearance** ("anything that needs security... it is
+  illegal"). SpaceX's Ben Macwilliam then wrote UCC (2 Jan) conceding usage was **"without our approval… in
+  violation of our terms of service"** and that **no terminals operated in Uganda as of 1 Jan 2026**.
+  Sources: [[2025-12-23-army-warns-starlink-ura-restricts-imports]], [[2026-01-06-starlink-accepts-uganda-request-block-illegal-users]].
+- **Licensed on sovereignty terms (May 2026).** Museveni witnessed the UCC–**[[starlink]]** MoU/operational
+  licence at **State House** — conditions: a **national gateway, physical point of presence, staffed local
+  office, and registration of every in-country device**. Museveni: *"Our interest remains **security,
+  revenue assurance, and accountability**… who the customers are."* **[[airtel-uganda|Airtel]]** began
+  testing **direct-to-cell** under Airtel Africa's Dec-2025 SpaceX deal. See [[geopol.usa]]. Sources:
+  [[2026-05-15-starlink-enters-uganda-state-house-license]], [[2026-05-19-starlink-provisional-license-airtel-d2c-test]].
+
+The two stories rhyme: whether it is a foreign LEO constellation or the domestic mobile network, the
+condition of connectivity in Uganda is **legibility and control** — a national gateway, registered devices,
+a whitelist, a kill switch. The NCRCBSI satellite is the same instinct pointed at *supply*: own the orbit,
+don't depend on Starlink at all.
 
 ## Links
 
