@@ -170,6 +170,8 @@ poverty through digital-enabled services within five years. Other accounts rende
 - [[infra.cybersec]] — [[ansice]]; ITU GCI **Tier 4, 48.67/100 (2024)** — relatively strong on
   legislation and cooperation, weak on technical capability, organisational preparedness and
   capacity-building.
+  ANSICE reform (2026) folds data protection, AI, drones, VSS into the cyber agency (no standalone DPA);
+  2014-code amendments + 34-member rewrite committee; Starlink data-retention arrete. Full case: [[chad--gov-protect]].
 - [[dpi.pay]] — [[airtel-chad]] launched Airtel Money with [[ecobank]] (ETI); registration requires
   valid identification. *The launch date held is unverified — the source carries no internal date
   and is filed `date_source: proxy`.*

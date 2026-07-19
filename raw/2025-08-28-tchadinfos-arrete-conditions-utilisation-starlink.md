@@ -10,6 +10,7 @@ places: [TCD]
 topics: [gov.policy, gov.protect, infra.connect, infra.cybersec]
 entities: [[starlink], [arcep-chad]]
 lens: [sovereignty]
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: TCD-2026-07-17
 ---

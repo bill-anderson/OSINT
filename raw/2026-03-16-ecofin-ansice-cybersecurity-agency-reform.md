@@ -10,6 +10,7 @@ places: [TCD]
 topics: [gov.legislate, gov.protect, infra.cybersec, tech.ai]
 entities: [[ansice], [malabo-convention]]
 lens: [sovereignty]
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: TCD-2026-07-17
 ---

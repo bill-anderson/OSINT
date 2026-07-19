@@ -10,6 +10,7 @@ places: [TCD]
 topics: [gov.legislate, gov.policy]
 entities: [[arcep-chad], [ministry-telecom-digital-economy-chad]]
 lens: [sovereignty]
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: TCD-2026-07-17
 ---
