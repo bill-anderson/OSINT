@@ -6,6 +6,7 @@ publisher: TechAfrica News
 published: 2026-06-02
 date_precision: day
 date_source: source
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: SOM-2026-07-17
 places: [SOM]

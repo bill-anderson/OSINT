@@ -7336,3 +7336,22 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
   gaps; CRMVS/NADRA "Look Africa" lineage. +8 sources.
 - **Created:** [[somalia--dpi-govtech]] — National Job Portal (domestically hosted), EIR immunization
   register (DHIS2/WHO, 60% zero-dose), and the "digitising the same fragmentation" governance critique.
+
+## 2026-07-19 — ingest(SOM) chunk 4: Data protection & cybersecurity
+
+- **5 admitted, 1 pruned** (Hiiraan cyber-law approval — held via the wearetech account).
+- **[[somalia--gov-protect]] expanded:** Public Data Protection Regulation (Council of Ministers approval
+  8 Jan → gazetted Feb 2026); DPA Article-32 mandatory registration enforcement (Jun 2026); new
+  "Cybersecurity build-out" — SOMCIRT operational (Mar 7, PM opened), NCA compliance-framework
+  consultation, WB SCALED-UP/AFRALTI certified training, Turkey MoU + Malabo signatory + GCI 37.39. +5 sources.
+- Hub last_reviewed → 2026-07-19. **new/ drained to 0 — SOM batch complete.**
+
+### SOM batch summary (chunks 1-4)
+- Full 29-clip drain across 4 thematic chunks; standard dedup against a rich hub (4 pruned as held/
+  syndicated dups). SOM went from 3 intersections to 5.
+- New intersections: somalia--infra-connect, somalia--dpi-govtech; expanded somalia--dpi-id, --dpi-pay,
+  --gov-protect. New entities: nca-somalia.
+- Through-lines: the national ID as a **federal-state fault line** (Puntland/Jubbaland refusal + the
+  president's "national crime" proclamation exceeding Law 009/2023); private-rail mobile money (EVC Plus
+  90%, GSMA-certified) with a handset-not-mast device barrier; Starlink fast-tracked (full foreign
+  ownership) vs Hormuud onshoring data centres; DPI's real test framed as coordination, not procurement.

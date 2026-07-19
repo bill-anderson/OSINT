@@ -6,7 +6,7 @@ parent: XEA
 place_kind: country
 topics: [gov.protect, gov.legislate, dpi.govtech, dpi.pay, dpi.id, dpi.registry, dpi.exchange, infra.connect, infra.store, infra.cybersec, gov.regional, gov.policy, finance.new, finance.mou, tech.industry, include.access]
 status: active
-last_reviewed: 2026-07-16
+last_reviewed: 2026-07-19
 ---
 
 # Somalia (SOM)
