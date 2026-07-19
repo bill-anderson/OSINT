@@ -6,7 +6,7 @@ parent: XSA
 place_kind: country
 topics: [dpi.govtech, dpi.id, dpi.registry, dpi.pay, gov.standards, tech.industry, infra.store, infra.energy, infra.connect, tech.ai, gov.policy, gov.protect, gov.legislate, infra.cybersec, dpi.exchange, data.open, data.statistics, geopol.usa, geopol.eu, geopol.china, gov.regional, finance.new, infra.capacity, capacity.training, capacity.literacy, capacity.research, include.access, include.divides, digital.rural, geopol.gulf, data.satellite]
 status: active
-last_reviewed: 2026-07-17
+last_reviewed: 2026-07-19
 ---
 
 # South Africa (ZAF)
@@ -239,9 +239,11 @@ linked source pages, the entity pages and the six [[south-africa--dpi-id|interse
   against **4G at 98%**; smartphone-tax removal; skills labs (**[[microsoft-elevate]]**,
   [[tiara-pathon]]); [[google]]–DHET certifications. Full case:
   **[[south-africa--include-divides]]**.
-- [[dpi.govtech]] — **EGDI 40 (2024)**, first in Africa; **255 services identified, 134 live**;
-  MyMzansi built in 10 weeks by [[digital-services-unit-presidency-sa]] under the
-  [[sa-digital-transformation-roadmap]] (May 2025); **[[sita]]** delivery failure.
+- [[dpi.govtech]] · [[dpi.exchange]] — extracted: **[[south-africa--dpi-govtech]]** — **EGDI 40 (2024)**,
+  first in Africa; **255 services identified, 134 live**; MyMzansi built in 10 weeks by
+  [[digital-services-unit-presidency-sa]] under the [[sa-digital-transformation-roadmap]] (May 2025); the
+  **[[mzansixchange]]** X-Road data exchange (Treasury pilot); Operation Vulindlela's digital workstream;
+  and **[[sita]]**'s governance crisis (R2bn irregular, 30-day recovery plan) as the delivery bottleneck.
 - [[infra.store]] · [[infra.energy]] · [[infra.capacity]] — **~400 MW → ≥1,200 MW (2026-02)**;
   **[[eskom]]**'s 2029 constraint and "base supply cliff"; captive solar; the operator field
   ([[teraco]], [[cavaleros]], [[vantage]], [[africa-data-centres]], [[equinix]], [[microsoft]]).

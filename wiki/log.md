@@ -7695,3 +7695,14 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
 ## 2026-07-19 ingest(ZAF) chunk 7 — National AI policy (4 sources)
 - Extended south-africa--tech-ai: the AI-policy debacle arc (Feb-2026 timeline → April withdrawal for AI-hallucinated "fictitious sources" → May expert panel → delayed to 2027). Read: a state drafting rules for AI caught using AI to draft them without human verification.
 - Mapped clip alias [[department-of-communications-and-digital-technologies]]→[[dcdt-south-africa]]. 0 prunes. Dead-link NONE.
+
+## 2026-07-19 ingest(ZAF) chunk 8 — E-government, data exchange & SITA (6 sources)
+- Created south-africa--dpi-govtech: MzansiXchange federated X-Road data exchange (Treasury pilot, MyMzansi DPI); SONA-2026 digital mega-platform; Operation Vulindlela digital workstream; SITA governance crisis (PSC report: >R2bn irregular, leadership instability; Malatsi's 30-day recovery ultimatum). Read: advanced sovereignty-minded design layer vs broken execution layer (SITA) — delivery capacity the binding constraint.
+- Created entity mzansixchange. Bumped hub last_reviewed 2026-07-19. 0 prunes. Dead-link NONE.
+
+## 2026-07-19 ingest(ZAF) — batch summary
+- 71 clips drained from new/ (new/ = 0): all 71 admitted to raw/. 0 prunes, 0 discards, 0 leads (overlapping clips folded as corroborations — Starlink/PayShap/POPIA/data-centre/AI-policy pairs).
+- 1 intersection created (south-africa--dpi-govtech); 6 extended (south-africa--dpi-id, --dpi-pay, --infra-store, --infra-connect, --gov-protect, --tech-ai).
+- ~14 entities created (absa, capitec, payshap, payinc, stanlib, herotel, maziv, statistics-south-africa, sibanye-stillwater, mzansixchange) + others. Consistent alias-mapping to canonical entities ([[department-of-home-affairs]]→home-affairs-south-africa, [[south-african-reserve-bank]]→sarb, [[department-of-communications-and-digital-technologies]]→dcdt-south-africa, [[mtn]]→mtn-group). Dropped mention-only [[state-security-agency]], [[national-consumer-commission]] from clip frontmatter.
+- 0 contradictions/gaps/issues filed (existing ZAF open contradictions — digital-id-sarb-or-sars, four-party-pact-date, unregistered-population, africa-tech-funding-2025, microsoft-sa-investment-date — remain as they were).
+- Themes reinforced: capability outrunning delivery (ID budget/banks scaling vs 377k blocked IDs; PayShap national utility vs bank-fee conflict; EGDI-40 govtech vs SITA R2bn crisis; state cloud/AI-hub sovereignty vs SA-Connect frozen). New sovereignty threads: the Starlink-vs-Amazon "same rule, wall vs doorway"; data-localisation priced into the Google AI-hub deal; the data-centre water backlash; and the self-inflicted AI-policy hallucination.
