@@ -7268,3 +7268,12 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
   --dpi-govtech, --tech-innovate; expanded senegal--dpi-pay. New entities: sonatel, artp-senegal.
 - Le Soleil French national-primaries supplied the New Deal's hard financing/KPI/governance detail the
   hub lacked. All pilot-pass summaries staged body_completeness: excerpt; 4 partial-body items flagged.
+
+## 2026-07-19 — ingest(SLE) chunk 1: Connectivity
+
+- **9 admitted, 0 pruned** (batch SLE-2026-07-17). SLE had no intersections; this creates the first.
+- **Created:** [[sierra-leone--infra-connect]] — the $400m/60%-usage-gap affordability problem (20.8%
+  penetration, top-5 costliest SSA data), regional interconnection (SOGEB-Leonecom fibre/Pamelap,
+  2nd subsea cable via Guinea, LBR/GMB/SLE + Guinea ECOWAS roaming), Starlink (12 universities/ELCOME),
+  NatCA spectrum reform, Sierratel MVNO rescue with Africell. +9 sources.
+- **Entities created:** [[natca]] (regulator), [[sierratel]] (state telco).

@@ -89,7 +89,9 @@ The through-line across the ID work is **open standards and national ownership**
 - **[[gov.policy]]** / **[[gov.standards]]** — National Data Strategy (AU DPF-aligned);
   open-standards emphasis across ID and interoperability.
 - **[[infra.store]]** — NCRA Tier-3 data centre; Orange Bo backup data centre (€23m, 2025).
-- **[[infra.connect]]** — 20.7% internet penetration, 99.2% mobile connections (Jan 2025).
+- **[[infra.connect]]** — 20.7% internet penetration (Jan 2025) / 20.8% (Oct 2025), 99.2% mobile
+  connections; ~$400m invested but a 60% usage gap; regional interconnection (Guinea axis, ECOWAS
+  roaming), Starlink, and the Sierratel MVNO rescue. Full case: [[sierra-leone--infra-connect]].
 - **[[capacity.training]]** — knowledge transfer under the ID MoU; 500 civil servants (AI).
 - **[[include.access]]** — ID card cost/literacy barriers; social-protection digital payments.
 
