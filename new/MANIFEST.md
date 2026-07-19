@@ -1,77 +1,49 @@
-# ZAF sweep manifest — batch ZAF-2026-07-17
+# ZMB sweep manifest — batch ZMB-2026-07-17
 
-71 candidates staged. Window 2025-01-01 to 2026-07-17.
+Window: 2025-01-01 → 2026-07-17 (full). Sources: Lusaka Times, News Diggers (newspapers) + fixed-8 trade journals. 27 candidates staged; 6 dropped (exact-URL held) — see `sweep/drop-log-ZMB.csv`.
 
-published | topics | source | title | slug
----|---|---|---|---
-2025-03-06 | dpi.id,gov.protect | Biometric Update | South Africa’s biometric driver’s license tender process no good, AG finds | Biometric Update | biometric-drivers-licence-tender-ag
-2025-03-11 | dpi.id,gov.policy | Biometric Update | South Africa envisages fully-functional digital ID system before 2029 national elections | Biometric Update | digital-id-before-2029-elections
-2025-03-25 | dpi.id,dpi.pay,gov.protect | Biometric Update | South Africa upgrades biometric verification system for critical public services, increases fees | Biometric Update | biometric-verification-fee-increase
-2025-04-15 | gov.protect,gov.legislate | Inside Privacy (Covington) | South Africa Introduces Mandatory e-Portal Reporting for Data Breaches | Inside Privacy | mandatory-eportal-breach-reporting
-2025-05-08 | gov.protect,gov.legislate | Baker McKenzie | South Africa: Amendments to the POPIA regulations - Key changes you need to know - Connect On Tech | popia-regulations-amendments
-2025-05-29 | dpi.id,gov.protect | Biometric Update | South Africa using biometrics to verify immigration status during raids | Biometric Update | biometrics-immigration-raids
-2025-07-16 | infra.cybersec,gov.policy | ITWeb | SA govt elevates cyber security to counter-intelligence priority | ITWeb | cybersecurity-counter-intelligence-priority
-2025-07-21 | dpi.pay,gov.legislate | Business Day | Payments reform on the cards as Reserve Bank draws up draft law | sarb-payments-reform-draft-law
-2025-08-12 | dpi.id,dpi.govtech,gov.policy | Daily Maverick | Leon Schreiber’s digital Home Affairs dreams are becoming reality | schreiber-digital-home-affairs
-2025-10-10 | dpi.exchange,dpi.govtech,data.statistics | SAnews | Government launches MzansiXchange to improve evidence-based policy | SAnews | mzansixchange-launch
-2025-11-05 | dpi.exchange,dpi.govtech | Biometric Update | South Africa trials govt data exchange platform modeled after Estonia’s X-Road | Biometric Update | govt-data-exchange-estonia-xroad
-2025-11-10 | infra.store,finance.new | TechAfrica News | Teraco Expands Cape Town CT2 Data Centre to 50MW, Boosting Africa’s Hyperscale Capacity - TechAfrica News | teraco-ct2-50mw-cape-town
-2025-11-13 | gov.protect,infra.cybersec | The Citizen | SA data breaches surge 40% as regulator warns of cybersecurity shortfalls | The Citizen | data-breaches-surge-40-percent
-2025-12-12 | infra.connect,gov.legislate,geopol.usa | Daily Maverick | Malatsi issues directive to bypass Icasa BEE deadlock and clear Starlink for landing | malatsi-directive-bypass-icasa-bee-starlink
-2025-12-12 | infra.connect,gov.legislate,geopol.usa | Reuters | South Africa eases ownership rules, opening door for Starlink and other foreign operators | Reuters | sa-eases-ownership-rules-starlink
-2026-01-23 | infra.store,finance.new | TechAfrica News | CompCom Recommends Approval of STANLIB’s Acquisition of Africa Data Centres - TechAfrica News | compcom-stanlib-africa-data-centres
-2026-01-30 | dpi.id,dpi.govtech,gov.policy | Biometric Update | South Africa behind schedule on digital ID rollout under MyMzansi roadmap | Biometric Update | digital-id-behind-schedule-mymzansi
-2026-02-13 | dpi.govtech,gov.policy | Hypertext | Ramaphosa champions digital mega-platform at SONA 2026 - Hypertext | sona-2026-digital-mega-platform
-2026-02-15 | infra.store,finance.new | Business Day | Ramaphosa bullish on data centres as R50bn expected over three years | ramaphosa-data-centres-r50bn
-2026-02-17 | infra.connect,gov.legislate | TechCentral | Icasa gears up for South Africa's next big spectrum auction | icasa-next-spectrum-auction
-2026-02-25 | tech.ai,gov.policy | ITWeb | Timeline for SA’s national AI policy revealed | ITWeb | timeline-sa-national-ai-policy
-2026-02-26 | infra.connect,include.access,finance.new | Business Day | Government allocates R3bn for SA Connect digital push | r3bn-sa-connect
-2026-03-26 | dpi.pay | TechCentral | The conflict of interest at the heart of PayShap's slow adoption | payshap-conflict-of-interest
-2026-03-30 | infra.cybersec,data.statistics | Central News | Statistics South Africa Hit by Ransomware Attack, Hackers Claim Theft of 450,000 Files | Central News South Africa | statssa-ransomware-attack
-2026-04-02 | dpi.pay | ClearingPost | PayShap Crosses R100 Billion as SARB Builds National Payment Utility | ClearingPost | payshap-r100bn-national-payment-utility
-2026-04-14 | gov.protect,infra.cybersec | ITWeb | InfoReg raises alarm as data breaches hit 788 in Q1 | ITWeb | inforeg-788-breaches-q1
-2026-04-14 | infra.connect,gov.legislate,geopol.usa | The Citizen | Starlink blocked by ICASA rules despite empowerment pathway | starlink-blocked-icasa-empowerment-pathway
-2026-04-20 | gov.protect,gov.legislate | Polity | Do not call me I’ll call you …… South Africa’s 2026 CPA Amendment Regulations: operationalising the national opt‑out regime for direct marketing and shifting day‑to‑day anti‑spam responsibility to the National Consumer Commission | cpa-direct-marketing-optout-regs
-2026-04-23 | dpi.govtech,gov.policy | ITWeb | Operation Vulindlela’s digital transformation gathers pace | ITWeb | operation-vulindlela-digital-transformation
-2026-04-24 | infra.connect,gov.legislate,geopol.usa | TechCentral | Icasa caught in the political crossfire over Starlink | icasa-political-crossfire-starlink
-2026-04-28 | tech.ai,gov.policy | The Citizen | AI hallucination forces policy withdrawal, but expert frames it as governance lesson | ai-hallucination-policy-withdrawal
-2026-05-06 | dpi.id,gov.legislate | Biometric Update | South Africa gazettes digital ID draft regulation, seeks comments | Biometric Update | digital-id-draft-regulation-gazetted
-2026-05-09 | dpi.id,gov.legislate | The Citizen | Smart IDs go digital? Home Affairs publishes draft rules | The Citizen | smart-ids-go-digital-draft-rules
-2026-05-12 | tech.ai,gov.policy | TimesLIVE | Malatsi sets up team of experts after AI policy blunder | malatsi-ai-expert-panel
-2026-05-14 | infra.connect,gov.legislate,geopol.usa | The Citizen | South Africa's Starlink dream hits legal dead-end after ICASA rejects Malatsi's BEE plan | starlink-legal-deadend-icasa-rejects-bee
-2026-05-20 | dpi.id,finance.new,gov.policy | Biometric Update | South Africa Home Affairs seeks $828M budget for digital ID, biometric visa projects | Biometric Update | home-affairs-828m-digital-id-budget
-2026-05-21 | dpi.pay | TechCentral | Three years in, PayShap pivots to merchants | payshap-pivots-to-merchants
-2026-05-27 | infra.connect,gov.legislate | TechCentral | Mobile operators locked out as Icasa opens 900MHz of spectrum | operators-locked-out-900mhz-spectrum
-2026-05-27 | tech.ai,gov.policy | TechCabal | SA delays AI policy to 2027 | sa-delays-ai-policy-2027
-2026-06-04 | gov.protect | southafricanews24 | Central Johannesburg College Faces POPIA Probe Over Employee Data Exposure | southafricanews24.com | college-popia-probe
-2026-06-08 | dpi.registry,dpi.id | SAnews | SA unveils biometric population register to tighten migration controls | SAnews | biometric-population-register-unveiled
-2026-06-09 | dpi.id,dpi.pay | TechCentral | South Africa's operators solved fintech. Digital identity is next | operators-solved-fintech-digital-identity-next
-2026-06-14 | gov.protect,gov.legislate | Mondaq | Information Regulator’s First Enforcement Notice For 2026 - Data Protection - South Africa | inforeg-first-enforcement-notice-2026
-2026-06-16 | dpi.pay,finance.new | Bank for International Settlements | Rashad Cassim: Money in motion - payments, digital assets and the future of finance | cassim-money-in-motion-sarb
-2026-06-16 | gov.protect,gov.legislate | Mondaq | Landmark Ruling For Private Bodies Under PAIA: Information Regulator's Enforcement Notice Against Mining House - Contracts and Commercial Law - South Africa | paia-enforcement-mining-house-sibanye
-2026-06-18 | gov.protect,gov.legislate | Werksmans Attorneys | When a misdirected email becomes a data breach: The Information Regulator issues an enforcement notice on internal and accidental security compromises - Werksmans Attorneys | misdirected-email-enforcement-notice
-2026-06-18 | infra.connect,include.access | TechCentral | Flagship broadband programme in South Africa stalled | flagship-broadband-stalled
-2026-06-30 | infra.connect,geopol.usa | TechCentral | South Africa's broadband future is being decided in orbit, not in Pretoria | broadband-decided-in-orbit
-2026-06-30 | infra.connect,gov.legislate,geopol.usa | TechAfrica News | ICASA Spells Out Satellite Licensing Rules as Starlink's South Africa Entry Remains on Hold - TechAfrica News | icasa-satellite-licensing-rules-starlink-hold
-2026-07-01 | infra.connect,geopol.usa | MyBroadband | State-backed South African satellite Internet and phone company launched – MyBroadband | state-backed-sa-satellite-company
-2026-07-01 | infra.connect,geopol.usa | TechCentral | Google plots E Cape as southern anchor of four-hub Africa network - eriinfo | google-ecape-four-hub-anchor
-2026-07-02 | dpi.pay,gov.policy | Mondaq | Payments First: Why The SARB Is Prioritising Digital Infrastructure Over A Retail CBDC - Financial Services - South Africa | sarb-payments-first-over-cbdc
-2026-07-05 | infra.store,tech.ai,finance.new | southafricanews24 | Google Confirms R2 Billion AI Hub in South Africa — What Changes Next | southafricanews24.com | google-r2bn-ai-hub
-2026-07-06 | dpi.govtech,gov.standards | The Citizen | Sita investigation flags R2bn irregular spending and governance weaknesses | The Citizen | sita-r2bn-irregular-spending
-2026-07-06 | gov.protect | Mining Weekly | POPIA Five Years Later: Why Is Nobody Being Held Accountable? - Transform Marketing (Pty) Ltd | popia-five-years-nobody-accountable
-2026-07-06 | infra.connect,geopol.usa | ITWeb | Malatsi addresses Starlink lobbying allegations | ITWeb | malatsi-starlink-lobbying-allegations
-2026-07-06 | infra.store,gov.policy | MyBroadband | South Africa building its own cloud infrastructure, says Ramaphosa – MyBroadband | sa-building-own-cloud-ramaphosa
-2026-07-07 | dpi.govtech,gov.standards | Daily Maverick | Malatsi gives Sita 30 days to come up with a recovery plan | malatsi-sita-30-days-recovery
-2026-07-07 | dpi.id,gov.protect | Biometric Update | South Africa tenders biometric case management system for migration enforcement | Biometric Update | biometric-case-management-migration
-2026-07-07 | infra.store,gov.policy | The Citizen | 'Digital sovereignty key to South Africa's future,' Ramaphosa says | The Citizen | digital-sovereignty-key-ramaphosa
-2026-07-10 | dpi.id,dpi.pay | EWN | SARB explores digital identity system to secure financial sector | sarb-explores-digital-identity
-2026-07-13 | dpi.pay | Bizcommunity | Massive payment change: Sarb’s QR+ could simplify checkout nationwide | sarb-qr-plus-checkout
-2026-07-14 | dpi.pay | TechCabal | Why South African banks still charge for instant payments | why-sa-banks-charge-instant-payments
-2026-07-15 | infra.connect,geopol.usa | Daily Maverick | Herotel chosen as Amazon Leo distributor in race for satellite internet | herotel-amazon-leo-distributor
-2026-07-15 | infra.connect,geopol.usa | MyBroadband | Cyril Ramaphosa and Solly Malatsi meet Amazon to discuss Starlink competitor – MyBroadband | ramaphosa-malatsi-meet-amazon
-2026-07-16 | dpi.id,dpi.pay | SAnews | Home Affairs announces Absa joining banking sector to provide Smart IDs | SAnews | absa-joins-home-affairs-smart-id
-2026-07-16 | infra.connect,geopol.usa | TechCabal | Why Amazon partnered where Starlink pushed back in South Africa | why-amazon-partnered-where-starlink-pushed-back
-2026-07-16 | infra.store,infra.energy | Moneyweb | Giant data centres get the first green light from Cape Town tribunal - Moneyweb | cape-town-tribunal-data-centre-greenlight
-2026-07-16 | tech.ai,dpi.pay,gov.standards | ITWeb | Banks face stricter AI scrutiny as regulator sharpens focus | ITWeb | banks-stricter-ai-scrutiny-regulator
-2026-07-17 | dpi.id,dpi.registry,include.access | IOL | Home Affairs struggles to unblock identity numbers due to unserviceable addresses | home-affairs-unblock-identity-numbers-addresses
-2026-07-17 | infra.connect,geopol.usa | MyBroadband | Starlink launches in 27th African country before South Africa – MyBroadband | starlink-27th-african-country-before-sa
+Legend: `published | topics | source | title | why-it's-new`
+
+## Digital ID / civil registration (dpi.id, dpi.registry)
+- 2025-09-08 | dpi.id, dpi.registry | News Diggers | This is why we need biometric national identity cards | Op-ed tying voter registration to case for permanent biometric NRC (ECZ angle); not held.
+- 2025-12-25 | dpi.id, geopol.usa | News Diggers | Zambia to have digital IDs by end of 2026 | SZI/Chinyama from Washington; ties digital ID to lifting US "blacklist"; $50M of DZAP to IDs. Sovereignty angle not held.
+- 2026-05-18 | dpi.id, gov.protect | TechAfrica News | Zambia Advances Digital Identity Agenda Through Multi-Sectoral Engagement | ID4Africa Abidjan (concluded 15 May 2026); delegation incl. Data Protection Commissioner + BoZ. Not held.
+
+## E-government / govtech / local government (dpi.govtech, dpi.mis, digital.localgov)
+- 2025-06-23 | dpi.govtech, dpi.mis | TechAfrica News | Zambia Advances Public Sector Digitisation with SMART Office System Rollout | New in-house SMART Office e-registry piloting at MoH/Luapula; K400m stationery savings claim. Not held.
+- 2026-01-24 | dpi.govtech, gov.legislate | News Diggers | Digitisation has reduced corruption - SMART Zambia | Chinyama on E-Government Act No. 41/2021 Amendment Bill; anti-corruption framing. Not held.
+- 2026-05-07 | dpi.govtech, infra.connect | TechAfrica News | Zambia Targets Full Digitalisation of Public Services Under SMART Zambia | Plan to connect all health facilities + schools; Muchinga engagement. Not held.
+- 2026-05-13 | dpi.govtech, digital.localgov | TechAfrica News | Zambia Launches Digital Property Management System (PMIS) | New PMIS by CoreLink, integrated w/ ZamPortal+ZamPay. Not held.
+- 2026-05-29 | dpi.govtech, digital.localgov | News Diggers | Councils to go digital, as LCC becomes first on ZamPortal | LCC first of 116 councils live on ZamPortal; e-Council rollout by 30 Jun 2026. Not held.
+- 2026-07-08 | dpi.govtech, infra.connect, digital.rural | TechAfrica News | SMART Zambia Expands Digital Infrastructure to Reach Every Corner | GWAN in NW Province; SmartCare Pro at 80% facilities; ZNSDI GeoPortal. Not held.
+- 2026-07-12 | dpi.govtech, dpi.mis | News Diggers | Govt launches digital system to track and manage contracts (CTMIS) | New Contract Tracking & MIS w/ Ministry of Justice/AG's Chambers. Not held.
+
+## Payments / digital finance (dpi.pay, finance.*)
+- 2026-06-03 | dpi.pay, finance.mou | TechAfrica News | Zoyk and Visa Launch Strategic Partnership to Advance Digital Payments | New Zoyk–Visa fintech deal; SADC cross-border framing; SZI keynote. Deal entity. Not held.
+- 2026-07-10 | dpi.pay, dpi.govtech | ITWeb Africa | Digital services strengthen Zambia finances | K8.8bn/$488M collected via GSB/ZamPortal/ZamPay; 400+ services onboarded. Not held.
+- 2026-05-14 | tech.industry, finance.new, dpi.id | TechAfrica News | Zambia Seeks to Accelerate Digital Economy Through Public-Private Collaboration | Dot Com Zambia (LuSE-listed) + Mutati on "single source of truth" digital ID KYC. Not held.
+
+## Connectivity / rural / divides (infra.connect, digital.rural, include.access)
+- 2025-06-13 | infra.connect, include.access | News Diggers | We're investigating disruption of internet services - ZICTA | ZICTA probes Airtel/network outages. Not held.
+- 2025-09-01 | infra.connect, include.access, digital.rural | TechAfrica News | ZICTA Board Committee Reviews UASF Projects in Copperbelt & NW | UASF towers/last-mile fibre inspection (24 & 51 Towers projects). Not held.
+- 2025-09-29 | infra.connect, digital.rural | TechAfrica News | Smart Zambia Brings Starlink Internet to Remote Moomba Chiefdom | Govt Starlink kits to rural clinic/schools in Kazungula GMA. Not held.
+- 2026-02-17 | infra.connect, include.access | News Diggers | We'll take visible action against mobile operators over poor network - ZICTA | Regulator threatens operators over Copperbelt QoS. Not held.
+- 2026-05-15 | infra.connect, include.access, finance.new | TechAfrica News | Zambia Approves K255 Million to Upgrade Digital Infrastructure | DERT III; fibre 15k→45k km; K255m QoS approval; ZICTA quarterly reports. Not held.
+- 2026-06-17 | infra.connect, digital.rural | TechAfrica News | ZICTA Assesses UASF ICT Projects Across Rural Zambia | Board tour Muchinga/Northern/Luapula; Chinsali Special School ICT. Not held.
+- 2026-07-16 | infra.connect, dpi.govtech, dpi.mis | TechAfrica News | Zambia Launches GovLink Private 4G Network | Govt-owned 4G backbone; health flagship (Care 2.0/SmartCare). Not held.
+- 2026-07-16 | infra.connect, dpi.govtech | ITWeb Africa | Zambia launches GovLink private 4G network | Same event, second outlet (complementary detail). Not held.
+
+## Data centre / cloud / sovereignty (infra.store, geopol.china, tech.ai)
+- 2026-06-08 | infra.store, tech.ai, geopol.china, finance.mou | Biometric Update | Zambia deepens digital sovereignty push with Huawei AI partnership | SZI–Huawei MoU at Zambia Mobile Congress: national AI data centre, sovereign cloud, 5,000 trainees. Sovereignty/colonialism. Not held.
+
+## AI / cyber / surveillance law (tech.ai, infra.cybersec, gov.legislate) — key sovereignty thread
+- 2025-04-18 | infra.cybersec, gov.legislate, geopol.usa | News Diggers | US warns its citizens over new surveillance law in Zambia | US Embassy alert on Cyber Security Act (signed 8 Apr 2025) mandating interception of all e-comms. Not held.
+- 2025-04-22 | infra.cybersec, gov.legislate | Lusaka Times | LAZ Set to Mount Legal Challenge Against Cyber Laws | Law Association of Zambia to challenge cyber laws as democratic backslide. Body needs manual clip. Not held.
+- 2025-07-01 | tech.ai, gov.policy, gov.legislate | News Diggers | Regulating AI, why and why not? | Op-ed on Parliament motion for AI policy/legal framework. Not held.
+- 2026-07-04 | infra.cybersec, gov.legislate | News Diggers | We'll repeal Cyber law - Makebi | Opposition (NRPUP/Mundubile) pledge to repeal 2025 cyber laws pre-election. Not held.
+- 2026-07-15 | infra.cybersec, gov.legislate | Lusaka Times | Journalists Urged To Learn Cybersecurity Laws | ZCSA on Cyber Security Act No. 3 / Cyber Crimes Act No. 4 of 2025 ahead of 13 Aug election. Not held.
+
+## Notes for reviewer
+- News Diggers is paywalled: those items carry lede-only bodies (flagged); promotion needs a manual clip. Two Lusaka Times items also need manual clip (site returned navigation, not article body).
+- GovLink (2026-07-16) staged from two outlets (TechAfrica News + ITWeb) — same event; ingest lint #7 to adjudicate.
+- Off-source-list gap (NOT staged, flagged for curator): several major Zambia stories appear only on domains outside the fixed sweep list — MTN Zambia's "first-in-Africa" Starlink Direct-to-Cell field test (Mar 2026; developingtelecoms/spaceinafrica/techtrends), ZICTA 5G spectrum consultation (May 2026), Office of the Data Protection Commissioner activation (Apr 2025; itedgenews), Cabinet approval to repeal/replace the Data Protection Act for AI analytics (Apr 2025; zambiamonitor), and DW/CIPESA surveillance-law analyses. Consider adding a supplementary source or promoting via the human review gate.

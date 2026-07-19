@@ -5,11 +5,11 @@ place: ZMB
 topic: dpi.id
 places: [ZMB]
 topics: [dpi.id, gov.policy, dpi.exchange]
-entities: [[dzap], [world-bank], [smart-zambia-institute], [mosip]]
+entities: [[dzap], [world-bank], [smart-zambia-institute], [mosip], [office-of-the-data-protection-commissioner-zambia], [electoral-commission-of-zambia], [id4africa]]
 lens: [sovereignty, colonialism]
 status: active
-last_reviewed: 2026-07-17
-sources: [[2025-09-11 DZAP World Bank PAD], [2026-03-24 Zambia looking for MOSIP system integrator to support digital ID project], [2026-03-24 Zambia seeks partner for national digital ID system], [2025-01-17 Zambia Advances Digital ID System with MOSIP Training for Healthcare Integration], [2025-10-03 Zambia plans domestic digital ID development with help from international partners], [2025-01-20 PID Appraisal Stage - Digital Zambia Acceleration Project (P505094)], [2024-09-17 DPI Safeguards come online in Zambias next phase of digital integration], [2025-12-28 Over 1.3 Million Citizens Enrolled on INRIS], [2025-06-12 Zambia says using multiple strategies to meet 50 percent birth registration goal by 2026], [2026-01-05 Zambia programs national digital ID rollout for year-end]]
+last_reviewed: 2026-07-19
+sources: [[2025-09-11 DZAP World Bank PAD], [2026-03-24 Zambia looking for MOSIP system integrator to support digital ID project], [2026-03-24 Zambia seeks partner for national digital ID system], [2025-01-17 Zambia Advances Digital ID System with MOSIP Training for Healthcare Integration], [2025-10-03 Zambia plans domestic digital ID development with help from international partners], [2025-01-20 PID Appraisal Stage - Digital Zambia Acceleration Project (P505094)], [2024-09-17 DPI Safeguards come online in Zambias next phase of digital integration], [2025-12-28 Over 1.3 Million Citizens Enrolled on INRIS], [2025-06-12 Zambia says using multiple strategies to meet 50 percent birth registration goal by 2026], [2026-01-05 Zambia programs national digital ID rollout for year-end], [2025-09-08-why-we-need-biometric-national-id-cards], [2025-12-25-zambia-digital-ids-by-end-2026], [2026-05-18-zambia-id4africa-multi-sectoral-engagement]]
 ---
 
 # Zambia × Digital Identity
@@ -72,6 +72,25 @@ It was missing its own prehistory — MOSIP work was already live fourteen month
   **1.5 million** (UNDP, 2024-09), **~1.6 million** implied by the DZAP PAD (~15% of adults,
   2025-09), and **~1.3 million** (ZNBC quoting MoHAIS, 2025-12) — a later source with a lower figure,
   which is not supersession. See `reviews/contradictions/open/zambia-inris-enrolment`.
+
+## 2025–26: the sovereignty pitch, the DPC, and the voter-card case
+
+- **Digital ID as a way off the US "blacklist" (Dec 2025).** SZI's Percy Chinyama, speaking from Washington,
+  tied the **end-2026 digital-ID target** directly to **lifting US sanctions** — arguing the blacklisting "is
+  linked to the fact that we do not have a reliable ID system that can be cross-checked by other countries" —
+  with **~$50m (half the DZAP budget)** going to the ID. An unusually explicit statement of the
+  **dependency-and-legitimacy** logic driving the programme (and corroborating the contested end-2026 vs
+  end-2027 target on the [[ZMB]] hub). Source: [[2025-12-25-zambia-digital-ids-by-end-2026]].
+- **A multi-sectoral push, with the DPC now in the room (May 2026).** Zambia's **ID4Africa Abidjan**
+  delegation spanned SMART Zambia, Home Affairs, Agriculture, the **[[bank-of-zambia|Bank of Zambia]]** and —
+  notably — the now-operational **[[office-of-the-data-protection-commissioner-zambia|Data Protection
+  Commissioner]]**, on service delivery, financial inclusion, agriculture and data protection. The DPC's
+  presence matters against the hub's caution that Cabinet has floated **repealing the 2021 Data Protection
+  Act** for AI analytics. See [[gov.protect]]. Source: [[2026-05-18-zambia-id4africa-multi-sectoral-engagement]].
+- **The voter-card case for a permanent biometric NRC (Sep 2025).** An op-ed used the **[[electoral-commission-of-zambia|ECZ]]**'s
+  decision to reuse 2020/2021 voter cards for the 2026 mass registration to argue Zambia needs a **permanent,
+  biometric national ID** serving voting and services — rather than repeated registration on "flimsy voter's
+  cards." *(Op-ed; News Diggers lede-only.)* See [[dpi.registry]]. Source: [[2025-09-08-why-we-need-biometric-national-id-cards]].
 
 ## Reads
 
