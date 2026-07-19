@@ -7143,3 +7143,14 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
   population map) + Eastern Province land titling (Kayonza 28k+). +2 sources.
 - Hub Recent developments +consolidated 2026-07-05/06-09 entry. One partial-body clip
   (2026-07-05 land) staged body_completeness: excerpt — see Flags.
+
+## 2026-07-19 — ingest(RWA) chunk 2: E-gov, data exchange & governance
+
+- **8 admitted, 0 pruned.**
+- **[[rwanda--dpi-govtech]] updated:** Irembo wins GovTech Prize 2026 ("Best Government Service in the
+  World", Dubai); new "GovTech as an export" (Senate report — Eswatini/Chad/Guinea/Kenya adopt Rwandan
+  platforms); Mbaza AI local-gov platform (replaces e-Citizen, 416 sectors, Kigali trial). +3 sources.
+- **Created:** [[rwanda--dpi-exchange]] — national DPI strategy (DPI Day Mar 2026, Centre of DPI),
+  RISA data-sharing platform (Mizero, live 2026), RDAP $200m WB spine (55%), Tanzania interoperability
+  comparison (silos critique), NCSA "year of accountability" data-protection enforcement. +5 sources.
+- One partial-body clip (2025-10-15 Mbaza) staged excerpt — see Flags.

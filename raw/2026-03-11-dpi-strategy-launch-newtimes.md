@@ -9,6 +9,7 @@ date_precision: day
 date_source: source
 retrieved: 2026-07-17
 sweep_batch: RWA-2026-07-17
+body_completeness: excerpt
 places: [RWA]
 topics: [dpi.exchange, dpi.id, dpi.pay, tech.ai, gov.policy]
 entities: [[rwanda-dpi-strategy]], [[rwanda-information-society-authority]]
