@@ -44,3 +44,5 @@ gap-filler. Tracks the wider African [[gov.protect]] wave. See [[SLE]], [[gov.le
 ## Sources
 
 - [[2025-11-09 Government Finalizes Sierra Leones Data Protection and Right to Access Information Bill]]
+
+**Cabinet approval (2026-04-21).** Cabinet approved a **National Data Protection Policy** and authorised enactment of a new **Data Protection and Right to Access Information Act** — repealing the RAIC Act and merging data-protection and access-to-information into a single strengthened authority (the existing **RAIC** transformed with enhanced investigative/compliance/enforcement powers over public and private data handling). MoICE (Min. Chernor Bah) and MoCTI piloted it; the AG's office to table the Bill in Parliament. Source: [[2026-04-22-cabinet-data-protection-policy]].

@@ -7297,3 +7297,22 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
   first National AI Strategy + readiness diagnostic (World Bank), MoCTI/DSTI/NC3/Qhala cyber-AI leadership
   training, 1,000-civil-servant Digital Skills Pipeline, DSTI-CRS geospatial CVP/SDS4D.
 - **Entities created:** [[dsti]], [[nc3]].
+
+## 2026-07-19 — ingest(SLE) chunk 4: Digital ID & data protection
+
+- **3 admitted, 0 pruned.**
+- **Created:** [[sierra-leone--dpi-id]] — the NIN spine (93% reg vs <0.5m cards, ~$8 card, mandatory),
+  MOSIP brownfield migration (Vibbie; vs Uganda/Nigeria), and the "brokers of citizenship" ethnographic
+  critique (JPs/affidavits, colonial-era last-mile intermediation) — strong sovereignty/colonialism read.
+- **Data protection:** Cabinet approved the first **National Data Protection Policy** + new Data
+  Protection & RTI Act (RAIC merger) — updated [[sierra-leone-data-protection-rti-bill-2025]] + hub entry.
+- Hub last_reviewed → 2026-07-19. **new/ drained to 0 — SLE batch complete.**
+
+### SLE batch summary (chunks 1-4)
+- Full 25-clip drain across 4 thematic chunks; standard dedup (0 pruned — the Orange-Bo trio reconciled
+  as complementary per lint #7). SLE went from **0 intersections to 5**.
+- New intersections: sierra-leone--infra-connect, --dpi-pay, --infra-store, --tech-ai, --dpi-id.
+- New entities: natca, sierratel, bank-of-sierra-leone, dsti, nc3.
+- Through-lines: affordability gap (60% usage gap, top-5 costly data), Guinea-axis regional
+  integration, sandbox-incubated fintech inclusion (18%→40%), data-sovereignty via redundant data
+  centres, open-standards ID (MOSIP/W3C) with a colonial-era human last mile.

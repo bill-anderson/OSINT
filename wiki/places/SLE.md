@@ -6,7 +6,7 @@ parent: XWA
 place_kind: country
 topics: [dpi.id, dpi.pay, dpi.exchange, dpi.registry, dpi.govtech, gov.protect, gov.legislate, gov.policy, gov.standards, infra.store, infra.connect, tech.ai, digital.rural, capacity.training, include.access]
 status: active
-last_reviewed: 2026-07-16
+last_reviewed: 2026-07-19
 ---
 
 # Sierra Leone (SLE)
@@ -20,6 +20,13 @@ The through-line across the ID work is **open standards and national ownership**
 ([[gov.standards]]) — from W3C verifiable credentials to X-Road interoperability.
 
 ## Recent developments
+
+- **2026-04-21** — **Cabinet approves the first National Data Protection Policy.** Cabinet approved a
+  National Data Protection Policy and authorised a new **Data Protection & Right to Access Information
+  Act** — repealing the RAIC Act and merging data protection + access-to-information into one
+  strengthened authority (RAIC transformed, dual mandate). Advances the validated
+  [[sierra-leone-data-protection-rti-bill-2025]] thread toward Parliament. Source:
+  [[2026-04-22-cabinet-data-protection-policy]]. See [[gov.protect]], [[gov.legislate]].
 
 - **2026-07-08** — Sierra Leone (MoCTI), **[[bhutan-ndi]]** and the **[[sign-foundation]]**
   sign a tri-party MoU to build the country's **national digital identity platform** —
@@ -75,7 +82,8 @@ The through-line across the ID work is **open standards and national ownership**
 
 - **[[dpi.id]]** — NIN-centred foundational ID (93% coverage 2025; mandatory since Jan
   2025), open-standards / blockchain build ([[sierra-leone-digital-id-mou]]), low card
-  issuance and affordability gap. Home: [[ncra]].
+  issuance and affordability gap; MOSIP brownfield migration; the "brokers of citizenship" last-mile
+  critique. Full case: [[sierra-leone--dpi-id]]. Home: [[ncra]].
 - **[[dpi.pay]]** — national instant-payment switch (2023 origin, instant phase Feb 2025);
   8.2m mobile-money accounts (2023); inclusion 18%→~40% (2025), 1m+ IPS txns; sandbox-incubated card/wallet/AI-payment launches. Full case: [[sierra-leone--dpi-pay]]. [[sierra-leone-instant-payment-switch]].
 - **[[dpi.exchange]]** — Government Service Bus / X-Road interoperability; NIN-linkage across
