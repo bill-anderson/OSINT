@@ -6,8 +6,8 @@ places: [XWA, TGO, BEN, BFA, CIV, GIN, NER]
 topics: [dpi.id, gov.regional, dpi.exchange, gov.standards, include.access, dpi.registry, finance.new]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-17
-sources: [[2026-03-30 ECOWAS, World Bank Advance West Africa Digital Identity], [2024-06-27 WURI digital ID project improving access to public services in Benin], [2025-11-01 Identification System in Benin Increasing Access to Services], [2024-10-28 Benin receives 2,050 biometric terminals from World Bank to boost civil registration], [2026-02-02 Benin reports 75% of identification services accessed through digital platforms], [2025-06-18 Benin envisages mobile wallet launch in inclusive national digital ID push], [2025-05-02 WURI Implementation Status Report - Cote d'Ivoire and Guinea (P161329 Seq 11)], [2025-08-11 Stakeholders validate strategy on digital ID interoperability in West Africa (WURI)], [2023-06-01 WURI Program - Unique Identifiers to Enable Access to Human Development Services (World Bank)], [2023-12-21 ISR - WURI Phase 2 Seq 7 (P169594)], [2024-03-06 1 step forward, 3 steps back for West Africa's regional digital ID projects], [2025-11-19 Togo Advances Digital ID Program With New Enrollment Phase in Maritime Region]]
+last_reviewed: 2026-07-19
+sources: [[2025-02-21-bioenable-mosip-national-digital-id-pilot-biometricupdate], [2025-05-01-wuri-niger-birth-certificate-pilot-filingue-biometricupdate], [2026-03-30 ECOWAS, World Bank Advance West Africa Digital Identity], [2024-06-27 WURI digital ID project improving access to public services in Benin], [2025-11-01 Identification System in Benin Increasing Access to Services], [2024-10-28 Benin receives 2,050 biometric terminals from World Bank to boost civil registration], [2026-02-02 Benin reports 75% of identification services accessed through digital platforms], [2025-06-18 Benin envisages mobile wallet launch in inclusive national digital ID push], [2025-05-02 WURI Implementation Status Report - Cote d'Ivoire and Guinea (P161329 Seq 11)], [2025-08-11 Stakeholders validate strategy on digital ID interoperability in West Africa (WURI)], [2023-06-01 WURI Program - Unique Identifiers to Enable Access to Human Development Services (World Bank)], [2023-12-21 ISR - WURI Phase 2 Seq 7 (P169594)], [2024-03-06 1 step forward, 3 steps back for West Africa's regional digital ID projects], [2025-11-19 Togo Advances Digital ID Program With New Enrollment Phase in Maritime Region]]
 ---
 
 # WURI (West Africa Unique Identification for Regional Integration and Inclusion)
@@ -51,6 +51,13 @@ summed. See [[finance.new]]. Sources:
 
 ## Activity in this wiki
 
+- **WURI-Niger stays operational despite the ECOWAS exit (2025).** Even as Niger quit ECOWAS for the AES,
+  **WURI-Niger** (launched 2022; goal **22m** enrolled by 2026) kept enrolling: a **MOSIP-based pilot** (Feb
+  2025, with **[[bioenable]]**) enrolled **3,000+** across four communes, and a **May-2025 birth-certificate
+  pilot in Filingué** targeted **21,202 under-fives** while digitising local birth records — a World-Bank/
+  open-source ID track running in parallel to the sovereignty-branded AES card (see [[niger--dpi-id]]). Sources:
+  [[2025-02-21-bioenable-mosip-national-digital-id-pilot-biometricupdate]],
+  [[2025-05-01-wuri-niger-birth-certificate-pilot-filingue-biometricupdate]].
 - **Regional exits shrink the programme (2024-03).** [[ecowas]] placed **Burkina Faso, Mali
   and Niger** under sanctions following military coups; the three are **leaving the bloc**,
   meaning their citizens **will no longer be able to use the ECOWAS Passport or biometric ID

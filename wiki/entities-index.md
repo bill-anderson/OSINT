@@ -6,6 +6,8 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 
 | Entity | Places | Topics | Page |
 |---|---|---|---|
+| NITA Transfert (Niger) | NER | dpi.pay, dpi.id, finance.mou | [[nita-niger]] |
+| BioEnable Technologies | XGL, NER | dpi.id, tech.industry | [[bioenable]] |
 | Telekom Networks Malawi (TNM) | MWI | infra.connect, infra.store, dpi.pay | [[tnm-malawi]] |
 | Airtel Malawi Plc | MWI | infra.connect, dpi.pay, include.divides | [[airtel-malawi]] |
 | Sparc Systems Limited | MWI, ZMB, TZA, MOZ, RWA | infra.store, tech.industry, dpi.pay | [[sparc-systems]] |

@@ -6917,3 +6917,23 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
 - 6 sources were paywalled [CLIP] (free-lede only, flagged body_completeness: paywalled). No relevant-duplicates
   pruned, no contradictions, no gaps. Pre-existing dead link [[mario-oliveira]] (Angolan minister) left for a
   future AGO pass.
+
+## 2026-07-19 — ingest(NER) chunk 1/5: Digital identity — AES CNIB, e-passport, MOSIP/WURI
+
+- **5 sources admitted, 0 leads, 1 discard (relevant-duplicate pruned).** Batch NER-2026-07-17 (22 staged).
+- **Dedup:** `2026-04-21-niger-biometric-id-rollout-critical-analysis-connectingafrica` pruned — same
+  Connecting Africa article (Daniel Itai, 2026-04-21) as the already-held, fuller
+  [[2026-04-21-niger-rollout-biometric-ids-aes-connectingafrica]] (full body + byline; cited by cib-aes). Lint
+  #7 (a)/(b). The held version is cited throughout instead.
+- **Intersection created:** [[niger--dpi-id]] — the **two-track** ID story: sovereignty AES CNIB + e-passport
+  (Al-Itissal; mass enrolment 4,500 FCFA; NITA kiosks; Hadj passport) vs the World-Bank WURI/MOSIP open-source
+  path (BioEnable pilot; Filingué birth-certs) — plus the surveillance/exclusion critique.
+- **Entities created (2):** [[nita-niger]] (company/fintech), [[bioenable]] (company — MOSIP vendor).
+- **Entities updated:** [[niger-national-eid]] (+mass-enrolment specifics + e-passport phase), [[cib-aes]]
+  (+Niger mass-enrolment), [[wuri-programme]] (+operational Niger MOSIP/birth-cert pilots).
+- **NER hub:** +e-passport entry (2026-07-16); enriched the AES-ID entry (mass enrolment/NITA/critique) + added
+  the WURI/MOSIP two-track entry; dpi.id Active-topics line → intersection; +cib-aes/nita/mosip/bioenable to
+  Entities; +Intersections line; last_reviewed → 2026-07-19.
+- **entities-index:** +nita-niger, +bioenable.
+- Sources: 2026-07-16 e-passport (ActuNiger), 2026-05-07 CNIB mass enrolment (Le Sahel), 2026-04-27 NITA kiosks
+  (ActuNiger), 2025-05-01 WURI birth-cert Filingué (biometricupdate), 2025-02-21 BioEnable MOSIP (biometricupdate).
