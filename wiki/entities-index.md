@@ -1084,6 +1084,7 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 | SARSSy (Southern African Regional Submarine System) | AGO, NAM, XSA | infra.connect, gov.regional, finance.mou | [[sarssy]] |
 | SLB Africa Performance Center (Luanda) | AGO | tech.ai, tech.industry, capacity.training, geopol.usa | [[slb-africa-performance-center]] |
 | E-Social Security (Mauritius) | MUS | dpi.mis, dpi.registry, include.access, dpi.govtech | [[e-social-security-mauritius]] |
+| mytGPT (MT sovereign AI platform) | MUS | tech.ai, capacity.training, infra.store | [[mytgpt]] |
 
 ## Deals
 
@@ -1540,6 +1541,7 @@ about or from one becomes a normal source that cites it.
 | UNESCO AI Readiness Assessment (RAM) — Angola | AGO | tech.ai, gov.policy, gov.standards | [[unesco-ram-angola]] |
 | Mauritius National Data Strategy 2025-2029 | MUS | gov.policy, gov.protect, data.open | [[mauritius-national-data-strategy]] |
 | Mauritius National Fintech Strategy 2026-2030 | MUS | dpi.pay, gov.policy, finance.new | [[mauritius-national-fintech-strategy]] |
+| Mauritius National AI Strategy (AIM) + FAIR Guidelines | MUS | tech.ai, gov.policy, gov.standards | [[mauritius-national-ai-strategy]] |
 
 ## Instruments — scholarly & analytical works (`entity_type: instrument`; formerly "publications")
 

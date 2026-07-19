@@ -8,6 +8,7 @@ date_precision: day
 date_source: source
 retrieved: 2026-07-17
 sweep_batch: MUS-2026-07-17
+body_completeness: excerpt
 places: [MUS]
 topics: [tech.ai, capacity.training, dpi.pay, dpi.govtech, infra.cybersec, dpi.id]
 entities: []

@@ -6626,3 +6626,24 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
 - **entities-index:** +3 rows.
 - Sources: 2026-06-29 Fintech Strategy (wearetech), 2026-02-04 BoM workshop (lexpress), 2026-01-19 MCB QR
   (lexpress).
+
+## 2026-07-19 — ingest(MUS) chunk 5/6: AI / skills
+
+- **7 sources admitted, 0 leads, 0 discards; 1 gap filed.**
+- **Intersection created:** [[mauritius--tech-ai]] — governance-led AI: AIM strategy + FAIR (vendor-neutral/
+  border-agnostic, bias audits), Budget 2026-27 50,000-trainee push + Côte-d'Or AI SEZ, MT AI & Compute
+  Corridor / mytGPT / AllMyT Summit, and the "ecosystem-before-infrastructure" critique (Timing Trap).
+- **Entities created (2):** [[mauritius-national-ai-strategy]] (instrument — AIM + FAIR),
+  [[mytgpt]] (initiative — MT sovereign AI platform + mytGPT Education / my.t Learn).
+- **MUS hub:** +3 Recent-developments entries (AllMyT/AI-execution 2026-07-16; Budget 50k-AI 2026-06-20; AI
+  Strategy AIM+FAIR 2026-04-12); new tech.ai/capacity.training Active-topics line; +capacity.training,
+  tech.innovate topics; Entities/Intersections refreshed.
+- **Concepts:** [[tech.ai]] +MUS +governance-led-model bullet (+Places); [[capacity.training]] +MUS
+  +50k-AI-skilling bullet (+Places).
+- **entities-index:** +2 rows.
+- **Gap filed:** GAP-MUS-001 — AllMyT Summit AI announcements (AWS MoU, NVIDIA H200, Mauritius AI Registry
+  airegistry.mu, MaaS, SBM, MUS-SYC payments) are off-source PR-wire; primary sourcing needed. mytGPT Education
+  pilot likewise PR-wire.
+- Sources: 2026-04-12 AI Strategy+FAIR (lexpress), 2026-04-23 FAIR analysis (techcabal), 2026-06-20 Budget
+  (lexpress), 2026-07-13 Gungadin (mauritiustimes), 2026-03-22 ecosystem critique (mauritiustimes), 2026-01-26
+  mytGPT Education (techreviewafrica, pr-wire), 2026-07-16 AllMyT Summit (techreviewafrica, pr-wire).

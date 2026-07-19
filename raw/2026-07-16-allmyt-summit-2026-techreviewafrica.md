@@ -8,6 +8,7 @@ date_precision: day
 date_source: source
 retrieved: 2026-07-17
 sweep_batch: MUS-2026-07-17
+body_completeness: excerpt
 provenance_flag: pr-wire
 places: [MUS]
 topics: [tech.ai, infra.store, geopol.usa, finance.mou]

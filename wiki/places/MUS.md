@@ -4,7 +4,7 @@ title: Mauritius
 code: MUS
 parent: XEA
 place_kind: country
-topics: [dpi.pay, finance.new, gov.protect, gov.regional, dpi.id, dpi.govtech, gov.policy, gov.legislate, dpi.registry, dpi.exchange, gov.standards, dpi.mis, data.statistics, include.access, data.open, geopol.eu, infra.cybersec, infra.store, infra.connect, tech.ai, geopol.india]
+topics: [dpi.pay, finance.new, gov.protect, gov.regional, dpi.id, dpi.govtech, gov.policy, gov.legislate, dpi.registry, dpi.exchange, gov.standards, dpi.mis, data.statistics, include.access, data.open, geopol.eu, infra.cybersec, infra.store, infra.connect, tech.ai, geopol.india, capacity.training, tech.innovate]
 status: active
 last_reviewed: 2026-07-19
 ---
@@ -20,6 +20,13 @@ cross-border fintech and payments gateway into Africa.
 
 ## Recent developments
 
+- **2026-07-16** — **AI "from ambition to execution" — AllMyT Summit.** [[mauritius-telecom|MT]]'s second
+  **AllMyT Summit** (16-17 Jul, 1,000+ participants, PM Ramgoolam opening) showcased the AI & Compute Corridor —
+  Tier IV compute, GPU clusters, sovereign cloud and **[[mytgpt]]**. CEO Gungadin: *"AI will not become an
+  economic pillar because we declare it."* (Off-source AllMyT announcements — AWS MoU, NVIDIA H200, a Mauritius
+  AI Registry — await primary sourcing: GAP-MUS-001.) Full picture: **[[mauritius--tech-ai]]**. Sources:
+  [[2026-07-16-allmyt-summit-2026-techreviewafrica]],
+  [[2026-07-13-gungadin-ai-economic-pillar-interview-mauritiustimes]]. See [[tech.ai]], [[infra.store]].
 - **2026-07-13** — **Communications privacy under strain ("Moustass Leaks").** Leaked audio (the SIT CEO
   revocation, the wider **Moustass Leaks** saga) reopened questions of electronic-evidence admissibility,
   unlawful processing under the **DPA 2017**, and AI **deepfakes** — the live edge of a longer **surveillance
@@ -32,6 +39,12 @@ cross-border fintech and payments gateway into Africa.
   Bill**, delivered with the **[[bank-of-mauritius|BoM]]**. Instrument:
   [[mauritius-national-fintech-strategy]]. Source: [[2026-06-29-national-fintech-strategy-2026-2030-wearetech]].
   See [[mauritius--dpi-pay]], [[dpi.pay]], [[gov.policy]].
+- **2026-06-20** — **Budget 2026-2027: train 50,000 in AI.** "AI" appears 35× in the budget: a one-year
+  **50,000-trainee** AI-skilling plan (pupils, teachers, civil servants, professionals), a Rs 25M **National AI
+  Learning Platform**, a 45% AI investment tax credit, and the **Côte-d'Or AI SEZ** (preferential DC power,
+  30-yr leases, 100% foreign ownership) — plus e-Gates/e-Visa/e-judiciary and a stablecoin/open-banking
+  framework. Source: [[2026-06-20-budget-2026-2027-ai-training-50000-fintech-lexpress]]. See
+  [[mauritius--tech-ai]], [[capacity.training]], [[tech.ai]].
 - **2026-06-12** — **DPO Regulations 2026 promulgated.** The Cabinet approved the **Data Protection
   (Designation, Tasks and Position of Data Protection Officers) Regulations 2026**, formalising DPO status and
   duties across public and private sectors (six-month compliance window; in force **1 Jan 2027**). Source:
@@ -59,6 +72,14 @@ cross-border fintech and payments gateway into Africa.
   mandates chief data officers, and is amending the law to add administrative fines. Source:
   [[2026-05-16 World Bank, African DPAs outline formula for trusted digital identity, DPI]]. See
   [[gov.protect]].
+- **2026-04-12** — **National AI Strategy (AIM) + FAIR guidelines launched.** The **AI for Mauritius (AIM)**
+  strategy (9 Apr 2026, AI Unit) sets six pillars and a KOREK Super App / DIVA / Regional AI Marketplace; its
+  **FAIR** guidelines (Fairness, Accountability, Inclusiveness, Integrity) are **vendor-neutral and
+  border-agnostic** with mandatory bias audits — a governance-led "ethics before execution" model. Instrument:
+  [[mauritius-national-ai-strategy]]. Sources:
+  [[2026-04-12-national-ai-strategy-fair-guidelines-launch-lexpress]],
+  [[2026-04-23-ai-strategy-fair-ethics-before-execution-techcabal]]. See [[mauritius--tech-ai]], [[tech.ai]],
+  [[gov.standards]].
 - **2026-04-03** — **Data-sovereignty debate goes mainstream (Tech Trends).** A *L'Express* Tech Trends feature
   framed **data sovereignty** as strategic for Mauritius — citing the dark-web citizen-data leak — with local
   experts (GWS Technologies, Knowledge7, Hodi) urging local/regional hosting for control and legal clarity, and
@@ -155,15 +176,19 @@ cross-border fintech and payments gateway into Africa.
   **[[mauritius--gov-protect]]**.
 - [[dpi.mis]] · [[dpi.registry]] · [[include.access]] — **[[e-social-security-mauritius|E-Social Security]]**
   welfare digitisation (10.5M records).
-- [[infra.store]] · [[infra.connect]] · [[tech.ai]] — Indian-Ocean **data-centre & connectivity hub**
+- [[infra.store]] · [[infra.connect]] — Indian-Ocean **data-centre & connectivity hub**
   (**[[mauritius-telecom|MT]]** "Bridging Africa & Asia"; Rose-Belle Tier IV; 10-DC estate; T4/SEACOM 2.0
   cables; MIXP) with a sovereign-hosting pitch — **[[mauritius--infra-store]]**.
+- [[tech.ai]] · [[capacity.training]] · [[gov.standards]] — governance-led AI:
+  **[[mauritius-national-ai-strategy|AIM strategy + FAIR]]** (vendor-neutral/border-agnostic), a **50,000**
+  AI-training budget push, and MT's sovereign **[[mytgpt]]** platform / AllMyT Summit —
+  **[[mauritius--tech-ai]]**.
 - [[dpi.exchange]] · [[gov.standards]] — e-Gov Interoperability Framework (2002); Health 2015 eHealth strategy.
 
 ## Entities
 
-- [[mauritius-mobile-id]] · [[mauritius-digital-blueprint-2025-2029]] · [[mauritius-national-data-strategy]] · [[ministry-ict-mauritius]] · [[data-protection-office-mauritius]] · [[e-social-security-mauritius]] · [[maucas]] · [[civil-status-division-mauritius]] · [[thales]] · [[peach-payments]] · [[verint]] · [[mauritius-telecom]] · [[bank-of-mauritius]] · [[mauritius-commercial-bank]] · [[mauritius-national-fintech-strategy]]
-- Intersections: [[mauritius--gov-protect]] · [[mauritius--infra-store]] · [[mauritius--dpi-pay]]
+- [[mauritius-mobile-id]] · [[mauritius-digital-blueprint-2025-2029]] · [[mauritius-national-data-strategy]] · [[ministry-ict-mauritius]] · [[data-protection-office-mauritius]] · [[e-social-security-mauritius]] · [[maucas]] · [[civil-status-division-mauritius]] · [[thales]] · [[peach-payments]] · [[verint]] · [[mauritius-telecom]] · [[bank-of-mauritius]] · [[mauritius-commercial-bank]] · [[mauritius-national-fintech-strategy]] · [[mauritius-national-ai-strategy]] · [[mytgpt]]
+- Intersections: [[mauritius--gov-protect]] · [[mauritius--infra-store]] · [[mauritius--dpi-pay]] · [[mauritius--tech-ai]]
 - Mentioned, not hubbed: Drudeisha Madhub (data-protection commissioner, heads the
   [[data-protection-office-mauritius|DPO]]); Ashok Subron (Minister of Social Security); Bank of Mauritius;
   ICTA; CERT-MU; MPF; FATF.

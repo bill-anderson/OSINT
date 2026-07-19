@@ -633,3 +633,14 @@ study). See log.md.)*
   interoperability accelerate (AFAPDP flagged it urgent, Feb 2025). *Lead: track any CMIL establishment
   decree; the absence undercuts safeguards on the new biometric/interop stack.* See [[cmil-madagascar]],
   [[madagascar--dpi-id]]. (Surfaced MDG sweep ingest, 2026-07-18.)
+
+- **GAP-MUS-001 · AllMyT Summit 2026 AI announcements are off-source.** The only sweep-held item on the
+  AllMyT Summit (16-17 Jul 2026) is a thin Tech Review Africa **PR-wire** notice. Richer contemporaneous
+  coverage — from outlets outside the sweep source set — reports that Mauritius Telecom announced an **MoU
+  with Amazon Web Services**, that its data centre now hosts **NVIDIA H200 GPUs** (B300 due end-2026), the
+  launch of a **Mauritius AI Registry** (airegistry.mu, open-sourced stack), **Models-as-a-Service** (TM
+  Forum), an **SBM Bank** platform partnership, and **Mauritius–Seychelles cross-border payments** (Eboo).
+  None is yet primary-sourced. *Lead: source these from MT / AWS / airegistry.mu / national coverage to
+  substantiate [[mytgpt]], [[mauritius--tech-ai]] and a possible Mauritius AI Registry resource entity; the
+  mytGPT Education pilot (2026-01-26) is likewise PR-wire and would benefit from a primary.* See
+  [[mauritius-telecom]]. (Surfaced MUS sweep ingest, 2026-07-19.)
