@@ -10,6 +10,7 @@ places: [UGA]
 topics: [dpi.pay, finance.new]
 entities: [[nala], [bank-of-uganda]]
 lens: []
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: UGA-2026-07-17
 ---

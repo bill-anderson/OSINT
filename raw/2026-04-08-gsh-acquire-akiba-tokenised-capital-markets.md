@@ -10,6 +10,7 @@ places: [UGA]
 topics: [dpi.pay, finance.new, gov.legislate]
 entities: [[global-settlement-network], [akiba-international], [bank-of-uganda], [capital-markets-authority-uganda]]
 lens: [sovereignty]
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: UGA-2026-07-17
 ---

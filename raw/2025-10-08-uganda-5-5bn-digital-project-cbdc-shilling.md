@@ -10,6 +10,7 @@ places: [UGA]
 topics: [dpi.pay, finance.new, infra.store]
 entities: [[diacente-group], [global-settlement-network]]
 lens: [sovereignty]
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: UGA-2026-07-17
 ---

@@ -148,8 +148,11 @@ days, two days before a presidential election — reminding every layer above it
 - [[dpi.id]] · [[dpi.registry]] — [[ndaga-muntu]] on [[mosip]]; [[nira-uganda]]; [[mvrs-uganda]] civil
   registration; [[opencrvs]] v2.0 design input; land registry ([[stdm]] CCOs). Statutory basis:
   [[registration-of-persons-act-2015]]. → **[[uganda--dpi-id]]**
-- [[dpi.pay]] — [[bank-of-uganda]] rails; [[eaps]] settlement; [[mtn-uganda]] mobile money;
-  [[ura-uganda]] tax integration; strategy [[uganda-nfis-ii]]. → **[[uganda--dpi-pay]]**
+- [[dpi.pay]] — [[bank-of-uganda]] rails; [[eaps]] settlement; [[mtn-uganda]] mobile money
+  ([[mtn-momo-uganda|MoMo]] spun off); [[ura-uganda]] tax integration; strategy [[uganda-nfis-ii]]; a
+  **cash-lite** withdrawal-cap regime (2027); and a **digital-asset frontier** (GSN/AKIBA tokenisation,
+  CBDC "digital shilling", stablecoin corridors) pulling against the **Protection of Sovereignty Bill**'s
+  foreign-funding cap. → **[[uganda--dpi-pay]]**
 - [[dpi.govtech]] · [[dpi.exchange]] · [[gov.standards]] — **[[ughub]]** (100+ MDAs as of Jun 2024),
   **[[ugpass]]** authentication and e-signature, **[[uganda-e-gif]]** (6 May 2021 — twelve principles,
   six interoperability layers) and the **[[uganda-digital-government-strategy]]** v1.1 (26 Feb 2022, a

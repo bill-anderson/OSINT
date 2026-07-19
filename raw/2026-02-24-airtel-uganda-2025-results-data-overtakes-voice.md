@@ -10,6 +10,7 @@ places: [UGA]
 topics: [dpi.pay, infra.connect]
 entities: [[airtel-uganda]]
 lens: []
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: UGA-2026-07-17
 ---
