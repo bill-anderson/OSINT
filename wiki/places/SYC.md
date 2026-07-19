@@ -6,7 +6,7 @@ parent: XEA
 place_kind: country
 topics: [gov.protect, gov.legislate, dpi.id, dpi.registry, dpi.govtech, dpi.pay, gov.regional, dpi.exchange, finance.mou, tech.industry, include.access, gov.standards]
 status: active
-last_reviewed: 2026-07-17
+last_reviewed: 2026-07-19
 ---
 
 # Seychelles (SYC)
@@ -89,7 +89,7 @@ about commencement dates, enforcement reach and drafting gaps rather than covera
 ## Active topics
 
 - [[gov.protect]] · [[gov.legislate]] — [[data-protection-act-2023-seychelles]], enforced by the
-  [[information-commission-seychelles]]. GDPR-aligned on explicit consent, DPIAs for high-risk
+  [[information-commission-seychelles]]; the 2025 SCB offshore-banking breach, ATIA reform + Data Protection Day. Full case: [[seychelles--gov-protect]]. GDPR-aligned on explicit consent, DPIAs for high-risk
   processing and DPO designation; **72-hour** breach notification to the authority (ss.43–44);
   cross-border transfers regulated with specific safeguards. TechHive's analysis flags a
   **territorial-scope gap** — s.3 gives no clear extraterritorial application, unlike peer laws —
@@ -112,6 +112,7 @@ about commencement dates, enforcement reach and drafting gaps rather than covera
   proxy-dated) its legal framework was still being drafted and draft legislation not yet
   submitted to Cabinet — a status statement with no reliable as-of date, which may well have
   moved since.*
+- [[tech.ai]] · [[tech.innovate]] · [[capacity.research]] — NISTI Act 2025 (STI umbrella + AI mandate + open scientific-data repository); NCCC AI-media governance; Huawei/CWS SMART Education. Full case: [[seychelles--tech-ai]].
 - [[infra.connect]] · [[data.satellite]] — Starlink licensed/launched 2026 (outer-island resilience); Airtel 5G (2nd operator after CWS/Huawei 2020); Hytera-CWS emergency-comms MoU. Full case: [[seychelles--infra-connect]].
 - [[gov.regional]] · [[dpi.exchange]] · [[finance.mou]] — host of the **AfCFTA Digital Trade
   Corridor** HQ (Victoria); the March-2026 tripartite MoU with the AfCFTA Secretariat and

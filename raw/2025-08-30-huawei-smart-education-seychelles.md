@@ -10,6 +10,7 @@ places: [SYC]
 topics: [dpi.mis, capacity.training, geopol.china]
 entities: [[huawei], [cable-wireless-seychelles], [ministry-of-education-seychelles]]
 lens: [sovereignty]
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: SYC-2026-07-17
 ---

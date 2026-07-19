@@ -7453,3 +7453,24 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
   resilience" (DPA activating while 9 ministries have no backups); the state as data-risk (Home Affairs
   ID breach → first EDPA probe); a landlocked satellite-resilience pivot (govt Starlink gateway); and a
   Google-MoU cabinet panic that was mostly a communications failure.
+
+## 2026-07-19 — ingest(SYC) chunk 4-5: Data protection/cyber & AI/STI
+
+- **Chunk 4 (4 admitted):** [[seychelles--gov-protect]] expanded — SCB offshore-banking breach (~2.2GB,
+  "current accounts – government", Oracle WebLogic), regulator activation (Data Protection Day, Convention
+  108 signatory since 1981, ATIA reform enforcement gap). +[[seychelles-commercial-bank]].
+- **Chunk 5 (3 admitted):** Created [[seychelles--tech-ai]] — NISTI Act 2025 (STI umbrella + AI mandate +
+  open scientific-data repository), NCCC AI-media governance, Huawei/CWS SMART Education. +[[nisti-seychelles]].
+- Hub wired + last_reviewed → 2026-07-19. **new/ drained to 0 — SYC batch complete.**
+
+### SYC batch summary (chunks 1-5)
+- Full 23-clip drain across 5 thematic chunks; standard dedup (3 pruned as multi-outlet dups). SYC went
+  from 2 intersections to 6.
+- New intersections: seychelles--dpi-govtech, --dpi-pay, --infra-connect, --tech-ai; expanded
+  seychelles--gov-protect. New entities: seychelles-revenue-commission, fusepay, seychelles-upi-mou,
+  cable-and-wireless-seychelles, seychelles-commercial-bank, nisti-seychelles.
+- Through-lines: a high-capacity micro-state **consolidating, not founding** (egov.sc, ECMS, e-CO, EODB);
+  the **cheque endgame** (CBS+SRC to 2028) creating demand filled by UPI/Fusepay/Absa; **connectivity as
+  resilience** with cross-geopolitical vendor pluralism (Huawei/Hytera, Ericsson, Starlink); and the
+  **offshore-finance cyber exposure** (SCB breach) testing a DPA whose regulator has a self-acknowledged
+  enforcement gap.

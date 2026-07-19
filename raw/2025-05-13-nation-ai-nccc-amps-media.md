@@ -10,6 +10,7 @@ places: [SYC]
 topics: [tech.ai, infra.cybersec]
 entities: [[national-cybersecurity-coordination-committee-seychelles]]
 lens: []
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: SYC-2026-07-17
 ---
