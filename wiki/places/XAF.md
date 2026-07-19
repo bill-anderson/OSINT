@@ -31,6 +31,22 @@ rule, is all `XAF` children except `XNA`; `XGL` is for non-Africa-specific/globa
   Eritrea, Libya, Seychelles, Tanzania, Western Sahara). Sources:
   [[2025-04-04 Africa Declaration on Artificial Intelligence]],
   [[2025-05-13 Optimism but uncertainty over Africa's AI Declaration]]. See [[tech.ai]], [[gov.policy]].
+- **2025-11 → 2026-05** — **Continental cross-border-DPI initiatives crystallise.** Two flagship, explicitly
+  **African-led** shared-rail efforts moved from declaration to pilot: **[[adapt]]** (Africa Digital Access &
+  Public Infrastructure for Trade), launched by the **[[afcfta]]** Secretariat (Nov 2025, with [[tony-blair-institute]]/
+  [[iota-foundation]]/WEF on the TWIN stack), selected **Kenya, Morocco and Nigeria** as its first trio for
+  shared **identity/payments/data-exchange** rails (Mene: +80% intra-African exports / $450bn by 2035;
+  explores stablecoins); and **[[smart-africa]]**'s **[[smart-africa-data-exchange|SADX]]** — open-standards
+  cross-border data-exchange/ID verification for **Benin, Ghana and Rwanda** (built on SATA) — was unveiled at
+  Transform Africa Summit (Conakry) and piloted with **[[ascend-digital-solutions]]**. The same summit
+  launched the **[[africa-ai-council]]** (Kagame-chaired; 7 ICT ministers + 8 independents) and **SANIA**
+  (innovation-scaling platform); Smart Africa and the **[[african-union]]** renewed their AI-agenda
+  commitment at AI for Good (Jul 2026). Outlook reports frame **2026 as the year African states operationalize
+  continental DPI frameworks** (16 AI strategies launched in 2025; ECOWAS e-ID interoperability; W3C standards).
+  Sources: [[2026-05-26-nigeria-kenya-morocco-afcfta-adapt]], [[2025-11-18-smart-africa-ai-dpi-initiatives-single-market]],
+  [[2025-12-19-smart-africa-ascend-sadx-pilot]], [[2026-07-13-smart-africa-au-renew-ai-commitment]],
+  [[2026-01-27-many-african-countries-operationalize-continental-dpi-2026]], [[2025-12-26-how-dpi-accelerate-africas-single-market]].
+  See [[dpi.exchange]], [[dpi.id]], [[tech.ai]], [[gov.regional]].
 - **2025-07 → 2026-07** — **Regional payment integration converges on local-currency, interoperable rails.**
   Four blocs advanced instant cross-border payment infrastructure in parallel, all framed around **financial
   sovereignty** (settling in local African currencies, off the US dollar): **[[papss]]** admitted

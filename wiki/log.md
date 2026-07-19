@@ -7773,3 +7773,7 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
 - Added consolidated XAF hub entry: continental payment convergence on local-currency interoperable rails — PAPSS +BEAC/CEMAC → 28 countries (BCEAO pilot to follow); COMESA DRPP (21 states, <3% cost target); BCEAO PI-SPI (8 WAEMU states, A2A <5s free, mandatory connection + CAF-STI/SSI cyber-cert); EAC-IGAD EARDIP workshop (9 states). Financial-sovereignty framing.
 - Created entities gim-uemoa, igad (beac/cemac/comesa/bceao/waemu/eac/eardip/papss/afreximbank already held).
 - PRUNE (lint #7, exact-URL held): 2026-07-16 SCRYPT stablecoin (held via UGA batch), 2026-05-04 NCRCBSI satellite (held via UGA batch) — deleted from new/, held copies retained. Dead-link NONE.
+
+## 2026-07-19 ingest(XAF) chunk 2 — Cross-border DPI & continental initiatives (6 sources)
+- Added consolidated XAF hub entry: continental cross-border-DPI initiatives crystallise — AfCFTA ADAPT (Kenya/Morocco/Nigeria first trio; shared ID/payments/data rails on TWIN; TBI/IOTA/WEF; stablecoin exploration); Smart Africa SADX (Benin/Ghana/Rwanda open-standards data exchange, Ascend pilot); Africa AI Council (Kagame-chaired) + SANIA (Transform Africa Conakry); Smart Africa-AU AI renewal; 2026 DPI-operationalization outlook.
+- Created entities adapt, iota-foundation, africa-ai-council, smart-africa-data-exchange (SADX), ascend-digital-solutions. 0 prunes. Dead-link NONE.
