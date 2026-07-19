@@ -12,6 +12,7 @@ entities: [[airtel-niger], [starlink], [arcep-niger]]
 lens: []
 retrieved: 2026-07-17
 sweep_batch: NER-2026-07-17
+body_completeness: excerpt
 ---
 
 # Connectivité et Innovation : Airtel Niger lance sa solution « Starlink by Airtel »

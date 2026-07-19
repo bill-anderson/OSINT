@@ -4,7 +4,7 @@ title: Niger
 code: NER
 parent: XWA
 place_kind: country
-topics: [dpi.id, dpi.registry, gov.regional, gov.legislate, gov.protect, infra.store, infra.cybersec, infra.connect, dpi.govtech, dpi.pay, data.statistics, include.access]
+topics: [dpi.id, dpi.registry, gov.regional, gov.legislate, gov.protect, infra.store, infra.cybersec, infra.connect, dpi.govtech, dpi.pay, data.statistics, include.access, geopol.usa, include.divides, tech.industry, gov.standards]
 status: active
 last_reviewed: 2026-07-19
 ---
@@ -68,6 +68,15 @@ all against very low connectivity (**internet penetration ~23% (2025)**).
   in-country) — modest but strategic in a market at **~23% internet penetration (ITU 2025)**. Source:
   [[2025-08-21 Niger inaugurates a new Internet Exchange Point (IXP)]]. See [[infra.connect]],
   [[data.statistics]].
+- **2025-03-13** — **Starlink launched — rural access vs sovereignty control.** Starlink went commercial (under an
+  **Oct-2024 SpaceX–junta agreement**; Niger the 18th African market), distributed by "100% Nigerien"
+  **[[ninetec]]** under KYC rules — then **[[arcep-niger|ARCEP]]** cracked down on unauthorised resale ("Wifi
+  Zones," Loi 2018-45) and **[[airtel-niger|Airtel]]** folded it into "**Starlink by Airtel**" (Jan 2026). Full
+  saga: **[[niger--infra-connect]]**. Sources: [[2025-03-13-starlink-officially-available-niger-actuniger]],
+  [[2025-05-06-ninetec-nine-starlink-kit-distribution-lesahel]],
+  [[2025-09-09-arcep-crackdown-pirate-starlink-wifi-zones-actuniger]],
+  [[2026-01-18-airtel-niger-starlink-by-airtel-launch-actuniger]]. See [[infra.connect]], [[geopol.usa]],
+  [[include.divides]].
 - **2025-05-01** — **WURI/MOSIP track stays operational (the parallel ID path).** Despite the ECOWAS exit,
   **[[wuri-programme|WURI-Niger]]** (goal 22m by 2026) kept enrolling: a **MOSIP** open-source pilot (Feb 2025,
   with **[[bioenable]]**) enrolled **3,000+** across four communes, and a **Filingué birth-certificate pilot**
@@ -115,6 +124,9 @@ all against very low connectivity (**internet penetration ~23% (2025)**).
   CNAC (SOC+CERT), PKI, Forensic Lab, Tier III data centres, National Cybersecurity Strategy (**[[ansi-niger|
   ANSI]]**), **[[trans-saharan-fibre-backbone|Trans-Sahara fibre]]**, Niamey **[[niger-ixp|IXP]]**,
   **[[arcep-niger|ARCEP]]** monitoring — **[[niger--infra-cybersec]]**.
+- [[infra.connect]] · [[geopol.usa]] · [[include.divides]] — **Starlink** (Oct-2024 SpaceX–junta deal;
+  **[[ninetec]]** distributor; ARCEP anti-"Wifi Zone" enforcement; **[[airtel-niger|Airtel]]** "Starlink by
+  Airtel") over a ~23%-penetration, ~80%-rural base — **[[niger--infra-connect]]**.
 - [[dpi.govtech]] · [[dpi.pay]] — "Niger 2.0" digital-administration reform (ANSI); STAR-UEMOA regional
   settlement.
 
@@ -122,8 +134,8 @@ all against very low connectivity (**internet penetration ~23% (2025)**).
 
 - [[niger-national-eid]] · [[cib-aes]] · [[al-itissal-al-jadeed]] · [[hapdp-niger]] · [[niger-data-protection-law]] · [[niger-ixp]] · [[nita-niger]]
 - [[alliance-of-sahel-states]] · [[wuri-programme]] · [[mosip]] · [[bioenable]] · [[world-bank]]
-- [[ansi-niger]] · [[arcep-niger]] · [[trans-saharan-fibre-backbone]] · [[african-development-bank]]
-- Intersections: [[niger--dpi-id]] · [[niger--infra-cybersec]]
+- [[ansi-niger]] · [[arcep-niger]] · [[trans-saharan-fibre-backbone]] · [[african-development-bank]] · [[starlink]] · [[ninetec]] · [[airtel-niger]]
+- Intersections: [[niger--dpi-id]] · [[niger--infra-cybersec]] · [[niger--infra-connect]]
 - Mentioned, not hubbed: President Abdourahamane Tiani (first enrollee); ANSI (national IT agency); INS Niger
   (statistics office); BCEAO / STAR-UEMOA; Ministry of Interior, Security and Territorial Administration.
 - Parent region: [[XWA]] · continental: [[XAF]].

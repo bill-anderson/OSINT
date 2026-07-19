@@ -6959,3 +6959,22 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
 - Sources: 2025-07-28 HAPDP interview (Le Sahel), 2025-07-24 critical-infra committee (Le Sahel), 2025-03-04
   Raliou DC interview (Le Sahel), 2025-07-25 AfricaCERT (Le Sahel), 2025-11-17 Trans-Sahara fibre + Tier III DC
   (Le Sahel), 2026-01-29 ARCEP monitoring (Le Sahel).
+
+## 2026-07-19 — ingest(NER) chunk 3/5: Starlink saga
+
+- **5 sources admitted, 0 leads, 0 discards.**
+- **Intersection created:** [[niger--infra-connect]] — Starlink commercial launch (Oct-2024 SpaceX–junta deal;
+  18th African market), NINETEC "100% Nigerien" distribution (décret 2020-331 KYC; US Embassy present), ARCEP
+  anti-"Wifi Zone" enforcement (Loi 2018-45), Airtel "Starlink by Airtel" telco-integration — resolves the
+  chunk-2 forward-refs.
+- **Entities created (2):** [[ninetec]] (Starlink distributor), [[airtel-niger]] (market-leader telco).
+- **Entities updated:** [[starlink]] (+Niger junta/NINETEC/Airtel note; +NER place); [[arcep-niger]] (already
+  cited the Starlink crackdown).
+- **NER hub:** +Starlink Recent-developments entry; +connectivity Active-topics line → intersection;
+  +geopol.usa/include.divides/tech.industry topics; +starlink/ninetec/airtel-niger + intersection to Entities.
+- **Concepts:** [[geopol.usa]] +NER "US satellite in an anti-Western junta" bullet (+places/footer).
+- **entities-index:** +ninetec, +airtel-niger.
+- **Dedup note:** the 2025-03-17 connectingafrica clip kept as complementary to the 2025-03-13 ActuNiger primary
+  (adds continental context: 18th market, Lesotho/Namibia/Chad comparisons).
+- Sources: 2025-03-13 Starlink available (ActuNiger), 2025-03-17 beams into Niger (connectingafrica), 2025-05-06
+  NINETEC (Le Sahel), 2025-09-09 ARCEP crackdown (ActuNiger), 2026-01-18 Airtel Starlink (ActuNiger).

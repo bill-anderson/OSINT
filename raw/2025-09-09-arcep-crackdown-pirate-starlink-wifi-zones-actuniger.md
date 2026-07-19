@@ -12,6 +12,7 @@ entities: [[arcep-niger], [starlink]]
 lens: [sovereignty]
 retrieved: 2026-07-17
 sweep_batch: NER-2026-07-17
+body_completeness: excerpt
 ---
 
 # Niger : l'ARCEP déclare la guerre aux « Wifi Zones » pirates utilisant Starlink

@@ -12,6 +12,7 @@ entities: [[ninetec], [starlink], [arcep-niger]]
 lens: [sovereignty]
 retrieved: 2026-07-17
 sweep_batch: NER-2026-07-17
+body_completeness: excerpt
 ---
 
 # Lancement officiel des activités de distribution des kits Starlink par NINETEC : « Garantir une connexion internet fiable, accessible partout et à moindre coût »

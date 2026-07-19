@@ -12,6 +12,7 @@ entities: [[starlink], [arcep-niger]]
 lens: [sovereignty]
 retrieved: 2026-07-17
 sweep_batch: NER-2026-07-17
+body_completeness: excerpt
 ---
 
 # Starlink enfin disponible officiellement au Niger

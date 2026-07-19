@@ -2,7 +2,7 @@
 type: entity
 entity_type: company
 title: Starlink (SpaceX)
-places: [XSS, XAF, NGA, KEN, ZWE, ZAF, NAM, SEN, GNB, MRT, LBR, BDI, CAF]
+places: [XSS, XAF, NGA, KEN, ZWE, ZAF, NAM, SEN, GNB, MRT, LBR, BDI, CAF, NER]
 topics: [infra.connect, include.access, include.divides, infra.capacity, gov.standards]
 lens: [sovereignty, colonialism]
 status: active
@@ -87,6 +87,12 @@ controls African connectivity infrastructure.
   Leone, Somalia, South Sudan, Zambia and Zimbabwe. See [[SEN]], [[infra.connect]],
   [[include.access]]. Source: [[2026-02-05 Senegal embraces Starlink to connect the future]].
 
+- **[[NER]] Niger — junta deal, local distributor, telco integration (2025-2026).** Starlink launched
+  commercially (**13 Mar 2025**) under an **Oct-2024 SpaceX–junta agreement** — Niger the 18th African market;
+  distributed by "100% Nigerien" **[[ninetec]]** under KYC rules, with **[[arcep-niger|ARCEP]]** cracking down on
+  pirate "Wifi Zones" (Loi 2018-45) and **[[airtel-niger|Airtel]]** later folding it into "Starlink by Airtel."
+  A US-satellite/rural-access vs state-sovereignty story: **[[niger--infra-connect]]**. Source:
+  [[2025-03-13-starlink-officially-available-niger-actuniger]].
 - **Kenya CA audit of Airtel Direct-to-Cell (2026-03-10).** The
   [[communications-authority-of-kenya]] opened a technical review of
   [[airtel-africa]]'s application to use Starlink **Direct-to-Cell**, probing

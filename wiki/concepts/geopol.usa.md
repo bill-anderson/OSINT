@@ -2,11 +2,11 @@
 type: concept
 title: US / hyperscaler activities
 slug: geopol.usa
-places: [XGL, XAF, KEN, NGA, ZAF, TCD, ETH, EGY, COD, ZWE, ZMB, RWA, UGA, SEN, MOZ, GAB, SWZ, LSO, MDG, SLE, LBR, CMR, CIV, BWA]
+places: [XGL, XAF, KEN, NGA, ZAF, TCD, ETH, EGY, COD, ZWE, ZMB, RWA, UGA, SEN, MOZ, GAB, SWZ, LSO, MDG, SLE, LBR, CMR, CIV, BWA, NER]
 entities: [[david-eaves], [us-dfc], [us-department-of-commerce], [american-ai-exports-program], [cassava-technologies], [oracle], [cbn], [us-department-of-state], [technology-prosperity-deal], [pax-silica], [us-auc-strategic-investment-working-group], [google], [microsoft], [meta], [openai], [uae], [g42], [jane-munga], [anthropic], [amazon-web-services], [microsoft-sa-2026-expansion], [fccpc], [ncc], [smart-africa], [realtyme], [smart-africa-realtyme-partnership], [starlink], [visa], [onafriq], [visa-mpesa-onafriq-drc-stablecoin-pilot], [america-first-global-health-strategy], [us-kenya-health-framework], [zimbabwe-us-health-mou], [amazon-globalstar-acquisition], [globalstar], [nasa-harvest], [catherine-nakalembe], [tech-corps], [payservices], [payservices-drc-banking-deal], [anthropic-rwanda-mou], [zambia-us-health-mou], [specimen-sharing-agreement], [kff-afghs-mou-tracker], [cloud-act], [zimbabwe-us-health-mou], [au-google-mou], [amazon-leo], [horizon1000], [gates-foundation]]
 lens: [sovereignty, colonialism]
 status: active
-last_reviewed: 2026-07-16
+last_reviewed: 2026-07-19
 sources: [[2025-12-15 The Path to a Sovereign Tech Stack is Via a Commodified Tech Stack  TechPolicy.Press], [2026-06-23 Africa's Data Centre Boom Where The New Facilities Are Being Built], [2026-07-07 Commerce Statement on Application Conclusion, Next Steps of the American AI Exports Program], [2025-01-01 Eaves commodification], [2026-07-07 Kenya's State Department of ICT and Digital Economy discusses digital partnership with Oracle], [2026-07-07 CBN's local data order puts Nigeria's data centres to test], [2026-06-23 A Kenya Technology Prosperity Deal Could Help Washington Secure Durable AI Partnerships with Africa], [2026-01-28 Joint Statement of the United States and African Union on the Launch of a Strategic Investment Working Group], [2026-07-01 Chad and US Explore Partnerships on Satellite Connectivity and Cybersecurity], [2026-06-08 The Promise and Limits of African Data Sovereignty], [2026-07-01 Google has exceeded $1 billion Africa investment target], [2026-06-19 Microsoft SA secures digital talent for govt], [2026-06-09 Meta backs NDPC in landmark privacy initiative], [2026-07-10 Kenya and U.S. Discuss Draft Data Governance Policy to Strengthen Digital Economy], [2026-04-28 OpenAI Breaks Free Of Microsoft, Expands AWS Partnership], [2026-06-01 India's AI deal with the UAE challenges U.S. cloud dominance], [2026-04-17 Microsoft picks South Africa for $329 million expansion in cloud infrastructure and AI training], [2026-05-22 Why global hyperscalers are avoiding Nigeria despite Africa's biggest market], [2026-07-10 Nigeria tests data sovereignty as foreign tech firms facing probe], [2026-04-16 Smart Africa, RealTyme join forces for data sovereignty], [2026-05-26 Africa risks losing billions to satellite internet operators, report says], [2026-05-22 View How SpaceX is making a quiet bet on Africa], [2026-04-23 Africa's $205 Billion Digital Shift Is Redefining Money, and Central Banks Are Losing Control], [2026-07-10 Visa and M-Pesa Launch Blockchain Stablecoin Pilot in DR Congo], [2026-06-04 Series What Europe's AI Market Actually Looks Like], [2026-03-12 How Trump's Data Regulation Crackdown Undermines Digital Sovereignty], [2026-03-02 The U.S. Launches a Peace Corps for AI to Compete With China], [2026-02-25 US accused of 'shameless exploitation' over proposed Zambian health aid deal], [2026-02-26 Zambia rejects U.S. health aid over mining partnership ties], [2026-01-19 US fintech sues DR Congo for $400m over failed banking deal], [2026-03-04 U.S.-based AI firm Anthropic bags first multi-sector government deal in Africa despite policy pressures at home], [2025-11-21 First look Full Text of America First Global Health Strategy Specimen Sharing Agreement], [2026-01-20 Africa Pushes Back On US Health Deals Over Data, Power], [2026-01-01 America First, Africa Last  Data Extraction from Africa's Bodies and the Erosion of Health Sovereignty], [2026-03-05 Africa CDC head cites major concerns over data, pathogen sharing in US health deals], [2026-03-05 THE GATEKEEPERS PART XII], [2026-07-01 Strategy Ahead of Infrastructure, Part I Inside the CBN's June 2026 Payments Circular], [2026-06-05 Microsoft Build 2026 What Caught My Attention and What It Means for Africa], [2026-02-17 Corporate Interests Must Not Co-Opt Africa's AI Moment], [2026-06-24 Does AI Sovereignty Mean Controlling the Keys, or Owning the Building]]
 ---
 
@@ -17,6 +17,14 @@ substrate.
 
 ## Key material
 
+- **[[NER]] Niger — US satellite in an anti-Western junta (2025-2026).** A striking case of US connectivity
+  reaching a junta that expelled Western militaries: **SpaceX/Starlink** launched commercially (13 Mar 2025)
+  under an **Oct-2024 agreement with the ruling junta**, distributed by "100% Nigerien" **[[ninetec]]** (the **US
+  Embassy** economic adviser attending the launch) and later folded into **[[airtel-niger|Airtel]]**'s "Starlink
+  by Airtel." Washington's satellite reach outrunning its diplomatic standing — welcomed for rural access,
+  regulated hard for sovereignty ([[arcep-niger]]). See [[niger--infra-connect]], [[infra.connect]]. Sources:
+  [[2025-03-13-starlink-officially-available-niger-actuniger]],
+  [[2025-05-06-ninetec-nine-starlink-kit-distribution-lesahel]].
 - **Data-governance diplomacy (2026-07, Kenya).** The US Embassy engaged Kenya on its
   **Draft Data Governance Policy (2026)** and cross-border data flows — shaping
   partner-state rules as "trusted digital economy" alignment (soft standard-setting
@@ -278,7 +286,7 @@ substrate.
 
 [[XGL]] · [[XAF]] · [[KEN]] · [[NGA]] · [[ZAF]] · [[ETH]] · [[EGY]] · [[COD]] · [[ZWE]] ·
 [[ZMB]] · [[RWA]] · [[UGA]] · [[SEN]] · [[MOZ]] · [[GAB]] · [[SWZ]] · [[LSO]] · [[MDG]] · [[SLE]] ·
-[[LBR]] · [[CMR]] · [[CIV]] · [[BWA]]
+[[LBR]] · [[CMR]] · [[CIV]] · [[BWA]] · [[NER]]
 
 ## Related
 
