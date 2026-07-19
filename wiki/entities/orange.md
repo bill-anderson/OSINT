@@ -2,12 +2,12 @@
 type: entity
 entity_type: company
 title: Orange
-places: [XWA, XAF, NGA, SEN, CIV, MAR, MDG, MLI]
-topics: [infra.connect, geopol.eu, capacity.training, infra.store, dpi.pay, data.satellite]
+places: [XWA, XAF, NGA, SEN, CIV, MAR, MDG, MLI, BFA, EGY]
+topics: [infra.connect, geopol.eu, capacity.training, infra.store, dpi.pay, data.satellite, include.access, tech.industry]
 lens: [colonialism]
 status: active
-last_reviewed: 2026-07-18
-sources: [[2026-05-23 Orange-backed subsea cable to connect Nigeria, 19 other countries], [2024-05-30 Orange and AWS partner to deliver cloud services in Morocco and Senegal], [2026-01-21 Orange Côte d'Ivoire Launches Orange Sat Satellite Internet to Boost Nationwide Connectivity], [2025-12-04 Is it a bird Is it plane No, Jim, it's an African mobile operator, but not as we know it 9], [2026-02-16 Waking the dead - Slow road to extinction for Africa's former telco incumbents 11], [2025-05-07-techafricanews-orange-mali-intelsat-4g-satellite]]
+last_reviewed: 2026-07-19
+sources: [[2026-07-17-orange-reconditionne-164000-box-internet], [2026-05-23 Orange-backed subsea cable to connect Nigeria, 19 other countries], [2024-05-30 Orange and AWS partner to deliver cloud services in Morocco and Senegal], [2026-01-21 Orange Côte d'Ivoire Launches Orange Sat Satellite Internet to Boost Nationwide Connectivity], [2025-12-04 Is it a bird Is it plane No, Jim, it's an African mobile operator, but not as we know it 9], [2026-02-16 Waking the dead - Slow road to extinction for Africa's former telco incumbents 11], [2025-05-07-techafricanews-orange-mali-intelsat-4g-satellite]]
 ---
 
 # Orange
@@ -19,6 +19,20 @@ legacy dimension.
 
 ## Activity in this wiki
 
+- **Circular economy across the MEA footprint (Rapport RSE 2025, published 2026-07-10; reported
+  2026-07-17).** Orange Middle East & Africa (OMEA) reports refurbishing **164,000 internet boxes in
+  2025, up 43% on 2024**; group-wide it says it **collected 209 tonnes of e-waste**, **recovered
+  354,000 devices** and booked **€13m of savings** from refurbishment and reuse in 2025, under its
+  **OSCAR** and **Re** programmes. The stated model is four-stage — collection, diagnosis,
+  refurbishment where viable, and recycling through accredited channels as a last resort — with
+  restored devices resold at lower prices. Country initiatives: **[[MAR]]** — **6,000 boxes
+  refurbished in 2025**, ~**€1.5m** in savings; **[[BFA]]** — **33 tonnes of mobile equipment
+  collected** with Emmaüs International and Ateliers du Bocage; **[[EGY]]** — a **[[unido|UNIDO]]**
+  partnership established a local electronics-refurbishment unit. Context cited: the *Global E-waste
+  Monitor 2024* put Africa at **~3m tonnes of e-waste generated in 2022, under 1% formally collected
+  and recycled**. *(All figures are the operator's own; the wiki does not hold the underlying CSR
+  report — a gap is filed in `reviews/gaps.md`.)* See [[include.access]], [[tech.industry]], [[XAF]]. Source:
+  [[2026-07-17-orange-reconditionne-164000-box-internet]].
 - **Leads the Via Africa subsea cable consortium (announced 2026-05-12, reported 2026-05-23).**
   Orange heads the consortium behind [[via-africa-cable]], a >20,000km Atlantic corridor
   connecting West Africa to Europe, with expected landings in [[NGA]], [[SEN]], Guinea,

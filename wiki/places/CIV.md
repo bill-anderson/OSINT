@@ -4,9 +4,9 @@ title: Côte d'Ivoire
 code: CIV
 parent: XWA
 place_kind: country
-topics: [gov.policy, gov.legislate, gov.standards, gov.protect, gov.regional, tech.ai, tech.innovate, tech.industry, infra.cybersec, infra.connect, infra.store, data.open, data.statistics, data.satellite, dpi.govtech, dpi.exchange, dpi.id, dpi.registry, dpi.pay, dpi.mis, digital.localgov, digital.rural, capacity.training, capacity.literacy, capacity.research, finance.new, include.access, include.divides, geopol.usa, geopol.china, geopol.eu, geopol.gulf]
+topics: [gov.policy, gov.legislate, gov.standards, gov.protect, gov.regional, tech.ai, tech.innovate, tech.industry, infra.cybersec, infra.connect, infra.store, infra.energy, data.open, data.statistics, data.satellite, dpi.govtech, dpi.exchange, dpi.id, dpi.registry, dpi.pay, dpi.mis, digital.localgov, digital.rural, capacity.training, capacity.literacy, capacity.research, finance.new, include.access, include.divides, geopol.usa, geopol.china, geopol.eu, geopol.gulf]
 status: active
-last_reviewed: 2026-07-18
+last_reviewed: 2026-07-19
 ---
 
 # Côte d'Ivoire (CIV)
@@ -24,6 +24,17 @@ sovereignty; the target is digital **6% → 15% of GDP by 2030**.
 
 ## Recent developments
 
+- **2026-07-18** — **100 electric ride-hailing cars in Abidjan — the first four-wheeler EV bet at scale.**
+  **[[gocab]]**, the mobility fintech that owns **[[yango]]'s** largest CIV fleet, handed **100 fully
+  electric vehicles** to driver-partners — the **first half of a 200-vehicle programme**, and one of
+  Africa's largest operational fleets of **electric ride-hailing cars**, in a market where electric
+  mobility has otherwise been a **two- and three-wheeler** story ([[spiro]]: 100,000+ e-motorcycles,
+  2,500 swap stations, seven markets, 2026-07). GoCab, which **raised $45m in Feb 2026**, pairs the
+  vehicles with **drive-to-own** finance — repayment from ride-hailing income over **three years**, then
+  title — the structure behind [[moove]]'s **$2bn valuation**; **300+ drivers** pass two years in 2026 and
+  **take ownership from 2027**. The economics rest on the company's **own unverified benchmarks** of a
+  **60–80% cut in energy costs**. See **[[civ--tech-innovate]]**, [[infra.energy]], [[tech.industry]].
+  Source: [[2026-07-18-gocab-yango-abidjan-evs]].
 - **2026-07** — **US footprint expands; ARTCI's CERTINUM live.** The US EXIM/Cybastion project reached
   **$170m** (adding smart-border surveillance) with **Starlink** final approval; ARTCI's **[[certinum]]**
   data-protection-compliance platform went live (2 Jul). CIV pitched its roadmap to **ITU** leadership.
@@ -73,7 +84,8 @@ sovereignty; the target is digital **6% → 15% of GDP by 2030**.
 - **Payments** → **[[civ--dpi-pay]]** — [[tresorpay-tresormoney]], [[cdc-ci]]/[[green-pay]], [[djogana-pay]],
   UEMOA interop mandate.
 - **Innovation, skills & sectoral** → **[[civ--tech-innovate]]** — [[ivoire-tech-forum]], Huawei/China
-  layer, Orange×UNDP skills, EMIS/SODECI, [[geoportail-grand-abidjan]].
+  layer, Orange×UNDP skills, EMIS/SODECI, [[geoportail-grand-abidjan]]; and the
+  **[[gocab]]/[[yango]] mobility-fintech and EV** thread (2026).
 - **Data governance & the regulator** — [[artci]] (new Council, CERTINUM), [[caidp]] (access-to-info).
 - **Cybersecurity** — [[anssi-cote-divoire]] (PLCC/CI-CERT; SOC; RSSI network).
 
@@ -86,5 +98,5 @@ sovereignty; the target is digital **6% → 15% of GDP by 2030**.
 **Regulator/cyber:** [[artci]] · [[certinum]] · [[caidp]] · [[anssi-cote-divoire]]
 **Connectivity:** [[ansut]] · [[civix]] · [[africa-bb-maps]] · [[mtn-cote-divoire]] · [[orange-cote-divoire]] · [[orange-sat]] · [[eutelsat]] · [[via-africa-cable]] · [[starlink]]
 **Payments:** [[tresorpay-tresormoney]] · [[cdc-ci]] · [[green-pay]] · [[djogana-pay]] · [[bceao]]
-**Innovation/sectoral:** [[ivoire-tech-forum]] · [[geoportail-grand-abidjan]] · [[yango]] · [[huawei]] · [[undp]]
-Mentioned, not hubbed: PADCI, Industry 4.0 strategy, SDSI 2026-30, OQSF-CI, PAIX/MDXi, Djibril Ouattara / Ibrahim Kalil Konaté (ministers).
+**Innovation/sectoral:** [[ivoire-tech-forum]] · [[geoportail-grand-abidjan]] · [[yango]] · [[gocab]] · [[huawei]] · [[undp]]
+Mentioned, not hubbed: PADCI, Industry 4.0 strategy, SDSI 2026-30, OQSF-CI, PAIX/MDXi, Djibril Ouattara / Ibrahim Kalil Konaté (ministers); Moulaye Tabouré (GoCab CIV MD), Adeniyi Adebayo (Yango Africa CEO). Comparators tagged to their own places: [[moove]] (NGA), [[ampersand]] (RWA/KEN), [[spiro]].

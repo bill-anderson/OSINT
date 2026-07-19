@@ -6,13 +6,117 @@ parent: XWA
 place_kind: country
 topics: [infra.store, infra.energy, infra.connect, infra.capacity, gov.protect, gov.legislate, gov.policy, dpi.id, dpi.registry, dpi.pay, dpi.govtech, dpi.mis, tech.ai, tech.industry, tech.innovate, dpi.exchange, infra.cybersec, include.access, include.divides, digital.rural, digital.localgov, finance.new, finance.mou, data.statistics, capacity.research, capacity.training, capacity.literacy, gov.standards, gov.regional, geopol.usa, geopol.china, geopol.eu]
 status: active
-last_reviewed: 2026-07-16
+last_reviewed: 2026-07-19
 ---
 
 # Nigeria (NGA)
 
 ## Recent developments
 
+- **2026-07-16** — **NESS 2026: school operators say the binding constraint is cash flow, not
+  technology.** At the **[[nigeria-education-supplies-summit|Nigeria Education Supplies Summit]]**
+  (Civic Centre, Victoria Island, Lagos), organised by **[[skld-integrated-services]]**, the
+  counsel to school leaders was to use AI to sharpen existing operations rather than reorganise
+  around it — "AI will confuse the directionless, but AI will enable those with clarity of vision"
+  — with **data literacy** framed as the distinct and more urgent leadership competence. Lotus
+  Bank's treasury head named **late and unpaid school fees** as a central sector problem even at
+  established institutions, and described extending financing **to parents** as well as schools.
+  Enugu Commissioner **[[ndubueze-mbah]]** set out **[[enugu-smart-green-schools]]** — **267
+  schools (2026-07-16)** on **solar power**, connected by **satellite plus local internet
+  infrastructure** — as the state's answer to urban/rural access asymmetry, naming foundational
+  learning, access quality, "the gap in digital interest" and the skills gap as the sector's core
+  problems. *Sponsored TechCabal Partner / Press Room placement — an organiser's account of its own
+  event, not independent reporting; the 267-school figure is the Commissioner's own, with no cost,
+  funding source or completion status disclosed.* See [[nigeria--digital-localgov]],
+  [[nigeria--tech-ai]], [[capacity.literacy]], [[include.divides]], [[infra.energy]]. Source:
+  [[2026-07-18-ness-2026-nigeria-education-summit]].
+- **2026-07-17** — **AI reaches the workplace through the landlord: [[decide-ai|Decide]] ×
+  [[cafeone]].** Decide, whose agent lets users analyse spreadsheets by natural-language prompt,
+  launched **Decide for Work** — an enterprise arm distributing through **universities, co-working
+  spaces and professional communities** rather than individual sign-ups. First partner: CafeOne
+  (**>30 Nigerian locations, 2026-07**; tiers **₦8,525/$6.15 daily to ₦109,950/$79.36 monthly,
+  2026-07**), which bundles premium Decide credits into memberships. Founder
+  **[[abiodun-adetona]]** (ex-[[flutterwave]]): the gap is adoption, not capability. Company-
+  reported: **>41,000 analysis runs**, **>21,000 spreadsheets**, users in **>10 countries**,
+  **82.5% on SpreadsheetBench (2026-07-17)** — all self-reported and unverified here. The
+  governance point: the workspace operator becomes the party mediating which AI tools its members
+  meet and on what data terms. See [[nigeria--tech-ai]], [[tech.industry]]. Source:
+  [[2026-07-17-decide-cafeone-enterprise-ai]].
+- **2026-07-17** — **[[codar]] raises $1.5m for AI education.** The Nigerian digital-skills
+  training company closed **$1.5m** ([[codar-funding-round-2026]]) via **equity and debt**
+  (**investors, valuation and stage undisclosed**), backed by **[[kwe4-africa-venture-studio]]**,
+  to expand AI programmes, enhance its online platform, build learning hubs and widen scholarships
+  in underserved communities. Self-reported **>5,000 active learners** and **>70,000 students
+  reached (2026-07-17)**, with no completion, certification or placement rate given. *Sponsored
+  TechCabal Partner / Press Room placement — a first-hand company announcement, not independent
+  reporting.* Notable as **venture-financed** AI skilling beside the donor- and vendor-financed
+  programmes on [[capacity.training]]. See [[tech.ai]], [[finance.new]], [[XAF]]. Source:
+  [[2026-07-17-codar-raises-1-5m-ai-education]].
+- **2026-06-02** — **Japan equips 15 Colleges of Education (handover, reported 2026-07-17).**
+  **[[japan]]** funded ICT equipment — laptops, tablets, desktops, smart boards, projectors,
+  printers and backup hard drives — for **15 Colleges of Education**, handed over at the
+  **[[federal-ministry-education-nigeria|Federal Ministry of Education]]** in Abuja by Chargé
+  d'Affaires **Hitoshi Kozaki**, under a Japan-funded teacher-capacity project implemented with
+  **[[unesco-iicba]]**: *Capacity Building of Teachers to Promote Continuous and Inclusive Access
+  to Safe and Quality Education for Girls in West Africa*. **No monetary value, recipient list,
+  connectivity/maintenance provision or timeframe is disclosed.** Aimed at the teacher-training
+  tier rather than at learners directly. See [[capacity.training]], [[capacity.literacy]],
+  [[include.access]]. Source: [[2026-07-17-japan-ict-equipment-nigerian-colleges]].
+- **2026-07-18** — **Retail investing returns at scale — and the bottleneck is a registry.** Domestic
+  retail investors traded **₦2.86 trillion of equities in Jan–May 2026, +138.76%** year-on-year (₦1.20
+  trillion in Jan–May 2025), reaching **36.22% of all trading activity**, per **[[nigerian-exchange|NGX]]**
+  data; institutions still traded more (**₦4.06 trillion**). The channel is app-based — **[[bamboo]]**,
+  **[[cowrywise]]**, Trove, Risevest, plus incumbent platforms from **[[meristem-securities]]** and
+  **[[afrinvest]]**, and the exchange's own **NGX Invest (2024)**. Bamboo says it **became NGX's largest
+  broker by weighted market share in April 2026** (11.13%, 542,582 trades), its base largely **18–34**;
+  CEO **[[richmond-bassey]]** dates the surge to the previous 18 months. Nigerian equities returned
+  **67% in dollar terms in 2026 to date**, reported as the best of 92 exchanges Bloomberg tracks. The
+  data-governance finding sits underneath the rally: participants name **registrar record-keeping** —
+  inconsistent shareholder-name recording delaying dividends — not trading technology, as the binding
+  failure. Held against the **2008 crash** (an estimated **₦6.96 trillion** lost in nine months), where
+  **[[csl-stockbrokers]]**'s Mustapha Umaru argues governance and NGX regulation have since strengthened
+  — a forecast made mid-rally. See [[nigeria--dpi-pay]], [[dpi.pay]], [[tech.industry]],
+  [[capacity.literacy]]. Source: [[2026-07-18-nigeria-retail-investing-boom]].
+- **2026-07-17** — **Credit scored from payment traces: [[mathesis-analytics]] raises from
+  [[first-ally-capital]].** The Nigerian startup scores **people without bank accounts** by analysing
+  their **payment patterns across mobile apps**, selling creditworthiness assessments to banks; the
+  round ([[mathesis-analytics-first-ally-funding-2026]]) funds AI expansion. **Amount, valuation and
+  stage undisclosed.** The company says the system has **supported eight million loans in Nigeria** (as
+  of 2026-07-17) — a cumulative figure with no stated start date or default data. Extends credit access
+  while converting payment data into an underwriting input; consent, purpose limitation and
+  contestability of automated refusals are unaddressed in the held source. See [[nigeria--dpi-pay]],
+  [[tech.ai]], [[include.access]], [[finance.new]]. Source:
+  [[2026-07-17-mathesis-analytics-raises-funding-ai-lending]].
+- **2026-07-17** — **[[skydd]] opens its insurance rails to third parties.** The Nigerian
+  insure-fintech named **[[chituru-nsirim]]** and **[[anu-oyeleye]]** to lead its next phase and said
+  it is **opening its protection infrastructure to banks, fintechs, employers, merchants and
+  developers** for embedded insurance, alongside a consumer platform combining protection, savings,
+  wallets and cards. Company figures: **>20,000 active customers**, **positive EBITDA and cash flows**
+  (2026-07-17). *Sponsored TechCabal Partner / Press Room placement — a first-hand company
+  announcement, not independent reporting; claims are unverified and self-described.* See
+  [[nigeria--dpi-pay]], [[tech.industry]], [[include.access]]. Source:
+  [[2026-07-17-skydd-insure-fintech-leadership]].
+- **2026-07-15** — **CBN instruments the retail forex market.** A **[[cbn]]** circular (signed
+  Aderinola Shonekan, Trade and Exchange Department) launched the
+  **[[fx-bdc-purchase-tracker|FX BDC Purchase Tracker]]**: every licensed **Bureau de Change** must
+  report FX purchases in **real time or same-day**, giving the CBN transaction-level oversight.
+  **Banks are first-line enforcement** (KYC, due diligence, ownership verification, rejecting
+  non-compliant BDCs) but barred from exclusivity or referral fees; **unsold official-market FX
+  returns within 24 hours**. Builds on the **Feb-2026** $150,000/week BDC purchase allowance and the
+  licensing of **82 BDCs (Dec 2025)**. Formalisation by measurement — the same supervisory-data
+  instinct as the localisation directive, from the other end. See [[dpi.pay]], [[gov.legislate]],
+  [[nigeria--dpi-pay]]. Source: [[2026-07-17-nigeria-central-bank-digitises-forex-oversight]].
+- **2026-07-10** — **Nigeria co-chairs the ITU–ICPC cable-resilience body to completion.** The
+  **[[international-advisory-body-on-submarine-cable-resilience]]** approved its **final report** at WSIS
+  Forum 2026, closing a two-year programme **co-chaired by Minister [[bosun-tijani]]** (with Portugal's
+  Sandra Maximiano) that ran summits in **Abuja (2025)** and Porto (2026). Seven priorities: government–
+  industry coordination, streamlined permitting, risk monitoring, route diversity/redundancy, preparedness,
+  the needs of vulnerable regions (LDCs/SIDS), and climate integration. **[[watra]]** urged the 16 West
+  African regulators to act on it collectively (2026-07-15), citing the March-2024 multi-cable break. The
+  most senior African seat in global digital-infrastructure standard-setting on file — set against Nigeria's
+  own record fibre-cut numbers below. See [[infra.connect]], [[gov.standards]], [[gov.regional]], [[XWA]].
+  Sources: [[2026-07-10-itu-icpc-advisory-body-cable-resilience-report]],
+  [[2026-07-15-watra-regional-subsea-resilience-plan]].
 - **2026-07-15** — **Fibre cuts hit a record (NCC data).** Nigeria logged **155,397 fibre-cut incidents**
   in **Apr–May 2026** (74,276 → a record **79,121**), a **2,428% jump** on Q1 — **vandalism** the leading cause
   (>54,000) despite telecom infra's **Critical National Information Infrastructure** status; road works,
@@ -215,7 +319,13 @@ _Full dated chronology (2025–mid-2026) lives in the linked source pages and th
   exclusion; AI-sovereignty push and US-tech dependence; US–China AI-stack contest (DeepSeek gaining
   Nigerian users); **[[teknowledge]]–[[microsoft]]** Phase 2 (10,000 trainees); frugal-AI overtures
   (Cambridge Hub); Google DeepMind AI Research Foundations + FATE $4m; Hustle Academy; NITDA
-  **[[dl4all-nitda]]** digital-literacy drive (>480k trained; PWD inclusion).
+  **[[dl4all-nitda]]** digital-literacy drive (>480k trained; PWD inclusion); and, from 2026-07, a
+  **private adoption layer** — [[decide-ai]]/[[cafeone]] distributing AI through workplaces,
+  [[codar]] selling venture-financed AI skilling, and [[japan]]/[[unesco-iicba]] equipping
+  teacher-training colleges. Full case: [[nigeria--tech-ai]].
+- [[digital.localgov]] · [[infra.energy]] — state-tier build-out: **[[enugu-smart-green-schools]]**
+  (267 solar-powered, satellite-connected schools, 2026-07-16), Lagos MyLagosApp, Abia/ipNX, Benue
+  civil-service skilling. Full case: [[nigeria--digital-localgov]].
 - [[dpi.pay]] · [[finance.new]] · [[finance.mou]] · [[include.divides]] — CBN fintech **passporting**
   blueprint (Ghana/Kenya/Senegal/SA) and Responsible-AI-in-Finance Hub; **[[papss]]–[[onafriq]]**
   Naira rail (Nigeria→Ghana); stablecoins vs monetary sovereignty (CBN task force, cNGN);
@@ -234,6 +344,10 @@ _Full dated chronology (2025–mid-2026) lives in the linked source pages and th
 - [[cbn]] · [[cbn-policy-insight-series-2025]] · [[nimc]] · [[nigeria-id4d]] · [[mtn-group]] · [[ralph-mupita]] · [[airtel-africa]] · [[afcfta]] · [[afcfta-digital-trade-protocol]] · [[papss]] · [[onafriq]] · [[ecowas]]
 - [[cassava-ai-factories]] · [[africa-data-centres]] · [[cassava-technologies]] · [[liquid-c2]] · [[kasi-cloud]] · [[nsia]]
 - [[fccpc]] · [[govguide-nigeria]] · [[orange]] · [[via-africa-cable]] · [[backbone-connectivity-network-nigeria]] · [[nigeria-eqguinea-subsea-cable]] · [[nucap]] · [[nigcomsat]]
+- **New this batch (AI, skills & education, 2026-07-19):** [[codar]] · [[codar-funding-round-2026]] ·
+  [[kwe4-africa-venture-studio]] · [[decide-ai]] · [[cafeone]] · [[abiodun-adetona]] ·
+  [[nigeria-education-supplies-summit]] · [[skld-integrated-services]] · [[ndubueze-mbah]] ·
+  [[enugu-smart-green-schools]] · [[japan]] · [[unesco-iicba]]
 - **New this batch:** [[nibss]] · [[national-payment-stack]] · [[papsscard]] · [[mtn-nigeria]] · [[amazon-leo]] · [[nira-nigeria]] · [[inec]] · [[digital-rights-lawyers-initiative]] · [[x-corp]] · [[bola-tinubu]] · [[federal-ministry-education-nigeria]] · [[dnemis-nigeria]] · [[dl4all-nitda]]
 - **New this batch (2026-07-16 NGA ingest):** [[ngdx]] · [[ninauth]] · [[enbic]] · [[npc-nigeria]] · [[e-crvs-nigeria]] · [[mtn-sifiso-dabengwa-data-centre]] · [[airtel-nxtra-eko-atlantic-data-centre]] · [[oadc]] · [[nigeria--dpi-exchange]]
 - [[nitda]] · [[kashifu-inuwa]] · [[ngea]] · [[galaxy-backbone]] · [[ndpc]] · [[ncc]] · [[bosun-tijani]] · [[meta]] · [[ndpc-meta-settlement]]

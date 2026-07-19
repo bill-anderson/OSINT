@@ -2,12 +2,12 @@
 type: entity
 entity_type: organisation
 title: African Development Bank (AfDB)
-places: [CPV, TGO, MRT, XAF, XSS]
+places: [CPV, TGO, MRT, XAF, XSS, GHA]
 topics: [finance.new, gov.policy, gov.regional, infra.store, data.statistics, dpi.pay]
 lens: [sovereignty, colonialism]
 status: active
-last_reviewed: 2026-07-18
-sources: [[2026-04-13-pamif-financial-inclusion-afdb], [2026-05-26 AfDB says Africa must fund its own growth as aid model frays], [2026-02-26 The AfDB's push for African financial sovereignty, and a tech investment rebound], [2025-05-14 Cabo Verde unveils TechPark CV tech-islands vision ($50m AfDB)], [2025-05-16 Cabo Verde opens Mindelo TechPark CV campus ($58M)], [2025-10-01 BCEAO Launches Instant Payments Platform in Togo with Three Banks]]
+last_reviewed: 2026-07-19
+sources: [[2026-04-13-pamif-financial-inclusion-afdb], [2026-05-26 AfDB says Africa must fund its own growth as aid model frays], [2026-02-26 The AfDB's push for African financial sovereignty, and a tech investment rebound], [2025-05-14 Cabo Verde unveils TechPark CV tech-islands vision ($50m AfDB)], [2025-05-16 Cabo Verde opens Mindelo TechPark CV campus ($58M)], [2025-10-01 BCEAO Launches Instant Payments Platform in Togo with Three Banks], [2026-07-17-kutanapay-ai-blockchain-cross-border-trade]]
 ---
 
 # African Development Bank (AfDB)
@@ -19,6 +19,12 @@ and building the [[nafa]] (New African Financial Architecture) to do it.
 
 ## Activity in this wiki
 
+- **The trade-finance gap figure (as cited 2026-07-17).** AfDB estimates Africa's annual trade-finance
+  gap at **$74bn–$92bn**, and projects the shortfall reaching **$86.6bn by 2027**. The bank's number is
+  the standard market-sizing citation for cross-border trade-payments ventures — used, for instance, by
+  Ghana's [[kutanapay]] — so it is held here dated and attributed rather than absorbed as current fact.
+  The underlying AfDB publication is **not held**; the figure reaches the wiki through a trade-press
+  account. Source: [[2026-07-17-kutanapay-ai-blockchain-cross-border-trade]].
 - **African Economic Outlook 2026.** The AfDB's flagship data publication reports Africa GDP
   growth of 4.4% in 2025 and 4.2% in 2026, against an SDG financing gap of more than
   $1.3tn/yr. It quantifies domestic-resource headroom: a public-investment efficiency gap of

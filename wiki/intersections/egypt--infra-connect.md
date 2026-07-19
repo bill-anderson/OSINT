@@ -8,8 +8,8 @@ topics: [infra.connect, infra.store, finance.new, digital.rural, include.access,
 entities: [[telecom-egypt], [ntra-egypt], [mcit-egypt]]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-18
-sources: [[[2025-01-23-telecom-egypt-cisco-2africa-mediterranean-ahram]], [[2026-05-24-telecom-egypt-huawei-fttr-launch-ahram]], [[2026-06-30-telecom-egypt-fiber-5m-lines-1250-villages-hayat-karima-youm7]], [[2026-02-10-egypt-3-5b-spectrum-deal-5g-connectingafrica]], [[2026-06-02-egypt-6bn-telecom-investment-since-2019-techafricanews]], [[2025-12-01-2africa-boosts-egypt-digital-exports-internet-costs-ahram]]]
+last_reviewed: 2026-07-19
+sources: [[2025-01-23-telecom-egypt-cisco-2africa-mediterranean-ahram], [2026-05-24-telecom-egypt-huawei-fttr-launch-ahram], [2026-06-30-telecom-egypt-fiber-5m-lines-1250-villages-hayat-karima-youm7], [2026-02-10-egypt-3-5b-spectrum-deal-5g-connectingafrica], [2026-06-02-egypt-6bn-telecom-investment-since-2019-techafricanews], [2025-12-01-2africa-boosts-egypt-digital-exports-internet-costs-ahram], [2026-07-17-egypt-deepens-world-bank-digital-partnership]]
 ---
 
 # Egypt × Connectivity
@@ -39,7 +39,11 @@ push runs alongside rising consumer complaints over price.
 - **WE + [[huawei]] FTTR** (fibre-to-the-room) launched — a first in Egypt (2026-05; `geopol.china`).
 - **"Decent Life" (Hayat Karima) rural fibre:** ~**5m fibre lines across 1,250+ of 1,450 target villages**
   (20 governorates), a dated trajectory **267 (end-2023) → 856 (end-2024) → 1,000+ (2025) → 1,250+ (mid-2026)**.
+  **[[mcit-egypt|MCIT]] restated "more than 1,250 villages" on 2026-07-17** in talks with the
+  **[[world-bank]]** — corroborating the mid-2026 figure and confirming Decent Life
+  ([[decent-life-initiative]]) as the named vehicle for the ministry's rural-connectivity and
+  telecom-upgrade work. Source: [[2026-07-17-egypt-deepens-world-bank-digital-partnership]].
 
 ## Links
 
-Place: [[EGY]] · Concepts: [[infra.connect]] · [[digital.rural]] · Region: [[XNA]] · Entities: [[telecom-egypt]] · [[ntra-egypt]] · [[infra.store]]
+Place: [[EGY]] · Concepts: [[infra.connect]] · [[digital.rural]] · Region: [[XNA]] · Entities: [[telecom-egypt]] · [[ntra-egypt]] · [[mcit-egypt]] · [[decent-life-initiative]] · [[world-bank]] · [[infra.store]]

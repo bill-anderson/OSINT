@@ -218,3 +218,54 @@ removes the item here. A short `issues.md` means you're caught up.
   as Eneo, with the Socadel claim flagged in-text and no `socadel` entity created. *Recommend:* leave as
   Eneo pending a second source; if the rename is confirmed, record it with an effective date and add a
   redirect note on the Eneo entity. *Decision:* (awaiting). (Surfaced ingest CMR chunk 3, 2026-07-18.)
+
+- **ISSUE-016 · May a verbatim re-capture replace a paraphrased body in an immutable `raw/` source?**
+  The daily sweep re-fetched [[2026-07-17-ucc-national-push-against-digital-piracy]] (UCC anti-piracy,
+  TechAfrica News) and captured the **full verbatim article, 688 words**. The held copy is
+  `body_completeness: excerpt` and is **not verbatim** — it is a compressed AI summary (186 words) that
+  drops facts the wiki would use: Thembo's warning that piracy exposes consumers to cybersecurity risk,
+  fraud and identity theft; the Canal+ presenter's name (Kiaren Bently); and the meeting's closing
+  commitments. Two rules collide and neither yields: CLAUDE.md declares `raw/` **"immutable after ingest,
+  never edited,"** while `sweep/daily-README.md` (Standing capture rule) says **"never store an AI
+  paraphrase as the body."** The held file is exactly the thing the capture rule forbids, and immutability
+  forbids fixing it. **This is systemic, not a one-off: 1,016 of 4,462 `raw/` files (23%) carry
+  `body_completeness: excerpt`**, so the ruling sets policy for a quarter of the corpus.
+  *Recommend:* permit verbatim re-capture as a **bounded exception** — allowed only when the URL is
+  identical, only to replace a paraphrase/excerpt with the source's own words, keeping the original
+  filename, frontmatter and `retrieved`/`sweep_batch`, flipping `body_completeness` to `full`, and logging
+  each instance. Immutability exists to stop **retroactive reinterpretation** of the record, not to freeze
+  a known fidelity defect; restoring an article's actual words is completing the record, not rewriting it.
+  Pending the call CC has **not** touched the held file; the verbatim capture is parked at
+  `_leads/2026-07-17-ucc-anti-piracy-VERBATIM-RECAPTURE.md` so it is not lost. If you decline, that parked
+  file should simply be deleted. *Decision:* (awaiting). (Surfaced ingest daily-2026-07-19, 2026-07-19.)
+
+- **ISSUE-017 · Japanese activity has no `geopol.*` slug — tag by topic, or extend the vocabulary?**
+  The taxonomy carries `geopol.usa`, `geopol.china`, `geopol.eu`, `geopol.india` and `geopol.gulf`,
+  but nothing for Japan, which enters the wiki this batch as the funder of ICT equipment for **15
+  Nigerian Colleges of Education** via [[unesco-iicba]] (see [[japan]]). Japan is a long-standing
+  African development actor (TICAD, JICA) and is likely to recur, but this is the **first** held item,
+  so a new Level-2 slug on one source would be premature — and the same question is latent for Korea
+  (KOICA already appears in held material via NGEA) and for the Nordic states. Pending the call, CC has
+  tagged the Japan entity and its source by the **topics the activity serves** (`capacity.training`,
+  `capacity.literacy`, `include.access`) and left `geopol.*` off entirely, with a taxonomy note on the
+  entity page. *Recommend:* leave the vocabulary unchanged for now and revisit once a **third** Japanese
+  (or Korean) item lands, at which point add `geopol.japan` — or, better, a single `geopol.other`
+  catch-all — rather than minting one slug per donor state. Note this is a **taxonomy question, not a
+  CLAUDE.md schema change**: `taxonomy.md` is the authority and the vocabulary is yours to set.
+  *Decision:* (awaiting). (Surfaced ingest daily-2026-07-19, 2026-07-19.)
+
+- **ISSUE-018 · Two competing `sources:` frontmatter conventions across the corpus — which is canonical?**
+  Wiki pages serialise `sources:` two incompatible ways: the majority **`sources: [[a], [b], [c]]`**
+  (1,789 pages) and a minority **`sources: [[[a]], [[b]], [[c]]]`** (217 pages, e.g. `ngic-ghana`,
+  `telecom-egypt`, `egypt--infra-store`, `ghana--infra-connect`). Each is internally consistent, so
+  neither is "broken" — but a parser or lint reading one convention mis-reads the other, and this batch
+  showed the practical cost: agents appending to a page in the *other* style produced genuinely malformed
+  hybrids (`[[[A], [[B], [C]…`) on `dpi.govtech`, `dpi.pay` and `infra.connect`. **Those three are already
+  repaired** (tier-1); the underlying inconsistency is not. CLAUDE.md doesn't settle it — its only
+  multi-item example is for `entities:` (`[[cassava-technologies], [nvidia]]`), and its `sources:` examples
+  are single-item, where both conventions look identical. *Recommend:* declare **`[[a], [b]]` canonical**
+  (it matches the `entities:` example and holds the large majority), then normalise the 217 minority pages
+  in one mechanical sweep — as its own commit, not folded into an ingest — and add a lint check so the
+  hybrid can't recur. CC has **not** run that sweep: 217 files touching `[[link]]` syntax is too large and
+  too link-adjacent to do as a side effect of a batch. *Decision:* (awaiting).
+  (Surfaced ingest daily-2026-07-19, 2026-07-19.)

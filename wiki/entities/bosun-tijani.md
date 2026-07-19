@@ -3,11 +3,11 @@ type: entity
 entity_type: person
 title: Bosun Tijani
 places: [NGA]
-topics: [gov.policy, gov.legislate, tech.ai, gov.protect, finance.mou, dpi.registry]
+topics: [gov.policy, gov.legislate, tech.ai, gov.protect, finance.mou, dpi.registry, infra.connect, gov.standards, gov.regional]
 lens: []
 status: active
-last_reviewed: 2026-07-11
-sources: [[2026-07-08 FG Halts Enforcement of New Regulations on Internet Platforms], [2026-06-04 Chinese bank backs Nigeria towers project], [2026-05-22 Nigeria launches GovGuide, an AI chatbot for public service access], [2026-03-05 Nigeria approves modern digital postcode system], [2026-03-01 Nigeria Signs MoU With Finland On Digital Innovation, Deepens Bilateral Ties], [2026-03-04 Nigeria takes new measures to regulate AI]]
+last_reviewed: 2026-07-19
+sources: [[2026-07-10-itu-icpc-advisory-body-cable-resilience-report], [2026-07-15-watra-regional-subsea-resilience-plan], [2026-07-08 FG Halts Enforcement of New Regulations on Internet Platforms], [2026-06-04 Chinese bank backs Nigeria towers project], [2026-05-22 Nigeria launches GovGuide, an AI chatbot for public service access], [2026-03-05 Nigeria approves modern digital postcode system], [2026-03-01 Nigeria Signs MoU With Finland On Digital Innovation, Deepens Bilateral Ties], [2026-03-04 Nigeria takes new measures to regulate AI]]
 ---
 
 # Bosun Tijani
@@ -18,6 +18,18 @@ other ministers/heads of state in the wiki).
 
 ## Activity in this wiki
 
+- **Co-chaired the ITU–ICPC cable-resilience body to completion (2026-07-10).** Tijani co-chaired the
+  **[[international-advisory-body-on-submarine-cable-resilience]]** (with Portugal's Sandra
+  Maximiano) through its full two-year programme — summits in **Abuja (2025)** and **Porto (2026)** —
+  to the approval of its final report at WSIS Forum 2026. He called the recommendations "an important
+  milestone in strengthening the resilience of this critical infrastructure through greater
+  international cooperation, practical policy guidance, and shared responsibility." **[[watra]]**'s
+  Executive Secretary read Nigeria's chairmanship as evidence of subsea resilience's rising strategic
+  weight for African digital transformation. The highest-profile African seat in global
+  digital-infrastructure standard-setting currently on file. See [[infra.connect]],
+  [[gov.standards]], [[gov.regional]], [[XWA]]. Sources:
+  [[2026-07-10-itu-icpc-advisory-body-cable-resilience-report]],
+  [[2026-07-15-watra-regional-subsea-resilience-plan]].
 - **Regulatory harmonisation directive (2026-07).** Tijani suspended the implementation
   and enforcement of newly-introduced regulations on internet platforms, online
   intermediaries and cross-cutting digital-economy issues, **pending a harmonised national
@@ -60,6 +72,8 @@ other ministers/heads of state in the wiki).
 
 ## Sources
 
+- [[2026-07-10-itu-icpc-advisory-body-cable-resilience-report]]
+- [[2026-07-15-watra-regional-subsea-resilience-plan]]
 - [[2026-07-08 FG Halts Enforcement of New Regulations on Internet Platforms]]
 - [[2026-06-04 Chinese bank backs Nigeria towers project]]
 - [[2026-05-22 Nigeria launches GovGuide, an AI chatbot for public service access]]

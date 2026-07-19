@@ -6,8 +6,8 @@ places: [XGL, XAF]
 topics: [infra.connect, gov.standards, infra.cybersec]
 lens: []
 status: active
-last_reviewed: 2026-07-13
-sources: [[2025-09-01 About the ICPC], [2025-04-03 Beneath the Waves Addressing Vulnerabilities in Africa's Undersea Digital Infrastructure], [2026-07-13 ‘How Nigeria, others can secure undersea Internet cables’]]
+last_reviewed: 2026-07-19
+sources: [[2025-09-01 About the ICPC], [2025-04-03 Beneath the Waves Addressing Vulnerabilities in Africa's Undersea Digital Infrastructure], [2026-07-13 ‘How Nigeria, others can secure undersea Internet cables’], [2026-07-10-itu-icpc-advisory-body-cable-resilience-report]]
 ---
 
 # International Cable Protection Committee (ICPC)
@@ -17,9 +17,9 @@ organisation promoting submarine-cable protection and resilience. Founded in the
 **UK on 22 May 1958**, it is a non-profit whose membership comprises governmental
 administrations and commercial companies that own or operate submarine
 telecommunications or power cables, plus cable-ship operators and other industry
-interests. As of **September 2025** it had **more than 235 members from over 70
-countries/territories** — including most of the world's major cable-system owners
-and cable-ship operators.
+interests. Membership: **more than 270 organisations from over 75 countries (as of
+2026-07)**, up from **more than 235 from over 70 countries (September 2025)** —
+including most of the world's major cable-system owners and cable-ship operators.
 
 ## Mandate and function
 
@@ -44,9 +44,10 @@ of contact for incident reporting, marine spatial planning / cable corridors, an
 recognising subsea cables as critical infrastructure.
 
 In **November 2024** the ICPC co-launched, with the **[[itu]]** (ITU), the
-**International Advisory Body for Submarine Cable Resilience** — co-chaired by
-Nigerian Communications Minister [[bosun-tijani]] — bringing governments,
-regulators and industry together on cable resilience. The ICPC also notes that,
+**[[international-advisory-body-on-submarine-cable-resilience|International Advisory Body on
+Submarine Cable Resilience]]** — co-chaired by Nigerian Communications Minister
+[[bosun-tijani]] — bringing governments, regulators and industry together on cable
+resilience; it now has its own page. The ICPC also notes that,
 as of 2022, only ~60 cable ships existed worldwide; the Carnegie paper adds that
 fewer than ~100 repair ships exist globally and **only three serve Africa**.
 
@@ -61,8 +62,17 @@ fewer than ~100 repair ships exist globally and **only three serve Africa**.
   Vulnerabilities are most acute for LDCs/SIDS and **Sub-Saharan Africa**, where a single cut can
   cause "digital darkness." See [[infra.connect]], [[gov.standards]], [[gov.regional]], [[XSS]].
   Source: [[2026-07-13 ‘How Nigeria, others can secure undersea Internet cables’]].
+- **Primary confirmation — ITU release, 2026-07-10.** The ITU's own announcement fixes the date of
+  approval (**10 July 2026**, at WSIS Forum 2026 / Geneva Digital Week), names the executive
+  secretaries (ITU DSG **Tomas Lamanauskas**, ICPC Legal Advisor **Kent Bressie**), and records the
+  full seven-item priority list — including **streamlined permitting**, **addressing the needs of
+  vulnerable regions** and **integrating climate and environmental considerations**. Cables carry
+  **>99% of global data traffic** (ITU, 2026). Detail now lives on
+  [[international-advisory-body-on-submarine-cable-resilience]]. Source:
+  [[2026-07-10-itu-icpc-advisory-body-cable-resilience-report]].
 
 ## Related
+- [[international-advisory-body-on-submarine-cable-resilience]]
 - [[carnegie-endowment]]
 - [[jane-munga]]
 - [[african-union]]

@@ -2,12 +2,12 @@
 type: concept
 title: Literacy
 slug: capacity.literacy
-places: [NGA, GHA, UGA, ETH, ZMB, LBR, XAF]
-entities: [[nitda], [dl4all-nitda], [kashifu-inuwa], [after-access], [research-ict-africa], [gsma], [mtn-group], [viamo]]
+places: [NGA, GHA, UGA, ETH, ZMB, LBR, XAF, KEN]
+entities: [[nitda], [dl4all-nitda], [kashifu-inuwa], [after-access], [research-ict-africa], [gsma], [mtn-group], [viamo], [csl-stockbrokers], [nigerian-exchange], [bamboo], [communications-authority-of-kenya], [japan], [unesco-iicba], [nigeria-education-supplies-summit]]
 lens: [colonialism]
 status: active
-last_reviewed: 2026-07-12
-sources: [[2026-01-23 NITDA Commits to Digital Inclusion for Persons with Disabilities], [2026-02-02 After Access qualitative study of gender and digital technologies Nigeria report], [2026-02-17 After Access qualitative study on gender and digital technologies Ethiopia report], [2026-02-02 After Access qualitative study on gender and digital technologies Ghana report], [2026-02-05 After Access qualitative study on gender and digital technologies Uganda report], [2026-01-15 Leveraging AI to Bypass the Smartphone Barrier and Advance Digital Inclusion in Africa], [2026-01-07 Digital driving licence coming to South Africa]]
+last_reviewed: 2026-07-19
+sources: [[2026-01-23 NITDA Commits to Digital Inclusion for Persons with Disabilities], [2026-02-02 After Access qualitative study of gender and digital technologies Nigeria report], [2026-02-17 After Access qualitative study on gender and digital technologies Ethiopia report], [2026-02-02 After Access qualitative study on gender and digital technologies Ghana report], [2026-02-05 After Access qualitative study on gender and digital technologies Uganda report], [2026-01-15 Leveraging AI to Bypass the Smartphone Barrier and Advance Digital Inclusion in Africa], [2026-01-07 Digital driving licence coming to South Africa], [2026-07-18-nigeria-retail-investing-boom], [2026-07-17-ca-kenya-computer-donations-siaya-schools], [2026-07-17-japan-ict-equipment-nigerian-colleges], [2026-07-18-ness-2026-nigeria-education-summit]]
 ---
 
 # Literacy (`capacity.literacy`)
@@ -20,6 +20,21 @@ across this domain as an *inclusion barrier* rather than a solved precondition.
 
 ## Key material
 
+- **Financial literacy as a market-participation variable ([[NGA]], 2026-07-18).** Nigeria's
+  retail-investing surge is attributed by market participants not only to app access but to the
+  **de-mystification of investment knowledge**. Mustapha Umaru of **[[csl-stockbrokers]]**: financial
+  education was "confined to investment seminars and brokerage offices" and is now "not as abstract as
+  it used to be… broken down to the barest form for every investor to be able to pick up," carried by
+  podcasts, newsletters and social media. The measurable outcome sits alongside it — retail investors
+  traded **₦2.86 trillion of equities in Jan–May 2026 (+138.76% y/y)**, reaching **36.22% of trading
+  activity** (**[[nigerian-exchange|NGX]]** data), with **[[bamboo]]**'s customer base largely aged
+  **18–34**. Two cautions the wiki keeps attached: the literacy claim is **asserted by market
+  participants during a rally**, with no literacy measurement behind it; and several investors on
+  record describe picking "big names that are popular on the app" and following influencers, which is
+  access without analysis — **participation is not the same as literacy**, and the distinction matters
+  most in exactly the conditions (a 67% dollar-return year) that make it hardest to see. See
+  [[include.access]], [[nigeria--dpi-pay]], [[dpi.pay]]. Source:
+  [[2026-07-18-nigeria-retail-investing-boom]].
 - **A national literacy target — NITDA DL4ALL ([[NGA]], 2026-01).** Nigeria's
   **[[dl4all-nitda]]** ("Digital Literacy for All"), run by **[[nitda]]** (DG
   [[kashifu-inuwa]]), sets explicit national goals of **70% digital literacy by 2027 and
@@ -48,6 +63,35 @@ across this domain as an *inclusion barrier* rather than a solved precondition.
   [[include.access]], [[include.divides]]. Source:
   [[2026-01-15 Leveraging AI to Bypass the Smartphone Barrier and Advance Digital Inclusion in Africa]].
 
+- **Data literacy as a leadership competence, not a curriculum item ([[NGA]], 2026-07-16).** At
+  [[nigeria-education-supplies-summit|NESS 2026]] in Lagos, the data-literacy argument was aimed at
+  **school owners and leaders** rather than pupils: "Your ability to make sense of data gives you
+  an edge in your industry… the data you gather must provide intelligence, and must give you the
+  capacity to predict what is going to happen tomorrow." It was explicitly distinguished from the
+  AI conversation running alongside it. The framing matters for this page because it locates
+  literacy at the **institutional decision layer** — the people who choose whether a school
+  collects, keeps and acts on data at all — rather than only at the individual-user layer. *Made by
+  a software vendor at a supplier-organised summit, carried by a sponsored TechCabal Partner /
+  Press Room placement; recorded as a stated position, not a finding.* See [[tech.ai]],
+  [[nigeria--tech-ai]]. Source: [[2026-07-18-ness-2026-nigeria-education-summit]].
+- **Hardware donations as the literacy on-ramp — and the evidence they don't supply ([[NGA]],
+  [[KEN]], 2026-06/07).** Two device-donation items landed in the same week, both framed by their
+  principals as digital-literacy interventions. **[[japan]]**, via **[[unesco-iicba]]** and the
+  **[[federal-ministry-education-nigeria|Federal Ministry of Education]]**, equipped **15 Nigerian
+  Colleges of Education** (handover **2026-06-02**) with laptops, tablets, desktops, smart boards,
+  projectors, printers and backup hard drives, to "improve digital literacy" and support
+  gender-responsive teaching for girls and other vulnerable learners. Separately Kenya's
+  **[[communications-authority-of-kenya|Communications Authority]]** donated computers to **Komora
+  Vocational Training Centre** and **St. Benedict's Konya Secondary School** in **Siaya County**
+  under its CSR programme, to enable access to online educational resources and strengthen ICT
+  skills. **Neither source discloses quantities, monetary value, connectivity provision,
+  maintenance arrangements, teacher preparation or any follow-up measurement.** Recorded here as
+  the recurring shape of the literacy intervention: **an input that is countable and an outcome
+  that is not** — which is precisely the gap the After Access findings below identify as where
+  literacy programmes fail. See [[include.divides]], [[include.access]], [[capacity.training]].
+  Sources: [[2026-07-17-japan-ict-equipment-nigerian-colleges]],
+  [[2026-07-17-ca-kenya-computer-donations-siaya-schools]].
+
 - **Foundational literacy via digital channels ([[LBR]], 2026-01, light).** Liberia's MoE
   Digital Learning Platform and "Liberia Learns" radio/TV target Grades 1–3 foundational
   literacy/numeracy — the base-literacy layer beneath the digital-literacy agenda. Source:
@@ -61,7 +105,7 @@ across this domain as an *inclusion barrier* rather than a solved precondition.
 
 ## Places
 
-[[NGA]] · [[GHA]] · [[UGA]] · [[ETH]] · [[ZMB]] · [[LBR]] · [[XAF]]
+[[NGA]] · [[GHA]] · [[UGA]] · [[ETH]] · [[ZMB]] · [[LBR]] · [[XAF]] · [[KEN]]
 
 ## Related
 
@@ -76,3 +120,7 @@ across this domain as an *inclusion barrier* rather than a solved precondition.
 - [[2026-02-05 After Access qualitative study on gender and digital technologies Uganda report]]
 - [[2026-01-15 Leveraging AI to Bypass the Smartphone Barrier and Advance Digital Inclusion in Africa]]
 - [[2026-01-07 Digital driving licence coming to South Africa]]
+- [[2026-07-18-nigeria-retail-investing-boom]]
+- [[2026-07-17-ca-kenya-computer-donations-siaya-schools]]
+- [[2026-07-17-japan-ict-equipment-nigerian-colleges]]
+- [[2026-07-18-ness-2026-nigeria-education-summit]]

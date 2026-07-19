@@ -48,7 +48,7 @@ AU entity plus the affected countries, not to a geographic region.
 ```
 new/                      # unprocessed intake queue — clips land here; drained on ingest
 new-queue/                # sweep candidates awaiting human review — only the human promotes to new/
-sweep/                    # Phase-2 acquisition sweep: procedure, query recipes, ledger, drop logs
+sweep/                    # Acquisition sweeps (upstream of new/): daily-README.md (daily trade-journal sweep), daily/ (its state), archive/ (completed Phase-2 back-fill)
 raw/                      # admitted sources, flat — immutable after ingest, never edited
   2026-06-16-cassava-nvidia-deal.md
 _leads/                   # parked non-source material (AI syntheses etc.) to mine, not compile
@@ -158,6 +158,7 @@ places: [ZAF]
 topics: [infra.store, tech.ai, geopol.usa]
 entities: [[cassava-technologies], [nvidia]]
 lens: [sovereignty]
+body_completeness: full   # full | excerpt — 'excerpt' only when full text is genuinely unavailable (paywall/fetch-fail)
 ---
 ```
 
@@ -355,7 +356,16 @@ queue means routing each item to its correct destination.
    - **New event** → proceed normally.
    When same-vs-new is genuinely unclear, prefer attaching to the existing page
    and note the uncertainty in `log.md` rather than creating a near-duplicate.
-3. Create the source page with full frontmatter and facet tags.
+3. Create the source page with full frontmatter, facet tags, and the source's
+   **full verbatim body** — the whole article as published. (This was an unstated
+   invariant while every clip came from the web clipper, which always captured full
+   text; automated collection like the daily sweep does not, so it is now explicit
+   and binds every route.) Capture the full text from the page — never a
+   search-result excerpt or an AI paraphrase/summary, which is inadmissible as a
+   body (see Source admissibility). Only when the full text is genuinely
+   unavailable (hard paywall, fetch failure) store the verbatim portion available,
+   set `body_completeness: excerpt`, and flag it for a manual clip; otherwise
+   record `body_completeness: full`.
 4. For each **entity**: create/update its page; append the source; refresh its
    `places` and `topics`. Discrete deals/MoUs become `deal` entities.
 5. For each **place**: update the hub — add to Recent developments, ensure the
@@ -397,21 +407,30 @@ queue means routing each item to its correct destination.
 
 ## Sweep intake (`new-queue/` and `sweep/`)
 
-*(Curator directive, 2026-07-17.)* The **Phase 2 acquisition sweep** back-fills
-press coverage since 2025-01-01 (two national newspapers per country + eight
-trade journals, via Exa). Full procedure, query recipes and progress ledger:
-**`sweep/README.md`**. The rules that bind here:
+Acquisition sweeps run *upstream* of the wiki and feed `new-queue/`. Two exist:
 
-- The sweep is *upstream* of the wiki. It writes **only** to `new-queue/`
-  (candidate source files with best-effort frontmatter, one folder per place
-  code, each with a `MANIFEST.md`) and to `sweep/` (ledger, drop logs). It
-  never writes to `new/`, `raw/`, or any `wiki/` page.
+- **Daily trade-journal sweep** (the workhorse) — procedure in
+  **`sweep/daily-README.md`**. Run manually from CC; loops the journals in
+  `wiki/trade-journals.csv` (read fresh each run) over a high-water-mark window;
+  stages **flat** candidate files into `new-queue/` (no per-place subfolders);
+  keeps its state in `sweep/daily/`. The universal sweep of everything *except*
+  those journals (national press, think tanks) is the **digest**, run read-only
+  from the `africa-digital-policy-watch` skill — it never writes to `new-queue/`.
+- **Phase-2 back-fill** (completed 2026-07-17) — the 2025→2026 national-press +
+  trade-journal catch-up. Apparatus archived at **`sweep/archive/`** (procedure,
+  query recipes, ledger, drop logs); it wrote `new-queue/{ISO3}/` folders, since
+  drained into `new-queue/done/`.
+
+The rules that bind every sweep:
+
+- The sweep writes **only** to `new-queue/` (candidate source files with
+  best-effort frontmatter) and to `sweep/` (its own state/logs). It never writes
+  to `new/`, `raw/`, or any `wiki/` page.
 - **Only the human promotes** items from `new-queue/` to `new/`; from there the
   standard filing rules above apply unchanged. `new/ → raw/` via ingest remains
   the only door into the wiki.
-- Sweep-time dedup against holdings is **conservative** (exact URL or confident
-  same-outlet re-crawl only), and every drop is logged to
-  `sweep/drop-log-{ISO3}.csv` — nothing is discarded silently. The aggressive
+- Sweep-time dedup is **conservative** (exact URL or confident same-outlet
+  re-crawl only), logged per run — nothing is discarded silently. The aggressive
   pass is the post-ingest duplicate lint (#7), with full text in hand.
 - The admissibility screen and the `published`-date discipline (fallback chain,
   `date_source: proxy`, `date_precision`) apply at fetch/staging time exactly as

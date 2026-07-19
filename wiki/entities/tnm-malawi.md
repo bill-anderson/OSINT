@@ -7,7 +7,7 @@ topics: [infra.connect, infra.store, dpi.pay, tech.ai]
 lens: []
 status: active
 last_reviewed: 2026-07-19
-sources: [[2025-07-26-tnm-5g-launch-malawi-2063-malawi24], [2026-03-06-tnm-third-data-centre-volte-itweb], [2025-11-10-tnm-30-years-ai-labs-times]]
+sources: [[2025-07-26-tnm-5g-launch-malawi-2063-malawi24], [2026-03-06-tnm-third-data-centre-volte-itweb], [2025-11-10-tnm-30-years-ai-labs-times], [2026-07-17-macra-airtel-malawi-tnm-tariff-compensation]]
 ---
 
 # Telekom Networks Malawi (TNM)
@@ -22,6 +22,12 @@ demand (CEO Michel Herbert) — see [[malawi--infra-store]]. Marking **30 years*
 laboratories and innovation hubs**, citing **forex shortages** as its biggest constraint — see
 [[malawi--tech-ai]].
 
+**Regulatory action (2026-07-17).** **[[macra-malawi|MACRA]]** found TNM (with [[airtel-malawi|Airtel
+Malawi]]) in breach of **Section 76 of the Communications Act 2016** — approved tariff changes must be
+published in two daily newspapers **seven days** before taking effect — and ordered it to compensate
+customers who bought affected products during the notice window (**26 Jun – 2 Jul 2026**) with equivalent
+bundles, by **31 July 2026**. Source: [[2026-07-17-macra-airtel-malawi-tnm-tariff-compensation]].
+
 ## Links
-Place: [[MWI]] · Topics: [[infra.connect]] · [[infra.store]] · [[dpi.pay]] · [[tech.ai]] · Intersection:
-[[malawi--infra-connect]]
+Place: [[MWI]] · Topics: [[infra.connect]] · [[infra.store]] · [[dpi.pay]] · [[tech.ai]] · Entities:
+[[macra-malawi]] · [[airtel-malawi]] · Intersection: [[malawi--infra-connect]]

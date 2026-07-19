@@ -4,12 +4,12 @@ title: "Ghana × Digital Payments"
 place: GHA
 topic: dpi.pay
 places: [GHA]
-topics: [dpi.pay, dpi.exchange, data.statistics, gov.regional, include.access, finance.new]
-entities: [[bank-of-ghana], [papss], [onafriq], [onafriq-papss-ghana-launch], [leap-ghana], [ghana-card]]
+topics: [dpi.pay, dpi.exchange, data.statistics, gov.regional, include.access, finance.new, tech.ai, tech.innovate]
+entities: [[bank-of-ghana], [papss], [onafriq], [onafriq-papss-ghana-launch], [leap-ghana], [ghana-card], [kutanapay], [afreximbank], [african-development-bank], [afcfta]]
 lens: []
 status: active
-last_reviewed: 2026-07-16
-sources: [[[2026-04-01 RETRACTION Ghana's National ID cards can now make payments]], [[2026-02-05 Ghana Mobile Money Interoperability Nearly Doubles in 2025]], [[2025-06-23 Onafriq and PAPSS launch cross-border payments in Ghana]], [[2025-12-22 Government begins 99th cycle of LEAP cash-grant payments]], [[2025-09-09 Ghana to Mandate Biometric SIM Links in Bid to Curb Mobile Money Fraud]], [[2026-01-11 Ghana Card mandatory for banking and digital transactions - BoG]], [[2024-01-01 Payment Systems Oversight Annual Report 2023 (Bank of Ghana)]]]
+last_reviewed: 2026-07-19
+sources: [[[2026-04-01 RETRACTION Ghana's National ID cards can now make payments]], [[2026-02-05 Ghana Mobile Money Interoperability Nearly Doubles in 2025]], [[2025-06-23 Onafriq and PAPSS launch cross-border payments in Ghana]], [[2025-12-22 Government begins 99th cycle of LEAP cash-grant payments]], [[2025-09-09 Ghana to Mandate Biometric SIM Links in Bid to Curb Mobile Money Fraud]], [[2026-01-11 Ghana Card mandatory for banking and digital transactions - BoG]], [[2024-01-01 Payment Systems Oversight Annual Report 2023 (Bank of Ghana)]], [[2026-07-17-kutanapay-ai-blockchain-cross-border-trade]]]
 ---
 
 # Ghana × Digital Payments
@@ -89,9 +89,28 @@ claim about Ghana Card *payment* functionality, kept so the reversed claim does 
   economy. Sources: [[2026-07-15-zeepay-licence-revocation-myjoy]], [[2026-07-16-bog-new-digital-banking-framework-myjoy]],
   [[2026-07-08-banks-fintechs-regulatory-burden-fraud-myjoy]], [[2026-03-25-ghana-fintech-forefront-digital-economy-itweb]].
 
+- **Private rails for B2B trade risk: [[kutanapay]] (2026-07-17).** [[tech.ai]] [[tech.innovate]] The
+  Accra startup (founded 2023, Nicholas Murphy and Samuel Opoku) runs a **milestone-based escrow
+  platform** for cross-border trade — digital contracts set the terms, the buyer's funds sit in escrow,
+  and release is gated on both parties validating shipment or delivery — bundled with cross-border
+  payments, cargo insurance, dispute resolution, trade finance and AI trade-flow analytics. The company
+  says it operates in several African countries and serves diaspora businesses, with volumes rising
+  since commercial launch; **no country list, volume, funding or licence status is disclosed**, and the
+  blockchain claim is asserted without specifying what is recorded on-chain.
+  The interesting move is *where the trust sits*: Ghana's public payment DPI (GhIPSS, MoMo
+  interoperability, [[papss]] settlement) solves **moving money between countries**, while KutanaPay
+  targets the **counterparty risk that stops the trade happening at all** — non-payment and
+  non-delivery — as private conditional-release infrastructure layered on top. That is a gap the state
+  rails do not address, and one no Ghanaian public instrument on file claims. Market framing, dated and
+  attributed: **[[african-development-bank|AfDB]]** puts Africa's annual trade-finance gap at
+  **$74–92bn**, projected to reach **$86.6bn by 2027**; **[[afreximbank]]**'s *African Trade Report
+  2025* names trade-finance access, cross-border payment cost and financial infrastructure as the
+  binding constraints — the demand [[afcfta]] implementation is expected to enlarge. Source:
+  [[2026-07-17-kutanapay-ai-blockchain-cross-border-trade]].
+
 ## Links
 
-Place: [[GHA]] · Concepts: [[dpi.pay]] · [[dpi.exchange]] · Intersection: [[ghana--dpi-id]] · Entities: [[bank-of-ghana]] · [[ghipss-ghana]] · [[momo-fintech-ghana]] · [[zeepay-ghana]] · [[onafriq]] · [[papss]] · [[leap-ghana]]
+Place: [[GHA]] · Concepts: [[dpi.pay]] · [[dpi.exchange]] · Intersection: [[ghana--dpi-id]] · Entities: [[bank-of-ghana]] · [[ghipss-ghana]] · [[momo-fintech-ghana]] · [[zeepay-ghana]] · [[onafriq]] · [[papss]] · [[leap-ghana]] · [[kutanapay]]
 
 ## Sources
 

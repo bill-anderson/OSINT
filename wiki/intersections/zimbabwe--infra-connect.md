@@ -4,10 +4,10 @@ title: Zimbabwe × Connectivity & Broadband
 place: ZWE
 topic: infra.connect
 places: [ZWE]
-topics: [infra.connect, include.access, include.divides, data.statistics, digital.rural, finance.new, gov.regional]
-entities: [[potraz], [econet-wireless-zimbabwe], [netone], [telecel-zimbabwe], [telone], [liquid-intelligent-technologies], [starlink], [paratus], [mutapa-investment-fund], [ministry-of-health-and-child-care-zimbabwe]]
+topics: [infra.connect, include.access, include.divides, data.statistics, digital.rural, finance.new, gov.regional, gov.policy]
+entities: [[potraz], [econet-wireless-zimbabwe], [netone], [telecel-zimbabwe], [telone], [liquid-intelligent-technologies], [starlink], [paratus], [mutapa-investment-fund], [ministry-of-health-and-child-care-zimbabwe], [ministry-of-ict-postal-and-courier-services-zimbabwe]]
 lens: [sovereignty]
-status: active
+status: needs-review
 last_reviewed: 2026-07-19
 sources: [[2025-05-21-potraz-approves-telco-tariff-raise], [2026-04-30-econet-5g-exceeds-netone-telecel-combined], [2026-05-07-liquid-fibre-price-war-starlink], [2026-05-19-over-50pc-fixed-broadband-now-wireless], [2026-06-29-govt-debt-to-telone-doubles], [2026-07-03-powertel-paratus-digital-highway], [2026-07-15-internet-traffic-surges-57pc-q1-2026], [2026-07-15-netone-at-30-digital-future], [2025-06-26-starlink-hype-cities-silence-rural], [2025-07-24-govt-donates-250-starlink-kits-local-authorities], [2026-05-16-govt-defends-starlink-rollout], [2026-05-19-starlink-broke-potraz-bandwidth-framework], [2026-07-17-starlink-kits-gather-dust-rural-hospitals]]
 ---
@@ -30,6 +30,16 @@ a **fibre-vs-satellite price war** reshaping the cities — all against **61.6% 
 - **Tariffs (May 2025).** POTRAZ approved a **~35% ZiG-bundle** tariff raise, against 2024 sector data
   (revenue US$716.6m, opex +42.83%, capex US$83.3m) — the affordability squeeze on a currency-stressed market.
   Source: [[2025-05-21-potraz-approves-telco-tariff-raise]].
+- **The ministerial account (2026-07-17) — recorded, not adopted.** ICT Minister **Tatenda Mavetera**
+  told the inaugural National SMEs and Cooperatives Meeting that the backbone runs to **"more than
+  17,000 km" of fibre**, that **5G rollout continues**, that **[[starlink]]** has been licensed to reach
+  **rural villages, farms and mining areas**, and that **internet penetration "has now reached 87%"**,
+  supported by **free Wi-Fi hotspots at rural business centres**. The fibre figure is consistent with the
+  regulator's own **19,000+ km** above (a weaker claim, not a conflicting one). **The 87% is not.** It sits
+  against **38.4% penetration / 61.6% offline (end-2025)** and is **not adopted as current state here** —
+  logged at `reviews/contradictions/open/zimbabwe-internet-penetration-2026.md`, and the likeliest bridge
+  is that the two numbers measure different things (coverage or connections vs users; cf. **95.0% mobile
+  connections**, end-2025). Source: [[2026-07-17-zimbabwe-digital-roadmap-msme-growth]].
 
 ## The mobile market: Econet dominant, NetOne reviving
 
@@ -85,7 +95,7 @@ is three unresolved tensions: **the urban/rural inversion, the measurement gap, 
   subscriptions**, exposing that hardware donation without an operating-cost model is not connectivity. The
   USF (POTRAZ-administered) covers subscriptions **only for digital centres and schools, one year** — a gap
   MPs pushed to extend. Sources: [[2025-07-24-govt-donates-250-starlink-kits-local-authorities]],
-  [[2026-07-17-starlink-kits-gather-dust-rural-hospitals]].
+  [[2026-07-17-starlink-kits-gather-dust-rural-hospitals], [2026-07-17-zimbabwe-digital-roadmap-msme-growth]].
 - **The measurement problem — "measured but not counted."** Starlink **broke POTRAZ's bandwidth framework**:
   Q1-2025 *used* international bandwidth (2.69 Tbps) **exceeded total equipped capacity (1.43 Tbps)** because
   Starlink — **83% of used bandwidth** — has **no Zimbabwean ground infrastructure to measure** and so sat

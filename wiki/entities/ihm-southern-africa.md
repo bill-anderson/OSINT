@@ -3,10 +3,10 @@ type: entity
 entity_type: company
 title: IHM Southern Africa
 places: [ZMB]
-topics: [dpi.mis, dpi.id, capacity.training, tech.industry, dpi.exchange]
+topics: [dpi.mis, dpi.id, capacity.training, tech.industry, dpi.exchange, infra.connect]
 status: active
-last_reviewed: 2026-07-17
-sources: [[2025-01-17 Zambia Advances Digital ID System with MOSIP Training for Healthcare Integration], [2026-01-15 How Digital Public Infrastructure Is Transforming Health and Identity in Rural Zambia]]
+last_reviewed: 2026-07-19
+sources: [[2025-01-17 Zambia Advances Digital ID System with MOSIP Training for Healthcare Integration], [2026-01-15 How Digital Public Infrastructure Is Transforming Health and Identity in Rural Zambia], [2026-07-17-zambia-govlink-private-4g]]
 ---
 
 # IHM Southern Africa
@@ -34,6 +34,13 @@ private implementer sitting inside two public layers at once — the health MIS
   live in rural Kafulafuta. Source:
   [[2026-01-15 How Digital Public Infrastructure Is Transforming Health and Identity in Rural Zambia]].
 
+- **GovLink implementation partner (2026-07).** IHM is named among the partners implementing
+  **[[govlink|GovLink Private 4G]]** with [[smart-zambia-institute]]'s e-Government Division —
+  alongside its own division **TuSo Business Dynamics**, **Quadrupleplay** and the
+  [[ministry-of-health-zambia|Ministry of Health]]. The firm now sits inside a **third** public
+  layer: the health MIS, the identity integration, and the **network** they run on. See
+  [[infra.connect]]. Source: [[2026-07-17-zambia-govlink-private-4g]].
+
 ## Provenance
 
 **Both sources are the implementer's own account, and the 2026-01 one is authored by IHM
@@ -53,3 +60,4 @@ against the firm.
 
 - [[2025-01-17 Zambia Advances Digital ID System with MOSIP Training for Healthcare Integration]]
 - [[2026-01-15 How Digital Public Infrastructure Is Transforming Health and Identity in Rural Zambia]]
+- [[2026-07-17-zambia-govlink-private-4g]]

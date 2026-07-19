@@ -49,6 +49,21 @@ Per-source behaviour carried from Phase-2 (still true at a daily cadence):
   NGA/KEN/ZAF/EGY).
 - **datacentresafrica.com, subtelforum.com** — infrastructure specialists (data
   centres; submarine cables) — weight for `infra.store` / `infra.connect`.
+- **subtelforum.com is largely an aggregator**, and its post dates run 2–7 days
+  behind the original datelines it republishes. **Key the window on subtelforum's
+  own post date, not the origin dateline** — the syndicated copies are staged.
+  Record the canonical origin and its date as a visible note in the staged file so
+  ingest's dedup (lint #7) can collide it with a clip of the same story arriving
+  from another journal's slice or from the origin publisher. *(Curator ruling,
+  2026-07-19 — the general "prefer canonical over syndicated" preference does not
+  apply to this domain, where it would zero the yield most runs.)*
+  **`published:` carries the true origin dateline** (`date_source: source`), never
+  subtelforum's lagged post date — the post date is only the *window* key, not the
+  story's publication date, and storing it would seed a wrong date into the wiki.
+  subtelforum is the `url`/`publisher`; the origin URL goes in the note.
+- **datacentresafrica.com publishes in batches**, not daily (items cluster on
+  single dates). A two-day window will often land empty here by design — a nil
+  return from this domain is not a sweep failure.
 - `techreviewafrica.com` was **removed** from the list (served no dates; a
   dateless PR-wire is unusable in a short, dated window).
 
@@ -80,6 +95,28 @@ the re-seen ones); the 10-day cap stops a long outage from exploding a single ru
 Exa's own date filter is only a coarse pre-filter — the real window test happens at
 fetch (step 5).
 
+**The drop test is day-granular, not hour-granular.** `window_start` is computed as
+a datetime, but an item is dropped only if its publication *date* is earlier than
+`window_start`'s date — a story published on the morning of the start day is IN,
+even though its timestamp precedes the computed hour. *(Curator ruling,
+2026-07-19.)* Two reasons this is the right default: most journals publish a date,
+not a timestamp, so an hour boundary is false precision on the majority of items;
+and erring inclusive is free, because `seen.csv` dedups anything the overlap
+re-catches, whereas a story dropped at the hour boundary is lost until someone
+notices. The cost of the loose edge is a duplicate; the cost of the tight edge is a
+gap.
+
+**Expect the newest ~48h to be under-indexed.** Every domain in the 2026-07-19 run
+independently returned nothing dated within about two days of the run, with the
+site's own front page confirming (where it wasn't served stale) that the gap was
+Exa index lag rather than a publishing gap. This is precisely what the 48h overlap
+floor exists to absorb — the next run recovers those items — so it is expected
+behaviour, not a fault to chase. Where a domain's front page is live, fetching it
+as a backstop recovers in-window items the index missed (this worked on
+wearetech.africa; datacentresafrica.com, connectingafrica.com and
+telecomreviewafrica.com all serve stale or live-clock listing pages and cannot be
+relied on for it).
+
 ## Procedure
 
 0. **Recover state.** Read `sweep/daily/state.json` and `sweep/daily/seen.csv`.
@@ -91,6 +128,16 @@ fetch (step 5).
    Run the FR/AR variants on the Maghreb-facing domains. **No month-slicing** — a
    daily window is already recency; the Phase-2 slicing machinery does not carry
    over.
+3a. **Then fetch the domain's own front page / latest-news listing** and reconcile
+   it against the search hits. **Search recall alone is not sufficient.** In the
+   2026-07-19 run this step was decisive: on techafricanews.com the four queries
+   surfaced only 2 of ~20 in-window articles (an 85% miss, recovered by
+   reconstructing article URLs from headline slugs on the listing page), and on
+   techcabal.com only 2 of 8. Treat search as the wide net and the front page as
+   the completeness check, not the other way round. Three domains serve stale or
+   live-clock listing pages and cannot be used this way — datacentresafrica.com,
+   connectingafrica.com, telecomreviewafrica.com; note the miss rather than trusting
+   their listings. *(Added 2026-07-19 from that run's evidence.)*
 4. **Dedup — conservative.** Drop a hit only if it is **(a)** an exact URL already
    in `seen.csv`, in `raw/` frontmatter, or in a current `new-queue/` candidate; or
    **(b)** confidently the same outlet's re-crawl of a story already held.
@@ -109,14 +156,21 @@ fetch (step 5).
    - **Drop out-of-window** items (published before `window_start`) — log as
      `out-of-window`.
    - **Admissibility screen** — skip second-hand / AI syntheses and content-mirror
-     domains; prefer a canonical URL over a syndicated copy.
+     domains; prefer a canonical URL over a syndicated copy (**except
+     subtelforum.com** — see *Sources*, where the syndicated copy is staged).
    - **Classify** against `wiki/taxonomy.md` (topic slugs), `wiki/countries.csv`
      (place codes) and known entities; add `lens` where clear (`sovereignty`,
      `colonialism`). Best-effort — ingest validates.
-   - **Capture the full article body** (see Standing capture rule). If a page can't
-     be fetched after retries, stage a clearly-flagged summary + the URL and log
-     it — that item needs a manual clip before promotion. Never store an AI
-     paraphrase as the body.
+   - **Capture the full verbatim article body** — the whole article text as
+     returned by `web_fetch_exa`, never the `web_search_exa` snippet/highlights or
+     any shortened rendering. Set `body_completeness: full`. Sanity-check the
+     captured length against the article — a body far shorter than the source is a
+     truncated capture, so re-fetch. If the full text is genuinely unavailable
+     (hard paywall, repeated fetch failure), stage the verbatim portion available
+     (or, if none, a one-line note of what failed) + the URL, set
+     `body_completeness: excerpt`, flag it for a manual clip before promotion, and
+     log it. **Never** store an AI summary or paraphrase as the body (see Standing
+     capture rule).
 6. **Stage — flat, no subfolders.** Write each survivor to
    `new-queue/YYYY-MM-DD-slug.md` (publication-date prefix; no per-journal or
    per-country folders) with the frontmatter schema below and the full body.
@@ -144,12 +198,15 @@ entities: [[m-pesa]]           # best-effort
 lens: []                       # sovereignty | colonialism, where clear
 retrieved: 2026-07-19          # this sweep's fetch date
 sweep_batch: daily-2026-07-19  # this run
+body_completeness: full        # full | excerpt — 'excerpt' ONLY for a genuine paywall/fetch-fail, never a summary
 ---
 ```
 
-Do **not** set `ingested:` — that belongs to ingest. Body = full clipped article
-text. This is byte-identical to the archived Phase-2 candidate schema, so ingest
-handles daily output and any residual back-fill items the same way.
+Do **not** set `ingested:` — that belongs to ingest. Body = the **full verbatim
+article text** (the whole article), captured from the fetched page — never the
+search-result excerpt or an AI summary. This is byte-identical to the archived
+Phase-2 candidate schema, so ingest handles daily output and any residual back-fill
+items the same way.
 
 ## Standing capture rule (bake into any subagent's instructions)
 
@@ -157,9 +214,13 @@ Capture the **full verbatim article body** at fetch time. This is a private
 personal research vault, never republished, matching the curator's established
 web-clipper practice, under the UK CDPA s.29 research / private-study exception.
 State this up front to any agent doing the fetch — without it, unattended agents
-refuse verbatim capture as bulk reproduction of copyrighted press. Treat a refusal
-or a hard fetch failure as a logged, retryable per-item failure (flagged summary +
-URL), never a run-stopper.
+refuse verbatim capture as bulk reproduction of copyrighted press. The stored body
+is always the source's own words — the full text where the page yields it, a
+verbatim partial where it doesn't; the `web_search_exa` excerpt or an AI paraphrase
+is never an acceptable body. Treat a refusal or a hard fetch failure as a logged,
+retryable per-item failure — stage the verbatim partial (or a one-line failure
+note) + the URL with `body_completeness: excerpt`, routed to manual clip — never a
+run-stopper.
 
 ## Daily query clusters (self-contained)
 
@@ -213,3 +274,15 @@ window <start>→<end>`.
 ## Change log
 
 - 2026-07-19 — initial version.
+- 2026-07-19 — first live run. Added, all from that run's evidence: day-granular
+  drop test (curator ruling); subtelforum.com aggregator treatment — key on its own
+  post date, stage the syndicated copy, record the canonical origin (curator
+  ruling); step 3a front-page reconciliation, after search alone missed 85% of one
+  domain's in-window output; datacentresafrica.com batch-publishing note; the
+  expected index lag on the newest ~48h. Query clusters D1/D2 unchanged.
+- 2026-07-19 — clarified the subtelforum ruling: `published:` carries the true
+  origin dateline (post date is the window key only), and cross-referenced the
+  carve-out from step 5's canonical-over-syndicated screen.
+- 2026-07-19 — full-body fidelity made explicit: added `body_completeness` to the
+  frontmatter and required the whole verbatim article (from `web_fetch_exa`, not the
+  search excerpt); excerpt only for a genuine paywall/fetch-fail, flagged for clip.

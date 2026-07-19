@@ -20,6 +20,17 @@ cross-border fintech and payments gateway into Africa.
 
 ## Recent developments
 
+- **2026-07-17** *(comparative, via Kenya reporting)* — **Mauritius's residency threshold cited as the
+  benchmark others are chasing.** Mauritius **lowered its minimum investment for residency from
+  $500,000 to $375,000 in 2020** to stimulate foreign investment after the pandemic. It appears here
+  because Mauritius is now named — with Cape Town and Kigali — as the **rival investment base** against
+  which Nairobi is positioning: the **[[kenya-investment-authority]]** is designing a
+  residency-by-investment programme to compete for globally mobile venture capital, whose partners must
+  be resident for years to do the work. Mauritius's established combination of investor-friendly
+  residency, a mature e-government and fintech regime and a cross-border payments gateway is the
+  package being benchmarked. Not a Mauritian development — a measure of its standing. See [[KEN]],
+  [[ZAF]], [[gov.policy]], [[tech.innovate]], [[finance.new]]. Source:
+  [[2026-07-17-kenya-golden-visa-investors]].
 - **2026-07-16** — **AI "from ambition to execution" — AllMyT Summit.** [[mauritius-telecom|MT]]'s second
   **AllMyT Summit** (16-17 Jul, 1,000+ participants, PM Ramgoolam opening) showcased the AI & Compute Corridor —
   Tier IV compute, GPU clusters, sovereign cloud and **[[mytgpt]]**. CEO Gungadin: *"AI will not become an

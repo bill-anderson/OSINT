@@ -2,12 +2,12 @@
 type: entity
 entity_type: organisation
 title: International Telecommunication Union (ITU)
-places: [XGL, XAF, DJI]
-topics: [infra.connect, include.divides, capacity.training, gov.standards, tech.ai, gov.regional]
+places: [XGL, XAF, DJI, ZAF, ZMB]
+topics: [infra.connect, include.divides, capacity.training, gov.standards, tech.ai, gov.regional, finance.mou, data.satellite]
 lens: []
 status: active
-last_reviewed: 2026-07-16
-sources: [[2026-07-09 ITU's Partner2Connect crosses $100 billion in global connectivity pledges], [2026-07-09 Africa benefits from connectivity milestone], [2026-07-10 Africa urged to turn WSIS+20 commitments into measurable digital progress], [2026-01-23 Afreximbank flags Africa's digital trade gap at Davos], [2026-05-04 The World's Most Needed AI Governance Framework Doesn't Exist Yet. Africa Should Build It], [2026-07-13 Djibouti Seeks ITU, Smart Africa Support for Telecoms and AI Development], [2026-07-16 African Union Commission, ITU sign cooperation agreement]]
+last_reviewed: 2026-07-19
+sources: [[2026-07-17-vodacom-itu-digital-inclusion-partnership], [2026-07-10-itu-icpc-advisory-body-cable-resilience-report], [2026-07-09 ITU's Partner2Connect crosses $100 billion in global connectivity pledges], [2026-07-09 Africa benefits from connectivity milestone], [2026-07-10 Africa urged to turn WSIS+20 commitments into measurable digital progress], [2026-01-23 Afreximbank flags Africa's digital trade gap at Davos], [2026-05-04 The World's Most Needed AI Governance Framework Doesn't Exist Yet. Africa Should Build It], [2026-07-13 Djibouti Seeks ITU, Smart Africa Support for Telecoms and AI Development], [2026-07-16 African Union Commission, ITU sign cooperation agreement], [2026-07-17-zambia-ai-leadership-robotics-challenge]]
 ---
 
 # International Telecommunication Union (ITU)
@@ -19,6 +19,14 @@ Zavazava**). Convenes the **WSIS Forum** / Geneva Digital Week and hosts the
 
 ## Activity in this wiki
 
+- **Vodacom protocol on digital inclusion (2026-07-17).** Signed a protocol with **[[vodacom]]** to
+  deepen collaboration on digital inclusion and telecoms development across Africa, with the operator
+  sharing operational expertise from its markets. Named focus areas: **regulatory frameworks for
+  satellite communications and spectrum management**, digital-inclusion strategies, and connectivity
+  for education. One instance of a wider pattern — ITU pairing with individual operators as
+  implementation partners rather than only with states. See
+  [[vodacom-itu-digital-inclusion-protocol]], [[gov.standards]], [[data.satellite]], [[XAF]]. Source:
+  [[2026-07-17-vodacom-itu-digital-inclusion-partnership]].
 - **Partner2Connect crosses $100bn (2026-07, WSIS Forum 2026).** ITU announced its P2C
   Digital Coalition surpassed **USD 100 billion** in connectivity commitments (>1,000
   pledges from 149 countries; projects in 190+ countries, **Africa and Asia-Pacific
@@ -60,9 +68,33 @@ Zavazava**). Convenes the **WSIS Forum** / Geneva Digital Week and hosts the
   [[gov.regional]]. Source:
   [[2026-05-04 The World's Most Needed AI Governance Framework Doesn't Exist Yet. Africa Should Build It]].
 
+- **Submarine-cable resilience: programme completed (2026-07-10).** With the
+  **[[international-cable-protection-committee|ICPC]]**, ITU closed the two-year
+  **[[international-advisory-body-on-submarine-cable-resilience]]** — co-chaired by Nigeria's
+  **[[bosun-tijani]]** — approving its final report at **WSIS Forum 2026**. ITU DSG **Tomas
+  Lamanauskas** served as an executive secretary. A rare case of ITU standard-setting with an African
+  state in the chair rather than the audience. See [[infra.connect]], [[gov.standards]],
+  [[gov.regional]], [[NGA]]. Source:
+  [[2026-07-10-itu-icpc-advisory-body-cable-resilience-report]].
+
+- **AI for Good as an entry point into national AI policy ([[ZMB]], 2026-07-17).** Zambia's
+  advance to the global finals of the **2026 AI for Good Global Summit and Robotics for Good Youth
+  Challenge** (Geneva, **nearly 50 participating countries**) came with an **invitation to the 2027
+  summit** and, more consequentially, a disclosed **opportunity to establish Zambia's first "AI for
+  Good Lab" in partnership with the ITU** under the UN framework — expected to support AI policy
+  development, innovation, skills development and digital infrastructure. **An opportunity, not an
+  agreement**: no signature, funding, siting or timetable is reported. Worth noting for what it
+  shows about the ITU's reach: a youth robotics competition functioning as the on-ramp by which a UN
+  agency ends up positioned to host a member state's **first national AI institution**, arriving
+  ahead of that state's own unpublished **[[zambia-national-ai-strategy]]**. See [[tech.ai]],
+  [[gov.policy]], [[zambia--tech-ai]]. Source:
+  [[2026-07-17-zambia-ai-leadership-robotics-challenge]].
+
 ## Related
 
-- [[partner2connect]] (the coalition it runs) · [[itu-global-connectivity-report-2025]] ·
+- [[international-advisory-body-on-submarine-cable-resilience]] · [[doreen-bogdan-martin]] ·
+  [[zambia-national-ai-strategy]] · [[e-mark-innovation-hub]] ·
+  [[partner2connect]] (the coalition it runs) · [[itu-global-connectivity-report-2025]] ·
   Africa-relevant pledgers in that source: [[microsoft]] (Kenya rural hubs), [[gsma]]
   (African AI Language Models), Telkom (SA AI Institute). Previously listed only as a
   "mentioned" body — now hubbed.

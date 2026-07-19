@@ -5,11 +5,11 @@ place: NGA
 topic: tech.ai
 places: [NGA]
 topics: [tech.ai, gov.policy, gov.legislate, capacity.training, geopol.usa, geopol.china]
-entities: [[nitda], [bosun-tijani], [awarri-technologies], [ncair], [google], [microsoft]]
+entities: [[nitda], [bosun-tijani], [awarri-technologies], [ncair], [google], [microsoft], [decide-ai], [cafeone], [abiodun-adetona], [codar], [nigeria-education-supplies-summit]]
 lens: [sovereignty, colonialism]
 status: active
 last_reviewed: 2026-07-19
-sources: [[2025-02-03-ai-tool-public-service-efficiency], [2025-02-05-ai-connectivity-government-initiatives], [2025-02-06-ai-procurement-platform-states], [2025-02-13-nigeria-google-ai-alliance], [2025-02-19-microsoft-pledges-1m-ai-training], [2025-02-25-ai-chatbot-domestic-violence-portal], [2025-03-14-airtel-ai-spam-alert], [2025-06-30-anambra-ai-smartgov-lg-spending], [2025-07-24-google-37m-africa-ai-investment], [2025-09-20-n-atlas-nigerian-llm-launch], [2025-11-20-nigeria-ai-bill-control-innovation], [2025-11-28-google-n3bn-ai-training-programme], [2026-01-14-nigeria-plans-ai-regulations-bill], [2026-03-24-nigeria-470m-ai-surveillance-spend]]
+sources: [[2025-02-03-ai-tool-public-service-efficiency], [2025-02-05-ai-connectivity-government-initiatives], [2025-02-06-ai-procurement-platform-states], [2025-02-13-nigeria-google-ai-alliance], [2025-02-19-microsoft-pledges-1m-ai-training], [2025-02-25-ai-chatbot-domestic-violence-portal], [2025-03-14-airtel-ai-spam-alert], [2025-06-30-anambra-ai-smartgov-lg-spending], [2025-07-24-google-37m-africa-ai-investment], [2025-09-20-n-atlas-nigerian-llm-launch], [2025-11-20-nigeria-ai-bill-control-innovation], [2025-11-28-google-n3bn-ai-training-programme], [2026-01-14-nigeria-plans-ai-regulations-bill], [2026-03-24-nigeria-470m-ai-surveillance-spend], [2026-07-17-decide-cafeone-enterprise-ai], [2026-07-17-codar-raises-1-5m-ai-education], [2026-07-18-ness-2026-nigeria-education-summit]]
 ---
 
 # Nigeria × Artificial Intelligence
@@ -80,6 +80,47 @@ market is put at **~$434.4m by 2026** (44.2% CAGR) and a projected **$15bn in ec
 - **Airtel AI spam alert** — a free, no-install AI spam-detection service (Mar 2025). Source:
   [[2025-03-14-airtel-ai-spam-alert]].
 
+## The private adoption layer (2026-07)
+
+Beneath the state strategy and the hyperscaler skilling capital, a **domestic commercial layer**
+is now visible — Nigerian companies selling AI to Nigerian workplaces and learners, financed by
+subscription and venture capital rather than by donors or vendors.
+
+- **Distribution through institutions, not individuals — [[decide-ai|Decide]] (2026-07-17).**
+  Decide, whose product lets users analyse spreadsheets with natural-language prompts instead of
+  formulas, launched **Decide for Work**, an enterprise arm distributing the agent through
+  universities, co-working spaces and professional communities. Its first partner is
+  **[[cafeone]]** (**>30 Nigerian locations, 2026-07**), which bundles premium Decide credits into
+  member subscriptions (**₦8,525/$6.15 daily to ₦109,950/$79.36 monthly, 2026-07**). Founder
+  **[[abiodun-adetona]]** — ex-[[flutterwave]] — argues the gap is adoption, not capability:
+  *"AI agents are improving rapidly, but their adoption and integration into everyday work have
+  not caught up."* Company-reported to date: **>41,000 analysis runs**, **>21,000 spreadsheets**,
+  users in **>10 countries**, and **82.5% verified accuracy on SpreadsheetBench (2026-07-17)** —
+  all self-reported, the benchmark unverified by the wiki. The governance point: the co-working
+  operator becomes the party mediating which AI tools its members meet and on what data terms.
+  Source: [[2026-07-17-decide-cafeone-enterprise-ai]].
+- **Adoption context cited (2026).** Decide's launch coverage cites a **PwC** survey finding
+  **64% of African workers reported using AI at work over the previous year, by end-2025**,
+  against a **54%** global average, and a **KPMG** report that **65% of West African CEOs expect
+  AI to drive efficiency improvements in 2026**. *Both reach the wiki second-hand through trade
+  press; neither study is held. Cited, not absorbed.*
+- **Venture-financed AI skilling — [[codar]] (2026-07-17).** Codar closed a **$1.5m** round
+  ([[codar-funding-round-2026]], equity plus debt, investors undisclosed) to expand AI programmes,
+  build learning hubs and widen scholarships, reporting **>5,000 active learners** and **>70,000
+  students reached (2026-07-17)**. *Sponsored TechCabal Partner / Press Room placement — a
+  first-hand company announcement, not independent reporting; the figures are self-reported and no
+  completion or placement rate is disclosed.* Distinct from the programmes on
+  [[capacity.training]] in being **venture-financed rather than donor- or vendor-financed**.
+  Source: [[2026-07-17-codar-raises-1-5m-ai-education]].
+- **What school operators say (2026-07-16, [[nigeria-education-supplies-summit|NESS 2026]]).** At
+  a supplier-convened Lagos summit, the counsel to school leaders was **not to reorganise around
+  AI** but to use it to sharpen existing operations — "AI will confuse the directionless, but AI
+  will enable those with clarity of vision" — with **data literacy** framed as the distinct and
+  more urgent competence. The constraint named from the floor was **school cash flow and
+  foundational learning**, not technology. *Sponsored placement; positions of named speakers at a
+  vendor event, not findings.* See [[capacity.literacy]]. Source:
+  [[2026-07-18-ness-2026-nigeria-education-summit]].
+
 ## Surveillance — the other AI estate
 
 - **$470m on AI surveillance (2026).** An Institute of Development Studies report ("Smart City
@@ -101,5 +142,8 @@ market is put at **~$434.4m by 2026** (44.2% CAGR) and a projected **$15bn in ec
 ## Links
 
 Place: [[NGA]] · Concepts: [[tech.ai]] · [[gov.legislate]] · [[capacity.training]] ·
-Intersections: [[nigeria--gov-protect]] · [[nigeria--infra-connect]] · Entities: [[nitda]] ·
-[[bosun-tijani]] · [[awarri-technologies]] · [[ncair]]
+[[capacity.literacy]] · [[tech.industry]] ·
+Intersections: [[nigeria--gov-protect]] · [[nigeria--infra-connect]] ·
+[[nigeria--digital-localgov]] · Entities: [[nitda]] ·
+[[bosun-tijani]] · [[awarri-technologies]] · [[ncair]] · [[decide-ai]] · [[cafeone]] ·
+[[abiodun-adetona]] · [[codar]] · [[nigeria-education-supplies-summit]]

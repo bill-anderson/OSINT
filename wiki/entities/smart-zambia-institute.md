@@ -6,8 +6,8 @@ places: [ZMB]
 topics: [dpi.govtech, gov.policy, dpi.exchange, dpi.id, dpi.registry]
 lens: [sovereignty]
 status: active
-sources: [[2025-09-11 DZAP World Bank PAD], [2026-06-17 Zambia's govt leans towards open-source], [2026-03-24 Zambia looking for MOSIP system integrator to support digital ID project], [2026-03-24 Zambia seeks partner for national digital ID system], [2026-01-08 Zambia unveils online passport application system], [2026-01-23 Zambia begins amending Electronic Government Act], [2025-01-17 Zambia Advances Digital ID System with MOSIP Training for Healthcare Integration], [2025-10-03 Zambia plans domestic digital ID development with help from international partners], [2026-01-05 Zambia programs national digital ID rollout for year-end]]
-last_reviewed: 2026-07-17
+sources: [[2025-09-11 DZAP World Bank PAD], [2026-06-17 Zambia's govt leans towards open-source], [2026-03-24 Zambia looking for MOSIP system integrator to support digital ID project], [2026-03-24 Zambia seeks partner for national digital ID system], [2026-01-08 Zambia unveils online passport application system], [2026-01-23 Zambia begins amending Electronic Government Act], [2025-01-17 Zambia Advances Digital ID System with MOSIP Training for Healthcare Integration], [2025-10-03 Zambia plans domestic digital ID development with help from international partners], [2026-01-05 Zambia programs national digital ID rollout for year-end], [2026-07-17-zambia-govlink-private-4g], [2026-07-17-zambie-lance-reseau-4g-prive-govlink]]
+last_reviewed: 2026-07-19
 ---
 
 # Smart Zambia Institute (SZI)
@@ -30,8 +30,23 @@ and answers to the Project Steering Committee.
 - **Online passport system (2026-01).** SZI's e-Government Division launched Zambia's **Online Passport Application & Payment System** (~8 Jan 2026); 1,000+ passports processed online in the first weeks, part of a paperless push projected to save >ZMW400m (~$15m) in stationery costs. See [[dpi.govtech]], [[include.access]], [[gov.protect]]. Source: [[2026-01-08 Zambia unveils online passport application system]].
 - **E-Government Act amendment (2026-01).** SZI tabled an **Electronic Government (Amendment) Bill** revising Act No. 41 of 2021 — establishing legal standing for electronic submissions and digital authentication via certified channels and targeting laws still requiring physical documents/signatures — to shift Zambia from fragmented, vendor-locked systems to an integrated, interoperable digital-service ecosystem. See [[gov.legislate]], [[dpi.exchange]], [[gov.standards]]. Source: [[2026-01-23 Zambia begins amending Electronic Government Act]].
 
+- **GovLink Private 4G, and the connectivity ladder behind it (2026-07).** SZI's **e-Government
+  Division** launched **[[govlink|GovLink Private 4G]]** (15 Jul 2026, Ndola Teaching Hospital) — a
+  government-owned network for public institutions, health first, built with
+  **[[ihm-southern-africa]]**/TuSo/Quadrupleplay and the **[[ministry-of-health-zambia|Ministry of
+  Health]]**. It caps a multi-year push: **[[starlink]] kits in underserved public facilities since
+  2024**; **all 116 local authorities connected to the Government Wide Area Network (GWAN) in
+  2025** *(see contradiction note in [[zambia--dpi-govtech]])*; a **[[zesco]]** partnership to
+  extend access to schools, health facilities and other administrations; and a **decentralised
+  digital-skills training programme for government staff launched December 2025**. Zambia ranked
+  **130th of 193 on the UN E-Government Development Index (2024)**, **0.5424/1**. See
+  [[infra.connect]], [[dpi.govtech]], [[capacity.training]]. Sources:
+  [[2026-07-17-zambia-govlink-private-4g]], [[2026-07-17-zambie-lance-reseau-4g-prive-govlink]].
+
 ## Sources
 
+- [[2026-07-17-zambia-govlink-private-4g]]
+- [[2026-07-17-zambie-lance-reseau-4g-prive-govlink]]
 - [[2025-09-11 DZAP World Bank PAD]]
 - [[2026-06-17 Zambia's govt leans towards open-source]]
 - [[2026-03-24 Zambia looking for MOSIP system integrator to support digital ID project]]

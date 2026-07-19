@@ -6,7 +6,7 @@ parent: XWA
 place_kind: country
 topics: [gov.policy, infra.store, infra.cybersec, dpi.govtech, dpi.id, dpi.registry, gov.regional, gov.legislate, finance.mou, finance.new, tech.ai, tech.innovate, capacity.training, dpi.pay, infra.connect, include.access, include.divides]
 status: active
-last_reviewed: 2026-07-15
+last_reviewed: 2026-07-19
 ---
 
 # Burkina Faso (BFA)
@@ -20,6 +20,13 @@ supervision centre for critical digital infrastructure.
 
 ## Recent developments
 
+- **2026-07-17** — **33 tonnes of mobile equipment collected under Orange's circular-economy
+  programme.** Per Orange's **Rapport RSE 2025 (published 2026-07-10)**, **[[orange]]** collected
+  **33 tonnes of used mobile equipment** in Burkina Faso with support from Emmaüs International and
+  Ateliers du Bocage — one national track in an Orange Middle East & Africa programme that refurbished
+  **164,000 internet boxes across the region in 2025 (+43% on 2024)**, reselling restored devices at
+  lower prices. Operator-reported and unaudited in the held source. See [[include.access]],
+  [[tech.industry]], [[XAF]]. Source: [[2026-07-17-orange-reconditionne-164000-box-internet]].
 - **2025→2026 — AI: from "no strategy" to a Roadmap 2026–2030, sovereign by language.** [[tech.ai]]
   Burkina went from having **no national AI strategy** (2025) to a **validated Roadmap 2026–2030** (RELANCE
   Plan, "AI for All"), with a distinctive **sovereign-AI-by-language** flagship — an LLM corpus in Mooré,

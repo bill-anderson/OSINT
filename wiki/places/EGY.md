@@ -6,7 +6,7 @@ parent: XNA
 place_kind: country
 topics: [dpi.govtech, dpi.id, dpi.pay, gov.protect, gov.legislate, dpi.mis, dpi.registry, dpi.exchange, tech.ai, gov.policy, infra.connect, infra.store, infra.cybersec, gov.regional, finance.new, include.access, tech.industry, tech.innovate, capacity.training, digital.rural, include.divides, geopol.china]
 status: active
-last_reviewed: 2026-07-18
+last_reviewed: 2026-07-19
 ---
 
 # Egypt (EGY)
@@ -20,6 +20,35 @@ and social protection, and a **submarine-cable / data-centre hub** position — 
 
 ## Recent developments
 
+- **2026-07-17** — **Telecom Egypt cancels the Helios data-centre stake sale; RDH carved out
+  wholly-owned.** **[[telecom-egypt]]**'s board withdrew from the agreement — announced
+  **2025-09-07** — to sell a **75–80%** majority interest in the unit owning its
+  **[[regional-data-center-hub|Regional Data Center Hub (RDH)]]** to Africa-focused private-equity
+  firm **[[helios-investment-partners]]**, saying the transaction's conditions had not been met. It
+  will instead **carve RDH out as a wholly-owned subsidiary** with a dedicated technical and
+  commercial team, citing the sector's growth and rising Egyptian demand as requiring a specialised
+  operating model. **No consideration or breakdown of the unmet conditions was disclosed.** The
+  outcome keeps a cable-adjacent data-centre estate wholly under a state-controlled operator — a
+  sovereignty-consistent result on transactional, not sovereigntist, stated grounds. See
+  [[telecom-egypt-helios-rdh-stake-sale]], [[infra.store]], [[finance.new]], [[egypt--infra-store]].
+  Source: [[2026-07-17-telecom-egypt-cancels-helios-data-center-stake-sale]].
+- **2026-07-17** — **UNIDO–Orange local electronics-refurbishment unit.** Per Orange's **Rapport RSE
+  2025 (published 2026-07-10)**, a partnership between **[[orange]]** and **[[unido|UNIDO]]** created a
+  **local unit dedicated to refurbishing electronic equipment** in Egypt — Egypt's national track in an
+  Orange Middle East & Africa circular-economy programme that refurbished **164,000 internet boxes
+  region-wide in 2025 (+43% on 2024)**. Small in itself, but it puts device-affordability and e-waste
+  capacity onto Egypt's digital-industry map. See [[tech.industry]], [[include.access]], [[XAF]].
+  Source: [[2026-07-17-orange-reconditionne-164000-box-internet]].
+- **2026-07-17** — **World Bank cooperation deepened — knowledge over finance.** ICT minister
+  **Raafat Hendy** met WBG managing director **Paschal Donohoe** in Cairo; **digital skills, AI and
+  innovation** named priority areas alongside digital infrastructure. **[[mcit-egypt|MCIT]]** set out
+  its flagship projects — strengthening DPI, expanding high-speed internet, upgrading telecoms in
+  **[[decent-life-initiative|Decent Life]]** villages — and said fibre now reaches **more than 1,250
+  rural villages (as of 2026-07)**; forward plans cover more PPPs, **data-centre investment**,
+  **data governance** and **children's online safety**. Donohoe: *"knowledge is now as important as
+  financing."* **A cooperation meeting — no instrument, agreement or figure announced.** See
+  [[world-bank]], [[itida-egypt]], [[gov.policy]], [[digital.rural]], [[egypt--infra-connect]].
+  Source: [[2026-07-17-egypt-deepens-world-bank-digital-partnership]].
 - **2026-07** — **Data-centre & AI push.** MCIT preparing a **national data-centre strategy**
   (localisation); Cabinet reaffirmed **hyperscale + cloud/AI** expansion; **[[hassan-allam-data-centre|Hassan
   Allam]]** won a **$400m DC licence** (10th in two years); **[[itida-egypt|ITIDA]]–EY MENA** ITO delivery

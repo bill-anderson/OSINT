@@ -3,11 +3,11 @@ type: entity
 entity_type: organisation
 title: GSMA
 places: [XAF, XSS, XGL, GHA]
-topics: [infra.connect, include.divides, tech.ai, gov.policy, dpi.pay]
+topics: [infra.connect, include.divides, tech.ai, gov.policy, dpi.pay, infra.energy]
 lens: [sovereignty, colonialism]
 status: active
-last_reviewed: 2026-07-16
-sources: [[2026-06-18 Africa's $240 Billion Mobile Economy A Checkpoint on Africa's Digital Transformation Journey], [2026-06-16 Who Owns Africa's Sky], [2026-07-09 ITU's Partner2Connect crosses $100 billion in global connectivity pledges], [2026-04-16 3 Reasons Mobile Money Programs Have a $1.7 Trillion Problem], [2026-03-24 Mobile Money in Africa Strong Growth, but Adoption Still Falls Short], [2026-04-13 Stakeholders urge shift in digital public infrastructure trajectory], [2026-03-01 GSMA State of the Industry Report on Mobile Money 2026], [2026-01-07 Why Ethiopia, Somalia and Djibouti are starting to matter in digital Africa], [2026-02-05 Can Africa's Power Grid Withstand the Next Wave of Emerging Technologies], [2026-01-15 Leveraging AI to Bypass the Smartphone Barrier and Advance Digital Inclusion in Africa], [2026-04-16 The Long View - What ICT4D did for Africa and why that deep past matters for today], [2025-09-03 New GSMA report at Digital Africa Summit Ghana - digital reforms could add $3.4bn to the economy by 2030]]
+last_reviewed: 2026-07-19
+sources: [[2026-07-17-gsma-mobile-net-zero-renewable-energy], [2026-06-18 Africa's $240 Billion Mobile Economy A Checkpoint on Africa's Digital Transformation Journey], [2026-06-16 Who Owns Africa's Sky], [2026-07-09 ITU's Partner2Connect crosses $100 billion in global connectivity pledges], [2026-04-16 3 Reasons Mobile Money Programs Have a $1.7 Trillion Problem], [2026-03-24 Mobile Money in Africa Strong Growth, but Adoption Still Falls Short], [2026-04-13 Stakeholders urge shift in digital public infrastructure trajectory], [2026-03-01 GSMA State of the Industry Report on Mobile Money 2026], [2026-01-07 Why Ethiopia, Somalia and Djibouti are starting to matter in digital Africa], [2026-02-05 Can Africa's Power Grid Withstand the Next Wave of Emerging Technologies], [2026-01-15 Leveraging AI to Bypass the Smartphone Barrier and Advance Digital Inclusion in Africa], [2026-04-16 The Long View - What ICT4D did for Africa and why that deep past matters for today], [2025-09-03 New GSMA report at Digital Africa Summit Ghana - digital reforms could add $3.4bn to the economy by 2030]]
 ---
 
 # GSMA
@@ -92,6 +92,20 @@ continent's connectivity and usage gaps.
   [[include.divides]], [[dpi.pay]]. Source:
   [[2025-09-03 New GSMA report at Digital Africa Summit Ghana - digital reforms could add $3.4bn to the economy by 2030]].
 
+- **Mobile Net Zero 2026 — renewables access as the emerging-market brake (2026-07-17).**
+  [[infra.energy]] GSMA's climate flagship (**[[gsma-mobile-net-zero-2026]]**) argues the mobile
+  sector's decarbonisation now turns on **access to renewable electricity in emerging markets**, and
+  presses governments to liberalise electricity markets, streamline clean-energy permitting and
+  **recognise communications networks as critical infrastructure in national resilience planning** —
+  the same asks African operators make of their own grids. Two findings bear directly on Africa: the
+  **100 largest towercos ran ~4m sites and burned >2bn litres of diesel in 2024**, with **fewer than
+  a quarter** holding validated targets **(as of the 2026 edition)**; and renewable shares are
+  concentrated in rich markets (**Europe ~70%, North America ~50%, Latin America ~45% in 2024**),
+  with the global operator average at **24% (2024, up from 10% in 2019)**. Regional figures for
+  Africa are not broken out in the material held. *Cite, don't absorb* — global panel figures stay on
+  the report page. See [[infra.energy]], [[infra.connect]]. Source:
+  [[2026-07-17-gsma-mobile-net-zero-renewable-energy]].
+
 ## Reads
 
 - `colonialism`: the exclusion of African languages from global AI systems, and
@@ -102,6 +116,7 @@ See [[XAF]], [[include.divides]], [[infra.connect]].
 
 ## Sources
 
+- [[2026-07-17-gsma-mobile-net-zero-renewable-energy]]
 - [[2026-06-18 Africa's $240 Billion Mobile Economy A Checkpoint on Africa's Digital Transformation Journey]]
 - [[2026-06-16 Who Owns Africa's Sky]]
 - [[2026-07-09 ITU's Partner2Connect crosses $100 billion in global connectivity pledges]]

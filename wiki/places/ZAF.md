@@ -154,6 +154,27 @@ paid. **The government's arithmetic corroborates the plaintiffs.** Full case:
 
 ### Inclusion, connectivity and the digital economy
 
+- **2026-07-17** *(comparative, via Kenya reporting)* — **South Africa's investor residence route as a
+  regional benchmark.** South Africa introduced a **permanent-residence route for investors under the
+  Immigration Act in 2002**, open to foreigners investing at least **R12 million (~$729,000)** — a
+  structural provision, unchanged in the held source. It surfaces here because **Cape Town is now named
+  as a rival investment base** against which Nairobi is measuring itself: the
+  **[[kenya-investment-authority]]** is designing a residency-by-investment programme explicitly to
+  compete with Cape Town, Kigali and Mauritius for globally mobile venture capital, which needs
+  partners resident for years rather than capital wired in. The comparison is the intelligence, not a
+  South African development. See [[KEN]], [[MUS]], [[gov.policy]], [[tech.innovate]]. Source:
+  [[2026-07-17-kenya-golden-visa-investors]].
+- **2026-07-17** — **Vodacom signs a digital-inclusion protocol with the ITU.**
+  **[[vodacom]]** signed a protocol with the **[[itu]]** to deepen collaboration on digital inclusion
+  and telecoms development across Africa, sharing operational expertise from its markets. Focus areas:
+  **regulatory frameworks for satellite communications and spectrum management**, digital-inclusion
+  strategies, and connectivity for education. **No value, term or start date disclosed.** Worth
+  reading alongside Vodacom's own position on LEO licensing — the operator has been named among
+  telcos losing premium customers to **[[starlink]]** and has argued for treating satellites as
+  wholesale rather than retail competitors, so spectrum and satellite regulation is a live commercial
+  interest as well as a development agenda. See [[vodacom-itu-digital-inclusion-protocol]],
+  [[gov.standards]], [[include.divides]], [[data.satellite]], [[XAF]]. Source:
+  [[2026-07-17-vodacom-itu-digital-inclusion-partnership]].
 - **2026-01-19 / 2026-01-28** — **Digital-by-default exclusion, litigated with numbers.**
   **[[sassa]]**: as of **1 Jan 2026**, of **14,135** SRD applications from permanent residents,
   refugees and special-permit holders, **8,368 approved but only 2,690 paid — 32%**. Nine days later

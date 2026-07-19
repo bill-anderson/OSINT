@@ -4,12 +4,12 @@ title: Malawi × Connectivity
 place: MWI
 topic: infra.connect
 places: [MWI]
-topics: [infra.connect, include.divides, include.access, gov.policy]
+topics: [infra.connect, include.divides, include.access, gov.policy, gov.legislate]
 entities: [[tnm-malawi], [airtel-malawi], [macra-malawi], [dmap], [world-bank], [huawei]]
 lens: []
 status: active
 last_reviewed: 2026-07-19
-sources: [[2026-05-22-airtel-satellite-connectivity-agm-techafricanews], [2026-04-17-school-connectivity-unicef-giga-report-malawi24], [2026-03-26-dmap-90-telecom-towers-rural-connectivity-techafricanews], [2025-07-26-tnm-5g-launch-malawi-2063-malawi24], [2025-06-26-macra-spectrum-fees-cut-20pc-techafricanews], [2025-06-23 Digitalizing Malawi to improve access to education, public services, and income opportunities], [2026-07-17-macra-internet-price-petition-malawi24]]
+sources: [[2026-07-17-macra-airtel-malawi-tnm-tariff-compensation], [2026-05-22-airtel-satellite-connectivity-agm-techafricanews], [2026-04-17-school-connectivity-unicef-giga-report-malawi24], [2026-03-26-dmap-90-telecom-towers-rural-connectivity-techafricanews], [2025-07-26-tnm-5g-launch-malawi-2063-malawi24], [2025-06-26-macra-spectrum-fees-cut-20pc-techafricanews], [2025-06-23 Digitalizing Malawi to improve access to education, public services, and income opportunities], [2026-07-17-macra-internet-price-petition-malawi24]]
 ---
 
 # Malawi × Connectivity
@@ -59,5 +59,17 @@ distribution to rural areas, schools and affordable retail access remains the bi
   practices**, publish findings and strengthen consumer protection — retail affordability and billing
   transparency as the felt edge of the connectivity gap. See [[include.access]], [[gov.protect]]. Source:
   [[2026-07-17-macra-internet-price-petition-malawi24]].
+- **MACRA orders compensation over a tariff-notice breach (2026-07-17).** Reviewing implementation of
+  tariff increases **it had itself approved**, MACRA found **[[airtel-malawi|Airtel Malawi]]** and
+  **[[tnm-malawi|TNM]]** in breach of **s.76 of the Communications Act 2016**, which requires approved
+  tariff changes to be published in **at least two daily newspapers seven days before** they take effect —
+  a transparency provision meant to give consumers time to adjust. Both operators agreed to credit
+  customers who bought affected products during the notice window (**26 Jun – 2 Jul 2026**) with bundles
+  worth the price difference; MACRA set a **31 July 2026** deadline plus evidence of compliance, ordered
+  internal compliance procedures tightened, and said it would monitor delivery. See [[gov.legislate]],
+  [[include.access]]. Source: [[2026-07-17-macra-airtel-malawi-tnm-tariff-compensation]].
+- **Read:** the price rise stands — what was enforced was **notice**, not affordability. Arriving the same
+  day as the 885-signature pricing petition, it is a procedural remedy answering a substantive grievance:
+  MACRA polices *how* prices are announced while the *level* remains the regulator's own approved outcome.
 
-See [[MWI]], [[infra.connect]], [[macra-malawi]].
+See [[MWI]], [[infra.connect]], [[macra-malawi]], [[gov.legislate]].

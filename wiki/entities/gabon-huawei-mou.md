@@ -6,8 +6,8 @@ places: [GAB]
 topics: [finance.mou, geopol.china, capacity.training]
 lens: [sovereignty, colonialism]
 status: active
-last_reviewed: 2026-07-11
-sources: [[2026-01-05 Gabon and Huawei Forge Partnership to Boost National Digital Transformation]]
+last_reviewed: 2026-07-19
+sources: [[2026-01-05 Gabon and Huawei Forge Partnership to Boost National Digital Transformation], [2026-07-17-gabon-garantie-publique-huawei-start-up]]
 ---
 
 # Gabon–Huawei Digital Transformation MoU
@@ -30,6 +30,14 @@ Nguema. **Status:** active.
   [[capacity.training]], [[geopol.china]], [[sovereignty]], [[colonialism]]. Source:
   [[2026-01-05 Gabon and Huawei Forge Partnership to Boost National Digital Transformation]].
 
+- **Successor accord, narrower scope (2026-07-14).** A **separate, later** agreement —
+  **[[gabon-huawei-kimba-connect-accord]]** — gives Huawei Gabon a technical-accompaniment role in the
+  **[[kimba-connect]]** open-innovation programme (smart rooms; training in networks, cybersecurity, AI
+  and software development; certifying kits). It operationalises this MoU's pillars (2) and (3) for the
+  start-up ecosystem specifically, and does not supersede it. Source:
+  [[2026-07-17-gabon-garantie-publique-huawei-start-up]].
+
 ## Sources
 
 - [[2026-01-05 Gabon and Huawei Forge Partnership to Boost National Digital Transformation]]
+- [[2026-07-17-gabon-garantie-publique-huawei-start-up]]

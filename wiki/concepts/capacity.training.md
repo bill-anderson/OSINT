@@ -2,8 +2,8 @@
 type: concept
 title: Training and skills
 slug: capacity.training
-places: [AGO, ZMB, MAR, XGL, GHA, NAM, SLE, XAF, ZAF, NGA, KEN, ZWE, XSS, ETH, GAB, RWA, TZA, SDN, MUS, MWI]
-entities: [[dzap], [mosip], [undp], [smart-africa], [afnic], [partner2connect], [liquid-c2], [microsoft], [cassava-technologies], [microsoft-sa-2026-expansion], [orange], [adli], [dial], [google], [google-for-startups-accelerator-africa], [google-ai-research-foundations], [google-deepmind], [hustle-academy], [dhet-south-africa], [microsoft-elevate], [tiara-pathon], [huawei], [ghana-national-ai-strategy], [uae], [starlink], [teknowledge], [ai-unipod-ethiopia], [digital-ethiopia-2030], [ethiopian-ai-institute], [gabon-huawei-mou], [anthropic-rwanda-mou], [anthropic], [tech-corps], [kenya-school-of-government], [kenya-cyber-resilience-project], [expertise-france], [dl4all-nitda], [nitda], [pdpc-tanzania]]
+places: [AGO, ZMB, MAR, XGL, GHA, NAM, SLE, XAF, ZAF, NGA, KEN, ZWE, XSS, ETH, GAB, RWA, TZA, SDN, MUS, MWI, XWA]
+entities: [[dzap], [mosip], [undp], [smart-africa], [afnic], [partner2connect], [liquid-c2], [microsoft], [cassava-technologies], [microsoft-sa-2026-expansion], [orange], [adli], [dial], [google], [google-for-startups-accelerator-africa], [google-ai-research-foundations], [google-deepmind], [hustle-academy], [dhet-south-africa], [microsoft-elevate], [tiara-pathon], [huawei], [ghana-national-ai-strategy], [uae], [starlink], [teknowledge], [ai-unipod-ethiopia], [digital-ethiopia-2030], [ethiopian-ai-institute], [gabon-huawei-mou], [anthropic-rwanda-mou], [anthropic], [tech-corps], [kenya-school-of-government], [kenya-cyber-resilience-project], [expertise-france], [dl4all-nitda], [nitda], [pdpc-tanzania], [codar], [codar-funding-round-2026], [japan], [unesco-iicba], [federal-ministry-education-nigeria], [e-mark-innovation-hub], [zambia-national-ai-strategy], [itu]]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-19
@@ -155,6 +155,37 @@ Building the digital-skills base for citizens and the workforce.
   [[2026-01-27 Kenya launches project to boost cyber security]],
   [[2026-01-23 NITDA Commits to Digital Inclusion for Persons with Disabilities]].
 
+- **Two funding models for the same gap ([[NGA]], 2026-07).** Two items landed within a day of each
+  other showing the AI-skills layer being financed from opposite directions. **[[codar]]** closed
+  **$1.5m** ([[codar-funding-round-2026]], equity plus debt, **investors undisclosed**) to expand
+  AI programmes, open learning hubs and widen scholarships — **venture-financed** skilling, where
+  the training is ultimately accountable to investors rather than to a donor or a ministry;
+  self-reported **>5,000 active learners** and **>70,000 students reached (2026-07-17)**, with no
+  completion or placement rate disclosed. *Sponsored TechCabal Partner / Press Room placement — a
+  first-hand company announcement, not independent reporting.* Meanwhile **[[japan]]**, through
+  **[[unesco-iicba]]** and the **[[federal-ministry-education-nigeria|Federal Ministry of
+  Education]]**, donated ICT equipment — laptops, tablets, desktops, smart boards, projectors,
+  printers, backup hard drives — to **15 Colleges of Education** (handover **2026-06-02**, Abuja,
+  by Chargé d'Affaires Hitoshi Kozaki) under a project on teacher capacity for inclusive access
+  for girls in West Africa. **No monetary value or recipient list is disclosed.** The contrast is
+  the point: one bet targets **learners** and is priced by a market; the other targets **the
+  institutions that train teachers** and is priced by a donor — and only the first publishes a
+  number for people reached, though neither publishes an outcome. See [[tech.ai]],
+  [[capacity.literacy]], [[include.access]], [[nigeria--tech-ai]]. Sources:
+  [[2026-07-17-codar-raises-1-5m-ai-education]],
+  [[2026-07-17-japan-ict-equipment-nigerian-colleges]].
+- **Robotics competition as a national skills pipeline ([[ZMB]], 2026-07-17).** Zambia reached the
+  global finals of the **2026 AI for Good / Robotics for Good Youth Challenge** (Geneva) among
+  **nearly 50 participating countries**, and was **invited to the 2027 summit**. The delegation
+  came from a **nine-month** identification-and-mentoring cycle run by a private hub,
+  **[[e-mark-innovation-hub]]**, whose CEO stressed the talent exists but the research and
+  innovation investment does not. The Ministry of Education tied the challenge to Zambia's
+  **Competency-Based Curriculum** and urged national talent-scouting **including in rural
+  communities**; the Ministry of Youth cited youth resource centres with **[[starlink]]**
+  connectivity. Full thread, including the forthcoming
+  **[[zambia-national-ai-strategy]]** and a proposed [[itu]] AI for Good Lab:
+  **[[zambia--tech-ai]]**. Source: [[2026-07-17-zambia-ai-leadership-robotics-challenge]].
+
 - **[[NGA]] Nigeria — a World Bank digital-skills baseline (2024, reference).** A [[world-bank]] study
   of Nigeria's digital-skills gap and school ICT infrastructure — captured as a reference study (cite,
   don't absorb its dated figures). See [[include.divides]], [[NGA]]. Source:
@@ -171,7 +202,7 @@ Building the digital-skills base for citizens and the workforce.
 
 ## Places
 
-[[ZMB]] · [[MAR]] · [[XGL]] · [[GHA]] · [[NAM]] · [[SLE]] · [[ZAF]] · [[XAF]] · [[NGA]] · [[KEN]] · [[ZWE]] · [[XSS]] · [[ETH]] · [[GAB]] · [[RWA]] · [[GNB]] · [[BEN]] · [[MUS]] · [[MWI]]
+[[ZMB]] · [[MAR]] · [[XGL]] · [[GHA]] · [[NAM]] · [[SLE]] · [[ZAF]] · [[XAF]] · [[NGA]] · [[KEN]] · [[ZWE]] · [[XSS]] · [[ETH]] · [[GAB]] · [[RWA]] · [[GNB]] · [[BEN]] · [[MUS]] · [[MWI]] · [[XWA]]
 
 ## Sources
 
@@ -209,3 +240,6 @@ Building the digital-skills base for citizens and the workforce.
 - [[2026-01-23 NITDA Commits to Digital Inclusion for Persons with Disabilities]]
 - [[2026-07-14 OUT, PDPC Launch National Data Protection Programme]]
 - [[2024-01-01 Digital Skills in Nigeria (World Bank)]]
+- [[2026-07-17-codar-raises-1-5m-ai-education]]
+- [[2026-07-17-japan-ict-equipment-nigerian-colleges]]
+- [[2026-07-17-zambia-ai-leadership-robotics-challenge]]

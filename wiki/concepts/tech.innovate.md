@@ -2,12 +2,12 @@
 type: concept
 title: Innovation ecosystem
 slug: tech.innovate
-places: [COG, CIV, BWA, BFA, BEN, BDI, AGO, GAB, XAF, GHA, UGA, NGA, KEN, ZAF, DZA, ERI, NER]
-entities: [[st-digital-gabon], [samuel-nartey-george], [google], [google-for-startups-accelerator-africa], [mosip], [id4africa], [angola-startups-law], [kimbo-fund], [luanda-technology-park], [slb-africa-performance-center], [ifc], [african-development-bank]]
+places: [COG, CIV, BWA, BFA, BEN, BDI, AGO, GAB, XAF, GHA, UGA, NGA, KEN, ZAF, DZA, ERI, NER, MUS, ZMB]
+entities: [[st-digital-gabon], [kimba-connect], [societe-gabonaise-de-garantie], [gabon-sgg-startup-guarantee-accord], [gabon-huawei-kimba-connect-accord], [ministere-economie-numerique-gabon], [mark-alexandre-doumba], [samuel-nartey-george], [google], [google-for-startups-accelerator-africa], [mosip], [id4africa], [angola-startups-law], [kimbo-fund], [luanda-technology-park], [slb-africa-performance-center], [ifc], [african-development-bank], [kenya-investment-authority], [john-mwendwa], [kutanapay], [zerobionics], [norah-kimathi], [e-mark-innovation-hub], [zambia-national-ai-strategy]]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-19
-sources: [[2026-07-06 Gabon Inaugurates First Tier III Datacenter to Boost Digital Sovereignty], [2026-07-07 Ghana and UNDP Strengthen Partnership on Digital Transformation Projects], [2026-07-01 Google Cloud Summit in Africa Highlights the Continent's Digital Transformation and Unveils New Agentic AI and Infrastructure Investments], [2026-06-20 Ethiopia launches unified MESOB Platform to accelerate national digital transformation], [2026-06-19 What Google's latest startup cohort says about AI in Africa], [2026-06-11 DR Congo to Launch National Digital Identity System RDC-PASS on June 13], [2026-04-21 Meet the 15 Startups Joining the Google for Startups Accelerator Africa Class 10], [2026-05-22 Uganda launches prototype program for digital ID and public infrastructure], [2026-05-28 Why decentralized digital identity looks different in every country], [2026-03-25 On Documenting African AI Knowledge What Becomes Possible], [2025-12-15 African AI Startups Should Publish Openly]]
+sources: [[2026-07-06 Gabon Inaugurates First Tier III Datacenter to Boost Digital Sovereignty], [2026-07-07 Ghana and UNDP Strengthen Partnership on Digital Transformation Projects], [2026-07-01 Google Cloud Summit in Africa Highlights the Continent's Digital Transformation and Unveils New Agentic AI and Infrastructure Investments], [2026-06-20 Ethiopia launches unified MESOB Platform to accelerate national digital transformation], [2026-06-19 What Google's latest startup cohort says about AI in Africa], [2026-06-11 DR Congo to Launch National Digital Identity System RDC-PASS on June 13], [2026-04-21 Meet the 15 Startups Joining the Google for Startups Accelerator Africa Class 10], [2026-05-22 Uganda launches prototype program for digital ID and public infrastructure], [2026-05-28 Why decentralized digital identity looks different in every country], [2026-03-25 On Documenting African AI Knowledge What Becomes Possible], [2025-12-15 African AI Startups Should Publish Openly], [2026-07-17-kenya-golden-visa-investors], [2026-07-17-kutanapay-ai-blockchain-cross-border-trade], [2026-07-17-gabon-garantie-publique-huawei-start-up]]
 ---
 
 # Innovation ecosystem (`tech.innovate`)
@@ -17,6 +17,52 @@ economic activity — the layer beyond hardware.
 
 ## Key material
 
+- **Immigration policy becomes an ecosystem instrument ([[KEN]], 2026-07-17).** The
+  **[[kenya-investment-authority|Invest Kenya]]** proposal for **residency by investment** — long-term
+  residency for investors committing substantial capital and creating jobs, reviving a 2019 plan never
+  implemented — is the clearest case on file of a state treating *immigration* rather than *tax* as the
+  lever for attracting capital. The reasoning is specific to venture capital rather than FDI generally:
+  VC partners sit on boards, recruit executives and work with portfolio companies, so they must be
+  physically resident for years, and **work-permit renewal cycles are therefore an ecosystem
+  constraint**. Kenya already hosts regional offices for Antler, Capria Ventures, Delta40 and Enza
+  Capital; its startups raised **$984m in 2025** (the continent's highest, ~a third of all African
+  startup investment, led by climate and energy), and it stayed the largest African destination in
+  **H1 2026** despite a slowdown. Thresholds and sectors are undetermined and the programme
+  **requires legislation** ([[john-mwendwa]]). Comparators cited: **[[ZAF]]** (investor permanent
+  residence under the Immigration Act since 2002, **R12m / ~$729,000**) and **[[MUS]]** (residency
+  minimum cut **$500,000 → $375,000 in 2020**). See [[gov.policy]], [[finance.new]]. Source:
+  [[2026-07-17-kenya-golden-visa-investors]].
+- **Startups filling the gap public rails leave ([[GHA]], 2026-07-17).** **[[kutanapay]]** (Accra,
+  founded 2023) illustrates a recurring ecosystem pattern: state DPI solves the *transfer* problem —
+  interoperable mobile money, [[papss]] settlement — and a startup monetises the *trust* problem left
+  over, here milestone-gated escrow against non-payment and non-delivery in cross-border trade, bundled
+  with cargo insurance, dispute resolution, trade finance and AI trade-flow analytics. Market framing
+  cited: an **[[african-development-bank|AfDB]]** trade-finance gap of **$74–92bn a year**. Company
+  claims of multi-country operation and rising volumes are undisclosed as to detail. See [[dpi.pay]],
+  [[ghana--dpi-pay]]. Source: [[2026-07-17-kutanapay-ai-blockchain-cross-border-trade]].
+- **Hardware in Africa, and what it costs to attempt ([[KEN]], 2026-07-17).** Almost everything on
+  this page is software or platform; **[[zerobionics]]** is the wiki's clearest current case of a
+  startup building **physical products**, and the founder's account is mostly an inventory of the
+  frictions that implies. **[[norah-kimathi]]** (co-founded 2021) makes humanoid robots that
+  translate speech into sign language for deaf students, and names the binding constraint as
+  **cost, aggravated by the absence of any community building comparable hardware** — nowhere to
+  source, borrow or share components. The responses are all cost engineering: recycled-plastic
+  casings (**>60% cost reduction**, "ten units for what we previously did five"), material-frugal
+  designs, and delivery over **2G**. When the company bought 3D printers it found others in the
+  ecosystem could not access such equipment, and **opened part of its office as a shared maker
+  space** for robotics builders — an ecosystem gap being filled by a startup because nothing else
+  fills it. Founder-reported reach **510,000 beneficiaries (2026-07-17)**; *single
+  founder-interview source, no figure independently verified*. See [[tech.ai]],
+  [[include.access]], [[kenya--tech-ai]]. Source:
+  [[2026-07-17-zerobionics-sign-language-robots-kenya]].
+- **[[ZMB]] Zambia — a private hub carrying the national pipeline (2026-07-17).** Zambia's advance
+  to the global finals of the 2026 Robotics for Good Youth Challenge (among **nearly 50
+  countries**) came out of a **nine-month** identification-and-mentoring cycle run by
+  **[[e-mark-innovation-hub]]**, not a state programme; its CEO used the moment to argue the talent
+  pool is real but research and innovation investment is not. The state contribution on file is
+  framing and a forthcoming **[[zambia-national-ai-strategy]]** and **Startup Bill** — neither
+  published. Full thread: **[[zambia--tech-ai]]**. See [[capacity.training]], [[gov.policy]].
+  Source: [[2026-07-17-zambia-ai-leadership-robotics-challenge]].
 - **[[NER]] Niger — a state-backed startup scene under a junta (2025).** Despite conflict and low connectivity,
   **[[ansi-niger|ANSI]]** backs an emerging ecosystem: **Qwiper** (an all-in-one super-app; sovereign cloud/AI),
   **E-Mobility Niger** (PCI-DSS payments + green mobility), the ANSI-subsidised **CodeLoccol** digital school
@@ -76,6 +122,21 @@ economic activity — the layer beyond hardware.
 
 - **[[AGO]] Angola — a law and the first cheques, on a thin base (2025–26).** Angola passed a **[[angola-startups-law|Startups Law]]** (unanimous, March 2026): ~$3.5m revenue ceiling, no floor, provisional seal, **75% investor tax break** — the framework the **[[ifc|IFC]]** recommended after counting ~**125 startups with no exits** (2023) and **<2% venture-funded** (Launch Base Africa). Scaffolding: the **[[luanda-technology-park|Luanda Science & Technology Park]]** (AfDB $100m STDP, opened June 2026), the INAPEM–INFOSI **DIGITAL.AO** incubator, and rare private capital via **[[kimbo-fund|Kimbo Fund]]** (BFA AM; FSDEA-anchored, first PE to deploy — $1.2m into mobility startup Anda after 3-year diligence). Angola's actual AI capacity is landing in oil & gas (**[[slb-africa-performance-center|SLB's Luanda hub]]**, 2025). Sources: [[2026-03-23-angola-passes-landmark-start-up-law]], [[2026-06-29-angola-launches-luanda-technology-park]], [[2026-03-30-bfa-asset-management-kimbo-fund-angola-startups]], [[2025-03-18-angolan-agencies-join-forces-to-strengthen-nascent-startup-sector]].
 
+- **[[GAB]] Gabon — the constraints named, the instruments revealing (2026-07).** Gabon launched
+  **[[kimba-connect]]**, described as its **first national open-innovation programme**, targeting an
+  ecosystem **estimated at 150–200 start-ups (2026-07)** with finance, technology, **labellisation** and
+  market access; applications closed **2026-07-24**, final **2026-08-04**. The state's stated diagnosis is
+  that **finance and technical skills** — not connectivity — bind start-up formation, and it signed one
+  accord per constraint on **2026-07-14**: a **credit-guarantee** agreement with the
+  **[[societe-gabonaise-de-garantie]]** ([[gabon-sgg-startup-guarantee-accord]]) and a **skills** agreement
+  with Huawei Gabon ([[gabon-huawei-kimba-connect-accord]]). Two things are worth naming. A **guarantee is
+  cheaper than a fund** — the state underwrites risk instead of deploying capital, which means the credit
+  actually extended depends on bank appetite it does not control; **no ceiling or coverage ratio is
+  published**, so it cannot yet be assessed against the ecosystem it serves. And **labelling makes the
+  ministry the arbiter** of which firms count as credible — support and gatekeeping in one instrument.
+  Full treatment: **[[gabon--tech-innovate]]**. See [[finance.mou]], [[geopol.china]],
+  [[capacity.training]]. Source: [[2026-07-17-gabon-garantie-publique-huawei-start-up]].
+
 ## Places
 
 [[AGO]] · [[GAB]] · [[XAF]] · [[GHA]] · [[UGA]] · [[NGA]] · [[KEN]] · [[ZAF]] · [[NER]]
@@ -86,6 +147,7 @@ economic activity — the layer beyond hardware.
 
 ## Sources
 
+- [[2026-07-17-gabon-garantie-publique-huawei-start-up]]
 - [[2026-07-06 Gabon Inaugurates First Tier III Datacenter to Boost Digital Sovereignty]]
 - [[2026-07-07 Ghana and UNDP Strengthen Partnership on Digital Transformation Projects]]
 - [[2026-07-01 Google Cloud Summit in Africa Highlights the Continent's Digital Transformation and Unveils New Agentic AI and Infrastructure Investments]]

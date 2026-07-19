@@ -6,7 +6,7 @@ parent: XCA
 place_kind: country
 topics: [dpi.id, dpi.pay, dpi.govtech, dpi.registry, dpi.mis, dpi.exchange, gov.policy, gov.protect, gov.legislate, infra.store, infra.connect, infra.cybersec, tech.innovate, tech.ai, finance.new, finance.mou, include.access, capacity.training, digital.localgov, geopol.usa, geopol.china]
 status: active
-last_reviewed: 2026-07-18
+last_reviewed: 2026-07-19
 ---
 
 # Gabon (GAB)
@@ -19,6 +19,17 @@ substantially on foreign finance and vendors, and dogged by slow disbursement an
 
 ## Recent developments
 
+- **2026-07-14** — **Two start-up accords, one per named constraint.** The
+  **[[ministere-economie-numerique-gabon]]** (Minister **[[mark-alexandre-doumba]]**) signed **two separate
+  agreements** on the margins of the launch of **[[kimba-connect]]**, presented as Gabon's **first national
+  open-innovation programme**: with the **[[societe-gabonaise-de-garantie]]** on **credit guarantees** to
+  cut the risk banks bear lending to start-ups ([[gabon-sgg-startup-guarantee-accord]]), and with **Huawei
+  Technologies Gabon** on **technical accompaniment** — smart rooms, training in networks, cybersecurity,
+  AI and software development, and Huawei certifying kits ([[gabon-huawei-kimba-connect-accord]]).
+  Kimba Connect targets an ecosystem **estimated at 150–200 start-ups (2026-07)**, offering finance,
+  technology, **labellisation** and market access; applications closed **2026-07-24**, final **2026-08-04**.
+  **No terms published for either accord.** Full treatment: **[[gabon--tech-innovate]]**. Source:
+  [[2026-07-17-gabon-garantie-publique-huawei-start-up]].
 - **2026-07-03** — Inaugurates its **first national Tier III data centre** ([[gabon-national-datacenter]],
   built by **[[st-digital-gabon]]** in the Nkok SEZ; President Oligui Nguema) — **$14m / 8bn CFA**, 92 racks,
   3,000 m², 1 MW, peered to ACE + SAT-3/WACS — against **~95% of Gabon's data hosted abroad**, reviewed with the
@@ -101,6 +112,13 @@ Interpol Serengeti 2.0, soft-power-hub strategy) — see [[gabon--infra-cybersec
 **EGDI 121st/193 (0.5741)**; **ITU IDI 76.1/100 (11th of 42 in Africa)**; **ITU GCI 2024 Tier 4
 (39.86/100)** — strong on legal, weak on technical/organisational.
 
+### Innovation ecosystem & start-up support — [[tech.innovate]] · [[finance.mou]]
+The state's stated diagnosis is that **finance and skills**, not connectivity, bind local start-up
+formation — and the instruments chosen are a **public guarantee** (cheaper than a fund, but dependent on
+bank appetite) and a **foreign vendor's certified curriculum**. **[[kimba-connect]]** (launched July 2026,
+targeting **150–200 start-ups**) is the vehicle; the SGG and Huawei accords of **2026-07-14** are its
+finance and skills legs. Full treatment: **[[gabon--tech-innovate]]**.
+
 ### Connectivity — [[infra.connect]]
 Early-2025 (DataReportal): **71.9% internet penetration** (1.84m users), 124% mobile-connection
 penetration (3.19m, 88% broadband), 30.5% social-media use; population 2.57m, 91.4% urban. 2026 plans:
@@ -113,13 +131,17 @@ was **relaunched** (2026) for local peering and lower transit costs. Sources:
 ## Entities
 
 - Programmes: [[digital-gabon-project]] · [[sigfip-gabon]] · [[madigipaie-gabon]] · [[digitax-gabon]] ·
-  [[registre-social-unique-gabon]] · [[sige-gabon]] · [[gabon-legal-id-projects]] · [[gabon-connect]]
-- Bodies: [[aninf-gabon]] · [[dgi-gabon]] · [[apdpvp-gabon]]
+  [[registre-social-unique-gabon]] · [[sige-gabon]] · [[gabon-legal-id-projects]] · [[gabon-connect]] ·
+  [[kimba-connect]]
+- Bodies: [[aninf-gabon]] · [[dgi-gabon]] · [[apdpvp-gabon]] · [[ministere-economie-numerique-gabon]] ·
+  [[societe-gabonaise-de-garantie]]
+- People: [[mark-alexandre-doumba]]
 - Infrastructure: [[gabon-national-datacenter]] · [[gabix]] · [[st-digital-gabon]]
 - Vendors/partners: [[in-groupe]] · [[thales]] · [[ign-fi]] · [[world-bank]] · [[uncdf]] · [[visa]] ·
   [[huawei]] · [[beac]]
-- Deals: [[gabon-huawei-mou]] · [[gabon-uncdf-financial-inclusion-deal]] ·
+- Deals: [[gabon-huawei-mou]] · [[gabon-huawei-kimba-connect-accord]] ·
+  [[gabon-sgg-startup-guarantee-accord]] · [[gabon-uncdf-financial-inclusion-deal]] ·
   [[gabon-visa-partnership-deal]] · [[gabon-ign-fi-cadastre-deal]]
-- Intersections: [[gabon--dpi-id]] · [[gabon--dpi-govtech]] · [[gabon--dpi-pay]] · [[gabon--infra-store]] · [[gabon--infra-cybersec]]
-- Mentioned, not hubbed: Ministry of Digital Economy (Minister Mark-Alexandre Doumba); CN-TIPPEE; GIMAC/GIMACPAY;
+- Intersections: [[gabon--dpi-id]] · [[gabon--dpi-govtech]] · [[gabon--dpi-pay]] · [[gabon--infra-store]] · [[gabon--infra-cybersec]] · [[gabon--tech-innovate]]
+- Mentioned, not hubbed: Alban Etho (SGG director-general); CN-TIPPEE; GIMAC/GIMACPAY;
   Semlex; ID30; IKA Technology; MITRE; CNAMGS; ANUTTC; Airtel Gabon; Moov Africa Gabon Telecom.

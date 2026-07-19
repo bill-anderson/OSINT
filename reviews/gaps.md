@@ -644,3 +644,99 @@ study). See log.md.)*
   substantiate [[mytgpt]], [[mauritius--tech-ai]] and a possible Mauritius AI Registry resource entity; the
   mytGPT Education pilot (2026-01-26) is likewise PR-wire and would benefit from a primary.* See
   [[mauritius-telecom]]. (Surfaced MUS sweep ingest, 2026-07-19.)
+
+- **GAP-XGL-001 · ANACOM (Portugal) and Sandra Maximiano have no page despite co-chairing the body
+  that sets Africa's cable-resilience agenda.** Portugal's regulator **ANACOM**, chaired by **Sandra
+  Maximiano**, **co-chaired** the ITU–ICPC
+  [[international-advisory-body-on-submarine-cable-resilience]] alongside Nigeria's
+  [[bosun-tijani]], and hosted the **Porto 2026** summit (the counterpart to Abuja 2025). Three
+  sources now on file name her, but all we hold is a quote — not enough to write a genuine page, and
+  the existing `anacom-angola-mission` page is a **different object** (an Angola/INACOM cooperation
+  initiative, not Portugal's ANACOM), so the bare slug `anacom` has been kept out of frontmatter to
+  avoid a mis-resolving link. *Lead: if the Portugal–Africa subsea-governance channel matters (Porto
+  summit, ANACOM's Lusophone regulatory ties to AGO/MOZ/CPV/GNB/STP), source ANACOM directly and
+  create the page; otherwise leave and the wiki loses nothing.* (Surfaced ingest daily-2026-07-19,
+  2026-07-19.)
+
+- **GAP-XGL-002 · The Science Based Targets initiative (SBTi) is referenced in six `raw/` items with
+  no page.** SBTi validates the corporate climate targets that
+  [[gsma-mobile-net-zero-2026|GSMA's Mobile Net Zero]] uses as its adoption metric (**46 of 50**
+  operator net-zero commitments validated, as of the 2026 edition; **<a quarter** of the largest
+  towercos). It is a standing external `instrument`/`organisation` that recurs whenever
+  network-energy or towerco decarbonisation comes up — including for African towercos. Not created
+  here because it sits at the edge of this wiki's data-governance scope. *Lead: decide whether the
+  energy/towerco thread is in scope enough to warrant an SBTi page; if so it is an `organisation`
+  (the validator) rather than an instrument.* (Surfaced ingest daily-2026-07-19, 2026-07-19.)
+
+- **GAP-ZMB-004 · Care 2.0, the second Zambian national digital-health platform, has no page and no
+  dedicated source.** Four held sources now name **Care 2.0** as a platform piloted at **Ndola
+  Teaching Hospital, Arthur Davison Children's Hospital and Kitwe Teaching Hospital** and migrating
+  onto **[[govlink]]** alongside **[[smartcare-pro]]** — yet nothing on file says what it is, who
+  built it, how it relates to SmartCare Pro (successor? parallel system? the "SmartCare 2.0" of the
+  ITWeb account?), or whether it touches the same biometric patient identity. The wiki carries a
+  detailed page on one national EHR and a blank where the second sits beside it. *Lead: source Care
+  2.0 / SmartCare 2.0 directly (Ministry of Health, SMART Zambia, or the implementers) to establish
+  whether it is a distinct system and how the two relate; the naming drift alone is worth settling.*
+  See [[zambia--infra-connect]], [[ministry-of-health-zambia]]. (Surfaced ingest daily-2026-07-19,
+  2026-07-19.)
+
+- **GAP-XAF-00X · Orange's Rapport RSE 2025 is cited for a dozen figures but not held.** The
+  circular-economy figures now on [[orange]], [[XAF]], [[MAR]], [[BFA]] and [[EGY]] — 164,000 boxes
+  refurbished in 2025 (+43%), 209 tonnes of e-waste collected, 354,000 devices recovered, €13m saved,
+  plus the Morocco (6,000 boxes / €1.5m) and Burkina Faso (33 tonnes) country splits — all trace to
+  **Orange's Rapport RSE 2025, published 2026-07-10**, which the wiki does **not** hold. Everything is
+  therefore single-sourced through one trade-press account of a document we have not read, and every
+  figure is operator-self-reported. *Lead: acquire the Rapport RSE 2025 itself and capture it as an
+  `instrument` (or `resource`) entity — it is a recurring annual with country-level digital-inclusion
+  and e-waste data that will keep being cited; holding it also lets the country splits be checked
+  against the primary rather than a summary.* (Surfaced ingest daily-2026-07-19, 2026-07-19.)
+
+- **GAP-NGA-002 · The NGX Domestic & Foreign Portfolio Report is the wiki's retail-investing series
+  and is not held.** Every figure now on [[nigerian-exchange]], [[NGA]] and [[nigeria--dpi-pay]] for
+  Nigerian retail market participation — **₦2.86 trillion traded Jan–May 2026 (+138.76% y/y)**,
+  **36.22% of trading activity**, **₦4.06 trillion institutional**, the 19-year domestic/foreign
+  breakdown — traces to the **NGX Domestic & Foreign Portfolio Report (May 2026)**, reaching the wiki
+  only through one trade-press account and its embedded data widgets. The report is a **recurring
+  monthly primary** that will keep being cited, and holding it would also settle two of the three
+  dollar-conversion inconsistencies recorded in
+  `reviews/contradictions/open/nigeria-2008-crash-loss-and-ngx-market-cap.md`. *Lead: acquire the NGX
+  Domestic & Foreign Portfolio Report directly from the exchange and capture it as a `resource`
+  entity, so the retail-participation series rests on the primary rather than a summary of it.*
+  (Surfaced ingest daily-2026-07-19, 2026-07-19.)
+
+- **GAP-KEN-003 · Four international VC firms are named as holding Kenyan regional offices, with no
+  page and no source of their own.** The held golden-visa reporting cites **Antler, Capria Ventures,
+  Delta40 and Enza Capital** as maintaining regional offices in Kenya — the concrete evidence behind
+  the claim that Nairobi is East Africa's investment hub, and the constituency a
+  residency-by-investment programme would serve (see [[kenya-investment-authority]], [[KEN]],
+  [[tech.innovate]]). They are held in prose without entity pages, since a bare list mention is too
+  thin to profile from. Given that **Kenyan startups raised $984m in 2025** (~a third of all African
+  startup investment) and Kenya led again in H1 2026, the funder side of that ecosystem being entirely
+  unmapped is a real structural absence. *Lead: source these four firms' African mandates, fund sizes
+  and Kenyan portfolios directly, and decide whether the wiki should carry `company` pages for the
+  active Africa-focused VC funds as a set rather than one at a time.* (Surfaced ingest
+  daily-2026-07-19, 2026-07-19.)
+
+- **GAP-NGA-004 · The PwC and KPMG African AI-adoption figures are load-bearing and unheld.** The
+  Decide/CafeOne reporting supplies the wiki's only continental workplace AI-adoption numbers —
+  **64% of African workers reported using AI at work over the previous year, by end-2025**, against
+  a **54%** global average (**PwC** survey), and **65% of West African CEOs expect AI to drive
+  efficiency improvements in 2026** (**KPMG**). Both now sit on [[nigeria--tech-ai]] as the adoption
+  context for Nigeria's private AI layer, and both reach the wiki **second-hand through one trade-press
+  paragraph**, with no study title, sample size, country coverage or methodology on file — the last of
+  which matters most, since "used AI at work" is a definition that can carry almost any number.
+  *Lead: acquire the PwC and KPMG publications directly and capture each as an `instrument` or
+  `resource` entity, so the adoption baseline rests on the primaries; per the reference-studies rule
+  their figures stay cited, not absorbed.* (Surfaced ingest daily-2026-07-19, 2026-07-19.)
+
+- **GAP-NGA-005 · Enugu's 267 smart green schools have no primary source.** [[enugu-smart-green-schools]]
+  — 267 solar-powered, satellite-connected schools described by Commissioner
+  **[[ndubueze-mbah]]** as Enugu State's flagship education-infrastructure programme — is the wiki's
+  largest sub-national digital-education deployment on file, and everything held about it comes from
+  **one sentence at a supplier-organised summit, carried by a sponsored TechCabal placement**. No
+  budget line, procurement record, funding source, completion status, timeline, pupil numbers,
+  connectivity vendor or independent evaluation is held; the school count is the Commissioner's own
+  figure. A programme of this size ought to leave a documentary trail (state budget, contract awards,
+  a donor or DFI facility). *Lead: source the Enugu State budget/procurement record and any state
+  announcement of the programme, so a 267-school claim rests on something other than a summit remark
+  in vendor-sponsored content.* (Surfaced ingest daily-2026-07-19, 2026-07-19.)

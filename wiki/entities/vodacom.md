@@ -3,11 +3,11 @@ type: entity
 entity_type: company
 title: Vodacom Group
 places: [ZAF, KEN, TZA, XEA, XSS, EGY, COD, MOZ, LSO, ZMB]
-topics: [dpi.pay, infra.connect, tech.ai, include.access, finance.new, infra.store]
+topics: [dpi.pay, infra.connect, tech.ai, include.access, finance.new, infra.store, finance.mou, include.divides, gov.standards, data.satellite]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-16
-sources: [[2026-07-03 Vodacom expands East Africa strategy], [2026-07-03 Google Cloud Region forecasts R1.7tn boost for SA], [2026-06-18 Africa's $240 Billion Mobile Economy A Checkpoint on Africa's Digital Transformation Journey], [2026-05-26 Africa risks losing billions to satellite internet operators, report says], [2026-02-23 Zambia and Mozambique launch fibre-optic interconnector at Chanida–Cassacatiza border], [2025-12-04 Vodacom Group to take controlling stake in Safaricom], [2026-01-01 Starlink Partners with Airtel & Vodacom From Rival to Ally], [2025-12-04 Is it a bird Is it plane No, Jim, it's an African mobile operator, but not as we know it 9]]
+last_reviewed: 2026-07-19
+sources: [[2026-07-17-vodacom-itu-digital-inclusion-partnership], [2026-07-03 Vodacom expands East Africa strategy], [2026-07-03 Google Cloud Region forecasts R1.7tn boost for SA], [2026-06-18 Africa's $240 Billion Mobile Economy A Checkpoint on Africa's Digital Transformation Journey], [2026-05-26 Africa risks losing billions to satellite internet operators, report says], [2026-02-23 Zambia and Mozambique launch fibre-optic interconnector at Chanida–Cassacatiza border], [2025-12-04 Vodacom Group to take controlling stake in Safaricom], [2026-01-01 Starlink Partners with Airtel & Vodacom From Rival to Ally], [2025-12-04 Is it a bird Is it plane No, Jim, it's an African mobile operator, but not as we know it 9]]
 ---
 
 # Vodacom Group
@@ -19,6 +19,14 @@ platforms.
 
 ## Activity in this wiki
 
+- **ITU digital-inclusion protocol (2026-07-17).** Signed a protocol with the **[[itu]]** to deepen
+  collaboration on **digital inclusion and telecoms development across Africa**, committing to share
+  operational expertise from its African markets. Focus areas: **regulatory frameworks for satellite
+  communications and spectrum management**, digital-inclusion strategies, and connectivity for
+  education. No value or term disclosed. Note the alignment with Vodacom's own commercial position on
+  LEO licensing (below). See [[vodacom-itu-digital-inclusion-protocol]], [[gov.standards]],
+  [[include.divides]], [[XAF]]. Source:
+  [[2026-07-17-vodacom-itu-digital-inclusion-partnership]].
 - **East Africa strategy (2026-07-03).** Anchored by its raised **55% Safaricom
   stake**, prioritising **M-PESA / VodaPay / Vodafone Cash** over pure
   connectivity. FY2026 financial-services revenue **R16.8bn (~$1.03bn, +20%)**;

@@ -3,11 +3,11 @@ type: entity
 entity_type: government-body
 title: Malawi Communications Regulatory Authority (MACRA)
 places: [MWI]
-topics: [infra.connect, dpi.id, dpi.registry, gov.legislate, gov.protect, infra.cybersec, tech.ai]
+topics: [infra.connect, dpi.id, dpi.registry, gov.legislate, gov.protect, infra.cybersec, tech.ai, include.access]
 lens: []
 status: active
 last_reviewed: 2026-07-19
-sources: [[2025-05-21 Malawi to Launch Mandatory Biometric SIM Registration in July 2025], [2024-02-12 National Addressing Project - MACRA Website], [2024-06-25 Review of the Malawi Data Protection Act 2024], [2026-07-16-macra-data-protection-registration-compliance-malawi24], [2026-07-14-macra-data-protection-registration-fees-consultation-itweb], [2026-03-26-world-bank-cybersecurity-data-protection-support-techafricanews], [2026-07-10-macra-undp-ai-digital-id-collaboration-itweb]]
+sources: [[2026-07-17-macra-airtel-malawi-tnm-tariff-compensation], [2025-05-21 Malawi to Launch Mandatory Biometric SIM Registration in July 2025], [2024-02-12 National Addressing Project - MACRA Website], [2024-06-25 Review of the Malawi Data Protection Act 2024], [2026-07-16-macra-data-protection-registration-compliance-malawi24], [2026-07-14-macra-data-protection-registration-fees-consultation-itweb], [2026-03-26-world-bank-cybersecurity-data-protection-support-techafricanews], [2026-07-10-macra-undp-ai-digital-id-collaboration-itweb]]
 ---
 
 # Malawi Communications Regulatory Authority (MACRA)
@@ -39,6 +39,21 @@ standardised addresses — a registry layer feeding e-government and service del
   verification** (telecom integrity, anti-fraud) alongside responsible AI and youth digital skills (DG
   Mayamiko Nkoloma). See [[tech.ai]], [[malawi--tech-ai]]. Source:
   [[2026-07-10-macra-undp-ai-digital-id-collaboration-itweb]].
+
+## As consumer-protection enforcer (2026)
+
+- **Ordered Airtel Malawi and TNM to compensate customers over a tariff-notice breach (2026-07-17).**
+  MACRA reviewed the implementation of tariff increases **it had itself approved** and found both
+  **[[airtel-malawi|Airtel Malawi]]** and **[[tnm-malawi|TNM]]** in breach of **Section 76 of the
+  Communications Act 2016**, which requires approved tariff changes to be published in **at least two
+  daily newspapers seven days before** taking effect. Both operators agreed to credit customers who
+  bought affected products during the statutory notice window (**26 June – 2 July 2026**) with bundles
+  worth the difference between old and new prices; MACRA set a **31 July 2026** completion deadline
+  with evidence of compliance, ordered internal compliance procedures strengthened, and said it would
+  monitor delivery. Notable as **procedural** enforcement — the price rise stands; the failure was
+  notice — and as MACRA acting on the consumer side weeks after a public petition on internet pricing
+  (2026-07-17). See [[malawi--infra-connect]], [[include.access]], [[gov.legislate]]. Source:
+  [[2026-07-17-macra-airtel-malawi-tnm-tariff-compensation]].
 
 ## Links
 Place: [[MWI]] · Topics: [[infra.connect]] · [[dpi.id]] · [[dpi.registry]] · [[gov.protect]] ·

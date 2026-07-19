@@ -6,7 +6,7 @@ parent: XAF
 place_kind: region
 topics: [gov.regional, dpi.id, dpi.pay, dpi.exchange, infra.connect, tech.ai, gov.policy, finance.new, gov.standards, infra.capacity, infra.cybersec]
 status: active
-last_reviewed: 2026-07-11
+last_reviewed: 2026-07-19
 ---
 
 # West Africa (XWA)
@@ -18,6 +18,18 @@ blocs are entities: [[ecowas]], [[afcfta]], [[alliance-of-sahel-states]], [[watr
 
 ## Recent developments
 
+- **2026-07-15** — **WATRA turns the global cable-resilience report into a regional agenda.** Executive
+  Secretary **Aliyu Aboki** — a member of the **[[international-advisory-body-on-submarine-cable-resilience]]**
+  (ITU–ICPC; final report approved 2026-07-10, co-chaired by Nigeria's **[[bosun-tijani]]**) — called for
+  stronger regional cooperation on submarine-cable resilience across the **16 [[watra]] member states**,
+  arguing cable protection is now an **economic** priority, not a telecoms one. He anchored the case in the
+  **March 2024** multi-cable break that disrupted digital payments, communications and commerce across
+  several West African countries, and picked out the report's call for **regional cooperation and regulatory
+  harmonisation** — using regional/intergovernmental frameworks to cut fragmented requirements and pool
+  preparedness. Read together with WATRA's April-2026 subsea-resilience technical report, this is the
+  implementation hook the region's soft law has been missing. See [[infra.connect]], [[gov.regional]],
+  [[gov.policy]], [[NGA]]. Sources: [[2026-07-15-watra-regional-subsea-resilience-plan]],
+  [[2026-07-10-itu-icpc-advisory-body-cable-resilience-report]].
 - **2026-04-12** — **WATRA moves from dialogue to regulatory tools.** The **[[watra]]** (West
   Africa Telecommunications Regulators Assembly, **16 member states**) concluded its 4th Working
   Groups Meeting in Ouagadougou (hosted by Burkina Faso's ARCEP), finalising technical reports on

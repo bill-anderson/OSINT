@@ -6,7 +6,7 @@ parent: XEA
 place_kind: country
 topics: [infra.store, dpi.pay, dpi.id, dpi.exchange, include.access, include.divides, gov.protect, gov.policy, gov.standards, gov.regional, gov.legislate, tech.ai, tech.innovate, tech.industry, geopol.usa, geopol.gulf, geopol.china, geopol.eu, geopol.india, dpi.govtech, dpi.mis, infra.connect, infra.cybersec, finance.mou, finance.new, data.open, data.statistics, data.satellite, infra.capacity, infra.energy, capacity.training, capacity.research, capacity.literacy, digital.rural]
 status: active
-last_reviewed: 2026-07-18
+last_reviewed: 2026-07-19
 ---
 
 # Kenya (KEN)
@@ -41,6 +41,63 @@ last_reviewed: 2026-07-18
 >   [[2026-02-20-kenya-ict-budget-policy-statement-techafricanews]]; see [[european-union]],
 >   [[konza-technopolis]].
 
+- **2026-07-17** — **18 ICT officers to China on the e-commerce MoU.** The
+  **[[state-department-for-ict-and-the-digital-economy-kenya]]** dispatched an **18-officer delegation** to
+  the **2026 Silk Road E-Commerce: Connecting the World Industry Matching Activity** in **Shandong
+  Province**, flagged off by PS **[[john-tanui]]**. Framed as building on the
+  **[[kenya-china-ecommerce-mou]]** and serving the Digital Transformation Agenda and the
+  **[[kenya-national-digital-masterplan]]** (2022–2032) — deepening bilateral ties, exchanging best
+  practice, exploring investment and strengthening institutional capacity. **No cost, funding source or
+  deliverable was published**; the stated return is "practical knowledge" and "strategic partnerships,"
+  which is not a measurable one. The wiki holds **no signing date, text or scope for the underlying MoU**
+  — a provenance gap on an instrument now being cited as a spending warrant. See [[geopol.china]],
+  [[capacity.training]]. Source: [[2026-07-17-kenya-ict-officers-china-digital-trade]].
+- **2026-07-17** — **Sign-language robots: applied AI at the other end of the cost curve.**
+  **[[zerobionics]]**, co-founded in **2021** by **[[norah-kimathi]]** (a Strathmore informatics
+  graduate, 22 and about to graduate as of 2026-07-17), builds **AI humanoid robots that translate
+  speech into sign language in real time** so deaf students can follow STEM classes where
+  interpreters are scarce. A teacher who does not sign can deliver a lesson remotely **over 2G**;
+  the robot renders it, and student responses return as audio. **Recycled-plastic casing cut costs
+  by >60%** — the target schools, often without internet or roads, could not afford imported
+  humanoids priced in the hundreds of thousands of dollars. Current model **AF1 ("Africa's First")
+  is in school testing**; the stated endgame is **open-sourcing the sign-language dataset**
+  ("billions of parameters by 2028"), which would make it shared assistive-AI infrastructure —
+  though the consent and governance questions that raises are unaddressed in the held source.
+  Founder-reported **510,000 beneficiaries, direct and indirect (2026-07-17)** against a **1m+
+  target by end-2027/2028**; the company also opened part of its office as a **shared robotics
+  maker space**. *Single founder-interview source; every figure is the founder's own and none is
+  independently verified.* Sets the disability dimension against Kenya's gigawatt-scale patron AI
+  projects. See [[kenya--tech-ai]], [[include.access]], [[tech.innovate]]. Source:
+  [[2026-07-17-zerobionics-sign-language-robots-kenya]].
+- **2026-07-17** — **CA computer donations to Siaya schools (CSR).** The
+  **[[communications-authority-of-kenya|Communications Authority]]** donated computers to **Komora
+  Vocational Training Centre** and **St. Benedict's Konya Secondary School** in **Siaya County**
+  under its CSR programme, framed as enabling access to online educational resources, strengthening
+  ICT skills and bridging the digital divide. **No quantity, value, connectivity provision or
+  follow-up measurement is disclosed** — an input, not an outcome. A small item, recorded for the
+  pattern: the sector regulator acting as an equipment donor alongside its licensing and spectrum
+  functions. See [[capacity.literacy]], [[include.divides]]. Source:
+  [[2026-07-17-ca-kenya-computer-donations-siaya-schools]].
+- **2026-07-17** — **Residency by investment revived — immigration policy as investment instrument.**
+  The **[[kenya-investment-authority|Kenya Investment Authority (Invest Kenya)]]** is developing
+  proposals for a **residency-by-investment programme** granting long-term residency to investors
+  committing substantial capital and creating jobs — reviving a plan **first floated in 2019 and never
+  implemented**. CEO **[[john-mwendwa]]**: *"We are exploring residency by investment. Directionally,
+  that's the way investors would like it."* Three stated limits define how far it has got:
+  **thresholds and qualifying sectors are undetermined**; it **requires legislation**, since
+  immigration policy sits outside the agency's mandate; and the parameters must "make commercial
+  sense". The existing route is unchanged — a **Class G Investor Permit** for those investing at least
+  **$100,000** in an active Kenyan enterprise, with citizenship eligibility after several years.
+  The relevance to this wiki is the venture-capital angle: unlike conventional FDI, VC needs partners
+  physically present for years — board seats, hiring, portfolio support — so immigration certainty is a
+  competitive variable for a hub. Kenya already hosts regional offices for international VC firms
+  including Antler, Capria Ventures, Delta40 and Enza Capital, and **Kenyan startups raised $984m in
+  2025, the continent's highest and about a third of all African startup investment**, led by climate
+  and energy deals; Kenya **remained the largest African funding destination in H1 2026** despite a
+  broader dealmaking slowdown. Benchmarks cited: **[[ZAF]]** South Africa's investor permanent-residence
+  route under the Immigration Act (2002) at **R12 million (~$729,000)**, and **[[MUS]]** Mauritius
+  cutting its residency minimum from **$500,000 to $375,000 in 2020**. See [[gov.policy]],
+  [[tech.innovate]], [[finance.new]]. Source: [[2026-07-17-kenya-golden-visa-investors]].
 - **2026-07-13** — **EBRD €270m to Yas for Kenya + Senegal fibre.** The **[[ebrd]]** extended a
   senior facility of up to **€270m** to **[[yas]]** ([[axian-telecom]]) for 4G/5G/fibre, with the
   Kenya leg funding **fibre expansion on the 2025 Wananchi acquisition** ([[ebrd-yas-network-loan]];
@@ -187,7 +244,11 @@ _Older dated developments (through early 2026) are preserved in their linked sou
   sovereign AI cloud; US–China AI-stack contest (Microsoft geothermal DC vs DeepSeek); NASA Harvest
   local-crop AI (Nakalembe); frugal-AI hub talks; Sama/Meta AI-labour exposure; US-vendor engagement.
 - [[tech.innovate]] · [[finance.new]] — Kenya led 2025 African tech VC ($1.04bn); Google
-  Accelerator Kenyan cohort.
+  Accelerator Kenyan cohort; residency-by-investment proposal ([[kenya-investment-authority]]);
+  **[[zerobionics]]** assistive robotics — the wiki's clearest Kenyan *hardware* case, and the
+  ecosystem gaps it names (no local component community; a startup opening its own maker space).
+- [[capacity.literacy]] · [[include.divides]] — **[[communications-authority-of-kenya|CA]]** CSR
+  computer donations to Siaya schools (2026-07-17), an input with no outcome measurement on file.
 - [[dpi.mis]] · [[dpi.exchange]] — national digital-health strategy; EHR interoperability gaps.
 
 ## Entities
@@ -220,10 +281,12 @@ _Older dated developments (through early 2026) are preserved in their linked sou
   [[william-kabogo]] · [[immaculate-kassait]] · [[national-cyber-security-agency-kenya]] · [[moniepoint]] ·
   [[kenswitch]] · [[nairobi-securities-exchange]] · [[meta-daraja-subsea-cable]] · [[bayobab]] ·
   [[linx-nairobi]] · [[angani]] · [[touchnet]] · [[baobab-cloud]] · [[qubit-hub]] · [[aws]]
+- New this batch (AI, skills & education, 2026-07-19): [[zerobionics]] · [[norah-kimathi]]
+- New this batch (policy & geopolitics, 2026-07-19):
+  [[state-department-for-ict-and-the-digital-economy-kenya]] · [[kenya-china-ecommerce-mou]]
 - KEN sweep intersections (2026-07-18): [[kenya--dpi-pay]] · [[kenya--infra-connect]] ·
   [[kenya--infra-store]] (+ updated [[kenya--dpi-id]], [[kenya--tech-ai]], [[kenya--gov-protect]])
-- Mentioned, not hubbed: IXAfrica, Mojaloop Foundation, DPI4Africa; John Tanui (PS,
-  State Dept of ICT & Digital Economy); Immaculate Kassait (Data Protection Commissioner);
+- Mentioned, not hubbed: IXAfrica, Mojaloop Foundation, DPI4Africa; Immaculate Kassait (Data Protection Commissioner);
   Emmanuel Kata (ICT Security Directorate); David Bunei (Oracle Kenya); EverseTech (Michael
   Michie); Sam Altman; KenGen; EcoCloud; Airtel Nxtra (Tatu City 44 MW); Pesalink; Huawei
   (M-Pesa "Idea-to-Cash"); Coamana, Duck, ReportsAI, VunaPay (Google Accelerator cohort);

@@ -45,6 +45,16 @@ days, two days before a presidential election — reminding every layer above it
 
 *(Hub-level items only; identity, payments and data-centre detail live in the intersections above.)*
 
+- **2026-07-17** — **New ICT minister; operators put the handset gap on the agenda.**
+  **Rt Hon. Justine Kasule Lumumba** is **newly appointed** Minister of ICT and National Guidance
+  ([[ministry-of-ict-and-national-guidance-uganda]]). **[[airtel-uganda]]** MD/CEO **Soumendra Sahu** led a
+  delegation on a courtesy visit, with **smartphone access** the declared focus on both sides — devices as
+  the precondition for online learning, digital financial services and entrepreneurship. **No commitment,
+  target or figure was announced.** Against the UCC's own **~47m SIMs vs 20m smartphones (Jul 2026)** and
+  its proposal for **duty relief on entry-level handsets**, this restates a diagnosis already on the record
+  without attaching a remedy to anyone's books. See **[[uganda--infra-connect]]**, [[include.divides]].
+  Sources: [[2026-07-17-airtel-uganda-advances-digital-inclusion-talks]],
+  [[2026-07-17-airtel-uganda-ict-minister-meeting]].
 - **2026-07-17** *(both items undated — proxy-dated at ingest)* — **Architecture renewal, and the stack
   described.** [[nita-uganda]] concluded a workshop with the **[[e-governance-academy]]** on renewing
   the **Government Enterprise Architecture** and **[[uganda-e-gif]]** (GAP-UGA-004). A joint
@@ -254,7 +264,10 @@ analysis (2025-04-21) · [[un-egdi]] · the **Uganda Data Centre Market Brief 20
   [[axian-wananchi-acquisition]] · [[huawei]] · [[zte]] · [[hikvision]] · [[nvidia]]
 - **Regional** — [[eac]] · [[afcfta]] · [[un-egdi]] · [[e-governance-academy]] ·
   [[idrc-crvs-centre-of-excellence]]
-- Mentioned, not hubbed: Ministry of ICT & National Guidance; Uganda National Innovator Registry;
+- **Government** — [[ministry-of-ict-and-national-guidance-uganda]] (Minister Justine Kasule Lumumba,
+  newly appointed Jul 2026)
+- Mentioned, not hubbed: Uganda National Innovator Registry;
+  Soumendra Sahu (Airtel Uganda MD/CEO);
   Monica Musenero Masanza; Eric Mugerwa (ABQ Cloud); Oladele Oyekunle (Synectics); MDCS.AI,
   Automation NV; Emaisha Pay; M-Scan; Unwanted Witness; Uganda Bankers Association. *(Identity-,
   payments- and data-centre-specific names sit on the intersections.)*

@@ -5,11 +5,11 @@ place: ETH
 topic: infra.connect
 places: [ETH, XEA]
 topics: [infra.connect, tech.industry, finance.new, include.access, include.divides, gov.regional, gov.policy, geopol.china]
-entities: [[ethio-telecom], [safaricom-ethiopia], [ethiopian-communications-authority], [horizon-fiber], [digital-ethiopia-2030]]
+entities: [[ethio-telecom], [safaricom-ethiopia], [ethiopian-communications-authority], [horizon-fiber], [digital-ethiopia-2030], [huawei], [telebirr], [ethio-telecom-huawei-digital-partnership]]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-18
-sources: [[[2026-05-18-ethiopia-needs-third-telecom-operator-5bn-reporter]], [[2026-04-20-safaricom-ethiopia-5bn-investment-need-techafricanews]], [[2026-04-20-ethio-telecom-99-8-coverage-smart-infrastructure-techafricanews]], [[2026-03-09-ethio-telecom-network-expansion-mwc-barcelona-addisstandard]], [[2026-03-01-telecom-tax-universal-access-fund-reporter]], [[2026-02-23-ethio-telecom-telestream-zero-touch-broadband-techafricanews]], [[2026-02-05-horizon-fiber-ethio-djibouti-sudatel-binding-deal-connectingafrica]], [[2026-01-10-beyond-connectivity-ethiopia-digital-future-reform-reporter]], [[2025-08-02-safaricom-ethiopia-begins-fibre-deployment-reporter]]]
+last_reviewed: 2026-07-19
+sources: [[[2026-07-17-ethio-telecom-huawei-digital-infrastructure]], [[2026-07-15 Ethio Telecom, Huawei expand digital push]], [[2026-05-18-ethiopia-needs-third-telecom-operator-5bn-reporter]], [[2026-04-20-safaricom-ethiopia-5bn-investment-need-techafricanews]], [[2026-04-20-ethio-telecom-99-8-coverage-smart-infrastructure-techafricanews]], [[2026-03-09-ethio-telecom-network-expansion-mwc-barcelona-addisstandard]], [[2026-03-01-telecom-tax-universal-access-fund-reporter]], [[2026-02-23-ethio-telecom-telestream-zero-touch-broadband-techafricanews]], [[2026-02-05-horizon-fiber-ethio-djibouti-sudatel-binding-deal-connectingafrica]], [[2026-01-10-beyond-connectivity-ethiopia-digital-future-reform-reporter]], [[2025-08-02-safaricom-ethiopia-begins-fibre-deployment-reporter]]]
 ---
 
 # Ethiopia × Connectivity
@@ -37,6 +37,20 @@ and positioning itself as a **regional transit hub**.
 - **Universal Access Fund.** A new rule makes Ethio Telecom and Safaricom contribute **1.5% of revenue** (~**2.5bn
   birr/yr**) to the fund — a digital-divide financing lever (2026-03).
 
+## Beyond connectivity: the Huawei enterprise stack
+
+- **[[ethio-telecom-huawei-digital-partnership]] (announced 2026-07-15 → 2026-07-17).** Ethio Telecom and
+  **[[huawei]]** are extending a network-equipment relationship into **cloud, AI, cybersecurity, IoT,
+  data-centre services and digital platforms** for enterprises and SMEs, plus local software development,
+  solution customisation and system integration; **[[telebirr]]** integration for payments and e-commerce;
+  and smartphone-affordability financing. Reported as **scoping discussions, not an executed agreement** —
+  no value or term disclosed. The operator's existing device-financing deals with **Siinqee Bank** and
+  **Awash Bank** target **up to two million smartphones a year** to low-income citizens on instalment plans.
+  This is the `geopol.china` dependency question moving up the stack: the same vendor that supplies the radio
+  network would supply the enterprise cloud and AI layer. See [[geopol.china]], [[tech.ai]], [[infra.store]],
+  [[include.access]]. Sources: [[2026-07-15 Ethio Telecom, Huawei expand digital push]],
+  [[2026-07-17-ethio-telecom-huawei-digital-infrastructure]].
+
 ## Regional transit
 
 - **[[horizon-fiber|Horizon Fiber]]** — the **[[ethio-telecom]]–[[djibouti-telecom|Djibouti Telecom]]–[[sudatel|Sudatel]]**
@@ -45,4 +59,4 @@ and positioning itself as a **regional transit hub**.
 
 ## Links
 
-Place: [[ETH]] · Concepts: [[infra.connect]] · [[include.divides]] · Region: [[XEA]] · Entities: [[ethio-telecom]] · [[safaricom-ethiopia]] · [[horizon-fiber]]
+Place: [[ETH]] · Concepts: [[infra.connect]] · [[include.divides]] · [[geopol.china]] · Region: [[XEA]] · Entities: [[ethio-telecom]] · [[safaricom-ethiopia]] · [[horizon-fiber]] · [[huawei]] · [[ethio-telecom-huawei-digital-partnership]]

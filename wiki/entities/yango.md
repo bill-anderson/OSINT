@@ -2,12 +2,13 @@
 type: entity
 entity_type: company
 title: Yango
-places: [CMR]
-topics: [tech.industry, dpi.pay, infra.connect, tech.innovate]
+places: [CMR, CIV]
+topics: [tech.industry, dpi.pay, infra.connect, tech.innovate, infra.energy, finance.new]
+entities: [[gocab]]
 lens: []
 status: active
-last_reviewed: 2026-07-18
-sources: [[2026-04-02-yango-deepens-cameroon-footprint-itweb], [2025-07-24-mtn-yango-dedicated-sim-drivers-itweb]]
+last_reviewed: 2026-07-19
+sources: [[2026-04-02-yango-deepens-cameroon-footprint-itweb], [2025-07-24-mtn-yango-dedicated-sim-drivers-itweb], [2026-07-18-gocab-yango-abidjan-evs]]
 ---
 
 # Yango
@@ -23,6 +24,21 @@ in the CMR corpus (the taxonomy has **no Russia `geopol.*` slug**; see the open 
   Sources: [[2026-04-02-yango-deepens-cameroon-footprint-itweb]],
   [[2025-07-24-mtn-yango-dedicated-sim-drivers-itweb]].
 
+- **Africa expansion strategy (2026).** Yango Africa CEO **Adeniyi Adebayo** told Bloomberg in **May
+  2026** that the Dubai-based company plans to invest **at least $150m in African expansion during
+  2026**, targeting entry into **10 new markets** — deliberately *outside* the "Big Four" of Nigeria,
+  Egypt, South Africa and Kenya, focusing instead on **secondary cities in West and Central Africa**
+  plus Namibia, Botswana and Mozambique. Adebayo's stated thesis (June 2026 interview): **cities, not
+  countries, are the unit of analysis** for African economic activity — enter at the densest commercial
+  node, build to profitability, then subsidise expansion into secondary and tertiary cities.
+  **Bouaké**, Côte d'Ivoire's second city, is the cited proof: launched **2022**, near-flat for three
+  years, now among Yango's best-performing cities. Source: [[2026-07-18-gocab-yango-abidjan-evs]].
+- **Côte d'Ivoire and the EV fleet (2026-07-18).** **[[gocab]]**, which owns Yango's largest fleet in
+  Côte d'Ivoire, handed **100 electric cars** to driver-partners in Abidjan — operating mainly on
+  **GOYA**, Yango's premium service. Côte d'Ivoire was also the first market for **Yango Motors**, the
+  group's automotive arm, launched at the **Abidjan Auto Show in September 2025**. See
+  [[civ--tech-innovate]], [[infra.energy]]. Source: [[2026-07-18-gocab-yango-abidjan-evs]].
+
 ## Related
 
-- [[CMR]] · [[mtn-cameroon]] · [[tech.industry]] · [[dpi.pay]]
+- [[CMR]] · [[CIV]] · [[mtn-cameroon]] · [[gocab]] · [[tech.industry]] · [[dpi.pay]] · [[infra.energy]]

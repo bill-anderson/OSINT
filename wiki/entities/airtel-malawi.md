@@ -7,7 +7,7 @@ topics: [infra.connect, dpi.pay, include.divides, capacity.training]
 lens: []
 status: active
 last_reviewed: 2026-07-19
-sources: [[2026-05-22-airtel-satellite-connectivity-agm-techafricanews], [2026-06-24-airtel-money-admarc-farmer-payments-itweb], [2026-01-07-airtel-nzeru-fund-stem-scholarships-malawi24]]
+sources: [[2026-05-22-airtel-satellite-connectivity-agm-techafricanews], [2026-06-24-airtel-money-admarc-farmer-payments-itweb], [2026-01-07-airtel-nzeru-fund-stem-scholarships-malawi24], [2026-07-17-macra-airtel-malawi-tnm-tariff-compensation]]
 ---
 
 # Airtel Malawi Plc
@@ -24,6 +24,12 @@ farmers' wallets (Jun 2026 — see [[malawi--dpi-pay]]), and the **Airtel Africa
 Fund**, funding **25 low-income STEM undergraduates** (IT, CS, software engineering, data science, AI,
 cybersecurity) at the Malawi University of Science and Technology (see [[malawi--tech-ai]], [[capacity.training]]).
 
+**Regulatory action (2026-07-17).** **[[macra-malawi|MACRA]]** found Airtel Malawi (with
+[[tnm-malawi|TNM]]) in breach of **Section 76 of the Communications Act 2016** — approved tariff changes must
+be published in two daily newspapers **seven days** before taking effect — and ordered it to compensate
+customers who bought affected products during the notice window (**26 Jun – 2 Jul 2026**) with equivalent
+bundles, by **31 July 2026**. Source: [[2026-07-17-macra-airtel-malawi-tnm-tariff-compensation]].
+
 ## Links
-Place: [[MWI]] · Topics: [[infra.connect]] · [[dpi.pay]] · [[include.divides]] · Intersection:
-[[malawi--infra-connect]]
+Place: [[MWI]] · Topics: [[infra.connect]] · [[dpi.pay]] · [[include.divides]] · Entities:
+[[macra-malawi]] · [[tnm-malawi]] · Intersection: [[malawi--infra-connect]]

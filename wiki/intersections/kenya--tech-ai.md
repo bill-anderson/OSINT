@@ -5,11 +5,11 @@ place: KEN
 topic: tech.ai
 places: [KEN, XEA]
 topics: [tech.ai, infra.store, infra.capacity, geopol.usa, geopol.gulf, gov.protect, gov.legislate]
-entities: [[microsoft-g42-kenya-datacenter], [technology-prosperity-deal], [servernah-cloud], [uae], [openai], [g42], [william-ruto], [jane-munga], [kenya-ai-bill-2026], [eu-ai-act], [alice-munyua], [africa-ai-declaration], [kenya-india-italy-sovereign-ai-partnership], [kenya-germany-ai-centre], [undp], [sama], [meta]]
+entities: [[microsoft-g42-kenya-datacenter], [technology-prosperity-deal], [servernah-cloud], [uae], [openai], [g42], [william-ruto], [jane-munga], [kenya-ai-bill-2026], [eu-ai-act], [alice-munyua], [africa-ai-declaration], [kenya-india-italy-sovereign-ai-partnership], [kenya-germany-ai-centre], [undp], [sama], [meta], [zerobionics], [norah-kimathi]]
 lens: [sovereignty, colonialism]
 status: active
-last_reviewed: 2026-07-13
-sources: [[2026-06-23 A Kenya Technology Prosperity Deal Could Help Washington Secure Durable AI Partnerships with Africa], [2026-07-09 Microsoft and G42 data center in Kenya stalled due to lack of power capacity], [2026-06-18 UAE-Kenya Tech Partnership Gains Momentum as AI Investments Grow], [2026-06-18 Kenya Eyes First OpenAI Academy in East Africa Following Ruto–Sam Altman Talks], [2026-05-19 GATEKEEPERS XIV], [2026-02-20 Kenya, India and Italy Launch Trilateral Sovereign AI Partnership for Africa], [2026-02-04 Kenya, Germany forge path for AI centre], [2026-04-17 Meta contract end sparks 1 100 Sama job cuts]]
+last_reviewed: 2026-07-19
+sources: [[2026-06-23 A Kenya Technology Prosperity Deal Could Help Washington Secure Durable AI Partnerships with Africa], [2026-07-09 Microsoft and G42 data center in Kenya stalled due to lack of power capacity], [2026-06-18 UAE-Kenya Tech Partnership Gains Momentum as AI Investments Grow], [2026-06-18 Kenya Eyes First OpenAI Academy in East Africa Following Ruto–Sam Altman Talks], [2026-05-19 GATEKEEPERS XIV], [2026-02-20 Kenya, India and Italy Launch Trilateral Sovereign AI Partnership for Africa], [2026-02-04 Kenya, Germany forge path for AI centre], [2026-04-17 Meta contract end sparks 1 100 Sama job cuts], [2026-07-17-zerobionics-sign-language-robots-kenya]]
 ---
 
 # Kenya × AI
@@ -92,6 +92,22 @@ that its power grid and jurisdiction keep qualifying.
   upskilling) — the AI that the 2026 [[kenya--dpi-pay|M-Pesa decisioning suit]] would later challenge.
   Source: [[2025-06-05-safaricom-aws-genai-itweb]].
 
+- **AI built here, at the other end of the cost curve ([[zerobionics]], 2026-07-17).** Against the
+  gigawatt-scale patron projects above, the wiki's clearest case of **domestically-built applied
+  AI** in Kenya is a startup founded in **2021** by **[[norah-kimathi]]**, making humanoid robots
+  that render speech into sign language in real time for deaf students. The engineering choices
+  are all responses to exclusion: **recycled-plastic casing cut costs by >60%** (the target
+  schools could not afford imported humanoids priced in the hundreds of thousands of dollars);
+  delivery works over **2G**, so a teacher who does not know sign language can instruct remotely;
+  and the intended endgame is to **open-source the sign-language dataset** — stated as "billions
+  of parameters by 2028" — which would make it shared assistive-AI infrastructure rather than a
+  product. Founder-reported reach: **510,000 beneficiaries, direct and indirect (2026-07-17)**,
+  against a **1m+ target by end-2027/2028**. *Single founder-interview source; every figure is
+  the founder's own and none is independently verified — no evaluation, unit count or funding
+  figure is held.* The consent and governance questions attaching to an open sign-language dataset
+  are unaddressed in the held source. See [[include.access]], [[tech.innovate]], [[zerobionics]].
+  Source: [[2026-07-17-zerobionics-sign-language-robots-kenya]].
+
 ## Reads
 
 - `sovereignty`: Kenya plays patrons off each other and brands local capability
@@ -122,3 +138,4 @@ Place: [[KEN]] · Concepts: [[tech.ai]] · [[infra.capacity]] · [[infra.store]]
 - [[2026-04-03-state-ai-curb-insecurity-nation]]
 - [[2026-05-24-state-27b-ai-surveillance-social-media-nation]]
 - [[2025-06-05-safaricom-aws-genai-itweb]]
+- [[2026-07-17-zerobionics-sign-language-robots-kenya]]

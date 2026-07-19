@@ -17,6 +17,58 @@ rule, is all `XAF` children except `XNA`; `XGL` is for non-Africa-specific/globa
 
 ## Recent developments
 
+- **2026-07-17** — **AI skilling as a venture market (continental ambition, Nigerian base).**
+  **[[codar]]** closed **$1.5m** ([[codar-funding-round-2026]], **equity and debt; investors,
+  valuation and stage undisclosed**), backed by **[[kwe4-africa-venture-studio]]**, to expand AI
+  programmes "across Africa" — new learning hubs, an enhanced online platform, wider scholarships
+  in underserved communities, multilingual delivery and international certification pathways.
+  Self-reported **>5,000 active learners** and **>70,000 students reached (2026-07-17)**; no
+  completion, certification or placement rate disclosed, and **no country breakdown**, so the
+  continental claim rests on stated ambition rather than evidenced footprint. *Sponsored TechCabal
+  Partner / Press Room placement — a first-hand company announcement, not independent reporting.*
+  The continental read: the AI-skills layer tracked on [[capacity.training]] has so far been
+  financed by hyperscalers (Google, Microsoft), vendors (Huawei), states and donors; this is the
+  same gap approached as a **venture-returns market**, which changes who the training answers to.
+  See [[NGA]], [[tech.ai]], [[finance.new]]. Source:
+  [[2026-07-17-codar-raises-1-5m-ai-education]].
+- **2026-07-17** — **The trade-finance gap as a fintech market: private escrow rails enter the
+  AfCFTA space.** Two continental reference figures, dated and attributed, arrive via a Ghanaian
+  startup's market framing: the **[[african-development-bank|AfDB]]** estimates Africa's **annual
+  trade-finance gap at $74bn–$92bn**, projecting the shortfall reaching **$86.6bn by 2027**; and
+  **[[afreximbank]]**'s *African Trade Report 2025* names **limited trade-finance access, high
+  cross-border payment costs and inadequate financial infrastructure** as the persistent constraints on
+  intra-African trade. Neither underlying publication is held — both reach the wiki through one
+  trade-press account. What the framing shows is a private answer forming beside the public one: while
+  **[[papss]]**, PAPSSCARD and national instant-payment switches address **moving money across
+  borders**, Ghana's **[[kutanapay]]** targets the **counterparty risk that prevents the trade
+  occurring** — milestone-gated escrow, cargo insurance, dispute resolution and trade finance bundled
+  as private conditional-release infrastructure on top of the public rails. **[[afcfta]]**
+  implementation is the growth assumption underneath both. See [[GHA]], [[ghana--dpi-pay]],
+  [[dpi.pay]], [[tech.innovate]]. Source:
+  [[2026-07-17-kutanapay-ai-blockchain-cross-border-trade]].
+- **2026-07-17** — **ITU pairs with an operator: Vodacom digital-inclusion protocol.**
+  **[[vodacom]]** signed a protocol with the **[[itu]]** covering **digital inclusion and telecoms
+  development across Africa**, with the operator sharing operational expertise from its markets.
+  Named focus areas: **regulatory frameworks for satellite communications and spectrum management**,
+  digital-inclusion strategies, and connectivity for education. No value or term disclosed. Part of a
+  visible pattern of ITU signing implementation partnerships with individual operators and states
+  alongside its AU-level agreement (2026-07-16) — and one where an operator with a direct commercial
+  stake in LEO licensing gains a channel into satellite-spectrum policy. See
+  [[vodacom-itu-digital-inclusion-protocol]], [[gov.standards]], [[include.divides]],
+  [[data.satellite]]. Source: [[2026-07-17-vodacom-itu-digital-inclusion-partnership]].
+- **2026-07-17** — **Operator circular economy as a device-affordability lever: Orange MEA refurbished
+  164,000 internet boxes in 2025.** Per Orange's **Rapport RSE 2025 (published 2026-07-10)**,
+  **[[orange]]** Middle East & Africa refurbished **164,000 internet boxes in 2025, up 43% on 2024**;
+  group-wide it reports **209 tonnes of e-waste collected**, **354,000 devices recovered** and **€13m
+  of savings** in 2025 under its **OSCAR** and **Re** programmes, reselling restored devices at lower
+  prices. Country tracks: **[[MAR]]** (6,000 boxes, ~€1.5m saved, 2025), **[[BFA]]** (33 tonnes of
+  mobile equipment collected) and **[[EGY]]** (a **[[unido|UNIDO]]** partnership creating a local
+  refurbishment unit). The frame is a genuine continental problem: the *Global E-waste Monitor 2024*
+  put Africa at **~3m tonnes of e-waste generated in 2022 with under 1% formally collected and
+  recycled**, while handset cost still consumes a high share of monthly income in many markets.
+  **All operator figures are self-reported and unaudited in the held source.** See [[include.access]],
+  [[tech.industry]], [[infra.connect]]. Source:
+  [[2026-07-17-orange-reconditionne-164000-box-internet]].
 - **2026-01→05** *(ingested 2026-07-13)* — **Data protection reaches critical mass: 44 laws, 38
   authorities.** The end-2025 continental roundup ([[digital-policy-alert]] × [[tech-hive-advisory]])
   and [[code-for-africa]] both put **≥44 African countries with data-protection laws** (~80% of AU

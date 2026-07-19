@@ -3,10 +3,10 @@ type: entity
 entity_type: company
 title: Ethio Telecom
 places: [ETH, CMR]
-topics: [infra.connect, dpi.pay, tech.industry, tech.ai, infra.store]
+topics: [infra.connect, dpi.pay, tech.industry, tech.ai, infra.store, include.access, geopol.china, finance.mou]
 status: active
-last_reviewed: 2026-07-18
-sources: [[2026-07-15 Ethio Telecom, Huawei expand digital push], [2026-02-10 Ethio telecom, Djibouti Telecom, Sudatel Seal Binding Deal on Cross-Border Fiber Network], [2026-01-30 Inside Ethio Telecom's bold TechCo transformation], [2026-01-29 Ethio Telecom, Somcable talk cross-border collaboration], [2026-01-07 Why Ethiopia, Somalia and Djibouti are starting to matter in digital Africa], [2025-12-04 Is it a bird Is it plane No, Jim, it's an African mobile operator, but not as we know it 9], [2025-08-21 Ethio Telecom expands 4G capacity with Huawei], [2024-09-24 Ethio Telecom pursues Shandong Hi-Speed hyperscale data-centre partnership], [2025-12-05-ethio-telecom-camtel-master-service-agreement-telecomreviewafrica], [2025-12-16-ethio-telecom-team-concludes-strategic-visit-camtel-telecomreviewafrica]]
+last_reviewed: 2026-07-19
+sources: [[2026-07-17-ethio-telecom-huawei-digital-infrastructure], [2026-07-15 Ethio Telecom, Huawei expand digital push], [2026-02-10 Ethio telecom, Djibouti Telecom, Sudatel Seal Binding Deal on Cross-Border Fiber Network], [2026-01-30 Inside Ethio Telecom's bold TechCo transformation], [2026-01-29 Ethio Telecom, Somcable talk cross-border collaboration], [2026-01-07 Why Ethiopia, Somalia and Djibouti are starting to matter in digital Africa], [2025-12-04 Is it a bird Is it plane No, Jim, it's an African mobile operator, but not as we know it 9], [2025-08-21 Ethio Telecom expands 4G capacity with Huawei], [2024-09-24 Ethio Telecom pursues Shandong Hi-Speed hyperscale data-centre partnership], [2025-12-05-ethio-telecom-camtel-master-service-agreement-telecomreviewafrica], [2025-12-16-ethio-telecom-team-concludes-strategic-visit-camtel-telecomreviewafrica]]
 ---
 
 # Ethio Telecom
@@ -38,13 +38,23 @@ than a pure connectivity operator, anchoring the [[telebirr]] platform and align
   [[2026-03-09-ethio-telecom-network-expansion-mwc-barcelona-addisstandard]],
   [[2026-04-20-ethio-telecom-99-8-coverage-smart-infrastructure-techafricanews]],
   [[2026-02-23-ethio-telecom-telestream-zero-touch-broadband-techafricanews]].
-- **Huawei enterprise/SME digital push (2026-07-15).** Expanding its **[[huawei]]** collaboration beyond
-  telecoms infrastructure into **cloud, AI, cybersecurity, IoT, data-centre services and digital platforms**
+- **Huawei enterprise/SME digital push (2026-07-15 → 2026-07-17).** Expanding its **[[huawei]]** collaboration
+  beyond telecoms infrastructure into **cloud, AI, cybersecurity, IoT, data-centre services and digital platforms**
   for enterprises and SMEs, under **Next Horizon: Digital & Beyond 2028** (CEO Frehiwot Tamru met Huawei N.
   Africa president Li Shen). Also covers local capability-building (software dev, system integration, R&D),
-  affordable-device financing, and **[[telebirr]]** adoption campaigns. Expanded cooperation/discussions, not
-  a signed deal — deepens Ethiopia's Chinese-vendor dependency in the enterprise-digital layer. See
-  [[tech.ai]], [[infra.store]], [[tech.industry]]. Source: [[2026-07-15 Ethio Telecom, Huawei expand digital push]].
+  affordable-device financing, and **[[telebirr]]** adoption campaigns — later reporting specifies **integrating
+  business solutions with telebirr** for digital payments, financial services and e-commerce. Expanded
+  cooperation/discussions, not a signed deal — deepens Ethiopia's Chinese-vendor dependency in the
+  enterprise-digital layer. See [[ethio-telecom-huawei-digital-partnership]], [[tech.ai]], [[infra.store]],
+  [[tech.industry]], [[dpi.pay]], [[geopol.china]]. Sources:
+  [[2026-07-15 Ethio Telecom, Huawei expand digital push]],
+  [[2026-07-17-ethio-telecom-huawei-digital-infrastructure]].
+- **Device financing for inclusion (as reported 2026-07-17).** Deals with **Siinqee Bank** and **Awash Bank**
+  target **up to two million smartphones annually** to low-income citizens via long-term instalment plans —
+  the device side of digital-ID and digital-payment access, alongside the operator's role in
+  [[fayda-ethiopia-national-id|Fayda]] expansion. Ethio Telecom also held **[[mastercard]]** talks in
+  **April 2026** on financial inclusion. See [[include.access]], [[dpi.id]]. Source:
+  [[2026-07-17-ethio-telecom-huawei-digital-infrastructure]].
 - **H1 FY2025/26 results (as of 2026-01-30).** Added ~**4m** new customers to a base of
   **>87m**; revenue climbed to **$545m** (ETB 85.02bn) on rising data usage; paid **$228m**
   (ETB 35.6bn) in taxes — one of Ethiopia's largest fiscal contributors — and secured

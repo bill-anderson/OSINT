@@ -3,11 +3,11 @@ type: concept
 title: MoUs and other agreements
 slug: finance.mou
 places: [MRT, AGO, XAF, KEN, GAB, SLE, ETH, MOZ, TGO, XGL, XSS, RWA, ZMB, SOM, NGA, ZAF, COD, LSO, TZA, SYC, DJI, SDN]
-entities: [[equity-africanenda-gates-dpi-partnership], [st-digital-gabon], [sierra-leone-digital-id-mou], [safaricom-ethiopia-fayda-jv], [estdev], [smart-africa], [estdev-smart-africa-mou], [atdi-mozambique], [mozambique-ethiopia-dpi-mou], [sin-togo], [lome-data-centre], [sin-st-digital-lome-cloud-deal], [realtyme], [smart-africa-realtyme-partnership], [gates-foundation], [anthropic], [gates-anthropic-partnership], [gabon-huawei-mou], [huawei], [anthropic-rwanda-mou], [zambia-us-health-mou], [america-first-global-health-strategy], [ethio-telecom], [somcable], [payz], [bank-of-zambia], [zicta], [nigeria-finland-digital-mou], [eu-nigeria-global-gateway-290m], [global-gateway], [au-google-mou], [google], [african-union], [starlink-airtel-d2c-partnership], [starlink-vodacom-leo-partnership], [starlink], [airtel-africa], [vodacom], [ixafrica-oracle-oci-nairobi], [oracle], [kenya-school-of-government], [seychelles-afcfta-mou], [afcfta-digital-trade-corridor]]
+entities: [[zra-ictd-mou], [zambia-revenue-authority], [international-centre-for-tax-and-development], [gabon-sgg-startup-guarantee-accord], [gabon-huawei-kimba-connect-accord], [kimba-connect], [societe-gabonaise-de-garantie], [ministere-economie-numerique-gabon], [kenya-china-ecommerce-mou], [state-department-for-ict-and-the-digital-economy-kenya], [john-tanui], [equity-africanenda-gates-dpi-partnership], [st-digital-gabon], [sierra-leone-digital-id-mou], [safaricom-ethiopia-fayda-jv], [estdev], [smart-africa], [estdev-smart-africa-mou], [atdi-mozambique], [mozambique-ethiopia-dpi-mou], [sin-togo], [lome-data-centre], [sin-st-digital-lome-cloud-deal], [realtyme], [smart-africa-realtyme-partnership], [gates-foundation], [anthropic], [gates-anthropic-partnership], [gabon-huawei-mou], [huawei], [anthropic-rwanda-mou], [zambia-us-health-mou], [america-first-global-health-strategy], [ethio-telecom], [somcable], [payz], [bank-of-zambia], [zicta], [nigeria-finland-digital-mou], [eu-nigeria-global-gateway-290m], [global-gateway], [au-google-mou], [google], [african-union], [starlink-airtel-d2c-partnership], [starlink-vodacom-leo-partnership], [starlink], [airtel-africa], [vodacom], [ixafrica-oracle-oci-nairobi], [oracle], [kenya-school-of-government], [seychelles-afcfta-mou], [afcfta-digital-trade-corridor]]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-18
-sources: [[2026-07-07 Equity, AfricaNenda and Gates Foundation Partner to Advance Digital Public Infrastructure Across Africa], [2026-07-06 Gabon Inaugurates First Tier III Datacenter to Boost Digital Sovereignty], [2026-07-08 Sierra Leone partners with Bhutan, Sign on digital identity platform], [2026-07-06 Safaricom Ethiopia partners National ID Program to expand digital identity registration], [2026-01-28 Joint Statement of the United States and African Union on the Launch of a Strategic Investment Working Group], [2026-06-18 UAE-Kenya Tech Partnership Gains Momentum as AI Investments Grow], [2026-06-15 Telecom Namibia signs more satellite, subsea connectivity deals with Angola firms], [2026-06-23 A Kenya Technology Prosperity Deal Could Help Washington Secure Durable AI Partnerships with Africa], [2026-05-28 Estonia backs Africa digital infrastructure], [2026-04-28 Mozambique taps Ethiopia's digital ID expertise in DPI partnership], [2026-06-02 SIN, ST Digital to deploy cloud services at Lomé data center], [2026-04-16 Smart Africa, RealTyme join forces for data sovereignty], [2026-05-14 Making AI work for more people], [2026-01-05 Gabon and Huawei Forge Partnership to Boost National Digital Transformation], [2026-03-17 Anthropic is Becoming the Backbone of Rwanda's Government. But Who is Accountable], [2026-03-04 U.S.-based AI firm Anthropic bags first multi-sector government deal in Africa despite policy pressures at home], [2026-02-25 US accused of 'shameless exploitation' over proposed Zambian health aid deal], [2026-02-26 Zambia rejects U.S. health aid over mining partnership ties], [2026-01-29 Ethio Telecom, Somcable talk cross-border collaboration], [2026-02-27 Zambia partners with PAYZ to boost financial inclusion], [2026-03-01 Nigeria Signs MoU With Finland On Digital Innovation, Deepens Bilateral Ties], [2026-03-24 Nigeria EU Announces New €290m Investments in Nigeria], [2026-02-20 AUC Signs Partnership With Google]]
+sources: [[2026-07-17-zambia-revenue-authority-ictd-deal], [2026-07-07 Equity, AfricaNenda and Gates Foundation Partner to Advance Digital Public Infrastructure Across Africa], [2026-07-06 Gabon Inaugurates First Tier III Datacenter to Boost Digital Sovereignty], [2026-07-08 Sierra Leone partners with Bhutan, Sign on digital identity platform], [2026-07-06 Safaricom Ethiopia partners National ID Program to expand digital identity registration], [2026-01-28 Joint Statement of the United States and African Union on the Launch of a Strategic Investment Working Group], [2026-06-18 UAE-Kenya Tech Partnership Gains Momentum as AI Investments Grow], [2026-06-15 Telecom Namibia signs more satellite, subsea connectivity deals with Angola firms], [2026-06-23 A Kenya Technology Prosperity Deal Could Help Washington Secure Durable AI Partnerships with Africa], [2026-05-28 Estonia backs Africa digital infrastructure], [2026-04-28 Mozambique taps Ethiopia's digital ID expertise in DPI partnership], [2026-06-02 SIN, ST Digital to deploy cloud services at Lomé data center], [2026-04-16 Smart Africa, RealTyme join forces for data sovereignty], [2026-05-14 Making AI work for more people], [2026-01-05 Gabon and Huawei Forge Partnership to Boost National Digital Transformation], [2026-03-17 Anthropic is Becoming the Backbone of Rwanda's Government. But Who is Accountable], [2026-03-04 U.S.-based AI firm Anthropic bags first multi-sector government deal in Africa despite policy pressures at home], [2026-02-25 US accused of 'shameless exploitation' over proposed Zambian health aid deal], [2026-02-26 Zambia rejects U.S. health aid over mining partnership ties], [2026-01-29 Ethio Telecom, Somcable talk cross-border collaboration], [2026-02-27 Zambia partners with PAYZ to boost financial inclusion], [2026-03-01 Nigeria Signs MoU With Finland On Digital Innovation, Deepens Bilateral Ties], [2026-03-24 Nigeria EU Announces New €290m Investments in Nigeria], [2026-02-20 AUC Signs Partnership With Google], [2026-07-17-gabon-garantie-publique-huawei-start-up], [2026-07-17-kenya-ict-officers-china-digital-trade]]
 ---
 
 # MoUs and other agreements (`finance.mou`)
@@ -17,6 +17,15 @@ direction and lock in public-private roles before capital fully flows. A specifi
 is a **deal entity**; this concept tracks the pattern.
 
 ## Key material
+
+- **ZRA × ICTD (2026-07-17, [[ZMB]]).** An **MoU plus an NDA** between the
+  **[[zambia-revenue-authority|Zambia Revenue Authority]]** and the
+  **[[international-centre-for-tax-and-development|ICTD]]** ([[zra-ictd-mou]]) on research, capacity
+  building and innovation for evidence-based tax administration and **domestic resource
+  mobilisation**. Distinctive in this file for the **paired NDA** — most MoUs held here announce
+  intent; this one signals a **data-sharing** relationship whose scope is not disclosed. No value,
+  duration or governance published. See [[capacity.research]], [[dpi.govtech]],
+  [[zambia--dpi-govtech]]. Source: [[2026-07-17-zambia-revenue-authority-ictd-deal]].
 
 - **Equity × AfricaNenda × Gates Foundation (2026-07-07).** MoU to build interoperable
   DPI (payments, ID, data exchange) and scale it across **20–30 African markets**; Dr
@@ -142,6 +151,22 @@ is a **deal entity**; this concept tracks the pattern.
   [[SYC]], [[gov.regional]]. Source:
   [[2026-07-10 Seychelles to Host AfCFTA Digital Trade Corridor Headquarters]].
 
+- **Gabon: two accords, one per named constraint (2026-07-14).** The
+  **[[ministere-economie-numerique-gabon]]** signed **[[gabon-sgg-startup-guarantee-accord]]** (credit
+  guarantees, with the **[[societe-gabonaise-de-garantie]]**) and
+  **[[gabon-huawei-kimba-connect-accord]]** (skills, with Huawei Gabon) at the launch of
+  **[[kimba-connect]]** — a clean instance of the pattern this page tracks: **neither accord's terms are
+  published**, so an ecosystem of **150–200 start-ups (2026-07)** is being addressed by two signatures
+  with no ceiling, coverage ratio, trainee target, cost or duration on the record. The Huawei accord is
+  also **the second Gabon–Huawei agreement**, narrower than and layered on the
+  **[[gabon-huawei-mou]]** (2025-12-23). See [[gabon--tech-innovate]], [[geopol.china]],
+  [[tech.innovate]]. Source: [[2026-07-17-gabon-garantie-publique-huawei-start-up]].
+- **Kenya–China e-commerce MoU, cited but unseen (2026-07-17).** The
+  **[[kenya-china-ecommerce-mou]]** was invoked by PS **[[john-tanui]]** as the basis for sending **18
+  ICT officers** to Shandong. **The wiki holds no signing date, text, term or published scope for it** —
+  an MoU functioning as a spending warrant while remaining, on the record, a reference only. See
+  [[geopol.china]], [[KEN]]. Source: [[2026-07-17-kenya-ict-officers-china-digital-trade]].
+
 ## Places
 
 [[XAF]] · [[KEN]] · [[GAB]] · [[SLE]] · [[ETH]] · [[MOZ]] · [[TGO]] · [[XGL]] · [[RWA]] · [[ZMB]] · [[SOM]] · [[NGA]] · [[ZAF]] · [[COD]] · [[LSO]] · [[TZA]] · [[SYC]]
@@ -152,6 +177,9 @@ is a **deal entity**; this concept tracks the pattern.
 
 ## Sources
 
+- [[2026-07-17-zambia-revenue-authority-ictd-deal]]
+- [[2026-07-17-gabon-garantie-publique-huawei-start-up]]
+- [[2026-07-17-kenya-ict-officers-china-digital-trade]]
 - [[2026-07-07 Equity, AfricaNenda and Gates Foundation Partner to Advance Digital Public Infrastructure Across Africa]]
 - [[2026-07-06 Gabon Inaugurates First Tier III Datacenter to Boost Digital Sovereignty]]
 - [[2025-12-12-gabon-uncdf-financial-inclusion-deal]]

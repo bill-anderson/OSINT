@@ -4,7 +4,7 @@ title: Zambia
 code: ZMB
 parent: XSA
 place_kind: country
-topics: [infra.connect, infra.cybersec, dpi.id, dpi.pay, dpi.exchange, dpi.govtech, capacity.training, gov.policy, gov.regional, finance.new, include.divides, data.open, gov.standards, geopol.china, dpi.registry, gov.protect, geopol.usa, dpi.mis, finance.mou, include.access, digital.rural, gov.legislate, tech.ai, digital.localgov, data.statistics]
+topics: [infra.connect, infra.cybersec, dpi.id, dpi.pay, dpi.exchange, dpi.govtech, capacity.training, gov.policy, gov.regional, finance.new, include.divides, data.open, gov.standards, geopol.china, dpi.registry, gov.protect, geopol.usa, dpi.mis, finance.mou, include.access, digital.rural, gov.legislate, tech.ai, digital.localgov, data.statistics, capacity.research]
 status: active
 last_reviewed: 2026-07-19
 ---
@@ -27,6 +27,44 @@ The third is **evidentiary**: the headline numbers disagree. Penetration spans *
 
 ## Recent developments
 
+- **2026-07-17** — **Robotics result, and an AI strategy still unpublished.** The government
+  celebrated **Team Zambia** reaching the global finals of the **2026 AI for Good Global Summit and
+  Robotics for Good Youth Challenge** (Geneva) among **nearly 50 participating countries**, with an
+  **invitation to return in 2027**. Ceremony hosted by the
+  **[[ministry-of-technology-and-science-zambia|Ministry of Technology and Science]]** with the
+  **[[presidential-delivery-unit-zambia|PDU]]**, **[[e-mark-innovation-hub]]**, the Ministry of
+  Education and the Ministry of Youth, Sport and Arts. Three substantive disclosures sit under the
+  ceremony: the **[[zambia-national-ai-strategy|National AI Strategy]] is "nearing completion"**
+  (PDU head Kusobile Kamwambi) and is paired with a **Startup Bill** — **neither published, no text,
+  date or budget on file**; the ministry disclosed an **opportunity to establish Zambia's first
+  [[itu]] AI for Good Lab** under the UN framework (**an opportunity, not an agreement**); and the
+  delegation came from a **nine-month** pipeline run by a **private hub**, whose CEO Emmanuel Mwanza
+  said the talent pool is real but research and innovation investment is not. Education PS Noriana
+  Muneku tied the challenge to Zambia's **Competency-Based Curriculum** and urged rural talent
+  scouting; Youth PS Kangwa Chileshe cited youth resource centres with **[[starlink]]**
+  connectivity. The sequencing is the finding: the strategy is arriving **after** the
+  **[[national-ai-data-centre-zambia|Huawei AI/data-centre MoU]]** it would ordinarily govern. Full
+  thread: **[[zambia--tech-ai]]**. See [[gov.policy]], [[capacity.training]], [[tech.innovate]].
+  Source: [[2026-07-17-zambia-ai-leadership-robotics-challenge]].
+- **2026-07-17** — **ZRA signs an MoU + NDA with the ICTD.** The
+  **[[zambia-revenue-authority|Zambia Revenue Authority]]** and the
+  **[[international-centre-for-tax-and-development|ICTD]]** agreed research, capacity building and
+  innovation work toward "a fully data-driven tax administration" and domestic resource
+  mobilisation ([[zra-ictd-mou]]; CG **Dingani Banda**, ICTD ED **Giulia Mascagni**). State
+  digitisation reaching the **fiscal** apparatus, outside the SZI spine; the NDA's data scope is
+  undisclosed. See [[zambia--dpi-govtech]], [[capacity.research]], [[finance.mou]]. Source:
+  [[2026-07-17-zambia-revenue-authority-ictd-deal]].
+- **2026-07-15** — **[[govlink|GovLink Private 4G]] launched** at Ndola Teaching Hospital — a
+  **government-owned** network for public institutions, run by SZI's e-Government Division with
+  **[[ihm-southern-africa]]**/TuSo/Quadrupleplay and the **[[ministry-of-health-zambia|MoH]]**;
+  **health is the flagship** (Care 2.0; **[[smartcare-pro]]**, 2,000+ facilities, migrating).
+  Behind it: **[[starlink]]** kits in underserved public facilities **since 2024**, a reported
+  **116 local authorities on GWAN in 2025** *(contested — see [[zambia--dpi-govtech]])*, a
+  **[[zesco]]** access partnership, and a **Dec-2025** civil-service digital-skills programme.
+  Zambia ranked **130th of 193 on the UN EGDI (2024)**, **0.5424/1** (online services **0.4858/1**).
+  Full thread: **[[zambia--infra-connect]]**. Sources:
+  [[2026-07-17-zambia-govlink-private-4g]], [[2026-07-17-zambie-lance-reseau-4g-prive-govlink]],
+  [[2026-07-16-zambia-govlink-private-4g-itweb]], [[2026-07-16-zambia-govlink-private-4g-techafricanews]].
 - **2026-07-14** — **COMESA regional-AI workshop, Lusaka** ([[comesa]], [[world-bank]], under
   [[idea-mpa]]) — a first step toward a **COMESA Regional AI Strategy** and **Regional Digital Inclusion
   Strategy**, framed against policy fragmentation. Cited: **mobile broadband 72% (2025)**, up from <40% a
@@ -226,8 +264,14 @@ The third is **evidentiary**: the headline numbers disagree. Penetration spans *
   US$50M).
 - [[include.access]] · [[finance.new]] — **[[zrhcp]]**: $30m ([[world-bank]] IDA20 WHR + [[unhcr]]),
   biometric NRCs for 112,000 refugees (2025-10), to end-Oct 2028.
+- [[tech.ai]] · [[gov.policy]] · [[tech.innovate]] — extracted: **[[zambia--tech-ai]]** — the
+  forthcoming **[[zambia-national-ai-strategy]]** and Startup Bill (announced, unpublished); the
+  proposed **[[itu]] AI for Good Lab**; the [[huawei]] **[[national-ai-data-centre-zambia]]** MoU
+  contracted ahead of the policy; the COMESA regional-AI track; and the youth robotics pipeline run
+  by **[[e-mark-innovation-hub]]**.
 - [[capacity.training]] — Digital Transformation Centres; e-Gov Plan 2023–2026; MOSIP training aimed at
-  letting Zambian developers maintain the platform independently ([[ihm-southern-africa]], Jan 2025).
+  letting Zambian developers maintain the platform independently ([[ihm-southern-africa]], Jan 2025);
+  Competency-Based Curriculum alignment for AI/robotics (Ministry of Education, 2026-07).
 - [[gov.policy]] · [[data.open]] · [[include.divides]] (3.7M-women target; gender/PwD/rural gaps). DZAP is
   the **fifth operation** of **[[idea-mpa]]** — ~**$2.48 billion**, **15 African countries**, **eight
   years**, [[comesa]]-coordinated, Board-approved **June 2024**.
@@ -243,11 +287,15 @@ follow-up on file.
 [[world-bank]] · [[idea-mpa]] · [[comesa]] · [[dzap]] · [[smart-zambia-institute]] · [[huawei]]
 - [[dnrpc-zambia]] · [[inris]] · [[davies-chikalanga]] · [[jack-mwiimbu]] · [[zrhcp]] · [[id4africa]]
 - [[zilas]] · [[ministry-of-lands-zambia]] · [[smartcare-pro]] · [[ihm-southern-africa]] · [[co-develop]]
+- [[govlink]] · [[zesco]] · [[starlink]] · [[zambia-revenue-authority]] ·
+  [[international-centre-for-tax-and-development]] · [[zra-ictd-mou]]
 - [[undp]] · [[unhcr]] · [[unicef]] · [[tony-blair-institute]] · [[datareportal]] · [[mosip]]
   · [[fayda-ethiopia-national-id]] · [[gates-foundation]]
 - [[america-first-global-health-strategy]] · [[zambia-us-health-mou]] · [[africa-cdc]] · [[usaid]]
   · [[us-department-of-state]] · [[zimbabwe-us-health-mou]] · [[hikvision]] · [[zte]]
 - [[payz]] · [[bank-of-zambia]] · [[zicta]] · [[bayobab-zambia]] · [[vodacom]] · [[viamo]] · [[MOZ]]
+- New this batch (AI, skills & education, 2026-07-19): [[zambia-national-ai-strategy]] ·
+  [[presidential-delivery-unit-zambia]] · [[e-mark-innovation-hub]] · [[zambia--tech-ai]] · [[itu]]
 - Mentioned, not hubbed: NSDI Policy/Portal; UN-IGIF; Gwendoline Hamabele (MLNR ICT); Mbuyu Makayi
   (Chipper Cash / BongoHive); TuSo Business Dynamics (IHM); Yodahe Zemichael (Ethiopia NIDP); Percy
   Chinyama (SZI National Coordinator); Brilliant Habeenzu; Leonard Chitundu; Felix Mutati; Hakainde

@@ -6,18 +6,40 @@ parent: XWA
 place_kind: country
 topics: [gov.policy, capacity.training, gov.legislate, tech.innovate, finance.new, tech.ai, dpi.pay, infra.store, geopol.china, geopol.usa, include.divides, include.access, dpi.id, dpi.registry, dpi.govtech, dpi.mis, data.statistics, gov.standards, gov.protect, infra.connect, infra.cybersec, tech.industry, gov.regional, dpi.exchange, finance.mou, digital.rural, digital.localgov, data.satellite]
 status: active
-last_reviewed: 2026-07-18
+last_reviewed: 2026-07-19
 ---
 
 # Ghana (GHA)
 
 ## Recent developments
 
+- **2026-07-17** — **Private escrow rails for cross-border trade: [[kutanapay]].** The Accra startup
+  (founded 2023, Nicholas Murphy and Samuel Opoku) runs a **milestone-gated escrow platform** for
+  cross-border B2B trade — funds released only when both parties validate shipment or delivery —
+  bundled with cross-border payments, cargo insurance, dispute resolution, trade finance and AI
+  trade-flow analytics. It targets the risk layer Ghana's public payment DPI does not address:
+  GhIPSS/MoMo interoperability and [[papss]] move money between countries; escrow addresses the
+  **non-payment and non-delivery risk that stops the trade happening**. Company claims (several
+  African markets, rising volumes) are **undisclosed as to country, volume, funding and licence**, and
+  the blockchain element is asserted without specification. Market framing, dated: the
+  **[[african-development-bank|AfDB]]** trade-finance gap of **$74–92bn a year** (projected **$86.6bn
+  by 2027**) and **[[afreximbank]]**'s *African Trade Report 2025* constraints, against
+  **[[afcfta]]** implementation. See [[ghana--dpi-pay]], [[dpi.pay]], [[tech.innovate]], [[XAF]].
+  Source: [[2026-07-17-kutanapay-ai-blockchain-cross-border-trade]].
 - **2026-07** — **L.I. 2111: biometric-only Ghana Card verification.** Amendment gazetted making **biometric
   verification the only lawful means** of verifying a Ghana Card holder — **photocopying/visual inspection now a
   criminal offence** (fines to GH¢24,000). See [[national-identification-authority-ghana]], [[ghana--dpi-id]].
   Sources: [[2026-07-15-photocopying-ghana-card-illegal-fines-graphic]],
   [[2026-07-15-biometric-verification-mandatory-ghana-card-myjoy]].
+- **2026-07-15** — **NGIC's 5G exclusivity formally revoked.** The **[[national-communications-authority-ghana|NCA]]**
+  **amended [[ngic-ghana|NGIC]]'s wholesale 5G licence** to delete the exclusivity provision, **effective 15 July
+  2026**, on a public-interest finding under **Article 6.1.2 of the licence** and **s.14, Electronic Communications
+  Act 2008 (Act 775)** — after the full statutory sequence (Notice of Proposed Amendment 2 Mar; NGIC objection
+  18 Mar under s.14(4); meeting 1 Apr; oral representations to the Governing Board 28 May). Only exclusivity goes;
+  NGIC keeps the rest of its licence **and its spectrum assignment**. The regulator then opened **5G/mobile-broadband
+  spectrum applications** (incl. 100%-Ghanaian-owned new entrants). See [[ghana--infra-connect]], [[gov.legislate]].
+  Sources: [[2026-07-17-ghana-ends-ngic-exclusive-5g-licence]],
+  [[2026-07-17-ghana-opens-5g-spectrum-licence-applications-techafricanews]].
 - **2026-07** — **5G market opened; fintech enforcement.** Government **ended [[ngic-ghana|NGIC]]'s wholesale-5G
   exclusivity** and opened **spectrum-licence applications** (MTN/Telecel to bid); the BoG **revoked
   [[zeepay-ghana|Zeepay]]'s DEMI licence** and unveiled a **new digital-banking framework**; **[[nita-ghana|NITA]]**

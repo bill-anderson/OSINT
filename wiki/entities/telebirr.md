@@ -3,10 +3,10 @@ type: entity
 entity_type: initiative
 title: telebirr
 places: [ETH]
-topics: [dpi.pay, include.access]
+topics: [dpi.pay, include.access, geopol.china]
 status: active
-last_reviewed: 2026-07-15
-sources: [[2026-01-07 Why Ethiopia, Somalia and Djibouti are starting to matter in digital Africa], [2026-01-27 Digital Ethiopia 2030 Charting a Sovereign Path to Prosperity], [2026-02-02 Safaricom Ethiopia Surpasses 12 Million Users as M-PESA Adoption Grows], [2026-01-30 Inside Ethio Telecom's bold TechCo transformation], [2024-04-04 NBE governor on Ethiopia's digital-payments journey]]
+last_reviewed: 2026-07-19
+sources: [[2026-07-17-ethio-telecom-huawei-digital-infrastructure], [2026-01-07 Why Ethiopia, Somalia and Djibouti are starting to matter in digital Africa], [2026-01-27 Digital Ethiopia 2030 Charting a Sovereign Path to Prosperity], [2026-02-02 Safaricom Ethiopia Surpasses 12 Million Users as M-PESA Adoption Grows], [2026-01-30 Inside Ethio Telecom's bold TechCo transformation], [2024-04-04 NBE governor on Ethiopia's digital-payments journey]]
 ---
 
 # telebirr
@@ -36,6 +36,12 @@ private-sector challenger.
   [[ethswitch]] integration — the two now compete across Ethiopia's interoperable
   payments ecosystem. Source:
   [[2026-02-02 Safaricom Ethiopia Surpasses 12 Million Users as M-PESA Adoption Grows]].
+- **Huawei integration workstream (announced 2026-07-17).** Under the
+  **[[ethio-telecom-huawei-digital-partnership]]**, **[[huawei]]** would integrate business solutions with
+  telebirr to enable digital payments, financial services, e-commerce and value-added services for
+  enterprises — putting a Chinese vendor's enterprise stack directly on Ethiopia's dominant payments rail.
+  Reported as scoping discussions, not an executed agreement. See [[dpi.pay]], [[geopol.china]]. Source:
+  [[2026-07-17-ethio-telecom-huawei-digital-infrastructure]].
 
 ## Sources
 

@@ -24,6 +24,23 @@ doubles as the data protection authority** — there is no separate DPA.
 
 ## Recent developments
 
+- **2026-07-17** — **The digital agenda repackaged as MSME policy — with a penetration claim that does
+  not reconcile.** ICT Minister **Tatenda Annastacia Mavetera**
+  ([[ministry-of-ict-postal-and-courier-services-zimbabwe]]) told the **inaugural National SMEs and
+  Cooperatives Meeting** (theme: *"Towards Vision 2030"*; hosted by Women Affairs/SME Minister Sen. Monica
+  Mutsvangwa) that MSMEs contribute **more than 60% of GDP and ~70% of the workforce (2026-07)**, calling
+  digital transformation *"a powerful equaliser."* Flagships cited: **17,000+ km fibre backbone**,
+  continued **5G**, **[[starlink]]** licensed for rural villages, farms and mining areas, the
+  **[[zimbabwe-national-ai-strategy]]** (**launched March 2026**) with its **AI Grand Challenge**, a
+  digital-skills programme **targeting 1.5m Zimbabweans** in coding, AI and data, and **digital centres**
+  offering free internet, equipment and literacy training.
+  **Flagged — not adopted:** her claim that **internet penetration "has now reached 87%"** stands against
+  the **38.4% penetration / 61.6% offline** the wiki holds for **end-2025**. The two are irreconcilable as
+  stated; recorded at `reviews/contradictions/open/zimbabwe-internet-penetration-2026.md`, with the
+  likeliest bridge being that they measure different things (coverage or connections vs users — cf. **95.0%
+  mobile connections**, end-2025). **Neither has been promoted as current state.** See
+  [[zimbabwe--infra-connect]], [[gov.policy]], [[capacity.training]]. Source:
+  [[2026-07-17-zimbabwe-digital-roadmap-msme-growth]].
 - **2026-07-06** — **Powertel** (ZESA's telecom arm, a Mutapa Investment Fund
   company) and **[[paratus]]** Zimbabwe switched on **phase 1 (Plumtree–Bulawayo)**
   of a cross-border fibre corridor — **DWDM >10 Tbps-capable**, initial **800
@@ -238,14 +255,16 @@ report held with it (Togo, Tunisia), so a series template artefact, not a one-of
 - [[strive-masiyiwa]] · [[econet-wireless]] · [[econet-infraco]] · [[ecocash]] ·
   [[cassava-technologies]] · [[victoria-falls-stock-exchange]]
 - [[potraz]] · [[zimbabwe-cyber-and-data-protection-act]] · [[zimbabwe-si-76-2025]] ·
-  [[zimbabwe-deeds-registry]] · [[ministry-of-justice-zimbabwe]]
+  [[zimbabwe-deeds-registry]] · [[ministry-of-justice-zimbabwe]] ·
+  [[ministry-of-ict-postal-and-courier-services-zimbabwe]] · [[zimbabwe-national-ai-strategy]]
 - [[ministry-of-home-affairs-zimbabwe]] · [[registrar-general-zimbabwe]] ·
   [[civil-registry-department-zimbabwe]] · [[department-of-immigration-zimbabwe]] ·
   [[obms-zimbabwe]] · [[garsu-pasaulis]]
 - [[zimra]] · [[tarms-zimbabwe]] · [[consumer-protection-commission-zimbabwe]] ·
   [[reserve-bank-of-zimbabwe]] · [[unicef]] · [[datareportal]] · [[world-bank]]
-- Mentioned, not hubbed: Powertel, ZESA, Mutapa Investment Fund; Tatenda Mavetera (ICT
-  Minister); Emmerson Mnangagwa (President); Kazembe Kazembe (Home Affairs); Henry Machiri
+- Mentioned, not hubbed: Powertel, ZESA, Mutapa Investment Fund; Tatenda Annastacia Mavetera (ICT
+  Minister — recorded on [[ministry-of-ict-postal-and-courier-services-zimbabwe]]); Monica Mutsvangwa
+  (Women Affairs / SME Development); Emmerson Mnangagwa (President); Kazembe Kazembe (Home Affairs); Henry Machiri
   (Registrar-General); Douglas Mboweni (Econet CEO); Respect Gono (chief director of
   immigration); Vengai Madzima and Nyasha Timba (conveyancing practitioners); Embassy of
   Sweden; Dr Dzingai Mutumbuka.

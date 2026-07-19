@@ -2,12 +2,12 @@
 type: entity
 entity_type: organisation
 title: Afreximbank (African Export-Import Bank)
-places: [XAF, EGY, KEN, XSS, NGA]
+places: [XAF, EGY, KEN, XSS, NGA, GHA]
 topics: [dpi.pay, finance.new, gov.regional]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-16
-sources: [[2026-05-30 Afreximbank Banks on Digital Payments to Unlock Africa's Trillion-Dollar Trade Potential], [2022-08-30 Pan-African Payment and Settlement System drives Africa's banking integration], [2022-05-11 Pan-African Payment and Settlement System], [2026-01-23 Afreximbank flags Africa's digital trade gap at Davos], [2026-01-27 Nigeria's PAPSS cross-border payments falls 53% to N5.6bn], [2025-06-23 Onafriq and PAPSS launch cross-border payments in Ghana]]
+last_reviewed: 2026-07-19
+sources: [[2026-05-30 Afreximbank Banks on Digital Payments to Unlock Africa's Trillion-Dollar Trade Potential], [2022-08-30 Pan-African Payment and Settlement System drives Africa's banking integration], [2022-05-11 Pan-African Payment and Settlement System], [2026-01-23 Afreximbank flags Africa's digital trade gap at Davos], [2026-01-27 Nigeria's PAPSS cross-border payments falls 53% to N5.6bn], [2025-06-23 Onafriq and PAPSS launch cross-border payments in Ghana], [2026-07-17-kutanapay-ai-blockchain-cross-border-trade]]
 ---
 
 # Afreximbank (African Export-Import Bank)
@@ -19,6 +19,13 @@ continent's dependence on the US dollar and correspondent banking.
 
 ## Activity in this wiki
 
+- **African Trade Report 2025 — the named constraints on intra-African trade (as cited 2026-07-17).**
+  Afreximbank's annual flagship identifies **limited access to trade finance, the high cost of
+  cross-border payments, and inadequate financial infrastructure** as the persistent brakes on trade
+  across the continent — the same three the bank's own [[papss]] work targets, and the demand-side
+  argument private trade-payments entrants such as [[kutanapay]] cite. The report itself is **not
+  held**; it reaches the wiki through a trade-press account. Source:
+  [[2026-07-17-kutanapay-ai-blockchain-cross-border-trade]].
 - **Digital-payments suite unveiled in Egypt (2026-05-30).** Afreximbank launched a suite of
   products centred on [[papss]] (the Pan-African Payment and Settlement System), enabling
   local-currency settlement and cutting USD dependence. New products include the African

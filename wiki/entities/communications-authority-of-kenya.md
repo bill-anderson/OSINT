@@ -3,11 +3,11 @@ type: entity
 entity_type: government-body
 title: Communications Authority of Kenya
 places: [KEN]
-topics: [infra.connect, gov.standards, infra.capacity, gov.regional, gov.legislate]
+topics: [infra.connect, gov.standards, infra.capacity, gov.regional, gov.legislate, include.divides, capacity.literacy]
 lens: []
 status: active
-last_reviewed: 2026-07-12
-sources: [[2026-03-10 Kenya begins audit of Airtel's Starlink Direct-to-Cell tech], [2026-01-13 Spacecoin strikes major deals to launch satellite internet], [2025-11-04 The Double Standard Why Are Internet Governance Rules Different for Africa], [2026-05-19 GATEKEEPERS XIV]]
+last_reviewed: 2026-07-19
+sources: [[2026-03-10 Kenya begins audit of Airtel's Starlink Direct-to-Cell tech], [2026-01-13 Spacecoin strikes major deals to launch satellite internet], [2025-11-04 The Double Standard Why Are Internet Governance Rules Different for Africa], [2026-05-19 GATEKEEPERS XIV], [2026-07-17-ca-kenya-computer-donations-siaya-schools]]
 ---
 
 # Communications Authority of Kenya
@@ -53,6 +53,24 @@ Beyond the LEO-to-handset question, the CA also licenses new satellite entrants:
 IoT/connectivity in Kenya, one of a set of pilot agreements for the blockchain-integrated
 satellite operator. See [[data.satellite]], [[infra.connect]]. Source:
 [[2026-01-13 Spacecoin strikes major deals to launch satellite internet]].
+
+## The regulator as donor — CSR device donations (2026-07-17)
+
+The CA also runs a **Corporate Social Responsibility** programme donating equipment to schools. In
+July 2026 it gave computers to **Komora Vocational Training Centre** and **St. Benedict's Konya
+Secondary School** in **Siaya County**, framed as enabling students and tutors to reach online
+educational resources, strengthening ICT skills and helping "bridge the digital divide". The
+Authority says similar initiatives aim to expand access to ICT infrastructure and digital learning
+resources in schools more broadly.
+
+**No quantity, monetary value, connectivity provision, maintenance arrangement, recipient-selection
+criterion or follow-up measurement is disclosed** — the wiki holds an input, not an outcome, and
+holds it only from the Authority's own account carried by trade press. Recorded chiefly for the
+institutional pattern it shows: a **sector regulator distributing hardware** alongside its
+licensing, spectrum and standards functions, with the selection of beneficiaries governed by an
+internal CSR programme rather than by the universal-service mechanisms that ordinarily govern such
+allocation. See [[capacity.literacy]], [[include.divides]], [[KEN]]. Source:
+[[2026-07-17-ca-kenya-computer-donations-siaya-schools]].
 
 ## In the sovereignty critiques (Munyua, 2025–26)
 

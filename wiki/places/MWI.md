@@ -13,6 +13,15 @@ last_reviewed: 2026-07-19
 
 ## Recent developments
 
+- **2026-07-17** — **MACRA orders Airtel and TNM to compensate customers.** Reviewing tariff increases **it
+  had itself approved**, **[[macra-malawi|MACRA]]** found **[[airtel-malawi|Airtel Malawi]]** and
+  **[[tnm-malawi|TNM]]** in breach of **s.76, Communications Act 2016** — approved tariff changes must run in
+  **at least two daily newspapers seven days** before taking effect. Both agreed to credit customers who
+  bought affected products during the **26 Jun – 2 Jul 2026** notice window with equivalent bundles, to be
+  completed with evidence of compliance by **31 July 2026**, alongside strengthened internal compliance
+  procedures. What was enforced is **notice, not price** — the increase stands. Lands the same day as the
+  retail-pricing petition below. See [[malawi--infra-connect]], [[gov.legislate]], [[include.access]].
+  Source: [[2026-07-17-macra-airtel-malawi-tnm-tariff-compensation]].
 - **2026-07-17** — **Connectivity: retail-price backlash meets a distribution gap.** An online **petition**
   (885+ signatures in a day; organiser Stanley Mombera) urged **[[macra-malawi|MACRA]]** to review internet
   prices and investigate data-billing/bundle depletion. It lands atop a stark distribution gap: **85% of 9,000

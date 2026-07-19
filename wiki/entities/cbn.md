@@ -6,8 +6,8 @@ places: [NGA]
 topics: [gov.protect, gov.legislate, dpi.pay, infra.store]
 lens: [sovereignty, colonialism]
 status: active
-last_reviewed: 2026-07-12
-sources: [[2026-07-07 CBN's local data order puts Nigeria's data centres to test], [2026-06-17 Government data silos threaten Nigeria's AI ambitions], [2026-04-23 Africa's $205 Billion Digital Shift Is Redefining Money, and Central Banks Are Losing Control], [2026-07-10 Nigeria tests data sovereignty as foreign tech firms facing probe], [2026-02-04 PAPSS, Onafriq launch new trade rail for West Africa], [2026-02-06 Nigeria just raised the bar for West African Fintech], [2022-08-30 Pan-African Payment and Settlement System drives Africa's banking integration], [2026-02-05 Nigeria's fintech blueprint raises stakes for Kenya, Africa's digital economy], [2026-07-10 CBN's Data Localisation Directive Puts Nigerian Fintechs In A Cloud Dilemma], [2026-01-12 (3) Africa's Digital Policy Review 2025 in Perspective and Outlook for 2026], [2026-07-01 Strategy Ahead of Infrastructure, Part I Inside the CBN's June 2026 Payments Circular], [2026-06-19 Strategy Ahead of Infrastructure, Part II The Opportunity and the Case for Sequencing]]
+last_reviewed: 2026-07-19
+sources: [[2026-07-17-nigeria-central-bank-digitises-forex-oversight], [2026-07-07 CBN's local data order puts Nigeria's data centres to test], [2026-06-17 Government data silos threaten Nigeria's AI ambitions], [2026-04-23 Africa's $205 Billion Digital Shift Is Redefining Money, and Central Banks Are Losing Control], [2026-07-10 Nigeria tests data sovereignty as foreign tech firms facing probe], [2026-02-04 PAPSS, Onafriq launch new trade rail for West Africa], [2026-02-06 Nigeria just raised the bar for West African Fintech], [2022-08-30 Pan-African Payment and Settlement System drives Africa's banking integration], [2026-02-05 Nigeria's fintech blueprint raises stakes for Kenya, Africa's digital economy], [2026-07-10 CBN's Data Localisation Directive Puts Nigerian Fintechs In A Cloud Dilemma], [2026-01-12 (3) Africa's Digital Policy Review 2025 in Perspective and Outlook for 2026], [2026-07-01 Strategy Ahead of Infrastructure, Part I Inside the CBN's June 2026 Payments Circular], [2026-06-19 Strategy Ahead of Infrastructure, Part II The Opportunity and the Case for Sequencing]]
 ---
 
 # Central Bank of Nigeria (CBN)
@@ -65,6 +65,23 @@ cloud and data-centre market.
   (Kenya-angle reporting: bilateral licence-recognition pilots with Kenya/Ghana/Senegal/SA).
 - **Onshoring mandate paired with the FCCPC probe (2026-07).** Reporting frames the CBN local-hosting mandate as an active "test" of Nigeria's data sovereignty, twinned with the FG's directive to the [[fccpc]] to investigate Meta/Alphabet/X and GenAI platforms over anti-competitive practices — a joint assertion of data and economic sovereignty. Nigeria's ~26 data-centre facilities (18 commercial, 50–56 MW live of 124 MW installed) are cast as Africa's second-largest market, ready to absorb the bank migration. Reconfirms **₦1.07 quadrillion (~$702bn), 11.2bn e-transactions in 2024**. See [[infra.store]], [[nigeria--gov-protect]]. Source: [[2026-07-10 Nigeria tests data sovereignty as foreign tech firms facing probe]].
 
+## Supervisory data — instrumenting the retail FX market (2026-07)
+
+- **[[fx-bdc-purchase-tracker|FX BDC Purchase Tracker]] (circular of 2026-07-15,** signed by
+  Aderinola Shonekan, Trade and Exchange Department**).** A digital platform requiring all licensed
+  **Bureau de Change** operators to report FX purchases in **real time or same-day**, giving the CBN
+  transaction-level oversight of the retail forex market. **Banks act as first-line enforcement**
+  (KYC, due diligence, ownership verification, rejection of non-compliant BDCs) but are barred from
+  exclusivity or referral fees; **unsold FX must return to the market within 24 hours**. It builds on
+  the **February 2026** policy allowing licensed BDCs to buy up to **$150,000 a week** from
+  authorised dealer banks, and on the licensing of **82 BDCs in December 2025**. See [[dpi.pay]],
+  [[gov.legislate]], [[nigeria--dpi-pay]]. Source:
+  [[2026-07-17-nigeria-central-bank-digitises-forex-oversight]].
+
+This is the same regulatory instinct as the localisation directive read from the other end: **the
+CBN is steadily converting market activity into supervisory data it holds and controls** — first
+where the data physically sits, now who must report what, and how fast.
+
 ## Reads
 
 - `sovereignty`: data repatriation, law-enforcement access, keeping cloud spend onshore
@@ -85,3 +102,4 @@ cloud and data-centre market.
 - [[2026-01-12 (3) Africa's Digital Policy Review 2025 in Perspective and Outlook for 2026]]
 - [[2026-07-01 Strategy Ahead of Infrastructure, Part I Inside the CBN's June 2026 Payments Circular]]
 - [[2026-06-19 Strategy Ahead of Infrastructure, Part II The Opportunity and the Case for Sequencing]]
+- [[2026-07-17-nigeria-central-bank-digitises-forex-oversight]]

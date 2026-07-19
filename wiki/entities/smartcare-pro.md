@@ -5,8 +5,8 @@ title: SmartCare Pro
 places: [ZMB]
 topics: [dpi.mis, dpi.id, dpi.exchange, digital.rural, include.access]
 status: active
-last_reviewed: 2026-07-17
-sources: [[2026-01-15 How Digital Public Infrastructure Is Transforming Health and Identity in Rural Zambia], [2025-01-17 Zambia Advances Digital ID System with MOSIP Training for Healthcare Integration]]
+last_reviewed: 2026-07-19
+sources: [[2026-01-15 How Digital Public Infrastructure Is Transforming Health and Identity in Rural Zambia], [2025-01-17 Zambia Advances Digital ID System with MOSIP Training for Healthcare Integration], [2026-07-17-zambia-govlink-private-4g]]
 ---
 
 # SmartCare Pro
@@ -38,6 +38,15 @@ SmartCare Pro is what sits on top. *(Spelling drift: **SmartCarePro** in ID Tech
   training. Source:
   [[2026-01-15 How Digital Public Infrastructure Is Transforming Health and Identity in Rural Zambia]].
 
+- **Migrating onto GovLink; 2,000+ facilities (2026-07).** SmartCare Pro is among the first systems
+  moving onto **[[govlink|GovLink Private 4G]]**, the government-owned network launched 15 Jul 2026,
+  and is reported deployed in **more than 2,000 health facilities (2026-07)** — alongside **Care
+  2.0**, piloted at Ndola Teaching Hospital, Arthur Davison Children's Hospital and Kitwe Teaching
+  Hospital. *(Compare **~80% of health facilities**, SZI, 2026-07-08 — a share, not a count; the two
+  are not necessarily in conflict.)* Clinicians at Ndola reported electronic access to records,
+  radiology and diagnostics at launch — an operator statement, not an evaluation. See
+  [[infra.connect]]. Source: [[2026-07-17-zambia-govlink-private-4g]].
+
 ## Provenance — read the 2026-01 account as vendor framing
 
 **The 2026-01-15 piece is written by the implementers themselves** ([[ihm-southern-africa]]
@@ -60,3 +69,4 @@ them. That absence is the finding.
 
 - [[2025-01-17 Zambia Advances Digital ID System with MOSIP Training for Healthcare Integration]]
 - [[2026-01-15 How Digital Public Infrastructure Is Transforming Health and Identity in Rural Zambia]]
+- [[2026-07-17-zambia-govlink-private-4g]]

@@ -3,11 +3,11 @@ type: concept
 title: Access to services
 slug: include.access
 places: [MRT, COG, COM, CMR, BWA, BFA, BDI, AGO, XAF, KEN, NGA, ZAF, SEN, XSS, ETH, TZA, ZWE, NAM, CIV, BEN, LBR, SLE, SSD, GIN, XWA, DJI, DZA, EGY]
-entities: [[africanenda], [equity-group-holdings], [nimc], [partner2connect], [undp], [nucap], [starlink], [govguide-nigeria], [meta], [liquid-c2], [microsoft], [safaricom], [gsma], [helios-towers], [kenya-revenue-authority], [ethswitch], [uae], [emma-theofelus], [cran], [orange-cote-divoire], [orange-sat], [eutelsat], [wardip], [world-bank], [anip-benin], [seamfix], [south-sudan-national-revenue-authority], [viamo], [mtn-group], [solly-malatsi], [dcdt-south-africa], [gsma-sa-smartphone-tax-reform-2026]]
+entities: [[africanenda], [equity-group-holdings], [nimc], [partner2connect], [undp], [nucap], [starlink], [govguide-nigeria], [meta], [liquid-c2], [microsoft], [safaricom], [gsma], [helios-towers], [kenya-revenue-authority], [ethswitch], [uae], [emma-theofelus], [cran], [orange-cote-divoire], [orange-sat], [eutelsat], [wardip], [world-bank], [anip-benin], [seamfix], [south-sudan-national-revenue-authority], [viamo], [mtn-group], [solly-malatsi], [dcdt-south-africa], [gsma-sa-smartphone-tax-reform-2026], [mathesis-analytics], [skydd], [zerobionics], [norah-kimathi]]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-16
-sources: [[2026-07-07 Equity, AfricaNenda and Gates Foundation Partner to Advance Digital Public Infrastructure Across Africa], [2026-07-09 Nigeria seeks support to operationalize new digital ID law as NIN tops 136M], [2026-06-18 Africa's $240 Billion Mobile Economy A Checkpoint on Africa's Digital Transformation Journey], [2026-07-01 IFC and Airtel Africa Expand Digital Connectivity to Strengthen Jobs and Inclusion], [2026-06-15 Starlink drives African broadband speeds higher], [2026-06-10 MTN Group goes all-in on platforms and AI], [2026-06-16 Who Owns Africa's Sky], [2026-06-19 Microsoft SA secures digital talent for govt], [2026-07-03 Vodacom expands East Africa strategy], [2026-07-09 NIMC Act 2026 Director-General Coker-Odusote Launches 8,809-Ward Digital ID Drive], [2026-01-01 Digital Public Infrastructure in Africa - UNDP], [2026-06-04 Chinese bank backs Nigeria towers project], [2026-05-26 Africa risks losing billions to satellite internet operators, report says], [2026-05-22 View How SpaceX is making a quiet bet on Africa], [2026-05-22 Nigeria launches GovGuide, an AI chatbot for public service access], [2026-05-29 Africa's Mobile Money Networks Are Becoming Tax Infrastructure], [2026-05-27 Liquid, Microsoft unveil mobile digital lab for North West youth], [2025-02-13 Digital ID necessity increases in Nigeria despite lingering challenges], [2026-03-01 GSMA State of the Industry Report on Mobile Money 2026], [2026-03-24 Mobile Money in Africa Strong Growth, but Adoption Still Falls Short], [2026-03-30 M-PESA Ethiopia surges 258% as EthSwitch fuels growth], [2026-04-02 WhatsApp tax filing set to pull millions into Kenya's tax net], [2026-04-13 Helios Towers completes 133 UCSAF sites to expand rural connectivity in Tanzania], [2026-04-07 Zimbabwe switches on free wifi to power AI future], [2026-01-27 Namibian schools, clinics to get free internet], [2026-02-02 Namibian regulator proposes tax breaks on 4G devices], [2026-01-21 Orange Côte d'Ivoire Launches Orange Sat Satellite Internet to Boost Nationwide Connectivity], [2026-03-16 New $137M initiative to enable digital service access for millions in three ECOWAS nations], [2026-02-02 Benin reports 75% of identification services accessed through digital platforms], [2026-01-19 South Sudan introduces digital payment system for passports after supply crisis], [2026-01-15 Leveraging AI to Bypass the Smartphone Barrier and Advance Digital Inclusion in Africa], [2026-06-25 Regulating for Africa's future digital economy – A draft agenda to speed things up]]
+last_reviewed: 2026-07-19
+sources: [[2026-07-07 Equity, AfricaNenda and Gates Foundation Partner to Advance Digital Public Infrastructure Across Africa], [2026-07-09 Nigeria seeks support to operationalize new digital ID law as NIN tops 136M], [2026-06-18 Africa's $240 Billion Mobile Economy A Checkpoint on Africa's Digital Transformation Journey], [2026-07-01 IFC and Airtel Africa Expand Digital Connectivity to Strengthen Jobs and Inclusion], [2026-06-15 Starlink drives African broadband speeds higher], [2026-06-10 MTN Group goes all-in on platforms and AI], [2026-06-16 Who Owns Africa's Sky], [2026-06-19 Microsoft SA secures digital talent for govt], [2026-07-03 Vodacom expands East Africa strategy], [2026-07-09 NIMC Act 2026 Director-General Coker-Odusote Launches 8,809-Ward Digital ID Drive], [2026-01-01 Digital Public Infrastructure in Africa - UNDP], [2026-06-04 Chinese bank backs Nigeria towers project], [2026-05-26 Africa risks losing billions to satellite internet operators, report says], [2026-05-22 View How SpaceX is making a quiet bet on Africa], [2026-05-22 Nigeria launches GovGuide, an AI chatbot for public service access], [2026-05-29 Africa's Mobile Money Networks Are Becoming Tax Infrastructure], [2026-05-27 Liquid, Microsoft unveil mobile digital lab for North West youth], [2025-02-13 Digital ID necessity increases in Nigeria despite lingering challenges], [2026-03-01 GSMA State of the Industry Report on Mobile Money 2026], [2026-03-24 Mobile Money in Africa Strong Growth, but Adoption Still Falls Short], [2026-03-30 M-PESA Ethiopia surges 258% as EthSwitch fuels growth], [2026-04-02 WhatsApp tax filing set to pull millions into Kenya's tax net], [2026-04-13 Helios Towers completes 133 UCSAF sites to expand rural connectivity in Tanzania], [2026-04-07 Zimbabwe switches on free wifi to power AI future], [2026-01-27 Namibian schools, clinics to get free internet], [2026-02-02 Namibian regulator proposes tax breaks on 4G devices], [2026-01-21 Orange Côte d'Ivoire Launches Orange Sat Satellite Internet to Boost Nationwide Connectivity], [2026-03-16 New $137M initiative to enable digital service access for millions in three ECOWAS nations], [2026-02-02 Benin reports 75% of identification services accessed through digital platforms], [2026-01-19 South Sudan introduces digital payment system for passports after supply crisis], [2026-01-15 Leveraging AI to Bypass the Smartphone Barrier and Advance Digital Inclusion in Africa], [2026-06-25 Regulating for Africa's future digital economy – A draft agenda to speed things up], [2026-07-17-mathesis-analytics-raises-funding-ai-lending], [2026-07-17-zerobionics-sign-language-robots-kenya]]
 # Source-linkage: NIMC's 8,809-ward drive targets rural women/children/PWDs/refugees; NIN
 # gates banking/telecoms/federal-programme access. Prose enrichment pending.
 ---
@@ -19,6 +19,34 @@ private digital services as the test of infrastructure's value.
 
 ## Key material
 
+- **Disability access — the dimension this page had been missing ([[KEN]], 2026-07-17).** Until now
+  this concept has tracked access along cost, geography, gender and documentation lines, but not
+  **disability**. **[[zerobionics]]** supplies the first case: humanoid robots that render speech
+  into sign language in real time so **deaf students can follow STEM classes** where qualified
+  interpreters are scarce, with the lesson delivered remotely over **2G** by a teacher who does not
+  sign. Founder **[[norah-kimathi]]** argues the sector's historical failure was **interest, not
+  technology** — assistive provision treated as a box to tick "to pass tests and be called
+  inclusive" — and reports **510,000 beneficiaries, direct and indirect (2026-07-17)** against a
+  **1m+ target by end-2027/2028**. Cost is the access barrier being engineered against: recycled
+  plastic casing **cut unit costs by >60%**, because the target schools — marginalised, often
+  without internet or roads — could not afford imported humanoids priced in the hundreds of
+  thousands of dollars. *Single founder-interview source; every figure is the founder's own, with
+  no evaluation or learning-outcome data held.* See [[tech.ai]], [[tech.innovate]],
+  [[kenya--tech-ai]]. Source: [[2026-07-17-zerobionics-sign-language-robots-kenya]].
+- **Credit access bought with transaction surveillance ([[NGA]], 2026-07-17).**
+  **[[mathesis-analytics]]** scores the creditworthiness of **people without bank accounts** by
+  analysing their **payment patterns across mobile apps**, selling the assessment to banks; the company
+  says the system has **supported eight million loans in Nigeria** (as of 2026-07-17 — a cumulative
+  company figure with no stated start date, loan value or default performance). It is a genuine
+  inclusion mechanism: the thin-file problem that locks unbanked borrowers out is solved by treating
+  everyday transactional behaviour as the credit file. It is also the clearest example on file of
+  **inclusion delivered by converting payment traces into an underwriting input** — data gathered to
+  move money, repurposed to judge the payer. Whether consent covers that use, whether purpose
+  limitation survives it, and whether an automated refusal can be contested are **unaddressed in the
+  held source**. Worth reading against the ~400m-excluded framing below: the terms on which exclusion
+  is remedied are themselves a governance question. See [[dpi.pay]], [[tech.ai]],
+  [[nigeria--dpi-pay]], [[gov.protect]]. Source:
+  [[2026-07-17-mathesis-analytics-raises-funding-ai-lending]].
 - **The inclusion gap (2026-07, TechAfrica / AfricaNenda–Equity–Gates).** Despite mobile
   money's spread, **~400 million** Africans remain excluded from formal financial
   services. The partnership's pitch is that interoperable DPI (payments + ID) plus
@@ -197,3 +225,4 @@ private digital services as the test of infrastructure's value.
 - [[2026-01-19 South Sudan introduces digital payment system for passports after supply crisis]]
 - [[2026-01-15 Leveraging AI to Bypass the Smartphone Barrier and Advance Digital Inclusion in Africa]]
 - [[2026-06-25 Regulating for Africa's future digital economy – A draft agenda to speed things up]]
+- [[2026-07-17-zerobionics-sign-language-robots-kenya]]

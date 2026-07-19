@@ -1,6 +1,6 @@
 {
-  "last_run_completed_utc": "2026-07-18T00:00:00Z",
-  "last_run_staged": 0,
-  "last_run_window": null,
-  "note": "Seed value: the Phase-2 back-fill covered through 2026-07-17, so the first daily run continues from 2026-07-18. Adjust last_run_completed_utc to backfill from a different datetime; the run overwrites this as its last act."
+  "last_run_completed_utc": "2026-07-19T16:00:00Z",
+  "last_run_staged": 36,
+  "last_run_window": "2026-07-17T16:00:00Z/2026-07-19T16:00:00Z",
+  "note": "First live daily run. Exa's index lagged the newest ~48h on every domain: nothing dated 2026-07-19 was retrievable anywhere, and only techcabal.com surfaced 2026-07-18 items. The 48h overlap floor is expected to recover those on the next run — this is the mechanism working, not a gap to chase."
 }

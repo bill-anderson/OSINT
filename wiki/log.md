@@ -7792,3 +7792,453 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
 - ~10 entities created (gim-uemoa, igad, adapt, iota-foundation, africa-ai-council, smart-africa-data-exchange, ascend-digital-solutions, africa-data-protection). Most blocs/systems already held (PAPSS, BEAC, CEMAC, COMESA, BCEAO, WAEMU, EAC, EARDIP, AfCFTA, Smart Africa, 2Africa/Via Africa cables, Raxio).
 - Places tagged: XAF (continental), XCA/XEA/XSA/XWA (regional), XGL (tag-only continental/global).
 - Through-line: continental integration is real and accelerating on two tracks — payments (PAPSS/DRPP/PI-SPI/EARDIP converging on local-currency interoperable rails) and DPI (ADAPT/SADX shared rails, Africa AI Council) — set against the unresolved sovereignty gap: >80% of African data offshore, <1% of global DC capacity, and a data-governance debate ("backdoor" AI regulation, $200-400bn data "given away", no continental adequacy standard) racing to catch commercial integration.
+
+## 2026-07-19 ingest(daily) chunk — Connectivity, subsea resilience & spectrum regulation (5 sources)
+- **Subsea resilience (2 sources, complementary — same event, two angles).** Created entity
+  [[international-advisory-body-on-submarine-cable-resilience]] (ITU–ICPC, 2024–2026; co-chairs Bosun
+  Tijani / Sandra Maximiano; execs Lamanauskas & Bressie; Abuja-2025 + Porto-2026 summits; final report
+  approved 2026-07-10 at WSIS Forum 2026; three pillars, seven priorities incl. streamlined permitting,
+  vulnerable regions, climate). Created entity [[doreen-bogdan-martin]] (ITU SG; 9 raw + 6 wiki referrers
+  — dead-link triage: create). Updated itu, international-cable-protection-committee, bosun-tijani, watra;
+  concepts infra.connect, gov.standards, gov.regional, gov.policy; hubs NGA, XWA, XGL.
+  **Supersession, not contradiction:** ICPC membership 235+/70 countries (Sep 2025) → 270+/75 (Jul 2026) —
+  recorded as current value + one dated prior per currency discipline; no contradiction filed.
+- **Ghana 5G (1 source) — UPDATE, not duplicate** (CLAUDE.md rule 2 "same story, later date"). The wiki
+  held ITWeb 2026-07-09 (market intent) and TechAfrica 2026-07-17 (spectrum applications); this adds the
+  **formal regulatory act**: NCA licence amendment effective 2026-07-15, statutory basis Art. 6.1.2 of
+  NGIC's licence + s.14 Electronic Communications Act 2008 (Act 775), full s.14 chronology (NoPA 2 Mar;
+  NGIC objection 18 Mar under s.14(4); meeting 1 Apr; oral representations to Governing Board 28 May);
+  amendment narrow — spectrum assignment retained. Prior dated statements kept. Updated ngic-ghana,
+  national-communications-authority-ghana, ghana--infra-connect, GHA hub, gov.legislate, infra.connect.
+- **Malawi tariff enforcement (1 source).** MACRA ordered Airtel Malawi + TNM to compensate customers for
+  breaching s.76 Communications Act 2016 (7-day, two-newspaper tariff notice); notice window 26 Jun–2 Jul
+  2026, compensation deadline 31 Jul 2026. Read recorded: notice was enforced, not price. Updated
+  macra-malawi, airtel-malawi, tnm-malawi, malawi--infra-connect, MWI hub, gov.legislate, infra.connect.
+- **GSMA Mobile Net Zero (1 source).** Created resource entity [[gsma-mobile-net-zero-2026]] and applied
+  the *reference studies: cite, don't absorb* rule — global-panel figures held on the report page, with
+  only the Africa-relevant hook (towerco diesel >2bn litres/4m sites 2024; <¼ validated targets;
+  renewables 24% 2024 vs 10% 2019, concentrated in rich markets) cited onto infra.energy / gsma / XGL.
+  No Africa breakdown held — stated explicitly on the pages.
+- **Vocabulary corrections (tier-1, silent):** entity slugs `icpc`→`international-cable-protection-committee`,
+  `malawi-communications-regulatory-authority`→`macra-malawi`, `telekom-networks-malawi`→`tnm-malawi`;
+  `anacom` removed (would mis-resolve to `anacom-angola-mission`, a different object — see GAP-XGL-001);
+  `aliyu-aboki` removed as a 1-referrer stray (role already held on [[watra]]);
+  `science-based-targets-initiative` replaced with the report entity (see GAP-XGL-002). Syndication notes on
+  the two subtelforum items left intact per `sweep/daily-README.md` (origin dateline in `published`).
+- 5/5 admitted to raw/; 0 prunes, 0 discards, 0 leads. 0 contradictions. 2 gaps filed (GAP-XGL-001 ANACOM
+  Portugal/Maximiano; GAP-XGL-002 SBTi). 0 issues. 0 intersections created (existing ghana--infra-connect
+  and malawi--infra-connect extended; no new cell met the materiality bar). Dead-link NONE.
+- Through-line: regulators exercising **codified statutory power** — Ghana's NCA unwinding its own
+  single-wholesaler design through s.14 process with the licensee heard and overruled; Malawi's MACRA
+  enforcing tariff *notice* while its own approved price rise stands — set against the soft-law layer
+  above, where an African state (Nigeria) holds the **chair** of global cable-resilience standard-setting
+  and WATRA converts the output into a regional harmonisation agenda within five days.
+
+## 2026-07-19 ingest(daily) chunk — Digital government & state capacity (5 sources)
+- **Zambia GovLink ×2 (items 1–2) — SAME EVENT, already held twice** (CLAUDE.md rule 2, "same event,
+  same period"). The wiki already carried `2026-07-16-zambia-govlink-private-4g-itweb` and
+  `-techafricanews`. **No parallel pages spawned.** Both new sources were **admitted** (not pruned as
+  relevant-duplicates) because each carries in-scope payload the held pair lacks: Africa Telecom Review
+  adds clinician testimony (Dr Justo Banda, Ndola — electronic access to records/radiology/diagnostics;
+  Dr Charles Mwinuna, Copperbelt PHD — wait times, referral and supply-chain systems); wearetech.africa
+  (FR) adds the whole connectivity backstory (Starlink kits in underserved public facilities since 2024;
+  all 116 local authorities on GWAN in 2025; ZESCO access partnership; Dec-2025 decentralised
+  digital-skills programme for government staff) plus the **UN EGDI 2024** benchmark. Detail folded into
+  [[zambia--infra-connect]], [[zambia--dpi-govtech]], the ZMB hub, and
+  [[smart-zambia-institute]]/[[ihm-southern-africa]]/[[smartcare-pro]]/[[ministry-of-health-zambia]].
+  **French body kept verbatim in French** in `raw/`; all wiki prose in English.
+- **Currency discipline:** EGDI written dated inline everywhere it appears — "**130th of 193 (2024)**,
+  score **0.5424/1**, online-services sub-index **0.4858/1**" — never bare present tense; likewise the
+  116-local-authority count (2025), SmartCare Pro's 2,000+ facilities (2026-07) and Decent Life's 1,250+
+  villages (as of 2026-07).
+- **CONTRADICTION FILED — `zambia-gwan-local-authority-coverage`.** wearetech.africa reports SZI
+  announced in **2025** that it had connected **all 116 local authorities** to GWAN; SZI's own
+  **2026-07-08** statement presents the connection of **North-Western Province's** local authorities and
+  post offices as new. Both held, neither adopted; `status: needs-review` on
+  [[zambia--dpi-govtech]]. Distinguished in-page from the **ZamPortal onboarding** count (LCC "first of
+  116 councils", May 2026) — network connection ≠ portal onboarding, so that is *not* a conflict.
+- **ZRA × ICTD (item 3).** Created [[zambia-revenue-authority]] (government-body),
+  [[international-centre-for-tax-and-development]] (organisation) and the deal entity [[zra-ictd-mou]]
+  (MoU **plus NDA**, 2026-07-17; CG Dingani Banda / ED Giulia Mascagni; research, capacity building,
+  innovation, DRM). Filed the undisclosed NDA data-scope as an in-page absence, not a gap. Updated
+  [[zambia--dpi-govtech]], ZMB hub, concepts capacity.research and finance.mou.
+- **CBN forex (item 4).** Created [[fx-bdc-purchase-tracker]] (initiative; circular 2026-07-15, Aderinola
+  Shonekan). Read recorded: **formalisation by measurement** — 82 BDCs licensed (Dec 2025) →
+  $150,000/week allowance (Feb 2026) → transaction-level monitoring (Jul 2026), banks as first-line
+  enforcement. Updated [[cbn]], [[nigeria--dpi-pay]], NGA hub, concept dpi.pay.
+- **Egypt × World Bank (item 5).** Created [[decent-life-initiative]] (initiative). Recorded explicitly as
+  a **cooperation meeting with no instrument, agreement or figure** — Donohoe's "knowledge is now as
+  important as financing" logged as the analytically interesting line (the Bank as supplier of regulatory
+  /institutional expertise rather than lender). MCIT's 1,250+ villages figure **corroborates** the held
+  mid-2026 value in [[egypt--infra-connect]] — no new figure promoted. Updated [[world-bank]],
+  [[mcit-egypt]], [[itida-egypt]], EGY hub, concept gov.policy.
+- **Vocabulary corrections (tier-1, silent):** staged entity slugs corrected to existing pages —
+  `central-bank-of-nigeria`→`cbn`, `world-bank-group`→`world-bank`,
+  `ministry-of-communications-and-information-technology-egypt`→`mcit-egypt`, `itida`→`itida-egypt`.
+  Thin mentions dropped from source frontmatter and kept as "mentioned, not hubbed"
+  (`tuso-business-dynamics`, `quadrupleplay`, `ndola-teaching-hospital`), matching the convention set by
+  the two held 2026-07-16 GovLink sources. Malformed `[[[...]]]` frontmatter link syntax repaired on
+  `mcit-egypt`, `itida-egypt` and `egypt--infra-connect`.
+- 5/5 admitted to raw/; 0 prunes, 0 discards, 0 leads. **1 contradiction filed**, **1 gap filed**
+  (GAP-ZMB-004 Care 2.0 — second national digital-health platform, four referrers, no page and no
+  dedicated source), 0 issues. **0 intersections created** — all four affected cells
+  (zambia--infra-connect, zambia--dpi-govtech, nigeria--dpi-pay, egypt--infra-connect) already existed and
+  were extended; no new place×topic cell met the materiality bar. Dead-link NONE.
+- Through-line: four states buying **state capacity** in different currencies — Zambia buying the *rail*
+  (a government-owned 4G network, and Starlink where it won't reach), Nigeria buying *visibility* (making
+  a grey market report itself in real time), Zambia's revenue authority buying *analytical capacity* (an
+  external research body inside its own taxpayer data, under an undisclosed NDA), and Egypt buying
+  *know-how* (a lender explicitly reframing its offer as expertise). The common move is the state
+  extending its reach by instrumenting what it could not previously see — and in three of the four the
+  wiki holds the announcement but not the evidence of delivery.
+
+## 2026-07-19 ingest(daily) chunk — Data centres, operators & infrastructure deals (4 sources)
+
+Sweep batch `daily-2026-07-19`. All four admitted; `body_completeness: full` and `ingested: 2026-07-19`
+set on each; no leads, no discards, no prunes.
+
+- **Telecom Egypt cancels the Helios RDH stake sale (EGY).** Created three pages: entity
+  [[regional-data-center-hub]] (Telecom Egypt's DC business, RDH 1 / Tier-III RDH 2), entity
+  [[helios-investment-partners]] (Africa PE firm — **distinct from the held [[helios-towers]]**, noted on
+  the page to stop the two merging), and **deal** [[telecom-egypt-helios-rdh-stake-sale]] (announced
+  2025-09-07, 75–80%, **cancelled**; conditions unmet; RDH carved out wholly-owned instead). Updated
+  [[telecom-egypt]], EGY hub, [[egypt--infra-store]] (new "Ownership: the state keeps the estate"
+  section). Recorded that **no consideration and no breakdown of the unmet conditions** is disclosed —
+  a provenance gap noted on the deal page rather than papered over. The sovereignty reading (a
+  cable-adjacent estate staying with a state-controlled operator) is flagged as an *effect*, explicitly
+  not the stated motive.
+- **Ethio Telecom × Huawei (ETH) — same story, later date.** The wiki already held the ITWeb account
+  [[2026-07-15 Ethio Telecom, Huawei expand digital push]], so this was filed under rule 2 as an
+  **update, not a parallel page**: the existing ETH-hub, [[ethio-telecom]] and [[huawei]] entries were
+  **re-dated 2026-07-15 → 2026-07-17 and extended**, not duplicated. Genuinely new payload folded in:
+  the **[[telebirr]] integration** workstream (payments, financial services, e-commerce); the SME/
+  inclusion framing (digital literacy, rural connectivity, digital education); the **Siinqee Bank /
+  Awash Bank** device financing at **up to 2m smartphones a year**; and **[[mastercard]]** talks in
+  April 2026. Created **deal** [[ethio-telecom-huawei-digital-partnership]] and extended
+  [[ethiopia--infra-connect]] with a "Beyond connectivity: the Huawei enterprise stack" section. Both
+  sources agree it is **scoping discussions, not an executed agreement** — stated as such throughout,
+  and no contradiction arises between the two accounts.
+- **Orange circular economy (XAF, MAR, BFA, EGY) — French body kept verbatim.** Body retained in the
+  original French with `body_language: fr`; wiki prose is English. Every figure is dated inline and
+  attributed to **Orange's Rapport RSE 2025, published 2026-07-10** — 164,000 boxes refurbished in 2025
+  (+43% on 2024), 209t e-waste, 354,000 devices, €13m saved; MAR 6,000 boxes / ~€1.5m; BFA 33t; EGY a
+  UNIDO refurbishment unit. All flagged **operator-self-reported and unaudited**. Created entity
+  [[unido]]. Updated [[orange]] and the XAF, MAR, BFA and EGY hubs. Each of the three country tags
+  carries a concrete national figure, so none was dropped as a passing mention.
+- **Vodacom × ITU (ZAF, XAF).** Created **deal** [[vodacom-itu-digital-inclusion-protocol]]; updated
+  [[vodacom]], [[itu]], ZAF and XAF hubs. The source's boilerplate figures (">220m customers",
+  FY2025 M-PESA **$450.8bn**) were **deliberately not promoted** onto [[vodacom]], which already holds
+  fresher, more precise values (237m customers, ~$526bn, 2026-07) — supersession, not contradiction, so
+  no contradiction item was filed. Recorded the analytically live point: an operator with a direct
+  commercial stake in LEO licensing gaining a channel into **satellite-spectrum policy**, cross-linked
+  to the held Starlink/leakage material.
+- **Vocabulary corrections (tier-1, silent):** staged entity slugs corrected to held pages —
+  `international-telecommunication-union`→`itu`, `vodafone-group`→`vodafone`, `m-pesa`→`mpesa`,
+  `orange-middle-east-and-africa`→`orange` (OMEA is Orange's Africa/ME division; the `orange` page
+  covers that footprint). `emmaus-international` dropped from frontmatter — an e-waste collection
+  partner outside the wiki's data-governance scope, retained in prose without a page. A staged
+  `orange-csr-report-2025` entity was **not** created: the wiki does not hold the report, so it was
+  filed as a gap instead of minting a page for an unread document.
+- **0 intersections created**; two existing cells extended ([[egypt--infra-store]],
+  [[ethiopia--infra-connect]]). No new place×topic cell met the materiality bar — the MAR/BFA/EGY Orange
+  items are one figure each and correctly stayed as hub lines.
+- **Concept pages deliberately not extended.** [[infra.store]] (~5,700 words) and [[finance.new]]
+  (~3,400) are both past the refactor threshold; the place-specific payload went to the intersections
+  that exist for exactly this purpose rather than accreting more chronology onto oversized synthesis
+  pages. Flagged here rather than done silently.
+- 4/4 admitted to raw/; **0 contradictions**, **1 gap filed** (Orange Rapport RSE 2025 cited for a dozen
+  figures across five pages but not held — every figure single-sourced through one trade-press summary
+  of an unread document), **0 issues**. Dead-link NONE.
+- Through-line: three of the four are an operator **widening its remit beyond connectivity** — Telecom
+  Egypt keeping and specialising a data-centre business rather than selling control of it, Ethio Telecom
+  buying an enterprise cloud/AI stack from its existing radio vendor, Vodacom trading operational
+  expertise for a seat in spectrum policy — while the fourth, Orange's refurbishment programme, is the
+  same move pointed at the demand side, where the binding constraint is the price of a device rather
+  than the reach of a network. The recurring weakness on file is symmetrical: in every case the wiki
+  holds the announcement and the actor's own numbers, and in none of them the independent evidence.
+
+### daily-2026-07-19 · chunk: Payments, fintech & investment (5 sources)
+
+- **KutanaPay: private escrow rails beside public payment DPI (GHA, XAF).** Created entity
+  [[kutanapay]] (company; Accra, founded 2023, Murphy/Opoku). Updated [[afreximbank]],
+  [[african-development-bank]], [[afcfta]], the GHA and XAF hubs, [[ghana--dpi-pay]] and
+  [[tech.innovate]]. The analytical line recorded: Ghana's state DPI (GhIPSS/MoMo interoperability,
+  [[papss]]) solves *moving money across borders*, while KutanaPay monetises the **counterparty risk
+  that stops the trade happening** — milestone-gated escrow, cargo insurance, dispute resolution.
+  Every operational claim (multi-country footprint, rising volumes) is **company-sourced and
+  unquantified**, and the blockchain element is asserted without specifying what is recorded on-chain
+  — flagged as such on all four pages rather than repeated as fact. The two market figures — AfDB's
+  **$74–92bn** trade-finance gap (**$86.6bn by 2027**) and Afreximbank's *African Trade Report 2025*
+  constraints — are held **dated and attributed on the two bank entity pages**, per the
+  reference-studies rule; **neither publication is held**, and both reach the wiki through a single
+  trade-press account.
+- **Mathesis Analytics × First Ally Capital (NGA).** Created [[mathesis-analytics]] (company),
+  [[first-ally-capital]] (company, deliberately thin — investor role only) and **deal**
+  [[mathesis-analytics-first-ally-funding-2026]]. **Amount, valuation, stake and stage all
+  undisclosed**, recorded as such in a table on the deal page rather than papered over. The company's
+  "**eight million loans supported**" is carried as a cumulative company figure **with no stated start
+  date, loan value or default performance**. Recorded the governance point the source does not raise:
+  scoring the unbanked from mobile-app payment patterns extends credit access *and* converts payment
+  traces into an underwriting input, leaving consent, purpose limitation and contestability of
+  automated refusals unaddressed — folded into [[include.access]] and [[nigeria--dpi-pay]].
+- **Skydd (NGA) — sponsored content, attributed as a company statement.** Created [[skydd]],
+  [[chituru-nsirim]], [[anu-oyeleye]]. The item is a **TechCabal Partner / Press Room** placement,
+  admissible as a **first-hand company announcement** and filed as one: a standing provenance
+  block-quote on [[skydd]], and an italic caveat on every page carrying its claims ([[NGA]],
+  [[nigeria--dpi-pay]], [[tech.industry]]). "Nigeria's leading insure-fintech" is recorded as the
+  company's **self-description**, and **>20,000 active customers / positive EBITDA and cash flows** as
+  **self-reported figures resting on no filings the wiki holds**. The substantive news kept is the
+  infrastructure turn — opening its protection rails to banks, fintechs, employers and merchants.
+- **Nigeria's retail-investing surge (NGA) — the largest payload.** Created [[nigerian-exchange]],
+  [[bamboo]], [[richmond-bassey]], [[cowrywise]], [[meristem-securities]], [[afrinvest]],
+  [[csl-stockbrokers]]. **Trove and Risevest were dropped from the staged frontmatter** as bare list
+  mentions — named in prose without pages, rather than minting stubs from a single passing reference.
+  Widget-derived figures are attributed to **NGX data** and dated inline (₦2.86tn Jan–May 2026,
+  +138.76% y/y; 36.22% of trading activity; ₦4.06tn institutional; Bamboo's April-2026 11.13% broker
+  share). The finding surfaced above the rally: participants name **registrar record-keeping**, not
+  trading technology, as the binding failure — a shareholder-registry data-quality problem presenting
+  as market distrust. Umaru's "no bust soon" is marked as **a forecast made mid-rally**, not a finding.
+- **Kenya's revived golden visa (KEN, ZAF, MUS).** Created [[kenya-investment-authority]]
+  (government-body) and [[john-mwendwa]] (person); updated the KEN, ZAF and MUS hubs and
+  [[tech.innovate]]. **RWA dropped from the staged frontmatter** — Kigali is a passing mention in a
+  list of rival hubs, whereas ZAF and MUS each carry a concrete statutory fact (R12m/~$729,000 under
+  the Immigration Act since 2002; the $500,000→$375,000 cut in 2020), so those two were kept and the
+  entries on both hubs are explicitly marked *comparative, via Kenya reporting* rather than presented
+  as domestic developments. The proposal is recorded with its three stated limits — **thresholds and
+  sectors undetermined, legislation required, mandate lies elsewhere** — so an exploration is not
+  logged as a programme. **Antler, Capria Ventures, Delta40 and Enza Capital** were dropped from
+  frontmatter (bare mentions) and filed as **GAP-KEN-003** instead.
+- **Concept pages deliberately not extended.** [[dpi.pay]] (~4,470 words), [[gov.policy]] (~3,960),
+  [[finance.new]] (~3,370) and [[tech.ai]] (~5,940) are all past the refactor threshold; place-specific
+  payload went to [[nigeria--dpi-pay]] and [[ghana--dpi-pay]] instead. Only the four concept pages
+  **under** threshold were extended: [[tech.innovate]], [[tech.industry]], [[capacity.literacy]] and
+  [[include.access]]. Flagged here rather than done silently. **[[dpi.pay]] is the page most in need of
+  the CLAUDE.md over-length review** — no refactor attempted inside this chunk.
+- **0 intersections created.** Two existing cells extended ([[nigeria--dpi-pay]] gained a "Beyond
+  payments: what the rails are now carrying" section, [[ghana--dpi-pay]] a KutanaPay entry). A
+  `kenya--tech-innovate` cell was **considered and declined**: single-sourced, and the payload sits
+  legibly on the KEN hub and [[tech.innovate]] — below the bar for minting a new cell.
+- **1 contradiction filed** (`nigeria-2008-crash-loss-and-ngx-market-cap.md`) — unusually,
+  **intra-source**: the TechCabal retail-investing piece gives the same ₦6.96tn 2008 loss as both
+  **$55.03bn** and **$5.03bn**, plus two further inconsistent dollar conversions (NGX market cap
+  $113.79bn vs $113.02bn; institutional ₦4.06tn rendered as $4.06bn against a retail conversion
+  implying ~₦1,382/$). Arithmetic favours $55.03bn but the wiki does not correct a source by
+  arithmetic, so **all wiki pages carry the naira figures only** and no disputed dollar value was
+  compiled. [[nigerian-exchange]] set `status: needs-review`.
+- **2 gaps filed** — **GAP-NGA-002** (the NGX Domestic & Foreign Portfolio Report underpins the whole
+  retail-participation series and is not held) and **GAP-KEN-003** (four international VC firms named
+  as holding Kenyan regional offices, unmapped). **0 issues.**
+- **Tier-1 silent corrections:** stale note in `topics-index.md` claiming `digital.rural` and
+  `capacity.literacy` had no concept pages — both exist; corrected. Staged `sources:` additions
+  normalised to each file's local list convention.
+- 5/5 admitted to `raw/`. Through-line: the same Nigerian rails built to **move money** are now
+  carrying **credit** (Mathesis), **insurance** (Skydd) and **securities** (Bamboo/NGX) — three
+  products from one accumulated asset, everyday transaction traces — while Ghana's KutanaPay and
+  Kenya's residency proposal are the same instinct pointed outward, at the risk and the residency
+  frictions that sit *around* a transaction rather than in it. The recurring weakness is symmetrical
+  across all five: the wiki holds the announcement and the actor's own numbers, and in none of them
+  the independent evidence — two of the five are sponsored or company-issued, and the one genuinely
+  data-rich item rests on a primary (the NGX report) the wiki does not hold.
+
+### daily-2026-07-19 · chunk: AI, skills & education (7 sources)
+
+All seven admitted; `ingested: 2026-07-19` and `body_completeness: full` set on each; no leads, no
+discards, no prunes.
+
+- **Codar $1.5m (NGA, XAF) — sponsored, attributed as a company statement.** Created [[codar]],
+  [[kwe4-africa-venture-studio]] and **deal** [[codar-funding-round-2026]]. A **TechCabal Partner /
+  Press Room** placement, filed per the established precedent: a standing **provenance block-quote**
+  on the entity page and an **italic caveat on every page carrying its claims** ([[NGA]], [[XAF]],
+  [[nigeria--tech-ai]], [[capacity.training]]). **Investors, valuation, stage and the equity/debt
+  split are all undisclosed**, recorded as such in a table on the deal page. **>5,000 active learners
+  / >70,000 students reached (2026-07-17)** carried as **self-reported**, with the point made
+  explicitly that *reached* is not *trained* — no completion, certification or placement rate is
+  disclosed. "One of Africa's fastest-growing professional training companies" recorded as a
+  **self-description** the wiki does not adopt. The analytical line kept: this is the AI-skills gap
+  approached as a **venture-returns market**, beside the hyperscaler-, vendor-, state- and
+  donor-financed programmes already on [[capacity.training]] — which changes who the training answers
+  to.
+- **Decide × CafeOne (NGA).** Created [[decide-ai]], [[cafeone]], [[abiodun-adetona]]. The finding
+  recorded is the **distribution model, not the product**: an AI agent routed into workplaces through
+  the physical and institutional intermediaries where knowledge work already happens, which puts the
+  **co-working operator between the AI vendor and the end user handling business data** — a governance
+  surface outside either party's own contracting. All usage figures (>41,000 analysis runs, >21,000
+  spreadsheets, >10 countries, **82.5% on SpreadsheetBench**) marked company-reported; the benchmark
+  is the only externally-defined measure and is **not independently verified here**. The PwC/KPMG
+  adoption figures were **not promoted as wiki facts** — held dated and attributed on
+  [[nigeria--tech-ai]] with both studies flagged unheld, and filed as **GAP-NGA-004**.
+- **ZeroBionics (KEN) — the disability dimension [[include.access]] was missing.** Created
+  [[zerobionics]] and [[norah-kimathi]]. **`strathmore-university` dropped from staged frontmatter**
+  — the tie is an alma mater, Strathmore appears in the wiki only as a parenthetical on [[cipit]], and
+  no dead link existed to fix; recorded in prose instead of minting a stub. The in-source spelling
+  variance (**ZeroBionic / ZeroBionics**) is noted on the entity page as a naming note, **not** filed
+  as a contradiction — it is orthographic, not factual. Every figure (510,000 beneficiaries, >60% cost
+  reduction, the 1m+ target, "billions of parameters by 2028") is the founder's own from a **single
+  founder interview** and is flagged as such on all four pages carrying it. Two analytical lines kept:
+  the long-term asset is a **sign-language dataset** intended for open-sourcing — shared assistive-AI
+  infrastructure rather than a product, whose consent and governance questions the source does not
+  address; and the **hardware-in-Africa** friction inventory (no local component community, a startup
+  opening its own maker space) which [[tech.innovate]] had no case for until now.
+- **Zambia AI/robotics (ZMB) — the only new intersection.** Created [[zambia--tech-ai]], plus
+  [[zambia-national-ai-strategy]] (instrument), [[presidential-delivery-unit-zambia]] and
+  [[e-mark-innovation-hub]]; updated [[ministry-of-technology-and-science-zambia]] and [[itu]]. The
+  finding is **sequencing**: the National AI Strategy and Startup Bill are **announced and
+  unpublished**, the [[itu]] AI for Good Lab is **an opportunity, not an agreement**, and both arrive
+  *after* the June-2026 [[huawei]] [[national-ai-data-centre-zambia]] MoU they would ordinarily
+  govern. Recorded as sequencing, explicitly **not** as any party's stated intent. Also recorded: the
+  talent pipeline that produced the Geneva result sits in a **private hub**, not a state programme,
+  and the PDU's "one of Zambia's fastest-growing economic sectors" carries **no growth rate or
+  GDP-contribution figure** — noted rather than repeated as fact.
+- **Japan / UNESCO-IICBA → 15 Nigerian Colleges of Education (NGA).** Created [[japan]] and
+  [[unesco-iicba]]; updated [[federal-ministry-education-nigeria]]. Filed **proportionately** as a
+  donation item. Dated to the **handover, 2026-06-02**, not the 2026-07-17 report date. **No monetary
+  value, recipient-college list, connectivity/maintenance provision or timeframe is disclosed**, and
+  the item is recorded on [[capacity.literacy]] as the recurring shape of this intervention — **an
+  input that is countable and an outcome that is not**. The pairing noted on the ministry page: it is
+  building the national education **data** layer ([[dnemis-nigeria]]) while receiving the **device**
+  layer from a bilateral donor, through entirely separate channels.
+- **CA Kenya → Siaya schools (KEN).** Updated [[communications-authority-of-kenya]] only; **no new
+  entity created**. Filed proportionately as a hub line plus an entity section. The point kept is
+  institutional, not the donation: a **sector regulator distributing hardware** alongside its
+  licensing, spectrum and standards functions, with beneficiary selection governed by an internal CSR
+  programme rather than the universal-service mechanisms that ordinarily govern such allocation.
+  Quantity, value and follow-up all undisclosed.
+- **NESS 2026 (NGA) — sponsored, attributed as an organiser statement.** Created
+  [[nigeria-education-supplies-summit]], [[skld-integrated-services]], [[ndubueze-mbah]] and
+  [[enugu-smart-green-schools]]. Same sponsored-content treatment as Codar: provenance block on the
+  organiser page, italic caveat wherever claims are repeated. **Staged frontmatter trimmed from seven
+  topics to five** (`capacity.training` and `infra.connect` dropped as passing mentions), and
+  **`lotus-bank` and `chronicles-software-development` dropped from frontmatter** as bare speaker
+  affiliations — named in prose without pages, per the Trove/Risevest precedent. The vendor claim
+  *"if you are a teacher and you are not engaging AI, then you are going to be extinct"* is recorded
+  as **a vendor's assertion about teacher obsolescence**, not a finding. The substantive keep: the
+  constraint named from the floor is **school cash flow and foundational learning**, not technology —
+  the demand side contradicting the emphasis of the state-level AI programmes on
+  [[nigeria--tech-ai]].
+- **Vocabulary corrections (tier-1, silent):** staged entity slugs corrected to held pages —
+  `federal-ministry-of-education-nigeria`→`federal-ministry-education-nigeria`,
+  `government-of-japan`→`japan` (following the held `uae` country-actor precedent). Verified against
+  held pages before creating: `communications-authority-of-kenya`, `itu`,
+  `ministry-of-technology-and-science-zambia`, `smart-zambia-institute` — all existed and were reused,
+  not duplicated. Topic lists trimmed on five of seven sources (`infra.capacity` ×2,
+  `capacity.training` ×2, `include.access` ×1, plus the NESS trim above).
+- **1 intersection created: [[zambia--tech-ai]]** — meets the materiality bar comfortably (**4 cited
+  sources**, ≥5 distinct developments: the strategy, the Startup Bill, the ITU lab offer, the Huawei
+  MoU, the Geneva result, the curriculum alignment). Three existing cells extended:
+  [[nigeria--tech-ai]] (new "The private adoption layer" section), [[kenya--tech-ai]] (ZeroBionics),
+  [[nigeria--digital-localgov]] (Enugu). **Two cells considered and declined:** a
+  `nigeria--capacity-training` cell — the payload sits legibly on the NGA hub and
+  [[capacity.training]], below the bar; and a `kenya--include-access` cell — single-sourced, one
+  development.
+- **Concept pages deliberately not extended.** [[tech.ai]] (~5,940 words) took **none** of this
+  chunk's AI payload despite most of the batch being AI-adjacent — it is genuinely *thematic*, so per
+  CLAUDE.md it must not be split, and it was simply not grown: all place-specific AI material went to
+  [[nigeria--tech-ai]], [[kenya--tech-ai]] and the new [[zambia--tech-ai]]. [[gov.policy]] (~3,960)
+  and [[finance.new]] (~3,370) likewise left untouched — the Zambia strategy payload went to
+  [[zambia--tech-ai]] and the ZMB hub, the Codar round to the deal entity and the hubs.
+  [[include.divides]] (~2,913, over threshold) also left untouched; the CA Kenya payload went to
+  [[capacity.literacy]] and the KEN hub. Only under-threshold concepts were extended:
+  [[capacity.training]], [[capacity.literacy]], [[tech.innovate]] and [[include.access]].
+- **[[include.access]] flagged for the over-length review** — it stood at ~2,472 words and this chunk
+  added the disability/assistive-tech entry, which the page genuinely lacked as a dimension, taking it
+  just past ~2,500. **No refactor attempted inside this chunk.** On inspection it looks *thematic*
+  rather than matrix-shaped (access framed by barrier type, not decomposable into clean per-country
+  cells), so the likely correct outcome is "leave it long" — but that is the human's call, not a
+  silent one.
+- 7/7 admitted to raw/; **0 contradictions**, **2 gaps filed** (GAP-NGA-004 the unheld PwC/KPMG
+  AI-adoption studies; GAP-NGA-005 Enugu's 267 smart green schools with no primary source),
+  **1 issue filed** (ISSUE-017 — Japan has no `geopol.*` slug; recommendation is to leave the
+  vocabulary alone until a third such item lands). Dead-link NONE.
+- Through-line: seven items about **who pays to put AI and computers in front of Africans**, and the
+  answer is a different party each time — a venture fund (Codar), a co-working landlord (CafeOne), a
+  bilateral donor via a UN agency (Japan/IICBA), a telecoms regulator's CSR budget (CA Kenya), a state
+  government's own capital (Enugu), a private innovation hub carrying a national delegation (E-MARK),
+  and a 22-year-old engineer building from recycled plastic (ZeroBionics). The recurring weakness is
+  the same across all seven and is now the more interesting finding: **every one of them publishes an
+  input and none publishes an outcome.** Learners reached, students enrolled, machines handed over,
+  beneficiaries counted, schools built, finalists qualified — not one source in this batch carries a
+  completion rate, a learning result, an uptime figure or an evaluation. Two of the seven are
+  sponsored placements, three are self-reported founder or agency accounts, and the largest single
+  claim in the batch (267 schools) rests on one sentence at a supplier's own summit.
+
+### daily-2026-07-19 · chunk: Inclusion, policy & geopolitics (6 sources)
+
+All six admitted; `ingested: 2026-07-19` and `body_completeness: full` set on each; no leads, no
+discards, no prunes.
+
+- **Airtel Uganda × ICT minister (UGA) — adjudicated COMPLEMENTARY, both admitted.** The two staged
+  clips ([[2026-07-17-airtel-uganda-advances-digital-inclusion-talks]], ITWeb Africa;
+  [[2026-07-17-airtel-uganda-ict-minister-meeting]], Tech Africa News) report the **same event** on the
+  **same date**, so the lint #7 relevant-duplicate test was applied with full text in hand. **The test
+  fails at its own threshold — the payloads differ in both directions — so the keeper ladder (a)–(d)
+  was never reached.** Tech Africa News uniquely carries that the minister, **Rt Hon. Justine Kasule
+  Lumumba, is newly appointed**, that Sahu congratulated her on the appointment, and that the meeting
+  was a **courtesy visit**; ITWeb Africa uniquely carries the **Airtel Money** platform, the
+  **rural-connectivity and digital-education partnerships with government agencies**, the operator's
+  market position, and the **only direct quote** in either piece. A ministerial change is a material
+  fact, not framing. Both filed; **no parallel pages spawned** — both attach to the same entity, hub
+  and intersection entries, with each outlet's distinct detail folded into one account.
+- Created **[[ministry-of-ict-and-national-guidance-uganda]]** (no page existed); recorded **Lumumba**
+  (minister, newly appointed Jul 2026) and **Soumendra Sahu** (Airtel MD/CEO) as roles on the
+  organisation pages rather than minting single-mention `person` pages. Payload routed to
+  **[[uganda--infra-connect]]** and the [[UGA]] hub — `include.divides` (~2,900w) and
+  `include.access` (~2,650w) are over threshold and were **not grown**.
+- **Kenya → China, 18 ICT officers (KEN).** Created
+  **[[state-department-for-ict-and-the-digital-economy-kenya]]** and **deal**
+  [[kenya-china-ecommerce-mou]]. Vocabulary corrections (tier-1, silent): staged
+  `john-kipchumba-tanui` → existing **[[john-tanui]]**; `kenya-digital-master-plan-2022-2032` →
+  existing **[[kenya-national-digital-masterplan]]**. Concept payload to [[geopol.china]] (1,749w,
+  under threshold); `capacity.training` (~2,710w) is over and was **not grown**. Noted on the deal and
+  concept pages that the wiki holds **no signing date, text or scope** for the MoU now being cited as
+  a spending warrant.
+- **Gabon: SGG guarantee + Huawei skills accords (GAB).** French-language source; **body kept verbatim
+  in French**, wiki prose in English. Created **[[kimba-connect]]**,
+  **[[societe-gabonaise-de-garantie]]**, **[[ministere-economie-numerique-gabon]]**,
+  **[[mark-alexandre-doumba]]** (7 existing entity pages referenced him with no page of his own), and
+  **two deal entities** — [[gabon-sgg-startup-guarantee-accord]] and
+  [[gabon-huawei-kimba-connect-accord]]. The Huawei accord is **distinct from and later than** the
+  held [[gabon-huawei-mou]] (2025-12-23); both pages now cross-reference, and neither supersedes the
+  other. Created intersection **[[gabon--tech-innovate]]** — materiality met on all three tests
+  (~700w, 3+ distinct developments, two accords plus the programme).
+- **Zimbabwe MSME digital roadmap (ZWE) — 1 contradiction filed.** Minister Mavetera's claim that
+  **internet penetration "has now reached 87%" (2026-07-17)** conflicts hard with the held
+  **38.4% penetration / 61.6% offline (end-2025, DataReportal)**. **Neither figure promoted as current
+  state.** `status: needs-review` set on
+  [[ministry-of-ict-postal-and-courier-services-zimbabwe]] and [[zimbabwe--infra-connect]]; item
+  written to `reviews/contradictions/open/zimbabwe-internet-penetration-2026.md` with a wiki-agnostic
+  brief carrying **only the two URLs the wiki holds**. Her **"more than 17,000 km" fibre** figure is
+  *not* recorded as a contradiction — it is a weaker claim consistent with the regulator's 19,000+ km
+  (Q1 2026) — but is flagged inside the item as worth confirming in passing. `gov.policy` (~3,960w)
+  over threshold and **not grown**; payload routed to the hub and [[zimbabwe--infra-connect]].
+- **GoCab/Yango 100 EVs, Abidjan (CIV) — place over-tag trimmed.** Staged `[CIV, RWA, KEN, NGA]`
+  → **[CIV]**. RWA/KEN carry only Ampersand's fleet figures and NGA only Moove's valuation, all as
+  **comparators** in a piece whose subject is Côte d'Ivoire; those figures now live on the
+  [[ampersand]] / [[moove]] entity pages, tagged to their own places, per the prior chunk's precedent.
+  Created [[gocab]], [[moove]], [[ampersand]], [[spiro]]; updated [[yango]] (+CIV). Payload to
+  [[civ--tech-innovate]], [[tech.industry]] and [[infra.energy]] (both under threshold);
+  `finance.new` (~3,370w) and `dpi.pay` (~4,470w) over threshold and **not grown**.
+- 6/6 admitted to raw/; **1 contradiction filed**, **0 gaps**, **0 issues**. Dead-link NONE.
+- Through-line: five of the six are **states convening private capacity they do not themselves fund**
+  — an operator asked to close the handset gap, a guarantee fund standing behind banks that must still
+  choose to lend, a vendor supplying the curriculum and the certificate, officials flown to a trade
+  expo on an MoU the wiki cannot read. The sixth inverts it: GoCab is private capital doing the
+  financing directly, and it is the only item in the batch that publishes numbers precise enough to be
+  wrong. That asymmetry is the finding. **Four of the six announce no figure at all** — no target,
+  timeline, ceiling, cost or deliverable — while the two that do quantify are a **company's own
+  unverified operating benchmarks** and a **minister's penetration claim that contradicts the held
+  baseline by 48 points**. Where the state speaks, there is either no number or a number that does not
+  reconcile; where the market speaks, the numbers are self-reported.
+
+**Incident (this chunk, disclosed):** while repairing line-ending damage of my own making, I ran
+`git checkout HEAD --` on 8 files (`topics-index.md`, `places-index.md`, `entities-index.md`, and
+concepts `geopol.china`, `tech.innovate`, `finance.mou`, `infra.energy`, `tech.industry`), which also
+discarded **uncommitted edits from earlier chunks of this same batch**. Restored: all **197** missing
+`entities-index` rows regenerated deterministically from entity-page frontmatter (this also cleared a
+pre-existing orphan backlog); `topics-index` place lists re-synced from concept frontmatter (17 rows);
+`places-index` topic lists re-synced from place-page frontmatter (26 rows); and the lost concept-page
+prose restored verbatim (Kenya golden visa, KutanaPay, ZeroBionics, E-MARK on [[tech.innovate]];
+Skydd/Bamboo on [[tech.industry]]; GSMA Mobile Net Zero on [[infra.energy]]; ZRA×ICTD on
+[[finance.mou]]). All 8 files verified byte-clean against HEAD (lone-CR counts unchanged).
+**Residual risk:** any *prose* edit an earlier chunk made to those five concept pages that left no
+trace in entity/place frontmatter would not be recoverable by the above and may still be missing —
+worth a spot-check of this batch's earlier chunks against those five pages before committing.

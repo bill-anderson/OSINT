@@ -6,7 +6,7 @@ parent: XEA
 place_kind: country
 topics: [dpi.id, dpi.registry, finance.mou, include.divides, dpi.pay, dpi.govtech, tech.ai, tech.innovate, gov.standards, dpi.exchange, gov.regional, dpi.mis, infra.energy, infra.store, infra.connect, gov.protect, gov.legislate, infra.cybersec, include.access, data.statistics, capacity.training, capacity.research, capacity.literacy, digital.rural, gov.policy, tech.industry, finance.new, geopol.china, geopol.usa, geopol.india]
 status: active
-last_reviewed: 2026-07-18
+last_reviewed: 2026-07-19
 ---
 
 # Ethiopia (ETH)
@@ -46,14 +46,23 @@ last_reviewed: 2026-07-18
   [[2026-05-18-ethiopia-needs-third-telecom-operator-5bn-reporter]],
   [[2026-04-07-dashen-bank-first-digital-id-accounts-biometricupdate]],
   [[2026-02-05-coercion-over-consent-mandatory-digital-id-addisstandard]].
-- **2026-07-15** — **Ethio Telecom + Huawei expand into enterprise/SME digital services.**
+- **2026-07-15 → 2026-07-17** — **Ethio Telecom + Huawei expand into enterprise/SME digital services.**
   **[[ethio-telecom]]** and **[[huawei]]** are widening their collaboration beyond telecoms infrastructure
   into **cloud, AI, cybersecurity, IoT, data-centre services and digital platforms** for enterprises and SMEs,
   under Ethio Telecom's **"Next Horizon: Digital & Beyond 2028"** strategy (CEO Frehiwot Tamru; Huawei N.
   Africa president Li Shen). Also covers local capability-building (software dev, system integration, R&D),
   affordable-device financing, and adoption campaigns for **[[telebirr]]**. Framed as expanded cooperation, not
-  a signed deal — deepens the Huawei-Ethiopia dependency thread. See [[infra.connect]], [[tech.ai]],
-  [[tech.industry]], [[infra.store]]. Source: [[2026-07-15 Ethio Telecom, Huawei expand digital push]].
+  a signed deal — deepens the Huawei-Ethiopia dependency thread.
+  **Later reporting (2026-07-17)** adds the **[[telebirr]] integration** as an explicit workstream (digital
+  payments, financial services, e-commerce and value-added services for businesses); an SME/inclusion framing
+  covering **digital literacy, rural connectivity and digital education**; and the device track's precedents —
+  Ethio Telecom's **Siinqee Bank** and **Awash Bank** financing deals targeting **up to two million smartphones
+  a year** to low-income citizens on long-term instalment plans, the access-device complement to Fayda
+  enrolment. It also records **[[mastercard]]** talks with Ethio Telecom in **April 2026** on financial
+  inclusion. See [[ethio-telecom-huawei-digital-partnership]], [[infra.connect]], [[tech.ai]],
+  [[tech.industry]], [[infra.store]], [[dpi.pay]], [[geopol.china]], [[include.access]]. Sources:
+  [[2026-07-15 Ethio Telecom, Huawei expand digital push]],
+  [[2026-07-17-ethio-telecom-huawei-digital-infrastructure]].
 - **2026-03-22** — **Africa's first unmanned "Smart Police Station"** opened in Addis (PM Abiy) —
   AI-driven self-service kiosks for reporting crimes, paying fines and requesting documents 24/7,
   under **[[digital-ethiopia-2030]]**. See [[dpi.govtech]], [[tech.ai]]. Source:

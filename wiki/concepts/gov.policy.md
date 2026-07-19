@@ -7,7 +7,7 @@ entities: [[smart-zambia-institute], [world-bank], [david-eaves], [sita], [undp]
 lens: [sovereignty, colonialism]
 status: active
 last_reviewed: 2026-07-19
-sources: [[2025-09-11 DZAP World Bank PAD], [2025-12-15 The Path to a Sovereign Tech Stack is Via a Commodified Tech Stack  TechPolicy.Press], [2026-06-23 Africa's Data Centre Boom Where The New Facilities Are Being Built], [2026-07-07 South Africa's state IT agency is slowing government tech rollout], [2026-07-07 Ghana and UNDP Strengthen Partnership on Digital Transformation Projects], [2026-07-08 China funds Namibia digital infrastructure], [2026-06-08 Kenya proposes marketplace for State data], [2026-02-25 South Africa puts data centres on par with energy, ports in big policy shift], [2026-06-10 Rwanda Launches Dedicated AI Agency to Drive Investment and Innovation], [2026-05-18 Eswatini promotes digital transformation project through World Bank engagements], [2026-06-17 Zambia's govt leans towards open-source], [2026-06-16 Who Owns Africa's Sky], [2026-06-03 How the EU's Tech Sovereignty Package Finally Puts Open Source to the Test], [2026-06-11 The Case Against the EU's Tech Sovereignty Package], [2025-01-01 South African Digital Sovereignty at the Crossroad of Securitization and Development (Chapter 4) - Digital Sovereignty in the BRICS Countries], [2026-07-10 Kenya and U.S. Discuss Draft Data Governance Policy to Strengthen Digital Economy], [2026-07-08 FG Halts Enforcement of New Regulations on Internet Platforms], [2026-01-01 Digital Public Infrastructure in Africa - UNDP], [2026-02-26 The AfDB's push for African financial sovereignty, and a tech investment rebound], [2026-05-26 AfDB says Africa must fund its own growth as aid model frays], [2026-05-21 Pushing back from Big Tech Africa's hard road to AI sovereignty], [2026-04-28 African Ministers call for harmonised policies and infrastructure investment at Connected Africa Summit Roundtable], [2026-05-29 Africa's Mobile Money Networks Are Becoming Tax Infrastructure], [2026-06-03 Malawi reaps digital tax gains], [2026-05-22 Why global hyperscalers are avoiding Nigeria despite Africa's biggest market], [2026-03-25 Senegal Accelerates Digital Sovereignty with Rollout of Flagship Technology Initiatives], [2026-04-12 Côte d'Ivoire convenes strategic seminar to align digital transformation agenda], [2026-04-14 Nigeria Seeks Stronger Digital Sovereignty, National Software Infrastructure], [2026-03-31 EAC moves to create unified AI Sovereignty bloc], [2026-04-03 Ghana approves $250M AI Hub & National AI Strategy], [2026-04-13 Stakeholders urge shift in digital public infrastructure trajectory], [2026-03-20 Rwanda Launches Digital Public Infrastructure Strategy to Lay Groundwork for AI and Inclusive Growth], [2026-01-01 Data Governance in Africa - Digital Investment Facility], [2026-03-05 Nigeria approves modern digital postcode system], [2026-01-01 (2) Digital Public Infrastructure and the Politics of Data in Africa]]
+sources: [[2026-07-17-egypt-deepens-world-bank-digital-partnership], [2026-07-15-watra-regional-subsea-resilience-plan], [2025-09-11 DZAP World Bank PAD], [2025-12-15 The Path to a Sovereign Tech Stack is Via a Commodified Tech Stack  TechPolicy.Press], [2026-06-23 Africa's Data Centre Boom Where The New Facilities Are Being Built], [2026-07-07 South Africa's state IT agency is slowing government tech rollout], [2026-07-07 Ghana and UNDP Strengthen Partnership on Digital Transformation Projects], [2026-07-08 China funds Namibia digital infrastructure], [2026-06-08 Kenya proposes marketplace for State data], [2026-02-25 South Africa puts data centres on par with energy, ports in big policy shift], [2026-06-10 Rwanda Launches Dedicated AI Agency to Drive Investment and Innovation], [2026-05-18 Eswatini promotes digital transformation project through World Bank engagements], [2026-06-17 Zambia's govt leans towards open-source], [2026-06-16 Who Owns Africa's Sky], [2026-06-03 How the EU's Tech Sovereignty Package Finally Puts Open Source to the Test], [2026-06-11 The Case Against the EU's Tech Sovereignty Package], [2025-01-01 South African Digital Sovereignty at the Crossroad of Securitization and Development (Chapter 4) - Digital Sovereignty in the BRICS Countries], [2026-07-10 Kenya and U.S. Discuss Draft Data Governance Policy to Strengthen Digital Economy], [2026-07-08 FG Halts Enforcement of New Regulations on Internet Platforms], [2026-01-01 Digital Public Infrastructure in Africa - UNDP], [2026-02-26 The AfDB's push for African financial sovereignty, and a tech investment rebound], [2026-05-26 AfDB says Africa must fund its own growth as aid model frays], [2026-05-21 Pushing back from Big Tech Africa's hard road to AI sovereignty], [2026-04-28 African Ministers call for harmonised policies and infrastructure investment at Connected Africa Summit Roundtable], [2026-05-29 Africa's Mobile Money Networks Are Becoming Tax Infrastructure], [2026-06-03 Malawi reaps digital tax gains], [2026-05-22 Why global hyperscalers are avoiding Nigeria despite Africa's biggest market], [2026-03-25 Senegal Accelerates Digital Sovereignty with Rollout of Flagship Technology Initiatives], [2026-04-12 Côte d'Ivoire convenes strategic seminar to align digital transformation agenda], [2026-04-14 Nigeria Seeks Stronger Digital Sovereignty, National Software Infrastructure], [2026-03-31 EAC moves to create unified AI Sovereignty bloc], [2026-04-03 Ghana approves $250M AI Hub & National AI Strategy], [2026-04-13 Stakeholders urge shift in digital public infrastructure trajectory], [2026-03-20 Rwanda Launches Digital Public Infrastructure Strategy to Lay Groundwork for AI and Inclusive Growth], [2026-01-01 Data Governance in Africa - Digital Investment Facility], [2026-03-05 Nigeria approves modern digital postcode system], [2026-01-01 (2) Digital Public Infrastructure and the Politics of Data in Africa]]
 ---
 
 # Strategies, plans and policies (`gov.policy`)
@@ -15,6 +15,19 @@ sources: [[2025-09-11 DZAP World Bank PAD], [2025-12-15 The Path to a Sovereign 
 National digital strategy, ownership and the financing conditions around it.
 
 ## Key material
+
+- **[[EGY]] Egypt × World Bank — knowledge as the offer (2026-07-17).** In Cairo talks between ICT
+  minister **Raafat Hendy** and WBG managing director **Paschal Donohoe**, **digital skills, AI and
+  innovation** were named the priority areas for expanded cooperation, with
+  **[[mcit-egypt|MCIT]]** setting out DPI strengthening, high-speed-internet expansion and telecom
+  upgrades in **[[decent-life-initiative|Decent Life]]** villages (fibre to **1,250+ villages, as of
+  2026-07**), plus more PPPs, data-centre investment, **data governance** and children's online
+  safety. Donohoe's *"knowledge is now as important as financing"* is the notable line: the
+  **[[world-bank]]** positioning itself as a supplier of **regulatory and institutional expertise**
+  to a state that no longer needs it primarily as a lender — a different dependency from the
+  IDA-grant relationships that dominate this file. **No instrument or figure was announced.** See
+  [[tech.ai]], [[capacity.training]], [[egypt--infra-connect]]. Source:
+  [[2026-07-17-egypt-deepens-world-bank-digital-partnership]].
 
 - **Mauritius's stacked 2025-2029 strategy programme (2025-05→2026).** Africa's EGDI leader is executing an
   unusually coherent, layered policy stack out of **[[ministry-ict-mauritius|MITCI]]**: the
@@ -279,6 +292,12 @@ National digital strategy, ownership and the financing conditions around it.
   Data Strategy** update, aligned to the **AU Data Policy Framework** (2025); and **[[SOM]] Somalia**'s
   **Digital Transformation Strategy 2025–2030** (ITU-supported validation, Oct 2025; EGDI 191/193, 2024).
   See [[gov.regional]], [[gov.standards]], [[STP]], [[SLE]], [[SOM]].
+- **Subsea resilience enters regional policy (2026-07-15).** **[[watra]]** (16 West African
+  regulators) called for a coordinated regional response to the
+  **[[international-advisory-body-on-submarine-cable-resilience]]**'s recommendations, arguing cable
+  protection is now an economic-policy question, not a telecoms one — the policy framing that
+  converts the Advisory Body's soft law into a regional workplan. Full treatment: [[gov.regional]].
+  See [[XWA]], [[infra.connect]]. Source: [[2026-07-15-watra-regional-subsea-resilience-plan]].
 
 ## Places
 
@@ -332,3 +351,4 @@ National digital strategy, ownership and the financing conditions around it.
 - [[2026-01-12 (3) Africa's Digital Policy Review 2025 in Perspective and Outlook for 2026]]
 - [[2025-02-27 Senegal unveils New Deal Technologique digital transformation strategy]]
 - [[2025-12-09 Senegal allocates 60% of 2026 digital ministry budget to investment]]
+- [[2026-07-17-egypt-deepens-world-bank-digital-partnership]]

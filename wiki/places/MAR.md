@@ -6,7 +6,7 @@ parent: XNA
 place_kind: country
 topics: [dpi.id, dpi.registry, dpi.govtech, dpi.exchange, dpi.pay, dpi.mis, gov.policy, gov.legislate, gov.protect, gov.standards, gov.regional, infra.store, infra.connect, infra.cybersec, infra.energy, tech.ai, tech.industry, tech.innovate, geopol.india, geopol.usa, capacity.training, include.access, include.divides, data.statistics, data.open, finance.new, finance.mou]
 status: active
-last_reviewed: 2026-07-18
+last_reviewed: 2026-07-19
 ---
 
 # Morocco (MAR)
@@ -39,6 +39,13 @@ divide (~1,800 villages offline).
 > - **Digital economy & diplomacy** — [[gitex-africa|GITEX Africa]] as investment gateway; offshoring
 >   scale-up; open-government forum + Ghana/Gabon/DCO bilaterals. Hub: [[morocco--gov-regional]].
 
+- **2026-07-17** — **6,000 internet boxes refurbished in 2025 under Orange's circular-economy
+  programme.** Per Orange's **Rapport RSE 2025 (published 2026-07-10)**, **[[orange]]** refurbished
+  **6,000 internet boxes in Morocco in 2025**, generating ~**€1.5m** in savings on the operator's own
+  figures — one national track in an Orange Middle East & Africa programme that refurbished **164,000
+  boxes region-wide in 2025 (+43% on 2024)**, reselling restored equipment at lower prices. Operator-
+  reported and unaudited in the held source. See [[include.access]], [[tech.industry]], [[XAF]].
+  Source: [[2026-07-17-orange-reconditionne-164000-box-internet]].
 - **2026-02-10** — **Idarati X.0 e-government platform (national digital wallet).** Morocco signed 8 MoUs
   in Rabat to launch **[[idarati-x0]]** — a unified entry point for public services built around a
   national digital wallet authenticated by the electronic national ID; French firms **[[idakto]]** and

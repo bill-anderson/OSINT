@@ -4,9 +4,9 @@ title: Global / Developing Countries
 code: XGL
 parent:
 place_kind: region
-topics: [gov.standards, tech.industry, geopol.usa, geopol.china, infra.store, infra.connect, infra.cybersec, dpi.govtech, dpi.id, dpi.pay, dpi.exchange, dpi.mis, gov.policy, gov.protect, gov.regional, capacity.research, geopol.eu, geopol.india, tech.ai, data.open, data.statistics]
+topics: [gov.standards, tech.industry, geopol.usa, geopol.china, infra.store, infra.connect, infra.cybersec, dpi.govtech, dpi.id, dpi.pay, dpi.exchange, dpi.mis, gov.policy, gov.protect, gov.regional, capacity.research, geopol.eu, geopol.india, tech.ai, data.open, data.statistics, infra.energy]
 status: active
-last_reviewed: 2026-07-12
+last_reviewed: 2026-07-19
 ---
 
 # Global / Developing Countries (XGL)
@@ -17,6 +17,26 @@ matters for the African data landscape. Never a country's home region.
 
 ## Recent developments
 
+- **2026-07-17** — **Mobile's climate ledger, and the renewables gap that hits Africa hardest (GSMA).**
+  The **[[gsma-mobile-net-zero-2026|Mobile Net Zero 2026]]** report (110+ operators, 85% of global
+  connections) records operational emissions of **115 Mt CO2e in 2024**, **down 5% in 2024** and **13%
+  from 2019**, while connections grew 10% and traffic more than quadrupled. Renewables are the main
+  lever — **24% of operator electricity in 2024, up from 10% in 2019** — but the shares sit in rich
+  markets (**Europe ~70%, North America ~50%, Latin America ~45%**, 2024), and GSMA names **access to
+  renewables in emerging markets** as the binding constraint. The African-relevant finding: the **100
+  largest towercos** ran **~4m sites** on **>2bn litres of diesel in 2024**, with **<a quarter** holding
+  validated targets. Policy asks: liberalise electricity markets, streamline clean-energy permitting,
+  and treat **networks as critical infrastructure in national resilience planning**. *Reference study —
+  cite, don't absorb; no Africa breakdown held.* See [[infra.energy]], [[infra.connect]]. Source:
+  [[2026-07-17-gsma-mobile-net-zero-renewable-energy]].
+- **2026-07-10** — **Submarine-cable resilience: the ITU–ICPC advisory body reports, with Nigeria in the
+  chair.** The **[[international-advisory-body-on-submarine-cable-resilience]]** approved its final report
+  at WSIS Forum 2026, closing a two-year programme co-chaired by Nigeria's **[[bosun-tijani]]**. Cables
+  carry **>99% of global data traffic** (ITU, 2026); the report names dependence on few systems as most
+  acute for **SIDS, LDCs and underserved regions**, and sets seven priorities across deployment/repair,
+  risk monitoring and geographic diversity. Global standard-setting with direct African stakes — and,
+  unusually, African chairmanship. See [[infra.connect]], [[gov.standards]], [[NGA]], [[XWA]]. Source:
+  [[2026-07-10-itu-icpc-advisory-body-cable-resilience-report]].
 - **2026-06-05** — **Microsoft Build 2026 — a vertically-owned AI platform (read for Africa).**
   Anjola Adebowale's walkthrough of Microsoft Build 2026 (Microsoft Discovery; the
   in-house **MAI** model family incl. **MAI-Thinking-1** at 35B active params; Frontier

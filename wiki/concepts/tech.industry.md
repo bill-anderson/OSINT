@@ -2,12 +2,12 @@
 type: concept
 title: ICT Industry
 slug: tech.industry
-places: [MRT, XGL, XAF, ZAF, NGA, MAR, KEN, EGY, GHA, SDN]
-entities: [[david-eaves], [camp], [the-govlab], [cassava-technologies], [mtn-group], [sita], [mosip], [amazon-web-services], [afcfta], [papss], [african-development-bank], [nafa], [sidi-ould-tah], [diode-network], [axiz], [equinix], [kasi-cloud], [orange], [amazon-leo], [spacecoin], [mtn-nigeria], [starlink], [airtel-africa], [vodacom], [axian-telecom], [econet-wireless], [ethio-telecom], [microsoft], [gsma], [research-ict-africa]]
+places: [MRT, XGL, XAF, ZAF, NGA, MAR, KEN, EGY, GHA, SDN, CIV]
+entities: [[david-eaves], [gocab], [yango], [moove], [camp], [the-govlab], [cassava-technologies], [mtn-group], [sita], [mosip], [amazon-web-services], [afcfta], [papss], [african-development-bank], [nafa], [sidi-ould-tah], [diode-network], [axiz], [equinix], [kasi-cloud], [orange], [amazon-leo], [spacecoin], [mtn-nigeria], [starlink], [airtel-africa], [vodacom], [axian-telecom], [econet-wireless], [ethio-telecom], [microsoft], [gsma], [research-ict-africa], [skydd], [nigerian-exchange], [bamboo], [cowrywise], [meristem-securities], [afrinvest]]
 lens: [sovereignty, colonialism]
 status: active
 last_reviewed: 2026-07-18
-sources: [[2025-12-15 The Path to a Sovereign Tech Stack is Via a Commodified Tech Stack  TechPolicy.Press], [2025-01-01 Eaves commodification], [2026-06-09 The Triad of Tech Sovereignty and Europe's Package Dependency, Openness, and Agency], [2026-06-23 Africa's Data Centre Boom Where The New Facilities Are Being Built], [2026-07-07 South Africa's state IT agency is slowing government tech rollout], [2026-07-03 Microsoft Launches Frontier Company with $2.5 Billion AI Transformation Investment], [2026-06-29 How AI Keeps Europe Hooked on US Cloud], [2026-06-11 The Case Against the EU's Tech Sovereignty Package], [2026-06-03 How the EU's Tech Sovereignty Package Finally Puts Open Source to the Test], [2026-06-10 MTN Group goes all-in on platforms and AI], [2026-04-09 Ralph Mupita on MTN's New Frontier Connectivity, Content, and African AI], [2026-05-01 Understanding-MOSIP-Biometric-Update-report], [2026-07-09 Nigeria Takes AfCFTA Council Chair as Digital Forum Charts Roadmap for Implementation], [2026-02-26 The AfDB's push for African financial sovereignty, and a tech investment rebound], [2026-04-28 Axiz Welcomes Equinix Investment, Citing Boost to Africa's Digital Infrastructure], [2026-07-11 AWS in Africa], [2017-04-18 Publications], [2026-01-15 Amazon Leo secures landing permit in Nigeria], [2026-01-13 Spacecoin strikes major deals to launch satellite internet], [2026-01-23 MTN Nigeria fibre network takes a hit], [2025-12-04 Is it a bird Is it plane No, Jim, it's an African mobile operator, but not as we know it 9], [2026-02-16 Waking the dead - Slow road to extinction for Africa's former telco incumbents 11], [2026-04-16 The Long View - What ICT4D did for Africa and why that deep past matters for today], [2026-02-23 111 - Winning But Losing - The Payments End Game], [2026-06-05 Microsoft Build 2026 What Caught My Attention and What It Means for Africa]]
+sources: [[2025-12-15 The Path to a Sovereign Tech Stack is Via a Commodified Tech Stack  TechPolicy.Press], [2025-01-01 Eaves commodification], [2026-06-09 The Triad of Tech Sovereignty and Europe's Package Dependency, Openness, and Agency], [2026-06-23 Africa's Data Centre Boom Where The New Facilities Are Being Built], [2026-07-07 South Africa's state IT agency is slowing government tech rollout], [2026-07-03 Microsoft Launches Frontier Company with $2.5 Billion AI Transformation Investment], [2026-06-29 How AI Keeps Europe Hooked on US Cloud], [2026-06-11 The Case Against the EU's Tech Sovereignty Package], [2026-06-03 How the EU's Tech Sovereignty Package Finally Puts Open Source to the Test], [2026-06-10 MTN Group goes all-in on platforms and AI], [2026-04-09 Ralph Mupita on MTN's New Frontier Connectivity, Content, and African AI], [2026-05-01 Understanding-MOSIP-Biometric-Update-report], [2026-07-09 Nigeria Takes AfCFTA Council Chair as Digital Forum Charts Roadmap for Implementation], [2026-02-26 The AfDB's push for African financial sovereignty, and a tech investment rebound], [2026-04-28 Axiz Welcomes Equinix Investment, Citing Boost to Africa's Digital Infrastructure], [2026-07-11 AWS in Africa], [2017-04-18 Publications], [2026-01-15 Amazon Leo secures landing permit in Nigeria], [2026-01-13 Spacecoin strikes major deals to launch satellite internet], [2026-01-23 MTN Nigeria fibre network takes a hit], [2025-12-04 Is it a bird Is it plane No, Jim, it's an African mobile operator, but not as we know it 9], [2026-02-16 Waking the dead - Slow road to extinction for Africa's former telco incumbents 11], [2026-04-16 The Long View - What ICT4D did for Africa and why that deep past matters for today], [2026-02-23 111 - Winning But Losing - The Payments End Game], [2026-06-05 Microsoft Build 2026 What Caught My Attention and What It Means for Africa], [2026-07-17-skydd-insure-fintech-leadership], [2026-07-18-nigeria-retail-investing-boom], [2026-07-18-gocab-yango-abidjan-evs]]
 # Source-linkage: the MOSIP report details the vendor ecosystem / Marketplace as the market
 # structure that makes open-source ID switchable (anti-lock-in). Prose enrichment pending.
 ---
@@ -19,6 +19,22 @@ Africa's emerging data-centre operators.
 
 ## Key material
 
+- **The infrastructure turn: consumer fintechs repositioning as rails ([[NGA]], 2026-07).** Two
+  Nigerian items a day apart show the same industry move — a company that sold to consumers deciding
+  its product is the plumbing. **[[skydd]]** announced it is **opening its protection infrastructure to
+  banks, fintechs, employers, merchants and developers** for embedded insurance, alongside its own
+  consumer platform (protection, savings, wallets, cards); company figures put it at **>20,000 active
+  customers with positive EBITDA and cash flows** (2026-07-17). *That item is a TechCabal Partner /
+  Press Room sponsored placement — a first-hand company announcement, not independent reporting.*
+  Meanwhile the retail-brokerage layer inverted: **[[bamboo]]** says it **overtook CardinalStone as the
+  [[nigerian-exchange|NGX]]'s largest broker by weighted market share in April 2026** (11.13%, 542,582
+  trades in the month), two years after adding Nigerian equities — an app-first entrant displacing an
+  incumbent brokerage at the top of a national exchange league table, with incumbents
+  (**[[meristem-securities]]**'s Meritrade, **[[afrinvest]]**'s PlutusNeo and Afrinvestor 2.0, Stanbic
+  IBTC) digitising in response and the exchange launching **NGX Invest in 2024**. The industry-structure
+  reading: distribution is moving to whoever owns the phone surface, and the firms that got there first
+  are now selling access to it wholesale. See [[nigeria--dpi-pay]], [[dpi.pay]], [[include.access]].
+  Sources: [[2026-07-17-skydd-insure-fintech-leadership]], [[2026-07-18-nigeria-retail-investing-boom]].
 - **Platform power and "data colonialism" (2026 H1).** CIGI argues Africa is positioned to lead on
   regulating US tech giants that dominate its markets (Google ~90% search, Meta ~85% social) with little
   local reinvestment; Foresight Africa and CIGI both invoke the "raw data mine"/"data colonialism"
@@ -120,9 +136,23 @@ Africa's emerging data-centre operators.
   [[2026-01-13 Spacecoin strikes major deals to launch satellite internet]],
   [[2026-01-23 MTN Nigeria fibre network takes a hit]].
 
+- **Platform economics: from ride-hailing to asset finance ([[CIV]], 2026-07-18).** The ride-hailing
+  layer of the African ICT industry is becoming a **credit-and-asset business**. **[[gocab]]** — owner of
+  **[[yango]]'s** largest Côte d'Ivoire fleet, **$45m raised Feb 2026** — put **100 electric cars** into
+  Abidjan under **drive-to-own** terms: drivers repay from platform earnings over **three years**, then
+  take title, with **300+ drivers** reaching ownership **from 2027**. The platform holds the earnings
+  data, the repayment stream and the asset at once, which makes ride-hailing a **consumer-lending channel
+  for drivers outside formal banking** — the structure behind [[moove]]'s **$2bn valuation (2026-07)**.
+  Note also the **market-entry thesis**: Yango Africa CEO Adeniyi Adebayo said (May 2026) the group would
+  put **at least $150m into African expansion in 2026** across **10 new markets**, deliberately avoiding
+  Nigeria, Egypt, South Africa and Kenya for **secondary cities** in West and Central Africa, on the view
+  that **cities, not countries, are the unit of analysis** — Bouaké (launched 2022, flat three years, now
+  a top performer) the cited proof. See [[dpi.pay]], [[infra.energy]], [[civ--tech-innovate]]. Source:
+  [[2026-07-18-gocab-yango-abidjan-evs]].
+
 ## Places
 
-[[XGL]] · [[XAF]] · [[ZAF]] · [[NGA]] · [[MAR]] · [[KEN]] · [[EGY]] · [[GHA]]
+[[XGL]] · [[XAF]] · [[ZAF]] · [[NGA]] · [[MAR]] · [[KEN]] · [[EGY]] · [[GHA]] · [[CIV]]
 
 ## Related
 
@@ -130,6 +160,9 @@ Africa's emerging data-centre operators.
 
 ## Sources
 
+- [[2026-07-17-skydd-insure-fintech-leadership]]
+- [[2026-07-18-nigeria-retail-investing-boom]]
+- [[2026-07-18-gocab-yango-abidjan-evs]]
 - [[2025-12-15 The Path to a Sovereign Tech Stack is Via a Commodified Tech Stack  TechPolicy.Press]]
 - [[2025-01-01 Eaves commodification]]
 - [[2026-06-09 The Triad of Tech Sovereignty and Europe's Package Dependency, Openness, and Agency]]

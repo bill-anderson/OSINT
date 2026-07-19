@@ -5,7 +5,7 @@ place: UGA
 topic: infra.connect
 places: [UGA]
 topics: [infra.connect, data.satellite, gov.policy, gov.legislate, gov.regional, include.access, geopol.usa, dpi.pay, finance.new]
-entities: [[uganda-communications-commission], [nita-uganda], [bayobab], [csquared], [paratus-group], [savanna-fibre-uganda], [mtn-uganda], [airtel-uganda], [starlink], [electoral-commission-uganda]]
+entities: [[uganda-communications-commission], [nita-uganda], [bayobab], [csquared], [paratus-group], [savanna-fibre-uganda], [mtn-uganda], [airtel-uganda], [starlink], [electoral-commission-uganda], [ministry-of-ict-and-national-guidance-uganda]]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-19
@@ -51,6 +51,20 @@ pipes are being laid faster than ever; who may switch them on, and at what price
   Computer Misuse Act at the same launch). See [[include.access]]. Source: [[2025-07-14-free-wifi-uganda-drc-border-nita]].
 - **Sector scale (UCC, Jul 2026).** ~**47m active SIMs**; smartphones **18m→20m**; mobile money **+9%**;
   internet costs declining (UCC's Fred Otunnu). Source: [[2026-07-02-uganda-outlines-next-ict-goals-ucc-stats]].
+- **The handset gap named as the constraint (2026-07-17).** **[[airtel-uganda]]** MD/CEO Soumendra Sahu
+  paid a courtesy visit to the **newly appointed** ICT minister, **Rt Hon. Justine Kasule Lumumba**
+  ([[ministry-of-ict-and-national-guidance-uganda]]), and **both sides put smartphone access at the centre
+  of the agenda** — devices as the precondition for online learning, digital financial services,
+  entrepreneurship and participation in the digital economy. The ministry framed the meeting as ongoing
+  government–industry engagement on digital inclusion and innovation; Airtel Uganda pointed to its network
+  expansion, **Airtel Money** rails, and rural-connectivity and digital-education partnerships with
+  government agencies. **Nothing was committed:** no device-financing scheme, subsidy, target, timeline or
+  investment figure was announced by either party. Read against the UCC's own **~47m SIMs vs 20m
+  smartphones** (Jul 2026) and the same regulator's proposal for **duty relief on entry-level 4G/5G
+  handsets** (below), the meeting confirms the diagnosis the tax study already made — the constraint is the
+  handset, and the lever is fiscal — while leaving the remedy on neither party's books. Sources:
+  [[2026-07-17-airtel-uganda-advances-digital-inclusion-talks]],
+  [[2026-07-17-airtel-uganda-ict-minister-meeting]]. See [[include.divides]], [[include.access]].
 
 ## The state's grip: tax and licensing
 
@@ -115,7 +129,7 @@ by 9am, ULS calling it illegal — are on [[UGA]]; the primary chronology is her
   office, and registration of every in-country device**. Museveni: *"Our interest remains **security,
   revenue assurance, and accountability**… who the customers are."* **[[airtel-uganda|Airtel]]** began
   testing **direct-to-cell** under Airtel Africa's Dec-2025 SpaceX deal. See [[geopol.usa]]. Sources:
-  [[2026-05-15-starlink-enters-uganda-state-house-license]], [[2026-05-19-starlink-provisional-license-airtel-d2c-test]].
+  [[2026-05-15-starlink-enters-uganda-state-house-license]], [[2026-05-19-starlink-provisional-license-airtel-d2c-test], [2026-07-17-airtel-uganda-advances-digital-inclusion-talks], [2026-07-17-airtel-uganda-ict-minister-meeting]].
 
 The two stories rhyme: whether it is a foreign LEO constellation or the domestic mobile network, the
 condition of connectivity in Uganda is **legibility and control** — a national gateway, registered devices,
@@ -125,7 +139,10 @@ don't depend on Starlink at all.
 ## Links
 
 Place: [[UGA]] · Region: [[XEA]] · Concepts: [[infra.connect]] · [[data.satellite]] · [[gov.policy]] ·
-Intersections: [[uganda--dpi-pay]] · Entities: [[uganda-communications-commission]] · [[nita-uganda]] ·
-[[bayobab]] · [[csquared]] · [[paratus-group]] · [[savanna-fibre-uganda]]
+[[include.divides]] · Intersections: [[uganda--dpi-pay]] · Entities:
+[[uganda-communications-commission]] · [[nita-uganda]] · [[ministry-of-ict-and-national-guidance-uganda]] ·
+[[bayobab]] · [[csquared]] · [[paratus-group]] · [[savanna-fibre-uganda]] · [[airtel-uganda]]
 - Mentioned, not hubbed: Roke Telekom (Paratus UGA partner); NCRCBSI; Fred Otunnu (UCC); Alex Wanyoike
-  (Savanna); Chris Baryomunsi / Godfrey Kabbyanga / Justine Kasule Lumumba (ICT ministry).
+  (Savanna); Chris Baryomunsi / Godfrey Kabbyanga (ICT ministry); Soumendra Sahu (Airtel Uganda MD/CEO).
+  **Justine Kasule Lumumba** — ICT minister, newly appointed as of Jul 2026 — is recorded on
+  [[ministry-of-ict-and-national-guidance-uganda]].
