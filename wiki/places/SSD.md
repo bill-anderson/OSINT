@@ -125,7 +125,7 @@ but ahead of the governance frameworks meant to hold it.
   layer (fragile, cash-hoarding); **NIPS** (Feb 2025, BoSS + AfricaNenda, retail
   instant payments) and the **IBPSS** (Oct 2025, interbank settlement) — possibly
   phases of one programme or two rails; NRA cashless digital passport/ID payments;
-  full-digitisation decree (Jan 2026 deadline). **Open reconcile:** NIPS vs IBPSS.
+  full-digitisation decree (Jan 2026 deadline); mobile money declared legal tender (Jul 2025), RTGS uptake, ITU DFS Security Lab. Full case: [[south-sudan--dpi-pay]]. **Open reconcile:** NIPS vs IBPSS.
 - [[dpi.id]] · [[dpi.registry]] · [[gov.protect]] — **no unified interoperable
   national digital ID** (the defining gap); personal ID (Butaka Shakhsia) now
   gating banking/land/court; ~10% Nationality-Certificate coverage; EU/UNHCR
