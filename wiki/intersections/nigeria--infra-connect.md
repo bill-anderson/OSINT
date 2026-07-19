@@ -9,7 +9,7 @@ entities: [[ncc], [mtn-nigeria], [airtel-africa], [starlink], [huawei], [nigeria
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-19
-sources: [[2025-01-20-ncc-approves-50-percent-tariff-increase], [2025-01-29-telcos-lost-11-billion-tariff-delay], [2025-05-18-fg-2bn-fibre-project-bridge-tijani], [2026-01-30-nigeria-49pct-stake-bridge-fibre-spv], [2026-04-14-afdb-200m-project-bridge-dvibe], [2025-02-28-nigeria-7000-towers-5g], [2026-06-28-telecom-subs-188m-broadband-55-67], [2025-10-08-ncc-19000-fibre-cuts-eight-months], [2025-03-10-starlink-second-largest-isp], [2025-09-15-starlink-halts-orders-congestion], [2025-12-31-starlink-biometric-66000-subscribers], [2026-01-15-ncc-amazon-kuiper-landing-permit], [2025-10-22-mtn-huawei-400g-800g-optical-network], [2025-10-10-mtn-8-million-homes-fibre-2028], [2026-02-18-mtn-ihs-towers-transaction-review], [2025-05-30-9mobile-roaming-mtn-network], [2025-04-24-ixpn-1tbps-traffic-milestone], [2026-02-12-nigeria-equatorial-guinea-subsea-fibre], [2026-07-07-ifc-150m-airtel-africa-digital-infrastructure], [2025-10-22-ncc-23pct-rural-internet-access], [2025-01-20-nigcomsat-eutelsat-leo-services], [2025-11-11-ncc-end-pre-registered-sim-regulations], [2025-01-15-us-nigeria-2m-fibre-deal], [2025-01-15-ustda-nigeria-enhance-internet-access], [2025-12-12-eu-45m-nigeria-digital-package], [2025-02-10-nigeria-sweden-connectivity-agreement], [2025-06-20-nasrda-galaxy-space-d2d-satellite], [2025-02-14-domestic-telecom-infrastructure-production], [2026-02-17-telecoms-fdi-highest-since-2019]]
+sources: [[2025-01-20-ncc-approves-50-percent-tariff-increase], [2025-01-29-telcos-lost-11-billion-tariff-delay], [2025-05-18-fg-2bn-fibre-project-bridge-tijani], [2026-01-30-nigeria-49pct-stake-bridge-fibre-spv], [2026-04-14-afdb-200m-project-bridge-dvibe], [2025-02-28-nigeria-7000-towers-5g], [2026-06-28-telecom-subs-188m-broadband-55-67], [2025-10-08-ncc-19000-fibre-cuts-eight-months], [2025-03-10-starlink-second-largest-isp], [2025-09-15-starlink-halts-orders-congestion], [2025-12-31-starlink-biometric-66000-subscribers], [2026-01-15-ncc-amazon-kuiper-landing-permit], [2025-10-22-mtn-huawei-400g-800g-optical-network], [2025-10-10-mtn-8-million-homes-fibre-2028], [2026-02-18-mtn-ihs-towers-transaction-review], [2025-05-30-9mobile-roaming-mtn-network], [2025-04-24-ixpn-1tbps-traffic-milestone], [2026-02-12-nigeria-equatorial-guinea-subsea-fibre], [2026-07-07-ifc-150m-airtel-africa-digital-infrastructure], [2025-10-22-ncc-23pct-rural-internet-access], [2025-01-20-nigcomsat-eutelsat-leo-services], [2025-11-11-ncc-end-pre-registered-sim-regulations], [2025-01-15-us-nigeria-2m-fibre-deal], [2025-01-15-ustda-nigeria-enhance-internet-access], [2025-12-12-eu-45m-nigeria-digital-package], [2025-02-10-nigeria-sweden-connectivity-agreement], [2025-06-20-nasrda-galaxy-space-d2d-satellite], [2025-02-14-domestic-telecom-infrastructure-production], [2026-02-17-telecoms-fdi-highest-since-2019], [2025-08-25-nigeria-abolishes-5pct-telecom-tax], [2025-03-20-1000-rural-base-stations]]
 ---
 
 # Nigeria × Connectivity
@@ -96,5 +96,12 @@ The fibre bet is heavily donor- and partner-financed, and the FDI is returning:
 - **FDI rebound.** Telecoms FDI hit **$392.91m in 9M-2025** — the strongest since 2019 — up from a
   2021 low of $107.46m, driven by the Jan-2025 tariff reset and naira stability. Source:
   [[2026-02-17-telecoms-fdi-highest-since-2019]].
+- **5% telecom tax removed (Aug 2025).** The [[ncc]] confirmed **full removal of the 5% excise duty**
+  on telecom services (introduced 2022, paused by Tinubu) to lower consumer costs; paired with a
+  public network-performance map, quarterly reports and an NCC–CBN task force on electronic top-ups.
+  Source: [[2025-08-25-nigeria-abolishes-5pct-telecom-tax]].
+- **1,000 rural base stations.** The **USPF** plans **1,000 new rural base stations by 2030** (with
+  ITU and UK FCDO) toward universal broadband. See [[digital.rural]]. Source:
+  [[2025-03-20-1000-rural-base-stations]].
 
 See [[NGA]], [[infra.connect]], [[ncc]].

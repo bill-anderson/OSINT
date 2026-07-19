@@ -7,6 +7,7 @@ published: 2025-03-31
 date_precision: day
 date_source: source
 retrieved: 2026-07-17
+body_completeness: excerpt
 sweep_batch: NGA-2026-07-17
 places: [NGA]
 topics: [dpi.id, dpi.registry, gov.legislate]

@@ -7110,3 +7110,23 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
 - **Created:** [[nigeria--tech-innovate]] — Itana digital free zone (AFC $100m), Katsina $10bn hub,
   JICA startup hub ($51.2m/NSIA), Doballi talent export, Huawei innovation centre ("tech sovereignty").
 - Added [[nigeria--tech-innovate]] to the NGA hub intersections line.
+
+## 2026-07-19 — ingest(NGA) chunk 10: Registries, subnational & long tail
+
+- **12 admitted, 21 pruned** (heavy aggressive dedup of thin sweep abstracts: NEDI×2, NBAN×2,
+  NiMet×2, social-media×2→1, census×2→1; NGDX/40m-fund/digital-literacy already synthesised;
+  climate-advisory, MSME MoU, consumer-lab, LASIMRA visit, financial-inclusion panel, Chams/CWG,
+  NAPPS, youth-rhetoric dropped as thin/no-substantive-home).
+- **Created:** [[nigeria--dpi-registry]] — first biometric census (NPC, ₦980bn), mandatory-
+  registration bill (NIMC Act repeal), NIMC platform migration (120m registered), land digitisation
+  (NLRDP $300bn dead capital, Kaduna KADGIS), Lagos digital addressing. +[[npc]] entity.
+- **Created:** [[nigeria--digital-localgov]] — MyLagosApp, Abia ipNX, Benue 40k civil-servant skilling.
+- **[[nigeria--infra-connect]]** +5% telecom-tax removal, USPF 1,000 rural base stations.
+- **[[nigeria--gov-protect]]** +social-media local-presence bill (Nwoko, NDPA amendment).
+- Added both new intersections to the NGA hub. **new/ drained to 0 — NGA batch complete.**
+
+### NGA batch summary (chunks 1-10)
+- Full 266-clip drain across 10 thematic chunks, aggressive dedup per curator directive.
+- New intersections: tech-ai, infra-cybersec, dpi-govtech, tech-innovate, dpi-registry, digital-localgov
+  (+ infra-connect created earlier); expanded dpi-id, dpi-pay, gov-protect, infra-store, dpi-exchange.
+- New entities: awarri-technologies, ncair, npc.

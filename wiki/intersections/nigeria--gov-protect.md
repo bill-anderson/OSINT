@@ -9,7 +9,7 @@ entities: [[cbn], [ndpc], [meta], [ndpc-meta-settlement], [nitda], [ncc], [bosun
 lens: [sovereignty, colonialism]
 status: active
 last_reviewed: 2026-07-19
-sources: [[2026-07-07 CBN's local data order puts Nigeria's data centres to test], [2026-06-09 Meta backs NDPC in landmark privacy initiative], [2026-06-17 Government data silos threaten Nigeria's AI ambitions], [2026-07-08 FG Halts Enforcement of New Regulations on Internet Platforms], [2026-07-10 CBN's Data Localisation Directive Puts Nigerian Fintechs In A Cloud Dilemma], [2026-07-10 FIJ Showed That INEC Broke Data Law. Digital Rights Lawyers Sue the Commission 10 Months Later], [2025-03-24-ndpc-probes-tiktok-truecaller], [2025-04-30-nigeria-joins-global-cbpr-privacy-forum], [2025-05-06-mastercard-ndpc-informal-sector-dpo], [2025-05-07-nigeria-virtual-privacy-academy], [2025-08-25-ndpc-probes-1369-organisations], [2026-02-06-ncc-ndpc-data-protection-mou], [2026-02-16-ndpc-probes-temu-data-protection], [2026-02-23-ndpc-probes-schools-data-privacy], [2026-04-07-ndpc-investigates-remita-sterling-breach], [2026-05-02-ndpc-4000-weekly-cyberattacks-data-localisation]]
+sources: [[2026-07-07 CBN's local data order puts Nigeria's data centres to test], [2026-06-09 Meta backs NDPC in landmark privacy initiative], [2026-06-17 Government data silos threaten Nigeria's AI ambitions], [2026-07-08 FG Halts Enforcement of New Regulations on Internet Platforms], [2026-07-10 CBN's Data Localisation Directive Puts Nigerian Fintechs In A Cloud Dilemma], [2026-07-10 FIJ Showed That INEC Broke Data Law. Digital Rights Lawyers Sue the Commission 10 Months Later], [2025-03-24-ndpc-probes-tiktok-truecaller], [2025-04-30-nigeria-joins-global-cbpr-privacy-forum], [2025-05-06-mastercard-ndpc-informal-sector-dpo], [2025-05-07-nigeria-virtual-privacy-academy], [2025-08-25-ndpc-probes-1369-organisations], [2026-02-06-ncc-ndpc-data-protection-mou], [2026-02-16-ndpc-probes-temu-data-protection], [2026-02-23-ndpc-probes-schools-data-privacy], [2026-04-07-ndpc-investigates-remita-sterling-breach], [2026-05-02-ndpc-4000-weekly-cyberattacks-data-localisation], [2025-03-19-senate-social-media-legislation]]
 ---
 
 # Nigeria × Data Protection
@@ -100,6 +100,12 @@ sanctions).
   justify the localisation push (see [[infra.cybersec]]). Sources:
   [[2025-04-30-nigeria-joins-global-cbpr-privacy-forum]], [[2026-02-06-ncc-ndpc-data-protection-mou]],
   [[2026-05-02-ndpc-4000-weekly-cyberattacks-data-localisation]].
+
+- **Social-media local-presence bill (Mar 2025).** The Senate advanced (2nd reading) a bill by
+  Senator Ned Nwoko **amending the NDPA 2023** to require major platforms (Facebook, X, TikTok,
+  WhatsApp, YouTube) to establish **physical offices in Nigeria** — leverage over global platforms
+  operating remotely in Africa's most populous market. See [[gov.legislate]]. Source:
+  [[2025-03-19-senate-social-media-legislation]].
 
 ## Reads
 
