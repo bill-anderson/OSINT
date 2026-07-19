@@ -10,6 +10,7 @@ places: [TCD]
 topics: [infra.connect, finance.mou, infra.store, dpi.pay]
 entities: [[ethio-telecom], [ministry-telecom-digital-economy-chad]]
 lens: []
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: TCD-2026-07-17
 ---

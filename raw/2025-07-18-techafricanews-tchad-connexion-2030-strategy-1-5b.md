@@ -10,6 +10,7 @@ places: [TCD]
 topics: [gov.policy, infra.connect, dpi.govtech, dpi.pay, finance.new]
 entities: [[tchad-connexion-2030], [sotel-chad], [world-bank], [ministry-telecom-digital-economy-chad]]
 lens: [sovereignty]
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: TCD-2026-07-17
 ---

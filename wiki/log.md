@@ -7484,3 +7484,26 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
   PMICE/PATN "routes virtuelles" (~500 white zones), TCHADIX IXP, ARTAC/ITU regional mapping, adversarial
   operator QoS regulation (fuel→solar, ARCEP monitoring platforms), the Lac 3-month internet shutdown. +13 sources.
 - **Entities created:** [[moov-africa-chad]], [[tchadix]]. (dpi-pay/gov-protect are forward-refs, next chunks.)
+
+## 2026-07-19 — ingest(TCD) chunk 5-6: Data centre/geopolitics & innovation
+
+- **Chunk 5 (6 admitted, 1 pruned):** Created [[chad--infra-store]] — National Data Centre + PMICE Sarh
+  and the geopolitics of building it (China construction, Azerbaijan/Azercosmos satellite, US/Cybastion
+  certification + Starlink + e-health, China solar mini-grids). Held audit dup pruned.
+- **Chunk 6 (7 admitted):** Created [[chad--tech-innovate]] — Telemedan solar telehealth, OIF D-CLIC/
+  Makers Tchad, PDMFI youth training, UNHCR Abéché centre, Chad-India AI-training talks. +[[telemedan]].
+  Ethio-telecom talks + Tchad Connexion 2030 $1.5B launch attached to the hub "courting everyone" entry.
+- Hub wired + last_reviewed → 2026-07-19. **new/ drained to 0 — TCD batch complete.**
+
+### TCD batch summary (chunks 1-6)
+- Full 41-clip drain (2-pass: Q1-2025 pilot + completion pass) across 6 thematic chunks; 2 pruned (held
+  data-centre audit; and none else — Chad was net-new). TCD went from 1 intersection to 6.
+- New intersections: chad--infra-connect, --dpi-pay, --gov-protect, --infra-store, --tech-innovate;
+  expanded chad--dpi-id. New entities: moov-africa-chad, tchadix, konoom, cashi-chad, telemedan.
+- Through-lines: "ambition ahead of delivery" (mandates — cashless budget, fibre ultimatums, ANSICE
+  omni-mandate — running ahead of ~13% penetration, diesel towers, a province blacked out for months);
+  data protection folded INTO the cyber/security agency (no standalone DPA) while identification/retention
+  mandates already bite (Starlink arrêté, ANATS-Airtel SIM interconnection); a single-door connectivity
+  system (Cameroon lifeline, stalled/vandalised backbone) hedged with an IXP and Starlink; and courting
+  every bloc (China/US/Azerbaijan/India/EU) with few signed instruments — the sovereign data centre built,
+  audited and powered by outsiders.

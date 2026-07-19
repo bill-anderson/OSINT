@@ -6,7 +6,7 @@ parent: XCA
 place_kind: country
 topics: [gov.policy, gov.legislate, gov.regional, gov.standards, dpi.id, dpi.registry, dpi.exchange, dpi.govtech, dpi.pay, dpi.mis, infra.connect, infra.store, infra.cybersec, infra.energy, include.divides, digital.rural, geopol.usa, geopol.china, geopol.eu, finance.new, finance.mou, data.statistics, tech.industry]
 status: active
-last_reviewed: 2026-07-17
+last_reviewed: 2026-07-19
 ---
 
 # Chad (TCD)
@@ -101,7 +101,9 @@ the thing to watch.
   Greece, Cameroon, the [[undp]], Kenya, **[[cemac]]** member states (free roaming), India and
   Canada. Source:
   [[2025-12-02 Chad Accelerates Digital Cooperation to Support Its Transformation Agenda]]. See
-  [[gov.regional]], [[finance.mou]], [[XCA]].
+  [[gov.regional]], [[finance.mou]], [[XCA]]. *(New vectors this batch: the Tchad Connexion 2030 $1.5B launch —
+  [[2025-07-18-techafricanews-tchad-connexion-2030-strategy-1-5b]]; and Ethio telecom infrastructure talks at
+  MWC 2026 — [[2026-03-09-techafricanews-ethio-telecom-chad-mwc-barcelona]].)*
 - **2025-09-09** — **Transport services to be digitised.** A meeting chaired by Transport Minister
   Fatima Goukouni Weddeye ([[ministry-of-transport-chad]]) prepared an integrated digital platform
   centralising vehicle registration cards, driver's licences, technical inspection certificates,
@@ -178,7 +180,8 @@ poverty through digital-enabled services within five years. Other accounts rende
   State cashless push (Budget 2026 SIGFIP e-invoicing, mobile-payment convention-cadre); home-grown fintechs Konoom (COBAC) & Cashi-IFC. Full case: [[chad--dpi-pay]].
 - [[geopol.usa]] · [[geopol.china]] · [[geopol.eu]] · [[gov.regional]] — simultaneous courtship of
   the US, Huawei, the EU, Azerbaijan and [[cemac]] / [[cadnac]] neighbours.
-- [[dpi.mis]] — digital-health / EMR interconnection (InterSystems, 19Labs).
+- [[dpi.mis]] — digital-health / EMR interconnection (InterSystems, 19Labs); Telemedan solar telehealth kiosks.
+- [[tech.innovate]] · [[capacity.training]] — Telemedan, OIF D-CLIC/Makers Tchad, UNHCR Abéché centre, youth digital+finance training; Chad-India AI-training talks. Full case: [[chad--tech-innovate]].
 
 ## Contested figures
 
