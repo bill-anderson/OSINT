@@ -5,11 +5,11 @@ place: UGA
 topic: dpi.id
 places: [UGA]
 topics: [dpi.id, dpi.registry, include.access, include.divides, gov.legislate, gov.protect, dpi.pay, dpi.govtech, digital.rural, infra.cybersec, geopol.gulf, tech.industry]
-entities: [[nira-uganda], [ndaga-muntu], [registration-of-persons-act-2015], [claire-ollama], [rosemary-kisembo], [tahaluf], [tech5], [mosip], [iritech], [veridos], [iser-uganda], [michael-aboneka], [cipesa], [access-now], [article-19], [bank-of-uganda], [ura-uganda], [sage-uganda], [efris], [mvrs-uganda], [ursb], [nick-opiyo], [acme-uganda], [asamo-hellen-grace]]
+entities: [[nira-uganda], [ndaga-muntu], [registration-of-persons-act-2015], [claire-ollama], [rosemary-kisembo], [tahaluf], [tech5], [mosip], [iritech], [veridos], [iser-uganda], [michael-aboneka], [cipesa], [access-now], [article-19], [bank-of-uganda], [ura-uganda], [sage-uganda], [efris], [mvrs-uganda], [ursb], [nick-opiyo], [acme-uganda], [asamo-hellen-grace], [electoral-commission-uganda], [unwanted-witness], [personal-data-protection-office-uganda]]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-17
-sources: [[2026-02-11 Uganda migrates more than 28M records to new national ID system], [2025-09-13 Uganda's Digital ID Barrier Worsens as Court Delivers Blow to Access], [2024-10-14 Uganda financial institutions sign on for digital KYC through national ID], [2026-03-02 IriTech provides iris biometrics for Uganda's upgraded registration kits], [2025-05-28 Huge turnout as Nira starts mass registration], [2024-08-19 Uganda Prepares Large-scale Biometric Registration for National ID], [2024-06-05 Ugandan human rights lawyer's arrest exposes use of national ID for surveillance], [2020-01-01 Maintaining civil registration amid COVID-19 - Uganda's mobile notification system (IDRC)], [2025-11-11 URA Launches Tax Filing Season, Announces Shift from TIN to NIN], [2025-12-02 Minister Asamo Calls for Stronger Financial Inclusion for Persons with Disabilities], [2026-05-28 Why decentralized digital identity looks different in every country]]
+last_reviewed: 2026-07-19
+sources: [[2026-02-11 Uganda migrates more than 28M records to new national ID system], [2025-09-13 Uganda's Digital ID Barrier Worsens as Court Delivers Blow to Access], [2024-10-14 Uganda financial institutions sign on for digital KYC through national ID], [2026-03-02 IriTech provides iris biometrics for Uganda's upgraded registration kits], [2025-05-28 Huge turnout as Nira starts mass registration], [2024-08-19 Uganda Prepares Large-scale Biometric Registration for National ID], [2024-06-05 Ugandan human rights lawyer's arrest exposes use of national ID for surveillance], [2020-01-01 Maintaining civil registration amid COVID-19 - Uganda's mobile notification system (IDRC)], [2025-11-11 URA Launches Tax Filing Season, Announces Shift from TIN to NIN], [2025-12-02 Minister Asamo Calls for Stronger Financial Inclusion for Persons with Disabilities], [2026-05-28 Why decentralized digital identity looks different in every country], [2025-04-02-nira-acquires-high-capacity-id-machines], [2025-04-14-uganda-launching-5-mosip-modules], [2025-05-08-uganda-targets-33m-mass-id-registration], [2025-06-16-museveni-wants-biometric-verification-2026-vote], [2025-06-23-nira-data-protection-mass-id-3-5m], [2025-07-16-5m-ugandans-renew-national-ids], [2025-09-22-nira-tighten-id-security-after-breach], [2025-10-27-enhanced-national-ids-dispatched-districts], [2025-11-12-ura-shift-from-tin-to-nin], [2025-12-29-over-13-3m-national-ids-renewed-extension], [2026-02-09-35-million-registered-national-id-milestone], [2026-02-19-uganda-mosip-brownfield-migration-example]]
 ---
 
 # Uganda × Digital Identity
@@ -74,6 +74,46 @@ against 2.5 million collected (Feb 2026)** means a NIN in the database is not a 
 Muhoozi** cited measures against **system integration failures and QR-code scanning failures on some
 new cards**, with the authentication module fully operational **by end of March [2026]**. Source:
 [[2026-02-11 Uganda migrates more than 28M records to new national ID system]]. See [[geopol.gulf]].
+
+## Mass enrolment & renewal (2025–26): the progression, the breach, the diaspora
+
+The 2025/26 exercise now has a full documented arc, corroborating the Feb-2026 figures above from the
+primary chronology:
+
+- **Kit and card build-up (Apr 2025).** [[tahaluf]] supplied all **5,665 biometric kits** by January
+  2025; two high-speed machines (~**100,000 laser-engraved cards/day**); the Uganda Security Printing
+  Company delivered ID stock (1.5m of an expected 8.1m by Apr 2025) with UV/UV-Bi-fluor anti-forgery
+  features. The **2014–15 cards expire end-2025** — the renewal driver. Sources:
+  [[2025-04-02-nira-acquires-high-capacity-id-machines]], [[2025-05-08-uganda-targets-33m-mass-id-registration]].
+- **MOSIP five modules + UPI ambition (Apr 2025).** NIRA launched **five MOSIP modules** (registration,
+  renewal, correction, issuance, lost-ID replacement), planned to integrate birth/death registries, and
+  flagged a **Unified Payments Interface (UPI)** giving "a free wallet for every citizen" (Kisembo). See
+  [[dpi.pay]]. Source: [[2025-04-14-uganda-launching-5-mosip-modules]].
+- **The renewal curve.** From the **27 May 2025** parish rollout: **2.5m → 3.5m (Jun) → 5.3m (Jul) → 10m+
+  (Sep) → 13.37m renewed + 6.15m first-time (Dec)** → the **8 Feb 2026 milestone close** at **35m
+  registered** (28,571,893 legacy records migrated; 14.31m renewals = 90.5%; 6.42m first-time = 37.3%;
+  **10,152,559 cards printed, 7.26m shipped, only 2.58m collected**). Enhanced cards (laser-engraved,
+  QR/barcode, ghost image, digital signature) dispatched to all districts from Oct 2025; **diaspora issuance
+  opened in the UAE** (Dubai, Feb 2026). Sources: [[2025-06-23-nira-data-protection-mass-id-3-5m]],
+  [[2025-07-16-5m-ugandans-renew-national-ids]], [[2025-10-27-enhanced-national-ids-dispatched-districts]],
+  [[2025-12-29-over-13-3m-national-ids-renewed-extension]], [[2026-02-09-35-million-registered-national-id-milestone]].
+- **The brownfield mechanics (Feb 2026).** NIRA completed **MOSIP's first brownfield migration** — legacy
+  ABIS by Neurotechnology, ~**200,000 duplicates** found over 7 months, accelerating from **8,000 to a goal
+  of 300,000 records/day** under electoral time pressure; **two card types** (citizen + foreigner) built to
+  Ugandan law atop MOSIP. Source: [[2026-02-19-uganda-mosip-brownfield-migration-example]].
+- **The database breach (Sep 2025).** A **BBC investigation** alleged NIRA staff sold National
+  Identification Register data to a **criminal ring** (local reports linking it to a Dubai sex-trafficking
+  network). NIRA opened an investigation with the **[[personal-data-protection-office-uganda|PDPO]]** and
+  police; **[[unwanted-witness]]** demanded a fully independent inquiry. This is the concrete instance of
+  the surveillance/access-risk the page flags below. See [[gov.protect]], [[infra.cybersec]]. Source:
+  [[2025-09-22-nira-tighten-id-security-after-breach]].
+- **Biometric voter verification (Jun 2025).** Museveni insisted **no voting without biometric
+  verification**; the **[[electoral-commission-uganda|EC]]** re-tendered for **~10,000 devices** after being
+  refused UBOS's (glitch-prone, census-2024) kits — the procurement whose deployment **failed by 9am on
+  polling day** (see [[UGA]] hub). Source: [[2025-06-16-museveni-wants-biometric-verification-2026-vote]].
+- **TIN→NIN, corroborated.** A second account confirms the **NIN-as-TIN** merger under the Tax Procedures
+  Amendment Bill (URSB numbers as business TINs), plus a **3-year income-tax exemption** for post-1-Jul-2025
+  firms with ≤UGX 500m capital. Source: [[2025-11-12-ura-shift-from-tin-to-nin]].
 
 ## The court: *ISER v Attorney General & NIRA* (dismissed 10 June 2025)
 

@@ -37,6 +37,9 @@ days, two days before a presidential election — reminding every layer above it
 - **[[uganda--infra-store]]** — the [[aeonian-project]] / USIO supercomputer at
   [[karuma-hydropower-plant]]; [[abq-cloud]]; [[centenary-group-data-centre]]; Liquid's Azure Stack;
   [[nxtra-africa]].
+- **[[uganda--dpi-registry]]** — civil registration consolidating under NIRA (marriage transfer, birth
+  drive, first alien/foreigner registration with AINs); [[ursb]]'s Non-Individual Register (ERN) as the
+  business-entity single source of truth.
 
 ## Recent developments
 
