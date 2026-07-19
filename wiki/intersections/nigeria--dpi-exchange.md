@@ -2,9 +2,10 @@
 type: intersection
 title: Nigeria — Data Exchange & Interoperability
 place: NGA
-topics: [dpi.exchange, dpi.govtech, gov.standards]
+places: [NGA]
+topics: [dpi.exchange, dpi.govtech, gov.standards, gov.legislate, gov.policy, gov.regional]
 status: active
-last_reviewed: 2026-07-16
+last_reviewed: 2026-07-19
 ---
 
 # Nigeria — Data Exchange & Interoperability
@@ -34,6 +35,39 @@ central exchange backbone plus enterprise architecture, led by **[[nitda]]**.
   e-Tax automation improving but inconsistent across states. Source:
   [[2025-07-01 Digital Public Infrastructure (DPI) and Tax Administration in Nigeria The Current State of Play - ICTD]].
 
+## DPI governance architecture (2025-2026)
+
+Around the NGDX rails sits a fast-built governance stack — a framework, technical standards, a
+presidential coordinating body, and enabling legislation — plus a cross-border extension.
+
+- **DPI framework & the 75%/2027 target (Mar 2025).** [[bosun-tijani]] unveiled a **DPI framework**
+  for interoperable, life-long, silo-free public services, targeting **75% of public services
+  digitised by 2027** on an "integrated government" model leveraging private-sector capability.
+  Source: [[2025-03-07-dpi-framework-unified-services-2027]].
+- **Draft technical standards & Ng-DPIC (Apr 2025).** [[nitda]] issued **draft DPI technical
+  standards** (public consultation to 8 May) to integrate identity, payments and data exchange,
+  standing up a national implementation office — the **Nigerian DPI Centre (Ng-DPIC)** — and
+  working with NIMC on PKI; potential sovereign-infra investors floated (Google, SGgrow, JICA).
+  Source: [[2025-04-15-nitda-draft-dpi-technical-standards]].
+- **Presidential Committee on DPI (May 2025).** A **Tinubu-chaired** Presidential Committee on DPI
+  Implementation was inaugurated to coordinate the **three pillars** (identity, payments, data
+  exchange) across Finance, Interior, Budget, NIMC and NITDA — legally-compliant, unified-database
+  delivery. Source: [[2025-05-28-presidential-committee-dpi-implementation]].
+- **NGEA handover from KOICA (Mar 2026).** [[nitda]] formally took over the **Nigeria Government
+  Enterprise Architecture ([[ngea]])** built with Korea's **KOICA** — the structural backbone of the
+  e-Government strategy. Source: [[2026-03-27-nitda-takes-over-ngea-koica]].
+- **Digital Economy & E-Governance Bill (Nov 2025).** The National Assembly held a public hearing on
+  the **National Digital Economy & E-Governance Bill 2024** — a unified legal framework that elevates
+  [[nitda]] to a **"super regulator"** with broad supervisory/enforcement/coordination powers;
+  stakeholders flag regulatory-overlap concerns. See [[gov.legislate]]. (This bill also carries
+  Nigeria's risk-based AI regime — see [[nigeria--tech-ai]].) Source:
+  [[2025-11-10-digital-economy-egovernance-bill-nitda]].
+- **AfCFTA ADAPT — cross-border DPI (2025-2026).** The **[[afcfta]]** Secretariat picked **Nigeria,
+  Kenya and Morocco** as the first **ADAPT** (Africa Digital Access & Public Infrastructure for
+  Trade) pilots — shared cross-border rails for identity, payments and trusted data exchange
+  (launched Nov 2025; IOTA Foundation a partner). See [[gov.regional]]. Source:
+  [[2026-05-26-afcfta-adapt-nigeria-kenya-morocco-dpi]].
+
 ## Reads
 
 - `sovereignty`: an exchange layer is where foundational ID becomes usable statecraft — but
@@ -53,3 +87,9 @@ Intersections: [[nigeria--dpi-id]] · [[nigeria--gov-protect]] · Entities: [[ni
 - [[2025-08-28 Nigeria to launch National Data Exchange (NGDX) platform to boost digital economy]]
 - [[2025-07-01 Digital Public Infrastructure (DPI) and Tax Administration in Nigeria The Current State of Play - ICTD]]
 - [[2025-10-04 How NIMC is building Nigeria's digital infrastructure]]
+- [[2025-03-07-dpi-framework-unified-services-2027]]
+- [[2025-04-15-nitda-draft-dpi-technical-standards]]
+- [[2025-05-28-presidential-committee-dpi-implementation]]
+- [[2026-03-27-nitda-takes-over-ngea-koica]]
+- [[2025-11-10-digital-economy-egovernance-bill-nitda]]
+- [[2026-05-26-afcfta-adapt-nigeria-kenya-morocco-dpi]]

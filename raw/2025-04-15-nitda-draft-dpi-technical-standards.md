@@ -11,6 +11,7 @@ topics: [dpi.exchange, gov.standards, dpi.id, dpi.pay]
 entities: [[nitda], [nimc]]
 lens: [sovereignty]
 retrieved: 2026-07-17
+body_completeness: excerpt
 sweep_batch: NGA-2026-07-17
 ---
 

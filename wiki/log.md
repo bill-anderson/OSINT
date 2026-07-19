@@ -7087,3 +7087,15 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
   $850m cloud), NPF-NCCC INTERPOL #1, the dual-use Cybercrimes Act, NCC Cyber Resilience Framework
   (4-hour reporting), National Cybersecurity Centre BUK, NAICOM cyber-insurance, Finland MoU. +7 sources.
 - Added [[nigeria--infra-cybersec]] to the NGA hub intersections line.
+
+## 2026-07-19 — ingest(NGA) chunk 8: E-gov / DPI governance & legislation
+
+- **12 admitted, 1 pruned** (suspend-platform-rules dups the FG-Halts-Enforcement event on
+  [[nigeria--gov-protect]]).
+- **[[nigeria--dpi-exchange]] expanded** +"DPI governance architecture" — DPI framework (75%/2027),
+  draft technical standards + Ng-DPIC, Tinubu-chaired Presidential Committee on DPI, NGEA/KOICA
+  handover, Digital Economy & E-Governance Bill (NITDA super-regulator), AfCFTA ADAPT cross-border pilot.
+- **Created:** [[nigeria--dpi-govtech]] — federal e-gov systems (TMRAS treasury, CBN DocFlow + MDA
+  payments, NEAR asset register, National Single Window) + cBrain F2/Publica AI platform + NITDA
+  Digital Trustmark. +6 sources.
+- Added [[nigeria--dpi-govtech]] to the NGA hub intersections line.

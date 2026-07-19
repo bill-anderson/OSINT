@@ -11,6 +11,7 @@ topics: [dpi.govtech, gov.policy]
 entities: [[cbrain], [publica-ai]]
 lens: [sovereignty]
 retrieved: 2026-07-17
+body_completeness: excerpt
 sweep_batch: NGA-2026-07-17
 ---
 

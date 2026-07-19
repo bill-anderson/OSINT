@@ -242,7 +242,7 @@ _Full dated chronology (2025–mid-2026) lives in the linked source pages and th
 - [[starlink]] · [[amazon-web-services]] · [[globalstar]] · [[amazon-globalstar-acquisition]] — satellite connectivity race
 - [[america-first-global-health-strategy]] · [[africa-cdc]] · [[usaid]] · [[uneca]] · [[african-union]] · [[gsma]] · [[world-bank]]
 - [[abia-state-government]] · [[nigeria-digital-postcode-system]] · [[nigeria-finland-digital-mou]] · [[eu-nigeria-global-gateway-290m]] · [[global-gateway]] · [[european-union]] · [[trust-stamp]] · [[national-digital-farmers-registry-nigeria]] · [[nigeria-data-protection-act-2023]] · [[research-ict-africa]]
-- Intersections: [[nigeria--dpi-id]] · [[nigeria--dpi-pay]] · [[nigeria--dpi-exchange]] · [[nigeria--gov-protect]] · [[nigeria--infra-store]] · [[nigeria--infra-connect]] · [[nigeria--tech-ai]] · [[nigeria--infra-cybersec]]
+- Intersections: [[nigeria--dpi-id]] · [[nigeria--dpi-pay]] · [[nigeria--dpi-exchange]] · [[nigeria--gov-protect]] · [[nigeria--infra-store]] · [[nigeria--infra-connect]] · [[nigeria--tech-ai]] · [[nigeria--infra-cybersec]] · [[nigeria--dpi-govtech]]
 - Mentioned, not hubbed: Rack Centre, Dell Technologies; DC operators OADC/WIOCC, Digital
   Realty, Equinix, Nxtra by Airtel; Teraco, Vertiv, Schneider Electric, Backbone Connectivity,
   Mainstream Energy; NIBSS; NOA; Publica AI, NCAIR; Awarri, N-Atlas; FATE Foundation, AIMS, UCL;
