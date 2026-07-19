@@ -6,6 +6,7 @@ publisher: Le Soleil
 published: 2025-03-19
 date_precision: day
 date_source: source
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: SEN-2026-07-17
 places: [SEN]

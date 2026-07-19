@@ -7235,3 +7235,14 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
   bank-to-wallet), BCEAO licensing crackdown (2 SN agréments Paydunya/Mikati; Flutterwave licence), G2P
   agri-subsidy digitisation (IFC), Catalyst DER/FJ $50m startup fund + DER-Wave, Max it into Dakar BRT.
   +7 sources, +tech.innovate/finance.new/gov.regional/gov.standards tags.
+
+## 2026-07-19 — ingest(SEN) chunk 5: AI, cyber & skills
+
+- **10 admitted, 0 pruned.**
+- **Created:** [[senegal--tech-ai]] — AI strategy (US/China-domination framing), AI-as-public-good
+  governance (Forum I&D/Jonction), AI4D labs (ALIVE/DiCentre4AI, UCAD/UN-CHK), Data/AI Blueprint (Smart
+  Africa/GIZ), Global AI Dialogue diplomacy, blind AI-skills inclusion. +6 sources.
+- **Created:** [[senegal--infra-cybersec]] — the state-breach wave (DGID Oct-2025, DAF Feb-2026,
+  Treasury May-2026), why-exposed analysis, free-internet cyber risk + national-cyber-agency calls,
+  armed-forces AI/cyberdefence doctrine, Finland cooperation (Global Gateway). +4 sources.
+- Added both to hub Intersections list.
