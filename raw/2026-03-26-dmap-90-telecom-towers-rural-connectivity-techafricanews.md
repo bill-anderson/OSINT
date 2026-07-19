@@ -12,6 +12,7 @@ entities: [[macra-malawi], [dmap], [world-bank]]
 lens: []
 retrieved: 2026-07-17
 sweep_batch: MWI-2026-07-17
+body_completeness: excerpt
 ---
 
 # Malawi Moves to Expand Rural Connectivity with 90 New Telecom Towers

@@ -12,6 +12,7 @@ entities: [[malawi-ministry-of-ict], [huawei]]
 lens: []
 retrieved: 2026-07-17
 sweep_batch: MWI-2026-07-17
+body_completeness: excerpt
 ---
 
 # Chiyamwaka hails 5G rollout as key driver of Malawi 2063 vision

@@ -2,7 +2,7 @@
 type: concept
 title: Connectivity
 slug: infra.connect
-places: [COM, BWA, BFA, BDI, AGO, CAF, CIV, CMR, COD, DJI, DZA, EGY, ETH, GHA, GIN, GNQ, KEN, LBR, MOZ, MRT, NAM, NGA, RWA, SDN, SEN, SOM, SSD, TGO, TUN, TZA, UGA, XEA, XSA, XWA, ZAF, ZMB, ZWE, CPV, ERI, STP, SLE, TCD, SWZ, MUS]
+places: [COM, BWA, BFA, BDI, AGO, CAF, CIV, CMR, COD, DJI, DZA, EGY, ETH, GHA, GIN, GNQ, KEN, LBR, MOZ, MRT, NAM, NGA, RWA, SDN, SEN, SOM, SSD, TGO, TUN, TZA, UGA, XEA, XSA, XWA, ZAF, ZMB, ZWE, CPV, ERI, STP, SLE, TCD, SWZ, MUS, MWI]
 entities: [[partner2connect], [itu], [microsoft], [smart-africa], [afnic], [seacom], [google], [meta], [amazon-web-services], [telegeography], [cable-wars-abels-babic-2026], [equiano-mainone-nwankwo-2025], [equiano-cable], [equinix], [umoja-cable], [liquid-c2], [cassava-technologies], [2africa-cable], [carnegie-endowment], [jane-munga], [international-cable-protection-committee], [bosun-tijani], [jess-auerbach], [jagun-sat3-open-access-2008], [internet-society-africa-history], [nsrc], [liquid-c2-google-cloud-mou], [powertel-paratus-fibre-corridor], [telecom-namibia], [starlink], [ifc], [airtel-africa], [mtn-group], [vodacom], [gsma], [via-africa-cable], [orange], [globalstar], [amazon-globalstar-acquisition], [cran], [nigcomsat], [watra], [ict-authority-kenya], [ncc], [amazon-leo], [spacecoin], [starlink-airtel-d2c-partnership], [starlink-vodacom-leo-partnership], [mtn-nigeria], [communications-authority-of-kenya], [dzap], [bayobab-zambia], [helios-towers], [new-deal-technologique], [paula-ingabire], [nucap], [nigeria-eqguinea-subsea-cable], [backbone-connectivity-network-nigeria], [ebrd], [ebrd-yas-network-loan], [yas], [axian-telecom], [tunisie-telecom], [medusa-submarine-cable], [orange-cote-divoire], [orange-sat], [eutelsat], [uganda-communications-commission], [mtn-ghana], [ralph-mupita], [finnfund], [crei-south-sudan], [ethio-telecom], [telebirr], [somcable], [sotel-tchad], [arcep-chad], [trans-saharan-fibre-backbone], [tchad-connexion-2030], [boukar-michel], [huawei], [datareportal], [world-bank], [togo-digital-acceleration-financing], [cina-lawson], [unitel], [angola-cables], [angola-telecom], [sarssy], [conecta-angola]]
 lens: [sovereignty, colonialism]
 status: active
@@ -16,6 +16,16 @@ Broadband and network access as the base layer of the digital economy.
 
 ## Key material — continental & thematic
 
+- **[[MWI]] Malawi — wholesale gains, distribution gap (2025–2026).** The World Bank **Digital Foundations
+  Project** collapsed wholesale bandwidth from **~$460/Mbit/s to below $10** and brought **~7m** new users
+  online (users/100 rose 17.6→38.3), but the last mile lags: Malawi needs **1,000+ towers** (DMAP procuring
+  ~90–100; USF under-resourced), **85% of 9,000 schools** have limited/no internet, and a consumer **petition**
+  is pressing MACRA on retail prices and data-billing transparency. **[[tnm-malawi|TNM]]** (5G first, Jul 2025)
+  and **[[airtel-malawi|Airtel]]** (5G Nov 2025; 111 sites/10 districts) are rolling out 5G and eyeing
+  satellite. Full picture: **[[malawi--infra-connect]]**. Sources:
+  [[2026-03-26-dmap-90-telecom-towers-rural-connectivity-techafricanews]],
+  [[2026-04-17-school-connectivity-unicef-giga-report-malawi24]],
+  [[2026-07-17-macra-internet-price-petition-malawi24]].
 - **Mauritius as an Africa–Asia cable gateway (2025-2026).** **[[mauritius-telecom|MT]]**'s "Bridging Africa &
   Asia" strategy positions the island as a low-latency corridor between the two continents: existing **SAFE,
   LION/LION2 and METISS** landings, the new **T4** cable set to replace SAFE (retiring ~2027), planned **SEACOM
@@ -283,7 +293,7 @@ This topic is mostly continental (cables, satellite, financing, regulation — a
 
 ## Places
 
-[[CAF]] · [[CIV]] · [[CMR]] · [[COD]] · [[DJI]] · [[DZA]] · [[EGY]] · [[ETH]] · [[GHA]] · [[GNQ]] · [[KEN]] · [[LBR]] · [[MOZ]] · [[MRT]] · [[MUS]] · [[NAM]] · [[NGA]] · [[RWA]] · [[SDN]] · [[SEN]] · [[SOM]] · [[SSD]] · [[STP]] · [[SLE]] · [[TGO]] · [[TUN]] · [[TZA]] · [[UGA]] · [[XEA]] · [[XSA]] · [[XWA]] · [[ZAF]] · [[ZMB]] · [[ZWE]] · [[TCD]] · [[SWZ]] · [[GNB]]
+[[CAF]] · [[CIV]] · [[CMR]] · [[COD]] · [[DJI]] · [[DZA]] · [[EGY]] · [[ETH]] · [[GHA]] · [[GNQ]] · [[KEN]] · [[LBR]] · [[MOZ]] · [[MRT]] · [[MUS]] · [[MWI]] · [[NAM]] · [[NGA]] · [[RWA]] · [[SDN]] · [[SEN]] · [[SOM]] · [[SSD]] · [[STP]] · [[SLE]] · [[TGO]] · [[TUN]] · [[TZA]] · [[UGA]] · [[XEA]] · [[XSA]] · [[XWA]] · [[ZAF]] · [[ZMB]] · [[ZWE]] · [[TCD]] · [[SWZ]] · [[GNB]]
 
 ## Sources
 

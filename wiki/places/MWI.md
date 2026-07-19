@@ -4,7 +4,7 @@ title: Malawi
 code: MWI
 parent: XSA
 place_kind: country
-topics: [dpi.govtech, dpi.exchange, dpi.id, infra.store, gov.protect, finance.new, dpi.mis, data.statistics, gov.policy, capacity.training, gov.standards, capacity.research, tech.ai, include.access, digital.localgov, dpi.pay, infra.cybersec, gov.legislate, geopol.china]
+topics: [dpi.govtech, dpi.exchange, dpi.id, infra.store, gov.protect, finance.new, dpi.mis, data.statistics, gov.policy, capacity.training, gov.standards, capacity.research, tech.ai, include.access, digital.localgov, dpi.pay, infra.cybersec, gov.legislate, geopol.china, infra.connect, include.divides]
 status: active
 last_reviewed: 2026-07-19
 ---
@@ -13,6 +13,22 @@ last_reviewed: 2026-07-19
 
 ## Recent developments
 
+- **2026-07-17** — **Connectivity: retail-price backlash meets a distribution gap.** An online **petition**
+  (885+ signatures in a day; organiser Stanley Mombera) urged **[[macra-malawi|MACRA]]** to review internet
+  prices and investigate data-billing/bundle depletion. It lands atop a stark distribution gap: **85% of 9,000
+  schools** have limited/no internet (UNICEF/Giga; no dedicated budget line), and Malawi needs **1,000+ towers**
+  (DMAP procuring ~90–100; USF under-resourced). Full picture: **[[malawi--infra-connect]]**. Sources:
+  [[2026-07-17-macra-internet-price-petition-malawi24]],
+  [[2026-04-17-school-connectivity-unicef-giga-report-malawi24]],
+  [[2026-03-26-dmap-90-telecom-towers-rural-connectivity-techafricanews]]. See [[infra.connect]],
+  [[include.divides]], [[include.access]].
+- **2026-05-22** — **Operators, 5G and satellite.** **[[tnm-malawi|TNM]]** launched Malawi's first **5G** (Jul
+  2025, with [[huawei]]); **[[airtel-malawi|Airtel Malawi]]** followed (Nov 2025) and had **111 5G sites/10
+  districts** by its 27th AGM (MK50.8bn FY2025 capex, 58 new sites), signalling interest in **satellite**
+  connectivity. Backdrop: the WB **Digital Foundations Project** cut wholesale bandwidth **$460→<$10/Mbit/s** and
+  MACRA cut spectrum fees 20%. Sources: [[2026-05-22-airtel-satellite-connectivity-agm-techafricanews]],
+  [[2025-07-26-tnm-5g-launch-malawi-2063-malawi24]],
+  [[2025-06-26-macra-spectrum-fees-cut-20pc-techafricanews]]. See [[malawi--infra-connect]], [[infra.connect]].
 - **2026-07-16** — **Operationalising data protection: registration regime + regulator independence.**
   **[[macra-malawi|MACRA]]**, the designated **Data Protection Authority**, consulted on **Draft Data Protection
   Regulations + turnover-based registration fees** (K50,000/~$29 → K7m/>$4,000) making registration mandatory
@@ -185,6 +201,9 @@ last_reviewed: 2026-07-19
   review; immigration / passport / civil-registration services online; Digital Identity Wallet
   pilot. Full case: [[malawi--dpi-id]].
 - [[infra.store]] · [[gov.protect]] — locally hosted servers; data sovereignty; Lilongwe Government Data Centre.
+- [[infra.connect]] · [[include.divides]] — **[[tnm-malawi|TNM]]** / **[[airtel-malawi|Airtel]]** 5G + satellite
+  interest; Digital Foundations wholesale-price collapse; DMAP tower rollout (1,000+ needed); 85% of schools
+  offline; retail-price petition — **[[malawi--infra-connect]]**.
 - [[dpi.id]] · [[dpi.registry]] — **[[macra-malawi|MACRA]]** biometric SIM registration + National Addressing System; mass birth-registration campaign; **[[malawi-electoral-commission|MEC]]** voter-register access tension.
 - [[dpi.pay]] · [[include.access]] · [[gov.regional]] — **[[reserve-bank-of-malawi|RBM]]** mobile-money economy (>20m subscribers); **[[comesa]]** Malawi–Zambia cross-border rail; FinScope/SIIPS.
 - [[finance.new]] — World Bank financing via [[dmap]]; Fiscal Governance PforR (e-GP procurement).
@@ -197,9 +216,9 @@ last_reviewed: 2026-07-19
 
 - [[dmap]] · [[world-bank]] · [[malawi-revenue-authority]] · [[blantyre-city-council]] · [[ppda-malawi]]
 - [[malawi-ministry-of-ict]] · [[undp]] · [[malawi-data-protection-act-2024]]
-- Intersections: [[malawi--dpi-id]] · [[malawi--dpi-govtech]]
+- Intersections: [[malawi--dpi-id]] · [[malawi--dpi-govtech]] · [[malawi--infra-connect]]
 - [[national-registration-bureau-malawi]] (PS Patrick Machika) · [[idt4m]] · [[macra-malawi]]
-- [[reserve-bank-of-malawi]] · [[malawi-electoral-commission]] · [[comesa]] · [[ictam]]
+- [[reserve-bank-of-malawi]] · [[malawi-electoral-commission]] · [[comesa]] · [[ictam]] · [[tnm-malawi]] · [[airtel-malawi]]
 - [[hmis-malawi-livingstonia]] · [[dhis2]] · [[his-developing-countries-review]]
 - Mentioned, not hubbed: Department of E-Government (Prosper Mopiwa); Department of
   Immigration and Citizenship Services (Denis Chipao); Bomalathu platform; Synod of

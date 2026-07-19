@@ -6722,3 +6722,22 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
 - Sources: 2026-06-11 data-sharing regulation (itweb), 2026-06-09 Huawei $180m (malawi24), 2026-04-01 MANePS
   (malawi24), 2026-01-27 policy enforcement (times), 2026-01-13 implementation woes (times), 2026-05-20 local
   authorities ICT policy (malawi24).
+
+## 2026-07-19 — ingest(MWI) chunk 4/7: Connectivity, spectrum, satellite + consumer
+
+- **6 sources admitted, 0 leads, 1 discard (relevant-duplicate pruned).**
+- **Dedup:** `2025-06-25-world-bank-digital-foundations-project-results-wearetech` pruned — a secondary write-up
+  of the already-held World Bank primary [[2025-06-23 Digitalizing Malawi to improve access to education, public services, and income opportunities]] (identical payload: 8.5m benefited, $460→<$10/Mbit/s, 640 gov sites, MAREN 83k, DMAP $72.4m). Lint #7 (a) primary over secondary. Not cited.
+- **Intersection created:** [[malawi--infra-connect]] — Digital Foundations wholesale gains vs distribution gap
+  (1,000+ towers needed, 85% schools offline), TNM/Airtel 5G + satellite, MACRA spectrum cut + retail-price
+  petition.
+- **Entities created (2):** [[tnm-malawi]], [[airtel-malawi]] (companies — the two MNOs).
+- **MWI hub:** +2 Recent-developments entries (connectivity petition/gap 2026-07-17; operators/5G 2026-05-22);
+  new infra.connect Active-topics line; +infra.connect, include.divides topics; +operators + intersection to
+  Entities.
+- **Concepts:** [[infra.connect]] +MWI bullet (+places/footer); [[include.divides]] +MWI school-connectivity
+  bullet (+places/footer).
+- **entities-index:** +tnm-malawi, +airtel-malawi.
+- Sources: 2026-05-22 Airtel AGM/satellite (techafricanews), 2026-04-17 schools no-internet (malawi24),
+  2026-03-26 DMAP 90 towers (techafricanews), 2025-07-26 TNM 5G (malawi24), 2025-06-26 spectrum cut
+  (techafricanews), 2026-07-17 internet petition (malawi24).

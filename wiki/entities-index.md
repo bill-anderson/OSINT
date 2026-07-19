@@ -6,6 +6,8 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 
 | Entity | Places | Topics | Page |
 |---|---|---|---|
+| Telekom Networks Malawi (TNM) | MWI | infra.connect, infra.store, dpi.pay | [[tnm-malawi]] |
+| Airtel Malawi Plc | MWI | infra.connect, dpi.pay, include.divides | [[airtel-malawi]] |
 | Laxton | XGL, MDG | dpi.id, dpi.registry | [[laxton]] |
 | Studia Inc | MDG | dpi.registry, tech.ai | [[studia-inc]] |
 | Airtel Madagascar | MDG | infra.connect, dpi.pay | [[airtel-madagascar]] |

@@ -2,7 +2,7 @@
 type: concept
 title: Digital divides
 slug: include.divides
-places: [MRT, COM, COD, CIV, CMR, BFA, BDI, AGO, ZMB, XAF, NGA, ZAF, KEN, RWA, NAM, ETH, SDN, SEN, GHA, XGL, XSS, DJI, CPV, DZA, ERI, SLE, SSD, MUS]
+places: [MRT, COM, COD, CIV, CMR, BFA, BDI, AGO, ZMB, XAF, NGA, ZAF, KEN, RWA, NAM, ETH, SDN, SEN, GHA, XGL, XSS, DJI, CPV, DZA, ERI, SLE, SSD, MUS, MWI]
 entities: [[dzap], [safaricom-ethiopia-fayda-jv], [china-namibia-smart-city], [itu], [partner2connect], [undp], [starlink], [safaricom], [gsma], [diode-network], [global-index-on-responsible-ai], [global-center-on-ai-governance], [sa-digital-id-regulations], [popia], [echis-ethiopia-study], [dhis2], [hisp-centre], [research-ict-africa], [after-access], [alison-gillwald], [solly-malatsi], [dcdt-south-africa], [mymzansi], [gsma-sa-smartphone-tax-reform-2026]]
 lens: [sovereignty, colonialism]
 status: active
@@ -26,6 +26,13 @@ geography, and increasingly by **access to compute/intelligence**.
   Rodrigues Regional Assembly's **"Rod-Digital Vision"** roadmap (6 May 2026). A rare, concrete sub-national
   digital-inclusion move. See [[mauritius--infra-cybersec]], [[MUS]], [[tech.ai]]. Source:
   [[2026-05-29-rodrigues-port-mathurin-ai-cybersecurity-mission-lexpress]].
+- **[[MWI]] Malawi — schools offline, no budget line (2026-04).** UNICEF/Giga's **School Connectivity
+  Landscape Analysis** found **85% of Malawi's 9,000 schools** have limited or no internet and **~900 have
+  none** (electricity and devices the main barriers) — yet the 2026/27 budget carries **no dedicated
+  school-connectivity allocation** (the World Bank is separately connecting 200+ schools; DMAP targets 2,000).
+  The distribution edge of a country whose wholesale bandwidth price already collapsed. See
+  [[malawi--infra-connect]], [[infra.connect]], [[capacity.training]]. Source:
+  [[2026-04-17-school-connectivity-unicef-giga-report-malawi24]].
 - **DPI, shutdowns and civic space: exclusion by design and by governance (2026 H1).** Pollicy's
   Afro-feminist analysis argues DPI in Uganda/Kenya/South Africa is state-centric and reproduces gendered
   and minority exclusion; Access Now records **313 shutdowns in 52 countries in 2025** (Tanzania the worst
@@ -192,7 +199,7 @@ geography, and increasingly by **access to compute/intelligence**.
 
 ## Places
 
-[[ZMB]] · [[XAF]] · [[NGA]] · [[ZAF]] · [[KEN]] · [[RWA]] · [[NAM]] · [[ETH]] · [[SDN]] · [[SEN]] · [[XGL]] · [[SLE]] · [[SSD]] · [[MUS]]
+[[ZMB]] · [[XAF]] · [[NGA]] · [[ZAF]] · [[KEN]] · [[RWA]] · [[NAM]] · [[ETH]] · [[SDN]] · [[SEN]] · [[XGL]] · [[SLE]] · [[SSD]] · [[MUS]] · [[MWI]]
 
 ## Sources
 
