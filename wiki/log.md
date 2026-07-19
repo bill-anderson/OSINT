@@ -7066,3 +7066,15 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
   crackdown" — compliance 4%→55%; sweeps (1,369 orgs, 1,000+ schools); probes (TikTok/Truecaller,
   Temu 12.7m, Remita/Sterling); capacity (₦400m fines, 23k jobs, 250k DPOs/yr Mastercard, Virtual
   Privacy Academy); CBPR Forum, NCC MoU, 4,000 attacks/wk. +10 sources, +capacity.training/infra.cybersec.
+
+## 2026-07-19 — ingest(NGA) chunk 6: Artificial Intelligence
+
+- **14 admitted, 9 pruned.** Heavy multi-outlet dedup: Google Paris meeting 5→1, Microsoft $1M 3→1,
+  AI-Trust FEC 2→1; pruned Iroche op-ed (superseded by AI-Bill clips) and the FCCPC/GenAI probe
+  (already synthesised on [[nigeria--gov-protect]]). Deferred space-strategy clip to the geopolitics pass.
+- **Created:** [[nigeria--tech-ai]] intersection — National AI Trust/NAIS, the risk-based AI Bill
+  (Digital Economy & E-Gov Bill) + over-regulation critique, N-ATLAS sovereign LLM, Google ($37m/₦3bn)
+  & Microsoft ($1M) capital, AI-in-gov (Service-Wise GPT, Anambra SmartGov, Ask INU, AI procurement),
+  and the $470m Chinese AI-surveillance estate. +14 sources.
+- **Entities created:** [[awarri-technologies]] (company), [[ncair]] (government-body).
+- Added [[nigeria--tech-ai]] to the NGA hub intersections line.

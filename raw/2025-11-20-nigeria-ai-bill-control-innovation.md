@@ -11,6 +11,7 @@ topics: [tech.ai, gov.legislate]
 entities: []
 lens: []
 retrieved: 2026-07-17
+body_completeness: excerpt
 sweep_batch: NGA-2026-07-17
 ---
 

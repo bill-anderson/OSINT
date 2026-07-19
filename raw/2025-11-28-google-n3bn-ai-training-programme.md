@@ -11,6 +11,7 @@ topics: [tech.ai, capacity.training, geopol.usa]
 entities: [[google]]
 lens: []
 retrieved: 2026-07-17
+body_completeness: excerpt
 sweep_batch: NGA-2026-07-17
 ---
 
