@@ -72,8 +72,9 @@ operationalise continental data governance at national level.
   integrator, VCI/DEX/Portal roadmap) on a ~98% birth-registration base; "BI para Todos" free-ID
   campaign; passport SEP 2.0; PReSE automatic electoral roll (registry↔CEN interoperability). Full
   case: [[sao-tome--dpi-id]].
-- [[dpi.govtech]] · [[dpi.exchange]] — Citizen Portal (2026); interoperability under Law 1/2024
-  ([[sao-tome-interoperability-framework-2024]]).
+- [[dpi.govtech]] · [[dpi.exchange]] — Citizen Portal (INIC beta, 2026); trade single-window + ASYFIVE
+  (UNDP, 22 institutions); interoperability under Law 1/2024 ([[sao-tome-interoperability-framework-2024]]).
+  Full case: [[sao-tome--dpi-govtech]].
 - [[infra.connect]] · [[include.access]] — ~61.5% internet penetration (2025); DataReportal baselines.
 - [[gov.regional]] — a small state translating continental AU frameworks into national action.
 

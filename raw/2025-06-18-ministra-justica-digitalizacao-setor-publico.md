@@ -10,6 +10,7 @@ places: [STP]
 topics: [dpi.govtech, gov.policy]
 entities: []
 lens: []
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: STP-2026-07-17
 ---
