@@ -7364,3 +7364,24 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
   25% cut), affordability ($23.70/GB) + the FX tariff crisis (4,526 vs 27,000 SSP/$), growth (1.9m/15.7%),
   the Jan-2025 social-media shutdown, 2026 rural/child-safety agenda. +14 sources.
 - **Entities created:** [[mtn-south-sudan]], [[bayobab-south-sudan]].
+
+## 2026-07-19 — ingest(SSD) chunk 5: E-gov/revenue & data centres/AI
+
+- **7 admitted, 0 pruned.**
+- **Created:** [[south-sudan--dpi-govtech]] — revenue-first e-gov (NCA e-Services Platform, SSRA
+  digital-first e-tax/e-visa/e-work-permit), ICT Authority signed into law (May 2026), Crawford Capital
+  e-services partnership (governance-scrutiny flag noted).
+- **Created:** [[south-sudan--infra-store]] — national data centre (halfway, Apr 2026; Juba data hub
+  Sep 2025) under MGI foreign custody, Huawei re-engagement (China-Africa summit), AI three-pillars
+  (infrastructure/data-centre/skills) — electricity the binding constraint.
+- Hub wired + last_reviewed → 2026-07-19. **new/ drained to 0 — SSD batch complete.**
+
+### SSD batch summary (chunks 1-5)
+- Full 37-clip drain across 5 thematic chunks; standard dedup against a rich hub (2 pruned as held dups).
+  SSD went from 1 intersection to 6.
+- New intersections: south-sudan--infra-connect, --dpi-pay, --gov-protect, --dpi-govtech, --infra-store;
+  expanded south-sudan--dpi-id. New entities: mtn-south-sudan, bayobab-south-sudan.
+- Through-lines: "build ahead of governance" (mobile money legal tender + cyber Act enacted *before* a
+  data-protection law; biometric payroll as DPI-by-default); foreign custody of the backbone (MTN/
+  Bayobab) and gateway/data-centre (MGI) + Huawei re-engagement; the FX crisis and $23.70/GB affordability
+  ceiling; connectivity as control (Jan-2025 social-media shutdown, withheld cyber-law text).

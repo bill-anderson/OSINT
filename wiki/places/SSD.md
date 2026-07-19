@@ -6,7 +6,7 @@ parent: XEA
 place_kind: country
 topics: [dpi.pay, dpi.govtech, dpi.id, dpi.registry, infra.connect, infra.energy, infra.store, geopol.china, gov.protect, gov.legislate, gov.policy, finance.new, include.divides, include.access, tech.industry]
 status: active
-last_reviewed: 2026-07-16
+last_reviewed: 2026-07-19
 ---
 
 # South Sudan (SSD)
@@ -40,7 +40,7 @@ but ahead of the governance frameworks meant to hold it.
   formed a **Gateway Services and Data Centre Oversight Committee** with Swiss
   operator **[[mgi-communications]]**, to digitise **SSIGW** gateway revenue,
   modernise infrastructure and bring gateway + national data centre under national
-  sovereignty/security oversight. A foreign private operator holding both the
+  sovereignty/security oversight; national data centre halfway built; Huawei re-engagement; AI pillars. Full case: [[south-sudan--infra-store]]. A foreign private operator holding both the
   national gateway and data centre is a notable sovereignty concentration.
   Source:
   [[2026-01-17 South Sudan NCA establishes gateway services and data centre oversight committee]].
@@ -85,7 +85,8 @@ but ahead of the governance frameworks meant to hold it.
   claimed ~40% economic improvement since e-services began. South Sudan ranks
   **192/193 (2024)** on the UN E-Government Development Index (EGDI 0.1191). Source:
   [[2025-12-19 South Sudan orders full digitization of public institutions]]. See
-  [[dpi.govtech]], [[gov.policy]].
+  [[dpi.govtech]], [[gov.policy]]. Full e-gov/revenue case (NCA e-Services, SSRA digital-first, ICT
+  Authority): [[south-sudan--dpi-govtech]]; data-centre/AI: [[south-sudan--infra-store]].
 - **2025-12-15** — **Civil registration / statelessness baseline.** As of late
   2025 only ~**10%** of the ~12m population held Nationality Certificates and
   national ID/birth certificates were not yet issued at scale; a **CRVS Costed

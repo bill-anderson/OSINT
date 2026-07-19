@@ -11,6 +11,7 @@ places: [SSD]
 topics: [dpi.govtech, finance.mou, gov.policy]
 entities: [[crawford-capital]], [[south-sudan-revenue-authority]]
 lens: []
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: SSD-2026-07-17
 ---

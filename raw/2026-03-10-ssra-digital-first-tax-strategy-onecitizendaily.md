@@ -11,6 +11,7 @@ places: [SSD]
 topics: [dpi.govtech, dpi.pay, infra.capacity]
 entities: [[south-sudan-revenue-authority]]
 lens: []
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: SSD-2026-07-17
 ---
