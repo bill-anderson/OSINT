@@ -10,6 +10,7 @@ places: [SWZ]
 topics: [infra.cybersec, dpi.exchange, infra.store, gov.policy]
 entities: [[ministry-of-ict-eswatini], [rstp]]
 lens: [sovereignty]
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: SWZ-2026-07-17
 ---

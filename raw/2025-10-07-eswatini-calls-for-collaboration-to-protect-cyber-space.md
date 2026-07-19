@@ -10,6 +10,7 @@ places: [SWZ]
 topics: [infra.cybersec, gov.policy, capacity.literacy]
 entities: [[government-of-eswatini], [government-in-your-hand]]
 lens: []
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: SWZ-2026-07-17
 ---

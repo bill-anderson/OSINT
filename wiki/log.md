@@ -7429,3 +7429,27 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
   updated [[eswatini-google-partnership]]) and **GAP-SWZ-002** (GIYH launch now primary-sourced; privacy
   thread evidenced via school-gate biometrics + Home Affairs breach on [[eswatini--dpi-id]]). Left in the
   gaps register for the human to close.
+
+## 2026-07-19 — ingest(SWZ) chunk 5: Data protection, cyber & AI
+
+- **8 admitted, 0 pruned.**
+- **[[eswatini--gov-protect]] updated:** "The institution activates" (EDPA Take-Control campaign + 31-Mar
+  registration deadline; first EDPA probe; National Data Policy first workshop; Cyber Awareness Month) and
+  "The resilience gap it inherits" (Digital Landscape Assessment: 9/21 ministries no backup, RSTP
+  concentration risk, MoF end-of-life mainframe). +4 sources.
+- **Created:** [[eswatini--tech-ai]] — 300k-coder target, ESCCOM deepfake/broadcasting guidance,
+  human-centred-AI/4IR posture (Geneva Global Dialogue, "not mere consumers").
+- Hub: added tech-ai + National Data Centre green-energy (UAE GSU) notes; last_reviewed → 2026-07-19.
+  **new/ drained to 0 — SWZ batch complete.**
+
+### SWZ batch summary (chunks 1-5)
+- Full 42-clip drain across 5 thematic chunks; standard dedup (7 pruned as multi-outlet/held dups).
+  SWZ went from 1 intersection to 6.
+- New intersections: eswatini--dpi-pay, --dpi-id, --dpi-govtech, --infra-connect, --tech-ai; expanded
+  eswatini--gov-protect. New entities: eswatini-national-fintech-strategy, paratus-eswatini.
+- Resolved GAP-SWZ-001 (Google MoU — journal primaries + 2026-controversy cluster) and GAP-SWZ-002
+  (GIYH launch primary-sourced; privacy thread evidenced) — left in register for the human to close.
+- Through-lines: "rails ahead of usage" (EPS/wallets vs >90% cash); "law ahead of institution ahead of
+  resilience" (DPA activating while 9 ministries have no backups); the state as data-risk (Home Affairs
+  ID breach → first EDPA probe); a landlocked satellite-resilience pivot (govt Starlink gateway); and a
+  Google-MoU cabinet panic that was mostly a communications failure.

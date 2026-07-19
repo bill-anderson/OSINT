@@ -10,6 +10,7 @@ places: [SWZ]
 topics: [tech.ai, gov.legislate, infra.cybersec]
 entities: [[esccom], [university-of-eswatini]]
 lens: []
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: SWZ-2026-07-17
 ---

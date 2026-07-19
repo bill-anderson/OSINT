@@ -6,7 +6,7 @@ parent: XSA
 place_kind: country
 topics: [gov.policy, gov.protect, gov.legislate, dpi.govtech, dpi.id, dpi.pay, dpi.registry, dpi.exchange, dpi.mis, infra.connect, infra.cybersec, infra.store, infra.energy, capacity.training, include.divides, tech.innovate, digital.rural, finance.new]
 status: active
-last_reviewed: 2026-07-17
+last_reviewed: 2026-07-19
 ---
 
 # Eswatini (SWZ)
@@ -171,7 +171,8 @@ The rails exist; usage lags them.
   dates and near-certainly different definitions (UN/World-Bank urban-agglomeration vs Kepios).
   Both recorded dated rather than reconciled.*
   Fibre rollout (47→72 Gbps), Mbabane smart city (5G/59 AI cameras), Paratus Starlink JV + government Starlink gateway (landlocked resilience). Full case: [[eswatini--infra-connect]].
-- [[infra.store]] — [[eswatini-national-data-centre]], operated by [[rstp]].
+- [[infra.store]] — [[eswatini-national-data-centre]], operated by [[rstp]]; UAE (Global South Utilities) green-energy talks for the data centre (2026-02-06). RSTP hosting concentration flagged as a structural risk (Digital Landscape Assessment, [[eswatini--gov-protect]]).
+- [[tech.ai]] · [[capacity.training]] — 300k-coder target, ESCCOM deepfake guidance, human-centred-AI/4IR posture. Full case: [[eswatini--tech-ai]].
 - [[infra.cybersec]] — Cybersecurity Agency **not yet operationalised** (2025-07-31).
 - [[gov.policy]] — [[eswatini-digitalisation-strategy-2024-2028]]; a national **data policy** was
   still being **procured** as of 2025-07-25 ([[smart-africa]] RFP, budget US$70,000, closing

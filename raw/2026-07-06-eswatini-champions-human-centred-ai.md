@@ -10,6 +10,7 @@ places: [SWZ]
 topics: [tech.ai, gov.policy, gov.legislate, infra.cybersec]
 entities: [[government-of-eswatini]]
 lens: [sovereignty]
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: SWZ-2026-07-17
 ---

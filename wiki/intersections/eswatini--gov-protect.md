@@ -4,12 +4,12 @@ title: "Eswatini × Data Protection"
 place: SWZ
 topic: gov.protect
 places: [SWZ]
-topics: [gov.protect, gov.legislate, gov.regional, infra.cybersec, gov.policy]
+topics: [gov.protect, gov.legislate, gov.regional, infra.cybersec, gov.policy, data.open, infra.store]
 entities: [[data-protection-act-2022-eswatini], [esccom], [computer-crime-and-cyber-crime-act-2022-eswatini], [sadc], [smart-africa], [apc]]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-17
-sources: [[2022-03-04 Eswatini Data Protection Act 2022 (Act No. 5 of 2022)], [2024-01-01 Data Protection Act 5 of 2022 - Eswatini], [2025-01-01 Role of ESCCOM as National Data Protection Agency], [2024-03-11 Eswatini strives for digital sovereignty amid technological advancements], [2024-07-22 Risk of human rights infringement as Eswatini rushes to regulate the ICT sector], [2025-07-25 RFP - Eswatini National Data Policy (Smart Africa)], [2025-07-31 Eswatini Economic Update - Digital Transformation Key to Unlocking Growth]]
+last_reviewed: 2026-07-19
+sources: [[2022-03-04 Eswatini Data Protection Act 2022 (Act No. 5 of 2022)], [2024-01-01 Data Protection Act 5 of 2022 - Eswatini], [2025-01-01 Role of ESCCOM as National Data Protection Agency], [2024-03-11 Eswatini strives for digital sovereignty amid technological advancements], [2024-07-22 Risk of human rights infringement as Eswatini rushes to regulate the ICT sector], [2025-07-25 RFP - Eswatini National Data Policy (Smart Africa)], [2025-07-31 Eswatini Economic Update - Digital Transformation Key to Unlocking Growth], [2026-02-03-eswatini-launches-data-protection-campaign], [2026-04-30-eswatini-first-national-data-policy-workshop], [2026-05-21-critical-state-information-at-risk-in-9-govt-ministries], [2025-10-07-eswatini-calls-for-collaboration-to-protect-cyber-space]]
 ---
 
 # Eswatini × Data Protection
@@ -61,6 +61,35 @@ harmonised.
   being tendered, not drafted. See [[gov.policy]]. Source:
   [[2025-07-25 RFP - Eswatini National Data Policy (Smart Africa)]].
 
+## The institution activates (2025-2026)
+
+After years of "law without office," the DPA and the cyber/data-policy agenda visibly moved in 2025-26:
+
+- **EDPA awareness campaign + registration deadline (Feb 2026).** The Eswatini Data Protection Authority
+  launched a **"Take Control of Your Data"** campaign setting out **eight data-subject rights** and a hard
+  line to business: **no organisation may collect personal data unless registered**, with a **31 March
+  2026** compliance deadline (data-mapping under way). Source: [[2026-02-03-eswatini-launches-data-protection-campaign]].
+- **First enforcement.** The EDPA's first major probe followed — against the **Ministry of Home Affairs**
+  for publishing unblurred national IDs (see [[eswatini--dpi-id]]).
+- **National Data Policy consultation (Apr 2026).** The policy that was merely being *procured* (Smart
+  Africa RFP, Jul 2025) reached a **first national workshop** — Minister Maziya framing data as a
+  **strategic national asset** "managed like land, water and financial reserves," and warning that
+  governance gaps threaten privacy, national security and investor confidence. See [[gov.policy]],
+  [[data.open]]. Source: [[2026-04-30-eswatini-first-national-data-policy-workshop]].
+- **Cyber as national security (Oct 2025).** PM Dlamini opened **Cybersecurity Awareness Month** ("Secure
+  Eswatini") — "cyber security is national security... economic security... personal security." Source:
+  [[2025-10-07-eswatini-calls-for-collaboration-to-protect-cyber-space]].
+
+## The resilience gap it inherits
+
+- **Nine ministries with no data backups (May 2026).** A **Digital Landscape Assessment** (guiding the
+  new e-Government Strategy) found **9 of 21 ministries have no regular backups** (only 7 daily), **11
+  operate without ICT maintenance contracts**, and the Ministry of Finance runs **end-of-life IBM
+  mainframe** software — putting water, mining, energy and social-grant data at risk of "unrecoverable
+  loss." Near-universal reliance on **[[rstp]]** for hosting is flagged as a **"structural concentration
+  risk."** See [[infra.cybersec]], [[dpi.exchange]], [[infra.store]]. Source:
+  [[2026-05-21-critical-state-information-at-risk-in-9-govt-ministries]].
+
 ## Tensions (lens: sovereignty)
 
 - **APC's critique — attributed, not asserted.** [[apc]] flags **s.36** as raising human-rights
@@ -94,3 +123,7 @@ Place: [[SWZ]] · Concepts: [[gov.protect]] · [[gov.legislate]] · [[gov.region
 - [[2024-07-22 Risk of human rights infringement as Eswatini rushes to regulate the ICT sector]]
 - [[2025-07-25 RFP - Eswatini National Data Policy (Smart Africa)]]
 - [[2025-07-31 Eswatini Economic Update - Digital Transformation Key to Unlocking Growth]]
+- [[2026-02-03-eswatini-launches-data-protection-campaign]]
+- [[2026-04-30-eswatini-first-national-data-policy-workshop]]
+- [[2026-05-21-critical-state-information-at-risk-in-9-govt-ministries]]
+- [[2025-10-07-eswatini-calls-for-collaboration-to-protect-cyber-space]]

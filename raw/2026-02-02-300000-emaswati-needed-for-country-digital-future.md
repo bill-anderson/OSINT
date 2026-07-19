@@ -10,6 +10,7 @@ places: [SWZ]
 topics: [capacity.training, tech.ai, capacity.literacy]
 entities: [[ministry-of-ict-eswatini], [rstp], [undp], [government-in-your-hand]]
 lens: []
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: SWZ-2026-07-17
 ---

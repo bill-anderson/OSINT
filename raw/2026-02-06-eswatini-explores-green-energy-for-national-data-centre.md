@@ -10,6 +10,7 @@ places: [SWZ]
 topics: [infra.store, infra.energy, geopol.gulf, finance.mou]
 entities: [[ministry-of-ict-eswatini], [global-south-utilities], [rstp]]
 lens: [sovereignty]
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: SWZ-2026-07-17
 ---
