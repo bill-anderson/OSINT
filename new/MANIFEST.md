@@ -1,56 +1,35 @@
-# SWZ (Eswatini) — sweep manifest
+# SYC (Seychelles) — sweep candidates, batch SYC-2026-07-17
 
-Batch: SWZ-2026-07-17 · Window: 2025-01-01 → 2026-07-17 · Staged: 42
-Papers: Times of Eswatini (times.co.sz), Independent News Eswatini (independentnews.co.sz)
-Journals present: itweb.africa, techafricanews.com, techcabal.com, techreviewafrica.com (biometricupdate held/out-of-window; wearetech/telecomreviewafrica/connectingafrica returned no in-window Eswatini items)
+Window 2025-01-01 → 2026-07-17. Newspapers: Seychelles Nation (nation.sc), Seychelles News Agency (seychellesnewsagency.com). Trade-press blind spot per README — the two papers + government primaries + off-host trade/vendor/regional outlets were the working instruments. Exa indexes nation.sc well (paywalled bodies), and returned rich government-primary and regional coverage; seychellesnewsagency.com surfaced mostly pre-window/archive items. 23 staged.
 
-`published | topics | source | title | why-it's-new`
+published | topics | source | title | why it's new
 
-2025-01-21 | geopol.usa, finance.mou, dpi.govtech | ITWeb Africa | Google works with Eswatini to accelerate digital economy | Journal primary for the Jan-2025 Google MoU (gaps flag rested on single secondary Techpoint copy)
-2025-01-21 | geopol.usa, finance.mou, capacity.training | TechAfrica News | Eswatini Partners with Google for Digital Transformation | Second in-window journal record of the Google partnership signing
-2025-05-21 | dpi.govtech, dpi.pay, include.access | Independent News | Eswatini launches new apps to ease access to government services | Newspaper primary for GIYH + ERS TaxPal launch (gaps flag: unsourced GIYH launch)
-2025-05-22 | dpi.govtech, dpi.pay | TechAfrica News | Eswatini Goes Mobile: Seamless Access to Public Services | Journal coverage of GIYH/TaxPal launch
-2025-05-22 | dpi.govtech, dpi.pay | ITWeb Africa | Eswatini introduces citizen-centred digital solutions | Journal coverage of GIYH launch, minister quotes
-2025-07-23 | dpi.id, gov.protect, include.access | Times of Eswatini | Outcry over digital gate pass in schools | Biometric school-gate scanners; parental/data-privacy backlash — new thread
-2025-07-27 | gov.policy, tech.industry, finance.new | Times of Eswatini | Eswatini, World Bank to chart digital economy roadmap | Preview of World Bank Eswatini Economic Update 2025 launch
-2025-07-28 | infra.connect, include.divides, finance.new | Independent News | Paratus Eswatini launches | New Paratus–Real Image JV; Eswatini's official entry into LEO/Starlink
-2025-07-30 | infra.connect, include.divides | ITWeb Africa | Recently launched Paratus Eswatini aims to drive Starlink Business adoption | Journal detail on Paratus JV + EduLINK schools connectivity
-2025-08-01 | gov.policy, infra.connect, dpi.id | TechAfrica News | World Bank Report Highlights Digitalization as Key to Eswatini's Economic Future | EEU 2025 report detail (95% 4G, 58% internet use, data-cost 3.47% GNI)
-2025-08-04 | gov.legislate, infra.connect, capacity.training, tech.ai | TechAfrica News | Eswatini Ramps Up Tech Reform: New Legislation, 5G Rollout, Coding | Cybersecurity/Critical Infrastructure Bills, 47→72 Gbps, Mbabane smart city
-2025-08-10 | dpi.pay, include.access, include.divides | Times of Eswatini | Mobile money drives financial inclusion growth | Global Findex 2025: 63% account ownership; urban-rural divide
-2025-09-26 | dpi.id, dpi.pay, gov.regional | Times of Eswatini | Eswatini embarks on national e-KYC system | Newspaper primary on national/SADC cross-border e-KYC registry (CBE)
-2025-09-26 | dpi.pay, dpi.govtech, digital.localgov | TechAfrica News | Eswatini Ministry of ICT Unveils Post Office-Based Govt Payment System | EPTC–ERS: 35 post offices for govt-service payments
-2025-09-28 | dpi.pay, infra.cybersec | Times of Eswatini | Eswatini Payment Switch making payments faster, easier | CBE explainer: EPS three-stage rollout (fast payments/open banking/card switching)
-2025-10-02 | dpi.id, dpi.pay, gov.regional | TechAfrica News | Eswatini Advances Financial Inclusion with Launch of National e-KYC System | Journal record of national e-KYC + SADC cross-border dimension
-2025-10-07 | infra.cybersec, gov.policy, capacity.literacy | ITWeb Africa | Eswatini calls for collaboration to protect cyber space | PM opens Cybersecurity Awareness Month; data-protection framing of GIYH
-2025-11-13 | dpi.pay, dpi.exchange, gov.legislate | TechCabal | Inside Eswatini: How a small country is tackling big payments challenges | CBE Sabelo Gama interview on EPS interoperability design
-2025-11-16 | dpi.pay, gov.regional | Times of Eswatini | Eswatini enters Africa's instant payments revolution | SIIPS 2025 continental launch hosted in Eswatini; EPS cross-domain IPS status
-2025-11-18 | dpi.pay, dpi.exchange, gov.legislate | Times of Eswatini | CBE prioritises broader digital ecosystem | Next EPS phase (P2G/G2P/merchant); National Payment Systems Act 2023 licensing
-2025-11-22 | tech.ai, gov.legislate, infra.cybersec | Times of Eswatini | ESCCOM issues AI warning on deep fakes | Regulator signals AI/deepfake broadcasting guidance — new thread
-2025-12-05 | dpi.pay, gov.policy, finance.new | Times of Eswatini | FinTech to reduce cash reliance | National FinTech Strategy 2025–2030 launch (CBE Governor/FSRA)
-2025-12-07 | dpi.pay, gov.policy, dpi.id | Times of Eswatini | FinTech Strategy to transform Eswatini's digital future | FinTech Strategy detail: 500k e-KYC + 80% interoperability by 2028
-2026-01-04 | gov.policy, infra.connect, finance.new | Independent News | The Absent Agenda: Eswatini's Digital Imperative (opinion) | Analytical column on E2.8bn digital financing + EPTC monopoly legacy
-2026-01-19 | data.statistics, gov.policy, infra.connect | Times of Eswatini | E2.8m study signals bright 2026 digital outlook | ESCCOM tenders State of Communications Sector Study 2025/26
-2026-02-02 | capacity.training, tech.ai, capacity.literacy | Times of Eswatini | 300 000 emaSwati needed for country's digital future | Minister's 300k coders/AI-practitioners target; Coders Eswatini
-2026-02-03 | gov.protect, gov.legislate | Independent News | Eswatini launches data protection campaign | EDPA 2026 awareness campaign; 31 Mar 2026 registration deadline
-2026-02-06 | infra.store, infra.energy, geopol.gulf, finance.mou | Independent News | Eswatini explores green energy for national data centre | UAE Global South Utilities talks on powering National Data Centre
-2026-02-13 | infra.connect, gov.policy, dpi.govtech | Times of Eswatini | Optical fibre rollout strengthens business ecosystem | Business Eswatini indaba; ICT 3-yr roadmap, smart-city AI cameras
-2026-02-22 | dpi.id, dpi.registry | Independent News | Home Affairs resumes ID card production | ID card production restored after technical suspension
-2026-02-23 | dpi.id, dpi.registry | Times of Eswatini | ID card services resume in boost for citizens | Second-outlet detail on ID resumption (suspension began Sept 2025)
-2026-04-10 | geopol.usa, finance.mou, gov.policy | Independent News | Former Minister defends Google MoU, calls for calm in Cabinet | Google Cloud EMEA MoU cabinet controversy; AG/PM conflicting accounts
-2026-04-13 | geopol.usa, tech.innovate, finance.mou | Independent News | The real Google problem in Eswatini is not the MoU (opinion) | Analysis: MoU was cloud/e-gov framework, not monetisation; AdSense economics
-2026-04-28 | infra.connect, include.divides, data.satellite | TechAfrica News | Eswatini Commissions Starlink Satellite Gateway | Govt-commissioned Starlink gateway; landlocked resilience framing
-2026-04-30 | gov.policy, gov.standards, data.open, gov.protect | Tech Review Africa | Eswatini First National Data Policy Workshop | National Data Policy consultation begins (EU/Germany partners) [PR-wire]
-2026-05-21 | infra.cybersec, dpi.exchange, infra.store | Independent News | Critical state information at risk in 9 govt ministries | Digital Landscape Assessment: no-backup ministries, RSTP concentration risk
-2026-06-20 | dpi.mis, tech.innovate, include.access, digital.rural | Tech Review Africa | Eswatini rolls out digital platforms (health/agri/creative) | MTN Umelusi, TruMD, Content Creator Hub launch [PR-wire]
-2026-06-24 | gov.protect, gov.legislate, dpi.id | Independent News | Home Affairs investigated for sensitive data breach | ESCCOM/EDPA opens first major probe — unblurred IDs posted by ministry
-2026-06-24 | dpi.govtech, capacity.training, infra.connect, finance.new | Independent News | ICT trains change agents for E1.2bn digitization project | Digital Eswatini Project detail: E648m broadband + E450m GIYH; 2027 rollout
-2026-07-05 | gov.policy, tech.ai, dpi.govtech, geopol.usa | Times of Eswatini | Eswatini's digital progress earns continental spotlight | Minister at Google Cloud Summit Africa 2026; Ramaphosa acknowledgement
-2026-07-06 | tech.ai, gov.policy, gov.legislate | Independent News | Eswatini champions human-centred AI | PM at Global Dialogue on AI Governance 2026 (Geneva); 4IR strategy
-2026-07-14 | dpi.id, dpi.registry, gov.protect | Times of Eswatini | DNA plan could swallow E126m of Home Affairs budget | Compulsory-DNA-for-birth-certs cost/rights debate — new thread
+2026-06-23 | dpi.govtech | Seychelles Nation | Seychelles launches revamped gov.sc portal | egov.sc relaunch under VP Pillay for 50th Independence — first meaningful update in over a decade
+2026-06-24 | dpi.govtech | TechAfrica News | Seychelles launches revamped eGov portal | Fuller account of the egov.sc relaunch (Herminie 5-year "leading digital economies" vision; DICT PS Choppy)
+2026-06-23 | dpi.govtech, geopol.usa | State House Seychelles | President Herminie launches Electronic Case Management System | Justice-sector case-management platform, US State Dept-funded via UNODC/UNOPS; now live
+2026-07-04 | dpi.govtech, gov.regional | COMESA | Seychelles national launch of the electronic Certificate of Origin (e-CO) | SRC + COMESA digital trade-facilitation platform goes live
+2025-11-07 | dpi.govtech, finance.new | NRD Companies | Seychelles Ease of Doing Business Portal | MIEI one-stop business portal; NRD selected as tech partner; full rollout targeted 30 Jun 2026
+2026-03-06 | infra.connect, geopol.usa | Seychelles Nation | Starlink cleared for takeoff in Seychelles | Cabinet approved Starlink ISP licence (18 Feb 2026) subject to conditions
+2026-05-28 | infra.connect, geopol.usa | Seychelles Nation | Starlink incorporated locally, services imminent — VP Pillay | NA update: Starlink now a local company in final licensing stage
+2026-06-08 | infra.connect, geopol.usa | The Seychelles Times | Starlink satellite internet service launches | Launch event; initial coverage Mahé/Praslin/La Digue
+2026-07-04 | infra.connect | Seychelles Nation | Airtel Seychelles launches 5G + SBC partnership | Airtel becomes 2nd 5G operator; SBC content bundle
+2026-07-06 | infra.connect | The Seychelles Times | Airtel Seychelles launches 5G with SBC | Fuller sourced account (Kapuku quotes; 2021 Airtel–Ericsson turnkey background)
+2025-03-04 | infra.connect, infra.cybersec, finance.mou, geopol.china | Developing Telecoms | Hytera & CWS sign MoU | MWC 2025 MoU: mission-critical/emergency comms redundant network (PoC/MCX)
+2025-08-30 | dpi.mis, capacity.training, geopol.china | Huawei Enterprise | SMART Education transforms classrooms | MoE + CWS + Huawei EMIS/e-learning rollout to four secondary schools
+2025-12-23 | gov.legislate, tech.innovate, capacity.research | Official Gazette | National Institute of Science, Technology and Innovation Act 2025 | New STI umbrella body; open scientific data repository; AI mandate (instrument)
+2025-05-13 | tech.ai, infra.cybersec | Seychelles Nation | Media practitioners explore AI with NCCC & AMPS | NCCC/AMPS AI-and-media workshop; surfaces the National Cybersecurity Coordination Committee
+2025-07-15 | infra.cybersec, gov.protect | BankInfoSecurity | Seychelles Commercial Bank confirms customer data breach | Major bank breach (~2.2 GB client data, incl. "government" accounts); Oracle Flexcube/WebLogic
+2025-07-29 | infra.cybersec, gov.protect | Resecurity | Cybercriminals attack Seychelles — offshore banking as a target | First-hand incident-response analysis of the SCB breach
+2026-06-30 | dpi.pay, finance.mou, geopol.india | Africa Business Insight | Seychelles to roll out India's UPI by end-2026 | NPCI International–CBS UPI MoU (Modi visit 29 Jun 2026); deal-entity candidate
+2025-11-21 | dpi.pay | TechAfrica News | Fusepay ushers out paper cheques | Seychelles-founded B2B fintech; first live transaction 19 Nov 2025
+2025-11-27 | dpi.pay, finance.new | Daba Finance | Fusepay launches after $350K pre-seed | Adds funding round, investors, PSP licence, Mauritius/Maldives expansion plan
+2026-06-24 | dpi.pay | The Seychelles Times | Absa Seychelles multi-currency virtual card | 5-currency in-app prepaid card; builds on Absa Pay (Dec 2025); first Absa island market
+2026-07-09 | dpi.pay | Seychelles Nation | SRC new cheque limits, full phase-out by 2028 | SRC cheque-threshold policy (eff. 13 Jul 2026); cheques discontinued by 31 Dec 2028
+2025-11-10 | gov.legislate, gov.policy, data.open | Information Commission | ATIA 2018 reform whitepaper | InfoCom reform proposals (enforcement gap, DPA-2023 alignment, open reuse); date_source proxy (filename)
+2026-01-28 | gov.protect | Information Commission | Data Protection Day 2026 | Dated DPA-regulator statement; Convention 108 signatory since 1981; DPA 2023 rights
 
-## Notes
-- **Google (gaps lead):** now backed by two in-window journal primaries (ITWeb 2025-01-21, TechAfrica 2025-01-21) plus a rich 2026 MoU-controversy cluster (Independent x2, Times spotlight). Consider a `google-eswatini-mou` deal entity at ingest.
-- **GIYH launch + privacy criticism (gaps lead):** launch now primary-sourced (Independent + ITWeb + TechAfrica, all 2025-05-22); privacy-criticism thread is separately evidenced by the June-2026 Home Affairs data-breach probe and the July-2025 school-gate scanner outcry. (Biometric Update's 2025-07 GIYH-privacy piece was not re-staged — outside sweep source set.)
-- **PR-wire flags:** the two Tech Review Africa items are byline-light announcement records — source the primary (Ministry/MTN) at ingest.
-- **Partial bodies:** several Times items carry "Full article available on Pressreader/print" tails; bodies captured are substantial but not always complete.
+## Notes / provenance flags
+- Seychelles Nation bodies are paywalled after the lede; those items carry highlight-level clips and are flagged for manual full-clip on promotion.
+- Off-host primaries staged where the two papers were thin/paywalled: State House (gov), COMESA (regional), Official Gazette (legislation), InfoCom (regulator), NRD/Huawei (vendor — flagged, verify against ministry primaries), BankInfoSecurity/Resecurity (breach). The Seychelles Times is an opinion/entertainment outlet publishing straight-news rewrites — flagged; verify against Nation/DICT primaries.
+- UPI = deal-entity candidate (NPCI International–CBS MoU). Fusepay & SCB breach add entity pages (fusepay, seychelles-commercial-bank).
+- Not staged / see drop-log-SYC.csv: seychellesindependent Starlink opinion columns (5), UPI aggregators (getfinancebrief AI-brief, satnanews, curlytales, convergence-now, fintechbiznews), SCB-breach syndications (securityaffairs, databreachtoday, inforisktoday, occrp, indrastra), SEO/AI blogs (maarcofrancis x2, nucamp, ts2.tech, transfi), LinkedIn/consulting opinion (Brendon STI, reseauconsulting SHORE), reference studies (DataReportal, 6wresearch), NISTI Bill (superseded by Act).

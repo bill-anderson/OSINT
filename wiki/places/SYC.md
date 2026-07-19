@@ -102,8 +102,9 @@ about commencement dates, enforcement reach and drafting gaps rather than covera
   [[seychelles-civil-status-act]] (Cap 34, consolidated as at 1 Nov 2022).
 - [[dpi.pay]] · [[include.access]] — the [[central-bank-of-seychelles]] cheque phase-out and
   [[seft-seychelles]].
-- [[dpi.govtech]] — [[registrar-general-office-seychelles]] business/IP digitalisation;
-  [[dict-seychelles]] as the ICT department behind SeyID and CertExpress.
+- [[dpi.govtech]] — egov.sc portal relaunch (2026), Electronic Case Management System (justice, US/UNODC),
+  e-Certificate of Origin (SRC/COMESA), Ease of Doing Business portal; [[registrar-general-office-seychelles]]
+  business/IP digitalisation; [[dict-seychelles]] behind SeyID/CertExpress. Full case: [[seychelles--dpi-govtech]].
 - [[dpi.registry]] · [[gov.standards]] — the [[seychelles-national-addressing-system]],
   Cabinet-approved on the **S42** address standard, led by the
   [[seychelles-postal-regulator]] with Lands and Housing, the National Bureau of Statistics,
