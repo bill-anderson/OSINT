@@ -7277,3 +7277,11 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
   2nd subsea cable via Guinea, LBR/GMB/SLE + Guinea ECOWAS roaming), Starlink (12 universities/ELCOME),
   NatCA spectrum reform, Sierratel MVNO rescue with Africell. +9 sources.
 - **Entities created:** [[natca]] (regulator), [[sierratel]] (state telco).
+
+## 2026-07-19 — ingest(SLE) chunk 2: Payments & fintech
+
+- **5 admitted, 0 pruned.**
+- **Created:** [[sierra-leone--dpi-pay]] — inclusion 18%→~40% on the IPS + BSL sandbox; wallet/card/AI
+  launches: Vult (Velmie/Metro Cable), MikashBoks-Ecobank Interest Plus (6%), Orange Money Mastercard
+  (Zenith), Afrimoney Prepaid Visa (Africell/Ecobank, "techquity"), Open Hub Flot AI chatbot. +5 sources.
+- **Entity created:** [[bank-of-sierra-leone]].

@@ -77,7 +77,7 @@ The through-line across the ID work is **open standards and national ownership**
   2025), open-standards / blockchain build ([[sierra-leone-digital-id-mou]]), low card
   issuance and affordability gap. Home: [[ncra]].
 - **[[dpi.pay]]** — national instant-payment switch (2023 origin, instant phase Feb 2025);
-  8.2m mobile-money accounts (2023). [[sierra-leone-instant-payment-switch]].
+  8.2m mobile-money accounts (2023); inclusion 18%→~40% (2025), 1m+ IPS txns; sandbox-incubated card/wallet/AI-payment launches. Full case: [[sierra-leone--dpi-pay]]. [[sierra-leone-instant-payment-switch]].
 - **[[dpi.exchange]]** — Government Service Bus / X-Road interoperability; NIN-linkage across
   MDAs; MoF PFM interoperability working group (2024).
 - **[[dpi.registry]]** / **[[digital.rural]]** — National Digital Farmer Registry integrated

@@ -6,6 +6,7 @@ publisher: Owl Press (Sierra Leone)
 published: 2026-04-24
 date_precision: day
 date_source: source
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: SLE-2026-07-17
 places: [SLE]
