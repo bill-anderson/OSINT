@@ -12,6 +12,7 @@ entities: [[telecom-namibia], [emma-theofelus]]
 lens: []
 retrieved: 2026-07-17
 sweep_batch: NAM-2026-07-17
+body_completeness: excerpt
 ---
 
 # Namibia bolsters digital access with 25 new network towers

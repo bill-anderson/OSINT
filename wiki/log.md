@@ -6852,3 +6852,20 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
 - Sources: 2025-07-10 India cyber MoU (itweb), 2025-07-30 threats surge [CLIP] (Namibian Sun), 2025-09-17
   deepfake/e-signature (itweb), 2025-11-25 banks fraud summit (itweb), 2026-04-13 NAM-CSIRT report (wearetech),
   2026-06-09 NIPAM MoU (techafricanews), 2026-06-21 breach chronicle (Namibian).
+
+## 2026-07-19 — ingest(NAM) chunk 4/6: Connectivity & telecom (non-Starlink)
+
+- **5 sources admitted, 0 leads, 0 discards.**
+- **Intersection updated:** [[namibia--infra-connect]] — +"Telecom market & 5G" section (Paratus first private
+  mobile network; MTC/Telecom Namibia duopoly; 25 PowerCom towers; phased city-first 5G vs 3.76/km² density;
+  NDS/NDP6 targets); +4 sources, +tech.industry topic, +paratus/mtc/telecom-namibia entities.
+- **Entities updated:** [[paratus]] (+Namibia first private mobile network; +2 sources);
+  [[telecom-namibia-angola-deals]] (+techafricanews source; sharpened SARSSy MSA date to 12 Jun 2026).
+- **NAM hub:** +1 Recent-developments entry (Paratus + towers + 5G 2025-09-04); enriched the 2026-06-15 SARSSy
+  entry (MSA 12 Jun + new source).
+- **Concept:** [[infra.connect]] +NAM private-challenger/density bullet.
+- **Dedup notes:** the two Paratus clips (Namibian Sun launch-plan; connectingafrica launch + investment/subscriber
+  detail) kept complementary; the SARSSy techafricanews clip kept as complementary (sharpens the 12-Jun MSA date
+  vs held coverage).
+- Sources: 2025-08-19 Paratus plan (Namibian Sun), 2025-09-04 Paratus launch (connectingafrica), 2025-08-24 25
+  towers (Namibian Sun), 2026-02-10 5G feature (telecomreview), 2026-06-15 SARSSy MSA (techafricanews).

@@ -16,6 +16,15 @@ Broadband and network access as the base layer of the digital economy.
 
 ## Key material — continental & thematic
 
+- **[[NAM]] Namibia — a private challenger, and the density problem (2025-2026).** **[[paratus]]** launched
+  **Namibia's first privately-owned mobile network** (Sep 2025; LTE + 5G) against the state duopoly
+  **[[mtc-namibia|MTC]]** (>90%) and Telecom Namibia — but the binding constraint is geography: at **3.76
+  people/km²** (among the world's lowest), fibre backhaul and towers are expensive, so **5G is phased and
+  city-first** and rural areas stay on 2G/3G. Targets: internet **53%→90% by 2030** (NDP6); 25 new PowerCom
+  towers; a demand-side push (free school/clinic internet; 4G-device tax breaks). Full picture:
+  **[[namibia--infra-connect]]**. Sources:
+  [[2025-09-04-paratus-launches-namibia-first-private-mobile-network-connectingafrica]],
+  [[2026-02-10-towards-5g-enabled-digitalized-namibia-2026-telecomreviewafrica]].
 - **[[MWI]] Malawi — wholesale gains, distribution gap (2025–2026).** The World Bank **Digital Foundations
   Project** collapsed wholesale bandwidth from **~$460/Mbit/s to below $10** and brought **~7m** new users
   online (users/100 rose 17.6→38.3), but the last mile lags: Malawi needs **1,000+ towers** (DMAP procuring

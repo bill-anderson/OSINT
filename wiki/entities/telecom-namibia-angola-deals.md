@@ -7,7 +7,7 @@ topics: [finance.mou, infra.connect, infra.capacity, gov.regional, infra.cyberse
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-17
-sources: [[2026-06-15 Telecom Namibia signs more satellite, subsea connectivity deals with Angola firms], [2026-06-12-namibia-angola-ink-satellite-deal-itweb], [2026-06-11-namibia-and-angola-join-forces-angotic-mou], [2026-04-24-angola-namibias-dynamic-connectivity-partnership-itweb], [2025-10-14-namibia-taps-angosat-2-to-boost-connectivity]]
+sources: [[2026-06-15 Telecom Namibia signs more satellite, subsea connectivity deals with Angola firms], [2026-06-15-telecom-namibia-angola-satcab-sarssy-1tbps-techafricanews], [2026-06-12-namibia-angola-ink-satellite-deal-itweb], [2026-06-11-namibia-and-angola-join-forces-angotic-mou], [2026-04-24-angola-namibias-dynamic-connectivity-partnership-itweb], [2025-10-14-namibia-taps-angosat-2-to-boost-connectivity]]
 ---
 
 # Telecom Namibia–Angola connectivity agreements (2026)
@@ -19,10 +19,12 @@ partners, moving an April 2025/26 MoU/CTA into operational implementation.
   programme office) to trial **Angosat-2** across Namibia and Southern Africa,
   transitioning from proof-of-concept to structured trial (target customers:
   lodges/tourism, mining, schools, agriculture, rural communities).
-- **Subsea (MSA):** master service agreement with **Angola Telecom + SATCAB** to
-  integrate the **SARSSy** system with Google's **Equiano** cable via Telecom
-  Namibia's **Swakopmund** landing station — providing Angola Telecom **1 Tbps**
-  of dedicated Equiano capacity.
+- **Subsea (MSA):** master service agreement with **Angola Telecom + SATCAB**
+  (Satélite e Cabo TV, S.A.), **signed 12 June 2026**, to integrate the **SARSSy**
+  system with Google's **Equiano** cable via Telecom Namibia's **Swakopmund**
+  landing station — providing Angola Telecom **1 Tbps** of dedicated Equiano
+  capacity, building on the April-2026 Swakopmund MoU/CTA. Source:
+  [[2026-06-15-telecom-namibia-angola-satcab-sarssy-1tbps-techafricanews]].
 
 ## The ministerial ICT layer
 
@@ -52,6 +54,7 @@ See [[telecom-namibia]], [[NAM]], [[AGO]], [[infra.connect]], [[gov.regional]].
 ## Sources
 
 - [[2026-06-15 Telecom Namibia signs more satellite, subsea connectivity deals with Angola firms]]
+- [[2026-06-15-telecom-namibia-angola-satcab-sarssy-1tbps-techafricanews]]
 - [[2026-06-12-namibia-angola-ink-satellite-deal-itweb]]
 - [[2026-06-11-namibia-and-angola-join-forces-angotic-mou]]
 - [[2026-04-24-angola-namibias-dynamic-connectivity-partnership-itweb]]

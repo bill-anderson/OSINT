@@ -12,6 +12,7 @@ entities: [[telecom-namibia], [telecom-namibia-angola-deals], [angola-telecom], 
 lens: [sovereignty]
 retrieved: 2026-07-17
 sweep_batch: NAM-2026-07-17
+body_completeness: excerpt
 ---
 
 # Telecom Namibia, Angola Telecom and SATCAB Sign SARSSy Deal to Deliver 1 Tbps Connectivity Across Southern Africa

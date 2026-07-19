@@ -12,6 +12,7 @@ entities: [[paratus], [mtc-namibia], [telecom-namibia], [equiano-cable], [emma-t
 lens: []
 retrieved: 2026-07-17
 sweep_batch: NAM-2026-07-17
+body_completeness: excerpt
 ---
 
 # Paratus launches Namibia's first private mobile network

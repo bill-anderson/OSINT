@@ -12,6 +12,7 @@ entities: [[mtc-namibia]]
 lens: []
 retrieved: 2026-07-17
 sweep_batch: NAM-2026-07-17
+body_completeness: excerpt
 ---
 
 # Towards a 5G-Enabled, Digitalized Namibia in 2026

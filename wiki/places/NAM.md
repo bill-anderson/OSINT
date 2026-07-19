@@ -54,9 +54,10 @@ last_reviewed: 2026-07-19
 - **2026-06-15** — **[[telecom-namibia]]** signed two agreements with Angolan firms —
   an **Angosat-2** satellite pilot (with GGPEN) and a **SARSSy / Equiano** subsea
   integration (with Angola Telecom + SATCAB) via its Swakopmund landing station (1 Tbps
-  to Angola Telecom). Deal: [[telecom-namibia-angola-deals]]. See [[infra.connect]],
-  [[infra.capacity]], [[AGO]]. Source:
-  [[2026-06-15 Telecom Namibia signs more satellite, subsea connectivity deals with Angola firms]].
+  to Angola Telecom; the **SARSSy MSA was signed 12 Jun 2026**). Deal: [[telecom-namibia-angola-deals]]. See
+  [[infra.connect]], [[infra.capacity]], [[AGO]]. Sources:
+  [[2026-06-15 Telecom Namibia signs more satellite, subsea connectivity deals with Angola firms]],
+  [[2026-06-15-telecom-namibia-angola-satcab-sarssy-1tbps-techafricanews]].
 - **2026-06-15** — ICT minister **[[emma-theofelus]]**, visiting Angola's new **sovereign
   national data centre** (Luanda), drew inspiration for Namibia's own planned sovereign
   datacentre (a pillar of the 2025–2029 digital strategy; no dates set). Source:
@@ -139,6 +140,16 @@ last_reviewed: 2026-07-19
   in the prior year. Sources: [[2025-08-17-data-protection-bill-returns-to-parliament-namibiansun]],
   [[2025-08-14-govt-to-introduce-data-protection-bill-september-namibian]]. See [[gov.protect]],
   [[gov.legislate]].
+- **2025-09-04** — **Paratus launches Namibia's first private mobile network; towers + phased 5G.**
+  **[[paratus]]** launched the country's **first privately-owned mobile network** (2 Sep 2025; LTE + 5G),
+  challenging the state duopoly **[[mtc-namibia|MTC]]** (2m+ subs, >90%) and Telecom Namibia — **N$1.42bn since
+  2018 + N$600m** (Nokia/Cerillion). Backdrop: **25 PowerCom towers** (N$40m, 9 regions) and a **phased,
+  city-first 5G** rollout constrained by the world's-lowest **3.76/km²** density. Full picture:
+  **[[namibia--infra-connect]]**. Sources:
+  [[2025-09-04-paratus-launches-namibia-first-private-mobile-network-connectingafrica]],
+  [[2025-08-24-namibia-25-new-network-towers-powercom-namibiansun]],
+  [[2026-02-10-towards-5g-enabled-digitalized-namibia-2026-telecomreviewafrica]]. See [[infra.connect]],
+  [[tech.industry]], [[digital.rural]].
 - **2025-06-04** — **100% telecom coverage target by 2030.** Namibia set a goal of **100% nationwide telecom
   coverage by 2030**, USF-backed, extending **[[telecom-namibia]]** and operator reach into underserved
   areas. Source: [[2025-06-04 Namibia targets 100% telecom coverage nationwide by 2030]]. See [[infra.connect]],
