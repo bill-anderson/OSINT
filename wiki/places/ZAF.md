@@ -246,9 +246,11 @@ linked source pages, the entity pages and the six [[south-africa--dpi-id|interse
   **[[eskom]]**'s 2029 constraint and "base supply cliff"; captive solar; the operator field
   ([[teraco]], [[cavaleros]], [[vantage]], [[africa-data-centres]], [[equinix]], [[microsoft]]).
   Full case: [[south-africa--infra-store]].
-- [[infra.connect]] · [[data.satellite]] — Seacom 2.0; Starlink's regulatory delay (30% equity rule);
-  **[[space42]]** Thuraya-4; **[[icasa]]**'s draft GIS database; MTN's R21.8bn pledge; US
-  hyperscalers' overland fibre. Full case: [[south-africa--infra-connect]].
+- [[infra.connect]] · [[data.satellite]] — Seacom 2.0; **the Starlink deadlock** (30% ownership rule;
+  Malatsi's equity-equivalence policy direction rejected by ICASA) vs **Amazon Leo entering via [[herotel]]**
+  (s.13 route); **BrainSAT/[[space42]]** state-backed satellite + SATCOM strategy; Google's Umoja E-Cape hub;
+  **innovation-spectrum** WISP win (MNOs locked out of 6GHz); **SA Connect** frozen; MTN's R21.8bn pledge.
+  Full case: [[south-africa--infra-connect]].
 - [[gov.protect]] · [[gov.policy]] · [[dpi.exchange]] · [[gov.regional]] · [[infra.cybersec]] —
   POPIA adequacy vs Draft Data & Cloud localisation; the **Rubio State-Dept cable** and US WTO/G20
   pressure ([[us-department-of-state]]); ransomware exposure; DHA's self-described "low" cyber

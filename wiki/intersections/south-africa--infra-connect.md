@@ -77,6 +77,43 @@ The contrast is the finding: **the same transformation rule that Starlink treats
 a doorway.** SA's connectivity future is being decided less by orbit than by who will accept the local terms —
 and Musk's refusal has handed the market to a competitor and to a state-backed satellite alternative (below).
 
+## Sovereign satellite, Google's fibre, and the "buy a licence" route
+
+- **The section-13 doorway.** ICASA's 29-June gazette made the legal logic explicit: a LEO operator needs
+  I-ECS + I-ECNS licences + spectrum, but ICASA **cannot issue a network licence** absent a ministerial policy
+  direction (the DCDT instead ordered an **inquiry** into whether new licences are needed, Aug 2025, still
+  running) — so the only lawful route is **acquiring an existing licensee under s.13 of the ECA**. That is
+  precisely the Amazon/Herotel move; it applies equally to Starlink, Eutelsat OneWeb and Amazon Leo. Source:
+  [[2026-06-30-broadband-decided-in-orbit]].
+- **A state-backed satellite (Jul 2026).** Deputy President Mashatile launched **BrainSAT Satellite Services**
+  — an SA company using **[[space42|Space42]]** (UAE) infrastructure (YahClick Ka-band broadband, **[[thuraya-4]]**
+  phones) under a national **SATCOM strategy** aimed at a **SA-owned satellite system**. The economic pitch:
+  DSTI says SA spends **~R100bn/yr on foreign comms providers** versus a **~R6bn one-time** cost for a
+  locally-owned 20-year satellite — sovereignty as import-substitution. See [[geopol.gulf]], [[data.satellite]].
+  Source: [[2026-07-01-state-backed-sa-satellite-company]].
+- **Google's Eastern Cape anchor (Jul 2026).** **[[google]]** confirmed an **Eastern Cape digital-exchange hub**
+  (subsea-cable landing station) as the **southern anchor of a four-hub African network** and the SA landing of
+  **Umoja** — the first direct **Africa–Australia** fibre — permits secured; plus a R3m Soweto innovation
+  centre. Overland/subsea fibre from a US hyperscaler lowering wholesale connectivity cost. See [[geopol.usa]].
+  Source: [[2026-07-01-google-ecape-four-hub-anchor]].
+
+## Spectrum and the stalled flagship
+
+- **Innovation spectrum — a WISP win (May 2026).** ICASA gazetted final "innovation spectrum" rules: the
+  **lower 6GHz band licence-exempt** for WISPs/Wi-Fi/private networks (**mobile operators locked out** of it),
+  plus discounted **3.8–4.2GHz** for standalone 5G, mediated by a **unified spectrum switch** geo-location
+  database. WAPA called it "the most important thing ICASA has ever done" — 500MHz of clean spectrum letting
+  WISPs deliver gigabit fixed-wireless in direct competition with fibre (a fresh MNO spectrum auction is also
+  gearing up). See [[gov.legislate]]. Sources: [[2026-05-27-operators-locked-out-900mhz-spectrum]],
+  [[2026-02-17-icasa-next-spectrum-auction]].
+- **SA Connect frozen (2026).** The flagship **SA Connect** broadband programme was **effectively frozen for
+  most of FY2025/26** — its in-year allocation collapsing from an expected **R1.1bn to R116m**, money arriving
+  only in January 2026, equipment delayed by Middle-East shipping disruption — so the **100%-access phase-2
+  target (set 2022) closed the year well out of reach** (though 7,397 public facilities were connected). A
+  further **R3bn** was allocated in the Feb-2026 Budget. The demand-side/state-delivery counterpoint to the
+  private and satellite momentum above. See [[include.access]]. Sources: [[2026-06-18-flagship-broadband-stalled]],
+  [[2026-02-26-r3bn-sa-connect]].
+
 ## The stalled state backbone
 
 While private and satellite players move, South Africa's **state** connectivity
