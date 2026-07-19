@@ -4,12 +4,12 @@ title: "Seychelles × Data Protection"
 place: SYC
 topic: gov.protect
 places: [SYC]
-topics: [gov.protect, gov.legislate, gov.standards, dpi.exchange, infra.cybersec]
+topics: [gov.protect, gov.legislate, gov.standards, dpi.exchange, infra.cybersec, data.open]
 entities: [[data-protection-act-2023-seychelles], [information-commission-seychelles], [dict-seychelles], [tech-hive-advisory]]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-17
-sources: [[2024-03-25 Data Protection Law Now In Force In Seychelles], [2024-06-04 Review of Seychelles DPA]]
+last_reviewed: 2026-07-19
+sources: [[2024-03-25 Data Protection Law Now In Force In Seychelles], [2024-06-04 Review of Seychelles DPA], [2025-07-15-bankinfosecurity-scb-data-breach], [2025-07-29-resecurity-seychelles-bank-breach-analysis], [2026-01-28-infocom-data-protection-day-2026], [2025-11-10-infocom-atia-reform-whitepaper]]
 ---
 
 # Seychelles × Data Protection
@@ -50,6 +50,35 @@ not as sitting in a transition. No source held here reports what happened at exp
 investigation, audit, fine or guidance by the Commission: a coverage gap, not evidence of
 inactivity.
 
+## The offshore-banking cyber breach (2025)
+
+- **Seychelles Commercial Bank breach.** A hacker ("ByteToBreach") **breached SCB's network on 5 Feb
+  2025** and **exfiltrated ~2.2 GB** (3–4 Jul) — names, DOB, phones, addresses, emails, account types and
+  **balances**, with multiple entries labelled **"current accounts – government."** Data was advertised on
+  the **DarkForums** marketplace; SCB suspended internet banking, apologised and engaged police. The
+  attacker claimed an **Oracle WebLogic** vulnerability (Flexcube Private Banking) and decryption using
+  **keys accessible in the bank's IT environment**. Resecurity (which engaged the actor) frames it within
+  the **targeting of offshore/tax-haven banking jurisdictions** — Seychelles ranks 45th on the Corporate
+  Tax Haven Index. See [[infra.cybersec]]. Sources: [[2025-07-15-bankinfosecurity-scb-data-breach]],
+  [[2025-07-29-resecurity-seychelles-bank-breach-analysis]].
+- The breach is the first concrete **test of the DPA's breach regime** (ss.43–44) in a jurisdiction whose
+  **offshore-finance profile makes it a disproportionate target** — data with real geopolitical value
+  (government account records) in a small state's banking system.
+
+## The regulator: enforcement gap & activation (2025-2026)
+
+- **Data Protection Day (Jan 2026).** The **[[information-commission-seychelles]]** marked Data Protection
+  Day — noting Seychelles has been a **Convention 108 signatory since 1981** (among the world's earliest)
+  — setting out data-subject rights and pushing **"privacy by design."** Source:
+  [[2026-01-28-infocom-data-protection-day-2026]].
+- **ATIA reform whitepaper (Nov 2025).** InfoCom's updated whitepaper on reforming the **Access to
+  Information Act 2018** names its **most urgent weakness: no clear power to enforce its orders** (s.63(1))
+  — holders have **ignored directives since 2019** with no recourse — and recommends **aligning s.33(4)
+  with the DPA 2023**, human-rights/corruption disclosure overrides, a **centralised Access-to-Information
+  Unit**, and **open-reuse licensing** (drafting by the AG toward end-2025). The same body holds both the
+  ATI and the DPA mandates — so its enforcement-capacity gap cuts across both. See [[gov.legislate]],
+  [[data.open]]. Source: [[2025-11-10-infocom-atia-reform-whitepaper]].
+
 ## Analyst criticism (TechHive Advisory, 2024-06 — attributed, not asserted)
 
 - **Scope (s.3) — no clear extraterritorial application**, unlike peer laws: the territorial
@@ -64,9 +93,13 @@ inactivity.
 ## Links
 
 Place: [[SYC]] · Concepts: [[gov.protect]] · [[gov.legislate]] · [[gov.standards]]
-· Entities: [[data-protection-act-2023-seychelles]] · [[information-commission-seychelles]]
+· Entities: [[data-protection-act-2023-seychelles]] · [[information-commission-seychelles]] · [[seychelles-commercial-bank]]
 
 ## Sources
 
 - [[2024-03-25 Data Protection Law Now In Force In Seychelles]]
 - [[2024-06-04 Review of Seychelles DPA]]
+- [[2025-07-15-bankinfosecurity-scb-data-breach]]
+- [[2025-07-29-resecurity-seychelles-bank-breach-analysis]]
+- [[2026-01-28-infocom-data-protection-day-2026]]
+- [[2025-11-10-infocom-atia-reform-whitepaper]]
