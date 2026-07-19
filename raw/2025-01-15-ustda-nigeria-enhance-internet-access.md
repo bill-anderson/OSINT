@@ -7,6 +7,7 @@ published: 2025-01-15
 date_precision: day
 date_source: source
 retrieved: 2026-07-17
+body_completeness: excerpt
 sweep_batch: NGA-2026-07-17
 places: [NGA]
 topics: [infra.connect, finance.mou, geopol.usa]

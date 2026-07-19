@@ -7099,3 +7099,14 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
   payments, NEAR asset register, National Single Window) + cBrain F2/Publica AI platform + NITDA
   Digital Trustmark. +6 sources.
 - Added [[nigeria--dpi-govtech]] to the NGA hub intersections line.
+
+## 2026-07-19 — ingest(NGA) chunk 9: Geopolitics, deals & innovation
+
+- **12 admitted, 5 pruned** (Visa clip dups already-held $1bn/Moniepoint material; space-strategy
+  intent-only; $2bn-DPI vague plan; Cabo-Verde thin bilateral; CBN local-sourcing 2→1).
+- **[[nigeria--infra-connect]] expanded** +"International financing & partnerships" — US $2m + USTDA,
+  EU €45m, Sweden SWEDFUND, China/Galaxy Space D2D satellite, CBN local-manufacturing push, telecoms
+  FDI rebound ($392.91m 9M-2025). +7 sources, +geopol/tech.industry tags.
+- **Created:** [[nigeria--tech-innovate]] — Itana digital free zone (AFC $100m), Katsina $10bn hub,
+  JICA startup hub ($51.2m/NSIA), Doballi talent export, Huawei innovation centre ("tech sovereignty").
+- Added [[nigeria--tech-innovate]] to the NGA hub intersections line.

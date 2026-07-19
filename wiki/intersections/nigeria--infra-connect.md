@@ -4,12 +4,12 @@ title: Nigeria × Connectivity
 place: NGA
 topic: infra.connect
 places: [NGA]
-topics: [infra.connect, gov.policy, include.divides, finance.new, data.satellite, infra.cybersec]
-entities: [[ncc], [mtn-nigeria], [airtel-africa], [starlink], [huawei], [nigeria-eqguinea-subsea-cable], [world-bank], [african-development-bank]]
+topics: [infra.connect, gov.policy, include.divides, finance.new, data.satellite, infra.cybersec, geopol.usa, geopol.eu, geopol.china, tech.industry]
+entities: [[ncc], [mtn-nigeria], [airtel-africa], [starlink], [huawei], [nigeria-eqguinea-subsea-cable], [world-bank], [african-development-bank], [cbn], [european-union]]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-19
-sources: [[2025-01-20-ncc-approves-50-percent-tariff-increase], [2025-01-29-telcos-lost-11-billion-tariff-delay], [2025-05-18-fg-2bn-fibre-project-bridge-tijani], [2026-01-30-nigeria-49pct-stake-bridge-fibre-spv], [2026-04-14-afdb-200m-project-bridge-dvibe], [2025-02-28-nigeria-7000-towers-5g], [2026-06-28-telecom-subs-188m-broadband-55-67], [2025-10-08-ncc-19000-fibre-cuts-eight-months], [2025-03-10-starlink-second-largest-isp], [2025-09-15-starlink-halts-orders-congestion], [2025-12-31-starlink-biometric-66000-subscribers], [2026-01-15-ncc-amazon-kuiper-landing-permit], [2025-10-22-mtn-huawei-400g-800g-optical-network], [2025-10-10-mtn-8-million-homes-fibre-2028], [2026-02-18-mtn-ihs-towers-transaction-review], [2025-05-30-9mobile-roaming-mtn-network], [2025-04-24-ixpn-1tbps-traffic-milestone], [2026-02-12-nigeria-equatorial-guinea-subsea-fibre], [2026-07-07-ifc-150m-airtel-africa-digital-infrastructure], [2025-10-22-ncc-23pct-rural-internet-access], [2025-01-20-nigcomsat-eutelsat-leo-services], [2025-11-11-ncc-end-pre-registered-sim-regulations]]
+sources: [[2025-01-20-ncc-approves-50-percent-tariff-increase], [2025-01-29-telcos-lost-11-billion-tariff-delay], [2025-05-18-fg-2bn-fibre-project-bridge-tijani], [2026-01-30-nigeria-49pct-stake-bridge-fibre-spv], [2026-04-14-afdb-200m-project-bridge-dvibe], [2025-02-28-nigeria-7000-towers-5g], [2026-06-28-telecom-subs-188m-broadband-55-67], [2025-10-08-ncc-19000-fibre-cuts-eight-months], [2025-03-10-starlink-second-largest-isp], [2025-09-15-starlink-halts-orders-congestion], [2025-12-31-starlink-biometric-66000-subscribers], [2026-01-15-ncc-amazon-kuiper-landing-permit], [2025-10-22-mtn-huawei-400g-800g-optical-network], [2025-10-10-mtn-8-million-homes-fibre-2028], [2026-02-18-mtn-ihs-towers-transaction-review], [2025-05-30-9mobile-roaming-mtn-network], [2025-04-24-ixpn-1tbps-traffic-milestone], [2026-02-12-nigeria-equatorial-guinea-subsea-fibre], [2026-07-07-ifc-150m-airtel-africa-digital-infrastructure], [2025-10-22-ncc-23pct-rural-internet-access], [2025-01-20-nigcomsat-eutelsat-leo-services], [2025-11-11-ncc-end-pre-registered-sim-regulations], [2025-01-15-us-nigeria-2m-fibre-deal], [2025-01-15-ustda-nigeria-enhance-internet-access], [2025-12-12-eu-45m-nigeria-digital-package], [2025-02-10-nigeria-sweden-connectivity-agreement], [2025-06-20-nasrda-galaxy-space-d2d-satellite], [2025-02-14-domestic-telecom-infrastructure-production], [2026-02-17-telecoms-fdi-highest-since-2019]]
 ---
 
 # Nigeria × Connectivity
@@ -71,5 +71,30 @@ regime shaped the ground.
   [[2026-02-18-mtn-ihs-towers-transaction-review]], [[2025-05-30-9mobile-roaming-mtn-network]],
   [[2025-04-24-ixpn-1tbps-traffic-milestone]], [[2026-07-07-ifc-150m-airtel-africa-digital-infrastructure]],
   [[2026-02-12-nigeria-equatorial-guinea-subsea-fibre]], [[2025-11-11-ncc-end-pre-registered-sim-regulations]].
+
+## International financing & partnerships (2025-2026)
+
+The fibre bet is heavily donor- and partner-financed, and the FDI is returning:
+
+- **United States.** A **$2m grant** toward the 90,000km fibre build was signed at the first
+  US–Nigeria technology dialogue (Washington, Jan 2025), alongside a **USTDA feasibility grant** for
+  new backbone reaching **12m people** (study by HIP Consult). See [[geopol.usa]]. Sources:
+  [[2025-01-15-us-nigeria-2m-fibre-deal]], [[2025-01-15-ustda-nigeria-enhance-internet-access]].
+- **EU (€45m).** The **EU–Nigeria Digital Economy Package** committed **€45m** (Brussels, Dec 2025)
+  for secure connectivity, subsea capacity, 5G and last-mile access. See [[geopol.eu]]. Source:
+  [[2025-12-12-eu-45m-nigeria-digital-package]].
+- **Sweden.** [[ncc]] and **SWEDFUND** signed a grant for a crowdsourced quality-of-experience
+  project (real-time network-performance data). Source: [[2025-02-10-nigeria-sweden-connectivity-agreement]].
+- **China — D2D satellite.** **NASRDA** signed an MoU with China's **Galaxy Space** for
+  **direct-to-device (D2D)** satellite connectivity (phones/IoT direct to satellite, no towers),
+  with technology transfer and engineer training — "reducing external dependence in the space-tech
+  ecosystem"; full deployment targeted end-2025. See [[data.satellite]], [[geopol.china]]. Source:
+  [[2025-06-20-nasrda-galaxy-space-d2d-satellite]].
+- **Local manufacturing push.** [[cbn]] Governor Cardoso urged operators toward **backward
+  integration** — locally producing SIM cards, cables and towers to cut FX demand and create jobs.
+  See [[tech.industry]]. Source: [[2025-02-14-domestic-telecom-infrastructure-production]].
+- **FDI rebound.** Telecoms FDI hit **$392.91m in 9M-2025** — the strongest since 2019 — up from a
+  2021 low of $107.46m, driven by the Jan-2025 tariff reset and naira stability. Source:
+  [[2026-02-17-telecoms-fdi-highest-since-2019]].
 
 See [[NGA]], [[infra.connect]], [[ncc]].

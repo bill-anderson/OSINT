@@ -11,6 +11,7 @@ topics: [finance.new, geopol.eu, infra.connect]
 entities: [[european-union]]
 lens: []
 retrieved: 2026-07-17
+body_completeness: excerpt
 sweep_batch: NGA-2026-07-17
 ---
 
