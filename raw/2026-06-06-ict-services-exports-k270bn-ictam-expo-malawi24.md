@@ -12,6 +12,7 @@ entities: []
 lens: []
 retrieved: 2026-07-17
 sweep_batch: MWI-2026-07-17
+body_completeness: excerpt
 ---
 
 # Malawi's ICT exports soar to K270 billion amid forex solutions

@@ -12,6 +12,7 @@ entities: []
 lens: []
 retrieved: 2026-07-17
 sweep_batch: MWI-2026-07-17
+body_completeness: excerpt
 ---
 
 # TNM Malawi mulls third datacentre as it launches VoLTE service

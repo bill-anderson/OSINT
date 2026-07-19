@@ -31,6 +31,14 @@ hosted on the continent at all.
   [[2025-07-16-hyperscale-data-hub-data-centres-telecomreviewafrica]],
   [[2025-12-31-rose-belle-tier-iv-data-centre-national-strategy-lexpress]],
   [[2026-04-03-tech-trends-data-sovereignty-lexpress]].
+- **[[MWI]] Malawi — a small local-hosting market on a forex/sovereignty logic (2026).** Beyond the government
+  **National Data Centre** (Boma Lathu; being made AI-ready under DMAP), commercial capacity is emerging:
+  **[[sparc-systems]]** launched a Lilongwe data centre to cut **offshore hosting** (which drains scarce forex
+  and cedes data control), **[[tnm-malawi|TNM]]** announced a third data centre, and ICT-services exports hit
+  **US$154m (2023)**. Small-market, sovereignty-and-currency-driven rather than hyperscaler-led. See
+  **[[malawi--infra-store]]**, [[tech.industry]]. Sources:
+  [[2026-05-01-sparc-systems-data-centre-launch-malawi24]],
+  [[2026-06-06-ict-services-exports-k270bn-ictam-expo-malawi24]].
 - **Raxio's distributed frontier-market build (2026-07).** Data-centre operator **[[raxio-group]]** took
   committed capital **above US$380m** via an equity top-up from **Meridiam** and **Roha** (on a 2025 US$100m
   IFC package + Proparco/EAAIF debt), pursuing **Tier III, carrier-neutral** colocation across

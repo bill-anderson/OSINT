@@ -4,7 +4,7 @@ title: Malawi
 code: MWI
 parent: XSA
 place_kind: country
-topics: [dpi.govtech, dpi.exchange, dpi.id, infra.store, gov.protect, finance.new, dpi.mis, data.statistics, gov.policy, capacity.training, gov.standards, capacity.research, tech.ai, include.access, digital.localgov, dpi.pay, infra.cybersec, gov.legislate, geopol.china, infra.connect, include.divides]
+topics: [dpi.govtech, dpi.exchange, dpi.id, infra.store, gov.protect, finance.new, dpi.mis, data.statistics, gov.policy, capacity.training, gov.standards, capacity.research, tech.ai, include.access, digital.localgov, dpi.pay, infra.cybersec, gov.legislate, geopol.china, infra.connect, include.divides, tech.industry]
 status: active
 last_reviewed: 2026-07-19
 ---
@@ -71,6 +71,14 @@ last_reviewed: 2026-07-19
   digital-tax-as-infrastructure, with **blackouts and connectivity** the main
   constraints. Source: [[2026-06-03 Malawi reaps digital tax gains]]. See
   [[dpi.govtech]], [[dpi.mis]], [[data.statistics]], [[gov.policy]].
+- **2026-05-01** — **A local data-hosting market emerges.** **[[sparc-systems]]** launched a commercial data
+  centre in Lilongwe to cut reliance on **offshore hosting** (a forex + data-sovereignty argument); **[[tnm-malawi|
+  TNM]]** announced a **third data centre** (with its VoLTE launch); and ICT-services **exports rose US$70m
+  (2020) → US$154m (2023)**. Alongside the government National Data Centre — a growing local market. Full
+  picture: **[[malawi--infra-store]]**. Sources: [[2026-05-01-sparc-systems-data-centre-launch-malawi24]],
+  [[2026-03-06-tnm-third-data-centre-volte-itweb]],
+  [[2026-06-06-ict-services-exports-k270bn-ictam-expo-malawi24]]. See [[infra.store]], [[tech.industry]],
+  [[sovereignty]].
 - **2026-07-07** — Malawi integrates **immigration e-services** onto the **Bomalathu**
   single digital-services platform under the World Bank-funded **Digital Malawi
   Acceleration Project** ([[dmap]]). The public gains online access to passport, visa and
@@ -200,7 +208,9 @@ last_reviewed: 2026-07-19
   [[national-registration-bureau-malawi]] / [[undp]]); mobile-ID transition + registration-law
   review; immigration / passport / civil-registration services online; Digital Identity Wallet
   pilot. Full case: [[malawi--dpi-id]].
-- [[infra.store]] · [[gov.protect]] — locally hosted servers; data sovereignty; Lilongwe Government Data Centre.
+- [[infra.store]] · [[gov.protect]] · [[tech.industry]] — locally hosted servers; **data sovereignty / forex**;
+  Lilongwe Government Data Centre; **[[sparc-systems]]** + **[[tnm-malawi|TNM]]** commercial data centres; ICT
+  exports $154m (2023) — **[[malawi--infra-store]]**.
 - [[infra.connect]] · [[include.divides]] — **[[tnm-malawi|TNM]]** / **[[airtel-malawi|Airtel]]** 5G + satellite
   interest; Digital Foundations wholesale-price collapse; DMAP tower rollout (1,000+ needed); 85% of schools
   offline; retail-price petition — **[[malawi--infra-connect]]**.
@@ -216,9 +226,9 @@ last_reviewed: 2026-07-19
 
 - [[dmap]] · [[world-bank]] · [[malawi-revenue-authority]] · [[blantyre-city-council]] · [[ppda-malawi]]
 - [[malawi-ministry-of-ict]] · [[undp]] · [[malawi-data-protection-act-2024]]
-- Intersections: [[malawi--dpi-id]] · [[malawi--dpi-govtech]] · [[malawi--infra-connect]]
+- Intersections: [[malawi--dpi-id]] · [[malawi--dpi-govtech]] · [[malawi--infra-connect]] · [[malawi--infra-store]]
 - [[national-registration-bureau-malawi]] (PS Patrick Machika) · [[idt4m]] · [[macra-malawi]]
-- [[reserve-bank-of-malawi]] · [[malawi-electoral-commission]] · [[comesa]] · [[ictam]] · [[tnm-malawi]] · [[airtel-malawi]]
+- [[reserve-bank-of-malawi]] · [[malawi-electoral-commission]] · [[comesa]] · [[ictam]] · [[tnm-malawi]] · [[airtel-malawi]] · [[sparc-systems]]
 - [[hmis-malawi-livingstonia]] · [[dhis2]] · [[his-developing-countries-review]]
 - Mentioned, not hubbed: Department of E-Government (Prosper Mopiwa); Department of
   Immigration and Citizenship Services (Denis Chipao); Bomalathu platform; Synod of

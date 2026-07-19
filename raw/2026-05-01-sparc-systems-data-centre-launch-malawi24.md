@@ -12,6 +12,7 @@ entities: [[malawi-ministry-of-ict]]
 lens: [sovereignty]
 retrieved: 2026-07-17
 sweep_batch: MWI-2026-07-17
+body_completeness: excerpt
 ---
 
 # Sparc moves to end Malawi's reliance on offshore data

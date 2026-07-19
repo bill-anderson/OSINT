@@ -6741,3 +6741,18 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
 - Sources: 2026-05-22 Airtel AGM/satellite (techafricanews), 2026-04-17 schools no-internet (malawi24),
   2026-03-26 DMAP 90 towers (techafricanews), 2025-07-26 TNM 5G (malawi24), 2025-06-26 spectrum cut
   (techafricanews), 2026-07-17 internet petition (malawi24).
+
+## 2026-07-19 — ingest(MWI) chunk 5/7: Data centres, cloud & sovereignty
+
+- **3 sources admitted, 0 leads, 0 discards.**
+- **Intersection created:** [[malawi--infra-store]] — emerging local-hosting market on a forex/sovereignty
+  logic: government National Data Centre (AI-ready under DMAP), Sparc commercial DC, TNM 3rd DC + VoLTE, ICT
+  exports $70m→$154m. Resolves the forward-link from [[tnm-malawi]] (chunk 4).
+- **Entity created:** [[sparc-systems]] (company — data centre + ICT-services exporter; MWI/ZMB/TZA/MOZ/RWA).
+- **Entities updated:** [[tnm-malawi]] (+VoLTE + 3rd data centre).
+- **MWI hub:** +1 Recent-developments entry (local data-hosting market 2026-05-01); infra.store Active-topics
+  line → intersection; +tech.industry topic; +sparc-systems + malawi--infra-store to Entities.
+- **Concept:** [[infra.store]] +MWI local-hosting bullet.
+- **entities-index:** +sparc-systems.
+- Sources: 2026-06-06 ICT exports K270bn (malawi24), 2026-05-01 Sparc data centre (malawi24), 2026-03-06 TNM
+  3rd DC + VoLTE (itweb).
