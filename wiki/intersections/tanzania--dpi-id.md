@@ -8,8 +8,8 @@ topics: [dpi.id, dpi.registry, include.access, dpi.govtech, gov.legislate, gov.p
 entities: [[nida-tanzania], [jamii-namba], [james-kaji], [edson-guyai], [tanzania-infant-registration-bill], [nao-tanzania], [ministry-of-home-affairs-tanzania], [rita-tanzania], [unicef], [id4africa], [world-bank], [baker-mckenzie]]
 lens: []
 status: active
-last_reviewed: 2026-07-17
-sources: [[2025-06-17 Tanzania launching infant biometric registration pilot with UNICEF support], [2025-05-27 Home Affairs unveils 2.06tri- budget], [2026-01-04 Tanzania rolls out infant registration for stronger citizen ID], [2026-04-22 Tanzania seeks biometrics contractors for Phase II of national digital ID project], [2021-03-01 Performance Audit - Registration and Issuance of National ID Cards by NIDA (NAO Tanzania)], [2025-01-01 Tanzania - National Identification Card guidance (Baker McKenzie)], [2026-01-01 My Money, Your Name Challenges and Workarounds in ID-Required Mobile Money in East Africa]]
+last_reviewed: 2026-07-19
+sources: [[2025-06-17 Tanzania launching infant biometric registration pilot with UNICEF support], [2025-05-27 Home Affairs unveils 2.06tri- budget], [2026-01-04 Tanzania rolls out infant registration for stronger citizen ID], [2026-04-22 Tanzania seeks biometrics contractors for Phase II of national digital ID project], [2021-03-01 Performance Audit - Registration and Issuance of National ID Cards by NIDA (NAO Tanzania)], [2025-01-01 Tanzania - National Identification Card guidance (Baker McKenzie)], [2026-01-01 My Money, Your Name Challenges and Workarounds in ID-Required Mobile Money in East Africa], [2025-04-14-nida-kutoa-namba-watoto-wageni-jamii-namba], [2025-05-29-tanzania-budgets-4-5m-digital-id-pilot-minors], [2025-11-27-waliofukuzwa-vyeti-feki-kupata-nida], [2025-12-29-nida-yazindua-namba-ya-bure-sms], [2026-01-06-tanzania-legislative-framework-infant-id-registration], [2026-02-13-tanzania-spends-131bn-national-id-cards], [2026-04-18-nida-executes-national-id-expansion-project-ii], [2026-05-09-jamii-namba-children-pilot-set-for-rollout], [2026-05-22-national-ids-stay-under-centralised-printing], [2026-05-25-nida-kuanza-kusajili-watoto-jamii-namba]]
 ---
 
 # Tanzania × Digital Identity
@@ -84,6 +84,61 @@ allocated FY2025/26 for Micheweni). Financed by a **~$70m Export-Import Bank of 
 enrolment offices. Source:
 [[2026-04-22 Tanzania seeks biometrics contractors for Phase II of national digital ID project]].
 [[finance.new]]
+
+## The 2025–2026 registration drive
+
+The period since the coverage snapshots above is a steady operational push — from foundations (children,
+foreigners) to service turnaround to card production — under President Samia Suluhu Hassan's standing
+directive (given at the Aug-2023 Airtel 2Africa cable launch) to **register every citizen from birth**.
+
+- **Jamii Namba opens to children and foreigners (2025-04-14).** NIDA announced Jamii Namba for **all
+  under-18s and foreigners resident 6+ months (with residence permits)**; the under-18 pilot began in
+  **three districts** (Unguja South, Kilolo/Iringa, Rungwe/Mbeya), targeting **335,826 people** over two
+  months. A **1 May 2025 deadline** was set to **deactivate NINs of people who never collected their
+  cards**. NIDA then reported integration with **128 institutions** (71 private, 57 public). Source:
+  [[2025-04-14-nida-kutoa-namba-watoto-wageni-jamii-namba]].
+- **The minors pilot budgeted, and an integration portal (2025-05-29).** In the same 2.06tri/- budget,
+  Bashungwa put **TZS 11.34bn (~$4.5m)** to the minors pilot (**~300,000** in Zanzibar, Iringa, Mbeya —
+  the count given as **235,826** here vs **335,826** in the Mwananchi account, a reported variance), ahead
+  of a **nationwide 2026/27 rollout**. NIDA built an **integrated portal linking Immigration, Zanzibar's
+  civil-status agency and [[rita-tanzania]]** for ID issuance at airports, hospitals and border posts.
+  *(Same speech, adjacent build: an **$145.2m smart-cities surveillance-camera** programme for Dar, Dodoma
+  and Arusha, **$80m via an Abu Dhabi Exports Office concessional loan** — a Gulf-financed surveillance
+  layer worth watching alongside the ID build; [[sovereignty]].)* Source:
+  [[2025-05-29-tanzania-budgets-4-5m-digital-id-pilot-minors]].
+- **Fake-certificate dispensation (2025-11-27).** A **one-year window (Oct 2025–Oct 2026)** lets the
+  **14,000+ public servants dismissed under Magufuli for fake certificates** correct their records and
+  finally obtain national IDs. NIDA also cut turnaround to a **NIN in 5 days, card in 21 days**. Source:
+  [[2025-11-27-waliofukuzwa-vyeti-feki-kupata-nida]].
+- **Toll-free SMS ID-status service (2025-12-29).** NIDA launched free shortcode **15274** to check ID
+  status by SMS — pitched at remote citizens without internet or office access (Home Affairs Minister
+  George Simbachawene). See [[dpi.govtech]]. Source: [[2025-12-29-nida-yazindua-namba-ya-bure-sms]].
+- **TZS 131bn to speed card production (2026-02-13).** Home Affairs Minister **Patrobas Katambi** announced
+  **TZS 131bn (~$56.3m)** to modernise ID-card production (processing had stretched to months), noting NIDA
+  paid a **TZS 38bn dividend** to the treasury. See [[infra.store]]. Source:
+  [[2026-02-13-tanzania-spends-131bn-national-id-cards]].
+- **Children from birth — the Act amendment (2026-05).** The government said it is **amending the
+  Registration and Identification of Persons Act** to allow registration **from birth**, will put the
+  Jamii Namba **on birth certificates** (pilot in Rungwe/Kilolo/Unguja South once legal arrangements
+  complete), and plans to **integrate NIDA and RITA functions** for efficiency — with NIDA to begin
+  child registration in **FY2026/27** (Katambi). Sources:
+  [[2026-05-09-jamii-namba-children-pilot-set-for-rollout]], [[2026-05-25-nida-kuanza-kusajili-watoto-jamii-namba]].
+- **Printing stays centralised (2026-05-22).** The government **declined a request to print national IDs
+  in Zanzibar** (as passports are), citing **security** — centralised printing protects biometric data,
+  encryption and specialised equipment against fraud and leakage (Deputy Minister Ayoub Mahmoud). A
+  sovereignty-of-the-credential stance, and a live centre-vs-Zanzibar tension. See [[infra.cybersec]].
+  Source: [[2026-05-22-national-ids-stay-under-centralised-printing]].
+
+**Phase II corroborated (2026-04-18).** A second parliamentary account confirms Phase II (Dodoma HQ, ICT
+maintenance centre, 31 district offices incl. Micheweni; iris/facial), adding that **Phase I built the data
+centre, disaster-recovery centre and offices in 13 districts**, that **EIA and geotechnical studies were
+complete as of March 2026**, and that **TZS 33bn** was released in FY2025/26 for the Micheweni office.
+Source: [[2026-04-18-nida-executes-national-id-expansion-project-ii]].
+
+**Infant Bill dated (2026-01-06).** A second account confirms the [[tanzania-infant-registration-bill]]
+was set for the **session opening 27 January 2026**, and adds that **eRITA now issues birth certificates
+within 48 hours** and that **birth registration was ~60% as of 2022** (UNICEF) — see
+[[tanzania--dpi-registry]]. Source: [[2026-01-06-tanzania-legislative-framework-infant-id-registration]].
 
 ## The hybrid process, and the Local Chairman's stamp
 

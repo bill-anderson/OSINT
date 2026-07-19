@@ -5,11 +5,11 @@ place: TZA
 topic: dpi.registry
 places: [TZA]
 topics: [dpi.registry, gov.standards, digital.localgov, digital.rural, include.access, gov.regional]
-entities: [[napa-tanzania], [micit-tanzania], [tcra], [tanzania-posts-corporation], [papu], [upu], [upu-s42]]
+entities: [[napa-tanzania], [micit-tanzania], [tcra], [tanzania-posts-corporation], [papu], [upu], [upu-s42], [rita-tanzania], [heslb], [unicef]]
 lens: []
 status: active
-last_reviewed: 2026-07-17
-sources: [[2024-07-10 Tanzania ramps up national physical address registration], [2026-02-09 Tanzania registers 12 million housing addresses to boost digital governance]]
+last_reviewed: 2026-07-19
+sources: [[2024-07-10 Tanzania ramps up national physical address registration], [2026-02-09 Tanzania registers 12 million housing addresses to boost digital governance], [2025-08-19-tanzania-digital-id-address-student-loans-zanzibar], [2026-06-23-unicef-partner-birth-registration-legal-identity], [2026-01-06-tanzania-legislative-framework-infant-id-registration]]
 ---
 
 # Tanzania × Addressing & Registries
@@ -54,12 +54,35 @@ addressing, including its [[upu]] **S42 certification**, set a benchmark for the
 [[2026-02-09 Tanzania registers 12 million housing addresses to boost digital governance]].
 [[gov.standards]] · [[gov.regional]]
 
-## Civil registration
+## Zanzibar's National Address Programme, and addressing as a service key (2025-08)
+
+Zanzibar's **National Address Programme (NaP)** went operational in **June 2025**, assigning digital
+addresses to residents and plots — **over 450,000 assigned** by August 2025. Its first big payoff was
+**student finance**: with national ID made a **loan requirement (May 2025)**, **over 489,409 students
+applied to the [[heslb|HESLB]] by digital means**. Communication Minister **Jerry Silaa** framed addressing
+as a growth lever; Construction/Transport Minister **Dr Khalid Salum Mohamed** stressed linking it to
+postal, emergency, financial and transport services. This is the addressing layer doing exactly what the
+S42 case predicts — becoming the key that unlocks downstream services. See [[include.access]],
+[[digital.localgov]]. Source: [[2025-08-19-tanzania-digital-id-address-student-loans-zanzibar]].
+
+## Civil registration and birth registration
 
 Civil registration and vital statistics sit with **[[rita-tanzania]]**, and the infant-registration
 thread — NIDA's under-five pilot, the mother's-ID linkage workaround and the pending Bill — is held on
-[[tanzania--dpi-id]] rather than here. Reference: **Snapshot of CRVS Systems of Tanzania Mainland**
-([[idrc-crvs-centre-of-excellence]] with [[uneca]]; 2019) — cited, not absorbed.
+[[tanzania--dpi-id]] rather than here. Two dated advances belong on record:
+
+- **eRITA 48-hour birth certificates (2026-01).** RITA's upgraded **eRITA** platform now issues birth
+  certificates **within 48 hours**; **birth registration was ~60% as of 2022** (UNICEF). Source:
+  [[2026-01-06-tanzania-legislative-framework-infant-id-registration]].
+- **BRIDGE-Tanzania (2026-06).** An **EU-funded [[unicef|UNICEF]] initiative** (Aug 2026–Aug 2027) to
+  expand birth registration and legal identity for under-18s across **ten districts in Tanga, Mwanza and
+  Dar**; UNICEF sought a national NGO partner. A **Simplified Birth Registration System** has lifted
+  **under-five registration to ~61–76%** over five years (UNICEF partnering the government since 2012).
+  *(The ~60% (2022) and 61–76% (2026) figures are differently-based estimates — dated, not charted
+  together.)* See [[dpi.id]]. Source: [[2026-06-23-unicef-partner-birth-registration-legal-identity]].
+
+Reference: **Snapshot of CRVS Systems of Tanzania Mainland** ([[idrc-crvs-centre-of-excellence]] with
+[[uneca]]; 2019) — cited, not absorbed.
 
 ## See also
 
@@ -67,6 +90,7 @@ thread — NIDA's under-five pilot, the mother's-ID linkage workaround and the p
 - Concepts: [[dpi.registry]] · [[gov.standards]] · [[digital.localgov]] · [[digital.rural]]
 - Intersections: [[tanzania--dpi-id]] · [[tanzania--gov-protect]]
 - Entities: [[napa-tanzania]] · [[micit-tanzania]] · [[tcra]] · [[tanzania-posts-corporation]] ·
-  [[papu]] · [[upu]] · [[upu-s42]] · [[rita-tanzania]]
+  [[papu]] · [[upu]] · [[upu-s42]] · [[rita-tanzania]] · [[heslb]] · [[unicef]]
 - Mentioned, not hubbed: Arnold Mkude (NaPA); Nicholas Mkapa (Deputy PS, MICIT); Dr Jabiri Bakari
-  (TCRA DG); Dr Sifundo Chief Moyo (PAPU SG).
+  (TCRA DG); Dr Sifundo Chief Moyo (PAPU SG); Jerry Silaa (Communication Minister); Dr Khalid Salum
+  Mohamed (Construction/Transport Minister).
