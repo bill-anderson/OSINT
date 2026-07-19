@@ -798,6 +798,7 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 | Ministry of IT, Communication and Innovation (MITCI) — Mauritius | MUS | gov.policy, dpi.govtech, tech.ai | [[ministry-ict-mauritius]] |
 | Data Protection Office (Mauritius) | MUS | gov.protect, gov.legislate, dpi.id | [[data-protection-office-mauritius]] |
 | Bank of Mauritius (BoM) | MUS | dpi.pay, gov.regional, geopol.india | [[bank-of-mauritius]] |
+| Nam-CSIRT (Namibia Cyber Security Incident Response Team) | NAM | infra.cybersec, data.statistics | [[nam-csirt]] |
 
 ## Initiatives / programmes
 

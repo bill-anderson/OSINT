@@ -23,6 +23,16 @@ last_reviewed: 2026-07-19
   [[2026-07-14-namibia-pushes-cyber-security-reforms-itweb]],
   [[2025-11-21-namibia-cabinet-approves-cyber-crime-proposals-itweb]]. See [[infra.cybersec]], [[gov.legislate]],
   [[gov.protect]].
+- **2026-04-13** — **Cyberattacks +37%; a breach wave and AI-fuelled fraud.** **[[nam-csirt]]**'s 2025 Landscape
+  Report logged **1.7m attacks (+37%)** and **2.23m vulnerabilities** (US$1m FY26/27 budget). A run of major
+  breaches hit **[[telecom-namibia]]** (626GB, Dec 2024), the **Namibia Airports Company** (~500GB, INC
+  ransomware, Mar 2026), **NSFAF** (7,000+ students) and **[[paratus]]**; banking-fraud losses reached **N$73.9m**
+  (2025). Threats are increasingly **AI-driven** — deepfake videos of ministers, municipal double-extortion
+  ransomware. Full picture: **[[namibia--infra-cybersec]]**. Sources:
+  [[2026-04-13-namibia-reports-37-surge-cyberattacks-2025-wearetech]],
+  [[2026-06-21-digital-economy-needs-cybersecurity-namibian]],
+  [[2025-09-17-ai-abuse-overshadows-namibia-e-signature-drive-itweb]]. See [[infra.cybersec]], [[tech.ai]],
+  [[data.statistics]].
 - **2026-07-01** — **e-ID slips to September amid two backlashes.** The **[[namibia-digital-id|e-ID]]** launch,
   first set for **July 2026**, was restated as **September 2026**. It drew a **"microchip-tracking"** panic
   (Omusati protests; Minister Iipumbu rebutted — the chip is in the card, CRIA-2024-compliant) *and* a petition
@@ -136,7 +146,7 @@ last_reviewed: 2026-07-19
 - **2025-02-28** — **ITU cyber Tier 4.** Namibia scored **37.93** on the 2024 ITU Global Cybersecurity Index —
   **Tier 4 ("Evolving")** — signalling gaps in legal, technical and cooperative cyber capacity. Source:
   [[2025-02-28 Namibia ranked in Tier 4 of Global Cybersecurity Index]]. See [[infra.cybersec]],
-  [[data.statistics]].
+  [[data.statistics]], [[namibia--infra-cybersec]].
 - **2025-02** — **Refugee financial inclusion via mobile money.** UNHCR launched **cash-based interventions**
   at the Osire refugee settlement through **[[mtc-namibia|MTC]]** mobile money (~6,000 people), a
   financial-inclusion channel for an excluded population amid drought and funding cuts. Source:
@@ -177,8 +187,9 @@ last_reviewed: 2026-07-19
   <50% utilisation); free internet for schools/clinics under RAN towers ([[emma-theofelus]]).
 - [[dpi.id]] · [[dpi.registry]] · [[gov.legislate]] · [[gov.protect]] — **[[namibia-civil-registration-identification-act-2024|CRIA 2024]]** single Civil Register; **[[namibia-digital-id|national e-ID]]** (Sept 2026, [[ministry-home-affairs-namibia|MHAISS]]/[[undp]]) — microchip-panic + documentation-backlog backlashes; biometric-privacy-vs-weak-DP-law caution — **[[namibia--dpi-id]]**.
 - [[gov.protect]] · [[gov.legislate]] · [[infra.cybersec]] — long-delayed **[[namibia-data-protection-bill|Data
-  Protection Bill]]** (~12 yrs; IPPR data-subject-rights concern) + **Cybercrime Bill** being finalised; govt
-  CSIRT/SOCs; Nam-CSIRT ([[cran]]) — full cyber picture **[[namibia--infra-cybersec]]**.
+  Protection Bill]]** (~12 yrs; IPPR data-subject-rights concern) + **Cybercrime Bill** being finalised;
+  **[[nam-csirt]]** (at [[cran]]) 1.7m attacks +37% (2025); breach wave (Telecom Namibia, Airports, NSFAF); AI
+  deepfake fraud — **[[namibia--infra-cybersec]]**.
 - [[dpi.pay]] · [[gov.regional]] — **[[bank-of-namibia|Bank of Namibia]]** Instant Payment Solution (G2P, Q3-2026); Payment System Management Act 2023; PAPSS courtship; MTC refugee mobile money.
 - [[dpi.mis]] · [[gov.standards]] · [[dpi.exchange]] — National eHealth Strategy 2021-2025; eGA X-Road interoperability; digital-trade regulatory profile.
 
@@ -187,7 +198,7 @@ last_reviewed: 2026-07-19
 - [[huawei]] · [[china-namibia-smart-city]] · [[netumbo-nandi-ndaitwah]]
 - [[telecom-namibia]] · [[telecom-namibia-angola-deals]] · [[emma-theofelus]] · [[paratus]] · [[starlink]] · [[cran]]
 - [[namibia-civil-registration-identification-act-2024]] · [[namibia-digital-id]] · [[ministry-home-affairs-namibia]] · [[mtc-namibia]] · [[bipa-namibia]]
-- [[bank-of-namibia]] · [[namibia-payment-system-management-act-2023]] · [[papss]] · [[undp]] · [[namibia-data-protection-bill]]
+- [[bank-of-namibia]] · [[namibia-payment-system-management-act-2023]] · [[papss]] · [[undp]] · [[namibia-data-protection-bill]] · [[nam-csirt]]
 - Intersections: [[namibia--infra-connect]] · [[namibia--dpi-id]] · [[namibia--infra-cybersec]]
 - Mentioned, not hubbed: Ministry of ICT; Registrar-General (Etienne Maritz, MHAISS ED); Leo Chen (Huawei
   Enterprise); INFOSI, GGPEN, Angola Telecom, SATCAB; NamX / Nampay; Armada / Virtual Space Data Centre.

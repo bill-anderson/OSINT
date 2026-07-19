@@ -12,6 +12,7 @@ entities: []
 lens: []
 retrieved: 2026-07-17
 sweep_batch: NAM-2026-07-17
+body_completeness: excerpt
 ---
 
 # Namibia Boosts Cybersecurity Capacity Through NIPAM–Global Cybersecurity Centre Partnership

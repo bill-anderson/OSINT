@@ -12,6 +12,7 @@ entities: [[cran]]
 lens: []
 retrieved: 2026-07-17
 sweep_batch: NAM-2026-07-17
+body_completeness: excerpt
 ---
 
 # Namibia Reports 37% Surge in Cyberattacks in 2025

@@ -6835,3 +6835,20 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
   (2025-11-21 cabinet CSIRT, 2026-07-14 reforms) also feed [[namibia--infra-cybersec]] (chunk 3).
 - Sources: 2025-08-14 DP bill Sept (Namibian), 2025-08-17 DP bill returns (Namibian Sun), 2025-11-21 cabinet
   cybercrime proposals (itweb), 2026-07-14 cyber reforms (itweb).
+
+## 2026-07-19 — ingest(NAM) chunk 3/6: Cybersecurity events / capacity
+
+- **7 sources admitted, 0 leads, 0 discards.** One paywalled (cyber-threats-surge, free lede only).
+- **Intersection created:** [[namibia--infra-cybersec]] — Tier-4 posture; Nam-CSIRT 1.7m attacks +37% / 2.23m
+  vulns; breach wave (Telecom Namibia 626GB, Airports Co ~500GB INC, NSFAF, Paratus); AI-deepfake fraud
+  ecosystem; bank fraud N$73.9m; Cybercrime/DP bills; govt CSIRT/SOCs; NIPAM + India capacity MoUs. Resolves the
+  chunk-2 forward-ref.
+- **Entity created:** [[nam-csirt]] (government-body — national CSIRT at CRAN).
+- **NAM hub:** +1 Recent-developments entry (cyberattacks +37% / breach wave / AI fraud 2026-04-13); pointer
+  added to the ITU-Tier-4 entry; gov.protect/cyber Active-topics line + Entities +nam-csirt.
+- **Concepts:** [[infra.cybersec]] +NAM (was absent) +breach-wave bullet (+places/footer); [[geopol.india]]
+  +NAM +Nandi-Ndaitwah–Modi MoU bullet (+places).
+- **entities-index:** +nam-csirt.
+- Sources: 2025-07-10 India cyber MoU (itweb), 2025-07-30 threats surge [CLIP] (Namibian Sun), 2025-09-17
+  deepfake/e-signature (itweb), 2025-11-25 banks fraud summit (itweb), 2026-04-13 NAM-CSIRT report (wearetech),
+  2026-06-09 NIPAM MoU (techafricanews), 2026-06-21 breach chronicle (Namibian).

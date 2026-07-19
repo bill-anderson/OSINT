@@ -12,6 +12,7 @@ entities: [[telecom-namibia], [bank-of-namibia], [cran]]
 lens: [sovereignty]
 retrieved: 2026-07-17
 sweep_batch: NAM-2026-07-17
+body_completeness: excerpt
 ---
 
 # Namibia's Digital Economy Needs Cybersecurity as Much as It Needs Connectivity (Opinion)

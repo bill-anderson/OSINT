@@ -2,7 +2,7 @@
 type: concept
 title: India activities
 slug: geopol.india
-places: [AGO, XGL, MAR, XAF, BDI, MUS]
+places: [AGO, XGL, MAR, XAF, BDI, MUS, NAM]
 entities: [[david-eaves], [mosip], [nandan-nilekani], [gates-foundation], [india-stack]]
 lens: [sovereignty]
 status: active
@@ -41,6 +41,11 @@ India's DPI model and its export as a template for other states.
   Sources: [[2026-06-30-burundi-india-stack-digital-id-payments-biometricupdate]],
   [[2026-06-23-burundi-studies-india-stack-digital-id-payments]].
 
+- **[[NAM]] Namibia — a State House MoU spanning cyber and UPI (2025-07).** President **Nandi-Ndaitwah** and
+  PM **Modi** signed an MoU in Windhoek covering **cyber security**, the **Unified Payments Interface (UPI)**,
+  digital governance and emerging tech (plus defence, critical minerals, an Entrepreneurship Development Centre)
+  — India's digital-cooperation diplomacy reaching south-west Africa. See [[namibia--infra-cybersec]],
+  [[infra.cybersec]], [[dpi.pay]]. Source: [[2025-07-10-namibia-india-cyber-security-alliance-itweb]].
 - **[[MUS]] Mauritius — UPI-RuPay cross-border link (2024→2026).** The **[[bank-of-mauritius|Bank of
   Mauritius]]** launched the **UPI-RuPay partnership with India in February 2024** — Mauritius's **first
   bilateral cross-border payments agreement** — enabling interoperability with India's UPI rail and pointing
@@ -50,7 +55,7 @@ India's DPI model and its export as a template for other states.
 
 ## Places
 
-[[XGL]] · [[MAR]] · [[XAF]] · [[BDI]] · [[MUS]]
+[[XGL]] · [[MAR]] · [[XAF]] · [[BDI]] · [[MUS]] · [[NAM]]
 
 ## Related
 

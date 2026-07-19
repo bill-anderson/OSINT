@@ -2,7 +2,7 @@
 type: concept
 title: Cybersecurity
 slug: infra.cybersec
-places: [MRT, ZMB, ZAF, XAF, NGA, MOZ, RWA, BEN, GHA, KEN, MUS, LBR, XEA, XSS, CMR, BFA, EGY, SDN, SEN, ZWE, DZA, UGA, DJI, CPV, SOM, AGO, MLI]
+places: [MRT, ZMB, ZAF, XAF, NGA, MOZ, RWA, BEN, GHA, KEN, MUS, LBR, XEA, XSS, CMR, BFA, EGY, SDN, SEN, ZWE, DZA, UGA, DJI, CPV, SOM, AGO, MLI, NAM]
 entities: [[dzap], [research-ict-africa], [smart-africa], [afnic], [nimc], [mozambique-cyber-security-law], [realtyme], [smart-africa-realtyme-partnership], [sadx], [sa-digital-id-regulations], [popia], [world-bank], [mosip], [id4africa], [eac], [antic-cameroon], [patnuc], [bf-ministry-digital-transition], [alliance-of-sahel-states], [anssi-mali], [agetic], [intic-mozambique], [cybastion], [securoute], [asin-benin], [zte], [hikvision], [huawei], [bio-key-international], [runlevel], [simo-mozambique], [kenya-cyber-resilience-project], [expertise-france], [estdev], [european-union], [nira-nigeria], [nitda]]
 lens: [sovereignty]
 status: active
@@ -17,6 +17,17 @@ how "cyber threat" is defined and acted on.
 
 ## Key material
 
+- **[[NAM]] Namibia — digital build outrunning defences (2025-2026).** A **Tier-4 ("evolving")** posture
+  (37.93/100 ITU 2024; NDP6 readiness 37 vs a 65 target) meets a fast-rising threat curve: **[[nam-csirt]]**
+  logged **1.7m attacks (+37%)** and **2.23m vulnerabilities** in 2025, and a run of major ransomware breaches
+  (**Telecom Namibia** 626GB, the **Namibia Airports Company** ~500GB via INC, NSFAF, Paratus). Threats are
+  increasingly **AI-driven** (deepfake videos of ministers pushing fake investment schemes; municipal
+  double-extortion ransomware). Law lags — the **Cybercrime** and **Data Protection** bills are still being
+  finalised — while capacity-building (NIPAM–Global Cybersecurity Centre; an India cyber MoU) races the curve.
+  Full picture: **[[namibia--infra-cybersec]]**. Sources:
+  [[2026-04-13-namibia-reports-37-surge-cyberattacks-2025-wearetech]],
+  [[2026-06-21-digital-economy-needs-cybersecurity-namibian]],
+  [[2025-09-17-ai-abuse-overshadows-namibia-e-signature-drive-itweb]].
 - **[[MUS]] Mauritius — a CII regime and the social-media-verification debate (2026).** Mauritius promulgated
   its first **Cybersecurity and Cybercrime (Critical Information Infrastructure Designation) Regulations 2026**
   (in force 1 Jun 2026; 12-month compliance), letting the **National Cybersecurity Committee** designate
@@ -213,7 +224,7 @@ how "cyber threat" is defined and acted on.
 
 ## Places
 
-[[AGO]] · [[ZMB]] · [[ZAF]] · [[XAF]] · [[NGA]] · [[MOZ]] · [[RWA]] · [[BEN]] · [[GHA]] · [[KEN]] · [[MUS]] · [[LBR]] · [[XEA]] · [[XSS]] · [[CMR]] · [[BFA]] · [[EGY]] · [[SDN]] · [[SEN]] · [[ZWE]] · [[DZA]] · [[UGA]] · [[SOM]] · [[GNB]] · [[MLI]]
+[[AGO]] · [[ZMB]] · [[ZAF]] · [[XAF]] · [[NGA]] · [[MOZ]] · [[RWA]] · [[BEN]] · [[GHA]] · [[KEN]] · [[MUS]] · [[LBR]] · [[XEA]] · [[XSS]] · [[CMR]] · [[BFA]] · [[EGY]] · [[SDN]] · [[SEN]] · [[ZWE]] · [[DZA]] · [[UGA]] · [[SOM]] · [[GNB]] · [[MLI]] · [[NAM]]
 
 ## Sources
 

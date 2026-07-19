@@ -12,6 +12,7 @@ entities: [[bank-of-namibia], [cran]]
 lens: []
 retrieved: 2026-07-17
 sweep_batch: NAM-2026-07-17
+body_completeness: excerpt
 ---
 
 # Namibia partners with banks to combat fraud

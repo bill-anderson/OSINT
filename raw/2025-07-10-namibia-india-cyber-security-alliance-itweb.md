@@ -12,6 +12,7 @@ entities: [[netumbo-nandi-ndaitwah]]
 lens: [sovereignty]
 retrieved: 2026-07-17
 sweep_batch: NAM-2026-07-17
+body_completeness: excerpt
 ---
 
 # Namibia forms cyber security alliance with India
