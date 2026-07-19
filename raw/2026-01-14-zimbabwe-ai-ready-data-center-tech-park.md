@@ -10,6 +10,7 @@ places: [ZWE]
 topics: [infra.store, tech.ai, finance.new, gov.policy]
 entities: [[econet-wireless-zimbabwe], [econet-infraco], [ministry-of-ict-postal-and-courier-services-zimbabwe]]
 lens: [sovereignty]
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: ZWE-2026-07-17
 ---

@@ -10,6 +10,7 @@ places: [ZWE, ZAF]
 topics: [tech.ai, infra.store, geopol.usa, finance.new]
 entities: [[strive-masiyiwa], [james-manyika], [liquid-c2], [econet-group], [google], [cassava-technologies]]
 lens: [sovereignty]
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: ZWE-2026-07-17
 ---

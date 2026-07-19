@@ -10,6 +10,7 @@ places: [ZWE]
 topics: [tech.ai, infra.store, gov.policy]
 entities: [[zimbabwe-national-ai-strategy], [potraz], [ai-strategy-implementation-office-zimbabwe]]
 lens: [sovereignty]
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: ZWE-2026-07-17
 ---

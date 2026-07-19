@@ -191,8 +191,11 @@ doubles as the data protection authority** — there is no separate DPA.
 - [[infra.connect]] · [[infra.capacity]] · [[include.access]] · [[digital.rural]] —
   Botswana–Zimbabwe–Zambia fibre spine; Starlink uptake; free public Wi-Fi rollout.
 - [[gov.regional]] — cross-border corridor to Zambia, Botswana, South Africa.
-- [[tech.ai]] · [[capacity.training]] — National AI Strategy (54-country review); 1.5m
-  coding programme with the UAE; AI-readiness framing of connectivity.
+- [[tech.ai]] · [[capacity.training]] · [[infra.store]] — extracted: **[[zimbabwe--tech-ai]]** — the National
+  AI Strategy 2026–2030 (AISIO, Sovereign National Cloud, "data is our heritage", National AI Act) vs a **0
+  score on responsible-AI governance** (CIPESA); the private compute layer (Econet AI's Cassava GPU possibly
+  offshore; Liquid C2's Google Cloud partner centre exporting Zimbabwean-owned infra). Also 1.5m coding
+  programme with the UAE; AI-readiness framing of connectivity.
 - [[geopol.usa]] · [[gov.protect]] · [[dpi.mis]] — rejection of the US health MoU over
   health-data-sovereignty and critical-minerals concerns.
 - [[infra.cybersec]] · [[geopol.china]] — Chinese smart-city surveillance without oversight;

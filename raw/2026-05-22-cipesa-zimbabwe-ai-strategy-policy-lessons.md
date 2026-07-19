@@ -10,6 +10,7 @@ places: [ZWE]
 topics: [tech.ai, gov.policy, gov.regional]
 entities: [[zimbabwe-national-ai-strategy], [cipesa], [african-union]]
 lens: [sovereignty, colonialism]
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: ZWE-2026-07-17
 ---

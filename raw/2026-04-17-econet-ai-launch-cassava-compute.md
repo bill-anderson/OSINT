@@ -10,6 +10,7 @@ places: [ZWE]
 topics: [tech.ai, infra.store, tech.innovate]
 entities: [[econet-wireless-zimbabwe], [cassava-technologies], [econet-ai]]
 lens: [sovereignty]
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: ZWE-2026-07-17
 ---
