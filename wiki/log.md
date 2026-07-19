@@ -7714,3 +7714,7 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
 ## 2026-07-19 ingest(ZMB) chunk 2 — E-government, govtech & local government (7 sources)
 - Created zambia--dpi-govtech: SMART Zambia in-house/local-vendor whole-of-government digitisation — SMART Office e-registry (MoH/Luapula, K400m savings); PMIS property system (CoreLink, ZamPortal/ZamPay); CTMIS contract tracking (AG's Chambers); LCC first of 116 councils on ZamPortal (e-Council rollout by 30 Jun 2026); GWAN NW Province + SmartCare Pro 80% + ZNSDI GeoPortal; E-Gov Act No. 41/2021 Amendment Bill (anti-corruption "remove the human factor"). Read: local-build sovereignty govtech atop thin connectivity/civil registration.
 - Created entities zamportal, zampay, lusaka-city-council, ministry-of-health-zambia. News Diggers clips stamped lede-only. 0 prunes. Dead-link NONE.
+
+## 2026-07-19 ingest(ZMB) chunk 3 — Payments & digital finance (3 sources)
+- Extended zambia--dpi-pay: government-as-collector (GSB/GEPG/ZamPortal/ZamPay collected K8.8bn/$488m, 400+ services, 8/116 councils); local fintech on the rail — Zoyk-Visa SADC cross-border partnership; Dot Com Zambia (LuSE-listed, eToll/eLevy) + digital-ID "single source of truth" KYC (Ghana/Mauritius ties). Read: state collection rail + local fintechs plugging in, tied to national digital ID; reach the constraint.
+- Created entities zoyk, dot-com-zambia, ministry-of-finance-zambia, ministry-of-technology-and-science-zambia. 0 prunes. Dead-link NONE.
