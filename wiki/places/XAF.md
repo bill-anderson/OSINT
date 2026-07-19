@@ -31,6 +31,19 @@ rule, is all `XAF` children except `XNA`; `XGL` is for non-Africa-specific/globa
   Eritrea, Libya, Seychelles, Tanzania, Western Sahara). Sources:
   [[2025-04-04 Africa Declaration on Artificial Intelligence]],
   [[2025-05-13 Optimism but uncertainty over Africa's AI Declaration]]. See [[tech.ai]], [[gov.policy]].
+- **2025-07 → 2026-07** — **Regional payment integration converges on local-currency, interoperable rails.**
+  Four blocs advanced instant cross-border payment infrastructure in parallel, all framed around **financial
+  sovereignty** (settling in local African currencies, off the US dollar): **[[papss]]** admitted
+  **[[beac]]** (the [[cemac]] central bank, six Central-African states), reaching **28 countries / 190+ banks
+  / 16 switches** with a **[[bceao]]** (West Africa) pilot to follow — "a single African network"; the
+  **[[comesa]] Digital Retail Payments Platform (DRPP)** launched (21 states, 640m people; Malawi–Zambia
+  pilot; targeting **<3% cost, down from ~8%**); **[[bceao]]**'s **PI-SPI** instant-payment interoperability
+  platform (launched **30 Sept 2025**, mandatory connection, one link covering all 8 **[[waemu]]** states,
+  **A2A settlement <5 seconds, free**, replacing 48h/12,000-CFA transfers), alongside a mandatory **CAF-STI/SSI
+  cyber-certification** ([[gim-uemoa]]); and the **[[eac]]–[[igad]] [[eardip|EARDIP]]** workshop (9 states,
+  World Bank) harmonising payment frameworks. Sources: [[2026-07-09-beac-joins-papss-central-africa]],
+  [[2025-10-10-comesa-digital-retail-payments-platform]], [[2026-07-14-waemu-unified-fintech-market]],
+  [[2025-07-09-eac-igad-seamless-digital-payments]]. See [[dpi.pay]], [[gov.regional]], [[finance.new]].
 - **2026-07-13** — **ITU–ICPC submarine-cable Advisory Body publishes final report.** The
   two-year International Advisory Body for Submarine Cable Resilience ([[international-cable-protection-committee]],
   [[itu]]; co-chair [[bosun-tijani]]) approved a three-pillar roadmap — faster deploy/repair, risk

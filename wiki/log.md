@@ -7768,3 +7768,8 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
 - GAP-ZWE-003 updated: deeds pilot commenced (4 Apr 2026), deadline dated ~18 Jul 2027 (trigger-date framing now stated two ways — recorded).
 - 0 contradictions/gaps/issues filed (existing ZWE items — internet-penetration N/A, econet-infraco-founding, GAP-ZWE-001/002/004 — remain).
 - Through-line reinforced: architecture-vs-operation gap (Starlink kits gathering dust; ID-backlog denial; deeds gazetted-then-piloted; sovereign-AI ambition with 0 governance score and possibly-offshore compute); state-shaped connectivity/payments with statist paralysis (TelOne arrears, idle NetOne One Wallet); and the ZiG monetary-sovereignty-vs-usability paradox.
+
+## 2026-07-19 ingest(XAF) chunk 1 — Regional payment integration (4 sources; 2 pruned)
+- Added consolidated XAF hub entry: continental payment convergence on local-currency interoperable rails — PAPSS +BEAC/CEMAC → 28 countries (BCEAO pilot to follow); COMESA DRPP (21 states, <3% cost target); BCEAO PI-SPI (8 WAEMU states, A2A <5s free, mandatory connection + CAF-STI/SSI cyber-cert); EAC-IGAD EARDIP workshop (9 states). Financial-sovereignty framing.
+- Created entities gim-uemoa, igad (beac/cemac/comesa/bceao/waemu/eac/eardip/papss/afreximbank already held).
+- PRUNE (lint #7, exact-URL held): 2026-07-16 SCRYPT stablecoin (held via UGA batch), 2026-05-04 NCRCBSI satellite (held via UGA batch) — deleted from new/, held copies retained. Dead-link NONE.
