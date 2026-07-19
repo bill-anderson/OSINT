@@ -10,6 +10,7 @@ places: [SWZ]
 topics: [dpi.id, dpi.registry, gov.protect]
 entities: [[ministry-of-home-affairs-eswatini]]
 lens: [sovereignty]
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: SWZ-2026-07-17
 ---

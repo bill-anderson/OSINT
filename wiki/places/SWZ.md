@@ -155,7 +155,7 @@ The rails exist; usage lags them.
 - [[dpi.id]] · [[dpi.registry]] — no digital ID rolled out in earnest as of mid-2024. The
   **national population register** is identified by the World Bank as the foundation robust DPI
   requires. ID ownership was **88% of adults**, against a **78%** average for eligible individuals
-  over 15 (both 2021–2022).
+  over 15 (both 2021–2022). ID-card production was suspended (Sep 2025) then resumed (Feb 2026); rights flashpoints (school-gate biometrics, a Home Affairs data breach, compulsory-DNA-for-birth-certs). Full case: [[eswatini--dpi-id]].
 - [[dpi.pay]] — [[eswatini-payment-switch]] Fast Payments live since 2024-12-11, under the National
   Payment Systems Strategy 2022–2025 ([[central-bank-of-eswatini]]); **over 90% of P2B payments
   still cash-based (2025-08-05)**; national e-KYC, National FinTech Strategy 2025-2030, SIIPS entrant.

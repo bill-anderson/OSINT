@@ -10,6 +10,7 @@ places: [SWZ]
 topics: [dpi.id, gov.protect, include.access]
 entities: [[ministry-of-education-and-training-eswatini]]
 lens: [sovereignty]
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: SWZ-2026-07-17
 ---
