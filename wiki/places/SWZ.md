@@ -158,7 +158,8 @@ The rails exist; usage lags them.
   over 15 (both 2021–2022).
 - [[dpi.pay]] — [[eswatini-payment-switch]] Fast Payments live since 2024-12-11, under the National
   Payment Systems Strategy 2022–2025 ([[central-bank-of-eswatini]]); **over 90% of P2B payments
-  still cash-based (2025-08-05)**.
+  still cash-based (2025-08-05)**; national e-KYC, National FinTech Strategy 2025-2030, SIIPS entrant.
+  Full case: [[eswatini--dpi-pay]].
 - [[dpi.govtech]] — [[government-in-your-hand]] and [[digital-eswatini-project]] (P508948,
   US$65.16m proposed; approval unconfirmed).
 - [[dpi.mis]] · [[digital.rural]] — [[eswatini-cbhis]] / [[eswatini-cmis]] under the
