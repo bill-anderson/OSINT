@@ -9,6 +9,7 @@ date_precision: day
 date_source: source
 retrieved: 2026-07-17
 sweep_batch: RWA-2026-07-17
+body_completeness: excerpt
 places: [RWA]
 topics: [dpi.pay, gov.regional, finance.mou]
 entities: [[national-bank-of-rwanda], [eac-cross-border-payment-masterplan]]

@@ -19,8 +19,12 @@ last_reviewed: 2026-07-16
   **any bank or e-money provider** on one rail, merchant pay-from-any-wallet, capped at a
   **RWF 20** fee and **RWF 10m** per transaction, over existing USSD/app/internet-banking
   channels with no new app. Turns eKash (launched Dec 2025) into a fully interoperable national
-  utility — the A2A exchange layer of the **[[rwanda-dpi-strategy]]**. Source (low-authority
-  aggregator; verify vs the BNR directive):
+  utility — the A2A exchange layer of the **[[rwanda-dpi-strategy]]**; now connects **22
+  financial institutions**, next phase adds government services + cross-border. Full case:
+  [[rwanda--dpi-pay]]. (BNR Directive 45/2026 corroborated by ITWeb + We Are Tech, resolving the
+  earlier aggregator-only flag.) Sources:
+  [[2026-07-14-migrates-retail-payments-ekash-itweb]],
+  [[2026-07-15-ekash-nationwide-interoperable-wearetech]],
   [[2026-07-13 Rwanda's eKash System Achieves Full Interoperability for Digital Payments]].
   See [[dpi.pay]], [[dpi.exchange]], [[include.access]].
 - **2026-07-10** — **First EAC cross-border instant-payment corridor (RSwitch↔TIPS).**

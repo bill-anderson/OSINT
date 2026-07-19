@@ -7154,3 +7154,16 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
   RISA data-sharing platform (Mizero, live 2026), RDAP $200m WB spine (55%), Tanzania interoperability
   comparison (silos critique), NCSA "year of accountability" data-protection enforcement. +5 sources.
 - One partial-body clip (2025-10-15 Mbaza) staged excerpt — see Flags.
+
+## 2026-07-19 — ingest(RWA) chunk 3: Payments & digital finance
+
+- **8 admitted, 2 pruned** (eKash cluster adjudicated per lint #7: kept ITWeb 07-14 / We Are Tech
+  07-15 / New Times 07-16 for distinct payload; pruned TechAfrica 07-13 — relevant-duplicate of the
+  held 2026-07-13 aggregator — and 2025-12-08 launch, relevant-duplicate of held 2025-12-05).
+- **Created:** [[rwanda--dpi-pay]] — eKash national interoperable rail (Directive 45/2026, 22
+  institutions, African-built/Mojaloop), EAC cross-border roadmap + Kenya-Rwanda licence passporting
+  (CBK-NBR MoU), inclusion 93-96% "access to depth", Rwanda FinTech Centre (100+ fintechs), Hanga
+  showcase, draft virtual-assets law. +8 sources.
+- **Resolved hub flag:** the eKash-interoperability "low-authority aggregator; verify" caveat is
+  cleared — ITWeb + We Are Tech corroborate BNR Directive 45/2026 (tier-2, itemised).
+- One partial-body clip (2026-07-16 eKash editorial) staged excerpt — see Flags.
