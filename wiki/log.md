@@ -6689,3 +6689,18 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
 - Sources: 2026-07-06 Sept launch (times), 2026-06-11 Nzika Wallet (itweb), 2026-01-16 birth-reg K17.8bn
   (malawi24), 2025-10-27 NRB Strategic Plan (biometricupdate), 2025-05-26 2026 target (techafricanews),
   2025-01-07 ICTAM ID-integration (times).
+
+## 2026-07-19 — ingest(MWI) chunk 2/7: Data governance & protection
+
+- **3 sources admitted, 0 leads, 0 discards.**
+- **Entities updated:** [[macra-malawi]] (+DPA role: draft registration regs + turnover-based fees; DPA+MwCERT
+  independence plan w/ World Bank TA; +infra.cybersec topic; +3 sources); [[malawi-data-protection-act-2024]]
+  (+operationalisation via registration regs; +2 sources).
+- **MWI hub:** +1 Recent-developments entry (DPA registration regime + regulator independence, 2026-07-16);
+  gov.protect Active-topics line enriched; +infra.cybersec, gov.legislate topics.
+- **Concept:** [[gov.protect]] — MWI "DPA build-out" bullet enriched (MACRA-as-DPA registration fees, DPA/MwCERT
+  independence).
+- **Dedup note:** the two MACRA fee clips (malawi24 MWK figures + United General Insurance concern; itweb USD
+  figures + PS Msusa quote) kept as **complementary** (same Mount Soche consultation, distinct payloads).
+- Sources: 2026-07-16 registration compliance (malawi24), 2026-07-14 fee consultation (itweb), 2026-03-26 World
+  Bank cyber/DPA support (techafricanews).

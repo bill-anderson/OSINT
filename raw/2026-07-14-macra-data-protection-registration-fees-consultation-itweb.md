@@ -12,6 +12,7 @@ entities: [[macra-malawi], [malawi-data-protection-act-2024]]
 lens: []
 retrieved: 2026-07-17
 sweep_batch: MWI-2026-07-17
+body_completeness: excerpt
 ---
 
 # Malawi advances data protection framework

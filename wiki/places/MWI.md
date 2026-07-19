@@ -4,7 +4,7 @@ title: Malawi
 code: MWI
 parent: XSA
 place_kind: country
-topics: [dpi.govtech, dpi.exchange, dpi.id, infra.store, gov.protect, finance.new, dpi.mis, data.statistics, gov.policy, capacity.training, gov.standards, capacity.research, tech.ai, include.access, digital.localgov, dpi.pay]
+topics: [dpi.govtech, dpi.exchange, dpi.id, infra.store, gov.protect, finance.new, dpi.mis, data.statistics, gov.policy, capacity.training, gov.standards, capacity.research, tech.ai, include.access, digital.localgov, dpi.pay, infra.cybersec, gov.legislate]
 status: active
 last_reviewed: 2026-07-19
 ---
@@ -13,6 +13,15 @@ last_reviewed: 2026-07-19
 
 ## Recent developments
 
+- **2026-07-16** — **Operationalising data protection: registration regime + regulator independence.**
+  **[[macra-malawi|MACRA]]**, the designated **Data Protection Authority**, consulted on **Draft Data Protection
+  Regulations + turnover-based registration fees** (K50,000/~$29 → K7m/>$4,000) making registration mandatory
+  for organisations processing personal data. Separately (Mar 2026), with **[[world-bank]]** TA, it plans to
+  spin the **DPA** and **MwCERT** into **independent institutions**. Sources:
+  [[2026-07-16-macra-data-protection-registration-compliance-malawi24]],
+  [[2026-07-14-macra-data-protection-registration-fees-consultation-itweb]],
+  [[2026-03-26-world-bank-cybersecurity-data-protection-support-techafricanews]]. See [[gov.protect]],
+  [[gov.legislate]], [[infra.cybersec]].
 - **2026-07-13** — **Digital ID at near-universal coverage; mobile transition begins.** Malawi
   has issued trusted national digital IDs to **>13.5m** citizens — **~99% of those aged 16+** —
   reaching the brink of universal coverage (150,000+ enrolled Apr–Jun, **53% women**), on
@@ -152,8 +161,9 @@ last_reviewed: 2026-07-19
   Mutharika's "digital revolution" directive to move all MDA services online.
 - [[gov.policy]] · [[tech.ai]] — Draft National Digital Transformation + AI Strategies in
   validation ([[malawi-ministry-of-ict]] / [[undp]]); Malawi 2063 alignment.
-- [[gov.protect]] — data privacy as cornerstone; "Privacy by Design"; the
-  **[[malawi-data-protection-act-2024]]**.
+- [[gov.protect]] · [[infra.cybersec]] — data privacy as cornerstone; "Privacy by Design"; the
+  **[[malawi-data-protection-act-2024]]**; **[[macra-malawi|MACRA]]** as DPA with draft registration
+  regulations/fees; DPA + **MwCERT** to become independent institutions (World Bank TA).
 - [[digital.localgov]] · [[dpi.pay]] — Blantyre City Council digitises tax/revenue collection.
 - [[dpi.id]] · [[dpi.registry]] — **near-universal foundational ID** (>13.5m; ~99% of 16+;
   [[national-registration-bureau-malawi]] / [[undp]]); mobile-ID transition + registration-law

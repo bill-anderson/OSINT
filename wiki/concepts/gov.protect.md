@@ -206,7 +206,11 @@ Personal-data regimes across African jurisdictions — and the friction their
   Feb 2026, [[somalia-ministry-communications-technology]]) to operationalise its existing statute;
   **[[MOZ]] Mozambique**'s **[[intic-mozambique]]** launched a pilot **data-breach reporting
   platform** (Feb 2026); and **[[MWI]] Malawi** used Data Privacy Week (Jan 2026) to declare
-  "Privacy by Design" and its **[[malawi-data-protection-act-2024]]** "no longer optional."
+  "Privacy by Design" and its **[[malawi-data-protection-act-2024]]** "no longer optional" — and by mid-2026 is
+  **operationalising** it: **[[macra-malawi|MACRA]]** (the designated DPA) drafted **registration regulations
+  with turnover-based fees** (K50,000/~$29 → K7m/>$4,000) and, with World Bank TA, plans to spin the **DPA and
+  MwCERT into independent institutions** ([[2026-07-16-macra-data-protection-registration-compliance-malawi24]],
+  [[2026-03-26-world-bank-cybersecurity-data-protection-support-techafricanews]]).
   Enforcement capacity, not statute count, is the live question (cf. the ID4Africa formula above).
   See [[dpi.govtech]], [[gov.legislate]]. Sources:
   [[2026-01-22 Congo-Brazzaville intros data protection commission]],
