@@ -7646,3 +7646,7 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
 ## 2026-07-19 ingest(UGA) chunk 6 — Data protection & digital rights (4 sources)
 - Created uganda--gov-protect: PDPO's assertive Big-Tech enforcement doctrine (Ssekamwa v Google 2025 — no registration + cross-border without safeguards, extraterritorial reach; AdLegal v WhatsApp/Meta 2026 — data minimisation breach, Meta joined, equivalent-protection, "material harm" incl. dignity); first local prosecution (Vuka Africa, DPPA ss.5/35/36); "Beera Ku Guard" awareness campaign (only 13.6% grasp DP; cybercrime +93.5% 2024); CIPESA digital-rights dialogue. Read: robust vs private sector, permissive of the state (selective enforcement vs hub's 2026-polls record + NIRA breach).
 - Mapped clip aliases [[nita-u]]→[[nita-uganda]], [[whatsapp]]→[[meta]]. 0 prunes. Dead-link NONE.
+
+## 2026-07-19 ingest(UGA) chunk 7 — Cybersecurity & cyber-law (4 sources)
+- Created uganda--infra-cybersec: threat curve (financial-sector targeting, Milima ISO 27001, 446 cases/72.1bn 2024; NISF 2026 + 60% YoY attack rise incl. UGX 62bn central-bank incident); Computer Misuse Act nullification (Constitutional Court struck ss.11/23/26-29 + Penal Code criminal libel — quorum + vagueness; removes state online-speech tool); UCC anti-piracy/content-blocking framework (DNS/IP blocking; pay-TV subs 1.65m→800k) with dual-use-vs-shutdown caveat. Read: securing the network vs securing the narrative, institutions pulling opposite ways.
+- Mapped clip alias [[nita-u]] → [[nita-uganda]]. 0 prunes. Dead-link NONE.

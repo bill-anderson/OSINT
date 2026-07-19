@@ -179,8 +179,11 @@ days, two days before a presidential election — reminding every layer above it
   financial-service barriers; refugee misidentification risk in Adjumani; NFIS II widening priority
   groups to add **refugees and PWDs**.
 - [[dpi.mis]] · [[data.statistics]] · [[geopol.usa]] — DHIS2 resilience through the 2025 US health cuts.
-- [[infra.cybersec]] · [[geopol.china]] — Chinese "safe city" surveillance suppliers; the ID database
-  access mechanism ([[acme-uganda]], [[nick-opiyo]]).
+- [[infra.cybersec]] · [[geopol.china]] — extracted: **[[uganda--infra-cybersec]]** (NISF 2026; 60% YoY
+  attack rise incl. a UGX 62bn central-bank incident; the **Constitutional Court nullifying Computer Misuse
+  Act ss.11/23/26–29 + criminal libel**; UCC anti-piracy DNS/IP-blocking framework — the dual-use tension).
+  Chinese "safe city" surveillance suppliers; the ID database access mechanism ([[acme-uganda]],
+  [[nick-opiyo]]).
 - [[tech.innovate]] · [[capacity.research]] — the local DPI innovation pipeline
   ([[google-for-startups-accelerator-africa]]); the mobile-money data-access gap.
 
