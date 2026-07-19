@@ -10,6 +10,7 @@ places: [ZWE]
 topics: [dpi.pay, include.access, digital.rural]
 entities: [[o-mari], [ecocash], [innbucks], [netone], [old-mutual], [afc-holdings-zimbabwe], [zipit]]
 lens: []
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: ZWE-2026-07-17
 ---

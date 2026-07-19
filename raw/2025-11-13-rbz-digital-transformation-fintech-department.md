@@ -10,6 +10,7 @@ places: [ZWE]
 topics: [dpi.pay, gov.policy, tech.innovate]
 entities: [[reserve-bank-of-zimbabwe]]
 lens: []
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: ZWE-2026-07-17
 ---

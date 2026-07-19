@@ -10,6 +10,7 @@ places: [ZWE]
 topics: [dpi.pay, finance.new, data.statistics]
 entities: [[reserve-bank-of-zimbabwe], [zimswitch]]
 lens: []
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: ZWE-2026-07-17
 ---

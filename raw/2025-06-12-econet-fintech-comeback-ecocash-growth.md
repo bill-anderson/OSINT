@@ -10,6 +10,7 @@ places: [ZWE]
 topics: [dpi.pay, infra.connect, finance.new]
 entities: [[econet-wireless-zimbabwe], [ecocash], [ecocash-holdings]]
 lens: []
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: ZWE-2026-07-17
 ---
