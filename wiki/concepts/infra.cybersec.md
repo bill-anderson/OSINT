@@ -6,7 +6,7 @@ places: [MRT, ZMB, ZAF, XAF, NGA, MOZ, RWA, BEN, GHA, KEN, MUS, LBR, XEA, XSS, C
 entities: [[dzap], [research-ict-africa], [smart-africa], [afnic], [nimc], [mozambique-cyber-security-law], [realtyme], [smart-africa-realtyme-partnership], [sadx], [sa-digital-id-regulations], [popia], [world-bank], [mosip], [id4africa], [eac], [antic-cameroon], [patnuc], [bf-ministry-digital-transition], [alliance-of-sahel-states], [anssi-mali], [agetic], [intic-mozambique], [cybastion], [securoute], [asin-benin], [zte], [hikvision], [huawei], [bio-key-international], [runlevel], [simo-mozambique], [kenya-cyber-resilience-project], [expertise-france], [estdev], [european-union], [nira-nigeria], [nitda]]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-18
+last_reviewed: 2026-07-19
 sources: [[2025-09-11 DZAP World Bank PAD], [2025-01-01 South African Digital Sovereignty at the Crossroad of Securitization and Development (Chapter 4) - Digital Sovereignty in the BRICS Countries], [2026-07-09 Smart Africa and AFNIC Partner to Strengthen Africa's Internet Infrastructure], [2026-07-09 NIMC Act 2026 Director-General Coker-Odusote Launches 8,809-Ward Digital ID Drive], [2026-04-17 Mozambique parliament unanimously approves Cyber Security Law], [2026-04-16 Smart Africa, RealTyme join forces for data sovereignty], [2026-04-27 Smart Africa drives cross-border data interoperability through SADX Technical Mission], [2026-04-21 South Africa's digital ID gets a targeted launch date], [2026-05-16 World Bank, African DPAs outline formula for trusted digital identity, DPI], [2026-01-22 Cameroon boosts cyber defense systems], [2026-01-27 Cameroon deploys cybersecurity system to protect DPI, boost digital trust], [2026-01-22 Burkina Faso aims for digital sovereignty with infrastructure supervision center], [2026-02-06 Mozambique intros data breach platform], [2026-01-27 Cybastion Advances Digital Government Solutions, Supports Benin's SECUROUTE Infrastructure Upgrade], [2026-03-01 Smart City Surveillance in Africa (IDS 2026)], [2026-02-24 BIO-key and RunLevel Deploy Biometric IAM Across Mozambique's National Payments Network], [2026-01-27 Kenya launches project to boost cyber security], [2026-01-21 How foreign domains compromise digital identity]]
 ---
 
@@ -17,6 +17,15 @@ how "cyber threat" is defined and acted on.
 
 ## Key material
 
+- **[[MUS]] Mauritius — a CII regime and the social-media-verification debate (2026).** Mauritius promulgated
+  its first **Cybersecurity and Cybercrime (Critical Information Infrastructure Designation) Regulations 2026**
+  (in force 1 Jun 2026; 12-month compliance), letting the **National Cybersecurity Committee** designate
+  critical systems across finance, public service, ICT/broadcasting, energy/water and transport, with
+  **penalties up to 25 years / Rs 2M**. In parallel, MITCI opened consultations toward a **social-media
+  identity-verification mechanism** (2,300 online-harm cases Jan–Jun 2026) — pitting cybercrime control against
+  privacy and free expression. See **[[mauritius--infra-cybersec]]**, [[gov.legislate]], [[dpi.id]]. Sources:
+  [[2026-06-30-cii-cyber-laws-framework-itweb]],
+  [[2026-06-07-social-media-identity-verification-consultations-lexpress]].
 - **[[ZMB]] Zambia (2025).** [[dzap]] Component 2 is "Interoperable **and secure**
   platforms" — secure data hosting and a Cybersecurity Incident Response Team (CIRT)
   underpin the DPI stack ([[dpi.exchange]], [[dpi.id]]). Security, privacy and

@@ -7,7 +7,7 @@ topics: [infra.connect, infra.store, tech.ai, dpi.pay]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-19
-sources: [[2026-01-21-mauritius-telecom-strategy-2026-2029-bridging-africa-asia-lexpress], [2025-12-08-mauritius-telecom-connect-strategy-launch-techafricanews], [2025-12-31-rose-belle-tier-iv-data-centre-national-strategy-lexpress]]
+sources: [[2026-01-21-mauritius-telecom-strategy-2026-2029-bridging-africa-asia-lexpress], [2025-12-08-mauritius-telecom-connect-strategy-launch-techafricanews], [2025-12-31-rose-belle-tier-iv-data-centre-national-strategy-lexpress], [2026-05-30-sil-mauritius-telecom-mou-techreviewafrica]]
 ---
 
 # Mauritius Telecom (MT)
@@ -33,6 +33,11 @@ the **new government portal**, **[[mauritius-mobile-id|Mobile ID]]**, the penalt
 government **AI** workloads, with redundancy to the ageing **Government Online Centre (GOC)** in Ébène (created
 2005; ~80 racks, under pressure). See the **[[mauritius--infra-store]]** intersection.
 
+**Partnerships.** MT signed an **MoU with SIL** (working session, Ébène, ~30 May 2026) to accelerate digital
+transformation across citizens, government, parastatals and private enterprise, and to explore scaling solutions
+across African markets (PR-wire; SIL's identity/scope and the MoU's terms warrant primary confirmation). Source:
+[[2026-05-30-sil-mauritius-telecom-mou-techreviewafrica]].
+
 ## Links
-Place: [[MUS]] · Topics: [[infra.connect]] · [[infra.store]] · [[tech.ai]] · [[dpi.pay]] · Intersection:
-[[mauritius--infra-store]]
+Place: [[MUS]] · Topics: [[infra.connect]] · [[infra.store]] · [[tech.ai]] · [[dpi.pay]] · Intersections:
+[[mauritius--infra-store]] · [[mauritius--tech-ai]]

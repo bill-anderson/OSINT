@@ -4,7 +4,7 @@ title: Mauritius
 code: MUS
 parent: XEA
 place_kind: country
-topics: [dpi.pay, finance.new, gov.protect, gov.regional, dpi.id, dpi.govtech, gov.policy, gov.legislate, dpi.registry, dpi.exchange, gov.standards, dpi.mis, data.statistics, include.access, data.open, geopol.eu, infra.cybersec, infra.store, infra.connect, tech.ai, geopol.india, capacity.training, tech.innovate]
+topics: [dpi.pay, finance.new, gov.protect, gov.regional, dpi.id, dpi.govtech, gov.policy, gov.legislate, dpi.registry, dpi.exchange, gov.standards, dpi.mis, data.statistics, include.access, data.open, geopol.eu, infra.cybersec, infra.store, infra.connect, tech.ai, geopol.india, capacity.training, tech.innovate, include.divides, finance.mou]
 status: active
 last_reviewed: 2026-07-19
 ---
@@ -34,6 +34,13 @@ cross-border fintech and payments gateway into Africa.
   election). Full thread: **[[mauritius--gov-protect]]**. Sources:
   [[2026-07-13-privacy-of-communications-moustass-leaks-mauritiustimes]],
   [[2025-02-07-in-the-shadows-of-mass-surveillance-mauritiustimes]]. See [[gov.protect]], [[tech.ai]].
+- **2026-06-30** — **Critical-infrastructure cyber regime takes effect.** The **Cybersecurity and Cybercrime
+  (CII Designation) Regulations 2026** came into force **1 Jun 2026** (12-month compliance) — the National
+  Cybersecurity Committee can designate critical systems across finance, public service, ICT/broadcasting,
+  energy/water and transport, with **penalties up to 25 years / Rs 2M**. Full picture:
+  **[[mauritius--infra-cybersec]]**. Sources: [[2026-06-30-cii-cyber-laws-framework-itweb]],
+  [[2026-05-22-cybersecurity-critical-infrastructure-regulations-2026-lexpress]]. See [[infra.cybersec]],
+  [[gov.legislate]].
 - **2026-06-29** — **National Fintech Strategy 2026-2030.** Unveiled 25 Jun 2026 (UN ECA support): six pillars,
   a **National Fintech Governance Committee**, **open banking**, AI-in-finance and a **Business Facilitation
   Bill**, delivered with the **[[bank-of-mauritius|BoM]]**. Instrument:
@@ -49,6 +56,17 @@ cross-border fintech and payments gateway into Africa.
   (Designation, Tasks and Position of Data Protection Officers) Regulations 2026**, formalising DPO status and
   duties across public and private sectors (six-month compliance window; in force **1 Jan 2027**). Source:
   [[2026-06-12-dpo-regulations-2026-lexpress]]. See [[gov.protect]], [[gov.legislate]].
+- **2026-06-07** — **Consultations on social-media identity verification.** After Cabinet, MITCI announced
+  consultations toward a **social-media user ID-verification mechanism** against scams, impersonation and CSAM —
+  citing **2,300 online-harm cases** (Jan–Jun 2026) — while conceding the privacy/free-expression tension and
+  VPN circumvention. Source: [[2026-06-07-social-media-identity-verification-consultations-lexpress]]. See
+  [[mauritius--infra-cybersec]], [[dpi.id]], [[gov.protect]].
+- **2026-05-29** — **Rodrigues folded into the national AI/cyber strategy.** Minister Ramtohul's mission set a
+  cyber working framework, the **Rod IT** youth project and **MauPass/KOREK** rollout via Mauritius Post —
+  building on the Rodrigues Regional Assembly's **Rod-Digital Vision** roadmap (6 May 2026). Separately, MT
+  signed an **MoU with SIL** on digital transformation (PR-wire). Sources:
+  [[2026-05-29-rodrigues-port-mathurin-ai-cybersecurity-mission-lexpress]],
+  [[2026-05-30-sil-mauritius-telecom-mou-techreviewafrica]]. See [[include.divides]], [[mauritius--infra-cybersec]].
 - **2026-05-27** — **Going for EU adequacy (full GDPR alignment).** Commissioner Madhub confirmed Mauritius is
   **pursuing the EU adequacy assessment in 2026**, fully aligning the DPA 2017 with the GDPR — one of few African
   states to do so — framing privacy as **foundational** to digital ID (ID4Africa 2026 AGM). Source:
@@ -183,12 +201,15 @@ cross-border fintech and payments gateway into Africa.
   **[[mauritius-national-ai-strategy|AIM strategy + FAIR]]** (vendor-neutral/border-agnostic), a **50,000**
   AI-training budget push, and MT's sovereign **[[mytgpt]]** platform / AllMyT Summit —
   **[[mauritius--tech-ai]]**.
+- [[infra.cybersec]] · [[gov.legislate]] · [[include.divides]] — new **CII cyber regime** (Designation Regs
+  2026; 25yr/Rs 2M penalties), social-media **ID-verification** consultations, and **Rodrigues** sub-national
+  inclusion (Rod-Digital Vision) — **[[mauritius--infra-cybersec]]**.
 - [[dpi.exchange]] · [[gov.standards]] — e-Gov Interoperability Framework (2002); Health 2015 eHealth strategy.
 
 ## Entities
 
 - [[mauritius-mobile-id]] · [[mauritius-digital-blueprint-2025-2029]] · [[mauritius-national-data-strategy]] · [[ministry-ict-mauritius]] · [[data-protection-office-mauritius]] · [[e-social-security-mauritius]] · [[maucas]] · [[civil-status-division-mauritius]] · [[thales]] · [[peach-payments]] · [[verint]] · [[mauritius-telecom]] · [[bank-of-mauritius]] · [[mauritius-commercial-bank]] · [[mauritius-national-fintech-strategy]] · [[mauritius-national-ai-strategy]] · [[mytgpt]]
-- Intersections: [[mauritius--gov-protect]] · [[mauritius--infra-store]] · [[mauritius--dpi-pay]] · [[mauritius--tech-ai]]
+- Intersections: [[mauritius--gov-protect]] · [[mauritius--infra-store]] · [[mauritius--dpi-pay]] · [[mauritius--tech-ai]] · [[mauritius--infra-cybersec]]
 - Mentioned, not hubbed: Drudeisha Madhub (data-protection commissioner, heads the
   [[data-protection-office-mauritius|DPO]]); Ashok Subron (Minister of Social Security); Bank of Mauritius;
   ICTA; CERT-MU; MPF; FATF.

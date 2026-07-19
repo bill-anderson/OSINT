@@ -6647,3 +6647,29 @@ leads; + curator recommendation to add RealEG + GITGE/IDENTIC as standing source
 - Sources: 2026-04-12 AI Strategy+FAIR (lexpress), 2026-04-23 FAIR analysis (techcabal), 2026-06-20 Budget
   (lexpress), 2026-07-13 Gungadin (mauritiustimes), 2026-03-22 ecosystem critique (mauritiustimes), 2026-01-26
   mytGPT Education (techreviewafrica, pr-wire), 2026-07-16 AllMyT Summit (techreviewafrica, pr-wire).
+
+## 2026-07-19 — ingest(MUS) chunk 6/6 + finalize: Cybersecurity / deals / inclusion
+
+- **5 sources admitted, 0 leads, 0 discards.**
+- **Intersection created:** [[mauritius--infra-cybersec]] — first CII regime (Cybersecurity & Cybercrime CII
+  Designation Regs 2026, in force 1 Jun 2026, 25yr/Rs2M penalties, National Cybersecurity Committee, 5 sectors);
+  social-media identity-verification consultations (2,300 online-harm cases); budget Cyber Forensic lab; and
+  Rodrigues sub-national cyber/AI (Rod-Digital Vision). State-surveillance side stays in mauritius--gov-protect.
+- **Entities updated:** [[mauritius-telecom]] — +SIL MoU partnership note (PR-wire; SIL identity to confirm).
+- **MUS hub:** +3 Recent-developments entries (CII regime 2026-06-30; social-media verification 2026-06-07;
+  Rodrigues + SIL MoU 2026-05-29); new cyber/inclusion Active-topics line; +include.divides, finance.mou topics.
+- **Concepts:** [[infra.cybersec]] +MUS CII/social-media bullet; [[include.divides]] +MUS +Rodrigues bullet
+  (+Places).
+- **Dedup note:** CII pair — 2026-05-22 lexpress (regs/sectors) + 2026-06-30 itweb (penalties/enforcement) —
+  kept as complementary.
+- Sources: 2026-05-22 CII regs (lexpress), 2026-06-30 CII framework (itweb), 2026-06-07 social-media
+  verification (lexpress), 2026-05-30 SIL-MT MoU (techreviewafrica, pr-wire), 2026-05-29 Rodrigues (lexpress).
+
+### MUS ingest total (chunks 1-6): **28 sources admitted, 0 leads, 1 discard (relevant-duplicate), 0 needs-clip**
+- Entities created: 13 (data-protection-office-mauritius, ministry-ict-mauritius, mauritius-national-data-strategy,
+  e-social-security-mauritius, verint, mauritius-telecom, bank-of-mauritius, mauritius-commercial-bank,
+  mauritius-national-fintech-strategy, mauritius-national-ai-strategy, mytgpt) + updates to
+  mauritius-digital-blueprint-2025-2029. Intersections created: 5 (mauritius--gov-protect, --infra-store,
+  --dpi-pay, --tech-ai, --infra-cybersec).
+- 1 gap filed (GAP-MUS-001, off-source AllMyT announcements). No contradictions. 1 relevant-duplicate pruned
+  (wearetech NDS).
