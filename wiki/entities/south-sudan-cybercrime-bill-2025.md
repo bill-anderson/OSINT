@@ -34,3 +34,5 @@ of the enacted title/year._
 ## Sources
 
 - [[2025-12-11 South Sudan to get data protection bill in 2026, says minister]]
+
+**Enacted (2026).** Passed by the RNLA on **25 Nov 2025** and **signed by President Kiir on 18 Feb 2026** as the **Cyber Crimes and Computer Abuse Act 2026** (now in effect) — criminalising hacking, espionage, cyberterrorism, fake accounts, false information, impersonation, hate speech and GBV harassment; the full text was withheld from journalists at signing. Full case: [[south-sudan--gov-protect]].

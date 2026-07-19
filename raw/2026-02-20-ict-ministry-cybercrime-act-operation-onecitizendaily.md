@@ -11,6 +11,7 @@ places: [SSD]
 topics: [infra.cybersec, gov.legislate]
 entities: [[national-communication-authority-south-sudan]]
 lens: []
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: SSD-2026-07-17
 ---

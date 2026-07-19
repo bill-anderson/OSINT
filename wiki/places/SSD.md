@@ -133,9 +133,9 @@ but ahead of the governance frameworks meant to hold it.
   biometric payroll and donor humanitarian registries. Full treatment:
   **[[south-sudan--dpi-id]]**.
 - [[gov.protect]] · [[gov.legislate]] · [[infra.cybersec]] — first **Data
-  Protection Bill** promised for 2026; **Cybercrime and Abuse of Computer Bill
-  2025** passed, awaiting assent; no comprehensive data-protection regime yet;
-  civil-society convening (Paradigm/Koneta, Oct 2025).
+  Protection Bill** promised for 2026; **Cyber Crimes and Computer
+  Abuse Act 2026** signed by Kiir (18 Feb 2026, in effect); no comprehensive data-protection regime yet
+  (Data Protection Policy Bill drafted Oct 2025, Koneta/Paradigm/NCA). Full case: [[south-sudan--gov-protect]].
 - [[infra.store]] · [[infra.connect]] — NCA/MGI **gateway & national data-centre
   oversight committee** (Jan 2026), digitising SSIGW revenue under a
   sovereignty/security mandate; among the region's most expensive internet;

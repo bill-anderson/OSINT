@@ -11,6 +11,7 @@ places: [SSD]
 topics: [gov.protect, gov.legislate, capacity.literacy]
 entities: []
 lens: [sovereignty]
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: SSD-2026-07-17
 ---
