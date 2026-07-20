@@ -10,7 +10,7 @@ accessed: 2026-07-16
 ingested: 2026-07-16
 places: [MWI]
 topics: [data.open, dpi.mis, dpi.exchange]
-entities: []
+entities: [[development-gateway], [commonwealth-secretariat], [agra], [open-society-foundations], [giz]]
 lens: []
 body_completeness: full
 ---

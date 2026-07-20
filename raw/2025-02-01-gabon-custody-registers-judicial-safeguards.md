@@ -9,7 +9,7 @@ date_source: proxy
 ingested: 2026-07-15
 places: [GAB]
 topics: [dpi.registry, gov.legislate, tech.ai]
-entities: []
+entities: [[association-for-the-prevention-of-torture], [ministry-of-justice-gabon], [mendez-principles]]
 lens: []
 body_completeness: full
 ---

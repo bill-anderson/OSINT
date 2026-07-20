@@ -10,7 +10,7 @@ accessed: 2026-07-16
 ingested: 2026-07-16
 places: [NAM]
 topics: [digital.rural, include.access, include.divides]
-entities: []
+entities: [[green-peoples-energy], [ministry-of-mines-and-energy-namibia], [ministry-of-education-namibia], [namibia-energy-institute]]
 lens: []
 body_completeness: full
 ---

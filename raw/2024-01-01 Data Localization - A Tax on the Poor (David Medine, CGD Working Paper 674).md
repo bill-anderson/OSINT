@@ -12,7 +12,7 @@ accessed: 2026-07-16
 ingested: 2026-07-16
 places: [XGL]
 topics: [gov.protect, infra.store, gov.legislate]
-entities: []
+entities: [[center-for-global-development], [david-medine]]
 lens: [sovereignty]
 body_completeness: full
 ---

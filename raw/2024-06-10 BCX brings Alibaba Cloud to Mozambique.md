@@ -11,7 +11,7 @@ accessed: 2026-07-16
 ingested: 2026-07-16
 places: [MOZ]
 topics: [infra.store, gov.policy]
-entities: []
+entities: [[bcx], [alibaba-cloud], [telkom]]
 lens: [sovereignty]
 body_completeness: full
 ---

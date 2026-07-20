@@ -10,7 +10,7 @@ accessed: 2026-07-16
 ingested: 2026-07-16
 places: [MWI]
 topics: [dpi.pay, include.access]
-entities: []
+entities: [[crown-agents-bank], [centenary-bank-malawi], [wfp]]
 lens: []
 body_completeness: full
 ---

@@ -11,7 +11,7 @@ accessed: 2026-07-16
 ingested: 2026-07-16
 places: [GNQ, CMR]
 topics: [infra.connect]
-entities: []
+entities: [[gitge-gnq], [ceiba-2-cable], [afr-ix-telecom]]
 lens: []
 body_completeness: full
 ---

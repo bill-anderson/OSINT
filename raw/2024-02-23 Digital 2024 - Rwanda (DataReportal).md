@@ -4,7 +4,7 @@ date_precision: day
 date_source: source
 places: [RWA]
 topics: [include.divides, infra.connect, data.statistics]
-entities: []
+entities: [[datareportal], [kepios]]
 ingested: 2026-07-16
 lens: []
 body_completeness: full

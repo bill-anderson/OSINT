@@ -11,7 +11,7 @@ accessed: 2026-07-15
 ingested: 2026-07-15
 places: [CIV]
 topics: [gov.policy, finance.new, include.divides]
-entities: []
+entities: [[ministry-of-digital-transition-cote-divoire]]
 lens: []
 body_completeness: full
 ---

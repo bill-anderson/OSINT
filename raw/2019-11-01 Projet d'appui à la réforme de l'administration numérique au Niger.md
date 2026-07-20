@@ -10,7 +10,7 @@ accessed: 2026-07-16
 ingested: 2026-07-16
 places: [NER]
 topics: [dpi.govtech, gov.policy]
-entities: []
+entities: [[expertise-france], [ansi-niger], [afd]]
 lens: []
 body_completeness: full
 ---

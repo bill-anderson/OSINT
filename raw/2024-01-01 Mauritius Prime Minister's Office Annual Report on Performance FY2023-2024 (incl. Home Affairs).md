@@ -11,7 +11,7 @@ accessed: 2026-07-16
 ingested: 2026-07-16
 places: [MUS]
 topics: [dpi.govtech, dpi.id]
-entities: []
+entities: [[prime-ministers-office-mauritius], [civil-status-division-mauritius]]
 lens: []
 body_completeness: full
 ---

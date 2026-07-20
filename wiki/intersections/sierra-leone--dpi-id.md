@@ -8,7 +8,7 @@ topics: [dpi.id, dpi.registry, gov.standards, include.access, gov.protect]
 entities: [[ncra], [mosip], [sierra-leone-digital-id-mou]]
 lens: [sovereignty, colonialism]
 status: active
-last_reviewed: 2026-07-19
+last_reviewed: 2026-07-20
 sources: [[2026-02-19-mosip-brownfield-sierra-leone-migration], [2026-03-18-brokers-of-citizenship-digital-id]]
 ---
 

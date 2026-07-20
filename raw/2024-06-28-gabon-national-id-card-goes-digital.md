@@ -10,7 +10,7 @@ date_source: source
 ingested: 2026-07-15
 places: [GAB]
 topics: [dpi.id]
-entities: []
+entities: [[cnie-gabon], [gabon-legal-id-projects]]
 lens: [sovereignty]
 body_completeness: full
 ---

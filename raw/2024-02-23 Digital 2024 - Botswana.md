@@ -11,7 +11,7 @@ accessed: 2026-07-15
 ingested: 2026-07-15
 places: [BWA]
 topics: [infra.connect, include.divides]
-entities: []
+entities: [[datareportal], [kepios]]
 lens: []
 body_completeness: full
 ---

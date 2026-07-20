@@ -9,7 +9,7 @@ date_source: source
 ingested: 2026-07-15
 places: [ETH]
 topics: [dpi.govtech, gov.policy, data.statistics]
-entities: []
+entities: [[international-centre-for-tax-and-development]]
 lens: []
 body_completeness: full
 ---

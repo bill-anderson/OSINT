@@ -126,10 +126,10 @@ Substantial place treatments have their own intersection pages; the long tail is
 
 **Extracted (own page):**
 
-- **[[ZAF]] South Africa** — record smart-ID delivery, the contested ~6,500% OVS fee, a SARS-hosted digital-ID platform, and bank-branch Smart-ID + ETA border automation. → [[south-africa--dpi-id]]
+- **[[ZAF]] South Africa** — record smart-ID delivery, the contested ~6,500% OVS fee, bank-branch Smart-ID + ETA border automation, and **SARS hosts, SARB integrates**: PKI and digital-identity hosting inside the SARS environment (APP 2026/27), facial recognition primary. → [[south-africa--dpi-id]]
 - **[[NGA]] Nigeria** — NIMC Act 2026, NIN 136M→180M, the 8,809-ward drive, and the exclusion / gatekeeper critiques; plus (2024-12) a [[world-bank]] ID4D restructuring raising the target 148m→180m and extending it to 30 Jun 2026, and (2025-05) [[nimc]]'s [[ninauth]] consent-based NIN authentication service (web/API/mobile). → [[nigeria--dpi-id]]. Sources: [[2024-12-01 Nigeria ID4D Project Restructuring Paper (World Bank, P167183)]] · [[2024-12-30 World Bank expands Nigeria's digital ID target to 180 million, extends ID4D project to 2026]] · [[2025-05-07 Nigeria unveils NINAuth platform to streamline national ID authentication and verification]]
 - **[[ETH]] Ethiopia** — Fayda scale-up (42m+), the Safaricom registration JV, DIAL self-assessment, and the pre-Fayda ID gap. → [[ethiopia--dpi-id]]
-- **[[ZMB]] Zambia** — NRC→INRIS→homegrown open-standards ID, the MOSIP integrator hunt, and externally-financed vendor-independence. → [[zambia--dpi-id]]
+- **[[ZMB]] Zambia** — NRC→INRIS→homegrown open-standards ID, the MOSIP integrator hunt, externally-financed vendor-independence, and **date the event to the primary** (Chinyama to ZNBC, 2026-03-22, not the 2026-03-24 trade-press re-reports). → [[zambia--dpi-id]]
 - **[[BEN]] Benin** — a **governance-first** model (one presidency-attached agency, [[anip-benin]], owning the population + civil + electoral registers as one integrated system; DG also National Civil Registrar) behind near-universal (~99%) foundational ID; RNPP, ePass diaspora app, ECOWAS card since 2020, AFIS/SIPAO, 50-in-5 member; but a stark **civil-registration gap** (2.5m births declared / <1m registered, 2021–25) now met by a maternity guichet unique. → [[benin--dpi-id]]
 - **[[RWA]] Rwanda** — the e-Indangamuntu biometric switch (SDIS enrolment scaled >300k → ~1.5m → 2,373,854 by 2026-03; one-unique-number-for-life fixing the legacy multiple-NIN flaw flagged by the Auditor-General, 2025), the Single Digital Identification Law, and eRainbow consent. → [[rwanda--dpi-id]]
 - **[[GHA]] Ghana** — Ghana Card (~20m/90%, non-MOSIP) and Margins exporting a full national ID to The Gambia (payments claim retracted). → [[ghana--dpi-id]]
@@ -149,63 +149,39 @@ Substantial place treatments have their own intersection pages; the long tail is
 - **[[TCD]] Chad** — [[anats]]' [[chad-biometric-registry]] pushed as the **single source of truth** (Mar-2026 Finance interoperability deal, open to private bodies for verification and credit), a health/school-fed CRVS drive against **80%+ of schoolchildren lacking birth certificates** (2025-06), and the colonial inheritance named on the record. → [[chad--dpi-id]]
 - **[[SYC]] Seychelles** — [[seyid]] (Swiss [[wisekey]] lineage from 2014; launched 1 Nov 2022) went **virtual-ID-only for new work-permit holders from 17 Sept 2024** while citizens keep the physical card, plus [[certexpress]] online civil certificates over the [[seychelles-civil-status-act]] register. → [[seychelles--dpi-id]]
 
+- **[[SDN]] Sudan** — **[[sudapass]]** launched live **2026-05-21** under the Baladna programme, amid conflict (>14m displaced, last census 2008), with exclusion and surveillance risk flagged. → [[sudan--dpi-id]]
+- **[[SWZ]] Eswatini** — the story is an **absence**: no digital-ID rollout "in earnest" (2024-07-22), ID ownership 88% of adults (2021–2022), and a fragile physical card — against the state's own data breaches. → [[eswatini--dpi-id]]
+- **[[SLE]] Sierra Leone** — the NCRA NIN as the digital state's spine (**93%** registration 2025-06 but **<0.5m** physical cards against **6.4m** NIN holders), a MOSIP brownfield migration, a W3C-VC MoU with [[bhutan-ndi]]/[[sign-foundation]], and colonial-era "brokers of citizenship" in the last mile. → [[sierra-leone--dpi-id]]
+- **[[UGA]] Uganda** — the MOSIP-based national ID (**>28m** records) and the **denominator problem** behind the "18m unregistered" figure: NIRA's own 18.1m against a 45.9m census population, mostly under-17s, with card possession (2,581,457 of 10,152,559 collected) the binding constraint. → [[uganda--dpi-id]]
+- **[[TZA]] Tanzania** — **"Jamii Namba" is a designation, not a new credential** (PM Majaliwa, 2024-10-17: the NIDA number *is* the Jamii Namba), from a 2023-08-10 presidential directive; plus [[nida-tanzania]]'s Phase II biometrics procurement on a ~$70m Korea Eximbank loan. → [[tanzania--dpi-id]]
+- **[[SEN]] Senegal** — the ECOWAS biometric CNI as sole voter-registration ID (~3m targeted, 2025-02) and the [[iris-corporation]] ransomware breach that **suspended ID-card production 2026-02-05 → 2026-04-01** (~8 weeks; breach volume disputed, 139TB vs 139GB). → [[senegal--dpi-id]]
+- **[[SOM]] Somalia** — the foundational **[[snid|SNID]]** (>1m enrolled by late 2025 against 15m by end-2029), NADRA-built, with **where SNID data is physically hosted an open contradiction**. → [[somalia--dpi-id]]
+- **[[COD]] DR Congo** — a cancelled $1.2bn [[idemia]] contract → [[rdc-pass]] under a 20-year exclusive e-KYC PPP with [[trident-digital-tech]] — the outsourced extreme. → [[drc--dpi-id]]
+- **[[SSD]] South Sudan** — no unified national digital ID; the "Butaka Shakhsia" personal ID gates banking, land and court access. → [[south-sudan--dpi-id]]
+
 **Indexed here (sub-threshold):**
 
-- **[[MAR]] Morocco** — first MOSIP adopter (MoU 2018); **22m of 39m** registered, 5m households on social programmes. [[2026-06-17 They're taking DPI to the world - The Times of India]]
-- **[[MOZ]] Mozambique** — [[atdi-mozambique]] signed a 3-year MoU with Ethiopia's NIDP/FaydaVerse for a digital-ID build ([[mozambique-ethiopia-dpi-mou]]). [[2026-04-28 Mozambique taps Ethiopia's digital ID expertise in DPI partnership]]
-- **[[TZA]] Tanzania** — [[nida-tanzania]] procuring **Jamii Namba Phase II** (adding iris+facial), on a ~$70m Korea Eximbank loan. [[2026-04-22 Tanzania seeks biometrics contractors for Phase II of national digital ID project]]
-- **[[UGA]] Uganda** — [[mosip]]-based national ID (**>28m** records); a Government Systems Prototype Showcase courts local DPI innovators. [[2026-05-22 Uganda launches prototype program for digital ID and public infrastructure]]
-- **[[SLE]] Sierra Leone** — greenfield open-standards / W3C-VC ID MoU with [[bhutan-ndi]] and [[sign-foundation]] (Bhutan NDI as template); **93%** national-ID registration coverage (2025-06) but **<0.5m** physical cards issued against **6.4m** NIN holders (2024, World Bank), with a mandatory ID card (2025). [[ncra]] · [[2026-07-08 Sierra Leone partners with Bhutan, Sign on digital identity platform]]
-- **[[COD]] DR Congo** — a cancelled $1.2bn [[idemia]] contract (overbilling) → [[rdc-pass]] under a **20-year exclusive e-KYC PPP** with [[trident-digital-tech]] ($97.1m, Web3) + a parallel [[margins-id-group]] card track — the outsourced extreme, with the DP authority still un-operational. → [[drc--dpi-id]]
-- **[[CIV]] Côte d'Ivoire** — [[oneci]]/[[maposte]] super-app ties the NNI to a digital mailbox and civil-status certificates. [[2026-01-19 Ivory Coast Launches MaPoste to Digitize Postal and Administrative Services]]
-- **[[MDG]] Madagascar** — national biometric-ID pilot (fingerprint/face/iris); 2m-adult target Apr–Jun 2026. [[2026-01-27 Madagascar Tests Biometric ID System, Aims to Register 2 Million People by Mid-2026]]
-- **[[SDN]] Sudan** — [[sudapass]] unified digital ID **launched live 2026-05-21** (activated via passport/national-number + face biometrics; enables e-services, e-transactions and digital signatures) under the Baladna programme, implemented via the cybersecurity authority, e-certification authority and civil registry — amid conflict (>14m displaced, last census 2008); earlier framing (2026-02) called it imminent and warned of exclusion/surveillance risk (Kenya cited). [[2026-05-21 Sudan launches national digital identity SUDAPASS (SUNA)]] · [[2026-01-29 How to build trust alongside Sudan's digital identity system]] · [[2026-02-02 Sudan's planned national digital ID could strengthen recovery push - Experts]]
+- **[[MAR]] Morocco** — first MOSIP adopter (MoU 2018); **22m of 39m** registered, 5m households on social programmes. See [[morocco--dpi-id]]. [[2026-06-17 They're taking DPI to the world - The Times of India]]
+- **[[MOZ]] Mozambique** — [[atdi-mozambique]] signed a 3-year MoU with Ethiopia's NIDP/FaydaVerse for a digital-ID build ([[mozambique-ethiopia-dpi-mou]]). See [[mozambique--dpi-id]]. [[2026-04-28 Mozambique taps Ethiopia's digital ID expertise in DPI partnership]]
+- **[[CIV]] Côte d'Ivoire** — [[oneci]]/[[maposte]] super-app ties the NNI to a digital mailbox and civil-status certificates. See [[civ--dpi-id]]. [[2026-01-19 Ivory Coast Launches MaPoste to Digitize Postal and Administrative Services]]
+- **[[MDG]] Madagascar** — national biometric-ID pilot (fingerprint/face/iris); 2m-adult target Apr–Jun 2026. See [[madagascar--dpi-id]]. [[2026-01-27 Madagascar Tests Biometric ID System, Aims to Register 2 Million People by Mid-2026]]
 - **[[LSO]] Lesotho** — [[micsti-lesotho]]/NUL building a MOSIP ID + X-Road + Decision Support System on a sovereign DPI stack. [[2026-02-20 MICSTI AND NUL ADVANCED LESOTHO DIGITAL PUBLIC INFRASTRUCTURE]]
 - **[[GMB]] The Gambia** — awarded Ghana's [[margins-id-group]] a DBFOT contract for its National + Integrated Digital ID. → [[ghana--dpi-id]]
-- **[[SWZ]] Eswatini** — the story is an **absence**: government "has not started rolling out digital identity in earnest" (2024-07-22), and the National ID card (initiated 2003, held centrally by the Ministry of Home Affairs) "does not yet meet the criteria for digital identification" — initiatives only conceptualised via [[rstp]], against biometric voter registration since **2013**. ID ownership **88% of adults** vs a **78%** average for eligible individuals over 15 (both **2021–2022**). The World Bank names the **national population register** as the foundation robust DPI requires and urges a biometric national digital ID for eKYC and G2P (2025-08-05). [[2024-07-22 Risk of human rights infringement as Eswatini rushes to regulate the ICT sector]] · [[2024-11-22 Eswatini unveils readiness report for digital ID, transformation push]] · [[2025-08-05 Robust DPI inevitable for Eswatini's economic, jobs boom - World Bank]]
-- **[[SEN]] Senegal** — the ECOWAS biometric CNI became the sole voter-registration ID (~3m holders targeted, 2025-02); national-ID production ([[daf-senegal|DAF]]) later suspended after a Jan-2026 ransomware attack on supplier [[iris-corporation]] (2026-02; breach volume disputed, 139TB vs 139GB). See [[senegal--dpi-id]]. [[2025-02-18 Senegal targets 3M ECOWAS biometric ID holders for voter registration]] · [[2026-02-10 Senegal data breach disrupts national ID issuance]]
-- **[[STP]] São Tomé and Príncipe** — MOSIP-based national digital-ID pilot (from 2024, shown at ID4Africa 2025) built on a **~98%** birth-registration base; nationwide rollout hoped within 1–2 years (as of 2026-07). [[sao-tome-national-digital-id]]
-- **[[SSD]] South Sudan** — no unified national digital ID; a personal ID ("Butaka Shakhsia") gates banking, land and court access (2026-01), only **~10%** hold Nationality Certificates (2025-12), and **17,400** EU/UNHCR returnee IDs were issued (2024-11). → [[south-sudan--dpi-id]] ([[dcrnpi-south-sudan]])
-- **[[SOM]] Somalia** — the foundational **[[snid|SNID]]** (11-digit biometric NIN, live since Sep 2023, [[nira-somalia]]/NADRA-built) passed **>1m** enrolled by late 2025 against a **15m** target by end-2029, and is being made mandatory for passports, travel and banking (2025–26). → [[somalia--dpi-id]]
-- **[[SOM]] Somalia.** Pakistan's **NADRA** delivered "advanced data center infrastructure" for SNIDS on
-  **2025-03-13**, alongside card-personalisation machines and secure card stock — the mechanism for an
-  on-shore migration, though not evidence one occurred. Where SNID data is physically hosted remains an
-  **open contradiction**. Source: [[2025-03-13-nadra-somalia-nid-data-centre-infrastructure]].
-- **[[UGA]] Uganda — the coverage debate is a denominator problem.** The "18m unregistered" figure is
-  **NIRA's own**, not advocacy: ED Rosemary Kisembo told COSASE (**2024-07-01**) that **18.1m were
-  unregistered against a total census population of 45.9m**, "most of those unregistered are **children
-  under 17**." Against **23,154,716 adults aged 18+ (2024-05-09)** the adult gap is ~**2.0m (~9%)**. The
-  register is an adult register — **6.3m of 27.4m registered are 0–17 (22.1%)** where that bracket is about
-  half the population. The **35m (2026-02-08) is cumulative enrolments ever issued**, carrying no
-  deregistration for death or emigration, not a coverage rate. The binding constraint is **card
-  possession**: 10,152,559 printed, **2,581,457 collected (35.5%)**. See [[uganda--dpi-id]].
-- **[[TZA]] Tanzania — "Jamii Namba" is a designation, not a new credential.** PM Kassim Majaliwa stated
-  (**2024-10-17**) that **the NIDA number *is* the Jamii Namba** — settling a point donor syntheses
-  routinely garble. The programme dates from a **2023-08-10** presidential directive against fragmented
-  identifiers; design was complete by **2024-03-08** (RITA + NIDA + Zanzibar ID) with an **end-2025 target
-  that was missed**. See [[tanzania--dpi-id]].
-- **[[ZAF]] South Africa — SARS hosts, SARB integrates.** The DHA's tabled APP 2026/27 (**2026-03-30**)
-  fixes FY2026/27's only digital-ID target as completing **PKI and digital-identity hosting infrastructure
-  inside the SARS environment** (sign-off by 2027-03-31) — plumbing, not launch, with verifiable credentials
-  in later phases. **Facial recognition primary, fingerprints secondary.** SARB is an integration partner on
-  payments/eKYC, and states it is "not the leading authority in relation to identification in SA". See
-  [[south-africa--dpi-id]].
-- **[[ZMB]] Zambia — date the event to the primary.** SZI "has begun the process of engaging an
-  international partner" for the national digital ID, targeting completion in 2026 and a system "developed
-  by Zambians" (Percy Chinyama to ZNBC, **2026-03-22**). The widely-cited 2026-03-24 trade-press items are
-  re-reports of that broadcast — do not date the event to them.
+- **[[STP]] São Tomé and Príncipe** — MOSIP-based national digital-ID pilot (from 2024, shown at ID4Africa 2025) built on a **~98%** birth-registration base; nationwide rollout hoped within 1–2 years (as of 2026-07). See [[sao-tome--dpi-id]]. [[sao-tome-national-digital-id]]
 - **[[MRT]] Mauritania — foreign supply dependence in foundational documents.** ANRPTS attributed its 2023
   passport shortage to polycarbonate blanks produced in only a few European states, contracted through a
   French supplier manufacturing in the Netherlands, with 6–10-month lead times; national demand rose
   **20,000 (2020) → ~94,000 (year to mid-2023)**. Source:
   [[2023-08-18-anrpts-passport-demand-20000-2020-to-94000-2023]].
-- **[[SEN]] Senegal — ID-card production suspended 2026-02-05 to 2026-04-01** (~8 weeks) after the DAF
-  breach: a concrete measure of a foundational-ID outage's service cost. See [[senegal--dpi-id]].
 
 
 ## Places
 
-[[AGO]] · [[BDI]] · [[BEN]] · [[BFA]] · [[CAF]] · [[CIV]] · [[CMR]] · [[COD]] · [[COG]] · [[COM]] · [[ETH]] · [[GAB]] · [[GHA]] · [[GMB]] · [[KEN]] · [[LBR]] · [[LSO]] · [[MAR]] · [[MDG]] · [[MOZ]] · [[MUS]] · [[MWI]] · [[NGA]] · [[RWA]] · [[SDN]] · [[SEN]] · [[SLE]] · [[SWZ]] · [[SYC]] · [[TCD]] · [[TGO]] · [[TZA]] · [[UGA]] · [[XAF]] · [[XWA]] · [[ZAF]] · [[ZMB]] · [[GNB]]Related: [[dpi.exchange]] · [[dpi.pay]] · [[dpi.govtech]] · [[dpi.registry]]
+[[AGO]] · [[BDI]] · [[BEN]] · [[BFA]] · [[CAF]] · [[CIV]] · [[CMR]] · [[COD]] · [[COG]] · [[COM]] · [[ETH]] · [[GAB]] · [[GHA]] · [[GIN]] · [[GMB]] · [[GNB]] · [[KEN]] · [[LBR]] · [[LSO]] · [[MAR]] · [[MDG]] · [[MOZ]] · [[MRT]] · [[MUS]] · [[MWI]] · [[NGA]] · [[RWA]] · [[SDN]] · [[SEN]] · [[SLE]] · [[SOM]] · [[SSD]] · [[STP]] · [[SWZ]] · [[SYC]] · [[TCD]] · [[TGO]] · [[TZA]] · [[UGA]] · [[XAF]] · [[XWA]] · [[ZAF]] · [[ZMB]]
+
+## Related
+
+[[dpi.exchange]] · [[dpi.pay]] · [[dpi.govtech]] · [[dpi.registry]]
 
 ## Sources
 

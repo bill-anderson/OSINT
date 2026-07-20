@@ -3,7 +3,7 @@ type: source
 title: "Angola: SLB Opens Africa Performance Center to Drive Digital Transformation"
 url: https://www.wearetech.africa/en/fils-uk/news/angola-slb-opens-africa-performance-center-to-drive-digital-transformation
 publisher: We Are Tech Africa
-entities: []
+entities: [[slb], [slb-africa-performance-center]]
 lens: []
 body_completeness: full
 author: Hikmatu Bilali

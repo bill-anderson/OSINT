@@ -9,7 +9,7 @@ date_source: source
 ingested: 2026-07-16
 places: [SDN]
 topics: [dpi.pay, include.access, finance.new]
-entities: []
+entities: [[ifc]]
 lens: [sovereignty]
 body_completeness: full
 artefact: 2021-10-24 sudan-building-resilience-through-dfs.pdf

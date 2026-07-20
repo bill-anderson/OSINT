@@ -11,7 +11,7 @@ accessed: 2026-07-15
 ingested: 2026-07-15
 places: [AGO, CAF, COD]
 topics: [dpi.id, gov.protect]
-entities: []
+entities: [[paradigm-initiative]]
 lens: [sovereignty, colonialism]
 body_completeness: full
 ---

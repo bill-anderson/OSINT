@@ -11,7 +11,7 @@ accessed: 2026-07-16
 ingested: 2026-07-16
 places: [LBY]
 topics: [dpi.registry, digital.localgov, infra.connect]
-entities: []
+entities: [[libya-post]]
 lens: []
 body_completeness: full
 ---

@@ -11,7 +11,7 @@ accessed: 2026-07-16
 ingested: 2026-07-16
 places: [MWI]
 topics: [dpi.pay, include.access, data.statistics]
-entities: []
+entities: [[finmark-trust]]
 lens: []
 body_completeness: full
 ---

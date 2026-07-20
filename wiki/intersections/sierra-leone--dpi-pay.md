@@ -8,7 +8,7 @@ topics: [dpi.pay, include.access, finance.new, tech.ai, gov.standards]
 entities: [[sierra-leone-instant-payment-switch], [bank-of-sierra-leone], [africell], [orange-sierra-leone]]
 lens: []
 status: active
-last_reviewed: 2026-07-19
+last_reviewed: 2026-07-20
 sources: [[2025-04-22-velmie-metrocable-vult-digital-wallet], [2025-11-06-mikashboks-ecobank-financial-inclusion], [2026-03-31-orange-money-mastercard-zenith], [2026-04-24-open-hub-flot-platform], [2026-05-27-afrimoney-prepaid-visa-card]]
 ---
 

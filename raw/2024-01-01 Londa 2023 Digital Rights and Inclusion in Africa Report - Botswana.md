@@ -11,7 +11,7 @@ accessed: 2026-07-15
 ingested: 2026-07-15
 places: [BWA]
 topics: [gov.protect, include.divides]
-entities: []
+entities: [[paradigm-initiative]]
 lens: [sovereignty]
 body_completeness: full
 ---

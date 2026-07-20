@@ -8,7 +8,7 @@ topics: [gov.protect, gov.legislate, gov.regional, infra.cybersec, gov.policy, d
 entities: [[data-protection-act-2022-eswatini], [esccom], [computer-crime-and-cyber-crime-act-2022-eswatini], [sadc], [smart-africa], [apc]]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-19
+last_reviewed: 2026-07-20
 sources: [[2022-03-04 Eswatini Data Protection Act 2022 (Act No. 5 of 2022)], [2024-01-01 Data Protection Act 5 of 2022 - Eswatini], [2025-01-01 Role of ESCCOM as National Data Protection Agency], [2024-03-11 Eswatini strives for digital sovereignty amid technological advancements], [2024-07-22 Risk of human rights infringement as Eswatini rushes to regulate the ICT sector], [2025-07-25 RFP - Eswatini National Data Policy (Smart Africa)], [2025-07-31 Eswatini Economic Update - Digital Transformation Key to Unlocking Growth], [2026-02-03-eswatini-launches-data-protection-campaign], [2026-04-30-eswatini-first-national-data-policy-workshop], [2026-05-21-critical-state-information-at-risk-in-9-govt-ministries], [2025-10-07-eswatini-calls-for-collaboration-to-protect-cyber-space]]
 ---
 

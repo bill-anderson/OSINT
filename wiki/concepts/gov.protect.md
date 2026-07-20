@@ -253,44 +253,27 @@ Personal-data regimes across African jurisdictions — and the friction their
 - **[[SSD]] South Sudan** — no comprehensive law (a first bill promised for 2026), a cybercrime Act
   enacted first, and a UN Commission reading the Crawford Capital e-Services platform as
   surveillance infrastructure. → [[south-sudan--gov-protect]]
-- **[[SWZ]] Eswatini** — the [[data-protection-act-2022-eswatini]] in force since **4 March 2022**
-  with [[esccom]] designated DPA and fines to **E5,000,000 or 2% of turnover**, but the Data
-  Protection Office **not yet operationalised (2025-07-31)** and the national data policy still being
-  **procured (2025-07-25)**; [[apc]] flags s.36 and the certificates of urgency behind all four 2022
-  Acts. → [[eswatini--gov-protect]]
-- **[[SYC]] Seychelles** — the [[data-protection-act-2023-seychelles]] is **Act 24 of 2023** (not
-  Act 9): passed 2023-12-05, **assent 2023-12-19**, **commencement 2023-12-22**, designating the
-  pre-existing [[information-commission-seychelles]] (s.5) — the same designate-an-existing-body
-  model as [[ZAF]]. The s.56(1) 18-month transition **elapsed 2025-06-22**, and s.56(2) makes failure
-  an offence, so the Act now binds in full. → [[seychelles--gov-protect]]
-- **[[TCD]] Chad** — no enacted data-protection law and no DPA: minister **[[boukar-michel]]**
-  announced (**9 Dec 2025**) that Chad was *finalising* a digital law, but **no text, enactment date
-  or gazette reference is held**, so it is not law here. His framing is the sharpest ministerial
-  statement of the [[sovereignty]] lens in this batch: *"In the digital age, a country that does not
-  control its data does not control its destiny."* → [[chad--gov-protect]]. Source:
-  [[2025-12-10 Chad Finalizes Digital Law to Align National Framework With Global Standards]]
-- **[[TGO]] Togo** — the DPA **[[ipdcp-togo]]**, created alongside a **data protection law of
-  September 2019**, signed an accord with broadcast regulator **[[haac-togo]]** on **10 December
-  2025** ([[haac-ipdcp-accord]]) whose operative mechanism is that **the HAAC authorises the IPDCP to
-  access its control and monitoring room**. The sole account is **sourced to the IPDCP and carries no
-  critical framing** of a data-protection authority acquiring monitoring-room access — the absence is
-  recorded, not filled in. → [[togo--gov-protect]]. Sources:
-  [[2025-12-12 Personal data and digital rights in Togo - HAAC and IPDCP seal institutional cooperation accord]],
-  [[2023-12-21 ISR - WURI Phase 2 Seq 7 (P169594)]]
-- **[[ZWE]] Zimbabwe** — **s.5** of the Cyber and Data Protection Act designates **POTRAZ**, the
-  telecoms regulator, as DPA **on the face of the statute** (relevant wherever regulator-independence
-  models are compared); **SI 155 of 2024** set a licensing deadline of **2025-03-13**, and ZIMRA's
-  two registered DPOs sit in **Corporate Risk and Compliance** — not IT or enforcement — as official
-  liaison to POTRAZ *(month precision, proxy)*. → [[zimbabwe--gov-protect]]
-- **[[DZA]] Algeria** — Decree 25-320 **Art. 19** starts the classification and cataloguing duties
-  only from publication of the two **Art. 8 *référentiels***, which issue by *décision* of the High
-  Commissioner for Digitalisation. **As of 2026-07-20 no such publication is traceable** — six months
-  after gazetting, the core obligations are not shown to have commenced. The 2026-02-09 launch
-  installed a follow-up commission; it did not trigger Art. 19. → [[algeria--gov-protect]]
+- **[[SWZ]] Eswatini** — the [[data-protection-act-2022-eswatini]] in force since **4 March 2022** with
+  [[esccom]] designated DPA, but the Data Protection Office **not yet operationalised (2025-07-31)** —
+  law first, institution later. → [[eswatini--gov-protect]]
+- **[[SYC]] Seychelles** — the [[data-protection-act-2023-seychelles]] is **Act 24 of 2023** (not Act 9),
+  designating the pre-existing [[information-commission-seychelles]]; the s.56(1) transition **elapsed
+  2025-06-22**, so the Act now binds in full. → [[seychelles--gov-protect]]
+- **[[TCD]] Chad** — **no enacted data-protection law and no DPA**; data protection is being folded into
+  the cyber agency **[[ansice]]** instead, and the "digital law in finalisation" announced by
+  **[[boukar-michel]]** (Dec 2025) is not held as enacted. → [[chad--gov-protect]]
+- **[[TGO]] Togo** — the **[[ipdcp-togo]]** under the 2019 law, now operationalising (32 certified CPDs,
+  Jun 2026) — with the **[[haac-ipdcp-accord]]** giving the DPA access to the broadcast monitoring room
+  as the standing independence question. → [[togo--gov-protect]]
+- **[[ZWE]] Zimbabwe** — **s.5** designates **POTRAZ**, the telecoms regulator, as DPA on the face of the
+  statute; **SI 155 of 2024** licensing, the first 570 Data Controller Licences (Jun 2025) and ~1,200
+  DPOs trained (May 2026). → [[zimbabwe--gov-protect]]
+- **[[DZA]] Algeria** — mandatory in-country storage under **[[algeria-law-18-07|Law 18-07]]**, the ANPDP
+  treating images as personal data (and foreign-hosted posting as a possible international transfer), and
+  Decree 25-320's **core duties not shown to have commenced as of 2026-07-20**. → [[algeria--gov-protect]]
 - **[[CAF]] Central African Republic** — Law No. 24.001 (2024,
-  [[car-data-protection-law-24-001]]) is comprehensive — tiered CEMAC/ECCAS transfers, resident DPO,
-  fines to 5% of turnover — but the supervisory authority it mandates is **still not appointed** (per
-  the [[data-protection-africa]] factsheet, Jan 2026). → [[caf--gov-protect]]
+  [[car-data-protection-law-24-001]]) is comprehensive, but the supervisory authority it mandates is
+  **still not appointed** (Jan 2026). → [[caf--gov-protect]]
 - **[[BWA]] Botswana** — the 2018 Data Protection Act sat un-commenced (its date pushed back by
   ministerial orders) until the **[[botswana-data-protection-act-2024]]** (effective 14 Jan 2025)
   finally switched the regime on and empowered the Information & Data Protection Commission. →

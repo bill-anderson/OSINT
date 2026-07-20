@@ -11,7 +11,7 @@ accessed: 2026-07-15
 ingested: 2026-07-15
 places: [XAF, CIV]
 topics: [infra.store, tech.industry]
-entities: []
+entities: [[africa-data-centres-association], [oxford-business-group]]
 lens: []
 body_completeness: full
 ---

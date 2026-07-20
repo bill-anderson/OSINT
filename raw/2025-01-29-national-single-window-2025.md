@@ -12,7 +12,7 @@ body_completeness: excerpt
 sweep_batch: NGA-2026-07-17
 places: [NGA]
 topics: [dpi.govtech, dpi.exchange]
-entities: []
+entities: [[nigeria-national-single-window], [nigeria-customs-service]]
 lens: []
 ---
 The Federal Government said it will implement the National Single Window trade facilitation project in 2025, digitally linking ports, customs and agencies to a single data exchange point.

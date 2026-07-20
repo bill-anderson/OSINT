@@ -5,11 +5,11 @@ place: SWZ
 topic: dpi.id
 places: [SWZ]
 topics: [dpi.id, dpi.registry, gov.protect, include.access, gov.legislate]
-entities: [[ministry-of-home-affairs-eswatini], [esccom], [data-protection-act-2022-eswatini]]
+entities: [[ministry-of-home-affairs-eswatini], [esccom], [data-protection-act-2022-eswatini], [rstp], [world-bank]]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-19
-sources: [[2025-07-23-outcry-over-digital-gate-pass-in-schools], [2026-02-22-home-affairs-resumes-id-card-production], [2026-06-24-home-affairs-investigated-for-sensitive-data-breach], [2026-07-14-dna-plan-could-swallow-e126m-of-home-affairs-budget]]
+last_reviewed: 2026-07-20
+sources: [[2024-07-22 Risk of human rights infringement as Eswatini rushes to regulate the ICT sector], [2024-11-22 Eswatini unveils readiness report for digital ID, transformation push], [2025-08-05 Robust DPI inevitable for Eswatini's economic, jobs boom - World Bank], [2025-07-23-outcry-over-digital-gate-pass-in-schools], [2026-02-22-home-affairs-resumes-id-card-production], [2026-06-24-home-affairs-investigated-for-sensitive-data-breach], [2026-07-14-dna-plan-could-swallow-e126m-of-home-affairs-budget]]
 ---
 
 # Eswatini × Digital Identity & Registries
@@ -18,6 +18,19 @@ Eswatini has **not rolled out a digital ID "in earnest"** (as of 2024) — the n
 held centrally by **[[ministry-of-home-affairs-eswatini]]**) does not meet digital-ID criteria, and the
 national population register is the foundation the World Bank says robust DPI needs (see [[SWZ]] hub). The
 live story is less about the credential than about **fragile production and a run of rights flashpoints**.
+
+## The story is an absence
+
+Government "has not started rolling out digital identity in earnest" (**2024-07-22**), and the National ID
+card (initiated **2003**, held centrally by the Ministry of Home Affairs) "does not yet meet the criteria
+for digital identification" — initiatives only **conceptualised** via **[[rstp]]**, against biometric
+voter registration since **2013**. ID ownership **88% of adults** vs a **78%** average for eligible
+individuals over 15 (both **2021–2022**). The **[[world-bank]]** names the **national population register**
+as the foundation robust DPI requires and urges a biometric national digital ID for **eKYC and G2P**
+(**2025-08-05**). See [[include.access]], [[dpi.pay]]. Sources:
+[[2024-07-22 Risk of human rights infringement as Eswatini rushes to regulate the ICT sector]],
+[[2024-11-22 Eswatini unveils readiness report for digital ID, transformation push]],
+[[2025-08-05 Robust DPI inevitable for Eswatini's economic, jobs boom - World Bank]].
 
 ## Even the basic card is fragile
 

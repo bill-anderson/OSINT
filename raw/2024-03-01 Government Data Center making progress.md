@@ -10,7 +10,7 @@ accessed: 2026-07-16
 ingested: 2026-07-16
 places: [MWI]
 topics: [infra.store, dpi.govtech]
-entities: []
+entities: [[pppc-malawi], [digmap], [malawi-ministry-of-ict], [department-of-e-government-malawi], [world-bank]]
 lens: []
 body_completeness: full
 ---

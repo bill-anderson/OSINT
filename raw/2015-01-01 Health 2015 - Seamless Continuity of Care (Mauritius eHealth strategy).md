@@ -11,7 +11,7 @@ accessed: 2026-07-16
 ingested: 2026-07-16
 places: [MUS]
 topics: [dpi.mis, gov.policy]
-entities: []
+entities: [[ministry-of-health-mauritius]]
 lens: []
 body_completeness: full
 ---

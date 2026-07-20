@@ -11,7 +11,7 @@ accessed: 2026-07-16
 ingested: 2026-07-16
 places: [MUS]
 topics: [dpi.exchange, gov.standards]
-entities: []
+entities: [[ministry-ict-mauritius], [central-informatics-bureau-mauritius]]
 lens: []
 body_completeness: full
 ---

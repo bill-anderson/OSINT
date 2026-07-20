@@ -11,7 +11,7 @@ accessed: 2026-07-16
 ingested: 2026-07-16
 places: [MWI]
 topics: [gov.protect, dpi.mis, gov.legislate]
-entities: []
+entities: [[transform-health], [research-ict-solutions], [baker-botts]]
 lens: []
 body_completeness: full
 ---

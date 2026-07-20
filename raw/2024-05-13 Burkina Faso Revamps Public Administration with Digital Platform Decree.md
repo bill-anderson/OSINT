@@ -11,7 +11,7 @@ accessed: 2026-07-15
 ingested: 2026-07-15
 places: [BFA]
 topics: [dpi.govtech, gov.policy]
-entities: []
+entities: [[bf-ministry-digital-transition], [snmap-burkina-faso]]
 lens: []
 body_completeness: full
 ---

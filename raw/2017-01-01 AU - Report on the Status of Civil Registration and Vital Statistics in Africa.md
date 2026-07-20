@@ -11,7 +11,7 @@ accessed: 2026-07-15
 ingested: 2026-07-15
 places: [XAF]
 topics: [dpi.id, dpi.registry, data.statistics]
-entities: []
+entities: [[african-union], [uneca], [apai-crvs]]
 lens: []
 body_completeness: full
 ---

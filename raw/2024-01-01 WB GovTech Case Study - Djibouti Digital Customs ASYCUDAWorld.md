@@ -9,7 +9,7 @@ date_source: proxy
 ingested: 2026-07-15
 places: [DJI]
 topics: [dpi.govtech, dpi.exchange]
-entities: []
+entities: [[world-bank], [asycuda], [unctad]]
 lens: []
 body_completeness: full
 ---

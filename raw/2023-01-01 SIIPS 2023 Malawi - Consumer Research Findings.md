@@ -11,7 +11,7 @@ accessed: 2026-07-16
 ingested: 2026-07-16
 places: [MWI]
 topics: [dpi.pay, include.access]
-entities: []
+entities: [[africanenda], [world-bank], [uneca]]
 lens: []
 body_completeness: full
 ---

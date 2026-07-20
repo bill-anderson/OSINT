@@ -9,7 +9,7 @@ date_source: source
 ingested: 2026-07-15
 places: [DZA]
 topics: [dpi.pay, include.access]
-entities: []
+entities: [[bank-of-algeria], [cpi-algeria], [ministry-of-finance-algeria], [arab-monetary-fund]]
 lens: []
 body_completeness: full
 ---

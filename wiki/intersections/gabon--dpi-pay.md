@@ -8,7 +8,7 @@ topics: [dpi.pay, dpi.exchange, dpi.govtech, include.access, tech.innovate]
 entities: [[madigipaie-gabon], [gabon-visa-partnership-deal], [beac], [digitax-gabon], [sigfip-gabon], [uncdf], [visa]]
 lens: []
 status: active
-last_reviewed: 2026-07-18
+last_reviewed: 2026-07-20
 sources: [[2025-12-11-gabon-madigipaie-digital-payments-launch], [2025-09-15-gabon-2026-budget-revenue-digitalization], [2025-06-17-gabon-payments-interoperability-gimac], [2025-06-17-gabon-lunion-digital-ecosystem-payments], [2025-07-20-gabon-visa-partnership-public-services], [2026-03-01-gabon-madigipaie-taxigab], [2026-03-03-gabon-lunion-madigipaie-taxigab], [2026-06-28-gabon-lunion-gimacpay-dysfunction], [2026-07-07-gabon-lunion-madigipaie-libreville]]
 ---
 

@@ -8,7 +8,7 @@ topics: [dpi.pay, include.access, geopol.india, finance.mou, finance.new, tech.i
 entities: [[central-bank-of-seychelles], [seychelles-revenue-commission], [fusepay], [seychelles-upi-mou], [seft-seychelles]]
 lens: []
 status: active
-last_reviewed: 2026-07-19
+last_reviewed: 2026-07-20
 sources: [[2024-09-22 Seychelles to phase out cheques for financial transactions from 2025], [2026-07-09-nation-src-cheque-phaseout-2028], [2026-06-30-africabusinessinsight-seychelles-upi], [2025-11-21-techafricanews-fusepay-cheques], [2025-11-27-dabafinance-fusepay-preseed], [2026-06-24-seychellestimes-absa-multicurrency-card]]
 ---
 

@@ -8,7 +8,7 @@ topics: [dpi.pay, dpi.govtech, finance.new, include.access, gov.policy]
 entities: [[airtel-chad], [moov-africa-chad], [konoom], [cashi-chad], [ecobank]]
 lens: []
 status: active
-last_reviewed: 2026-07-19
+last_reviewed: 2026-07-20
 sources: [[2024-05-06 Airtel launches mobile money transfers in Chad], [2026-01-24-budget-2026-zero-cash-zero-papier-fen], [2026-02-17-journaldutchad-paiement-mobile-services-publics], [2026-04-02-wearetech-cashi-sfi-ifc-paiements-numeriques], [2026-06-19-wearetech-konoom-paiements-numeriques-multicanal]]
 ---
 

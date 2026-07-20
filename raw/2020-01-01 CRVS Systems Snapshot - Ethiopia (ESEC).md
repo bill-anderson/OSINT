@@ -9,7 +9,7 @@ date_source: proxy
 ingested: 2026-07-15
 places: [ETH]
 topics: [dpi.registry, dpi.id, data.statistics]
-entities: []
+entities: [[idrc-crvs-centre-of-excellence]]
 lens: []
 body_completeness: full
 ---

@@ -11,7 +11,7 @@ accessed: 2026-07-15
 ingested: 2026-07-15
 places: [BFA]
 topics: [gov.policy, data.statistics]
-entities: []
+entities: [[imf]]
 lens: []
 body_completeness: full
 ---

@@ -11,7 +11,7 @@ accessed: 2026-07-15
 ingested: 2026-07-15
 places: [AGO]
 topics: [infra.energy, include.divides, digital.rural]
-entities: []
+entities: [[afrobarometer]]
 lens: []
 body_completeness: full
 ---

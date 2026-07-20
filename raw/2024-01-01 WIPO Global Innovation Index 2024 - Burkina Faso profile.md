@@ -11,7 +11,7 @@ accessed: 2026-07-15
 ingested: 2026-07-15
 places: [BFA]
 topics: [tech.innovate, data.statistics]
-entities: []
+entities: [[wipo], [global-innovation-index]]
 lens: []
 body_completeness: full
 ---

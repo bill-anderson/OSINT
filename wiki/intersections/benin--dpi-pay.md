@@ -49,7 +49,7 @@ a fiscal policy that is actively pushing merchants off cash and onto it.
 
 ## Currency and crypto
 
-- **BCEAO [[e-cfa]] CBDC** and a **crypto-assets debate** (opportunities vs risks). See
+- **BCEAO e-CFA CBDC** and a **crypto-assets debate** (opportunities vs risks). See
   [[finance.new]]. Source: [[2026-04-29-crypto-actifs-debat-opportunites-risques]].
 
 ## Links

@@ -9,7 +9,7 @@ date_source: source
 ingested: 2026-07-15
 places: [DZA]
 topics: [infra.cybersec, gov.legislate]
-entities: []
+entities: [[council-of-europe], [budapest-convention]]
 lens: []
 body_completeness: full
 ---

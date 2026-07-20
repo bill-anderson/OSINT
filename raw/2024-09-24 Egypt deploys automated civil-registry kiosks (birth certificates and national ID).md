@@ -9,7 +9,7 @@ date_source: source
 ingested: 2026-07-15
 places: [EGY]
 topics: [dpi.id, dpi.registry, dpi.govtech, include.access]
-entities: []
+entities: [[ministry-of-interior-egypt], [digital-egypt]]
 lens: []
 body_completeness: full
 ---

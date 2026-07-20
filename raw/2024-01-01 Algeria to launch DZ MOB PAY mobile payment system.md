@@ -9,7 +9,7 @@ date_source: proxy
 ingested: 2026-07-15
 places: [DZA]
 topics: [dpi.pay, include.access]
-entities: []
+entities: [[dz-mob-pay], [abef-algeria], [bna-algeria], [al-salam-bank-algeria], [algerie-poste]]
 lens: []
 body_completeness: full
 ---

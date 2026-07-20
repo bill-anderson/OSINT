@@ -11,7 +11,7 @@ accessed: 2026-07-16
 ingested: 2026-07-16
 places: [MAR]
 topics: [tech.industry, gov.policy, dpi.pay]
-entities: []
+entities: [[maroc-telecom], [oxford-business-group]]
 lens: []
 body_completeness: full
 ---

@@ -5,7 +5,7 @@ place: BDI
 topic: dpi.pay
 places: [BDI]
 topics: [dpi.pay, include.access, gov.standards]
-entities: [[burundipay], [brb]]
+entities: [[burundipay]]
 lens: []
 status: active
 last_reviewed: 2026-07-20

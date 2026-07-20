@@ -10,7 +10,7 @@ date_source: source
 ingested: 2026-07-16
 places: [GNB]
 topics: [dpi.pay, gov.policy, dpi.govtech]
-entities: []
+entities: [[imf], [entd-gw]]
 lens: []
 body_completeness: full
 artefact: "2024-05-01 hlsea2024015 Guinea-Bissau Tax Compliance (IMF).pdf"

@@ -11,7 +11,7 @@ retrieved: 2026-07-17
 sweep_batch: MAR-2026-07-17
 places: [MAR]
 topics: [tech.ai, gov.legislate]
-entities: []
+entities: [[morocco-ai-bill], [house-of-representatives-morocco]]
 lens: []
 body_completeness: full
 ---

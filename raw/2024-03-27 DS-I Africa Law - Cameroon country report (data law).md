@@ -11,7 +11,7 @@ accessed: 2026-07-15
 ingested: 2026-07-15
 places: [CMR]
 topics: [gov.protect, gov.legislate]
-entities: []
+entities: [[ds-i-africa-law]]
 lens: []
 body_completeness: full
 ---

@@ -11,7 +11,7 @@ accessed: 2026-07-16
 ingested: 2026-07-16
 places: [LBY]
 topics: [infra.cybersec, gov.policy]
-entities: []
+entities: [[itu], [itu-global-cybersecurity-index], [lptic]]
 lens: []
 body_completeness: full
 ---

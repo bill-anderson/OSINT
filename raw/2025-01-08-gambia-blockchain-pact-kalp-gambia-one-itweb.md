@@ -13,7 +13,7 @@ retrieved: 2026-07-17
 sweep_batch: GMB-2026-07-17
 places: [GMB]
 topics: [dpi.govtech, finance.mou, tech.innovate]
-entities: []
+entities: [[kalp-foundation], [gambia-one], [ministry-of-communications-and-digital-economy-gambia]]
 ---
 
 # The Gambia signs blockchain pact to boost digital economy

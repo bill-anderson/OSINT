@@ -11,7 +11,7 @@ accessed: 2026-07-15
 ingested: 2026-07-15
 places: [COD]
 topics: [dpi.id, dpi.registry]
-entities: []
+entities: [[idrc-crvs-centre-of-excellence], [onip-drc], [rdc-pass]]
 lens: []
 body_completeness: full
 ---

@@ -11,7 +11,7 @@ accessed: 2026-07-16
 ingested: 2026-07-16
 places: [NAM]
 topics: [gov.regional, gov.legislate, dpi.exchange]
-entities: []
+entities: [[uneca], [namibia-electronic-transactions-act-2019]]
 lens: []
 body_completeness: full
 ---

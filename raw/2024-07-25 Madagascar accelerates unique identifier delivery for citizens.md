@@ -11,7 +11,7 @@ accessed: 2026-07-16
 ingested: 2026-07-16
 places: [MDG]
 topics: [dpi.id, dpi.registry, include.access]
-entities: []
+entities: [[oni-madagascar]]
 lens: []
 body_completeness: full
 ---

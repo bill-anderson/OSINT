@@ -256,7 +256,10 @@ Investment flowing into African digital transformation. (A *specific* transactio
   statistic** — AVCA 47% *of value*, Disrupt Africa 11.8% *of ventures raising any debt*. (5) **AVCA parks
   60 deals / US$1.56bn — 40% of continental value — in an unattributed "Multi Region" bucket**, so
   cross-publisher country comparison is not possible at all. Kenya CY2025 is the illustration:
-  **US$335m / US$1,096m / US$273.2m**, three numbers for one country-year.
+  **AVCA US$335m / Partech US$1,096m / Disrupt Africa US$273.2m**, three numbers for one country-year.
+  *(Unresolved: Partech's Kenya total is carried in this wiki as both **US$1.04bn** and **US$1,096m** —
+  the 3.8× Partech:Disrupt ratio above derives from the former. Noted 2026-07-20; neither figure has been
+  re-checked against the report.)*
   *CC recommends* — a curation call, not settled — Partech as the headline series for **African tech
   venture**, AVCA for **African venture as an asset class** (it alone carries exits, fundraising and LP
   composition), and Disrupt Africa retained as a named floor series.

@@ -11,7 +11,7 @@ accessed: 2026-07-15
 ingested: 2026-07-15
 places: [AGO]
 topics: [dpi.id, dpi.registry, geopol.china]
-entities: []
+entities: [[ceiec], [ministerio-da-justica-e-dos-direitos-humanos-angola]]
 lens: [sovereignty, colonialism]
 body_completeness: full
 ---

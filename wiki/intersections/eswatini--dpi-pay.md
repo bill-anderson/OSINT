@@ -8,7 +8,7 @@ topics: [dpi.pay, dpi.exchange, dpi.id, include.access, gov.policy, gov.regional
 entities: [[central-bank-of-eswatini], [eswatini-payment-switch], [eswatini-national-fintech-strategy], [mtn-eswatini], [paylogic]]
 lens: []
 status: active
-last_reviewed: 2026-07-19
+last_reviewed: 2026-07-20
 sources: [[2025-01-14 Phil Mnisi - Eswatini Payment Switch Fast Payments product launch], [2025-08-05 Robust DPI inevitable for Eswatini's economic, jobs boom - World Bank], [2025-09-28-eswatini-payment-switch-explainer], [2025-11-13-inside-eswatini-tackling-big-payments-challenges], [2025-11-16-eswatini-enters-africa-instant-payments-revolution], [2025-11-18-cbe-prioritises-broader-digital-ecosystem], [2025-12-05-fintech-to-reduce-cash-reliance], [2025-12-07-fintech-strategy-to-transform-eswatini-digital-future], [2025-09-26-eswatini-post-office-based-govt-payment-system], [2025-08-10-mobile-money-drives-financial-inclusion-growth], [2025-09-26-eswatini-national-ekyc-system]]
 ---
 

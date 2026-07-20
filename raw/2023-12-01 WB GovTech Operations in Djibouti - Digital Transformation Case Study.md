@@ -9,7 +9,7 @@ date_source: source
 ingested: 2026-07-15
 places: [DJI]
 topics: [dpi.govtech, gov.policy, dpi.exchange]
-entities: []
+entities: [[world-bank]]
 lens: []
 body_completeness: full
 ---

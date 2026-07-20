@@ -10,7 +10,7 @@ accessed: 2026-07-16
 ingested: 2026-07-16
 places: [NAM]
 topics: [dpi.exchange, dpi.govtech, gov.standards]
-entities: []
+entities: [[e-governance-academy], [cybernetica], [uxp-namibia]]
 lens: []
 body_completeness: full
 ---

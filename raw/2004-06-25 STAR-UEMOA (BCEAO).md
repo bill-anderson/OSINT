@@ -10,7 +10,7 @@ accessed: 2026-07-16
 ingested: 2026-07-16
 places: [NER, XWA]
 topics: [dpi.pay, gov.regional]
-entities: []
+entities: [[bceao], [waemu], [gim-uemoa], [boad]]
 lens: []
 body_completeness: full
 ---

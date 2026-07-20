@@ -11,7 +11,7 @@ accessed: 2026-07-16
 ingested: 2026-07-16
 places: [XAF]
 topics: [dpi.registry, data.statistics]
-entities: []
+entities: [[african-development-bank], [comesa]]
 lens: []
 body_completeness: full
 ---

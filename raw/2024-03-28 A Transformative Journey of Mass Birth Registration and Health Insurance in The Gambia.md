@@ -11,7 +11,7 @@ accessed: 2026-07-16
 ingested: 2026-07-16
 places: [GMB]
 topics: [dpi.registry, dpi.id, dpi.mis, include.access]
-entities: []
+entities: [[world-bank], [nhia-gambia], [ministry-of-interior-gambia], [ministry-of-health-gambia], [gambia-bureau-of-statistics]]
 lens: []
 body_completeness: full
 ---

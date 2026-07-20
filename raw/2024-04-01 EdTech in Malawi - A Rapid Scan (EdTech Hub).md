@@ -12,7 +12,7 @@ accessed: 2026-07-16
 ingested: 2026-07-16
 places: [MWI]
 topics: [capacity.training, dpi.mis]
-entities: []
+entities: [[edtech-hub], [gates-foundation], [world-bank], [unicef]]
 lens: []
 body_completeness: full
 ---

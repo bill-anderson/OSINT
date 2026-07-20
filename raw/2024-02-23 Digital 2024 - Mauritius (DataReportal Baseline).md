@@ -11,7 +11,7 @@ accessed: 2026-07-16
 ingested: 2026-07-16
 places: [MUS]
 topics: [data.statistics]
-entities: []
+entities: [[datareportal], [kepios]]
 lens: []
 body_completeness: full
 ---

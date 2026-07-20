@@ -11,7 +11,7 @@ accessed: 2026-07-16
 ingested: 2026-07-16
 places: [NER]
 topics: [dpi.registry, data.statistics]
-entities: []
+entities: [[ins-niger]]
 lens: []
 body_completeness: full
 ---

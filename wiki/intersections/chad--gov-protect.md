@@ -9,7 +9,7 @@ entities: [[ansice], [arcep-chad], [starlink], [anats], [chad-biometric-registry
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-20
-sources: [[2026-03-16-ecofin-ansice-cybersecurity-agency-reform], [2025-01-25-ansice-cisa-cybersecurite-infrastructures-critiques], [2025-08-28-tchadinfos-arrete-conditions-utilisation-starlink], [2026-04-29-techafricanews-comite-cadre-juridique-numerique], [2025-12-26-afriqueitnews-parlement-cadre-juridique-communications], [2025-10-22-toumaiwebmedias-ratification-ordonnance-011-pr-2025-communications-electroniques], [2026-04-11-tchad-loi-donnees-biometriques-judiciaires], [2014-03-21-tchad-loi-013-pr-2014-regulation-communications-electroniques]]
+sources: [[2025-12-10 Chad Finalizes Digital Law to Align National Framework With Global Standards], [2026-03-16-ecofin-ansice-cybersecurity-agency-reform], [2025-01-25-ansice-cisa-cybersecurite-infrastructures-critiques], [2025-08-28-tchadinfos-arrete-conditions-utilisation-starlink], [2026-04-29-techafricanews-comite-cadre-juridique-numerique], [2025-12-26-afriqueitnews-parlement-cadre-juridique-communications], [2025-10-22-toumaiwebmedias-ratification-ordonnance-011-pr-2025-communications-electroniques], [2026-04-11-tchad-loi-donnees-biometriques-judiciaires], [2014-03-21-tchad-loi-013-pr-2014-regulation-communications-electroniques]]
 ---
 
 # Chad × Data Protection, Cyber & the Legal Framework
@@ -83,7 +83,11 @@ country already imposing hard identification/retention rules on users.
   **has no adopted text, number, promulgation date or gazette reference, because it does not yet
   exist**. The 34-member committee above *is* its current stage. This is a **dated vacuum, not a
   provenance gap**: Chad still has **no enacted data-protection law**, while ANSICE is being empowered
-  to administer one.
+  to administer one. The announcement itself: minister **[[boukar-michel]]** stated (**9 Dec 2025**) that
+  Chad was *finalising* a digital law, but **no text, enactment date or gazette reference is held**, so it
+  is not law here. His framing is the sharpest ministerial statement of the [[sovereignty]] lens on file:
+  *"In the digital age, a country that does not control its data does not control its destiny."* Source:
+  [[2025-12-10 Chad Finalizes Digital Law to Align National Framework With Global Standards]].
 
 ## Identification and retention — collection ahead of protection
 

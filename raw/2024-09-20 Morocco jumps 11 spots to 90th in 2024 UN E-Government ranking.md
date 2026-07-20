@@ -11,7 +11,7 @@ accessed: 2026-07-16
 ingested: 2026-07-16
 places: [MAR]
 topics: [dpi.govtech, data.statistics, gov.policy]
-entities: []
+entities: [[un-egdi], [un-desa]]
 lens: []
 body_completeness: full
 ---

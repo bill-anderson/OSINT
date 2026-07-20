@@ -10,7 +10,7 @@ accessed: 2026-07-16
 ingested: 2026-07-16
 places: [MWI]
 topics: [dpi.registry, gov.legislate]
-entities: []
+entities: [[dai], [oxfam], [european-union], [malawi-customary-land-act-2016]]
 lens: []
 body_completeness: full
 ---

@@ -11,7 +11,7 @@ accessed: 2026-07-15
 ingested: 2026-07-15
 places: [BEN]
 topics: [gov.policy, finance.new, dpi.pay, include.access]
-entities: []
+entities: [[gsma], [benin-digital-strategy-2031]]
 lens: []
 body_completeness: full
 ---
