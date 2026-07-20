@@ -2,7 +2,9 @@
 type: contradiction
 id: zrhcp-subcomponent-1-2-card-count-and-cost
 opened: 2026-07-20
-status: open
+closed: 2026-07-20
+status: resolved
+resolution: PAD figure of record — US$6m / ~150,000 cards; ESMF carries a pre-appraisal envelope
 places: [ZMB]
 topics: [dpi.id, finance.new]
 entities: [[zrhcp], [world-bank], [unhcr], [dnrpc-zambia]]
@@ -91,8 +93,58 @@ of travel does not by itself tell you which.
 ## Resolution path
 
 The **ZRHCP Implementation Status Report (ISR), Sequence No. 2** is the most likely
-tie-breaker and **is not held as of 2026-07-20** — the World Bank document-detail page
-returns HTTP 403 to automated fetch. It is queued on `reviews/acquisitions.md` (added
-2026-07-20; the register was otherwise empty at that date). Until then the
-divergence is carried on [[zrhcp]], [[ZMB]] and [[zambia--dpi-id]] as unreconciled, with the
-PAD figure cited first as the appraisal document of record.
+tie-breaker but **is not held** — the World Bank document-detail page returns HTTP 403
+to automated fetch, so it needs a hand-clip. Under the drop rule (`ACQUIRE.md`) a
+hand-clip-only document is not parked as a chore, so it is **not** queued on
+`reviews/acquisitions.md`. Reconcile should attempt the figure by other routes (a
+restructuring paper, a revised financing table, a disclosed datasheet reachable
+automatically); failing that, after two attempts the divergence is carried on
+[[zrhcp]], [[ZMB]] and [[zambia--dpi-id]] as a dated unreconciled statement, with the
+PAD figure cited first as the appraisal document of record. The ISR being 403-blocked
+is itself part of that dated statement.
+
+---
+
+## RESOLUTION (2026-07-20, attempt 1)
+
+**Resolved in favour of A — the PAD: US$6 million / ~150,000 cards.**
+
+The fallback was not needed. A new primary settles the cost side: the project's
+**Stakeholder Engagement Plan, internally dated July 2024** (World Bank disclosure
+2024-08-05), gives the **pre-appraisal** envelope as **Component 1 = US$8 million est.**
+(1a US$2m, 1b US$6m). That US$8m is exactly the Component 1 figure the December 2024 ESMF
+carries — so the ESMF is reproducing a design generation that **appraisal superseded**, not
+amending an appraisal number. Staged for ingest at
+`new/2024-07-01-worldbank-zambia-zrhcp-stakeholder-engagement-plan.md`.
+
+**The arithmetic test the brief asked for was run, and it does *not* separate them.** Both
+documents reconcile internally to the US$30m envelope:
+
+- PAD — 1.1 (1) + 1.2 (6) = C1 7; C2 sub-lines 3 + 3 + 6.5 + 2.5 = 15; 7 + 15 + 4 + 4 = 30.
+- ESMF — 1.1 (1.5) + 1.2 (6.5) = C1 8; C2 sub-lines 2.5 + 2.5 + 6.5 + 2.5 = 14;
+  8 + 14 + 4 + 4 = 30.
+
+So the "ESMF transcribed inconsistently" hypothesis in its crude form is **dead** — the ESMF
+is a coherent alternative allocation, not a slip. What decides it is documentary standing and
+sequence, not arithmetic:
+
+1. The PAD's 7 / 15 / 4 / 4 is the **machine-generated DATASHEET component table** tied to the
+   Board-approved Financing Agreement (approval 2024-09-26). The ESMF is a borrower-prepared
+   safeguards instrument and labels every component figure *"est."*; the PAD labels none.
+2. The ESMF's C1 = US$8m is the **pre-appraisal** figure (July 2024 SEP), above.
+3. **No restructuring paper for P503941** surfaced on search.
+4. The grant became **effective 2024-12-23 — after the ESMF**. A restructuring before
+   effectiveness would be extraordinary.
+
+**Stated honestly on the pages:** the *cost* divergence is well explained; the **card count is
+not directly corroborated** — the SEP gives no card figure, so ~100,000 cannot be traced to
+the earlier design (it matches the "over 100,000 refugees" population headline rather than the
+150,000 refugees *and former refugees* the PAD targets). That step is inference.
+
+**ISR Sequence No. 2 remains unobtainable.** One further attempt was made via an alternate
+route; the detail page is JS-gated and returned only page chrome. Recorded on
+[[zambia--dpi-id]] as a dated absence.
+
+Applied to: `wiki/entities/zrhcp.md`, `wiki/places/ZMB.md`,
+`wiki/intersections/zambia--dpi-id.md`. `wiki/entities/unhcr.md` carries no cost or card
+figure and needed no change.

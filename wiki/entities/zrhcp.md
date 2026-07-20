@@ -7,7 +7,7 @@ topics: [finance.new, dpi.id, dpi.registry, include.access, include.divides, inf
 lens: [sovereignty, colonialism]
 status: active
 last_reviewed: 2026-07-20
-sources: [[2025-10-03 Zambia plans domestic digital ID development with help from international partners], [2024-09-27-world-bank-zambia-refugee-host-communities-grant], [2024-09-05-worldbank-zambia-zrhcp-pad-padhi00410], [2024-12-01-worldbank-zambia-zrhcp-environmental-social-management-framework]]
+sources: [[2025-10-03 Zambia plans domestic digital ID development with help from international partners], [2024-09-27-world-bank-zambia-refugee-host-communities-grant], [2024-09-05-worldbank-zambia-zrhcp-pad-padhi00410], [2024-12-01-worldbank-zambia-zrhcp-environmental-social-management-framework], [2024-07-01-worldbank-zambia-zrhcp-stakeholder-engagement-plan]]
 ---
 
 # Zambia Refugee and Host Communities Project (ZRHCP)
@@ -51,7 +51,7 @@ actual sequence, from the announcer of record:
   asylum-seekers and other persons of concern" ([[undp]], 2024-09). **Three definitions,
   three counts; none is adopted here as *the* number.**
 
-## The identity limb (Subcomponent 1.2 — US$6m per the PAD, US$6.5m per the ESMF)
+## The identity limb (Subcomponent 1.2 — **US$6m**, ~150,000 cards)
 
 The reason this project sits in the wiki, and the detail is more consequential than the
 headline:
@@ -64,7 +64,8 @@ headline:
 - **~150,000 cards procured "out of the 20 million that the Government will buy for
   citizens"** (PAD, 2024-09-05) — which incidentally fixes the **national card-procurement
   scale at 20m**, a figure the wiki did not otherwise hold. *(The ESMF, 2024-12, gives
-  ~100,000 against the same 20 million — see the unreconciled divergence below.)*
+  ~100,000 against the same 20 million; the appraisal figure is the one carried — see
+  "Subcomponent 1.2: which figure, and why" below.)*
 - **The UNHCR ProGres database transfers to MoHAIS** (onto separate servers and peripheral
   equipment). ProGres is UNHCR's registration and case-management system. **This is a
   wholesale transfer of refugee registration data from UN custody to the Zambian state**,
@@ -99,13 +100,55 @@ record") is retired. Sources:
 [[2024-09-05-worldbank-zambia-zrhcp-pad-padhi00410]],
 [[2024-12-01-worldbank-zambia-zrhcp-environmental-social-management-framework]].
 
-**One figure is not settled, and the project's own documents are the reason.** The PAD and
-the ESMF give **different values for the same subcomponent**: the PAD, **US$6 million** and
-*"approximately 150,000 paper-based cards or polycarbonate cards"*; the ESMF, **US$6.5
-million** and *"approximately 100,000"*. The ESMF is the later document (**2024-12** against
-**2024-09**) but is not on its face a revision — it restates the subcomponent rather than
-amending it. Carried **unreconciled**, not silently resolved to the later value. Recorded at
-`reviews/contradictions/open/`.
+## Subcomponent 1.2: which figure, and why (resolved 2026-07-20)
+
+The wiki carries **US$6 million / ~150,000 cards** (PAD, 2024-09-05) as the figure of record.
+The ESMF's **US$6.5 million / ~100,000** is **not** adopted, and the reasoning is worth
+keeping because the obvious rule — prefer the later document — gives the wrong answer here.
+
+**What each document says.**
+
+| | Component 1 | Sub 1.1 | Sub 1.2 | Cards | Document | Date |
+|---|---|---|---|---|---|---|
+| Pre-appraisal | US$8m *est.* | 1a: US$2m | 1b: US$6m | *not stated* | Stakeholder Engagement Plan | 2024-07 |
+| **Appraisal** | **US$7m** | **US$1m** | **US$6m** | **~150,000** | **PAD, PADHI00410** | **2024-09-05** |
+| Safeguards | US$8m *est.* | US$1.5m | US$6.5m | ~100,000 | ESMF | 2024-12 |
+
+**Both documents reconcile internally**, so this is not a sloppy transcription. The PAD:
+1 + 6 = 7; Component 2's sub-lines 3 + 3 + 6.5 + 2.5 = 15; and 7 + 15 + 4 + 4 = **30**, the
+Total Operation Cost. The ESMF: 1.5 + 6.5 = 8; its Component 2 sub-lines 2.5 + 2.5 + 6.5 +
+2.5 = 14; and 8 + 14 + 4 + 4 = **30**. Two coherent allocations of the same envelope.
+
+**Four things decide it for the PAD.**
+
+1. **The PAD's table is the operations record.** Its 7 / 15 / 4 / 4 is the machine-generated
+   DATASHEET component table attached to the Board-approved Financing Agreement
+   (approved 2024-09-26). The ESMF is a borrower-prepared safeguards instrument, and it
+   labels every component figure *"est."* — the PAD labels none of them.
+2. **The ESMF's Component 1 = US$8m is the *pre-appraisal* number.** The July 2024
+   Stakeholder Engagement Plan gives Component 1 at US$8m est. — the ESMF is reproducing a
+   design generation that appraisal superseded, not amending appraisal.
+3. **There is no restructuring paper for P503941**, and none surfaced on search.
+4. **There was no window for a re-scoping.** The grant became effective **2024-12-23** —
+   *after* the ESMF. Restructuring a project before it is even effective would be
+   extraordinary.
+
+**What is not established, honestly.** The cost side is well explained by a stale envelope
+carried into the safeguards document. **The card count is not.** The July 2024 SEP gives no
+card figure, so the ESMF's ~100,000 cannot be traced to the earlier design; it happens to
+match the "over 100,000 refugees" population headline rather than the 150,000 refugees *and
+former refugees* the PAD's procurement targets. Read as most likely the same drafting lag,
+but that is inference, not documentation.
+
+**The tie-breaker was not obtainable.** ISR Sequence No. 2 (disclosed 2025-06) is the
+document that would show the allocation actually in force during implementation. Its World
+Bank detail page is **JS-gated and returns nothing to automated fetch** (attempted
+2026-07-20); it needs a hand-clip. Until then the appraisal figure stands and the ESMF
+divergence is recorded, not erased.
+
+Sources: [[2024-09-05-worldbank-zambia-zrhcp-pad-padhi00410]],
+[[2024-12-01-worldbank-zambia-zrhcp-environmental-social-management-framework]],
+[[2024-07-01-worldbank-zambia-zrhcp-stakeholder-engagement-plan]].
 
 ## Why it matters here
 
@@ -138,6 +181,7 @@ after "former refugee" status remains unanswered. See [[gov.protect]], [[include
 
 ## Sources
 
+- [[2024-07-01-worldbank-zambia-zrhcp-stakeholder-engagement-plan]]
 - [[2024-09-05-worldbank-zambia-zrhcp-pad-padhi00410]]
 - [[2024-09-27-world-bank-zambia-refugee-host-communities-grant]]
 - [[2024-12-01-worldbank-zambia-zrhcp-environmental-social-management-framework]]

@@ -299,13 +299,19 @@ The third is **evidentiary**: the headline numbers disagree. Penetration spans *
   transfer** rest on the project's **PAD (PADHI00410, 2024-09-05)** and **ESMF (2024-12)**,
   not on reconcile-pass reading of undisclosed text; the earlier "not held" caveat is
   retired. The PAD's own words for the transfer: *"Transfer of the UNHCR ProGres database to
-  the MoHAIS (separate servers and peripheral equipment)"*. **One figure stays unreconciled:**
-  the PAD gives Subcomponent 1.2 at **US$6m / ~150,000 cards**, the ESMF at **US$6.5m /
-  ~100,000** — a divergence inside one project's own documentation, carried rather than
-  resolved. See [[zrhcp]], [[gov.protect]], [[include.divides]]. Sources:
+  the MoHAIS (separate servers and peripheral equipment)"*. **Subcomponent 1.2 is carried at the
+  PAD's US$6m / ~150,000 cards (resolved 2026-07-20).** The ESMF (2024-12) gives **US$6.5m /
+  ~100,000**, but its Component 1 envelope (US$8m) is the **pre-appraisal** figure from the
+  project's **July 2024 Stakeholder Engagement Plan**, which appraisal cut to US$7m; the ESMF
+  labels its component costs *"est."*, no restructuring paper exists, and the grant only became
+  effective **2024-12-23** — after the ESMF — so there was no window for a re-scoping. The
+  divergence is recorded, not erased; **ISR Sequence No. 2, which would show the allocation
+  actually in force, remains unobtainable to automated fetch**. See [[zrhcp]],
+  [[gov.protect]], [[include.divides]]. Sources:
   [[2024-09-27-world-bank-zambia-refugee-host-communities-grant]],
   [[2024-09-05-worldbank-zambia-zrhcp-pad-padhi00410]],
-  [[2024-12-01-worldbank-zambia-zrhcp-environmental-social-management-framework]].
+  [[2024-12-01-worldbank-zambia-zrhcp-environmental-social-management-framework]],
+  [[2024-07-01-worldbank-zambia-zrhcp-stakeholder-engagement-plan]].
 - **2024-09-13** — **Land administration goes digital — a thread previously absent from the wiki.**
   **[[zilas]]**, deployed by SZI's **E-Government Division** for the [[ministry-of-lands-zambia]]:
   **100% digital**, web and mobile, via the **Government Service Bus at gsb.gov.zm**. A four-day

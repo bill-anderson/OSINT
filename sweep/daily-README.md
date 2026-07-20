@@ -195,10 +195,11 @@ from the day *already* swept, not newly-indexed weekend items.
      e.g. `rca.news-pravda.com`) is **never staged** — log the drop as
      **`inadmissible-origin`** (not `off-topic`) and **seek the original instead**,
      staging that. If real reporting exists only on such a mirror and no original can
-     be found, file it as a **gap lead** in `reviews/gaps.md`, not a source.
+     be found, **drop it** — do not stage it; where it bears on a page, note the
+     absence there, dated. There is no gaps register.
      **Newsletter/digest editions** (e.g. **TechCabal Daily**) are a digest of others'
      reporting — **dropped outright, never lead-mined**; only a publisher's standalone
-     articles are admitted (ISSUE-019).
+     articles are admitted.
    - **Classify** against `wiki/taxonomy.md` (topic slugs), `wiki/countries.csv`
      (place codes) and known entities; add `lens` where clear (`sovereignty`,
      `colonialism`). Best-effort — ingest validates.
@@ -315,7 +316,7 @@ as the final act.
 Per CLAUDE.md, the last line is the standing register tally:
 
 ```
-issues - NN ; contradictions - NN ; gaps - NN
+contradictions - NN ; acquisitions - NN ; decisions logged - NN
 ```
 
 plus a one-line sweep tally: `daily sweep: staged N · dropped N · needs-clip N ·

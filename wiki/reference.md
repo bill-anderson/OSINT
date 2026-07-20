@@ -600,9 +600,11 @@ Acquisition sweeps run *upstream* of the wiki and stage into `new-queue/`.
   source files with best-effort frontmatter) and to `sweep/` (its own
   state/logs). It **never** writes to `new/`, `raw/`, or any `wiki/` page.
 - Candidates enter the base only by being **processed**: `new-queue/ → new/ →`
-  ingest `→ raw/`. An unreviewed sweep result can never become a source by
-  accident. From `new/`, the filing rules in §6 apply unchanged. [adapted:
-  CLAUDE.md now governs — CC promotes and logs; there is no human-promotion gate.]
+  ingest `→ raw/`. **Bill promotes `new-queue/ → new/`** — reviewing raw sweep
+  candidates before they enter the pipeline is his (`new-queue/done/` is his review
+  area). This is the **one deliberate human gate** in the whole system; everywhere
+  else CC acts and logs. An unreviewed sweep result can never become a source by
+  accident. From `new/`, the filing rules in §6 apply unchanged.
 - **Sweep-time dedup is conservative** — exact URL or confident same-outlet
   re-crawl only, logged per run. Nothing is discarded silently. The aggressive
   pass is the post-ingest duplicate lint (#7), with full text in hand.

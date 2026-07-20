@@ -5,6 +5,85 @@ contradictions found, and open `needs-review` flags.
 
 ---
 
+## 2026-07-20 — Reconcile: ZRHCP Subcomponent 1.2 resolved; `open/` empty
+
+The day's last contradiction, closed in favour of the **PAD: US$6m / ~150,000 cards**. The unreconciled
+fallback the brief allowed for was not needed.
+
+**A third document broke the deadlock.** The project's **Stakeholder Engagement Plan** (internally dated
+July 2024, disclosed 2024-08-05) carries the **pre-appraisal** envelope — Component 1 = US$8m *est.*
+(1a US$2m, 1b US$6m). That is exactly what the December-2024 ESMF carries. So the ESMF reproduces a
+**design generation the appraisal superseded**, rather than amending an appraisal figure.
+
+| | C1 | 1.1 | 1.2 | Cards | Date |
+|---|---|---|---|---|---|
+| SEP (pre-appraisal) | 8 *est.* | 2 | 6 | — | 2024-07 |
+| **PAD (appraisal)** | **7** | **1** | **6** | **~150,000** | 2024-09-05 |
+| ESMF (safeguards) | 8 *est.* | 1.5 | 6.5 | ~100,000 | 2024-12 |
+
+**The arithmetic test did not separate them** — both reconcile internally to US$30m. So the "ESMF
+transcribed it sloppily" hypothesis is dead: it is a *coherent alternative allocation*, not a slip. What
+decides it is standing and sequence — the PAD's table is the machine-generated DATASHEET tied to the
+Board-approved Financing Agreement and carries no "est." labels; no restructuring paper exists; and the
+grant became **effective 2024-12-23, after the ESMF**, leaving no window for a re-scoping.
+
+**Stated honestly on the pages: the cost divergence is explained, the card count is not.** The SEP gives
+no card figure, so ~100,000 cannot be traced to the earlier design — it matches the "over 100,000
+refugees" headline rather than the 150,000 refugees *and former refugees* the PAD targets. That step is
+flagged as inference, not documentation. **ISR Sequence No. 2** was attempted once more by an alternate
+route (JS-gated, page chrome only) and is recorded as a dated absence rather than ground down.
+
+### The method finding, which outlives this item
+
+**World Bank *safeguards* documents — ESMF, SEP, ESRS — can carry stale pre-appraisal cost envelopes
+while reproducing PAD narrative near-verbatim, and they reconcile internally.** Internal arithmetic will
+not catch it, and near-verbatim narrative makes them read as authoritative. **Anywhere this wiki has taken
+a component cost from a safeguards document rather than an appraisal document, that figure is suspect.**
+Not swept for other instances.
+
+Filed: `raw/2024-07-01-worldbank-zambia-zrhcp-stakeholder-engagement-plan.md`. `reviews/contradictions/open/`
+now holds only its README.
+
+---
+
+## 2026-07-20 — Consistency pass across all processes + ZRHCP acquisition dropped
+
+Bill asked for a consistency check from `CLAUDE.md` down. Read CLAUDE.md, `reference.md`,
+`RECONCILE.md`, `ACQUIRE.md`, both READMEs. Architecture is sound — two queues, act-and-log,
+whole-folder passes, matching triggers and status lines. Fixed the day's residue:
+
+- **CLAUDE.md header** claimed `reference.md` "not yet written" — it is. Now points to it and to the
+  two pass files.
+- **"worked by the sweep or a hand-clip, never by reconcile"** — stale phrasing in three files
+  (CLAUDE.md, RECONCILE.md, reference.md §8), all predating the acquire pass. All now read "drained
+  by the acquisition pass; hand-clip-only documents dropped, absence stated on the page."
+- **RECONCILE.md** never said to clean up `research/` at pass end — why ~80 scratch files accumulated
+  until hand-deleted. Now: durable resolution lives on the page + log, `research/` is transient and
+  deleted at pass end.
+
+**Daily sweep checked too (initially missed).** `sweep/daily-README.md` carried three stale items,
+now fixed: the standing status line still read `issues - NN ; contradictions - NN ; gaps - NN`
+(→ the two-queue line); a mirror-only story with no original was routed to `reviews/gaps.md` as a
+"gap lead" (→ drop it, note the dated absence on the page — no gaps register); and an inline
+`(ISSUE-019)` rule citation stripped (the rule stays; issue-number refs don't).
+
+**One real contradiction between two process files — Bill ruled.** `daily-README` said the human
+promotes `new-queue/ → new/`; `reference.md` §7 said "CC promotes, no human gate." Bill's ruling:
+**the human gate stays** — reviewing raw sweep candidates before the pipeline is his, `new-queue/done/`
+is his review area. §7 corrected to match. This is now documented as the **one deliberate human gate**
+in the system; everywhere else CC acts and logs. (It is not a retreat from pragmatic automation —
+it gates raw external candidates entering the base, not CC's decisions within it.)
+
+**ZRHCP acquisition dropped (decision).** The acquire pass had parked one blocked item — the ZRHCP
+ISR Seq 2 (P503941), 403 to automated fetch — in a new `acquisitions.md` section, and opened
+contradiction `zrhcp-subcomponent-1-2-card-count-and-cost`. Parking a hand-clip chore is exactly
+what the drop rule forbids. Actioned: **dropped the ISR** from the queue; `acquisitions.md` reset to
+its empty state (acquired docs are in `raw/` via the batch below). The **contradiction stays open** —
+it is a genuine PAD-vs-ESMF dispute, both values held, legitimate reconcile work; its resolution path
+was repointed off the dropped item to "attempt other routes, else carry as a dated unreconciled
+statement." No carve-out added to ACQUIRE.md: a blocked tie-breaker drops, and the contradiction it
+would have settled closes as a dated absence — the designed outcome.
+
 ## 2026-07-20 — Ingest: the acquisition batch (50 documents, 12 workers)
 
 `new/` drained; `raw/` at 4,678. Gazetted statutes, court judgments, World Bank project documents,

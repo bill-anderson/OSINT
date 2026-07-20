@@ -140,23 +140,33 @@ Place: [[ZMB]] · Concept: [[dpi.id]] · Entities: [[dzap]] · [[world-bank]] ·
 
 ## Acquisition note (2026-07-20)
 
-The **ZRHCP Implementation Status Report (ISR), Sequence No. 2 is not held as of 2026-07-20** - the
-World Bank document-detail page returns **HTTP 403** to automated fetch. Current **disbursement
-against the identity limb, and whether biometric registration under Subcomponent 1.2 has actually
-started, are therefore unestablished**.
+The **ZRHCP Implementation Status Report (ISR), Sequence No. 2 is not held as of 2026-07-20** — the
+World Bank document-detail page returns **HTTP 403** to automated fetch, and a second attempt the
+same day via an alternate route returned only page chrome (the content is JS-gated). It needs a
+hand-clip. Current **disbursement against the identity limb, and whether biometric registration
+under Subcomponent 1.2 has actually started, are therefore unestablished** — as is the component
+allocation actually in force during implementation.
 
 The two substantive ZRHCP documents **were ingested on 2026-07-20** (PAD Report No. PADHI00410,
 2024-09-05; ESMF, December 2024) and are now held. They confirm the **UNHCR ProGres → MoHAIS
 database transfer** (separate servers and peripheral equipment) and the **20 million card** national
-procurement figure, and they **hold both sides of the Subcomponent 1.2 discrepancy**: the PAD gives
-*"Issuing of ID cards to refugees and former refugees nationally (US$6 million)"* with
-*"approximately 150,000 paper-based cards or polycarbonate cards (out of the 20 million ...)"*, while
-the ESMF gives the same subcomponent at **US$6.5 million** and **~100,000 cards**. The ESMF is the
-later document (December 2024 against September 2024) but is not on its face a revision of the PAD
-figure, so the divergence is **carried as unreconciled**, not silently resolved to the later
-value — filed at `reviews/contradictions/open/`. Sources:
+procurement figure.
+
+**Subcomponent 1.2 is carried at US$6 million / ~150,000 cards (resolved 2026-07-20).** The PAD
+gives *"Issuing of ID cards to refugees and former refugees nationally (US$6 million)"* with
+*"approximately 150,000 paper-based cards or polycarbonate cards (out of the 20 million ...)"*;
+the ESMF gives the same subcomponent at **US$6.5 million** and **~100,000 cards**. The later
+document does **not** win here: the ESMF's Component 1 envelope (US$8m) is the **pre-appraisal**
+figure carried over from the project's **July 2024 Stakeholder Engagement Plan**, which appraisal
+reduced to US$7m; the ESMF labels its component costs *"est."* where the PAD's are the
+Board-approved operations table; no restructuring paper exists; and the grant became effective
+**2024-12-23**, after the ESMF, leaving no window for a re-scoping. Both documents nonetheless
+reconcile internally to the US$30m envelope, so this is a design-generation lag, not a
+transcription slip. The **card count** specifically is inference — the SEP states no card figure —
+and the divergence is recorded rather than erased. Full reasoning on [[zrhcp]]. Sources:
 [[2024-09-05-worldbank-zambia-zrhcp-pad-padhi00410]],
-[[2024-12-01-worldbank-zambia-zrhcp-environmental-social-management-framework]].
+[[2024-12-01-worldbank-zambia-zrhcp-environmental-social-management-framework]],
+[[2024-07-01-worldbank-zambia-zrhcp-stakeholder-engagement-plan]].
 
 **The ZRHCP PAD does not bear on the INRIS enrolment question.** Checked in full on 2026-07-20:
 it contains **no enrolment share and no absolute enrolment figure** for INRIS. Its only

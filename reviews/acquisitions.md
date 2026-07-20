@@ -5,39 +5,19 @@ identified document* the wiki wants and does not hold — a gazetted Act, a
 regulator's bulletin, a project appraisal document, a PDF behind a 403 or a
 cookie wall. Nothing here needs investigating; it needs **fetching**.
 
-This is why it is separate from `contradictions/`. The reconcile pass is an Exa
-research pass: it is the right instrument for *"which of these two values is
-right"* and the wrong one for *"download this PDF."* Sending 40 acquisitions
-through reconcile would burn a research pass on work a fetch or a hand-clip
-does better.
+Worked by the **acquisition pass** (`run acquisitions`, procedure in
+`reviews/ACQUIRE.md`), never by reconcile — sending a download through an Exa
+research pass wastes it. The pass takes the whole list, one automated attempt
+each. What comes back is ingested via `new/` and its line struck; what a single
+attempt cannot get — paywall, cookie wall, 403, anything needing a hand-clip — is
+**dropped, not parked**, with its absence stated dated on the page it bears on. No
+item is carried for a human loop.
 
-**How items leave.** Acquired → ingest via `new/` in the normal way, then strike
-the line here and note it in `log.md`. Confirmed unobtainable after a real
-attempt → strike the line here and record the absence **on the page it bears on, dated** —
-a document that cannot be got is a horizon, not a queue entry.
-
-**Routes.** Most of these failed an automated fetch, so they need one of: a
-manual browser capture, a subscriber clip, or a hand-download. Items marked
-**[blocked]** have a recorded failure mode (403, bot-block, cookie wall, JS
-shell, fetch-size limit); items marked **[untried]** were simply never fetched.
-
-> Migrated out of `reviews/gaps.md` on 2026-07-20 (register triage — see
-> `log.md`). Original wording and provenance are in git history of `gaps.md`.
+Items are marked **[blocked]** (a recorded failure mode: 403, bot-block, cookie
+wall, JS shell, fetch-size limit) or **[untried]** (never yet fetched).
 
 ---
 
-## Statutes, decrees and gazetted instruments
-
-
-*(All 11 items in this section were resolved by the acquisition pass of 2026-07-20 — 9 acquired, 2 dropped.)*
-
-## World Bank project documents
-
-- **ZRHCP Implementation Status Report (ISR), Sequence No. 2** — Zambia Refugee and Host
-  Communities Project, **P503941**. **[blocked]** — the World Bank document-detail page
-  returns **HTTP 403** to automated fetch; needs a manual browser capture. *Why it is
-  wanted:* it is the likely tie-breaker for the open contradiction
-  `zrhcp-subcomponent-1-2-card-count-and-cost` (PAD gives Subcomponent 1.2 at US$6m /
-  ~150,000 cards; the ESMF at US$6.5m / ~100,000), and it would establish current
-  disbursement against the identity limb and whether biometric registration under
-  Subcomponent 1.2 has actually started. Added 2026-07-20.
+*(Queue empty as of 2026-07-20 — the acquisition pass drained it; acquired
+documents are in `raw/`, dropped items recorded on their pages. New items are
+added here by reconcile or ingest when a specific unheld document is identified.)*
