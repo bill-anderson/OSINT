@@ -25,37 +25,6 @@ removes the item here. A short `issues.md` means you're caught up.
 
 ---
 
-- **ISSUE-007 · Two batch PDFs are undated AND unattributed — admit or hold?** Two artefacts arrived with
-  no printed date, no recoverable PDF metadata, and **no named publisher anywhere in the document**:
-  (a) *Seizing the opportunity to improve the national digital ID system for Uganda* — evidently a joint
-  civil-society submission (written in a collective "we recommend / we call upon NIRA" voice), whose content
-  brackets it to June–July 2024; it carries a striking claim, that **1 million people in the National
-  Identity Register have fingerprints that cannot be matched**, attributed to NIRA's Executive Director.
-  (b) *Tanzania_case_study.pdf* — a third-person analyst account of Tanzania's "Jamii" DPI stack
-  (Jamii Namba / Jamii Malipo / Jamii X-Change), post-dating 29 July 2024. Both are plainly genuine
-  documents, not AI syntheses — but source admissibility asks for a **dated, attributable origin**, and
-  neither has one as held. Both are **parked in `_leads/`** pending this call rather than admitted on a
-  guess. *Recommend:* **hold as leads and hand-source the original web postings** to establish publisher
-  and date, then admit properly — for (a) especially, since its fingerprint-failure claim is independently
-  corroborated by the IriTech account (>1m Ugandans unable to register fingerprints) and would be
-  load-bearing if admitted. Failing that, admit each with `date_source: proxy`, an explicit
-  publisher-unknown note, and never as corroboration for a claim it uniquely carries. *Decision:*
-  (awaiting). (Surfaced ingest, 2026-07-17.)
-
-- **ISSUE-018 · Two competing `sources:` frontmatter conventions across the corpus — which is canonical?**
-  Wiki pages serialise `sources:` two incompatible ways: the majority **`sources: [[a], [b], [c]]`**
-  (1,789 pages) and a minority **`sources: [[[a]], [[b]], [[c]]]`** (217 pages, e.g. `ngic-ghana`,
-  `telecom-egypt`, `egypt--infra-store`, `ghana--infra-connect`). Each is internally consistent, so
-  neither is "broken" — but a parser or lint reading one convention mis-reads the other, and this batch
-  showed the practical cost: agents appending to a page in the *other* style produced genuinely malformed
-  hybrids (`[[[A], [[B], [C]…`) on `dpi.govtech`, `dpi.pay` and `infra.connect`. **Those three are already
-  repaired** (tier-1); the underlying inconsistency is not. CLAUDE.md doesn't settle it — its only
-  multi-item example is for `entities:` (`[[cassava-technologies], [nvidia]]`), and its `sources:` examples
-  are single-item, where both conventions look identical. *Recommend:* declare **`[[a], [b]]` canonical**
-  (it matches the `entities:` example and holds the large majority), then normalise the 217 minority pages
-  in one mechanical sweep — as its own commit, not folded into an ingest — and add a lint check so the
-  hybrid can't recur. *Decision:* **Accepted (Bill, 2026-07-20).** Rule done — `[[a], [b]]` declared canonical in CLAUDE.md + lint #12 added. **Normalization of the ~217 pages: Bill is running it locally as its own commit** (validated `normalize_sources.py` provided). Remove this item once the sweep is applied. (Surfaced ingest daily-2026-07-19, 2026-07-19; ruled 2026-07-20.)
-
 - **ISSUE-019 · Should TechCabal Daily newsletter editions be captured as a running record?**
   The sweep dropped *"TechCabal Daily — Uber takeover"* (2026-07-17) as a second-hand digest: its payload
   is a roundup of wire coverage plus items already held separately. By the letter of Source admissibility

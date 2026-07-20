@@ -7,7 +7,7 @@ topics: [dpi.registry, dpi.govtech]
 lens: []
 status: active
 last_reviewed: 2026-07-15
-sources: [[2026-01-13 Algeria begins nationwide rollout of AMLAK electronic land system], [[2026-01-12-electronic-land-titles-amlak--wearetech]]]
+sources: [[2026-01-13 Algeria begins nationwide rollout of AMLAK electronic land system], [2026-01-12-electronic-land-titles-amlak--wearetech]]
 ---
 
 # AMLAK (Algeria electronic land-title system)

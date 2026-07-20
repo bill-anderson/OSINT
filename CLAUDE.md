@@ -384,6 +384,13 @@ queue means routing each item to its correct destination.
    (never park it as a lead; see Sources, entity profiles, and leads). Discard
    (delete) only the wiki's own config/vocabulary files and genuine
    non-intelligence artefacts. Only admissible items proceed to the steps below.
+   **Undated/unattributed but possibly important?** A parked lead that lacks a
+   dated, attributable origin yet carries **possibly-important information** (a
+   load-bearing claim, a first-of-kind development) is **also filed as a
+   provenance/corroboration hunt in `reviews/contradictions/open/`** — a research
+   brief for the reconcile pass to seek the original posting and dated primaries —
+   so it is actively worked rather than left inert in `_leads/`. It stays a lead
+   until reconcile surfaces admissible primaries. (ISSUE-007.)
 2. **Deduplication check.** Before creating pages, decide whether this source
    reports an event already in the wiki or a genuinely new development. Match
    incoming sources against existing pages by event + entities + date:

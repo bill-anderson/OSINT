@@ -8587,3 +8587,36 @@ pages:** Bill will **run it locally as its own commit** (his choice) — CC prov
 canonical single-item `[[a]]` untouched, is idempotent, and scans `wiki/` only (raw/ excluded as
 immutable). ISSUE-018 kept in the register annotated **rule done, normalization pending Bill's local
 run** until it is applied.
+
+## 2026-07-20 review — ISSUE-018 closed (normalization confirmed complete)
+
+Bill ran the robust `normalize_sources.py --dry-run` from the repo root: **"would change 0"** — every
+`sources:`/`entities:` frontmatter line across `wiki/` is now the canonical `[[a], [b]]` form (his batch
+run normalized the minority pages, including the malformed nested case `amlak.md` once the robust
+bracket-collapse version was used). Rule + lint #12 were already in CLAUDE.md. ISSUE-018 removed from
+`reviews/issues.md`. (Note: CC's device-bridge staging was serving cached pre-normalization copies during
+verification, so ground truth was taken from Bill's local dry-run, not from re-staging.)
+
+## 2026-07-20 review — ISSUE-007 resolved (undated/unattributed items → contradictions)
+
+**Decision (Bill).** *"Where undated and/or unattributed items contain possibly important information,
+record them as contradictions: the reconcile_review.md could possibly uncover related references."* —
+repurposes the contradiction/reconcile machinery as a provenance-and-corroboration hunt for
+important-but-unprovenanced leads.
+
+**Actioned.** Filed the two ISSUE-007 items as contradiction briefs in `reviews/contradictions/open/`
+(framed as provenance hunts, not value disputes), leaving the PDFs parked in `_leads/` (never ingested
+as-is):
+- `uganda-digital-id-submission-provenance.md` — the undated joint civil-society submission carrying the
+  load-bearing "≈1m NIR fingerprints unmatchable" claim (attributed to NIRA's ED); already partly
+  corroborated by the held IriTech/Biometric Update account. Reconcile to find the original posting +
+  a dated NIRA primary.
+- `tanzania-jamii-case-study-provenance.md` — the undated third-person case study of Tanzania's Jamii
+  stack (Namba / Malipo / X-Change). Reconcile to find the study's origin + dated primaries for the
+  three components.
+
+**Rule encoded (CLAUDE.md, ratified).** Added to the ingest intake screen (step 1): an undated/
+unattributed parked lead carrying possibly-important information is **also** filed as a provenance/
+corroboration hunt in `reviews/contradictions/open/`, so it is actively worked by the reconcile pass
+rather than left inert in `_leads/`; it stays a lead until reconcile surfaces admissible primaries.
+ISSUE-007 removed from `reviews/issues.md`. (Open contradictions +2 → 34.)
