@@ -5,6 +5,34 @@ contradictions found, and open `needs-review` flags.
 
 ---
 
+## 2026-07-20 — Registers deleted: `gaps.md`, `issues.md`, `entity-backlog.md`, `watch.md`
+
+Bill's instruction, on being told the consequence. `gaps.md` was already triaged to zero open items.
+The other three were not: **`issues.md` held 15 undecided items** (including ISSUE-034/035/036 from the
+same day's triage), `entity-backlog.md` a mint list, `watch.md` a set of dormant triggers. All are
+**deleted undecided**, recoverable only from git — checkpoint commit `b33a91f` records their final
+contents, since three carried uncommitted changes that `git rm -f` would otherwise have destroyed outright.
+
+This is consistent with the rewrite: there is no pending-decision register, and an item closable by
+neither `contradictions/` nor `acquisitions.md` "isn't work; it's a horizon".
+
+**Consequential edits made rather than left dangling.** Five wiki pages and `acquisitions.md` pointed at
+now-deleted files. Rather than leave dead pointers, each was converted to what the rewrite asks for — a
+**dated statement of what isn't established**, on the page it bears on:
+
+- `car-national-datacentre`, `mytgpt`, `nigerian-exchange`, `orange`, `mauritius--tech-ai` — "see
+  `reviews/gaps.md`" → "unknown / not held / unconfirmed **as of 2026-07-20**".
+- `acquisitions.md` — its exit rule routed unobtainable documents to `watch.md`; now records the absence
+  on the page it bears on, dated.
+
+**Also recorded:** the 43 queued contradiction briefs were promoted to `open/` (staged as renames, so
+nothing was lost with the directory) and `reviews/contradictions/queued/` is removed. `reviews/` now holds
+`acquisitions.md` and `contradictions/{open,done,research}` only.
+
+**Open contradictions: 49** (50 files in `open/`, one of which is its README).
+
+---
+
 ## 2026-07-20 — CLAUDE.md replaced with the draft rewrite (52KB → 9.5KB)
 
 Bill replaced `CLAUDE.md` with `CLAUDE.draft.md` — a principles-first rewrite, 82% shorter.

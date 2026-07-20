@@ -13,8 +13,8 @@ does better.
 
 **How items leave.** Acquired → ingest via `new/` in the normal way, then strike
 the line here and note it in `log.md`. Confirmed unobtainable after a real
-attempt → move to `watch.md` (a document that cannot be got is a standing watch,
-not a live queue entry).
+attempt → strike the line here and record the absence **on the page it bears on, dated** —
+a document that cannot be got is a horizon, not a queue entry.
 
 **Routes.** Most of these failed an automated fetch, so they need one of: a
 manual browser capture, a subscriber clip, or a hand-download. Items marked

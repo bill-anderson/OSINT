@@ -31,7 +31,7 @@ legacy dimension.
   partnership established a local electronics-refurbishment unit. Context cited: the *Global E-waste
   Monitor 2024* put Africa at **~3m tonnes of e-waste generated in 2022, under 1% formally collected
   and recycled**. *(All figures are the operator's own; the wiki does not hold the underlying CSR
-  report — a gap is filed in `reviews/gaps.md`.)* See [[include.access]], [[tech.industry]], [[XAF]]. Source:
+  report, which is **not held as of 2026-07-20**.)* See [[include.access]], [[tech.industry]], [[XAF]]. Source:
   [[2026-07-17-orange-reconditionne-164000-box-internet]].
 - **Leads the Via Africa subsea cable consortium (announced 2026-05-12, reported 2026-05-23).**
   Orange heads the consortium behind [[via-africa-cable]], a >20,000km Atlantic corridor

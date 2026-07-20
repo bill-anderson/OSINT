@@ -56,7 +56,7 @@ questions the sequencing.
   set* reports MT announced an **AWS MoU**, **NVIDIA H200 GPUs** hosted (B300 due end-2026), a **Mauritius AI
   Registry** (airegistry.mu, open-sourced stack), Models-as-a-Service (TM Forum), an SBM Bank platform, and
   Mauritius–Seychelles cross-border payments (Eboo). These are **not yet primary-sourced** — see
-  `reviews/gaps.md` **GAP-MUS-001**; not asserted as fact here.
+  **unconfirmed as of 2026-07-20**; not asserted as fact here.
 
 ## The critique — ecosystem before infrastructure
 

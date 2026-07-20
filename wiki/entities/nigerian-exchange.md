@@ -41,7 +41,7 @@ series behind the retail-investing figures the wiki holds. The **May 2026 editio
   **$1.46 trillion** on the same date. *(The held source gives the NGX figure twice, as $113.79bn in
   prose and $113.02bn in a data widget. The 2026-07-20 reconcile found this is **not a factual dispute**:
   both are the same naira market capitalisation converted at slightly different FX points. The underlying
-  naira series sits in the NGX weekly market report, which the wiki does not hold — see `reviews/gaps.md`.)*
+  naira series sits in the NGX weekly market report, which the wiki **does not hold as of 2026-07-20**.)*
 - Nigerian equities **returned 67% in dollar terms in 2026 to date** (as of 2026-07-18), reported as
   the best performance among the 92 exchanges Bloomberg tracks, ahead of South Korea.
 

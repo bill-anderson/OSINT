@@ -33,7 +33,7 @@ platform for whole-of-government data consolidation and "data sovereignty." See 
   certificat de nationalité, diplomas, birth acts and revenue *quittances*. Never confirmed to contract.
   Source: [[2025-01-22-aial-group-data-centre-mou-oubanguimedias]].
 - **AfDB/CAB "Datacenter principal et de secours" (2021).** An older World Bank/AfDB Central African
-  Backbone-linked procurement whose outcome is unknown — a genuine gap (see `reviews/gaps.md`).
+  Backbone-linked procurement whose outcome is **unknown as of 2026-07-20** — no award or completion record is held.
 
 ## Related
 

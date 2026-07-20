@@ -23,7 +23,7 @@ Secondary School; with the Ministry of Education) — is evolving toward **my.t 
 secondary). See [[mauritius--tech-ai]], [[capacity.training]].
 
 *PR-wire provenance for the pilot launch; MT AI announcements at the AllMyT Summit (Jul 2026) await primary
-confirmation — see `reviews/gaps.md` GAP-MUS-001.*
+confirmation; **unconfirmed as of 2026-07-20**.*
 
 ## Links
 Place: [[MUS]] · Topics: [[tech.ai]] · [[capacity.training]] · [[infra.store]] · Entities:
