@@ -6,8 +6,8 @@ places: [SDN]
 topics: [dpi.govtech, dpi.id, dpi.exchange]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-18
-sources: [[2026-02-23 National Investment Authority launches electronic investment licensing via Baladna (SUNA)]]
+last_reviewed: 2026-07-20
+sources: [[2026-02-23 National Investment Authority launches electronic investment licensing via Baladna (SUNA)], [2026-02-01-sudan-digital-ministry-launches-28-services-baladna]]
 ---
 
 # Baladna

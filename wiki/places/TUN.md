@@ -42,6 +42,23 @@ thing to watch.
   aggregator's repackaging (GAP-TUN-001).* Source:
   [[2026-02-23 Central Bank Of Tunisia Reports 81% Surge In Mobile Payments As Tunisia Accelerates Its Digital Transformation In 2025]].
   See [[dpi.pay]], [[dpi.id]].
+- **2026-02-13** — **The successor to Digital Tunisia 2020-2025 is a development-plan chapter, not a
+  sectoral strategy.** Head of Government **Sarra Zaafrani Zenzri** told a ministerial council that the
+  State has adopted, *"dans le cadre du plan de développement 2026-2030, une vision nationale unifiée
+  pour la transformation digitale"* — a unified national digital-transformation vision setting
+  objectives, priorities and a delivery timetable. **2026 declared the year of "effective start of
+  complete digitalisation"** of the administration, with **192 digital projects under national
+  tracking (as of Feb 2026)** and delivery to date including the single administrative-services portal,
+  the electronic fiscal stamp, the digital hospital (phase 1), the national interconnection platform
+  (phase 1), *Najda.tn*, the *Taamir* building-permit platform, "Easy Export" and the "Nationalité"
+  citizenship system. This resolves what the EU ambassador called Tunisia's "National Digital Strategy"
+  in the EBRD announcement: **not a renamed or extended [[digital-tunisia-2020-2025]], but the digital
+  chapter of a whole-of-government five-year plan** — a change of instrument type, from a sectoral ICT
+  strategy owned by the communication-technologies ministry to a plan coordinated by the Ministry of
+  Economy and Planning. **[[digital-tunisia-2020-2025]] lapsed at term: as of 2026-07-20 no extension,
+  repeal or outcomes report is held.** Source:
+  [[2026-02-13-tunisie-conseil-ministeriel-digitalisation-complete]] (the Head of Government's own
+  portal). See [[gov.policy]], [[dpi.govtech]], [[dpi.exchange]], [[tunisia--dpi-govtech]].
 - **2026-02-13** — **Health digitalisation and a national cloud, as intention.** Health Minister
   **Dr Mustafa Al-Furjani** met **[[tunisie-telecom]]**'s president and general manager on
   accelerating healthcare digitalisation: high-speed internet to health institutions **particularly
@@ -53,6 +70,25 @@ thing to watch.
   Source: [[2026-02-13 Tunisia Advances Digital Health Reform With AI and National Cloud Strategy]].
   See [[infra.store]], [[tech.ai]], [[sovereignty]]. *(This source names Tunisie Telecom's head
   "Assad bin Dyab" where the January account says "Lassaad Ben Dhiab" — see ISSUE-006.)*
+- **2026-01-16** — **EBRD €190m to modernise Tunisie Telecom — including its MEDUSA connection.** The
+  **[[ebrd]]** announced a development-linked loan of up to **€190 million** (four tranches; first
+  committed tranche €50m) to **[[tunisie-telecom]]**, funding a **4G-to-5G** upgrade,
+  **fibre-to-the-home to 200,000 households**, backbone and core-network modernisation, energy
+  efficiency and energy production — **and, in the EBRD's own words, "Tunisie Telecom's connection to
+  the [[medusa-submarine-cable|MEDUSA]] submarine cable."** A complementary **€11m EU grant** under the
+  Neighbourhood Investment Platform covers core-network and **cybersecurity** investment plus technical
+  assistance, with a first-loss guarantee from **EFSD+**. Interest is tied to sustainability and
+  SOE-reform milestones; aligned with the EU **[[global-gateway|Global Gateway]]**; the EBRD's **first
+  non-sovereign-guaranteed public-sector financing in Tunisia since 2012**.
+  *Two financings, different money for different objects (settled 2026-07-20): this EBRD loan finances
+  **TT's connection into the cable as a capacity customer**, one component of a multi-part corporate
+  programme rather than a cable-specific facility; the **Bizerte landing station is Orange's**, built
+  under a separate **€10m EU CEF-Digital grant to [[orange-tunisia]]** (signed Dec 2022, ~30% of costs).
+  Neither instrument is the other.*
+  Sources: [[2026-01-16-ebrd-tunisie-telecom-190m-medusa]] (EBRD's own announcement, the announcer of
+  record), [[2026-01-19 EBRD and Tunisie Telecom Partner on €190 Million Digital Infrastructure Upgrade]]
+  (*trade re-report, 19 Jan — kept as the traceable origin of the 2026-01-19 mis-dating, not as the
+  event's "as of"*). See [[infra.connect]], [[finance.new]], [[geopol.eu]], [[tunisia--infra-connect]].
 - **2025-10-31** — **Medusa lands at Bizerte — Africa's first landing on the cable, and who actually owns
   it.** The **[[medusa-submarine-cable|Medusa]]** system (8,760 km, carrier-neutral, operated by
   **[[afr-ix-telecom]]**) completed its **first African landing** at Bizerte. The announcer of record is
@@ -146,40 +182,6 @@ thing to watch.
   outcome*. Source:
   [[2024-01-08 Tunisia Unveils Digital Platform to Boost Education Transparency, Equity]]. See
   [[dpi.govtech]], [[include.divides]], [[digital.rural]].
-- **2026-01-16** — **EBRD €190m to modernise Tunisie Telecom.** The **[[ebrd]]** announced a
-  development-linked loan of up to **€190 million** (four tranches; first committed tranche €50m) to
-  **[[tunisie-telecom]]**, funding a **4G-to-5G** upgrade, **fibre-to-the-home to 200,000
-  households**, backbone and core-network modernisation, energy efficiency and energy production —
-  **and Tunisie Telecom's connection to the [[medusa-submarine-cable|MEDUSA]] submarine cable**. A
-  complementary **€11m EU grant** under the Neighbourhood Investment Platform covers core-network and
-  **cybersecurity** investment plus technical assistance, with a first-loss guarantee from **EFSD+**.
-  Interest is tied to sustainability and SOE-reform milestones; aligned with the EU **Global
-  Gateway**; the EBRD's **first non-sovereign-guaranteed public-sector financing in Tunisia since
-  2012**.
-  *Scope note (as of 2026-07-20): the MEDUSA element is one component of a multi-part corporate
-  network programme, not a cable-specific facility — and it finances TT's **connection to** the cable,
-  not the landing station. The Tunisian **landing station at Bizerte is Orange's**, built with a
-  **€10m EU CEF-Digital grant to Orange Tunisia** (signed Dec 2022, ~30% of costs); Tunisie Telecom is
-  a capacity customer. The two are separate instruments with different recipients.*
-  Sources: [[2026-01-16 EBRD and Tunisie Telecom announce strategic partnership]] (EBRD's own
-  announcement, 16 Jan 2026), [[2026-01-19 EBRD and Tunisie Telecom Partner on €190 Million Digital Infrastructure Upgrade]]
-  (*trade re-report, 19 Jan — previously mis-dated as the event date*).
-  See [[infra.connect]], [[finance.new]], [[geopol.eu]].
-- **2026-02-13** — **The successor to Digital Tunisia 2020-2025 is a development-plan chapter, not a
-  sectoral strategy.** Head of Government **Sarra Zaafrani Zenzri** told a ministerial council that the
-  State has adopted, *"dans le cadre du plan de développement 2026-2030, une vision nationale unifiée
-  pour la transformation digitale"* — a unified national digital-transformation vision setting
-  objectives, priorities and a delivery timetable. **2026 declared the year of "effective start of
-  complete digitalisation"** of the administration, with **192 digital projects under national
-  tracking (as of Feb 2026)** and delivery to date including the single administrative-services portal,
-  the electronic fiscal stamp, the digital hospital (phase 1), the national interconnection platform
-  (phase 1) and the *Taamir* building-permit platform. This resolves what the EU ambassador called
-  Tunisia's "National Digital Strategy" in the EBRD announcement: **not a renamed or extended
-  [[digital-tunisia-2020-2025]], but the digital chapter of a whole-of-government five-year plan** —
-  a change of instrument type, from a sectoral ICT strategy owned by the communication-technologies
-  ministry to a plan coordinated by the Ministry of Economy and Planning. Source:
-  [[2026-02-13 Zenzri lors d'un conseil ministériel - 2026, année du démarrage effectif de la digitalisation complète de l'administration]].
-  See [[gov.policy]], [[dpi.govtech]], [[dpi.exchange]].
 
 ## Active topics
 

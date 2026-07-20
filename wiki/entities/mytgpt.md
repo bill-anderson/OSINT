@@ -6,7 +6,7 @@ places: [MUS]
 topics: [tech.ai, capacity.training, infra.store]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-19
+last_reviewed: 2026-07-20
 sources: [[2026-01-26-mytgpt-education-pilot-techreviewafrica], [2026-07-13-gungadin-ai-economic-pillar-interview-mauritiustimes], [2026-07-16-mauritius-telecom-allmyt-keynote-sovereign-ai-platformafrica], [2026-07-20-mauritius-telecom-tm-forum-modaas-telecomtv]]
 ---
 

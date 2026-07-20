@@ -7,7 +7,7 @@ topics: [dpi.govtech, tech.industry, tech.innovate]
 lens: []
 status: active
 last_reviewed: 2026-07-19
-sources: [[2026-06-10-atd-boite-outils-digitaux-tpme]]
+sources: [[2026-06-10-atd-boite-outils-digitaux-tpme], [2024-06-20-kazakhstan-nitec-togo-atd-egov-licensing]]
 ---
 
 # Agence Togo Digital (ATD)

@@ -189,7 +189,7 @@ struggling to reach its own territory on the other.
 
 **Companies:** [[al-madina]] · [[genkey]] · [[orange-centrafrique]] · [[socatel]] · [[enerca]]
 **Government bodies:** [[ane-central-african-republic]] · [[arcep-central-african-republic]] · [[dgid-central-african-republic]] · [[mepci-central-african-republic]]
-**Organisations:** [[eccas]] · [[oif-la-francophonie]] · [[greater-internet-freedom]] · [[world-bank]] · [[undp]] · [[beac]]
+**Organisations:** [[eccas]] · [[oif-la-francophonie]] · [[greater-internet-freedom]] · [[world-bank]] · [[undp]] · [[beac]] · [[european-union]] · [[expertise-france]]
 **Instruments:** [[car-data-protection-law-24-001]] · [[pnd-2024-2028-central-african-republic]] · [[car-crypto-tokenisation]]
 **Initiatives:** [[starlink-car]] · [[car-national-datacentre]] · [[modero-central-african-republic]] · [[cardip]] · [[papss]]
 **Person:** [[faustin-archange-touadera]]
@@ -198,8 +198,10 @@ struggling to reach its own territory on the other.
 Mentioned, not hubbed: **Warani** (Bangui startup digitising services, founder Vianney Kanda, the only
 private-sector item — [[2025-05-14-vianney-kanda-warani-wearetech]]); EDESEC (passport vendor); DEVEA
 Centrafrique (Starlink operator); Central African Digital Development Agency; CIVIPOL; EDEN TiiiT; AIAL Group;
-**Greenline Technologies** (US, SOCATEL privatisation + Tier 3 DC); **SOS Télécoms** (Chadian towerco, first
-passive-infrastructure licence); **Expertise France** (EU delivery agent, Pata Polélé);
+**Greenline Technologies** (US, Ohio-HQ, operating in 11 African countries — SOCATEL privatisation + Tier 3 DC;
+2 sources, approaching the page bar); **SOS Télécoms** (N'Djamena-HQ towerco with branches in Niger, Burkina
+Faso, Togo, South Sudan and CAR — first passive-infrastructure licence); **ONI** (Office National de
+l'Informatique, co-builder of Pata Polélé);
 **[[justin-gourna-zacko]]** (Minister of the Digital Economy, Posts and Telecommunications — 7 sources, over the
 page bar; **note: Agence Ecofin names Roger Andjalandji in the post as of 2026-07-16** — the wiki's
 Gourna-Zacko material dates to 2026-02 and earlier); the ministry itself

@@ -162,6 +162,12 @@ what makes it work or fail.
   [[2024-08-01 Eswatini National Health Sector Strategic Plan 2024-25 to 2027-28]].
 
 - **[[AGO]] Angola — an immunisation registry wiring into DHIS2 (2026-02).** Angola runs **[[rediv-angola|ReDIV]]**, a digital platform for **individual, real-time immunisation records** — begun in the COVID-19 response, now used in all national campaigns (polio, measles, HPV) for near-real-time coverage monitoring — plus **IOTA** for real-time vaccine/medicine stock management (central warehouses to peripheral units). Both are being made **interoperable with a [[dhis2|DHIS2]]-based national HMIS**, alongside a telemedicine expansion (Angola was the 2nd Sub-Saharan country with robotic surgery; a robot-commanded operation ran from Orlando at ANGOTIC 2025). Separately, a **[[huawei-angola-health-mou|MINSA–Huawei MoU]]** (Jan 2026) targets **38,000 health workers trained** and **500,000 remote consultations over four years** plus hospital digitisation and health AI — the China vendor inside the health-data stack. See [[dpi.registry]], [[geopol.china]], [[angola--dpi-govtech]], [[AGO]]. Sources: [[2026-02-14-angola-inovacao-digital-no-sistema-de-saude-rediv-dhis2]], [[2026-01-26-angola-huawei-memorando-saude-digital]].
+- **[[ZMB]] Zambia — SmartCare "2.0" is a tier, not a system.** The **Hospital Edition** pilot launched
+  **2026-04-27** at Ndola Teaching Hospital, extending to Arthur Davison Children's and Kitwe Teaching —
+  the tertiary-hospital tier of **one twenty-year lineage** (MoH standard 2005 → Legacy → Plus 2017 →
+  **Pro**, national launch 2023-11-21, 2,000+ facilities). **Not a distinct build, not a rename of Pro,
+  not its replacement.** Government CTO: "locally developed and owned". *Open: whether 2.0 shares Pro's
+  fingerprint enrolment or the MOSIP/INRIS identifier is not established.*
 
 ## Key material — other sectoral MIS
 

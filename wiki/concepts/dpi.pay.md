@@ -167,6 +167,21 @@ Interoperable digital payments and financial inclusion.
   [[2026-07-13 Rwanda's eKash System Achieves Full Interoperability for Digital Payments]],
   [[2026-07-01 Strategy Ahead of Infrastructure, Part I Inside the CBN's June 2026 Payments Circular]],
   [[2026-06-19 Strategy Ahead of Infrastructure, Part II The Opportunity and the Case for Sequencing]].
+- **[[SDN]] Sudan (2026) — a sovereign hub with competing private spokes.** The intended national
+  payments architecture is **not single-provider**: CBoS tendered the **National Instant Payment System**
+  (20 Apr – 4 May 2026), and as of **2026-07-08** a national switch is **contracted but not launched**, to
+  be operated by **EBS** as a "switch of switches" above multiple licensed bank- and fintech-operated
+  switches. CBoS had licensed **≥4 switch operators** by mid-2026 and **revoked one (Al-Asjad) on
+  2026-07-04**, breaches undisclosed. Wartime concentration on Bankak (2025) was **practice under
+  collapse, not design** — a qualification of, not support for, the concentration reading.
+- **[[SSD]] South Sudan (2025-10-08).** SSRA + NCA six-year **build-operate-transfer** with Ensoft
+  (N-Soft in other reporting) for telecom revenue assurance: **vendor 3.56%, government 96.44%**, NCA
+  hosts and oversees, full transfer after six years, no fixed contract value.
+- **[[CAF]] Central African Republic (2026-04) — digitising revenue collection, not just services.**
+  *Pata Polélé* (Sango: *pata* = money, *polélé* = clear/open) digitises the **"mini-recettes"** —
+  administrative fees levied across some **twenty ministries** — replacing cash and manual *quittances*
+  with digital receipts and mobile-money settlement, including traffic fines recorded in-platform. Pilots:
+  Justice, Finance, Interior. **EU-financed via Expertise France** (€17.5m over four years).
 
 ## By place
 

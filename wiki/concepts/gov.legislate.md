@@ -279,6 +279,11 @@ localization mandates, and the competition/antitrust angle on cloud concentratio
   commencement date and enforceability date are three different things** — conflating them produced a live
   error in this corpus, a trade source asserting in May 2025 that Malawi had no enacted law when the Act had
   been in force eleven months. Source: [[2024-02-02-malawi-data-protection-act-2024]].
+- **[[GHA]] Ghana — national-ID statutory stack (corrected 2026-07-20).** **NIA Act 2006 (Act 707)**,
+  **National Identity Register Act 2008 (Act 750)**, **NIR (Amendment) Act 2017 (Act 950)**, and **NIR
+  Regulations 2012 (L.I. 2111)** as amended by **L.I. 2356 (2018)**. Acts 707 and 750 were each also
+  amended by the Data Protection Act 2012. A **"National Identification Act 2009" — previously carried in
+  this wiki — does not exist**; no Ghanaian statute bears that title or year.
 
 ## Places
 

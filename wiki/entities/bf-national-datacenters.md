@@ -6,8 +6,8 @@ places: [BFA]
 topics: [infra.store, gov.policy, infra.cybersec]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-18
-sources: [[2026-01-23-burkina-faso-asserts-digital-sovereignty-mini-data-centres], [2026-01-25-gouvernement-inaugure-deux-datacenters], [2026-01-27-mini-data-centers-souverainete-donnees-telecomreview]]
+last_reviewed: 2026-07-20
+sources: [[2026-01-23-burkina-faso-asserts-digital-sovereignty-mini-data-centres], [2026-01-25-gouvernement-inaugure-deux-datacenters], [2026-01-27-mini-data-centers-souverainete-donnees-telecomreview], [2026-02-01-situation-nation-750-localites-441-sites], [2026-02-03-contrat-objectifs-2025-ministre-transition-digitale]]
 ---
 
 # Burkina Faso national data centres / "zero data abroad"

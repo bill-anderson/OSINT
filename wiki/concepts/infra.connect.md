@@ -285,6 +285,40 @@ political-economy spine to the entries above.
   A useful worked example of two operators' PR re-cutting one shared event around themselves. Sources:
   [[2025-11-01-medusa-lands-in-bizerte]], [[2023-05-11-orange-tunisia-medusa-bizerte-hosting-agreement]],
   [[2025-02-10-tunisie-telecom-joins-medusa-fibre-pair]].
+- **[[TUN]] Tunisia (2026-01-16) — two instruments, not one.** The **EBRD's €190m** development-linked
+  loan to Tunisie Telecom finances, in the EBRD's own words, *"Tunisie Telecom's connection to the MEDUSA
+  submarine cable"* — alongside 4G→5G, FTTH-200k, backbone and energy components. That funds **TT's
+  connection as a capacity customer**; the **Bizerte landing station Orange owns** was built under a
+  separate **€10m EU CEF-Digital grant to Orange Tunisia** (Dec 2022). **Neither is the other**, and the
+  wiki previously treated the EBRD line as trade-press conflation — it is not.
+- **[[LBY]] Libya — a licensing-jurisdiction dispute, not a vendor-per-region split.** **Huawei works
+  both sides** (20+ years; 3G/4G; the Tripoli data-centre module); its GTI suspension of 2025-08-17 was
+  **lifted three days later** on a compliance undertaking. The LTT–ZTE MoU was signed **2026-03-09**,
+  west-side. The contest is over **which authority may license a vendor**.
+- **[[BFA]] Burkina Faso — coverage counting is not comparable across sources.** ARCEP's phase-1 account
+  is the only held statement of the ratio: **183 sites, ~6 km range each, shareable by all three
+  operators, covered ~300 localities** (2022-05-20). Site counts and locality counts are **not
+  interchangeable**, though outlets swap the words — and calendar increments, cumulative totals and
+  targets are three further distinct things. The series: **223 localities (2020–24) + 370 (2025)**; the
+  widely-quoted **441 is all 2025 site activations, only 126 of them rural**.
+- **[[CAF]] Central African Republic (2025-07-18) — a first passive-infrastructure licence.** ARCEP signed
+  the *cahier des charges* with **SOS Télécoms** (N'Djamena-HQ, branches across five states), licensing
+  pylons and antenna sites for **wholesale lease to operators** — a towerco model aimed at rural coverage
+  the operators will not build alone, in a market where the binding constraint is capex.
+- **Starlink reaches 27 African markets (2026-07-17)**, Côte d'Ivoire the 27th — half the UN-recognised
+  African states. **Eight states carry "no planned launch date"**: Algeria, Djibouti, Egypt, Eritrea,
+  Libya, Morocco, Sudan and South Africa. **Seven of the eight are North African, five are Arab Maghreb
+  Union members**, and several hold legislated state-telecom monopolies — coverage tracking the
+  regulatory regime rather than the geography.
+- **[[ERI]] Eritrea — a coastal state can decline to be connected (2024-06-10).** With Houthi attacks
+  closing Yemeni waters, the cable industry sought a Red Sea route along Eritrea's shore (optimal ~170 m
+  depth) and got no reply: Eritrea **"rebuffed the approaches… even at a price"** and is not party to
+  UNCLOS. Landing rights are a sovereign veto, not a commercial negotiation.
+- **[[SDN]] Sudan (2026-01-31).** **60 4G towers** built and **200 more** planned during 2026, announced
+  as the plan to address wartime network degradation.
+- **[[TCD]] Chad — the ISP market is officially too thin for entry (2025-10-22).** The telecoms minister
+  told the National Assembly that conditions do not support a new ISP entrant, past public calls for
+  candidates having failed — while **Starlink holds a multiservice licence granted without tender**.
 
 ## By place
 

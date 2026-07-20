@@ -7,7 +7,7 @@ topics: [gov.policy, dpi.govtech, capacity.training]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-20
-sources: [[2024-11-22 Eswatini unveils readiness report for digital ID, transformation push], [2024-12-10 Unveiling Eswatini's Digital Path], [2024-12-05 Eswatini Advances Toward Digital Transformation - Key Findings from the Digital Readiness Assessment], [2025-01-22 Eswatini partners with Google to drive digital transformation and economic growth], [2024-11-13-undp-eswatini-dra-results-launch]]
+sources: [[2024-11-22 Eswatini unveils readiness report for digital ID, transformation push], [2024-12-10 Unveiling Eswatini's Digital Path], [2024-12-05 Eswatini Advances Toward Digital Transformation - Key Findings from the Digital Readiness Assessment], [2025-01-20-insidebiz-eswatini-partners-with-google], [2024-11-13-undp-eswatini-dra-results-launch]]
 ---
 
 # Savannah Maziya
@@ -42,12 +42,12 @@ and its [[government-in-your-hand]] theme. Heads [[ministry-of-ict-eswatini]]. S
   70% as ministerial rhetoric, not a demographic statistic** — the [[world-bank]] puts
   young people at **30% of the population (2025-05-12)**, and the two rest on different
   definitions. See [[eswatini-youth-employment-opportunities-project]]. Source:
-  [[2025-01-22 Eswatini partners with Google to drive digital transformation and economic growth]].
+  [[2025-01-20-insidebiz-eswatini-partners-with-google]].
 
 ## Sources
 
 - [[2024-11-22 Eswatini unveils readiness report for digital ID, transformation push]]
 - [[2024-12-10 Unveiling Eswatini's Digital Path]]
 - [[2024-12-05 Eswatini Advances Toward Digital Transformation - Key Findings from the Digital Readiness Assessment]]
-- [[2025-01-22 Eswatini partners with Google to drive digital transformation and economic growth]]
+- [[2025-01-20-insidebiz-eswatini-partners-with-google]]
 - [[2024-11-13-undp-eswatini-dra-results-launch]]

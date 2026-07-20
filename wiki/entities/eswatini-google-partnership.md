@@ -7,7 +7,7 @@ topics: [finance.mou, dpi.govtech, capacity.training, geopol.usa, tech.industry]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-20
-sources: [[2025-01-22 Eswatini partners with Google to drive digital transformation and economic growth], [2025-01-20-insidebiz-eswatini-partners-with-google], [2025-01-21-google-works-with-eswatini-to-accelerate-digital-economy], [2026-04-10-former-minister-defends-google-mou], [2026-04-13-the-real-google-problem-in-eswatini-is-not-the-mou]]
+sources: [[2025-01-20-insidebiz-eswatini-partners-with-google], [2025-01-21-google-works-with-eswatini-to-accelerate-digital-economy], [2026-04-10-former-minister-defends-google-mou], [2026-04-13-the-real-google-problem-in-eswatini-is-not-the-mou]]
 ---
 
 # Eswatini-Google Digital Transformation Partnership
@@ -32,8 +32,7 @@ Strategic Partnerships for Eswatini's Digital Transformation and Economic Prospe
   competencies ([[capacity.training]]); leveraging Google technologies to improve the
   efficiency and accessibility of public services ([[dpi.govtech]]); and fostering
   innovation and entrepreneurship ([[tech.innovate]]). Sources:
-  [[2025-01-20-insidebiz-eswatini-partners-with-google]],
-  [[2025-01-22 Eswatini partners with Google to drive digital transformation and economic growth]].
+  [[2025-01-20-insidebiz-eswatini-partners-with-google]].
 - **The workstreams, in Google's own words (2025-01-20).** **Basil Ayass**, Google Cloud's
   regional lead for Africa, set out three: **digital modernisation of e-government services**;
   **AI** "to help become more efficient"; and **Google Workspace for public servants**. Plus
@@ -58,10 +57,6 @@ Strategic Partnerships for Eswatini's Digital Transformation and Economic Prospe
   of our population being youth"** is ministerial rhetoric — the [[world-bank]] puts
   young people at **30% of the population (2025-05-12)** on a different definition; see
   [[savannah-maziya]].
-- **Context supplied by the outlet, not the parties.** Techpoint situates the deal in
-  Google's prior African activity — a $1bn Africa investment fund announced in 2021, the
-  [[google-for-startups-accelerator-africa]], and the Equiano subsea cable. None of these
-  is stated to form part of this partnership.
 
 **Provenance — resolved (2026-07-20), formerly GAP-SWZ-001.** No longer single-sourced. The deal
 now rests on a domestic Eswatini account
@@ -84,6 +79,5 @@ their absence as a finding about the deal's opacity, not a gap in the wiki's col
 
 - [[2025-01-20-insidebiz-eswatini-partners-with-google]]
 - [[2025-01-21-google-works-with-eswatini-to-accelerate-digital-economy]]
-- [[2025-01-22 Eswatini partners with Google to drive digital transformation and economic growth]]
 - [[2026-04-10-former-minister-defends-google-mou]]
 - [[2026-04-13-the-real-google-problem-in-eswatini-is-not-the-mou]]

@@ -5,11 +5,11 @@ place: TCD
 topic: infra.connect
 places: [TCD]
 topics: [infra.connect, include.divides, include.access, data.satellite, gov.regional, gov.standards, digital.rural]
-entities: [[sotel-tchad], [airtel-chad], [moov-africa-chad], [arcep-chad], [trans-saharan-fibre-backbone], [starlink], [tchadix], [datareportal], [kepios], [gsma], [itu]]
+entities: [[pmice], [sotel-tchad], [airtel-chad], [moov-africa-chad], [arcep-chad], [trans-saharan-fibre-backbone], [starlink], [tchadix], [datareportal], [kepios], [gsma], [itu]]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-20
-sources: [[2025-03-19-starlink-license-chad-launch-niger], [2025-07-05-tchadinfos-starlink-services-disponibles], [2025-09-29-digitalbusiness-starlink-fai-vers-operateur-telecom], [2025-09-02-afriqueitnews-operateurs-connecter-fibre-nationale], [2026-02-09-connectingafrica-fibre-ndjamena-mbere-cameroun], [2026-05-21-digitalbusiness-tchadix-ixp-un-an], [2026-06-02-salaminfo-banque-mondiale-routes-virtuelles-patn], [2026-06-19-techafricanews-arcep-plateformes-regulation-strategiques], [2026-06-26-connectingafrica-telcos-network-upgrades-airtel-moov], [2025-02-12-coupure-internet-lac-internet-society], [2025-12-16-tchadinfos-atelier-cartographie-fibre-artac-uit], [2026-01-11-tchadinfos-dts-degradations-site-bol], [2025-03-07-trans-saharan-fiber-project-delays], [2025-03-03-datareportal-digital-2025-chad], [2025-11-08-datareportal-digital-2026-chad]]
+sources: [[2020-05-08-ciomag-tchad-pret-eximbank-chine-tic], [2020-07-08-magazinedelafrique-tchad-lancement-pmice-financement-chine], [2025-01-10-agenceecofin-tchad-centre-donnees-national-finalisation], [2025-10-22-toumaiwebmedias-ratification-ordonnance-011-pr-2025-communications-electroniques], [2025-03-19-starlink-license-chad-launch-niger], [2025-07-05-tchadinfos-starlink-services-disponibles], [2025-09-29-digitalbusiness-starlink-fai-vers-operateur-telecom], [2025-09-02-afriqueitnews-operateurs-connecter-fibre-nationale], [2026-02-09-connectingafrica-fibre-ndjamena-mbere-cameroun], [2026-05-21-digitalbusiness-tchadix-ixp-un-an], [2026-06-02-salaminfo-banque-mondiale-routes-virtuelles-patn], [2026-06-19-techafricanews-arcep-plateformes-regulation-strategiques], [2026-06-26-connectingafrica-telcos-network-upgrades-airtel-moov], [2025-02-12-coupure-internet-lac-internet-society], [2025-12-16-tchadinfos-atelier-cartographie-fibre-artac-uit], [2026-01-11-tchadinfos-dts-degradations-site-bol], [2025-03-07-trans-saharan-fiber-project-delays], [2025-03-03-datareportal-digital-2025-chad], [2025-11-08-datareportal-digital-2026-chad]]
 ---
 
 # Chad × Connectivity
@@ -34,6 +34,14 @@ ultimatums over quality, power and sovereignty.
   (Usage conditions — ID via ARCEP, 24-month log retention — are covered under [[chad--gov-protect]].)
   Sources: [[2025-03-19-starlink-license-chad-launch-niger]], [[2025-07-05-tchadinfos-starlink-services-disponibles]],
   [[2025-09-29-digitalbusiness-starlink-fai-vers-operateur-telecom]].
+- **The minister closes the question on the record (2025-10-22).** A month after the upgrade talk,
+  Boukar Michel told the National Assembly that Starlink holds a **multiservice FAI licence, not a
+  mobile-operator licence**, granted **on application after a favourable ARCEP technical opinion and
+  without public tender** — and that **market conditions do not support a new ISP entrant**, past
+  calls for candidates having failed. So the ISP→operator upgrade was **not effected as of
+  2025-10-22**, and the ministry's stated position is that the market is too thin for the
+  competition the reclassification was meant to enable. Source:
+  [[2025-10-22-toumaiwebmedias-ratification-ordonnance-011-pr-2025-communications-electroniques]].
 
 ## The fibre backbone and the single door
 
@@ -52,6 +60,18 @@ ultimatums over quality, power and sovereignty.
   "virtual roads" mission (Jun 2026) targets ~**500 zones blanches** (fully offline localities). See
   [[digital.rural]]. Sources: [[2025-09-02-afriqueitnews-operateurs-connecter-fibre-nationale]],
   [[2026-06-02-salaminfo-banque-mondiale-routes-virtuelles-patn]].
+  *What PMICE was specified to build, at launch (2020-07-08):* **200 GSM masts**, **~2,000 km** of
+  fibre across **twelve regions** — **775.54 km** on the Abéché–Biltine–Arada–Kalaït–Manda–Itou–
+  Kaoura–Amdjarass axis plus **88.1 km of urban mesh**, with **1,200 km** the medium-term national
+  figure — and **50 km** of N'Djamena mesh to serve **1,000 large accounts**. PMICE also covers the
+  mobile network core of [[sotel-tchad]]'s **SALAM** arm **(2025-01-10)**. **The 1,200 km figure was
+  still being quoted unchanged at Phase I in 2025-12, and no source held reports kilometres actually
+  laid, masts erected or the SALAM core commissioned (as of 2026-07-20)** — the "1,275 km" the state
+  ordered operators onto in Sep 2025 is the only delivery-side number, and no source reconciles it
+  with the 1,200 km target. See [[pmice]]. Sources:
+  [[2020-07-08-magazinedelafrique-tchad-lancement-pmice-financement-chine]],
+  [[2020-05-08-ciomag-tchad-pret-eximbank-chine-tic]],
+  [[2025-01-10-agenceecofin-tchad-centre-donnees-national-finalisation]].
 - **TCHADIX IXP.** ADETIC's **[[tchadix]]** internet exchange point marked its **first year** (May 2026)
   — localising national traffic to cut dependence on international routes and improve cost/quality; data
   governance flagged as a strategic priority. See [[dpi.exchange]]. Source:

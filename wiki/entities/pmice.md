@@ -32,6 +32,28 @@ they are not asserted here to nest.
 
 Source: [[2026-01-06 Chad invests 175m in national data center and networks]].
 
+## Scope as specified at launch (2020) — more granular than the 2025 restatement
+
+The launch coverage is the fullest technical statement of PMICE the wiki holds, and it is
+**five years older than the Phase I announcement** — a baseline against which to read delivery,
+not current state:
+
+- **Three components**: **200 GSM relay masts** nationwide, a fibre network of **~2,000 km**, and
+  the National Data Centre. Coverage spanned **twelve regions (2020-07-08)**.
+- **Named fibre routing**: **775.54 km** on the **Abéché–Biltine–Arada–Kalaït–Manda–Itou–Kaoura–
+  Amdjarass** axis, plus **88.1 km of urban mesh**; **1,200 km** was the medium-term national
+  figure **(2020-07-08)** — the same 1,200 km still quoted at Phase I **(2025-12)**.
+- **N'Djamena**: **50 km** of mesh to connect **1,000 large accounts (2020-07-08)**.
+- **SOTEL modernisation**: PMICE also covers modernising **Groupe [[sotel-tchad]]** through
+  installation of the **network core of its mobile arm, SALAM (2025-01-10)** — a component the
+  2025-12 Phase I announcement does not mention.
+
+**The 2,000 km / 200-mast framing has not been restated since 2020**, and no source held reports
+completion against any of these figures **(as of 2026-07-20)**. Sources:
+[[2020-07-08-magazinedelafrique-tchad-lancement-pmice-financement-chine]],
+[[2020-05-08-ciomag-tchad-pret-eximbank-chine-tic]],
+[[2025-01-10-agenceecofin-tchad-centre-donnees-national-finalisation]].
+
 ## Activity in this wiki
 
 - **The lender is China (resolved 2026-07-20).** PMICE is financed by the **Export-Import Bank of

@@ -276,6 +276,14 @@ Investment flowing into African digital transformation. (A *specific* transactio
   5 experts, 100 staff-days, 16 weeks, including a **business plan targeting DPA cost recovery within five
   years** and a proposed **scale of fines**. Not just capacity but the terms on which a sovereign regulator
   will fund itself. Source: [[2025-10-01-dmap-tor-operationalization-data-protection-authority]].
+- **AVCA is a third non-commensurable series — and its headline is not an equity series (2026-02-01).**
+  AVCA reports **US$3.9bn across 506 deals** for CY2025 — **equity plus venture debt** (US$2.1bn equity /
+  US$1.8bn debt), i.e. **the analogue of Partech's US$4.1bn, not a rival to Partech's US$2.41bn equity
+  figure**. Quoting AVCA's US$3.9bn against Partech's equity series compares a **total to a subtotal**.
+  AVCA's own equity line is **US$2.1bn, −21% YoY, 432 deals** against Partech's **US$2.41bn, +8%** — and
+  that opposite sign is **not a rebase**: the two sit on different 2024 bases (Partech US$2.2bn, published
+  Jan 2025 and unchanged; AVCA's ≈US$2.7bn, derived, never printed). A **fifth figure in circulation,
+  TechCabal Insights' US$3.42bn / 502 deals, has no established basis and is marked do-not-cite.**
 
 ## Places
 

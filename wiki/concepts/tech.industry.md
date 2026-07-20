@@ -177,6 +177,11 @@ Africa's emerging data-centre operators.
   exiting shareholders**. Sources:
   [[2025-12-24-econet-notice-completion-infrastructure-restructuring]],
   [[2026-03-26-econet-infraco-supplementary-pre-listing-statement]].
+- **Before quoting any African VC total, check which universe it counts.** Partech CY2025:
+  **US$4.1bn / 570 deals** equity+debt, of which **equity US$2.41bn (+8%)**. AVCA's comparable
+  equity+debt total is **US$3.9bn / 506 deals**, its equity-only line **US$2.1bn (−21%)**. Disrupt Africa
+  publishes a **self-declared minimum floor by funded venture**, **US$1.6367bn / 178 startups**. These are
+  four different measurements, not four estimates of one quantity — see [[finance.new]].
 
 ## Places
 

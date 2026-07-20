@@ -6,8 +6,8 @@ places: [TCD]
 topics: [infra.store, infra.cybersec, dpi.govtech, gov.standards, dpi.exchange]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-17
-sources: [[2026-02-06 ADETIC, ANSICE, and TECHSO-GROUP Join Forces to Protect Chad's Digital Infrastructure], [2026-02-06 Chad Moves to Secure National Data Center Ahead of Launch], [2026-01-06 Chad invests 175m in national data center and networks], [2026-02-13 Chad Plans 50 Telecom Sites, 50 km of Fiber in N'Djamena], [2026-07-01 Chad and US Explore Partnerships on Satellite Connectivity and Cybersecurity], [2025-12-02 Chad Accelerates Digital Cooperation to Support Its Transformation Agenda]]
+last_reviewed: 2026-07-20
+sources: [[2026-02-06 ADETIC, ANSICE, and TECHSO-GROUP Join Forces to Protect Chad's Digital Infrastructure], [2026-02-06 Chad Moves to Secure National Data Center Ahead of Launch], [2026-01-06 Chad invests 175m in national data center and networks], [2026-02-13 Chad Plans 50 Telecom Sites, 50 km of Fiber in N'Djamena], [2026-07-01 Chad and US Explore Partnerships on Satellite Connectivity and Cybersecurity], [2025-12-02 Chad Accelerates Digital Cooperation to Support Its Transformation Agenda], [2020-07-08-magazinedelafrique-tchad-lancement-pmice-financement-chine], [2025-01-10-agenceecofin-tchad-centre-donnees-national-finalisation]]
 ---
 
 # Chad National Data Center
@@ -17,13 +17,33 @@ awaiting commissioning. [[adetic]]'s Director General calls it *"a strategic bas
 housing of state data and continuity of public digital services"* and attributes the project to
 President **Mahamat Idriss Déby Itno**. It is designed to sit at the centre of a hub-and-spoke
 government architecture: **100 micro-data centres** across public institutions, interconnected
-with it. Its **size and location have not been disclosed** (as of 2026-01-06).
+with it.
+
+**Size and location are on the record in the project's own launch and construction coverage**
+(resolved 2026-07-20), though the 2026 trade press reporting the inauguration run-up does not
+repeat them. It is in **N'Djamena**, and is a **four-storey building of ~500 m² per level,
+~2,000 m² total floor area**. The two published figures are **the same building measured two
+ways, not a contradiction**: launch coverage gave *"2,000 m² over four floors"* **(2020-07-08)**
+and the late-construction site visit gave *"500 m² over four levels"* **(2025-01-10)** — 500 × 4 =
+2,000. Still undisclosed as of **2026-07-20**: **capacity, IT load, tier rating and operator**.
+Sources: [[2020-07-08-magazinedelafrique-tchad-lancement-pmice-financement-chine]],
+[[2025-01-10-agenceecofin-tchad-centre-donnees-national-finalisation]].
 
 Not to be confused with **Chad's first data centre** — a separate, much smaller **2016** facility;
 see [[flexenclosure]].
 
 ## Status
 
+- **Foundation stone laid 7 July 2020.** Minister of State and Secretary-General to the Presidency
+  **Kalzeubé Pahimi Deubet** laid the first stone in N'Djamena, the same ceremony formally launching
+  [[pmice]]. China's ambassador to Chad, **Li Jin Jin**, attended. Source:
+  [[2020-07-08-magazinedelafrique-tchad-lancement-pmice-financement-chine]].
+- **"Advanced stage of completion" at 7 January 2025.** Minister [[boukar-michel]] toured the site
+  ahead of a *"forthcoming"* inauguration and said Chad was crossing *"a crucial step towards digital
+  independence, guaranteeing the security and sovereign management of national data."* **Note the
+  date: the visit was 2025-01-07; the report is 2025-01-10.** The inauguration it anticipated had
+  **still not happened as of 2026-07-20** — a stated eighteen-month slip. Source:
+  [[2025-01-10-agenceecofin-tchad-centre-donnees-national-finalisation]].
 - **Building and equipment: complete.** Phase one — construction of the building and installation
   of operational equipment — was already finished **as of 2026-02-06**. Source:
   [[2026-02-06 ADETIC, ANSICE, and TECHSO-GROUP Join Forces to Protect Chad's Digital Infrastructure]].
@@ -68,7 +88,8 @@ see [[flexenclosure]].
 ## Reading it
 
 The facility is doing heavy rhetorical work — "sovereign housing of state data" — while the
-sources hold no disclosed capacity, footprint, location, tier rating or operator. Meanwhile Chad
+sources still hold no disclosed capacity, IT load, tier rating or operator **(as of 2026-07-20)**;
+only its location and floor area are established. Meanwhile Chad
 has courted at least three external parties on the same asset (Azerbaijan on building it,
 TECHSO-GROUP on certifying it, Cybastion on auditing it), which sits awkwardly with the
 sovereignty framing. See [[sovereignty]], [[infra.store]].

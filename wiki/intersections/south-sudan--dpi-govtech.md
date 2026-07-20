@@ -39,10 +39,14 @@ give the fragmented effort an institutional home. (Full-digitisation decree, Jan
   and emerging-technology coordination — the institutional anchor the digitisation drive has lacked (the
   Data Protection Act to take effect alongside it — see [[south-sudan--gov-protect]]). Source:
   [[2026-05-21-ict-authority-established-szn]].
-- **Crawford Capital e-services partnership (May 2026).** The ICT Ministry (MICT&PS) confirmed an
-  official collaboration with **Crawford Capital Ltd** for e-services research/technical support, said to
-  follow "established institutional procedures" and Council-of-Ministers resolutions. *(Capture is not
-  endorsement.)* See [[finance.mou]]. Source:
+- **Crawford Capital e-services partnership (statements 14 May 2026).** The ICT Ministry (MICT&PS)
+  confirmed an official collaboration with **Crawford Capital Ltd** for e-services research/technical
+  support, said to follow "established institutional procedures" and Council-of-Ministers resolutions;
+  ICT Minister **Ateny Wek Aten** framed it as delivering "a modern, efficient, and accessible
+  government". The SSRA separately reported **electronic cargo tracking** for inbound goods, introduced
+  to curb diversion and smuggling — a second data layer beyond tax and permits. *(Capture is not
+  endorsement.)* See [[finance.mou]]. Sources:
+  [[2026-05-14-south-sudan-defends-crawford-capital-deal-eastleighvoice]],
   [[2026-05-15-crawford-capital-eservices-partnership-citizendigital]].
 
 ## Crawford Capital: revenue collection in private hands *(established 2026-07-20)*
@@ -81,12 +85,37 @@ a contract with MICT&PS, covering trade permits, visas, tax payments, customs, w
   secondary reporting (which also names **Garang Mayom Kuoc Malek, 68%** and **Jeremy Gisemba, 26%**).
   Keep the distinction.
 
+**Provenance boundary (as of 2026-07-20).** The wiki holds the **OHCHR press release** for
+*Plundering a Nation*, **not the 101-page report itself** (A/HRC/60/CRP.5 — queued as **ACQ-SSD**).
+That matters for what this page can claim on its own evidence:
+
+- *Corroborated in held sources* — the **75% profit share** under a **2019** agreement, its **2024**
+  extension to levies on humanitarian agencies, the **0.3% crude-oil accreditation fee (2023)** and the
+  **US$9.6–11.5m/yr** estimate, **SSRA complicity**, **UK registration**, and the **May 2026 US
+  sanctions**, all via [[2026-06-22-crawford-denies-75-percent-revenue-retention-sudanspost]] reporting
+  the Commission's findings; and the **levies obstructing food aid** via the press release itself.
+- *Not corroborated by anything on file* — the **National Security Service / Internal Security Bureau
+  endorsement on database-building grounds**, the **UNCAC articles 9–10** wording, the **November 2019**
+  contract date and named signing minister, the **CapitalPay** trading name, the **90-day review order
+  and its 24-hour reversal** (Cabinet Resolution No. 3/2024; Presidential Order No. 35 of 2025), and the
+  **68% / 26% shareholdings**. These entered the wiki from the full report and from secondary
+  investigative reporting, neither of which is held.
+
+The NSS/database finding is the load-bearing claim for this wiki *and* the weakest-sourced one here.
+Until ACQ-SSD lands, it is **established by the reconcile pass, not by a source in `raw/`**.
+
 **The control case.** On **8 Oct 2025** the SSRA and **[[national-communication-authority-south-sudan|NCA]]**
 signed a **six-year Build-Operate-Transfer** deal with **Ensoft** (**N-Soft** in other reporting) for
 telecom revenue assurance: vendor takes **3.56%**, government **96.44%**, **NCA hosts and oversees**, and
 the system **transfers to the state after six years**. Same country, same year, same revenue-digitisation
 rationale — and terms an order of magnitude different. The contrast is the argument: nothing about
 digitising revenue collection *requires* the Crawford structure.
+
+*Naming unresolved (2026-07-20):* the vendor is **Ensoft** in Eye Radio's account and **N-Soft** in One
+Citizen Daily's; the agency appears as both **South Sudan Revenue Authority (SSRA)** and **National
+Revenue Authority (NRA)**. Both variances are recorded rather than silently picked — no source on file
+settles either. The Eye Radio report also gives the SSRA Commissioner-General as **Simon Akuei Deng**
+(Oct 2025), where the Jan-2026 material gives **William Anyuon Kuol**; read as succession, undated.
 
 Sources: [[2025-09-16-un-commission-south-sudan-plundering-a-nation-ohchr]],
 [[2026-06-22-crawford-denies-75-percent-revenue-retention-sudanspost]],

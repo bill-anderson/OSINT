@@ -9,7 +9,7 @@ entities: [[nira-uganda], [ndaga-muntu], [registration-of-persons-act-2015], [cl
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-20
-sources: [[2026-02-11 Uganda migrates more than 28M records to new national ID system], [2025-09-13 Uganda's Digital ID Barrier Worsens as Court Delivers Blow to Access], [2024-10-14 Uganda financial institutions sign on for digital KYC through national ID], [2026-03-02 IriTech provides iris biometrics for Uganda's upgraded registration kits], [2025-05-28 Huge turnout as Nira starts mass registration], [2024-08-19 Uganda Prepares Large-scale Biometric Registration for National ID], [2024-06-05 Ugandan human rights lawyer's arrest exposes use of national ID for surveillance], [2020-01-01 Maintaining civil registration amid COVID-19 - Uganda's mobile notification system (IDRC)], [2025-11-11 URA Launches Tax Filing Season, Announces Shift from TIN to NIN], [2025-12-02 Minister Asamo Calls for Stronger Financial Inclusion for Persons with Disabilities], [2026-05-28 Why decentralized digital identity looks different in every country], [2025-04-02-nira-acquires-high-capacity-id-machines], [2025-04-14-uganda-launching-5-mosip-modules], [2025-05-08-uganda-targets-33m-mass-id-registration], [2025-06-16-museveni-wants-biometric-verification-2026-vote], [2025-06-23-nira-data-protection-mass-id-3-5m], [2025-07-16-5m-ugandans-renew-national-ids], [2025-09-22-nira-tighten-id-security-after-breach], [2025-10-27-enhanced-national-ids-dispatched-districts], [2025-11-12-ura-shift-from-tin-to-nin], [2025-12-29-over-13-3m-national-ids-renewed-extension], [2026-02-09-35-million-registered-national-id-milestone], [2026-02-19-uganda-mosip-brownfield-migration-example], [2024-07-02-nira-iris-scanning-1m-unmatched-fingerprints-ubc], [2024-07-16-nira-cosase-18-million-unregistered-staffing], [2024-07-25-chrgj-iser-heapi-seizing-opportunity-uganda-digital-id], [2024-10-15-nira-press-statement-mass-enrolment-status]]
+sources: [[2026-02-11 Uganda migrates more than 28M records to new national ID system], [2025-09-13 Uganda's Digital ID Barrier Worsens as Court Delivers Blow to Access], [2024-10-14 Uganda financial institutions sign on for digital KYC through national ID], [2026-03-02 IriTech provides iris biometrics for Uganda's upgraded registration kits], [2025-05-28 Huge turnout as Nira starts mass registration], [2024-08-19 Uganda Prepares Large-scale Biometric Registration for National ID], [2024-06-05 Ugandan human rights lawyer's arrest exposes use of national ID for surveillance], [2020-01-01 Maintaining civil registration amid COVID-19 - Uganda's mobile notification system (IDRC)], [2025-11-11 URA Launches Tax Filing Season, Announces Shift from TIN to NIN], [2025-12-02 Minister Asamo Calls for Stronger Financial Inclusion for Persons with Disabilities], [2026-05-28 Why decentralized digital identity looks different in every country], [2025-04-02-nira-acquires-high-capacity-id-machines], [2025-04-14-uganda-launching-5-mosip-modules], [2025-05-08-uganda-targets-33m-mass-id-registration], [2025-06-16-museveni-wants-biometric-verification-2026-vote], [2025-06-23-nira-data-protection-mass-id-3-5m], [2025-07-16-5m-ugandans-renew-national-ids], [2025-09-22-nira-tighten-id-security-after-breach], [2025-10-27-enhanced-national-ids-dispatched-districts], [2025-11-12-ura-shift-from-tin-to-nin], [2025-12-29-over-13-3m-national-ids-renewed-extension], [2026-02-09-35-million-registered-national-id-milestone], [2026-02-19-uganda-mosip-brownfield-migration-example], [2024-07-02-nira-iris-scanning-1m-unmatched-fingerprints-ubc], [2024-07-16-nira-cosase-18-million-unregistered-staffing], [2024-07-25-chrgj-iser-heapi-seizing-opportunity-uganda-digital-id], [2024-10-15-nira-press-statement-mass-enrolment-status], [2022-11-24-biometricupdate-uganda-parliament-probe-veridos-card-printing], [2023-04-30-monitor-fight-over-national-id-deal-splits-parliament]]
 ---
 
 # Uganda × Digital Identity
@@ -274,6 +274,17 @@ posts across 135 districts and 11 cities. Kit delivery was scheduled in three ai
 for **17 December 2024**. *(Actual parish rollout began 27 May 2025.)* Source:
 [[2024-10-15-nira-press-statement-mass-enrolment-status]].
 
+**The parliamentary budget figures (2023-04-30), a year before the exercise ran.** Committee chair
+Rosemary Nyakikongoro told the House the programme was **UGX 298.2bn** — *"a mass enrollment and
+renewal project of Shs298.2b to develop new system and undertake mass registration of 17.2m
+unregistered citizens… and renewal of 15.8m national identity cards that are due to expire"* — of
+which **UGX 117.8bn** for mass enrolment, plus **UGX 12.67bn** for NIRA to recruit staff. She also
+told the House the **[[electoral-commission-uganda|Electoral Commission]] expected an updated NIRA
+register by November 2024**. *(The UGX 298.2bn tracks the UGX 300bn Parliament appropriated in
+December 2023, against the UGX 666.85bn Cabinet approved in August 2022 — the same 45% shortfall, seen
+eight months earlier from the committee's side. The staffing line reads directly against the 52%
+vacancy rate below.)* Source: [[2023-04-30-monitor-fight-over-national-id-deal-splits-parliament]].
+
 **The one-year card-validity extension, sourced to the instrument.** With **up to 3.4 million** cards
 expiring between **24 August 2024 and 30 January 2025**, the Minister of Internal Affairs issued
 **Statutory Instrument No. 67 of 2024 — the Registration of Persons (Amendment) Regulations 2024** on
@@ -293,25 +304,39 @@ registered"), **nationwide heavy rainfall** impeding kit movement and causing **
 outages**, and the ageing equipment. **The registration drive was scheduled around an election, not
 around the unregistered population** — which is the same ordering the enrolment rates later expose.
 
-**The card-production vendor — resolved (2026-07-20).** **[[veridos]]** has been the private partner
-in Uganda's security-printing vehicle since **2018**, not a candidate awaiting selection. **Mühlbauer
-High Tech International** was the incumbent card producer **2010–2018** (a **€64.2m** contract signed
-March 2010, awarded on presidential direction over procurement-rule protests); on its expiry the
-Government entered a **15-year joint venture with Veridos**, vehicled as **USPC (Uganda Security
-Printing Company)** — **Government 51% / Veridos 49%**. Parliament's Defence and Internal Affairs
-Committee tried to reverse this: it resolved on **2022-11-22** to probe Veridos, and by **2023-04-30**
-its majority report recommended re-engaging Mühlbauer, while a minority report alleged the leadership
-had held **unsanctioned meetings with Mühlbauer in Uganda and Germany** in breach of the **PPDA Act**.
-The recommendation had no procurement force and **no contract was awarded to Mühlbauer**. The earlier
-claim that Mühlbauer was *"embroiled in a scandal concerning overcharging"* is **withdrawn as
-unsupported** — the actual disputes were procurement irregularity (2010) and vendor lock-in (which
-Mühlbauer rebutted on the record). **Two layers, not one:** card production runs through USPC; the
-enrolment system is [[tahaluf]]/[[tech5]]/[[mosip]] — so Veridos' absence from the 2026 provider list
-signifies nothing. Sources:
+**The card-production vendor — resolved (2026-07-20).** **[[veridos]]** has held the card-printing
+contract since **2018**, not a candidate awaiting selection. **Mühlbauer High Tech International** was
+the incumbent card producer — it *"produced national ID cards for Ugandans between 2010 and 2018"* and
+*"set up the current system that Nira uses"* — and Veridos succeeded it. Parliament's Defence and
+Internal Affairs Committee tried to reverse that: it **announced by 2022-11-24** that it would probe
+Veridos, after meeting Mühlbauer officials, and by **2023-04-30** its majority report recommended NIRA
+re-engage Mühlbauer to upgrade the legacy system, while a **minority report** (Bashir Sempa Lubega)
+backed Veridos and alleged the committee leadership had held **unsanctioned private meetings with
+Mühlbauer in Uganda and in Germany**, *"in total contravention of the Public Procurement and Disposal
+of Public Assets Act."* Veteran MP **Abdu Katuntu** objected that Parliament *"is not mandated to do
+procurement."* Veridos told the committee its factory would not be producing until **2027**. The
+recommendation had no procurement force and **no contract was awarded to Mühlbauer**.
+
+The earlier claim that Mühlbauer was *"embroiled in a scandal concerning overcharging"* is **withdrawn
+as unsupported** — the disputes on the record are **vendor lock-in** (NIRA called the legacy kit
+inflexible and vendor-locked; Kohler **rebutted this publicly**) and cost objections running the
+*other* way, MPs arguing the **Veridos smart ID was too expensive** against upgrading the legacy
+system.
+
+**Two layers, not one:** card production and security printing run through **USPC (Uganda Security
+Printing Company)**, which supplied NIRA's blank card stock (1.5m of an expected 8.1m by April 2025);
+the enrolment system is [[tahaluf]]/[[tech5]]/[[mosip]]. **So Veridos' absence from the 2026 provider
+list signifies nothing** — this retires the standing "do not infer the outcome" caveat.
+
+*Not established (2026-07-20): the contract mechanics — a €64.2m 2010 Mühlbauer award, the 2016 UPPC
+joint venture, a 2017-07-03 award over De La Rue, and the USPC ownership split — entered the wiki from
+reconcile-pass research and are **not in any held source**. Carried as unverified on [[veridos]]; see
+**ACQ-UGA-USPC**. No cost figure for USPC card production is on file.* Sources:
 [[2022-11-24-biometricupdate-uganda-parliament-probe-veridos-card-printing]],
 [[2023-04-30-monitor-fight-over-national-id-deal-splits-parliament]],
 [[2025-05-28 Huge turnout as Nira starts mass registration]],
-[[2024-08-19 Uganda Prepares Large-scale Biometric Registration for National ID]].
+[[2024-08-19 Uganda Prepares Large-scale Biometric Registration for National ID]],
+[[2025-04-02-nira-acquires-high-capacity-id-machines]] *(the USPC card-stock delivery)*.
 
 ## Delivery capacity: the register's limit is an establishment chart
 

@@ -6,7 +6,7 @@ places: [DZA]
 topics: [gov.policy, dpi.govtech]
 lens: []
 status: active
-last_reviewed: 2026-07-18
+last_reviewed: 2026-07-20
 sources: [[2026-07-08-national-digital-services-center-dual-data-centers--wearetech]]
 ---
 

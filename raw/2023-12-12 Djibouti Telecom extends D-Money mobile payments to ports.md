@@ -26,4 +26,6 @@ State operator **[[djibouti-telecom]]** extended its **D-Money** mobile-payment 
 
 Per **Djibouti Port Community Systems (DPCS)**, port-community payment transactions run at **2–3 billion Djiboutian francs per month (≈US$11.2m–16.9m)**, ~11% already paid online via DPCS integration with banks (CacBank, BCIMR, EximBank, SalaamBank). Ports are central to Djibouti's economy as the principal maritime gateway for Ethiopia.
 
-> **Date flag:** the clip states "11 December" without a year; **2021** is inferred (Developing Telecoms article context) and marked `date_source: proxy`. Distinct from the base 2020 D-Money launch. See `_review.md` GAP-DJI-001.
+> *(A trailing "Date flag" asserting **2021** as the inferred year was removed 2026-07-20: it was superseded
+> by the corrected header above — the year is **2023** — and pointed at a register that no longer exists.
+> Kept in git.)*

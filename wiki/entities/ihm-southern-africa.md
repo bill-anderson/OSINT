@@ -5,8 +5,8 @@ title: IHM Southern Africa
 places: [ZMB]
 topics: [dpi.mis, dpi.id, capacity.training, tech.industry, dpi.exchange, infra.connect]
 status: active
-last_reviewed: 2026-07-19
-sources: [[2025-01-17 Zambia Advances Digital ID System with MOSIP Training for Healthcare Integration], [2026-01-15 How Digital Public Infrastructure Is Transforming Health and Identity in Rural Zambia], [2026-07-17-zambia-govlink-private-4g]]
+last_reviewed: 2026-07-20
+sources: [[2025-01-17 Zambia Advances Digital ID System with MOSIP Training for Healthcare Integration], [2026-01-15 How Digital Public Infrastructure Is Transforming Health and Identity in Rural Zambia], [2026-07-17-zambia-govlink-private-4g], [2026-04-28-zambia-smartcare-2-0-ndola-pilot]]
 ---
 
 # IHM Southern Africa

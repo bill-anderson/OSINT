@@ -6,7 +6,7 @@ places: [ZWE]
 topics: [dpi.govtech, dpi.registry, dpi.id, dpi.pay, dpi.exchange]
 status: active
 last_reviewed: 2026-07-20
-sources: [[2026-01-01 ZIMRA Taxpayer Registration]]
+sources: [[2026-01-01 ZIMRA Taxpayer Registration], [2026-01-01-zimra-data-privacy-week-data-protection-officers]]
 ---
 
 # Zimbabwe Revenue Authority (ZIMRA)

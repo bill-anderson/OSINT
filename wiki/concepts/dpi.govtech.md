@@ -296,6 +296,20 @@ Government service delivery online.
   Roadmap**, naming its targets as **interdepartmental coordination, outdated systems, overlapping mandates
   and limited skills** — an institutional-fragmentation diagnosis, not a technology one. Publicly launched
   **2025-05-12**; both dates real, six weeks apart. Source: [[2025-03-27-cabinet-statement-26-march-2025]].
+- **[[SSD]] South Sudan — two revenue-digitisation contracts, terms an order of magnitude apart
+  (2025–26).** Crawford Capital Ltd (UK-registered, US-sanctioned May 2026) has been exclusive
+  e-Government provider since a 2019 untendered contract, on a **75/25 profit split** per the UN
+  Commission (A/HRC/60/CRP.5, 2025-09-16); the company says **2%** (2026-06-22). On **2025-10-08** the
+  SSRA and NCA signed a six-year **build-operate-transfer with Ensoft/N-Soft at 3.56%**, with full
+  transfer to the state. **Nothing about digitising revenue requires the Crawford structure.**
+- **[[SDN]] Sudan (2026-01-31).** **28 digital services** launched on the **Baladna** national platform,
+  alongside the **SudaPass** digital-ID track and a national project-management system; **55 government
+  institutions** linked by 2026-04-06.
+- **[[TGO]] Togo (2024-06) — govtech source-code export as a bilateral instrument.** Kazakhstan's NITEC
+  licensed three eGov units (Smart Bridge, a public-agency web platform, Smart Data Ukimet) to Togo's ATD
+  as a **source-code grant** — its third such export after Tajikistan and Sierra Leone. **No deployment
+  reported by either side as of 2026-07-20.** Note the taxonomy trap: this is **govtech licensing, not
+  DPI-identity** — Togo's e-ID partner is [[mosip]] under WURI.
 
 ## Places
 

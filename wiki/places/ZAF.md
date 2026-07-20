@@ -166,7 +166,8 @@ paid. **The government's arithmetic corroborates the plaintiffs.** Full case:
   2026) on the **80 MW** JNB1 campus; **[[cavaleros]]** launched **[[cosmas-data-cities]]** with
   **[[knight-frank]]**; **[[africa-data-centres]]** doubled CPT1 to **11.5 MW** on a loan of **up to
   $300m from the [[us-dfc]]**, then added **20 MW** (three SA sites to **50 MW**) on a 20-year
-  **[[distributed-power-africa]]** solar PPA. Sources:
+  **[[dpa-southern-africa]]** solar PPA (*the DPA–[[edf]] JV, not DPA itself — see 2023-03-14
+  below*). Sources:
   [[2025-06-03 Teraco Unveils 8th Data Centre, JB5, Strengthening Africa's Digital Infrastructure]],
   [[2025-06-08 Teraco completes JB5 data center in Johannesburg, South Africa (DCD)]],
   [[2024-11-13 Teraco to build 40 MW JB7 data centre at Isando Campus]],
@@ -175,6 +176,21 @@ paid. **The government's arithmetic corroborates the plaintiffs.** Full case:
   [[2024-07-25 Africa Data Centres adding 6MW capacity in Cape Town]],
   [[2024-11-20 Africa Data Centres expands by 20 megawatts to meet cloud, AI demand]] (*weak
   provenance*).
+- **2023-03-14** — **The wheeled-solar PPA, and the counterparty the wiki had wrong.**
+  [[africa-data-centres]] announced a **20-year PPA for 12 MW** of wheeled solar — the lineage behind
+  its claim to the **first successful solar wheeling in Africa** — supplying "over 30% of our South
+  African data centres", partly from a solar farm **near Bloemfontein**, routed across the
+  **[[eskom]]** grid rather than built behind the meter. The counterparty is **DPA Southern Africa
+  (Pty) Ltd** ([[dpa-southern-africa]]), a **50:50 joint venture between
+  [[distributed-power-africa]] and the French utility [[edf]]** — a separately registered South
+  African company, and an actor ([[edf]]) the wiki had missed. Later trade-press accounts describe
+  the counterparty loosely as "Distributed Power Africa"; prefer the announcer's own account.
+  *This is also the evidence that **Distributed Power Africa is three distinct registered companies
+  under one brand, not two**: the [[cassava-technologies]] and [[econet-wireless-zimbabwe]] arms have
+  been separately owned since Cassava's launch on **2021-11-10**, so this ZAF solar history must not
+  be carried onto [[econet-infraco]].* Source:
+  [[2023-03-14-cassava-adc-dpa-sa-edf-20-year-ppa]]. See [[infra.energy]], [[infra.store]],
+  [[distributed-power-africa]].
 - **2024-01-31** — **Google's Johannesburg cloud region opens** (GCP, `africa-south1`) — Google's
   first African cloud region, competing with **[[amazon-web-services|AWS]]**'s Cape Town region on
   in-region cloud/AI and data residency; connected via **[[equiano]]**. At launch: **40 cloud regions

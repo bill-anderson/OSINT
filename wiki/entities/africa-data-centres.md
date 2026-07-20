@@ -6,8 +6,8 @@ places: [ZAF, KEN, NGA, XAF]
 topics: [infra.store, infra.energy, infra.capacity, tech.ai]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-11
-sources: [[2026-01-01 Africa's Sovereign AI Play Cassava Technologies and Zimbabwean Strive Masiyiwa $ 720 million Bets - Ecofin Agency], [2025-09-18 Strive Masiyiwa's Push for Africa's AI-Powered Digital Infrastructure], [2026-06-23 Africa's Data Centre Boom Where The New Facilities Are Being Built], [2026-05-21 Africa Data Center Investment 2026 The $4.5B Race and the Power Problem], [2026-02-26 Lagos Is Getting a $250 Million Hyperscale Data Center. Here's Why Nigeria Still Can't Power the Cloud], [2026-04-14 Africa's data centres rethink power as grids falter], [2026-04-13 Stakeholders urge shift in digital public infrastructure trajectory]]
+last_reviewed: 2026-07-20
+sources: [[2026-01-01 Africa's Sovereign AI Play Cassava Technologies and Zimbabwean Strive Masiyiwa $ 720 million Bets - Ecofin Agency], [2025-09-18 Strive Masiyiwa's Push for Africa's AI-Powered Digital Infrastructure], [2026-06-23 Africa's Data Centre Boom Where The New Facilities Are Being Built], [2026-05-21 Africa Data Center Investment 2026 The $4.5B Race and the Power Problem], [2026-02-26 Lagos Is Getting a $250 Million Hyperscale Data Center. Here's Why Nigeria Still Can't Power the Cloud], [2026-04-14 Africa's data centres rethink power as grids falter], [2026-04-13 Stakeholders urge shift in digital public infrastructure trajectory], [2023-03-14-cassava-adc-dpa-sa-edf-20-year-ppa]]
 ---
 
 # Africa Data Centres
@@ -23,6 +23,13 @@ Africa Data Centres (ADC) is a [[cassava-technologies]] subsidiary and a leading
 
 ## Activity in this wiki
 
+- **The 20-year wheeled-solar PPA — counterparty corrected (announced 2023-03-14).** ADC signed a
+  **20-year PPA for 12 MW** of wheeled solar with **DPA Southern Africa (Pty) Ltd**, a **50:50 joint
+  venture between [[distributed-power-africa]] and the French utility [[edf]]** — *not* with DPA
+  itself, as later trade-press accounts have it. Power comes partly from a solar farm near
+  **Bloemfontein**; ADC said it would supply "over 30% of our South African data centres" with
+  renewables. Prefer the announcer's own account. See [[infra.energy]], [[ZAF]]. Source:
+  [[2023-03-14-cassava-adc-dpa-sa-edf-20-year-ppa]].
 - **Hybrid power as grids falter (2026-04, GITEX Africa).** ADC is named among operators
   (with Liquid Telecom and Teraco) building **hybrid energy** stacks — grid plus solar,
   battery storage and diesel — as executives argue "a grid-first approach cannot be
@@ -43,4 +50,4 @@ Africa Data Centres (ADC) is a [[cassava-technologies]] subsidiary and a leading
 - [[cassava-ai-factories]]
 
 ## Sources
-- [[2026-01-01 Africa's Sovereign AI Play Cassava Technologies and Zimbabwean Strive Masiyiwa $ 720 million Bets - Ecofin Agency]] · [[2025-09-18 Strive Masiyiwa's Push for Africa's AI-Powered Digital Infrastructure]] · [[2026-06-23 Africa's Data Centre Boom Where The New Facilities Are Being Built]] · [[2026-05-21 Africa Data Center Investment 2026 The $4.5B Race and the Power Problem]] · [[2026-02-26 Lagos Is Getting a $250 Million Hyperscale Data Center. Here's Why Nigeria Still Can't Power the Cloud]] · [[2026-04-14 Africa's data centres rethink power as grids falter]] · [[2026-04-13 Stakeholders urge shift in digital public infrastructure trajectory]]
+- [[2023-03-14-cassava-adc-dpa-sa-edf-20-year-ppa]] · [[2026-01-01 Africa's Sovereign AI Play Cassava Technologies and Zimbabwean Strive Masiyiwa $ 720 million Bets - Ecofin Agency]] · [[2025-09-18 Strive Masiyiwa's Push for Africa's AI-Powered Digital Infrastructure]] · [[2026-06-23 Africa's Data Centre Boom Where The New Facilities Are Being Built]] · [[2026-05-21 Africa Data Center Investment 2026 The $4.5B Race and the Power Problem]] · [[2026-02-26 Lagos Is Getting a $250 Million Hyperscale Data Center. Here's Why Nigeria Still Can't Power the Cloud]] · [[2026-04-14 Africa's data centres rethink power as grids falter]] · [[2026-04-13 Stakeholders urge shift in digital public infrastructure trajectory]]

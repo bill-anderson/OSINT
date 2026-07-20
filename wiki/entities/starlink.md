@@ -2,12 +2,12 @@
 type: entity
 entity_type: company
 title: Starlink (SpaceX)
-places: [XSS, XAF, NGA, KEN, ZWE, ZAF, NAM, SEN, GNB, MRT, LBR, BDI, CAF, NER, ZMB]
+places: [XSS, XAF, NGA, KEN, ZWE, ZAF, NAM, SEN, GNB, MRT, LBR, BDI, CAF, NER, ZMB, TCD]
 topics: [infra.connect, include.access, include.divides, infra.capacity, gov.standards]
 lens: [sovereignty, colonialism]
 status: active
-last_reviewed: 2026-07-19
-sources: [[2026-07-17-zambie-lance-reseau-4g-prive-govlink], [2026-01-29-satellite-internet-licence-tender-are-techafricanews], [2026-06-15 Starlink drives African broadband speeds higher], [2026-06-16 Who Owns Africa's Sky], [2026-05-26 Africa risks losing billions to satellite internet operators, report says], [2026-05-22 View How SpaceX is making a quiet bet on Africa], [2026-03-26 Starlink blocked from operating in Namibia], [2026-04-14 Amazon's $9bn satellite deal set to benefit Africa], [2026-04-07 Zimbabwe switches on free wifi to power AI future], [2026-02-05 Senegal embraces Starlink to connect the future], [2026-03-24 Namibia puts foot down against Musk's Starlink], [2026-06-24-namibian-regulator-rejects-starlink-again-connectingafrica], [2026-03-27-starlink-to-appeal-namibia-licence-rejection-namibian], [2026-03-31-starlink-says-cran-denial-unjustified-namibiansun], [2026-01-30 Can a digital economy exist in South Sudan without reliable DPI], [2026-01-07 Why Ethiopia, Somalia and Djibouti are starting to matter in digital Africa], [2026-03-10 Kenya begins audit of Airtel's Starlink Direct-to-Cell tech], [2024-03-15 Undersea cables for Africa's internet retrace history and leave digital gaps as they connect continents], [2026-02-18 Starlink pushes for SA license with advocacy campaign], [2026-01-01 Starlink Partners with Airtel & Vodacom From Rival to Ally], [2026-07-17-zimbabwe-digital-roadmap-msme-growth]]
+last_reviewed: 2026-07-20
+sources: [[2025-10-22-toumaiwebmedias-ratification-ordonnance-011-pr-2025-communications-electroniques], [2026-07-17-zambie-lance-reseau-4g-prive-govlink], [2026-01-29-satellite-internet-licence-tender-are-techafricanews], [2026-06-15 Starlink drives African broadband speeds higher], [2026-06-16 Who Owns Africa's Sky], [2026-05-26 Africa risks losing billions to satellite internet operators, report says], [2026-05-22 View How SpaceX is making a quiet bet on Africa], [2026-03-26 Starlink blocked from operating in Namibia], [2026-04-14 Amazon's $9bn satellite deal set to benefit Africa], [2026-04-07 Zimbabwe switches on free wifi to power AI future], [2026-02-05 Senegal embraces Starlink to connect the future], [2026-03-24 Namibia puts foot down against Musk's Starlink], [2026-06-24-namibian-regulator-rejects-starlink-again-connectingafrica], [2026-03-27-starlink-to-appeal-namibia-licence-rejection-namibian], [2026-03-31-starlink-says-cran-denial-unjustified-namibiansun], [2026-01-30 Can a digital economy exist in South Sudan without reliable DPI], [2026-01-07 Why Ethiopia, Somalia and Djibouti are starting to matter in digital Africa], [2026-03-10 Kenya begins audit of Airtel's Starlink Direct-to-Cell tech], [2024-03-15 Undersea cables for Africa's internet retrace history and leave digital gaps as they connect continents], [2026-02-18 Starlink pushes for SA license with advocacy campaign], [2026-01-01 Starlink Partners with Airtel & Vodacom From Rival to Ally], [2026-07-17-zimbabwe-digital-roadmap-msme-growth], [2026-07-17-starlink-launches-27th-african-country-ivory-coast]]
 ---
 
 # Starlink (SpaceX)
@@ -89,6 +89,18 @@ controls African connectivity infrastructure.
   Liberia, Madagascar, Malawi, Mauritius, Mozambique, Niger, Nigeria, Rwanda, São Tomé, Sierra
   Leone, Somalia, South Sudan, Zambia and Zimbabwe. See [[SEN]], [[infra.connect]],
   [[include.access]]. Source: [[2026-02-05 Senegal embraces Starlink to connect the future]].
+
+- **[[TCD]] Chad — the licence category stated on the parliamentary record (2025-10-22).** Answering
+  deputies during the ratification of **Ordonnance n°011/PR/2025**, Minister [[boukar-michel]] said
+  Starlink's Chadian concession is **not a mobile-operator licence but a multiservice Fournisseur
+  d'Accès Internet (FAI) licence**, granted **on application after a favourable [[arcep-chad]]
+  technical opinion and without a public call for candidates**. He added that market conditions did
+  not support a new ISP entrant, previous public tenders having failed — i.e. **Starlink entered by
+  a route that requires no competition, in a market the ministry says cannot sustain competitors.**
+  Useful comparative data point against the [[NAM]] refusals: the same product is classed
+  differently by different regulators, and the classification is what decides the entry route. See
+  [[chad--gov-protect]], [[chad--infra-connect]], [[gov.legislate]]. Source:
+  [[2025-10-22-toumaiwebmedias-ratification-ordonnance-011-pr-2025-communications-electroniques]].
 
 - **[[ZMB]] Zambia — the state as customer, since 2024.** [[smart-zambia-institute]] has deployed
   **Starlink kits in underserved public facilities since 2024**, alongside its own fibre/GWAN build

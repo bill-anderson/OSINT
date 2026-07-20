@@ -105,9 +105,12 @@ transit position.
   2024–2030, and the statutory **[[national-cybersecurity-authority-djibouti|ANC]]** (Loi n° 195/AN/25,
   operational Dec 2025; nucleus = ANSIE's DSSI).
 - [[dpi.pay]] — **[[smart-wallet-djibouti|Smart Wallet]]** (Visa/Tech5) and Djibouti Telecom's
-  **D-Money** (wallet launched **June 2020**; **first online payment gateway 10 December 2023**, with
-  port-community integration among its use cases; new app with biometric login **26 September 2024**).
-  See [[djibouti--dpi-pay]].
+  **D-Money** (wallet launched **June 2020**; **first online payment gateway 10 December 2023** — launched
+  under PM Abdoulkader Kamil Mohamed's patronage, with conventions signed on the day between Djibouti
+  Télécom and multiple ministries, public companies and local banks; port-community integration was one
+  strand among several, not the event's billing; new app with biometric login **26 September 2024**).
+  See [[djibouti--dpi-pay]]. Source (announcer-side):
+  [[2023-12-11-lanation-djibouti-lancement-premiere-plateforme-paiement-en-ligne-d-money]].
 - [[dpi.govtech]] — G2B one-stop platform; World Bank GovTech operations (customs/ASYCUDAWorld).
 - [[tech.ai]] · [[gov.policy]] — first national AI strategy (**[[djibouti-ai-strategy]]**, ESCWA/UNESCO)
   under **[[vision-djibouti-2035]]** "Smart Nation"; ITU/Smart Africa/China support sought.

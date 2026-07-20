@@ -358,6 +358,13 @@ converge.
   up against 193-state consensus and US/EU/China rivalry. See [[gov.standards]], [[gov.regional]].
   Sources: [[2026-07-08 The UN Scientific Panel on AI's Preliminary Report Does Not Establish Its Independence]],
   [[2026-07-10 Can the United Nations Bring the World Together on AI]].
+- **[[MUS]] Mauritius (2026-07-09) — a national AI registry.** Mauritius Telecom put live
+  **airegistry.mu**, a national **discovery and trust directory** of Mauritius-relevant AI models, agents
+  and tools — including Mauritian-Creole-capable models and assistants encoding national regulation. It
+  **does not host or sell** what it lists; each entry carries provider identity, local-context relevance
+  and, where applicable, institutional validation. The stack is open-sourced and pitched to other African
+  and global telcos. Showcased at the AllMyT Summit on 16 July but **launched a week earlier** — the
+  summit was a promotion stop, not the launch.
 
 ## By place
 

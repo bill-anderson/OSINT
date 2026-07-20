@@ -7,7 +7,7 @@ topics: [gov.policy, tech.ai, dpi.id, infra.connect]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-15
-sources: [[2026-07-13 Djibouti Seeks ITU, Smart Africa Support for Telecoms and AI Development], [2026-02-10 Djibouti launches Mobile ID national digital identity platform], [2025-07-01 Djibouti Digital Code adopted by National Assembly], [2026-01-29 Djibouti develops national AI strategy with UN support], [2025-12-18 Djibouti begins one-stop G2B digital platform for businesses]]
+sources: [[2026-07-13 Djibouti Seeks ITU, Smart Africa Support for Telecoms and AI Development], [2026-02-10 Djibouti launches Mobile ID national digital identity platform], [2025-07-01 Djibouti Digital Code adopted by National Assembly], [2026-01-29 Djibouti develops national AI strategy with UN support], [2025-12-18 Djibouti begins one-stop G2B digital platform for businesses], [2023-12-11-lanation-djibouti-lancement-premiere-plateforme-paiement-en-ligne-d-money]]
 ---
 
 # Vision Djibouti 2035

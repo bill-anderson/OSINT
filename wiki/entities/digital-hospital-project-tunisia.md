@@ -6,8 +6,8 @@ places: [TUN]
 topics: [dpi.mis, infra.connect, tech.ai, infra.store, dpi.exchange]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-17
-sources: [[2026-02-13 Tunisia Advances Digital Health Reform With AI and National Cloud Strategy]]
+last_reviewed: 2026-07-20
+sources: [[2026-02-13-tunisie-conseil-ministeriel-digitalisation-complete], [2026-02-13 Tunisia Advances Digital Health Reform With AI and National Cloud Strategy]]
 ---
 
 # Digital Hospital Project (Tunisia)

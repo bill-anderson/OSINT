@@ -6,8 +6,8 @@ places: [AGO]
 topics: [dpi.id, dpi.registry, gov.legislate, include.access]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-17
-sources: [[2026-04-29-bi-documento-unico-valido-identificacao], [2026-05-05-minjusdh-falhas-do-sistema-nos-postos-de-identificacao], [2026-06-12-justica-reforca-emissao-do-bi-registo-eleitoral], [2026-06-24-governo-pretende-reduzir-tempo-emissao-bi-48-horas], [2026-07-01-impressao-do-bi-abrange-todas-as-provincias]]
+last_reviewed: 2026-07-20
+sources: [[2017-01-16-nj-chineses-apoiam-angola-emissao-bi-registo-nascimento], [2019-11-10-angorussia-centro-producao-bi-243-milhoes], [2026-04-29-bi-documento-unico-valido-identificacao], [2026-05-05-minjusdh-falhas-do-sistema-nos-postos-de-identificacao], [2026-06-12-justica-reforca-emissao-do-bi-registo-eleitoral], [2026-06-24-governo-pretende-reduzir-tempo-emissao-bi-48-horas], [2026-07-01-impressao-do-bi-abrange-todas-as-provincias]]
 ---
 
 # Ministério da Justiça e dos Direitos Humanos (MINJUSDH) — Angola

@@ -6,8 +6,8 @@ places: [NGA]
 topics: [finance.new, infra.connect, dpi.exchange, capacity.training, geopol.eu, gov.policy]
 lens: []
 status: active
-last_reviewed: 2026-07-11
-sources: [[2026-03-24 Nigeria EU Announces New €290m Investments in Nigeria]]
+last_reviewed: 2026-07-20
+sources: [[2026-01-16-ebrd-tunisie-telecom-190m-medusa], [2026-03-24 Nigeria EU Announces New €290m Investments in Nigeria]]
 ---
 
 **Global Gateway** is the [[european-union]]'s flagship international

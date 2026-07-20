@@ -6,15 +6,23 @@ places: [SSD]
 topics: [dpi.pay, dpi.govtech]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-11
-sources: [[2026-01-19 South Sudan introduces digital payment system for passports after supply crisis]]
+last_reviewed: 2026-07-20
+sources: [[2026-01-19 South Sudan introduces digital payment system for passports after supply crisis], [2025-10-09-ssra-nca-ensoft-six-year-revenue-digitization-deal-eyeradio], [2026-05-14-south-sudan-defends-crawford-capital-deal-eastleighvoice], [2026-06-22-crawford-denies-75-percent-revenue-retention-sudanspost], [2026-05-15-crawford-capital-eservices-partnership-citizendigital]]
 ---
 
 # South Sudan National Revenue Authority (NRA)
 
-South Sudan's revenue-collection agency, led by Commissioner General **William
-Anyuon Kuol**, driving the digitisation of government fee collection to curb
-leakage and informal practices.
+South Sudan's revenue-collection agency, driving the digitisation of government
+fee collection to curb leakage and informal practices.
+
+**Name variance — record, don't resolve.** The agency appears in sources as both
+**South Sudan Revenue Authority (SSRA)** and **National Revenue Authority (NRA)**,
+both abbreviations in current use as of 2026-07-20. This wiki files it under one
+slug; no source on file establishes which form is the statutory name.
+
+**Leadership (dated).** Commissioner-General **Simon Akuei Deng** (Oct 2025,
+signing the Ensoft/N-Soft agreement); **William Anyuon Kuol** (Jan 2026). Read as
+succession rather than conflict — no source on file states a handover date.
 
 ## Activity in this wiki
 

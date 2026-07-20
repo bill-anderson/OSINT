@@ -2,8 +2,8 @@
 type: entity
 entity_type: organisation
 title: United Nations Development Programme (UNDP)
-places: [GHA, XAF, NGA, TZA, ZAF, RWA, KEN, ETH, CMR, MWI, ERI]
-topics: [gov.policy, capacity.training, tech.ai, finance.new, dpi.id, dpi.pay, dpi.exchange, gov.regional, include.divides, dpi.registry, capacity.research, data.statistics]
+places: [GHA, XAF, NGA, TZA, ZAF, RWA, KEN, ETH, CMR, MWI, ERI, ZMB]
+topics: [gov.policy, capacity.training, tech.ai, finance.new, dpi.id, dpi.pay, dpi.exchange, gov.regional, include.divides, dpi.registry, capacity.research, data.statistics, finance.mou]
 lens: [sovereignty, colonialism]
 status: active
 last_reviewed: 2026-07-20
@@ -68,6 +68,17 @@ see [[zambia--dpi-id]]).
   accounts work, Eritrea's most concrete data-systems development on record. See [[ERI]],
   [[data.statistics]], [[capacity.research]]. Source:
   [[2026-05-08 Eritrea strengthens data systems with EPHS 2025 (UNDP)]].
+- **Zambia — MoU with the Tony Blair Institute (2025-11-20).** UNDP Resident Representative
+  **Dr James Wakiaga** and **[[tony-blair-institute]]** Country Director **Maria Mkandawire**
+  signed an MoU **in Lusaka** covering digital transformation and digital inclusion,
+  public-sector capability, SDG-aligned investment promotion, resilient health systems
+  (technology-enabled delivery, rural health-facility electrification, improved data systems)
+  and climate-resilient agriculture. **A bilateral between two external organisations** to
+  coordinate their *support to* government — the **Government of Zambia is not a party**,
+  though the areas were "identified jointly" with it. **No value, duration or termination
+  terms disclosed; the text is unpublished (as of 2026-07-20).** *(Date discrepancy inside
+  the primary: stamped 20 November, datelined 21 November.)* See [[ZMB]], [[gov.policy]],
+  [[finance.mou]], `colonialism`. Source: [[2025-11-20-undp-tbi-mou-zambia]].
 
 ## Sources
 
@@ -79,3 +90,4 @@ see [[zambia--dpi-id]]).
 - [[2026-02-20 Kenya, India and Italy Launch Trilateral Sovereign AI Partnership for Africa]]
 - [[2026-05-08 Eritrea strengthens data systems with EPHS 2025 (UNDP)]]
 - [[2024-11-13-undp-eswatini-dra-results-launch]]
+- [[2025-11-20-undp-tbi-mou-zambia]]

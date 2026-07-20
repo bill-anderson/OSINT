@@ -7,7 +7,7 @@ topics: [gov.policy, dpi.govtech, dpi.exchange, dpi.id, infra.cybersec, infra.co
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-20
-sources: [[2024-02-14 National interoperability platform in Tunisia (Cybernetica UXP)], [2025-03-19 E-Houwiya - A Milestone in Tunisia's Digital Transformation Roadmap 2025 (ID Tech)], [2026-02-13 Zenzri lors d'un conseil ministériel - 2026, année du démarrage effectif de la digitalisation complète de l'administration]]
+sources: [[2024-02-14 National interoperability platform in Tunisia (Cybernetica UXP)], [2025-03-19 E-Houwiya - A Milestone in Tunisia's Digital Transformation Roadmap 2025 (ID Tech)], [2026-02-13-tunisie-conseil-ministeriel-digitalisation-complete]]
 ---
 
 # Digital Tunisia 2020-2025 (National Strategic Plan)
@@ -76,4 +76,4 @@ successor framing (see *Succession* above). Not yet an entity page: the plan doc
 
 - [[2024-02-14 National interoperability platform in Tunisia (Cybernetica UXP)]]
 - [[2025-03-19 E-Houwiya - A Milestone in Tunisia's Digital Transformation Roadmap 2025 (ID Tech)]]
-- [[2026-02-13 Zenzri lors d'un conseil ministériel - 2026, année du démarrage effectif de la digitalisation complète de l'administration]]
+- [[2026-02-13-tunisie-conseil-ministeriel-digitalisation-complete]]

@@ -7,7 +7,7 @@ topics: [infra.connect, infra.capacity, geopol.china]
 lens: [sovereignty, colonialism]
 status: active
 last_reviewed: 2026-07-17
-sources: [[2026-07-15 CSquared boosts internet by integrating with 2Africa West cable], [2026-01-20 Cable wars Mapping the political economy of submarine cables in an era of geoeconomic competition], [2026-03-02 I traced who owns the undersea cables that carry 95% of global internet traffic — the map is a colonial one], [2025-11-04 Digital Realty Expands African Footprint With New Data Center in Ghana (ACR2)], [2025-12-13-unitel-investe-43-milhoes-usd-ramal-2africa], [2025-12-13-cabo-submarino-2africa-unitel-soberania-digital]]
+sources: [[2026-07-15 CSquared boosts internet by integrating with 2Africa West cable], [2026-01-20 Cable wars Mapping the political economy of submarine cables in an era of geoeconomic competition], [2026-03-02 I traced who owns the undersea cables that carry 95% of global internet traffic — the map is a colonial one], [2025-11-04 Digital Realty Expands African Footprint With New Data Center in Ghana (ACR2)], [2025-12-13-unitel-investe-43-milhoes-usd-ramal-2africa], [2025-12-13-cabo-submarino-2africa-unitel-soberania-digital], [2024-06-10-cable-firms-eye-eritrea-red-sea-houthi-attacks]]
 ---
 
 # 2Africa subsea cable

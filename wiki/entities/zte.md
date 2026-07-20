@@ -6,8 +6,8 @@ places: [XAF, NGA, KEN, EGY, SSD]
 topics: [infra.cybersec, geopol.china, infra.store]
 lens: [sovereignty, colonialism]
 status: active
-last_reviewed: 2026-07-11
-sources: [[2026-04-04 Chinese surveillance rolled out in Africa ZTE, Hikvision, Huawei at the helm], [2026-02-09 Huawei reconnects with South Sudan]]
+last_reviewed: 2026-07-20
+sources: [[2026-03-09-ltt-zte-mou-mwc-barcelona], [2026-04-04 Chinese surveillance rolled out in Africa ZTE, Hikvision, Huawei at the helm], [2026-02-09 Huawei reconnects with South Sudan]]
 ---
 
 # ZTE

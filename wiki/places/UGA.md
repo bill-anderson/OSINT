@@ -188,8 +188,9 @@ days, two days before a presidential election — reminding every layer above it
   5-year strategy shifting to *citizen use* — e-gov 9.2%→40%, UGHub 37%→73%; Service Uganda Centres with
   [[posta-uganda]]; PPDA open-contracting OC4IDS; National Innovator Registry for local build). Foundations:
   **[[ughub]]** (100+ MDAs as of Jun 2024), **[[ugpass]]** authentication, **[[uganda-e-gif]]** (6 May 2021)
-  and the **[[uganda-digital-government-strategy]]** v1.1 (26 Feb 2022), under renewal with the
-  [[e-governance-academy]].
+  and the **[[uganda-digital-government-strategy]]** v1.1 (26 Feb 2022). The GEA and e-GIF were
+  **renewed with the [[e-governance-academy]] and delivered 2026-05-27** — *rollout not yet reported,
+  and neither renewed document is held (as of 2026-07-20)*.
 - [[gov.legislate]] · [[gov.protect]] — extracted: **[[uganda--gov-protect]]** — the **PDPO**'s assertive
   Big-Tech enforcement (Ssekamwa v **Google** 2025; AdLegal v **WhatsApp/Meta** 2026 — extraterritorial
   reach, cross-border adequacy, "material harm" incl. dignity); first local prosecution (Vuka Africa);

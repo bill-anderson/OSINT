@@ -8,8 +8,8 @@ topics: [dpi.pay, finance.new, gov.policy, gov.regional, geopol.india]
 entities: [[maucas], [bank-of-mauritius], [mauritius-commercial-bank], [mauritius-national-fintech-strategy], [peach-payments], [mauritius-telecom]]
 lens: []
 status: active
-last_reviewed: 2026-07-19
-sources: [[2026-06-29-national-fintech-strategy-2026-2030-wearetech], [2026-02-04-bom-digital-payments-workshop-lexpress], [2026-01-19-mcb-qr-payments-67pc-growth-lexpress], [2024-01-01 SIIPS 2024 Case Study - MauCAS (Mauritius)], [2026-05-18 Mauritius emerges as an African payments hub]]
+last_reviewed: 2026-07-20
+sources: [[2026-06-29-national-fintech-strategy-2026-2030-wearetech], [2026-02-04-bom-digital-payments-workshop-lexpress], [2026-01-19-mcb-qr-payments-67pc-growth-lexpress], [2024-01-01 SIIPS 2024 Case Study - MauCAS (Mauritius)], [2026-05-18 Mauritius emerges as an African payments hub], [2026-07-16-mauritius-telecom-allmyt-keynote-sovereign-ai-platformafrica]]
 ---
 
 # Mauritius × Payments & Fintech
@@ -49,5 +49,13 @@ gateway** into Africa and between Africa and Asia.
 - **African payments hub.** Post-FATF-grey-list-exit, fintechs use the island as a treasury/billing gateway into
   fragmented African markets — **[[peach-payments]]**' Mauritius entity grew volume **>300% YoY**. Source:
   [[2026-05-18 Mauritius emerges as an African payments hub]].
+- **Mauritius–Seychelles corridor — announced, not established (2026-07-16).** At the AllMyT Summit
+  [[mauritius-telecom|MT]]'s CEO announced the launch of **cross-border payment capabilities between Mauritius
+  and Seychelles** with Seychelles fintech **Eboo**, billed as the first of a series of Indian Ocean regional
+  payment announcements. **No corroborating record from Eboo, the [[bank-of-mauritius|BoM]] or the Central Bank
+  of Seychelles is on file as of 2026-07-20** — treat as an operator announcement, not a live service. An
+  **SBM Bank** partnership to *create* a shared entrepreneur platform was announced the same day with no terms,
+  value or date. See [[SYC]], [[gov.regional]]. Source:
+  [[2026-07-16-mauritius-telecom-allmyt-keynote-sovereign-ai-platformafrica]].
 
 See [[MUS]], [[dpi.pay]], [[gov.regional]].

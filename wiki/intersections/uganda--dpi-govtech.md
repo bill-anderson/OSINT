@@ -4,12 +4,12 @@ title: Uganda × E-Government & Interoperability
 place: UGA
 topic: dpi.govtech
 places: [UGA]
-topics: [dpi.govtech, dpi.exchange, gov.policy, gov.standards, tech.innovate, data.open]
-entities: [[nita-uganda], [ughub], [ugpass], [ppda-uganda], [posta-uganda]]
+topics: [dpi.govtech, dpi.exchange, gov.policy, gov.standards, tech.innovate, data.open, digital.localgov, geopol.eu]
+entities: [[nita-uganda], [ughub], [ugpass], [ppda-uganda], [posta-uganda], [e-governance-academy], [uganda-e-gif], [world-bank]]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-19
-sources: [[2025-11-14-govt-upgrade-procurement-portal-oc4ids], [2026-03-13-service-uganda-centre-construction-gulu], [2026-05-06-govt-pushes-unified-digital-systems-eservices], [2026-05-19-govt-turns-to-local-innovators-national-innovator-registry], [2026-06-22-nita-u-five-year-digital-strategy]]
+last_reviewed: 2026-07-20
+sources: [[2025-11-14-govt-upgrade-procurement-portal-oc4ids], [2026-03-13-service-uganda-centre-construction-gulu], [2026-05-06-govt-pushes-unified-digital-systems-eservices], [2026-05-19-govt-turns-to-local-innovators-national-innovator-registry], [2026-06-22-nita-u-five-year-digital-strategy], [2026-02-18-ega-uganda-launches-renewal-gea-egif], [2026-05-27-ega-uganda-renewed-digital-government-frameworks]]
 ---
 
 # Uganda × E-Government & Interoperability
@@ -30,6 +30,35 @@ builders. The honest baseline: only **9.2% of Ugandans** actively use e-governme
   centred, interoperable** system to replace fragmented platforms — "services efficient, accessible,
   transparent… data trusted, systems secure." See [[dpi.exchange]]. Source:
   [[2026-05-06-govt-pushes-unified-digital-systems-eservices]].
+
+## The architecture renewed (Feb–May 2026)
+
+Uganda's two governing standards documents — the **Government Enterprise Architecture (GEA)** and the
+**[[uganda-e-gif|e-Government Interoperability Framework]]**, both built with the Estonian
+**[[e-governance-academy|eGA]]** and dated **6 May 2021** — reached their five-year mark and were
+renewed, with **[[world-bank]]** support and [[nita-uganda|NITA-U]] leading.
+
+- **Kick-off — workshop concluded 2026-02-18.** eGA experts led a **multi-agency workshop in Kampala**
+  on the current state of Uganda's digital landscape, priority challenges and a shared target vision.
+  The stated purpose of the GEA is a blueprint that *"ensures government systems are designed to
+  collaborate together and not grow in isolation"* (Brenda Maniraguha, NITA-U project manager for the
+  GEA/GIF) — the standards answer to the fragmentation the May-2026 ministerial workshop complained of
+  above. Source: [[2026-02-18-ega-uganda-launches-renewal-gea-egif]].
+- **Delivered — 2026-05-27.** The renewal completed: a **renewed GEA aligned to Uganda Vision 2040**,
+  the Digital Uganda Vision, emerging technologies and sector digitalisation priorities; and an
+  **enhanced e-GIF** for *"secure, standardised, and seamless data exchange across government
+  systems."* The process ran a full assessment of the existing frameworks, cross-sector stakeholder
+  consultation, and updated policy and technical recommendations, followed by awareness and engagement
+  workshops for policymakers and technical teams. Claimed benefits: less duplication across systems and
+  stronger evidence-based decision-making. Source:
+  [[2026-05-27-ega-uganda-renewed-digital-government-frameworks]].
+
+**Delivered is not deployed.** eGA describes the workshops as preparing institutions *"for the rollout
+of the renewed frameworks"* — **as of 2026-07-20 no rollout, adoption milestone or compliance figure
+for the renewed GEA/e-GIF is reported in any source held here**, and neither renewed document itself is
+held. Read against the strategy targets above, this is the standards layer under the **[[ughub]] 37% →
+73%** integration goal: the blueprint has been rewritten, and whether MDAs build to it is the open
+question. See **ACQ-UGA-GEA**. See [[dpi.exchange]], [[gov.standards]].
 
 ## Service delivery, decentralised
 
@@ -70,6 +99,8 @@ builders. The honest baseline: only **9.2% of Ugandans** actively use e-governme
 
 Place: [[UGA]] · Region: [[XEA]] · Concepts: [[dpi.govtech]] · [[dpi.exchange]] · [[gov.policy]] ·
 Intersections: [[uganda--dpi-id]] · [[uganda--dpi-registry]] · [[uganda--infra-connect]] · Entities:
-[[nita-uganda]] · [[ughub]] · [[ugpass]] · [[ppda-uganda]] · [[posta-uganda]]
+[[nita-uganda]] · [[ughub]] · [[ugpass]] · [[ppda-uganda]] · [[posta-uganda]] · [[e-governance-academy]] ·
+[[uganda-e-gif]] · [[world-bank]]
 - Mentioned, not hubbed: Godfrey Kabbyanga Baluku (State Minister ICT); Dr Hatwib Mugasa (NITA-U ED);
-  Michael Cengkuru / CoST Uganda; UDAP-GovNet Service Uganda Centre programme.
+  Michael Cengkuru / CoST Uganda; UDAP-GovNet Service Uganda Centre programme; Brenda Maniraguha
+  (NITA-U GEA/GIF project manager).

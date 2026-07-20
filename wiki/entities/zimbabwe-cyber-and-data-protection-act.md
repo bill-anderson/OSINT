@@ -7,7 +7,7 @@ topics: [gov.protect, gov.legislate, gov.standards, infra.cybersec, dpi.exchange
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-17
-sources: [[2025-06-30 Zimbabwe's Cyber and Data Protection Act - Overview]]
+sources: [[2025-06-30 Zimbabwe's Cyber and Data Protection Act - Overview], [2026-01-01-zimra-data-privacy-week-data-protection-officers]]
 ---
 
 # Zimbabwe Cyber and Data Protection Act (2021)

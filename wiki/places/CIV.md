@@ -6,7 +6,7 @@ parent: XWA
 place_kind: country
 topics: [gov.policy, gov.legislate, gov.standards, gov.protect, gov.regional, tech.ai, tech.innovate, tech.industry, infra.cybersec, infra.connect, infra.store, infra.energy, data.open, data.statistics, data.satellite, dpi.govtech, dpi.exchange, dpi.id, dpi.registry, dpi.pay, dpi.mis, digital.localgov, digital.rural, capacity.training, capacity.literacy, capacity.research, finance.new, include.access, include.divides, geopol.usa, geopol.china, geopol.eu, geopol.gulf]
 status: active
-last_reviewed: 2026-07-19
+last_reviewed: 2026-07-20
 ---
 
 # Côte d'Ivoire (CIV)
@@ -24,6 +24,16 @@ sovereignty; the target is digital **6% → 15% of GDP by 2030**.
 
 ## Recent developments
 
+- **2026-07-17** — **Starlink live in Côte d'Ivoire — SpaceX's 27th African market.** Reported available
+  by **2026-07-17**, completing the arc from the **June 2026** 12-month provisional licence. Residential
+  pricing at launch: hardware **XOF 148,148** (Mini) / **XOF 247,466** (Standard); service **XOF 28,746/mo**
+  (Residential 100Mbps) and **XOF 40,244/mo** (Residential, best-effort). *Dating caveat: **SpaceX has
+  published no launch date**, and the held source is a secondary (MyBroadband, 2026-07-17) — so the event is
+  dated **"live by 17 July 2026"**, not to that day. As of 2026-07-20 no announcer-side commercial-launch
+  notice is held.* The same tabulation puts **19 further African markets** (18 UN-recognised states plus
+  Western Sahara) on a stated 2026 timeline, against a repeated pattern of slipped dates. See
+  [[civ--infra-connect]], [[infra.connect]], [[starlink]], [[geopol.usa]]. Source:
+  [[2026-07-17-starlink-launches-27th-african-country-ivory-coast]].
 - **2026-07-18** — **100 electric ride-hailing cars in Abidjan — the first four-wheeler EV bet at scale.**
   **[[gocab]]**, the mobility fintech that owns **[[yango]]'s** largest CIV fleet, handed **100 fully
   electric vehicles** to driver-partners — the **first half of a 200-vehicle programme**, and one of

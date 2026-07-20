@@ -7,7 +7,7 @@ topics: [infra.connect, gov.legislate, gov.policy, geopol.usa]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-12
-sources: [[2026-02-18 Starlink pushes for SA license with advocacy campaign], [2026-01-01 Starlink Partners with Airtel & Vodacom From Rival to Ally]]
+sources: [[2026-02-18 Starlink pushes for SA license with advocacy campaign], [2026-01-01 Starlink Partners with Airtel & Vodacom From Rival to Ally], [2026-07-17-starlink-launches-27th-african-country-ivory-coast]]
 ---
 
 **SpaceX** is the US space and satellite-communications company founded by South-African-born billionaire **Elon Musk**, and the parent of the low-Earth-orbit (LEO) broadband service [[starlink]]. In the OSINT record here SpaceX/Starlink is notable for a sustained lobbying and advocacy push to obtain an operating **licence in South Africa**, which has become a flashpoint over Black economic empowerment and digital sovereignty.

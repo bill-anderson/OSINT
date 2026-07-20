@@ -6,8 +6,8 @@ places: [SDN]
 topics: [dpi.pay, finance.new, infra.cybersec]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-18
-sources: [[2025-04-18 Zain Launches Bede Digital Wallet to Boost Financial Inclusion in Sudan], [2026-03-18 Sudan Launches USSD Banking Services to Expand Digital Financial Access]]
+last_reviewed: 2026-07-20
+sources: [[2025-04-18 Zain Launches Bede Digital Wallet to Boost Financial Inclusion in Sudan], [2026-03-18 Sudan Launches USSD Banking Services to Expand Digital Financial Access], [2026-04-20-cbos-nips-national-instant-payment-system-tender], [2026-07-04-cbos-revokes-al-asjad-payment-switch-licence]]
 ---
 
 # Central Bank of Sudan (CBoS)

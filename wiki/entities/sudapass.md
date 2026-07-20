@@ -6,8 +6,8 @@ places: [SDN]
 topics: [dpi.id, dpi.govtech, include.access]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-18
-sources: [[2026-01-29 How to build trust alongside Sudan's digital identity system], [raw/2026-02-02 Sudan's planned national digital ID could strengthen recovery push - Experts], [2026-05-21 Sudan launches national digital identity SUDAPASS (SUNA)]]
+last_reviewed: 2026-07-20
+sources: [[2026-01-29 How to build trust alongside Sudan's digital identity system], [2026-02-02 Sudan's planned national digital ID could strengthen recovery push - Experts], [2026-05-21 Sudan launches national digital identity SUDAPASS (SUNA)], [2026-02-01-sudan-digital-ministry-launches-28-services-baladna]]
 ---
 
 # SudaPass

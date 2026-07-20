@@ -5,8 +5,8 @@ title: Uganda e-Government Interoperability Framework (e-GIF)
 places: [UGA]
 topics: [dpi.exchange, gov.standards, dpi.govtech, data.open]
 status: active
-last_reviewed: 2026-07-17
-sources: [[2021-05-06 Uganda e-Government Interoperability Framework (e-GIF)], [2026-02-19 NITA-Uganda concludes workshop on renewal of government enterprise architecture and interoperability framework]]
+last_reviewed: 2026-07-20
+sources: [[2021-05-06 Uganda e-Government Interoperability Framework (e-GIF)], [2026-02-18-ega-uganda-launches-renewal-gea-egif], [2026-05-27-ega-uganda-renewed-digital-government-frameworks]]
 ---
 
 # Uganda e-Government Interoperability Framework (e-GIF)

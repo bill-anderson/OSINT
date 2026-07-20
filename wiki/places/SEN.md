@@ -74,12 +74,19 @@ last_reviewed: 2026-07-20
   **[[senegal-data-protection-law|Law No. 2008-12 of 25 Jan 2008]]** remains Senegal's data-protection
   statute, **unamended as of 27 Mar 2026** — cybersecurity and AI-governance consultant **Saïkou Fall** tells
   APS it has *"devenue caduque"* against generative AI, and that *"le Sénégal tarde encore … à mettre à
-  jour"* its law; a bill is *"dans le circuit"* awaiting a National Assembly vote. The revision is not new:
-  the **[[cdp-senegal|CDP]]** opened it in **2017**, a 2019 draft would replace the CDP with a 12-member
-  **APDP** and widen "sensitive data" to filiation and genetic data, the text cleared the **Cour Suprême in
-  2022**, and finalisation workshops ran in **Oct 2024** and again after the SND/SNIA strategies were adopted
-  — yet it has still not reached a vote, including through the **February-2026 national biometric-ID
-  breach**. Fall's warning is that without it the CDP carries *"des angles morts"* as the
+  jour"* its law; a bill is *"dans le circuit"* awaiting a National Assembly vote — and it did not advance
+  through the **February-2026 national biometric-ID breach**, which is a state-capacity finding rather than
+  a data gap.
+  > **Provenance boundary (2026-07-20).** A longer chronology was previously carried here — that the CDP
+  > opened the revision in **2017**, that a **2019** draft would replace the CDP with a 12-member **APDP**
+  > and widen "sensitive data" to filiation and genetic data, that the text cleared the **Cour Suprême in
+  > 2022**, and that finalisation workshops ran in **Oct 2024**. **No source the wiki holds carries any of
+  > it** (checked against `raw/` for `2008-12`, `Cour Suprême` and `APDP`, 2026-07-20); the APS piece cited
+  > below supports only that the law is unamended, that it is *"caduque"*, and that a bill awaits a vote.
+  > The chronology came from reconcile-pass research, which is working material and not a source. It is
+  > **not carried as established** and should not be cited onward until a primary is ingested.
+
+  Fall's warning is that without it the CDP carries *"des angles morts"* as the
   **[[new-deal-technologique|New Deal Technologique]]** scales up sensitive-data processing. *(Resolved
   2026-07-20 — the wiki previously held only an undated "revision underway" note.)* See [[gov.protect]],
   [[gov.legislate]], [[tech.ai]]. Source: [[2026-03-27-aps-donnees-personnelles-legislation-moderniser]].
@@ -117,10 +124,22 @@ last_reviewed: 2026-07-20
   verified**. Exfiltration itself **is** established — researcher **[[clement-domingo|Clément Domingo]]**
   confirmed genuine birth records and ID cards in the published samples — and the DAF **never denied it**: its
   communiqués assert only that data **integrity** "demeure intacte," staying silent on confidentiality.
-  **[[senegal-numerique|SENUM SA]]** was reportedly hit around the same time, amid an **unpaid-invoices
-  dispute** between Iris and the state. One of a run of state cyberattacks (tax authority Oct 2025, Treasury
-  May 2026). Full cluster: **[[senegal--dpi-id]]**. Sources:
+  The **"Perso" server was card-personalisation infrastructure, not the citizen database** — the leaked email's
+  own wording, *"serveur de personnalisation (Perso Server)"* and *"serveur de domaine (Domain Server)"*
+  (Senegal7, 5 Feb 2026); Dark Reading's citizen-database reading is its own hedged inference and post-dates it.
+  *This narrows the route, not the exposure*: the domain controller went too, and Domingo's verification stands
+  regardless of which machine the records left by. Separately, **[[senegal-numerique|SENUM SA]]** reported
+  *"tentatives de cyberattaques"* — **attempts** — in its own communiqué of **9 Feb 2026**, confirming no
+  breach, no exfiltration, no attacker and no affected dataset, only a temporary restriction of some services;
+  press had reported a *compromise* three days earlier, and the "coordinated campaign" framing is **press
+  inference from simultaneity**, never asserted by the DSC, SENUM or the ministry. All of this sat amid an
+  **unpaid-invoices dispute** between Iris and the state, with **no party linking the dispute to the
+  intrusion**. One of a run of state cyberattacks (tax authority Oct 2025, Treasury May 2026). Full cluster:
+  **[[senegal--dpi-id]]**, **[[senegal--infra-cybersec]]**. Sources:
   [[2026-02-05-aps-daf-suspension-cni-communique]],
+  [[2026-02-05-senegal7-daf-perso-server-email]],
+  [[2026-02-11-zataz-senegal-frappe-fichier-identite]],
+  [[2026-02-13-enqueteplus-senum-tentatives-cyberattaques]],
   [[2026-02-12-darkreading-senegal-breach-security-maturity]],
   [[2026-02-10 Senegal data breach disrupts national ID issuance]],
   [[2026-02-10 Senegal shuts National ID office after ransomware attack]],
@@ -245,7 +264,7 @@ last_reviewed: 2026-07-20
   · [[geopol.eu]] — Universal Connectivity (>1m people, 2026); **[[starlink]]** live (26th African
   market); Orange **[[via-africa-cable]]** Atlantic landing.
 - [[gov.protect]] · [[infra.cybersec]] · [[geopol.usa]] — data-protection/cybersecurity frameworks
-  under the New Deal; **Law No. 2008-12 unamended (as of Mar 2026)**, reform stalled since 2017; **no
+  under the New Deal; **Law No. 2008-12 unamended (as of Mar 2026)**, a revision bill awaiting a vote; **no
   national CERT or cybersecurity agency** at the time of the 2026 breaches; the US–Senegal health MOU's
   Senegalese-law data safeguard.
 - [[tech.ai]] · [[capacity.research]] — NASA Harvest locally-adapted agricultural AI.

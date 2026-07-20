@@ -148,8 +148,9 @@ the payments, AML, civil-registry and e-ID-rollout threads.
   digital-ID or DPI-identity partnership: Togo's e-ID partner is **[[mosip]]** (with Atos and Idemia)
   under WURI. A Biometric Update piece of 2025-11-03 listed it among "bilateral DPI partnerships",
   which is how the unusable bare reference entered this wiki; that framing is **corrected here**
-  (GAP-TGO-003 resolved 2026-07-20).* See [[dpi.govtech]], [[dpi.exchange]], [[gov.regional]],
-  [[finance.mou]].
+  (GAP-TGO-003 resolved 2026-07-20).* Source:
+  [[2024-06-20-kazakhstan-nitec-togo-atd-egov-licensing]] (NITEC's own account, via Kazakh business press).
+  See [[dpi.govtech]], [[dpi.exchange]], [[gov.regional]], [[finance.mou]], → [[togo--dpi-govtech]].
 - **2024-12-18** — **$100m to accelerate digital transformation.** The World Bank approved the
   **first round** of a series of IDA operations — **$100 million (≈FCFA 62 billion)**
   ([[togo-digital-acceleration-financing]]) — to connect approximately **8,000 public institutions**

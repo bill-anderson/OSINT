@@ -6,7 +6,7 @@ places: [TUN]
 topics: [infra.connect, infra.capacity]
 status: active
 last_reviewed: 2026-07-20
-sources: [[2026-01-19 EBRD and Tunisie Telecom Partner on €190 Million Digital Infrastructure Upgrade], [2025-02-10-tunisie-telecom-joins-medusa-fibre-pair], [2025-11-01-medusa-lands-in-bizerte]]
+sources: [[2026-01-16-ebrd-tunisie-telecom-190m-medusa], [2026-01-19 EBRD and Tunisie Telecom Partner on €190 Million Digital Infrastructure Upgrade], [2025-02-10-tunisie-telecom-joins-medusa-fibre-pair], [2025-11-01-medusa-lands-in-bizerte]]
 ---
 
 # Tunisie Telecom

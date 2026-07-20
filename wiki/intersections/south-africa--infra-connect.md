@@ -9,7 +9,7 @@ entities: [[sadis-2025], [dbsa], [starlink], [spacex], [icasa], [solly-malatsi],
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-19
-sources: [[2026-03-31 SA finally has a broadband map - and it reveals where the gaps are], [2025-01-01 South Africa's Digital Infrastructure Investment Study 2025], [2026-01-01 Starlink Partners with Airtel & Vodacom From Rival to Ally], [2026-04-28 State broadband merger limps into a second decade], [2026-04-01 MTN to invest $1.3B in South Africa by 2028], [2025-12-12-malatsi-directive-bypass-icasa-bee-starlink], [2025-12-12-sa-eases-ownership-rules-starlink], [2026-04-14-starlink-blocked-icasa-empowerment-pathway], [2026-04-24-icasa-political-crossfire-starlink], [2026-05-14-starlink-legal-deadend-icasa-rejects-bee], [2026-06-30-icasa-satellite-licensing-rules-starlink-hold], [2026-07-06-malatsi-starlink-lobbying-allegations], [2026-07-15-herotel-amazon-leo-distributor], [2026-07-15-ramaphosa-malatsi-meet-amazon], [2026-07-16-why-amazon-partnered-where-starlink-pushed-back], [2026-07-17-starlink-27th-african-country-before-sa]]
+sources: [[2026-03-31 SA finally has a broadband map - and it reveals where the gaps are], [2025-01-01 South Africa's Digital Infrastructure Investment Study 2025], [2026-01-01 Starlink Partners with Airtel & Vodacom From Rival to Ally], [2026-04-28 State broadband merger limps into a second decade], [2026-04-01 MTN to invest $1.3B in South Africa by 2028], [2025-12-12-malatsi-directive-bypass-icasa-bee-starlink], [2025-12-12-sa-eases-ownership-rules-starlink], [2026-04-14-starlink-blocked-icasa-empowerment-pathway], [2026-04-24-icasa-political-crossfire-starlink], [2026-05-14-starlink-legal-deadend-icasa-rejects-bee], [2026-06-30-icasa-satellite-licensing-rules-starlink-hold], [2026-07-06-malatsi-starlink-lobbying-allegations], [2026-07-15-herotel-amazon-leo-distributor], [2026-07-15-ramaphosa-malatsi-meet-amazon], [2026-07-16-why-amazon-partnered-where-starlink-pushed-back], [2026-07-17-starlink-launches-27th-african-country-ivory-coast]]
 ---
 
 # South Africa × Connectivity
@@ -62,7 +62,7 @@ the ecosystem instead of the company*.
 - **Satellite licensing clarified, Starlink still on hold (Jun–Jul 2026).** ICASA spelled out satellite
   licensing rules; Starlink remained un-launched — and by July had gone live in its **27th African country
   before South Africa**. Malatsi also had to publicly rebut **lobbying allegations** over his handling of the
-  file. Sources: [[2026-06-30-icasa-satellite-licensing-rules-starlink-hold]], [[2026-07-17-starlink-27th-african-country-before-sa]],
+  file. Sources: [[2026-06-30-icasa-satellite-licensing-rules-starlink-hold]], [[2026-07-17-starlink-launches-27th-african-country-ivory-coast]],
   [[2026-07-06-malatsi-starlink-lobbying-allegations]].
 - **Amazon found the formula (Jul 2026).** **[[amazon-leo]]** (ex-Project Kuiper) will launch in SA in **2027
   via [[herotel]]** (350k+ customers, 550+ towns; new "evry" service) — Amazon supplies the satellites, the

@@ -429,6 +429,16 @@ hosted on the continent at all.
   and running the Brazzaville National Data Centre; the rest covers 600 km of fibre to Cameroon and CAR
   (as of **2024-05-17**). Congolese reporting's recurring "$13 million" restates the euro figure in the wrong
   currency. Source: [[2024-05-17-afdb-congo-national-data-centre-digital-sovereignty]].
+- **[[CAF]] Central African Republic — four proposals, three sponsors, nothing built.** CAR has **no
+  built national data centre as of 2026-07-20**, yet four threads circle the same facility with three
+  geopolitical sponsors: a China-backed **Huawei Tier III** proposal (2026-05), the US **Greenline
+  Technologies / SOCATEL Tier 3** inside a **$150m** privatisation MoU (signed **2025-09-18**, Casablanca;
+  operational phase 2026-07-16, agreements still unfinalised), a **dormant AIAL Group MoU** (Kigali,
+  Jan 2025), and an **AfDB/CAB procurement never delivered**.
+- **[[SDN]] Sudan.** The **Khartoum State data centre** (1,300 m²) was **restored and operational
+  2025-10-10** after technical rehabilitation. Distinct from Sudatel's RSF-seized Khartoum facility
+  (Dec 2023) and from the **planned** Port Sudan alternate national data centre (announced Jan–Mar 2026,
+  **not built as of 2026-07-20**).
 
 ## Places
 

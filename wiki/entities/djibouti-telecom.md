@@ -7,7 +7,7 @@ topics: [infra.connect, dpi.pay, infra.store]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-18
-sources: [[2023-12-12 Djibouti Telecom extends D-Money mobile payments to ports], [raw/2025-09-19 Djibouti-Visa Smart Wallet national digital wallet MoU], [2026-02-10 Ethio telecom, Djibouti Telecom, Sudatel Seal Binding Deal on Cross-Border Fiber Network]]
+sources: [[2023-12-12 Djibouti Telecom extends D-Money mobile payments to ports], [2025-09-19 Djibouti-Visa Smart Wallet national digital wallet MoU], [2026-02-10 Ethio telecom, Djibouti Telecom, Sudatel Seal Binding Deal on Cross-Border Fiber Network], [2023-12-11-lanation-djibouti-lancement-premiere-plateforme-paiement-en-ligne-d-money]]
 ---
 
 # Djibouti Telecom

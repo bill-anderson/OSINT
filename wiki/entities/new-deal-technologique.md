@@ -6,8 +6,8 @@ places: [SEN]
 topics: [gov.policy, infra.connect, dpi.id, dpi.exchange, infra.store, infra.cybersec, gov.protect]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-16
-sources: [[2026-03-25 Senegal Accelerates Digital Sovereignty with Rollout of Flagship Technology Initiatives], [2026-07-15 Senegal pushes stronger cybersecurity cooperation to protect critical infrastructure], [2025-02-27 Senegal unveils New Deal Technologique digital transformation strategy], [2025-09-29 Gates Foundation fuels Senegal's digital transformation with $10M], [2025-12-08 GSMA maps the reforms required for Senegal's digital takeoff], [2025-12-09 Senegal allocates 60% of 2026 digital ministry budget to investment]]
+last_reviewed: 2026-07-20
+sources: [[2026-03-27-aps-donnees-personnelles-legislation-moderniser], [2026-03-25 Senegal Accelerates Digital Sovereignty with Rollout of Flagship Technology Initiatives], [2026-07-15 Senegal pushes stronger cybersecurity cooperation to protect critical infrastructure], [2025-02-27 Senegal unveils New Deal Technologique digital transformation strategy], [2025-09-29 Gates Foundation fuels Senegal's digital transformation with $10M], [2025-12-08 GSMA maps the reforms required for Senegal's digital takeoff], [2025-12-09 Senegal allocates 60% of 2026 digital ministry budget to investment]]
 ---
 
 # New Deal Technologique (Senegal)

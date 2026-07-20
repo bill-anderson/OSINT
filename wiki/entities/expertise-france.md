@@ -2,12 +2,12 @@
 type: entity
 entity_type: organisation
 title: Expertise France
-places: [KEN, XAF]
-topics: [infra.cybersec, capacity.training, geopol.eu, gov.policy]
+places: [KEN, CAF, XAF]
+topics: [infra.cybersec, capacity.training, geopol.eu, gov.policy, dpi.govtech, dpi.pay]
 lens: []
 status: active
-last_reviewed: 2026-07-12
-sources: [[2026-01-27 Kenya launches project to boost cyber security]]
+last_reviewed: 2026-07-20
+sources: [[2026-01-27 Kenya launches project to boost cyber security], [2026-04-18-pata-polele-digitalisation-paiements-ndjonisango]]
 ---
 
 # Expertise France
@@ -25,7 +25,14 @@ and cybersecurity models reach African partners.
   alongside **[[estdev]]** to protect Kenya's critical information infrastructure and build
   cyber skills. See [[infra.cybersec]], [[capacity.training]], [[KEN]]. Source:
   [[2026-01-27 Kenya launches project to boost cyber security]].
+- **Delivery agent for CAR's Pata Polélé revenue-digitisation platform (2026).** Expertise France
+  runs the EU-financed programme — **€17.5m over four years**, of which **€8.5m** sits in the
+  "Justice pour l'Ouest 1" component — under which the **Pata Polélé** digital collection system for
+  CAR's *mini-recettes* was harmonised at a **14–16 April 2026** Bangui workshop with Justice,
+  Finance and Interior as pilot ministries. See [[caf--dpi-govtech]], [[CAF]], [[dpi.pay]]. Source:
+  [[2026-04-18-pata-polele-digitalisation-paiements-ndjonisango]].
 
 ## Sources
 
 - [[2026-01-27 Kenya launches project to boost cyber security]]
+- [[2026-04-18-pata-polele-digitalisation-paiements-ndjonisango]]

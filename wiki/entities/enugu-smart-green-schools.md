@@ -83,7 +83,7 @@ substantially qualifies the programme's public presentation:
   **Amankpunato, Oji River LGA** was demolished the same month.
 - **Procurement under investigation.** A contract worth **over ₦11.4bn** for **22 smart green
   schools** was awarded **2024-07-02**; ~**₦5.7bn (50%)** was paid upfront; the contract was
-  terminated at the completion deadline in **February 2025** amid accusations of substandard work.
+  **subsequently terminated** amid accusations of substandard work. *(The held Part II investigation establishes the 2024-07-02 award, the ₦5.7bn upfront payment and the ₦1.23bn EFCC recovery, but **carries no termination date**; a February-2025 date previously stated here is unsupported by any held source and may be a conflation with the separate Mbu contract. TheCable Part I is queued as an acquisition — checked 2026-07-20.)*
   An **EFCC** investigation has recovered **₦1.23bn** so far (as of 2026-05-17). Other named
   contractors hold 10–12 sites each; contract sums were revised upward for inflation.
 - **No response from the state.** The commissioner for works declined interview requests on three

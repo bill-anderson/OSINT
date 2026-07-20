@@ -5,8 +5,8 @@ title: EBRD (European Bank for Reconstruction and Development)
 places: [XGL, TUN, XNA, NGA, KEN, SEN]
 topics: [finance.new, infra.connect, geopol.eu]
 status: active
-last_reviewed: 2026-07-14
-sources: [[2026-01-19 EBRD and Tunisie Telecom Partner on €190 Million Digital Infrastructure Upgrade], [2026-03-24 Nigeria EU Announces New €290m Investments in Nigeria], [2026-07-13 EBRD Extends €270m Financing to Yas for Kenya, Senegal Network Expansion]]
+last_reviewed: 2026-07-20
+sources: [[2026-01-16-ebrd-tunisie-telecom-190m-medusa], [2026-01-19 EBRD and Tunisie Telecom Partner on €190 Million Digital Infrastructure Upgrade], [2026-03-24 Nigeria EU Announces New €290m Investments in Nigeria], [2026-07-13 EBRD Extends €270m Financing to Yas for Kenya, Senegal Network Expansion]]
 ---
 
 # EBRD (European Bank for Reconstruction and Development)

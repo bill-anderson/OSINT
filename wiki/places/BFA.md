@@ -103,6 +103,10 @@ supervision centre for critical digital infrastructure.
   land-acquisition friction and power supply in places — the ministry now runs regional workshops with
   customary authorities (nine regions after Ouahigouya) to unblock sites. Basic-plan cost is still **~8.8%
   of GNI**. Burkina/Ghana/Mali/Niger **harmonised frequencies + free roaming** across the ECOWAS split.
+  **Insecurity is eroding coverage faster than the programme adds it**: real 4G coverage fell from
+  **53% to 33%** (DG des communications électroniques Nongobzanga Zongo, Ouahigouya, **2025-09-30**) —
+  the counter-current the ~2,000-locality denominator sits inside. Lots are awarded to the three
+  operators by **reverse auction** (*enchères inversées*), on a **75bn FCFA** cumulative investment.
   **Progress to date, reconciled (as of 2026-07-20).** The five circulating figures mostly resolve on
   two distinctions — **sites ≠ localities**, and **calendar-year increments ≠ cumulative totals ≠
   targets**. On the first, ARCEP's own phase-1 account is decisive: **183 sites (antennas), each with
@@ -116,12 +120,16 @@ supervision centre for critical digital infrastructure.
   Situation de la Nation address to the ALT, **2026-01-30**) — the comparable figure there is 126.
   A consistent locality series therefore runs **223 (2020–2024, FASU) → +370 (2025)**, i.e. **~593
   localities cumulatively since 2020** (*derived arithmetic from two ministry figures; no source states
-  a cumulative total*). *Two things stay open: the **2019 vs 2020 baseline** — Burkina24's "330 zones
-  depuis 2019" (2025-09-30) is an unattributed journalist's line from the very event at which the
-  minister said "223 sites depuis 2020", and no source defines either baseline or reconciles ~300
-  localities by May 2022 against 223 by end-2024; and the fact that **no ARCEP or MTDPCE primary
-  document** states the counting definitions — the ministry publishes substantively via Facebook,
-  outside the sweep (filed as a gap).* Sources: [[2026-02-03-contrat-objectifs-2025-ministre-transition-digitale]],
+  a cumulative total*). *Two things are **not established, as of 2026-07-20**. (i) The **baseline year**:
+  Burkina24's "330 zones déjà connectées depuis 2019" (2025-09-30) is an **unattributed closing line by
+  the journalist**, written up from the very event at which the minister said "**223 sites depuis 2020**"
+  — no held source defines either baseline, and none reconciles ~300 localities covered by May 2022
+  against 223 sites by end-2024. (ii) The **counting definitions**: no ARCEP or MTDPCE primary document
+  on file states whether the programme counts **sites** or **localities served**, so the sites≠localities
+  reconciliation above rests on ARCEP's 2022 phase-1 account alone. The whole "zéro zone blanche" corpus
+  is press; the ministry publishes substantively via **Facebook**, which is not a sweep target, so neither
+  will close through the existing route — an ARCEP annual report or FASU/PACTDIGITAL programme document
+  is on the acquisitions fetch list.* Sources: [[2026-02-03-contrat-objectifs-2025-ministre-transition-digitale]],
   [[2022-05-23-couverture-reseau-mobile-300-zones-blanches-arcep]],
   [[2025-09-30-inclusion-par-le-pylone-fracture-numerique-2027]],
   [[2026-02-01-situation-nation-750-localites-441-sites]], [[2026-07-13-pactdigital-1000-white-zones-2026]],

@@ -59,6 +59,14 @@ the layer where citizens actually meet the state.
   material), targeting demonstration by **2026-06-19**, covering property taxes, business levy, market levy,
   health permits and fire certificates. Source:
   [[2026-03-25-kalemba-zambia-cdf-ecouncil-116-councils-gwan]].
+- **[[NGA]] Nigeria (2026-05-17) — announced scale against verifiable delivery.** Enugu's smart green
+  schools programme is **260 schools, one per ward** (267 is an unverified state *delivery* claim),
+  self-funded at **₦266.7bn (2025)** and **₦198bn (2026)**, ~₦1.3–1.5bn per school, with **no donor or DFI
+  facility**. As of May 2026 many were incomplete and unequipped with pupils already resuming; roof
+  failures at Ishielu Amagunze, Iheaka and Orba; one school **demolished at Mbu (Jul 2025)** after failing
+  integrity tests; a **₦11.4bn 22-school contract terminated** with an **EFCC recovery of ₦1.23bn**. No
+  connectivity or solar vendor is named in any source held, and no learning-outcome data or independent
+  evaluation exists (as of 2026-07-20).
 
 ## Places
 

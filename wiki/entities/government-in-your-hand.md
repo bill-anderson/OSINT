@@ -7,7 +7,7 @@ topics: [dpi.govtech, dpi.id, dpi.exchange, dpi.pay, include.access]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-20
-sources: [[2025-01-01 ToR - Government in Your Hand Digital Government Implementation Roadmap (Digital Eswatini)], [2024-12-05 Eswatini Advances Toward Digital Transformation - Key Findings from the Digital Readiness Assessment], [2024-12-10 Unveiling Eswatini's Digital Path], [2024-11-22 Eswatini unveils readiness report for digital ID, transformation push], [2025-08-05 Robust DPI inevitable for Eswatini's economic, jobs boom - World Bank], [2025-01-22 Eswatini partners with Google to drive digital transformation and economic growth], [2026-05-18 Eswatini promotes digital transformation project through World Bank engagements], [2025-05-21-eswatini-launches-new-apps-giyh-taxpal], [2025-07-04-biometricupdate-eswatini-giyh-privacy-criticism]]
+sources: [[2025-01-01 ToR - Government in Your Hand Digital Government Implementation Roadmap (Digital Eswatini)], [2024-12-05 Eswatini Advances Toward Digital Transformation - Key Findings from the Digital Readiness Assessment], [2024-12-10 Unveiling Eswatini's Digital Path], [2024-11-22 Eswatini unveils readiness report for digital ID, transformation push], [2025-08-05 Robust DPI inevitable for Eswatini's economic, jobs boom - World Bank], [2026-05-18 Eswatini promotes digital transformation project through World Bank engagements], [2025-05-21-eswatini-launches-new-apps-giyh-taxpal], [2025-07-04-biometricupdate-eswatini-giyh-privacy-criticism]]
 ---
 
 # Government in Your Hand (GIYH)
@@ -75,5 +75,4 @@ implementation roadmap is scoped under the [[world-bank]]
 - [[2024-12-10 Unveiling Eswatini's Digital Path]]
 - [[2024-11-22 Eswatini unveils readiness report for digital ID, transformation push]]
 - [[2025-08-05 Robust DPI inevitable for Eswatini's economic, jobs boom - World Bank]]
-- [[2025-01-22 Eswatini partners with Google to drive digital transformation and economic growth]]
 - [[2026-05-18 Eswatini promotes digital transformation project through World Bank engagements]]

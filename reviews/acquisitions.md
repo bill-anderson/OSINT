@@ -460,3 +460,25 @@ shell, fetch-size limit); items marked **[untried]** were simply never fetched.
   previously carried from secondary reporting; the full report would confirm or retire it. Also holds the
   contract terms, the SSRA retention-account findings and the 54 recommendations. **[untried — direct PDF
   fetch not attempted this pass]**
+- **ACQ-UGA-GEA — Uganda's renewed Government Enterprise Architecture and e-Government
+  Interoperability Framework (delivered by 2026-05-27).** NITA-U with the e-Governance Academy,
+  World Bank-supported. Publisher of record: NITA-U (`nita.go.ug`); the eGA project pages
+  (`ega.ee/uganda-renewal-government-enterprise-architecture-interoperability-framework/`,
+  `ega.ee/uganda-renewed-digital-government-frameworks/`) announce the work but **publish neither
+  document**. The wiki holds the **2021 originals** (`2021-05-06 Uganda e-Government
+  Interoperability Framework (e-GIF)`) and both eGA announcements, but nothing of the renewed
+  content. **What only the documents settle:** what actually changed against the 2021 e-GIF, the
+  technical standards MDAs must now build to, and any compliance or rollout schedule — the wiki
+  can currently say the frameworks were renewed and **nothing about what they now require**.
+  Related: no rollout or adoption figure is published as of 2026-07-20. **[untried]**
+- **ACQ-UGA-USPC — the Uganda Security Printing Company (USPC) constitutive and contract record.**
+  Wanted: the **Government/Veridos joint-venture instrument** establishing USPC (reported 2018, on
+  the expiry of Mühlbauer's card-production contract) and the **2017 security-printing award**.
+  Candidate primaries: Uganda Gazette notices; PPDA records; Auditor General reports on NIRA card
+  production; Companies-registry (URSB) filings for USPC. **Why it matters:** `wiki/entities/veridos.md`
+  and `wiki/intersections/uganda--dpi-id.md` carry a **€64.2m March-2010 Mühlbauer contract, a
+  UGX 59.952bn Kololo plant, a 2016-06-11 UPPC joint venture, a 2017-07-03 award by Finance Minister
+  Matia Kasaija over De La Rue, and a 15-year JV split Government 51% / Veridos 49%** — all of which
+  entered from reconcile-pass research and are **in no source held in `raw/`**. They are flagged
+  unverified on both pages. This is the acquisition that either confirms or retires them. Also
+  unheld: **any unit or programme cost for USPC card production**. **[untried]**

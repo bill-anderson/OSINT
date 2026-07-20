@@ -95,6 +95,10 @@ just digitisation"** thesis — see [[data.statistics]], [[2026-03-31 Africa we 
   as counter-insurgency infrastructure, not only inclusion. Rollout is constrained by insecurity, land
   acquisition and power supply, met with regional workshops co-opting customary authorities across ten
   regions. Source: [[2026-04-06-zero-zone-blanche-750-localites-phase-2-2027]]. See [[BFA]].
+- **[[BFA]] Burkina Faso — insecurity can outrun a rural connectivity programme.** Real 4G coverage fell
+  **53% → 33%** (DG Nongobzanga Zongo, 2025-09-30) while the "zéro zone blanche" drive was adding
+  localities — the denominator moving against the programme. Rollout is separately constrained by
+  insecurity, land acquisition and power supply.
 
 ## Reads
 

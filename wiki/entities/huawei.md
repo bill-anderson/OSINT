@@ -2,12 +2,12 @@
 type: entity
 entity_type: company
 title: Huawei
-places: [NAM, KEN, GHA, NGA, SSD, GAB, ETH, MRT, XAF, XGL]
+places: [NAM, KEN, GHA, NGA, SSD, GAB, ETH, MRT, TCD, XAF, XGL]
 topics: [geopol.china, infra.store, tech.ai, capacity.training, infra.connect, finance.mou, dpi.pay, tech.innovate]
 lens: [sovereignty, colonialism]
 status: active
-last_reviewed: 2026-07-19
-sources: [[2026-07-17-ethio-telecom-huawei-digital-infrastructure], [2025-11-13-chinguitel-huawei-network-modernisation-techafricanews], [2026-07-15 Ethio Telecom, Huawei expand digital push], [2026-07-08 China funds Namibia digital infrastructure], [2026-06-08 Zambia, China deepen digital ties], [2026-01-08 African smart cities A critical analysis], [2026-04-16 3 Reasons Mobile Money Programs Have a $1.7 Trillion Problem], [2026-04-04 Chinese surveillance rolled out in Africa ZTE, Hikvision, Huawei at the helm], [2026-03-05 Ghana strikes AI training deal with Chinese multinational amid $250m tech investment push], [2026-02-09 Huawei reconnects with South Sudan], [2026-01-05 Gabon and Huawei Forge Partnership to Boost National Digital Transformation], [2026-03-02 The U.S. Launches a Peace Corps for AI to Compete With China], [2026-01-07 Why Ethiopia, Somalia and Djibouti are starting to matter in digital Africa], [2026-01-12 Kenya, Huawei to boost public sector digital skills], [2026-04-20 117 - Payments Follow Trade], [2026-07-17-gabon-garantie-publique-huawei-start-up]]
+last_reviewed: 2026-07-20
+sources: [[2025-08-20-lana-gti-huawei-libya-agreement], [2025-01-10-agenceecofin-tchad-centre-donnees-national-finalisation], [2026-07-17-ethio-telecom-huawei-digital-infrastructure], [2025-11-13-chinguitel-huawei-network-modernisation-techafricanews], [2026-07-15 Ethio Telecom, Huawei expand digital push], [2026-07-08 China funds Namibia digital infrastructure], [2026-06-08 Zambia, China deepen digital ties], [2026-01-08 African smart cities A critical analysis], [2026-04-16 3 Reasons Mobile Money Programs Have a $1.7 Trillion Problem], [2026-04-04 Chinese surveillance rolled out in Africa ZTE, Hikvision, Huawei at the helm], [2026-03-05 Ghana strikes AI training deal with Chinese multinational amid $250m tech investment push], [2026-02-09 Huawei reconnects with South Sudan], [2026-01-05 Gabon and Huawei Forge Partnership to Boost National Digital Transformation], [2026-03-02 The U.S. Launches a Peace Corps for AI to Compete With China], [2026-01-07 Why Ethiopia, Somalia and Djibouti are starting to matter in digital Africa], [2026-01-12 Kenya, Huawei to boost public sector digital skills], [2026-04-20 117 - Payments Follow Trade], [2026-07-17-gabon-garantie-publique-huawei-start-up]]
 ---
 
 # Huawei
@@ -37,6 +37,15 @@ recurring [[geopol.china]] actor.
   [[2026-07-15 Ethio Telecom, Huawei expand digital push]],
   [[2026-07-17-ethio-telecom-huawei-digital-infrastructure]].
 - **Zambia (2026-06).** Named (with ZTE) as an existing partner in Zambia's telecom networks and ICT-skills work as Lusaka and Beijing discussed deeper digital cooperation. See [[ZMB]], [[geopol.china]]. Source: [[2026-06-08 Zambia, China deepen digital ties]].
+- **Chad — incumbent contractor on the national data centre since 2020 (established 2026-07-20).**
+  Huawei Technologies **builds** the [[chad-national-data-centre]] and the [[pmice]] backbone, with
+  **GOLF Consulting** as supervising engineer, under a **China Eximbank** concessional loan
+  (~111.4bn FCFA, 20 years at 2%). PMICE also covers installing the mobile network core of
+  [[sotel-tchad]]'s SALAM arm. This matters for reading later Chad coverage: the **2025-12-24
+  ministerial meeting with a Huawei delegation was reported as courtship of a prospective partner**,
+  when Huawei had by then been the contractor for **five years**. See [[TCD]], [[geopol.china]],
+  [[chad--infra-store]], [[infra.store]]. Source:
+  [[2025-01-10-agenceecofin-tchad-centre-donnees-national-finalisation]].
 - **"African smart cities" analysis (2026-07).** Named across the Data Landscapers OSINT analysis as a **principal supplier** of the surveillance-capable infrastructure bundled into African "smart city" projects — deployed ahead of legal frameworks. See [[XAF]], [[infra.store]]. Source: [[2026-01-08 African smart cities A critical analysis]].
 - **Chinese surveillance supplier — IDS report (2026-03/04).** Named, with **[[zte]]** and **[[hikvision]]**, across the UK IDS survey [[2026-03-01 Smart City Surveillance in Africa (IDS 2026)]] (11 countries, Chinese firms in every one) as a supplier of "safe city" surveillance; in the typical bundled ~$250m Eximbank package, ZTE/Huawei technicians build the AI command-and-control centre analysing camera streams (institutional lock-in). Kenya was an early adopter — **1,800 Huawei cameras** across Nairobi/Mombasa via a $100m Chinese grant after the 2013 Westgate attack. See [[KEN]], [[NGA]], [[infra.cybersec]], [[gov.protect]]. Source: [[2026-04-04 Chinese surveillance rolled out in Africa ZTE, Hikvision, Huawei at the helm]].
 - **Ghana Girls-in-ICT AI training (2026-03).** At MWC 2026 (Barcelona), Huawei agreed to give **free AI training to 3,000 girls** in Ghana's Girls in ICT programme (graduates feeding the One Million Coders programme), amid Ghana's **$250m** AI-compute / 5G / smartphone-assembly push. See [[GHA]], [[capacity.training]], [[ghana-national-ai-strategy]], [[samuel-nartey-george]]. Source: [[2026-03-05 Ghana strikes AI training deal with Chinese multinational amid $250m tech investment push]].

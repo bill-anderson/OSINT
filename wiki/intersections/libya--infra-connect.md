@@ -9,7 +9,7 @@ entities: [[lptic], [almadar-aljadid], [gaci-libya], [trans-saharan-fibre-backbo
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-20
-sources: [[2025-05-12-medusa-submarine-cable-inaugurated-misrata-libyaherald], [2026-01-25-lptic-kbr-mou-5g-infrastructure-libyaherald], [2026-01-29-almadar-launches-first-5g-tripoli-libyaherald], [2026-07-16-libya-nokia-5g-cooperation-alwasat], [2026-04-22-gaci-ipv6-transition-libyaherald], [2026-05-30-ghat-tahala-fibre-cut-restored-alwasat, [2025-08-20 The Telecommunications Authority announces its agreement with Huawei Libya to ensure the continuation of its activities], [2026-03-09 LTT and ZTE Sign MoU to Accelerate Digital Transformation and Network Evolution in Libya at MWC Barcelona 2026]]
+sources: [[2025-05-12-medusa-submarine-cable-inaugurated-misrata-libyaherald], [2026-01-25-lptic-kbr-mou-5g-infrastructure-libyaherald], [2026-01-29-almadar-launches-first-5g-tripoli-libyaherald], [2026-07-16-libya-nokia-5g-cooperation-alwasat], [2026-04-22-gaci-ipv6-transition-libyaherald], [2026-05-30-ghat-tahala-fibre-cut-restored-alwasat], [2025-08-20-lana-gti-huawei-libya-agreement], [2026-03-09-ltt-zte-mou-mwc-barcelona]]
 ---
 
 # Libya × Connectivity
@@ -59,8 +59,7 @@ foreign vendor. The dividing line is **not** vendor-per-region — Huawei works 
   Technizon Technical Services – Libya Branch** to continue operating, Huawei having committed to full
   compliance with Law 22/2010 — so the suspension **lasted three days** and reads as a jurisdictional
   signal rather than an enforcement campaign. Huawei has operated in Libya **20+ years**, contributing to
-  3G/4G rollout with local operators. Source:
-  [[2025-08-20 The Telecommunications Authority announces its agreement with Huawei Libya to ensure the continuation of its activities]]
+  3G/4G rollout with local operators. Source: [[2025-08-20-lana-gti-huawei-libya-agreement]]
   (Libyan News Agency, the state agency — carries both the agreement and the suspension's stated grounds).
 - **What triggered it: an eastern network licensed by the rival administration.** The **HoR-appointed
   government's Ministry of Communications** granted a **unified telecoms licence to OZON Aljaded For
@@ -79,8 +78,9 @@ foreign vendor. The dividing line is **not** vendor-per-region — Huawei works 
   service ecosystem (**e-wallet, e-commerce, CDN**); terminals (**FWA, CPE, MiFi**); and new business
   models, with energy-efficient network technologies flagged. **No value, no timetable and no binding
   commitment** were published — this is a framework, not a contract. It extends the west-side pattern of
-  playing multiple foreign vendors (KBR/US, Nokia/Finland, now ZTE/China) as strategic partners. Source:
-  [[2026-03-09 LTT and ZTE Sign MoU to Accelerate Digital Transformation and Network Evolution in Libya at MWC Barcelona 2026]].
+  playing multiple foreign vendors (KBR/US, Nokia/Finland, now ZTE/China) as strategic partners. *The
+  signing date is **9 March 2026** on ZTE's own record; a 2026-03-11 date in circulation is The
+  Register's republication date, not the event's.* Source: [[2026-03-09-ltt-zte-mou-mwc-barcelona]].
 - **Huawei kit on the west side too — the Tripoli data centre.** A **Huawei FusionModule1000A**
   containerised facility is to be deployed in **Tripoli in early 2027**, operated by **Trans-Sahara**
   (private, HB Group) in joint venture with **Tatweer Research** (public body owned by the **Libyan Local

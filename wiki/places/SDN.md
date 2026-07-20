@@ -33,18 +33,20 @@ destruction (grid/telecom) and reconstruction, plus inclusion workarounds.
   reported — **not confirmed by CBoS** — that the firm was incorporated only in late 2025 and holds a
   Dubai branch aimed at regional digital-identity and cloud services. Other licensed switch operators
   named: Bright Technologies, Nahda for Technology, SudaPost. See [[dpi.pay]], [[gov.policy]],
-  [[geopol.gulf]]. Source: [[2026-07-04 CBoS revokes Al-Asjad payment switch licence (Sudan Tribune)]].
+  [[geopol.gulf]]. Source: [[2026-07-04-cbos-revokes-al-asjad-payment-switch-licence]].
 - **2026-04-20** — **CBoS tenders the National Instant Payment System (NIPS).** The
   **[[central-bank-of-sudan]]** opened a public tender for a national instant-payment system, announcement
-  period 20 Apr – 4 May 2026, bids to 14 May 2026; scope is a **software solution only**, with CBoS
-  supplying hardware to the winner's specification. As of **8 July 2026** a new national payment switch
+  period 20 Apr – 4 May 2026, bids to 14 May 2026; scope is reported as a **software solution only**, with CBoS
+  supplying hardware to the winner's specification — *though that detail sits in a separate
+  specifications document linked from the tender notice and **not held**; the stored notice does not carry
+  it (checked 2026-07-20).* As of **8 July 2026** a new national payment switch
   had been **contracted but not launched**, with **[[electronic-banking-services-sudan|EBS]]** entrusted by
   CBoS with its technical operation as a "switch of switches" connecting bank- and fintech-operated
   switches — its CEO framing the design as sovereign hub plus competing private spokes, keeping data
   sovereignty inside Sudan. This **qualifies the concentration-of-payments reading**: the intended
   architecture is deliberately multi-provider under a sovereign hub, not single-provider by design.
   See [[dpi.pay]], [[gov.policy]]. Source:
-  [[2026-04-20 CBoS tender announcement National Instant Payment System NIPS]].
+  [[2026-04-20-cbos-nips-national-instant-payment-system-tender]].
 - **2026-01-31** — **Baladna launches 28 digital services.** Digital-transformation minister **Ahmed
   Dirdiri** announced **28 digital services** under the **[[baladna-platform-sudan|Baladna]]** national
   platform, at a Khartoum press conference convened by the cabinet-affairs minister, alongside the
@@ -54,7 +56,7 @@ destruction (grid/telecom) and reconstruction, plus inclusion workarounds.
   2026-07-20). By 6 Apr 2026 Baladna linked **55 government institutions**. Supersedes nothing; sits above
   the 23 Feb 2026 investment-licensing expansion as the larger, earlier event. See [[dpi.govtech]],
   [[infra.connect]]. Source:
-  [[2026-02-01 Digital transformation ministry launches 28 digital services on Baladna platform]].
+  [[2026-02-01-sudan-digital-ministry-launches-28-services-baladna]].
 - **2025-10-10** — **Khartoum State data centre restored to operation.** The
   **[[ministry-digital-transformation-sudan]]** announced (via SUNA) that the **State Data Centre in
   Khartoum State**, **1,300 m²**, was restored and operating after technical rehabilitation, equipped for
@@ -63,7 +65,7 @@ destruction (grid/telecom) and reconstruction, plus inclusion workarounds.
   which ~75% of public- and private-sector institutions including the Interior Ministry, the civil registry
   and most banks were said to depend — and distinct again from the **planned** Port Sudan alternate national
   data centre (announced Jan–Mar 2026, not built as of 2026-07-20). See [[infra.store]], [[dpi.govtech]].
-  Source: [[2025-10-10 Khartoum State data centre restored and operational (SUNA)]].
+  Source: [[2025-10-10-khartoum-state-data-centre-restored-and-operational]].
 - **2026-05-24** — **Tax e-invoicing restored.** PM **Kamil Idris** backed the
   **[[tax-authority-sudan]]**; its **electronic-invoicing** project (advanced
   before the war) has been restored and is resuming "at pace." See
@@ -192,9 +194,24 @@ destruction (grid/telecom) and reconstruction, plus inclusion workarounds.
 - [[dpi.pay]] · [[include.access]] — wartime survival rails proliferating:
   **[[bankak|Bankak]]** (dominant), **[[bede-wallet|Bede]]** wallet, offline
   **USSD banking**, **[[isali|Isali]]** government e-collection, plus a
-  **[[network-international]]**/**[[mastercard]]** processing deal — corroborating
-  and extending the "single-provider concentration" thesis with multi-provider
-  evidence. Interoperability (**[[mojaloop]]**) advocated as the recovery path.
+  **[[network-international]]**/**[[mastercard]]** processing deal.
+  Interoperability (**[[mojaloop]]**) advocated as the recovery path.
+  **The "single-provider concentration" reading now needs qualifying.** It holds
+  as a description of *wartime practice* — Bankak carried the traffic because
+  little else worked (2025) — but not as a description of *intended architecture*.
+  The **NIPS** design set out from the 20 Apr 2026 tender and the CBoS switch
+  arrangement is a **sovereign hub with deliberately competing private spokes**:
+  **[[electronic-banking-services-sudan|EBS]]** operating a "switch of switches"
+  above multiple licensed bank- and fintech-operated switches, with CBoS having
+  licensed at least four operators (Bright Technologies, Al-Asjad, Nahda for
+  Technology, SudaPost) by mid-2026. Multi-provider is the stated design, not a
+  drift away from it — and the **2026-07-04 Al-Asjad revocation** shows CBoS
+  policing entry to that market rather than closing it. Anything on other pages
+  resting on the concentration thesis should be re-read against this.
+  **Not established as of 2026-07-20:** who won the NIPS tender (bids closed
+  14 May 2026; no award announced that CC holds), any NIPS launch date, and the
+  specific breaches behind the Al-Asjad revocation — CBoS cited only "a
+  comprehensive review" and did not disclose them.
 - [[dpi.registry]] · [[dpi.mis]] — foundational data systems building:
   **[[unified-social-registry-sudan]]** (social protection / G2P targeting) and
   the **[[afia-platform-sudan|Afia]]** health MIS.

@@ -6,8 +6,8 @@ places: [SDN]
 topics: [dpi.govtech, gov.policy, dpi.id]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-18
-sources: [[2026-02-02 Sudan's planned national digital ID could strengthen recovery push - Experts], [2026-05-21 Sudan launches national digital identity SUDAPASS (SUNA)], [2026-04-19 Ministerial meeting on digital transformation, civil-service reform and unified social registry (SUNA)], [2026-05-20 Comms Ministry and WHO discuss health-sector digital transformation; Afia platform (SUNA)], [2026-03-18 Sudan Launches USSD Banking Services to Expand Digital Financial Access], [2026-01-16 Minister praises Sudani-Sudatel role in business digital transformation (SUNA)]]
+last_reviewed: 2026-07-20
+sources: [[2026-02-02 Sudan's planned national digital ID could strengthen recovery push - Experts], [2026-05-21 Sudan launches national digital identity SUDAPASS (SUNA)], [2026-04-19 Ministerial meeting on digital transformation, civil-service reform and unified social registry (SUNA)], [2026-05-20 Comms Ministry and WHO discuss health-sector digital transformation; Afia platform (SUNA)], [2026-03-18 Sudan Launches USSD Banking Services to Expand Digital Financial Access], [2026-01-16 Minister praises Sudani-Sudatel role in business digital transformation (SUNA)], [2025-10-10-khartoum-state-data-centre-restored-and-operational], [2026-02-01-sudan-digital-ministry-launches-28-services-baladna]]
 ---
 
 # Ministry of Digital Transformation and Communications (Sudan)

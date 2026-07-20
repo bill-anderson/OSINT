@@ -8,8 +8,8 @@ topics: [gov.protect, gov.legislate, dpi.id, geopol.eu, tech.ai]
 entities: [[data-protection-office-mauritius], [mauritius-national-data-strategy], [verint], [mauritius-mobile-id]]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-19
-sources: [[2026-05-16 World Bank, African DPAs outline formula for trusted digital identity, DPI], [2026-05-27-no-digital-id-without-data-protection-madhub-biometricupdate], [2026-06-12-dpo-regulations-2026-lexpress], [2026-02-01-national-data-strategy-2025-2029-launch-lexpress], [2025-04-09-ict-data-protection-strategy-in-preparation-lexpress], [2025-02-07-in-the-shadows-of-mass-surveillance-mauritiustimes], [2026-07-13-privacy-of-communications-moustass-leaks-mauritiustimes]]
+last_reviewed: 2026-07-20
+sources: [[2026-05-16 World Bank, African DPAs outline formula for trusted digital identity, DPI], [2026-05-27-no-digital-id-without-data-protection-madhub-biometricupdate], [2026-06-12-dpo-regulations-2026-lexpress], [2026-02-01-national-data-strategy-2025-2029-launch-lexpress], [2025-04-09-ict-data-protection-strategy-in-preparation-lexpress], [2025-02-07-in-the-shadows-of-mass-surveillance-mauritiustimes], [2026-07-13-privacy-of-communications-moustass-leaks-mauritiustimes], [2026-07-16-mauritius-america-india-connect-subsea-cable-allmyt-summit-mitci]]
 ---
 
 # Mauritius × Data Protection & Privacy
@@ -45,6 +45,14 @@ well-documented.
   **citizen "data hub"** and a dedicated ICT strategy (the precursor to the National Data Strategy). Source:
   [[2025-04-09-ict-data-protection-strategy-in-preparation-lexpress]]. See
   [[mauritius-national-data-strategy|National Data Strategy 2025-2029]] and its **Freedom of Information Bill**.
+- **A National Data Governance Strategy and DPA amendments committed (2026-07-16).** At the AllMyT Summit
+  opening, ICT minister Ramtohul committed the government to implementing a **National Data Governance
+  Strategy** and to **forthcoming amendments to the Data Protection Act 2017**, aimed at cybersecurity, privacy
+  and online safety "particularly for children" — the legislative follow-through behind the DPO Regulations
+  2026, the EU-adequacy bid and the social-media ID-verification consultations. **No text, timetable or
+  introduction date is published as of 2026-07-20.** See [[ministry-ict-mauritius]], [[gov.legislate]],
+  [[gov.policy]]. Source:
+  [[2026-07-16-mauritius-america-india-connect-subsea-cable-allmyt-summit-mitci]].
 
 ## The counter-current (state surveillance)
 

@@ -35,17 +35,26 @@ production on 5 Feb 2026** (communiqué signed by Commissioner **Ibrahima Dieng*
 **Volume: one actor, two numbers — ~139 GB the more credible.** The **139 TB** and **139 GB** figures are
 **the same actor's claim in two artefacts** — the Green Blood Group's leak-site posting (139 TB) versus its
 ransom note to the DAF (139 GB) — not two independent estimates, which makes the **GB figure the more
-credible** and the TB figure likely a typo. **No volume has been independently verified.** Source:
-[[2026-02-12-darkreading-senegal-breach-security-maturity]].
+credible** and the TB figure likely a typo. **ZATAZ independently reports the claim as 139 Go** (11 Feb
+2026), reaching the GB reading without relying on Dark Reading — a second outlet on the same side of the
+split, which is what makes the TB figure look like the outlier. **No volume has been independently
+verified**, by ZATAZ or anyone else: both outlets are reporting the *attacker's* number. Sources:
+[[2026-02-12-darkreading-senegal-breach-security-maturity]],
+[[2026-02-11-zataz-senegal-frappe-fichier-identite]].
 
 **Exfiltration is established; the DAF never denied it.** Researcher **[[clement-domingo|Clément Domingo]]**
 examined the published samples and confirmed **genuine birth records and national ID cards** among them
 (Feb 2026). The DAF's own communiqués assert only that the **integrity** of personal data "demeure intacte"
 (5 Feb 2026) / "est strictement préservée" (7 Apr 2026) — they are **silent on confidentiality and on
 volume**, and at no point deny an exfiltration. This page therefore does **not** record an official denial of
-a leak; it records an unrebutted leak alongside an integrity assurance. Sources:
-[[2026-02-05-aps-daf-suspension-cni-communique]], [[2026-04-07-aps-daf-reprise-production-cni]],
-[[2026-02-12-darkreading-senegal-breach-security-maturity]].
+a leak; it records an unrebutted leak alongside an integrity assurance. ZATAZ reaches the same reading
+independently (11 Feb 2026): a senior police official said systems were being restored and citizens' data
+integrity *"restait préservée"*, which ZATAZ notes is *"classique en gestion de crise"* and collides with
+the exfiltration claim — *"une administration peut rétablir un service sans avoir encore consolidé, preuve
+à l'appui, ce qui a été consulté, copié ou sorti du périmètre."* The foreign ministry did not respond.
+Sources: [[2026-02-05-aps-daf-suspension-cni-communique]], [[2026-04-07-aps-daf-reprise-production-cni]],
+[[2026-02-12-darkreading-senegal-breach-security-maturity]],
+[[2026-02-11-zataz-senegal-frappe-fichier-identite]].
 
 **The "Perso" server was card-personalisation infrastructure, not the citizen database** *(resolved
 2026-07-20)*. Two French accounts of the same leaked IRIS email read it that way, and the earlier of them
@@ -76,7 +85,13 @@ enquiry concerns Iris's **maintained access** under the 2016 contract, not non-p
 states the position plainly — *"sans conclure au lien de causalité"*. What is defensible is structural, not
 causal: critical dependence on a single foreign contractor, in commercial dispute, at the moment the state
 most needed it. Source: [[2026-02-11-zataz-senegal-frappe-fichier-identite]]. Foresiet assessed Green Blood as a technically competent crew running a Golang locker and
-double-extortion model, with prior victims in Colombia and India. The event is one of a run of state
+double-extortion model, with prior victims in Colombia and India. **The crew is new and its victim list is
+reported inconsistently**: it surfaced in **January 2026**, ZATAZ counts **four other victims besides the
+DAF** (11 Feb 2026), and Senegal7 describes its activity as **Africa-limited — Egypt, then Senegal**
+(5 Feb 2026). Three accounts, three victim sets, none reconciled; treat any "known victims" count as
+unsettled. Senegal7 also names the Malaysian team due in Dakar on 22 Jan as **NetAssist Cybersecurity
+Provider Malaysia** (ZATAZ says only "experts malaisiens"), and cites **Libération** on a provisional
+suspension of *all* identity-document production. The event is one of a run of state
 cyberattacks (tax authority Oct 2025, Public Treasury May 2026) — full wave: [[senegal--infra-cybersec]].
 Sources: [[2026-02-10 Senegal data breach disrupts national ID issuance]],
 [[2026-02-10 Senegal shuts National ID office after ransomware attack]],

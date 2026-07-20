@@ -42,9 +42,9 @@ government reports, national root servers). Much of this reform is entangled wit
   **[[zte|ZTE Corporation]]** covering **4G/5G** planning and deployment, a digital-service ecosystem
   (**e-wallet, e-commerce, CDN**), and terminals (FWA, CPE, MiFi). **No value or timetable published** —
   a framework, not a contract; it extends the west-side pattern of courting multiple foreign vendors
-  (KBR/US, Nokia/Finland, now ZTE/China). Source:
-  [[2026-03-09 LTT and ZTE Sign MoU to Accelerate Digital Transformation and Network Evolution in Libya at MWC Barcelona 2026]].
-  See [[infra.connect]], [[finance.mou]], [[geopol.china]].
+  (KBR/US, Nokia/Finland, now ZTE/China). *Signed **9 March 2026** per ZTE's own announcement; the
+  2026-03-11 date previously carried was The Register's republication date.* Source:
+  [[2026-03-09-ltt-zte-mou-mwc-barcelona]]. See [[infra.connect]], [[finance.mou]], [[geopol.china]].
 - **2026-02-24** — **Digital payments boom.** [[central-bank-of-libya|CBL]] statistics (2025 → Feb 2026):
   mobile banking **4.29m subscribers / 200.7m transactions / 313.6bn LYD**; POS 165,313 terminals; the
   **LYPAY ONEPAY** instant-transfer platform 18.3m transactions / 108.7bn LYD; 5.5m activated cards.
@@ -76,11 +76,13 @@ government reports, national root servers). Much of this reform is entangled wit
   power) and violation of **ITU** sovereignty principles — the trigger being Huawei's contracting for an
   **eastern mobile network** with the HoR-appointed administration. **On 20 August the GTI announced
   agreement with Huawei Technizon – Libya Branch** to continue operating on a compliance undertaking. A
-  jurisdictional signal rather than an enforcement campaign; **Huawei continues to operate on the GNU
-  side**. Source:
-  [[2025-08-20 The Telecommunications Authority announces its agreement with Huawei Libya to ensure the continuation of its activities]]
-  (LANA, the state news agency). Full thread: [[libya--infra-connect]]. See [[infra.connect]],
-  [[geopol.china]], [[gov.policy]].
+  jurisdictional signal rather than an enforcement campaign: **the contest is over which authority may
+  license a vendor, not over which vendor serves which region**. **Huawei works both sides** — 20+ years
+  in-country, 3G/4G with local operators, and a Tripoli data-centre module — so the rupture came only
+  where it contracted with the eastern administration, and closed as soon as GTI licensing primacy was
+  acknowledged. Source: [[2025-08-20-lana-gti-huawei-libya-agreement]] (LANA, the state news agency,
+  carrying both the agreement and the suspension's stated grounds). Full thread:
+  [[libya--infra-connect]]. See [[infra.connect]], [[geopol.china]], [[gov.policy]].
 - **2025-08-11** — **CBL 'Ratebk Lahzi' real-time payroll.** A real-time public-sector salary platform
   on the instant-payment network (~2m employees/pensioners), pitched as anti-fraud but resisted by the
   eastern government, which refused to share employee banking data. Source:

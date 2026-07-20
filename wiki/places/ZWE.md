@@ -288,7 +288,9 @@ doubles as the data protection authority** — there is no separate DPA.
 - [[gov.protect]] · [[gov.standards]] · [[dpi.exchange]] — extracted: **[[zimbabwe--gov-protect]]** —
   POTRAZ's carrot-then-stick data-protection build (SI 155/2024 licensing; 570→721 controllers, 500→~1,200
   DPOs; National Cybersecurity Strategy; enforcement escalating to **Q4-2026 audits + 7-yr CEO jail**; the
-  e-Gov Technology Unit's MDA-interoperability bottleneck). Underpinned by the
+  e-Gov Technology Unit's MDA-interoperability bottleneck) — with **[[zimra]]**'s two registered DPOs
+  (late Jan 2026, month-precision proxy) as the named instance of what the aggregate looks like inside a
+  large public data controller. Underpinned by the
   **[[zimbabwe-cyber-and-data-protection-act]] (2021)**, regulations in force Sept 2024, enforced by
   **[[potraz]]** in its dual regulator/DPA role; **the Act text is not held (GAP-ZWE-001)**.
 - [[dpi.pay]] · [[dpi.govtech]] — [[ecocash]]'s foundational role; the

@@ -281,6 +281,7 @@ _Full dated chronology (2025–mid-2026) lives in the linked source pages and th
 
 - **2025-02-12** — FG makes the **NIN mandatory** for social services and palliatives (ID4D inter-ministerial retreat). [[2025-02-12 FG mandates use of NIN for social services and interventions (Guardian)]] · [[nigeria--dpi-id]]
 - **2025-07-01** — **[[mtn-sifiso-dabengwa-data-centre]]** launched ($235m Tier III, naira-priced cloud) — Lagos DC build-out anchor. [[2025-07-01 MTN launches West Africa's largest Tier III data centre with cloud services (Techpoint)]] · [[nigeria--infra-store]]
+- **2025-07-06** — **NDPC fines [[multichoice-nigeria|MultiChoice Nigeria]] ₦766,242,500 (~US$501,340) — its largest penalty to date.** On an investigation opened **Q2 2024**: privacy violations against **subscribers and non-subscribers alike**, **illegal cross-border transfer** of Nigerian personal data, and processing found "patently intrusive, unfair, unnecessary and disproportionate" contrary to **s.37 of the 1999 Constitution**. Imposed expressly **"for want of cooperation"** after directed remediation was judged unsatisfactory — the sanction endpoint of **[[ndpc]]**'s remediation-first model, and the enforcement anchor under the [[nigeria-data-protection-act-2023]]. **Whether the fine was paid, contested or varied is not established as of 2026-07-20**, and the NDPC did **not** answer FIJ's **2025-07-09** FOI request for the detailed findings within the FOI Act's statutory window — so the reasoning behind Nigeria's largest data-protection penalty remains unpublished. [[2025-07-06-ndpc-multichoice-fine-statement]] · [[nigeria--gov-protect]]
 - **2025-08-25** — **[[ngdx]]** Nigeria Data Exchange unveiled (NITDA + EU/Finland/Estonia); end-2025 operational target. [[2025-08-28 Nigeria to launch National Data Exchange (NGDX) platform to boost digital economy]] · [[nigeria--dpi-exchange]]
 - **2025-11** — **[[e-crvs-nigeria]]** birth/death registration launched ([[npc-nigeria]]); 14m births in 2yr (UNICEF, Feb 2026). [[2026-02-20 UNICEF records 14 million Nigeria birth registrations in two years]] · [[dpi.registry]]
 - **2025-11-28** — **ENBIC** ECOWAS biometric ID card rolled out, replacing the paper travel certificate. [[2025-11-28 Nigeria Unveils ECOWAS ID Card To Boost Regional Travel, Security]] · [[enbic]]
@@ -309,7 +310,11 @@ _Full dated chronology (2025–mid-2026) lives in the linked source pages and th
   **[[nucap]]** rural towers (China Industrial Bank); NCC's 12,000-site upgrade; **[[nigcomsat]]**
   ($2bn revenue, NIGCOMSAT-2A/2B); **[[starlink]]** vs **[[amazon-leo]]** (NCC 7-yr permit);
   **[[mtn-nigeria]]** fibre vandalism (9,218 cuts in 2025).
-- [[gov.protect]] · [[gov.legislate]] · [[infra.cybersec]] — Data Protection Act 2023; **CBN
+- [[gov.protect]] · [[gov.legislate]] · [[infra.cybersec]] — Data Protection Act 2023 and its
+  enforcement record: the **[[ndpc]]**'s largest penalty to date, **₦766,242,500 on
+  [[multichoice-nigeria|MultiChoice]] (2025-07-06)** for cross-border transfer and processing of
+  subscriber *and non-subscriber* data, imposed "for want of cooperation" — payment status
+  unestablished and the findings still unpublished (FOI unanswered); **CBN
   data-localization directive** (deadline 2027-01-01); FCCPC probe of big-tech; **NIMC Act 2026**;
   **NITDA digital-sovereignty doctrine** ([[kashifu-inuwa]]); Abuja/Lagos Chinese surveillance
   ([[zte]], [[hikvision]]); Nigeria's $5.1bn US health-data MOU; **[[fccpc]]** big-tech
@@ -364,7 +369,7 @@ _Full dated chronology (2025–mid-2026) lives in the linked source pages and th
   [[enugu-smart-green-schools]] · [[japan]] · [[unesco-iicba]]
 - **New this batch:** [[nibss]] · [[national-payment-stack]] · [[papsscard]] · [[mtn-nigeria]] · [[amazon-leo]] · [[nira-nigeria]] · [[inec]] · [[digital-rights-lawyers-initiative]] · [[x-corp]] · [[bola-tinubu]] · [[federal-ministry-education-nigeria]] · [[dnemis-nigeria]] · [[dl4all-nitda]]
 - **New this batch (2026-07-16 NGA ingest):** [[ngdx]] · [[ninauth]] · [[enbic]] · [[npc-nigeria]] · [[e-crvs-nigeria]] · [[mtn-sifiso-dabengwa-data-centre]] · [[airtel-nxtra-eko-atlantic-data-centre]] · [[oadc]] · [[nigeria--dpi-exchange]]
-- [[nitda]] · [[kashifu-inuwa]] · [[ngea]] · [[galaxy-backbone]] · [[ndpc]] · [[ncc]] · [[bosun-tijani]] · [[meta]] · [[ndpc-meta-settlement]]
+- [[nitda]] · [[kashifu-inuwa]] · [[ngea]] · [[galaxy-backbone]] · [[ndpc]] · [[multichoice-nigeria]] · [[ncc]] · [[bosun-tijani]] · [[meta]] · [[ndpc-meta-settlement]]
 - [[google]] · [[google-ai-research-foundations]] · [[google-deepmind]] · [[hustle-academy]] · [[taslim-okunola]] · [[microsoft]] · [[teknowledge]] · [[deepseek]] · [[nvidia]]
 - [[zte]] · [[hikvision]] · [[huawei]] — Abuja/Lagos surveillance network (China Exim-financed)
 - [[starlink]] · [[amazon-web-services]] · [[globalstar]] · [[amazon-globalstar-acquisition]] — satellite connectivity race

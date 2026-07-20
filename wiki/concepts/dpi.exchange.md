@@ -268,6 +268,9 @@ cross-border scale, the legal enforceability of that exchange.
   credentials) and **Jamii Malipo** (payments, linking to [[tips-tanzania|TIPS]]). Under construction as of
   **2024-08-27**; still being "coordinated" at 2024-10-17. **No go-live date in any held source.** See
   [[tanzania--dpi-govtech]].
+- **[[UGA]] Uganda (2026-05-27).** NITA-U renewed the **Government Enterprise Architecture and e-GIF**
+  with the e-Governance Academy, the e-GIF enhanced for **secure standardised cross-government data
+  exchange**, replacing the 2021 originals. *Delivered but not yet rolled out as of 2026-07-20.*
 
 ## Places
 

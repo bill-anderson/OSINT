@@ -6,7 +6,7 @@ places: [ZWE]
 topics: [gov.protect, gov.legislate, infra.connect, gov.standards, infra.cybersec]
 status: active
 last_reviewed: 2026-07-17
-sources: [[2025-06-30 Zimbabwe's Cyber and Data Protection Act - Overview], [2026-07-06 Powertel, Paratus Zimbabwe switch on new digital highway]]
+sources: [[2025-06-30 Zimbabwe's Cyber and Data Protection Act - Overview], [2026-07-06 Powertel, Paratus Zimbabwe switch on new digital highway], [2026-01-01-zimra-data-privacy-week-data-protection-officers]]
 ---
 
 # Postal and Telecommunications Regulatory Authority of Zimbabwe (POTRAZ)

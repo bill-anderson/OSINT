@@ -74,10 +74,22 @@ but ahead of the governance frameworks meant to hold it.
 
   This is national fiscal infrastructure operated by a private, foreign-registered, now-sanctioned company
   under an untendered contract sponsored by the security service — the sharpest data-governance case in the
-  corpus. See [[dpi.govtech]], [[dpi.pay]], [[gov.policy]], [[gov.protect]], [[south-sudan--dpi-govtech]].
+  corpus.
+
+  **Provenance, stated plainly (2026-07-20).** The wiki holds the OHCHR **press release**, not the
+  101-page report (**ACQ-SSD**). The 75/25 split, the 2024 humanitarian-levy extension, the 0.3% oil fee
+  and its US$9.6–11.5m/yr estimate, SSRA complicity, UK registration and the US sanctions are all
+  corroborated in held sources. The **NSS/Internal Security Bureau endorsement on database-building
+  grounds**, the UNCAC articles 9–10 wording, the November 2019 contract date, the CapitalPay name, the
+  90-day review and its 24-hour reversal, and the 68%/26% shareholdings are **not corroborated by any
+  source in `raw/`** — they came from the full report and from secondary investigative reporting, neither
+  held. Breakdown: [[south-sudan--dpi-govtech]].
+
+  See [[dpi.govtech]], [[dpi.pay]], [[gov.policy]], [[gov.protect]], [[south-sudan--dpi-govtech]].
   Sources: [[2025-09-16-un-commission-south-sudan-plundering-a-nation-ohchr]],
   [[2026-06-22-crawford-denies-75-percent-revenue-retention-sudanspost]],
-  [[2026-05-14-south-sudan-defends-crawford-capital-deal-eastleighvoice]].
+  [[2026-05-14-south-sudan-defends-crawford-capital-deal-eastleighvoice]],
+  [[2026-05-15-crawford-capital-eservices-partnership-citizendigital]].
 - **2025-10-08** — **A second private revenue operator, on radically different terms (SSRA + NCA +
   Ensoft/N-Soft).** The SSRA and the **[[national-communication-authority-south-sudan|NCA]]** signed a
   **six-year Build-Operate-Transfer** agreement with **Ensoft** (named **N-Soft** in other reporting) for
@@ -257,9 +269,11 @@ but ahead of the governance frameworks meant to hold it.
   digital-rights / financial-inclusion partners
 - [[crei-south-sudan]] · [[finnfund]] · [[mtn-group]] — telecom energy financing
 - [[huawei]] · [[zte]] · [[starlink]] — foreign infrastructure/connectivity
-- Tagged, no page yet: **Crawford Capital Ltd** / CapitalPay (private e-government revenue operator;
-  ≥3 sources — due a page at the next entity pass); UN Commission on Human Rights in South Sudan
-  (*Plundering a Nation*, A/HRC/60/CRP.5); Ensoft / N-Soft (telecom revenue assurance).
+- Tagged, no page yet: **[[crawford-capital]]** / CapitalPay (private e-government revenue operator;
+  **4 sources — over the bar, mint at the next entity pass**);
+  **[[un-commission-human-rights-south-sudan]]** (*Plundering a Nation*, A/HRC/60/CRP.5; 2 sources);
+  **[[ministry-of-ict-and-postal-services-south-sudan]]** (contracting counterparty on the 2019 Crawford
+  contract; 3 sources — mint candidate); **[[ensoft]]** / N-Soft (telecom revenue assurance; 1 source).
 - Mentioned, not hubbed: WHO, UNICEF, UNHCR, EU (donor DPI); Ateny Wek Ateny (ICT
   minister); Thomas Gatkuoth Nyak (e-services council); Adut Salva Kiir Mayardit
   (associated with the private revenue platform in secondary reporting; **not named in the UN

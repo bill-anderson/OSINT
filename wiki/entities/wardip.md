@@ -5,8 +5,8 @@ title: WARDIP (Western Africa Regional Digital Integration Program)
 places: [XWA, BEN, LBR, SLE, GNB, MRT]
 topics: [infra.connect, dpi.govtech, gov.regional, finance.new, include.access]
 status: active
-last_reviewed: 2026-07-18
-sources: [[2026-03-16 New $137M initiative to enable digital service access for millions in three ECOWAS nations], [2026-06-30-national-cloud-launch-ecofin], [2025-04-02 President Embalo launches WARDIP in Guinea-Bissau], [2026-01-01 Guinea-Bissau National Fibre-Optic Backbone specifications (WARDIP-GB)], [2026-05-21 WARDIP-GB fibre backbone environmental and social impact study (EIASS)], [2026-06-08-125m-world-bank-wardip2-financing-techafricanews]]
+last_reviewed: 2026-07-20
+sources: [[2026-03-16 New $137M initiative to enable digital service access for millions in three ECOWAS nations], [2026-06-30-national-cloud-launch-ecofin], [2025-04-02 President Embalo launches WARDIP in Guinea-Bissau], [2026-01-01 Guinea-Bissau National Fibre-Optic Backbone specifications (WARDIP-GB)], [2026-05-21 WARDIP-GB fibre backbone environmental and social impact study (EIASS)], [2026-06-08-125m-world-bank-wardip2-financing-techafricanews], [2026-04-28-wardip-mauritanie-ap01-identite-numerique-pki]]
 ---
 
 # WARDIP (Western Africa Regional Digital Integration Program)
@@ -53,6 +53,18 @@ phase-2 states below.
   [[2026-01-01 Guinea-Bissau National Fibre-Optic Backbone specifications (WARDIP-GB)]],
   [[2026-05-21 WARDIP-GB fibre backbone environmental and social impact study (EIASS)]].
 
+- **WARDIP-Mauritanie — national PKI / e-certification tender (2026-04-28, unawarded).** The
+  WARDIP project unit at **[[mtnima-mauritania|MTNIMA]]** issued RFP **AP-01_DP-15_WARDIP-2026**
+  (credit **IDA-7445-MR**) in two lots: **Lot 01** a national Public Key Infrastructure, **Lot 02** a
+  Certificate Management System with e-signature **integrated into the existing
+  [[anrpts-mauritania|ANRPTS]] PKI**. Bid security 1m MRU per lot; evaluation 30% technical / 70%
+  cost, reweighted to 40/60 by Additif N°1. **The notice title promises a digital-ID system, but the
+  operative clauses describe only e-certification, and both addenda drop "identité numérique"** — a
+  discrepancy in the primary itself. On its clauses this is a **trust layer over the existing ANRPTS
+  register, not a second identity rail.** **No award as of 2026-07-20**; deadline moved 18 Jun →
+  7 Jul → **21 Jul 2026**. Full case: [[MRT]]. Source:
+  [[2026-04-28-wardip-mauritanie-ap01-identite-numerique-pki]].
+
 ## Sources
 
 - [[2026-03-16 New $137M initiative to enable digital service access for millions in three ECOWAS nations]]
@@ -60,3 +72,4 @@ phase-2 states below.
 - [[2026-01-01 Guinea-Bissau National Fibre-Optic Backbone specifications (WARDIP-GB)]]
 - [[2026-05-21 WARDIP-GB fibre backbone environmental and social impact study (EIASS)]]
 - [[2026-06-08-125m-world-bank-wardip2-financing-techafricanews]]
+- [[2026-04-28-wardip-mauritanie-ap01-identite-numerique-pki]]

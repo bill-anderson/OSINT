@@ -6,8 +6,8 @@ places: [SEN]
 topics: [gov.protect, gov.legislate]
 lens: []
 status: active
-last_reviewed: 2026-07-16
-sources: [[2026-07-16 Data Protection Laws of Senegal (reference summary)], [2019-05-01 Senegal National Single Registry RNU (IPC-IG research brief 63)]]
+last_reviewed: 2026-07-20
+sources: [[2026-07-16 Data Protection Laws of Senegal (reference summary)], [2019-05-01 Senegal National Single Registry RNU (IPC-IG research brief 63)], [2026-03-27-aps-donnees-personnelles-legislation-moderniser]]
 ---
 
 # CDP — Commission de Protection des Données Personnelles (Senegal)
@@ -25,6 +25,12 @@ the **[[rnu-senegal|RNU]]** social registry.
   See [[SEN]], [[gov.protect]]. Sources:
   [[2026-07-16 Data Protection Laws of Senegal (reference summary)]],
   [[2019-05-01 Senegal National Single Registry RNU (IPC-IG research brief 63)]].
+- **Regulating on an unamended 2008 statute (as of 27 Mar 2026).** With Law No. 2008-12 still unamended,
+  cybersecurity and AI-governance consultant **Saïkou Fall** told APS the CDP is left with *"des angles
+  morts"* as the **[[new-deal-technologique]]** scales up processing of *"parfois très sensibles"* citizen
+  data, and called for both a modernised framework and the means for the regulator to act on it. See
+  [[senegal-data-protection-law]], [[gov.protect]], [[tech.ai]]. Source:
+  [[2026-03-27-aps-donnees-personnelles-legislation-moderniser]].
 
 ## Related
 

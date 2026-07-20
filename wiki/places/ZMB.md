@@ -212,10 +212,12 @@ The third is **evidentiary**: the headline numbers disagree. Penetration spans *
   between two external organisations** to coordinate their *support to* government — the
   Government of Zambia is **not a party**, though the areas were "identified jointly" with it.
   **No value, duration or termination terms disclosed; the text is unpublished.** The pattern is
-  the analytically live part: UNDP signed a near-identical MoU with TBI in **Angola on
-  2025-06-23**, on a collaboration begun in 2024 — TBI is placing country directors alongside
-  UNDP resident representatives across Southern Africa, an advisory layer between donor and
-  state that no Zambian institution commissioned. *(Date discrepancy inside the primary: stamped
+  the analytically live part: TBI is placing country directors alongside UNDP resident
+  representatives across Southern Africa, an advisory layer between donor and state that no
+  Zambian institution commissioned. A near-identical **Angola** TBI–UNDP MoU of **2025-06-23**,
+  on a collaboration begun in 2024, is the comparator for that reading — but **no primary for
+  the Angola MoU is held in `raw/` as of 2026-07-20**, so the regional-template claim currently
+  rests on one ingested MoU, not two. *(Date discrepancy inside the Zambian primary: stamped
   20 November, datelined 21 November.)* See [[gov.policy]], [[finance.mou]], `colonialism`.
   Source: [[2025-11-20-undp-tbi-mou-zambia]].
 - **2025-10-03** — **Refugee biometric IDs, and an MVNO tender that was never confirmed.**
@@ -291,7 +293,14 @@ The third is **evidentiary**: the headline numbers disagree. Penetration spans *
   protection custody to a national-security ministry, with a procedural safeguard ("aligned with"
   the **Data Protection Act 2021**) and **no purpose limitation, retention limit, consent
   mechanism or independent oversight described**. Population per the PAD: **101,837** refugees
-  and former refugees (2024-09). See [[zrhcp]], [[gov.protect]], [[include.divides]]. Source:
+  and former refugees (2024-09). **Provenance split, and it matters:** the ingested press
+  release carries only the **approval, the announcement date and "$30 million" / "over
+  100,000 refugees"**. Everything sharper here — the **$27m/$3m split**, the **$6m identity
+  limb**, the **three districts**, the **150,000-of-20-million card procurement**, the
+  **101,837** count and the **ProGres transfer** — comes from the **PAD and ESMF (P503941,
+  PADHI00410), which the wiki does not hold**; they are queued on
+  `reviews/acquisitions.md`. Carry these as PAD-derived pending acquisition. See [[zrhcp]],
+  [[gov.protect]], [[include.divides]]. Source:
   [[2024-09-27-world-bank-zambia-refugee-host-communities-grant]].
 - **2024-09-13** — **Land administration goes digital — a thread previously absent from the wiki.**
   **[[zilas]]**, deployed by SZI's **E-Government Division** for the [[ministry-of-lands-zambia]]:

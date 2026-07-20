@@ -6,8 +6,8 @@ places: [MUS]
 topics: [gov.policy, dpi.govtech, tech.ai]
 lens: []
 status: active
-last_reviewed: 2026-07-19
-sources: [[2025-05-26-blueprint-digital-transformation-launch-lexpress], [2025-04-09-ict-data-protection-strategy-in-preparation-lexpress]]
+last_reviewed: 2026-07-20
+sources: [[2025-05-26-blueprint-digital-transformation-launch-lexpress], [2025-04-09-ict-data-protection-strategy-in-preparation-lexpress], [2026-07-16-mauritius-america-india-connect-subsea-cable-allmyt-summit-mitci]]
 ---
 
 # Ministry of Information Technology, Communication and Innovation (MITCI)

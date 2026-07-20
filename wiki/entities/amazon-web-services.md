@@ -2,12 +2,12 @@
 type: entity
 entity_type: company
 title: Amazon Web Services
-places: [RWA, ZAF, NGA, GHA, ETH, MAR, SEN, EGY, XAF, XGL]
+places: [RWA, ZAF, NGA, GHA, ETH, MAR, SEN, EGY, MUS, XAF, XGL]
 topics: [infra.store, tech.ai, geopol.usa, infra.capacity, capacity.training]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-15
-sources: [[2024-05-22 AWS adds a CloudFront edge location in Cairo], [2026-04-17 Amazon Web Services launches Outposts in Rwanda. - Montjalinews], [2026-04-01 Rwanda hosts first AWS Outposts], [2026-06-08 All the Ways Europe Is Ditching American Technology], [2026-07-11 AWS in Africa], [2026-04-28 OpenAI Breaks Free Of Microsoft, Expands AWS Partnership], [2026-07-10 Nigeria tests data sovereignty as foreign tech firms facing probe], [2026-05-21 Africa Data Center Investment 2026 The $4.5B Race and the Power Problem], [2026-03-16 Why Google, Amazon and Meta are going overland in Africa], [2026-04-02 Nations priced out of Big AI are building with frugal models], [2026-04-01 Wingu Africa debuts cloud exchange platform in Ethiopia], [2026-04-14 Amazon's $9bn satellite deal set to benefit Africa], [2024-05-30 Orange and AWS partner to deliver cloud services in Morocco and Senegal], [2025-11-09 Behind the speedy MyMzansi screens and the Presidency's race to build a digital government], [2026-07-01 Strategy Ahead of Infrastructure, Part I Inside the CBN's June 2026 Payments Circular]]
+last_reviewed: 2026-07-20
+sources: [[2024-05-22 AWS adds a CloudFront edge location in Cairo], [2026-04-17 Amazon Web Services launches Outposts in Rwanda. - Montjalinews], [2026-04-01 Rwanda hosts first AWS Outposts], [2026-06-08 All the Ways Europe Is Ditching American Technology], [2026-07-11 AWS in Africa], [2026-04-28 OpenAI Breaks Free Of Microsoft, Expands AWS Partnership], [2026-07-10 Nigeria tests data sovereignty as foreign tech firms facing probe], [2026-05-21 Africa Data Center Investment 2026 The $4.5B Race and the Power Problem], [2026-03-16 Why Google, Amazon and Meta are going overland in Africa], [2026-04-02 Nations priced out of Big AI are building with frugal models], [2026-04-01 Wingu Africa debuts cloud exchange platform in Ethiopia], [2026-04-14 Amazon's $9bn satellite deal set to benefit Africa], [2024-05-30 Orange and AWS partner to deliver cloud services in Morocco and Senegal], [2025-11-09 Behind the speedy MyMzansi screens and the Presidency's race to build a digital government], [2026-07-01 Strategy Ahead of Infrastructure, Part I Inside the CBN's June 2026 Payments Circular], [2026-07-16-mauritius-america-india-connect-subsea-cable-allmyt-summit-mitci], [2026-07-16-mauritius-telecom-allmyt-keynote-sovereign-ai-platformafrica]]
 ---
 
 # Amazon Web Services

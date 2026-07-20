@@ -7,7 +7,7 @@ topics: [dpi.id, infra.cybersec]
 lens: []
 status: active
 last_reviewed: 2026-07-20
-sources: [[2026-02-10 Senegal data breach disrupts national ID issuance], [2026-02-10 Senegal shuts National ID office after ransomware attack], [2025-02-18 Senegal targets 3M ECOWAS biometric ID holders for voter registration], [2026-02-12-darkreading-senegal-breach-security-maturity]]
+sources: [[2026-02-10 Senegal data breach disrupts national ID issuance], [2026-02-10 Senegal shuts National ID office after ransomware attack], [2025-02-18 Senegal targets 3M ECOWAS biometric ID holders for voter registration], [2026-02-12-darkreading-senegal-breach-security-maturity], [2026-02-11-zataz-senegal-frappe-fichier-identite]]
 ---
 
 # Iris Corporation Berhad
@@ -28,6 +28,13 @@ three million cards**. Supplies both national ID and voter cards.
   [[SEN]], [[dpi.id]], [[infra.cybersec]]. Sources:
   [[2026-02-10 Senegal data breach disrupts national ID issuance]],
   [[2026-02-10 Senegal shuts National ID office after ransomware attack]].
+- **The two servers named in the leaked email were the "Perso" (card-personalisation) server and the
+  domain controller** — the wording is the Iris email's own, as rendered by ZATAZ (11 Feb 2026): Choo,
+  writing 20 Jan, reports the 19 Jan intrusion and says personalisation data was taken from one of the
+  two systems, that network links to foreign missions and other offices were cut, and that Iris intended
+  to bring Malaysian cybersecurity experts to Dakar on 22 Jan for "mesures correctives". Neither Iris nor
+  the DAF answered requests for comment. See [[senegal--dpi-id]]. Source:
+  [[2026-02-11-zataz-senegal-frappe-fichier-identite]].
 - **ID/voter-card supplier for 2025 electoral enrolment.** Iris named as Senegal's contractor for national
   ID and voter cards during the ECOWAS-biometric-ID voter-registration exercise (Feb–Jul 2025). Source:
   [[2025-02-18 Senegal targets 3M ECOWAS biometric ID holders for voter registration]].

@@ -9,7 +9,7 @@ date_precision: day
 date_source: source
 places: [SSD]
 topics: [dpi.govtech, finance.mou, gov.policy]
-entities: [[crawford-capital]], [[south-sudan-revenue-authority]]
+entities: [[crawford-capital], [south-sudan-national-revenue-authority], [ministry-of-ict-and-postal-services-south-sudan]]
 lens: []
 body_completeness: full
 retrieved: 2026-07-17

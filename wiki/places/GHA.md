@@ -6,7 +6,7 @@ parent: XWA
 place_kind: country
 topics: [gov.policy, capacity.training, gov.legislate, tech.innovate, finance.new, tech.ai, dpi.pay, infra.store, geopol.china, geopol.usa, include.divides, include.access, dpi.id, dpi.registry, dpi.govtech, dpi.mis, data.statistics, gov.standards, gov.protect, infra.connect, infra.cybersec, tech.industry, gov.regional, dpi.exchange, finance.mou, digital.rural, digital.localgov, data.satellite]
 status: active
-last_reviewed: 2026-07-19
+last_reviewed: 2026-07-20
 ---
 
 # Ghana (GHA)
@@ -26,6 +26,16 @@ last_reviewed: 2026-07-19
   by 2027**) and **[[afreximbank]]**'s *African Trade Report 2025* constraints, against
   **[[afcfta]]** implementation. See [[ghana--dpi-pay]], [[dpi.pay]], [[tech.innovate]], [[XAF]].
   Source: [[2026-07-17-kutanapay-ai-blockchain-cross-border-trade]].
+- **2026-07-20** *(correction)* — **The NIA's statutory basis, from the Authority's own list.** The wiki
+  previously cited a **"National Identification Act 2009"** for the NIA's mandate. **No such Ghanaian
+  statute exists.** The governing stack is the **National Identification Authority Act, 2006 (Act 707)**
+  (gazetted 21 Apr 2006), the **National Identity Register Act, 2008 (Act 750)** (gazetted 15 Feb 2008),
+  the **National Identity Register (Amendment) Act, 2017 (Act 950)** (assented 4 Dec 2017), and the
+  **National Identity Register Regulations, 2012 (L.I. 2111)** as amended by **L.I. 2356 (2018)** and
+  again in **July 2026**; Acts 707 and 750 were each also amended by the **Data Protection Act, 2012**.
+  A propagated citation error, corrected against the **[[national-identification-authority-ghana|NIA]]**'s
+  own published list of governing law. See [[ghana--dpi-id]], [[gov.legislate]]. Source:
+  [[2023-11-05-nia-ghana-laws-and-regulations]].
 - **2026-07** — **L.I. 2111: biometric-only Ghana Card verification.** Amendment gazetted making **biometric
   verification the only lawful means** of verifying a Ghana Card holder — **photocopying/visual inspection now a
   criminal offence** (fines to GH¢24,000). See [[national-identification-authority-ghana]], [[ghana--dpi-id]].
@@ -300,7 +310,10 @@ last_reviewed: 2026-07-19
   ecosystem; Ghana Card carries **no** payment functionality (2026-04 retraction). Full case: [[ghana--dpi-pay]].
 - [[tech.ai]] · [[infra.store]] · [[finance.new]] — $250m AI compute centre + National AI
   Strategy; Huawei AI-skills partnership ([[geopol.china]], [[include.divides]]).
-- [[dpi.id]] · [[dpi.registry]] · [[dpi.govtech]] — Ghana Card / national ID via the
+- [[dpi.id]] · [[dpi.registry]] · [[dpi.govtech]] — statutory basis: **Act 707 (2006)**, **Act 750
+  (2008)**, **Act 950 (2017)** and **L.I. 2111 (2012)** as amended by **L.I. 2356 (2018)** — *not* the
+  non-existent "National Identification Act 2009" the wiki previously cited (corrected 2026-07-20).
+  Ghana Card / national ID via the
   **[[national-identification-authority-ghana|NIA]]** (~19.2m registered, 262 institutions; backlog
   cleared for instant issuance; online-only applications; continuous registration of under-15s and
   diaspora; chip passport); biometric **SIM–Ghana Card** linkage framework (CEIR); **[[margins-id-group]]**

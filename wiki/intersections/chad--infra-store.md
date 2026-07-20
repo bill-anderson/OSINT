@@ -31,7 +31,10 @@ the US. The buildings are national; the builders are foreign.
   [[2025-01-10-agenceecofin-tchad-centre-donnees-national-finalisation]].
 - **Construction under Chinese partnership (2025).** Minister Boukar Michel toured the **National Data
   Centre** building with a **Chinese delegation** (Jan 2025) — framed as a
-  step toward "digital sovereignty." The building is **500 m² over four levels (2025-01-10)**. Chinese
+  step toward "digital sovereignty." The building is in **N'Djamena**, **four storeys, ~500 m² per
+  level and ~2,000 m² of total floor area** — launch coverage said *"2,000 m² over four floors"*
+  **(2020-07-08)** and the site visit said *"500 m² over four levels"* **(2025-01-10)**: the same
+  building measured two ways, not a discrepancy. Chinese
   ambassador **Wang Xining**, present at the visit, posed the dependency question himself: *"how to
   take ownership of this building and its machines, even in the absence of Chinese technicians."*
   Phase 1 (construction + equipment) later completed, with audit/

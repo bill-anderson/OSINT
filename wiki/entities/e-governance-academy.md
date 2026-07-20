@@ -5,8 +5,8 @@ title: e-Governance Academy (eGA)
 places: [XGL, TUN, UGA]
 topics: [dpi.exchange, dpi.govtech, gov.standards, capacity.training, geopol.eu]
 status: active
-last_reviewed: 2026-07-17
-sources: [[2025-03-01 Tunisia drives digitization agenda forward while navigating risks], [2026-02-19 NITA-Uganda concludes workshop on renewal of government enterprise architecture and interoperability framework]]
+last_reviewed: 2026-07-20
+sources: [[2025-03-01 Tunisia drives digitization agenda forward while navigating risks], [2026-02-18-ega-uganda-launches-renewal-gea-egif], [2026-05-27-ega-uganda-renewed-digital-government-frameworks]]
 ---
 
 # e-Governance Academy (eGA)

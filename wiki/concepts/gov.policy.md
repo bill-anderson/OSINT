@@ -308,6 +308,17 @@ National digital strategy, ownership and the financing conditions around it.
   (2026-03-13) — "transform Zimbabwe into a full digital economy by the year 2030", with internet
   penetration projected to reach 100% before 2030. Source:
   [[2026-03-13-mavetera-84-55-internet-penetration-ai-strategy]].
+- **[[TUN]] Tunisia (2026-02-13) — the successor is a chapter, not a strategy.** Digital Tunisia
+  2020-2025 lapsed, and what replaces it is **not a sectoral ICT strategy but a chapter of the *plan de
+  développement 2026-2030***, coordinated by the Ministry of Economy and Planning — a **change of
+  instrument type**, in the Head of Government's own words (*"une vision nationale unifiée pour la
+  transformation digitale"*). 192 projects under national tracking (Feb 2026). *No extension, repeal or
+  outcomes report for Digital Tunisia 2020-2025 is held as of 2026-07-20.*
+- **[[UGA]] Uganda (2022–23) — Parliament tried to pick a vendor and failed.** The Defence and Internal
+  Affairs Committee probed incumbent-successor Veridos and its majority report recommended re-engaging
+  the predecessor Mühlbauer; a minority report alleged unsanctioned meetings with Mühlbauer in Uganda and
+  Germany "in total contravention of the Public Procurement and Disposal of Public Assets Act." MP Abdu
+  Katuntu: Parliament "is not mandated to do procurement." **No contract followed.**
 
 ## Places
 

@@ -84,7 +84,20 @@ headline:
 - Separate from, and additional to, the **$120m** ([[dzap]]: $100m IDA grant + $20m
   unguaranteed commercial) the World Bank committed to Zambia's DPI implementation.
 
-Source: [[2025-10-03 Zambia plans domestic digital ID development with help from international partners]].
+**Provenance of this section (2026-07-20).** Of the two sources this page holds, the
+[[world-bank]] press release
+([[2024-09-27-world-bank-zambia-refugee-host-communities-grant]]) carries only the
+**approval, the announcement date, "$30 million", "over 100,000 refugees"** and the
+Meheba/infrastructure scope; the Biometric Update re-report
+([[2025-10-03 Zambia plans domestic digital ID development with help from international partners]])
+adds the WHR window, MoHAIS management, UNHCR technical support, the Mwiimbu quote, **112,000**
+and the end-October-2028 completion. **Everything else above — Subcomponent 1.2 and its $6m,
+the $27m/$3m split, SDR 22.6m, the three districts, the 150,000-of-20-million card
+procurement, 101,837, the PAD/ESMF dates and the ProGres transfer — is PAD- and
+ESMF-derived, and those documents are NOT held in `raw/`.** They are queued on
+`reviews/acquisitions.md` (P503941, PADHI00410). Until they are ingested these figures are
+**reported from disclosed World Bank project text seen during the 2026-07-20 reconcile pass,
+not from a source of record** — do not cite them onward as if the wiki held the primary.
 
 ## Why it matters here
 

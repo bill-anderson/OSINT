@@ -7,8 +7,8 @@ topics: [dpi.govtech, dpi.exchange]
 entities: [[smart-zambia-institute], [zampay]]
 lens: []
 status: active
-last_reviewed: 2026-07-19
-sources: [[2026-05-13-zambia-launches-pmis-property-management], [2026-05-29-councils-digital-lcc-first-zamportal]]
+last_reviewed: 2026-07-20
+sources: [[2026-05-13-zambia-launches-pmis-property-management], [2026-05-29-councils-digital-lcc-first-zamportal], [2023-06-16-zambia-zilas-ministerial-statement-parliament], [2023-09-19-zambia-zilas-digital-clearance-corpus-legal]]
 ---
 
 # ZamPortal

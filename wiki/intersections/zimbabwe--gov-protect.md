@@ -5,11 +5,11 @@ place: ZWE
 topic: gov.protect
 places: [ZWE]
 topics: [gov.protect, gov.legislate, infra.cybersec, gov.standards, dpi.govtech, dpi.exchange]
-entities: [[potraz], [zimbabwe-cyber-and-data-protection-act], [ministry-of-ict-postal-and-courier-services-zimbabwe], [e-government-technology-unit-zimbabwe]]
+entities: [[potraz], [zimbabwe-cyber-and-data-protection-act], [ministry-of-ict-postal-and-courier-services-zimbabwe], [e-government-technology-unit-zimbabwe], [zimra]]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-19
-sources: [[2025-05-26-govt-reviews-ict-standards], [2025-06-06-570-institutions-data-controller-licences], [2025-06-09-potraz-2025-26-enforcement-actions], [2025-10-17-government-enforces-data-privacy-laws], [2026-03-27-potraz-warning-unlicensed-data-controllers], [2026-05-14-potraz-plots-crackdown-data-act]]
+last_reviewed: 2026-07-20
+sources: [[2025-05-26-govt-reviews-ict-standards], [2025-06-06-570-institutions-data-controller-licences], [2025-06-09-potraz-2025-26-enforcement-actions], [2025-10-17-government-enforces-data-privacy-laws], [2026-03-27-potraz-warning-unlicensed-data-controllers], [2026-05-14-potraz-plots-crackdown-data-act], [2026-01-01-zimra-data-privacy-week-data-protection-officers]]
 ---
 
 # Zimbabwe × Data Protection & Cyber Governance
@@ -31,6 +31,18 @@ also equips the state's surveillance apparatus (the MISA critique on the [[ZWE]]
   **National Cybersecurity Strategy** launch (Oct 2025), which also introduced a **National Child Online
   Protection Policy**; by May 2026 POTRAZ reported **~1,200 DPOs** trained — "the critical mass." Sources:
   [[2025-10-17-government-enforces-data-privacy-laws]], [[2026-05-14-potraz-plots-crackdown-data-act]].
+- **A named instance inside the aggregate (late Jan 2026).** **[[zimra|ZIMRA]]**, the revenue authority,
+  published that it holds **two registered Data Protection Officers** — **Tinashe C. Makambaire** and
+  **Margaret Chirimumimba** — appointed under the **[[zimbabwe-cyber-and-data-protection-act|Cyber and Data
+  Protection Act [Chapter 12:07]]]** and **SI 155 of 2024**, which it reads as requiring *"all entities that
+  process information"* to appoint one. The DPOs sit in ZIMRA's **Corporate Risk and Compliance Division**,
+  explicitly **not** performing IT or enforcement duties, and serve as the **official liaison with POTRAZ**
+  and with data subjects. *Useful because it is the aggregate made concrete: a large public data controller
+  showing the shape the regime actually takes inside an institution — an oversight-and-assurance role in a
+  risk function, not a technical one, with a named channel to the regulator.* **Date is month-precision,
+  proxy**: the ZIMRA CMS renders no dateline, and late January 2026 is established by news-ID bracketing
+  against dated neighbours (Data Privacy Week fell 26–30 Jan 2026). Source:
+  [[2026-01-01-zimra-data-privacy-week-data-protection-officers]].
 
 ## From carrot to stick
 
@@ -68,6 +80,6 @@ also equips the state's surveillance apparatus (the MISA critique on the [[ZWE]]
 
 Place: [[ZWE]] · Region: [[XSA]] · Concepts: [[gov.protect]] · [[gov.legislate]] · [[infra.cybersec]] ·
 Entities: [[potraz]] · [[zimbabwe-cyber-and-data-protection-act]] · [[ministry-of-ict-postal-and-courier-services-zimbabwe]] ·
-[[e-government-technology-unit-zimbabwe]]
+[[e-government-technology-unit-zimbabwe]] · [[zimra]]
 - Mentioned, not hubbed: Tatenda Mavetera (ICT Minister); Dr Gift Kalisto Machengete (POTRAZ DG); Tsitsi
   Mariwo (POTRAZ Data Protection Director); Tafara Matekaire (e-Gov Technology Unit); SI 155 of 2024.

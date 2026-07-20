@@ -2,12 +2,12 @@
 type: entity
 entity_type: organisation
 title: European Union
-places: [NGA, KEN]
-topics: [finance.new, infra.connect, dpi.exchange, capacity.training, geopol.eu, gov.policy, infra.cybersec, dpi.mis, tech.ai, gov.legislate]
+places: [NGA, KEN, CAF]
+topics: [finance.new, infra.connect, dpi.exchange, capacity.training, geopol.eu, gov.policy, infra.cybersec, dpi.mis, tech.ai, gov.legislate, dpi.govtech, dpi.pay]
 lens: []
 status: active
-last_reviewed: 2026-07-12
-sources: [[2026-03-24 Nigeria EU Announces New €290m Investments in Nigeria], [2026-01-27 Kenya launches project to boost cyber security], [2026-07-05 Post by DHIS2 on LinkedIn], [2026-05-18 Europe Wrote The World's Most Advanced AI Law. The EU AI Act], [2026-06-08 Kenya Wants to Sell Your Data. But It's Complicated]]
+last_reviewed: 2026-07-20
+sources: [[2026-01-16-ebrd-tunisie-telecom-190m-medusa], [2026-03-24 Nigeria EU Announces New €290m Investments in Nigeria], [2026-01-27 Kenya launches project to boost cyber security], [2026-07-05 Post by DHIS2 on LinkedIn], [2026-05-18 Europe Wrote The World's Most Advanced AI Law. The EU AI Act], [2026-06-08 Kenya Wants to Sell Your Data. But It's Complicated], [2026-04-18-pata-polele-digitalisation-paiements-ndjonisango]]
 ---
 
 The **European Union (EU)** is a supranational political and economic union of
@@ -100,6 +100,19 @@ Adequacy Decision** to enable cross-border data flows. A Brussels-effect alignme
 [[geopol.eu]], [[dpi.exchange]], [[kenya--infra-connect]]. Sources:
 [[2026-06-09-kenya-153bn-eu-digital-boost-techafricanews]],
 [[2026-06-18-kenya-eu-digital-cooperation-ai-dpi-techafricanews]].
+
+## Central African Republic — financing the revenue stack (2026-04)
+
+In one of Africa's most fragile states the EU's digital footprint is on the **fiscal** side. Through
+delivery agent **[[expertise-france]]**, a **€17.5m** four-year EU programme (**€8.5m** in its "Justice
+pour l'Ouest 1" component) funds **Pata Polélé**, the platform digitising CAR's *mini-recettes* — the
+administrative fees levied across some twenty ministries — replacing cash and manual *quittances* with
+digital receipts and mobile-money settlement. A harmonisation workshop ran **14–16 April 2026** in Bangui
+with **Justice, Finance and Interior** as pilot ministries; the system was built by a Tunisian expert with
+CAR's **Office National de l'Informatique (ONI)**, framed as skills transfer. Alongside the EU-funded
+**MODERO** civil-registration programme, this puts Brussels on both CAR's identity and revenue stacks.
+See [[CAF]], [[caf--dpi-govtech]], [[dpi.pay]]. Source:
+[[2026-04-18-pata-polele-digitalisation-paiements-ndjonisango]].
 
 ## Related
 

@@ -9,7 +9,7 @@ entities: [[daf-senegal], [senegal-numerique], [new-deal-technologique], [green-
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-20
-sources: [[2026-02-09-seneweb-cyberattaques-senegal-expose], [2026-02-13-enqueteplus-senum-tentatives-cyberattaques], [2026-03-09-connectingafrica-free-internet-cyber-risks], [2026-04-01-techafricanews-senegal-finland-cooperation], [2025-08-09-lesoleil-forces-armees-ia-souverainete], [2026-02-05-aps-daf-suspension-cni-communique], [2026-02-12-darkreading-senegal-breach-security-maturity], [2026-04-07-aps-daf-reprise-production-cni]]
+sources: [[2026-02-09-seneweb-cyberattaques-senegal-expose], [2026-02-13-enqueteplus-senum-tentatives-cyberattaques], [2026-03-09-connectingafrica-free-internet-cyber-risks], [2026-04-01-techafricanews-senegal-finland-cooperation], [2025-08-09-lesoleil-forces-armees-ia-souverainete], [2026-02-05-aps-daf-suspension-cni-communique], [2026-02-12-darkreading-senegal-breach-security-maturity], [2026-04-07-aps-daf-reprise-production-cni], [2026-02-11-zataz-senegal-frappe-fichier-identite], [2026-02-05-senegal7-daf-perso-server-email]]
 ---
 
 # Senegal × Cybersecurity
@@ -29,6 +29,10 @@ by a free-internet push that widens the attack surface. (ITU GCI 2024: **67.17/1
 - **The state-breach run.** The **DGID** (tax authority) was hacked Oct 2025 (~1TB — tax declarations,
   IDs), the **DAF** in Feb 2026 (biometrics/ID/birth/immigration records, "Green Blood Group"), and the
   **Public Treasury** in May 2026. Source: [[2026-03-09-connectingafrica-free-internet-cyber-risks]].
+  *Date caveat (noted 2026-07-20): ZATAZ says it alerted on the **DGID** compromise — by a different crew —
+  in **September 2025**, a month earlier than the October dating carried here. The two are not necessarily in
+  conflict (ZATAZ dates its own alert, not the intrusion), but **the DGID event date is not established** on
+  the sources held. Source: [[2026-02-11-zataz-senegal-frappe-fichier-identite]].*
 - **Disclosure behaviour is the governance signal.** In the DAF case the state acknowledged the incident only
   on **5 Feb 2026** — after the leak site went up and **more than two weeks** after the 19 Jan intrusion — and
   its communiqués (5 Feb 2026, 7 Apr 2026) assert only that data **integrity** remains intact while saying

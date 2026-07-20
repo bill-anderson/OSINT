@@ -7,7 +7,7 @@ topics: [infra.connect, infra.cybersec, gov.legislate]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-20
-sources: [[2025-12-09 Burkina Faso Targets Online Trust with New Internet Security Measures (DNSSEC)], [2026-02-13 Burkina Faso Orders Large Firms to Build Local Headquarters], [2026-04-06-zero-zone-blanche-750-localites-phase-2-2027]]
+sources: [[2025-12-09 Burkina Faso Targets Online Trust with New Internet Security Measures (DNSSEC)], [2026-02-13 Burkina Faso Orders Large Firms to Build Local Headquarters], [2026-04-06-zero-zone-blanche-750-localites-phase-2-2027], [2022-05-23-couverture-reseau-mobile-300-zones-blanches-arcep], [2025-09-30-inclusion-par-le-pylone-fracture-numerique-2027]]
 ---
 
 # ARCEP Burkina Faso

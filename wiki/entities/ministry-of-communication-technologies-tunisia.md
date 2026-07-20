@@ -6,8 +6,8 @@ places: [TUN]
 topics: [gov.policy, dpi.govtech, dpi.exchange, dpi.id, tech.ai, gov.legislate]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-19
-sources: [[2024-02-14 National interoperability platform in Tunisia (Cybernetica UXP)], [2025-03-19 E-Houwiya - A Milestone in Tunisia's Digital Transformation Roadmap 2025 (ID Tech)], [2024-04-23 Tunisia - Biometric ID card and passport usage to begin in H1 2025], [2025-03-01 Tunisia drives digitization agenda forward while navigating risks], [2026-01-19 EBRD and Tunisie Telecom Partner on €190 Million Digital Infrastructure Upgrade], [2026-02-16-techafricanews-cabinet-192-digital-projects], [2026-04-22-assabah-tunisia-digital-summit-10]]
+last_reviewed: 2026-07-20
+sources: [[2024-02-14 National interoperability platform in Tunisia (Cybernetica UXP)], [2025-03-19 E-Houwiya - A Milestone in Tunisia's Digital Transformation Roadmap 2025 (ID Tech)], [2024-04-23 Tunisia - Biometric ID card and passport usage to begin in H1 2025], [2025-03-01 Tunisia drives digitization agenda forward while navigating risks], [2026-01-19 EBRD and Tunisie Telecom Partner on €190 Million Digital Infrastructure Upgrade], [2026-02-13-tunisie-conseil-ministeriel-digitalisation-complete], [2026-04-22-assabah-tunisia-digital-summit-10]]
 ---
 
 # Ministry of Communication Technologies (Tunisia)
@@ -59,7 +59,7 @@ platform [[uxp-tunisia]], and the department under which the national digital id
   phase 1, the national project-monitoring platform, remote ID-card services for students, the building-
   permits platform, and export/company-registration systems. PM directives: expand e-payments, interlink
   citizen services, embed cybersecurity, AI and open data. See [[gov.policy]], [[dpi.govtech]]. Source:
-  [[2026-02-16-techafricanews-cabinet-192-digital-projects]].
+  [[2026-02-13-tunisie-conseil-ministeriel-digitalisation-complete]].
 - **Tunisia Digital Summit, 10th edition (Apr 2026).** Opening the summit (22–23 Apr 2026, theme
   public-private-institution partnership for rapid innovation; ~2,000 experts, 80 exhibitors), Hemissi
   called digital transformation **"no longer a choice but a historical necessity,"** set the strategic goal

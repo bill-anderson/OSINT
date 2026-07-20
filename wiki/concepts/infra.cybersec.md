@@ -248,6 +248,18 @@ how "cyber threat" is defined and acted on.
 - **Attacker-claimed volumes are one claim, not many.** The Senegal DAF "**139TB vs 139GB**" split is the
   same crew's figure in two artefacts — a leak-site posting and the ransom note — so the smaller is the more
   credible and **neither is verified**. Do not present intra-actor variance as a corroborated range.
+- **[[SDN]] Sudan — a cybersecurity law stated as passed, text not located.** The digital-transformation
+  minister stated on **2026-01-31** that a cybersecurity and network-security law had been passed; **the
+  text has not been located as of 2026-07-20** (ministry publishing is disrupted by the war). Note this
+  against Sudan's continued absence of any data-protection statute or authority — a c.2018 draft was never
+  enacted, and Malabo was signed 2023-03-15 but **not ratified**.
+- **[[SEN]] Senegal — "attempts" versus "compromised", never reconciled (Feb 2026).** Sénégal Numérique
+  SA's own communiqué (**2026-02-09**) reports *"tentatives de cyberattaques"* and containment,
+  confirming **no breach, no exfiltration, no attacker, no affected dataset**. L'Observateur had reported
+  a *compromise* three days earlier. The **"coordinated campaign" framing is press inference from
+  simultaneity** — attributed in every account to the newspaper, never to the DSC, SENUM or the ministry,
+  and **no actor claimed SENUM** where Green Blood claimed the DAF. No technical accounting published as
+  of 2026-07-20.
 
 ## Places
 

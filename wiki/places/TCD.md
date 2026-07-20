@@ -13,8 +13,9 @@ last_reviewed: 2026-07-20
 
 Central African ([[XCA]]) state starting near the bottom of the continental tables —
 **189th of 193 on the UN E-Government Development Index, score 0.1785 (2024 index)** against an
-African average of 0.4247 and a global average of 0.6382, and **Tier 4** (second-lowest) of the
-ITU Global Cybersecurity Index at **48.67/100 (2024)** — and attempting to buy its way up fast
+African average of 0.4247 and a global average of 0.6382 (**50th of 54 in Africa**), **last of 47
+African states on the ITU ICT Development Index at 21.3/100 (2024 index)**, and **Tier 4**
+(second-lowest) of the ITU Global Cybersecurity Index at **48.67/100 (2024)** — and attempting to buy its way up fast
 through **[[tchad-connexion-2030]]**, a **US$1.5 billion** national digital investment umbrella.
 
 Two things make Chad analytically interesting here. First, the **sovereignty framing is explicit

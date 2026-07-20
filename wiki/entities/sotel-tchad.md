@@ -6,8 +6,8 @@ places: [TCD]
 topics: [tech.industry, infra.connect, gov.policy, finance.new]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-17
-sources: [[2026-02-16 Waking the dead - Slow road to extinction for Africa's former telco incumbents 11], [2026-02-13 Chad Plans 50 Telecom Sites, 50 km of Fiber in N'Djamena]]
+last_reviewed: 2026-07-20
+sources: [[2026-02-16 Waking the dead - Slow road to extinction for Africa's former telco incumbents 11], [2026-02-13 Chad Plans 50 Telecom Sites, 50 km of Fiber in N'Djamena], [2020-05-08-ciomag-tchad-pret-eximbank-chine-tic], [2025-01-10-agenceecofin-tchad-centre-donnees-national-finalisation]]
 ---
 
 # Sotel Tchad (Société des télécommunications du Tchad)
@@ -68,6 +68,16 @@ Sotel is simultaneously the vehicle through which the government announces new n
   its former mobile service, **Salam Mobile** — sold rhetorically as a route to more competition
   and better prices. See [[geopol.china]]. Source:
   [[2026-02-16 Waking the dead - Slow road to extinction for Africa's former telco incumbents 11]].
+  *Context that reporting omits: a Salam network core was already inside a China-financed programme.*
+- **Sotel is a build target of [[pmice]], not just a bystander to it.** The China Eximbank loan's
+  stated scope included **200 sites for Sotel (2020-05-08)**, and PMICE covers modernising **Groupe
+  Sotel through installation of the network core of its mobile arm, SALAM (2025-01-10)** — under
+  [[huawei]] as contractor. So the 2024 ministerial approach to Huawei for a 5G platform to relaunch
+  Salam Mobile was made to **the vendor already contracted to install Salam's core**. **No source
+  held reports how many of the 200 sites were delivered, or whether the SALAM core was
+  commissioned (as of 2026-07-20).** See [[geopol.china]], [[infra.connect]]. Sources:
+  [[2020-05-08-ciomag-tchad-pret-eximbank-chine-tic]],
+  [[2025-01-10-agenceecofin-tchad-centre-donnees-national-finalisation]].
 
 ## Reading it
 

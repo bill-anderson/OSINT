@@ -179,6 +179,14 @@ is a **deal entity**; this concept tracks the pattern.
   SARS–DHA agreement** reviving the **Direct Master Agreement in place since 2010**. Retrospective mentions
   garbled the two into a single "April 2024" pact. Source:
   [[2025-04-03-sars-collaboration-agreements-dha-bma-gpw]].
+- **[[BDI]] Burundi (2024-11-19) — an MoU that commits almost nothing.** Vietnam's MIC and Burundi's
+  Ministry of Communication, ICT and Media signed at Vietnam International Digital Week: cooperation
+  intent plus **$10,000 scholarships**; no financing, infrastructure, project or timetable. The substance
+  in the room was **Lumitel** (Viettel-owned incumbent), and Vietnam's concrete asks — 5G spectrum, tax
+  cuts, investment incentives — sat **outside the instrument**. **No digital-sector follow-through as of
+  2026-07-20.** A clean specimen of diplomatic packaging around an existing commercial position. *Note the
+  provenance asymmetry: every account is Vietnamese-side or third-party; no Burundian-side announcement
+  exists.*
 
 ## Places
 

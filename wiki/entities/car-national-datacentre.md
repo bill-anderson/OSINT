@@ -64,8 +64,9 @@ sovereignty." See [[CAF]], [[infra.store]], [[caf--dpi-govtech]].
 original components cover public-resources management, digital transformation of public administration,
 implementation support and a contingent emergency window — **none of them a data centre**. It belongs to the
 govtech and data-protection record (it is the project behind [[car-data-protection-law-24-001]] and the
-April 2025 état-civil diagnostic), not here. **[[cardip]]** is a separate regional six-country program.
-(Established by the reconcile pass, 2026-07-20.)
+April 2025 état-civil diagnostic — [[2025-04-18-diagnostic-identite-digitale-etat-civil-oubanguimedias]],
+whose own account of the project lists exactly those components and **no data centre**), not here.
+**[[cardip]]** is a separate regional six-country program. (Established by the reconcile pass, 2026-07-20.)
 
 ## Related
 

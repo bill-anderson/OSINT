@@ -7,7 +7,7 @@ topics: [gov.policy, infra.store, infra.cybersec, dpi.govtech]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-20
-sources: [[2026-01-22 Burkina Faso aims for digital sovereignty with infrastructure supervision center], [2026-03-23 Burkina Faso steps into the future with digital investment], [2025-11-18-traore-souverainete-integre-numerique], [2026-03-03-tinto-hebergement-national-souverainete], [2026-03-24-transformation-digitale-bilan-2025-85-pourcent], [2026-02-18-zero-zone-blanche-12-chantiers-2000-zones-2030], [2026-04-06-zero-zone-blanche-750-localites-phase-2-2027]]
+sources: [[2026-01-22 Burkina Faso aims for digital sovereignty with infrastructure supervision center], [2026-03-23 Burkina Faso steps into the future with digital investment], [2025-11-18-traore-souverainete-integre-numerique], [2026-03-03-tinto-hebergement-national-souverainete], [2026-03-24-transformation-digitale-bilan-2025-85-pourcent], [2026-02-18-zero-zone-blanche-12-chantiers-2000-zones-2030], [2026-04-06-zero-zone-blanche-750-localites-phase-2-2027], [2025-09-30-inclusion-par-le-pylone-fracture-numerique-2027], [2026-02-01-situation-nation-750-localites-441-sites], [2026-02-03-contrat-objectifs-2025-ministre-transition-digitale]]
 ---
 
 # Burkina Faso Ministry of Digital Transition, Posts and Electronic Communications

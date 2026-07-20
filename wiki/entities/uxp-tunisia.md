@@ -6,8 +6,8 @@ places: [TUN]
 topics: [dpi.exchange, dpi.govtech, gov.standards, infra.cybersec, dpi.id, geopol.eu, finance.new]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-19
-sources: [[2024-02-14 National interoperability platform in Tunisia (Cybernetica UXP)], [2026-05-14-cybernetica-national-interoperability-platform-phase2]]
+last_reviewed: 2026-07-20
+sources: [[2026-02-13-tunisie-conseil-ministeriel-digitalisation-complete], [2024-02-14 National interoperability platform in Tunisia (Cybernetica UXP)], [2026-05-14-cybernetica-national-interoperability-platform-phase2]]
 ---
 
 # UXP Tunisia (national interoperability platform)

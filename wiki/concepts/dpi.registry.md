@@ -293,6 +293,17 @@ maintained and queried.
   accessible à partir du Registre national de l'état civil." A worked example of archive-digitisation
   totals being mistaken for live-database load. *Note ANEC's framing is* actes d'état civil *— all
   civil-status events, not "birth records" as some coverage headlines it.* See [[senegal--dpi-id]].
+- **[[ZMB]] Zambia — ZILAS, live 2023-05-17.** Cabinet-approved 2020; migrated from ZILMIS 2023-05-13;
+  sixty e-services on the Government Service Bus. Predecessor **ZILMIS ran nine years (2014–2023) with its
+  maintenance contract expired since 2022-03-31** — the ministry ran the national land register
+  unsupported, "a conduit for corruption" (Minister of Lands, 2023-06-16). A mandatory **Digital
+  Clearance** gates *every* land transaction and takes **3–4 weeks in practice (2023-09)**. The queue
+  moved; it did not vanish.
+- **[[CAF]] Central African Republic (2025-04-17).** The **97-page World-Bank-financed *Diagnostic de la
+  République centrafricaine*** was validated at a Bangui workshop after ~2 years of study. Its stated
+  payoff: a reliable population database would let CAR **skip a costly general census**. Financed under
+  **P174620 (Public Sector Digital Governance Project)** — **not CARDIP**, and carrying **no data-centre
+  component**.
 
 ## Places
 

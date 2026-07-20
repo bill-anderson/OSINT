@@ -6,8 +6,8 @@ places: [LBY]
 topics: [infra.connect, infra.cybersec, gov.policy]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-16
-sources: [[2025-10-26 Libya launches root servers in Tripoli and Benghazi — digital sovereignty], [2026-02-16 Libya's GIA presents Government Data Governance vision at cloud-computing workshop]]
+last_reviewed: 2026-07-20
+sources: [[2025-08-20-lana-gti-huawei-libya-agreement], [2025-10-26 Libya launches root servers in Tripoli and Benghazi — digital sovereignty], [2026-02-16 Libya's GIA presents Government Data Governance vision at cloud-computing workshop]]
 ---
 
 # General Authority for Communications and Informatics (GACI, Libya)

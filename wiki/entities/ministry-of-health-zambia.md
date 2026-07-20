@@ -6,8 +6,8 @@ places: [ZMB]
 topics: [dpi.mis, dpi.govtech]
 lens: []
 status: active
-last_reviewed: 2026-07-19
-sources: [[2025-06-23-smart-office-system-rollout], [2026-07-17-zambia-govlink-private-4g], [2026-07-17-zambie-lance-reseau-4g-prive-govlink]]
+last_reviewed: 2026-07-20
+sources: [[2025-06-23-smart-office-system-rollout], [2026-07-17-zambia-govlink-private-4g], [2026-07-17-zambie-lance-reseau-4g-prive-govlink], [2026-04-28-zambia-smartcare-2-0-ndola-pilot]]
 ---
 
 # Ministry of Health (Zambia)

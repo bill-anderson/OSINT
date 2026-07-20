@@ -6,7 +6,7 @@ places: [BEN, AGO, XAF, XGL, NAM, ZAF, NGA, KEN, EGY, ZMB, SEN, ZWE, MOZ, DZA, U
 entities: [[us-dfc], [huawei], [state-department-for-ict-and-the-digital-economy-kenya], [kenya-china-ecommerce-mou], [john-tanui], [gabon-huawei-kimba-connect-accord], [kimba-connect], [china-namibia-smart-city], [nucap], [ncc], [bosun-tijani], [zte], [hikvision], [ghana-national-ai-strategy], [kashifu-inuwa], [deepseek], [gabon-huawei-mou], [kenya-school-of-government]]
 lens: [sovereignty, colonialism]
 status: active
-last_reviewed: 2026-07-19
+last_reviewed: 2026-07-20
 sources: [[2026-06-23 Africa's Data Centre Boom Where The New Facilities Are Being Built], [2026-06-17 Priced out of the future Confronting the rising cost of AI in Africa], [2026-07-08 China funds Namibia digital infrastructure], [2026-06-08 Zambia, China deepen digital ties], [2026-06-11 The Case Against the EU's Tech Sovereignty Package], [2025-01-01 South African Digital Sovereignty at the Crossroad of Securitization and Development (Chapter 4) - Digital Sovereignty in the BRICS Countries], [2026-06-04 Chinese bank backs Nigeria towers project], [2026-05-21 Pushing back from Big Tech Africa's hard road to AI sovereignty], [2026-04-04 Chinese surveillance rolled out in Africa ZTE, Hikvision, Huawei at the helm], [2026-03-05 Ghana strikes AI training deal with Chinese multinational amid $250m tech investment push], [2026-04-02 Nations priced out of Big AI are building with frugal models], [2026-04-14 Nigeria Seeks Stronger Digital Sovereignty, National Software Infrastructure], [2026-03-01 Smart City Surveillance in Africa (IDS 2026)], [2026-03-12 China's DeepSeek gives US tech giants a run for their money as Microsoft and others expand AI push in Africa], [2026-01-05 Gabon and Huawei Forge Partnership to Boost National Digital Transformation], [2026-02-09 Huawei reconnects with South Sudan], [2026-02-13 Namibia gets  Chinese satellite ground station], [2026-04-20 117 - Payments Follow Trade], [2026-07-17-kenya-ict-officers-china-digital-trade], [2026-07-17-gabon-garantie-publique-huawei-start-up]]
 # Source-linkage: the BRICS chapter notes China's Global Initiative on Data Security, the
 # TCP/IP-redesign proposal, and African reliance on Chinese networking kit as a standards
@@ -149,6 +149,12 @@ financing and the global AI-capacity race.
   certificate and the equipment are one vendor's, capacity-building and lock-in are the same programme.
   See [[gabon--tech-innovate]], [[capacity.training]]. Source:
   [[2026-07-17-gabon-garantie-publique-huawei-start-up]].
+- **[[TCD]] Chad — a five-year contractor relationship read as courtship.** **Huawei** has built the
+  national data centre and the **PMICE** backbone under a **China Eximbank** concessional loan (~111.4bn
+  FCFA, 20 years at 2%) **since July 2020**, with repayment begun by **2026-05-19** and the works
+  incomplete. Trade press reported the 2025-12-24 ministerial meeting with a Huawei delegation as talks
+  with a *prospective* partner — it is the incumbent. The China relationship here is not one option among
+  several; it is the built infrastructure and a debt in service.
 
 ## Places
 

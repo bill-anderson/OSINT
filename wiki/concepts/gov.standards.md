@@ -221,6 +221,21 @@ Technical and de facto standards as instruments of policy and sovereignty.
   processes across all participating commercial banks" — a late-adopter jurisdiction entering directly at
   the current standard rather than migrating to it. Source:
   [[2025-10-01-eyeradio-boss-ssips-ats-plus-explainer]].
+- **[[MUS]] Mauritius (2026-07-20) — standards work, not a launch.** TM Forum named **Mauritius Telecom**
+  founding contributor and co-chair of its **MODaaS** (Model-as-a-Service) collaboration, initiative
+  **GB1087** — defining controls and conformance criteria for AI model lifecycle, observability, security
+  and token-based monetisation. **The framework does not yet exist and no MODaaS product is in market as
+  of 2026-07-20.** TM Forum's own research frames the gap: **72%** of operator leaders say they trust
+  their production AI, **14%** can evidence it.
+- **[[UGA]] Uganda (2026-05-27).** NITA-U with the **e-Governance Academy**, World Bank-supported,
+  **renewed the Government Enterprise Architecture and e-GIF** — the GEA realigned to Uganda Vision 2040,
+  the e-GIF enhanced for secure standardised cross-government data exchange, replacing the 2021-05-06
+  originals at their five-year mark. Kick-off workshop concluded 2026-02-18. ***Delivered ≠ deployed:*** no
+  rollout or adoption figure published as of 2026-07-20.
+- **[[SSD]] South Sudan (2025-10) — a late adopter entering at the current standard.** SSIPS was built on
+  **ISO 20022 from launch**, cited by the Bank of South Sudan as ensuring "global compatibility and
+  standardized, predictable processes across all participating commercial banks" — entering directly at
+  the standard rather than migrating to it.
 
 ## Places
 

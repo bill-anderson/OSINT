@@ -463,6 +463,37 @@ Personal-data regimes across African jurisdictions — and the friction their
   **2024-07-25** — before mass enrolment began (May 2025), before the ISER judgment (Jun 2025), and before
   the NIRA database breach (Sep 2025). Source:
   [[2024-07-25-chrgj-iser-heapi-seizing-opportunity-uganda-digital-id]].
+- **[[NGA]] Nigeria — the NDPC's largest penalty (2025-07-06).** **₦766,242,500** (~US$501,340) on
+  MultiChoice Nigeria under the Nigeria Data Protection Act 2023, on an investigation opened Q2 2024:
+  privacy violations against subscribers **and non-subscribers**, illegal cross-border transfer, and
+  processing "patently intrusive, unfair, unnecessary and disproportionate" contrary to s.37 of the
+  Constitution. Imposed expressly **"for want of cooperation"** after directed remediation was judged
+  unsatisfactory — the sanction endpoint of a remediation-first enforcement model. Payment or challenge
+  status not established as of 2026-07-20, and the NDPC did not answer FIJ's 2025-07-09 FOI request for
+  the findings within the statutory window.
+- **[[ZMB]] Zambia — refugee registration data changes custody.** Under **ZRHCP** (World Bank P503941,
+  approved 2024-09-26), **UNHCR's ProGres database transfers to the Ministry of Home Affairs and Internal
+  Security** and refugees enrol into **[[inris]]** itself, the citizens' register. The safeguard offered is
+  procedural — DNRPC operating procedures "aligned with" the Data Protection Act 2021 — with **no purpose
+  limitation, retention limit, consent mechanism or independent oversight described**. *This is
+  PAD-derived and the PAD is not held (as of 2026-07-20); the held sources do not carry it.*
+- **[[SEN]] Senegal — the law did not move, even through a national-ID breach.** **Law No. 2008-12 of
+  25 Jan 2008** remains operative and **unamended as of 2026-03-27**, with a revision bill *"dans le
+  circuit"* awaiting a vote. It did not advance through the **February-2026 breach** of the national
+  biometric-ID directorate. A state-capacity finding, not a data gap.
+- **[[DZA]] Algeria — launched politically, not commenced legally.** Decree 25-320 **Art. 19** starts the
+  classification and cataloguing duties only from publication of the two **Art. 8 *référentiels***, which
+  issue by *décision* of the High Commissioner for Digitalisation. **As of 2026-07-20 no such publication
+  is traceable** — six months after gazetting, the core obligations are not shown to have commenced. The
+  2026-02-09 launch installed a follow-up commission; it did not trigger Art. 19.
+- **[[ZWE]] Zimbabwe — what a DPO appointment looks like inside a state controller.** ZIMRA registered
+  **two DPOs** under the Cyber and Data Protection Act and **SI 155 of 2024**, sited in **Corporate Risk
+  and Compliance** — explicitly not IT or enforcement — as official liaison to POTRAZ and to data
+  subjects. A named instance beneath Zimbabwe's ~1,200-DPO aggregate *(month precision, proxy)*.
+- **[[MUS]] Mauritius (2026-07-16).** ICT minister Ramtohul committed the government to a **National Data
+  Governance Strategy** and **amendments to the Data Protection Act 2017**, targeting cybersecurity,
+  privacy and online safety "particularly for children". **No text or timetable published as of
+  2026-07-20.**
 
 ## Places
 

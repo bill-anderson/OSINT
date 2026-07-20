@@ -111,8 +111,7 @@ The rails exist; usage lags them.
   sovereignty (2025-04), citing an NDA with need-to-know access "deactivated post implementation."
   *No value or term has ever been published by either party — an established absence.* Sources:
   [[2025-01-20-insidebiz-eswatini-partners-with-google]],
-  [[2025-01-21-google-works-with-eswatini-to-accelerate-digital-economy]],
-  [[2025-01-22 Eswatini partners with Google to drive digital transformation and economic growth]].
+  [[2025-01-21-google-works-with-eswatini-to-accelerate-digital-economy]].
   See [[finance.mou]], [[geopol.usa]].
 - **2024-12-11** — **Eswatini Payment Switch Fast Payments goes live.** Governor **[[phil-mnisi]]**
   launched Fast Payments at Ezulwini — phase one of three (Open Banking, then POS and ATM
@@ -231,6 +230,6 @@ country profile.
 - Mentioned, not hubbed: Henrik Franklin (UNDP RR); Themba Khumalo (EPTC group MD); ministers
   Thambo/Thabo Gina and Thulisile Dladla; Eswatini Bank; Swaziland Building Society; E-mali
   Limited; InstaCash; Eswatini Mobile; the Elections and Boundaries Commission; Rural Health
-  Motivators. *Minister Maziya's "70% of our population being youth" (2025-01-22) is her framing;
+  Motivators. *Minister Maziya's "70% of our population being youth" (2025-01-20) is her framing;
   the World Bank puts young people at 30% of the population (2025-05-12) — different definitions,
   each attributed rather than merged.*

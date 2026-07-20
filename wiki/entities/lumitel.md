@@ -7,7 +7,7 @@ topics: [infra.connect, digital.rural, dpi.pay]
 lens: []
 status: active
 last_reviewed: 2026-07-18
-sources: [[2026-03-04-lumitel-burundi-10m-high-speed-internet-project], [2026-05-01-internet-haut-debit-pafen-couvrir-80-du-territoire]]
+sources: [[2026-03-04-lumitel-burundi-10m-high-speed-internet-project], [2026-05-01-internet-haut-debit-pafen-couvrir-80-du-territoire], [2024-11-20-vietnam-burundi-mou-telecom-technology]]
 ---
 
 # Lumitel (Viettel Burundi)
