@@ -5,6 +5,104 @@ contradictions found, and open `needs-review` flags.
 
 ---
 
+## 2026-07-20 — Ingest: the reconcile batch filed (65 clips, 14 workers)
+
+`new/` drained; `raw/` at 4,631. First batch ingested under the rewritten rules. 19 concept pages updated.
+
+### The finding: reconcile research reached pages without its sources
+
+**Four workers hit this independently, and it is my defect, not theirs.** The reconcile pass surfaced
+findings from documents it read but did not ingest, and I relayed them into page prose and into the ingest
+briefs as though they were established. In every case **the sharpest claim was the unsourced one** — which
+is not coincidence: research surfaces the striking detail first, and the striking detail is what got
+relayed.
+
+| Where | Asserted | Actually held |
+|---|---|---|
+| `veridos` / `uganda--dpi-id` | €64.2m 2010 contract, UGX 59.952bn plant, 2016 UPPC JV, 2017-07-03 award, 51/49 split | **None of it**, in either cited clip or anywhere in `raw/` |
+| `zrhcp` / `ZMB` | The **ProGres → MoHAIS custody transfer**, $27m/$3m split, Subcomponent 1.2, card counts | PAD/ESMF-derived; **PAD not held**, and cited to a secondary that does not carry it |
+| `SSD` / `south-sudan--dpi-govtech` | NSS Internal Security Bureau endorsement "because Crawford was building large databases", Nov-2019 date, CapitalPay, UNCAC arts, VP Igga reversal, shareholdings | From the unheld OHCHR PDF and un-ingested secondary reporting |
+| `SEN` | CDP opened revision 2017, 2019 APDP draft, Cour Suprême 2022, Oct-2024 workshops | **No held source carries any of it** |
+
+Two smaller cases of the same shape: an **Enugu contract termination dated February 2025** that no held
+source carries (possibly conflated with the separate Mbu termination), and **Sudan's "software-only"
+tender scope**, which sits in a specifications document linked from the notice and not held.
+
+Invented precision is the signature: a committee resolution dated "2022-11-22" where the clip says only
+that a probe was announced, and "Matthias Karl Kohler" where the source says "Karl Kohler".
+
+**Handled as provenance boundaries, not deletions** — the claims are probably true and worth keeping, so
+each site now states plainly what is source-established and what is reconcile-established, dated. The
+acquisitions that would close them are queued; the OHCHR report and the DZAP PAD are the two highest-value
+items in that list. **One consequence worth naming: `reviews/contradictions/research/` was deleted earlier
+today, so the working notes behind these claims survive only in git.**
+
+### The mirror image — pages claiming ignorance they didn't have
+
+`chad-national-data-centre` said the facility's size and location "have not been disclosed" when two held
+sources state both (N'Djamena, four storeys, ~2,000 m²). The apparent conflict between "2,000 m² over four
+floors" and "500 m² over four levels" is not one: 500 × 4 = 2,000, the same building measured two ways. So
+the corpus has been **over-claiming from unheld research and under-claiming from sources it holds**, and
+both are failures of the same discipline.
+
+### Corrections landed
+
+- **Uganda's card vendors were inverted.** Mühlbauer was the *incumbent* 2010–2018; **Veridos has held
+  production since 2018** via USPC. The 2022–23 parliamentary fight tried to displace Veridos and failed.
+  The "overcharging scandal" claim is **withdrawn as unsupported** — objections ran the other way.
+- **Gabon's registry was Gemalto's, not Thales's** (Thales holds it via the 2019 acquisition). The two
+  firms traded identity assets **both ways**, so neither won its mandate under the name the wiki used.
+- **Three Angola claims traced to one secondary headline**: CEIEC mis-dated by 2.5 years (contract
+  *Despacho Presidencial nº 8/17*, 2017-01-03; Nov 2019 is the *inauguration*), a **$200m Indian credit
+  line that is for defence**, and an **Aadhaar/MOSIP engagement that does not exist**.
+- **Ghana's "National Identification Act 2009" does not exist** — Act 707 (2006), Act 750 (2008), Act 950
+  (2017), L.I. 2111 as amended by L.I. 2356.
+- **Chad's Huawei relationship is incumbent since July 2020**, not prospective — on a China Eximbank loan
+  already in repayment with works incomplete.
+- **Enugu is 260 schools, not 267**, with a documentary trail the gap I filed claimed did not exist.
+- **`BFA.md`'s "370 of 750" was a misread** — the Primature says the 750 are *en complément des 370*.
+- **AVCA's US$3.9bn is equity+debt**, the analogue of Partech's US$4.1bn, not a rival equity series.
+
+### Rules exercised, and where they bit
+
+- **Entity tagging (3–6, institutions not officeholders)** worked as intended. The clearest case: dropping
+  minister tags from the CAR clips means the **unresolved Gourna Zacko / Andjalandji succession no longer
+  propagates through frontmatter**, only through prose where it can be dated. A worker also dropped EBS
+  from a Sudan clip on finding it **nowhere in the body** — it had reached the clip from the reconcile
+  pass's surrounding knowledge. Tag contamination from context is real.
+- **Replace** was exercised four times, each a genuine tier upgrade: a TechReviewAfrica rewrite displaced
+  by the eGA primary; a Techpoint file whose stored body was **a paraphrase**; a Starlink `excerpt` with
+  sixty lines of chrome; a TechAfrica re-report superseded by pm.gov.tn.
+- **Keep-both was defended on a principle the rule doesn't state:** a source that is the *origin of a
+  circulating error* is not a duplicate — it is the evidence for the correction. Applied to the Biometric
+  Update Angola piece, the EBRD mis-dating and the 25-350 mis-numbering.
+- **A worker correctly overrode my brief** on `last_reviewed`: I said set it on every page touched; it
+  declined for twelve pages receiving only a one-line source append, because CLAUDE.md defines it as
+  marking a *substantive* check. My instruction would have degraded the freshness signal.
+
+### Housekeeping
+
+- **`gov.procure` is not a taxonomy slug** — a worker invented it and tagged two sources plus an entity
+  page. Corrected to `gov.policy`. A full vocabulary lint over all 143 files touched today is otherwise
+  clean: no invalid topic slugs, no invalid place codes.
+- **Structural fixes found while filing:** a malformed `sources:` bracket on `libya--infra-connect` that
+  was swallowing two entries; twelve entity `sources:` lines normalised to canonical form; `TUN.md` out of
+  reverse-chronological order; four hub citations pointing at prose titles matching no file.
+
+### Still open
+
+- **59 wiki files carry references to the deleted registers** (`ISSUE-NNN`, `GAP-XXX-NNN`,
+  `reviews/gaps.md`). Under the new rules each should become a dated statement of what isn't established,
+  or be dropped. Not yet done — it is a mechanical sweep with varied phrasing and wants care rather than a
+  blanket regex.
+- **The Google Johannesburg mis-dating is still live in a source list.** `google.md` cites
+  `2025-03-27 Google launches first African cloud region in Johannesburg` — the exact case CLAUDE.md uses
+  as its worked example of the event-date rule, 14 months out from Google's own 2024-01-31 opening.
+- **`_watchlist.md` was never consulted.** None of the fourteen briefs told workers to check it, so the
+  third leg of the entity-tagging rule went unexercised across the whole batch. My omission.
+
+---
+
 ## 2026-07-20 — Reconcile pass: `open/` drained, 49 → 0
 
 Ran the whole folder, as its README requires, across 15 workers. **All 49 items closed**; `open/` now holds
