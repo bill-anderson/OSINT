@@ -552,8 +552,10 @@ The brief goes with the `reviews/contradictions/` item, **not** into `queries/` 
 resolving a contradiction is external research, not a query against the base. The
 **reconcile pass** runs that research in-session, ingests the primaries it
 surfaces through `new/`, and applies a resolution to the affected pages. Research
-output is quarantined in `reviews/contradictions/research/` and never ingested;
-the page fix cites the primaries, not the synthesis. Resolved items move to
+output is **not retained**: the page fix cites the primaries the pass surfaces, and
+the synthesis is discarded once the resolution is applied. It is never ingested.
+*(The former `reviews/contradictions/research/` quarantine was removed 2026-07-20 —
+its files were explicitly regenerable snapshots, never a store of record.)* Resolved items move to
 `reviews/contradictions/done/` as the last step.
 
 **8. Absences.** A specific known **document** the wiki wants and doesn't hold →
