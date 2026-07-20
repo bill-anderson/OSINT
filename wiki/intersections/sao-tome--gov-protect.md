@@ -5,11 +5,11 @@ place: STP
 topic: gov.protect
 places: [STP]
 topics: [gov.protect, gov.legislate, gov.regional, dpi.exchange, geopol.china, geopol.eu, tech.ai]
-entities: [[national-data-protection-agency-sao-tome], [sao-tome-data-protection-law-2016], [lusophone-data-protection-network], [malabo-convention]]
+entities: [[national-data-protection-agency-sao-tome], [sao-tome-data-protection-law-2016], [lusophone-data-protection-network], [malabo-convention], [au-data-policy-framework], [d4d-hub], [auda-nepad], [kictanet]]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-19
-sources: [[2025-06-23-cnpd-portugal-recebeu-anpdp-stp-rede-lusofona], [2026-05-27-macau-to-sign-data-protection-pacts-stp-cabo-verde], [2026-06-10-dspdp-macau-formaliza-cooperacao-protecao-dados-stp]]
+sources: [[2025-06-23-cnpd-portugal-recebeu-anpdp-stp-rede-lusofona], [2026-05-27-macau-to-sign-data-protection-pacts-stp-cabo-verde], [2026-06-10-dspdp-macau-formaliza-cooperacao-protecao-dados-stp], [2026-07-13 D4D Hub on Sao Tome and Principe]]
 ---
 
 # São Tomé and Príncipe × Data Protection & Data Diplomacy
@@ -39,6 +39,16 @@ Macau.
   protection and AI supervision** in Macau and toured Hong Kong's Privacy Commissioner and a Guangdong
   cyber-data-security association. See [[geopol.china]], [[tech.ai]], [[dpi.exchange]]. Sources:
   [[2026-05-27-macau-to-sign-data-protection-pacts-stp-cabo-verde]], [[2026-06-10-dspdp-macau-formaliza-cooperacao-protecao-dados-stp]].
+
+## The AU framework, operationalised (2026-07)
+
+The **[[au-data-policy-framework]]** (AUDPF) moving from continental reference to national
+institutional reform: STP — one of Africa's smallest states — held a **Data Governance Capacity
+Building Workshop (9–10 Jul 2026)** on **national AUDPF adoption**, run by the **[[d4d-hub]]**
+(#D4DataGOV / Team Europe) with **[[giz]]**, **[[auda-nepad]]** and **[[kictanet]]**. The
+demand-side counterpart to the data-localisation stack — a small state operationalising the AU's
+data-governance norms. See [[gov.policy]], [[gov.regional]], [[capacity.training]]. Source:
+[[2026-07-13 D4D Hub on Sao Tome and Principe]].
 
 ## Enforcement at home — the electoral roll
 

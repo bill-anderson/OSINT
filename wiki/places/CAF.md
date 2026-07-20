@@ -225,7 +225,7 @@ struggling to reach its own territory on the other.
   (as of 2026-07-20)**, though **five** threads compete for it - including a **2022 pair of ministry data centres recorded as "under construction"** by the World Bank and never completed (**[[car-national-datacentre]]**); 2020
   France/Russia-targeting disinformation campaigns; "Centrafrique numérique 2018" largely
   unimplemented. Source:
-  [[2022-10-21 La Republique centrafricaine et l'intelligence artificielle dans l'espace numerique]].
+  [[2022-10-21 La Republique centrafricaine et l'intelligence artificielle dans l'espace numerique]]. Full case: [[caf--infra-store]].
 - **Regional (CEMAC / ECCAS)** ([[gov.regional]], [[dpi.pay]]) — CEMAC monetary union under
   **[[beac]]** (PAPSS accession, 2026); **[[eccas]]** as a cross-border-transfer tier. See [[XCA]].
 

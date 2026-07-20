@@ -347,7 +347,7 @@ last_reviewed: 2026-07-20
 - Initiatives / instruments: [[ghana-national-data-strategy]] · [[ghana-national-ai-strategy]] · [[leap-ghana]] · [[ghana-digital-health-policy-2023-2027]] · [[ghana-data-harmonisation-bill]] · [[ghana-gov-platform]] · [[ghana-digital-acceleration-project]] · [[ghana-continental-digital-trade-corridor]]
 - Payments / fintech: [[bank-of-ghana]] · [[ghipss-ghana]] · [[momo-fintech-ghana]] · [[zeepay-ghana]]
 - Connectivity / infrastructure: [[ngic-ghana]] · [[digital-realty-accra]] · [[2africa-cable]] · [[dial]]
-- Intersections: [[ghana--dpi-id]] · [[ghana--dpi-pay]] · [[ghana--dpi-govtech]] · [[ghana--gov-protect]] · [[ghana--infra-connect]] · [[ghana--tech-ai]]
+- Intersections: [[ghana--dpi-id]] · [[ghana--dpi-pay]] · [[ghana--dpi-govtech]] · [[ghana--gov-protect]] · [[ghana--infra-connect]] · [[ghana--tech-ai]] · [[ghana--infra-store]]
 - Mentioned, not hubbed: Ministry of Communication, Digital Technology and Innovations;
   UNESCO; GIZ FAIR Forward; The Future Society; Google Africa Applied AI Lab (Accra); Girls in
   ICT / One Million Coders programmes; Moses Kwesi Baiden Jnr (Margins CEO); Wisdom Kwaku Deku

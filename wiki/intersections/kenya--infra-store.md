@@ -5,11 +5,11 @@ place: KEN
 topic: infra.store
 places: [KEN]
 topics: [infra.store, tech.ai, gov.policy, gov.protect, finance.new]
-entities: [[ixafrica-data-centres], [safaricom], [airtel-africa], [touchnet], [baobab-cloud], [qubit-hub], [servernah-cloud], [konza-technopolis], [oracle], [john-tanui], [angani]]
+entities: [[ixafrica-data-centres], [safaricom], [airtel-africa], [touchnet], [baobab-cloud], [qubit-hub], [servernah-cloud], [konza-technopolis], [oracle], [john-tanui], [angani], [ixafrica-oracle-oci-nairobi], [microsoft-g42-kenya-datacenter], [g42]]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-18
-sources: [[2025-05-14-safaricom-ixafrica-ai-data-centre-itweb], [2025-07-17-touchnet-sovereign-ai-cloud-ixafrica-techafricanews], [2026-05-10-airtel-56b-data-centre-standard], [2026-05-22-ixafrica-baobab-sovereign-public-cloud-techafricanews], [2026-05-25-qhala-amini-angani-ixafrica-ai-hub-techafricanews], [2026-06-05-kenya-targets-ai-data-centres-expansion-itweb], [2026-06-16-tech-firms-country-first-sovereign-cloud-standard]]
+last_reviewed: 2026-07-20
+sources: [[2025-05-14-safaricom-ixafrica-ai-data-centre-itweb], [2025-07-17-touchnet-sovereign-ai-cloud-ixafrica-techafricanews], [2026-05-10-airtel-56b-data-centre-standard], [2026-05-22-ixafrica-baobab-sovereign-public-cloud-techafricanews], [2026-05-25-qhala-amini-angani-ixafrica-ai-hub-techafricanews], [2026-06-05-kenya-targets-ai-data-centres-expansion-itweb], [2026-06-16-tech-firms-country-first-sovereign-cloud-standard], [2026-01-28 iXAfrica, Oracle to launch Kenya's first public cloud region], [2026-07-07 Kenya's State Department of ICT and Digital Economy discusses digital partnership with Oracle], [2026-03-12 iXAfrica hosts Kenya's first sovereign-hosted AI cloud], [2026-07-09 Microsoft and G42 data center in Kenya stalled due to lack of power capacity]]
 ---
 
 # Kenya × Data centres & sovereign cloud
@@ -47,6 +47,29 @@ GPU compute** — even as the flagship hyperscale build (Microsoft/G42) stalls o
   ecosystem: Safaricom, **[[oracle]]**, Liquid, iColo and the government-owned **[[konza-technopolis|Konza]]**
   National Data Centre. Source: [[2026-06-05-kenya-targets-ai-data-centres-expansion-itweb]].
 
+## Oracle, and the stalled hyperscale anchor
+
+- **Kenya's first public cloud region (2026-01-28).** **[[ixafrica-data-centres]]** will host the
+  **Oracle Cloud Infrastructure (OCI) region in Nairobi** — Kenya's first public cloud region
+  ([[ixafrica-oracle-oci-nairobi]]), announced by President Ruto in 2024 — moving the "sovereign
+  cloud" pitch from talks to a concrete deployment on the region's largest AI-ready carrier-neutral
+  campus. See [[tech.ai]], [[geopol.usa]]. Source:
+  [[2026-01-28 iXAfrica, Oracle to launch Kenya's first public cloud region]].
+- **"Sovereign cloud" talks (2026-07).** Kenya's State Department of ICT and Digital Economy and
+  **[[oracle]]** discussed **sovereign cloud infrastructure** for government workloads — the
+  vendor-branded sovereignty pitch. Source:
+  [[2026-07-07 Kenya's State Department of ICT and Digital Economy discusses digital partnership with Oracle]].
+- **Sovereign-hosted AI cloud, in detail (2026-03).** **[[servernah-cloud]]**, billed as Kenya's
+  first sovereign-hosted cloud and AI platform, launched at the iXAfrica Nairobi campus (with
+  Atlancis and Everse), running AI workloads **within African borders** for regulated
+  government/enterprise use. It reframes sovereignty beyond storage as **retaining talent, revenue
+  and skills** — every VM bought abroad "a job removed from the local economy." Source:
+  [[2026-03-12 iXAfrica hosts Kenya's first sovereign-hosted AI cloud]].
+- **The hyperscale anchor stalls (2026-07).** The **$1bn [[microsoft-g42-kenya-datacenter]]** stalled
+  on **grid capacity** — the standing exhibit for power, not capital, as the binding constraint. See
+  [[infra.energy]], [[kenya--tech-ai]]. Source:
+  [[2026-07-09 Microsoft and G42 data center in Kenya stalled due to lack of power capacity]].
+
 ## Links
 
-Place: [[KEN]] · Concepts: [[infra.store]] · [[tech.ai]] · Intersection: [[kenya--tech-ai]] · Entities: [[ixafrica-data-centres]] · [[touchnet]] · [[baobab-cloud]] · [[qubit-hub]] · [[servernah-cloud]] · [[airtel-africa]]
+Place: [[KEN]] · Concepts: [[infra.store]] · [[tech.ai]] · Intersection: [[kenya--tech-ai]] · Entities: [[ixafrica-data-centres]] · [[touchnet]] · [[baobab-cloud]] · [[qubit-hub]] · [[servernah-cloud]] · [[airtel-africa]] · [[oracle]] · [[ixafrica-oracle-oci-nairobi]] · [[microsoft-g42-kenya-datacenter]]

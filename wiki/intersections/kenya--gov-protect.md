@@ -9,7 +9,7 @@ entities: [[us-kenya-health-framework], [america-first-global-health-strategy], 
 lens: [sovereignty, colonialism]
 status: active
 last_reviewed: 2026-07-12
-sources: [[2026-03-27 Kenya's Health Deal Is a Stress Test for the America First Global Health Strategy], [2026-03-19 African Digital Health Data Is a Condition of Global Health Funding], [2026-04-02 WhatsApp tax filing set to pull millions into Kenya's tax net], [2026-06-08 Kenyan Citizens Took A $2.5 Billion Deal With America To Court To Fight For Their Health Data], [2025-12-15 THE GATEKEEPERS PART V The New Maps of Africa], [2026-06-08 Kenya Wants to Sell Your Data. But It's Complicated], [2026-06-15 If The Technology Can't See Us Accurately, We Build The Rules That Make It]]
+sources: [[2026-03-27 Kenya's Health Deal Is a Stress Test for the America First Global Health Strategy], [2026-07-10 Kenya and U.S. Discuss Draft Data Governance Policy to Strengthen Digital Economy], [2026-03-19 African Digital Health Data Is a Condition of Global Health Funding], [2026-04-02 WhatsApp tax filing set to pull millions into Kenya's tax net], [2026-06-08 Kenyan Citizens Took A $2.5 Billion Deal With America To Court To Fight For Their Health Data], [2025-12-15 THE GATEKEEPERS PART V The New Maps of Africa], [2026-06-08 Kenya Wants to Sell Your Data. But It's Complicated], [2026-06-15 If The Technology Can't See Us Accurately, We Build The Rules That Make It]]
 ---
 
 # Kenya × Data Protection
@@ -59,6 +59,11 @@ not the executive, have become the check.
   (IDS, March 2026) — the biometric-surveillance flank of the same data-protection gap. See
   [[tech.ai]], [[infra.cybersec]]. Source:
   [[2026-06-15 If The Technology Can't See Us Accurately, We Build The Rules That Make It]].
+- **Bilateral data-governance diplomacy (2026-07).** Kenya and the **US** discussed Kenya's
+  **Draft Data Governance Policy (2026)** and **secure cross-border data flows** — data governance
+  as a trade/investment enabler and a vector of external policy influence, alongside the health-deal
+  litigation above. See [[geopol.usa]]. Source:
+  [[2026-07-10 Kenya and U.S. Discuss Draft Data Governance Policy to Strengthen Digital Economy]].
 - **Contrast — data as a tax asset.** The same rails that make health data extractable also let the
   state see more: the **[[kenya-revenue-authority]]** launched a **WhatsApp tax-filing chatbot**
   (Kenya has >22m registered taxpayers but only ~7m active filers), traceability the informal
@@ -104,6 +109,7 @@ Place: [[KEN]] · Concepts: [[gov.protect]] · [[geopol.usa]] · [[dpi.mis]] · 
 ## Sources
 
 - [[2026-03-27 Kenya's Health Deal Is a Stress Test for the America First Global Health Strategy]]
+- [[2026-07-10 Kenya and U.S. Discuss Draft Data Governance Policy to Strengthen Digital Economy]]
 - [[2026-03-19 African Digital Health Data Is a Condition of Global Health Funding]]
 - [[2026-04-02 WhatsApp tax filing set to pull millions into Kenya's tax net]]
 - [[2026-06-08 Kenyan Citizens Took A $2.5 Billion Deal With America To Court To Fight For Their Health Data]]

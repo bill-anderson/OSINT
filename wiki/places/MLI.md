@@ -177,7 +177,7 @@ penetration 35.1% (2026)**) and a below-average e-government score.
   National Cybersecurity Strategy 2026–2030, operational cybercrime criminal chamber; [[agetic|AGETIC]]'s
   secured government Intranet.
 - [[gov.protect]] · [[dpi.registry]] — **[[apdp-mali|APDP]]** data-protection authority (Law 2013-015):
-  actively enforcing (5m FCFA fine, 100+ notices), Ségou antenna, mandatory lease-declaration decree.
+  actively enforcing (5m FCFA fine, 100+ notices), Ségou antenna, mandatory lease-declaration decree. Full case: [[mali--gov-protect]].
 - [[dpi.id]] · [[dpi.registry]] — **E-AES biometric passport** ([[emptech]]); **[[cib-aes|CIB-AES]]**
   cross-border diaspora enrolment; NINA national ID; birth-registration reform (ANSAEC); AES common passport.
 - [[dpi.govtech]] · [[include.access]] — [[agetic|AGETIC]] government Intranet + **.ml**; justice e-services

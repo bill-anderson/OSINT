@@ -9,7 +9,7 @@ entities: [[personal-data-protection-office-uganda], [nita-uganda], [google], [m
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-19
-sources: [[2025-07-20-pdpo-google-breach-cross-border-data], [2025-12-11-vuka-africa-prosecuted-data-breach-pdpo], [2026-02-27-pdpo-whatsapp-meta-cross-border-ruling], [2026-05-08-cipesa-uganda-digital-rights-dialogue]]
+sources: [[2025-07-20-pdpo-google-breach-cross-border-data], [2025-12-11-vuka-africa-prosecuted-data-breach-pdpo], [2026-02-27-pdpo-whatsapp-meta-cross-border-ruling], [2026-05-08-cipesa-uganda-digital-rights-dialogue], [2024-07-25-chrgj-iser-heapi-seizing-opportunity-uganda-digital-id]]
 ---
 
 # Uganda × Data Protection & Digital Rights
@@ -58,6 +58,14 @@ assertion, made through adjudication rather than a localisation mandate.
   sovereignty** — strengthening **local technical capacity to control national data independently** — around
   the National AI & Emerging Technologies Strategy (ISO/IEC 42001-aligned; see [[uganda--tech-ai]]).
   *(PR-wire source; verify against CIPESA's own account.)* Source: [[2026-05-08-cipesa-uganda-digital-rights-dialogue]].
+
+## The HRIA that was asked for and is not recorded as done
+
+**CHRGJ (NYU)**, **ISER** and **HEAPI** jointly recommended a comprehensive **Human Rights Impact
+Assessment** of the national ID system on **2024-07-25** — **before** mass enrolment began (May
+2025), **before** the ISER judgment (Jun 2025), and **before** the NIRA database breach (Sep
+2025). See [[dpi.id]], [[uganda--dpi-id]]. Source:
+[[2024-07-25-chrgj-iser-heapi-seizing-opportunity-uganda-digital-id]].
 
 ## Reads
 

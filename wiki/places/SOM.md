@@ -190,7 +190,7 @@ market's velocity.
   Bank SCALED-UP revised closing date of 2026-06-30), built to end offshore hosting of government data;
   Starlink licensed (Apr 2025, live Aug); AstaanConnect reseller; 10.7m internet users (2025);
   IPv6 migration; IFC submarine-cable working group; **EAC e-Passport** adoption (Feb 2026); Horn of
-  Africa integration. Full case: [[somalia--infra-connect]].
+  Africa integration. Full case: [[somalia--infra-connect]]. Full case: [[somalia--infra-store]].
 
 ## Entities
 

@@ -59,11 +59,11 @@ Values outside the vocabularies are rejected.
 
 | | Count |
 |---|---|
-| Sources of record (`raw/`) | 4,679 markdown + 297 binary artefacts |
+| Sources of record (`raw/`) | 4,665 markdown + 297 binary artefacts |
 | Entity pages | 1,741 |
 | Place hubs | 62 (54 countries + 8 regions — full roster) |
 | Concept pages | 36 (full taxonomy) |
-| Intersections | 273 |
+| Intersections | 290 |
 | Parked leads | 30 |
 | Open contradictions | 0 (84 resolved) |
 | Open acquisitions | 0 |

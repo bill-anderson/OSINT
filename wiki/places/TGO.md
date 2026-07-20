@@ -272,7 +272,7 @@ the payments, AML, civil-registry and e-ID-rollout threads.
 - [[dpi.mis]] — [[dhis2]] / [[stateduc]] education MIS via [[hisp-wca]]; DHIS2 as the **analytical**
   layer over CSPro/StatEduc collection, working best at regional level (2026-05-04), with [[gpe-itap]]
   finding no fully operational EMIS as of 2024-04-08. Full case: **[[togo--dpi-mis]]**.
-- [[infra.store]] · [[tech.ai]] — [[sin-togo]] / [[lome-data-centre]] sovereign cloud; Togo AI Lab national-language models (sovereign AI), TogoTech startups, Togo IGF, GRCRO AI-AML, Togo Digital 2025-2030 strategy. Full case: [[togo--tech-ai]].
+- [[infra.store]] · [[tech.ai]] — [[sin-togo]] / [[lome-data-centre]] sovereign cloud; Togo AI Lab national-language models (sovereign AI), TogoTech startups, Togo IGF, GRCRO AI-AML, Togo Digital 2025-2030 strategy. Full case: [[togo--tech-ai]]. Full case: [[togo--infra-store]].
 - [[gov.regional]] · [[finance.mou]] — ARTAO 23rd AGM (Lomé, broadband-PPP financing debate — [[2026-04-21-artao-ppp-haut-debit]]); Togo-Luxembourg TogoCyber+ cyber-cooperation agreements ([[2026-07-16-togo-luxembourg-accords-cybersecurite]]).
 - [[infra.connect]] · [[include.divides]] — **3.56m internet users, 37.0% penetration (Jan 2025)**,
   +2.2% YoY with the adoption rate unchanged; **6.06m people (63.0%) offline**; **7.53m mobile

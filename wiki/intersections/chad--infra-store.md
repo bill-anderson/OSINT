@@ -5,11 +5,11 @@ place: TCD
 topic: infra.store
 places: [TCD]
 topics: [infra.store, geopol.china, geopol.usa, infra.energy, finance.mou, data.satellite, dpi.mis, digital.rural]
-entities: [[chad-national-data-centre], [adetic], [arcep-chad], [pmice], [huawei]]
+entities: [[chad-national-data-centre], [adetic], [arcep-chad], [pmice], [huawei], [ansice], [techso-group], [flexenclosure], [tchad-connexion-2030], [chad-digital-transformation-project]]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-20
-sources: [[2025-01-08-data-center-national-souverainete-numerique], [2026-02-19-techafricanews-chad-azerbaijan-adetic-ict], [2026-01-29-tchad24-azercosmos-accord-spatial], [2026-01-08-mini-reseaux-solaires-cinq-villes], [2025-12-21-fibre-optique-moyen-chari-pmice-sarh], [2026-06-01-digitalbusiness-washington-partenariats-tech], [2020-05-08-ciomag-tchad-pret-eximbank-chine-tic], [2020-07-08-magazinedelafrique-tchad-lancement-pmice-financement-chine], [2025-01-10-agenceecofin-tchad-centre-donnees-national-finalisation]]
+sources: [[2025-01-08-data-center-national-souverainete-numerique], [2026-02-19-techafricanews-chad-azerbaijan-adetic-ict], [2026-01-29-tchad24-azercosmos-accord-spatial], [2026-01-08-mini-reseaux-solaires-cinq-villes], [2025-12-21-fibre-optique-moyen-chari-pmice-sarh], [2026-06-01-digitalbusiness-washington-partenariats-tech], [2020-05-08-ciomag-tchad-pret-eximbank-chine-tic], [2020-07-08-magazinedelafrique-tchad-lancement-pmice-financement-chine], [2025-01-10-agenceecofin-tchad-centre-donnees-national-finalisation], [2026-02-06 ADETIC, ANSICE, and TECHSO-GROUP Join Forces to Protect Chad's Digital Infrastructure], [2026-02-06 Chad Moves to Secure National Data Center Ahead of Launch], [2026-01-06 Chad invests 175m in national data center and networks]]
 ---
 
 # Chad × Data Centre & the Geopolitics of Infrastructure
@@ -46,6 +46,33 @@ the US. The buildings are national; the builders are foreign.
   GSM/3G/4G — was inaugurated at **Sarh, Moyen-Chari** (Safitel), extending digital beyond the capital
   ("digital must irrigate territories"). See [[digital.rural]]. Source:
   [[2025-12-21-fibre-optique-moyen-chari-pmice-sarh]].
+
+- **The last pre-inauguration milestone (2026-02-05).** **[[adetic]]**, **[[ansice]]** and
+  **[[techso-group]]** signed a **tripartite security-audit and certification agreement**;
+  **Phase 1 — the building plus operational equipment — is already complete** (2026-02-06), leaving
+  audit and certification against critical-infrastructure standards as the last step. The agreement
+  also covers **100 micro-data centres** across government institutions, interconnected with the NDC.
+  ADETIC DG **Adoum Djimet Saboun**: "a strategic base for **sovereign housing of state data** and
+  continuity of public digital services." *(A 2026-02-13 telecoms piece calls the NDC "under
+  construction" — loose background phrasing; prefer the specific, on-topic 2026-02-06 accounts.)*
+  See [[infra.cybersec]]. Sources:
+  [[2026-02-06 ADETIC, ANSICE, and TECHSO-GROUP Join Forces to Protect Chad's Digital Infrastructure]],
+  [[2026-02-06 Chad Moves to Secure National Data Center Ahead of Launch]].
+- **Three money figures that must not be added up.** No source states how they relate; they are not
+  versions of one another:
+  - **[[pmice]]** (State Connectivity Infrastructure Modernization Project) — **€175.1m /
+    US$204.7m** for Phase I, covering the National Data Center plus **1,200 km** of fibre and
+    nationwide GSM/3G/4G; commencement announced **20 Dec 2025**. PMICE was **originally costed
+    $180m** and financed by an **Eximbank whose country of origin the source does not state** (a 2023
+    World Bank document) — supersession against the 2020 China-Eximbank terms above, recorded dated,
+    not a contradiction. Source: [[2026-01-06 Chad invests 175m in national data center and networks]].
+  - **[[tchad-connexion-2030]]** — the **US$1.5bn** national umbrella strategy.
+  - The World Bank **[[chad-digital-transformation-project]]** (P180000 / PAD00070) — **US$120m**
+    total including an SDR 69.5m (**US$92.2m**) IDA grant (board **19 Dec 2023**, PAD **4 Sep 2024**).
+- **The 2016 predecessor, for scale.** Chad's **first** data centre (2016) cost **$6m**: **374 sqm**,
+  built in Sweden by **[[flexenclosure]]**, shipped to N'Djamena, designed for a **400 kW** IT load.
+- **What is still undisclosed.** Capacity, IT load, tier rating and operator of the National Data
+  Centre remain genuinely undisclosed **as of 2026-07-20**.
 
 ## Courting every bloc
 

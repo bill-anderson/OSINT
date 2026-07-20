@@ -5,11 +5,11 @@ place: NGA
 topic: infra.store
 places: [NGA]
 topics: [infra.store, infra.energy, gov.policy, gov.legislate, gov.protect, tech.ai, geopol.usa]
-entities: [[kasi-cloud], [nsia], [ncc], [equinix], [africa-data-centres], [cbn]]
+entities: [[kasi-cloud], [nsia], [ncc], [equinix], [africa-data-centres], [cbn], [galaxy-backbone], [fccpc], [fringe-infrastructure], [unicloud-africa], [backbone-connectivity-network-nigeria], [nigeria-eqguinea-subsea-cable]]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-19
-sources: [[2026-05-22 Why global hyperscalers are avoiding Nigeria despite Africa's biggest market], [2026-02-26 Lagos Is Getting a $250 Million Hyperscale Data Center. Here's Why Nigeria Still Can't Power the Cloud], [2026-05-21 Africa Data Center Investment 2026 The $4.5B Race and the Power Problem], [2026-07-10 Nigeria tests data sovereignty as foreign tech firms facing probe], [2026-07-10 CBN's Data Localisation Directive Puts Nigerian Fintechs In A Cloud Dilemma], [2025-09-10-1gov-cloud-galaxy-backbone], [2026-03-05-cassava-national-sovereign-cloud], [2026-06-10-21st-century-china-mobile-sovereign-cloud], [2025-12-08-data-centre-capacity-400mw-2030-verraki], [2026-05-05-gbb-ondi-subsidised-sovereign-cloud-startups], [2026-05-28-kasi-cloud-los1-hyperscale-flagoff], [2025-03-24-visa-data-centre-1-billion], [2025-11-10-equinix-lg3-22m-lagos-data-centre], [2025-01-14-aws-accepts-naira-payments], [2025-03-20-rack-centre-data-sovereignty]]
+last_reviewed: 2026-07-20
+sources: [[2026-05-22 Why global hyperscalers are avoiding Nigeria despite Africa's biggest market], [2026-02-26 Lagos Is Getting a $250 Million Hyperscale Data Center. Here's Why Nigeria Still Can't Power the Cloud], [2026-05-21 Africa Data Center Investment 2026 The $4.5B Race and the Power Problem], [2026-07-10 Nigeria tests data sovereignty as foreign tech firms facing probe], [2026-07-10 CBN's Data Localisation Directive Puts Nigerian Fintechs In A Cloud Dilemma], [2025-09-10-1gov-cloud-galaxy-backbone], [2026-03-05-cassava-national-sovereign-cloud], [2026-06-10-21st-century-china-mobile-sovereign-cloud], [2025-12-08-data-centre-capacity-400mw-2030-verraki], [2026-05-05-gbb-ondi-subsidised-sovereign-cloud-startups], [2026-05-28-kasi-cloud-los1-hyperscale-flagoff], [2025-03-24-visa-data-centre-1-billion], [2025-11-10-equinix-lg3-22m-lagos-data-centre], [2025-01-14-aws-accepts-naira-payments], [2025-03-20-rack-centre-data-sovereignty], [2026-04-07 NITDA Assumes Control Of NGEA Infrastructure], [2026-07-01 Strategy Ahead of Infrastructure, Part I Inside the CBN's June 2026 Payments Circular], [2026-07-07 CBN's local data order puts Nigeria's data centres to test], [2026-02-05 Inside Kasi Cloud, Nigeria's first 100MW AI data centre in Lagos], [2026-01-08 Nigeria's digital future gets a boost with Fringe's Ikoyi Metro EDGE launch], [2026-02-24 Nigeria, Equatorial Guinea subsea cable strengthens connectivity], [2026-07-11 AWS in Africa]]
 ---
 
 # Nigeria × Data Storage
@@ -37,6 +37,7 @@ policy**, not physical racks.
   vandalism; Lagos-to-second-city transport can cost more than Lagos-to-South-Africa. A ~20 MW
   bitcoin-mining project **left Nigeria for Ethiopia** over electricity costs. Source:
   [[2026-05-22 Why global hyperscalers are avoiding Nigeria despite Africa's biggest market]].
+  AWS's sole African region is **Cape Town** ([[2026-07-11 AWS in Africa]]).
 - **The power penalty.** The grid has **never reliably exceeded 6 GW for ~230m people** (~41%
   availability); diesel backup runs **$0.40–0.50/kWh** (vs $0.05–0.10 grid in ZAF/KEN) and adds
   ~40% to opex; construction is **~$12/watt**. Power — not land or capital — is the ceiling on the
@@ -46,8 +47,10 @@ policy**, not physical racks.
   data in Nigeria by **1 Jan 2027** turns a policy question into a capacity race: NIBSS put 2024
   e-transactions at **₦1.07 quadrillion (~$702bn)**. Source:
   [[2026-07-10 Nigeria tests data sovereignty as foreign tech firms facing probe]]. A July-2026
-  analysis frames the push as domestication that is not automatically protection, urging
-  encryption and hybrid hosting over wholesale relocation. Source:
+  analysis frames the push as domestication that is not automatically protection — it sits in
+  tension with the cross-border-transfer safeguards of [[nigeria-data-protection-act-2023]] —
+  urging encryption/key-control and hybrid hosting over pure geography, since hyperscalers still
+  concentrate full-scale African DCs in South Africa. Source:
   [[2026-07-10 CBN's Data Localisation Directive Puts Nigerian Fintechs In A Cloud Dilemma]].
 
 ### Lagos data-centre cluster — 2025 build-out (backfill)
@@ -106,6 +109,42 @@ targets — reinforced by the CBN/NDPC data-localisation mandates (see [[nigeria
   [[2025-11-10-equinix-lg3-22m-lagos-data-centre]], [[2025-01-14-aws-accepts-naira-payments]],
   [[2025-12-08-data-centre-capacity-400mw-2030-verraki]], [[2025-03-20-rack-centre-data-sovereignty]].
 
+## State hosting, the competition probe, and further builds (2026)
+
+- **Government cloud on a national backbone (2026-04).** Nigeria's **NGEA** government enterprise
+  architecture — now run by **NITDA** (built with Korea's KOICA) — is **hosted by
+  [[galaxy-backbone]]**, the state carrier, as the "secure, resilient" environment for MDA
+  interoperability under **e-Government Masterplan 2.0** — state-owned hosting as govtech substrate.
+  See [[dpi.govtech]], [[dpi.exchange]], [[gov.standards]]. Source:
+  [[2026-04-07 NITDA Assumes Control Of NGEA Infrastructure]].
+- **Sovereignty probe alongside the onshoring deadline (2026-07).** The FG directed the
+  **[[fccpc]]** to probe **Meta/Alphabet/X** and GenAI platforms for anti-competitive practices
+  (after a press-industry petition; cf. FCCPC's 2025 **$222m** Meta penalty, under appeal) — the
+  competition arm of the same sovereignty push as the [[cbn]] onshoring mandate. See
+  [[gov.protect]], [[dpi.pay]]. Source:
+  [[2026-07-10 Nigeria tests data sovereignty as foreign tech firms facing probe]].
+- **Sequencing the mandate against the grid.** Analyst Anjola Adebowale puts **[[ZAF]] at ~70% of
+  the continent's digital-infrastructure capacity** and argues localisation rules ([[cbn]],
+  **1 Jan 2027**) must be *sequenced* against grid and data-centre milestones, not mandated ahead of
+  them — putting Nigeria at ~**26 facilities / ~75 MW**. Operators say physical capacity is *not* the
+  constraint; the gap is **local cloud-compute and storage platforms** to replace AWS/Azure/Google,
+  plus power and skills, and the "smoothest path" is pulling hyperscalers to deploy **local cloud
+  regions**. Sources:
+  [[2026-07-01 Strategy Ahead of Infrastructure, Part I Inside the CBN's June 2026 Payments Circular]],
+  [[2026-07-07 CBN's local data order puts Nigeria's data centres to test]].
+- **More Lagos capacity (2025–26).** **[[kasi-cloud]]**'s Lekki campus is positioned as Nigeria's
+  first **AI-purpose-built hyperscale** site (up to **100 MW** at full density, $250m, 2026-02);
+  **[[fringe-infrastructure]]** launched **Ikoyi Metro EDGE** (2026-01); and
+  **[[unicloud-africa]]**+BDIC built a Makurdi DC (2024). Sources:
+  [[2026-02-05 Inside Kasi Cloud, Nigeria's first 100MW AI data centre in Lagos]],
+  [[2026-01-08 Nigeria's digital future gets a boost with Fringe's Ikoyi Metro EDGE launch]].
+- **A data centre inside the subsea deal (2026-02).** The Nigeria–Equatorial Guinea subsea agreement
+  ([[backbone-connectivity-network-nigeria]], [[nigeria-eqguinea-subsea-cable]]) bundles a
+  **commercial data centre**, so local hosting rides in on the cross-border cable — localised storage
+  to cut the European routing detour. See [[gnq--infra-store]], [[infra.connect]],
+  [[gov.regional]]. Source:
+  [[2026-02-24 Nigeria, Equatorial Guinea subsea cable strengthens connectivity]].
+
 ## Links
 
 Place: [[NGA]] · Concepts: [[infra.store]] · [[infra.energy]] · [[infra.connect]] ·
@@ -126,3 +165,9 @@ Intersection: [[nigeria--gov-protect]] · Entities: [[kasi-cloud]] · [[ncc]] ·
 - [[2025-08-25 Digital Realty launches a 2MW data center (LKK2) in Lagos, Nigeria]]
 - [[2025-03-24 Open Access Data Centres to expand Lagos facility to 24MW by 2027]]
 - [[2026-07-16 Nigeria - Submarine Networks]]
+- [[2026-04-07 NITDA Assumes Control Of NGEA Infrastructure]]
+- [[2026-07-01 Strategy Ahead of Infrastructure, Part I Inside the CBN's June 2026 Payments Circular]]
+- [[2026-07-07 CBN's local data order puts Nigeria's data centres to test]]
+- [[2026-02-05 Inside Kasi Cloud, Nigeria's first 100MW AI data centre in Lagos]]
+- [[2026-01-08 Nigeria's digital future gets a boost with Fringe's Ikoyi Metro EDGE launch]]
+- [[2026-02-24 Nigeria, Equatorial Guinea subsea cable strengthens connectivity]]

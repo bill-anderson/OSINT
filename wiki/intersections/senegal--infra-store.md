@@ -8,8 +8,8 @@ topics: [infra.store, geopol.china, geopol.usa, finance.new, infra.capacity, dpi
 entities: [[paix-data-centres], [senegal-numerique], [sonatel], [huawei], [google-senegal-sovereign-cloud]]
 lens: [sovereignty, colonialism]
 status: active
-last_reviewed: 2026-07-19
-sources: [[2025-01-27-paix-dakar-data-center-connectingafrica], [2025-03-26-senum-sonatel-partnership], [2025-03-27-huawei-partnership-digital-sovereignty], [2025-06-27-lesoleil-senegal-huawei-accord], [2026-04-29-africabusinessinsight-senegal-alibaba-sovereign-cloud]]
+last_reviewed: 2026-07-20
+sources: [[2025-01-27-paix-dakar-data-center-connectingafrica], [2025-03-26-senum-sonatel-partnership], [2025-03-27-huawei-partnership-digital-sovereignty], [2025-06-27-lesoleil-senegal-huawei-accord], [2026-04-29-africabusinessinsight-senegal-alibaba-sovereign-cloud], [2024-10-04 Senegal launches sovereign cloud initiative with Google], [2025-01-23 PAIX Data Centres breaks ground on Dakar data center]]
 ---
 
 # Senegal × Data Centres & Sovereign Cloud
@@ -23,7 +23,8 @@ abroad. The build is a **US–China contest**: Google/AWS on one side, Huawei/Al
 - **PAIX Dakar (from 2025).** **[[paix-data-centres]]** is building a Dakar facility (1.2MW / 918 sqm,
   Les Mamelles — see [[SEN]] hub), online **2026**, leveraging Dakar's submarine-cable landings; PAIX
   also runs Ghana/Kenya sites with four more under construction. Source:
-  [[2025-01-27-paix-dakar-data-center-connectingafrica]].
+  [[2025-01-27-paix-dakar-data-center-connectingafrica]]. Groundbreaking was **Jan 2025** on a
+  **1.2 MW Dakar** build. Source: [[2025-01-23 PAIX Data Centres breaks ground on Dakar data center]].
 - **SENUM × Sonatel (Mar 2025).** **[[senegal-numerique]]** and **[[sonatel]]** partnered on four
   fronts — reliable connectivity, **sovereign cloud & data-centre solutions**, public-service
   digitisation, and innovation/training — including **interconnecting their submarine cables** for
@@ -34,7 +35,8 @@ abroad. The build is a **US–China contest**: Google/AWS on one side, Huawei/Al
 
 - **Google (Sep 2024, baseline).** The founding sovereign-cloud MoU (**[[google-senegal-sovereign-cloud]]**)
   to keep critical data onshore — the US anchor (with the AWS Wavelength data-residency zones in Orange
-  DCs). See [[geopol.usa]], [[SEN]] hub.
+  DCs). Signed **2024-10** to keep critical data onshore. See [[geopol.usa]], [[SEN]] hub. Source:
+  [[2024-10-04 Senegal launches sovereign cloud initiative with Google]].
 - **Huawei (2025).** A March meeting (Sall–Shen Li) floated **5G, sovereign cloud** and **$14 (8,000 CFA)
   smartphones**; then, during PM Sonko's June visit to China, Senegal and Huawei signed a **strategic
   accord** — **data-centre modernisation** (performance, cybersecurity, green tech), a domestic **IT

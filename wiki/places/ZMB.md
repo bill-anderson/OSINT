@@ -436,7 +436,7 @@ The third is **evidentiary**: the headline numbers disagree. Penetration spans *
   whole-of-government digitisation ([[zamportal]]/[[zampay]]; SMART Office e-registry; PMIS; CTMIS; LCC first
   of 116 councils; GWAN NW Province; SmartCare Pro 80%); ZamPortal / eServices (≈300 of ~1,500 services); the
   online passport system; the e-Government (Amendment) Bill (anti-corruption framing). · [[infra.cybersec]] ·
-  [[gov.protect]] — Chinese smart-city surveillance (Lusaka) without oversight; the 2025 cyber Acts.
+  [[gov.protect]] — Chinese smart-city surveillance (Lusaka) without oversight; the 2025 cyber Acts. Full case: [[zambia--gov-protect]].
 - [[geopol.usa]] · [[dpi.mis]] — AFGHS health-data pushback ([[zambia-us-health-mou]]).
   · [[geopol.china]] — [[huawei]]/[[zte]] infrastructure and surveillance supply.
 - [[infra.connect]] · [[digital.rural]] · [[gov.regional]] — extracted: **[[zambia--infra-connect]]** (fibre

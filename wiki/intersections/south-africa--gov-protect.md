@@ -9,7 +9,7 @@ entities: [[popia], [information-regulator-south-africa], [statistics-south-afri
 lens: [sovereignty, colonialism]
 status: active
 last_reviewed: 2026-07-19
-sources: [[2025-01-01 South African Digital Sovereignty at the Crossroad of Securitization and Development (Chapter 4) - Digital Sovereignty in the BRICS Countries], [2026-07-09 Anthropic's Claude to bolster data sovereignty in SA], [2025-04-15-mandatory-eportal-breach-reporting], [2025-05-08-popia-regulations-amendments], [2025-07-16-cybersecurity-counter-intelligence-priority], [2025-11-13-data-breaches-surge-40-percent], [2026-03-30-statssa-ransomware-attack], [2026-04-14-inforeg-788-breaches-q1], [2026-04-20-cpa-direct-marketing-optout-regs], [2026-06-04-college-popia-probe], [2026-06-14-inforeg-first-enforcement-notice-2026], [2026-06-16-paia-enforcement-mining-house-sibanye], [2026-06-18-misdirected-email-enforcement-notice], [2026-07-06-popia-five-years-nobody-accountable]]
+sources: [[2025-01-01 South African Digital Sovereignty at the Crossroad of Securitization and Development (Chapter 4) - Digital Sovereignty in the BRICS Countries], [2026-07-09 Anthropic's Claude to bolster data sovereignty in SA], [2026-05-29 Opinion South Africa's Digital Identity Regulations A Governance Crossroads], [2026-03-31 Concerns over South Africa's proposed digital ID system from traditional leaders], [2025-04-15-mandatory-eportal-breach-reporting], [2025-05-08-popia-regulations-amendments], [2025-07-16-cybersecurity-counter-intelligence-priority], [2025-11-13-data-breaches-surge-40-percent], [2026-03-30-statssa-ransomware-attack], [2026-04-14-inforeg-788-breaches-q1], [2026-04-20-cpa-direct-marketing-optout-regs], [2026-06-04-college-popia-probe], [2026-06-14-inforeg-first-enforcement-notice-2026], [2026-06-16-paia-enforcement-mining-house-sibanye], [2026-06-18-misdirected-email-enforcement-notice], [2026-07-06-popia-five-years-nobody-accountable]]
 ---
 
 # South Africa × Data Protection
@@ -47,6 +47,26 @@ build-out is now forcing the choice into procurement.
   (Transnet, DBSA; SEACOM reporting 220m+ email threats in 2021). See [[infra.cybersec]],
   [[gov.legislate]]. Source:
   [[2025-01-01 South African Digital Sovereignty at the Crossroad of Securitization and Development (Chapter 4) - Digital Sovereignty in the BRICS Countries]].
+
+## Digital ID as the rights frontier (2026-03 → 05)
+
+The contested governance layer beneath South Africa's DPI is data protection — challenged both in
+the gazette and from below.
+
+- **The Burke critique (2026-05).** A critique of the DHA draft **Identification Regulations**
+  ([[sa-digital-id-regulations]], **gazetted 2026-05-04**) argues the framework concentrates power
+  in the **Director-General** and under-protects the data subject: **no right to erasure** of
+  biometric data, **implied consent**, **no citizen access logs or notification**, and no
+  selective disclosure — measured against **GDPR**, **eIDAS 2.0** and **Estonia's**
+  access-transparency model. See [[dpi.id]], [[south-africa--dpi-id]]. Source:
+  [[2026-05-29 Opinion South Africa's Digital Identity Regulations A Governance Crossroads]].
+- **Grassroots resistance (2026-03).** South African **traditional leaders** (Amadumisa, under
+  **UCoSA**) opposed the proposed digital-ID rollout, demanding prior consultation, public
+  education and possibly a **referendum** — citing fraud risk, rural exclusion (no
+  smartphones/connectivity) and privacy fears about biometrics/"microchips." Data protection
+  contested from below, not just in the gazette. See [[digital.rural]], [[include.divides]].
+  Source:
+  [[2026-03-31 Concerns over South Africa's proposed digital ID system from traditional leaders]].
 
 ## POPIA enforcement wakes up — but breaches outrun it (2025–26)
 
@@ -97,3 +117,5 @@ Place: [[ZAF]] · Concepts: [[gov.protect]] · [[gov.policy]] · [[dpi.exchange]
 
 - [[2025-01-01 South African Digital Sovereignty at the Crossroad of Securitization and Development (Chapter 4) - Digital Sovereignty in the BRICS Countries]]
 - [[2026-07-09 Anthropic's Claude to bolster data sovereignty in SA]]
+- [[2026-05-29 Opinion South Africa's Digital Identity Regulations A Governance Crossroads]]
+- [[2026-03-31 Concerns over South Africa's proposed digital ID system from traditional leaders]]

@@ -333,7 +333,7 @@ last_reviewed: 2026-07-20
 
 - [[dmap]] · [[world-bank]] · [[malawi-revenue-authority]] · [[blantyre-city-council]] · [[ppda-malawi]]
 - [[malawi-ministry-of-ict]] · [[undp]] · [[malawi-data-protection-act-2024]]
-- Intersections: [[malawi--dpi-id]] · [[malawi--dpi-govtech]] · [[malawi--infra-connect]] · [[malawi--infra-store]] · [[malawi--dpi-pay]] · [[malawi--tech-ai]]
+- Intersections: [[malawi--dpi-id]] · [[malawi--dpi-govtech]] · [[malawi--infra-connect]] · [[malawi--infra-store]] · [[malawi--dpi-pay]] · [[malawi--tech-ai]] · [[malawi--gov-protect]]
 - [[national-registration-bureau-malawi]] (PS Patrick Machika) · [[idt4m]] · [[macra-malawi]]
 - [[reserve-bank-of-malawi]] · [[malawi-electoral-commission]] · [[comesa]] · [[ictam]] · [[tnm-malawi]] · [[airtel-malawi]] · [[sparc-systems]] · [[paychangu]] · [[malswitch]] · [[malawi-language-data-trust]]
 - [[hmis-malawi-livingstonia]] · [[dhis2]] · [[his-developing-countries-review]]

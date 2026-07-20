@@ -5,6 +5,32 @@ contradictions found, and open `needs-review` flags.
 
 ---
 
+## 2026-07-20 — Lint #8 (bloat): two concept pages split, entities-index sharded
+
+gov.protect 6,916 -> 4,434 words; infra.store 6,133 -> 4,133. Both restructured to the
+infra.connect template (continental/thematic left intact, `## By place` with Extracted/Indexed).
+17 intersections created, 14 merged; all 17 place-hub links applied centrally. Verified: every
+link dropped from a parent landed on an intersection — 0 lost on gov.protect, 2 on infra.store,
+both restored (NDPA cross-border tension on nigeria--infra-store; AWS/Microsoft on the ETH line).
+
+entities-index 26,940 -> 126-word parent + 9 type shards. 1,741 entries in, 1,741 out, verified
+by sorted comm both ways.
+
+gov.regional judged **thematic — not split**. Its place-prefixed cells are mostly blocs (XEA/XWA/
+XAF), and blocs are entities here, not places. Two defects fixed instead: the 2nd AfCFTA Digital
+Trade Forum was covered twice (merged), and algeria--/morocco--gov-regional existed unlinked from
+the concept page (§4 wants both ends).
+
+**Two pages carried facts with no citations.** gabon--gov-protect and caf--infra-store were
+extracted with empty `sources:` — but the primaries were held all along (loi n°025/2023, the 2020
+ordonnance, the Huawei/Greenline/AIAL/PAD4661 set). Cited now. Neither is an acquisition: the
+wiki had the documents, the parent page just never cited them.
+
+log.md is 102k words and by our own standard too long to skim. Every entry is <2 weeks old, so
+the delete-after-a-month rule does not bite yet. Flagged, not touched.
+
+Revert: `git revert` the individual lint commits; do not path-checkout, the passes interleave.
+
 ## 2026-07-20 — Lint #4 (dead links): 70 body-prose targets triaged, 56 closed
 
 13 pages created, 10 links rewired, 35 unlinked, 14 left. New pages: mario-oliveira, edf,

@@ -170,6 +170,6 @@ was **relaunched** (2026) for local peering and lower transit costs. Sources:
 - Deals: [[gabon-huawei-mou]] · [[gabon-huawei-kimba-connect-accord]] ·
   [[gabon-sgg-startup-guarantee-accord]] · [[gabon-uncdf-financial-inclusion-deal]] ·
   [[gabon-visa-partnership-deal]] · [[gabon-ign-fi-cadastre-deal]]
-- Intersections: [[gabon--dpi-id]] · [[gabon--dpi-govtech]] · [[gabon--dpi-pay]] · [[gabon--infra-store]] · [[gabon--infra-cybersec]] · [[gabon--tech-innovate]]
+- Intersections: [[gabon--dpi-id]] · [[gabon--dpi-govtech]] · [[gabon--dpi-pay]] · [[gabon--infra-store]] · [[gabon--infra-cybersec]] · [[gabon--tech-innovate]] · [[gabon--gov-protect]]
 - Mentioned, not hubbed: Alban Etho (SGG director-general); CN-TIPPEE; GIMAC/GIMACPAY;
   Semlex; ID30; IKA Technology; MITRE; CNAMGS; ANUTTC; Airtel Gabon; Moov Africa Gabon Telecom.

@@ -327,6 +327,7 @@ last_reviewed: 2026-07-20
   ANEC/Nékkal civil-registration modernisation.
 - [[senegal--dpi-pay]] — digital payments & fintech: the mobile-money tax debate, GSMA financial-inclusion
   data, and SEN-CSU's digital-payments-driven universal health coverage.
+- [[senegal--gov-protect]]
 
 ## Entities
 

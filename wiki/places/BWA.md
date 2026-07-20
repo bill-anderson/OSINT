@@ -152,7 +152,7 @@ An **upper-middle-income, comparatively strong-performing** Southern-African dig
 
 - **Data protection** → **[[botswana--gov-protect]]**. The **[[botswana-data-protection-act-2024]]** (effective
   14 Jan 2025) finally replaced the stillborn 2018 Act; **[[information-data-protection-commission-botswana]]** empowered.
-- **Data centres & sovereignty** ([[infra.store]]) — the **[[bofinet]]** Digital Delta national DC (Tier III, 2025).
+- **Data centres & sovereignty** ([[infra.store]]) — the **[[bofinet]]** Digital Delta national DC (Tier III, 2025). Full case: [[botswana--infra-store]].
 - **Digital payments** ([[dpi.pay]]) — [[bank-of-botswana]] Digital BoB2024; [[smartswitch-botswana]] biometric
   UEPS cards; [[tcib]] SADC cross-border rails.
 - **Digital identity** ([[dpi.id]]) — digital **Omang** / Electronic Identification System ([[omang-digital-id-botswana]]);

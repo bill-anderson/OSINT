@@ -50,7 +50,7 @@ One of the **world's poorest countries building digital public infrastructure al
 ## Active topics
 
 - **Digital identity** → **[[burundi--dpi-id]]**. A repeatedly-delayed biometric national ID now "technically ready" but awaiting a law/decree ([[ministry-of-interior-burundi]]), a voter register produced amid coercion ([[ceni-burundi]]), a DP law passed to enable it, and **[[india-stack]]** cooperation being explored.
-- **Data protection & governance** ([[gov.protect]], [[gov.standards]]) — the first **[[burundi-data-protection-law-2026]]** (Jan 2026: independent authority + criminal penalties, Malabo-aligned, untested) and the **National Data Governance Strategy** (SNGD, Nov 2025, seven pillars, UNECA/[[au-data-policy-framework]]).
+- **Data protection & governance** ([[gov.protect]], [[gov.standards]]) — the first **[[burundi-data-protection-law-2026]]** (Jan 2026: independent authority + criminal penalties, Malabo-aligned, untested) and the **National Data Governance Strategy** (SNGD, Nov 2025, seven pillars, UNECA/[[au-data-policy-framework]]). Full case: [[burundi--gov-protect]].
 - **Payments** ([[dpi.pay]]) — the **[[bank-of-the-republic-of-burundi|BRB]]**'s **[[burundipay]]** instant-payment rail (Apr 2026; 22nd African IPS), ISO 20022 migration and AML/CFT overhaul; cash still dominates (~45% of value, Q2 2025).
 - **GovTech & tax** ([[dpi.govtech]], [[dpi.exchange]]) — **e-KORI** online tax + the **Guichet Unique**/ABREMA single window ([[obr-burundi]]); ICT coordination via **[[setic-burundi]]** under [[pafen-burundi]].
 - **AI** ([[tech.ai]]) — a six-pillar **National AI Strategy 2026–2030** ([[ministry-of-finance-budget-and-digital-economy-burundi]], [[undp]]), preceded by an AILA readiness diagnostic.

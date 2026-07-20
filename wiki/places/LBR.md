@@ -109,7 +109,7 @@ last_reviewed: 2026-07-18
 - [[dpi.id]] · [[dpi.registry]] · [[gov.protect]] — **[[national-identification-registry-liberia|NIR]]**
   national ID (EO 147, NBIS, NIN); **[[great-project-liberia|GREAT]]** WB project; [[techno-brain]] debt
   lock → **[[osd-international]]** PPP concession; no data-protection authority. Full case:
-  [[liberia--dpi-id]].
+  [[liberia--dpi-id]]. Full case: [[liberia--gov-protect]].
 - [[dpi.pay]] · [[include.access]] — **[[pay-na-na]]** instant-payment system (launched Dec 2025, <1%
   cost) via the **[[central-bank-of-liberia|CBL]]** on [[mojaloop]]; CBL mobile-money regulations.
 - [[dpi.govtech]] · [[gov.standards]] · [[infra.cybersec]] — **[[otdi-liberia|EO 163 / OTDI-NDMI]]**

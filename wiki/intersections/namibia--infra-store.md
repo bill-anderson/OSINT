@@ -9,7 +9,7 @@ entities: [[china-namibia-smart-city], [huawei], [emma-theofelus], [netumbo-nand
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-19
-sources: [[2025-09-23-namibia-expedites-data-centre-smart-city-development-itweb], [2026-02-19-grounding-the-cloud-in-namibia-namibiansun], [2026-07-08-nandi-ndaitwah-pushes-ai-jobs-huawei-talks-namibian], [2026-06-15 Namibia encouraged by Angola on datacentre establishment], [2025-09-22 Namibia to build national data centre under 2025-2029 digital strategy]]
+sources: [[2025-09-23-namibia-expedites-data-centre-smart-city-development-itweb], [2026-02-19-grounding-the-cloud-in-namibia-namibiansun], [2026-07-08-nandi-ndaitwah-pushes-ai-jobs-huawei-talks-namibian], [2026-06-15 Namibia encouraged by Angola on datacentre establishment], [2025-09-22 Namibia to build national data centre under 2025-2029 digital strategy], [2026-07-08 China funds Namibia digital infrastructure]]
 ---
 
 # Namibia × Data Centres & Sovereign Cloud
@@ -33,7 +33,8 @@ sovereignty — and, more ambitiously, to become a **green-powered AI-compute ho
   pilot]]**, **[[huawei]]** is building smart-city solutions and an **AI-ready national data centre** with MHAISS
   and MICT; President **[[netumbo-nandi-ndaitwah]]** pressed Huawei (Shenzhen) to create **AI jobs** and skills,
   while Huawei's Leo Chen pitched "strengthening data sovereignty." See [[geopol.china]], [[tech.ai]],
-  [[capacity.training]]. Source: [[2026-07-08-nandi-ndaitwah-pushes-ai-jobs-huawei-talks-namibian]].
+  [[capacity.training]]. Sources: [[2026-07-08-nandi-ndaitwah-pushes-ai-jobs-huawei-talks-namibian]],
+  [[2026-07-08 China funds Namibia digital infrastructure]].
 
 ## The green-AI-host thesis
 

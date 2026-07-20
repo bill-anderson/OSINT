@@ -9,7 +9,7 @@ entities: [[cbn], [ndpc], [multichoice-nigeria], [meta], [ndpc-meta-settlement],
 lens: [sovereignty, colonialism]
 status: active
 last_reviewed: 2026-07-20
-sources: [[2026-07-07 CBN's local data order puts Nigeria's data centres to test], [2026-06-09 Meta backs NDPC in landmark privacy initiative], [2026-06-17 Government data silos threaten Nigeria's AI ambitions], [2026-07-08 FG Halts Enforcement of New Regulations on Internet Platforms], [2026-07-10 CBN's Data Localisation Directive Puts Nigerian Fintechs In A Cloud Dilemma], [2026-07-10 FIJ Showed That INEC Broke Data Law. Digital Rights Lawyers Sue the Commission 10 Months Later], [2025-03-24-ndpc-probes-tiktok-truecaller], [2025-04-30-nigeria-joins-global-cbpr-privacy-forum], [2025-05-06-mastercard-ndpc-informal-sector-dpo], [2025-05-07-nigeria-virtual-privacy-academy], [2025-08-25-ndpc-probes-1369-organisations], [2026-02-06-ncc-ndpc-data-protection-mou], [2026-02-16-ndpc-probes-temu-data-protection], [2026-02-23-ndpc-probes-schools-data-privacy], [2026-04-07-ndpc-investigates-remita-sterling-breach], [2026-05-02-ndpc-4000-weekly-cyberattacks-data-localisation], [2025-03-19-senate-social-media-legislation], [2025-07-06-ndpc-multichoice-fine-statement]]
+sources: [[2026-07-07 CBN's local data order puts Nigeria's data centres to test], [2026-06-09 Meta backs NDPC in landmark privacy initiative], [2026-06-17 Government data silos threaten Nigeria's AI ambitions], [2026-07-08 FG Halts Enforcement of New Regulations on Internet Platforms], [2026-07-10 CBN's Data Localisation Directive Puts Nigerian Fintechs In A Cloud Dilemma], [2026-07-10 FIJ Showed That INEC Broke Data Law. Digital Rights Lawyers Sue the Commission 10 Months Later], [2026-03-04 Data Protection is the Next Frontier for Nigeria's Digital Economy, Says Samiat], [2026-02-27 Who Protects Nigeria's Digital Citizens Unmasking Accountability Gaps in Digital Rights Governance], [2026-02-02 NIN, Party e-registration and the NDPA 2023 When politics meets privacy (and why Nigerians should care)], [2026-03-07 Nigerians Groan Under Digital Identity Regime That Turns Basic Rights into Privileges], [2026-07-10 Nigeria tests data sovereignty as foreign tech firms facing probe], [2026-07-10 Why Nigeria Is Investigating Meta, Google, X and AI Firms], [2025-03-24-ndpc-probes-tiktok-truecaller], [2025-04-30-nigeria-joins-global-cbpr-privacy-forum], [2025-05-06-mastercard-ndpc-informal-sector-dpo], [2025-05-07-nigeria-virtual-privacy-academy], [2025-08-25-ndpc-probes-1369-organisations], [2026-02-06-ncc-ndpc-data-protection-mou], [2026-02-16-ndpc-probes-temu-data-protection], [2026-02-23-ndpc-probes-schools-data-privacy], [2026-04-07-ndpc-investigates-remita-sterling-breach], [2026-05-02-ndpc-4000-weekly-cyberattacks-data-localisation], [2025-03-19-senate-social-media-legislation], [2025-07-06-ndpc-multichoice-fine-statement]]
 ---
 
 # Nigeria × Data Protection
@@ -127,6 +127,49 @@ sanctions).
   operating remotely in Africa's most populous market. See [[gov.legislate]]. Source:
   [[2025-03-19-senate-social-media-legislation]].
 
+## The NDPA 2023 as frame — the trust deficit (2026-02/03)
+
+Nigerian analysis makes the **[[nigeria-data-protection-act-2023]]** (which created the
+**[[ndpc]]**) the reference point for a widening "trust deficit."
+
+- **Protection as economic infrastructure.** A specialist (**Samiat Akande**) reframes data
+  protection as economic *infrastructure* — investors judge jurisdictions on data governance, so
+  implementation, not statute, decides competitiveness, with GDPR the model to **shape rather than
+  follow**. See [[gov.legislate]], [[finance.new]]. Source:
+  [[2026-03-04 Data Protection is the Next Frontier for Nigeria's Digital Economy, Says Samiat]].
+- **Accountability gaps dominate.** Dataphyte (**Okediran**) catalogues a fragmented
+  digital-rights ecosystem: the **2021 seven-month Twitter/X suspension** (estimated cost up to
+  **₦10.72tn**), NITDA's **48-hour-takedown Code of Practice** (**>13.5m accounts deactivated by
+  mid-2025**), **Cybercrimes Act s.24** used against journalists, an alleged **2024 exposure of
+  ~43m NIN records** with no transparent breach notification, and — the structural flaw — an NDPC
+  **under ministerial control** (*"a regulator that needs ministerial clearance is hardly
+  independent"*). Source:
+  [[2026-02-27 Who Protects Nigeria's Digital Citizens Unmasking Accountability Gaps in Digital Rights Governance]].
+- **The NIN regime sharpens both.** A *Guardian* analysis (**Ikeh**) warns that party membership
+  **e-registration requiring a valid NIN** — the APC's nationwide drive, with alleged coercion of
+  Enugu civil servants — turns political affiliation, sensitive data, into **"surveillance
+  data"**, testing the NDPA's consent, purpose-limitation and DPIA duties. A **THISDAY**
+  investigation shows citizens **blocked from correcting** NIN errors (a device-locked
+  self-service portal; **72% of adults without smartphones**, per [[research-ict-africa]]) — a
+  **§24(1)(e) accuracy breach** that "converts regulatory failure into revenue." See
+  [[nimc]], [[dpi.id]], [[nigeria--dpi-id]]. Sources:
+  [[2026-02-02 NIN, Party e-registration and the NDPA 2023 When politics meets privacy (and why Nigerians should care)]],
+  [[2026-03-07 Nigerians Groan Under Digital Identity Regime That Turns Basic Rights into Privileges]].
+
+Data protection as Nigeria's contested rights layer.
+
+## Competition law as a platform lever (2026-07)
+
+Abuja opened an **[[fccpc]]** probe (FG directive **2026-07-10**, after a Nigerian Press
+Organisation petition) into alleged anti-competitive practices by **[[meta]]**,
+Alphabet/[[google]], **X** and generative-AI platforms — the competition-law flank to
+enforcement, paired with the [[cbn]] onshoring mandate as a twin "data sovereignty" test of
+regulatory reach over foreign firms. It cites the NDPC's prior **₦7.2bn** privacy penalties. The
+FCCPC's **2025 $222m Meta penalty** (consumer-protection breaches) is **under appeal**, and is
+**distinct from the [[ndpc]] data-protection track**. See [[gov.legislate]], [[tech.industry]].
+Source: [[2026-07-10 Nigeria tests data sovereignty as foreign tech firms facing probe]],
+[[2026-07-10 Why Nigeria Is Investigating Meta, Google, X and AI Firms]].
+
 ## Reads
 
 - `sovereignty`: data repatriation, onshore cloud spend, law-enforcement access, "national
@@ -150,5 +193,11 @@ Place: [[NGA]] · Concepts: [[gov.protect]] · [[gov.legislate]] · [[infra.stor
 - [[2026-07-08 FG Halts Enforcement of New Regulations on Internet Platforms]]
 - [[2026-07-10 CBN's Data Localisation Directive Puts Nigerian Fintechs In A Cloud Dilemma]]
 - [[2026-07-10 FIJ Showed That INEC Broke Data Law. Digital Rights Lawyers Sue the Commission 10 Months Later]]
+- [[2026-03-04 Data Protection is the Next Frontier for Nigeria's Digital Economy, Says Samiat]]
+- [[2026-02-27 Who Protects Nigeria's Digital Citizens Unmasking Accountability Gaps in Digital Rights Governance]]
+- [[2026-02-02 NIN, Party e-registration and the NDPA 2023 When politics meets privacy (and why Nigerians should care)]]
+- [[2026-03-07 Nigerians Groan Under Digital Identity Regime That Turns Basic Rights into Privileges]]
+- [[2026-07-10 Nigeria tests data sovereignty as foreign tech firms facing probe]]
+- [[2026-07-10 Why Nigeria Is Investigating Meta, Google, X and AI Firms]]
 - Corroborating primary (parked): the CBN circular of 2026-06-15, reproduced in
   `_leads/The CBN Data Localization Mandate - Cencori.md` — to be obtained directly.

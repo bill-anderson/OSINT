@@ -250,7 +250,7 @@ supervision centre for critical digital infrastructure.
   intranet; sovereignty framing under military rule.
 - [[infra.store]] · [[infra.cybersec]] — **"zero data abroad"** localization: **[[bf-national-datacenters]]**
   (two Ouagadougou mini data centres, Jan 2026, 3,000 TB/7,000 VMs + planned national Big Data Centre ~2028);
-  the **Digital Infrastructure Supervision Center** (~$5.4m, del. Oct 2026); national hosting via PM circular.
+  the **Digital Infrastructure Supervision Center** (~$5.4m, del. Oct 2026); national hosting via PM circular. Full case: [[burkina-faso--infra-store]].
 - [[gov.regional]] — **AES** digital sovereignty bloc with Mali and Niger;
   mutualised Sahel data-centre infrastructure; broke from ECOWAS.
 - **Digital identity & CRVS** → **[[burkina-faso--dpi-id]]**. The **[[cib-aes]]** AES biometric card
@@ -258,6 +258,7 @@ supervision centre for critical digital infrastructure.
   DPI meets Sahel sovereignty.
 - [[dpi.pay]] · [[dpi.govtech]] — **[[faso-arzeka]]** government payments (USSD *700#); SYC@D land cadastre.
 - [[tech.ai]] — national **AI Action Plan 2026–2028** (data governance a focus area).
+- [[gov.protect]] — full case: [[burkina-faso--gov-protect]].
 
 ## Entities
 

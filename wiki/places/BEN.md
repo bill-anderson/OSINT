@@ -284,7 +284,7 @@ last_reviewed: 2026-07-11
   ANIP citizen mobile wallet; **[[ifc]]** $100m/yr hub ambition; WARDIP2 $137m broadband + services.
 - [[gov.protect]] · [[infra.cybersec]] — **[[apdp-benin]]** working DPA (2025: 907 files, 75 certs,
   14 sanctions; AI policy; AFAPDP VP / INPDPA; Senegal + Mali conventions); maiden national cybersecurity
-  report (2021-24); Cyber Africa Forum PKI / trust-services deals.
+  report (2021-24); Cyber Africa Forum PKI / trust-services deals. Full case: [[benin--gov-protect]].
 - [[dpi.registry]] · [[digital.localgov]] — **[[andf-benin]]** e-Foncier national cadastre (445k+ parcels;
   décret 2025-176 CEC mandatory; Netherlands PMAF/PPMEC) + national addressing + GIS urban registries.
 - [[gov.regional]] · [[gov.standards]] · [[gov.policy]] — SADX + Smart Africa Digital ID

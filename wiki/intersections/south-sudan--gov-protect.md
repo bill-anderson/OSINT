@@ -43,6 +43,20 @@ withheld text raise abuse concerns.
   2026 — see [[SSD]] hub). Alignment sought with the Penal Code and the **AU Malabo Convention**. See
   [[capacity.literacy]]. Source: [[2025-11-20-digital-rights-ignorance-feature-radiotamazuj]].
 
+## A UN body reads a fiscal platform as surveillance infrastructure (2025-09-16)
+
+The **UN Commission on Human Rights in South Sudan** found that the **Ministry of Finance**
+approved single-sourcing to **Crawford Capital** in **October 2019** *"noting the National
+Security concern attached to the project"*, following written advice from **Akol Koor Kuc**, then
+Director-General of the **Internal Security Bureau**, that Crawford *"should work in partnership
+with the ISB ICT Department since they are aiming to create **huge databases** and integration of
+services that can be accessed online."*
+
+The Commission concludes the e-Services are *"likely to be used without any consideration for
+personal data protection to facilitate unlawful State surveillance of citizens, an established
+tactic of repression in South Sudan."* **That inference is the Commission's, not this wiki's.**
+See [[dpi.govtech]], [[south-sudan--dpi-govtech]].
+
 ## Reads
 
 - `sovereignty`: enacting cyber-*crime* powers first and data-*protection* rights later inverts the

@@ -243,6 +243,6 @@ last_reviewed: 2026-07-19
 - [[telecom-namibia]] · [[telecom-namibia-angola-deals]] · [[emma-theofelus]] · [[paratus]] · [[starlink]] · [[cran]]
 - [[namibia-civil-registration-identification-act-2024]] · [[namibia-digital-id]] · [[ministry-home-affairs-namibia]] · [[mtc-namibia]] · [[bipa-namibia]]
 - [[bank-of-namibia]] · [[namibia-payment-system-management-act-2023]] · [[papss]] · [[undp]] · [[namibia-data-protection-bill]] · [[nam-csirt]] · [[instant-payments-namibia]]
-- Intersections: [[namibia--infra-connect]] · [[namibia--dpi-id]] · [[namibia--infra-cybersec]] · [[namibia--infra-store]]
+- Intersections: [[namibia--infra-connect]] · [[namibia--dpi-id]] · [[namibia--infra-cybersec]] · [[namibia--infra-store]] · [[namibia--gov-protect]]
 - Mentioned, not hubbed: Ministry of ICT; Registrar-General (Etienne Maritz, MHAISS ED); Leo Chen (Huawei
   Enterprise); INFOSI, GGPEN, Angola Telecom, SATCAB; NamX / Nampay; Armada / Virtual Space Data Centre.

@@ -5,11 +5,11 @@ place: ZAF
 topic: infra.store
 places: [ZAF]
 topics: [infra.store, infra.energy, infra.capacity, gov.policy, tech.ai, finance.new]
-entities: [[google], [equinix], [microsoft], [cassava-technologies], [nvidia], [cyril-ramaphosa], [teraco], [africa-data-centres], [stanlib]]
+entities: [[google], [equinix], [microsoft], [cassava-technologies], [nvidia], [cyril-ramaphosa], [teraco], [africa-data-centres], [stanlib], [equinix-sa-438m-expansion], [microsoft-sa-2026-expansion], [mtn-group], [axiz]]
 lens: [sovereignty, colonialism]
 status: active
-last_reviewed: 2026-07-19
-sources: [[2026-02-25 South Africa puts data centres on par with energy, ports in big policy shift], [2026-07-03 Google Cloud Region forecasts R1.7tn boost for SA], [2026-06-04 Equinix faces challenge to Cape Town data centres over environmental concerns], [2026-06-23 Africa's Data Centre Boom Where The New Facilities Are Being Built], [2025-11-10-teraco-ct2-50mw-cape-town], [2026-01-23-compcom-stanlib-africa-data-centres], [2026-02-15-ramaphosa-data-centres-r50bn], [2026-07-05-google-r2bn-ai-hub], [2026-07-06-sa-building-own-cloud-ramaphosa], [2026-07-07-digital-sovereignty-key-ramaphosa], [2026-07-16-cape-town-tribunal-data-centre-greenlight]]
+last_reviewed: 2026-07-20
+sources: [[2026-02-25 South Africa puts data centres on par with energy, ports in big policy shift], [2026-07-03 Google Cloud Region forecasts R1.7tn boost for SA], [2026-06-04 Equinix faces challenge to Cape Town data centres over environmental concerns], [2026-06-23 Africa's Data Centre Boom Where The New Facilities Are Being Built], [2025-11-10-teraco-ct2-50mw-cape-town], [2026-01-23-compcom-stanlib-africa-data-centres], [2026-02-15-ramaphosa-data-centres-r50bn], [2026-07-05-google-r2bn-ai-hub], [2026-07-06-sa-building-own-cloud-ramaphosa], [2026-07-07-digital-sovereignty-key-ramaphosa], [2026-07-16-cape-town-tribunal-data-centre-greenlight], [2026-04-01 US data centre firm Equinix is investing $438 million in South Africa], [2026-04-01 US tech giant from Silicon Valley buys R890 million worth of land in South Africa], [2026-04-28 Axiz Welcomes Equinix Investment, Citing Boost to Africa's Digital Infrastructure], [2026-04-17 Microsoft picks South Africa for $329 million expansion in cloud infrastructure and AI training], [2026-04-15 Microsoft secures land for future South Africa data centre growth], [2026-03-28 MTN makes big bet on AI data centres in South Africa]]
 ---
 
 # South Africa × Data Storage
@@ -66,6 +66,35 @@ policy, power and water.
   Development Plan. The sustainability contradiction on [[infra.energy]] made concrete. See [[colonialism]].
   Source: [[2026-07-16-cape-town-tribunal-data-centre-greenlight]].
 
+## The hyperscaler and operator build (2026-03/04)
+
+- **Equinix's $438m self-funded expansion (2026-04).** [[equinix]] committed **$438m (R7.5bn)** to
+  expand in Johannesburg and Cape Town ([[equinix-sa-438m-expansion]]) — buying **R890m** of land
+  (**327,000 m²** secured) to add **~160 MW**, all balance-sheet funded. Africa has just **~409 MW**
+  operational (**<1%** of global), SA holding ~three-quarters; the SA market is projected
+  **$2.6bn (2025) → >$5bn (2031)**. The added 160 MW nearly doubles the **172 MW** under construction
+  continent-wide. Equinix's SA distributor **[[axiz]]** welcomed the investment as AI-workload,
+  hybrid-cloud and data-sovereignty demand rises. See [[finance.new]], [[tech.ai]], [[infra.energy]],
+  [[geopol.usa]]. Sources:
+  [[2026-04-01 US data centre firm Equinix is investing $438 million in South Africa]],
+  [[2026-04-01 US tech giant from Silicon Valley buys R890 million worth of land in South Africa]],
+  [[2026-04-28 Axiz Welcomes Equinix Investment, Citing Boost to Africa's Digital Infrastructure]].
+- **Microsoft doubles down (announced 2025-03-06).** [[microsoft-sa-2026-expansion]]: an **R5.4bn**
+  expansion (allocation detailed 2026-04) — land for future DC growth, **power/water readiness**,
+  added capacity in the Johannesburg/Cape Town regions — atop a prior **R20.4bn** over three years.
+  Brad Smith: "You can't have AI without data centres." Paired with an AI-skills push (1m South
+  Africans; 50,000 certification exams; SABC+ collaboration). See [[tech.ai]], [[geopol.usa]].
+  Sources:
+  [[2026-04-17 Microsoft picks South Africa for $329 million expansion in cloud infrastructure and AI training]],
+  [[2026-04-15 Microsoft secures land for future South Africa data centre growth]].
+- **MTN enters the AI data-centre race (2026-03).** [[mtn-group]] (CEO Ralph Mupita) is building an
+  **AI-enabled data-centre** network, naming **SA and Nigeria** priority markets and shortlisting
+  co-investment partners; its Lagos **Sifiso Dabengwa** facility (largest in West Africa) runs at
+  **4.5 MW**, phase 2 to **14–20 MW**. Analysts flag the **water and electricity** strain AI cooling
+  adds to SA's stressed municipalities. See [[nigeria--infra-store]], [[infra.energy]],
+  [[infra.capacity]]. Source:
+  [[2026-03-28 MTN makes big bet on AI data centres in South Africa]].
+
 ## Reads
 
 - `sovereignty`: SA treats compute capacity as strategic national infrastructure and
@@ -86,3 +115,9 @@ Place: [[ZAF]] · Concepts: [[infra.store]] · [[infra.energy]] · [[infra.capac
 - [[2026-07-03 Google Cloud Region forecasts R1.7tn boost for SA]]
 - [[2026-06-04 Equinix faces challenge to Cape Town data centres over environmental concerns]]
 - [[2026-06-23 Africa's Data Centre Boom Where The New Facilities Are Being Built]]
+- [[2026-04-01 US data centre firm Equinix is investing $438 million in South Africa]]
+- [[2026-04-01 US tech giant from Silicon Valley buys R890 million worth of land in South Africa]]
+- [[2026-04-28 Axiz Welcomes Equinix Investment, Citing Boost to Africa's Digital Infrastructure]]
+- [[2026-04-17 Microsoft picks South Africa for $329 million expansion in cloud infrastructure and AI training]]
+- [[2026-04-15 Microsoft secures land for future South Africa data centre growth]]
+- [[2026-03-28 MTN makes big bet on AI data centres in South Africa]]
