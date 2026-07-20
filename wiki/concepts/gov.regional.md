@@ -2,7 +2,7 @@
 type: concept
 title: Regional collaboration
 slug: gov.regional
-places: [COG, COM, BDI, ZMB, XAF, NGA, KEN, RWA, NAM, AGO, ZWE, EGY, GHA, BEN, XEA, XWA, TGO, NER, BFA, MLI, TZA, UGA, MOZ, BWA, LBR, SLE, GIN, XSA, XCA, SYC, DZA, SOM, SDN]
+places: [COG, COM, BDI, ZMB, XAF, NGA, KEN, RWA, NAM, AGO, ZWE, EGY, GHA, BEN, XEA, XWA, TGO, NER, BFA, MLI, TZA, UGA, MOZ, BWA, LBR, SLE, GIN, XSA, XCA, SYC, DZA, MAR, SOM, SDN, GNB]
 entities: [[idea-mpa], [afcfta], [papss], [wamkele-mene], [equity-africanenda-gates-dpi-partnership], [ai-for-good-global-commission], [african-union], [us-auc-strategic-investment-working-group], [telecom-namibia], [powertel-paratus-fibre-corridor], [smart-africa], [afnic], [smart-africa-afnic-mou], [undp], [afcfta-digital-trade-protocol], [adli], [dial], [estdev-smart-africa-mou], [sadx], [eac], [afreximbank], [nafa], [african-development-bank], [seacom], [paula-ingabire], [watra], [wuri-programme], [ecowas], [alliance-of-sahel-states], [uneca], [gsma], [africa-data-centres], [cassava-technologies], [africa-cdc], [america-first-global-health-strategy], [sigmat], [wardip], [un-ai-scientific-panel], [gtmi], [onafriq], [vodacom], [bayobab-zambia], [cbn], [world-bank], [pesalink], [bank-of-ghana], [au-google-mou], [google], [beac], [eac-cross-border-payment-masterplan], [tips-tanzania], [rswitch-rwanda], [afcfta-digital-trade-corridor], [seychelles-afcfta-mou], [cross-border-data-flows-afcfta-ria-2025], [research-ict-africa], [caiga], [icann], [afrinic], [africa-ai-declaration], [itu], [alice-munyua], [comesa], [kenya-angola-ict-mou], [angola-mozambique-space-digital-mou], [nigeria-angola-space-cooperation], [anacom-angola-mission], [ministerio-das-telecomunicacoes-tecnologias-de-informacao-e-comunicacao-social-angola], [ggpen], [angosat-2]]
 lens: [sovereignty, colonialism]
 status: active
@@ -46,22 +46,20 @@ Cross-border harmonisation of digital infrastructure, rules and markets.
   [[2026-05-07 African Guidelines on Data Access ACHPR Res 620 draft]],
   [[2026-03-23 Reassessing the role of data protection authorities in Africa]]. See [[gov.protect]], [[afcfta-digital-trade-protocol]].
 
-- **AfCFTA Digital Trade Forum — eight calls to action (2026-07-07, Lagos).** State parties
-  pledged to expedite the **Protocol on Digital Trade** (AU Assembly, 2024): harmonized
-  **e-signatures**, **mutual recognition of digital ID**, **interoperable cross-border
-  payments** ([[papss]]), paperless trade, cybersecurity/consumer-protection trust, inclusion
-  and PPP delivery — the route to a digital single market. SG [[wamkele-mene]]. See
-  [[gov.standards]], [[dpi.pay]], [[dpi.id]], [[dpi.exchange]].
-  Source: [[2026-07-07 African nations recommit to operationalize AfCFTA digital single market framework]].
-- **From negotiation to implementation (2026-07, Abuja/Lagos).** At the **18th Council of Ministers**
-  Nigeria took the **Bureau chair** from Egypt, and the **2nd Digital Trade Forum** adopted **Eight
-  Calls to Action** to operationalise the **[[afcfta-digital-trade-protocol]]** (DTP) — the AU-adopted
-  instrument behind the "African Single Digital Market," whose **Digital Identity Annex**
-  (Feb 2025) mandates harmonised ID standards and mutual assessment. Africa's digital economy:
-  **~$180bn now → ~$712bn by 2050**; delivery runs through ADIEP (7,500 SMEs across 19
-  countries, with Google) and **[[papss]]**. SG [[wamkele-mene]] warned the DTP needs
-  **>700 data centres** (from ~220 today) to localise infrastructure ([[infra.store]]). See
+- **AfCFTA — from negotiation to implementation: the 2nd Digital Trade Forum's Eight Calls to
+  Action (2026-07, Lagos/Abuja).** At the **18th Council of Ministers** Nigeria took the **Bureau
+  chair** from Egypt, and the **2nd Digital Trade Forum** adopted **Eight Calls to Action** to
+  operationalise the **[[afcfta-digital-trade-protocol]]** (DTP, AU Assembly 2024) — the AU-adopted
+  instrument behind the "African Single Digital Market." State parties pledged harmonized
+  **e-signatures**, **mutual recognition of digital ID**, **interoperable cross-border payments**
+  ([[papss]]), paperless trade, cybersecurity/consumer-protection trust, inclusion and PPP
+  delivery. The DTP's **Digital Identity Annex** (Feb 2025) mandates harmonised ID standards and
+  mutual assessment. Africa's digital economy: **~$180bn (2026-07) → ~$712bn projected by 2050**;
+  delivery runs through ADIEP (7,500 SMEs across 19 countries, with Google) and **[[papss]]**.
+  SG [[wamkele-mene]] warned the DTP needs **>700 data centres**, from **~220 (2026-04)**, to
+  localise infrastructure ([[infra.store]]). See [[gov.standards]], [[dpi.pay]], [[dpi.id]],
   [[dpi.exchange]], [[EGY]], [[GHA]]. Sources:
+  [[2026-07-07 African nations recommit to operationalize AfCFTA digital single market framework]],
   [[2026-07-09 Nigeria Takes AfCFTA Council Chair as Digital Forum Charts Roadmap for Implementation]],
   [[2026-04-08 Africa's digital trade push requires 700 data centres, says AfCFTA chief]].
 - **AfCFTA's governance gap (2026-07).** [[afcfta]] integrates markets faster than
@@ -337,9 +335,20 @@ Cross-border harmonisation of digital infrastructure, rules and markets.
   [[2026-07-10-itu-icpc-advisory-body-cable-resilience-report]],
   [[2026-07-15-watra-regional-subsea-resilience-plan]].
 
+## By place
+
+This topic is mostly bloc-level and thematic (the AU/ECOWAS/EAC/SADC instruments, the AfCFTA DTP,
+payment rails, AI and internet governance — above), so the material is not matrix-shaped and is not
+split per country. Two place-specific treatments were minted from the place side and are indexed here:
+
+**Extracted (own page):**
+
+- **[[DZA]] Algeria** — the [[algiers-declaration]] on telecom sovereignty, accession to [[algeria-50in5]], ATU and [[smart-africa]] engagement, and bilateral ICT cooperation across the Maghreb and Sahel. → [[algeria--gov-regional]]
+- **[[MAR]] Morocco** — the African Open Government conference, statements of intent with Ghana and Gabon, and Digital Cooperation Organization engagement. → [[morocco--gov-regional]]
+
 ## Places
 
-[[ZMB]] (regional program spans Eastern & Southern Africa — see [[idea-mpa]]) · [[XAF]] · [[NGA]] · [[KEN]] · [[RWA]] · [[NAM]] · [[AGO]] · [[ZWE]] · [[EGY]] · [[GHA]] · [[BEN]] · [[XEA]] · [[XWA]] · [[TGO]] · [[NER]] · [[BFA]] · [[MLI]] · [[TZA]] · [[UGA]] · [[MOZ]] · [[BWA]] · [[LBR]] · [[SLE]] · [[XSA]] · [[XCA]] · [[SYC]] · [[SOM]] · [[GNB]]
+[[ZMB]] (regional program spans Eastern & Southern Africa — see [[idea-mpa]]) · [[XAF]] · [[NGA]] · [[KEN]] · [[RWA]] · [[NAM]] · [[AGO]] · [[ZWE]] · [[EGY]] · [[GHA]] · [[BEN]] · [[XEA]] · [[XWA]] · [[TGO]] · [[NER]] · [[BFA]] · [[MLI]] · [[TZA]] · [[UGA]] · [[MOZ]] · [[BWA]] · [[LBR]] · [[SLE]] · [[XSA]] · [[XCA]] · [[SYC]] · [[SOM]] · [[GNB]] · [[COG]] · [[COM]] · [[BDI]] · [[GIN]] · [[DZA]] · [[MAR]] · [[SDN]]
 
 ## Sources
 
