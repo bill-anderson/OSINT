@@ -9,7 +9,7 @@ date_precision: day
 date_source: source
 places: [TCD, CMR]
 topics: [infra.connect, gov.regional, gov.legislate, finance.mou, include.divides, data.statistics]
-entities: [[sotel-tchad]], [[airtel-chad]], [[arcep-chad]], [[moov-africa]]
+entities: [[sotel-tchad], [airtel-chad], [arcep-chad], [moov-africa]]
 lens: [sovereignty]
 retrieved: 2026-07-17
 sweep_batch: CMR-2026-07-17

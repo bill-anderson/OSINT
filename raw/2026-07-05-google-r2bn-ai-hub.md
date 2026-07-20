@@ -7,9 +7,9 @@ published: 2026-07-05
 date_precision: day
 date_source: source
 places: [ZAF]
-topics: [infra.store, tech.ai, finance.new]
+topics: [infra.store, tech.ai, finance.new, geopol.usa]
 entities: [[google]]
-lens: [geopol.usa]
+lens: []
 body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: ZAF-2026-07-17

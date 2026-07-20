@@ -10,7 +10,7 @@ retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [dpi.govtech]
-entities: [[e-justice-ci]], [[ministere-justice-cote-divoire]], [[oneci]], [[jean-sansan-kambile]]
+entities: [[e-justice-ci], [ministere-justice-cote-divoire], [oneci], [jean-sansan-kambile]]
 lens: []
 ---
 

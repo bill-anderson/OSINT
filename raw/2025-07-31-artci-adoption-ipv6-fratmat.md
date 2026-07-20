@@ -10,7 +10,7 @@ retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [infra.connect, gov.standards]
-entities: [[artci]], [[okto-technologies]], [[orange-cote-divoire]], [[mtn-cote-divoire]], [[moov-africa-cote-divoire]], [[huawei]], [[vipnet]], [[codinorm]], [[civix]], [[teleset]], [[strategie-nationale-de-developpement-du-numerique-cote-divoire]]
+entities: [[artci], [okto-technologies], [orange-cote-divoire], [mtn-cote-divoire], [moov-africa-cote-divoire], [huawei], [vipnet], [codinorm], [civix], [teleset], [strategie-nationale-de-developpement-du-numerique-cote-divoire]]
 lens: []
 ---
 

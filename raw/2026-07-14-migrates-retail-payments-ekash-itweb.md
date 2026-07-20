@@ -12,7 +12,7 @@ sweep_batch: RWA-2026-07-17
 body_completeness: full
 places: [RWA]
 topics: [dpi.pay]
-entities: [[ekash]], [[rswitch-rwanda]], [[national-bank-of-rwanda]]
+entities: [[ekash], [rswitch-rwanda], [national-bank-of-rwanda]]
 ---
 
 Rwanda migrates retail payments to eKash | ITWeb Africa AlgeriaEgyptGhanaKenyaMoroccoNigeria South Africa BUSINESS TECHNOLOGY MEDIA FOR AFRICA Subscribe to our daily newsletterSubscribe to our daily newsletter

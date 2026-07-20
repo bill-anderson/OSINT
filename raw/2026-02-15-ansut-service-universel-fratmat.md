@@ -10,7 +10,7 @@ retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [include.access, infra.connect]
-entities: [[ansut]], [[ministere-transition-numerique-cote-divoire]], [[djibril-ouattara]]
+entities: [[ansut], [ministere-transition-numerique-cote-divoire], [djibril-ouattara]]
 lens: []
 ---
 

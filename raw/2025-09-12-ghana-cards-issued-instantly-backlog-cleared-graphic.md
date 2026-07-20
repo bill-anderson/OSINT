@@ -10,7 +10,7 @@ retrieved: 2026-07-17
 sweep_batch: GHA-2026-07-17
 places: [GHA]
 topics: [dpi.id]
-entities: [[national-identification-authority-ghana]], [[ghana-card]]
+entities: [[national-identification-authority-ghana], [ghana-card]]
 lens: []
 ---
 # Ghana Cards now issued instantly: 2023–2025 backlog cleared — NIA

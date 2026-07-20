@@ -9,7 +9,7 @@ date_precision: day
 date_source: source
 places: [CMR]
 topics: [dpi.govtech, dpi.exchange, gov.policy, finance.new, data.open]
-entities: [[coleps]], [[koica]], [[ministry-of-public-contracts-cameroon]]
+entities: [[coleps], [koica], [ministry-of-public-contracts-cameroon]]
 lens: [sovereignty]
 retrieved: 2026-07-17
 sweep_batch: CMR-2026-07-17

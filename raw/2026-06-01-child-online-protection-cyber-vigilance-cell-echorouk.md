@@ -13,7 +13,7 @@ retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 places: [DZA]
 topics: [infra.cybersec, include.access, gov.protect]
-entities: [organe-national-protection-promotion-enfance, dalila-aliane, ministere-de-la-defense-nationale, ministere-de-linterieur]
+entities: [[organe-national-protection-promotion-enfance, dalila-aliane, ministere-de-la-defense-nationale, ministere-de-linterieur]]
 lens: []
 provenance_flag: privately-owned
 ---

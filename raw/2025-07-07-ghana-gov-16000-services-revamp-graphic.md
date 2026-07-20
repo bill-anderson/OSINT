@@ -10,7 +10,7 @@ retrieved: 2026-07-17
 sweep_batch: GHA-2026-07-17
 places: [GHA]
 topics: [dpi.govtech, dpi.exchange]
-entities: [[samuel-nartey-george]], [[nita-ghana]]
+entities: [[samuel-nartey-george], [nita-ghana]]
 lens: []
 ---
 # Govt to put 16,000 services online in major Ghana.gov revamp

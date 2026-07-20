@@ -10,7 +10,7 @@ retrieved: 2026-07-17
 sweep_batch: GHA-2026-07-17
 places: [GHA]
 topics: [dpi.id]
-entities: [[national-identification-authority-ghana]], [[ghana-card]]
+entities: [[national-identification-authority-ghana], [ghana-card]]
 lens: []
 ---
 # Ghana Card is gateway to national services – Interior Minister as NIA marks 20 years in operation

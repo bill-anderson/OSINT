@@ -9,7 +9,7 @@ date_precision: day
 date_source: source
 places: [CMR]
 topics: [tech.innovate, capacity.research, capacity.training, infra.energy, data.statistics]
-entities: [[camcih]], [[ict-university-cameroon]], [[global-center-on-adaptation]]
+entities: [[camcih], [ict-university-cameroon], [global-center-on-adaptation]]
 lens: []
 retrieved: 2026-07-17
 sweep_batch: CMR-2026-07-17

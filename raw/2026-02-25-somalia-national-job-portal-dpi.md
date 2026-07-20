@@ -11,7 +11,7 @@ retrieved: 2026-07-17
 sweep_batch: SOM-2026-07-17
 places: [SOM]
 topics: [dpi.govtech, dpi.exchange, capacity.training]
-entities: [[national-employment-service-center-somalia]], [[iom]], [[national-data-agency-somalia]]
+entities: [[national-employment-service-center-somalia], [iom], [national-data-agency-somalia]]
 lens: [sovereignty]
 ---
 

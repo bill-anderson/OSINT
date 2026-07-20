@@ -9,7 +9,7 @@ date_precision: day
 date_source: source
 places: [CMR]
 topics: [tech.ai, gov.policy, gov.protect, infra.cybersec, capacity.training, tech.innovate, finance.new, data.statistics]
-entities: [[snia-cameroon]], [[minpostel]], [[agence-francaise-de-developpement]]
+entities: [[snia-cameroon], [minpostel], [agence-francaise-de-developpement]]
 lens: [sovereignty]
 retrieved: 2026-07-17
 sweep_batch: CMR-2026-07-17

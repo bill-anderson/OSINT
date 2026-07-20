@@ -2,7 +2,7 @@
 type: entity
 entity_type: resource
 title: MIKUBA (ONEM skills/labour-market database, DR Congo)
-places: [COD, BEL]
+places: [COD]
 topics: [dpi.registry, dpi.mis, capacity.training, geopol.eu]
 lens: []
 status: active

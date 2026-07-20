@@ -10,7 +10,7 @@ retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [XAF]
 topics: [dpi.pay, finance.mou, gov.regional]
-entities: [[flutterwave]], [[turnkey]], [[nuvion]]
+entities: [[flutterwave], [turnkey], [nuvion]]
 lens: []
 provenance_flag: pr-wire
 ---

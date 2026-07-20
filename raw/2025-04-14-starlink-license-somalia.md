@@ -11,7 +11,7 @@ retrieved: 2026-07-17
 sweep_batch: SOM-2026-07-17
 places: [SOM]
 topics: [infra.connect, gov.legislate, include.access]
-entities: [[starlink]], [[spacex]], [[national-communications-authority-somalia]]
+entities: [[starlink], [spacex], [national-communications-authority-somalia]]
 lens: []
 ---
 

@@ -10,7 +10,7 @@ retrieved: 2026-07-17
 sweep_batch: GHA-2026-07-17
 places: [GHA]
 topics: [dpi.pay, gov.regional]
-entities: [[ghipss]], [[bank-of-ghana]]
+entities: [[ghipss], [bank-of-ghana]]
 lens: []
 ---
 # 3i Africa Summit: GhIPSS eyes cross-border payment expansion

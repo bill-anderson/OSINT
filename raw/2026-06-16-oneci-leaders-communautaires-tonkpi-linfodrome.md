@@ -10,7 +10,7 @@ retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [dpi.id, dpi.registry, digital.rural]
-entities: [[oneci]], [[unfpa]], [[pelagie-gonto]], [[affessi-affessi]]
+entities: [[oneci], [unfpa], [pelagie-gonto], [affessi-affessi]]
 lens: []
 ---
 

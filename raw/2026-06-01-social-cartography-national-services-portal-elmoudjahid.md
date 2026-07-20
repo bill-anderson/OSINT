@@ -13,7 +13,7 @@ retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 places: [DZA]
 topics: [dpi.govtech, data.statistics, dpi.exchange, gov.policy]
-entities: [abdelmadjid-tebboune, haut-commissariat-a-la-numerisation, dzair-services]
+entities: [[abdelmadjid-tebboune, haut-commissariat-a-la-numerisation, dzair-services]]
 lens: [sovereignty]
 provenance_flag: state-media
 ---

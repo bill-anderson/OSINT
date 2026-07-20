@@ -7,9 +7,9 @@ published: 2026-07-16
 date_precision: day
 date_source: source
 places: [ZAF]
-topics: [infra.store, infra.energy]
+topics: [infra.store, infra.energy, geopol.usa]
 entities: [[equinix]]
-lens: [geopol.usa]
+lens: []
 body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: ZAF-2026-07-17

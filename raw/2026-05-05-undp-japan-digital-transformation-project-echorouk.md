@@ -13,7 +13,7 @@ retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 places: [DZA]
 topics: [gov.policy, finance.mou, capacity.training, tech.industry]
-entities: [haut-commissariat-a-la-numerisation, meriem-benmouloud, undp, japan, national-digital-transformation-strategy]
+entities: [[haut-commissariat-a-la-numerisation, meriem-benmouloud, undp, japan, national-digital-transformation-strategy]]
 lens: []
 provenance_flag: privately-owned
 ---

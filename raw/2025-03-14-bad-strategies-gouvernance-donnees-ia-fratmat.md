@@ -10,7 +10,7 @@ retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [gov.policy, tech.ai, finance.new, infra.store]
-entities: [[bad]], [[parae]]
+entities: [[bad], [parae]]
 lens: [sovereignty]
 ---
 

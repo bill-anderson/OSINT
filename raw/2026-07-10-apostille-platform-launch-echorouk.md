@@ -12,7 +12,7 @@ retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 places: [DZA]
 topics: [dpi.govtech, dpi.exchange, gov.policy]
-entities: [haut-commissariat-a-la-numerisation, apostille-platform]
+entities: [[haut-commissariat-a-la-numerisation, apostille-platform]]
 lens: []
 ---
 

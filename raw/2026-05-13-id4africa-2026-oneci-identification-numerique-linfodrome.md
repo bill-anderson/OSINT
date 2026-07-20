@@ -10,7 +10,7 @@ retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [dpi.id, dpi.registry]
-entities: [[oneci]], [[id4africa]], [[ago-christian-kodia]]
+entities: [[oneci], [id4africa], [ago-christian-kodia]]
 lens: [sovereignty]
 ---
 

@@ -9,7 +9,7 @@ date_precision: day
 date_source: source
 places: [CMR, XCA]
 topics: [dpi.pay, dpi.exchange, gov.regional, finance.mou, include.access, tech.industry]
-entities: [[beac]], [[papss]], [[afreximbank]], [[african-union]], [[afcfta]], [[bceao]]
+entities: [[beac], [papss], [afreximbank], [african-union], [afcfta], [bceao]]
 lens: [sovereignty]
 retrieved: 2026-07-17
 sweep_batch: CMR-2026-07-17

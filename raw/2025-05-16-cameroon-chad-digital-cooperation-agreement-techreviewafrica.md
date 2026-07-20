@@ -9,7 +9,7 @@ date_precision: day
 date_source: source
 places: [CMR, TCD, XCA]
 topics: [infra.connect, gov.regional, finance.mou, dpi.exchange, include.access, include.divides, digital.rural]
-entities: [[camtel]], [[sotel-tchad]], [[minpostel]]
+entities: [[camtel], [sotel-tchad], [minpostel]]
 lens: [sovereignty]
 retrieved: 2026-07-17
 sweep_batch: CMR-2026-07-17

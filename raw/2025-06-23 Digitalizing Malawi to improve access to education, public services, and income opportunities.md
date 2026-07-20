@@ -10,7 +10,7 @@ accessed: 2026-07-16
 ingested: 2026-07-16
 places: [MWI]
 topics: [infra.connect, infra.store, dpi.exchange, dpi.govtech, capacity.training]
-entities: [[[world-bank]], [[macra-malawi]], [[malawi-data-protection-act-2024]]]
+entities: [[world-bank], [macra-malawi], [malawi-data-protection-act-2024]]
 lens: []
 ---
 

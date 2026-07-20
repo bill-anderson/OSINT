@@ -12,7 +12,7 @@ retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 places: [DZA]
 topics: [infra.connect, gov.standards, tech.innovate]
-entities: [sid-ali-zerrouki, ministere-de-la-poste-et-des-telecommunications, afrinic]
+entities: [[sid-ali-zerrouki, ministere-de-la-poste-et-des-telecommunications, afrinic]]
 lens: [sovereignty]
 ---
 

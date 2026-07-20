@@ -12,7 +12,7 @@ retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 places: [DZA]
 topics: [dpi.exchange, dpi.id, dpi.pay, gov.policy, include.divides]
-entities: [ministere-de-la-poste-et-des-telecommunications, e-tawki3, undp, algerie-poste]
+entities: [[ministere-de-la-poste-et-des-telecommunications, e-tawki3, undp, algerie-poste]]
 lens: [sovereignty]
 ---
 

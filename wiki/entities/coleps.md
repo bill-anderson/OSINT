@@ -2,7 +2,7 @@
 type: entity
 entity_type: resource
 title: COLEPS (Cameroon Online E-Procurement System)
-places: [CMR, KOR]
+places: [CMR]
 topics: [dpi.govtech, dpi.exchange, finance.new, data.open]
 lens: []
 status: active

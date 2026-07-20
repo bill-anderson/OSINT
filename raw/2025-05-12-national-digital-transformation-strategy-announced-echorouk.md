@@ -12,7 +12,7 @@ retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 places: [DZA]
 topics: [gov.policy, infra.store, dpi.govtech, capacity.training, dpi.pay]
-entities: [meriem-benmouloud, haut-commissariat-a-la-numerisation, national-digital-transformation-strategy]
+entities: [[meriem-benmouloud, haut-commissariat-a-la-numerisation, national-digital-transformation-strategy]]
 lens: [sovereignty]
 ---
 

@@ -12,7 +12,7 @@ sweep_batch: RWA-2026-07-17
 body_completeness: excerpt
 places: [RWA]
 topics: [dpi.exchange, dpi.id, dpi.pay, tech.ai, gov.policy]
-entities: [[rwanda-dpi-strategy]], [[rwanda-information-society-authority]]
+entities: [[rwanda-dpi-strategy], [rwanda-information-society-authority]]
 ---
 
 # Rwanda launches Digital Public Infrastructure strategy to power citizen services, AI

@@ -9,7 +9,7 @@ date_precision: day
 date_source: source
 places: [CMR]
 topics: [digital.localgov, dpi.govtech, dpi.exchange, infra.connect, include.divides, gov.policy, capacity.training, finance.new, infra.cybersec]
-entities: [[digi-cor]], [[minddevel]], [[feicom]]
+entities: [[digi-cor], [minddevel], [feicom]]
 lens: [sovereignty]
 retrieved: 2026-07-17
 sweep_batch: CMR-2026-07-17

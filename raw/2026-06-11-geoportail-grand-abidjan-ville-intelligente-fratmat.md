@@ -10,7 +10,7 @@ retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [data.satellite, dpi.registry, digital.localgov, data.open]
-entities: [[jica]], [[geoportail-grand-abidjan]], [[sduga]], [[ministere-urbanisme-logement-cadre-de-vie-civ]], [[kato-koichi]], [[moussa-sanogo]]
+entities: [[jica], [geoportail-grand-abidjan], [sduga], [ministere-urbanisme-logement-cadre-de-vie-civ], [kato-koichi], [moussa-sanogo]]
 lens: []
 ---
 

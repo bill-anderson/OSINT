@@ -12,7 +12,7 @@ sweep_batch: RWA-2026-07-17
 body_completeness: excerpt
 places: [RWA]
 topics: [dpi.exchange, gov.policy]
-entities: [[rwanda-information-society-authority]], [[rwanda-national-data-sharing-policy]], [[nisr]]
+entities: [[rwanda-information-society-authority], [rwanda-national-data-sharing-policy], [nisr]]
 lens: [sovereignty]
 ---
 

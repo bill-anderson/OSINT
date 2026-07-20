@@ -10,7 +10,7 @@ retrieved: 2026-07-17
 sweep_batch: MAR-2026-07-17
 places: [MAR]
 topics: [dpi.id, dpi.govtech]
-entities: [[dgsn-morocco]], [[mon-e-id]]
+entities: [[dgsn-morocco], [mon-e-id]]
 lens: []
 ---
 

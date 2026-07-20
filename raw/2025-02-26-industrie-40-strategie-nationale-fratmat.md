@@ -10,7 +10,7 @@ retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [tech.industry, gov.policy, capacity.training, geopol.eu]
-entities: [[onudi]], [[esatic]], [[inp-hb]]
+entities: [[onudi], [esatic], [inp-hb]]
 lens: []
 ---
 

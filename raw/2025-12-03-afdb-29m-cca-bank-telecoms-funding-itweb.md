@@ -9,7 +9,7 @@ date_precision: day
 date_source: source
 places: [CMR]
 topics: [finance.new, infra.connect, tech.industry, infra.energy]
-entities: [[african-development-bank]], [[cca-bank]]
+entities: [[african-development-bank], [cca-bank]]
 lens: []
 retrieved: 2026-07-17
 sweep_batch: CMR-2026-07-17

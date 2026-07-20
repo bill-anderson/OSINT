@@ -2,7 +2,7 @@
 type: entity
 entity_type: company
 title: VisionWare
-places: [PRT, CPV]
+places: [CPV]
 topics: [infra.cybersec, tech.industry, capacity.training]
 lens: []
 status: active

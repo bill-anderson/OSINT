@@ -8,7 +8,7 @@ date_precision: day
 date_source: source
 places: [STP]
 topics: [gov.protect, dpi.exchange, geopol.china]
-entities: [[anpdp]], [[dspdp-macau]], [[rede-lusofona-protecao-dados]]
+entities: [[anpdp], [dspdp-macau], [rede-lusofona-protecao-dados]]
 lens: [sovereignty]
 body_completeness: full
 retrieved: 2026-07-17

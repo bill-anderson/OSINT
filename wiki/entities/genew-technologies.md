@@ -2,7 +2,7 @@
 type: entity
 entity_type: company
 title: Genew Technologies
-places: [CHN, COD]
+places: [COD]
 topics: [infra.connect, geopol.china, finance.mou]
 lens: [sovereignty]
 status: active

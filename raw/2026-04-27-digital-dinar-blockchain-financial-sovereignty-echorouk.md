@@ -12,7 +12,7 @@ retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 places: [DZA]
 topics: [dpi.pay, tech.ai, gov.policy, finance.new]
-entities: [banque-dalgerie, meriem-benmouloud, haut-commissariat-a-la-numerisation, digital-dinar]
+entities: [[banque-dalgerie, meriem-benmouloud, haut-commissariat-a-la-numerisation, digital-dinar]]
 lens: [sovereignty]
 ---
 

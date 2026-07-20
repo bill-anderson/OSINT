@@ -4,7 +4,7 @@ title: Uganda × Data Centres & Cloud
 place: UGA
 topic: infra.store
 places: [UGA]
-topics: [infra.store, infra.capacity, tech.ai, sovereignty, finance.new, tech.industry]
+topics: [infra.store, infra.capacity, tech.ai, finance.new, tech.industry]
 entities: [[aeonian-project], [synectics-technologies], [schneider-electric], [karuma-hydropower-plant], [nvidia], [abq-cloud], [raxio-group], [sti-op-uganda], [centenary-group], [centenary-group-data-centre], [cassava-technologies], [africa-data-centres], [nxtra-africa], [mtn-uganda]]
 lens: [sovereignty]
 status: active

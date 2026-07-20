@@ -9,7 +9,7 @@ date_precision: day
 date_source: source
 places: [SSD]
 topics: [dpi.pay, tech.industry]
-entities: [[bank-of-south-sudan]], [[mtn-south-sudan]]
+entities: [[bank-of-south-sudan], [mtn-south-sudan]]
 lens: []
 body_completeness: full
 retrieved: 2026-07-17

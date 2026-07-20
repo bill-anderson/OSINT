@@ -12,7 +12,7 @@ sweep_batch: RWA-2026-07-17
 body_completeness: full
 places: [RWA]
 topics: [infra.cybersec, capacity.training]
-entities: [[national-cyber-security-authority-rwanda]], [[paula-ingabire]]
+entities: [[national-cyber-security-authority-rwanda], [paula-ingabire]]
 ---
 
 Rwanda unveils cyber security centre of excellence | ITWeb Africa AlgeriaEgyptGhanaKenyaMoroccoNigeria South Africa BUSINESS TECHNOLOGY MEDIA FOR AFRICA Subscribe to our daily newsletterSubscribe to our daily newsletter

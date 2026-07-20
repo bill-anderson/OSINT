@@ -12,7 +12,7 @@ retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 places: [DZA]
 topics: [data.satellite, geopol.china, infra.capacity]
-entities: [agence-spatiale-algerienne, said-chanegriha, ministere-de-la-defense-nationale]
+entities: [[agence-spatiale-algerienne, said-chanegriha, ministere-de-la-defense-nationale]]
 lens: [sovereignty]
 ---
 

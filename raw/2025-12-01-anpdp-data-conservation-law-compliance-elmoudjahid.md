@@ -13,7 +13,7 @@ retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 places: [DZA]
 topics: [gov.protect, gov.legislate, dpi.govtech]
-entities: [anpdp, ministere-de-la-poste-et-des-telecommunications]
+entities: [[anpdp, ministere-de-la-poste-et-des-telecommunications]]
 lens: [sovereignty]
 provenance_flag: state-media
 body_completeness: clipped-at-fetch

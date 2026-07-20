@@ -10,7 +10,7 @@ retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [infra.cybersec]
-entities: [[kaspersky]], [[afripol]], [[smart-africa]], [[interpol]]
+entities: [[kaspersky], [afripol], [smart-africa], [interpol]]
 lens: []
 ---
 

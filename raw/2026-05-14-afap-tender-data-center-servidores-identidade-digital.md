@@ -8,7 +8,7 @@ date_precision: day
 date_source: source
 places: [STP]
 topics: [infra.store, dpi.id]
-entities: [[afap]], [[inic]]
+entities: [[afap], [inic]]
 lens: []
 body_completeness: full
 retrieved: 2026-07-17

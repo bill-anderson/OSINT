@@ -11,7 +11,7 @@ retrieved: 2026-07-17
 sweep_batch: SEN-2026-07-17
 places: [SEN]
 topics: [gov.policy, dpi.govtech, gov.legislate]
-entities: [[[new-deal-technologique]]]
+entities: [[new-deal-technologique]]
 lens: [sovereignty]
 ---
 

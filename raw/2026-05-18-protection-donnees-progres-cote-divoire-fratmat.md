@@ -10,7 +10,7 @@ retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [gov.protect]
-entities: [[reseau-africain-autorites-protection-donnees-personnelles]], [[artci]], [[djibril-ouattara]], [[roger-felix-adom]], [[iro-adamou]]
+entities: [[reseau-africain-autorites-protection-donnees-personnelles], [artci], [djibril-ouattara], [roger-felix-adom], [iro-adamou]]
 lens: [sovereignty]
 ---
 

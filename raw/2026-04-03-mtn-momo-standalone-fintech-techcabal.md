@@ -10,7 +10,7 @@ retrieved: 2026-07-17
 sweep_batch: GHA-2026-07-17
 places: [GHA]
 topics: [dpi.pay, gov.legislate]
-entities: [[mtn-ghana]], [[mobilemoney-fintech]], [[mtn-group]]
+entities: [[mtn-ghana], [mobilemoney-fintech], [mtn-group]]
 lens: []
 ---
 # MTN completes Ghana mobile money spinoff in major fintech push

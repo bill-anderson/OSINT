@@ -8,7 +8,7 @@ date_precision: day
 date_source: source
 places: [STP]
 topics: [gov.protect, dpi.registry, dpi.exchange]
-entities: [[anpdp]], [[dgrn]]
+entities: [[anpdp], [dgrn]]
 lens: [sovereignty]
 body_completeness: full
 retrieved: 2026-07-17

@@ -9,7 +9,7 @@ date_precision: day
 date_source: source
 places: [CMR]
 topics: [tech.ai, capacity.training, capacity.research, gov.policy, gov.protect, include.divides, infra.store, infra.connect, digital.rural]
-entities: [[snia-cameroon]], [[ministry-of-posts-and-telecommunications-cameroon]], [[itu]]
+entities: [[snia-cameroon], [ministry-of-posts-and-telecommunications-cameroon], [itu]]
 lens: [sovereignty]
 retrieved: 2026-07-17
 sweep_batch: CMR-2026-07-17

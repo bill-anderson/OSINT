@@ -7,9 +7,9 @@ published: 2026-02-15
 date_precision: day
 date_source: source
 places: [ZAF]
-topics: [infra.store, finance.new]
+topics: [infra.store, finance.new, geopol.usa]
 entities: [[cyril-ramaphosa]]
-lens: [geopol.usa]
+lens: []
 body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: ZAF-2026-07-17

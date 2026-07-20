@@ -10,7 +10,7 @@ retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [dpi.pay, finance.new]
-entities: [[cdc-ci]], [[green-pay]], [[orange-cote-divoire]]
+entities: [[cdc-ci], [green-pay], [orange-cote-divoire]]
 lens: []
 ---
 

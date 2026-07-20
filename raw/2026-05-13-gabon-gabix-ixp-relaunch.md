@@ -8,7 +8,7 @@ date_precision: day
 date_source: source
 places: [GAB]
 topics: [infra.connect]
-entities: [[gabix]], [[aninf-gabon]]
+entities: [[gabix], [aninf-gabon]]
 lens: [sovereignty]
 retrieved: 2026-07-17
 sweep_batch: GAB-2026-07-17

@@ -11,7 +11,7 @@ sweep_batch: NGA-2026-07-17
 body_completeness: full
 places: [NGA]
 topics: [finance.new, dpi.pay]
-entities: ["[[visa]]", "[[moniepoint]]"]
+entities: [[visa], [moniepoint]]
 lens: []
 ---
 

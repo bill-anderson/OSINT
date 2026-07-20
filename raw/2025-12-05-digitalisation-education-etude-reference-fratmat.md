@@ -10,7 +10,7 @@ retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [dpi.mis, capacity.training]
-entities: [[ministere-de-leducation-nationale-et-de-lalphabetisation-cote-divoire]], [[anstat]], [[ministere-de-la-transition-numerique-et-de-la-digitalisation-cote-divoire]], [[organisation-internationale-de-la-francophonie]], [[gpe-kix-afrique-21]], [[sndeci]]
+entities: [[ministere-de-leducation-nationale-et-de-lalphabetisation-cote-divoire], [anstat], [ministere-de-la-transition-numerique-et-de-la-digitalisation-cote-divoire], [organisation-internationale-de-la-francophonie], [gpe-kix-afrique-21], [sndeci]]
 lens: []
 ---
 

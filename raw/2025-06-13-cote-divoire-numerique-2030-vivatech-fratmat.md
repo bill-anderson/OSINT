@@ -10,7 +10,7 @@ retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [gov.policy, tech.industry, finance.new]
-entities: [[vivatech]], [[anssi-cote-divoire]], [[parae]], [[pncr]], [[start-up-act-cote-divoire]], [[ivoire-tech-forum]]
+entities: [[vivatech], [anssi-cote-divoire], [parae], [pncr], [start-up-act-cote-divoire], [ivoire-tech-forum]]
 lens: [sovereignty]
 ---
 

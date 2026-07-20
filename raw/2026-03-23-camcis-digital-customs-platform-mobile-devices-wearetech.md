@@ -9,7 +9,7 @@ date_precision: day
 date_source: source
 places: [CMR]
 topics: [dpi.govtech, dpi.registry, dpi.exchange, gov.legislate, infra.connect, include.access]
-entities: [[camcis]], [[cameroon-customs]], [[antic-cameroon]], [[art-cameroon]], [[ministry-of-posts-and-telecommunications-cameroon]]
+entities: [[camcis], [cameroon-customs], [antic-cameroon], [art-cameroon], [ministry-of-posts-and-telecommunications-cameroon]]
 lens: [sovereignty]
 retrieved: 2026-07-17
 sweep_batch: CMR-2026-07-17

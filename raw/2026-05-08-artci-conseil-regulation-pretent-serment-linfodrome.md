@@ -10,7 +10,7 @@ retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [gov.legislate]
-entities: [[artci]], [[roger-felix-adom]], [[coty-souleymane-diakite]]
+entities: [[artci], [roger-felix-adom], [coty-souleymane-diakite]]
 lens: []
 ---
 

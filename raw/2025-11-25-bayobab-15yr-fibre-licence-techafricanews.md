@@ -9,7 +9,7 @@ date_precision: day
 date_source: source
 places: [SSD]
 topics: [infra.connect, tech.industry, finance.new, gov.regional]
-entities: [[bayobab]], [[mtn-south-sudan]], [[national-communication-authority-south-sudan]]
+entities: [[bayobab], [mtn-south-sudan], [national-communication-authority-south-sudan]]
 lens: []
 body_completeness: full
 retrieved: 2026-07-17

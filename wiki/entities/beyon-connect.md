@@ -2,7 +2,7 @@
 type: entity
 entity_type: company
 title: Beyon Connect
-places: [BHR, CIV]
+places: [CIV]
 topics: [dpi.id, dpi.govtech]
 lens: [sovereignty]
 status: active

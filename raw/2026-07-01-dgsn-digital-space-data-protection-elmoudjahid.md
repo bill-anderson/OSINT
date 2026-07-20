@@ -13,7 +13,7 @@ retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 places: [DZA]
 topics: [infra.cybersec, gov.protect, dpi.id]
-entities: [dgsn, ali-badaoui, anpdp, samir-bourehil, ministere-de-linterieur, ministere-de-la-justice]
+entities: [[dgsn, ali-badaoui, anpdp, samir-bourehil, ministere-de-linterieur, ministere-de-la-justice]]
 lens: [sovereignty]
 provenance_flag: state-media
 ---

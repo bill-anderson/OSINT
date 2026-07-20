@@ -11,7 +11,7 @@ retrieved: 2026-07-17
 sweep_batch: SEN-2026-07-17
 places: [SEN]
 topics: [gov.policy]
-entities: [[[new-deal-technologique]], [[alioune-sall]]]
+entities: [[new-deal-technologique], [alioune-sall]]
 lens: []
 ---
 

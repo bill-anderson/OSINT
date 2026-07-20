@@ -12,7 +12,7 @@ retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 places: [DZA]
 topics: [dpi.pay, include.divides]
-entities: [algerie-poste, baridimob, sid-ali-zerrouki, ministere-de-la-poste-et-des-telecommunications]
+entities: [[algerie-poste, baridimob, sid-ali-zerrouki, ministere-de-la-poste-et-des-telecommunications]]
 lens: []
 ---
 

@@ -11,7 +11,7 @@ retrieved: 2026-07-17
 sweep_batch: TCD-2026-07-17
 places: [TCD, NER]
 topics: [infra.connect, include.access, gov.policy]
-entities: [[starlink]], [[spacex]]
+entities: [[starlink], [spacex]]
 lens: []
 ---
 

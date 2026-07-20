@@ -11,7 +11,7 @@ retrieved: 2026-07-17
 sweep_batch: SEN-2026-07-17
 places: [SEN, MRT]
 topics: [finance.mou, gov.regional]
-entities: [[[optic-senegal]]]
+entities: [[optic-senegal]]
 lens: []
 ---
 

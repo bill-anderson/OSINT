@@ -13,7 +13,7 @@ retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 places: [DZA]
 topics: [dpi.mis, dpi.exchange, data.statistics, gov.policy]
-entities: [ministere-du-commerce-interieur, haut-commissariat-a-la-numerisation, meriem-benmouloud, office-national-des-statistiques]
+entities: [[ministere-du-commerce-interieur, haut-commissariat-a-la-numerisation, meriem-benmouloud, office-national-des-statistiques]]
 lens: []
 provenance_flag: privately-owned
 ---

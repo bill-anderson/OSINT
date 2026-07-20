@@ -10,7 +10,7 @@ retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [dpi.id, dpi.registry, data.statistics]
-entities: [[unicef]], [[ministere-de-linterieur-et-de-la-securite-cote-divoire]]
+entities: [[unicef], [ministere-de-linterieur-et-de-la-securite-cote-divoire]]
 lens: []
 ---
 

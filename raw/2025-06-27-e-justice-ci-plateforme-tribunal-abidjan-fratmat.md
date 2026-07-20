@@ -10,7 +10,7 @@ retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [dpi.govtech, dpi.id]
-entities: [[oneci]], [[ministere-de-la-justice-cote-divoire]], [[e-justice-ci]]
+entities: [[oneci], [ministere-de-la-justice-cote-divoire], [e-justice-ci]]
 lens: []
 ---
 

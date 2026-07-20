@@ -11,7 +11,7 @@ sweep_batch: NGA-2026-07-17
 body_completeness: full
 places: [NGA]
 topics: [infra.store, tech.industry]
-entities: ["[[aws]]"]
+entities: [[aws]]
 lens: []
 ---
 

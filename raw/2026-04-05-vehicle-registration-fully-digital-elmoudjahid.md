@@ -13,7 +13,7 @@ retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 places: [DZA]
 topics: [dpi.govtech, dpi.registry, dpi.id]
-entities: [ministere-de-linterieur]
+entities: [[ministere-de-linterieur]]
 lens: []
 provenance_flag: state-media
 ---

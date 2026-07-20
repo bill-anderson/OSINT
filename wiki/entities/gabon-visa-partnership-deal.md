@@ -3,8 +3,8 @@ type: entity
 entity_type: deal
 title: Gabon–Visa Financial Inclusion Partnership
 places: [GAB]
-topics: [finance.mou, dpi.pay, dpi.id]
-lens: [geopol.usa]
+topics: [finance.mou, dpi.pay, dpi.id, geopol.usa]
+lens: []
 status: active
 last_reviewed: 2026-07-18
 sources: [[2025-12-12-gabon-uncdf-financial-inclusion-deal], [2025-12-11-gabon-madigipaie-digital-payments-launch], [2025-07-20-gabon-visa-partnership-public-services]]

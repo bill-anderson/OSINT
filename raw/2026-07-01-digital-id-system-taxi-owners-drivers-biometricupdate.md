@@ -9,7 +9,7 @@ date_precision: day
 date_source: source
 places: [CMR]
 topics: [dpi.id, dpi.registry, digital.localgov, include.access, geopol.eu]
-entities: [[yaounde-city-council]], [[giz]]
+entities: [[yaounde-city-council], [giz]]
 lens: [sovereignty]
 retrieved: 2026-07-17
 sweep_batch: CMR-2026-07-17

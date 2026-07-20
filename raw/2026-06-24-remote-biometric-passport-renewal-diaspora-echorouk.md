@@ -12,7 +12,7 @@ retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 places: [DZA]
 topics: [dpi.id, dpi.govtech, gov.protect]
-entities: [said-saoud, ministere-de-linterieur]
+entities: [[said-saoud, ministere-de-linterieur]]
 lens: []
 ---
 

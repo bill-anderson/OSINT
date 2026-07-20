@@ -11,7 +11,7 @@ retrieved: 2026-07-17
 sweep_batch: SEN-2026-07-17
 places: [SEN]
 topics: [geopol.china, infra.store, infra.connect]
-entities: [[[huawei]], [[alioune-sall]]]
+entities: [[huawei], [alioune-sall]]
 lens: [sovereignty]
 ---
 

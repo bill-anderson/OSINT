@@ -12,7 +12,7 @@ retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 places: [DZA]
 topics: [tech.ai, gov.legislate, gov.policy, capacity.training]
-entities: [kamel-baddari, conseil-scientifique-algerien-intelligence-artificielle, national-ai-strategy]
+entities: [[kamel-baddari, conseil-scientifique-algerien-intelligence-artificielle, national-ai-strategy]]
 lens: []
 ---
 

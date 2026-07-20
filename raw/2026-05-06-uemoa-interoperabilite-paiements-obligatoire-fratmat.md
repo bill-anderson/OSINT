@@ -10,7 +10,7 @@ retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV, XWA]
 topics: [dpi.pay, gov.regional, gov.legislate]
-entities: [[bceao]], [[uemoa]], [[gsma]]
+entities: [[bceao], [uemoa], [gsma]]
 lens: []
 ---
 

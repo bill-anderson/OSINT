@@ -9,7 +9,7 @@ date_precision: day
 date_source: source
 places: [CMR]
 topics: [infra.cybersec, infra.connect, gov.standards, infra.capacity]
-entities: [[antic-cameroon]], [[icann]], [[afrinic]], [[camtel]], [[mtn-cameroon]], [[orange-cameroun]]
+entities: [[antic-cameroon], [icann], [afrinic], [camtel], [mtn-cameroon], [orange-cameroun]]
 lens: [sovereignty]
 retrieved: 2026-07-17
 sweep_batch: CMR-2026-07-17

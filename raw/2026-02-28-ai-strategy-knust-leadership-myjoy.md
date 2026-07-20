@@ -10,7 +10,7 @@ retrieved: 2026-07-17
 sweep_batch: GHA-2026-07-17
 places: [GHA]
 topics: [tech.ai, gov.policy, capacity.research]
-entities: [[ghana-national-ai-strategy]], [[knust]]
+entities: [[ghana-national-ai-strategy], [knust]]
 lens: []
 ---
 # The road to approval: Inside Ghana's AI strategy and KNUST's leadership

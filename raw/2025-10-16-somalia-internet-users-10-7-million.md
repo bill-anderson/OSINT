@@ -11,7 +11,7 @@ retrieved: 2026-07-17
 sweep_batch: SOM-2026-07-17
 places: [SOM]
 topics: [infra.connect, include.access, gov.policy, data.statistics]
-entities: [[starlink]], [[astaanconnect]]
+entities: [[starlink], [astaanconnect]]
 lens: []
 ---
 

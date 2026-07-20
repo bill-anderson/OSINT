@@ -8,7 +8,7 @@ date_precision: day
 date_source: source
 places: [STP]
 topics: [gov.protect]
-entities: [[anpdp]], [[cnpd-portugal]], [[rede-lusofona-protecao-dados]]
+entities: [[anpdp], [cnpd-portugal], [rede-lusofona-protecao-dados]]
 lens: []
 body_completeness: full
 retrieved: 2026-07-17

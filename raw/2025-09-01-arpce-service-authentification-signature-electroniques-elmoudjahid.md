@@ -12,7 +12,7 @@ retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 places: [DZA]
 topics: [dpi.id, dpi.govtech, gov.standards, infra.cybersec]
-entities: [arpce, aece, samia-touchen, sid-ali-zerrouki, meriem-benmouloud, mohamed-el-hadi-hennachi]
+entities: [[arpce, aece, samia-touchen, sid-ali-zerrouki, meriem-benmouloud, mohamed-el-hadi-hennachi]]
 lens: [sovereignty]
 provenance_flag: state-media
 ---

@@ -11,7 +11,7 @@ retrieved: 2026-07-17
 sweep_batch: SEN-2026-07-17
 places: [SEN]
 topics: [dpi.registry, dpi.govtech]
-entities: [[[ansd]]]
+entities: [[ansd]]
 lens: []
 ---
 

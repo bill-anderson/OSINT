@@ -10,7 +10,7 @@ retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [gov.legislate, gov.standards]
-entities: [[artci]], [[ansut]], [[anssi-cote-divoire]], [[agence-ivoirienne-de-gestion-des-frequences]]
+entities: [[artci], [ansut], [anssi-cote-divoire], [agence-ivoirienne-de-gestion-des-frequences]]
 lens: []
 ---
 

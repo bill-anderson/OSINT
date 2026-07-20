@@ -9,7 +9,7 @@ date_precision: day
 date_source: source
 places: [CMR]
 topics: [tech.ai, tech.industry, tech.innovate, gov.protect, dpi.mis, data.statistics]
-entities: [[mtn-cameroon]], [[camtrack]]
+entities: [[mtn-cameroon], [camtrack]]
 lens: []
 provenance_flag: pr-wire
 provenance_note: >

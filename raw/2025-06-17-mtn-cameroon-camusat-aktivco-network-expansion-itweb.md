@@ -9,7 +9,7 @@ date_precision: day
 date_source: source
 places: [CMR]
 topics: [infra.connect, infra.energy, tech.industry, finance.new, finance.mou, include.access]
-entities: [[mtn-cameroon]], [[camusat]], [[aktivco]]
+entities: [[mtn-cameroon], [camusat], [aktivco]]
 lens: []
 retrieved: 2026-07-17
 sweep_batch: CMR-2026-07-17

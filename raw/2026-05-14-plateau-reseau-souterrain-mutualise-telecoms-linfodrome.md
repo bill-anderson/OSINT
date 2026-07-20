@@ -10,7 +10,7 @@ retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [infra.connect, digital.localgov]
-entities: [[kaydan-technology]], [[groupe-kaydan]], [[mairie-du-plateau]], [[jacques-gabriel-ehouo]], [[alain-kouadio]]
+entities: [[kaydan-technology], [groupe-kaydan], [mairie-du-plateau], [jacques-gabriel-ehouo], [alain-kouadio]]
 lens: []
 ---
 

@@ -10,7 +10,7 @@ retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [digital.localgov, dpi.govtech]
-entities: [[clotchor-secongo]], [[tresorpay]], [[tresor-public-cote-divoire]]
+entities: [[clotchor-secongo], [tresorpay], [tresor-public-cote-divoire]]
 lens: []
 provenance_flag: pr-wire
 ---

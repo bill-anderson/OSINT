@@ -12,7 +12,7 @@ sweep_batch: RWA-2026-07-17
 body_completeness: full
 places: [RWA]
 topics: [dpi.id, gov.policy]
-entities: [[nida-rwanda]], [[paula-ingabire]]
+entities: [[nida-rwanda], [paula-ingabire]]
 ---
 
 Rwanda launching digital identity, biometrics enrollment with $8.5M budget | Biometric Update

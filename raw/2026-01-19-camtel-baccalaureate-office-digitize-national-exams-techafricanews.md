@@ -9,7 +9,7 @@ date_precision: day
 date_source: source
 places: [CMR]
 topics: [dpi.mis, dpi.govtech, infra.store, infra.connect, gov.protect, finance.mou]
-entities: [[camtel]], [[cameroon-baccalaureate-office]]
+entities: [[camtel], [cameroon-baccalaureate-office]]
 lens: [sovereignty]
 retrieved: 2026-07-17
 sweep_batch: CMR-2026-07-17

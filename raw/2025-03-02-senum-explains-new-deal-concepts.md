@@ -11,7 +11,7 @@ retrieved: 2026-07-17
 sweep_batch: SEN-2026-07-17
 places: [SEN]
 topics: [gov.policy, dpi.govtech]
-entities: [[[senum-sa]], [[new-deal-technologique]]]
+entities: [[senum-sa], [new-deal-technologique]]
 lens: [sovereignty]
 ---
 

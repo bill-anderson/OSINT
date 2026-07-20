@@ -9,7 +9,7 @@ date_precision: day
 date_source: source
 places: [CMR]
 topics: [finance.new, infra.connect, tech.industry, include.access, include.divides, dpi.govtech]
-entities: [[camtel]], [[commercial-bank-cameroun]]
+entities: [[camtel], [commercial-bank-cameroun]]
 lens: []
 provenance_flag: pr-wire
 provenance_note: >

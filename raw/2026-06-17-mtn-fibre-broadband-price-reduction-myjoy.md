@@ -10,7 +10,7 @@ retrieved: 2026-07-17
 sweep_batch: GHA-2026-07-17
 places: [GHA]
 topics: [infra.connect, include.access]
-entities: [[samuel-nartey-george]], [[mtn-ghana]]
+entities: [[samuel-nartey-george], [mtn-ghana]]
 lens: []
 ---
 # Sam George announces major reduction in MTN fibre broadband prices

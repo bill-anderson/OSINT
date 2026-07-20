@@ -11,7 +11,7 @@ retrieved: 2026-07-17
 sweep_batch: SEN-2026-07-17
 places: [SEN]
 topics: [infra.connect, gov.regional]
-entities: [[[sonatel]], [[phase3-telecom]]]
+entities: [[sonatel], [phase3-telecom]]
 lens: [sovereignty]
 ---
 

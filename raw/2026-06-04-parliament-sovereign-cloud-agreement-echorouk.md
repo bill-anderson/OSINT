@@ -12,7 +12,7 @@ retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 places: [DZA]
 topics: [infra.store, dpi.govtech, infra.cybersec]
-entities: [haut-commissariat-a-la-numerisation, centre-national-algerien-des-services-numeriques, meriem-benmouloud, assemblee-populaire-nationale]
+entities: [[haut-commissariat-a-la-numerisation, centre-national-algerien-des-services-numeriques, meriem-benmouloud, assemblee-populaire-nationale]]
 lens: [sovereignty]
 ---
 

@@ -12,7 +12,7 @@ retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 places: [DZA]
 topics: [dpi.pay, tech.industry]
-entities: [enie, ministere-des-finances, abdeslam-bouab]
+entities: [[enie, ministere-des-finances, abdeslam-bouab]]
 lens: [sovereignty]
 ---
 

@@ -8,7 +8,7 @@ date_precision: day
 date_source: source
 places: [GAB]
 topics: [dpi.pay]
-entities: [[beac]], [[madigipaie-gabon]]
+entities: [[beac], [madigipaie-gabon]]
 retrieved: 2026-07-17
 sweep_batch: GAB-2026-07-17
 ---

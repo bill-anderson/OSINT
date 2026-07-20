@@ -9,7 +9,7 @@ date_precision: day
 date_source: source
 places: [CMR]
 topics: [dpi.id, dpi.mis, dpi.pay, include.access, finance.mou]
-entities: [[mtn-cameroon]], [[mtn-mobile-money-corporation]], [[ministry-of-secondary-education-cameroon]]
+entities: [[mtn-cameroon], [mtn-mobile-money-corporation], [ministry-of-secondary-education-cameroon]]
 lens: [sovereignty]
 retrieved: 2026-07-17
 sweep_batch: CMR-2026-07-17

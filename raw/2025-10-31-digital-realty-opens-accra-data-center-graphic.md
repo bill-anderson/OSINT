@@ -10,7 +10,7 @@ retrieved: 2026-07-17
 sweep_batch: GHA-2026-07-17
 places: [GHA]
 topics: [infra.store, geopol.usa]
-entities: [[digital-realty]], [[samuel-nartey-george]]
+entities: [[digital-realty], [samuel-nartey-george]]
 lens: [sovereignty]
 ---
 

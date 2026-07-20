@@ -9,7 +9,7 @@ date_precision: day
 date_source: source
 places: [CMR, XCA]
 topics: [dpi.pay, tech.industry, finance.mou, include.access, geopol.usa, infra.cybersec]
-entities: [[visa]], [[afriland-first-bank]]
+entities: [[visa], [afriland-first-bank]]
 lens: []
 provenance_flag: pr-wire
 provenance_note: >

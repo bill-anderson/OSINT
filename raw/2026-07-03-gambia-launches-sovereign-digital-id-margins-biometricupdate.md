@@ -10,7 +10,7 @@ retrieved: 2026-07-17
 sweep_batch: GMB-2026-07-17
 places: [GMB]
 topics: [dpi.id, infra.store]
-entities: [[gambia-national-id-contract]], [[margins-id-group]]
+entities: [[gambia-national-id-contract], [margins-id-group]]
 lens: [sovereignty]
 ---
 

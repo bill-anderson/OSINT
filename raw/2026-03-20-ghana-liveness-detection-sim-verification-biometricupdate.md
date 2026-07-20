@@ -10,7 +10,7 @@ retrieved: 2026-07-17
 sweep_batch: GHA-2026-07-17
 places: [GHA]
 topics: [dpi.id, infra.cybersec]
-entities: [[national-identification-authority-ghana]], [[national-communications-authority-ghana]], [[samuel-nartey-george]]
+entities: [[national-identification-authority-ghana], [national-communications-authority-ghana], [samuel-nartey-george]]
 lens: []
 ---
 # Ghana to introduce liveness detection with self-service app in upcoming SIM verification drive

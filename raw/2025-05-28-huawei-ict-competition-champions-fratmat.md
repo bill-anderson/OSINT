@@ -10,7 +10,7 @@ retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [capacity.training, geopol.china]
-entities: [[huawei]], [[esatic]], [[universite-polytechnique-de-bingerville]]
+entities: [[huawei], [esatic], [universite-polytechnique-de-bingerville]]
 lens: []
 ---
 

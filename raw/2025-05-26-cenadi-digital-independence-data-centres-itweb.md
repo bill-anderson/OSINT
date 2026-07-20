@@ -9,7 +9,7 @@ date_precision: day
 date_source: source
 places: [CMR]
 topics: [infra.store, infra.energy, infra.connect, gov.policy, gov.standards, infra.capacity, data.statistics]
-entities: [[cenadi]], [[ministry-of-finance-cameroon]]
+entities: [[cenadi], [ministry-of-finance-cameroon]]
 lens: [sovereignty]
 retrieved: 2026-07-17
 sweep_batch: CMR-2026-07-17

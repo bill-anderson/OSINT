@@ -11,7 +11,7 @@ accessed: 2026-07-16
 ingested: 2026-07-16
 places: [MUS]
 topics: [dpi.id, dpi.govtech]
-entities: [[mauritius-mobile-id]], [[thales]]
+entities: [[mauritius-mobile-id], [thales]]
 lens: []
 ---
 

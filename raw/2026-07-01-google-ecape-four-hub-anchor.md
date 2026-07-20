@@ -9,7 +9,7 @@ date_source: source
 places: [ZAF]
 topics: [infra.connect, geopol.usa]
 entities: [[google]]
-lens: [geopol.usa]
+lens: []
 body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: ZAF-2026-07-17

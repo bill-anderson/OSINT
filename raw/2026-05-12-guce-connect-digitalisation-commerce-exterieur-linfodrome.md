@@ -10,7 +10,7 @@ retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [dpi.govtech, dpi.exchange]
-entities: [[guce-ci]], [[guce-connect]], [[issouf-fadika]], [[kitifolo-kignaman-soro]]
+entities: [[guce-ci], [guce-connect], [issouf-fadika], [kitifolo-kignaman-soro]]
 lens: []
 ---
 

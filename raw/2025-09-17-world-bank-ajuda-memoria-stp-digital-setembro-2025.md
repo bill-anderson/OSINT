@@ -8,7 +8,7 @@ date_precision: day
 date_source: source
 places: [STP]
 topics: [infra.store, dpi.id, dpi.exchange, dpi.govtech, infra.connect, infra.cybersec, data.statistics]
-entities: [[world-bank]], [[stp-digital]], [[inic]], [[dgrn]], [[ager]]
+entities: [[world-bank], [stp-digital], [inic], [dgrn], [ager]]
 lens: []
 body_completeness: excerpt
 retrieved: 2026-07-17

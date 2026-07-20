@@ -8,7 +8,7 @@ date_precision: day
 date_source: source
 places: [CMR, ETH]
 topics: [infra.connect, infra.store, tech.industry, finance.mou, gov.regional, capacity.training]
-entities: [[camtel]], [[ethio-telecom]], [[zamengoe-data-centre]]
+entities: [[camtel], [ethio-telecom], [zamengoe-data-centre]]
 lens: [sovereignty]
 retrieved: 2026-07-17
 sweep_batch: CMR-2026-07-17

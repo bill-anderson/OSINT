@@ -10,7 +10,7 @@ retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [capacity.training, geopol.china]
-entities: [[huawei]], [[inp-hb]], [[esatic]], [[hub-ivoire-tech]], [[djibril-ouattara]], [[august-dong]]
+entities: [[huawei], [inp-hb], [esatic], [hub-ivoire-tech], [djibril-ouattara], [august-dong]]
 lens: []
 ---
 

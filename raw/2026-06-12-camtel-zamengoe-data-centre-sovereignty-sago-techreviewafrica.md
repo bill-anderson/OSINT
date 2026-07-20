@@ -9,7 +9,7 @@ date_precision: day
 date_source: source
 places: [CMR, XCA]
 topics: [infra.store, gov.protect, dpi.govtech, tech.industry]
-entities: [[camtel]], [[zamengoe-data-centre]]
+entities: [[camtel], [zamengoe-data-centre]]
 lens: [sovereignty]
 provenance_flag: pr-wire
 provenance_note: >

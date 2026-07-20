@@ -10,7 +10,7 @@ retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [XWA]
 topics: [infra.connect, gov.regional]
-entities: [[cedeao]], [[afpif]]
+entities: [[cedeao], [afpif]]
 lens: [sovereignty]
 ---
 

@@ -12,7 +12,7 @@ retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 places: [DZA]
 topics: [infra.connect, include.access, data.statistics]
-entities: [ministere-de-la-poste-et-des-telecommunications, algerie-telecom]
+entities: [[ministere-de-la-poste-et-des-telecommunications, algerie-telecom]]
 lens: []
 ---
 

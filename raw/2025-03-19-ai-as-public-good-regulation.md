@@ -11,7 +11,7 @@ retrieved: 2026-07-17
 sweep_batch: SEN-2026-07-17
 places: [SEN]
 topics: [tech.ai, gov.policy]
-entities: [[[jonction]], [[new-deal-technologique]]]
+entities: [[jonction], [new-deal-technologique]]
 lens: []
 ---
 

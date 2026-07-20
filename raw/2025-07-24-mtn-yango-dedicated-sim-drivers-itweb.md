@@ -9,7 +9,7 @@ date_precision: day
 date_source: source
 places: [CMR]
 topics: [dpi.pay, tech.industry, tech.innovate, include.access, infra.connect, finance.mou]
-entities: [[mtn-cameroon]], [[yango]], [[mtn-mobile-money]]
+entities: [[mtn-cameroon], [yango], [mtn-mobile-money]]
 lens: []
 retrieved: 2026-07-17
 sweep_batch: CMR-2026-07-17

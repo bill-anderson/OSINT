@@ -12,7 +12,7 @@ retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 places: [DZA]
 topics: [dpi.id, gov.legislate, gov.standards, infra.cybersec]
-entities: [arpce, ance, agce, aece, sid-ali-zerrouki, ministere-poste-telecommunications]
+entities: [[arpce, ance, agce, aece, sid-ali-zerrouki, ministere-poste-telecommunications]]
 lens: [sovereignty]
 provenance_flag: state-media
 ---

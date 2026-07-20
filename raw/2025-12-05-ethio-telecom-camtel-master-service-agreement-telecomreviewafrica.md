@@ -8,7 +8,7 @@ date_precision: day
 date_source: source
 places: [CMR, ETH]
 topics: [infra.connect, infra.store, dpi.pay, tech.industry, finance.mou, gov.regional, dpi.govtech, include.access]
-entities: [[camtel]], [[ethio-telecom]]
+entities: [[camtel], [ethio-telecom]]
 lens: [sovereignty]
 retrieved: 2026-07-17
 sweep_batch: CMR-2026-07-17

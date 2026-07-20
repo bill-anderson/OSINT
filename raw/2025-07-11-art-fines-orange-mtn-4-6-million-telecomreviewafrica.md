@@ -8,7 +8,7 @@ date_precision: day
 date_source: source
 places: [CMR]
 topics: [gov.legislate, gov.standards, infra.connect, include.access, tech.industry]
-entities: [[art-cameroon]], [[orange-cameroun]], [[mtn-cameroon]]
+entities: [[art-cameroon], [orange-cameroun], [mtn-cameroon]]
 lens: []
 retrieved: 2026-07-17
 sweep_batch: CMR-2026-07-17

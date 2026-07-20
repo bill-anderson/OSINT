@@ -9,7 +9,7 @@ date_precision: day
 date_source: source
 places: [CMR]
 topics: [tech.ai, gov.policy, gov.legislate, capacity.training, capacity.research, tech.innovate, gov.protect, include.divides]
-entities: [[snia-cameroon]], [[minpostel]]
+entities: [[snia-cameroon], [minpostel]]
 lens: [sovereignty]
 retrieved: 2026-07-17
 sweep_batch: CMR-2026-07-17

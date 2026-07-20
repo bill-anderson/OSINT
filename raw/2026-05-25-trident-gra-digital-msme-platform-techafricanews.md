@@ -10,7 +10,7 @@ retrieved: 2026-07-17
 sweep_batch: GHA-2026-07-17
 places: [GHA]
 topics: [dpi.pay, dpi.govtech, tech.industry]
-entities: [[ghana-revenue-authority]], [[trident-digital]]
+entities: [[ghana-revenue-authority], [trident-digital]]
 lens: []
 ---
 # Trident Begins Commercial Rollout of Ghana Revenue Authority Digital MSME Platform

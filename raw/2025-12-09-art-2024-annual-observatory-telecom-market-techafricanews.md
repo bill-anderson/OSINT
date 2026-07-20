@@ -9,7 +9,7 @@ date_precision: day
 date_source: source
 places: [CMR]
 topics: [data.statistics, infra.connect, tech.industry, dpi.pay, gov.legislate, finance.new, include.access, infra.store]
-entities: [[art-cameroon]], [[camtel]], [[mtn-cameroon]], [[orange-cameroun]], [[ihs-towers]]
+entities: [[art-cameroon], [camtel], [mtn-cameroon], [orange-cameroun], [ihs-towers]]
 lens: [sovereignty]
 retrieved: 2026-07-17
 sweep_batch: CMR-2026-07-17

@@ -9,7 +9,7 @@ date_precision: day
 date_source: source
 places: [SSD]
 topics: [geopol.china, infra.store, infra.connect, infra.energy]
-entities: [[huawei]], [[national-communication-authority-south-sudan]]
+entities: [[huawei], [national-communication-authority-south-sudan]]
 lens: [sovereignty]
 body_completeness: full
 retrieved: 2026-07-17

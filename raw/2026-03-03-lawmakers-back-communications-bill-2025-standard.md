@@ -10,7 +10,7 @@ retrieved: 2026-07-17
 sweep_batch: GMB-2026-07-17
 places: [GMB]
 topics: [gov.legislate, gov.protect, infra.cybersec]
-entities: [ ]
+entities: []
 ---
 
 # Lawmakers back bill to protect personal data in digital age

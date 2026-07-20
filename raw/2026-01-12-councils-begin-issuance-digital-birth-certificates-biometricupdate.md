@@ -9,7 +9,7 @@ date_precision: day
 date_source: source
 places: [CMR]
 topics: [dpi.registry, dpi.id, digital.localgov, include.access, gov.legislate]
-entities: [[bunec]], [[undp]], [[liber-technologies]], [[cameroon-civil-registration-law-2024]]
+entities: [[bunec], [undp], [liber-technologies], [cameroon-civil-registration-law-2024]]
 lens: [sovereignty]
 retrieved: 2026-07-17
 sweep_batch: CMR-2026-07-17

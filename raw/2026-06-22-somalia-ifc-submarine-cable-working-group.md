@@ -11,7 +11,7 @@ retrieved: 2026-07-17
 sweep_batch: SOM-2026-07-17
 places: [SOM]
 topics: [infra.connect, gov.standards, finance.new]
-entities: [[national-communications-authority-somalia]], [[ifc]]
+entities: [[national-communications-authority-somalia], [ifc]]
 lens: []
 ---
 

@@ -9,7 +9,7 @@ date_precision: day
 date_source: source
 places: [CMR]
 topics: [infra.connect, tech.industry, infra.cybersec]
-entities: [[camtel]], [[world-trade-organization]]
+entities: [[camtel], [world-trade-organization]]
 lens: []
 provenance_flag: pr-wire
 provenance_note: >

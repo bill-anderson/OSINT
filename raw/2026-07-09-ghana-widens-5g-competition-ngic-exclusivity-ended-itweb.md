@@ -10,7 +10,7 @@ retrieved: 2026-07-17
 sweep_batch: GHA-2026-07-17
 places: [GHA]
 topics: [infra.connect, gov.legislate]
-entities: [[ngic-ghana]], [[mtn-ghana]], [[telecel-ghana]], [[national-communications-authority-ghana]]
+entities: [[ngic-ghana], [mtn-ghana], [telecel-ghana], [national-communications-authority-ghana]]
 lens: []
 ---
 

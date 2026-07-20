@@ -2,7 +2,7 @@
 type: entity
 entity_type: company
 title: DigiPay (Congo-Brazzaville)
-places: [COG, FRA, BEL]
+places: [COG]
 topics: [dpi.pay, finance.mou, include.access]
 lens: []
 status: active

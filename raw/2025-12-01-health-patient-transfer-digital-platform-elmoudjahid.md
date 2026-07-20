@@ -13,7 +13,7 @@ retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 places: [DZA]
 topics: [dpi.mis, dpi.govtech, include.access]
-entities: [ministere-de-la-sante, mohamed-seddik-ait-messaoudene]
+entities: [[ministere-de-la-sante, mohamed-seddik-ait-messaoudene]]
 lens: []
 provenance_flag: state-media
 ---

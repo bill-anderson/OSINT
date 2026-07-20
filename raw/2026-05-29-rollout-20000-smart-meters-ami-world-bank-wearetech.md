@@ -9,7 +9,7 @@ date_precision: day
 date_source: source
 places: [CMR]
 topics: [infra.energy, infra.store, dpi.mis, dpi.govtech, finance.new, data.statistics, include.access]
-entities: [[minee-cameroon]], [[socadel]], [[world-bank]], [[african-development-bank]]
+entities: [[minee-cameroon], [socadel], [world-bank], [african-development-bank]]
 lens: []
 retrieved: 2026-07-17
 sweep_batch: CMR-2026-07-17

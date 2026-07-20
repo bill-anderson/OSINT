@@ -12,7 +12,7 @@ retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 places: [DZA]
 topics: [capacity.research, tech.innovate, gov.policy]
-entities: [abdelmadjid-tebboune, haut-conseil-des-scientifiques-et-chercheurs]
+entities: [[abdelmadjid-tebboune, haut-conseil-des-scientifiques-et-chercheurs]]
 lens: []
 ---
 

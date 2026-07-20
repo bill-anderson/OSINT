@@ -10,7 +10,7 @@ retrieved: 2026-07-17
 sweep_batch: MAR-2026-07-17
 places: [MAR]
 topics: [infra.connect]
-entities: [[maroc-telecom]], [[inwi]]
+entities: [[maroc-telecom], [inwi]]
 lens: []
 ---
 

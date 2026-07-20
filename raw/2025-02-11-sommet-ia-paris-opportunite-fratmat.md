@@ -10,7 +10,7 @@ retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [tech.ai, gov.policy, geopol.eu]
-entities: [[smart-africa]], [[openai]], [[mistral-ai]], [[union-africaine]], [[onu]], [[commission-europeenne]]
+entities: [[smart-africa], [openai], [mistral-ai], [union-africaine], [onu], [commission-europeenne]]
 lens: []
 ---
 

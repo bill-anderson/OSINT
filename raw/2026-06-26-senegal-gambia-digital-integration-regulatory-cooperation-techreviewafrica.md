@@ -11,7 +11,7 @@ sweep_batch: GMB-2026-07-17
 provenance_flag: pr-wire
 places: [GMB]
 topics: [gov.regional, gov.legislate]
-entities: [ ]
+entities: []
 ---
 
 # Senegal and The Gambia enhance digital integration through regulatory cooperation agreement

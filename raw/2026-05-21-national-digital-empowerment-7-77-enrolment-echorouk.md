@@ -13,7 +13,7 @@ retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 places: [DZA]
 topics: [capacity.training, tech.ai, capacity.literacy, include.divides]
-entities: [ministere-de-la-poste-et-des-telecommunications, national-digital-empowerment-programme]
+entities: [[ministere-de-la-poste-et-des-telecommunications, national-digital-empowerment-programme]]
 lens: []
 provenance_flag: privately-owned
 ---

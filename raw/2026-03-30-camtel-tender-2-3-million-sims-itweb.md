@@ -9,7 +9,7 @@ date_precision: day
 date_source: source
 places: [CMR]
 topics: [infra.connect, tech.industry, include.access, dpi.govtech]
-entities: [[camtel]], [[mtn-cameroon]], [[orange-cameroun]]
+entities: [[camtel], [mtn-cameroon], [orange-cameroun]]
 lens: [sovereignty]
 retrieved: 2026-07-17
 sweep_batch: CMR-2026-07-17

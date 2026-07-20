@@ -8,7 +8,7 @@ date_precision: day
 date_source: source
 places: [STP]
 topics: [dpi.pay, finance.new, tech.innovate]
-entities: [[bcstp]], [[afap]]
+entities: [[bcstp], [afap]]
 lens: []
 body_completeness: excerpt
 retrieved: 2026-07-17

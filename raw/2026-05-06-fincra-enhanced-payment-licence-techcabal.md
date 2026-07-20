@@ -10,7 +10,7 @@ retrieved: 2026-07-17
 sweep_batch: GHA-2026-07-17
 places: [GHA]
 topics: [dpi.pay, finance.new]
-entities: [[fincra]], [[bank-of-ghana]]
+entities: [[fincra], [bank-of-ghana]]
 lens: []
 ---
 # Fincra expands Ghana presence with new payments licence approval

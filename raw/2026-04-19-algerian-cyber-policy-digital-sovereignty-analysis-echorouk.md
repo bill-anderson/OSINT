@@ -12,7 +12,7 @@ retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 places: [DZA]
 topics: [gov.policy, infra.cybersec, gov.protect, dpi.govtech, data.statistics]
-entities: [anpdcp, haut-commissariat-a-la-numerisation]
+entities: [[anpdcp, haut-commissariat-a-la-numerisation]]
 lens: [sovereignty]
 ---
 

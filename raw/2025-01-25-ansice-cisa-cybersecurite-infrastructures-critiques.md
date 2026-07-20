@@ -11,7 +11,7 @@ retrieved: 2026-07-17
 sweep_batch: TCD-2026-07-17
 places: [TCD]
 topics: [infra.cybersec, geopol.usa, capacity.training]
-entities: [[ansice]], [[cisa]]
+entities: [[ansice], [cisa]]
 lens: []
 ---
 

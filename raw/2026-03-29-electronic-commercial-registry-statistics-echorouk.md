@@ -13,7 +13,7 @@ retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 places: [DZA]
 topics: [dpi.registry, data.statistics, dpi.govtech, data.open]
-entities: [ministere-du-commerce-interieur, cnrc]
+entities: [[ministere-du-commerce-interieur, cnrc]]
 lens: []
 provenance_flag: privately-owned
 ---

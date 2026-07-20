@@ -9,7 +9,7 @@ date_precision: day
 date_source: source
 places: [CMR, GAB, COG, CIV]
 topics: [infra.store, infra.cybersec, tech.industry, gov.protect, capacity.training, dpi.govtech]
-entities: [[st-digital]], [[anthony-same]]
+entities: [[st-digital], [anthony-same]]
 lens: [sovereignty]
 retrieved: 2026-07-17
 sweep_batch: CMR-2026-07-17

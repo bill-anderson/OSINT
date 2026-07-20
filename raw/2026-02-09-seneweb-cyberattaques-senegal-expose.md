@@ -11,7 +11,7 @@ retrieved: 2026-07-17
 sweep_batch: SEN-2026-07-17
 places: [SEN]
 topics: [infra.cybersec, gov.protect, dpi.id]
-entities: [[[senegal-numerique-sa]]]
+entities: [[senegal-numerique-sa]]
 lens: []
 ---
 

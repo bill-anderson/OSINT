@@ -12,7 +12,7 @@ retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 places: [DZA]
 topics: [dpi.id, dpi.govtech, dpi.registry]
-entities: [cnas]
+entities: [[cnas]]
 lens: []
 ---
 

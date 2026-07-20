@@ -10,7 +10,7 @@ retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [tech.ai, infra.store, gov.regional]
-entities: [[sah-analytics]], [[siade]], [[cgeci]], [[data354]]
+entities: [[sah-analytics], [siade], [cgeci], [data354]]
 lens: [sovereignty]
 ---
 

@@ -10,7 +10,7 @@ retrieved: 2026-07-17
 sweep_batch: GHA-2026-07-17
 places: [GHA]
 topics: [dpi.mis, dpi.govtech]
-entities: [[ministry-of-health-ghana]], [[ghana-health-service]]
+entities: [[ministry-of-health-ghana], [ghana-health-service]]
 lens: []
 ---
 # Health Ministry rolls out new digital system after NHIS electronic platform disruptions

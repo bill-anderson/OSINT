@@ -8,7 +8,7 @@ date_precision: day
 date_source: source
 places: [STP]
 topics: [dpi.exchange, dpi.registry, dpi.id]
-entities: [[prese]], [[dgrn]], [[universidade-aveiro]]
+entities: [[prese], [dgrn], [universidade-aveiro]]
 lens: [colonialism]
 body_completeness: full
 retrieved: 2026-07-17

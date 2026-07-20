@@ -8,7 +8,7 @@ date_precision: day
 date_source: source
 places: [GAB]
 topics: [gov.policy]
-entities: [[aninf-gabon]], [[world-bank]]
+entities: [[aninf-gabon], [world-bank]]
 retrieved: 2026-07-17
 sweep_batch: GAB-2026-07-17
 provenance_flag: pr-wire

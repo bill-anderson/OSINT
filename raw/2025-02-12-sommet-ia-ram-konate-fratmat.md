@@ -10,7 +10,7 @@ retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [tech.ai, gov.policy]
-entities: [[unesco]], [[haute-autorite-de-la-bonne-gouvernance]], [[agence-internationale-de-lenergie]]
+entities: [[unesco], [haute-autorite-de-la-bonne-gouvernance], [agence-internationale-de-lenergie]]
 lens: [sovereignty]
 ---
 

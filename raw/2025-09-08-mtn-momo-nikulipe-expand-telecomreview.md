@@ -10,7 +10,7 @@ retrieved: 2026-07-17
 sweep_batch: GHA-2026-07-17
 places: [GHA]
 topics: [dpi.pay, gov.regional]
-entities: [[mtn-ghana]], [[nikulipe]]
+entities: [[mtn-ghana], [nikulipe]]
 lens: []
 ---
 # MTN MoMo and Nikulipe Expand Digital Finance Across Africa

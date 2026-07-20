@@ -11,7 +11,7 @@ retrieved: 2026-07-17
 sweep_batch: SEN-2026-07-17
 places: [SEN]
 topics: [dpi.exchange, dpi.govtech, gov.policy]
-entities: [[[new-deal-technologique]], [[jica]]]
+entities: [[new-deal-technologique], [jica]]
 lens: [sovereignty]
 ---
 

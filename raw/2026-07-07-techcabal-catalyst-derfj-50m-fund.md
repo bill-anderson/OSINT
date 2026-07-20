@@ -11,7 +11,7 @@ retrieved: 2026-07-17
 sweep_batch: SEN-2026-07-17
 places: [SEN]
 topics: [finance.new, tech.innovate, dpi.pay]
-entities: [[[der-fj]], [[wave]]]
+entities: [[der-fj], [wave]]
 lens: []
 ---
 

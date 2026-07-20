@@ -10,7 +10,7 @@ retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [include.access, include.divides, infra.connect]
-entities: [[ansut]], [[ministere-de-la-transition-numerique-et-de-la-digitalisation-cote-divoire]], [[programme-national-de-connectivite-rurale]]
+entities: [[ansut], [ministere-de-la-transition-numerique-et-de-la-digitalisation-cote-divoire], [programme-national-de-connectivite-rurale]]
 lens: []
 ---
 

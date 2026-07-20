@@ -7,9 +7,9 @@ published: 2026-01-23
 date_precision: day
 date_source: source
 places: [ZAF]
-topics: [infra.store, finance.new]
+topics: [infra.store, finance.new, geopol.usa]
 entities: [[africa-data-centres], [stanlib]]
-lens: [geopol.usa]
+lens: []
 body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: ZAF-2026-07-17

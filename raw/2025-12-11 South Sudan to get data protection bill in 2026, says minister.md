@@ -10,7 +10,7 @@ date_source: source
 ingested: 2026-07-16
 places: [SSD]
 topics: [gov.protect, gov.legislate, infra.cybersec]
-entities: [[south-sudan-data-protection-bill]], [[south-sudan-cybercrime-bill-2025]], [[national-communication-authority-south-sudan]]
+entities: [[south-sudan-data-protection-bill], [south-sudan-cybercrime-bill-2025], [national-communication-authority-south-sudan]]
 lens: []
 ---
 

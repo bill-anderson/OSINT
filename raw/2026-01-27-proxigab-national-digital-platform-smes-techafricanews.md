@@ -9,7 +9,7 @@ date_precision: day
 date_source: source
 places: [CMR]
 topics: [dpi.govtech, tech.innovate, finance.new, include.access, gov.protect]
-entities: [[proxigab]], [[ministry-of-trade-smes-and-youth-entrepreneurship-cameroon]]
+entities: [[proxigab], [ministry-of-trade-smes-and-youth-entrepreneurship-cameroon]]
 lens: []
 retrieved: 2026-07-17
 sweep_batch: CMR-2026-07-17

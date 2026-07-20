@@ -2,7 +2,7 @@
 type: entity
 entity_type: company
 title: Artefact
-places: [CIV, FRA]
+places: [CIV]
 topics: [tech.ai, tech.industry]
 lens: []
 status: active

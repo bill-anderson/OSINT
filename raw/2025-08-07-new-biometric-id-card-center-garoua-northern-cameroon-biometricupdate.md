@@ -9,7 +9,7 @@ date_precision: day
 date_source: source
 places: [CMR]
 topics: [dpi.id, include.access, include.divides, digital.rural]
-entities: [[dgsn-cameroon]], [[augentic]], [[iom]], [[unhcr]]
+entities: [[dgsn-cameroon], [augentic], [iom], [unhcr]]
 lens: [sovereignty]
 retrieved: 2026-07-17
 sweep_batch: CMR-2026-07-17

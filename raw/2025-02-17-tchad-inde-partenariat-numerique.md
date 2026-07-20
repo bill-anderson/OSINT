@@ -11,7 +11,7 @@ retrieved: 2026-07-17
 sweep_batch: TCD-2026-07-17
 places: [TCD]
 topics: [geopol.india, capacity.training, dpi.govtech, tech.ai]
-entities: [[enastic]], [[patn]]
+entities: [[enastic], [patn]]
 lens: []
 ---
 

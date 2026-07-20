@@ -10,7 +10,7 @@ date_source: source
 ingested: 2026-07-16
 places: [SSD]
 topics: [gov.protect, gov.legislate]
-entities: [[paradigm-initiative]], [[koneta-hub]], [[national-communication-authority-south-sudan]], [[south-sudan-data-protection-bill]]
+entities: [[paradigm-initiative], [koneta-hub], [national-communication-authority-south-sudan], [south-sudan-data-protection-bill]]
 lens: []
 ---
 

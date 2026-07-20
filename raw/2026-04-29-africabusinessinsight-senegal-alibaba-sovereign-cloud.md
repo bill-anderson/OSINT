@@ -11,7 +11,7 @@ retrieved: 2026-07-17
 sweep_batch: SEN-2026-07-17
 places: [SEN]
 topics: [infra.store, geopol.china, capacity.training]
-entities: [[[alibaba]], [[new-deal-technologique]]]
+entities: [[alibaba], [new-deal-technologique]]
 lens: [sovereignty]
 ---
 

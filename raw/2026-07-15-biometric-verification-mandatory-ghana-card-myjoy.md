@@ -10,7 +10,7 @@ retrieved: 2026-07-17
 sweep_batch: GHA-2026-07-17
 places: [GHA]
 topics: [dpi.id, gov.legislate]
-entities: [[national-identification-authority-ghana]], [[ghana-card]]
+entities: [[national-identification-authority-ghana], [ghana-card]]
 lens: []
 ---
 # Biometric verification now mandatory, photocopying or visual inspection of Ghana Card for transactions illegal

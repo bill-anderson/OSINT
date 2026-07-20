@@ -10,7 +10,7 @@ retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [dpi.id, capacity.literacy, digital.rural]
-entities: [[oneci]], [[ago-christian-kodia]], [[affessi-affessi]], [[rnpp]]
+entities: [[oneci], [ago-christian-kodia], [affessi-affessi], [rnpp]]
 lens: []
 ---
 

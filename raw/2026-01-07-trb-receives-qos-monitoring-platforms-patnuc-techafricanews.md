@@ -9,7 +9,7 @@ date_precision: day
 date_source: source
 places: [CMR]
 topics: [gov.legislate, gov.standards, infra.connect, infra.capacity, include.access, gov.policy]
-entities: [[art-cameroon]], [[patnuc]], [[world-bank]], [[minpostel]]
+entities: [[art-cameroon], [patnuc], [world-bank], [minpostel]]
 lens: [sovereignty]
 retrieved: 2026-07-17
 sweep_batch: CMR-2026-07-17

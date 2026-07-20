@@ -10,7 +10,7 @@ retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [dpi.govtech]
-entities: [[observatoire-fluidite-transports]], [[cntig]]
+entities: [[observatoire-fluidite-transports], [cntig]]
 lens: []
 ---
 

@@ -10,7 +10,7 @@ retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [dpi.exchange, dpi.govtech]
-entities: [[ministere-de-la-transition-numerique-et-de-la-digitalisation-cote-divoire]], [[sndi]], [[digital-nation]], [[x-road]], [[cnps]], [[cnam]], [[cepici]], [[direction-generale-des-impots-cote-divoire]], [[strategie-nationale-de-developpement-du-numerique-cote-divoire]]
+entities: [[ministere-de-la-transition-numerique-et-de-la-digitalisation-cote-divoire], [sndi], [digital-nation], [x-road], [cnps], [cnam], [cepici], [direction-generale-des-impots-cote-divoire], [strategie-nationale-de-developpement-du-numerique-cote-divoire]]
 lens: []
 ---
 

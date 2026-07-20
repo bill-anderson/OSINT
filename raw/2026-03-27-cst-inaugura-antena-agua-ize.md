@@ -8,7 +8,7 @@ date_precision: day
 date_source: source
 places: [STP]
 topics: [infra.connect, include.divides, include.access]
-entities: [[cst]], [[ager]]
+entities: [[cst], [ager]]
 lens: []
 body_completeness: full
 retrieved: 2026-07-17

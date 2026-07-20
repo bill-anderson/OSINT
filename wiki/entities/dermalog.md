@@ -2,7 +2,7 @@
 type: entity
 entity_type: company
 title: DERMALOG
-places: [DEU, COD]
+places: [COD]
 topics: [dpi.id, dpi.registry, gov.standards]
 lens: []
 status: active

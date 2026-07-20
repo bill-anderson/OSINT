@@ -10,7 +10,7 @@ retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [infra.store]
-entities: [[st-digital]], [[vitib]], [[artci]], [[idc]], [[aws]], [[microsoft-azure]], [[google-cloud]], [[apl]], [[ministere-de-la-transition-numerique-et-de-la-digitalisation-cote-divoire]]
+entities: [[st-digital], [vitib], [artci], [idc], [aws], [microsoft-azure], [google-cloud], [apl], [ministere-de-la-transition-numerique-et-de-la-digitalisation-cote-divoire]]
 lens: [sovereignty]
 provenance_flag: pr-wire
 ---

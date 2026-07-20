@@ -10,7 +10,7 @@ retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [gov.policy, tech.innovate]
-entities: [[ivoire-tech-forum]], [[union-africaine]], [[commission-electorale-independante]], [[banque-islamique-de-developpement]], [[fmi]], [[banque-mondiale]]
+entities: [[ivoire-tech-forum], [union-africaine], [commission-electorale-independante], [banque-islamique-de-developpement], [fmi], [banque-mondiale]]
 lens: []
 ---
 

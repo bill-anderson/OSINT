@@ -10,7 +10,7 @@ retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [dpi.exchange, dpi.govtech]
-entities: [[guce-ci]], [[direction-generale-des-impots-cote-divoire]]
+entities: [[guce-ci], [direction-generale-des-impots-cote-divoire]]
 lens: []
 ---
 

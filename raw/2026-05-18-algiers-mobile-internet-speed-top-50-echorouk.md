@@ -13,7 +13,7 @@ retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 places: [DZA]
 topics: [infra.connect, data.statistics, include.access]
-entities: [ministere-de-la-poste-et-des-telecommunications, ookla, algerie-telecom]
+entities: [[ministere-de-la-poste-et-des-telecommunications, ookla, algerie-telecom]]
 lens: []
 provenance_flag: privately-owned
 ---

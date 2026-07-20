@@ -10,7 +10,7 @@ retrieved: 2026-07-17
 sweep_batch: GHA-2026-07-17
 places: [GHA]
 topics: [dpi.govtech, finance.new]
-entities: [[nita-ghana]], [[samuel-nartey-george]], [[world-bank]]
+entities: [[nita-ghana], [samuel-nartey-george], [world-bank]]
 lens: []
 ---
 # Ghana to add 16k digital govt services as part of $200M World Bank project

@@ -11,7 +11,7 @@ retrieved: 2026-07-17
 sweep_batch: SOM-2026-07-17
 places: [SOM]
 topics: [infra.cybersec, gov.policy]
-entities: [[som-cirt]], [[national-communications-authority-somalia]]
+entities: [[som-cirt], [national-communications-authority-somalia]]
 lens: []
 ---
 

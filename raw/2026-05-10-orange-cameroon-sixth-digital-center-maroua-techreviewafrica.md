@@ -9,7 +9,7 @@ date_precision: day
 date_source: source
 places: [CMR]
 topics: [capacity.training, tech.innovate, include.divides, digital.rural, tech.industry, capacity.research]
-entities: [[orange-cameroun]], [[orange-digital-center]], [[university-of-maroua]]
+entities: [[orange-cameroun], [orange-digital-center], [university-of-maroua]]
 lens: []
 provenance_flag: pr-wire
 provenance_note: >

@@ -10,7 +10,7 @@ date_source: source
 ingested: 2026-07-16
 places: [SSD]
 topics: [infra.store, infra.connect, gov.legislate]
-entities: [[national-communication-authority-south-sudan]], [[mgi-communications]]
+entities: [[national-communication-authority-south-sudan], [mgi-communications]]
 lens: [sovereignty]
 ---
 

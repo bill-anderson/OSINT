@@ -8,7 +8,7 @@ date_precision: day
 date_source: source
 places: [GAB]
 topics: [infra.store, gov.protect]
-entities: [[st-digital-gabon]], [[apdpvp]]
+entities: [[st-digital-gabon], [apdpvp]]
 lens: [sovereignty]
 retrieved: 2026-07-17
 sweep_batch: GAB-2026-07-17

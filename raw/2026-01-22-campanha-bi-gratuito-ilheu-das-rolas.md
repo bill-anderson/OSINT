@@ -8,7 +8,7 @@ date_precision: day
 date_source: source
 places: [STP]
 topics: [dpi.id, dpi.registry, include.access]
-entities: [[dgrn]], [[prese]]
+entities: [[dgrn], [prese]]
 lens: []
 body_completeness: full
 retrieved: 2026-07-17

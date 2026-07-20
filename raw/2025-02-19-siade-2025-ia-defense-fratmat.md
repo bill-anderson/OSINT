@@ -10,7 +10,7 @@ retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [tech.ai, data.satellite, infra.cybersec]
-entities: [[siade]], [[sah-analytics]], [[artci]], [[vitib]], [[oneci]], [[cesec]], [[chambre-de-commerce-et-dindustrie-de-cote-divoire]]
+entities: [[siade], [sah-analytics], [artci], [vitib], [oneci], [cesec], [chambre-de-commerce-et-dindustrie-de-cote-divoire]]
 lens: [sovereignty]
 ---
 

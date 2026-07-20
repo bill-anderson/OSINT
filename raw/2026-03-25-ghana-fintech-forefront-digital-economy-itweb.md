@@ -10,7 +10,7 @@ retrieved: 2026-07-17
 sweep_batch: GHA-2026-07-17
 places: [GHA]
 topics: [dpi.pay, gov.policy]
-entities: [[bank-of-ghana]], [[samuel-nartey-george]]
+entities: [[bank-of-ghana], [samuel-nartey-george]]
 lens: []
 ---
 # Ghana puts fintech at forefront of digital economy

@@ -9,7 +9,7 @@ date_precision: day
 date_source: source
 places: [CMR, CIV]
 topics: [dpi.id, dpi.govtech, gov.standards, finance.mou, tech.industry]
-entities: [[impact-palmares]], [[ministry-of-external-relations-cameroon]], [[cameroon-national-printing-press]]
+entities: [[impact-palmares], [ministry-of-external-relations-cameroon], [cameroon-national-printing-press]]
 lens: [sovereignty]
 retrieved: 2026-07-17
 sweep_batch: CMR-2026-07-17

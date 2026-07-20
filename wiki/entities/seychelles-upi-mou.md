@@ -2,7 +2,7 @@
 type: entity
 entity_type: deal
 title: Seychelles–NPCI UPI MoU
-places: [SYC, IND]
+places: [SYC]
 topics: [dpi.pay, finance.mou, geopol.india]
 lens: []
 status: active

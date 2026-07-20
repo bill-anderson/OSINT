@@ -10,7 +10,7 @@ retrieved: 2026-07-17
 sweep_batch: GMB-2026-07-17
 places: [GMB]
 topics: [tech.industry, finance.new]
-entities: [ ]
+entities: []
 lens: [sovereignty]
 ---
 

@@ -11,7 +11,7 @@ accessed: 2026-07-16
 ingested: 2026-07-16
 places: [MWI]
 topics: [dpi.id, dpi.registry, gov.protect]
-entities: [[[national-registration-bureau-malawi]], [[idt4m]], [[malawi-data-protection-act-2024]], [[undp]]]
+entities: [[national-registration-bureau-malawi], [idt4m], [malawi-data-protection-act-2024], [undp]]
 lens: []
 ---
 

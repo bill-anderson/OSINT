@@ -2,7 +2,7 @@
 type: entity
 entity_type: company
 title: Sparkle (Telecom Italia Sparkle)
-places: [ITA, DZA]
+places: [DZA]
 topics: [infra.connect, infra.store]
 lens: []
 status: active

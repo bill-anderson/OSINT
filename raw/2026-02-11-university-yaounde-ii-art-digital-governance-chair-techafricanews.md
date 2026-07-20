@@ -9,7 +9,7 @@ date_precision: day
 date_source: source
 places: [CMR]
 topics: [capacity.research, capacity.training, gov.legislate, gov.policy, tech.industry, finance.mou]
-entities: [[art-cameroon]], [[university-of-yaounde-ii]], [[patnuc]]
+entities: [[art-cameroon], [university-of-yaounde-ii], [patnuc]]
 lens: [sovereignty]
 retrieved: 2026-07-17
 sweep_batch: CMR-2026-07-17

@@ -12,7 +12,7 @@ retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 places: [DZA]
 topics: [infra.connect, data.satellite, include.access, gov.legislate]
-entities: [arpce, ministere-de-la-poste-et-des-telecommunications, sid-ali-zerrouki]
+entities: [[arpce, ministere-de-la-poste-et-des-telecommunications, sid-ali-zerrouki]]
 lens: []
 ---
 

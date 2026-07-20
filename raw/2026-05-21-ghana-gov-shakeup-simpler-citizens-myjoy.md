@@ -10,7 +10,7 @@ retrieved: 2026-07-17
 sweep_batch: GHA-2026-07-17
 places: [GHA]
 topics: [dpi.govtech, dpi.exchange]
-entities: [[nita-ghana]], [[samuel-nartey-george]], [[world-bank]]
+entities: [[nita-ghana], [samuel-nartey-george], [world-bank]]
 lens: []
 ---
 # Major shake-up begins to make Ghana.gov simpler for citizens

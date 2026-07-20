@@ -10,7 +10,7 @@ retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [dpi.id, dpi.pay]
-entities: [[societe-generale-cote-divoire]], [[oneci]]
+entities: [[societe-generale-cote-divoire], [oneci]]
 lens: []
 ---
 

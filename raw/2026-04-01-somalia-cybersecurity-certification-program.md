@@ -11,7 +11,7 @@ retrieved: 2026-07-17
 sweep_batch: SOM-2026-07-17
 places: [SOM]
 topics: [infra.cybersec, capacity.training, infra.capacity]
-entities: [[national-communications-authority-somalia]], [[world-bank]]
+entities: [[national-communications-authority-somalia], [world-bank]]
 lens: []
 ---
 

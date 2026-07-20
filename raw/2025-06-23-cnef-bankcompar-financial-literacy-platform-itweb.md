@@ -9,7 +9,7 @@ date_precision: day
 date_source: source
 places: [CMR]
 topics: [dpi.pay, dpi.govtech, data.open, capacity.literacy, include.access, tech.innovate, gov.legislate]
-entities: [[cnef-cameroon]], [[bankcompar]]
+entities: [[cnef-cameroon], [bankcompar]]
 lens: []
 retrieved: 2026-07-17
 sweep_batch: CMR-2026-07-17

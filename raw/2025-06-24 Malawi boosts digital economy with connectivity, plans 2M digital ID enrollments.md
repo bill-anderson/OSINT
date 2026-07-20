@@ -11,7 +11,7 @@ accessed: 2026-07-16
 ingested: 2026-07-16
 places: [MWI]
 topics: [dpi.id, infra.connect, infra.store, dpi.exchange]
-entities: [[[world-bank]], [[undp]]]
+entities: [[world-bank], [undp]]
 lens: []
 ---
 

@@ -11,7 +11,7 @@ sweep_batch: CIV-2026-07-17
 provenance_flag: pr-wire
 places: [CIV, SEN]
 topics: [infra.store, tech.industry]
-entities: [[cloudoor]], [[groupement-orange-services]], [[orange-middle-east-and-africa]], [[uemoa]], [[techstars]], [[uptime-institute]]
+entities: [[cloudoor], [groupement-orange-services], [orange-middle-east-and-africa], [uemoa], [techstars], [uptime-institute]]
 lens: [sovereignty]
 ---
 

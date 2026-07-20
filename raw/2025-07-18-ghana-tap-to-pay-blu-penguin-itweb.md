@@ -10,7 +10,7 @@ retrieved: 2026-07-17
 sweep_batch: GHA-2026-07-17
 places: [GHA]
 topics: [dpi.pay, tech.industry]
-entities: [[blu-penguin]], [[network-international]]
+entities: [[blu-penguin], [network-international]]
 lens: []
 ---
 # Ghana goes tap-to-pay with mobile money

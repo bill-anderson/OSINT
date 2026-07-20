@@ -13,7 +13,7 @@ retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 places: [DZA]
 topics: [gov.protect, gov.policy, dpi.exchange, infra.cybersec]
-entities: [haut-commissariat-a-la-numerisation, algeria-data-governance-framework]
+entities: [[haut-commissariat-a-la-numerisation, algeria-data-governance-framework]]
 lens: [sovereignty]
 provenance_flag: state-media
 ---

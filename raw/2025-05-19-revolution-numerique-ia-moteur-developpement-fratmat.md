@@ -10,7 +10,7 @@ retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [tech.ai, gov.policy]
-entities: [[padci]], [[pncr]], [[parae]], [[start-up-act-cote-divoire]]
+entities: [[padci], [pncr], [parae], [start-up-act-cote-divoire]]
 lens: [sovereignty]
 ---
 

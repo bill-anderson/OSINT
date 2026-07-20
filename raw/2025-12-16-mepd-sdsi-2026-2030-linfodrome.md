@@ -10,7 +10,7 @@ retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [dpi.govtech, gov.policy, infra.cybersec]
-entities: [[ministere-economie-plan-developpement-cote-divoire]], [[sndi]], [[niale-kaba]]
+entities: [[ministere-economie-plan-developpement-cote-divoire], [sndi], [niale-kaba]]
 lens: []
 ---
 

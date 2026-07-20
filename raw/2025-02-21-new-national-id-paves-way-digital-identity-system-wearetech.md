@@ -9,7 +9,7 @@ date_precision: day
 date_source: source
 places: [CMR]
 topics: [dpi.id, dpi.registry, dpi.pay, dpi.govtech, gov.protect, gov.legislate, include.access, data.statistics]
-entities: [[augentic]], [[dgsn-cameroon]]
+entities: [[augentic], [dgsn-cameroon]]
 lens: [sovereignty]
 retrieved: 2026-07-17
 sweep_batch: CMR-2026-07-17

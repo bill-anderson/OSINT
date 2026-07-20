@@ -10,7 +10,7 @@ retrieved: 2026-07-17
 sweep_batch: GHA-2026-07-17
 places: [GHA]
 topics: [gov.regional, dpi.pay, dpi.exchange]
-entities: [[afcfta]], [[bank-of-ghana]], [[papss]]
+entities: [[afcfta], [bank-of-ghana], [papss]]
 lens: [sovereignty]
 ---
 # Ghana Champions Continental Digital Trade Corridor at 3i Africa Summit

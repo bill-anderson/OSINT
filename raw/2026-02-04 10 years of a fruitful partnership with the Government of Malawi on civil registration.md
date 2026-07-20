@@ -10,7 +10,7 @@ accessed: 2026-07-16
 ingested: 2026-07-16
 places: [MWI]
 topics: [dpi.id, dpi.registry, include.access]
-entities: [[[national-registration-bureau-malawi]]]
+entities: [[national-registration-bureau-malawi]]
 lens: []
 ---
 

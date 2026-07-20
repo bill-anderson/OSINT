@@ -12,7 +12,7 @@ retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 places: [DZA]
 topics: [tech.ai, capacity.training, tech.innovate]
-entities: [kamel-baddari, ministere-enseignement-superieur, elias-zerhouni]
+entities: [[kamel-baddari, ministere-enseignement-superieur, elias-zerhouni]]
 lens: []
 ---
 

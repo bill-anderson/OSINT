@@ -10,7 +10,7 @@ accessed: 2026-07-16
 ingested: 2026-07-16
 places: [MWI]
 topics: [gov.policy, dpi.id, digital.rural, gov.protect]
-entities: [[[undp]], [[idt4m]], [[malawi-ministry-of-ict]]]
+entities: [[undp], [idt4m], [malawi-ministry-of-ict]]
 lens: []
 ---
 

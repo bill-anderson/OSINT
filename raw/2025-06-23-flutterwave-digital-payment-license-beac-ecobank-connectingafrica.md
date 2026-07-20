@@ -9,7 +9,7 @@ date_precision: day
 date_source: source
 places: [CMR, XCA]
 topics: [dpi.pay, gov.legislate, tech.industry, include.access, gov.regional]
-entities: [[flutterwave]], [[ecobank]], [[beac]]
+entities: [[flutterwave], [ecobank], [beac]]
 lens: []
 retrieved: 2026-07-17
 sweep_batch: CMR-2026-07-17

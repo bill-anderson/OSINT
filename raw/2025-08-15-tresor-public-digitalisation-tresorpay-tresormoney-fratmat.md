@@ -10,7 +10,7 @@ retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [dpi.pay, dpi.govtech]
-entities: [[tresor-public-cote-divoire]], [[tresorpay-tresormoney]], [[ceges-tptm]], [[pagds]]
+entities: [[tresor-public-cote-divoire], [tresorpay-tresormoney], [ceges-tptm], [pagds]]
 lens: []
 ---
 

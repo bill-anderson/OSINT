@@ -10,7 +10,7 @@ retrieved: 2026-07-17
 sweep_batch: GHA-2026-07-17
 places: [GHA]
 topics: [dpi.id]
-entities: [[national-identification-authority-ghana]], [[ghana-card]]
+entities: [[national-identification-authority-ghana], [ghana-card]]
 lens: []
 ---
 # NIA outlines four-step process for Ghanaians abroad to obtain Ghana Card

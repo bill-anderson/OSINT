@@ -10,7 +10,7 @@ retrieved: 2026-07-17
 sweep_batch: GHA-2026-07-17
 places: [GHA]
 topics: [dpi.pay, gov.regional]
-entities: [[bank-of-ghana]], [[afcfta]]
+entities: [[bank-of-ghana], [afcfta]]
 lens: []
 ---
 # BoG keeps e-Cedi alive • Shifts focus to cross-border payments

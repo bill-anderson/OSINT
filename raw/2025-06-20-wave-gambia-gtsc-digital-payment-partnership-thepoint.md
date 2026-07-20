@@ -10,7 +10,7 @@ retrieved: 2026-07-17
 sweep_batch: GMB-2026-07-17
 places: [GMB]
 topics: [dpi.pay, finance.mou]
-entities: [ ]
+entities: []
 ---
 
 # Wave Gambia, GTSC launch digital payment partnership

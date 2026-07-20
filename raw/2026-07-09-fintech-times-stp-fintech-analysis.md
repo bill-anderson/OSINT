@@ -8,7 +8,7 @@ date_precision: day
 date_source: source
 places: [STP]
 topics: [dpi.pay, finance.new]
-entities: [[bcstp]], [[bistp]]
+entities: [[bcstp], [bistp]]
 lens: []
 body_completeness: full
 retrieved: 2026-07-17

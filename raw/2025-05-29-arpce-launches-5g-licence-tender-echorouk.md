@@ -12,7 +12,7 @@ retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 places: [DZA]
 topics: [infra.connect, gov.legislate, tech.industry]
-entities: [arpce, ministere-de-la-poste-et-des-telecommunications]
+entities: [[arpce, ministere-de-la-poste-et-des-telecommunications]]
 lens: [sovereignty]
 ---
 

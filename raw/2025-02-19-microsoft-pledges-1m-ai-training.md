@@ -11,7 +11,7 @@ body_completeness: full
 sweep_batch: NGA-2026-07-17
 places: [NGA]
 topics: [capacity.training, tech.ai, geopol.usa]
-entities: ["[[microsoft]]"]
+entities: [[microsoft]]
 lens: []
 ---
 

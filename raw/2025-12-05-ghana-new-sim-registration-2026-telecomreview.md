@@ -10,7 +10,7 @@ retrieved: 2026-07-17
 sweep_batch: GHA-2026-07-17
 places: [GHA]
 topics: [dpi.id, gov.legislate]
-entities: [[samuel-nartey-george]], [[national-communications-authority-ghana]], [[national-identification-authority-ghana]]
+entities: [[samuel-nartey-george], [national-communications-authority-ghana], [national-identification-authority-ghana]]
 lens: []
 ---
 # Ghana to Launch New Nationwide SIM Registration by Early 2026

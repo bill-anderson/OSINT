@@ -12,7 +12,7 @@ retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 places: [DZA]
 topics: [tech.ai, include.divides, tech.innovate]
-entities: [algerie-telecom, itu, ministere-de-la-poste-et-des-telecommunications, sid-ali-zerrouki]
+entities: [[algerie-telecom, itu, ministere-de-la-poste-et-des-telecommunications, sid-ali-zerrouki]]
 lens: []
 ---
 

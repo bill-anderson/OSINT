@@ -12,7 +12,7 @@ retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 places: [DZA]
 topics: [tech.ai, tech.innovate, geopol.china, tech.industry]
-entities: [huawei, ministere-de-leconomie-de-la-connaissance, noureddine-ouadah, algeria-venture]
+entities: [[huawei, ministere-de-leconomie-de-la-connaissance, noureddine-ouadah, algeria-venture]]
 lens: [sovereignty]
 ---
 

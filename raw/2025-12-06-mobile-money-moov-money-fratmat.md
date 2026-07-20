@@ -10,7 +10,7 @@ retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [dpi.pay]
-entities: [[moov-africa-cote-divoire]], [[moov-money]], [[mastercard]], [[gtbank]]
+entities: [[moov-africa-cote-divoire], [moov-money], [mastercard], [gtbank]]
 lens: []
 ---
 

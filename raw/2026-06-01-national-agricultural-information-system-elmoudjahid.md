@@ -13,7 +13,7 @@ retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 places: [DZA]
 topics: [dpi.mis, dpi.registry, digital.rural, data.statistics]
-entities: [ministere-de-lagriculture, office-algerien-interprofessionnel-des-cereales]
+entities: [[ministere-de-lagriculture, office-algerien-interprofessionnel-des-cereales]]
 lens: []
 provenance_flag: state-media
 body_completeness: clipped-at-fetch

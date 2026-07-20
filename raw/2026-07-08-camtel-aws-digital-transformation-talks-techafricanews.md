@@ -9,7 +9,7 @@ date_precision: day
 date_source: source
 places: [CMR]
 topics: [infra.store, geopol.usa, tech.ai, infra.connect, finance.mou, tech.industry]
-entities: [[camtel]], [[amazon-web-services]]
+entities: [[camtel], [amazon-web-services]]
 lens: [sovereignty]
 retrieved: 2026-07-17
 sweep_batch: CMR-2026-07-17

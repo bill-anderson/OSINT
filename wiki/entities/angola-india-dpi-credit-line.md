@@ -2,7 +2,7 @@
 type: entity
 entity_type: deal
 title: India–Angola digital-cooperation pledge and $200m defence credit line (2025-05-03)
-places: [AGO, IND]
+places: [AGO]
 topics: [dpi.id, dpi.exchange, geopol.india, finance.mou]
 lens: [sovereignty]
 status: active

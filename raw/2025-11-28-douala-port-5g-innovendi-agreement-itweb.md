@@ -9,7 +9,7 @@ date_precision: day
 date_source: source
 places: [CMR]
 topics: [infra.connect, infra.store, infra.cybersec, tech.industry, finance.new, dpi.govtech]
-entities: [[port-authority-of-douala]], [[innovendi]]
+entities: [[port-authority-of-douala], [innovendi]]
 lens: [sovereignty]
 retrieved: 2026-07-17
 sweep_batch: CMR-2026-07-17

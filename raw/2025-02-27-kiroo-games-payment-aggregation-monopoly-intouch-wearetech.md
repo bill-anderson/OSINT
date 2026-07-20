@@ -9,7 +9,7 @@ date_precision: day
 date_source: source
 places: [CMR]
 topics: [dpi.pay, gov.legislate, tech.industry, tech.innovate, include.access, finance.new, gov.policy]
-entities: [[kiroo-games]], [[intouch]], [[mtn-mobile-money]], [[orange-cameroun]]
+entities: [[kiroo-games], [intouch], [mtn-mobile-money], [orange-cameroun]]
 lens: [sovereignty, colonialism]
 retrieved: 2026-07-17
 sweep_batch: CMR-2026-07-17

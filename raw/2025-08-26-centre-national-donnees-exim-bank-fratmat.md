@@ -10,7 +10,7 @@ retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [infra.store, geopol.usa, finance.new]
-entities: [[exim-bank-usa]], [[cybastion]], [[ministere-transition-numerique-cote-divoire]], [[ibrahim-kalil-konate]], [[jessica-davis-ba]]
+entities: [[exim-bank-usa], [cybastion], [ministere-transition-numerique-cote-divoire], [ibrahim-kalil-konate], [jessica-davis-ba]]
 lens: []
 ---
 

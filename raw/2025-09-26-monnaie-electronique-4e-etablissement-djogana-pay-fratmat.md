@@ -10,7 +10,7 @@ retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [dpi.pay, gov.legislate]
-entities: [[bceao]], [[djogana-pay]], [[peya-pay]], [[orange-money]], [[mtn-mobile-money]], [[moov-money]], [[uemoa]]
+entities: [[bceao], [djogana-pay], [peya-pay], [orange-money], [mtn-mobile-money], [moov-money], [uemoa]]
 lens: []
 ---
 

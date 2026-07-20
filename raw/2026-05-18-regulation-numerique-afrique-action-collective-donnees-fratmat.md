@@ -10,7 +10,7 @@ retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [gov.protect, gov.regional]
-entities: [[reseau-africain-autorites-protection-donnees-personnelles]], [[djibril-ouattara]], [[rgpd]]
+entities: [[reseau-africain-autorites-protection-donnees-personnelles], [djibril-ouattara], [rgpd]]
 lens: []
 ---
 

@@ -13,7 +13,7 @@ retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 places: [DZA]
 topics: [tech.ai, gov.policy, dpi.govtech]
-entities: [sifi-ghrieb, algeria-national-ai-strategy, dzair-services, haut-commissariat-a-la-numerisation]
+entities: [[sifi-ghrieb, algeria-national-ai-strategy, dzair-services, haut-commissariat-a-la-numerisation]]
 lens: [sovereignty]
 provenance_flag: state-media
 ---

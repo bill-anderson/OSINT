@@ -9,7 +9,7 @@ date_precision: day
 date_source: source
 places: [CMR, XCA, COD]
 topics: [gov.regional, gov.legislate, gov.standards, infra.connect, dpi.pay, gov.protect, include.divides, digital.rural, data.satellite, data.statistics]
-entities: [[artac]], [[art-cameroon]], [[starlink]], [[oneweb]], [[amazon-kuiper]], [[itu]]
+entities: [[artac], [art-cameroon], [starlink], [oneweb], [amazon-kuiper], [itu]]
 lens: [sovereignty]
 retrieved: 2026-07-17
 sweep_batch: CMR-2026-07-17

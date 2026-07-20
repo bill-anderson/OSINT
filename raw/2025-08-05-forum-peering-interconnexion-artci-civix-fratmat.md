@@ -10,7 +10,7 @@ retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [infra.connect, gov.standards]
-entities: [[artci]], [[civix]], [[raxio-group]], [[netflix]], [[google]], [[meta]], [[ministere-de-la-transition-numerique-et-de-la-digitalisation-cote-divoire]]
+entities: [[artci], [civix], [raxio-group], [netflix], [google], [meta], [ministere-de-la-transition-numerique-et-de-la-digitalisation-cote-divoire]]
 lens: [sovereignty]
 ---
 

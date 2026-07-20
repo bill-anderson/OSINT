@@ -13,7 +13,7 @@ retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 places: [DZA]
 topics: [dpi.pay, gov.legislate, gov.protect, finance.new]
-entities: [banque-dalgerie, mohamed-lamine-lebbou, algerie-poste]
+entities: [[banque-dalgerie, mohamed-lamine-lebbou, algerie-poste]]
 lens: []
 provenance_flag: privately-owned
 body_completeness: clipped-at-fetch

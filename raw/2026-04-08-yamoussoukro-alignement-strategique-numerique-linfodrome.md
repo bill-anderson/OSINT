@@ -10,7 +10,7 @@ retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [gov.policy, tech.ai, infra.cybersec, data.open]
-entities: [[ministere-transition-numerique-cote-divoire]], [[djibril-ouattara]], [[padci]], [[parae]]
+entities: [[ministere-transition-numerique-cote-divoire], [djibril-ouattara], [padci], [parae]]
 lens: []
 ---
 

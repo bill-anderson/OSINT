@@ -10,7 +10,7 @@ retrieved: 2026-07-17
 sweep_batch: GHA-2026-07-17
 places: [GHA]
 topics: [dpi.id, infra.cybersec, gov.protect]
-entities: [[national-identification-authority-ghana]], [[national-communications-authority-ghana]]
+entities: [[national-identification-authority-ghana], [national-communications-authority-ghana]]
 lens: [sovereignty]
 ---
 # Biometric data collected for 2022 Ghana SIM registration never authenticated: Official

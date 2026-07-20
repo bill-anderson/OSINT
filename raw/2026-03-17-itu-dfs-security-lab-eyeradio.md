@@ -9,7 +9,7 @@ date_precision: day
 date_source: source
 places: [SSD]
 topics: [dpi.pay, infra.cybersec, infra.capacity]
-entities: [[national-communication-authority-south-sudan]], [[bank-of-south-sudan]]
+entities: [[national-communication-authority-south-sudan], [bank-of-south-sudan]]
 lens: []
 body_completeness: full
 retrieved: 2026-07-17

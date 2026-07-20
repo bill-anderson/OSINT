@@ -10,7 +10,7 @@ retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [dpi.pay, gov.protect]
-entities: [[visa]], [[anssi-cote-divoire]]
+entities: [[visa], [anssi-cote-divoire]]
 lens: []
 ---
 

@@ -10,7 +10,7 @@ retrieved: 2026-07-17
 sweep_batch: MAR-2026-07-17
 places: [MAR]
 topics: [infra.connect, finance.mou]
-entities: [[orange]], [[ericsson]]
+entities: [[orange], [ericsson]]
 lens: []
 ---
 

@@ -11,7 +11,7 @@ sweep_batch: NGA-2026-07-17
 body_completeness: full
 places: [NGA]
 topics: [infra.store, finance.new]
-entities: ["[[visa]]"]
+entities: [[visa]]
 lens: []
 ---
 

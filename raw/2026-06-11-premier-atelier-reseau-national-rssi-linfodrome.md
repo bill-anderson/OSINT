@@ -10,7 +10,7 @@ retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [infra.cybersec, infra.capacity]
-entities: [[anssi-cote-divoire]], [[rn-rssi]], [[djibril-ouattara]], [[guelpetchin-ouattara]]
+entities: [[anssi-cote-divoire], [rn-rssi], [djibril-ouattara], [guelpetchin-ouattara]]
 lens: [sovereignty]
 ---
 

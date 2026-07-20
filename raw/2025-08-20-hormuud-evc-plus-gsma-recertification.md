@@ -11,7 +11,7 @@ retrieved: 2026-07-17
 sweep_batch: SOM-2026-07-17
 places: [SOM]
 topics: [dpi.pay, finance.new]
-entities: [[hormuud-telecom]], [[gsma]]
+entities: [[hormuud-telecom], [gsma]]
 lens: []
 ---
 

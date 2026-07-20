@@ -10,7 +10,7 @@ retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [infra.cybersec]
-entities: [[anssi-cote-divoire]], [[plateforme-de-lutte-contre-la-cybercriminalite]], [[ci-cert]]
+entities: [[anssi-cote-divoire], [plateforme-de-lutte-contre-la-cybercriminalite], [ci-cert]]
 lens: []
 ---
 

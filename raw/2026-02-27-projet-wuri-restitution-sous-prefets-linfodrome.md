@@ -10,7 +10,7 @@ retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [dpi.id, dpi.registry, digital.rural]
-entities: [[projet-wuri]], [[ministere-emploi-protection-sociale-cote-divoire]]
+entities: [[projet-wuri], [ministere-emploi-protection-sociale-cote-divoire]]
 lens: []
 ---
 

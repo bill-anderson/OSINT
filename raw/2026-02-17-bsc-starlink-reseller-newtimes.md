@@ -12,7 +12,7 @@ sweep_batch: RWA-2026-07-17
 body_completeness: excerpt
 places: [RWA]
 topics: [infra.connect, digital.rural]
-entities: [[starlink]], [[broadband-systems-corporation]]
+entities: [[starlink], [broadband-systems-corporation]]
 ---
 
 # BSC's Starlink authorisation enhances internet reliability in Rwanda

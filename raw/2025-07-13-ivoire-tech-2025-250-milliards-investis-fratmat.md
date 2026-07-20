@@ -10,7 +10,7 @@ retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [finance.new, tech.industry, tech.innovate]
-entities: [[ivoire-tech-forum]], [[ministere-de-la-transition-numerique-et-de-la-digitalisation-cote-divoire]], [[fonds-ivoirien-de-linnovation-technologique]], [[cicg]]
+entities: [[ivoire-tech-forum], [ministere-de-la-transition-numerique-et-de-la-digitalisation-cote-divoire], [fonds-ivoirien-de-linnovation-technologique], [cicg]]
 lens: []
 ---
 

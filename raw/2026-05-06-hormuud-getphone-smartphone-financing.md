@@ -11,7 +11,7 @@ retrieved: 2026-07-17
 sweep_batch: SOM-2026-07-17
 places: [SOM]
 topics: [include.divides, include.access, dpi.pay, finance.new]
-entities: [[hormuud-telecom]], [[get-phone]]
+entities: [[hormuud-telecom], [get-phone]]
 lens: []
 ---
 

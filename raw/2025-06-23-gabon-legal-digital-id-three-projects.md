@@ -8,7 +8,7 @@ date_precision: day
 date_source: source
 places: [GAB]
 topics: [dpi.id, dpi.registry, gov.policy]
-entities: [[aninf-gabon]], [[digital-gabon-project]], [[world-bank]]
+entities: [[aninf-gabon], [digital-gabon-project], [world-bank]]
 lens: [sovereignty]
 retrieved: 2026-07-17
 sweep_batch: GAB-2026-07-17

@@ -10,7 +10,7 @@ retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV, XWA]
 topics: [infra.connect, geopol.eu, finance.mou]
-entities: [[via-africa]], [[canalink]], [[guilab]], [[international-mauritania-telecom]], [[orange-group]], [[orange-cote-divoire]], [[sonatel]], [[silverlinks]]
+entities: [[via-africa], [canalink], [guilab], [international-mauritania-telecom], [orange-group], [orange-cote-divoire], [sonatel], [silverlinks]]
 lens: [sovereignty]
 provenance_flag: pr-wire
 ---

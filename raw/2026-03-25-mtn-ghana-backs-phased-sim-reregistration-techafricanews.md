@@ -10,7 +10,7 @@ retrieved: 2026-07-17
 sweep_batch: GHA-2026-07-17
 places: [GHA]
 topics: [dpi.id, infra.cybersec]
-entities: [[mtn-ghana]], [[national-communications-authority-ghana]]
+entities: [[mtn-ghana], [national-communications-authority-ghana]]
 lens: []
 ---
 # MTN Ghana Backs Phased SIM Re-Registration to Enhance Security

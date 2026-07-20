@@ -9,7 +9,7 @@ date_precision: day
 date_source: source
 places: [CMR, XCA]
 topics: [infra.connect, geopol.china, finance.new, include.divides, gov.policy]
-entities: [[camtel]], [[china-eximbank]], [[huawei]]
+entities: [[camtel], [china-eximbank], [huawei]]
 lens: [sovereignty, colonialism]
 retrieved: 2026-07-17
 sweep_batch: CMR-2026-07-17

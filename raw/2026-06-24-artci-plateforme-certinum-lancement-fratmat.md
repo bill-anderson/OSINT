@@ -10,7 +10,7 @@ retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [gov.protect, gov.standards]
-entities: [[artci]], [[certinum]], [[lakoun-ouattara]]
+entities: [[artci], [certinum], [lakoun-ouattara]]
 lens: []
 ---
 

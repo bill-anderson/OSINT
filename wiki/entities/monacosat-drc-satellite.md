@@ -2,7 +2,7 @@
 type: entity
 entity_type: initiative
 title: DRC sovereign satellite (Monacosat)
-places: [COD, MCO]
+places: [COD]
 topics: [infra.connect, data.satellite, finance.mou, digital.rural]
 lens: [sovereignty]
 status: active

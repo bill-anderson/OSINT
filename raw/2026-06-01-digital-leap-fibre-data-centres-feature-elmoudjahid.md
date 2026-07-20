@@ -13,7 +13,7 @@ retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 places: [DZA]
 topics: [infra.store, infra.connect, geopol.china, dpi.govtech]
-entities: [haut-commissariat-a-la-numerisation, huawei, dzair-services, algerie-telecom]
+entities: [[haut-commissariat-a-la-numerisation, huawei, dzair-services, algerie-telecom]]
 lens: [sovereignty]
 provenance_flag: state-media
 body_completeness: clipped-at-fetch

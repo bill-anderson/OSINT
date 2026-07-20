@@ -12,7 +12,7 @@ retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 places: [DZA]
 topics: [infra.connect, data.statistics]
-entities: [ookla, djezzy, mobilis, ooredoo]
+entities: [[ookla, djezzy, mobilis, ooredoo]]
 lens: []
 ---
 

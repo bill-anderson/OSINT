@@ -10,7 +10,7 @@ retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [gov.legislate, dpi.govtech, dpi.id, data.statistics]
-entities: [[systeme-statistique-national]], [[union-europeenne]], [[oeacp]], [[organisation-du-corridor-abidjan-lagos]]
+entities: [[systeme-statistique-national], [union-europeenne], [oeacp], [organisation-du-corridor-abidjan-lagos]]
 lens: []
 ---
 

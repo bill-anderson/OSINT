@@ -9,7 +9,7 @@ date_precision: day
 date_source: source
 places: [CMR]
 topics: [capacity.training, tech.industry, finance.mou, capacity.research]
-entities: [[camtel]], [[ministry-of-higher-education-cameroon]]
+entities: [[camtel], [ministry-of-higher-education-cameroon]]
 lens: []
 retrieved: 2026-07-17
 sweep_batch: CMR-2026-07-17

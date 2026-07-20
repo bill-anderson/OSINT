@@ -8,7 +8,7 @@ date_precision: day
 date_source: source
 places: [STP]
 topics: [dpi.registry, dpi.exchange, geopol.eu]
-entities: [[prese]], [[dgrn]], [[universidade-aveiro]]
+entities: [[prese], [dgrn], [universidade-aveiro]]
 lens: []
 body_completeness: full
 retrieved: 2026-07-17

@@ -13,7 +13,7 @@ retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 places: [DZA]
 topics: [infra.cybersec, capacity.training, gov.policy]
-entities: [information-systems-security-agency, ministere-de-la-defense-nationale, ecole-nationale-superieure-cybersecurite, decree-26-07, national-information-systems-security-strategy]
+entities: [[information-systems-security-agency, ministere-de-la-defense-nationale, ecole-nationale-superieure-cybersecurite, decree-26-07, national-information-systems-security-strategy]]
 lens: [sovereignty]
 provenance_flag: state-media
 body_completeness: clipped-at-fetch

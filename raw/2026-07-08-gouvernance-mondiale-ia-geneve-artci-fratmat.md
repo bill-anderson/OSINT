@@ -10,7 +10,7 @@ retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [tech.ai, gov.regional]
-entities: [[artci]], [[organisation-internationale-de-la-francophonie]], [[nations-unies]], [[djibril-ouattara]], [[roger-felix-adom]]
+entities: [[artci], [organisation-internationale-de-la-francophonie], [nations-unies], [djibril-ouattara], [roger-felix-adom]]
 lens: []
 ---
 

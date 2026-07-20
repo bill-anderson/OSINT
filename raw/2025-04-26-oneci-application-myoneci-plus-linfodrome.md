@@ -10,7 +10,7 @@ retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [dpi.id, dpi.registry]
-entities: [[oneci]], [[semlex-cote-divoire]], [[myoneci-plus]], [[rnpp]]
+entities: [[oneci], [semlex-cote-divoire], [myoneci-plus], [rnpp]]
 lens: []
 ---
 

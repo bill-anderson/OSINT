@@ -10,7 +10,7 @@ retrieved: 2026-07-17
 sweep_batch: GHA-2026-07-17
 places: [GHA]
 topics: [dpi.id, dpi.registry]
-entities: [[national-identification-authority-ghana]], [[ghana-card]]
+entities: [[national-identification-authority-ghana], [ghana-card]]
 lens: []
 ---
 # NIA targets 3.1 million children as Ghana Card registration for ages 6–14 resumes May 5

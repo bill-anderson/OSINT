@@ -10,7 +10,7 @@ retrieved: 2026-07-17
 sweep_batch: GHA-2026-07-17
 places: [GHA]
 topics: [infra.connect, digital.rural, include.divides]
-entities: [[gifec]], [[huawei]]
+entities: [[gifec], [huawei]]
 lens: []
 ---
 

@@ -11,7 +11,7 @@ retrieved: 2026-07-17
 sweep_batch: SOM-2026-07-17
 places: [SOM]
 topics: [dpi.id, gov.policy]
-entities: [[nira-somalia]], [[world-bank]]
+entities: [[nira-somalia], [world-bank]]
 lens: []
 ---
 

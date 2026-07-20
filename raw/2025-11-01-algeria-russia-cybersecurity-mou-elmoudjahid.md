@@ -13,7 +13,7 @@ retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 places: [DZA]
 topics: [infra.cybersec, finance.mou, capacity.research]
-entities: [positive-technologies, proxylan, cerist, russia]
+entities: [[positive-technologies, proxylan, cerist, russia]]
 lens: [sovereignty]
 provenance_flag: state-media
 body_completeness: clipped-at-fetch

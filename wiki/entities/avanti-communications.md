@@ -2,7 +2,7 @@
 type: entity
 entity_type: company
 title: Avanti Communications
-places: [GBR, CMR]
+places: [CMR]
 topics: [infra.connect, digital.rural]
 lens: [sovereignty]
 status: active

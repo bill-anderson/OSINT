@@ -12,7 +12,7 @@ retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 places: [DZA]
 topics: [gov.protect, infra.cybersec, gov.legislate, dpi.govtech]
-entities: [abdelmadjid-tebboune, anpdcp, information-systems-security-agency, decree-26-07]
+entities: [[abdelmadjid-tebboune, anpdcp, information-systems-security-agency, decree-26-07]]
 lens: [sovereignty]
 ---
 

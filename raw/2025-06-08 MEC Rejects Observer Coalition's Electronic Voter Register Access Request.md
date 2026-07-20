@@ -11,7 +11,7 @@ accessed: 2026-07-16
 ingested: 2026-07-16
 places: [MWI]
 topics: [dpi.id, gov.protect, data.open]
-entities: [[[malawi-electoral-commission]]]
+entities: [[malawi-electoral-commission]]
 lens: []
 ---
 

@@ -12,7 +12,7 @@ retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 places: [DZA]
 topics: [dpi.mis, dpi.exchange, data.statistics, gov.legislate]
-entities: [journal-officiel-algerie, office-national-des-statistiques]
+entities: [[journal-officiel-algerie, office-national-des-statistiques]]
 lens: []
 ---
 

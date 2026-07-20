@@ -11,7 +11,7 @@ retrieved: 2026-07-17
 sweep_batch: TCD-2026-07-17
 places: [TCD]
 topics: [infra.store, geopol.china, infra.energy]
-entities: [[pmice]], [[sne]]
+entities: [[pmice], [sne]]
 lens: [sovereignty]
 ---
 

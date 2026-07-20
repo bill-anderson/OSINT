@@ -12,7 +12,7 @@ retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 places: [DZA]
 topics: [tech.ai, gov.policy, capacity.research, geopol.usa, geopol.china, infra.connect]
-entities: [new-lines-institute, algerie-telecom, medusa-cable]
+entities: [[new-lines-institute, algerie-telecom, medusa-cable]]
 lens: [sovereignty]
 ---
 

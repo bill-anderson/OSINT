@@ -10,7 +10,7 @@ retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [dpi.govtech]
-entities: [[e-justice-cote-divoire]], [[oneci]], [[asernum]], [[jean-sansan-kambile]], [[amede-koffi-kouakou]]
+entities: [[e-justice-cote-divoire], [oneci], [asernum], [jean-sansan-kambile], [amede-koffi-kouakou]]
 lens: []
 ---
 

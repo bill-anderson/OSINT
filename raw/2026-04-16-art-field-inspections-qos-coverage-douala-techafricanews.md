@@ -9,7 +9,7 @@ date_precision: day
 date_source: source
 places: [CMR]
 topics: [gov.legislate, gov.standards, infra.connect, infra.energy, tech.industry, finance.new]
-entities: [[art-cameroon]], [[mtn-cameroon]], [[orange-cameroun]], [[ihs-towers]]
+entities: [[art-cameroon], [mtn-cameroon], [orange-cameroun], [ihs-towers]]
 lens: [sovereignty]
 retrieved: 2026-07-17
 sweep_batch: CMR-2026-07-17

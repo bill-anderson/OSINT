@@ -11,7 +11,7 @@ retrieved: 2026-07-17
 sweep_batch: SOM-2026-07-17
 places: [SOM]
 topics: [dpi.id, dpi.registry]
-entities: [[nira-somalia]], [[nadra]]
+entities: [[nira-somalia], [nadra]]
 lens: [sovereignty]
 ---
 

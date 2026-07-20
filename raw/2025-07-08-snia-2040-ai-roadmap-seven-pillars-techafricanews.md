@@ -9,7 +9,7 @@ date_precision: day
 date_source: source
 places: [CMR, XCA]
 topics: [tech.ai, gov.policy, gov.legislate, gov.standards, data.open, dpi.exchange, infra.store, infra.energy, capacity.training, capacity.research, tech.innovate, gov.regional]
-entities: [[snia-cameroon]], [[ministry-of-posts-and-telecommunications-cameroon]], [[conia]]
+entities: [[snia-cameroon], [ministry-of-posts-and-telecommunications-cameroon], [conia]]
 lens: [sovereignty]
 retrieved: 2026-07-17
 sweep_batch: CMR-2026-07-17

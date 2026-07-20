@@ -12,7 +12,7 @@ sweep_batch: RWA-2026-07-17
 body_completeness: full
 places: [RWA]
 topics: [dpi.id, gov.protect]
-entities: [[nida-rwanda]], [[data-protection-privacy-office-rwanda]]
+entities: [[nida-rwanda], [data-protection-privacy-office-rwanda]]
 lens: [sovereignty]
 ---
 

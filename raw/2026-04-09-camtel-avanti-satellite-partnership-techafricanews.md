@@ -9,7 +9,7 @@ date_precision: day
 date_source: source
 places: [CMR]
 topics: [infra.connect, include.divides, digital.rural, tech.industry, finance.mou]
-entities: [[camtel]], [[avanti-communications]]
+entities: [[camtel], [avanti-communications]]
 lens: [sovereignty]
 retrieved: 2026-07-17
 sweep_batch: CMR-2026-07-17

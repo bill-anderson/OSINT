@@ -12,7 +12,7 @@ retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 places: [DZA]
 topics: [infra.cybersec, gov.policy, gov.legislate]
-entities: [information-systems-security-agency, abdelmadjid-tebboune, national-information-systems-security-strategy]
+entities: [[information-systems-security-agency, abdelmadjid-tebboune, national-information-systems-security-strategy]]
 lens: [sovereignty]
 ---
 

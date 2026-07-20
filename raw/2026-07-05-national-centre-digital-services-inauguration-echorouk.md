@@ -12,7 +12,7 @@ retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 places: [DZA]
 topics: [infra.store, dpi.govtech, dpi.exchange, infra.cybersec]
-entities: [abdelmadjid-tebboune, centre-national-algerien-des-services-numeriques, haut-commissariat-a-la-numerisation]
+entities: [[abdelmadjid-tebboune, centre-national-algerien-des-services-numeriques, haut-commissariat-a-la-numerisation]]
 lens: [sovereignty]
 ---
 

@@ -12,7 +12,7 @@ sweep_batch: RWA-2026-07-17
 body_completeness: full
 places: [RWA]
 topics: [tech.ai, gov.policy, gov.legislate]
-entities: [[rwanda-national-ai-agency]], [[paula-ingabire]]
+entities: [[rwanda-national-ai-agency], [paula-ingabire]]
 ---
 
 Rwanda's AI Ambition Takes Shape as Cabinet Approves New Agency - KT PRESS Home » Rwanda’s AI Ambition Takes Shape as Cabinet Approves New Agency National

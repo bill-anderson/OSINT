@@ -10,7 +10,7 @@ date_source: source
 ingested: 2026-07-16
 places: [SSD]
 topics: [dpi.id, include.access]
-entities: [[dcrnpi-south-sudan]], [[unhcr]], [[european-union]]
+entities: [[dcrnpi-south-sudan], [unhcr], [european-union]]
 lens: []
 ---
 

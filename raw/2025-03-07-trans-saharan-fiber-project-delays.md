@@ -11,7 +11,7 @@ retrieved: 2026-07-17
 sweep_batch: TCD-2026-07-17
 places: [TCD]
 topics: [infra.connect, gov.regional]
-entities: [[adetic]], [[arcep]], [[dorsale-transsaharienne]]
+entities: [[adetic], [arcep], [dorsale-transsaharienne]]
 lens: []
 ---
 
