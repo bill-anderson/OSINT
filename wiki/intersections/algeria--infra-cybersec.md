@@ -4,12 +4,12 @@ title: Algeria × Cybersecurity (institutions, strategy, CERT)
 place: DZA
 topic: infra.cybersec
 places: [DZA]
-topics: [infra.cybersec, gov.policy, gov.protect, capacity.training, finance.mou]
+topics: [infra.cybersec, gov.policy, gov.protect, gov.legislate, capacity.training, finance.mou]
 entities: [[assi], [algeria-national-cybersecurity-strategy-2025-2029], [mpt-cert], [anpdcp], [high-commission-digitalisation-algeria], [cerist], [algeria-russia-cybersecurity-mou]]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-18
-sources: [[2026-01-23-decree-26-07-cybersecurity-data-protection-structures-echorouk], [2026-01-26-cybersecurity-framework-national-infrastructure--techafricanews], [2026-01-26-new-cybersecurity-framework-digital-risks--wearetech], [2026-03-03-defence-information-systems-security-strategy-2029-echorouk], [2026-03-05-national-cybersecurity-strategy-2025-2029--wearetech], [2026-04-01-nec-next-gen-firewalls-ooredoo--telecomreviewafrica], [2026-04-20-first-ai-cybersecurity-startup-cluster--wearetech], [2026-06-01-rssi-cybersecurity-training-sidi-abdellah-elmoudjahid], [2026-06-01-child-online-protection-cyber-vigilance-cell-echorouk], [2026-06-14-cys-d-2026-cybersecurity-event-echorouk], [2026-06-15-mpt-cert-cyber-incident-response--techafricanews], [2026-06-15-mpt-cert-cyber-incident-response-centre-echorouk], [2026-04-19-algerian-cyber-policy-digital-sovereignty-analysis-echorouk], [2025-11-01-algeria-russia-cybersecurity-mou-elmoudjahid]]
+last_reviewed: 2026-07-20
+sources: [[2026-01-18-algerie-jo-04-decret-presidentiel-26-07-securite-systemes-information], [2026-01-23-decree-26-07-cybersecurity-data-protection-structures-echorouk], [2026-01-26-cybersecurity-framework-national-infrastructure--techafricanews], [2026-01-26-new-cybersecurity-framework-digital-risks--wearetech], [2026-03-03-defence-information-systems-security-strategy-2029-echorouk], [2026-03-05-national-cybersecurity-strategy-2025-2029--wearetech], [2026-04-01-nec-next-gen-firewalls-ooredoo--telecomreviewafrica], [2026-04-20-first-ai-cybersecurity-startup-cluster--wearetech], [2026-06-01-rssi-cybersecurity-training-sidi-abdellah-elmoudjahid], [2026-06-01-child-online-protection-cyber-vigilance-cell-echorouk], [2026-06-14-cys-d-2026-cybersecurity-event-echorouk], [2026-06-15-mpt-cert-cyber-incident-response--techafricanews], [2026-06-15-mpt-cert-cyber-incident-response-centre-echorouk], [2026-04-19-algerian-cyber-policy-digital-sovereignty-analysis-echorouk], [2025-11-01-algeria-russia-cybersecurity-mou-elmoudjahid]]
 ---
 
 # Algeria × Cybersecurity
@@ -21,8 +21,37 @@ anchored in the **Ministry of National Defence**. The trigger is a real threat s
 
 ## The institutional framework (Decree 26-07, Jan 2026)
 
-**Presidential Decree 26-07** (7 Jan 2026) mandates **cyber / data-protection units in every public body** and
-sits atop a set of specialised institutions:
+**Décret présidentiel n° 26-07**, dated **18 Rajab 1447 / 7 January 2026** and published in the ***Journal
+officiel* n° 04 of 29 Rajab 1447 / 18 January 2026** (65th year, p. 20), creates in every public institution,
+administration and body **"une structure responsable de la sécurité des systèmes d'information *et de la
+protection des données*"** and fixes its missions, organisation and functioning. Two points the secondary
+coverage got wrong or narrowed, both settled **2026-07-20** against the gazette itself
+([[2026-01-18-algerie-jo-04-decret-presidentiel-26-07-securite-systemes-information]]):
+
+- **Gazette date.** The issue is **JO n° 04 of 18 January 2026**. The **"published 21 January"** repeated by
+  the secondary press (e.g. [[2026-01-26-new-cybersecurity-framework-digital-risks--wearetech]]) is wrong.
+  Note the decree carries **three distinct dates** and they are not interchangeable: **signature 7 January
+  2026**, **gazette publication 18 January 2026**, and **commencement** — which the sommaire alone does not
+  establish.
+- **Scope.** The instrument is **not** a "mandatory cybersecurity units" decree. Its own title pairs
+  **information-systems security with personal-data protection**, and the structure it creates must be
+  **organisationally independent of the body's IT/information-systems function** — a functional separation of
+  technical operation from protection and security — and is **attached directly to the head** of the
+  institution. Reported duties span a **national-risk map**, security-policy authorship, audit and
+  continuous monitoring, **immediate incident notification**, subcontracting security clauses, user training,
+  and external coordination with **[[assi|ASSI]]** and the **[[anpdcp|ANPDCP]]**; Art. 8 leaves post
+  classification to a joint Finance/Public-Service order and Art. 13 leaves implementation to a Public-
+  Service instruction. *(Article-level detail is attributed to
+  [[2026-01-23-decree-26-07-cybersecurity-data-protection-structures-echorouk]]; the gazette capture held here
+  is the **sommaire only** — the operative text at p. 20 is not in the wiki, so no article is quoted from
+  it.)*
+
+**Provenance (2026-07-20).** The decree previously rested in part on `algeriatech.news`, an AI-generated
+content farm, and a reconcile worker rightly refused to rely on it — leaving the instrument recorded as
+**unestablished**. **It is now established from the official gazette.** Its number, date, full title and
+gazette placement are confirmed from the *Journal officiel*'s own sommaire.
+
+The decree sits atop a set of specialised institutions:
 
 - **[[assi|ASSI]]** — Information Systems Security Agency, under the **MDN**: implements national cyber policy,
   monitors cyberspace, defends critical state infrastructure.

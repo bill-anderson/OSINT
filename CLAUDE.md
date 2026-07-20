@@ -1,9 +1,10 @@
 # CLAUDE.md — Data Landscapers Intelligence Wiki
 
 *(In force from 2026-07-20. This file is principles; CC reasons from here.
-Operational detail — frontmatter schemas, lint checks, sweep procedure — belongs in
-`wiki/reference.md`, which is **not yet written**: until it exists, follow the
-conventions already visible in `raw/` and `wiki/`, and do not invent schema.)*
+Operational detail — frontmatter schemas, lint checks, sweep and pass procedures —
+lives in `wiki/reference.md`. The runnable passes have their own procedure files:
+`reviews/contradictions/RECONCILE.md` ("run reconcile") and `reviews/ACQUIRE.md`
+("run acquisitions").)*
 
 ## Purpose
 
@@ -177,12 +178,15 @@ pass researches it, ingests the primaries it finds, and applies a resolution.
 Prefer the newest value; record the conflict rather than erasing it.
 
 **Acquisitions** is the other: specific known documents the wiki wants and
-doesn't hold. It is a fetch list, not a research register — worked by the sweep
-or a hand-clip, never by reconcile.
+doesn't hold. It is a fetch list, not a research register — drained by the
+acquisition pass, never by reconcile. One automated attempt each; a document that
+only a hand-clip could get is dropped and its absence stated on the page, not
+parked as a standing chore.
 
-Two queues, both drained by CC. Anything that can't be closed by either isn't
-work; it's a horizon, and belongs on the relevant page as a dated statement of
-what isn't established.
+Two queues, both drained by CC, each by its own pass — reconcile for
+contradictions, acquire for acquisitions — over the whole queue at once, never a
+selection. Anything that can't be closed by either isn't work; it's a horizon, and
+belongs on the relevant page as a dated statement of what isn't established.
 
 **CC cites only links it actually holds.** In a contradiction brief or anywhere
 else, never suggest a source from your own knowledge as though the wiki held it.

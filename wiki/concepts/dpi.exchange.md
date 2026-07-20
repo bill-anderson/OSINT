@@ -271,6 +271,12 @@ cross-border scale, the legal enforceability of that exchange.
 - **[[UGA]] Uganda (2026-05-27).** NITA-U renewed the **Government Enterprise Architecture and e-GIF**
   with the e-Governance Academy, the e-GIF enhanced for **secure standardised cross-government data
   exchange**, replacing the 2021 originals. *Delivered but not yet rolled out as of 2026-07-20.*
+- **[[ZAF]] South Africa (2025-01-23) — cross-database verification struck down as a means test.**
+  The same judgment declared unconstitutional both **reg. 2(3)(c)(i)**, checks against government
+  databases (Home Affairs, SARS, NSFAS, UIF), and **2(3)(c)(ii)**, bank verification. A SALDRU/Treasury
+  report of 2021-10-04 recorded in the judgment estimated a **35% false-rejection rate — 4.5 million of
+  13 million eligible claimants**. Directly relevant wherever data exchange is used to establish
+  eligibility rather than to deliver a service.
 
 ## Places
 

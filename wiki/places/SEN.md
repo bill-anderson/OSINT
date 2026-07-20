@@ -77,14 +77,40 @@ last_reviewed: 2026-07-20
   jour"* its law; a bill is *"dans le circuit"* awaiting a National Assembly vote — and it did not advance
   through the **February-2026 national biometric-ID breach**, which is a state-capacity finding rather than
   a data gap.
-  > **Provenance boundary (2026-07-20).** A longer chronology was previously carried here — that the CDP
-  > opened the revision in **2017**, that a **2019** draft would replace the CDP with a 12-member **APDP**
-  > and widen "sensitive data" to filiation and genetic data, that the text cleared the **Cour Suprême in
-  > 2022**, and that finalisation workshops ran in **Oct 2024**. **No source the wiki holds carries any of
-  > it** (checked against `raw/` for `2008-12`, `Cour Suprême` and `APDP`, 2026-07-20); the APS piece cited
-  > below supports only that the law is unamended, that it is *"caduque"*, and that a bill awaits a vote.
-  > The chronology came from reconcile-pass research, which is working material and not a source. It is
-  > **not carried as established** and should not be cited onward until a primary is ingested.
+  > **Provenance boundary (2026-07-20, narrowed — most of it still stands).** A longer chronology was
+  > previously carried here — that the CDP opened the revision in **2017**, that a **2019** draft would
+  > replace the CDP with a 12-member **APDP** and widen "sensitive data" to filiation and genetic data,
+  > that the text cleared the **Cour Suprême in 2022**, and that finalisation workshops ran in
+  > **Oct 2024**. That chronology came from reconcile-pass research, not from a source.
+  > Ingesting Le Quotidien's report of the CDP's Saly workshop
+  > ([[2026-07-20-senegal-cdp-saly-atelier-projet-loi-protection-donnees]]) retires **two limbs of it and
+  > no more**:
+  > - **Start date — corrected, not confirmed.** CDP president **Ousmane Thiongane** is reported saying
+  >   *"depuis 2019, la Cdp avait commencé à initier une réforme des textes relatifs à la protection des
+  >   données"*. The reform's opening is therefore held at **2019**, on the regulator's own account. The
+  >   **2017** date is **not** supported and is now positively at odds with the only held account of it;
+  >   it is dropped.
+  > - **Finalisation workshops — the practice is established, the dates are not.** A **two-day CDP
+  >   workshop at Saly**, convened with the ministry of communication, telecommunications and the digital
+  >   economy, to *"mettre à niveau et … finaliser le projet de loi … et … le projet de décret
+  >   d'application"* is now held. But the article **carries no publication date** (filed
+  >   `date_source: proxy`), so **the workshop's own date is unknown** and it cannot be equated with the
+  >   claimed **Oct 2024** workshops, which remain unsupported.
+  >
+  > **Still carried by no held source, and not to be cited onward:** the **2019 draft replacing the CDP
+  > with a 12-member APDP**, the widening of "sensitive data" to filiation and genetic data, the
+  > **Cour Suprême 2022** clearance, and the **Oct 2024** workshop dating. Re-checked against `raw/` for
+  > `APDP` and `Cour Suprême`, 2026-07-20 — nothing. The APS piece cited below still supports only that
+  > the law is unamended, that it is *"caduque"*, and that a bill awaits a vote.
+  >
+  > What the Saly report *adds* to the record: the reform is driven by the **[[cdp-senegal|CDP]]** using
+  > its **art. 16** power under Law No. 2008-12 to propose legislative improvements to government; the
+  > ministry has taken carriage of the reform (*"le ministère s'est résolument engagé à conduire et à
+  > finaliser les projets de textes"*); and the current round is being re-scoped around the adopted
+  > **Stratégie nationale des données (SND)**, the **Stratégie nationale sur l'intelligence artificielle
+  > (SNIA)** and the **[[new-deal-technologique|New Deal technologique]]**, with AI, Big Data, robotics
+  > and drones named as the new threat surface. Both the SND and the SNIA are treated as **already
+  > adopted** at the time of the workshop.
 
   Fall's warning is that without it the CDP carries *"des angles morts"* as the
   **[[new-deal-technologique|New Deal Technologique]]** scales up sensitive-data processing. *(Resolved
@@ -188,6 +214,25 @@ last_reviewed: 2026-07-20
   (Faye–Gates at UNGA80) toward a **universal digital identity**, an **AI hub** and a **Delivery Unit**;
   Senegal needs ~$1.7bn for 2025–2034. See [[new-deal-technologique]], [[dpi.id]], [[tech.ai]],
   [[finance.new]]. Source: [[2025-09-29 Gates Foundation fuels Senegal's digital transformation with $10M]].
+- **2025-08** *(baseline)* — **ANEC's own account of the civil-status system, direct from the agency.**
+  ANEC director-general **Aliou Ousmane Sall** presented the agency's civil-registration digitalisation to
+  the child-identity community: **20,000,000 acts digitised and indexed** as of Aug 2025, with **10 million
+  remaining** (a ~30m universe); the RNEC management application deployed across **400 civil-status
+  centres**, of which **383 installed** (network equipment by **[[senegal-numerique|SENUM SA]]**) and
+  **235 in service** — connected and operational; **1,200 agents** trained on the RNEC platform, plus
+  **2,800 agents, 631 officers and 631 archivists** trained on their trades; **6 servers at 1,000 TB** across
+  **3 hosting sites**. Declarations *registered through the RNEC* — the live flow, not the archive stock —
+  ran **112,881 in 2024** and **108,233 from 1 Jan to 3 Jul 2025**. This is the **ANEC-authored primary**
+  behind counts the wiki previously reached only via APA's report of an ANEC Facebook post, and it is the
+  document that carries the **scanned-and-indexed vs loaded-into-RNEC** distinction in the agency's own
+  presentation. It also dates the **bill on computerising civil-status management** as still awaiting
+  **Council of Ministers validation and a National Assembly vote** as of Aug 2025, alongside an unsigned
+  **register-reconstitution decree**. Architecture: a **numéro unique (NU)** binding civil status to
+  **[[daf-senegal|DAF]]** identity/biometrics, justice, health, ANSD, the electoral roll, passports and
+  social security; plus a civil-status **information-system security policy (PSSI-EC)** and a
+  **[[cdp-senegal|CDP]]** personal-data-protection strategy for civil status. Source:
+  [[2025-08-01-anec-senegal-digitalisation-etat-civil-aliou-sall]]. See [[dpi.registry]], [[dpi.id]],
+  [[dpi.exchange]], [[gov.legislate]], → **[[senegal--dpi-id]]**.
 - **2025-04-22** — **National Interoperability Platform launched.** Senegal launched an interministerial,
   interoperable data-exchange platform (with **JICA**), a structuring DPI project of the
   **[[new-deal-technologique|New Deal]]**; first phase (end-2025) aims to speed social assistance. See
@@ -309,4 +354,5 @@ last_reviewed: 2026-07-20
 
 ## Provenance
 
-- The **draft law replacing Law No. 2008-12 on personal data protection, and its implementing decree, are not held as of 2026-07-20** — and appear never to have been published. The bill cleared the Cour Suprême in 2022 and has been repeatedly "finalised" in CDP workshops since, most recently at a two-day Saly workshop convened with the ministry of communication, telecommunications and the digital economy. The wiki holds Le Quotidien's report of that workshop, carrying CDP president **Ousmane Thiongane**'s account — but that article **carries no publication date**, so it is filed `date_source: proxy` and **the workshop date is unknown**. Senegal's operative data-protection statute therefore remains **Law No. 2008-12 of 25 January 2008** as of 2026-07-20.
+- The **draft law replacing Law No. 2008-12 on personal data protection, and its implementing decree, are not held as of 2026-07-20** — and no published version has been located. What *is* held is Le Quotidien's report of a **two-day CDP workshop at Saly**, convened with the ministry of communication, telecommunications and the digital economy to finalise both texts, carrying CDP president **Ousmane Thiongane**'s account that the reform has been running **since 2019**. That article **carries no publication date**, so it is filed `date_source: proxy` and **the workshop's date is unknown**. *The earlier assertion here that the bill "cleared the Cour Suprême in 2022" is **withdrawn**: it rests on no held source and is corrected as of 2026-07-20 (see the provenance boundary under 2026-03-27 above).* Senegal's operative data-protection statute therefore remains **Law No. 2008-12 of 25 January 2008** as of 2026-07-20.
+- The **ANEC director-general's own presentation deck (Aug 2025)** is now held ([[2025-08-01-anec-senegal-digitalisation-etat-civil-aliou-sall]]), replacing APA's report of an ANEC Facebook post as the route to Senegal's civil-registration counts. See [[senegal--dpi-id]].

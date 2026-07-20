@@ -7,7 +7,7 @@ topics: [infra.energy, infra.store, tech.industry, finance.new]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-20
-sources: [[2023-03-14-cassava-adc-dpa-sa-edf-20-year-ppa], [2024-07-25 Africa Data Centres adding 6MW capacity in Cape Town], [2024-11-20 Africa Data Centres expands by 20 megawatts to meet cloud, AI demand], [2025-12-24-econet-notice-completion-infrastructure-restructuring], [2026-03-26-econet-infraco-supplementary-pre-listing-statement]]
+sources: [[2023-03-14-cassava-adc-dpa-sa-edf-20-year-ppa], [2024-07-25 Africa Data Centres adding 6MW capacity in Cape Town], [2024-11-20 Africa Data Centres expands by 20 megawatts to meet cloud, AI demand], [2025-12-24-econet-notice-completion-infrastructure-restructuring], [2026-02-04-econet-wireless-zimbabwe-circular-and-econet-infraco-pre-listing-statement], [2026-03-26-econet-infraco-supplementary-pre-listing-statement]]
 ---
 
 # Distributed Power Africa (DPA)
@@ -35,28 +35,46 @@ merged, and the South African solar history must not be carried onto [[econet-in
   between DPA and the French utility [[edf]]**, formed on EDF's acquisition of a 50% shareholding in
   DPA's South African operations (announced **2022-05-24**). CEO **Nawfal El Fadil** (as of 2024-04).
   **This — not DPA itself — is the counterparty to both Africa Data Centres PPAs below.**
-- **Distributed Power Africa (Private) Limited** — **Zimbabwe**-registered, reg. **74120A02122025**; a
-  wholly owned subsidiary of [[econet-wireless-zimbabwe]] used as the corporate shell into which EWZL
-  consolidated its real estate and passive telecoms infrastructure (**2025-12-24**), **trading as
-  [[econet-infraco]]**; converted private→public **2026-03-24**, renaming to Econet InfraCo Limited,
-  VFEX trading from **2026-03-31**. Its Zimbabwean distributed-power operating business is now branded
-  **Distributed Power Zimbabwe (DPZ)** inside InfraCo — a rename that decouples it from the DPA brand
-  still used on the Cassava side.
+- **Distributed Power Africa (Private) Limited** — **Zimbabwe**-registered, **incorporated 21 March
+  2016 under company registration number 2030/2016**; **[[econet-wireless-zimbabwe]] held 100% of its
+  issued share capital upon incorporation**. It is the entity into which EWZL consolidated its real
+  estate and passive telecoms infrastructure (**2025-12-24**, under a Scheme of Reconstruction in terms
+  of s.15(1)(b) of the Capital Gains Tax Act [Chapter 23:01]), **trading as [[econet-infraco]]**;
+  converted private→public **2026-03-24** (new Certificate of Incorporation, reg. **74120A02122025**),
+  renaming to Econet InfraCo Limited, VFEX trading from **2026-03-31**.
+
+  ***Despite the name, this company was never primarily a renewables business.*** The Pre-Listing
+  Statement records that it **"has provided backbone tower support services to Econet since
+  inception"** (para. 5.2.2.4) — i.e. since 2016. Power is one of its **three operating divisions**
+  (TowerCo / PropCo / **PowerCo**), not its origin. **There is no separate company called
+  "Distributed Power Zimbabwe (DPZ)"**: that name appears in **neither** the circular nor the
+  Supplementary PLS, and was recorded here in error on 2026-07-20 from an ingest-time editorial note
+  rather than a source — corrected the same day. See [[econet-infraco]].
 
 **Common origin, separate ownership.** DPA "was originally built on the **Econet Group's** experience
 operating power systems and battery backups for its mobile network base stations" (**2026-06-04**) — so
 the shared brand reflects one lineage, not a coincidence. But the Cassava arm and the EWZL arm have been
-separately owned since 2021, and no held document places the ZAF and ZWE entities in a single
-shareholding chain.
+separately owned since 2021, and **no held document places the ZAF and ZWE entities in a single
+shareholding chain** — including the 2026-02-04 Pre-Listing Statement, which sets out the Zimbabwean
+entity's structure in full and does not reach across to Cassava's DPA. That absence is now a checked
+absence rather than an untested one (as of 2026-07-20).
 
-*Unreconciled looseness, do not build on it:* trade press (**2026-06-04**) calls Econet InfraCo "the
-parent company of DPA" and has "Distributed Power Africa **(Private)** Limited" applying for a 50 MW
-Harare solar licence *after* that entity converted to public status — either imprecision, or a separate
-still-private DPA subsidiary under InfraCo. **The Econet InfraCo Pre-Listing Statement dated 2026-02-04
-(the original, not the supplementary) would carry the definitive group structure and is not held.**
+**The 2026-02-04 Pre-Listing Statement is now held** (acquired and ingested 2026-07-20, incorporated as
+Part D of the EWZL shareholder circular). It supplies the incorporation date, original registration
+number and 100%-EWZL founding shareholding above — the registry-grade detail this page previously
+recorded as missing.
+
+*Residual looseness, do not build on it:* trade press (**2026-06-04**) calls Econet InfraCo "the parent
+company of DPA" and has "Distributed Power Africa **(Private)** Limited" applying for a 50 MW Harare
+solar licence *after* that entity converted to public status. The held primaries make the most economical
+reading **imprecision by the trade press** — InfraCo *is* DPA (Private) Limited rather than its parent,
+and a licence application filed in the pre-conversion name during a rename in train is unremarkable. But
+no held document names a separate still-private DPA subsidiary under InfraCo, so the alternative is not
+excluded, only unsupported.
 
 Sources: [[2023-03-14-cassava-adc-dpa-sa-edf-20-year-ppa]],
 [[2025-12-24-econet-notice-completion-infrastructure-restructuring]],
+[[2026-02-04-econet-wireless-zimbabwe-circular-and-econet-infraco-pre-listing-statement]],
 [[2026-03-26-econet-infraco-supplementary-pre-listing-statement]].
 
 ## Activity in this wiki
@@ -95,20 +113,3 @@ Place: [[ZAF]], [[ZWE]] · Parent: [[cassava-technologies]] (ZAF material) /
 Grid: [[eskom]] · Compare: [[teraco]]'s 120 MW solar PV wheeling into Eskom ·
 Trading as: [[econet-infraco]] (ZWE) · Intersection: [[south-africa--infra-store]]
 
-## Acquisition note (2026-07-20)
-
-The **three-company DPA identity question (REV-DPA-001) is resolved on registry-grade evidence as of
-2026-07-20.** The Econet Wireless Zimbabwe shareholder circular of **4 February 2026** - which
-incorporates the **original Econet InfraCo Pre-Listing Statement as Part D**, both documents the wiki
-previously lacked - was acquired and is staged in `new/`.
-
-It gives the Zimbabwean entity definitively: **Distributed Power Africa (Private) Limited, trading as
-Econet InfraCo**, a company **incorporated in the Republic of Zimbabwe on 21 March 2016 under company
-registration number 2030/2016**. Econet Wireless Zimbabwe Limited (incorporated 4 August 1998,
-registration number 7548/98) **held 100% of Econet InfraCo's issued share capital upon
-incorporation**. Following the Scheme of Reconstruction, the group's real estate and passive
-telecommunications infrastructure assets were consolidated under this entity.
-
-This is the **structure chart / registry extract the page previously recorded as unheld**. The
-supplementary PLS of 2026-03-26, already held, confirms the same entity is the issuer and gives the
-post-listing split (EWZL 70%, exiting shareholders 4.785%, dividend in specie 25.215%).

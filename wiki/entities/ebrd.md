@@ -6,7 +6,7 @@ places: [XGL, TUN, XNA, NGA, KEN, SEN]
 topics: [finance.new, infra.connect, geopol.eu]
 status: active
 last_reviewed: 2026-07-20
-sources: [[2026-01-16-ebrd-tunisie-telecom-190m-medusa], [2026-01-19 EBRD and Tunisie Telecom Partner on €190 Million Digital Infrastructure Upgrade], [2026-03-24 Nigeria EU Announces New €290m Investments in Nigeria], [2026-07-13 EBRD Extends €270m Financing to Yas for Kenya, Senegal Network Expansion]]
+sources: [[2024-07-24-ebrd-board-report-project-hannibal-tunisie-telecom], [2026-01-16-ebrd-tunisie-telecom-190m-medusa], [2026-01-19 EBRD and Tunisie Telecom Partner on €190 Million Digital Infrastructure Upgrade], [2026-03-24 Nigeria EU Announces New €290m Investments in Nigeria], [2026-07-13 EBRD Extends €270m Financing to Yas for Kenya, Senegal Network Expansion]]
 ---
 
 # EBRD (European Bank for Reconstruction and Development)
@@ -17,15 +17,17 @@ blending its loans with EU grants under the Global Gateway strategy.
 
 ## Activity in this wiki
 
-- **Up to €190m development-linked loan to [[tunisie-telecom]] (2026-01).** The EBRD is providing
+- **Up to €190m development-linked loan to [[tunisie-telecom]] (Board approval 2024-07-24; announced
+  2026-01-16).** The EBRD is providing
   a loan of up to €190m in four tranches (first committed tranche €50m) to fund a 4G-to-5G mobile
   upgrade, fibre-to-the-home to 200,000 households, backbone/core modernisation, and connection to
   the [[medusa-submarine-cable]]. It is complemented by an €11m EU grant (Neighbourhood
   Investment Platform, including cybersecurity), aligns with the EU Global Gateway strategy via an
   EFSD+ first-loss guarantee, and is structured so the interest rate is tied to state-owned-
   enterprise reform and sustainability milestones. Notably the EBRD's first financing without a
-  sovereign guarantee in Tunisia's public sector since 2012. Tags [[finance.new]],
-  [[infra.connect]], [[geopol.eu]]. Source:
+  sovereign guarantee in Tunisia's public sector since 2012 — internally, **"Project Hannibal"**. Tags
+  [[finance.new]], [[infra.connect]], [[geopol.eu]]. Sources:
+  [[2024-07-24-ebrd-board-report-project-hannibal-tunisie-telecom]] (the board report, the authority),
   [[2026-01-19 EBRD and Tunisie Telecom Partner on €190 Million Digital Infrastructure Upgrade]].
 - **Tunisia track record.** Since 2012 the EBRD has invested more than €3bn across 89 projects in
   Tunisia (as of 2026-01). Source:

@@ -304,6 +304,14 @@ maintained and queried.
   payoff: a reliable population database would let CAR **skip a costly general census**. Financed under
   **P174620 (Public Sector Digital Governance Project)** — **not CARDIP**, and carrying **no data-centre
   component**.
+- **[[SEN]] Senegal — the archive-stock versus live-load gap, in one document.** ANEC's own deck
+  (Aug 2025) reports ~**20m acts digitised and indexed** against **112,881 (2024)** and **108,233
+  (part-2025)** declarations registered through the live RNEC. *Note two held sources do not reconcile:
+  ANEC gives 20m as "numérisés **et** indexés" with 10m remaining, while the Nékkal closing report (Jun
+  2026) gives **10m digitised and 20m indexed** as distinct totals — most likely Nékkal counting its own
+  contribution rather than the national total, but no held document says so.* Separately, the
+  civil-status bill is **"validated", not enacted**: ANEC's deck still lists Council of Ministers
+  validation, National Assembly adoption and the décret d'application as outstanding (Aug 2025).
 
 ## Places
 

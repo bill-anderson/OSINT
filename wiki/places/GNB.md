@@ -6,7 +6,7 @@ parent: XWA
 place_kind: country
 topics: [dpi.id, dpi.registry, gov.policy, gov.legislate, gov.protect, infra.cybersec, dpi.govtech, dpi.exchange, infra.connect, gov.regional, include.access, data.statistics, capacity.training, dpi.pay]
 status: active
-last_reviewed: 2026-07-18
+last_reviewed: 2026-07-20
 ---
 
 # Guinea-Bissau (GNB)
@@ -138,5 +138,8 @@ and **[[starlink]]** satellite entry ([[guinea-bissau--infra-connect]]).
 
 ## Provenance
 
-- The wiki now holds the **World Bank DTfA/WARDIP SOP1 Project Appraisal Document (PAD4756, 2023-11-07)**, the financing instrument behind Guinea-Bissau's WARDIP programme. Note it is a **regional** PAD covering The Gambia, Guinea, Guinea-Bissau and Mauritania plus the AU, Smart Africa and ECOWAS — not a Guinea-Bissau-only document. Guinea-Bissau's allocation appears as **US$60.00m** in the financing table and **US$60.50m** in the component-cost table, against a US$0.5m government counterpart contribution; the figure should be written dated and attributed rather than as a bare "US$60M grant".
-- **The 2,877 km backbone figure and the govcloud / data-protection-regulator specifics attributed to WARDIP-GB are not sourced by that PAD** — neither appears in its text. They remain **unsourced as of 2026-07-20**, and most likely sit in the Guinea-Bissau-specific project documents. The **RNEP-GB / WARDIP-GB Final Report (2025-04)** and ARN's **IDN / .GW accented-domains announcement** are **not held as of 2026-07-20**.
+- The wiki now holds the **World Bank DTfA/WARDIP SOP1 Project Appraisal Document (PAD4756, Operation ID P176932, 2023-11-07)**, the financing instrument behind Guinea-Bissau's WARDIP programme. Note it is a **regional** PAD covering The Gambia, Guinea, Guinea-Bissau and Mauritania plus the AU, Smart Africa and ECOWAS — not a Guinea-Bissau-only document. Full programme financing: [[wardip]]. Source: [[2023-11-07-worldbank-dtfa-wardip-sop1-pad4756]].
+- **Guinea-Bissau's allocation: US$60.00m IDA grant + US$0.50m government counterpart = US$60.50m total (2023-11-07).** The two figures in the PAD are **not an inconsistency** — they are different quantities. US$60.00m is the IDA Resources table (grant, SDR 45.7m equivalent); US$60.50m is the component-cost table, whose country columns **include** the national counterpart contribution that the IDA table excludes. The PAD's own financing block confirms it: counterpart funding US$1.50m = US$0.50m + US$1.00m, matching Guinea-Bissau (60.00→60.50) and Mauritania (60.00→61.00). Write it dated and attributed, never as a bare "US$60M grant".
+- **What the PAD does *not* evidence — stated precisely.** Neither the **2,877 km backbone** figure nor the **govcloud / data-protection-regulator** specifics attributed to WARDIP-GB appear in the copy of the PAD held. **But that copy is an `excerpt`**, truncated mid-way through the results-framework tables — exactly where per-country indicator targets would sit. So the finding is that **the PAD as held does not support those claims**, *not* that it omits or contradicts them.
+- **The 2,877 km figure is not unsourced.** It rests on the **WARDIP-GB project's own website** ([[2026-01-01 Guinea-Bissau National Fibre-Optic Backbone specifications (WARDIP-GB)]] — primary, but **undated**, carried `date_source: proxy` at year precision), corroborated by the **EIASS impact study (março 2026)**. The real weakness is the **undated primary**, not an absence of source. The **govcloud and data-protection-regulator** specifics, by contrast, remain **genuinely unsourced as of 2026-07-20**.
+- Still **not held as of 2026-07-20**: the **RNEP-GB / WARDIP-GB Final Report (2025-04)** — which would date the backbone design — and ARN's **IDN / .GW accented-domains announcement**.

@@ -154,6 +154,15 @@ is where the **"is the data even being created?"** question lives, upstream of D
   revenue** (from 30.5%); domestic outgoing traffic **+17% to 28.5bn minutes**; international outgoing
   **−15% to 14.9m minutes**, which ZICTA attributes to VoIP substitution. Source:
   [[2023-03-13-zicta-2022-annual-market-report-subscriptions]].
+- **[[AGO]] Angola — INE's own synthesis, and what it does not say.** The *Relatório Síntese dos
+  Resultados Definitivos* (RGPH 2024, published **2025-11-20**) gives national **36,604,681** and Luanda
+  **8,816,297** at reference date **2024-09-19**, with Icolo e Bengo tabulated separately at
+  **1,372,670** (the two sum to 10,188,967 — the pre-2025-boundary equivalent, now arithmetically
+  sourced rather than inferred). **The Síntese states no reconciliation of the 150,787 gap** against
+  INE's Luanda provincial report and **carries no coverage-adjustment methodology at all**, so the
+  adjusted-versus-raw explanation the wiki carried is downgraded to an **inference** (as of 2026-07-20).
+- **[[ZWE]] Zimbabwe is the clean worked example of the penetration divergence** — 84.55% subscriptions
+  against 38.4% users, same country, same period, both now cited to their own publishers.
 
 ## Reads
 

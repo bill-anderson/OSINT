@@ -4,12 +4,12 @@ title: Gabon × Digital Identity
 place: GAB
 topic: dpi.id
 places: [GAB]
-topics: [dpi.id, dpi.registry]
-entities: [[digital-gabon-project], [in-groupe], [thales], [semlex], [aninf-gabon]]
+topics: [dpi.id, dpi.registry, gov.protect]
+entities: [[digital-gabon-project], [in-groupe], [thales], [semlex], [aninf-gabon], [apdpvp-gabon]]
 lens: [sovereignty, colonialism]
 status: active
 last_reviewed: 2026-07-20
-sources: [[2024-06-26-gabon-launches-electronic-national-id-card], [2024-06-28-gabon-national-id-card-goes-digital], [2024-07-02-gabon-electronic-id-11-year-hiatus], [2024-09-25-gabon-digital-id-forefront-transformation], [2025-01-01-gabon-electoral-roll-verification-platform], [2012-09-20-gemalto-gabon-biometric-national-registry], [2015-11-25-in-groupe-gabon-dgdi-secure-titles-partnership], [2026-06-03-gabon-cnie-enrolment-figures-assembly]]
+sources: [[2024-06-26-gabon-launches-electronic-national-id-card], [2024-06-28-gabon-national-id-card-goes-digital], [2024-07-02-gabon-electronic-id-11-year-hiatus], [2024-09-25-gabon-digital-id-forefront-transformation], [2025-01-01-gabon-electoral-roll-verification-platform], [2012-09-20-gemalto-gabon-biometric-national-registry], [2015-11-25-in-groupe-gabon-dgdi-secure-titles-partnership], [2026-06-03-gabon-cnie-enrolment-figures-assembly], [2023-07-15-gabon-loi-025-2023-protection-donnees-personnelles]]
 ---
 
 # Gabon × Digital Identity
@@ -133,6 +133,32 @@ derivable from these numbers. For scale, legacy IBOGA voter registration held **
 **The 78,500 litigious files are ~23% of all enrolments** — a material data-quality problem in the build,
 not merely an administrative backlog.
 
+## The statutory constraint on the biometric build
+
+The governing data-protection text is now held from the gazette
+([[2023-07-15-gabon-loi-025-2023-protection-donnees-personnelles]]), so the constraint on the CNIE/NIP
+programme can be read off the statute rather than inferred. **Art. 75 of loi n°025/2023 prohibits the
+collection or processing of biometric and genetic data outright**, alongside racial/ethnic origin,
+political, philosophical and religious opinion, union membership, health and sexual life. A national
+biometric ID programme is therefore lawful only through a derogation in art. 76 — in practice the data
+subject's express consent, or one of the listed public-interest grounds — and automated processing must
+in any case be declared to the [[apdpvp-gabon|APDPVP]] (art. 78).
+
+Two points follow that the wiki did not previously hold. First, **there is no compliance grace period**:
+art. 219 binds controllers *dès publication*, i.e. from **15 July 2023**, so the CNIE programme launched
+in **June 2024** was fully in-scope from its first day of enrolment — it never operated in a transitional
+window. Second, the statute carries a **drafting defect** at exactly this point: **art. 76 grants
+derogations from "l'interdiction prévue par l'article 74"**, but art. 74 governs children's data — the
+prohibition it means to qualify is **art. 75**. The gazetted text mis-cross-references its own sensitive-data
+bar, twice in the same article. This is what the *Journal Officiel* published; the wiki records it as an
+ambiguity in the operative text rather than silently reading it as intended, because the derogation route
+for the country's biometric ID programme runs through it.
+
+The CNPDCP precedent under the predecessor regime was already restrictive — **Délibération n°004/2013
+(12 Feb 2013)** pushed back on centralised storage of all ten fingerprints for IBOGA as potentially
+excessive for an electoral-list purpose. **No published APDPVP authorisation or deliberation covering the
+2024 CNIE build has been found (as of 2026-07-20).**
+
 ## Open items
 
 - **No NIP-coverage figure.** The World Bank indicator ("% of population 16+ with a NIP") still has no
@@ -168,3 +194,4 @@ a NIP" indicator, which remains at its zero baseline (Dec 2024).
 - [[2012-09-20-gemalto-gabon-biometric-national-registry]]
 - [[2015-11-25-in-groupe-gabon-dgdi-secure-titles-partnership]]
 - [[2026-06-03-gabon-cnie-enrolment-figures-assembly]]
+- [[2023-07-15-gabon-loi-025-2023-protection-donnees-personnelles]]

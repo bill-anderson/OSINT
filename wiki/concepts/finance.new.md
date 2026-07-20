@@ -266,7 +266,7 @@ Investment flowing into African digital transformation. (A *specific* transactio
   "a surge of undisclosed deals suggests capital is still flowing albeit less transparently". Cite Partech
   for **African tech venture**, AVCA for **African venture as an asset class** (it alone carries exits,
   fundraising and LP composition). Sources: [[2026-01-22-partech-africa-tech-vc-report-2025]],
-  [[2026-02-01-avca-venture-capital-in-africa-report-2025]].
+  [[2026-02-10-avca-venture-capital-in-africa-report-2025]].
 - **Target ≠ committed ≠ first close.** The [[botswana-tech-fund|Botswana Tech Fund]]'s own launch release
   (**2026-04-21**) says "a **targeted** £50 million… with a first close in Q2/2026"; coverage restated the
   target as a raised "$67.5m fund". Committed was **£10m**, first close **£5m** (as of 2026-04-27). Source:
@@ -284,6 +284,17 @@ Investment flowing into African digital transformation. (A *specific* transactio
   that opposite sign is **not a rebase**: the two sit on different 2024 bases (Partech US$2.2bn, published
   Jan 2025 and unchanged; AVCA's ≈US$2.7bn, derived, never printed). A **fifth figure in circulation,
   TechCabal Insights' US$3.42bn / 502 deals, has no established basis and is marked do-not-cite.**
+- **The AVCA / Disrupt Africa divergence is a definitional artefact, not a conflict — five separable
+  causes, now confirmed against both methodology sections.** (1) **Scope**: AVCA excludes growth equity
+  (routed to its *African Private Capital Activity Report*), pre-seed, crowdfunding and grants; Disrupt
+  Africa includes pre-seed (20.5% of staged rounds) but excludes corporate spin-offs and firms over ~10
+  years old. (2) **Units**: 432 AVCA *deals* against 178 Disrupt Africa *ventures*. (3) **Disclosure**:
+  Disrupt Africa books undisclosed rounds at the **lowest possible figure** and states the true total "is
+  likely to be higher", so part of its year-on-year move is a disclosure artefact. (4) **The debt shares
+  are not the same statistic** — AVCA 47% *of value*, Disrupt Africa 11.8% *of ventures raising any
+  debt*. (5) **AVCA parks 60 deals / US$1.56bn — 40% of continental value — in an unattributed
+  "Multi Region" bucket**, so cross-publisher country comparison is not possible at all. Kenya CY2025 is
+  the illustration: **US$335m / US$1,096m / US$273.2m**, three numbers for one country-year.
 
 ## Places
 

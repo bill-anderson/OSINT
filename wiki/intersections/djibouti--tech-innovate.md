@@ -8,8 +8,8 @@ topics: [tech.innovate, tech.ai, gov.policy, capacity.training, gov.regional, ge
 entities: [[djibouti-ai-strategy], [pnd-adeeg-djibouti], [digital-houses-djibouti], [ecole-42-djibouti], [startup-act-djibouti], [vision-djibouti-2035]]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-18
-sources: [[2026-06-30-conseil-ministres-pnd-adeeg-2025-2030-adoption-adi], [2025-12-20-digital-transformation-core-pillar-techreviewafrica], [2026-01-29-national-ai-strategy-wearetech], [2026-06-22-djibouti-china-industrial-ai-roadmap-beijing-adi], [2026-07-09-geneva-wsis-djibouti-digital-hub-vision-lanation], [2026-07-10-helem-geneva-wsis-bilateral-meetings-adi], [2026-05-16-digital-houses-e-skills-wearetech], [2026-04-06-ecole-42-djibouti-techreviewafrica], [2025-02-24-digital-skills-program-govt-officials-wearetech], [2025-11-12-startup-act-advances-techafricanews], [2025-11-14-startup-act-djibouti-wearetech], [2025-12-15-federation-nationale-entreprises-numerique-wearetech], [2025-09-23-djibouti-romania-digital-cooperation-wearetech], [2026-07-15-djibouti-japan-digital-cooperation-techreviewafrica], [2026-05-22-safia-gadileh-minister-appointment-techreviewafrica]]
+last_reviewed: 2026-07-20
+sources: [[2026-01-08-djibouti-loi-179-an-25-startup-act], [2026-06-30-conseil-ministres-pnd-adeeg-2025-2030-adoption-adi], [2025-12-20-digital-transformation-core-pillar-techreviewafrica], [2026-01-29-national-ai-strategy-wearetech], [2026-06-22-djibouti-china-industrial-ai-roadmap-beijing-adi], [2026-07-09-geneva-wsis-djibouti-digital-hub-vision-lanation], [2026-07-10-helem-geneva-wsis-bilateral-meetings-adi], [2026-05-16-digital-houses-e-skills-wearetech], [2026-04-06-ecole-42-djibouti-techreviewafrica], [2025-02-24-digital-skills-program-govt-officials-wearetech], [2025-11-12-startup-act-advances-techafricanews], [2025-11-14-startup-act-djibouti-wearetech], [2025-12-15-federation-nationale-entreprises-numerique-wearetech], [2025-09-23-djibouti-romania-digital-cooperation-wearetech], [2026-07-15-djibouti-japan-digital-cooperation-techreviewafrica], [2026-05-22-safia-gadileh-minister-appointment-techreviewafrica]]
 ---
 
 # Djibouti × Strategy, AI, skills & digital diplomacy
@@ -43,9 +43,22 @@ Sources: [[2026-05-16-digital-houses-e-skills-wearetech]], [[2026-04-06-ecole-42
 
 ## A Startup Act, and busy diplomacy
 
-- **Startup Act.** A bill (label, fund-of-funds, Startup Visa) was presented **9 Nov 2025** — later
-  promulgated (Loi n°179/AN/25, JO 08/01/2026; the primary text on eJO is a standing acquisition gap).
-  Sources: [[2025-11-12-startup-act-advances-techafricanews]], [[2025-11-14-startup-act-djibouti-wearetech]].
+- **Startup Act — primary text now held.** Presented **9 Nov 2025**, adopted by the Assemblée Nationale
+  **12 Nov 2025**, **signed 1 Dec 2025**, *JO* n°23 of **15 Dec 2025**, eJO **8 Jan 2026**; **art. 35
+  takes effect from promulgation**. The law delivers what the trade press trailed and more: a
+  **"Startup" label** run by a **Collège des Startups** (arts. 3–4), a **"Startup Djibouti" portal** as
+  the sole application channel (art. 5), a **fund-of-funds** that also invests in seed/VC funds
+  domiciling in Djibouti (arts. 25–28), a **BSA-Air** convertible (art. 23), **crowdfunding**
+  (arts. 29–30), and a **regulatory sandbox** under the Haut Conseil Supérieur de l'Économie Numérique
+  et de l'Innovation (arts. 31–32). The **Startup Visa is confirmed in the text (art. 15)**: a dedicated
+  residence-card category for founders and employees, **three years renewable**, with a **work permit
+  granted automatically** to every holder. A simplified customs regime covers R&D, prototyping and
+  production imports (art. 13). Eligibility (art. 2) requires a company **under 7 years**, tech-based
+  innovation, **>50% capital** with natural persons or seed investors, and **no dividends** while
+  labelled. **Implementing decrees are not held as of 2026-07-20**, so nothing can be said about labels
+  actually awarded, visas issued or sandbox admissions. Sources:
+  [[2026-01-08-djibouti-loi-179-an-25-startup-act]],
+  [[2025-11-12-startup-act-advances-techafricanews]], [[2025-11-14-startup-act-djibouti-wearetech]].
 - **Small-state digital diplomacy.** New bilateral tracks with **Romania** (2025) and **Japan** (2026, under
   new Minister Delegate **Safia Ali Mohamed Gadileh**, who replaced Mariam Hamadou Ali), and a busy **WSIS
   2026** (Geneva) presence — Helem seeking ITU / Smart Africa / China support for the "inclusive hub" vision

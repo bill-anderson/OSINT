@@ -207,6 +207,15 @@ geography, and increasingly by **access to compute/intelligence**.
   those with no biometric image held at Home Affairs or poor connectivity, whose remedy is an in-person
   office visit. For those users that is not digitisation. Source:
   [[2026-05-18-parliamentary-question-nw1941-sassa-biometric-verification]].
+- **[[ZAF]] South Africa (2025-01-23) — a court striking down digital-only delivery.** In *Institute for
+  Economic Justice v Minister of Social Development* [2025] ZAGPPHC 29 the High Court declared
+  **online-only lodgement** for the SRD grant unconstitutional, reading in "or at the offices of the
+  Agency"; struck the **budget-cap regulation** making payment subject to available funds; and declared
+  the failure to pay approved beneficiaries timeously unlawful. Probably the strongest judicial statement
+  on the continent that digital-only public-service delivery is itself an exclusion mechanism. Under
+  appeal to the SCA, hearing **2026-08-25**. *Note the order does **not** grant the declarations sought
+  against the two online screening questions or the absence of a database/bank conflict-resolution
+  mechanism, though both were argued at length.*
 
 ## Places
 

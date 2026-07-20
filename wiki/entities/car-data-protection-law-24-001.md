@@ -6,8 +6,8 @@ places: [CAF]
 topics: [gov.protect, gov.legislate]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-15
-sources: [[2025-09-23 Review of the Central African Republic Data Protection Law], [2026-01-28 Central African Republic Data Protection Factsheet]]
+last_reviewed: 2026-07-20
+sources: [[2025-09-23 Review of the Central African Republic Data Protection Law], [2026-01-28 Central African Republic Data Protection Factsheet], [2025-05-21-worldbank-project-paper-af-car-public-sector-digital-governance], [2022-03-07-worldbank-pad4661-car-public-sector-digital-governance]]
 ---
 
 # CAR Law No. 24.001 on the Protection of Personal Data
@@ -33,6 +33,20 @@ been established** (as of the Jan 2026 factsheet).
 - **Supervision (unfilled):** an independent authority — *not yet established* — with powers
   to investigate, handle complaints and sanction: warnings, cease-processing orders, fines up
   to **5% of annual turnover**, plus criminal sanctions.
+
+## Provenance of the enactment
+
+The World Bank records that its **P174620 Public Sector Digital Governance Project** achieved, under
+Component 2, *"the enactment of two laws (cybersecurity and data protection)"*
+([[2025-05-21-worldbank-project-paper-af-car-public-sector-digital-governance]]) — and its **2022 appraisal
+document** establishes the pre-state: CAR then had **no data protection law** at all
+([[2022-03-07-worldbank-pad4661-car-public-sector-digital-governance]]). The two documents bracket the
+enactment and make the donor origin explicit.
+
+**But the Bank names no law.** It gives no number, title or date, so identifying its "data protection" law
+as **24.001** is an inference from window and uniqueness, not a statement in the source. The **primary text
+of Law 24.001 is still not held** as of **2026-07-20** — the wiki's account of its provisions rests entirely
+on the TechHive Advisory review and the Data Protection Africa factsheet, both secondary.
 
 Applies alongside CEMAC-level instruments (e-comms, payments, consumer protection) listed on
 the **[[data-protection-africa]]** factsheet. See [[caf--gov-protect]], [[gov.protect]].

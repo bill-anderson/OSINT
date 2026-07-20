@@ -49,8 +49,8 @@ Record the attempt count in the brief so the next pass knows which attempt it is
 
 An item that turns out to be a **specific document the wiki simply doesn't hold**
 is not a contradiction. Strike it from `open/` and add it to
-`reviews/acquisitions.md` — a fetch list, worked by the sweep or a hand-clip,
-never by reconcile.
+`reviews/acquisitions.md` — a fetch list drained by the acquisition pass
+(`run acquisitions`), never by reconcile.
 
 ## Discipline
 
@@ -62,6 +62,12 @@ absence is the finding, and for many of these briefs it is the whole finding.
 than settling the two, that is a live contradiction: record it, don't pick.
 
 ## Ending the pass
+
+The durable resolution lives **on the affected page and in this log**. The `done/`
+file is only the closure marker, and `research/` is transient scratch —
+**delete `research/` at pass end** (hand the deletion to Bill if CC cannot), so it
+never accumulates as a fake store of record or a quarantine-leak surface for the
+next lint.
 
 Append one entry to `wiki/log.md`: items researched, resolved, re-routed to
 acquisitions, closed unresolved; primaries ingested; anything that looks shaky.

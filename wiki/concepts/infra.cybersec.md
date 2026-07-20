@@ -260,6 +260,18 @@ how "cyber threat" is defined and acted on.
   simultaneity** — attributed in every account to the newspaper, never to the DSC, SENUM or the ministry,
   and **no actor claimed SENUM** where Green Blood claimed the DAF. No technical accounting published as
   of 2026-07-20.
+- **[[AGO]] Angola — an enacted regulator, not a planned centre.** **DP 263/25 (2025-12-10)** created
+  the **Centro Nacional de Cibersegurança** as a public institute under MINTTICS with **regulatory,
+  supervisory, inspection and sanctioning** powers (art. 6) and binding-instrument powers over supervised
+  entities (art. 7) — materially more than a national CERT. **CERT.ao is a department inside it**
+  (arts. 9, 17), alongside critical-infrastructure protection and a 24/7 operations centre. *This
+  refines rather than overturns the two-track reading: the decree already confers sanctioning power, so
+  what the pending law would add is narrower — criminal offences and statutory obligations on operators.*
+  **Creation is not operation**: no source held records a Director-General appointed, a budget line, or
+  the Centro exercising any power (as of 2026-07-20).
+- **[[CAF]] Central African Republic — the baseline.** Scored **3.6 on the 2018 Cybersecurity Index**
+  against **29.5** for Sub-Saharan Africa, with **no national cybersecurity strategy, no CERT and no SOC**
+  as of 2022-03-07 (World Bank appraisal).
 
 ## Places
 

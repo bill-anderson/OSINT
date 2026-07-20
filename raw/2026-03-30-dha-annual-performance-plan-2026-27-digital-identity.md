@@ -25,6 +25,27 @@ body_completeness: excerpt
 > **Date note:** the document is titled "Final 26 Mar 2026" and was tabled in Parliament on
 > **30 March 2026**; the tabling date is used as `published`. Signed off by Minister of Home Affairs
 > Dr Leon Schreiber.
+>
+> **Amended 2026-07-20 — fuller capture now held; date claim withdrawn; extract 4 misaligned.**
+> The wiki now also holds [[2026-03-26-dha-annual-performance-plan-2026-27]], a ~200k-character
+> verbatim capture of **the same document** (Parts A–D and the annual target tables). Both are kept:
+> that capture is capped and does **not** reach the *technical indicator description* annexure
+> reproduced as **extract 3** below, which is the only place the document states the indicator's
+> **Assumptions** ("SARB, banks and telecom partners collaborate on integration") — the evidence that
+> **SARB integrates and SARS hosts**. This page remains the citation for that annexure.
+>
+> Two corrections against the fuller capture:
+>
+> 1. **The 30 March tabling date is not supported by the document.** The plan's own cover states only
+>    "DATE OF TABLING: **MARCH 2026**" — month precision. 26 March is the finalisation date in the
+>    title. The `published: 2026-03-30` above and this filename are **retained so citations do not
+>    break**, but 30 March should **not** be cited as the tabling date.
+> 2. **Extract 4 below is a PDF column-misalignment, not the document's meaning.** The gridded table
+>    in the fuller capture shows "Readiness assessment conducted for hosting / Commercial agreements
+>    signed with biometric provider(s)" belongs to **2025/26**, and that **2026/27 = "Hosting
+>    infrastructure for digital identity completed"** (2027/28 digital identity operational; 2028/29
+>    credentials added to wallet). The narrative in extract 2 agrees. Extract 4 is left verbatim as
+>    captured, but must be read with this note.
 
 ## Verbatim extract 1 — strategic partnerships narrative (Part A, "Digital transformation")
 

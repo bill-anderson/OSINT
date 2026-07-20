@@ -35,10 +35,24 @@ market, a sovereign-cloud and state-owned data-centre/AI-compute build-out — l
   skills); a **New Lines Institute** report rated Algeria "most likely to lead AI in North Africa." See
   [[tech.ai]], [[algeria-national-ai-strategy]], [[algeria--tech-ai]]. Source:
   [[2026-05-25-government-reviews-national-ai-strategy-elmoudjahid]].
-- **2026-03** — **Cybersecurity framework stood up** (Decree 26-07): **[[assi|ASSI]]** (MDN), National
+- **2026-03** — **Cybersecurity framework stood up**: **[[assi|ASSI]]** (MDN), National
   Council for ISS, ANPDP, HCD; **National ISS Strategy 2025–2029** adopted (Kaspersky logged 70m attacks
   in 2024). See [[infra.cybersec]], [[algeria--infra-cybersec]]. Source:
   [[2026-03-05-national-cybersecurity-strategy-2025-2029--wearetech]].
+- **2026-01-07** *(gazetted 2026-01-18)* — **Décret présidentiel 26-07 — a security *and* data-protection
+  structure in every public body.** Signed **7 January 2026** and published in ***Journal officiel* n° 04 of
+  18 January 2026** (p. 20), the decree requires every public institution, administration and body to create
+  a **structure responsible for information-systems security *and* data protection**, **organisationally
+  independent of the IT function** and **attached directly to the head** of the body, and fixes its missions,
+  organisation and functioning. **Now established from the gazette** (2026-07-20), displacing an
+  `algeriatech.news` AI-content-farm citation a reconcile worker had rightly refused to rely on — the
+  instrument had stood recorded as *unestablished*. Two corrections come with it: the gazette issue is **18
+  January**, not the **"21 January"** the secondary press repeats; and the subject is **broader than the
+  "mandatory cybersecurity units"** framing previously carried. *Commencement is not established by the
+  sommaire, and the operative text (Arts. 1–14, p. 20) is not held — the capture is the sommaire only.*
+  Sources: [[2026-01-18-algerie-jo-04-decret-presidentiel-26-07-securite-systemes-information]] (the gazette,
+  the authority), [[2026-01-23-decree-26-07-cybersecurity-data-protection-structures-echorouk]] (article-level
+  detail). See [[gov.legislate]], [[infra.cybersec]], [[gov.protect]], [[algeria--infra-cybersec]].
 - **2026-02-18** — **Algérie Télécom to add 345 4G stations** across 44 provinces; rural-coverage
   push (4,500 localities by 2027). See [[infra.connect]], [[algerie-telecom]], [[algeria--infra-connect]].
   Source: [[2026-02-18 Algeria Telecom plans 345 new 4G stations nationwide]].
@@ -138,9 +152,10 @@ market, a sovereign-cloud and state-owned data-centre/AI-compute build-out — l
 - [[gov.protect]] · [[infra.store]] — **[[anpdcp|Law 18-07/25-11]]**, mandatory localisation,
   **[[algeria-data-governance-framework|data-governance decree 25-320]]**. See
   [[algeria--gov-protect]].
-- [[infra.cybersec]] — **[[assi|ASSI]]** (MDN), **[[algeria-national-cybersecurity-strategy-2025-2029|ISS
-  Strategy 2025–29]]**, Decree 26-07 framework, **[[mpt-cert|MPT-CERT]]**, Russia MoU. See
-  [[algeria--infra-cybersec]].
+- [[infra.cybersec]] · [[gov.legislate]] — **[[assi|ASSI]]** (MDN),
+  **[[algeria-national-cybersecurity-strategy-2025-2029|ISS Strategy 2025–29]]**, **décret présidentiel 26-07**
+  (7 Jan 2026, *JO* n° 04 of 18 Jan 2026 — security *and* data-protection structures in every public body),
+  **[[mpt-cert|MPT-CERT]]**, Russia MoU. See [[algeria--infra-cybersec]].
 - [[dpi.pay]] — DZ MOB PAY, **[[bank-of-algeria|Bank of Algeria]]** instant switch & KYC 04-2026, 22m+
   cards, **[[papss|PAPSS]]** accession, **[[yassir]]** / **[[vaulfi]]** fintech. See [[algeria--dpi-pay]].
 - [[dpi.govtech]] · [[dpi.registry]] — **[[dzair-services]]** single window; **[[amlak]]**; Sedjilkoum
@@ -192,3 +207,10 @@ governance.
 `https://www.joradp.dz/FTP/jo-francais/{YYYY}/F{YYYY}{NNN}.pdf` (e.g. `F2026004.pdf` = JO n° 04 of 2026). Each
 issue's front-matter *sommaire* lists every *décision* by title, so a sweep can be done by fetching issues in
 sequence and reading only the sommaire.
+
+**One issue of that sweep is now done.** The acquisition of **JO n° 04 of 18 January 2026**
+([[2026-01-18-algerie-jo-04-decret-presidentiel-26-07-securite-systemes-information]]) brought its **complete
+sommaire** into the wiki. It lists **no *décision du haut commissaire à la numérisation***: the *arrêtés,
+décisions et avis* section carries only Foreign Affairs, Interior, Commerce and Tourism items, none touching
+digitalisation. **JO n° 04/2026 is therefore cleared** — one issue eliminated, the question otherwise
+unchanged as of 2026-07-20.

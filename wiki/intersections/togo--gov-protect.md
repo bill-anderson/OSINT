@@ -8,8 +8,8 @@ topics: [gov.protect, gov.legislate, infra.cybersec, capacity.training, capacity
 entities: [[ipdcp-togo], [ancy-togo], [haac-togo]]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-19
-sources: [[2025-03-29-ipdcp-demarre-activites], [2025-11-03-3000-jeunes-formes-reflexes-numeriques], [2026-06-25-ipdcp-forme-premiers-correspondants]]
+last_reviewed: 2026-07-20
+sources: [[2025-03-29-ipdcp-demarre-activites], [2025-11-03-3000-jeunes-formes-reflexes-numeriques], [2026-06-25-ipdcp-forme-premiers-correspondants], [2019-10-29-togo-loi-2019-014-protection-donnees-caractere-personnel]]
 ---
 
 # Togo × Data Protection & Cybersecurity
@@ -21,11 +21,44 @@ monitoring room.
 
 ## The framework
 
-Data protection rests on the **2019 personal-data law** enforced by the **[[ipdcp-togo]]** (Instance de
-Protection des Données à Caractère Personnel, president **Colonel Bédiani Belei**), alongside the
-**[[ancy-togo]]** (National Cybersecurity Agency), the **CERT.tg** incident-response centre and the
-**National Cybersecurity Strategy 2024–2028**. *(The 2019 law's text and the IPDCP's establishing act are
-not held — GAP-TGO-001.)* See [[gov.legislate]].
+Data protection rests on **loi n° 2019-014 du 29 octobre 2019 relative à la protection des données à
+caractère personnel**, enforced by the **[[ipdcp-togo]]** (Instance de Protection des Données à Caractère
+Personnel, president **Colonel Bédiani Belei**), alongside the **[[ancy-togo]]** (National Cybersecurity
+Agency), the **CERT.tg** incident-response centre and the **National Cybersecurity Strategy 2024–2028**.
+See [[gov.legislate]].
+
+**The statute is now held in full (2026-07-20).** The gazetted text — *Journal Officiel de la République
+Togolaise*, 64ᵉ année n° 26 *ter*, numéro spécial of **29 October 2019**, arts. 1–97 — replaces the
+one-line World Bank ISR mention this page and [[ipdcp-togo]] previously rested on. What it establishes:
+
+- **The authority is created by art. 55**, not by a separate constitutive act: *"Il est créé une autorité
+  nationale chargée de la protection des données à caractère personnel dénommée « Instance de protection
+  des données à caractère personnel »."*
+- **Dates, kept apart.** The law is titled *"du 29 octobre 2019"* and gazetted that day, but its signature
+  block reads *"Fait à Lomé, le 30 octobre 2019"* — **a one-day discrepancy internal to the gazette
+  itself**. Carry the 29 Oct citation; do not silently promote either date into the other.
+- **Prior-formality regime, not a bare-rights statute.** Processing is tiered: **declaration** (art. 6,
+  with a one-month receipt), **exemption** (arts. 5, 7), **authorisation** (art. 8 — genetic and health-
+  research data, criminal data, file interconnection, use of a **national identification number or any
+  general-purpose identifier**, and **biometric data**), and **reasoned opinion** (art. 9) for state,
+  public-establishment and public-service processing touching state security, criminal enforcement, the
+  **census**, sensitive categories, and payroll/tax.
+- **Compliance clock (art. 95).** From entry into force: **two years** for processing on behalf of the
+  State, a public establishment, a local authority or a private body running a public service; **one year**
+  for everything else. Art. 94 subjects already-created State/public-service processing to declaration
+  under art. 6 only.
+- **Cross-border transfer** requires an adequate level of protection in the destination state and prior
+  notification to the IPDCP for a reasoned opinion (art. 28), with narrow one-off exceptions (art. 29) and
+  an IPDCP authorisation route for inadequate destinations (art. 30).
+
+*The art. 8 authorisation requirement for **biometric data and national identification numbers** is the
+provision that bites hardest against Togo's own [[e-id-togo]]/MOSIP programme — the wiki holds no IPDCP
+authorisation for it.* Source:
+[[2019-10-29-togo-loi-2019-014-protection-donnees-caractere-personnel]].
+
+**Still not held (as of 2026-07-20):** any implementing decree fixing the **IPDCP's organisation and
+functioning**, which the law leaves to regulation. The decrees carried in the same gazette issue
+(n° 2019-128/PR and following) concern forestry appointments, not the IPDCP.
 
 ## The regulator activates (2025-2026)
 

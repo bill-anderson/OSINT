@@ -7,7 +7,7 @@ topics: [gov.protect, gov.legislate]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-17
-sources: [[2024-08-10 Angola - Dados Pessoais e Ciber-seguranca (APD enforcement)], [2026-06-17-nova-lei-de-proteccao-de-dados-proximo-ano-legislativo]]
+sources: [[2024-08-10 Angola - Dados Pessoais e Ciber-seguranca (APD enforcement)], [2026-06-17-nova-lei-de-proteccao-de-dados-proximo-ano-legislativo], [2025-12-10-angola-decreto-presidencial-263-25-centro-nacional-ciberseguranca]]
 ---
 
 # APD (Agência de Proteção de Dados de Angola)

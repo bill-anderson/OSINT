@@ -7,7 +7,7 @@ places: [XGL, SSD, ZMB]
 topics: [dpi.id, include.access, include.divides, finance.new]
 status: active
 last_reviewed: 2026-07-20
-sources: [[2024-11-21 Over 17,400 South Sudanese receive national identity cards thanks to UNHCR and the EU], [2024-09-27-world-bank-zambia-refugee-host-communities-grant]]
+sources: [[2024-11-21 Over 17,400 South Sudanese receive national identity cards thanks to UNHCR and the EU], [2024-09-27-world-bank-zambia-refugee-host-communities-grant], [2024-09-05-worldbank-zambia-zrhcp-pad-padhi00410], [2024-12-01-worldbank-zambia-zrhcp-environmental-social-management-framework]]
 ---
 
 # UNHCR — UN Refugee Agency
@@ -34,9 +34,14 @@ of who gets counted and documented.
   in the press release:** the [[zrhcp]] page records the **transfer of UNHCR's ProGres
   registration database to Zambia's Ministry of Home Affairs and Internal Security** — an
   agency whose mandate is protection handing registration data to a national-security ministry.
-  **That term rests on the project appraisal document, which the wiki does not hold** (as of
-  2026-07-20; on `reviews/acquisitions.md`). See [[ZMB]], [[gov.protect]], [[include.divides]].
-  Source: [[2024-09-27-world-bank-zambia-refugee-host-communities-grant]].
+  **The primary is now held (ingested 2026-07-20)**: the PAD lists it as activity (b) of
+  Subcomponent 1.2 — *"Transfer of the UNHCR ProGres database to the MoHAIS (separate servers
+  and peripheral equipment)"* — and the ESMF restates it as the *"cost of switch over"* of the
+  same database. The earlier caveat that the term rested on a document the wiki did not hold is
+  retired. See [[ZMB]], [[gov.protect]], [[include.divides]]. Sources:
+  [[2024-09-27-world-bank-zambia-refugee-host-communities-grant]],
+  [[2024-09-05-worldbank-zambia-zrhcp-pad-padhi00410]],
+  [[2024-12-01-worldbank-zambia-zrhcp-environmental-social-management-framework]].
 
 ## Related
 

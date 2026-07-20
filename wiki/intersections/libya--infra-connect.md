@@ -5,11 +5,11 @@ place: LBY
 topic: infra.connect
 places: [LBY]
 topics: [infra.connect, geopol.eu, geopol.usa, geopol.china, infra.cybersec, infra.store, finance.mou, include.divides]
-entities: [[lptic], [almadar-aljadid], [gaci-libya], [trans-saharan-fibre-backbone], [huawei], [zte]]
+entities: [[lptic], [almadar-aljadid], [gaci-libya], [trans-saharan-fibre-backbone], [huawei], [zte], [trans-sahara], [tatweer], [ozon-aljaded]]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-20
-sources: [[2025-05-12-medusa-submarine-cable-inaugurated-misrata-libyaherald], [2026-01-25-lptic-kbr-mou-5g-infrastructure-libyaherald], [2026-01-29-almadar-launches-first-5g-tripoli-libyaherald], [2026-07-16-libya-nokia-5g-cooperation-alwasat], [2026-04-22-gaci-ipv6-transition-libyaherald], [2026-05-30-ghat-tahala-fibre-cut-restored-alwasat], [2025-08-20-lana-gti-huawei-libya-agreement], [2026-03-09-ltt-zte-mou-mwc-barcelona]]
+sources: [[2025-05-12-medusa-submarine-cable-inaugurated-misrata-libyaherald], [2026-01-25-lptic-kbr-mou-5g-infrastructure-libyaherald], [2026-01-29-almadar-launches-first-5g-tripoli-libyaherald], [2026-07-16-libya-nokia-5g-cooperation-alwasat], [2026-04-22-gaci-ipv6-transition-libyaherald], [2026-05-30-ghat-tahala-fibre-cut-restored-alwasat], [2025-08-20-lana-gti-huawei-libya-agreement], [2026-03-09-ltt-zte-mou-mwc-barcelona], [2025-08-17-lana-gti-suspends-huawei-activities-libya], [2025-05-13-libya-review-ozon-unified-telecom-licence], [2019-10-15-dcd-trans-saharan-tatweer-libyan-data-center]]
 ---
 
 # Libya × Connectivity
@@ -59,12 +59,31 @@ foreign vendor. The dividing line is **not** vendor-per-region — Huawei works 
   Technizon Technical Services – Libya Branch** to continue operating, Huawei having committed to full
   compliance with Law 22/2010 — so the suspension **lasted three days** and reads as a jurisdictional
   signal rather than an enforcement campaign. Huawei has operated in Libya **20+ years**, contributing to
-  3G/4G rollout with local operators. Source: [[2025-08-20-lana-gti-huawei-libya-agreement]]
-  (Libyan News Agency, the state agency — carries both the agreement and the suspension's stated grounds).
+  3G/4G rollout with local operators. Sources: [[2025-08-17-lana-gti-suspends-huawei-activities-libya]]
+  (the GTI's suspension statement as carried by LANA on the day of issue — the announcer-of-record account,
+  acquired 2026-07-20, replacing reliance on outlet re-reports),
+  [[2025-08-20-lana-gti-huawei-libya-agreement]] (the reinstatement three days later).
+  - *The suspension statement in its own terms:* the GTI acted "on the basis of its powers under the laws
+    and legislation in force, and the national responsibility placed upon it to preserve Libyan national
+    security and safeguard national sovereignty," grounding the breach in **Law 22/2010, "which vests in the
+    General Authority for Telecommunications and Informatics alone the power to issue licences and permits
+    in this sector."** The international limb is likewise explicit — breach of **ITU** principles "relating
+    to respect for the sovereignty of member states," of international standards obliging companies to
+    respect the domestic law of sovereign states, and of commercial norms barring contracts struck outside
+    official legal frameworks. All Huawei activity was suspended **"with immediate effect until its status
+    is regularised,"** and any contract outside GTI-approved frameworks declared **"null and void."**
+    *(Provenance note: the LANA `&lang=en` variant of this post ID serves the Arabic front page, not a
+    translation — the Arabic original is the record.)*
 - **What triggered it: an eastern network licensed by the rival administration.** The **HoR-appointed
-  government's Ministry of Communications** granted a **unified telecoms licence to OZON Aljaded For
-  Telecom and Technology Group**, effective **4 March 2025** (tender announced 5 Dec 2024; of 25
-  interested firms only Ozon and Giga Communications bought documents). Eastern authorities were
+  government's Ministry of Communications and Informatics** granted a **unified telecoms licence to OZON
+  Aljaded For Telecom and Technology Group**, effective **4 March 2025** — the tender offer having been
+  announced **5 December 2024**, drawing interest from **25 companies** of which only **two** (Ozon and
+  **Giga Communications and Technology**) bought the bid documents; selection was by a ministry-appointed
+  committee of experts and academics applying legal, technical and economic criteria under **Law No. 22 of
+  2010**. *Note the jurisdictional collision this sets up: Law 22/2010 is the same statute the GNU's GTI
+  invokes as reserving **all** licensing to itself.* **Ozon is the HoR-side licensee, not the network** —
+  the eastern network itself is reported as **"Barqa 217"**, and the two must not be conflated. Source:
+  [[2025-05-13-libya-review-ozon-unified-telecom-licence]]. Eastern authorities were
   **reported** to have sought a **USD 198m letter of credit** from the CBL as down payment on a **USD
   700m Huawei contract** to build an eastern mobile network, with a Benghazi-launched network reported as
   **"Barqa 217"**, tied to the Libya Development and Reconstruction Fund. *These contract figures and the
@@ -81,15 +100,25 @@ foreign vendor. The dividing line is **not** vendor-per-region — Huawei works 
   playing multiple foreign vendors (KBR/US, Nokia/Finland, now ZTE/China) as strategic partners. *The
   signing date is **9 March 2026** on ZTE's own record; a 2026-03-11 date in circulation is The
   Register's republication date, not the event's.* Source: [[2026-03-09-ltt-zte-mou-mwc-barcelona]].
-- **Huawei kit on the west side too — the Tripoli data centre.** A **Huawei FusionModule1000A**
-  containerised facility is to be deployed in **Tripoli in early 2027**, operated by **Trans-Sahara**
-  (private, HB Group) in joint venture with **Tatweer Research** (public body owned by the **Libyan Local
-  Investment & Development Fund**), providing **private cloud to government agencies and local
-  companies**, with **PCI DSS** certification sought so the financial sector can use it (reported
-  2026-06-24; **no capacity figure published**, and power/infrastructure named as the main obstacles).
-  Notably this realises a **partnership first signed in Benghazi in October 2019** for a **Tier-3** data
-  centre — scaled down over seven years to a single prefabricated module. *No source held; see
-  acquisitions.* See [[infra.store]], [[libya--infra-cybersec]].
+- **Huawei kit on the west side too — the Tripoli data centre (2019, not 2026).** A **Huawei
+  FusionModule1000A** containerised facility was announced for deployment in **Tripoli in early 2020**,
+  operated by **Trans-Sahara** (private, HB Group) in joint venture with **Tatweer Research** (public body
+  owned by the **Libyan Local Investment & Development Fund**), providing **private cloud to government
+  agencies and local companies**, with **PCI DSS** certification sought so the financial sector could use
+  it. Trans-Sahara's data-centre unit manager **Ehab Elghariani** named **political unrest, electricity
+  instability and infrastructure** as the obstacles; **no capacity figure was published**. Source:
+  [[2019-10-15-dcd-trans-saharan-tatweer-libyan-data-center]] (Data Center Dynamics, 15 Oct 2019).
+  - **Date correction (2026-07-20) — a seven-year error, now removed.** This page previously carried the
+    facility as due in **"early 2027"**, "reported 2026-06-24", and read it as a 2019 Benghazi Tier-3
+    partnership **"scaled down over seven years to a single prefabricated module."** All of that was an
+    artefact of a **re-crawl date read as a publication date**: the DCD article's own byline is **"October
+    15, 2019 By Sebastian Moss"**, and its body is internally dated to 2019 (the Government of National
+    Accord as the interim government; Haftar's April 2019 Tripoli campaign described as ongoing). "Early
+    next year" therefore meant **early 2020**. The supposed seven-year scale-down never happened: the
+    Benghazi Tier-3 signing (Libya Herald, **9 Oct 2019** — "signed in Benghazi last week") and this DCD
+    report are **the same partnership one week apart**, not two events seven years apart. **What became of
+    the facility is unestablished as of 2026-07-20** — the wiki holds nothing on it after 2019.
+  See [[infra.store]], [[libya--infra-cybersec]].
 
 **The reading:** Libya's connectivity contest is less a Huawei-vs-ZTE split than a **regulatory-sovereignty
 dispute wearing a vendor costume**. Both Chinese vendors serve the GNU side under licence; the rupture came
@@ -111,5 +140,13 @@ smaller contracts (a EUR 4.1m / LD 6.6m eastern cable award; a Libyana network-d
 Neither the Central Bank of Libya nor the eastern administration has published anything on the LC.
 **Both figures must continue to be carried as *reported, not established*.**
 
-The **GTI suspension statement of 2025-08-17 was acquired** on 2026-07-20 (LANA, Arabic, staged in
-`new/`), so the suspension itself no longer rests on outlet re-reports.
+The **GTI suspension statement of 2025-08-17 was acquired and ingested** on 2026-07-20 (LANA, Arabic:
+[[2025-08-17-lana-gti-suspends-huawei-activities-libya]]), so the suspension itself no longer rests on
+outlet re-reports. The **Ozon licence** is likewise now sourced
+([[2025-05-13-libya-review-ozon-unified-telecom-licence]]), which settles the tender chronology and confirms
+Ozon as the **licensee**, distinct from the "Barqa 217" network.
+
+The **Tripoli Trans-Sahara/Tatweer data centre is now correctly dated to 2019** — see the date correction in
+the vendor-contest section above. Its **outcome after 2019 is unestablished as of 2026-07-20**: nothing is
+held on whether the FusionModule1000A was ever deployed, and the "early 2027" completion this page formerly
+carried was a seven-year error, not a schedule.

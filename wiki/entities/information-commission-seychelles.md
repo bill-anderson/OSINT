@@ -7,7 +7,7 @@ topics: [gov.protect, gov.legislate]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-17
-sources: [[2024-03-25 Data Protection Law Now In Force In Seychelles], [2024-06-04 Review of Seychelles DPA]]
+sources: [[2024-03-25 Data Protection Law Now In Force In Seychelles], [2024-06-04 Review of Seychelles DPA], [2023-12-22-seychelles-data-protection-act-2023-act-24]]
 ---
 
 # Information Commission (Seychelles)

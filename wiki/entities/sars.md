@@ -7,7 +7,7 @@ topics: [dpi.id, dpi.govtech, dpi.pay, gov.protect, infra.cybersec]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-20
-sources: [[2026-04-03 Say goodbye to SARS tax numbers in South Africa], [2026-02-24 South Africa makes the ETA the cornerstone of its visa reform], [2025-04-03-sars-collaboration-agreements-dha-bma-gpw], [2026-03-30-dha-annual-performance-plan-2026-27-digital-identity], [2025-03-27-cabinet-statement-26-march-2025]]
+sources: [[2026-04-03 Say goodbye to SARS tax numbers in South Africa], [2026-02-24 South Africa makes the ETA the cornerstone of its visa reform], [2025-04-03-sars-collaboration-agreements-dha-bma-gpw], [2026-03-30-dha-annual-performance-plan-2026-27-digital-identity], [2026-03-26-dha-annual-performance-plan-2026-27], [2025-03-27-cabinet-statement-26-march-2025]]
 ---
 
 # South African Revenue Service (SARS)

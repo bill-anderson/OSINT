@@ -7,7 +7,7 @@ topics: [dpi.exchange, dpi.id, dpi.govtech]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-11
-sources: [[2026-02-20 MICSTI AND NUL ADVANCED LESOTHO DIGITAL PUBLIC INFRASTRUCTURE]]
+sources: [[2026-02-20 MICSTI AND NUL ADVANCED LESOTHO DIGITAL PUBLIC INFRASTRUCTURE], [2025-07-28-lesotho-advances-digital-future-audpf-data-governance], [2026-07-16-lesotho-national-data-value-creation-blueprint-workshop]]
 ---
 
 # MICSTI (Ministry of Information, Communications, Science, Technology & Innovation, Lesotho)

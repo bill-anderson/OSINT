@@ -7,7 +7,7 @@ topics: [gov.protect, gov.legislate]
 lens: []
 status: active
 last_reviewed: 2026-07-20
-sources: [[2026-07-16 Data Protection Laws of Senegal (reference summary)], [2026-03-27-aps-donnees-personnelles-legislation-moderniser]]
+sources: [[2026-07-16 Data Protection Laws of Senegal (reference summary)], [2026-03-27-aps-donnees-personnelles-legislation-moderniser], [2026-07-20-senegal-cdp-saly-atelier-projet-loi-protection-donnees]]
 ---
 
 # Senegal Law No. 2008-12 on the Protection of Personal Data

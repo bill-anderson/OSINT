@@ -7,7 +7,7 @@ topics: [finance.new, dpi.id, dpi.registry, include.access, include.divides, inf
 lens: [sovereignty, colonialism]
 status: active
 last_reviewed: 2026-07-20
-sources: [[2025-10-03 Zambia plans domestic digital ID development with help from international partners], [2024-09-27-world-bank-zambia-refugee-host-communities-grant]]
+sources: [[2025-10-03 Zambia plans domestic digital ID development with help from international partners], [2024-09-27-world-bank-zambia-refugee-host-communities-grant], [2024-09-05-worldbank-zambia-zrhcp-pad-padhi00410], [2024-12-01-worldbank-zambia-zrhcp-environmental-social-management-framework]]
 ---
 
 # Zambia Refugee and Host Communities Project (ZRHCP)
@@ -51,7 +51,7 @@ actual sequence, from the announcer of record:
   asylum-seekers and other persons of concern" ([[undp]], 2024-09). **Three definitions,
   three counts; none is adopted here as *the* number.**
 
-## The identity limb (Subcomponent 1.2, US$6m)
+## The identity limb (Subcomponent 1.2 — US$6m per the PAD, US$6.5m per the ESMF)
 
 The reason this project sits in the wiki, and the detail is more consequential than the
 headline:
@@ -62,12 +62,17 @@ headline:
 - **Three refugee-hosting districts: Kalumbila (North-Western), Nchelenge (Luapula) and
   Kaoma (Western)**, plus possible "hotspots" such as Lusaka.
 - **~150,000 cards procured "out of the 20 million that the Government will buy for
-  citizens"** — which incidentally fixes the **national card-procurement scale at 20m**, a
-  figure the wiki did not otherwise hold.
+  citizens"** (PAD, 2024-09-05) — which incidentally fixes the **national card-procurement
+  scale at 20m**, a figure the wiki did not otherwise hold. *(The ESMF, 2024-12, gives
+  ~100,000 against the same 20 million — see the unreconciled divergence below.)*
 - **The UNHCR ProGres database transfers to MoHAIS** (onto separate servers and peripheral
   equipment). ProGres is UNHCR's registration and case-management system. **This is a
   wholesale transfer of refugee registration data from UN custody to the Zambian state**,
-  financed as a line item.
+  financed as a line item. The PAD lists it verbatim as activity (b) of Subcomponent 1.2:
+  *"Transfer of the UNHCR ProGres database to the MoHAIS (separate servers and peripheral
+  equipment)"*; the ESMF renders the same line as the *"cost of switch over of the UNHCR
+  ProGres database to MoHAIS"*. Both documents are now held — this is the project's own
+  language, not a characterisation of it.
 - Biometric registration kits; mobile registration camps targeting women and girls; IT
   upgrades at MoHAIS offices in the three settlements so documentation no longer requires
   travel to Lusaka.
@@ -84,20 +89,23 @@ headline:
 - Separate from, and additional to, the **$120m** ([[dzap]]: $100m IDA grant + $20m
   unguaranteed commercial) the World Bank committed to Zambia's DPI implementation.
 
-**Provenance of this section (2026-07-20).** Of the two sources this page holds, the
-[[world-bank]] press release
-([[2024-09-27-world-bank-zambia-refugee-host-communities-grant]]) carries only the
-**approval, the announcement date, "$30 million", "over 100,000 refugees"** and the
-Meheba/infrastructure scope; the Biometric Update re-report
-([[2025-10-03 Zambia plans domestic digital ID development with help from international partners]])
-adds the WHR window, MoHAIS management, UNHCR technical support, the Mwiimbu quote, **112,000**
-and the end-October-2028 completion. **Everything else above — Subcomponent 1.2 and its $6m,
-the $27m/$3m split, SDR 22.6m, the three districts, the 150,000-of-20-million card
-procurement, 101,837, the PAD/ESMF dates and the ProGres transfer — is PAD- and
-ESMF-derived, and those documents are NOT held in `raw/`.** They are queued on
-`reviews/acquisitions.md` (P503941, PADHI00410). Until they are ingested these figures are
-**reported from disclosed World Bank project text seen during the 2026-07-20 reconcile pass,
-not from a source of record** — do not cite them onward as if the wiki held the primary.
+**Provenance (2026-07-20) — the primaries are now held.** The **PAD (Report No. PADHI00410,
+2024-09-05)** and the **ESMF (December 2024)** were acquired and ingested on **2026-07-20**.
+Everything above — Subcomponent 1.2 and its **US$6m**, the **$27m/$3m** split, **SDR 22.6m**,
+the three districts, the **150,000-of-20-million** card procurement, **101,837**, and the
+**ProGres transfer** — now rests on the project's own appraisal document, not on
+reconcile-pass reading of undisclosed text. The earlier caveat ("not from a source of
+record") is retired. Sources:
+[[2024-09-05-worldbank-zambia-zrhcp-pad-padhi00410]],
+[[2024-12-01-worldbank-zambia-zrhcp-environmental-social-management-framework]].
+
+**One figure is not settled, and the project's own documents are the reason.** The PAD and
+the ESMF give **different values for the same subcomponent**: the PAD, **US$6 million** and
+*"approximately 150,000 paper-based cards or polycarbonate cards"*; the ESMF, **US$6.5
+million** and *"approximately 100,000"*. The ESMF is the later document (**2024-12** against
+**2024-09**) but is not on its face a revision — it restates the subcomponent rather than
+amending it. Carried **unreconciled**, not silently resolved to the later value. Recorded at
+`reviews/contradictions/open/`.
 
 ## Why it matters here
 
@@ -130,5 +138,7 @@ after "former refugee" status remains unanswered. See [[gov.protect]], [[include
 
 ## Sources
 
+- [[2024-09-05-worldbank-zambia-zrhcp-pad-padhi00410]]
 - [[2024-09-27-world-bank-zambia-refugee-host-communities-grant]]
+- [[2024-12-01-worldbank-zambia-zrhcp-environmental-social-management-framework]]
 - [[2025-10-03 Zambia plans domestic digital ID development with help from international partners]]

@@ -97,7 +97,7 @@ Africa's emerging data-centre operators.
   the divergence sits in their **2024 denominators** (Partech US$2.2bn; AVCA ≈US$2.7bn, a base AVCA does
   not print), not in a revision by either. Resolved 2026-07-20; see [[finance.new]] for the full
   reconciliation. Sources: [[2026-01-22-partech-africa-tech-vc-report-2025]],
-  [[2026-02-01-avca-venture-capital-in-africa-report-2025]].
+  [[2026-02-10-avca-venture-capital-in-africa-report-2025]].
 - **Operator & channel layer thickening (2026-04).** Hyperscaler capacity —
   [[amazon-web-services]]' Cape Town region, Microsoft — is increasingly intermediated by a
   domestic channel: **[[axiz]]**, [[equinix]]'s SA distribution partner, packaging

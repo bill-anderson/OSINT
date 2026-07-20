@@ -9,7 +9,7 @@ entities: [[sa-digital-id-regulations], [popia], [home-affairs-south-africa], [m
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-20
-sources: [[2026-04-21 South Africa's digital ID gets a targeted launch date], [2026-05-29 Opinion South Africa's Digital Identity Regulations A Governance Crossroads], [2026-01-28 Home Affairs sets new record by delivering over four million Smart IDs in 2025], [2026-01-27 SA's Telcos, Banks At War With Govt Over 6,500% ID Verification Fee Hike], [2026-01-28 Bad news about South Africa's newest ID book plan], [2025-11-09 Behind the speedy MyMzansi screens and the Presidency's race to build a digital government], [2026-01-07 Digital driving licence coming to South Africa], [2026-04-03 Say goodbye to SARS tax numbers in South Africa], [2026-03-31 Concerns over South Africa's proposed digital ID system from traditional leaders], [2026-03-09 Home affairs launches Smart ID partnership with banks], [2026-02-24 South Africa makes the ETA the cornerstone of its visa reform], [2025-03-06-biometric-drivers-licence-tender-ag], [2025-03-11-digital-id-before-2029-elections], [2025-03-25-biometric-verification-fee-increase], [2025-05-29-biometrics-immigration-raids], [2025-08-12-schreiber-digital-home-affairs], [2026-01-30-digital-id-behind-schedule-mymzansi], [2026-05-06-digital-id-draft-regulation-gazetted], [2026-05-09-smart-ids-go-digital-draft-rules], [2026-05-20-home-affairs-828m-digital-id-budget], [2026-06-08-biometric-population-register-unveiled], [2026-07-07-biometric-case-management-migration], [2026-07-16-absa-joins-home-affairs-smart-id], [2026-07-17-home-affairs-unblock-identity-numbers-addresses], [2026-07-10-sarb-explores-digital-identity], [2026-06-09-operators-solved-fintech-digital-identity-next], [2026-03-30-dha-annual-performance-plan-2026-27-digital-identity], [2025-04-03-sars-collaboration-agreements-dha-bma-gpw], [2025-03-27-cabinet-statement-26-march-2025]]
+sources: [[2026-04-21 South Africa's digital ID gets a targeted launch date], [2026-05-29 Opinion South Africa's Digital Identity Regulations A Governance Crossroads], [2026-01-28 Home Affairs sets new record by delivering over four million Smart IDs in 2025], [2026-01-27 SA's Telcos, Banks At War With Govt Over 6,500% ID Verification Fee Hike], [2026-01-28 Bad news about South Africa's newest ID book plan], [2025-11-09 Behind the speedy MyMzansi screens and the Presidency's race to build a digital government], [2026-01-07 Digital driving licence coming to South Africa], [2026-04-03 Say goodbye to SARS tax numbers in South Africa], [2026-03-31 Concerns over South Africa's proposed digital ID system from traditional leaders], [2026-03-09 Home affairs launches Smart ID partnership with banks], [2026-02-24 South Africa makes the ETA the cornerstone of its visa reform], [2025-03-06-biometric-drivers-licence-tender-ag], [2025-03-11-digital-id-before-2029-elections], [2025-03-25-biometric-verification-fee-increase], [2025-05-29-biometrics-immigration-raids], [2025-08-12-schreiber-digital-home-affairs], [2026-01-30-digital-id-behind-schedule-mymzansi], [2026-05-06-digital-id-draft-regulation-gazetted], [2026-05-09-smart-ids-go-digital-draft-rules], [2026-05-20-home-affairs-828m-digital-id-budget], [2026-06-08-biometric-population-register-unveiled], [2026-07-07-biometric-case-management-migration], [2026-07-16-absa-joins-home-affairs-smart-id], [2026-07-17-home-affairs-unblock-identity-numbers-addresses], [2026-07-10-sarb-explores-digital-identity], [2026-06-09-operators-solved-fintech-digital-identity-next], [2026-03-30-dha-annual-performance-plan-2026-27-digital-identity], [2026-03-26-dha-annual-performance-plan-2026-27], [2025-04-03-sars-collaboration-agreements-dha-bma-gpw], [2025-03-27-cabinet-statement-26-march-2025]]
 ---
 
 # South Africa × Digital Identity
@@ -40,8 +40,19 @@ of the primary legislation, and analysts warn the governance scaffolding is thin
   the hosting infrastructure itself** (sign-off by DDG:CS in Q4), with verifiable credentials and
   digital wallets explicitly in *subsequent* phases, and puts digital identity and e-Passports
   "**by 2029**". **Eight of ten named banks have concluded agreements** covering biometric
-  enrolment, courier logistics and **API-based integration**. Source:
-  [[2026-03-30-dha-annual-performance-plan-2026-27-digital-identity]].
+  enrolment, courier logistics and **API-based integration**. **The quarterly targets confirm the
+  shape**: Q1 "work order signed to initiate procurement", Q4 "hosting infrastructure for digital
+  identity completed" — i.e. **by 31 March 2027**, with **2027/28** carrying "digital identity
+  operational (verifiable credentials issued via digital wallet)" and **2028/29** "verifiable and
+  agreed credentials added to wallet". Sources:
+  [[2026-03-26-dha-annual-performance-plan-2026-27]] (**full plan, Parts A–D and target tables**),
+  [[2026-03-30-dha-annual-performance-plan-2026-27-digital-identity]] (**the technical-indicator
+  annexure, incl. the *Assumptions* line — beyond the fuller capture's 200k cap**).
+  *Beware a PDF extraction artefact:* the flat MTEF row reads as though 2026/27's targets were
+  "readiness assessment" and "commercial agreements signed with biometric provider(s)"; the gridded
+  table shows those belong to **2025/26**. *Date caveat:* the plan states its tabling only as
+  "**March 2026**"; 26 March is its finalisation date, and the 30 March date on the companion page is
+  not supported by the document text.
 - **The pact underneath it (2025-04-03).** SARS's own release records **two** agreements that day: a
   **bilateral SARS–DHA direct agreement** reviving the **Direct Master Agreement in place since
   2010**, and a **four-party MoU** (DHA, SARS, BMA, GPW) supplying the governance framework.

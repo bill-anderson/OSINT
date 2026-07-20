@@ -14,7 +14,9 @@ last_reviewed: 2026-07-20
 West African ([[XWA]]) state that is, on the evidence here, **the region's digital-ID reference
 implementation** — the country Senegal sent a delegation to study. Its e-ID runs on **[[mosip]]**
 under an MoU signed **2021**, inside the World Bank's **[[wuri-programme]]**, on a legal base laid
-unusually early: a **data protection law in September 2019**, a **foundational unique
+unusually early: a **data protection law of 29 October 2019** (*loi n° 2019-014*, gazetted text now held —
+the "September 2019" dating the wiki carried from the World Bank's WURI ISR is **corrected as of
+2026-07-20**), a **foundational unique
 identification law in September 2020** creating **[[anid-togo]]**, cybersecurity amendments in
 **June 2022** creating ANCy, and a data protection authority, the **[[ipdcp-togo]]**. Togo also
 authored **[[novissi]]**, the fully-digital pandemic cash-transfer programme that remains one of
@@ -120,6 +122,34 @@ the payments, AML, civil-registry and e-ID-rollout threads.
   the [[sydonia]] (ASYCUDA) customs system**; **mandatory from 1 January 2026** after a three-month
   transition. Source: [[2025-10-01 Togo Launches Online Platform for Tax Exemptions and Waivers]].
   See [[dpi.govtech]], [[dpi.exchange]].
+- **2025-06-05** *(baseline)* — **The state's own education-data account: DHIS2 phase 2 cost 71.3m FCFA,
+  and StatEduc is being rebuilt underneath it.** Togo's **tenth joint education sector review** (Lomé,
+  **4–5 June 2025**, 140+ participants, covering 2023–2024 performance) records **[[hisp-wca|HISP WCA]]**
+  financing **phase 2 of the DHIS2 project at 71,305,244 FCFA** — the only DHIS2 financing figure the wiki
+  holds, and about **1%** of the IDA/GPE basic-education project's 8.139bn FCFA in the same table. It also
+  records **[[mepsta-togo|MEPS]]** recruiting a StatEduc/SIGE consultant in **2023** to migrate the
+  **[[stateduc]]** databases from **Ms Access to PostgreSQL** and move to **online data entry**, plus a
+  **pupil-matriculation platform** generating student registration numbers; **METFPA** ran the same
+  StatEduc→PostgreSQL migration over 2023–2024 *"en vue de la digitalisation de la collecte de données"*.
+  **This confirms the layering rather than upsetting it:** the state is modernising StatEduc *as the
+  collection system* while **[[dhis2]]** stays the analytical layer above it. Source:
+  [[2025-06-01-togo-aide-memoire-dixieme-revue-sectorielle-conjointe-education]]. See [[dpi.mis]],
+  [[data.statistics]], [[finance.new]], → **[[togo--dpi-mis]]**.
+- **2019-10-29** *(baseline, structural)* — **The data-protection statute, now held in full.**
+  ***Loi n° 2019-014 du 29 octobre 2019 relative à la protection des données à caractère personnel***,
+  gazetted in the *Journal Officiel* n° 26 *ter* of that date (arts. 1–97), is the instrument behind
+  **[[ipdcp-togo]]** — created at **art. 55**, not by a separate constitutive act. It sets a
+  **prior-formality regime**: declaration by default (art. 6), with **IPDCP authorisation required** for
+  genetic and health-research data, criminal data, file interconnection, **biometric data**, and use of a
+  **national identification number or any general-purpose identifier** (art. 8); and a reasoned-opinion
+  route for state processing touching security, criminal enforcement and the **census** (art. 9).
+  Compliance ran **two years** for State/public-service processing and **one year** for everything else
+  (art. 95). *The gazette is internally inconsistent by a day — titled 29 October, signed "Fait à Lomé,
+  le 30 octobre 2019"; the 29 Oct citation is carried.* **The art. 8 biometric/NIU authorisation
+  requirement bears directly on [[e-id-togo]], and no such IPDCP authorisation is held.** Any implementing
+  decree fixing the IPDCP's own organisation remains **not held as of 2026-07-20**. Source:
+  [[2019-10-29-togo-loi-2019-014-protection-donnees-caractere-personnel]]. See [[gov.protect]],
+  [[gov.legislate]], → **[[togo--gov-protect]]**.
 - **2025-04-07** — **Electoral roll revised.** Revision ran **7–23 April 2025** nationwide ahead of
   the municipal elections, by presidential decree of 1 April. **[[ceni-togo]]** trained **324
   trainers**, who trained nearly **6,000 data-entry operators**. The prior electoral census for the

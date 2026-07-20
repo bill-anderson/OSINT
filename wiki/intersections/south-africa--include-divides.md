@@ -4,12 +4,12 @@ title: "South Africa × Digital Divides"
 place: ZAF
 topic: include.divides
 places: [ZAF]
-topics: [include.divides, include.access, dpi.pay, dpi.id, gov.legislate, capacity.literacy, digital.rural]
+topics: [include.divides, include.access, dpi.pay, dpi.id, dpi.exchange, gov.legislate, capacity.literacy, digital.rural]
 entities: [[sassa], [institute-for-economic-justice], [paythegrants], [national-treasury-south-africa], [home-affairs-south-africa], [themba-matlou], [leon-schreiber], [solly-malatsi], [brenton-van-vrede], [sisisi-tolashe], [tsakeriwa-chauke], [alexandra-abrahams], [auditor-general-south-africa], [postbank]]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-20
-sources: [[2026-01-28 State is blocking access to SASSA grants, argue activists], [2026-01-19 SASSA on qualification criteria for COVID-19 SRD], [2026-01-28 Home Affairs sets new record by delivering over four million Smart IDs in 2025], [2025-03-03 Digital 2025 - South Africa (DataReportal)], [2025-04-24 New ID verification process for Sassa grants - Here's who's affected], [2025-08-25 SASSA to Launch Mandatory Biometric Enrollment for Grant Beneficiaries on September 1], [2026-07-13 Digital-first must not become digital-only, says Malatsi], [2025-08-28-sassa-biometric-enrolment-new-beneficiaries-portfolio-committee], [2025-09-18-sassa-beneficiaries-take-up-biometric-enrolment-campaign], [2026-05-18-parliamentary-question-nw1941-sassa-biometric-verification]]
+sources: [[2026-01-28 State is blocking access to SASSA grants, argue activists], [2026-01-19 SASSA on qualification criteria for COVID-19 SRD], [2026-01-28 Home Affairs sets new record by delivering over four million Smart IDs in 2025], [2025-03-03 Digital 2025 - South Africa (DataReportal)], [2025-04-24 New ID verification process for Sassa grants - Here's who's affected], [2025-08-25 SASSA to Launch Mandatory Biometric Enrollment for Grant Beneficiaries on September 1], [2026-07-13 Digital-first must not become digital-only, says Malatsi], [2025-08-28-sassa-biometric-enrolment-new-beneficiaries-portfolio-committee], [2025-09-18-sassa-beneficiaries-take-up-biometric-enrolment-campaign], [2026-05-18-parliamentary-question-nw1941-sassa-biometric-verification], [2025-01-23-institute-for-economic-justice-v-minister-social-development-srd-judgment]]
 ---
 
 # South Africa × Digital Divides (`ZAF` × `include.divides`)
@@ -45,9 +45,57 @@ eligible beneficiaries based on inaccurate information, reduced its value and th
 eligibility, and persistently failed to pay hundreds of thousands of approved beneficiaries**". They
 argue the online-only system was adopted to "serve the improper purpose of reducing uptake", reject
 Treasury's unaffordability claim, and ask that the appeal be dismissed with costs. **A hearing date
-was not set** as of 2026-01-28. *These are the parties' pleaded arguments, attributed — the judgment
-itself is not held (GAP-ZAF-004).* Source:
+was not set** as of 2026-01-28. *These are the parties' pleaded arguments, attributed.* Source:
 [[2026-01-28 State is blocking access to SASSA grants, argue activists]].
+
+### What the court actually held (2025-01-23) — from the judgment
+
+*Institute for Economic Justice and Another v Minister of Social Development and Others*
+**[2025] ZAGPPHC 29** (also [2025] 2 All SA 230 (GP); 2025 (4) SA 249 (GP)), North Gauteng High
+Court, Pretoria, **Twala J**, case 071891/2023; heard **29–30 October 2024**, judgment
+**23 January 2025**. The wiki now cites the judgment itself, not reporting of the pleadings
+([[2025-01-23-institute-for-economic-justice-v-minister-social-development-srd-judgment]]).
+
+**Declared unconstitutional and invalid** (order paras 1–15): **Regulation 3(2)**, online-only
+lodgement — cured by reading in "**or at the offices of the Agency**"; **Regulation 2(3)(c)(i)**,
+"checks against **databases** that may indicate income or alternative financial assistance";
+**Regulation 2(3)(c)(ii)**, the proxy means test by **verification of insufficient means with
+banks**; **Regulation 6(c)**, barring new evidence on appeal — cured by deleting "not";
+**Regulation 5(3)(a)**, making payment subject to available funds and permitting SASSA to withhold
+once funds are depleted (**the budget cap**); **Regulation 2(5)**, the **R624** income threshold;
+and **Regulation 5(1)**, the **R370** monthly grant value. The court further **declared SASSA's
+failure to pay successful applicants, timeously or at all, unconstitutional and unlawful** (para 10)
+and directed SASSA to investigate the delays and deliver a remedial plan **within four months**
+(paras 11–12). It declared that **s 27(1)(c) and (2) of the Constitution require** government to
+plan for and progressively increase both the grant value and the threshold (para 16), directing the
+Minister of Social Development, in consultation with the Minister of Finance, to deliver that plan
+**within four months** (paras 17–18). Costs against the respondents jointly and severally on
+**Scale B** (para 20) — the court **declined** the punitive Scale C the applicants sought (para 165).
+
+**Interpretive declarations** (paras 3–4): "**income**" in Regulation 1 means money received **on a
+regular basis** from formal or informal employment, business activities or investments;
+"**financial support**" means money received on a regular basis which benefits the recipient, does
+not constitute income, and which the recipient **has a legal right to receive**. This is the ruling
+that defeats counting one-off gifts and intra-household transfers as means.
+
+**Not granted** — do not attribute these to the court: the declarations sought against the **two
+online screening questions** (prayer 8.6) and against the **absence of a conflict-resolution
+mechanism** between database and bank verification (prayer 8.10) do not appear in the order.
+
+**The exclusion mechanism, on the record.** The judgment records **[[national-treasury-south-africa]]**
+as having **intervened** (joined 2024-08-14) and the applicants' case that DSD "**openly admitted**"
+the barriers were designed to hold recipient numbers inside Treasury's allocation. Dated figures as
+recorded in the judgment: applications fell from **over 15.8m to just over 8.1m** and approvals from
+**10.9m to 5.6m** between March and April 2022 after the tightened criteria; **14m applied in March
+2023, 8.3m approved**; the grant budget was cut **R44bn → R36bn (2023/24)** and **R36bn → R33.6bn
+(2024/25)**, the latter covering **~8m beneficiaries** against a government estimate of **~18.3m**
+eligible. The judgment also records a **SALDRU/Treasury report of 2021-10-04** estimating a **35%
+false-rejection rate** — **4.5m of 13m truly eligible claimants** falsely rejected, "potentially
+accounting for almost all current rejections". *These are figures as recorded in a January 2025
+judgment; they are not current state.*
+
+**Note an internal inconsistency in the judgment itself:** the notice of motion (para 8.1) dates
+Regulation 3(2)'s introduction to **29 May 2023**, the order (para 1) to **29 March 2023**.
 
 ### The state corroborating the plaintiffs — the analytical spine
 
@@ -118,11 +166,14 @@ FY2025/26 start slipped — "we hit a snag"
 ([[2025-08-25 SASSA to Launch Mandatory Biometric Enrollment for Grant Beneficiaries on September 1]]).
 **Resolved (2026-07-20):** biometrics gate **new applications and triggered reviews**, not everyone —
 existing recipients using a 13-digit SA ID are not required to enrol unless a review or change of details
-triggers it (acting CEO van Vrede to the Portfolio Committee, 2025-08-27). *Correction:* the SCA matter
-(hearing 2026-08-25) is the state's appeal in *Institute for Economic Justice v Minister of Social
-Development* [2025] ZAGPPHC 29, on **SRD-grant** exclusion barriers — it is not a challenge to biometric
-enrolment, which post-dates the judgment. Thematically adjacent, legally distinct. See [[dpi.id]],
-[[south-africa--dpi-id]].
+triggers it (acting CEO van Vrede to the Portfolio Committee, 2025-08-27). *Correction, now resting on
+the primary:* the SCA matter (hearing 2026-08-25) is the state's appeal in *Institute for Economic
+Justice v Minister of Social Development* [2025] ZAGPPHC 29, on **SRD-grant** exclusion barriers —
+online-only lodgement, bank verification, database checks, the means test and the budget cap. It is
+**not** a challenge to biometric enrolment, which post-dates the judgment (announced 2025-08, judgment
+2025-01-23). The judgment's order names no biometric relief
+([[2025-01-23-institute-for-economic-justice-v-minister-social-development-srd-judgment]]).
+Thematically adjacent, legally distinct. See [[dpi.id]], [[south-africa--dpi-id]].
 
 **The scope limit, from the official record.** Acting CEO **Brenton van Vrede** to the Portfolio
 Committee on Social Development, **2025-08-27**: "We are **not** saying everyone must come in and be
@@ -183,8 +234,11 @@ rhetorical version; the SRD case is the litigated one. See [[include.access]], [
 
 ## Open questions
 
-- The **high court judgment of January 2025** and the SCA papers themselves are not held —
-  the wiki reads the litigation only through GroundUp's reporting (**GAP-ZAF-004**).
+- **Closed 2026-07-20: the high court judgment is now held** —
+  [[2025-01-23-institute-for-economic-justice-v-minister-social-development-srd-judgment]]. The wiki
+  no longer reads the 2025 ruling through GroundUp; see *What the court actually held* above. **The
+  state's SCA appeal papers remain not held** — filed papers are not published on SAFLII and no route
+  to them was found (as of 2026-07-20).
 - **No hearing date** was set as of 2026-01-28; outcome unknown.
 - Whether the **32% approved-to-paid ratio** in the non-citizen cohort holds across the citizen
   caseload is **not established by any source held**.

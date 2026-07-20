@@ -70,9 +70,12 @@ thing to watch.
   Source: [[2026-02-13 Tunisia Advances Digital Health Reform With AI and National Cloud Strategy]].
   See [[infra.store]], [[tech.ai]], [[sovereignty]]. *(This source names Tunisie Telecom's head
   "Assad bin Dyab" where the January account says "Lassaad Ben Dhiab" — see ISSUE-006.)*
-- **2026-01-16** — **EBRD €190m to modernise Tunisie Telecom — including its MEDUSA connection.** The
-  **[[ebrd]]** announced a development-linked loan of up to **€190 million** (four tranches; first
-  committed tranche €50m) to **[[tunisie-telecom]]**, funding a **4G-to-5G** upgrade,
+- **2024-07-24** *(announced 2026-01-16)* — **EBRD €190m to modernise Tunisie Telecom — including its
+  MEDUSA connection.** The **[[ebrd]]** Board of Directors **approved** a development-linked loan of up to
+  **€190 million** (four tranches; first committed tranche €50m) to **[[tunisie-telecom]]** on **24 July
+  2024**; the public announcement followed on **16 January 2026**. *(The approval date is established from the
+  EBRD's own board report, acquired 2026-07-20; the wiki previously dated the whole thing to the 2026
+  announcement.)* The loan funds a **4G-to-5G** upgrade,
   **fibre-to-the-home to 200,000 households**, backbone and core-network modernisation, energy
   efficiency and energy production — **and, in the EBRD's own words, "Tunisie Telecom's connection to
   the [[medusa-submarine-cable|MEDUSA]] submarine cable."** A complementary **€11m EU grant** under the
@@ -80,13 +83,19 @@ thing to watch.
   assistance, with a first-loss guarantee from **EFSD+**. Interest is tied to sustainability and
   SOE-reform milestones; aligned with the EU **[[global-gateway|Global Gateway]]**; the EBRD's **first
   non-sovereign-guaranteed public-sector financing in Tunisia since 2012**.
-  *Two financings, different money for different objects (settled 2026-07-20): this EBRD loan finances
-  **TT's connection into the cable as a capacity customer**, one component of a multi-part corporate
-  programme rather than a cable-specific facility; the **Bizerte landing station is Orange's**, built
-  under a separate **€10m EU CEF-Digital grant to [[orange-tunisia]]** (signed Dec 2022, ~30% of costs).
-  Neither instrument is the other.*
-  Sources: [[2026-01-16-ebrd-tunisie-telecom-190m-medusa]] (EBRD's own announcement, the announcer of
-  record), [[2026-01-19 EBRD and Tunisie Telecom Partner on €190 Million Digital Infrastructure Upgrade]]
+  The board report sets the connectivity target as lifting Tunisia's international bandwidth from **1.95
+  Tbit/s (2022) to 10 Tbit/s within four years** (SEMED average **6.98 Tbit/s**).
+  *Two financings, different money for different objects (settled 2026-07-20, now on documentary footing):
+  this EBRD loan finances **TT's connection into the cable as a capacity customer**, one component of a
+  multi-part corporate programme rather than a cable-specific facility; the **Bizerte landing station is
+  Orange's**, built under a separate **EU CEF-Digital grant to [[orange-tunisia]] of €9.6m against a €32m
+  project budget** (exactly 30%; project **1 Mar 2023 – 31 Aug 2025**). Neither instrument is the other.
+  The grant figure was previously carried as "**€10m signed Dec 2022**" from trade press — a rounding, and a
+  signature date **not present in the Commission's record**, which states only a 1 March 2023 project start.*
+  Sources: [[2024-07-24-ebrd-board-report-project-hannibal-tunisie-telecom]] (the EBRD board report, the
+  authority for the facility), [[2024-12-03-ec-cef-digital-viatunisia-project-record]] (the EC's CEF record,
+  the authority for the grant), [[2026-01-16-ebrd-tunisie-telecom-190m-medusa]] (EBRD's own announcement),
+  [[2026-01-19 EBRD and Tunisie Telecom Partner on €190 Million Digital Infrastructure Upgrade]]
   (*trade re-report, 19 Jan — kept as the traceable origin of the 2026-01-19 mis-dating, not as the
   event's "as of"*). See [[infra.connect]], [[finance.new]], [[geopol.eu]], [[tunisia--infra-connect]].
 - **2025-10-31** — **Medusa lands at Bizerte — Africa's first landing on the cable, and who actually owns

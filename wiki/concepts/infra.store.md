@@ -439,6 +439,17 @@ hosted on the continent at all.
   2025-10-10** after technical rehabilitation. Distinct from Sudatel's RSF-seized Khartoum facility
   (Dec 2023) and from the **planned** Port Sudan alternate national data centre (announced Jan–Mar 2026,
   **not built as of 2026-07-20**).
+- **[[CAF]] Central African Republic — five threads, and the pattern is absence of completion.** The
+  World Bank recorded **two government data centres already under construction in 2022** (PAD4661): one
+  for public financial management, and an **MDEPT facility intended to host systems and data from any
+  public or private institution** — the national-facility role — specified **Tier II in Phase 1 with a
+  Phase 2 extension to Tier III**, and explicitly still needing co-financing. Neither reappears in the
+  2025 achievement record. So the 2026 Huawei "Tier III" pitch repeats a **2022 MDEPT target**, and the
+  reading is not absence of intent but **absence of completion, running from 2022**.
+- **[[TCD]] Chad — the size was never actually undisclosed.** The national data centre is **N'Djamena,
+  four storeys, ~2,000 m²**; the apparently conflicting "2,000 m² over four floors" and "500 m² over four
+  levels" are the same building measured two ways (500 × 4). Capacity, IT load, tier rating and operator
+  remain genuinely undisclosed as of 2026-07-20.
 
 ## Places
 

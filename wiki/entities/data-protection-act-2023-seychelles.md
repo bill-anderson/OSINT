@@ -1,16 +1,16 @@
 ---
 type: entity
 entity_type: instrument
-title: Seychelles Data Protection Act, 2023
+title: Seychelles Data Protection Act, 2023 (Act 24 of 2023)
 places: [SYC]
 topics: [gov.protect, gov.legislate, gov.standards, dpi.exchange]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-17
-sources: [[2024-03-25 Data Protection Law Now In Force In Seychelles], [2024-06-04 Review of Seychelles DPA]]
+last_reviewed: 2026-07-20
+sources: [[2023-12-22-seychelles-data-protection-act-2023-act-24], [2024-03-25 Data Protection Law Now In Force In Seychelles], [2024-06-04 Review of Seychelles DPA]]
 ---
 
-# Seychelles Data Protection Act, 2023
+# Seychelles Data Protection Act, 2023 (Act 24 of 2023)
 
 **Seychelles' omnibus data-protection statute**, enforced by the
 [[information-commission-seychelles]] as the designated authority (s.5). It **repeals the Data
@@ -19,28 +19,38 @@ Advisory's words, was "enacted but never implemented in practice." The 2023 Act 
 Seychelles privacy law with an actual enforcer, an expanded set of data-subject rights and a
 cross-border transfer regime. See [[gov.protect]], [[gov.legislate]], [[SYC]].
 
-## Two dates, not one
+## Enactment chain — settled from the gazetted text
 
-The sources held here give **two distinct December 2023 dates**, and this page keeps them apart
-rather than collapsing them into a bare "December 2023":
+The gazetted primary is now held, and it resolves what two secondary accounts had left looking
+like a conflict. The **two December 2023 dates are two different events**, not competing reports
+of one:
 
-- **Enacted 19 December 2023** — TechHive Advisory, following the conclusion of the public
-  consultation on the Data Protection Bill that [[dict-seychelles]] opened in **August 2023**.
-  Source: [[2024-06-04 Review of Seychelles DPA]].
-- **The 18-month transitional period runs from 22 December 2023** — Appleby. Source:
-  [[2024-03-25 Data Protection Law Now In Force In Seychelles]].
+- **Passed by the National Assembly — 5 December 2023.** Certified by Mrs Tania Isaac, Clerk to
+  the National Assembly ("I certify that this is a correct copy of the Bill which was passed by
+  the National Assembly on 5th December, 2023").
+- **Presidential assent — 19 December 2023.** The signature block reads *"I assent / Wavel
+  Ramkalawan, President, 19th December, 2023"*. This is what TechHive Advisory reported as
+  "enactment" (source: [[2024-06-04 Review of Seychelles DPA]]), following the
+  [[dict-seychelles]] public consultation on the Bill opened in **August 2023**.
+- **Coming into operation — 22 December 2023.** The gazette header carries the enacting date
+  **"[22 December 2023]"**. This is the date Appleby correctly attached the transitional period
+  to (source: [[2024-03-25 Data Protection Law Now In Force In Seychelles]]).
+- **Citation — Act 24 of 2023**, published in the Supplement to the Official Gazette.
 
-These are most likely **different events — enactment versus commencement** — rather than a
-conflict, but no source held here states that. **The primary (the Act as gazetted) would settle
-it and is not held by this wiki.**
+Source: [[2023-12-22-seychelles-data-protection-act-2023-act-24]].
 
-## Currency: the transition has elapsed
+## Transitional period (s.56) — elapsed
 
-Eighteen months from **22 December 2023** expired **on or about 22 June 2025**. As of
-**2026-07-17** that window is therefore **long past**: Seychelles controllers and processors
-should be read as **subject to the Act in full**, not as sitting in a transition. No source held
-here reports what happened at expiry — whether compliance was achieved, extended or simply not
-enforced.
+**s.56(1)** verbatim: a data controller or processor "that was or is processing any personal data
+before the coming into operation of this Act and does not conform to the provisions of this Act,
+shall, within a period of **18 months from the coming into operation** of this Act, ensure that
+its activities conform". **s.56(2)** makes failure to comply **an offence**.
+
+The clock therefore runs from **commencement (22 December 2023)**, not assent — expiring
+**22 June 2025**. As of **2026-07-20** that window is long past: Seychelles controllers and
+processors are **subject to the Act in full**, not sitting in a transition. **No source held here
+reports what happened at expiry** — whether compliance was achieved, extended, or simply not
+enforced. **s.55** repeals the former Data Protection Act (Cap 57).
 
 ## Key provisions
 
@@ -95,5 +105,6 @@ reach for).
 
 ## Sources
 
+- [[2023-12-22-seychelles-data-protection-act-2023-act-24]] — the gazetted primary
 - [[2024-03-25 Data Protection Law Now In Force In Seychelles]]
 - [[2024-06-04 Review of Seychelles DPA]]

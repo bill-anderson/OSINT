@@ -6,7 +6,7 @@ parent: XCA
 place_kind: country
 topics: [infra.cybersec, dpi.govtech, dpi.registry, dpi.id, dpi.exchange, dpi.mis, dpi.pay, tech.ai, tech.innovate, infra.connect, infra.store, infra.energy, gov.legislate, gov.protect, gov.policy, gov.standards, digital.localgov, data.statistics, data.open, capacity.training, include.access, include.divides]
 status: active
-last_reviewed: 2026-07-18
+last_reviewed: 2026-07-20
 ---
 
 # Cameroon (CMR)
@@ -92,11 +92,21 @@ and rights as reality.**
 > (personal data protection) and **loi n° 2024/016** (civil registration), both enacted
 > 23 Dec 2024, are **not held**: prc.cm serves them only as scanned image PDFs from which no
 > machine-readable text can be extracted, so the wiki still reads both laws through secondary
-> reporting. **Décret n° 2025/059 of 28 Feb 2025** *is* now held, though as an `excerpt` —
-> clean through art. 31, with the refugee-card, disability-card and final provisions not
-> captured. Note the decree is broader than a CNI instrument: it governs all *titres
-> identitaires* (national ID card, residence permit, resident card, refugee card, national
-> disability card).
+> reporting.
+>
+> **Décret n° 2025/059 of 28 Feb 2025** *is* now held
+> ([[2025-02-28-cameroun-decret-2025-059-titres-identitaires]]), though as an `excerpt` — clean
+> through art. 31, with the refugee-card, disability-card and final provisions not captured.
+> The decree is broader than a CNI instrument: it governs all *titres identitaires* — national
+> ID card, residence permit, resident card, refugee card and national disability card — with the
+> CNI only its Chapter II. See [[cameroon--dpi-id]].
+>
+> **The decree does not stand in for the two laws.** It is a *credential* instrument: it fixes what
+> identity documents look like and how they are applied for and issued. It creates **no data-protection
+> rights, no processing lawfulness regime, no supervisory authority, and no civil-registration rule** —
+> those sit in **loi n° 2024/017** and **loi n° 2024/016**, whose texts remain unheld. Holding the decree
+> narrows the gap on the ID card's mechanics; it does not close the gap on Cameroon's data-protection or
+> CRVS statutes, and no claim about either should be cited to it.
 
 ## Entities
 

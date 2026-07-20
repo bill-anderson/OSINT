@@ -559,10 +559,10 @@ its files were explicitly regenerable snapshots, never a store of record.)* Reso
 `reviews/contradictions/done/` as the last step.
 
 **8. Absences.** A specific known **document** the wiki wants and doesn't hold →
-add it to `reviews/acquisitions.md` (a fetch list, worked by the sweep or a
-hand-clip, never by reconcile). Anything else that can't be closed by either
-queue is a **horizon**, and belongs on the relevant page as a dated statement of
-what isn't established. [adapted: CLAUDE.md now governs — `reviews/gaps.md` and
+add it to `reviews/acquisitions.md` (a fetch list drained by the acquisition pass,
+`run acquisitions`, never by reconcile). Anything else that can't be closed by
+either queue is a **horizon**, and belongs on the relevant page as a dated
+statement of what isn't established. [adapted: CLAUDE.md now governs — `reviews/gaps.md` and
 the structural-gap register are withdrawn.]
 
 **9. Update the indexes** — `topics-index.md`, `places-index.md`,
@@ -760,56 +760,90 @@ snapshots, not a second store of record. The base is canonical.
 
 ---
 
-## 11. Lint checks (run on request)
+## 11. Lint
 
-1. **Schema integrity** — pages missing required frontmatter for their type.
-2. **Vocabulary** — any `topics` slug absent from `taxonomy.md`, or any place
-   absent from `countries.csv`.
-3. **Freshness** —
-   - `last_reviewed` older than **90 days**;
-   - a page whose newest cited source is over **2 years** old while the same topic
-     carries sources under **6 months** old elsewhere;
-   - any time-varying figure written in bare, undated present tense.
-4. **Orphans & dead links** — pages absent from indexes; broken `[[links]]`
-   (triage per §9).
-5. **Untagged sources** — `raw/` items missing place/topic/entity tags.
-6. **Inadmissible sources** — any compiled source page whose origin is a
-   second-hand or AI-generated synthesis, or Bill's *unpublished* notes; flag for
-   removal and re-sourcing. (Published Data Landscapers work is admissible as
-   analysis — do not flag it.)
-7. **Duplicates.**
-   - *Pages* — near-identical concept/entity/intersection pages covering the same
-     event; flag for merge.
-   - *Sources* — cluster `raw/` items sharing **event + entities + date**, then
-     within each cluster find sources whose *in-scope payload* — the facts,
-     figures, dates, entities and quotes the wiki draws on — is identical, one
-     adding nothing the other lacks (outlet boilerplate, framing and length don't
-     count). Resolve each set by `CLAUDE.md` → *Duplicates*: **drop** the
-     redundant copy, or **replace** the held one where the incoming is a clear
-     tier upgrade (primary over secondary; canonical URL over
-     syndicated/aggregator copy; full body over excerpt; `date_source: source`
-     with finer `date_precision`). **A later, better source displaces an earlier
-     one — quality beats primacy.** Do not replace for marginal betterness.
-     [adapted: CLAUDE.md now governs — the old (a)–(d) keeper ladder, which
-     preferred earliest publication and fell back to lexicographic filename, is
-     superseded.] Before deleting, **rewire any `sources:` citation to the kept
-     twin** and record the deletion in `log.md` (kept + pruned URLs/titles). If
-     payloads differ at all — a figure, date, quote or provenance link one lacks —
-     they are complementary or contradictory, not duplicates: keep both, folding
-     in detail or applying the contradiction rule. Git holds the deleted files.
-8. **Page bloat** — synthesis pages past the refactor threshold (~2,500 words) or
-   reading as append-logs; flag for trimming or intersection split. Oversized
-   indexes; flag for sharding.
-9. **Unresolved contradictions** — open `needs-review` flags from `log.md`, and
-   files left in `reviews/contradictions/open/`.
-10. **Stranded queue items** — anything left in `new/` after an ingest run; these
-    are unfinished, not filed.
-11. **Missing date prefix** — any `raw/` source (or artefact) without a
-    `YYYY-MM-DD` prefix; flag for renaming (with link updates).
-12. **`sources`/`entities` link-list convention** — any page whose `sources:` or
-    `entities:` frontmatter uses the non-canonical double-bracket-per-item style
-    `[[[a]], [[b]]]` (canonical is `[[a], [b]]`), or a malformed hybrid; flag for
-    normalisation.
+**Lint acts and logs. It does not report.** Every check below has one correct
+action; lint takes it, in git, and records a count in `log.md`. It surfaces to
+Bill **one thing only**: a genuine contradiction it uncovered, filed to
+`reviews/contradictions/open/` and drained by the next reconcile. Everything else
+it settles itself — including equal duplicates, where it keeps one and drops the
+other without asking, because which copy survives does not matter. Never a to-do
+list. Same discipline as reconcile and acquire — the pass cleans up after
+itself. A wrong auto-fix is a revert, not a review queue.
+
+Run: work the checks in order (dependencies resolve top-down — schema before
+vocabulary, orphans before dead-link triage). End with the tally
+(`contradictions - NN ; acquisitions - NN ; decisions logged - NN`) and, if any
+check acted, a one-line-per-check count.
+
+### Auto-fix — mechanical, one right answer, no output but a count
+
+1. **Schema integrity** — add missing required frontmatter for the page's type
+   from what the page already carries; where a required value cannot be inferred,
+   that is the rare surface (see below), not a silent guess.
+2. **Vocabulary** — a `topics` slug absent from `taxonomy.md` or a place absent
+   from `countries.csv` is a typo or a stale slug: correct it to the controlled
+   value. A genuinely new vocabulary value needed is a judgment call — surface.
+4. **Orphans & dead links** — add absent pages to their indexes; rewire or
+   retire broken `[[links]]` per §9's referrer bands (≥10 create the wanted page,
+   1–2 fix or drop). The intentional-dead whitelist (§9) is never touched.
+5. **Untagged sources** — tag `raw/` items missing place/topic/entity tags per
+   `CLAUDE.md` → *Entities* (actors, not every mention; institutions, not
+   officeholders). Under-tagging of mere mentions is **not** a defect — do not
+   over-tag to satisfy the check.
+7. **Duplicates.** Cluster `raw/` items sharing **event + entities + date**; within
+   a cluster, where one source's in-scope payload is identical to another's
+   (boilerplate, framing and length don't count), resolve by `CLAUDE.md` →
+   *Duplicates*: **drop** the redundant copy, or **replace** the held one on a
+   clear tier upgrade (primary over secondary; canonical over syndicated; full
+   body over excerpt; finer `date_precision`) — quality beats primacy, never for
+   marginal betterness. Rewire `sources:` citations to the kept twin; log the
+   deletion (kept + pruned). **Where neither is clearly better, keep the first by
+   filename and drop the other — no decision, it doesn't matter which survives.**
+   Where payloads differ (a figure, date, quote one lacks) they are complementary
+   or contradictory, not duplicates — keep both, or route to #9. Git holds
+   deletions. [The old (a)–(d) earliest-publication keeper ladder is superseded.]
+11. **Missing date prefix** — rename any `raw/` source or artefact lacking a
+    `YYYY-MM-DD` prefix, updating links. Where the date is genuinely
+    unestablished, apply `date_source: proxy` at best precision per §3 rather than
+    inventing one.
+12. **Link-list convention** — normalise `sources:`/`entities:` frontmatter from
+    the non-canonical `[[[a]], [[b]]]` (or a malformed hybrid) to `[[a], [b]]`.
+13. **Quarantine leaks** — a `wiki/` page citing `reviews/contradictions/research/`,
+    `queries/results/`, or any `DO-NOT-INGEST` file: rewire to the ingested
+    primary, or remove the citation. These are scratch, never a store of record.
+
+### Auto-resolve onto the page — no queue
+
+3. **Freshness** — for each: `last_reviewed` over **90 days**; a page whose newest
+   source is over **2 years** old while the topic carries sources under **6
+   months** old elsewhere; a time-varying figure in bare undated present tense; a
+   USD figure not written as a dated conversion, or money not in the announcing
+   party's own currency. **Fix in place**: date the figure, convert the phrasing,
+   or where the current value genuinely can't be established, write the dated
+   absence on the page (a known vacuum is a finding). Re-stamp `last_reviewed`.
+6. **Inadmissible sources** — a compiled source whose origin is a second-hand/AI
+   synthesis, Bill's *unpublished* notes, or a publication that re-renders the
+   wiki's own pages: **downgrade in place** — demote to a lead, or strike the
+   citation and mark the claim for re-sourcing, recording it on the page. (Published
+   Data Landscapers work is admissible analysis — never flag it.)
+8. **Page bloat** — a synthesis page past ~2,500 words or reading as an append-log:
+   trim, or split the substantial per-country cells into an intersection and leave
+   the rest as index lines (per `CLAUDE.md` → *Structure*). Shard an oversized
+   index. Place-hub **Recent developments** sections are exempt — they are meant to
+   be dated logs.
+
+### Surface to Bill — the only output
+
+9. **Contradictions** — file any conflict the pass uncovered (sources disagreeing,
+   or a duplicate-cluster payload mismatch that is a real disagreement) to
+   `reviews/contradictions/open/` as a brief, drained by the next reconcile. Report
+   the count.
+10. **Stranded queue items** — anything left in `new/` after an ingest is
+    unfinished. Lint does **not** ingest it (that's a separate pass); it reports the
+    count so Bill knows the ingest didn't complete.
+
+Nothing else reaches him. Equal duplicates are settled by #7, not surfaced.
 
 ---
 

@@ -6,7 +6,7 @@ places: [ZAF]
 topics: [dpi.pay, include.access, gov.policy, finance.new]
 status: active
 last_reviewed: 2026-07-17
-sources: [[2026-01-28 State is blocking access to SASSA grants, argue activists], [2026-01-19 SASSA on qualification criteria for COVID-19 SRD]]
+sources: [[2026-01-28 State is blocking access to SASSA grants, argue activists], [2026-01-19 SASSA on qualification criteria for COVID-19 SRD], [2025-01-23-institute-for-economic-justice-v-minister-social-development-srd-judgment]]
 ---
 
 # National Treasury (South Africa)

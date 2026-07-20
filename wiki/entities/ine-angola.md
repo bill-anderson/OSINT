@@ -7,7 +7,7 @@ topics: [data.statistics, data.open]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-20
-sources: [[2026-07-02-ine-lanca-portal-do-censo-2024-e-aplicacao-movel], [2026-06-12-nova-estrategia-de-desenvolvimento-da-estatistica-2026-2032], [2026-02-10-tecnologias-digitais-dados-estatisticos-em-benguela], [2025-11-20-angop-censo-2024-luanda-populacao-definitivos], [2026-02-24-angop-luanda-censo-relatorio-provincial]]
+sources: [[2026-07-02-ine-lanca-portal-do-censo-2024-e-aplicacao-movel], [2026-06-12-nova-estrategia-de-desenvolvimento-da-estatistica-2026-2032], [2026-02-10-tecnologias-digitais-dados-estatisticos-em-benguela], [2025-11-20-angop-censo-2024-luanda-populacao-definitivos], [2026-02-24-angop-luanda-censo-relatorio-provincial], [2025-11-20-ine-angola-censo-2024-relatorio-sintese-resultados-definitivos]]
 ---
 
 # INE (Instituto Nacional de Estatística, Angola)

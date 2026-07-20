@@ -5,11 +5,11 @@ place: AGO
 topic: infra.connect
 places: [AGO]
 topics: [infra.connect, data.satellite, gov.regional]
-entities: [[unitel], [angola-cables], [angola-telecom], [2africa-cable], [equiano-cable], [sarssy], [eutelsat], [mercury-telecom-angola], [conecta-angola], [angosat-2], [uniti-fiber], [ministerio-das-telecomunicacoes-tecnologias-de-informacao-e-comunicacao-social-angola], [mario-oliveira], [matias-borges], [angelo-buta-joao], [inacom], [projecto-nacional-de-banda-larga-angola], [itu], [movicel], [africell]]
+entities: [[unitel], [angola-cables], [angola-telecom], [2africa-cable], [equiano-cable], [sarssy], [eutelsat], [mercury-telecom-angola], [conecta-angola], [angosat-2], [uniti-fiber], [ministerio-das-telecomunicacoes-tecnologias-de-informacao-e-comunicacao-social-angola], [mario-oliveira], [matias-borges], [angelo-buta-joao], [inacom], [projecto-nacional-de-banda-larga-angola], [itu], [movicel], [africell], [ericsson]]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-20
-sources: [[2023-05-17-minttics-matias-borges-22000km-rede-fibra-optica-terrestre], [2025-05-09-angola-minttics-2000km-fibra-optica-este-ano], [2025-11-28-angola-30000km-terrestrial-fibre-itu-wtdc-baku], [2026-06-30-unesco-ram-angola-28000km-fibra-prontidao-ia], [2025-12-13-unitel-investe-43-milhoes-usd-ramal-2africa], [2025-12-13-cabo-submarino-2africa-unitel-soberania-digital], [2025-11-07-minttics-expandir-rede-de-fibra-optica-submarina], [2026-03-26-minttics-projectos-estruturantes-base-tecnologica], [2025-03-11-ericsson-modernizes-unitels-network-in-angola], [2026-06-15-telecom-namibia-angola-telecom-satcab-sarssy-1tbps], [2026-06-15-telecom-namibia-angola-telecom-integrate-sarssy-with-equiano], [2026-06-12-unitel-agreements-expand-broadband-angotic], [2025-06-30-eutelsat-secures-15-year-oneweb-licence-in-angola], [2026-06-12-mercury-eutelsat-acordo-conectividade-leo], [2026-06-11-ilumina-angola-conectividade-no-lago-dilolo], [2025-08-21-angola-gets-10m-from-japan-for-dtt-project], [2026-05-21-angola-cables-uniti-expand-connectivity-itweb], [2026-06-12-angola-cables-uniti-partnership-connectingafrica]]
+sources: [[2023-05-17-minttics-matias-borges-22000km-rede-fibra-optica-terrestre], [2025-05-09-angola-minttics-2000km-fibra-optica-este-ano], [2025-11-28-angola-30000km-terrestrial-fibre-itu-wtdc-baku], [2026-06-30-unesco-ram-angola-28000km-fibra-prontidao-ia], [2025-12-13-unitel-investe-43-milhoes-usd-ramal-2africa], [2025-12-13-cabo-submarino-2africa-unitel-soberania-digital], [2025-11-07-minttics-expandir-rede-de-fibra-optica-submarina], [2026-03-26-minttics-projectos-estruturantes-base-tecnologica], [2025-03-06-unitel-ericsson-angola-network-modernization], [2025-03-11-ericsson-modernizes-unitels-network-in-angola], [2026-06-15-telecom-namibia-angola-telecom-satcab-sarssy-1tbps], [2026-06-15-telecom-namibia-angola-telecom-integrate-sarssy-with-equiano], [2026-06-12-unitel-agreements-expand-broadband-angotic], [2025-06-30-eutelsat-secures-15-year-oneweb-licence-in-angola], [2026-06-12-mercury-eutelsat-acordo-conectividade-leo], [2026-06-11-ilumina-angola-conectividade-no-lago-dilolo], [2025-08-21-angola-gets-10m-from-japan-for-dtt-project], [2026-05-21-angola-cables-uniti-expand-connectivity-itweb], [2026-06-12-angola-cables-uniti-partnership-connectingafrica]]
 ---
 
 # Angola × Connectivity (subsea, fibre, satellite, market)
@@ -97,8 +97,18 @@ penetration (23,977,537 subscribers)** and **30.46% internet penetration (10,078
 ~5m** and **Movicel 941,000** mobile users (Omdia). By **2026-03** MINTTICS cited **>28m mobile
 subscribers and >17m broadband users**; at the April 2026 data-centre launch, **~17.5–17.7m
 fixed+mobile broadband subscribers**, **~75% penetration** and **>85% population broadband coverage**
-— **5.5pp above** the SADC broadband target under NDP 2023-2027. **[[unitel]]** runs an Ericsson
-**dual-mode 5G Core** (2025-03) and is heading toward re-privatisation (15% IPO, July 2026).
+— **5.5pp above** the SADC broadband target under NDP 2023-2027. **[[unitel]]** runs an
+**[[ericsson]] dual-mode 5G Core**: Ericsson announced on **2025-03-06** (at MWC25) that it had
+*completed* the transformation of Unitel's existing core network — dual-mode 5G Core, IMS and
+cloud-native infrastructure on one platform, supporting 2G/3G voice migration, VoLTE, Wi-Fi Calling,
+5G Voice, FWA and eMBB — and that the two had separately completed a **trial data call over 5G
+Standalone in a live environment**. Angola therefore has **5G SA tested, not commercially launched**,
+as of that announcement; no source the wiki holds records a commercial 5G SA launch date *(as of
+2026-07-20)*. The primary is the vendor's own release
+([[2025-03-06-unitel-ericsson-angola-network-modernization]]); the secondary re-report of
+**2025-03-11** ([[2025-03-11-ericsson-modernizes-unitels-network-in-angola]]) supplies the Omdia
+market-share figures above and the privatisation background, and **its date is not the event date**.
+Unitel is heading toward re-privatisation (15% IPO, July 2026).
 
 ## Satellite and the rural last mile
 
@@ -132,7 +142,11 @@ Related: [[angola--infra-store]] · [[angola--data-satellite]]
 - **National-fibre length is not a growth series** — 14,000 km (2025-12) is **Unitel's own** footprint;
   22,000 km (restated 2026-04) is a **c. 2019 figure**; 30,000 km (2025-11) and 28,000 km (2026-06) are
   later official/quasi-official totals that *decline* over time. Written dated and labelled; if the later figures prove to be the same-date restatements
-  rather than growth, this is a contradiction to reconcile.
+  rather than growth, this is a contradiction to reconcile. **Operator announcements are not national
+  totals** and are never promoted to one: the [[ericsson]]/[[unitel]] core-network release of
+  **2025-03-06**, newly held, states **no fibre figure at all**, and the ~14,000 km of 2025-12 is
+  Unitel's own footprint. **No current national fibre length is asserted by this wiki** *(as of
+  2026-07-20)*.
 
 ## Sources
 
@@ -144,6 +158,7 @@ Related: [[angola--infra-store]] · [[angola--data-satellite]]
 - [[2025-12-13-cabo-submarino-2africa-unitel-soberania-digital]]
 - [[2025-11-07-minttics-expandir-rede-de-fibra-optica-submarina]]
 - [[2026-03-26-minttics-projectos-estruturantes-base-tecnologica]]
+- [[2025-03-06-unitel-ericsson-angola-network-modernization]]
 - [[2025-03-11-ericsson-modernizes-unitels-network-in-angola]]
 - [[2026-06-15-telecom-namibia-angola-telecom-satcab-sarssy-1tbps]]
 - [[2026-06-15-telecom-namibia-angola-telecom-integrate-sarssy-with-equiano]]

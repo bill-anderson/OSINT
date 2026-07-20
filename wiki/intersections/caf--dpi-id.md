@@ -9,7 +9,7 @@ entities: [[al-madina], [genkey], [ane-central-african-republic], [oif-la-franco
 lens: [sovereignty, colonialism]
 status: active
 last_reviewed: 2026-07-20
-sources: [[2020-08-21 Centrafrique - Al Madina, la societe qui pose question a Bangui (RFI)], [2023-06-27 Country Report - Rebuilding Identification and Stakeholder Engagement in the Central African Republic], [2023-10-07 Centrafrique - la delivrance de la carte nationale d'identite facilitee pour les habitants de Bossangoa], [2024-10-08 Central African Republic in full biometric voter registration preparations], [2024-12-10 Central African Republic enrols citizens for first local elections in 36 years], [2025-07-27 Centrafrique - le prix des cartes d'identite reduit apres cinq ans de violations de la loi], [2025-08-12 La Francophonie supports birth registration efforts across Central Africa, Madagascar], [2025-12-08 RCA - la societe Al-Madina deploie sa mission d'identite a Birao], [2025-04-18-diagnostic-identite-digitale-etat-civil-oubanguimedias]]
+sources: [[2020-08-21 Centrafrique - Al Madina, la societe qui pose question a Bangui (RFI)], [2023-06-27 Country Report - Rebuilding Identification and Stakeholder Engagement in the Central African Republic], [2023-10-07 Centrafrique - la delivrance de la carte nationale d'identite facilitee pour les habitants de Bossangoa], [2024-10-08 Central African Republic in full biometric voter registration preparations], [2024-12-10 Central African Republic enrols citizens for first local elections in 36 years], [2025-07-27 Centrafrique - le prix des cartes d'identite reduit apres cinq ans de violations de la loi], [2025-08-12 La Francophonie supports birth registration efforts across Central Africa, Madagascar], [2025-12-08 RCA - la societe Al-Madina deploie sa mission d'identite a Birao], [2025-04-18-diagnostic-identite-digitale-etat-civil-oubanguimedias], [2025-11-28-car-systeme-national-identite-numerique-snid], [2022-03-07-worldbank-pad4661-car-public-sector-digital-governance]]
 ---
 
 # Central African Republic × Digital Identity
@@ -42,10 +42,32 @@ costly general census** and redirect those funds. Source:
 of 17 Apr 2025 (Corbeau News, 2025-04-29). (Provenance established by the reconcile pass, 2026-07-20 — the
 claim previously reached the wiki only through a dropped mirror.)
 
-Its stated successor step, **not yet held in the wiki**, is the **Système national d'identité numérique (SNID)**,
-launched **28 November 2025**: ~**$13m**, a **unique identification number (NUI)**, a new **Office national
-d'identification (ONI)**, and an implementation window of **2027–2032**, building on a **2021 AfDB-commissioned,
-EU-co-financed feasibility study**. Flagged for acquisition rather than asserted here.
+**The SNID: an announcement, not a delivery (2025-11-28).** The diagnostic's stated successor step is the
+**Système national d'identité numérique (SNID)**, announced in Bangui on **28 November 2025** and anchored in
+strategic domain 1 of the **[[pnd-2024-2028-central-african-republic|PND]]**. As announced: a total
+investment of **US$13m**; an integrated digital-identity ecosystem built around a **numéro d'identification
+unique (NUI)**; a **newly created Office national d'identification (ONI)** to manage it; and unification of
+the country's **existing biometric and civil-registration databases** into one identity store covering
+citizens, foreign nationals, refugees and diplomatic staff. Feasibility studies are stated complete — a
+**technical, economic and financial study carried out in 2021, commissioned by the [[african-development-bank|AfDB]]
+and co-financed by the [[european-union|EU]]** — with technical, environmental and social assessments,
+procurement and an international tender still ahead.
+
+**Read it as an announcement, not delivery.** The **implementation window is 2027–2032**, i.e. nothing was
+being deployed at the time of announcement, and the wiki holds no procurement, award or enrolment record
+against it as of **2026-07-20**. Provenance is also thin: the account reads as a **project communiqué rather
+than independent reporting**, and it is the **only account located** — no ministry posting or official
+communiqué was found. All figures above are therefore attributed **to the announcement**, not asserted as
+established fact. Source: [[2025-11-28-car-systeme-national-identite-numerique-snid]].
+
+> **Acronym collision — "ONI" means two different CAR bodies.** The SNID's **Office national
+> d'identification** is *not* the **Office National de l'Informatique**, the state-owned IT body that built
+> the GIRAFE payroll system and co-built **Pata Polélé** (→ [[caf--dpi-govtech]]). The World Bank's PAD4661
+> further records a drafted decree that would have turned the latter into an **Office Centrafricain du
+> Numérique (OCN)** under the Prime Minister's office
+> ([[2022-03-07-worldbank-pad4661-car-public-sector-digital-governance]]). Whether the 2025 identity ONI is a
+> new body, a rename, or a collision of abbreviations is **not established as of 2026-07-20** — do not merge
+> the two on the strength of the shared acronym.
 
 **Foundational ID: a contested rebuild.** After 2013 the government began re-issuing the
 **secure national ID card (CNI)**, contracted to private printer **[[al-madina]]** — an
@@ -118,3 +140,5 @@ Place: [[CAF]] · Concepts: [[dpi.id]] · [[dpi.registry]] · [[include.access]]
 - [[2026-06-16-cni-extortion-discrimination-ndele-corbeaunews]]
 - [[2025-01-29-passeports-biometriques-edesec-reprise-corbeaunews]]
 - [[2026-06-12-hcc-deepfakes-ai-disinformation-centranews]]
+- [[2025-11-28-car-systeme-national-identite-numerique-snid]]
+- [[2022-03-07-worldbank-pad4661-car-public-sector-digital-governance]]

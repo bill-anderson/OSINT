@@ -30,3 +30,14 @@ shell, fetch-size limit); items marked **[untried]** were simply never fetched.
 
 
 *(All 11 items in this section were resolved by the acquisition pass of 2026-07-20 — 9 acquired, 2 dropped.)*
+
+## World Bank project documents
+
+- **ZRHCP Implementation Status Report (ISR), Sequence No. 2** — Zambia Refugee and Host
+  Communities Project, **P503941**. **[blocked]** — the World Bank document-detail page
+  returns **HTTP 403** to automated fetch; needs a manual browser capture. *Why it is
+  wanted:* it is the likely tie-breaker for the open contradiction
+  `zrhcp-subcomponent-1-2-card-count-and-cost` (PAD gives Subcomponent 1.2 at US$6m /
+  ~150,000 cards; the ESMF at US$6.5m / ~100,000), and it would establish current
+  disbursement against the identity limb and whether biometric registration under
+  Subcomponent 1.2 has actually started. Added 2026-07-20.

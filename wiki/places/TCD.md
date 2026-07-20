@@ -28,6 +28,20 @@ the thing to watch.
 
 ## Recent developments
 
+- **2026-04-10** — **Parliament passes a law on biometric data in judicial procedures — 138 for, 1 against.**
+  At the 6th plenary of the 2026 first ordinary session, chaired by National Assembly president **Ali Kolotou
+  Tchaïmi**, deputies adopted a bill governing *"la collecte, le traitement, la conservation, l'utilisation
+  et la destruction des données biométriques"* **exclusively within judicial and judicial-police
+  procedures**, framed as safeguarding fundamental rights and individual liberties. Several deputies raised
+  concerns during debate about collection, management and use — specifically the risk of **inappropriate use
+  harming citizens' integrity and privacy** — but the text carried near-unanimously. **This is Chad's first
+  enacted statute dedicated to a class of personal data, and it lands in the criminal-justice domain while
+  the country still has no general data-protection law and no data-protection authority** — the sharpest
+  instance yet of collection running ahead of protection. *Event date is the vote, **10 April 2026**;
+  2026-04-11 is the publication date of the parliamentary report. The **gazetted text is not held**, so the
+  law's number, promulgation date, retention periods, oversight mechanism and destruction rules are all
+  unestablished as of 2026-07-20.* Source: [[2026-04-11-tchad-loi-donnees-biometriques-judiciaires]]. See
+  [[gov.protect]], [[gov.legislate]], [[dpi.id]], → **[[chad--gov-protect]]**.
 - **2026-03** — **The biometric registry becomes the interoperability spine.** Chad's Ministry of
   Finance, Budget, Economy, Planning and International Cooperation concluded a deal with
   **[[anats]]** to enable real-time data sharing off the **[[chad-biometric-registry]]**. ANATS DG
@@ -277,4 +291,20 @@ the **China Eximbank loan agreement** itself. That figure therefore has **no doc
 be treated as uncorroborated until one is obtained.
 
 The **gazetted text of the judicial-biometric-data law** adopted 2026-04-10 (138–1) is likewise not held; the wiki
-has the parliamentary report of its adoption only.
+has the parliamentary report of its adoption only ([[2026-04-11-tchad-loi-donnees-biometriques-judiciaires]]).
+
+**Now held (2026-07-20): Loi n°013/PR/2014 itself.** The 2014 electronic-communications and postal law is on
+file as an **OCR of a scanned paper original** ([[2014-03-21-tchad-loi-013-pr-2014-regulation-communications-electroniques]]).
+Three cautions attach. (1) The scan's promulgation line — *"Fait à N'Djamena, le …"* — is **illegible**, so
+`published` is the law's standard **21 March 2014** citation and is filed `date_source: proxy`; what the
+document itself fixes is the **adoption date, "séance du 11 février 2014"**. (2) The OCR is degraded
+throughout and is held `body_completeness: excerpt`. (3) **Art. 18 was checked and is legible** — and it does
+not say what the wiki's account of the 2025 amendment implies: in the 2014 text art. 18 sits under
+*"Des sanctions"* and gives **[[arcep-chad|ARCEP]]** the power to serve an operator a **mise en demeure**
+(30 days max) for breach of law, licence conditions or anticompetitive conduct. The wiki records
+**Ordonnance n°011/PR/2025** as amending art. 18 to govern **mobile-operator licence award conditions** — a
+different subject. Because the amending ordinance is still unheld, **the two cannot be reconciled from
+documents on file**: either the ordinance renumbered, replaced or substantially rewrote the article, or the
+trade-press account of its subject is imprecise. *Note also that the OCR carries a second, mangled block also
+numbered "Article 18" (exceptional treatment of particularly grave breaches), almost certainly a mis-scanned
+art. 19 — do not quote it as art. 18.*

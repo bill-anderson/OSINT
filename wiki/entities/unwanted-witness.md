@@ -7,7 +7,7 @@ topics: [gov.protect, dpi.id, infra.cybersec]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-14
-sources: [[2026-05-18 Africa’s Digital Economy Is Expanding Faster than Its Privacy Protections], [2026-03-31 Uneven Enforcement of Data Protection Laws Ugandas 2026 Polls]]
+sources: [[2026-05-18 Africa’s Digital Economy Is Expanding Faster than Its Privacy Protections], [2026-03-31 Uneven Enforcement of Data Protection Laws Ugandas 2026 Polls], [2025-06-10-iser-v-attorney-general-nira-uganda-digital-id-ruling]]
 ---
 
 # Unwanted Witness

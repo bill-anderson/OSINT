@@ -9,21 +9,66 @@ entities: [[potraz], [econet-wireless-zimbabwe], [netone], [telecel-zimbabwe], [
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-20
-sources: [[2025-05-21-potraz-approves-telco-tariff-raise], [2026-04-30-econet-5g-exceeds-netone-telecel-combined], [2026-05-07-liquid-fibre-price-war-starlink], [2026-05-19-over-50pc-fixed-broadband-now-wireless], [2026-06-29-govt-debt-to-telone-doubles], [2026-07-03-powertel-paratus-digital-highway], [2026-07-15-internet-traffic-surges-57pc-q1-2026], [2026-07-15-netone-at-30-digital-future], [2025-06-26-starlink-hype-cities-silence-rural], [2025-07-24-govt-donates-250-starlink-kits-local-authorities], [2026-05-16-govt-defends-starlink-rollout], [2026-05-19-starlink-broke-potraz-bandwidth-framework], [2026-07-17-starlink-kits-gather-dust-rural-hospitals], [2026-03-13-mavetera-84-55-internet-penetration-ai-strategy]]
+sources: [[2026-04-29-potraz-abridged-sector-performance-report-q4-2025], [2025-05-21-potraz-approves-telco-tariff-raise], [2026-04-30-econet-5g-exceeds-netone-telecel-combined], [2026-05-07-liquid-fibre-price-war-starlink], [2026-05-19-over-50pc-fixed-broadband-now-wireless], [2026-06-29-govt-debt-to-telone-doubles], [2026-07-03-powertel-paratus-digital-highway], [2026-07-15-internet-traffic-surges-57pc-q1-2026], [2026-07-15-netone-at-30-digital-future], [2025-06-26-starlink-hype-cities-silence-rural], [2025-07-24-govt-donates-250-starlink-kits-local-authorities], [2026-05-16-govt-defends-starlink-rollout], [2026-05-19-starlink-broke-potraz-bandwidth-framework], [2026-07-17-starlink-kits-gather-dust-rural-hospitals], [2026-03-13-mavetera-84-55-internet-penetration-ai-strategy]]
 ---
 
 # Zimbabwe × Connectivity & Broadband
 
 Zimbabwe's connectivity is growing fast and restructuring at once — **traffic +57% (Q1 2026)**, a fibre
-backbone past **19,000 km**, an **Econet-dominated** mobile market, a **reviving state telco (NetOne)**, and
+backbone of **14,357 km (Q4 2025)** reported past **19,000 km (Q1 2026)**, an **Econet-dominated** mobile market, a **reviving state telco (NetOne)**, and
 a **fibre-vs-satellite price war** reshaping the cities — all against **61.6% of the population still offline
 (hub)**. The Starlink dimension is compiled in its own section below.
 
+## The definitional anchor: POTRAZ's own report (held from 2026-07-20)
+
+**The wiki now holds the POTRAZ Abridged Sector Performance Report for Q4 2025 in full**, having
+previously reconstructed this series from ministerial speeches and trade-press readings of it. It is
+**the authority for every penetration figure on this page**, and it settles the measure explicitly:
+
+> *"The total number of active Internet/data subscriptions increased by 2.02% from 12,990,447 …
+> to 13,252,877 … Resultantly, **Internet penetration rate** grew by 1.68 percentage points from
+> 82.87% to reach **84.55%**."*
+
+**"Internet penetration rate" = active internet/data subscriptions ÷ population.** Not users. The
+figure is derived directly from a subscriptions count in the same sentence, which is what makes the
+84.55-vs-38.4 gap a **denominator difference rather than a dispute** — and it is now cited to the
+regulator rather than inferred from a minister quoting the regulator. The series, from the report's own
+Figure 12: **77.55% (Q4 2024) → 76.19% (Q1 2025) → 81.83% → 82.87% → 84.55% (Q4 2025)**. *The Q1 2025
+dip is visible in the regulator's own chart — a usage measure does not fall when population grows.*
+**Broadband penetration 82.63%; mobile penetration 107.04%** on 16,778,982 subscriptions — three
+distinct ratios, all subscriptions-over-population. Source:
+[[2026-04-29-potraz-abridged-sector-performance-report-q4-2025]].
+
 ## The sector, in numbers
 
+- **The fibre backbone, reconciled (2026-07-20).** POTRAZ Table 20 gives the **national fibre backbone
+  at 14,357 km (Q4 2025)** — **[[liquid-intelligent-technologies|Liquid]] 4,631.4 km (32.3%)**,
+  **[[telone|TelOne]] 4,046 km (28.2%)**, **Powertel 3,869 km (26.9%)**, African Fibre Networks 985 km,
+  Dandemutande 560 km, Africom 266 km. **This does not conflict with the 19,000+ km held for Q1 2026 —
+  it is that figure's base.** 14,357 × 1.3383 = **19,212**, so the reported **+33.83%** growth is
+  measured off precisely this quarter's total. **Both figures stand, dated**: 14,357 km (Q4 2025,
+  regulator) → 19,000+ km (Q1 2026, regulator via Info Ministry). *A one-quarter 33.8% jump in a fibre
+  backbone is a very large physical build; the reconciliation confirms the arithmetic but not the
+  construction, and the wiki holds no per-operator Q1 2026 table to check it against (as of
+  2026-07-20).* Source: [[2026-04-29-potraz-abridged-sector-performance-report-q4-2025]].
 - **Growth (Q1 2026).** Internet/data traffic **+57.28%**; **379 5G base stations** (+13); fibre coverage
   **4,046 → 8,500 km** and total backbone **+33.8% to 19,000+ km**; Presidential Internet Scheme cited (Info
-  Minister Zhemu). See [[data.statistics]]. Source: [[2026-07-15-internet-traffic-surges-57pc-q1-2026]].
+  Minister Zhemu). *Caution on the "fibre coverage 4,046 km" figure: **4,046 km is exactly TelOne's own
+  backbone length** in POTRAZ Table 20 for the previous quarter. The secondary appears to have taken one
+  operator's backbone for a national coverage baseline. Treat the 4,046 → 8,500 km pair as unreliable;
+  the 19,000+ km total reconciles cleanly and the sub-figure does not.* See [[data.statistics]]. Source:
+  [[2026-07-15-internet-traffic-surges-57pc-q1-2026]].
+- **Coverage, and where 5G is not (Q4 2025).** **366 5G base stations** (+47, +14.73%) reaching **18.9%
+  of population** — and **0.0% of rural areas**, against **3G at 73.7% rural**. **Econet holds 58.01% of
+  urban base stations**; Econet and NetOne each hold **>45% of rural** ones. *The 5G rural zero is the
+  sharpest single number in the Zimbabwe connectivity file: the network generation the AI strategy is
+  premised on has, on the regulator's own reporting, **no rural footprint at all**.* Source:
+  [[2026-04-29-potraz-abridged-sector-performance-report-q4-2025]].
+- **International bandwidth (Q4 2025).** Equipped capacity **1,688,770 Mbps** (+6.46%), driven by
+  **African Fibre Networks (formerly Dark Fibre Africa) +76.92% to 230,000 Mbps**; Liquid holds **68.10%**
+  (down 4.40pp). Used incoming **604,440 Mbps** (+10.88%). *Note this is the **restated** post-Starlink-
+  exclusion baseline — see the measurement section below.* Source:
+  [[2026-04-29-potraz-abridged-sector-performance-report-q4-2025]].
 - **Fixed broadband tips wireless (2025).** Over **half of fixed broadband (54.54%) is now wireless** —
   fixed-LTE **109k → 143k**, Starlink VSAT **30.9k → 67k**, DSL declining. Source:
   [[2026-05-19-over-50pc-fixed-broadband-now-wireless]].

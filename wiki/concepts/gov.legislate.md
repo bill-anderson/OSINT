@@ -284,6 +284,21 @@ localization mandates, and the competition/antitrust angle on cloud concentratio
   Regulations 2012 (L.I. 2111)** as amended by **L.I. 2356 (2018)**. Acts 707 and 750 were each also
   amended by the Data Protection Act 2012. A **"National Identification Act 2009" — previously carried in
   this wiki — does not exist**; no Ghanaian statute bears that title or year.
+- **[[UGA]] Uganda — retroactive commencement as a validation device.** **SI 67 of 2024** (2024-08-12)
+  amends reg. 19 of the Registration of Persons Regulations 2015 to extend national ID validity **from
+  ten to eleven years**, and is **deemed in force from 20 November 2015** — a retroactive commencement of
+  eight years nine months whose effect is to validate cards already expired on their printed term. The
+  state extended the life of expired documents rather than reissuing them. *(This wiki previously
+  described SI 67 as the instrument preserving ID use for KYC and financial transactions under ss.65–66;
+  the instrument says none of that, and that reading is withdrawn.)*
+- **[[TCD]] Chad — legislating the state's use of biometrics before the citizen's protection from it.**
+  A law on **biometric data in judicial procedures** was passed **2026-04-10 (138–1)** while Chad holds
+  **no general data-protection law and no supervisory authority**. The sequence is the finding.
+- **[[TGO]] Togo — a prior-authorisation regime that bites on MOSIP programmes.** *Loi n° 2019-014* of
+  **2019-10-29** (not September, as previously carried) requires **IPDCP authorisation** for processing
+  biometric data **and** for use of a national identification number (art. 8). Togo's MOSIP-based e-ID
+  does both, and **no such authorisation is held (as of 2026-07-20)**. The IPDCP is created by **art. 55
+  of the law itself** — there is no separate establishing act, though its organisation decree is unheld.
 
 ## Places
 

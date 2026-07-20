@@ -39,15 +39,21 @@ struggling to reach its own territory on the other.
   whose 2020 €20m French deal was never funded. Sources:
   [[2025-09-18-greenline-socatel-privatisation-mou-greenline]],
   [[2026-07-17-socatel-greenline-relance-150m-agenceecofin]]. → [[car-national-datacentre]].
-- **2026-05 — "No national data centre" is now four threads, three sponsors.** [[infra.store]] Nothing is
-  built (as of **2026-07-20**), but four proposals circle the same facility: a China-backed **Huawei Tier III**
+- **2026-05 — "No national data centre" is now five threads, three sponsors.** [[infra.store]] Nothing is
+  built (as of **2026-07-20**), but five proposals circle the same facility: a China-backed **Huawei Tier III**
   proposal (national DC + 5 microwave sites + a **secure eLTE police radio**), the US **Greenline/SOCATEL**
-  Tier 3 (above), a **dormant AIAL Group MoU** (Kigali, Jan 2025 — never advanced to contract), and an
+  Tier 3 (above), a **dormant AIAL Group MoU** (Kigali, Jan 2025 — never advanced to contract), an
   **AfDB/CAB procurement that was never delivered** (the AfDB's own 2023 inauguration scope lists 935 km of
-  fibre, a university incubator and a cybersecurity platform — **no data centre**). Full case:
+  fibre, a university incubator and a cybersecurity platform — **no data centre**, now sourced to the AfDB
+  release itself), and — newly surfaced — a **2022 pair of ministry data centres already "under construction"**
+  per the World Bank's own appraisal, one for MFB's PFM systems and one at **MDEPT** specified **Tier II with a
+  Phase-2 upgrade to Tier III**, blocked on co-financing and with **no completion record since**. The 2026
+  Huawei "Tier III" pitch is therefore a **repeat of a 2022 MDEPT target**, not a new idea. Full case:
   **[[car-national-datacentre]]**. Sources:
   [[2026-05-27-huawei-tier-iii-data-centre-egov-modernisation-agenceecofin]],
-  [[2025-01-22-aial-group-data-centre-mou-oubanguimedias]]. See [[geopol.china]], [[infra.cybersec]].
+  [[2025-01-22-aial-group-data-centre-mou-oubanguimedias]],
+  [[2023-02-08-afdb-inauguration-dorsale-optique-nationale-rca]],
+  [[2022-03-07-worldbank-pad4661-car-public-sector-digital-governance]]. See [[geopol.china]], [[infra.cybersec]].
 - **2026-04-14→16 — Pata Polélé: EU money digitises revenue collection.** [[dpi.govtech]] [[dpi.pay]] A
   fourth e-gov platform, on the **revenue** side — digitising the "mini-recettes" (administrative fees) across
   ~20 ministries, replacing cash and manual quittances with digital receipts and mobile-money payment. Pilot
@@ -114,6 +120,16 @@ struggling to reach its own territory on the other.
   [[2025-12-12 Central African Republic Launches Unified Digital Portal for All Public Services]].
 - **2025-12-08** — **[[al-madina]]** CNI enrolment mission reaches **Birao** (Vakaga).
   [[caf--dpi-id]]. Source: [[2025-12-08 RCA - la societe Al-Madina deploie sa mission d'identite a Birao]].
+- **2025-11-28 — SNID announced: a $13m national digital identity system, to be built 2027–2032.**
+  [[dpi.id]] [[dpi.registry]] CAR announced a **Système national d'identité numérique** anchored in the PND —
+  a **US$13m** integrated identity ecosystem around a **numéro d'identification unique (NUI)**, run by a newly
+  created **Office national d'identification (ONI)**, unifying existing biometric and civil-registration
+  databases for citizens, foreign nationals, refugees and diplomatic staff. Feasibility work is a **2021
+  AfDB-commissioned, EU-co-financed** study. **This is an announcement, not a delivery**: the implementation
+  window is **2027–2032**, procurement and the international tender are still ahead, the account reads as a
+  **project communiqué rather than reporting**, and it is the **only account located**. Note the acronym trap —
+  this **ONI** is not the Office National de l'Informatique that co-built Pata Polélé. Source:
+  [[2025-11-28-car-systeme-national-identite-numerique-snid]]. → [[caf--dpi-id]].
 - **2025-09-23** — Analyst review of **Law No. 24.001** ([[car-data-protection-law-24-001]]).
   Source: [[2025-09-23 Review of the Central African Republic Data Protection Law]].
 - **2025-08-12** — **[[oif-la-francophonie]]** launches a birth-registration project (3,000
@@ -149,18 +165,46 @@ struggling to reach its own territory on the other.
   [[2024-10-08 Central African Republic in full biometric voter registration preparations]],
   [[2024-12-10 Central African Republic enrols citizens for first local elections in 36 years]].
 
+- **2023-02-06 — The national fibre backbone is inaugurated: 935 km, AfDB/EU, Global Gateway.**
+  [[infra.connect]] [[gov.regional]] Touadéra inaugurated the **Dorsale optique nationale** and the
+  interconnection with Congo — **935 km** of terrestrial and sub-fluvial fibre along the Bangui–Douala
+  corridor to Berbérati, splitting to **Cameroon (Gamboula)** and **Congo (Bomassa)**; plus a **University of
+  Bangui training centre and incubator**, a **cybersecurity and e-certification platform**, and TA to create
+  the **Agence centrafricaine de développement du digital**. Executed **2018–2023**; billed by the EU as a
+  **Global Gateway** flagship. This is the **announcer-of-record scope** — and the dated negative behind the
+  data-centre reading. Distinguish it from the *World Bank* CAB transit component, which was cancelled.
+  Source: [[2023-02-08-afdb-inauguration-dorsale-optique-nationale-rca]]. → [[caf--infra-connect]].
+- **2022-03-07 → 2025-05-21 — P174620 documented: what the World Bank actually funded.** [[dpi.govtech]]
+  [[gov.legislate]] The two project documents are now held, settling a line the wiki previously carried from
+  reconcile inference. **P174620 is the CAR Public Sector Digital Governance Project (PSDGP)** — **SDR 25.1m /
+  US$35m** IDA grant, appraised 7 Mar 2022, approved **5 May 2022**, closing 31 Dec 2026, implemented by the
+  **Ministry of Finance and Budget**; **+SDR 4.8m / US$6.4m** appraised **21 May 2025** for mining governance
+  (total **US$41.4m**). It is **not CARDIP** and **funds no data centre** — the full five-component cost table
+  is captured, so that negative is documented rather than merely unobserved. Achievements to May 2025:
+  **2,000+ ghost workers** removed, mobile-money salary for **1,702** civil servants outside Bangui, modernised
+  customs, FMIS, and **enactment of two laws (cybersecurity and data protection)** — the donor provenance for
+  **[[car-data-protection-law-24-001]]**, though the Bank **names neither law**. Disbursement **US$11.35m
+  (33%) as of 15 Apr 2025**; procurement performance candidly poor. Sources:
+  [[2022-03-07-worldbank-pad4661-car-public-sector-digital-governance]],
+  [[2025-05-21-worldbank-project-paper-af-car-public-sector-digital-governance]].
+  → [[caf--dpi-govtech]], [[caf--gov-protect]].
+
 ## Active topics
 
 - **Digital identity & CRVS** → **[[caf--dpi-id]]**. Post-2013 rebuild of the CNI via
   **[[al-madina]]** (Oman-registered, Lebanese-owned; opaque contracting, Bangui-centralised, a resolved price scandal, mobile
   enrolment town-by-town); biometric voter register on **[[genkey]]** run by
-  **[[ane-central-african-republic]]**; nascent **[[oif-la-francophonie]]** birth registration.
+  **[[ane-central-african-republic]]**; nascent **[[oif-la-francophonie]]** birth registration; and the **SNID** announced 28 Nov 2025 ($13m, NUI,
+  a new Office national d'identification, build window **2027–2032** — announced, not delivered).
 - **GovTech / e-government** → **[[caf--dpi-govtech]]**. Three platforms in a year — **e-Tax**
   ([[dgid-central-african-republic]]), **Gouvernemental Centralisé** ([[world-bank]]/EY), and
   **DUNIA** ([[mepci-central-african-republic]]) — under **[[pnd-2024-2028-central-african-republic]]**.
 - **Data protection** → **[[caf--gov-protect]]**. **[[car-data-protection-law-24-001]]** (2024)
   comprehensive but the supervisory authority is unfilled; CEMAC instruments apply
-  ([[data-protection-africa]]).
+  ([[data-protection-africa]]). The World Bank records the law's enactment as a **P174620 deliverable** —
+  its 2022 appraisal found CAR had **no data-protection law at all** — making this a donor-financed statute
+  that arrived without its institution. The Bank **names no law number**, and the **primary text of 24.001
+  is still not held** (as of 2026-07-20).
 - **Connectivity** → **[[caf--infra-connect]]**. Internet **use** at **13.8% (2024, ITU)**, with
   DataReportal/Kepios at **12.0% (~670,000 users, Oct 2025)**
   ([[2025-11-08-datareportal-digital-2026-central-african-republic]]); government statements of
@@ -178,7 +222,7 @@ struggling to reach its own territory on the other.
   utility **[[enerca]]**; the binding constraint on connectivity/data infrastructure. Source:
   [[2022-06-03 Central African Republic - Increasing Electricity Supply and Access and Supporting the Health System]].
 - **AI & data sovereignty** ([[tech.ai]], [[infra.store]]) — **still no national data centre built
-  (as of 2026-07-20)**, though four proposals compete for it (**[[car-national-datacentre]]**); 2020
+  (as of 2026-07-20)**, though **five** threads compete for it - including a **2022 pair of ministry data centres recorded as "under construction"** by the World Bank and never completed (**[[car-national-datacentre]]**); 2020
   France/Russia-targeting disinformation campaigns; "Centrafrique numérique 2018" largely
   unimplemented. Source:
   [[2022-10-21 La Republique centrafricaine et l'intelligence artificielle dans l'espace numerique]].
@@ -201,7 +245,9 @@ Centrafrique (Starlink operator); Central African Digital Development Agency; CI
 **Greenline Technologies** (US, Ohio-HQ, operating in 11 African countries — SOCATEL privatisation + Tier 3 DC;
 2 sources, approaching the page bar); **SOS Télécoms** (N'Djamena-HQ towerco with branches in Niger, Burkina
 Faso, Togo, South Sudan and CAR — first passive-infrastructure licence); **ONI** (Office National de
-l'Informatique, co-builder of Pata Polélé);
+l'Informatique, co-builder of Pata Polélé — **not** the *Office national d'identification* created for the
+SNID, a distinct body sharing the acronym; a drafted decree would have made the former an **Office
+Centrafricain du Numérique/OCN** under the PM);
 **[[justin-gourna-zacko]]** (Minister of the Digital Economy, Posts and Telecommunications — 7 sources, over the
 page bar; **note: Agence Ecofin names Roger Andjalandji in the post as of 2026-07-16** — the wiki's
 Gourna-Zacko material dates to 2026-02 and earlier); the ministry itself

@@ -62,6 +62,22 @@ doubles as the data protection authority** — there is no separate DPA.
 - **2026-06** — Zimbabwe named the **fastest-growing African Starlink market**
   (67,057 subscribers, Q4 2025, +31.6% QoQ). Source:
   [[2026-06-16 Who Owns Africa's Sky]]. See [[infra.connect]], [[starlink]].
+- **2026-04-29** — **The regulator's own numbers, held at last: POTRAZ Q4 2025.** The Authority's
+  **Abridged Sector Performance Report** for **Q4 2025** is now held in full — the **definitional
+  anchor** for Zimbabwe's penetration series, previously reachable only through partial extraction.
+  It settles the measurement question outright: **"internet penetration rate"** is
+  **active internet/data subscriptions ÷ population** — **13,252,877 subscriptions → 84.55%**
+  (up 1.68pp from 82.87%), against **DataReportal's 38.4% of individuals** (Oct 2025). Two different
+  denominators over the same country, not two rival estimates. Also: **mobile penetration 107.04%**
+  (16,778,982 subscriptions), **broadband penetration 82.63%**, **366 5G base stations** (+47),
+  **5G reaching 18.9% of population and 0.0% of rural areas**, **3G reaching 73.7% rural**, mobile
+  data traffic **160.33 PB** (+11.27%), and **Starlink VSAT +31.62% to 67,057** with Starlink's fixed
+  traffic up **42.76%** as Liquid's fell **10.54%**. **National fibre backbone: 14,357 km** (Liquid
+  32.3%, TelOne 28.2%, Powertel 26.9%) — see the reconciliation on [[zimbabwe--infra-connect]].
+  *`published` is the TechnoMag rehost date and is `date_source: proxy`; the report bears no date on
+  its face. Reporting period is Oct–Dec 2025.* Source:
+  [[2026-04-29-potraz-abridged-sector-performance-report-q4-2025]]. See [[infra.connect]],
+  [[data.statistics]], [[include.divides]], [[digital.rural]].
 - **2026-04-07** — **Free public Wi-Fi + AI-skills push.** ICT Minister Tatenda Mavetera
   launched free public Wi-Fi (tied to the 46th Independence Day, 18 Apr 2026): **409
   hotspots** deploying toward **1,000 by year-end**, in schools/clinics/public spaces, to
@@ -83,8 +99,10 @@ doubles as the data protection authority** — there is no separate DPA.
   [[econet-wireless-zimbabwe|EWZL]] / 25.215% Econet shareholders** (dividend in specie, register
   **2026-03-27**) **/ 4.785% exiting shareholders**; issued capital **2,992,163,203** shares, authorised
   raised to **5bn**. **Fayaz King** — ex-[[unicef]] Assistant Secretary-General, and EWZL COO 2015–2019 —
-  became CEO from **2026-03-01**. *The InfraCo Pre-Listing Statement (2026-02-04) and the EWZL circular of
-  the same date are referenced but not held.* See [[finance.new]], [[tech.industry]]. Source:
+  became CEO from **2026-03-01**. *Both 2026-02-04 documents — the InfraCo Pre-Listing Statement and the
+  EWZL circular that incorporates it as Part D — were acquired and ingested **2026-07-20**; this entry no
+  longer rests on the supplementary alone.* See [[finance.new]], [[tech.industry]]. Sources:
+  [[2026-02-04-econet-wireless-zimbabwe-circular-and-econet-infraco-pre-listing-statement]],
   [[2026-03-26-econet-infraco-supplementary-pre-listing-statement]].
 - **2026-03-13** — **National AI Strategy launched — with connectivity as the stated precondition.**
   President **Mnangagwa** launched the **[[zimbabwe-national-ai-strategy]]** at the **New Parliament
@@ -121,11 +139,13 @@ doubles as the data protection authority** — there is no separate DPA.
   which **accepts only US dollars** — part of a tower-unbundling following African peers. CEO
   **Douglas Mboweni** (confirmed serving Dec 2025). **Resolved (2026-07-20): neither "newly
   founded" nor a simple rename.** InfraCo **is Distributed Power Africa (Private) Limited**,
-  a pre-existing Econet subsidiary renamed and converted private→public (2026-03-24), into
+  **incorporated 21 March 2016 (reg. 2030/2016)**, 100% EWZL-owned from incorporation, renamed and
+  converted private→public (2026-03-24), into
   which assets held by EWPL and other wholly owned SPVs were transferred as a going concern
   under a Scheme of Reconstruction completed **2025-12-24**. VFEX-listed **2026-03-31**
-  (INFR.VX, ~US$1bn), EWZL retaining 70%. *InfraCo sits under Econet Wireless
-  **Zimbabwe**, not the Group (ISSUE-008).* Sources:
+  (INFR.VX, ~US$1bn), EWZL retaining 70%. *InfraCo sits under Econet Wireless **Zimbabwe**, which
+  in turn sits under **Econet Global Limited (41.68%, named controlling shareholder)** — both limbs
+  established 2026-07-20 from the EWZL circular.* Sources:
   [[2025-12-19 Econet approves ambitious Harare IT park data centre]],
   [[2025-12-22 Zimbabwe's Econet InfraCo announces industrial park plans]],
   [[2025-12-24-econet-notice-completion-infrastructure-restructuring]].
@@ -150,13 +170,18 @@ doubles as the data protection authority** — there is no separate DPA.
   (Private) Limited**, the Zimbabwe-registered EWZL subsidiary described here. The Cassava and EWZL arms
   have been separately owned since Cassava's launch on **2021-11-10**, which explicitly left Econet's
   mobile businesses outside it. **The South African solar history does not belong to
-  [[econet-infraco]]**; the Zimbabwean power business is now branded **Distributed Power Zimbabwe (DPZ)**
-  inside InfraCo. *No registry extract or group-structure chart is held for any of the three; the
-  original **Econet InfraCo Pre-Listing Statement of 2026-02-04** would settle the chain and is not
-  held.* See [[distributed-power-africa]]. See [[infra.store]], [[infra.energy]], [[tech.industry]],
-  [[finance.new]]. Sources:
+  [[econet-infraco]]**; the Zimbabwean power business is the **PowerCo division inside InfraCo**.
+  ***Corrected 2026-07-20 — there is no "Distributed Power Zimbabwe (DPZ)".*** The hub briefly carried
+  that name; it appears in **neither** 2026-02-04 document nor the supplementary PLS, having entered
+  from an ingest-time editorial note rather than a source. **The 2026-02-04 Pre-Listing Statement is
+  now held** and gives the Zimbabwean entity's registry detail — incorporated **21 March 2016**, reg.
+  **2030/2016**, 100% EWZL-owned from incorporation — the chain this entry recorded as unsettled. It
+  does **not** link the ZAF and ZWE companies in one shareholding chain; that separation is now a
+  checked absence. See [[distributed-power-africa]], [[infra.store]], [[infra.energy]],
+  [[tech.industry]], [[finance.new]]. Sources:
   [[2025-12-15-econet-wireless-zimbabwe-further-cautionary-announcement]],
-  [[2025-12-24-econet-notice-completion-infrastructure-restructuring]].
+  [[2025-12-24-econet-notice-completion-infrastructure-restructuring]],
+  [[2026-02-04-econet-wireless-zimbabwe-circular-and-econet-infraco-pre-listing-statement]].
 - **2025-11-08** — **DataReportal Digital 2026: the offline majority.** *(Publication date confirmed
   2026-07-20 against the publisher's own page: DataReportal **changed its publication cycle** for the
   2026 series, publishing at end-2025 with **October-2025** data. The date is no longer a proxy, and the
@@ -218,8 +243,11 @@ doubles as the data protection authority** — there is no separate DPA.
   does not regulate the sale of personal data**. **No internal ROPAs; instead POTRAZ maintains
   a public register of automated data processing** — an inversion of the GDPR pattern.
   Extraterritorial: **foreign controllers must appoint a local representative**. *Law-firm
-  briefing (Michalsons markets compliance services) — attribute; **the Act text is not held
-  (GAP-ZWE-001)** despite two held sources relying on s.164C.* Michalsons' compliance reading
+  briefing (Michalsons markets compliance services) — attribute. **The gazetted Act text and SI
+  155 of 2024 were acquired and ingested 2026-07-20**, retiring GAP-ZWE-001: s.5's designation of
+  POTRAZ as DPA and the full text of s.164C are now cited to the gazette, the regulations' in-force
+  date corrects to **13 September 2024**, and the licensing deadline is **13 March 2025** (s.4(5)).*
+  Michalsons' compliance reading
   and MISA's rights reading (2026-06-23, above) **do not conflict on facts — they weight the
   same Act differently**. Source:
   [[2025-06-30 Zimbabwe's Cyber and Data Protection Act - Overview]]. See [[gov.protect]],
@@ -291,8 +319,10 @@ doubles as the data protection authority** — there is no separate DPA.
   e-Gov Technology Unit's MDA-interoperability bottleneck) — with **[[zimra]]**'s two registered DPOs
   (late Jan 2026, month-precision proxy) as the named instance of what the aggregate looks like inside a
   large public data controller. Underpinned by the
-  **[[zimbabwe-cyber-and-data-protection-act]] (2021)**, regulations in force Sept 2024, enforced by
-  **[[potraz]]** in its dual regulator/DPA role; **the Act text is not held (GAP-ZWE-001)**.
+  **[[zimbabwe-cyber-and-data-protection-act]] (2021)**, regulations gazetted **13 September 2024**
+  (licence deadline **13 March 2025**), enforced by **[[potraz]]** in a dual regulator/DPA role that
+  **s.5 of the Act expressly designates**. **Both gazetted texts are held from 2026-07-20** —
+  GAP-ZWE-001 retired.
 - [[dpi.pay]] · [[dpi.govtech]] — [[ecocash]]'s foundational role; the
   [[reserve-bank-of-zimbabwe]]'s sub-US$10 fee exemption (Sept 2024);
   [[consumer-protection-commission-zimbabwe]] POS enforcement; TaRMS TIN issuance.

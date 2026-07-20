@@ -5,16 +5,19 @@ place: TCD
 topic: gov.protect
 places: [TCD]
 topics: [gov.protect, gov.legislate, infra.cybersec, tech.ai, geopol.usa, gov.standards]
-entities: [[ansice], [arcep-chad], [starlink]]
+entities: [[ansice], [arcep-chad], [starlink], [anats], [chad-biometric-registry]]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-20
-sources: [[2026-03-16-ecofin-ansice-cybersecurity-agency-reform], [2025-01-25-ansice-cisa-cybersecurite-infrastructures-critiques], [2025-08-28-tchadinfos-arrete-conditions-utilisation-starlink], [2026-04-29-techafricanews-comite-cadre-juridique-numerique], [2025-12-26-afriqueitnews-parlement-cadre-juridique-communications], [2025-10-22-toumaiwebmedias-ratification-ordonnance-011-pr-2025-communications-electroniques]]
+sources: [[2026-03-16-ecofin-ansice-cybersecurity-agency-reform], [2025-01-25-ansice-cisa-cybersecurite-infrastructures-critiques], [2025-08-28-tchadinfos-arrete-conditions-utilisation-starlink], [2026-04-29-techafricanews-comite-cadre-juridique-numerique], [2025-12-26-afriqueitnews-parlement-cadre-juridique-communications], [2025-10-22-toumaiwebmedias-ratification-ordonnance-011-pr-2025-communications-electroniques], [2026-04-11-tchad-loi-donnees-biometriques-judiciaires], [2014-03-21-tchad-loi-013-pr-2014-regulation-communications-electroniques]]
 ---
 
 # Chad × Data Protection, Cyber & the Legal Framework
 
-Chad has **no standalone data-protection law or authority**. Instead it is folding **data protection —
+Chad has **no general data-protection law and no data-protection authority** (as of 2026-07-20) — but it
+**does** now have a **sectoral biometric-data statute for judicial procedures**, passed 10 Apr 2026, which
+regulates the state's *use* of biometrics rather than the citizen's protection generally. Instead of a DPA
+it is folding **data protection —
 plus AI, drones and video surveillance — into its cyber agency [[ansice]]**, while rewriting a decade-old
 telecom code. The result is a **single powerful regulator** governing security *and* privacy, in a
 country already imposing hard identification/retention rules on users.
@@ -44,7 +47,25 @@ country already imposing hard identification/retention rules on users.
   general modernisation of the code: the "adapt regulation to technological change" language is the
   bill's stated rationale as relayed by trade press, not the amendment's content. Deputies' floor
   concerns were monopoly, licence sales, corruption and non-respect of the cahier des charges
-  (resolved 2026-07-20). Sources:
+  (resolved 2026-07-20).
+
+  > **The 2014 law is now held — and it complicates this (2026-07-20).** Loi n°013/PR/2014 is on file as a
+  > degraded OCR of a paper scan ([[2014-03-21-tchad-loi-013-pr-2014-regulation-communications-electroniques]]).
+  > **Art. 18 is legible**, and in the 2014 text it sits under *"Des sanctions"*: it empowers
+  > **[[arcep-chad|ARCEP]]**, on its own motion or at the minister's request, to serve an operator with a
+  > **mise en demeure** (max 30 days) for breach of international accords, national law, or its
+  > authorisation/declaration conditions, or for anticompetitive conduct — with standing to trigger one also
+  > given to operators, professional bodies, user associations and affected persons, and ARCEP free to
+  > publish the notice and its lifting. **That is enforcement machinery, not licence-award criteria.** The
+  > amending Ordonnance n°011/PR/2025 is described in the trade press as governing **mobile-operator licence
+  > award conditions**; since the ordinance itself is **not held**, the wiki cannot say whether it rewrote
+  > art. 18 wholesale, renumbered it, or whether the press characterisation is loose. **Do not state the
+  > current wording of art. 18 from either document.** *(The law's promulgation date is illegible in the
+  > scan — filed `date_source: proxy` against the standard 21 Mar 2014 citation; the document itself fixes
+  > only the **adoption date, 11 February 2014**. The OCR also contains a second, mangled block numbered
+  > "Article 18" — almost certainly a mis-scanned art. 19.)*
+
+  Sources:
   [[2025-10-22-toumaiwebmedias-ratification-ordonnance-011-pr-2025-communications-electroniques]],
   [[2025-12-26-afriqueitnews-parlement-cadre-juridique-communications]].
 - **Starlink is licensed as an ISP, not a mobile operator (on the record, 22 Oct 2025).** Defending
@@ -71,6 +92,26 @@ country already imposing hard identification/retention rules on users.
   identity, address, legal references and **equipment serial numbers** (modems/routers/antennas), with a
   reported **24-month IP/log retention** and a sanctions regime. See [[chad--infra-connect]]. Source:
   [[2025-08-28-tchadinfos-arrete-conditions-utilisation-starlink]].
+- **A biometric-data statute arrives — for the criminal-justice system, and only there (10 Apr 2026).**
+  The National Assembly adopted, **138 votes to 1**, a law governing the **collection, processing,
+  retention, use and destruction of biometric data** *"dans le cadre exclusif des procédures judiciaires et
+  de police judiciaire"*. Deputies raised concerns in debate about **inappropriate use harming citizens'
+  integrity and privacy**; the text carried anyway. See [[gov.legislate]], [[dpi.id]]. Source:
+  [[2026-04-11-tchad-loi-donnees-biometriques-judiciaires]].
+
+  **This is the argument of this page in its clearest form.** Chad's **first enacted statute dedicated to a
+  category of personal data** governs biometrics **in the hands of police and prosecutors** — and arrives
+  while the country still has **no general data-protection law and no data-protection authority**, with
+  [[ansice]] being empowered to administer a regime that does not yet exist. The sequence is not incidental:
+  the state legislated for the **use** of biometric data by its security apparatus **before** legislating
+  the citizen's protection against it. Read alongside the **[[chad-biometric-registry]]** becoming the
+  national interoperability spine (Mar 2026) and the Starlink and ANATS–Airtel identification/retention
+  mandates, the pattern holds — **collection, then use, then, eventually, protection**.
+
+  *What is not established (as of 2026-07-20): the gazetted text is not held, so the law's number,
+  promulgation date, **retention periods**, **destruction procedure**, oversight body and any judicial-
+  authorisation requirement are all unknown. Its safeguards cannot be assessed from the parliamentary
+  report alone — only its scope and its passage.*
 - Paired with the **ANATS–Airtel SIM-data interconnection** (police present — see [[chad--dpi-id]]), Chad
   is building **hard identification and retention** rules *before* the data-protection law that would
   govern them.
@@ -83,7 +124,11 @@ country already imposing hard identification/retention rules on users.
   to **protect** citizens' data is the same one running **surveillance-adjacent** functions (VSS, drones,
   the national information space) — and it is being empowered **ahead of** an enacted data-protection law,
   while identification/retention mandates (Starlink, ANATS-Airtel) already bite. Protection is arriving
-  *after* collection, inside the security state.
+  *after* collection, inside the security state. **The April-2026 judicial-biometrics law is the clearest
+  evidence for this reading and the strongest test of it**: the first data-specific statute Chad has
+  actually enacted governs biometrics **in police and prosecutorial hands**. Whether it constrains that use
+  or merely authorises it cannot be judged — the gazetted text is not held, and the parliamentary report
+  records deputies' privacy objections without recording what, if anything, was conceded to them.
 
 ## Links
 

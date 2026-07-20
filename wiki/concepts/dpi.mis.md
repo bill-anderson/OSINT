@@ -168,6 +168,14 @@ what makes it work or fail.
   **Pro**, national launch 2023-11-21, 2,000+ facilities). **Not a distinct build, not a rename of Pro,
   not its replacement.** Government CTO: "locally developed and owned". *Open: whether 2.0 shares Pro's
   fingerprint enrolment or the MOSIP/INRIS identifier is not established.*
+- **[[TGO]] Togo — the collection layer is itself mid-migration.** The 2025 joint sector review records
+  **StatEduc** being migrated off MS Access to PostgreSQL with online entry — i.e. the state investing in
+  StatEduc *as the collection system* while DHIS2 remains the analytical layer above it. That strengthens
+  the layering finding and suggests the collection migration, not DHIS2, is the likelier near-term cause
+  of the data-latency constraint. DHIS2 phase 2 is funded at **71,305,244 FCFA**, roughly 1% of the
+  concurrent IDA/GPE basic-education project. *A pupil-matriculation platform was "launched" in 2023, yet
+  GPE's ITAP found no clear evidence of student identification numbers in April 2024 — begun, not
+  evidenced as delivered.*
 
 ## Key material — other sectoral MIS
 

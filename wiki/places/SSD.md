@@ -35,23 +35,37 @@ but ahead of the governance frameworks meant to hold it.
     Services** (then minister Michael Makuei Lueth), as **exclusive provider of e-Government Services** —
     trade permits, visas, tax payments, customs, work permits, and the **Electronic Crude Oil Accreditation
     Permit** through which every exported barrel passes.
-  - **No competitive tender** on the public record, despite the Public Procurement and Disposal of Assets
-    Act 2018. The Commission found the procurement endorsed by key ministries **and by the National
-    Security Service's Internal Security Bureau**, whose then-DG wrote personally in support, proposing
-    Crawford work with the intelligence service's ICT department **because the company was building large
-    databases and integrating online services**. The security service sponsored the contract *on database
-    grounds* — the data-governance crux of the whole arrangement.
-  - **Terms (UN finding):** Crawford **retains a 75% profit share of the taxes it collects**; 25% to the
-    Ministry. Extended in **2024** to an **unlawful levy on tax-exempt humanitarian agencies** that forced
-    suspension of critical food aid. A separate **0.3%-of-cargo-value** crude-oil accreditation fee
-    (introduced 2023) is split with the Ministry, the Commission estimating Crawford's share at
-    **US$9.6-11.5m/yr**.
+  - **No competitive tender**, despite the Public Procurement and Disposal of Assets Act 2018. In
+    **October 2019** the **Ministry of Finance and Planning approved single-sourcing**, noting "*the
+    National Security concern attached to the project*" — following **written advice from Akol Koor Kuc,
+    then Director-General of the Internal Security Bureau (ISB) of the National Security Service**, who
+    proposed Crawford "*should work in partnership with the ISB ICT Department since they are aiming to
+    create **huge databases** and integration of services that can be accessed online*" (para. 154). The
+    security service sponsored the contract *on database grounds* — the data-governance crux of the whole
+    arrangement.
+  - **The Commission's own surveillance finding.** It concludes that the intelligence service's
+    involvement in the single-source procurement "*suggests that 'e-Services' are also likely to be used
+    without any consideration for personal data protection to facilitate unlawful State surveillance of
+    citizens, an established tactic of repression in South Sudan*" (para. 154). That is the UN
+    Commission's reading of the platform, not this wiki's inference.
+  - **Terms (UN finding):** Crawford **retains a 75% profit share**; 25% to the Ministry — which "does
+    not appear to go to the national government budget". Footnote 222 records that the **initial contract
+    indicated 65%**, revised **upward to 75%** in subsequent references — the split moved in the
+    contractor's favour after signature. The contract also purports to **exempt Crawford from corporation,
+    import and value-added tax for ten years**. Extended in **2024** to an **unlawful levy on tax-exempt
+    humanitarian agencies** that forced suspension of critical food aid. A separate
+    **0.3%-of-cargo-value** crude-oil accreditation fee (agreed Nov 2022, directive 29 Aug 2023) is split
+    75/25, the Commission estimating Crawford's share at **US$9.6-11.5m/yr**. A **separate November 2020
+    e-Tax contract** entitles Crawford to **2% of all digitally assessed taxation** (>US$5m/yr) — banks
+    get 0.5% for handling physical cash.
   - **Where the money sits.** The Commission found the **[[south-sudan-national-revenue-authority|SSRA]]**
     complicit in allowing Crawford representatives to **collect and hold public revenues in company bank
     accounts**, outside the national treasury — "in clear violation of articles 9 and 10 of the **UN
     Convention against Corruption**."
   - **Crawford's rebuttal (22 Jun 2026, unnamed CEO):** the 75/25 split applies "only to a separate
-    convenience fee", not to government revenue; the company says it earns a **2% platform service fee**;
+    convenience fee", not to government revenue; the company says it earns a **2% platform service fee**
+    — *which the report shows is a real but **separate** entitlement under the 2020 e-Tax contract, not an
+    answer to the eServices or crude-oil permit splits*;
     funds sit in **regulated trust/collection accounts** under the **Electronic Money Regulation 2017**
     subject to central-bank oversight, "not private operating accounts". It claims monthly non-oil revenue
     rose from ~**US$648,000 (2020)** to ~**US$28m (2025)**. It did **not** address the oil-sector findings.
@@ -60,12 +74,18 @@ but ahead of the governance frameworks meant to hold it.
     ~**130bn SSP monthly** and ~**1 trillion SSP over eight months** (peak Apr 2026). *SSP figures are of
     little comparative value given the parallel-rate gap.* Neither acknowledged the 75/25 split, the
     humanitarian levies or the private-account finding.
-  - **Ownership — precision required.** The Commission's published findings say Crawford "is owned and run
-    by **family members of national political elites**" and locate the shareholding in the full report;
-    **they do not name Adut Salva Kiir Mayardit.** That attribution comes from investigative secondary
-    reporting, which also names majority shareholder **Garang Mayom Kuoc Malek (68%)** and Kenyan
-    businessman **Jeremy Gisemba (26%)**. Treat the presidential-family association as **reported, not
-    established by the primary** (see below).
+  - **Ownership, as documented (paras. 164–165, fn. 273).** On paper: **Garang Mayom Kuoc Malek — 68%**
+    (son of a former Deputy Minister for Transport and MP for Twic County), Kenyan businessman **Jeremy
+    Gisemba — 26%**, and **Ruey Majok Guandong** (50% at incorporation; son of South Sudan's Ambassador to
+    Turkey) — at least seven shareholders, three primary. The Commission says the beneficiaries "extend
+    further and include political elites and their close relatives" and that Crawford "is likely linked to
+    more senior political elite, based on consistent reporting from numerous, confidential sources" —
+    explicitly a **hedged characterisation, not a documented ownership finding**. **The report does not
+    name Adut Salva Kiir Mayardit anywhere in its 101 pages**; the attribution to the president's daughter,
+    previously carried from secondary reporting, is **retired**. The **only Kiir-family link the Commission
+    documents is a different company** — Business Registry records show Malek and Guandong formed **Air
+    Afrik Aviation Ltd with the president's son, Mayar Salva Kiir, in 2013**, an aviation company, not
+    Crawford. Do not conflate the two.
   - **Contested politically.** Trade Minister **Atong Kuol Manyang Juuk** ordered a **90-day review**
     (5 Mar 2026); **Vice President James Wani Igga overruled her within 24 hours**, holding the contract
     cabinet-approved (Cabinet Resolution No. 3/2024; Presidential Order No. 35 of 2025 mandates the SSRA
@@ -76,17 +96,14 @@ but ahead of the governance frameworks meant to hold it.
   under an untendered contract sponsored by the security service — the sharpest data-governance case in the
   corpus.
 
-  **Provenance, stated plainly (2026-07-20).** The wiki holds the OHCHR **press release**, not the
-  101-page report (**ACQ-SSD**). The 75/25 split, the 2024 humanitarian-levy extension, the 0.3% oil fee
-  and its US$9.6–11.5m/yr estimate, SSRA complicity, UK registration and the US sanctions are all
-  corroborated in held sources. The **NSS/Internal Security Bureau endorsement on database-building
-  grounds**, the UNCAC articles 9–10 wording, the November 2019 contract date, the CapitalPay name, the
-  90-day review and its 24-hour reversal, and the 68%/26% shareholdings are **not corroborated by any
-  source in `raw/`** — they came from the full report and from secondary investigative reporting, neither
-  held. Breakdown: [[south-sudan--dpi-govtech]].
+  **Provenance (2026-07-20).** The **full 101-page report is now held**, and everything above except the
+  90-day review and its 24-hour reversal (secondary-sourced) rests on it directly. The earlier
+  provenance caveat — which separated "source-established" from "reconcile-established" facts while only
+  the press release was on file — is **retired**. Breakdown: [[south-sudan--dpi-govtech]].
 
   See [[dpi.govtech]], [[dpi.pay]], [[gov.policy]], [[gov.protect]], [[south-sudan--dpi-govtech]].
-  Sources: [[2025-09-16-un-commission-south-sudan-plundering-a-nation-ohchr]],
+  Sources: [[2025-09-16-ohchr-plundering-a-nation-south-sudan-a-hrc-60-crp-5]],
+  [[2025-09-16-un-commission-south-sudan-plundering-a-nation-ohchr]],
   [[2026-06-22-crawford-denies-75-percent-revenue-retention-sudanspost]],
   [[2026-05-14-south-sudan-defends-crawford-capital-deal-eastleighvoice]],
   [[2026-05-15-crawford-capital-eservices-partnership-citizendigital]].
@@ -106,11 +123,10 @@ but ahead of the governance frameworks meant to hold it.
   Bank of South Sudan's **IBPSS** (Oct 2025) as the first interoperable interbank
   backbone (the source's acronym; the system is properly **SSIPS** — see 2025-10-10 below); telecom **mobile money** (>1m users) degrading to cash during outages;
   a **Nimule one-stop border post** with customs automation; a **primary
-  tax/revenue platform privately owned by Adut Salva Kiir Mayardit**, the
-  president's daughter *(the platform is **Crawford Capital Ltd** — identified 2026-07-20 above; note the
-  UN Commission's published findings attribute ownership to "family members of national political elites"
-  and **do not name Adut Salva Kiir Mayardit**, so this source's specific attribution stands as reported,
-  not established)*; a **World-Bank-backed biometric public-servant payroll**
+  tax/revenue platform in private hands** *(the platform is **Crawford Capital Ltd** — identified
+  2026-07-20 above; this source's named-owner attribution is not supported by the UN Commission's report
+  and is not carried — documented shareholding at [[south-sudan--dpi-govtech]])*; a
+  **World-Bank-backed biometric public-servant payroll**
   that stays siloed absent a national ID; and donor WHO/UNICEF health systems as
   the most reliable-but-proprietary layer. Reinforces the 2026-01-30 feature
   below. Source: [[2026-01-20 What is actually functioning as DPI in South Sudan]].
@@ -270,11 +286,13 @@ but ahead of the governance frameworks meant to hold it.
 - [[crei-south-sudan]] · [[finnfund]] · [[mtn-group]] — telecom energy financing
 - [[huawei]] · [[zte]] · [[starlink]] — foreign infrastructure/connectivity
 - Tagged, no page yet: **[[crawford-capital]]** / CapitalPay (private e-government revenue operator;
-  **4 sources — over the bar, mint at the next entity pass**);
-  **[[un-commission-human-rights-south-sudan]]** (*Plundering a Nation*, A/HRC/60/CRP.5; 2 sources);
-  **[[ministry-of-ict-and-postal-services-south-sudan]]** (contracting counterparty on the 2019 Crawford
-  contract; 3 sources — mint candidate); **[[ensoft]]** / N-Soft (telecom revenue assurance; 1 source).
+  **5 sources — well over the bar, mint at the next entity pass**);
+  **[[capital-pay]]** (Crawford's payment-processing subsidiary; 1 source);
+  **[[un-commission-human-rights-south-sudan]]** (*Plundering a Nation*, A/HRC/60/CRP.5; 3 sources —
+  mint candidate); **[[ministry-of-ict-and-postal-services-south-sudan]]** (contracting counterparty on
+  the 2019 Crawford contract; 4 sources — mint candidate); **[[ensoft]]** / N-Soft (telecom revenue
+  assurance; 1 source).
 - Mentioned, not hubbed: WHO, UNICEF, UNHCR, EU (donor DPI); Ateny Wek Ateny (ICT
-  minister); Thomas Gatkuoth Nyak (e-services council); Adut Salva Kiir Mayardit
-  (associated with the private revenue platform in secondary reporting; **not named in the UN
-  Commission's published findings**); Edmund Yakani (civil society).
+  minister); Thomas Gatkuoth Nyak (e-services council); Edmund Yakani (civil society);
+  Garang Mayom Kuoc Malek / Jeremy Gisemba / Ruey Majok Guandong (documented Crawford shareholders);
+  Akol Koor Kuc (then ISB Director-General, wrote in support of the Crawford single-sourcing).

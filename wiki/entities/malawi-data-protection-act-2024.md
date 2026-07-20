@@ -35,12 +35,24 @@ The statute's own front matter and Part I settle the enactment chain:
   importance* (Part VIII), complaints and compliance orders (Part IX). Extraterritorial reach: s.3(1)(b)
   applies the Act to processing outside Malawi that targets goods/services at, or monitors the behaviour
   of, data subjects within Malawi.
-- **Transitional grace — s.53** (reported, *not* in the captured range of the source text): six months for
-  controllers/processors of significant importance (to ~2024-12-03) and twenty-four months for all others
-  (to 2026-06-02). **Needs verification against the full statute on manual re-clip.**
+- **Transitional grace — s.53, now sourced to the Act itself.** Verbatim: a controller or processor
+  domiciled, ordinarily resident or ordinarily operating in Malawi and *"(a) is not a data controller of
+  significant importance or data processor of significant importance shall be **exempt from compliance
+  with this act, for a period of twenty-four months** from the date the act comes into operation; or (b)
+  is a data controller of significant importance or data processor of significant importance shall,
+  **within six months** from the date the act comes into operation, comply with the requirements
+  prescribed under this act."*
+  **Both clocks run from commencement, not from publication or assent** — and the Act does **not** fix
+  commencement (see s.1 above). On the reported 2024-06-03 commencement the six-month deadline fell
+  ~**2024-12-03** and the twenty-four-month exemption elapsed in **early June 2026**. The widely
+  circulated expiry of **2 June 2026** implies a **2 June 2024** commencement, one day off the 3 June
+  2024 date also reported; **no held source resolves the day**, because **Government Notice 40
+  of 2024** — the commencement instrument — is **not held as of 2026-07-20**. Write the expiry as
+  *early June 2026, as reported*, not as a sourced date.
 
-Source: [[2024-02-02-malawi-data-protection-act-2024]] (partial capture — front matter, Parts I–II
-verbatim, breaking off in s.6).
+Source: [[2024-02-02-malawi-data-protection-act-2024]] — **full text as of the 2026-07-20
+verbatim-fidelity re-capture**; the earlier partial capture broke off in s.6, which is why s.53 had been
+carried on report until now.
 
 > The Act being **in force since 2024-06-03** is the settled position. Note that
 > [[2025-05-21 Malawi to Launch Mandatory Biometric SIM Registration in July 2025]] (ID Tech Wire) asserts

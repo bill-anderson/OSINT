@@ -74,17 +74,25 @@ about commencement dates, enforcement reach and drafting gaps rather than covera
     tightening cheque rules as they push digital-first payment agendas — context in an ITWeb
     Africa piece on Kenya's contrasting retention of cheques. Source:
     [[2026-01-13 The rise of cheques as Kenya's preferred payment method]]. See [[KEN]].
-- **2023-12** — **Data Protection Act 2023 in force**, repealing the Data Protection Act 2003,
-  which had been "enacted but never implemented in practice". **Two distinct dates:** enactment
-  **19 December 2023** (TechHive Advisory) and the start of the **18-month transitional period on
-  22 December 2023** (Appleby). No primary is held that settles which attaches to what — see
-  GAP-SYC-001. The **[[information-commission-seychelles]]**, created under the Access to
-  Information Act, is designated the competent authority (s.5) — a designate-an-existing-body
-  model TechHive compares to South Africa's. Sources:
+- **2023-12-22** — **Data Protection Act, 2023 (Act 24 of 2023) comes into operation**, repealing
+  the Data Protection Act (Cap 57), which had been "enacted but never implemented in practice".
+  **The gazetted primary settles the two dates that had been reported in conflict:** the Act is
+  signed **"Wavel Ramkalawan, President, 19th December, 2023"** — **presidential assent** — and
+  carries the gazette enacting date **"[22 December 2023]"** — **coming into operation**. They are
+  two different events, not competing accounts of one. It is **Act 24 of 2023**. The Bill was
+  passed by the National Assembly **5 December 2023** (Clerk's certificate). The
+  **[[information-commission-seychelles]]**, created under the Access to Information Act, is
+  designated the competent authority (s.5) — a designate-an-existing-body model TechHive compares
+  to South Africa's. Source: [[2023-12-22-seychelles-data-protection-act-2023-act-24]] (gazetted
+  text); earlier secondary accounts
   [[2024-03-25 Data Protection Law Now In Force In Seychelles]],
   [[2024-06-04 Review of Seychelles DPA]]. See [[gov.protect]], [[gov.legislate]].
-  **Currency note:** 18 months from 22 December 2023 elapsed around **22 June 2025**. The
-  transition has passed; nothing here should be read as ongoing.
+  **Transition elapsed.** **s.56(1)** gives a controller or processor already processing before
+  commencement **18 months from the coming into operation** to conform — i.e. **to 22 June 2025**,
+  running from commencement (22 Dec 2023), not from assent. s.56(2) makes failure to comply an
+  offence. As of **2026-07-20** the window is long past: Seychelles controllers and processors are
+  subject to the Act in full. **No source held reports what happened at expiry** — whether
+  compliance was achieved, extended, or simply not enforced.
 
 ## Active topics
 

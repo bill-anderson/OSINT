@@ -7,7 +7,7 @@ topics: [gov.policy, gov.regional, gov.protect, capacity.training]
 lens: []
 status: active
 last_reviewed: 2026-07-14
-sources: [[2026-07-13 D4D Hub on Sao Tome and Principe]]
+sources: [[2026-07-13 D4D Hub on Sao Tome and Principe], [2025-07-28-lesotho-advances-digital-future-audpf-data-governance]]
 ---
 
 # AUDA-NEPAD (African Union Development Agency)

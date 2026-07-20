@@ -6,8 +6,8 @@ places: [TGO]
 topics: [gov.protect, gov.legislate, infra.cybersec]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-17
-sources: [[2023-12-21 ISR - WURI Phase 2 Seq 7 (P169594)], [2025-12-12 Personal data and digital rights in Togo - HAAC and IPDCP seal institutional cooperation accord]]
+last_reviewed: 2026-07-20
+sources: [[2023-12-21 ISR - WURI Phase 2 Seq 7 (P169594)], [2025-12-12 Personal data and digital rights in Togo - HAAC and IPDCP seal institutional cooperation accord], [2019-10-29-togo-loi-2019-014-protection-donnees-caractere-personnel]]
 ---
 
 # IPDCP (Instance de Protection des Données à Caractère Personnel, Togo)
@@ -42,7 +42,12 @@ a **foundational unique identification law of September 2020** (creating [[anid-
   mention this page previously rested on. Art. 55: *"Il est créé une autorité nationale chargée
   de la protection des données à caractère personnel dénommée « Instance de protection des
   données à caractère personnel »"*. Compliance deadlines run from entry into force: **two years**
-  for State / public-service processing, **one year** for all other processing (art. 95).
+  for State / public-service processing, **one year** for all other processing (art. 95). *The gazette's
+  own signature block reads "Fait à Lomé, le 30 octobre 2019" against the law's 29 October title — a
+  one-day internal discrepancy; the 29 Oct citation is carried.* **This also corrects the date the wiki
+  had from the World Bank ISR**, which dates the data-protection law to **September 2019**: the gazetted
+  instrument is **October 2019**. Source:
+  [[2019-10-29-togo-loi-2019-014-protection-donnees-caractere-personnel]].
 - **A separate IPDCP organisation instrument is not held as of 2026-07-20.** The law leaves the
   authority's organisation and functioning to implementing texts; no such decree has been
   retrieved. The decrees carried in the same gazette issue concern unrelated matters.
@@ -58,5 +63,6 @@ ANCy (cybersecurity agency, created June 2022).
 
 ## Sources
 
+- [[2019-10-29-togo-loi-2019-014-protection-donnees-caractere-personnel]]
 - [[2023-12-21 ISR - WURI Phase 2 Seq 7 (P169594)]]
 - [[2025-12-12 Personal data and digital rights in Togo - HAAC and IPDCP seal institutional cooperation accord]]

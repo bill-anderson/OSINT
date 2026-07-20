@@ -7,7 +7,7 @@ topics: [infra.connect, infra.store, tech.industry, geopol.eu]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-20
-sources: [[2025-02-17-developingtelecoms-three-operators-launch-5g], [2026-06-05-connectingafrica-viatunisia-subsea-live], [2026-06-26-techafricanews-orange-medusa-cable-operational], [2023-05-11-orange-tunisia-medusa-bizerte-hosting-agreement], [2025-11-01-medusa-lands-in-bizerte]]
+sources: [[2024-12-03-ec-cef-digital-viatunisia-project-record], [2025-02-17-developingtelecoms-three-operators-launch-5g], [2026-06-05-connectingafrica-viatunisia-subsea-live], [2026-06-26-techafricanews-orange-medusa-cable-operational], [2023-05-11-orange-tunisia-medusa-bizerte-hosting-agreement], [2025-11-01-medusa-lands-in-bizerte]]
 ---
 
 # Orange Tunisia (Orange Tunisie)
@@ -22,10 +22,19 @@ part of the France-headquartered Orange group.
 - **Medusa / ViaTunisia landing.** Orange **owns and operates the Bizerte landing station** and the
   ~1,050 km Tunisian section of **[[medusa-submarine-cable|Medusa]]**, branded **ViaTunisia**, under a hosting
   agreement signed **2023-05-11**; it is the landing partner in both Marseille and Bizerte, linking to
-  Orange's Marseille network via a redundant urban fibre ring. Co-financed by the **EU CEF Digital** (€10m
-  grant signed Dec 2022, 30% of construction and management costs). Maximum capacity to Orange **24 Tbps
-  (2025-11)**; ready-for-service **2026-06-03**. [[tunisie-telecom]] is a **capacity customer** on the same
-  segment, not a co-owner (settled 2026-07-20). Sources:
+  Orange's Marseille network via a redundant urban fibre ring. Co-financed by the **EU CEF Digital**
+  programme: **€9.6m of a €32m total project budget** (exactly 30%), with the project running **1 March 2023
+  – 31 August 2025 (32 months)** and **Orange Wholesale as coordinator**, per the European Commission's own
+  CEF project record. The cable is 1,050 km Bizerte–Marseille, designed **open-access** (line terminal
+  equipment bought separately from the subsea vendor so fibre pairs can be lit at different times with
+  different vendors) and rated **20 Tb per fibre pair**. Maximum capacity to Orange **24 Tbps (2025-11)**;
+  ready-for-service **2026-06-03**. [[tunisie-telecom]] is a **capacity customer** on the same segment, not a
+  co-owner (settled 2026-07-20) — and TT's own connection is financed separately by the [[ebrd]], not by this
+  grant. Sources: [[2024-12-03-ec-cef-digital-viatunisia-project-record]] (the EC record, the authority),
   [[2026-06-05-connectingafrica-viatunisia-subsea-live]], [[2026-06-26-techafricanews-orange-medusa-cable-operational]].
+  - *Corrected 2026-07-20:* this page previously carried "**€10m grant signed Dec 2022**" from trade press.
+    The EC record gives **€9.6m of €32m** and a **1 March 2023 project start**, and records **no
+    grant-agreement signature date** — the December 2022 signing is Orange-via-press and is not in the
+    Commission's record.
 
 See [[tunisia--infra-connect]] · [[infra.connect]] · [[TUN]].

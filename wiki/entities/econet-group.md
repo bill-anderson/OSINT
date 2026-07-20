@@ -8,7 +8,7 @@ entities: [[strive-masiyiwa], [cassava-technologies], [liquid-c2], [econet-wirel
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-20
-sources: [[2026-06-30-masiyiwa-manyika-google-1b-africa-cloud], [2014-08-18 Zimbabwe's Econet Wireless and the making of Africa's first cashless society  Working in development  The Guardian], [2014-01-20 Five Lessons From Zimbabwe's Richest Man, Strive Masiyiwa - African Leadership Magazine], [2023-01-01 The Rebel Behind Africa's Telecom Revolution  Stanford Graduate School of Business], [2022-03-01 Liquid Intelligent acquires Google's fiber pair to improve offers], [2025-12-04 Is it a bird Is it plane No, Jim, it's an African mobile operator, but not as we know it 9]]
+sources: [[2026-02-04-econet-wireless-zimbabwe-circular-and-econet-infraco-pre-listing-statement], [2026-06-30-masiyiwa-manyika-google-1b-africa-cloud], [2014-08-18 Zimbabwe's Econet Wireless and the making of Africa's first cashless society  Working in development  The Guardian], [2014-01-20 Five Lessons From Zimbabwe's Richest Man, Strive Masiyiwa - African Leadership Magazine], [2023-01-01 The Rebel Behind Africa's Telecom Revolution  Stanford Graduate School of Business], [2022-03-01 Liquid Intelligent acquires Google's fiber pair to improve offers], [2025-12-04 Is it a bird Is it plane No, Jim, it's an African mobile operator, but not as we know it 9]]
 ---
 
 # Econet Group
@@ -30,11 +30,25 @@ mobile-money story via **[[ecocash]]**, and (b) the corporate lineage behind Cas
   energy (incl. solar phone-charging kiosks); e-commerce; education.
 - **Group structure.** Econet Global / Econet Group is the founder vehicle; the infrastructure arm
   is **[[cassava-technologies]]** → **[[liquid-c2]]** (connectivity / cloud / cyber) and
-  **[[africa-data-centres]]**. The Zimbabwean opco [[econet-wireless-zimbabwe]] shares the same
-  founder lineage; **no shareholding document on file establishes it as a subsidiary** — three EWZL
-  corporate filings ingested 2026-07-20, the documents where a parent would appear, contain no
-  occurrence of "Econet Group" or "Econet Global", and EWZL consistently self-describes as "the
-  Group" (as of 2026-07-20).
+  **[[africa-data-centres]]**.
+- **Parentage of the Zimbabwean opco — established 2026-07-20.** **Econet Global Limited holds
+  1,247,179,784 shares in [[econet-wireless-zimbabwe]], or 41.68%** of a 2,992,163,203-share
+  register — the largest single holding by a wide margin (next: Stanbic Nominees 11.61%). EWZL's
+  own circular states that Econet Global Limited **"will not participate in the Exit Offer and
+  will remain the controlling shareholder of the Company for the foreseeable future"** (as of
+  2026-02-04). Econet Global Limited, **Econet Life (Private) Limited** and **Econet Insurance
+  (Private) Limited** are the related parties excluded from voting on the delisting resolution
+  under **paragraph 11.5 of the ZSE Listings Requirements** — a related-party exclusion that is
+  itself evidence of the control relationship. Source:
+  [[2026-02-04-econet-wireless-zimbabwe-circular-and-econet-infraco-pre-listing-statement]].
+
+  **Note the shape of it: control on a minority economic stake.** 41.68% is not a majority, and
+  the company characterises it as control rather than the shareholding compelling that reading.
+  The wiki's earlier formulation — "shares the same founder lineage, no shareholding document on
+  file" — is **retired**; it rested on three EWZL filings in which the parent genuinely did not
+  appear. The circular, the document where a parent *would* appear, names it. The circular also
+  uses the phrase **"other Econet Group's SPVs"** of its own accord (PLS Part D, para. 4.1.1),
+  so "Econet Group" is the company's own usage, not only the wiki's.
 
 ## Activity in this wiki
 
@@ -68,16 +82,3 @@ mobile-money story via **[[ecocash]]**, and (b) the corporate lineage behind Cas
 
 - [[2026-06-30-masiyiwa-manyika-google-1b-africa-cloud]] · [[2014-08-18 Zimbabwe's Econet Wireless and the making of Africa's first cashless society  Working in development  The Guardian]] · [[2014-01-20 Five Lessons From Zimbabwe's Richest Man, Strive Masiyiwa - African Leadership Magazine]] · [[2023-01-01 The Rebel Behind Africa's Telecom Revolution  Stanford Graduate School of Business]] · [[2023-01-01 Transcript of Strive Masiyiwa A vision to connect Africa's greatest asset — its youth — to the world  Tools and Weapons with Brad Smith]] · [[2022-03-01 Liquid Intelligent acquires Google's fiber pair to improve offers]] · [[2025-12-04 Is it a bird Is it plane No, Jim, it's an African mobile operator, but not as we know it 9]]
 
-## Acquisition note (2026-07-20)
-
-The **Econet Group parentage claim is settled as of 2026-07-20** by the Econet Wireless Zimbabwe
-shareholder circular of 4 February 2026 (acquired, staged in `new/`).
-
-The circular's major-and-controlling-shareholders disclosure records **Econet Global Limited holding
-1,247,179,784 shares, or 41.68%**, and states that Econet Global Limited **"will not participate in
-the Exit Offer and will remain the controlling shareholder of the Company"**. Econet Global Limited,
-Econet Life (Private) Limited and Econet Insurance (Private) Limited are the parties excluded from
-voting on the delisting resolution under paragraph 11.5 of the ZSE Listings Requirements.
-
-So the parent of record for the Zimbabwean operating company is **Econet Global Limited**, holding a
-minority economic stake (41.68%) that the company itself characterises as control.

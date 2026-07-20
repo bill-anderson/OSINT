@@ -6,7 +6,7 @@ places: [XAF, ZAF, NGA, EGY, KEN]
 topics: [finance.new, tech.industry, tech.innovate]
 status: active
 last_reviewed: 2026-07-20
-sources: [[2026-02-27 SA powers Africa's $1.64bn tech funding rebound], [2026-02-03-disrupt-africa-tech-startups-funding-report-2025], [2026-01-22-partech-africa-tech-vc-report-2025]]
+sources: [[2026-02-27 SA powers Africa's $1.64bn tech funding rebound], [2026-02-03-disrupt-africa-tech-startups-funding-report-2025], [2026-02-03-disrupt-africa-african-tech-startups-funding-report-2025], [2026-01-22-partech-africa-tech-vc-report-2025], [2026-02-10-avca-venture-capital-in-africa-report-2025]]
 ---
 
 # Disrupt Africa
@@ -50,19 +50,61 @@ publishing a full named startup list. The standing rule is unchanged either way:
 "Africa raised $X in 2025".
 
 **A third series, and the same lesson (2026-07-20).** **AVCA**'s *Venture Capital in Africa Report*
-(Feb 2026) puts CY2025 African venture at **US$3.9bn across 506 deals** — US$2.1bn equity + US$1.8bn debt.
-That is AVCA's analogue of Partech's US$4.1bn/570, **not** a rival to Disrupt Africa's floor series. On
-equity alone AVCA and Partech run in **opposite directions** (−21% vs +8%), because their **2024 bases**
-differ (≈US$2.7bn vs US$2.2bn) — not because either revised anything. Four incompatible CY2025 series now
-circulate; a fifth, **TechCabal Insights' US$3.42bn / 502 deals**, has **no established basis** and should
-not be cited until it does. The standing rule holds and hardens: never sum, average or cross-check these,
-and never quote a year-on-year change without the base it is taken from. See [[finance.new]].
-Source: [[2026-02-01-avca-venture-capital-in-africa-report-2025]].
+(published 2026-02-10) puts CY2025 African venture at **US$3.9bn across 506 deals** — US$2.1bn equity
+(432 deals, **−21% YoY**) + US$1.8bn venture debt (74 deals, **+91% YoY**). That is AVCA's analogue of
+Partech's US$4.1bn/570, **not** a rival to Disrupt Africa's floor series. Four incompatible CY2025 series
+now circulate; a fifth, **TechCabal Insights' US$3.42bn / 502 deals**, has **no established basis** and
+should not be cited until it does. See [[finance.new]].
+Source: [[2026-02-10-avca-venture-capital-in-africa-report-2025]].
 
-**Report not yet held.** The wiki holds Disrupt Africa's *announcement* of the 11th edition
-([[2026-02-03-disrupt-africa-tech-startups-funding-report-2025]]), not the report PDF itself. The
-sectors, acquisitions and named-startup sections, and the methodology statement quoted above, need a
-**manual capture** before they can be cited directly.
+## The equity-direction divergence is a definitional artefact, not a conflict
+
+**Settled 2026-07-20, with both publishers' own methodology sections now held.** AVCA reports CY2025
+African **equity down 21%**; Disrupt Africa reports CY2025 African **funding up 46.2%**. Earlier the wiki
+could say only that the two "sit on different 2024 bases" — a description of the gap, not an explanation.
+The full reports supply the mechanism. **These series measure different things, and neither is wrong.**
+Five separable causes, each read off the publisher's own text:
+
+1. **Different universes of deal.** AVCA's Research Methodology (p.41) excludes **growth equity**
+   outright — those transactions are classified as private equity and routed to AVCA's separate *African
+   Private Capital Activity Report* — and also excludes **pre-seed**, **crowdfunding**, and **grant,
+   competition or award financing**. Disrupt Africa includes pre-seed (**16 rounds, 20.5%** of its
+   stage-disclosed rounds) but excludes **corporate spin-offs** and companies over roughly **ten years
+   old**. Neither exclusion list is a subset of the other.
+2. **Different units.** AVCA counts **deals** (432 equity events); Disrupt Africa counts **funded
+   ventures** (178 companies). A company raising twice is two AVCA data points and one Disrupt Africa
+   data point. AVCA's equity count is ~2.4× Disrupt Africa's venture count.
+3. **Disrupt Africa's total is a declared floor, not an estimate of the market.** Its methodology books
+   undisclosed rounds at **the lowest possible figure** — a startup reporting a "seven-figure dollar
+   amount" is recorded as **US$1,000,000** — and confidential amounts enter the aggregate unitemised.
+   It states plainly that it does not claim to have caught every round and that "the overall total funding
+   raised is **likely to be higher than our total**." A year in which more rounds are disclosed therefore
+   raises Disrupt Africa's total **without any change in capital actually deployed**. Its year-on-year
+   movement is partly a disclosure artefact.
+4. **The debt shares are not the same statistic.** AVCA's venture debt is **47% of deal value**. Disrupt
+   Africa's "88.2% equity / 11.8% debt" is a share of **funded ventures that raised any debt** (21 of 178)
+   — a headcount, not a value split. Setting 47% against 11.8% compares nothing.
+5. **Country attribution differs, so country comparison is impossible.** AVCA parks **60 deals worth
+   US$1.56bn — 40% of continental value** — in an unattributed **"Multi Region"** bucket; Disrupt Africa
+   assigns every round to a country. **Kenya CY2025 is the clean illustration: three numbers for one
+   country-year** — AVCA rooted **US$335m**, AVCA **US$1,096m** if Kenya-headquartered multi-region
+   startups are added back (AVCA prints both), Disrupt Africa **US$273.2m**.
+
+**What this changes.** The divergence needs no reconciliation and no contradiction file — it is what two
+honest, differently-scoped counts of an overlapping market look like. What it does *not* license is
+treating any of them as "the" figure. The standing rule holds and hardens: **never write a bare "Africa
+raised $X in 2025"**; never sum, average or cross-check these series; never quote a year-on-year change
+without naming the publisher and the base it is taken from; and never compare a country figure across
+publishers without checking how each attributes multi-region startups. Sources (all primary, all now
+held): [[2026-02-10-avca-venture-capital-in-africa-report-2025]],
+[[2026-02-03-disrupt-africa-african-tech-startups-funding-report-2025]],
+[[2026-01-22-partech-africa-tech-vc-report-2025]].
+
+**Report now held (2026-07-20).** The wiki previously held only Disrupt Africa's *announcement* of the
+11th edition and flagged the report PDF itself as needing a manual capture. **That gap is closed** — the
+full report is held at [[2026-02-03-disrupt-africa-african-tech-startups-funding-report-2025]], including
+the methodology, sector, country and acquisitions sections. The announcement is retained alongside it as
+the dated news item.
 
 ## Activity in this wiki
 

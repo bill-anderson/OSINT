@@ -28,9 +28,10 @@ The wiki has read Angola's stack as a **three-way courtship** (China / India / U
 - **2026-03-16** — **ANGEO-1** kicks off: **Airbus** to build Angola's first Earth-observation satellite (€225m Société Générale financing signed Jan 2025). [[angola--data-satellite]]. Source: [[2026-03-16-arranque-do-projecto-angeo-1-airbus]].
 - **2026-02-26** — First forensic confirmation that **SINSE acquired Predator spyware** (Amnesty Security Lab), used to spy on journalist Teixeira Cândido — the surveillance underside of the sovereignty narrative. [[angola--infra-cybersec]]. Source: [[2026-02-26-sinse-adquiriu-spyware-predator-para-espiar-jornalista]].
 - **2026-02-24** — **INE closes Censo 2024 with the Luanda provincial report**: Luanda **8,665,510** people growing **3.8%/yr** (national 3.5%), ~250,000/yr; **75% (6,532,012) hold a birth record** and **5,376,103** aged 5+ hold a **[[bilhete-de-identidade-angola|BI]]**; literacy (15+) **94.5%**; 12,213 homeless enumerated. *This provincial total is 150,787 below the national report's Luanda figure — see Notes.* [[angola--dpi-id]], [[data.statistics]]. Source: [[2026-02-24-angop-luanda-censo-relatorio-provincial]].
-- **2025-12-03** — The **National Cybersecurity Strategy is enacted, not drafted**: **DP 256/25** (strategy) and **DP 258/25** (Conselho Nacional de Cibersegurança) publish in *Diário da República* Iª Série n.º 227 and enter into force — approved in Council of Ministers **2025-10-27**, signed **2025-11-26**. DP 263/25 (Centro Nacional de Cibersegurança) follows **2025-12-10**. [[angola--infra-cybersec]]. Sources: [[2025-12-03-decreto-presidencial-256-25-estrategia-nacional-ciberseguranca-angola]], [[2025-12-03-decreto-presidencial-258-25-conselho-nacional-ciberseguranca-angola]].
+- **2025-12-10** — **DP 263/25 creates the [[centro-nacional-de-ciberseguranca-angola|Centro Nacional de Cibersegurança]]** and approves its *Estatuto Orgânico* — a **public institute with legal personality and administrative, financial and patrimonial autonomy** under MINTTICS, holding **regulatory, supervisory, inspection and sanctioning powers**, with **CERT.ao as a department inside it** and a 24/7 operations centre. It retains **30% of the fines it levies** (40% Treasury, 30% a *Fundo de Cibersegurança*). Approved in Council of Ministers 2025-10-27, signed 2025-12-02, in force on publication. The full decree is now held — the Centro's characterisation no longer rests on secondary reporting. [[angola--infra-cybersec]]. Source: [[2025-12-10-angola-decreto-presidencial-263-25-centro-nacional-ciberseguranca]].
+- **2025-12-03** — The **National Cybersecurity Strategy is enacted, not drafted**: **DP 256/25** (strategy) and **DP 258/25** (Conselho Nacional de Cibersegurança) publish in *Diário da República* Iª Série n.º 227 and enter into force — approved in Council of Ministers **2025-10-27**, signed **2025-11-26**. [[angola--infra-cybersec]]. Sources: [[2025-12-03-decreto-presidencial-256-25-estrategia-nacional-ciberseguranca-angola]], [[2025-12-03-decreto-presidencial-258-25-conselho-nacional-ciberseguranca-angola]].
 - **2025-11-28** — Secretary of State **Ângelo Buta João** tells the **ITU WTDC in Baku** that Angola holds **>30,000 km of terrestrial fibre** (4,860 km under repair, 1,400 km under construction), with **Conecta Angola** reaching **27 locations / ~366,000 citizens**. The highest of four mutually inconsistent official national fibre totals — see [[angola--infra-connect]]. Source: [[2025-11-28-angola-30000km-terrestrial-fibre-itu-wtdc-baku]].
-- **2025-11-20** — **INE publishes the Censo 2024 definitive national results**: **36,604,681** people at the reference date **2024-09-19**; Luanda **8,816,297 (24.1%)**; density 29/km²; median age 23; 9m households. First fully digital Angolan census (CAPI/CATI, GIS cartography). [[data.statistics]]. Source: [[2025-11-20-angop-censo-2024-luanda-populacao-definitivos]].
+- **2025-11-20** — **INE publishes the Censo 2024 definitive national results**: **36,604,681** people at the reference date **2024-09-19**; Luanda **8,816,297 (24.1%)**; density 29/km²; median age 23 (mean 23.2). First fully digital Angolan census (CAPI/CATI, GIS cartography), and the first since 2014 — intercensal growth **3.5%/yr**. **63.0%** of the population hold a birth record and **52.4%** of those aged 5+ a BI. [[data.statistics]], [[angola--dpi-id]]. Sources: [[2025-11-20-ine-angola-censo-2024-relatorio-sintese-resultados-definitivos]] (INE primary), [[2025-11-20-angop-censo-2024-luanda-populacao-definitivos]] (Angop, launch report).
 - **2025-11-26** — **Censo 2024 definitive results:** only **52.4% hold a BI** (63% urban vs 30.9% rural); 14.9m undocumented — the hard exclusion baseline under every ID claim. [[angola--dpi-id]]. Source: [[2025-11-26-quase-metade-dos-angolanos-sem-bilhete-de-identidade]].
 - **2025-06-25** — **[[cybastion]]–Angola Telecom $170m** deal (US–Africa Business Summit, Luanda) to build a national cybersecurity agency — the US pole. [[angola--infra-cybersec]]. Source: [[2025-06-25-cybastion-angola-telecom-170m-digital-sovereignty]].
 - **2025-10-02** — **[[raxio-group]]** opens Angola's only Tier III commercial DC (Cacuaco, $30m). [[angola--infra-store]]. Source: [[2025-10-02 Raxio Opens Angola's Largest Data Centre in Landmark 30 Million Expansion]].
@@ -95,11 +96,24 @@ Angola's own framing — supplied here largely by **Angop, the state agency, who
   adjusted-vs-raw rather than as a live two-value dispute, so no new contradiction is filed. Open as an
   unreconciled **INE data-quality note**, not a wiki conflict.
 
-*Update (2026-07-20): an **INE primary** is now held for the national side —
+*Update (2026-07-20): the **INE primary is now held** for the national side —
 [[2025-11-20-ine-angola-censo-2024-relatorio-sintese-resultados-definitivos]], INE's own *Relatório
-Síntese dos Resultados Definitivos* (RGPH 2024), which gives Luanda **8,816,297** and the national
-total **36,604,681** at the census moment of 19 September 2024. The national figure no longer rests on
-ANGOP's report of it. The **full *Resultados Definitivos* report** and the **Luanda provincial report**
-PDFs are still not held — `censo2024.ine.gov.ao` serves them through a download page that automated
-fetch could not resolve — so the **150,787 gap remains unreconciled from INE's own two documents**;
-only the synthesis is in hand, and it states no reconciliation.*
+Síntese dos Resultados Definitivos* (RGPH 2024, published 2025-11-20), which gives Luanda
+**8,816,297** (4,338,624 men; 4,477,673 women) and the national total **36,604,681** at the census
+moment of **19 September 2024**. The national and Luanda figures no longer rest on ANGOP's report of
+them. Two things the document settles and one it does not:*
+
+- *It **corroborates the boundary reading**: the Síntese tabulates **Icolo e Bengo separately at
+  1,372,670**, and 8,816,297 + 1,372,670 = **10,188,967** exactly — the pre-2025-boundary equivalent
+  already stated above. That arithmetic is now sourced, not inferred.*
+- *It is the primary for the ID/registration indicators: birth registration **63.0% (2024)** from
+  53.5% (2014); children 0–4 registered **39.2% (2024)** from 24.8%; population 5+ holding a BI
+  **52.4% (2024)** — urban 63.0%, rural 30.9%. Household electricity access **48.6% (2024)** from
+  31.9% (2014).*
+- ***It does not close the 150,787 gap.** The Síntese never mentions 8,665,510, states no
+  reconciliation, and — unlike the full *Resultados Definitivos* report — carries **no methodological
+  note on coverage adjustment** at all. The adjusted-vs-raw reading above therefore remains an
+  inference, not a documented explanation. The **full *Resultados Definitivos* report** and the
+  **Luanda provincial report** PDFs are still not held (`censo2024.ine.gov.ao` serves them through a
+  download page automated fetch could not resolve), so the gap **stays unreconciled from INE's own
+  documents as of 2026-07-20**.*

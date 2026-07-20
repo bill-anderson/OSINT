@@ -68,9 +68,11 @@ digital and "tech islands" hub** (**[[techpark-cv|TechPark CV]]**), backed by th
 - [[dpi.govtech]] · [[dpi.id]] — NOSi's IGRP stack, the Gov.CV portal, Empresa Online, the annual **Semana
   do Digital**, and NOSi's govtech **export to Angola** ([[nosi-angola-setic-mou]]); target of **60%
   services online by 2026, 80% by 2030**. See [[cabo-verde--dpi-govtech]].
-- **Digital identity & CRVS** → **[[cabo-verde--dpi-id]]** — **[[autentika-cabo-verde|Autentika]]** CRVS-ID
-  (UIN at birth → ~99% birth registration); [[cnpd-cabo-verde|CNPD]] (deepfakes, PJ CCTV-access debate);
-  PALOP cooperation.
+- **Digital identity & CRVS** → **[[cabo-verde--dpi-id]]** — the **[[sniac-cabo-verde|SNIAC]]** credential layer
+  (**CNI** created 2014, launched **23 Jan 2018**; **[[chave-movel-digital-cabo-verde|CMDCV]]** mobile key, 2020)
+  feeding **[[autentika-cabo-verde|Autentika]]** CRVS-ID (UIN at birth → ~99% birth registration);
+  [[cnpd-cabo-verde|CNPD]] (deepfakes, PJ CCTV-access debate); PALOP cooperation. **No CNI or CMDCV uptake
+  figure is held, from any date (as of 2026-07-20).**
 - **Connectivity & 5G** → **[[cabo-verde--infra-connect]]** — the [[cabo-verde-5g-strategy|National 5G
   Strategy]]; a **€37M [[cv-telecom]] guarantee vs [[unitel|UNITEL T+]] neutrality objection**; Starlink 0.2%.
 - **AI, innovation & skills** → **[[cabo-verde--tech-innovate]]** — [[techpark-cv|TechPark]] Praia/Mindelo;
@@ -90,7 +92,7 @@ digital and "tech islands" hub** (**[[techpark-cv|TechPark CV]]**), backed by th
 ## Entities
 
 - **GovTech / e-gov:** [[nosi]] · [[gov-cv]] · [[digital-cabo-verde-project]] · [[nosi-angola-setic-mou]]
-- **Identity / statistics:** [[autentika-cabo-verde]] · [[ine-cabo-verde]]
+- **Identity / statistics:** [[autentika-cabo-verde]] · [[sniac-cabo-verde]] · [[chave-movel-digital-cabo-verde]] · [[ine-cabo-verde]]
 - **Data protection / cyber:** [[cnpd-cabo-verde]] · [[data-protection-law-cabo-verde]] · [[visionware]]
 - **Connectivity:** [[cv-telecom]] · [[unitel]] · [[cabo-verde-5g-strategy]] · [[starlink]]
 - **Innovation / AI / skills:** [[techpark-cv]] · [[fundo-morabeza]] · [[skodji-digital]] · [[cabo-verde-data-ai-strategy]]
@@ -101,10 +103,17 @@ digital and "tech islands" hub** (**[[techpark-cv|TechPark CV]]**), backed by th
 
 ## Record not held (as of 2026-07-20)
 
-The 2026-07-20 acquisition pass obtained the **SNIAC/Autentika government reference pages**, which supply the
-foundational digital-ID record the Cabo Verde newspaper sweep could not: **CNI** created by Decreto-Lei n.º 19/2014
-(17 Mar 2014) and launched **23 Jan 2018**; **Chave Móvel Digital** created by Decreto-Legislativo n.º 5/2020
-(21 Jul 2020). Those are structural facts and do not age.
+The 2026-07-20 acquisition pass obtained the **SNIAC/Autentika government reference pages**
+([[2026-07-20-cabo-verde-sniac-cartao-nacional-identificacao]]), which supply the foundational digital-ID record
+the Cabo Verde newspaper sweep could not: **CNI** created by Decreto-Lei n.º 19/2014 (17 Mar 2014) and launched
+**23 Jan 2018**; **Chave Móvel Digital** created by Decreto-Legislativo n.º 5/2020 (21 Jul 2020), with the fee
+regime, biometric-capture rules and validity period set by three further instruments (2014–2017). Those are
+structural facts and do not age. Full chain: [[cabo-verde--dpi-id]].
+
+**The source itself is undated.** Both are standing government reference pages exposing no publication or
+last-updated date, so the source is filed at **`date_source: proxy`** against the 2026-07-20 retrieval date. That
+date records when the wiki looked, not when the pages were written or last revised, and must never be read as the
+date of any development. The instrument dates above come from the pages' own citations and are the datable content.
 
 **What is still not held is every time-varying figure.** As of 2026-07-20 the wiki has **no CNI enrolment count, no
 CMDCV activation count, and no population-coverage rate** for either system, from any date — the government

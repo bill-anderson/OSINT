@@ -7,7 +7,7 @@ topics: [infra.connect, infra.store, finance.new]
 lens: []
 status: active
 last_reviewed: 2026-07-20
-sources: [[2023-06-26 Mobile Money in Angola - How Afrimoney is paving the way], [2025-12-13-unitel-investe-43-milhoes-usd-ramal-2africa], [2025-03-11-ericsson-modernizes-unitels-network-in-angola], [2026-06-12-unitel-agreements-expand-broadband-angotic], [2026-02-20-ggpen-and-unitel-partner-to-expand-internet-connectivity], [2023-05-17-minttics-matias-borges-22000km-rede-fibra-optica-terrestre]]
+sources: [[2023-06-26 Mobile Money in Angola - How Afrimoney is paving the way], [2025-12-13-unitel-investe-43-milhoes-usd-ramal-2africa], [2025-03-11-ericsson-modernizes-unitels-network-in-angola], [2026-06-12-unitel-agreements-expand-broadband-angotic], [2026-02-20-ggpen-and-unitel-partner-to-expand-internet-connectivity], [2023-05-17-minttics-matias-borges-22000km-rede-fibra-optica-terrestre], [2025-03-06-unitel-ericsson-angola-network-modernization]]
 ---
 
 # Unitel

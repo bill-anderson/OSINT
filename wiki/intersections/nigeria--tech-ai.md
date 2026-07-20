@@ -5,11 +5,11 @@ place: NGA
 topic: tech.ai
 places: [NGA]
 topics: [tech.ai, gov.policy, gov.legislate, capacity.training, geopol.usa, geopol.china]
-entities: [[nitda], [bosun-tijani], [awarri-technologies], [ncair], [google], [microsoft], [decide-ai], [cafeone], [abiodun-adetona], [codar], [nigeria-education-supplies-summit]]
+entities: [[nitda], [bosun-tijani], [awarri-technologies], [ncair], [google], [microsoft], [decide-ai], [cafeone], [pwc], [abiodun-adetona], [codar], [nigeria-education-supplies-summit]]
 lens: [sovereignty, colonialism]
 status: active
-last_reviewed: 2026-07-19
-sources: [[2025-02-03-ai-tool-public-service-efficiency], [2025-02-05-ai-connectivity-government-initiatives], [2025-02-06-ai-procurement-platform-states], [2025-02-13-nigeria-google-ai-alliance], [2025-02-19-microsoft-pledges-1m-ai-training], [2025-02-25-ai-chatbot-domestic-violence-portal], [2025-03-14-airtel-ai-spam-alert], [2025-06-30-anambra-ai-smartgov-lg-spending], [2025-07-24-google-37m-africa-ai-investment], [2025-09-20-n-atlas-nigerian-llm-launch], [2025-11-20-nigeria-ai-bill-control-innovation], [2025-11-28-google-n3bn-ai-training-programme], [2026-01-14-nigeria-plans-ai-regulations-bill], [2026-03-24-nigeria-470m-ai-surveillance-spend], [2026-07-17-decide-cafeone-enterprise-ai], [2026-07-17-codar-raises-1-5m-ai-education], [2026-07-18-ness-2026-nigeria-education-summit]]
+last_reviewed: 2026-07-20
+sources: [[2025-02-03-ai-tool-public-service-efficiency], [2025-02-05-ai-connectivity-government-initiatives], [2025-02-06-ai-procurement-platform-states], [2025-02-13-nigeria-google-ai-alliance], [2025-02-19-microsoft-pledges-1m-ai-training], [2025-02-25-ai-chatbot-domestic-violence-portal], [2025-03-14-airtel-ai-spam-alert], [2025-06-30-anambra-ai-smartgov-lg-spending], [2025-07-24-google-37m-africa-ai-investment], [2025-09-20-n-atlas-nigerian-llm-launch], [2025-11-20-nigeria-ai-bill-control-innovation], [2025-11-28-google-n3bn-ai-training-programme], [2026-01-14-nigeria-plans-ai-regulations-bill], [2026-03-24-nigeria-470m-ai-surveillance-spend], [2026-07-17-decide-cafeone-enterprise-ai], [2026-07-17-codar-raises-1-5m-ai-education], [2026-07-18-ness-2026-nigeria-education-summit], [2025-11-26-pwc-africa-workforce-hopes-and-fears-survey-2025]]
 ---
 
 # Nigeria × Artificial Intelligence
@@ -102,8 +102,26 @@ subscription and venture capital rather than by donors or vendors.
 - **Adoption context cited (2026).** Decide's launch coverage cites a **PwC** survey finding
   **64% of African workers reported using AI at work over the previous year, by end-2025**,
   against a **54%** global average, and a **KPMG** report that **65% of West African CEOs expect
-  AI to drive efficiency improvements in 2026**. *Both reach the wiki second-hand through trade
-  press; neither study is held. Cited, not absorbed.*
+  AI to drive efficiency improvements in 2026**. *The KPMG report reaches the wiki second-hand
+  through trade press and is **not held**. Cited, not absorbed.*
+- **The PwC 64% now rests on PwC's own release — and it does not mean what the trade press
+  implies (2025-11-26).** The wiki holds PwC South Africa's own publication of the *Africa
+  Workforce Hopes and Fears Survey 2025*, so the figure no longer depends on a trade-press
+  paragraph carrying no sample, coverage or definition. **Three qualifiers must travel with it
+  wherever it is cited:**
+  - **It is a five-country sample presented as "Africa".** **1,753 workers** across **Algeria,
+    Kenya, Morocco, Nigeria and South Africa** (of 49,843 worldwide), spanning 28 sectors —
+    weighted to the continent's largest economies. **Never write it as a continental figure**,
+    and note that Nigeria is one of five countries inside an aggregate, not separately reported.
+  - **The metric is "used AI at work in the past year"** — a twelve-month *ever-used* measure, not
+    habitual use. PwC's own release qualifies it in the same paragraph: **daily GenAI use is
+    17%**. Headline and habitual-use figures differ by **nearly fourfold**; quoting 64% as a
+    measure of AI *use* at work overstates it by that factor.
+  - **It is a reference study: cite, do not absorb.** The figure is not promoted to [[NGA]] or any
+    other country page as national state.
+  Also on the record: **only 35%** of African workers surveyed believe their current skills will
+  remain relevant in three years, and **76%** believe GenAI improves work quality (2025-11-26).
+  Source: [[2025-11-26-pwc-africa-workforce-hopes-and-fears-survey-2025]].
 - **Venture-financed AI skilling — [[codar]] (2026-07-17).** Codar closed a **$1.5m** round
   ([[codar-funding-round-2026]], equity plus debt, investors undisclosed) to expand AI programmes,
   build learning hubs and widen scholarships, reporting **>5,000 active learners** and **>70,000

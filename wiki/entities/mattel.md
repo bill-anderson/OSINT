@@ -7,7 +7,7 @@ topics: [infra.connect]
 lens: []
 status: active
 last_reviewed: 2026-07-18
-sources: [[2026-04-15-5g-provisional-licence-winners-techafricanews]]
+sources: [[2026-04-15-5g-provisional-licence-winners-techafricanews], [2026-07-07-mauritanie-trois-entreprises-selectionnees-services-telecoms-satellite]]
 ---
 
 # Mattel

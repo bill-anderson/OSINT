@@ -135,3 +135,6 @@ This Supplementary Pre-Listing Statement does not constitute an offer to subscri
 #### 10. AVAILABILITY
 
 Copies of this Supplementary Pre-Listing Statement are available at the Company's registered office and on the Company's website: www.econetinfraco.co.zw
+
+Registered office: Econet InfraCo, Econet Park, 2 Old Mutare Road, Msasa, Harare, Zimbabwe.
+Transfer Secretary: First Transfer Secretaries (Pvt) Ltd, 1 Armagh Avenue, Eastlea, Harare.

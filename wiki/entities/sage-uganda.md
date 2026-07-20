@@ -7,7 +7,7 @@ topics: [include.access, include.divides, dpi.id, dpi.pay]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-17
-sources: [[2025-09-13 Uganda's Digital ID Barrier Worsens as Court Delivers Blow to Access], [2025-05-28 Huge turnout as Nira starts mass registration]]
+sources: [[2025-09-13 Uganda's Digital ID Barrier Worsens as Court Delivers Blow to Access], [2025-05-28 Huge turnout as Nira starts mass registration], [2025-06-10-iser-v-attorney-general-nira-uganda-digital-id-ruling]]
 ---
 
 # Social Assistance Grants for Empowerment (SAGE), Uganda

@@ -78,11 +78,33 @@ government reports, national root servers). Much of this reform is entangled wit
   agreement with Huawei Technizon – Libya Branch** to continue operating on a compliance undertaking. A
   jurisdictional signal rather than an enforcement campaign: **the contest is over which authority may
   license a vendor, not over which vendor serves which region**. **Huawei works both sides** — 20+ years
-  in-country, 3G/4G with local operators, and a Tripoli data-centre module — so the rupture came only
+  in-country and 3G/4G with local operators — so the rupture came only
   where it contracted with the eastern administration, and closed as soon as GTI licensing primacy was
-  acknowledged. Source: [[2025-08-20-lana-gti-huawei-libya-agreement]] (LANA, the state news agency,
-  carrying both the agreement and the suspension's stated grounds). Full thread:
+  acknowledged. Sources: [[2025-08-17-lana-gti-suspends-huawei-activities-libya]] (the GTI's suspension
+  statement, carried by LANA the same day — the announcer of record, acquired 2026-07-20),
+  [[2025-08-20-lana-gti-huawei-libya-agreement]] (the reinstatement). Full thread:
   [[libya--infra-connect]]. See [[infra.connect]], [[geopol.china]], [[gov.policy]].
+- **2025-03-04** *(announced 2025-05-13)* — **Ozon granted the HoR-side unified telecoms licence.** The
+  **Ministry of Communications and Informatics** under the **House of Representatives**-appointed government
+  awarded a **unified telecommunications licence** to **OZON Aljaded For Telecom and
+  Technology Group**, **effective 4 March 2025**, following a tender offered **5 December 2024**: **25
+  companies** expressed interest but only **two** — Ozon and **Giga Communications and Technology** —
+  bought the bid documents, with selection by a ministry-appointed expert/academic committee under **Law
+  No. 22 of 2010**. This is the licence the GNU's GTI treats as void, since it reads the same Law 22/2010 as
+  reserving all licensing to itself — the proximate cause of the Huawei rupture five months later. **Ozon is
+  the licensee, not the eastern network** (reported as "Barqa 217"). Source:
+  [[2025-05-13-libya-review-ozon-unified-telecom-licence]]. See [[infra.connect]], [[gov.regional]],
+  [[libya--infra-connect]].
+- **2019-10-15** — **Trans-Sahara / Tatweer Tripoli data centre — a 2019 item the wiki had mis-dated to
+  2026.** A **Huawei FusionModule1000A** containerised facility was announced for **Tripoli in early 2020**,
+  operated by **Trans-Sahara** (private, HB Group) with **Tatweer Research** (public, under the Libyan Local
+  Investment & Development Fund), offering **private cloud to government agencies and companies** and
+  seeking **PCI DSS** certification for financial-sector use; political unrest, electricity instability and
+  infrastructure were named as the obstacles. **Its outcome is unestablished as of 2026-07-20** — the wiki
+  holds nothing on it after 2019. *This entry corrects a **seven-year** dating error: the page previously
+  carried the facility as due "early 2027" on a **re-crawl date (2026-06-24)** read as publication. The
+  article's byline is **15 October 2019**. See [[libya--infra-connect]] for the full correction.* Source:
+  [[2019-10-15-dcd-trans-saharan-tatweer-libyan-data-center]]. See [[infra.store]], [[geopol.china]].
 - **2025-08-11** — **CBL 'Ratebk Lahzi' real-time payroll.** A real-time public-sector salary platform
   on the instant-payment network (~2m employees/pensioners), pitched as anti-fraud but resisted by the
   eastern government, which refused to share employee banking data. Source:
@@ -126,8 +148,10 @@ government reports, national root servers). Much of this reform is entangled wit
 - [[infra.connect]] · [[infra.cybersec]] · [[infra.store]] — **[[gaci-libya|GACI]]** national root servers
   + National Telecom Strategy 2023-2027; GCI third tier; cloud/data workshops. **East–west vendor
   contest** — [[huawei|Huawei]]'s three-day suspension (Aug 2025) over an eastern-network contract, the
-  [[zte|ZTE]]–LTT MoU (Mar 2026), and a Huawei-module Tripoli data centre due 2027: a
-  **licensing-jurisdiction** dispute, not a vendor split. Full case: [[libya--infra-connect]].
+  [[zte|ZTE]]–LTT MoU (Mar 2026), and the **Ozon unified licence** granted by the HoR-side
+  ministry (effective 4 Mar 2025): a **licensing-jurisdiction** dispute, not a vendor split. *(A
+  "Huawei-module Tripoli data centre due 2027" formerly listed here was a mis-dated **2019** item — see the
+  correction on [[libya--infra-connect]].)* Full case: [[libya--infra-connect]].
 - [[dpi.govtech]] · [[digital.localgov]] — Unified Tax System + Tax Police; One-Stop Shop company
   registration; national postal addressing.
 
@@ -136,6 +160,7 @@ government reports, national root servers). Much of this reform is entangled wit
 - [[central-bank-of-libya]] · [[gia-libya]] · [[gaci-libya]] · [[civil-registry-authority-libya]] · [[libya-unified-social-registry]] · [[undp]] · [[ecowas]]
 - LBY sweep batch (2026-07-18): [[lptic]] · [[almadar-aljadid]] · [[jumhouria-bank]] · [[ziad-al-hajjaji]] · [[libigpt]] · [[baladiyabot]]
 - LBY sweep intersections (2026-07-18): [[libya--dpi-pay]] · [[libya--dpi-id]] · [[libya--infra-connect]] · [[libya--tech-ai]] · [[libya--infra-cybersec]]
+- Acquisition pass (2026-07-20): [[huawei]]; tagged but not paged: OZON Aljaded, Trans-Sahara, Tatweer Research
 - Mentioned, not hubbed: Government of National Unity (PM Abdulhamid Dabaiba); eastern government (Osama
   Hammad); Libyan Tax Authority; Commercial Registry Authority / NESDB; HNEC (electoral commission); Libya
   Post; Telecommunications Holding Company; Al-Madar Al-Jadid; Al Itissan Al-Jadeed (biometrics vendor);

@@ -5,8 +5,8 @@ title: SmartCare Pro
 places: [ZMB]
 topics: [dpi.mis, dpi.id, dpi.exchange, digital.rural, include.access]
 status: active
-last_reviewed: 2026-07-19
-sources: [[2026-01-15 How Digital Public Infrastructure Is Transforming Health and Identity in Rural Zambia], [2025-01-17 Zambia Advances Digital ID System with MOSIP Training for Healthcare Integration], [2026-07-17-zambia-govlink-private-4g], [2026-04-28-zambia-smartcare-2-0-ndola-pilot]]
+last_reviewed: 2026-07-20
+sources: [[2026-01-15 How Digital Public Infrastructure Is Transforming Health and Identity in Rural Zambia], [2025-01-17 Zambia Advances Digital ID System with MOSIP Training for Healthcare Integration], [2026-07-17-zambia-govlink-private-4g], [2026-04-28-zambia-smartcare-2-0-ndola-pilot], [2014-01-01-moh-zambia-ict-standards-and-guidelines], [2025-03-01-smartcare-pro-programme-managers-presentation]]
 ---
 
 # SmartCare Pro
@@ -30,6 +30,26 @@ has been re-versioned since: **SmartCare Legacy** → **SmartCare Plus (2017)** 
 **SmartCare Pro**, nationally launched at **Chongwe District on 2023-11-21** by Health
 Minister Sylvia Masebo. Legacy and Plus were together running in roughly **1,800
 facilities across 10 provinces (2023)** at the point of transition.
+
+**The approval date is now primary-sourced — and contested by the programme itself
+(2026-07-20).** The Ministry's own *ICT Standards and Guidelines* (**January 2014**) is the
+first held primary: "SmartCare is the approved patient level health care information system,
+in accordance to the circular of **5th April, 2006** from the office of the Permanent
+Secretary." Against that, the **SmartCare Pro programme-managers deck** (**2025-03**, proxy
+date) carries an EHR evolution timeline dating "SmartCare approved as MoH standard" to
+**2009**, and places **2005** against a *CCPTS ANC-module pilot* and **2003** against
+*conceptualisation of SmartCare Legacy* — so it disagrees with this page's "approved 2005"
+as well. **Three candidate dates (2005, 2006, 2009), recorded not resolved**; the 2006
+circular is the only one with a primary document behind it. The deck's remaining milestones —
+Plus **2017**, SC+ v1.6 scaled to **350 facilities (2019)**, re-engineering for integration
+and interoperability **(2022)**, **Pro launched 2023** — are consistent with what the page
+already holds. Sources: [[2014-01-01-moh-zambia-ict-standards-and-guidelines]],
+[[2025-03-01-smartcare-pro-programme-managers-presentation]].
+
+**What the 2014 standards document adds beyond the date.** It is the earliest held statement
+of SmartCare's operating rules: patient data "shall be entered into SmartCare daily in all
+facilities", and all patients entered "shall be issued with care cards" — a card-based
+patient identity predating the [[inris]]/[[mosip]] biometric layer by roughly a decade.
 
 **"Care 2.0" is not a second platform — it is SmartCare 2.0, and the two coexist by tier.**
 The GovLink launch coverage renders it "Care 2.0"; ITWeb Africa renders the same object
@@ -117,3 +137,5 @@ them. That absence is the finding.
 - [[2026-01-15 How Digital Public Infrastructure Is Transforming Health and Identity in Rural Zambia]]
 - [[2026-07-17-zambia-govlink-private-4g]]
 - [[2026-04-28-zambia-smartcare-2-0-ndola-pilot]]
+- [[2014-01-01-moh-zambia-ict-standards-and-guidelines]]
+- [[2025-03-01-smartcare-pro-programme-managers-presentation]]

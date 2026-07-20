@@ -5,6 +5,117 @@ contradictions found, and open `needs-review` flags.
 
 ---
 
+## 2026-07-20 — Ingest: the acquisition batch (50 documents, 12 workers)
+
+`new/` drained; `raw/` at 4,678. Gazetted statutes, court judgments, World Bank project documents,
+regulator statistics. 13 concept pages updated. Vocabulary clean across all 191 files touched today.
+
+### The pass's purpose was to close this morning's provenance defect, and it did
+
+**Every boundary added earlier today is now retired or narrowed on evidence**, not on assertion:
+
+| Boundary | Outcome |
+|---|---|
+| Zambia — ProGres transfer "PAD-derived, PAD not held" | **Retired.** PAD Subcomponent 1.2 carries it verbatim. |
+| South Sudan — Crawford/NSS "reconcile-established only" | **Retired.** Confirmed, and sharper than we had it. |
+| Uganda — USPC chronology "carried as unverified" | **Split.** Three claims established, three still unverified. |
+| Senegal — reform chronology "no held source" | **Narrowed.** One limb corrected, one part-confirmed, three still standing. |
+| Gabon / Angola / Seychelles / Djibouti / Togo / Libya / Algeria / CAR | Retired on their primaries. |
+
+**And the primaries corrected the wiki more often than they confirmed it.** The most consequential:
+
+- **Uganda's SI 67/2024 is not what the wiki said it was.** It extends ID validity **ten to eleven
+  years**, retroactive to **2015** — validating cards already expired on their printed term. The wiki
+  described it as preserving ID use for KYC and financial transactions under ss.65–66. **The instrument
+  contains none of that**, and the reading is withdrawn.
+- **Senegal's "2017" was not merely unsourced but wrong.** The CDP's own account is *"depuis 2019"*.
+  Worse, `SEN.md` **contradicted itself** — a `## Provenance` section asserted the Cour Suprême 2022
+  clearance as fact directly against the boundary block above it. Withdrawn.
+- **Econet Group parentage is settled, and my softening was over-cautious.** Econet Global holds
+  **41.68%** and "will remain the controlling shareholder". Control on a **minority economic stake**.
+- **"Distributed Power Zimbabwe (DPZ)" does not exist.** The string appears in neither document; it
+  entered via the editorial preamble of a clip this pass then discarded. The real structure is three
+  internal divisions — TowerCo / PropCo / PowerCo. **DPA was also never a renewables company**: it "has
+  provided backbone tower support services to Econet since inception" (2016). The renewables reading was
+  inferred from the name.
+- **The Libya error had grown a false narrative.** Not just a 2019 article read as 2026, but an
+  interpretation — a Benghazi Tier-3 partnership "scaled down over seven years to a single prefabricated
+  module" — that was entirely an artefact of a re-crawl date. Libya Herald published the Benghazi signing
+  **2019-10-09** and DCD the module **2019-10-15**: the same engagement one week apart.
+- **A second event-date defect found unprompted:** the EBRD facility was dated wiki-wide to its
+  **2026-01-16 announcement**; Board approval was **2024-07-24**. An 18-month gap.
+
+### Where the wiki claimed less than its sources supported
+
+The mirror defect, and it recurred: **Chad's data-centre size was never undisclosed** — two held sources
+give N'Djamena, four storeys, ~2,000 m², and the apparent "2,000 m² vs 500 m²" conflict is the same
+building measured two ways (500 × 4). **CAR's WARDIP backbone was not "resting on nothing"** — the 2,877
+km figure rests on the project's own website, *undated*; the weakness is an undated primary, not an
+absent one. And **WARDIP covers four phase-1 countries, not three** — Guinea and The Gambia were omitted
+from the page and its tags entirely.
+
+### Two more phantom citations
+
+Following the two found this morning: **`car-national-datacentre` cites a Corbeau News item of
+2025-04-29 that does not exist in `raw/`** (checked by date and by figures) — and the same unheld
+citation props up a "Council of Ministers of 17 Apr 2025" corroboration elsewhere. Both now recorded as
+unheld rather than repeated as sourced.
+
+### Findings of substance the wiki did not hold
+
+- **The 75%-vs-2% Crawford dispute is not a dispute.** A **separate November 2020 e-Tax contract** gives
+  Crawford 2% of all digitally assessed taxation. Its rebuttal describes a real entitlement under a
+  *different contract* and does not answer the eServices or crude-oil splits. Also: the e-Visa portal runs
+  on **the same 'e-Citizen' platform Webmasters Kenya built for the Government of Kenya** — Crawford
+  neither built nor customised it, and takes 75%.
+- **Two regulators funded from the population or the offence.** Gabon levies **1,000 FCFA per person per
+  year**, split 40% state / 60% authority; Angola's Centro Nacional de Cibersegurança **retains 30% of
+  the fines it levies**, with a further 30% to a *Fundo de Cibersegurança* that exists in no instrument
+  the wiki holds. Surfaced independently, an hour apart.
+- **South Africa struck down digital-only welfare delivery** and **cross-database verification as a means
+  test**, with a Treasury/SALDRU estimate in the record of a **35% false-rejection rate — 4.5m of 13m
+  eligible claimants**.
+- **Uganda's court found public health absent from the s.66(2) mandatory-ID list**, so ID demanded at
+  health facilities is **practice without statutory basis** — relocating the remedy from constitutional
+  challenge to administrative discipline.
+- **Togo's art. 8 requires prior authorisation for biometric processing and for use of a national
+  identification number.** Its MOSIP-based e-ID does both; **no authorisation is held.**
+- **Gabon's art. 75 is an outright biometric prohibition**, making the CNIE lawful only by derogation —
+  and **no APDPVP authorisation for the 2024 build has been found**.
+- **CAR has a fifth data-centre thread predating the other four**, and it is the World Bank's own: two
+  government facilities under construction in **2022**, one specified Tier II→Tier III. The 2026 Huawei
+  pitch repeats a 2022 target.
+- **Zimbabwe's 5G reaches 18.9% of population and 0.0% of rural areas**, against 3G at 73.7% rural.
+
+### Judgement calls worth recording
+
+- **The DHA APP was a keep-both, not a replace** — the fuller capture truncates before **Part E**, the
+  only place the document states the Assumptions line that evidences *SARB integrates, SARS hosts*. A
+  fuller capture is not automatically a superset.
+- **A PDF extraction artefact was caught mid-propagation:** the companion's flat-text rendering of the
+  MTEF table column-misaligns, making 2025/26 targets read as 2026/27. The wiki's prose was right only
+  because it followed the narrative rather than the table.
+- **One worker refused to cite a document I had told it about**, because the wiki does not hold it —
+  stating what *is* held instead. That is precisely the discipline whose absence caused the morning's
+  defect.
+- **Malawi's Act was completed in place** under the verbatim-fidelity exception (204 → 1,047 lines),
+  settling s.53 — which had been outside the previous capture and carried on report only.
+
+### Still open
+
+- **The ZRHCP Subcomponent 1.2 discrepancy is real and filed**: PAD **US$6m / ~150,000 cards** against
+  ESMF **US$6.5m / ~100,000** — moving in opposite directions, so unit cost jumps ~US$40 → ~US$65. The
+  ISR that would settle it is re-queued (403).
+- **Angola's 150,787 census gap is now worse-evidenced, not better.** INE's synthesis offers no
+  reconciliation *and no coverage-adjustment methodology*, so the wiki's raw-vs-adjusted explanation is
+  downgraded to an inference.
+- **Malawi's s.53 arithmetic does not close** — 24 months from a commencement date that GN 40, unheld,
+  would fix. Carried as reported, not sourced.
+- **59 files still reference the deleted registers**, and the Google Johannesburg mis-dating is still
+  live in `google.md`'s source list. Both carried over from the previous entry.
+
+---
+
 ## 2026-07-20 — Ingest: the reconcile batch filed (65 clips, 14 workers)
 
 `new/` drained; `raw/` at 4,631. First batch ingested under the rewritten rules. 19 concept pages updated.
@@ -102,6 +213,45 @@ both are failures of the same discipline.
   third leg of the entity-tagging rule went unexercised across the whole batch. My omission.
 
 ---
+
+## 2026-07-20 — Rule change: lint acts and logs, no longer reports
+
+`reference.md` §11 rewritten. Lint was defined as "flag for X" on every check — built to hand Bill
+a pile. Now it acts, in git, and logs a count; a wrong auto-fix is a revert, not a review queue.
+Same discipline already applied to gaps, reconcile and acquire; it had not been carried into lint.
+
+The 13 checks split three ways:
+- **Auto-fix** (mechanical, one right answer): #1 schema, #2 vocabulary, #4 orphans/dead-links,
+  #5 tagging, #7 duplicate drop/replace, #11 date prefix, #12 link-list, #13 quarantine leaks.
+- **Auto-resolve onto the page** (no queue): #3 freshness/currency, #6 inadmissible-source
+  downgrade, #8 page bloat. A known vacuum becomes a dated statement on the page.
+- **Surface to Bill** (the only output): #9 genuine contradictions → `contradictions/open/` for the
+  next reconcile; #10 stranded `new/` items (reported, not ingested — that's a separate pass).
+  Nothing else. **Equal duplicates are not surfaced** (Bill, 2026-07-20): where neither copy is
+  better, #7 keeps the first by filename and drops the other — which one survives does not matter.
+
+Two carve-outs kept explicit so the auto-fixers don't overreach: #5 does not over-tag mere mentions
+(CLAUDE.md's actors-not-mentions rule), and #8 exempts place-hub **Recent developments** sections,
+which are meant to be dated logs.
+
+Net: a full lint run now cleans up after itself and ends in a tally plus at most a handful of true
+judgment calls, instead of a report to work through.
+
+## 2026-07-20 — Decision: three lint checks added for today's new failure modes
+
+Today's changes created three failure modes the lint didn't cover. Added to `reference.md` §11:
+
+- **#13 Quarantine leaks** — a `wiki/` page citing `contradictions/research/`, `queries/results/`,
+  or any `DO-NOT-INGEST` file. New because the reconcile pass left ~80 research scratch files on
+  disk; this is the leak the quarantine exists to stop. **Run it right after the acquisitions
+  ingest.**
+- **#6** extended — flag a source that re-renders the wiki's own pages back as an external
+  publication (the anti-circularity clause added to `reference.md` §5a today).
+- **#3** extended — flag a USD figure not written as a dated conversion, or money not in the
+  announcing party's currency (the ISSUE-025 currency decision).
+
+Not added: nothing for the two-attempt contradiction limit or out-of-scope deletion — both are
+procedure, not a checkable page state.
 
 ## 2026-07-20 — Reconcile pass: `open/` drained, 49 → 0
 

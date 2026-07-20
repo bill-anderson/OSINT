@@ -31,6 +31,38 @@ last_reviewed: 2026-07-20
 > - **Digital ID / DPI** — the **[[lesotho-india-dpi-mou|Lesotho–India India-Stack MoU]]**, a
 >   **MOSIP** integrated national-ID work plan with **[[unicef-lesotho|UNICEF]]**, and child-focused DPI.
 
+- **2026-07-14/15** — **First National Stakeholder Consultative Workshop on a National Data Value
+  Creation Blueprint (Maseru).** **[[micsti-lesotho|MICSTI]]** hosted the opening consultation on
+  developing a **National Data Value Creation Blueprint**, opened by Principal Secretary **Kanono
+  Ramashamole**, who framed well-governed data as the precondition for converting manual public
+  services into e-services, for easier resource allocation and for the **AI applications** the
+  government wants. Supported by **[[smart-africa]]**, the **[[african-union]]** and the **German
+  Embassy** (represented by Ulrich Thueer). Reported 2026-07-16. Source:
+  [[2026-07-16-lesotho-national-data-value-creation-blueprint-workshop]]. See [[gov.protect]],
+  [[dpi.govtech]], [[tech.ai]], [[gov.regional]].
+  - **What is claimed, and by whom — read with care.** Smart Africa representative **Aretha Mare** is
+    reported saying Lesotho "had been selected as one of the countries participating" in creating a
+    national data Blueprint, joining **Senegal and Kenya** (the original renders Senegal as "Senekal"),
+    and that Lesotho was chosen for its leadership and agenda-setting on digital. **This is a
+    government news-agency account of a spokesperson's remarks at the event, and it is the only
+    evidence held for Lesotho's programme membership** — no Smart Africa programme document, terms of
+    reference or RFP naming Lesotho is held as of **2026-07-20**. The wiki's own Smart Africa
+    data-strategy holdings cover **Eswatini** ([[2025-07-25 RFP - Eswatini National Data Policy (Smart
+    Africa)]]), **Benin** ([[2025-11-21 Smart Africa - ToR for Benin National Data Strategy]]) and
+    **Ghana**, none of them Lesotho. Write Lesotho's involvement as *attended and was described as
+    selected*, dated, **not** as documented programme membership.
+- **2025-07-28/31** — **AUDPF-domestication workshop (Maseru, four days).**
+  **[[micsti-lesotho|MICSTI]]** launched a national data-governance initiative at a four-day workshop
+  convened by **[[auda-nepad|AUDA-NEPAD]]** with **[[giz]]**, **[[cipesa]]** and **[[kictanet]]**, to
+  assess Lesotho's **data-governance readiness** and align it with the
+  **[[au-data-policy-framework|AU Data Policy Framework]]**. AUDA-NEPAD Senior Programme Officer
+  **Bernard Brain Cudjoe** said the partners would help Lesotho **review its legislative and policy
+  landscape** and identify practical steps toward regional alignment; ICSTI Minister **Nthati Moorosi**
+  framed it under SDG 17. **No output document, assessment or readiness score from the workshop is
+  held as of 2026-07-20** — what is held is the convening, not its findings. Government account dated
+  2025-07-28 (the opening day); CIPESA dates the workshop **28–31 July 2025**. Source:
+  [[2025-07-28-lesotho-advances-digital-future-audpf-data-governance]]. See [[gov.protect]],
+  [[gov.regional]], [[dpi.govtech]], [[gov.legislate]].
 - **2026-02-11** — **RSL–Standard Lesotho Bank tax e-payment integration.** Revenue Services Lesotho
   and SLB launched integrated e-payment (USSD, internet banking, mobile app) for CIT, PAYE, VAT and
   customs duties. Source:
@@ -100,6 +132,7 @@ last_reviewed: 2026-07-20
 ## Entities
 
 - [[nissa-lesotho]] · [[lesotho-national-id]] · [[leswitch]] · [[lesotho-digital-transformation-strategy]] · [[universal-dpi-safeguards-framework]] · [[micsti-lesotho]] · [[mosip]]
+- Data governance (2026-07-20): [[smart-africa]] · [[auda-nepad]] · [[au-data-policy-framework]] · [[cipesa]] · [[kictanet]] · [[giz]] · [[african-union]]
 - LSO sweep batch (2026-07-18): [[convalt-energy]] · [[project-kobong]] · [[t-connect-lesotho]] ·
   [[lesotho-communications-authority]] · [[econet-telecom-lesotho]] · [[central-bank-of-lesotho]] ·
   [[ecocash]] · [[mukuru]] · [[sebabatso-initiative]] · [[dns-technologies]] · [[computer-business-solutions]] ·
@@ -111,14 +144,20 @@ last_reviewed: 2026-07-20
 
 ## Record not held (as of 2026-07-20)
 
-Two Lesotho items remain unheld after the 2026-07-20 acquisition pass, which did obtain the government accounts of
-the **National Data Value Creation Blueprint workshop** (Maseru, 14–15 Jul 2026) and the **AUDPF-domestication
-workshop** (Maseru, 28–31 Jul 2025):
+The 2026-07-20 acquisition pass **obtained the government accounts** of the **National Data Value Creation
+Blueprint workshop** (Maseru, 14–15 Jul 2026) and the **AUDPF-domestication workshop** (Maseru, 28–31 Jul
+2025), both now ingested. These remain unheld:
 
 - The **digital service-ID pilot** (10,000 participants, biometric, from 2 Apr 2026) — **no primary located**. No
   enrolment, completion or coverage figure for the pilot is on file.
 - The **National AI Policy/Strategy text** — **not held**. Ministerial statements about enabling AI applications are
   held; the instrument itself is not, so its scope and commitments cannot be stated.
+- **Any Smart Africa programme document naming Lesotho** — terms of reference, RFP or membership record for
+  the data-blueprint programme. Lesotho's participation rests **solely on a Smart Africa spokesperson's
+  remarks reported by the government news agency** (2026-07-16). Smart Africa data-strategy documents held
+  here cover Eswatini, Benin and Ghana, not Lesotho.
+- **Any output of the July 2025 AUDPF workshop** — the readiness assessment, the legislative/policy review
+  AUDA-NEPAD said it would support, or any resulting instrument. The convening is held; its findings are not.
 
 Also note: the **Blueprint document itself does not yet exist** — what is held is the first consultative workshop,
 i.e. the start of drafting, not an adopted framework.

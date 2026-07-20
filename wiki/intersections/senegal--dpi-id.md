@@ -8,7 +8,7 @@ topics: [dpi.id, dpi.registry, gov.protect, infra.cybersec, gov.regional]
 entities: [[daf-senegal], [iris-corporation], [anec-senegal], [nekkal-programme], [senegal-numerique], [cdp-senegal], [new-deal-technologique], [green-blood-group], [clement-domingo], [civipol], [enabel], [european-union]]
 status: active
 last_reviewed: 2026-07-20
-sources: [[2026-02-10 Senegal data breach disrupts national ID issuance], [2026-02-10 Senegal shuts National ID office after ransomware attack], [2026-02-24 Senegal ID System Breach – 139TB Hack Claim], [2026-02-05-aps-daf-suspension-cni-communique], [2026-02-05-senegal7-daf-perso-server-email], [2026-02-11-zataz-senegal-frappe-fichier-identite], [2026-02-12-darkreading-senegal-breach-security-maturity], [2026-04-07-aps-daf-reprise-production-cni], [2025-02-18 Senegal targets 3M ECOWAS biometric ID holders for voter registration], [2024-06-27 Senegal digitizes millions of civil records under the Nekkal program], [2024-06-26-lequotidien-fofana-19-millions-actes-etat-civil], [2026-06-29-aps-nekkal-avancees-modernisation-etat-civil], [2026-07-13-apa-anec-15-million-birth-records], [2026-01-28 Senegal plans digital overhaul of civil status system (ANEC)], [2023-05-01 Children's Right to Identity in Senegal (CHIP CRC submission)]]
+sources: [[2026-02-10 Senegal data breach disrupts national ID issuance], [2026-02-10 Senegal shuts National ID office after ransomware attack], [2026-02-24 Senegal ID System Breach – 139TB Hack Claim], [2026-02-05-aps-daf-suspension-cni-communique], [2026-02-05-senegal7-daf-perso-server-email], [2026-02-11-zataz-senegal-frappe-fichier-identite], [2026-02-12-darkreading-senegal-breach-security-maturity], [2026-04-07-aps-daf-reprise-production-cni], [2025-02-18 Senegal targets 3M ECOWAS biometric ID holders for voter registration], [2024-06-27 Senegal digitizes millions of civil records under the Nekkal program], [2024-06-26-lequotidien-fofana-19-millions-actes-etat-civil], [2026-06-29-aps-nekkal-avancees-modernisation-etat-civil], [2026-07-13-apa-anec-15-million-birth-records], [2026-01-28 Senegal plans digital overhaul of civil status system (ANEC)], [2023-05-01 Children's Right to Identity in Senegal (CHIP CRC submission)], [2025-08-01-anec-senegal-digitalisation-etat-civil-aliou-sall]]
 ---
 
 # Senegal × Digital Identity & CRVS
@@ -113,17 +113,33 @@ executed by **[[civipol]]** and **[[enabel]]** with **[[anec-senegal|ANEC]]** as
 distinction is the minister's own:
 
 - **Archive stock (scanned and indexed).** Nékkal digitised legacy **paper** acts out of communal archives:
-  **19m+ acts numerised and indexed as of Jun 2024**, rising to roughly **20m by Mar 2025** against a **30m**
-  target. The programme's closing report (Jun 2026) splits the two operations explicitly — **10m acts
-  digitised, 20m indexed**.
+  **19m+ acts numerised and indexed as of Jun 2024**, rising to **20m as of Aug 2025** on ANEC's own account,
+  against a **30m** universe — the agency puts the **remainder at 10 million** acts still to be digitised and
+  indexed across civil-status centres and consular posts. The programme's closing report (Jun 2026) splits
+  the two operations differently — **10m acts digitised, 20m indexed** (see the discrepancy note below).
 - **Live database load (RNEC).** The **15.3m records (13 Jul 2026)** ANEC reports are those **loaded into the
   live national civil-registration database (RNEC)** — a **subset** of the archive stock, not a replacement
   figure.
 
-Minister **Moussa Bala Fofana** drew the line himself in Jun 2024: *"Plus de 19 millions d'actes d'état civil
-sont numérisés et indexés. **Une bonne partie** accessible à partir du Registre national de l'état civil."*
-The later, smaller number therefore reflects a narrower counting base, not lost ground. *(Resolved
-2026-07-20.)*
+**The distinction is ANEC's own, in an ANEC-authored document.** Director-general **Aliou Ousmane Sall**'s
+presentation deck (**Aug 2025**) sets out the two bases side by side: the digitalisation process yields
+*"20 000 000 d'actes d'état civil numérisés et indexés"* out of the archives, while the *"déclarations
+enregistrées via le RNEC"* — the live registration flow — are counted separately and are far smaller:
+**112,881 in 2024** and **108,233 from 1 Jan to 3 Jul 2025**. Archive stock and RNEC load are different
+quantities measured on different bases, from the agency itself, not an inference the wiki has imposed on the
+figures. This deck is the **primary behind the counts**, which previously reached the wiki only through APA's
+report of an ANEC Facebook post. Minister **Moussa Bala Fofana** had drawn the same line in Jun 2024:
+*"Plus de 19 millions d'actes d'état civil sont numérisés et indexés. **Une bonne partie** accessible à
+partir du Registre national de l'état civil."* The later, smaller number therefore reflects a narrower
+counting base, not lost ground. *(Resolved 2026-07-20; primary-sourced 2026-07-20.)* Source:
+[[2025-08-01-anec-senegal-digitalisation-etat-civil-aliou-sall]].
+
+**Discrepancy, unresolved and dated.** ANEC's DG (**Aug 2025**) reports **20m acts "numérisés *et* indexés"**
+with **10m remaining**; the Nékkal closing report (**Jun 2026**) reports **10m digitised and 20m indexed** as
+two distinct totals. Both are held sources and they do not reconcile: on the first reading 20m acts have
+completed both operations, on the second only 10m have been scanned at all. The likeliest explanation is
+that the Jun-2026 figure counts **Nékkal's own** contribution rather than the national total, but no held
+document says so. **Carry both dated; do not merge them into a single number** (as of 2026-07-20).
 
 **Wording caution.** APA and downstream English coverage headline the 15.3m as **"birth records"**; ANEC's own
 framing is **actes d'état civil** — **all** civil-status events (births, marriages, deaths). Carry the broader
@@ -134,7 +150,25 @@ computers and 1,000 printers deployed; 65 motorcycles to communes; 32 communal c
 platform; a births/deaths notification tool for health facilities; and a consular civil-status application for
 Senegalese abroad. Legally, Nékkal produced a validated **bill on computerising civil-status management**
 plus implementing and register-conservation decrees, and the **Stratégie nationale de l'état civil**
-(budgeted CFA68bn). Training reached **30 trainers and 4,000+ civil-status actors**; ANEC separately reports
+(budgeted CFA68bn). *"Validated" is not "enacted":* ANEC's own deck (**Aug 2025**) lists among **perspectives**
+— i.e. still outstanding — *"validation en Conseil des Ministres et adoption à l'Assemblée nationale du
+projet de loi sur l'informatisation de la gestion de l'état civil et signature de son projet de décret
+d'application"*, plus signature of the register-reconstitution decree. **As of Aug 2025 neither text was
+adopted**, and no held source records their adoption since (as of 2026-07-20).
+
+**ANEC's own build figures (Aug 2025).** **400 centres** running the civil-status management application;
+**383 centres installed** with network equipment by **[[senegal-numerique|SENUM SA]]**; **235 centres in
+service** — connected and operational, i.e. **a little over half the installed base was live**;
+**1,200 agents** trained on the RNEC platform and **2,800 agents, 631 officers, 631 archivists** trained on
+their trades; **6 servers totalling 1,000 TB** across **3 hosting sites**. Interoperability is built around a
+**numéro unique (NU)** linking civil status to **[[daf-senegal|DAF]]** identity and biometrics, the courts
+(electronic transmission of judgments, criminal record), health (patient file, electronic birth/death
+notification), tax, the electoral roll, passports/residence cards, payroll and social security, and the
+statistics office. Produced alongside: a civil-status **information-system security policy (PSSI-EC)** and a
+**[[cdp-senegal|CDP]]** personal-data-protection strategy for civil status. Source:
+[[2025-08-01-anec-senegal-digitalisation-etat-civil-aliou-sall]].
+
+Training reached **30 trainers and 4,000+ civil-status actors**; ANEC separately reports
 **3,695 officers trained** and **629 centres networked** (Jul 2026), with **67%** of centres on the **LGEC**
 software and **27%** on the **Sama État Civil** online-request platform. A **data-verification campaign ran
 13–29 Jul 2026** in Fatick, Louga and Diourbel.

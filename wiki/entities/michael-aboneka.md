@@ -23,7 +23,9 @@ this author, as **advocacy analysis** — not to the primary.
 ## What he argues (2025-09-13)
 
 On the dismissal of ***Initiative for Social and Economic Rights ([[iser-uganda]]) & 2 Others v
-Attorney General & NIRA*, HCT-00-CV-MC-0066-2022 (High Court of Uganda, 10 June 2025)**:
+Attorney General & NIRA*, **Miscellaneous Cause No. 0086 of 2022** (High Court of Uganda, 10 June
+2025) *(the author, like other secondary coverage, cites it as HCT-00-CV-MC-0066-2022; the ruling
+itself is headed 0086 — corrected 2026-07-20)*:
 
 - **The ruling legitimises an exclusionary system** — one that denies access to services for those
   without a National ID ([[ndaga-muntu]]) under the [[registration-of-persons-act-2015]].

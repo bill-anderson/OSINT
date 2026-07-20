@@ -22,7 +22,8 @@ transit position.
   The **[[pnd-adeeg-djibouti|PND-ADEEG]]** succeeds prior plans as the Vision-2035 delivery frame under
   which the whole digital strategy stack sits. Around it: Djibouti's **first national AI strategy**
   (**[[djibouti-ai-strategy]]**, Jan 2026, UNESCO/ESCWA), a **[[startup-act-djibouti|Startup Act]]**
-  (Loi n°179/AN/25, JO 08/01/2026), and an aggressive skills build — **[[digital-houses-djibouti|E-SKILLS
+  (Loi n°179/AN/25, signed 1 Dec 2025; *JO* n°23 of 15 Dec 2025, eJO 8 Jan 2026), and an aggressive
+  skills build — **[[digital-houses-djibouti|E-SKILLS
   Digital Houses]]** (5 regions, 3,000 by 2029) and **[[ecole-42-djibouti|École 42]]** — against ~76% youth
   unemployment. A **[[federation-entreprises-numeriques-djibouti|national digital-enterprise federation]]**
   now gives the sector a voice, and Djibouti ran busy **small-state digital diplomacy** (Romania, Japan,
@@ -38,6 +39,25 @@ transit position.
   **[[djibouti-digital-code]]**, a sovereign national cloud and cybersecurity reforms; a
   **[[vision-djibouti-2035]]** cornerstone. See [[dpi.id]], [[gov.protect]], [[djibouti--dpi-id]].
   Source: [[2026-02-10 Djibouti launches Mobile ID national digital identity platform]].
+- **2025-12-01** — **Startup Act promulgated (Loi n°179/AN/25/9ème L)** — *primary text now held.*
+  Adopted by the **Assemblée Nationale 12 November 2025** (second public sitting; Conseil des Ministres
+  15 April 2025), **signed 1 December 2025**, carried in *Journal Officiel* **édition n°23 of 15 December
+  2025** and published on the **eJO 8 January 2026**. **Art. 35 takes effect from promulgation**, so
+  commencement attaches to the December signature, not the January e-publication. Creates a
+  state-conferred **"Startup" label** administered by a **Collège des Startups** at the digital-economy
+  ministry (award by arrêté on the Minister's proposal after the Collège's binding opinion, art. 3–4);
+  a **"Startup Djibouti" national portal** as the single channel for formalities and applications
+  (art. 5); fiscal and customs exonerations; a **fund-of-funds** financing startups from ideation to
+  expansion and investing in seed/VC funds that domicile in Djibouti, managed by a company tendered
+  under the procurement code (arts. 25–28); a **BSA-Air** convertible instrument (art. 23);
+  **crowdfunding** by donation, loan or equity (arts. 29–30); and a **regulatory sandbox** under the
+  Haut Conseil Supérieur de l'Économie Numérique et de l'Innovation, accessed only via the portal
+  (arts. 31–32). Eligibility (art. 2) is cumulative: company under **7 years**, technology-based
+  innovation, **>50% capital** held by natural persons or seed investors, and **no dividends** while
+  labelled. **Every operative detail is deferred to implementing decrees, none of which is held as of
+  2026-07-20** — so no label count or sandbox admission can be stated. Source:
+  [[2026-01-08-djibouti-loi-179-an-25-startup-act]]. See [[startup-act-djibouti]], [[tech.innovate]],
+  [[finance.new]], [[gov.legislate]], [[djibouti--tech-innovate]].
 - **2025-12-15** — **G2B one-stop digital platform launched (design phase).** A
   government-to-business one-stop shop for MSMEs (startup portal, G2B one-stop, e-payments) under
   Vision 2035. See [[dpi.govtech]]. Source:

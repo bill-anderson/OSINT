@@ -7,7 +7,7 @@ topics: [dpi.id, dpi.registry, infra.cybersec, gov.protect]
 lens: []
 status: active
 last_reviewed: 2026-07-20
-sources: [[2026-02-10 Senegal data breach disrupts national ID issuance], [2026-02-10 Senegal shuts National ID office after ransomware attack], [2026-02-24 Senegal ID System Breach – 139TB Hack Claim], [2026-02-05-aps-daf-suspension-cni-communique], [2026-02-05-senegal7-daf-perso-server-email], [2026-02-11-zataz-senegal-frappe-fichier-identite], [2026-02-12-darkreading-senegal-breach-security-maturity], [2026-04-07-aps-daf-reprise-production-cni]]
+sources: [[2026-02-10 Senegal data breach disrupts national ID issuance], [2026-02-10 Senegal shuts National ID office after ransomware attack], [2026-02-24 Senegal ID System Breach – 139TB Hack Claim], [2026-02-05-aps-daf-suspension-cni-communique], [2026-02-05-senegal7-daf-perso-server-email], [2026-02-11-zataz-senegal-frappe-fichier-identite], [2026-02-12-darkreading-senegal-breach-security-maturity], [2026-04-07-aps-daf-reprise-production-cni], [2025-08-01-anec-senegal-digitalisation-etat-civil-aliou-sall]]
 ---
 
 # DAF — Directorate of File Automation (Senegal)

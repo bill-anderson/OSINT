@@ -8,7 +8,7 @@ topics: [dpi.mis, data.statistics, dpi.exchange, capacity.training, capacity.res
 entities: [[dhis2], [stateduc], [cspro], [hisp-wca], [hisp-centre], [mepsta-togo], [gpe-kix], [global-partnership-for-education], [gpe-itap], [norad], [education-data-toolkit], [pasec], [mics-eagle], [data-must-speak]]
 status: active
 last_reviewed: 2026-07-20
-sources: [[2022-12-01-hisp-wca-dhis2-emis-togo], [2024-11-05 Togo - Integrating DHIS2 with existing EMIS systems], [2024-04-08-gpe-itap-togo-enabling-factors], [2026-05-04-gpe-kix-study-tour-education-data-system]]
+sources: [[2022-12-01-hisp-wca-dhis2-emis-togo], [2024-11-05 Togo - Integrating DHIS2 with existing EMIS systems], [2024-04-08-gpe-itap-togo-enabling-factors], [2026-05-04-gpe-kix-study-tour-education-data-system], [2025-06-01-togo-aide-memoire-dixieme-revue-sectorielle-conjointe-education]]
 ---
 
 # Togo — education management information systems
@@ -50,6 +50,41 @@ layer above StatEduc.
 - **2024** — exam results held in a national DHIS2 database; a **WhatsApp results service** deployed
   **2024-06-16** for roughly **498,000 candidates**
   ([[2024-11-05 Togo - Integrating DHIS2 with existing EMIS systems]]).
+
+## The government's own account (June 2025) — and it confirms the layering
+
+Togo's **tenth joint education sector review** (*revue sectorielle conjointe de l'éducation*), held in
+Lomé **4–5 June 2025** with 140+ participants and covering performance for **2023 and 2024**, is the first
+**government primary** on this page. It matters twice over.
+
+**It puts a figure on who pays for DHIS2.** The aide-mémoire's partner-financing table names
+**[[hisp-wca|HISP WCA]]** as having *"financé la phase 2 du projet DIHS2 [sic] à hauteur de **71 305 244
+FCFA**"* over the 2023–2024 review period. This is the only DHIS2 financing figure the wiki holds, and it
+is small — roughly **1%** of the IDA/GPE basic-education project's **8.139bn FCFA** in the same table, and
+well under the **119,493,000 FCFA** the World Bank mobilised merely to *organise* the 2025 review.
+**Togo's education-data analytical layer is funded at a rounding error against the sector's project
+finance**, and by the implementer rather than the state or a sector donor. Carry the FCFA figure as
+given; no dated USD conversion is on file.
+
+**It confirms StatEduc as the collection layer — by describing the state modernising it.** The ministry
+records, for **[[mepsta-togo|MEPS]]**, that in **2023** it recruited a *"consultant StatEduc, expert
+SIGE"* to run the **migration of the StatEduc databases from Ms Access to PostgreSQL** and the
+**switch to online data entry** (*"passage en saisie en ligne"*), and launched a **pupil-matriculation
+process** with a platform for enrolment and generation of student registration numbers. The technical and
+vocational ministry (**METFPA**) reports the same **StatEduc → PostgreSQL migration** over 2023–2024,
+explicitly *"en vue de la digitalisation de la collecte de données"*, alongside a **national ETFP digital-
+transformation strategy** and extension of graduate tracking with the **Inserjeunes** tool.
+
+That is the layering thesis stated from the other end: **the state is investing in StatEduc as its
+collection system** — moving it off a desktop Access file to a server database and off paper to online
+entry — while **[[dhis2]]** remains the layer above it. It is corroboration of the architecture, not a
+contradiction of it, and it means the **collection layer is itself mid-migration**, which is the more
+likely near-term source of the data-latency problem the 2026 study tour identified than anything in DHIS2.
+
+*A student-registration-number platform was "launched" in 2023; note that GPE's ITAP found **no clear
+evidence of student identification numbers** in its 2024-04-08 assessment. Held together, these date a
+matriculation system as begun but not evidenced in operation — not as delivered.* Source:
+[[2025-06-01-togo-aide-memoire-dixieme-revue-sectorielle-conjointe-education]].
 
 Built by **[[hisp-wca]]** with **[[norad]]** and **[[gpe-kix]]** support. Indicators are disaggregated
 by gender and disability status; schools can benchmark against peers via **school report cards**; the
@@ -110,6 +145,9 @@ coordinated by the **[[hisp-centre]]** at the University of Oslo and **concludes
 - The ITAP source is held as an **excerpt** — complete through the end of Part B (including the SIGE
   section relied on above), truncated inside the Part C recap by a fetch limit. A full manual capture
   would complete the record.
+- The **2025 joint sector review** is the ministry's own aide-mémoire — a government self-assessment
+  agreed with its financing partners, not an independent evaluation. Its financing figures are reliable
+  (they are the state's own accounting); its progress claims carry the same standing as the implementer's.
 
 ## See also
 

@@ -6,7 +6,7 @@ places: [XWA]
 topics: [gov.regional, dpi.id, gov.policy, dpi.exchange, dpi.pay, tech.ai]
 status: active
 last_reviewed: 2026-07-11
-sources: [[2026-03-30 ECOWAS, World Bank Advance West Africa Digital Identity], [2026-01-24 ECOWAS Adopts Digital Roadmap; Targets Unified Single Market and AI Governance for West Africa], [2026-01-30 ECOWAS PRESENTS 'SIGMAT' AT THE WORLD CUSTOMS ORGANIZATION 2026 TECHNOLOGY CONFERENCE IN ABU DHABI   Economic Community of West African States (ECOWAS)], [2026-03-16 New $137M initiative to enable digital service access for millions in three ECOWAS nations], [2024-06-27 WURI digital ID project improving access to public services in Benin], [2026-01-22 Burkina Faso aims for digital sovereignty with infrastructure supervision center], [2026-02-06 Nigeria just raised the bar for West African Fintech]]
+sources: [[2026-03-30 ECOWAS, World Bank Advance West Africa Digital Identity], [2026-01-24 ECOWAS Adopts Digital Roadmap; Targets Unified Single Market and AI Governance for West Africa], [2026-01-30 ECOWAS PRESENTS 'SIGMAT' AT THE WORLD CUSTOMS ORGANIZATION 2026 TECHNOLOGY CONFERENCE IN ABU DHABI   Economic Community of West African States (ECOWAS)], [2026-03-16 New $137M initiative to enable digital service access for millions in three ECOWAS nations], [2024-06-27 WURI digital ID project improving access to public services in Benin], [2026-01-22 Burkina Faso aims for digital sovereignty with infrastructure supervision center], [2026-02-06 Nigeria just raised the bar for West African Fintech], [2023-11-07-worldbank-dtfa-wardip-sop1-pad4756]]
 ---
 
 # Economic Community of West African States (ECOWAS)

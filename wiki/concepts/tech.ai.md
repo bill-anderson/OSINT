@@ -365,6 +365,11 @@ converge.
   and, where applicable, institutional validation. The stack is open-sourced and pitched to other African
   and global telcos. Showcased at the AllMyT Summit on 16 July but **launched a week earlier** — the
   summit was a promotion stop, not the launch.
+- **The PwC "64%" needs three qualifiers wherever it is cited.** It is a **five-country sample**
+  (Algeria, Kenya, Morocco, Nigeria, South Africa; n=1,753) presented as "Africa"; the metric is
+  **ever-used-AI-at-work-in-the-past-year**, against **17% daily GenAI use** in the same release — a
+  near-fourfold gap between the headline and habitual use; and it is a reference study, so **cite, do not
+  absorb** into country pages.
 
 ## By place
 

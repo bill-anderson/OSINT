@@ -4,7 +4,7 @@ title: Mauritania
 code: MRT
 parent: XWA
 place_kind: country
-topics: [dpi.id, dpi.registry, dpi.govtech, dpi.mis, dpi.exchange, gov.policy, gov.standards, gov.protect, infra.store, infra.connect, infra.cybersec, gov.regional, gov.legislate, dpi.pay, finance.new, finance.mou, include.access, include.divides, tech.industry, data.statistics]
+topics: [dpi.id, dpi.registry, dpi.govtech, dpi.mis, dpi.exchange, gov.policy, gov.standards, gov.protect, infra.store, infra.connect, infra.cybersec, gov.regional, gov.legislate, dpi.pay, finance.new, finance.mou, include.access, include.divides, tech.industry, data.statistics, digital.rural]
 status: active
 last_reviewed: 2026-07-20
 ---
@@ -28,6 +28,35 @@ fourth-tier cybersecurity ranking mark the distance still to travel.
   consular registry** to map the diaspora (built by diaspora engineers with **[[mtnima-mauritania|MTNIMA]]**,
   after consultations in 22 countries). Source:
   [[2026-07-10-digital-consular-services-diaspora-wearetech]]. See [[dpi.govtech]], [[dpi.registry]].
+- **2026-07-07** — **Satellite licences: three firms provisionally selected (ARE).** Reporting an
+  **[[are-mauritania|ARE]]** communiqué issued the week before, **[[are-mauritania|ARE]]** named
+  provisional winners of the January-2026 tender. **13 firms took the dossier; 9 bids were submitted**
+  across the two lots, some bidding for both.
+  - **Lot 1 — mobile personal satellite communications, restricted to geostationary systems:**
+    **BRAINSAT** ($800,000) and **VDM** ($50,000) retained; **VDM must align its offer with BRAINSAT's**
+    to obtain the licence. Next-ranked fallback: **Guimi Multi Services**.
+  - **Lot 2 — sale of satellite capacity:** **BRAINSAT** ($3 million) and **[[mattel|Mattel]]**
+    (**6.5 million MRU**, ≈ **$163,000** at the rate implied in the report, 2026-07) retained; Mattel
+    must likewise match BRAINSAT. Fallback order: **[[mauritel|Mauritel]]**, **Wigo**, then **VDM**.
+  - If VDM and Mattel do not align, the regulator will award to the next-ranked bidders under the tender
+    rules. The **gap between bids is wide**, leaving both the award and any deployment timetable
+    uncertain; **no launch date, licence issue or operating framework is reported**, and the operating
+    conditions, licensee obligations and control mechanisms are still to be defined.
+  - **Context figures (ITU):** ~**55% of the population did not use the internet (2024)**; **3G covered
+    78%** and **4G 73%** of the population (2024); internet penetration **45.8%** against mobile
+    telephony **83.2%** (2024). **Affordability (2025):** a 5 GB mobile plan cost **2.94% of GNI per
+    capita** and fixed internet **17.6%**, against the **2%** international affordability benchmark.
+  - **Provenance:** this is **Agence Ecofin's account of the ARE communiqué**; the **regulator's own
+    communiqué is not held as of 2026-07-20**, so the figures are the reporting of it, not the ARE's
+    text. Source:
+    [[2026-07-07-mauritanie-trois-entreprises-selectionnees-services-telecoms-satellite]].
+  - **Keep this apart from WARDIP.** This award is **satellite spectrum/service licensing by the
+    [[are-mauritania|ARE]]**, under the telecom regulator, from the January 2026 tender. It is **a
+    different authority, a different sector and a different procurement** from the **[[wardip|WARDIP]]**
+    **AP-01_DP-15_WARDIP-2026** digital-ID / PKI e-certification RFP run by MTNIMA under World Bank
+    credit (see the 2026-04-28 entry below). The two were conflated once in this corpus and corrected;
+    they share no lot, bidder or timetable.
+  See [[infra.connect]], [[digital.rural]], [[include.divides]], [[gov.policy]].
 - **2026-04-28** — **National PKI / e-certification tender (WARDIP) — issued, twice extended, not awarded.**
   The **[[wardip|WARDIP]]** project unit at **[[mtnima-mauritania|MTNIMA]]** issued RFP
   **AP-01_DP-15_WARDIP-2026** (credit **IDA-7445-MR**, World Bank-financed) on **28 Apr 2026**, in two lots:
@@ -114,13 +143,8 @@ fourth-tier cybersecurity ranking mark the distance still to travel.
 - **2026-01-29** — **Satellite-internet licence tender (ARE).** ARE launched an international tender (22 Jan
   2026, two batches: GEO retail + capacity sale) to widen access where ~63% remained offline (2023);
   **[[starlink|Starlink]]** flagged a **2026 commercial launch** but LEO providers are not yet authorised for
-  direct service. **Outcome (7 Jul 2026, not yet held as a source):** ARE named **three provisional winners** —
-  **BRAINSAT** and **VDM** for the GEO mobile-personal-communications lot, **BRAINSAT** and **Mattel** for the
-  capacity-sale lot — from 9 bids against 13 dossiers taken; VDM and Mattel must match BRAINSAT's offer or the
-  licences pass to the next-ranked bidders. Reported by Agence Ecofin; queued in `reviews/acquisitions.md`.
-  *(Noted 2026-07-20: this "trois entreprises sélectionnées" award is **satellite licences under the ARE**,
-  and is **not** connected to the WARDIP digital-ID/PKI tender above — a conflation corrected in the same
-  pass.)* Source: [[2026-01-29-satellite-internet-licence-tender-are-techafricanews]]. See
+  direct service. **Outcome: see the 2026-07-07 entry above** (three firms provisionally selected). Source:
+  [[2026-01-29-satellite-internet-licence-tender-are-techafricanews]]. See
   [[infra.connect]], [[include.divides]], [[geopol.usa]].
 - **2026-01-17** — **2026 finance law: 0.1% tax on electronic transactions.** The budget introduced a **0.1%
   levy on electronic transactions above 5,000 MRU** (wallets, payment apps, digital banking) plus **10% on

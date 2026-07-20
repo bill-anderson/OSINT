@@ -228,10 +228,16 @@ last_reviewed: 2026-07-20
   sections in ten Parts, including data-subject rights, breach notification, **cross-border transfer and
   adequacy** (Part VII), and registration of controllers/processors *of significant importance* (Part
   VIII). **s.3(1)(b)** reaches processors outside Malawi that target or monitor people within it.
-  Reported **s.53** gave significant-importance controllers six months to comply (~2024-12-03) and
-  exempted all others until **2026-06-02** — the grace period that explains why enforcement looked absent
-  for two years. Source: [[2024-02-02-malawi-data-protection-act-2024]] (partial capture; s.53 outside the
-  captured range and pending verification). See [[gov.protect]], [[gov.legislate]],
+  **s.53 — now sourced to the statute, not to report.** It exempts controllers and processors that are
+  *not* of significant importance from compliance **"for a period of twenty-four months from the date the
+  act comes into operation"**, and requires those *of* significant importance to comply **"within six
+  months"** of the same date — the grace period that explains why enforcement looked absent for two years.
+  Both clocks run from **commencement**, so the six-month deadline fell ~**2024-12-03** and the
+  twenty-four-month exemption elapsed in **early June 2026**. The commonly cited **2 June 2026** expiry
+  implies a 2 June 2024 commencement, one day off the 3 June 2024 date also reported; the day cannot be
+  settled here because GN 40 is not held (see the note under Active topics). Source:
+  [[2024-02-02-malawi-data-protection-act-2024]] — **full text since the 2026-07-20 verbatim-fidelity
+  re-capture** (the earlier capture broke off in s.6). See [[gov.protect]], [[gov.legislate]],
   [[malawi-data-protection-act-2024]].
 - **2024-03** — **Government Data Centre under construction.** The Malawi Government (via the Public Private
   Partnership Commission) reported its **Lilongwe Government Data Centre** ~51% complete — the local-hosting
@@ -280,8 +286,10 @@ last_reviewed: 2026-07-20
   **[[malawi--tech-ai]]**.
 - [[gov.protect]] · [[infra.cybersec]] · [[gov.legislate]] — the **[[malawi-data-protection-act-2024|Data
   Protection Act 2024]]** (Act No. 3 of 2024; assented 2024-01-31, **in force 2024-06-03**), with
-  **[[macra-malawi|MACRA]]** designated **Data Protection Authority** by **s.4**; general compliance
-  obligations fell due **2026-06-02** under the s.53 grace period. Operational build-out still under way:
+  **[[macra-malawi|MACRA]]** designated **Data Protection Authority** by **s.4**; **s.53** exempted
+  non-significant controllers and processors for **24 months from commencement**, so general compliance
+  obligations fell due in **early June 2026** (reported as 2 June 2026 — the exact day turns on the
+  unheld commencement notice). Operational build-out still under way:
   a World-Bank/[[dmap]]-financed **ToR (Oct 2025)** to design the DPA unit's structure, enforcement
   framework and fee/fine schedule; draft registration regulations and turnover-based fees (2026-07); DPA +
   **MwCERT** to become independent institutions (World Bank TA). Data privacy framed as "cornerstone" /

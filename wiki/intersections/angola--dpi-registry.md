@@ -8,8 +8,8 @@ topics: [dpi.registry, dpi.id, dpi.exchange, digital.localgov, digital.rural, in
 entities: [[bilhete-de-identidade-angola], [ministerio-da-justica-e-dos-direitos-humanos-angola], [ministerio-da-administracao-do-territorio-angola], [base-de-dados-de-cidadaos-maiores-angola], [bdic-angola], [balcao-unico-de-atendimento-ao-publico-angola], [registo-eleitoral-oficioso-angola], [nascer-com-registo-angola], [projecto-njila-angola], [igca-angola]]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-17
-sources: [[2025-11-26-quase-metade-dos-angolanos-sem-bilhete-de-identidade], [2026-03-17-governo-fixa-bi-original-para-registo-de-obitos], [2026-06-12-justica-reforca-emissao-do-bi-registo-eleitoral], [2026-06-19-bengo-inicia-impressao-local-do-bilhete-de-identidade], [2026-06-24-governo-pretende-reduzir-tempo-emissao-bi-48-horas], [2026-07-01-impressao-do-bi-abrange-todas-as-provincias], [2026-07-15-mais-de-120-mil-bilhetes-aguardam-levantamento], [2026-03-04-zaire-inicia-registo-de-recem-nascidos-na-maternidade], [2026-04-06-projecto-njila-reabilita-postos-de-registo-bie-huambo], [2026-06-08-pr-cria-comissao-actualizacao-dados-cidadaos-maiores-bdcm], [2026-06-15-arranca-prova-de-vida-para-actualizacao-do-registo-eleitoral], [2026-02-26-credito-suplementar-275-milhoes-usd-mat-bdcm], [2026-06-20-fraca-cobertura-de-internet-pode-afectar-registo-eleitoral], [2026-04-17-plataforma-digital-legalizacao-de-40-mil-imoveis]]
+last_reviewed: 2026-07-20
+sources: [[2025-11-26-quase-metade-dos-angolanos-sem-bilhete-de-identidade], [2026-03-17-governo-fixa-bi-original-para-registo-de-obitos], [2026-06-12-justica-reforca-emissao-do-bi-registo-eleitoral], [2026-06-19-bengo-inicia-impressao-local-do-bilhete-de-identidade], [2026-06-24-governo-pretende-reduzir-tempo-emissao-bi-48-horas], [2026-07-01-impressao-do-bi-abrange-todas-as-provincias], [2026-07-15-mais-de-120-mil-bilhetes-aguardam-levantamento], [2026-03-04-zaire-inicia-registo-de-recem-nascidos-na-maternidade], [2026-04-06-projecto-njila-reabilita-postos-de-registo-bie-huambo], [2026-06-08-pr-cria-comissao-actualizacao-dados-cidadaos-maiores-bdcm], [2026-06-15-arranca-prova-de-vida-para-actualizacao-do-registo-eleitoral], [2026-02-26-credito-suplementar-275-milhoes-usd-mat-bdcm], [2026-06-20-fraca-cobertura-de-internet-pode-afectar-registo-eleitoral], [2026-04-17-plataforma-digital-legalizacao-de-40-mil-imoveis], [2025-11-20-ine-angola-censo-2024-relatorio-sintese-resultados-definitivos]]
 ---
 
 # Angola × Registries
@@ -19,8 +19,11 @@ simultaneous push to decentralise production of the **[[bilhete-de-identidade-an
 register births at the point of birth, wire the civil-identity and adult-citizen databases
 together, and stand up a 16.7-million-person electoral base ahead of the **2027 general
 elections**. It is a state building its foundational registers under an electoral deadline
-and a hard connectivity constraint — from a base where birth registration was only **63%
-in 2024** ([[2025-11-26-quase-metade-dos-angolanos-sem-bilhete-de-identidade]]).
+and a hard connectivity constraint — from a base where birth registration was only **63.0%
+in 2024** and registration of children aged 0-4 only **39.2% (2024)** — INE, *Relatorio
+Sintese* of the Censo 2024, reference date 2024-09-19
+([[2025-11-20-ine-angola-censo-2024-relatorio-sintese-resultados-definitivos]];
+see also [[2025-11-26-quase-metade-dos-angolanos-sem-bilhete-de-identidade]]).
 
 ## Producing the BI: from one centre to 21 provinces
 
@@ -142,3 +145,4 @@ Resources: [[base-de-dados-de-cidadaos-maiores-angola]] · [[bdic-angola]] ·
 - [[2026-02-26-credito-suplementar-275-milhoes-usd-mat-bdcm]]
 - [[2026-06-20-fraca-cobertura-de-internet-pode-afectar-registo-eleitoral]]
 - [[2026-04-17-plataforma-digital-legalizacao-de-40-mil-imoveis]]
+- [[2025-11-20-ine-angola-censo-2024-relatorio-sintese-resultados-definitivos]]

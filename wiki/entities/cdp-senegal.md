@@ -7,7 +7,7 @@ topics: [gov.protect, gov.legislate]
 lens: []
 status: active
 last_reviewed: 2026-07-20
-sources: [[2026-07-16 Data Protection Laws of Senegal (reference summary)], [2019-05-01 Senegal National Single Registry RNU (IPC-IG research brief 63)], [2026-03-27-aps-donnees-personnelles-legislation-moderniser]]
+sources: [[2026-07-16 Data Protection Laws of Senegal (reference summary)], [2019-05-01 Senegal National Single Registry RNU (IPC-IG research brief 63)], [2026-03-27-aps-donnees-personnelles-legislation-moderniser], [2025-08-01-anec-senegal-digitalisation-etat-civil-aliou-sall], [2026-07-20-senegal-cdp-saly-atelier-projet-loi-protection-donnees]]
 ---
 
 # CDP — Commission de Protection des Données Personnelles (Senegal)

@@ -124,10 +124,18 @@ indicators.
 ### Strategy, governance & data protection — [[gov.policy]] · [[gov.protect]] · [[infra.cybersec]]
 "Gabon Digital"/eGabon strategy under the [[digital-gabon-project]] ([[gabon--dpi-govtech]]); a 2025
 digital-sovereignty ordinance (JO Sept 2025); a data-protection regime running from **loi n°001/2011**
-(promulgated **25 Sept 2011**, creating the CNPDCP), amended by **ordonnance n°00002/PR/2020**
-(**31 Jan 2020**) and by **loi n°025/2023** (adopted **9 July 2023**, promulgated **12 July 2023**,
-*JO* n°218 *Bis* of **15 July 2023**), whose **art. 7 created the [[apdpvp-gabon|APDPVP]]** — the
-authority behind the 2026 DGMP data-destruction enforcement; a cyber posture via **ANINF** (SecBOM, ANINF–**MITRE** US cooperation,
+(promulgated **25 Sept 2011**, creating the CNPDCP), amended by **ordonnance n°00002/PR/2020** (dated
+**31 Jan 2020**, *JO* n°60 *Bis* of **27 Mar 2020**) and by **loi n°025/2023** (adopted **9 July 2023**,
+promulgated **12 July 2023**, *JO* n°218 *Bis* of **15 July 2023**), whose **art. 7 created the
+[[apdpvp-gabon|APDPVP]]** — the authority behind the 2026 DGMP data-destruction enforcement. Both
+amending texts are now held from the gazette, and they settle two points the wiki had not established:
+**art. 219 of the 2023 law gives controllers no compliance grace period** — obligations bind *dès
+publication*, i.e. **from 15 July 2023** — and the 2020 ordonnance created the **RPPVP levy of 1,000 FCFA
+per person per year**, split **40% to the state budget / 60% to the authority**, making the regulator
+partly self-funded from the population whose data it protects. Sources:
+[[2023-07-15-gabon-loi-025-2023-protection-donnees-personnelles]],
+[[2020-03-27-gabon-ordonnance-00002-pr-2020-protection-donnees]].
+A cyber posture via **ANINF** (SecBOM, ANINF–**MITRE** US cooperation,
 Interpol Serengeti 2.0, soft-power-hub strategy) — see [[gabon--infra-cybersec]]. Benchmarks (2024-25):
 **EGDI 121st/193 (0.5741)**; **ITU IDI 76.1/100 (11th of 42 in Africa)**; **ITU GCI 2024 Tier 4
 (39.86/100)** — strong on legal, weak on technical/organisational.

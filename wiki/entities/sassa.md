@@ -7,7 +7,7 @@ topics: [dpi.pay, dpi.id, include.access, include.divides, gov.protect, gov.poli
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-20
-sources: [[2026-01-19 SASSA on qualification criteria for COVID-19 SRD], [2026-01-28 State is blocking access to SASSA grants, argue activists], [2025-04-24 New ID verification process for Sassa grants - Here's who's affected], [2025-08-25 SASSA to Launch Mandatory Biometric Enrollment for Grant Beneficiaries on September 1], [2025-07-06 Home Affairs on launch of world-class new identity verification service and cost], [2025-08-28-sassa-biometric-enrolment-new-beneficiaries-portfolio-committee], [2025-09-18-sassa-beneficiaries-take-up-biometric-enrolment-campaign], [2026-05-18-parliamentary-question-nw1941-sassa-biometric-verification], [2025-03-27-cabinet-statement-26-march-2025]]
+sources: [[2026-01-19 SASSA on qualification criteria for COVID-19 SRD], [2026-01-28 State is blocking access to SASSA grants, argue activists], [2025-04-24 New ID verification process for Sassa grants - Here's who's affected], [2025-08-25 SASSA to Launch Mandatory Biometric Enrollment for Grant Beneficiaries on September 1], [2025-07-06 Home Affairs on launch of world-class new identity verification service and cost], [2025-08-28-sassa-biometric-enrolment-new-beneficiaries-portfolio-committee], [2025-09-18-sassa-beneficiaries-take-up-biometric-enrolment-campaign], [2026-05-18-parliamentary-question-nw1941-sassa-biometric-verification], [2025-03-27-cabinet-statement-26-march-2025], [2025-01-23-institute-for-economic-justice-v-minister-social-development-srd-judgment], [2026-03-26-dha-annual-performance-plan-2026-27]]
 ---
 
 # South African Social Security Agency (SASSA)

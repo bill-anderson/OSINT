@@ -103,6 +103,22 @@ Foundational identity as the anchor of digital public infrastructure.
   [[dpi.pay]], [[GHA]], [[NGA]], [[KEN]], [[RWA]]. Sources:
   [[2025-08-04 93 - Ecosystem Debt or Generative Platforms A Case for Digital Public Infrastructure]],
   [[2021-08-30 31 First we must build Infrastructure]].
+- **[[UGA]] Uganda (2025-06-10) — mandatory ID upheld, one alleged mandate found not to exist.** In
+  *ISER v Attorney General & NIRA* (Misc. Cause 0086 of 2022) the High Court **rejected** the State's
+  argument that s.66 is directory — mandatory ID for social security is settled — but held that **public
+  health is absent from the s.66(2) list**, so no legal requirement of ID for health services exists.
+  Where ID is demanded at health facilities it is **practice without statutory basis**, which relocates
+  the remedy from constitutional challenge to administrative discipline. The court also held the system
+  "cannot be categorized as a digital ID system since in majority of cases it operates offline" — resting
+  on State expert evidence the applicants did not contradict.
+- **[[CMR]] Cameroon — one police-run platform across four populations.** Décret 2025/059 (2025-02-28)
+  governs *titres identitaires* as a class — national ID card, *carte de séjour*, *carte de résident*,
+  *carte de réfugié* and *carte nationale d'invalidité* — on a shared ICAO Doc 9303 / TD1 specification.
+  **DGSN issues all four non-disability types**, a wider perimeter than "national ID card" conveys. The
+  CNI is Chapter II only, and the decree creates no data-protection rights or supervisory authority.
+- **[[AGO]] Angola — coverage from the census rather than the press.** INE's *Censo 2024* records birth
+  registration at **63.0% (2024)**, up from 53.5% (2014); children 0–4 at **39.2%**; and the population
+  aged 5+ holding a *bilhete de identidade* at **52.4%**, urban 63.0% against rural 30.9%.
 
 ## By place
 

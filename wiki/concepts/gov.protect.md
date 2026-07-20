@@ -475,8 +475,8 @@ Personal-data regimes across African jurisdictions — and the friction their
   approved 2024-09-26), **UNHCR's ProGres database transfers to the Ministry of Home Affairs and Internal
   Security** and refugees enrol into **[[inris]]** itself, the citizens' register. The safeguard offered is
   procedural — DNRPC operating procedures "aligned with" the Data Protection Act 2021 — with **no purpose
-  limitation, retention limit, consent mechanism or independent oversight described**. *This is
-  PAD-derived and the PAD is not held (as of 2026-07-20); the held sources do not carry it.*
+  limitation, retention limit, consent mechanism or independent oversight described**. *The PAD (Report No. PADHI00410, 2024-09-05) and the ESMF (2024-12) were ingested 2026-07-20 and
+  are held; the transfer is the project's own Subcomponent 1.2 line item, not a characterisation.*
 - **[[SEN]] Senegal — the law did not move, even through a national-ID breach.** **Law No. 2008-12 of
   25 Jan 2008** remains operative and **unamended as of 2026-03-27**, with a revision bill *"dans le
   circuit"* awaiting a vote. It did not advance through the **February-2026 breach** of the national
@@ -494,6 +494,41 @@ Personal-data regimes across African jurisdictions — and the friction their
   Governance Strategy** and **amendments to the Data Protection Act 2017**, targeting cybersecurity,
   privacy and online safety "particularly for children". **No text or timetable published as of
   2026-07-20.**
+- **[[SSD]] South Sudan (2025-09-16) — a UN body reading a fiscal platform as surveillance
+  infrastructure.** The UN Commission on Human Rights in South Sudan found that the Ministry of Finance
+  approved single-sourcing to Crawford Capital in October 2019 "noting the National Security concern
+  attached to the project", following written advice from **Akol Koor Kuc**, then Director-General of the
+  **Internal Security Bureau**, that Crawford "should work in partnership with the ISB ICT Department
+  since they are aiming to create **huge databases** and integration of services that can be accessed
+  online." The Commission concludes the e-Services are "likely to be used without any consideration for
+  personal data protection to facilitate unlawful State surveillance of citizens, an established tactic
+  of repression in South Sudan." That inference is the Commission's, not this wiki's.
+- **[[GAB]] Gabon — no grace period, and an unresolved derogation.** Art. 219 of loi n°025/2023:
+  *"Les responsables de traitement sont tenus de se conformer dès publication de la présente loi."*
+  Obligations bind **from publication, 2023-07-15** — so the CNIE programme launched June 2024 was in
+  scope from its first enrolment day. Note **art. 75 is an outright biometric prohibition**, making the
+  national biometric ID lawful only via an art. 76 derogation, and **no published APDPVP authorisation
+  covering the 2024 CNIE build has been found (as of 2026-07-20)**. The statute also mis-cross-references
+  that derogation to art. 74 (children's data) rather than art. 75 — a drafting defect in the operative
+  text, recorded rather than read as intended.
+- **Two regulators funded from the population or the offence.** Gabon's ordonnance of 2020 levies
+  **1,000 FCFA per person per year**, collected by controllers, split **40% state / 60% authority**;
+  Angola's **DP 263/25 art. 25** splits receipts **40% Treasury / 30% the Centro Nacional de
+  Cibersegurança / 30% a *Fundo de Cibersegurança*** — the Centro retaining a share of the fines it
+  levies. Both are self-funding models with an obvious incentive question, surfaced independently.
+- **[[SYC]] Seychelles — the transition has already elapsed.** The Data Protection Act 2023 is **Act 24
+  of 2023** (not Act 9): passed 2023-12-05, **assent 2023-12-19**, **commencement 2023-12-22**. s.56(1)
+  runs 18 months from commencement, so the transition ended **2025-06-22**, and s.56(2) makes failure an
+  offence.
+- **[[MWI]] Malawi — an arithmetic that does not close.** s.53 gives non-significant controllers 24
+  months **from commencement** (6 for significant ones). Commencement is recorded as 2024-06-03, which
+  yields *early* June 2026 — but the circulating expiry is **2 June 2026**, implying a 2 June 2024
+  commencement. Government Notice 40 of 2024 is unheld, so the day cannot be settled; the date is carried
+  **as reported, not as sourced**.
+- **[[ZWE]] Zimbabwe — the DPA arrangement is statutory, not administrative.** s.5 of the Cyber and Data
+  Protection Act designates **POTRAZ**, the telecoms regulator, as Data Protection Authority on the face
+  of the statute. Relevant wherever regulator-independence models are compared. **SI 155 of 2024** set a
+  licensing deadline of **2025-03-13**.
 
 ## Places
 

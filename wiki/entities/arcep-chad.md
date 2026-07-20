@@ -6,7 +6,7 @@ places: [TCD]
 topics: [gov.legislate, infra.connect, gov.standards, tech.industry]
 status: active
 last_reviewed: 2026-07-20
-sources: [[2026-02-13 Chad Plans 50 Telecom Sites, 50 km of Fiber in N'Djamena], [2025-10-22-toumaiwebmedias-ratification-ordonnance-011-pr-2025-communications-electroniques], [2026-04-01-tchadinfos-remaniement-gouvernement-haliki-choua-mahamat], [2026-04-08-portail-td-passation-charges-ministere-telecommunications], [2020-07-08-magazinedelafrique-tchad-lancement-pmice-financement-chine]]
+sources: [[2026-02-13 Chad Plans 50 Telecom Sites, 50 km of Fiber in N'Djamena], [2025-10-22-toumaiwebmedias-ratification-ordonnance-011-pr-2025-communications-electroniques], [2026-04-01-tchadinfos-remaniement-gouvernement-haliki-choua-mahamat], [2026-04-08-portail-td-passation-charges-ministere-telecommunications], [2020-07-08-magazinedelafrique-tchad-lancement-pmice-financement-chine], [2014-03-21-tchad-loi-013-pr-2014-regulation-communications-electroniques]]
 ---
 
 # ARCEP Chad (Communications and Postal Regulatory Authority)

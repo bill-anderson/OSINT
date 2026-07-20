@@ -5,11 +5,11 @@ place: UGA
 topic: dpi.id
 places: [UGA]
 topics: [dpi.id, dpi.registry, include.access, include.divides, gov.legislate, gov.protect, gov.policy, dpi.pay, dpi.govtech, digital.rural, infra.cybersec, infra.capacity, geopol.gulf, tech.industry]
-entities: [[nira-uganda], [ndaga-muntu], [registration-of-persons-act-2015], [claire-ollama], [rosemary-kisembo], [tahaluf], [tech5], [mosip], [iritech], [veridos], [iser-uganda], [chrgj], [heapi], [michael-aboneka], [cipesa], [access-now], [article-19], [bank-of-uganda], [ura-uganda], [sage-uganda], [efris], [mvrs-uganda], [ursb], [nick-opiyo], [acme-uganda], [asamo-hellen-grace], [electoral-commission-uganda], [unwanted-witness], [personal-data-protection-office-uganda], [cosase-uganda], [parliament-of-uganda], [office-of-the-auditor-general-uganda], [ministry-of-internal-affairs-uganda], [uganda-bureau-of-statistics], [medard-sseggona]]
+entities: [[nira-uganda], [ndaga-muntu], [registration-of-persons-act-2015], [claire-ollama], [rosemary-kisembo], [tahaluf], [tech5], [mosip], [iritech], [veridos], [iser-uganda], [chrgj], [heapi], [michael-aboneka], [cipesa], [access-now], [article-19], [bank-of-uganda], [ura-uganda], [sage-uganda], [efris], [mvrs-uganda], [ursb], [nick-opiyo], [acme-uganda], [asamo-hellen-grace], [electoral-commission-uganda], [unwanted-witness], [personal-data-protection-office-uganda], [cosase-uganda], [parliament-of-uganda], [office-of-the-auditor-general-uganda], [ministry-of-internal-affairs-uganda], [uganda-bureau-of-statistics], [medard-sseggona], [uganda-security-printing-company], [uganda-printing-and-publishing-corporation], [giesecke-devrient]]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-20
-sources: [[2026-02-11 Uganda migrates more than 28M records to new national ID system], [2025-09-13 Uganda's Digital ID Barrier Worsens as Court Delivers Blow to Access], [2024-10-14 Uganda financial institutions sign on for digital KYC through national ID], [2026-03-02 IriTech provides iris biometrics for Uganda's upgraded registration kits], [2025-05-28 Huge turnout as Nira starts mass registration], [2024-08-19 Uganda Prepares Large-scale Biometric Registration for National ID], [2024-06-05 Ugandan human rights lawyer's arrest exposes use of national ID for surveillance], [2020-01-01 Maintaining civil registration amid COVID-19 - Uganda's mobile notification system (IDRC)], [2025-11-11 URA Launches Tax Filing Season, Announces Shift from TIN to NIN], [2025-12-02 Minister Asamo Calls for Stronger Financial Inclusion for Persons with Disabilities], [2026-05-28 Why decentralized digital identity looks different in every country], [2025-04-02-nira-acquires-high-capacity-id-machines], [2025-04-14-uganda-launching-5-mosip-modules], [2025-05-08-uganda-targets-33m-mass-id-registration], [2025-06-16-museveni-wants-biometric-verification-2026-vote], [2025-06-23-nira-data-protection-mass-id-3-5m], [2025-07-16-5m-ugandans-renew-national-ids], [2025-09-22-nira-tighten-id-security-after-breach], [2025-10-27-enhanced-national-ids-dispatched-districts], [2025-11-12-ura-shift-from-tin-to-nin], [2025-12-29-over-13-3m-national-ids-renewed-extension], [2026-02-09-35-million-registered-national-id-milestone], [2026-02-19-uganda-mosip-brownfield-migration-example], [2024-07-02-nira-iris-scanning-1m-unmatched-fingerprints-ubc], [2024-07-16-nira-cosase-18-million-unregistered-staffing], [2024-07-25-chrgj-iser-heapi-seizing-opportunity-uganda-digital-id], [2024-10-15-nira-press-statement-mass-enrolment-status], [2022-11-24-biometricupdate-uganda-parliament-probe-veridos-card-printing], [2023-04-30-monitor-fight-over-national-id-deal-splits-parliament]]
+sources: [[2026-02-11 Uganda migrates more than 28M records to new national ID system], [2025-09-13 Uganda's Digital ID Barrier Worsens as Court Delivers Blow to Access], [2024-10-14 Uganda financial institutions sign on for digital KYC through national ID], [2026-03-02 IriTech provides iris biometrics for Uganda's upgraded registration kits], [2025-05-28 Huge turnout as Nira starts mass registration], [2024-08-19 Uganda Prepares Large-scale Biometric Registration for National ID], [2024-06-05 Ugandan human rights lawyer's arrest exposes use of national ID for surveillance], [2020-01-01 Maintaining civil registration amid COVID-19 - Uganda's mobile notification system (IDRC)], [2025-11-11 URA Launches Tax Filing Season, Announces Shift from TIN to NIN], [2025-12-02 Minister Asamo Calls for Stronger Financial Inclusion for Persons with Disabilities], [2026-05-28 Why decentralized digital identity looks different in every country], [2025-04-02-nira-acquires-high-capacity-id-machines], [2025-04-14-uganda-launching-5-mosip-modules], [2025-05-08-uganda-targets-33m-mass-id-registration], [2025-06-16-museveni-wants-biometric-verification-2026-vote], [2025-06-23-nira-data-protection-mass-id-3-5m], [2025-07-16-5m-ugandans-renew-national-ids], [2025-09-22-nira-tighten-id-security-after-breach], [2025-10-27-enhanced-national-ids-dispatched-districts], [2025-11-12-ura-shift-from-tin-to-nin], [2025-12-29-over-13-3m-national-ids-renewed-extension], [2026-02-09-35-million-registered-national-id-milestone], [2026-02-19-uganda-mosip-brownfield-migration-example], [2024-07-02-nira-iris-scanning-1m-unmatched-fingerprints-ubc], [2024-07-16-nira-cosase-18-million-unregistered-staffing], [2024-07-25-chrgj-iser-heapi-seizing-opportunity-uganda-digital-id], [2024-10-15-nira-press-statement-mass-enrolment-status], [2022-11-24-biometricupdate-uganda-parliament-probe-veridos-card-printing], [2023-04-30-monitor-fight-over-national-id-deal-splits-parliament], [2018-10-04-veridos-uppc-uganda-security-printing-factory], [2023-03-29-parliament-uganda-cosase-uppc-veridos-contract], [2023-12-05-uspc-who-we-are-constitutive-record], [2024-08-12-uganda-si-67-2024-registration-of-persons-amendment-regulations], [2025-06-10-iser-v-attorney-general-nira-uganda-digital-id-ruling]]
 ---
 
 # Uganda × Digital Identity
@@ -117,18 +117,71 @@ primary chronology:
 
 ## The court: *ISER v Attorney General & NIRA* (dismissed 10 June 2025)
 
-***Initiative for Social and Economic Rights ([[iser-uganda]]) & 2 Others v Attorney General & NIRA*,
-HCT-00-CV-MC-0066-2022, High Court of Uganda — dismissed 10 June 2025.** The applicants challenged the
-mandatory NIN / National ID requirement under the [[registration-of-persons-act-2015]] for services
-including **healthcare and social protection**, arguing disproportionate exclusion of vulnerable
-populations including **older persons and women**.
+**The judgment is now held (acquired 2026-07-20).** ***Initiative for Social and Economic Rights
+([[iser-uganda]]), The Unwanted Witness (U) Ltd & Health Equity and Policy Initiative Ltd v Attorney
+General & NIRA*, Miscellaneous Cause No. 0086 of 2022, High Court of Uganda at Kampala (Civil
+Division), before Hon. Justice Boniface Wamala — dismissed, each party bearing its own costs, 10 June
+2025.**
 
-**Verbatim holding:** *"Uganda's ID system is not 'digital' because it operates primarily offline. A
-person cannot be denied access simply because of lack of internet connectivity."* The Court further
-held that the deponents *"appear to me to be few and isolated cases"* and that the applicants had **not
-adduced sufficient evidence of "actual and systemic exclusion"**. An **amicus curiae** by [[cipesa]],
-**[[article-19]]** and [[access-now]], carrying expert opinions from **Prof. Tom Fisher**, **Dr Reetika
-Khera** and **Prof. Philip Alston**, was unavailing.
+**Citation correction (2026-07-20): the case number is 0086, not 0066.** The ruling is headed
+**Miscellaneous Cause No. 0086 of 2022**. The wiki previously carried **HCT-00-CV-MC-0066-2022**
+throughout, taken from secondary coverage — the applicants themselves circulate the 0066 form. The
+court's own number governs; corrected across this wiki.
+
+The applicants, proceeding under **Article 50 of the Constitution** and the **Human Rights
+(Enforcement) Act**, challenged the use of the National Identification Register as primary data source
+and mandatory means of identification under **ss.65(1)(j) and 66** of the
+[[registration-of-persons-act-2015]] for three things: **[[sage-uganda]] benefits**, **public health
+services**, and **proof of nationality**. They filed **32 affidavits**, 21 of them from named residents
+of Amudat, Kumi, Nebbi, Buliisa, Busia, Kayunga and Namayingo districts.
+
+**All three issues were answered in the negative.** The Court's actual reasoning, which the wiki
+previously held only through advocacy summary:
+
+- **On mandatoriness, the applicants won the point and lost the case.** The Court rejected the State's
+  argument that "shall" in s.66 was directory rather than mandatory: *"In view of the head note and the
+  express provision of section 66 of the Act, it is undebatable as to whether the provision is mandatory
+  or not."* Mandatory use for social security is **established law**, on the Court's own finding.
+- **On exclusion, the evidence failed.** The deponents *"appear to me to be few and isolated cases that
+  could be handled through proper follow up, guidance and assistance rather than as constituting evidence
+  of a failed national ID system."* Deponents claiming wrong dates of birth *"had no evidence of their
+  correct date of birth beyond their word"*, and the Court accepted the State's suggestion of *"a
+  possibility of the persons in issue seeking to adjust their ages for purpose of fitting into the social
+  protection program."*
+- **The "not digital" finding, verbatim.** *"I am convinced that the Ugandan national ID system cannot be
+  categorized as a digital ID system since in majority of cases it operates offline. A person cannot be
+  denied access simply because of lack of internet connectivity."* It rested on **uncontradicted** State
+  evidence — NIRA ED [[rosemary-kisembo]] that the system is offline-verifiable, corroborated by
+  **Jaume Dubois**, a senior digital identity consultant (Consulting ID30). The Court noted *"No contrary
+  evidence was adduced by the applicants to challenge the above highlighted expert evidence."*
+  *(The wiki's previously-quoted "Uganda's ID system is not 'digital' because it operates primarily
+  offline" was a secondary's paraphrase; the text above is the ruling's own.)*
+- **On health, the Court found the opposite of what was alleged — and it matters.** Health services are
+  **not** among the services listed in s.66(2), so *"In law, therefore, there is no requirement for use of
+  the national ID as a primary data source and mandatory means of identification of persons for purpose of
+  access to public health services."* Reported denials at health units were *"isolated incidents … better
+  handled as disciplinary cases rather than as a systemic challenge."* **Any claim that Ugandan law
+  mandates the national ID for healthcare is contradicted by this ruling.**
+- **On privacy and nationality**, the Court found the existing regime — the 1995 Constitution, the
+  **Data Protection and Privacy Act 2019**, ROPA 2015, the Computer Misuse Act 2011 and the Electronic
+  Transactions Act 2011 — *"sets ample parameters"*, and that *"neither lack of an ID nor expiration of
+  one affects a person's nationality."*
+- **The s.83 complaints committee exists.** The Court found it established by **the Registration of
+  Persons (Identification and Registration Committee) (Practice and Procedure) Notice, 2015 (Legal Notice
+  No. 13 of 2015)** — disposing of the applicants' structural-interdict prayer.
+- **A State figure entered the record**: counsel for the respondents told the Court that **over 62% of
+  the national population had enrolled** on the national ID system *(as asserted at hearing; undated in
+  the ruling, and not adopted here as a coverage rate)*, and that SAGE operates **across 117 districts**
+  while NIRA has a registration centre in each of **112 districts**.
+
+**Amici corrected.** The Court admitted **two** sets of amici curiae: **Prof. Philip Alston** on one
+hand, and **[[cipesa]] & 2 Others** on the other. **Dr Thomas Fisher** (Privacy International),
+**Dr Reetika Khera** and **Diana Gichengo** were **affidavit deponents for the applicants, not amicus
+experts** — the wiki previously recorded an amicus by [[cipesa]], [[article-19]] and [[access-now]]
+"carrying expert opinions from" those three. That conflated two different roles and is corrected here.
+*([[article-19]] and [[access-now]] are not named in the ruling; their involvement rests on secondary
+coverage only.)* Source:
+[[2025-06-10-iser-v-attorney-general-nira-uganda-digital-id-ruling]].
 
 **The timing is the point: the Court found "few and isolated cases" on 10 June 2025 — eight months
 before NIRA itself published a 37.3% first-time enrolment rate (11 February 2026).** The exclusion the
@@ -141,10 +194,16 @@ Transformation Roadmap, launched 17 August 2023**, which shifts service provisio
 National ID system, mobile money, **[[efris]]**, the Express Penalty Scheme, Digital Tax Stamps and
 Payment Registration Numbers — **all of which require authentication**.
 
-**The judgment itself is not held by this wiki (GAP-UGA-001)** — the account above rests on DRAA's
-analysis, not the primary. Source:
+*(**GAP-UGA-001 is closed as of 2026-07-20**: the judgment is held. The DRAA critique remains valuable
+as attributed advocacy analysis, but it is no longer the wiki's route to what the Court said.)* Source:
 [[2025-09-13 Uganda's Digital ID Barrier Worsens as Court Delivers Blow to Access]]. See
 [[gov.legislate]], [[include.divides]].
+
+**One rebuttal now testable against the ruling.** Aboneka argues the "offline" finding is contradicted
+by Uganda's own Digital Transformation Roadmap. The ruling shows *why* that argument did not reach the
+Court: the offline finding turned on **unrebutted expert evidence**, and the applicants led no contrary
+technical evidence. The roadmap point was available and was not put in a form the Court had to answer —
+which is a different failure from the one the critique describes.
 
 ## Exclusion mechanics: the bodies the biometrics could not read
 
@@ -285,15 +344,31 @@ December 2023, against the UGX 666.85bn Cabinet approved in August 2022 — the 
 eight months earlier from the committee's side. The staffing line reads directly against the 52%
 vacancy rate below.)* Source: [[2023-04-30-monitor-fight-over-national-id-deal-splits-parliament]].
 
-**The one-year card-validity extension, sourced to the instrument.** With **up to 3.4 million** cards
-expiring between **24 August 2024 and 30 January 2025**, the Minister of Internal Affairs issued
-**Statutory Instrument No. 67 of 2024 — the Registration of Persons (Amendment) Regulations 2024** on
-**12 August 2024** (gazetted the same date), extending every expired card's validity by **one year from
-its date of expiry** and preserving its use under **ss.65–66 of the
-[[registration-of-persons-act-2015]]** for government services and financial transactions. **This is the
-legal device that kept the [[uganda--dpi-pay]] KYC gate from closing on millions mid-exercise** — the
-dependency was load-bearing enough that expiry had to be legislated away rather than met. See
-[[gov.legislate]].
+**The card-validity extension, now read from the instrument itself — and it is not what this page
+said it was.** **Statutory Instrument No. 67 of 2024, the Registration of Persons (Amendment)
+Regulations 2024**, was made by the Minister of Internal Affairs (**Maj Gen Kahinda Otafiire**) under
+**s.85 of the [[registration-of-persons-act-2015]]** on **12 August 2024** and gazetted the same date
+(*Uganda Gazette No. 52 Vol. CXVII, Statutory Instruments Supplement No. 30*). It runs to two operative
+pages and does **one** thing: it amends **regulation 19 of the Registration of Persons Regulations
+2015** so that a national identification card *"shall be valid for **eleven years** from the date of
+issue"*, with a new sub-regulation (1a) providing that a card *"issued by the Authority with a validity
+period of ten years shall be valid for eleven years from the date of issue."*
+
+**The retroactivity is the finding.** The instrument states that it *"shall be deemed to have come into
+force on the 20th day of November, 2015"* — a **retroactive commencement of eight years and nine
+months**. Its effect is to validate, by backdating, cards that had already expired on their printed
+ten-year term. **A state extended the validity of documents already expired rather than reissuing
+them** — and it did so in the same month NIRA's mass renewal was slipping (see the chronology above).
+
+**Correction (2026-07-20).** This page previously described SI 67/2024 as extending validity *"by one
+year from its date of expiry"* and as *"preserving its use under ss.65–66 for government services and
+financial transactions"* — calling it *"the legal device that kept the [[uganda--dpi-pay]] KYC gate from
+closing on millions mid-exercise."* **The instrument says none of that.** It does not mention ss.65–66,
+KYC, financial transactions or SIM registration, and it does not frame the extension as running from
+expiry. The mechanism is a term change from ten to eleven years, applied retroactively. The
+KYC-gate reading is **withdrawn as unsourced**; the **up to 3.4 million cards expiring between 24 August
+2024 and 30 January 2025** figure comes from other reporting, not from the instrument. Source:
+[[2024-08-12-uganda-si-67-2024-registration-of-persons-amendment-regulations]]. See [[gov.legislate]].
 
 **The electoral clock, made explicit.** NIRA ran a **53-day exercise from 27 September to 23 November
 2024** expressly to meet the **[[electoral-commission-uganda|Electoral Commission]]'s 30 November 2024**
@@ -328,10 +403,34 @@ Printing Company)**, which supplied NIRA's blank card stock (1.5m of an expected
 the enrolment system is [[tahaluf]]/[[tech5]]/[[mosip]]. **So Veridos' absence from the 2026 provider
 list signifies nothing** — this retires the standing "do not infer the outcome" caveat.
 
-*Not established (2026-07-20): the contract mechanics — a €64.2m 2010 Mühlbauer award, the 2016 UPPC
-joint venture, a 2017-07-03 award over De La Rue, and the USPC ownership split — entered the wiki from
-reconcile-pass research and are **not in any held source**. Carried as unverified on [[veridos]]; see
-**ACQ-UGA-USPC**. No cost figure for USPC card production is on file.* Sources:
+**The JV, now sourced — and three prior claims settled (2026-07-20).** Veridos announced on
+**4 October 2018** a **15-year partnership** with the Government of Uganda covering all production of
+security documents, under which **USPC** was created with **UPPC**; scope included a security printing
+factory for **ePassports and polycarbonate ID cards** plus Veridos' **IMAGO** identity-management
+platform. USPC's own constitutive record gives the ownership: **Government 51% through UPPC**, and
+**49% held by a consortium of Veridos GmbH *and* Giesecke+Devrient GmbH** — not Veridos alone. USPC was
+**formulated in November 2018** as an SPV to revamp UPPC, is a **State Owned Enterprise**, and is
+supervised by the **Office of the President** and **MoFPED**.
+
+**This corrects the wiki's "2016-06-11 UPPC joint venture" by 28 months**, confirms the **15-year term**,
+and **corrects the counterparty** on the 49%. The unverified caveat is **retired for those three**.
+
+**The procurement was contested (event 30 March 2023).** Parliament's [[cosase-uganda|COSASE]], under
+**Joel Ssenyonyi**, questioned the **Privatisation Unit of the Ministry of Finance** on whether Veridos
+had been handpicked — Hon. **Nathan Itungo**: *"What are the odds that a German company would know there
+are security gaps in printing processes of a national entity in Uganda?"* Officials confirmed
+**correspondence from the Ministry of the Presidency to the Ministry of Finance** about Veridos' interest,
+and maintained an evaluation committee had run legal and financial due diligence under Attorney General
+guidance. The committee demanded the full procurement file within a day; **no outcome is on the published
+record**. *(Parliament posted 29 March 2023; its own body dates the meeting to 30 March 2023 — the event
+date is the 30th.)* Source: [[2023-03-29-parliament-uganda-cosase-uppc-veridos-contract]].
+
+*Still not established (2026-07-20): a **€64.2m 2010 Mühlbauer award**, the **UGX 59.952bn Kololo plant
+cost**, and a **2017-07-03 award over De La Rue** remain in no held source — carried as unverified on
+[[veridos]]. No cost figure for USPC card production is on file.* Sources:
+[[2018-10-04-veridos-uppc-uganda-security-printing-factory]],
+[[2023-12-05-uspc-who-we-are-constitutive-record]],
+[[2023-03-29-parliament-uganda-cosase-uppc-veridos-contract]],
 [[2022-11-24-biometricupdate-uganda-parliament-probe-veridos-card-printing]],
 [[2023-04-30-monitor-fight-over-national-id-deal-splits-parliament]],
 [[2025-05-28 Huge turnout as Nira starts mass registration]],
@@ -470,7 +569,13 @@ audit has not been posted, though the consolidated FY2024/25 report has. The fin
 **cannot register deaths** — which is what makes the 35m register a cumulative, un-deregistered count —
 is load-bearing on this page and currently rests on a document the public record does not yet contain.
 
-A **different** parliamentary primary was acquired instead and is staged in `new/`: Parliament of
+A **different** parliamentary primary was acquired instead and is now held: Parliament of
 Uganda's own record of the COSASE hearing of **30 March 2023** into the Privatisation Unit's
 selection of Veridos for the UPPC joint venture. It bears on the same vendor spine but is an earlier,
 separate session, and it carries no figures.
+
+**Closed this pass (2026-07-20).** The **ISER judgment** (GAP-UGA-001) and the **USPC constitutive
+record + Veridos JV announcement** (ACQ-UGA-USPC, in part) are now held. **Newly wanted:** the
+**JVA instrument itself**, a **Uganda Gazette** notice or **PPDA** record for the 2017–18 Veridos
+award, and any **COSASE report** arising from the 30 March 2023 document demand — none of which
+Parliament of Uganda publishes.

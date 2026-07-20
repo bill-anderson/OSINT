@@ -7,7 +7,7 @@ topics: [dpi.id, gov.legislate, gov.protect, infra.cybersec, infra.connect]
 lens: []
 status: active
 last_reviewed: 2026-07-18
-sources: [[2026-01-16 Mauritania Steps Up Pressure on Telecom Operators Over Biometric Identification], [2026-01-29-satellite-internet-licence-tender-are-techafricanews], [2026-04-15-5g-provisional-licence-winners-techafricanews]]
+sources: [[2026-01-16 Mauritania Steps Up Pressure on Telecom Operators Over Biometric Identification], [2026-01-29-satellite-internet-licence-tender-are-techafricanews], [2026-04-15-5g-provisional-licence-winners-techafricanews], [2026-07-07-mauritanie-trois-entreprises-selectionnees-services-telecoms-satellite]]
 ---
 
 # Telecommunications Regulatory Authority (ARE)

@@ -9,7 +9,7 @@ entities: [[orange-centrafrique], [socatel], [arcep-central-african-republic], [
 lens: [colonialism, sovereignty]
 status: active
 last_reviewed: 2026-07-20
-sources: [[2017-01-01 ITU Country Profile - Central African Republic], [2024-02-23 Digital 2024 - The Central African Republic], [2024-11-11 Orange secures 4G license in Central African Republic], [2025-05-22 RCA - Touadera mise sur la transformation numerique pour revitaliser l'economie], [2025-05-19-rca-orange-lance-la-4g-wearetech], [2025-12-22-telecel-centrafrique-4g-licence-telecelgroup], [2026-04-21-universal-service-fund-2026-arcep-budget-agenceecofin], [2026-05-25-south-sudan-internet-interconnection-mtn-africabusinessinsight], [2025-07-30-car-taux-penetration-internet-30-pourcent], [2025-03-03-datareportal-digital-2025-central-african-republic], [2025-11-08-datareportal-digital-2026-central-african-republic], [2025-07-21-sos-telecoms-licence-infrastructures-passives-oubanguimedias], [2025-09-18-greenline-socatel-privatisation-mou-greenline], [2026-07-17-socatel-greenline-relance-150m-agenceecofin]]
+sources: [[2017-01-01 ITU Country Profile - Central African Republic], [2024-02-23 Digital 2024 - The Central African Republic], [2024-11-11 Orange secures 4G license in Central African Republic], [2025-05-22 RCA - Touadera mise sur la transformation numerique pour revitaliser l'economie], [2025-05-19-rca-orange-lance-la-4g-wearetech], [2025-12-22-telecel-centrafrique-4g-licence-telecelgroup], [2026-04-21-universal-service-fund-2026-arcep-budget-agenceecofin], [2026-05-25-south-sudan-internet-interconnection-mtn-africabusinessinsight], [2025-07-30-car-taux-penetration-internet-30-pourcent], [2025-03-03-datareportal-digital-2025-central-african-republic], [2025-11-08-datareportal-digital-2026-central-african-republic], [2025-07-21-sos-telecoms-licence-infrastructures-passives-oubanguimedias], [2025-09-18-greenline-socatel-privatisation-mou-greenline], [2026-07-17-socatel-greenline-relance-150m-agenceecofin], [2023-02-08-afdb-inauguration-dorsale-optique-nationale-rca], [2022-03-07-worldbank-pad4661-car-public-sector-digital-governance]]
 ---
 
 # Central African Republic × Connectivity
@@ -47,6 +47,32 @@ cross-border/transit component was **cancelled** — attributed to reluctance to
 international-gateway monopoly and institutional instability — keeping prices high. Inadequate
 **electricity** (see [[infra.energy]]; ~14% access) and weak national backbone throttle network
 expansion.
+
+**The backbone that *was* delivered — 935 km, inaugurated 6 February 2023.** The cancelled World Bank CAB
+transit component is **not** the whole CAB story, and the two should not be conflated. A separate
+**AfDB- and EU-financed** national leg, **executed 2018–2023**, was inaugurated in Bangui on **6 Feb 2023**
+by President **[[faustin-archange-touadera]]**, with the AfDB's release carried **8 Feb 2023**. Delivered
+scope, per the announcer of record: **935 km of terrestrial and sub-fluvial fibre** — the first sections of
+the national optical backbone — running the **Bangui–Douala road corridor** (Bossembélé, Yaloké, Baoro),
+down to **Berbérati** and splitting into two spurs interconnecting **Cameroon (via Gamboula)** and
+**Congo (via Bomassa)**; a **digital training centre and incubator at the University of Bangui**; a
+**cybersecurity and e-certification platform**; and technical assistance to the MDEPT to create the **Agence
+centrafricaine de développement du digital**. It is framed as CAR's arrival at the coastal neighbours'
+submarine-cable landing points and, in the AfDB representative's words, the end of the country's *"enclavement
+digital"* — and by the EU as a **Global Gateway** flagship ([[global-gateway]]). Source:
+[[2023-02-08-afdb-inauguration-dorsale-optique-nationale-rca]].
+
+**Sequence it against the World Bank's own 2022 baseline.** Eleven months before that inauguration, the
+Bank's P174620 appraisal (**7 Mar 2022**) still recorded that CAR *"lacks an international and national fiber
+optic backbone network"*, with almost all international capacity on satellite, **1 GB costing 19.4% of GNI
+per capita (2020, Cable.co.uk)**, mobile-broadband penetration at **9% (2021, GSMA)** against **33%** for
+Sub-Saharan Africa, and fixed broadband **below 0.1%** — bottom five worldwide. The 935 km of 2023 and the
+**1,200 km** the minister claimed by **July 2025** are the build against that baseline. Source:
+[[2022-03-07-worldbank-pad4661-car-public-sector-digital-governance]].
+
+*(A divergent figure of 900 km / €33m is attributed on [[car-national-datacentre]] to Corbeau News,
+2025-04-29; **that source is not held in `raw/`**. The AfDB is the announcer of record and its 935 km is
+preferred.)*
 
 **The 4G sequence is now complete (2024→26).** What the wiki held as "first 4G licence" is now a full
 set: **Orange** (licence 7 Nov 2024, commercial launch **15 May 2025** in Bangui/Bouar/Berbérati/Bossangoa
@@ -131,3 +157,5 @@ Place: [[CAF]] · Concepts: [[infra.connect]] · [[include.divides]] · [[infra.
 - [[2025-07-21-sos-telecoms-licence-infrastructures-passives-oubanguimedias]]
 - [[2025-09-18-greenline-socatel-privatisation-mou-greenline]]
 - [[2026-07-17-socatel-greenline-relance-150m-agenceecofin]]
+- [[2023-02-08-afdb-inauguration-dorsale-optique-nationale-rca]]
+- [[2022-03-07-worldbank-pad4661-car-public-sector-digital-governance]]

@@ -7,7 +7,7 @@ topics: [gov.protect, gov.policy, gov.regional, dpi.exchange]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-14
-sources: [[2022-02-01 AU Data Policy Framework], [2026-01-12 (3) Africa's Digital Policy Review 2025 in Perspective and Outlook for 2026], [2026-01-21 How Africa and Europe could create global AI governance rules], [2026-06-08 Kenyan Citizens Took A $2.5 Billion Deal With America To Court To Fight For Their Health Data], [2026-07-13 D4D Hub on Sao Tome and Principe]]
+sources: [[2022-02-01 AU Data Policy Framework], [2026-01-12 (3) Africa's Digital Policy Review 2025 in Perspective and Outlook for 2026], [2026-01-21 How Africa and Europe could create global AI governance rules], [2026-06-08 Kenyan Citizens Took A $2.5 Billion Deal With America To Court To Fight For Their Health Data], [2026-07-13 D4D Hub on Sao Tome and Principe], [2025-07-28-lesotho-advances-digital-future-audpf-data-governance]]
 ---
 
 # African Union Data Policy Framework (AUDPF)

@@ -293,15 +293,19 @@ The third is **evidentiary**: the headline numbers disagree. Penetration spans *
   protection custody to a national-security ministry, with a procedural safeguard ("aligned with"
   the **Data Protection Act 2021**) and **no purpose limitation, retention limit, consent
   mechanism or independent oversight described**. Population per the PAD: **101,837** refugees
-  and former refugees (2024-09). **Provenance split, and it matters:** the ingested press
-  release carries only the **approval, the announcement date and "$30 million" / "over
-  100,000 refugees"**. Everything sharper here — the **$27m/$3m split**, the **$6m identity
-  limb**, the **three districts**, the **150,000-of-20-million card procurement**, the
-  **101,837** count and the **ProGres transfer** — comes from the **PAD and ESMF (P503941,
-  PADHI00410), which the wiki does not hold**; they are queued on
-  `reviews/acquisitions.md`. Carry these as PAD-derived pending acquisition. See [[zrhcp]],
-  [[gov.protect]], [[include.divides]]. Source:
-  [[2024-09-27-world-bank-zambia-refugee-host-communities-grant]].
+  and former refugees (2024-09). **The primaries are now held (ingested 2026-07-20)**: the
+  **$27m/$3m split**, the **$6m identity limb**, the **three districts**, the
+  **150,000-of-20-million card procurement**, the **101,837** count and the **ProGres
+  transfer** rest on the project's **PAD (PADHI00410, 2024-09-05)** and **ESMF (2024-12)**,
+  not on reconcile-pass reading of undisclosed text; the earlier "not held" caveat is
+  retired. The PAD's own words for the transfer: *"Transfer of the UNHCR ProGres database to
+  the MoHAIS (separate servers and peripheral equipment)"*. **One figure stays unreconciled:**
+  the PAD gives Subcomponent 1.2 at **US$6m / ~150,000 cards**, the ESMF at **US$6.5m /
+  ~100,000** — a divergence inside one project's own documentation, carried rather than
+  resolved. See [[zrhcp]], [[gov.protect]], [[include.divides]]. Sources:
+  [[2024-09-27-world-bank-zambia-refugee-host-communities-grant]],
+  [[2024-09-05-worldbank-zambia-zrhcp-pad-padhi00410]],
+  [[2024-12-01-worldbank-zambia-zrhcp-environmental-social-management-framework]].
 - **2024-09-13** — **Land administration goes digital — a thread previously absent from the wiki.**
   **[[zilas]]**, deployed by SZI's **E-Government Division** for the [[ministry-of-lands-zambia]]:
   **100% digital**, web and mobile, via the **Government Service Bus at gsb.gov.zm**. A four-day
@@ -410,6 +414,15 @@ The third is **evidentiary**: the headline numbers disagree. Penetration spans *
   (live as of 2026-01), in **2,000+ facilities (2026-07)**; **SmartCare 2.0 – Hospital Edition**
   (the "Care 2.0" of the GovLink coverage) piloting at three Copperbelt hospitals since
   **2026-04-27**. *Implementer-authored and promotional; no independent evaluation held.*
+  **The lineage is now primary-sourced (2026-07-20).** The Ministry of Health's own *ICT Standards
+  and Guidelines* (**January 2014**) states that "SmartCare is the approved patient level health
+  care information system, in accordance to the circular of **5th April, 2006** from the office of
+  the Permanent Secretary" — the first held primary for the approval. **The date is contested by
+  the programme's own materials:** the SmartCare Pro programme-managers deck (**2025-03**, proxy
+  date) puts "SmartCare approved as MoH standard" at **2009**, against the standards document's
+  **2006** circular. Both recorded; neither adopted. Sources:
+  [[2014-01-01-moh-zambia-ict-standards-and-guidelines]],
+  [[2025-03-01-smartcare-pro-programme-managers-presentation]].
 - [[dpi.pay]] · [[include.access]] · [[finance.mou]] — ZamPay, mobile money, DFS; the PAYZ State House
   partnership. · [[dpi.exchange]] — ZamConnect; the Mozambique interconnector. Full case:
   [[zambia--dpi-pay]].

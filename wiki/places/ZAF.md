@@ -83,8 +83,11 @@ paid. **The government's arithmetic corroborates the plaintiffs.** Full case:
   "**hosted within the SARS environment**", while SARB appears only under *Assumptions* — "**SARB,
   banks and telecom partners collaborate on integration**". Sources:
   [[2025-07-03 Deputy Minister Njabulo Nzuza - Home Affairs Dept Budget Vote 2025-26, NCOP]],
-  [[2026-03-30-dha-annual-performance-plan-2026-27-digital-identity]] (**the primary that settles it**).
-- **2026-03-30 (tabled)** — **DHA Annual Performance Plan 2026/27 — the digital-ID architecture, in
+  [[2026-03-30-dha-annual-performance-plan-2026-27-digital-identity]] (**the primary that settles it** —
+  the *Assumptions* line sits in the technical-indicator annexure, held only on that page),
+  [[2026-03-26-dha-annual-performance-plan-2026-27]] (**the full plan**, corroborating "hosted within
+  the SARS hosting environment" in the narrative and target tables).
+- **2026-03 (finalised 26 March; tabling month only)** — **DHA Annual Performance Plan 2026/27 — the digital-ID architecture, in
   the department's own words.** **FY2026/27's sole digital-ID target is *hosting infrastructure*, not
   launch**: "establishment and completion of the hosting infrastructure for PKI and Digital Identity
   within the SARS hosting environment", signed off by **DDG:CS in Q4** — i.e. **by 31 March 2027**,
@@ -94,9 +97,13 @@ paid. **The government's arithmetic corroborates the plaintiffs.** Full case:
   banks** (of ten named) covering biometric enrolment, courier logistics and API integration; the
   APP also states digital identity and e-Passports "**by 2029**". Full architecture (PKI, CA,
   verifiable credentials, wallets, offline QR) and the SARS/SARB split:
-  **[[south-africa--dpi-id]]**. Source:
-  [[2026-03-30-dha-annual-performance-plan-2026-27-digital-identity]] (*excerpt — digital-identity
-  sections of a ~200-page tabled document*).
+  **[[south-africa--dpi-id]]**. Sources:
+  [[2026-03-26-dha-annual-performance-plan-2026-27]] (**the full plan, acquired 2026-07-20** —
+  Parts A–D and target tables; supersedes reliance on the extracts),
+  [[2026-03-30-dha-annual-performance-plan-2026-27-digital-identity]] (*retained for the
+  technical-indicator annexure, which falls beyond the fuller capture's 200k cap*). **Date:** the
+  plan states its tabling only as "**March 2026**"; **26 March** is its finalisation date and the
+  **30 March** tabling date is not supported by the document text.
 - **2025-07-01 (announced 2025-07-06)** — **The OVS repair, and the DHA's own defence of the fee.**
   The relaunched **Online Verification Service** against the NPR went live; the DHA says the old one
   "had broken down to the point where **over half of all verification attempts failed**". The justice

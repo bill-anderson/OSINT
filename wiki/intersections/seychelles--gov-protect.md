@@ -8,8 +8,8 @@ topics: [gov.protect, gov.legislate, gov.standards, dpi.exchange, infra.cybersec
 entities: [[data-protection-act-2023-seychelles], [information-commission-seychelles], [dict-seychelles], [tech-hive-advisory]]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-19
-sources: [[2024-03-25 Data Protection Law Now In Force In Seychelles], [2024-06-04 Review of Seychelles DPA], [2025-07-15-bankinfosecurity-scb-data-breach], [2025-07-29-resecurity-seychelles-bank-breach-analysis], [2026-01-28-infocom-data-protection-day-2026], [2025-11-10-infocom-atia-reform-whitepaper]]
+last_reviewed: 2026-07-20
+sources: [[2023-12-22-seychelles-data-protection-act-2023-act-24], [2024-03-25 Data Protection Law Now In Force In Seychelles], [2024-06-04 Review of Seychelles DPA], [2025-07-15-bankinfosecurity-scb-data-breach], [2025-07-29-resecurity-seychelles-bank-breach-analysis], [2026-01-28-infocom-data-protection-day-2026], [2025-11-10-infocom-atia-reform-whitepaper]]
 ---
 
 # Seychelles × Data Protection
@@ -24,11 +24,15 @@ comes with an enforcer. The transitional window has since **elapsed**.
   TechHive Advisory describes as enacted but never implemented, and as "one of the earliest
   attempts to enact a law in Africa." The 2023 Act is the first Seychelles privacy law with an
   actual authority, an expanded set of data-subject rights and a cross-border transfer regime.
-- **Two dates, kept apart.** The Act was **enacted 19 December 2023** (TechHive Advisory, following
-  a public consultation [[dict-seychelles]] opened in August 2023); the **18-month transitional
-  period runs from 22 December 2023** (Appleby). These are most likely **enactment versus
-  commencement** rather than a conflict — but **no primary held here settles it** (the Act as
-  gazetted is not in this wiki). Sources: [[2024-06-04 Review of Seychelles DPA]],
+- **Two dates, now settled from the gazette.** The gazetted text — **Act 24 of 2023** — carries
+  both: the signature block **"I assent / Wavel Ramkalawan, President, 19th December, 2023"**
+  (**assent**) and the gazette enacting date **"[22 December 2023]"** (**coming into operation**).
+  They are two events, not a conflict. TechHive Advisory's "enacted 19 December" was the assent
+  (following a public consultation [[dict-seychelles]] opened in August 2023); Appleby correctly
+  attached the transitional period to the 22 December commencement. The Bill passed the National
+  Assembly **5 December 2023**. Source:
+  [[2023-12-22-seychelles-data-protection-act-2023-act-24]]; earlier secondaries
+  [[2024-06-04 Review of Seychelles DPA]],
   [[2024-03-25 Data Protection Law Now In Force In Seychelles]].
 - **[[information-commission-seychelles]] as the authority (s.5).** Designated — not
   purpose-built: the Commission was **created under the Access to Information Act** and then named
@@ -44,11 +48,13 @@ comes with an enforcer. The transitional window has since **elapsed**.
 
 ## Currency: the transition has passed
 
-Eighteen months from **22 December 2023** elapsed **around 22 June 2025**. As of **2026-07-17**
-Seychelles controllers and processors are therefore to be read as **subject to the Act in full** —
-not as sitting in a transition. No source held here reports what happened at expiry, nor any
-investigation, audit, fine or guidance by the Commission: a coverage gap, not evidence of
-inactivity.
+**s.56(1)** gives pre-commencement controllers and processors **18 months from the coming into
+operation** to conform; **s.56(2)** makes failure an **offence**. Running from commencement
+(**22 December 2023**), that expired **22 June 2025**. As of **2026-07-20** Seychelles controllers
+and processors are therefore to be read as **subject to the Act in full** — not as sitting in a
+transition. No source held here reports what happened at expiry, nor any investigation, audit,
+fine or guidance by the Commission: a coverage gap, not evidence of inactivity. Source:
+[[2023-12-22-seychelles-data-protection-act-2023-act-24]].
 
 ## The offshore-banking cyber breach (2025)
 

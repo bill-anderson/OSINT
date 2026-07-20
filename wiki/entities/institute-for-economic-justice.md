@@ -7,7 +7,7 @@ topics: [include.access, include.divides, dpi.pay, gov.legislate, capacity.liter
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-17
-sources: [[2026-01-28 State is blocking access to SASSA grants, argue activists]]
+sources: [[2026-01-28 State is blocking access to SASSA grants, argue activists], [2025-01-23-institute-for-economic-justice-v-minister-social-development-srd-judgment]]
 ---
 
 # Institute for Economic Justice (IEJ)

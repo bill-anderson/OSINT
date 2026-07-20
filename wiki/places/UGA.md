@@ -195,7 +195,9 @@ days, two days before a presidential election — reminding every layer above it
   Big-Tech enforcement (Ssekamwa v **Google** 2025; AdLegal v **WhatsApp/Meta** 2026 — extraterritorial
   reach, cross-border adequacy, "material harm" incl. dignity); first local prosecution (Vuka Africa);
   "Beera Ku Guard" awareness campaign; the CIPESA digital-rights dialogue. Set against the **ISER judgment
-  (10 June 2025)** (→ [[uganda--dpi-id]]), DPI deployed with weak safeguards (World Bank, ID4Africa 2026),
+  (*Misc. Cause No. 0086 of 2022*, 10 June 2025 — the primary is now held; the Court found s.66 mandatory
+  for social security but found **no legal requirement** of ID for public health)** (→ [[uganda--dpi-id]]),
+  DPI deployed with weak safeguards (World Bank, ID4Africa 2026),
   and selective DPPA enforcement around the 2026 polls — robust vs the private sector, permissive of the
   state. Also: no central-bank guidance on AI in lending.
 - [[tech.ai]] · [[infra.store]] · [[infra.capacity]] — the AI story extracted: **[[uganda--tech-ai]]**

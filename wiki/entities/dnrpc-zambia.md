@@ -7,7 +7,7 @@ topics: [dpi.id, dpi.registry, gov.protect, include.access, digital.rural, data.
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-17
-sources: [[2024-09-17 DPI Safeguards come online in Zambias next phase of digital integration], [2025-12-28 Over 1.3 Million Citizens Enrolled on INRIS], [2025-04-11 Zambia commences nationwide mobile campaign for issuance of 3.5M ID documents], [2025-06-12 Zambia says using multiple strategies to meet 50 percent birth registration goal by 2026], [2025-08-12 Zambia sees civil registration as bedrock of inclusive digital transformation]]
+sources: [[2024-09-17 DPI Safeguards come online in Zambias next phase of digital integration], [2025-12-28 Over 1.3 Million Citizens Enrolled on INRIS], [2025-04-11 Zambia commences nationwide mobile campaign for issuance of 3.5M ID documents], [2025-06-12 Zambia says using multiple strategies to meet 50 percent birth registration goal by 2026], [2025-08-12 Zambia sees civil registration as bedrock of inclusive digital transformation], [2024-09-05-worldbank-zambia-zrhcp-pad-padhi00410], [2024-12-01-worldbank-zambia-zrhcp-environmental-social-management-framework]]
 ---
 
 # Department of National Registration, Passport and Citizenship (DNRPC)

@@ -7,7 +7,7 @@ topics: [dpi.id, dpi.registry, dpi.exchange, gov.standards, gov.protect, capacit
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-17
-sources: [[2024-09-17 DPI Safeguards come online in Zambias next phase of digital integration], [2025-12-28 Over 1.3 Million Citizens Enrolled on INRIS], [2025-01-17 Zambia Advances Digital ID System with MOSIP Training for Healthcare Integration], [2025-06-12 Zambia says using multiple strategies to meet 50 percent birth registration goal by 2026], [2025-10-03 Zambia plans domestic digital ID development with help from international partners]]
+sources: [[2024-09-17 DPI Safeguards come online in Zambias next phase of digital integration], [2025-12-28 Over 1.3 Million Citizens Enrolled on INRIS], [2025-01-17 Zambia Advances Digital ID System with MOSIP Training for Healthcare Integration], [2025-06-12 Zambia says using multiple strategies to meet 50 percent birth registration goal by 2026], [2025-10-03 Zambia plans domestic digital ID development with help from international partners], [2024-09-05-worldbank-zambia-zrhcp-pad-padhi00410], [2024-12-01-worldbank-zambia-zrhcp-environmental-social-management-framework]]
 ---
 
 # Integrated National Registration Information System (INRIS)

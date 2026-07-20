@@ -7,7 +7,7 @@ topics: [finance.new, gov.policy, gov.regional, infra.store, data.statistics, dp
 lens: [sovereignty, colonialism]
 status: active
 last_reviewed: 2026-07-20
-sources: [[2026-04-13-pamif-financial-inclusion-afdb], [2026-05-26 AfDB says Africa must fund its own growth as aid model frays], [2026-02-26 The AfDB's push for African financial sovereignty, and a tech investment rebound], [2025-05-14 Cabo Verde unveils TechPark CV tech-islands vision ($50m AfDB)], [2025-05-16 Cabo Verde opens Mindelo TechPark CV campus ($58M)], [2025-10-01 BCEAO Launches Instant Payments Platform in Togo with Three Banks], [2026-07-17-kutanapay-ai-blockchain-cross-border-trade], [2024-05-17-afdb-congo-national-data-centre-digital-sovereignty]]
+sources: [[2026-04-13-pamif-financial-inclusion-afdb], [2026-05-26 AfDB says Africa must fund its own growth as aid model frays], [2026-02-26 The AfDB's push for African financial sovereignty, and a tech investment rebound], [2025-05-14 Cabo Verde unveils TechPark CV tech-islands vision ($50m AfDB)], [2025-05-16 Cabo Verde opens Mindelo TechPark CV campus ($58M)], [2025-10-01 BCEAO Launches Instant Payments Platform in Togo with Three Banks], [2026-07-17-kutanapay-ai-blockchain-cross-border-trade], [2024-05-17-afdb-congo-national-data-centre-digital-sovereignty], [2023-02-08-afdb-inauguration-dorsale-optique-nationale-rca], [2025-11-28-car-systeme-national-identite-numerique-snid]]
 ---
 
 # African Development Bank (AfDB)

@@ -319,6 +319,29 @@ political-economy spine to the entries above.
 - **[[TCD]] Chad — the ISP market is officially too thin for entry (2025-10-22).** The telecoms minister
   told the National Assembly that conditions do not support a new ISP entrant, past public calls for
   candidates having failed — while **Starlink holds a multiservice licence granted without tender**.
+- **[[ZWE]] Zimbabwe — the generation the AI strategy is premised on has no rural footprint.** POTRAZ's
+  Q4-2025 report gives **5G at 18.9% population coverage and 0.0% of rural areas**, against 3G at 73.7%
+  rural. The report is also the definitional anchor for the penetration series: "internet penetration
+  rate" is derived in-sentence from a subscriptions count (13,252,877 → **84.55%**), which is what
+  separates it from DataReportal's 38.4% usage figure. *The fibre figures reconcile rather than conflict:
+  14,357 km (Q4 2025) × 1.3383 = 19,212, matching the held "+33.8% to surpass 19,000 km" for Q1 2026.*
+- **[[TUN]] Tunisia — two instruments, now both documented.** The **EBRD €190m** facility to Tunisie
+  Telecom (**Board approval 2024-07-24**, announced 2026-01-16) lists *"connection to the EU-supported
+  MEDUSA submarine cable"* as its **first use of proceeds** — TT connecting as a capacity customer. The
+  **Bizerte landing station Orange owns** was built under a separate **EU CEF-Digital grant of €9.6m
+  within a €32m project budget** (exactly 30%), running 2023-03-01 to 2025-08-31; the EC record states
+  **no grant-agreement signature date**, so the "signed December 2022" previously carried is not
+  supported. Neither instrument is the other.
+- **[[LBY]] Libya — a 2019 fact, not a 2026 one.** The Tripoli data-centre module and the Benghazi
+  Tier-3 partnership are **the same 2019 engagement one week apart** (Libya Herald 2019-10-09; DCD
+  2019-10-15), not a project scaled down over seven years — that reading was an artefact of a re-crawl
+  date. What became of the facility is **unestablished as of 2026-07-20**.
+- **[[CAF]] Central African Republic — the backbone, dated.** **935 km** inaugurated **2023-02-06**
+  (AfDB/EU, executed 2018–2023), interconnecting Cameroon and Congo, with a cybersecurity and
+  e-certification platform delivered alongside. Baseline eleven months earlier: 1 GB at **19.4% of GNI
+  per capita (2020)**, mobile broadband **9% (2021)** against 33% for Sub-Saharan Africa.
+- **[[MRT]] Mauritania — GEO satellite licensing (2026-07).** Against **55% non-users (2024, ITU)** and
+  5 GB costing **2.94% of GNI per capita (2025)** against the 2% affordability benchmark.
 
 ## By place
 

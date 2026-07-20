@@ -7,7 +7,7 @@ topics: [finance.new, infra.connect, dpi.exchange, capacity.training, geopol.eu,
 lens: []
 status: active
 last_reviewed: 2026-07-20
-sources: [[2026-01-16-ebrd-tunisie-telecom-190m-medusa], [2026-03-24 Nigeria EU Announces New €290m Investments in Nigeria], [2026-01-27 Kenya launches project to boost cyber security], [2026-07-05 Post by DHIS2 on LinkedIn], [2026-05-18 Europe Wrote The World's Most Advanced AI Law. The EU AI Act], [2026-06-08 Kenya Wants to Sell Your Data. But It's Complicated], [2026-04-18-pata-polele-digitalisation-paiements-ndjonisango]]
+sources: [[2026-01-16-ebrd-tunisie-telecom-190m-medusa], [2026-03-24 Nigeria EU Announces New €290m Investments in Nigeria], [2026-01-27 Kenya launches project to boost cyber security], [2026-07-05 Post by DHIS2 on LinkedIn], [2026-05-18 Europe Wrote The World's Most Advanced AI Law. The EU AI Act], [2026-06-08 Kenya Wants to Sell Your Data. But It's Complicated], [2026-04-18-pata-polele-digitalisation-paiements-ndjonisango], [2023-02-08-afdb-inauguration-dorsale-optique-nationale-rca], [2025-11-28-car-systeme-national-identite-numerique-snid]]
 ---
 
 The **European Union (EU)** is a supranational political and economic union of

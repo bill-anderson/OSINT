@@ -6,7 +6,7 @@ places: [XGL, XAF, BEN, RWA, TZA, STP, MRT]
 topics: [dpi.govtech, capacity.training, finance.new, infra.store, dpi.pay, gov.protect]
 status: active
 last_reviewed: 2026-07-18
-sources: [[2026-03-27-public-digital-services-standards-framework-techafricanews], [2025-01-29 Deadline extended for Benin digital government transformation tender], [2026-01-01 Data Governance in Africa - Digital Investment Facility], [2026-07-10 New Rwanda-Tanzania Payment Pilot could transform trade across East Africa], [2026-07-13 D4D Hub on Sao Tome and Principe]]
+sources: [[2026-03-27-public-digital-services-standards-framework-techafricanews], [2025-01-29 Deadline extended for Benin digital government transformation tender], [2026-01-01 Data Governance in Africa - Digital Investment Facility], [2026-07-10 New Rwanda-Tanzania Payment Pilot could transform trade across East Africa], [2026-07-13 D4D Hub on Sao Tome and Principe], [2025-07-28-lesotho-advances-digital-future-audpf-data-governance]]
 ---
 
 # Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ)
