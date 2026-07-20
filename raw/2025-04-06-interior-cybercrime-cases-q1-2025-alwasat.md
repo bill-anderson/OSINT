@@ -11,7 +11,7 @@ retrieved: 2026-07-17
 sweep_batch: LBY-2026-07-17
 places: [LBY]
 topics: [infra.cybersec, gov.protect]
-entities: []
+entities: [[ministry-of-interior-libya], [information-technology-crimes-department-libya]]
 lens: []
 body_completeness: full
 ---

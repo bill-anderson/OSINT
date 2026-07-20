@@ -11,7 +11,7 @@ retrieved: 2026-07-17
 sweep_batch: CPV-2026-07-17
 places: [CPV]
 topics: [gov.policy, gov.regional, finance.mou]
-entities: []
+entities: [[tech-diplomacy-global-institute], [techpark-cv]]
 lens: []
 body_completeness: full
 provenance_flag: pr-wire

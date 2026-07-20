@@ -11,7 +11,7 @@ accessed: 2026-07-15
 ingested: 2026-07-15
 places: [COG]
 topics: [dpi.id, include.access]
-entities: []
+entities: [[ministry-of-interior-congo], [cemac]]
 lens: []
 body_completeness: full
 ---

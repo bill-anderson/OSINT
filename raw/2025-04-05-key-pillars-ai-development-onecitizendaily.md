@@ -10,7 +10,7 @@ date_precision: day
 date_source: source
 places: [SSD]
 topics: [tech.ai, infra.store, infra.capacity]
-entities: []
+entities: [[ministry-ict-postal-services-south-sudan], [global-ai-summit-on-africa]]
 lens: []
 body_completeness: full
 retrieved: 2026-07-17

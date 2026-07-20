@@ -2,12 +2,12 @@
 type: entity
 entity_type: initiative
 title: Equiano subsea cable
-places: [XWA, NGA, TGO, GHA, CIV, NAM, ZAF, AGO]
+places: [XWA, NGA, TGO, GHA, CIV, NAM, ZAF, AGO, XAF]
 topics: [infra.connect, infra.store, dpi.exchange, geopol.usa]
 lens: [colonialism, sovereignty]
 status: active
 last_reviewed: 2026-07-17
-sources: [[2025-09-22 Google plans to build four subsea cable connectivity hubs for Africa], [2022-03-01 Liquid Intelligent acquires Google's fiber pair to improve offers], [2025-10-20 Redefining competition and submarine cable ownership Equiano, MainOne, and the making of middlemen], [2026-06-15-telecom-namibia-angola-telecom-satcab-sarssy-1tbps], [2026-03-26-minttics-projectos-estruturantes-base-tecnologica]]
+sources: [[2025-09-22 Google plans to build four subsea cable connectivity hubs for Africa], [2022-03-01 Liquid Intelligent acquires Google's fiber pair to improve offers], [2025-10-20 Redefining competition and submarine cable ownership Equiano, MainOne, and the making of middlemen], [2026-06-15-telecom-namibia-angola-telecom-satcab-sarssy-1tbps], [2026-03-26-minttics-projectos-estruturantes-base-tecnologica], [2024-01-31 Heita South Africa! The new Google Cloud region is now open in Johannesburg], [2024-11-13 Teraco to build 40 MW JB7 data centre at Isando Campus]]
 ---
 
 # Equiano subsea cable
@@ -68,6 +68,20 @@ Cloud region.
   [[angola--infra-connect]], [[AGO]]. Sources:
   [[2026-06-15-telecom-namibia-angola-telecom-satcab-sarssy-1tbps]],
   [[2026-03-26-minttics-projectos-estruturantes-base-tecnologica]].
+
+- **Landing the Johannesburg cloud region (2024-01-31).** Announcing the Johannesburg cloud region
+  ready for customer use, [[google]] states that the region "is connected to Google's secure network,
+  comprising a system of high-capacity fiber optic cables under land and sea around the world. This
+  includes the **recently-completed Equiano subsea cable system that connects Portugal with Togo,
+  Nigeria, Namibia, South Africa, and St. Helena**." At that date Google's network totalled **40
+  cloud regions and 121 zones**. *Vendor first-party — attribute.* Source:
+  [[2024-01-31 Heita South Africa! The new Google Cloud region is now open in Johannesburg]].
+- **Cited as the hub-making infrastructure (2024-11-13).** **[[teraco]]** CEO **[[jan-hnizdo]]** on
+  South Africa as the springboard for cloud provision into Africa: "**Massive global investments into
+  undersea cables, like Equiano and 2Africa, further strengthen this position.**" The cable is the
+  argument operators use to justify concentrating capacity in Johannesburg and Cape Town. *Operator
+  framing — attribute it.* Source:
+  [[2024-11-13 Teraco to build 40 MW JB7 data centre at Isando Campus]].
 
 ## Related
 - [[google]]

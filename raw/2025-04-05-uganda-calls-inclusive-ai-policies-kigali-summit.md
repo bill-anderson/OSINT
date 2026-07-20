@@ -9,7 +9,7 @@ date_source: source
 ingested: 2026-07-19
 places: [UGA]
 topics: [tech.ai, gov.policy]
-entities: []
+entities: [[ministry-of-ict-and-national-guidance-uganda], [global-ai-summit-on-africa], [uganda-national-ai-strategy]]
 lens: []
 body_completeness: full
 retrieved: 2026-07-17

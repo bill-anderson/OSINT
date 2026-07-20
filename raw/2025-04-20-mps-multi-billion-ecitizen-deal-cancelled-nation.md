@@ -9,7 +9,7 @@ date_source: source
 ingested: 2026-07-18
 places: [KEN]
 topics: [dpi.govtech, gov.legislate]
-entities: []
+entities: [[ecitizen], [parliament-of-kenya], [office-of-the-auditor-general-kenya]]
 lens: []
 retrieved: 2026-07-17
 sweep_batch: KEN-2026-07-17

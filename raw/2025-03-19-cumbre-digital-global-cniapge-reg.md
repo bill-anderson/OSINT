@@ -11,7 +11,7 @@ retrieved: 2026-07-17
 sweep_batch: GNQ-2026-07-17
 places: [GNQ]
 topics: [gov.policy, dpi.govtech, gov.regional]
-entities: []
+entities: [[cniapge-gnq], [world-bank], [cardip]]
 lens: []
 body_completeness: full
 ---

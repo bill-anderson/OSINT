@@ -8,7 +8,7 @@ date_precision: day
 date_source: source
 places: [MLI]
 topics: [infra.cybersec, gov.policy]
-entities: []
+entities: [[anssi-mali], [mali-national-cybersecurity-strategy-2026-2030], [bank-of-africa-mali]]
 lens: [sovereignty]
 body_completeness: full
 retrieved: 2026-07-17

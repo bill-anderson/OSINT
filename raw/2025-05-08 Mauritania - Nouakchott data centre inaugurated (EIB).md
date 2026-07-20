@@ -11,7 +11,7 @@ accessed: 2026-07-16
 ingested: 2026-07-16
 places: [MRT]
 topics: [infra.store, infra.connect, gov.regional]
-entities: []
+entities: [[eib], [world-bank], [warcip], [international-mauritania-telecom], [ministry-of-digital-transformation-mauritania]]
 lens: [sovereignty]
 body_completeness: full
 ---

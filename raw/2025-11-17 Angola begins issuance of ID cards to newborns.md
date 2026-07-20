@@ -11,7 +11,7 @@ accessed: 2026-07-15
 ingested: 2026-07-15
 places: [AGO]
 topics: [dpi.id, dpi.registry, include.access]
-entities: []
+entities: [[nascer-com-registo-angola], [unicef], [ministerio-da-justica-e-dos-direitos-humanos-angola]]
 lens: []
 body_completeness: full
 ---

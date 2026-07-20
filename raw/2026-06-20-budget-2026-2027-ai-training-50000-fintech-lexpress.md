@@ -12,7 +12,7 @@ sweep_batch: MUS-2026-07-17
 body_completeness: full
 places: [MUS]
 topics: [tech.ai, capacity.training, dpi.pay, dpi.govtech, infra.cybersec, dpi.id]
-entities: []
+entities: [[ministry-of-finance-mauritius], [mytgpt], [financial-services-commission-mauritius]]
 lens: []
 ---
 

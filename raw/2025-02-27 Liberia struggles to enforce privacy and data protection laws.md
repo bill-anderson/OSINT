@@ -11,7 +11,7 @@ accessed: 2026-07-16
 ingested: 2026-07-16
 places: [LBR]
 topics: [gov.protect, gov.legislate, include.divides]
-entities: []
+entities: [[lta-liberia], [ecowas], [ecowas-data-protection-act], [ministry-of-posts-and-telecommunications-liberia]]
 lens: []
 body_completeness: full
 ---

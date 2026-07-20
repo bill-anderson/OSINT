@@ -12,7 +12,7 @@ body_completeness: full
 sweep_batch: NGA-2026-07-17
 places: [NGA]
 topics: [dpi.registry, digital.localgov]
-entities: []
+entities: [[kadgis], [kaduna-state-government], [nimc], [nibss]]
 lens: []
 ---
 

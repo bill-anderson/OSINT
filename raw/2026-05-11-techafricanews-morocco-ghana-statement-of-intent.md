@@ -11,7 +11,7 @@ retrieved: 2026-07-17
 sweep_batch: MAR-2026-07-17
 places: [MAR]
 topics: [gov.regional, finance.mou]
-entities: []
+entities: [[ministry-of-digital-transition-morocco], [ministry-of-communication-digital-technology-and-innovations-ghana]]
 lens: []
 body_completeness: full
 ---

@@ -5,7 +5,7 @@ url: https://www.sundaystandard.info/mascom-launches-myzaka-flexi-botswanas-firs
 publisher: Sunday Standard
 ingested: 2026-07-18
 lens: []
-body_completeness: full
+body_completeness: paywalled
 author: Sunday Standard Reporter
 published: 2025-05-23
 date_precision: day

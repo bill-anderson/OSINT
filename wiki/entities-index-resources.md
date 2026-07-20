@@ -100,7 +100,7 @@ Databases, registries, datasets, tools and portals consulted repeatedly (entity_
 | SYDONIA (ASYCUDA) customs system | TGO | dpi.govtech, dpi.exchange, data.statistics | [[sydonia]] |
 | Karuma Hydropower Plant (K-HPP) | UGA | infra.energy, infra.store, tech.ai | [[karuma-hydropower-plant]] |
 | Disrupt Africa | XAF, ZAF, NGA, EGY, KEN | finance.new, tech.industry, tech.innovate | [[disrupt-africa]] |
-| Equiano subsea cable | ZAF, NGA, TGO, NAM, XAF | infra.connect, infra.store, geopol.usa | [[equiano]] |
+| Equiano subsea cable | ZAF, NGA, TGO, NAM, XAF | infra.connect, infra.store, geopol.usa | [[equiano-cable]] |
 | Research and Markets | XGL, ZAF | infra.store, infra.capacity, finance.new | [[research-and-markets]] |
 | TaRMS Self-Service Portal (Zimbabwe) | ZWE | dpi.govtech, dpi.registry, dpi.id, dpi.pay, dpi.exchange | [[tarms-zimbabwe]] |
 | Base de Dados de Cidadãos Maiores (BDCM) — Angola | AGO | dpi.registry, dpi.exchange, dpi.id | [[base-de-dados-de-cidadaos-maiores-angola]] |

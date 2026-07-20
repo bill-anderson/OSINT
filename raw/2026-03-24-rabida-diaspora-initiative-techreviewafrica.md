@@ -11,7 +11,7 @@ retrieved: 2026-07-17
 sweep_batch: CPV-2026-07-17
 places: [CPV]
 topics: [tech.innovate, gov.policy, include.access]
-entities: []
+entities: [[cabo-verde-digital], [rabida-initiative]]
 lens: []
 body_completeness: full
 provenance_flag: pr-wire

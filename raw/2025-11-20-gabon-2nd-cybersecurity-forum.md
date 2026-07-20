@@ -9,7 +9,7 @@ date_source: source
 ingested: 2026-07-18
 places: [GAB]
 topics: [infra.cybersec]
-entities: []
+entities: [[st-digital-gabon], [aninf-gabon], [bgfi-services]]
 lens: []
 body_completeness: full
 retrieved: 2026-07-17

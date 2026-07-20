@@ -9,7 +9,7 @@ date_source: source
 ingested: 2026-07-19
 places: [TZA]
 topics: [gov.policy, dpi.pay, dpi.govtech]
-entities: []
+entities: [[wezesha], [pmo-ralg-tanzania]]
 lens: []
 body_completeness: full
 retrieved: 2026-07-17

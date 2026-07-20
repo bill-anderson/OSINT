@@ -9,7 +9,7 @@ date_source: source
 ingested: 2026-07-18
 places: [MOZ]
 topics: [dpi.govtech, dpi.registry]
-entities: []
+entities: [[ministry-of-justice-mozambique], [mozambique-law-8-2024-electronic-proceedings], [mozambique-cyber-security-law]]
 lens: [sovereignty]
 body_completeness: full
 retrieved: 2026-07-17

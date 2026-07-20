@@ -5,7 +5,7 @@ url: https://www.mmegi.bw/business/liquid-intelligent-technologies-expands-servi
 publisher: Mmegi
 ingested: 2026-07-18
 lens: []
-body_completeness: full
+body_completeness: paywalled
 author: staff writer
 published: 2026-05-13
 date_precision: day

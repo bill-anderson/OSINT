@@ -9,7 +9,7 @@ date_source: proxy
 ingested: 2026-07-18
 places: [GAB]
 topics: [gov.policy, dpi.govtech]
-entities: []
+entities: [[st-digital-gabon], [st-digital]]
 lens: []
 body_completeness: full
 retrieved: 2026-07-17

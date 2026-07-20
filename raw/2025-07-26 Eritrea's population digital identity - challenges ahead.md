@@ -9,7 +9,7 @@ date_source: source
 ingested: 2026-07-15
 places: [ERI]
 topics: [dpi.id, include.divides, gov.policy]
-entities: []
+entities: [[eritel]]
 lens: [sovereignty]
 body_completeness: full
 ---

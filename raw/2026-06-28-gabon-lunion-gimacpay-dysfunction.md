@@ -9,7 +9,7 @@ date_source: proxy
 ingested: 2026-07-18
 places: [GAB]
 topics: [dpi.pay]
-entities: []
+entities: [[gimacpay], [gimac], [airtel-gabon]]
 lens: []
 body_completeness: full
 retrieved: 2026-07-17

@@ -11,7 +11,7 @@ retrieved: 2026-07-17
 sweep_batch: CPV-2026-07-17
 places: [CPV]
 topics: [infra.connect, gov.policy]
-entities: []
+entities: [[cabo-verde-5g-strategy], [digital-cabo-verde-project], [world-bank], [ministry-digital-economy-cabo-verde], [dgted-cabo-verde]]
 lens: []
 body_completeness: full
 ---

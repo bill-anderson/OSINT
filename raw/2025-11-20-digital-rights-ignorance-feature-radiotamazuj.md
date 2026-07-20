@@ -10,7 +10,7 @@ date_precision: day
 date_source: source
 places: [SSD]
 topics: [gov.protect, gov.legislate, capacity.literacy]
-entities: []
+entities: [[koneta-hub], [paradigm-initiative], [national-communication-authority-south-sudan], [south-sudan-data-protection-bill], [malabo-convention]]
 lens: [sovereignty]
 body_completeness: full
 retrieved: 2026-07-17

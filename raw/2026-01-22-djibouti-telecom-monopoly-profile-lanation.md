@@ -11,7 +11,7 @@ places: [DJI, ETH, SOM, XEA]
 topics: [infra.connect, tech.industry, gov.legislate, infra.store]
 entities: [[djibouti-telecom]]
 lens: [sovereignty]
-body_completeness: full
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: DJI-2026-07-17
 ---

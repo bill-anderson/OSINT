@@ -11,7 +11,7 @@ accessed: 2026-07-11
 ingested: 2026-07-11
 places: [XGL, XSS]
 topics: [gov.legislate, gov.policy, gov.standards, geopol.eu, tech.ai, tech.innovate]
-entities: []
+entities: [[itif], [european-union], [eu-ai-act]]
 lens: [colonialism, sovereignty]
 body_completeness: full
 ---

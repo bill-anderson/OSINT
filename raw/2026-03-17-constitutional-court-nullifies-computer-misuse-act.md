@@ -9,7 +9,7 @@ date_source: source
 ingested: 2026-07-19
 places: [UGA]
 topics: [gov.legislate, infra.cybersec]
-entities: []
+entities: [[constitutional-court-uganda], [computer-misuse-act-uganda], [parliament-of-uganda]]
 lens: [sovereignty]
 body_completeness: full
 retrieved: 2026-07-17

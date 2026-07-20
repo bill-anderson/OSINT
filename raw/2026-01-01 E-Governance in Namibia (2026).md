@@ -12,7 +12,7 @@ accessed: 2026-07-16
 ingested: 2026-07-16
 places: [NAM]
 topics: [dpi.govtech, dpi.exchange]
-entities: []
+entities: [[hse-center-for-african-studies]]
 lens: []
 body_completeness: full
 ---

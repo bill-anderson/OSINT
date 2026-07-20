@@ -11,7 +11,7 @@ retrieved: 2026-07-17
 sweep_batch: MAR-2026-07-17
 places: [MAR]
 topics: [gov.regional, capacity.training, finance.mou]
-entities: []
+entities: [[ministry-digital-transition-morocco], [ministere-economie-numerique-gabon], [gitex-africa]]
 lens: []
 body_completeness: full
 ---

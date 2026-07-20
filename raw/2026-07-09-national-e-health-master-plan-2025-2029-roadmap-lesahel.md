@@ -9,7 +9,7 @@ date_source: source
 ingested: 2026-07-19
 places: [NER]
 topics: [dpi.mis, gov.policy, dpi.exchange, infra.cybersec]
-entities: []
+entities: [[niger-ehealth-masterplan], [ministry-of-health-niger]]
 lens: []
 retrieved: 2026-07-17
 sweep_batch: NER-2026-07-17

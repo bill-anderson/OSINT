@@ -9,7 +9,7 @@ date_source: source
 ingested: 2026-07-18
 places: [CPV]
 topics: [include.divides, capacity.literacy, data.statistics]
-entities: []
+entities: [[ine-cabo-verde]]
 lens: []
 body_completeness: full
 retrieved: 2026-07-17

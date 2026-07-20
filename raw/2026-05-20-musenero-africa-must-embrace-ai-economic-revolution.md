@@ -9,7 +9,7 @@ date_source: source
 ingested: 2026-07-19
 places: [UGA]
 topics: [tech.ai]
-entities: []
+entities: [[sti-op-uganda], [gitex-kenya]]
 lens: [sovereignty]
 body_completeness: full
 retrieved: 2026-07-17

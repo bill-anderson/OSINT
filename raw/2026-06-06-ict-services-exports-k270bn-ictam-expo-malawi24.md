@@ -9,7 +9,7 @@ date_source: source
 ingested: 2026-07-19
 places: [MWI]
 topics: [tech.industry, finance.new, infra.store]
-entities: []
+entities: [[ictam], [sparc-systems]]
 lens: []
 retrieved: 2026-07-17
 sweep_batch: MWI-2026-07-17

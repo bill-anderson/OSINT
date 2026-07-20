@@ -11,7 +11,7 @@ accessed: 2026-07-15
 ingested: 2026-07-15
 places: [BFA]
 topics: [dpi.registry, dpi.govtech]
-entities: []
+entities: [[ministry-of-economy-and-finance-burkina-faso], [sycad-burkina-faso]]
 lens: []
 body_completeness: full
 ---

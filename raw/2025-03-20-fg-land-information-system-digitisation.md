@@ -12,7 +12,7 @@ body_completeness: full
 sweep_batch: NGA-2026-07-17
 places: [NGA]
 topics: [dpi.registry]
-entities: []
+entities: [[ministry-of-housing-and-urban-development-nigeria], [nlrdp-nigeria]]
 lens: []
 ---
 

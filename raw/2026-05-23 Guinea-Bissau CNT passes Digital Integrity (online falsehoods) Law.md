@@ -8,7 +8,7 @@ date_precision: day
 date_source: source
 places: [GNB]
 topics: [gov.legislate, infra.cybersec, gov.protect]
-entities: []
+entities: [[cnt-guinea-bissau], [guinea-bissau-digital-integrity-law]]
 lens: [sovereignty]
 body_completeness: full
 retrieved: 2026-07-17

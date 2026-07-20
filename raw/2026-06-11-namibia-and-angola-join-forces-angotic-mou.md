@@ -3,7 +3,7 @@ type: source
 title: Namibia and Angola Join Forces to Accelerate Digital Transformation
 url: https://techafricanews.com/2026/06/11/namibia-and-angola-join-forces-to-accelerate-digital-transformation/
 publisher: TechAfrica News
-entities: []
+entities: [[ministry-of-information-and-communication-technology-namibia], [ministerio-das-telecomunicacoes-tecnologias-de-informacao-e-comunicacao-social-angola], [angotic]]
 lens: []
 body_completeness: full
 author: Kay-Lyne Wolfenden

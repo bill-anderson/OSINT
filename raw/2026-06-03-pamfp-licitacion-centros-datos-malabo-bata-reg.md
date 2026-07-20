@@ -11,7 +11,7 @@ retrieved: 2026-07-17
 sweep_batch: GNQ-2026-07-17
 places: [GNQ]
 topics: [infra.store, dpi.govtech]
-entities: []
+entities: [[pamfp-gnq], [ministry-of-finance-gnq]]
 lens: []
 body_completeness: full
 ---

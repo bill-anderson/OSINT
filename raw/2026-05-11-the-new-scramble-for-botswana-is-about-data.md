@@ -14,7 +14,7 @@ places: [BWA]
 topics: [gov.protect, include.divides, digital.rural, infra.connect]
 entities: []
 lens: [sovereignty, colonialism]
-body_completeness: full
+body_completeness: paywalled
 ---
 
 # The new scramble for Botswana is about data

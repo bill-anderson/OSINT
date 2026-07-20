@@ -9,7 +9,7 @@ date_source: source
 ingested: 2026-07-18
 places: [GAB]
 topics: [tech.ai, infra.cybersec]
-entities: []
+entities: [[arcep-gabon]]
 lens: [sovereignty]
 body_completeness: full
 retrieved: 2026-07-17

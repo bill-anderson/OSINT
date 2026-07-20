@@ -13,7 +13,7 @@ retrieved: 2026-07-17
 sweep_batch: GMB-2026-07-17
 places: [GMB]
 topics: [gov.legislate, gov.protect, infra.cybersec]
-entities: []
+entities: [[gambia-communications-bill-2025], [national-assembly-gambia], [ministry-communications-digital-economy-gambia]]
 ---
 
 # Lawmakers back bill to protect personal data in digital age

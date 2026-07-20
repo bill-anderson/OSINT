@@ -11,7 +11,7 @@ retrieved: 2026-07-17
 sweep_batch: GNQ-2026-07-17
 places: [GNQ]
 topics: [infra.connect, gov.regional]
-entities: []
+entities: [[medusa-submarine-cable], [afr-ix-telecom], [via-africa-cable], [gnq-medusa-cable], [ace-cable]]
 lens: []
 body_completeness: full
 ---

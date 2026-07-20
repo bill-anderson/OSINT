@@ -11,7 +11,7 @@ retrieved: 2026-07-17
 sweep_batch: MAR-2026-07-17
 places: [MAR]
 topics: [dpi.pay, include.access]
-entities: []
+entities: [[visa], [ministry-of-digital-transition-morocco], [morocco-fintech-center]]
 lens: []
 body_completeness: full
 provenance_flag: pr-wire

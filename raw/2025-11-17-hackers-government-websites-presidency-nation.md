@@ -9,7 +9,7 @@ date_source: source
 ingested: 2026-07-18
 places: [KEN]
 topics: [infra.cybersec]
-entities: []
+entities: [[communications-authority-of-kenya], [ecitizen]]
 lens: []
 retrieved: 2026-07-17
 sweep_batch: KEN-2026-07-17

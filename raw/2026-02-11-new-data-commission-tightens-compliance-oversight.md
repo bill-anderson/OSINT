@@ -14,7 +14,7 @@ places: [BWA]
 topics: [gov.protect, gov.legislate, dpi.pay]
 entities: [[information-and-data-protection-commission-botswana], [kepaletswe-somolekae]]
 lens: [sovereignty]
-body_completeness: full
+body_completeness: paywalled
 ---
 
 # New Data Commission tightens compliance oversight

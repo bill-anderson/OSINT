@@ -9,7 +9,7 @@ date_source: source
 ingested: 2026-07-19
 places: [STP]
 topics: [dpi.govtech, gov.policy]
-entities: []
+entities: [[ministerio-da-justica-sao-tome], [sao-tome-administrative-reform-strategy]]
 lens: []
 body_completeness: full
 retrieved: 2026-07-17

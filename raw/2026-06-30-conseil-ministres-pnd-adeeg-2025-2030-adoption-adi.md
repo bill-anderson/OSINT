@@ -11,7 +11,7 @@ places: [DJI]
 topics: [gov.policy, gov.legislate]
 entities: [[pnd-adeeg-2025-2030], [vision-djibouti-2035], [ismail-omar-guelleh]]
 lens: []
-body_completeness: full
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: DJI-2026-07-17
 ---

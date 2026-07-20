@@ -4,7 +4,7 @@ title: "Numérique, investissements et contrôles fiscaux : les grands changemen
 url: https://fraternite.bj/numerique-investissements-et-controles-fiscaux-les-grands-changements-du-projet-de-loi-de-finances-rectificative/
 publisher: Fraternité
 ingested: 2026-07-18
-entities: []
+entities: [[dgi-benin], [plfr-2026-benin]]
 author: Isac YAI
 published: 2026-06-11
 date_precision: day

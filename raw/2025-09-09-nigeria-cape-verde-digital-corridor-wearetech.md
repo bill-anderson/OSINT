@@ -11,7 +11,7 @@ retrieved: 2026-07-17
 sweep_batch: CPV-2026-07-17
 places: [CPV, NGA]
 topics: [gov.regional, capacity.training, tech.innovate]
-entities: []
+entities: [[african-digital-corridor], [shecode-ai]]
 lens: []
 body_completeness: full
 ---

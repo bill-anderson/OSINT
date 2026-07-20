@@ -11,7 +11,7 @@ accessed: 2026-07-11
 ingested: 2026-07-11
 places: [BFA]
 topics: [dpi.govtech, dpi.id, gov.policy, finance.mou]
-entities: []
+entities: [[bf-ministry-digital-transition], [mag-trade-and-investment], [bn-gpb-burkina-faso]]
 lens: [sovereignty]
 body_completeness: full
 ---

@@ -9,7 +9,7 @@ date_source: source
 ingested: 2026-07-18
 places: [DJI]
 topics: [tech.innovate, dpi.pay, tech.ai]
-entities: []
+entities: [[limo-djibouti-startup]]
 lens: []
 body_completeness: full
 retrieved: 2026-07-17

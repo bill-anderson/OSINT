@@ -10,7 +10,7 @@ date_precision: day
 date_source: source
 places: [SSD]
 topics: [dpi.registry, gov.policy]
-entities: []
+entities: [[central-equatoria-state-ministry-of-lands]]
 lens: []
 body_completeness: full
 retrieved: 2026-07-17

@@ -8,7 +8,7 @@ date_precision: day
 date_source: source
 places: [MLI]
 topics: [dpi.mis, include.access]
-entities: []
+entities: [[ministry-of-health-mali], [psnsn-mali], [sante-gov-ml]]
 lens: []
 body_completeness: full
 retrieved: 2026-07-17

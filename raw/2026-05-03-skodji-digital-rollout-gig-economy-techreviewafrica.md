@@ -11,7 +11,7 @@ retrieved: 2026-07-17
 sweep_batch: CPV-2026-07-17
 places: [CPV]
 topics: [capacity.training, include.access, tech.industry]
-entities: []
+entities: [[skodji-digital], [cabo-verde-digital], [world-bank]]
 lens: []
 body_completeness: full
 provenance_flag: pr-wire

@@ -9,7 +9,7 @@ date_source: source
 ingested: 2026-07-18
 places: [MOZ]
 topics: [tech.ai, gov.policy]
-entities: []
+entities: [[cnia-mozambique], [council-of-ministers-mozambique]]
 lens: [sovereignty]
 body_completeness: full
 retrieved: 2026-07-17

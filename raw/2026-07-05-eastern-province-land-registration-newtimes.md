@@ -14,7 +14,7 @@ sweep_batch: RWA-2026-07-17
 body_completeness: excerpt
 places: [RWA]
 topics: [dpi.registry, digital.rural]
-entities: []
+entities: [[national-land-authority-rwanda], [landesa]]
 ---
 
 # Eastern Province land registration drive delivers titles, reduces disputes

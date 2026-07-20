@@ -12,7 +12,7 @@ retrieved: 2026-07-17
 sweep_batch: SEN-2026-07-17
 places: [SEN]
 topics: [infra.cybersec, infra.connect, gov.protect]
-entities: []
+entities: [[daf-senegal], [green-blood-group], [senegal-universal-connectivity], [ministry-communication-telecoms-digital-economy-senegal]]
 lens: []
 ---
 

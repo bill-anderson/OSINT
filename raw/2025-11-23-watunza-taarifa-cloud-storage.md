@@ -9,7 +9,7 @@ date_source: source
 ingested: 2026-07-19
 places: [TZA]
 topics: [infra.store, gov.protect]
-entities: []
+entities: [[dynatech-solutions], [oracle]]
 lens: [sovereignty]
 body_completeness: full
 retrieved: 2026-07-17

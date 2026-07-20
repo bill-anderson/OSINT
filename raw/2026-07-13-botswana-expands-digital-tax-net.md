@@ -14,7 +14,7 @@ places: [BWA]
 topics: [gov.legislate, gov.regional, tech.industry]
 entities: [[botswana-unified-revenue-service], [african-tax-administration-forum], [remote-service-vat-act-botswana]]
 lens: [sovereignty]
-body_completeness: full
+body_completeness: paywalled
 ---
 
 # Botswana expands digital tax net

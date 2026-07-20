@@ -13,7 +13,7 @@ retrieved: 2026-07-17
 sweep_batch: GMB-2026-07-17
 places: [GMB]
 topics: [dpi.id, gov.protect]
-entities: []
+entities: [[udp-gambia], [gambia-immigration-department], [iec-gambia]]
 ---
 
 # UDP raises alarm over gov't 'unlawful' issuance of ID cards abroad

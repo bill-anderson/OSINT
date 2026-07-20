@@ -9,7 +9,7 @@ date_source: source
 ingested: 2026-07-16
 places: [SEN]
 topics: [dpi.pay, gov.legislate, gov.policy, include.access]
-entities: []
+entities: [[senegal-mobile-money-levy], [uncs-senegal]]
 lens: []
 body_completeness: full
 ---

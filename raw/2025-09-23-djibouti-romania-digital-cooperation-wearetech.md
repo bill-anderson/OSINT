@@ -9,7 +9,7 @@ date_source: source
 ingested: 2026-07-18
 places: [DJI]
 topics: [gov.regional, dpi.govtech, capacity.training, finance.mou]
-entities: []
+entities: [[ministry-digital-transformation-djibouti], [djibouti-digital-code]]
 lens: []
 body_completeness: full
 retrieved: 2026-07-17

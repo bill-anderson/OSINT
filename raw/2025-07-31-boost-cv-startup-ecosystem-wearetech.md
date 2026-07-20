@@ -11,7 +11,7 @@ retrieved: 2026-07-17
 sweep_batch: CPV-2026-07-17
 places: [CPV]
 topics: [tech.innovate, tech.industry, capacity.training, finance.new]
-entities: []
+entities: [[boost-cv], [fundo-morabeza], [digital-cabo-verde-project]]
 lens: []
 body_completeness: full
 ---

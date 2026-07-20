@@ -11,7 +11,7 @@ retrieved: 2026-07-17
 sweep_batch: GNQ-2026-07-17
 places: [GNQ]
 topics: [geopol.china, tech.ai, infra.cybersec, capacity.training]
-entities: []
+entities: [[ministry-of-transport-telecommunications-and-ai-gnq], [insttic-gnq], [focac], [malabo-convention]]
 lens: [sovereignty]
 body_completeness: full
 ---

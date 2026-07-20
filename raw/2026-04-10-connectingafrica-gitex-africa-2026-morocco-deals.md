@@ -11,7 +11,7 @@ retrieved: 2026-07-17
 sweep_batch: MAR-2026-07-17
 places: [MAR]
 topics: [finance.mou, tech.industry]
-entities: []
+entities: [[gitex-africa], [inwi], [orange-maroc], [ericsson], [china-mobile], [maroc-telecom]]
 lens: []
 body_completeness: full
 ---

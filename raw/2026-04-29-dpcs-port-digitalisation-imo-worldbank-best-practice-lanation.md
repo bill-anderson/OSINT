@@ -11,7 +11,7 @@ places: [DJI, TZA, KEN, MUS, XEA]
 topics: [dpi.govtech, dpi.exchange, gov.standards, gov.regional, tech.industry]
 entities: [[djibouti-port-community-systems], [world-bank], [international-maritime-organization], [kentrade]]
 lens: [sovereignty]
-body_completeness: full
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: DJI-2026-07-17
 ---

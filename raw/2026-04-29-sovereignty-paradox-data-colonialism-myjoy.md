@@ -11,7 +11,7 @@ retrieved: 2026-07-17
 sweep_batch: GHA-2026-07-17
 places: [GHA, XAF]
 topics: [tech.ai, gov.policy, infra.store]
-entities: []
+entities: [[america-first-global-health-strategy], [zimbabwe-us-health-mou], [ghana-us-health-deal]]
 lens: [sovereignty, colonialism]
 body_completeness: full
 ---

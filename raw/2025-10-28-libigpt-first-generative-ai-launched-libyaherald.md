@@ -11,7 +11,7 @@ retrieved: 2026-07-17
 sweep_batch: LBY-2026-07-17
 places: [LBY]
 topics: [tech.ai, tech.innovate]
-entities: []
+entities: [[libigpt], [smart-co-libya], [ministry-of-economy-and-trade-libya]]
 lens: [sovereignty]
 body_completeness: full
 ---

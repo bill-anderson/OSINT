@@ -9,7 +9,7 @@ date_source: source
 ingested: 2026-07-19
 places: [MWI]
 topics: [dpi.pay, digital.rural, include.access, finance.mou]
-entities: []
+entities: [[airtel-malawi], [admarc]]
 lens: []
 retrieved: 2026-07-17
 sweep_batch: MWI-2026-07-17

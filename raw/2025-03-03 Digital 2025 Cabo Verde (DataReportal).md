@@ -9,7 +9,7 @@ date_source: source
 ingested: 2026-07-15
 places: [CPV]
 topics: [infra.connect, include.divides]
-entities: []
+entities: [[datareportal]]
 lens: []
 body_completeness: full
 ---

@@ -9,7 +9,7 @@ date_source: source
 ingested: 2026-07-19
 places: [NAM]
 topics: [infra.cybersec, capacity.training, finance.mou]
-entities: []
+entities: [[nipam-namibia], [global-cybersecurity-centre]]
 lens: []
 retrieved: 2026-07-17
 sweep_batch: NAM-2026-07-17

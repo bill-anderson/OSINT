@@ -3,7 +3,7 @@ type: source
 title: The $600 million asset manager that tracked a startup for three years before investing $1.2 million (BFA Asset Management, Angola)
 url: https://techcabal.com/2026/03/30/angola-bfa/
 publisher: TechCabal
-entities: []
+entities: [[bfa-asset-management], [kimbo-fund], [banco-de-fomento-angola], [fsdea], [anda-angola]]
 lens: []
 body_completeness: full
 author: Muktar Oladunmade

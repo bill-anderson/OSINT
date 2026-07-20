@@ -9,7 +9,7 @@ date_source: source
 ingested: 2026-07-18
 places: [GAB]
 topics: [dpi.govtech, gov.legislate, gov.policy]
-entities: []
+entities: [[ministere-economie-numerique-gabon], [digital-gabon-project]]
 lens: [sovereignty]
 body_completeness: full
 retrieved: 2026-07-17

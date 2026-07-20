@@ -30,10 +30,10 @@ component of the South African data-centre power build-out.
   significantly in the region's ICT infrastructure and have **built Africa's largest data centre
   platform**." He positions **South Africa as the springboard for cloud provision into Africa** and
   the data-centre hub for sub-Saharan Africa, citing "massive global investments into undersea
-  cables, like **[[equiano]]** and 2Africa" as further strengthening that position. *A vendor
+  cables, like **[[equiano-cable]]** and 2Africa" as further strengthening that position. *A vendor
   first-party framing — attribute it.* Source: same.
 
 ## Related
 
 Place: [[ZAF]] · Company: [[teraco]] · Parent: [[digital-realty]] ·
-Intersection: [[south-africa--infra-store]] · Cable: [[equiano]]
+Intersection: [[south-africa--infra-store]] · Cable: [[equiano-cable]]

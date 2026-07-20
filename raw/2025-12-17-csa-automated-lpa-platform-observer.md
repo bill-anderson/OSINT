@@ -11,7 +11,7 @@ retrieved: 2026-07-17
 sweep_batch: LBR-2026-07-17
 places: [LBR]
 topics: [dpi.govtech, dpi.id, dpi.pay]
-entities: []
+entities: [[civil-service-agency-liberia], [mwetana-consulting]]
 lens: []
 body_completeness: full
 ---

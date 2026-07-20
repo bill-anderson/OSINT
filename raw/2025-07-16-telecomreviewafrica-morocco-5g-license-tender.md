@@ -11,7 +11,7 @@ retrieved: 2026-07-17
 sweep_batch: MAR-2026-07-17
 places: [MAR]
 topics: [infra.connect, gov.legislate]
-entities: []
+entities: [[anrt-morocco], [digital-morocco-2030]]
 lens: []
 body_completeness: full
 ---

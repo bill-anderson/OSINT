@@ -11,7 +11,7 @@ retrieved: 2026-07-17
 sweep_batch: LBR-2026-07-17
 places: [LBR]
 topics: [infra.connect, gov.regional, include.access]
-entities: []
+entities: [[transco-clsg], [tactis], [ace-cable]]
 lens: []
 body_completeness: full
 ---

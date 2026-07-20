@@ -12,7 +12,7 @@ body_completeness: full
 sweep_batch: NGA-2026-07-17
 places: [NGA]
 topics: [digital.localgov, infra.connect]
-entities: []
+entities: [[ipnx], [abia-state-government]]
 lens: []
 ---
 

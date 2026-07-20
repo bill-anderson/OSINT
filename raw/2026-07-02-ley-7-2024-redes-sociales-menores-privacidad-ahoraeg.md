@@ -11,7 +11,7 @@ retrieved: 2026-07-17
 sweep_batch: GNQ-2026-07-17
 places: [GNQ]
 topics: [gov.legislate, gov.protect, infra.cybersec]
-entities: []
+entities: [[ley-7-2024-gnq], [ancic-gnq], [malabo-convention]]
 lens: []
 body_completeness: full
 ---

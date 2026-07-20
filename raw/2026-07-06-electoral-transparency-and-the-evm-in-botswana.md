@@ -5,7 +5,7 @@ url: https://www.sundaystandard.info/electoral-transparency-credibility-and-the-
 publisher: Sunday Standard
 ingested: 2026-07-18
 lens: []
-body_completeness: full
+body_completeness: paywalled
 author: Monageng Mogalakwe
 published: 2026-07-06
 date_precision: day

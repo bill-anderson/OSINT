@@ -11,7 +11,7 @@ retrieved: 2026-07-17
 sweep_batch: GMB-2026-07-17
 places: [GMB]
 topics: [infra.connect, geopol.usa]
-entities: []
+entities: [[starlink], [gambia-starlink-licence], [pura-gambia], [us-department-of-state]]
 lens: [sovereignty]
 body_completeness: full
 ---

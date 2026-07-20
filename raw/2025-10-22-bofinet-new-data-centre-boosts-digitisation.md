@@ -14,7 +14,7 @@ places: [BWA]
 topics: [infra.store, tech.industry]
 entities: [[bofinet], [digital-delta-data-centre], [botswana-digital-and-innovation-hub]]
 lens: [sovereignty]
-body_completeness: full
+body_completeness: paywalled
 ---
 
 # BoFiNet's new data centre boosts digitisation

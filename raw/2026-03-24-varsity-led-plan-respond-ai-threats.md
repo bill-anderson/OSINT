@@ -9,7 +9,7 @@ date_source: source
 ingested: 2026-07-19
 places: [TZA]
 topics: [tech.ai, capacity.research, capacity.training]
-entities: []
+entities: [[ministry-education-science-technology-tanzania], [coict-udsm]]
 lens: []
 body_completeness: full
 retrieved: 2026-07-17

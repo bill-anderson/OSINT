@@ -10,7 +10,7 @@ accessed: 2026-07-16
 ingested: 2026-07-16
 places: [NAM]
 topics: [infra.store, gov.policy]
-entities: []
+entities: [[ministry-ict-namibia], [namibia-national-digital-strategy-2025-2029]]
 lens: [sovereignty]
 body_completeness: full
 ---

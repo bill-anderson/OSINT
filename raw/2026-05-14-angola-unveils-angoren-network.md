@@ -3,7 +3,7 @@ type: source
 title: Angola Unveils AngoREN Network to Drive Higher Education Digital Transformation
 url: https://techafricanews.com/2026/05/14/angola-unveils-angoren-network-to-drive-higher-education-digital-transformation/
 publisher: TechAfrica News
-entities: []
+entities: [[angoren], [mescti-angola], [test-project-angola]]
 lens: []
 body_completeness: full
 author: Jennifer Onyeagoro

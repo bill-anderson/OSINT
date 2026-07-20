@@ -11,7 +11,7 @@ accessed: 2026-07-11
 ingested: 2026-07-11
 places: [KEN, XAF, XEA]
 topics: [gov.regional, gov.policy, gov.protect, dpi.id, dpi.pay, infra.energy, infra.store, include.access]
-entities: []
+entities: [[connected-africa-summit], [william-kabogo], [john-tanui], [state-department-for-ict-and-the-digital-economy-kenya]]
 lens: []
 body_completeness: full
 ---

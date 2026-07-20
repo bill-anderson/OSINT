@@ -9,7 +9,7 @@ date_source: source
 ingested: 2026-07-18
 places: [KEN]
 topics: [data.open, gov.protect]
-entities: []
+entities: [[kenya-data-marketplace], [ecitizen], [knbs], [national-data-governance-and-emerging-technologies-council-kenya]]
 lens: []
 retrieved: 2026-07-17
 sweep_batch: KEN-2026-07-17

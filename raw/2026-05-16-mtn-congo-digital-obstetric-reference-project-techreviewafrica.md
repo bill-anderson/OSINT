@@ -10,7 +10,7 @@ date_precision: day
 date_source: source
 places: [COG]
 topics: [dpi.mis, include.access, infra.connect, tech.innovate]
-entities: []
+entities: [[mtn-congo], [ministry-of-health-congo], [world-health-organization]]
 lens: []
 body_completeness: full
 provenance_flag: pr-wire

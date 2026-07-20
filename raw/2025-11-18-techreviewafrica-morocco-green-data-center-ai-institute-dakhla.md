@@ -11,7 +11,7 @@ retrieved: 2026-07-17
 sweep_batch: MAR-2026-07-17
 places: [MAR]
 topics: [infra.store, infra.energy, tech.ai]
-entities: []
+entities: [[ministry-digital-transition-morocco], [jazari-institutes], [icudar-dakhla-data-centre], [ibn-zohr-university]]
 lens: [sovereignty]
 body_completeness: full
 provenance_flag: pr-wire

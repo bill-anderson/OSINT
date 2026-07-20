@@ -9,7 +9,7 @@ date_source: source
 ingested: 2026-07-19
 places: [NGA]
 topics: [finance.new, infra.connect]
-entities: []
+entities: [[nbs-nigeria], [alton]]
 lens: []
 retrieved: 2026-07-17
 body_completeness: full

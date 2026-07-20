@@ -5,7 +5,7 @@ url: https://www.mmegi.bw/news/govt-to-unveil-long-overdue-digital-labour-market
 publisher: Mmegi
 ingested: 2026-07-18
 lens: []
-body_completeness: full
+body_completeness: paywalled
 author: Pini Bothoko
 published: 2026-06-08
 date_precision: day

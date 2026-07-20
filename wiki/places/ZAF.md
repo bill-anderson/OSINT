@@ -349,7 +349,7 @@ paid. **The government's arithmetic corroborates the plaintiffs.** Full case:
   [[distributed-power-africa]].
 - **2024-01-31** — **Google's Johannesburg cloud region opens** (GCP, `africa-south1`) — Google's
   first African cloud region, competing with **[[amazon-web-services|AWS]]**'s Cape Town region on
-  in-region cloud/AI and data residency; connected via **[[equiano]]**. At launch: **40 cloud regions
+  in-region cloud/AI and data residency; connected via **[[equiano-cable]]**. At launch: **40 cloud regions
   and 121 zones**; **$1bn** committed to African digital transformation. Source:
   [[2024-01-31 Heita South Africa! The new Google Cloud region is now open in Johannesburg]] (Google's
   own announcement — the canonical primary).
@@ -582,7 +582,7 @@ branch / eHomeAffairs / BABS channels; **collection only, no mailing address**) 
   [[microsoft-sa-2026-expansion]] · [[tiara-pathon]] · [[amazon-web-services]] · [[nvidia]] ·
   [[anthropic]] · [[trendai]] · [[deepseek]] · [[meta]] · [[cassava-technologies]] ·
   [[cassava-ai-factories]] · [[liquid-c2]] · [[strive-masiyiwa]]
-- **Connectivity** — [[seacom]] · [[equiano]] · [[vodacom]] · [[mtn-group]] ·
+- **Connectivity** — [[seacom]] · [[equiano-cable]] · [[vodacom]] · [[mtn-group]] ·
   [[mtn-sa-2026-investment]] · [[ralph-mupita]] · [[icasa]] · [[starlink]] · [[spacex]] ·
   [[space42]] · [[thuraya-4]] · [[starlink-vodacom-leo-partnership]] ·
   [[starlink-airtel-d2c-partnership]] · [[safaricom]] · [[vodacom-safaricom-stake-deal]] ·

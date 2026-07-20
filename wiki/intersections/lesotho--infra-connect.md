@@ -48,7 +48,7 @@ and rural coverage — in a market with 100% broadband *coverage* but only ~50% 
   [[2025-07-11-econet-wifi-plus-fmc-lestimes]].
 - **Vodacom — upgrades, AWS skills, govt digitisation (2025-26).** [[geopol.usa]] **[[vodacom]]** upgraded
   its network (Group CEO **Joosub** visit, PM meeting), pledging government online-payments support and
-  **free digital-skills training with [[aws|AWS]]**; then a **$40m (M700m)** phased upgrade with AI across
+  **free digital-skills training with [[amazon-web-services|AWS]]**; then a **$40m (M700m)** phased upgrade with AI across
   network/customer/HR. The government engaged Vodacom (delegation led by Vodafone-Egypt CEO Mohamed
   Abdallah) to modernise government systems "as it did in **Kenya and Egypt**." Sources:
   [[2025-08-25-vodacom-network-upgrade-joosub-techafricanews]], [[2026-02-17-lesotho-vodacom-digitisation-partnership-itweb]],

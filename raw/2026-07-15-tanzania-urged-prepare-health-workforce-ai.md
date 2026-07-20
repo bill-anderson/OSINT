@@ -9,7 +9,7 @@ date_source: source
 ingested: 2026-07-19
 places: [TZA]
 topics: [tech.ai, dpi.mis, capacity.training]
-entities: []
+entities: [[muhimbili-orthopaedic-institute]]
 lens: []
 body_completeness: full
 retrieved: 2026-07-17

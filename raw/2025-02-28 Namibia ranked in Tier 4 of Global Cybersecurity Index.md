@@ -10,7 +10,7 @@ accessed: 2026-07-16
 ingested: 2026-07-16
 places: [NAM]
 topics: [infra.cybersec, data.statistics]
-entities: []
+entities: [[itu]]
 lens: []
 body_completeness: full
 ---

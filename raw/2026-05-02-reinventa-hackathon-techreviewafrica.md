@@ -11,7 +11,7 @@ retrieved: 2026-07-17
 sweep_batch: CPV-2026-07-17
 places: [CPV]
 topics: [tech.innovate, dpi.govtech, capacity.training]
-entities: []
+entities: [[cabo-verde-digital], [ministry-digital-economy-cabo-verde], [world-bank]]
 lens: []
 body_completeness: full
 provenance_flag: pr-wire

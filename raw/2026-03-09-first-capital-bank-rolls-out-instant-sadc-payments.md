@@ -5,7 +5,7 @@ url: https://www.sundaystandard.info/first-capital-bank-rolls-out-instant-sadc-p
 publisher: Sunday Standard
 ingested: 2026-07-18
 lens: []
-body_completeness: full
+body_completeness: paywalled
 author: Cedric Swanka
 published: 2026-03-09
 date_precision: day

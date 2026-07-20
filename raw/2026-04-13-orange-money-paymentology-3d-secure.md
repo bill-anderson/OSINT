@@ -5,7 +5,7 @@ url: https://www.mmegi.bw/business/orange-money-paymentology-strengthen-online-p
 publisher: Mmegi
 ingested: 2026-07-18
 lens: []
-body_completeness: full
+body_completeness: paywalled
 author: Pauline Dikuelo
 published: 2026-04-13
 date_precision: day

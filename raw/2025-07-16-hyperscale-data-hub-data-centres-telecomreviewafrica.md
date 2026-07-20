@@ -12,7 +12,7 @@ sweep_batch: MUS-2026-07-17
 body_completeness: full
 places: [MUS]
 topics: [infra.store, infra.connect]
-entities: []
+entities: [[digital-mauritius-2030]]
 lens: []
 ---
 

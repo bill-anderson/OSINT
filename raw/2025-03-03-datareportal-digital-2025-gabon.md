@@ -9,7 +9,7 @@ date_source: source
 ingested: 2026-07-15
 places: [GAB]
 topics: [infra.connect, include.divides, dpi.pay]
-entities: []
+entities: [[datareportal]]
 lens: []
 body_completeness: full
 ---

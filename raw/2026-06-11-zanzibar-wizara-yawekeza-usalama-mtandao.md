@@ -9,7 +9,7 @@ date_source: source
 ingested: 2026-07-19
 places: [TZA]
 topics: [infra.cybersec, infra.capacity, finance.mou]
-entities: []
+entities: [[ministry-of-communication-ict-zanzibar], [serensic-africa]]
 lens: []
 body_completeness: full
 retrieved: 2026-07-17

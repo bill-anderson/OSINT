@@ -9,7 +9,7 @@ date_source: source
 ingested: 2026-07-18
 places: [KEN]
 topics: [digital.localgov, infra.connect]
-entities: []
+entities: [[one-government-network-kenya], [digital-superhighway-kenya], [kirinyaga-county-government], [state-department-for-ict-and-the-digital-economy-kenya]]
 lens: []
 retrieved: 2026-07-17
 sweep_batch: KEN-2026-07-17

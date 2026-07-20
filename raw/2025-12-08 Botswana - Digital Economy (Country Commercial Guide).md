@@ -11,7 +11,7 @@ accessed: 2026-07-15
 ingested: 2026-07-15
 places: [BWA]
 topics: [gov.policy, infra.connect, tech.industry]
-entities: []
+entities: [[bocra], [smartbots], [botsat-1], [digital-services-act-botswana], [us-department-of-commerce]]
 lens: []
 body_completeness: full
 ---

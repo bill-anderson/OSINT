@@ -11,7 +11,7 @@ accessed: 2026-07-16
 ingested: 2026-07-16
 places: [KEN]
 topics: [dpi.govtech, infra.cybersec]
-entities: []
+entities: [[national-police-service-kenya], [state-department-for-ict-and-the-digital-economy-kenya], [npsims]]
 lens: []
 body_completeness: full
 ---

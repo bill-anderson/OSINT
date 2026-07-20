@@ -11,7 +11,7 @@ retrieved: 2026-07-17
 sweep_batch: LBY-2026-07-17
 places: [LBY]
 topics: [tech.ai, gov.regional, geopol.usa, gov.policy]
-entities: []
+entities: [[lawyers-hub], [uneca], [world-bank], [google], [ministry-of-state-for-digital-economy-libya]]
 lens: [sovereignty]
 body_completeness: full
 ---

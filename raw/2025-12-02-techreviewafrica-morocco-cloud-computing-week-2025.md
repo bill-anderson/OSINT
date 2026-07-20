@@ -11,7 +11,7 @@ retrieved: 2026-07-17
 sweep_batch: MAR-2026-07-17
 places: [MAR]
 topics: [infra.store]
-entities: []
+entities: [[ministry-digital-transition-morocco], [oracle], [digital-morocco-2030]]
 lens: []
 body_completeness: full
 provenance_flag: pr-wire

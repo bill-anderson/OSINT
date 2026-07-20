@@ -11,7 +11,7 @@ retrieved: 2026-07-17
 sweep_batch: LBY-2026-07-17
 places: [LBY]
 topics: [dpi.govtech, dpi.exchange]
-entities: []
+entities: [[libyan-general-union-chambers-of-commerce], [ministry-economy-trade-libya], [libya-unified-chambers-digital-system]]
 lens: []
 body_completeness: full
 ---

@@ -11,7 +11,7 @@ accessed: 2026-07-16
 ingested: 2026-07-16
 places: [GMB]
 topics: [dpi.govtech, dpi.pay, data.statistics]
-entities: []
+entities: [[gambia-revenue-authority], [avatar-technologies], [ministry-of-finance-gambia]]
 lens: []
 body_completeness: full
 ---

@@ -11,7 +11,7 @@ accessed: 2026-07-11
 ingested: 2026-07-11
 places: [MWI]
 topics: [dpi.govtech, gov.policy, dpi.id, include.access]
-entities: []
+entities: [[malawi-2063], [malawi-digital-identity-wallet]]
 lens: []
 body_completeness: excerpt
 ---

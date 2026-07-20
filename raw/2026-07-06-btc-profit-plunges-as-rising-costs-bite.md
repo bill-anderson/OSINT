@@ -5,7 +5,7 @@ url: https://www.mmegi.bw/business/btc-profit-plunges-as-rising-costs-bite/news
 publisher: Mmegi
 ingested: 2026-07-18
 lens: []
-body_completeness: full
+body_completeness: paywalled
 author: Lewanika Timothy
 published: 2026-07-06
 date_precision: day

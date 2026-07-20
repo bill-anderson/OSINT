@@ -3,7 +3,7 @@ type: source
 title: Angola passes landmark start-up law
 url: https://itweb.africa/article/angola-passes-landmark-start-up-law/lLn14MmQwnVMJ6Aa
 publisher: ITWeb Africa
-entities: []
+entities: [[angola-startups-law], [ministry-industry-commerce-angola], [crescer-project-angola], [african-development-bank], [ifc]]
 lens: []
 body_completeness: full
 author: Samuel Olomu

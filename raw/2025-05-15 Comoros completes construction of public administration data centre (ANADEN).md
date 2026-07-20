@@ -13,7 +13,7 @@ places: [COM]
 topics: [infra.store, dpi.govtech]
 entities: [[anaden], [project-digitization-comorian-economy]]
 lens: [sovereignty]
-body_completeness: full
+body_completeness: paywalled
 ---
 
 <!-- Telecompaper/Ecofin (May 2025; lede only, rest paywalled): Comoros completed construction of a new public-administration data centre, inauguration due 19 May 2025. Co-managed by the National Agency for Digital Development (ANADEN) and Comores Cable; Tier 3, 44.4 terabits hosting capacity; hosts State + private-sector digital platforms and centralises public data to international standards. The physical component of the AfDB-funded Project to Support the Digitisation of the Comorian Economy. -->

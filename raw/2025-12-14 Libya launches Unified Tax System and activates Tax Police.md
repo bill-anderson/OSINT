@@ -11,7 +11,7 @@ accessed: 2026-07-16
 ingested: 2026-07-16
 places: [LBY]
 topics: [dpi.govtech, dpi.pay, data.statistics]
-entities: []
+entities: [[libyan-tax-authority], [libya-unified-tax-system]]
 lens: []
 body_completeness: full
 ---

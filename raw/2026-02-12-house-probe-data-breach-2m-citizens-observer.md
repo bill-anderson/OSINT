@@ -11,7 +11,7 @@ retrieved: 2026-07-17
 sweep_batch: LBR-2026-07-17
 places: [LBR]
 topics: [infra.cybersec, gov.protect]
-entities: []
+entities: [[house-of-representatives-liberia], [liberia-revenue-authority], [liberia-electricity-corporation], [national-investment-commission-liberia], [liberia-cybercrime-act-2025]]
 lens: []
 body_completeness: full
 ---

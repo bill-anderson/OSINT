@@ -12,7 +12,7 @@ sweep_batch: MUS-2026-07-17
 body_completeness: full
 places: [MUS]
 topics: [dpi.mis, dpi.registry, include.access, dpi.govtech]
-entities: []
+entities: [[e-social-security-mauritius], [ministry-of-social-security-mauritius]]
 lens: []
 ---
 

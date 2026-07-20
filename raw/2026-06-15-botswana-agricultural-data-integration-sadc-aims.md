@@ -5,7 +5,7 @@ url: https://www.mmegi.bw/news/botswana-moves-to-strengthen-agricultural-data-in
 publisher: Mmegi
 ingested: 2026-07-18
 lens: []
-body_completeness: full
+body_completeness: paywalled
 author: Pini Bothoko
 published: 2026-06-15
 date_precision: day

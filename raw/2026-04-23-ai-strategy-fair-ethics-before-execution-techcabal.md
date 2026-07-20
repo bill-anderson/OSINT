@@ -12,7 +12,7 @@ sweep_batch: MUS-2026-07-17
 body_completeness: full
 places: [MUS]
 topics: [tech.ai, gov.policy, gov.standards]
-entities: []
+entities: [[mauritius-national-ai-strategy], [fair-guidelines-mauritius]]
 lens: []
 ---
 

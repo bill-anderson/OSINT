@@ -5,7 +5,7 @@ url: https://www.sundaystandard.info/botswana-records-lowest-suspected-digital-f
 publisher: Sunday Standard
 ingested: 2026-07-18
 lens: []
-body_completeness: full
+body_completeness: paywalled
 author: Obusitse Kologwe
 published: 2026-06-15
 date_precision: day

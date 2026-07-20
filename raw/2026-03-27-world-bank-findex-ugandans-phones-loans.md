@@ -9,7 +9,7 @@ date_source: source
 ingested: 2026-07-19
 places: [UGA]
 topics: [dpi.pay, include.access]
-entities: []
+entities: [[world-bank], [global-findex]]
 lens: []
 body_completeness: full
 retrieved: 2026-07-17

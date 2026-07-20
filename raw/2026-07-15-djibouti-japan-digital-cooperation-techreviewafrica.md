@@ -9,7 +9,7 @@ date_source: source
 ingested: 2026-07-18
 places: [DJI]
 topics: [gov.regional, dpi.govtech, capacity.training]
-entities: []
+entities: [[mdeni-djibouti], [japan]]
 lens: []
 body_completeness: full
 provenance_flag: pr-wire

@@ -12,7 +12,7 @@ sweep_batch: MUS-2026-07-17
 body_completeness: full
 places: [MUS]
 topics: [gov.protect, gov.legislate, tech.ai]
-entities: []
+entities: [[sugar-investment-trust-mauritius], [moustass-leaks]]
 lens: [sovereignty]
 ---
 

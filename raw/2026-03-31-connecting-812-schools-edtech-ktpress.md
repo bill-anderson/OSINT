@@ -14,7 +14,7 @@ sweep_batch: RWA-2026-07-17
 body_completeness: full
 places: [RWA]
 topics: [infra.connect, include.divides, digital.rural]
-entities: []
+entities: [[mastercard-foundation-cital], [rwanda-ict-chamber]]
 ---
 
 Connecting the Remaining 812 Schools Takes Centre Stage at EdTech Mondays Dialogue - KT PRESS Home » Connecting the Remaining 812 Schools Takes Centre Stage at EdTech Mondays Dialogue NationalNews

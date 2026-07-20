@@ -9,7 +9,7 @@ date_source: source
 ingested: 2026-07-19
 places: [TGO]
 topics: [dpi.govtech, dpi.registry]
-entities: []
+entities: [[dban-togo], [atbad-togo]]
 lens: []
 body_completeness: full
 retrieved: 2026-07-17

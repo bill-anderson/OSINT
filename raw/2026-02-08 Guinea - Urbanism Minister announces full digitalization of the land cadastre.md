@@ -11,7 +11,7 @@ accessed: 2026-07-15
 ingested: 2026-07-16
 places: [GIN]
 topics: [dpi.registry, digital.localgov, gov.policy]
-entities: []
+entities: [[ministry-urbanism-housing-guinea]]
 lens: [sovereignty]
 body_completeness: full
 ---

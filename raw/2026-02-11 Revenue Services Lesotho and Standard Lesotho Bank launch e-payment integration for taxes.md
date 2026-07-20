@@ -11,7 +11,7 @@ accessed: 2026-07-16
 ingested: 2026-07-16
 places: [LSO]
 topics: [dpi.pay, dpi.govtech, data.statistics]
-entities: []
+entities: [[revenue-services-lesotho], [standard-lesotho-bank]]
 lens: []
 body_completeness: full
 ---

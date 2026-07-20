@@ -9,7 +9,7 @@ date_source: source
 ingested: 2026-07-19
 places: [TZA]
 topics: [tech.ai, gov.legislate, capacity.training]
-entities: []
+entities: [[attorney-general-tanzania], [tanzania-development-vision-2050]]
 lens: []
 body_completeness: full
 retrieved: 2026-07-17

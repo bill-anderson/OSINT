@@ -11,7 +11,7 @@ accessed: 2026-07-15
 ingested: 2026-07-15
 places: [CIV]
 topics: [gov.policy, dpi.exchange, data.statistics]
-entities: []
+entities: [[mepd-cote-divoire], [civ-sdsi-2026-2030]]
 lens: []
 body_completeness: full
 ---

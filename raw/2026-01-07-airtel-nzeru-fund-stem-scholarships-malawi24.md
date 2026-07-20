@@ -9,7 +9,7 @@ date_source: source
 ingested: 2026-07-19
 places: [MWI]
 topics: [capacity.training, tech.industry]
-entities: []
+entities: [[airtel-malawi], [airtel-africa], [nzeru-fund], [malawi-university-of-science-and-technology]]
 lens: []
 retrieved: 2026-07-17
 sweep_batch: MWI-2026-07-17

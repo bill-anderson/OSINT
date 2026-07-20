@@ -11,7 +11,7 @@ retrieved: 2026-07-17
 sweep_batch: GNQ-2026-07-17
 places: [GNQ, GAB]
 topics: [infra.connect, gov.regional]
-entities: []
+entities: [[arcep-gabon], [aninf-gabon], [moov-africa-gabon-telecom], [airtel-gabon]]
 lens: [sovereignty]
 body_completeness: full
 ---

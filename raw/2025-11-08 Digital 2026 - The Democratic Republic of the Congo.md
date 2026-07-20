@@ -11,7 +11,7 @@ accessed: 2026-07-15
 ingested: 2026-07-15
 places: [COD]
 topics: [infra.connect, include.divides]
-entities: []
+entities: [[datareportal]]
 lens: []
 body_completeness: full
 ---

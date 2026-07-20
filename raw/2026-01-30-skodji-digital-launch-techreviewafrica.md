@@ -11,7 +11,7 @@ retrieved: 2026-07-17
 sweep_batch: CPV-2026-07-17
 places: [CPV]
 topics: [capacity.training, include.access, tech.industry, finance.new]
-entities: []
+entities: [[skodji-digital], [world-bank], [digital-cabo-verde-project], [ministry-digital-economy-cabo-verde]]
 lens: []
 body_completeness: full
 provenance_flag: pr-wire

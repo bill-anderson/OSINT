@@ -5,7 +5,7 @@ url: https://www.mmegi.bw/news/cyber-drill-sounds-alarm-on-ai-iot-and-quantum-th
 publisher: Mmegi
 ingested: 2026-07-18
 lens: []
-body_completeness: full
+body_completeness: paywalled
 author: Larona Makhaiza
 published: 2026-03-09
 date_precision: day

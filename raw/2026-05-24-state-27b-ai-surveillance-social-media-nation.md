@@ -9,7 +9,7 @@ date_source: source
 ingested: 2026-07-18
 places: [KEN]
 topics: [tech.ai, gov.protect, infra.cybersec]
-entities: []
+entities: [[state-department-for-broadcasting-and-telecommunications-kenya], [national-assembly-kenya], [national-communication-centre-kenya]]
 lens: []
 retrieved: 2026-07-17
 sweep_batch: KEN-2026-07-17

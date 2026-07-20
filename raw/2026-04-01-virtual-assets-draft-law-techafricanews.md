@@ -14,7 +14,7 @@ sweep_batch: RWA-2026-07-17
 body_completeness: full
 places: [RWA]
 topics: [gov.legislate, dpi.pay]
-entities: []
+entities: [[chamber-of-deputies-rwanda], [minecofin-rwanda], [rwanda-virtual-assets-law]]
 ---
 
 Parliament Approves Draft Law on Virtual Assets as Rwanda Strengthens Digital Finance Rules - TechAfrica News Today's Bulletin: July 19, 2026

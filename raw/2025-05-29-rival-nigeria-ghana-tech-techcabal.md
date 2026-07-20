@@ -11,7 +11,7 @@ retrieved: 2026-07-17
 sweep_batch: CPV-2026-07-17
 places: [CPV]
 topics: [tech.innovate, tech.industry, infra.connect]
-entities: []
+entities: [[techpark-cv], [ministry-of-digital-economy-cabo-verde]]
 lens: []
 body_completeness: full
 ---

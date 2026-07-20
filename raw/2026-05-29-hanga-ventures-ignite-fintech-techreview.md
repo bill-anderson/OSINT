@@ -14,7 +14,7 @@ sweep_batch: RWA-2026-07-17
 body_completeness: full
 places: [RWA]
 topics: [tech.innovate, dpi.pay]
-entities: []
+entities: [[ministry-of-ict-and-innovation-rwanda], [hanga-ventures], [kayko], [save-directly]]
 provenance_flag: pr-wire
 ---
 

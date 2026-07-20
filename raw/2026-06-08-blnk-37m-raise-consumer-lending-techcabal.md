@@ -11,7 +11,7 @@ retrieved: 2026-07-17
 sweep_batch: EGY-2026-07-17
 places: [EGY]
 topics: [dpi.pay, finance.new, tech.innovate, include.access]
-entities: []
+entities: [[blnk], [algebra-ventures], [sanad-fund-for-msme], [national-bank-of-egypt]]
 lens: []
 body_completeness: full
 ---

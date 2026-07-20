@@ -12,7 +12,7 @@ retrieved: 2026-07-17
 sweep_batch: SEN-2026-07-17
 places: [SEN]
 topics: [capacity.training, include.access, tech.ai]
-entities: []
+entities: [[stmicroelectronics-foundation], [itu]]
 lens: []
 ---
 

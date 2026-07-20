@@ -9,7 +9,7 @@ date_source: source
 ingested: 2026-07-15
 places: [ETH]
 topics: [infra.energy, infra.store]
-entities: []
+entities: [[bitdeer]]
 lens: []
 body_completeness: full
 ---

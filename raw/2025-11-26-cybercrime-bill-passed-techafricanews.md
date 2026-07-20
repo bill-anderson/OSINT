@@ -10,7 +10,7 @@ date_precision: day
 date_source: source
 places: [SSD]
 topics: [infra.cybersec, gov.legislate, gov.protect]
-entities: []
+entities: [[south-sudan-cybercrime-bill-2025], [revitalized-national-legislative-assembly-south-sudan], [ministry-ict-postal-services-south-sudan]]
 lens: []
 body_completeness: full
 retrieved: 2026-07-17

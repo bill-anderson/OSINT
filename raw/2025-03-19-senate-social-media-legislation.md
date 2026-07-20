@@ -12,7 +12,7 @@ body_completeness: full
 sweep_batch: NGA-2026-07-17
 places: [NGA]
 topics: [gov.legislate]
-entities: []
+entities: [[senate-of-nigeria], [nigeria-data-protection-act-2023], [meta], [x-corp], [tiktok]]
 lens: []
 ---
 

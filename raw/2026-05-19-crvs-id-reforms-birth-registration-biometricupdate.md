@@ -11,7 +11,7 @@ retrieved: 2026-07-17
 sweep_batch: CPV-2026-07-17
 places: [CPV]
 topics: [dpi.id, dpi.registry, dpi.exchange]
-entities: []
+entities: [[autentika-cabo-verde], [imij-cabo-verde], [id4africa]]
 lens: []
 body_completeness: full
 ---

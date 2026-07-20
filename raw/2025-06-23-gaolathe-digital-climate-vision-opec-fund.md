@@ -5,7 +5,7 @@ url: https://www.sundaystandard.info/gaolathe-makes-bold-case-for-botswanas-digi
 publisher: Sunday Standard
 ingested: 2026-07-18
 lens: []
-body_completeness: full
+body_completeness: paywalled
 author: Thobo Motlhoka
 published: 2025-06-23
 date_precision: day

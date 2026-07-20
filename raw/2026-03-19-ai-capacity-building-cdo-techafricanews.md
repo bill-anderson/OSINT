@@ -14,7 +14,7 @@ sweep_batch: RWA-2026-07-17
 body_completeness: full
 places: [RWA]
 topics: [tech.ai, capacity.training]
-entities: []
+entities: [[minict-rwanda], [cenfri]]
 ---
 
 Government of Rwanda Deepens AI Strategy Through Capacity-Building Initiative - TechAfrica News Today's Bulletin: July 19, 2026

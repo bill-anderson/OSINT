@@ -11,7 +11,7 @@ places: [DJI]
 topics: [dpi.pay, finance.mou, dpi.id, dpi.govtech, include.access]
 entities: [[smart-wallet-djibouti], [visa], [tech5], [mariam-hamadou-ali], [vision-djibouti-2035]]
 lens: [sovereignty]
-body_completeness: full
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: DJI-2026-07-17
 ---

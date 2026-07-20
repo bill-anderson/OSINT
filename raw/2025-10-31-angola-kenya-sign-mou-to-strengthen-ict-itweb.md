@@ -3,7 +3,7 @@ type: source
 title: Angola, Kenya sign MoU to strengthen ICT
 url: https://itweb.africa/article/angola-kenya-sign-mou-to-strengthen-ict/KA3WwqdzO3l7rydZ
 publisher: ITWeb Africa
-entities: []
+entities: [[kenya-angola-ict-mou], [state-department-for-ict-and-the-digital-economy-kenya], [ministerio-das-telecomunicacoes-tecnologias-de-informacao-e-comunicacao-social-angola]]
 lens: []
 body_completeness: full
 author: Maria Macharia

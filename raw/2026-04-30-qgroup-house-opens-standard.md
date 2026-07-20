@@ -11,7 +11,7 @@ retrieved: 2026-07-17
 sweep_batch: GMB-2026-07-17
 places: [GMB]
 topics: [infra.store, infra.connect, geopol.china]
-entities: []
+entities: [[qgroup-house-datacentre], [qgroup], [qcell], [qfiber], [huawei]]
 lens: [sovereignty]
 body_completeness: full
 ---

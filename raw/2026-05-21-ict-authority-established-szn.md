@@ -10,7 +10,7 @@ date_precision: day
 date_source: source
 places: [SSD]
 topics: [gov.legislate, gov.policy, gov.protect]
-entities: []
+entities: [[south-sudan-ict-authority], [national-communication-authority-south-sudan], [south-sudan-data-protection-bill], [ministry-of-ict-and-postal-services-south-sudan]]
 lens: []
 body_completeness: full
 retrieved: 2026-07-17

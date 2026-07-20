@@ -11,7 +11,7 @@ retrieved: 2026-07-17
 sweep_batch: CPV-2026-07-17
 places: [CPV]
 topics: [capacity.training, capacity.literacy, include.divides]
-entities: []
+entities: [[ministry-of-digital-economy-cabo-verde], [arme-cabo-verde], [digital-cabo-verde-project]]
 lens: []
 body_completeness: full
 ---

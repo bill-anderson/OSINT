@@ -11,7 +11,7 @@ retrieved: 2026-07-17
 sweep_batch: LBY-2026-07-17
 places: [LBY]
 topics: [tech.ai, capacity.training, geopol.india]
-entities: []
+entities: [[gaci-libya], [itec-programme], [libya-communications-informatics-strategy-2023-2027]]
 lens: []
 body_completeness: full
 ---

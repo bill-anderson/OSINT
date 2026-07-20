@@ -10,7 +10,7 @@ date_source: source
 ingested: 2026-07-16
 places: [STP]
 topics: [include.access, infra.connect]
-entities: [[datareportal], [gsma], [kepios]]
+entities: [[datareportal], [kepios]]
 lens: []
 body_completeness: full
 ---

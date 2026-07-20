@@ -9,7 +9,7 @@ date_source: source
 ingested: 2026-07-19
 places: [UGA]
 topics: [tech.innovate, gov.policy]
-entities: []
+entities: [[uganda-income-tax-amendment-bill-2025], [national-ict-innovation-hub-uganda]]
 lens: []
 body_completeness: full
 retrieved: 2026-07-17

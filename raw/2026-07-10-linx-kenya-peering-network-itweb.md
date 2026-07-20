@@ -9,7 +9,7 @@ date_source: source
 ingested: 2026-07-18
 places: [KEN]
 topics: [infra.connect, dpi.exchange]
-entities: []
+entities: [[linx-nairobi], [angani]]
 lens: []
 retrieved: 2026-07-17
 sweep_batch: KEN-2026-07-17

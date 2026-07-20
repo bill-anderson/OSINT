@@ -14,7 +14,7 @@ places: [BWA]
 topics: [capacity.training, geopol.china, capacity.research, infra.capacity]
 entities: [[huawei], [university-of-botswana], [botswana-international-university-of-science-and-technology], [botho-university], [botswana-accountancy-college]]
 lens: [sovereignty]
-body_completeness: full
+body_completeness: paywalled
 ---
 
 # Huawei ICT competition boosts digital skills development in Botswana

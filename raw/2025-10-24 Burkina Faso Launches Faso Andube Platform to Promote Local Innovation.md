@@ -11,7 +11,7 @@ accessed: 2026-07-15
 ingested: 2026-07-15
 places: [BFA]
 topics: [tech.innovate, capacity.training]
-entities: []
+entities: [[faso-andube]]
 lens: [sovereignty]
 body_completeness: full
 ---

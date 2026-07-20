@@ -12,7 +12,7 @@ sweep_batch: MUS-2026-07-17
 body_completeness: full
 places: [MUS]
 topics: [dpi.pay, gov.policy, finance.new, gov.regional]
-entities: []
+entities: [[mauritius-national-fintech-strategy], [uneca], [ministry-of-finance-mauritius]]
 lens: []
 ---
 

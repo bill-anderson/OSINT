@@ -9,7 +9,7 @@ date_source: source
 ingested: 2026-07-19
 places: [UGA]
 topics: [tech.ai, capacity.training, capacity.literacy]
-entities: []
+entities: [[uganda-institute-of-ict], [ministry-of-ict-and-national-guidance-uganda]]
 lens: []
 body_completeness: full
 retrieved: 2026-07-17

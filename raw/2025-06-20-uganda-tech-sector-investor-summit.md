@@ -9,7 +9,7 @@ date_source: source
 ingested: 2026-07-19
 places: [UGA]
 topics: [tech.innovate, finance.new, tech.industry]
-entities: []
+entities: [[ministry-of-science-technology-and-innovation-uganda], [kiira-motors], [uganda-investor-summit]]
 lens: []
 body_completeness: full
 retrieved: 2026-07-17

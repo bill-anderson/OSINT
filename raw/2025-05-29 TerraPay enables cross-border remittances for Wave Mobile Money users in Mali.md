@@ -10,7 +10,7 @@ accessed: 2026-07-16
 ingested: 2026-07-16
 places: [MLI]
 topics: [dpi.pay, gov.regional, include.access]
-entities: []
+entities: [[terrapay], [wave-mobile-money], [orabank]]
 lens: []
 body_completeness: full
 ---

@@ -11,7 +11,7 @@ retrieved: 2026-07-17
 sweep_batch: LBY-2026-07-17
 places: [LBY]
 topics: [infra.cybersec, gov.legislate, gov.policy]
-entities: []
+entities: [[house-of-representatives-libya], [national-security-council-libya]]
 lens: [sovereignty]
 body_completeness: full
 ---

@@ -11,7 +11,7 @@ places: [DJI]
 topics: [data.open, data.statistics, gov.standards]
 entities: [[instad-djibouti], [banque-centrale-djibouti], [imf], [african-development-bank]]
 lens: []
-body_completeness: full
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: DJI-2026-07-17
 ---

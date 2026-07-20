@@ -11,7 +11,7 @@ accessed: 2026-07-11
 ingested: 2026-07-11
 places: [XAF, XSS]
 topics: [infra.connect, infra.capacity, digital.rural, include.access]
-entities: []
+entities: [[st-engineering-idirect]]
 lens: []
 body_completeness: full
 ---

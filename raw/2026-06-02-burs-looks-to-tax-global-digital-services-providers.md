@@ -14,7 +14,7 @@ places: [BWA]
 topics: [gov.legislate, tech.industry, geopol.usa]
 entities: [[botswana-unified-revenue-service], [remote-service-vat-act-botswana]]
 lens: [sovereignty]
-body_completeness: full
+body_completeness: paywalled
 ---
 
 # BURS looks to tax global digital services providers

@@ -9,7 +9,7 @@ date_source: source
 ingested: 2026-07-15
 places: [EGY]
 topics: [dpi.govtech, dpi.id]
-entities: []
+entities: [[national-elections-authority-egypt]]
 lens: []
 body_completeness: full
 ---

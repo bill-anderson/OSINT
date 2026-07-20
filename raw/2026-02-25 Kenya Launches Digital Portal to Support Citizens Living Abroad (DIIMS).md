@@ -11,7 +11,7 @@ accessed: 2026-07-16
 ingested: 2026-07-16
 places: [KEN]
 topics: [dpi.govtech, include.access]
-entities: []
+entities: [[ecitizen], [diims-kenya], [state-department-diaspora-affairs-kenya], [kazi-majuu]]
 lens: []
 body_completeness: full
 ---

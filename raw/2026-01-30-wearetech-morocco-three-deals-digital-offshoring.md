@@ -11,7 +11,7 @@ retrieved: 2026-07-17
 sweep_batch: MAR-2026-07-17
 places: [MAR]
 topics: [tech.industry, finance.mou]
-entities: []
+entities: [[tech-valleys-offshoring-morocco], [ministry-digital-transition-morocco]]
 lens: []
 body_completeness: full
 ---

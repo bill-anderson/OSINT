@@ -3,7 +3,7 @@ type: source
 title: Namibia ICT Minister Visits Angola's National Data Centre During ANGOTIC 2026
 url: https://techafricanews.com/2026/06/16/namibia-ict-minister-visits-angolas-national-data-centre-during-angotic-2026/
 publisher: TechAfrica News
-entities: []
+entities: [[infosi], [ministry-of-information-and-communication-technology-namibia], [data-center-e-cloud-do-governo-angola], [angotic]]
 author: Editorial Team
 published: 2026-06-16
 date_precision: day

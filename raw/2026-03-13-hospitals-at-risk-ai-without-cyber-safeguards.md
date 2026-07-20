@@ -9,7 +9,7 @@ date_source: source
 ingested: 2026-07-19
 places: [TZA]
 topics: [tech.ai, infra.cybersec, dpi.mis, gov.protect]
-entities: []
+entities: [[tanzania-digital-health-strategy-2025-2030], [tanzania-pdpa], [ministry-of-health-tanzania]]
 lens: []
 body_completeness: full
 retrieved: 2026-07-17

@@ -3,7 +3,7 @@ type: source
 title: Angola gets $10m from Japan for DTT project
 url: https://itweb.africa/article/angola-gets-10m-from-japan-for-dtt-project/KBpdgvpmlj17LEew
 publisher: ITWeb Africa
-entities: []
+entities: [[japan], [jica], [ministerio-das-telecomunicacoes-tecnologias-de-informacao-e-comunicacao-social-angola]]
 lens: []
 body_completeness: full
 author: Lezeth Khoza

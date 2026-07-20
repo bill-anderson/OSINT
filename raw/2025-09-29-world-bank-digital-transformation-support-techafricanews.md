@@ -11,7 +11,7 @@ retrieved: 2026-07-17
 sweep_batch: CPV-2026-07-17
 places: [CPV]
 topics: [dpi.govtech, gov.policy, finance.new]
-entities: []
+entities: [[world-bank], [digital-cabo-verde-project], [ministry-digital-economy-cabo-verde]]
 lens: []
 body_completeness: full
 ---

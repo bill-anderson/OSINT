@@ -5,7 +5,7 @@ url: https://www.mmegi.bw/news/botswana-gains-upper-hand-against-fmd/news
 publisher: Mmegi
 ingested: 2026-07-18
 lens: []
-body_completeness: full
+body_completeness: paywalled
 author: Pauline Dikuelo
 published: 2026-07-13
 date_precision: day

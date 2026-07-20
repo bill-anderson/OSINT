@@ -9,7 +9,7 @@ date_source: source
 ingested: 2026-07-15
 places: [EGY]
 topics: [dpi.mis, dpi.govtech, include.access]
-entities: []
+entities: [[nsia-egypt], [ministry-social-solidarity-egypt]]
 lens: []
 body_completeness: full
 ---

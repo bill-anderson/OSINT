@@ -9,7 +9,7 @@ date_source: source
 ingested: 2026-07-15
 places: [EGY]
 topics: [infra.cybersec, gov.policy]
-entities: []
+entities: [[itu]]
 lens: []
 body_completeness: full
 ---

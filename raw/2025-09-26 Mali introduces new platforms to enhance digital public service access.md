@@ -11,7 +11,7 @@ accessed: 2026-07-16
 ingested: 2026-07-16
 places: [MLI]
 topics: [dpi.govtech, dpi.id, dpi.registry, include.access]
-entities: []
+entities: [[sigui-dolo], [openclinic], [sigip-mali], [tresor-pay], [sydonia]]
 lens: []
 body_completeness: full
 ---

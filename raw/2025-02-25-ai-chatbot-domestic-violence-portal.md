@@ -12,7 +12,7 @@ body_completeness: full
 sweep_batch: NGA-2026-07-17
 places: [NGA]
 topics: [dpi.govtech, tech.ai]
-entities: []
+entities: [[dsva-lagos], [lagos-state-government], [ask-inu]]
 lens: []
 ---
 

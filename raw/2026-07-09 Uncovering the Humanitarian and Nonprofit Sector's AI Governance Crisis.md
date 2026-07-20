@@ -11,7 +11,7 @@ accessed: 2026-07-12
 ingested: 2026-07-12
 places: [XGL, XSS]
 topics: [gov.protect, tech.ai, dpi.id, include.access]
-entities: []
+entities: [[world-food-programme], [unhcr]]
 lens: [colonialism]
 body_completeness: full
 ---

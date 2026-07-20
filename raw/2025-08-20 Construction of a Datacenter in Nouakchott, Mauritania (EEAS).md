@@ -10,7 +10,7 @@ accessed: 2026-07-16
 ingested: 2026-07-16
 places: [MRT]
 topics: [infra.store, infra.connect, gov.regional]
-entities: []
+entities: [[european-union], [eib], [global-gateway], [world-bank], [international-mauritania-telecom]]
 lens: [sovereignty]
 body_completeness: full
 ---

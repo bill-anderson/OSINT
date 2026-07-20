@@ -12,7 +12,7 @@ sweep_batch: MUS-2026-07-17
 body_completeness: full
 places: [MUS]
 topics: [infra.cybersec, gov.legislate, dpi.id, gov.protect]
-entities: []
+entities: [[ministry-ict-mauritius]]
 lens: [sovereignty]
 ---
 

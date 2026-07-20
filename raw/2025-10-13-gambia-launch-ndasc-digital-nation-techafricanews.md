@@ -13,7 +13,7 @@ retrieved: 2026-07-17
 sweep_batch: GMB-2026-07-17
 places: [GMB]
 topics: [dpi.govtech, gov.policy]
-entities: []
+entities: [[ndasc-gambia], [ministry-communications-digital-economy-gambia]]
 ---
 
 # The Gambia Takes Major Step Toward a Fully Digital Nation with Launch of NDASC (National Digital Addressing Steering Committee)

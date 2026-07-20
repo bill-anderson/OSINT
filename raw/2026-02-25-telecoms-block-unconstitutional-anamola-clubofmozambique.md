@@ -9,7 +9,7 @@ date_source: source
 ingested: 2026-07-18
 places: [MOZ]
 topics: [infra.connect, gov.protect]
-entities: []
+entities: [[anamola], [constitutional-council-mozambique], [incm-mozambique], [mozambique-decree-48-2025]]
 lens: [sovereignty]
 body_completeness: full
 retrieved: 2026-07-17

@@ -12,7 +12,7 @@ sweep_batch: MUS-2026-07-17
 body_completeness: full
 places: [MUS]
 topics: [infra.cybersec, gov.legislate, gov.standards]
-entities: []
+entities: [[mauritius-cii-designation-regulations-2026], [ministry-ict-mauritius], [mauritius-cybersecurity-and-cybercrime-act]]
 lens: []
 ---
 

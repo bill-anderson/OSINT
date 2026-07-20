@@ -11,7 +11,7 @@ retrieved: 2026-07-17
 sweep_batch: GNQ-2026-07-17
 places: [GNQ]
 topics: [infra.store, tech.ai, gov.policy]
-entities: []
+entities: [[zeede-djibloho], [ministry-transport-telecoms-ai-gnq]]
 lens: []
 body_completeness: full
 ---

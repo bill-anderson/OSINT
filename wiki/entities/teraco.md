@@ -47,7 +47,7 @@ disclosure practice [[cavaleros]]' non-disclosure is explicitly contrasted.
 - **Interconnection.** The Isando campus carries **>16,500 interconnects** (2024-11) — the density
   that makes it the sub-Saharan colocation hub rather than merely the largest floorspace. Hnizdo
   frames SA as the springboard for cloud into Africa, strengthened by subsea investment including
-  **[[equiano]]** and 2Africa. Source:
+  **[[equiano-cable]]** and 2Africa. Source:
   [[2024-11-13 Teraco to build 40 MW JB7 data centre at Isando Campus]].
 - **Transparency, noted approvingly (2026-02).** Daily Maverick contrasts Teraco's disclosure of
   current capacities, expansion plans and energy approach with **[[cavaleros]]**' position that its
@@ -62,4 +62,4 @@ disclosure practice [[cavaleros]]' non-disclosure is explicitly contrasted.
 
 Place: [[ZAF]] · Intersection: [[south-africa--infra-store]] · Parent: [[digital-realty]] ·
 Competitors: [[africa-data-centres]] · [[equinix]] · [[vantage]] · [[cavaleros]] ·
-Grid: [[eskom]] · Cable: [[equiano]]
+Grid: [[eskom]] · Cable: [[equiano-cable]]

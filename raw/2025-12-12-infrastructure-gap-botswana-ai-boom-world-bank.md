@@ -5,7 +5,7 @@ url: https://www.sundaystandard.info/infrastructure-gap-puts-botswana-on-the-bac
 publisher: Sunday Standard
 ingested: 2026-07-18
 lens: []
-body_completeness: full
+body_completeness: paywalled
 author: Sunday Standard Reporter
 published: 2025-12-12
 date_precision: day

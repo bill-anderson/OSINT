@@ -4,7 +4,7 @@ title: "Télécoms : Le Cameroun veut s'inspirer du modèle nigérian pour moder
 url: https://leconomie.info/telecoms-le-cameroun-veut-sinspirer-du-modele-nigerian-pour-moderniser-sa-regulation-numerique/
 publisher: Le quotidien L'Economie
 ingested: 2026-07-18
-entities: []
+entities: [[ncc], [art-cameroon]]
 author: William Abada
 published: 2026-05-11
 date_precision: day

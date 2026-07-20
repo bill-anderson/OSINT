@@ -9,7 +9,7 @@ date_source: source
 ingested: 2026-07-15
 places: [ERI]
 topics: [dpi.govtech, dpi.exchange, gov.policy]
-entities: []
+entities: [[asycuda], [undp], [unctad]]
 lens: [sovereignty]
 body_completeness: full
 ---

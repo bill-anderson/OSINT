@@ -11,7 +11,7 @@ retrieved: 2026-07-17
 sweep_batch: CPV-2026-07-17
 places: [CPV, AGO, GNB, MOZ, STP]
 topics: [dpi.id, gov.regional]
-entities: []
+entities: [[unu-egov], [cetic-br], [nic-br], [digital-governance-dialogues]]
 lens: []
 body_completeness: full
 ---

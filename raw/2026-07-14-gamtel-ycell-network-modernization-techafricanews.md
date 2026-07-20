@@ -11,7 +11,7 @@ retrieved: 2026-07-17
 sweep_batch: GMB-2026-07-17
 places: [GMB]
 topics: [tech.industry, finance.new]
-entities: []
+entities: [[gamcel-ycell-deal], [gamtel], [ycell], [gamcel]]
 lens: [sovereignty]
 body_completeness: full
 ---

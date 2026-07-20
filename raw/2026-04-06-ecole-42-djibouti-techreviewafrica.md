@@ -9,7 +9,7 @@ date_source: source
 ingested: 2026-07-18
 places: [DJI]
 topics: [capacity.training, tech.innovate, geopol.eu]
-entities: []
+entities: [[ecole-42-djibouti], [mdeni-djibouti], [djibouti-code-campus], [expertise-france], [european-union]]
 lens: []
 body_completeness: full
 provenance_flag: pr-wire

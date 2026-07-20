@@ -11,7 +11,7 @@ retrieved: 2026-07-17
 sweep_batch: GNQ-2026-07-17
 places: [GNQ]
 topics: [infra.connect, gov.regional]
-entities: []
+entities: [[gnq-medusa-cable], [medusa-submarine-cable], [analysys-mason]]
 lens: [sovereignty]
 body_completeness: full
 ---

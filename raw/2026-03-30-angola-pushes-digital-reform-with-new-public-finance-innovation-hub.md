@@ -3,7 +3,7 @@ type: source
 title: Angola Pushes Digital Reform With New Public Finance Innovation Hub
 url: https://www.wearetech.africa/en/fils-uk/news/public-management/angola-pushes-digital-reform-with-new-public-finance-innovation-hub
 publisher: We Are Tech Africa
-entities: []
+entities: [[i-lab-angola], [setic-fp-angola], [ministry-of-finance-angola]]
 author: Isaac K. Kassouwi
 published: 2026-03-30
 date_precision: day

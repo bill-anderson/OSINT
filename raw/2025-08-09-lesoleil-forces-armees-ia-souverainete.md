@@ -12,7 +12,7 @@ retrieved: 2026-07-17
 sweep_batch: SEN-2026-07-17
 places: [SEN]
 topics: [tech.ai, infra.cybersec, capacity.training]
-entities: []
+entities: [[ministry-of-armed-forces-senegal], [association-senegalaise-de-cybersecurite]]
 lens: [sovereignty]
 ---
 

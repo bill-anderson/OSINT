@@ -11,7 +11,7 @@ accessed: 2026-07-15
 ingested: 2026-07-16
 places: [GIN]
 topics: [dpi.mis, dpi.exchange, gov.standards]
-entities: []
+entities: [[terre-des-hommes], [enabel], [wehubit], [ministry-of-health-guinea], [snis-guinea]]
 lens: []
 body_completeness: full
 ---

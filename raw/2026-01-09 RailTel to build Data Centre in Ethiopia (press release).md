@@ -9,7 +9,7 @@ date_source: source
 ingested: 2026-07-15
 places: [ETH]
 topics: [infra.store, geopol.india, finance.new]
-entities: []
+entities: [[railtel], [india-ministry-of-external-affairs]]
 lens: [sovereignty]
 body_completeness: full
 ---

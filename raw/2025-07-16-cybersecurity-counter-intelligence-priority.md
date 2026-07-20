@@ -9,7 +9,7 @@ date_source: source
 ingested: 2026-07-19
 places: [ZAF]
 topics: [infra.cybersec, gov.policy]
-entities: []
+entities: [[state-security-agency-south-africa], [presidency-south-africa], [national-security-strategy-south-africa-2024-2029]]
 lens: [sovereignty]
 body_completeness: full
 retrieved: 2026-07-17

@@ -14,7 +14,7 @@ places: [BWA]
 topics: [geopol.china, tech.ai, tech.innovate, capacity.research]
 entities: [[tiroeaone-ntsima], [ministry-of-trade-and-entrepreneurship-botswana]]
 lens: [sovereignty]
-body_completeness: full
+body_completeness: paywalled
 ---
 
 # Botswana, China deepen trade cooperation

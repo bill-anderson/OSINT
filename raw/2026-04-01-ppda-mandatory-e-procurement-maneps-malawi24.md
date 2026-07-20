@@ -9,7 +9,7 @@ date_source: source
 ingested: 2026-07-19
 places: [MWI]
 topics: [dpi.govtech, gov.policy]
-entities: []
+entities: [[ppda-malawi], [maneps], [malawi-2063]]
 lens: []
 retrieved: 2026-07-17
 sweep_batch: MWI-2026-07-17

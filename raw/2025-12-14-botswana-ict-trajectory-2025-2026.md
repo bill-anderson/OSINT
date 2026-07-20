@@ -5,7 +5,7 @@ url: https://www.sundaystandard.info/botswanas-ict-trajectory-what-2025-taught-u
 publisher: Sunday Standard
 ingested: 2026-07-18
 lens: []
-body_completeness: full
+body_completeness: paywalled
 author: Ogone Mothooagae
 published: 2025-12-14
 date_precision: day

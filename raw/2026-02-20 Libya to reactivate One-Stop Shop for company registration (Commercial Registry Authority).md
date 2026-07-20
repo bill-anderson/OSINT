@@ -11,7 +11,7 @@ accessed: 2026-07-16
 ingested: 2026-07-16
 places: [LBY]
 topics: [dpi.govtech, gov.policy]
-entities: []
+entities: [[commercial-registry-authority-libya], [nesdb-libya], [libya-one-stop-shop]]
 lens: []
 body_completeness: full
 ---

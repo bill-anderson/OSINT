@@ -12,7 +12,7 @@ retrieved: 2026-07-17
 sweep_batch: SEN-2026-07-17
 places: [SEN]
 topics: [dpi.pay, finance.new]
-entities: []
+entities: [[bceao], [wave], [sonatel]]
 lens: []
 ---
 

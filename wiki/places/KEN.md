@@ -338,7 +338,7 @@ _Older dated developments (through early 2026) are preserved in their linked sou
 - KEN sweep batch (2026-07-18): [[national-registration-bureau]] · [[ecitizen]] · [[knbs]] ·
   [[william-kabogo]] · [[immaculate-kassait]] · [[national-cyber-security-agency-kenya]] · [[moniepoint]] ·
   [[kenswitch]] · [[nairobi-securities-exchange]] · [[meta-daraja-subsea-cable]] · [[bayobab]] ·
-  [[linx-nairobi]] · [[angani]] · [[touchnet]] · [[baobab-cloud]] · [[qubit-hub]] · [[aws]]
+  [[linx-nairobi]] · [[angani]] · [[touchnet]] · [[baobab-cloud]] · [[qubit-hub]] · [[amazon-web-services]]
 - New this batch (AI, skills & education, 2026-07-19): [[zerobionics]] · [[norah-kimathi]]
 - New this batch (policy & geopolitics, 2026-07-19):
   [[state-department-for-ict-and-the-digital-economy-kenya]] · [[kenya-china-ecommerce-mou]]

@@ -14,7 +14,7 @@ places: [BWA]
 topics: [infra.cybersec]
 entities: [[bocra], [apt28]]
 lens: [sovereignty]
-body_completeness: full
+body_completeness: paywalled
 ---
 
 # Russian intelligence-linked hackers attack Botswana

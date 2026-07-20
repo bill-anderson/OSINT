@@ -9,7 +9,7 @@ date_source: source
 ingested: 2026-07-19
 places: [UGA]
 topics: [dpi.registry, tech.ai]
-entities: []
+entities: [[mlhud-uganda], [uganda-land-administrative-circular-1-2025]]
 lens: []
 body_completeness: full
 retrieved: 2026-07-17

@@ -11,7 +11,7 @@ ingested: 2026-07-17
 sweep_batch: ERI-2026-07-17
 places: [ERI]
 topics: [tech.ai, tech.innovate]
-entities: []
+entities: [[eri-chat], [ministry-of-information-eritrea]]
 lens: []
 body_completeness: full
 ---

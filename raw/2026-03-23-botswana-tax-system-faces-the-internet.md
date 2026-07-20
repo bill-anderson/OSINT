@@ -5,7 +5,7 @@ url: https://www.sundaystandard.info/botswanas-tax-system-built-for-tangible-goo
 publisher: Sunday Standard
 ingested: 2026-07-18
 lens: []
-body_completeness: full
+body_completeness: paywalled
 author: Thobo Motlhoka
 published: 2026-03-23
 date_precision: day

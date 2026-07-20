@@ -5,7 +5,7 @@ url: https://www.sundaystandard.info/burs-rolls-out-sweeping-tax-law-overhaul/
 publisher: Sunday Standard
 ingested: 2026-07-18
 lens: []
-body_completeness: full
+body_completeness: paywalled
 author: Sunday Standard Reporter
 published: 2026-07-07
 date_precision: day

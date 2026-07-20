@@ -3,7 +3,7 @@ type: source
 title: "Closing the Adoption Gap: How AI Is Being Built in the Global South"
 publisher: New America
 url: https://www.newamerica.org/insights/closing-the-adoption-gap/
-entities: []
+entities: [[new-america]]
 author: Akash Kapur, Gillian Rosenberg
 published: 2026-07-09
 date_precision: day

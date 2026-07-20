@@ -5,7 +5,7 @@ url: https://www.mmegi.bw/business/crypto-finds-footing-but-remains-far-from-leg
 publisher: Mmegi
 ingested: 2026-07-18
 lens: []
-body_completeness: full
+body_completeness: paywalled
 author: Lewanika Timothy
 published: 2025-07-16
 date_precision: day

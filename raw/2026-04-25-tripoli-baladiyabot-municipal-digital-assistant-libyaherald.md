@@ -11,7 +11,7 @@ retrieved: 2026-07-17
 sweep_batch: LBY-2026-07-17
 places: [LBY]
 topics: [digital.localgov, dpi.govtech, geopol.eu]
-entities: []
+entities: [[baladiyabot], [giz], [municipality-of-tripoli-centre], [european-union]]
 lens: []
 body_completeness: full
 ---

@@ -9,7 +9,7 @@ date_source: source
 ingested: 2026-07-19
 places: [NGA]
 topics: [infra.cybersec, gov.legislate]
-entities: []
+entities: [[nigeria-cybercrimes-act-2024], [nigeria-police-force]]
 lens: []
 retrieved: 2026-07-17
 body_completeness: full

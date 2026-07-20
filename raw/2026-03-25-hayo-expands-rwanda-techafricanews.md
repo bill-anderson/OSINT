@@ -14,7 +14,7 @@ sweep_batch: RWA-2026-07-17
 body_completeness: full
 places: [RWA]
 topics: [tech.industry, infra.connect]
-entities: []
+entities: [[hayo]]
 ---
 
 Hayo Expands to Rwanda to Power Digital Growth with Voice, Messaging, and eSIM Solutions - TechAfrica News Today's Bulletin: July 19, 2026

@@ -11,7 +11,7 @@ retrieved: 2026-07-17
 sweep_batch: EGY-2026-07-17
 places: [EGY]
 topics: [tech.innovate, finance.new, tech.industry]
-entities: []
+entities: [[egypt-startup-charter]]
 lens: []
 body_completeness: full
 ---

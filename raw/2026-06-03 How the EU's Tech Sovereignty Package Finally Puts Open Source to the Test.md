@@ -9,7 +9,7 @@ date_source: source
 ingested: 2026-07-10
 places: [XGL]
 topics: [gov.policy, gov.legislate, gov.standards, infra.cybersec, tech.industry, dpi.id, tech.ai]
-entities: []
+entities: [[european-union], [openforum-europe], [cloud-and-ai-development-act]]
 lens: [sovereignty]
 body_completeness: full
 ---

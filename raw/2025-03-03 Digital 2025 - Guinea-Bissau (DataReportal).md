@@ -11,7 +11,7 @@ accessed: 2026-07-16
 ingested: 2026-07-16
 places: [GNB]
 topics: [infra.connect, include.divides, data.statistics]
-entities: []
+entities: [[datareportal]]
 lens: []
 body_completeness: full
 ---

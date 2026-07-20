@@ -130,7 +130,7 @@ Part of the [entities index](entities-index.md).
 | Angani Ltd | KEN | infra.store, infra.connect, tech.ai | [[angani]] |
 | TouchNet | XAF, KEN | infra.store, tech.ai | [[touchnet]] |
 | Baobab Cloud Services (Mitsumi) | KEN | infra.store, tech.ai | [[baobab-cloud]] |
-| Amazon Web Services (AWS) | XGL, KEN | infra.store, tech.ai | [[aws]] |
+| Amazon Web Services (AWS) | XGL, KEN | infra.store, tech.ai | [[amazon-web-services]] |
 | GETESA (Equatorial Guinea state telecom operator) | GNQ | infra.connect, geopol.china | [[getesa-gnq]] |
 | Telgesa (Equatorial Guinea 2nd state operator) | GNQ | infra.connect, tech.industry | [[telgesa-gnq]] |
 | BANGE (Banco Nacional de Guinea Ecuatorial) | GNQ | dpi.pay, finance.new | [[bange-gnq]] |

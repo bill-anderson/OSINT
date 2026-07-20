@@ -11,7 +11,7 @@ places: [DJI]
 topics: [dpi.govtech, dpi.registry, gov.policy, tech.innovate, include.access]
 entities: [[anpi-djibouti], [guichet-unique-djibouti], [abdoulkader-kamil-mohamed]]
 lens: []
-body_completeness: full
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: DJI-2026-07-17
 ---

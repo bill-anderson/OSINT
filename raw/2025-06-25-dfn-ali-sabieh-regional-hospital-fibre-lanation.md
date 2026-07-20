@@ -11,7 +11,7 @@ places: [DJI]
 topics: [infra.connect, digital.rural, dpi.mis, include.divides, include.access]
 entities: [[djibouti-digital-foundation], [world-bank]]
 lens: []
-body_completeness: full
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: DJI-2026-07-17
 ---

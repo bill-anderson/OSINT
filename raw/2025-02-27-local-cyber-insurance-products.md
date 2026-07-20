@@ -12,7 +12,7 @@ body_completeness: full
 sweep_batch: NGA-2026-07-17
 places: [NGA]
 topics: [infra.cybersec, finance.new]
-entities: []
+entities: [[naicom], [nitda], [ndpc]]
 lens: []
 ---
 

@@ -12,7 +12,7 @@ retrieved: 2026-07-17
 sweep_batch: SEN-2026-07-17
 places: [SEN]
 topics: [tech.ai, gov.policy]
-entities: []
+entities: [[senegal-national-ai-strategy], [eu-ai-act]]
 lens: [sovereignty]
 ---
 

@@ -10,7 +10,7 @@ date_precision: day
 date_source: source
 places: [CAF]
 topics: [tech.innovate, tech.industry, dpi.pay]
-entities: []
+entities: [[warani], [vianney-kanda]]
 lens: []
 retrieved: 2026-07-17
 sweep_batch: CAF-2026-07-17

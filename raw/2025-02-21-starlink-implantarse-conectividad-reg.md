@@ -11,7 +11,7 @@ retrieved: 2026-07-17
 sweep_batch: GNQ-2026-07-17
 places: [GNQ]
 topics: [infra.connect, geopol.usa]
-entities: []
+entities: [[starlink], [spacex]]
 lens: [sovereignty]
 body_completeness: full
 ---

@@ -12,7 +12,7 @@ sweep_batch: NGA-2026-07-17
 body_completeness: full
 places: [NGA]
 topics: [infra.connect, digital.rural]
-entities: []
+entities: [[ncc], [airtel-africa], [mtn-nigeria], [mafab-communications], [federal-executive-council-nigeria]]
 lens: []
 ---
 

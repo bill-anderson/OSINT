@@ -11,7 +11,7 @@ retrieved: 2026-07-17
 sweep_batch: MAR-2026-07-17
 places: [MAR]
 topics: [tech.industry]
-entities: []
+entities: [[gitex-africa], [add-morocco], [kaoun-international], [ministry-of-digital-transition-morocco]]
 lens: []
 body_completeness: full
 ---

@@ -5,7 +5,7 @@ url: https://www.mmegi.bw/business/botswana-registry-faces-backlog/news
 publisher: Mmegi
 ingested: 2026-07-18
 lens: []
-body_completeness: full
+body_completeness: paywalled
 author: Lucy Kgweetsi
 published: 2025-10-15
 date_precision: day

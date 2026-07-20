@@ -5,7 +5,7 @@ url: https://www.sundaystandard.info/grandparents-fight-back-against-cyber-scamm
 publisher: Sunday Standard
 ingested: 2026-07-18
 lens: []
-body_completeness: full
+body_completeness: paywalled
 author: Portia Nkani
 published: 2026-06-22
 date_precision: day

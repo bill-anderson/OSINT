@@ -11,7 +11,7 @@ retrieved: 2026-07-17
 sweep_batch: CPV-2026-07-17
 places: [CPV]
 topics: [tech.innovate, tech.industry, finance.new, capacity.training]
-entities: []
+entities: [[techpark-cv], [african-development-bank]]
 lens: []
 body_completeness: full
 ---

@@ -11,7 +11,7 @@ retrieved: 2026-07-17
 sweep_batch: EGY-2026-07-17
 places: [EGY]
 topics: [dpi.id, dpi.registry, gov.legislate, dpi.mis]
-entities: []
+entities: [[tansiqiya-egypt], [house-of-representatives-egypt]]
 lens: [sovereignty]
 body_completeness: full
 ---

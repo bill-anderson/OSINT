@@ -12,7 +12,7 @@ sweep_batch: MUS-2026-07-17
 body_completeness: full
 places: [MUS]
 topics: [infra.cybersec, gov.protect, gov.legislate]
-entities: []
+entities: [[verint], [pertsol], [mauritius-police-force], [national-security-service-mauritius]]
 lens: [sovereignty]
 ---
 

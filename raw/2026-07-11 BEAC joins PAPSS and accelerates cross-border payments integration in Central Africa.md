@@ -13,7 +13,7 @@ places: [XCA]
 topics: [dpi.pay, gov.regional]
 entities: [[papss], [beac], [afcfta], [afreximbank]]
 lens: [sovereignty]
-body_completeness: full
+body_completeness: paywalled
 ---
 
 <!-- BEAC (CEMAC regional central bank) officially joined PAPSS as of 2026-07-11, extending the continental payment rail into Central Africa/CEMAC. Body paywalled (lede only). ATTACH-ONLY to papss (central updates) + new beac entity + XCA hub. Date/terms of accession unconfirmed beyond lede — recommend second outlet. -->

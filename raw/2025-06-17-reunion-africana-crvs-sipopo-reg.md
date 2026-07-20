@@ -11,7 +11,7 @@ retrieved: 2026-07-17
 sweep_batch: GNQ-2026-07-17
 places: [GNQ]
 topics: [dpi.registry, data.statistics, gov.regional]
-entities: []
+entities: [[uneca], [african-union], [inege-gnq], [apai-crvs]]
 lens: []
 body_completeness: full
 ---

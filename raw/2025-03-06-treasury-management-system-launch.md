@@ -12,7 +12,7 @@ body_completeness: full
 sweep_batch: NGA-2026-07-17
 places: [NGA]
 topics: [dpi.govtech]
-entities: []
+entities: [[oagf-nigeria], [ministry-of-finance-nigeria], [tmras-nigeria]]
 lens: []
 ---
 

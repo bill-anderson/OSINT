@@ -9,7 +9,7 @@ date_source: source
 ingested: 2026-07-19
 places: [UGA]
 topics: [dpi.mis, dpi.exchange]
-entities: []
+entities: [[ministry-of-health-uganda], [national-laboratory-data-repository-uganda], [national-health-data-warehouse-uganda]]
 lens: []
 body_completeness: full
 retrieved: 2026-07-17

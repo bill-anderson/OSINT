@@ -9,7 +9,7 @@ date_source: source
 ingested: 2026-07-18
 places: [KEN]
 topics: [dpi.govtech]
-entities: []
+entities: [[ecitizen], [public-accounts-committee-kenya], [auditor-general-kenya], [state-department-for-ict-and-the-digital-economy-kenya], [john-tanui], [ifc]]
 lens: []
 retrieved: 2026-07-17
 sweep_batch: KEN-2026-07-17

@@ -11,7 +11,7 @@ retrieved: 2026-07-17
 sweep_batch: MAR-2026-07-17
 places: [MAR]
 topics: [gov.regional]
-entities: []
+entities: [[digital-cooperation-organization], [ministry-of-digital-transition-morocco], [d4sd-hub]]
 lens: []
 body_completeness: full
 provenance_flag: pr-wire

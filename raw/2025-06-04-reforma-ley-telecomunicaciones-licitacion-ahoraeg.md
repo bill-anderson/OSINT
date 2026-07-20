@@ -11,7 +11,7 @@ retrieved: 2026-07-17
 sweep_batch: GNQ-2026-07-17
 places: [GNQ]
 topics: [gov.legislate, infra.connect, tech.ai, infra.cybersec, gov.protect]
-entities: []
+entities: [[ministry-of-transport-telecommunications-and-ai-gnq], [ley-7-2005-gnq]]
 lens: []
 body_completeness: full
 ---

@@ -11,7 +11,7 @@ accessed: 2026-07-16
 ingested: 2026-07-16
 places: [GMB]
 topics: [digital.localgov, dpi.registry, data.satellite]
-entities: []
+entities: [[logri], [kanifing-municipal-council]]
 lens: []
 body_completeness: full
 ---

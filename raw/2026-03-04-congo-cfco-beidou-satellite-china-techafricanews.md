@@ -10,7 +10,7 @@ date_precision: day
 date_source: source
 places: [COG]
 topics: [geopol.china, data.satellite, infra.connect, digital.rural, infra.cybersec, capacity.training]
-entities: []
+entities: [[ministry-posts-telecoms-digital-economy-congo], [cfco], [beidou]]
 lens: [sovereignty, colonialism]
 body_completeness: full
 retrieved: 2026-07-17

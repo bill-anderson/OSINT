@@ -9,7 +9,7 @@ date_source: source
 ingested: 2026-07-19
 places: [TZA]
 topics: [tech.ai, gov.policy, tech.innovate]
-entities: []
+entities: [[university-of-dar-es-salaam], [tanzania-german-centre-eastern-african-legal-studies]]
 lens: [sovereignty]
 body_completeness: full
 retrieved: 2026-07-17

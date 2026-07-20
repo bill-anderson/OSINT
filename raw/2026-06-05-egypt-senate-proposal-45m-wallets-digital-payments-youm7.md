@@ -11,7 +11,7 @@ retrieved: 2026-07-17
 sweep_batch: EGY-2026-07-17
 places: [EGY]
 topics: [dpi.pay, include.access, finance.new, tech.industry]
-entities: []
+entities: [[senate-egypt]]
 lens: []
 body_completeness: full
 ---

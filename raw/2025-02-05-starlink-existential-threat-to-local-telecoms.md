@@ -14,7 +14,7 @@ places: [BWA]
 topics: [infra.connect, tech.industry, geopol.usa, dpi.pay]
 entities: [[starlink], [statistics-botswana]]
 lens: [sovereignty]
-body_completeness: full
+body_completeness: paywalled
 ---
 
 # Elon Musk's Starlink an existential threat to local telecoms sector?

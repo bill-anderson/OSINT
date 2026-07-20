@@ -11,7 +11,7 @@ accessed: 2026-07-11
 ingested: 2026-07-11
 places: [CIV]
 topics: [gov.policy, gov.legislate, tech.ai, infra.cybersec, data.open]
-entities: []
+entities: [[ministry-of-digital-transition-cote-divoire], [civ-ai-strategy], [civ-data-governance-strategy], [parae], [padci]]
 lens: []
 ---
 

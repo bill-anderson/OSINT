@@ -11,7 +11,7 @@ retrieved: 2026-07-17
 sweep_batch: LBY-2026-07-17
 places: [LBY]
 topics: [dpi.pay, tech.ai, geopol.india, geopol.gulf]
-entities: []
+entities: [[tadamon-bank-libya], [jmr-infotech], [network-international], [seraj-islamic-bank]]
 lens: []
 body_completeness: full
 ---

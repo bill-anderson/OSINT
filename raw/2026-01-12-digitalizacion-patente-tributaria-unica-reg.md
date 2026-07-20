@@ -11,7 +11,7 @@ retrieved: 2026-07-17
 sweep_batch: GNQ-2026-07-17
 places: [GNQ]
 topics: [dpi.govtech]
-entities: []
+entities: [[ministry-of-commerce-equatorial-guinea], [ministry-of-finance-equatorial-guinea], [patente-tributaria-unica-gnq]]
 lens: []
 body_completeness: full
 ---

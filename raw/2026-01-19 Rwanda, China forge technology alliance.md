@@ -11,7 +11,7 @@ accessed: 2026-07-12
 ingested: 2026-07-12
 places: [RWA]
 topics: [geopol.china, capacity.training, infra.connect]
-entities: []
+entities: [[ministry-ict-innovation-rwanda]]
 lens: [sovereignty]
 body_completeness: excerpt
 ---

@@ -8,7 +8,7 @@ date_precision: day
 date_source: source
 places: [MLI]
 topics: [infra.cybersec, gov.legislate]
-entities: []
+entities: [[ministry-of-justice-mali], [pole-national-cybercriminalite-mali], [anssi-mali]]
 lens: []
 body_completeness: full
 retrieved: 2026-07-17

@@ -5,7 +5,7 @@ url: https://www.sundaystandard.info/no-need-for-a-new-digital-services-agency-d
 publisher: Sunday Standard
 ingested: 2026-07-18
 lens: []
-body_completeness: full
+body_completeness: paywalled
 author: Stephanus Gentium
 published: 2025-08-18
 date_precision: day

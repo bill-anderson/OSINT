@@ -9,7 +9,7 @@ date_source: source
 ingested: 2026-07-16
 places: [SDN]
 topics: [infra.connect, include.divides]
-entities: [[gsma]]
+entities: [[datareportal]]
 lens: []
 body_completeness: full
 ---

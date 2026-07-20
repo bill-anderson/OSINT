@@ -11,7 +11,7 @@ accessed: 2026-07-15
 ingested: 2026-07-15
 places: [BFA]
 topics: [tech.ai, gov.policy]
-entities: []
+entities: [[bf-ministry-digital-transition], [bf-ai-roadmap]]
 lens: [sovereignty]
 body_completeness: full
 ---

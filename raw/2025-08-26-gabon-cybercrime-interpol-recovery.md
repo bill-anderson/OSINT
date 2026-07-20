@@ -9,7 +9,7 @@ date_source: source
 ingested: 2026-07-18
 places: [GAB]
 topics: [infra.cybersec]
-entities: []
+entities: [[interpol], [afjoc]]
 lens: []
 body_completeness: full
 retrieved: 2026-07-17

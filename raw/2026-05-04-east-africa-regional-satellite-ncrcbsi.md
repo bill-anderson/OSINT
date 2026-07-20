@@ -9,7 +9,7 @@ date_source: source
 ingested: 2026-07-19
 places: [UGA, XEA]
 topics: [data.satellite, gov.regional, infra.connect]
-entities: []
+entities: [[ncrcbsi], [ministry-of-ict-and-digital-economy-kenya], [ministry-of-ict-and-national-guidance-uganda], [ministry-of-ict-and-postal-services-south-sudan]]
 lens: [sovereignty]
 body_completeness: full
 retrieved: 2026-07-17

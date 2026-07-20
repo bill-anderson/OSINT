@@ -11,7 +11,7 @@ retrieved: 2026-07-17
 sweep_batch: MAR-2026-07-17
 places: [MAR]
 topics: [data.open, gov.regional, dpi.govtech]
-entities: []
+entities: [[ministry-of-digital-transition-morocco], [icesco], [mediateur-du-royaume-morocco], [inpplc-morocco]]
 lens: []
 body_completeness: full
 provenance_flag: pr-wire

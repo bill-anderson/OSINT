@@ -12,7 +12,7 @@ sweep_batch: MUS-2026-07-17
 body_completeness: full
 places: [MUS]
 topics: [include.divides, tech.ai, infra.cybersec, dpi.govtech]
-entities: []
+entities: [[ministry-ict-mauritius], [rodrigues-regional-assembly], [rod-it-rodrigues]]
 lens: []
 ---
 

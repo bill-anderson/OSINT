@@ -5,7 +5,7 @@ url: https://www.sundaystandard.info/a-letter-to-dr-khaufelo-lekobane-statistici
 publisher: Sunday Standard
 ingested: 2026-07-18
 lens: []
-body_completeness: full
+body_completeness: paywalled
 author: Victor Baatweng
 published: 2025-10-27
 date_precision: day

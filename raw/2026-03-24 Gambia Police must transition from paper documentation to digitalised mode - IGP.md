@@ -11,7 +11,7 @@ accessed: 2026-07-16
 ingested: 2026-07-16
 places: [GMB]
 topics: [dpi.govtech]
-entities: []
+entities: [[gambia-police-force]]
 lens: []
 body_completeness: full
 ---

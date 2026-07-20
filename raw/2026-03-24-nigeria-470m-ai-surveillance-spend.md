@@ -9,7 +9,7 @@ date_source: source
 ingested: 2026-07-19
 places: [NGA]
 topics: [tech.ai, geopol.china, infra.cybersec]
-entities: []
+entities: [[institute-of-development-studies], [smart-city-surveillance-in-africa-2026]]
 lens: [sovereignty]
 retrieved: 2026-07-17
 body_completeness: full

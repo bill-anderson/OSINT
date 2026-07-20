@@ -3,7 +3,7 @@ type: source
 title: Angola Launches i.Lab to Accelerate Digital Transformation of Public Finance
 url: https://techafricanews.com/2026/03/30/angola-launches-i-lab-to-accelerate-digital-transformation-of-public-finance/
 publisher: TechAfrica News
-entities: []
+entities: [[i-lab-angola], [setic-fp-angola], [ministry-of-finance-angola], [serpro]]
 author: Editorial Team
 published: 2026-03-30
 date_precision: day

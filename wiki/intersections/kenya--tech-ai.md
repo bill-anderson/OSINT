@@ -87,7 +87,7 @@ that its power grid and jurisdiction keep qualifying.
   proposal (see [[kenya--dpi-id]], [[kenya--gov-protect]]), this marks a concerted surveillance build-out
   ahead of any AI Bill. Sources: [[2026-04-03-state-ai-curb-insecurity-nation]],
   [[2026-05-24-state-27b-ai-surveillance-social-media-nation]].
-- **AWS GenAI in the M-Pesa stack (2025-06).** [[geopol.usa]] Safaricom expanded its **[[aws]]**
+- **AWS GenAI in the M-Pesa stack (2025-06).** [[geopol.usa]] Safaricom expanded its **[[amazon-web-services]]**
   collaboration for **Generative-AI use cases** (fraud detection, customer-service automation, engineer
   upskilling) — the AI that the 2026 [[kenya--dpi-pay|M-Pesa decisioning suit]] would later challenge.
   Source: [[2025-06-05-safaricom-aws-genai-itweb]].

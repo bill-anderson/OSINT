@@ -11,7 +11,7 @@ accessed: 2026-07-16
 ingested: 2026-07-16
 places: [GMB]
 topics: [dpi.govtech, data.satellite]
-entities: []
+entities: [[iec-gambia]]
 lens: []
 body_completeness: full
 ---

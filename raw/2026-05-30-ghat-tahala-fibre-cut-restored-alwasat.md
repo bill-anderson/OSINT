@@ -11,7 +11,7 @@ retrieved: 2026-07-17
 sweep_batch: LBY-2026-07-17
 places: [LBY]
 topics: [infra.connect, include.divides, digital.localgov]
-entities: []
+entities: [[lptic], [hatef-libya], [almadar-aljadid], [libyana]]
 lens: []
 body_completeness: full
 ---

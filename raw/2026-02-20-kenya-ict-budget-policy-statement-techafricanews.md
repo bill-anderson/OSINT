@@ -9,7 +9,7 @@ date_source: source
 ingested: 2026-07-18
 places: [KEN]
 topics: [gov.policy, infra.connect]
-entities: []
+entities: [[state-department-for-ict-and-the-digital-economy-kenya], [john-tanui], [kenya-national-digital-masterplan], [kenya-digital-economy-blueprint]]
 lens: []
 retrieved: 2026-07-17
 sweep_batch: KEN-2026-07-17

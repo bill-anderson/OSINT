@@ -11,7 +11,7 @@ retrieved: 2026-07-17
 sweep_batch: GNQ-2026-07-17
 places: [GNQ]
 topics: [dpi.pay]
-entities: []
+entities: [[adige], [cemac], [world-bank]]
 lens: []
 body_completeness: full
 ---

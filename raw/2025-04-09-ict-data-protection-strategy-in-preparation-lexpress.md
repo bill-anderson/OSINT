@@ -12,7 +12,7 @@ sweep_batch: MUS-2026-07-17
 body_completeness: full
 places: [MUS]
 topics: [gov.protect, infra.cybersec, gov.policy, dpi.exchange]
-entities: []
+entities: [[ministry-ict-mauritius], [un-egdi]]
 lens: []
 ---
 

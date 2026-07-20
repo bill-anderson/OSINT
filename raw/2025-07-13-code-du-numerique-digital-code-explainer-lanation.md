@@ -11,7 +11,7 @@ places: [DJI]
 topics: [gov.legislate, gov.protect, infra.cybersec, gov.policy, dpi.govtech]
 entities: [[djibouti-digital-code], [cndp-djibouti], [mariam-hamadou-ali]]
 lens: [sovereignty]
-body_completeness: full
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: DJI-2026-07-17
 ---

@@ -8,7 +8,7 @@ date_precision: day
 date_source: source
 places: [MLI]
 topics: [dpi.pay, dpi.registry, dpi.govtech]
-entities: []
+entities: [[tresor-pay-mali], [caisff-mali], [sif-guf-mali], [un-egdi]]
 lens: []
 body_completeness: full
 retrieved: 2026-07-17

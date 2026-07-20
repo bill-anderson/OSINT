@@ -11,7 +11,7 @@ places: [DJI, SOM, BEN]
 topics: [dpi.id, gov.protect, dpi.govtech, gov.policy, infra.cybersec, include.access]
 entities: [[mobile-id-djibouti], [national-cybersecurity-authority-djibouti], [ansie-djibouti], [to7-network], [vision-djibouti-2035]]
 lens: [sovereignty]
-body_completeness: full
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: DJI-2026-07-17
 ---

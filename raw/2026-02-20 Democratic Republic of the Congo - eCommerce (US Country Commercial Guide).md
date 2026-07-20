@@ -11,7 +11,7 @@ accessed: 2026-07-15
 ingested: 2026-07-15
 places: [COD]
 topics: [dpi.pay, include.access, gov.legislate]
-entities: []
+entities: [[us-department-of-commerce], [banque-centrale-du-congo], [drc-digital-code]]
 lens: []
 body_completeness: full
 ---

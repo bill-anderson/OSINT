@@ -11,7 +11,7 @@ retrieved: 2026-07-17
 sweep_batch: LBY-2026-07-17
 places: [LBY]
 topics: [infra.connect, geopol.eu, finance.mou]
-entities: []
+entities: [[nokia], [lptic]]
 lens: []
 body_completeness: full
 ---

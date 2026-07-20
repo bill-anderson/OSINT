@@ -5,7 +5,7 @@ url: https://www.mmegi.bw/features/how-satellite-connectivity-is-transforming-bo
 publisher: Mmegi
 ingested: 2026-07-18
 lens: []
-body_completeness: full
+body_completeness: paywalled
 author: Odirile Tamajobe
 published: 2025-06-03
 date_precision: day

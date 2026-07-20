@@ -9,7 +9,7 @@ date_source: source
 ingested: 2026-07-19
 places: [UGA]
 topics: [data.statistics, dpi.mis]
-entities: []
+entities: [[ministry-of-gender-labour-and-social-development-uganda], [ilo]]
 lens: []
 body_completeness: full
 retrieved: 2026-07-17

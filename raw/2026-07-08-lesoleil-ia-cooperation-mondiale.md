@@ -12,7 +12,7 @@ retrieved: 2026-07-17
 sweep_batch: SEN-2026-07-17
 places: [SEN]
 topics: [tech.ai, gov.regional, capacity.research]
-entities: []
+entities: [[ministry-of-telecommunications-and-digital-senegal], [un-global-dialogue-on-ai-governance], [global-ai-capacity-building-network]]
 lens: []
 ---
 

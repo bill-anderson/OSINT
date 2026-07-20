@@ -5,7 +5,7 @@ url: https://www.mmegi.bw/news/botswana-launches-scalar-programme-to-bridge-inno
 publisher: Mmegi
 ingested: 2026-07-18
 lens: []
-body_completeness: full
+body_completeness: paywalled
 author: Larona Makhaiza
 published: 2026-03-18
 date_precision: day

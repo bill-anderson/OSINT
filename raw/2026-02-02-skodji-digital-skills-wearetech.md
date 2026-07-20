@@ -11,7 +11,7 @@ retrieved: 2026-07-17
 sweep_batch: CPV-2026-07-17
 places: [CPV]
 topics: [capacity.training, tech.industry, include.divides]
-entities: []
+entities: [[skodji-digital]]
 lens: []
 ---
 

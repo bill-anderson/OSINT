@@ -9,7 +9,7 @@ date_source: source
 ingested: 2026-07-19
 places: [NGA]
 topics: [tech.ai, gov.legislate]
-entities: []
+entities: [[nigeria-ai-bill], [datum-africa], [alliance4ai], [eu-ai-act]]
 lens: []
 retrieved: 2026-07-17
 body_completeness: full

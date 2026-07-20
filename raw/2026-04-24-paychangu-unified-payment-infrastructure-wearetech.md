@@ -9,7 +9,7 @@ date_source: source
 ingested: 2026-07-19
 places: [MWI]
 topics: [dpi.pay, tech.innovate, finance.new]
-entities: []
+entities: [[paychangu]]
 lens: []
 retrieved: 2026-07-17
 sweep_batch: MWI-2026-07-17

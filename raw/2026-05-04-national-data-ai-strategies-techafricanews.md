@@ -11,7 +11,7 @@ retrieved: 2026-07-17
 sweep_batch: CPV-2026-07-17
 places: [CPV]
 topics: [gov.policy, tech.ai, dpi.exchange]
-entities: []
+entities: [[cabo-verde-data-ai-strategy], [ministry-digital-economy-cabo-verde], [european-union]]
 lens: []
 body_completeness: full
 ---

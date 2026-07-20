@@ -11,7 +11,7 @@ retrieved: 2026-07-17
 sweep_batch: GMB-2026-07-17
 places: [GMB]
 topics: [infra.connect, finance.new, tech.industry]
-entities: []
+entities: [[gamtel-sysroad-ppp], [gamtel], [sysroad]]
 lens: [sovereignty]
 body_completeness: full
 ---

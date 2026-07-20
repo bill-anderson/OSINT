@@ -9,7 +9,7 @@ date_source: source
 ingested: 2026-07-19
 places: [TZA]
 topics: [gov.policy, gov.protect, infra.connect]
-entities: []
+entities: [[internet-governance-project], [tech-and-media-convergency]]
 lens: [sovereignty, colonialism]
 body_completeness: full
 retrieved: 2026-07-17
