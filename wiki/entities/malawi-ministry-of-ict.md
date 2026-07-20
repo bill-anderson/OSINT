@@ -5,8 +5,8 @@ title: Malawi Ministry of Information and Communications Technology
 places: [MWI]
 topics: [gov.policy, dpi.govtech, tech.ai, gov.protect]
 status: active
-last_reviewed: 2026-07-19
-sources: [[2026-02-20 Malawi validates AI strategy, digital transformation policy - CAJ News Africa], [2026-01-28 Malawi positions data privacy as cornerstone of digital development], [2026-06-11-government-data-sharing-regulation-boma-lathu-itweb], [2026-06-09-huawei-180m-ict-investment-plan-malawi24], [2026-01-27-ict-sector-eyes-policy-enforcement-times], [2026-05-20-local-authorities-ict-policy-dowa-malawi24], [2025-09-25-national-ai-strategy-consultation-itweb], [2026-06-24-chichewa-ai-language-data-trust-techafricanews]]
+last_reviewed: 2026-07-20
+sources: [[2026-07-20-malawi-seeks-new-telecom-competition], [2026-02-20 Malawi validates AI strategy, digital transformation policy - CAJ News Africa], [2026-01-28 Malawi positions data privacy as cornerstone of digital development], [2026-06-11-government-data-sharing-regulation-boma-lathu-itweb], [2026-06-09-huawei-180m-ict-investment-plan-malawi24], [2026-01-27-ict-sector-eyes-policy-enforcement-times], [2026-05-20-local-authorities-ict-policy-dowa-malawi24], [2025-09-25-national-ai-strategy-consultation-itweb], [2026-06-24-chichewa-ai-language-data-trust-techafricanews]]
 ---
 
 # Malawi Ministry of Information and Communications Technology
@@ -42,11 +42,20 @@ the Malawi 2063 development vision and the National Digitisation Policy.
   [[2026-06-09-huawei-180m-ict-investment-plan-malawi24]],
   [[2026-05-20-local-authorities-ict-policy-dowa-malawi24]],
   [[2026-01-27-ict-sector-eyes-policy-enforcement-times]].
+- **More MNO licences floated as the competition remedy (2026-07-20).** Answering MP Francis
+  Belekanyama in parliament, Minister Namalomba said Malawi is **considering licensing additional mobile
+  network operators** to break the [[airtel-malawi|Airtel]]/[[tnm-malawi|TNM]] duopoly and improve
+  affordability, citing a **50% spectrum licence fee reduction** (*value contested — see
+  [[macra-malawi]]*) and the **$150m [[dmap|DMAP]]** tower programme. Three licences already issued
+  (**Access Communications** 2007, **Nyasa Mobile** 2022, **Malcel** for a late-2023 launch) have not
+  produced a competing network as of 2026-07-20. See [[malawi--infra-connect]], [[infra.connect]],
+  [[include.access]]. Source: [[2026-07-20-malawi-seeks-new-telecom-competition]].
 - **Presidential push.** President Mutharika ordered accelerated digitalisation of public
   services (Feb 2026), reinforcing the ministry's mandate. ⚠ Sourced from prompt context; not
   detailed in the ingested sources above — confirm against a primary release before citing.
 
 ## Sources
 
+- [[2026-07-20-malawi-seeks-new-telecom-competition]]
 - [[2026-02-20 Malawi validates AI strategy, digital transformation policy - CAJ News Africa]]
 - [[2026-01-28 Malawi positions data privacy as cornerstone of digital development]]

@@ -13,6 +13,25 @@ last_reviewed: 2026-07-20
 
 ## Recent developments
 
+- **2026-07-20** — **Government floats licensing more mobile operators — while three existing licences
+  have never produced a network.** ICT minister **Shadric Namalomba**
+  (**[[malawi-ministry-of-ict|Ministry of Information and Communication Technology]]**), answering
+  Lilongwe Msinja South MP Francis Belekanyama in parliament after the tariff row below, said Malawi is
+  **considering licensing additional MNOs** to increase competition and improve affordability, against
+  the duopoly of **[[airtel-malawi|Airtel Malawi]]** and **[[tnm-malawi|TNM]]**. He cited a **50%
+  reduction in spectrum licence fees** *(**conflicts with the 20% all-band cut MACRA announced
+  2025-06-26** — see `reviews/contradictions/open/2026-07-20-malawi-spectrum-fee-cut-20pc-vs-50pc.md`;
+  not reconciled as of 2026-07-20)* and the **$150 million Digital Malawi Acceleration Project**
+  (**[[dmap]]**; *first USD figure the wiki holds for DMAP, as stated by the minister 2026-07-20*),
+  which is to expand tower infrastructure in underserved areas. **The licensing record is the finding**:
+  **Access Communications** has held a licence since **2007** (trading as **Zero2**, small subscriber
+  share, mainly in major cities); **Nyasa Mobile** was licensed in **2022** and **Malcel** licensed as
+  the intended third major operator targeted a **late-2023** commercial launch — **neither has launched,
+  and neither has announced a new date** (as of 2026-07-20), both citing macroeconomic conditions. So
+  the proposed remedy for the duopoly is **more of the instrument that has already failed three times**;
+  the binding constraint looks like capital and macro conditions, not licence availability. See
+  [[malawi--infra-connect]], [[infra.connect]], [[gov.policy]], [[include.access]]. Source:
+  [[2026-07-20-malawi-seeks-new-telecom-competition]].
 - **2026-07-17** — **MUST launches AI fertigation system — applied AI lands in agriculture, not
   administration.** The **Malawi University of Science and Technology** (MUST) commissioned an
   **AI-powered fertigation system** automating irrigation and fertiliser application from real-time

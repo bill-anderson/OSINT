@@ -4,7 +4,7 @@ title: Somalia
 code: SOM
 parent: XEA
 place_kind: country
-topics: [gov.protect, gov.legislate, dpi.govtech, dpi.pay, dpi.id, dpi.registry, dpi.exchange, infra.connect, infra.store, infra.cybersec, gov.regional, gov.policy, finance.new, finance.mou, tech.industry, include.access]
+topics: [gov.protect, gov.legislate, dpi.govtech, dpi.pay, dpi.id, dpi.registry, dpi.exchange, infra.connect, infra.store, infra.cybersec, gov.regional, gov.policy, finance.new, finance.mou, tech.industry, include.access, tech.ai, capacity.research, capacity.training, tech.innovate]
 status: active
 last_reviewed: 2026-07-20
 ---
@@ -25,6 +25,17 @@ market's velocity.
 
 ## Recent developments
 
+- **2026-07-20** — **Somali National University launches an AI Centre of Excellence.** **Somali National
+  University (SNU)** launched the **Somali National Artificial Intelligence Centre (SNAIC)** at a
+  ceremony in Mogadishu attended by government institutions, universities, research organisations and AI
+  practitioners. Mandate as stated: AI research, education, innovation and capacity building, developing
+  **locally driven AI solutions** to national challenges across machine learning, NLP, data science,
+  computer vision, robotics and **AI ethics**, applied to education, health, agriculture, governance and
+  the wider economy. **Thin by construction — the held source gives no budget, staffing, partner,
+  funding source or timeline**, so this is an institutional-standing fact, not a capability claim. It is
+  also the wiki's first academic-research datapoint for Somalia, whose file is otherwise almost entirely
+  state DPI. See [[tech.ai]], [[capacity.research]], [[capacity.training]], [[tech.innovate]]. Source:
+  [[2026-07-20-somali-national-university-ai-centre]].
 - **2026-02-17** — **Somalia cleared to adopt and print the EAC e-Passport.** The EAC
   authorised Somalia to adopt and print the biometric-chip **East African Community
   e-Passport**, formally handed over in Dar es Salaam by Somalia's EAC envoy Ilyaas Ali
@@ -192,8 +203,13 @@ market's velocity.
   IPv6 migration; IFC submarine-cable working group; **EAC e-Passport** adoption (Feb 2026); Horn of
   Africa integration. Full case: [[somalia--infra-connect]]. Full case: [[somalia--infra-store]].
 
+- [[tech.ai]] · [[capacity.research]] · [[capacity.training]] · [[tech.innovate]] — **Somali National
+  University**'s **SNAIC** AI Centre of Excellence (Mogadishu, Jul 2026) — the only research/AI-capacity
+  datapoint on file; no budget, staffing or partners established.
+
 ## Entities
 
+- **Somali National University** · **SNAIC** — AI centre of excellence (Jul 2026); not yet hubbed
 - [[somalia-ministry-communications-technology]] — lead ministry (min. Mohamed Adam Moalim)
 - [[somalia-moifar]] — Interior ministry; owns civil registration ([[somalia-crvs]]) and NADRA ties
 - [[nira-somalia]] — national identification & registration; issues the [[snid]]

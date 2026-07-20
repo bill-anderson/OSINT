@@ -6,7 +6,7 @@ parent: XEA
 place_kind: country
 topics: [infra.store, dpi.pay, dpi.id, dpi.exchange, include.access, include.divides, gov.protect, gov.policy, gov.standards, gov.regional, gov.legislate, tech.ai, tech.innovate, tech.industry, geopol.usa, geopol.gulf, geopol.china, geopol.eu, geopol.india, dpi.govtech, dpi.mis, infra.connect, infra.cybersec, finance.mou, finance.new, data.open, data.statistics, data.satellite, infra.capacity, infra.energy, capacity.training, capacity.research, capacity.literacy, digital.rural]
 status: active
-last_reviewed: 2026-07-19
+last_reviewed: 2026-07-20
 ---
 
 # Kenya (KEN)
@@ -41,6 +41,63 @@ last_reviewed: 2026-07-19
 >   [[2026-02-20-kenya-ict-budget-policy-statement-techafricanews]]; see [[european-union]],
 >   [[konza-technopolis]].
 
+- **2026-07-20** — **117 Jitume digital hubs: a programme-scale figure enters the record for the first
+  time.** [[include.access]] Kenya commissioned its **117th Jitume Digital Hub** at the Koibatek
+  Agricultural Training Centre, **Eldama Ravine, Baringo County**. The hub was built by the
+  **Technopolis Development Authority** under the **Jitume Digital Programme** and connected by the
+  **[[ict-authority-kenya|ICT Authority]]** through the **Kenya Digital Economy Acceleration Project**;
+  it offers digital-skills training, online-work access, innovation space and government digital
+  services, and is framed as part of the **Digital Superhighway** agenda. Commissioned by Cabinet
+  Secretary **Geoffrey Kiringa Ruku** with PS **John Kipchumba Tanui**. *The count is the payload.*
+  **117 hubs (as of 2026-07-20)** is the wiki's **first** figure for Jitume's scale — no earlier count,
+  budget, target, per-hub cost or utilisation figure is held, so this is a **baseline, not a
+  trajectory**, and the programme's reach in users rather than buildings remains **unestablished**. See
+  [[include.divides]], [[capacity.training]], [[digital.localgov]], [[dpi.govtech]]. Source:
+  [[2026-07-20-kenya-117th-jitume-digital-hub-baringo]].
+- **2026-07-20** — **Safaricom's financial-services leadership empties out mid-build.** [[dpi.pay]]
+  **[[safaricom]]** confirmed internally that **chief financial services officer Esther Waititu**
+  leaves on **2026-07-31**, the **third senior exit in five months** from the layer running the
+  operator's financial-services strategy — the MD of **M-PESA Africa** stepped down in **late March
+  2026**, and the chief business development and strategy officer departs for a bank CEO role from
+  **2026-08-01**. **Boniface Mungania**, Director of Public Sector Digital Transformation, is
+  **interim** CFSO. *This is officeholder churn and the wiki does not track officeholders — the
+  institutional fact is what it sits on top of:* the turnover is concentrated in the executives who
+  delivered the **Fintech 2.0** core migration and are steering M-PESA's push beyond payments into
+  savings, credit and investments (see [[kenya--dpi-pay]] for the underlying infrastructure and
+  product record, which is held from earlier, better sources). Safaricom **announces senior
+  appointments publicly but communicates departures internally** unless the CEO is involved — so
+  continuity risk at the top of Kenya's systemically critical payment rail is, by design, the least
+  visible thing about it. **No successor, and no stated effect on the M-PESA roadmap, is established
+  as of 2026-07-20.** See [[tech.industry]], [[infra.capacity]],
+  [[nairobi-securities-exchange]]. Source:
+  [[2026-07-20-safaricom-financial-services-chief-exits-mpesa]].
+- **2026-07-20** — **Kenya as the second leg of a Nigerian stablecoin B2B rail.** [[dpi.pay]]
+  [[sovereignty]] **[[busha|Busha Business]]** and **[[tether]]** announced a collaboration giving
+  African businesses USD₮ liquidity for cross-border payments and treasury. Kenya-specific figures on
+  the company's own account **(2026-07-20)**: **250+ Kenyan businesses** processing "**millions of
+  Kenyan shillings** in daily transactions" to pay international suppliers and settle cross-border —
+  part of **1,500+ businesses across Nigeria and Kenya**. **No KES aggregate, and no Kenyan
+  regulatory permission, is stated**: the licensing claim rests on Nigeria's
+  **[[sec-nigeria|SEC]]**, and what authorisation (if any) underpins the Kenyan book is
+  **unestablished as of 2026-07-20**. That gap matters against the CBK's live work on payments
+  oversight — see [[kenya--dpi-pay]], [[NGA]], [[tech.industry]]. Source:
+  [[2026-07-20-busha-business-tether-stablecoin-infrastructure-africa]].
+- **2026-07-18** *(reported 2026-07-20 — **the event date is the 18th**)* — **president.go.ke defaced
+  again; 5 BTC ransom demanded.** Attackers replaced the homepage of the official presidential website
+  with messages addressed to President Ruto and a **cryptocurrency wallet address**, threatening to leak
+  unspecified information unless paid **by 6pm the same day**. The demand was **five Bitcoin** —
+  reported as **KSh 41.3m / ~USD 320,000 as at 2026-07-20** *(dated conversion; the BTC amount is the
+  demand)*. The page claimed it was "**the third time**" the attackers had made contact. **State House**
+  and the **National KE-CIRT/CC** restricted access to contain the incident and the site was restored;
+  ICT CS **William Kabogo Gitau** said response protocols were activated and there was **no evidence
+  sensitive government data was accessed, exfiltrated or lost**. **Cause, access vector and whether the
+  intrusion reached back-end systems remain undisclosed; no group has claimed it and the state has made
+  no attribution (as of 2026-07-20).** This is the **second compromise of president.go.ke inside twelve
+  months** — the first, **2025-11-17**, also took down the Interior, Energy, Labour, Health and
+  Education ministries and prompted Computer Misuse and Cybercrimes Act investigations. Full case:
+  **[[kenya--infra-cybersec]]**. See [[infra.cybersec]], [[dpi.govtech]]. Sources:
+  [[2026-07-20-kenya-presidential-website-defacement-ransom]],
+  [[2025-11-17-hackers-government-websites-presidency-nation]].
 - **2026-07-17** — **18 ICT officers to China on the e-commerce MoU.** The
   **[[state-department-for-ict-and-the-digital-economy-kenya]]** dispatched an **18-officer delegation** to
   the **2026 Silk Road E-Commerce: Connecting the World Industry Matching Activity** in **Shandong
@@ -284,6 +341,10 @@ _Older dated developments (through early 2026) are preserved in their linked sou
 - New this batch (AI, skills & education, 2026-07-19): [[zerobionics]] · [[norah-kimathi]]
 - New this batch (policy & geopolitics, 2026-07-19):
   [[state-department-for-ict-and-the-digital-economy-kenya]] · [[kenya-china-ecommerce-mou]]
+- New this batch (2026-07-20): [[kenya--infra-cybersec]] (new intersection). Tagged, not yet hubbed:
+  `state-house-kenya` · `kenya-computer-incident-response-team` (National KE-CIRT/CC) ·
+  `national-computer-and-cybercrime-coordination-committee` (NC4) ·
+  `ministry-of-information-communications-and-the-digital-economy-kenya`
 - KEN sweep intersections (2026-07-18): [[kenya--dpi-pay]] · [[kenya--infra-connect]] ·
   [[kenya--infra-store]] (+ updated [[kenya--dpi-id]], [[kenya--tech-ai]], [[kenya--gov-protect]])
 - Mentioned, not hubbed: IXAfrica, Mojaloop Foundation, DPI4Africa; Immaculate Kassait (Data Protection Commissioner);

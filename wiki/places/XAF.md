@@ -6,7 +6,7 @@ parent: XGL
 place_kind: region
 topics: [infra.store, infra.connect, infra.cybersec, infra.energy, tech.ai, dpi.pay, dpi.id, dpi.exchange, dpi.mis, dpi.govtech, gov.regional, gov.standards, gov.protect, gov.policy, include.access, include.divides, capacity.training, capacity.research, capacity.literacy, finance.new, finance.mou, data.statistics, geopol.usa, geopol.china, geopol.gulf, geopol.eu]
 status: active
-last_reviewed: 2026-07-19
+last_reviewed: 2026-07-20
 ---
 
 # Africa (XAF)
@@ -17,6 +17,30 @@ rule, is all `XAF` children except `XNA`; `XGL` is for non-Africa-specific/globa
 
 ## Recent developments
 
+- **2026-07-20** — **The first-cheque layer collapsed in Q1 2026 while the headline number rose.**
+  [[finance.new]] Continental funding figures, dated and as reported by TechCabal: African startups
+  raised **$711m in Q1 2026**, **up ~27% year on year** — but underneath it, deals sized **$100k–$500k
+  fell from 140 to 92** (~**-30%**) against the same quarter a year earlier, **first cheques fell
+  from 73 to 32**, and **debt overtook equity as a funding source for the first time in recent
+  quarters**. *The headline and the substrate are moving in opposite directions*, which is the finding:
+  a recovering total raised by fewer, larger, later rounds sits on a company-formation layer that is
+  thinning. **[[launch-africa-ventures|Launch Africa Ventures]]** — **180+ portfolio companies across
+  25 countries (2026-07)** — says it did the opposite, completing **15 new investments in 2026** in
+  the very cheque sizes the market vacated (named: Udu Technologies, Fincart, Tayar, Khaime, Anavid,
+  Mainstack, Growwr, Yamify, Legendary Foods, Masunga), plus **nine follow-ons** (Clarrio, Finverity,
+  Agridex, Periculum, Recital Finance, Octavia Carbon, Itibari, Solarbox, Awabah). Head of
+  investments **Uwem Uwemakpan** names **[[papss]] being operational**, accelerating connectivity
+  investment and "regulation catching up rather than lagging" as the 2026 infrastructure case, and
+  puts the risk plainly: "**if nobody writes that cheque in 2026, there's no Series A class in 2029**."
+  On liquidity, the firm reports returning **$2.5m to Fund I investors in June 2026 after 11 exits**,
+  and says it underwrites to named acquirers — banks, telcos, global platforms, industrials and DFIs —
+  because it observes **African exits clustering in the $50–150m trade-sale range (firm's own view,
+  2026-07)**. Fund II takes **5–15% positions** with reserved follow-on capital, against Fund I's
+  100+-investment volume model. **Caveats:** the quarterly deal-count and funding figures are the
+  outlet's, and **the underlying data source is not named or held**; the portfolio, exit and
+  distribution figures are the firm's own and **unaudited**; fund sizes are not disclosed. See
+  [[tech.innovate]], [[dpi.pay]]. Source:
+  [[2026-07-20-launch-africa-early-stage-cheques-h1-2026]].
 - **2026-07-17** — **AI skilling as a venture market (continental ambition, Nigerian base).**
   **[[codar]]** closed **$1.5m** ([[codar-funding-round-2026]], **equity and debt; investors,
   valuation and stage undisclosed**), backed by **[[kwe4-africa-venture-studio]]**, to expand AI

@@ -3,11 +3,11 @@ type: entity
 entity_type: government-body
 title: South African Social Security Agency (SASSA)
 places: [ZAF]
-topics: [dpi.pay, dpi.id, include.access, include.divides, gov.protect, gov.policy, capacity.literacy]
+topics: [dpi.pay, dpi.id, include.access, include.divides, gov.protect, gov.policy, capacity.literacy, infra.cybersec, dpi.mis]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-20
-sources: [[2026-01-19 SASSA on qualification criteria for COVID-19 SRD], [2026-01-28 State is blocking access to SASSA grants, argue activists], [2025-04-24 New ID verification process for Sassa grants - Here's who's affected], [2025-08-25 SASSA to Launch Mandatory Biometric Enrollment for Grant Beneficiaries on September 1], [2025-07-06 Home Affairs on launch of world-class new identity verification service and cost], [2025-08-28-sassa-biometric-enrolment-new-beneficiaries-portfolio-committee], [2025-09-18-sassa-beneficiaries-take-up-biometric-enrolment-campaign], [2026-05-18-parliamentary-question-nw1941-sassa-biometric-verification], [2025-03-27-cabinet-statement-26-march-2025], [2025-01-23-institute-for-economic-justice-v-minister-social-development-srd-judgment], [2026-03-26-dha-annual-performance-plan-2026-27]]
+sources: [[2026-01-19 SASSA on qualification criteria for COVID-19 SRD], [2026-01-28 State is blocking access to SASSA grants, argue activists], [2025-04-24 New ID verification process for Sassa grants - Here's who's affected], [2025-08-25 SASSA to Launch Mandatory Biometric Enrollment for Grant Beneficiaries on September 1], [2025-07-06 Home Affairs on launch of world-class new identity verification service and cost], [2025-08-28-sassa-biometric-enrolment-new-beneficiaries-portfolio-committee], [2025-09-18-sassa-beneficiaries-take-up-biometric-enrolment-campaign], [2026-05-18-parliamentary-question-nw1941-sassa-biometric-verification], [2025-03-27-cabinet-statement-26-march-2025], [2025-01-23-institute-for-economic-justice-v-minister-social-development-srd-judgment], [2026-03-26-dha-annual-performance-plan-2026-27], [2026-07-20-sassa-dismissals-r33m-grant-fraud]]
 ---
 
 # South African Social Security Agency (SASSA)
@@ -19,9 +19,11 @@ Register: its payments depend on identity verification against
 Letsatsi and Andile Tshona. Reports to the Department of Social Development; funded through
 **[[national-treasury-south-africa]]**.
 
-The wiki holds two opposed arcs on SASSA, and **both belong here**: a *capability* arc of
-biometric tightening against fraud, and an *exclusion* arc in which approved beneficiaries go
-unpaid. They are the same system viewed from either end.
+The wiki holds three arcs on SASSA, and **all belong here**: a *capability* arc of biometric
+tightening against fraud, an *exclusion* arc in which approved beneficiaries go unpaid, and an
+*insider* arc in which the fraud runs through the agency's own staff rather than its claimants.
+The first two are the same system viewed from either end; the third is the reminder that
+verifying the beneficiary harder does nothing about the operator.
 
 ## Activity in this wiki
 
@@ -107,6 +109,28 @@ unpaid. They are the same system viewed from either end.
   [[2026-05-18-parliamentary-question-nw1941-sassa-biometric-verification]].
 - **Claimed savings.** **R300m+** claimed saved since biometric verification was introduced (per
   Minister Tolashe, via the SONA report) — an agency-side figure, dated to its claiming.
+
+### The insider arc
+
+- **Four officials dismissed over R33m in grant fraud (SASSA statement on or before 2026-07-16;
+  reported 2026-07-20).** An internal investigation found four officials at SASSA's **Nebo local
+  office** (Sekhukhune district, **Limpopo**) had **manipulated the social grants system in
+  collaboration with external syndicates**, producing fraudulent activity valued at **R33 million**.
+  Disciplinary proceedings led to dismissal; the officials appealed and the agency's **appeals
+  committee upheld the sanction**. Regional executive manager **Mmapula Pheeha**: "Fraudulent
+  activities undermine the trust placed in SASSA and deprive vulnerable communities of much-needed
+  support." Remedial measures stated: enhanced monitoring, stricter internal controls, ongoing staff
+  ethics training. *Date precision: the ITWeb report is dated 2026-07-20 and the SASSA statement it
+  quotes is earlier; **the statement's own date is not established in held material** — the agency
+  release is on the acquisitions list.* **Why it matters more than its rand value.** The wiki's other
+  two arcs both turn on the **beneficiary** side of verification — biometrics tightening who may
+  claim, and litigation over who is wrongly refused. This is the **operator** side: the control that
+  failed was internal authorisation, not beneficiary identity, and biometric enrolment of claimants
+  does not address it. It also supplies the concrete case behind the standing observation that the
+  agency's systems "have historically been prone to manipulation" — including
+  **[[national-treasury-south-africa|National Treasury]]**'s **2024** statement that it would impose
+  **database cross-check conditions** on institutions like SASSA to improve payment validity. See
+  [[infra.cybersec]], [[dpi.mis]]. Source: [[2026-07-20-sassa-dismissals-r33m-grant-fraud]].
 
 ## Related
 

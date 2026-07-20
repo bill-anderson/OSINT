@@ -13,6 +13,66 @@ last_reviewed: 2026-07-20
 
 ## Recent developments
 
+- **2026-07-20** — **Busha Business × Tether: dollarised settlement rails sold as an escape from
+  dollar plumbing.** [[sovereignty]] **[[busha|Busha Business]]**, the B2B arm of the
+  **[[sec-nigeria|SEC]]-licensed** Nigerian exchange **[[busha]]**, announced a collaboration with
+  **[[tether]]** (issuer of **USD₮**) to supply African businesses with stablecoin liquidity for
+  cross-border payments, treasury management and settlement. Company figures **(2026-07-20)**:
+  **1,500+ businesses across Nigeria and Kenya**; **250+ in Kenya** moving "millions of Kenyan
+  shillings" daily — **no aggregate volume disclosed**. **Busha Pay** settles inbound international
+  payments **in USD**; a savings product pays **daily yield on idle USD and Naira balances** through
+  unnamed "licensed third-party asset management partners" at undisclosed rates. The tension worth
+  holding: COO **Moyo Sodipo** publicly argued earlier in 2026 for **African, locally relevant**
+  stablecoin infrastructure to reduce dependence on rails "built for other markets", and the firm's
+  chosen route is the world's largest **USD**-pegged issuer. Attributed and dated, not absorbed: the
+  release cites an **[[imf|IMF]]** note placing **Nigeria second globally on Chainalysis' Crypto
+  Adoption Index** — **neither the IMF note nor the index is held**, and the source gives no year for
+  the ranking. Lands directly on the coordination architecture stood up the same day by the
+  **[[virtual-assets-executive-order-2026|Virtual Assets Executive Order]]** (CBN over
+  payment/settlement/custody of non-security virtual assets). See [[dpi.pay]], [[finance.mou]],
+  [[tech.industry]], [[nigeria--dpi-pay]], [[KEN]]. Source:
+  [[2026-07-20-busha-business-tether-stablecoin-infrastructure-africa]].
+- **2026-07-20** — **Presidential Executive Order on Virtual Assets Coordination, 2026 — coordination
+  without a new regulator.** President **[[bola-tinubu]]** signed the Order
+  (**[[virtual-assets-executive-order-2026]]**) under **s.5 of the 1999 Constitution (as altered)**,
+  **effective immediately**. It creates a **Virtual Asset Council** chaired by the **[[cbn]]**, with
+  the **Nigeria Revenue Service ([[nigeria-revenue-service]])** and the **[[sec-nigeria|SEC]]** as
+  vice-chairs and the **[[nfiu|NFIU]]** and **[[onsa-nigeria|ONSA]]** as members, plus a **Virtual
+  Asset Office** whose secretariat sits **at the CBN**, running day-to-day information-sharing on a
+  shared supervisory-technology platform under which **each agency keeps ownership and control of its
+  own data**. The design point is what it declines to do: **no new regulator, no transfer of powers**
+  — registration follows the activity, with **securities-like activity to the SEC** and **payment,
+  settlement and custody of non-security virtual assets to the CBN**, the Council adjudicating
+  unclear cases. Attached commitments: a **CBN regulatory sandbox** for virtual assets (details
+  unannounced as of 2026-07-20), an **NRS tax policy** for the sector (unpublished as of 2026-07-20),
+  a **Virtual Assets White Paper** in preparation, and a **Harmonised Implementation Framework due
+  within 30 days** (i.e. **by ~2026-08-19**). Stated rationale is fragmentation across
+  currency/money/commodity/securities boundaries producing money-laundering, terrorism-financing,
+  cybersecurity, data-privacy, fraud and revenue exposure. *Read against the wiki's standing Nigeria
+  file, this is the coordination layer the [[2025-11-03-sec-cbn-efcc-freeze-illicit-wallets|Nov-2025
+  ad-hoc SEC/CBN/EFCC wallet freeze]] was improvised without.* See [[gov.legislate]], [[gov.policy]],
+  [[dpi.pay]], [[infra.cybersec]], [[nigeria--dpi-pay]]. Source:
+  [[2026-07-20-nigeria-coordinated-regulatory-framework-virtual-assets]].
+- **2026-07-20** — **The CBN closes the licence-stacking era: ring-fencing, concentration caps and
+  governance-first AML.** Between **March and June 2026** the CBN issued or exposed for consultation
+  a package covering **market concentration, financial holding companies, operational ring-fencing,
+  ownership disclosure and AML systems** — read together as an end to growth by layering licences.
+  The **draft ring-fencing framework** requires each regulated subsidiary to hold its **own capital
+  and liquidity "regardless of group-level resources"**, with separate governance, risk management
+  and accountability, and targets "**regulatory arbitrage arising from the commingling of activities
+  across different licence categories**". The **June market-structure circular**
+  (**[[cbn-payments-circular-2026]]**) caps any institution above **25% of consumer issuing** at
+  **15% of merchant acquiring** and vice versa, with **monthly market-share returns** and
+  **compliance by end-2026**. Context the wiki did not hold: **[[flutterwave]]** took a microfinance
+  bank licence in **April 2026** after acquiring open-banking startup **[[mono]]**;
+  **[[paystack]]** acquired **Ladder Microfinance Bank** in **January 2026** and restructured under
+  a new holding company, **The Stack Group** — jointly owned by CEO Shola Akinlade, **[[stripe]]**
+  and employees — housing Paystack, the Zap consumer app, Paystack MFB and a venture studio.
+  Volumes: Nigeria's electronic-payment industry processed **₦1.2 quadrillion (2025)** — reported as
+  **$880.51bn at the piece's own undated conversion**, so carried here in naira — and
+  **[[moniepoint]]** processed **>₦412 trillion (2025)**, reported as **$294.03bn** on the same
+  basis. See [[dpi.pay]], [[gov.legislate]], [[gov.policy]], [[nigeria--dpi-pay]]. Source:
+  [[2026-07-20-cbn-rewriting-rules-nigeria-fintech-growth]].
 - **2026-07-16** — **NESS 2026: school operators say the binding constraint is cash flow, not
   technology.** At the **[[nigeria-education-supplies-summit|Nigeria Education Supplies Summit]]**
   (Civic Centre, Victoria Island, Lagos), organised by **[[skld-integrated-services]]**, the

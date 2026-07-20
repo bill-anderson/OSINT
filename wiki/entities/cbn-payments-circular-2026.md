@@ -6,8 +6,8 @@ places: [NGA]
 topics: [gov.legislate, dpi.pay, infra.store, gov.protect]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-12
-sources: [[2026-07-01 Strategy Ahead of Infrastructure, Part I Inside the CBN's June 2026 Payments Circular], [2026-06-19 Strategy Ahead of Infrastructure, Part II The Opportunity and the Case for Sequencing]]
+last_reviewed: 2026-07-20
+sources: [[2026-07-01 Strategy Ahead of Infrastructure, Part I Inside the CBN's June 2026 Payments Circular], [2026-06-19 Strategy Ahead of Infrastructure, Part II The Opportunity and the Case for Sequencing], [2026-07-20-cbn-rewriting-rules-nigeria-fintech-growth]]
 ---
 
 # CBN June 2026 Payments Circular (PSS/DIR/PUB/CIR/001/004)

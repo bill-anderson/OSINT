@@ -5,8 +5,8 @@ title: FATF (Financial Action Task Force)
 places: [TGO, XGL]
 topics: [gov.standards, gov.legislate, dpi.id, dpi.registry]
 status: active
-last_reviewed: 2026-07-17
-sources: [[2025-12-30 Togo Adopts New Law to Strengthen Anti-Money Laundering Rules]]
+last_reviewed: 2026-07-20
+sources: [[2025-12-30 Togo Adopts New Law to Strengthen Anti-Money Laundering Rules], [2026-07-20-south-africa-sim-registration-rica-digital-id], [2026-07-20-vove-id-compliance-readiness-programme-morocco]]
 ---
 
 # FATF (Financial Action Task Force)

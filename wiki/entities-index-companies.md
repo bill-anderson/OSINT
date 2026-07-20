@@ -250,7 +250,7 @@ Part of the [entities index](entities-index.md).
 | Sama | KEN, XGL | tech.ai, capacity.training, gov.protect | [[sama]] |
 | Galaxy Backbone | NGA | dpi.govtech, infra.store, dpi.exchange | [[galaxy-backbone]] |
 | Globalstar | XGL, ZAF, RWA, MOZ, GAB | infra.connect, data.satellite | [[globalstar]] |
-| Helios Towers | TZA, XAF | infra.connect, digital.rural | [[helios-towers]] |
+| Helios Towers | TZA, COD, SEN, XAF | infra.connect, digital.rural, include.access, finance.new | [[helios-towers]] |
 | Hikvision | XAF, NGA, KEN, ZWE, MOZ | infra.cybersec, geopol.china, tech.ai | [[hikvision]] |
 | Wingu Africa | ETH, TZA, DJI | infra.store, infra.connect, dpi.exchange, gov.protect | [[wingu-africa]] |
 | ZTE | XAF, NGA, KEN, EGY | infra.cybersec, geopol.china | [[zte]] |

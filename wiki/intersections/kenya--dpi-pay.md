@@ -4,12 +4,12 @@ title: Kenya × Digital Payments
 place: KEN
 topic: dpi.pay
 places: [KEN]
-topics: [dpi.pay, gov.protect, finance.new, finance.mou, tech.ai, infra.cybersec, include.divides, gov.legislate]
-entities: [[safaricom], [central-bank-of-kenya], [moniepoint], [kenswitch], [nairobi-securities-exchange], [visa], [odpc-kenya]]
+topics: [dpi.pay, gov.protect, finance.new, finance.mou, tech.ai, infra.cybersec, include.divides, gov.legislate, tech.industry, infra.capacity]
+entities: [[safaricom], [central-bank-of-kenya], [moniepoint], [kenswitch], [nairobi-securities-exchange], [visa], [odpc-kenya], [busha], [tether]]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-18
-sources: [[2025-09-22-mpesa-biggest-upgrade-decade-techcabal], [2025-11-26-safaricom-daraja-30-api-itweb], [2026-01-13-mpesa-blockchain-partner-itweb], [2026-01-28-mpesa-too-big-to-fail-techcabal], [2026-02-10-safaricom-nse-share-trading-mpesa-connectingafrica], [2026-03-20-mpesa-stop-sharing-phone-numbers-techcabal], [2026-04-02-moniepoint-enters-kenya-connectingafrica], [2026-04-03-kenswitch-visa-national-switch-techcabal], [2026-04-23-safaricom-sued-ai-mpesa-decisions-nation], [2026-05-08-fuliza-14-trillion-loans-nation], [2026-07-01-mpesa-next-financial-gap-credit-techcabal], [2026-07-14-dtb-safaricom-sim-swap-fraud-nation], [2026-05-31-telcos-warn-33pc-excise-tax-nation]]
+last_reviewed: 2026-07-20
+sources: [[2025-09-22-mpesa-biggest-upgrade-decade-techcabal], [2025-11-26-safaricom-daraja-30-api-itweb], [2026-01-13-mpesa-blockchain-partner-itweb], [2026-01-28-mpesa-too-big-to-fail-techcabal], [2026-02-10-safaricom-nse-share-trading-mpesa-connectingafrica], [2026-03-20-mpesa-stop-sharing-phone-numbers-techcabal], [2026-04-02-moniepoint-enters-kenya-connectingafrica], [2026-04-03-kenswitch-visa-national-switch-techcabal], [2026-04-23-safaricom-sued-ai-mpesa-decisions-nation], [2026-05-08-fuliza-14-trillion-loans-nation], [2026-07-01-mpesa-next-financial-gap-credit-techcabal], [2026-07-14-dtb-safaricom-sim-swap-fraud-nation], [2026-05-31-telcos-warn-33pc-excise-tax-nation], [2026-07-20-busha-business-tether-stablecoin-infrastructure-africa], [2026-07-20-safaricom-financial-services-chief-exits-mpesa]]
 ---
 
 # Kenya × Digital Payments
@@ -25,11 +25,36 @@ trying to build interoperability and oversight around it without breaking it.
 - **M-Pesa as systemic infrastructure (2026-01).** [[gov.protect]] [[sovereignty]] Testifying to
   Parliament (20 Jan 2026), CBK governor **Kamau Thugge** classified M-Pesa as a system whose failure
   would "significantly impair the real economy." In 2025 it moved **KES 83.7tn ($649.7bn)** — ~4× Kenya's
-  GDP; Safaricom controls **95% of retail payment transactions** with 32m+ monthly users, and ~**KES
+  GDP; Safaricom controls **95% of retail payment transactions** with 32m+ monthly users *(the same
+  outlet put M-PESA's Kenyan user base at **"more than 37 million"** a month later, in Feb 2026, with
+  neither figure stating whether it counts registered or 30-day-active users — unresolved as of
+  2026-07-20; see
+  [[reviews/contradictions/open/2026-07-20-mpesa-kenya-user-base-32m-vs-37m]])*, and ~**KES
   250bn ($1.9bn)** in customer funds sit in M-Pesa trust accounts across commercial banks, tying the
   platform to banking-system liquidity. The warning came as MPs scrutinised the state's plan to sell a
   **15% Safaricom stake to Vodacom**. CA data shows M-Pesa's share slipped for six straight quarters,
   from ~98% to **89% (Dec 2025)**. Source: [[2026-01-28-mpesa-too-big-to-fail-techcabal]].
+- **Stablecoin B2B rail enters Kenya from Lagos (2026-07).** [[tech.industry]] [[sovereignty]]
+  **[[busha|Busha Business]]**, B2B arm of the Nigerian **[[sec-nigeria|SEC]]-licensed** exchange
+  **[[busha]]**, announced a collaboration with **[[tether]]** for USD₮ liquidity in cross-border
+  payments, treasury and settlement. Kenyan footprint on company figures **(2026-07-20)**: **250+
+  businesses** moving "**millions of Kenyan shillings** daily", within **1,500+ businesses across
+  Nigeria and Kenya**. Settlement on its **Busha Pay** product is **in USD**. **What is not
+  established (2026-07-20):** any Kenyan licence or CBK authorisation for the Kenyan book — the
+  compliance claim is Nigerian — nor any KES volume total. A dollar-settled corporate payment rail
+  operating alongside a domestic switch the CBK is still designing is a supervisory question the
+  sources do not answer. Source:
+  [[2026-07-20-busha-business-tether-stablecoin-infrastructure-africa]].
+- **Financial-services leadership turnover (2026-07).** [[infra.capacity]] Three senior
+  **[[safaricom]]** executives covering the financial-services layer left within five months: the MD
+  of **M-PESA Africa** (**late March 2026**), the chief business development and strategy officer
+  (departing **2026-08-01**), and **CFSO Esther Waititu** (last day **2026-07-31**, interim successor
+  **Boniface Mungania**). Recorded here as an **institutional-capacity** fact, not officeholder
+  tracking: the churn sits on the team that delivered Fintech 2.0 and is executing the
+  savings/credit/investments expansion below. Safaricom publicises appointments but handles
+  departures internally unless the CEO is involved. **No permanent successor or roadmap impact is
+  established as of 2026-07-20.** Source:
+  [[2026-07-20-safaricom-financial-services-chief-exits-mpesa]].
 - **Core re-platforming — "Fintech 2.0" (2025-09).** [[infra.store]] Safaricom completed M-Pesa's
   **biggest core migration in a decade**, moving to a **cloud-native, microservices architecture** (hosted
   locally in Huawei Cloud) processing **6,000 TPS** at launch (old ceiling ~4,500), with headroom to

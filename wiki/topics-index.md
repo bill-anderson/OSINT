@@ -8,12 +8,12 @@ only slugs with a concept page are listed. Roll-up is by Level-1 parent.
 - [[infra.store]] — Data Storage · places: COG, COM, XGL, XAF, ZAF, NGA, KEN, GAB, EGY, SEN, GHA, NAM, MWI, AGO, TGO, MAR, ETH, TZA, DJI, MOZ, BWA, MLI, NER, BFA, GNQ, XSS, CIV, CMR, COD, DZA, GIN, RWA, TCD, UGA, XCA, XEA, XSA, XWA, ZMB, ZWE, CPV, MRT, SSD, SLE, SOM, SWZ, TUN, MUS
 - [[infra.energy]] — Energy · places: AGO, CAF, XAF, ZAF, NGA, KEN, ETH, MAR, DJI, EGY, GHA, RWA, SEN, SLE, SSD, TZA, XEA, XGL, XSA, XSS, ZWE, SWZ, TCD, TGO, SDN, MLI, BWA, CIV, SOM
 - [[infra.capacity]] — Technical Capacity · places: KEN, ZAF, NAM, XSS, XEA, XAF, XGL, MAR, NGA, AGO, BFA, BWA, CIV, EGY, GHA, LBR, RWA, TUN, UGA, XSA, XWA, ZMB, ZWE
-- [[infra.cybersec]] — Cybersecurity · places: AGO, ZMB, ZAF, XAF, NGA, MOZ, RWA, BEN, GHA, KEN, MUS, LBR, XEA, XSS, CMR, BFA, EGY, SEN, ZWE, DZA, UGA, CIV, COD, COG, DJI, GAB, GNQ, MAR, MLI, NER, SLE, SWZ, TCD, TUN, XCA, XGL, XWA, CPV, LBY, SDN, SOM, TZA
+- [[infra.cybersec]] — Cybersecurity · places: SSD, AGO, ZMB, ZAF, XAF, NGA, MOZ, RWA, BEN, GHA, KEN, MUS, LBR, XEA, XSS, CMR, BFA, EGY, SEN, ZWE, DZA, UGA, CIV, COD, COG, DJI, GAB, GNQ, MAR, MLI, NER, SLE, SWZ, TCD, TUN, XCA, XGL, XWA, CPV, LBY, SDN, SOM, TZA
 , MRT, BWA, NAM
 
 ## DPI
 - [[dpi.id]] — Digital Identity and CRVS · places: COG, COM, BWA, BDI, AGO, CAF, ZMB, MAR, KEN, NGA, ETH, SLE, UGA, XAF, COD, XGL, ZAF, TZA, MOZ, TGO, GHA, BEN, MUS, LBR, XEA, RWA, XWA, NER, BFA, MLI, CIV, MDG, SDN, LSO, GMB, MWI, CMR, DJI, EGY, NAM, SEN, SOM, SSD, STP, XSA, XSS, ZWE, CPV, DZA, ERI, GAB, GIN, GNQ, GNB, LBY, MRT, SWZ, SYC, TCD, TUN
-- [[dpi.pay]] — Digital Payments and Fintech · places: MRT, COM, BWA, BFA, BDI, AGO, COD, EGY, ETH, GHA, KEN, MOZ, MUS, MWI, NGA, RWA, SDN, SEN, SOM, SSD, XAF, XCA, XWA, ZAF, ZMB, LBR, DJI, DZA, GIN, SLE, SWZ, SYC, TCD, TGO, ERI
+- [[dpi.pay]] — Digital Payments and Fintech · places: MRT, COM, BWA, BFA, BDI, AGO, COD, EGY, ETH, GHA, KEN, MOZ, MUS, MWI, NGA, RWA, SDN, SEN, SOM, SSD, XAF, XCA, XWA, ZAF, ZMB, LBR, DJI, DZA, GIN, SLE, SWZ, SYC, TCD, TGO, ERI, MAR
 - [[dpi.exchange]] — Data Exchange · places: COM, AGO, ZMB, XAF, NGA, KEN, MWI, ZAF, RWA, BEN, GHA, ETH, SEN, TGO, XWA, DJI, TZA, XEA, LSO, UGA, COD, BWA, CIV, CMR, CPV, EGY, LBR, MAR, MOZ, MUS, NAM, NER, SOM, SSD, STP, SYC, XCA, XGL, XSA, XSS, ZWE, DZA, ERI, GAB, GNB, MDG, SDN, SLE, SWZ, TCD, TUN
 , MRT, BDI
 - [[dpi.govtech]] — Other GovTech and e-Gov · places: COG, COM, BWA, BDI, CAF, ZMB, ZAF, XGL, MWI, GHA, NAM, KEN, NGA, UGA, BEN, CIV, MOZ, COD, TZA, RWA, EGY, CMR, AGO, BFA, ETH, GIN, GNQ, LBR, LSO, MAR, MDG, MLI, NER, SEN, SLE, SOM, SSD, STP, SWZ, XAF, XEA, XSS, XWA, ZWE, DJI, CPV, DZA, ERI, GAB, GNB, GMB, LBY, MRT, MUS, SYC, TCD, TGO, TUN, SDN
@@ -34,7 +34,7 @@ only slugs with a concept page are listed. Roll-up is by Level-1 parent.
 - [[tech.ai]] — AI · places: COD, CIV, CMR, AGO, CAF, DJI, EGY, ETH, GHA, KEN, MAR, MWI, NAM, NGA, RWA, SDN, SEN, UGA, XEA, ZAF, ZMB, ZWE, XSA, XGL, XSS, DZA, SLE, ERI, MLI, BFA, GIN, BEN, XWA, BDI, MUS, NER
 - [[tech.industry]] — ICT Industry · places: MRT, XGL, XAF, ZAF, NGA, MAR, KEN, EGY, GHA, SDN, CIV, SEN
 , MRT, SDN
-- [[tech.innovate]] — Innovation ecosystem · places: COG, CIV, BWA, BFA, BEN, BDI, AGO, GAB, XAF, GHA, UGA, NGA, KEN, ZAF, DZA, ERI, NER, MUS, ZMB, MAR
+- [[tech.innovate]] — Innovation ecosystem · places: COG, CIV, BWA, BFA, BEN, BDI, AGO, GAB, XAF, GHA, UGA, NGA, KEN, ZAF, DZA, ERI, NER, MUS, ZMB, MAR, EGY, SOM
 
 ## Inclusion
 - [[include.divides]] — Digital divides · places: COM, BDI, CAF, ZMB, XAF, NGA, ZAF, KEN, RWA, NAM, ETH, SEN, XGL, XSS, AGO, BEN, BFA, CIV, CMR, COD, COG, EGY, ERI, GAB, GHA, LBR, MAR, MOZ, MUS, SSD, SWZ, TGO, TZA, UGA, XCA, XEA, XSA, XWA, ZWE, DJI, CPV, DZA, GIN, GNQ, SDN, TCD, TUN
@@ -50,7 +50,7 @@ only slugs with a concept page are listed. Roll-up is by Level-1 parent.
 
 ## Capacity
 - [[capacity.training]] — Training and skills · places: AGO, ZMB, MAR, XGL, GHA, NAM, SLE, XAF, ZAF, NGA, KEN, ZWE, XSS, ETH, GAB, RWA, TZA, SDN, MUS, MWI, XWA
-- [[capacity.research]] — Research institutions · places: XAF, NGA, ZAF, KEN, RWA, UGA, XGL, XSS, SEN, ETH, GHA, TZA, BEN, ERI, ZMB, MWI
+- [[capacity.research]] — Research institutions · places: XAF, NGA, ZAF, KEN, RWA, UGA, XGL, XSS, SEN, ETH, GHA, TZA, BEN, ERI, ZMB, MWI, SOM
 - [[capacity.literacy]] — Literacy · places: NGA, GHA, UGA, ETH, ZMB, LBR, XAF, EGY, KEN, SWZ, XSS, ZAF, ZWE, TUN, TZA
 
 ## Data
@@ -75,6 +75,9 @@ _(These are still validly tagged on sources — e.g. `digital.rural`, `dpi.mis`,
 when a topic is treated substantively.)_
 
 ## Intersections
+- [[malawi--infra-connect]] — Malawi × Connectivity (Airtel/TNM duopoly; more-licences proposal vs three unused licences; tower and schools gap; contested spectrum-fee cut)
+- [[senegal--infra-connect]] — Senegal × Connectivity (Sonatel fibre/FTTH, subsea cables, Starlink bet; Helios Towers $150m passive-layer intention)
+- [[south-sudan--infra-connect]] — South Sudan × Connectivity (one 200km fibre line, costliest regional data, ~15.7% penetration; first spectrum-management/5G strategy)
 - [[zambia--dpi-id]] — Zambia × Digital Identity
 - [[nigeria--gov-protect]] — Nigeria × Data Protection (CBN localization; +Meta/NDPC; +regulatory harmonisation)
 - [[nigeria--dpi-id]] — Nigeria × Digital Identity (NIMC Act / NIN; +8,809-ward drive)
@@ -102,7 +105,7 @@ when a topic is treated substantively.)_
 - [[south-africa--tech-ai]] — South Africa × AI ("sovereign AI" as POPIA-compliance product; Microsoft $329m)
 - [[ethiopia--dpi-pay]] — Ethiopia × Digital Payments (M-PESA/EthSwitch surge; Telebirr national scale)
 - [[south-africa--dpi-pay]] — South Africa × Digital Payments (opening the NPS to non-banks; 2026 fintech rulebook)
-- [[nigeria--dpi-pay]] — Nigeria × Digital Payments (CBN fintech blueprint; regional passporting template)
+- [[nigeria--dpi-pay]] — Nigeria × Digital Payments (CBN fintech blueprint; regional passporting template; 2026-07 virtual-assets Executive Order coordination layer; ring-fencing + 25%/15% concentration caps)
 - [[drc--dpi-pay]] — DR Congo × Digital Payments (Onafriq/Visa Pay; $400m Payservices suit; unverified stablecoin pilot)
 - [[somalia--dpi-pay]] — Somalia × Digital Payments (privately-built cash-light economy; SIPS/SOMQR)
 - [[somalia--dpi-id]] — Somalia × Digital Identity (NIRA/SNID foundational-ID rebuild after 30 years; NADRA build + data-sovereignty debate; eAqoonsi)
@@ -113,6 +116,7 @@ when a topic is treated substantively.)_
 - [[guinea--dpi-pay]] — Guinea × Digital Payments (cash-preference crisis; BCRG Mojaloop instant payment system, M-Pesa-style merchant system, 11 EMIs; Trésor Pay public payments)
 - [[rwanda--dpi-govtech]] — Rwanda × GovTech (Irembo single-window e-gov platform; RISA)
 - [[nigeria--dpi-exchange]] — Nigeria × Data Exchange (NGDX Nigeria Data Exchange; NGEA)
+- [[kenya--infra-cybersec]] — Kenya × Cybersecurity (president.go.ke defaced twice in 12 months, 5 BTC ransom 2026-07-18; NCSA; KCR project; NC4 attack-volume claim)
 
 ## Instruments (reference frameworks — see entities-index)
 - [[world-bank-theme-taxonomy]] · [[popia]]

@@ -2,12 +2,12 @@
 type: concept
 title: Research institutions
 slug: capacity.research
-places: [XAF, NGA, ZAF, KEN, RWA, UGA, XGL, XSS, SEN, ETH, GHA, TZA, BEN, ERI, ZMB, MWI]
+places: [XAF, NGA, ZAF, KEN, RWA, UGA, XGL, XSS, SEN, ETH, GHA, TZA, BEN, ERI, ZMB, MWI, SOM]
 entities: [[international-centre-for-tax-and-development], [zambia-revenue-authority], [global-center-on-ai-governance], [global-index-on-responsible-ai], [paris21], [2026-07-11 data-systems-crossroads], [mosip], [gates-foundation], [anthropic], [gates-anthropic-partnership], [nasa-harvest], [catherine-nakalembe], [google-ai-research-foundations], [google-deepmind], [dhis2], [hisp-centre], [research-ict-africa], [after-access], [mapping-african-digital-infrastructures], [dpi-map], [ucl-iipp], [data-for-policy], [malawi-university-of-science-and-technology], [tagdev-2], [jabulani-nyengere]]
 lens: [sovereignty, colonialism]
 status: active
-last_reviewed: 2026-07-19
-sources: [[2026-07-17-zambia-revenue-authority-ictd-deal], [2026-06-17 Priced out of the future Confronting the rising cost of AI in Africa], [2026-06-23 A Kenya Technology Prosperity Deal Could Help Washington Secure Durable AI Partnerships with Africa], [2026-06-20 Ethiopia launches unified MESOB Platform to accelerate national digital transformation], [2026-06-10 Rwanda Launches Dedicated AI Agency to Drive Investment and Innovation], [2026-07-11 Global-Index-on-Responsible-AI-2026.pdf], [2026-05-21 Pushing back from Big Tech Africa's hard road to AI sovereignty], [2026-07-11 data-systems-crossroads.pdf], [2026-05-22 Uganda launches prototype program for digital ID and public infrastructure], [2026-05-14 Making AI work for more people], [2026-03-17 Broadening advanced AI education across Africa], [2026-03-12 Western AI models 'fail spectacularly' in farms and forests abroad], [2026-04-02 Nations priced out of Big AI are building with frugal models], [2025-04-03 Now is the time to invest in locally-owned health data systems], [2021-08-04 Health information systems in developing countries case of African countries], [2023-05-11 Data for local decision-making, not a mere reporting requirement development of an index to measure facility-level use of HMIS data  Published in Journal of Global Health Reports], [2025-12-15 African AI Startups Should Publish Openly], [2026-03-25 On Documenting African AI Knowledge What Becomes Possible], [2026-04-16 The Long View - What ICT4D did for Africa and why that deep past matters for today], [2026-07-17-malawi-must-ai-fertigation]]
+last_reviewed: 2026-07-20
+sources: [[2026-07-20-somali-national-university-ai-centre], [2026-07-20-sa-open-science-unesco-gina], [2026-07-17-zambia-revenue-authority-ictd-deal], [2026-06-17 Priced out of the future Confronting the rising cost of AI in Africa], [2026-06-23 A Kenya Technology Prosperity Deal Could Help Washington Secure Durable AI Partnerships with Africa], [2026-06-20 Ethiopia launches unified MESOB Platform to accelerate national digital transformation], [2026-06-10 Rwanda Launches Dedicated AI Agency to Drive Investment and Innovation], [2026-07-11 Global-Index-on-Responsible-AI-2026.pdf], [2026-05-21 Pushing back from Big Tech Africa's hard road to AI sovereignty], [2026-07-11 data-systems-crossroads.pdf], [2026-05-22 Uganda launches prototype program for digital ID and public infrastructure], [2026-05-14 Making AI work for more people], [2026-03-17 Broadening advanced AI education across Africa], [2026-03-12 Western AI models 'fail spectacularly' in farms and forests abroad], [2026-04-02 Nations priced out of Big AI are building with frugal models], [2025-04-03 Now is the time to invest in locally-owned health data systems], [2021-08-04 Health information systems in developing countries case of African countries], [2023-05-11 Data for local decision-making, not a mere reporting requirement development of an index to measure facility-level use of HMIS data  Published in Journal of Global Health Reports], [2025-12-15 African AI Startups Should Publish Openly], [2026-03-25 On Documenting African AI Knowledge What Becomes Possible], [2026-04-16 The Long View - What ICT4D did for Africa and why that deep past matters for today], [2026-07-17-malawi-must-ai-fertigation]]
 ---
 
 # Research institutions (`capacity.research`)
@@ -16,6 +16,27 @@ Universities and research capacity as the frontier most exposed to compute-cost
 exclusion — and to the resulting knowledge and "intellectual sovereignty" gap.
 
 ## Key material
+
+- **An AI centre of excellence in a fragile state (2026-07-20, [[SOM]]).** **Somali National University**
+  launched the **Somali National Artificial Intelligence Centre (SNAIC)** in Mogadishu as a Centre of
+  Excellence for AI research, education, innovation and capacity building, with a stated mandate to
+  develop **locally driven AI solutions** across machine learning, NLP, data science, computer vision,
+  robotics and AI ethics, applied to education, health, agriculture and governance. Rare and thin — the
+  held source carries **no budget, staffing, partner or timeline figures**, so nothing here is a
+  capability claim. Its value is as a datapoint at the far end of the compute-exclusion gradient this
+  page tracks: the institution-building step happens well before the compute question is reachable. See
+  [[tech.ai]], [[capacity.training]], [[tech.innovate]], [[SOM]]. Source:
+  [[2026-07-20-somali-national-university-ai-centre]].
+
+- **Open science as research-capacity policy (2026-07-20, [[ZAF]]).** South Africa's
+  **[[dsti-south-africa|DSTI]]** reports adopting a **National Open Science Policy** aligned to the
+  **2021 UNESCO Recommendation on Open Science**, and points to the **[[african-open-science-platform]]**
+  hosted by the **[[national-research-foundation-south-africa|NRF]]** as its continental arm for regional
+  collaboration, policy development, capacity building and infrastructure. Openness as research
+  *capacity* rather than as transparency. **Adoption date and text are not established** in the held
+  source. The UNESCO **first monitoring cycle** findings quoted alongside it are a reference study —
+  cited, not absorbed. See [[data.open]], [[gov.regional]]. Source:
+  [[2026-07-20-sa-open-science-unesco-gina]].
 
 - **Research capacity inside a revenue authority (2026-07-17, [[ZMB]]).** The
   **[[zambia-revenue-authority|Zambia Revenue Authority]]** signed an **MoU and an NDA** with the
@@ -145,7 +166,7 @@ exclusion — and to the resulting knowledge and "intellectual sovereignty" gap.
 
 ## Places
 
-[[XAF]] · [[NGA]] · [[ZAF]] · [[KEN]] · [[RWA]] · [[UGA]] · [[XGL]] · [[SEN]] · [[ETH]] · [[GHA]] · [[TZA]] · [[BEN]] · [[ZMB]]
+[[XAF]] · [[NGA]] · [[ZAF]] · [[KEN]] · [[RWA]] · [[UGA]] · [[XGL]] · [[SEN]] · [[ETH]] · [[GHA]] · [[TZA]] · [[BEN]] · [[ZMB]] · [[MWI]] · [[SOM]]
 
 ## Related
 
@@ -176,3 +197,5 @@ exclusion — and to the resulting knowledge and "intellectual sovereignty" gap.
 - [[2026-03-25 On Documenting African AI Knowledge What Becomes Possible]]
 - [[2026-04-16 The Long View - What ICT4D did for Africa and why that deep past matters for today]]
 - [[2026-07-17-zambia-revenue-authority-ictd-deal]]
+- [[2026-07-20-sa-open-science-unesco-gina]]
+- [[2026-07-20-somali-national-university-ai-centre]]

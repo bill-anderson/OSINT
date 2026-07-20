@@ -4,9 +4,9 @@ title: Egypt
 code: EGY
 parent: XNA
 place_kind: country
-topics: [dpi.govtech, dpi.id, dpi.pay, gov.protect, gov.legislate, dpi.mis, dpi.registry, dpi.exchange, tech.ai, gov.policy, infra.connect, infra.store, infra.cybersec, gov.regional, finance.new, include.access, tech.industry, tech.innovate, capacity.training, digital.rural, include.divides, geopol.china]
+topics: [dpi.govtech, dpi.id, dpi.pay, gov.protect, gov.legislate, dpi.mis, dpi.registry, dpi.exchange, tech.ai, gov.policy, infra.connect, infra.store, infra.cybersec, gov.regional, finance.new, include.access, tech.industry, tech.innovate, capacity.training, digital.rural, include.divides, geopol.china, geopol.usa]
 status: active
-last_reviewed: 2026-07-19
+last_reviewed: 2026-07-20
 ---
 
 # Egypt (EGY)
@@ -20,6 +20,24 @@ and social protection, and a **submarine-cable / data-centre hub** position — 
 
 ## Recent developments
 
+- **2026-07-20** — **An Egyptian-founded AI-infrastructure team is acquired into a US platform — after
+  the company had already left.** **Stakpak**, an AI-infrastructure startup **founded in Egypt in 2023**
+  by **George Fahmy** to build "self-driving infrastructure" (AI agents automating deployment, DevOps
+  and infrastructure management), **joined** US cloud company **Vercel**, which is extending from
+  frontend cloud into an agentic-infrastructure platform. Stakpak **bootstrapped for two years, raised
+  its first round in 2024, then relocated its operations to San Francisco** — so the Egyptian element of
+  this transaction was already historical when it closed. Early backers named: **P1 Ventures**, 500
+  Global, Digital Currency Group. It had built an **open-source agent harness**, a production DevOps
+  agent and AI-driven security systems. **No consideration, deal structure, asset transfer or team size
+  is disclosed**, and the source describes a **talent acquisition** — whether the Stakpak product or
+  entity continues is **not established as of 2026-07-20**. *The reason this is filed under Egypt rather
+  than celebrated as one:* the sequence — found in Cairo, raise, relocate, be absorbed — is the
+  standard route by which African-founded infrastructure capability ends up owned and operated
+  elsewhere, and it leaves no Egyptian institution, dataset or asset behind. The countervailing read,
+  which the source itself makes, is that it evidences African-founded contribution to the global AI
+  stack. Both can be true; only the second is usually reported. See [[tech.innovate]], [[tech.ai]],
+  [[tech.industry]], [[geopol.usa]], [[sovereignty]]. Source:
+  [[2026-07-20-vercel-acquires-talent-behind-egypt-stakpak]].
 - **2026-07-17** — **Telecom Egypt cancels the Helios data-centre stake sale; RDH carved out
   wholly-owned.** **[[telecom-egypt]]**'s board withdrew from the agreement — announced
   **2025-09-07** — to sell a **75–80%** majority interest in the unit owning its

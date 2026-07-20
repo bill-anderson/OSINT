@@ -6,8 +6,8 @@ places: [ZAF]
 topics: [dpi.id, gov.legislate, include.access, tech.industry]
 lens: []
 status: active
-last_reviewed: 2026-07-12
-sources: [[2026-01-27 SA's Telcos, Banks At War With Govt Over 6,500% ID Verification Fee Hike]]
+last_reviewed: 2026-07-20
+sources: [[2026-01-27 SA's Telcos, Banks At War With Govt Over 6,500% ID Verification Fee Hike], [2026-07-20-south-africa-sim-registration-rica-digital-id]]
 ---
 
 # Association of Communications and Technology (ACT)

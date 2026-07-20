@@ -5,11 +5,11 @@ place: ZAF
 topic: infra.store
 places: [ZAF]
 topics: [infra.store, infra.energy, infra.capacity, gov.policy, tech.ai, finance.new]
-entities: [[google], [equinix], [microsoft], [cassava-technologies], [nvidia], [cyril-ramaphosa], [teraco], [africa-data-centres], [stanlib], [equinix-sa-438m-expansion], [microsoft-sa-2026-expansion], [mtn-group], [axiz]]
+entities: [[google], [equinix], [microsoft], [cassava-technologies], [nvidia], [cyril-ramaphosa], [teraco], [africa-data-centres], [stanlib], [equinix-sa-438m-expansion], [microsoft-sa-2026-expansion], [mtn-group], [axiz], [liquid-c2], [master-power-technologies]]
 lens: [sovereignty, colonialism]
 status: active
 last_reviewed: 2026-07-20
-sources: [[2026-02-25 South Africa puts data centres on par with energy, ports in big policy shift], [2026-07-03 Google Cloud Region forecasts R1.7tn boost for SA], [2026-06-04 Equinix faces challenge to Cape Town data centres over environmental concerns], [2026-06-23 Africa's Data Centre Boom Where The New Facilities Are Being Built], [2025-11-10-teraco-ct2-50mw-cape-town], [2026-01-23-compcom-stanlib-africa-data-centres], [2026-02-15-ramaphosa-data-centres-r50bn], [2026-07-05-google-r2bn-ai-hub], [2026-07-06-sa-building-own-cloud-ramaphosa], [2026-07-07-digital-sovereignty-key-ramaphosa], [2026-07-16-cape-town-tribunal-data-centre-greenlight], [2026-04-01 US data centre firm Equinix is investing $438 million in South Africa], [2026-04-01 US tech giant from Silicon Valley buys R890 million worth of land in South Africa], [2026-04-28 Axiz Welcomes Equinix Investment, Citing Boost to Africa's Digital Infrastructure], [2026-04-17 Microsoft picks South Africa for $329 million expansion in cloud infrastructure and AI training], [2026-04-15 Microsoft secures land for future South Africa data centre growth], [2026-03-28 MTN makes big bet on AI data centres in South Africa]]
+sources: [[2026-07-20-cassava-africa-data-centres-azure-expressroute-metro], [2026-07-20-master-power-technologies-r50m-customer-experience-centre], [2026-02-25 South Africa puts data centres on par with energy, ports in big policy shift], [2026-07-03 Google Cloud Region forecasts R1.7tn boost for SA], [2026-06-04 Equinix faces challenge to Cape Town data centres over environmental concerns], [2026-06-23 Africa's Data Centre Boom Where The New Facilities Are Being Built], [2025-11-10-teraco-ct2-50mw-cape-town], [2026-01-23-compcom-stanlib-africa-data-centres], [2026-02-15-ramaphosa-data-centres-r50bn], [2026-07-05-google-r2bn-ai-hub], [2026-07-06-sa-building-own-cloud-ramaphosa], [2026-07-07-digital-sovereignty-key-ramaphosa], [2026-07-16-cape-town-tribunal-data-centre-greenlight], [2026-04-01 US data centre firm Equinix is investing $438 million in South Africa], [2026-04-01 US tech giant from Silicon Valley buys R890 million worth of land in South Africa], [2026-04-28 Axiz Welcomes Equinix Investment, Citing Boost to Africa's Digital Infrastructure], [2026-04-17 Microsoft picks South Africa for $329 million expansion in cloud infrastructure and AI training], [2026-04-15 Microsoft secures land for future South Africa data centre growth], [2026-03-28 MTN makes big bet on AI data centres in South Africa]]
 ---
 
 # South Africa × Data Storage
@@ -95,6 +95,31 @@ policy, power and water.
   [[infra.capacity]]. Source:
   [[2026-03-28 MTN makes big bet on AI data centres in South Africa]].
 
+## The interconnect layer, and the supply chain under it (2026-07)
+
+- **Africa's first Azure ExpressRoute Metro location (2026-07-20).** **[[africa-data-centres]]**' **JHB1**
+  became a **Microsoft Azure ExpressRoute Metro** peering location — the **second** peering point inside
+  the Johannesburg metro and, per the announcement, the **first in Africa**. ExpressRoute Metro routes one
+  private connection through two metro peering points, so the private path to **[[microsoft|Azure]]**
+  survives the loss of either. **[[liquid-c2]]** will sell it as **Secure CloudConnect** (managed private
+  connectivity + security), **claiming sole on-net presence in both locations** (*company claim as of
+  2026-07-20; not independently established here*). Note what this changes and what it doesn't: it
+  hardens the **route** to a US hyperscaler, not the **jurisdiction** of the data at the far end — and it
+  concentrates that route in one group owning both the estate and the service on it. Cassava attributes
+  demand to **regulators** pressing operational resilience and data protection. See [[infra.connect]],
+  [[infra.cybersec]], [[geopol.usa]]. Source:
+  [[2026-07-20-cassava-africa-data-centres-azure-expressroute-metro]].
+- **The power/cooling supply chain, locally built (2026-07-20).** **Master Power Technologies** (Midrand)
+  opened a **R50m** Customer Experience Centre and a **6,000 m²** African HQ (~**200 employees**), with a
+  **2 MVA UPS** test platform and a **400 kW cooling** test centre certified to European standards; it
+  claims to be the **first African business certified as an Endorser of the European Code of Conduct for
+  Energy Efficiency in Data Centres (2025)** and that its **AIVA** platform monitors **200+ African data
+  centres** (*vendor figures, as of 2026-07-20*). The page above is largely about foreign-owned capacity
+  and a grid that can't carry it; this is the **domestically engineered layer** — UPS, cooling and modular
+  builds assembled on the continent — which is where import dependency in the build-out is actually felt.
+  See [[infra.energy]], [[infra.capacity]], [[tech.industry]]. Source:
+  [[2026-07-20-master-power-technologies-r50m-customer-experience-centre]].
+
 ## Reads
 
 - `sovereignty`: SA treats compute capacity as strategic national infrastructure and
@@ -111,6 +136,8 @@ Place: [[ZAF]] · Concepts: [[infra.store]] · [[infra.energy]] · [[infra.capac
 
 ## Sources
 
+- [[2026-07-20-cassava-africa-data-centres-azure-expressroute-metro]]
+- [[2026-07-20-master-power-technologies-r50m-customer-experience-centre]]
 - [[2026-02-25 South Africa puts data centres on par with energy, ports in big policy shift]]
 - [[2026-07-03 Google Cloud Region forecasts R1.7tn boost for SA]]
 - [[2026-06-04 Equinix faces challenge to Cape Town data centres over environmental concerns]]

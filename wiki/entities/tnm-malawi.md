@@ -6,8 +6,8 @@ places: [MWI]
 topics: [infra.connect, infra.store, dpi.pay, tech.ai]
 lens: []
 status: active
-last_reviewed: 2026-07-19
-sources: [[2025-07-26-tnm-5g-launch-malawi-2063-malawi24], [2026-03-06-tnm-third-data-centre-volte-itweb], [2025-11-10-tnm-30-years-ai-labs-times], [2026-07-17-macra-airtel-malawi-tnm-tariff-compensation]]
+last_reviewed: 2026-07-20
+sources: [[2026-07-20-malawi-seeks-new-telecom-competition], [2025-07-26-tnm-5g-launch-malawi-2063-malawi24], [2026-03-06-tnm-third-data-centre-volte-itweb], [2025-11-10-tnm-30-years-ai-labs-times], [2026-07-17-macra-airtel-malawi-tnm-tariff-compensation]]
 ---
 
 # Telekom Networks Malawi (TNM)
@@ -27,6 +27,11 @@ Malawi]]) in breach of **Section 76 of the Communications Act 2016** — approve
 published in two daily newspapers **seven days** before taking effect — and ordered it to compensate
 customers who bought affected products during the notice window (**26 Jun – 2 Jul 2026**) with equivalent
 bundles, by **31 July 2026**. Source: [[2026-07-17-macra-airtel-malawi-tnm-tariff-compensation]].
+
+**Duopoly under review (2026-07-20).** Government is **considering licensing additional MNOs** to reduce
+TNM and [[airtel-malawi|Airtel Malawi]]'s combined dominance and improve affordability, after consumer
+complaints over rising tariffs and service quality. Three licences already granted have not produced a
+competing network. Source: [[2026-07-20-malawi-seeks-new-telecom-competition]].
 
 ## Links
 Place: [[MWI]] · Topics: [[infra.connect]] · [[infra.store]] · [[dpi.pay]] · [[tech.ai]] · Entities:

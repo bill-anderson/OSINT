@@ -5,11 +5,11 @@ place: ZAF
 topic: dpi.govtech
 places: [ZAF]
 topics: [dpi.govtech, dpi.exchange, gov.policy, gov.standards, data.statistics]
-entities: [[mzansixchange], [mymzansi], [sa-digital-transformation-roadmap], [digital-services-unit-presidency-sa], [operation-vulindlela], [sita], [national-treasury-south-africa], [cyril-ramaphosa], [solly-malatsi], [gcis], [sars], [home-affairs-south-africa], [border-management-authority], [government-printing-works]]
+entities: [[mzansixchange], [mymzansi], [sa-digital-transformation-roadmap], [digital-services-unit-presidency-sa], [operation-vulindlela], [sita], [national-treasury-south-africa], [cyril-ramaphosa], [solly-malatsi], [gcis], [sars], [home-affairs-south-africa], [border-management-authority], [government-printing-works], [electoral-commission-of-south-africa], [dbsa], [city-of-cape-town]]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-20
-sources: [[2025-10-10-mzansixchange-launch], [2025-11-05-govt-data-exchange-estonia-xroad], [2026-02-13-sona-2026-digital-mega-platform], [2026-04-23-operation-vulindlela-digital-transformation], [2026-07-06-sita-r2bn-irregular-spending], [2026-07-07-malatsi-sita-30-days-recovery], [2025-03-27-cabinet-statement-26-march-2025], [2025-04-03-sars-collaboration-agreements-dha-bma-gpw]]
+sources: [[2025-10-10-mzansixchange-launch], [2025-11-05-govt-data-exchange-estonia-xroad], [2026-02-13-sona-2026-digital-mega-platform], [2026-04-23-operation-vulindlela-digital-transformation], [2026-07-06-sita-r2bn-irregular-spending], [2026-07-07-malatsi-sita-30-days-recovery], [2025-03-27-cabinet-statement-26-march-2025], [2025-04-03-sars-collaboration-agreements-dha-bma-gpw], [2026-07-20-top-ict-tenders-iec-tech-upgrades]]
 ---
 
 # South Africa × E-Government & Interoperability
@@ -69,6 +69,34 @@ has to run it.
   meant to host the national e-services portal and run government IT; its dysfunction (also the >3-year CIO
   vacancy on [[south-africa--infra-connect]]) is the binding constraint on the whole govtech build. See
   [[gov.standards]]. Sources: [[2026-07-06-sita-r2bn-irregular-spending]], [[2026-07-07-malatsi-sita-30-days-recovery]].
+
+## What the procurement pipeline reveals
+
+- **The IEC names its own public app as a security defect (2026-07-20).** Three Electoral Commission
+  tenders on Treasury's **eTenders Portal** — VMware vSphere Foundation licence renewal (0010570637,
+  closes 2026-08-14); an enterprise **privileged access management** solution spanning production *and*
+  disaster recovery, with "centralised privileged access governance, secure credential management,
+  privileged session monitoring, audit logging" (0010570614, closes 2026-08-07); and a **readvertised**
+  rebuild of the **public mobile app** (0010562824, closes 2026-08-11). The app tender is the finding.
+  Built **in-house for the 2019 National and Provincial Elections** and updated in **2021** (Local
+  Government Elections) and **2024** (NPE), its framework is now "no longer supported", it "poses
+  security risks for the organisation", and it **"has also been found to have vulnerabilities and
+  inadequate provisions for data safety, user permissions and security."** Two points follow. First,
+  this is a **rare self-disclosed defect from an electoral authority**, dated and in a public document —
+  ordinarily this class of fact only surfaces after a breach. Second, it is a **readvertisement**, so a
+  first attempt did not produce an award: the exposure persists while the replacement is re-tendered.
+  Procuring PAM at the same time says the privileged-access layer behind the election estate is also
+  being retrofitted rather than assumed. See [[infra.cybersec]], [[gov.standards]].
+- **The same week's other public-sector ICT requests** locate the state's build priorities: **[[sita]]**
+  (Osis/NMS server maintenance over five years; emulation software for the Free State Office of the
+  Premier under a provincial VPN security upgrade); the **City of Cape Town** (unified channel-management
+  contact centre spanning emergency and non-emergency services); **[[dbsa]]** (consulting to turn the
+  DCDT/**South African Post Office** business-rescue RFI into a costed delivery route and RFP); the
+  **[[border-management-authority]]** (three-year software-development resourcing, conceding "internal
+  capacity is insufficient to meet evolving system demands"); and the Eastern Cape Department of
+  Agriculture (district-office server infrastructure). *The recurring admission across these is
+  **capacity**, not strategy — the same diagnosis Cabinet recorded in 2025 and the PSC found at SITA.*
+  See [[digital.localgov]]. Source for this section: [[2026-07-20-top-ict-tenders-iec-tech-upgrades]].
 
 ## Reads
 

@@ -133,7 +133,7 @@ Part of the [entities index](entities-index.md).
 | Ministry of Home Affairs, Immigration, Safety & Security (Namibia) | NAM | dpi.id, dpi.registry, dpi.govtech | [[ministry-home-affairs-namibia]] |
 | Business and Intellectual Property Authority (BIPA, Namibia) | NAM | dpi.registry, dpi.govtech | [[bipa-namibia]] |
 | Bank of Namibia | NAM | dpi.pay, dpi.govtech, gov.regional | [[bank-of-namibia]] |
-| Malawi Communications Regulatory Authority (MACRA) | MWI | infra.connect, dpi.id, dpi.registry, gov.protect | [[macra-malawi]] |
+| Malawi Communications Regulatory Authority (MACRA) | MWI | infra.connect, dpi.id, dpi.registry, gov.protect, include.access | [[macra-malawi]] |
 | Reserve Bank of Malawi (RBM) | MWI | dpi.pay, include.access, data.statistics | [[reserve-bank-of-malawi]] |
 | Malawi Electoral Commission (MEC) | MWI | dpi.id, gov.protect, data.open | [[malawi-electoral-commission]] |
 | High Authority for the Protection of Personal Data (HAPDP, Niger) | NER | gov.protect, gov.legislate | [[hapdp-niger]] |
@@ -191,7 +191,7 @@ Part of the [entities index](entities-index.md).
 | INSA (Information Network Security Administration), Ethiopia | ETH | infra.cybersec, gov.protect | [[insa-ethiopia]] |
 | INTIC (Mozambique) | MOZ | gov.protect, infra.cybersec | [[intic-mozambique]] |
 | Liberia Telecommunications Authority (LTA) | LBR | gov.legislate, infra.connect | [[lta-liberia]] |
-| Malawi Ministry of ICT | MWI | gov.policy, dpi.govtech, tech.ai | [[malawi-ministry-of-ict]] |
+| Malawi Ministry of ICT | MWI | gov.policy, dpi.govtech, tech.ai, infra.connect | [[malawi-ministry-of-ict]] |
 | Madagascar Ministry of Digital Development | MDG | dpi.id, dpi.govtech | [[mg-ministry-digital-development]] |
 | MICSTI (Lesotho) | LSO | dpi.exchange, dpi.id, dpi.govtech | [[micsti-lesotho]] |
 | National Personal Data Protection Commission (Congo-Brazzaville) | COG | gov.protect, gov.legislate | [[national-personal-data-protection-commission-congo]] |
@@ -301,7 +301,7 @@ Part of the [entities index](entities-index.md).
 | Benue Digital Infrastructure Company (BDIC) | NGA | infra.store, digital.localgov | [[benue-digital-infrastructure-company]] |
 | National Personal Data Protection Agency (ANPDP, São Tomé and Príncipe) | STP | gov.protect, gov.legislate | [[national-data-protection-agency-sao-tome]] |
 | Directorate of Civil Registry, Nationality, Passport & Immigration (DCRNPI/DNPI, South Sudan) | SSD | dpi.id, dpi.registry | [[dcrnpi-south-sudan]] |
-| National Communication Authority (NCA), South Sudan | SSD | infra.connect, infra.store, gov.legislate, gov.protect | [[national-communication-authority-south-sudan]] |
+| National Communication Authority (NCA), South Sudan | SSD | infra.connect, infra.store, gov.legislate, gov.protect, gov.policy, infra.cybersec, gov.regional | [[national-communication-authority-south-sudan]] |
 | Electronic Services Council, South Sudan | SSD | dpi.govtech, gov.policy | [[electronic-services-council-south-sudan]] |
 | National Civil Registration Authority (NCRA), Sierra Leone | SLE | dpi.id, dpi.registry, dpi.exchange, gov.protect | [[ncra]] |
 | Somalia Data Protection Authority (DPA) | SOM | gov.protect, gov.legislate | [[somalia-data-protection-authority]] |

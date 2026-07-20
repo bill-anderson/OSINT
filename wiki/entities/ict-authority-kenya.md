@@ -5,8 +5,8 @@ title: ICT Authority (Kenya)
 places: [KEN]
 topics: [infra.connect, include.access, capacity.training, dpi.govtech]
 status: active
-last_reviewed: 2026-07-12
-sources: [[2026-01-05 Kenya Targets 100,000 km Fiber Network, 25,000 Public WiFi Hotspots in 2026]]
+last_reviewed: 2026-07-20
+sources: [[2026-01-05 Kenya Targets 100,000 km Fiber Network, 25,000 Public WiFi Hotspots in 2026], [2026-07-20-kenya-117th-jitume-digital-hub-baringo]]
 ---
 
 # ICT Authority (Kenya)

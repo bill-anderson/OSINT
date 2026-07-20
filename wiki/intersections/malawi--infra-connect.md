@@ -5,11 +5,11 @@ place: MWI
 topic: infra.connect
 places: [MWI]
 topics: [infra.connect, include.divides, include.access, gov.policy, gov.legislate]
-entities: [[tnm-malawi], [airtel-malawi], [macra-malawi], [dmap], [world-bank], [huawei]]
+entities: [[tnm-malawi], [airtel-malawi], [macra-malawi], [dmap], [world-bank], [huawei], [malawi-ministry-of-ict]]
 lens: []
-status: active
-last_reviewed: 2026-07-19
-sources: [[2026-07-17-macra-airtel-malawi-tnm-tariff-compensation], [2026-05-22-airtel-satellite-connectivity-agm-techafricanews], [2026-04-17-school-connectivity-unicef-giga-report-malawi24], [2026-03-26-dmap-90-telecom-towers-rural-connectivity-techafricanews], [2025-07-26-tnm-5g-launch-malawi-2063-malawi24], [2025-06-26-macra-spectrum-fees-cut-20pc-techafricanews], [2025-06-23 Digitalizing Malawi to improve access to education, public services, and income opportunities], [2026-07-17-macra-internet-price-petition-malawi24]]
+status: needs-review
+last_reviewed: 2026-07-20
+sources: [[2026-07-20-malawi-seeks-new-telecom-competition], [2026-07-17-macra-airtel-malawi-tnm-tariff-compensation], [2026-05-22-airtel-satellite-connectivity-agm-techafricanews], [2026-04-17-school-connectivity-unicef-giga-report-malawi24], [2026-03-26-dmap-90-telecom-towers-rural-connectivity-techafricanews], [2025-07-26-tnm-5g-launch-malawi-2063-malawi24], [2025-06-26-macra-spectrum-fees-cut-20pc-techafricanews], [2025-06-23 Digitalizing Malawi to improve access to education, public services, and income opportunities], [2026-07-17-macra-internet-price-petition-malawi24]]
 ---
 
 # Malawi × Connectivity
@@ -54,6 +54,10 @@ distribution to rural areas, schools and affordable retail access remains the bi
   Administrative Incentive Pricing model) to lower operator costs, attract entrants and free capital for
   network expansion (MW2063). See [[gov.policy]], [[tech.industry]]. Source:
   [[2025-06-26-macra-spectrum-fees-cut-20pc-techafricanews]].
+  *Contested: on **2026-07-20** ICT minister Shadric Namalomba told parliament the reduction was **50%**.
+  Both values are carried, dated, pending reconcile —
+  `reviews/contradictions/open/2026-07-20-malawi-spectrum-fee-cut-20pc-vs-50pc.md`.*
+
 - **Consumers push back on pricing (2026-07).** An online **petition** (885+ signatures in ~a day; organiser
   Stanley Mombera) urged MACRA to review internet prices, **investigate data-billing/bundle-depletion
   practices**, publish findings and strengthen consumer protection — retail affordability and billing
@@ -71,5 +75,26 @@ distribution to rural areas, schools and affordable retail access remains the bi
 - **Read:** the price rise stands — what was enforced was **notice**, not affordability. Arriving the same
   day as the 885-signature pricing petition, it is a procedural remedy answering a substantive grievance:
   MACRA polices *how* prices are announced while the *level* remains the regulator's own approved outcome.
+
+## More licences as the answer to a duopoly (2026-07-20)
+
+- **The proposal.** ICT minister **Shadric Namalomba**
+  (**[[malawi-ministry-of-ict|Ministry of Information and Communication Technology]]**) told parliament
+  Malawi is **considering licensing additional mobile network operators** to increase competition and
+  improve affordability — answering MP Francis Belekanyama in a session convened after the tariff
+  increase. Measures cited alongside it: the spectrum-fee reduction (value contested, above) and the
+  **$150m [[dmap|Digital Malawi Acceleration Project]]** (*minister's figure, 2026-07-20 — the first USD
+  amount the wiki holds for DMAP*), directed at tower infrastructure in underserved areas.
+- **The licences already issued, and unused.** **Access Communications** licensed **2007**, trading as
+  **Zero2**, holds a small subscriber share concentrated in major cities. **Nyasa Mobile** licensed
+  **2022** — no commercial launch, no announced date. **Malcel**, licensed as the intended **third major
+  operator**, targeted a **late-2023** launch, was delayed by macroeconomic conditions, and has announced
+  no new date. All three positions stand **as of 2026-07-20**.
+- **Read:** the market has had a third-entrant licence outstanding for **three years** and a fourth for
+  nearly **twenty**, and neither converted into a network. That points at **capital and macro
+  conditions** — not licence scarcity — as the binding constraint, which a fresh licensing round does not
+  touch. It also sits oddly beside the tower gap above: an entrant would need towers Malawi does not
+  have, and DMAP's ~90–100 procurement is an order of magnitude short of the cited 1,000+ requirement.
+  See [[include.access]], [[gov.policy]]. Source: [[2026-07-20-malawi-seeks-new-telecom-competition]].
 
 See [[MWI]], [[infra.connect]], [[macra-malawi]], [[gov.legislate]].

@@ -4,12 +4,12 @@ title: South Africa × Digital Identity
 place: ZAF
 topic: dpi.id
 places: [ZAF]
-topics: [dpi.id, dpi.registry, dpi.govtech, gov.legislate, gov.protect, gov.standards, infra.cybersec, include.divides, digital.rural]
-entities: [[sa-digital-id-regulations], [popia], [home-affairs-south-africa], [mymzansi], [act-south-africa], [leon-schreiber], [cyril-ramaphosa], [digital-services-unit-presidency-sa], [sars], [sarb], [south-africa-eta], [intelligent-population-register], [idemia], [absa], [capitec], [border-management-authority], [government-printing-works], [edward-kieswetter], [livhuwani-makhode], [alinah-fosi], [basa]]
+topics: [dpi.id, dpi.registry, dpi.govtech, gov.legislate, gov.protect, gov.standards, infra.cybersec, include.divides, digital.rural, tech.industry]
+entities: [[iidentifii], [sa-digital-id-regulations], [popia], [home-affairs-south-africa], [mymzansi], [act-south-africa], [leon-schreiber], [cyril-ramaphosa], [digital-services-unit-presidency-sa], [sars], [sarb], [south-africa-eta], [intelligent-population-register], [idemia], [absa], [capitec], [border-management-authority], [government-printing-works], [edward-kieswetter], [livhuwani-makhode], [alinah-fosi], [basa], [department-of-justice-south-africa], [rica-south-africa], [fatf]]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-20
-sources: [[2026-04-21 South Africa's digital ID gets a targeted launch date], [2026-05-29 Opinion South Africa's Digital Identity Regulations A Governance Crossroads], [2026-01-28 Home Affairs sets new record by delivering over four million Smart IDs in 2025], [2026-01-27 SA's Telcos, Banks At War With Govt Over 6,500% ID Verification Fee Hike], [2026-01-28 Bad news about South Africa's newest ID book plan], [2025-11-09 Behind the speedy MyMzansi screens and the Presidency's race to build a digital government], [2026-01-07 Digital driving licence coming to South Africa], [2026-04-03 Say goodbye to SARS tax numbers in South Africa], [2026-03-31 Concerns over South Africa's proposed digital ID system from traditional leaders], [2026-03-09 Home affairs launches Smart ID partnership with banks], [2026-02-24 South Africa makes the ETA the cornerstone of its visa reform], [2025-03-06-biometric-drivers-licence-tender-ag], [2025-03-11-digital-id-before-2029-elections], [2025-03-25-biometric-verification-fee-increase], [2025-05-29-biometrics-immigration-raids], [2025-08-12-schreiber-digital-home-affairs], [2026-01-30-digital-id-behind-schedule-mymzansi], [2026-05-06-digital-id-draft-regulation-gazetted], [2026-05-09-smart-ids-go-digital-draft-rules], [2026-05-20-home-affairs-828m-digital-id-budget], [2026-06-08-biometric-population-register-unveiled], [2026-07-07-biometric-case-management-migration], [2026-07-16-absa-joins-home-affairs-smart-id], [2026-07-17-home-affairs-unblock-identity-numbers-addresses], [2026-07-10-sarb-explores-digital-identity], [2026-06-09-operators-solved-fintech-digital-identity-next], [2026-03-30-dha-annual-performance-plan-2026-27-digital-identity], [2026-03-26-dha-annual-performance-plan-2026-27], [2025-04-03-sars-collaboration-agreements-dha-bma-gpw], [2025-03-27-cabinet-statement-26-march-2025]]
+sources: [[2026-04-21 South Africa's digital ID gets a targeted launch date], [2026-05-29 Opinion South Africa's Digital Identity Regulations A Governance Crossroads], [2026-01-28 Home Affairs sets new record by delivering over four million Smart IDs in 2025], [2026-01-27 SA's Telcos, Banks At War With Govt Over 6,500% ID Verification Fee Hike], [2026-01-28 Bad news about South Africa's newest ID book plan], [2025-11-09 Behind the speedy MyMzansi screens and the Presidency's race to build a digital government], [2026-01-07 Digital driving licence coming to South Africa], [2026-04-03 Say goodbye to SARS tax numbers in South Africa], [2026-03-31 Concerns over South Africa's proposed digital ID system from traditional leaders], [2026-03-09 Home affairs launches Smart ID partnership with banks], [2026-02-24 South Africa makes the ETA the cornerstone of its visa reform], [2025-03-06-biometric-drivers-licence-tender-ag], [2025-03-11-digital-id-before-2029-elections], [2025-03-25-biometric-verification-fee-increase], [2025-05-29-biometrics-immigration-raids], [2025-08-12-schreiber-digital-home-affairs], [2026-01-30-digital-id-behind-schedule-mymzansi], [2026-05-06-digital-id-draft-regulation-gazetted], [2026-05-09-smart-ids-go-digital-draft-rules], [2026-05-20-home-affairs-828m-digital-id-budget], [2026-06-08-biometric-population-register-unveiled], [2026-07-07-biometric-case-management-migration], [2026-07-16-absa-joins-home-affairs-smart-id], [2026-07-17-home-affairs-unblock-identity-numbers-addresses], [2026-07-10-sarb-explores-digital-identity], [2026-06-09-operators-solved-fintech-digital-identity-next], [2026-03-30-dha-annual-performance-plan-2026-27-digital-identity], [2026-03-26-dha-annual-performance-plan-2026-27], [2025-04-03-sars-collaboration-agreements-dha-bma-gpw], [2025-03-27-cabinet-statement-26-march-2025], [2026-07-20-south-africa-sim-registration-rica-digital-id], [2026-07-20-iidentifii-marco-wagener-ceo]]
 ---
 
 # South Africa × Digital Identity
@@ -19,6 +19,50 @@ platform** with verifiable mobile credentials — but the enabling regulations a
 of the primary legislation, and analysts warn the governance scaffolding is thin.
 
 ## What we know (as of 2026-07)
+
+- **The private identity-verification layer repositions from checkpoint to infrastructure
+  (2026-07-20).** [[tech.industry]] [[infra.cybersec]] **[[iidentifii]]** — **founded 2018**,
+  Cape Town, supplying biometric remote identity verification to banks and other regulated
+  organisations, and which raised **$15m in 2022** (**about R272m at the time**, on the company's own
+  conversion) in what it called Africa's largest Series A in the identity-verification sector —
+  appointed co-founder and former CTO **Marco Wagener** as CEO as it expands in Africa and the UK.
+  The appointment itself is officeholder churn; **the reportable development is the stated pivot**:
+  Wagener's brief is to move the business "**from a remote biometric identity verification platform
+  to continuous digital identity infrastructure**" — i.e. from a one-off onboarding check to a
+  standing, always-on identity layer. *Why that matters here:* South Africa's public digital-ID
+  programme (above) is simultaneously building **DHA-backed real-time verification** into banking and
+  now SIM registration, and the private verification vendors are moving up the same stack. Who
+  operates the continuous check — the state's register, the banks' shared rails, or a commercial
+  platform — is the open governance question, and **no South African rule presently allocates it
+  (as of 2026-07-20)**. The company's stated driver is AI-enabled fraud, claiming a **740%
+  year-on-year rise in iOS injection-attack tradecraft** — *a vendor figure with no stated
+  methodology, baseline or measurement window; treat as an attributed marketing claim, not an
+  established rate.* **Nothing on customer numbers, revenue or the pivot's timetable is established**,
+  and iiDENTIFii has **no other coverage on file**. A longer same-day ITWeb South Africa twin
+  carrying client-base detail and third-party market figures is **not held** — filed to
+  `reviews/acquisitions.md`. Source: [[2026-07-20-iidentifii-marco-wagener-ceo]].
+- **The SIM card as identity credential — RICA's first overhaul in ~two decades (2026-07-20;
+  ministerial meeting 2026-03; industry statements 2026-07-17).** Operators and the
+  **[[department-of-justice-south-africa|DoJ&CD]]** have agreed an industry-led framework replacing
+  document presentation under **[[rica-south-africa|RICA]]** with **real-time verification against
+  the [[home-affairs-south-africa|DHA]] database**, through existing DHA-operator arrangements —
+  explicitly benchmarked to the identity checks banks already run. **[[act-south-africa|ACT]]** CEO
+  Nomvuyiso Batyi puts the test as confirming *the registrant is the legitimate owner of the
+  identity presented*, not that a document was shown, and dates the driver to sophisticated digital
+  fraud **from around 2019**. Separate proposals to the DoJ target **s.40 of RICA** legislatively.
+  Justice Minister Mmamoloko Kubayi's **March 2026** urgent meeting set enforcement of existing
+  penalties — **up to R5m or 10 years** (source's own undated conversion ~$303,000) — to commence
+  **from July 2026** with the police and NPA. Evidence cited: pre-RICA'd SIM sales (**Free State
+  arrests, 2024**), **48 arrests in KwaZulu-Natal, 2025** for registration on fraudulent identities,
+  and **[[fatf]]** grey-listing pressure. **[[popia]]** governs the processing. The significance for
+  this page: DHA verification is being consumed at national scale by telecoms **before** the digital
+  ID on the launch ladder below has shipped — Minister **[[leon-schreiber]]** presents it as
+  supporting the developing digital-identity framework. **Verification mechanics, data flows and
+  retention are undisclosed as of 2026-07-20** — ACT deferred to a future consumer campaign — so the
+  privacy design of a per-SIM DHA check is unestablished. Note the unresolved commercial backdrop:
+  the **6,500% DHA verification-fee increase** dispute ([[2026-01-27 SA's Telcos, Banks At War With Govt Over 6,500% ID Verification Fee Hike]])
+  prices the very query this framework makes mandatory. See [[gov.legislate]], [[infra.cybersec]].
+  Source: [[2026-07-20-south-africa-sim-registration-rica-digital-id]].
 
 - **Timeline.** The Department of Home Affairs' Annual Performance Plan 2026/27 (tabled 30 Mar 2026,
   signed by minister Leon Schreiber) sets a **31 March 2027** deadline to complete hosting

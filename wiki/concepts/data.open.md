@@ -2,12 +2,12 @@
 type: concept
 title: Open data
 slug: data.open
-places: [KEN, ZMB, ETH, XGL, XSS, MUS]
-entities: [[kenya-data-marketplace], [publish-what-you-fund], [international-aid-transparency-initiative], [usaid], [data-for-policy], [the-govlab], [digital-data-driven-transformations-landscape-review-2025]]
+places: [KEN, ZMB, ETH, XGL, XSS, MUS, ZAF, XAF]
+entities: [[kenya-data-marketplace], [publish-what-you-fund], [international-aid-transparency-initiative], [usaid], [data-for-policy], [the-govlab], [digital-data-driven-transformations-landscape-review-2025], [african-open-science-platform], [dsti-south-africa], [unesco]]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-19
-sources: [[2026-06-08 Kenya proposes marketplace for State data], [2026-06-17 Zambia's govt leans towards open-source], [2026-07-02 Can AI solve open aid data's access problem], [2023-09-04 Data for Policy - About Us], [2025-01-01 Digital & data-driven transformations in governance a landscape review  Data & Policy], [2026-06-08 Kenya Wants to Sell Your Data. But It's Complicated], [2025-12-15 African AI Startups Should Publish Openly], [2026-02-10 AI in Africa Barriers, opportunities and policy]]
+last_reviewed: 2026-07-20
+sources: [[2026-06-08 Kenya proposes marketplace for State data], [2026-06-17 Zambia's govt leans towards open-source], [2026-07-02 Can AI solve open aid data's access problem], [2023-09-04 Data for Policy - About Us], [2025-01-01 Digital & data-driven transformations in governance a landscape review  Data & Policy], [2026-06-08 Kenya Wants to Sell Your Data. But It's Complicated], [2025-12-15 African AI Startups Should Publish Openly], [2026-02-10 AI in Africa Barriers, opportunities and policy], [2026-07-20-sa-open-science-unesco-gina]]
 ---
 
 # Open data (`data.open`)
@@ -18,6 +18,18 @@ as a **strategic national asset** to be licensed for revenue, and open,
 vendor-neutral publication of foundational reference data.
 
 ## Key material
+
+- **Open *science* as the other openness track — South Africa (2026-07-20, [[ZAF]]).** South Africa's
+  **[[dsti-south-africa|DSTI]]** says it has adopted a **National Open Science Policy** aligned to the
+  **2021 UNESCO Recommendation on Open Science**, widening access to publicly-funded research while
+  balancing openness against ethics, privacy, security, **Indigenous Knowledge Systems** and IP; the
+  **[[african-open-science-platform]]**, hosted by the
+  **[[national-research-foundation-south-africa|NRF]]**, is the continental arm. Distinct from the
+  government-dataset openness that dominates this page: the object is **publications, research data,
+  software and research infrastructure**, and the counterweight named is Indigenous knowledge rather
+  than personal data. **Adoption date, gazette reference and text are not established** in the held
+  source, which is a news report, not the policy. See [[capacity.research]], [[gov.policy]],
+  [[gov.regional]]. Source: [[2026-07-20-sa-open-science-unesco-gina]].
 
 - **Access-as-a-right and open-by-default (2026 H1).** The draft **[[african-guidelines-data-access]]**
   (ACHPR Res.620) frames access to high-value public datasets (budgets, procurement, health,
@@ -124,3 +136,4 @@ vendor-neutral publication of foundational reference data.
 - [[2026-06-08 Kenya Wants to Sell Your Data. But It's Complicated]]
 - [[2025-12-15 African AI Startups Should Publish Openly]]
 - [[2026-02-10 AI in Africa Barriers, opportunities and policy]]
+- [[2026-07-20-sa-open-science-unesco-gina]]

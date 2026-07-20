@@ -3,11 +3,11 @@ type: concept
 title: Cybersecurity
 slug: infra.cybersec
 places: [MRT, ZMB, ZAF, XAF, NGA, MOZ, RWA, BEN, GHA, KEN, MUS, LBR, XEA, XSS, CMR, BFA, EGY, SDN, SEN, ZWE, DZA, UGA, DJI, CPV, SOM, AGO, MLI, NAM, NER]
-entities: [[dzap], [research-ict-africa], [smart-africa], [afnic], [nimc], [mozambique-cyber-security-law], [realtyme], [smart-africa-realtyme-partnership], [sadx], [sa-digital-id-regulations], [popia], [world-bank], [mosip], [id4africa], [eac], [antic-cameroon], [patnuc], [bf-ministry-digital-transition], [alliance-of-sahel-states], [anssi-mali], [agetic], [intic-mozambique], [cybastion], [securoute], [asin-benin], [zte], [hikvision], [huawei], [bio-key-international], [runlevel], [simo-mozambique], [kenya-cyber-resilience-project], [expertise-france], [estdev], [european-union], [nira-nigeria], [nitda]]
+entities: [[dzap], [research-ict-africa], [smart-africa], [afnic], [nimc], [mozambique-cyber-security-law], [realtyme], [smart-africa-realtyme-partnership], [sadx], [sa-digital-id-regulations], [popia], [world-bank], [mosip], [id4africa], [eac], [antic-cameroon], [patnuc], [bf-ministry-digital-transition], [alliance-of-sahel-states], [anssi-mali], [agetic], [intic-mozambique], [cybastion], [securoute], [asin-benin], [zte], [hikvision], [huawei], [bio-key-international], [runlevel], [simo-mozambique], [kenya-cyber-resilience-project], [expertise-france], [estdev], [european-union], [nira-nigeria], [nitda], [virtual-assets-executive-order-2026], [nfiu], [onsa-nigeria], [rica-south-africa]]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-20
-sources: [[2025-09-11 DZAP World Bank PAD], [2025-01-01 South African Digital Sovereignty at the Crossroad of Securitization and Development (Chapter 4) - Digital Sovereignty in the BRICS Countries], [2026-07-09 Smart Africa and AFNIC Partner to Strengthen Africa's Internet Infrastructure], [2026-07-09 NIMC Act 2026 Director-General Coker-Odusote Launches 8,809-Ward Digital ID Drive], [2026-04-17 Mozambique parliament unanimously approves Cyber Security Law], [2026-04-16 Smart Africa, RealTyme join forces for data sovereignty], [2026-04-27 Smart Africa drives cross-border data interoperability through SADX Technical Mission], [2026-04-21 South Africa's digital ID gets a targeted launch date], [2026-05-16 World Bank, African DPAs outline formula for trusted digital identity, DPI], [2026-01-22 Cameroon boosts cyber defense systems], [2026-01-27 Cameroon deploys cybersecurity system to protect DPI, boost digital trust], [2026-01-22 Burkina Faso aims for digital sovereignty with infrastructure supervision center], [2026-02-06 Mozambique intros data breach platform], [2026-01-27 Cybastion Advances Digital Government Solutions, Supports Benin's SECUROUTE Infrastructure Upgrade], [2026-03-01 Smart City Surveillance in Africa (IDS 2026)], [2026-02-24 BIO-key and RunLevel Deploy Biometric IAM Across Mozambique's National Payments Network], [2026-01-27 Kenya launches project to boost cyber security], [2026-01-21 How foreign domains compromise digital identity]]
+sources: [[2025-09-11 DZAP World Bank PAD], [2025-01-01 South African Digital Sovereignty at the Crossroad of Securitization and Development (Chapter 4) - Digital Sovereignty in the BRICS Countries], [2026-07-09 Smart Africa and AFNIC Partner to Strengthen Africa's Internet Infrastructure], [2026-07-09 NIMC Act 2026 Director-General Coker-Odusote Launches 8,809-Ward Digital ID Drive], [2026-04-17 Mozambique parliament unanimously approves Cyber Security Law], [2026-04-16 Smart Africa, RealTyme join forces for data sovereignty], [2026-04-27 Smart Africa drives cross-border data interoperability through SADX Technical Mission], [2026-04-21 South Africa's digital ID gets a targeted launch date], [2026-05-16 World Bank, African DPAs outline formula for trusted digital identity, DPI], [2026-01-22 Cameroon boosts cyber defense systems], [2026-01-27 Cameroon deploys cybersecurity system to protect DPI, boost digital trust], [2026-01-22 Burkina Faso aims for digital sovereignty with infrastructure supervision center], [2026-02-06 Mozambique intros data breach platform], [2026-01-27 Cybastion Advances Digital Government Solutions, Supports Benin's SECUROUTE Infrastructure Upgrade], [2026-03-01 Smart City Surveillance in Africa (IDS 2026)], [2026-02-24 BIO-key and RunLevel Deploy Biometric IAM Across Mozambique's National Payments Network], [2026-01-27 Kenya launches project to boost cyber security], [2026-01-21 How foreign domains compromise digital identity], [2026-07-20-nigeria-coordinated-regulatory-framework-virtual-assets], [2026-07-20-south-africa-sim-registration-rica-digital-id], [2026-07-20-kenya-presidential-website-defacement-ransom], [2026-07-20-sassa-dismissals-r33m-grant-fraud]]
 ---
 
 # Cybersecurity (`infra.cybersec`)
@@ -197,6 +197,11 @@ how "cyber threat" is defined and acted on.
   year raised the attack surface. Aligned to Kenya's National Cybersecurity Strategy and Digital
   Master Plan. See [[geopol.eu]], [[gov.policy]], [[finance.new]]. Source:
   [[2026-01-27 Kenya launches project to boost cyber security]].
+- **[[KEN]] Kenya — institutional build vs operational resilience.** Kenya now has a central cyber
+  authority (**NCSA**, 2026-06), EU-funded CII hardening, and an NC4 attack-volume claim in the
+  billions (2026-06) — while **president.go.ke was defaced twice inside twelve months**
+  (**2025-11-17**, and **2026-07-18** with a **5 BTC** ransom demand). Full case:
+  **[[kenya--infra-cybersec]]**.
 - **[[NGA]] The .ng ccTLD as a neglected DPI/security pillar (2026-01).** Analysis argues
   Nigeria's under-adopted **.ng** domain (~237,266 active registrations, Dec 2025, managed by
   **[[nira-nigeria]]**) is a governance and enforcement gap in digital sovereignty; the 2022 FEC
@@ -300,9 +305,12 @@ how "cyber threat" is defined and acted on.
 - [[2026-03-01 Smart City Surveillance in Africa (IDS 2026)]]
 - [[2026-02-24 BIO-key and RunLevel Deploy Biometric IAM Across Mozambique's National Payments Network]]
 - [[2026-01-27 Kenya launches project to boost cyber security]]
+- [[2026-07-20-kenya-presidential-website-defacement-ransom]]
 - [[2026-01-21 How foreign domains compromise digital identity]]
 - [[2025-11-07 Sudan Establishes Three Digital Authorities to Advance E-Govt]]
 - [[2024-09-18 Nigeria among tier-3 countries in ITU Global Cybersecurity Index 2024]]
 - [[2025-12-09-angola-unveils-national-cybersecurity-strategy]]
 - [[2026-07-08-deputados-suspendem-discussao-lei-da-ciberseguranca]]
 - [[2026-02-26-sinse-adquiriu-spyware-predator-para-espiar-jornalista]]
+- [[2026-07-20-nigeria-coordinated-regulatory-framework-virtual-assets]]
+- [[2026-07-20-south-africa-sim-registration-rica-digital-id]]

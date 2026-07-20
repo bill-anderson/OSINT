@@ -6,8 +6,8 @@ places: [NGA, KEN]
 topics: [dpi.pay, finance.new]
 lens: []
 status: active
-last_reviewed: 2026-07-18
-sources: [[2026-04-02-moniepoint-enters-kenya-connectingafrica]]
+last_reviewed: 2026-07-20
+sources: [[2026-04-02-moniepoint-enters-kenya-connectingafrica], [2026-07-20-cbn-rewriting-rules-nigeria-fintech-growth]]
 ---
 
 # Moniepoint

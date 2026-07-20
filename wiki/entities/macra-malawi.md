@@ -7,7 +7,7 @@ topics: [infra.connect, dpi.id, dpi.registry, gov.legislate, gov.protect, infra.
 lens: []
 status: active
 last_reviewed: 2026-07-20
-sources: [[2024-02-02-malawi-data-protection-act-2024], [2025-10-01-dmap-tor-operationalization-data-protection-authority], [2026-07-17-macra-airtel-malawi-tnm-tariff-compensation], [2025-05-21 Malawi to Launch Mandatory Biometric SIM Registration in July 2025], [2024-02-12 National Addressing Project - MACRA Website], [2024-06-25 Review of the Malawi Data Protection Act 2024], [2026-07-16-macra-data-protection-registration-compliance-malawi24], [2026-07-14-macra-data-protection-registration-fees-consultation-itweb], [2026-03-26-world-bank-cybersecurity-data-protection-support-techafricanews], [2026-07-10-macra-undp-ai-digital-id-collaboration-itweb]]
+sources: [[2026-07-20-malawi-seeks-new-telecom-competition], [2024-02-02-malawi-data-protection-act-2024], [2025-10-01-dmap-tor-operationalization-data-protection-authority], [2026-07-17-macra-airtel-malawi-tnm-tariff-compensation], [2025-05-21 Malawi to Launch Mandatory Biometric SIM Registration in July 2025], [2024-02-12 National Addressing Project - MACRA Website], [2024-06-25 Review of the Malawi Data Protection Act 2024], [2026-07-16-macra-data-protection-registration-compliance-malawi24], [2026-07-14-macra-data-protection-registration-fees-consultation-itweb], [2026-03-26-world-bank-cybersecurity-data-protection-support-techafricanews], [2026-07-10-macra-undp-ai-digital-id-collaboration-itweb]]
 ---
 
 # Malawi Communications Regulatory Authority (MACRA)
@@ -54,6 +54,16 @@ standardised addresses — a registry layer feeding e-government and service del
   notice — and as MACRA acting on the consumer side weeks after a public petition on internet pricing
   (2026-07-17). See [[malawi--infra-connect]], [[include.access]], [[gov.legislate]]. Source:
   [[2026-07-17-macra-airtel-malawi-tnm-tariff-compensation]].
+
+## Contested figure: the spectrum fee cut
+
+- MACRA announced a **20% reduction in spectrum fees across all bands** on **2025-06-26** (DG Daud
+  Suleman; revised Administrative Incentive Pricing model). On **2026-07-20** ICT minister Shadric
+  Namalomba told parliament the reduction was **50%**. Whether these are one measure reported at two
+  magnitudes or two successive cuts is **not established in held material (as of 2026-07-20)**; no MACRA
+  fee schedule or gazette notice is on file. Both values carried, dated —
+  `reviews/contradictions/open/2026-07-20-malawi-spectrum-fee-cut-20pc-vs-50pc.md`. Sources:
+  [[2025-06-26-macra-spectrum-fees-cut-20pc-techafricanews]], [[2026-07-20-malawi-seeks-new-telecom-competition]].
 
 ## Links
 Place: [[MWI]] · Topics: [[infra.connect]] · [[dpi.id]] · [[dpi.registry]] · [[gov.protect]] ·

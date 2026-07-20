@@ -2,12 +2,12 @@
 type: entity
 entity_type: company
 title: Equity Group Holdings
-places: [KEN, XAF]
+places: [KEN, XAF, SSD]
 topics: [dpi.pay, dpi.id, dpi.exchange, include.access, finance.mou]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-10
-sources: [[2026-07-07 Equity, AfricaNenda and Gates Foundation Partner to Advance Digital Public Infrastructure Across Africa]]
+last_reviewed: 2026-07-20
+sources: [[2026-07-07 Equity, AfricaNenda and Gates Foundation Partner to Advance Digital Public Infrastructure Across Africa], [2026-07-20-south-sudan-e-visa-fee-eac-labour-mobility]]
 ---
 
 # Equity Group Holdings
@@ -29,3 +29,4 @@ private-sector implementation partner for continental DPI.
 ## Sources
 
 - [[2026-07-07 Equity, AfricaNenda and Gates Foundation Partner to Advance Digital Public Infrastructure Across Africa]]
+- [[2026-07-20-south-sudan-e-visa-fee-eac-labour-mobility]] — named (with KCB and Stanbic) as a Kenyan lender running a South Sudan subsidiary exposed to the new USD 50 e-visa fee on staff rotation (2026-07-20).

@@ -3,11 +3,11 @@ type: entity
 entity_type: deal
 title: Digital Malawi Acceleration Project (DMAP)
 places: [MWI]
-topics: [finance.new, dpi.govtech, dpi.exchange, dpi.id, infra.store]
+topics: [finance.new, dpi.govtech, dpi.exchange, dpi.id, infra.store, infra.connect]
 lens: [sovereignty, colonialism]
 status: active
 last_reviewed: 2026-07-20
-sources: [[2025-10-01-dmap-tor-operationalization-data-protection-authority], [2026-07-07 Malawi integrates immigration e-services]]
+sources: [[2026-07-20-malawi-seeks-new-telecom-competition], [2025-10-01-dmap-tor-operationalization-data-protection-authority], [2026-07-07 Malawi integrates immigration e-services]]
 ---
 
 # Digital Malawi Acceleration Project (DMAP)
@@ -29,6 +29,13 @@ hosted server infrastructure**.
   supporting **data sovereignty**, reliability and secure public-sector data management.
   See [[MWI]], [[dpi.govtech]], [[dpi.exchange]], [[infra.store]].
 
+- **Headline value: $150 million (as stated 2026-07-20).** Malawi's ICT minister told parliament DMAP is a
+  **$150m** project supporting expansion of mobile tower infrastructure, particularly in underserved
+  areas. *This is the first monetary figure the wiki holds for DMAP; it is the minister's figure, not a
+  [[world-bank]] financing document, and no held source states the commitment date or currency basis
+  beyond USD.* See [[malawi--infra-connect]], [[infra.connect]], [[finance.new]]. Source:
+  [[2026-07-20-malawi-seeks-new-telecom-competition]].
+
 ## Reads
 
 - `sovereignty`: single national platform on locally hosted servers; departments keep
@@ -38,4 +45,5 @@ hosted server infrastructure**.
 
 ## Sources
 
+- [[2026-07-20-malawi-seeks-new-telecom-competition]]
 - [[2026-07-07 Malawi integrates immigration e-services]]

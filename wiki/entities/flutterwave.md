@@ -6,8 +6,8 @@ places: [NGA, CMR]
 topics: [dpi.pay, tech.industry, gov.legislate]
 lens: []
 status: active
-last_reviewed: 2026-07-18
-sources: [[2025-06-23-flutterwave-digital-payment-license-beac-ecobank-connectingafrica]]
+last_reviewed: 2026-07-20
+sources: [[2025-06-23-flutterwave-digital-payment-license-beac-ecobank-connectingafrica], [2026-07-20-cbn-rewriting-rules-nigeria-fintech-growth]]
 ---
 
 # Flutterwave

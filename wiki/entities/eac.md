@@ -6,8 +6,8 @@ places: [XEA, KEN, UGA, TZA, RWA, SOM, SSD, BDI]
 topics: [gov.regional, gov.protect, dpi.exchange, tech.ai, gov.policy, dpi.id, data.statistics]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-18
-sources: [[2026-05-16 World Bank, African DPAs outline formula for trusted digital identity, DPI], [2026-03-31 EAC moves to create unified AI Sovereignty bloc], [2026-06-25-eac-backs-secure-data-sharing-framework], [2025-10-10-eala-endorses-eac-regional-statistics-bureau]]
+last_reviewed: 2026-07-20
+sources: [[2026-05-16 World Bank, African DPAs outline formula for trusted digital identity, DPI], [2026-03-31 EAC moves to create unified AI Sovereignty bloc], [2026-06-25-eac-backs-secure-data-sharing-framework], [2025-10-10-eala-endorses-eac-regional-statistics-bureau], [2026-07-20-south-sudan-e-visa-fee-eac-labour-mobility]]
 ---
 
 # East African Community (EAC)
@@ -23,9 +23,12 @@ The East African Community is a regional economic bloc pursuing harmonised cross
 - **Secure cross-border data-sharing framework (2026-06).** [[dpi.exchange]] EAC states met in Dar es Salaam to validate a **regional data-sharing framework** — common transfer standards preserving national authority — under the World Bank **[[eardip]]** project, framed as core infrastructure for the Single Digital Market. Deputy SG Annette Ssemuwemba led. Source: [[2026-06-25-eac-backs-secure-data-sharing-framework]].
 - **Regional Statistics Bureau bill passed (2025-10-08).** [[data.statistics]] EALA passed the **EAC Statistics Bureau Bill** to create a central body harmonising statistics across the eight states toward the East African Monetary Union — after years of delay and amendments requested by **[[BDI]] Burundi** (aligning board-designation rules with domestic law); it now awaits Heads-of-State assent. Source: [[2025-10-10-eala-endorses-eac-regional-statistics-bureau]].
 
+- **Free movement contradicted by a member's own e-visa schedule (2026-07-20).** [[gov.regional]] [[SSD|South Sudan]] — an EAC member since **2016** — published e-visa fees of **USD 50** for [[KEN]], [[UGA]], [[RWA]] and [[COD]] citizens and **USD 100** for Somali and Burundian citizens, while leaving **[[TZA]] Tanzania** visa-free. The **Common Market Protocol** anchors free movement of persons, labour and services as a central pillar of the bloc, so six of seven partner states now face a charge that cuts against it — a live test of whether the EAC's free-movement commitment binds in practice. Source: [[2026-07-20-south-sudan-e-visa-fee-eac-labour-mobility]].
+
 ## Sources
 
 - [[2026-05-16 World Bank, African DPAs outline formula for trusted digital identity, DPI]]
 - [[2026-03-31 EAC moves to create unified AI Sovereignty bloc]]
 - [[2026-06-25-eac-backs-secure-data-sharing-framework]]
 - [[2025-10-10-eala-endorses-eac-regional-statistics-bureau]]
+- [[2026-07-20-south-sudan-e-visa-fee-eac-labour-mobility]]

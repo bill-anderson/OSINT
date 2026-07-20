@@ -4,14 +4,25 @@ title: Liberia
 code: LBR
 parent: XWA
 place_kind: country
-topics: [gov.policy, gov.standards, infra.connect, infra.cybersec, dpi.govtech, dpi.exchange, dpi.id, dpi.registry, dpi.pay, gov.protect, gov.legislate, gov.regional, include.access, include.divides, capacity.literacy, data.statistics, finance.new, finance.mou]
+topics: [gov.policy, gov.standards, infra.connect, infra.cybersec, dpi.govtech, dpi.exchange, dpi.id, dpi.registry, dpi.pay, gov.protect, gov.legislate, gov.regional, include.access, include.divides, capacity.literacy, data.statistics, finance.new, finance.mou, tech.ai]
 status: active
-last_reviewed: 2026-07-18
+last_reviewed: 2026-07-20
 ---
 
 # Liberia (LBR)
 
 ## Recent developments
+
+- **2026-07-20 — Liberia Technology Summit 2026 announced for 21–22 July, Monrovia.** [[gov.policy]]
+  The government announced a two-day national technology summit in Monrovia, **presided over by the
+  Ministry of State**, convening national and international experts on **artificial intelligence,
+  cybersecurity and innovation** to modernise public services and stimulate the economy; **President
+  Joseph Nyuma Boakai** is to deliver an address. **Announced, not held** — no agenda, participants,
+  outputs or commitments are established, and the wiki holds nothing on the summit's outcome. It is
+  noted because it is the first time AI appears as a stated Liberian government agenda item alongside
+  the cybersecurity and e-governance pillars of [[digital-liberia-strategy]] and EO 163
+  ([[otdi-liberia]]). See [[tech.ai]], [[infra.cybersec]], [[dpi.govtech]]. Source:
+  [[2026-07-20-liberia-sommet-technologie-monrovia]].
 
 - **2026-07-17 — LTA's sweeping telecom overhaul.** [[lta-liberia]] Board Chair Clarence Massaquoi
   unveiled the biggest reform since the 2007 Telecom Act: splitting infrastructure vs. service licences
@@ -124,6 +135,9 @@ last_reviewed: 2026-07-18
 - [[national-identification-registry-liberia]] · [[great-project-liberia]] · [[osd-international]] · [[techno-brain]] · [[naymote]] · [[liberia-data-protection-bill]]
 - [[pay-na-na]] · [[central-bank-of-liberia]] · [[otdi-liberia]] · [[digital-liberia-strategy]] · [[lta-liberia]] · [[starlink]]
 - [[wardip]] · [[world-bank]] · [[ecowas]] · [[african-union]] · [[smart-africa]] · [[undp]] · [[mojaloop]] · [[africanenda]]
+- Mentioned, not hubbed (2026-07-20): **Ministry of State** (`ministry-of-state-liberia`, convenor of
+  the Liberia Technology Summit 2026); **Liberia Technology Summit 2026** (`liberia-technology-summit-2026`,
+  initiative — 21–22 Jul 2026, Monrovia)
 - Mentioned, not hubbed: Ministry of Posts and Telecommunications; Ministry of Finance & Development
   Planning; Civil Service Agency; PPCC; ThitsaWorks (IIPS switch operator); Mwetana Consulting (CSA LPA);
   TRANSCO CLSG; Star Cell; Andrew Peters (NIR ED); Samuel Kofi Woods (NBIS steering committee);

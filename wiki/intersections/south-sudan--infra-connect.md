@@ -4,12 +4,12 @@ title: South Sudan × Connectivity
 place: SSD
 topic: infra.connect
 places: [SSD]
-topics: [infra.connect, include.access, include.divides, finance.new, gov.regional, tech.industry, gov.legislate]
-entities: [[national-communication-authority-south-sudan], [mtn-south-sudan], [bayobab-south-sudan], [starlink]]
+topics: [infra.connect, include.access, include.divides, finance.new, gov.regional, tech.industry, gov.legislate, gov.policy, infra.cybersec]
+entities: [[national-communication-authority-south-sudan], [mtn-south-sudan], [bayobab-south-sudan], [starlink], [ministry-of-ict-and-postal-services-south-sudan], [eastern-africa-regional-digital-integration-project]]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-19
-sources: [[2025-10-09-2400km-fiber-optic-network-techafricanews], [2025-08-08-fibre-from-kenya-itweb], [2025-11-25-bayobab-15yr-fibre-licence-techafricanews], [2026-03-04-nct-bayobab-national-backbone-fiber-techreviewafrica], [2025-06-30-9m-fiber-optic-design-onecitizendaily], [2025-04-07-fibre-optics-boost-ai-onecitizendaily], [2025-01-24-social-media-shutdown-cpj], [2026-06-25-nca-telecom-tariff-adjustment-radiotamazuj], [2025-12-12-mtn-25pct-tariff-cut-laws-techafricanews], [2025-11-27-editorial-high-mobile-data-cost-onecitizendaily], [2025-07-03-nca-internet-growth-figures-eyeradio], [2025-04-14-mtn-15yr-mobile-licence-techafricanews], [2025-01-22-mtn-esim-launch-telecomreviewafrica], [2026-01-05-rural-connectivity-child-online-safety-2026-onecitizendaily]]
+last_reviewed: 2026-07-20
+sources: [2026-07-20-south-sudan-national-spectrum-management-5g-strategy], [[2025-10-09-2400km-fiber-optic-network-techafricanews], [2025-08-08-fibre-from-kenya-itweb], [2025-11-25-bayobab-15yr-fibre-licence-techafricanews], [2026-03-04-nct-bayobab-national-backbone-fiber-techreviewafrica], [2025-06-30-9m-fiber-optic-design-onecitizendaily], [2025-04-07-fibre-optics-boost-ai-onecitizendaily], [2025-01-24-social-media-shutdown-cpj], [2026-06-25-nca-telecom-tariff-adjustment-radiotamazuj], [2025-12-12-mtn-25pct-tariff-cut-laws-techafricanews], [2025-11-27-editorial-high-mobile-data-cost-onecitizendaily], [2025-07-03-nca-internet-growth-figures-eyeradio], [2025-04-14-mtn-15yr-mobile-licence-techafricanews], [2025-01-22-mtn-esim-launch-telecomreviewafrica], [2026-01-05-rural-connectivity-child-online-safety-2026-onecitizendaily]]
 ---
 
 # South Sudan × Connectivity
@@ -67,6 +67,24 @@ exposed the fragility of the sector and of digital rights.
   and rights defenders worked via VPN (CPJ). A reminder that the same regulator building connectivity also
   wields the kill switch. See [[gov.legislate]], [[south-sudan--dpi-id]]. Source:
   [[2025-01-24-social-media-shutdown-cpj]].
+
+## Spectrum governance and a 5G strategy (2026-07-20)
+
+- **What happened.** The **[[national-communication-authority-south-sudan|NCA]]** closed a **two-day
+  inception workshop** launching development of a **National Spectrum Management and 5G Strategy**, with
+  the **Ministry of ICT and Postal Services**, the **Eastern Africa Regional Digital Integration Project
+  (EA-RDIP)**, and an expert team led by consultant **Professor William Webb**. Outputs were a
+  methodology, work plan, stakeholder-engagement approach, **governance structures** and an information
+  requirement — plus stated aims on **national cybersecurity**, service quality and investment climate.
+- **What it is not.** No strategy, spectrum plan, band allocation, auction design or timetable is published
+  in held material **as of 2026-07-20** — this is the start of a process, not a policy.
+- **Read:** the headline is 5G; the substance is **spectrum management**, which South Sudan has needed
+  regardless of generation, and which bears directly on the affordability and tariff problems set out
+  above. Against ~**15.7%** penetration, one 200 km international fibre line and the region's costliest
+  data, 5G is a distant layer — but a spectrum framework is not, and this is the first time the wiki holds
+  evidence of one being built. The process is **donor-financed (EA-RDIP) and consultant-led**, consistent
+  with the externally-scaffolded pattern across South Sudan's digital state. See [[gov.policy]],
+  [[gov.regional]], [[infra.cybersec]]. Source: [[2026-07-20-south-sudan-national-spectrum-management-5g-strategy]].
 
 ## Reads
 

@@ -4,12 +4,12 @@ title: South Sudan × E-Government & Revenue Digitisation
 place: SSD
 topic: dpi.govtech
 places: [SSD]
-topics: [dpi.govtech, dpi.pay, gov.policy, gov.legislate, finance.mou, infra.capacity]
-entities: [[national-communication-authority-south-sudan], [south-sudan-national-revenue-authority], [electronic-services-council-south-sudan]]
+topics: [dpi.govtech, dpi.pay, gov.policy, gov.legislate, gov.regional, finance.mou, infra.capacity]
+entities: [[national-communication-authority-south-sudan], [south-sudan-national-revenue-authority], [electronic-services-council-south-sudan], [eac]]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-20
-sources: [[2026-02-13-nca-eservices-platform-revenue-onecitizendaily], [2026-03-10-ssra-digital-first-tax-strategy-onecitizendaily], [2026-05-15-crawford-capital-eservices-partnership-citizendigital], [2026-05-21-ict-authority-established-szn], [2025-09-16-ohchr-plundering-a-nation-south-sudan-a-hrc-60-crp-5], [2025-09-16-un-commission-south-sudan-plundering-a-nation-ohchr], [2026-06-22-crawford-denies-75-percent-revenue-retention-sudanspost], [2026-05-14-south-sudan-defends-crawford-capital-deal-eastleighvoice], [2025-10-09-ssra-nca-ensoft-six-year-revenue-digitization-deal-eyeradio]]
+sources: [[2026-02-13-nca-eservices-platform-revenue-onecitizendaily], [2026-03-10-ssra-digital-first-tax-strategy-onecitizendaily], [2026-05-15-crawford-capital-eservices-partnership-citizendigital], [2026-05-21-ict-authority-established-szn], [2025-09-16-ohchr-plundering-a-nation-south-sudan-a-hrc-60-crp-5], [2025-09-16-un-commission-south-sudan-plundering-a-nation-ohchr], [2026-06-22-crawford-denies-75-percent-revenue-retention-sudanspost], [2026-05-14-south-sudan-defends-crawford-capital-deal-eastleighvoice], [2025-10-09-ssra-nca-ensoft-six-year-revenue-digitization-deal-eyeradio], [2026-07-20-south-sudan-e-visa-fee-eac-labour-mobility]]
 ---
 
 # South Sudan × E-Government & Revenue Digitisation
@@ -31,6 +31,19 @@ give the fragmented effort an institutional home. (Full-digitisation decree, Jan
   permits** (early success reported) — to plug leakages, though hampered by an **ICT-infrastructure
   deficit and a shortage of specialised personnel** (working with the NCA on connectivity). See
   [[infra.capacity]]. Source: [[2026-03-10-ssra-digital-first-tax-strategy-onecitizendaily]].
+
+- **The e-visa portal starts charging EAC citizens (20 Jul 2026).** Revised fees **published on South
+  Sudan's electronic visa portal on 2026-07-20**, implementing an immigration policy introduced the
+  preceding week (*week of 13 Jul 2026 — the policy's own date is not established in held material*),
+  put a **USD 50** visa fee on citizens of **[[KEN]], [[UGA]], [[RWA]] and [[COD]]**, and **USD 100** on
+  Somali, Burundian and Nigerian citizens. **Tanzanians and Egyptians enter visa-free**; South Africans
+  visa-free for stays **under 30 days**. Applications are online-only — apply on the portal, pay online,
+  download the approved document before travel — with a stated **72-hour** processing time. *(Fees are
+  denominated in USD by the issuing authority itself; no local-currency figure is published.)* The
+  e-visa is one of the SSRA "Digital First" rails above and sits inside the Crawford Capital
+  e-Government concession documented below — so the charge is levied through a **privately operated
+  channel**, which is the part worth watching. See [[gov.regional]], [[south-sudan--dpi-pay]]. Source:
+  [[2026-07-20-south-sudan-e-visa-fee-eac-labour-mobility]].
 
 ## Institutional and partner moves
 

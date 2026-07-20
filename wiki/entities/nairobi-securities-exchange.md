@@ -6,8 +6,8 @@ places: [KEN]
 topics: [dpi.pay, finance.new]
 lens: []
 status: active
-last_reviewed: 2026-07-18
-sources: [[2026-02-10-safaricom-nse-share-trading-mpesa-connectingafrica]]
+last_reviewed: 2026-07-20
+sources: [[2026-02-10-safaricom-nse-share-trading-mpesa-connectingafrica], [2026-07-20-safaricom-financial-services-chief-exits-mpesa]]
 ---
 
 # Nairobi Securities Exchange (NSE)

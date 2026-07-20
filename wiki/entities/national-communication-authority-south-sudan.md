@@ -3,10 +3,10 @@ type: entity
 entity_type: government-body
 title: National Communication Authority (NCA) South Sudan
 places: [SSD]
-topics: [infra.connect, infra.store, gov.legislate, gov.protect]
+topics: [infra.connect, infra.store, gov.legislate, gov.protect, gov.policy, infra.cybersec, gov.regional]
 status: active
 last_reviewed: 2026-07-20
-sources: [[2026-01-17 South Sudan NCA establishes gateway services and data centre oversight committee], [2025-10-17 Paradigm Initiative partners with Koneta Hub on data protection law in South Sudan], [2025-10-09-ssra-nca-ensoft-six-year-revenue-digitization-deal-eyeradio]]
+sources: [2026-07-20-south-sudan-national-spectrum-management-5g-strategy], [[2026-01-17 South Sudan NCA establishes gateway services and data centre oversight committee], [2025-10-17 Paradigm Initiative partners with Koneta Hub on data protection law in South Sudan], [2025-10-09-ssra-nca-ensoft-six-year-revenue-digitization-deal-eyeradio]]
 lens: [sovereignty]
 ---
 
@@ -18,6 +18,15 @@ international gateway services and the national data centre. Director General
 
 ## Activity in this wiki
 
+- **National Spectrum Management and 5G Strategy launched (2026-07-20).** The NCA concluded a **two-day
+  inception workshop** starting development of the strategy, with the **Ministry of ICT and Postal
+  Services**, the **Eastern Africa Regional Digital Integration Project (EA-RDIP)** and an expert team led
+  by consultant **Professor William Webb** — agreeing methodology, work plan, stakeholder engagement,
+  **governance structures** and information requirements, and citing **cybersecurity**, service quality
+  and investment climate as aims. **No strategy text, spectrum plan or timetable is held as of
+  2026-07-20.** Puts the regulator on the spectrum-governance track it has lacked — donor-financed and
+  consultant-led. See [[south-sudan--infra-connect]], [[gov.policy]], [[infra.cybersec]]. Source:
+  [[2026-07-20-south-sudan-national-spectrum-management-5g-strategy]].
 - **Gateway & data-centre oversight committee (2026-01-17).** The NCA formed a
   **Gateway Services and Data Centre Oversight Committee** with Swiss operator
   **[[mgi-communications]]** to digitise revenue from the South Sudan
@@ -41,6 +50,7 @@ international gateway services and the national data centre. Director General
 
 ## Sources
 
+- [[2026-07-20-south-sudan-national-spectrum-management-5g-strategy]]
 - [[2026-01-17 South Sudan NCA establishes gateway services and data centre oversight committee]]
 - [[2025-10-17 Paradigm Initiative partners with Koneta Hub on data protection law in South Sudan]]
 - [[2025-10-09-ssra-nca-ensoft-six-year-revenue-digitization-deal-eyeradio]]

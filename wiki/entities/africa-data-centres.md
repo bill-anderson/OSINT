@@ -7,7 +7,7 @@ topics: [infra.store, infra.energy, infra.capacity, tech.ai]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-20
-sources: [[2026-01-01 Africa's Sovereign AI Play Cassava Technologies and Zimbabwean Strive Masiyiwa $ 720 million Bets - Ecofin Agency], [2025-09-18 Strive Masiyiwa's Push for Africa's AI-Powered Digital Infrastructure], [2026-06-23 Africa's Data Centre Boom Where The New Facilities Are Being Built], [2026-05-21 Africa Data Center Investment 2026 The $4.5B Race and the Power Problem], [2026-02-26 Lagos Is Getting a $250 Million Hyperscale Data Center. Here's Why Nigeria Still Can't Power the Cloud], [2026-04-14 Africa's data centres rethink power as grids falter], [2026-04-13 Stakeholders urge shift in digital public infrastructure trajectory], [2023-03-14-cassava-adc-dpa-sa-edf-20-year-ppa]]
+sources: [[2026-07-20-cassava-africa-data-centres-azure-expressroute-metro], [2026-01-01 Africa's Sovereign AI Play Cassava Technologies and Zimbabwean Strive Masiyiwa $ 720 million Bets - Ecofin Agency], [2025-09-18 Strive Masiyiwa's Push for Africa's AI-Powered Digital Infrastructure], [2026-06-23 Africa's Data Centre Boom Where The New Facilities Are Being Built], [2026-05-21 Africa Data Center Investment 2026 The $4.5B Race and the Power Problem], [2026-02-26 Lagos Is Getting a $250 Million Hyperscale Data Center. Here's Why Nigeria Still Can't Power the Cloud], [2026-04-14 Africa's data centres rethink power as grids falter], [2026-04-13 Stakeholders urge shift in digital public infrastructure trajectory], [2023-03-14-cassava-adc-dpa-sa-edf-20-year-ppa]]
 ---
 
 # Africa Data Centres
@@ -43,6 +43,14 @@ Africa Data Centres (ADC) is a [[cassava-technologies]] subsidiary and a leading
   population. See [[infra.store]], [[tech.ai]], [[uneca]]. Source:
   [[2026-04-13 Stakeholders urge shift in digital public infrastructure trajectory]].
 
+- **JHB1 designated an Azure ExpressRoute Metro peering location (2026-07-20).** ADC's Johannesburg
+  **JHB1** became a **Microsoft Azure ExpressRoute Metro** peering location — the second inside the
+  Johannesburg metro and, per the announcement, **Africa's first**. Sister company **[[liquid-c2]]** sells
+  the resulting managed service (**Secure CloudConnect**), claiming sole on-net presence in both metro
+  peering locations (*company claim, as of 2026-07-20*). Puts ADC's estate on the private on-ramp to
+  **[[microsoft]]** Azure. See [[south-africa--infra-store]], [[infra.connect]], [[ZAF]]. Source:
+  [[2026-07-20-cassava-africa-data-centres-azure-expressroute-metro]].
+
 ## Related
 - [[cassava-technologies]]
 - [[us-dfc]]
@@ -50,4 +58,4 @@ Africa Data Centres (ADC) is a [[cassava-technologies]] subsidiary and a leading
 - [[cassava-ai-factories]]
 
 ## Sources
-- [[2023-03-14-cassava-adc-dpa-sa-edf-20-year-ppa]] · [[2026-01-01 Africa's Sovereign AI Play Cassava Technologies and Zimbabwean Strive Masiyiwa $ 720 million Bets - Ecofin Agency]] · [[2025-09-18 Strive Masiyiwa's Push for Africa's AI-Powered Digital Infrastructure]] · [[2026-06-23 Africa's Data Centre Boom Where The New Facilities Are Being Built]] · [[2026-05-21 Africa Data Center Investment 2026 The $4.5B Race and the Power Problem]] · [[2026-02-26 Lagos Is Getting a $250 Million Hyperscale Data Center. Here's Why Nigeria Still Can't Power the Cloud]] · [[2026-04-14 Africa's data centres rethink power as grids falter]] · [[2026-04-13 Stakeholders urge shift in digital public infrastructure trajectory]]
+- [[2026-07-20-cassava-africa-data-centres-azure-expressroute-metro]] · [[2023-03-14-cassava-adc-dpa-sa-edf-20-year-ppa]] · [[2026-01-01 Africa's Sovereign AI Play Cassava Technologies and Zimbabwean Strive Masiyiwa $ 720 million Bets - Ecofin Agency]] · [[2025-09-18 Strive Masiyiwa's Push for Africa's AI-Powered Digital Infrastructure]] · [[2026-06-23 Africa's Data Centre Boom Where The New Facilities Are Being Built]] · [[2026-05-21 Africa Data Center Investment 2026 The $4.5B Race and the Power Problem]] · [[2026-02-26 Lagos Is Getting a $250 Million Hyperscale Data Center. Here's Why Nigeria Still Can't Power the Cloud]] · [[2026-04-14 Africa's data centres rethink power as grids falter]] · [[2026-04-13 Stakeholders urge shift in digital public infrastructure trajectory]]

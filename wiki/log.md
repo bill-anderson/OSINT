@@ -6,6 +6,22 @@ Reporting): a few lines each, full detail in `log-archive.md` or git.
 
 ---
 
+## 2026-07-20 — Ingest: the 07-20 sweep batch (32 items, 5 thematic chunks)
+
+**28 filed to `raw/`**, 4 not admitted, `new/` drained. Chunks run sequentially, not parallel — ZAF/KEN/NGA hubs and `dpi.id`/`dpi.pay`/`infra.cybersec` are shared write targets across every chunk. 3 contradictions opened, 22 acquisitions queued. Best of batch: Nigeria's Presidential EO on Virtual Assets Coordination (full text; Virtual Asset Council at CBN, 30-day implementation framework) — nothing on it was held.
+
+**Not admitted (4).** Ghana Card and Niger/AES passport — Biometric Update restatements of events already held from closer sources (MyJoy/Graphic with NIA quotes; ActuNiger at presidency level). ITWeb's ADC/Azure copy — dropped for the fuller Tech Africa News capture of the same event. Oyenuga/SereniMind — rejected and deleted: a "Tech Stars" promo reporting no development, no data or platform layer; standing objects recorded in the mentioned-index with a note that the source was **not** retained and so cannot be grepped.
+
+**Corrections found in held state.** M-PESA's Fintech 2.0 / 6,000 tps figures were *already held* — the Safaricom item's stated rationale did not survive dedup; admitted only for the three-exec-exit pattern, at institution level, no persons tagged. `mpesa.md` is **M-Pesa Tanzania** — the staged `[m-pesa]` tag on a Kenyan source was simply wrong. Held `dsti` is **Sierra Leone's** directorate, not South Africa's department; both kept country-suffixed. Several staged slugs did not match the wiki's own (`international-monetary-fund`→`imf`, `central-bank-of-nigeria`→`cbn`, +8 more).
+
+**Decisions.** (1) VOVE ID pair **kept both** — TechCabal alone carries founding date and named founders for a company with no other coverage; the Biometric Update piece is original interview reporting. The one call most likely to want reverting. (2) The iiDENTIFii sweep note — a paraphrase of an *unheld* ITWeb twin — was **not compiled**; using it would have cited a link the wiki doesn't hold. Preserved verbatim as an ingest note, twin filed as an acquisition. (3) IEC tender roundup admitted despite the digest rule: it aggregates primary procurement notices, not others' reporting, and the IEC's own RFP concedes its election app has "vulnerabilities and inadequate provisions for data safety". (4) Liberia summit admitted (government-convened policy event, thin ≠ out of scope); one dated hub line, marked announced not held.
+
+**Contradictions opened (3):** Ghana NIA Executive Secretary named differently by two held sources same day; MACRA's 20% spectrum fee cut vs the minister's 50% to parliament; M-PESA Kenya 32m (Jan) vs 37m (Feb), basis unstated.
+
+**Standing finding — concept-page bloat is systemic, not local.** `dpi.pay` 4,908w, `finance.new` 4,255w, `dpi.id` 4,309w, `dpi.govtech` 4,125w, `gov.legislate` 4,000w all over threshold; every chunk deliberately routed substance to hubs and intersections to avoid feeding them. `finance.new` looks matrix-shaped and should split cleanly. Needs lint #8. (`infra.connect` 7,228w and `tech.ai` 6,337w are genuinely thematic — leave them.)
+
+Revert: `git revert <sha>`, or `git checkout <sha> -- raw/ wiki/ reviews/`.
+
 ## 2026-07-20 — Daily sweep (run 3): 32 staged, weekend nil confirmed everywhere
 
 Window 07-18→07-20, ten domains, one agent each. **32 candidates in `new-queue/`** awaiting Bill's promote-gate; 45 dropped (`sweep/daily/drop-log-2026-07-20.csv`); 0 needing clip. All 32 are Mon 07-20 — Sat/Sun nil on every domain with positive evidence (archive 404s with resolving siblings; listing ceilings at Fri 07-17), so the weekday-publisher finding now holds across three weekends. Best item: Nigeria's Presidential EO on Virtual Assets Coordination, full text.

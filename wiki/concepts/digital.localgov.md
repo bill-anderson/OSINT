@@ -2,12 +2,12 @@
 type: concept
 title: Digitalisation of sub-national government
 slug: digital.localgov
-places: [MWI, CMR, CIV, DZA, SDN]
-entities: [[blantyre-city-council], [malawi-revenue-authority], [undp], [maposte]]
+places: [MWI, CMR, CIV, DZA, SDN, ZAF, ZMB, NGA]
+entities: [[blantyre-city-council], [malawi-revenue-authority], [undp], [maposte], [cisco], [jozi-my-jozi], [city-of-johannesburg], [zlto], [smart-zambia-institute]]
 lens: []
 status: active
 last_reviewed: 2026-07-20
-sources: [[2026-03-06 Malawi's second city digitises tax collection], [2026-01-13 Cameroon intros digital system for civil documents]]
+sources: [[2026-03-06 Malawi's second city digitises tax collection], [2026-01-13 Cameroon intros digital system for civil documents], [2026-07-20-joburg-cisco-jozi-my-jozi-smart-city-mou], [2026-07-20-smart-zambia-trains-146-district-officers-southern-province]]
 ---
 
 # Digitalisation of sub-national government (`digital.localgov`)
@@ -18,6 +18,28 @@ the layer where citizens actually meet the state.
 
 ## Key material
 
+- **[[ZAF]] Johannesburg — a smart-city programme anchored outside the municipality (MoU signed
+  2026-07-17).** Civic movement **Jozi My Jozi** and **Cisco** signed the three-year
+  **"Masibambisane"** MoU placing Johannesburg in Cisco's **40 Communities** initiative — a **10-year**
+  global programme in which Johannesburg is the **only African city** and the **third selected**, after
+  Western North Carolina (US) and Mumbai (India). Four pillars: **connected safety**, **digital
+  education and skilling**, **technology-enabled community giving** (via blockchain platform **Zlto**,
+  registering homeless people for trackable digital donations), and **smart mobility**. Cisco's named
+  contribution is **Meraki cameras and sensors**, **Splunk** analytics, smart networking and **smart
+  streetlights collecting traffic and environmental data**; **the investment figure is undisclosed**,
+  and targets are to be set during the three-year term. **The governance point is the anchor.** Jozi My
+  Jozi — a civic body convening 50+ organisations — is Cisco's local anchor institution, with the
+  **City of Johannesburg one participant among them**, not the counterparty. The City's own **2025/26
+  draft IDP** (out for comment from **July 2025**) records why: "**fragmented initiatives and
+  insufficient governance structures**", **ineffective governance structures, poor planning, an
+  outdated ICT environment and no mayoral agreement for implementation plans**, with the smart-city
+  strategy still "**under review for mayoral approval**" amid repeated mayoral turnover. *So the
+  sensing layer — cameras, streetlight telemetry, real-time analytics for policing and emergency
+  response — is being stood up through a private-philanthropic channel while the accountable public
+  authority concedes it lacks the governance structures to run one. **Who is the data controller, and
+  under what municipal mandate, is unresolved in anything held (as of 2026-07-20).*** See
+  [[dpi.govtech]], [[tech.ai]], [[finance.mou]], [[gov.protect]], [[ZAF]]. Source:
+  [[2026-07-20-joburg-cisco-jozi-my-jozi-smart-city-mou]].
 - **South African public-sector DT: culture and capacity, not tech (2026 H1).** A cluster of SAJIM/AJIS
   studies finds the binding constraints are institutional: **organisational culture** (not digital
   maturity or leadership) is the strongest determinant of DT across Gauteng government entities; rural
@@ -58,7 +80,14 @@ the layer where citizens actually meet the state.
   Kalulushi, Kalumbila, Kitwe, Solwezi, Chingola, Chilanga named — the eighth unidentified in held
   material), targeting demonstration by **2026-06-19**, covering property taxes, business levy, market levy,
   health permits and fire certificates. Source:
-  [[2026-03-25-kalemba-zambia-cdf-ecouncil-116-councils-gwan]].
+  [[2026-03-25-kalemba-zambia-cdf-ecouncil-116-councils-gwan]]. **District-officer skilling followed
+  (2026-07-20):** **[[smart-zambia-institute]]**'s e-Government Division trained **146 public officers**
+  in the District Commissioner administrations of **Gwembe (40)**, **Mazabuka (46)** and **Siavonga
+  (60)**, Southern Province — digital literacy, **cybersecurity**, **data protection**, e-government
+  platforms, data management and professional email (Principal ICT Officer **Joyce Mushiko**). The
+  platforms above only work if the district tier can operate them; this is the human layer of the same
+  build. See [[capacity.training]], [[gov.protect]]. Source:
+  [[2026-07-20-smart-zambia-trains-146-district-officers-southern-province]].
 - **[[NGA]] Nigeria (2026-05-17) — announced scale against verifiable delivery.** Enugu's smart green
   schools programme is **260 schools, one per ward** (267 is an unverified state *delivery* claim),
   self-funded at **₦266.7bn (2025)** and **₦198bn (2026)**, ~₦1.3–1.5bn per school, with **no donor or DFI
@@ -70,9 +99,11 @@ the layer where citizens actually meet the state.
 
 ## Places
 
-[[MWI]] · [[CMR]] · [[CIV]]
+[[MWI]] · [[CMR]] · [[CIV]] · [[ZAF]] · [[ZMB]] · [[NGA]]
 
 ## Sources
 
 - [[2026-03-06 Malawi's second city digitises tax collection]]
 - [[2026-01-13 Cameroon intros digital system for civil documents]]
+- [[2026-07-20-joburg-cisco-jozi-my-jozi-smart-city-mou]]
+- [[2026-07-20-smart-zambia-trains-146-district-officers-southern-province]]

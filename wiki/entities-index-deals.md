@@ -42,7 +42,7 @@ Part of the [entities index](entities-index.md).
 | EBRD–Yas €270m network-expansion loan | KEN, SEN | finance.new, infra.connect, geopol.eu | [[ebrd-yas-network-loan]] |
 | Digital Zambia Acceleration Project (DZAP) | ZMB | finance.new + connectivity/DPI/skills | [[dzap]] |
 | Equity–AfricaNenda–Gates DPI Partnership | KEN, XAF | finance.mou, dpi.pay, dpi.id, include.access | [[equity-africanenda-gates-dpi-partnership]] |
-| Digital Malawi Acceleration Project (DMAP) | MWI | finance.new, dpi.govtech, dpi.exchange, infra.store | [[dmap]] |
+| Digital Malawi Acceleration Project (DMAP) | MWI | finance.new, dpi.govtech, dpi.exchange, infra.store, infra.connect | [[dmap]] |
 | China–Namibia Smart City funding (¥98m) | NAM | finance.new, geopol.china, tech.ai, infra.store | [[china-namibia-smart-city]] |
 | Sierra Leone–Bhutan NDI–Sign digital ID MoU | SLE | finance.mou, dpi.id, gov.standards | [[sierra-leone-digital-id-mou]] |
 | Nigeria ID4D (Identity for Development) | NGA | finance.new, dpi.id, gov.policy | [[nigeria-id4d]] |

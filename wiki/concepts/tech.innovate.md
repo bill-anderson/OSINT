@@ -2,12 +2,12 @@
 type: concept
 title: Innovation ecosystem
 slug: tech.innovate
-places: [COG, CIV, BWA, BFA, BEN, BDI, AGO, GAB, XAF, GHA, UGA, NGA, KEN, ZAF, DZA, ERI, NER, MUS, ZMB, MAR]
+places: [COG, CIV, BWA, BFA, BEN, BDI, AGO, GAB, XAF, GHA, UGA, NGA, KEN, ZAF, DZA, ERI, NER, MUS, ZMB, MAR, EGY, SOM]
 entities: [[st-digital-gabon], [kimba-connect], [societe-gabonaise-de-garantie], [gabon-sgg-startup-guarantee-accord], [gabon-huawei-kimba-connect-accord], [ministere-economie-numerique-gabon], [mark-alexandre-doumba], [samuel-nartey-george], [google], [google-for-startups-accelerator-africa], [mosip], [id4africa], [angola-startups-law], [kimbo-fund], [luanda-technology-park], [slb-africa-performance-center], [ifc], [african-development-bank], [kenya-investment-authority], [john-mwendwa], [kutanapay], [zerobionics], [norah-kimathi], [e-mark-innovation-hub], [zambia-national-ai-strategy], [qantev], [tarik-dadi], [axa], [africa-collective], [swiss-african-business-circle], [helina-bischoff]]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-19
-sources: [[2026-07-06 Gabon Inaugurates First Tier III Datacenter to Boost Digital Sovereignty], [2026-07-07 Ghana and UNDP Strengthen Partnership on Digital Transformation Projects], [2026-07-01 Google Cloud Summit in Africa Highlights the Continent's Digital Transformation and Unveils New Agentic AI and Infrastructure Investments], [2026-06-20 Ethiopia launches unified MESOB Platform to accelerate national digital transformation], [2026-06-19 What Google's latest startup cohort says about AI in Africa], [2026-06-11 DR Congo to Launch National Digital Identity System RDC-PASS on June 13], [2026-04-21 Meet the 15 Startups Joining the Google for Startups Accelerator Africa Class 10], [2026-05-22 Uganda launches prototype program for digital ID and public infrastructure], [2026-05-28 Why decentralized digital identity looks different in every country], [2026-03-25 On Documenting African AI Knowledge What Becomes Possible], [2025-12-15 African AI Startups Should Publish Openly], [2026-07-17-kenya-golden-visa-investors], [2026-07-17-kutanapay-ai-blockchain-cross-border-trade], [2026-07-17-gabon-garantie-publique-huawei-start-up], [2026-07-17-avec-qantev-le-marocain-tarik-dadi-traque-la-fraude-a-l-assurance-sante], [2026-07-17-quick-fire-helina-bischoff-africa-collective]]
+last_reviewed: 2026-07-20
+sources: [[2026-07-20-vercel-acquires-talent-behind-egypt-stakpak], [2026-07-06 Gabon Inaugurates First Tier III Datacenter to Boost Digital Sovereignty], [2026-07-07 Ghana and UNDP Strengthen Partnership on Digital Transformation Projects], [2026-07-01 Google Cloud Summit in Africa Highlights the Continent's Digital Transformation and Unveils New Agentic AI and Infrastructure Investments], [2026-06-20 Ethiopia launches unified MESOB Platform to accelerate national digital transformation], [2026-06-19 What Google's latest startup cohort says about AI in Africa], [2026-06-11 DR Congo to Launch National Digital Identity System RDC-PASS on June 13], [2026-04-21 Meet the 15 Startups Joining the Google for Startups Accelerator Africa Class 10], [2026-05-22 Uganda launches prototype program for digital ID and public infrastructure], [2026-05-28 Why decentralized digital identity looks different in every country], [2026-03-25 On Documenting African AI Knowledge What Becomes Possible], [2025-12-15 African AI Startups Should Publish Openly], [2026-07-17-kenya-golden-visa-investors], [2026-07-17-kutanapay-ai-blockchain-cross-border-trade], [2026-07-17-gabon-garantie-publique-huawei-start-up], [2026-07-17-avec-qantev-le-marocain-tarik-dadi-traque-la-fraude-a-l-assurance-sante], [2026-07-17-quick-fire-helina-bischoff-africa-collective]]
 ---
 
 # Innovation ecosystem (`tech.innovate`)
@@ -16,6 +16,20 @@ Startups, entrepreneurs and the local "solutions on top" that turn infrastructur
 economic activity — the layer beyond hardware.
 
 ## Key material
+
+- **The exit that leaves nothing behind — Stakpak → Vercel (2026-07-20, [[EGY]]).** **Stakpak**, an
+  AI-infrastructure startup **founded in Egypt in 2023** by **George Fahmy**, was absorbed by US cloud
+  company **Vercel** as a talent acquisition. The instructive part is the sequence, not the outcome:
+  bootstrapped two years → first round **2024** → **relocated operations to San Francisco** → acquired.
+  By the time the transaction closed the Egyptian element was **already historical**, and **no
+  consideration, structure or team size was disclosed**. It is the same boundary problem as the
+  diaspora-founder profiles below, but one step further along — the founder's nationality is what
+  remains African about it, while the compute, capital, customers and now the ownership sit in the US.
+  Read charitably it evidences African-founded contribution to the global AI stack, which is how the
+  source reads it; read structurally it is capability formation whose returns accrue elsewhere.
+  Whether the product or entity survives is **not established as of 2026-07-20**. See [[tech.ai]],
+  [[tech.industry]], [[geopol.usa]], [[sovereignty]]. Source:
+  [[2026-07-20-vercel-acquires-talent-behind-egypt-stakpak]].
 
 - **Diaspora founders and the "African tech" boundary problem (2026-07-17, profiles).** Two
   wearetech.africa/TechCabal profiles this week illustrate how loosely the category travels.
@@ -155,14 +169,15 @@ economic activity — the layer beyond hardware.
 
 ## Places
 
-[[AGO]] · [[GAB]] · [[XAF]] · [[GHA]] · [[UGA]] · [[NGA]] · [[KEN]] · [[ZAF]] · [[NER]]
+[[AGO]] · [[GAB]] · [[XAF]] · [[GHA]] · [[UGA]] · [[NGA]] · [[KEN]] · [[ZAF]] · [[NER]] · [[EGY]] · [[SOM]]
 
 ## Related
 
-[[infra.store]] · [[include.access]] · [[finance.mou]] · [[gov.legislate]]
+[[infra.store]] · [[include.access]] · [[finance.mou]] · [[gov.legislate]] · [[capacity.research]]
 
 ## Sources
 
+- [[2026-07-20-vercel-acquires-talent-behind-egypt-stakpak]]
 - [[2026-07-17-gabon-garantie-publique-huawei-start-up]]
 - [[2026-07-06 Gabon Inaugurates First Tier III Datacenter to Boost Digital Sovereignty]]
 - [[2026-07-07 Ghana and UNDP Strengthen Partnership on Digital Transformation Projects]]

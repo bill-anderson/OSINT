@@ -2,11 +2,11 @@
 type: entity
 entity_type: company
 title: Helios Towers
-places: [TZA, XAF]
-topics: [infra.connect, digital.rural]
+places: [TZA, COD, SEN, XAF]
+topics: [infra.connect, digital.rural, include.access, finance.new]
 status: active
-last_reviewed: 2026-07-11
-sources: [[2026-04-13 Helios Towers completes 133 UCSAF sites to expand rural connectivity in Tanzania]]
+last_reviewed: 2026-07-20
+sources: [2026-07-20-helios-towers-150-million-senegal-digital-infrastructure], [[2026-04-13 Helios Towers completes 133 UCSAF sites to expand rural connectivity in Tanzania]]
 ---
 
 # Helios Towers
@@ -17,6 +17,14 @@ Tanzania: **David Dzigba**.
 
 ## Activity in this wiki
 
+- **$150m Senegal investment signalled (published 2026-07-20; meeting date not stated).** CEO **Tom
+  Greenwood**, meeting President **Bassirou Diomaye Diakhar Faye**, outlined a plan to invest **USD 150
+  million** in **[[SEN]]** to expand telecommunications infrastructure and improve coverage, per the
+  **Senegalese Presidency**. **Stated as an intention, not a commitment**: the account gives no signed
+  agreement, schedule, site count, disbursement period or operator counterparty, and rests solely on the
+  Presidency's readout — **no Helios statement or filing is on file (as of 2026-07-20)**. Would be the
+  company's first Senegal position the wiki holds. See [[senegal--infra-connect]], [[finance.new]],
+  [[include.access]]. Source: [[2026-07-20-helios-towers-150-million-senegal-digital-infrastructure]].
 - **133 UCSAF rural sites completed (Tanzania, commemorated Dodoma, April 2026).** Helios
   Towers completed **133 telecommunications sites** under Tanzania's **Universal
   Communications Service Access Fund (UCSAF)** rural-connectivity programme — a government-led
@@ -33,4 +41,5 @@ Tanzania: **David Dzigba**.
 
 ## Sources
 
+- [[2026-07-20-helios-towers-150-million-senegal-digital-infrastructure]]
 - [[2026-04-13 Helios Towers completes 133 UCSAF sites to expand rural connectivity in Tanzania]]

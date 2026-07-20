@@ -27,6 +27,18 @@ The third is **evidentiary**: the headline numbers disagree. Penetration spans *
 
 ## Recent developments
 
+- **2026-07-20** — **146 district officers trained in Southern Province.**
+  **[[smart-zambia-institute|SMART Zambia]]**'s **e-Government Division**, via its Southern Provincial
+  ICT Unit, trained **146 public officers** in the District Commissioner administrations of **Gwembe
+  (40)**, **Mazabuka (46)** and **Siavonga (60)** — **digital literacy, cybersecurity, data protection,
+  Microsoft Outlook**, e-government platform use, data management and professional email communication
+  (Principal ICT Officer **Joyce Mushiko**). A tranche of the decentralised government digital-skills
+  programme launched **December 2025**; *no cumulative national total for officers trained is published
+  in held material (as of 2026-07-20)*, so this is a data point, not coverage. Worth noting that **data
+  protection and cybersecurity sit in the curriculum**: the district tier operates GWAN, GovLink and the
+  e-Council platforms and is where their weakest security link sits. See [[capacity.training]],
+  [[digital.localgov]], [[zambia--dpi-govtech]], [[infra.cybersec]]. Source:
+  [[2026-07-20-smart-zambia-trains-146-district-officers-southern-province]].
 - **2026-07-17** — **Airtel Money Zambia changes MD.** **Kelvin Ndhlovu** became managing director of
   **Airtel Money Zambia**, succeeding **Andrew Chuma**, who moved to a group role within
   **[[airtel-africa|Airtel Africa]]**. Ndhlovu was previously group head of decision support for Airtel

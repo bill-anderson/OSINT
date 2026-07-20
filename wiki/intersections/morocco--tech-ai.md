@@ -5,11 +5,11 @@ place: MAR
 topic: tech.ai
 places: [MAR]
 topics: [tech.ai, gov.legislate, gov.policy, gov.protect, finance.mou, capacity.training, tech.innovate, infra.cybersec, dpi.mis]
-entities: [[digital-x0-law], [cndp-morocco], [jazari-institutes], [digital-morocco-2030], [orange]]
+entities: [[digital-x0-law], [cndp-morocco], [jazari-institutes], [digital-morocco-2030], [orange], [capgemini], [ministry-of-digital-transition-morocco]]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-18
-sources: [[2025-01-09-hespress-morocco-ai-legislative-initiative], [2025-11-04-wearetech-morocco-landmark-law-ai-data-identity], [2025-09-11-en-hespress-morocco-responsible-ai-platform-deal], [2026-03-11-techafricanews-ai-made-in-morocco-industry-x0], [2025-02-20-en-hespress-morocco-ai-healthcare-cybersecurity], [2026-06-05-techafricanews-morocco-orange-ai-partnership], [2026-04-09-techafricanews-orange-maroc-technopark-ai]]
+last_reviewed: 2026-07-20
+sources: [[2025-01-09-hespress-morocco-ai-legislative-initiative], [2025-11-04-wearetech-morocco-landmark-law-ai-data-identity], [2025-09-11-en-hespress-morocco-responsible-ai-platform-deal], [2026-03-11-techafricanews-ai-made-in-morocco-industry-x0], [2025-02-20-en-hespress-morocco-ai-healthcare-cybersecurity], [2026-06-05-techafricanews-morocco-orange-ai-partnership], [2026-04-09-techafricanews-orange-maroc-technopark-ai], [2026-07-20-maroc-capgemini-ia-memorandum]]
 ---
 
 # Morocco × AI
@@ -37,6 +37,17 @@ skills partnerships — while the enabling law and sectoral safeguards are still
   Morocco]]** JAZARI-ROOT MoU (GenZ AI Summit) push a homegrown ecosystem — AI as sovereignty,
   competitiveness and human development. Sources: [[2026-03-11-techafricanews-ai-made-in-morocco-industry-x0]],
   [[2026-06-05-techafricanews-morocco-orange-ai-partnership]].
+- **Skills as the binding constraint — MTNRA–Capgemini MoU (signed 2026-07-17).** [[capacity.training]]
+  [[finance.mou]] The **[[ministry-of-digital-transition-morocco|MTNRA]]** signed an MoU with
+  **[[capgemini]] Maroc** in Rabat (minister **Amal El Fallah Seghrouchni** / **Karine Brunet**) for AI
+  skills-building and acculturation across **administrations, universities and research centres**,
+  support to **[[jazari-institutes|Jazari]]**-backed start-ups, and public-service AI use cases. **No
+  value, term or target disclosed.** It is the clearest statement yet that the government reads
+  **skills availability**, not technology or law, as what limits [[digital-morocco-2030]] — whose
+  stated targets are **240,000 digital jobs by 2030** and **3,000 start-ups** — and that the chosen
+  instrument is a foreign integrator training the buyer. Reported government estimate: AI worth **>$10bn
+  additional GDP** *(as reported 2026-07-20; a **$11bn** variant appears in the same publisher's
+  related-headline; unresolved, no primary held)*. Source: [[2026-07-20-maroc-capgemini-ia-memorandum]].
 - **Startup enablement — AI Garden (2026-04).** [[tech.innovate]] **Orange Maroc + Technopark Maroc (MITC)**
   launched the **"AI Garden"** programme (GITEX 2026) — cloud, connectivity, cybersecurity and use-cases
   for AI startups. Source: [[2026-04-09-techafricanews-orange-maroc-technopark-ai]].
@@ -48,4 +59,4 @@ skills partnerships — while the enabling law and sectoral safeguards are still
 
 ## Links
 
-Place: [[MAR]] · Concepts: [[tech.ai]] · [[gov.legislate]] · Entities: [[digital-x0-law]] · [[cndp-morocco]] · [[jazari-institutes]] · [[orange]] · Region: [[XNA]] · See also [[morocco--dpi-id]]
+Place: [[MAR]] · Concepts: [[tech.ai]] · [[gov.legislate]] · [[capacity.training]] · Entities: [[digital-x0-law]] · [[cndp-morocco]] · [[jazari-institutes]] · [[orange]] · [[capgemini]] · [[ministry-of-digital-transition-morocco]] · Region: [[XNA]] · See also [[morocco--dpi-id]]

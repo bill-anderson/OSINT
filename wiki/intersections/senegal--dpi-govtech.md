@@ -5,11 +5,11 @@ place: SEN
 topic: dpi.govtech
 places: [SEN]
 topics: [dpi.govtech, dpi.exchange, gov.policy, gov.standards, dpi.registry, gov.regional]
-entities: [[senegal-numerique], [artp-senegal], [smart-africa], [new-deal-technologique]]
+entities: [[senegal-numerique], [artp-senegal], [smart-africa], [new-deal-technologique], [dgid-senegal], [sentimbre]]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-19
-sources: [[2025-01-16-senegal-mauritania-digital-mou], [2026-04-16-techafricanews-undp-senegal-mou], [2025-04-22-lesoleil-interoperability-platform], [2025-09-19-techafricanews-interoperability-update], [2025-10-03-techafricanews-national-digital-council], [2026-01-28-techafricanews-artp-digital-tools], [2025-02-04-ninea-business-registration-platform], [2026-05-26-techafricanews-smart-africa-data-governance]]
+last_reviewed: 2026-07-20
+sources: [[2025-01-16-senegal-mauritania-digital-mou], [2026-04-16-techafricanews-undp-senegal-mou], [2025-04-22-lesoleil-interoperability-platform], [2025-09-19-techafricanews-interoperability-update], [2025-10-03-techafricanews-national-digital-council], [2026-01-28-techafricanews-artp-digital-tools], [2025-02-04-ninea-business-registration-platform], [2026-05-26-techafricanews-smart-africa-data-governance], [2026-07-20-senegal-timbre-fiscal-numerique-sentimbre]]
 ---
 
 # Senegal × GovTech & Interoperability
@@ -41,6 +41,19 @@ The public-service digitisation pillar of the New Deal ([[senegal--gov-policy]])
   regulatory platforms** — **SUNUCARTO** (national digital-infrastructure map), RESEAU (QoE), CATALOGUE,
   DMARKET (tariffs), NUMFLEX (number portability), CLAIMS, FSVA, VCN — a "digital sovereignty"-framed
   modernisation. See [[gov.standards]]. Source: [[2026-01-28-techafricanews-artp-digital-tools]].
+- **The fiscal stamp goes digital-only (20 Jul 2026).** The **DGID** (Direction générale des impôts et
+  des domaines) withdrew the **paper timbre fiscal** on **20 Jul 2026**: only stamps issued by the
+  **SenTimbre** mobile platform — each bearing a **secured QR code** — are recognised by public administrations. Purchase,
+  payment and receipt are fully remote (24/7), with a second access channel through the **Max IT** app
+  (*FAY SAMA IMPÔT*). Unused paper stamps bought before 20 Jul could be exchanged at a Centre des
+  services fiscaux **until 15 Aug 2026**. It follows DGID's **2026 action plan (May 2026)**, whose
+  digital axis also carries **SENTAX** (replacing **SIGTAS**), **PROMOGEF** for land management, mobile
+  payment and the e-timbre. This is the sharper kind of govtech move: not a new optional channel but the
+  **removal of the analogue one**, with revenue traceability and anti-forgery given as the rationale.
+  *No offline or assisted route is stated in the announcement, and no adoption figure has been published
+  (as of 2026-07-20)* — the exclusion exposure sits with users without a smartphone or online payment
+  means. See [[dpi.pay]], [[gov.policy]], [[senegal--dpi-pay]]. Source:
+  [[2026-07-20-senegal-timbre-fiscal-numerique-sentimbre]].
 - **NINEA business registry (Feb 2025).** A digital platform for the **NINEA** (National Identification
   Number for Enterprises and Associations) to streamline business/association registration. See
   [[dpi.registry]]. Source: [[2025-02-04-ninea-business-registration-platform]].

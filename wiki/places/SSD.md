@@ -4,7 +4,7 @@ title: South Sudan
 code: SSD
 parent: XEA
 place_kind: country
-topics: [dpi.pay, dpi.exchange, dpi.govtech, dpi.id, dpi.registry, infra.connect, infra.energy, infra.store, geopol.china, gov.protect, gov.legislate, gov.policy, gov.regional, gov.standards, finance.new, include.divides, include.access, tech.industry]
+topics: [dpi.pay, dpi.exchange, dpi.govtech, dpi.id, dpi.registry, infra.connect, infra.energy, infra.store, infra.cybersec, geopol.china, gov.protect, gov.legislate, gov.policy, gov.regional, gov.standards, finance.new, include.divides, include.access, tech.industry]
 status: active
 last_reviewed: 2026-07-20
 ---
@@ -25,6 +25,38 @@ but ahead of the governance frameworks meant to hold it.
 
 ## Recent developments
 
+- **2026-07-20** — **Spectrum management and a 5G strategy begin — the governance layer arriving with the
+  technology, for once.** The **[[national-communication-authority-south-sudan|NCA]]** concluded a **two-day
+  inception workshop** starting development of a **National Spectrum Management and 5G Strategy**, with the
+  **Ministry of ICT and Postal Services**, the World Bank-backed **Eastern Africa Regional Digital
+  Integration Project (EA-RDIP)**, and an expert team led by telecommunications consultant **Professor
+  William Webb**. Participants set methodology, work planning, stakeholder engagement and **governance
+  structures**, and reviewed international 5G practice; the NCA also flagged **national cybersecurity**,
+  service quality and investment climate as objectives. **Read it against the country's actual position,
+  not the announcement's**: South Sudan has roughly **one 200 km Uganda–Juba fibre line**, the region's
+  **most expensive data**, and **~15.7% internet penetration** ([[south-sudan--infra-connect]]) — so a 5G
+  strategy is a **spectrum-governance and planning exercise well ahead of any deployment**, and its real
+  near-term value is the spectrum-management framework, which the country has lacked. **No strategy
+  document, timetable or spectrum-allocation decision is published in held material as of 2026-07-20** —
+  only the workshop. Notable that the process is **donor-scaffolded** (EA-RDIP) and consultant-led, the
+  pattern already visible across South Sudan's digital build. See [[south-sudan--infra-connect]],
+  [[gov.policy]], [[gov.regional]], [[infra.cybersec]]. Source: [[2026-07-20-south-sudan-national-spectrum-management-5g-strategy]].
+- **2026-07-20** — **E-visa fees imposed on four EAC neighbours, against the bloc's free-movement
+  commitments.** Revised charges **published on the national e-visa portal 2026-07-20** — implementing an
+  immigration policy introduced the previous week (*exact policy date not established in held material*) —
+  levy **USD 50** on citizens of **[[KEN]]**, **[[UGA]]**, **[[RWA]]** and **[[COD]]**, and **USD 100** on
+  Somali, Burundian and Nigerian citizens. **Tanzanians and Egyptians remain visa-free**; South Africans
+  visa-free under 30 days. Six of South Sudan's seven **[[eac|EAC]]** partner states therefore pay, and one
+  does not. South Sudan **joined the EAC in 2016**; the bloc's **Common Market Protocol** treats free
+  movement of persons, labour and services as a central pillar — so the schedule is a **reciprocity and
+  compliance question**, not merely a fee. Exposure falls hardest on Kenya and Uganda, South Sudan's main
+  route to regional markets (Mombasa-corridor logistics staff, and the accountants, engineers, teachers and
+  health workers who staff Juba); Kenyan lenders **[[equity-group-holdings|Equity Group]]**, KCB Group and
+  Stanbic Bank run subsidiaries there and rotate technology, risk, audit and compliance staff through
+  Nairobi–Juba. Applications are online-only, paid on the portal, **72-hour** stated processing. Lens
+  [[sovereignty]]: a state monetising the **digital** border channel it built for revenue purposes, and
+  in doing so pricing the regional labour mobility it signed up to. See [[south-sudan--dpi-govtech]],
+  [[gov.regional]]. Source: [[2026-07-20-south-sudan-e-visa-fee-eac-labour-mobility]].
 - **2026-06-22** — **The private revenue platform, identified: Crawford Capital Ltd** *(resolved
   2026-07-20; supersedes GAP-SSD-001)*. The "privately-owned national tax platform" the wiki has carried
   since Jan 2026 on a single secondary account is **Crawford Capital Ltd**, a **UK-registered** company

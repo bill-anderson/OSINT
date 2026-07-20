@@ -6,7 +6,7 @@ parent: XNA
 place_kind: country
 topics: [dpi.id, dpi.registry, dpi.govtech, dpi.exchange, dpi.pay, dpi.mis, gov.policy, gov.legislate, gov.protect, gov.standards, gov.regional, infra.store, infra.connect, infra.cybersec, infra.energy, tech.ai, tech.industry, tech.innovate, geopol.india, geopol.usa, capacity.training, include.access, include.divides, data.statistics, data.open, finance.new, finance.mou]
 status: active
-last_reviewed: 2026-07-19
+last_reviewed: 2026-07-20
 ---
 
 # Morocco (MAR)
@@ -39,6 +39,59 @@ divide (~1,800 villages offline).
 > - **Digital economy & diplomacy** — [[gitex-africa|GITEX Africa]] as investment gateway; offshoring
 >   scale-up; open-government forum + Ghana/Gabon/DCO bilaterals. Hub: [[morocco--gov-regional]].
 
+- **2026-07-20** — **A Moroccan compliance-infrastructure vendor tries to sell trust as a product to
+  the rest of the continent.** **[[vove-id|VOVE ID]]** — Casablanca-registered, **founded 2024** by
+  **Khalid Aoussar, Tarik Ait M'barek, Youssef Saber and Mohammed Kamal**, selling identity and
+  business verification, beneficial-ownership checks, AML screening, risk workflows, ongoing
+  monitoring and audit-ready recordkeeping via APIs and SDKs — opened applications (2026-07-20,
+  **closing 2026-08-20**) for the **VOVE Compliance Infrastructure Program**, its **first public
+  cohort**. **Six to eight** African and emerging-market startups in regulated or trust-sensitive
+  sectors will be selected for a public webinar, a **24-question readiness assessment** scored on a
+  **0–4 evidence-maturity scale** across six pillars (business and risk clarity; onboarding and
+  decisioning; KYC/KYB and ownership evidence; AML screening and monitoring; audit trail, reporting
+  and governance; diligence and expansion readiness), then **45–60-minute private reviews
+  (2026-08-31 to 2026-09-25)** and a 30/60/90-day remediation roadmap. Named target sectors:
+  fintech, digital lending, payments, wallets, **stablecoin and crypto ramps**, marketplaces,
+  trading platforms, cross-border commerce, mobility, iGaming and regulated SaaS. *The interesting
+  claim is the one Aoussar makes about **[[dpi.id|DPI]]** rather than the programme itself:* he
+  explicitly declines to call it a DPI project, positioning it instead at what he calls the
+  **organisational layer** above the rails — "digital identity, payments, data exchange and other
+  public digital rails can only create broad economic value when the organizations using them have
+  appropriate controls around onboarding, consent, risk, fraud, accountability, and auditability",
+  since "a technically successful identity check is not enough if the business cannot explain which
+  rule was applied, who made the decision, how exceptions were handled, and what evidence was
+  retained." That is a **vendor's framing of a real governance gap** — and it is being monetised as
+  a private readiness market rather than supplied as public assurance, which is the part worth
+  watching. Selection criteria, cohort composition and any published findings are **unestablished
+  as of 2026-07-20**; the company says the recurring gaps it observes will feed its own product
+  development. VOVE ID has **no other coverage on file**. See [[dpi.id]], [[dpi.pay]],
+  [[gov.standards]], [[tech.industry]], [[XAF]]. Sources:
+  [[2026-07-20-vove-id-compliance-program-african-startups]] (Biometric Update — the Aoussar
+  interview and programme mechanics);
+  [[2026-07-20-vove-id-compliance-readiness-programme-morocco]] (TechCabal — company provenance and
+  the regulatory backdrop).
+- **2026-07-17** *(MoU signed; reported 2026-07-20)* — **The skills gap gets a systems-integrator
+  partner: MTNRA–Capgemini AI memorandum.** The **[[ministry-of-digital-transition-morocco|Ministry of
+  Digital Transition and Administrative Reform]]** signed a **memorandum of understanding** with
+  **[[capgemini]] Maroc** in Rabat on **Thursday 17 July 2026** — signed by delegate minister **Amal El
+  Fallah Seghrouchni** and **Karine Brunet**, Capgemini's global head of Operations and Delivery. Scope:
+  AI **skills-building and acculturation** across **administrations, universities and research centres**;
+  support to start-ups and teams backed by the **[[jazari-institutes|Jazari institutes]]**; and
+  development of concrete use cases to push AI into public services. **No value, term, headcount target
+  or delivery milestone is disclosed** — this is an MoU, recorded as a dated fact, not a deal page.
+  Context on the wiki's own terms: it sits inside **[[digital-morocco-2030]]** (launched **Sept 2024**)
+  and the "AI Made in Morocco" roadmap, whose stated targets are **240,000 digital jobs by 2030** and an
+  ecosystem of **3,000 start-ups**, and which followed **nine protocols of accord** concluded at
+  Morocco's first national AI conference (**2025**). The government estimate reported here is that AI
+  could generate **more than $10bn in additional GDP** *(as reported 2026-07-20; the same publisher's
+  related-article headline carries **$11bn** — the variance is unresolved and no primary is on file)*.
+  Capgemini is described as employing **more than 423,000 people across ~50 countries** *(company figure
+  as reported 2026-07-20)* with several Moroccan service centres serving European and African markets.
+  **The interesting part is what it concedes:** Rabat's own framing puts **skills availability**, not
+  technology, as the binding constraint on its digital strategy — and the remedy chosen is a foreign
+  systems integrator training the administration that will then buy from that market. See [[tech.ai]],
+  [[capacity.training]], [[finance.mou]], [[gov.policy]], [[morocco--tech-ai]]. Source:
+  [[2026-07-20-maroc-capgemini-ia-memorandum]].
 - **2026-07-17** — **6,000 internet boxes refurbished in 2025 under Orange's circular-economy
   programme.** Per Orange's **Rapport RSE 2025 (published 2026-07-10)**, **[[orange]]** refurbished
   **6,000 internet boxes in Morocco in 2025**, generating ~**€1.5m** in savings on the operator's own
@@ -134,6 +187,8 @@ divide (~1,800 villages offline).
 - MAR sweep batch (2026-07-18): [[cndp-morocco]] · [[dgssi-morocco]] · [[anrt-morocco]] · [[jazari-institutes]] ·
   [[nexus-ai-factory]] · [[nexus-core-systems]] · [[gitex-africa]] · [[morocco-fintech-center]] · [[inwi]] ·
   [[maroc-telecom]] · [[orange]] · [[ericsson]] · [[nokia]] · [[vodafone]] · [[visa]]
+- 2026-07-20 ingest: [[capgemini]] · [[ministry-of-digital-transition-morocco]] (MTNRA — previously
+  listed below as mentioned-not-hubbed; now slug-tagged)
 - MAR sweep intersections (2026-07-18): [[morocco--dpi-id]] · [[morocco--tech-ai]] · [[morocco--infra-store]] ·
   [[morocco--infra-connect]] · [[morocco--infra-cybersec]] · [[morocco--gov-regional]]
 - Mentioned, not hubbed: Ministry of Digital Transition and Administrative Reform (Amal El Fallah

@@ -6,8 +6,8 @@ places: [ZAF]
 topics: [gov.protect, gov.legislate, dpi.exchange]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-11
-sources: [[2026-07-09 Anthropic's Claude to bolster data sovereignty in SA], [2025-01-01 South African Digital Sovereignty at the Crossroad of Securitization and Development (Chapter 4) - Digital Sovereignty in the BRICS Countries], [2026-05-29 Opinion South Africa's Digital Identity Regulations A Governance Crossroads], [2026-04-21 South Africa's digital ID gets a targeted launch date], [2026-03-17 South Africa's National Payment System PSP licences and the 2026 payments reform], [2026-01-30 2026 fintech year ahead]]
+last_reviewed: 2026-07-20
+sources: [[2026-07-09 Anthropic's Claude to bolster data sovereignty in SA], [2025-01-01 South African Digital Sovereignty at the Crossroad of Securitization and Development (Chapter 4) - Digital Sovereignty in the BRICS Countries], [2026-05-29 Opinion South Africa's Digital Identity Regulations A Governance Crossroads], [2026-04-21 South Africa's digital ID gets a targeted launch date], [2026-03-17 South Africa's National Payment System PSP licences and the 2026 payments reform], [2026-01-30 2026 fintech year ahead], [2026-07-20-south-africa-sim-registration-rica-digital-id]]
 ---
 
 # POPIA — Protection of Personal Information Act (South Africa)

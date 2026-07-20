@@ -31,6 +31,47 @@ paid. **The government's arithmetic corroborates the plaintiffs.** Full case:
 
 ### Identity and civil registration
 
+- **2026-07-20** — **A Cape Town verification vendor declares itself infrastructure.**
+  **[[iidentifii]]** (founded **2018**; **$15m raised in 2022**, ~**R272m at the time** on the
+  company's own conversion, billed as Africa's largest identity-verification Series A) named
+  co-founder and former CTO **Marco Wagener** CEO, with a mandate to shift the business "**from a
+  remote biometric identity verification platform to continuous digital identity infrastructure**"
+  while expanding across Africa and into the UK. **The appointment is not the development — the
+  repositioning is.** It runs in parallel with the state's own move to continuous, DHA-backed
+  verification (see the RICA entry below and [[south-africa--dpi-id]]), leaving open who owns the
+  always-on identity check in South Africa: the population register, the banking sector's shared
+  rails, or commercial platforms. The company attributes the shift to AI-enabled fraud, citing a
+  **740% year-on-year increase in iOS injection-attack tradecraft** — **a vendor claim with no
+  disclosed methodology or baseline**. A longer same-day **ITWeb South Africa** twin with client-base
+  and market-sizing detail is **not held** and has been filed as an acquisition; its third-party
+  index and market-research figures are deliberately **not compiled here**. See [[dpi.id]],
+  [[tech.industry]], [[infra.cybersec]]. Source: [[2026-07-20-iidentifii-marco-wagener-ceo]].
+- **2026-07-20** *(industry statements 2026-07-17; ministerial meeting 2026-03)* — **The SIM card
+  becomes an identity credential: the first RICA overhaul in ~two decades.** Mobile operators and the
+  **[[department-of-justice-south-africa|Department of Justice and Constitutional Development]]** have
+  developed a framework agreement replacing document-presentation registration under
+  **[[rica-south-africa|RICA]]** with **real-time verification against the
+  [[home-affairs-south-africa|DHA]] database** — the same check banks already use — via existing
+  DHA–operator arrangements. **[[act-south-africa|ACT]]** CEO **Nomvuyiso Batyi** (speaking
+  2026-07-17) framed the shift as moving from *"does this person hold an ID document"* to
+  *"is this person the legitimate owner of that identity"*, dating the driver to **sophisticated
+  digital fraud from around 2019 onwards**. Parallel legislative proposals to the DoJ target
+  **s.40 of RICA**. The reforms follow an **urgent March 2026 meeting** convened by Justice Minister
+  **Mmamoloko Kubayi**, who put enforcement of RICA's existing penalties — **up to R5 million or 10
+  years' imprisonment** (the source's own undated conversion: ~$303,000) — as commencing **from July
+  2026**, coordinated with the police and the NPA. Cited pressure: pre-registered SIM sales and
+  bulk registration on false identities (arrests in **Free State, 2024**; **48 arrests in
+  KwaZulu-Natal, 2025**), links to banking fraud, cash-in-transit robberies, kidnappings, contract
+  killings and cybercrime, and urgency from **[[fatf]]** grey-listing. **[[popia]]** continues to
+  govern the processing. **The mechanics are undisclosed**: ACT has not said how verification will
+  work, deferring to a future consumer-awareness campaign — so the privacy design of a
+  DHA-backed, always-on identity check on every SIM is, **as of 2026-07-20, unestablished**. Home
+  Affairs Minister **[[leon-schreiber]]** positions DHA verification as feeding South Africa's
+  developing digital-identity framework — i.e. this is the digital-ID programme arriving through
+  telecoms rather than through the still-unlaunched credential above. See [[south-africa--dpi-id]],
+  [[gov.legislate]], [[gov.protect]], [[infra.cybersec]]. Source:
+  [[2026-07-20-south-africa-sim-registration-rica-digital-id]].
+
 - **The digital-ID launch ladder — carried dated, not adjudicated; the spread is the finding.**
   **2025** (DHA, Feb 2025 — **missed**) · **2026** (**[[cyril-ramaphosa]]**, SONA **2026-02-12**:
   "This year, the DHA will launch a Digital ID") · **2027/28** (the DHA's tabled APP) · **2028/9**
@@ -152,8 +193,116 @@ paid. **The government's arithmetic corroborates the plaintiffs.** Full case:
   Registries Act and the 2019 Act by **2030**. Source:
   [[2025-04-01 Land Reform and Rural Development implements Electronic Deeds Registration System]].
 
+### Government systems, procurement and smart cities
+
+- **2026-07-20** *(reported; the Paris policy discussion and the policy's own adoption date are **not
+  established** in the held source)* — **South Africa has adopted a National Open Science Policy.**
+  Per the **[[dsti-south-africa|Department of Science, Technology and Innovation]]**, reported by ITWeb,
+  South Africa "has adopted a new **National Open Science Policy**" for its science and innovation
+  landscape, aligned to the **2021 [[unesco|UNESCO]] Recommendation on Open Science** and supporting
+  wider access to publicly-funded research while balancing openness against ethics, privacy, security,
+  **Indigenous Knowledge Systems** and intellectual property. Deputy minister **Nomalungelo Gina** set
+  it out at a policy discussion at UNESCO headquarters in Paris, in the 2026 International Decade of
+  Sciences for Sustainable Development conference. The continental hook is the
+  **[[african-open-science-platform]]**, hosted by the
+  **[[national-research-foundation-south-africa|National Research Foundation]]**, credited with
+  regional collaboration, policy development, capacity building and infrastructure. *Two cautions.*
+  **No adoption date, gazette reference, commencement or text is given** — the policy is asserted, not
+  cited, and the wiki holds no copy (filed to acquisitions). And the accompanying claim that open
+  science "is gaining momentum globally" rests on the **first monitoring cycle of the UNESCO
+  Recommendation**, a reference study whose findings are cited here, **not** promoted into South
+  African page state. See [[data.open]], [[capacity.research]], [[gov.policy]], [[gov.regional]],
+  [[XAF]]. Source: [[2026-07-20-sa-open-science-unesco-gina]].
+- **2026-07-20** *(SASSA statement on or before 2026-07-16 — its own date not established in held
+  material)* — **Four SASSA officials dismissed over R33m in grant fraud: the insider channel.**
+  **[[sassa]]** dismissed four officials of its **Nebo local office** (Sekhukhune district,
+  **Limpopo**) after an internal investigation found they had **manipulated the social grants system
+  in collaboration with external syndicates**, to a value of **R33 million**. The officials appealed;
+  the agency's appeals committee upheld the dismissals. Remedies stated: enhanced monitoring, stricter
+  internal controls, staff ethics training. **The significance is the attack surface, not the amount.**
+  Every SASSA control the wiki tracks — biometric enrolment, bank verification, Home Affairs
+  cross-checks — authenticates the **claimant**; this compromise ran through **operator
+  authorisation**, which none of them touches. It is the concrete instance behind
+  **[[national-treasury-south-africa|Treasury]]**'s **2024** undertaking to impose **database
+  cross-check conditions** on agencies like SASSA. See [[dpi.pay]], [[dpi.mis]], [[infra.cybersec]],
+  [[south-africa--dpi-id]]. Source: [[2026-07-20-sassa-dismissals-r33m-grant-fraud]].
+- **2026-07-20** — **The Electoral Commission tells the market its public election app is insecure.**
+  In three tenders on Treasury's **eTenders Portal**, the **IEC** sought (i) **VMware vSphere
+  Foundation** licence renewal for its core virtualisation platform (tender 0010570637, closing
+  2026-08-14); (ii) an enterprise **privileged access management (PAM)** solution across production
+  **and disaster recovery**, for "centralised privileged access governance, secure credential
+  management, privileged session monitoring, audit logging" (0010570614, closing 2026-08-07); and
+  (iii) a **readvertised redevelopment of its public mobile app** (0010562824, closing 2026-08-11).
+  The third carries the payload: the IEC states the app — **built in-house for the 2019 National and
+  Provincial Elections, updated 2021 and 2024** — runs on a framework "no longer supported", "poses
+  security risks for the organisation", and **"has also been found to have vulnerabilities and
+  inadequate provisions for data safety, user permissions and security."** *An election authority
+  putting that in a public procurement document is unusually candid, and it dates the exposure to a
+  citizen-facing app that ran through two national and one local election.* Alongside: **[[sita]]**
+  (Osis/NMS server maintenance; Free State Premier emulation software), the **City of Cape Town**
+  (unified emergency/non-emergency contact-centre platform), **[[dbsa]]** (consulting to convert the
+  DCDT/**SAPO** business-rescue RFI into a delivery route) and the **[[border-management-authority]]**
+  (three-year software-development resourcing, its "internal capacity insufficient"). See
+  [[south-africa--dpi-govtech]], [[gov.standards]], [[digital.localgov]]. Source:
+  [[2026-07-20-top-ict-tenders-iec-tech-upgrades]].
+- **2026-07-17** *(reported 2026-07-20)* — **Johannesburg joins Cisco's 40 Communities: a three-year
+  MoU signed by a civic movement, not the city.** Civic movement **Jozi My Jozi** and **Cisco** signed
+  the **"Masibambisane"** MoU on **Friday 2026-07-17**, securing Johannesburg a place in Cisco's global
+  **40 Communities** initiative — a **10-year** programme, and Johannesburg is the **only African city
+  selected** and the **third overall** after Western North Carolina (US) and Mumbai (India). The MoU
+  **runs three years** initially, during which implementation plans and measurable targets are to be
+  developed across four pillars: **connected safety**, **digital education and skilling**,
+  **technology-enabled community giving**, and **smart mobility**. Cisco's stated contribution
+  includes **Meraki cameras and sensors**, **Splunk analytics**, smart networking and **smart
+  streetlights collecting traffic and environmental data**; the giving pillar runs on blockchain
+  platform **Zlto**, registering homeless people for digital donations with donor-side spend tracking.
+  **Cisco has not disclosed its investment.** Two things to hold onto: **Jozi My Jozi — not the
+  City of Johannesburg — is the anchor institution**, convening 50+
+  organisations with the City as one participant among them; and the City's own **2025/26 draft IDP**
+  attributes its stalled smart-city programme to "**fragmented initiatives and insufficient governance
+  structures**", an outdated ICT environment and **no mayoral agreement on implementation plans**, with
+  the smart-city strategy still "**under review for mayoral approval**". *A surveillance-and-sensor
+  build routed around a municipality that concedes it lacks the governance structures to run one — the
+  data-governance question here is who holds and answers for the collected data.* See
+  [[digital.localgov]], [[tech.ai]], [[finance.mou]], [[dpi.govtech]]. Source:
+  [[2026-07-20-joburg-cisco-jozi-my-jozi-smart-city-mou]].
+
 ### Data centres, cloud and energy
 
+- **2026-07-20** — **Johannesburg becomes Africa's first Azure ExpressRoute Metro location — and the
+  private on-ramp to the cloud consolidates in one group's hands.** **[[africa-data-centres]]**' **JHB1**
+  facility ([[cassava-technologies]]) was designated a **Microsoft Azure ExpressRoute Metro peering
+  location**, making it the **second** such peering point inside the Johannesburg metro and, per the
+  announcement, the **first ExpressRoute Metro location in Africa**. ExpressRoute Metro routes a single
+  private connection through two peering locations in the same metro, so a customer's private path to
+  **[[microsoft|Azure]]** survives the loss of either — redundancy at the interconnect layer rather than
+  the facility layer. **[[liquid-c2]]**, Cassava's cloud and cyber-security arm, will sell the capability
+  as **Secure CloudConnect**, a managed private-connectivity-plus-security service, **claiming to be the
+  only provider with an on-net presence in both Johannesburg peering locations** (*company claim, as of
+  2026-07-20; not independently established in held material*). Cassava frames the demand driver as
+  **regulators** pressing on operational resilience, business continuity and data protection — i.e. the
+  compliance case, not the price case, is doing the selling. The **governance point** is structural: the
+  resilient private route to a US hyperscaler runs through a single African group that owns both the
+  colocation estate and the managed service on top of it — resilience against outage, concentration
+  against dependency. Ziaad Suleman, **senior vice-president, Cassava Technologies South Africa and
+  Botswana**, called it "a defining moment"; **[[microsoft]]** South Africa CEO Vukani Mngxati tied it to
+  national AI ambition. See [[south-africa--infra-store]], [[infra.connect]], [[infra.cybersec]],
+  [[geopol.usa]], [[sovereignty]]. Source:
+  [[2026-07-20-cassava-africa-data-centres-azure-expressroute-metro]].
+- **2026-07-20** — **The power-and-cooling supply chain localises: R50m customer-experience centre in
+  Midrand.** **Master Power Technologies** (MPT, founded 1999 by Menno Parsons) opened a **R50 million**
+  Customer Experience Centre alongside a new **6,000 m²** African headquarters in **Midrand**, between
+  Johannesburg and Pretoria and close to the main data-centre hubs, housing **~200 employees** (all
+  figures as of 2026-07-20). The centre carries a **2 MVA UPS test platform** and a **400 kW cooling
+  systems test centre**, testing to European certification standards; MPT says it became the **first
+  African business certified as an Endorser of the European Code of Conduct for Energy Efficiency in Data
+  Centres (2025)**, and that its **AIVA** monitoring platform records metrics across **more than 200
+  African data centres** (*vendor figures, as of 2026-07-20*). Relevance is not the ribbon-cutting but the
+  **layer**: the wiki's data-centre coverage tracks foreign-owned capacity and a grid that cannot carry
+  it — here the **UPS, cooling and modular-build layer is designed, assembled and certified on the
+  continent**, which is where import dependency in the build-out actually bites. See
+  [[south-africa--infra-store]], [[infra.energy]], [[infra.capacity]], [[tech.industry]]. Source:
+  [[2026-07-20-master-power-technologies-r50m-customer-experience-centre]].
 - **2026-02-09** — **The aggregate thesis: SA capacity from ~400 MW to at least 1,200 MW** — an
   increment **roughly equal to just over one stage of Eskom load shedding (1,000 MW)**. **Chris
   Yelland**, reading **[[eskom]]**'s latest risk analysis: **constrained supply by 2029** absent

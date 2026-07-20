@@ -5,11 +5,11 @@ place: NGA
 topic: dpi.pay
 places: [NGA, XWA]
 topics: [dpi.pay, gov.policy, gov.regional, gov.standards, gov.legislate, dpi.govtech, tech.ai, tech.industry, include.access, finance.new, capacity.literacy]
-entities: [[cbn], [fx-bdc-purchase-tracker], [cbn-policy-insight-series-2025], [ecowas], [afcfta], [papss], [afreximbank], [beac], [mathesis-analytics], [first-ally-capital], [mathesis-analytics-first-ally-funding-2026], [skydd], [chituru-nsirim], [anu-oyeleye], [nigerian-exchange], [bamboo], [cowrywise], [meristem-securities], [afrinvest], [csl-stockbrokers], [richmond-bassey], [sec-nigeria], [ngx-regulation], [ngx-domestic-foreign-portfolio-investment-report]]
+entities: [[cbn], [fx-bdc-purchase-tracker], [cbn-policy-insight-series-2025], [ecowas], [afcfta], [papss], [afreximbank], [beac], [mathesis-analytics], [first-ally-capital], [mathesis-analytics-first-ally-funding-2026], [skydd], [chituru-nsirim], [anu-oyeleye], [nigerian-exchange], [bamboo], [cowrywise], [meristem-securities], [afrinvest], [csl-stockbrokers], [richmond-bassey], [sec-nigeria], [ngx-regulation], [ngx-domestic-foreign-portfolio-investment-report], [virtual-assets-executive-order-2026], [nigeria-revenue-service], [nfiu], [onsa-nigeria], [cbn-payments-circular-2026], [flutterwave], [paystack], [moniepoint], [stripe], [mono], [busha], [tether], [imf]]
 lens: []
 status: active
 last_reviewed: 2026-07-20
-sources: [[2026-07-17-nigeria-central-bank-digitises-forex-oversight], [2026-02-06 Nigeria just raised the bar for West African Fintech], [2026-02-05 Nigeria's fintech blueprint raises stakes for Kenya, Africa's digital economy], [2026-01-27 Nigeria's PAPSS cross-border payments falls 53% to N5.6bn], [2025-04-29-cbn-open-banking-august-launch], [2025-11-07-nibss-national-payment-stack-first-transaction], [2026-06-17-cbn-payments-system-vision-2028], [2025-02-10-busha-lists-cngn-stablecoin], [2026-02-04-onafriq-papss-naira-wallet-ghana], [2025-06-11-ussd-end-user-billing-model], [2025-10-09-nigeria-e-payments-256bn-cbn], [2025-12-23-siips-nigeria-instant-payments-2tn], [2026-06-15-cbn-data-localisation-beneficial-owners-2027], [2026-06-09-cbn-ai-fraud-detection-realtime], [2025-08-25-cbn-pos-geotag-iso20022], [2026-03-12-cbn-automated-aml-baseline-standards], [2026-01-12-tin-nin-crypto-tax-carf], [2026-01-15-fg-7-5-vat-electronic-banking], [2025-09-04-fccpc-deon-digital-lending-regulations], [2025-05-13-cbn-diaspora-nrbvn-platform], [2025-11-03-sec-cbn-efcc-freeze-illicit-wallets], [2025-01-23-visa-strategic-investment-moniepoint], [2026-04-21-cbn-ncc-tirms-telecom-data-banks], [2026-06-25-paystack-index-ai-checkout], [2025-05-09-isa-2025-crypto-securities], [2025-03-20-flutterwave-firs-tax-payments], [2026-07-17-mathesis-analytics-raises-funding-ai-lending], [2026-07-17-skydd-insure-fintech-leadership], [2026-07-18-nigeria-retail-investing-boom], [2008-12-01-cbn-bullion-nigerian-stock-market-global-financial-crisis], [2026-05-31-ngx-domestic-foreign-portfolio-investment-report-may-2026]]
+sources: [[2026-07-17-nigeria-central-bank-digitises-forex-oversight], [2026-02-06 Nigeria just raised the bar for West African Fintech], [2026-02-05 Nigeria's fintech blueprint raises stakes for Kenya, Africa's digital economy], [2026-01-27 Nigeria's PAPSS cross-border payments falls 53% to N5.6bn], [2025-04-29-cbn-open-banking-august-launch], [2025-11-07-nibss-national-payment-stack-first-transaction], [2026-06-17-cbn-payments-system-vision-2028], [2025-02-10-busha-lists-cngn-stablecoin], [2026-02-04-onafriq-papss-naira-wallet-ghana], [2025-06-11-ussd-end-user-billing-model], [2025-10-09-nigeria-e-payments-256bn-cbn], [2025-12-23-siips-nigeria-instant-payments-2tn], [2026-06-15-cbn-data-localisation-beneficial-owners-2027], [2026-06-09-cbn-ai-fraud-detection-realtime], [2025-08-25-cbn-pos-geotag-iso20022], [2026-03-12-cbn-automated-aml-baseline-standards], [2026-01-12-tin-nin-crypto-tax-carf], [2026-01-15-fg-7-5-vat-electronic-banking], [2025-09-04-fccpc-deon-digital-lending-regulations], [2025-05-13-cbn-diaspora-nrbvn-platform], [2025-11-03-sec-cbn-efcc-freeze-illicit-wallets], [2025-01-23-visa-strategic-investment-moniepoint], [2026-04-21-cbn-ncc-tirms-telecom-data-banks], [2026-06-25-paystack-index-ai-checkout], [2025-05-09-isa-2025-crypto-securities], [2025-03-20-flutterwave-firs-tax-payments], [2026-07-17-mathesis-analytics-raises-funding-ai-lending], [2026-07-17-skydd-insure-fintech-leadership], [2026-07-18-nigeria-retail-investing-boom], [2008-12-01-cbn-bullion-nigerian-stock-market-global-financial-crisis], [2026-05-31-ngx-domestic-foreign-portfolio-investment-report-may-2026], [2026-07-20-nigeria-coordinated-regulatory-framework-virtual-assets], [2026-07-20-cbn-rewriting-rules-nigeria-fintech-growth], [2026-07-20-busha-business-tether-stablecoin-infrastructure-africa]]
 ---
 
 # Nigeria × Digital Payments
@@ -18,6 +18,63 @@ Nigeria's CBN fintech blueprint is pitched as a regional passporting template �
 
 ## What we know
 
+- **[[NGA]] [[KEN]] A licensed local exchange plugs into Tether's dollar liquidity for B2B
+  cross-border settlement (2026-07-20).** [[sovereignty]] **[[busha|Busha Business]]**, the B2B arm of
+  Nigerian exchange **[[busha]]**, announced a collaboration with **[[tether]]**, issuer of **USD₮**,
+  to give African businesses stablecoin liquidity for cross-border payments, treasury and settlement.
+  Scale on the company's own figures **(2026-07-20)**: **1,500+ businesses across Nigeria and Kenya**,
+  of which **250+ in Kenya** processing "**millions of Kenyan shillings** in daily transactions" (no
+  KES total or USD equivalent disclosed). Products named: **Busha Pay** (accept international payments,
+  **settlement in USD**) and business savings paying **daily yield on idle USD and Naira balances** at
+  "market-driven rates powered by licensed third-party asset management partners" — the partners,
+  the rates and the yield source are **undisclosed as of 2026-07-20**. The compliance claim is that
+  it is "built on Busha's **[[sec-nigeria|SEC]]-licensed digital asset foundation**". *The
+  sovereignty read:* Busha COO **Moyo Sodipo**, speaking at Africa Tech Summit Nairobi earlier in
+  2026, called for **African and locally relevant stablecoin infrastructure** to cut reliance on
+  payment rails "built for other markets" — and the firm's answer to that is a partnership with the
+  largest **USD**-denominated stablecoin issuer in the world. The gap between the stated ambition and
+  the executed deal is the story: dollarised settlement rails marketed as an escape from
+  dollar-denominated correspondent banking. Contrast the intra-African, local-currency route on
+  **[[papss]]**. *Reference-study claim, cited not absorbed:* the announcement attributes to the
+  **[[imf|IMF]]** a recent note that **Nigeria ranks second globally on Chainalysis' Crypto Adoption
+  Index**; neither the IMF note nor the Chainalysis index is held, and the ranking's year is not
+  given in the source. Source:
+  [[2026-07-20-busha-business-tether-stablecoin-infrastructure-africa]].
+- **[[NGA]] Virtual assets get a coordination layer, not a regulator (2026-07-20).** The
+  **[[virtual-assets-executive-order-2026|Presidential Executive Order on Virtual Assets
+  Coordination, 2026]]** (s.5 of the 1999 Constitution as altered; **effective immediately**) stands
+  up a **Virtual Asset Council** — **[[cbn]]** chair, **[[nigeria-revenue-service|NRS]]** and
+  **[[sec-nigeria|SEC]]** vice-chairs, **[[nfiu|NFIU]]** and **[[onsa-nigeria|ONSA]]** members — and
+  a **Virtual Asset Office** with its secretariat **at the CBN**, on a shared supervisory-technology
+  platform where **each agency retains ownership and control of its own data**. It creates **no new
+  regulator and transfers no powers**: registration follows the activity, **securities-like to the
+  SEC**, **payment/settlement/custody of non-security assets to the CBN**, Council-adjudicated where
+  unclear. A **CBN sandbox**, an **NRS virtual-assets tax policy** and a **Virtual Assets White
+  Paper** are announced but **unpublished as of 2026-07-20**; the Council owes a **Harmonised
+  Implementation Framework within 30 days** (~2026-08-19). The stated problem is jurisdictional
+  fragmentation as virtual assets blur currency/money/commodity/securities lines. See
+  [[gov.legislate]], [[infra.cybersec]]. Source:
+  [[2026-07-20-nigeria-coordinated-regulatory-framework-virtual-assets]].
+- **[[NGA]] The end of licence-stacking — ring-fencing, concentration caps, governance-first AML
+  (2026-07-20).** Between **March and June 2026** the CBN issued or exposed a package on market
+  concentration, financial holding companies, **operational ring-fencing**, ownership disclosure and
+  AML. Ring-fencing would require every regulated subsidiary to meet **capital adequacy and
+  liquidity individually, "regardless of group-level resources"**, with its own governance and risk
+  framework, explicitly to close "**regulatory arbitrage arising from the commingling of activities
+  across different licence categories**". The June market-structure circular
+  (**[[cbn-payments-circular-2026]]**) bars any institution above **25% of consumer issuing** from
+  exceeding **15% of merchant acquiring** (and the reverse), with **monthly market-share returns**
+  and **compliance by end-2026**. The AML framework shifts the test from tooling to **governance,
+  integration, explainability and demonstrable effectiveness**. The consolidation it targets is
+  documented: **[[flutterwave]]** took an MFB licence (**April 2026**) after acquiring
+  **[[mono]]**; **[[paystack]]** acquired **Ladder Microfinance Bank** (**January 2026**) and
+  restructured under **The Stack Group**, jointly owned by CEO Shola Akinlade, **[[stripe]]** and
+  employees, housing Paystack, Zap, Paystack MFB and a venture studio. Volumes: the electronic-
+  payment industry processed **₦1.2 quadrillion (2025)** per the CBN — reported as **$880.51bn** on
+  the piece's own undated conversion — and **[[moniepoint]]** **>₦412 trillion (2025)**, reported as
+  **$294.03bn**. Comparators offered: India's RBI UPI concentration caps and the EU's PSD2. See
+  [[gov.legislate]], [[gov.policy]], [[tech.industry]]. Source:
+  [[2026-07-20-cbn-rewriting-rules-nigeria-fintech-growth]].
 - **[[NGA]] Nigeria — CBN fintech policy as regional blueprint (2026-02).** The CBN's
   **[[cbn-policy-insight-series-2025]]** ("Shaping the Future of Fintech in Nigeria") sets an
   18-month, three-pillar roadmap: a **Single Regulatory Window**, **regulatory passporting**

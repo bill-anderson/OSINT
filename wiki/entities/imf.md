@@ -5,8 +5,8 @@ title: International Monetary Fund (IMF)
 places: [XGL, XAF]
 topics: [dpi.govtech, dpi.pay, gov.policy, data.statistics]
 status: active
-last_reviewed: 2026-07-17
-sources: [[2025-04-21 Leveraging Digital Public Infrastructure to Enhance Uganda's Tax Revenue Potential]]
+last_reviewed: 2026-07-20
+sources: [[2025-04-21 Leveraging Digital Public Infrastructure to Enhance Uganda's Tax Revenue Potential], [2026-07-20-busha-business-tether-stablecoin-infrastructure-africa]]
 ---
 
 # International Monetary Fund (IMF)

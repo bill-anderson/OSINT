@@ -6,8 +6,8 @@ places: [MWI]
 topics: [infra.connect, dpi.pay, include.divides, capacity.training]
 lens: []
 status: active
-last_reviewed: 2026-07-19
-sources: [[2026-05-22-airtel-satellite-connectivity-agm-techafricanews], [2026-06-24-airtel-money-admarc-farmer-payments-itweb], [2026-01-07-airtel-nzeru-fund-stem-scholarships-malawi24], [2026-07-17-macra-airtel-malawi-tnm-tariff-compensation], [2026-07-17-malawi-macra-telecom-tariff-compliance]]
+last_reviewed: 2026-07-20
+sources: [[2026-07-20-malawi-seeks-new-telecom-competition], [2026-05-22-airtel-satellite-connectivity-agm-techafricanews], [2026-06-24-airtel-money-admarc-farmer-payments-itweb], [2026-01-07-airtel-nzeru-fund-stem-scholarships-malawi24], [2026-07-17-macra-airtel-malawi-tnm-tariff-compensation], [2026-07-17-malawi-macra-telecom-tariff-compliance]]
 ---
 
 # Airtel Malawi Plc
@@ -29,6 +29,11 @@ cybersecurity) at the Malawi University of Science and Technology (see [[malawi-
 be published in two daily newspapers **seven days** before taking effect — and ordered it to compensate
 customers who bought affected products during the notice window (**26 Jun – 2 Jul 2026**) with equivalent
 bundles, by **31 July 2026**. Source: [[2026-07-17-macra-airtel-malawi-tnm-tariff-compensation]].
+
+**Duopoly under review (2026-07-20).** Government is **considering licensing additional MNOs** to reduce
+Airtel and [[tnm-malawi|TNM]]'s combined dominance and improve affordability, after consumer complaints
+over rising tariffs and service quality (dropped calls, slow speeds, unreliable connectivity). Three
+licences already granted have not produced a competing network. Source: [[2026-07-20-malawi-seeks-new-telecom-competition]].
 
 ## Links
 Place: [[MWI]] · Topics: [[infra.connect]] · [[dpi.pay]] · [[include.divides]] · Entities:

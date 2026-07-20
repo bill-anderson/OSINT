@@ -3,10 +3,10 @@ type: entity
 entity_type: government-body
 title: Smart Zambia Institute (SZI)
 places: [ZMB]
-topics: [dpi.govtech, gov.policy, dpi.exchange, dpi.id, dpi.registry]
+topics: [dpi.govtech, gov.policy, dpi.exchange, dpi.id, dpi.registry, capacity.training, digital.localgov, infra.cybersec, gov.protect]
 lens: [sovereignty]
 status: active
-sources: [[2025-09-11 DZAP World Bank PAD], [2026-06-17 Zambia's govt leans towards open-source], [2026-03-24 Zambia looking for MOSIP system integrator to support digital ID project], [2026-03-24 Zambia seeks partner for national digital ID system], [2026-01-08 Zambia unveils online passport application system], [2026-01-23 Zambia begins amending Electronic Government Act], [2025-01-17 Zambia Advances Digital ID System with MOSIP Training for Healthcare Integration], [2025-10-03 Zambia plans domestic digital ID development with help from international partners], [2026-01-05 Zambia programs national digital ID rollout for year-end], [2026-07-17-zambia-govlink-private-4g], [2026-07-17-zambie-lance-reseau-4g-prive-govlink], [2025-02-12-itweb-zambia-deploys-govt-wan-service-delivery], [2026-03-22-znbc-zambia-moves-ahead-digital-id-system], [2026-03-25-kalemba-zambia-cdf-ecouncil-116-councils-gwan], [2026-03-25-zanis-smart-zambia-digital-infrastructure-investment], [2023-06-16-zambia-zilas-ministerial-statement-parliament], [2026-04-28-zambia-smartcare-2-0-ndola-pilot]]
+sources: [[2025-09-11 DZAP World Bank PAD], [2026-06-17 Zambia's govt leans towards open-source], [2026-03-24 Zambia looking for MOSIP system integrator to support digital ID project], [2026-03-24 Zambia seeks partner for national digital ID system], [2026-01-08 Zambia unveils online passport application system], [2026-01-23 Zambia begins amending Electronic Government Act], [2025-01-17 Zambia Advances Digital ID System with MOSIP Training for Healthcare Integration], [2025-10-03 Zambia plans domestic digital ID development with help from international partners], [2026-01-05 Zambia programs national digital ID rollout for year-end], [2026-07-17-zambia-govlink-private-4g], [2026-07-17-zambie-lance-reseau-4g-prive-govlink], [2025-02-12-itweb-zambia-deploys-govt-wan-service-delivery], [2026-03-22-znbc-zambia-moves-ahead-digital-id-system], [2026-03-25-kalemba-zambia-cdf-ecouncil-116-councils-gwan], [2026-03-25-zanis-smart-zambia-digital-infrastructure-investment], [2023-06-16-zambia-zilas-ministerial-statement-parliament], [2026-04-28-zambia-smartcare-2-0-ndola-pilot], [2026-07-20-smart-zambia-trains-146-district-officers-southern-province]]
 last_reviewed: 2026-07-20
 ---
 
@@ -43,6 +43,20 @@ and answers to the Project Steering Committee.
   [[infra.connect]], [[dpi.govtech]], [[capacity.training]]. Sources:
   [[2026-07-17-zambia-govlink-private-4g]], [[2026-07-17-zambie-lance-reseau-4g-prive-govlink]].
 
+- **The skills programme reaches the districts (2026-07-20).** SZI's **e-Government Division**, through
+  its **Southern Provincial ICT Unit**, trained **146 public officers** in the District Commissioner
+  administrations of **Gwembe (40)**, **Mazabuka (46)** and **Siavonga (60)** — curriculum: **digital
+  literacy, cybersecurity, data protection, Microsoft Outlook**, e-government platform use, data
+  management and professional email communication (Principal ICT Officer **Joyce Mushiko**). This is the
+  decentralised training programme launched **December 2025** landing at district level. *It is a
+  provincial tranche, not a national total: **no cumulative figure for officers trained under the
+  programme is published in held material (as of 2026-07-20)**, so this cannot be read as coverage.*
+  The pairing to watch is that **data protection and cybersecurity are in the curriculum** — the
+  district tier is where GWAN, GovLink and the e-Council platforms actually get operated, and it is also
+  the weakest link in their security. See [[capacity.training]], [[digital.localgov]],
+  [[infra.cybersec]], [[gov.protect]]. Source:
+  [[2026-07-20-smart-zambia-trains-146-district-officers-southern-province]].
+
 ## Sources
 
 - [[2026-07-17-zambia-govlink-private-4g]]
@@ -56,3 +70,4 @@ and answers to the Project Steering Committee.
 - [[2025-01-17 Zambia Advances Digital ID System with MOSIP Training for Healthcare Integration]]
 - [[2025-10-03 Zambia plans domestic digital ID development with help from international partners]]
 - [[2026-01-05 Zambia programs national digital ID rollout for year-end]]
+- [[2026-07-20-smart-zambia-trains-146-district-officers-southern-province]]
