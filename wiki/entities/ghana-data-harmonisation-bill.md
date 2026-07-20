@@ -7,7 +7,7 @@ topics: [gov.legislate, gov.protect, dpi.exchange]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2025-10-23-data-harmonisation-bill-2025-consultation-graphic]]]
+sources: [[2025-10-23-data-harmonisation-bill-2025-consultation-graphic]]
 ---
 
 # Ghana Data Harmonisation Bill 2025

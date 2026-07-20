@@ -7,7 +7,7 @@ topics: [dpi.pay, gov.legislate, finance.new, gov.protect]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2026-04-29-kyc-bank-of-algeria-new-instruction-elmoudjahid]], [[2026-05-04-kyc-instruction-04-2026-financial-audit-echorouk]], [[raw/2025-08-15 Bank of Algeria joins PAPSS network]]]
+sources: [[2026-04-29-kyc-bank-of-algeria-new-instruction-elmoudjahid], [2026-05-04-kyc-instruction-04-2026-financial-audit-echorouk], [raw/2025-08-15 Bank of Algeria joins PAPSS network]]
 ---
 
 # Bank of Algeria

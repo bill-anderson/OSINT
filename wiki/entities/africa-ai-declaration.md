@@ -7,7 +7,7 @@ topics: [tech.ai, gov.policy, gov.regional, finance.new]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-13
-sources: [[2025-04-04 Africa Declaration on Artificial Intelligence]], [[2025-05-13 Optimism but uncertainty over Africa's AI Declaration]], [[2026-05-04 The World's Most Needed AI Governance Framework Doesn't Exist Yet. Africa Should Build It]], [[2026-05-19 GATEKEEPERS XIV]]
+sources: [[2025-04-04 Africa Declaration on Artificial Intelligence], [2025-05-13 Optimism but uncertainty over Africa's AI Declaration], [2026-05-04 The World's Most Needed AI Governance Framework Doesn't Exist Yet. Africa Should Build It], [2026-05-19 GATEKEEPERS XIV]]
 ---
 
 # Africa Declaration on Artificial Intelligence (Kigali)

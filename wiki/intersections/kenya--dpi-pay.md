@@ -9,7 +9,7 @@ entities: [[safaricom], [central-bank-of-kenya], [moniepoint], [kenswitch], [nai
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2025-09-22-mpesa-biggest-upgrade-decade-techcabal]], [[2025-11-26-safaricom-daraja-30-api-itweb]], [[2026-01-13-mpesa-blockchain-partner-itweb]], [[2026-01-28-mpesa-too-big-to-fail-techcabal]], [[2026-02-10-safaricom-nse-share-trading-mpesa-connectingafrica]], [[2026-03-20-mpesa-stop-sharing-phone-numbers-techcabal]], [[2026-04-02-moniepoint-enters-kenya-connectingafrica]], [[2026-04-03-kenswitch-visa-national-switch-techcabal]], [[2026-04-23-safaricom-sued-ai-mpesa-decisions-nation]], [[2026-05-08-fuliza-14-trillion-loans-nation]], [[2026-07-01-mpesa-next-financial-gap-credit-techcabal]], [[2026-07-14-dtb-safaricom-sim-swap-fraud-nation]], [[2026-05-31-telcos-warn-33pc-excise-tax-nation]]]
+sources: [[2025-09-22-mpesa-biggest-upgrade-decade-techcabal], [2025-11-26-safaricom-daraja-30-api-itweb], [2026-01-13-mpesa-blockchain-partner-itweb], [2026-01-28-mpesa-too-big-to-fail-techcabal], [2026-02-10-safaricom-nse-share-trading-mpesa-connectingafrica], [2026-03-20-mpesa-stop-sharing-phone-numbers-techcabal], [2026-04-02-moniepoint-enters-kenya-connectingafrica], [2026-04-03-kenswitch-visa-national-switch-techcabal], [2026-04-23-safaricom-sued-ai-mpesa-decisions-nation], [2026-05-08-fuliza-14-trillion-loans-nation], [2026-07-01-mpesa-next-financial-gap-credit-techcabal], [2026-07-14-dtb-safaricom-sim-swap-fraud-nation], [2026-05-31-telcos-warn-33pc-excise-tax-nation]]
 ---
 
 # Kenya × Digital Payments

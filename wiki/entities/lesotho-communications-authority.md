@@ -7,7 +7,7 @@ topics: [infra.connect, gov.legislate, data.satellite]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2025-04-22-starlink-licence-mixed-reactions-publiceye]], [[2025-03-11-starlink-opposition-section2-connectingafrica]]]
+sources: [[2025-04-22-starlink-licence-mixed-reactions-publiceye], [2025-03-11-starlink-opposition-section2-connectingafrica]]
 ---
 
 # Lesotho Communications Authority (LCA)

@@ -7,7 +7,7 @@ topics: [tech.ai, gov.policy, gov.legislate, gov.protect]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-12
-sources: [[2026-05-04 The World's Most Needed AI Governance Framework Doesn't Exist Yet. Africa Should Build It]], [[2026-05-18 Europe Wrote The World's Most Advanced AI Law. The EU AI Act]], [[2026-06-08 Kenyan Citizens Took A $2.5 Billion Deal With America To Court To Fight For Their Health Data]], [[2026-06-15 If The Technology Can't See Us Accurately, We Build The Rules That Make It]]
+sources: [[2026-05-04 The World's Most Needed AI Governance Framework Doesn't Exist Yet. Africa Should Build It], [2026-05-18 Europe Wrote The World's Most Advanced AI Law. The EU AI Act], [2026-06-08 Kenyan Citizens Took A $2.5 Billion Deal With America To Court To Fight For Their Health Data], [2026-06-15 If The Technology Can't See Us Accurately, We Build The Rules That Make It]]
 ---
 
 # Zuria Nagadya

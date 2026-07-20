@@ -7,7 +7,7 @@ topics: [gov.protect, dpi.id]
 lens: []
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2025-07-05-odpc-sh126bn-privacy-plan-standard]], [[2026-02-28-every-kenyan-protect-personal-data-kassait-standard]], [[2026-03-31-ray-ban-meta-ai-glasses-probe-nation]]]
+sources: [[2025-07-05-odpc-sh126bn-privacy-plan-standard], [2026-02-28-every-kenyan-protect-personal-data-kassait-standard], [2026-03-31-ray-ban-meta-ai-glasses-probe-nation]]
 ---
 
 # Immaculate Kassait

@@ -42,24 +42,6 @@ removes the item here. A short `issues.md` means you're caught up.
   publisher-unknown note, and never as corroboration for a claim it uniquely carries. *Decision:*
   (awaiting). (Surfaced ingest, 2026-07-17.)
 
-- **ISSUE-013 · A Russian-network mirror is the most prolific "source" on CAR — add a standing
-  drop-list?** `rca.news-pravda.com` was the **single most prolific CAR digital-news hit in every French
-  query** of the CAF sweep. It is an unattributed mirror in the Pravda network. This was **verified, not
-  assumed**: its AIAL data-centre story is a verbatim copy of Oubangui Médias, posted two minutes later.
-  All 7 hits were dropped and the originals staged instead. Two things make this more than one country's
-  problem. First, **a naïve French-language run would have built CAR's record out of this mirror while
-  looking successful** — it is high-volume, on-topic, correctly dated and superficially clean. Second,
-  **three real stories exist only there** (the April-2025 digital-identity/état-civil strategic report
-  validation, the SOS Télécoms licence, and "Pata Polélé"), so it cannot simply be treated as noise: it
-  is laundering real reporting whose originals CC could not locate. The sweep's drop vocabulary has no
-  reason code for "inadmissible origin" either — the DRC agent hit the same gap dropping an ExpressVPN
-  affiliate advertorial as `off-topic` because nothing better existed. *Recommend:* (a) add a **standing
-  drop-list** to `sweep/` for known mirrors/influence-network domains, `rca.news-pravda.com` first, with
-  the rule that a mirror is never staged and its **original is sought instead**; (b) add
-  `inadmissible-origin` to the drop-log reason vocabulary so these stop being mislabelled `off-topic`;
-  (c) file the three mirror-only stories as **gap leads**, not sources. *Decision:* (awaiting).
-  (Surfaced Phase-2 sweep, 2026-07-17.)
-
 - **ISSUE-018 · Two competing `sources:` frontmatter conventions across the corpus — which is canonical?**
   Wiki pages serialise `sources:` two incompatible ways: the majority **`sources: [[a], [b], [c]]`**
   (1,789 pages) and a minority **`sources: [[[a]], [[b]], [[c]]]`** (217 pages, e.g. `ngic-ghana`,
@@ -72,9 +54,7 @@ removes the item here. A short `issues.md` means you're caught up.
   are single-item, where both conventions look identical. *Recommend:* declare **`[[a], [b]]` canonical**
   (it matches the `entities:` example and holds the large majority), then normalise the 217 minority pages
   in one mechanical sweep — as its own commit, not folded into an ingest — and add a lint check so the
-  hybrid can't recur. CC has **not** run that sweep: 217 files touching `[[link]]` syntax is too large and
-  too link-adjacent to do as a side effect of a batch. *Decision:* (awaiting).
-  (Surfaced ingest daily-2026-07-19, 2026-07-19.)
+  hybrid can't recur. *Decision:* **Accepted (Bill, 2026-07-20).** Rule done — `[[a], [b]]` declared canonical in CLAUDE.md + lint #12 added. **Normalization of the ~217 pages: Bill is running it locally as its own commit** (validated `normalize_sources.py` provided). Remove this item once the sweep is applied. (Surfaced ingest daily-2026-07-19, 2026-07-19; ruled 2026-07-20.)
 
 - **ISSUE-019 · Should TechCabal Daily newsletter editions be captured as a running record?**
   The sweep dropped *"TechCabal Daily — Uber takeover"* (2026-07-17) as a second-hand digest: its payload
@@ -87,18 +67,6 @@ removes the item here. A short `issues.md` means you're caught up.
   syntheses. This preserves the audit trail (no laundering of others' reporting into the base) while not
   losing the scoops. If you'd rather have the record, the alternative is to stage TC Daily to `_leads/`
   rather than discard it. *Decision:* (awaiting). (Surfaced sweep daily-2026-07-19b, 2026-07-19.)
-
-- **ISSUE-020 · `itweb.co.za` is on no sweep's list, and itweb.africa links into it.**
-  The itweb.africa slice surfaced *"SAPO upgrades payment platform to 'match' industry standards"*
-  (2026-07-17, ZAF, `dpi.pay`) on an itweb.africa listing page, but its canonical URL is **itweb.co.za** —
-  a domain in neither `wiki/trade-journals.csv` (so this sweep won't fetch it) nor, as far as CC can tell,
-  the digest's registry. It was dropped as out-of-domain, and any future South African story ITWeb files to
-  its `.co.za` masthead will be dropped the same way. Since the two sweeps are defined as disjoint, an
-  unlisted domain falls in the gap between them rather than being covered by default. *Recommend:* **add
-  `https://www.itweb.co.za/,ITWeb South Africa` to `wiki/trade-journals.csv`**, scoped like the other SSA
-  titles — ITWeb's editorial standard is already vetted via itweb.africa, and ZAF is core coverage. Note the
-  volume caveat: `.co.za` is a far larger general-IT masthead, so expect more out-of-scope drops per run
-  than its `.africa` sibling. *Decision:* (awaiting). (Surfaced sweep daily-2026-07-19b, 2026-07-19.)
 
 - **ISSUE-021 · No standing rule for advertorial / sponsored trade-press content.**
   Three agents independently hit this class in one run and dropped all four items — ITWeb's sponsored

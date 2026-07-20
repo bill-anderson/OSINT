@@ -9,7 +9,7 @@ entities: [[bange-gnq], [getesa-gnq], [gitge-gnq]]
 lens: []
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2025-05-27-plan-nacional-cajeros-tpv-identicge]], [[2026-02-12-bange-mobile-ge-app-reg]], [[2026-02-25-vp-banca-cajeros-tpv-pago-electronico-reg]], [[2026-03-29-fintech-ecosystem-2026-thefintechtimes]]]
+sources: [[2025-05-27-plan-nacional-cajeros-tpv-identicge], [2026-02-12-bange-mobile-ge-app-reg], [2026-02-25-vp-banca-cajeros-tpv-pago-electronico-reg], [2026-03-29-fintech-ecosystem-2026-thefintechtimes]]
 ---
 
 # Equatorial Guinea × Digital Payments

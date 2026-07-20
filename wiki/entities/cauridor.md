@@ -7,7 +7,7 @@ topics: [dpi.pay, finance.new, tech.industry]
 lens: []
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2026-04-14-techcabal-cauridor-appoints-coo]]]
+sources: [[2026-04-14-techcabal-cauridor-appoints-coo]]
 ---
 
 # Cauridor

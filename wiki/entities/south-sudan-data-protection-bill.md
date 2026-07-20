@@ -6,7 +6,7 @@ places: [SSD]
 topics: [gov.protect, gov.legislate]
 status: active
 last_reviewed: 2026-07-16
-sources: [[2025-10-17 Paradigm Initiative partners with Koneta Hub on data protection law in South Sudan]], [[2025-12-11 South Sudan to get data protection bill in 2026, says minister]]
+sources: [[2025-10-17 Paradigm Initiative partners with Koneta Hub on data protection law in South Sudan], [2025-12-11 South Sudan to get data protection bill in 2026, says minister]]
 ---
 
 # South Sudan Data Protection Bill (draft)

@@ -7,7 +7,7 @@ topics: [gov.legislate, finance.new, infra.store, geopol.usa]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2026-05-26-ecofin-guinea-3pct-tax-foreign-digital-services]]]
+sources: [[2026-05-26-ecofin-guinea-3pct-tax-foreign-digital-services]]
 ---
 
 # Guinea 3% foreign-digital-services tax (RCN) & Digital Sovereignty Fund

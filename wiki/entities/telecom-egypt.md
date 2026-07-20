@@ -7,7 +7,7 @@ topics: [infra.connect, infra.store, finance.new, tech.industry]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-19
-sources: [[[2024-11-18 Telecom Egypt Regional Data Hub 2 awarded Tier III design certification]], [[raw/2025-11-21 Egypt ICT and Digital Economy (US Country Commercial Guide)]], [[2025-01-23-telecom-egypt-cisco-2africa-mediterranean-ahram]], [[2026-05-24-telecom-egypt-huawei-fttr-launch-ahram]], [[2026-06-30-telecom-egypt-fiber-5m-lines-1250-villages-hayat-karima-youm7]], [[2026-02-10-egypt-3-5b-spectrum-deal-5g-connectingafrica]], [[2026-07-17-telecom-egypt-cancels-helios-data-center-stake-sale]]]
+sources: [[2024-11-18 Telecom Egypt Regional Data Hub 2 awarded Tier III design certification], [raw/2025-11-21 Egypt ICT and Digital Economy (US Country Commercial Guide)], [2025-01-23-telecom-egypt-cisco-2africa-mediterranean-ahram], [2026-05-24-telecom-egypt-huawei-fttr-launch-ahram], [2026-06-30-telecom-egypt-fiber-5m-lines-1250-villages-hayat-karima-youm7], [2026-02-10-egypt-3-5b-spectrum-deal-5g-connectingafrica], [2026-07-17-telecom-egypt-cancels-helios-data-center-stake-sale]]
 ---
 
 # Telecom Egypt

@@ -7,7 +7,7 @@ topics: [tech.ai, capacity.training, gov.policy]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2026-03-11-techafricanews-ai-made-in-morocco-industry-x0]], [[2026-06-05-techafricanews-morocco-orange-ai-partnership]]]
+sources: [[2026-03-11-techafricanews-ai-made-in-morocco-industry-x0], [2026-06-05-techafricanews-morocco-orange-ai-partnership]]
 ---
 
 # JAZARI Institutes / "AI Made in Morocco"

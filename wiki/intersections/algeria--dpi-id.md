@@ -9,7 +9,7 @@ entities: [[algeria-digital-id-trust-law], [algeria-biometric-id-card], [arpce-a
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2025-02-17-electronic-signatures-certification--wearetech]], [[2025-09-01-arpce-service-authentification-signature-electroniques-elmoudjahid]], [[2025-11-04-digital-trust-e-transactions-law--wearetech]], [[2025-11-10-digital-id-trust-services-draft-law--biometricupdate]], [[2025-12-01-projet-loi-services-confiance-numeriques-apn-elmoudjahid]], [[2025-11-21-dgsn-uk-digital-forensics-biometrics-mou--biometricupdate]], [[2026-01-21-cnas-electronic-health-card-uninsured-echorouk]], [[2026-04-05-vehicle-registration-fully-digital-elmoudjahid]], [[2026-06-24-remote-biometric-passport-renewal-diaspora-echorouk]]]
+sources: [[2025-02-17-electronic-signatures-certification--wearetech], [2025-09-01-arpce-service-authentification-signature-electroniques-elmoudjahid], [2025-11-04-digital-trust-e-transactions-law--wearetech], [2025-11-10-digital-id-trust-services-draft-law--biometricupdate], [2025-12-01-projet-loi-services-confiance-numeriques-apn-elmoudjahid], [2025-11-21-dgsn-uk-digital-forensics-biometrics-mou--biometricupdate], [2026-01-21-cnas-electronic-health-card-uninsured-echorouk], [2026-04-05-vehicle-registration-fully-digital-elmoudjahid], [2026-06-24-remote-biometric-passport-renewal-diaspora-echorouk]]
 ---
 
 # Algeria × Digital identity, trust services & biometrics

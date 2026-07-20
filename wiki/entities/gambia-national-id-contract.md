@@ -6,7 +6,7 @@ places: [GMB]
 topics: [dpi.id, finance.new]
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2026-01-20 Margins takes Ghana's ID success to The Gambia]], [[2026-01-22 The Gambia picks Margins ID Group for national ID infrastructure upgrade]], [[2026-01-21-govt-signs-id-card-deal-margins-thepoint]], [[2026-01-21-govt-signs-new-contract-id-card-production-standard]], [[2026-01-27-new-id-card-10-years-validity-standard]]]
+sources: [[2026-01-20 Margins takes Ghana's ID success to The Gambia], [2026-01-22 The Gambia picks Margins ID Group for national ID infrastructure upgrade], [2026-01-21-govt-signs-id-card-deal-margins-thepoint], [2026-01-21-govt-signs-new-contract-id-card-production-standard], [2026-01-27-new-id-card-10-years-validity-standard]]
 ---
 
 # The Gambia National ID + Integrated Digital ID (DBFOT)

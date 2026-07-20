@@ -7,7 +7,7 @@ topics: [dpi.id, dpi.pay, dpi.exchange, finance.mou, geopol.india]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2025-07-29-lesotho-india-dpi-mou-publiceye]]]
+sources: [[2025-07-29-lesotho-india-dpi-mou-publiceye]]
 ---
 
 # Lesotho–India DPI MoU (India Stack)

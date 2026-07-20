@@ -9,7 +9,7 @@ entities: [[incm-mozambique], [vodacom], [starlink]]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2025-08-26-rural-connectivity-project-seeks-bids-techafricanews]], [[2025-10-20-60-new-mobile-stations-rural-connectivity-techafricanews]], [[2026-02-19-starlink-vodacom-flood-response-clubofmozambique]], [[2026-02-25-telecoms-block-unconstitutional-anamola-clubofmozambique]], [[2026-03-13-minister-denies-attempt-restrict-internet-clubofmozambique]], [[2026-04-20-incm-opens-5g-spectrum-bids-techafricanews]], [[2026-04-21-opens-bids-for-5g-spectrum-connectingafrica]], [[2026-06-22-chapo-pledges-5g-district-capitals-2027-clubofmozambique]], [[2026-06-22-5g-rollout-southern-africa-digital-hub-techafricanews]], [[2026-06-26-clears-path-for-5g-services-itweb]], [[2026-07-06-explores-partnership-with-spacex-techafricanews]]]
+sources: [[2025-08-26-rural-connectivity-project-seeks-bids-techafricanews], [2025-10-20-60-new-mobile-stations-rural-connectivity-techafricanews], [2026-02-19-starlink-vodacom-flood-response-clubofmozambique], [2026-02-25-telecoms-block-unconstitutional-anamola-clubofmozambique], [2026-03-13-minister-denies-attempt-restrict-internet-clubofmozambique], [2026-04-20-incm-opens-5g-spectrum-bids-techafricanews], [2026-04-21-opens-bids-for-5g-spectrum-connectingafrica], [2026-06-22-chapo-pledges-5g-district-capitals-2027-clubofmozambique], [2026-06-22-5g-rollout-southern-africa-digital-hub-techafricanews], [2026-06-26-clears-path-for-5g-services-itweb], [2026-07-06-explores-partnership-with-spacex-techafricanews]]
 ---
 
 # Mozambique × Connectivity

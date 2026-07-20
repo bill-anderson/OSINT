@@ -9,7 +9,7 @@ entities: [[civil-registry-authority-libya]]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2026-01-02-attorney-general-civil-registry-id-fraud-crackdown-libyaherald]], [[2026-01-14-almarj-civil-registry-fake-national-numbers-alwasat]], [[2026-04-19-fake-national-numbers-for-sale-alwasat]], [[2025-06-07-administrative-numbers-holders-anger-alwasat]]]
+sources: [[2026-01-02-attorney-general-civil-registry-id-fraud-crackdown-libyaherald], [2026-01-14-almarj-civil-registry-fake-national-numbers-alwasat], [2026-04-19-fake-national-numbers-for-sale-alwasat], [2025-06-07-administrative-numbers-holders-anger-alwasat]]
 ---
 
 # Libya × Digital Identity & Civil Registry

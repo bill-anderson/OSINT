@@ -7,7 +7,7 @@ topics: [dpi.exchange, gov.regional, dpi.id, dpi.pay]
 lens: []
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2026-03-30-algeria-joins-50in5--techreviewafrica]], [[2026-04-02-algeria-joins-50-in-5-campaign-echorouk]], [[2026-04-27-algeria-joins-50-in-5-dpi-campaign--biometricupdate]]]
+sources: [[2026-03-30-algeria-joins-50in5--techreviewafrica], [2026-04-02-algeria-joins-50-in-5-campaign-echorouk], [2026-04-27-algeria-joins-50-in-5-dpi-campaign--biometricupdate]]
 ---
 
 # Algeria 50-in-5 DPI campaign membership

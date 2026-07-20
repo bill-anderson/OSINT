@@ -7,7 +7,7 @@ topics: [dpi.govtech, dpi.exchange, dpi.pay]
 lens: []
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2025-07-07-ghana-gov-16000-services-revamp-graphic]], [[2025-07-10-ghana-16k-services-200m-world-bank-biometricupdate]], [[2026-05-21-ghana-gov-shakeup-simpler-citizens-myjoy]]]
+sources: [[2025-07-07-ghana-gov-16000-services-revamp-graphic], [2025-07-10-ghana-16k-services-200m-world-bank-biometricupdate], [2026-05-21-ghana-gov-shakeup-simpler-citizens-myjoy]]
 ---
 
 # Ghana.gov

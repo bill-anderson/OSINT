@@ -7,7 +7,7 @@ topics: [dpi.pay, finance.new]
 lens: []
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2026-06-12-lesotho-migrants-fintech-remittances-techcabal]]]
+sources: [[2026-06-12-lesotho-migrants-fintech-remittances-techcabal]]
 ---
 
 # Mukuru

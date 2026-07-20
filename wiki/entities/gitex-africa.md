@@ -7,7 +7,7 @@ topics: [tech.industry, gov.policy, finance.new]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2025-04-14-en-hespress-morocco-gitex-africa-2025-kickoff]], [[2025-03-18-techafricanews-gitex-africa-morocco-2025]], [[2026-03-31-en-hespress-morocco-gitex-gateway-digital-investment]], [[2026-04-10-connectingafrica-gitex-africa-2026-morocco-deals]], [[2026-04-10-techafricanews-morocco-d4sd-pavilion-gitex]]]
+sources: [[2025-04-14-en-hespress-morocco-gitex-africa-2025-kickoff], [2025-03-18-techafricanews-gitex-africa-morocco-2025], [2026-03-31-en-hespress-morocco-gitex-gateway-digital-investment], [2026-04-10-connectingafrica-gitex-africa-2026-morocco-deals], [2026-04-10-techafricanews-morocco-d4sd-pavilion-gitex]]
 ---
 
 # GITEX Africa (Morocco)

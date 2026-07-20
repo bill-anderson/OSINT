@@ -9,7 +9,7 @@ entities: [[data-protection-commission-ghana], [nita-ghana], [ghana-data-harmoni
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2025-08-01-ghana-new-data-protection-board-techafricanews]], [[2025-09-16-ghana-privacy-awareness-campaign-techafricanews]], [[2026-01-26-dpc-crackdown-2026-enforcement-myjoy]], [[2026-01-27-deputy-minister-data-protection-collaboration-myjoy]], [[2026-02-04-ghana-tech-law-reforms-ai-fintech-cyber-techafricanews]], [[2026-02-27-minister-data-protection-foundation-techreview]], [[2025-10-23-data-harmonisation-bill-2025-consultation-graphic]]]
+sources: [[2025-08-01-ghana-new-data-protection-board-techafricanews], [2025-09-16-ghana-privacy-awareness-campaign-techafricanews], [2026-01-26-dpc-crackdown-2026-enforcement-myjoy], [2026-01-27-deputy-minister-data-protection-collaboration-myjoy], [2026-02-04-ghana-tech-law-reforms-ai-fintech-cyber-techafricanews], [2026-02-27-minister-data-protection-foundation-techreview], [2025-10-23-data-harmonisation-bill-2025-consultation-graphic]]
 ---
 
 # Ghana × Data protection & tech-law reform

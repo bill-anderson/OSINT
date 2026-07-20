@@ -7,7 +7,7 @@ topics: [dpi.pay, dpi.exchange, gov.regional]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2026-05-06-ghipss-cross-border-expansion-3i-myjoy]]]
+sources: [[2026-05-06-ghipss-cross-border-expansion-3i-myjoy]]
 ---
 
 # GhIPSS (Ghana Interbank Payment and Settlement Systems)

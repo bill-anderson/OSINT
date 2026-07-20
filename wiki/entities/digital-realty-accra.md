@@ -7,7 +7,7 @@ topics: [infra.store, infra.connect, geopol.usa]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2025-10-31-digital-realty-opens-accra-data-center-graphic]]]
+sources: [[2025-10-31-digital-realty-opens-accra-data-center-graphic]]
 ---
 
 # Digital Realty ACR2 (Accra data centre)

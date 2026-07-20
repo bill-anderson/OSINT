@@ -9,7 +9,7 @@ entities: [[zeede-djibloho], [gitge-gnq], [equatorial-guinea-digital-economy-dia
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2025-12-19-banco-mundial-valida-economia-digital-datacenter-reg]], [[2026-03-27-zeede-djibloho-zona-economica-digital-reg]], [[2026-06-03-pamfp-licitacion-centros-datos-malabo-bata-reg]], [[2026-07-02-estudio-gitge-brecha-transformacion-digital-ministerios-ecofinge]]]
+sources: [[2025-12-19-banco-mundial-valida-economia-digital-datacenter-reg], [2026-03-27-zeede-djibloho-zona-economica-digital-reg], [2026-06-03-pamfp-licitacion-centros-datos-malabo-bata-reg], [2026-07-02-estudio-gitge-brecha-transformacion-digital-ministerios-ecofinge]]
 ---
 
 # Equatorial Guinea × Data centres & digital economy

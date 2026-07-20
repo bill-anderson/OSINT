@@ -7,7 +7,7 @@ topics: [dpi.pay, finance.new]
 lens: []
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2026-04-02-moniepoint-enters-kenya-connectingafrica]]]
+sources: [[2026-04-02-moniepoint-enters-kenya-connectingafrica]]
 ---
 
 # Moniepoint

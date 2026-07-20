@@ -7,7 +7,7 @@ topics: [infra.store, tech.ai]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2025-07-17-touchnet-sovereign-ai-cloud-ixafrica-techafricanews]]]
+sources: [[2025-07-17-touchnet-sovereign-ai-cloud-ixafrica-techafricanews]]
 ---
 
 # TouchNet

@@ -9,7 +9,7 @@ entities: [[madigipaie-gabon], [gabon-visa-partnership-deal], [beac]]
 lens: []
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2025-06-17-gabon-payments-interoperability-gimac]], [[2025-06-17-gabon-lunion-digital-ecosystem-payments]], [[2025-07-20-gabon-visa-partnership-public-services]], [[2026-03-01-gabon-madigipaie-taxigab]], [[2026-03-03-gabon-lunion-madigipaie-taxigab]], [[2026-06-28-gabon-lunion-gimacpay-dysfunction]], [[2026-07-07-gabon-lunion-madigipaie-libreville]]]
+sources: [[2025-06-17-gabon-payments-interoperability-gimac], [2025-06-17-gabon-lunion-digital-ecosystem-payments], [2025-07-20-gabon-visa-partnership-public-services], [2026-03-01-gabon-madigipaie-taxigab], [2026-03-03-gabon-lunion-madigipaie-taxigab], [2026-06-28-gabon-lunion-gimacpay-dysfunction], [2026-07-07-gabon-lunion-madigipaie-libreville]]
 ---
 
 # Gabon × Digital Payments

@@ -7,7 +7,7 @@ topics: [infra.connect, data.satellite, include.divides, digital.rural]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2025-06-30-starlink-launch-tconnect-lestimes]], [[2025-07-01-starlink-launch-publiceye]], [[2025-09-12-tconnect-community-hotspots-publiceye]], [[2026-01-17-tconnect-impact-soofia-school-publiceye]]]
+sources: [[2025-06-30-starlink-launch-tconnect-lestimes], [2025-07-01-starlink-launch-publiceye], [2025-09-12-tconnect-community-hotspots-publiceye], [2026-01-17-tconnect-impact-soofia-school-publiceye]]
 ---
 
 # T-Connect Lesotho

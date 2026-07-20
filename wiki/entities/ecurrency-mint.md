@@ -7,7 +7,7 @@ topics: [dpi.pay]
 lens: []
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2025-10-29-ecurrency-dsc3-eariary-cbdc-partner-prnewswire]]]
+sources: [[2025-10-29-ecurrency-dsc3-eariary-cbdc-partner-prnewswire]]
 ---
 
 # eCurrency Mint

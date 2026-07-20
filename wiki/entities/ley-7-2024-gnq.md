@@ -7,7 +7,7 @@ topics: [gov.legislate, gov.protect, infra.cybersec]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2026-07-02-ley-7-2024-redes-sociales-menores-privacidad-ahoraeg]], [[2025-06-04-reforma-ley-telecomunicaciones-licitacion-ahoraeg]]]
+sources: [[2026-07-02-ley-7-2024-redes-sociales-menores-privacidad-ahoraeg], [2025-06-04-reforma-ley-telecomunicaciones-licitacion-ahoraeg]]
 ---
 
 # Ley 7/2024 (Equatorial Guinea cybercrime / social-media / cybersecurity law)

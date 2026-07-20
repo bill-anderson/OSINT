@@ -7,7 +7,7 @@ topics: [dpi.govtech, gov.policy]
 lens: []
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2025-03-19-cumbre-digital-global-cniapge-reg]]]
+sources: [[2025-03-19-cumbre-digital-global-cniapge-reg]]
 ---
 
 # CNIAPGE (Centro Nacional para la Informatización de la Administración Pública)

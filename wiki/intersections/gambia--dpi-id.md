@@ -9,7 +9,7 @@ entities: [[nims-gambia], [gambia-national-id-contract], [gambia-national-digita
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2025-06-20-govt-integrate-id-cards-ecrvs-thepoint]], [[2025-08-11-udp-alarm-unlawful-id-cards-abroad-thepoint]], [[2026-01-21-govt-signs-id-card-deal-margins-thepoint]], [[2026-01-21-govt-signs-new-contract-id-card-production-standard]], [[2026-01-27-new-id-card-10-years-validity-standard]], [[2026-07-01-barrow-inaugurates-national-data-centre-nims-standard]], [[2026-07-03-gambia-launches-sovereign-digital-id-margins-biometricupdate]]]
+sources: [[2025-06-20-govt-integrate-id-cards-ecrvs-thepoint], [2025-08-11-udp-alarm-unlawful-id-cards-abroad-thepoint], [2026-01-21-govt-signs-id-card-deal-margins-thepoint], [2026-01-21-govt-signs-new-contract-id-card-production-standard], [2026-01-27-new-id-card-10-years-validity-standard], [2026-07-01-barrow-inaugurates-national-data-centre-nims-standard], [2026-07-03-gambia-launches-sovereign-digital-id-margins-biometricupdate]]
 ---
 
 # The Gambia × Digital Identity

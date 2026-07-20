@@ -9,7 +9,7 @@ entities: [[cniapge-gnq], [sigf-gnq], [equatorial-guinea-digital-economy-diagnos
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2025-03-19-cumbre-digital-global-cniapge-reg]], [[2025-06-17-china-apoyo-desarrollo-tecnologico-ahoraeg]], [[2025-08-27-pnud-digital-fitness-sector-publico-undp]], [[2026-01-12-digitalizacion-patente-tributaria-unica-reg]], [[2026-02-20-sigf-activa-funcion-publica-18-meses-reg]], [[2026-03-04-sigf-comite-pilotaje-m2m-ahoraeg]]]
+sources: [[2025-03-19-cumbre-digital-global-cniapge-reg], [2025-06-17-china-apoyo-desarrollo-tecnologico-ahoraeg], [2025-08-27-pnud-digital-fitness-sector-publico-undp], [2026-01-12-digitalizacion-patente-tributaria-unica-reg], [2026-02-20-sigf-activa-funcion-publica-18-meses-reg], [2026-03-04-sigf-comite-pilotaje-m2m-ahoraeg]]
 ---
 
 # Equatorial Guinea × GovTech & e-Government

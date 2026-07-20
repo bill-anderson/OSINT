@@ -7,7 +7,7 @@ topics: [dpi.id, dpi.pay, include.access]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2025-05-22-ethiopia-unveils-faydapass-digital-wallet-biometricupdate]]]
+sources: [[2025-05-22-ethiopia-unveils-faydapass-digital-wallet-biometricupdate]]
 ---
 
 # FaydaPass

@@ -9,7 +9,7 @@ entities: [[ghana-national-ai-strategy], [bank-of-ghana], [data-protection-commi
 lens: [sovereignty, colonialism]
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2026-04-28-ai-strategy-declaration-digital-sovereignty-myjoy]], [[2026-04-29-sovereignty-paradox-data-colonialism-myjoy]], [[2026-05-05-ai-future-infrastructure-not-ambition-myjoy]], [[2026-05-19-ai-strategy-healthcare-not-hype-graphic]], [[2026-03-12-one-million-coders-critique-cudjoe-myjoy]], [[2026-03-26-bog-cyber-information-security-directive-myjoy]], [[2025-05-09-ghana-largest-ai-driven-security-centre-graphic]], [[2026-07-14-yea-ghana-digital-centres-2000-youth-myjoy]]]
+sources: [[2026-04-28-ai-strategy-declaration-digital-sovereignty-myjoy], [2026-04-29-sovereignty-paradox-data-colonialism-myjoy], [2026-05-05-ai-future-infrastructure-not-ambition-myjoy], [2026-05-19-ai-strategy-healthcare-not-hype-graphic], [2026-03-12-one-million-coders-critique-cudjoe-myjoy], [2026-03-26-bog-cyber-information-security-directive-myjoy], [2025-05-09-ghana-largest-ai-driven-security-centre-graphic], [2026-07-14-yea-ghana-digital-centres-2000-youth-myjoy]]
 ---
 
 # Ghana × AI, cybersecurity & the sovereignty debate

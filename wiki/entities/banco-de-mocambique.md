@@ -7,7 +7,7 @@ topics: [dpi.pay, gov.legislate, data.statistics]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2025-08-06-e-money-accounts-109pct-adult-population-clubofmozambique]], [[2026-03-16-central-bank-launches-metix-clubofmozambique]], [[2026-04-15-national-payments-system-law-approved-parliament-clubofmozambique]], [[2026-06-16-financial-institutions-60-minutes-report-failures-clubofmozambique]]]
+sources: [[2025-08-06-e-money-accounts-109pct-adult-population-clubofmozambique], [2026-03-16-central-bank-launches-metix-clubofmozambique], [2026-04-15-national-payments-system-law-approved-parliament-clubofmozambique], [2026-06-16-financial-institutions-60-minutes-report-failures-clubofmozambique]]
 ---
 
 # Banco de Moçambique (BdM)

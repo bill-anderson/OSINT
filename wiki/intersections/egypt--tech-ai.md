@@ -9,7 +9,7 @@ entities: [[egypt-ai-strategy], [egypt-startup-charter], [itida-egypt], [mcit-eg
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2026-06-10-egypt-ai-national-security-strategy-karnak-ahram]], [[2026-07-06-nti-cybersecurity-academy-6000-trainees-ahram]], [[2026-07-06-ey-mena-egypt-ito-delivery-centre-itida-techafricanews]], [[2025-12-19-egypt-startup-ecosystem-2025-charter-techcabal]], [[2026-01-15-egypt-uk-ict-cooperation-itweb]]]
+sources: [[2026-06-10-egypt-ai-national-security-strategy-karnak-ahram], [2026-07-06-nti-cybersecurity-academy-6000-trainees-ahram], [2026-07-06-ey-mena-egypt-ito-delivery-centre-itida-techafricanews], [2025-12-19-egypt-startup-ecosystem-2025-charter-techcabal], [2026-01-15-egypt-uk-ict-cooperation-itweb]]
 ---
 
 # Egypt × AI, cyber, skills & digital industry

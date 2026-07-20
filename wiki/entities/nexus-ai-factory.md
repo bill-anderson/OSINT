@@ -7,7 +7,7 @@ topics: [infra.store, tech.ai, finance.new]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2026-04-13-techafricanews-morocco-nexus-ai-factory]], [[2026-04-10-connectingafrica-gitex-africa-2026-morocco-deals]]]
+sources: [[2026-04-13-techafricanews-morocco-nexus-ai-factory], [2026-04-10-connectingafrica-gitex-africa-2026-morocco-deals]]
 ---
 
 # Nexus AI Factory (Morocco sovereign AI data centre)

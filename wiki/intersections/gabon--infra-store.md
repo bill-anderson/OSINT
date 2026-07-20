@@ -9,7 +9,7 @@ entities: [[gabon-national-datacenter], [st-digital-gabon], [aninf-gabon], [apdp
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2025-02-14-gabon-st-digital-nkok-datacenter-announced]], [[2025-06-29-gabon-lunion-national-datacenter]], [[2025-07-16-gabon-aninf-st-digital-mou]], [[2025-08-08-gabon-datacenter-groundbreaking-nkok]], [[2025-07-01-gabon-huawei-partnership-exploration]], [[2026-05-28-gabon-datacenter-june-launch-set]], [[2026-06-10-gabon-datacenter-readiness-apdpvp-compliance]], [[2026-07-07-gabon-datacenter-inauguration-figures]], [[2026-07-08-gabon-sovereign-datacenter-technical-spec]]]
+sources: [[2025-02-14-gabon-st-digital-nkok-datacenter-announced], [2025-06-29-gabon-lunion-national-datacenter], [2025-07-16-gabon-aninf-st-digital-mou], [2025-08-08-gabon-datacenter-groundbreaking-nkok], [2025-07-01-gabon-huawei-partnership-exploration], [2026-05-28-gabon-datacenter-june-launch-set], [2026-06-10-gabon-datacenter-readiness-apdpvp-compliance], [2026-07-07-gabon-datacenter-inauguration-figures], [2026-07-08-gabon-sovereign-datacenter-technical-spec]]
 ---
 
 # Gabon × Data centres, cloud & digital sovereignty

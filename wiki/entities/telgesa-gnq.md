@@ -7,7 +7,7 @@ topics: [infra.connect, tech.industry, finance.new]
 lens: []
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2026-07-15-huawei-rescatar-getesa-telgesa-radiomacuto]]]
+sources: [[2026-07-15-huawei-rescatar-getesa-telgesa-radiomacuto]]
 ---
 
 # Telgesa (Equatorial Guinea 2nd state operator)

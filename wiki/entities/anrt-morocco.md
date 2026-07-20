@@ -7,7 +7,7 @@ topics: [infra.connect, gov.legislate]
 lens: []
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2025-07-16-telecomreviewafrica-morocco-5g-license-tender]], [[2025-11-07-en-hespress-what-5g-could-mean-for-morocco]]]
+sources: [[2025-07-16-telecomreviewafrica-morocco-5g-license-tender], [2025-11-07-en-hespress-what-5g-could-mean-for-morocco]]
 ---
 
 # ANRT (National Telecommunications Regulatory Agency, Morocco)

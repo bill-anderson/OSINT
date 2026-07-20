@@ -7,7 +7,7 @@ topics: [infra.cybersec, gov.regional]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2026-06-21-hespress-morocco-fortibleed-macert-cyber-alert]], [[2026-06-02-assabah-rabat-cybersecurity-leadership-program]]]
+sources: [[2026-06-21-hespress-morocco-fortibleed-macert-cyber-alert], [2026-06-02-assabah-rabat-cybersecurity-leadership-program]]
 ---
 
 # DGSSI (Directorate General of Information Systems Security, Morocco)

@@ -7,7 +7,7 @@ topics: [dpi.pay, finance.new]
 lens: []
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2026-01-15-jumhuria-first-petrol-station-epayment-libyaherald]]]
+sources: [[2026-01-15-jumhuria-first-petrol-station-epayment-libyaherald]]
 ---
 
 # Jumhouria Bank

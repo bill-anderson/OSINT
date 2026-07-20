@@ -7,7 +7,7 @@ topics: [dpi.pay, include.access, tech.ai, finance.new]
 lens: []
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2025-06-10-techreviewafrica-morocco-fintech-ecosystem-ai-inclusion]], [[2026-06-04-techreviewafrica-morocco-visa-fintech-day-ai-payments]]]
+sources: [[2025-06-10-techreviewafrica-morocco-fintech-ecosystem-ai-inclusion], [2026-06-04-techreviewafrica-morocco-visa-fintech-day-ai-payments]]
 ---
 
 # Morocco FinTech Center / Offre Startup Maroc

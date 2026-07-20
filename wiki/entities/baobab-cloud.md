@@ -7,7 +7,7 @@ topics: [infra.store, tech.ai, gov.protect]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2026-05-22-ixafrica-baobab-sovereign-public-cloud-techafricanews]]]
+sources: [[2026-05-22-ixafrica-baobab-sovereign-public-cloud-techafricanews]]
 ---
 
 # Baobab Cloud Services (Mitsumi)

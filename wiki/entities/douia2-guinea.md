@@ -7,7 +7,7 @@ topics: [tech.ai, gov.policy, data.open]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2026-04-03-techreviewafrica-douia2-ai-manifesto-conakry]]]
+sources: [[2026-04-03-techreviewafrica-douia2-ai-manifesto-conakry]]
 ---
 
 # DouIA2 / Manifesto of Conakry

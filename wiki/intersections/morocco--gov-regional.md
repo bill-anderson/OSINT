@@ -9,7 +9,7 @@ entities: [[gitex-africa]]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2026-05-07-techreviewafrica-morocco-african-open-government-conference]], [[2026-05-11-techafricanews-morocco-ghana-statement-of-intent]], [[2026-04-13-techafricanews-morocco-gabon-digital-skills]], [[2026-07-09-techreviewafrica-morocco-dco-collaboration]]]
+sources: [[2026-05-07-techreviewafrica-morocco-african-open-government-conference], [2026-05-11-techafricanews-morocco-ghana-statement-of-intent], [2026-04-13-techafricanews-morocco-gabon-digital-skills], [2026-07-09-techreviewafrica-morocco-dco-collaboration]]
 ---
 
 # Morocco × Regional digital cooperation & open government

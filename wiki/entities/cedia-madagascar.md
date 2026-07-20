@@ -7,7 +7,7 @@ topics: [tech.ai, dpi.govtech]
 lens: []
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2025-06-07-douanes-madagascar-modele-ia-cedia-midi]]]
+sources: [[2025-06-07-douanes-madagascar-modele-ia-cedia-midi]]
 ---
 
 # CEDIA (Centre of Excellence for Data & AI, Madagascar Customs)

@@ -9,7 +9,7 @@ entities: [[dnic-mozambique], [edge-mozambique], [atdi-mozambique], [mozambique-
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2026-01-05-seeks-expert-services-mass-birth-id-registration-biometricupdate]], [[2026-03-31-government-launches-free-birth-registration-clubofmozambique]], [[2026-04-27-mozambique-ethiopia-mou-digital-identity-clubofmozambique]], [[2026-05-21-chapo-free-civil-registration-campaign-clubofmozambique]], [[2026-05-25-tender-mobile-digital-identity-signature-clubofmozambique]], [[2026-05-26-seeks-partner-mobile-digital-id-esignature-biometricupdate]], [[2026-06-03-cabinet-approves-new-id-card-regulations-clubofmozambique]]]
+sources: [[2026-01-05-seeks-expert-services-mass-birth-id-registration-biometricupdate], [2026-03-31-government-launches-free-birth-registration-clubofmozambique], [2026-04-27-mozambique-ethiopia-mou-digital-identity-clubofmozambique], [2026-05-21-chapo-free-civil-registration-campaign-clubofmozambique], [2026-05-25-tender-mobile-digital-identity-signature-clubofmozambique], [2026-05-26-seeks-partner-mobile-digital-id-esignature-biometricupdate], [2026-06-03-cabinet-approves-new-id-card-regulations-clubofmozambique]]
 ---
 
 # Mozambique × Digital Identity & Civil Registry

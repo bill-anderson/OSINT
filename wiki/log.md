@@ -8557,3 +8557,33 @@ record, not rewriting it."
 `_leads/2026-07-17-ucc-anti-piracy-VERBATIM-RECAPTURE.md` is now **redundant** (its content is applied to
 the raw source). CC cannot delete from the cloud session — Bill to remove it. ISSUE-016 removed from
 `reviews/issues.md`.
+
+## 2026-07-20 review — ISSUE-013 resolved (CAR mirror drop-list)
+
+**Decision (Bill).** *"Accept recommendation."* All three parts actioned:
+- **(a) Standing drop-list.** Created `sweep/drop-list.csv` with `rca.news-pravda.com` (Pravda-network
+  unattributed mirror) — rule: never staged, seek and stage the original instead.
+- **(b) Reason vocab.** Added `inadmissible-origin` to the sweep's drop handling (`sweep/daily-README.md`
+  admissibility step) so mirror/influence-network drops stop being mislabelled `off-topic`; drop-list
+  domains are logged as `inadmissible-origin`.
+- **(c) Gap leads.** Filed the three mirror-only CAR stories as `GAP-CAF-005` (April-2025 digital-ID /
+  état-civil strategic report validation), `GAP-CAF-006` (SOS Télécoms licence) and `GAP-CAF-007`
+  ("Pata Polélé") in `reviews/gaps.md` — leads, not sources. Removed from `reviews/issues.md`.
+
+## 2026-07-20 review — ISSUE-020 resolved (ITWeb SA added to sweep list)
+
+**Decision (Bill).** *"Accept recommendation."* Added `https://www.itweb.co.za/,ITWeb South Africa` to
+`wiki/trade-journals.csv` so the daily sweep fetches ITWeb's `.co.za` masthead (canonical for many SA
+stories itweb.africa only links to). Volume caveat noted in ISSUE-020 stands (larger general-IT masthead
+→ more out-of-scope drops per run). Removed from `reviews/issues.md`.
+
+## 2026-07-20 review — ISSUE-018 (sources convention) — rule adopted; normalization delegated
+
+**Decision (Bill).** *"Accept recommendation."* **Rule half done:** declared **`[[a], [b]]` canonical**
+in CLAUDE.md (a "Canonical multi-item link lists" note in Page types) and added **lint check #12**
+(flags the non-canonical `[[[a]], [[b]]]` style and hybrids). **Normalization of the ~217 minority
+pages:** Bill will **run it locally as its own commit** (his choice) — CC provided a validated script
+(`normalize_sources.py`) that transforms only `sources:`/`entities:` frontmatter lines, correctly leaves
+canonical single-item `[[a]]` untouched, is idempotent, and scans `wiki/` only (raw/ excluded as
+immutable). ISSUE-018 kept in the register annotated **rule done, normalization pending Bill's local
+run** until it is applied.

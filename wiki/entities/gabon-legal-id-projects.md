@@ -7,7 +7,7 @@ topics: [dpi.id, dpi.registry, gov.policy]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2025-06-23-gabon-legal-digital-id-three-projects]], [[2025-09-16-gabon-digital-identity-governance-milestone]]]
+sources: [[2025-06-23-gabon-legal-digital-id-three-projects], [2025-09-16-gabon-digital-identity-governance-milestone]]
 ---
 
 # Gabon legal-identity projects (RBPP, SNID, CNEC)

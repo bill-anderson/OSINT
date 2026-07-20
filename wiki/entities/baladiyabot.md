@@ -7,7 +7,7 @@ topics: [digital.localgov, dpi.govtech, geopol.eu]
 lens: []
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2026-04-25-tripoli-baladiyabot-municipal-digital-assistant-libyaherald]]]
+sources: [[2026-04-25-tripoli-baladiyabot-municipal-digital-assistant-libyaherald]]
 ---
 
 # BaladiyaBOT (Tripoli municipal digital assistant)

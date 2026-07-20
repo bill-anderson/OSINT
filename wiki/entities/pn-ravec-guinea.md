@@ -7,7 +7,7 @@ topics: [dpi.id, dpi.registry, data.statistics, gov.policy]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2025-02-02-aminata-doumbouya-free-biometric-id-card]], [[2025-04-25-mediaguinee-pn-ravec-launch-call-center-105]], [[2025-07-19-mediaguinee-rnpp-fichier-electoral-provisional-stats]], [[2025-08-03-aminata-dge-ravec-online-verification-platform]], [[2025-08-28-mediaguinee-definitive-biometric-electoral-file]], [[2026-01-22-mediaguinee-dge-oneci-convention-fichier-electoral]], [[2026-03-03-mediaguinee-pn-ravec-secured-civil-registry-intrants-rgph4]], [[2026-04-25-mediaguinee-fichier-electoral-7m-elections-couplees]]]
+sources: [[2025-02-02-aminata-doumbouya-free-biometric-id-card], [2025-04-25-mediaguinee-pn-ravec-launch-call-center-105], [2025-07-19-mediaguinee-rnpp-fichier-electoral-provisional-stats], [2025-08-03-aminata-dge-ravec-online-verification-platform], [2025-08-28-mediaguinee-definitive-biometric-electoral-file], [2026-01-22-mediaguinee-dge-oneci-convention-fichier-electoral], [2026-03-03-mediaguinee-pn-ravec-secured-civil-registry-intrants-rgph4], [2026-04-25-mediaguinee-fichier-electoral-7m-elections-couplees]]
 ---
 
 # PN-RAVEC / RNPP & biometric electoral file (Guinea)

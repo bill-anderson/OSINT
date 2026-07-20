@@ -7,7 +7,7 @@ topics: [infra.connect, gov.legislate, finance.new]
 lens: []
 status: active
 last_reviewed: 2026-07-19
-sources: [[[2026-03-03-ngic-activates-first-shared-5g-network-graphic]], [[2026-07-09-ghana-widens-5g-competition-ngic-exclusivity-ended-itweb]], [[2026-07-17-ghana-ends-ngic-exclusive-5g-licence]], [[2026-05-26-who-benefits-ghana-2027-5g-push-connectingafrica]]]
+sources: [[2026-03-03-ngic-activates-first-shared-5g-network-graphic], [2026-07-09-ghana-widens-5g-competition-ngic-exclusivity-ended-itweb], [2026-07-17-ghana-ends-ngic-exclusive-5g-licence], [2026-05-26-who-benefits-ghana-2027-5g-push-connectingafrica]]
 ---
 
 # Next-Gen InfraCo (NGIC)

@@ -7,7 +7,7 @@ topics: [infra.connect, geopol.usa]
 lens: []
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2025-10-30-meta-safaricom-daraja-subsea-cable-telecomreviewafrica]]]
+sources: [[2025-10-30-meta-safaricom-daraja-subsea-cable-telecomreviewafrica]]
 ---
 
 # Daraja subsea cable (Meta–Safaricom)

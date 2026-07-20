@@ -9,7 +9,7 @@ entities: [[convalt-energy], [project-kobong], [micsti-lesotho], [sebabatso-init
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2026-06-09-convalt-kobong-hydropower-ai-datacenter-techafricanews]], [[2026-06-30-lesotho-first-ai-data-center-connectingafrica]], [[2026-06-12-three-digital-policies-signed-lestimes]], [[2026-07-09-lesotho-equitable-ai-future-itweb]], [[2026-06-17-ai-skills-development-programme-publiceye]], [[2026-05-30-dns-cbs-tech-workshop-lestimes]]]
+sources: [[2026-06-09-convalt-kobong-hydropower-ai-datacenter-techafricanews], [2026-06-30-lesotho-first-ai-data-center-connectingafrica], [2026-06-12-three-digital-policies-signed-lestimes], [2026-07-09-lesotho-equitable-ai-future-itweb], [2026-06-17-ai-skills-development-programme-publiceye], [2026-05-30-dns-cbs-tech-workshop-lestimes]]
 ---
 
 # Lesotho × AI, data policy & sovereign infrastructure

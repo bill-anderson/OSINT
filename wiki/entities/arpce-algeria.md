@@ -7,7 +7,7 @@ topics: [infra.connect, gov.legislate, gov.standards, dpi.id]
 lens: []
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2025-05-29-arpce-launches-5g-licence-tender-echorouk]], [[2025-06-02-5g-licence-tender-launch--connectingafrica]], [[2026-04-09-satellite-communications-competition-two-licences-echorouk]], [[2025-09-01-arpce-service-authentification-signature-electroniques-elmoudjahid]]]
+sources: [[2025-05-29-arpce-launches-5g-licence-tender-echorouk], [2025-06-02-5g-licence-tender-launch--connectingafrica], [2026-04-09-satellite-communications-competition-two-licences-echorouk], [2025-09-01-arpce-service-authentification-signature-electroniques-elmoudjahid]]
 ---
 
 # ARPCE (Algeria)

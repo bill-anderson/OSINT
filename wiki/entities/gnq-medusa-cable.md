@@ -7,7 +7,7 @@ topics: [infra.connect, gov.regional, finance.new]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2026-04-03-estudio-cable-submarino-medusa-analysys-mason-reg]], [[2026-06-05-cables-submarinos-africa-medusa-via-africa-larazon]]]
+sources: [[2026-04-03-estudio-cable-submarino-medusa-analysys-mason-reg], [2026-06-05-cables-submarinos-africa-medusa-via-africa-larazon]]
 ---
 
 # Equatorial Guinea Medusa / Via Africa submarine-cable plans

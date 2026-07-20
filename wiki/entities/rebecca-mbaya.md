@@ -7,7 +7,7 @@ topics: [tech.ai, tech.innovate, capacity.research, include.divides, gov.regiona
 lens: [sovereignty, colonialism]
 status: active
 last_reviewed: 2026-07-12
-sources: [[2026-06-24 Does AI Sovereignty Mean Controlling the Keys, or Owning the Building]], [[2026-03-25 On Documenting African AI Knowledge What Becomes Possible]]
+sources: [[2026-06-24 Does AI Sovereignty Mean Controlling the Keys, or Owning the Building], [2026-03-25 On Documenting African AI Knowledge What Becomes Possible]]
 ---
 
 # Rebecca Mbaya

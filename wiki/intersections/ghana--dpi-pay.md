@@ -9,7 +9,7 @@ entities: [[bank-of-ghana], [papss], [onafriq], [onafriq-papss-ghana-launch], [l
 lens: []
 status: active
 last_reviewed: 2026-07-19
-sources: [[[2026-04-01 RETRACTION Ghana's National ID cards can now make payments]], [[2026-02-05 Ghana Mobile Money Interoperability Nearly Doubles in 2025]], [[2025-06-23 Onafriq and PAPSS launch cross-border payments in Ghana]], [[2025-12-22 Government begins 99th cycle of LEAP cash-grant payments]], [[2025-09-09 Ghana to Mandate Biometric SIM Links in Bid to Curb Mobile Money Fraud]], [[2026-01-11 Ghana Card mandatory for banking and digital transactions - BoG]], [[2024-01-01 Payment Systems Oversight Annual Report 2023 (Bank of Ghana)]], [[2026-07-17-kutanapay-ai-blockchain-cross-border-trade]]]
+sources: [[2026-04-01 RETRACTION Ghana's National ID cards can now make payments], [2026-02-05 Ghana Mobile Money Interoperability Nearly Doubles in 2025], [2025-06-23 Onafriq and PAPSS launch cross-border payments in Ghana], [2025-12-22 Government begins 99th cycle of LEAP cash-grant payments], [2025-09-09 Ghana to Mandate Biometric SIM Links in Bid to Curb Mobile Money Fraud], [2026-01-11 Ghana Card mandatory for banking and digital transactions - BoG], [2024-01-01 Payment Systems Oversight Annual Report 2023 (Bank of Ghana)], [2026-07-17-kutanapay-ai-blockchain-cross-border-trade]]
 ---
 
 # Ghana × Digital Payments

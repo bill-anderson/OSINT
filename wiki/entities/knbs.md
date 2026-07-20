@@ -7,7 +7,7 @@ topics: [data.statistics, data.open, dpi.govtech]
 lens: []
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2026-06-08-safaricom-knbs-mobile-data-planning-techafricanews]], [[2026-06-07-state-plans-ecitizen-data-sale-nation]]]
+sources: [[2026-06-08-safaricom-knbs-mobile-data-planning-techafricanews], [2026-06-07-state-plans-ecitizen-data-sale-nation]]
 ---
 
 # Kenya National Bureau of Statistics (KNBS)

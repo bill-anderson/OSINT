@@ -7,7 +7,7 @@ topics: [tech.ai, gov.legislate, geopol.eu, gov.protect]
 lens: []
 status: active
 last_reviewed: 2026-07-12
-sources: [[2026-05-18 Europe Wrote The World's Most Advanced AI Law. The EU AI Act]], [[2026-05-19 GATEKEEPERS XIV]], [[2026-06-15 If The Technology Can't See Us Accurately, We Build The Rules That Make It]]
+sources: [[2026-05-18 Europe Wrote The World's Most Advanced AI Law. The EU AI Act], [2026-05-19 GATEKEEPERS XIV], [2026-06-15 If The Technology Can't See Us Accurately, We Build The Rules That Make It]]
 ---
 
 # EU AI Act

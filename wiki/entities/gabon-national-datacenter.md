@@ -7,7 +7,7 @@ topics: [infra.store, gov.protect, tech.innovate]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2025-02-14-gabon-st-digital-nkok-datacenter-announced]], [[2025-06-29-gabon-lunion-national-datacenter]], [[2025-08-08-gabon-datacenter-groundbreaking-nkok]], [[2026-05-28-gabon-datacenter-june-launch-set]], [[2026-06-10-gabon-datacenter-readiness-apdpvp-compliance]], [[2026-07-07-gabon-datacenter-inauguration-figures]], [[2026-07-08-gabon-sovereign-datacenter-technical-spec]]]
+sources: [[2025-02-14-gabon-st-digital-nkok-datacenter-announced], [2025-06-29-gabon-lunion-national-datacenter], [2025-08-08-gabon-datacenter-groundbreaking-nkok], [2026-05-28-gabon-datacenter-june-launch-set], [2026-06-10-gabon-datacenter-readiness-apdpvp-compliance], [2026-07-07-gabon-datacenter-inauguration-figures], [2026-07-08-gabon-sovereign-datacenter-technical-spec]]
 ---
 
 # Gabon National (Nkok) Data Centre

@@ -9,7 +9,7 @@ entities: [[ixafrica-data-centres], [safaricom], [airtel-africa], [touchnet], [b
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2025-05-14-safaricom-ixafrica-ai-data-centre-itweb]], [[2025-07-17-touchnet-sovereign-ai-cloud-ixafrica-techafricanews]], [[2026-05-10-airtel-56b-data-centre-standard]], [[2026-05-22-ixafrica-baobab-sovereign-public-cloud-techafricanews]], [[2026-05-25-qhala-amini-angani-ixafrica-ai-hub-techafricanews]], [[2026-06-05-kenya-targets-ai-data-centres-expansion-itweb]], [[2026-06-16-tech-firms-country-first-sovereign-cloud-standard]]]
+sources: [[2025-05-14-safaricom-ixafrica-ai-data-centre-itweb], [2025-07-17-touchnet-sovereign-ai-cloud-ixafrica-techafricanews], [2026-05-10-airtel-56b-data-centre-standard], [2026-05-22-ixafrica-baobab-sovereign-public-cloud-techafricanews], [2026-05-25-qhala-amini-angani-ixafrica-ai-hub-techafricanews], [2026-06-05-kenya-targets-ai-data-centres-expansion-itweb], [2026-06-16-tech-firms-country-first-sovereign-cloud-standard]]
 ---
 
 # Kenya × Data centres & sovereign cloud

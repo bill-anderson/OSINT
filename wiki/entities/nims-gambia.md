@@ -7,7 +7,7 @@ topics: [dpi.id, infra.store, dpi.govtech]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2026-07-01-barrow-inaugurates-national-data-centre-nims-standard]], [[2026-07-03-gambia-launches-sovereign-digital-id-margins-biometricupdate]], [[2026-01-27-new-id-card-10-years-validity-standard]]]
+sources: [[2026-07-01-barrow-inaugurates-national-data-centre-nims-standard], [2026-07-03-gambia-launches-sovereign-digital-id-margins-biometricupdate], [2026-01-27-new-id-card-10-years-validity-standard]]
 ---
 
 # NIMS (National Identity Management System, The Gambia)

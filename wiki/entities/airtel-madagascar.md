@@ -7,7 +7,7 @@ topics: [infra.connect, dpi.pay, include.access]
 lens: []
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2026-05-19-starlink-direct-to-cell-fcc-airtel-spaceinafrica]], [[2026-06-01-airtel-eutelsat-rural-broadband-techafricanews]], [[2026-07-15-direct-to-cell-satellite-trial-telecomreviewafrica]], [[2026-07-17-airtel-money-baobab-bank-partnership-techafricanews]]]
+sources: [[2026-05-19-starlink-direct-to-cell-fcc-airtel-spaceinafrica], [2026-06-01-airtel-eutelsat-rural-broadband-techafricanews], [2026-07-15-direct-to-cell-satellite-trial-telecomreviewafrica], [2026-07-17-airtel-money-baobab-bank-partnership-techafricanews]]
 ---
 
 # Airtel Madagascar

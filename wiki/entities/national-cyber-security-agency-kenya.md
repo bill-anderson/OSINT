@@ -7,7 +7,7 @@ topics: [infra.cybersec, gov.legislate, gov.protect]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2026-06-23-kenya-approves-national-cyber-security-agency-itweb]], [[2026-06-22-puzzle-ruto-cybersecurity-unit-nation]], [[2026-07-01-government-cybersecurity-ai-governance-standard]], [[2026-06-24-institutionalize-trust-digital-government-biometricupdate]], [[2025-11-17-hackers-government-websites-presidency-nation]]]
+sources: [[2026-06-23-kenya-approves-national-cyber-security-agency-itweb], [2026-06-22-puzzle-ruto-cybersecurity-unit-nation], [2026-07-01-government-cybersecurity-ai-governance-standard], [2026-06-24-institutionalize-trust-digital-government-biometricupdate], [2025-11-17-hackers-government-websites-presidency-nation]]
 ---
 
 # National Cyber Security Agency (NCSA), Kenya

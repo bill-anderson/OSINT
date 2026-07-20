@@ -7,7 +7,7 @@ topics: [dpi.govtech, dpi.exchange]
 lens: []
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2026-02-20-gabon-connect-single-digital-window]]]
+sources: [[2026-02-20-gabon-connect-single-digital-window]]
 ---
 
 # Gabon Connect (single digital window)

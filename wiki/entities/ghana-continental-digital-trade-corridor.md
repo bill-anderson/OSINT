@@ -7,7 +7,7 @@ topics: [gov.regional, dpi.exchange, dpi.pay]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2026-05-07-ghana-afcfta-digital-trade-pilot-graphic]], [[2026-05-11-ghana-continental-digital-trade-corridor-3i-techafricanews]]]
+sources: [[2026-05-07-ghana-afcfta-digital-trade-pilot-graphic], [2026-05-11-ghana-continental-digital-trade-corridor-3i-techafricanews]]
 ---
 
 # Continental Digital Trade Corridor (Ghana-led)

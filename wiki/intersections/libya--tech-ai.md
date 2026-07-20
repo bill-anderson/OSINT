@@ -9,7 +9,7 @@ entities: [[gia-libya], [libigpt], [ziad-al-hajjaji], [undp]]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2025-10-30-national-ai-strategy-2025-2030-published-libyaherald]], [[2025-10-28-libigpt-first-generative-ai-launched-libyaherald]], [[2026-02-01-libya-india-ai-quantum-upskilling-libyaherald]], [[2025-11-01-planning-ministry-ai-cybersecurity-institute-alwasat]]]
+sources: [[2025-10-30-national-ai-strategy-2025-2030-published-libyaherald], [2025-10-28-libigpt-first-generative-ai-launched-libyaherald], [2026-02-01-libya-india-ai-quantum-upskilling-libyaherald], [2025-11-01-planning-ministry-ai-cybersecurity-institute-alwasat]]
 ---
 
 # Libya × AI

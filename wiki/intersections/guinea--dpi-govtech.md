@@ -9,7 +9,7 @@ entities: [[ande-guinea], [telemo], [ministry-digital-economy-guinea], [simandou
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2025-06-27-mediaguinee-journal-officiel-numerique]], [[2025-07-09-mediaguinee-cnss-ecnss-platform]], [[2025-08-01-aminata-national-vehicle-attestation-platform-siin-digitech]], [[2026-01-12-mediaguinee-landaya-industrial-permits-platform]], [[2026-02-06-mediaguinee-mourana-soumah-takes-office-mceni]], [[2026-03-17-mediaguinee-guichet-unique-services-publics-azerbaijan-asan]], [[2026-05-18-wearetech-nine-digital-projects-public-administration]], [[2026-05-26-techafricanews-telemo-procurement-platform-launch]], [[2026-04-08-techreviewafrica-govstack-workshop-wardip]]]
+sources: [[2025-06-27-mediaguinee-journal-officiel-numerique], [2025-07-09-mediaguinee-cnss-ecnss-platform], [2025-08-01-aminata-national-vehicle-attestation-platform-siin-digitech], [2026-01-12-mediaguinee-landaya-industrial-permits-platform], [2026-02-06-mediaguinee-mourana-soumah-takes-office-mceni], [2026-03-17-mediaguinee-guichet-unique-services-publics-azerbaijan-asan], [2026-05-18-wearetech-nine-digital-projects-public-administration], [2026-05-26-techafricanews-telemo-procurement-platform-launch], [2026-04-08-techreviewafrica-govstack-workshop-wardip]]
 ---
 
 # Guinea × GovTech / e-Government

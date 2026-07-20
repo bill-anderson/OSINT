@@ -9,7 +9,7 @@ entities: [[cnia-mozambique], [intic-mozambique]]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2026-05-06-cnia-begins-advising-government-on-ai-clubofmozambique]], [[2026-05-25-presents-draft-national-ai-strategy-itu-techafricanews]], [[2026-06-22-fast-tracks-ai-cyber-strategy-itweb]]]
+sources: [[2026-05-06-cnia-begins-advising-government-on-ai-clubofmozambique], [2026-05-25-presents-draft-national-ai-strategy-itu-techafricanews], [2026-06-22-fast-tracks-ai-cyber-strategy-itweb]]
 ---
 
 # Mozambique × AI

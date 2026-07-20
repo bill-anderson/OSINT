@@ -7,7 +7,7 @@ topics: [dpi.registry, tech.ai]
 lens: []
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2026-05-08-studia-ai-digitisation-civil-records-intelligentcio]]]
+sources: [[2026-05-08-studia-ai-digitisation-civil-records-intelligentcio]]
 ---
 
 # Studia Inc

@@ -9,7 +9,7 @@ entities: [[starlink], [t-connect-lesotho], [lesotho-communications-authority], 
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2025-03-11-starlink-opposition-section2-connectingafrica]], [[2025-04-22-starlink-licence-mixed-reactions-publiceye]], [[2025-06-30-starlink-launch-tconnect-lestimes]], [[2025-07-01-starlink-launch-publiceye]], [[2025-09-12-tconnect-community-hotspots-publiceye]], [[2026-01-17-tconnect-impact-soofia-school-publiceye]], [[2025-05-21-econet-ran-network-upgrade-lestimes]], [[2025-06-20-econet-5g-network-upgrade-techafricanews]], [[2025-07-11-econet-wifi-plus-fmc-lestimes]], [[2025-08-25-vodacom-network-upgrade-joosub-techafricanews]], [[2026-02-17-lesotho-vodacom-digitisation-partnership-itweb]], [[2026-03-13-vodacom-40m-investment-vcl-financial-itweb]], [[2026-06-17-vodacom-lesotho-30-years-publiceye]]]
+sources: [[2025-03-11-starlink-opposition-section2-connectingafrica], [2025-04-22-starlink-licence-mixed-reactions-publiceye], [2025-06-30-starlink-launch-tconnect-lestimes], [2025-07-01-starlink-launch-publiceye], [2025-09-12-tconnect-community-hotspots-publiceye], [2026-01-17-tconnect-impact-soofia-school-publiceye], [2025-05-21-econet-ran-network-upgrade-lestimes], [2025-06-20-econet-5g-network-upgrade-techafricanews], [2025-07-11-econet-wifi-plus-fmc-lestimes], [2025-08-25-vodacom-network-upgrade-joosub-techafricanews], [2026-02-17-lesotho-vodacom-digitisation-partnership-itweb], [2026-03-13-vodacom-40m-investment-vcl-financial-itweb], [2026-06-17-vodacom-lesotho-30-years-publiceye]]
 ---
 
 # Lesotho × Connectivity

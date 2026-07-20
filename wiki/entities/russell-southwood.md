@@ -7,7 +7,7 @@ topics: [tech.industry, infra.connect, tech.ai, gov.policy, dpi.pay]
 lens: [sovereignty, colonialism]
 status: active
 last_reviewed: 2026-07-12
-sources: [[2025-12-04 Is it a bird Is it plane No, Jim, it's an African mobile operator, but not as we know it 9]], [[2026-06-25 Regulating for Africa's future digital economy – A draft agenda to speed things up]], [[2026-04-16 The Long View - What ICT4D did for Africa and why that deep past matters for today]], [[2026-05-19 Trying to make sense of who will use Artificial Intelligence in Africa and how – Going beyond the hype]], [[2026-02-16 Waking the dead - Slow road to extinction for Africa's former telco incumbents 11]]
+sources: [[2025-12-04 Is it a bird Is it plane No, Jim, it's an African mobile operator, but not as we know it 9], [2026-06-25 Regulating for Africa's future digital economy – A draft agenda to speed things up], [2026-04-16 The Long View - What ICT4D did for Africa and why that deep past matters for today], [2026-05-19 Trying to make sense of who will use Artificial Intelligence in Africa and how – Going beyond the hype], [2026-02-16 Waking the dead - Slow road to extinction for Africa's former telco incumbents 11]]
 ---
 
 # Russell Southwood

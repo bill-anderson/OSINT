@@ -7,7 +7,7 @@ topics: [infra.store, infra.cybersec, tech.ai]
 lens: []
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2026-05-30-dns-cbs-tech-workshop-lestimes]]]
+sources: [[2026-05-30-dns-cbs-tech-workshop-lestimes]]
 ---
 
 # DNS Technologies Ltd

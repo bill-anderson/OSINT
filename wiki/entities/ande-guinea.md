@@ -7,7 +7,7 @@ topics: [dpi.govtech, gov.policy]
 lens: []
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2026-05-18-wearetech-nine-digital-projects-public-administration]]]
+sources: [[2026-05-18-wearetech-nine-digital-projects-public-administration]]
 ---
 
 # ANDE (Agence Nationale de Digitalisation de l'État)

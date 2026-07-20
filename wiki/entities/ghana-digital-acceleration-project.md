@@ -7,7 +7,7 @@ topics: [dpi.govtech, finance.new, infra.connect]
 lens: []
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2025-07-10-ghana-16k-services-200m-world-bank-biometricupdate]]]
+sources: [[2025-07-10-ghana-16k-services-200m-world-bank-biometricupdate]]
 ---
 
 # Ghana Digital Acceleration Project (World Bank, $200m)

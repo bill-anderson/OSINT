@@ -7,7 +7,7 @@ topics: [infra.store, infra.connect, geopol.china]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2026-04-30-barrow-qgroup-house-first-data-centre-thepoint]], [[2026-04-30-qgroup-house-opens-standard]]]
+sources: [[2026-04-30-barrow-qgroup-house-first-data-centre-thepoint], [2026-04-30-qgroup-house-opens-standard]]
 ---
 
 # QGroup House data centre (The Gambia)

@@ -7,7 +7,7 @@ topics: [dpi.pay, dpi.id, include.access]
 lens: []
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2026-04-07-dashen-bank-first-digital-id-accounts-biometricupdate]]]
+sources: [[2026-04-07-dashen-bank-first-digital-id-accounts-biometricupdate]]
 ---
 
 # Dashen Bank

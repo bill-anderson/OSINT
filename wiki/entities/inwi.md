@@ -7,7 +7,7 @@ topics: [infra.connect, infra.store]
 lens: []
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2025-04-02-connectingafrica-maroc-telecom-inwi-fiber-5g]], [[2025-11-07-en-hespress-what-5g-could-mean-for-morocco]]]
+sources: [[2025-04-02-connectingafrica-maroc-telecom-inwi-fiber-5g], [2025-11-07-en-hespress-what-5g-could-mean-for-morocco]]
 ---
 
 # Inwi

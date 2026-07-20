@@ -7,7 +7,7 @@ topics: [infra.connect, gov.policy]
 lens: []
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2025-12-08-mobilis-djezzy-ooredoo-492m-5g-rollout--itweb]], [[2026-05-16-zerrouki-fibre-optic-completion-2027-echorouk]], [[2026-04-09-satellite-communications-competition-two-licences-echorouk]]]
+sources: [[2025-12-08-mobilis-djezzy-ooredoo-492m-5g-rollout--itweb], [2026-05-16-zerrouki-fibre-optic-completion-2027-echorouk], [2026-04-09-satellite-communications-competition-two-licences-echorouk]]
 ---
 
 # Sid Ali Zerrouki

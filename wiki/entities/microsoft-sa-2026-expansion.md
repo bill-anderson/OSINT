@@ -6,7 +6,7 @@ places: [ZAF]
 topics: [infra.store, tech.ai, infra.energy, capacity.training]
 status: active
 last_reviewed: 2026-07-11
-sources: [[2026-04-17 Microsoft picks South Africa for $329 million expansion in cloud infrastructure and AI training]], [[2026-04-15 Microsoft secures land for future South Africa data centre growth]]
+sources: [[2026-04-17 Microsoft picks South Africa for $329 million expansion in cloud infrastructure and AI training], [2026-04-15 Microsoft secures land for future South Africa data centre growth]]
 ---
 
 # Microsoft South Africa 2026 expansion ($329m / R5.4bn)

@@ -9,7 +9,7 @@ entities: [[nexus-ai-factory], [nexus-core-systems], [orange], [oracle], [digita
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2025-06-09-en-hespress-morocco-overtakes-sa-top-data-center-hub]], [[2026-04-13-techafricanews-morocco-nexus-ai-factory]], [[2025-11-24-techafricanews-orange-maroc-sustainable-data-center]], [[2025-11-18-techreviewafrica-morocco-green-data-center-ai-institute-dakhla]], [[2025-12-02-techreviewafrica-morocco-cloud-computing-week-2025]], [[2026-04-21-techreviewafrica-morocco-digital-transformation-sovereignty]], [[2026-06-30-techreviewafrica-oracle-rd-office-agadir]]]
+sources: [[2025-06-09-en-hespress-morocco-overtakes-sa-top-data-center-hub], [2026-04-13-techafricanews-morocco-nexus-ai-factory], [2025-11-24-techafricanews-orange-maroc-sustainable-data-center], [2025-11-18-techreviewafrica-morocco-green-data-center-ai-institute-dakhla], [2025-12-02-techreviewafrica-morocco-cloud-computing-week-2025], [2026-04-21-techreviewafrica-morocco-digital-transformation-sovereignty], [2026-06-30-techreviewafrica-oracle-rd-office-agadir]]
 ---
 
 # Morocco × Data centres & sovereign cloud

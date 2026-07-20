@@ -7,7 +7,7 @@ topics: [infra.connect, tech.industry, finance.new]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2025-01-06-connectingafrica-mtn-sells-guinea-conakry-to-state]], [[2025-05-21-mediaguinee-wtisd-2025-bilan-souverainete-numerique]]]
+sources: [[2025-01-06-connectingafrica-mtn-sells-guinea-conakry-to-state], [2025-05-21-mediaguinee-wtisd-2025-bilan-souverainete-numerique]]
 ---
 
 # State acquisition of MTN Guinée (87.5%)

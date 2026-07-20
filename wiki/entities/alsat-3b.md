@@ -7,7 +7,7 @@ topics: [data.satellite, infra.capacity, capacity.research]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2026-01-31-alsat-3b-satellite-launch-echorouk]], [[2026-02-03-alsat-3b-second-satellite-launch--connectingafrica]]]
+sources: [[2026-01-31-alsat-3b-satellite-launch-echorouk], [2026-02-03-alsat-3b-second-satellite-launch--connectingafrica]]
 ---
 
 # ALSAT-3B

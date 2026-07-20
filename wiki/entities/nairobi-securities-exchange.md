@@ -7,7 +7,7 @@ topics: [dpi.pay, finance.new]
 lens: []
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2026-02-10-safaricom-nse-share-trading-mpesa-connectingafrica]]]
+sources: [[2026-02-10-safaricom-nse-share-trading-mpesa-connectingafrica]]
 ---
 
 # Nairobi Securities Exchange (NSE)

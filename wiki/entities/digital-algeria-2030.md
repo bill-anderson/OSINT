@@ -7,7 +7,7 @@ topics: [gov.policy, dpi.govtech, tech.ai, infra.connect]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2025-10-17 Algeria launches Dzair Services single-window public-services platform]], [[raw/2025-12-02 AI in government - Algeria's HCD and National AI Strategy]], [[raw/2025-12-04 Algeria cloud and data-centre market to reach $450m by 2035]], [[2025-05-12-national-digital-transformation-strategy-announced-echorouk]], [[2025-05-13-national-digital-transformation-strategy-2030--wearetech]], [[2025-01-07-digital-projects-public-services--telecomreviewafrica]], [[2025-09-19-fni-tech-hub-public-sector--wearetech]], [[2025-10-29-expert-panel-digital-overhaul--wearetech]], [[2026-01-02-postal-telecom-sector-2025-review--techreviewafrica]]]
+sources: [[2025-10-17 Algeria launches Dzair Services single-window public-services platform], [raw/2025-12-02 AI in government - Algeria's HCD and National AI Strategy], [raw/2025-12-04 Algeria cloud and data-centre market to reach $450m by 2035], [2025-05-12-national-digital-transformation-strategy-announced-echorouk], [2025-05-13-national-digital-transformation-strategy-2030--wearetech], [2025-01-07-digital-projects-public-services--telecomreviewafrica], [2025-09-19-fni-tech-hub-public-sector--wearetech], [2025-10-29-expert-panel-digital-overhaul--wearetech], [2026-01-02-postal-telecom-sector-2025-review--techreviewafrica]]
 ---
 
 # Digital Algeria 2030 (SNTN-2030)

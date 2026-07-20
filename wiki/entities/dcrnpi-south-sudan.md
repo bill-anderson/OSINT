@@ -6,7 +6,7 @@ places: [SSD]
 topics: [dpi.id, dpi.registry]
 status: active
 last_reviewed: 2026-07-16
-sources: [[2024-11-21 Over 17,400 South Sudanese receive national identity cards thanks to UNHCR and the EU]], [[2026-01-16 Juba - Passport, ID card issuance resumes]], [[2025-12-15 Strengthening Civil Registration and Ending Statelessness in South Sudan]], [[2025-01-01 Policy and Legal in South Sudan (civil registry and identity framework)]]
+sources: [[2024-11-21 Over 17,400 South Sudanese receive national identity cards thanks to UNHCR and the EU], [2026-01-16 Juba - Passport, ID card issuance resumes], [2025-12-15 Strengthening Civil Registration and Ending Statelessness in South Sudan], [2025-01-01 Policy and Legal in South Sudan (civil registry and identity framework)]]
 ---
 
 # Directorate of Civil Registry, Nationality, Passport and Immigration (DCRNPI/DNPI)

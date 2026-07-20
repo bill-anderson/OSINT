@@ -7,7 +7,7 @@ topics: [infra.connect, tech.industry]
 lens: []
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2025-07-28-itweb-nokia-subsea-cable-europe-north-africa]]]
+sources: [[2025-07-28-itweb-nokia-subsea-cable-europe-north-africa]]
 ---
 
 # Nokia

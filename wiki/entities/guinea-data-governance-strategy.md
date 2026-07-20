@@ -7,7 +7,7 @@ topics: [gov.policy, gov.protect, dpi.exchange, tech.ai]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2026-06-26-ecofin-guinea-national-data-governance-strategy]], [[2025-07-26-aminata-cybersecurity-law-hac-web-media]]]
+sources: [[2026-06-26-ecofin-guinea-national-data-governance-strategy], [2025-07-26-aminata-cybersecurity-law-hac-web-media]]
 ---
 
 # Guinea National Data Governance Strategy

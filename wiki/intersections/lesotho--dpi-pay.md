@@ -9,7 +9,7 @@ entities: [[leswitch], [central-bank-of-lesotho], [ecocash], [econet-telecom-les
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2025-05-14-leswitch-pos-financial-inclusion-lestimes]], [[2025-04-30-econet-ecocash-upgrade-lestimes]], [[2026-06-12-lesotho-migrants-fintech-remittances-techcabal]]]
+sources: [[2025-05-14-leswitch-pos-financial-inclusion-lestimes], [2025-04-30-econet-ecocash-upgrade-lestimes], [2026-06-12-lesotho-migrants-fintech-remittances-techcabal]]
 ---
 
 # Lesotho × Digital Payments

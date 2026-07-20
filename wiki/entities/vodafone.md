@@ -7,7 +7,7 @@ topics: [infra.connect, dpi.govtech]
 lens: []
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2025-04-25-itweb-vodafone-maroc-telecom-digital-services-deal]]]
+sources: [[2025-04-25-itweb-vodafone-maroc-telecom-digital-services-deal]]
 ---
 
 # Vodafone

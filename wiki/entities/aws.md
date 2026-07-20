@@ -7,7 +7,7 @@ topics: [infra.store, tech.ai]
 lens: []
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2025-06-05-safaricom-aws-genai-itweb]]]
+sources: [[2025-06-05-safaricom-aws-genai-itweb]]
 ---
 
 # Amazon Web Services (AWS)

@@ -9,7 +9,7 @@ entities: [[cirt-madagascar], [prodigy-madagascar], [mg-ministry-digital-develop
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2025-12-15-cybersecurite-strategie-nationale-midi]], [[2026-06-25-madagascar-new-cybersecurity-law-wearetech]], [[2026-07-09-cybercriminalite-projet-loi-adopte-agenceecofin]]]
+sources: [[2025-12-15-cybersecurite-strategie-nationale-midi], [2026-06-25-madagascar-new-cybersecurity-law-wearetech], [2026-07-09-cybercriminalite-projet-loi-adopte-agenceecofin]]
 ---
 
 # Madagascar × Cybersecurity

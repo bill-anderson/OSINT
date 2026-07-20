@@ -8,7 +8,7 @@ topics: [dpi.registry, gov.legislate, dpi.govtech, gov.standards, infra.cybersec
 entities: [[zimbabwe-si-76-2025], [zimbabwe-deeds-registry], [digital-land-administration-platform], [ministry-of-justice-zimbabwe], [zimra], [tarms-zimbabwe], [registrar-general-zimbabwe], [civil-registry-department-zimbabwe]]
 status: active
 last_reviewed: 2026-07-19
-sources: [[2025-07-28 Legal Discussions with Vengai Madzima - Digitization of the Deeds Registry in Zimbabwe]], [[2025-08-01 How to secure your property in Zimbabwe with the new digital deed system]], [[2025-01-01 ZIMRA Taxpayer Registration]], [[2025-07-15 Zimbabwe looks forward to digital ID rollout after population registry reform]], [[2025-07-10 Zimbabwe Launches Mobile ID Registration Program to Serve Remote Binga Communities]], [[2026-04-07-title-deed-validation-reissuance-pilot-madzima]]
+sources: [[2025-07-28 Legal Discussions with Vengai Madzima - Digitization of the Deeds Registry in Zimbabwe], [2025-08-01 How to secure your property in Zimbabwe with the new digital deed system], [2025-01-01 ZIMRA Taxpayer Registration], [2025-07-15 Zimbabwe looks forward to digital ID rollout after population registry reform], [2025-07-10 Zimbabwe Launches Mobile ID Registration Program to Serve Remote Binga Communities], [2026-04-07-title-deed-validation-reissuance-pilot-madzima]]
 ---
 
 # Zimbabwe — registries (dpi.registry)

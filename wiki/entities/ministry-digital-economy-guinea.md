@@ -7,7 +7,7 @@ topics: [gov.policy, infra.connect, dpi.govtech, infra.store]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2026-01-14 Guinea Reviews 2025 Digital Sector Gains, Targets Faster Rollout in 2026]], [[2025-11-13 Transform Africa Summit 2025 opens in Conakry, epicentre of digital cooperation in Africa]], [[2026-02-06-mediaguinee-mourana-soumah-takes-office-mceni]]]
+sources: [[2026-01-14 Guinea Reviews 2025 Digital Sector Gains, Targets Faster Rollout in 2026], [2025-11-13 Transform Africa Summit 2025 opens in Conakry, epicentre of digital cooperation in Africa], [2026-02-06-mediaguinee-mourana-soumah-takes-office-mceni]]
 ---
 
 # Ministry of Posts, Telecommunications and Digital Economy (Guinea)

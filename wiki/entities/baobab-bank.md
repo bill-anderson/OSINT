@@ -7,7 +7,7 @@ topics: [dpi.pay, include.access]
 lens: []
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2026-07-17-airtel-money-baobab-bank-partnership-techafricanews]]]
+sources: [[2026-07-17-airtel-money-baobab-bank-partnership-techafricanews]]
 ---
 
 # Baobab Bank (Madagascar)

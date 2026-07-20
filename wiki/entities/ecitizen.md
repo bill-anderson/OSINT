@@ -7,7 +7,7 @@ topics: [dpi.govtech, dpi.pay, gov.protect]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2026-03-26-ecitizen-22000-services-audit-techafricanews]], [[2026-03-26-ecitizen-revenue-46m-daily-itweb]], [[2026-06-23-agencies-defy-ecitizen-order-1695-services-nation]], [[2025-04-20-mps-multi-billion-ecitizen-deal-cancelled-nation]], [[2025-04-01-court-halts-school-fees-ecitizen-nation]], [[2025-07-23-ecitizen-payments-not-reach-treasury-standard]], [[2026-03-10-hand-over-ecitizen-auditor-general-standard]], [[2026-03-27-ecitizen-heist-pesaflow-63b-standard]]]
+sources: [[2026-03-26-ecitizen-22000-services-audit-techafricanews], [2026-03-26-ecitizen-revenue-46m-daily-itweb], [2026-06-23-agencies-defy-ecitizen-order-1695-services-nation], [2025-04-20-mps-multi-billion-ecitizen-deal-cancelled-nation], [2025-04-01-court-halts-school-fees-ecitizen-nation], [2025-07-23-ecitizen-payments-not-reach-treasury-standard], [2026-03-10-hand-over-ecitizen-auditor-general-standard], [2026-03-27-ecitizen-heist-pesaflow-63b-standard]]
 ---
 
 # eCitizen (Kenya government digital-services platform)

@@ -9,7 +9,7 @@ entities: [[central-bank-of-egypt], [tpay], [ntra-egypt], [fra-egypt], [haweya],
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2026-02-17 Egypt financial inclusion reaches 77.6% (CBE, end-2025)]], [[raw/2026-02-01 Egypt CBE launches SoftPOS contactless payment-acceptance service]], [[raw/2025-12-11 tpay secures NTRA licence for direct mobile payments for government services]], [[raw/2026-02-08 Egypt FRA launches digital factoring portal]], [[2025-11-17-cbe-meeza-instapay-wallets-inclusion-pafix-ahram]], [[2026-03-04-instapay-16m-users-4-2tn-ahram]], [[2025-03-31-instapay-fees-introduced-april-2025-ahram]], [[2026-06-05-egypt-senate-proposal-45m-wallets-digital-payments-youm7]], [[2026-04-20-fawry-1bn-fintech-profile-techcabal]], [[2026-06-08-blnk-37m-raise-consumer-lending-techcabal]], [[2025-08-18-cbe-first-digital-bank-onebank-itweb]]]
+sources: [[2026-02-17 Egypt financial inclusion reaches 77.6% (CBE, end-2025)], [raw/2026-02-01 Egypt CBE launches SoftPOS contactless payment-acceptance service], [raw/2025-12-11 tpay secures NTRA licence for direct mobile payments for government services], [raw/2026-02-08 Egypt FRA launches digital factoring portal], [2025-11-17-cbe-meeza-instapay-wallets-inclusion-pafix-ahram], [2026-03-04-instapay-16m-users-4-2tn-ahram], [2025-03-31-instapay-fees-introduced-april-2025-ahram], [2026-06-05-egypt-senate-proposal-45m-wallets-digital-payments-youm7], [2026-04-20-fawry-1bn-fintech-profile-techcabal], [2026-06-08-blnk-37m-raise-consumer-lending-techcabal], [2025-08-18-cbe-first-digital-bank-onebank-itweb]]
 ---
 
 # Egypt × Digital Payments

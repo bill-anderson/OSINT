@@ -7,7 +7,7 @@ topics: [dpi.pay, gov.legislate, finance.new]
 lens: []
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2026-07-15-zeepay-licence-revocation-myjoy]]]
+sources: [[2026-07-15-zeepay-licence-revocation-myjoy]]
 ---
 
 # Zeepay (Ghana)

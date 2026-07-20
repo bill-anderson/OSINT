@@ -7,7 +7,7 @@ topics: [tech.ai, tech.innovate]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2025-10-28-libigpt-first-generative-ai-launched-libyaherald]]]
+sources: [[2025-10-28-libigpt-first-generative-ai-launched-libyaherald]]
 ---
 
 # LIBIGPT

@@ -7,7 +7,7 @@ topics: [capacity.training, tech.innovate, include.access]
 lens: []
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2026-06-17-ai-skills-development-programme-publiceye]]]
+sources: [[2026-06-17-ai-skills-development-programme-publiceye]]
 ---
 
 # Sebabatso Initiative

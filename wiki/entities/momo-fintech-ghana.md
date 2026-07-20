@@ -7,7 +7,7 @@ topics: [dpi.pay, finance.new, tech.industry]
 lens: []
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2026-04-03-mtn-momo-standalone-fintech-techcabal]]]
+sources: [[2026-04-03-mtn-momo-standalone-fintech-techcabal]]
 ---
 
 # MobileMoney Fintech Ltd (MTN Ghana MoMo)

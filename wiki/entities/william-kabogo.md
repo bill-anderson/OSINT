@@ -7,7 +7,7 @@ topics: [gov.policy, dpi.govtech, infra.cybersec]
 lens: []
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2026-04-25-kabogo-digital-economy-governance-standard]]]
+sources: [[2026-04-25-kabogo-digital-economy-governance-standard]]
 ---
 
 # William Kabogo Gitau

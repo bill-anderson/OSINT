@@ -7,7 +7,7 @@ topics: [dpi.pay, tech.innovate, tech.industry]
 lens: []
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2026-03-13-yassir-buys-uno-hypermarkets-super-app--wearetech]]]
+sources: [[2026-03-13-yassir-buys-uno-hypermarkets-super-app--wearetech]]
 ---
 
 # Yassir

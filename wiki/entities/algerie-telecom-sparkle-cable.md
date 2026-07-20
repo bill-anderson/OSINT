@@ -7,7 +7,7 @@ topics: [infra.connect, finance.mou, infra.store]
 lens: []
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2025-07-25-algerie-telecom-sparkle-subsea-cable--connectingafrica]]]
+sources: [[2025-07-25-algerie-telecom-sparkle-subsea-cable--connectingafrica]]
 ---
 
 # Algérie Télécom–Sparkle Italy–Algeria subsea cable (MoU)

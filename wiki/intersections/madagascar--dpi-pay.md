@@ -9,7 +9,7 @@ entities: [[mvola], [axian-telecom], [e-ariary], [ecurrency-mint], [airtel-madag
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2025-07-09-paysage-paiements-mobile-money-visa-newsmada]], [[2025-10-29-ecurrency-dsc3-eariary-cbdc-partner-prnewswire]], [[2025-11-26-axian-digibank-fintech-rebrand-techcabal]], [[2026-07-17-airtel-money-baobab-bank-partnership-techafricanews]]]
+sources: [[2025-07-09-paysage-paiements-mobile-money-visa-newsmada], [2025-10-29-ecurrency-dsc3-eariary-cbdc-partner-prnewswire], [2025-11-26-axian-digibank-fintech-rebrand-techcabal], [2026-07-17-airtel-money-baobab-bank-partnership-techafricanews]]
 ---
 
 # Madagascar × Digital Payments

@@ -7,7 +7,7 @@ topics: [dpi.pay, tech.industry, finance.new]
 lens: []
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2026-04-20-fawry-1bn-fintech-profile-techcabal]]]
+sources: [[2026-04-20-fawry-1bn-fintech-profile-techcabal]]
 ---
 
 # Fawry

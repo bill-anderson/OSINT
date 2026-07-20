@@ -7,7 +7,7 @@ topics: [infra.store, infra.energy, tech.ai, finance.new, geopol.usa]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2026-06-09-convalt-kobong-hydropower-ai-datacenter-techafricanews]], [[2026-06-30-lesotho-first-ai-data-center-connectingafrica]]]
+sources: [[2026-06-09-convalt-kobong-hydropower-ai-datacenter-techafricanews], [2026-06-30-lesotho-first-ai-data-center-connectingafrica]]
 ---
 
 # Project Kobong ($6.2bn Convalt hydropower + AI data centre)

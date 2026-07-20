@@ -7,7 +7,7 @@ topics: [gov.regional, gov.standards, tech.industry, geopol.eu, gov.legislate]
 lens: [sovereignty, colonialism]
 status: active
 last_reviewed: 2026-07-13
-sources: [[[2026-07-12 Algiers Declaration Africa's OTT Platform Rules]]]
+sources: [[2026-07-12 Algiers Declaration Africa's OTT Platform Rules]]
 ---
 
 # Algiers Declaration (on Fair, Safe and Responsible Digital Platforms in Africa)

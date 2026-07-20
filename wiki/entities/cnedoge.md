@@ -7,7 +7,7 @@ topics: [dpi.id, dpi.registry]
 lens: []
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2024-01-01 On the functioning of Equatorial Guinea's National Centre for the Issuance of Official Documents (CNEDOGE)]], [[2025-04-04 Government wants a rigorous control mechanism for issuing the literal (birth) certificate]], [[2024-03-15 The Executive invites parents to register children in the Civil Registry and adults over 18 to obtain the DIP]], [[2025-04-02-cnedoge-camara-diputados-tarifas-documentos-ahoraeg]], [[2026-06-12-cnedoge-nuevas-oficinas-citas-online-ahoraeg]], [[2025-06-17-reunion-africana-crvs-sipopo-reg]]]
+sources: [[2024-01-01 On the functioning of Equatorial Guinea's National Centre for the Issuance of Official Documents (CNEDOGE)], [2025-04-04 Government wants a rigorous control mechanism for issuing the literal (birth) certificate], [2024-03-15 The Executive invites parents to register children in the Civil Registry and adults over 18 to obtain the DIP], [2025-04-02-cnedoge-camara-diputados-tarifas-documentos-ahoraeg], [2026-06-12-cnedoge-nuevas-oficinas-citas-online-ahoraeg], [2025-06-17-reunion-africana-crvs-sipopo-reg]]
 ---
 
 # CNEDOGE (National Centre for the Issuance of Official Documents, Equatorial Guinea)

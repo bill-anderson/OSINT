@@ -7,7 +7,7 @@ topics: [gov.protect, tech.ai, dpi.id]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2025-09-11-en-hespress-morocco-responsible-ai-platform-deal]]]
+sources: [[2025-09-11-en-hespress-morocco-responsible-ai-platform-deal]]
 ---
 
 # CNDP (National Commission for the Control of Personal Data Protection, Morocco)

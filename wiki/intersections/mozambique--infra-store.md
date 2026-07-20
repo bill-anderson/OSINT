@@ -9,7 +9,7 @@ entities: [[intic-mozambique], [vodacom], [raxio-group], [digital-realty]]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2025-03-21-regulation-data-centres-cloud-includes-sanctions-clubofmozambique]], [[2025-03-29-pm-opens-vodacom-data-centre-clubofmozambique]], [[2025-12-04-build-local-data-centres-cloud-regulations-techafricanews]]]
+sources: [[2025-03-21-regulation-data-centres-cloud-includes-sanctions-clubofmozambique], [2025-03-29-pm-opens-vodacom-data-centre-clubofmozambique], [2025-12-04-build-local-data-centres-cloud-regulations-techafricanews]]
 ---
 
 # Mozambique × Data centres & cloud

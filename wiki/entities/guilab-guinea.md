@@ -7,7 +7,7 @@ topics: [infra.connect, infra.store, gov.regional]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2026-05-06-mediaguinee-medusa-africa-second-submarine-cable-cma]], [[2026-06-17-mediaguinee-via-africa-third-submarine-cable]], [[2025-07-10-mediaguinee-second-submarine-cable-workshop]]]
+sources: [[2026-05-06-mediaguinee-medusa-africa-second-submarine-cable-cma], [2026-06-17-mediaguinee-via-africa-third-submarine-cable], [2025-07-10-mediaguinee-second-submarine-cable-workshop]]
 ---
 
 # GUILAB (Guinéenne de Large Bande)

@@ -7,7 +7,7 @@ topics: [infra.store, tech.ai]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2026-04-13-techafricanews-morocco-nexus-ai-factory]]]
+sources: [[2026-04-13-techafricanews-morocco-nexus-ai-factory]]
 ---
 
 # Nexus Core Systems

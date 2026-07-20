@@ -7,7 +7,7 @@ topics: [infra.connect, digital.rural, include.divides]
 lens: []
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2026-03-11-rural-telephony-gifec-priority-graphic]]]
+sources: [[2026-03-11-rural-telephony-gifec-priority-graphic]]
 ---
 
 # GIFEC (Ghana Investment Fund for Electronic Communications)

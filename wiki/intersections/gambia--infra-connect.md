@@ -9,7 +9,7 @@ entities: [[gambia-starlink-licence], [qgroup-house-datacentre], [nims-gambia], 
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2025-07-10-govt-due-diligence-us-pressure-starlink-standard]], [[2026-02-16-expert-data-sovereignty-conditions-starlink-standard]], [[2026-02-26-satellite-internet-debate-connectivity-strategy-thepoint]], [[2026-03-03-starlink-gambia-transparency-trust-delay-standard]], [[2026-05-18-starlink-gambia-future-economic-fear-thepoint]], [[2026-04-30-barrow-qgroup-house-first-data-centre-thepoint]], [[2026-04-30-qgroup-house-opens-standard]]]
+sources: [[2025-07-10-govt-due-diligence-us-pressure-starlink-standard], [2026-02-16-expert-data-sovereignty-conditions-starlink-standard], [2026-02-26-satellite-internet-debate-connectivity-strategy-thepoint], [2026-03-03-starlink-gambia-transparency-trust-delay-standard], [2026-05-18-starlink-gambia-future-economic-fear-thepoint], [2026-04-30-barrow-qgroup-house-first-data-centre-thepoint], [2026-04-30-qgroup-house-opens-standard]]
 ---
 
 # The Gambia × Connectivity, data centres & satellite sovereignty

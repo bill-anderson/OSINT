@@ -9,7 +9,7 @@ entities: [[digital-x0-law], [cndp-morocco], [jazari-institutes], [digital-moroc
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2025-01-09-hespress-morocco-ai-legislative-initiative]], [[2025-11-04-wearetech-morocco-landmark-law-ai-data-identity]], [[2025-09-11-en-hespress-morocco-responsible-ai-platform-deal]], [[2026-03-11-techafricanews-ai-made-in-morocco-industry-x0]], [[2025-02-20-en-hespress-morocco-ai-healthcare-cybersecurity]], [[2026-06-05-techafricanews-morocco-orange-ai-partnership]], [[2026-04-09-techafricanews-orange-maroc-technopark-ai]]]
+sources: [[2025-01-09-hespress-morocco-ai-legislative-initiative], [2025-11-04-wearetech-morocco-landmark-law-ai-data-identity], [2025-09-11-en-hespress-morocco-responsible-ai-platform-deal], [2026-03-11-techafricanews-ai-made-in-morocco-industry-x0], [2025-02-20-en-hespress-morocco-ai-healthcare-cybersecurity], [2026-06-05-techafricanews-morocco-orange-ai-partnership], [2026-04-09-techafricanews-orange-maroc-technopark-ai]]
 ---
 
 # Morocco × AI

@@ -7,7 +7,7 @@ topics: [infra.connect, infra.energy, include.access, dpi.id]
 lens: []
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2026-06-24-madagascar-worldbank-review-543m-prodigy-decim-ecofin]], [[2026-07-06-last-mile-civil-registration-biometricupdate]]]
+sources: [[2026-06-24-madagascar-worldbank-review-543m-prodigy-decim-ecofin], [2026-07-06-last-mile-civil-registration-biometricupdate]]
 ---
 
 # DECIM (Digital and Energy Connectivity for Inclusion in Madagascar)

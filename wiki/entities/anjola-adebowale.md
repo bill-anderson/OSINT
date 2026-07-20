@@ -7,7 +7,7 @@ topics: [tech.ai, gov.policy, dpi.pay, dpi.id, infra.store]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-12
-sources: [[2026-06-12 Beyond the AI Stack Why Governments Need Dynamic Digital Infrastructure]], [[2026-06-05 Microsoft Build 2026 What Caught My Attention and What It Means for Africa]], [[2026-06-01 Africa's Place in the AI Sovereignty Debate]], [[2026-07-01 Strategy Ahead of Infrastructure, Part I Inside the CBN's June 2026 Payments Circular]], [[2026-06-19 Strategy Ahead of Infrastructure, Part II The Opportunity and the Case for Sequencing]]
+sources: [[2026-06-12 Beyond the AI Stack Why Governments Need Dynamic Digital Infrastructure], [2026-06-05 Microsoft Build 2026 What Caught My Attention and What It Means for Africa], [2026-06-01 Africa's Place in the AI Sovereignty Debate], [2026-07-01 Strategy Ahead of Infrastructure, Part I Inside the CBN's June 2026 Payments Circular], [2026-06-19 Strategy Ahead of Infrastructure, Part II The Opportunity and the Case for Sequencing]]
 ---
 
 # Anjola Adebowale

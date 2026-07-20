@@ -9,7 +9,7 @@ entities: [[gitge-gnq], [getesa-gnq], [telgesa-gnq], [gnq-medusa-cable], [huawei
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2025-02-21-starlink-implantarse-conectividad-reg]], [[2025-06-04-reforma-ley-telecomunicaciones-licitacion-ahoraeg]], [[2025-11-13-gabon-guinea-ecuatorial-fibra-roaming-frecuencias-techafricanews]], [[2026-04-03-estudio-cable-submarino-medusa-analysys-mason-reg]], [[2026-05-06-gitge-anfitrion-consorcio-ace-reg]], [[2026-05-25-getesa-modernizacion-5g-wifi-getesa-money-reg]], [[2026-06-05-cables-submarinos-africa-medusa-via-africa-larazon]], [[2026-07-10-getesa-huawei-alianza-red-reg]], [[2026-07-15-huawei-rescatar-getesa-telgesa-radiomacuto]]]
+sources: [[2025-02-21-starlink-implantarse-conectividad-reg], [2025-06-04-reforma-ley-telecomunicaciones-licitacion-ahoraeg], [2025-11-13-gabon-guinea-ecuatorial-fibra-roaming-frecuencias-techafricanews], [2026-04-03-estudio-cable-submarino-medusa-analysys-mason-reg], [2026-05-06-gitge-anfitrion-consorcio-ace-reg], [2026-05-25-getesa-modernizacion-5g-wifi-getesa-money-reg], [2026-06-05-cables-submarinos-africa-medusa-via-africa-larazon], [2026-07-10-getesa-huawei-alianza-red-reg], [2026-07-15-huawei-rescatar-getesa-telgesa-radiomacuto]]
 ---
 
 # Equatorial Guinea × Connectivity, cables & telecom

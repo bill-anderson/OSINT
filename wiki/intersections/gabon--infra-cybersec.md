@@ -9,7 +9,7 @@ entities: [[aninf-gabon], [st-digital-gabon], [apdpvp-gabon]]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2025-06-01-gabon-aninf-secbom-cybersecurity]], [[2025-08-26-gabon-cybercrime-interpol-recovery]], [[2025-11-20-gabon-2nd-cybersecurity-forum]], [[2026-01-25-gabon-cybersecurity-ai-soft-power-hub]], [[2026-05-10-gabon-cnamgs-aninf-mou]], [[2026-06-23-gabon-aninf-mitre-cybersecurity]]]
+sources: [[2025-06-01-gabon-aninf-secbom-cybersecurity], [2025-08-26-gabon-cybercrime-interpol-recovery], [2025-11-20-gabon-2nd-cybersecurity-forum], [2026-01-25-gabon-cybersecurity-ai-soft-power-hub], [2026-05-10-gabon-cnamgs-aninf-mou], [2026-06-23-gabon-aninf-mitre-cybersecurity]]
 ---
 
 # Gabon × Cybersecurity, AI & digital sovereignty

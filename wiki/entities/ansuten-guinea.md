@@ -7,7 +7,7 @@ topics: [infra.connect, include.divides, include.access, digital.localgov]
 lens: []
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2025-07-22-mediaguinee-ansuten-rural-coverage-2030]], [[2025-02-09-aminata-hub-numerique-nzerekore]]]
+sources: [[2025-07-22-mediaguinee-ansuten-rural-coverage-2030], [2025-02-09-aminata-hub-numerique-nzerekore]]
 ---
 
 # ANSUTEN (Agence Nationale du Service Universel des Télécommunications et du Numérique)

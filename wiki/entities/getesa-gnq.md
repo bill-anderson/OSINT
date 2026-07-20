@@ -7,7 +7,7 @@ topics: [infra.connect, dpi.pay, tech.industry, geopol.china]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2026-05-25-getesa-modernizacion-5g-wifi-getesa-money-reg]], [[2026-07-10-getesa-huawei-alianza-red-reg]], [[2026-07-15-huawei-rescatar-getesa-telgesa-radiomacuto]]]
+sources: [[2026-05-25-getesa-modernizacion-5g-wifi-getesa-money-reg], [2026-07-10-getesa-huawei-alianza-red-reg], [2026-07-15-huawei-rescatar-getesa-telgesa-radiomacuto]]
 ---
 
 # GETESA (Equatorial Guinea state telecom operator)

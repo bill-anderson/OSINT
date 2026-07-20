@@ -6,7 +6,7 @@ places: [XGL, CIV, AGO, MDG]
 topics: [infra.connect, data.satellite]
 status: active
 last_reviewed: 2026-07-17
-sources: [[2026-01-22 Orange Côte d'Ivoire intros satellite broadband]], [[2026-01-21 Orange Côte d'Ivoire Launches Orange Sat Satellite Internet to Boost Nationwide Connectivity]], [[2025-06-30-eutelsat-secures-15-year-oneweb-licence-in-angola]], [[2026-06-12-mercury-eutelsat-acordo-conectividade-leo]]
+sources: [[2026-01-22 Orange Côte d'Ivoire intros satellite broadband], [2026-01-21 Orange Côte d'Ivoire Launches Orange Sat Satellite Internet to Boost Nationwide Connectivity], [2025-06-30-eutelsat-secures-15-year-oneweb-licence-in-angola], [2026-06-12-mercury-eutelsat-acordo-conectividade-leo]]
 ---
 
 # Eutelsat

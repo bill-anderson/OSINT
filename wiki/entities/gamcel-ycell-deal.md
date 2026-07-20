@@ -7,7 +7,7 @@ topics: [tech.industry, finance.new, infra.connect]
 lens: []
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2025-12-11-govt-sell-80pc-gamcel-d6bn-ycell-standard]], [[2026-07-10-gamtel-ycell-share-investment-modernization-thepoint]], [[2026-07-14-gamtel-ycell-network-modernization-techafricanews]]]
+sources: [[2025-12-11-govt-sell-80pc-gamcel-d6bn-ycell-standard], [2026-07-10-gamtel-ycell-share-investment-modernization-thepoint], [2026-07-14-gamtel-ycell-network-modernization-techafricanews]]
 ---
 
 # YCELL acquisition of 80% of GAMCEL

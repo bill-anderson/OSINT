@@ -9,7 +9,7 @@ entities: [[dcrnpi-south-sudan]]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-19
-sources: [[2024-11-21 Over 17,400 South Sudanese receive national identity cards thanks to UNHCR and the EU]], [[2026-01-16 Juba - Passport, ID card issuance resumes]], [[2025-12-15 Strengthening Civil Registration and Ending Statelessness in South Sudan]], [[2025-01-01 Policy and Legal in South Sudan (civil registry and identity framework)]], [[2026-01-16-15m-biometric-drive-dpi-ghost-workers-onecitizendaily]], [[2026-06-24-biometric-registration-organised-forces-onecitizendaily]], [[2026-05-08-govt-procures-5-machine-systems-id-passport-onecitizendaily]], [[2026-07-13-national-id-cards-collection-greater-yei-onecitizendaily]], [[2025-06-18-digital-land-register-fraud-onecitizendaily]]
+sources: [[2024-11-21 Over 17,400 South Sudanese receive national identity cards thanks to UNHCR and the EU], [2026-01-16 Juba - Passport, ID card issuance resumes], [2025-12-15 Strengthening Civil Registration and Ending Statelessness in South Sudan], [2025-01-01 Policy and Legal in South Sudan (civil registry and identity framework)], [2026-01-16-15m-biometric-drive-dpi-ghost-workers-onecitizendaily], [2026-06-24-biometric-registration-organised-forces-onecitizendaily], [2026-05-08-govt-procures-5-machine-systems-id-passport-onecitizendaily], [2026-07-13-national-id-cards-collection-greater-yei-onecitizendaily], [2025-06-18-digital-land-register-fraud-onecitizendaily]]
 ---
 
 # Digital identity and CRVS in South Sudan

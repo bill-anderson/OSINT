@@ -9,7 +9,7 @@ entities: [[safaricom], [communications-authority-of-kenya], [starlink], [meta-d
 lens: []
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2025-01-25-isps-starlink-doubles-market-share-standard]], [[2025-05-08-bayobab-uganda-kenya-fiber-connectingafrica]], [[2025-10-30-meta-safaricom-daraja-subsea-cable-telecomreviewafrica]], [[2025-11-05-kenya-fiber-wifi-ppp-ngcaba-telecomreviewafrica]], [[2026-01-20-kirinyaga-county-fiber-ogn-telecomreviewafrica]], [[2026-03-09-ericsson-safaricom-5g-transport-telecomreviewafrica]], [[2026-05-06-safaricom-huawei-ftr-telecomreviewafrica]], [[2026-05-18-safaricom-25-year-licence-itweb]], [[2026-06-20-smartphones-hit-50m-basic-ditched-nation]], [[2026-06-24-safaricom-broadband-leadership-starlink-telecomreviewafrica]], [[2026-07-10-linx-kenya-peering-network-itweb]]]
+sources: [[2025-01-25-isps-starlink-doubles-market-share-standard], [2025-05-08-bayobab-uganda-kenya-fiber-connectingafrica], [2025-10-30-meta-safaricom-daraja-subsea-cable-telecomreviewafrica], [2025-11-05-kenya-fiber-wifi-ppp-ngcaba-telecomreviewafrica], [2026-01-20-kirinyaga-county-fiber-ogn-telecomreviewafrica], [2026-03-09-ericsson-safaricom-5g-transport-telecomreviewafrica], [2026-05-06-safaricom-huawei-ftr-telecomreviewafrica], [2026-05-18-safaricom-25-year-licence-itweb], [2026-06-20-smartphones-hit-50m-basic-ditched-nation], [2026-06-24-safaricom-broadband-leadership-starlink-telecomreviewafrica], [2026-07-10-linx-kenya-peering-network-itweb]]
 ---
 
 # Kenya × Connectivity

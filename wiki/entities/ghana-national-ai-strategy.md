@@ -6,7 +6,7 @@ places: [GHA]
 topics: [tech.ai, gov.policy, gov.standards, finance.new]
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2026-04-03 Ghana approves $250M AI Hub & National AI Strategy]], [[2026-03-05 Ghana strikes AI training deal with Chinese multinational amid $250m tech investment push]], [[2026-05-04 The World's Most Needed AI Governance Framework Doesn't Exist Yet. Africa Should Build It]], [[2026-04-24-mahama-unveils-10-year-ai-strategy-myjoy]], [[2026-04-25-president-unveils-270m-national-ai-strategy-graphic]], [[2026-02-28-ai-strategy-knust-leadership-myjoy]], [[2025-01-31-ghana-africa-ai-hub-4-years-graphic]]]
+sources: [[2026-04-03 Ghana approves $250M AI Hub & National AI Strategy], [2026-03-05 Ghana strikes AI training deal with Chinese multinational amid $250m tech investment push], [2026-05-04 The World's Most Needed AI Governance Framework Doesn't Exist Yet. Africa Should Build It], [2026-04-24-mahama-unveils-10-year-ai-strategy-myjoy], [2026-04-25-president-unveils-270m-national-ai-strategy-graphic], [2026-02-28-ai-strategy-knust-leadership-myjoy], [2025-01-31-ghana-africa-ai-hub-4-years-graphic]]
 ---
 
 # Ghana National AI Strategy (2023–2033)

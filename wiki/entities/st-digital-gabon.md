@@ -7,7 +7,7 @@ topics: [infra.store, infra.cybersec, tech.ai, tech.innovate, finance.mou]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2026-07-06 Gabon Inaugurates First Tier III Datacenter to Boost Digital Sovereignty]], [[2026-06-02 SIN, ST Digital to deploy cloud services at Lomé data center]], [[2025-02-14-gabon-st-digital-nkok-datacenter-announced]], [[2025-07-16-gabon-aninf-st-digital-mou]], [[2026-07-07-gabon-datacenter-inauguration-figures]]]
+sources: [[2026-07-06 Gabon Inaugurates First Tier III Datacenter to Boost Digital Sovereignty], [2026-06-02 SIN, ST Digital to deploy cloud services at Lomé data center], [2025-02-14-gabon-st-digital-nkok-datacenter-announced], [2025-07-16-gabon-aninf-st-digital-mou], [2026-07-07-gabon-datacenter-inauguration-figures]]
 ---
 
 # ST DIGITAL GABON

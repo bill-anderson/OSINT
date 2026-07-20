@@ -6,7 +6,7 @@ places: [CIV]
 topics: [infra.connect, digital.rural, data.satellite, include.access]
 status: active
 last_reviewed: 2026-07-11
-sources: [[2026-01-22 Orange Côte d'Ivoire intros satellite broadband]], [[2026-01-21 Orange Côte d'Ivoire Launches Orange Sat Satellite Internet to Boost Nationwide Connectivity]]
+sources: [[2026-01-22 Orange Côte d'Ivoire intros satellite broadband], [2026-01-21 Orange Côte d'Ivoire Launches Orange Sat Satellite Internet to Boost Nationwide Connectivity]]
 ---
 
 # Orange Sat (Côte d'Ivoire satellite internet)

@@ -9,7 +9,7 @@ entities: [[lptic], [almadar-aljadid], [gaci-libya], [trans-saharan-fibre-backbo
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2025-05-12-medusa-submarine-cable-inaugurated-misrata-libyaherald]], [[2026-01-25-lptic-kbr-mou-5g-infrastructure-libyaherald]], [[2026-01-29-almadar-launches-first-5g-tripoli-libyaherald]], [[2026-07-16-libya-nokia-5g-cooperation-alwasat]], [[2026-04-22-gaci-ipv6-transition-libyaherald]], [[2026-05-30-ghat-tahala-fibre-cut-restored-alwasat]]]
+sources: [[2025-05-12-medusa-submarine-cable-inaugurated-misrata-libyaherald], [2026-01-25-lptic-kbr-mou-5g-infrastructure-libyaherald], [2026-01-29-almadar-launches-first-5g-tripoli-libyaherald], [2026-07-16-libya-nokia-5g-cooperation-alwasat], [2026-04-22-gaci-ipv6-transition-libyaherald], [2026-05-30-ghat-tahala-fibre-cut-restored-alwasat]]
 ---
 
 # Libya × Connectivity

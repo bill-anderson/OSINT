@@ -7,7 +7,7 @@ topics: [infra.store, tech.ai, finance.new]
 lens: []
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2026-06-16-hassan-allam-400m-data-centre-license-wearetech]]]
+sources: [[2026-06-16-hassan-allam-400m-data-centre-license-wearetech]]
 ---
 
 # Hassan Allam Digital Infrastructure data-centre licence

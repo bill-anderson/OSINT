@@ -7,7 +7,7 @@ topics: [infra.energy, infra.store, tech.ai]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2026-06-09-convalt-kobong-hydropower-ai-datacenter-techafricanews]], [[2026-06-30-lesotho-first-ai-data-center-connectingafrica]]]
+sources: [[2026-06-09-convalt-kobong-hydropower-ai-datacenter-techafricanews], [2026-06-30-lesotho-first-ai-data-center-connectingafrica]]
 ---
 
 # Convalt Energy

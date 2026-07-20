@@ -7,7 +7,7 @@ topics: [tech.innovate, finance.new, gov.policy]
 lens: []
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2025-12-19-egypt-startup-ecosystem-2025-charter-techcabal]]]
+sources: [[2025-12-19-egypt-startup-ecosystem-2025-charter-techcabal]]
 ---
 
 # Egypt Startup Charter

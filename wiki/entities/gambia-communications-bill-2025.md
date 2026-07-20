@@ -7,7 +7,7 @@ topics: [gov.legislate, gov.protect, infra.cybersec, tech.industry]
 lens: []
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2026-03-03-lawmakers-back-communications-bill-2025-standard]]]
+sources: [[2026-03-03-lawmakers-back-communications-bill-2025-standard]]
 ---
 
 # Gambia Communications Bill 2025

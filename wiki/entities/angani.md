@@ -7,7 +7,7 @@ topics: [infra.store, infra.connect, tech.ai]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2026-07-10-linx-kenya-peering-network-itweb]]]
+sources: [[2026-07-10-linx-kenya-peering-network-itweb]]
 ---
 
 # Angani Ltd

@@ -7,7 +7,7 @@ topics: [gov.protect, gov.legislate]
 lens: [sovereignty]
 status: stub
 last_reviewed: 2026-07-18
-sources: [[[2025-02-25-gouvernance-numerique-donnees-personnelles-cmil-lexpress]]]
+sources: [[2025-02-25-gouvernance-numerique-donnees-personnelles-cmil-lexpress]]
 ---
 
 # CMIL (Commission Malagasy de l'Informatique et des Libertés)

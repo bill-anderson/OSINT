@@ -7,7 +7,7 @@ topics: [dpi.govtech, dpi.mis, gov.policy]
 lens: []
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2026-02-20-sigf-activa-funcion-publica-18-meses-reg]], [[2026-03-04-sigf-comite-pilotaje-m2m-ahoraeg]]]
+sources: [[2026-02-20-sigf-activa-funcion-publica-18-meses-reg], [2026-03-04-sigf-comite-pilotaje-m2m-ahoraeg]]
 ---
 
 # SIGF (Sistema Integral de Gestión de Funcionarios)

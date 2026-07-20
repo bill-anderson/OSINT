@@ -7,7 +7,7 @@ topics: [dpi.id, dpi.registry]
 lens: []
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2025-05-16-madagascar-selects-in-groupe-8-5m-digital-id-biometricupdate]], [[2026-04-21-madagascar-biometric-enrollment-laxton-biometricupdate]]]
+sources: [[2025-05-16-madagascar-selects-in-groupe-8-5m-digital-id-biometricupdate], [2026-04-21-madagascar-biometric-enrollment-laxton-biometricupdate]]
 ---
 
 # Laxton

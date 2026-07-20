@@ -7,7 +7,7 @@ topics: [infra.connect, tech.ai, tech.industry]
 lens: []
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2025-12-08-mobilis-djezzy-ooredoo-492m-5g-rollout--itweb]], [[2026-03-03-qvantel-djezzy-managed-services-hub--telecomreviewafrica]], [[2026-03-04-djezzy-nationwide-5g-18-states--techafricanews]], [[2026-04-22-djezzy-inatel-strategic-partnership--techafricanews]], [[2026-04-30-djezzy-aventurecloudz-ai-platform--techafricanews]]]
+sources: [[2025-12-08-mobilis-djezzy-ooredoo-492m-5g-rollout--itweb], [2026-03-03-qvantel-djezzy-managed-services-hub--telecomreviewafrica], [2026-03-04-djezzy-nationwide-5g-18-states--techafricanews], [2026-04-22-djezzy-inatel-strategic-partnership--techafricanews], [2026-04-30-djezzy-aventurecloudz-ai-platform--techafricanews]]
 ---
 
 # Djezzy (Optimum Télécom Algérie)

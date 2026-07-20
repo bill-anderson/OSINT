@@ -7,7 +7,7 @@ topics: [dpi.pay, include.access, finance.new]
 lens: []
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2026-04-01-mediaguinee-bgb-solutions-ks-wallet-emoney]]]
+sources: [[2026-04-01-mediaguinee-bgb-solutions-ks-wallet-emoney]]
 ---
 
 # KS-Wallet (BGB Solutions)

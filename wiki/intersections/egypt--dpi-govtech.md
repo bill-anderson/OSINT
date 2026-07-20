@@ -9,7 +9,7 @@ entities: [[digital-egypt], [mcit-egypt], [egypt-property-id-law]]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2025-11-13 Egypt to shift public services to the Digital Egypt platform]], [[raw/2025-12-18 Egypt targets full government automation and digital ID verification by 2026]], [[raw/2024-09-30 5 facts about Digital Public Infrastructure (UNDP Egypt)]], [[raw/2025-07-14 Between Ambition and Implementation - Egypt's e-government experience (Masaar)]], [[raw/2025-05-14 Egypt approves Property ID Law to digitise real estate]], [[2026-01-02-digital-egypt-210-services-10-7m-users-ahram]], [[2025-12-21-egypt-world-bank-gtmi-22nd-group-a-ahram]], [[2026-06-11-digital-egypt-25m-transactions-indices-youm7]], [[2026-02-02-gafi-investment-licensing-platform-460-services-ahram]], [[2026-06-20-egypt-50-new-services-270-target-2026-ahram]], [[2026-06-14-egypt-unified-government-services-card-ahram]]]
+sources: [[2025-11-13 Egypt to shift public services to the Digital Egypt platform], [raw/2025-12-18 Egypt targets full government automation and digital ID verification by 2026], [raw/2024-09-30 5 facts about Digital Public Infrastructure (UNDP Egypt)], [raw/2025-07-14 Between Ambition and Implementation - Egypt's e-government experience (Masaar)], [raw/2025-05-14 Egypt approves Property ID Law to digitise real estate], [2026-01-02-digital-egypt-210-services-10-7m-users-ahram], [2025-12-21-egypt-world-bank-gtmi-22nd-group-a-ahram], [2026-06-11-digital-egypt-25m-transactions-indices-youm7], [2026-02-02-gafi-investment-licensing-platform-460-services-ahram], [2026-06-20-egypt-50-new-services-270-target-2026-ahram], [2026-06-14-egypt-unified-government-services-card-ahram]]
 ---
 
 # Egypt × GovTech / e-Government

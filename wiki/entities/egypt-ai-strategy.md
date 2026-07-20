@@ -7,7 +7,7 @@ topics: [tech.ai, gov.policy, infra.cybersec]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2026-06-10-egypt-ai-national-security-strategy-karnak-ahram]], [[2026-07-05-egypt-cabinet-giant-data-centres-ai-youm7]]]
+sources: [[2026-06-10-egypt-ai-national-security-strategy-karnak-ahram], [2026-07-05-egypt-cabinet-giant-data-centres-ai-youm7]]
 ---
 
 # Egypt National AI Strategy (2nd edition, 2025)

@@ -9,7 +9,7 @@ entities: [[central-bank-of-libya], [gaci-libya]]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2026-07-16-parliament-national-security-cybersecurity-law-alwasat]], [[2026-06-24-cbl-cyber-incident-alwasat]], [[2025-04-06-interior-cybercrime-cases-q1-2025-alwasat]]]
+sources: [[2026-07-16-parliament-national-security-cybersecurity-law-alwasat], [2026-06-24-cbl-cyber-incident-alwasat], [2025-04-06-interior-cybercrime-cases-q1-2025-alwasat]]
 ---
 
 # Libya × Cybersecurity

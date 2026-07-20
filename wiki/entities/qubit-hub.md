@@ -7,7 +7,7 @@ topics: [tech.ai, infra.store, tech.innovate]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2026-05-25-qhala-amini-angani-ixafrica-ai-hub-techafricanews]]]
+sources: [[2026-05-25-qhala-amini-angani-ixafrica-ai-hub-techafricanews]]
 ---
 
 # Qubit Hub (Kenya AI research/innovation lab)

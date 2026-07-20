@@ -7,7 +7,7 @@ topics: [dpi.id, dpi.pay, gov.standards, tech.industry]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-16
-sources: [[2026-01-28 Margins ID Group emerges as Africa's leading provider of certified digital identity solutions]], [[2026-01-20 Margins takes Ghana's ID success to The Gambia]], [[2025-08-11 DR Congo may partner with Ghana's Margins Group for national ID cards]], [[2025-04-15 Ghana's SIM Registration Goes Fully Online from June 2025]]
+sources: [[2026-01-28 Margins ID Group emerges as Africa's leading provider of certified digital identity solutions], [2026-01-20 Margins takes Ghana's ID success to The Gambia], [2025-08-11 DR Congo may partner with Ghana's Margins Group for national ID cards], [2025-04-15 Ghana's SIM Registration Goes Fully Online from June 2025]]
 ---
 
 # Margins ID Group

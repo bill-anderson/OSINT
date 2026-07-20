@@ -9,7 +9,7 @@ entities: [[prodigy-madagascar], [oni-madagascar], [ugd-madagascar], [in-groupe]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2025-05-16-madagascar-selects-in-groupe-8-5m-digital-id-biometricupdate]], [[2025-12-22-prodigy-tenders-data-center-biometricupdate]], [[2026-01-22-modernisation-etat-civil-reci-biometrique-midi]], [[2026-01-24-reforme-enrolement-biometrique-lexpress]], [[2026-03-16-etat-civil-enrolement-biometrique-national-lexpress]], [[2026-04-21-madagascar-biometric-enrollment-laxton-biometricupdate]], [[2026-05-08-studia-ai-digitisation-civil-records-intelligentcio]], [[2026-06-05-madagascar-2-6m-digital-id-enrollments-biometricupdate]], [[2026-06-24-population-enregistrement-biometrique-5m-lexpress]], [[2026-06-24-madagascar-worldbank-review-543m-prodigy-decim-ecofin]], [[2026-07-01-no-longer-invisible-legal-identity-worldbank]], [[2026-07-06-last-mile-civil-registration-biometricupdate]]]
+sources: [[2025-05-16-madagascar-selects-in-groupe-8-5m-digital-id-biometricupdate], [2025-12-22-prodigy-tenders-data-center-biometricupdate], [2026-01-22-modernisation-etat-civil-reci-biometrique-midi], [2026-01-24-reforme-enrolement-biometrique-lexpress], [2026-03-16-etat-civil-enrolement-biometrique-national-lexpress], [2026-04-21-madagascar-biometric-enrollment-laxton-biometricupdate], [2026-05-08-studia-ai-digitisation-civil-records-intelligentcio], [2026-06-05-madagascar-2-6m-digital-id-enrollments-biometricupdate], [2026-06-24-population-enregistrement-biometrique-5m-lexpress], [2026-06-24-madagascar-worldbank-review-543m-prodigy-decim-ecofin], [2026-07-01-no-longer-invisible-legal-identity-worldbank], [2026-07-06-last-mile-civil-registration-biometricupdate]]
 ---
 
 # Madagascar × Digital Identity & Civil Registry

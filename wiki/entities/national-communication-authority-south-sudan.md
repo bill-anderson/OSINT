@@ -6,7 +6,7 @@ places: [SSD]
 topics: [infra.connect, infra.store, gov.legislate, gov.protect]
 status: active
 last_reviewed: 2026-07-16
-sources: [[2026-01-17 South Sudan NCA establishes gateway services and data centre oversight committee]], [[2025-10-17 Paradigm Initiative partners with Koneta Hub on data protection law in South Sudan]]
+sources: [[2026-01-17 South Sudan NCA establishes gateway services and data centre oversight committee], [2025-10-17 Paradigm Initiative partners with Koneta Hub on data protection law in South Sudan]]
 lens: [sovereignty]
 ---
 

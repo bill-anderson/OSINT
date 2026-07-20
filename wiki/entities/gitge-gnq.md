@@ -7,7 +7,7 @@ topics: [infra.connect, infra.store, dpi.govtech]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2026-05-06-gitge-anfitrion-consorcio-ace-reg]], [[2026-07-02-estudio-gitge-brecha-transformacion-digital-ministerios-ecofinge]]]
+sources: [[2026-05-06-gitge-anfitrion-consorcio-ace-reg], [2026-07-02-estudio-gitge-brecha-transformacion-digital-ministerios-ecofinge]]
 ---
 
 # GITGE (Gestor de Infraestructuras de Telecomunicaciones de Guinea Ecuatorial)

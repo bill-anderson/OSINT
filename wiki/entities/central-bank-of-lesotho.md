@@ -7,7 +7,7 @@ topics: [dpi.pay, gov.legislate, include.access]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2025-05-14-leswitch-pos-financial-inclusion-lestimes]]]
+sources: [[2025-05-14-leswitch-pos-financial-inclusion-lestimes]]
 ---
 
 # Central Bank of Lesotho (CBL)

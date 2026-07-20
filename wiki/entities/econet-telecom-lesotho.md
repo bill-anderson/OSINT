@@ -7,12 +7,12 @@ topics: [infra.connect, dpi.pay, tech.ai]
 lens: []
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2025-06-20-econet-5g-network-upgrade-techafricanews]], [[2025-05-21-econet-ran-network-upgrade-lestimes]], [[2025-07-11-econet-wifi-plus-fmc-lestimes]], [[2025-03-11-starlink-opposition-section2-connectingafrica]]]
+sources: [[2025-06-20-econet-5g-network-upgrade-techafricanews], [2025-05-21-econet-ran-network-upgrade-lestimes], [2025-07-11-econet-wifi-plus-fmc-lestimes], [2025-03-11-starlink-opposition-section2-connectingafrica]]
 ---
 
 # Econet Telecom Lesotho (ETL)
 
-A Lesotho **mobile network operator** — **70% [[econet-group|Econet Wireless]] Global, 30% Government
+A Lesotho **mobile network operator** — **70% [[econet-wireless|Econet Wireless]] Global, 30% Government
 of Lesotho** (a local-ownership precedent cited in the Starlink debate). Operates the **EcoCash** mobile-
 money platform. CEO Dennis Plaatjies. See [[infra.connect]], [[lesotho--infra-connect]].
 
@@ -34,4 +34,4 @@ money platform. CEO Dennis Plaatjies. See [[infra.connect]], [[lesotho--infra-co
 
 ## Related
 
-- [[LSO]] · [[infra.connect]] · [[dpi.pay]] · [[econet-group]] · [[ecocash]] · [[lesotho--infra-connect]] · [[lesotho--dpi-pay]]
+- [[LSO]] · [[infra.connect]] · [[dpi.pay]] · [[econet-wireless]] · [[ecocash]] · [[lesotho--infra-connect]] · [[lesotho--dpi-pay]]

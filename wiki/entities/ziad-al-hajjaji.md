@@ -7,7 +7,7 @@ topics: [tech.ai, gov.policy, gov.regional]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2026-07-13-libya-geneva-digital-sovereignty-financing-alwasat]]]
+sources: [[2026-07-13-libya-geneva-digital-sovereignty-financing-alwasat]]
 ---
 
 # Ziad al-Hajjaji

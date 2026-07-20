@@ -7,7 +7,7 @@ topics: [infra.connect, gov.regional]
 lens: []
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2025-05-08-bayobab-uganda-kenya-fiber-connectingafrica]]]
+sources: [[2025-05-08-bayobab-uganda-kenya-fiber-connectingafrica]]
 ---
 
 # Bayobab

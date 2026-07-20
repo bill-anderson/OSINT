@@ -6,7 +6,7 @@ places: [SSD]
 topics: [dpi.pay, dpi.exchange]
 status: active
 last_reviewed: 2026-07-16
-sources: [[2026-01-30 Can a digital economy exist in South Sudan without reliable DPI]], [[2025-02-07 South Sudan launches first national instant payment system (NIPS)]], [[2026-01-20 What is actually functioning as DPI in South Sudan]]
+sources: [[2026-01-30 Can a digital economy exist in South Sudan without reliable DPI], [2025-02-07 South Sudan launches first national instant payment system (NIPS)], [2026-01-20 What is actually functioning as DPI in South Sudan]]
 ---
 
 # Bank of South Sudan

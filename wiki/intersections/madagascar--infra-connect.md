@@ -9,7 +9,7 @@ entities: [[decim-madagascar], [starlink], [airtel-madagascar], [eutelsat], [axi
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2025-03-20-starlink-decim-dix-zones-enclavees-2424]], [[2025-04-11-eib-100m-axian-telecom-4g-5g-techafricanews]], [[2025-09-10-dare1-cable-extension-madagascar-2424]], [[2025-12-02-connectivite-baisse-tarifs-internet-lexpress]], [[2025-12-05-orange-fibre-tana-mahajanga-2424]], [[2026-05-19-starlink-direct-to-cell-fcc-airtel-spaceinafrica]], [[2026-06-01-airtel-eutelsat-rural-broadband-techafricanews]], [[2026-07-15-direct-to-cell-satellite-trial-telecomreviewafrica]]]
+sources: [[2025-03-20-starlink-decim-dix-zones-enclavees-2424], [2025-04-11-eib-100m-axian-telecom-4g-5g-techafricanews], [2025-09-10-dare1-cable-extension-madagascar-2424], [2025-12-02-connectivite-baisse-tarifs-internet-lexpress], [2025-12-05-orange-fibre-tana-mahajanga-2424], [2026-05-19-starlink-direct-to-cell-fcc-airtel-spaceinafrica], [2026-06-01-airtel-eutelsat-rural-broadband-techafricanews], [2026-07-15-direct-to-cell-satellite-trial-telecomreviewafrica]]
 ---
 
 # Madagascar × Connectivity

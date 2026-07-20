@@ -7,7 +7,7 @@ topics: [infra.store, tech.ai, gov.policy]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2026-03-27-zeede-djibloho-zona-economica-digital-reg]]]
+sources: [[2026-03-27-zeede-djibloho-zona-economica-digital-reg]]
 ---
 
 # ZEEDE-GE (Djibloho digital economic zone)

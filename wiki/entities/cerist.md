@@ -7,7 +7,7 @@ topics: [capacity.research, infra.store, tech.innovate, infra.cybersec]
 lens: []
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2025-03-26-cerist-cloud-drone-incubator--wearetech]]]
+sources: [[2025-03-26-cerist-cloud-drone-incubator--wearetech]]
 ---
 
 # CERIST

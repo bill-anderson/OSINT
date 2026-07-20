@@ -9,7 +9,7 @@ entities: [[maroc-telecom], [orange], [inwi], [anrt-morocco], [ericsson], [nokia
 lens: []
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2025-11-08-hespress-morocco-5g-launch-new-digital-era]], [[2025-11-07-en-hespress-what-5g-could-mean-for-morocco]], [[2025-07-16-telecomreviewafrica-morocco-5g-license-tender]], [[2025-04-02-connectingafrica-maroc-telecom-inwi-fiber-5g]], [[2026-04-08-techafricanews-orange-maroc-ericsson-collaboration]], [[2025-07-28-itweb-nokia-subsea-cable-europe-north-africa]], [[2025-04-25-itweb-vodafone-maroc-telecom-digital-services-deal]]]
+sources: [[2025-11-08-hespress-morocco-5g-launch-new-digital-era], [2025-11-07-en-hespress-what-5g-could-mean-for-morocco], [2025-07-16-telecomreviewafrica-morocco-5g-license-tender], [2025-04-02-connectingafrica-maroc-telecom-inwi-fiber-5g], [2026-04-08-techafricanews-orange-maroc-ericsson-collaboration], [2025-07-28-itweb-nokia-subsea-cable-europe-north-africa], [2025-04-25-itweb-vodafone-maroc-telecom-digital-services-deal]]
 ---
 
 # Morocco × Connectivity

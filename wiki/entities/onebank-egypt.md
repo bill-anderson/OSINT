@@ -7,7 +7,7 @@ topics: [dpi.pay, finance.new, include.access]
 lens: []
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2025-08-18-cbe-first-digital-bank-onebank-itweb]]]
+sources: [[2025-08-18-cbe-first-digital-bank-onebank-itweb]]
 ---
 
 # onebank

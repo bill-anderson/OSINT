@@ -7,7 +7,7 @@ topics: [dpi.id, dpi.pay, gov.legislate]
 lens: []
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2025-08-11-digified-ekyc-esignature-fra-license-biometricupdate]]]
+sources: [[2025-08-11-digified-ekyc-esignature-fra-license-biometricupdate]]
 ---
 
 # Digified

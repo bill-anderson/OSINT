@@ -7,12 +7,12 @@ topics: [dpi.pay, include.access, infra.connect]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-18
-sources: [[2014-08-18 Zimbabwe's Econet Wireless and the making of Africa's first cashless society  Working in development  The Guardian], [2023-01-01 The Rebel Behind Africa's Telecom Revolution  Stanford Graduate School of Business], [[2025-04-30-econet-ecocash-upgrade-lestimes]]]
+sources: [[2014-08-18 Zimbabwe's Econet Wireless and the making of Africa's first cashless society  Working in development  The Guardian], [2023-01-01 The Rebel Behind Africa's Telecom Revolution  Stanford Graduate School of Business], [2025-04-30-econet-ecocash-upgrade-lestimes]]
 ---
 
 # EcoCash
 
-EcoCash is [[econet-wireless-zimbabwe|Econet Wireless Zimbabwe]]'s mobile-money service and the vehicle for the claim that Zimbabwe could become "Africa's first cashless society". It matters here as an early, sovereignty-inflected case of mobile payments substituting for a collapsed formal banking system.
+EcoCash is [[econet-wireless]]'s mobile-money service and the vehicle for the claim that Zimbabwe could become "Africa's first cashless society". It matters here as an early, sovereignty-inflected case of mobile payments substituting for a collapsed formal banking system.
 
 ## Profile
 - Mobile-money service operated by Econet Wireless, founded by [[strive-masiyiwa]].
@@ -31,8 +31,7 @@ detection/authentication, and forthcoming wallet **interest payouts**. See [[les
 Source: [[2025-04-30-econet-ecocash-upgrade-lestimes]].
 
 ## Related
-- [[econet-wireless-zimbabwe]]
-- [[econet-group]]
+- [[econet-wireless]]
 - [[strive-masiyiwa]]
 - [[econet-telecom-lesotho]] · [[lesotho--dpi-pay]]
 

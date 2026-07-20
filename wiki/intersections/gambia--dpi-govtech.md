@@ -9,7 +9,7 @@ entities: [[gambia-data-protection-act-2025], [gambia-communications-bill-2025],
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2025-01-08-gambia-blockchain-pact-kalp-gambia-one-itweb]], [[2025-10-06-gambia-praised-data-protection-privacy-bill-thepoint]], [[2025-10-13-gambia-launch-ndasc-digital-nation-techafricanews]], [[2026-03-03-lawmakers-back-communications-bill-2025-standard]], [[2026-05-22-gambia-validates-national-enterprise-architecture-govstack-techreviewafrica]], [[2026-06-26-senegal-gambia-digital-integration-regulatory-cooperation-techreviewafrica]]]
+sources: [[2025-01-08-gambia-blockchain-pact-kalp-gambia-one-itweb], [2025-10-06-gambia-praised-data-protection-privacy-bill-thepoint], [2025-10-13-gambia-launch-ndasc-digital-nation-techafricanews], [2026-03-03-lawmakers-back-communications-bill-2025-standard], [2026-05-22-gambia-validates-national-enterprise-architecture-govstack-techreviewafrica], [2026-06-26-senegal-gambia-digital-integration-regulatory-cooperation-techreviewafrica]]
 ---
 
 # The Gambia × GovTech, data governance & interoperability

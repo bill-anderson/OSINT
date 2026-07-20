@@ -9,7 +9,7 @@ entities: [[telecom-egypt], [hassan-allam-data-centre], [mcit-egypt], [ntra-egyp
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-19
-sources: [[[2026-06-30-egypt-national-data-centre-strategy-sovereignty-ahram]], [[2026-07-05-egypt-cabinet-giant-data-centres-ai-youm7]], [[2026-06-16-hassan-allam-400m-data-centre-license-wearetech]], [[2026-03-17-egypt-sinai-hyperscale-data-centre-renergy-ahram]], [[2026-06-15-huawei-cloud-egypt-fintech-localisation-techafricanews]], [[2026-03-31-egypt-sap-cloud-ai-outsourcing-techafricanews]], [[2026-07-17-telecom-egypt-cancels-helios-data-center-stake-sale]]]
+sources: [[2026-06-30-egypt-national-data-centre-strategy-sovereignty-ahram], [2026-07-05-egypt-cabinet-giant-data-centres-ai-youm7], [2026-06-16-hassan-allam-400m-data-centre-license-wearetech], [2026-03-17-egypt-sinai-hyperscale-data-centre-renergy-ahram], [2026-06-15-huawei-cloud-egypt-fintech-localisation-techafricanews], [2026-03-31-egypt-sap-cloud-ai-outsourcing-techafricanews], [2026-07-17-telecom-egypt-cancels-helios-data-center-stake-sale]]
 ---
 
 # Egypt × Data centres, cloud & digital sovereignty

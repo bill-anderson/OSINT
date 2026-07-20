@@ -7,7 +7,7 @@ topics: [gov.protect, gov.legislate]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2026-06-10-gabon-datacenter-readiness-apdpvp-compliance]], [[2026-01-20-gabon-apdpvp-procurement-data-destruction]]]
+sources: [[2026-06-10-gabon-datacenter-readiness-apdpvp-compliance], [2026-01-20-gabon-apdpvp-procurement-data-destruction]]
 ---
 
 # APDPVP (Autorité pour la Protection des Données personnelles et de la Vie Privée, Gabon)

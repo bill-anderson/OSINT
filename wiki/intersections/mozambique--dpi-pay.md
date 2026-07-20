@@ -9,7 +9,7 @@ entities: [[banco-de-mocambique], [simo-mozambique], [mozambique-cyber-security-
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2025-08-06-e-money-accounts-109pct-adult-population-clubofmozambique]], [[2025-08-25-irps-tax-mobile-money-agents-clubofmozambique]], [[2026-02-18-national-payments-system-bill-parliament-clubofmozambique]], [[2026-03-02-banks-unveil-instant-payment-system-clubofmozambique]], [[2026-03-16-central-bank-launches-metix-clubofmozambique]], [[2026-04-15-national-payments-system-law-approved-parliament-clubofmozambique]], [[2026-06-13-cybercrime-cybersecurity-nps-laws-signed-clubofmozambique]], [[2026-06-16-financial-institutions-60-minutes-report-failures-clubofmozambique]]]
+sources: [[2025-08-06-e-money-accounts-109pct-adult-population-clubofmozambique], [2025-08-25-irps-tax-mobile-money-agents-clubofmozambique], [2026-02-18-national-payments-system-bill-parliament-clubofmozambique], [2026-03-02-banks-unveil-instant-payment-system-clubofmozambique], [2026-03-16-central-bank-launches-metix-clubofmozambique], [2026-04-15-national-payments-system-law-approved-parliament-clubofmozambique], [2026-06-13-cybercrime-cybersecurity-nps-laws-signed-clubofmozambique], [2026-06-16-financial-institutions-60-minutes-report-failures-clubofmozambique]]
 ---
 
 # Mozambique × Digital Payments

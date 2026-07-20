@@ -6,7 +6,7 @@ places: [GHA]
 topics: [gov.protect, gov.policy]
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2024-07-02 Ghana develops its National Data Strategy with Smart Africa and Team Europe]], [[2024-09-20 Ghana Digital Economy (US Country Commercial Guide)]], [[2025-08-01-ghana-new-data-protection-board-techafricanews]], [[2026-01-26-dpc-crackdown-2026-enforcement-myjoy]]]
+sources: [[2024-07-02 Ghana develops its National Data Strategy with Smart Africa and Team Europe], [2024-09-20 Ghana Digital Economy (US Country Commercial Guide)], [2025-08-01-ghana-new-data-protection-board-techafricanews], [2026-01-26-dpc-crackdown-2026-enforcement-myjoy]]
 ---
 
 # Data Protection Commission (DPC, Ghana)

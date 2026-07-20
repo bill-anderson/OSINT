@@ -9,7 +9,7 @@ entities: [[digital-gabon-project], [gabon-connect], [aninf-gabon], [sige-gabon]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2025-10-07-gabon-egov-legal-framework]], [[2026-02-20-gabon-connect-single-digital-window]], [[2026-02-22-gabon-egabon-5e-copil-bilan]], [[2026-06-22-gabon-aninf-worldbank-progress-review]], [[2026-06-24-gabon-aninf-franceville-office]], [[2025-07-29-gabon-egabon-sis-health-mis-equipment]], [[2025-07-01-gabon-lunion-digital-subregional-reference]]]
+sources: [[2025-10-07-gabon-egov-legal-framework], [2026-02-20-gabon-connect-single-digital-window], [2026-02-22-gabon-egabon-5e-copil-bilan], [2026-06-22-gabon-aninf-worldbank-progress-review], [2026-06-24-gabon-aninf-franceville-office], [2025-07-29-gabon-egabon-sis-health-mis-equipment], [2025-07-01-gabon-lunion-digital-subregional-reference]]
 ---
 
 # Gabon × GovTech / e-Government

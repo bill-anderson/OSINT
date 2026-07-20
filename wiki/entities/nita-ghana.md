@@ -7,7 +7,7 @@ topics: [dpi.govtech, gov.legislate, gov.standards, infra.connect]
 lens: []
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2026-07-16-nita-split-regulatory-commercial-myjoy]], [[2026-07-16-nita-new-director-general-techafricanews]], [[2026-05-30-nita-bill-sam-george-responds-critics-myjoy]], [[2026-05-26-tech-consultant-questions-15-digital-bills-myjoy]]]
+sources: [[2026-07-16-nita-split-regulatory-commercial-myjoy], [2026-07-16-nita-new-director-general-techafricanews], [2026-05-30-nita-bill-sam-george-responds-critics-myjoy], [2026-05-26-tech-consultant-questions-15-digital-bills-myjoy]]
 ---
 
 # NITA (National Information Technology Agency, Ghana)

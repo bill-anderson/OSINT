@@ -7,7 +7,7 @@ topics: [dpi.pay, finance.new, include.access]
 lens: []
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2026-02-12-bange-mobile-ge-app-reg]]]
+sources: [[2026-02-12-bange-mobile-ge-app-reg]]
 ---
 
 # BANGE (Banco Nacional de Guinea Ecuatorial)

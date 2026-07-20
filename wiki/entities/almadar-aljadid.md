@@ -7,7 +7,7 @@ topics: [infra.connect]
 lens: []
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2026-01-29-almadar-launches-first-5g-tripoli-libyaherald]]]
+sources: [[2026-01-29-almadar-launches-first-5g-tripoli-libyaherald]]
 ---
 
 # Almadar Aljadid

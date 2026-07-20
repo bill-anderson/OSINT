@@ -5,11 +5,11 @@ place: ETH
 topic: dpi.id
 places: [ETH]
 topics: [dpi.id, dpi.govtech, gov.standards]
-entities: [[fayda-ethiopia-national-id], [mosip], [safaricom-ethiopia-fayda-jv], [[digital-id-assessment], [[dhis2-maturity-ethiopia]]
+entities: [[fayda-ethiopia-national-id], [mosip], [safaricom-ethiopia-fayda-jv], [digital-id-assessment], [dhis2-maturity-ethiopia]]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-13
-sources: [[2026-07-07 Beyond the Platform Understanding the Growing MOSIP Ecosystem], [2026-07-06 Safaricom Ethiopia partners National ID Program to expand digital identity registration], [[2026-05-12 Strengthening Fayda Ethiopia's improvement journey through the Digital ID Assessment], [[2024-01-16 Digital ID], [[2024-07-26 Maturity Assessment of District Health Information System Version 2 Implementation in Ethiopia Current Status and Improvement Pathways]]
+sources: [[2026-07-07 Beyond the Platform Understanding the Growing MOSIP Ecosystem], [2026-07-06 Safaricom Ethiopia partners National ID Program to expand digital identity registration], [2026-05-12 Strengthening Fayda Ethiopia's improvement journey through the Digital ID Assessment], [2024-01-16 Digital ID], [2024-07-26 Maturity Assessment of District Health Information System Version 2 Implementation in Ethiopia Current Status and Improvement Pathways]]
 ---
 
 # Ethiopia × Digital Identity

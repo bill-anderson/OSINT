@@ -9,7 +9,7 @@ entities: [[algeria-national-ai-strategy], [digital-algeria-2030], [aventureclou
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2025-12-02 AI in government - Algeria's HCD and National AI Strategy]], [[raw/2025-12-04 Algeria cloud and data-centre market to reach $450m by 2035]], [[2025-02-20-ai-to-boost-economy--telecomreviewafrica]], [[2025-03-17-ai-supercomputing-center-oran--wearetech]], [[2025-11-10-ai-ethics-legislation-in-preparation-echorouk]], [[2026-04-15-algeria-huawei-ai-digital-economy-cooperation-echorouk]], [[2026-04-27-ai-vocational-training-programme--techreviewafrica]], [[2026-04-30-djezzy-aventurecloudz-ai-platform--techafricanews]], [[2026-05-25-government-reviews-national-ai-strategy-elmoudjahid]], [[2026-05-25-new-lines-report-algeria-ai-leadership-north-africa-echorouk]], [[2026-06-08-first-virtual-education-ai-innovation-centre-echorouk]]]
+sources: [[2025-12-02 AI in government - Algeria's HCD and National AI Strategy], [raw/2025-12-04 Algeria cloud and data-centre market to reach $450m by 2035], [2025-02-20-ai-to-boost-economy--telecomreviewafrica], [2025-03-17-ai-supercomputing-center-oran--wearetech], [2025-11-10-ai-ethics-legislation-in-preparation-echorouk], [2026-04-15-algeria-huawei-ai-digital-economy-cooperation-echorouk], [2026-04-27-ai-vocational-training-programme--techreviewafrica], [2026-04-30-djezzy-aventurecloudz-ai-platform--techafricanews], [2026-05-25-government-reviews-national-ai-strategy-elmoudjahid], [2026-05-25-new-lines-report-algeria-ai-leadership-north-africa-echorouk], [2026-06-08-first-virtual-education-ai-innovation-centre-echorouk]]
 ---
 
 # Algeria × AI

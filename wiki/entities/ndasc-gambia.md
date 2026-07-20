@@ -7,7 +7,7 @@ topics: [dpi.govtech, digital.localgov, gov.policy]
 lens: []
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2025-10-13-gambia-launch-ndasc-digital-nation-techafricanews]]]
+sources: [[2025-10-13-gambia-launch-ndasc-digital-nation-techafricanews]]
 ---
 
 # NDASC (National Digital Addressing Steering Committee)

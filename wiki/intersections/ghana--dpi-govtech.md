@@ -9,7 +9,7 @@ entities: [[ghana-gov-platform], [ghana-digital-acceleration-project], [national
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2025-04-13-ghana-danish-digital-model-merge-records-graphic]], [[2025-07-07-ghana-gov-16000-services-revamp-graphic]], [[2025-07-10-ghana-16k-services-200m-world-bank-biometricupdate]], [[2025-10-29-ghana-77m-health-data-contract-scandal-graphic]], [[2025-10-29-health-ministry-new-digital-system-nhis-graphic]], [[2025-12-11-interior-ministry-digital-services-portal-graphic]], [[2026-05-21-ghana-gov-shakeup-simpler-citizens-myjoy]], [[2026-05-25-trident-gra-digital-msme-platform-techafricanews]]]
+sources: [[2025-04-13-ghana-danish-digital-model-merge-records-graphic], [2025-07-07-ghana-gov-16000-services-revamp-graphic], [2025-07-10-ghana-16k-services-200m-world-bank-biometricupdate], [2025-10-29-ghana-77m-health-data-contract-scandal-graphic], [2025-10-29-health-ministry-new-digital-system-nhis-graphic], [2025-12-11-interior-ministry-digital-services-portal-graphic], [2026-05-21-ghana-gov-shakeup-simpler-citizens-myjoy], [2026-05-25-trident-gra-digital-msme-platform-techafricanews]]
 ---
 
 # Ghana × GovTech / e-Government

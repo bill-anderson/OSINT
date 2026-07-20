@@ -7,7 +7,7 @@ topics: [dpi.id, dpi.registry, dpi.govtech]
 lens: []
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2026-06-26-national-id-cctv-facial-recognition-biometricupdate]], [[2026-06-15-ktn-illegal-trade-ids-passports-standard]], [[2026-07-01-ids-10-days-new-system-standard]], [[2026-06-22-download-birth-certificates-online-standard]]]
+sources: [[2026-06-26-national-id-cctv-facial-recognition-biometricupdate], [2026-06-15-ktn-illegal-trade-ids-passports-standard], [2026-07-01-ids-10-days-new-system-standard], [2026-06-22-download-birth-certificates-online-standard]]
 ---
 
 # National Registration Bureau (NRB), Kenya

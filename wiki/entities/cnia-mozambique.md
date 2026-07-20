@@ -7,7 +7,7 @@ topics: [tech.ai, gov.policy]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2026-05-06-cnia-begins-advising-government-on-ai-clubofmozambique]]]
+sources: [[2026-05-06-cnia-begins-advising-government-on-ai-clubofmozambique]]
 ---
 
 # CNIA (National Commission for Artificial Intelligence, Mozambique)

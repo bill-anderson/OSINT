@@ -9,7 +9,7 @@ entities: [[national-digital-services-center-algeria], [cerist], [huawei], [high
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-18
-sources: [[[2026-07-05-national-centre-digital-services-inauguration-echorouk]], [[2026-07-06-national-digital-services-centre-inaugurated-elmoudjahid]], [[2026-07-08-national-digital-services-center-dual-data-centers--wearetech]], [[2026-07-15-one-month-deadline-data-center-integration--wearetech]], [[2026-06-01-digital-leap-fibre-data-centres-feature-elmoudjahid]], [[2026-06-04-parliament-sovereign-cloud-agreement-echorouk]], [[2025-03-26-cerist-cloud-drone-incubator--wearetech]], [[2025-09-30-saticom-minister-inspection--techafricanews]]]
+sources: [[2026-07-05-national-centre-digital-services-inauguration-echorouk], [2026-07-06-national-digital-services-centre-inaugurated-elmoudjahid], [2026-07-08-national-digital-services-center-dual-data-centers--wearetech], [2026-07-15-one-month-deadline-data-center-integration--wearetech], [2026-06-01-digital-leap-fibre-data-centres-feature-elmoudjahid], [2026-06-04-parliament-sovereign-cloud-agreement-echorouk], [2025-03-26-cerist-cloud-drone-incubator--wearetech], [2025-09-30-saticom-minister-inspection--techafricanews]]
 ---
 
 # Algeria × Data centres, cloud & digital sovereignty
