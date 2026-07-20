@@ -8,7 +8,7 @@ entities: [[econet-group], [ecocash], [econet-infraco], [strive-masiyiwa]]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-20
-sources: [[2026-04-30-econet-5g-exceeds-netone-telecel-combined], [2026-07-16 Econet Wireless Zimbabwe About Us (network launch 10 July 1998)], [2014-08-18 Zimbabwe's Econet Wireless and the making of Africa's first cashless society  Working in development  The Guardian]]
+sources: [[2026-04-30-econet-5g-exceeds-netone-telecel-combined], [2026-07-16 Econet Wireless Zimbabwe About Us (network launch 10 July 1998)], [2014-08-18 Zimbabwe's Econet Wireless and the making of Africa's first cashless society  Working in development  The Guardian], [2025-12-15-econet-wireless-zimbabwe-further-cautionary-announcement], [2025-12-24-econet-notice-completion-infrastructure-restructuring], [2026-03-26-econet-infraco-supplementary-pre-listing-statement]]
 ---
 
 # Econet Wireless Zimbabwe
@@ -37,18 +37,43 @@ ISSUE-009). Founded by **[[strive-masiyiwa]]**; CEO **Douglas Mboweni** (as of 2
   sovereignty-inflected case of mobile payments substituting for a collapsed formal banking system.
   See [[dpi.pay]], [[zimbabwe--dpi-pay]]. Source:
   [[2014-08-18 Zimbabwe's Econet Wireless and the making of Africa's first cashless society  Working in development  The Guardian]].
-- **Infrastructure carve-out.** [[econet-infraco]] — towers, fibre, power and data facilities — is
-  being separated out of Econet Wireless Zimbabwe as a dedicated infrastructure company (Harare IT
-  park; VFEX listing planned). See [[infra.store]], [[victoria-falls-stock-exchange]].
+- **Infrastructure carve-out, completed.** [[econet-infraco]] — towers, fibre, power and data facilities
+  — was separated out of Econet Wireless Zimbabwe as a dedicated infrastructure company. The
+  **reorganisation completed 2025-12-24**: real estate and passive telecoms infrastructure **previously
+  held by EWPL and other wholly owned SPVs** were transferred as a **going concern** into **Distributed
+  Power Africa (Private) Limited, trading as Econet InfraCo**, under a **Scheme of Reconstruction
+  Agreement**. Ownership and control did not change; EWZL remained beneficial owner, holding assets still
+  registered elsewhere **as nominee or in trust**. EWZL also holds the entire issued share capital of
+  **Econet Wireless (Private) Limited (EWPL)**, the SPV carrying the **mobile network operator licence**.
+  See [[infra.store]]. Sources:
+  [[2025-12-24-econet-notice-completion-infrastructure-restructuring]],
+  [[2026-03-26-econet-infraco-supplementary-pre-listing-statement]].
+- **Voluntary ZSE delisting and the Exit Offer (from 2025-12-15).** The board resolved to pursue a
+  **voluntary delisting from the [[zimbabwe-stock-exchange]]** (ZSE Listings Requirements s.11.5),
+  following a first cautionary announcement of **2025-12-03**. Stated rationale: EWZL "has traded at a
+  significant discount to its peers across Africa which trade at **6–8x EV/EBITDA**", peers having already
+  separated and realised value from their towers. Shareholders were offered a **voluntary Exit Offer**
+  settled **partly in cash and partly in InfraCo shares**, with up to **30% of InfraCo** earmarked for it;
+  rights of **pre-emption**, removed on listing, were to be reinstated in the Memorandum and Articles for
+  private post-delisting trading. In the event the Exit Offer took **4.785%** of InfraCo, with a further
+  **25.215%** distributed to EWZL shareholders as a **dividend in specie** (register **2026-03-27**),
+  leaving EWZL with **70.000%**. See [[finance.new]], [[victoria-falls-stock-exchange]]. Sources:
+  [[2025-12-15-econet-wireless-zimbabwe-further-cautionary-announcement]],
+  [[2026-03-26-econet-infraco-supplementary-pre-listing-statement]].
 
 ## Related
 
 - [[econet-group]] · [[ecocash]] · [[econet-infraco]] · [[strive-masiyiwa]] ·
-  [[zimbabwe--infra-connect]] · [[ZWE]]
-- Mentioned, not hubbed: Douglas Mboweni (CEO, 2025).
+  [[victoria-falls-stock-exchange]] · [[zimbabwe-stock-exchange]] · [[zimbabwe--infra-connect]] · [[ZWE]]
+- Mentioned, not hubbed: Douglas Mboweni (CEO, 2025); **Econet Wireless (Private) Limited (EWPL)** — the
+  wholly owned SPV holding the MNO licence; T.A. Ngowe (Group Company Secretary); J. Myers (Chairman,
+  2025-12); R. Chimanikire (Deputy CEO); C.L. Moyo (Finance Director).
 
 ## Sources
 
+- [[2014-08-18 Zimbabwe's Econet Wireless and the making of Africa's first cashless society  Working in development  The Guardian]]
+- [[2025-12-15-econet-wireless-zimbabwe-further-cautionary-announcement]]
+- [[2025-12-24-econet-notice-completion-infrastructure-restructuring]]
+- [[2026-03-26-econet-infraco-supplementary-pre-listing-statement]]
 - [[2026-04-30-econet-5g-exceeds-netone-telecel-combined]]
 - [[2026-07-16 Econet Wireless Zimbabwe About Us (network launch 10 July 1998)]]
-- [[2014-08-18 Zimbabwe's Econet Wireless and the making of Africa's first cashless society  Working in development  The Guardian]]

@@ -5,8 +5,8 @@ title: National Electoral Commission (NEC), Somalia
 places: [SOM]
 topics: [dpi.id, dpi.govtech]
 status: active
-last_reviewed: 2026-07-16
-sources: [[2025-03-18 Somalia's Electoral Commission unveils digital voter registration equipment]]
+last_reviewed: 2026-07-20
+sources: [[2025-03-18 Somalia's Electoral Commission unveils digital voter registration equipment], [2025-03-13-nadra-somalia-nid-data-centre-infrastructure]]
 ---
 
 # National Electoral Commission (NEC), Somalia

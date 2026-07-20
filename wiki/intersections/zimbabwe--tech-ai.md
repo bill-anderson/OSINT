@@ -8,8 +8,8 @@ topics: [tech.ai, infra.store, gov.policy, gov.legislate, gov.regional, data.ope
 entities: [[zimbabwe-national-ai-strategy], [ai-strategy-implementation-office-zimbabwe], [potraz], [econet-ai], [econet-infraco], [liquid-c2], [cassava-technologies], [james-manyika], [strive-masiyiwa], [cipesa]]
 lens: [sovereignty, colonialism]
 status: active
-last_reviewed: 2026-07-19
-sources: [[2026-01-14-zimbabwe-ai-ready-data-center-tech-park], [2026-03-16-mnangagwa-launches-five-year-ai-strategy], [2026-03-16-ai-strategy-mandates-local-storage], [2026-04-17-econet-ai-launch-cassava-compute], [2026-05-22-cipesa-zimbabwe-ai-strategy-policy-lessons], [2026-06-30-masiyiwa-manyika-google-1b-africa-cloud]]
+last_reviewed: 2026-07-20
+sources: [[2026-01-14-zimbabwe-ai-ready-data-center-tech-park], [2026-03-13-mavetera-84-55-internet-penetration-ai-strategy], [2026-03-16-mnangagwa-launches-five-year-ai-strategy], [2026-03-16-ai-strategy-mandates-local-storage], [2026-04-17-econet-ai-launch-cassava-compute], [2026-05-22-cipesa-zimbabwe-ai-strategy-policy-lessons], [2026-06-30-masiyiwa-manyika-google-1b-africa-cloud]]
 ---
 
 # Zimbabwe × AI & Sovereign Compute
@@ -22,10 +22,23 @@ strategy MISA reads as centralising surveillance.
 
 ## The National AI Strategy 2026–2030
 
-- **Launched with sovereignty at the centre (Mar 2026).** President **Mnangagwa** launched the **five-year
-  [[zimbabwe-national-ai-strategy|National AI Strategy]]**, establishing the **[[ai-strategy-implementation-office-zimbabwe|AISIO]]**,
-  a **regulatory sandbox**, a **National Digital Regulatory Committee under [[potraz]]**, a forthcoming
-  **National AI Act**, and an open-data push. Source: [[2026-03-16-mnangagwa-launches-five-year-ai-strategy]].
+- **Launched with sovereignty at the centre (2026-03-13).** President **Mnangagwa** launched the
+  **five-year [[zimbabwe-national-ai-strategy|National AI Strategy]]** at the **New Parliament Building,
+  Mount Hampden**, under the theme *"Harnessing AI for Inclusive National Development"* — establishing the
+  **[[ai-strategy-implementation-office-zimbabwe|AISIO]]**, a **regulatory sandbox**, a **National Digital
+  Regulatory Committee under [[potraz]]**, a forthcoming **National AI Act**, and an open-data push.
+  *Event date fixed at 2026-03-13 by a same-day account; the held ITWeb report (published 2026-03-16) says
+  "on Friday", which agrees.* Sources: [[2026-03-16-mnangagwa-launches-five-year-ai-strategy]],
+  [[2026-03-13-mavetera-84-55-internet-penetration-ai-strategy]].
+- **Connectivity offered as the precondition (2026-03-13).** ICT Minister **Mavetera** introduced the
+  launch by presenting **84.55% internet penetration (Q4 2025)** and a **14,000 km+ fibre backbone
+  (2026-03)** as what makes AI adoption feasible, framing the strategy inside **Vision 2030**'s full
+  digital economy target. She also announced a planned **National AI Innovation Fund**, pursued with
+  telcos, to fund and mentor AI start-ups — *an intention only; no size, capital source, governance or
+  date is held.* **Caveat: the 84.55% is a subscriptions-over-population ratio, not a usage rate** — see
+  [[zimbabwe--infra-connect]]; an AI-readiness argument resting on it overstates the human user base
+  (**38.4%, 6.54m individuals, Oct 2025**). See [[tech.innovate]], [[finance.new]]. Source:
+  [[2026-03-13-mavetera-84-55-internet-penetration-ai-strategy]].
 - **"Data is our heritage" — computational sovereignty.** The strategy mandates a **Sovereign National
   Cloud** to end "digital displacement" (national/commercial data in foreign clouds), with **agricultural
   predictive models and geological/mineral maps housed on domestic servers**, **HPC centres as national

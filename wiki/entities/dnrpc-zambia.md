@@ -31,7 +31,8 @@ Its Registrar General is **[[davies-chikalanga]]**; its minister is **[[jack-mwi
   [[2024-09-17 DPI Safeguards come online in Zambias next phase of digital integration]].
 - **INRIS enrolment reported lower, later (2025-12-28).** MoHAIS Principal PRO **Mwala
   Kalaluka** put enrolment at **~1.3 million** — *below* UNDP's 2024-09 figure of 1.5m,
-  with the held PAD stating ~1.5m in between. **Resolved (2026-07-20): not a real decline** — the
+  with the held PAD giving **"15 percent of adults"** biometrically registered in between (a share, not an
+  absolute; ~1.5m is inferred from it). **Resolved (2026-07-20): not a real decline** — the
   December figure restates the May-2024 number in a PR briefing; no de-duplication or downward
   revision of INRIS is reported anywhere, and enrolment has been flat at ~1.5m since late 2024.
   Kalaluka also

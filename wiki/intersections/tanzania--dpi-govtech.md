@@ -5,11 +5,11 @@ place: TZA
 topic: dpi.govtech
 places: [TZA]
 topics: [dpi.govtech, dpi.exchange, gov.policy, tech.innovate, tech.industry, capacity.training, geopol.china, finance.new]
-entities: [[ega-tanzania], [world-bank], [ict-commission-tanzania], [micit-tanzania], [itu], [huawei], [iit-madras-zanzibar], [tanzania-digital-economy-framework]]
+entities: [[ega-tanzania], [world-bank], [ict-commission-tanzania], [micit-tanzania], [itu], [huawei], [iit-madras-zanzibar], [tanzania-digital-economy-framework], [jamii-x-change], [jamii-namba], [jamii-kadi], [jamii-malipo], [jamii-portal], [digital-tanzania-project], [napa-tanzania], [nida-tanzania], [tips-tanzania], [samia-suluhu-hassan], [kassim-majaliwa], [jerry-silaa], [mohammed-khamis-abdulla]]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-19
-sources: [[2025-06-20-huawei-yajitosa-kuboresha-huduma-kidijitali], [2025-06-23-majaliwa-taasisi-umma-kujiunga-govesb], [2026-01-13-tanzania-joins-global-leaders-digital-government], [2026-01-22-digital-economy-1bn-gdp-2034], [2026-04-02-tanzania-itu-innovation-center-launch], [2026-04-21-digital-economy-systems-adoption-key-sectors], [2026-07-05-zanzibar-positions-africas-technology-innovation-hub]]
+last_reviewed: 2026-07-20
+sources: [[2025-06-20-huawei-yajitosa-kuboresha-huduma-kidijitali], [2025-06-23-majaliwa-taasisi-umma-kujiunga-govesb], [2026-01-13-tanzania-joins-global-leaders-digital-government], [2026-01-22-digital-economy-1bn-gdp-2034], [2026-04-02-tanzania-itu-innovation-center-launch], [2026-04-21-digital-economy-systems-adoption-key-sectors], [2026-07-05-zanzibar-positions-africas-technology-innovation-hub], [2024-08-27-mfumo-jamii-x-change-kuunganisha-mifumo-tehama], [2024-10-18-hakikisheni-mnapata-namba-ya-nida-jamii-namba-majaliwa]]
 ---
 
 # Tanzania × E-Government & Digital Economy
@@ -32,6 +32,40 @@ still small in absolute terms.
   GovESB by 30 July 2025** (built free by the **[[ega-tanzania|e-GA]]** for secure system-to-system data
   exchange), launching it alongside **e-Wekeza** (a public-servant investment fund). See [[dpi.exchange]].
   Source: [[2025-06-23-majaliwa-taasisi-umma-kujiunga-govesb]].
+
+## Jamii X-Change — the *other* exchange layer, and the three-module Jamii stack
+
+**Two distinct exchange builds run in parallel and are easily conflated: GovESB (e-GA's
+system-to-system bus, mandatory from 30 Jul 2025) and Jamii X-Change (the [[micit-tanzania|MICIT]]
++ [[ega-tanzania|e-GA]] platform under the [[digital-tanzania-project|Digital Tanzania Project]]).**
+The primaries treat them as separate objects; this wiki keeps them separate.
+
+- **Under construction, three modules (2024-08-27).** Ministry Permanent Secretary **Mohammed Khamis
+  Abdulla**, opening a Digital Tanzania Project review meeting in Arusha, said MICIT with e-GA was
+  **building Jamii X-Change** to execute President Samia's directive that systems interoperate and
+  exchange information, with **"much money" directed into it through the Digital Tanzania Project**.
+  The system comprises **three modules — [[jamii-namba|Jamii Namba]] (identity), Jamii Kadi (card) and
+  Jamii Malipo (payments)**. On identity he was explicit: *"every Tanzanian will have a Jamii Namba,
+  which is the NIDA number"* — the same definitional point the PM made two months later (see
+  [[tanzania--dpi-id]]). Source:
+  [[2024-08-27-mfumo-jamii-x-change-kuunganisha-mifumo-tehama]]. [[dpi.exchange]] · [[dpi.id]]
+- **Still being coordinated a year on (2024-10-17).** ICT Minister **Jerry William Silaa** told the 8th
+  ICT Congress his ministry was **coordinating construction of Jamii Namba, Jamii X-Change and Jamii
+  Portal** as systems central to executing the digital-economy strategy. PM **Kassim Majaliwa**
+  directed all government and non-government institution heads to **make their systems interoperable**
+  and pressed that the Samia directive behind Jamii X-Change be completed as planned. *(Event
+  2024-10-17; published 2024-10-18.)* Source:
+  [[2024-10-18-hakikisheni-mnapata-namba-ya-nida-jamii-namba-majaliwa]].
+- **Addressing, from the same platform.** Silaa also reported **[[napa-tanzania|NaPA]]** enabling
+  identification of homes, businesses and service points — credited with locating citizens during the
+  **Hanang landslides** and **Kibiti floods** — and in pilot for **digital issuance of proof-of-address
+  letters**, with a tourism-promotion use case planned. See [[tanzania--dpi-registry]]. Source:
+  [[2024-10-18-hakikisheni-mnapata-namba-ya-nida-jamii-namba-majaliwa]]. [[dpi.registry]]
+
+**Currency note:** these are **2024 build-stage statements**, not current state. No source held gives a
+Jamii X-Change go-live date, and the Jamii Portal module is named once and not since. The governing
+policy instrument is the **[[tanzania-digital-economy-framework|Digital Economy Strategic Framework
+2024–2034]]**.
 
 ## The Digital Economy Strategic Framework (2024–2034)
 
@@ -84,4 +118,5 @@ Place: [[TZA]] · Region: [[XEA]] · Concepts: [[dpi.govtech]] · [[dpi.exchange
 [[tanzania--infra-store]] · Entities: [[ega-tanzania]] · [[ict-commission-tanzania]] · [[itu]] ·
 [[huawei]] · [[iit-madras-zanzibar]] · [[tanzania-digital-economy-framework]]
 - Mentioned, not hubbed: Benedict Ndomba (e-GA DG); Kassim Majaliwa (PM); Ally Senga Gugu (PS, Home
-  Affairs); Mudrik Ramadhan Soraga (Zanzibar Minister); Redington; GovESB / HCIMS / Ajira / TZeDGS.
+  Affairs); Mudrik Ramadhan Soraga (Zanzibar Minister); Redington; GovESB / HCIMS / Ajira / TZeDGS;
+  Mohammed Khamis Abdulla (PS, MICIT); Jerry William Silaa (ICT Minister).

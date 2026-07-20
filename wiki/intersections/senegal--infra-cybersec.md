@@ -5,11 +5,11 @@ place: SEN
 topic: infra.cybersec
 places: [SEN]
 topics: [infra.cybersec, gov.protect, dpi.id, tech.ai, finance.mou, geopol.eu]
-entities: [[daf-senegal], [senegal-numerique], [new-deal-technologique]]
+entities: [[daf-senegal], [senegal-numerique], [new-deal-technologique], [green-blood-group], [clement-domingo], [iris-corporation], [africa-cybersecurity-resource-center]]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-19
-sources: [[2026-02-09-seneweb-cyberattaques-senegal-expose], [2026-03-09-connectingafrica-free-internet-cyber-risks], [2026-04-01-techafricanews-senegal-finland-cooperation], [2025-08-09-lesoleil-forces-armees-ia-souverainete]]
+last_reviewed: 2026-07-20
+sources: [[2026-02-09-seneweb-cyberattaques-senegal-expose], [2026-03-09-connectingafrica-free-internet-cyber-risks], [2026-04-01-techafricanews-senegal-finland-cooperation], [2025-08-09-lesoleil-forces-armees-ia-souverainete], [2026-02-05-aps-daf-suspension-cni-communique], [2026-02-12-darkreading-senegal-breach-security-maturity], [2026-04-07-aps-daf-reprise-production-cni]]
 ---
 
 # Senegal × Cybersecurity
@@ -29,6 +29,24 @@ by a free-internet push that widens the attack surface. (ITU GCI 2024: **67.17/1
 - **The state-breach run.** The **DGID** (tax authority) was hacked Oct 2025 (~1TB — tax declarations,
   IDs), the **DAF** in Feb 2026 (biometrics/ID/birth/immigration records, "Green Blood Group"), and the
   **Public Treasury** in May 2026. Source: [[2026-03-09-connectingafrica-free-internet-cyber-risks]].
+- **Disclosure behaviour is the governance signal.** In the DAF case the state acknowledged the incident only
+  on **5 Feb 2026** — after the leak site went up and **more than two weeks** after the 19 Jan intrusion — and
+  its communiqués (5 Feb 2026, 7 Apr 2026) assert only that data **integrity** remains intact while saying
+  nothing about **confidentiality**, the live question. **[[clement-domingo|Clément Domingo]]** confirmed
+  genuine birth records and ID cards in the leaked samples, so the exfiltration is established and unrebutted.
+  Card production was suspended 5 Feb and **resumed 1 Apr 2026**. Full cluster: [[senegal--dpi-id]]. Sources:
+  [[2026-02-05-aps-daf-suspension-cni-communique]],
+  [[2026-02-12-darkreading-senegal-breach-security-maturity]],
+  [[2026-04-07-aps-daf-reprise-production-cni]].
+- **The diagnosis is regional, not Senegalese.** The Africa Cybersecurity Resource Center's COO **Aboubacar
+  Yacouba Mai Birni** framed the breach as continental: *"digital ambition has outpaced cybersecurity
+  maturity"* — states investing in data collection but far less in security-by-design, long-term data
+  governance, independent oversight and continuous cyber-risk management, so the state *"accumulates highly
+  sensitive data faster than it builds the … capacity required to protect it."* He names the **systemic
+  mistrust** risk — citizens resisting future digital initiatives — as the most critical consequence, and
+  cites Mauritius (DPA enforcement capacity), Ghana (legal accountability around biometric ID) and Morocco
+  (state-level cyber-defence coordination) as comparatively stronger pairings. Source:
+  [[2026-02-12-darkreading-senegal-breach-security-maturity]].
 
 ## The free-internet risk
 

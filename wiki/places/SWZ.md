@@ -6,7 +6,7 @@ parent: XSA
 place_kind: country
 topics: [gov.policy, gov.protect, gov.legislate, dpi.govtech, dpi.id, dpi.pay, dpi.registry, dpi.exchange, dpi.mis, infra.connect, infra.cybersec, infra.store, infra.energy, capacity.training, include.divides, tech.innovate, digital.rural, finance.new]
 status: active
-last_reviewed: 2026-07-19
+last_reviewed: 2026-07-20
 ---
 
 # Eswatini (SWZ)
@@ -105,7 +105,7 @@ The rails exist; usage lags them.
   2025-01-14; the launch itself is 2024-12-11.)* Source:
   [[2025-01-14 Phil Mnisi - Eswatini Payment Switch Fast Payments product launch]]. See
   [[dpi.pay]], [[dpi.exchange]].
-- **2024-11 to 2024-12** — **Digital Readiness Assessment published.** The
+- **2024-11-13** — **Digital Readiness Assessment results launched.** The
   [[eswatini-digital-readiness-assessment]] — MICT with [[undp]] and **[[eseparc]]**, one of the
   first African implementations of the UNDP DRA — scored Eswatini **2.6 out of 5**, the
   "systematic" stage. Strengths in people, economy and government; **DPI, connectivity and
@@ -115,12 +115,20 @@ The rails exist; usage lags them.
   coordination. Digital exclusion of elderly, disabled and rural populations flagged. Sources:
   [[2024-12-05 Eswatini Advances Toward Digital Transformation - Key Findings from the Digital Readiness Assessment]],
   [[2024-12-10 Unveiling Eswatini's Digital Path]],
-  [[2024-11-22 Eswatini unveils readiness report for digital ID, transformation push]]. See
+  [[2024-11-22 Eswatini unveils readiness report for digital ID, transformation push]],
+  [[2024-11-13-undp-eswatini-dra-results-launch]] (the datelined primary). See
   [[gov.policy]], [[dpi.exchange]], [[include.divides]].
+  UNDP's own release names the investment priorities: **connectivity and public digital infrastructure
+  (digital ID, payments, data-exchange interoperability)**; **people** (digital skills for the population
+  and civil service); **public services** via digital platforms; and **digital-ecosystem strengthening**
+  (private-sector digitalisation, innovation and start-ups). UNDP RR **Henrik Franklin** called the DRA
+  "an invaluable and independent baseline diagnosis against which further progress can be measured"; the
+  assessment itself was launched as a stakeholder exercise on **21 August 2024**.
   *Resolved (2026-07-20): one event, on **2024-11-13** - the results launch, validation workshop and
   formal handover to Minister Maziya were a single occasion at the Hilton Garden Hotel, Mbabane, per
-  UNDP Eswatini's press release published that day. The later ESEPARC (5 Dec) and UNDP-blog (10 Dec)
-  dates are publication stamps on retrospective write-ups; the blog asserts no handover date at all.*
+  UNDP Eswatini's press release published that day, which says MICT and UNDP "today officially launched
+  the results" and captions the handover photograph accordingly. The later ESEPARC (5 Dec) and UNDP-blog
+  (10 Dec) dates are publication stamps on retrospective write-ups; the blog asserts no handover date at all.*
 - **2024-07-22** — **Rights critique: legislating at speed.** APC's Melusi Matsenjwa records that
   **all four 2022 ICT Acts were tabled with certificates of urgency**, shortening stakeholder and
   public input. SIM registration under Legal Notice No. 26 of 2016 collects names, addresses,

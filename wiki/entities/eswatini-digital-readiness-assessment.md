@@ -6,7 +6,7 @@ places: [SWZ]
 topics: [gov.policy, dpi.exchange, infra.connect, include.divides, data.statistics]
 status: active
 last_reviewed: 2026-07-20
-sources: [[2024-11-01 Digital Readiness Assessment - Eswatini (UNDP)], [2024-11-22 Eswatini unveils readiness report for digital ID, transformation push], [2024-12-05 Eswatini Advances Toward Digital Transformation - Key Findings from the Digital Readiness Assessment], [2024-12-10 Unveiling Eswatini's Digital Path]]
+sources: [[2024-11-01 Digital Readiness Assessment - Eswatini (UNDP)], [2024-11-22 Eswatini unveils readiness report for digital ID, transformation push], [2024-12-05 Eswatini Advances Toward Digital Transformation - Key Findings from the Digital Readiness Assessment], [2024-12-10 Unveiling Eswatini's Digital Path], [2024-11-13-undp-eswatini-dra-results-launch]]
 ---
 
 # Digital Readiness Assessment - Eswatini (UNDP)
@@ -52,7 +52,9 @@ exercise on **2024-08-21** (UN House, Mbabane), with fieldwork to **2024-09-13**
 2024-11-13** at the Hilton Garden Hotel, Mbabane (panel: UNDP, MICT, [[mtn-eswatini]],
 [[world-bank]], InstaCash, [[itu]]), where UNDP Resident Representative **Henrik Franklin**
 handed the report to Minister [[savannah-maziya]] — per UNDP Eswatini's own press release
-published that day.
+published that day, which states MICT and UNDP "today officially launched the results" and
+captions the handover photograph "Henrik Franklin, after handing over the DRA results report"
+([[2024-11-13-undp-eswatini-dra-results-launch]]).
 
 The later accounts are retrospective write-ups, not separate events: Biometric Update
 (**2024-11-22**), [[eseparc]] (**2024-12-05**) and UNDP's own blog (**2024-12-10**). The
@@ -67,3 +69,4 @@ an artefact of reading publication dates as event dates. The PDF held in `raw/` 
 - [[2024-11-22 Eswatini unveils readiness report for digital ID, transformation push]]
 - [[2024-12-05 Eswatini Advances Toward Digital Transformation - Key Findings from the Digital Readiness Assessment]]
 - [[2024-12-10 Unveiling Eswatini's Digital Path]]
+- [[2024-11-13-undp-eswatini-dra-results-launch]]

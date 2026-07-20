@@ -5,11 +5,11 @@ place: ZAF
 topic: dpi.govtech
 places: [ZAF]
 topics: [dpi.govtech, dpi.exchange, gov.policy, gov.standards, data.statistics]
-entities: [[mzansixchange], [mymzansi], [sa-digital-transformation-roadmap], [digital-services-unit-presidency-sa], [operation-vulindlela], [sita], [national-treasury-south-africa], [cyril-ramaphosa], [solly-malatsi]]
+entities: [[mzansixchange], [mymzansi], [sa-digital-transformation-roadmap], [digital-services-unit-presidency-sa], [operation-vulindlela], [sita], [national-treasury-south-africa], [cyril-ramaphosa], [solly-malatsi], [gcis], [sars], [home-affairs-south-africa], [border-management-authority], [government-printing-works]]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-19
-sources: [[2025-10-10-mzansixchange-launch], [2025-11-05-govt-data-exchange-estonia-xroad], [2026-02-13-sona-2026-digital-mega-platform], [2026-04-23-operation-vulindlela-digital-transformation], [2026-07-06-sita-r2bn-irregular-spending], [2026-07-07-malatsi-sita-30-days-recovery]]
+last_reviewed: 2026-07-20
+sources: [[2025-10-10-mzansixchange-launch], [2025-11-05-govt-data-exchange-estonia-xroad], [2026-02-13-sona-2026-digital-mega-platform], [2026-04-23-operation-vulindlela-digital-transformation], [2026-07-06-sita-r2bn-irregular-spending], [2026-07-07-malatsi-sita-30-days-recovery], [2025-03-27-cabinet-statement-26-march-2025], [2025-04-03-sars-collaboration-agreements-dha-bma-gpw]]
 ---
 
 # South Africa × E-Government & Interoperability
@@ -23,7 +23,9 @@ has to run it.
 
 - **A federated government data exchange.** The **[[national-treasury-south-africa|National Treasury]]** is
   running a **year-long pilot** of **[[mzansixchange]]** — built on **Estonia's X-Road** — under the
-  **[[sa-digital-transformation-roadmap|MyMzansi]] DPI roadmap** (launched May 2025, 2030 horizon). It is
+  **[[sa-digital-transformation-roadmap|MyMzansi]] DPI roadmap** (**approved by Cabinet 2025-03-26**,
+  publicly launched **2025-05-12**, 2030 horizon — *both dates real, six weeks apart; do not treat
+  either as the other's correction*). It is
   **not a central repository** but a **secure real-time data-sharing** rail between institutions, meant to end
   the "fragmented, siloed" data management that Treasury DG **Duncan Pieterse** says has "constrained our
   ability to make evidence-based decisions." One of three core DPI components. See [[dpi.exchange]]. Sources:
@@ -39,6 +41,24 @@ has to run it.
   (Presidency + Treasury) added a **digital-transformation workstream** that is "gathering pace" — the
   cross-cutting engine driving the ID, payments and e-services reforms compiled across the ZAF
   intersections. See [[gov.policy]]. Source: [[2026-04-23-operation-vulindlela-digital-transformation]].
+- **2025-03-26 — Cabinet approves the Roadmap, and names the problem it is solving.** Cabinet's own
+  statement records approval of the **Digital Transformation of Government Roadmap** "to leverage
+  technology to enhance public service delivery and government efficiency", listing the issues being
+  addressed as **interdepartmental coordination, outdated systems, overlapping mandates and limited
+  skills or capacity**, and framing the goal as "a **people-centered digital government** that better
+  understands the needs of the people, **particularly vulnerable groups**". **The state's own
+  diagnosis is institutional fragmentation, not technology** — which is the SITA problem below and
+  the MzansiXchange rationale above, stated by Cabinet before either was built. The **same meeting**
+  approved **Operation Vulindlela Phase 2**, adding **digital transformation** as a new focus area
+  alongside local government and spatial inequality — so the Roadmap and the reform engine were
+  authorised together, not sequentially. Source:
+  [[2025-03-27-cabinet-statement-26-march-2025]].
+- **What the Roadmap immediately produced.** Eight days later (**2025-04-03**) SARS, Home Affairs,
+  the BMA and GPW signed the digital-ID agreements **expressly "in line with the Digital
+  Transformation of Government Roadmap, which the Cabinet approved on 26 March 2025"** — the first
+  concrete instrument issued under it, and evidence the Roadmap functions as an operative authority
+  rather than a statement of intent. See [[south-africa--dpi-id]]. Source:
+  [[2025-04-03-sars-collaboration-agreements-dha-bma-gpw]].
 
 ## The weak link: SITA in crisis
 

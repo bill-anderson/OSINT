@@ -5,8 +5,8 @@ title: Eswatini Economic Policy Analysis and Research Centre (ESEPARC)
 places: [SWZ]
 topics: [capacity.research, gov.policy, data.statistics]
 status: active
-last_reviewed: 2026-07-17
-sources: [[2024-12-05 Eswatini Advances Toward Digital Transformation - Key Findings from the Digital Readiness Assessment], [2024-11-22 Eswatini unveils readiness report for digital ID, transformation push], [2024-11-01 Digital Readiness Assessment - Eswatini (UNDP)]]
+last_reviewed: 2026-07-20
+sources: [[2024-12-05 Eswatini Advances Toward Digital Transformation - Key Findings from the Digital Readiness Assessment], [2024-11-22 Eswatini unveils readiness report for digital ID, transformation push], [2024-11-01 Digital Readiness Assessment - Eswatini (UNDP)], [2024-11-13-undp-eswatini-dra-results-launch]]
 ---
 
 # Eswatini Economic Policy Analysis and Research Centre (ESEPARC)
@@ -43,3 +43,4 @@ Policy Centre (SEPARC)"**; that is an outlet error, not an alternative name. Tre
 - [[2024-12-05 Eswatini Advances Toward Digital Transformation - Key Findings from the Digital Readiness Assessment]]
 - [[2024-11-22 Eswatini unveils readiness report for digital ID, transformation push]]
 - [[2024-11-01 Digital Readiness Assessment - Eswatini (UNDP)]]
+- [[2024-11-13-undp-eswatini-dra-results-launch]]

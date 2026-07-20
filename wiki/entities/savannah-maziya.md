@@ -6,8 +6,8 @@ places: [SWZ]
 topics: [gov.policy, dpi.govtech, capacity.training]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-17
-sources: [[2024-11-22 Eswatini unveils readiness report for digital ID, transformation push], [2024-12-10 Unveiling Eswatini's Digital Path], [2024-12-05 Eswatini Advances Toward Digital Transformation - Key Findings from the Digital Readiness Assessment], [2025-01-22 Eswatini partners with Google to drive digital transformation and economic growth]]
+last_reviewed: 2026-07-20
+sources: [[2024-11-22 Eswatini unveils readiness report for digital ID, transformation push], [2024-12-10 Unveiling Eswatini's Digital Path], [2024-12-05 Eswatini Advances Toward Digital Transformation - Key Findings from the Digital Readiness Assessment], [2025-01-22 Eswatini partners with Google to drive digital transformation and economic growth], [2024-11-13-undp-eswatini-dra-results-launch]]
 ---
 
 # Savannah Maziya
@@ -50,3 +50,4 @@ and its [[government-in-your-hand]] theme. Heads [[ministry-of-ict-eswatini]]. S
 - [[2024-12-10 Unveiling Eswatini's Digital Path]]
 - [[2024-12-05 Eswatini Advances Toward Digital Transformation - Key Findings from the Digital Readiness Assessment]]
 - [[2025-01-22 Eswatini partners with Google to drive digital transformation and economic growth]]
+- [[2024-11-13-undp-eswatini-dra-results-launch]]

@@ -6,8 +6,8 @@ places: [DZA]
 topics: [infra.cybersec, gov.policy]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-18
-sources: [[2026-01-26-cybersecurity-framework-national-infrastructure--techafricanews], [2026-03-05-national-cybersecurity-strategy-2025-2029--wearetech], [2026-06-01-rssi-cybersecurity-training-sidi-abdellah-elmoudjahid]]
+last_reviewed: 2026-07-20
+sources: [[2025-12-30-joradp-decret-25-320-gouvernance-donnees], [2026-01-26-cybersecurity-framework-national-infrastructure--techafricanews], [2026-03-05-national-cybersecurity-strategy-2025-2029--wearetech], [2026-06-01-rssi-cybersecurity-training-sidi-abdellah-elmoudjahid]]
 ---
 
 # ASSI (Information Systems Security Agency)

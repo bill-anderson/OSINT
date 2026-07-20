@@ -58,8 +58,13 @@ enrolment *is* biometric capture, so "enrolled with biometrics" and "enrolled on
 act). The December-2025 "about 1.3m" restates the **May-2024** figure exactly, in a PR briefing on travel
 documents and card procurement rather than a registration-statistics release — and is contradicted by a
 more authoritative source three months earlier. Note the "~1.6m implied" figure should be retired: the PAD
-states the absolute number as **~1.5m**, and 1.5m ÷ ~10m adults *is* its "15% of adults." The real finding
-is a **plateau, not a decline** — flat at ~1.5m from Sep 2024 to Sep 2025, with UNDP noting mass
+gives a **percentage, not an absolute**: "advances through the Integrated National Registration
+Information System (INRIS) have **registered 15 percent of adults using biometrics**" (verbatim,
+2025-09-11). *Correction, 2026-07-20: the reconcile pass reported the PAD as stating "around 1.5 million
+people"; that phrase is **not** in the verbatim text now held (itself a partial capture). Any ~1.5m
+absolute is an **inference** from 15% against an adult base of ~10m — the same inference the original
+brief made to reach ~1.6m from a slightly different base.* The real finding is a **plateau, not a
+decline** — flat at roughly 1.5m from Sep 2024 to Sep 2025, with UNDP noting mass
 registration efforts paused.
 
 ## Activity in this wiki

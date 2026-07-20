@@ -4,20 +4,21 @@ title: South Sudan × Digital Payments
 place: SSD
 topic: dpi.pay
 places: [SSD]
-topics: [dpi.pay, dpi.exchange, include.access, gov.legislate, infra.cybersec, tech.industry]
-entities: [[bank-of-south-sudan], [nips-south-sudan], [mtn-south-sudan]]
+topics: [dpi.pay, dpi.exchange, include.access, gov.legislate, gov.standards, infra.cybersec, tech.industry]
+entities: [[bank-of-south-sudan], [nips-south-sudan], [ssips-south-sudan], [africanenda], [mtn-south-sudan]]
 lens: []
 status: active
-last_reviewed: 2026-07-19
-sources: [[2025-07-19-central-bank-mobile-money-legal-tender-onecitizendaily], [2025-07-22-mobile-money-legal-tender-mixed-reactions-onecitizendaily], [2025-08-15-mobile-money-providers-nationwide-expansion-onecitizendaily], [2025-08-29-boss-safeguard-payment-system-mtn-momo-onecitizendaily], [2026-03-17-itu-dfs-security-lab-eyeradio], [2026-05-20-rtgs-system-uptake-cajnews]]
+last_reviewed: 2026-07-20
+sources: [[2025-07-19-central-bank-mobile-money-legal-tender-onecitizendaily], [2025-07-22-mobile-money-legal-tender-mixed-reactions-onecitizendaily], [2025-08-15-mobile-money-providers-nationwide-expansion-onecitizendaily], [2025-08-29-boss-safeguard-payment-system-mtn-momo-onecitizendaily], [2026-03-17-itu-dfs-security-lab-eyeradio], [2026-05-20-rtgs-system-uptake-cajnews], [2025-02-05-africanenda-boss-nips-announcement], [2025-10-01-eyeradio-boss-ssips-ats-plus-explainer], [2025-10-10-boss-launches-first-electronic-interbank-payment-system]]
 ---
 
 # South Sudan × Digital Payments
 
 In a **~90% cash** economy, telecom **mobile money** is the de-facto payments layer. The
 **[[bank-of-south-sudan]]** is now asserting a formal regime — declaring mobile money **legal tender**,
-building interbank rails (NIPS/IBPSS/RTGS) and payment-security capacity — but ahead of the cybersecurity
-and data-protection frameworks meant to underpin it.
+standing up the **SSIPS** interbank settlement platform (live 2025-10-10) and payment-security capacity —
+but ahead of the cybersecurity and data-protection frameworks meant to underpin it. The retail instant
+rail (**NIPS**) remains a project, not a live system.
 
 ## Mobile money as legal tender
 
@@ -41,9 +42,31 @@ and data-protection frameworks meant to underpin it.
 
 ## The state rails and payment security
 
-- **RTGS uptake (Oct 2025→).** BoSS and the Finance Ministry reported **"exceptional uptake"** of a
-  **Real-Time Gross Settlement (RTGS)** system (launched Oct 2025) for real-time bank/government
-  settlement — the interbank layer (cf. the **IBPSS**/NIPS reconcile flagged on the [[SSD]] hub). See
+- **SSIPS — the live interbank layer (2025-10-10).** BoSS launched the **South Sudan Interbank Payment
+  and Settlement System (SSIPS)**, an **ATS+** platform combining **RTGS** (high-value, urgent, settled
+  individually and irrevocably on validation) and **ACH** (bulk, lower-value batch cycles — salary runs,
+  utility bills) on the **ISO 20022** messaging standard, replacing paper-based manual interbank process.
+  Rollout is **phased**, beginning with a select number of banks and onboarding others; security rests on
+  encrypted channels, MFA and an isolated network, with a real-time participant credit/liquidity risk
+  framework. Governor **Dr Addis Ababa Othow** presided (Cabinet Affairs minister Martin Elia Lomuro
+  representing President Kiir); **[[eac]]** and **[[african-development-bank]]** representatives cast it
+  as regional alignment, and the South Sudan Bankers Association pledged commercial-bank backing. See
+  [[dpi.exchange]], [[gov.standards]]. Sources:
+  [[2025-10-10-boss-launches-first-electronic-interbank-payment-system]],
+  [[2025-10-01-eyeradio-boss-ssips-ats-plus-explainer]].
+  *Read it as plumbing.* SSIPS is **wholesale settlement infrastructure, not a retail instant rail**. The
+  retail framing used from the podium was promotional — mobile-money and fintech onboarding was still
+  being solicited at launch. The "IBPSS" acronym in circulation is a mangling of SSIPS.
+- **NIPS is a project, not a live system (2025-02-05).** The BoSS–**[[africanenda]]** partnership announced
+  under governor **Johnny Ohisa Damian** scoped "developing a detailed roadmap for NIPS implementation",
+  capacity-building and bank/telco interoperability, after a **2023 proof-of-concept**. AfricaNenda
+  targeted full rollout by **December 2025**; **no go-live is documented** (as of 2026-07), and
+  AfricaNenda's own *SIIPS 2025* census (data to June 2025) does not list South Sudan. The relationship to
+  SSIPS is **sequential, not alternative**: SSIPS is the settlement layer a retail instant rail needs, and
+  the Feb-2025 release itself said NIPS "aligns with broader efforts to integrate… ACH and RTGS". Full
+  treatment: **[[nips-south-sudan]]**. Source: [[2025-02-05-africanenda-boss-nips-announcement]].
+- **RTGS uptake (Oct 2025→).** BoSS and the Finance Ministry reported **"exceptional uptake"** of the
+  **RTGS** component for real-time bank/government settlement. See
   [[dpi.exchange]]. Source: [[2026-05-20-rtgs-system-uptake-cajnews]].
 - **DFS Security Lab (2026).** The **[[national-communication-authority-south-sudan|NCA]]** and BoSS,
   with the **ITU** (DFS Knowledge Transfer, Phase 3), stood up a **Digital Financial Services Security
@@ -56,6 +79,11 @@ and data-protection frameworks meant to underpin it.
   and standing up interbank rails are real steps, but in a cash-dominant economy without enacted data-
   protection law they front-run the trust infrastructure — the same "digitising ahead of governance"
   pattern that runs through South Sudan's DPI ([[SSD]] hub).
+- **The announcement layer runs ahead of the delivery layer.** A project launch (NIPS, Feb 2025) was
+  reported by trade press as a system launch, and a wholesale settlement platform (SSIPS, Oct 2025) was
+  sold from the podium in retail language. Both readings overstate what citizens can actually transact
+  with; the durable fact is that South Sudan gained **interbank settlement plumbing** in Oct 2025 and
+  still has **no live national retail instant rail** (as of 2026-07).
 
 ## Links
 

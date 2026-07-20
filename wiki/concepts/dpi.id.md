@@ -6,7 +6,7 @@ places: [MRT, COG, COM, CMR, BWA, BFA, BDI, AGO, BEN, CAF, CIV, COD, ETH, GHA, G
 entities: [[mosip], [id4africa], [equity-africanenda-gates-dpi-partnership], [afcfta-digital-trade-protocol], [adli], [afcfta], [eac], [nimc], [dial], [opencrvs], [gates-foundation], [atdi-mozambique], [mozambique-ethiopia-dpi-mou], [nida-tanzania], [bhutan-ndi], [sign-foundation], [rdc-pass], [trident-digital-tech], [oneci], [maposte], [sudapass], [micsti-lesotho], [margins-id-group], [anid-togo], [e-id-togo], [novissi], [anats], [chad-biometric-registry], [seyid], [certexpress], [wisekey], [rstp]]
 lens: [sovereignty, colonialism]
 status: active
-last_reviewed: 2026-07-18
+last_reviewed: 2026-07-20
 sources: [[2023-12-21 ISR - WURI Phase 2 Seq 7 (P169594)], [2024-03-06 1 step forward, 3 steps back for West Africa's regional digital ID projects], [2025-11-19 Togo Advances Digital ID Program With New Enrollment Phase in Maritime Region], [2025-10-30 Senegal Benchmarks Togo's e-ID System for Digital Transformation], [2025-11-03 Senegal taps inspiration from Togo's digital ID experience], [2023-01-01 Case Study - G2PX in Togo, End-to-End Digital G2P (World Bank)], [2026-03-16 Chad uses national biometric registry to boost govt systems interoperability], [2025-06-03 Chad, Mali, Senegal pursue birth registration reforms to close gaps], [2024-09-18 Launch of New Digital Solutions for Public Services], [2024-09-18 Seychelles Makes Digital ID Mandatory for Work Permit Holders], [2022-11-01 Seychelles Civil Status Act Cap 34 (as at 1 Nov 2022)], [2024-07-22 Risk of human rights infringement as Eswatini rushes to regulate the ICT sector], [2024-11-22 Eswatini unveils readiness report for digital ID, transformation push], [2025-08-05 Robust DPI inevitable for Eswatini's economic, jobs boom - World Bank], [2021-08-30 31 First we must build Infrastructure], [2025-08-04 93 - Ecosystem Debt or Generative Platforms A Case for Digital Public Infrastructure], [2026-01-01 Digital Public Infrastructure in Africa - UNDP], [2026-01-19 Ivory Coast Launches MaPoste to Digitize Postal and Administrative Services], [2026-01-27 Madagascar Tests Biometric ID System, Aims to Register 2 Million People by Mid-2026], [2026-01-29 How to build trust alongside Sudan's digital identity system], [2026-02-20 MICSTI AND NUL ADVANCED LESOTHO DIGITAL PUBLIC INFRASTRUCTURE], [2026-04-22 Tanzania seeks biometrics contractors for Phase II of national digital ID project], [2026-04-28 Mozambique taps Ethiopia's digital ID expertise in DPI partnership], [2026-05-01 Understanding-MOSIP-Biometric-Update-report], [2026-05-16 World Bank, African DPAs outline formula for trusted digital identity, DPI], [2026-05-22 Uganda launches prototype program for digital ID and public infrastructure], [2026-05-27 Africa's economic future hinges on breaking down silos. This ADLI cohort advances integration], [2026-05-28 Why decentralized digital identity looks different in every country], [2026-06-05 Nigeria looks beyond enrollment as digital ID passes 130 million], [2026-06-09 MOSIP accredits Fime for biometric device testing], [2026-06-11 DR Congo to Launch National Digital Identity System RDC-PASS on June 13], [2026-06-17 They're taking DPI to the world - The Times of India], [2026-07-02 OpenCRVS v2.0 Product Launch Webinar - The Next Generation of Civil Registration], [2026-07-03 Study finds governance, not technology, is blocking digital ID interoperability], [2026-07-07 Equity, AfricaNenda and Gates Foundation Partner to Advance Digital Public Infrastructure Across Africa], [2026-07-08 Sierra Leone partners with Bhutan, Sign on digital identity platform], [2026-07-10 Every country defines identity differently. Can digital public infrastructure bridge those differences], [2026-07-13 Malawi reaches 13.5M digital IDs as universal coverage comes into view], [2026-07-13 Malawi outlines plans to transition to digital IDs - CAJ News Africa], [2025-11-26-quase-metade-dos-angolanos-sem-bilhete-de-identidade], [2026-04-29-bi-documento-unico-valido-identificacao]]
 ---
 
@@ -151,6 +151,40 @@ Substantial place treatments have their own intersection pages; the long tail is
 - **[[STP]] São Tomé and Príncipe** — MOSIP-based national digital-ID pilot (from 2024, shown at ID4Africa 2025) built on a **~98%** birth-registration base; nationwide rollout hoped within 1–2 years (as of 2026-07). [[sao-tome-national-digital-id]]
 - **[[SSD]] South Sudan** — no unified national digital ID; a personal ID ("Butaka Shakhsia") gates banking, land and court access (2026-01), only **~10%** hold Nationality Certificates (2025-12), and **17,400** EU/UNHCR returnee IDs were issued (2024-11). → [[south-sudan--dpi-id]] ([[dcrnpi-south-sudan]])
 - **[[SOM]] Somalia** — the foundational **[[snid|SNID]]** (11-digit biometric NIN, live since Sep 2023, [[nira-somalia]]/NADRA-built) passed **>1m** enrolled by late 2025 against a **15m** target by end-2029, and is being made mandatory for passports, travel and banking (2025–26). → [[somalia--dpi-id]]
+- **[[SOM]] Somalia.** Pakistan's **NADRA** delivered "advanced data center infrastructure" for SNIDS on
+  **2025-03-13**, alongside card-personalisation machines and secure card stock — the mechanism for an
+  on-shore migration, though not evidence one occurred. Where SNID data is physically hosted remains an
+  **open contradiction**. Source: [[2025-03-13-nadra-somalia-nid-data-centre-infrastructure]].
+- **[[UGA]] Uganda — the coverage debate is a denominator problem.** The "18m unregistered" figure is
+  **NIRA's own**, not advocacy: ED Rosemary Kisembo told COSASE (**2024-07-01**) that **18.1m were
+  unregistered against a total census population of 45.9m**, "most of those unregistered are **children
+  under 17**." Against **23,154,716 adults aged 18+ (2024-05-09)** the adult gap is ~**2.0m (~9%)**. The
+  register is an adult register — **6.3m of 27.4m registered are 0–17 (22.1%)** where that bracket is about
+  half the population. The **35m (2026-02-08) is cumulative enrolments ever issued**, carrying no
+  deregistration for death or emigration, not a coverage rate. The binding constraint is **card
+  possession**: 10,152,559 printed, **2,581,457 collected (35.5%)**. See [[uganda--dpi-id]].
+- **[[TZA]] Tanzania — "Jamii Namba" is a designation, not a new credential.** PM Kassim Majaliwa stated
+  (**2024-10-17**) that **the NIDA number *is* the Jamii Namba** — settling a point donor syntheses
+  routinely garble. The programme dates from a **2023-08-10** presidential directive against fragmented
+  identifiers; design was complete by **2024-03-08** (RITA + NIDA + Zanzibar ID) with an **end-2025 target
+  that was missed**. See [[tanzania--dpi-id]].
+- **[[ZAF]] South Africa — SARS hosts, SARB integrates.** The DHA's tabled APP 2026/27 (**2026-03-30**)
+  fixes FY2026/27's only digital-ID target as completing **PKI and digital-identity hosting infrastructure
+  inside the SARS environment** (sign-off by 2027-03-31) — plumbing, not launch, with verifiable credentials
+  in later phases. **Facial recognition primary, fingerprints secondary.** SARB is an integration partner on
+  payments/eKYC, and states it is "not the leading authority in relation to identification in SA". See
+  [[south-africa--dpi-id]].
+- **[[ZMB]] Zambia — date the event to the primary.** SZI "has begun the process of engaging an
+  international partner" for the national digital ID, targeting completion in 2026 and a system "developed
+  by Zambians" (Percy Chinyama to ZNBC, **2026-03-22**). The widely-cited 2026-03-24 trade-press items are
+  re-reports of that broadcast — do not date the event to them.
+- **[[MRT]] Mauritania — foreign supply dependence in foundational documents.** ANRPTS attributed its 2023
+  passport shortage to polycarbonate blanks produced in only a few European states, contracted through a
+  French supplier manufacturing in the Netherlands, with 6–10-month lead times; national demand rose
+  **20,000 (2020) → ~94,000 (year to mid-2023)**. Source:
+  [[2023-08-18-anrpts-passport-demand-20000-2020-to-94000-2023]].
+- **[[SEN]] Senegal — ID-card production suspended 2026-02-05 to 2026-04-01** (~8 weeks) after the DAF
+  breach: a concrete measure of a foundational-ID outage's service cost. See [[senegal--dpi-id]].
 
 
 ## Places

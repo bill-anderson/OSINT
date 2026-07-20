@@ -6,7 +6,7 @@ parent: XEA
 place_kind: country
 topics: [gov.protect, gov.legislate, dpi.govtech, dpi.pay, dpi.id, dpi.registry, dpi.exchange, infra.connect, infra.store, infra.cybersec, gov.regional, gov.policy, finance.new, finance.mou, tech.industry, include.access]
 status: active
-last_reviewed: 2026-07-19
+last_reviewed: 2026-07-20
 ---
 
 # Somalia (SOM)
@@ -65,6 +65,17 @@ market's velocity.
   19 districts (UNICEF/Germany-backed); only 3% of under-fives have a registered birth
   (2020 DHS). Source: [[2025-08-11 Somalia pilots 19-district digital civil registry]]. See
   [[dpi.registry]], [[dpi.id]].
+- **2025-05-06** — **National Data Center "nearing completion"; MoCT again concedes
+  offshore hosting.** Minister Mohamed Adam Moalim Ali made a second site inspection of the
+  **National Data Center** under construction in Mogadishu (accompanied by ministry DG Farah
+  Abdinur Ahmed), which MoCT says will "store all essential data of government institutions,
+  **eliminating the need to host Somali government data outside the country**." As of this
+  statement (6 May 2025) the facility was **not yet operational**. The wording restates
+  MoCT's 2024-04-28 position and is a government acknowledgement that Somali **government
+  data generally** was then hosted offshore — MoCT does **not** say this of the
+  **[[snid]]** specifically. Source:
+  [[2025-05-06-moct-national-data-center-nearing-completion]]. See [[infra.store]],
+  [[gov.policy]], [[somalia--infra-connect]].
 - **2025-03-25** — **SIPS built on BPC SmartVista.** The **[[somalia-instant-payment-system]]**,
   operated by Somalia Payment Switch under CBS, launched on BPC's SmartVista platform (Jan
   2025), with 7 institutions live and the SOMQR standard (2023). Source:
@@ -75,6 +86,27 @@ market's velocity.
   2025 — the first direct "one person, one vote" local elections in five decades. Source:
   [[2025-03-18 Somalia's Electoral Commission unveils digital voter registration equipment]].
   See [[dpi.id]], [[dpi.govtech]].
+- **2025-03-13** — **NADRA delivers data-centre infrastructure for the national ID.** A
+  NADRA delegation led by its Chief Project Officer visited Mogadishu and, per NADRA's own
+  release, delivered "ID card personalization machines, secure ID cards, and **advanced data
+  center infrastructure**" for the **Somali National Identification System (SNIDS)**, built
+  with Pakistani financial and technical assistance. Talks covered **[[nira-somalia]]**,
+  **[[somalia-moifar]]**, the electoral commission (NIEBC) and the Somali National Bureau of
+  Statistics; NADRA is also introducing biometric verification services, an online enrolment
+  portal and self-enrolment apps for KYC. This is the **mechanism for an on-shore migration**
+  of ID data, dated to its delivery — it does **not** by itself establish that SNID data was
+  migrated. Source: [[2025-03-13-nadra-somalia-nid-data-centre-infrastructure]]. See
+  [[dpi.id]], [[infra.store]], [[somalia--dpi-id]].
+- **2024-04-28** — **MoCT tours the National Data Center and acknowledges offshore hosting.**
+  Minister Mohamed Adam Moalim Ali toured the **National Data Center** then under
+  construction in Mogadishu with NCA DG Mustafa Yasin Sheikh and Deputy Ahmed Ali Salad.
+  MoCT stated the completed centre "will centralize all data related to various government
+  bodies, and will **eliminate dependencies of national data on international data storage
+  solutions, that is stored outside the country**" — the Federal Government conceding, in the
+  present tense, that national data was then held **offshore**. The claim is about
+  **government data generally**, not the **[[snid]]** specifically. Source:
+  [[2024-04-28-moct-national-data-center-tour]]. See [[infra.store]], [[gov.policy]],
+  [[dpi.govtech]].
 - **2024-02-24** — **Data Protection Authority inaugurated.** Somalia inaugurated its
   **[[somalia-data-protection-authority]]** under the **[[somali-data-protection-act]]**
   (Law 005/2023, effective 23 Mar 2023) — foundational to the Feb-2026 regulatory framework
@@ -141,7 +173,9 @@ market's velocity.
   (ITU-supported validation, Oct 2025; Vision 2060); first **National DPI Summit** (Feb 2026); service DPI (National Job Portal, EIR immunization register) and the fragmentation/coordination critique. Full case: [[somalia--dpi-govtech]].
 - [[infra.connect]] · [[infra.store]] · [[gov.regional]] — **[[dare1-cable]]** landings
   (Bosaso/Mogadishu) with [[hormuud-telecom]] + [[somtel]]; Hormuud green data centres (11
-  DCs, 10 MWh); Starlink licensed (Apr 2025, live Aug); AstaanConnect reseller; 10.7m internet users (2025);
+  DCs, 10 MWh); the state **National Data Center** (Mogadishu, under construction; "nearing
+  completion" May 2025, not yet launched), built to end offshore hosting of government data;
+  Starlink licensed (Apr 2025, live Aug); AstaanConnect reseller; 10.7m internet users (2025);
   IPv6 migration; IFC submarine-cable working group; **EAC e-Passport** adoption (Feb 2026); Horn of
   Africa integration. Full case: [[somalia--infra-connect]].
 
@@ -161,6 +195,7 @@ market's velocity.
 - [[hormuud-telecom]] · [[somtel]] — telecom operators; [[dare1-cable]] partners
 - [[somcable]] · [[ethio-telecom]] — cross-border telecom talks (Somaliland/Ethiopia)
 - [[starlink]] — satellite connectivity (licensed Apr 2025)
-- Mentioned, not hubbed: Telesom (mobile money operator); National Communications
-  Authority (NCA); NADRA (Pakistan, ID tech partner); Somali Bankers Association;
+- Mentioned, not hubbed: **National Data Center** (Mogadishu; MoCT/NCA, World Bank
+  SCALED-UP — no page yet, flagged for the entity pass); Telesom (mobile money operator);
+  National Communications Authority (NCA); NADRA (Pakistan, ID tech partner); Somali Bankers Association;
   al-Shabaab. Foreign/shared: World Bank, ITU, UNDP, UNICEF, EAC, FBI, BPC, DataReportal.

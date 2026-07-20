@@ -6,8 +6,8 @@ places: [LSO]
 topics: [infra.store, infra.energy, tech.ai, finance.new, geopol.usa]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-18
-sources: [[2026-06-09-convalt-kobong-hydropower-ai-datacenter-techafricanews], [2026-06-30-lesotho-first-ai-data-center-connectingafrica]]
+last_reviewed: 2026-07-20
+sources: [[2026-06-09-convalt-kobong-hydropower-ai-datacenter-techafricanews], [2026-06-30-lesotho-first-ai-data-center-connectingafrica], [2026-06-08-convalt-energy-lesotho-partnership-press-release]]
 ---
 
 # Project Kobong ($6.2bn Convalt hydropower + AI data centre)
@@ -31,7 +31,11 @@ regulatory approvals, and definitive project agreements"; the Lesotho government
 strong statement of intent". The ~$6.2bn (M98bn) figure is the **proposed project value, not committed
 capital**; no final investment decision had been taken as of 2026-07-20. Both characterisations were
 partly right — Tech Africa News on legal form, Connecting Africa on practical effect (though it mislabels
-the instrument, a non-binding MoU having preceded the MoA). The MoA text itself is not public.
+the instrument, a non-binding MoU having preceded the MoA). The MoA text itself is not public. Source:
+[[2026-06-08-convalt-energy-lesotho-partnership-press-release]] — which says both things in one document:
+Convalt "has entered into a **binding Memorandum of Agreement**… **for the opportunity to develop**", and
+that progression "remains subject to… feasibility studies, permitting, financing, regulatory approvals,
+and definitive project agreements."
 
 ## Related
 

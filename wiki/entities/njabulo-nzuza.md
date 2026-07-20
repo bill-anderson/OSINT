@@ -5,8 +5,8 @@ title: Njabulo Nzuza
 places: [ZAF]
 topics: [dpi.id, dpi.registry, dpi.govtech, data.statistics, include.access, digital.rural]
 status: active
-last_reviewed: 2026-07-17
-sources: [[2025-07-03 Deputy Minister Njabulo Nzuza - Home Affairs Dept Budget Vote 2025-26, NCOP]]
+last_reviewed: 2026-07-20
+sources: [[2025-07-03 Deputy Minister Njabulo Nzuza - Home Affairs Dept Budget Vote 2025-26, NCOP], [2026-03-30-dha-annual-performance-plan-2026-27-digital-identity]]
 ---
 
 # Njabulo Nzuza
@@ -29,6 +29,9 @@ delivery, and it also introduces a live architectural conflict.
   partner on the payments/eKYC side** (its own Digital Payments Roadmap states it is "not the leading
   authority in relation to identification in SA"). Nzuza's 2025 statement was **incomplete, not
   wrong**. Sources:
+  [[2026-03-30-dha-annual-performance-plan-2026-27-digital-identity]] (**the primary that settles
+  it** — "hosted within the SARS environment" in the narrative, SARB named only under *Assumptions*:
+  "SARB, banks and telecom partners collaborate on integration"),
   [[2025-07-03 Deputy Minister Njabulo Nzuza - Home Affairs Dept Budget Vote 2025-26, NCOP]],
   [[2025-04-01 South Africa Department of Home Affairs Strategic Plan 2025-2030]].
 - **Smart ID delivery (FY2024/25).** A record **3,597,856 Smart ID cards issued against a 2.5m

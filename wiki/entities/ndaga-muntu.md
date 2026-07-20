@@ -6,8 +6,8 @@ places: [UGA]
 topics: [dpi.id, dpi.registry, include.access, include.divides, gov.protect, dpi.pay]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-17
-sources: [[2026-02-11 Uganda migrates more than 28M records to new national ID system], [2026-03-02 IriTech provides iris biometrics for Uganda's upgraded registration kits], [2025-09-13 Uganda's Digital ID Barrier Worsens as Court Delivers Blow to Access], [2024-08-19 Uganda Prepares Large-scale Biometric Registration for National ID], [2025-05-28 Huge turnout as Nira starts mass registration], [2024-10-14 Uganda financial institutions sign on for digital KYC through national ID], [2025-11-11 URA Launches Tax Filing Season, Announces Shift from TIN to NIN]]
+last_reviewed: 2026-07-20
+sources: [[2026-02-11 Uganda migrates more than 28M records to new national ID system], [2026-03-02 IriTech provides iris biometrics for Uganda's upgraded registration kits], [2025-09-13 Uganda's Digital ID Barrier Worsens as Court Delivers Blow to Access], [2024-08-19 Uganda Prepares Large-scale Biometric Registration for National ID], [2025-05-28 Huge turnout as Nira starts mass registration], [2024-10-14 Uganda financial institutions sign on for digital KYC through national ID], [2025-11-11 URA Launches Tax Filing Season, Announces Shift from TIN to NIN], [2024-07-02-nira-iris-scanning-1m-unmatched-fingerprints-ubc], [2024-07-16-nira-cosase-18-million-unregistered-staffing], [2024-07-25-chrgj-iser-heapi-seizing-opportunity-uganda-digital-id], [2024-10-15-nira-press-statement-mass-enrolment-status]]
 ---
 
 # Ndaga Muntu (Uganda National ID)

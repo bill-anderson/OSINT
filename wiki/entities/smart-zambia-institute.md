@@ -6,8 +6,8 @@ places: [ZMB]
 topics: [dpi.govtech, gov.policy, dpi.exchange, dpi.id, dpi.registry]
 lens: [sovereignty]
 status: active
-sources: [[2025-09-11 DZAP World Bank PAD], [2026-06-17 Zambia's govt leans towards open-source], [2026-03-24 Zambia looking for MOSIP system integrator to support digital ID project], [2026-03-24 Zambia seeks partner for national digital ID system], [2026-01-08 Zambia unveils online passport application system], [2026-01-23 Zambia begins amending Electronic Government Act], [2025-01-17 Zambia Advances Digital ID System with MOSIP Training for Healthcare Integration], [2025-10-03 Zambia plans domestic digital ID development with help from international partners], [2026-01-05 Zambia programs national digital ID rollout for year-end], [2026-07-17-zambia-govlink-private-4g], [2026-07-17-zambie-lance-reseau-4g-prive-govlink]]
-last_reviewed: 2026-07-19
+sources: [[2025-09-11 DZAP World Bank PAD], [2026-06-17 Zambia's govt leans towards open-source], [2026-03-24 Zambia looking for MOSIP system integrator to support digital ID project], [2026-03-24 Zambia seeks partner for national digital ID system], [2026-01-08 Zambia unveils online passport application system], [2026-01-23 Zambia begins amending Electronic Government Act], [2025-01-17 Zambia Advances Digital ID System with MOSIP Training for Healthcare Integration], [2025-10-03 Zambia plans domestic digital ID development with help from international partners], [2026-01-05 Zambia programs national digital ID rollout for year-end], [2026-07-17-zambia-govlink-private-4g], [2026-07-17-zambie-lance-reseau-4g-prive-govlink], [2025-02-12-itweb-zambia-deploys-govt-wan-service-delivery], [2026-03-22-znbc-zambia-moves-ahead-digital-id-system], [2026-03-25-kalemba-zambia-cdf-ecouncil-116-councils-gwan], [2026-03-25-zanis-smart-zambia-digital-infrastructure-investment]]
+last_reviewed: 2026-07-20
 ---
 
 # Smart Zambia Institute (SZI)

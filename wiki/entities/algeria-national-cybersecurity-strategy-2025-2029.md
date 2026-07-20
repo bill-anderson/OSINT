@@ -6,8 +6,8 @@ places: [DZA]
 topics: [infra.cybersec, gov.policy, gov.protect]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-18
-sources: [[2026-03-03-defence-information-systems-security-strategy-2029-echorouk], [2026-03-05-national-cybersecurity-strategy-2025-2029--wearetech]]
+last_reviewed: 2026-07-20
+sources: [[2025-12-30-joradp-decret-25-320-gouvernance-donnees], [2026-03-03-defence-information-systems-security-strategy-2029-echorouk], [2026-03-05-national-cybersecurity-strategy-2025-2029--wearetech]]
 ---
 
 # Algeria National Strategy for Information Systems Security 2025–2029

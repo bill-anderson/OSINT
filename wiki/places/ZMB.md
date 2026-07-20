@@ -6,7 +6,7 @@ parent: XSA
 place_kind: country
 topics: [infra.connect, infra.cybersec, dpi.id, dpi.pay, dpi.exchange, dpi.govtech, capacity.training, gov.policy, gov.regional, finance.new, include.divides, data.open, gov.standards, geopol.china, dpi.registry, gov.protect, geopol.usa, dpi.mis, finance.mou, include.access, digital.rural, gov.legislate, tech.ai, digital.localgov, data.statistics, capacity.research]
 status: active
-last_reviewed: 2026-07-19
+last_reviewed: 2026-07-20
 ---
 
 # Zambia (ZMB)
@@ -104,10 +104,37 @@ The third is **evidentiary**: the headline numbers disagree. Penetration spans *
   [[america-first-global-health-strategy]] talks — negotiators reportedly sought **25-year data sharing
   for 5-year aid**. Source:
   [[2026-03-27 Kenya's Health Deal Is a Stress Test for the America First Global Health Strategy]].
+- **2026-03-25** — **SZI's own four-year scorecard — and the "phase 1 complete" claim on the record.** At a
+  media briefing (2026-03-24, reported 2026-03-25) covering 2021–2025, Government Chief Technical Officer
+  **Kasali Musenge** stated that "**all 116 councils have been connected to the government network, which
+  means phase 1 is completed 100 percent**", adding that **solar power** had been provided to all councils
+  so they can operate 24 hours a day. National Coordinator **Percy Chinyama** put internet connectivity at
+  "**approximately 80 percent**" (2026-03), called for **PPPs** toward a "digitally inclusive middle-income
+  country by 2030", and cited a **[[zesco]]** partnership plus digital record-keeping at the Ministries of
+  Agriculture, Lands, and Community Development. Musenge put **K7 billion** of revenue realised in digital
+  transactions across the four years. On local government: a **CDF management information system** is in
+  data entry across councils with full operationalisation expected **June 2026** ("we will be able to track
+  transaction by transaction, payment by payment"), and an **e-Council** revenue/financial-reporting
+  platform enters a proof-of-concept **phase one** with eight councils — **Ndola, Kalulushi, Kalumbila,
+  Kitwe, Solwezi, Chingola, Chilanga** — targeting system demonstration by **19 June 2026**. This is the
+  primary that settles the GWAN 116-councils question; the caveat that SZI's "connected" has sometimes
+  meant completed site works stands. See [[zambia--dpi-govtech]], [[digital.localgov]], [[dpi.mis]].
+  Sources: [[2026-03-25-kalemba-zambia-cdf-ecouncil-116-councils-gwan]],
+  [[2026-03-25-zanis-smart-zambia-digital-infrastructure-investment]].
 - **2026-03-24** — **MOSIP system-integrator procurement**, insisting the build be **home-grown and on
   open standards to avoid lock-in**; **end-2026** target, funded via [[dzap]]. Sources:
   [[2026-03-24 Zambia looking for MOSIP system integrator to support digital ID project]],
   [[2026-03-24 Zambia seeks partner for national digital ID system]]. **See [[zambia--dpi-id]].**
+- **2026-03-22** — **The primary behind the SI hunt: SZI on ZNBC.** The state broadcaster carried
+  **Percy Chinyama** confirming [[smart-zambia-institute]] "**has begun the process of engaging an
+  international partner**" for the national digital ID, that the project "**has entered a key
+  implementation phase, with completion targeted for 2026**", and that the system "**will be developed by
+  Zambians, with technical support from the international partner**". The cards will do what the NRC does
+  "**but with additional features, including use for travel, identification and access to both public and
+  private sector services**". Funded under **[[dzap]]** — a **US$100m IDA grant**. **This is the origin
+  report both 2026-03-24 items draw on** (Biometric Update cites ZNBC by name), so the event date is
+  **2026-03-22**, not the 24th. See [[zambia--dpi-id]]. Source:
+  [[2026-03-22-znbc-zambia-moves-ahead-digital-id-system]].
 - **2026-02-27** — **PAYZ financial-inclusion partnership**: Hichilema hosted [[payz]] at State House
   with [[bank-of-zambia]] and [[zicta]] to cut cash dependency; ZedMobile, the **4th MNO**, backed the
   National Financial Inclusion Strategy. Source:
@@ -154,6 +181,16 @@ The third is **evidentiary**: the headline numbers disagree. Penetration spans *
   UNDP's 1.5m fifteen months earlier; a later, smaller figure is **not supersession**. Biometric NRC
   issuance placed only **after the 2026 General Elections**. Source:
   [[2025-12-28 Over 1.3 Million Citizens Enrolled on INRIS]].
+- **2025-11-08** — **DataReportal *Digital 2026: Zambia* — the current internet-use baseline.**
+  **7.29m internet users, 33.0% of the population (October 2025)**, up **+199k (+2.8%) YoY with the
+  adoption rate unchanged**; **14.8m people (67.0%) offline**. **23.5m mobile connections = 106% of
+  population** (GSMA Intelligence, Oct 2025), **+1.3m (+5.8%) YoY**, of which **92.4% "broadband"** —
+  explicitly *not* a proxy for mobile internet use. **4.10m social-media identities = 18.6%** (+20.6% YoY);
+  Facebook 4.10m, LinkedIn 1.10m members, Instagram 542k, Messenger 361k, X 133k, Reddit 82.7k. Population
+  **22.1m**, median age **17.9**, **52.4% rural** (UN, Oct 2025). Note the publication shift: Kepios
+  published the *Digital 2026* series at end-2025, so these are **October-2025** readings. *Cited, not
+  absorbed.* This is the source of record for the **33.0%** figure carried under *Contested figures*.
+  Source: [[2025-11-08-digital-2026-zambia-datareportal]].
 - **2025-10-03** — **Refugee biometric IDs, an MVNO tender, a TBI MoU.** **[[zrhcp]]** launched with
   **$30m** ([[world-bank]] IDA20 Window for Host Communities and Refugees) plus [[unhcr]] technical
   support: biometric **NRCs for refugees and former refugees**, plus schools, clinics, water and roads;
@@ -190,6 +227,16 @@ The third is **evidentiary**: the headline numbers disagree. Penetration spans *
   population, DOWN 1.1% YoY**; population **21.6m**, **52.8% rural**. **The notable datum: Ookla's median
   fixed download FELL 38.0% YoY to 16.50 Mbps** — corroborating the drought/load-shedding constraint.
   *Cited, not absorbed.* Source: [[2025-03-03 Digital 2025 - Zambia (DataReportal)]].
+- **2025-02-12** — **What "connected" means: 12 GWAN sites complete, last mile still open.** SMART Zambia's
+  principal ICT officer for **Western Province, Enoch Moonde**, confirmed GWAN works **completed at 12
+  sites** — Luampa, Mitete, Limulunga, Sioma, Mwandi, Mulobezi, Nkeyema and Nalolo district commissioners'
+  offices and town councils. But "the project's completion is dependent on the finalisation of **last-mile
+  connections by other parties, particularly ZAMTEL**" (the state-owned operator): "we are working closely with ZAMTEL and
+  other stakeholders to complete the last-mile connections, **which will enable us to fully utilize the
+  GWAN network**." **This is the evidence that SZI's "connected" has at times meant completed site works,
+  not live end-to-end service** — the standing caveat on the 116-councils claim. See
+  [[zambia--dpi-govtech]], [[digital.localgov]]. Source:
+  [[2025-02-12-itweb-zambia-deploys-govt-wan-service-delivery]].
 - **2025-01-17** — **MOSIP work began fourteen months before the SI hunt**: [[smart-zambia-institute]]
   developers completed **[[mosip]] training** delivered by [[ihm-southern-africa]], aimed at integrating
   MOSIP with the [[smartcare-pro]] EHR for eKYC and a "central source of truth". Source:
@@ -213,6 +260,18 @@ The third is **evidentiary**: the headline numbers disagree. Penetration spans *
   implementing agency's own; no independent evaluation or uptake figure is on file.** Sources:
   [[2024-09-13 ZILAS - Your Gateway to Modern Land Administration (SMART Zambia)]],
   [[2024-09-13 Ministry of Lands and Natural Resources Goes Digital (SMART Zambia)]].
+- **2023-03-13** — **The ZICTA unit, stated on the record (historical baseline).** Reporting
+  **[[zicta]]'s 2022 Annual Market Performance Report**: **active internet *subscriptions* rose 6.73% to
+  11.1m (end-2022)** from 10.4m, with the **"Internet penetration rate" given as 56.7 per 100 inhabitants
+  (2021) → 56.8 per 100 inhabitants (2022)**. **This is the primary that fixes the unit** — ZICTA counts
+  *subscriptions per 100 inhabitants*, not people using the internet, which is why its series runs ~2×
+  DataReportal's (the same article notes DataReportal's **22.9% / 4.30m users, Jan 2023** alongside it).
+  Also: **active mobile subscriptions fell 2% to 19.8m (end-2022)** from 20.2m and **mobile penetration
+  fell to 101.2% from 110%**, both attributed to **SIM-registration guidelines**; mobile revenue **+18% YoY
+  to ZMW7.8bn (~US$386m)**, with **data at 36.9% of revenue (2022)** up from 30.5% (2021); domestic outgoing
+  traffic **+17% to 28.5bn minutes** while **international outgoing fell 15% to 14.9m minutes**, ZICTA
+  attributing the decline to VoIP substitutes such as WhatsApp. See [[infra.connect]], [[data.statistics]].
+  Source: [[2023-03-13-zicta-2022-annual-market-report-subscriptions]].
 
 ## Country snapshot
 
@@ -228,21 +287,31 @@ The third is **evidentiary**: the headline numbers disagree. Penetration spans *
 ### Contested figures (dated and attributed; none adopted)
 
 - **Internet penetration — two measures plus a retired vintage (resolved 2026-07-20).** Carry **33.0%
-  of the population using the internet (7.29m people, October 2025**, [[datareportal]]/Kepios), consistent
-  with the **ITU's 31.2% estimate (2022)**. ZICTA's higher figures — **56.8 per 100 inhabitants (end-2022)**,
-  64.1 (Dec 2023), 72.1 (2026) — are **active internet subscriptions per 100 inhabitants**, an
-  administrative count inflated by multi-SIM use, not a rate of people; UNDP (2024-09) lifted the 56.8
-  while dropping both its unit and its 2022 vintage. The **~21%** in the DZAP PAD is a **superseded Kepios
-  vintage** for 2021–Jan 2023, retired by Kepios' own restatement, and is not current state.
+  of the population using the internet (7.29m people, October 2025**, [[datareportal]]/[[kepios]] —
+  [[2025-11-08-digital-2026-zambia-datareportal]]), consistent with the **ITU's 31.2% estimate (2022)**.
+  ZICTA's higher figures — **56.8 per 100 inhabitants (end-2022)**, 64.1 (Dec 2023), 72.1 (2026) — are
+  **active internet subscriptions per 100 inhabitants**, an administrative count inflated by multi-SIM use,
+  not a rate of people; **ZICTA's own 2022 market report states the unit explicitly**
+  ([[2023-03-13-zicta-2022-annual-market-report-subscriptions]]), and UNDP (2024-09) lifted the 56.8 while
+  dropping both its unit and its 2022 vintage. The **~21%** in the DZAP PAD is a **superseded Kepios
+  vintage** for 2021–Jan 2023, retired by Kepios' own restatement, and is not current state. *(Separately,
+  Percy Chinyama's "**approximately 80 percent**" connectivity claim (2026-03) is a third, undefined
+  measure — no unit or basis given; do not treat it as a penetration rate. Source:
+  [[2026-03-25-zanis-smart-zambia-digital-infrastructure-investment]].)*
 - **[[inris]] enrolment — a plateau, not a decline (resolved 2026-07-20).** **~1.5m** (UNDP citing DNRPC,
-  2024-09), still **"around 1.5 million"** in the DZAP PAD (2025-09-11); the **~1.3m** reported by
+  2024-09); the DZAP PAD (2025-09-11) states only **"15 percent of adults" registered biometrically** — a
+  share, from which ~1.5m is inferred against a ~10m adult base, not an absolute the PAD gives. The
+  **~1.3m** reported by
   ZNBC/MoHAIS (2025-12) restates the May-2024 figure rather than reporting a fall — no de-duplication or
   downward revision has been reported. Enrolment has been broadly flat since late 2024.
 - **Digital ID target — different deliverables (resolved 2026-07-20).** **end-2027**
   ([[davies-chikalanga]], [[dnrpc-zambia]]) is **population-scale coverage** by the body legally mandated
   to issue; **end-2026** (Percy Chinyama, [[smart-zambia-institute]]) is **first issuance** against an
-  initial 2m goal. The funded DZAP target is **4m people with digitally verifiable ID by October 2030**.
-  Biometric NRC issuance comes only after the **2026-08-13** general election.
+  initial 2m goal — SZI's own framing is "**completion targeted for 2026**" for the *system*, with an
+  international partner being engaged ([[2026-03-22-znbc-zambia-moves-ahead-digital-id-system]]), while
+  **[[dnrpc-zambia]] owns the issuance milestone**. The funded DZAP target is **4m people with digitally
+  verifiable ID by October 2030**, the project closing **2030-10-31**. Biometric NRC issuance comes only
+  after the **2026-08-13** general election.
 - **NRC coverage.** **"over 88 percent"** and **"89 percent"** of adults 16+ — *both in the same UNDP
   article (2024-09)* — against **~94% by 2021** (DZAP PAD).
 
@@ -310,7 +379,10 @@ follow-up on file.
 - [[payz]] · [[bank-of-zambia]] · [[zicta]] · [[bayobab-zambia]] · [[vodacom]] · [[viamo]] · [[MOZ]]
 - New this batch (AI, skills & education, 2026-07-19): [[zambia-national-ai-strategy]] ·
   [[presidential-delivery-unit-zambia]] · [[e-mark-innovation-hub]] · [[zambia--tech-ai]] · [[itu]]
-- Mentioned, not hubbed: NSDI Policy/Portal; UN-IGIF; Gwendoline Hamabele (MLNR ICT); Mbuyu Makayi
+- [[kepios]] · [[gsma]] · [[airtel-zambia]] · [[lusaka-city-council]]
+- Mentioned, not hubbed: ZAMTEL; MTN Zambia; ZNBC; Kasali Musenge (SZI Government Chief Technical
+  Officer); Enoch Moonde (SZI principal ICT officer, Western Province); the Constituency Development Fund
+  (CDF) MIS; the e-Council platform; NSDI Policy/Portal; UN-IGIF; Gwendoline Hamabele (MLNR ICT); Mbuyu Makayi
   (Chipper Cash / BongoHive); TuSo Business Dynamics (IHM); Yodahe Zemichael (Ethiopia NIDP); Percy
   Chinyama (SZI National Coordinator); Brilliant Habeenzu; Leonard Chitundu; Felix Mutati; Hakainde
   Hichilema; Elijah Muchima; Laxton; ZedMobile.

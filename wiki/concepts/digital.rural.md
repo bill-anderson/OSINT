@@ -6,7 +6,7 @@ places: [ETH, KEN, NGA, ZMB, ZWE, TZA, UGA, RWA, SEN, MOZ, NAM, CIV, ZAF, XAF, X
 entities: [[echis-ethiopia], [nasa-harvest], [nucap], [starlink], [helios-towers], [orange-sat], [google], [global-center-on-ai-governance], [malawi-university-of-science-and-technology], [tagdev-2]]
 lens: [sovereignty, colonialism]
 status: active
-last_reviewed: 2026-07-19
+last_reviewed: 2026-07-20
 sources: [[2026-03-31 Africa we have a data problem], [2026-03-12 Western AI models 'fail spectacularly' in farms and forests abroad], [2026-03-26 Has Satellite Become Africa's Most Critical Connectivity Infrastructure], [2025-12-19 Why one of the year's biggest AI-for-development stories isn't actually about AI], [2026-07-13 On Leapfrogging - What are we leaping over and where are we landing], [2026-07-17-malawi-must-ai-fertigation]]
 ---
 
@@ -90,6 +90,11 @@ just digitisation"** thesis — see [[data.statistics]], [[2026-03-31 Africa we 
   Sierra Leone launched a **[[sierra-leone-national-digital-farmer-registry|National Digital Farmer
   Registry]]** tied to the national ID number — rural data capture built directly on foundational ID.
   See [[dpi.registry]], [[dpi.id]], [[SLE]].
+- **[[BFA]] Burkina Faso pairs rural coverage with security.** Minister Zerbo/Sabané framed white-zone
+  closure as contributing "aux efforts de sécurisation de notre territoire" (**2026-04-04**) — connectivity
+  as counter-insurgency infrastructure, not only inclusion. Rollout is constrained by insecurity, land
+  acquisition and power supply, met with regional workshops co-opting customary authorities across ten
+  regions. Source: [[2026-04-06-zero-zone-blanche-750-localites-phase-2-2027]]. See [[BFA]].
 
 ## Reads
 

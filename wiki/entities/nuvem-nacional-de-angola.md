@@ -6,8 +6,8 @@ places: [AGO]
 topics: [infra.store, dpi.govtech, gov.policy]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-17
-sources: [[2026-04-28-pr-inaugura-novo-centro-de-dados-do-governo], [2026-04-28-nj-pr-inaugura-novo-data-center], [2026-04-28-centro-de-dados-do-governo-soberania-digital]]
+last_reviewed: 2026-07-20
+sources: [[2026-04-28-pr-inaugura-novo-centro-de-dados-do-governo], [2026-04-28-nj-pr-inaugura-novo-data-center], [2026-04-28-centro-de-dados-do-governo-soberania-digital], [2025-11-28-angola-30000km-terrestrial-fibre-itu-wtdc-baku]]
 ---
 
 # Nuvem Nacional de Angola (Government Cloud)

@@ -5,11 +5,11 @@ place: AGO
 topic: infra.connect
 places: [AGO]
 topics: [infra.connect, data.satellite, gov.regional]
-entities: [[unitel], [angola-cables], [angola-telecom], [2africa-cable], [equiano-cable], [sarssy], [eutelsat], [mercury-telecom-angola], [conecta-angola], [angosat-2], [uniti-fiber]]
+entities: [[unitel], [angola-cables], [angola-telecom], [2africa-cable], [equiano-cable], [sarssy], [eutelsat], [mercury-telecom-angola], [conecta-angola], [angosat-2], [uniti-fiber], [ministerio-das-telecomunicacoes-tecnologias-de-informacao-e-comunicacao-social-angola], [mario-oliveira], [matias-borges], [angelo-buta-joao], [inacom], [projecto-nacional-de-banda-larga-angola], [itu], [movicel], [africell]]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-17
-sources: [[2025-12-13-unitel-investe-43-milhoes-usd-ramal-2africa], [2025-12-13-cabo-submarino-2africa-unitel-soberania-digital], [2025-11-07-minttics-expandir-rede-de-fibra-optica-submarina], [2026-03-26-minttics-projectos-estruturantes-base-tecnologica], [2025-03-11-ericsson-modernizes-unitels-network-in-angola], [2026-06-15-telecom-namibia-angola-telecom-satcab-sarssy-1tbps], [2026-06-15-telecom-namibia-angola-telecom-integrate-sarssy-with-equiano], [2026-06-12-unitel-agreements-expand-broadband-angotic], [2025-06-30-eutelsat-secures-15-year-oneweb-licence-in-angola], [2026-06-12-mercury-eutelsat-acordo-conectividade-leo], [2026-06-11-ilumina-angola-conectividade-no-lago-dilolo], [2025-08-21-angola-gets-10m-from-japan-for-dtt-project], [2026-05-21-angola-cables-uniti-expand-connectivity-itweb], [2026-06-12-angola-cables-uniti-partnership-connectingafrica]]
+last_reviewed: 2026-07-20
+sources: [[2023-05-17-minttics-matias-borges-22000km-rede-fibra-optica-terrestre], [2025-05-09-angola-minttics-2000km-fibra-optica-este-ano], [2025-11-28-angola-30000km-terrestrial-fibre-itu-wtdc-baku], [2026-06-30-unesco-ram-angola-28000km-fibra-prontidao-ia], [2025-12-13-unitel-investe-43-milhoes-usd-ramal-2africa], [2025-12-13-cabo-submarino-2africa-unitel-soberania-digital], [2025-11-07-minttics-expandir-rede-de-fibra-optica-submarina], [2026-03-26-minttics-projectos-estruturantes-base-tecnologica], [2025-03-11-ericsson-modernizes-unitels-network-in-angola], [2026-06-15-telecom-namibia-angola-telecom-satcab-sarssy-1tbps], [2026-06-15-telecom-namibia-angola-telecom-integrate-sarssy-with-equiano], [2026-06-12-unitel-agreements-expand-broadband-angotic], [2025-06-30-eutelsat-secures-15-year-oneweb-licence-in-angola], [2026-06-12-mercury-eutelsat-acordo-conectividade-leo], [2026-06-11-ilumina-angola-conectividade-no-lago-dilolo], [2025-08-21-angola-gets-10m-from-japan-for-dtt-project], [2026-05-21-angola-cables-uniti-expand-connectivity-itweb], [2026-06-12-angola-cables-uniti-partnership-connectingafrica]]
 ---
 
 # Angola × Connectivity (subsea, fibre, satellite, market)
@@ -45,18 +45,26 @@ stable international route "under national jurisdiction."
 National fibre length **cannot be stated as a single current figure** — Angola's own government reports
 it inconsistently, and the spread is not a growth series (resolved 2026-07-20):
 
-- **"more than 22,000 km"** — MINTTICS, **2023-05-17**, a figure traceable to a **2019 World Bank report**
-  and still being repeated by the minister in **April 2026**. Its real vintage is c. 2019–2023.
+- **"more than 22,000 km"** — MINTTICS National Director **Matias Borges**, **2023-05-17**, stated as
+  terrestrial fibre "connecting all provincial and communal capitals"; a figure traceable to a **2019 World
+  Bank report** and still being repeated by the minister in **April 2026**. Its real vintage is c. 2019–2023.
+  Source: [[2023-05-17-minttics-matias-borges-22000km-rede-fibra-optica-terrestre]].
 - **"more than 30,000 km"** terrestrial fibre (plus 4,860 km under repair, 1,400 km under construction) —
-  Secretary of State **Ângelo Buta João** to the ITU's WTDC in Baku, published **2025-11-28**.
+  Secretary of State **Ângelo Buta João** to the ITU's WTDC in Baku, published **2025-11-28**. Source:
+  [[2025-11-28-angola-30000km-terrestrial-fibre-itu-wtdc-baku]].
 - **~28,000 km** — **preliminary** data given by **Vicente Lopes**, UNESCO's national RAM consultant, as an
-  input to the AI-readiness assessment (**2026-06-30**) — not a UNESCO measurement.
+  input to the AI-readiness assessment (**2026-06-30**) — not a UNESCO measurement. Source:
+  [[2026-06-30-unesco-ram-angola-28000km-fibra-prontidao-ia]].
 - **~14,000 km (2025-12-13, Angop)** describes **Unitel's own** national footprint, not the country total.
   *(Strongly inferred rather than directly stated — Angop's wording is "a fibra óptica nacional" — but the
   alternative reading is arithmetically impossible against ≥22,000 km from 2023 and >30,000 km one month
   earlier.)*
 - **"mais de 2.000 km"** is a **recurring annual new-build increment** under the National Broadband Network
-  project — reported as such in 2024, 2025 and 2026 — not a stock, and not a truncation of 22,000.
+  project — reported as such in 2024, 2025 and 2026 — not a stock, and not a truncation of 22,000. The
+  **2025-05-09** instance is minister **[[mario-oliveira]]** telling the III MINTTICS Consultative Council
+  that Angola would gain "more than two thousand kilometres of optical fibre **this year**" — explicitly an
+  annual addition, pending a construction licence. Source:
+  [[2025-05-09-angola-minttics-2000km-fibra-optica-este-ano]].
 
 Monotonic growth is arithmetically impossible: the official series runs 20,000 (2025-10) → 30,000 (2025-11)
 → 22,000 (2026-04) → 28,000 (2026-06). This is a **data-quality defect in the Angolan official record**,
@@ -64,7 +72,15 @@ not a wiki error. INACOM's *Relatório Anual Estatístico* would settle it and i
 
 Fibre now reaches all provincial capitals with metro rings in major cities.
 
-The market is **mobile-led and concentrated**: at **end-2024**, **[[unitel]] 20.8m**, **[[africell]]
+Two dated MINTTICS commitments sit alongside the stock figures: a **1 Tbps Luanda metropolitan fibre ring**,
+announced **2025-05-09** as "the first one-terabit network in Africa" with equipment already ordered
+([[2025-05-09-angola-minttics-2000km-fibra-optica-este-ano]]); and the **Conecta Angola** count of **27
+locations connected, ~366,000 citizens benefiting** as of **2025-11-28**
+([[2025-11-28-angola-30000km-terrestrial-fibre-itu-wtdc-baku]]).
+
+The market is **mobile-led and concentrated**. A **2023-05-17** MINTTICS baseline gives **72.47% mobile
+penetration (23,977,537 subscribers)** and **30.46% internet penetration (10,078,974 users)**
+([[2023-05-17-minttics-matias-borges-22000km-rede-fibra-optica-terrestre]]). At **end-2024**, **[[unitel]] 20.8m**, **[[africell]]
 ~5m** and **Movicel 941,000** mobile users (Omdia). By **2026-03** MINTTICS cited **>28m mobile
 subscribers and >17m broadband users**; at the April 2026 data-centre launch, **~17.5–17.7m
 fixed+mobile broadband subscribers**, **~75% penetration** and **>85% population broadband coverage**
@@ -107,6 +123,10 @@ Related: [[angola--infra-store]] · [[angola--data-satellite]]
 
 ## Sources
 
+- [[2023-05-17-minttics-matias-borges-22000km-rede-fibra-optica-terrestre]]
+- [[2025-05-09-angola-minttics-2000km-fibra-optica-este-ano]]
+- [[2025-11-28-angola-30000km-terrestrial-fibre-itu-wtdc-baku]]
+- [[2026-06-30-unesco-ram-angola-28000km-fibra-prontidao-ia]]
 - [[2025-12-13-unitel-investe-43-milhoes-usd-ramal-2africa]]
 - [[2025-12-13-cabo-submarino-2africa-unitel-soberania-digital]]
 - [[2025-11-07-minttics-expandir-rede-de-fibra-optica-submarina]]

@@ -6,7 +6,7 @@ parent: XWA
 place_kind: country
 topics: [dpi.id, dpi.registry, dpi.govtech, dpi.mis, dpi.exchange, gov.policy, gov.standards, gov.protect, infra.store, infra.connect, infra.cybersec, gov.regional, gov.legislate, dpi.pay, finance.new, finance.mou, include.access, include.divides, tech.industry, data.statistics]
 status: active
-last_reviewed: 2026-07-18
+last_reviewed: 2026-07-20
 ---
 
 # Mauritania (MRT)
@@ -43,8 +43,12 @@ fourth-tier cybersecurity ranking mark the distance still to travel.
   seminar) **677k activated accounts, 554,027 remote services, 1,511,139 beneficiaries (~30% of population)**;
   app share of passport requests **24.8%→32.9%→35.7% (Jan 2026)**; 406,871 cumulative civil-status extracts.
   These **do not reconcile cleanly** with the held ID4Africa (May 2025) "70% of passport requests / 622k
-  extracts in a year" — flagged as a contradiction (metric/basis/period), both kept dated. Source:
-  [[2026-06-21-houwiyeti-usage-metrics-techrek]]. See [[houwiyeti]], [[dpi.id]].
+  extracts in a year" — *resolved (2026-07-20)*: against ANRPTS's own national passport volumes (~94,000/yr
+  to mid-2023, [[2023-08-18-anrpts-passport-demand-20000-2020-to-94000-2023]]), the app's cumulative 63,384
+  passport requests over ~2.5 years is ~25–30%/year — consistent with the 24.8%→32.9%→35.7% series and
+  inconsistent with "70%", which is not used. Sources:
+  [[2026-06-21-houwiyeti-usage-metrics-techrek]],
+  [[2023-08-18-anrpts-passport-demand-20000-2020-to-94000-2023]]. See [[houwiyeti]], [[dpi.id]].
 - **2026-06-18** — **Parliamentary debate on the ID-exclusion question** *(lens: sovereignty, colonialism)*.
   Opposition deputies pressed the Interior Minister over **citizens left without identity papers**. He replied
   enrolment is now a **permanent public service** (2025 reform): the National Population Register rose **3.4m
@@ -150,6 +154,18 @@ fourth-tier cybersecurity ranking mark the distance still to travel.
   [[2024-08-15 Mauritania Launches Digital ID for e-Services, Built on TECH5 Platform (Houwiyeti)]],
   [[2024-08-02 Mauritania launches digital ID app to boost access to services and improve governance]],
   [[2024-08-01 Mauritania pilots digital ID app (e-ID Mauritania)]]. See [[dpi.id]], [[include.access]].
+- **2023-08-18** *(baseline — the passport-volume denominator)* — **ANRPTS: passport demand 20,000 (2020) →
+  94,000 (year to mid-2023).** At a Nouakchott press conference on the passport shortage, **[[anrpts-mauritania|
+  ANRPTS]]** DG **Sidi Ali Ould Nafee** put national passport demand at **20,000 in 2020 rising to 94,000 in
+  the current year**, and attributed scarcity to **external supply dependence**: polycarbonate passport
+  blanks are produced only in a few European countries, under contract with a **French supplier** manufacturing
+  in the **Netherlands**, with lead times of **at least six months, stretched to ten by COVID-19**. Two
+  additional orders were placed, the first due end-September 2023; stock was rationed by priority (students and
+  patients travelling abroad). *(Lens: sovereignty — a foundational identity document gated by foreign
+  production.)* This figure is the denominator that makes the [[houwiyeti|Houwiyeti]] "70% of passport
+  requests" claim testable — and fails it. Source:
+  [[2023-08-18-anrpts-passport-demand-20000-2020-to-94000-2023]]. See [[dpi.id]], [[dpi.registry]],
+  [[include.access]].
 - **2023-11-27** — **National Digital Transformation Agenda 2022–2025.** In an interview, digital minister
   Mohamed Abdallahi Louly set out the agenda's four axes (infrastructure, digital government, sector
   transformation, e-business/innovation), a Startup Act, the **IBTIKAR** tech park, e-gov rollout (12 of 26

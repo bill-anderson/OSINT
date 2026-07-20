@@ -9,7 +9,7 @@ entities: [[smart-zambia-institute], [zamportal], [zampay], [lusaka-city-council
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-20
-sources: [[2025-06-23-smart-office-system-rollout], [2026-01-24-digitisation-reduced-corruption-smart-zambia], [2026-05-07-zambia-targets-full-digitalisation-smart-zambia], [2026-05-13-zambia-launches-pmis-property-management], [2026-05-29-councils-digital-lcc-first-zamportal], [2026-07-08-smart-zambia-expands-digital-infrastructure], [2026-07-12-govt-launches-ctmis-contract-system], [2026-07-17-zambie-lance-reseau-4g-prive-govlink], [2026-07-17-zambia-govlink-private-4g], [2026-07-17-zambia-revenue-authority-ictd-deal]]
+sources: [[2025-02-12-itweb-zambia-deploys-govt-wan-service-delivery], [2025-06-23-smart-office-system-rollout], [2026-01-24-digitisation-reduced-corruption-smart-zambia], [2026-03-25-kalemba-zambia-cdf-ecouncil-116-councils-gwan], [2026-03-25-zanis-smart-zambia-digital-infrastructure-investment], [2026-05-07-zambia-targets-full-digitalisation-smart-zambia], [2026-05-13-zambia-launches-pmis-property-management], [2026-05-29-councils-digital-lcc-first-zamportal], [2026-07-08-smart-zambia-expands-digital-infrastructure], [2026-07-12-govt-launches-ctmis-contract-system], [2026-07-17-zambie-lance-reseau-4g-prive-govlink], [2026-07-17-zambia-govlink-private-4g], [2026-07-17-zambia-revenue-authority-ictd-deal]]
 ---
 
 # Zambia × E-Government & Public-Service Digitisation
@@ -36,6 +36,27 @@ open-standards sovereignty agenda that drives the [[zambia--dpi-id|digital ID]].
   116 councils** live on ZamPortal, with pilot councils (Ndola, Kitwe, Solwezi, Chingola, Kalulushi,
   Kalumbila, Chilanga) to follow by **30 Jun 2026** — the e-Council rollout. See [[digital.localgov]].
   Source: [[2026-05-29-councils-digital-lcc-first-zamportal]].
+- **CDF tracking + e-Council, dated from SZI (Mar 2026).** A **Constituency Development Fund management
+  information system** was in data entry across councils as of **2026-03**, with **full operationalisation
+  expected June 2026**: "we will be able to **track transaction by transaction, payment by payment**
+  happening in the CDF space… government will see where the money is going" (Percy Chinyama) — pitched at
+  cutting duplication and spotting funds repeatedly awarded to the same beneficiaries. The **e-Council**
+  platform digitising council revenue management and financial reporting entered a **proof-of-concept
+  phase one with eight councils — Ndola, Kalulushi, Kalumbila, Kitwe, Solwezi, Chingola, Chilanga** —
+  targeting **system demonstration by 19 June 2026**, covering property taxes, business levy, market levy,
+  health permits, fire certificates and market occupancy before extension to the rest. *(The article names
+  seven of the stated eight.)* This dates the e-Council pilot **two months earlier than the May-2026
+  ZamPortal onboarding item** and gives it a distinct scope: revenue systems, not portal front-end. See
+  [[digital.localgov]], [[dpi.mis]], [[dpi.pay]]. Source:
+  [[2026-03-25-kalemba-zambia-cdf-ecouncil-116-councils-gwan]].
+- **The four-year scorecard (Mar 2026).** At the same briefing SZI put **K7 billion** of revenue realised
+  in **digital transactions across 2021–2025** (Kasali Musenge), claimed internet connectivity had reached
+  "**approximately 80 percent**" (Percy Chinyama — *no unit or basis stated; not a penetration rate, and
+  not reconcilable with the 33.0% Oct-2025 user figure*), and called for **PPP** investment toward a
+  "digitally inclusive middle-income country by **2030**", citing a **[[zesco]]** partnership for
+  infrastructure expansion and digital record-keeping at the Ministries of Agriculture, Lands, and
+  Community Development and Social Services. Source:
+  [[2026-03-25-zanis-smart-zambia-digital-infrastructure-investment]].
 
 ## The reach: fibre, health, land
 
@@ -51,16 +72,23 @@ open-standards sovereignty agenda that drives the [[zambia--dpi-id|digital ID]].
   SZI's own **July-2026** statement presents the connection of **North-Western Province's** local
   authorities and post offices as new. **Resolved (2026-07-20): different measures, both hold.** The
   116 is SZI's own claim, restated and sharpened by its Government Chief Technical Officer Kasali
-  Musenge on **2026-03-25** — "all 116 councils have been connected… **phase 1 is completed 100
-  percent**", with solar power to all councils. The North-Western Province item (2026-07-07) covers
-  local authorities **and post offices** over **fibre**, extending to schools and health facilities — a
-  later-phase deepening, not a first connection of councils. **Caveat on "connected":** SZI has at times
-  meant completed site works rather than live end-to-end service — in Western Province 12 sites were
-  reported complete while ZAMTEL last-mile connections were still outstanding (2025-02-12). Cite the 116
-  as network reach to council premises, not verified live service. *(Note this is distinct from
-  **ZamPortal onboarding**, where LCC was the **first of 116 councils** in May 2026: a council can sit on
-  the network without being live on the service portal — the two counts measure different things.)*
-  Sources: [[2026-07-17-zambie-lance-reseau-4g-prive-govlink]],
+  Musenge on **2026-03-25** — "**All 116 councils have been connected to the government network, which
+  means phase 1 is completed 100 percent. On top of that, we have provided solar power to all the
+  councils, meaning that they are able to operate 24 hours in a day with regard to service provision.**"
+  The North-Western Province item (2026-07-07) covers local authorities **and post offices** over
+  **fibre**, extending to schools and health facilities — a later-phase deepening, not a first connection
+  of councils. **Caveat on "connected":** SZI has at times meant completed site works rather than live
+  end-to-end service — in **Western Province, 12 sites** (Luampa, Mitete, Limulunga, Sioma, Mwandi,
+  Mulobezi, Nkeyema, Nalolo DC offices and town councils) were reported complete on **2025-02-12** while
+  SZI's own provincial ICT officer **Enoch Moonde** said completion "is dependent on the finalisation of
+  **last-mile connections by other parties, particularly ZAMTEL**", which "will enable us to **fully
+  utilize** the GWAN network". Cite the 116 as network reach to council premises, not verified live
+  service. *(Note this is distinct from **ZamPortal onboarding**, where LCC was the **first of 116
+  councils** in May 2026: a council can sit on the network without being live on the service portal — the
+  two counts measure different things.)* Sources:
+  [[2026-03-25-kalemba-zambia-cdf-ecouncil-116-councils-gwan]],
+  [[2025-02-12-itweb-zambia-deploys-govt-wan-service-delivery]],
+  [[2026-07-17-zambie-lance-reseau-4g-prive-govlink]],
   [[2026-07-08-smart-zambia-expands-digital-infrastructure]].
 - **A government-owned network under it all (Jul 2026).** **[[govlink|GovLink Private 4G]]** — launched 15
   Jul 2026 — is the connectivity layer the whole portal stack depends on, with health as flagship. Full
@@ -109,5 +137,7 @@ Intersections: [[zambia--dpi-id]] · [[zambia--dpi-pay]] · [[zambia--infra-conn
 Entities: [[smart-zambia-institute]] · [[zamportal]] · [[zampay]] · [[lusaka-city-council]] ·
 [[smartcare-pro]] · [[govlink]] · [[zambia-revenue-authority]] ·
 [[international-centre-for-tax-and-development]] · [[zra-ictd-mou]]
-- Mentioned, not hubbed: Percy Chinyama (SZI); CoreLink Consulting; Mulilo Kabesha (AG); Prof. Albert Malama;
-  GWAN; ZNSDI GeoPortal; Dingani Banda (ZRA CG); Giulia Mascagni (ICTD ED).
+- Mentioned, not hubbed: Percy Chinyama (SZI); Kasali Musenge (SZI Government Chief Technical Officer);
+  Enoch Moonde (SZI principal ICT officer, Western Province); CoreLink Consulting; Mulilo Kabesha (AG);
+  Prof. Albert Malama; GWAN; ZAMTEL; the CDF MIS; the e-Council platform; ZNSDI GeoPortal;
+  Dingani Banda (ZRA CG); Giulia Mascagni (ICTD ED).

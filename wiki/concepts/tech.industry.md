@@ -6,7 +6,7 @@ places: [MRT, XGL, XAF, ZAF, NGA, MAR, KEN, EGY, GHA, SDN, CIV, SEN]
 entities: [[david-eaves], [gocab], [yango], [moove], [camp], [the-govlab], [cassava-technologies], [mtn-group], [sita], [mosip], [amazon-web-services], [afcfta], [papss], [african-development-bank], [nafa], [sidi-ould-tah], [diode-network], [axiz], [equinix], [kasi-cloud], [orange], [amazon-leo], [spacecoin], [mtn-nigeria], [starlink], [airtel-africa], [vodacom], [axian-telecom], [econet-wireless], [ethio-telecom], [microsoft], [gsma], [research-ict-africa], [skydd], [nigerian-exchange], [bamboo], [cowrywise], [meristem-securities], [afrinvest], [aicha-niang], [truecaller]]
 lens: [sovereignty, colonialism]
 status: active
-last_reviewed: 2026-07-19
+last_reviewed: 2026-07-20
 sources: [[2025-12-15 The Path to a Sovereign Tech Stack is Via a Commodified Tech Stack  TechPolicy.Press], [2025-01-01 Eaves commodification], [2026-06-09 The Triad of Tech Sovereignty and Europe's Package Dependency, Openness, and Agency], [2026-06-23 Africa's Data Centre Boom Where The New Facilities Are Being Built], [2026-07-07 South Africa's state IT agency is slowing government tech rollout], [2026-07-03 Microsoft Launches Frontier Company with $2.5 Billion AI Transformation Investment], [2026-06-29 How AI Keeps Europe Hooked on US Cloud], [2026-06-11 The Case Against the EU's Tech Sovereignty Package], [2026-06-03 How the EU's Tech Sovereignty Package Finally Puts Open Source to the Test], [2026-06-10 MTN Group goes all-in on platforms and AI], [2026-04-09 Ralph Mupita on MTN's New Frontier Connectivity, Content, and African AI], [2026-05-01 Understanding-MOSIP-Biometric-Update-report], [2026-07-09 Nigeria Takes AfCFTA Council Chair as Digital Forum Charts Roadmap for Implementation], [2026-02-26 The AfDB's push for African financial sovereignty, and a tech investment rebound], [2026-04-28 Axiz Welcomes Equinix Investment, Citing Boost to Africa's Digital Infrastructure], [2026-07-11 AWS in Africa], [2017-04-18 Publications], [2026-01-15 Amazon Leo secures landing permit in Nigeria], [2026-01-13 Spacecoin strikes major deals to launch satellite internet], [2026-01-23 MTN Nigeria fibre network takes a hit], [2025-12-04 Is it a bird Is it plane No, Jim, it's an African mobile operator, but not as we know it 9], [2026-02-16 Waking the dead - Slow road to extinction for Africa's former telco incumbents 11], [2026-04-16 The Long View - What ICT4D did for Africa and why that deep past matters for today], [2026-02-23 111 - Winning But Losing - The Payments End Game], [2026-06-05 Microsoft Build 2026 What Caught My Attention and What It Means for Africa], [2026-07-17-skydd-insure-fintech-leadership], [2026-07-18-nigeria-retail-investing-boom], [2026-07-18-gocab-yango-abidjan-evs], [2026-07-17-senegal-yango-expands-into-corporate-mobility], [2026-07-17-truecaller-q2-sales-decline-recovery-signals]]
 # Source-linkage: the MOSIP report details the vendor ecosystem / Marketplace as the market
 # structure that makes open-source ID switchable (anti-lock-in). Prose enrichment pending.
@@ -161,6 +161,16 @@ Africa's emerging data-centre operators.
   that **cities, not countries, are the unit of analysis** — Bouaké (launched 2022, flat three years, now
   a top performer) the cited proof. See [[dpi.pay]], [[infra.energy]], [[civ--tech-innovate]]. Source:
   [[2026-07-18-gocab-yango-abidjan-evs]].
+- **Tower unbundling reaches [[ZWE]] Zimbabwe (2025-12 → 2026-03).** Econet Wireless Zimbabwe consolidated
+  its real estate and passive telecoms infrastructure out of EWPL and other wholly owned SPVs into
+  **Distributed Power Africa (Private) Limited, trading as [[econet-infraco|Econet InfraCo]]**, as a
+  going-concern transfer under a Scheme of Reconstruction Agreement completed **2025-12-24**; InfraCo listed
+  on the USD-denominated **VFEX on 2026-03-31** while EWZL delisted from the ZSE after 27 years. The stated
+  driver is a valuation gap — EWZL trading at a discount to African peers at **6–8× EV/EBITDA** who had
+  already separated their towers. Final ownership **70.000% EWZL / 25.215% Econet shareholders / 4.785%
+  exiting shareholders**. Sources:
+  [[2025-12-24-econet-notice-completion-infrastructure-restructuring]],
+  [[2026-03-26-econet-infraco-supplementary-pre-listing-statement]].
 
 ## Places
 

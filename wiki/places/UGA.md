@@ -6,7 +6,7 @@ parent: XEA
 place_kind: country
 topics: [dpi.id, dpi.pay, dpi.registry, dpi.exchange, dpi.govtech, dpi.mis, gov.protect, gov.legislate, gov.policy, gov.standards, gov.regional, infra.connect, infra.store, infra.capacity, infra.cybersec, include.access, include.divides, capacity.literacy, capacity.research, tech.ai, tech.innovate, tech.industry, data.statistics, data.satellite, digital.rural, finance.new, geopol.china, geopol.usa, geopol.gulf]
 status: active
-last_reviewed: 2026-07-19
+last_reviewed: 2026-07-20
 ---
 
 # Uganda (UGA)
@@ -29,8 +29,11 @@ days, two days before a presidential election — reminding every layer above it
 
 - **[[uganda--dpi-id]]** — [[ndaga-muntu]] on [[mosip]]; the 74-institution KYC gate and the UGX 1m
   threshold; NIRA's Feb-2026 review (37.3% first-time enrolment, 90.5% renewals, 10.1m printed /
-  2.5m collected); the *ISER* judgment; iris after >1m fingerprint failures; surveillance mechanism;
-  the ~12-month registration slip; [[mvrs-uganda]] civil registration.
+  2.5m collected); the *ISER* judgment; iris after >1m fingerprint failures **and a separate ~1m
+  already-enrolled whose stored prints fail matching (Kisembo, 2024)**; surveillance mechanism; the
+  ~12-month registration slip and its **UGX 666.85bn / 45%-appropriated** budget; **NIRA's 52%
+  vacancy rate and 34 unserved districts and cities (Auditor General, Dec 2023)**; the **CHRGJ/ISER/
+  HEAPI five recommendations (25 Jul 2024)**; [[mvrs-uganda]] civil registration.
 - **[[uganda--dpi-pay]]** — [[bank-of-uganda]] FY2024/25 rails and the agent/card divergence;
   [[ura-uganda]] tax-on-MoMo; the [[imf]] DPI-tax case; [[uganda-nfis-ii]]; the mobile-money data and
   AI-lending governance gaps.
@@ -215,19 +218,27 @@ days, two days before a presidential election — reminding every layer above it
 
 ## Contested figures
 
-- **How many Ugandans lack a National ID — unresolved; the wiki adopts neither value.**
-  - **~18 million (about 40% of the population)** — asserted by **[[michael-aboneka]] / DRAA**
-    (2025-09-13). *The estimate carries **no cited source**; that absence is itself the finding.*
-  - **A register of more than 35 million** uniquely identifiable people — **[[nira-uganda]]**
-    (2026-02-11), which frames coverage rather than the gap.
-  - NIRA's own 2024 baseline of **17.2m unregistered** minus **6.4m** first-time enrolments implies
-    **~10.8m still unregistered (Feb 2026)**.
-  - **Resolved (2026-07-20) — different denominators.** The 18.1m is NIRA's own count against the
-    **total** census population of 45.9m, most of the unregistered being **children under 17** (ED
-    Kisembo to COSASE, 2024-07-01); against the **23,154,716 adults aged 18+ (2024-05-09)** the adult
-    gap is ~**2.0m, ~9%** (2024-10-15). The 35m is cumulative enrolments ever issued, with no
-    deregistration for death or emigration. The binding constraint is **card possession**: 10,152,559
-    printed, **2,581,457 collected (35.5%, 2026-02-08)**. See [[uganda--dpi-id]].
+- **How many Ugandans lack a National ID — RESOLVED 2026-07-20 (definitional, not factual).** The
+  figures never conflicted; they count different things.
+  - **The 18.1m is NIRA's own figure, not an advocacy estimate.** ED **[[rosemary-kisembo]]** to
+    Parliament's COSASE, **1 July 2024**: *"Based on the current census figures of 45.9 million people,
+    we haven't registered about 18.1 million individuals. Most of those unregistered are **children
+    under 17** years old."* Same testimony: **27.4m registered with NINs, 17.3m cards issued of 20m
+    printed** since 2015. Source:
+    [[2024-07-16-nira-cosase-18-million-unregistered-staffing]].
+  - **The denominator is the whole population, and the register is an adult register.** NIRA's
+    **15 Oct 2024** statement: of **27.4m** on the register only **6.3m (22.1%)** are aged 0–17, against
+    a national population of **45.9m** in which that bracket is **59.7%**. Against the **23,154,716
+    adults aged 18+ (2024-05-09, UBOS census)** the adult gap is ~**2.0m, ~9%**. Source:
+    [[2024-10-15-nira-press-statement-mass-enrolment-status]].
+  - **The 35m (2026-02-08) is cumulative enrolments ever issued** — no deregistration for death or
+    emigration — so it is not a coverage rate. The binding constraint is **card possession**:
+    **10,152,559 printed, 7,261,435 shipped, 2,581,457 collected (35.5%)**. Source:
+    [[2026-02-09-35-million-registered-national-id-milestone]].
+  - **[[michael-aboneka]] / DRAA's "~18 million" (2025-09-13) is therefore NIRA's own count carried
+    forward.** *The wiki adopts the count and **rejects the "about 40% of the population" exclusion
+    gloss**, which converts a total-population gap composed mostly of under-17s into an implied
+    population denied services.* Full treatment: [[uganda--dpi-id]].
 - **"First AI factory / supercomputer in Africa"** — three Uganda clips carry three different
   superlatives for the same Karuma facility, against [[cassava-technologies]]' competing claim for
   South Africa. **The label is contested; no claim is adopted.** See [[uganda--infra-store]].
@@ -248,15 +259,18 @@ analysis (2025-04-21) · [[un-egdi]] · the **Uganda Data Centre Market Brief 20
 
 - **Government** — [[nira-uganda]] · [[nita-uganda]] · [[ura-uganda]] · [[bank-of-uganda]] ·
   [[ursb]] · [[mlhud-uganda]] · [[sti-op-uganda]] · [[uganda-communications-commission]] ·
-  [[personal-data-protection-office-uganda]]
+  [[personal-data-protection-office-uganda]] · [[parliament-of-uganda]] · [[cosase-uganda]] ·
+  [[office-of-the-auditor-general-uganda]] · [[ministry-of-internal-affairs-uganda]] ·
+  [[uganda-bureau-of-statistics]] · [[electoral-commission-uganda]]
 - **Systems** — [[ndaga-muntu]] · [[ughub]] · [[ugpass]] · [[mvrs-uganda]] · [[sage-uganda]] ·
   [[efris]] · [[eaps]] · [[mosip]] · [[opencrvs]] · [[dhis2]] · [[stdm]]
 - **Instruments** — [[registration-of-persons-act-2015]] · [[uganda-e-gif]] ·
   [[uganda-digital-government-strategy]] · [[uganda-nfis-ii]]
 - **People** — [[claire-ollama]] · [[rosemary-kisembo]] · [[michael-atingi-ego]] ·
   [[john-musinguzi]] · [[asamo-hellen-grace]] · [[nick-opiyo]] · [[michael-aboneka]] ·
-  [[catherine-nakalembe]]
-- **Civil society / research** — [[iser-uganda]] · [[acme-uganda]] · [[cipesa]] · [[access-now]] ·
+  [[catherine-nakalembe]] · [[medard-sseggona]]
+- **Civil society / research** — [[iser-uganda]] · [[chrgj]] · [[heapi]] · [[acme-uganda]] ·
+  [[cipesa]] · [[access-now]] ·
   [[research-ict-africa]] · [[dial]] · [[world-bank]] · [[imf]] · [[gltn]] · [[un-habitat]] ·
   [[nasa-harvest]] · [[hisp-centre]]
 - **Industry** — [[tahaluf]] · [[tech5]] · [[veridos]] · [[iritech]] · [[mtn-uganda]] ·

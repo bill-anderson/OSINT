@@ -6,8 +6,8 @@ places: [SEN]
 topics: [dpi.govtech, infra.store, dpi.exchange, infra.cybersec]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-16
-sources: [[2026-02-24 Senegal ID System Breach – 139TB Hack Claim]]
+last_reviewed: 2026-07-20
+sources: [[2026-02-24 Senegal ID System Breach – 139TB Hack Claim], [2026-02-12-darkreading-senegal-breach-security-maturity]]
 ---
 
 # Senegal Numérique SA (SENUM SA)

@@ -6,8 +6,8 @@ places: [AGO]
 topics: [gov.policy, infra.connect, dpi.govtech]
 lens: []
 status: active
-last_reviewed: 2026-07-15
-sources: [[2025-02-18 White Paper on ICT 2023-2027 - Strategic Vision for ICTs in Angola]]
+last_reviewed: 2026-07-20
+sources: [[2025-02-18 White Paper on ICT 2023-2027 - Strategic Vision for ICTs in Angola], [2026-06-30-unesco-ram-angola-28000km-fibra-prontidao-ia]]
 ---
 
 # Angola ICT White Paper 2023-2027 (LBTIC)

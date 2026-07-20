@@ -6,7 +6,7 @@ places: [MRT, COM, CIV, CMR, AGO, ZMB, XAF, NGA, KEN, MWI, ZAF, RWA, BEN, GHA, E
 entities: [[dzap], [smart-zambia-institute], [afcfta], [papss], [equity-africanenda-gates-dpi-partnership], [ucl-iipp], [dmap], [undp], [popia], [research-ict-africa], [sadx], [smart-africa], [uxp-benin], [cybernetica], [estdev], [estdev-smart-africa-mou], [eac], [wamkele-mene], [afcfta-digital-trade-protocol], [wbg-dpi-white-paper], [dhis2], [africa-cdc], [adli], [dial], [ethswitch], [safaricom], [wingu-africa], [nitda], [ngea], [galaxy-backbone], [new-deal-technologique], [wuri-programme], [ecowas], [sigmat], [cybastion], [securoute], [asin-benin], [micsti-lesotho], [mosip], [gtmi], [onafriq]]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-19
+last_reviewed: 2026-07-20
 sources: [[2025-09-11 DZAP World Bank PAD], [2025-08-04 93 - Ecosystem Debt or Generative Platforms A Case for Digital Public Infrastructure], [2026-07-03 AfCFTA, Data Governance and the Hidden Legal Gaps Reshaping Africa's Digital Economy - P.M. News], [2026-07-07 Equity, AfricaNenda and Gates Foundation Partner to Advance Digital Public Infrastructure Across Africa], [2025-01-01 dpi_conceptualisation_and_measurement], [2026-07-07 African nations recommit to operationalize AfCFTA digital single market framework], [2026-07-07 Malawi integrates immigration e-services], [2026-06-17 Government data silos threaten Nigeria's AI ambitions], [2026-07-03 Study finds governance, not technology, is blocking digital ID interoperability], [2026-06-05 Nigeria looks beyond enrollment as digital ID passes 130 million], [2026-07-03 Google Cloud Region forecasts R1.7tn boost for SA], [2026-01-01 Digital Public Infrastructure in Africa - UNDP], [2026-07-10 Kenya and U.S. Discuss Draft Data Governance Policy to Strengthen Digital Economy], [2025-01-01 South African Digital Sovereignty at the Crossroad of Securitization and Development (Chapter 4) - Digital Sovereignty in the BRICS Countries], [2026-04-27 Smart Africa drives cross-border data interoperability through SADX Technical Mission], [2026-07-11 UXP Directory], [2026-07-03 Cybernetica], [2026-05-28 Estonia backs Africa digital infrastructure], [2026-05-16 World Bank, African DPAs outline formula for trusted digital identity, DPI], [2026-07-09 Nigeria Takes AfCFTA Council Chair as Digital Forum Charts Roadmap for Implementation], [2026-04-08 Africa's digital trade push requires 700 data centres, says AfCFTA chief], [2026-05-27 Africa's economic future hinges on breaking down silos. This ADLI cohort advances integration], [2026-04-23 Health Data Without Continuity Why Electronic Health Records Still Have Not Scaled Across Africa], [2026-03-30 M-PESA Ethiopia surges 258% as EthSwitch fuels growth], [2026-04-01 Wingu Africa debuts cloud exchange platform in Ethiopia], [2026-04-07 NITDA Assumes Control Of NGEA Infrastructure], [2026-03-25 Senegal Accelerates Digital Sovereignty with Rollout of Flagship Technology Initiatives], [2026-03-30 ECOWAS, World Bank Advance West Africa Digital Identity], [2026-03-31 EAC moves to create unified AI Sovereignty bloc], [2026-01-30 ECOWAS PRESENTS 'SIGMAT' AT THE WORLD CUSTOMS ORGANIZATION 2026 TECHNOLOGY CONFERENCE IN ABU DHABI   Economic Community of West African States (ECOWAS)], [2026-01-27 Cybastion Advances Digital Government Solutions, Supports Benin's SECUROUTE Infrastructure Upgrade], [2026-02-20 MICSTI AND NUL ADVANCED LESOTHO DIGITAL PUBLIC INFRASTRUCTURE], [2026-01-26 Tanzania's GovTech success raises bar for East Africa's digital states], [2026-07-10 Every country defines identity differently. Can digital public infrastructure bridge those differences], [2026-01-26 How Onafriq is growing digital finance amid uncertainty in DRC]]
 ---
 
@@ -249,6 +249,25 @@ cross-border scale, the legal enforceability of that exchange.
   toward the [[asycuda]] customs system. See [[gov.regional]], [[gov.protect]], [[BDI]]. Sources:
   [[2026-06-25-eac-backs-secure-data-sharing-framework]],
   [[2026-02-19-burundi-guichet-unique-importation-wearetech]].
+- **[[DZA]] Algeria (2025-12-30).** Presidential Decree n° 25-320 (*JO* n° 87) makes the **système national
+  d'interopérabilité** the **exclusive** channel for digital data exchange between public institutions
+  (Art. 10), on a secure national network **physically separate from the internet** (Art. 11). Access is
+  gated on classifying and cataloguing data against two référentiels published by the
+  [[high-commission-digitalisation-algeria|HCD]] (Arts. 8, 12), and a data user needs the **issuer's
+  consent** via the system (Art. 13). Defence, national-security and judicial data are excluded (Art. 18).
+  Obligations commence only from the date the référentiels are published (Art. 19) — *no source held
+  confirms publication*. Source: [[2025-12-30-joradp-decret-25-320-gouvernance-donnees]].
+- **[[SSD]] South Sudan (2025-10-10).** SSIPS replaced a paper-based manual interbank process with a
+  two-track platform — RTGS for high-value irrevocable settlement, ACH for bulk batch cycles — on ISO 20022,
+  with a real-time participant credit and liquidity risk framework. Source:
+  [[2025-10-01-eyeradio-boss-ssips-ats-plus-explainer]].
+- **[[TZA]] Tanzania — a second exchange build, easily confused with GovESB (2024).** Alongside **GovESB**
+  (e-GA's mandatory system-to-system bus), [[micit-tanzania]] and [[ega-tanzania|e-GA]] are building **Jamii
+  X-Change** under the World Bank-funded Digital Tanzania Project — three modules: **Jamii Namba**
+  (identity), **Jamii Kadi** (a single electronic card consolidating bank, ID, travel and insurance
+  credentials) and **Jamii Malipo** (payments, linking to [[tips-tanzania|TIPS]]). Under construction as of
+  **2024-08-27**; still being "coordinated" at 2024-10-17. **No go-live date in any held source.** See
+  [[tanzania--dpi-govtech]].
 
 ## Places
 

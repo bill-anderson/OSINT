@@ -6,8 +6,8 @@ places: [MWI]
 topics: [finance.new, dpi.govtech, dpi.exchange, dpi.id, infra.store]
 lens: [sovereignty, colonialism]
 status: active
-last_reviewed: 2026-07-10
-sources: [[2026-07-07 Malawi integrates immigration e-services]]
+last_reviewed: 2026-07-20
+sources: [[2025-10-01-dmap-tor-operationalization-data-protection-authority], [2026-07-07 Malawi integrates immigration e-services]]
 ---
 
 # Digital Malawi Acceleration Project (DMAP)

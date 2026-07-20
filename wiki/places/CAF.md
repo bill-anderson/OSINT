@@ -4,9 +4,9 @@ title: Central African Republic
 code: CAF
 parent: XCA
 place_kind: country
-topics: [dpi.id, dpi.govtech, gov.protect, infra.connect, infra.energy, gov.policy, gov.regional, dpi.pay, dpi.registry, tech.ai, include.divides, include.access]
+topics: [dpi.id, dpi.govtech, gov.protect, infra.connect, infra.energy, gov.policy, gov.regional, dpi.pay, dpi.registry, tech.ai, include.divides, include.access, digital.rural, tech.innovate, capacity.training, data.statistics]
 status: active
-last_reviewed: 2026-07-16
+last_reviewed: 2026-07-20
 ---
 
 # Central African Republic (CAF)
@@ -89,6 +89,22 @@ struggling to reach its own territory on the other.
 - **2025-08-12** — **[[oif-la-francophonie]]** launches a birth-registration project (3,000
   certificates targeted). [[caf--dpi-id]]. Source:
   [[2025-08-12 La Francophonie supports birth registration efforts across Central Africa, Madagascar]].
+- **2025-07-30** — **The backbone build, and the coverage-vs-usage figure at its origin.**
+  [[infra.connect]] Digital Economy Minister **[[justin-gourna-zacko]]** put the rate at **30%
+  (Jul 2025)**, rising to **50%** with fibre interconnections already taken to **Congo (via Ouesso)**
+  and **Cameroon (via Kenzo/Kentzou)**, and to **"70% 80%"** once the build reaches the **Centre-Est**
+  — explicitly a *"taux de connectivité"* against a target of **70% *couverture nationale***.
+  **1,200 km of fibre** are in place; next steps are **Juba (South Sudan)** to reach the cable
+  running up from southern Africa, and negotiations to link **Chad**. 4G licences are being issued
+  to operators; prices remain high, with operator negotiations aimed at bringing them down.
+  Alongside the infrastructure the government backs digital-innovation centres in **Bangui** and
+  provincial towns, and start-ups such as **IKOUĒ** (co-founder **Pétula Lenguezial**), whose
+  *Ikoué Académie* e-learning platform trains young developers.
+  **This is the primary at the root of the ~30% figure** — a *coverage* number with no survey,
+  sample or population denominator, which a usage rate cannot be moved by laying transit fibre.
+  It is **not comparable** to ITU's **13.8% (2024)** usage series. Source:
+  [[2025-07-30-car-taux-penetration-internet-30-pourcent]]. See [[digital.rural]],
+  [[gov.regional]], [[tech.innovate]], [[capacity.training]], [[TCD]], [[SSD]].
 - **2025-07-27** — Government restores the **legal 4,500 FCFA CNI price** after five years of
   illegal pricing. [[caf--dpi-id]]. Source:
   [[2025-07-27 Centrafrique - le prix des cartes d'identite reduit apres cinq ans de violations de la loi]].
@@ -116,8 +132,14 @@ struggling to reach its own territory on the other.
   comprehensive but the supervisory authority is unfilled; CEMAC instruments apply
   ([[data-protection-africa]]).
 - **Connectivity** → **[[caf--infra-connect]]**. Internet **use** at **13.8% (2024, ITU)**, with
-  DataReportal/Kepios at **12.0% (~670,000 users, Oct 2025)**; government statements of **~30% (Jul 2025)**
-  refer to **network coverage**, not individual use, and are not comparable. Mobile-only, landlocked with
+  DataReportal/Kepios at **12.0% (~670,000 users, Oct 2025)**
+  ([[2025-11-08-datareportal-digital-2026-central-african-republic]]); government statements of
+  **~30% (Jul 2025)** refer to **network coverage**, not individual use, and are not comparable —
+  the minister names it *"taux de connectivité"* and has it rising to 50% and "70% 80%" **as
+  backbone fibre reaches new regions**, against a target of *"70% de couverture nationale"*
+  ([[2025-07-30-car-taux-penetration-internet-30-pourcent]]). Kepios's **15.5% (Jan 2025)** is
+  **withdrawn by the publisher** — its Oct-2025 edition reports *fewer* users against a *larger*
+  population ([[2025-03-03-datareportal-digital-2025-central-african-republic]]). Mobile-only, landlocked with
   no undersea cable; the **4G sequence is now
   complete** (Orange/Moov/Telecel all licensed, though coverage lags); a **universal-service fund** (2%
   operator revenue, CDCE) planned for 2026; **[[starlink-car|Starlink]]** US-brokered then suspended; a
@@ -144,7 +166,12 @@ struggling to reach its own territory on the other.
 
 Mentioned, not hubbed: **Warani** (Bangui startup digitising services, founder Vianney Kanda, the only
 private-sector item — [[2025-05-14-vianney-kanda-warani-wearetech]]); EDESEC (passport vendor); DEVEA
-Centrafrique (Starlink operator); Central African Digital Development Agency; CIVIPOL; EDEN TiiiT; AIAL Group.
+Centrafrique (Starlink operator); Central African Digital Development Agency; CIVIPOL; EDEN TiiiT; AIAL Group;
+**[[justin-gourna-zacko]]** (Minister of the Digital Economy, Posts and Telecommunications — 7 sources, over the
+page bar); the ministry itself
+([[ministere-economie-numerique-postes-telecommunications-centrafrique]]); **IKOUĒ** ([[ikoue]], Bangui e-learning /
+developer-training start-up, co-founder [[petula-lenguezial]]).
+**Statistical resources:** [[datareportal]] · [[kepios]] · [[gsma]] · [[itu]].
 
 ## Notes
 

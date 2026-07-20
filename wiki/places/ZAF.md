@@ -6,7 +6,7 @@ parent: XSA
 place_kind: country
 topics: [dpi.govtech, dpi.id, dpi.registry, dpi.pay, gov.standards, tech.industry, infra.store, infra.energy, infra.connect, tech.ai, gov.policy, gov.protect, gov.legislate, infra.cybersec, dpi.exchange, data.open, data.statistics, geopol.usa, geopol.eu, geopol.china, gov.regional, finance.new, infra.capacity, capacity.training, capacity.literacy, capacity.research, include.access, include.divides, digital.rural, geopol.gulf, data.satellite]
 status: active
-last_reviewed: 2026-07-19
+last_reviewed: 2026-07-20
 ---
 
 # South Africa (ZAF)
@@ -65,8 +65,24 @@ paid. **The government's arithmetic corroborates the plaintiffs.** Full case:
   **>49m civic records digitised since 2023**. Says the digital ID is built "working with the
   South African Reserve Bank" - **resolved (2026-07-20): both institutions are involved in different
   roles**, the stack **hosted in the [[sars]] environment** with **[[sarb]] an integration partner on
-  payments/eKYC** (DHA Annual Performance Plan 2026/27, tabled 2026-03-30). Source:
-  [[2025-07-03 Deputy Minister Njabulo Nzuza - Home Affairs Dept Budget Vote 2025-26, NCOP]].
+  payments/eKYC**. The DHA's own APP settles it: core PKI and digital-identity infrastructure is
+  "**hosted within the SARS environment**", while SARB appears only under *Assumptions* — "**SARB,
+  banks and telecom partners collaborate on integration**". Sources:
+  [[2025-07-03 Deputy Minister Njabulo Nzuza - Home Affairs Dept Budget Vote 2025-26, NCOP]],
+  [[2026-03-30-dha-annual-performance-plan-2026-27-digital-identity]] (**the primary that settles it**).
+- **2026-03-30 (tabled)** — **DHA Annual Performance Plan 2026/27 — the digital-ID architecture, in
+  the department's own words.** **FY2026/27's sole digital-ID target is *hosting infrastructure*, not
+  launch**: "establishment and completion of the hosting infrastructure for PKI and Digital Identity
+  within the SARS hosting environment", signed off by **DDG:CS in Q4** — i.e. **by 31 March 2027**,
+  which is a *foundational milestone enabling subsequent phases*, not the digital ID itself. **This
+  is the most concrete rung on the launch ladder above**: it dates the *plumbing*, and implicitly
+  puts credential issuance and digital wallets beyond FY2026/27. **Agreements concluded with eight
+  banks** (of ten named) covering biometric enrolment, courier logistics and API integration; the
+  APP also states digital identity and e-Passports "**by 2029**". Full architecture (PKI, CA,
+  verifiable credentials, wallets, offline QR) and the SARS/SARB split:
+  **[[south-africa--dpi-id]]**. Source:
+  [[2026-03-30-dha-annual-performance-plan-2026-27-digital-identity]] (*excerpt — digital-identity
+  sections of a ~200-page tabled document*).
 - **2025-07-01 (announced 2025-07-06)** — **The OVS repair, and the DHA's own defence of the fee.**
   The relaunched **Online Verification Service** against the NPR went live; the DHA says the old one
   "had broken down to the point where **over half of all verification attempts failed**". The justice
@@ -75,14 +91,26 @@ paid. **The government's arithmetic corroborates the plaintiffs.** Full case:
   **This is the department's case for the ~6,500% increase the wiki holds as contested
   ([[act-south-africa]]'s High Court challenge) — hold both readings.** Source:
   [[2025-07-06 Home Affairs on launch of world-class new identity verification service and cost]].
-- **2025-04-08** — **Four-party pact signed: [[sars]] + [[home-affairs-south-africa]] +
-  [[border-management-authority]] + [[government-printing-works]]**; the **SARS–DHA bilateral**
-  renews a Direct Master Agreement **in place since 2010**. **Corrected 2026-07-20: signed
-  2025-04-03** (SARS media release); the previously held "April 2024" was a year error. The
-  Digital Transformation of Government Roadmap it gives effect to was **approved by Cabinet
-  2025-03-26** and **publicly launched 2025-05-12** under Operation Vulindlela Phase II - both real
-  events, six weeks apart. Source:
-  [[2025-04-08 South African agencies sign multiparty digital ID deal to drive govt efficiency]].
+- **2025-04-03** — **Two agreements, one day — [[sars]] + [[home-affairs-south-africa]] +
+  [[border-management-authority]] + [[government-printing-works]].** SARS's own release
+  distinguishes them: (i) a **bilateral SARS–DHA direct agreement**, reviving the **Direct Master
+  Agreement in place since 2010**, under which "SARS has played an important role to assist DHA to
+  develop its own sophisticated IT systems"; and (ii) a **four-party MoU** creating the *governance
+  framework* over the partnership. **Corrected 2026-07-20: signed 2025-04-03** (SARS media release,
+  the primary); the previously held "April 2024" was a year error, and the 2025-04-08 trade-press
+  account is a secondary re-report of this signing. Commissioner **Kieswetter**: a common platform
+  ensures "**only one identity through which the individual interacts with government**", preventing
+  "double-dipping, such as when an individual receives a grant while they are in government employ"
+  — *the welfare-fraud rationale that later surfaces as SASSA biometric enrolment, below*. **GPW's
+  stated role: Certification Authority and Digital Trust Centre**, verifying and certifying digital
+  IDs. The Digital Transformation of Government Roadmap it gives effect to was **approved by Cabinet
+  2025-03-26** (Cabinet statement, C.4) and **publicly launched 2025-05-12** under Operation
+  Vulindlela Phase II — both real events, six weeks apart. Sources:
+  [[2025-04-03-sars-collaboration-agreements-dha-bma-gpw]] (**primary**),
+  [[2025-03-27-cabinet-statement-26-march-2025]],
+  [[2025-04-08 South African agencies sign multiparty digital ID deal to drive govt efficiency]]
+  (*secondary; adds the BusinessTech detail on bank integration, courier delivery and smart IDs for
+  naturalised persons*).
 - **2025-12-15** — **[[intelligent-population-register]] proposed** in a **draft revised White Paper
   on Citizenship, Immigration and Refugee Protection** (input 12 Dec 2025 – 31 Jan 2026): AI, ML,
   biometrics and real-time integration atop the NPR; **birth and death registration to become
@@ -146,6 +174,13 @@ paid. **The government's arithmetic corroborates the plaintiffs.** Full case:
   announcement is dispositive, so this is an error correction, not competing values needing research.
   The class of error — a secondary re-report's date ingested as the event date — is raised as
   ISSUE-009.*
+  **Provenance footnote (added 2026-07-20):** the stray March-2025 date was not the blog's invention
+  alone — **Cabinet itself "welcomed the launch of Google South Africa's R2.5-billion cloud region in
+  Johannesburg" on 2025-03-26**, over a year after the region opened, and is where the **R2.5bn**
+  figure the wiki carries originates. A government body re-welcoming an event does not re-date it:
+  Google's own 2024-01-31 announcement stands as the opening. Recorded because it explains how a
+  14-month error propagated through otherwise-credible sources. Source:
+  [[2025-03-27-cabinet-statement-26-march-2025]].
 - **2019-03-06** — **T-zero of African hyperscale.** **[[microsoft]]** opened **Azure** in Cape Town
   and Johannesburg. *Its "54 regions announced worldwide" and the IDC forecasts (~112,000 net-new SA
   jobs by end-2022) are **2019 projections, now historical**.* **Microsoft claimed "our first
@@ -177,6 +212,27 @@ paid. **The government's arithmetic corroborates the plaintiffs.** Full case:
   interest as well as a development agenda. See [[vodacom-itu-digital-inclusion-protocol]],
   [[gov.standards]], [[include.divides]], [[data.satellite]], [[XAF]]. Source:
   [[2026-07-17-vodacom-itu-digital-inclusion-partnership]].
+- **2025-05-05 → 2026-03-11** — **SASSA biometric enrolment: two stages, and the scope is narrower
+  than the headlines.** **Stage 1, from 2025-05-05** — compulsory enrolment for clients using
+  **alternative identification** and for those hitting a **triggered review** or change of details.
+  **Stage 2, from 2025-09-01** — every **new grant application**. **Not universal:** acting CEO
+  **Brenton van Vrede** to the Portfolio Committee, 2025-08-27 — "**We are not saying everyone must
+  come in and be biometrically enrolled**"; existing recipients on a 13-digit SA ID are unaffected
+  unless a review or detail change fires. *Trade-press headlines saying "all grant beneficiaries"
+  overreach their own bodies — see the resolution in [[south-africa--include-divides]].*
+  **Uptake, dated:** **997,379 cumulative to 2026-03-11** against **19.05m grant recipients
+  (end-Jan 2026)** — **~5%**, i.e. the flow-based scope working as designed, not a stalled universal
+  rollout. **Costed at R105m over three years with no additional Treasury allocation**, funded from
+  savings on the terminated **[[postbank]]** Master Service Agreement. **The exclusion tail is
+  measurable** (67,868 suspended / 48,949 lapsed to Q3 FY2025/26, overwhelmingly Child Support
+  Grants), and **the complaint asymmetry locates the divide precisely**: zero complaints on
+  fingerprint enrolment, **7,779** on the online **facial-recognition** channel, whose fallback is a
+  trip to the local office. Monthly series, cost detail, the DA's resourcing critique and the full
+  reading: **[[south-africa--include-divides]]**. See also [[dpi.id]]. Sources:
+  [[2025-08-28-sassa-biometric-enrolment-new-beneficiaries-portfolio-committee]],
+  [[2025-09-18-sassa-beneficiaries-take-up-biometric-enrolment-campaign]],
+  [[2026-05-18-parliamentary-question-nw1941-sassa-biometric-verification]] (**Minister's reply,
+  the primary for all figures above**).
 - **2026-01-19 / 2026-01-28** — **Digital-by-default exclusion, litigated with numbers.**
   **[[sassa]]**: as of **1 Jan 2026**, of **14,135** SRD applications from permanent residents,
   refugees and special-permit holders, **8,368 approved but only 2,690 paid — 32%**. Nine days later
@@ -233,7 +289,11 @@ linked source pages, the entity pages and the six [[south-africa--dpi-id|interse
   of **31 Mar 2027**; the draft **Identification Regulations** and Mark Burke's ultra-vires critique
   ([[sa-digital-id-regulations]]).
 - **Cloud, AI and the hyperscalers** — **[[microsoft]]**'s **R5.4bn** SA commitment (announced
-  **2025-03-06**, allocation detailed 2026-04; [[microsoft-sa-2026-expansion]]); **[[google]]** exceeding its **$1bn** Africa target and
+  **2025-03-06** at Bryanston by **Brad Smith** with **[[cyril-ramaphosa]]**, to be spent **by
+  end-2027**, atop **R20.4bn** over the prior three years; allocation detailed 2026-04;
+  [[microsoft-sa-2026-expansion]]. Primaries:
+  [[2025-03-06-microsoft-zar-5-4bn-south-africa]],
+  [[2025-03-06-ramaphosa-microsoft-investment-ai-skilling-remarks]]); **[[google]]** exceeding its **$1bn** Africa target and
   projecting **R1.7tn / ~315,000 jobs by 2030**; **[[cassava-ai-factories]]**' 3,000-H100 AI factory
   and **[[liquid-c2]]**'s Google Cloud Partner Experience Centre; **[[trendai]]**/**[[anthropic]]**'s
   locally-governed sovereign-AI data centre (*vendor-asserted*); **[[equinix]]**'s contested Cape
@@ -340,8 +400,10 @@ branch / eHomeAffairs / BABS channels; **collection only, no mailing address**) 
   [[partner2connect]] · [[world-bank]] · [[brics-pay]] · [[fccpc]] · [[forensic-data-analysts]]
 - Mentioned, not hubbed: Chris Yelland (EE Business Intelligence); Penny Cavaleros; Samuel Erwin
   (Teraco); Finhai Munzara, Hardy Pemhiwa (Cassava/ADC); Edward Kieswetter (SARS); Livhuwani Makhode
-  (DHA DG); Alinah Fosi (GPW); Paseka Letsatsi, Andile Tshona (SASSA); Min. Sisisi Nokuzola Tolashe
-  (Social Development); Mark Burke; Ferdi Moolman (MTN SA); Godongwana; Kabelo Makwane (Google SA);
+  (DHA DG); Alinah Fosi (GPW); Dr Michael Masiapato (BMA); Paseka Letsatsi, Andile Tshona, Brenton
+  van Vrede (acting CEO, 2025), Tsakeriwa Chauke (CFO) (SASSA); Min. Sisisi Nokuzola Tolashe
+  (Social Development); Alexandra Abrahams MP, B Masango MP (DA, Social Development portfolio);
+  Brad Smith, Lillian Barnard (Microsoft); Mondli Gungubele (DCDT); Mark Burke; Ferdi Moolman (MTN SA); Godongwana; Kabelo Makwane (Google SA);
   Prenesh Padayachee (Seacom); Sentech / Broadband Infraco; PSC; Lelapa AI; SABC+; Civic AI, Ikamva
   Digital (GIZ); Wits School of Law; Nedbank, Discovery, Naspers; Housing Assembly, Foxglove;
   Wiocc/OADC; Telkom; Transnet, DBSA (ransomware); Future-tech; Absa.

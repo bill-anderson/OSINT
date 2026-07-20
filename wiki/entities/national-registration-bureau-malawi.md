@@ -6,8 +6,8 @@ places: [MWI]
 topics: [dpi.id, dpi.registry, dpi.govtech, gov.legislate]
 lens: []
 status: active
-last_reviewed: 2026-07-19
-sources: [[2026-07-13 Malawi reaches 13.5M digital IDs as universal coverage comes into view], [2026-07-13 Malawi outlines plans to transition to digital IDs - CAJ News Africa], [2026-07-06-digital-id-cards-september-launch-times], [2026-06-11-nrb-nzika-wallet-digital-id-september-itweb], [2026-01-16-birth-registration-campaign-4.6m-children-malawi24], [2025-10-27-nrb-2025-2030-strategic-plan-sdg-16.9-biometricupdate], [2025-05-26-nrb-digital-id-2026-target-id4africa-techafricanews], [2025-01-07-ictam-national-id-integration-digital-growth-times], [2026-02-04 10 years of a fruitful partnership with the Government of Malawi on civil registration], [2025-05-28 Malawi nears full scale digital ID rollout to streamline access to services], [2025-05-21 NRB to roll out digital ID by 2026], [2024-05-14 Malawi on path to inclusion with digital ID project supported by EU, UNDP]]
+last_reviewed: 2026-07-20
+sources: [[2025-10-01-dmap-tor-operationalization-data-protection-authority], [2026-07-13 Malawi reaches 13.5M digital IDs as universal coverage comes into view], [2026-07-13 Malawi outlines plans to transition to digital IDs - CAJ News Africa], [2026-07-06-digital-id-cards-september-launch-times], [2026-06-11-nrb-nzika-wallet-digital-id-september-itweb], [2026-01-16-birth-registration-campaign-4.6m-children-malawi24], [2025-10-27-nrb-2025-2030-strategic-plan-sdg-16.9-biometricupdate], [2025-05-26-nrb-digital-id-2026-target-id4africa-techafricanews], [2025-01-07-ictam-national-id-integration-digital-growth-times], [2026-02-04 10 years of a fruitful partnership with the Government of Malawi on civil registration], [2025-05-28 Malawi nears full scale digital ID rollout to streamline access to services], [2025-05-21 NRB to roll out digital ID by 2026], [2024-05-14 Malawi on path to inclusion with digital ID project supported by EU, UNDP]]
 ---
 
 # National Registration Bureau (Malawi)

@@ -6,8 +6,8 @@ places: [AGO]
 topics: [infra.connect, infra.capacity]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-17
-sources: [[2026-06-15-telecom-namibia-angola-telecom-satcab-sarssy-1tbps], [2026-06-12-unitel-agreements-expand-broadband-angotic]]
+last_reviewed: 2026-07-20
+sources: [[2026-06-15-telecom-namibia-angola-telecom-satcab-sarssy-1tbps], [2026-06-12-unitel-agreements-expand-broadband-angotic], [2023-05-17-minttics-matias-borges-22000km-rede-fibra-optica-terrestre]]
 ---
 
 # Angola Telecom

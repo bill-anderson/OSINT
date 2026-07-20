@@ -5,11 +5,11 @@ place: TUN
 topic: infra.connect
 places: [TUN]
 topics: [infra.connect, infra.store, tech.industry, geopol.eu, geopol.gulf]
-entities: [[tunisie-telecom], [orange-tunisia], [ooredoo-tunisia], [medusa-submarine-cable], [instance-nationale-des-telecommunications-tunisia]]
+entities: [[tunisie-telecom], [orange-tunisia], [ooredoo-tunisia], [medusa-submarine-cable], [afr-ix-telecom], [instance-nationale-des-telecommunications-tunisia]]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-20
-sources: [[2025-02-14-assabah-tunisie-telecom-launches-5g], [2025-02-17-developingtelecoms-three-operators-launch-5g], [2025-11-03-zawya-tunisie-telecom-medusa-landing-bizerte], [2026-06-05-connectingafrica-viatunisia-subsea-live], [2026-06-26-techafricanews-orange-medusa-cable-operational], [2025-04-11-techafricanews-telecom-data-driven-growth], [2026-03-09-telecomreviewafrica-north-africa-digital-generation]]
+sources: [[2023-05-11-orange-tunisia-medusa-bizerte-hosting-agreement], [2025-02-10-tunisie-telecom-joins-medusa-fibre-pair], [2025-11-01-medusa-lands-in-bizerte], [2025-02-14-assabah-tunisie-telecom-launches-5g], [2025-02-17-developingtelecoms-three-operators-launch-5g], [2025-11-03-zawya-tunisie-telecom-medusa-landing-bizerte], [2026-06-05-connectingafrica-viatunisia-subsea-live], [2026-06-26-techafricanews-orange-medusa-cable-operational], [2025-04-11-techafricanews-telecom-data-driven-growth], [2026-03-09-telecomreviewafrica-north-africa-digital-generation]]
 ---
 
 # Tunisia × Connectivity, 5G & Submarine Cables
@@ -36,8 +36,11 @@ in 700 MHz + 100 MHz TDD at 3.5 GHz):
 ## Submarine cables — Mediterranean capacity as sovereignty
 
 - **Medusa lands at Bizerte (2025-10-31).** The cable's **first African landing**, marked by a ceremony both
-  operators' CEOs attended — the source of the ownership confusion that followed. Source:
-  [[2025-11-03-zawya-tunisie-telecom-medusa-landing-bizerte]].
+  operators' CEOs attended — the source of the ownership confusion that followed. Announced by
+  **[[afr-ix-telecom|AFR-IX]]/Medusa's own newsroom** with both CEOs, EU Ambassador **Giuseppe Perrone**
+  placing it under **[[global-gateway|Global Gateway]]**. Sources: [[2025-11-01-medusa-lands-in-bizerte]]
+  (the announcer of record), [[2025-11-03-zawya-tunisie-telecom-medusa-landing-bizerte]] (TAP/Zawya
+  re-report).
 - **Orange owns the station; TT buys capacity (settled 2026-07-20).** **[[orange-tunisia|Orange]]** is the
   landing party and **owns and operates the Bizerte landing station** and the ~1,050 km Tunisian segment
   (**ViaTunisia**), under a hosting agreement of **2023-05-11** and an **EU CEF-Digital grant of €10m**
@@ -46,9 +49,21 @@ in 700 MHz + 100 MHz TDD at 3.5 GHz):
   agreed on **2025-02-07** a dedicated Bizerte–Marseille pair of **20 Tbps (2025-02)** — the basis of its
   "eightfold capacity increase" claim (2025-11), which is about its own capacity, not ownership. TT
   separately owns the Hannibal and SEA-ME-WE 4 cables. Sources:
-  [[2026-06-05-connectingafrica-viatunisia-subsea-live]], [[2026-06-26-techafricanews-orange-medusa-cable-operational]].
-- **Superseded framing.** Both operators' PR re-cut the shared landing event around itself. Flagged
-  **CONTRA-TUN-001** for external research; both accounts kept dated here rather than one overwritten.
+  [[2023-05-11-orange-tunisia-medusa-bizerte-hosting-agreement]] (the hosting agreement itself),
+  [[2025-02-10-tunisie-telecom-joins-medusa-fibre-pair]] (TT's pair, 20 Tbps),
+  [[2025-11-01-medusa-lands-in-bizerte]], [[2026-06-05-connectingafrica-viatunisia-subsea-live]],
+  [[2026-06-26-techafricanews-orange-medusa-cable-operational]].
+  - *Capacity note:* Medusa's own record gives TT's pair as **20 Tbps (2025-02)**; trade press and the
+    TAP/Zawya re-report say **22 Tbps (2025-11)**. The announcer of record is preferred.
+- **The 2023 hosting agreement, in Medusa's words.** Signed **11 May 2023** by Orange Tunisia (then-CEO
+  **Thierry Millet**) and Medusa CEO **Norman Albi** to land the cable at Bizerte and "transform the
+  northernmost region of the continent into a new gateway to Africa." Medusa's 2023 statement already
+  framed Orange as the party that would *develop* the infrastructure — the ownership question was never
+  genuinely open in the primary record. Orange had previously built the **Didon** cable (2014) with
+  [[ooredoo-tunisia]]. Source: [[2023-05-11-orange-tunisia-medusa-bizerte-hosting-agreement]].
+- **Superseded framing.** Both operators' PR re-cut the shared landing event around itself. Raised as
+  **CONTRA-TUN-001** and **resolved 2026-07-20** against Medusa/AFR-IX's own newsroom; both accounts kept
+  dated here rather than one overwritten.
 
 ## Market shape and the numbers
 
@@ -76,4 +91,4 @@ in 700 MHz + 100 MHz TDD at 3.5 GHz):
 
 Place: [[TUN]] · Concepts: [[infra.connect]] · [[infra.store]] · Intersections: [[tunisia--infra-store]] ·
 [[tunisia--dpi-pay]] · Entities: [[tunisie-telecom]] · [[orange-tunisia]] · [[ooredoo-tunisia]] ·
-[[medusa-submarine-cable]] · [[instance-nationale-des-telecommunications-tunisia]]
+[[medusa-submarine-cable]] · [[afr-ix-telecom]] · [[instance-nationale-des-telecommunications-tunisia]]

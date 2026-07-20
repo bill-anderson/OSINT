@@ -9,7 +9,7 @@ entities: [[potraz], [econet-wireless-zimbabwe], [netone], [telecel-zimbabwe], [
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-20
-sources: [[2025-05-21-potraz-approves-telco-tariff-raise], [2026-04-30-econet-5g-exceeds-netone-telecel-combined], [2026-05-07-liquid-fibre-price-war-starlink], [2026-05-19-over-50pc-fixed-broadband-now-wireless], [2026-06-29-govt-debt-to-telone-doubles], [2026-07-03-powertel-paratus-digital-highway], [2026-07-15-internet-traffic-surges-57pc-q1-2026], [2026-07-15-netone-at-30-digital-future], [2025-06-26-starlink-hype-cities-silence-rural], [2025-07-24-govt-donates-250-starlink-kits-local-authorities], [2026-05-16-govt-defends-starlink-rollout], [2026-05-19-starlink-broke-potraz-bandwidth-framework], [2026-07-17-starlink-kits-gather-dust-rural-hospitals]]
+sources: [[2025-05-21-potraz-approves-telco-tariff-raise], [2026-04-30-econet-5g-exceeds-netone-telecel-combined], [2026-05-07-liquid-fibre-price-war-starlink], [2026-05-19-over-50pc-fixed-broadband-now-wireless], [2026-06-29-govt-debt-to-telone-doubles], [2026-07-03-powertel-paratus-digital-highway], [2026-07-15-internet-traffic-surges-57pc-q1-2026], [2026-07-15-netone-at-30-digital-future], [2025-06-26-starlink-hype-cities-silence-rural], [2025-07-24-govt-donates-250-starlink-kits-local-authorities], [2026-05-16-govt-defends-starlink-rollout], [2026-05-19-starlink-broke-potraz-bandwidth-framework], [2026-07-17-starlink-kits-gather-dust-rural-hospitals], [2026-03-13-mavetera-84-55-internet-penetration-ai-strategy]]
 ---
 
 # Zimbabwe × Connectivity & Broadband
@@ -45,8 +45,18 @@ a **fibre-vs-satellite price war** reshaping the cities — all against **61.6% 
   measures **users**. Roughly 13.25m subscriptions across ~6.5m users ≈ two each — unremarkable at 107%
   mobile penetration with multi-SIM and separate fixed/VSAT lines. Neither is rebased. Attributing the
   rise to rural Wi-Fi hotspots is political framing on a subscriptions statistic; the actual driver is
-  mobile data and Starlink VSAT (+31.62% in Q4 2025). Source:
-  [[2026-07-17-zimbabwe-digital-roadmap-msme-growth]].
+  mobile data and Starlink VSAT (+31.62% in Q4 2025). Sources:
+  [[2026-07-17-zimbabwe-digital-roadmap-msme-growth]],
+  [[2026-03-13-mavetera-84-55-internet-penetration-ai-strategy]].
+- **The bridge source (2026-03-13) — why the 87% is a subscriptions series.** Four months earlier, at the
+  National AI Strategy launch, the same minister put penetration at **"84.55% in the fourth quarter of
+  2025"** — the POTRAZ quarterly figure **quoted to two decimal places**, which is what identifies the
+  series and rules out a rounded usage estimate. She projected it "on course to reach **100% before the
+  year 2030**" — arithmetically unremarkable for a subscriptions-over-population ratio, and meaningless as
+  a usage claim. The same address put the **fibre backbone past 14,000 km (2026-03)**, against her own
+  "more than 17,000 km" four months later and the regulator's **19,000+ km for Q1 2026** — the ministerial
+  figures lag the regulator's rather than contradict them. Source:
+  [[2026-03-13-mavetera-84-55-internet-penetration-ai-strategy]].
 
 ## The mobile market: Econet dominant, NetOne reviving
 

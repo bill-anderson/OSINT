@@ -6,7 +6,7 @@ places: [AGO, KEN, ZAF, NAM, XSS, XEA, XAF, XGL, MAR, NGA]
 entities: [[seacom], [microsoft-g42-kenya-datacenter], [telecom-namibia], [equinix], [afcfta], [wamkele-mene], [amazon-web-services], [mapping-african-digital-infrastructures], [research-ict-africa]]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-12
+last_reviewed: 2026-07-20
 sources: [[2026-07-09 Microsoft and G42 data center in Kenya stalled due to lack of power capacity], [2026-06-17 Seacom deploys a new high-capacity Nairobi–Kampala route to strengthen East Africa's digital backbone], [2026-06-15 Telecom Namibia signs more satellite, subsea connectivity deals with Angola firms], [2026-02-25 South Africa puts data centres on par with energy, ports in big policy shift], [2026-06-16 Who Owns Africa's Sky], [2026-04-08 Africa's digital trade push requires 700 data centres, says AfCFTA chief], [2025-09-24 Unveiling Seacom 2.0 - ​ ​A new digital renaissance and subsea network to power the Indian Ocean Basin's digital and AI future], [2026-07-11 AWS in Africa], [2022-05-30 Mapping African Digital Infrastructures (Part 1) A qualitative analysis of open-source contributions], [2022-06-12 Mapping African Digital Infrastructures (Part 2) A quantitative analysis of open-source contributions], [2022-06-12 Mapping African Digital Infrastructures (Part 3) Understanding the motivations and challenges of African contributions to the Internet standards development]]
 ---
 
@@ -70,6 +70,12 @@ bandwidth, and compute — and the contest over who controls them. Across the
   [[2022-05-30 Mapping African Digital Infrastructures (Part 1) A qualitative analysis of open-source contributions]],
   [[2022-06-12 Mapping African Digital Infrastructures (Part 2) A quantitative analysis of open-source contributions]],
   [[2022-06-12 Mapping African Digital Infrastructures (Part 3) Understanding the motivations and challenges of African contributions to the Internet standards development]].
+- **[[UGA]] Uganda — registration capacity as an establishment-chart problem.** NIRA's staffing "has never
+  exceeded 50%" — **410 of 856 approved posts filled** (Auditor General, Dec 2023) — with offices in **111
+  of 146 districts** (Oct 2023), a **1:80,000** staff-to-unregistered ratio, and citizens in unserved
+  districts travelling **80–100 km**. On the parliamentary record **eleven months before** a court found
+  insufficient evidence of systemic ID exclusion. Source:
+  [[2024-07-16-nira-cosase-18-million-unregistered-staffing]].
 
 ## Reads
 

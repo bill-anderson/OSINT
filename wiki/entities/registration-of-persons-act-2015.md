@@ -6,8 +6,8 @@ places: [UGA]
 topics: [gov.legislate, dpi.id, include.access, gov.protect, dpi.pay]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-17
-sources: [[2025-09-13 Uganda's Digital ID Barrier Worsens as Court Delivers Blow to Access], [2024-10-14 Uganda financial institutions sign on for digital KYC through national ID]]
+last_reviewed: 2026-07-20
+sources: [[2025-09-13 Uganda's Digital ID Barrier Worsens as Court Delivers Blow to Access], [2024-10-14 Uganda financial institutions sign on for digital KYC through national ID], [2024-10-15-nira-press-statement-mass-enrolment-status]]
 ---
 
 # Registration of Persons Act 2015 (Uganda)

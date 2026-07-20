@@ -6,8 +6,8 @@ places: [AGO]
 topics: [tech.ai, gov.policy]
 lens: [sovereignty]
 status: stub
-last_reviewed: 2026-07-17
-sources: [[2026-07-13-ia-instrumento-para-acelerar-desenvolvimento-fnia26], [2026-06-30-angola-preparada-83-por-cento-uso-etico-de-ia-ram-unesco]]
+last_reviewed: 2026-07-20
+sources: [[2026-07-13-ia-instrumento-para-acelerar-desenvolvimento-fnia26], [2026-06-30-angola-preparada-83-por-cento-uso-etico-de-ia-ram-unesco], [2026-06-30-unesco-ram-angola-28000km-fibra-prontidao-ia]]
 ---
 
 # Angola National AI Strategy (Estratégia Nacional de Inteligência Artificial)

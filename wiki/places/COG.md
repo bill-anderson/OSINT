@@ -6,7 +6,7 @@ parent: XCA
 place_kind: country
 topics: [gov.protect, gov.legislate, dpi.id, dpi.registry, infra.connect, infra.store, dpi.pay, dpi.govtech, gov.policy, gov.regional, tech.ai, finance.new, include.access, include.divides, geopol.china, geopol.eu, infra.cybersec, capacity.training, capacity.literacy, data.satellite, data.open, data.statistics, digital.rural, gov.standards, tech.industry, tech.innovate]
 status: active
-last_reviewed: 2026-07-18
+last_reviewed: 2026-07-20
 ---
 
 # Congo-Brazzaville (COG)
@@ -40,6 +40,21 @@ are arriving, though GSMA flags weak connectivity (18.8% unique mobile-internet 
 - **2025-03 (75% complete)** — **Brazzaville National Data Centre (CAB).** [[congo-national-data-centre]] — billed
   as Central Africa's first sovereign DC ($72.8m / €66.55m; $57m AfDB + $15.8m govt; 600-km fibre to Cameroon +
   CAR). See [[infra.store]], [[XCA]]. Source: [[2024-05-20 Congo to build Central Africa's first fibre data centre (Brazzaville, $72.8m)]].
+- **2024-05-17** — **AfDB settles the data-centre financing figures.** The Bank's own site feature (civil works
+  ~60% complete as of early May 2024) gives the **CAB Congo component** as **€66.55m — €52.47m AfDB +
+  €14.50m Government of Congo**, covering **both** 600 km of fibre (Cameroon **341 km**, CAR **281 km**, incl. a
+  sub-river Sangha crossing) **and** the data centre; of that total **"some €13.8 million… to build and run the
+  data centre"** (≈US$15m). This resolves the recurring "$13 million AfDB financing" line in Congolese
+  reporting as the **euro figure rendered in the wrong currency** — not a rival value.
+  *Caveat: the AfDB says €13.8m "of the total"; it does not state the whole €13.8m is AfDB rather than blended.*
+  Also dated here: AfDB active portfolio in Congo **11 projects / $411.62m (April 2024)**, telecoms **13.7%**.
+  Coordinator **Michel Ngakala** frames the centre as ending reliance on European/American servers and hosting
+  the Postal & Telecommunications Ministry's population-wide digital-identification project.
+  Source: [[2024-05-17-afdb-congo-national-data-centre-digital-sovereignty]]. See [[infra.store]],
+  [[gov.regional]], [[finance.new]], [[XCA]].
+  *Note: the "only country in Central Africa to have its own data centre" framing is the project coordinator's,
+  and is contradicted on the record — [[arpce-congo]]'s Pointe-Noire (2Africa) facility and earlier Brazzaville
+  sites predate completion.*
 - **2024-07-03** — **DP-commission bill approved** (Council of Ministers) — the origin of the
   [[national-personal-data-protection-commission-congo]] later installed Jan 2026. Source: [[2024-07-05 Congo - Council of Ministers approves bill creating National Personal Data Protection Commission]].
 - **2024-05** — **PATN allocates $63.9m for 2024** (World Bank $100m Digital Acceleration Project; 57 projects).
@@ -58,7 +73,8 @@ are arriving, though GSMA flags weak connectivity (18.8% unique mobile-internet 
   [[2026-06-22 Driving Digital Transformation of the Economy in the Republic of Congo]] · [[infra.connect]] · [[dpi.pay]]
 - **National-press sweep (2025–26)** — the ADIAC/Les Dépêches + trade record adds: **new ICT minister
   Frédéric Malik Nguema Nzé** (superseding Ibombo, Jul 2026); the **National Data Centre stalled on
-  government non-payment then inaugurated** (AfDB financing conflict $13m vs $57m — open contradiction);
+  government non-payment then inaugurated** (the AfDB "$13m vs $57m" financing conflict is **resolved
+  2026-07-20** — different scopes of one operation, see the 2024-05-17 entry above);
   **[[caria-congo|CARIA]]** built with **both China (CAICT) and Russia (Sberbank debt-swap)**; **[[anssi-congo|ANSSI]]**
   and a national AI strategy (lingala/kituba); ARPCE **enforcement** (mise en demeure of MTN/Airtel) against
   a **structural rural-cost problem** (backhaul spectrum 10× the SSA median); satellite running to

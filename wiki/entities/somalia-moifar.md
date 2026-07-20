@@ -5,8 +5,8 @@ title: Ministry of Interior, Federal Affairs and Reconciliation (MOIFAR), Somali
 places: [SOM]
 topics: [dpi.registry, dpi.id]
 status: active
-last_reviewed: 2026-07-16
-sources: [[2025-08-11 Somalia pilots 19-district digital civil registry]]
+last_reviewed: 2026-07-20
+sources: [[2025-08-11 Somalia pilots 19-district digital civil registry], [2025-03-13-nadra-somalia-nid-data-centre-infrastructure]]
 ---
 
 # Ministry of Interior, Federal Affairs and Reconciliation (MOIFAR), Somalia

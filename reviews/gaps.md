@@ -870,3 +870,55 @@ study). See log.md.)*
 - **GAP-BFA-00X · No ARCEP or MTDPCE primary is held for the white-zone programme.** Every source in the
   corpus is press reporting; the ministry publishes via Facebook, which is not a sweep target. (Surfaced
   reconcile, 2026-07-20.)
+
+### Surfaced by the ingest of the reconcile primaries, 2026-07-20
+
+- **GAP-UGA-00X · The UBOS Census 2024 Final Report is the population baseline for every Uganda page and is
+  not held.** The 45.9m total and the 23,154,716 adults aged 18+ (2024-05-09) are load-bearing for the
+  resolution now written on `UGA.md` and `uganda--dpi-id.md`, and both reach the wiki **only second-hand**,
+  quoted by NIRA. Every Uganda coverage-rate claim rests on a denominator with no source page. *The
+  highest-value single acquisition for Uganda.* Also unheld: NIRA's own 2024-07-01 COSASE submission (both
+  July clips report it second-hand), and **Statutory Instrument No. 67 of 2024**, the instrument holding the
+  KYC gate open. (Surfaced ingest, 2026-07-20.)
+
+- **GAP-ZWE-00X · The InfraCo Pre-Listing Statement (2026-02-04) and the EWZL shareholder circular of the
+  same date are not held.** They are referenced by the supplementary statement and would probably settle
+  **both** the Distributed Power Africa identity question and the Econet Group parentage question
+  (ISSUE-033). The single highest-value acquisition from the Zimbabwe material. (Surfaced ingest,
+  2026-07-20.)
+
+- **GAP-ZAF-00X · The DHA Annual Performance Plan 2026/27 PDF artefact was never downloaded.** The companion
+  source page is filed with five verbatim extracts, but no artefact sits behind it:
+  `https://pmg.org.za/files/2/DHA_APP_2026-27_Final_26_Mar_2026.pdf`. (Surfaced ingest, 2026-07-20.)
+
+- **GAP-BFA-00X · Two circulating Burkina figures have no source in the corpus at all.** "330 localities
+  since 2019" and "441 sites / 126 rural" appear in the reconcile record but correspond to no held `raw/`
+  item and no URL on file — they entered working notes without an ingest. **Not citable until sourced.**
+  (Surfaced ingest, 2026-07-20.)
+
+- **GAP-ZMB-00X · Three Zambian figures rest on single government briefings with no stated basis.** SZI's
+  "approximately 80 percent" connectivity claim has **no stated unit** and is irreconcilable with both the
+  33.0% user figure and ZICTA's 72.1-per-100 subscriptions; the **K7 billion** digital-transactions figure
+  (2021–2025) has no breakdown or baseline; and no official statement disaggregates the 116 GWAN councils by
+  *link established* vs *service live*. (Surfaced ingest, 2026-07-20.)
+
+- **GAP-XAF-00X · The Disrupt Africa 11th-edition report PDF and the AVCA Venture Capital in Africa Report
+  are both unheld.** The by-count/by-value figures and methodology quotes now on `disrupt-africa.md` trace
+  to a secondary and to reconcile research, not to a held copy; the AVCA report is one side of the newly
+  filed equity-direction contradiction. Both are free downloads needing a manual capture. (Surfaced ingest,
+  2026-07-20.)
+
+- **GAP-SSD-00X · NIPS's status after its missed December-2025 rollout target is undocumented.** The wiki
+  currently asserts "no go-live documented", which is an absence of evidence rather than evidence of
+  absence. A dated BoSS or AfricaNenda statement would close it. The **ATS+ platform vendor is also
+  unidentified** — no supplier announcement for a system this material. (Surfaced ingest, 2026-07-20.)
+
+- **GAP-SEN-00X · Two Senegal loose ends.** The Sénégal Numérique SA compromise the same week as the DAF
+  breach has no held primary despite press speculation of a coordinated campaign; and no Senegalese national
+  CERT existed at the time of the incident — a standing structural fact worth sourcing. (Surfaced ingest,
+  2026-07-20.)
+
+- **GAP-MWI-00X · Malawi's Data Protection Act clip is partial and s.53 is outside the captured range.** The
+  transitional grace period (all controllers exempt until 2026-06-02) is currently sourced only by report.
+  Under the ISSUE-016 exception the `excerpt` file can be completed in place. Also unheld: Government Notice
+  40 of 2024 and the two 2025 implementing regulations. (Surfaced ingest, 2026-07-20.)

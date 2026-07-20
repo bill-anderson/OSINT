@@ -6,7 +6,7 @@ places: [XAF, XSS, XGL, ETH, KEN, ZMB, ZAF, MWI, TZA, GHA, MOZ, NGA, UGA, RWA, Z
 entities: [[development-gateway], [usaid], [bill], [world-development-report-2025], [paris21], [2026-07-11 data-systems-crossroads], [malawi-revenue-authority], [african-development-bank], [nafa], [dhis2], [hisp-centre], [open-data-watch], [africa-cdc], [gsma], [research-ict-africa]]
 lens: [sovereignty, colonialism]
 status: active
-last_reviewed: 2026-07-17
+last_reviewed: 2026-07-20
 sources: [[2026-05-26 A Year After USAID Reclaiming Control of Data Systems – Development Gateway An IREX Venture – Data and digital solutions for international development], [2026-03-31 Africa we have a data problem], [2021-09-01 2021-data-side-of-lnob], [2024-09-01 2024-digital-compacts-global-ideals-regional-realities], [2026-07-11 data-systems-crossroads.pdf], [2026-06-03 Malawi reaps digital tax gains], [2026-05-26 AfDB says Africa must fund its own growth as aid model frays], [2021-08-04 Health information systems in developing countries case of African countries], [2021-09-13 The burden of recording and reporting health data in primary health care facilities in five low- and lower-middle income countries], [2023-05-11 Data for local decision-making, not a mere reporting requirement development of an index to measure facility-level use of HMIS data  Published in Journal of Global Health Reports], [2023-10-30 A political economy analysis of strengthening health information system in Tanzania], [2025-11-05 New report highlights urgent need to rebuild and sustain health data systems], [2025-04-03 Now is the time to invest in locally-owned health data systems], [2026-03-24 Mobile Money in Africa Strong Growth, but Adoption Still Falls Short], [2026-03-11 The evolving role of National Statistics Offices (NSOs) as data custodians in the digital age]]
 ---
 
@@ -128,6 +128,32 @@ is where the **"is the data even being created?"** question lives, upstream of D
   paper — plus 2023/24 national accounts. Eritrea's most concrete data-systems development on record,
   in one of the continent's thinnest reporting environments. See [[capacity.research]], [[XEA]].
   Source: [[2026-05-08 Eritrea strengthens data systems with EPHS 2025 (UNDP)]].
+- **Reading DataReportal editions — two dating traps.** The series **changed its publication cycle** with
+  *Digital 2026*: those editions were published **2025-11-08** carrying **October-2025** data, where *Digital
+  2025* was published 2025-03-03 with January-2025 data. **An edition year is not an as-of year.** The
+  publisher also **rebases values between editions without notice** and warns readers against computing
+  change across them — confirmed in **Chad** (22.5% → ~13.2% restated Jan-2024 base) and **CAR** (15.5%
+  Jan-2025 withdrawn; its 2026 edition reports *fewer* users against a *larger* population). See
+  [[datareportal]].
+- **[[TGO]] Togo — data production and data use are separable failures.** GPE's ITAP rated Togo's
+  *data and evidence* enabling factor **MEDIUM** priority (2024-04-08): high output — statistical yearbooks
+  within three months of year-end — but weak linkage, so the volume does not convert into planning or
+  effectiveness monitoring. See **[[togo--dpi-mis]]**.
+- **[[AGO]] Angola — Censo 2024, the first fully digital census.** INE published definitive national results
+  **2025-11-20**: **36,604,681** residents at reference date **2024-09-19**, density 29/km², median age 23,
+  9m households, collected via **CAPI/CATI with GIS cartographic updating**. The Luanda provincial report
+  closed the exercise **2026-02-24**. *INE's two reports differ on Luanda's population by **150,787**
+  (8,816,297 national vs 8,665,510 provincial) with no published reconciliation.*
+- **[[NGA]] Nigeria — NGX's Domestic & Foreign Portfolio Investment Report** is a monthly official market
+  series compiled by NGX Regulation from returns polled from **100% of Active Trading Licence Holders**,
+  splitting equity turnover domestic/foreign and retail/institutional, publishing its own NAFEM conversion
+  rate, with a back-series to 2007. A worked case for holding the primary: trade-press accounts circulated
+  its **year-to-date** figures without stating they were cumulative, and carried a naira figure unconverted
+  into a dollar column. Source: [[2026-05-31-ngx-domestic-foreign-portfolio-investment-report-may-2026]].
+- **[[ZMB]] Zambia (2022, ZICTA).** Mobile revenue **ZMW7.8bn (~US$386m), +18% YoY**, data at **36.9% of
+  revenue** (from 30.5%); domestic outgoing traffic **+17% to 28.5bn minutes**; international outgoing
+  **−15% to 14.9m minutes**, which ZICTA attributes to VoIP substitution. Source:
+  [[2023-03-13-zicta-2022-annual-market-report-subscriptions]].
 
 ## Reads
 

@@ -6,8 +6,8 @@ places: [TZA]
 topics: [dpi.id, dpi.registry, include.access, gov.legislate, finance.new]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-17
-sources: [[2025-06-17 Tanzania launching infant biometric registration pilot with UNICEF support], [2026-01-04 Tanzania rolls out infant registration for stronger citizen ID], [2025-05-27 Home Affairs unveils 2.06tri- budget], [2025-01-01 Tanzania - National Identification Card guidance (Baker McKenzie)]]
+last_reviewed: 2026-07-20
+sources: [[2025-06-17 Tanzania launching infant biometric registration pilot with UNICEF support], [2026-01-04 Tanzania rolls out infant registration for stronger citizen ID], [2025-05-27 Home Affairs unveils 2.06tri- budget], [2025-01-01 Tanzania - National Identification Card guidance (Baker McKenzie)], [2024-03-12-jamii-namba-development-work-started-chanzo], [2024-08-27-mfumo-jamii-x-change-kuunganisha-mifumo-tehama], [2024-10-18-hakikisheni-mnapata-namba-ya-nida-jamii-namba-majaliwa]]
 ---
 
 # Jamii Namba (Universal ID), Tanzania
@@ -98,3 +98,6 @@ corroboration of a state's own ID coverage claims is uncommon enough to be worth
 - [[2026-01-04 Tanzania rolls out infant registration for stronger citizen ID]]
 - [[2025-05-27 Home Affairs unveils 2.06tri- budget]]
 - [[2025-01-01 Tanzania - National Identification Card guidance (Baker McKenzie)]]
+- [[2024-03-12-jamii-namba-development-work-started-chanzo]]
+- [[2024-08-27-mfumo-jamii-x-change-kuunganisha-mifumo-tehama]]
+- [[2024-10-18-hakikisheni-mnapata-namba-ya-nida-jamii-namba-majaliwa]]

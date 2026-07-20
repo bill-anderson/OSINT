@@ -5,11 +5,11 @@ place: NGA
 topic: dpi.pay
 places: [NGA, XWA]
 topics: [dpi.pay, gov.policy, gov.regional, gov.standards, gov.legislate, dpi.govtech, tech.ai, tech.industry, include.access, finance.new, capacity.literacy]
-entities: [[cbn], [fx-bdc-purchase-tracker], [cbn-policy-insight-series-2025], [ecowas], [afcfta], [papss], [afreximbank], [beac], [mathesis-analytics], [first-ally-capital], [mathesis-analytics-first-ally-funding-2026], [skydd], [chituru-nsirim], [anu-oyeleye], [nigerian-exchange], [bamboo], [cowrywise], [meristem-securities], [afrinvest], [csl-stockbrokers], [richmond-bassey]]
+entities: [[cbn], [fx-bdc-purchase-tracker], [cbn-policy-insight-series-2025], [ecowas], [afcfta], [papss], [afreximbank], [beac], [mathesis-analytics], [first-ally-capital], [mathesis-analytics-first-ally-funding-2026], [skydd], [chituru-nsirim], [anu-oyeleye], [nigerian-exchange], [bamboo], [cowrywise], [meristem-securities], [afrinvest], [csl-stockbrokers], [richmond-bassey], [sec-nigeria], [ngx-regulation], [ngx-domestic-foreign-portfolio-investment-report]]
 lens: []
 status: active
-last_reviewed: 2026-07-19
-sources: [[2026-07-17-nigeria-central-bank-digitises-forex-oversight], [2026-02-06 Nigeria just raised the bar for West African Fintech], [2026-02-05 Nigeria's fintech blueprint raises stakes for Kenya, Africa's digital economy], [2026-01-27 Nigeria's PAPSS cross-border payments falls 53% to N5.6bn], [2025-04-29-cbn-open-banking-august-launch], [2025-11-07-nibss-national-payment-stack-first-transaction], [2026-06-17-cbn-payments-system-vision-2028], [2025-02-10-busha-lists-cngn-stablecoin], [2026-02-04-onafriq-papss-naira-wallet-ghana], [2025-06-11-ussd-end-user-billing-model], [2025-10-09-nigeria-e-payments-256bn-cbn], [2025-12-23-siips-nigeria-instant-payments-2tn], [2026-06-15-cbn-data-localisation-beneficial-owners-2027], [2026-06-09-cbn-ai-fraud-detection-realtime], [2025-08-25-cbn-pos-geotag-iso20022], [2026-03-12-cbn-automated-aml-baseline-standards], [2026-01-12-tin-nin-crypto-tax-carf], [2026-01-15-fg-7-5-vat-electronic-banking], [2025-09-04-fccpc-deon-digital-lending-regulations], [2025-05-13-cbn-diaspora-nrbvn-platform], [2025-11-03-sec-cbn-efcc-freeze-illicit-wallets], [2025-01-23-visa-strategic-investment-moniepoint], [2026-04-21-cbn-ncc-tirms-telecom-data-banks], [2026-06-25-paystack-index-ai-checkout], [2025-05-09-isa-2025-crypto-securities], [2025-03-20-flutterwave-firs-tax-payments], [2026-07-17-mathesis-analytics-raises-funding-ai-lending], [2026-07-17-skydd-insure-fintech-leadership], [2026-07-18-nigeria-retail-investing-boom]]
+last_reviewed: 2026-07-20
+sources: [[2026-07-17-nigeria-central-bank-digitises-forex-oversight], [2026-02-06 Nigeria just raised the bar for West African Fintech], [2026-02-05 Nigeria's fintech blueprint raises stakes for Kenya, Africa's digital economy], [2026-01-27 Nigeria's PAPSS cross-border payments falls 53% to N5.6bn], [2025-04-29-cbn-open-banking-august-launch], [2025-11-07-nibss-national-payment-stack-first-transaction], [2026-06-17-cbn-payments-system-vision-2028], [2025-02-10-busha-lists-cngn-stablecoin], [2026-02-04-onafriq-papss-naira-wallet-ghana], [2025-06-11-ussd-end-user-billing-model], [2025-10-09-nigeria-e-payments-256bn-cbn], [2025-12-23-siips-nigeria-instant-payments-2tn], [2026-06-15-cbn-data-localisation-beneficial-owners-2027], [2026-06-09-cbn-ai-fraud-detection-realtime], [2025-08-25-cbn-pos-geotag-iso20022], [2026-03-12-cbn-automated-aml-baseline-standards], [2026-01-12-tin-nin-crypto-tax-carf], [2026-01-15-fg-7-5-vat-electronic-banking], [2025-09-04-fccpc-deon-digital-lending-regulations], [2025-05-13-cbn-diaspora-nrbvn-platform], [2025-11-03-sec-cbn-efcc-freeze-illicit-wallets], [2025-01-23-visa-strategic-investment-moniepoint], [2026-04-21-cbn-ncc-tirms-telecom-data-banks], [2026-06-25-paystack-index-ai-checkout], [2025-05-09-isa-2025-crypto-securities], [2025-03-20-flutterwave-firs-tax-payments], [2026-07-17-mathesis-analytics-raises-funding-ai-lending], [2026-07-17-skydd-insure-fintech-leadership], [2026-07-18-nigeria-retail-investing-boom], [2008-12-01-cbn-bullion-nigerian-stock-market-global-financial-crisis], [2026-05-31-ngx-domestic-foreign-portfolio-investment-report-may-2026]]
 ---
 
 # Nigeria × Digital Payments
@@ -171,7 +171,15 @@ drawing on SEC/NSE/CBN monthly bulletins) records market cap peaking at **₦12.
 closing at **₦6.96tn (31 December 2008)** — a loss of **₦5.55tn, or 44.4%, between March and end-2008**. No
 dollar figure is carried: the naira moved from ~₦117/$ to ~₦135/$ across that window, so any single
 conversion is a rate-selection artefact (₦5.55tn is ~$41.0bn at the end-2008 rate, ~$46.8bn at the 2008
-average). The error is not one outlet's — it recurs across Nigerian financial writing since at least 2019. The rally's other caveat — a risk **[[csl-stockbrokers]]**'s Mustapha Umaru argues is
+average). The error is not one outlet's — it recurs across Nigerian financial writing since at least 2019, in
+national press and academic papers alike, so a reader meeting "₦6.96tn lost" elsewhere should read it as the
+closing capitalisation. Source: [[2008-12-01-cbn-bullion-nigerian-stock-market-global-financial-crisis]].
+**The NGX primary settles the 2026 figures too (added 2026-07-20):** ₦2.85974tn retail and ₦4.06178tn
+institutional are **year-to-date Jan–May 2026 cumulative**, not May-month values — May alone was ₦0.72627tn
+retail and ₦1.03337tn institutional, with institutional trades **59% of domestic activity in May 2026**. At
+the report's own **₦1,373.25/$ (NAFEM, 31 May 2026)** those YTD figures are **$2.08bn retail** and **$2.96bn
+institutional**; the "$4.06 billion" in circulation is the naira figure carried unconverted into the dollar
+column. Source: [[2026-05-31-ngx-domestic-foreign-portfolio-investment-report-may-2026]]. The rally's other caveat — a risk **[[csl-stockbrokers]]**'s Mustapha Umaru argues is
   now mitigated by stronger corporate governance and NGX regulation, which is a forecast made mid-rally;
   and the binding operational failure named by market participants is not the trading technology but
   the **registrar layer**, where inconsistent recording of shareholder names delays or blocks dividend
@@ -194,3 +202,5 @@ Place: [[NGA]] · Concepts: [[dpi.pay]] · [[gov.policy]] · Intersection: [[nig
 - [[2026-07-17-mathesis-analytics-raises-funding-ai-lending]]
 - [[2026-07-17-skydd-insure-fintech-leadership]]
 - [[2026-07-18-nigeria-retail-investing-boom]]
+- [[2008-12-01-cbn-bullion-nigerian-stock-market-global-financial-crisis]]
+- [[2026-05-31-ngx-domestic-foreign-portfolio-investment-report-may-2026]]

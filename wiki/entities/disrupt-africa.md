@@ -5,8 +5,8 @@ title: Disrupt Africa
 places: [XAF, ZAF, NGA, EGY, KEN]
 topics: [finance.new, tech.industry, tech.innovate]
 status: active
-last_reviewed: 2026-07-17
-sources: [[2026-02-27 SA powers Africa's $1.64bn tech funding rebound]]
+last_reviewed: 2026-07-20
+sources: [[2026-02-27 SA powers Africa's $1.64bn tech funding rebound], [2026-02-03-disrupt-africa-tech-startups-funding-report-2025], [2026-01-22-partech-africa-tech-vc-report-2025]]
 ---
 
 # Disrupt Africa
@@ -28,8 +28,11 @@ be summed, averaged or used to check one another.** Partech counts **equity plus
 a wide tech universe (US$4.1bn, 570 deals — equity US$2.41bn/462 deals, debt US$1.64bn/107; report
 published 2026-01-22). Disrupt Africa publishes a **self-declared minimum floor**, **by funded venture**,
 restricted to companies passing a narrow startup test (US$1,636,700,000 across 178 startups, 11th
-edition, 2026-02-03); its methodology states the true total "is likely to be higher than our total" and
-excludes corporate spin-offs and companies over roughly ten years old.
+edition, 2026-02-03); its methodology states the true total "is likely to be higher than our total",
+estimates the *lowest possible* figure for undisclosed rounds, and excludes corporate spin-offs and
+companies over roughly ten years old. Sources (both primary, both now held): Partech's own release,
+[[2026-01-22-partech-africa-tech-vc-report-2025]]; Disrupt Africa's own announcement,
+[[2026-02-03-disrupt-africa-tech-startups-funding-report-2025]].
 
 *Two cautions.* First, the apparent agreement on the big-four share is **a false parallel**: Disrupt
 Africa's 72.5% is the big four's share **by count** (129/178), while its share **by value** is **88%** —
@@ -37,7 +40,19 @@ so against Partech's 72% of capital the two **diverge by 16 points**. Second, Pa
 (US$1.64bn) is numerically identical to Disrupt Africa's *total* — coincidence, not reconciliation, and a
 live trap for a future reader. The gap localises to debt megadeals to mature companies: the trackers rank
 the big four in **opposite orders**, Kenya being Partech's #1 (US$1.04bn, 48% debt) but Disrupt Africa's
-#4 (US$273.2m).
+#4 (US$273.2m) — a 3.8x divergence, against only 1.2x for equity-shaped Nigeria (US$572m vs US$464.8m).
+Sun King (founded 2007) sits outside Disrupt Africa's startup definition.
+
+**Which series to cite (CC recommendation, 2026-07-20 — a curation call, not settled).** Adopt
+**Partech as the citable headline series** — most comprehensive, and it splits equity from debt — and
+retain **Disrupt Africa as a named floor series**: conservative, startup-scoped, and the only one
+publishing a full named startup list. The standing rule is unchanged either way: never write a bare
+"Africa raised $X in 2025".
+
+**Report not yet held.** The wiki holds Disrupt Africa's *announcement* of the 11th edition
+([[2026-02-03-disrupt-africa-tech-startups-funding-report-2025]]), not the report PDF itself. The
+sectors, acquisitions and named-startup sections, and the methodology statement quoted above, need a
+**manual capture** before they can be cited directly.
 
 ## Activity in this wiki
 
@@ -46,6 +61,12 @@ the big four in **opposite orders**, Kenya being Partech's #1 (US$1.04bn, 48% de
   in larger rounds and established ecosystems). The **"big four"** (SA, Nigeria, Egypt, Kenya)
   accounted for **129 funded startups (72.5%)** and **$1.45bn (88% of capital)**. Source:
   [[2026-02-27 SA powers Africa's $1.64bn tech funding rebound]].
+- **Africa CY2025, from Disrupt Africa's own announcement (2026-02-03).** US$1.64bn across **178 funded
+  startups**, **+46.2% YoY** — a *slight decline* in the number of funded ventures against a sharp rise in
+  capital. Prior year: **US$1,119,802,000 (2024)**. **Active investors 330 (2025)**, down 4.6% from **346
+  (2024)** — but a stabilisation after **987 (2022)** and **527 (2023)**. All four of the big four raised
+  more than in 2024. The 11th edition is free to download, supported by TVC Labs and Opus. Source:
+  [[2026-02-03-disrupt-africa-tech-startups-funding-report-2025]].
 - **South Africa CY2025.** **42 startups funded, up 68% from 25 in 2024**; **$335.9m raised = 20.5%
   of Africa's total**; a **234% surge from $100.4m in 2024**, but **still below the $512.3m 2023
   peak**. **Average deal size $7.99m**, nearly double the $4.02m of 2024. Only **63.2% of disclosed

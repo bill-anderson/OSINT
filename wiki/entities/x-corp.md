@@ -6,8 +6,8 @@ places: [NGA, XGL]
 topics: [tech.ai, gov.legislate]
 lens: []
 status: active
-last_reviewed: 2026-07-12
-sources: [[2026-07-10 Why Nigeria Is Investigating Meta, Google, X and AI Firms]]
+last_reviewed: 2026-07-20
+sources: [[2026-07-10 Why Nigeria Is Investigating Meta, Google, X and AI Firms], [2025-03-03-datareportal-digital-2025-chad], [2025-11-08-datareportal-digital-2026-chad], [2025-03-03-datareportal-digital-2025-central-african-republic], [2025-11-08-datareportal-digital-2026-central-african-republic]]
 ---
 
 # X Corp (X / Twitter)

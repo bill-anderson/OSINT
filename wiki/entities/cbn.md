@@ -6,8 +6,8 @@ places: [NGA]
 topics: [gov.protect, gov.legislate, dpi.pay, infra.store]
 lens: [sovereignty, colonialism]
 status: active
-last_reviewed: 2026-07-19
-sources: [[2026-07-17-nigeria-central-bank-digitises-forex-oversight], [2026-07-07 CBN's local data order puts Nigeria's data centres to test], [2026-06-17 Government data silos threaten Nigeria's AI ambitions], [2026-04-23 Africa's $205 Billion Digital Shift Is Redefining Money, and Central Banks Are Losing Control], [2026-07-10 Nigeria tests data sovereignty as foreign tech firms facing probe], [2026-02-04 PAPSS, Onafriq launch new trade rail for West Africa], [2026-02-06 Nigeria just raised the bar for West African Fintech], [2022-08-30 Pan-African Payment and Settlement System drives Africa's banking integration], [2026-02-05 Nigeria's fintech blueprint raises stakes for Kenya, Africa's digital economy], [2026-07-10 CBN's Data Localisation Directive Puts Nigerian Fintechs In A Cloud Dilemma], [2026-01-12 (3) Africa's Digital Policy Review 2025 in Perspective and Outlook for 2026], [2026-07-01 Strategy Ahead of Infrastructure, Part I Inside the CBN's June 2026 Payments Circular], [2026-06-19 Strategy Ahead of Infrastructure, Part II The Opportunity and the Case for Sequencing]]
+last_reviewed: 2026-07-20
+sources: [[2026-07-17-nigeria-central-bank-digitises-forex-oversight], [2026-07-07 CBN's local data order puts Nigeria's data centres to test], [2026-06-17 Government data silos threaten Nigeria's AI ambitions], [2026-04-23 Africa's $205 Billion Digital Shift Is Redefining Money, and Central Banks Are Losing Control], [2026-07-10 Nigeria tests data sovereignty as foreign tech firms facing probe], [2026-02-04 PAPSS, Onafriq launch new trade rail for West Africa], [2026-02-06 Nigeria just raised the bar for West African Fintech], [2022-08-30 Pan-African Payment and Settlement System drives Africa's banking integration], [2026-02-05 Nigeria's fintech blueprint raises stakes for Kenya, Africa's digital economy], [2026-07-10 CBN's Data Localisation Directive Puts Nigerian Fintechs In A Cloud Dilemma], [2026-01-12 (3) Africa's Digital Policy Review 2025 in Perspective and Outlook for 2026], [2026-07-01 Strategy Ahead of Infrastructure, Part I Inside the CBN's June 2026 Payments Circular], [2026-06-19 Strategy Ahead of Infrastructure, Part II The Opportunity and the Case for Sequencing], [2008-12-01-cbn-bullion-nigerian-stock-market-global-financial-crisis]]
 ---
 
 # Central Bank of Nigeria (CBN)
@@ -103,3 +103,4 @@ where the data physically sits, now who must report what, and how fast.
 - [[2026-07-01 Strategy Ahead of Infrastructure, Part I Inside the CBN's June 2026 Payments Circular]]
 - [[2026-06-19 Strategy Ahead of Infrastructure, Part II The Opportunity and the Case for Sequencing]]
 - [[2026-07-17-nigeria-central-bank-digitises-forex-oversight]]
+- [[2008-12-01-cbn-bullion-nigerian-stock-market-global-financial-crisis]]

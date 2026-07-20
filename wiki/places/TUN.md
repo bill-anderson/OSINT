@@ -6,7 +6,7 @@ parent: XNA
 place_kind: country
 topics: [dpi.id, dpi.pay, dpi.exchange, dpi.govtech, dpi.registry, gov.protect, gov.legislate, gov.standards, gov.policy, infra.connect, infra.capacity, infra.store, infra.cybersec, include.access, include.divides, tech.ai, tech.innovate, tech.industry, capacity.literacy, digital.rural, data.open, data.statistics, geopol.eu, geopol.china, finance.new]
 status: active
-last_reviewed: 2026-07-19
+last_reviewed: 2026-07-20
 ---
 
 # Tunisia (TUN)
@@ -53,6 +53,30 @@ thing to watch.
   Source: [[2026-02-13 Tunisia Advances Digital Health Reform With AI and National Cloud Strategy]].
   See [[infra.store]], [[tech.ai]], [[sovereignty]]. *(This source names Tunisie Telecom's head
   "Assad bin Dyab" where the January account says "Lassaad Ben Dhiab" — see ISSUE-006.)*
+- **2025-10-31** — **Medusa lands at Bizerte — Africa's first landing on the cable, and who actually owns
+  it.** The **[[medusa-submarine-cable|Medusa]]** system (8,760 km, carrier-neutral, operated by
+  **[[afr-ix-telecom]]**) completed its **first African landing** at Bizerte. The announcer of record is
+  Medusa's own newsroom, and it settles a claim both national operators' PR blurred: **[[orange-tunisia]]
+  hosts, owns and operates the Bizerte landing station** and the ~1,050 km Tunisian segment (branded
+  **ViaTunisia**), under a hosting agreement signed **11 May 2023** with then-CEO **Thierry Millet**;
+  **[[tunisie-telecom]] is a capacity customer**, not an owner. Orange CEO **Stéphane Varret** framed the
+  build as "supported by the European Union"; EU Ambassador **Giuseppe Perrone** placed it under
+  **[[global-gateway|Global Gateway]]**. TT's Chairman **Lassâad Ben Dhiab** claimed an **eightfold
+  increase in international capacity** — a statement about **TT's own purchased capacity**, not about the
+  cable. Sources: [[2025-11-01-medusa-lands-in-bizerte]],
+  [[2023-05-11-orange-tunisia-medusa-bizerte-hosting-agreement]] (the hosting agreement),
+  [[2025-11-03-zawya-tunisie-telecom-medusa-landing-bizerte]] (the TAP/Zawya re-report that carried the
+  ownership confusion and a **22 Tbps** figure). See [[infra.connect]], [[geopol.eu]], [[sovereignty]],
+  [[tunisia--infra-connect]].
+- **2025-02-07** — **Tunisie Telecom buys a dedicated Bizerte–Marseille pair.** TT signed a partnership with
+  **[[medusa-submarine-cable|Medusa]]** for the supply and operation of a dedicated fibre pair of
+  **20 Tbps (2025-02)**, deployed 2025 for completion in early 2026 — signed by **Lassâad Ben Dhiab** and
+  Medusa CEO **Norman Albi** under the patronage of Communication Technologies Minister **Sofiene Hemissi**,
+  who framed it as reinforcing **Tunisia's digital sovereignty**. Medusa's account positions the pair as
+  complementing Tunisia's existing **PEACE, SeaMeWe-4, Didon and Hannibal** links. *Capacity note: Medusa's
+  own record says **20 Tbps**; trade press has reported 22 Tbps — the announcer of record is preferred.*
+  Source: [[2025-02-10-tunisie-telecom-joins-medusa-fibre-pair]]. See [[infra.connect]], [[finance.mou]],
+  [[sovereignty]].
 - **2025-03-19** — **E-Houwiya at 200,000 subscribers, described by the minister who built it.**
   **[[nizar-ben-neji]]**, Tunisia's Minister of Communication Technologies 2021–2024, published an
   account of the system he led: **200,000 mobile-ID subscribers as of March 2025, including over
@@ -161,8 +185,10 @@ thing to watch.
   [[un-egdi]].
 - [[infra.connect]] · [[infra.capacity]] — **all three operators live on 5G (Feb 2025)** on a mature
   61,000 km fibre backbone; the [[medusa-submarine-cable]] Bizerte landing (2025-10-31) positioning Tunisia
-  as a Mediterranean hub — **[[orange-tunisia|Orange]] owns the landing station and Tunisian segment**,
-  **[[tunisie-telecom|TT]] buys a 20 Tbps pair (2025-02)** on it. Full case: [[tunisia--infra-connect]].
+  as a Mediterranean hub — **[[orange-tunisia|Orange]] owns the landing station and Tunisian segment**
+  (hosting agreement 2023-05-11), **[[tunisie-telecom|TT]] buys a 20 Tbps pair (2025-02)** on it. Settled
+  against **[[afr-ix-telecom|AFR-IX]]/Medusa's own newsroom**, the announcer of record. Full case:
+  [[tunisia--infra-connect]].
 - [[infra.store]] · [[infra.energy]] — data centres a **TIA investment priority** (Oct 2025; DP-law reform,
   renewables, cloud SEZ recommended); flagship **20 MW solar-AI DC at Bizerte** ([[solecrypt]] × Schneider,
   MoU Feb 2026); flagged an **emerging North-African market** (Arizton, 2026). Prospective, not yet

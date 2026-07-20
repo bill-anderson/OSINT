@@ -81,3 +81,46 @@ removes the item here. A short `issues.md` means you're caught up.
   editing it — either accept that such corrections live only on synthesis pages (current practice), or
   create a `reviews/source-notes.md` register. CC's preference is the former, for simplicity. *Decision:*
   (awaiting). (Surfaced reconcile, 2026-07-20.)
+
+- **ISSUE-029 · Reporting date vs release date for recurring monthly primaries.** The NGX Domestic & Foreign
+  Portfolio Investment Report is dated by its own "as at" date (2026-05-31), which is how NGX titles the
+  series, but public release was ~2026-07-03 — a five-week gap. This is a recurring monthly series, so the
+  convention should be set once, before more editions land. *Recommend:* keep `published` = the **reporting
+  date** (the publisher's own date; it sorts the series correctly and is what any citation will name) and
+  record the release date in the capture note. The event-date rule still governs regardless: a figure from
+  this report is "as at 31 May 2026", never "as of July". *Decision:* (awaiting). (Surfaced ingest,
+  2026-07-20.)
+
+- **ISSUE-030 · Two deviations taken in the DZAP verbatim re-captures.** Both held World Bank files stored
+  curator paraphrases rather than the documents' words, so they were overwritten under the ISSUE-016 bounded
+  exception — which paid for itself immediately by exposing a mis-attributed figure. But two things went
+  beyond the letter of that rule: (a) `url:` was completed from `unknown` / a bare domain to the canonical
+  deep link, where the rule says frontmatter beyond `body_completeness` is kept; (b) `body_completeness` was
+  set to `excerpt`, not `full`, because the verbatim capture is itself partial. *Recommend:* ratify both —
+  (a) is a link fix, not a reinterpretation, and refusing it would leave a source of record unciteable;
+  (b) is the honest value and the rule's `full` assumes a complete capture. Consider amending the exception
+  to say so explicitly. *Decision:* (awaiting). (Surfaced ingest, 2026-07-20.)
+
+- **ISSUE-031 · A filename that asserts a false claim, inside immutable `raw/`.** `raw/2025-02-07 South
+  Sudan launches first national instant payment system (NIPS).md` headlines a **project launch** as a system
+  launch; the primaries show NIPS never went live. Immutability protects the body against retroactive
+  reinterpretation, but a filename is wiki-authored metadata, not the source's words, and this one actively
+  misleads anyone grepping `raw/`. The same question covers wiki-authored **ingest notes** inside `raw/`
+  files — one in `2026-02-27 SA powers Africa's $1.64bn` states the exact false parallel this batch refutes.
+  *Recommend:* treat wiki-authored metadata in `raw/` (filenames, ingest notes) as **correctable**, distinct
+  from the source body, which stays immutable. *Decision:* (awaiting). (Surfaced ingest, 2026-07-20.)
+
+- **ISSUE-032 · MACRA is a dual-mandate regulator being deliberately split.** Malawi's MACRA is both the
+  communications regulator and, by s.4 of the Data Protection Act 2024, the statutory Data Protection
+  Authority — and the World Bank ToR is explicitly engineering the DPA unit to become an **independent
+  institution**. One page or two is a judgement call worth making **before** it spins out, since a later
+  split means rewiring citations. *Recommend:* one page now with a clearly separated DPA section; split when
+  the DPA is legally independent. *Decision:* (awaiting). (Surfaced ingest, 2026-07-20.)
+
+- **ISSUE-033 · Is `econet-group` the parent of the Zimbabwe opco?** `econet-group.md` states that
+  `econet-wireless-zimbabwe` "sits under the Group". Three EWZL corporate filings ingested this batch — the
+  documents where a parent would appear if there were one — contain **zero** occurrences of "Econet Group"
+  or "Econet Global", and EWZL consistently self-describes as "the Group". Absence in three filings is not
+  proof of absence (a shareholding can sit above a listed entity without appearing in a stakeholder notice),
+  but the claim is now weaker than when written. *Recommend:* soften to founder-lineage phrasing pending a
+  shareholding document, rather than assert or delete. *Decision:* (awaiting). (Surfaced ingest, 2026-07-20.)

@@ -6,8 +6,8 @@ places: [ZMB]
 topics: [infra.energy, infra.connect, dpi.govtech]
 lens: []
 status: active
-last_reviewed: 2026-07-19
-sources: [[2026-07-17-zambie-lance-reseau-4g-prive-govlink]]
+last_reviewed: 2026-07-20
+sources: [[2026-07-17-zambie-lance-reseau-4g-prive-govlink], [2026-03-25-zanis-smart-zambia-digital-infrastructure-investment]]
 ---
 
 # ZESCO

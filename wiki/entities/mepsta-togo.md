@@ -5,8 +5,8 @@ title: MEPSTA (Ministère de l'Enseignement primaire, secondaire, technique et a
 places: [TGO]
 topics: [dpi.mis, data.statistics, dpi.exchange, include.access]
 status: active
-last_reviewed: 2026-07-17
-sources: [[2024-11-19 HISP WCA develops DHIS2 EMIS for education data analysis and visualization in Togo], [2024-11-05 Togo - Integrating DHIS2 with existing EMIS systems]]
+last_reviewed: 2026-07-20
+sources: [[2024-11-19 HISP WCA develops DHIS2 EMIS for education data analysis and visualization in Togo], [2024-11-05 Togo - Integrating DHIS2 with existing EMIS systems], [2022-12-01-hisp-wca-dhis2-emis-togo], [2024-04-08-gpe-itap-togo-enabling-factors], [2026-05-04-gpe-kix-study-tour-education-data-system]]
 ---
 
 # MEPSTA (Ministère de l'Enseignement primaire, secondaire, technique et artisanal, Togo)

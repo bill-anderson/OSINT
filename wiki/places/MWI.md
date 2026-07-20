@@ -6,7 +6,7 @@ parent: XSA
 place_kind: country
 topics: [dpi.govtech, dpi.exchange, dpi.id, infra.store, gov.protect, finance.new, dpi.mis, data.statistics, gov.policy, capacity.training, gov.standards, capacity.research, tech.ai, include.access, digital.localgov, dpi.pay, infra.cybersec, gov.legislate, geopol.china, infra.connect, include.divides, tech.industry, gov.regional, digital.rural, tech.innovate, finance.mou, data.open]
 status: active
-last_reviewed: 2026-07-19
+last_reviewed: 2026-07-20
 ---
 
 # Malawi (MWI)
@@ -84,6 +84,19 @@ last_reviewed: 2026-07-19
   picture: **[[malawi--tech-ai]]**. Sources: [[2026-06-24-chichewa-ai-language-data-trust-techafricanews]],
   [[2026-07-10-macra-undp-ai-digital-id-collaboration-itweb]]. See [[tech.ai]], [[data.open]],
   [[capacity.training]].
+- **2025-10** *(month precision)* — **The regulator is designed by tender: DMAP ToR to operationalise the
+  DPA.** Sixteen months after commencement, the Government — through the **Public Private Partnership
+  Commission**, lead implementing agency for the World-Bank-financed **[[dmap]]** (P505095, IDA-E338-MW) —
+  tendered **advisory and technical consultancy** to stand up the **Data Protection Authority unit inside
+  [[macra-malawi|MACRA]]**: organogram and governance charter, job descriptions and staffing, an
+  operations manual, an **M&E and enforcement framework** with KPIs, drafting of **secondary instruments**
+  (regulations, codes of practice, guidelines), a **business plan targeting cost recovery within five
+  years** with a priced service list and a **scale of fines**, and a phased implementation plan. Five key
+  experts, **100 staff-days over 16 weeks**; bidders benchmarked against **AU/SADC/ECOWAS/EAC** model
+  frameworks. The concrete measure of the operational gap: the statute has been in force since 2024-06-03,
+  but its authority's structure, enforcement machinery and funding model were still out to tender. Source:
+  [[2025-10-01-dmap-tor-operationalization-data-protection-authority]]. See [[gov.protect]],
+  [[gov.legislate]], [[finance.new]], [[capacity.training]], [[sovereignty]].
 - **2025-12-05** — **Farmer data siloed; a case for agricultural DPI.** Malawian farmers juggle
   non-interoperable platforms (PICSA, FISP, One Acre Fund, Zaulimi); analysts pitch the **NRIS** farmer-ID
   layer, the **DPA 2024**, and a Commonwealth-proposed **NAGDI** framework to harmonise them. Source:
@@ -187,7 +200,10 @@ last_reviewed: 2026-07-19
   2025** (tying subscriptions to verified identity) and runs a **National Addressing System** project. Sources:
   [[2025-05-21 Malawi to Launch Mandatory Biometric SIM Registration in July 2025]],
   [[2024-02-12 National Addressing Project - MACRA Website]]. See [[dpi.id]], [[dpi.registry]],
-  [[gov.legislate]].
+  [[gov.legislate]]. **Caveat:** the ID Tech Wire piece states Malawi has no enacted comprehensive
+  data-protection law and that a 2021 Bill "remains stalled". Both claims are **wrong** — the
+  [[malawi-data-protection-act-2024|Data Protection Act 2024]] had been in force since **2024-06-03**,
+  eleven months before publication. Rely on it for the SIM-registration reporting only.
 - **2025** — **Mobile-money economy passes 20m; COMESA cross-border rail.** The
   **[[reserve-bank-of-malawi|Reserve Bank of Malawi]]**'s National Payment Systems reports show **mobile-money
   subscribers passing 20.1m** (Q2 2025; ~16.2m and **K19.5tn** in transactions across 2024). Separately,
@@ -203,6 +219,20 @@ last_reviewed: 2026-07-19
   transparency-versus-privacy tension over a state-held identity dataset. Source:
   [[2025-06-08 MEC Rejects Observer Coalition's Electronic Voter Register Access Request]]. See [[dpi.id]],
   [[gov.protect]], [[data.open]].
+- **2024-06-03** — **Data Protection Act 2024 commences; MACRA becomes the Data Protection Authority.**
+  The **[[malawi-data-protection-act-2024|Data Protection Act, 2024]]** was **passed by Parliament
+  2023-12-07**, **assented by President Chakwera 2024-01-31** and **gazetted 2024-02-02** as **Act No. 3
+  of 2024**; **Government Notice 40 of 2024** brought it into force on **3 June 2024** under s.1. **s.4
+  designates [[macra-malawi|MACRA]]** — the communications regulator — as the **Data Protection
+  Authority**, to act independent of direction or interference; no standalone body was created. 53
+  sections in ten Parts, including data-subject rights, breach notification, **cross-border transfer and
+  adequacy** (Part VII), and registration of controllers/processors *of significant importance* (Part
+  VIII). **s.3(1)(b)** reaches processors outside Malawi that target or monitor people within it.
+  Reported **s.53** gave significant-importance controllers six months to comply (~2024-12-03) and
+  exempted all others until **2026-06-02** — the grace period that explains why enforcement looked absent
+  for two years. Source: [[2024-02-02-malawi-data-protection-act-2024]] (partial capture; s.53 outside the
+  captured range and pending verification). See [[gov.protect]], [[gov.legislate]],
+  [[malawi-data-protection-act-2024]].
 - **2024-03** — **Government Data Centre under construction.** The Malawi Government (via the Public Private
   Partnership Commission) reported its **Lilongwe Government Data Centre** ~51% complete — the local-hosting
   backbone for e-government and data sovereignty. Source:
@@ -248,9 +278,14 @@ last_reviewed: 2026-07-19
   validation ([[malawi-ministry-of-ict]] / [[undp]]); **Chichewa [[malawi-language-data-trust|Language Data
   Trust]]** (WB+Gates); MACRA-UNDP AI/ID work; TNM AI labs; NBM/ICTAM Innovation Jam; Airtel Nzeru Fund —
   **[[malawi--tech-ai]]**.
-- [[gov.protect]] · [[infra.cybersec]] — data privacy as cornerstone; "Privacy by Design"; the
-  **[[malawi-data-protection-act-2024]]**; **[[macra-malawi|MACRA]]** as DPA with draft registration
-  regulations/fees; DPA + **MwCERT** to become independent institutions (World Bank TA).
+- [[gov.protect]] · [[infra.cybersec]] · [[gov.legislate]] — the **[[malawi-data-protection-act-2024|Data
+  Protection Act 2024]]** (Act No. 3 of 2024; assented 2024-01-31, **in force 2024-06-03**), with
+  **[[macra-malawi|MACRA]]** designated **Data Protection Authority** by **s.4**; general compliance
+  obligations fell due **2026-06-02** under the s.53 grace period. Operational build-out still under way:
+  a World-Bank/[[dmap]]-financed **ToR (Oct 2025)** to design the DPA unit's structure, enforcement
+  framework and fee/fine schedule; draft registration regulations and turnover-based fees (2026-07); DPA +
+  **MwCERT** to become independent institutions (World Bank TA). Data privacy framed as "cornerstone" /
+  "Privacy by Design".
 - [[digital.localgov]] · [[dpi.pay]] — Blantyre City Council digitises tax/revenue collection.
 - [[dpi.id]] · [[dpi.registry]] — **near-universal foundational ID** (>13.5m; ~99% of 16+;
   [[national-registration-bureau-malawi]] / [[undp]]); mobile-ID transition + registration-law
@@ -283,6 +318,7 @@ last_reviewed: 2026-07-19
 - [[hmis-malawi-livingstonia]] · [[dhis2]] · [[his-developing-countries-review]]
 - Mentioned, not hubbed: Department of E-Government (Prosper Mopiwa); Department of
   Immigration and Citizenship Services (Denis Chipao); Bomalathu platform; Synod of
-  Livingstonia Health Department (SoLHD).
+  Livingstonia Health Department (SoLHD); **Public Private Partnership Commission (PPPC)** — DMAP lead
+  implementing agency; **MAREN** (Malawi Research and Education Network); President **Lazarus Chakwera**.
 
 > Note: Malawi is also a sibling country under [[idea-mpa]] (World Bank ESA programme).

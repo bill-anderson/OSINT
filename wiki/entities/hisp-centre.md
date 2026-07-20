@@ -5,8 +5,8 @@ title: HISP Centre (University of Oslo)
 places: [XGL, XAF, NGA]
 topics: [dpi.mis, data.statistics, capacity.research]
 status: active
-last_reviewed: 2026-07-12
-sources: [[2025-04-03 Now is the time to invest in locally-owned health data systems], [2025-11-05 New report highlights urgent need to rebuild and sustain health data systems], [2026-07-05 Post by DHIS2 on LinkedIn]]
+last_reviewed: 2026-07-20
+sources: [[2025-04-03 Now is the time to invest in locally-owned health data systems], [2025-11-05 New report highlights urgent need to rebuild and sustain health data systems], [2026-07-05 Post by DHIS2 on LinkedIn], [2026-05-04-gpe-kix-study-tour-education-data-system]]
 ---
 
 # HISP Centre (University of Oslo)

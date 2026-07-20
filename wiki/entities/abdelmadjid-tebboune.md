@@ -6,8 +6,8 @@ places: [DZA]
 topics: [gov.policy]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-18
-sources: [[2026-07-08-national-digital-services-center-dual-data-centers--wearetech], [2026-07-15-one-month-deadline-data-center-integration--wearetech]]
+last_reviewed: 2026-07-20
+sources: [[2025-12-30-joradp-decret-25-320-gouvernance-donnees], [2026-07-08-national-digital-services-center-dual-data-centers--wearetech], [2026-07-15-one-month-deadline-data-center-integration--wearetech]]
 ---
 
 # Abdelmadjid Tebboune

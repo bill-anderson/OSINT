@@ -8,8 +8,8 @@ topics: [infra.connect, include.access, digital.rural, dpi.govtech, dpi.mis, gov
 entities: [[zicta], [smart-zambia-institute], [starlink], [ministry-of-technology-and-science-zambia], [ihm-southern-africa], [ministry-of-health-zambia], [govlink], [zesco]]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-19
-sources: [[2025-06-13-zicta-investigating-internet-disruption], [2025-09-01-zicta-uasf-copperbelt-northwestern], [2025-09-29-smart-zambia-starlink-moomba-chiefdom], [2026-02-17-zicta-action-mobile-operators-poor-network], [2026-05-15-zambia-approves-k255m-digital-infrastructure], [2026-06-17-zicta-assesses-uasf-projects-muchinga], [2026-07-16-zambia-govlink-private-4g-techafricanews], [2026-07-16-zambia-govlink-private-4g-itweb], [2026-07-17-zambia-govlink-private-4g], [2026-07-17-zambie-lance-reseau-4g-prive-govlink]]
+last_reviewed: 2026-07-20
+sources: [[2023-03-13-zicta-2022-annual-market-report-subscriptions], [2025-11-08-digital-2026-zambia-datareportal], [2026-03-25-zanis-smart-zambia-digital-infrastructure-investment], [2025-06-13-zicta-investigating-internet-disruption], [2025-09-01-zicta-uasf-copperbelt-northwestern], [2025-09-29-smart-zambia-starlink-moomba-chiefdom], [2026-02-17-zicta-action-mobile-operators-poor-network], [2026-05-15-zambia-approves-k255m-digital-infrastructure], [2026-06-17-zicta-assesses-uasf-projects-muchinga], [2026-07-16-zambia-govlink-private-4g-techafricanews], [2026-07-16-zambia-govlink-private-4g-itweb], [2026-07-17-zambia-govlink-private-4g], [2026-07-17-zambie-lance-reseau-4g-prive-govlink]]
 ---
 
 # Zambia × Connectivity & Rural Access
@@ -78,6 +78,25 @@ grants.
   Connectivity failure is welfare failure. *(News Diggers lede-only.)* See [[include.access]]. Sources:
   [[2026-02-17-zicta-action-mobile-operators-poor-network]], [[2025-06-13-zicta-investigating-internet-disruption]].
 
+## The demand-side baseline — and why the numbers look 2× apart
+
+Two different things get called "internet penetration" in Zambia, and the gap between them is the
+whole argument. **People using the internet: 33.0% — 7.29m of 22.1m — as of October 2025**
+([[datareportal]]/[[kepios]]), up **+199k (+2.8%) YoY with the rate itself unchanged**, leaving
+**14.8m (67.0%) offline**. **Subscriptions per 100 inhabitants: 56.8 at end-2022**, 64.1 (Dec 2023),
+72.1 (2026) — **[[zicta]]'s administrative count**, and the regulator's own 2022 Annual Market
+Performance Report states the unit plainly (11.1m *active internet subscriptions*, +6.73% on 2021),
+which multi-SIM use inflates well past the number of actual users. **Mobile is the same story**:
+**23.5m connections = 106% of population (Oct 2025)**, of which **92.4% are "broadband"** — a figure
+DataReportal explicitly warns is *not* a proxy for mobile internet use — against ZICTA's **19.8m
+active mobile subscriptions at end-2022**, itself down 2% on 2021 with penetration falling **110% →
+101.2%** under SIM-registration rules. Carry the 33.0%; treat every ZICTA figure as a subscription
+count. *(A third, undefined "**approximately 80 percent**" connectivity claim from SZI's Percy
+Chinyama (2026-03) has no stated unit or basis and is not reconcilable with either series.)* Sources:
+[[2025-11-08-digital-2026-zambia-datareportal]],
+[[2023-03-13-zicta-2022-annual-market-report-subscriptions]],
+[[2026-03-25-zanis-smart-zambia-digital-infrastructure-investment]].
+
 ## Reads
 
 - `sovereignty`: Zambia is building connectivity on two contradictory instincts at once. **GovLink** — a
@@ -93,7 +112,8 @@ grants.
 
 Place: [[ZMB]] · Region: [[XSA]] · Concepts: [[infra.connect]] · [[digital.rural]] · [[include.access]] ·
 Intersections: [[zambia--dpi-govtech]] · [[zambia--dpi-id]] · Entities: [[zicta]] · [[smart-zambia-institute]] ·
-[[starlink]] · [[ihm-southern-africa]] · [[ministry-of-health-zambia]] · [[govlink]] · [[zesco]]
+[[starlink]] · [[ihm-southern-africa]] · [[ministry-of-health-zambia]] · [[govlink]] · [[zesco]] ·
+[[datareportal]] · [[kepios]] · [[gsma]]
 - Mentioned, not hubbed: Care 2.0; UASF; GWAN; DERT III / PDU; Felix Mutati; Elisha Matambo
   (Copperbelt Minister); Kennedy Lishimpi (MoH PS); Kasali Musenge (SZI CTO); Justo Banda; Charles
   Mwinuna; Quadrupleplay / TuSo.

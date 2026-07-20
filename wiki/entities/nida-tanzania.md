@@ -5,8 +5,8 @@ title: National Identification Authority (NIDA), Tanzania
 places: [TZA]
 topics: [dpi.id, dpi.registry]
 status: active
-last_reviewed: 2026-07-11
-sources: [[2026-04-22 Tanzania seeks biometrics contractors for Phase II of national digital ID project]]
+last_reviewed: 2026-07-20
+sources: [[2026-04-22 Tanzania seeks biometrics contractors for Phase II of national digital ID project], [2024-03-12-jamii-namba-development-work-started-chanzo], [2024-08-27-mfumo-jamii-x-change-kuunganisha-mifumo-tehama], [2024-10-18-hakikisheni-mnapata-namba-ya-nida-jamii-namba-majaliwa]]
 ---
 
 # National Identification Authority (NIDA), Tanzania

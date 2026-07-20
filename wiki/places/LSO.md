@@ -6,7 +6,7 @@ parent: XSA
 place_kind: country
 topics: [dpi.registry, dpi.mis, dpi.id, dpi.pay, dpi.exchange, dpi.govtech, gov.policy, gov.protect, gov.legislate, gov.regional, include.access, include.divides, infra.connect, infra.store, infra.energy, infra.cybersec, data.statistics, data.satellite, tech.ai, tech.industry, tech.innovate, capacity.training, digital.rural, finance.new, finance.mou, geopol.usa, geopol.india]
 status: active
-last_reviewed: 2026-07-18
+last_reviewed: 2026-07-20
 ---
 
 # Lesotho (LSO)
@@ -16,7 +16,11 @@ last_reviewed: 2026-07-18
 > **2026-07-18 LSO sweep batch (25 sources)** — a Lesotho Times + Public Eye + SSA-trade-press tranche
 > since 2025-01, consolidated into thematic intersections. Anchors:
 > - **AI & sovereign infrastructure** — the **$6.2bn Convalt "Project Kobong"** hydropower + AI data
->   centre (largest-ever FDI; legal status disputed — see contradiction); three signed digital policies
+>   centre (largest-ever proposed FDI; legal status **resolved 2026-07-20** — a **binding Memorandum of
+>   Agreement signed 2026-06-04**, announced 2026-06-08, but a **development framework only**, subject to
+>   feasibility, permitting, financing, regulatory approval and definitive project agreements; the ~$6.2bn
+>   is proposed project value, **not committed capital**, with no FID as of 2026-07-20 —
+>   [[2026-06-08-convalt-energy-lesotho-partnership-press-release]]); three signed digital policies
 >   (Broadband/Data/AI); Geneva "co-creator not consumer" pitch; US-backed AI skills. Hub:
 >   [[lesotho--tech-ai]]; [[convalt-energy]], [[project-kobong]].
 > - **Connectivity** — the **Starlink licensing saga** (100%-foreign-ownership sovereignty fight, US-tariff

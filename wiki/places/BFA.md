@@ -4,9 +4,9 @@ title: Burkina Faso
 code: BFA
 parent: XWA
 place_kind: country
-topics: [gov.policy, infra.store, infra.cybersec, dpi.govtech, dpi.id, dpi.registry, gov.regional, gov.legislate, finance.mou, finance.new, tech.ai, tech.innovate, capacity.training, dpi.pay, infra.connect, include.access, include.divides]
+topics: [gov.policy, infra.store, infra.cybersec, dpi.govtech, dpi.id, dpi.registry, gov.regional, gov.legislate, finance.mou, finance.new, tech.ai, tech.innovate, capacity.training, dpi.pay, infra.connect, include.access, include.divides, digital.rural, digital.localgov]
 status: active
-last_reviewed: 2026-07-19
+last_reviewed: 2026-07-20
 ---
 
 # Burkina Faso (BFA)
@@ -78,16 +78,37 @@ supervision centre for critical digital infrastructure.
   [[2026-04-09-fiche-de-police-aeroport-en-ligne]], [[2026-04-13-burkina-faso-travel-declarations-online]].
   See [[gov.protect]].
 - **2025→2026 — Connectivity: closing "white zones" against a huge gap.** [[infra.connect]] The FASU/
-  PACTDIGITAL **"zéro zone blanche"** drive (138 covered 2024; 750- then 1,000-locality tranches) targets
-  the **~2,000 localities (10–12%)** still with no coverage. **Two horizons, two things:** the funded
-  phases (750 by end-2026, a further 750 in 2027) carry the political **end-2027** "zéro zone blanche"
-  framing; full national coverage of all ~2,000 zones is targeted for **2030** (DG, as of 2025-12-05,
-  confirmed 2026-02-18) — the ministry's Transition Digitale 2030 roadmap year. Operators met **80–90%** of 2025 site
-  commitments (Orange/Moov 200 each, Telecel 150→300; Omdia Q3-2025: Orange 14.2m, Moov 12.7m, Telecel
-  2.8m); Moov built a ZACA HQ; but tower rollout is **blocked by local opposition** in places. Basic-plan
-  cost is still **~8.8% of GNI**. Burkina/Ghana/Mali/Niger **harmonised frequencies + free roaming** across
-  the ECOWAS split. Sources: [[2026-07-13-pactdigital-1000-white-zones-2026]],
+  PACTDIGITAL **"zéro zone blanche"** drive — launched at Ouahigouya **2025-09-30** and the **first of the
+  12 chantiers** of the ministry's **Transition Digitale 2030** roadmap — targets the **~2,000 localities
+  (10–12%)** still with no mobile, internet or e-money service. **Two horizons, two things:** the funded
+  phases (750 by end-2026, **a further 750 announced for 2027**, as of 2026-04-06) carry the political
+  **end-2027** "zéro zone blanche" framing; full national coverage of all ~2,000 zones is targeted for
+  **2030** (DG Nongobzanga Zongo, as of 2025-12-05, confirmed 2026-02-18) — the roadmap year. The
+  arithmetic supports the distinction: 223 zones covered 2020–2024 via FASU, plus 750 + 750 reaches
+  ~1,720–1,830 of ~2,000, i.e. most of the way but demonstrably not to zero. *Caveat: no ministry document
+  states both horizons side by side and expressly distinguishes them — the reconciliation is inferred from
+  the phase structure, the ~2,000 denominator and the 2030 roadmap framing, and ministry political
+  messaging does conflate the two. Where they diverge, treat the DG's 2030 as authoritative and 2027 as a
+  target on the funded phases.* Financing is **75bn FCFA**, split 37.5bn state (via **FASU** and
+  **[[pactdigital]]**) and 37.5bn from the three operators — **ONATEL, Orange Burkina Faso and Telecel**;
+  the ministry's 2026 budget of **61bn FCFA** is double 2025. **370 localities were connected by early
+  2026** (of 750 targeted); 132 new sites were programmed for the Guiriko region in 2026. At a
+  **2026-04-04** working session chaired by minister Zerbo/Sabané with ARCEP executive secretary **Patrice
+  Compaoré** and the operators, most localities were identified, service orders signed and equipment on
+  order, with operators pressed to front-load civil works before the rainy season. Operators met **80–90%**
+  of 2025 site commitments (Orange/Moov 200 each, Telecel 150→300; Omdia Q3-2025: Orange 14.2m, Moov 12.7m,
+  Telecel 2.8m); Moov built a ZACA HQ; but tower rollout is **blocked by local opposition**, insecurity,
+  land-acquisition friction and power supply in places — the ministry now runs regional workshops with
+  customary authorities (nine regions after Ouahigouya) to unblock sites. Basic-plan cost is still **~8.8%
+  of GNI**. Burkina/Ghana/Mali/Niger **harmonised frequencies + free roaming** across the ECOWAS split.
+  *Progress-to-date counts are reported inconsistently across sources (223 since 2020 vs 330 since 2019 vs
+  138 first phase vs 441 sites/126 rural vs 370 localities) — sites vs localities and differing baselines;
+  see the open contradiction.* Sources: [[2026-07-13-pactdigital-1000-white-zones-2026]],
+  [[2026-04-06-zero-zone-blanche-750-localites-phase-2-2027]],
+  [[2026-02-18-zero-zone-blanche-12-chantiers-2000-zones-2030]],
   [[2026-06-21-telecommunications-taux-execution-engagements-80-90]],
+  [[2025-09-30-services-communications-electroniques-750-zones-bientot-couvertes]],
+  [[2025-12-09-projet-750-zones-blanches-presente-acteurs-nando]],
   [[2025-11-23-burkina-ghana-mali-niger-harmonisent-frequences]]. See [[digital.rural]], [[gov.regional]],
   [[arcep-burkina-faso]].
 - **2025→2026 — Payments: on the UEMOA rail; a spread of platforms.** [[dpi.pay]] Burkina joined the
@@ -220,4 +241,7 @@ supervision centre for critical digital infrastructure.
 - [[faso-arzeka]] — government digital-payment platform · [[arcep-burkina-faso]] — regulator (DNSSEC, local-HQ) · [[bfix]] — internet exchange
 - [[alliance-of-sahel-states]] — AES sovereignty bloc (Mali, Niger, Burkina Faso) · [[ecowas]] — the bloc BFA broke from
 - [[world-bank]] — PACTDIGITAL financing
-- Mentioned, not hubbed: SYC@D (land platform); Faso Ãndúbe (innovation platform); DGTCP; MAG Trade & Investment (Egypt); BN-GPB.
+- Mentioned, not hubbed: **Transition Digitale 2030** (ministry roadmap; "Zéro zone blanche" is its first of
+  12 chantiers); **FASU** (Fonds d'Accès et de Service Universel — co-funder of the white-zone drive);
+  **ONATEL**, **Orange Burkina Faso**, **Telecel Faso** (the three operators carrying half the 75bn FCFA);
+  SYC@D (land platform); Faso Ãndúbe (innovation platform); DGTCP; MAG Trade & Investment (Egypt); BN-GPB.

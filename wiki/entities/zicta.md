@@ -5,8 +5,8 @@ title: Zambia Information and Communications Technology Authority (ZICTA)
 places: [ZMB]
 topics: [gov.legislate, infra.connect, dpi.govtech]
 status: active
-last_reviewed: 2026-07-11
-sources: [[2026-02-27 Zambia partners with PAYZ to boost financial inclusion]]
+last_reviewed: 2026-07-20
+sources: [[2026-02-27 Zambia partners with PAYZ to boost financial inclusion], [2023-03-13-zicta-2022-annual-market-report-subscriptions]]
 ---
 
 # Zambia Information and Communications Technology Authority (ZICTA)

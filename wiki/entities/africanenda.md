@@ -6,8 +6,8 @@ places: [XAF, KEN]
 topics: [dpi.pay, dpi.exchange, include.access, gov.regional, finance.mou]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-14
-sources: [[2026-07-07 Equity, AfricaNenda and Gates Foundation Partner to Advance Digital Public Infrastructure Across Africa], [2026-02-02 How Strategic  Shift of NIBSS Is  Rewiring Nigeria's Payments System], [2025-12-05 From Access to Empowerment Introducing Rwanda's Instant Payment System — eKash], [2026-02-23 111 - Winning But Losing - The Payments End Game]]
+last_reviewed: 2026-07-20
+sources: [[2026-07-07 Equity, AfricaNenda and Gates Foundation Partner to Advance Digital Public Infrastructure Across Africa], [2026-02-02 How Strategic  Shift of NIBSS Is  Rewiring Nigeria's Payments System], [2025-12-05 From Access to Empowerment Introducing Rwanda's Instant Payment System — eKash], [2026-02-23 111 - Winning But Losing - The Payments End Game], [2025-02-05-africanenda-boss-nips-announcement]]
 ---
 
 # AfricaNenda Foundation
@@ -26,6 +26,13 @@ African foundation advancing instant, inclusive payment systems and DPI; works w
   [[2025-11-01 SIIPS 2025 State of Inclusive Instant Payment Systems in Africa]],
   [[2026-03-01 Scaling Instant Payments in Africa Policy Choices for Central Banks]]. See [[dpi.pay]], [[gov.regional]].
 
+- **South Sudan NIPS partnership (2025-02-05).** BoSS announced a partnership with AfricaNenda to
+  build South Sudan's first **[[nips-south-sudan|National Instant Payment System]]** — roadmap,
+  capacity-building at the **[[bank-of-south-sudan]]**, and bank/telco interoperability, following a
+  **2023 proof-of-concept**. CEO **Robert Ochola** framed it as "laying the foundation". This was a
+  **project launch, not a go-live**; AfricaNenda's own *SIIPS 2025* census (data to June 2025) does not
+  list South Sudan among live IPS. See [[SSD]], [[dpi.pay]], [[include.access]]. Source:
+  [[2025-02-05-africanenda-boss-nips-announcement]].
 - **DPI partnership (2026-07-07).** MoU with **[[equity-group-holdings]]** and the
   **[[gates-foundation]]** to move DPI "from policy to implementation" across 20–30
   markets — combining AfricaNenda's technical/policy/ecosystem role with Equity's reach.
@@ -56,3 +63,4 @@ African foundation advancing instant, inclusive payment systems and DPI; works w
 - [[2026-02-02 How Strategic  Shift of NIBSS Is  Rewiring Nigeria's Payments System]]
 - [[2025-12-05 From Access to Empowerment Introducing Rwanda's Instant Payment System — eKash]]
 - [[2026-02-23 111 - Winning But Losing - The Payments End Game]]
+- [[2025-02-05-africanenda-boss-nips-announcement]]

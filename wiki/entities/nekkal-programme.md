@@ -6,8 +6,8 @@ places: [SEN]
 topics: [dpi.registry, dpi.id, dpi.govtech]
 lens: []
 status: active
-last_reviewed: 2026-07-16
-sources: [[2024-06-27 Senegal digitizes millions of civil records under the Nekkal program], [2023-05-01 Children's Right to Identity in Senegal (CHIP CRC submission)]]
+last_reviewed: 2026-07-20
+sources: [[2024-06-27 Senegal digitizes millions of civil records under the Nekkal program], [2023-05-01 Children's Right to Identity in Senegal (CHIP CRC submission)], [2024-06-26-lequotidien-fofana-19-millions-actes-etat-civil], [2026-06-29-aps-nekkal-avancees-modernisation-etat-civil]]
 ---
 
 # Nékkal programme (Senegal civil-registration modernisation)

@@ -6,7 +6,7 @@ parent: XNA
 place_kind: country
 topics: [gov.policy, dpi.govtech, dpi.id, gov.protect, gov.legislate, dpi.pay, dpi.registry, dpi.exchange, tech.ai, infra.connect, infra.store, infra.cybersec, gov.regional, include.divides, include.access, tech.innovate, finance.new, digital.localgov, capacity.training, capacity.literacy, capacity.research, data.satellite, data.statistics, geopol.china]
 status: active
-last_reviewed: 2026-07-18
+last_reviewed: 2026-07-20
 ---
 
 # Algeria (DZA)
@@ -49,10 +49,31 @@ market, a sovereign-cloud and state-owned data-centre/AI-compute build-out — l
   **Presidential Decree n° 25-320 of 30 Dec 2025** (*JO* n° 87) — sovereign data model, interoperability, a
   unified national data-source database. Published alongside Decree n° 25-321 (ISS Strategy 2025–29).
   See [[gov.protect]], [[algeria-data-governance-framework]], [[algeria--gov-protect]].
-  Source: [[2026-02-10 Algeria launches national public-data governance framework (Decree 25-350)]].
+  Sources: [[2025-12-30-joradp-decret-25-320-gouvernance-donnees]] (the gazette text itself),
+  [[2026-02-10 Algeria launches national public-data governance framework (Decree 25-350)]]
+  (*which mis-numbers the decree 25-350*).
 - **2026-01-11** — **AMLAK electronic land-title system** begins nationwide rollout (DGDN). See
   [[dpi.registry]], [[amlak]], [[algeria--dpi-govtech]]. Source:
   [[2026-01-13 Algeria begins nationwide rollout of AMLAK electronic land system]].
+- **2025-12-30** — **Decree 25-320 gazetted: the data-governance machinery, in the President's own text.**
+  Signed by **[[abdelmadjid-tebboune]]** and published in *Journal Officiel* n° 87 (pp. 4–6), 20 articles
+  across four chapters. The **dispositif national de gouvernance des données** comprises three components
+  (Art. 5): a **data-classification référentiel**, a **data-source cataloguing référentiel**, and the
+  **système national d'interopérabilité**. The
+  **[[high-commission-digitalisation-algeria|High Commission for Digitalisation]]** draws up and publishes
+  both référentiels (Art. 8) and builds/administers the interoperability system on a **secure national
+  interconnection network kept physically separate from the internet** (Arts. 11, 17). That system is the
+  **exclusive channel** for digital data exchange between public institutions (Art. 10), and a data user
+  must obtain the **issuer's consent** through it before exploiting data (Art. 13). Supervision is split:
+  the **National Council for Information-Systems Security** rules on the dispositif's operation (Art. 14),
+  **[[anpdcp|ANPDCP]]** polices the conformity of personal-data classification and cataloguing (Art. 15),
+  and **[[assi|ASSI]]** sets data security-level classification (Art. 16). **Defence, national security and
+  judicial data are excluded** (Art. 18); classification obligations bite only **from the date the two
+  référentiels are published** (Art. 19) — *no source held confirms they have been*. Published alongside
+  **Decree 25-321** approving the **[[algeria-national-cybersecurity-strategy-2025-2029|National
+  Information-Systems Security Strategy 2025–2029]]**. See [[gov.legislate]], [[dpi.exchange]],
+  [[algeria-data-governance-framework]], [[algeria--gov-protect]], [[sovereignty]]. Source:
+  [[2025-12-30-joradp-decret-25-320-gouvernance-donnees]].
 - **2025-12** — **5G licences awarded** to Mobilis, Djezzy, Ooredoo; **Oran AI data centre** under
   construction; cloud market projected **$218m → $447m by 2035**. See [[tech.ai]], [[infra.store]],
   [[algeria--tech-ai]]. Source:

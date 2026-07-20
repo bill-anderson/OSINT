@@ -6,7 +6,7 @@ places: [MRT, AGO, XAF, KEN, GAB, SLE, ETH, MOZ, TGO, XGL, XSS, RWA, ZMB, SOM, N
 entities: [[zra-ictd-mou], [zambia-revenue-authority], [international-centre-for-tax-and-development], [gabon-sgg-startup-guarantee-accord], [gabon-huawei-kimba-connect-accord], [kimba-connect], [societe-gabonaise-de-garantie], [ministere-economie-numerique-gabon], [kenya-china-ecommerce-mou], [state-department-for-ict-and-the-digital-economy-kenya], [john-tanui], [equity-africanenda-gates-dpi-partnership], [st-digital-gabon], [sierra-leone-digital-id-mou], [safaricom-ethiopia-fayda-jv], [estdev], [smart-africa], [estdev-smart-africa-mou], [atdi-mozambique], [mozambique-ethiopia-dpi-mou], [sin-togo], [lome-data-centre], [sin-st-digital-lome-cloud-deal], [realtyme], [smart-africa-realtyme-partnership], [gates-foundation], [anthropic], [gates-anthropic-partnership], [gabon-huawei-mou], [huawei], [anthropic-rwanda-mou], [zambia-us-health-mou], [america-first-global-health-strategy], [ethio-telecom], [somcable], [payz], [bank-of-zambia], [zicta], [nigeria-finland-digital-mou], [eu-nigeria-global-gateway-290m], [global-gateway], [au-google-mou], [google], [african-union], [starlink-airtel-d2c-partnership], [starlink-vodacom-leo-partnership], [starlink], [airtel-africa], [vodacom], [ixafrica-oracle-oci-nairobi], [oracle], [kenya-school-of-government], [seychelles-afcfta-mou], [afcfta-digital-trade-corridor]]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-18
+last_reviewed: 2026-07-20
 sources: [[2026-07-17-zambia-revenue-authority-ictd-deal], [2026-07-07 Equity, AfricaNenda and Gates Foundation Partner to Advance Digital Public Infrastructure Across Africa], [2026-07-06 Gabon Inaugurates First Tier III Datacenter to Boost Digital Sovereignty], [2026-07-08 Sierra Leone partners with Bhutan, Sign on digital identity platform], [2026-07-06 Safaricom Ethiopia partners National ID Program to expand digital identity registration], [2026-01-28 Joint Statement of the United States and African Union on the Launch of a Strategic Investment Working Group], [2026-06-18 UAE-Kenya Tech Partnership Gains Momentum as AI Investments Grow], [2026-06-15 Telecom Namibia signs more satellite, subsea connectivity deals with Angola firms], [2026-06-23 A Kenya Technology Prosperity Deal Could Help Washington Secure Durable AI Partnerships with Africa], [2026-05-28 Estonia backs Africa digital infrastructure], [2026-04-28 Mozambique taps Ethiopia's digital ID expertise in DPI partnership], [2026-06-02 SIN, ST Digital to deploy cloud services at Lomé data center], [2026-04-16 Smart Africa, RealTyme join forces for data sovereignty], [2026-05-14 Making AI work for more people], [2026-01-05 Gabon and Huawei Forge Partnership to Boost National Digital Transformation], [2026-03-17 Anthropic is Becoming the Backbone of Rwanda's Government. But Who is Accountable], [2026-03-04 U.S.-based AI firm Anthropic bags first multi-sector government deal in Africa despite policy pressures at home], [2026-02-25 US accused of 'shameless exploitation' over proposed Zambian health aid deal], [2026-02-26 Zambia rejects U.S. health aid over mining partnership ties], [2026-01-29 Ethio Telecom, Somcable talk cross-border collaboration], [2026-02-27 Zambia partners with PAYZ to boost financial inclusion], [2026-03-01 Nigeria Signs MoU With Finland On Digital Innovation, Deepens Bilateral Ties], [2026-03-24 Nigeria EU Announces New €290m Investments in Nigeria], [2026-02-20 AUC Signs Partnership With Google], [2026-07-17-gabon-garantie-publique-huawei-start-up], [2026-07-17-kenya-ict-officers-china-digital-trade]]
 ---
 
@@ -166,6 +166,19 @@ is a **deal entity**; this concept tracks the pattern.
   ICT officers** to Shandong. **The wiki holds no signing date, text, term or published scope for it** —
   an MoU functioning as a spending warrant while remaining, on the record, a reference only. See
   [[geopol.china]], [[KEN]]. Source: [[2026-07-17-kenya-ict-officers-china-digital-trade]].
+- **A binding MoA can still be a development framework only.** Convalt Energy's own release (**2026-06-08**)
+  describes the Lesotho **[[project-kobong|Project Kobong]]** instrument as a "**binding Memorandum of
+  Agreement… for the opportunity to develop**", with progression "subject to… feasibility studies,
+  permitting, financing, regulatory approvals, and definitive project agreements" — so the headline
+  **~$6.2bn is proposed project value, not committed capital**, with no final investment decision as of
+  2026-07-20. A useful reference case for reading MoU/MoA announcements: the legal label and the commercial
+  commitment are separate questions. Source:
+  [[2026-06-08-convalt-energy-lesotho-partnership-press-release]].
+- **[[ZAF]] South Africa (2025-04-03).** SARS, the Department of Home Affairs, the Border Management
+  Authority and Government Printing Works signed a **four-party MoU**, alongside a separate **bilateral
+  SARS–DHA agreement** reviving the **Direct Master Agreement in place since 2010**. Retrospective mentions
+  garbled the two into a single "April 2024" pact. Source:
+  [[2025-04-03-sars-collaboration-agreements-dha-bma-gpw]].
 
 ## Places
 

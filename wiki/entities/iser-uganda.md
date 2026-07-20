@@ -6,8 +6,8 @@ places: [UGA]
 topics: [gov.legislate, dpi.id, include.access, include.divides, gov.protect, digital.rural]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-17
-sources: [[2025-09-13 Uganda's Digital ID Barrier Worsens as Court Delivers Blow to Access]]
+last_reviewed: 2026-07-20
+sources: [[2025-09-13 Uganda's Digital ID Barrier Worsens as Court Delivers Blow to Access], [2024-07-25-chrgj-iser-heapi-seizing-opportunity-uganda-digital-id]]
 ---
 
 # Initiative for Social and Economic Rights (ISER), Uganda

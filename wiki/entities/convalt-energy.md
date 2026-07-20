@@ -6,8 +6,8 @@ places: [XGL, LSO]
 topics: [infra.energy, infra.store, tech.ai]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-18
-sources: [[2026-06-09-convalt-kobong-hydropower-ai-datacenter-techafricanews], [2026-06-30-lesotho-first-ai-data-center-connectingafrica]]
+last_reviewed: 2026-07-20
+sources: [[2026-06-09-convalt-kobong-hydropower-ai-datacenter-techafricanews], [2026-06-30-lesotho-first-ai-data-center-connectingafrica], [2026-06-08-convalt-energy-lesotho-partnership-press-release]]
 ---
 
 # Convalt Energy
@@ -25,7 +25,11 @@ proposed FDI. See [[infra.energy]], [[infra.store]].
   cutting Lesotho's electricity-import dependence on South Africa, and positioning it as a regional power
   exporter. Signed after a **King Letsie III–Gephardt** meeting; associated US exports could exceed $2bn;
   construction from ~2029. The deal's **legal status is disputed** across outlets (binding MoA vs
-  non-binding MoU) — see [[project-kobong]], [[lesotho--tech-ai]]. Sources:
+  non-binding MoU) — **resolved 2026-07-20** by Convalt's own release: a **binding Memorandum of
+  Agreement signed 2026-06-04, announced 2026-06-08**, but a **development framework only**; the ~$6.2bn
+  is the **proposed project value, not committed capital**, with no final investment decision as of
+  2026-07-20. See [[project-kobong]], [[lesotho--tech-ai]]. Sources:
+  [[2026-06-08-convalt-energy-lesotho-partnership-press-release]],
   [[2026-06-09-convalt-kobong-hydropower-ai-datacenter-techafricanews]],
   [[2026-06-30-lesotho-first-ai-data-center-connectingafrica]].
 

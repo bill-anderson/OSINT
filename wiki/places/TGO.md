@@ -6,7 +6,7 @@ parent: XWA
 place_kind: country
 topics: [dpi.id, dpi.registry, dpi.pay, dpi.govtech, dpi.exchange, dpi.mis, gov.protect, gov.legislate, gov.regional, gov.standards, gov.policy, infra.store, infra.connect, infra.energy, include.access, include.divides, tech.ai, tech.industry, tech.innovate, capacity.training, digital.localgov, data.statistics, data.satellite, finance.new, finance.mou]
 status: active
-last_reviewed: 2026-07-19
+last_reviewed: 2026-07-20
 ---
 
 # Togo (TGO)
@@ -141,23 +141,51 @@ the payments, AML, civil-registry and e-ID-rollout threads.
   from WURI's foundational-ID money — the two must never be summed.* Source:
   [[2024-12-18 Togo - $100 Million in Funding to Accelerate Digital Transformation]]. See
   [[finance.new]], [[infra.connect]], [[capacity.training]].
-- **2024-11** — **DHIS2 education MIS, with its start date contested.** **[[hisp-wca]]**, with Norad
-  and GPE KIX support, built a **[[dhis2]]**-based EMIS for **[[mepsta-togo]]**, whose **16,000**
-  nursery, primary and secondary schools had collected data on paper for entry into
-  **[[stateduc]]**. DHIS2 processes and visualises while StatEduc remains the collection tool;
-  indicators are disaggregated by gender and disability status, with school report cards, a WhatsApp
-  bot for exam results and MICS-EAGLE integration. Togo is one of **six** education ministries in
-  the global DHIS2 for Education research project — alongside **[[SWZ]] Eswatini**, Mozambique, The
-  Gambia, Sri Lanka and Uganda. **Resolved (2026-07-20):** 2019 = DHIS2 education-sector engagement begins; 2021 = StatEduc
-  interoperability go-live. The "under review by the Ministry" line dates to the article's **English
-  original of 2022-12-01** (the held French page is a translation), not 2024. DHIS2 sits as the national
-  **analytical** layer above CSPro/StatEduc, which remains the census collection tool - so "national
-  scale" cannot be claimed for DHIS2 as collection. In operational use as of 2026-05-04, strongest at
-  regional level.
-  Sources:
-  [[2024-11-19 HISP WCA develops DHIS2 EMIS for education data analysis and visualization in Togo]],
+- **2026-05-04** — **Study tour finds the DHIS2 analytical layer working at regional level, stalling
+  below it.** A **[[gpe-kix]]** study tour under the project *Empowering Districts and Schools with
+  Data* (coordinated by the **[[hisp-centre]]**, University of Oslo; concludes November 2026) visited
+  Togo and The Gambia. In Togo — where the project is known as **SIGE** — the team interviewed at
+  national, regional and inspection levels, meeting Permanent Technical Secretary **Pr. Sena Yawo
+  Akakpo-Numado** and Head of Statistics Division **Efoé Gbetoglo**, with **Jerry Aziawa** (Director
+  of Implementation, [[hisp-wca]]) present throughout. **Regional level showed "the clearest evidence
+  of the system working"** — dynamic tables, dashboards and maps used to decide teacher deployment,
+  address furniture shortages and prioritise school construction. **Inspection level was "more
+  constrained"**: training done years earlier and not refreshed, devices in short supply, observation
+  tools demanding more than a single classroom visit allows. The binding constraint is **data
+  latency** — "when validated data reaches DHIS2 weeks after collection, it cannot support in-year
+  decisions at district or school level." The tour also scoped uptake of the **Education Data
+  Toolkit** and its **SDG4** reporting layer, demonstrated to ministry staff by Kirti Thakur.
+  Source: [[2026-05-04-gpe-kix-study-tour-education-data-system]]. See [[dpi.mis]],
+  [[capacity.training]], → **[[togo--dpi-mis]]**, [[GMB]].
+- **2024-04-08** — **GPE's independent panel: no fully operational EMIS yet.** The **[[gpe-itap]]**
+  enabling-factors assessment ([[global-partnership-for-education]]) rated Togo's *data and evidence*
+  factor **MEDIUM** priority, finding that Togo publishes a large volume of education data annually
+  (statistical yearbooks within three months of year-end) but that **"one cannot yet say that Togo
+  has a fully accessible and operational EMIS"** — nothing links quantitative data, financial data
+  and qualitative results, so the data cannot drive intervention planning or effectiveness
+  monitoring. It found **no clear evidence of a school master list or student identification
+  numbers**, and noted the country's own self-assessment that an automatic data-collection system is
+  **still under development**. *An assessment of the whole education sector; only its data/SIGE
+  findings are carried here.* Source: [[2024-04-08-gpe-itap-togo-enabling-factors]]. See [[dpi.mis]],
+  [[data.statistics]], → **[[togo--dpi-mis]]**.
+- **2021** — **DHIS2 education MIS goes live in interoperability with StatEduc.** **[[hisp-wca]]**,
+  with **[[norad]]** and **[[gpe-kix]]** support, built a **[[dhis2]]**-based EMIS for
+  **[[mepsta-togo]]**, whose **16,000** nursery, primary and secondary schools had collected data on
+  paper for entry into **[[stateduc]]**. DHIS2 processes and visualises while StatEduc remains the
+  collection tool; indicators are disaggregated by gender and disability status, with school report
+  cards, a WhatsApp bot for exam results and MICS-EAGLE integration. Togo is one of **six** education
+  ministries in the global DHIS2 for Education research project — alongside **[[SWZ]] Eswatini**,
+  Mozambique, The Gambia, Sri Lanka and Uganda. **Milestones resolved (2026-07-20):** 2019 = DHIS2
+  education-sector engagement begins (corroborated only at *programme* level across the six
+  countries, **not** a Togo national go-live); **2021** = StatEduc interoperability, the concrete
+  technical milestone; 2024 = exam results held in a national DHIS2 database. The "under review by
+  the Ministry" line is **as of 2022-12-01**, the date of the article's English original — the held
+  French page is a translation. DHIS2 is the national **analytical** layer above CSPro/StatEduc,
+  which remains the census collection tool, so **"national scale" cannot be claimed for DHIS2 as the
+  collection layer**. Sources:
+  [[2022-12-01-hisp-wca-dhis2-emis-togo]] (the English original),
   [[2024-11-05 Togo - Integrating DHIS2 with existing EMIS systems]]. See [[dpi.mis]],
-  [[data.statistics]].
+  [[data.statistics]], → **[[togo--dpi-mis]]**.
 - **2024-03-06** — **Regional ID integration goes backwards.** The ECOWAS exits of Burkina Faso,
   Mali and Niger after military coups mean their citizens lose the **ECOWAS passport / biometric ID
   card** and drop out of [[wuri-programme]] — all three had benefited from it. Togo's own WURI test
@@ -187,7 +215,9 @@ the payments, AML, civil-registry and e-ID-rollout threads.
 - [[gov.protect]] · [[gov.legislate]] — [[ipdcp-togo]] (data protection law of Sept 2019; *neither
   the law's text nor the IPDCP's establishing act is held* — GAP-TGO-001); [[togo-aml-law-2025]].
   IPDCP now operational (awareness campaigns, 3,000 youth trained, first 32 corporate DPOs); ANCy/CERT.tg + cyber-strategy 2024-2028; a security-linked DPA (colonel-led, HAAC monitoring-room access). Full case: [[togo--gov-protect]].
-- [[dpi.mis]] — [[dhis2]] / [[stateduc]] education MIS via [[hisp-wca]].
+- [[dpi.mis]] — [[dhis2]] / [[stateduc]] education MIS via [[hisp-wca]]; DHIS2 as the **analytical**
+  layer over CSPro/StatEduc collection, working best at regional level (2026-05-04), with [[gpe-itap]]
+  finding no fully operational EMIS as of 2024-04-08. Full case: **[[togo--dpi-mis]]**.
 - [[infra.store]] · [[tech.ai]] — [[sin-togo]] / [[lome-data-centre]] sovereign cloud; Togo AI Lab national-language models (sovereign AI), TogoTech startups, Togo IGF, GRCRO AI-AML, Togo Digital 2025-2030 strategy. Full case: [[togo--tech-ai]].
 - [[gov.regional]] · [[finance.mou]] — ARTAO 23rd AGM (Lomé, broadband-PPP financing debate — [[2026-04-21-artao-ppp-haut-debit]]); Togo-Luxembourg TogoCyber+ cyber-cooperation agreements ([[2026-07-16-togo-luxembourg-accords-cybersecurite]]).
 - [[infra.connect]] · [[include.divides]] — **3.56m internet users, 37.0% penetration (Jan 2025)**,
@@ -213,13 +243,15 @@ the anchor source for [[novissi]]).
 - [[bceao]] · [[waemu]] · [[waemu-instant-payment-platform]] · [[ecobank]] · [[orabank]] ·
   [[thunes]] · [[ecobank-thunes-partnership]] · [[boad]] · [[african-development-bank]] · [[fatf]]
 - [[togo-aml-law-2025]] · [[haac-ipdcp-accord]] · [[togo-digital-acceleration-financing]]
-- [[dhis2]] · [[stateduc]] · [[hisp-wca]] · [[sydonia]] · [[g2px]]
+- [[dhis2]] · [[stateduc]] · [[hisp-wca]] · [[hisp-centre]] · [[cspro]] · [[gpe-kix]] ·
+  [[global-partnership-for-education]] · [[gpe-itap]] · [[norad]] · [[sydonia]] · [[g2px]]
 - [[sin-togo]] · [[lome-data-centre]] · [[sin-st-digital-lome-cloud-deal]] · [[st-digital-gabon]] ·
   [[ceet]]
 - [[cina-lawson]] · [[world-bank]] · [[ecowas]] · [[gates-foundation]] · [[id4africa]]
 - Mentioned, not hubbed: Hodabalo Awate (Territorial Administration Minister); Essowe Georges
   Barcola (Finance Minister); Yasmine Mama (ANID); Tagba Atafeyinam Tchalim (DAGL SG); Jeremy Awori
   (Ecobank CEO); Peter De Caluwe (Thunes CEO); Jean-Claude Kassi-Brou (BCEAO Governor); Guy Martial
-  Awona (Orabank Togo CEO); Edem Kossi (HISP WCA); Coris Bank; BOA; BIAT; COFINA; Banque Atlantique;
-  Sunu Bank Togo; AT2ER; ARSE; Norad; GPE KIX; Attia Byll (SIN DG); Justine Adebiyi (ST Digital Togo
-  DG).
+  Awona (Orabank Togo CEO); Edem Kossi (HISP WCA); Jerry Aziawa (HISP WCA Director of
+  Implementation); Pr. Sena Yawo Akakpo-Numado (Permanent Technical Secretary, education sector);
+  Efoé Gbetoglo (Head of Statistics Division, MEPSTA); Coris Bank; BOA; BIAT; COFINA; Banque
+  Atlantique; Sunu Bank Togo; AT2ER; ARSE; Attia Byll (SIN DG); Justine Adebiyi (ST Digital Togo DG).

@@ -4,9 +4,9 @@ title: Zimbabwe
 code: ZWE
 parent: XSA
 place_kind: country
-topics: [dpi.id, dpi.registry, dpi.govtech, dpi.exchange, dpi.pay, dpi.mis, gov.protect, gov.legislate, gov.standards, gov.regional, infra.connect, infra.capacity, infra.store, infra.energy, infra.cybersec, tech.ai, tech.industry, include.access, include.divides, capacity.training, digital.rural, data.statistics, geopol.usa, geopol.china, finance.new]
+topics: [dpi.id, dpi.registry, dpi.govtech, dpi.exchange, dpi.pay, dpi.mis, gov.protect, gov.legislate, gov.policy, gov.standards, gov.regional, infra.connect, infra.capacity, infra.store, infra.energy, infra.cybersec, tech.ai, tech.industry, tech.innovate, include.access, include.divides, capacity.training, digital.rural, data.statistics, geopol.usa, geopol.china, finance.new]
 status: active
-last_reviewed: 2026-07-19
+last_reviewed: 2026-07-20
 ---
 
 # Zimbabwe (ZWE)
@@ -41,8 +41,10 @@ doubles as the data protection authority** — there is no separate DPA.
   may hold several subscriptions — and it *fell* 1.37pp in Q1 2025 "owing to a higher change in the
   population figure," which a usage measure cannot do. DataReportal measures **actual users**: 38.4% (6.54m
   individuals, Oct 2025). Mobile connections at 95.0% of population are a third measure again. See
-  [[zimbabwe--infra-connect]], [[gov.policy]], [[capacity.training]]. Source:
-  [[2026-07-17-zimbabwe-digital-roadmap-msme-growth]].
+  [[zimbabwe--infra-connect]], [[gov.policy]], [[capacity.training]]. Sources:
+  [[2026-07-17-zimbabwe-digital-roadmap-msme-growth]],
+  [[2026-03-13-mavetera-84-55-internet-penetration-ai-strategy]] *(the bridge source — see 2026-03-13
+  below)*.
 - **2026-07-06** — **Powertel** (ZESA's telecom arm, a Mutapa Investment Fund
   company) and **[[paratus]]** Zimbabwe switched on **phase 1 (Plumtree–Bulawayo)**
   of a cross-border fibre corridor — **DWDM >10 Tbps-capable**, initial **800
@@ -74,6 +76,28 @@ doubles as the data protection authority** — there is no separate DPA.
   fear facial-recognition targeting of opposition and activists. Source:
   [[2026-04-04 Chinese surveillance rolled out in Africa ZTE, Hikvision, Huawei at the helm]].
   See [[infra.cybersec]], [[gov.protect]], [[geopol.china]].
+- **2026-03-26 → 31** — **Econet InfraCo lists on VFEX; EWZL leaves the ZSE after 27 years.** The carve-out
+  completed: **[[econet-infraco]]** converted private→public (new Certificate of Incorporation
+  **2026-03-24**, reg. 74120A02122025), secured **unconditional [[victoria-falls-stock-exchange|VFEX]]
+  approval** and began trading **2026-03-31** by way of introduction. Final ownership **70.000%
+  [[econet-wireless-zimbabwe|EWZL]] / 25.215% Econet shareholders** (dividend in specie, register
+  **2026-03-27**) **/ 4.785% exiting shareholders**; issued capital **2,992,163,203** shares, authorised
+  raised to **5bn**. **Fayaz King** — ex-[[unicef]] Assistant Secretary-General, and EWZL COO 2015–2019 —
+  became CEO from **2026-03-01**. *The InfraCo Pre-Listing Statement (2026-02-04) and the EWZL circular of
+  the same date are referenced but not held.* See [[finance.new]], [[tech.industry]]. Source:
+  [[2026-03-26-econet-infraco-supplementary-pre-listing-statement]].
+- **2026-03-13** — **National AI Strategy launched — with connectivity as the stated precondition.**
+  President **Mnangagwa** launched the **[[zimbabwe-national-ai-strategy]]** at the **New Parliament
+  Building, Mount Hampden**, theme *"Harnessing AI for Inclusive National Development"*. ICT Minister
+  **Mavetera** introduced it on **84.55% internet penetration (Q4 2025)** and a **14,000 km+ fibre
+  backbone (2026-03)**, projecting 100% "before 2030", and announced a planned **National AI Innovation
+  Fund** with telcos to back AI start-ups *(intention only — no size, capital source or date held)*, plus
+  the **Digital Skills Ambassadors** and cyber-training programmes. **This is the bridge source for the
+  penetration puzzle above**: quoting the POTRAZ quarterly figure **to two decimals** identifies July's
+  "87%" as the **subscriptions ÷ population** series, not usage. *Event date fixed here at 2026-03-13; the
+  held ITWeb report published 2026-03-16 says "on Friday" and agrees.* See [[zimbabwe--tech-ai]],
+  [[zimbabwe--infra-connect]], [[gov.policy]], [[capacity.training]]. Source:
+  [[2026-03-13-mavetera-84-55-internet-penetration-ai-strategy]].
 - **2026-02-24 → 25** — **Zimbabwe rejects the US health MoU on sovereignty grounds.**
   Harare withdrew from **America First Global Health Strategy** ([[america-first-global-health-strategy]])
   talks after President Mnangagwa (Dec 2025 memo / 23 Dec letter) called the draft
@@ -103,8 +127,27 @@ doubles as the data protection authority** — there is no separate DPA.
   (INFR.VX, ~US$1bn), EWZL retaining 70%. *InfraCo sits under Econet Wireless
   **Zimbabwe**, not the Group (ISSUE-008).* Sources:
   [[2025-12-19 Econet approves ambitious Harare IT park data centre]],
-  [[2025-12-22 Zimbabwe's Econet InfraCo announces industrial park plans]].
+  [[2025-12-22 Zimbabwe's Econet InfraCo announces industrial park plans]],
+  [[2025-12-24-econet-notice-completion-infrastructure-restructuring]].
   See [[infra.store]], [[infra.energy]], [[tech.industry]], [[finance.new]].
+- **2025-12-15 → 24** — **The Econet restructuring, from the company's own filings.** EWZL's board resolved
+  on **2025-12-15** to pursue a **voluntary delisting from the [[zimbabwe-stock-exchange|ZSE]]** (s.11.5),
+  after a first cautionary of **2025-12-03**, citing a valuation discount against African peers trading at
+  **6–8x EV/EBITDA** who had already separated their towers; shareholders were offered a **voluntary Exit
+  Offer** in cash and InfraCo shares, with up to **30%** of InfraCo earmarked. On **2025-12-24** the group
+  notified stakeholders and landlords that the reorganisation was **complete**: real estate and passive
+  telecoms infrastructure **previously held by EWPL and other wholly owned SPVs** transferred **as a going
+  concern** into **Distributed Power Africa (Private) Limited, trading as Econet InfraCo**, under a
+  **Scheme of Reconstruction Agreement** — ownership and control unchanged, assets still registered
+  elsewhere held **as nominee or in trust**. *This settles the "is InfraCo new?" question: neither newly
+  founded nor a simple rename, but a legal consolidation across several SPVs into a renamed existing
+  vehicle.* *Residual, unresolved: the 2025-12-15 cautionary names "Econet Infrastructure Company Limited",
+  a name absent from the record after 2025-12-24.* *A separate question is now open on whether the
+  Zimbabwean DPA is the same company as the Cassava-linked [[distributed-power-africa]] in South Africa —
+  the two records are not merged.* See [[infra.store]], [[infra.energy]], [[tech.industry]],
+  [[finance.new]]. Sources:
+  [[2025-12-15-econet-wireless-zimbabwe-further-cautionary-announcement]],
+  [[2025-12-24-econet-notice-completion-infrastructure-restructuring]].
 - **2025-11** *(date proxy)* — **DataReportal Digital 2026: the offline majority.** At
   **end-2025**: **6.54m internet users, 38.4% penetration**, up 1.9% YoY but with the
   **adoption rate unchanged** — growth tracking population, not inclusion. **10.5m (61.6%)
@@ -239,9 +282,10 @@ doubles as the data protection authority** — there is no separate DPA.
 - [[dpi.pay]] · [[dpi.govtech]] — [[ecocash]]'s foundational role; the
   [[reserve-bank-of-zimbabwe]]'s sub-US$10 fee exemption (Sept 2024);
   [[consumer-protection-commission-zimbabwe]] POS enforcement; TaRMS TIN issuance.
-- [[infra.store]] · [[infra.energy]] · [[tech.industry]] — the [[econet-infraco]] 300-ha Harare
-  park (100 MW solar, undisclosed-capacity data centre), [[victoria-falls-stock-exchange]]
-  listing plan.
+- [[infra.store]] · [[infra.energy]] · [[tech.industry]] · [[finance.new]] — the [[econet-infraco]] 300-ha
+  Harare park (100 MW solar, undisclosed-capacity data centre); the completed tower carve-out and
+  **[[victoria-falls-stock-exchange]] listing (2026-03-31)** against EWZL's **ZSE delisting** — Zimbabwe's
+  passive telecoms infrastructure moved into a separately listed, USD-denominated vehicle.
 - [[include.divides]] · [[data.statistics]] — **61.6% offline against 67.1% rural (end-2025)**.
 
 ## Reference studies held (cited, not absorbed)
@@ -257,7 +301,8 @@ report held with it (Togo, Tunisia), so a series template artefact, not a one-of
 - [[america-first-global-health-strategy]] · [[zimbabwe-us-health-mou]] · [[usaid]]
 - [[hikvision]] · [[zte]] · [[huawei]] · [[safe-city-project-zimbabwe]]
 - [[strive-masiyiwa]] · [[econet-wireless-zimbabwe]] · [[econet-group]] · [[econet-infraco]] · [[ecocash]] ·
-  [[cassava-technologies]] · [[victoria-falls-stock-exchange]]
+  [[cassava-technologies]] · [[victoria-falls-stock-exchange]] · [[zimbabwe-stock-exchange]] ·
+  [[distributed-power-africa]]
 - [[potraz]] · [[zimbabwe-cyber-and-data-protection-act]] · [[zimbabwe-si-76-2025]] ·
   [[zimbabwe-deeds-registry]] · [[ministry-of-justice-zimbabwe]] ·
   [[ministry-of-ict-postal-and-courier-services-zimbabwe]] · [[zimbabwe-national-ai-strategy]]
@@ -269,6 +314,8 @@ report held with it (Togo, Tunisia), so a series template artefact, not a one-of
 - Mentioned, not hubbed: Powertel, ZESA, Mutapa Investment Fund; Tatenda Annastacia Mavetera (ICT
   Minister — recorded on [[ministry-of-ict-postal-and-courier-services-zimbabwe]]); Monica Mutsvangwa
   (Women Affairs / SME Development); Emmerson Mnangagwa (President); Kazembe Kazembe (Home Affairs); Henry Machiri
-  (Registrar-General); Douglas Mboweni (Econet CEO); Respect Gono (chief director of
+  (Registrar-General); Douglas Mboweni (EWZL CEO); **Fayaz King** (Econet InfraCo CEO from 2026-03-01);
+  T.A. Ngowe (EWZL Group Company Secretary); Econet Wireless (Private) Limited (EWPL — MNO-licence SPV);
+  Respect Gono (chief director of
   immigration); Vengai Madzima and Nyasha Timba (conveyancing practitioners); Embassy of
   Sweden; Dr Dzingai Mutumbuka.

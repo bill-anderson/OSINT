@@ -6,8 +6,8 @@ places: [UGA]
 topics: [dpi.id, tech.industry, geopol.gulf, dpi.registry]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-17
-sources: [[2026-02-11 Uganda migrates more than 28M records to new national ID system]]
+last_reviewed: 2026-07-20
+sources: [[2026-02-11 Uganda migrates more than 28M records to new national ID system], [2024-10-15-nira-press-statement-mass-enrolment-status]]
 ---
 
 # Tahaluf

@@ -6,8 +6,8 @@ places: [AGO]
 topics: [infra.cybersec, gov.legislate, gov.protect]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-17
-sources: [[2026-01-23-proposta-lei-ciberseguranca-aprovada-generalidade], [2026-07-07-divergencias-adiamento-lei-sobre-ciberseguranca], [2026-07-08-deputados-suspendem-discussao-lei-da-ciberseguranca], [2026-03-03-joao-lourenco-cybercrime-desafio-da-justica]]
+last_reviewed: 2026-07-20
+sources: [[2026-01-23-proposta-lei-ciberseguranca-aprovada-generalidade], [2026-07-07-divergencias-adiamento-lei-sobre-ciberseguranca], [2026-07-08-deputados-suspendem-discussao-lei-da-ciberseguranca], [2026-03-03-joao-lourenco-cybercrime-desafio-da-justica], [2025-12-03-decreto-presidencial-256-25-estrategia-nacional-ciberseguranca-angola], [2025-12-03-decreto-presidencial-258-25-conselho-nacional-ciberseguranca-angola]]
 ---
 
 # Angola Cybersecurity Bill (Proposta de Lei de Cibersegurança)

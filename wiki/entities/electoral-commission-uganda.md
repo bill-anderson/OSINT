@@ -6,8 +6,8 @@ places: [UGA]
 topics: [dpi.id, dpi.registry, gov.protect]
 lens: []
 status: active
-last_reviewed: 2026-07-14
-sources: [[2026-03-31 Uneven Enforcement of Data Protection Laws Ugandas 2026 Polls]]
+last_reviewed: 2026-07-20
+sources: [[2026-03-31 Uneven Enforcement of Data Protection Laws Ugandas 2026 Polls], [2024-10-15-nira-press-statement-mass-enrolment-status]]
 ---
 
 # Electoral Commission of Uganda (EC)

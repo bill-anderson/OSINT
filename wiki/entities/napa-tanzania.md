@@ -5,8 +5,8 @@ title: National Physical Addressing (NaPA), Tanzania
 places: [TZA]
 topics: [dpi.registry, dpi.govtech, digital.localgov, digital.rural, data.statistics, gov.standards, include.access]
 status: active
-last_reviewed: 2026-07-17
-sources: [[2024-07-10 Tanzania ramps up national physical address registration], [2026-02-09 Tanzania registers 12 million housing addresses to boost digital governance]]
+last_reviewed: 2026-07-20
+sources: [[2024-07-10 Tanzania ramps up national physical address registration], [2026-02-09 Tanzania registers 12 million housing addresses to boost digital governance], [2024-10-18-hakikisheni-mnapata-namba-ya-nida-jamii-namba-majaliwa]]
 ---
 
 # National Physical Addressing (NaPA), Tanzania

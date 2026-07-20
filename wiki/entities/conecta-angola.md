@@ -6,8 +6,8 @@ places: [AGO]
 topics: [infra.connect, data.satellite, include.divides, digital.rural]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-17
-sources: [[2026-04-10-angola-expands-satellite-internet-push-conecta-project], [2026-06-11-angola-referencia-africana-em-tecnologias-espaciais], [2025-12-23-angola-launches-commercial-access-to-angosat-2], [2026-07-02-startup-do-moxico-licenca-internet-via-angosat-2]]
+last_reviewed: 2026-07-20
+sources: [[2026-04-10-angola-expands-satellite-internet-push-conecta-project], [2026-06-11-angola-referencia-africana-em-tecnologias-espaciais], [2025-12-23-angola-launches-commercial-access-to-angosat-2], [2026-07-02-startup-do-moxico-licenca-internet-via-angosat-2], [2025-11-28-angola-30000km-terrestrial-fibre-itu-wtdc-baku]]
 ---
 
 # Conecta Angola

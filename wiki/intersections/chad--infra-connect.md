@@ -5,16 +5,22 @@ place: TCD
 topic: infra.connect
 places: [TCD]
 topics: [infra.connect, include.divides, include.access, data.satellite, gov.regional, gov.standards, digital.rural]
-entities: [[sotel-tchad], [airtel-chad], [moov-africa-chad], [arcep-chad], [trans-saharan-fibre-backbone], [starlink], [tchadix]]
+entities: [[sotel-tchad], [airtel-chad], [moov-africa-chad], [arcep-chad], [trans-saharan-fibre-backbone], [starlink], [tchadix], [datareportal], [kepios], [gsma], [itu]]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-19
-sources: [[2025-03-19-starlink-license-chad-launch-niger], [2025-07-05-tchadinfos-starlink-services-disponibles], [2025-09-29-digitalbusiness-starlink-fai-vers-operateur-telecom], [2025-09-02-afriqueitnews-operateurs-connecter-fibre-nationale], [2026-02-09-connectingafrica-fibre-ndjamena-mbere-cameroun], [2026-05-21-digitalbusiness-tchadix-ixp-un-an], [2026-06-02-salaminfo-banque-mondiale-routes-virtuelles-patn], [2026-06-19-techafricanews-arcep-plateformes-regulation-strategiques], [2026-06-26-connectingafrica-telcos-network-upgrades-airtel-moov], [2025-02-12-coupure-internet-lac-internet-society], [2025-12-16-tchadinfos-atelier-cartographie-fibre-artac-uit], [2026-01-11-tchadinfos-dts-degradations-site-bol], [2025-03-07-trans-saharan-fiber-project-delays]]
+last_reviewed: 2026-07-20
+sources: [[2025-03-19-starlink-license-chad-launch-niger], [2025-07-05-tchadinfos-starlink-services-disponibles], [2025-09-29-digitalbusiness-starlink-fai-vers-operateur-telecom], [2025-09-02-afriqueitnews-operateurs-connecter-fibre-nationale], [2026-02-09-connectingafrica-fibre-ndjamena-mbere-cameroun], [2026-05-21-digitalbusiness-tchadix-ixp-un-an], [2026-06-02-salaminfo-banque-mondiale-routes-virtuelles-patn], [2026-06-19-techafricanews-arcep-plateformes-regulation-strategiques], [2026-06-26-connectingafrica-telcos-network-upgrades-airtel-moov], [2025-02-12-coupure-internet-lac-internet-society], [2025-12-16-tchadinfos-atelier-cartographie-fibre-artac-uit], [2026-01-11-tchadinfos-dts-degradations-site-bol], [2025-03-07-trans-saharan-fiber-project-delays], [2025-03-03-datareportal-digital-2025-chad], [2025-11-08-datareportal-digital-2026-chad]]
 ---
 
 # Chad × Connectivity
 
-Landlocked Chad (~**13% internet penetration**, 2025) depends on a **single international route
+Landlocked Chad — internet penetration **13.2% (2.74m users, Jan 2025)**, unchanged at **13.2%
+(2.79m users, Oct 2025)** per DataReportal/Kepios and consistent with ITU/World Bank's **12.63%
+(2024)**; **mobile connections 73.3% of population (Oct 2025)** are *connections, not users*.
+The publisher's earlier **22.5% (Jan 2024)** was **rebased away by DataReportal itself** and is
+superseded, not a fall in access (resolved 2026-07-20; see [[datareportal]] on reading its edition
+years). Sources: [[2025-03-03-datareportal-digital-2025-chad]],
+[[2025-11-08-datareportal-digital-2026-chad]]. Chad depends on a **single international route
 through Cameroon**, a stalled trans-Saharan backbone, and — increasingly — **Starlink**. The state is
 building fibre (PMICE/PATN) and an **IXP**, but the operator relationship is adversarial: repeated
 ultimatums over quality, power and sovereignty.

@@ -6,7 +6,7 @@ parent: XWA
 place_kind: country
 topics: [infra.store, infra.energy, infra.connect, infra.capacity, gov.protect, gov.legislate, gov.policy, dpi.id, dpi.registry, dpi.pay, dpi.govtech, dpi.mis, tech.ai, tech.industry, tech.innovate, dpi.exchange, infra.cybersec, include.access, include.divides, digital.rural, digital.localgov, finance.new, finance.mou, data.statistics, capacity.research, capacity.training, capacity.literacy, gov.standards, gov.regional, geopol.usa, geopol.china, geopol.eu]
 status: active
-last_reviewed: 2026-07-19
+last_reviewed: 2026-07-20
 ---
 
 # Nigeria (NGA)
@@ -75,7 +75,14 @@ last_reviewed: 2026-07-19
   inconsistent shareholder-name recording delaying dividends — not trading technology, as the binding
   failure. Held against the **2008 crash** — market capitalisation fell from **₦12.50tn (Feb 2008)** to
   **₦6.96tn (31 Dec 2008)**, a loss of **₦5.55tn / 44.4%** from March 2008 (CBN, Dec 2008); the commonly
-  repeated "₦6.96tn lost" mistakes the closing capitalisation for the loss (corrected 2026-07-20) — where
+  repeated "₦6.96tn lost" mistakes the closing capitalisation for the loss (corrected 2026-07-20, from the
+  CBN's contemporaneous account: [[2008-12-01-cbn-bullion-nigerian-stock-market-global-financial-crisis]]);
+  the mislabelling recurs across Nigerian press and academic writing since at least 2019. The **NGX primary**
+  (report as at 2026-05-31) confirms the ₦2.86tn/₦4.06tn pair are **Jan–May 2026 cumulative, not May-month**
+  (May alone: ₦0.72627tn retail, ₦1.03337tn institutional; institutional **59% of domestic activity in May
+  2026**), and at its own **₦1,373.25/$ (NAFEM, 31 May 2026)** they are **$2.08bn** and **$2.96bn** — the
+  "$4.06bn" in circulation is the naira figure left unconverted:
+  [[2026-05-31-ngx-domestic-foreign-portfolio-investment-report-may-2026]]. Against the 2008 memory,
   **[[csl-stockbrokers]]**'s Mustapha Umaru argues governance and NGX regulation have since strengthened
   — a forecast made mid-rally. See [[nigeria--dpi-pay]], [[dpi.pay]], [[tech.industry]],
   [[capacity.literacy]]. Source: [[2026-07-18-nigeria-retail-investing-boom]].

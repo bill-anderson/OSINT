@@ -6,7 +6,8 @@ url: https://kepios.com/
 places: [XGL]
 topics: [include.divides, data.statistics]
 status: active
-last_reviewed: 2026-07-16
+last_reviewed: 2026-07-20
+sources: [[2025-03-03-datareportal-digital-2025-chad], [2025-11-08-datareportal-digital-2026-chad], [2025-03-03-datareportal-digital-2025-central-african-republic], [2025-11-08-datareportal-digital-2026-central-african-republic], [2025-11-08-digital-2026-zambia-datareportal]]
 ---
 
 # Kepios

@@ -6,7 +6,7 @@ places: [XNA, TUN, XGL]
 topics: [infra.connect]
 status: active
 last_reviewed: 2026-07-20
-sources: [[2026-01-19 EBRD and Tunisie Telecom Partner on €190 Million Digital Infrastructure Upgrade], [2025-11-03-zawya-tunisie-telecom-medusa-landing-bizerte], [2026-06-05-connectingafrica-viatunisia-subsea-live], [2026-06-26-techafricanews-orange-medusa-cable-operational]]
+sources: [[2026-01-19 EBRD and Tunisie Telecom Partner on €190 Million Digital Infrastructure Upgrade], [2025-11-03-zawya-tunisie-telecom-medusa-landing-bizerte], [2026-06-05-connectingafrica-viatunisia-subsea-live], [2026-06-26-techafricanews-orange-medusa-cable-operational], [2023-05-11-orange-tunisia-medusa-bizerte-hosting-agreement], [2025-02-10-tunisie-telecom-joins-medusa-fibre-pair], [2025-11-01-medusa-lands-in-bizerte]]
 ---
 
 # MEDUSA submarine cable

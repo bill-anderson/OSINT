@@ -6,8 +6,8 @@ places: [SWZ]
 topics: [gov.policy, dpi.govtech, infra.connect, gov.legislate, capacity.training]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-17
-sources: [[2024-12-05 Eswatini Advances Toward Digital Transformation - Key Findings from the Digital Readiness Assessment], [2024-12-10 Unveiling Eswatini's Digital Path], [2024-11-22 Eswatini unveils readiness report for digital ID, transformation push], [2025-06-28 PID Concept Stage - Digital Eswatini (P508948)], [2025-07-31 Eswatini Economic Update - Digital Transformation Key to Unlocking Growth], [2024-07-22 Risk of human rights infringement as Eswatini rushes to regulate the ICT sector], [2025-01-22 Eswatini partners with Google to drive digital transformation and economic growth], [2026-05-18 Eswatini promotes digital transformation project through World Bank engagements]]
+last_reviewed: 2026-07-20
+sources: [[2024-12-05 Eswatini Advances Toward Digital Transformation - Key Findings from the Digital Readiness Assessment], [2024-12-10 Unveiling Eswatini's Digital Path], [2024-11-22 Eswatini unveils readiness report for digital ID, transformation push], [2025-06-28 PID Concept Stage - Digital Eswatini (P508948)], [2025-07-31 Eswatini Economic Update - Digital Transformation Key to Unlocking Growth], [2024-07-22 Risk of human rights infringement as Eswatini rushes to regulate the ICT sector], [2025-01-22 Eswatini partners with Google to drive digital transformation and economic growth], [2026-05-18 Eswatini promotes digital transformation project through World Bank engagements], [2024-11-13-undp-eswatini-dra-results-launch]]
 ---
 
 # Ministry of Information, Communications and Technology (MICT), Eswatini
@@ -63,3 +63,4 @@ sources: [[2024-12-05 Eswatini Advances Toward Digital Transformation - Key Find
 - [[2024-07-22 Risk of human rights infringement as Eswatini rushes to regulate the ICT sector]]
 - [[2025-01-22 Eswatini partners with Google to drive digital transformation and economic growth]]
 - [[2026-05-18 Eswatini promotes digital transformation project through World Bank engagements]]
+- [[2024-11-13-undp-eswatini-dra-results-launch]]

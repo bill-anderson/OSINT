@@ -5,8 +5,8 @@ title: UNESCO AI Readiness Assessment (RAM) — Angola
 places: [AGO]
 topics: [tech.ai, gov.policy, gov.standards]
 status: active
-last_reviewed: 2026-07-17
-sources: [[2026-06-30-angola-preparada-83-por-cento-uso-etico-de-ia-ram-unesco], [2026-07-13-ia-instrumento-para-acelerar-desenvolvimento-fnia26]]
+last_reviewed: 2026-07-20
+sources: [[2026-06-30-angola-preparada-83-por-cento-uso-etico-de-ia-ram-unesco], [2026-07-13-ia-instrumento-para-acelerar-desenvolvimento-fnia26], [2026-06-30-unesco-ram-angola-28000km-fibra-prontidao-ia]]
 ---
 
 # UNESCO AI Readiness Assessment (RAM) — Angola

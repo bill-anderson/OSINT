@@ -6,8 +6,8 @@ places: [COG, XCA]
 topics: [infra.store, infra.connect, gov.regional]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-18
-sources: [[2024-05-20 Congo to build Central Africa's first fibre data centre (Brazzaville, $72.8m)], [2025-03-04-congo-national-data-centre-80pc-complete-wearetech], [2025-05-29-bad-sindigne-ralentissement-datacenter-ldb], [2025-08-06-datacenter-national-inaugure-novembre-ldb], [2025-08-07-congo-national-data-centre-90pc-november-launch-techafricanews], [2026-06-02-ceo-ong-pratic-souverainete-numerique-ldb]]
+last_reviewed: 2026-07-20
+sources: [[2024-05-17-afdb-congo-national-data-centre-digital-sovereignty], [2024-05-20 Congo to build Central Africa's first fibre data centre (Brazzaville, $72.8m)], [2025-03-04-congo-national-data-centre-80pc-complete-wearetech], [2025-05-29-bad-sindigne-ralentissement-datacenter-ldb], [2025-08-06-datacenter-national-inaugure-novembre-ldb], [2025-08-07-congo-national-data-centre-90pc-november-launch-techafricanews], [2026-06-02-ceo-ong-pratic-souverainete-numerique-ldb]]
 ---
 
 # Congo National Data Centre (Brazzaville)
@@ -34,6 +34,9 @@ A **national data centre** under construction in the Bacongo district of Brazzav
   as of 2024-05-17)** — covering both 600 km of fibre (Cameroon 341 km, CAR 281 km) **and** the data centre.
   Of that, **some €13.8m (≈US$15m)** is allocated to building and operationalising the data centre itself;
   Congolese reporting rendering this as "$13 million" is restating the euro figure in the wrong currency.
+  Source: [[2024-05-17-afdb-congo-national-data-centre-digital-sovereignty]]. *Caveat preserved: the AfDB
+  says €13.8m "of the total" — it does **not** state that the whole €13.8m is AfDB money rather than
+  blended AfDB/government.*
   As of **2025-02-28** the telecoms minister put AfDB disbursement at 90% of the data-centre works, the
   State's counterpart share outstanding.
 - **A third DC thread (2026-06).** Beyond this DC and the ARPCE Pointe-Noire (2Africa) one, a CEO–ONG Pratic

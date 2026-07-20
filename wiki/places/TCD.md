@@ -6,7 +6,7 @@ parent: XCA
 place_kind: country
 topics: [gov.policy, gov.legislate, gov.regional, gov.standards, dpi.id, dpi.registry, dpi.exchange, dpi.govtech, dpi.pay, dpi.mis, infra.connect, infra.store, infra.cybersec, infra.energy, include.divides, digital.rural, geopol.usa, geopol.china, geopol.eu, finance.new, finance.mou, data.statistics, tech.industry]
 status: active
-last_reviewed: 2026-07-19
+last_reviewed: 2026-07-20
 ---
 
 # Chad (TCD)
@@ -186,15 +186,22 @@ poverty through digital-enabled services within five years. Other accounts rende
 ## Internet penetration
 
 Internet penetration stood at **13.2% (2.74m users) at January 2025**, and remained **13.2%
-(2.79m users) at October 2025** (DataReportal, *Digital 2025/2026: Chad*) — consistent with the
-ITU/World Bank series for Chad of **12.63% (2024)**.
+(2.79m users) at October 2025** (DataReportal/Kepios) — consistent with the ITU/World Bank series
+for Chad of **12.63% (2024)**. Sources:
+[[2025-03-03-datareportal-digital-2025-chad]], [[2025-11-08-datareportal-digital-2026-chad]].
 
 The publisher's earlier **22.5% for January 2024** (*Digital 2024: Chad*) was **rebased away by
 DataReportal itself**: its 2025 edition reports +4.3% user growth over that year with the adoption
 rate unchanged, which is only self-consistent against a restated January-2024 base of ~13.2%. The
 22.5% is **superseded, not evidence of a fall in access** (resolved 2026-07-20). Related dated
-figures: **mobile connections 73.3% of population (Oct 2025)** — connections are not users, and the
-publisher says so itself.
+figures: **mobile connections 73.3% of population (Oct 2025)**, up from 69.8% (Jan 2025) —
+connections are not users, and the publisher says so itself.
+
+*Dating caution — an edition year is not an as-of year.* DataReportal changed its publication cycle
+with the 2026 series: *Digital 2026: Chad* was **published 2025-11-08** with data as of **October
+2025**, where *Digital 2025: Chad* was published 2025-03-03 with data as of January 2025. Every
+figure above is dated by its **as-of month**, never by the edition's title year. See
+[[datareportal]].
 
 *Framing difference, not a contradiction:* the 2026-02-06 reporting has the data centre built and
 awaiting certification, while a 2026-02-13 telecoms piece calls it "under construction" — loose
@@ -215,6 +222,7 @@ background phrasing in an off-topic article, resolved by specificity in favour o
 - [[boukar-michel]] · [[cadnac]] · [[cemac]]
 - [[huawei]] · [[airtel-africa]] · [[idemia]] · [[unhcr]] · [[world-bank]] · [[itu]] ·
   [[us-department-of-state]] · [[us-department-of-commerce]] · [[id4africa]]
+- Statistical resources: [[datareportal]] · [[kepios]] · [[gsma]]
 - Mentioned, not hubbed: President Mahamat Idriss Déby Itno; Adoum Djimet Saboun (ADETIC DG);
   Nadjma Saleh Kebzabo (ANSICE deputy GM); Hamza Waraki (TECHSO-GROUP); Youssouf Gorou Tchaby
   (ANATS DG); Brahim Ali Seid (ANATS); Saleh Abakar Zene (Ministry of Finance); Fatima Goukouni

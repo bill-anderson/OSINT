@@ -7,9 +7,9 @@ places: [SOM]
 topics: [dpi.id, dpi.registry, include.access, gov.protect, gov.legislate, gov.policy]
 entities: [[nira-somalia], [snid], [eaqoonsi], [somalia-crvs]]
 lens: [sovereignty]
-status: active
-last_reviewed: 2026-07-19
-sources: [[2025-06-02 Somalia walking a thorny road to an inclusive national digital ID system], [2025-09-17 Somalia launches mass registration drive for its foundational digital ID], [2025-12-17 Somalia digital ID major pillar of World Bank-funded SPRING initiative], [2025-01-13 NADRA powers Somalia's digital transformation with foundational ID infrastructure], [2026-03-05-somalia-biometric-id-mandatory-inter-state-travel], [2025-05-08-somalia-dpi-tools-hubiye-eaqoonsi-cds], [2025-11-26-somalia-national-id-issuance-reaches-1m], [2026-04-24-somalia-eaqoonsi-app-dpi], [2025-01-14-somalia-civil-registration-overhaul], [2025-04-20-somalia-nira-id-center-boondheere], [2025-09-19-hassan-sheikh-10m-passports-id-overhaul], [2025-09-20-somalia-national-id-politics-of-proclamation]]
+status: needs-review
+last_reviewed: 2026-07-20
+sources: [[2025-06-02 Somalia walking a thorny road to an inclusive national digital ID system], [2025-09-17 Somalia launches mass registration drive for its foundational digital ID], [2025-12-17 Somalia digital ID major pillar of World Bank-funded SPRING initiative], [2025-01-13 NADRA powers Somalia's digital transformation with foundational ID infrastructure], [2026-03-05-somalia-biometric-id-mandatory-inter-state-travel], [2025-05-08-somalia-dpi-tools-hubiye-eaqoonsi-cds], [2025-11-26-somalia-national-id-issuance-reaches-1m], [2026-04-24-somalia-eaqoonsi-app-dpi], [2025-01-14-somalia-civil-registration-overhaul], [2025-04-20-somalia-nira-id-center-boondheere], [2025-09-19-hassan-sheikh-10m-passports-id-overhaul], [2025-09-20-somalia-national-id-politics-of-proclamation], [2024-04-28-moct-national-data-center-tour], [2025-03-13-nadra-somalia-nid-data-centre-infrastructure], [2025-05-06-moct-national-data-center-nearing-completion]]
 ---
 
 # Somalia × Digital Identity
@@ -76,11 +76,33 @@ The national ID has become a **federal-vs-member-state** fault line, not just a 
 
 ## Contested ground (lens: sovereignty)
 
-- **Foreign build / data residency.** Pakistan's **NADRA** is the technology partner
-  providing the system and hardware. NIRA's DG insists citizens' data is stored securely
-  **within Somalia**; Garowe Online (2025) reports users and analysts alleging the system
-  is **hosted in Pakistan and operated by foreign personnel** — an open data-residency
-  contradiction (see digest). The FBI's CJIS issued an RFI (Jan 2025) to run Somalia's
+- **Foreign build / data residency — a dated trajectory, not a settled answer.** Pakistan's
+  **NADRA** is the technology partner providing the system and hardware. The record runs:
+  - **2024-04-28** and again **2025-05-06** — **MoCT states on the record** that the
+    Mogadishu **National Data Center** under construction will "eliminate dependencies of
+    national data on international data storage solutions, **that is stored outside the
+    country**" (2024 wording; restated May 2025 as "eliminating the need to host Somali
+    government data outside the country"). This is the FGS conceding offshore hosting in the
+    present tense — but of **government data generally**; MoCT does **not** say it of the
+    [[snid]] specifically. Sources: [[2024-04-28-moct-national-data-center-tour]],
+    [[2025-05-06-moct-national-data-center-nearing-completion]].
+  - **2025-03-13** — **NADRA delivers "advanced data center infrastructure"** to Somalia for
+    SNIDS, alongside card-personalisation machines and secure card stock: the **mechanism**
+    for an on-shore migration exists from this date. Source:
+    [[2025-03-13-nadra-somalia-nid-data-centre-infrastructure]].
+  - **2025-11-17** — **NIRA DG Abdiwali Ali Abdulle asserts** citizens' data is stored
+    securely **within Somalia**. Given the above this is **not obviously false**, but it
+    remains an **unverified assertion naming no facility**. Source:
+    [[2025-11-17 A smart national ID powers Somalia's Digital Public Infrastructure vision]].
+  - **2025 (undated page, proxy date)** — **Garowe Online** reports users and analysts
+    alleging the system is **hosted in Pakistan and operated by foreign personnel**. Source:
+    [[2025-01-01 Somalia growing concerns over personal data security in national ID rollout]].
+
+  **The current hosting state is not established here.** The National Data Center had not
+  launched as of the latest evidence held; no hosting or data-localisation clause in the
+  Pakistan–Somalia arrangement is public. This remains an **open contradiction** —
+  `reviews/contradictions/open/somalia-national-id-data-hosting.md`.
+- The FBI's CJIS issued an RFI (Jan 2025) to run Somalia's
   **police ABIS** at Aden Adde airport — a distinct, law-enforcement biometric system, but
   another instance of foreign operation of Somali biometric infrastructure.
 - **Exclusion risk.** ~4m IDPs and large nomadic populations, missing breeder documents,
@@ -115,3 +137,6 @@ Place: [[SOM]] · Concepts: [[dpi.id]] · [[dpi.registry]] · [[include.access]]
 - [[2025-11-26-somalia-national-id-issuance-reaches-1m]]
 - [[2026-03-05-somalia-biometric-id-mandatory-inter-state-travel]]
 - [[2026-04-24-somalia-eaqoonsi-app-dpi]]
+- [[2024-04-28-moct-national-data-center-tour]]
+- [[2025-03-13-nadra-somalia-nid-data-centre-infrastructure]]
+- [[2025-05-06-moct-national-data-center-nearing-completion]]

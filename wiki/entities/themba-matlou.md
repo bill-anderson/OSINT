@@ -5,8 +5,8 @@ title: Themba Matlou
 places: [ZAF]
 topics: [dpi.id, dpi.pay, gov.protect, include.access]
 status: active
-last_reviewed: 2026-07-17
-sources: [[2026-01-19 SASSA on qualification criteria for COVID-19 SRD], [2025-08-25 SASSA to Launch Mandatory Biometric Enrollment for Grant Beneficiaries on September 1]]
+last_reviewed: 2026-07-20
+sources: [[2026-01-19 SASSA on qualification criteria for COVID-19 SRD], [2025-08-25 SASSA to Launch Mandatory Biometric Enrollment for Grant Beneficiaries on September 1], [2025-09-18-sassa-beneficiaries-take-up-biometric-enrolment-campaign]]
 ---
 
 # Themba Matlou

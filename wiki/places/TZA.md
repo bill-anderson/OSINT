@@ -6,7 +6,7 @@ parent: XEA
 place_kind: country
 topics: [dpi.id, dpi.registry, dpi.pay, dpi.exchange, dpi.govtech, dpi.mis, gov.protect, gov.legislate, gov.standards, gov.policy, gov.regional, infra.store, infra.connect, infra.cybersec, include.access, include.divides, digital.rural, digital.localgov, data.statistics, data.satellite, tech.ai, tech.innovate, tech.industry, capacity.training, capacity.literacy, finance.new]
 status: active
-last_reviewed: 2026-07-19
+last_reviewed: 2026-07-20
 ---
 
 # Tanzania (TZA)
@@ -130,6 +130,31 @@ intersections above.*
   **$60m raise**; and **99.983% is Mbezi**, where the 99.982% on [[wingu-africa]] is the Djibouti TO7
   site.* Source: [[2025-03-19 Tanzania's digital shift gathers pace with $50 million data centre]].
   [[infra.store]] · [[infra.connect]] · [[sovereignty]]
+- **2024-10-17** *(published 2024-10-18)* — **The NIDA number *is* the Jamii Namba.** PM
+  **Kassim Majaliwa** closed the 8th ICT Congress (JNICC, Dar es Salaam) by stating the government
+  had directed that **the NIDA number is the Jamii Namba** for delivering and receiving services, and
+  ordered all public and private institution heads to make their systems interoperable so
+  **[[jamii-x-change]]** completes as planned. ICT Minister **Jerry William Silaa** said the ministry
+  was coordinating **Jamii Namba, Jamii X-Change and Jamii Portal**, plus **[[napa-tanzania|NaPA]]**
+  (credited in the Hanang landslides and Kibiti floods; digital proof-of-address letters in pilot).
+  Source: [[2024-10-18-hakikisheni-mnapata-namba-ya-nida-jamii-namba-majaliwa]]. → [[tanzania--dpi-id]],
+  [[tanzania--dpi-govtech]]. [[dpi.id]] · [[dpi.exchange]] · [[dpi.registry]]
+- **2024-08-27** — **Jamii X-Change under construction; the stack is three modules.** MICIT PS
+  **Mohammed Khamis Abdulla**, at a Digital Tanzania Project review in Arusha, said
+  [[micit-tanzania]] with [[ega-tanzania|e-GA]] was building **[[jamii-x-change]]** to execute
+  President Samia's systems-interoperability directive, comprising **Jamii Namba, Jamii Kadi and Jamii
+  Malipo** — the last an app *still to be built*, to link via the card to **[[tips-tanzania|TIPS]]**.
+  *Jamii Malipo sits with MICIT/e-GA, not the [[bank-of-tanzania]].* Source:
+  [[2024-08-27-mfumo-jamii-x-change-kuunganisha-mifumo-tehama]]. → [[tanzania--dpi-govtech]],
+  [[tanzania--dpi-pay]]. [[dpi.exchange]] · [[dpi.pay]] · [[sovereignty]]
+- **2024-03-08** *(published 2024-03-12)* — **Jamii Namba: design complete, end-2025 target (missed).**
+  At the Conference of Financial Institutions, [[ega-tanzania|e-GA]] DG **Benedict Ndomba** and Dr
+  **John Sausi** (Finance & Planning) said the design was finished — built by **[[rita-tanzania]],
+  [[nida-tanzania]] and Zanzibar ID** — to identify Tanzanians *from birth* and foreigners *entry to
+  exit*, concluding **end-2025**. Origin is President Samia's **2023-08-10** directive against
+  fragmented identifiers, framed as a national-security problem. Source:
+  [[2024-03-12-jamii-namba-development-work-started-chanzo]]. → [[tanzania--dpi-id]]. [[dpi.id]] ·
+  [[sovereignty]]
 - **2023-10-30** *(study)* — [[hmis-tanzania-pea]]: a **fragmented ecosystem of 18 systems**;
   [[dhis2]] (all district councils since 2013) carried **>90% of data flows**; barriers are staff
   capacity, finance and **closed-source lock-in**, with **long-relationship donors** (Basket Fund)
@@ -200,7 +225,9 @@ a [[rita-tanzania]] questionnaire of December 2018) · [[un-egdi]].
 - [[bank-of-tanzania]] · [[tips-tanzania]] · [[tanzania-financial-consumer-protection-regulations]] ·
   [[fsdt]] · [[gates-foundation]] · [[rswitch-rwanda]] · [[eac-cross-border-payment-masterplan]]
 - [[micit-tanzania]] · [[tcra]] · [[ega-tanzania]] · [[napa-tanzania]] ·
-  [[tanzania-e-government-strategy-2022]] · [[tanzania-digital-economy-framework]]
+  [[tanzania-e-government-strategy-2022]] · [[tanzania-digital-economy-framework]] ·
+  [[jamii-x-change]] · [[jamii-kadi]] · [[jamii-malipo]] · [[jamii-portal]] ·
+  [[digital-tanzania-project]]
 - [[tanzania-posts-corporation]] · [[papu]] · [[upu]] · [[upu-s42]] · [[tspar]]
 - [[wingu-africa]] · [[anton-volianskyi]] · [[helios-towers]] · [[starlink]] · [[spacex]] ·
   [[airtel-africa]] · [[vodacom]] · [[starlink-airtel-d2c-partnership]] ·
@@ -212,5 +239,6 @@ a [[rita-tanzania]] questionnaire of December 2018) · [[un-egdi]].
   [[google-for-startups-accelerator-africa]] · [[google]]
 - Mentioned, not hubbed (hub-level items): President Samia Suluhu Hassan; Angela Kairuki (ICT
   Minister); Pius Stephen Chaya (Deputy Minister); Noah Maina (TSPAR); Nestory Nicholas Maro (BoT);
-  Safiri; UCSAF. *(Named figures from the extracted identity, data-protection and addressing material
+  Safiri; UCSAF; Kassim Majaliwa (PM); Jerry William Silaa (ICT Minister, 2024); Mohammed Khamis
+  Abdulla (PS, MICIT); Benedict Ndomba (e-GA DG); John Sausi (Finance & Planning); Zanzibar ID. *(Named figures from the extracted identity, data-protection and addressing material
   are listed on their intersections.)*

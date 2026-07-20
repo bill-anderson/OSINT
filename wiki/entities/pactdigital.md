@@ -6,8 +6,8 @@ places: [BFA]
 topics: [dpi.govtech, infra.connect, finance.new, capacity.training]
 lens: []
 status: active
-last_reviewed: 2026-07-15
-sources: [[2024-03-11 Burkina Faso's digital transformation gets 150M World Bank support], [2025-12-28 World Bank - Burkina Faso Digital Acceleration Project (PACTDIGITAL) Implementation Status Report], [2025-02-19 Burkina Faso Outlines 2025 Digital Agenda], [2025-09-15 Burkina Faso Advances Digital Education Despite Connectivity, Training Challenges]]
+last_reviewed: 2026-07-20
+sources: [[2024-03-11 Burkina Faso's digital transformation gets 150M World Bank support], [2025-12-28 World Bank - Burkina Faso Digital Acceleration Project (PACTDIGITAL) Implementation Status Report], [2025-02-19 Burkina Faso Outlines 2025 Digital Agenda], [2025-09-15 Burkina Faso Advances Digital Education Despite Connectivity, Training Challenges], [2026-02-18-zero-zone-blanche-12-chantiers-2000-zones-2030]]
 ---
 
 # PACTDIGITAL (Burkina Faso Digital Acceleration Project)

@@ -6,7 +6,7 @@ places: [MRT, COM, COD, CIV, CMR, BFA, BDI, AGO, ZMB, XAF, NGA, ZAF, KEN, RWA, N
 entities: [[dzap], [safaricom-ethiopia-fayda-jv], [china-namibia-smart-city], [itu], [partner2connect], [undp], [starlink], [safaricom], [gsma], [diode-network], [global-index-on-responsible-ai], [global-center-on-ai-governance], [sa-digital-id-regulations], [popia], [echis-ethiopia-study], [dhis2], [hisp-centre], [research-ict-africa], [after-access], [alison-gillwald], [solly-malatsi], [dcdt-south-africa], [mymzansi], [gsma-sa-smartphone-tax-reform-2026]]
 lens: [sovereignty, colonialism]
 status: active
-last_reviewed: 2026-07-19
+last_reviewed: 2026-07-20
 sources: [[2025-09-11 DZAP World Bank PAD], [2026-07-13 Digital-first must not become digital-only, says Malatsi], [2026-06-17 Priced out of the future Confronting the rising cost of AI in Africa], [2026-07-08 China funds Namibia digital infrastructure], [2026-07-06 Safaricom Ethiopia partners National ID Program to expand digital identity registration], [2026-06-18 Africa's $240 Billion Mobile Economy A Checkpoint on Africa's Digital Transformation Journey], [2026-06-15 Starlink drives African broadband speeds higher], [2026-06-10 MTN Group goes all-in on platforms and AI], [2026-04-09 Ralph Mupita on MTN's New Frontier Connectivity, Content, and African AI], [2026-06-16 Who Owns Africa's Sky], [2026-07-03 Vodacom expands East Africa strategy], [2026-07-09 ITU's Partner2Connect crosses $100 billion in global connectivity pledges], [2026-01-01 Digital Public Infrastructure in Africa - UNDP], [2026-05-22 View How SpaceX is making a quiet bet on Africa], [2026-05-26 Africa risks losing billions to satellite internet operators, report says], [2026-05-29 Opinion South Africa's Digital Identity Regulations A Governance Crossroads], [2026-04-16 3 Reasons Mobile Money Programs Have a $1.7 Trillion Problem], [2026-07-11 Global-Index-on-Responsible-AI-2026.pdf], [2017-04-18 Publications], [2026-03-01 GSMA State of the Industry Report on Mobile Money 2026], [2026-03-24 Mobile Money in Africa Strong Growth, but Adoption Still Falls Short], [2026-04-02 Nations priced out of Big AI are building with frugal models], [2023-06-07 Barriers, facilitators and motivators of electronic community health information system use among health workers in Ethiopia], [2026-02-02 After Access qualitative study of gender and digital technologies Nigeria report], [2026-02-17 After Access qualitative study on gender and digital technologies Ethiopia report], [2026-02-02 After Access qualitative study on gender and digital technologies Ghana report], [2026-02-05 After Access qualitative study on gender and digital technologies Uganda report], [2019-08-20 South Africa is caught in the global hype of the fourth industrial revolution], [2019-10-03 South Africa must harness technology in a way that helps fix its problems], [2019-10-03 Addressing SA's extreme digital inequality], [2026-04-16 The Long View - What ICT4D did for Africa and why that deep past matters for today], [2026-06-25 Regulating for Africa's future digital economy – A draft agenda to speed things up], [2026-03-25 On Documenting African AI Knowledge What Becomes Possible]]
 # Source-linkage: P2C ($100bn pledged vs $2.6–2.8tn need; women/children/PWD most-targeted)
 # and UNDP (1 in 5 SSA adults lacks legal ID) both quantify the divide. Prose enrichment pending.
@@ -200,6 +200,13 @@ geography, and increasingly by **access to compute/intelligence**.
   sits at **20.7%** internet penetration (DataReportal, Jan 2025) with a wide usage gap, and
   **[[SSD]] South Sudan** ranks **192/193** on EGDI (2024) among the world's least-connected states. See
   [[infra.connect]], [[include.access]], [[SLE]], [[SSD]].
+- **[[ZAF]] South Africa (2026-05-18) — a digital channel that routes its failures back to the physical
+  one.** SASSA's biometric enrolment reached **997,379 of 19.05m recipients** by 2026-03-11 (~5%; scope is
+  new applications and triggered reviews, **not** universal). **Zero** complaints were recorded on
+  fingerprint enrolment against **7,779** on the online **facial-recognition** channel — failing hardest for
+  those with no biometric image held at Home Affairs or poor connectivity, whose remedy is an in-person
+  office visit. For those users that is not digitisation. Source:
+  [[2026-05-18-parliamentary-question-nw1941-sassa-biometric-verification]].
 
 ## Places
 

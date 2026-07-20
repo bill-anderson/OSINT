@@ -5,23 +5,77 @@ place: TZA
 topic: dpi.id
 places: [TZA]
 topics: [dpi.id, dpi.registry, include.access, dpi.govtech, gov.legislate, gov.policy, data.statistics, finance.new]
-entities: [[nida-tanzania], [jamii-namba], [james-kaji], [edson-guyai], [tanzania-infant-registration-bill], [nao-tanzania], [ministry-of-home-affairs-tanzania], [rita-tanzania], [unicef], [id4africa], [world-bank], [baker-mckenzie]]
-lens: []
+entities: [[nida-tanzania], [jamii-namba], [james-kaji], [edson-guyai], [tanzania-infant-registration-bill], [nao-tanzania], [ministry-of-home-affairs-tanzania], [rita-tanzania], [unicef], [id4africa], [world-bank], [baker-mckenzie], [ega-tanzania], [micit-tanzania], [zanzibar-id], [samia-suluhu-hassan], [kassim-majaliwa], [benedict-ndomba], [john-sausi], [cofi-tanzania], [bank-of-tanzania], [tips-tanzania], [co-develop]]
+lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-19
-sources: [[2025-06-17 Tanzania launching infant biometric registration pilot with UNICEF support], [2025-05-27 Home Affairs unveils 2.06tri- budget], [2026-01-04 Tanzania rolls out infant registration for stronger citizen ID], [2026-04-22 Tanzania seeks biometrics contractors for Phase II of national digital ID project], [2021-03-01 Performance Audit - Registration and Issuance of National ID Cards by NIDA (NAO Tanzania)], [2025-01-01 Tanzania - National Identification Card guidance (Baker McKenzie)], [2026-01-01 My Money, Your Name Challenges and Workarounds in ID-Required Mobile Money in East Africa], [2025-04-14-nida-kutoa-namba-watoto-wageni-jamii-namba], [2025-05-29-tanzania-budgets-4-5m-digital-id-pilot-minors], [2025-11-27-waliofukuzwa-vyeti-feki-kupata-nida], [2025-12-29-nida-yazindua-namba-ya-bure-sms], [2026-01-06-tanzania-legislative-framework-infant-id-registration], [2026-02-13-tanzania-spends-131bn-national-id-cards], [2026-04-18-nida-executes-national-id-expansion-project-ii], [2026-05-09-jamii-namba-children-pilot-set-for-rollout], [2026-05-22-national-ids-stay-under-centralised-printing], [2026-05-25-nida-kuanza-kusajili-watoto-jamii-namba]]
+last_reviewed: 2026-07-20
+sources: [[2025-06-17 Tanzania launching infant biometric registration pilot with UNICEF support], [2025-05-27 Home Affairs unveils 2.06tri- budget], [2026-01-04 Tanzania rolls out infant registration for stronger citizen ID], [2026-04-22 Tanzania seeks biometrics contractors for Phase II of national digital ID project], [2021-03-01 Performance Audit - Registration and Issuance of National ID Cards by NIDA (NAO Tanzania)], [2025-01-01 Tanzania - National Identification Card guidance (Baker McKenzie)], [2026-01-01 My Money, Your Name Challenges and Workarounds in ID-Required Mobile Money in East Africa], [2025-04-14-nida-kutoa-namba-watoto-wageni-jamii-namba], [2025-05-29-tanzania-budgets-4-5m-digital-id-pilot-minors], [2025-11-27-waliofukuzwa-vyeti-feki-kupata-nida], [2025-12-29-nida-yazindua-namba-ya-bure-sms], [2026-01-06-tanzania-legislative-framework-infant-id-registration], [2026-02-13-tanzania-spends-131bn-national-id-cards], [2026-04-18-nida-executes-national-id-expansion-project-ii], [2026-05-09-jamii-namba-children-pilot-set-for-rollout], [2026-05-22-national-ids-stay-under-centralised-printing], [2026-05-25-nida-kuanza-kusajili-watoto-jamii-namba], [2024-03-12-jamii-namba-development-work-started-chanzo], [2024-10-18-hakikisheni-mnapata-namba-ya-nida-jamii-namba-majaliwa]]
 ---
 
 # Tanzania × Digital Identity
 
 **[[jamii-namba]]** (rendered "Jamii Number" in English-language accounts; the same programme) is the
 national foundational ID run by **[[nida-tanzania]]** under the
-**[[ministry-of-home-affairs-tanzania]]**. Adult coverage stood at **81.9% (April 2025)**, corroborated
+**[[ministry-of-home-affairs-tanzania]]**. It begins with a **presidential directive of 2023-08-10**,
+and since **2024-10-17** the government's stated position is that **the NIDA number *is* the Jamii
+Namba** — not a separate credential. Adult coverage stood at **81.9% (April 2025)**, corroborated
 by two independent routes. What the coverage figure does not show is the **last mile**: **300,000+
 processed cards uncollected (January 2026)**, an application path that still requires a physical
 **Local Chairman's stamp**, and an infant-registration pilot that **ran roughly six months ahead of its
 enabling Bill**. Civil registration proper sits with **[[rita-tanzania]]** (see
 [[tanzania--dpi-registry]]); independent assurance with **[[nao-tanzania]]**.
+
+## Origin: the directive, the design, and what "Jamii Namba" actually means
+
+The programme has a datable start and a datable definition, both from primaries — worth stating
+precisely, because a widely-circulated donor case study gets both wrong (see the guard below).
+
+- **2023-08-10 — the presidential directive.** President **Samia Suluhu Hassan** ordered a single
+  identifier for the whole population, complaining that "people have so many identity cards in our
+  country" — birth certificate, national ID, driving licence, passport, health insurance and TIN numbers
+  — and framing fragmentation as a **national-security** problem: *"We want to know who is who; we want
+  to be able to tell a citizen from a foreigner."* Source:
+  [[2024-03-12-jamii-namba-development-work-started-chanzo]]. [[sovereignty]]
+- **2024-03-08 — design complete, end-2025 target.** At Tanzania's **Conference of Financial
+  Institutions (COFI)**, **[[ega-tanzania|e-GA]]** Director General **Benedict "Benny" Ndomba** said the
+  work was running as a collaboration between the ministry and [[nida-tanzania]] to produce a Jamii
+  Namba that "will uniquely identify Tanzanians **from birth** and foreigners **from entry to exit**."
+  **Dr John Sausi** (Director of Financial Management Information Systems, Ministry of Finance and
+  Planning) added that **the technical team was in place and the design finished**, built by
+  **[[rita-tanzania]], [[nida-tanzania]] and Zanzibar ID**, with the process **expected to conclude at
+  the end of 2025**. COFI also heard that NIDA's failure to reach most Tanzanians was itself a **blocker
+  on bank and telecom product design**, with significant numbers using ID numbers not their own to hold
+  SIMs. Source: [[2024-03-12-jamii-namba-development-work-started-chanzo]]. [[include.access]] ·
+  [[dpi.pay]]
+- **2024-10-17 — the definitional point settled: the NIDA number *is* the Jamii Namba.** Closing the
+  8th ICT Congress (JNICC, Dar es Salaam), PM **Kassim Majaliwa** stated that **government has directed
+  that the NIDA number is the Jamii Namba** used in the delivery and receipt of services, urging every
+  Tanzanian to obtain one, and projecting payment *by NIDA number* in place of cash. *(Event 2024-10-17;
+  the ministry published 2024-10-18.)* Source:
+  [[2024-10-18-hakikisheni-mnapata-namba-ya-nida-jamii-namba-majaliwa]]. [[dpi.pay]] · [[dpi.exchange]]
+
+**The end-2025 target was missed.** The design was complete in March 2024 and the process was to
+conclude at end-2025; as of **January 2026** the enabling infant-registration legislation was still
+unpassed and registration from birth still pending (below). Jamii Namba was **not live as a distinct
+issued identifier** at that point — what exists is the NIDA NIN, now designated as the Jamii Namba.
+
+### Guard: three claims in the Co-Develop case study that this wiki does not carry
+
+The Tanzania chapter of *DPI Exemplar Stories: Book of case studies* ([[co-develop]], knowledge partner
+Kalpa Impact; launched 2024-10-01, Global DPI Summit, Cairo) is a **parked lead, not a source**. Three
+of its claims are contradicted by the primaries above and **must not be absorbed** if they resurface —
+including via the UCL IIPP *2025 State of DPI Report*, which propagates the registration figure:
+
+1. **"Jamii Namba launched in 2014" — false.** 2014 is the **NIDA card rollout**. Jamii Namba begins
+   with the **2023-08-10** directive and was not live as of January 2026.
+2. **"Over 25 million registered (~40%)" — the percentage is wrong and the figure is mis-attributed.**
+   The held primaries give **25.8m registered = 81.9% of the 31,582,976 adults** (2022 census) and
+   **21,514,741 NINs generated**, both **April 2025** — NIDA *registrations*, not Jamii Namba issuance,
+   and nowhere near 40%. *(NIDA's own website carries a lower September-2024 NIN count, but the page is
+   undated in a way that makes it uncitable — an open provenance gap, already registered.)*
+3. **"Bank of Tanzania oversees Jamii Malipo" — unsupported.** [[bank-of-tanzania]] owns
+   **[[tips-tanzania]]**; **Jamii Malipo sits with [[micit-tanzania]] / [[ega-tanzania|e-GA]]** on the
+   ministry's own record (2024-08-27). See [[tanzania--dpi-pay]].
 
 ## Coverage: two independent routes that agree
 
@@ -185,4 +239,5 @@ interviewees failed ID registration on the first attempt. Source:
   [[rita-tanzania]] · [[unicef]] · [[id4africa]] · [[world-bank]] · [[baker-mckenzie]]
 - Mentioned, not hubbed: Innocent Bashungwa (Home Affairs Minister, 2025); Ayoub Mohamed Mahmoud
   (Deputy Home Affairs Minister); Ally Gugu (PS, Home Affairs); Charles E. Kichere (CAG);
-  Export-Import Bank of Korea.
+  Export-Import Bank of Korea; Samia Suluhu Hassan (President); Kassim Majaliwa (PM); Benedict "Benny"
+  Ndomba (e-GA DG); Dr John Sausi (Ministry of Finance and Planning); Zanzibar ID; COFI.

@@ -5,8 +5,8 @@ title: South African Reserve Bank (SARB)
 places: [ZAF]
 topics: [dpi.pay, gov.legislate, gov.policy]
 status: active
-last_reviewed: 2026-07-12
-sources: [[2026-03-17 South Africa's National Payment System PSP licences and the 2026 payments reform], [2026-04-03 Say goodbye to SARS tax numbers in South Africa], [2026-01-30 2026 fintech year ahead], [2026-02-23 111 - Winning But Losing - The Payments End Game], [2025-08-04 93 - Ecosystem Debt or Generative Platforms A Case for Digital Public Infrastructure]]
+last_reviewed: 2026-07-20
+sources: [[2026-03-17 South Africa's National Payment System PSP licences and the 2026 payments reform], [2026-04-03 Say goodbye to SARS tax numbers in South Africa], [2026-01-30 2026 fintech year ahead], [2026-02-23 111 - Winning But Losing - The Payments End Game], [2025-08-04 93 - Ecosystem Debt or Generative Platforms A Case for Digital Public Infrastructure], [2026-03-30-dha-annual-performance-plan-2026-27-digital-identity]]
 ---
 
 # South African Reserve Bank (SARB)

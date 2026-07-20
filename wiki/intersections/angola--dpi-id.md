@@ -5,11 +5,11 @@ place: AGO
 topic: dpi.id
 places: [AGO]
 topics: [dpi.id, dpi.registry, include.access, dpi.exchange, gov.legislate]
-entities: [[angola-india-dpi-credit-line], [digital-angola-presight-mou], [ima-angola], [world-bank], [bilhete-de-identidade-angola], [ministerio-da-justica-e-dos-direitos-humanos-angola], [sita-angola]]
+entities: [[angola-india-dpi-credit-line], [digital-angola-presight-mou], [ima-angola], [world-bank], [bilhete-de-identidade-angola], [ministerio-da-justica-e-dos-direitos-humanos-angola], [sita-angola], [ine-angola], [censo-2024-angola]]
 lens: [sovereignty, colonialism]
 status: active
-last_reviewed: 2026-07-17
-sources: [[2023-01-01 World Bank ID4D Diagnostic of ID Systems in Angola], [2020-06-17 Angola now using Chinese-devised civil registration system], [2025-05-07 India helps Angola with DPI, digital ID as part of 200M credit line], [2025-11-17 Angola begins issuance of ID cards to newborns], [2021-12-21 Government of Angola and Presight sign MoU for Digital Angola program], [2025-11-26-quase-metade-dos-angolanos-sem-bilhete-de-identidade], [2026-04-29-bi-documento-unico-valido-identificacao], [2026-07-01-bilhete-de-identidade-ao-domicilio], [2026-07-02-nj-bi-tratado-a-partir-do-domicilio-mediante-taxa], [2026-05-05-minjusdh-falhas-do-sistema-nos-postos-de-identificacao], [2026-03-13-passaporte-electronico-emitido-em-todo-o-pais], [2025-12-16-sita-passenger-data-system-rolls-out-in-angola]]
+last_reviewed: 2026-07-20
+sources: [[2023-01-01 World Bank ID4D Diagnostic of ID Systems in Angola], [2020-06-17 Angola now using Chinese-devised civil registration system], [2025-05-07 India helps Angola with DPI, digital ID as part of 200M credit line], [2025-11-17 Angola begins issuance of ID cards to newborns], [2021-12-21 Government of Angola and Presight sign MoU for Digital Angola program], [2025-11-26-quase-metade-dos-angolanos-sem-bilhete-de-identidade], [2026-04-29-bi-documento-unico-valido-identificacao], [2026-07-01-bilhete-de-identidade-ao-domicilio], [2026-07-02-nj-bi-tratado-a-partir-do-domicilio-mediante-taxa], [2026-05-05-minjusdh-falhas-do-sistema-nos-postos-de-identificacao], [2026-03-13-passaporte-electronico-emitido-em-todo-o-pais], [2025-12-16-sita-passenger-data-system-rolls-out-in-angola], [2026-02-24-angop-luanda-censo-relatorio-provincial], [2025-11-20-angop-censo-2024-luanda-populacao-definitivos]]
 ---
 
 # Angola × Digital Identity
@@ -19,6 +19,8 @@ Angola is building foundational identity from a **low, colonial-era base** — a
 ## What we know
 
 **A low, uneven base — now measured.** The World Bank **ID4D diagnostic** (2023) finds civil-registration and identification services began only in **2009 and 2002**, much of the CR system dates from **colonial times**, and Angola is **far from universal coverage**. The **Censo 2024** definitive results (reported 2025-11) put hard numbers on it: only **52.4% of the population held a [[bilhete-de-identidade-angola|BI]]** — **63% urban vs 30.9% rural** — with **14.9m people undocumented** (2.4m+ in Luanda alone), and BI-holding rising by age (30% of 5–14s, 55% of 15–24s, 66% of 25+). Birth registration was **63% (2024)**, up from 53% (2014). Source: [[2025-11-26-quase-metade-dos-angolanos-sem-bilhete-de-identidade]].
+
+**The capital is not the exception it looks like.** INE's Luanda provincial census report (presented **2026-02-24**) gives the province **6,532,012 people with a birth record — ~75%** — and **5,376,103 aged 5+ holding a BI**. Against a provincial population INE puts at **8,665,510** in that same report, BI-holding is **~62%**: better than the national **52.4%**, but still leaving roughly **three million people in the richest, densest, best-served province without the document that a 2026-04 bill would make the sole valid ID** for banking, telecoms, schooling and property. Literacy (15+) is **94.5%** — so the gap is documentary, not educational. *(Note the 150,787 discrepancy between this provincial total and INE's national report; see [[AGO]] Notes.)* Source: [[2026-02-24-angop-luanda-censo-relatorio-provincial]].
 
 **Whose stack? The three-way courtship.**
 - **China** — a **Chinese-devised civil-registration system** (state-owned **CEIEC** won the contract Nov 2019) went live in Luanda in 2020, targeting 12m birth registrations by 2022. See [[geopol.china]].
@@ -57,3 +59,5 @@ Place: [[AGO]] · Concepts: [[dpi.id]] · [[dpi.registry]] · [[dpi.exchange]] �
 - [[2026-05-05-minjusdh-falhas-do-sistema-nos-postos-de-identificacao]]
 - [[2026-03-13-passaporte-electronico-emitido-em-todo-o-pais]]
 - [[2025-12-16-sita-passenger-data-system-rolls-out-in-angola]]
+- [[2025-11-20-angop-censo-2024-luanda-populacao-definitivos]]
+- [[2026-02-24-angop-luanda-censo-relatorio-provincial]]

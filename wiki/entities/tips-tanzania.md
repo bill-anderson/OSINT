@@ -6,8 +6,8 @@ places: [TZA]
 topics: [dpi.pay, dpi.exchange, gov.regional]
 lens: []
 status: active
-last_reviewed: 2026-07-12
-sources: [[2026-07-10 New Rwanda-Tanzania Payment Pilot could transform trade across East Africa]]
+last_reviewed: 2026-07-20
+sources: [[2026-07-10 New Rwanda-Tanzania Payment Pilot could transform trade across East Africa], [2024-08-27-mfumo-jamii-x-change-kuunganisha-mifumo-tehama]]
 ---
 
 # TIPS (Tanzania Instant Payment System)

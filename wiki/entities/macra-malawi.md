@@ -6,8 +6,8 @@ places: [MWI]
 topics: [infra.connect, dpi.id, dpi.registry, gov.legislate, gov.protect, infra.cybersec, tech.ai, include.access]
 lens: []
 status: active
-last_reviewed: 2026-07-19
-sources: [[2026-07-17-macra-airtel-malawi-tnm-tariff-compensation], [2025-05-21 Malawi to Launch Mandatory Biometric SIM Registration in July 2025], [2024-02-12 National Addressing Project - MACRA Website], [2024-06-25 Review of the Malawi Data Protection Act 2024], [2026-07-16-macra-data-protection-registration-compliance-malawi24], [2026-07-14-macra-data-protection-registration-fees-consultation-itweb], [2026-03-26-world-bank-cybersecurity-data-protection-support-techafricanews], [2026-07-10-macra-undp-ai-digital-id-collaboration-itweb]]
+last_reviewed: 2026-07-20
+sources: [[2024-02-02-malawi-data-protection-act-2024], [2025-10-01-dmap-tor-operationalization-data-protection-authority], [2026-07-17-macra-airtel-malawi-tnm-tariff-compensation], [2025-05-21 Malawi to Launch Mandatory Biometric SIM Registration in July 2025], [2024-02-12 National Addressing Project - MACRA Website], [2024-06-25 Review of the Malawi Data Protection Act 2024], [2026-07-16-macra-data-protection-registration-compliance-malawi24], [2026-07-14-macra-data-protection-registration-fees-consultation-itweb], [2026-03-26-world-bank-cybersecurity-data-protection-support-techafricanews], [2026-07-10-macra-undp-ai-digital-id-collaboration-itweb]]
 ---
 
 # Malawi Communications Regulatory Authority (MACRA)

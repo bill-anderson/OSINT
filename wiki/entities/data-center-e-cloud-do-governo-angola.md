@@ -6,8 +6,8 @@ places: [AGO]
 topics: [infra.store, dpi.govtech, gov.policy]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-17
-sources: [[2026-04-28-pr-inaugura-novo-centro-de-dados-do-governo], [2026-04-28-centro-de-dados-do-governo-soberania-digital], [2026-04-28-nj-pr-inaugura-novo-data-center], [2026-04-27-angola-autonomia-armazenamento-documentos-data-center], [2026-04-29-angola-launches-government-data-center-and-cloud]]
+last_reviewed: 2026-07-20
+sources: [[2026-04-28-pr-inaugura-novo-centro-de-dados-do-governo], [2026-04-28-centro-de-dados-do-governo-soberania-digital], [2026-04-28-nj-pr-inaugura-novo-data-center], [2026-04-27-angola-autonomia-armazenamento-documentos-data-center], [2026-04-29-angola-launches-government-data-center-and-cloud], [2025-05-09-angola-minttics-2000km-fibra-optica-este-ano], [2025-11-28-angola-30000km-terrestrial-fibre-itu-wtdc-baku]]
 ---
 
 # Data Center e Cloud do Governo (Camama national data centre)

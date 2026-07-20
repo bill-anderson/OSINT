@@ -5,8 +5,8 @@ title: Rosemary Kisembo
 places: [UGA]
 topics: [dpi.id, gov.protect, dpi.registry, tech.industry]
 status: active
-last_reviewed: 2026-07-17
-sources: [[2024-06-05 Ugandan human rights lawyer's arrest exposes use of national ID for surveillance], [2026-02-11 Uganda migrates more than 28M records to new national ID system]]
+last_reviewed: 2026-07-20
+sources: [[2024-06-05 Ugandan human rights lawyer's arrest exposes use of national ID for surveillance], [2026-02-11 Uganda migrates more than 28M records to new national ID system], [2024-07-02-nira-iris-scanning-1m-unmatched-fingerprints-ubc], [2024-07-16-nira-cosase-18-million-unregistered-staffing], [2024-10-15-nira-press-statement-mass-enrolment-status]]
 ---
 
 # Rosemary Kisembo

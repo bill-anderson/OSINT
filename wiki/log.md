@@ -8880,3 +8880,110 @@ the DHA APP, the World Bank DZAP documents, the CBN Bullion scan) — these need
 **These are not yet ingested.** They sit in `new/` awaiting a normal ingest run, which will date, screen
 and file them; the page fixes above rest on the facts established, and will gain their inline citations
 when the clips land in `raw/`.
+
+## 2026-07-20 ingest — the reconcile pass's 74 primaries drained from `new/`
+
+Ingested in **17 country-scoped thematic chunks** so no two runs touched the same place hub; the shared
+surfaces (concept pages, the three indexes, this log) were held back and applied in one pass afterwards.
+
+**Counts.** 74 clips in. **70 admitted** to `raw/`. **2 discarded as relevant-duplicates** of items already
+held (an Angop cybersecurity-suspension piece the reconcile pass had itself already ingested; a New Vision
+Uganda 35m story held under a different URL segment). **2 were not new sources at all** and were used as
+**verbatim fidelity re-captures** instead (below). `new/` is empty.
+
+### The re-captures — and the error they exposed
+
+`raw/2025-09-11 DZAP World Bank PAD.md` and `raw/2025-01-20 PID Appraisal Stage — DZAP (P505094).md` both
+stored a **curator paraphrase / companion note**, not the documents' own words. Both were overwritten with
+verbatim text under the CLAUDE.md bounded immutability exception (ISSUE-016), keeping filename, `published`,
+`ingested`, facets and artefact pointers. Two deviations from the letter of that rule are recorded on the
+pages themselves rather than glossed: `url:` was completed from `unknown` / a bare domain to the canonical
+deep link, and `body_completeness` is set to **`excerpt`** rather than `full`, because the verbatim capture
+is itself partial. Raised as **ISSUE-030** for ratification.
+
+**This immediately paid for itself, against the reconcile pass's own work.** The verbatim PAD says INRIS
+"**registered 15 percent of adults using biometrics**" — a **percentage, not an absolute**. The reconcile
+pass had reported the PAD as stating "around 1.5 million people", and I wrote that onto four pages. **That
+phrase is not in the text.** Any ~1.5m figure is an *inference* from 15% against a ~10m adult base — the
+same move the original contradiction brief made to reach ~1.6m from a slightly different base. Corrected on
+`inris`, `dnrpc-zambia`, `zambia--dpi-id` and `ZMB`: the percentage is what the PAD asserts, the absolute is
+derived. The underlying resolution (no de-duplication occurred; the Dec-2025 "1.3m" restates a May-2024
+figure; enrolment plateaued) is unaffected — but it now rests on what the document actually says.
+
+### Corrections landed while filing (beyond the briefed threads)
+
+- **[[AGO]]** — the hub reported UNESCO RAM as "**83% AI-ready**". 83.6% is **50.9% fully ready + 32.7%
+  partial** summed. Now reported as three bands. Separately, the cybersecurity-bill suspension carried
+  **2026-07-08** (a publication date) where the event is **2026-07-07** — the very error class this batch
+  exists to fix. Luanda provincial report re-dated 2026-03-03 → **2026-02-24**.
+- **[[UGA]]** — `uganda--dpi-id` recorded the ~18m unregistered as an advocacy estimate carrying "no cited
+  source, and that absence is itself the finding". **Wrong**: the count is NIRA's own (ED Kisembo to
+  COSASE, 2024-07-01). The uncited element is narrowed to the "about 40% of the population" gloss, which
+  the wiki now adopts the count while rejecting.
+- **[[ZAF]]** — the four-party pact re-dated to **2025-04-03** throughout; `nigerian-exchange` and
+  `victoria-falls-stock-exchange` both asserted documents were "not held" which this ingest falsifies.
+- **[[SEN]]** — the breach entry carried "2026-02" (a publication month) where the intrusion is
+  **2026-01-19**.
+- **[[ZWE]]** — the National AI Strategy launch, previously "March 2026", is pinned to **2026-03-13** on
+  four pages.
+- **[[TGO]]** — the DHIS2 milestone entry was dated to the article's **translation** date (2024-11-19);
+  re-dated to the 2021 technical milestone, with the "under review" line pinned to the English original's
+  **2022-12-01**.
+
+### Duplicates and fidelity flags raised for the human (nothing deleted)
+
+- **Prune candidates** (primary now held, secondary adds nothing): `raw/2024-11-19 HISP WCA…Togo` (the
+  French **translation** of the newly-held English original — also the reference case for ISSUE-024);
+  `raw/2026-03-24 Zambia seeks partner for national digital ID system` (Channel Africa condensation of the
+  ZNBC broadcast); `raw/2026-07-15 Senegal digitizes more than 15 million birth records` (syndicated APA
+  copy); the two Botswana Tech Fund press-release reprints now the fund's own release is held.
+- **Further non-verbatim bodies found in `raw/`** (ISSUE-016 candidates, not actioned): the CIPIT Malawi
+  review; the Congo `2024-05-20` data-centre item (an editorial merge of two outlets plus a 2025 update).
+- **Stale claims inside immutable `raw/` files**, corrected on synthesis pages only: the ID Tech Wire Malawi
+  piece (asserts no enacted data-protection law, eleven months after commencement); the TechCabal South
+  Sudan piece (headlines a project launch as a system launch — its **filename** asserts it too); the
+  `2026-02-24` Senegal item ("official DAF communications dispute any confirmed leak", which the APS
+  communiqués disprove); and a wiki-authored ingest note in `2026-02-27 SA powers Africa's $1.64bn` carrying
+  the exact false parallel this batch refutes.
+
+### Two figures in the corpus with no source at all
+
+The Burkina chunk found that **"330 localities since 2019"** and **"441 sites / 126 rural"** — both cited in
+the reconcile record — correspond to **no held `raw/` item and no URL on file**. They appear to have entered
+working notes from reconcile research without a corresponding ingest. Flagged as provenance gaps and **not
+citable** until sourced. A useful reminder that the research/ingest boundary exists precisely to stop this.
+
+### New contradictions filed (4)
+
+- **`africa-vc-equity-2025-direction`** — Partech reports CY2025 equity **+8% to US$2.4bn**; AVCA reports
+  **−21% to US$2.1bn**. Opposite **signs** on the same quantity, each against its own 2024 base. Sharper
+  than the Partech/Disrupt Africa item this batch closed, and not resolvable by scope alone.
+- **`dpa-zimbabwe-vs-cassava-identity`** — the held `distributed-power-africa` page describes **Cassava's
+  South African** solar business; Econet's notice describes a **Zimbabwe-registered** DPA now trading as
+  InfraCo. Same brand, two group arms, no document tying them. Marked do-not-merge pending registry extracts.
+- **`burkina-faso-white-zones-coverage-to-date`** — a numerator-only dispute (223 vs 330 vs 138 vs 441 vs
+  370 localities/sites covered), explicitly not disturbing the resolved 2027/2030 horizon finding.
+- **`senegal-daf-perso-server-contents`** — whether the compromised "Perso" server held civil-identity
+  records or card-personalisation data, which changes the breach's severity. Filed as asymmetric: Dark
+  Reading's civil-identity reading is the reporter's hedged inference.
+
+### Notable finding — the Google mis-dating has a documented origin
+
+The GCIS Cabinet statement of **2025-03-26** records Cabinet "welcoming the launch of Google South Africa's
+R2.5-billion cloud region" — **fourteen months after the region actually opened**, and it is the origin of
+the R2.5bn figure the wiki carries. This **corroborates** the existing correction rather than reopening it
+(Google's own 2024-01-31 announcement remains dispositive; a government body re-welcoming an event does not
+re-date it) — but it shows the error class propagating through otherwise-credible official sources.
+
+### Editorial actions
+
+- **One intersection created:** `togo--dpi-mis` (4 sources, ~6 developments, ~900 words — clears the
+  materiality bar). Three declined on judgement and reported instead: `malawi--gov-protect` (the instrument
+  page already does the job), `tanzania--dpi-exchange` (splitting it would separate Tanzania's two exchange
+  builds, the exact conflation the primaries warn against), `burkina-faso--infra-connect` (thematic, not
+  matrix-shaped).
+- **Concept pages updated:** 23, with ~35 dated bullets. `dpi.mis` had its three citations of the French
+  translation swapped to the English original.
+- **`wiki/places/ZAF.md` is 3,916 words**, over the ~2,500 review threshold. Diagnosed as **thematic, not
+  matrix-shaped** — eight intersections are already split out and "Earlier milestones" is already reduced to
+  pointers. Left long deliberately; flagged for the human's judgement.

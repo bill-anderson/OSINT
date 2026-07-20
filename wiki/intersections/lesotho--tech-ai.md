@@ -8,8 +8,8 @@ topics: [tech.ai, gov.policy, gov.protect, infra.store, infra.energy, finance.ne
 entities: [[convalt-energy], [project-kobong], [micsti-lesotho], [sebabatso-initiative], [dns-technologies], [computer-business-solutions]]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-18
-sources: [[2026-06-09-convalt-kobong-hydropower-ai-datacenter-techafricanews], [2026-06-30-lesotho-first-ai-data-center-connectingafrica], [2026-06-12-three-digital-policies-signed-lestimes], [2026-07-09-lesotho-equitable-ai-future-itweb], [2026-06-17-ai-skills-development-programme-publiceye], [2026-05-30-dns-cbs-tech-workshop-lestimes]]
+last_reviewed: 2026-07-20
+sources: [[2026-06-08-convalt-energy-lesotho-partnership-press-release], [2026-06-09-convalt-kobong-hydropower-ai-datacenter-techafricanews], [2026-06-30-lesotho-first-ai-data-center-connectingafrica], [2026-06-12-three-digital-policies-signed-lestimes], [2026-07-09-lesotho-equitable-ai-future-itweb], [2026-06-17-ai-skills-development-programme-publiceye], [2026-05-30-dns-cbs-tech-workshop-lestimes]]
 ---
 
 # Lesotho × AI, data policy & sovereign infrastructure
@@ -25,8 +25,13 @@ affordability gap** despite 100% broadband coverage.
   Lesotho and US firm **[[convalt-energy|Convalt Energy]]** agreed **[[project-kobong|Project Kobong]]** —
   ~$6.2bn (Lesotho's largest-ever FDI) pairing **1.2 GW hydropower** (+4.6 GW solar, 4 GWh BESS) with a
   green-powered **AI data centre in Mokhotlong** — energy security + regional export + AI hub, US exports
-  possibly >$2bn, construction from 2029. **Legal status disputed** (binding MoA vs non-binding MoU — see
-  contradiction). Sources: [[2026-06-09-convalt-kobong-hydropower-ai-datacenter-techafricanews]],
+  possibly >$2bn, construction from 2029. **Legal status resolved (2026-07-20)**: Convalt's own release
+  records a **binding Memorandum of Agreement signed 2026-06-04** (announced 2026-06-08) that is a
+  **development framework only** — progression "remains subject to… feasibility studies, permitting,
+  financing, regulatory approvals, and definitive project agreements". The ~$6.2bn is the **proposed
+  project value, not committed capital**; no final investment decision as of 2026-07-20. Sources:
+  [[2026-06-08-convalt-energy-lesotho-partnership-press-release]],
+  [[2026-06-09-convalt-kobong-hydropower-ai-datacenter-techafricanews]],
   [[2026-06-30-lesotho-first-ai-data-center-connectingafrica]].
 - **Three foundational digital policies signed (2026-06).** [[gov.policy]] [[gov.protect]] MICSTI Minister
   **Nthati Moorosi** signed the **Broadband Infrastructure Sharing Policy**, **Data Management Policy**

@@ -6,8 +6,8 @@ places: [AGO]
 topics: [gov.protect, gov.legislate]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-17
-sources: [[2011-09-19 Angola Passes Personal Data Protection Law (Law 22-11)], [2024-08-10 Angola - Dados Pessoais e Ciber-seguranca (APD enforcement)], [2025-10-08 Data protection and cybersecurity laws in Angola (CMS guide)], [2026-06-17-nova-lei-de-proteccao-de-dados-proximo-ano-legislativo]]
+last_reviewed: 2026-07-20
+sources: [[2011-09-19 Angola Passes Personal Data Protection Law (Law 22-11)], [2024-08-10 Angola - Dados Pessoais e Ciber-seguranca (APD enforcement)], [2025-10-08 Data protection and cybersecurity laws in Angola (CMS guide)], [2026-06-17-nova-lei-de-proteccao-de-dados-proximo-ano-legislativo], [2025-12-03-decreto-presidencial-256-25-estrategia-nacional-ciberseguranca-angola], [2026-06-30-unesco-ram-angola-28000km-fibra-prontidao-ia]]
 ---
 
 # Angola Law 22/11 on the Protection of Personal Data (LPDP)

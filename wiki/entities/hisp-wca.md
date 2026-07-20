@@ -5,8 +5,8 @@ title: HISP WCA (Health Information Systems Programme, West and Central Africa)
 places: [TGO, XWA, XCA]
 topics: [dpi.mis, data.statistics, capacity.research, dpi.exchange, gov.standards]
 status: active
-last_reviewed: 2026-07-17
-sources: [[2024-11-19 HISP WCA develops DHIS2 EMIS for education data analysis and visualization in Togo], [2024-11-05 Togo - Integrating DHIS2 with existing EMIS systems]]
+last_reviewed: 2026-07-20
+sources: [[2024-11-19 HISP WCA develops DHIS2 EMIS for education data analysis and visualization in Togo], [2024-11-05 Togo - Integrating DHIS2 with existing EMIS systems], [2022-12-01-hisp-wca-dhis2-emis-togo], [2026-05-04-gpe-kix-study-tour-education-data-system]]
 ---
 
 # HISP WCA (Health Information Systems Programme, West and Central Africa)

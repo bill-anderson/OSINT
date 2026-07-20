@@ -6,7 +6,7 @@ places: [MRT, COG, COM, BWA, BFA, BDI, AGO, ZMB, ZAF, XGL, MWI, GHA, NAM, KEN, N
 entities: [[smart-zambia-institute], [dzap], [david-eaves], [sita], [ucl-iipp], [dmap], [govguide-nigeria], [meta], [bosun-tijani], [malawi-revenue-authority], [mosip], [uxp-benin], [cybernetica], [kenya-revenue-authority], [nitda], [ngea], [galaxy-backbone], [safaricom], [sars], [sarb], [oneci], [maposte], [la-poste-cote-divoire], [atdi-mozambique], [malawi-ministry-of-ict], [undp], [gtmi], [world-bank], [trident-digital-tech], [rdc-pass], [idea-mpa], [government-in-your-hand], [digital-eswatini-project], [services-publics-togo], [otr-togo], [gest-exo], [ministry-of-transport-chad], [registrar-general-office-seychelles], [ima-angola], [tis-angola], [agt-angola], [i-lab-angola], [serpro]]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-19
+last_reviewed: 2026-07-20
 sources: [[2026-07-17-zambia-govlink-private-4g], [2026-07-17-zambie-lance-reseau-4g-prive-govlink], [2025-06-28 PID Concept Stage - Digital Eswatini (P508948)], [2025-01-01 ToR - Government in Your Hand Digital Government Implementation Roadmap (Digital Eswatini)], [2025-08-05 Robust DPI inevitable for Eswatini's economic, jobs boom - World Bank], [2025-12-17 Togo Expands Public Service Digitisation With Online Civil Registry Platform], [2025-10-01 Togo Launches Online Platform for Tax Exemptions and Waivers], [2025-09-12 Chad to deploy integrated digital platform for transport services], [2025-02-10 Seychelles Pledges to Modernize Public Services Through Digital Transformation], [2025-09-11 DZAP World Bank PAD], [2025-12-15 The Path to a Sovereign Tech Stack is Via a Commodified Tech Stack  TechPolicy.Press], [2026-07-07 South Africa's state IT agency is slowing government tech rollout], [2025-01-01 dpi_conceptualisation_and_measurement], [2026-07-07 Malawi integrates immigration e-services], [2026-06-20 Ethiopia launches unified MESOB Platform to accelerate national digital transformation], [2026-06-08 Kenya proposes marketplace for State data], [2026-05-18 Eswatini promotes digital transformation project through World Bank engagements], [2026-06-19 Microsoft SA secures digital talent for govt], [2026-06-11 DR Congo to Launch National Digital Identity System RDC-PASS on June 13], [2026-06-18 UAE-Kenya Tech Partnership Gains Momentum as AI Investments Grow], [2026-06-17 Zambia's govt leans towards open-source], [2026-05-22 Nigeria launches GovGuide, an AI chatbot for public service access], [2026-06-03 Malawi reaps digital tax gains], [2026-05-22 Uganda launches prototype program for digital ID and public infrastructure], [2026-07-11 UXP Directory], [2026-07-03 Cybernetica], [2026-04-02 WhatsApp tax filing set to pull millions into Kenya's tax net], [2026-04-07 NITDA Assumes Control Of NGEA Infrastructure], [2026-04-03 Say goodbye to SARS tax numbers in South Africa], [2026-04-02 Safaricom Introduces My OneApp to Simplify Payments, Accounts, and Service Access], [2026-01-19 Ivory Coast Launches MaPoste to Digitize Postal and Administrative Services], [2026-01-08 Zambia unveils online passport application system], [2026-01-23 Zambia begins amending Electronic Government Act], [2026-02-21 Mozambique Launches Digital Government Overhaul, Looking to Kenya and Rwanda as Models], [2026-02-16 Malawi President orders digital revolution], [2026-02-20 Malawi validates AI strategy, digital transformation policy - CAJ News Africa], [2026-01-30 DRC envisages a functional digital government platform by March], [2026-01-26 Tanzania's GovTech success raises bar for East Africa's digital states], [2026-01-13 Cameroon intros digital system for civil documents], [2025-11-09 Behind the speedy MyMzansi screens and the Presidency's race to build a digital government], [2026-01-07 Digital driving licence coming to South Africa]]
 ---
 
@@ -284,6 +284,18 @@ Government service delivery online.
   press for inclusion of Liberian expertise. See [[gov.standards]], [[dpi.exchange]], [[infra.cybersec]],
   [[LBR]]. Sources: [[2026-04-29-executive-order-163-digital-government-ndmi-observer]],
   [[2025-12-17-csa-automated-lpa-platform-observer]].
+- **[[ZMB]] Zambia — "connected" is not "in service" (2025–2026).** SMART Zambia's Government Chief
+  Technical Officer stated on **2026-03-25** that "all 116 councils have been connected to the government
+  network, which means **phase 1 is completed 100 percent**", with solar power at every council. But SZI's
+  own Western Province officer had reported (**2025-02-12**) 12 sites "completed" while last-mile
+  connections via ZAMTEL remained outstanding, "which will enable us to **fully utilize** the GWAN network".
+  Read state connectivity claims as network reach to premises unless live end-to-end service is separately
+  evidenced. Sources: [[2026-03-25-kalemba-zambia-cdf-ecouncil-116-councils-gwan]],
+  [[2025-02-12-itweb-zambia-deploys-govt-wan-service-delivery]].
+- **[[ZAF]] South Africa (2025-03-26).** Cabinet approved the **Digital Transformation of Government
+  Roadmap**, naming its targets as **interdepartmental coordination, outdated systems, overlapping mandates
+  and limited skills** — an institutional-fragmentation diagnosis, not a technology one. Publicly launched
+  **2025-05-12**; both dates real, six weeks apart. Source: [[2025-03-27-cabinet-statement-26-march-2025]].
 
 ## Places
 

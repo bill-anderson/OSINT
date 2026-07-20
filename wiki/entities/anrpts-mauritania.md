@@ -6,8 +6,8 @@ places: [MRT]
 topics: [dpi.id, dpi.registry, include.access]
 lens: [sovereignty, colonialism]
 status: active
-last_reviewed: 2026-07-18
-sources: [[2025-05-20 African nations making digital ID gains in the face of common challenges (ID4Africa 2025)], [2024-08-01 Mauritania pilots digital ID app (e-ID Mauritania)], [2026-06-18-etat-civil-parliamentary-id-exclusion-ladepeche], [2026-06-21-houwiyeti-usage-metrics-techrek]]
+last_reviewed: 2026-07-20
+sources: [[2025-05-20 African nations making digital ID gains in the face of common challenges (ID4Africa 2025)], [2024-08-01 Mauritania pilots digital ID app (e-ID Mauritania)], [2026-06-18-etat-civil-parliamentary-id-exclusion-ladepeche], [2026-06-21-houwiyeti-usage-metrics-techrek], [2023-08-18-anrpts-passport-demand-20000-2020-to-94000-2023]]
 ---
 
 # National Agency for the Population Register and Secure Titles (ANRPTS)

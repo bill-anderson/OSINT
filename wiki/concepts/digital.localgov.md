@@ -6,7 +6,7 @@ places: [MWI, CMR, CIV, DZA, SDN]
 entities: [[blantyre-city-council], [malawi-revenue-authority], [undp], [maposte]]
 lens: []
 status: active
-last_reviewed: 2026-07-18
+last_reviewed: 2026-07-20
 sources: [[2026-03-06 Malawi's second city digitises tax collection], [2026-01-13 Cameroon intros digital system for civil documents]]
 ---
 
@@ -51,6 +51,14 @@ the layer where citizens actually meet the state.
   **[[maposte]]** (postal and administrative services) extends the same logic to the last-mile
   administrative counter. Expect more sub-national cases as national DPI programmes push delivery
   downward to where citizens transact with the state. See [[dpi.govtech]], [[digital.rural]].
+- **[[ZMB]] Zambia — CDF tracking and e-Council (2026-03).** A **Constituency Development Fund MIS** was in
+  data entry across councils as of March 2026, full operationalisation expected **June 2026** — "we will be
+  able to track transaction by transaction, payment by payment" (Percy Chinyama, SZI). An **e-Council**
+  revenue and financial-reporting platform entered proof-of-concept with **eight councils** (Ndola,
+  Kalulushi, Kalumbila, Kitwe, Solwezi, Chingola, Chilanga named — the eighth unidentified in held
+  material), targeting demonstration by **2026-06-19**, covering property taxes, business levy, market levy,
+  health permits and fire certificates. Source:
+  [[2026-03-25-kalemba-zambia-cdf-ecouncil-116-councils-gwan]].
 
 ## Places
 

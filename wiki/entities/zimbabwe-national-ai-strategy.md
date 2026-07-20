@@ -6,8 +6,8 @@ places: [ZWE]
 topics: [tech.ai, gov.policy, gov.protect]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-19
-sources: [[2026-06-23 Implications of Zimbabwe’s National AI Strategy on Freedom of Expression Privacy and Access to Information], [2026-07-17-zimbabwe-digital-roadmap-msme-growth]]
+last_reviewed: 2026-07-20
+sources: [[2026-06-23 Implications of Zimbabwe’s National AI Strategy on Freedom of Expression Privacy and Access to Information], [2026-07-17-zimbabwe-digital-roadmap-msme-growth], [2026-03-13-mavetera-84-55-internet-penetration-ai-strategy]]
 ---
 
 # Zimbabwe National AI Strategy 2026–2030
@@ -26,3 +26,18 @@ National Reality Check Platform — lacking legal safeguards. See [[tech.ai]]. S
   alongside a digital-skills target of **1.5 million Zimbabweans** trained in coding, AI and data skills.
   See [[ministry-of-ict-postal-and-courier-services-zimbabwe]], [[capacity.training]]. Source:
   [[2026-07-17-zimbabwe-digital-roadmap-msme-growth]].
+- **Launch pinned to 2026-03-13.** A same-day account places the launch by President **Mnangagwa** at the
+  **New Parliament Building, Mount Hampden** (Mashonaland West), under the theme *"Harnessing AI for
+  Inclusive National Development"*, with ICT Minister **Mavetera** introducing him. This dates the event
+  precisely and corroborates the held ITWeb report of 2026-03-16, which said the President had launched the
+  strategy "on Friday" — 13 March. *The wiki's earlier "March 2026" can now be written as 2026-03-13.*
+  Source: [[2026-03-13-mavetera-84-55-internet-penetration-ai-strategy]].
+- **National AI Innovation Fund (announced 2026-03-13).** Mavetera said the ministry was working "hand in
+  glove" with telcos and interested parties toward a **National AI Innovation Fund** to provide **funding
+  and mentorship to AI start-ups**. *Announced as an intention; no size, source of capital, governance or
+  launch date is given, and the wiki holds nothing further on it.* See [[finance.new]],
+  [[tech.innovate]]. Source: [[2026-03-13-mavetera-84-55-internet-penetration-ai-strategy]].
+- **Framing: connectivity as the AI precondition (2026-03-13).** The strategy was launched with internet
+  penetration presented as its enabling condition — Mavetera citing **84.55% (Q4 2025)** and a fibre
+  backbone past **14,000 km** as what makes AI adoption feasible, and positioning the strategy inside
+  **Vision 2030**'s "full digital economy" target. Source: same.

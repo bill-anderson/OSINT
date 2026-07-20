@@ -7,7 +7,7 @@ topics: [dpi.id, dpi.govtech, include.access]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-20
-sources: [[2024-08-15 Mauritania Launches Digital ID for e-Services, Built on TECH5 Platform (Houwiyeti)], [2024-08-02 Mauritania launches digital ID app to boost access to services and improve governance], [2024-08-01 Mauritania pilots digital ID app (e-ID Mauritania)], [2025-05-20 African nations making digital ID gains in the face of common challenges (ID4Africa 2025)], [2025-07-24-houwiyati-national-certificates-service-ami], [2026-06-21-houwiyeti-usage-metrics-techrek]]
+sources: [[2024-08-15 Mauritania Launches Digital ID for e-Services, Built on TECH5 Platform (Houwiyeti)], [2024-08-02 Mauritania launches digital ID app to boost access to services and improve governance], [2024-08-01 Mauritania pilots digital ID app (e-ID Mauritania)], [2025-05-20 African nations making digital ID gains in the face of common challenges (ID4Africa 2025)], [2025-07-24-houwiyati-national-certificates-service-ami], [2026-06-21-houwiyeti-usage-metrics-techrek], [2023-08-18-anrpts-passport-demand-20000-2020-to-94000-2023]]
 ---
 
 # Houwiyeti
@@ -36,7 +36,9 @@ extracts **406,871**; passport requests **63,384**; national ID-card requests **
 > **Resolved (2026-07-20) — a difference of basis, not a reversal.** The **24.8% → 32.9% → 35.7%** series is
 > the like-for-like measure of passport requests initiated via the app. The earlier "**70% of passport
 > requests**" (ID4Africa, May 2025) was an undenominated oral remark and is **inconsistent with ANRPTS's own
-> volumes**: national passport demand ran ~94,000 requests in the year to June 2023 (ANRPTS, 2023-08-18),
+> volumes**: national passport demand rose from **20,000 (2020) to ~94,000 in the year to mid-2023**
+> (ANRPTS DG Sidi Ali Ould Nafee, 2023-08-18 —
+> [[2023-08-18-anrpts-passport-demand-20000-2020-to-94000-2023]]),
 > against the app's cumulative 63,384 over ~2.5 years — ~25–30%/year, squarely inside the reported series.
 > For 70% to hold, the app would have to carry its entire cumulative total every year. It is not used here.
 > The extract counts are **not comparable on any basis**: "622,000+ extracts in a year" (May 2025) exceeds the

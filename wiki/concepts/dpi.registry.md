@@ -6,7 +6,7 @@ places: [MRT, COG, COD, BFA, BDI, AGO, ZAF, TZA, UGA, ETH, NGA, RWA, ZMB, XWA, B
 entities: [[sa-digital-id-regulations], [nida-tanzania], [mosip], [fayda-ethiopia-national-id], [digital-id-assessment], [nimc], [nigeria-id4d], [nida-rwanda], [sars], [smart-zambia-institute], [dzap], [wuri-programme], [ecowas], [anip-benin], [world-bank], [undp], [oneci], [maposte], [nissa-lesotho], [universal-dpi-safeguards-framework], [mg-ministry-digital-development], [opencrvs], [gates-foundation], [seychelles-national-addressing-system], [seychelles-postal-regulator], [dagl-togo], [otr-togo], [services-publics-togo], [ceni-togo], [novissi], [anats], [eswatini-youth-employment-opportunities-project]]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-18
+last_reviewed: 2026-07-20
 sources: [[2025-01-01 National Addressing System - Seychelles Postal Regulator], [2025-12-18 Urban addressing - modernisation effort], [2025-11-19 Georeferencing of land titles - a revolution for security and transparency in Togo], [2025-12-17 Togo Expands Public Service Digitisation With Online Civil Registry Platform], [2025-12-16 Digitalisation - civil status act requests now possible online], [2025-06-03 Chad, Mali, Senegal pursue birth registration reforms to close gaps], [2025-05-12 New World Bank Project Supports Job Creation for Eswatini's Youth], [2025-08-05 Robust DPI inevitable for Eswatini's economic, jobs boom - World Bank], [2025-04-02 Municipal elections in Togo - revision of electoral rolls begins 7 April], [2023-01-01 Case Study - G2PX in Togo, End-to-End Digital G2P (World Bank)], [2026-04-21 South Africa's digital ID gets a targeted launch date], [2026-05-29 Opinion South Africa's Digital Identity Regulations A Governance Crossroads], [2026-04-22 Tanzania seeks biometrics contractors for Phase II of national digital ID project], [2026-05-22 Uganda launches prototype program for digital ID and public infrastructure], [2026-05-12 Strengthening Fayda Ethiopia's improvement journey through the Digital ID Assessment], [2025-02-13 Digital ID necessity increases in Nigeria despite lingering challenges], [2026-03-16 Digital IDs How registration is progressing so far], [2026-04-03 Say goodbye to SARS tax numbers in South Africa], [2026-03-24 Zambia looking for MOSIP system integrator to support digital ID project], [2026-03-24 Zambia seeks partner for national digital ID system], [2026-03-30 ECOWAS, World Bank Advance West Africa Digital Identity], [2024-10-28 Benin receives 2,050 biometric terminals from World Bank to boost civil registration], [2025-11-01 Identification System in Benin Increasing Access to Services], [2026-01-19 Ivory Coast Launches MaPoste to Digitize Postal and Administrative Services], [2026-01-13 Cameroon intros digital system for civil documents], [2026-01-16 Lesotho's Digital Leap How Child-Centred Systems are Reshaping Social Protection], [2026-01-27 Madagascar Tests Biometric ID System, Aims to Register 2 Million People by Mid-2026], [2026-07-02 OpenCRVS v2.0 Product Launch Webinar - The Next Generation of Civil Registration], [2026-01-28 Home Affairs sets new record by delivering over four million Smart IDs in 2025], [2026-01-27 SA's Telcos, Banks At War With Govt Over 6,500% ID Verification Fee Hike], [2026-06-08-pr-cria-comissao-actualizacao-dados-cidadaos-maiores-bdcm], [2026-06-15-arranca-prova-de-vida-para-actualizacao-do-registo-eleitoral], [2026-07-01-impressao-do-bi-abrange-todas-as-provincias]]
 ---
 
@@ -284,6 +284,15 @@ maintained and queried.
   [[2026-06-08-pr-cria-comissao-actualizacao-dados-cidadaos-maiores-bdcm]],
   [[2026-06-15-arranca-prova-de-vida-para-actualizacao-do-registo-eleitoral]],
   [[2026-07-01-impressao-do-bi-abrange-todas-as-provincias]].
+- **[[SEN]] Senegal (2026) — two civil-registration counts measure different things.** They must not be
+  read as a regression: the EU-funded **Nékkal** programme reports legacy paper acts **scanned and indexed**
+  out of communal archives (**19m+ by Jun 2024**; **10m digitised / 20m indexed** at programme close,
+  2026-06-29, against a 30m target), whereas **ANEC's 15.3m (2026-07-13)** counts records **loaded into the
+  live national database (RNEC)** — a subset of the archive stock. Minister Moussa Bala Fofana drew the
+  distinction himself: "Plus de 19 millions d'actes… sont numérisés et indexés. *Une bonne partie*
+  accessible à partir du Registre national de l'état civil." A worked example of archive-digitisation
+  totals being mistaken for live-database load. *Note ANEC's framing is* actes d'état civil *— all
+  civil-status events, not "birth records" as some coverage headlines it.* See [[senegal--dpi-id]].
 
 ## Places
 

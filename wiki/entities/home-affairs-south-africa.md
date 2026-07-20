@@ -6,8 +6,8 @@ places: [ZAF]
 topics: [dpi.id, dpi.govtech, dpi.registry, gov.protect, include.access]
 lens: []
 status: active
-last_reviewed: 2026-07-12
-sources: [[2026-03-09 Home affairs launches Smart ID partnership with banks], [2026-01-28 Home Affairs sets new record by delivering over four million Smart IDs in 2025], [2026-01-27 SA's Telcos, Banks At War With Govt Over 6,500% ID Verification Fee Hike], [2026-01-28 Bad news about South Africa's newest ID book plan]]
+last_reviewed: 2026-07-20
+sources: [[2026-03-09 Home affairs launches Smart ID partnership with banks], [2026-01-28 Home Affairs sets new record by delivering over four million Smart IDs in 2025], [2026-01-27 SA's Telcos, Banks At War With Govt Over 6,500% ID Verification Fee Hike], [2026-01-28 Bad news about South Africa's newest ID book plan], [2025-04-03-sars-collaboration-agreements-dha-bma-gpw], [2026-03-30-dha-annual-performance-plan-2026-27-digital-identity]]
 ---
 
 The **Department of Home Affairs (DHA)** is the South African government body responsible for civil registration, national identity and immigration. It is the custodian of the **National Population Register** and the issuing authority for the **Smart ID Card**, the green ID book it is phasing out, birth and marriage certificates, and — through the [[south-africa-eta]] — visas and travel authorisations. Under minister **Leon Schreiber** (of the Government of National Unity), the department has made digital transformation the centre of its programme, branded **"Home Affairs @ home"**, with the stated ambition that every South African can access DHA services via phone, computer or a trusted partner institution, and eventually without carrying physical documents at all.

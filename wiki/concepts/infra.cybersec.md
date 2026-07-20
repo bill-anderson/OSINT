@@ -6,7 +6,7 @@ places: [MRT, ZMB, ZAF, XAF, NGA, MOZ, RWA, BEN, GHA, KEN, MUS, LBR, XEA, XSS, C
 entities: [[dzap], [research-ict-africa], [smart-africa], [afnic], [nimc], [mozambique-cyber-security-law], [realtyme], [smart-africa-realtyme-partnership], [sadx], [sa-digital-id-regulations], [popia], [world-bank], [mosip], [id4africa], [eac], [antic-cameroon], [patnuc], [bf-ministry-digital-transition], [alliance-of-sahel-states], [anssi-mali], [agetic], [intic-mozambique], [cybastion], [securoute], [asin-benin], [zte], [hikvision], [huawei], [bio-key-international], [runlevel], [simo-mozambique], [kenya-cyber-resilience-project], [expertise-france], [estdev], [european-union], [nira-nigeria], [nitda]]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-19
+last_reviewed: 2026-07-20
 sources: [[2025-09-11 DZAP World Bank PAD], [2025-01-01 South African Digital Sovereignty at the Crossroad of Securitization and Development (Chapter 4) - Digital Sovereignty in the BRICS Countries], [2026-07-09 Smart Africa and AFNIC Partner to Strengthen Africa's Internet Infrastructure], [2026-07-09 NIMC Act 2026 Director-General Coker-Odusote Launches 8,809-Ward Digital ID Drive], [2026-04-17 Mozambique parliament unanimously approves Cyber Security Law], [2026-04-16 Smart Africa, RealTyme join forces for data sovereignty], [2026-04-27 Smart Africa drives cross-border data interoperability through SADX Technical Mission], [2026-04-21 South Africa's digital ID gets a targeted launch date], [2026-05-16 World Bank, African DPAs outline formula for trusted digital identity, DPI], [2026-01-22 Cameroon boosts cyber defense systems], [2026-01-27 Cameroon deploys cybersecurity system to protect DPI, boost digital trust], [2026-01-22 Burkina Faso aims for digital sovereignty with infrastructure supervision center], [2026-02-06 Mozambique intros data breach platform], [2026-01-27 Cybastion Advances Digital Government Solutions, Supports Benin's SECUROUTE Infrastructure Upgrade], [2026-03-01 Smart City Surveillance in Africa (IDS 2026)], [2026-02-24 BIO-key and RunLevel Deploy Biometric IAM Across Mozambique's National Payments Network], [2026-01-27 Kenya launches project to boost cyber security], [2026-01-21 How foreign domains compromise digital identity]]
 ---
 
@@ -230,6 +230,24 @@ how "cyber threat" is defined and acted on.
   [[2025-12-09-angola-unveils-national-cybersecurity-strategy]],
   [[2026-07-08-deputados-suspendem-discussao-lei-da-ciberseguranca]],
   [[2026-02-26-sinse-adquiriu-spyware-predator-para-espiar-jornalista]].
+- **[[AGO]] Angola — the decree track outran the legislature.** Angola's National Cybersecurity Strategy
+  was **enacted by Presidential Decree 256/25**, approved in Council of Ministers **2025-10-27**, signed
+  2025-11-26 and in force on publication **2025-12-03**; **DP 258/25** created the **Conselho Nacional de
+  Cibersegurança** the same day and **DP 263/25** the **Centro Nacional de Cibersegurança** on 2025-12-10.
+  The parallel **bill** was suspended in committee **2026-07-07** over its preamble and chapters 1–2, with
+  no resumption date — so the policy architecture exists by decree while the **binding regime (obligations,
+  incident notification, sanctions) does not**. See [[angola--infra-cybersec]]. Sources:
+  [[2025-12-03-decreto-presidencial-256-25-estrategia-nacional-ciberseguranca-angola]],
+  [[2025-12-03-decreto-presidencial-258-25-conselho-nacional-ciberseguranca-angola]].
+- **Integrity ≠ confidentiality ([[SEN]] Senegal, 2026).** After the January 2026 breach of Senegal's DAF,
+  official communiqués (**2026-02-05**, **2026-04-07**) asserted only that the **integrity** of personal data
+  "demeure intacte" — never denying exfiltration, and silent on confidentiality and volume, while an
+  independent researcher confirmed genuine birth records and ID cards in the leaked samples. **Treat "data
+  integrity intact" as a non-denial** unless confidentiality is addressed. See
+  [[senegal--infra-cybersec]].
+- **Attacker-claimed volumes are one claim, not many.** The Senegal DAF "**139TB vs 139GB**" split is the
+  same crew's figure in two artefacts — a leak-site posting and the ransom note — so the smaller is the more
+  credible and **neither is verified**. Do not present intra-actor variance as a corroborated range.
 
 ## Places
 

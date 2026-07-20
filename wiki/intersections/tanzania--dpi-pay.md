@@ -5,11 +5,11 @@ place: TZA
 topic: dpi.pay
 places: [TZA]
 topics: [dpi.pay, dpi.exchange, include.access, gov.policy, gov.regional, finance.new, finance.mou, data.statistics]
-entities: [[tips-tanzania], [bank-of-tanzania], [vodacom-tanzania], [mpesa], [nala], [paypal], [eac], [rswitch-rwanda]]
+entities: [[tips-tanzania], [bank-of-tanzania], [vodacom-tanzania], [mpesa], [nala], [paypal], [eac], [rswitch-rwanda], [jamii-malipo], [jamii-kadi], [jamii-x-change], [jamii-namba], [micit-tanzania], [ega-tanzania], [digital-tanzania-project], [airtel-money], [mohammed-khamis-abdulla], [kassim-majaliwa]]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-19
-sources: [[2025-05-15-tips-transforms-payments-financial-inclusion], [2025-12-25-malipo-ya-kielektroniki-muhimu-uchumi], [2026-04-03-vodacom-tanzania-mpesa-fintech-2-platform], [2026-04-28-interoperability-costs-cut-113-agencies], [2026-05-26-vodacom-mpesa-tanzania-paypal-alliance], [2026-05-29-nala-raises-50m-payment-rails], [2026-06-24-digital-payment-tanzania-cash-lite-economy], [2026-07-10-eac-tanzania-rwanda-cross-border-payments]]
+last_reviewed: 2026-07-20
+sources: [[2025-05-15-tips-transforms-payments-financial-inclusion], [2025-12-25-malipo-ya-kielektroniki-muhimu-uchumi], [2026-04-03-vodacom-tanzania-mpesa-fintech-2-platform], [2026-04-28-interoperability-costs-cut-113-agencies], [2026-05-26-vodacom-mpesa-tanzania-paypal-alliance], [2026-05-29-nala-raises-50m-payment-rails], [2026-06-24-digital-payment-tanzania-cash-lite-economy], [2026-07-10-eac-tanzania-rwanda-cross-border-payments], [2024-08-27-mfumo-jamii-x-change-kuunganisha-mifumo-tehama], [2024-10-18-hakikisheni-mnapata-namba-ya-nida-jamii-namba-majaliwa]]
 ---
 
 # Tanzania × Digital Payments & Fintech
@@ -29,6 +29,30 @@ core, private fintech (M-Pesa, NALA) is moving up the value chain into infrastru
   29.0tn a year earlier); **mobile transactions TZS 23tn** (from 18tn); **TIPS TZS 4.9tn** (from 2.7tn) —
   the TIPS jump driven partly by **payments to government institutions**. Dated figures, not bare present.
   Source: [[2025-12-25-malipo-ya-kielektroniki-muhimu-uchumi]].
+
+## Jamii Malipo — announced, not built; and not a BoT system
+
+The **thinnest thread in the Jamii stack**, and the one most often mis-described. As of **2024-08-27**,
+MICIT Permanent Secretary **Mohammed Khamis Abdulla** described **Jamii Malipo** as *a programme still
+to be created* — an application to be built and connected to a **Jamii Kadi** (a single electronic card
+consolidating bank cards, national IDs, travel cards and insurance) and, through it, to
+**[[tips-tanzania|TIPS]]**. The stated ambition is transacting from a bank account, **[[mpesa|M-Pesa]]**,
+Airtel Money, [[paypal]] and others via the card, a phone or a computer. Source:
+[[2024-08-27-mfumo-jamii-x-change-kuunganisha-mifumo-tehama]]. [[dpi.exchange]] · [[dpi.id]]
+
+**No launch date, no operator confirmation, and no source held gives one since.** Two guards follow:
+
+- **Jamii Malipo is not a Bank of Tanzania system.** On the ministry's own record it sits with
+  **[[micit-tanzania|MICIT]] / [[ega-tanzania|e-GA]]** under the
+  **[[digital-tanzania-project|Digital Tanzania Project]]**; [[bank-of-tanzania|BoT]] owns
+  **[[tips-tanzania|TIPS]]**, which Jamii Malipo would *connect to*. A widely-circulated donor case
+  study asserts BoT oversight — do not absorb it (see the guard on [[tanzania--dpi-id]]).
+- **Jamii Malipo ≠ TIPS.** TIPS is live and carrying volume (above); Jamii Malipo is a consumer-facing
+  application announced in 2024 that no held source shows in operation.
+
+Related: PM **Kassim Majaliwa** (event 2024-10-17) projected payment **by NIDA number** in place of
+cash, as part of the same digital-economy push. Source:
+[[2024-10-18-hakikisheni-mnapata-namba-ya-nida-jamii-namba-majaliwa]].
 
 ## Competition and fee caps
 

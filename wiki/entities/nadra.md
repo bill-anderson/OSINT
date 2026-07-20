@@ -6,7 +6,8 @@ places: [XGL, SOM]
 topics: [dpi.id, dpi.registry]
 lens: [sovereignty, colonialism]
 status: active
-last_reviewed: 2026-07-16
+last_reviewed: 2026-07-20
+sources: [[2025-03-13-nadra-somalia-nid-data-centre-infrastructure]]
 ---
 
 # NADRA (National Database & Registration Authority)

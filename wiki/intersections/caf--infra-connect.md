@@ -5,11 +5,11 @@ place: CAF
 topic: infra.connect
 places: [CAF]
 topics: [infra.connect, include.divides, infra.energy, gov.regional, geopol.usa]
-entities: [[orange-centrafrique], [socatel], [arcep-central-african-republic], [orange], [starlink-car], [mtn-group]]
+entities: [[orange-centrafrique], [socatel], [arcep-central-african-republic], [orange], [starlink-car], [mtn-group], [justin-gourna-zacko], [datareportal], [kepios], [itu]]
 lens: [colonialism, sovereignty]
 status: active
-last_reviewed: 2026-07-18
-sources: [[2017-01-01 ITU Country Profile - Central African Republic], [2024-02-23 Digital 2024 - The Central African Republic], [2024-11-11 Orange secures 4G license in Central African Republic], [2025-05-22 RCA - Touadera mise sur la transformation numerique pour revitaliser l'economie], [2025-05-19-rca-orange-lance-la-4g-wearetech], [2025-12-22-telecel-centrafrique-4g-licence-telecelgroup], [2026-04-21-universal-service-fund-2026-arcep-budget-agenceecofin], [2026-05-25-south-sudan-internet-interconnection-mtn-africabusinessinsight]]
+last_reviewed: 2026-07-20
+sources: [[2017-01-01 ITU Country Profile - Central African Republic], [2024-02-23 Digital 2024 - The Central African Republic], [2024-11-11 Orange secures 4G license in Central African Republic], [2025-05-22 RCA - Touadera mise sur la transformation numerique pour revitaliser l'economie], [2025-05-19-rca-orange-lance-la-4g-wearetech], [2025-12-22-telecel-centrafrique-4g-licence-telecelgroup], [2026-04-21-universal-service-fund-2026-arcep-budget-agenceecofin], [2026-05-25-south-sudan-internet-interconnection-mtn-africabusinessinsight], [2025-07-30-car-taux-penetration-internet-30-pourcent], [2025-03-03-datareportal-digital-2025-central-african-republic], [2025-11-08-datareportal-digital-2026-central-african-republic]]
 ---
 
 # Central African Republic × Connectivity
@@ -27,11 +27,14 @@ by an inadequate electricity grid. Connectivity is essentially **mobile-only**, 
 estimate. Two earlier figures should not be used: Kepios's **10.6% (Jan 2024)** is stale, and its
 **15.5% (Jan 2025)** has been **withdrawn by the publisher** (its Digital 2026 edition reports
 *fewer* users against a larger population, which cannot be real change; Kepios warns explicitly
-against computing change across its editions). Government statements of **~30% (Jul 2025)** are a
-**network-coverage** figure, not usage: the Minister of Digital Economy described it rising to 50%
-then 70–80% as backbone fibre reaches new regions, against a target of 70% *couverture nationale* —
-no survey, no sample, no population denominator. A usage rate cannot be moved by laying transit
-fibre. GSMA puts 2G/3G population coverage at ~60% (2024) and mobile connections at 44.8% of
+against computing change across its editions — see [[datareportal]] on the two dating traps).
+Government statements of **~30% (Jul 2025)** are a **network-coverage** figure, not usage: in the
+primary at the root of that number, Minister **[[justin-gourna-zacko]]** describes the rate rising
+to **50%** with fibre interconnections taken to **Congo (Ouesso)** and **Cameroon (Kenzo/Kentzou)**
+and to **"70% 80%"** once the build reaches the **Centre-Est**, naming it a *"taux de connectivité"*
+against a target of **70% *couverture nationale*** — no survey, no sample, no population
+denominator. A usage rate cannot be moved by laying transit fibre.
+([[2025-07-30-car-taux-penetration-internet-30-pourcent]].) GSMA puts 2G/3G population coverage at ~60% (2024) and mobile connections at 44.8% of
 population (Oct 2025) — both far above any usage figure. (Resolved 2026-07-20.) The **[[greater-internet-freedom]]** baseline earlier put
 telecom territorial coverage at ~51%. Internet is supplied **entirely by mobile operators** —
 **[[orange-centrafrique]]** (since 2007), **Telecel** (Econet Wireless group, the oldest, 1996),
@@ -96,3 +99,6 @@ Place: [[CAF]] · Concepts: [[infra.connect]] · [[include.divides]] · [[infra.
 - [[2026-05-25-south-sudan-internet-interconnection-mtn-africabusinessinsight]]
 - [[2026-04-24-bocaranga-first-free-public-wifi-russian-cooperation-ndjonisango]]
 - [[2026-02-03-gourna-zacko-interview-desenclavement-numerique-radiondekeluka]]
+- [[2025-07-30-car-taux-penetration-internet-30-pourcent]]
+- [[2025-03-03-datareportal-digital-2025-central-african-republic]]
+- [[2025-11-08-datareportal-digital-2026-central-african-republic]]

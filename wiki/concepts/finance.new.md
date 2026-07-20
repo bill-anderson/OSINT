@@ -6,7 +6,7 @@ places: [MRT, COG, BDI, ZMB, XAF, ZAF, NGA, KEN, NAM, MWI, GHA, XSS, RWA, SWZ, E
 entities: [[dzap], [world-bank], [idea-mpa], [cassava-technologies], [us-dfc], [seacom], [mtn-group], [airtel-africa], [china-namibia-smart-city], [dmap], [nigeria-id4d], [google], [uae], [uae-ai-for-development-initiative], [ifc], [ifc-airtel-africa-loan], [microsoft-g42-kenya-datacenter], [partner2connect], [itu], [undp], [african-development-bank], [nafa], [sidi-ould-tah], [kasi-cloud], [nsia], [microsoft-sa-2026-expansion], [nida-tanzania], [nucap], [orange], [via-africa-cable], [peach-payments], [google-for-startups-accelerator-africa], [equinix], [equinix-sa-438m-expansion], [mtn-sa-2026-investment], [ghana-national-ai-strategy], [amazon-web-services], [globalstar], [amazon-globalstar-acquisition], [wingu-africa], [nigcomsat], [america-first-global-health-strategy], [us-kenya-health-framework], [zimbabwe-us-health-mou], [ebrd], [ebrd-yas-network-loan], [yas], [ilx-fund], [tunisie-telecom], [medusa-submarine-cable], [mtn-ghana], [ralph-mupita], [wardip], [ecowas], [african-union], [smart-africa], [finnfund], [crei-south-sudan], [margins-id-group], [gambia-national-id-contract], [payservices], [payservices-drc-banking-deal], [zambia-us-health-mou], [horizon1000], [gates-foundation], [openai], [kenya-cyber-resilience-project], [expertise-france], [european-union], [raxio-group]]
 lens: [sovereignty, colonialism]
 status: active
-last_reviewed: 2026-07-16
+last_reviewed: 2026-07-20
 sources: [[2025-09-11 DZAP World Bank PAD], [2026-06-23 Africa's Data Centre Boom Where The New Facilities Are Being Built], [2026-07-09 Seacom plans 25,000km subsea cable from France to Singapore and South Africa], [2026-07-08 China funds Namibia digital infrastructure], [2026-07-07 Malawi integrates immigration e-services], [2026-07-09 Nigeria seeks support to operationalize new digital ID law as NIN tops 136M], [2026-07-07 Ghana and UNDP Strengthen Partnership on Digital Transformation Projects], [2026-07-01 Google has exceeded $1 billion Africa investment target], [2025-11-22 UAE announces $1 billion initiative to expand AI in Africa], [2026-07-01 IFC and Airtel Africa Expand Digital Connectivity to Strengthen Jobs and Inclusion], [2026-07-09 Microsoft and G42 data center in Kenya stalled due to lack of power capacity], [2026-07-09 ITU's Partner2Connect crosses $100 billion in global connectivity pledges], [2026-01-01 Digital Public Infrastructure in Africa - UNDP], [2026-02-26 The AfDB's push for African financial sovereignty, and a tech investment rebound], [2026-05-26 AfDB says Africa must fund its own growth as aid model frays], [2026-02-26 Lagos Is Getting a $250 Million Hyperscale Data Center. Here's Why Nigeria Still Can't Power the Cloud], [2026-04-17 Microsoft picks South Africa for $329 million expansion in cloud infrastructure and AI training], [2026-04-22 Tanzania seeks biometrics contractors for Phase II of national digital ID project], [2026-06-04 Chinese bank backs Nigeria towers project], [2026-05-23 Orange-backed subsea cable to connect Nigeria, 19 other countries], [2026-05-18 Mauritius emerges as an African payments hub], [2026-04-21 Meet the 15 Startups Joining the Google for Startups Accelerator Africa Class 10], [2026-04-01 US data centre firm Equinix is investing $438 million in South Africa], [2026-04-01 US tech giant from Silicon Valley buys R890 million worth of land in South Africa], [2026-04-01 MTN to invest $1.3B in South Africa by 2028], [2026-04-03 Ghana approves $250M AI Hub & National AI Strategy], [2026-04-14 Amazon's $9bn satellite deal set to benefit Africa], [2026-04-01 Wingu Africa debuts cloud exchange platform in Ethiopia], [2026-04-01 Nigeria satellite revenue soars to $2 billion], [2026-03-27 Kenya's Health Deal Is a Stress Test for the America First Global Health Strategy], [2026-02-24 ⁠Zimbabwe rejects $350 million US health funding deal warns It threatens national sovereignty], [2026-01-19 EBRD and Tunisie Telecom Partner on €190 Million Digital Infrastructure Upgrade], [2026-07-13 EBRD Extends €270m Financing to Yas for Kenya, Senegal Network Expansion], [2026-02-23 MTN Ghana secures $1.1bn boost as AI push deepens], [2026-03-16 New $137M initiative to enable digital service access for millions in three ECOWAS nations], [2026-02-20 South Sudan green network gets $5m boost], [2026-01-20 Margins takes Ghana's ID success to The Gambia], [2026-01-19 US fintech sues DR Congo for $400m over failed banking deal], [2026-02-25 US accused of 'shameless exploitation' over proposed Zambian health aid deal], [2026-02-26 Zambia rejects U.S. health aid over mining partnership ties], [2025-12-04 Is it a bird Is it plane No, Jim, it's an African mobile operator, but not as we know it 9], [2026-05-19 Trying to make sense of who will use Artificial Intelligence in Africa and how – Going beyond the hype], [2026-07-14 Raxio raises data centre funding]]
 # Source-linkage: P2C $100bn connectivity pledges (vs $2.6–2.8tn need); UNDP's call for
 # African-led DPI investment. Prose enrichment pending.
@@ -231,6 +231,29 @@ Investment flowing into African digital transformation. (A *specific* transactio
   [[infra.store]]. Sources:
   [[2025-12-04 Is it a bird Is it plane No, Jim, it's an African mobile operator, but not as we know it 9]],
   [[2026-05-19 Trying to make sense of who will use Artificial Intelligence in Africa and how – Going beyond the hype]].
+- **The trackers are not commensurable (resolved 2026-07-20).** **Never sum, average or cross-check**
+  African funding trackers. **Partech** counts **equity plus debt, by deal**, across a wide tech universe
+  (**US$4.1bn / 570 deals**, +25%, published 2026-01-22 — equity US$2.41bn/462, debt US$1.64bn/107);
+  **[[disrupt-africa]]** publishes a **self-declared minimum floor**, **by funded venture**, restricted to a
+  narrow startup test (**US$1,636,700,000 / 178 startups**, +46.2%, 2026-02-03). **Two traps.** Their
+  big-four shares only *appear* to agree — Disrupt Africa's **72.5% is by count** (129/178) against
+  Partech's **72% by value**, and its by-value share is **88%**, a **16-point divergence**. And Partech's
+  **debt subtotal (US$1.64bn)** equals Disrupt Africa's **total (US$1.6367bn)** by **coincidence, not
+  reconciliation**. The gap localises to **debt megadeals to mature companies**: Kenya is Partech's #1
+  (US$1.04bn, 48% debt) but Disrupt Africa's #4 (US$273.2m), 3.8× apart, while equity-shaped Nigeria differs
+  by only 1.2×. *CC recommends* — a curation call, not settled — citing Partech as the headline series and
+  retaining Disrupt Africa as a named floor series. **Never write a bare "Africa raised $X in 2025".**
+  Sources: [[2026-01-22-partech-africa-tech-vc-report-2025]],
+  [[2026-02-03-disrupt-africa-tech-startups-funding-report-2025]].
+- **Target ≠ committed ≠ first close.** The [[botswana-tech-fund|Botswana Tech Fund]]'s own launch release
+  (**2026-04-21**) says "a **targeted** £50 million… with a first close in Q2/2026"; coverage restated the
+  target as a raised "$67.5m fund". Committed was **£10m**, first close **£5m** (as of 2026-04-27). Source:
+  [[2026-04-21-botswana-tech-fund-launch-release]].
+- **[[MWI]] Malawi (Oct 2025) — donor finance shaping a regulator's revenue model.** The World
+  Bank-financed [[dmap]] tendered consultancy to operationalise the Data Protection Authority inside MACRA:
+  5 experts, 100 staff-days, 16 weeks, including a **business plan targeting DPA cost recovery within five
+  years** and a proposed **scale of fines**. Not just capacity but the terms on which a sovereign regulator
+  will fund itself. Source: [[2025-10-01-dmap-tor-operationalization-data-protection-authority]].
 
 ## Places
 

@@ -6,8 +6,8 @@ places: [AGO]
 topics: [dpi.id, dpi.registry, gov.legislate, include.access]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-17
-sources: [[2025-11-26-quase-metade-dos-angolanos-sem-bilhete-de-identidade], [2026-03-17-governo-fixa-bi-original-para-registo-de-obitos], [2026-04-29-bi-documento-unico-valido-identificacao], [2026-07-01-impressao-do-bi-abrange-todas-as-provincias], [2026-07-02-nj-bi-tratado-a-partir-do-domicilio-mediante-taxa]]
+last_reviewed: 2026-07-20
+sources: [[2025-11-26-quase-metade-dos-angolanos-sem-bilhete-de-identidade], [2026-03-17-governo-fixa-bi-original-para-registo-de-obitos], [2026-04-29-bi-documento-unico-valido-identificacao], [2026-07-01-impressao-do-bi-abrange-todas-as-provincias], [2026-07-02-nj-bi-tratado-a-partir-do-domicilio-mediante-taxa], [2026-02-24-angop-luanda-censo-relatorio-provincial]]
 ---
 
 # Bilhete de Identidade (BI) — Angola

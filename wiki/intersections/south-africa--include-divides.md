@@ -5,11 +5,11 @@ place: ZAF
 topic: include.divides
 places: [ZAF]
 topics: [include.divides, include.access, dpi.pay, dpi.id, gov.legislate, capacity.literacy, digital.rural]
-entities: [[sassa], [institute-for-economic-justice], [paythegrants], [national-treasury-south-africa], [home-affairs-south-africa], [themba-matlou], [leon-schreiber], [solly-malatsi]]
+entities: [[sassa], [institute-for-economic-justice], [paythegrants], [national-treasury-south-africa], [home-affairs-south-africa], [themba-matlou], [leon-schreiber], [solly-malatsi], [brenton-van-vrede], [sisisi-tolashe], [tsakeriwa-chauke], [alexandra-abrahams], [auditor-general-south-africa], [postbank]]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-17
-sources: [[2026-01-28 State is blocking access to SASSA grants, argue activists], [2026-01-19 SASSA on qualification criteria for COVID-19 SRD], [2026-01-28 Home Affairs sets new record by delivering over four million Smart IDs in 2025], [2025-03-03 Digital 2025 - South Africa (DataReportal)], [2025-04-24 New ID verification process for Sassa grants - Here's who's affected], [2025-08-25 SASSA to Launch Mandatory Biometric Enrollment for Grant Beneficiaries on September 1], [2026-07-13 Digital-first must not become digital-only, says Malatsi]]
+last_reviewed: 2026-07-20
+sources: [[2026-01-28 State is blocking access to SASSA grants, argue activists], [2026-01-19 SASSA on qualification criteria for COVID-19 SRD], [2026-01-28 Home Affairs sets new record by delivering over four million Smart IDs in 2025], [2025-03-03 Digital 2025 - South Africa (DataReportal)], [2025-04-24 New ID verification process for Sassa grants - Here's who's affected], [2025-08-25 SASSA to Launch Mandatory Biometric Enrollment for Grant Beneficiaries on September 1], [2026-07-13 Digital-first must not become digital-only, says Malatsi], [2025-08-28-sassa-biometric-enrolment-new-beneficiaries-portfolio-committee], [2025-09-18-sassa-beneficiaries-take-up-biometric-enrolment-campaign], [2026-05-18-parliamentary-question-nw1941-sassa-biometric-verification]]
 ---
 
 # South Africa × Digital Divides (`ZAF` × `include.divides`)
@@ -123,6 +123,37 @@ triggers it (acting CEO van Vrede to the Portfolio Committee, 2025-08-27). *Corr
 Development* [2025] ZAGPPHC 29, on **SRD-grant** exclusion barriers — it is not a challenge to biometric
 enrolment, which post-dates the judgment. Thematically adjacent, legally distinct. See [[dpi.id]],
 [[south-africa--dpi-id]].
+
+**The scope limit, from the official record.** Acting CEO **Brenton van Vrede** to the Portfolio
+Committee on Social Development, **2025-08-27**: "We are **not** saying everyone must come in and be
+biometrically enrolled. We want to make sure that every **new** grant application from the first of
+September has biometric enrolments"
+([[2025-08-28-sassa-biometric-enrolment-new-beneficiaries-portfolio-committee]]). Minister Tolashe
+framed it as the answer to MPs' and the **Auditor-General's** findings that grants were paid to the
+wrong people. **The stated driver is fraud control, not service improvement** — which is why the
+inclusion cost lands where it does.
+
+**Uptake and the exclusion tail, dated.** **42,000+ enrolled across 432 local offices** in the first
+~2 weeks ([[themba-matlou]], 2025-09-17,
+[[2025-09-18-sassa-beneficiaries-take-up-biometric-enrolment-campaign]]); **997,379 cumulative to
+2026-03-11** against **19.05m recipients (end-Jan 2026)** — **~5%**, consistent with a flow-based
+scope rather than a stalled universal rollout. By Q3 FY2025/26, **67,868 grants suspended** and
+**48,949 lapsed** (Q1–Q3) for failure to complete review or verification, **overwhelmingly Child
+Support Grants** (37,825 of the suspensions; 42,748 of the lapses), following income testing of
+~**6m** CSG recipients conducted with banks.
+
+**Where the divide actually bites: the facial-recognition channel.** SASSA reports **zero**
+complaints about *fingerprint* enrolment through any official channel, but **7,779** about its
+**electronic facial biometric system** on the online application portals — attributed to poor
+lighting, unstable network connectivity, or **having no biometric image on file at Home Affairs**,
+which is the case for anyone who has never applied for a smart ID. **The remedy offered is to travel
+to a local office and use fingerprints.** So the online channel fails hardest for exactly the
+cohort — no smart ID, poor connectivity — that the in-person channel was digitised to spare, and the
+fallback is the queue Abrahams described as under-resourced. **A digital front door that routes its
+failures back to the physical one is not, for those users, digitisation.** Source (all figures in
+this paragraph and the previous):
+[[2026-05-18-parliamentary-question-nw1941-sassa-biometric-verification]] (Minister's reply to
+NW1941).
 
 ## Inclusion claimed and exclusion litigated, the same day
 

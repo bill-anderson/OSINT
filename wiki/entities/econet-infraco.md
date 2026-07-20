@@ -7,7 +7,7 @@ topics: [infra.store, infra.energy, infra.connect, tech.industry, finance.new]
 entities: [[econet-wireless-zimbabwe], [strive-masiyiwa], [victoria-falls-stock-exchange]]
 status: active
 last_reviewed: 2026-07-20
-sources: [[2025-12-19 Econet approves ambitious Harare IT park data centre], [2025-12-22 Zimbabwe's Econet InfraCo announces industrial park plans]]
+sources: [[2025-12-19 Econet approves ambitious Harare IT park data centre], [2025-12-22 Zimbabwe's Econet InfraCo announces industrial park plans], [2025-12-15-econet-wireless-zimbabwe-further-cautionary-announcement], [2025-12-24-econet-notice-completion-infrastructure-restructuring], [2026-03-26-econet-infraco-supplementary-pre-listing-statement]]
 ---
 
 # Econet InfraCo
@@ -24,7 +24,7 @@ InfraCo sits under Econet Wireless *Zimbabwe***, so InfraCo is parented to
 [[econet-wireless-zimbabwe]], not the Group. The formerly conflated `econet-wireless` page has been
 split into those two entities and is now a disambiguation pointer ([[econet-wireless]]).
 
-## ⚠ Open contradiction — is InfraCo new?
+## Was InfraCo new? — resolved
 
 - **ITWeb Africa (2025-12-19):** InfraCo is Econet's **"newly founded** tower and
   infrastructure firm".
@@ -41,6 +41,56 @@ concern from **EWPL and other wholly owned SPVs** under a Scheme of Reconstructi
 ITWeb's "newly founded" is wrong; Developing Telecoms is directionally right on maturity but imprecise on
 structure. It is a subsidiary of **[[econet-wireless-zimbabwe]]**, not of Econet Group/Global, and listed
 on the **VFEX on 2026-03-31** (INFR.VX, ~US$1bn) with EWZL retaining 70%.
+
+**The decisive document is EWZL's own stakeholder notice of 2025-12-24**, which states that the Group
+"completed a reorganisation that resulted in the consolidation of its real estate (immovable properties)
+and passive telecommunications infrastructure assets into a dedicated real estate entity, **Distributed
+Power Africa (Private) Limited, trading as Econet InfraCo**", and that those assets were "**previously held
+by EWPL and other wholly owned SPVs**", transferred **as a going concern** under a **Scheme of
+Reconstruction Agreement**. Ownership and control did not change; EWZL remains beneficial owner, and where
+title still stands in another SPV's name it is held **as nominee or in trust** for InfraCo. Source:
+[[2025-12-24-econet-notice-completion-infrastructure-restructuring]].
+
+*Minor residual, not resolved:* the **2025-12-15** cautionary announcement names the vehicle "**Econet
+Infrastructure Company Limited**", a name that appears nowhere in the record after 2025-12-24. The most
+economical reading is an intended name dropped once DPA was chosen as the vehicle, but the wiki does not
+hold a document saying so. Source:
+[[2025-12-15-econet-wireless-zimbabwe-further-cautionary-announcement]].
+
+## Conversion, listing and shareholding (2026)
+
+- **Conversion private → public.** The Company completed its conversion from a private to a public
+  company; a **new Certificate of Incorporation was issued 2026-03-24** under registration number
+  **74120A02122025**. A **name change from Distributed Power Africa Limited to Econet InfraCo Limited**
+  was still in train as at 2026-03-26, expected to complete before trading began.
+- **Listing.** Unconditional approval for the **VFEX** listing (by way of introduction) was confirmed, with
+  trading expected to commence **2026-03-31**. The Original Pre-Listing Statement is dated **2026-02-04**,
+  as is the circular to EWZL shareholders.
+- **Shareholding.** After the **Exit Offer**, EWZL held **2,848,982,817 shares (95.215%)** and exiting
+  shareholders **143,180,386 (4.785%)**. A **dividend in specie of 754,468,575 InfraCo shares** to EWZL
+  shareholders on the register at **2026-03-27** takes the final structure to **70.000% EWZL / 25.215%
+  Econet shareholders / 4.785% exiting shareholders**.
+- **Share capital (2026-03-26).** Authorised raised to **5,000,000,000** ordinary shares (from
+  3,000,000,000); issued **2,992,163,203**, unchanged.
+- **CEO.** **Fayaz King** appointed Chief Executive Officer effective **2026-03-01** — 30+ years in
+  telecoms/IT, formerly Assistant Secretary-General and Deputy Executive Director, Field Results and
+  Innovation at **[[unicef]]**, and **COO of Econet Wireless Zimbabwe (2015–2019)**. *(He succeeds Douglas
+  Mboweni, who announced the Harare park as CEO in Dec 2025.)*
+- **Stated business focus (2026-03-26).** Real estate and infrastructure asset ownership; passive
+  telecommunications infrastructure; power and energy solutions including renewable energy.
+
+Source for this section:
+[[2026-03-26-econet-infraco-supplementary-pre-listing-statement]].
+
+## The delisting that drove it (2025-12-15)
+
+EWZL's board resolved to pursue a **voluntary delisting from the [[zimbabwe-stock-exchange]]** under
+Section 11.5 of the ZSE Listings Requirements, with a **voluntary Exit Offer** settled **partly in cash and
+partly in InfraCo shares** before delisting took effect. The stated reason is a valuation gap: EWZL "has
+traded at a significant discount to its peers across Africa which trade at **6–8x EV/EBITDA**", peers
+having already separated and realised value from their towers. Post-delisting, EWZL's Memorandum and
+Articles were to be **amended to reinstate shareholder rights of pre-emption** removed on listing. Source:
+[[2025-12-15-econet-wireless-zimbabwe-further-cautionary-announcement]].
 
 ## The Harare industrial and IT park (as of December 2025)
 
@@ -71,21 +121,33 @@ while Econet **still owns its towers and other passive equipment** (as of Decemb
 
 ## Listing
 
-InfraCo is to be **listed on the [[victoria-falls-stock-exchange]], which accepts only US
-dollars**, in order to attract international investors. See [[finance.new]].
+InfraCo was **listed on the [[victoria-falls-stock-exchange]], which accepts only US dollars**, in order
+to attract international investors — trading expected to commence **2026-03-31** (2026-03-26). EWZL's own
+rationale (2025-12-15) is that infrastructure assets "represent a different class of investment, one that
+is better understood and valued within USD-based property and infrastructure markets", citing the higher
+P/E multiples at which listed real estate and infrastructure companies trade on VFEX. See [[finance.new]].
 
 ## Provenance
 
-Both accounts are secondary trade press. The Developing Telecoms piece is explicitly
-downstream and hedged ("local newspaper reports say", "apparently") — attribute.
+The two December 2025 trade-press accounts are secondary; the Developing Telecoms piece is explicitly
+downstream and hedged ("local newspaper reports say", "apparently") — attribute. The corporate structure,
+dates and shareholding above rest instead on **three company primaries** — EWZL's cautionary announcement
+(2025-12-15), its stakeholder notice (2025-12-24) and InfraCo's own Supplementary Pre-Listing Statement
+(2026-03-26). *The Original Pre-Listing Statement (2026-02-04) and the shareholder circular of the same
+date are referenced by the supplementary but **are not held**.*
 
 ## Related
 
 - [[econet-wireless-zimbabwe]] · [[strive-masiyiwa]] · [[victoria-falls-stock-exchange]] ·
-  [[cassava-technologies]] · [[ZWE]] · [[infra.store]]
-- Mentioned, not hubbed: Douglas Mboweni (CEO, 2025).
+  [[zimbabwe-stock-exchange]] · [[distributed-power-africa]] · [[cassava-technologies]] · [[ZWE]] ·
+  [[infra.store]]
+- Mentioned, not hubbed: Douglas Mboweni (EWZL CEO, 2025); **Fayaz King** (InfraCo CEO from 2026-03-01);
+  T.A. Ngowe (EWZL Group Company Secretary).
 
 ## Sources
 
+- [[2025-12-15-econet-wireless-zimbabwe-further-cautionary-announcement]]
 - [[2025-12-19 Econet approves ambitious Harare IT park data centre]]
 - [[2025-12-22 Zimbabwe's Econet InfraCo announces industrial park plans]]
+- [[2025-12-24-econet-notice-completion-infrastructure-restructuring]]
+- [[2026-03-26-econet-infraco-supplementary-pre-listing-statement]]

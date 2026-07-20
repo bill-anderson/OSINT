@@ -6,8 +6,8 @@ places: [DZA]
 topics: [gov.protect, gov.legislate]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-18
-sources: [[2024-09-19 Algeria Digital Economy (US Country Commercial Guide)], [2025-12-01-anpdp-data-conservation-law-compliance-elmoudjahid], [2026-07-01-dgsn-digital-space-data-protection-elmoudjahid]]
+last_reviewed: 2026-07-20
+sources: [[2024-09-19 Algeria Digital Economy (US Country Commercial Guide)], [2025-12-01-anpdp-data-conservation-law-compliance-elmoudjahid], [2026-07-01-dgsn-digital-space-data-protection-elmoudjahid], [2025-12-30-joradp-decret-25-320-gouvernance-donnees]]
 ---
 
 # National Authority for the Protection of Personal Data (ANPDCP, Algeria)

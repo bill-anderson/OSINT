@@ -6,8 +6,8 @@ places: [AGO]
 topics: [gov.policy, gov.regional, infra.connect, infra.store, dpi.govtech, data.satellite]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-17
-sources: [[2026-04-28-pr-inaugura-novo-centro-de-dados-do-governo], [2026-03-26-minttics-projectos-estruturantes-base-tecnologica], [2025-11-04-kenya-and-angola-strengthen-digital-ties-luanda-summit], [2026-06-11-namibia-and-angola-join-forces-angotic-mou]]
+last_reviewed: 2026-07-20
+sources: [[2026-04-28-pr-inaugura-novo-centro-de-dados-do-governo], [2026-03-26-minttics-projectos-estruturantes-base-tecnologica], [2025-11-04-kenya-and-angola-strengthen-digital-ties-luanda-summit], [2026-06-11-namibia-and-angola-join-forces-angotic-mou], [2023-05-17-minttics-matias-borges-22000km-rede-fibra-optica-terrestre], [2025-05-09-angola-minttics-2000km-fibra-optica-este-ano], [2025-11-28-angola-30000km-terrestrial-fibre-itu-wtdc-baku], [2026-06-30-unesco-ram-angola-28000km-fibra-prontidao-ia], [2026-07-07-divergencias-adiamento-lei-sobre-ciberseguranca]]
 ---
 
 # MINTTICS (Ministry of Telecommunications, Information Technologies and Social Communication)

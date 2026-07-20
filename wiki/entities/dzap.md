@@ -6,8 +6,8 @@ places: [ZMB]
 topics: [finance.new, infra.connect, dpi.id, dpi.pay, dpi.exchange, dpi.govtech, capacity.training]
 lens: [sovereignty, colonialism]
 status: active
-last_reviewed: 2026-07-11
-sources: [[2025-09-11 DZAP World Bank PAD], [2026-03-24 Zambia looking for MOSIP system integrator to support digital ID project], [2026-03-24 Zambia seeks partner for national digital ID system]]
+last_reviewed: 2026-07-20
+sources: [[2025-09-11 DZAP World Bank PAD], [2026-03-24 Zambia looking for MOSIP system integrator to support digital ID project], [2026-03-24 Zambia seeks partner for national digital ID system], [2026-03-22-znbc-zambia-moves-ahead-digital-id-system]]
 ---
 
 # Digital Zambia Acceleration Project (DZAP)

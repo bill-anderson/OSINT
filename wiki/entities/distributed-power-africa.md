@@ -2,12 +2,12 @@
 type: entity
 entity_type: company
 title: Distributed Power Africa (DPA)
-places: [ZAF]
-topics: [infra.energy, infra.store, finance.new]
+places: [ZAF, ZWE]
+topics: [infra.energy, infra.store, tech.industry, finance.new]
 lens: [sovereignty]
-status: active
-last_reviewed: 2026-07-17
-sources: [[2024-07-25 Africa Data Centres adding 6MW capacity in Cape Town], [2024-11-20 Africa Data Centres expands by 20 megawatts to meet cloud, AI demand]]
+status: needs-review
+last_reviewed: 2026-07-20
+sources: [[2024-07-25 Africa Data Centres adding 6MW capacity in Cape Town], [2024-11-20 Africa Data Centres expands by 20 megawatts to meet cloud, AI demand], [2025-12-24-econet-notice-completion-infrastructure-restructuring], [2026-03-26-econet-infraco-supplementary-pre-listing-statement]]
 ---
 
 # Distributed Power Africa (DPA)
@@ -17,6 +17,26 @@ company [[africa-data-centres]].** DPA (also referenced as DPA Southern Africa) 
 what ADC claims is **the first successful solar wheeling in Africa** — a captive-generation model
 that routes privately generated power to a data centre across the state-owned grid rather than
 building behind the meter.
+
+## ⚠ Open — is the Zimbabwean DPA the same company? (REV, opened 2026-07-20)
+
+Two Econet-lineage entities carry this name in the wiki's sources, and **the record does not establish
+whether they are one registered company or two sharing a brand**:
+
+- **DPA / "DPA Southern Africa" (this page's material, 2023–2024)** — described by Africa Data Centres as
+  "part of **[[cassava-technologies]]**", counterparty to 20-year solar-wheeling PPAs in **South Africa**.
+- **Distributed Power Africa (Private) Limited (2025-12-24 onward)** — a **Zimbabwe**-registered, **wholly
+  owned subsidiary of [[econet-wireless-zimbabwe]]**, into which EWZL consolidated its real estate and
+  passive telecoms infrastructure, **trading as [[econet-infraco]]**; converted private→public with a new
+  Certificate of Incorporation **2026-03-24** under registration number **74120A02122025**, and undergoing
+  a name change to **Econet InfraCo Limited** before its **VFEX** listing.
+
+**Not resolved here.** Econet Global and Cassava share a founder ([[strive-masiyiwa]]) and a history of
+brand reuse across national opcos, so a common brand across two group arms is entirely plausible; equally,
+a single DPA may have been redeployed. The wiki holds no shareholding document tying the two. Until it
+does, **do not merge the two records and do not carry the South African solar-wheeling history onto
+[[econet-infraco]]**. Sources: [[2025-12-24-econet-notice-completion-infrastructure-restructuring]],
+[[2026-03-26-econet-infraco-supplementary-pre-listing-statement]].
 
 ## Activity in this wiki
 
@@ -45,6 +65,7 @@ building behind the meter.
 
 ## Related
 
-Place: [[ZAF]] · Parent: [[cassava-technologies]] · Offtaker: [[africa-data-centres]] ·
+Place: [[ZAF]], [[ZWE]] · Parent: [[cassava-technologies]] (ZAF material) /
+[[econet-wireless-zimbabwe]] (ZWE registered company) · Offtaker: [[africa-data-centres]] ·
 Grid: [[eskom]] · Compare: [[teraco]]'s 120 MW solar PV wheeling into Eskom ·
-Intersection: [[south-africa--infra-store]]
+Trading as: [[econet-infraco]] (ZWE) · Intersection: [[south-africa--infra-store]]

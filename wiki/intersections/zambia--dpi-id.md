@@ -8,8 +8,8 @@ topics: [dpi.id, gov.policy, dpi.exchange]
 entities: [[dzap], [world-bank], [smart-zambia-institute], [mosip], [office-of-the-data-protection-commissioner-zambia], [electoral-commission-of-zambia], [id4africa]]
 lens: [sovereignty, colonialism]
 status: active
-last_reviewed: 2026-07-19
-sources: [[2025-09-11 DZAP World Bank PAD], [2026-03-24 Zambia looking for MOSIP system integrator to support digital ID project], [2026-03-24 Zambia seeks partner for national digital ID system], [2025-01-17 Zambia Advances Digital ID System with MOSIP Training for Healthcare Integration], [2025-10-03 Zambia plans domestic digital ID development with help from international partners], [2025-01-20 PID Appraisal Stage - Digital Zambia Acceleration Project (P505094)], [2024-09-17 DPI Safeguards come online in Zambias next phase of digital integration], [2025-12-28 Over 1.3 Million Citizens Enrolled on INRIS], [2025-06-12 Zambia says using multiple strategies to meet 50 percent birth registration goal by 2026], [2026-01-05 Zambia programs national digital ID rollout for year-end], [2025-09-08-why-we-need-biometric-national-id-cards], [2025-12-25-zambia-digital-ids-by-end-2026], [2026-05-18-zambia-id4africa-multi-sectoral-engagement]]
+last_reviewed: 2026-07-20
+sources: [[2026-03-22-znbc-zambia-moves-ahead-digital-id-system], [2025-09-11 DZAP World Bank PAD], [2026-03-24 Zambia looking for MOSIP system integrator to support digital ID project], [2026-03-24 Zambia seeks partner for national digital ID system], [2025-01-17 Zambia Advances Digital ID System with MOSIP Training for Healthcare Integration], [2025-10-03 Zambia plans domestic digital ID development with help from international partners], [2025-01-20 PID Appraisal Stage - Digital Zambia Acceleration Project (P505094)], [2024-09-17 DPI Safeguards come online in Zambias next phase of digital integration], [2025-12-28 Over 1.3 Million Citizens Enrolled on INRIS], [2025-06-12 Zambia says using multiple strategies to meet 50 percent birth registration goal by 2026], [2026-01-05 Zambia programs national digital ID rollout for year-end], [2025-09-08-why-we-need-biometric-national-id-cards], [2025-12-25-zambia-digital-ids-by-end-2026], [2026-05-18-zambia-id4africa-multi-sectoral-engagement]]
 ---
 
 # Zambia × Digital Identity
@@ -51,7 +51,15 @@ It was missing its own prehistory — MOSIP work was already live fourteen month
 - **The procurement (2026-03).** [[smart-zambia-institute]] is procuring an international **system
   integrator** for a **[[mosip]]**-based national ID integrated with civil registration —
   insisting the application layer be **built by Zambians on open standards** to avoid lock-in,
-  and targeting full rollout and **80% of citizens** in the digital economy by **end-2026**.
+  and targeting full rollout and **80% of citizens** in the digital economy by **end-2026**. The
+  **origin report is ZNBC (2026-03-22)**, not the trade-press pickups two days later: the state
+  broadcaster carried Chinyama saying SZI "has begun the process of engaging an international partner",
+  that the project "has entered a key implementation phase, with **completion targeted for 2026**", and
+  that the system "will be **developed by Zambians**, with technical support from the international
+  partner… to strengthen local capacity". He specified the card will do what the NRC does "**but with
+  additional features, including use for travel, identification and access to both public and private
+  sector services**" — i.e. a general-purpose credential, not a registration document. **Date the event
+  2026-03-22.** Source: [[2026-03-22-znbc-zambia-moves-ahead-digital-id-system]].
 - **Financing and South–South input.** Financed via [[dzap]] (**$100m** World Bank IDA grant plus
   **$20m** unguaranteed commercial = **$120m** total, per the project documents — the figures
   reconcile and are not competing). The **Ethiopia MoU** drawing on **[[fayda-ethiopia-national-id]]**
@@ -75,8 +83,9 @@ people with digitally verifiable ID by October 2030** (baseline 1.5m, Dec 2022),
 2030-10-31. With biometric NRC issuance deferred past the **2026-08-13** general election and no MOSIP
 system integrator contracted as of 2026-07-20, end-2026 reads as a first-issuance aspiration.
 - **Enrolment has plateaued, not fallen.** [[inris]] enrolment ran ~1.0m (Sep 2023) → ~1.3m (May 2024)
-  → **~1.5 million** (UNDP citing DNRPC, 2024-09), where the DZAP PAD still put it — "around 1.5 million
-  people," ~15% of adults — at **2025-09-11**. The **~1.3 million** reported by ZNBC quoting MoHAIS
+  → **~1.5 million** (UNDP citing DNRPC, 2024-09). The DZAP PAD (**2025-09-11**) states only that INRIS
+  has "**registered 15 percent of adults using biometrics**" — a percentage, not an absolute; ~1.5m is an
+  **inference** from that share against an adult base of ~10m, not a figure the PAD asserts. The **~1.3 million** reported by ZNBC quoting MoHAIS
   (2025-12-28) restates the May-2024 figure rather than reporting a decline: no de-duplication or
   downward revision of the register has been reported by DNRPC or MoHAIS (resolved 2026-07-20).
 
@@ -116,6 +125,7 @@ Place: [[ZMB]] · Concept: [[dpi.id]] · Entities: [[dzap]] · [[world-bank]] ·
 ## Sources
 
 - [[2025-09-11 DZAP World Bank PAD]]
+- [[2026-03-22-znbc-zambia-moves-ahead-digital-id-system]]
 - [[2026-03-24 Zambia looking for MOSIP system integrator to support digital ID project]]
 - [[2026-03-24 Zambia seeks partner for national digital ID system]]
 - [[2025-01-17 Zambia Advances Digital ID System with MOSIP Training for Healthcare Integration]]

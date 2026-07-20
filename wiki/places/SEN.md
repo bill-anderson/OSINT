@@ -6,7 +6,7 @@ parent: XWA
 place_kind: country
 topics: [gov.policy, infra.connect, infra.store, dpi.id, dpi.registry, dpi.govtech, dpi.pay, dpi.exchange, dpi.mis, gov.protect, gov.legislate, infra.cybersec, include.access, tech.ai, capacity.research, geopol.usa, geopol.eu, digital.rural, include.divides, data.satellite, finance.new, finance.mou, gov.regional, gov.standards, tech.industry]
 status: active
-last_reviewed: 2026-07-19
+last_reviewed: 2026-07-20
 ---
 
 # Senegal (SEN)
@@ -20,12 +20,17 @@ last_reviewed: 2026-07-19
   [[CIV]] and [[CMR]]; the billing-automation layer is the part that touches [[dpi.pay]]. Country manager
   **Aïcha Niang**. Source: [[2026-07-17-senegal-yango-expands-into-corporate-mobility]]. See
   [[tech.industry]], [[dpi.pay]].
-- **2026-07-15** — **15.3m civil-registration records digitised (ANEC).** Senegal's National Civil
-  Registration Agency **[[anec-senegal]]** reported digitising **>15.3m** civil-registration records, with
-  **629 civil-status centres** networked (67% via the LGEC software; 27% on the **Sama État Civil** online
-  platform) and 3,695 officers trained; a **data-verification campaign runs 13–29 Jul 2026** (Fatick, Louga,
-  Diourbel). Foundational CRVS beneath digital ID/DPI. See [[dpi.registry]], [[dpi.id]], [[dpi.govtech]].
-  Source: [[2026-07-15 Senegal digitizes more than 15 million birth records in civil registration overhaul]].
+- **2026-07-13** — **15.3m civil-status records loaded into the national database (ANEC).** Senegal's National
+  Civil Registration Agency **[[anec-senegal]]** reported **>15.3m** records integrated into the national
+  civil-registration database, with **629 civil-status centres** networked (67% via the **LGEC** software; 27%
+  on the **Sama État Civil** online platform) and 3,695 officers trained; a **data-verification campaign ran
+  13–29 Jul 2026** (Fatick, Louga, Diourbel). *Not a regression against the 19m+ Nékkal figure: that counts
+  legacy paper acts scanned and indexed from archives, while 15.3m counts records loaded into the live
+  RNEC — a subset. (Resolved 2026-07-20; see [[senegal--dpi-id]].)* English coverage headlines these as
+  "birth records"; ANEC's framing is **actes d'état civil** — all civil-status events. Foundational CRVS
+  beneath digital ID/DPI. See [[dpi.registry]], [[dpi.id]], [[dpi.govtech]]. Sources:
+  [[2026-07-13-apa-anec-15-million-birth-records]],
+  [[2026-07-15 Senegal digitizes more than 15 million birth records in civil registration overhaul]].
 - **2026-07-13** — **Public–private push to secure critical infrastructure.** At a consultation led by the
   Minister of Telecommunications and Digital Affairs, Senegal launched stronger public–private cooperation to
   protect critical digital infrastructure and **prepare a future CI-protection legal framework**, under the
@@ -44,6 +49,20 @@ last_reviewed: 2026-07-19
   [[2026-07-13 EBRD Extends €270m Financing to Yas for Kenya, Senegal Network Expansion]],
   [[2026-07-14 Yas gets $307m to rebuild Zuku's broadband fight in Kenya and expand in Senegal]]. See
   [[infra.connect]], [[finance.new]], [[geopol.eu]], [[KEN]].
+- **2026-06-29** — **Nékkal closes: civil-status modernisation programme wraps.** The EU-funded
+  **[[nekkal-programme|NEKKAL]]** programme — executed by **[[civipol]]** and **[[enabel]]** with
+  **[[anec-senegal|ANEC]]** as implementing agency — held its **final steering committee**. Reported outputs:
+  **10m acts digitised and 20m indexed**; **400 civil-status centres interconnected**; 26 modern centres;
+  1,200 computers and 1,000 printers; 32 communal coordination plans; a services platform, a births/deaths
+  notification tool for health facilities, and a **consular** civil-status application for the diaspora.
+  Legally it produced a validated **bill on computerising civil-status management** plus implementing and
+  register-conservation decrees, and the **Stratégie nationale de l'état civil**; **30 trainers and 4,000+
+  civil-status actors** were trained. EU ambassador **Jean-Marc Pisani** called the outputs "des actifs
+  stratégiques pour l'État du Sénégal" and offered continued support on maintenance, further archive
+  digitisation, **cybersecurity** and **interoperability**. ANEC DG **Matar Ndao** cautioned the system still
+  faces governance, reliability, accessibility and document-conservation challenges. See [[dpi.registry]],
+  [[dpi.id]], [[gov.legislate]], [[capacity.training]]. Source:
+  [[2026-06-29-aps-nekkal-avancees-modernisation-etat-civil]].
 - **2026-05-23** — **Via Africa subsea cable landing.** Senegal is a named landing point for
   the **[[orange]]**-led **[[via-africa-cable]]**, a >20,000km Atlantic corridor linking West
   Africa directly to Europe across ~20 countries (3–4yr build; first announced 2026-05-12 at the
@@ -70,20 +89,35 @@ last_reviewed: 2026-07-19
   [[2026-03-25 Senegal Accelerates Digital Sovereignty with Rollout of Flagship Technology Initiatives]].
   See [[gov.policy]], [[infra.store]], [[dpi.exchange]], [[dpi.id]], [[dpi.pay]], [[include.access]],
   [[infra.cybersec]], [[gov.protect]].
-- **2026-02** — **National ID breach halts card production.** A cyberattack on the **[[daf-senegal|DAF]]**
-  (biometric population register / ID-passport issuer) suspended national ID-card production in early Feb 2026;
-  the **"Green Blood Group"** ransomware crew claimed the database with **competing unverified figures of
-  139TB and 139GB**, while authorities insisted citizen data stayed intact. **[[senegal-numerique|SENUM SA]]**
-  was reportedly hit around the same time; a leaked **[[iris-corporation]]** email described two DAF servers
-  breached on **19 Jan 2026**, amid an **unpaid-invoices dispute** with the state. One of a run of state
-  cyberattacks (tax authority Oct 2025, Treasury May 2026). Full cluster: **[[senegal--dpi-id]]**. Sources:
+- **2026-04-01** — **National ID-card production resumes.** The **[[daf-senegal|DAF]]** confirmed (communiqué,
+  7 Apr 2026) that **CNI production restarted on 1 Apr 2026**, with enrolment resuming progressively across
+  centres and overseas missions — ending the ~8-week suspension imposed after the January breach. The
+  communiqué again asserts that the **integrity** of personal data "est strictement préservée," and again says
+  nothing about confidentiality. Source: [[2026-04-07-aps-daf-reprise-production-cni]]. See [[dpi.id]],
+  [[infra.cybersec]].
+- **2026-01-19** *(acknowledged 2026-02-05)* — **National ID breach halts card production.** The
+  **[[green-blood-group|"Green Blood Group"]]** ransomware crew breached **two [[daf-senegal|DAF]] servers** —
+  a **domain controller** and a **"Perso"** server — on **19 Jan 2026**, per a leaked **[[iris-corporation]]**
+  email; the crew's leak site went up 4 Feb and the DAF acknowledged the incident and **suspended ID-card
+  production on 5 Feb 2026**. The **139TB / 139GB** split is **the same actor's claim in two artefacts**
+  (leak-site posting vs ransom note), making **~139GB the more credible**; **no volume is independently
+  verified**. Exfiltration itself **is** established — researcher **[[clement-domingo|Clément Domingo]]**
+  confirmed genuine birth records and ID cards in the published samples — and the DAF **never denied it**: its
+  communiqués assert only that data **integrity** "demeure intacte," staying silent on confidentiality.
+  **[[senegal-numerique|SENUM SA]]** was reportedly hit around the same time, amid an **unpaid-invoices
+  dispute** between Iris and the state. One of a run of state cyberattacks (tax authority Oct 2025, Treasury
+  May 2026). Full cluster: **[[senegal--dpi-id]]**. Sources:
+  [[2026-02-05-aps-daf-suspension-cni-communique]],
+  [[2026-02-12-darkreading-senegal-breach-security-maturity]],
   [[2026-02-10 Senegal data breach disrupts national ID issuance]],
   [[2026-02-10 Senegal shuts National ID office after ransomware attack]],
   [[2026-02-24 Senegal ID System Breach – 139TB Hack Claim]]. See [[dpi.id]], [[infra.cybersec]], [[gov.protect]].
 - **2026-01-27** — **ANEC pre-declaration software in health facilities.** **[[anec-senegal|ANEC]]** began
   rolling out state-certified **pre-declaration software** in health facilities to capture births/deaths at
-  source — traceable to the EU-funded **[[nekkal-programme|Nékkal programme]]** (2021), which had digitised
-  **19m+ civil records by June 2024**. *(Resolved 2026-07-20 — the 2026 figure is not a regression: the
+  source — traceable to the EU-funded **[[nekkal-programme|Nékkal programme]]** (launched **7 May 2020**, 42
+  months, CFA18bn EU financing — some coverage dates the launch to 2021), which had **19m+ civil-status acts
+  digitised and indexed by June 2024** (Minister **Moussa Bala Fofana**, 5th steering committee, 25 Jun 2024).
+  *(Resolved 2026-07-20 — the 2026 figure is not a regression: the
   ~19–20m counts legacy paper acts **scanned and indexed** from archives under the EU-funded NEKKAL
   programme, against a 30m target; the **15.3m (2026-07-13)** counts records **loaded into the live
   national civil-registration database (RNEC)**, a subset of that archive stock. Minister Fofana drew the
@@ -91,6 +125,7 @@ last_reviewed: 2026-07-19
   partie** accessible à partir du Registre national de l'état civil.")* See [[senegal--dpi-id]],
   [[dpi.registry]]. Sources:
   [[2026-01-28 Senegal plans digital overhaul of civil status system (ANEC)]],
+  [[2024-06-26-lequotidien-fofana-19-millions-actes-etat-civil]],
   [[2024-06-27 Senegal digitizes millions of civil records under the Nekkal program]].
 - **2025-12** — **2026 digital budget: CFA81.06bn, ~60% to investment.** The National Assembly set the 2026
   Digital Ministry budget at **CFA81.06bn (~$143.9m)**, funding universal coverage, free connectivity for
@@ -219,7 +254,10 @@ last_reviewed: 2026-07-19
 - [[new-deal-technologique]] — flagship national digital roadmap (four pillars).
 - [[daf-senegal]] · [[iris-corporation]] · [[senegal-numerique]] — national-ID issuance (DAF), ID-card
   supplier (Iris Corp), and state digital-infrastructure agency (SENUM SA); central to the Feb 2026 breach.
-- [[anec-senegal]] · [[nekkal-programme]] — civil-registration (CRVS) modernisation.
+- [[anec-senegal]] · [[nekkal-programme]] · [[civipol]] · [[enabel]] · [[european-union]] —
+  civil-registration (CRVS) modernisation; Nékkal's executing agencies and funder (programme closed Jun 2026).
+- [[green-blood-group]] · [[clement-domingo]] — the ransomware crew behind the Feb 2026 DAF breach, and the
+  researcher who confirmed genuine birth records and ID cards in the leaked samples.
 - [[rnu-senegal]] · [[dgpsn-senegal]] — the National Single Registry social-targeting database and its agency.
 - [[sen-csu]] — Universal Health Coverage agency (digital-payments case).
 - [[cdp-senegal]] · [[senegal-data-protection-law]] — data-protection authority and Law No. 2008-12.

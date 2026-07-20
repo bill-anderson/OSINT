@@ -6,8 +6,8 @@ places: [AGO]
 topics: [gov.policy, gov.regional, infra.cybersec, dpi.id, data.satellite]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-17
-sources: [[2026-03-03-joao-lourenco-cybercrime-desafio-da-justica], [2026-04-28-pr-inaugura-novo-centro-de-dados-do-governo], [2025-05-07 India helps Angola with DPI, digital ID as part of 200M credit line], [2025-01-23-angola-and-france-secure-225-million-for-satellite-projects]]
+last_reviewed: 2026-07-20
+sources: [[2026-03-03-joao-lourenco-cybercrime-desafio-da-justica], [2026-04-28-pr-inaugura-novo-centro-de-dados-do-governo], [2025-05-07 India helps Angola with DPI, digital ID as part of 200M credit line], [2025-01-23-angola-and-france-secure-225-million-for-satellite-projects], [2025-12-03-decreto-presidencial-256-25-estrategia-nacional-ciberseguranca-angola], [2025-12-03-decreto-presidencial-258-25-conselho-nacional-ciberseguranca-angola]]
 ---
 
 # João Lourenço

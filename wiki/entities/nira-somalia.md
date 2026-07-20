@@ -6,8 +6,8 @@ places: [SOM]
 topics: [dpi.id, dpi.registry]
 topics: [dpi.id, dpi.registry]
 status: active
-last_reviewed: 2026-07-16
-sources: [[2025-06-02 Somalia walking a thorny road to an inclusive national digital ID system], [2025-09-17 Somalia launches mass registration drive for its foundational digital ID], [2025-12-17 Somalia digital ID major pillar of World Bank-funded SPRING initiative]]
+last_reviewed: 2026-07-20
+sources: [[2025-06-02 Somalia walking a thorny road to an inclusive national digital ID system], [2025-09-17 Somalia launches mass registration drive for its foundational digital ID], [2025-12-17 Somalia digital ID major pillar of World Bank-funded SPRING initiative], [2025-03-13-nadra-somalia-nid-data-centre-infrastructure]]
 lens: [sovereignty]
 ---
 

@@ -6,8 +6,8 @@ places: [TUN]
 topics: [infra.connect, infra.store, tech.industry, geopol.eu]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-19
-sources: [[2025-02-17-developingtelecoms-three-operators-launch-5g], [2026-06-05-connectingafrica-viatunisia-subsea-live], [2026-06-26-techafricanews-orange-medusa-cable-operational]]
+last_reviewed: 2026-07-20
+sources: [[2025-02-17-developingtelecoms-three-operators-launch-5g], [2026-06-05-connectingafrica-viatunisia-subsea-live], [2026-06-26-techafricanews-orange-medusa-cable-operational], [2023-05-11-orange-tunisia-medusa-bizerte-hosting-agreement], [2025-11-01-medusa-lands-in-bizerte]]
 ---
 
 # Orange Tunisia (Orange Tunisie)

@@ -6,8 +6,8 @@ places: [SEN]
 topics: [dpi.registry, dpi.id, dpi.govtech]
 lens: []
 status: active
-last_reviewed: 2026-07-16
-sources: [[2026-07-15 Senegal digitizes more than 15 million birth records in civil registration overhaul], [2026-01-28 Senegal plans digital overhaul of civil status system (ANEC)], [2024-06-27 Senegal digitizes millions of civil records under the Nekkal program]]
+last_reviewed: 2026-07-20
+sources: [[2026-07-15 Senegal digitizes more than 15 million birth records in civil registration overhaul], [2026-01-28 Senegal plans digital overhaul of civil status system (ANEC)], [2024-06-27 Senegal digitizes millions of civil records under the Nekkal program], [2026-07-13-apa-anec-15-million-birth-records], [2026-06-29-aps-nekkal-avancees-modernisation-etat-civil]]
 ---
 
 # ANEC (National Civil Registration Agency, Senegal)

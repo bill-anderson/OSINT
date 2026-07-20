@@ -19,6 +19,7 @@ only slugs with a concept page are listed. Roll-up is by Level-1 parent.
 - [[dpi.govtech]] — Other GovTech and e-Gov · places: COG, COM, BWA, BDI, CAF, ZMB, ZAF, XGL, MWI, GHA, NAM, KEN, NGA, UGA, BEN, CIV, MOZ, COD, TZA, RWA, EGY, CMR, AGO, BFA, ETH, GIN, GNQ, LBR, LSO, MAR, MDG, MLI, NER, SEN, SLE, SOM, SSD, STP, SWZ, XAF, XEA, XSS, XWA, ZWE, DJI, CPV, DZA, ERI, GAB, GNB, GMB, LBY, MRT, MUS, SYC, TCD, TGO, TUN, SDN
 - [[dpi.registry]] — Registries (population, land, address, etc.) · places: COG, COD, BFA, BDI, AGO, CAF, ZAF, TZA, UGA, ETH, NGA, RWA, ZMB, XWA, BEN, CIV, CMR, LSO, MDG, XGL, KEN, MWI, SOM, XAF, DZA, EGY, GAB, GHA, GIN, GNQ, GNB, GMB, LBR, LBY, MAR, MOZ, MLI, MRT, MUS, NAM, NER, SSD, SLE, STP, SWZ, SYC, TCD, TGO, TUN, ZWE, SDN, SEN
 - [[dpi.mis]] — Sectoral management information systems (HMIS, EMIS, etc.) · places: COD, BDI, XAF, XSS, XGL, RWA, ETH, NGA, KEN, ZAF, MWI, TZA, MOZ, GHA, ZMB, UGA, ZWE, LSO, BEN, BWA, CIV, CMR, GAB, LBR, MDG, SEN, SLE, SOM, SWZ, TCD, XEA, CPV, EGY, GIN, GNQ, GMB, MUS, NAM, TGO, AGO
+| dpi.mis | TGO | [[togo--dpi-mis]] — DHIS2/SIGE education MIS as an analytical layer over CSPro/StatEduc (2019–2026) |
 , MRT, SDN, MLI, NER
 
 ## Governance

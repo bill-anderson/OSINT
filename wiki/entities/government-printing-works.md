@@ -6,8 +6,8 @@ places: [ZAF]
 topics: [dpi.id, dpi.exchange, dpi.govtech, gov.standards, infra.cybersec]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-17
-sources: [[2025-04-08 South African agencies sign multiparty digital ID deal to drive govt efficiency], [2025-07-03 Deputy Minister Njabulo Nzuza - Home Affairs Dept Budget Vote 2025-26, NCOP]]
+last_reviewed: 2026-07-20
+sources: [[2025-04-08 South African agencies sign multiparty digital ID deal to drive govt efficiency], [2025-07-03 Deputy Minister Njabulo Nzuza - Home Affairs Dept Budget Vote 2025-26, NCOP], [2025-04-03-sars-collaboration-agreements-dha-bma-gpw]]
 ---
 
 # Government Printing Works (South Africa)

@@ -6,8 +6,8 @@ places: [AGO]
 topics: [data.satellite, infra.connect, include.divides]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-17
-sources: [[2025-12-23-angola-launches-commercial-access-to-angosat-2], [2026-04-10-angola-expands-satellite-internet-push-conecta-project], [2026-05-04-angola-deploys-angosat-2-connectivity-to-border-areas], [2026-07-14-angola-connects-4000-students-angosat-2-tvws], [2026-06-03-university-of-namibe-students-free-internet-angosat-2], [2026-06-11-angola-referencia-africana-em-tecnologias-espaciais]]
+last_reviewed: 2026-07-20
+sources: [[2025-12-23-angola-launches-commercial-access-to-angosat-2], [2026-04-10-angola-expands-satellite-internet-push-conecta-project], [2026-05-04-angola-deploys-angosat-2-connectivity-to-border-areas], [2026-07-14-angola-connects-4000-students-angosat-2-tvws], [2026-06-03-university-of-namibe-students-free-internet-angosat-2], [2026-06-11-angola-referencia-africana-em-tecnologias-espaciais], [2023-05-17-minttics-matias-borges-22000km-rede-fibra-optica-terrestre], [2025-05-09-angola-minttics-2000km-fibra-optica-este-ano]]
 ---
 
 # ANGOSAT-2

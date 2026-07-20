@@ -5,8 +5,8 @@ title: Tanzania Digital Economy Strategic Framework 2024-2034
 places: [TZA]
 topics: [gov.policy, tech.industry, dpi.govtech]
 status: active
-last_reviewed: 2026-07-17
-sources: [[2024-01-01 Tanzania Digital Economy Strategic Framework 2024-2034 (MICIT)]]
+last_reviewed: 2026-07-20
+sources: [[2024-01-01 Tanzania Digital Economy Strategic Framework 2024-2034 (MICIT)], [2024-10-18-hakikisheni-mnapata-namba-ya-nida-jamii-namba-majaliwa]]
 ---
 
 # Tanzania Digital Economy Strategic Framework 2024-2034

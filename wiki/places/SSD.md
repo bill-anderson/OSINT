@@ -4,9 +4,9 @@ title: South Sudan
 code: SSD
 parent: XEA
 place_kind: country
-topics: [dpi.pay, dpi.govtech, dpi.id, dpi.registry, infra.connect, infra.energy, infra.store, geopol.china, gov.protect, gov.legislate, gov.policy, finance.new, include.divides, include.access, tech.industry]
+topics: [dpi.pay, dpi.exchange, dpi.govtech, dpi.id, dpi.registry, infra.connect, infra.energy, infra.store, geopol.china, gov.protect, gov.legislate, gov.policy, gov.regional, gov.standards, finance.new, include.divides, include.access, tech.industry]
 status: active
-last_reviewed: 2026-07-19
+last_reviewed: 2026-07-20
 ---
 
 # South Sudan (SSD)
@@ -27,7 +27,7 @@ but ahead of the governance frameworks meant to hold it.
 - **2026-01-20** — **"What is actually functioning as DPI."** A Sudans Post
   synthesis (documenting Oct 2025–Jan 2026) of the country's de-facto DPI: the
   Bank of South Sudan's **IBPSS** (Oct 2025) as the first interoperable interbank
-  backbone; telecom **mobile money** (>1m users) degrading to cash during outages;
+  backbone (the source's acronym; the system is properly **SSIPS** — see 2025-10-10 below); telecom **mobile money** (>1m users) degrading to cash during outages;
   a **Nimule one-stop border post** with customs automation; a **primary
   tax/revenue platform privately owned by Adut Salva Kiir Mayardit**, the
   president's daughter; a **World-Bank-backed biometric public-servant payroll**
@@ -110,23 +110,43 @@ but ahead of the governance frameworks meant to hold it.
   secure a parliamentary commitment to table it. Source:
   [[2025-10-17 Paradigm Initiative partners with Koneta Hub on data protection law in South Sudan]].
   See [[gov.protect]], [[gov.legislate]].
-- **2025-02-07** — **First National Instant Payment System (NIPS).** The
-  **[[bank-of-south-sudan]]** launched **[[nips-south-sudan]]** with the
-  **[[africanenda]]** Foundation (governor Johnny Ohisa Damian, 5 Feb 2025) —
-  real-time interoperable P2P/P2B/G2P/P2G rails integrating ACH/RTGS/IFT, aimed at
-  6m+ under-banked adults, aligned to the EAC instant-payments master plan.
-  Predates the Oct-2025 IBPSS; whether the two are one programme, two phases or
-  distinct rails is unresolved (see below). Source:
+- **2025-10-10** — **SSIPS goes live — the interbank settlement layer.** The
+  **[[bank-of-south-sudan]]** launched the **South Sudan Interbank Payment and
+  Settlement System (SSIPS)**, the **ATS+** platform combining **RTGS** (high-value,
+  real-time, irrevocable) and **ACH** (bulk salary/utility batches) on **ISO 20022**,
+  replacing paper-based manual interbank process. Rollout is **phased**, beginning with
+  a select number of banks. Governor **Dr Addis Ababa Othow** presided, with Cabinet
+  Affairs minister Martin Elia Lomuro representing President Salva Kiir; **[[eac]]** and
+  **[[african-development-bank]]** representatives framed it as aligning South Sudan
+  with regional reform. This is **wholesale settlement plumbing, not a retail instant
+  rail** — the governor's retail framing at the podium was promotional, with mobile-money
+  and fintech onboarding still being solicited. Sources:
+  [[2025-10-10-boss-launches-first-electronic-interbank-payment-system]],
+  [[2025-10-01-eyeradio-boss-ssips-ats-plus-explainer]]. See [[dpi.pay]],
+  [[dpi.exchange]], [[gov.standards]], [[south-sudan--dpi-pay]].
+- **2025-02-05** — **NIPS project launch (not a system launch).** The
+  **[[bank-of-south-sudan]]** and the **[[africanenda]]** Foundation announced a
+  partnership to build **[[nips-south-sudan]]** — governor **Johnny Ohisa Damian** on
+  "the start of the NIPS journey", with the work scoped as "developing a detailed
+  roadmap for NIPS implementation", capacity-building and bank/telco interoperability,
+  following a **2023 proof-of-concept**. Designed for real-time interoperable
+  P2P/P2B/G2P/P2G rails integrating ACH/RTGS/IFT, aimed at 6m+ under-banked adults and
+  aligned to the EAC instant-payments master plan. **No NIPS go-live is documented** as
+  of 2026-07; AfricaNenda's own *SIIPS 2025* census (data to June 2025) does not list
+  South Sudan. Sources: [[2025-02-05-africanenda-boss-nips-announcement]];
+  trade-press account (overstated as a launch):
   [[2025-02-07 South Sudan launches first national instant payment system (NIPS)]].
   See [[dpi.pay]], [[gov.regional]], [[include.access]].
 
 ## Active topics
 
 - [[dpi.pay]] · [[dpi.govtech]] — telecom mobile money as the de-facto payments
-  layer (fragile, cash-hoarding); **NIPS** (Feb 2025, BoSS + AfricaNenda, retail
-  instant payments) and the **IBPSS** (Oct 2025, interbank settlement) — possibly
-  phases of one programme or two rails; NRA cashless digital passport/ID payments;
-  full-digitisation decree (Jan 2026 deadline); mobile money declared legal tender (Jul 2025), RTGS uptake, ITU DFS Security Lab. Full case: [[south-sudan--dpi-pay]]. **Open reconcile:** NIPS vs IBPSS.
+  layer (fragile, cash-hoarding); **SSIPS** (live 2025-10-10, ATS+ = RTGS + ACH on
+  ISO 20022 — wholesale interbank settlement, the system elsewhere mis-cited as
+  "IBPSS") and **NIPS** (a Feb-2025 BoSS + AfricaNenda *project*, retail instant
+  payments, **no documented go-live**) — two sequential programmes, not one
+  (resolved 2026-07-20, see [[nips-south-sudan]]); NRA cashless digital passport/ID payments;
+  full-digitisation decree (Jan 2026 deadline); mobile money declared legal tender (Jul 2025), RTGS uptake, ITU DFS Security Lab. Full case: [[south-sudan--dpi-pay]].
 - [[dpi.id]] · [[dpi.registry]] · [[gov.protect]] — **no unified interoperable
   national digital ID** (the defining gap); personal ID (Butaka Shakhsia) now
   gating banking/land/court; ~10% Nationality-Certificate coverage; EU/UNHCR

@@ -6,8 +6,8 @@ places: [ZAF]
 topics: [dpi.pay, dpi.id, include.access, include.divides, gov.protect, gov.policy, capacity.literacy]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-17
-sources: [[2026-01-19 SASSA on qualification criteria for COVID-19 SRD], [2026-01-28 State is blocking access to SASSA grants, argue activists], [2025-04-24 New ID verification process for Sassa grants - Here's who's affected], [2025-08-25 SASSA to Launch Mandatory Biometric Enrollment for Grant Beneficiaries on September 1], [2025-07-06 Home Affairs on launch of world-class new identity verification service and cost]]
+last_reviewed: 2026-07-20
+sources: [[2026-01-19 SASSA on qualification criteria for COVID-19 SRD], [2026-01-28 State is blocking access to SASSA grants, argue activists], [2025-04-24 New ID verification process for Sassa grants - Here's who's affected], [2025-08-25 SASSA to Launch Mandatory Biometric Enrollment for Grant Beneficiaries on September 1], [2025-07-06 Home Affairs on launch of world-class new identity verification service and cost], [2025-08-28-sassa-biometric-enrolment-new-beneficiaries-portfolio-committee], [2025-09-18-sassa-beneficiaries-take-up-biometric-enrolment-campaign], [2026-05-18-parliamentary-question-nw1941-sassa-biometric-verification], [2025-03-27-cabinet-statement-26-march-2025]]
 ---
 
 # South African Social Security Agency (SASSA)
@@ -77,8 +77,34 @@ unpaid. They are the same system viewed from either end.
   van Vrede to the Portfolio Committee, **2025-08-27**: "we are not saying everyone must come in and
   be biometrically enrolled." By **2026-03-11**, 997,379 beneficiaries had enrolled — roughly 5% of
   the 19.05m grant recipients recorded at end-January 2026. The trade-press headline "all grant
-  beneficiaries" overreaches its own body. Source:
-  [[2025-08-25 SASSA to Launch Mandatory Biometric Enrollment for Grant Beneficiaries on September 1]].
+  beneficiaries" overreaches its own body. Sources:
+  [[2025-08-28-sassa-biometric-enrolment-new-beneficiaries-portfolio-committee]] (**van Vrede's words
+  as reported from the committee**),
+  [[2026-05-18-parliamentary-question-nw1941-sassa-biometric-verification]] (**the Minister's reply —
+  primary for the 997,379 and the monthly series**),
+  [[2025-08-25 SASSA to Launch Mandatory Biometric Enrollment for Grant Beneficiaries on September 1]]
+  (*secondary; the overreaching headline*).
+- **Enrolment by month (per the Minister's reply to NW1941, 2026-05-18).** **155,081** (Sep 2025) ·
+  **184,066** (Oct) · **159,453** (Nov) · **107,706** (Dec) · **144,389** (Jan 2026) · **186,995**
+  (Feb) · **59,689** (Mar, to the 11th) — **997,379 total**. First-fortnight uptake was **42,000+
+  across 432 local offices** ([[themba-matlou]], 2025-09-17,
+  [[2025-09-18-sassa-beneficiaries-take-up-biometric-enrolment-campaign]]).
+- **Cost and funding.** Treasury's **2025 ENE** puts the project at **R105m over three years**, with
+  **no additional allocation** — funded from savings on the terminated **[[postbank]]** Master
+  Service Agreement (CFO **Tsakeriwa Chauke**), also covering contract staff, document digitisation,
+  office infrastructure and cyber-security. Source:
+  [[2025-08-28-sassa-biometric-enrolment-new-beneficiaries-portfolio-committee]].
+- **Suspensions and lapses (to Q3 FY2025/26).** **67,868 grants suspended**, **48,949 lapsed**
+  (Q1–Q3) for failure to complete review or verification — **overwhelmingly Child Support Grants**
+  (37,825 of the suspensions; 42,748 of the lapses), following income testing of ~**6m** CSG
+  recipients conducted with banking institutions. A grant is suspended two months after an
+  un-actioned review notice and lapses one month after that. Q4 data due end-April 2026.
+- **The complaint asymmetry — where the divide actually is.** **Zero** complaints about *fingerprint*
+  enrolment via any official channel; **7,779** about the **electronic facial biometric system** on
+  the online portals, attributed to poor lighting, unstable connectivity, or **no biometric image on
+  file at Home Affairs** (i.e. never having applied for a smart ID). The offered remedy is to attend
+  a local office and use fingerprints. See [[south-africa--include-divides]]. Source:
+  [[2026-05-18-parliamentary-question-nw1941-sassa-biometric-verification]].
 - **Claimed savings.** **R300m+** claimed saved since biometric verification was introduced (per
   Minister Tolashe, via the SONA report) — an agency-side figure, dated to its claiming.
 

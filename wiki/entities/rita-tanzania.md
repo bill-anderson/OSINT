@@ -5,8 +5,8 @@ title: Registration, Insolvency and Trusteeship Agency (RITA), Tanzania
 places: [TZA]
 topics: [dpi.registry, dpi.id, data.statistics]
 status: active
-last_reviewed: 2026-07-17
-sources: [[2019-01-01 Snapshot of CRVS Systems of Tanzania Mainland (IDRC Centre of Excellence)]]
+last_reviewed: 2026-07-20
+sources: [[2019-01-01 Snapshot of CRVS Systems of Tanzania Mainland (IDRC Centre of Excellence)], [2024-03-12-jamii-namba-development-work-started-chanzo]]
 ---
 
 # Registration, Insolvency and Trusteeship Agency (RITA), Tanzania

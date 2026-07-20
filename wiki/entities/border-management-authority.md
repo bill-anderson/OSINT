@@ -6,8 +6,8 @@ places: [ZAF]
 topics: [dpi.id, dpi.exchange, dpi.govtech, gov.standards, dpi.registry]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-17
-sources: [[2025-04-08 South African agencies sign multiparty digital ID deal to drive govt efficiency]]
+last_reviewed: 2026-07-20
+sources: [[2025-04-08 South African agencies sign multiparty digital ID deal to drive govt efficiency], [2025-04-03-sars-collaboration-agreements-dha-bma-gpw], [2025-03-27-cabinet-statement-26-march-2025]]
 ---
 
 # Border Management Authority (South Africa)

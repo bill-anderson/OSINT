@@ -5,8 +5,8 @@ title: e-Government Authority (eGA), Tanzania
 places: [TZA]
 topics: [dpi.govtech, gov.policy, dpi.exchange, infra.cybersec, gov.standards]
 status: active
-last_reviewed: 2026-07-17
-sources: [[2022-01-01 Tanzania e-Government Strategy 2022 (2022-2027)]]
+last_reviewed: 2026-07-20
+sources: [[2022-01-01 Tanzania e-Government Strategy 2022 (2022-2027)], [2024-03-12-jamii-namba-development-work-started-chanzo], [2024-08-27-mfumo-jamii-x-change-kuunganisha-mifumo-tehama]]
 ---
 
 # e-Government Authority (eGA), Tanzania

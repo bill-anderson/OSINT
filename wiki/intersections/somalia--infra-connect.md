@@ -8,8 +8,8 @@ topics: [infra.connect, include.access, include.divides, data.satellite, infra.s
 entities: [[nca-somalia], [hormuud-telecom], [somtel], [starlink], [dare1-cable]]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-19
-sources: [[2025-04-14-starlink-license-somalia], [2025-08-05-starlink-launches-somalia-rural], [2025-09-24-astaanconnect-starlink-reseller], [2025-10-16-somalia-internet-users-10-7-million], [2026-06-12-somalia-ipv6-migration], [2026-06-18-hormuud-anchors-somalia-digital-economy], [2026-06-22-somalia-ifc-submarine-cable-working-group]]
+last_reviewed: 2026-07-20
+sources: [[2025-04-14-starlink-license-somalia], [2025-08-05-starlink-launches-somalia-rural], [2025-09-24-astaanconnect-starlink-reseller], [2025-10-16-somalia-internet-users-10-7-million], [2026-06-12-somalia-ipv6-migration], [2026-06-18-hormuud-anchors-somalia-digital-economy], [2026-06-22-somalia-ifc-submarine-cable-working-group], [2024-04-28-moct-national-data-center-tour], [2025-05-06-moct-national-data-center-nearing-completion], [2025-03-13-nadra-somalia-nid-data-centre-infrastructure]]
 ---
 
 # Somalia × Connectivity
@@ -62,8 +62,36 @@ last-mile power remain the constraints.
   "the barrier is no longer the mast but the handset" (hence Get-Phone financing, see [[somalia--dpi-pay]]).
   See [[infra.store]], [[dpi.pay]]. Source: [[2026-06-18-hormuud-anchors-somalia-digital-economy]].
 
+## The state National Data Center — data onshoring as declared policy
+
+- The Federal Government is building a **National Data Center** in Mogadishu, intended as the
+  central repository for all government-institution data. MoCT's stated rationale is explicitly
+  sovereigntist and, in the process, an **admission of the status quo ante**: the facility will
+  "eliminate dependencies of national data on international data storage solutions, **that is
+  stored outside the country**" (MoCT, **28 Apr 2024**), restated as "eliminating the need to host
+  Somali government data outside the country" (MoCT, **6 May 2025**). Sources:
+  [[2024-04-28-moct-national-data-center-tour]],
+  [[2025-05-06-moct-national-data-center-nearing-completion]].
+- **Status (as of 6 May 2025): under construction, "nearing completion", not launched.** Minister
+  Mohamed Adam Moalim Ali made two site inspections — 28 Apr 2024 (with NCA DG Mustafa Yasin
+  Sheikh) and 6 May 2025 (with ministry DG Farah Abdinur Ahmed) — the second urging the
+  implementing company toward "timely and high-quality completion." No launch is recorded in this
+  wiki. (The 2026-07-20 reconcile pass separately traced the build to the World Bank **SCALED-UP**
+  project, P168115, restructured 2025-10 to a **30 Jun 2026** closing date — not yet carried by a
+  source page here.)
+- **Separately**, **NADRA** delivered "advanced data center infrastructure" for the national ID
+  system on **13 Mar 2025** — distinct from the MoCT facility. Source:
+  [[2025-03-13-nadra-somalia-nid-data-centre-infrastructure]].
+- Whether Somali **national-ID** data specifically is hosted on- or offshore is **unresolved** —
+  MoCT's statements concern government data generally. See [[somalia--dpi-id]] and the open
+  contradiction `reviews/contradictions/open/somalia-national-id-data-hosting.md`.
+
 ## Reads
 
+- `sovereignty`: the state's declared data-onshoring policy (National Data Center) and Hormuud's
+  commercial onshoring point the same way, but the state's own 2024-2025 wording concedes that
+  Somali government data was, at the time of speaking, held **outside the country** — the sovereignty
+  ambition is dated to the build, not to an achieved state.
 - `sovereignty`: two opposite moves sit side by side — accommodating a **fully foreign-owned** LEO
   operator with unusual speed and no ownership conditions, while a domestic operator (Hormuud) explicitly
   onshores data centres to retain digital value. Somalia is closing the access gap fast, but on terms
