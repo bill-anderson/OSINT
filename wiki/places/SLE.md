@@ -6,7 +6,7 @@ parent: XWA
 place_kind: country
 topics: [dpi.id, dpi.pay, dpi.exchange, dpi.registry, dpi.govtech, gov.protect, gov.legislate, gov.policy, gov.standards, infra.store, infra.connect, tech.ai, digital.rural, capacity.training, include.access]
 status: active
-last_reviewed: 2026-07-19
+last_reviewed: 2026-07-20
 ---
 
 # Sierra Leone (SLE)
@@ -126,3 +126,11 @@ The through-line across the ID work is **open standards and national ownership**
 - Mentioned, not hubbed: MoCTI, MAFS/FSRP, Bank of Sierra Leone, Ministry of Finance,
   Ministry of Information & Civil Education; Qhala (Nairobi); Felei TechCity; Kiva; Sonatel;
   Afrimoney/Africell; Tiwai Memory Masters.
+
+## Record not held (as of 2026-07-20)
+
+Three Sierra Leone developments have **no primary on file as of 2026-07-20**, their government portals having
+returned **HTTP 403** to automated retrieval: the **NCPC launch** (Nov 2024), the **NCRA–SLRSA data-sharing
+agreement**, and the **NACSA mass-registration of persons with disabilities**. The NCRA–SLRSA agreement matters
+most of the three — it is a **register-to-register data-sharing arrangement**, and without its text the wiki cannot
+state what data classes flow, under what legal basis, or with what retention limit.

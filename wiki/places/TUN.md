@@ -252,3 +252,24 @@ report ([[paradigm-initiative]], published April 2024, covering calendar 2023) Â
   director); Marwa Fatafta and Kassem Mnejja (Access Now); INPDP (the data protection authority);
   PwC Tunisia; SECO; Flat6Labs; Seedstars; the GIZ-founded Digital Transformation Centre Tunisia;
   Lassaad Ben Dhiab / "Assad bin Dyab" (Tunisie Telecom â€” see ISSUE-006).
+
+## Acquisition note (2026-07-20)
+
+The **Plan de developpement 2026-2030 itself is not held as of 2026-07-20**, and neither is any
+ICT/digital chapter of it. One automated attempt on the Ministry of Economy and Planning's plan
+portal (`mdici.gov.tn/plan-2026-2030/`) failed at the network layer (no response); no PDF of the plan
+or its digital chapter is served from `mdici.gov.tn`, `pm.gov.tn` or `mtc.gov.tn`. This matters
+because the wiki's finding that Tunisia has **no standalone digital strategy - the "vision nationale
+unifiee pour la transformation digitale" being a chapter of the development plan** - still rests
+entirely on official statements *about* the plan (Head of Government, 2026-02-13) and on press
+summaries of it, never on the document. A **standalone national AI strategy**, referenced repeatedly
+through 2026, was likewise **not located and is not held**.
+
+**However, the plan's status has moved and the wiki's "still a *projet* as of 2026-01-06" framing is
+now out of date.** The Assemblee des representants du peuple **adopted the plan on 2026-07-10** (64
+for, 24 against, 15 abstentions), and the Conseil national des regions et des districts gave final
+approval on **2026-07-17**, after its committee adopted the final report on 2026-07-14. Per the ARP
+report the plan acquires legal force under Articles 75 and 77 of the Constitution. The Ministry of
+Economy and Planning published the *projet* - a document of more than three hundred pages - around
+2026-06-24. These dates come from press accounts (African Manager, L'Economiste Maghrebin, Webdo,
+WMC, Gnet), **not from a held primary**; the adopted text remains unheld.

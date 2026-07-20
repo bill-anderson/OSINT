@@ -71,3 +71,14 @@ Mentioned, not hubbed: MINCOTIM, MFBPE, DTFCN, ABREMA, BERNET, i+Solutions, Trad
 ## Notes
 
 - Parent region: [[XEA]] (East Africa) · continental: [[XAF]]. Also an **ECCAS** member — tag [[eccas]] on genuinely regional items, not the home region.
+
+## Acquisition note (2026-07-20)
+
+A **Burundian-side primary on the 19 November 2024 Vietnam telecom MoU is not held as of
+2026-07-20**, and one acquisition attempt did not surface one. Every located account remains
+Vietnamese-side (Vietnam MIC / MST, Nhan Dan, VietnamNet) or third-party (Extensia). The Ministry of
+Communication, ICT and Media published no record of its own minister's signature. The **source
+asymmetry noted on this page therefore stands and is now tested rather than merely assumed**: what
+the MoU commits Burundi to is known only through Hanoi's readout, in which the substantive
+undertakings run one way - Vietnamese scholarships of up to $10,000, Viettel/Lumitel network
+expansion, and rural-coverage, 5G-spectrum and tax-relief requests made *of* Burundi.

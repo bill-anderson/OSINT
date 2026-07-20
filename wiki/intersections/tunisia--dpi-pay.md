@@ -54,6 +54,25 @@ Mobile payments rose **+81% to 8.4m transactions / TND 1.769bn (~$616m)** in 202
   (Ooredoo/QNB) widen the market, but the rails and the brand stay national — a coherent, controlled
   digital-finance build atop a mature ID.
 
+## Record not held (as of 2026-07-20)
+
+**The BCT's own payments bulletin is not held.** The Central Bank of Tunisia's *Bulletin des
+paiements* / *"Les paiements en chiffres en Tunisie"* series (n°13, H1 2025, published 2025-09-16;
+n°14, to 2025-09-30, published 2025-11; and the full-year 2025 edition published 2026-02-10) could not
+be retrieved — `bct.gov.tn` timed out on fetch and publishes the bulletins through a JSP interface
+with no direct document URL located. The Tunisian mobile-payments figures on this page therefore still
+reach the wiki only through aggregators' repackaging.
+
+**A figure on this page is contradicted by BCT-attributed reporting and should not be relied on.**
+This page, [[TUN]] and [[central-bank-of-tunisia]] carry **active digital wallets of 815,000 (2025),
+up from 595,000 (2024)**. Multiple outlets reporting the BCT bulletins directly give a **much lower
+wallet count**: **467,000 as at 30 September 2025** (Bulletin n°14, via Challenges), **469,000 at
+end-2025, +26.8% year-on-year** (full-year bulletin, via La Presse, 2026-07-07), and **477,000 active
+wallets at Q1 2026, +22%**. The 2025 transaction figures the wiki carries — **+80.5%/81% growth, 8.4
+million transactions, TND 1,769m** — *are* corroborated by the same reporting; only the wallet count
+diverges, by roughly a factor of 1.7. Pending acquisition of the bulletin itself, treat 815,000 and
+595,000 as **unverified and probably wrong**.
+
 ## Links
 
 Place: [[TUN]] · Concepts: [[dpi.pay]] · [[dpi.id]] · [[gov.standards]] · Entities:

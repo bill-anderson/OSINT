@@ -82,6 +82,10 @@ legacy dimension.
   a case study in failed incumbent privatisation. See [[KEN]], [[tech.industry]].
   Source: [[2026-02-16 Waking the dead - Slow road to extinction for Africa's former telco incumbents 11]].
 
+## Provenance
+
+- Orange Middle East & Africa's **Rapport RSE 2025 ("Grandir Ensemble")**, presented in Casablanca on **2025-07-10**, **is not held as of 2026-07-20**. The circular-economy figures currently on this page and on [[XAF]], [[MAR]], [[BFA]] and [[EGY]] — 164,000 boxes refurbished (+43%), 209t e-waste, 354,000 devices recovered, EUR 13m saved, Morocco 6,000 boxes/EUR 1.5m, Burkina Faso 33t — therefore rest on **trade-press accounts of a document the wiki has not read**, and every figure is **operator-self-reported**. An acquisition attempt on 2026-07-20 located Orange's own announcement of the report but **no retrievable PDF**; the download sits behind a link the fetch could not resolve. Treat the figures as reported-not-verified until the report itself is held.
+
 ## Sources
 
 - [[2025-12-04 Is it a bird Is it plane No, Jim, it's an African mobile operator, but not as we know it 9]]

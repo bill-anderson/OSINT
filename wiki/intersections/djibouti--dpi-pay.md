@@ -43,3 +43,13 @@ A low bank-account base (~25% of 1.1m people) frames Djibouti's payments agenda 
   the event's own billing. Source: [[2023-12-11-lanation-djibouti-lancement-premiere-plateforme-paiement-en-ligne-d-money]].
 
 See [[DJI]], [[dpi.pay]], [[dpi.govtech]], [[include.access]].
+
+## Acquisition note (2026-07-20)
+
+The **list of conventions signed at the 10 December 2023 payment-gateway launch is not held as of
+2026-07-20.** One acquisition attempt on the operator record (`d-money.dj`, `djiboutitelecom.dj`)
+found no release covering the launch event; D-Money's own site carries only the separate BCIMR
+interconnection agreement of 9 October 2023. La Nation's account (held) names the *categories* of
+signatory - "plusieurs departements etatiques, de societes publiques mais egalement de banques de la
+place" - but **enumerates none of them**, and no other source does either. The govtech and payments
+threads therefore cannot say which ministries, parastatals or banks committed to use the gateway.

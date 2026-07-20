@@ -141,3 +141,18 @@ government reports, national root servers). Much of this reform is entangled wit
   Post; Telecommunications Holding Company; Al-Madar Al-Jadid; Al Itissan Al-Jadeed (biometrics vendor);
   E-nable Project (EU); LYPAY ONEPAY.
 - Parent region: [[XNA]] · continental: [[XAF]].
+
+## Record not held (as of 2026-07-20)
+
+**gia.gov.ly (الهيئة العامة للمعلومات, the General Authority for Information) is live and machine-fetchable** — it is
+*not* blocked — but it has **not been mined**, and its individual articles are not held. Confirmed present on its
+news index at 2026-07-20, each with an Arabic-dated headline but **no captured body**: the **91-dataset open-data
+milestone** (2026-02-11); the **National Cloud Computing Policy proposal with ESCWA** (2026-01-01 review, following
+2025-12-30); the **digital-accessibility policy implementation track with ESCWA** (2026-02-04); a **government data
+governance** presentation (2026-02-16); a **blockchain workshop** (2026-01-15); and a meeting between the Authority's
+president and the **Minister of Digital Economy on activating the National AI Strategy** (2026-03-29). Also unheld:
+**LY-DNID** (Level-2 pilot 2025-11-20; Level-3 biometric eKYC with CBL 2026-04-19), **LY-NDEX** (>300m
+transactions/yr, 2026-07-01), and the **AI Ethics Charter + National AI Strategy 2026–2030**.
+
+The blocker here is coverage, not access. **gia.gov.ly is the single richest unmined Libya-DPI source and should be
+added to the standing sweep list** — that is the fix, rather than one-off document acquisition.

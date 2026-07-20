@@ -212,3 +212,20 @@ developer-training start-up, co-founder [[petula-lenguezial]]).
 ## Notes
 
 - Parent region: [[XCA]] · continental: [[XAF]]. CEMAC/BEAC zone for cross-border payments.
+
+## Record not held (as of 2026-07-20)
+
+**No independent measurement of CAR internet penetration is held.** The **13.8% (2024)** figure reaches
+the wiki via World Bank, CEIC and FRED — all of which redistribute the same **ITU** estimate. The ITU's
+own `datahub.itu.int` country page is a JavaScript data explorer returning an empty shell to text
+fetch and needs a browser capture; the 2026-07-20 acquisition pass could not make that capture (the
+Chrome automation extension was not connected) and the item is dropped rather than retried. **ARCEP-CAR
+publishes no penetration statistics at all**, so there is no fourth, independent measurer — every
+number the wiki holds for CAR penetration traces to a single ITU estimate, and should be attributed to
+ITU rather than to its redistributors.
+
+**The $CAR cryptocurrency launch has no dated news primary on file.** Le Monde's *"La Centrafrique lance une
+nouvelle cryptomonnaie"* (2025-02-11) — the only dated news account located — is **bot-blocked** to automated
+retrieval. The wiki's account of the launch consequently rests on a **TechCabal digest plus GI-TOC analysis**, i.e.
+on a discarded-class digest and on secondary analysis, with **no first-hand dated report of the launch itself**.
+Statements about the launch date and terms should be attributed to GI-TOC's analysis rather than asserted flatly.

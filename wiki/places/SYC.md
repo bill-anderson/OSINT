@@ -6,7 +6,7 @@ parent: XEA
 place_kind: country
 topics: [gov.protect, gov.legislate, dpi.id, dpi.registry, dpi.govtech, dpi.pay, gov.regional, dpi.exchange, finance.mou, tech.industry, include.access, gov.standards]
 status: active
-last_reviewed: 2026-07-19
+last_reviewed: 2026-07-20
 ---
 
 # Seychelles (SYC)
@@ -142,3 +142,12 @@ as current state.
   the Diaspora); PS for Immigration Alain Volcere; Registrar General Wendy Pierre; CBS Director
   of Financial Inclusion Liz Julienne; Seychelles Credit Union; Seychelles News Agency; the
   Herminie administration; Africa Commodities Exchange.
+
+## Record not held (as of 2026-07-20)
+
+The **Seychelles News Agency original** on the cheque phase-out returned **HTTP 403 on repeated attempts**, and no
+**CBS primary directive** was obtained. The consequence is specific and load-bearing: the figures the wiki carries
+for the phase-out — **~600,000 cheques in 2023**, and **card plus SEFT transactions above 10 million** — rest on a
+**same-day syndicated copy**, filed `date_source: proxy`, not on the originating report or the Central Bank's own
+directive. **Do not lean on these two figures** without first re-sourcing them; they are the weakest-provenance
+numbers on this page as of 2026-07-20.

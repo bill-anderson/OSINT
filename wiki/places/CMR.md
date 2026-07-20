@@ -88,6 +88,16 @@ and rights as reality.**
 - **Statistics & policy** — [[ins-cameroon]] (RGPH 2026, Open SDG), [[psnsn-cameroon]] (digital health),
   the enacted [[cameroon-data-protection-law-2024]].
 
+> **Gazetted texts not held (as of 2026-07-20).** The official texts of **loi n° 2024/017**
+> (personal data protection) and **loi n° 2024/016** (civil registration), both enacted
+> 23 Dec 2024, are **not held**: prc.cm serves them only as scanned image PDFs from which no
+> machine-readable text can be extracted, so the wiki still reads both laws through secondary
+> reporting. **Décret n° 2025/059 of 28 Feb 2025** *is* now held, though as an `excerpt` —
+> clean through art. 31, with the refugee-card, disability-card and final provisions not
+> captured. Note the decree is broader than a CNI instrument: it governs all *titres
+> identitaires* (national ID card, residence permit, resident card, refugee card, national
+> disability card).
+
 ## Entities
 
 **Identity/CRVS:** [[dgsn-cameroon]] · [[augentic]] · [[idcam]] · [[bunec]] · [[liber-technologies]] · [[cameroon-civil-registration-law-2024]] · [[elecam]] · [[impact-palmares]] · [[ministry-of-external-relations-cameroon]]

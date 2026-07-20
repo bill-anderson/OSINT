@@ -108,3 +108,17 @@ last_reviewed: 2026-07-20
 - Mentioned, not hubbed: Co-Develop Fund; National University of Lesotho; Standard Lesotho Bank; Revenue
   Services Lesotho; Ntlafatsa Bana / CASH Plus; Child Grants Programme (CGP); 50-in-5 campaign;
   Sasai Econet Financial Services (SEFS); US Embassy Maseru.
+
+## Record not held (as of 2026-07-20)
+
+Two Lesotho items remain unheld after the 2026-07-20 acquisition pass, which did obtain the government accounts of
+the **National Data Value Creation Blueprint workshop** (Maseru, 14–15 Jul 2026) and the **AUDPF-domestication
+workshop** (Maseru, 28–31 Jul 2025):
+
+- The **digital service-ID pilot** (10,000 participants, biometric, from 2 Apr 2026) — **no primary located**. No
+  enrolment, completion or coverage figure for the pilot is on file.
+- The **National AI Policy/Strategy text** — **not held**. Ministerial statements about enabling AI applications are
+  held; the instrument itself is not, so its scope and commitments cannot be stated.
+
+Also note: the **Blueprint document itself does not yet exist** — what is held is the first consultative workshop,
+i.e. the start of drafting, not an adopted framework.

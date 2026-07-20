@@ -36,6 +36,17 @@ a **foundational unique identification law of September 2020** (creating [[anid-
   establishing e-ID project governance bodies. Source:
   [[2023-12-21 ISR - WURI Phase 2 Seq 7 (P169594)]].
 
+- **Statutory origin, now primary-sourced (2026-07-20).** The IPDCP is created by **art. 55 of
+  *loi n° 2019-014 du 29 octobre 2019***, whose full gazetted text (*JO de la République
+  Togolaise*, n°26 *ter*, 29 Oct 2019) is now held — superseding the one-line World Bank ISR
+  mention this page previously rested on. Art. 55: *"Il est créé une autorité nationale chargée
+  de la protection des données à caractère personnel dénommée « Instance de protection des
+  données à caractère personnel »"*. Compliance deadlines run from entry into force: **two years**
+  for State / public-service processing, **one year** for all other processing (art. 95).
+- **A separate IPDCP organisation instrument is not held as of 2026-07-20.** The law leaves the
+  authority's organisation and functioning to implementing texts; no such decree has been
+  retrieved. The decrees carried in the same gazette issue concern unrelated matters.
+
 **Provenance note.** The December-2025 accord is reported by Africa Cybersecurity Mag
 **sourced to the IPDCP itself**. The account carries **no critical framing** of a data
 protection authority obtaining access to a broadcast-monitoring room; the absence is recorded

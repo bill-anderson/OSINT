@@ -203,4 +203,16 @@ Place: [[NGA]] · Concepts: [[dpi.pay]] · [[gov.policy]] · Intersection: [[nig
 - [[2026-07-17-skydd-insure-fintech-leadership]]
 - [[2026-07-18-nigeria-retail-investing-boom]]
 - [[2008-12-01-cbn-bullion-nigerian-stock-market-global-financial-crisis]]
+
+## Record not held (as of 2026-07-20)
+
+**CBN Statistical Bulletin Table D.3.4.c is not held.** The table — *Monthly Official Exchange Rate
+(End Period) (N/US$)* — **is confirmed to exist** in the CBN 2009 Statistical Bulletin, listed on the
+Bank's own Part D index (`cbn.gov.ng/out/2010/publications/statisticalbulletins/2009/PartD/PartD.html`),
+which the 2026-07-20 pass retrieved. The index carries no resolvable link to the table file itself and
+direct fetches returned 404. The **2008 monthly ₦/US$ end-period rates therefore still rest on
+secondary aggregators**, and the dollar conversions in
+`contradictions/open/nigeria-2008-crash-loss-and-ngx-market-cap.md` remain unadjudicated on the 2008 leg.
+The **2026 leg is now settled** from the NGX report itself: NAFEM **₦1,374.94/US$1 at 30 April 2026**
+and **₦1,373.25/US$1 at 31 May 2026**.
 - [[2026-05-31-ngx-domestic-foreign-portfolio-investment-report-may-2026]]

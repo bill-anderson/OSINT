@@ -94,3 +94,21 @@ Place: [[ZAF]], [[ZWE]] · Parent: [[cassava-technologies]] (ZAF material) /
 [[econet-wireless-zimbabwe]] (ZWE registered company) · Offtaker: [[africa-data-centres]] ·
 Grid: [[eskom]] · Compare: [[teraco]]'s 120 MW solar PV wheeling into Eskom ·
 Trading as: [[econet-infraco]] (ZWE) · Intersection: [[south-africa--infra-store]]
+
+## Acquisition note (2026-07-20)
+
+The **three-company DPA identity question (REV-DPA-001) is resolved on registry-grade evidence as of
+2026-07-20.** The Econet Wireless Zimbabwe shareholder circular of **4 February 2026** - which
+incorporates the **original Econet InfraCo Pre-Listing Statement as Part D**, both documents the wiki
+previously lacked - was acquired and is staged in `new/`.
+
+It gives the Zimbabwean entity definitively: **Distributed Power Africa (Private) Limited, trading as
+Econet InfraCo**, a company **incorporated in the Republic of Zimbabwe on 21 March 2016 under company
+registration number 2030/2016**. Econet Wireless Zimbabwe Limited (incorporated 4 August 1998,
+registration number 7548/98) **held 100% of Econet InfraCo's issued share capital upon
+incorporation**. Following the Scheme of Reconstruction, the group's real estate and passive
+telecommunications infrastructure assets were consolidated under this entity.
+
+This is the **structure chart / registry extract the page previously recorded as unheld**. The
+supplementary PLS of 2026-03-26, already held, confirms the same entity is the issuer and gives the
+post-listing split (EWZL 70%, exiting shareholders 4.785%, dividend in specie 25.215%).

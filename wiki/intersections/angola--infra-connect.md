@@ -154,3 +154,17 @@ Related: [[angola--infra-store]] · [[angola--data-satellite]]
 - [[2025-08-21-angola-gets-10m-from-japan-for-dtt-project]]
 - [[2026-05-21-angola-cables-uniti-expand-connectivity-itweb]]
 - [[2026-06-12-angola-cables-uniti-partnership-connectingafrica]]
+
+## Acquisition note (2026-07-20)
+
+The **INACOM *Relatorio Anual Estatistico do Sector das Telecomunicacoes e Tecnologias de
+Informacao*, 2024 edition (presented 2025-06-13 at ANGOTIC 2025) is not held as of 2026-07-20** and
+has been dropped as unobtainable by automated fetch. `observatoriotic.gov.ao` is a client-side
+application serving no server-side HTML; four automated routes have now returned nothing, and the PDF
+needs a browser session or manual download. The 2026-07-20 acquisition pass could not make that
+browser attempt — the Chrome automation extension was not connected — so the item is dropped rather
+than retried. Consequently the **national fibre-length question remains
+unsettled**: five official MINTTICS statements run non-monotonic across 2023-2026 (22,000 -> 20,000
+-> 30,000 -> 22,000 -> 28,000 km) with no authoritative series to adjudicate between them. Note the
+standing caveat - **it is not established that the series reports a fibre-km total at all**, so even
+acquisition might not settle it.

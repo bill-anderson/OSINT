@@ -6,7 +6,7 @@ parent: XCA
 place_kind: country
 topics: [dpi.id, dpi.registry, dpi.mis, infra.connect, infra.store, gov.policy, dpi.pay, dpi.govtech, gov.regional, data.statistics, tech.industry, include.divides]
 status: active
-last_reviewed: 2026-07-18
+last_reviewed: 2026-07-20
 ---
 
 # Equatorial Guinea (GNQ)
@@ -108,3 +108,14 @@ pronounced **island (Bioko/Malabo) vs continental (Bata)** and gender divide.
   Muni Dinero / ORTEL (state telecom firms); Ceiba-1/2/ACE cables; AGENDA 2035; BIMEP; the DIP; Ley 1/2016
   de Protección de Datos Personales (pre-window).
 - Parent region: [[XCA]] · continental: [[XAF]].
+
+## Record not held (as of 2026-07-20)
+
+Equatorial Guinea's government news outlet **guineaecuatorialpress.com is cookie-walled** and served no body or
+publication date on repeated automated attempts. Seven GNQ developments the wiki knows of only by their existence
+therefore have **no source of record as of 2026-07-20**: the **Huawei e-Government MoU**; the **e-government law**;
+**BEAC joining PAPSS**; the **Starlink Guinea Ecuatorial** entity creation; the **Jul–Dec 2026 connectivity plan**
+(2G/4G to 85%, "Roaming Cero", 34 towers in Annobón); the **unique person/entity identification code** (likely 2023);
+and the **full text of Ley 7/2024**. This is why the GNQ page carries policy *intent* but almost no dated delivery
+figures — the gap is an access problem at a single publisher, not an absence of activity. Acquisition was dropped
+rather than parked: the cookie wall needs a hand-clip, which no automated pass will beat.

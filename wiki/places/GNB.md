@@ -135,3 +135,8 @@ and **[[starlink]]** satellite entry ([[guinea-bissau--infra-connect]]).
   Horta Inta-á (transitional President); CNT (transitional parliament); Beatriz Lanza (UNU-EGOV); ITMA;
   UNICEF; University of Aveiro; ACE cable; Sonatel.
 - Parent region: [[XWA]] · continental: [[XAF]].
+
+## Provenance
+
+- The wiki now holds the **World Bank DTfA/WARDIP SOP1 Project Appraisal Document (PAD4756, 2023-11-07)**, the financing instrument behind Guinea-Bissau's WARDIP programme. Note it is a **regional** PAD covering The Gambia, Guinea, Guinea-Bissau and Mauritania plus the AU, Smart Africa and ECOWAS — not a Guinea-Bissau-only document. Guinea-Bissau's allocation appears as **US$60.00m** in the financing table and **US$60.50m** in the component-cost table, against a US$0.5m government counterpart contribution; the figure should be written dated and attributed rather than as a bare "US$60M grant".
+- **The 2,877 km backbone figure and the govcloud / data-protection-regulator specifics attributed to WARDIP-GB are not sourced by that PAD** — neither appears in its text. They remain **unsourced as of 2026-07-20**, and most likely sit in the Guinea-Bissau-specific project documents. The **RNEP-GB / WARDIP-GB Final Report (2025-04)** and ARN's **IDN / .GW accented-domains announcement** are **not held as of 2026-07-20**.

@@ -443,3 +443,34 @@ See [[dpi.registry]].
   Muehlbauer High Tech International, BixeLab; ARTICLE 19 experts Prof. Tom Fisher, Dr Reetika
   Khera, Prof. Philip Alston; Ministry of Education (EMIS portal); Youssef Farhat (CHRGJ);
   Statutory Instrument No. 67 of 2024 (Registration of Persons (Amendment) Regulations 2024).
+
+## Acquisition note (2026-07-20)
+
+The **COSASE record of NIRA's UGX 18.3bn payment to USPC (July 2024) is not held as of 2026-07-20**,
+and one acquisition attempt did not surface it. Parliament of Uganda publishes no report or record of
+that session; the payment is reached **only through Nexus Media's 2024-07-22 account**, which gives
+the figure as 30% of a projected **UGX 61bn** card cost, paid for blank cards in June 2024 after
+Attorney General consultation, with the committee unsatisfied as to USPC's "capacity, ownership, and
+mandate". **The contract terms behind the UGX 61bn projection are therefore unheld** - the money side
+of the card-collection constraint (10,152,559 printed / 2,581,457 collected) rests on a single
+trade-press report.
+
+**The UBOS Census 2024 Final Report is still not held (as of 2026-07-20).** The report exists and its
+PDF is public (`ubos.org`, *National Population and Housing Census 2024 — Final Report Volume 1
+(Main)*, December 2024, 34.4 MB), but automated text extraction returns **only the preface** from both
+UBOS's own host and a district mirror — the body appears to be scanned imagery. The **45.9m total** and
+the **23,154,716 adults aged 18+** — the denominator under every Uganda coverage-rate claim on this
+page — therefore remain **second-hand via NIRA**. This needs a manual clip. Also still unheld: NIRA's
+own **2024-07-01 COSASE submission**.
+
+**The Auditor General's NIRA report for FY2024/25 is not published (as of 2026-07-20).** OAG's own
+per-agency listing for NIRA (`oag.go.ug/theagency/54`) runs only to **FY2023/24**, and its year filter
+offers nothing later. This is a **dated absence with a reason**, not a fetch failure: the entity-level
+audit has not been posted, though the consolidated FY2024/25 report has. The finding that the NSIS
+**cannot register deaths** — which is what makes the 35m register a cumulative, un-deregistered count —
+is load-bearing on this page and currently rests on a document the public record does not yet contain.
+
+A **different** parliamentary primary was acquired instead and is staged in `new/`: Parliament of
+Uganda's own record of the COSASE hearing of **30 March 2023** into the Privatisation Unit's
+selection of Veridos for the UPPC joint venture. It bears on the same vendor spine but is an earlier,
+separate session, and it carries no figures.

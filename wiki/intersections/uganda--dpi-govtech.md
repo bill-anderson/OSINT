@@ -104,3 +104,17 @@ Intersections: [[uganda--dpi-id]] · [[uganda--dpi-registry]] · [[uganda--infra
 - Mentioned, not hubbed: Godfrey Kabbyanga Baluku (State Minister ICT); Dr Hatwib Mugasa (NITA-U ED);
   Michael Cengkuru / CoST Uganda; UDAP-GovNet Service Uganda Centre programme; Brenda Maniraguha
   (NITA-U GEA/GIF project manager).
+
+## Acquisition note (2026-07-20)
+
+Uganda's **renewed Government Enterprise Architecture and e-Government Interoperability Framework
+(delivered by 2026-05-27) are not held as of 2026-07-20**, and one acquisition attempt confirmed that
+**neither publisher publishes them**. NITA-U's own project page serves only the **2021 originals**
+(e-GIF and the e-GIF Reference Architecture), and the e-Governance Academy's three project pages
+announce the work and its outcomes without attaching either document. The renewal ran **November 2025
+- May 2026**.
+
+The wiki can therefore state that the frameworks were renewed and **nothing about what they now
+require**: what changed against the 2021 e-GIF, the technical standards MDAs must now build to, and
+any compliance or rollout schedule are all unheld. **No rollout or adoption figure is published as of
+2026-07-20** either.

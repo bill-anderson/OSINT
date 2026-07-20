@@ -144,6 +144,20 @@ not merely an administrative backlog.
 - **Visa digital-ID element** (from the May 2025 [[gabon-visa-partnership-deal]]) is reported
   second-hand and needs a primary source.
 
+## Record not held (as of 2026-07-20)
+
+**No directorate publication of the CNIE enrolment figures exists.** The figures on this page from
+Minister **Adrien Nguema Mba**'s 2 June 2026 answer to the National Assembly (335,384 enrolled;
+164,944 produced; 147,224 collected; 17,720 produced-but-uncollected; 92,614 in processing; 78,500
+litigious) rest on **press accounts of a spoken answer**, and an acquisition attempt on 2026-07-20
+found no upgrade available: neither **DGDI** nor the **Interior Ministry** has published the figures,
+the Assembly's own communiqué and the AGP state agency cover the session without numbers, and no
+*compte rendu intégral* is published. The provenance stands at press-report level and should be
+attributed as such.
+
+Also still unheld: **any dated NIP-coverage figure** against the World Bank "% of population 16+ with
+a NIP" indicator, which remains at its zero baseline (Dec 2024).
+
 ## Sources
 
 - [[2024-06-26-gabon-launches-electronic-national-id-card]]

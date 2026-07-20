@@ -263,3 +263,18 @@ background phrasing in an off-topic article, resolved by specificity in favour o
 *Officeholder note: the ministry — not the minister — is the durable actor here. Boukar Michel held
 the portfolio Jan 2024 – 1 Apr 2026; Haliki Choua Mahamat since. Ministerial quotes on this page are
 dated and attributable to whoever held the post at the time.*
+
+## Record not held (as of 2026-07-20)
+
+Several Chadian instruments cited in reporting the wiki holds have **no text on file as of 2026-07-20**, and no URL
+was located for them: **Ordonnance n°011/PR/2025 du 5 août 2025** (amending art. 18 of Loi n°013/PR/2014 on
+mobile-operator licence conditions); **Ordonnance n°001/PR/2026 du 22 janvier 2026** on the ANSICE reform (Senate
+ratified 2026-03-13, 58–3–0); and **Décret n°280/PR/PM/2026 du 1er avril 2026** on the government reshuffle. Because
+the amending ordinance is unheld, **the current wording of art. 18 cannot be stated** — only that it was amended.
+
+Also unheld: the **2023 World Bank document** that is the wiki's route to the **"$180m / Eximbank" PMICE figure**, and
+the **China Eximbank loan agreement** itself. That figure therefore has **no document behind it on file** and should
+be treated as uncorroborated until one is obtained.
+
+The **gazetted text of the judicial-biometric-data law** adopted 2026-04-10 (138–1) is likewise not held; the wiki
+has the parliamentary report of its adoption only.

@@ -274,3 +274,12 @@ supervision centre for critical digital infrastructure.
   12 chantiers); **FASU** (Fonds d'Accès et de Service Universel — co-funder of the white-zone drive);
   **ONATEL**, **Orange Burkina Faso**, **Telecel Faso** (the three operators carrying half the 75bn FCFA);
   SYC@D (land platform); Faso Ãndúbe (innovation platform); DGTCP; MAG Trade & Investment (Egypt); BN-GPB.
+
+## Record not held (as of 2026-07-20)
+
+**No regulator or ministry primary defines how "zéro zone blanche" is counted.** The whole white-zone corpus on this
+page is **press**; as of 2026-07-20 the wiki holds **no ARCEP annual report, FASU or PACTDIGITAL programme document**
+stating whether the programme counts **telecom sites** or **localities served**, nor whether the baseline is **2019
+or 2020**. Both ambiguities change what the headline coverage numbers mean, so **white-zone progress figures on this
+page should be read as press claims of uncertain basis, not as measured coverage**. This will not arrive through the
+existing route: the ministry publishes substantively via **Facebook**, which is not a sweep target.

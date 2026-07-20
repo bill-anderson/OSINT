@@ -79,3 +79,19 @@ blank card stock those printing figures draw on (**10,152,559 cards printed as o
 ## Related
 
 [[nira-uganda]] · [[ndaga-muntu]] · [[tahaluf]] · [[tech5]] · [[iritech]] · [[UGA]]
+
+## Acquisition note (2026-07-20)
+
+The **Monitor's 2017-07-07 "Government gives printing deal to German firm" is dropped as
+unobtainable (paywall) and is not held as of 2026-07-20.** It was the origin document for Kasaija's
+letter of 3 July 2017, the disqualification of De La Rue and Muehlbauer, and Governor Mutebile's
+objection that Veridos was not a banknote printer - all of which therefore remain **unverified,
+reached only through 2022+ retrospectives**. Also still unheld: the **JVA instrument itself**, any
+**Uganda Gazette** notice, **PPDA** record, **URSB** filing, and **any unit or programme cost for
+USPC card production**.
+
+Three previously-flagged unverified claims are, however, now **resolved** by primaries acquired
+2026-07-20 (staged in `new/`): the **JVA date is 4 October 2018, not 2016-06-11**; the **15-year term
+is confirmed** by Veridos's own announcement of that date; and the **49% is held by a consortium of
+Veridos GmbH *and* Giesecke+Devrient GmbH, not by Veridos alone** (Government 51% through UPPC is
+confirmed). USPC was **formulated in November 2018** as an SPV to revamp UPPC.

@@ -135,3 +135,21 @@ Place: [[ZMB]] · Concept: [[dpi.id]] · Entities: [[dzap]] · [[world-bank]] ·
 - [[2025-12-28 Over 1.3 Million Citizens Enrolled on INRIS]]
 - [[2025-06-12 Zambia says using multiple strategies to meet 50 percent birth registration goal by 2026]]
 - [[2025-01-20 PID Appraisal Stage - Digital Zambia Acceleration Project (P505094)]]
+
+## Acquisition note (2026-07-20)
+
+The **ZRHCP Implementation Status Report (ISR), Sequence No. 2 is not held as of 2026-07-20** - the
+World Bank document-detail page returns **HTTP 403** to automated fetch. Current **disbursement
+against the identity limb, and whether biometric registration under Subcomponent 1.2 has actually
+started, are therefore unestablished**.
+
+The two substantive ZRHCP documents **were** acquired on 2026-07-20 and are staged in `new/` (PAD
+Report No. PADHI00410, 2024-09-05; ESMF, December 2024). They confirm the **UNHCR ProGres -> MoHAIS
+database transfer** (separate servers and peripheral equipment) and the **20 million card** national
+procurement figure, and they **hold both sides of the Subcomponent 1.2 discrepancy**: the PAD gives
+*"Issuing of ID cards to refugees and former refugees nationally (US$6 million)"* with
+*"approximately 150,000 paper-based cards or polycarbonate cards (out of the 20 million ...)"*, while
+the ESMF gives the same subcomponent at **US$6.5 million** and **~100,000 cards**. The ESMF is the
+later document (December 2024 against September 2024) but is not on its face a revision of the PAD
+figure, so the divergence should be carried as unreconciled, not silently resolved to the later
+value.

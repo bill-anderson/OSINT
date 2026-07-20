@@ -308,6 +308,19 @@ last_reviewed: 2026-07-20
 - [[dpi.mis]] · [[gov.standards]] · [[capacity.training]] — HMIS data under-use at facility /
   district level (Livingstonia study); Malawi's national HIS strategy as a rare exception.
 
+> **Commencement and implementing instruments not held (as of 2026-07-20).** The full text of the
+> **Data Protection Act, 2024 (Act No. 3 of 2024)** is now held and reaches **s.53**, the
+> transitional provision: non-significant controllers and processors are exempt for **24 months
+> from the date the Act comes into operation**; significant ones must comply **within 6 months**.
+> But the Act does not itself fix commencement — s.1 leaves that to the Minister by Gazette
+> notice — and **Government Notice 40 of 2024**, the commencement instrument, is **not held**
+> (MalawiLII serves it only through a JavaScript PDF viewer; its record dates GN 40 to
+> **31 May 2024**, Government Gazette Supplement 16a). The widely-reported grace-period expiry of
+> **2 June 2026** therefore rests on the commencement date appointed by an instrument the wiki
+> does not hold, and should be written as reported, not as sourced. The two **2025 implementing
+> regulations** (Registration; Complaints & Investigations) remain download-gated at dpa.mw and
+> are likewise **not held**.
+
 ## Entities
 
 - [[dmap]] · [[world-bank]] · [[malawi-revenue-authority]] · [[blantyre-city-council]] · [[ppda-malawi]]

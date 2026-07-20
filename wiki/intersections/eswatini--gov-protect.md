@@ -127,3 +127,23 @@ Place: [[SWZ]] · Concepts: [[gov.protect]] · [[gov.legislate]] · [[gov.region
 - [[2026-04-30-eswatini-first-national-data-policy-workshop]]
 - [[2026-05-21-critical-state-information-at-risk-in-9-govt-ministries]]
 - [[2025-10-07-eswatini-calls-for-collaboration-to-protect-cyber-space]]
+
+## Acquisition note (2026-07-20)
+
+Two Eswatini-side primaries are **not held as of 2026-07-20** and one acquisition attempt surfaced
+neither.
+
+- The **Sunday Observer's own GIYH security investigation (mid-2025)** - the origin of Eswatini's
+  data-privacy criticism. The wiki still reaches the reporter's finding that public data was
+  locatable on the Government In Your Hand system (*"a glaring security risk"*) **only through
+  Biometric Update's 2025-07-04 second-hand account**. No Sunday Observer / Eswatini Observer URL for
+  the original was locatable. The **method, the scope of the exposure and any government reply in
+  full are therefore unheld** - what is held is a summary of them plus one official acknowledgement
+  quoted at second hand (eGovernment Services director Bongani Ndlangamandla: "we are aware of some
+  gaps, hence the need for a proper digital ID and digital signatures").
+- An **Eswatini-side primary on the minister's Senate answers about the Google MoU (April 2025)**.
+  Maziya's answers to Senator Fezeka Dlamini on data sovereignty in the FY2025/26 budget debate - NDA
+  signed, "need-to-know" access "deactivated post implementation" - reach the wiki **only through
+  Africa-Press syndication (2025-04-02)**. Neither the Eswatini Observer / Times of Eswatini original
+  nor the Senate Hansard was locatable. On a deal whose value and term neither party has published,
+  the best accountability trail remains a syndicated secondary.

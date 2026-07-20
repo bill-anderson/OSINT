@@ -6,7 +6,7 @@ parent: XWA
 place_kind: country
 topics: [dpi.govtech, dpi.id, dpi.exchange, gov.protect, infra.store, infra.cybersec, gov.policy, dpi.mis, include.divides, infra.connect, tech.ai, tech.innovate, tech.industry, capacity.training, capacity.literacy, capacity.research, data.statistics, data.open, gov.legislate, gov.regional, gov.standards, finance.new, geopol.eu, geopol.usa, include.access]
 status: active
-last_reviewed: 2026-07-18
+last_reviewed: 2026-07-20
 ---
 
 # Cabo Verde (CPV)
@@ -98,3 +98,16 @@ digital and "tech islands" hub** (**[[techpark-cv|TechPark CV]]**), backed by th
 - Mentioned, not hubbed: PM Ulisses (José) Correia e Silva; Min. Eurico Monteiro (State
   Modernization & Public Administration); Sec. of State Pedro Lopes (Digital Economy); Health
   Min. Jorge Figueiredo; Cabo Verde Digital; WebLabs / NOSiAkademia; "Sikabadu" diaspora programme.
+
+## Record not held (as of 2026-07-20)
+
+The 2026-07-20 acquisition pass obtained the **SNIAC/Autentika government reference pages**, which supply the
+foundational digital-ID record the Cabo Verde newspaper sweep could not: **CNI** created by Decreto-Lei n.º 19/2014
+(17 Mar 2014) and launched **23 Jan 2018**; **Chave Móvel Digital** created by Decreto-Legislativo n.º 5/2020
+(21 Jul 2020). Those are structural facts and do not age.
+
+**What is still not held is every time-varying figure.** As of 2026-07-20 the wiki has **no CNI enrolment count, no
+CMDCV activation count, and no population-coverage rate** for either system, from any date — the government
+reference pages carry none, and the two-paper sweep scope will not supply them. Statements about how *widely* Cabo
+Verde's digital ID is actually used are therefore unsupported; the page can describe the system's design and legal
+basis, but not its uptake.

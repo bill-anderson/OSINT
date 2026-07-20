@@ -212,3 +212,20 @@ market's velocity.
   SCALED-UP — no page yet, flagged for the entity pass); Telesom (mobile money operator);
   National Communications Authority (NCA); NADRA (Pakistan, ID tech partner); Somali Bankers Association;
   al-Shabaab. Foreign/shared: World Bank, ITU, UNDP, UNICEF, EAC, FBI, BPC, DataReportal.
+
+## Record not held (as of 2026-07-20)
+
+Two classes of Somalia primary remain unheld as of 2026-07-20.
+
+**Founding instruments.** The **MOIFAR CRVS-launch primary** (moifar.gov.so) and the **NIRA Act (Law 009)** PDF both
+failed retrieval. The wiki's account of the CRVS launch and of NIRA's statutory mandate therefore rests on
+**secondary reporting only** — no provision of Law 009 should be quoted or paraphrased as text until the Act itself
+is obtained.
+
+**Where SNID data physically sits — unresolved.** The **NIRA data-centre colocation award, ref 4500377**
+(USD 179,220, published 2026-02-25), *"Data Center colocation service for the National Identification and
+Registration Authority (NIRA) of Somalia"*, sits behind a **tender-service subscriber wall**; a companion award at
+USD 238,960 also appears. That award record would **name the colocation facility** and so settle directly where
+Somali national-ID data is hosted. It is the one open question left by the Somalia hosting reconcile, and it
+**cannot be closed by further research** — no other public document states it. Treat the hosting location as
+**unknown**, not as any particular provider.

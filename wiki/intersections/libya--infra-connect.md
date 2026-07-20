@@ -99,3 +99,17 @@ acknowledged GTI licensing primacy.
 ## Links
 
 Place: [[LBY]] · Concepts: [[infra.connect]] · [[infra.store]] · [[geopol.china]] · Entities: [[lptic]] · [[almadar-aljadid]] · [[gaci-libya]] · [[trans-saharan-fibre-backbone]] · [[huawei]] · [[zte]] · Region: [[XNA]]
+
+## Acquisition note (2026-07-20)
+
+The **USD 700m Huawei eastern-network contract and the USD 198m CBL letter of credit remain
+single-outlet as of 2026-07-20.** One acquisition attempt found no corroborating or primary account:
+the only source carrying both figures is still Libya Security Monitor (2025-08-17), with the network
+name "Barqa 217" from The Arab Weekly (2025-08-18). Libya Herald, The Libya Observer and LANA all
+report the suspension without either figure, and Libya Monitor's Huawei items concern unrelated, far
+smaller contracts (a EUR 4.1m / LD 6.6m eastern cable award; a Libyana network-development contract).
+Neither the Central Bank of Libya nor the eastern administration has published anything on the LC.
+**Both figures must continue to be carried as *reported, not established*.**
+
+The **GTI suspension statement of 2025-08-17 was acquired** on 2026-07-20 (LANA, Arabic, staged in
+`new/`), so the suspension itself no longer rests on outlet re-reports.

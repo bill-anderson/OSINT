@@ -273,6 +273,14 @@ paid. **The government's arithmetic corroborates the plaintiffs.** Full case:
   **[[south-africa--include-divides]]**. Sources:
   [[2026-01-19 SASSA on qualification criteria for COVID-19 SRD]],
   [[2026-01-28 State is blocking access to SASSA grants, argue activists]].
+  **The January 2025 judgment itself is now held** (acquired 2026-07-20):
+  [[2025-01-23-institute-for-economic-justice-v-minister-social-development-srd-judgment]] —
+  *Institute for Economic Justice and Another v Minister of Social Development and Others*
+  **[2025] ZAGPPHC 29**, North Gauteng High Court, Pretoria, heard 29–30 October 2024, judgment
+  **23 January 2025**; also reported [2025] 2 All SA 230 (GP); 2025 (4) SA 249 (GP). Claims about
+  what the court actually held should now cite the judgment rather than GroundUp's account of the
+  filed arguments. **The state's SCA appeal papers remain not held** — filed papers are not published
+  on SAFLII and no route to them was found.
 - **2026-02-27** — **Startup funding rebound, concentrated.** Per **[[disrupt-africa]]** (CY2025): SA
   raised **$335.9m across 42 startups = 20.5% of Africa's $1.64bn**, a **234% surge** on 2024's
   $100.4m but **still below the $512.3m 2023 peak**; average deal **$7.99m**. **Only 16.7%** of

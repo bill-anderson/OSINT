@@ -174,3 +174,21 @@ market, a sovereign-cloud and state-owned data-centre/AI-compute build-out — l
   [[algiers-declaration]] · [[african-telecommunications-union]] · [[smart-africa]]
 - Mentioned, not hubbed: PM Sifi Ghrieb; Prof. Merouane Debbah (National AI Council); DGSN chief Ali
   Badaoui; Bank of Algeria governor Mohamed Lamine Lebbou; ANPDP president Samir Bourehil; Bawabatak portal.
+
+## Record not held (as of 2026-07-20)
+
+**The two Article 8 *référentiels* under Presidential Decree 25-320 are not held, and may not exist yet.** Article 19
+makes the decree's **data-classification and data-source-cataloguing obligations commence only from the publication**
+of a *décision du haut commissaire à la numérisation* publishing those *référentiels*. A French-language press and
+gazette search on 2026-07-20 traced **no such décision** — but a *décision* can be gazetted in the JO's *arrêtés,
+décisions et avis* section without any press notice, so **absence of press evidence is not evidence of absence**.
+Only an issue-by-issue index sweep of the 2026 JO settles it, and that was not run.
+
+Accordingly: **do not state that Decree 25-320's classification and cataloguing obligations are in force.** As of
+2026-07-20 their commencement is **unestablished**. This is the single most consequential open fact on Algerian data
+governance.
+
+*Route for a future sweep:* JORADP publishes French-edition issues at a predictable path —
+`https://www.joradp.dz/FTP/jo-francais/{YYYY}/F{YYYY}{NNN}.pdf` (e.g. `F2026004.pdf` = JO n° 04 of 2026). Each
+issue's front-matter *sommaire* lists every *décision* by title, so a sweep can be done by fetching issues in
+sequence and reading only the sommaire.

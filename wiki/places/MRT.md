@@ -237,3 +237,8 @@ fourth-tier cybersecurity ranking mark the distance still to travel.
 - Mentioned, not hubbed: SmartMS (local integrator); International Mauritania Telecom (IMT); Mauripost;
   WARCIP; Ijraati / Khdamati portals; National AI Strategy 2025–2029.
 - Parent region: [[XWA]] · continental: [[XAF]].
+
+## Provenance
+
+- The **WARDIP AP-01 Notification d'Attribution is not held as of 2026-07-20**, and could not be: proposals close **2026-07-21**, so the award notice — which will carry the winner(s), contract value and beneficial-ownership disclosure — **has not yet been published**. Watch mtnima.gov.mr and beta.mr.
+- For the January-2026 satellite-licence tender, the wiki now holds Agence Ecofin's account of the ARE outcome (BRAINSAT, VDM, Mattel; 9 bids from 13 dossiers; match-the-best-offer condition). **The underlying ARE communiqué itself is not held as of 2026-07-20** — the figures reach the wiki through Ecofin's reporting of it, not the regulator's own text.

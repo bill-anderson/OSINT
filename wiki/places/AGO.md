@@ -94,3 +94,12 @@ Angola's own framing — supplied here largely by **Angop, the state agency, who
   omissions adjusted"); the provincial report states no method — which is the basis for reading the gap as
   adjusted-vs-raw rather than as a live two-value dispute, so no new contradiction is filed. Open as an
   unreconciled **INE data-quality note**, not a wiki conflict.
+
+*Update (2026-07-20): an **INE primary** is now held for the national side —
+[[2025-11-20-ine-angola-censo-2024-relatorio-sintese-resultados-definitivos]], INE's own *Relatório
+Síntese dos Resultados Definitivos* (RGPH 2024), which gives Luanda **8,816,297** and the national
+total **36,604,681** at the census moment of 19 September 2024. The national figure no longer rests on
+ANGOP's report of it. The **full *Resultados Definitivos* report** and the **Luanda provincial report**
+PDFs are still not held — `censo2024.ine.gov.ao` serves them through a download page that automated
+fetch could not resolve — so the **150,787 gap remains unreconciled from INE's own two documents**;
+only the synthesis is in hand, and it states no reconciliation.*

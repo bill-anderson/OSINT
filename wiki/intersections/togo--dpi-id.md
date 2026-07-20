@@ -197,3 +197,23 @@ implementation therefore hardens as the programme's Sahel membership falls away.
 - [[2025-11-03 Senegal taps inspiration from Togo's digital ID experience]]
 - [[2023-01-01 Case Study - G2PX in Togo, End-to-End Digital G2P (World Bank)]]
 - [[2026-05-28 Why decentralized digital identity looks different in every country]]
+
+## Acquisition note (2026-07-20)
+
+Two Togolese primaries are **not held as of 2026-07-20** and one acquisition attempt surfaced
+neither.
+
+- The Secretariat permanent pour le suivi des politiques de reformes et des programmes financiers'
+  ***rapport de mise en oeuvre des reformes, 2e semestre 2025*** - the government body of record
+  behind the **"6m+ NIU at end-December 2025"** figure. The report is confirmed to exist and to have
+  been "recemment publie" (Togo First, 2026-04-23), but it is not web-published at any locatable
+  address. The figure therefore continues to reach the wiki **only through Togo First's reporting of
+  it**, and the **prefecture-level breakdown that would settle whether enrolled / NIU-issued /
+  card-delivered are one counter or three is unheld**. The reporting's claim that they are one
+  counter - citizens "ont recu a la fois une carte biometrique et un numero unique" - remains
+  uncorroborated by the source document.
+- The **ANID/ATD or Kazakh-side record of the three June-2024 ATD-NITEC licensing agreements** is
+  likewise not held. Neither government published its own announcement; the agreements are known only
+  through Kazakh business press (Kursiv, 2024-06-20) and Togolese trade press. **No implementation or
+  deployment record exists at all**, so whether anything was ever deployed under them is
+  unestablished.

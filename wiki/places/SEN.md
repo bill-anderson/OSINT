@@ -306,3 +306,7 @@ last_reviewed: 2026-07-20
 - [[nasa-harvest]] · [[catherine-nakalembe]] — locally-trained crop-mapping AI.
 - Mentioned, not hubbed: CICAD (venue); Startup Act; Al Itissan Al-Jadeed (regional context);
   Mamadou Talla (digital-economy minister); ADD (Senegalese Agency for Digital Development).
+
+## Provenance
+
+- The **draft law replacing Law No. 2008-12 on personal data protection, and its implementing decree, are not held as of 2026-07-20** — and appear never to have been published. The bill cleared the Cour Suprême in 2022 and has been repeatedly "finalised" in CDP workshops since, most recently at a two-day Saly workshop convened with the ministry of communication, telecommunications and the digital economy. The wiki holds Le Quotidien's report of that workshop, carrying CDP president **Ousmane Thiongane**'s account — but that article **carries no publication date**, so it is filed `date_source: proxy` and **the workshop date is unknown**. Senegal's operative data-protection statute therefore remains **Law No. 2008-12 of 25 January 2008** as of 2026-07-20.

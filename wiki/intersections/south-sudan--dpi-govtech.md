@@ -143,3 +143,32 @@ Sources: [[2025-09-16-un-commission-south-sudan-plundering-a-nation-ohchr]],
 Place: [[SSD]] · Concepts: [[dpi.govtech]] · [[gov.policy]] · Intersections: [[south-sudan--dpi-pay]] ·
 [[south-sudan--gov-protect]] · Entities: [[national-communication-authority-south-sudan]] ·
 [[south-sudan-national-revenue-authority]] · [[electronic-services-council-south-sudan]]
+
+## Acquisition note (2026-07-20)
+
+**The Crawford Capital ownership attribution the wiki carried from secondary reporting is retired as
+of 2026-07-20.** The UN Commission on Human Rights in South Sudan's full report - *Plundering a
+Nation*, A/HRC/60/CRP.5, 16 September 2025 - was acquired and is staged in `new/`; its titled section
+*"Collections outsourced to Crawford Capital Ltd."* begins at p.48, with the ownership analysis at
+paras. 164-165 and fn. 273.
+
+**The report does not name Adut Salva Kiir Mayardit anywhere.** The documented on-paper structure is:
+
+- **Garang Mayom Kuoc Malek** - 68% of Crawford Capital Ltd, 95% of Crawford Laboratory Ltd, 61.2% of
+  Capital Pay Ltd; son of a former Deputy Minister for Transport and MP for Twic County.
+- **Jeremy Gisemba**, a Kenyan - 26% of Crawford Capital Ltd and 23.4% of Capital Pay Ltd; the
+  second-largest shareholder in the corporate group.
+- **Ruey Majok Guandong** - previously held 50% of Crawford Capital Ltd at the company's
+  incorporation; son of South Sudan's Ambassador to Turkey.
+- On paper there are **at least seven individual shareholders, with three primary shareholders**;
+  the Commission states that Crawford's financial beneficiaries "extend further and include political
+  elites and their close relatives", but does not name them.
+
+The **only Kiir-family link the Commission documents is a different company**: South Sudan Business
+Registry records show Garang Malek and Ruey Guandong formed **Air Afrik Aviation Limited with
+President Salva Kiir's son, Mayar Salva Kiir, in 2013** - not Crawford. The Commission says Crawford
+"is likely linked to more senior political elite, based on consistent reporting from numerous,
+confidential sources", which is explicitly **not** a documented ownership finding.
+
+Any wiki text naming a Kiir daughter as a Crawford owner should be removed; the defensible statement
+is the shareholding above plus the Commission's own hedged characterisation.

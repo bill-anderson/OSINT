@@ -104,6 +104,18 @@ ultimatums over quality, power and sovereignty.
   the everyday reality is worse — reprimanded operators, diesel-dependent towers, and a province blacked
   out for months. Ambition (PMICE/PATN, IXP) runs well ahead of a fragile, adversarial delivery base.
 
+## Penetration series — a rebase, not a collapse (as of 2026-07-20)
+
+The DataReportal primaries are **both held** ([[2025-03-03-datareportal-digital-2025-chad]],
+[[2025-11-08-datareportal-digital-2026-chad]]), and read together they resolve the apparent 2024→2025
+drop. `Digital 2024: Chad` reported **4.18m internet users / 22.5% penetration** at the start of 2024;
+`Digital 2025: Chad` reports **2.74m / 13.2%** at the start of 2025 — while stating in the same
+document that users **rose by 113,000 (+4.3%)** over that year and that the adoption rate "**remained
+unchanged**". The two percentages are therefore **not comparable across editions**: the 2025 edition
+rebased the series. `Digital 2026: Chad` holds penetration flat at **13.2%** (2.79m users, October
+2025). Chad's measured internet adoption is best written as **13.2% (start of 2025, DataReportal/
+Kepios)**, flat year-on-year — **not** as a fall from 22.5%, which would be an artefact of the rebase.
+
 ## Links
 
 Place: [[TCD]] · Concepts: [[infra.connect]] · [[include.divides]] · [[data.satellite]] · Intersections:

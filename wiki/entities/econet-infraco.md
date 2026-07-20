@@ -150,6 +150,10 @@ date are referenced by the supplementary but **are not held**.*
 - Mentioned, not hubbed: Douglas Mboweni (EWZL CEO, 2025); **Fayaz King** (InfraCo CEO from 2026-03-01);
   T.A. Ngowe (EWZL Group Company Secretary).
 
+## Provenance
+
+- The **Original Pre-Listing Statement dated 2026-02-04** and the **full EWZL shareholder circular** of the same date **are not held as of 2026-07-20** — an acquisition attempt reached only their investor-relations landing pages, with the documents themselves behind PDF download links that the fetch did not retrieve. What the wiki now holds instead is the **Supplementary Pre-Listing Statement of 2026-03-26**, which is sufficient to settle the **Distributed Power Africa identity question**: Econet InfraCo *is* DPA Limited, mid-rename (para. 1.1 and 5.1.2). The **Econet Group parentage limb of ISSUE-033 is not settled by it** — the Supplementary PLS gives the post-transaction ownership split (70.000% Econet / 4.785% exiting shareholders / 25.215% Econet shareholders of record) but does not resolve Econet Wireless Zimbabwe vs Econet Global.
+
 ## Sources
 
 - [[2025-12-15-econet-wireless-zimbabwe-further-cautionary-announcement]]
