@@ -190,7 +190,12 @@ from the day *already* swept, not newly-indexed weekend items.
      `out-of-window`.
    - **Admissibility screen** — skip second-hand / AI syntheses and content-mirror
      domains; prefer a canonical URL over a syndicated copy (**except
-     subtelforum.com** — see *Sources*, where the syndicated copy is staged).
+     subtelforum.com** — see *Sources*, where the syndicated copy is staged). Any
+     domain on **`sweep/drop-list.csv`** (known mirrors / influence-network sites,
+     e.g. `rca.news-pravda.com`) is **never staged** — log the drop as
+     **`inadmissible-origin`** (not `off-topic`) and **seek the original instead**,
+     staging that. If real reporting exists only on such a mirror and no original can
+     be found, file it as a **gap lead** in `reviews/gaps.md`, not a source.
    - **Classify** against `wiki/taxonomy.md` (topic slugs), `wiki/countries.csv`
      (place codes) and known entities; add `lens` where clear (`sovereignty`,
      `colonialism`). Best-effort — ingest validates.
@@ -198,12 +203,18 @@ from the day *already* swept, not newly-indexed weekend items.
      returned by `web_fetch_exa`, never the `web_search_exa` snippet/highlights or
      any shortened rendering. Set `body_completeness: full`. Sanity-check the
      captured length against the article — a body far shorter than the source is a
-     truncated capture, so re-fetch. If the full text is genuinely unavailable
-     (hard paywall, repeated fetch failure), stage the verbatim portion available
-     (or, if none, a one-line note of what failed) + the URL, set
-     `body_completeness: excerpt`, flag it for a manual clip before promotion, and
-     log it. **Never** store an AI summary or paraphrase as the body (see Standing
-     capture rule).
+     truncated capture, so re-fetch. If the page is behind a **paywall that still
+     serves a free lede** (HTTP 200, first 1–3 paragraphs), stage the verbatim free
+     portion with `body_completeness: paywalled` — but **only where that free
+     content, excluding the title, adds value**; drop a headline-only item rather
+     than stage a stub. A `paywalled` item needs a manual subscriber clip before
+     promotion where its payload depends on the withheld body; one whose payload
+     sits in the free lede promotes normally. If the full text is otherwise
+     genuinely unavailable (repeated fetch failure, or a hard paywall yielding
+     nothing usable), stage the verbatim portion available (or, if none, a one-line
+     note of what failed) + the URL, set `body_completeness: excerpt`, flag it for a
+     manual clip before promotion, and log it. **Never** store an AI summary or
+     paraphrase as the body (see Standing capture rule).
 6. **Stage — flat, no subfolders.** Write each survivor to
    `new-queue/YYYY-MM-DD-slug.md` (publication-date prefix; no per-journal or
    per-country folders) with the frontmatter schema below and the full body.
@@ -231,7 +242,7 @@ entities: [[m-pesa]]           # best-effort
 lens: []                       # sovereignty | colonialism, where clear
 retrieved: 2026-07-19          # this sweep's fetch date
 sweep_batch: daily-2026-07-19  # this run
-body_completeness: full        # full | excerpt — 'excerpt' ONLY for a genuine paywall/fetch-fail, never a summary
+body_completeness: full        # full | excerpt | paywalled — 'excerpt' = fetch-fail/unavailable; 'paywalled' = HTTP-200 paywall, free-lede only (keep ONLY if free body excl. title adds value; manual clip before promotion if payload needs the withheld body); never a summary
 ---
 ```
 
@@ -253,7 +264,10 @@ verbatim partial where it doesn't; the `web_search_exa` excerpt or an AI paraphr
 is never an acceptable body. Treat a refusal or a hard fetch failure as a logged,
 retryable per-item failure — stage the verbatim partial (or a one-line failure
 note) + the URL with `body_completeness: excerpt`, routed to manual clip — never a
-run-stopper.
+run-stopper. A **paywall that still serves a free lede** is a distinct case: keep the
+verbatim free portion as `body_completeness: paywalled`, but **only where the free
+content excluding the title adds value** (drop headline-only stubs), with a manual
+subscriber clip before promotion where the payload depends on the withheld body.
 
 ## Daily query clusters (self-contained)
 
@@ -319,6 +333,12 @@ window <start>→<end>`.
 - 2026-07-19 — full-body fidelity made explicit: added `body_completeness` to the
   frontmatter and required the whole verbatim article (from `web_fetch_exa`, not the
   search excerpt); excerpt only for a genuine paywall/fetch-fail, flagged for clip.
+- 2026-07-20 — ISSUE-011 ruling (Bill): added a third `body_completeness` state,
+  **`paywalled`**, for HTTP-200 paywalls that serve only a free lede. Kept **only
+  where the free content excluding the title adds value** (headline-only items are
+  dropped, not staged); manual subscriber clip before promotion where the payload
+  depends on the withheld body. Mirrored in CLAUDE.md (source frontmatter vocab +
+  filing step 3).
 - 2026-07-19 (run 2) — second run same day, to test run 1's index-lag hypothesis.
   Findings folded in above: **the weekend caveat** (07-17 was a Friday and five
   domains independently confirmed no weekend publishing — a weekend tail and an

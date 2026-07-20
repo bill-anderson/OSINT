@@ -33,8 +33,8 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 | Dot Com Zambia PLC | ZMB | dpi.pay, finance.new, dpi.id | [[dot-com-zambia]] |
 | EcoCash Holdings | ZWE | dpi.pay, finance.new | [[ecocash-holdings]] |
 | Econet AI | ZWE | tech.ai, infra.store, tech.innovate | [[econet-ai]] |
-| Econet Group | ZWE, XAF | infra.connect, tech.ai, infra.store | [[econet-group]] |
-| Econet Wireless Zimbabwe | ZWE | infra.connect, dpi.pay, tech.ai | [[econet-wireless-zimbabwe]] |
+| Econet Group | ZWE, ZAF, KEN, NGA, XAF | infra.connect, tech.ai, infra.store, dpi.pay, include.access, finance.new | [[econet-group]] |
+| Econet Wireless Zimbabwe | ZWE | infra.connect, dpi.pay, tech.ai, include.access | [[econet-wireless-zimbabwe]] |
 | First Ally Capital | NGA | finance.new, tech.ai, dpi.pay | [[first-ally-capital]] |
 | Fusepay | SYC | dpi.pay, tech.innovate, finance.new | [[fusepay]] |
 | Global Settlement Network (GSN / GSX / GSH) | XGL, UGA | dpi.pay, finance.new, infra.store | [[global-settlement-network]] |
@@ -226,7 +226,7 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 | OpenAI | KEN, XEA, XGL | tech.ai, capacity.training, geopol.usa | [[openai]] |
 | Anthropic | ZAF, XGL | tech.ai, infra.store, gov.protect | [[anthropic]] |
 | TrendAI | ZAF, XAF | tech.ai, infra.store, gov.protect, infra.cybersec | [[trendai]] |
-| Econet Wireless | ZWE, ZAF, KEN, NGA, XAF | infra.connect, dpi.pay, include.access | [[econet-wireless]] |
+| Econet Wireless (disambiguation) | ZWE, ZAF, KEN, NGA, XAF | infra.connect | [[econet-wireless]] |
 | Cassava — Africa Data Centres (ADC) | ZAF, KEN, NGA, XAF | infra.store, infra.energy, infra.capacity, tech.ai | [[africa-data-centres]] |
 | Cassava — Liquid C2 (Liquid Intelligent Technologies) | XAF, ZAF | infra.connect, infra.store, tech.ai, gov.protect | [[liquid-c2]] |
 | Cassava AI (Cassava Intelligence) | XAF, XGL | tech.ai, infra.capacity, tech.industry | [[cassava-ai]] |
@@ -594,7 +594,7 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 | Instance Nationale des Télécommunications (INT), Tunisia | TUN | infra.connect, gov.standards, tech.industry | [[instance-nationale-des-telecommunications-tunisia]] |
 | Instance Nationale de Protection des Données Personnelles (INPDP), Tunisia | TUN | gov.protect, gov.legislate | [[instance-nationale-protection-donnees-personnelles-tunisia]] |
 | Jakaya Kikwete Cardiac Institute (JKCI) | TZA | dpi.mis, tech.ai | [[jakaya-kikwete-cardiac-institute]] |
-| Japan (Government of Japan) | NGA, XAF, XGL | capacity.training, include.access | [[japan]] |
+| Japan (Government of Japan) | NGA, XAF, XGL | capacity.training, include.access, finance.new | [[japan]] |
 | Kenya Investment Authority (Invest Kenya) | KEN | gov.policy, tech.innovate, finance.new | [[kenya-investment-authority]] |
 | Lusaka City Council (LCC) | ZMB | dpi.govtech, digital.localgov | [[lusaka-city-council]] |
 | Ministère de l'Économie numérique, de la Digitalisation et de l'Innovation (Gabon) | GAB | gov.policy, tech.innovate, finance.mou, capacity.training | [[ministere-economie-numerique-gabon]] |
@@ -1095,7 +1095,6 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 | US–AUC Strategic Investment Working Group | XAF, ETH | geopol.usa, finance.mou, gov.regional | [[us-auc-strategic-investment-working-group]] |
 | Unified MESOB Platform (Ethiopia) | ETH | dpi.govtech, tech.ai, tech.innovate | [[mesob-platform]] |
 | RDC-PASS (DR Congo national digital ID) | COD | dpi.id, dpi.govtech, gov.protect | [[rdc-pass]] |
-| Eswatini Digital Transformation Project | SWZ | dpi.govtech, infra.connect, finance.new | [[eswatini-digital-transformation-project]] |
 | Kenya State Data Marketplace | KEN | data.open, gov.policy, dpi.govtech | [[kenya-data-marketplace]] |
 | Servernah Cloud | KEN, XEA | infra.store, tech.ai, gov.protect | [[servernah-cloud]] |
 | Partner2Connect (P2C) Digital Coalition | XGL, XAF, KEN, ZAF | infra.connect, include.divides, finance.new | [[partner2connect]] |
@@ -1359,7 +1358,7 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 | ADETIC–ANSICE–TECHSO-GROUP National Data Center Audit Agreement | TCD | finance.mou, infra.cybersec, infra.store, gov.standards, dpi.govtech, dpi.exchange | [[adetic-ansice-techso-audit-agreement]] |
 | ASCENT Eswatini (Accelerating Sustainable and Clean Energy Access Transformation) | SWZ | infra.energy, digital.rural, include.access, finance.new | [[ascent-eswatini]] |
 | Chad Digital Transformation Project (P180000 / PAD00070) | TCD | dpi.govtech, finance.new, infra.connect, infra.store, dpi.id | [[chad-digital-transformation-project]] |
-| Digital Eswatini Project (P508948) | SWZ | dpi.govtech, finance.new, infra.connect, dpi.id, capacity.training | [[digital-eswatini-project]] |
+| Digital Eswatini Project (P508948) | SWZ | dpi.govtech, finance.new, infra.connect, dpi.id, capacity.training, infra.cybersec | [[digital-eswatini-project]] |
 | Ecobank–Thunes Instant Cross-Border Payments Partnership | TGO, XAF | finance.mou, dpi.pay, include.access, tech.industry | [[ecobank-thunes-partnership]] |
 | Eswatini-Google Digital Transformation Partnership | SWZ | finance.mou, dpi.govtech, capacity.training, geopol.usa, tech.industry | [[eswatini-google-partnership]] |
 | Eswatini Health System Strengthening for Human Capital Development Project | SWZ | dpi.mis, finance.new, include.access | [[eswatini-health-system-strengthening-project]] |

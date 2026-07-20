@@ -30,7 +30,7 @@ implementation roadmap is scoped under the [[world-bank]]
   criticism or any government response — a provenance gap on the country's most visible
   digital service. See [[gov.protect]], [[sovereignty]]. Source:
   [[2025-08-05 Robust DPI inevitable for Eswatini's economic, jobs boom - World Bank]].
-- **Service ambition (2026-05).** The [[eswatini-digital-transformation-project]]
+- **Service ambition (2026-05).** The [[digital-eswatini-project|Eswatini Digital Transformation Project]]
   negotiations frame GIYH as the channel for passport applications, business
   registration, vehicle licensing, health services, education systems and social
   services. See [[include.access]]. Source:

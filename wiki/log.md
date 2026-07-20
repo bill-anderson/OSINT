@@ -5,6 +5,37 @@ contradictions found, and open `needs-review` flags.
 
 ---
 
+## 2026-07-20 — ISSUE-001 resolved: single-author theses admissible on content
+
+**Curator ruling (2026-07-20):** Bill ruled *"All theses should be accepted on the basis of their
+content. Single authorship is not a reason for rejection"* — broader than the recommended
+narrow admit-as-low-authority-ref. Actioned three ways:
+
+- **Rule recorded.** Added a curator directive to `CLAUDE.md → Source admissibility`: a dated,
+  published thesis/dissertation/academic paper is first-hand work judged like any other published
+  analysis; single/student authorship is not a bar; old ones are historical baselines
+  (cite-don't-absorb). Future theses are now a **tier-1 admit**, not a fresh issue.
+- **Thesis ingested.** *Sylvere Mugumya, "E-Government Systems Interoperability Challenges: Case of
+  Public Sector in Rwanda"* (MSc, University of Rwanda, Oct 2019) admitted from `_leads/` as the
+  companion source page
+  `raw/2019-10-01 E-Government Systems Interoperability Challenges - Public Sector in Rwanda (Mugumya, MSc thesis).md`,
+  tagged `[RWA]` / `dpi.govtech`, `dpi.exchange`, `gov.standards`. Filed as a **dated 2019 baseline,
+  cite-don't-absorb**: the top-five interoperability barriers (constitutional-legal 96%,
+  organizational 88%, collaborative/technological 58%, managerial 54%) and NIDA/NPR's seven
+  integration points are recorded but **not promoted** to synthesis pages and never corroborate a
+  current claim. Entities linked from the companion body ([[nida-rwanda]], [[rwanda-information-society-authority]],
+  [[rura-rwanda]], plus MINALOC/LODA/RLMUA/RDB/MIFOTRA/City of Kigali named in prose); **not
+  force-appended** to the three paged agencies' `sources:` lists — mirrors the ID4D-2016 baseline
+  precedent, which links from the companion rather than cluttering live entity sources.
+- **Artefact placed.** PDF copied to `raw/` as `2019-10-01 SYLVERE MUGUMYA Final Thesis book.pdf`
+  (companion + artefact share the 2019-10-01 prefix). The original still sits in `_leads/` — the
+  remote device bridge can't delete/move, so the `_leads/` copy is a leftover for Bill to `git rm`.
+
+No index change: `RWA.md` already carries all three topics and no new entity page was minted.
+ISSUE-001 removed from `reviews/issues.md`.
+
+---
+
 ## 2026-07-16 — ISSUE-001 resolved (geopol.gulf already in taxonomy)
 
 Bill confirmed **`geopol.gulf`** is already in `wiki/taxonomy.md` (Geopolitics section, line 55 —
@@ -8306,3 +8337,223 @@ ISSUE-018's normalisation-plus-lint recommendation.
 
 Indexes: `topics-index` place lists re-synced from concept frontmatter (10 rows). `places-index`
 needed no change (SEN already listed `tech.industry`). `last_reviewed` set on 16 touched pages.
+
+## 2026-07-20 review — ISSUE-002 resolved (SDN parent region)
+
+**Decision (Bill).** *"For the purposes of this repo SDN is part of XEA."* Confirms CC's recommended
+resolution: **Sudan (SDN) stays under XEA (East Africa)**, matching UN M49's placement of Sudan in
+Eastern Africa and avoiding a mid-batch vocabulary migration.
+
+**Action.** No data change required — `wiki/countries.csv` already carries `SDN,Sudan,XEA` (line 40),
+so the ruling ratifies the status quo; regional roll-ups already resolve SDN → XEA → XAF. Item removed
+from `reviews/issues.md`. Revisit only if regional roll-ups start to mislead.
+
+## 2026-07-20 review — ISSUE-003 ruled (Social Registries duplicate prune)
+
+**Decision (Bill).** *"Accept recommendation."* Approves pruning the relevant-duplicate World Bank
+"Global Insights on Social Registries" companion.
+
+**Verified before action.** Both `.md` companions describe the same World Bank study (Guven / Yeachuri /
+Almenfi, 2024; both "cite, don't absorb", neither holds country figures):
+- **KEEP** — `raw/2024-01-01 Social Registries - Global Insights on Coverage and Beyond (World Bank).md`:
+  cited by [[gambia-social-registry]]; carries the better-identified PDF
+  `2024-01-01 P177331 Social Registries - Global Insights on Coverage and Beyond.pdf`; also tags GMB.
+- **PRUNE (uncited)** — `raw/2024-01-01 Global Insights on Social Registries - Coverage and Beyond.md`
+  and its companion `raw/2024-01-01 Global Insights on Social Registries - Coverage and Beyond.pdf`.
+  No `sources:` rewire needed (the pruned page carries no referrers).
+
+**Execution status — NOT YET DELETED.** CC has no delete/move tool in this cloud session (the device
+bridge reads and writes files but cannot remove them), so the physical prune is delegated to Bill —
+git-reversible:
+`git rm "raw/2024-01-01 Global Insights on Social Registries - Coverage and Beyond.md" "raw/2024-01-01 Global Insights on Social Registries - Coverage and Beyond.pdf"`
+ISSUE-003 is kept in the register annotated **Accepted, pending execution** until the two files are
+gone. Backstop: duplicate-lint (#7) re-surfaces the pair if left in place.
+
+## 2026-07-20 review — ISSUE-003 closed (prune executed by Bill)
+
+Bill deleted the two files. **Confirmed gone** by CC (re-stage of
+`raw/2024-01-01 Global Insights on Social Registries - Coverage and Beyond.md` returns
+"does not exist"). Duplicate resolved: kept `…Coverage and Beyond (World Bank).md` + `P177331` PDF;
+pruned the uncited `Global Insights on Social Registries - Coverage and Beyond` `.md` + `.pdf`.
+No `sources:` rewire was needed (pruned page uncited). ISSUE-003 removed from `reviews/issues.md`.
+
+## 2026-07-20 review — ISSUE-004 resolved (Togo utility-tariff scope)
+
+**Decision (Bill).** *"Accept recommendation."* Admit the Togo CEET tariff item narrowly and adopt the
+general rule.
+- **Source** `raw/2025-05-16 Togo Increases Electricity Prices to Boost Utility's Finances.md` verified
+  as filed and left untouched (raw/ immutable): `places: [TGO]`, `topics: [infra.energy]`,
+  `entities: [[ceet],[boad]]`, full tariff schedule in the body, inline narrow-admission note.
+- **TGO hub corrected to match the ruling.** The interim `infra.energy` line carried the tariff figures
+  (12.5% rise, CFA40bn BOAD) with a "see ISSUE-004" flag; per *"not promoted to the TGO hub"* the
+  figures are removed from the hub, leaving a figure-free pointer that records the decision. Tariff
+  detail now lives only in the source page.
+- **Precedent adopted (editorial, not a CLAUDE.md change):** *on-facet but no data/digital payload →
+  admit narrowly (tag the real facet + place, capture any entity payload), do not promote figures to
+  synthesis/hub pages.* Applies to the utility-tariff class (cf. the Zambia energy-diagnostic instance
+  noted earlier against this issue).
+
+## 2026-07-20 review — ISSUE-005 resolved (merge Eswatini project pages)
+
+**Decision (Bill).** *"Accept recommendation."* Merge `eswatini-digital-transformation-project` into
+`digital-eswatini-project` (P508948, the World Bank's own project name/ID) as keeper.
+- **Keeper `digital-eswatini-project.md` updated:** folded in the 2026-05 report's synthesis
+  (inter-ministerial negotiations; GIYH service scope; cybersecurity frameworks, digital skills, rural
+  broadband); added `infra.cybersec` topic and `lens: [sovereignty]` from the old page; chronology
+  objection recorded as dissolved (PID dates are *Estimated*); **board approval noted as unconfirmed**.
+  Added `aliases: [eswatini-digital-transformation-project, "Eswatini Digital Transformation Project"]`
+  so existing links and raw/ source tags resolve to the keeper once the old file is removed.
+- **Referrers rewired (prose):** `government-in-your-hand`, `ministry-of-ict-eswatini`, `world-bank`
+  now point to `[[digital-eswatini-project|Eswatini Digital Transformation Project]]`; the keeper's own
+  self-references folded into the merge. `entities-index.md` old row removed, keeper row given
+  `infra.cybersec`. The SWZ hub carried no reference. raw/ source frontmatter left untouched (alias
+  covers it).
+- **Old page** `wiki/entities/eswatini-digital-transformation-project.md` banner-marked MERGED and set
+  `needs-review`, **pending deletion** — CC has no delete tool in this cloud session, so the final
+  `git rm "wiki/entities/eswatini-digital-transformation-project.md"` is delegated to Bill. ISSUE-005
+  kept in the register annotated *merged, pending deletion* until the file is gone.
+
+## 2026-07-20 review — ISSUE-006 resolved (Tunisie Telecom CEO name)
+
+**Decision (Bill).** *"Accept recommendation."* One person, canonical **Lassaad Ben Dhiab**;
+**"Assad bin Dyab"** (2026-02-13 digital-health item) recorded on `tunisie-telecom.md` as a
+transliteration variant of the same office-holder, not a second individual. Added a "CEO name — one
+person, two renderings" note with a standing re-check against a primary Tunisie Telecom source (a
+one-line split if they prove distinct). No separate person entity page exists, so no merge needed.
+
+## 2026-07-20 review — ISSUE-005 closed (superseded page deleted)
+
+Bill deleted `wiki/entities/eswatini-digital-transformation-project.md`. **Confirmed gone** by CC
+(re-stage returns "does not exist"). Merge into `digital-eswatini-project` is now complete: keeper holds
+the folded content + aliases; the old slug and press title resolve to the keeper. ISSUE-005 removed from
+`reviews/issues.md`.
+
+## 2026-07-20 review — ISSUE-009 resolved (Econet Wireless conflation split)
+
+**Decision (Bill).** *"Accept recommendation."* Split the conflated `econet-wireless` page; hang
+InfraCo off the Zimbabwean opco. Executed with an interpretation the situation forced: the two target
+entities **already existed** (`econet-group` and `econet-wireless-zimbabwe`, minted in the 2026-07-19
+entity pass but left thin), and **raw/ sources immutably tag `[[econet-wireless]]`**. So rather than
+delete `econet-wireless` (CC can't, and it would orphan raw tags), it was **re-scoped as a
+disambiguation pointer**:
+- **`econet-group`** enriched into the substantive Group page (founder vehicle, pan-African footprint,
+  Cassava/Liquid lineage, Equiano/Liquid, "second division" operator, sovereignty read); places +ZAF/KEN/NGA,
+  topics +dpi.pay/include.access/finance.new, lens +sovereignty.
+- **`econet-wireless-zimbabwe`** enriched into the opco page (1997–98 licence/launch, POTRAZ dominance,
+  EcoCash + InfraCo parentage, cashless-society story); parent link fixed to `[[econet-group]]`.
+- **`econet-wireless`** rewritten as a **disambiguation pointer** to the two — no synthesis; catches raw
+  tags and any stray link so nothing dead-links. No deletion needed.
+- **`econet-infraco`** re-parented to `[[econet-wireless-zimbabwe]]` (frontmatter `entities` + prose +
+  Related); corporate-entity warning rewritten as resolved.
+- **Referrers rewired by context** (group vs opco): `XAF` (second-division operator → group),
+  `strive-masiyiwa` (chair → group), `cassava-technologies` (lineage → group), `econet-telecom-lesotho`
+  (Econet Wireless Global → group); `ZWE` hub (founding + related → opco/group), `ecocash` (service →
+  opco), `victoria-falls-stock-exchange` (InfraCo listing → opco). `entities-index` rows updated.
+- Any un-swept referrer still resolves to the disambiguation page (no dead links).
+
+## 2026-07-20 review — ISSUE-012 resolved (CAF newspaper ledger)
+
+**Decision (Bill).** *"Accept recommendation."* `sweep/archive/ledger.csv` CAF row updated:
+**paper1 = Radio Ndeke Luka** (radiondekeluka.org; caveat: radio station, web items are stubs),
+**paper2 = Oubangui Médias** (oubanguimedias.com). Notes record **Corbeau News Centrafrique**
+(corbeaunews-centrafrique.org) as the standing **third** for the identity beat, and **Agence Ecofin**
+(agenceecofin.com) recognised as CAF's de facto **trade paper of record** (already the most-cited CAF
+source in `raw/`). Domains confirmed from the CAF drop-log / the Oubangui Médias source URL.
+
+## 2026-07-20 review — ISSUE-015 resolved (Socadel/Eneo rename)
+
+**Decision (Bill).** *"Accept recommendation."* **Leave the utility as Eneo** pending a second source —
+the single-source "Socadel (formerly Eneo)" claim (We Are Tech, 2026-05-29) is **not** promoted to a
+rename. No content change required: the claim is already flagged as unverified in its `raw/` source, and
+no synthesis page records the rename (cameroon--infra-store names neither utility). If a second source
+confirms it, record the rename with an effective date and add a redirect note. No `socadel` entity minted.
+
+## 2026-07-20 review — ISSUE-010 resolved (CLAUDE.md rule added, ratified)
+
+**Decision (Bill).** *"Accept recommendation. Add rule."* — explicit ratification of a **CLAUDE.md
+schema change** (satisfies the schema-change-control invariant: never silent, surfaced and approved).
+
+**What changed.** Added a bullet to **Currency discipline** — *"Event date ≠ publication date (secondary
+re-reports)"*: when a source is a secondary account of an event it does not itself break, the event date
+must be established from the primary (or explicitly marked unknown), and a secondary re-report's
+`published` date is **never** promoted to the event date on a synthesis page. The rule is explicit that
+`published` frontmatter/filename still record when the *source* was published (per Filenames); it governs
+only the **event** date reaching a place/concept/entity page.
+
+**Why.** Confirmed repeating defect: the Google Johannesburg cloud region was dated 2025-03-27 (a
+secondary blog's publication date) vs Google's own 2024-01-31 opening — a 14-month error; same mechanism
+produced the open `microsoft-sa-investment-date` contradiction. No retroactive data change made here (the
+rule is forward-binding); the open microsoft-sa contradiction remains tracked in
+`reviews/contradictions/open/` and any stale event dates surface via the freshness lint. ISSUE-010
+removed from `reviews/issues.md`.
+
+## 2026-07-20 review — ISSUE-011 resolved (paywall body_completeness state, ratified + qualified)
+
+**Decision (Bill).** *"Accept recommendation ONLY where available content excluding title adds value."*
+Ratifies the recommendation **with a keep-gate**. This is a **CLAUDE.md schema change** (a third
+`body_completeness` value) — surfaced and approved, per the schema-change-control invariant.
+
+**What changed.** Added **`body_completeness: paywalled`** as a third state for HTTP-200 paywalls that
+serve only a free lede (1–3 paragraphs). Encoded in three places:
+- **CLAUDE.md** — source frontmatter vocab comment (`full | excerpt | paywalled`) and filing step 3
+  (the paywall branch, with the keep-gate and the manual-clip-before-promotion condition).
+- **sweep/daily-README.md** — fetch/capture step, frontmatter template comment, Standing capture rule,
+  and a dated changelog entry.
+
+**Bill's qualifier (the keep-gate).** A `paywalled` item is kept **only where the free-to-read content,
+excluding the title, adds value**. A headline-only item — free body restates the title and no more — is
+**dropped, not stored** (no paywalled stub). Of those kept: payload in the free lede → promotes
+normally; payload depends on the withheld body → **manual subscriber clip before promotion**. The
+free-to-read text is the source's own words, so `paywalled` does not offend the AI-synthesis invariant.
+
+**Backlog note.** The 16 BWA `[CLIP]` items that surfaced this issue are no longer in `new-queue/`
+(drained), so the rule binds **forward**. Any not-yet-promoted paywalled candidates are handled by it at
+promotion; any already ingested under the old `excerpt` handling remain as immutable `raw/` sources
+(superseded going forward, tracked by the excerpt/freshness lint). ISSUE-011 removed from
+`reviews/issues.md`.
+
+## 2026-07-20 review — ISSUE-014 & ISSUE-017 resolved (geopol scope; both recommendations overruled)
+
+**Decision (Bill).** *"Don't add any geopol. geopol = geopolitics not foreign assistance. Japan is
+finance."* — **overrules** CC's recommendations (which had proposed adding `geopol.russia`, and
+considering `geopol.uk`/`geopol.korea`/`geopol.japan`/`geopol.other`). No new `geopol.*` slug is minted.
+
+**Principle encoded.** Added a **Scope note to `taxonomy.md`** under Geopolitics: `geopol.*` means
+geopolitics (great-power positioning, rivalry, strategic influence), **not foreign assistance** —
+bilateral aid, donor funding, development cooperation and project financing are tagged by `finance.*`
+and the topics they fund, not `geopol`. The list is **closed** to per-country aid slugs. (taxonomy.md is
+the curator's subject-vocabulary authority — not a CLAUDE.md schema change.)
+
+**ISSUE-017 — Japan retagged as finance.** `japan` entity: added `finance.new` to topics; replaced the
+"no geopol slug / flagged in reviews" note with the ruling (development funding → `finance.new` + the
+topics it funds, no geopol); noted the finance framing in the activity bullet; `entities-index` row
+updated. The `raw/` source is immutable and untouched.
+
+**ISSUE-014 — no retagging needed.** The Russia (CAR Wi-Fi, Congo Sberbank/CARIA swap), Alger–Moscow
+cyber MoU, DGSN–UK forensics MoU and Korea items never carried a `geopol` slug (none existed) — they
+already ride on `finance.*` / their real topics / the `sovereignty` lens, which the ruling confirms as
+correct. No corpus-wide geopol audit performed (not directed); any stale "rides open ISSUE-014" notes in
+synthesis are now superseded by the taxonomy scope note and resolve harmlessly. Both items removed from
+`reviews/issues.md`.
+
+## 2026-07-20 review — ISSUE-016 resolved (verbatim re-capture; batch already run by Bill)
+
+**Decision (Bill).** *"Already actioned. Excerpts should be overwritten with complete wherever possible.
+Batch of 1016 files has been run."* — accepts the recommendation and reports the corpus batch done:
+the ~1,016 `body_completeness: excerpt` sources have been re-captured to full verbatim where possible.
+
+**CLAUDE.md updated (ratified schema change).** Encoded the **bounded exception to raw/ immutability** in
+the Source page-type section (and a pointer on the folder-structure line): a paraphrase/AI-summary/partial
+`excerpt` body may be overwritten with the source's **own verbatim words** when the **URL is identical**,
+the change touches **only** the body (never facts, framing or frontmatter beyond `body_completeness`),
+filename/`published`/`retrieved`/`sweep_batch` are kept, and `body_completeness` flips to `full` (or
+`paywalled`), logging each. Reconciles immutability with the full-verbatim-body rule — "completing the
+record, not rewriting it."
+
+**Verified.** The trigger case `raw/2026-07-17-ucc-national-push-against-digital-piracy.md` now reads
+`body_completeness: full` (688-word verbatim, 6,049 bytes) — the batch applied it.
+
+**Cleanup pending (delegated).** The parked verbatim capture
+`_leads/2026-07-17-ucc-anti-piracy-VERBATIM-RECAPTURE.md` is now **redundant** (its content is applied to
+the raw source). CC cannot delete from the cloud session — Bill to remove it. ISSUE-016 removed from
+`reviews/issues.md`.

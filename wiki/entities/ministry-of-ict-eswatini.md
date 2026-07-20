@@ -33,8 +33,8 @@ sources: [[2024-12-05 Eswatini Advances Toward Digital Transformation - Key Find
 - **Implementer of Digital Eswatini (P508948).** MICT is named implementer of the
   **US$65.16m** [[world-bank]] [[digital-eswatini-project]] (appraisal 2025-08-01,
   approval 2025-09-01), and appears in the 2026-05 negotiations reported around the
-  [[eswatini-digital-transformation-project]] alongside the Ministry of Finance and the
-  Ministry of Economic Planning and Development. See [[finance.new]]. Sources:
+  [[digital-eswatini-project|Eswatini Digital Transformation Project]] alongside the Ministry of
+  Finance and the Ministry of Economic Planning and Development. See [[finance.new]]. Sources:
   [[2025-06-28 PID Concept Stage - Digital Eswatini (P508948)]],
   [[2026-05-18 Eswatini promotes digital transformation project through World Bank engagements]].
 - **Mandate overlap flagged (2025-07-31).** The [[eswatini-economic-update-2025]]

@@ -37,7 +37,7 @@ InfraCo is held** — the plan is stated as intention, not as an executed event.
 
 ## Related
 
-- [[econet-infraco]] · [[econet-wireless]] · [[ZWE]] · [[finance.new]]
+- [[econet-infraco]] · [[econet-wireless-zimbabwe]] · [[ZWE]] · [[finance.new]]
 
 ## Sources
 

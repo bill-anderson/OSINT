@@ -49,7 +49,7 @@ AU entity plus the affected countries, not to a geographic region.
 new/                      # unprocessed intake queue — clips land here; drained on ingest
 new-queue/                # sweep candidates awaiting human review — only the human promotes to new/
 sweep/                    # Acquisition sweeps (upstream of new/): daily-README.md (daily trade-journal sweep), daily/ (its state), archive/ (completed Phase-2 back-fill)
-raw/                      # admitted sources, flat — immutable after ingest, never edited
+raw/                      # admitted sources, flat — immutable after ingest (one bounded exception: verbatim fidelity re-capture, see Source page type)
   2026-06-16-cassava-nvidia-deal.md
 _leads/                   # parked non-source material (AI syntheses etc.) to mine, not compile
 reviews/                  # held for you — fixes, leads & decisions (separate from queries/, which only reads)
@@ -146,6 +146,13 @@ MoU stays a tagged fact, not a page. A piece on funding trends carries
 
 ## Page types and frontmatter
 
+**Canonical multi-item link lists — one bracket layer per item.** Write
+`sources: [[a], [b], [c]]` and `entities: [[cassava-technologies], [nvidia]]` (outer list brackets,
+each item single-bracketed). This is the **canonical** form. Do **not** write the double-bracket-per-item
+style `sources: [[[a]], [[b]]]`, and never a hybrid (`[[[a], [[b]…`): a parser reading one convention
+mis-reads the other. When appending to a page in the other style, convert the whole line to canonical
+rather than matching the local style. (ISSUE-018.)
+
 ### Source (in `raw/`, immutable)
 ```yaml
 ---
@@ -161,9 +168,21 @@ places: [ZAF]
 topics: [infra.store, tech.ai, geopol.usa]
 entities: [[cassava-technologies], [nvidia]]
 lens: [sovereignty]
-body_completeness: full   # full | excerpt — 'excerpt' only when full text is genuinely unavailable (paywall/fetch-fail)
+body_completeness: full   # full | excerpt | paywalled — 'excerpt' = verbatim portion kept when full text is genuinely unavailable (fetch-fail); 'paywalled' = HTTP-200 paywall serving only a free lede, kept ONLY where the free body excluding the title adds value, needing a manual subscriber clip before promotion if the payload depends on the withheld body
 ---
 ```
+
+**Immutability has one bounded exception — verbatim fidelity re-capture.** `raw/` is immutable to stop
+**retroactive reinterpretation** of the record; it does **not** freeze a known fidelity defect. A source
+whose stored body is a **paraphrase, AI summary or partial `excerpt`** may be overwritten with the
+**source's own verbatim words** — restoring the article as published — under bounded conditions: the
+**URL is identical**; the change **only** replaces a non-verbatim/partial body with the fuller verbatim
+text (it never edits facts, framing, or any frontmatter beyond `body_completeness`); the **filename,
+`published`, `retrieved`/`sweep_batch` and other frontmatter are kept**; and `body_completeness` is
+flipped to `full` (or `paywalled` where a paywall still caps it). Log each instance. This is
+**completing the record, not rewriting it** — and it reconciles immutability with the full-verbatim-body
+rule. **Excerpts are overwritten with the complete body wherever possible.** *(Curator ruling,
+2026-07-20 — ISSUE-016; the 2026-07 batch re-captured the ~1,016 `excerpt` sources on this basis.)*
 
 ### Concept (subject page, in `wiki/concepts/`)
 ```yaml
@@ -226,6 +245,17 @@ A source need **not break news**: a dated, admissibly-published explainer,
 backgrounder, methodology or reference report (e.g. a Biometric Update MOSIP
 explainer, an ITU methodology note) is a valid source — it supplies datable,
 citable reference content even though it reports no fresh event.
+
+**Published academic work is admissible on its content.** A dated, published
+thesis, dissertation or academic paper is first-hand work and is judged **like any
+other published analysis** — **single or student authorship is not a reason for
+rejection**. Treat it as expert analysis (attributed by author and institution,
+dated, tagged as analysis, not primary evidence), applying the ordinary currency
+discipline: an old thesis is a **historical baseline**, cited for its snapshot and
+never promoted over — or used to corroborate — fresher state. This is a **tier-1
+admit**, not an issue for review. *(Curator directive, 2026-07-20 — ISSUE-001
+ruling; supersedes the earlier "single-author student thesis sits below the
+institutional-reference bar" hesitation.)*
 
 **Not admissible as sources** — anything that is a second-hand synthesis,
 especially AI-generated research: Perplexity notes, ChatGPT/Claude/Gemini
@@ -384,10 +414,18 @@ queue means routing each item to its correct destination.
    text; automated collection like the daily sweep does not, so it is now explicit
    and binds every route.) Capture the full text from the page — never a
    search-result excerpt or an AI paraphrase/summary, which is inadmissible as a
-   body (see Source admissibility). Only when the full text is genuinely
-   unavailable (hard paywall, fetch failure) store the verbatim portion available,
-   set `body_completeness: excerpt`, and flag it for a manual clip; otherwise
-   record `body_completeness: full`.
+   body (see Source admissibility). When the page sits behind a **paywall that
+   still serves a free lede** (HTTP 200, first 1–3 paragraphs), keep the verbatim
+   free portion and set `body_completeness: paywalled` — but **only where that free
+   content, excluding the title, adds value**; a headline-only item (the free body
+   adds nothing beyond the title) is **dropped, not stored**. A `paywalled` item
+   whose payload depends on the withheld body needs a **manual subscriber clip
+   before promotion**; one whose full payload sits in the free lede promotes
+   normally. The free-to-read text is the source's own words (first-hand, not a
+   summary), so it does not offend the AI-synthesis invariant. When the text is
+   otherwise genuinely unavailable (fetch failure, or a hard paywall serving nothing
+   usable) store the verbatim portion available, set `body_completeness: excerpt`,
+   and flag it for a manual clip; otherwise record `body_completeness: full`.
 4. **Entities — tag now, page later.** Tag every standing object the source names
    in its `entities:` frontmatter (exhaustive, cheap). For any entity that
    **already has a page**, append this source to its `sources:` list — a one-line
@@ -476,6 +514,18 @@ The rules that bind every sweep:
   a phrasing rule, not an age rule, so it always applies and staleness stays
   visible on the page. Structural facts (a law's provisions, a treaty's terms)
   don't age this way and need dating only when amended or repealed.
+- **Event date ≠ publication date (secondary re-reports).** When a source is a
+  **secondary account of an event it does not itself break** — a later outlet
+  re-reporting an older announcement, deal, launch or appointment — the **event
+  date must be established from the primary** (the announcer's own record) or,
+  failing that, **explicitly marked unknown**. A secondary re-report's `published`
+  date is **never** promoted to the event date on a synthesis page. This closes a
+  confirmed, repeating defect: a secondary outlet's own `published` date silently
+  becoming the dated "as of" for the event — e.g. the Google Johannesburg cloud
+  region mis-dated **2025-03-27** (a secondary blog's date) against Google's own
+  **2024-01-31** opening, a 14-month error. The `published` frontmatter and
+  filename still record *when the source was published* (see Filenames); this rule
+  governs only the **event** date that reaches a place/concept/entity page.
 - **Reference studies: cite, don't absorb.** Large multi-country reference works
   (World Bank flagships, global indices, CCDRs) are captured as `resource` or
   `instrument` entities. Do **not** promote their dated figures into concept or
@@ -790,6 +840,10 @@ the ordinary hygiene in Source admissibility → The author's own work.
     these are unfinished, not filed.
 11. **Missing date prefix** — any `raw/` source (or artefact) without a
     `YYYY-MM-DD` prefix; flag for renaming (with link updates).
+12. **`sources`/`entities` link-list convention** — any page whose `sources:` or
+    `entities:` frontmatter uses the non-canonical double-bracket-per-item style
+    `[[[a]], [[b]]]` (canonical is `[[a], [b]]`), or a malformed hybrid; flag for
+    normalisation. (ISSUE-018.)
 
 ## Getting started
 

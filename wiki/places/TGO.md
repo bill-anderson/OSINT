@@ -190,9 +190,9 @@ the payments, AML, civil-registry and e-ID-rollout threads.
 - [[infra.connect]] · [[include.divides]] — **3.56m internet users, 37.0% penetration (Jan 2025)**,
   +2.2% YoY with the adoption rate unchanged; **6.06m people (63.0%) offline**; **7.53m mobile
   connections = 78.2% of population**, 63.5% broadband; population **9.62m**, **54.7% rural**.
-- [[infra.energy]] — [[ceet]] raised electricity tariffs by an average **12.5%** from **5 May
-  2025**, backed by a CFA40bn [[boad]] facility. *Tariff detail stays in the source page; admitted
-  narrowly — see ISSUE-004.*
+- [[infra.energy]] — [[ceet]] is Togo's national electricity utility. *A May-2025 CEET tariff
+  revision is held in its source page only — on-facet but with no data/digital-governance payload,
+  so its figures are not promoted to this hub (ISSUE-004, ruled 2026-07-20).*
 
 ## Reference studies held (cited, not absorbed)
 

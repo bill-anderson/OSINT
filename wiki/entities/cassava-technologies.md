@@ -13,7 +13,7 @@ sources: [[2026-06-23 Africa's Data Centre Boom Where The New Facilities Are Bei
 # Cassava Technologies
 
 Pan-African digital-infrastructure group founded/chaired by **[[strive-masiyiwa]]**
-(out of the [[econet-wireless]] lineage) — the central private actor in this wiki's
+(out of the [[econet-group]] lineage) — the central private actor in this wiki's
 **African digital-sovereignty** thread. This page is an **index** into the group; the
 detail lives on the subsidiary/initiative pages.
 
@@ -102,7 +102,7 @@ cites the **~$720m** partnership as a sovereign-compute benchmark. See [[geopol.
 
 ## Related
 
-- [[strive-masiyiwa]] · [[econet-wireless]] · [[nvidia]] · [[google]] · [[anthropic]] · [[us-dfc]]
+- [[strive-masiyiwa]] · [[econet-group]] · [[nvidia]] · [[google]] · [[anthropic]] · [[us-dfc]]
 
 ## Sources
 

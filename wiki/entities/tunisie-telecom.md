@@ -27,6 +27,12 @@ and Cyprus.
   advancing services in education, healthcare and smart cities. Tags [[infra.connect]],
   [[infra.capacity]]. Source:
   [[2026-01-19 EBRD and Tunisie Telecom Partner on €190 Million Digital Infrastructure Upgrade]].
+- **CEO name — one person, two renderings.** The CEO is recorded canonically as **Lassaad Ben
+  Dhiab**. A 2026-02-13 digital-health item renders the same office-holder as **"Assad bin Dyab,
+  president and general manager of Tunisie Telecom"** — a transliteration variant of the same
+  person, not a second individual. To be re-checked against a primary Tunisie Telecom source; if
+  they prove distinct (e.g. a board chair vs a CEO), the fix is a one-line split. *(Per ISSUE-006,
+  2026-07-20.)*
 
 ## Sources
 

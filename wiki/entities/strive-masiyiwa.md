@@ -13,7 +13,7 @@ sources: [[2021-05-26 Strive Masiyiwa the philanthropist who connected Africa  M
 # Strive Masiyiwa
 
 Zimbabwean-born telecoms entrepreneur and philanthropist; founder and executive
-chairman of **[[econet-wireless]]** and of **[[cassava-technologies]]** (parent of
+chairman of **[[econet-group]]** and of **[[cassava-technologies]]** (parent of
 [[liquid-c2]] and [[africa-data-centres]]). The single most important private actor in
 this wiki's **African digital-sovereignty** thread — from mobile telephony and
 [[ecocash]] mobile money to today's **[[cassava-ai-factories]]** sovereign-compute push.
@@ -30,7 +30,7 @@ Named the **first Black billionaire on the Sunday Times Rich List (2021)**. Now 
 
 ## Roles
 
-- **[[econet-wireless]]** / Econet Group — founder, executive chairman; the group spans
+- **[[econet-group]]** — founder, executive chairman; the group spans
   telecoms, mobile money ([[ecocash]]), fintech, insurance, renewable energy, education.
 - **[[cassava-technologies]]** — co-founder / executive chairman; pan-African digital-
   infrastructure group ([[liquid-c2]], [[africa-data-centres]], [[cassava-ai]]).

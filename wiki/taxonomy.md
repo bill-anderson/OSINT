@@ -54,6 +54,13 @@ Level-2 topics. **Tag pages with the slug**, never the label.
 - `geopol.india` — India activities
 - `geopol.gulf` — Gulf/UAE activities
 
+**Scope (curator ruling, 2026-07-20).** `geopol.*` means **geopolitics** — great-power positioning,
+rivalry and strategic influence — **not foreign assistance**. Bilateral aid, donor funding,
+development cooperation and project financing (e.g. Japan, Korea, UK or Russia grants and MoUs) are
+**not** `geopol` items: tag them by `finance.*` and the topics they fund. This list is **closed** — no
+new per-country `geopol` slug is minted on the strength of aid/cooperation activity. (Settles
+ISSUE-014 and ISSUE-017.)
+
 ### Capacity
 - `capacity.literacy` — Literacy
 - `capacity.training` — Training and skills

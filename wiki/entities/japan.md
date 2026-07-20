@@ -3,10 +3,10 @@ type: entity
 entity_type: government-body
 title: Japan (Government of Japan)
 places: [NGA, XAF, XGL]
-topics: [capacity.training, include.access]
+topics: [capacity.training, include.access, finance.new]
 lens: []
 status: active
-last_reviewed: 2026-07-19
+last_reviewed: 2026-07-20
 sources: [[2026-07-17-japan-ict-equipment-nigerian-colleges]]
 ---
 
@@ -16,9 +16,10 @@ Bilateral donor in African education and ICT capacity building, working here **t
 rather than directly** — the funder behind projects implemented by
 **[[unesco-iicba]]** and national ministries.
 
-> **Taxonomy note:** the subject taxonomy carries no `geopol.*` slug for Japan (it has `usa`,
-> `china`, `eu`, `india`, `gulf`). Japanese activity is therefore tagged by the topics it funds,
-> not by a geopolitics slug. Flagged in `reviews/issues.md` rather than decided here.
+> **Taxonomy note (curator ruling, 2026-07-20).** `geopol.*` is **geopolitics, not foreign
+> assistance** (see `taxonomy.md`). Japan's activity here is **development funding**, so it is tagged
+> **`finance.new`** plus the topics it funds (`capacity.training`, `include.access`) — no `geopol`
+> slug, and none is minted for donor states. Settles ISSUE-017.
 
 ## Activity in this wiki
 
@@ -31,7 +32,8 @@ rather than directly** — the funder behind projects implemented by
   to Safe and Quality Education for Girls in West Africa*, implemented by the ministry with
   **[[unesco-iicba]]**. Stated aims: strengthen teacher education, improve digital literacy and
   support gender-responsive teaching. **No monetary value, per-institution allocation, list of
-  recipient colleges or project timeframe is disclosed** in the held source. See [[NGA]],
+  recipient colleges or project timeframe is disclosed** in the held source. Recorded as
+  development funding ([[finance.new]]) rather than a geopolitics item. See [[NGA]],
   [[capacity.training]], [[capacity.literacy]], [[include.access]]. Source:
   [[2026-07-17-japan-ict-equipment-nigerian-colleges]].
 

@@ -190,7 +190,7 @@ doubles as the data protection authority** — there is no separate DPA.
 
 ## Foundational: Econet / mobile money
 
-- **[[strive-masiyiwa]]** founded **[[econet-wireless]]** — licensed in **1997**
+- **[[strive-masiyiwa]]** founded **[[econet-wireless-zimbabwe|Econet Wireless]]** — licensed in **1997**
   only after winning a **constitutional-court battle** against the state telecom
   monopoly. Its **[[ecocash]]** mobile-money service made Zimbabwe a candidate
   for "**Africa's first cashless society**": by **2014** roughly **43% of GDP**
@@ -252,7 +252,7 @@ report held with it (Togo, Tunisia), so a series template artefact, not a one-of
 - [[powertel-paratus-fibre-corridor]] · [[paratus]] · [[starlink]] · [[uae]] · [[telone]]
 - [[america-first-global-health-strategy]] · [[zimbabwe-us-health-mou]] · [[usaid]]
 - [[hikvision]] · [[zte]] · [[huawei]] · [[safe-city-project-zimbabwe]]
-- [[strive-masiyiwa]] · [[econet-wireless]] · [[econet-infraco]] · [[ecocash]] ·
+- [[strive-masiyiwa]] · [[econet-wireless-zimbabwe]] · [[econet-group]] · [[econet-infraco]] · [[ecocash]] ·
   [[cassava-technologies]] · [[victoria-falls-stock-exchange]]
 - [[potraz]] · [[zimbabwe-cyber-and-data-protection-act]] · [[zimbabwe-si-76-2025]] ·
   [[zimbabwe-deeds-registry]] · [[ministry-of-justice-zimbabwe]] ·

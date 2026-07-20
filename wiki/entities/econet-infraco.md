@@ -4,24 +4,25 @@ entity_type: company
 title: Econet InfraCo
 places: [ZWE]
 topics: [infra.store, infra.energy, infra.connect, tech.industry, finance.new]
+entities: [[econet-wireless-zimbabwe], [strive-masiyiwa], [victoria-falls-stock-exchange]]
 status: needs-review
-last_reviewed: 2026-07-17
+last_reviewed: 2026-07-20
 sources: [[2025-12-19 Econet approves ambitious Harare IT park data centre], [2025-12-22 Zimbabwe's Econet InfraCo announces industrial park plans]]
 ---
 
 # Econet InfraCo
 
-**The infrastructure arm of Econet Wireless Zimbabwe** — towers, fibre, power systems and
+**The infrastructure arm of [[econet-wireless-zimbabwe]]** — towers, fibre, power systems and
 data facilities — being separated out as a dedicated infrastructure company, and the
 vehicle for a **300-hectare industrial and IT park near Harare's airport** including a new
 data centre.
 
-**Corporate-entity warning.** Four names appear in the sources and are used loosely:
-**Econet Wireless Zimbabwe** (the listed Zimbabwean operator), **Econet Group / Econet
-Global** (Strive Masiyiwa's founder vehicle), **Econet InfraCo**, and the wiki's held
-[[econet-wireless]] page, which currently **conflates the Group and the Zimbabwean opco**.
-**Both held sources agree InfraCo sits under Econet Wireless *Zimbabwe*.** This page is
-kept distinct and must not be folded into [[econet-wireless]].
+**Corporate-entity note (resolved, ISSUE-009).** Three related names appear in the sources:
+**[[econet-wireless-zimbabwe]]** (the listed Zimbabwean operator), **[[econet-group]]** / Econet
+Global (Strive Masiyiwa's founder vehicle), and **Econet InfraCo**. **Both held sources agree
+InfraCo sits under Econet Wireless *Zimbabwe***, so InfraCo is parented to
+[[econet-wireless-zimbabwe]], not the Group. The formerly conflated `econet-wireless` page has been
+split into those two entities and is now a disambiguation pointer ([[econet-wireless]]).
 
 ## ⚠ Open contradiction — is InfraCo new?
 
@@ -49,8 +50,8 @@ kept distinct and must not be folded into [[econet-wireless]].
 - **Approved by founder [[strive-masiyiwa]]**; announced by CEO **Douglas Mboweni**, who
   said: "Our vision is to create infrastructure, such as power and water facilities, needed
   for a modern industrial park. This will make it easier for investors to come in, take
-  advantage of the location, and create jobs." *(Mboweni refreshes to 2025 as CEO; the held
-  [[econet-wireless]] page dates him to 2014.)*
+  advantage of the location, and create jobs." *(Mboweni refreshes to 2025 as CEO; the former
+  `econet-wireless` page dated him to 2014 — now on [[econet-wireless-zimbabwe]].)*
 
 ## Why separate the towers
 
@@ -73,7 +74,7 @@ downstream and hedged ("local newspaper reports say", "apparently") — attribut
 
 ## Related
 
-- [[econet-wireless]] · [[strive-masiyiwa]] · [[victoria-falls-stock-exchange]] ·
+- [[econet-wireless-zimbabwe]] · [[strive-masiyiwa]] · [[victoria-falls-stock-exchange]] ·
   [[cassava-technologies]] · [[ZWE]] · [[infra.store]]
 - Mentioned, not hubbed: Douglas Mboweni (CEO, 2025).
 

@@ -243,7 +243,7 @@ rule, is all `XAF` children except `XNA`; `XGL` is for non-Africa-specific/globa
   the continent's four "power players" ([[mtn-group]], [[airtel-africa]],
   [[orange]], [[vodacom]]) become **data/holding companies** (spinning out towers,
   data centres, wholesale/Bayobab, mobile money; MTN's **EVA/Genova** AI unit),
-  with a "second division" ([[axian-telecom]] US$600m raise, [[econet-wireless]])
+  with a "second division" ([[axian-telecom]] US$600m raise, [[econet-group]])
   and the **former fixed-line incumbents** (Telkom Kenya, Sotel, Gamtel, Camtel,
   SCPT) as "stranded assets." Southwood argues the liberalisation-era **regulators
   must repurpose** around digital infrastructure (licence-passporting, data-

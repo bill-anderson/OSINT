@@ -1,0 +1,2 @@
+domain,network,rule,added,note
+rca.news-pravda.com,Pravda network (unattributed automated content mirror),never stage; seek and stage the original instead; log drop as inadmissible-origin,2026-07-20,"Most prolific CAR digital-news hit in every French query of the CAF sweep. Verified verbatim mirror of Oubangui Medias (AIAL data-centre story, reposted ~2 min after the original). High-volume, on-topic, correctly dated and superficially clean, so a naive FR run would build a country's record out of it. See ISSUE-013."

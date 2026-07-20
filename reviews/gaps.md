@@ -568,6 +568,19 @@ study). See log.md.)*
   **World Bank P174620 / CARDIP** institutional and financing pass ([[cardip]] rests on one paywalled
   Africa Business Insight lede). *Leads: an AfDB project page or CAB closure report; a primary for the
   Kigali MoU; the WB project document / a BEAC-CEMAC CARDIP release.* (Surfaced CAF sweep, 2026-07-18.)
+- **GAP-CAF-005 · CAR digital-identity / état-civil strategic report validation (April 2025) — original not located.**
+  A story reporting the validation of a strategic report on CAR's digital-identity / civil-registration
+  (état-civil) push (~April 2025) is reachable **only via the `rca.news-pravda.com` mirror** (dropped as
+  inadmissible-origin, see ISSUE-013 / `sweep/drop-list.csv`); the primary/original was not located. *Lead:
+  find the domestic original (Oubangui Médias / Radio Ndeke Luka / an official communiqué) and source that.*
+  (Surfaced Phase-2 CAF sweep, 2026-07-17; filed 2026-07-20.)
+- **GAP-CAF-006 · SOS Télécoms licence (CAR) — original not located.** A report of an SOS Télécoms licence in
+  CAR is reachable only via the `rca.news-pravda.com` mirror (dropped as inadmissible-origin); no original
+  found. *Lead: an ARCEP-equivalent regulator notice or a domestic outlet's original.* (Surfaced Phase-2 CAF
+  sweep, 2026-07-17; filed 2026-07-20.)
+- **GAP-CAF-007 · "Pata Polélé" (CAR) — original not located.** A "Pata Polélé" digital item surfaced only via
+  the `rca.news-pravda.com` mirror (dropped as inadmissible-origin); no original found. *Lead: identify what
+  Pata Polélé is and source a domestic primary.* (Surfaced Phase-2 CAF sweep, 2026-07-17; filed 2026-07-20.)
 
 - **GAP-CMR-001 · Official gazette text of the two paired 23-Dec-2024 laws not held.** The
   personal-data-protection **Loi n°2024/017** (recorded as [[cameroon-data-protection-law-2024]]) and the
