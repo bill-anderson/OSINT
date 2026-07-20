@@ -165,3 +165,43 @@ after that drain.)*
   and any Kenya Digital Economy Acceleration Project (KDEAP) results framework naming a hub target —
   the latter is a World Bank-financed project and should have a published results framework. Bears on
   [[wiki/places/KEN]], [[wiki/entities/ict-authority-kenya]].
+- **[untried] MACRA radio-frequency spectrum licence fee schedule (current, post-2025-06-23 revision).**
+  The table of prices for terrestrial spectrum services MACRA's site says is "made available" but does
+  not publish. Would settle the base fees in MWK and the effective date of the 20% cut. No URL known;
+  try `macra.mw/downloads/` and a direct request. **Note s.52(2) of the Communications Act 2016 lets
+  MACRA review fees with no publication duty attached, so this absence may be permanent rather than a
+  gap.** Bears on [[wiki/intersections/malawi--infra-connect]], [[wiki/entities/macra-malawi]].
+  [reconcile 2026-07-20]
+- **[untried] Malawi Gazette notice or statutory instrument amending spectrum licence fees (2025).**
+  Sought and not found via Exa 2026-07-20. May not exist — see the publication-duty note above. One
+  automated attempt only. [reconcile 2026-07-20]
+- **[untried] Parliament of Malawi Hansard, sitting of Friday 2026-07-17.** Namalomba's actual words on
+  the "50%" spectrum figure and the DMAP $150m amount — both currently rest on press reports of the
+  speech. [reconcile 2026-07-20]
+- **[untried] Ghana Gazette notice of 27 March 2026 — National Identity Register (Amendment)
+  Regulations, 2026 (L.I. 2523).** All three dates (signature, gazetting, 9 June commencement) and the
+  enabling section (s.73(1), Act 750) currently rest on the NIA's own press release, not on the
+  instrument. Ghana Publishing Company / Parliament of Ghana. Bears on
+  [[wiki/entities/national-identification-authority-ghana]], [[wiki/places/GHA]]. [reconcile 2026-07-20]
+- **[blocked] NIA press release, 16 July 2026 — "Government Makes Biometric Verification Mandatory for
+  Ghana Card Verification Under New L.I. 2523".** Original post is Facebook-only and login-walled
+  (`facebook.com/officialNIAGH/posts/.../1522136326623174/`); not on `nia.gov.gh/news/` as observed
+  2026-07-20. Held body is the release's own wording recovered verbatim from two independent full-text
+  carriers agreeing word-for-word, `body_completeness: excerpt`. **Manual clip wanted.**
+  [reconcile 2026-07-20]
+- **[untried] CBK presentation to the joint National Assembly Finance & National Planning / Public Debt
+  & Privatisation committees, 20 Jan 2026** (Thugge on M-PESA systemic importance). Would define the
+  basis and as-of date of the "32m+ monthly users" figure, which **matches no Safaricom-published
+  number**. Parliament of Kenya committee records. Bears on [[wiki/intersections/kenya--dpi-pay]].
+  [reconcile 2026-07-20]
+- **[untried] Central Bank of Kenya National Payments System / mobile-money statistical release,
+  2025–26.** An independent regulator-side M-PESA user and transaction series; **none held**, which is
+  why the CBK figure above cannot be checked against anything but Safaricom's own reporting.
+  [reconcile 2026-07-20]
+- **[untried] Safaricom PLC 2026 Annual Report (published ~2026-07-10).** Carries Kenya M-PESA 90-day
+  active (~46.8m) and ecosystem counts absent from the results booklet — a different basis again from
+  the 30-day-active series the wiki now carries. [reconcile 2026-07-20]
+- **[blocked] Manual subscriber-quality clip of the Safaricom FY26 and HY26 results booklet PDFs.**
+  Both held as `body_completeness: excerpt` — narrative review and all Group/Kenya/Ethiopia KPI tables
+  captured verbatim, but later financial-statement pages returned garbled by the fetch.
+  [reconcile 2026-07-20]

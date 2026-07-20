@@ -5,8 +5,8 @@ title: Ghana Card
 places: [GHA]
 topics: [dpi.id, dpi.pay, dpi.registry, gov.legislate]
 status: active
-last_reviewed: 2026-07-16
-sources: [[2026-04-01 RETRACTION Ghana's National ID cards can now make payments], [2026-01-28 Margins ID Group emerges as Africa's leading provider of certified digital identity solutions], [2026-01-20 Margins takes Ghana's ID success to The Gambia], [2026-01-11 Ghana Card mandatory for banking and digital transactions - BoG], [2025-09-13 NIA clears Ghana Card backlog, issues instant card nationwide], [2025-05-01 NIA to capture 7 million under-15s and 3 million Ghanaians abroad for Ghana Card], [2025-05-06 Ghana takes first-time national ID card requests online (plus new chip-embedded passport)], [2025-03-20 National ID system yet to realize full potential (Ghana Card)], [2025-08-04 93 - Ecosystem Debt or Generative Platforms A Case for Digital Public Infrastructure]]
+last_reviewed: 2026-07-20
+sources: [[2026-07-16-nia-li-2523-biometric-verification-press-release], [2026-07-16-ghana-card-digital-checks-compulsory-bbc], [2026-07-15-photocopying-ghana-card-illegal-fines-graphic], [2026-07-15-biometric-verification-mandatory-ghana-card-myjoy], [2026-04-01 RETRACTION Ghana's National ID cards can now make payments], [2026-01-28 Margins ID Group emerges as Africa's leading provider of certified digital identity solutions], [2026-01-20 Margins takes Ghana's ID success to The Gambia], [2026-01-11 Ghana Card mandatory for banking and digital transactions - BoG], [2025-09-13 NIA clears Ghana Card backlog, issues instant card nationwide], [2025-05-01 NIA to capture 7 million under-15s and 3 million Ghanaians abroad for Ghana Card], [2025-05-06 Ghana takes first-time national ID card requests online (plus new chip-embedded passport)], [2025-03-20 National ID system yet to realize full potential (Ghana Card)], [2025-08-04 93 - Ecosystem Debt or Generative Platforms A Case for Digital Public Infrastructure]]
 ---
 
 # Ghana Card
@@ -22,6 +22,20 @@ Jan-2026 BoG directive it is the primary — and mostly sole — ID for financia
 
 ## Activity in this wiki
 
+- **Biometric-only verification: L.I. 2523 (in force 2026-06-09).** [[gov.legislate]] [[gov.protect]]
+  The **National Identity Register (Amendment) Regulations, 2026 (L.I. 2523)** make it an offence to
+  photocopy, scan, retain or visually inspect the Ghana Card for the purpose of a transaction. Identity
+  must be verified by **real-time biometric match against the NIA database** via the Authority's Identity
+  Verification System Platform (IVSP), and where that is available the **physical card need not be
+  presented at all** — the credential becomes a pointer to the register rather than a document read on
+  its face. Penalties on summary conviction: **GH¢6,000–24,000** (organisations) and **GH¢600–6,000**
+  (individuals), at the GH¢12 penalty unit in force July 2026. Gazetted **27 March 2026**, in force
+  **9 June 2026**, publicised by the NIA on **16 July 2026** (dating corrected 2026-07-20 — earlier
+  reports gave the gazette date as 15 July 2026 or as June 2026, both wrong). Sources:
+  [[2026-07-16-nia-li-2523-biometric-verification-press-release]],
+  [[2026-07-16-ghana-card-digital-checks-compulsory-bbc]],
+  [[2026-07-15-photocopying-ghana-card-illegal-fines-graphic]],
+  [[2026-07-15-biometric-verification-mandatory-ghana-card-myjoy]].
 - **Mandatory for banking / digital transactions (BoG, 2026-01-11).** [[dpi.pay]] [[gov.legislate]]
   A revised Bank of Ghana Supervisory Guidance Note ([[bank-of-ghana]]) makes the Ghana Card the
   primary — and in most cases **sole** — ID for financial onboarding, with **full biometric +
@@ -75,6 +89,10 @@ Jan-2026 BoG directive it is the primary — and mostly sole — ID for financia
 
 ## Sources
 
+- [[2026-07-16-nia-li-2523-biometric-verification-press-release]]
+- [[2026-07-16-ghana-card-digital-checks-compulsory-bbc]]
+- [[2026-07-15-photocopying-ghana-card-illegal-fines-graphic]]
+- [[2026-07-15-biometric-verification-mandatory-ghana-card-myjoy]]
 - [[2026-04-01 RETRACTION Ghana's National ID cards can now make payments]]
 - [[2026-01-28 Margins ID Group emerges as Africa's leading provider of certified digital identity solutions]]
 - [[2026-01-20 Margins takes Ghana's ID success to The Gambia]]

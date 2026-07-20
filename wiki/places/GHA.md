@@ -31,15 +31,26 @@ last_reviewed: 2026-07-20
   statute exists.** The governing stack is the **National Identification Authority Act, 2006 (Act 707)**
   (gazetted 21 Apr 2006), the **National Identity Register Act, 2008 (Act 750)** (gazetted 15 Feb 2008),
   the **National Identity Register (Amendment) Act, 2017 (Act 950)** (assented 4 Dec 2017), and the
-  **National Identity Register Regulations, 2012 (L.I. 2111)** as amended by **L.I. 2356 (2018)** and
-  again in **July 2026**; Acts 707 and 750 were each also amended by the **Data Protection Act, 2012**.
+  **National Identity Register Regulations, 2012 (L.I. 2111)** as amended by **L.I. 2356 (2018)** and by
+  **L.I. 2523 (2026)** (gazetted 27 Mar 2026, in force 9 Jun 2026); Acts 707 and 750 were each also
+  amended by the **Data Protection Act, 2012**.
   A propagated citation error, corrected against the **[[national-identification-authority-ghana|NIA]]**'s
   own published list of governing law. See [[ghana--dpi-id]], [[gov.legislate]]. Source:
   [[2023-11-05-nia-ghana-laws-and-regulations]].
-- **2026-07** — **L.I. 2111: biometric-only Ghana Card verification.** Amendment gazetted making **biometric
-  verification the only lawful means** of verifying a Ghana Card holder — **photocopying/visual inspection now a
-  criminal offence** (fines to GH¢24,000). See [[national-identification-authority-ghana]], [[ghana--dpi-id]].
-  Sources: [[2026-07-15-photocopying-ghana-card-illegal-fines-graphic]],
+- **2026-07-16** *(dating corrected 2026-07-20)* — **L.I. 2523: biometric-only Ghana Card verification.** The
+  **National Identity Register (Amendment) Regulations, 2026 (L.I. 2523)** make **biometric verification the
+  only lawful means** of verifying a Ghana Card holder in a transaction — **photocopying, scanning, retention
+  or visual inspection is now a criminal offence** (organisations **GH¢6,000–24,000**, individuals
+  **GH¢600–6,000**, at the GH¢12 penalty unit in force July 2026). Signed by Interior Minister **Muntaka
+  Mohammed Mubarak** on **27 March 2026** under **s.73(1), Act 750**, **gazetted the same day**, and **in
+  force from 9 June 2026**; the **[[national-identification-authority-ghana|NIA]]** publicised it on
+  **16 July 2026**. *The two reports first held here dated the gazetting to **15 July 2026** (the date of the
+  Executive Secretary's Facebook post, which wrongly said "gazetted today") and a third to **June 2026**
+  (the commencement date, not the gazetting) — both corrected against the Authority's own press release.*
+  See [[national-identification-authority-ghana]], [[ghana--dpi-id]], [[gov.legislate]]. Sources:
+  [[2026-07-16-nia-li-2523-biometric-verification-press-release]],
+  [[2026-07-16-ghana-card-digital-checks-compulsory-bbc]],
+  [[2026-07-15-photocopying-ghana-card-illegal-fines-graphic]],
   [[2026-07-15-biometric-verification-mandatory-ghana-card-myjoy]].
 - **2026-07-15** — **NGIC's 5G exclusivity formally revoked.** The **[[national-communications-authority-ghana|NCA]]**
   **amended [[ngic-ghana|NGIC]]'s wholesale 5G licence** to delete the exclusivity provision, **effective 15 July
@@ -311,7 +322,8 @@ last_reviewed: 2026-07-20
 - [[tech.ai]] · [[infra.store]] · [[finance.new]] — $250m AI compute centre + National AI
   Strategy; Huawei AI-skills partnership ([[geopol.china]], [[include.divides]]).
 - [[dpi.id]] · [[dpi.registry]] · [[dpi.govtech]] — statutory basis: **Act 707 (2006)**, **Act 750
-  (2008)**, **Act 950 (2017)** and **L.I. 2111 (2012)** as amended by **L.I. 2356 (2018)** — *not* the
+  (2008)**, **Act 950 (2017)** and **L.I. 2111 (2012)** as amended by **L.I. 2356 (2018)** and **L.I. 2523
+  (2026)** — *not* the
   non-existent "National Identification Act 2009" the wiki previously cited (corrected 2026-07-20).
   Ghana Card / national ID via the
   **[[national-identification-authority-ghana|NIA]]** (~19.2m registered, 262 institutions; backlog
@@ -350,6 +362,6 @@ last_reviewed: 2026-07-20
 - Intersections: [[ghana--dpi-id]] · [[ghana--dpi-pay]] · [[ghana--dpi-govtech]] · [[ghana--gov-protect]] · [[ghana--infra-connect]] · [[ghana--tech-ai]] · [[ghana--infra-store]]
 - Mentioned, not hubbed: Ministry of Communication, Digital Technology and Innovations;
   UNESCO; GIZ FAIR Forward; The Future Society; Google Africa Applied AI Lab (Accra); Girls in
-  ICT / One Million Coders programmes; Moses Kwesi Baiden Jnr (Margins CEO); Wisdom Kwaku Deku
-  (NIA ES); Teki Akuetteh (DPC board chair); Nana Yaw Amoah-Yeboah (NITA DG); Cyber Security
+  ICT / One Million Coders programmes; Moses Kwesi Baiden Jnr (Margins CEO); Wisdom Yayra Koku Deku
+  (NIA Executive Secretary — reported variously as "Wisdom Kwaku Deku" and "Yayra Koku"; one man, not two); Teki Akuetteh (DPC board chair); Nana Yaw Amoah-Yeboah (NITA DG); Cyber Security
   Authority (CSA); Trident/Aliska (GRA MSME platform).

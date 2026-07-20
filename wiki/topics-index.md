@@ -91,6 +91,7 @@ when a topic is treated substantively.)_
 - [[rwanda--dpi-id]] — Rwanda × Digital Identity (e-Indangamuntu; Single Digital ID Law; eRainbow consent)
 - [[ghana--dpi-id]] — Ghana × Digital Identity (NIA/Ghana Card non-MOSIP; coverage ~19.2m, backlog cleared, online-only, SIM link, mandatory banking ID; Margins exports ID to The Gambia)
 - [[kenya--dpi-id]] — Kenya × Digital Identity (statutory CRVS access; Cybernetica/TBI credential-wallet PoC)
+- [[kenya--dpi-pay]] — Kenya × Digital Payments (M-PESA 40.99m 30-day-active @ 2026-03-31, Safaricom's defined series; CBK systemic-infrastructure case; Ziidi Trader)
 - [[xwa--dpi-id]] — West Africa × Digital Identity (WURI mutual recognition vs AES/Sahel biometric secession)
 - [[gabon--dpi-id]] — Gabon × Digital Identity (CNIE/NIP relaunch after 11-yr gap; IN Groupe/Thales; DPI keystone)
 - [[guinea--dpi-id]] — Guinea × Digital Identity (WURI early exit; domestic MOSIP/TECH5 biometric civil registry + national ID via ONECI; RAVEC; FUGAS payroll; RSU)

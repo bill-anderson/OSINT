@@ -9,7 +9,7 @@ entities: [[national-identification-authority-ghana], [ghana-card], [margins-id-
 lens: [colonialism, sovereignty]
 status: active
 last_reviewed: 2026-07-20
-sources: [[2026-04-01 RETRACTION Ghana's National ID cards can now make payments], [2026-01-28 Margins ID Group emerges as Africa's leading provider of certified digital identity solutions], [2026-01-20 Margins takes Ghana's ID success to The Gambia], [2026-01-11 Ghana Card mandatory for banking and digital transactions - BoG], [2025-09-13 NIA clears Ghana Card backlog, issues instant card nationwide], [2025-09-08 Ghana plans new framework for SIM card-digital ID linkage], [2025-05-12 Ghana's new National Identification Authority board to focus on public trust, inclusive service delivery], [2025-05-06 Ghana takes first-time national ID card requests online (plus new chip-embedded passport)], [2025-05-01 NIA to capture 7 million under-15s and 3 million Ghanaians abroad for Ghana Card], [2025-03-20 National ID system yet to realize full potential (Ghana Card)], [2023-11-05-nia-ghana-laws-and-regulations]]
+sources: [[2026-04-01 RETRACTION Ghana's National ID cards can now make payments], [2026-01-28 Margins ID Group emerges as Africa's leading provider of certified digital identity solutions], [2026-01-20 Margins takes Ghana's ID success to The Gambia], [2026-01-11 Ghana Card mandatory for banking and digital transactions - BoG], [2025-09-13 NIA clears Ghana Card backlog, issues instant card nationwide], [2025-09-08 Ghana plans new framework for SIM card-digital ID linkage], [2025-05-12 Ghana's new National Identification Authority board to focus on public trust, inclusive service delivery], [2025-05-06 Ghana takes first-time national ID card requests online (plus new chip-embedded passport)], [2025-05-01 NIA to capture 7 million under-15s and 3 million Ghanaians abroad for Ghana Card], [2025-03-20 National ID system yet to realize full potential (Ghana Card)], [2023-11-05-nia-ghana-laws-and-regulations], [2026-07-16-nia-li-2523-biometric-verification-press-release], [2026-07-16-ghana-card-digital-checks-compulsory-bbc], [2026-07-15-photocopying-ghana-card-illegal-fines-graphic], [2026-07-15-biometric-verification-mandatory-ghana-card-myjoy]]
 ---
 
 # Ghana × Digital Identity
@@ -32,7 +32,8 @@ African-owned national ID system**, via Margins to The Gambia.
   Register Act, 2008 (Act 750)** governing data capture, protection, access, retention and disclosure
   (gazetted 15 Feb 2008); the **National Identity Register (Amendment) Act, 2017 (Act 950)** (assented
   4 Dec 2017); and the **National Identity Register Regulations, 2012 (L.I. 2111)**, amended by **L.I.
-  2356 (2018)** and again in **July 2026** (biometric-only verification, below). Acts 707 and 750 were
+  2356 (2018)** and by the **National Identity Register (Amendment) Regulations, 2026 (L.I. 2523)**
+  (gazetted 27 Mar 2026, in force 9 Jun 2026 — biometric-only verification, below). Acts 707 and 750 were
   each also amended by the **Data Protection Act, 2012**. *Note: a "National Identification Act 2009",
   previously carried in this wiki, **does not exist** — a propagated citation error, corrected against
   the NIA's own published list of governing law.* Source:
@@ -61,6 +62,31 @@ African-owned national ID system**, via Margins to The Gambia.
   the card. The NIA PIN replaced the GRA TIN from April 2021. Sources:
   [[2026-01-11 Ghana Card mandatory for banking and digital transactions - BoG]],
   [[2025-09-08 Ghana plans new framework for SIM card-digital ID linkage]].
+- **[[GHA]] Biometric-only verification becomes the law — L.I. 2523 (in force 2026-06-09).**
+  [[gov.legislate]] [[gov.protect]] The **National Identity Register (Amendment) Regulations, 2026
+  (L.I. 2523)** end visual inspection as a lawful means of verifying a Ghana Card holder. Organisations
+  must not request, photocopy, scan or retain copies of the card except where the law permits;
+  verification must run as a **real-time biometric match against the NIA database** through the
+  Authority's **Identity Verification System Platform (IVSP)**; and where biometric verification is
+  available the holder need not present the physical card at all. Penalties on summary conviction:
+  **500–2,000 penalty units** for an organisation, **50–500** for an individual — **GH¢6,000–24,000** and
+  **GH¢600–6,000** at the GH¢12 penalty unit in force July 2026 (the BBC gave **~US$2,100 / £1,550** for
+  the organisational ceiling, 16 Jul 2026). This is the step that converts the Jan-2026
+  **[[bank-of-ghana]]** KYC directive from a banking-sector rule into a general obligation on every
+  institution that verifies identity, and it shifts the card's role from a document that is *looked at* to
+  a pointer that is *resolved against the register* — deepening the register's position as the country's
+  authentication chokepoint.
+  **Dating (corrected 2026-07-20).** Signed by Minister **Muntaka Mohammed Mubarak** on **27 March 2026**
+  under **s.73(1), Act 750**; **gazetted the same day**; **in force 9 June 2026**; publicised by NIA press
+  release on **16 July 2026**. Two accounts held here dated the gazetting to **15 July 2026** — the date of
+  the Executive Secretary's Facebook post, which said "gazetted today" and was wrong — and a third to
+  **June 2026**, which is the commencement date, not the gazetting. Sources:
+  [[2026-07-16-nia-li-2523-biometric-verification-press-release]],
+  [[2026-07-16-ghana-card-digital-checks-compulsory-bbc]],
+  [[2026-07-15-photocopying-ghana-card-illegal-fines-graphic]],
+  [[2026-07-15-biometric-verification-mandatory-ghana-card-myjoy]].
+  *Not held: the Ghana Gazette notice of 27 March 2026, or the text of L.I. 2523. The dates and the
+  enabling section rest on the NIA's press release, not on the instrument itself (stated 2026-07-20).*
 - **[[GHA]] "Yet to realize full potential" (analysis, 2025-03).** Seven years on, integration and
   technical gaps persist: citizens still carry multiple cards (cf. Nigeria's single multipurpose card),
   the 2018/2019 enrolment data is unrefreshed for most, and full health-system (LHIMS) integration

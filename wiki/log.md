@@ -6,6 +6,22 @@ Reporting): a few lines each, full detail in `log-archive.md` or git.
 
 ---
 
+## 2026-07-20 — Reconcile: 3 researched, 3 resolved, `open/` empty
+
+8 primaries ingested. All three closed on attempt 1; `research/` deleted at pass end.
+
+**Ghana NIA — not a contradiction at all.** "Yayra Koku" and "Wisdom Kwaku Deku" are **the same man** (Wisdom Yayra Koku Deku); Ghanaian outlets use the short familiar form, the NIA's site the formal one. Dedup read two renderings as two people. The gazette date is **neither held value**: the instrument is **L.I. 2523**, signed and gazetted **2026-03-27**, in force **2026-06-09** (NIA press release, s.73(1) Act 750). "Gazetted today, July 15" was **wrong at source** — the error originated in the Executive Secretary's own Facebook post, not the press; Biometric Update's "last month" conflated gazetting with commencement. `places-index` carried the superseded L.I. 2111 — corrected. Residual vacuum stated dated: acting vs substantive appointment is unestablished, the NIA's own site being internally inconsistent.
+
+**Malawi spectrum — one cut, two magnitudes.** Five independent accounts of a single 2025-06-23 announcement give 20%; four reports of one 2026-07-17 speech give the minister's 50%. Decisive point is a negative: **no source records a second reduction**, so the cumulative hypothesis has nothing behind it. Wiki carries 20%. **Method note worth keeping: "prefer the newest value" governs fresher *state*, not a later *retelling* of the same event** — a minister restating a year-old figure is not supersession. Two dates corrected where publication date had become event date (cut 06-23 not 06-26; speech 07-17 not 07-20). `needs-review` cleared.
+
+**M-PESA Kenya — definitional plus staleness.** Safaricom publishes a defined **one-month (30-day) active** series: Kenya **40.99m @ 2026-03-31** (now carried), 37.91m @ 2025-09-30 as dated prior. The "37m" was right for its basis but stale by July 2026. The CBK governor's "32m+ monthly" **matches no Safaricom-published figure** — nearest is 33.46m sixteen months earlier — and no CBK series is held to check it against; stated on the page as a dated vacuum. Found `kenya--dpi-pay` missing from `topics-index` entirely — added.
+
+Shaky: three of the eight primaries are `excerpt` (NIA release is Facebook-only/login-walled; both Safaricom PDFs garbled past the KPI tables) — all four routed to acquisitions for manual clip.
+
+Revert: `git revert <sha>`.
+
+`contradictions - 0 ; acquisitions - 31 ; decisions logged - 3`
+
 ## 2026-07-20 — Ingest: the 07-20 sweep batch (32 items, 5 thematic chunks)
 
 **28 filed to `raw/`**, 4 not admitted, `new/` drained. Chunks run sequentially, not parallel — ZAF/KEN/NGA hubs and `dpi.id`/`dpi.pay`/`infra.cybersec` are shared write targets across every chunk. 3 contradictions opened, 22 acquisitions queued. Best of batch: Nigeria's Presidential EO on Virtual Assets Coordination (full text; Virtual Asset Council at CBN, 30-day implementation framework) — nothing on it was held.

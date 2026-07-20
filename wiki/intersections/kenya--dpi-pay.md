@@ -9,7 +9,7 @@ entities: [[safaricom], [central-bank-of-kenya], [moniepoint], [kenswitch], [nai
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-20
-sources: [[2025-09-22-mpesa-biggest-upgrade-decade-techcabal], [2025-11-26-safaricom-daraja-30-api-itweb], [2026-01-13-mpesa-blockchain-partner-itweb], [2026-01-28-mpesa-too-big-to-fail-techcabal], [2026-02-10-safaricom-nse-share-trading-mpesa-connectingafrica], [2026-03-20-mpesa-stop-sharing-phone-numbers-techcabal], [2026-04-02-moniepoint-enters-kenya-connectingafrica], [2026-04-03-kenswitch-visa-national-switch-techcabal], [2026-04-23-safaricom-sued-ai-mpesa-decisions-nation], [2026-05-08-fuliza-14-trillion-loans-nation], [2026-07-01-mpesa-next-financial-gap-credit-techcabal], [2026-07-14-dtb-safaricom-sim-swap-fraud-nation], [2026-05-31-telcos-warn-33pc-excise-tax-nation], [2026-07-20-busha-business-tether-stablecoin-infrastructure-africa], [2026-07-20-safaricom-financial-services-chief-exits-mpesa]]
+sources: [[2025-09-22-mpesa-biggest-upgrade-decade-techcabal], [2025-11-26-safaricom-daraja-30-api-itweb], [2026-01-13-mpesa-blockchain-partner-itweb], [2026-01-28-mpesa-too-big-to-fail-techcabal], [2026-02-10-safaricom-nse-share-trading-mpesa-connectingafrica], [2026-03-20-mpesa-stop-sharing-phone-numbers-techcabal], [2026-04-02-moniepoint-enters-kenya-connectingafrica], [2026-04-03-kenswitch-visa-national-switch-techcabal], [2026-04-23-safaricom-sued-ai-mpesa-decisions-nation], [2026-05-08-fuliza-14-trillion-loans-nation], [2026-07-01-mpesa-next-financial-gap-credit-techcabal], [2026-07-14-dtb-safaricom-sim-swap-fraud-nation], [2026-05-31-telcos-warn-33pc-excise-tax-nation], [2026-07-20-busha-business-tether-stablecoin-infrastructure-africa], [2026-07-20-safaricom-financial-services-chief-exits-mpesa], [2025-11-06-safaricom-hy26-results-booklet], [2026-05-07-safaricom-fy26-results-booklet]]
 ---
 
 # Kenya × Digital Payments
@@ -25,15 +25,28 @@ trying to build interoperability and oversight around it without breaking it.
 - **M-Pesa as systemic infrastructure (2026-01).** [[gov.protect]] [[sovereignty]] Testifying to
   Parliament (20 Jan 2026), CBK governor **Kamau Thugge** classified M-Pesa as a system whose failure
   would "significantly impair the real economy." In 2025 it moved **KES 83.7tn ($649.7bn)** — ~4× Kenya's
-  GDP; Safaricom controls **95% of retail payment transactions** with 32m+ monthly users *(the same
-  outlet put M-PESA's Kenyan user base at **"more than 37 million"** a month later, in Feb 2026, with
-  neither figure stating whether it counts registered or 30-day-active users — unresolved as of
-  2026-07-20; see
-  [[reviews/contradictions/open/2026-07-20-mpesa-kenya-user-base-32m-vs-37m]])*, and ~**KES
+  GDP; Safaricom controls **95% of retail payment transactions** with "32m+ monthly users" *(a figure
+  that matches no Safaricom-published count — see the user-base bullet below)*, and ~**KES
   250bn ($1.9bn)** in customer funds sit in M-Pesa trust accounts across commercial banks, tying the
   platform to banking-system liquidity. The warning came as MPs scrutinised the state's plan to sell a
   **15% Safaricom stake to Vodacom**. CA data shows M-Pesa's share slipped for six straight quarters,
   from ~98% to **89% (Dec 2025)**. Source: [[2026-01-28-mpesa-too-big-to-fail-techcabal]].
+- **M-PESA's Kenyan user base — the defined series (2026-05).** [[dpi.pay]] Safaricom's audited results
+  carry one series, **one-month (30-day) active M-PESA customers**, reported separately for Kenya and
+  the Group. Kenya: **40.99m as at 31 Mar 2026** (+14.5% YoY), from **37.91m at 30 Sep 2025** and
+  **35.82m at 31 Mar 2025**. Group (Kenya + Ethiopia): **43.69m at 31 Mar 2026**; Ethiopia alone
+  **2.69m 30-day-active**. Kenya M-PESA ARPU **KES 391.04 (FY-ended Mar 2026)** on **KES 41.68tn**
+  transacted across **46.41bn** transactions. This settles the press figures: the **"more than 37
+  million"** attached to the Feb 2026 Ziidi Trader launch is the **30 Sep 2025 Kenya 30-day-active
+  count** — right for its basis, and simply stale by mid-2026. The CBK's **"32m+ monthly users"**
+  (Thugge to Parliament, 20 Jan 2026) matches **no Safaricom-published figure**: the nearest point on
+  the series is 33.46m at 30 Sep 2024, sixteen months earlier, while the then-current published count
+  was 37.91m. **What is not established (2026-07-20):** CBK has published no definition or as-of date
+  for its 32m, and no CBK statistical release on file gives an independent M-PESA user count — so it
+  cannot be shown whether the shortfall is a different population (registered vs active, a narrower
+  transaction class) or simply a stale citation. Carry the Safaricom series, not the press
+  restatements. Sources: [[2026-05-07-safaricom-fy26-results-booklet]],
+  [[2025-11-06-safaricom-hy26-results-booklet]].
 - **Stablecoin B2B rail enters Kenya from Lagos (2026-07).** [[tech.industry]] [[sovereignty]]
   **[[busha|Busha Business]]**, B2B arm of the Nigerian **[[sec-nigeria|SEC]]-licensed** exchange
   **[[busha]]**, announced a collaboration with **[[tether]]** for USD₮ liquidity in cross-border
@@ -72,9 +85,12 @@ trying to build interoperability and oversight around it without breaking it.
   [[2026-01-13-mpesa-blockchain-partner-itweb]].
 - **Capital-markets access — Ziidi Trader (2026-02).** [[finance.new]] Safaricom and the
   **[[nairobi-securities-exchange|NSE]]** launched **Ziidi Trader** on the M-Pesa app — buy/sell listed
-  shares and corporate bonds from one share up — extending M-Pesa into retail equities (M-Pesa brought
-  Safaricom **KES 161.1bn ($1.25bn)** revenue in FY-ended Mar 2025). Source:
-  [[2026-02-10-safaricom-nse-share-trading-mpesa-connectingafrica]].
+  shares and corporate bonds from one share up — extending M-Pesa into retail equities (M-Pesa revenue
+  **KES 182.7bn, FY-ended Mar 2026**, +13.4% YoY, 45.6% of Safaricom's Kenya service revenue; prior
+  **KES 161.1bn, FY-ended Mar 2025**). Wealth-management AUM more than doubled to **KES 21.0bn (31 Mar
+  2026)**, of which **KES 18.7bn** is Ziidi. Sources:
+  [[2026-02-10-safaricom-nse-share-trading-mpesa-connectingafrica]],
+  [[2026-05-07-safaricom-fy26-results-booklet]].
 - **Data minimisation — number masking (2026).** [[gov.protect]] Safaricom is extending **phone-number
   masking** from P2P (from 24 Mar 2026) to **merchant payments and bank transfers by end-2026**, cutting
   the main channel by which numbers leak into spam/fraud — a multi-year data-minimisation programme

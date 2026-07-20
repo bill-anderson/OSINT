@@ -7,7 +7,7 @@ topics: [infra.connect, dpi.id, dpi.registry, gov.legislate, gov.protect, infra.
 lens: []
 status: active
 last_reviewed: 2026-07-20
-sources: [[2026-07-20-malawi-seeks-new-telecom-competition], [2024-02-02-malawi-data-protection-act-2024], [2025-10-01-dmap-tor-operationalization-data-protection-authority], [2026-07-17-macra-airtel-malawi-tnm-tariff-compensation], [2025-05-21 Malawi to Launch Mandatory Biometric SIM Registration in July 2025], [2024-02-12 National Addressing Project - MACRA Website], [2024-06-25 Review of the Malawi Data Protection Act 2024], [2026-07-16-macra-data-protection-registration-compliance-malawi24], [2026-07-14-macra-data-protection-registration-fees-consultation-itweb], [2026-03-26-world-bank-cybersecurity-data-protection-support-techafricanews], [2026-07-10-macra-undp-ai-digital-id-collaboration-itweb]]
+sources: [[2026-07-20-malawi-seeks-new-telecom-competition], [2026-07-18-namalomba-parliament-new-operators-nyasatimes], [2025-06-23-macra-spectrum-fees-cut-20pc-malawi24], [2025-06-25-macra-spectrum-fees-cut-20pc-ecofin], [2025-06-26-macra-spectrum-fees-cut-20pc-techafricanews], [2024-02-02-malawi-data-protection-act-2024], [2025-10-01-dmap-tor-operationalization-data-protection-authority], [2026-07-17-macra-airtel-malawi-tnm-tariff-compensation], [2025-05-21 Malawi to Launch Mandatory Biometric SIM Registration in July 2025], [2024-02-12 National Addressing Project - MACRA Website], [2024-06-25 Review of the Malawi Data Protection Act 2024], [2026-07-16-macra-data-protection-registration-compliance-malawi24], [2026-07-14-macra-data-protection-registration-fees-consultation-itweb], [2026-03-26-world-bank-cybersecurity-data-protection-support-techafricanews], [2026-07-10-macra-undp-ai-digital-id-collaboration-itweb]]
 ---
 
 # Malawi Communications Regulatory Authority (MACRA)
@@ -55,15 +55,30 @@ standardised addresses — a registry layer feeding e-government and service del
   (2026-07-17). See [[malawi--infra-connect]], [[include.access]], [[gov.legislate]]. Source:
   [[2026-07-17-macra-airtel-malawi-tnm-tariff-compensation]].
 
-## Contested figure: the spectrum fee cut
+## The spectrum fee cut (2025-06-23)
 
-- MACRA announced a **20% reduction in spectrum fees across all bands** on **2025-06-26** (DG Daud
-  Suleman; revised Administrative Incentive Pricing model). On **2026-07-20** ICT minister Shadric
-  Namalomba told parliament the reduction was **50%**. Whether these are one measure reported at two
-  magnitudes or two successive cuts is **not established in held material (as of 2026-07-20)**; no MACRA
-  fee schedule or gazette notice is on file. Both values carried, dated —
-  `reviews/contradictions/open/2026-07-20-malawi-spectrum-fee-cut-20pc-vs-50pc.md`. Sources:
-  [[2025-06-26-macra-spectrum-fees-cut-20pc-techafricanews]], [[2026-07-20-malawi-seeks-new-telecom-competition]].
+- MACRA announced a **20% reduction in radio-frequency spectrum licence fees across all bands** on
+  **2025-06-23** (DG **Daud Suleman**; following a review of its Administrative Incentive Pricing
+  model). Sources: [[2025-06-23-macra-spectrum-fees-cut-20pc-malawi24]],
+  [[2025-06-25-macra-spectrum-fees-cut-20pc-ecofin]],
+  [[2025-06-26-macra-spectrum-fees-cut-20pc-techafricanews]].
+- **20%, not 50% (resolved 2026-07-20).** ICT minister **Shadric Namalomba** told parliament on
+  **2026-07-17** that the reduction was **50%**. That figure appears in four reports of **one speech**;
+  MACRA's own 20% appears in five contemporaneous accounts of the announcement, two quoting the DG
+  directly, and **no source records a further reduction** in the intervening thirteen months. The wiki
+  carries **20%** and treats the minister's 50% as a misstatement of the same 2025 measure, not a
+  second cut. Source for the 50% claim:
+  [[2026-07-18-namalomba-parliament-new-operators-nyasatimes]],
+  [[2026-07-20-malawi-seeks-new-telecom-competition]].
+- **AIP model year is itself unsettled.** Malawi24, Ecofin and Nyasa Times date the Administrative
+  Incentive Pricing model to **2016**; TechAfrica News dates it to **2018** and describes an updated
+  schedule "rolled out in 2024". The wiki does not assert either (as of 2026-07-20).
+- **No fee schedule is published, and the effective date is unknown (as of 2026-07-20).** MACRA's site
+  refers to "a full table of prices … made available" for terrestrial spectrum services but publishes
+  no retrievable schedule; **the wiki holds no MACRA press release, fee table, Gazette notice or
+  statutory instrument for this cut** — every account of it is journalism. Under **s.52(2) of the
+  Communications Act 2016** MACRA may review licence fees from time to time, with no publication
+  requirement attached. The base fees the 20% applies to, in **MWK** or USD-pegged terms, are not held.
 
 ## Links
 Place: [[MWI]] · Topics: [[infra.connect]] · [[dpi.id]] · [[dpi.registry]] · [[gov.protect]] ·

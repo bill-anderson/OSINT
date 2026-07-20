@@ -7,7 +7,7 @@ topics: [infra.connect, dpi.id, dpi.pay, include.divides, finance.new]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-20
-sources: [[2026-07-06 Safaricom Ethiopia partners National ID Program to expand digital identity registration], [2026-07-03 Vodacom expands East Africa strategy], [2026-05-29 Africa's Mobile Money Networks Are Becoming Tax Infrastructure], [2026-04-16 3 Reasons Mobile Money Programs Have a $1.7 Trillion Problem], [2026-07-02 Visa tests stablecoins in DRC for cross-border payments (The EastAfrican)], [2026-07-02 DR Congo becomes Africa's live test for dollar-settled mobile money (Ecofin)], [2026-03-30 M-PESA Ethiopia surges 258% as EthSwitch fuels growth], [2026-04-02 Safaricom Introduces My OneApp to Simplify Payments, Accounts, and Service Access], [2026-02-02 Safaricom Ethiopia Surpasses 12 Million Users as M-PESA Adoption Grows], [2026-01-07 Why Ethiopia, Somalia and Djibouti are starting to matter in digital Africa], [2026-03-10 Kenya begins audit of Airtel's Starlink Direct-to-Cell tech], [2025-12-04 Vodacom Group to take controlling stake in Safaricom], [2026-01-13 The rise of cheques as Kenya's preferred payment method], [2025-08-04 93 - Ecosystem Debt or Generative Platforms A Case for Digital Public Infrastructure], [2026-02-23 111 - Winning But Losing - The Payments End Game], [2026-07-20-safaricom-financial-services-chief-exits-mpesa]]
+sources: [[2026-07-06 Safaricom Ethiopia partners National ID Program to expand digital identity registration], [2026-07-03 Vodacom expands East Africa strategy], [2026-05-29 Africa's Mobile Money Networks Are Becoming Tax Infrastructure], [2026-04-16 3 Reasons Mobile Money Programs Have a $1.7 Trillion Problem], [2026-07-02 Visa tests stablecoins in DRC for cross-border payments (The EastAfrican)], [2026-07-02 DR Congo becomes Africa's live test for dollar-settled mobile money (Ecofin)], [2026-03-30 M-PESA Ethiopia surges 258% as EthSwitch fuels growth], [2026-04-02 Safaricom Introduces My OneApp to Simplify Payments, Accounts, and Service Access], [2026-02-02 Safaricom Ethiopia Surpasses 12 Million Users as M-PESA Adoption Grows], [2026-01-07 Why Ethiopia, Somalia and Djibouti are starting to matter in digital Africa], [2026-03-10 Kenya begins audit of Airtel's Starlink Direct-to-Cell tech], [2025-12-04 Vodacom Group to take controlling stake in Safaricom], [2026-01-13 The rise of cheques as Kenya's preferred payment method], [2025-08-04 93 - Ecosystem Debt or Generative Platforms A Case for Digital Public Infrastructure], [2026-02-23 111 - Winning But Losing - The Payments End Game], [2026-07-20-safaricom-financial-services-chief-exits-mpesa], [2026-05-07-safaricom-fy26-results-booklet], [2025-11-06-safaricom-hy26-results-booklet]]
 ---
 
 # Safaricom
@@ -18,6 +18,18 @@ national digital-ID rollout.
 
 ## Activity in this wiki
 
+- **The M-PESA customer series, defined (FY-ended 31 Mar 2026).** [[dpi.pay]] Safaricom reports
+  **one-month (30-day) active M-PESA customers** — the only customer count it publishes for M-PESA —
+  separately for Kenya and the Group. **Kenya: 40.99m (31 Mar 2026)**, +14.5% YoY from **35.82m
+  (31 Mar 2025)**, with **37.91m** at the **30 Sep 2025** half-year. **Group (Kenya + Ethiopia):
+  43.69m (31 Mar 2026)**; **[[safaricom-ethiopia|Ethiopia]] 2.69m** 30-day-active (5.20m 90-day).
+  M-PESA revenue **KES 182.7bn (FY-ended Mar 2026)**, +13.4% YoY, **45.6%** of Kenya service revenue;
+  **KES 41.68tn** transacted over **46.41bn** transactions; **333,011** Kenyan agents; **3.13m**
+  merchants. Group service revenue **KES 414.1bn**, net income **KES 119.10bn** (Kenya company).
+  **Use this series, not press restatements** — third-party user counts circulating in 2026 (a CBK
+  "32m+ monthly", a "more than 37 million") are respectively unmatched to any published figure and a
+  stale half-year point; see [[kenya--dpi-pay]]. Sources:
+  [[2026-05-07-safaricom-fy26-results-booklet]], [[2025-11-06-safaricom-hy26-results-booklet]].
 - **Ethiopia — Fayda registration (2026-07).** Safaricom Ethiopia signed a **Joint
   Venture Agreement** with Ethiopia's **National ID Program** and **Africom Technologies
   PLC** to deliver **Lots 3 & 4** of the [[fayda-ethiopia-national-id]] Digital ID
@@ -88,6 +100,8 @@ national digital-ID rollout.
 
 ## Sources
 
+- [[2026-05-07-safaricom-fy26-results-booklet]]
+- [[2025-11-06-safaricom-hy26-results-booklet]]
 - [[2026-07-06 Safaricom Ethiopia partners National ID Program to expand digital identity registration]]
 - [[2026-07-03 Vodacom expands East Africa strategy]]
 - [[2026-05-29 Africa's Mobile Money Networks Are Becoming Tax Infrastructure]]
