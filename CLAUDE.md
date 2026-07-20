@@ -271,6 +271,18 @@ against the primary source it draws on. When admissibility is genuinely unclear,
 park the item (below) and raise it as an issue in `reviews/issues.md` (with a
 recommended call) rather than guessing or asking at the prompt.
 
+**A recurring newsletter/digest edition is discarded, not mined.** A news-roundup
+edition — e.g. **TechCabal Daily** — is a digest of others' reporting; it is
+**dropped outright** (not staged, not lead-mined). Only the publisher's
+**standalone articles** are admitted. (ISSUE-019.)
+
+**Paid placement and self-marketing are not sources.** Paid/sponsored placement,
+awards PR, vendor thought-leadership columns, and a publisher's own event/webinar
+marketing are **not admissible** — they are first-hand and dated but **report no
+development**. If such an item names a standing object of OSINT value (a new data
+centre, an operator, a regulator), **tag the entity and discard the item** (per
+*Entities: tag always, page when material*); otherwise discard. (ISSUE-021.)
+
 ### The author's own work
 
 The trigger is **publication**. The human's *internal notes and unpublished
@@ -383,7 +395,16 @@ queue means routing each item to its correct destination.
    instrument) — capture it as the matching entity type rather than discarding it
    (never park it as a lead; see Sources, entity profiles, and leads). Discard
    (delete) only the wiki's own config/vocabulary files and genuine
-   non-intelligence artefacts. Only admissible items proceed to the steps below.
+   non-intelligence artefacts. **Out of scope → reject and delete.** An item that is
+   admissible and first-hand but falls outside the wiki's scope (data governance +
+   digital transformation) — e.g. transport electrification / e-mobility, or a
+   borderline tech innovation, that carries **no real data or digital-platform
+   layer** — is **rejected and deleted** (git-reversible), **not** parked in
+   `_leads/` (which is for second-hand/AI syntheses to mine, not a holding pen for
+   off-topic material). Distinguish the genuinely in-scope case where the actor is
+   itself a digital platform (e.g. Yango). **When scope is in doubt, reject and
+   delete** rather than admit or park. (ISSUE-022.) Only admissible, in-scope items
+   proceed to the steps below.
    **Undated/unattributed but possibly important?** A parked lead that lacks a
    dated, attributable origin yet carries **possibly-important information** (a
    load-bearing claim, a first-of-kind development) is **also filed as a

@@ -52,16 +52,24 @@ Three figures, and the later one is *lower*:
 - **~1.3 million**, plus **500,000+ births and deaths** registered (ZNBC quoting MoHAIS
   PRO **Mwala Kalaluka**, **2025-12-28**).
 
-A later source reporting a lower figure is not supersession. Recorded, not resolved:
-`reviews/contradictions/open/zambia-inris-enrolment`.
+**Resolved (2026-07-20): the fall is not real, and there was no de-duplication.** No source reports any
+purge, de-duplication or downward revision of INRIS; bases are consistent (the DZAP PAD confirms INRIS
+enrolment *is* biometric capture, so "enrolled with biometrics" and "enrolled onto INRIS" denote the same
+act). The December-2025 "about 1.3m" restates the **May-2024** figure exactly, in a PR briefing on travel
+documents and card procurement rather than a registration-statistics release — and is contradicted by a
+more authoritative source three months earlier. Note the "~1.6m implied" figure should be retired: the PAD
+states the absolute number as **~1.5m**, and 1.5m ÷ ~10m adults *is* its "15% of adults." The real finding
+is a **plateau, not a decline** — flat at ~1.5m from Sep 2024 to Sep 2025, with UNDP noting mass
+registration efforts paused.
 
 ## Activity in this wiki
 
 - **Biometric NRCs wait for the polls (2025-12-28).** Government is procuring **smart card
   printers and blank cards**, but secure **biometric NRC issuance comes only *after* the
   2026 General Elections** — the cards to be fully interoperable within the INRIS ecosystem.
-  This bears directly on the competing end-2026 / end-2027 rollout targets
-  (`reviews/contradictions/open/zambia-digital-id-target`). End-to-end automation of birth
+  This bears on the end-2026 / end-2027 rollout targets, now resolved as **different
+  deliverables** — first issuance vs population-scale coverage, inside a DZAP programme
+  targeting **4m people by October 2030**. End-to-end automation of birth
   and death notifications is being implemented through the **INRIS API Manager**. Source:
   [[2025-12-28 Over 1.3 Million Citizens Enrolled on INRIS]].
 - **Next-phase plan (2024-09).** Public-awareness campaigns, registration points near

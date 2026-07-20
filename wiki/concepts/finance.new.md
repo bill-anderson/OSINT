@@ -72,8 +72,8 @@ Investment flowing into African digital transformation. (A *specific* transactio
 - **Data-centre, tower & subsea capital, this batch (2026-02–06).** Named new-build flows:
   **[[kasi-cloud]]** (backed by sovereign fund [[nsia]]) broke ground on a **$250m** Lekki
   hyperscale campus, though ~86MW national capacity and a <6GW grid keep it diesel-dependent
-  ([[NGA]], [[infra.energy]]); **[[microsoft-sa-2026-expansion]]** added **$329m** (~R5.4bn) in
-  South Africa on top of a prior $1.2bn ([[ZAF]], [[geopol.usa]]); Tanzania's Jamii Namba Phase II
+  ([[NGA]], [[infra.energy]]); **[[microsoft-sa-2026-expansion]]** added **R5.4bn** in
+  South Africa (announced 2025-03-06) on top of a prior R20.4bn ([[ZAF]], [[geopol.usa]]); Tanzania's Jamii Namba Phase II
   runs on a **~$70m** Export-Import Bank of Korea loan ([[nida-tanzania]], [[TZA]]); **China
   Industrial Bank** — its first Nigeria investment — is backing **≥1,000** of [[nucap]]'s 3,700
   planned rural telecom towers ([[geopol.china]], [[digital.rural]]); and [[orange]]'s

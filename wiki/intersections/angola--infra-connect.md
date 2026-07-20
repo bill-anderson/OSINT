@@ -42,10 +42,27 @@ stable international route "under national jurisdiction."
 
 ## Fibre and the mobile market
 
-National fibre length is written dated because the sources diverge: **~14,000 km (2025-12,
-Unitel)** rising to **">22,000 km" (2026-04, minister at the data-centre launch)**, with a further
-**28,000 km** figure circulating by mid-2026 — treat as a growth series to watch, not a settled
-number (see Flags). Fibre now reaches all provincial capitals with metro rings in major cities.
+National fibre length **cannot be stated as a single current figure** — Angola's own government reports
+it inconsistently, and the spread is not a growth series (resolved 2026-07-20):
+
+- **"more than 22,000 km"** — MINTTICS, **2023-05-17**, a figure traceable to a **2019 World Bank report**
+  and still being repeated by the minister in **April 2026**. Its real vintage is c. 2019–2023.
+- **"more than 30,000 km"** terrestrial fibre (plus 4,860 km under repair, 1,400 km under construction) —
+  Secretary of State **Ângelo Buta João** to the ITU's WTDC in Baku, published **2025-11-28**.
+- **~28,000 km** — **preliminary** data given by **Vicente Lopes**, UNESCO's national RAM consultant, as an
+  input to the AI-readiness assessment (**2026-06-30**) — not a UNESCO measurement.
+- **~14,000 km (2025-12-13, Angop)** describes **Unitel's own** national footprint, not the country total.
+  *(Strongly inferred rather than directly stated — Angop's wording is "a fibra óptica nacional" — but the
+  alternative reading is arithmetically impossible against ≥22,000 km from 2023 and >30,000 km one month
+  earlier.)*
+- **"mais de 2.000 km"** is a **recurring annual new-build increment** under the National Broadband Network
+  project — reported as such in 2024, 2025 and 2026 — not a stock, and not a truncation of 22,000.
+
+Monotonic growth is arithmetically impossible: the official series runs 20,000 (2025-10) → 30,000 (2025-11)
+→ 22,000 (2026-04) → 28,000 (2026-06). This is a **data-quality defect in the Angolan official record**,
+not a wiki error. INACOM's *Relatório Anual Estatístico* would settle it and is not held.
+
+Fibre now reaches all provincial capitals with metro rings in major cities.
 
 The market is **mobile-led and concentrated**: at **end-2024**, **[[unitel]] 20.8m**, **[[africell]]
 ~5m** and **Movicel 941,000** mobile users (Omdia). By **2026-03** MINTTICS cited **>28m mobile
@@ -83,8 +100,9 @@ Related: [[angola--infra-store]] · [[angola--data-satellite]]
 
 ## Flags
 
-- **National-fibre length is a moving/contested figure**: 14,000 km (2025-12) → 22,000 km (2026-04) →
-  28,000 km (2026-06). Written dated; if the later figures prove to be the same-date restatements
+- **National-fibre length is not a growth series** — 14,000 km (2025-12) is **Unitel's own** footprint;
+  22,000 km (restated 2026-04) is a **c. 2019 figure**; 30,000 km (2025-11) and 28,000 km (2026-06) are
+  later official/quasi-official totals that *decline* over time. Written dated and labelled; if the later figures prove to be the same-date restatements
   rather than growth, this is a contradiction to reconcile.
 
 ## Sources

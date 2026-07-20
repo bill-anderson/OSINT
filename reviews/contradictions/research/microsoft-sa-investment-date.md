@@ -1,0 +1,42 @@
+---
+type: review-research
+id: microsoft-sa-investment-date
+generated: 2026-07-20
+method: Exa search + fetch
+status: DO-NOT-INGEST (quarantined synthesis — never cited from a wiki page; primaries extracted to new/)
+---
+
+## Verdict: CONCLUSIVE — the announcement was made on **2025-03-06** in Bryanston, Johannesburg; both held dates are secondary re-report dates, and both are wrong by over a year.
+
+Microsoft's own press release (Source EMEA) is datelined **"Johannesburg, 06 March 2025"** and states in its own words: "Microsoft today announced plans to spend ZAR 5.4bn by the end of 2027 to expand its cloud and AI infrastructure in South Africa… This investment builds on the company's ZAR 20.4bn investment over the past three years to establish the nation's first enterprise-grade datacentres in Johannesburg and Cape Town." The South African Presidency independently corroborates: gov.za carries Ramaphosa's remarks "at the Microsoft Investment and AI Skilling Initiative announcement, Bryanston, Gauteng," stamped **06 Mar 2025**, containing the same "investment announcements made by Microsoft today" line quoted in Microsoft's release. Reuters, ITWeb, MyBroadband, Forbes and SAnews all filed the same day from the event, describing Brad Smith speaking "on Thursday" (6 March 2025 was a Thursday). The event date is therefore fixed by the announcer's own record plus a state primary — not inferred.
+
+This is the predicted failure mode, and worse than the brief anticipated. The brief's Claim A (Daily Maverick, 2026-02-09) never asserted an announcement date at all — it correctly referred back to an announcement already made, and the brief read it only as an upper bound. Claim B (Business Insider Africa, 2026-04-17) is a re-report whose **publication date was ingested as the event date**, exactly as with the Google Johannesburg cloud region. Neither held source is the announcement.
+
+One substantive nuance, not a contradiction. The April 2026 cluster (Business Insider Africa 2026-04-17, Broadcast Media Africa 2026-04-16, joburgETC 2026-04-15) reports Brad Smith giving an **allocation breakdown** of the same R5.4bn — "securing land for future data centre growth, improving power and water readiness, and increasing capacity in our existing data centre regions." That is a genuine later disclosure with its own as-of date (April 2026), *elaborating* the March-2025 commitment; it is not a second, additional investment. Global Data Center Hub (2026-04-23) makes the sequencing explicit: "Brad Smith committed ZAR 5.4 billion in March 2025… Microsoft detailed the allocation last week." Treating the April 2026 detail as a fresh $329m commitment would double-count the same money.
+
+Second nuance on the figures. **R5.4bn is the fixed, primary figure**; the USD equivalents float with the exchange rate at the moment of each report, which is why the corpus holds $329m (Apr 2026) against Reuters' $296.81m and DCD's $298.6m (Mar 2025) for the identical commitment. The same applies to the prior R20.4bn, reported variously as $1.1bn, $1.13bn and $1.2bn. **Prefer the rand figures on wiki pages**; treat any dollar figure as a dated conversion, not a distinct amount. The apparent $1.2bn-vs-$1.1bn discrepancy in the original brief dissolves entirely on this reading.
+
+| Claim | Asserted by | As-of | Reconciled reading |
+|---|---|---|---|
+| Announced on or before 2026-02-09 | Daily Maverick (Tony Carnie) | 2026-02-09 | Correct but weak — a backward reference, no date asserted. Consistent with the true date; not evidence for it. |
+| Announced 2026-04-17, $329m | Business Insider Africa | 2026-04-17 | **Wrong as an event date.** Re-report publication date ingested as the event. Its *content* (allocation detail) is genuinely April 2026. |
+| Announced 2025-03-06, R5.4bn by end-2027 | **Microsoft (own release)** | 2025-03-06 | **Authoritative.** Announcer's own dateline. |
+| Announcement event, Bryanston, 06 Mar 2025 | **SA Presidency (gov.za)** | 2025-03-06 | **Authoritative.** Independent state primary; corroborates. |
+| Prior spend R20.4bn over past three years | Microsoft (own release) | 2025-03-06 | Confirmed as stated. ~$1.1–1.2bn depending on conversion date. |
+| $329m / $296.8m / $298.6m | BI Africa / Reuters / DCD | various | One amount (R5.4bn), three conversion dates. Not competing values. |
+
+## Sources consulted
+
+- **Microsoft, "Microsoft invests an additional ZAR 5.4bn in South Africa and launches youth certification programme for high-demand digital skills"**, Microsoft Source EMEA, 2025-03-06 — https://news.microsoft.com/source/emea/features/microsoft-invests-zar-5-4bn-in-south-africa/ — **decisive primary; extracted to `new/2025-03-06-microsoft-zar-5-4bn-south-africa.md`** (full verbatim body).
+- **South African Government, "President Cyril Ramaphosa: Microsoft Investment and AI Skilling Initiative announcement"**, gov.za, 2025-03-06 — https://www.gov.za/news/speeches/president-cyril-ramaphosa-microsoft-investment-and-ai-skilling-initiative — **corroborating state primary; extracted to `new/2025-03-06-ramaphosa-microsoft-investment-ai-skilling-remarks.md`** (full verbatim body).
+- Reuters (Nqobile Dludla), "Microsoft to invest $300 million more in South Africa's AI infrastructure", 2025-03-06 — https://www.reuters.com/technology/artificial-intelligence/microsoft-invest-additional-54-billion-rand-south-africa-ai-infrastructure-2025-03-06/ — corroborates date and event; not extracted (secondary, adds nothing the primaries lack).
+- ITWeb (Sibahle Malinga), "Microsoft invests R5bn to turn SA into AI economy", 2025-03-06 — https://www.itweb.co.za/article/microsoft-invests-r5bn-to-turn-sa-into-ai-economy/xnklOvz1Wgaq4Ymz — corroborates; adds the Centurion second-cloud-region detail. Not extracted.
+- SAnews (SA Government News Agency), "Microsoft's commitment to expand AI infrastructure lauded", 2025-03-06 — https://www.sanews.gov.za/south-africa/microsofts-commitment-expand-ai-infrastructure-lauded — corroborates. Not extracted.
+- MyBroadband (Myles Illidge), "Microsoft announces R5.4-billion data centre and AI investment in South Africa", 2025-03-06 — https://mybroadband.co.za/news/cloud-hosting/585841-microsoft-announces-r5-4-billion-data-centre-investment-in-south-africa.html — names the event ("Building an AI Economy", Bryanston, Thursday 6 March 2025). Not extracted.
+- Forbes (Toby Shapshak), "To Grow Africa's AI Economy, Microsoft Invests $300 Million In Datacenters", 2025-03-06 — https://www.forbes.com/sites/tobyshapshak/2025/03/06/to-grow-africas-ai-economy-microsoft-invests-300m-in-datacenters/ — corroborates. Not extracted.
+- Connecting Africa, "Microsoft pledges major AI, cloud investment in SA", 2025-03-07 — https://www.connectingafrica.com/investment/microsoft-pledges-major-ai-cloud-investment-in-south-africa — corroborates. Not extracted.
+- Global Data Center Hub, "Why Microsoft's $329M in South Africa Is a Grid Underwriting, Not Capacity Growth?", 2026-04-23 — https://www.globaldatacenterhub.com/p/why-microsofts-329m-in-south-africa — establishes the March-2025-commitment / April-2026-allocation-detail sequencing explicitly. Analysis, not extracted.
+- joburgETC (Chiraag Davechand), "Microsoft's South Africa data centre land deal signals major cloud growth", 2026-04-15 — https://www.joburgetc.com/business/microsoft-south-africa-data-centres-growth/ — the one April-2026 re-report that dates it correctly: "Back in March 2025, Microsoft announced that it would invest an additional R5.4 billion." Not extracted.
+- Business Insider Africa (Solomon Ekanem), "Microsoft picks South Africa for $329 million expansion in cloud infrastructure and AI training", 2026-04-17 — https://africa.businessinsider.com/local/markets/microsoft-picks-south-africa-for-dollar329-million-expansion-in-cloud-infrastructure/34f0ktg — the held source at issue. Not extracted (already in `raw/`).
+- Broadcast Media Africa, "Microsoft Invests US$329 Million In South Africa's Cloud Infrastructure", 2026-04-16 — https://news.broadcastmediaafrica.com/2026/04/16/microsoft-invests-us329-million-in-south-africas-cloud-infrastructure/ — same April-2026 cluster. Not extracted.
+- DataCenterDynamics, "Microsoft to invest $300m in cloud and AI infrastructure in South Africa" — https://www.datacenterdynamics.com/en/news/microsoft-to-invest-300m-in-cloud-and-ai-infrastructure-in-south-africa/ — Exa reports a 2026-05-21 date against March-2025 content; likely a re-crawl/republish timestamp. Flagged, not relied on, not extracted.

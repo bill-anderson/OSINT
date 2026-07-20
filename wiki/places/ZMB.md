@@ -227,16 +227,22 @@ The third is **evidentiary**: the headline numbers disagree. Penetration spans *
 
 ### Contested figures (dated and attributed; none adopted)
 
-- **Internet penetration — a 2.7× spread, almost certainly three definitions.** **~21 per 100** (DZAP
-  PAD, 2025-09; *below the ESA average of 28*) · **33.0%** ([[datareportal]], Jan 2025) · **56.8%**
-  ([[undp]], 2024-09). See `reviews/contradictions/open/zambia-internet-penetration`.
-- **[[inris]] enrolment — it goes backwards.** **1.5m** (UNDP, 2024-09) · **~1.6m** implied (PAD's ~15%
-  of adults, 2025-09) · **~1.3m** (ZNBC/MoHAIS, 2025-12). See
-  `reviews/contradictions/open/zambia-inris-enrolment`.
-- **Digital ID target.** **end-2027** ([[davies-chikalanga]], [[dnrpc-zambia]] — the operator) ·
-  **end-2026** (Percy Chinyama, [[smart-zambia-institute]] — the coordinator); ZNBC adds biometric NRC
-  issuance only **after the 2026 General Elections**. See
-  `reviews/contradictions/open/zambia-digital-id-target`.
+- **Internet penetration — two measures plus a retired vintage (resolved 2026-07-20).** Carry **33.0%
+  of the population using the internet (7.29m people, October 2025**, [[datareportal]]/Kepios), consistent
+  with the **ITU's 31.2% estimate (2022)**. ZICTA's higher figures — **56.8 per 100 inhabitants (end-2022)**,
+  64.1 (Dec 2023), 72.1 (2026) — are **active internet subscriptions per 100 inhabitants**, an
+  administrative count inflated by multi-SIM use, not a rate of people; UNDP (2024-09) lifted the 56.8
+  while dropping both its unit and its 2022 vintage. The **~21%** in the DZAP PAD is a **superseded Kepios
+  vintage** for 2021–Jan 2023, retired by Kepios' own restatement, and is not current state.
+- **[[inris]] enrolment — a plateau, not a decline (resolved 2026-07-20).** **~1.5m** (UNDP citing DNRPC,
+  2024-09), still **"around 1.5 million"** in the DZAP PAD (2025-09-11); the **~1.3m** reported by
+  ZNBC/MoHAIS (2025-12) restates the May-2024 figure rather than reporting a fall — no de-duplication or
+  downward revision has been reported. Enrolment has been broadly flat since late 2024.
+- **Digital ID target — different deliverables (resolved 2026-07-20).** **end-2027**
+  ([[davies-chikalanga]], [[dnrpc-zambia]]) is **population-scale coverage** by the body legally mandated
+  to issue; **end-2026** (Percy Chinyama, [[smart-zambia-institute]]) is **first issuance** against an
+  initial 2m goal. The funded DZAP target is **4m people with digitally verifiable ID by October 2030**.
+  Biometric NRC issuance comes only after the **2026-08-13** general election.
 - **NRC coverage.** **"over 88 percent"** and **"89 percent"** of adults 16+ — *both in the same UNDP
   article (2024-09)* — against **~94% by 2021** (DZAP PAD).
 

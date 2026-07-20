@@ -32,3 +32,46 @@ if different measures, they must be labelled, not compared.
 
 Written dated inline on `wiki/intersections/angola--infra-connect.md` and the `infra.connect` concept;
 no single "current" figure is asserted bare.
+
+---
+
+## Reconcile pass, 2026-07-20 — REFRAMED, still open
+
+**What was settled.** Two of the three "competing values" were not competing at all:
+
+- **~14,000 km (Angop, 2025-12-13)** is **Unitel's own** national footprint, not the country total —
+  strongly inferred rather than directly stated, but the alternative reading is arithmetically impossible
+  against ≥22,000 km from 2023 and >30,000 km one month earlier.
+- **"mais de 2.000 km"** is **not** a truncation of 22,000. It is a **recurring annual new-build increment**
+  under the National Broadband Network project, reported as such in 2024, 2025 *and* 2026 — a stock/flow
+  error, now disproved.
+- **">22,000 km"** is a **stale boilerplate figure**, traceable to a **2019 World Bank report** and stated
+  verbatim by MINTTICS' National Director in **May 2023**. The minister's April-2026 restatement repeats a
+  figure at least three years old.
+- **~28,000 km (2026-06-30)** is **not** UNESCO's measurement: it is **preliminary** data supplied by
+  Vicente Lopes, UNESCO's national RAM consultant, as an input parameter to the AI-readiness assessment.
+
+**The decisive find, which breaks the timeline.** Secretary of State **Ângelo Buta João** told the ITU's
+WTDC in Baku that Angola has **>30,000 km** of terrestrial fibre (plus 4,860 km under repair, 1,400 km
+under construction) — published **2025-11-28**, i.e. *seven months before* the 28,000 figure and *five
+months before* the 22,000 restatement. Monotonic growth is arithmetically impossible.
+
+**Why this stays open — the narrower question.** Angolan official statements are mutually inconsistent
+within eight months, and none distinguishes backbone from total deployed from all-operator aggregate:
+
+> **20,000 km (Estado da Nação, 2025-10) → 30,000 km (2025-11) → 22,000 km (2026-04) → 28,000 km (2026-06).**
+
+Three official/quasi-official national totals that **decline over time**. This is a data-quality defect in
+the **Angolan official record**, not a wiki error, and no open source resolves it.
+
+**What would settle it:** INACOM's *Relatório Anual Estatístico* — the authoritative Angolan telecoms
+series, bilingual since the 2024 edition. Its PDF was not retrievable from `observatoriotic.gov.ao` or
+`inacom.gov.ao` this pass. **A manual capture is the next step.**
+
+**Wiki state meanwhile:** `wiki/intersections/angola--infra-connect.md` and `wiki/places/AGO.md` now carry
+each figure dated and labelled by what it measures, and assert **no single current figure**.
+
+**Instruction (revised):** three official Angolan national fibre-length totals — 30,000 km (2025-11),
+22,000 km (restated 2026-04) and 28,000 km (2026-06) — decline over time and none states whether it counts
+backbone, total deployed or an all-operator aggregate. Obtain INACOM's annual statistical report and
+establish what the authoritative national figure counts, with an as-of date.

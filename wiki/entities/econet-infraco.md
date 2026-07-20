@@ -5,7 +5,7 @@ title: Econet InfraCo
 places: [ZWE]
 topics: [infra.store, infra.energy, infra.connect, tech.industry, finance.new]
 entities: [[econet-wireless-zimbabwe], [strive-masiyiwa], [victoria-falls-stock-exchange]]
-status: needs-review
+status: active
 last_reviewed: 2026-07-20
 sources: [[2025-12-19 Econet approves ambitious Harare IT park data centre], [2025-12-22 Zimbabwe's Econet InfraCo announces industrial park plans]]
 ---
@@ -33,7 +33,14 @@ split into those two entities and is now a disambiguation pointer ([[econet-wire
   but has long operated as a dedicated unit within Econet Wireless Zimbabwe"**, providing
   towers, fibre, power systems and data facilities — attributed to the company itself.
 
-**Not resolved here.** See `reviews/contradictions/open/econet-infraco-founding`.
+**Resolved (2026-07-20): neither "newly founded" nor a simple rename.** Econet InfraCo **is Distributed
+Power Africa (Private) Limited**, Econet's pre-existing renewable-energy subsidiary, renamed and converted
+(private→public, new Certificate of Incorporation 2026-03-24). The assets were transferred as a going
+concern from **EWPL and other wholly owned SPVs** under a Scheme of Reconstruction Agreement completed
+**2025-12-24** — a real legal consolidation across several SPVs, not a rebrand in place and not a founding.
+ITWeb's "newly founded" is wrong; Developing Telecoms is directionally right on maturity but imprecise on
+structure. It is a subsidiary of **[[econet-wireless-zimbabwe]]**, not of Econet Group/Global, and listed
+on the **VFEX on 2026-03-31** (INFR.VX, ~US$1bn) with EWZL retaining 70%.
 
 ## The Harare industrial and IT park (as of December 2025)
 

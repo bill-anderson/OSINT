@@ -34,11 +34,13 @@ doubles as the data protection authority** — there is no separate DPA.
   **[[zimbabwe-national-ai-strategy]]** (**launched March 2026**) with its **AI Grand Challenge**, a
   digital-skills programme **targeting 1.5m Zimbabweans** in coding, AI and data, and **digital centres**
   offering free internet, equipment and literacy training.
-  **Flagged — not adopted:** her claim that **internet penetration "has now reached 87%"** stands against
-  the **38.4% penetration / 61.6% offline** the wiki holds for **end-2025**. The two are irreconcilable as
-  stated; recorded at `reviews/contradictions/open/zimbabwe-internet-penetration-2026.md`, with the
-  likeliest bridge being that they measure different things (coverage or connections vs users — cf. **95.0%
-  mobile connections**, end-2025). **Neither has been promoted as current state.** See
+  Her claim that **internet penetration "has now reached 87%"** stands against the **38.4% penetration / 61.6% offline** the wiki holds for **end-2025**. **Resolved (2026-07-20):
+  they measure different things.** The 87% is **POTRAZ's own series — active internet/data subscriptions
+  divided by population** (84.55% at Q4 2025; the minister quoted that exact figure to two decimals on
+  2026-03-13, so July's 87% is the same series a quarter or two on). It can exceed usage because one person
+  may hold several subscriptions — and it *fell* 1.37pp in Q1 2025 "owing to a higher change in the
+  population figure," which a usage measure cannot do. DataReportal measures **actual users**: 38.4% (6.54m
+  individuals, Oct 2025). Mobile connections at 95.0% of population are a third measure again. See
   [[zimbabwe--infra-connect]], [[gov.policy]], [[capacity.training]]. Source:
   [[2026-07-17-zimbabwe-digital-roadmap-msme-growth]].
 - **2026-07-06** — **Powertel** (ZESA's telecom arm, a Mutapa Investment Fund
@@ -93,10 +95,12 @@ doubles as the data protection authority** — there is no separate DPA.
   **Phased**, phase 1 apparently begun; possibly **one of the largest private-sector
   developments since independence**. To list on the **[[victoria-falls-stock-exchange]]**,
   which **accepts only US dollars** — part of a tower-unbundling following African peers. CEO
-  **Douglas Mboweni** (confirmed serving Dec 2025). **Contradiction: ITWeb calls InfraCo
-  "newly founded"; Developing Telecoms, citing the company, says it is "not a new business"
-  but a long-standing unit newly renamed — see
-  `reviews/contradictions/open/econet-infraco-founding`.** *InfraCo sits under Econet Wireless
+  **Douglas Mboweni** (confirmed serving Dec 2025). **Resolved (2026-07-20): neither "newly
+  founded" nor a simple rename.** InfraCo **is Distributed Power Africa (Private) Limited**,
+  a pre-existing Econet subsidiary renamed and converted private→public (2026-03-24), into
+  which assets held by EWPL and other wholly owned SPVs were transferred as a going concern
+  under a Scheme of Reconstruction completed **2025-12-24**. VFEX-listed **2026-03-31**
+  (INFR.VX, ~US$1bn), EWZL retaining 70%. *InfraCo sits under Econet Wireless
   **Zimbabwe**, not the Group (ISSUE-008).* Sources:
   [[2025-12-19 Econet approves ambitious Harare IT park data centre]],
   [[2025-12-22 Zimbabwe's Econet InfraCo announces industrial park plans]].

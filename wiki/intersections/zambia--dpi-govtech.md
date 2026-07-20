@@ -7,8 +7,8 @@ places: [ZMB]
 topics: [dpi.govtech, dpi.exchange, dpi.mis, digital.localgov, gov.legislate, infra.connect, digital.rural, capacity.training, capacity.research, finance.mou]
 entities: [[smart-zambia-institute], [zamportal], [zampay], [lusaka-city-council], [ministry-of-health-zambia], [smartcare-pro], [govlink], [zambia-revenue-authority], [zra-ictd-mou]]
 lens: [sovereignty]
-status: needs-review
-last_reviewed: 2026-07-19
+status: active
+last_reviewed: 2026-07-20
 sources: [[2025-06-23-smart-office-system-rollout], [2026-01-24-digitisation-reduced-corruption-smart-zambia], [2026-05-07-zambia-targets-full-digitalisation-smart-zambia], [2026-05-13-zambia-launches-pmis-property-management], [2026-05-29-councils-digital-lcc-first-zamportal], [2026-07-08-smart-zambia-expands-digital-infrastructure], [2026-07-12-govt-launches-ctmis-contract-system], [2026-07-17-zambie-lance-reseau-4g-prive-govlink], [2026-07-17-zambia-govlink-private-4g], [2026-07-17-zambia-revenue-authority-ictd-deal]]
 ---
 
@@ -49,8 +49,15 @@ open-standards sovereignty agenda that drives the [[zambia--dpi-id|digital ID]].
 - **GWAN coverage — a contested claim (2025 vs 2026).** wearetech.africa reports SZI announced in **2025**
   that it had connected **all 116 local authorities** to the **Government Wide Area Network (GWAN)** — but
   SZI's own **July-2026** statement presents the connection of **North-Western Province's** local
-  authorities and post offices as new. Both are held; neither is adopted. **`needs-review`** — see
-  `reviews/contradictions/open/zambia-gwan-local-authority-coverage`. *(Note this is distinct from
+  authorities and post offices as new. **Resolved (2026-07-20): different measures, both hold.** The
+  116 is SZI's own claim, restated and sharpened by its Government Chief Technical Officer Kasali
+  Musenge on **2026-03-25** — "all 116 councils have been connected… **phase 1 is completed 100
+  percent**", with solar power to all councils. The North-Western Province item (2026-07-07) covers
+  local authorities **and post offices** over **fibre**, extending to schools and health facilities — a
+  later-phase deepening, not a first connection of councils. **Caveat on "connected":** SZI has at times
+  meant completed site works rather than live end-to-end service — in Western Province 12 sites were
+  reported complete while ZAMTEL last-mile connections were still outstanding (2025-02-12). Cite the 116
+  as network reach to council premises, not verified live service. *(Note this is distinct from
   **ZamPortal onboarding**, where LCC was the **first of 116 councils** in May 2026: a council can sit on
   the network without being live on the service portal — the two counts measure different things.)*
   Sources: [[2026-07-17-zambie-lance-reseau-4g-prive-govlink]],

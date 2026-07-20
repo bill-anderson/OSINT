@@ -136,8 +136,8 @@ substrate.
   non-US compute paths. See [[tech.ai]], [[geopol.gulf]]. Sources:
   [[2026-04-28 OpenAI Breaks Free Of Microsoft, Expands AWS Partnership]],
   [[2026-06-01 India's AI deal with the UAE challenges U.S. cloud dominance]].
-- **Hyperscaler footprint — and its absence (2026-04/05).** [[microsoft]]'s **$329m** SA
-  expansion ([[microsoft-sa-2026-expansion]], atop $1.2bn) hardens [[ZAF]] as the hyperscaler
+- **Hyperscaler footprint — and its absence (2026-04/05).** [[microsoft]]'s **R5.4bn** SA
+  expansion (announced 2025-03-06; [[microsoft-sa-2026-expansion]], atop R20.4bn) hardens [[ZAF]] as the hyperscaler
   gateway; yet **no hyperscaler runs a full cloud region in [[NGA]]** — capital routes to
   Kenya/SA over power, tax and 25-year-old telecom policy ([[ncc]] is rewriting it), leaving
   Africa's biggest market an "access point" to foreign regions. See [[infra.store]],

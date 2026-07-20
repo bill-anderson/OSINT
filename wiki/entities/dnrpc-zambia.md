@@ -31,8 +31,10 @@ Its Registrar General is **[[davies-chikalanga]]**; its minister is **[[jack-mwi
   [[2024-09-17 DPI Safeguards come online in Zambias next phase of digital integration]].
 - **INRIS enrolment reported lower, later (2025-12-28).** MoHAIS Principal PRO **Mwala
   Kalaluka** put enrolment at **~1.3 million** — *below* UNDP's 2024-09 figure of 1.5m,
-  with the held PAD implying ~1.6m in between. A later source with a lower figure is not
-  supersession; see `reviews/contradictions/open/zambia-inris-enrolment`. Kalaluka also
+  with the held PAD stating ~1.5m in between. **Resolved (2026-07-20): not a real decline** — the
+  December figure restates the May-2024 number in a PR briefing; no de-duplication or downward
+  revision of INRIS is reported anywhere, and enrolment has been flat at ~1.5m since late 2024.
+  Kalaluka also
   reported **500,000+ births and deaths registered**, and conceded INRIS was previously
   "manual, fragmented, and underfunded" with no dedicated birth/death registration funding
   in 2019–2020. Source: [[2025-12-28 Over 1.3 Million Citizens Enrolled on INRIS]].
@@ -44,8 +46,9 @@ Its Registrar General is **[[davies-chikalanga]]**; its minister is **[[jack-mwi
 - **Birth registration (ID4Africa 2025, 2025-06).** [[davies-chikalanga]] cited **14% of
   births registered (UNICEF, 2024)** and **only 6% of children holding a certificate**,
   against a **50%-by-end-2026** target — and put digital ID at **end-2027**, against
-  [[smart-zambia-institute]]'s end-2026. See
-  `reviews/contradictions/open/zambia-digital-id-target`. Source:
+  [[smart-zambia-institute]]'s end-2026. **Resolved (2026-07-20):** these are different
+  deliverables — DNRPC's end-2027 is population-scale coverage, SZI's end-2026 is first issuance
+  against an initial 2m goal; the funded DZAP target is **4m people by October 2030**. Source:
   [[2025-06-12 Zambia says using multiple strategies to meet 50 percent birth registration goal by 2026]].
 - **Named governance risks (UNDP, 2024-09).** Multiple agencies issuing their own IDs on
   **different AFIS/ABIS**; Data Protection Act training needed across **145+ offices in 10

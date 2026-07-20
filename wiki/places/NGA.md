@@ -73,7 +73,9 @@ last_reviewed: 2026-07-19
   **67% in dollar terms in 2026 to date**, reported as the best of 92 exchanges Bloomberg tracks. The
   data-governance finding sits underneath the rally: participants name **registrar record-keeping** —
   inconsistent shareholder-name recording delaying dividends — not trading technology, as the binding
-  failure. Held against the **2008 crash** (an estimated **₦6.96 trillion** lost in nine months), where
+  failure. Held against the **2008 crash** — market capitalisation fell from **₦12.50tn (Feb 2008)** to
+  **₦6.96tn (31 Dec 2008)**, a loss of **₦5.55tn / 44.4%** from March 2008 (CBN, Dec 2008); the commonly
+  repeated "₦6.96tn lost" mistakes the closing capitalisation for the loss (corrected 2026-07-20) — where
   **[[csl-stockbrokers]]**'s Mustapha Umaru argues governance and NGX regulation have since strengthened
   — a forecast made mid-rally. See [[nigeria--dpi-pay]], [[dpi.pay]], [[tech.industry]],
   [[capacity.literacy]]. Source: [[2026-07-18-nigeria-retail-investing-boom]].

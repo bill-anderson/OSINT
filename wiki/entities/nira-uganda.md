@@ -109,10 +109,18 @@ full chain.
 
 DRAA (2025-09-13) estimates **18 million (about 40%) of the population** lack a National
 ID; NIRA (2026-02-11) frames a **35 million** register. The DRAA figure **carries no
-cited source**. NIRA's own 2024 baseline was **17.2m unregistered**; enrolling 6.4m of
-them implies **~10.8m still unregistered as of Feb 2026** — which cleanly contradicts
-neither. Both are recorded dated and attributed; the wiki adopts neither. See
-`reviews/contradictions/open/uganda-unregistered-population`.
+cited source**. **Resolved (2026-07-20) — the divergence is a denominator, not a dispute.**
+The 18.1m is **NIRA's own figure**, not the advocacy author's: ED Rosemary Kisembo told
+COSASE on **2024-07-01** that against a census population of 45.9m, "we haven't registered
+about 18.1 million individuals… **most of those unregistered are children under 17**." That
+is 39.4% of the **total** population including infants. NIRA's press statement of
+**2024-10-15** gives the split: of 27.4m on the register, 6.3m are aged 0–17, leaving ~21.1m
+adults against a census adult population of **23,154,716 (18+, 2024-05-09)** — an adult gap of
+**~2.0m, ~9% of adults**, not 40%. The 35m register figure (2026-02-08) is cumulative
+enrolments ever issued, with no deregistration for death or emigration (the Auditor General
+found the NSIS cannot register deaths, FY2024/25). The binding constraint is **card
+possession**: of 10,152,559 printed in the 2025/26 exercise, only **2,581,457 collected
+(35.5%, 2026-02-08)**.
 
 ## Related
 

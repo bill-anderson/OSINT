@@ -31,9 +31,9 @@ makes the physical credential is to certify the digital one.
   not only enhances their security, but it will also assure their quality and authenticity** thereby
   enabling a safe and hassle-free travel especially when traveling in the continent and abroad."
   *A first-party framing — attribute it.* Source: same.
-- **The date caveat.** The wiki's held material dates the four-party pact to April 2024; this
-  contemporaneous report dates it April 2025 (the **SARS–DHA bilateral** being the element in place
-  since **2010**). See `reviews/contradictions/open/south-africa-four-party-pact-date`.
+- **The date, settled (2026-07-20).** The four-party pact was signed **2025-04-03** (SARS media
+  release, "3 April 2025... signed today"); the held "April 2024" was a year error. A separate bilateral
+  **SARS-DHA** agreement signed the same day revived the **Direct Master Agreement in place since 2010**.
 - **Producing the Smart ID (2025-07-03).** GPW is cited in Deputy Minister
   **[[njabulo-nzuza]]**'s NCOP Budget Vote alongside the Smart ID delivery record — **3,597,856
   cards issued in FY2024/25** against a 2.5m target, **25,102,201 cumulative** since programme

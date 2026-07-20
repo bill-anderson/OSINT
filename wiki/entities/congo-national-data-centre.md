@@ -29,9 +29,13 @@ A **national data centre** under construction in the Bacongo district of Brazzav
   [[2025-08-07-congo-national-data-centre-90pc-november-launch-techafricanews]].
 - **⚠ Financing conflict (open contradiction).** The held **$57m AfDB / $72.8m total** (Techpoint, 2024)
   conflicts with Les Dépêches' recurring **"cofinancé par la BAD à 13 millions de dollars"** (2025-05-29).
-  A plausible (unconfirmed) reconciliation: $57m/$72.8m = whole project incl. the 600-km fibre; $13m =
-  AfDB's building-only share. Both held dated; see
-  `reviews/contradictions/open/congo-datacentre-afdb-financing.md`.
+  **Resolved (2026-07-20):** the figures are different scopes of one AfDB operation, not rival values. The
+  CAB Congo component's total envelope is **€66.55m — €52.47m AfDB + €14.50m Government of Congo (AfDB,
+  as of 2024-05-17)** — covering both 600 km of fibre (Cameroon 341 km, CAR 281 km) **and** the data centre.
+  Of that, **some €13.8m (≈US$15m)** is allocated to building and operationalising the data centre itself;
+  Congolese reporting rendering this as "$13 million" is restating the euro figure in the wrong currency.
+  As of **2025-02-28** the telecoms minister put AfDB disbursement at 90% of the data-centre works, the
+  State's counterpart share outstanding.
 - **A third DC thread (2026-06).** Beyond this DC and the ARPCE Pointe-Noire (2Africa) one, a CEO–ONG Pratic
   MoU (signed 29 May 2026) launched a feasibility study for a **regional data centre on the Côte-Matève gas
   plant, Pointe-Noire** — an energy–digital-nexus play. Source:

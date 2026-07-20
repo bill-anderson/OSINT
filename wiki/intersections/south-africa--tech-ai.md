@@ -30,7 +30,7 @@ skilling agenda.
 - **Inclusion agenda — Big Tech's own framing (2026-04/05).** [[gates-foundation]]–[[anthropic]]
   committed **$200m over 4 years** ([[gates-anthropic-partnership]]) in grants/API credits for
   AI public goods in health/education/agriculture across LMICs (Kenya/Nigeria illustrative).
-  [[microsoft]]'s **$329m** SA expansion ([[microsoft-sa-2026-expansion]], atop $1.2bn) funds
+  [[microsoft]]'s **R5.4bn** SA expansion (announced 2025-03-06; [[microsoft-sa-2026-expansion]], atop R20.4bn) funds
   DC growth, power/water readiness and AI skills, partnering multilingual-LLM firm Lelapa AI
   ("you can't have AI without data centres" — Brad Smith). [[google]] SA pushes inclusive-AI
   and African-language datasets, signalling appetite for an Africa cloud region. See [[ZAF]],

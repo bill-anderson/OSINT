@@ -36,7 +36,10 @@ The wiki has read Angola's stack as a **three-way courtship** (China / India / U
 
 - **Digital identity & the exclusion baseline** → **[[angola--dpi-id]]**, **[[angola--dpi-registry]]**. The BI is being made the sole legal ID even as **only 52.4% hold one (2025-11)**; a 15m-BI-by-2027 target drives provincial BI printing (all 21 provinces, 2026-07), BI-at-birth ("Nascer com Registo," EU/UNICEF), a proof-of-life BDCM registry (~$275m supplementary budget) and the 2027 electoral roll. Aadhaar-modelled ([[angola-india-dpi-credit-line]]); [[ima-angola]] interoperability.
 - **Data-centre estate & sovereign cloud** → **[[angola--infra-store]]**. [[infosi]]'s ~$89m Camama national DC + Nuvem Nacional (30-day migration mandate); commercial Tier III/IV via [[raxio-group]], [[angola-cables]]/AngoNAP, [[unitel]] — "repatriation" of citizens' documents from foreign custody the stated frame.
-- **Connectivity & satellite** → **[[angola--infra-connect]]**, **[[angola--data-satellite]]**. ~75% mobile penetration, ~17.5m broadband subscribers, ~22,000 km national fibre (2026-04); [[unitel]]'s $43m 2Africa branch; [[angola-cables]] Atlantic corridor; **ANGOSAT-2** opened to commercial ISPs and **ANGEO-1** ([[angeo-1]], Airbus) EO satellite; Eutelsat the first licensed LEO operator.
+- **Connectivity & satellite** → **[[angola--infra-connect]]**, **[[angola--data-satellite]]**. ~75% mobile penetration, ~17.5m broadband subscribers, national fibre reported inconsistently by government — "more than 22,000 km" (restated 2026-04, but a
+  c. 2019 figure), "more than 30,000 km" (Secretary of State to the ITU WTDC, 2025-11-28), ~28,000 km
+  (UNESCO RAM consultant, preliminary, 2026-06-30); no single current figure is asserted, see
+  [[angola--infra-connect]]; [[unitel]]'s $43m 2Africa branch; [[angola-cables]] Atlantic corridor; **ANGOSAT-2** opened to commercial ISPs and **ANGEO-1** ([[angeo-1]], Airbus) EO satellite; Eutelsat the first licensed LEO operator.
 - **Digital payments & fintech** → **[[angola--dpi-pay]]**. [[emis-angola]]/Multicaixa + fast-scaling **KWiK** (35m+ transfers, 590bn Kz in 2025); ISO 20022 complete (2026-07); Kwanza joining SADC-RTGS (H2 2026); financial inclusion **51.7% (Q1 2026)** vs a 65%/2027 target.
 - **Data protection, cybersecurity & surveillance** → **[[angola--gov-protect]]**, **[[angola--infra-cybersec]]**. An **active [[apd-angola]]** and a Lei 22/11 revision through consultation; but the cybersecurity *bill* stalled in parliament (2026-07) while an executive decree track advances — and **SINSE's confirmed Predator use** and a "fake-news" law (up to 10 years) mark the authoritarian edge. [[angola-ai-bill]] + DP amendment pending.
 - **GovTech, e-gov & statistics** → **[[angola--dpi-govtech]]**. Governo Digital 2027 (218 projects); the $150m IMA/TIS "Digitais Públicas" DPI build (interoperability, PKI e-signatures); i.Lab with Serpro; INE's Censo 2024 open portal; ENDE 2026–2032 statistics strategy. Base low (**EGDI 156/193, 2024**).
@@ -70,4 +73,12 @@ Angola's own framing — supplied here largely by **Angop, the state agency, who
 ## Notes
 
 - Parent region: [[XSA]] · continental: [[XAF]]. Phase-1 country of the regional **[[idea-mpa]]** (IDEA) programme (with DRC, Malawi; COMESA coordinating).
-- **Source weighting:** [[2025-11-26-quase-metade-dos-angolanos-sem-bilhete-de-identidade|Novo Jornal]] supplies adversarial reporting; Angop framing is the government's view. A **census figure to watch:** Luanda reported at 7,961,235 (2025-11) vs "8.6m / 24.1%" (2026-03), both citing Censo 2024.
+- **Source weighting:** [[2025-11-26-quase-metade-dos-angolanos-sem-bilhete-de-identidade|Novo Jornal]] supplies adversarial reporting; Angop framing is the government's view. **Luanda's Censo 2024 population, resolved (2026-07-20): 8,816,297** (24.1% of the national 36,604,681)
+  at the census reference date of **2024-09-19**, per INE's definitive results published 2025-11-20 — on
+  the **post-2025 provincial boundaries**, which exclude the newly created Icolo e Bengo province (on the
+  pre-2025 boundaries the equivalent total is 10,188,967). Neither Novo Jornal figure was the provincial
+  total: **7,961,235** is the **aged-5-and-over denominator** for INE's ID-holding indicator (90.3% of
+  8,816,297), and **"mais de 8,6 milhões"** is **8,665,510** from INE's separate Luanda *provincial*
+  report (published 2026-03-03), wrongly paired with the national report's 24.1% share. *INE contradicts
+  itself between those two reports by 150,787 — most plausibly raw enumerated vs dual-system-adjusted
+  count, but INE has published no reconciliation; the national figure is used here.*

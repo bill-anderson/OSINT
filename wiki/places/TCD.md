@@ -183,15 +183,18 @@ poverty through digital-enabled services within five years. Other accounts rende
 - [[dpi.mis]] — digital-health / EMR interconnection (InterSystems, 19Labs); Telemedan solar telehealth kiosks.
 - [[tech.innovate]] · [[capacity.training]] — Telemedan, OIF D-CLIC/Makers Tchad, UNHCR Abéché centre, youth digital+finance training; Chad-India AI-training talks. Full case: [[chad--tech-innovate]].
 
-## Contested figures
+## Internet penetration
 
-**Internet penetration is contradicted across sources, both tracing to DataReportal:** **22.5%**
-(4.18m users, January 2024) against **13.2%** at the start of 2025 — a 9.3-point fall against the
-same publisher's own reported **+9.2%** user growth. Both are recorded dated and attributed;
-neither is adopted. See `reviews/contradictions/open/chad-internet-penetration-2024-2025`.
-Related dated figures (Jan 2024): **13.06m mobile connections = 70.4% of population**; population
-**18.56m**, **75.4% rural**, median age **15.2**. Mobile *connections* are not internet *users* —
-the publisher says so itself.
+Internet penetration stood at **13.2% (2.74m users) at January 2025**, and remained **13.2%
+(2.79m users) at October 2025** (DataReportal, *Digital 2025/2026: Chad*) — consistent with the
+ITU/World Bank series for Chad of **12.63% (2024)**.
+
+The publisher's earlier **22.5% for January 2024** (*Digital 2024: Chad*) was **rebased away by
+DataReportal itself**: its 2025 edition reports +4.3% user growth over that year with the adoption
+rate unchanged, which is only self-consistent against a restated January-2024 base of ~13.2%. The
+22.5% is **superseded, not evidence of a fall in access** (resolved 2026-07-20). Related dated
+figures: **mobile connections 73.3% of population (Oct 2025)** — connections are not users, and the
+publisher says so itself.
 
 *Framing difference, not a contradiction:* the 2026-02-06 reporting has the data centre built and
 awaiting certification, while a 2026-02-13 telecoms piece calls it "under construction" — loose

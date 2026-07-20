@@ -196,6 +196,9 @@ from the day *already* swept, not newly-indexed weekend items.
      **`inadmissible-origin`** (not `off-topic`) and **seek the original instead**,
      staging that. If real reporting exists only on such a mirror and no original can
      be found, file it as a **gap lead** in `reviews/gaps.md`, not a source.
+     **Newsletter/digest editions** (e.g. **TechCabal Daily**) are a digest of others'
+     reporting — **dropped outright, never lead-mined**; only a publisher's standalone
+     articles are admitted (ISSUE-019).
    - **Classify** against `wiki/taxonomy.md` (topic slugs), `wiki/countries.csv`
      (place codes) and known entities; add `lens` where clear (`sovereignty`,
      `colonialism`). Best-effort — ingest validates.

@@ -45,10 +45,10 @@ market, a sovereign-cloud and state-owned data-centre/AI-compute build-out — l
 - **2026-02** — **First in Africa for FTTH households (3m)**; "All Fiber" copper phase-out by early 2027;
   **5G ($492m) rolling out nationwide** (Djezzy 18 states, Ooredoo all wilayas). See [[algeria-5g]],
   [[algeria--infra-connect]]. Source: [[2026-02-17-algeria-first-africa-ftth-connectivity-echorouk]].
-- **2026-02-09** — **National public-data governance framework launched** (PM Ghrieb), anchored in a
-  **Presidential Decree of 30 Dec 2025** — sovereign data model, interoperability, a unified national
-  data-source database. ⚠ **Decree number disputed** (held source: 25-350; two Algerian-press sources: 25-320)
-  — under reconciliation. See [[gov.protect]], [[algeria-data-governance-framework]], [[algeria--gov-protect]].
+- **2026-02-09** — **National public-data governance framework launched** (PM Ghrieb), anchored in
+  **Presidential Decree n° 25-320 of 30 Dec 2025** (*JO* n° 87) — sovereign data model, interoperability, a
+  unified national data-source database. Published alongside Decree n° 25-321 (ISS Strategy 2025–29).
+  See [[gov.protect]], [[algeria-data-governance-framework]], [[algeria--gov-protect]].
   Source: [[2026-02-10 Algeria launches national public-data governance framework (Decree 25-350)]].
 - **2026-01-11** — **AMLAK electronic land-title system** begins nationwide rollout (DGDN). See
   [[dpi.registry]], [[amlak]], [[algeria--dpi-govtech]]. Source:
@@ -104,7 +104,7 @@ market, a sovereign-cloud and state-owned data-centre/AI-compute build-out — l
   biometric-gated vehicle registration & passport renewal; **[[dgsn-algeria|DGSN]]**–UK forensics MoU. See
   [[algeria--dpi-id]].
 - [[gov.protect]] · [[infra.store]] — **[[anpdcp|Law 18-07/25-11]]**, mandatory localisation,
-  **[[algeria-data-governance-framework|data-governance decree]]** (number 25-350/25-320 disputed). See
+  **[[algeria-data-governance-framework|data-governance decree 25-320]]**. See
   [[algeria--gov-protect]].
 - [[infra.cybersec]] — **[[assi|ASSI]]** (MDN), **[[algeria-national-cybersecurity-strategy-2025-2029|ISS
   Strategy 2025–29]]**, Decree 26-07 framework, **[[mpt-cert|MPT-CERT]]**, Russia MoU. See

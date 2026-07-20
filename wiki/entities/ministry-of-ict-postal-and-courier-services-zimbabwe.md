@@ -5,8 +5,8 @@ title: Ministry of ICT, Postal and Courier Services (Zimbabwe)
 places: [ZWE]
 topics: [gov.policy, dpi.govtech, infra.cybersec, tech.ai, infra.connect, capacity.training, include.divides]
 lens: []
-status: needs-review
-last_reviewed: 2026-07-19
+status: active
+last_reviewed: 2026-07-20
 sources: [[2025-06-06-570-institutions-data-controller-licences], [2025-10-17-government-enforces-data-privacy-laws], [2026-07-17-zimbabwe-digital-roadmap-msme-growth]]
 ---
 
@@ -33,9 +33,11 @@ of the data-protection licensing regime, the National Cybersecurity Strategy, fr
   detail: **[[zimbabwe--infra-connect]]**. Source:
   [[2026-07-17-zimbabwe-digital-roadmap-msme-growth]].
 
-**`needs-review`:** the ministerial **87% internet-penetration** claim (2026-07-17) conflicts sharply
-with the **38.4% penetration / 61.6% offline** the wiki holds for end-2025. Recorded as an open
-contradiction — see `reviews/contradictions/open/zimbabwe-internet-penetration-2026.md`. **Neither figure
-has been promoted as current state.**
+**Resolved (2026-07-20).** The ministerial **87% internet-penetration** claim (2026-07-17) and the
+**38.4% / 61.6% offline** the wiki holds for end-2025 measure different things. The 87% is **POTRAZ's own
+series — active internet/data subscriptions ÷ population** (84.55% at Q4 2025, which the minister quoted
+to two decimals on 2026-03-13); DataReportal's 38.4% counts **actual users** (6.54m, Oct 2025). The
+minister's round numbers consistently lag POTRAZ — her "more than 17,000 km" of fibre (2026-07-17) against
+the regulator's 19,000+ km for Q1 2026 is the same pattern, true but stale rather than wrong.
 
 See [[zimbabwe--gov-protect]] · [[zimbabwe--infra-connect]] · [[gov.policy]] · [[ZWE]].

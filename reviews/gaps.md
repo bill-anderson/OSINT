@@ -753,3 +753,120 @@ study). See log.md.)*
   a donor or DFI facility). *Lead: source the Enugu State budget/procurement record and any state
   announcement of the programme, so a 267-school claim rests on something other than a summit remark
   in vendor-sponsored content.* (Surfaced ingest daily-2026-07-19, 2026-07-19.)
+
+### Surfaced by the reconcile pass, 2026-07-20
+
+- **GAP-DZA-006 · Algeria's Feb-2026 data-governance launch and companion instruments are unheld.** The
+  reconcile pass surfaced dated facts the wiki does not hold: the framework's official **launch on
+  2026-02-09** (CIC Abdelatif-Rahal, chaired by PM Sifi Ghrieb, slogan "Souveraineté, Organisation et
+  Transparence"); companion **Decree 25-321** (cybersecurity strategy 2025-2029, same JO) and **Decree
+  26-07** of 7 Jan 2026 (mandatory cybersecurity units in public institutions, JO 21 Jan 2026); and named
+  officials **Meriem Benmouloud** (High Commissioner for Digitalisation, ministerial rank) and **Samir
+  Bourhil** (president, ANPDP). *Lead: source these from the JO and official releases.* (Surfaced
+  reconcile, 2026-07-20.)
+
+- **GAP-AGO-00X · INACOM's *Relatório Anual Estatístico* is not held.** The authoritative Angolan telecoms
+  statistical series (bilingual since the 2024 edition) is the instrument that would settle the national
+  fibre-length question and several other Angola infrastructure figures. Its PDF was not retrievable from
+  `observatoriotic.gov.ao` or `inacom.gov.ao`. *Lead: manual capture.* (Surfaced reconcile, 2026-07-20.)
+
+- **GAP-AGO-00X · Angola's Presidential Decree 263/25 (Centro Nacional de Cibersegurança) is unheld in
+  full.** Its preamble and Arts. 1–3 were verified, but the Estatuto Orgânico annex truncated on fetch, so
+  it was not clipped rather than admit a partial body. This is the one primary in the Angolan cybersecurity
+  decree chain the wiki would not hold. *Lead: manual capture of the official PDF linked from LEX.AO.*
+  (Surfaced reconcile, 2026-07-20.)
+
+- **GAP-AGO-00X · INE's Censo 2024 PDFs are not held.** The two decisive primaries behind Luanda's
+  population — the national definitive-results report and the Luanda provincial report — did not resolve
+  through fetch. Capturing them as date-prefixed artefacts with companion source pages would put the
+  resolution on INE's own record and would settle the unexplained **150,787** discrepancy between INE's own
+  two reports directly. *Lead: manual capture from ine.gov.ao.* (Surfaced reconcile, 2026-07-20.)
+
+- **GAP-ZAF-00X · No national figure exists for SASSA's "alternative identification" cohort.** This is the
+  population the exclusion argument turns on, and the only figure found is Gauteng-only and five years
+  stale (5,050 quad-7 recipients, 2021-10). *Lead: source a SASSA parliamentary reply or annual report.*
+  (Surfaced reconcile, 2026-07-20.)
+
+- **GAP-MWI-00X · Malawi's data-protection commencement instruments are unheld.** The corpus holds no clip
+  of **Government Notice 40 of 2024** (the commencement instrument itself), nor of the two 2025 implementing
+  regulations (Registration; Complaints & Investigations), which sit behind file downloads at dpa.mw. The
+  Data Protection Act 2024 clip in `new/` is also partial — **s.53, the transitional provision, is not in
+  the captured range**. *Lead: manual capture of all four.* (Surfaced reconcile, 2026-07-20.)
+
+- **GAP-NGA-00X · The NGX's recurring primaries are not held directly.** The **Domestic & Foreign Portfolio
+  Investment Report** (monthly) and the **weekly market report** are the recurring primaries behind the
+  wiki's Nigerian market series, and both currently reach the wiki only via secondary reporting. The CBN's
+  own **Statistical Bulletin Table D.3.4.c** (monthly official ₦/US$ end-period rates) is likewise unheld —
+  the 2008 exchange rates used in this pass rest on secondary aggregators. *Lead: acquire all three
+  directly.* (Surfaced reconcile, 2026-07-20.)
+
+- **GAP-UGA-00X · The Auditor General's NIRA report FY2024/25 is held only secondhand.** It is load-bearing
+  for the finding that the NSIS cannot register deaths — which is what makes Uganda's 35m register a
+  cumulative, un-deregistered count. *Lead: source it directly from oag.go.ug.* Related: **UBOS Census 2024
+  Final Report** has no `instrument`/`resource` entity page and is now the population baseline for every
+  Uganda page. (Surfaced reconcile, 2026-07-20.)
+
+- **GAP-SEN-00X · ANEC's own civil-registration statistics are not held.** The 15.3m RNEC figure reaches the
+  wiki only via APA's report of an ANEC Facebook post. ANEC DG Aliou Ousmane Sall's August-2025 slide deck
+  is a rich ANEC-authored primary (20m acts, RNEC in 400 centres, 235 in service, annual declaration
+  volumes) and is a candidate for separate ingest. *Lead: source from anec.sn.* (Surfaced reconcile,
+  2026-07-20.)
+
+- **GAP-SEN-00X · The Sénégal Numérique SA compromise has no held primary.** A separate incident the same
+  week as the DAF breach, with press speculation of a coordinated campaign; given the DAF linkage it is
+  worth sourcing. Related standing fact: **no Senegalese national CERT existed at the time of the
+  incident**. (Surfaced reconcile, 2026-07-20.)
+
+- **GAP-MRT-00X · ANRPTS publishes no usage statistics.** Every Houwiyeti figure in circulation reaches the
+  public domain only as a conference remark relayed by third parties — which is precisely how the
+  unreconcilable "70%" entered the record. ARMP procurement records show ANRPTS commissioned a *"Dashboard
+  and BI Houwiyeti"* system, so an authoritative internal series exists but is unpublished. *Lead: standing
+  watch on anrpts.gov.mr.* (Surfaced reconcile, 2026-07-20.)
+
+- **GAP-ZMB-00X · Zambia has no retrievable survey-based internet-use figure since 2018.** The
+  ZamStats/ZICTA National ICT Survey series (4.8% 2013, 8.8% 2015, **14.3% 2018**) is the only nationally
+  representative household-survey measure Zambia has; a 2022 round was conducted and the 2022 Census
+  measured 3-month internet use, but **neither headline figure could be retrieved**. Every figure in the
+  resolved contradiction is therefore administrative or modelled. Related: **DZAP** — the World Bank
+  programme framing several Zambian items — appears to have no entity page, and **no official statement
+  disaggregates the 116 GWAN councils by *link established* vs *service live*.** (Surfaced reconcile,
+  2026-07-20.)
+
+- **GAP-ZWE-00X · No POTRAZ or ministry primary is held for Zimbabwe's penetration series.** The POTRAZ
+  Q4-2025 abridged report is the definitional anchor for the whole subscriptions series and is held only
+  via a TechnoMag rehost with partial text extraction; the Q1-2026 report was not yet publicly posted.
+  *Lead: manual capture from potraz.gov.zw.* (Surfaced reconcile, 2026-07-20.)
+
+- **GAP-CAF-00X · The ITU value for CAR rests on mirrors, not ITU's own page.** `datahub.itu.int` is a
+  JS data explorer returning an empty shell to text fetch; the 13.8% (2024) figure came via World Bank,
+  CEIC and FRED. ARCEP-CAR publishes no penetration statistics at all, so there is no fourth independent
+  measurer. *Lead: browser capture of the ITU page.* (Surfaced reconcile, 2026-07-20.)
+
+- **GAP-SOM-00X · Somalia's National Data Center has no entity page.** Construction started 2023-11-15
+  under World Bank SCALED-UP (P168115); it is a material, recurring object across MoCT, NCA and NIRA
+  sources and is the pivot of the unresolved SNID hosting question. Also unheld: the **2018
+  Pakistan–Somalia grant agreement** and **SNIDS Addenda-1/-2**, so whether a data-localisation clause
+  exists is unknowable from open sources. (Surfaced reconcile, 2026-07-20.)
+
+- **GAP-SSD-00X · NIPS's status after its missed December-2025 target is undocumented**, and the **ATS+
+  platform vendor is unidentified** — no supplier announcement surfaced for a system this material.
+  *Lead: BoSS annual report; SIIPS 2026.* (Surfaced reconcile, 2026-07-20.)
+
+- **GAP-TUN-00X · No primary for the "EBRD €190m finances the Tunisia–Medusa connection" claim.**
+  ViaTunisia's construction financing is demonstrably the EU CEF grant to Orange, so the EBRD facility is
+  probably a separate corporate/network loan that trade press conflated with landing-station financing.
+  *Lead: EBRD's own project database, before the wiki repeats it.* (Surfaced reconcile, 2026-07-20.)
+
+- **GAP-BWA-00X · The Botswana Tech Fund's Guernsey domicile is not register-verified.** No Guernsey
+  Financial Services Commission entry was found; the domicile rests on the managing partner's on-record
+  statement plus Pula Investments' Guernsey base. The entity page says so explicitly rather than asserting
+  it as filed fact. (Surfaced reconcile, 2026-07-20.)
+
+- **GAP-TGO-00X · Togo's 2025 joint education-sector review is unheld.** A government primary
+  (education.gouv.tg, June 2025) carrying DHIS2 phase-2 financing (71,305,244 FCFA to HISP WCA) and
+  StatEduc modernisation detail; its full body exceeds fetch limits. *Lead: manual capture.* (Surfaced
+  reconcile, 2026-07-20.)
+
+- **GAP-BFA-00X · No ARCEP or MTDPCE primary is held for the white-zone programme.** Every source in the
+  corpus is press reporting; the ministry publishes via Facebook, which is not a sweep target. (Surfaced
+  reconcile, 2026-07-20.)

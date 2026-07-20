@@ -66,12 +66,19 @@ It was missing its own prehistory — MOSIP work was already live fourteen month
 - **The rollout date is contested between agencies.** SMART Zambia's **Percy Chinyama** says digital
   ID cards by **end-2026**; the **Registrar General, [[davies-chikalanga]]** — who actually runs
   registration — said **end-2027** (2025-06-12). Held material adds that biometric NRC issuance comes
-  only **after the 2026 General Elections**. Both dated and attributed; neither adopted. See
-  `reviews/contradictions/open/zambia-digital-id-target`.
-- **Enrolment is contested too, and it moves the wrong way.** [[inris]] enrolment is reported at
-  **1.5 million** (UNDP, 2024-09), **~1.6 million** implied by the DZAP PAD (~15% of adults,
-  2025-09), and **~1.3 million** (ZNBC quoting MoHAIS, 2025-12) — a later source with a lower figure,
-  which is not supersession. See `reviews/contradictions/open/zambia-inris-enrolment`.
+  only **after the 2026 General Elections**. **Resolved (2026-07-20): different deliverables at different scopes, not rival dates.** SMART Zambia's
+**end-2026** (Chinyama, as of 2025-12-22) is **first issuance** of the DZAP card against an initial goal of
+2 million people; the DNRPC's **end-2027** (Chikalanga, as of 2025-06-12) is **population-scale coverage**,
+stated by the body legally mandated to issue the credential. **DNRPC owns the issuance milestone; SZI owns
+the system milestone** (World Bank PID, 2025-01-20). The funded target is neither: DZAP sets **4,000,000
+people with digitally verifiable ID by October 2030** (baseline 1.5m, Dec 2022), project closing
+2030-10-31. With biometric NRC issuance deferred past the **2026-08-13** general election and no MOSIP
+system integrator contracted as of 2026-07-20, end-2026 reads as a first-issuance aspiration.
+- **Enrolment has plateaued, not fallen.** [[inris]] enrolment ran ~1.0m (Sep 2023) → ~1.3m (May 2024)
+  → **~1.5 million** (UNDP citing DNRPC, 2024-09), where the DZAP PAD still put it — "around 1.5 million
+  people," ~15% of adults — at **2025-09-11**. The **~1.3 million** reported by ZNBC quoting MoHAIS
+  (2025-12-28) restates the May-2024 figure rather than reporting a decline: no de-duplication or
+  downward revision of the register has been reported by DNRPC or MoHAIS (resolved 2026-07-20).
 
 ## 2025–26: the sovereignty pitch, the DPC, and the voter-card case
 

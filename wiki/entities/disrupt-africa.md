@@ -23,10 +23,21 @@ in 2025" — **always name the tracker and date the figure**.
 ## The tracker contradiction
 
 **[[disrupt-africa]] reports Africa's 2025 total at $1.64bn; the wiki holds Partech's $4.1bn for the
-same year — a 2.5× gap on the same metric**, published one day apart. Almost certainly
-methodological (disclosed-only + conservative estimates vs a broader basis). Notably, the two
-**agree** that the "big four" took ~72% of funded startups. See
-`reviews/contradictions/open/africa-tech-funding-2025`.
+same year — a 2.5x gap.** **Resolved (2026-07-20): the two series are not commensurable and must never
+be summed, averaged or used to check one another.** Partech counts **equity plus debt, by deal**, across
+a wide tech universe (US$4.1bn, 570 deals — equity US$2.41bn/462 deals, debt US$1.64bn/107; report
+published 2026-01-22). Disrupt Africa publishes a **self-declared minimum floor**, **by funded venture**,
+restricted to companies passing a narrow startup test (US$1,636,700,000 across 178 startups, 11th
+edition, 2026-02-03); its methodology states the true total "is likely to be higher than our total" and
+excludes corporate spin-offs and companies over roughly ten years old.
+
+*Two cautions.* First, the apparent agreement on the big-four share is **a false parallel**: Disrupt
+Africa's 72.5% is the big four's share **by count** (129/178), while its share **by value** is **88%** —
+so against Partech's 72% of capital the two **diverge by 16 points**. Second, Partech's *debt* subtotal
+(US$1.64bn) is numerically identical to Disrupt Africa's *total* — coincidence, not reconciliation, and a
+live trap for a future reader. The gap localises to debt megadeals to mature companies: the trackers rank
+the big four in **opposite orders**, Kenya being Partech's #1 (US$1.04bn, 48% debt) but Disrupt Africa's
+#4 (US$273.2m).
 
 ## Activity in this wiki
 

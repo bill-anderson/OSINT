@@ -22,8 +22,11 @@ Burkina Faso's **electronic-communications and postal regulator**.
   programme (FASU + [[pactdigital|PACTDIGITAL]] financed) aims to eliminate uncovered "white zones": **138
   covered in 2024**, a **750-locality** tranche launched (Nando 104, Nakambe 61 towns; 37.5bn FCFA), then a
   **1,000-white-zone 2026** push — against **~2,000 localities (10–12% of territory) still with no coverage
-  at all**, targeting 1.5–2m beneficiaries. **The completion horizon is contradicted** — **end-2027**
-  (ministry) vs **2030** (a DG) — see `reviews/contradictions/open/`. Sources:
+  at all**, targeting 1.5–2m beneficiaries. **Two horizons, two things (resolved 2026-07-20):** **end-2027**
+  (minister, as of 2025-09-30; PM, 2026-01-30) is the political horizon of the two funded 750-locality
+  phases; **2030** (Director-General, as of 2025-12-05, confirmed 2026-02-18) is the operational horizon for
+  clearing all ~2,000 white zones to 100% national coverage, and is the ministry's own Transition Digitale
+  2030 roadmap year. Sources:
   [[2025-09-30-services-communications-electroniques-750-zones-bientot-couvertes]],
   [[2026-07-13-pactdigital-1000-white-zones-2026]], [[2025-12-18-zero-zones-blanches-2027-61-localites-nakambe]].
 - **Operators met 2025 site commitments (2026-06).** [[infra.connect]] Orange 200, Moov 200, Telecel 150

@@ -79,8 +79,10 @@ supervision centre for critical digital infrastructure.
   See [[gov.protect]].
 - **2025→2026 — Connectivity: closing "white zones" against a huge gap.** [[infra.connect]] The FASU/
   PACTDIGITAL **"zéro zone blanche"** drive (138 covered 2024; 750- then 1,000-locality tranches) targets
-  the **~2,000 localities (10–12%)** still with no coverage — completion dated **2027** or **2030** (an
-  unreconciled conflict → `reviews/contradictions/open/`). Operators met **80–90%** of 2025 site
+  the **~2,000 localities (10–12%)** still with no coverage. **Two horizons, two things:** the funded
+  phases (750 by end-2026, a further 750 in 2027) carry the political **end-2027** "zéro zone blanche"
+  framing; full national coverage of all ~2,000 zones is targeted for **2030** (DG, as of 2025-12-05,
+  confirmed 2026-02-18) — the ministry's Transition Digitale 2030 roadmap year. Operators met **80–90%** of 2025 site
   commitments (Orange/Moov 200 each, Telecel 150→300; Omdia Q3-2025: Orange 14.2m, Moov 12.7m, Telecel
   2.8m); Moov built a ZACA HQ; but tower rollout is **blocked by local opposition** in places. Basic-plan
   cost is still **~8.8% of GNI**. Burkina/Ghana/Mali/Niger **harmonised frequencies + free roaming** across

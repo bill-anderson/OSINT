@@ -16,6 +16,6 @@ Algeria's **National Digital Transformation Strategy (SNTN)**, **unveiled 12–1
 
 Delivery vehicles and milestones threading through this strategy:
 - **GovTech:** [[dzair-services|Dzair Services]] single-window; Bawabatak portal; [[amlak|AMLAK]] land registry; the [[algeria--dpi-govtech|platform wave]]; Tabioucom e-payments. Backed by an **FNI national tech hub** (National Investment Fund + Djezzy/IT-DEV/Inet/Smart Test, 2025-09) and a **scientific/technical expert committee (CSTHCN)** (2025-10).
-- **Legal:** [[algeria-digital-id-trust-law|digital-ID & trust-services law]] (2025); [[algeria-data-governance-framework|public-data governance framework]] (Presidential Decree of 30 Dec 2025 — number 25-350/25-320 disputed, under reconciliation).
+- **Legal:** [[algeria-digital-id-trust-law|digital-ID & trust-services law]] (2025); [[algeria-data-governance-framework|public-data governance framework]] (Presidential Decree n° 25-320 of 30 Dec 2025).
 - **AI:** [[algeria-national-ai-strategy|National AI Strategy]] (7% of GDP by 2027); Oran AI data centre.
 - **Infrastructure:** national/regional data centres ([[national-digital-services-center-algeria]]); sovereign cloud; 5G licences (Dec 2025); FTTH build-out. Sovereignty is reinforced by **mandatory data localisation** (see [[anpdcp]]).

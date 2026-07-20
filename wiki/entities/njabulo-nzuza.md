@@ -22,8 +22,13 @@ delivery, and it also introduces a live architectural conflict.
   the **South African Reserve Bank** to develop a robust digital identity system," using **facial
   recognition as the primary biometric modality**. The wiki's held material has the digital-ID stack
   built **inside the SARS hosting environment** — and **[[sarb]] is not [[sars]]**. The DHA's **own
-  tabled Strategic Plan 2025-2030 corroborates SARB**, naming it explicitly. **Recorded, not
-  resolved** — see `reviews/contradictions/open/south-africa-digital-id-sarb-or-sars`. Sources:
+  tabled Strategic Plan 2025-2030 corroborates SARB**, naming it explicitly. **Resolved
+  (2026-07-20): both are true, in different roles.** The DHA's Annual Performance Plan 2026/27
+  (tabled 2026-03-30) names both in one sentence and settles the split - the core digital-identity
+  and PKI infrastructure is **hosted within the SARS environment**, while **SARB is an integration
+  partner on the payments/eKYC side** (its own Digital Payments Roadmap states it is "not the leading
+  authority in relation to identification in SA"). Nzuza's 2025 statement was **incomplete, not
+  wrong**. Sources:
   [[2025-07-03 Deputy Minister Njabulo Nzuza - Home Affairs Dept Budget Vote 2025-26, NCOP]],
   [[2025-04-01 South Africa Department of Home Affairs Strategic Plan 2025-2030]].
 - **Smart ID delivery (FY2024/25).** A record **3,597,856 Smart ID cards issued against a 2.5m

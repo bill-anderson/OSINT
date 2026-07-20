@@ -117,9 +117,10 @@ The rails exist; usage lags them.
   [[2024-12-10 Unveiling Eswatini's Digital Path]],
   [[2024-11-22 Eswatini unveils readiness report for digital ID, transformation push]]. See
   [[gov.policy]], [[dpi.exchange]], [[include.divides]].
-  *The release sequence is contested — validation workshop 13 Nov 2024, media unveiling ~22 Nov,
-  and a handover dated 10 Dec by UNDP but reported 5 Dec by ESEPARC. See
-  `reviews/contradictions/open/eswatini-dra-handover-date`.*
+  *Resolved (2026-07-20): one event, on **2024-11-13** - the results launch, validation workshop and
+  formal handover to Minister Maziya were a single occasion at the Hilton Garden Hotel, Mbabane, per
+  UNDP Eswatini's press release published that day. The later ESEPARC (5 Dec) and UNDP-blog (10 Dec)
+  dates are publication stamps on retrospective write-ups; the blog asserts no handover date at all.*
 - **2024-07-22** — **Rights critique: legislating at speed.** APC's Melusi Matsenjwa records that
   **all four 2022 ICT Acts were tabled with certificates of urgency**, shortening stakeholder and
   public input. SIM registration under Legal Notice No. 26 of 2016 collects names, addresses,

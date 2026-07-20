@@ -45,8 +45,9 @@ uptake data is held. Attribute accordingly; capture is not endorsement.
 `sovereignty` is not claimed here by the sources and is not asserted. The analytically
 live point is the **Zamportal-account prerequisite for paying ground rent** — a digital
 credential made a condition of a statutory land obligation, in a country whose internet
-penetration is itself disputed (33.0%, Jan 2025, per [[datareportal]]; see
-`reviews/contradictions/open/zambia-internet-penetration`). Whether that gates or eases
+penetration is **33.0% of the population using the internet (7.29m people, October 2025**, per
+[[datareportal]]/Kepios; ZICTA's much higher "penetration" figures count subscriptions, not people).
+Whether that gates or eases
 access is unevidenced in what the wiki holds. See [[include.access]], [[include.divides]].
 
 ## Related

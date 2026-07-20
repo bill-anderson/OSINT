@@ -25,50 +25,59 @@ removes the item here. A short `issues.md` means you're caught up.
 
 ---
 
-- **ISSUE-019 · Should TechCabal Daily newsletter editions be captured as a running record?**
-  The sweep dropped *"TechCabal Daily — Uber takeover"* (2026-07-17) as a second-hand digest: its payload
-  is a roundup of wire coverage plus items already held separately. By the letter of Source admissibility
-  that call is right — a digest is a synthesis of others' reporting. But TC Daily is *human-edited original
-  editorial* by a publication whose standalone pieces the wiki admits freely, and it sometimes carries
-  framing and small scoops that appear nowhere else. It will recur every single weekday, so a standing rule
-  beats a per-run judgment. *Recommend:* **keep dropping it as a source**, but treat it as a **lead** — skim
-  it at sweep time for primaries it points to and stage *those*, exactly as `_leads/` handling works for AI
-  syntheses. This preserves the audit trail (no laundering of others' reporting into the base) while not
-  losing the scoops. If you'd rather have the record, the alternative is to stage TC Daily to `_leads/`
-  rather than discard it. *Decision:* (awaiting). (Surfaced sweep daily-2026-07-19b, 2026-07-19.)
 
-- **ISSUE-021 · No standing rule for advertorial / sponsored trade-press content.**
-  Three agents independently hit this class in one run and dropped all four items — ITWeb's sponsored
-  "Companies in the news" award PR (Paratus Namibia), an undated SPONSORED vendor opinion, a vendor
-  thought-leadership column, and Telecom Review Africa's promo for **its own** August webinar (registration
-  link + sponsorship contact). The calls were consistent and CC judges them right, but they were made ad hoc
-  against no written rule, so a later run could easily decide otherwise. Source admissibility covers
-  second-hand synthesis and AI output; it does not name paid placement or a publisher's own marketing, which
-  are first-hand and dated yet report no development. *Recommend:* add a line to Source admissibility —
-  **paid/sponsored placement, awards PR, vendor thought-leadership and a publisher's own event marketing are
-  not admissible as sources**, on the existing "reports no development" logic; but if such an item *names a
-  standing object of OSINT value* (a new data centre, an operator, a regulator), tag the entity and discard
-  the item, per *Entities: tag always, page when material*. **This would be a CLAUDE.md edit, so it needs
-  your explicit ratification** — CC has not made it. **Concrete case now pending on this ruling:**
-  `_leads/2026-07-17-iron-capital-euromoney-nigeria-investment-bank-award.md` — a TechCabal
-  "Partner / Press Room" placement announcing a Euromoney award, by-lined "By Partner", with no
-  digital-governance content; parked at ingest rather than admitted or discarded. If you accept the
-  recommendation it should be **deleted**; if you reject it, it is a one-line move back to `new/`.
-  *Decision:* (awaiting). (Surfaced sweep daily-2026-07-19b, 2026-07-19.)
+- **ISSUE-022 · Should DataReportal country reports be admitted as sources, or held as a `resource`
+  entity and cited?** The reconcile pass clipped several *Digital 20XX: <country>* editions as sources.
+  They are country-level, dated, first-hand and methodologically explicit — distinct from the multi-country
+  reference works the "cite, don't absorb" rule targets. But this pass also found the publisher **silently
+  rebasing** its own series between editions (Chad ~2x, CAR, Zambia), and warning readers in its own text
+  against computing change across editions. *Recommend:* **admit them as sources** (they are the primary
+  for their own figures), but add a standing note that DataReportal figures are **never comparable across
+  editions** and that an edition-year is not an as-of year — *Digital 2026* was published 2025-11-08 with
+  October-2025 data. *Decision:* (awaiting). (Surfaced reconcile, 2026-07-20.)
 
-- **ISSUE-022 · Where do admissible-but-out-of-scope items go? (EV charging as the test case.)**
-  Ingest parked `_leads/2026-07-17-kcb-epuremotion-nairobi-psv-ev-charging-station.md` — KCB Bank Kenya,
-  the Matatu Owners Association and ePureMotion opening a PSV **EV charging station** in Buruburu, with
-  asset and insurance-premium financing for matatu Saccos. It is impeccably sourced and first-hand, so
-  admissibility is not the problem; **scope** is. Checked against practice before parking: [[infra.energy]]
-  is used exclusively for **power serving digital infrastructure** (data-centre siting, grid constraints,
-  network energy), and `raw/` holds **no EV/e-mobility precedent**. It is distinguishable from the Yango
-  items the wiki does admit, where the actor is itself a digital platform. The wider problem is that the
-  pipeline has **no bucket for "admissible, well-sourced, but off-topic"** — `_leads/` is defined for
-  second-hand/AI syntheses, and Discard is defined narrowly for config and failed captures, so out-of-scope
-  items land in `_leads/` by default and slightly stretch its meaning. *Recommend:* **(a)** confirm
-  transport electrification is out of scope unless it carries a real data/platform layer, and **delete**
-  this item; **(b)** if you want the boundary recorded rather than left to per-run judgment, either widen
-  `_leads/` explicitly to mean "parked, not compiled — synthesis *or* out-of-scope," or add a one-line
-  scope note to CLAUDE.md. (b) would be a CLAUDE.md edit needing your ratification; (a) alone does not.
-  *Decision:* (awaiting). (Surfaced ingest daily-2026-07-19b, 2026-07-19.)
+- **ISSUE-023 · A publisher-wide DataReportal rebase may have contaminated other place pages.** The Chad
+  resolution established that the rebase between the *Digital 2024* and *Digital 2025* editions was not a
+  Chad correction but a **publisher-wide revision**. Any *Digital 2024* penetration figure held elsewhere in
+  `raw/` or promoted onto a place page likely carries the same overstatement — in Chad's case roughly 2x.
+  *Recommend:* run a targeted sweep of every held *Digital 2024* figure against the 2025/2026 editions, as a
+  one-off lint. Potentially many countries affected. *Decision:* (awaiting). (Surfaced reconcile,
+  2026-07-20.)
+
+- **ISSUE-024 · Translated pages carrying the translation date.** The Togo contradiction was *caused* by a
+  French DHIS2 page (`/fr/emis-togo-2022`) carrying its **translation** date (2024-11-19) while its English
+  original was published 2022-12-01 — so the wiki ran a two-year-old status claim as current. At least two
+  DHIS2 French pages in the corpus are affected. *Recommend:* add to ingest — where a URL carries a language
+  prefix (`/fr/`, `/es/`, …), look for the original-language page and take `published` from it; and run a
+  lint sweep for existing cases. *Decision:* (awaiting). (Surfaced reconcile, 2026-07-20.)
+
+- **ISSUE-025 · Prefer local currency over USD for investment amounts?** The Microsoft South Africa case
+  produced three "different" dollar values ($296.8m, $298.6m, $329m) for one R5.4bn commitment, purely from
+  exchange-rate drift between reports — and the apparent $1.1bn-vs-$1.2bn discrepancy dissolved the same
+  way. *Recommend:* adopt a standing rule that investment amounts are carried in the **announcing party's
+  stated currency**, with any USD figure written as a dated conversion. *Decision:* (awaiting). (Surfaced
+  reconcile, 2026-07-20.)
+
+- **ISSUE-026 · How should a debunked-but-unexplained figure be recorded?** Mauritania's "70% of passport
+  requests" is demonstrably not a share of national passport requests, but what it *is* cannot be
+  established. The Houwiyeti page currently names it and sets it aside. *Recommend:* keep that treatment —
+  naming and discounting a circulating figure is more useful to a future reader than silently dropping it,
+  since the claim will resurface. But the rules leave this open. *Decision:* (awaiting). (Surfaced
+  reconcile, 2026-07-20.)
+
+- **ISSUE-027 · Is a dated, named-institution donor case study admissible as expert analysis?** The
+  Tanzania "Jamii" PDF now has an established origin (Co-Develop, 2024-10-01) — so the ISSUE-007 grounds
+  for parking it (undated, unattributed) have fallen away. But it remains a **secondary synthesis** and
+  carries at least three verifiable factual errors. *Recommend:* **it stays in `_leads/`** and is never
+  promoted to `raw/` — origin alone does not cure secondariness, and the ISSUE-001 thesis ruling turned on
+  a thesis being *first-hand* work, which a case study is not. *Decision:* (awaiting). (Surfaced reconcile,
+  2026-07-20.)
+
+- **ISSUE-028 · Source-reliability annotations.** Two held `raw/` items are now demonstrated to carry
+  factual errors on matters the wiki relies on: the ID Tech Wire Malawi SIM-registration piece (2025-05-21)
+  on the data-protection law's status, and the TechCabal South Sudan piece (2025-02-07) headlining a
+  project launch as a system launch. Both remain admissible for their other reporting, and `raw/` is
+  immutable. *Recommend:* the wiki has no mechanism for annotating a source page's reliability without
+  editing it — either accept that such corrections live only on synthesis pages (current practice), or
+  create a `reviews/source-notes.md` register. CC's preference is the former, for simplicity. *Decision:*
+  (awaiting). (Surfaced reconcile, 2026-07-20.)

@@ -115,8 +115,10 @@ struggling to reach its own territory on the other.
 - **Data protection** → **[[caf--gov-protect]]**. **[[car-data-protection-law-24-001]]** (2024)
   comprehensive but the supervisory authority is unfilled; CEMAC instruments apply
   ([[data-protection-africa]]).
-- **Connectivity** → **[[caf--infra-connect]]**. ~12% internet penetration (disputed — see
-  `reviews/contradictions/open/`), mobile-only, landlocked with no undersea cable; the **4G sequence is now
+- **Connectivity** → **[[caf--infra-connect]]**. Internet **use** at **13.8% (2024, ITU)**, with
+  DataReportal/Kepios at **12.0% (~670,000 users, Oct 2025)**; government statements of **~30% (Jul 2025)**
+  refer to **network coverage**, not individual use, and are not comparable. Mobile-only, landlocked with
+  no undersea cable; the **4G sequence is now
   complete** (Orange/Moov/Telecel all licensed, though coverage lags); a **universal-service fund** (2%
   operator revenue, CDCE) planned for 2026; **[[starlink-car|Starlink]]** US-brokered then suspended; a
   **South Sudan interconnection** with MTN. Regulator [[arcep-central-african-republic]].

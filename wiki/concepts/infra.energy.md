@@ -48,8 +48,8 @@ variable that turns colocation economics from marginal to unviable.
   the [[ncc]] telecom-policy review, unreliable and expensive electricity was named a top
   reason hyperscalers bypass Nigeria for Kenya/South Africa. See [[gov.policy]], [[infra.store]].
   Source: [[2026-05-22 Why global hyperscalers are avoiding Nigeria despite Africa's biggest market]].
-- **Power/water readiness as headline spend (2026-04, [[ZAF]]).** Even in the continent's
-  strongest grid market, [[microsoft-sa-2026-expansion]]'s **$329m** explicitly funds **power
+- **Power/water readiness as headline spend (allocation detailed 2026-04, [[ZAF]]).** Even in the
+  continent's strongest grid market, [[microsoft-sa-2026-expansion]]'s **R5.4bn** explicitly funds **power
   and water readiness** (and land), not just servers — Brad Smith: "You can't have AI without
   data centres." SA's 48 GW is the exception the rest of the build-out cannot assume. Sources:
   [[2026-04-17 Microsoft picks South Africa for $329 million expansion in cloud infrastructure and AI training]],

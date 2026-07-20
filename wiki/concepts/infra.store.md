@@ -167,9 +167,9 @@ hosted on the continent at all.
   See [[NGA]], [[gov.policy]]. Sources:
   [[2026-05-22 Why global hyperscalers are avoiding Nigeria despite Africa's biggest market]],
   [[2026-07-11 AWS in Africa]].
-- **Microsoft doubles down on SA (2026-04).** [[microsoft-sa-2026-expansion]]: a **$329m
-  (~R5.4bn)** expansion — land for future DC growth, **power/water readiness**, added capacity
-  in the Johannesburg/Cape Town regions — atop a prior **$1.2bn (R20.4bn)**. Brad Smith: "You
+- **Microsoft doubles down on SA (announced 2025-03-06).** [[microsoft-sa-2026-expansion]]: an **R5.4bn**
+  expansion (allocation detailed 2026-04) — land for future DC growth, **power/water readiness**, added capacity
+  in the Johannesburg/Cape Town regions — atop a prior **R20.4bn** over three years. Brad Smith: "You
   can't have AI without data centres." Paired with an AI-skills push (1m South Africans; 50,000
   certification exams; SABC+ collaboration). See [[ZAF]], [[tech.ai]], [[geopol.usa]]. Sources:
   [[2026-04-17 Microsoft picks South Africa for $329 million expansion in cloud infrastructure and AI training]],

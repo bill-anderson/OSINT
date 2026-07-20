@@ -148,9 +148,12 @@ the payments, AML, civil-registry and e-ID-rollout threads.
   indicators are disaggregated by gender and disability status, with school report cards, a WhatsApp
   bot for exam results and MICS-EAGLE integration. Togo is one of **six** education ministries in
   the global DHIS2 for Education research project — alongside **[[SWZ]] Eswatini**, Mozambique, The
-  Gambia, Sri Lanka and Uganda. *The publisher's own pages disagree: "since 2019, national scale"
-  against "in 2021... implemented in interoperability with StatEduc", and "piloting" / "under review
-  by the Ministry" (2024-11-19). See `reviews/contradictions/open/togo-dhis2-emis-start-date`.*
+  Gambia, Sri Lanka and Uganda. **Resolved (2026-07-20):** 2019 = DHIS2 education-sector engagement begins; 2021 = StatEduc
+  interoperability go-live. The "under review by the Ministry" line dates to the article's **English
+  original of 2022-12-01** (the held French page is a translation), not 2024. DHIS2 sits as the national
+  **analytical** layer above CSPro/StatEduc, which remains the census collection tool - so "national
+  scale" cannot be claimed for DHIS2 as collection. In operational use as of 2026-05-04, strongest at
+  regional level.
   Sources:
   [[2024-11-19 HISP WCA develops DHIS2 EMIS for education data analysis and visualization in Togo]],
   [[2024-11-05 Togo - Integrating DHIS2 with existing EMIS systems]]. See [[dpi.mis]],

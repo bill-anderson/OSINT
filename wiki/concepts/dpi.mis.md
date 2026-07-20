@@ -212,8 +212,17 @@ what makes it work or fail.
   publisher, two accounts:** the DHIS2 country implementation profile records "**Since 2019, national
   scale**" while describing the ministry as "**piloting**" DHIS2 alongside StatEduc; the DHIS2 article
   of **2024-11-19** says "**In 2021** DHIS2 was implemented in interoperability with StatEduc" and that
-  the EMIS is "**currently under review by Togo's Ministry of Education**." Both are recorded, neither
-  adopted → `reviews/contradictions/open/togo-dhis2-emis-start-date`. Togo is one of **six** education
+  the EMIS is "**currently under review by Togo's Ministry of Education**." **Resolved (2026-07-20): distinct milestones, plus a mis-dated maturity claim.** The French page
+`/fr/emis-togo-2022` is a **translation**; its English original was published **2022-12-01**, so "under
+review by the Ministry" is an **as-of 2022-12-01** statement, not November 2024 - the wiki was carrying a
+two-year-old status as current. **2019** is when DHIS2 education-sector engagement began (year precision,
+corroborated only at programme level across six countries); **2021** is the StatEduc interoperability
+go-live. On maturity: **not a pilot, not fully embedded** - by 2024 national exam results sat in a national
+DHIS2 instance (WhatsApp results service live 2024-06-16), but GPE's ITAP found (2024-04-08) Togo still
+lacked a fully operational EMIS, and as of **2026-05-04** HISP reports DHIS2 in operational use, strongest
+at regional level and weakest at inspection level, with data latency the binding constraint. **"National
+scale" cannot be claimed for DHIS2 as the collection layer**: DHIS2 was added *on top of* CSPro/StatEduc,
+which remains the annual school-census tool - DHIS2 is the national **analytical** layer above it. Togo is one of **six** education
   ministries in the global **DHIS2 for Education** research project — with **[[SWZ]] Eswatini**,
   Mozambique, The Gambia, Sri Lanka and Uganda. See [[data.statistics]], [[dpi.exchange]],
   [[gov.standards]], [[TGO]]. Sources:

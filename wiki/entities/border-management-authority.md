@@ -23,10 +23,11 @@ alongside **[[sars]]**, **[[home-affairs-south-africa]]** and **[[government-pri
   facilitation, law enforcement, and certification and digital trust — in line with the **Digital
   Transformation of Government Roadmap** approved by Cabinet in March 2025. **The SARS–DHA element
   is a renewal of a Direct Master Agreement in place since 2010**; the four-party pact itself is the
-  new instrument. **DATE CONTRADICTION RECORDED:** the wiki's held material dates this pact to
-  **April 2024**, which looks like a merge of the two agreements; this is contemporaneous reporting
-  dating the signing to **April 2025**. See
-  `reviews/contradictions/open/south-africa-four-party-pact-date` — recorded, not resolved. Source:
+  new instrument. **Resolved (2026-07-20): signed 2025-04-03**, per SARS's own release ("3 April
+  2025... signed today"). The held "April 2024" is simply a year error in a retrospective secondary
+  mention - no 2024 instrument between these four bodies exists. Two agreements were signed that day:
+  the four-party MoU, and a **bilateral SARS-DHA** agreement reviving the **Direct Master Agreement in
+  place since 2010**. Source:
   [[2025-04-08 South African agencies sign multiparty digital ID deal to drive govt efficiency]].
 - **The BMA limb (2025-04).** SARS expects the collaboration to **streamline digitisation at ports
   of entry and for border law enforcement**, including stopping the movement of illegal migrants.

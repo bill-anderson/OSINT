@@ -1326,7 +1326,7 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 | ESTDEV–Smart Africa MoU | XAF | dpi.exchange, gov.standards, finance.mou, geopol.eu | [[estdev-smart-africa-mou]] |
 | Smart Africa–RealTyme partnership | XAF, XSS | infra.cybersec, tech.ai, gov.protect | [[smart-africa-realtyme-partnership]] |
 | Gates Foundation–Anthropic partnership | XGL | tech.ai, include.access, capacity.research | [[gates-anthropic-partnership]] |
-| Microsoft South Africa 2026 expansion ($329m) | ZAF | infra.store, tech.ai, capacity.training | [[microsoft-sa-2026-expansion]] |
+| Microsoft South Africa R5.4bn cloud & AI expansion (announced 2025-03-06) | ZAF | infra.store, tech.ai, capacity.training | [[microsoft-sa-2026-expansion]] |
 | Amazon–Globalstar acquisition (proposed) | XAF, ZAF, RWA, MOZ, GAB | infra.connect, geopol.usa, finance.new | [[amazon-globalstar-acquisition]] |
 | Equinix South Africa $438m expansion | ZAF | infra.store, tech.ai, finance.new | [[equinix-sa-438m-expansion]] |
 | MTN South Africa R21.8bn ($1.3bn) investment (to 2028) | ZAF | infra.connect, finance.new | [[mtn-sa-2026-investment]] |
@@ -1680,7 +1680,7 @@ about or from one becomes a normal source that cites it.
 | Cabo Verde Data Protection Law (Law 133/V/2001) | CPV | gov.protect, dpi.exchange | [[data-protection-law-cabo-verde]] |
 | Algeria National AI Strategy | DZA | tech.ai, gov.policy | [[algeria-national-ai-strategy]] |
 | Algeria Digital ID & Trust Services Law (2025 draft) | DZA | dpi.id, gov.legislate, gov.protect | [[algeria-digital-id-trust-law]] |
-| Algeria National Data Governance Framework (Decree 25-350) | DZA | gov.policy, dpi.exchange, gov.protect | [[algeria-data-governance-framework]] |
+| Algeria National Data Governance Framework (Decree 25-320) | DZA | gov.policy, dpi.exchange, gov.protect | [[algeria-data-governance-framework]] |
 | Egypt Personal Data Protection Law (151/2020 + Regs 816/2025) | EGY | gov.protect, gov.legislate, dpi.exchange | [[egypt-pdpl]] |
 | Egypt Property ID Law | EGY | dpi.registry, gov.legislate, dpi.govtech | [[egypt-property-id-law]] |
 | Egypt Vision 2030 | EGY | gov.policy, dpi.govtech, tech.industry | [[egypt-vision-2030]] |
@@ -1752,7 +1752,7 @@ about or from one becomes a normal source that cites it.
 | Angola Startups Law (Lei das Startups) | AGO | tech.innovate, gov.legislate, finance.new | [[angola-startups-law]] |
 | Bilhete de Identidade (BI) — Angola | AGO | dpi.id, dpi.registry, gov.legislate, include.access | [[bilhete-de-identidade-angola]] |
 | Angola National Statistics Development Strategy 2026–2032 (ENDE) | AGO | data.statistics, gov.policy, gov.legislate | [[ende-angola]] |
-| Angola National Cybersecurity Strategy (draft Presidential Decree) | AGO | infra.cybersec, gov.policy, gov.legislate | [[national-cybersecurity-strategy-angola]] |
+| Angola National Cybersecurity Strategy (Presidential Decree 256/25) | AGO | infra.cybersec, gov.policy, gov.legislate | [[national-cybersecurity-strategy-angola]] |
 | UNESCO AI Readiness Assessment (RAM) — Angola | AGO | tech.ai, gov.policy, gov.standards | [[unesco-ram-angola]] |
 | Mauritius National Data Strategy 2025-2029 | MUS | gov.policy, gov.protect, data.open | [[mauritius-national-data-strategy]] |
 | Mauritius National Fintech Strategy 2026-2030 | MUS | dpi.pay, gov.policy, finance.new | [[mauritius-national-fintech-strategy]] |

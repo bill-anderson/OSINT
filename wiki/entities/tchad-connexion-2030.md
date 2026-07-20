@@ -54,9 +54,11 @@ e-government**, with US$1.5bn to be spent **by 2030**. Sources:
 - **Internet penetration — contradicted across sources.** [[datareportal]]'s *Digital 2024: Chad*
   reports **4.18 million internet users and 22.5% penetration at the start of 2024**; We Are Tech
   Africa, relaying DataReportal, reports **only 13.2% online at the start of 2025**. Both trace to
-  the same publisher, and a fall of that size is implausible against the +9.2% user growth
-  DataReportal reported for 2023→2024. Recorded, not resolved — see
-  `reviews/contradictions/open/chad-internet-penetration-2024-2025`. Separately, the government's
+  the same publisher. **Resolved (2026-07-20): a publisher rebase, not a fall in access.** DataReportal's *Digital 2025:
+Chad* reports 2.74m users / **13.2% at January 2025** with +4.3% growth and the adoption rate "unchanged" -
+only self-consistent against a **restated January-2024 base of ~13.2%**, not the 22.5% its own 2024 edition
+published. The 13.2% holds at October 2025 (2.79m users) and matches the ITU/World Bank series
+(**12.63%, 2024**). The **22.5% is superseded**, not evidence of a collapse. Separately, the government's
   own roadmap is framed as raising penetration **30% → 80%** (as stated 2026-07-01). See
   [[include.divides]]. Sources: [[2024-02-23 Digital 2024 - Chad]],
   [[2025-12-29 Chad Steps Up Rollout of Tchad Connexion 2030 in Talks With Huawei]],

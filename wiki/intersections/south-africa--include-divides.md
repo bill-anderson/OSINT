@@ -116,8 +116,12 @@ of **2025-08-25** headlined mandatory enrolment for "all grant beneficiaries" **
 2025**, while its own body says "all **new and updated** grant applications"; Matlou conceded the
 FY2025/26 start slipped — "we hit a snag"
 ([[2025-08-25 SASSA to Launch Mandatory Biometric Enrollment for Grant Beneficiaries on September 1]]).
-**Whether biometrics gate the undocumented or everyone is precisely the exclusion question before the
-SCA — see `reviews/contradictions/open/sassa-biometric-enrolment-scope`.** See [[dpi.id]],
+**Resolved (2026-07-20):** biometrics gate **new applications and triggered reviews**, not everyone —
+existing recipients using a 13-digit SA ID are not required to enrol unless a review or change of details
+triggers it (acting CEO van Vrede to the Portfolio Committee, 2025-08-27). *Correction:* the SCA matter
+(hearing 2026-08-25) is the state's appeal in *Institute for Economic Justice v Minister of Social
+Development* [2025] ZAGPPHC 29, on **SRD-grant** exclusion barriers — it is not a challenge to biometric
+enrolment, which post-dates the judgment. Thematically adjacent, legally distinct. See [[dpi.id]],
 [[south-africa--dpi-id]].
 
 ## Inclusion claimed and exclusion litigated, the same day

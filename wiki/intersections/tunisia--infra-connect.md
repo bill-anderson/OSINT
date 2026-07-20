@@ -7,8 +7,8 @@ places: [TUN]
 topics: [infra.connect, infra.store, tech.industry, geopol.eu, geopol.gulf]
 entities: [[tunisie-telecom], [orange-tunisia], [ooredoo-tunisia], [medusa-submarine-cable], [instance-nationale-des-telecommunications-tunisia]]
 lens: [sovereignty]
-status: needs-review
-last_reviewed: 2026-07-19
+status: active
+last_reviewed: 2026-07-20
 sources: [[2025-02-14-assabah-tunisie-telecom-launches-5g], [2025-02-17-developingtelecoms-three-operators-launch-5g], [2025-11-03-zawya-tunisie-telecom-medusa-landing-bizerte], [2026-06-05-connectingafrica-viatunisia-subsea-live], [2026-06-26-techafricanews-orange-medusa-cable-operational], [2025-04-11-techafricanews-telecom-data-driven-growth], [2026-03-09-telecomreviewafrica-north-africa-digital-generation]]
 ---
 
@@ -16,10 +16,8 @@ sources: [[2025-02-14-assabah-tunisie-telecom-launches-5g], [2025-02-17-developi
 
 Tunisia entered 2025 with all three operators live on 5G and a mature national fibre backbone, and is
 adding **Mediterranean subsea capacity** framed explicitly as *digital sovereignty*. The connectivity base
-is strong — the watch-item is a **provenance conflict** over who owns the flagship Medusa landing.
-
-> ⚠ **needs-review — CONTRA-TUN-001.** Tunisie Telecom and Orange Tunisia both claim the Bizerte Medusa
-> landing/Tunisian section (below). Held unresolved; see `reviews/contradictions/open/`.
+is strong, and the Medusa landing — briefly claimed by both national operators — is settled: Orange owns the
+station, Tunisie Telecom buys capacity on it.
 
 ## 5G — three operators at once (Feb 2025)
 
@@ -37,17 +35,19 @@ in 700 MHz + 100 MHz TDD at 3.5 GHz):
 
 ## Submarine cables — Mediterranean capacity as sovereignty
 
-- **Tunisie Telecom lands Medusa in Bizerte (Nov 2025).** An official ceremony (1 Nov 2025) marked the
-  **[[medusa-submarine-cable|Medusa]]** landing — a **22 Tbps Bizerte–Marseille pair** TT said raises its
-  international capacity **eightfold**; Ben Dhiab: Tunisia as "a central player in Mediterranean digital
-  sovereignty." (TT already owns the Hannibal and SEA-ME-WE 4 cables; its EBRD €190m loan finances the
-  Tunisia–Medusa connection.) Source: [[2025-11-03-zawya-tunisie-telecom-medusa-landing-bizerte]].
-- **Orange's ViaTunisia goes live (Jun 2026).** Orange announced the **ViaTunisia** France–Tunisia Medusa
-  segment operational — **EU CEF-Digital co-financed (30%)**, 25-year design — stating Orange **owns the
-  Tunisian section and the Bizerte landing station**. Sources:
+- **Medusa lands at Bizerte (2025-10-31).** The cable's **first African landing**, marked by a ceremony both
+  operators' CEOs attended — the source of the ownership confusion that followed. Source:
+  [[2025-11-03-zawya-tunisie-telecom-medusa-landing-bizerte]].
+- **Orange owns the station; TT buys capacity (settled 2026-07-20).** **[[orange-tunisia|Orange]]** is the
+  landing party and **owns and operates the Bizerte landing station** and the ~1,050 km Tunisian segment
+  (**ViaTunisia**), under a hosting agreement of **2023-05-11** and an **EU CEF-Digital grant of €10m**
+  (signed Dec 2022, 30% of construction and management costs); maximum capacity to Orange **24 Tbps
+  (2025-11)**, ready-for-service **2026-06-03**. **[[tunisie-telecom]]** is a **capacity customer**, having
+  agreed on **2025-02-07** a dedicated Bizerte–Marseille pair of **20 Tbps (2025-02)** — the basis of its
+  "eightfold capacity increase" claim (2025-11), which is about its own capacity, not ownership. TT
+  separately owns the Hannibal and SEA-ME-WE 4 cables. Sources:
   [[2026-06-05-connectingafrica-viatunisia-subsea-live]], [[2026-06-26-techafricanews-orange-medusa-cable-operational]].
-- **⚠ The conflict.** Both operators present the Bizerte Medusa landing as theirs. Possibly reconcilable
-  (Orange owns the station/section; TT bought a fibre pair) but the sources don't say so. Flagged
+- **Superseded framing.** Both operators' PR re-cut the shared landing event around itself. Flagged
   **CONTRA-TUN-001** for external research; both accounts kept dated here rather than one overwritten.
 
 ## Market shape and the numbers

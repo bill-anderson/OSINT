@@ -62,10 +62,13 @@ advocacy analysis, not the primary.
 
 ## Contradiction — open, not resolved
 
-The same piece estimates **18 million (about 40%) of the population** lack a National ID.
-**That figure carries no cited source — it is the author's estimate, and that is itself
-the finding.** It sits against NIRA's **35 million** register (2026-02-11). See
-`reviews/contradictions/open/uganda-unregistered-population`.
+The same piece cites **18 million (about 40%) of the population** as lacking a National ID.
+**Resolved (2026-07-20): this is NIRA's own figure, not the author's estimate** - ED Rosemary
+Kisembo told COSASE on 2024-07-01 that against a census population of 45.9m, "we haven't
+registered about 18.1 million individuals... most of those unregistered are **children under 17**."
+The finding is one of **framing**, not fabrication: a whole-population statistic deployed in an
+adult-access argument. Against the **23,154,716 adults aged 18+ (2024-05-09)** the adult gap is
+~**2.0m, ~9%**.
 
 ## Related
 

@@ -112,7 +112,8 @@ An **upper-middle-income, comparatively strong-performing** Southern-African dig
   [[2025-12-12-infrastructure-gap-botswana-ai-boom-world-bank]], [[2026-01-22-judges-courts-must-embrace-ai-driven-cases]].
 - **2026 — Innovation-funding push; statistics under strain.** [[tech.innovate]] Botswana launched the
   **Scalar/SBIP** 12-month accelerator (tied to a $150m Africa Decarbonisation Fund), the VC
-  **[[botswana-tech-fund]]** (size reported inconsistently → `reviews/contradictions/open/`), a UB **VR
+  **[[botswana-tech-fund]]** (**£50m target**, **£10m committed**, **£5m first close** - as of 2026-04-27;
+  Guernsey-domiciled, Gaborone-based), a UB **VR
   UniPod** lab, an **Open Data Hackathon**, and a Cabinet-approved **National Research Agenda** (45
   projects). Statistics Botswana signed a data-culture MoU and got a new Statistician General (**Dr Khaufelo
   Lekobane**) amid warnings that data quality is "worryingly uneven." Sources:

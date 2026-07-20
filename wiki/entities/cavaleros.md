@@ -48,8 +48,9 @@ declines to say where its power comes from.
   centres in Johannesburg and Cape Town, jointly announced by President **[[cyril-ramaphosa]]** and
   Microsoft President Brad Smith. **Neither Cavaleros nor Microsoft would confirm or deny** a
   business relationship. *Note: this source treats the Microsoft announcement as already made as of
-  2026-02-09, against held sources dating it 2026-04 — see
-  `reviews/contradictions/open/microsoft-sa-investment-date`.* Source: same.
+  2026-02-09, against held sources dating it 2026-04. **Resolved (2026-07-20): the announcement was
+  2025-03-06**, so this source is right that it had already been made; the held April-2026 dates were
+  the re-reports' own publication dates.* Source: same.
 - **Announcement dating.** Daily Maverick recalls Cavaleros announcing "shortly before Christmas"
   (i.e. December 2025); the **earlier, more precise DCD report of 2025-11-11** is preferred and the
   later recollection treated as loose.

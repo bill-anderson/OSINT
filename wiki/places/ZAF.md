@@ -62,9 +62,10 @@ paid. **The government's arithmetic corroborates the plaintiffs.** Full case:
 - **2025-07-03** — **[[njabulo-nzuza]]**'s NCOP budget vote. **Fiscal-year figures — must not be
   conflated with the calendar-year counts above**: **3,597,856 Smart IDs in FY2024/25** against a
   **2.5m target**; **cumulative 25,102,201 since inception**; Live Capture in **212** offices;
-  **>49m civic records digitised since 2023**. **Says the digital ID is built "working with the
-  South African Reserve Bank"**, where held material puts the stack in the **[[sars]]** hosting
-  environment — see `reviews/contradictions/open/south-africa-digital-id-sarb-or-sars`. Source:
+  **>49m civic records digitised since 2023**. Says the digital ID is built "working with the
+  South African Reserve Bank" - **resolved (2026-07-20): both institutions are involved in different
+  roles**, the stack **hosted in the [[sars]] environment** with **[[sarb]] an integration partner on
+  payments/eKYC** (DHA Annual Performance Plan 2026/27, tabled 2026-03-30). Source:
   [[2025-07-03 Deputy Minister Njabulo Nzuza - Home Affairs Dept Budget Vote 2025-26, NCOP]].
 - **2025-07-01 (announced 2025-07-06)** — **The OVS repair, and the DHA's own defence of the fee.**
   The relaunched **Online Verification Service** against the NPR went live; the DHA says the old one
@@ -76,10 +77,11 @@ paid. **The government's arithmetic corroborates the plaintiffs.** Full case:
   [[2025-07-06 Home Affairs on launch of world-class new identity verification service and cost]].
 - **2025-04-08** — **Four-party pact signed: [[sars]] + [[home-affairs-south-africa]] +
   [[border-management-authority]] + [[government-printing-works]]**; the **SARS–DHA bilateral**
-  renews a Direct Master Agreement **in place since 2010**. **The hub and [[south-africa--dpi-id]]
-  date this pact to April 2024 — see
-  `reviews/contradictions/open/south-africa-four-party-pact-date`; recorded, not silently fixed.**
-  Source:
+  renews a Direct Master Agreement **in place since 2010**. **Corrected 2026-07-20: signed
+  2025-04-03** (SARS media release); the previously held "April 2024" was a year error. The
+  Digital Transformation of Government Roadmap it gives effect to was **approved by Cabinet
+  2025-03-26** and **publicly launched 2025-05-12** under Operation Vulindlela Phase II - both real
+  events, six weeks apart. Source:
   [[2025-04-08 South African agencies sign multiparty digital ID deal to drive govt efficiency]].
 - **2025-12-15** — **[[intelligent-population-register]] proposed** in a **draft revised White Paper
   on Citizenship, Immigration and Refugee Protection** (input 12 Dec 2025 – 31 Jan 2026): AI, ML,
@@ -189,9 +191,12 @@ paid. **The government's arithmetic corroborates the plaintiffs.** Full case:
   raised **$335.9m across 42 startups = 20.5% of Africa's $1.64bn**, a **234% surge** on 2024's
   $100.4m but **still below the $512.3m 2023 peak**; average deal **$7.99m**. **Only 16.7%** of
   funded SA startups had ≥1 female co-founder; **one (2.4%)** was female-CEO-led. **Never state a
-  bare Africa total — the wiki holds Partech's $4.1bn for the same year; see
-  `reviews/contradictions/open/africa-tech-funding-2025`. Always attribute to the tracker and date
-  it.** Source: [[2026-02-27 SA powers Africa's $1.64bn tech funding rebound]].
+  bare Africa total - the wiki holds Partech's $4.1bn for the same year. **Resolved (2026-07-20):
+  the two series are not commensurable** - Partech counts **equity plus debt by deal** across a wide
+  universe (US$4.1bn, 570 deals: equity US$2.41bn, debt US$1.64bn); Disrupt Africa publishes a
+  **self-declared minimum floor by funded venture** under a narrow startup test (US$1.64bn, 178
+  startups). Never sum, average or cross-check them. Always attribute to the tracker and date it.**
+  Source: [[2026-02-27 SA powers Africa's $1.64bn tech funding rebound]].
 - **2024-10-11** — **EGDI: rank 65 (2022) → 40 (2024)**, leading Africa (Mauritius 76, Tunisia 87),
   entering the "**very high EGDI**" group for the first time; **255 government services identified
   for digitisation, 134 e-Services live** on the SITA-hosted national portal, against a
@@ -227,9 +232,8 @@ linked source pages, the entity pages and the six [[south-africa--dpi-id|interse
   merger slipping to **2028/29** with BBI technically insolvent; the DHA's **APP** hosting deadline
   of **31 Mar 2027**; the draft **Identification Regulations** and Mark Burke's ultra-vires critique
   ([[sa-digital-id-regulations]]).
-- **Cloud, AI and the hyperscalers** — **[[microsoft]]**'s **$329m (~R5.4bn)** SA commitment
-  (*dating disputed — see `reviews/contradictions/open/microsoft-sa-investment-date`*,
-  [[microsoft-sa-2026-expansion]]); **[[google]]** exceeding its **$1bn** Africa target and
+- **Cloud, AI and the hyperscalers** — **[[microsoft]]**'s **R5.4bn** SA commitment (announced
+  **2025-03-06**, allocation detailed 2026-04; [[microsoft-sa-2026-expansion]]); **[[google]]** exceeding its **$1bn** Africa target and
   projecting **R1.7tn / ~315,000 jobs by 2030**; **[[cassava-ai-factories]]**' 3,000-H100 AI factory
   and **[[liquid-c2]]**'s Google Cloud Partner Experience Centre; **[[trendai]]**/**[[anthropic]]**'s
   locally-governed sovereign-AI data centre (*vendor-asserted*); **[[equinix]]**'s contested Cape

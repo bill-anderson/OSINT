@@ -26,7 +26,7 @@ of the primary legislation, and analysts warn the governance scaffolding is thin
   verifiable digital credentials via a mobile wallet. Source:
   [[2026-04-21 South Africa's digital ID gets a targeted launch date]].
 - **Architecture.** Core stack (PKI, certificate authority, ID platform, security controls) is being
-  built **inside the SARS hosting environment**, extending an April-2024 pact between Home Affairs,
+  built **inside the SARS hosting environment**, extending the **2025-04-03** pact between Home Affairs,
   SARS, the Border Management Authority and Government Printing Works. **Facial recognition** is the
   primary biometric, fingerprints secondary; hybrid smart-ID cards + QR for offline use. No biometric
   provider named yet. Home Affairs' own cybersecurity maturity is flagged "low." Source: same.

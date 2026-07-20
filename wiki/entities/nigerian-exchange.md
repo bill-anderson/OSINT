@@ -5,8 +5,8 @@ title: Nigerian Exchange (NGX)
 places: [NGA]
 topics: [dpi.pay, tech.industry, data.statistics, include.access]
 lens: []
-status: needs-review
-last_reviewed: 2026-07-19
+status: active
+last_reviewed: 2026-07-20
 sources: [[2026-07-18-nigeria-retail-investing-boom]]
 ---
 

@@ -14,15 +14,25 @@ sources: [[2017-01-01 ITU Country Profile - Central African Republic], [2024-02-
 
 # Central African Republic × Connectivity
 
-CAR is one of the **least-connected countries on the continent** — ~**10.6% internet
-penetration** (early 2024), landlocked with **no direct undersea-cable access**, and held back
+CAR is one of the **least-connected countries on the continent** — internet **use** at **13.8%
+(2024, ITU)** and **12.0% (~670,000 users, Oct 2025, DataReportal/Kepios)** — landlocked with
+**no direct undersea-cable access**, and held back
 by an inadequate electricity grid. Connectivity is essentially **mobile-only**, and only in
 2024 did the first 4G licence arrive.
 
 ## What we know
 
-**The baseline.** DataReportal Digital 2024: **616.6k internet users (10.6%)**, 1.86m mobile
-connections (32%), **89.4% offline**. The **[[greater-internet-freedom]]** baseline earlier put
+**The baseline, and what each figure measures.** The citable authority is the ITU's usage series —
+**13.8% (2024)** — with DataReportal/Kepios at **12.0% (~670,000 users, Oct 2025)** as the freshest
+estimate. Two earlier figures should not be used: Kepios's **10.6% (Jan 2024)** is stale, and its
+**15.5% (Jan 2025)** has been **withdrawn by the publisher** (its Digital 2026 edition reports
+*fewer* users against a larger population, which cannot be real change; Kepios warns explicitly
+against computing change across its editions). Government statements of **~30% (Jul 2025)** are a
+**network-coverage** figure, not usage: the Minister of Digital Economy described it rising to 50%
+then 70–80% as backbone fibre reaches new regions, against a target of 70% *couverture nationale* —
+no survey, no sample, no population denominator. A usage rate cannot be moved by laying transit
+fibre. GSMA puts 2G/3G population coverage at ~60% (2024) and mobile connections at 44.8% of
+population (Oct 2025) — both far above any usage figure. (Resolved 2026-07-20.) The **[[greater-internet-freedom]]** baseline earlier put
 telecom territorial coverage at ~51%. Internet is supplied **entirely by mobile operators** —
 **[[orange-centrafrique]]** (since 2007), **Telecel** (Econet Wireless group, the oldest, 1996),
 and **Moov Africa** (Maroc Telecom). The incumbent fixed operator **[[socatel]]** has only a few

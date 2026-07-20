@@ -176,9 +176,13 @@ Source:
 - NIRA's own **2024 baseline of 17.2m unregistered** minus **6.4m** first-time enrolments implies
   **~10.8m still unregistered (Feb 2026)** — which cleanly contradicts neither.
 
-**Likely definitional root: "registered", "holds a NIN" and "holds a usable card" are three different
-populations.** 10.1m printed against 2.5m collected is that same gap in another guise. See
-`reviews/contradictions/open/uganda-unregistered-population`.
+**Confirmed definitional root (resolved 2026-07-20): "registered", "holds a NIN" and "holds a usable
+card" are three different populations, and the 18.1m and 35m use different denominators.** The 18.1m is
+NIRA's own subtraction against the **total** census population of 45.9m — most of the unregistered being
+**children under 17** (ED Kisembo to COSASE, 2024-07-01); against the 23,154,716 adults aged 18+
+(2024-05-09) the adult gap is ~**2.0m, ~9%** (2024-10-15). The 35m is cumulative enrolments ever issued,
+with no deregistration for death or emigration. The binding constraint is card possession: **10,152,559
+printed, 2,581,457 collected (35.5%, 2026-02-08)**.
 
 ## Surveillance: mechanism established, causation not asserted
 

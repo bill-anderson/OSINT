@@ -50,10 +50,12 @@ treatment: [[uganda--dpi-id]].
 ## The unsourced figure
 
 The same piece estimates that **18 million Ugandans (about 40% of the population)** lack a National ID
-(**as of 2025-09-13**). **That estimate carries no cited source.** It is his figure, and **the absence
-of a source is itself the finding** — it sits unreconciled against [[nira-uganda]]'s **35 million**
-register (2026-02-11). The wiki adopts neither value. See
-`reviews/contradictions/open/uganda-unregistered-population`.
+(**as of 2025-09-13**). **Resolved (2026-07-20): the figure is NIRA's own, not his** - ED Rosemary
+Kisembo gave 18.1m unregistered against the **total** census population of 45.9m to COSASE on
+2024-07-01, stating most of those unregistered are **children under 17**. The finding is one of
+**framing**: a whole-population statistic used in an adult-access argument. Against the 23,154,716
+adults aged 18+ (2024-05-09) the adult gap is ~**2.0m, ~9%**; [[nira-uganda]]'s **35m** register
+(2026-02-11) is cumulative enrolments ever issued, with no deregistration for death or emigration.
 
 ## Related
 

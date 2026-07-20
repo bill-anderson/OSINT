@@ -65,11 +65,19 @@ unpaid. They are the same system viewed from either end.
   **1 September 2025**, capturing fingerprint or facial data. CEO **[[themba-matlou]]**: plans were
   to start at the beginning of FY2025/26, "however, we hit a snag, but we have ironed out the
   issues." The rationale is forged green ID books that staff cannot reliably detect, proof-of-life
-  verification and audit trails. **Scope is disputed** — the trade-press headline says "all grant
-  beneficiaries" while its own body says "all new and updated grant applications," closer to the
-  April scope. See `reviews/contradictions/open/sassa-biometric-enrolment-scope`. Whether
-  biometrics gate **the undocumented or everyone** is precisely the exclusion question before the
-  SCA. Source:
+  verification and audit trails. **Resolved (2026-07-20) — two stages, not one disputed scope.**
+  From **2025-05-05** biometrics were compulsory for clients using **alternative identification**
+  other than the standard 13-digit SA ID, and for existing clients undergoing review or changing
+  personal details; this commenced and was enforced (May 2025 payments withheld from that cohort
+  pending in-office verification). From **2025-09-01** the Beneficiary Biometric Enrolment programme
+  extended the requirement to **all new grant applications regardless of ID type**, having slipped
+  from a planned April 2025 start after union negotiations — that slippage, not the May measure, is
+  what Matlou's "we hit a snag" refers to. It is **not universal**: existing recipients using a
+  13-digit ID need not enrol unless triggered by a review or change of details. Acting CEO Brenton
+  van Vrede to the Portfolio Committee, **2025-08-27**: "we are not saying everyone must come in and
+  be biometrically enrolled." By **2026-03-11**, 997,379 beneficiaries had enrolled — roughly 5% of
+  the 19.05m grant recipients recorded at end-January 2026. The trade-press headline "all grant
+  beneficiaries" overreaches its own body. Source:
   [[2025-08-25 SASSA to Launch Mandatory Biometric Enrollment for Grant Beneficiaries on September 1]].
 - **Claimed savings.** **R300m+** claimed saved since biometric verification was introduced (per
   Minister Tolashe, via the SONA report) — an agency-side figure, dated to its claiming.

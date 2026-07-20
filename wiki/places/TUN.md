@@ -160,9 +160,9 @@ thing to watch.
 - [[dpi.govtech]] — **EGDI 0.6935 (2024 index)**, third in Africa, leading North Africa; see
   [[un-egdi]].
 - [[infra.connect]] · [[infra.capacity]] — **all three operators live on 5G (Feb 2025)** on a mature
-  61,000 km fibre backbone; the [[medusa-submarine-cable]] Bizerte landing (22 Tbps) positioning Tunisia as
-  a Mediterranean hub — though **who owns the Bizerte landing is disputed** (TT vs Orange, CONTRA-TUN-001).
-  Full case: [[tunisia--infra-connect]].
+  61,000 km fibre backbone; the [[medusa-submarine-cable]] Bizerte landing (2025-10-31) positioning Tunisia
+  as a Mediterranean hub — **[[orange-tunisia|Orange]] owns the landing station and Tunisian segment**,
+  **[[tunisie-telecom|TT]] buys a 20 Tbps pair (2025-02)** on it. Full case: [[tunisia--infra-connect]].
 - [[infra.store]] · [[infra.energy]] — data centres a **TIA investment priority** (Oct 2025; DP-law reform,
   renewables, cloud SEZ recommended); flagship **20 MW solar-AI DC at Bizerte** ([[solecrypt]] × Schneider,
   MoU Feb 2026); flagged an **emerging North-African market** (Arizton, 2026). Prospective, not yet

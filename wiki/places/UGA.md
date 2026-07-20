@@ -221,10 +221,13 @@ days, two days before a presidential election — reminding every layer above it
   - **A register of more than 35 million** uniquely identifiable people — **[[nira-uganda]]**
     (2026-02-11), which frames coverage rather than the gap.
   - NIRA's own 2024 baseline of **17.2m unregistered** minus **6.4m** first-time enrolments implies
-    **~10.8m still unregistered (Feb 2026)** — which cleanly contradicts neither.
-  - Likely definitional root: **"registered", "holds a NIN" and "holds a usable card" are three
-    different populations** — 10.1m cards printed against 2.5m collected is the same gap in another
-    guise. See `reviews/contradictions/open/uganda-unregistered-population` and [[uganda--dpi-id]].
+    **~10.8m still unregistered (Feb 2026)**.
+  - **Resolved (2026-07-20) — different denominators.** The 18.1m is NIRA's own count against the
+    **total** census population of 45.9m, most of the unregistered being **children under 17** (ED
+    Kisembo to COSASE, 2024-07-01); against the **23,154,716 adults aged 18+ (2024-05-09)** the adult
+    gap is ~**2.0m, ~9%** (2024-10-15). The 35m is cumulative enrolments ever issued, with no
+    deregistration for death or emigration. The binding constraint is **card possession**: 10,152,559
+    printed, **2,581,457 collected (35.5%, 2026-02-08)**. See [[uganda--dpi-id]].
 - **"First AI factory / supercomputer in Africa"** — three Uganda clips carry three different
   superlatives for the same Karuma facility, against [[cassava-technologies]]' competing claim for
   South Africa. **The label is contested; no claim is adopted.** See [[uganda--infra-store]].

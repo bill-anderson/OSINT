@@ -5,8 +5,8 @@ title: Houwiyeti (Mauritania digital ID / e-government platform)
 places: [MRT]
 topics: [dpi.id, dpi.govtech, include.access]
 lens: [sovereignty]
-status: needs-review
-last_reviewed: 2026-07-18
+status: active
+last_reviewed: 2026-07-20
 sources: [[2024-08-15 Mauritania Launches Digital ID for e-Services, Built on TECH5 Platform (Houwiyeti)], [2024-08-02 Mauritania launches digital ID app to boost access to services and improve governance], [2024-08-01 Mauritania pilots digital ID app (e-ID Mauritania)], [2025-05-20 African nations making digital ID gains in the face of common challenges (ID4Africa 2025)], [2025-07-24-houwiyati-national-certificates-service-ami], [2026-06-21-houwiyeti-usage-metrics-techrek]]
 ---
 
@@ -33,11 +33,16 @@ extracts **406,871**; passport requests **63,384**; national ID-card requests **
 **24,409**. The share of passport requests made via the app rose **24.8% (2024) → 32.9% (2025) → 35.7%
 (Jan 2026)**.
 
-> **Currency/contradiction flag (2026-07-18).** The earlier held figures — "**70% of passport requests**" and
-> "**622,000+ document extracts in a year**" (ID4Africa, May 2025) — do not reconcile cleanly with the June
-> 2026 indicators above ("35.7% of passport requests via the app"; 406,871 cumulative civil-status extracts).
-> Likely a difference of metric/basis/period rather than a straight reversal, but held open pending research —
-> see `reviews/contradictions/open/`. Both values kept dated; neither overwrites the other.
+> **Resolved (2026-07-20) — a difference of basis, not a reversal.** The **24.8% → 32.9% → 35.7%** series is
+> the like-for-like measure of passport requests initiated via the app. The earlier "**70% of passport
+> requests**" (ID4Africa, May 2025) was an undenominated oral remark and is **inconsistent with ANRPTS's own
+> volumes**: national passport demand ran ~94,000 requests in the year to June 2023 (ANRPTS, 2023-08-18),
+> against the app's cumulative 63,384 over ~2.5 years — ~25–30%/year, squarely inside the reported series.
+> For 70% to hold, the app would have to carry its entire cumulative total every year. It is not used here.
+> The extract counts are **not comparable on any basis**: "622,000+ extracts in a year" (May 2025) exceeds the
+> app's *entire all-service cumulative total* of 554,027 thirteen months later, and a cumulative total cannot
+> shrink. What the 622,000 measures is not establishable from any source on file; the two figures should
+> simply never be placed side by side.
 
 ## Links
 Place: [[MRT]] · Topics: [[dpi.id]] · [[dpi.govtech]] · [[dpi.mis]] · [[include.access]] · Entities: [[tech5]] · [[undp]] · [[mtnima-mauritania]] · [[anrpts-mauritania]]

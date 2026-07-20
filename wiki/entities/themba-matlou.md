@@ -22,8 +22,10 @@ the agency's public rebuttals on eligibility.
   at the **beginning of the 2025/2026 financial year; however, we hit a snag**, but we have ironed
   out the issues that delayed our plans and it is all systems go for the implementation." This is
   the line that reconciles the April and September accounts as **one slipped-and-widened programme,
-  not two**. Scope remains disputed — see
-  `reviews/contradictions/open/sassa-biometric-enrolment-scope`. Source:
+  not two** - though **resolved (2026-07-20)** more precisely: what slipped from April to September
+  2025 was the wider Beneficiary Biometric Enrolment programme, not the 5 May alternative-ID measure,
+  which commenced and was enforced. Scope is **new applications and triggered reviews**, not everyone.
+  Source:
   [[2025-08-25 SASSA to Launch Mandatory Biometric Enrollment for Grant Beneficiaries on September 1]].
 - **On SRD eligibility and disinformation (2026-01-19).** Responding to social-media claims that
   SASSA had changed policy to pay foreign nationals, Matlou urged the public not to circulate false

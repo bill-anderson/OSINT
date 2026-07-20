@@ -36,9 +36,17 @@ other. See [[TGO]], [[dpi.mis]], [[data.statistics]].
 **Contradiction — when the integration began.** The two DHIS2-published accounts disagree. The
 **country profile** states **"Since 2019, national scale"**; the **article** states that **"In
 2021, DHIS2 was implemented in interoperability with StatEduc"** and calls the deployment
-**piloting** / **"under review by the Ministry"** (as of 2024-11-19). **Same publisher, two
-dates and two maturity claims.** Both are recorded, dated and attributed; neither is silently
-preferred. Open item: `reviews/contradictions/open/togo-dhis2-emis-start-date.md`.
+**piloting** / **"under review by the Ministry"** (as of 2024-11-19). **Resolved (2026-07-20): distinct milestones, plus a mis-dated maturity claim.** The French page
+`/fr/emis-togo-2022` is a **translation**; its English original was published **2022-12-01**, so "under
+review by the Ministry" is an **as-of 2022-12-01** statement, not November 2024 - the wiki was carrying a
+two-year-old status as current. **2019** is when DHIS2 education-sector engagement began (year precision,
+corroborated only at programme level across six countries); **2021** is the StatEduc interoperability
+go-live. On maturity: **not a pilot, not fully embedded** - by 2024 national exam results sat in a national
+DHIS2 instance (WhatsApp results service live 2024-06-16), but GPE's ITAP found (2024-04-08) Togo still
+lacked a fully operational EMIS, and as of **2026-05-04** HISP reports DHIS2 in operational use, strongest
+at regional level and weakest at inspection level, with data latency the binding constraint. **"National
+scale" cannot be claimed for DHIS2 as the collection layer**: DHIS2 was added *on top of* CSPro/StatEduc,
+which remains the annual school-census tool - DHIS2 is the national **analytical** layer above it.
 
 **Scope note.** The "about 20 countries" figure (as of 2024) is the extent of what these
 sources establish about StatEduc beyond Togo; no vendor, steward or country list is asserted.

@@ -34,9 +34,11 @@ office.
   significant portion of the population and plan to continue expanding coverage. Now, we
   have a clear roadmap, and our aim is to have digital IDs in place for the population by
   the **end of 2027**."* This conflicts with **[[smart-zambia-institute]]** National
-  Coordinator **Percy Chinyama**, who puts full rollout at **end-2026**. The registry
-  operator is the more pessimistic of the two — recorded, neither adopted. See
-  `reviews/contradictions/open/zambia-digital-id-target`.
+  Coordinator **Percy Chinyama**, who puts first issuance at **end-2026**. **Resolved
+  (2026-07-20):** the two describe different deliverables — Chikalanga's end-2027 is
+  population-scale coverage by the issuing body, Chinyama's end-2026 is first issuance against
+  an initial 2m goal. DNRPC owns the issuance milestone; the funded DZAP target is **4m people
+  by October 2030**.
 - **UNICEF's advice to his department (2025-06).** Legislative reform; linking health
   facilities to the civil-registration system; more funding for birth-registration services;
   equipment availability; and making **birth registration the foundation of the national

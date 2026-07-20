@@ -22,9 +22,16 @@ exports could exceed **$2bn**. See [[lesotho--tech-ai]].
 ## Status disputed (as of 2026-06)
 
 The deal's **legal status differs across outlets** — Tech Africa News reports a **binding Memorandum of
-Agreement signed 4 June 2026**, while Connecting Africa calls it a **non-binding MoU / expression of
-intent** pending feasibility studies and regulatory approval. Recorded as an open contradiction; the
-underlying primary (the signed instrument) is not held. See `reviews/contradictions/open/`.
+Agreement signed 4 June 2026**, while Connecting Africa calls it a **non-binding MoU**.
+
+**Resolved (2026-07-20).** Convalt's own release settles it: a **binding Memorandum of Agreement, signed
+2026-06-04** (announced 2026-06-08) — but a **development framework only**, committing no party to build or
+finance. Convalt states progression "remains subject to… feasibility studies, permitting, financing,
+regulatory approvals, and definitive project agreements"; the Lesotho government called the signing "a
+strong statement of intent". The ~$6.2bn (M98bn) figure is the **proposed project value, not committed
+capital**; no final investment decision had been taken as of 2026-07-20. Both characterisations were
+partly right — Tech Africa News on legal form, Connecting Africa on practical effect (though it mislabels
+the instrument, a non-binding MoU having preceded the MoA). The MoA text itself is not public.
 
 ## Related
 

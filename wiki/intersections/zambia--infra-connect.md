@@ -47,10 +47,11 @@ grants.
   facilities since 2024**; in **2025** it reported connecting **all 116 local authorities** to the
   **Government Wide Area Network (GWAN)** and signed a partnership with the state utility **[[zesco]]** to
   extend digital access to schools, health facilities and other administrations; and in **December 2025** it
-  launched a **decentralised digital-skills training programme** for government staff. *(The 2025 "all 116
-  local authorities on GWAN" claim sits awkwardly against SZI's own July-2026 announcement that
-  North-Western Province's local authorities "have now been connected" via GWAN — see
-  `reviews/contradictions/open/zambia-gwan-local-authority-coverage`.)* See [[digital.localgov]],
+  launched a **decentralised digital-skills training programme** for government staff. *(Resolved 2026-07-20: the two
+  measure different things. SZI's Government Chief Technical Officer restated on **2026-03-25** that
+  "all 116 councils have been connected... phase 1 is completed 100 percent"; the July-2026
+  North-Western item covers local authorities **and post offices** over **fibre**, a later-phase
+  deepening. Note "connected" has at times meant completed site works, not live end-to-end service.)* See [[digital.localgov]],
   [[capacity.training]]. Source: [[2026-07-17-zambie-lance-reseau-4g-prive-govlink]].
 - **The benchmark.** Zambia ranked **130th of 193 on the UN E-Government Development Index (2024)**, score
   **0.5424/1** — above the African average, below the global one — with an **online-services sub-index of

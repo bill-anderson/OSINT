@@ -83,7 +83,13 @@ last_reviewed: 2026-07-19
 - **2026-01-27** — **ANEC pre-declaration software in health facilities.** **[[anec-senegal|ANEC]]** began
   rolling out state-certified **pre-declaration software** in health facilities to capture births/deaths at
   source — traceable to the EU-funded **[[nekkal-programme|Nékkal programme]]** (2021), which had digitised
-  **19m+ civil records by June 2024**. See [[senegal--dpi-id]], [[dpi.registry]]. Sources:
+  **19m+ civil records by June 2024**. *(Resolved 2026-07-20 — the 2026 figure is not a regression: the
+  ~19–20m counts legacy paper acts **scanned and indexed** from archives under the EU-funded NEKKAL
+  programme, against a 30m target; the **15.3m (2026-07-13)** counts records **loaded into the live
+  national civil-registration database (RNEC)**, a subset of that archive stock. Minister Fofana drew the
+  distinction himself in June 2024: "Plus de 19 millions d'actes… sont numérisés et indexés. **Une bonne
+  partie** accessible à partir du Registre national de l'état civil.")* See [[senegal--dpi-id]],
+  [[dpi.registry]]. Sources:
   [[2026-01-28 Senegal plans digital overhaul of civil status system (ANEC)]],
   [[2024-06-27 Senegal digitizes millions of civil records under the Nekkal program]].
 - **2025-12** — **2026 digital budget: CFA81.06bn, ~60% to investment.** The National Assembly set the 2026

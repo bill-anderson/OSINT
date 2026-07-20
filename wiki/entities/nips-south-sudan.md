@@ -25,13 +25,27 @@ proof-of-concept.
   with the EAC 2024 instant-retail-payments master plan. Source:
   [[2025-02-07 South Sudan launches first national instant payment system (NIPS)]].
 
-## Open question — NIPS vs IBPSS
+## NIPS vs SSIPS — resolved 2026-07-20
 
-It is unresolved whether NIPS (Feb 2025, retail instant payments with AfricaNenda)
-and the Bank of South Sudan's **Inter-Bank Payment & Settlement System (IBPSS)**
-(Oct 2025, interbank real-time settlement) are the same programme relaunched, two
-phases of one system, or two distinct rails. Each milestone is carried with its
-own as-of date pending reconciliation. See [[bank-of-south-sudan]].
+**Two distinct programmes, not a rebrand — and "IBPSS" is a mangled acronym.** The live system is the
+**South Sudan Interbank Payment and Settlement System (SSIPS)**, launched by the
+**[[bank-of-south-sudan]]** on **2025-10-10**: an **ATS+ platform combining RTGS and ACH on ISO 20022**,
+**13 commercial banks** connected at launch, with Circular No. 07 mandating all licensed commercial banks
+by **2026-01-31** or a **$100,000** penalty. It is **wholesale interbank settlement plumbing, not a retail
+instant rail**.
+
+**NIPS itself has not gone live.** The February 2025 event was a **project launch**, not a system launch —
+AfricaNenda's own release describes the work as "developing a detailed roadmap for NIPS implementation"
+and quotes Governor Damian on "the start of the NIPS journey"; Global Government Fintech headlined it
+correctly ("**looks to** launch"), while other trade press compressed it to "launches". AfricaNenda
+targeted full rollout by **December 2025**; **no go-live has been documented**, and AfricaNenda's own
+*SIIPS 2025* report (data to June 2025) counts 33 live instant-payment systems across 25 countries and
+**does not list South Sudan**. The relationship is sequential: SSIPS is the settlement layer NIPS needs,
+and the February 2025 release itself said NIPS "aligns with broader efforts to integrate… ACH and RTGS."
+
+*Caution:* the governor's retail framing at the October launch ("instant funds between individuals and
+businesses 24/7") is promotional — mobile-money and fintech onboarding was still being solicited from the
+podium.
 
 ## Sources
 
