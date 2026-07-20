@@ -6,12 +6,14 @@ publisher: Biometric Update
 published: 2026-03-20
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: GHA-2026-07-17
 places: [GHA]
 topics: [dpi.id, infra.cybersec]
 entities: [[national-identification-authority-ghana], [national-communications-authority-ghana], [samuel-nartey-george]]
 lens: []
+body_completeness: full
 ---
 # Ghana to introduce liveness detection with self-service app in upcoming SIM verification drive
 

@@ -10,6 +10,7 @@ ingested: 2026-07-20
 places: [ZMB]
 topics: [infra.connect, include.divides, data.statistics, tech.industry]
 entities: [[datareportal], [kepios], [gsma], [itu], [meta], [linkedin], [reddit], [x-corp], [united-nations]]
+lens: []
 body_completeness: excerpt
 ---
 

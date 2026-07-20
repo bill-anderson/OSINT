@@ -3,6 +3,7 @@ type: source
 title: "Contribution de l'Intelligence artificielle au développement: une conférence inaugurale nationale pour lancer le débat"
 url: https://www.sidwaya.info/contribution-de-lintelligence-artificielle-au-developpement-une-conference-inaugurale-nationale-pour-lancer-le-debat/
 publisher: Sidwaya
+ingested: 2026-07-18
 author: Aly SAWADOGO; Rasmatou OUEDRAOGO (Stagiaire)
 published: 2025-10-28
 date_precision: day
@@ -13,6 +14,7 @@ places: [BFA]
 topics: [tech.ai, capacity.training, gov.policy]
 entities: [[aminata-zerbo-sabane], [ministere-transition-digitale-burkina-faso]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Contribution de l'Intelligence artificielle au développement: une conférence inaugurale nationale pour lancer le débat

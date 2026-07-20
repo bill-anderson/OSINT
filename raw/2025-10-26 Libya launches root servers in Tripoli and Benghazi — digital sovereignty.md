@@ -13,6 +13,7 @@ places: [LBY]
 topics: [infra.connect, infra.cybersec, gov.policy]
 entities: [[gaci-libya]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- GACI (General Authority for Communications and Informatics, Tripoli) announced Libya's root servers entering service, in Al-Madar Al-Jadid data centres (Tripoli + Benghazi). Implements the National Telecommunications and Informatics Strategy 2023-2027; enhances digital sovereignty. Listed on root-servers.org — Libya among countries hosting this infrastructure. Framed as national internet independence: faster local response, reduced access time, enhanced cybersecurity, stability/independence of gov + private systems. Public-private national integration for "a secure and advanced digital Libya." Root servers = first step translating a website name into an IP address. -->

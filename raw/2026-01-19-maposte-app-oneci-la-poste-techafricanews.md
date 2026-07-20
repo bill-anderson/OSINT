@@ -6,12 +6,14 @@ publisher: TechAfrica News
 published: 2026-01-19
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [dpi.id, dpi.registry, dpi.govtech, gov.protect, include.access]
 entities: [[oneci], [la-poste-de-cote-divoire], [maposte], [rnpp], [artci], [ansut], [anssi-cote-divoire], [cepici]]
 lens: []
+body_completeness: full
 ---
 
 #Technology

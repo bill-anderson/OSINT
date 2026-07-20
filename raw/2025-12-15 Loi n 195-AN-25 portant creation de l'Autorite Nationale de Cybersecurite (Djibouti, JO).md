@@ -13,6 +13,7 @@ places: [DJI]
 topics: [infra.cybersec, gov.legislate, gov.policy]
 entities: [[national-cybersecurity-authority-djibouti]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Primary legal text (Journal Officiel de Djibouti, JO n°23, 15 Dec 2025), ingested via the reconcile pass

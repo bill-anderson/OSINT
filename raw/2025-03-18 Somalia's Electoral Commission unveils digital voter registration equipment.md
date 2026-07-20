@@ -12,6 +12,7 @@ places: [SOM]
 topics: [dpi.id, dpi.govtech]
 entities: [[somalia-national-electoral-commission]]
 lens: []
+body_completeness: full
 ---
 
 # Somalia's Electoral Commission unveils digital voter registration equipment ahead of local polls

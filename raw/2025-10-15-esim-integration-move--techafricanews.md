@@ -6,12 +6,14 @@ publisher: TechAfrica News
 published: 2025-10-15
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 places: [DZA]
 topics: [infra.connect, gov.standards, gov.policy, infra.cybersec, tech.industry]
 entities: [[ministry-of-post-and-telecommunications-algeria], [sid-ali-zerrouki], [arpce-algeria]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Algeria Moves Toward eSIM Integration to Advance Digital Transformation

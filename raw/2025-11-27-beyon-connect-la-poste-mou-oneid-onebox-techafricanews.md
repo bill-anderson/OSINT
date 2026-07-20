@@ -6,12 +6,14 @@ publisher: TechAfrica News
 published: 2025-11-27
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [finance.mou, dpi.id, dpi.govtech, include.access, geopol.gulf]
 entities: [[beyon-connect], [la-poste-de-cote-divoire], [post-connect], [oneid], [onebox], [christopher-hild], [isaac-gnamba-yao], [hatem-ibrahim-elsoly], [artci], [universal-postal-union]]
 lens: []
+body_completeness: full
 provenance_flag: pr-wire
 primary_to_source: Beyon Connect / La Poste de Côte d'Ivoire / Post Connect MoU signed at the UPU Postal Operations Council session, Berne (November 2025)
 ---

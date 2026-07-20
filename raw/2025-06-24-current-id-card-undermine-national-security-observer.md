@@ -6,12 +6,14 @@ publisher: Liberian Observer
 published: 2025-06-24
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: LBR-2026-07-17
 places: [LBR]
 topics: [dpi.id, gov.protect, infra.cybersec]
 entities: [[national-identification-registry-liberia], [ecowas], [naymote]]
 lens: []
+body_completeness: full
 ---
 
 # Current Nat'l ID Card "Could Undermine Nat'l Security"

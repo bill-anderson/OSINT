@@ -3,6 +3,8 @@ type: source
 title: URA Launches Tax Filing Season, Announces Shift from TIN to NIN
 url: https://softpower.ug/ura-launches-tax-filing-season-announces-shift-from-tin-to-nin
 publisher: SoftPower News
+lens: []
+body_completeness: full
 author: Rogers Atukunda
 published: 2025-11-11
 date_precision: day

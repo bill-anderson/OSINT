@@ -3,6 +3,8 @@ type: source
 title: "Tanzania seeks biometrics contractors for Phase II of national digital ID project"
 publisher: Biometric Update
 url: https://www.biometricupdate.com/202604/tanzania-seeks-biometrics-contractors-for-phase-ii-of-national-digital-id-project
+date_precision: day
+date_source: source
 author: Ayang Macdonald
 published: 2026-04-22
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [TZA]
 topics: [dpi.id, dpi.registry, infra.store, finance.new]
 entities: [[nida-tanzania], [world-bank]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Tanzania seeking contractors for Phase II of its national digital ID (Jamii Namba): adds iris + facial; NIDA HQ in Dodoma; expansion to 31 districts. ~$70m loan from the Export-Import Bank of Korea; Digital Tanzania Project (World Bank since 2021). -->

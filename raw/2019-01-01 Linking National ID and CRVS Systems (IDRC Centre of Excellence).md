@@ -3,6 +3,8 @@ type: source
 title: Linking National ID and CRVS Systems
 url: https://crvssystems.ca/
 publisher: IDRC Centre of Excellence for CRVS Systems
+lens: []
+body_completeness: full
 author: Mitra
 published: 2019-01-01
 date_precision: year

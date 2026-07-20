@@ -6,6 +6,7 @@ publisher: Biometric Update
 published: 2025-06-12
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [NAM]
 topics: [dpi.id, dpi.registry, gov.protect, dpi.govtech]
 entities: [[namibia-digital-id], [ministry-home-affairs-namibia], [undp], [cran]]

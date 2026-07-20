@@ -4,11 +4,14 @@ title: Telecom Namibia signs more satellite, subsea connectivity deals with Ango
 url: https://developingtelecoms.com/telecom-business/operator-news/20382-telecom-namibia-signs-satellite-subsea-connectivity-deals-with-angola-firms.html
 publisher: Developing Telecoms
 published: 2026-06-15
+date_precision: day
+date_source: source
 ingested: 2026-07-10
 places: [NAM, AGO, XSA]
 topics: [infra.connect, infra.capacity, gov.regional, finance.mou]
 entities: [[telecom-namibia], [telecom-namibia-angola-deals]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 ![2026-06-15 Telecom Namibia signs more satellite, subsea connectivity deals with Angola firms](https://developingtelecoms.com/images/stories/NewsPix/800x600/Telecom_Namibia_Angola_Telecom_SATCAB_1200.jpg)

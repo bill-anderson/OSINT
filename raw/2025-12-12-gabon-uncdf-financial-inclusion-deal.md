@@ -3,6 +3,8 @@ type: source
 title: Gabon pens deal with UNCDF to accelerate financial inclusion
 url: https://www.biometricupdate.com/202512/gabon-pens-deal-with-uncdf-to-accelerate-financial-inclusion
 publisher: Biometric Update
+lens: []
+body_completeness: full
 author: Ayang Macdonald
 published: 2025-12-12
 date_precision: day

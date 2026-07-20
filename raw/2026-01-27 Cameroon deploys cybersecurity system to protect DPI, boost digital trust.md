@@ -3,6 +3,8 @@ type: source
 title: "Cameroon deploys cybersecurity system to protect DPI, boost digital trust"
 publisher: Biometric Update
 url: https://www.biometricupdate.com/202601/cameroon-deploys-cybersecurity-system-to-protect-dpi-boost-digital-trust
+date_precision: day
+date_source: source
 author: Ayang Macdonald
 published: 2026-01-27
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [CMR]
 topics: [infra.cybersec, dpi.govtech]
 entities: [[antic-cameroon], [world-bank], [patnuc]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- ANTIC took delivery of intrusion detection/prevention hardware+software (~XAF735m / $1.3m) via the Ministry of Posts & Telecoms under the World Bank-funded PATNUC; ANTIC identified >=8,502 vulnerabilities since Jan 2024; CIRT ~200GB/day. (Same PATNUC procurement as the 'Cameroon boosts cyber defense' item.) -->

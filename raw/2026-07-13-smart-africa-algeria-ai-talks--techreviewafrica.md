@@ -6,6 +6,7 @@ publisher: Tech Review Africa
 published: 2026-07-13
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 provenance_flag: pr-wire
@@ -13,6 +14,7 @@ places: [DZA, XAF]
 topics: [tech.ai, gov.regional, dpi.exchange, finance.mou]
 entities: [[smart-africa], [africa-ai-council], [algeria-ministry-of-post-and-telecommunications]]
 lens: []
+body_completeness: full
 ---
 
 **Primary source to obtain at ingest:** Smart Africa's own release on the Geneva meeting between CEO Lacina Koné and Minister Sid Ali Zerrouki, and any Algerian Ministry of Post and Telecommunications statement on the Africa AI Council / Smart Market Initiative participation.

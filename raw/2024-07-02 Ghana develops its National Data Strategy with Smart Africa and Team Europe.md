@@ -13,6 +13,7 @@ places: [GHA]
 topics: [gov.policy, gov.protect, dpi.exchange, gov.regional]
 entities: [[ghana-national-data-strategy], [smart-africa], [data-protection-commission-ghana]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Accra, 2 July 2024 — Ghana, EU and Smart Africa completed a National Validation Workshop for Ghana's National Data Strategy, aligned to the Long-term National Development Plan (2018-2057) and NMTDPF (2022-2025) and the AU Continental Data Policy Framework. DPC ED Patricia Adusei-Poku positions DPC as regional trailblazer. Enabled by Smart Africa, GoG, AU, EU, BMZ, GIZ, D4D Hub, Global Gateway. -->

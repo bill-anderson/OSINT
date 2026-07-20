@@ -6,6 +6,7 @@ publisher: Tech Review Africa
 published: 2026-06-20
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [SWZ]
 topics: [dpi.mis, tech.innovate, include.access, digital.rural]
 entities: [[mtn-eswatini], [ministry-of-ict-eswatini]]

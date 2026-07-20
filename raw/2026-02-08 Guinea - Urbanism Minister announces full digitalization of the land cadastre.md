@@ -13,6 +13,7 @@ places: [GIN]
 topics: [dpi.registry, digital.localgov, gov.policy]
 entities: []
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- New Urbanism/Housing/Territorial Planning Minister Mohamed Lamine Sy Savané (succeeds Mory Condé) sets full digitalization of the land cadastre as a priority — to secure rights, fight fraud, guarantee transparency in land-title management. Frames ministry as "the heart of land sovereignty." Aligned to President Mamadi Doumbouya's vision. -->

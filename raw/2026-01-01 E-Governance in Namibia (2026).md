@@ -14,6 +14,7 @@ places: [NAM]
 topics: [dpi.govtech, dpi.exchange]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 Research publication "E-Governance in Namibia 2026: Prospects and Challenges" (HSE Center for African Studies, Moscow, 2026, 28 pp.). It traces the development of e-government in Namibia from mid-2000s policy foundations to the current national digital-transformation agenda, covering strategic frameworks (including the National Digital Strategy), digital identity, interoperability, e-procurement, taxation, education and healthcare systems.

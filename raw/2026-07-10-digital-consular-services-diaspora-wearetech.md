@@ -13,6 +13,7 @@ places: [MRT]
 topics: [dpi.govtech, include.access, dpi.registry]
 entities: [[mtnima-mauritania]]
 lens: []
+body_completeness: full
 ---
 
 # Mauritania — digital consular-services platform for the diaspora

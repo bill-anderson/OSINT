@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: resource
 title: Karuma Hydropower Plant (K-HPP)
 places: [UGA]

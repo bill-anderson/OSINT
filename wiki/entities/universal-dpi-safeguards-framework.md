@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: instrument
 title: Universal DPI Safeguards Framework
 places: [XGL]

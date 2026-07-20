@@ -6,10 +6,12 @@ publisher: Tech Africa News
 published: 2026-04-08
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [LSO]
 topics: [dpi.id, dpi.registry, gov.protect, include.access, dpi.mis]
 entities: [[unicef-lesotho], [micsti-lesotho]]
 lens: []
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: LSO-2026-07-17
 ---

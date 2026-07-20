@@ -3,6 +3,7 @@ type: source
 title: EAC backs Secure Data Sharing Framework to drive regional trade, innovation and growth
 url: https://www.burunditimes.com/eac-backs-secure-data-sharing-framework-to-drive-regional-trade-innovation-and-growth/
 publisher: Burundi Times
+ingested: 2026-07-18
 author: Hadija Kamikazi
 published: 2026-06-25
 date_precision: day
@@ -13,6 +14,7 @@ places: [BDI, XEA]
 topics: [dpi.exchange, gov.protect, gov.regional, gov.standards]
 entities: [[eac], [eardip], [world-bank]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # EAC backs Secure Data Sharing Framework to drive regional trade, innovation and growth

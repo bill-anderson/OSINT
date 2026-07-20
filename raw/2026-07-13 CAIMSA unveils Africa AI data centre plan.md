@@ -12,6 +12,7 @@ places: [XAF]
 topics: [tech.ai, infra.store, infra.capacity]
 entities: [[caimsa]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # CAIMSA unveils Africa AI data centre plan | The Guardian

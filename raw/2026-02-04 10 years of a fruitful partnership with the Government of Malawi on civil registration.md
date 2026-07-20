@@ -12,6 +12,7 @@ places: [MWI]
 topics: [dpi.id, dpi.registry, include.access]
 entities: [[national-registration-bureau-malawi]]
 lens: []
+body_completeness: full
 ---
 
 Marking a decade of EU support (a commitment first signed in 2016) for developing Malawi's first continuous and reliable national registration system. In 2024, Malawi achieved full national ID registration coverage of the adult population, with the National ID now underpinning voter registration, social protection targeting and payroll management.

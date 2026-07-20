@@ -3,6 +3,8 @@ type: source
 title: "AfCFTA, Data Governance and the Hidden Legal Gaps Reshaping Africa's Digital Economy"
 publisher: P.M. News Nigeria
 url: https://pmnewsnigeria.com/2026/07/03/afcfta-data-governance-and-the-hidden-legal-gaps-reshaping-africas-digital-economy/
+date_precision: day
+date_source: source
 author: Somadina Eugene Okorie
 published: 2026-07-03
 accessed: 2026-07-07
@@ -11,6 +13,7 @@ places: [XAF, NGA, KEN]
 topics: [gov.regional, gov.protect, gov.legislate, dpi.exchange, finance.new]
 entities: [[afcfta]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Bylined analysis (byline "Somadina Eugene Okorie"; site frontmatter credited

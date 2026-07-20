@@ -3,6 +3,7 @@ type: source
 title: "Télécommunication : Le réseau internet perturbé au Cameroun"
 url: https://lejour.cm/telecommunication-des-le-reseau-internet-perturbe-au-cameroun/
 publisher: Le Jour
+ingested: 2026-07-18
 author: Solière Champlain Paka
 published: 2025-10-24
 date_precision: day
@@ -13,6 +14,7 @@ places: [CMR]
 topics: [infra.connect]
 entities: [[camtel], [rebecca-enonchong], [appstech]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Télécommunication : Le réseau internet perturbé au Cameroun

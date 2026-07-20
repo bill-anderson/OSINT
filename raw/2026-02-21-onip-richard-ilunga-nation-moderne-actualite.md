@@ -6,12 +6,14 @@ publisher: ACTUALITE.CD
 published: 2026-02-21
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: COD-2026-07-17
 places: [COD]
 topics: [dpi.id, dpi.registry, dpi.exchange, gov.policy]
 entities: [[onip-drc], [ceni-drc], [richard-ilunga], [denis-kadima-kazadi], [jacquemain-shabani-lukoo], [felix-tshisekedi], [idemia], [afritech], [igf-drc]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 Photo ACTUALITE.CD

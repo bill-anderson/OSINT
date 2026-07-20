@@ -6,12 +6,14 @@ publisher: Linfodrome
 published: 2026-05-13
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [dpi.id, dpi.registry]
 entities: [[oneci], [id4africa], [ago-christian-kodia]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # ID4Africa 2026 : L’ONECI présente les avancées du système ivoirien d’identification numérique

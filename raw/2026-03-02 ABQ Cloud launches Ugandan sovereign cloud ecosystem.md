@@ -11,6 +11,7 @@ places: [UGA]
 topics: [infra.store, tech.ai, tech.innovate, infra.capacity]
 entities: [[abq-cloud], [raxio-group], [sti-op-uganda]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 Uganda has launched ABQ Cloud, described as the country's indigenous sovereign cloud ecosystem, unveiled at the Deep Tech Hub and Raxio Data Centre in Kampala (Namanve). The launch was officiated by Monica Musenero Masanza, Minister of Science, Technology and Innovation, and brought together leaders from the Science, Technology and Innovation Office of the President (STI-OP), ABQ Cloud, Raxio Data Centre, Roke Cloud, AfriQloud, EDiC and Uganda's innovation community.

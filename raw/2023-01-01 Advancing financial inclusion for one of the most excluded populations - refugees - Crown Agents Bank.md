@@ -12,6 +12,7 @@ places: [MWI]
 topics: [dpi.pay, include.access]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 Case study on extending financial services to refugees in Malawi's Dzaleka camp, where Centenary Bank partnered with Crown Agents Bank (CAB) to reach one of the most financially excluded populations. Roughly 49,000 refugees live in the camp and 13,500 households receive WFP cash assistance.

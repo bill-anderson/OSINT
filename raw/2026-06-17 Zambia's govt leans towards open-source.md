@@ -4,11 +4,14 @@ title: "Zambia's govt leans towards open-source"
 url: https://itweb.africa/article/zambias-govt-leans-towards-open-source/KjlyrvwBpprqk6am
 publisher: ITWeb Africa
 published: 2026-06-17
+date_precision: day
+date_source: source
 ingested: 2026-07-10
 places: [ZMB]
 topics: [data.open, gov.policy, dpi.govtech, gov.standards, dpi.registry, data.statistics]
 entities: [[smart-zambia-institute]]
 lens: [sovereignty]
+body_completeness: excerpt
 ---
 
 ![Zambia’s new spatial data policy has opened the door for wider open source adoption across government.  (Image source: 123RF)](https://lh3.googleusercontent.com/nouxgcwrI7d1V8slrQzxAkSKyXRgrCOkpE6Xx1fF99n8rMXaRN4-E5sHwORf8E9eLRjMaF0KIYHGV2Zc7fquu97aJFz4v-3ti109)

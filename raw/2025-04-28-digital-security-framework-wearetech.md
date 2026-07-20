@@ -6,12 +6,14 @@ publisher: We Are Tech Africa
 published: 2025-04-28
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [infra.cybersec, gov.legislate, gov.standards, dpi.govtech]
 entities: [[anssi-cote-divoire], [artci], [ibrahim-kalil-konate], [ordinance-2024-950-cote-divoire]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Côte d'Ivoire Approves New Digital Security Framework

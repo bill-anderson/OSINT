@@ -13,6 +13,7 @@ places: [BFA]
 topics: [dpi.govtech, infra.connect, finance.new]
 entities: [[pactdigital], [world-bank]]
 lens: []
+body_completeness: full
 ---
 
 <!-- COMPANION SOURCE PAGE for binary raw/2025-12-28 World Bank - Burkina Faso Digital Acceleration Project (PACTDIGITAL) Implementation Status Report.pdf (14pp). WB ISR06425 (seq 4), archived 28 Dec 2025, for the Burkina Faso Digital Acceleration Project (P177022) — IBRD/IDA IPF, FY2024, PDO approved 23 Jan 2024 (the $150m operation branded PACTDIGITAL). Progress reference for the broadband/e-services/skills components. -->

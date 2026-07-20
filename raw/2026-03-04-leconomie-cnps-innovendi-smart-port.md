@@ -3,6 +3,9 @@ type: source
 title: "Douala Smart Port : La CNPS entre dans le tour de table d'Innovendi Data Technologies"
 url: https://leconomie.info/douala-smart-port-la-cnps-entre-dans-le-tour-de-table-dinnovendi-data-technologies/
 publisher: Le quotidien L'Economie
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Francois Gael Mbala
 published: 2026-03-04
 date_precision: day

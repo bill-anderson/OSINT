@@ -3,6 +3,7 @@ type: source
 title: ANACOM holds cooperation meetings in Angola to strengthen digital sector regulation
 url: https://techreviewafrica.com/news/4418/anacom-holds-cooperation-meetings-in-angola-to-strengthen-digital-sector-regulation
 publisher: Tech Review Africa
+entities: []
 author: Robert Kwaku Annor
 published: 2026-03-16
 date_precision: day
@@ -13,6 +14,7 @@ sweep_batch: AGO-2026-07-17
 places: [AGO]
 topics: [gov.legislate, gov.standards, geopol.eu, capacity.training]
 lens: [colonialism]
+body_completeness: full
 ---
 
 *(PR-wire item — Tech Review Africa carries no independent reporting on this; the primary is the ANACOM announcement and should be sourced at ingest if the detail is load-bearing.)*

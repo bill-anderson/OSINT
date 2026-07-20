@@ -11,6 +11,7 @@ places: [DZA]
 topics: [dpi.govtech, dpi.exchange, gov.policy]
 entities: [[dzair-services], [high-commission-digitalisation-algeria], [digital-algeria-2030]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Algeria launches Dzair Services single-window public-services platform

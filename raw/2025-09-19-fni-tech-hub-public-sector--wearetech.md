@@ -6,12 +6,14 @@ publisher: We Are Tech
 published: 2025-09-19
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 places: [DZA]
 topics: [gov.policy, dpi.pay, tech.industry, tech.innovate, finance.new]
 entities: [[fni-algeria], [djezzy], [it-dev-algeria], [inet-algeria], [smart-test-algeria], [digital-algeria-2030]]
 lens: []
+body_completeness: full
 ---
 
 # Algeria's State Fund Backs New Tech Hub to Modernize Public Sector

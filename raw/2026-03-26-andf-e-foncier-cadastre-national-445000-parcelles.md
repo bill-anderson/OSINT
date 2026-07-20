@@ -3,6 +3,9 @@ type: source
 title: "Modernisation de l'ANDF : « e-Foncier » au service de la sécurité des investissements"
 url: https://fraternite.bj/modernisation-de-landf-e-foncier-au-service-de-la-securite-des-investissements/
 publisher: Fraternité
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Isac YAI
 published: 2026-03-26
 date_precision: day

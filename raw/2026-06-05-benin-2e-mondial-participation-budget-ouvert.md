@@ -3,6 +3,9 @@ type: source
 title: "BENIN, 2e au classement mondial et 1er en Afrique de la participation citoyenne au budget ouvert : entre fierté nationale et lucidité d'un parcours en construction."
 url: https://fraternite.bj/benin-2e-au-classement-mondial-et-1er-en-afrique-de-la-participation-citoyenne-au-budget-ouvert-entre-fierte-nationale-et-lucidite-dun-parcours-en-construction/
 publisher: Fraternité
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Patrice SOKEGBE
 published: 2026-06-05
 date_precision: day

@@ -6,12 +6,14 @@ publisher: Revista Real Equatorial Guinea
 published: 2026-02-25
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: GNQ-2026-07-17
 places: [GNQ]
 topics: [dpi.pay]
 entities: [[beac]]
 lens: []
+body_completeness: full
 ---
 
 Vice-President Nguema Obiang Mangue met the directors of the **five commercial banks operating in Equatorial Guinea** and a BEAC representative (Palacio del Pueblo, Malabo) to assess implementation of the electronic-payment system and plans to progressively limit cash payments in shops and services. The banks — **BANGE, CCEIBANK GE, Société Générale de Banques, BGFIBank GE and Ecobank GE** — reported progress on ATMs and POS terminals (traditional, virtual and mobile), and rising card circulation.

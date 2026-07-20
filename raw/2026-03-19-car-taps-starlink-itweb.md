@@ -3,6 +3,7 @@ type: source
 title: CAR taps Starlink to bridge digital divide
 url: https://itweb.africa/article/car-taps-starlink-to-bridge-digital-divide/DZQ58MV8NJXvzXy2
 publisher: ITWeb Africa
+ingested: 2026-07-18
 author: Phathisani Moyo
 published: 2026-03-19
 date_precision: day
@@ -11,6 +12,7 @@ places: [CAF]
 topics: [infra.connect, include.access, include.divides, digital.rural, geopol.usa]
 entities: [[spacex], [arcep-central-african-republic]]
 lens: []
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: CAF-2026-07-17
 ---

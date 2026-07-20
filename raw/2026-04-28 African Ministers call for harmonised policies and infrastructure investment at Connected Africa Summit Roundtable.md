@@ -3,6 +3,8 @@ type: source
 title: "African Ministers call for harmonised policies and infrastructure investment at Connected Africa Summit Roundtable"
 publisher: Tech Review Africa
 url: https://techreviewafrica.com/news/5202/
+date_precision: day
+date_source: source
 author: Nana Appiah Acquaye
 published: 2026-04-28
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [KEN, XAF, XEA]
 topics: [gov.regional, gov.policy, gov.protect, dpi.id, dpi.pay, infra.energy, infra.store, include.access]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 <!-- Ministerial roundtable, Connected Africa Summit 2026 (Nairobi), convened by Kenya CS William Kabogo. Harmonise data-protection for cross-border flows; interoperable ID/payments. Thin/PR; dated marker of Kenya-hosted continental coordination. -->

@@ -12,6 +12,7 @@ places: [KEN, SEN]
 topics: [infra.connect, finance.new, geopol.eu]
 entities: [[ebrd-yas-network-loan], [ebrd], [yas], [axian-telecom], [ilx-fund]]
 lens: []
+body_completeness: full
 ---
 
 # EBRD Extends €270m Financing to Yas for Kenya, Senegal Network Expansion

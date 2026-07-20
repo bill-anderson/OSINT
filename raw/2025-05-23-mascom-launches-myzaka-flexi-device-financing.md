@@ -3,6 +3,9 @@ type: source
 title: Mascom launches MyZaka Flexi - Botswana's first Mobile Device Financing Facility
 url: https://www.sundaystandard.info/mascom-launches-myzaka-flexi-botswanas-first-mobile-device-financing-facilty/
 publisher: Sunday Standard
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Sunday Standard Reporter
 published: 2025-05-23
 date_precision: day

@@ -6,12 +6,14 @@ publisher: MyJoyOnline
 published: 2026-03-26
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: GHA-2026-07-17
 places: [GHA]
 topics: [infra.cybersec, gov.legislate, infra.store]
 entities: [[bank-of-ghana]]
 lens: []
+body_completeness: full
 ---
 # Ghana strengthens financial sector cyber defences with new security directive launch
 

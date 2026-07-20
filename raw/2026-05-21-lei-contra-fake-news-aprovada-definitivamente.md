@@ -14,6 +14,7 @@ places: [AGO]
 topics: [gov.legislate, infra.cybersec, include.access]
 entities: [[assembleia-nacional-angola], [unita], [mpla], [lei-contra-informacoes-falsas-na-internet-angola], [ministerio-das-telecomunicacoes-tecnologias-de-informacao-e-comunicacao-social-angola]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Lei contra "fake news" aprovada definitivamente com votos do MPLA, PRS e PHA – UNITA votou contra diploma que "abre espaço para criminalizar jornalistas e utilizadores"

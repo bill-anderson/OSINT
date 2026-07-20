@@ -13,6 +13,7 @@ places: [XSA, BWA]
 topics: [dpi.id, dpi.exchange, dpi.pay, gov.regional]
 entities: [[sadc], [sadc-cross-border-dpi-framework]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Biometric Update (Aug 2025): "Africa's first" regional cross-border DPI/digital-ID framework unveiled — a partnership of the SADC Committee of Central Bank Governors (CCBG), Co-Develop (DPI fund; 50-in-5 campaign partner) and FinMark Trust (financial-inclusion advocacy). Aim: a federated digital-eKYC ecosystem across the 16 SADC member states (Angola, Botswana, Comoros, DRC, Eswatini, Lesotho, Madagascar, Malawi, Mauritius, Mozambique, Namibia, Seychelles, South Africa, Tanzania, Zambia, Zimbabwe). FinMark Trust provides technical support for federated digital ID + interoperable data exchange + enhanced digital payments. Follows a real-time cross-border ID-verification pilot between South Africa and Lesotho. Problem: siloed national IDs block >3.7m nationals living outside their home countries from banking/payments; a shared reusable rail replaces 16 bilateral agreements. Co-Develop's Robert Karanja; FinMark Trust CEO Brendan Pearce. Regional (XSA); tags BWA as a member touched by this batch. -->

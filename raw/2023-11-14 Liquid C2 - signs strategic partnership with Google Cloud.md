@@ -3,6 +3,8 @@ type: source
 title: "Liquid C2 signs strategic partnership with Google Cloud"
 publisher: Cassava Technologies
 url: https://www.cassavatechnologies.com/liquid-c2-partners-with-google-cloud/
+date_precision: day
+date_source: source
 author: Gevon Jack
 published: 2023-11-14
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [XAF]
 topics: [infra.store, infra.cybersec, tech.ai]
 entities: [[liquid-c2-google-cloud-mou], [liquid-c2], [google], [cassava-technologies]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Backfill (2023-11): the founding MoU (signed 10 Nov 2023) of the Liquid C2 x Google Cloud partnership — data analytics/AI, cybersecurity (Chronicle+Mandiant), Workspace. Under Google's $1bn Africa commitment. Origin of the [[liquid-c2]] Google Cloud thread; deal [[liquid-c2-google-cloud-mou]]. -->

@@ -11,6 +11,7 @@ places: [EGY]
 topics: [infra.cybersec, gov.policy]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 # Egypt scores 100% on the ITU Global Cybersecurity Index (2024)

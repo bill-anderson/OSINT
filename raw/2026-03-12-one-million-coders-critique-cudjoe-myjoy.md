@@ -6,12 +6,14 @@ publisher: MyJoyOnline
 published: 2026-03-12
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: GHA-2026-07-17
 places: [GHA]
 topics: [capacity.training, gov.policy]
 entities: [[samuel-nartey-george]]
 lens: []
+body_completeness: full
 ---
 # 'One million coders' approach lacks strategy for jobs – Franklin Cudjoe
 

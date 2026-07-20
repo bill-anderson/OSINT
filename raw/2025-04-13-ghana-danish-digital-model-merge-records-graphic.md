@@ -6,12 +6,14 @@ publisher: Graphic Online
 published: 2025-04-13
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: GHA-2026-07-17
 places: [GHA]
 topics: [dpi.exchange, dpi.govtech]
 entities: [[samuel-nartey-george]]
 lens: []
+body_completeness: full
 ---
 # Government considers Danish digital model to merge NHIS, tax and driver licensing records – Communication Minister
 

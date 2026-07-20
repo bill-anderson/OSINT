@@ -3,6 +3,8 @@ type: source
 title: "Google Expands Hustle Academy to Train Africans in Practical AI Skills"
 publisher: MSME Africa
 url: https://msmeafricaonline.com/google-expands-hustle-academy-to-train-africans-in-practical-ai-skills/
+date_precision: day
+date_source: source
 author: Olusola Blessing
 published: 2026-04-10
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [XSS, NGA]
 topics: [tech.ai, capacity.training, include.access]
 entities: [[google], [hustle-academy]]
 lens: []
+body_completeness: excerpt
 ---
 
 <!-- Google relaunched Hustle Academy with partner UpSkill Universe, expanding from entrepreneurs to employees/students/jobseekers across SSA. Since 2022: >18,000 SMEs trained. (Trailing scraped stories about Moniepoint/Dangote are unrelated to this source.) -->

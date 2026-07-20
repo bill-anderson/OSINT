@@ -3,6 +3,8 @@ type: source
 title: Rwanda's fintech centre sets the stage for growth
 url: https://itweb.africa/article/rwandas-fintech-centre-sets-the-stage-for-growth/mYZRX79gzjLqOgA8
 publisher: ITWeb Africa
+ingested: 2026-07-19
+lens: []
 author: Phyllis Birori
 published: 2026-03-13
 date_precision: day

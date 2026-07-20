@@ -6,10 +6,12 @@ publisher: Lesotho Times
 published: 2026-05-30
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [LSO]
 topics: [tech.ai, infra.cybersec, infra.store, tech.industry]
 entities: [[computer-business-solutions], [dns-technologies]]
 lens: []
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: LSO-2026-07-17
 ---

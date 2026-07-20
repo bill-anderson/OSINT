@@ -6,6 +6,7 @@ publisher: Independent News Eswatini
 published: 2026-06-24
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [SWZ]
 topics: [dpi.govtech, capacity.training, infra.connect, finance.new]
 entities: [[digital-eswatini-project], [ministry-of-ict-eswatini], [world-bank], [government-in-your-hand]]

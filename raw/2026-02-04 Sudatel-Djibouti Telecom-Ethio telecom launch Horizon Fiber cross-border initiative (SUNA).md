@@ -10,6 +10,7 @@ places: [SDN, DJI, ETH, XEA]
 topics: [infra.connect, gov.regional, finance.mou]
 entities: [[sudatel], [djibouti-telecom], [ethio-telecom], [horizon-fiber]]
 lens: [sovereignty]
+body_completeness: full
 retrieved: 2026-07-17
 ingested: 2026-07-18
 sweep_batch: SDN-2026-07-17

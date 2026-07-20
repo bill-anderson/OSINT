@@ -6,12 +6,14 @@ publisher: Mediaguinee
 published: 2026-03-17
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: GIN-2026-07-17
 places: [GIN]
 topics: [dpi.govtech, gov.policy]
 entities: [[asan-azerbaijan], [simandou-2040]]
 lens: []
+body_completeness: full
 ---
 
 # Modernisation de l'administration : vers le déploiement d'un guichet unique des services publics

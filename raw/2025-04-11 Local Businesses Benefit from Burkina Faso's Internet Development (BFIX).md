@@ -13,6 +13,7 @@ places: [BFA]
 topics: [infra.connect, include.access]
 entities: [[bfix]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Internet Society (Apr 2025): profile of BFIX, the Burkina Faso Internet Exchange (started June 2015) — the resilience story. Landlocked BFA once routed all traffic to Europe and back; a 2024 subsea-cable cut would have been crippling pre-IXP. With ISOC support (2019 network-engineering training, a CDN cache-fill grant + equipment via the Sustainable Peering Infrastructure program), BFIX raised peak capacity from 0.5 to 6 Gbit/s, improving quality and cutting operator costs. BFIX ED: Jean-Baptiste Millogo. Connectivity-resilience foundation (local traffic keeps flowing during subsea cuts). -->

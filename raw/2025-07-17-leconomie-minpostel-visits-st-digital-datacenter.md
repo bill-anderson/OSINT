@@ -3,6 +3,7 @@ type: source
 title: "Développement de l'IA : Le Minpostel visite le Datacenter de ST Digital"
 url: https://leconomie.info/developpement-de-lia-le-minpostel-visite-le-datacenter-de-st-digital/
 publisher: Le quotidien L'Economie
+ingested: 2026-07-18
 author: Francois Gael Mbala
 published: 2025-07-17
 date_precision: day
@@ -13,6 +14,7 @@ places: [CMR, GAB]
 topics: [infra.store, tech.ai]
 entities: [[st-digital], [minpostel], [snia-cameroon], [aninf-gabon]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Développement de l'IA : Le Minpostel visite le Datacenter de ST Digital

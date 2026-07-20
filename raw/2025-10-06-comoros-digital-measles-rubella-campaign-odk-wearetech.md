@@ -6,12 +6,14 @@ publisher: We Are Tech Africa
 published: 2025-10-06
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: COM-2026-07-17
 places: [COM]
 topics: [dpi.mis, data.statistics, digital.rural, include.access]
 entities: [[who], [gavi]]
 lens: []
+body_completeness: full
 ---
 
 # Comoros Goes Digital in Measles-Rubella Drive to Vaccinate 101,000 Children

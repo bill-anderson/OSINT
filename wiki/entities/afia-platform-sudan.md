@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: initiative
 title: Afia (Sudan health-sector digital platform)
 places: [SDN]

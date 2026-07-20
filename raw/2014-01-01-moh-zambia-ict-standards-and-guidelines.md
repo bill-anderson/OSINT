@@ -10,6 +10,7 @@ ingested: 2026-07-20
 places: [ZMB]
 topics: [dpi.mis, gov.protect]
 entities: [[smartcare-pro], [ministry-of-health-zambia]]
+lens: []
 body_completeness: full
 ---
 

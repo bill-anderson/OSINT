@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: initiative
 title: National Physical Addressing (NaPA), Tanzania
 places: [TZA]

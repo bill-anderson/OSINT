@@ -3,6 +3,8 @@ type: source
 title: "BIO-key and RunLevel Deploy Biometric IAM Across Mozambique's National Payments Network"
 publisher: ID Tech Wire
 url: https://idtechwire.com/bio-key-and-runlevel-deploy-biometric-iam-across-mozambiques-national-payments-network/
+date_precision: day
+date_source: source
 author: ID Tech Editorial Team
 published: 2026-02-24
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [MOZ]
 topics: [dpi.pay, infra.cybersec, dpi.id]
 entities: [[bio-key-international], [runlevel], [simo-mozambique]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Multi-year agreement (2026-02-24): BIO-key + integrator RunLevel deploy biometric IAM (PortalGuard, PIN:You, SSO) into SIMO (operator of Mozambique's national payments network SIMOrede). Builds on a May 2025 deployment for a Mozambican national bank. -->

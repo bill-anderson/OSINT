@@ -6,6 +6,7 @@ publisher: Tech Review Africa
 published: 2026-02-03
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 provenance_flag: pr-wire
@@ -13,6 +14,7 @@ places: [DZA]
 topics: [tech.industry, tech.innovate, infra.connect]
 entities: [[ministry-of-posts-and-telecommunications-algeria], [algerie-telecom], [sid-ali-zerrouki], [fiber-game]]
 lens: []
+body_completeness: full
 ---
 
 **Primary source to obtain at ingest:** the Algerian Ministry of Post and

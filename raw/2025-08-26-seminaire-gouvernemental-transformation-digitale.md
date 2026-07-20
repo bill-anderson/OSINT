@@ -3,6 +3,7 @@ type: source
 title: "Séminaire gouvernemental: les enjeux de la transformation digitale à l’ordre du jour"
 url: https://www.sidwaya.info/seminaire-gouvernemental-les-enjeux-de-la-transformation-digitale-a-lordre-du-jour/
 publisher: Sidwaya
+ingested: 2026-07-18
 author: DCRP/Primature
 published: 2025-08-26
 date_precision: day
@@ -13,6 +14,7 @@ places: [BFA]
 topics: [gov.policy, dpi.govtech, tech.ai, infra.store, infra.connect, dpi.id, dpi.pay, infra.cybersec, capacity.literacy, include.access]
 entities: [[ibrahim-traore]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Séminaire gouvernemental: les enjeux de la transformation digitale à l’ordre du jour

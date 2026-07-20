@@ -3,6 +3,8 @@ type: source
 title: "DHIS2 Shared Services Fee"
 publisher: HISP Centre, University of Oslo
 url: https://dhis2.org/shared-services-fee/
+date_precision: day
+date_source: source
 author: unknown
 published: 2026-05-13
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [XGL]
 topics: [dpi.mis, data.statistics, finance.new]
 entities: [[dhis2]]
 lens: []
+body_completeness: full
 ---
 
 <!-- DHIS2 collective-financing model (income-tiered annual fees; payers become 'Contributing Partners' with roadmap/governance input). Entity-profile basis for [[dhis2]] (resource/DPG in 75+ countries, run by HISP Centre, Univ. Oslo). NOT a payments item. -->

@@ -13,6 +13,7 @@ places: [BFA]
 topics: [infra.cybersec, infra.store, gov.policy]
 entities: [[pactdigital]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Digital Watch (Jan 2026) — corroborating outlet for the Digital Infrastructure Supervision Centre the BFA hub already documents (the Jan-2026 $5.4m centre, Ministry of Digital Transition). Centralises oversight of the national backbone, secures cyberspace operations and supervises domestic data centres instead of relying on external monitoring; completion targeted for October. A core pillar of the digital-sovereignty strategy. Same event as the hub's biometricupdate/ecofin sources — attach, don't spawn. -->

@@ -3,6 +3,7 @@ type: source
 title: BoSS vows to safeguard robust payment system (MTN MoMo 'Mata fekir' campaign launch)
 url: https://www.onecitizendaily.com/index.php/2025/08/29/boss-vows-to-safeguard-robust-payment-system/
 publisher: One Citizen Daily
+ingested: 2026-07-19
 author: One Citizen Daily Newspaper
 published: 2025-08-29
 date_precision: day

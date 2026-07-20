@@ -13,6 +13,7 @@ places: [GMB]
 topics: [dpi.pay, include.access]
 entities: [[gamswitch], [mojaloop]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- The Gambia launched its first Inclusive Instant Payment System, BANTABA 2.0 ("common meeting place" in Mandinka), under the Gambia Interoperability Switch Program. Real-time payments across banks, MMOs, MFIs, fintechs, PSPs and public institutions via a single interoperable switch. Led by the Central Bank of The Gambia + Ministry of Communications and Digital Economy, with IIDiA (Institute for Inclusive Digital Africa), built on Mojaloop. Operated by Gamswitch (national switch, domestic ownership). PS Hassan M.M. Jallow: low-cost interoperable national switch = "foundational DPI." Dr Paul Mendy (2nd Deputy Governor CBG). Prep from Oct 2024 with IIDiA/CBG/Ministry + Mojaloop Foundation. Went live after pilot. -->

@@ -3,6 +3,8 @@ type: source
 title: "Mobile Money in Africa: Strong Growth, but Adoption Still Falls Short"
 publisher: Ecofin Agency
 url: https://www.ecofinagency.com/news-digital/3103-54286-mobile-money-in-africa-strong-growth-but-adoption-still-falls-short
+date_precision: day
+date_source: source
 author: Muriel Edjo
 published: 2026-03-24
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [XAF, XSS, ETH, EGY, NGA]
 topics: [dpi.pay, include.divides, include.access, capacity.literacy, finance.new]
 entities: [[gsma], [world-bank]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Reports the GSMA State of the Industry Report on Mobile Money 2026 (see the [[2026-03-01 GSMA State of the Industry Report on Mobile Money 2026]] companion). ~$1.432tn flowed through African mobile money in 2025 (+27%), Africa ~66% of global $2.091tn value and ~74% of 125bn transactions; ~1.2bn accounts (52% of global). SSA smartphone ownership only 33%; women 14% less likely to use mobile internet. -->

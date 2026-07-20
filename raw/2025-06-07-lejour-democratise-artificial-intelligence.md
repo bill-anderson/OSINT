@@ -3,6 +3,9 @@ type: source
 title: "Pourquoi il faut démocratiser l'intelligence artificielle"
 url: https://lejour.cm/pourquoi-il-faut-democratiser-lintelligence-artificielle/
 publisher: Le Jour
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Steven Nbienou Kouadjo
 published: 2025-06-07
 date_precision: day

@@ -13,6 +13,7 @@ places: [MWI]
 topics: [dpi.pay, include.access, data.statistics]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 Presentation of the main findings of the FinScope Consumer Survey Malawi 2023 (dated August 2024), a nationally representative demand-side survey measuring levels of financial access and usage (formal and informal), the products people use, and the drivers of and barriers to financial inclusion. It tracks trends from 2014 and assesses the impact of COVID-19 on livelihoods and financial-services usage.

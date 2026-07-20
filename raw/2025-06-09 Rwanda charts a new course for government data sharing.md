@@ -1,9 +1,13 @@
 ---
 type: source
+date_precision: day
+date_source: source
 places: [RWA]
 topics: [dpi.exchange, gov.policy, gov.protect]
 entities: [[rwanda-national-data-sharing-policy]]
 ingested: 2026-07-16
+lens: []
+body_completeness: full
 page: 
 title: Rwanda charts a new course for government data sharing
 author: Ridwan Oloyede

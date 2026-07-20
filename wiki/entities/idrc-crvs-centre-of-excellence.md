@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: organisation
 title: IDRC Centre of Excellence for CRVS Systems
 places: [XGL]

@@ -3,6 +3,9 @@ type: source
 title: "Open SDG : Une plateforme pour le suivi des ODD au Cameroun"
 url: https://leconomie.info/open-sdg-une-plateforme-pour-le-suivi-des-odd-au-cameroun/
 publisher: Le quotidien L'Economie
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Julie Bilo’o
 published: 2025-09-19
 date_precision: day

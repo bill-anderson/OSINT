@@ -6,6 +6,7 @@ publisher: TechnoMag
 published: 2026-03-16
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [ZWE]
 topics: [tech.ai, infra.store, gov.policy]
 entities: [[zimbabwe-national-ai-strategy], [potraz], [ai-strategy-implementation-office-zimbabwe]]

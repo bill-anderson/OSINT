@@ -12,6 +12,7 @@ places: [GMB]
 topics: [gov.policy, gov.protect, dpi.exchange, data.open]
 entities: [[gambia-data-protection-act-2025]]
 lens: []
+body_completeness: full
 artefact: "2025-01-01 National-Data-Policy-2025-The-Gambia-draft.docx"
 ---
 

@@ -11,6 +11,7 @@ places: [EGY]
 topics: [gov.protect, tech.ai, dpi.id]
 entities: [[egypt-pdpl]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Regulating Privacy and Digital Identities in the Age of AI — the View from Egypt (Cairo Review)

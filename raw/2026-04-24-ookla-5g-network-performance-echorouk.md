@@ -1,6 +1,7 @@
 ---
 type: source
 title: "أوكلا" تكشف تفاصيل أحسن شبكة جيل خامس في الجزائر
+ingested: 2026-07-18
 title_en: Ookla details 5G network performance in Algeria (avg download 23.6→40.87 Mbps in 2025)
 url: https://www.echoroukonline.com/%D8%A3%D9%88%D9%83%D9%84%D8%A7-%D8%AA%D9%83%D8%B4%D9%81-%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84-%D8%A3%D8%AD%D8%B3%D9%86-%D8%B4%D8%A8%D9%83%D8%A9-%D8%AC%D9%8A%D9%84-%D8%AE%D8%A7%D9%85%D8%B3-%D9%81
 publisher: Echorouk El Yawmi
@@ -14,6 +15,7 @@ places: [DZA]
 topics: [infra.connect, data.statistics]
 entities: [[ookla, djezzy, mobilis, ooredoo]]
 lens: []
+body_completeness: full
 ---
 
 # "أوكلا" تكشف تفاصيل أحسن شبكة جيل خامس في الجزائر

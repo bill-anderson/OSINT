@@ -6,10 +6,12 @@ publisher: La Gazette des Comores
 published: 2026-04-16
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [COM]
 topics: [dpi.govtech, gov.legislate, gov.policy]
 entities: [[ministry-of-finance-comoros]]
 lens: []
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: COM-2026-07-17
 ---

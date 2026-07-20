@@ -3,6 +3,9 @@ type: source
 title: Liquid Intelligent Technologies expands services in Botswana
 url: https://www.mmegi.bw/business/liquid-intelligent-technologies-expands-services-in-botswana/news
 publisher: Mmegi
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: staff writer
 published: 2026-05-13
 date_precision: day

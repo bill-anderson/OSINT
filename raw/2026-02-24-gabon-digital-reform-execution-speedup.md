@@ -3,6 +3,8 @@ type: source
 title: Gabon Pushes to Speed Up Execution of Digital Reform Programs
 url: https://www.ecofinagency.com/news-digital/2402-53229-gabon-pushes-to-speed-up-execution-of-digital-reform-programs
 publisher: Ecofin Agency
+lens: []
+body_completeness: full
 author: Adoni Conrad Quenum
 published: 2026-02-24
 date_precision: day

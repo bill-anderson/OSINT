@@ -3,6 +3,8 @@ type: source
 title: "‘Not where they hoped it'd be’: Launch of Trump AI promotion program underwhelms"
 publisher: Politico
 url: https://www.politico.com/news/2026/07/11/trump-administration-commerce-ai-program-00993532
+date_precision: day
+date_source: source
 author: Ari Hawkins
 published: 2026-07-11
 accessed: 2026-07-12
@@ -11,6 +13,7 @@ places: [XGL]
 topics: [geopol.usa, geopol.china, tech.ai, tech.industry]
 entities: [[american-ai-exports-program], [us-department-of-commerce], [amazon-web-services], [nvidia], [openai], [anthropic], [deepseek], [technology-prosperity-deal]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- American AI Exports Program first round drew only 78 applications (vs "hundreds" expected; ITA disputes). AWS applied; Nvidia "looks forward"; OpenAI/AMD non-committal. Anthropic foreign-access restriction imposed then reversed unnerved industry; Phase 2 (deal bidding) not yet launched. Framed vs Chinese open models (DeepSeek/Alibaba) in developing countries. UPDATE to american-ai-exports-program — handled CENTRALLY; attach-only. -->

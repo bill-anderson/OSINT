@@ -6,12 +6,14 @@ publisher: Fraternité Matin
 published: 2025-07-10
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [infra.connect, tech.industry]
 entities: [[artci], [starlink], [ivoire-tech-forum], [ministere-de-la-transition-numerique-et-de-la-digitalisation-cote-divoire]]
 lens: []
+body_completeness: full
 ---
 
 # Déploiement de la 5G en Côte d'Ivoire : Bientôt la connectivité à la technologie

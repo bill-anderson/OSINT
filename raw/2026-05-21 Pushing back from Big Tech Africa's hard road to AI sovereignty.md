@@ -3,6 +3,8 @@ type: source
 title: "Pushing back from Big Tech: Africa's hard road to AI sovereignty"
 publisher: Rest of World
 url: https://restofworld.org/2026/africa-ai-sovereignty-big-tech/
+date_precision: day
+date_source: source
 author: Ananya Bhattacharya & Munira Mutaher
 published: 2026-05-21
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [NGA, KEN, EGY, ZAF, RWA, GHA, ZMB, MAR, XAF, XSS]
 topics: [tech.ai, infra.store, gov.policy, geopol.usa, geopol.china, capacity.training, data.statistics]
 entities: [[microsoft], [google], [meta], [nvidia], [cassava-technologies], [g42], [oracle], [anthropic], [smart-africa], [african-union]]
 lens: [sovereignty, colonialism]
+body_completeness: full
 ---
 
 <!-- Africa's AI-sovereignty push: draft AI policies (NGA/EGY/KEN) name US-tech dependence as a security threat; SA's draft withdrawn Apr 2026 (fake citations). Africa <1% of global DC capacity (WEF). $60bn Africa AI Fund (Apr 2025 Kigali); AU Continental AI Strategy (Jul 2024); Ghana/Nigeria/Zambia rejected US health-data-sharing deals. -->

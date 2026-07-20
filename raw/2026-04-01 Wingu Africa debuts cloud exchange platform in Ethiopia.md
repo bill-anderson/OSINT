@@ -3,14 +3,17 @@ type: source
 title: "Wingu Africa debuts cloud exchange platform in Ethiopia"
 publisher: Connecting Africa
 url: https://www.connectingafrica.com/cloud-networking/wingu-africa-debuts-cloud-exchange-platform-in-ethiopia
+date_source: source
 author: Matshepo Sehloho
 published: 2026-04-01
+date_precision: month
 accessed: 2026-07-11
 ingested: 2026-07-11
 places: [ETH, TZA, DJI]
 topics: [infra.store, gov.protect, dpi.exchange]
 entities: [[wingu-africa], [amazon-web-services], [microsoft]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Wingu Africa launched Wingu Cloud Exchange (WCX) in Ethiopia — private cloud for in-country data residency; services (Compute, Kubernetes, Drive, Security) priced in local currency, hybrid with Azure/AWS. WCX first launched Tanzania Nov 2025; follows a $60m raise for East-African expansion (Djibouti, Ethiopia, Tanzania). -->

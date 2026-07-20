@@ -11,6 +11,7 @@ places: [ERI]
 topics: [dpi.id, include.divides, gov.policy]
 entities: []
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Eritrea's population digital identity — challenges ahead

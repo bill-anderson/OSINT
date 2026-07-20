@@ -4,11 +4,14 @@ title: Kenya Eyes First OpenAI Academy in East Africa Following Ruto–Sam Altma
 url: https://techafricanews.com/2026/06/18/kenya-eyes-first-openai-academy-in-east-africa-following-ruto-sam-altman-talks/
 publisher: Tech Africa News
 published: 2026-06-18
+date_precision: day
+date_source: source
 ingested: 2026-07-10
 places: [KEN, XEA]
 topics: [tech.ai, capacity.training, geopol.usa]
 entities: [[openai], [william-ruto]]
 lens: [sovereignty]
+body_completeness: full
 ---
 Kenyan President William Samoei Ruto has revealed that he held discussions with Sam Altman on the sidelines of the G7 Leaders’ Summit, focusing on expanding collaboration in artificial intelligence and digital transformation. The talks centered on positioning Kenya as a key player in Africa’s emerging AI ecosystem and strengthening the country’s digital capabilities.
 

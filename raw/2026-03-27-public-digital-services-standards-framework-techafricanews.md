@@ -13,6 +13,7 @@ places: [MRT]
 topics: [gov.standards, dpi.govtech, dpi.exchange]
 entities: [[mtnima-mauritania], [giz], [digital-y]]
 lens: []
+body_completeness: full
 ---
 
 # Mauritania — national framework for public digital-services standards (GIZ / Digital-Y)

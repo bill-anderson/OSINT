@@ -6,6 +6,7 @@ publisher: Digital Business Africa
 published: 2026-05-21
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [TCD]
 topics: [infra.connect, dpi.exchange, infra.store]
 entities: [[adetic], [tchadix]]

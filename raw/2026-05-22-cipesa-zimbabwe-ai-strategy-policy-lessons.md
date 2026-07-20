@@ -6,6 +6,7 @@ publisher: CIPESA
 published: 2026-05-22
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [ZWE]
 topics: [tech.ai, gov.policy, gov.regional]
 entities: [[zimbabwe-national-ai-strategy], [cipesa], [african-union]]

@@ -3,6 +3,8 @@ type: source
 title: Tanzania registers 12 million housing addresses to boost digital governance
 url: https://ippmedia.com/the-guardian/news/local-news/read/tanzania-registers-12-million-housing-addresses-to-boost-digital-governance-2026-02-09-105732
 publisher: The Guardian (IPP Media)
+lens: []
+body_completeness: full
 author: Joseph Prosper
 published: 2026-02-09
 date_precision: day

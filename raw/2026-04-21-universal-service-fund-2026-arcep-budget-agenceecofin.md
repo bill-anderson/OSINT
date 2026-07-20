@@ -6,10 +6,12 @@ publisher: Agence Ecofin
 published: 2026-04-21
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [CAF]
 topics: [infra.connect, include.divides, include.access, gov.legislate, gov.policy, digital.rural, capacity.training]
 entities: [[arcep-central-african-republic], [cdce-central-african-republic], [gsma]]
 lens: []
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: CAF-2026-07-17
 ---

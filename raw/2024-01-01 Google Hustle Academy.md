@@ -3,6 +3,7 @@ type: source
 title: "Google Hustle Academy (eTrade Alliance profile)"
 publisher: Alliance for eTrade Development
 url: https://www.allianceforetradedevelopment.org/etrade-alliance-1/google-hustle-academy
+date_source: source
 author: eTrade Alliance
 published: 2024
 date_precision: year
@@ -12,6 +13,7 @@ places: [KEN, NGA, ZAF]
 topics: [capacity.training, include.access, tech.industry, finance.mou]
 entities: [[hustle-academy], [google], [google-for-startups-accelerator-africa]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Backfill/profile of Google Hustle Academy (weeklong MSME training, launched 2022, Nigeria/Kenya/SA) scaled in Kenya via the eTrade Alliance + Upskill Digital (2023-24, +1,000 MSMEs, >=50% women-led). Attach to [[hustle-academy]]. -->

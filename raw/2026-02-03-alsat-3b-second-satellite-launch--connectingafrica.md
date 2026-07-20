@@ -6,6 +6,7 @@ publisher: Connecting Africa
 published: 2026-02-03
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 places: [DZA, XAF]

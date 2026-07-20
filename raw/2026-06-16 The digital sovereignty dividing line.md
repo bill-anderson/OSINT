@@ -2,6 +2,8 @@
 type: source
 title: "The digital sovereignty dividing line"
 publisher: Data Landscapers
+date_precision: day
+date_source: source
 author: [[bill]]
 url: https://data-landscapers.com/2026/06/16/sovereignty-dividing-line/
 published: 2026-06-16
@@ -11,6 +13,7 @@ places: [XAF, ZAF]
 topics: [tech.ai, infra.store, infra.capacity, gov.standards, geopol.usa, tech.industry]
 entities: [[bill], [data-landscapers], [cassava-technologies], [liquid-c2], [strive-masiyiwa], [nvidia], [anthropic], [national-sovereign-cloud]]
 lens: [sovereignty, colonialism]
+body_completeness: full
 ---
 
 <!-- EXPERT ANALYSIS / COMMENTARY (Data Landscapers, author [[bill]]). Uses Cassava/Masiyiwa to

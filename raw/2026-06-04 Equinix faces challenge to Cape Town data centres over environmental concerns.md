@@ -4,11 +4,14 @@ title: Equinix faces challenge to Cape Town data centres over environmental conc
 url: https://www.reuters.com/world/africa/equinix-faces-challenge-cape-town-data-centres-over-environmental-concerns-2026-06-04/
 publisher: Reuters
 published: 2026-06-04
+date_precision: day
+date_source: source
 ingested: 2026-07-10
 places: [ZAF]
 topics: [infra.store, infra.energy, infra.capacity, gov.policy]
 entities: [[equinix]]
 lens: [sovereignty, colonialism]
+body_completeness: full
 ---
 
 Item 1 of 3 A view of the Barcelona informal settlement in Cape Town, South Africa, May 17, 2026. REUTERS/Esa Alexander

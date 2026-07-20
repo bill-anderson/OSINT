@@ -12,6 +12,7 @@ places: [ZAF]
 topics: [dpi.registry, dpi.id, gov.legislate, gov.policy, gov.protect, tech.ai, data.statistics]
 entities: [[home-affairs-south-africa], [leon-schreiber], [intelligent-population-register]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 *A DRAFT WHITE PAPER, NOT LAW — public input ran 12 Dec 2025 to 31 Jan 2026. A material gap in held material: the wiki mentions the Intelligent Population Register only in passing, as the thing a contested fee hike funds, and holds nothing on the White Paper, the IPR proposal itself, the consultation, the shift to mandatory digital birth and death registration, or the merit-based naturalisation pivot. NOTE A TERMINOLOGY DIVERGENCE: this reports 'Intelligent Population Register'; the DHA's own Strategic Plan 2025-2030 uses 'National Population Register' and an 'Integrated Identity System' outcome indicator — use the department's wording where they differ and record the variant. Schreiber's 'before the 2029 elections' is a third, later target.*

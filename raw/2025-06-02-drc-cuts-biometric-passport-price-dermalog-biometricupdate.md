@@ -6,10 +6,12 @@ publisher: Biometric Update
 published: 2025-06-02
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [COD]
 topics: [dpi.id, dpi.registry, dpi.govtech, gov.protect, gov.standards, include.access]
 entities: [[trident-digital-tech], [rdc-pass], [drc-digital-code]]
 lens: [sovereignty]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: COD-2026-07-17
 ---

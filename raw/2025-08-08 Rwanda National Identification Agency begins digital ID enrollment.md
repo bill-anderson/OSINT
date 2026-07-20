@@ -1,9 +1,13 @@
 ---
 type: source
+date_precision: day
+date_source: source
 places: [RWA]
 topics: [dpi.id, dpi.registry, gov.protect]
 entities: [[nida-rwanda]]
 ingested: 2026-07-16
+lens: []
+body_completeness: full
 page: Rwanda National Identification Agency begins digital ID enrollment
 title: Rwanda National Identification Agency begins digital ID enrollment
 author: Ayang Macdonald

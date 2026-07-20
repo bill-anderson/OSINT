@@ -6,12 +6,14 @@ publisher: ACTUALITE.CD
 published: 2025-05-30
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: COD-2026-07-17
 places: [COD]
 topics: [dpi.mis, dpi.govtech, gov.policy, data.statistics]
 entities: [[guylain-nyembo], [drc-pnsd-2024-2028], [sisag], [ministere-du-plan-drc], [felix-tshisekedi]]
 lens: []
+body_completeness: full
 ---
 
 Guylain Nyembo au lancement des travaux du PNSD

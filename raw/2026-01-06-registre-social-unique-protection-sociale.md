@@ -3,6 +3,7 @@ type: source
 title: "Registre social unique : le Burkina Faso renforce la protection sociale"
 url: https://www.sidwaya.info/registre-social-unique-le-burkina-faso-renforce-la-protection-sociale/
 publisher: Sidwaya
+ingested: 2026-07-18
 author: Oumarou Rabo; Fatimata Zoungrana
 published: 2026-01-06
 date_precision: day
@@ -13,6 +14,7 @@ places: [BFA]
 topics: [dpi.registry, dpi.id, gov.protect, include.access, dpi.exchange]
 entities: [[registre-social-unique-burkina-faso], [unicef], [world-food-programme]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Registre social unique: le Burkina Faso renforce la protection sociale

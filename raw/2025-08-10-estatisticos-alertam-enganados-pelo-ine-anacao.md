@@ -6,6 +6,7 @@ publisher: A Nação
 published: 2025-08-10
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [CPV]
 topics: [data.statistics]
 entities: [[ine-cv], [joao-de-pina-cardoso]]

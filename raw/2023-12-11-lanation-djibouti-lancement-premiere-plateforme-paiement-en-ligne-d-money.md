@@ -10,6 +10,7 @@ ingested: 2026-07-20
 places: [DJI]
 topics: [dpi.pay, dpi.govtech, tech.innovate, include.access]
 entities: [[djibouti-telecom], [d-money-djibouti], [vision-djibouti-2035]]
+lens: []
 body_completeness: full
 ---
 

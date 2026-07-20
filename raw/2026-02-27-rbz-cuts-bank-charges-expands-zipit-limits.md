@@ -6,6 +6,7 @@ publisher: NewsDay
 published: 2026-02-27
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [ZWE]
 topics: [dpi.pay, gov.legislate, finance.new]
 entities: [[reserve-bank-of-zimbabwe], [zipit], [zimswitch]]

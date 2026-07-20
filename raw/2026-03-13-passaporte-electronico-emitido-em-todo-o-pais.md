@@ -3,6 +3,8 @@ type: source
 title: Passaporte electrónico começa a ser emitido em todo o País no final deste mês, garante SME
 url: https://www.novojornal.co.ao/sociedade/detalhe/passaporte-electronico-comeca-a-ser-emitido-em-todo-o-pais-no-final-deste-mes-garante-sme-70406.html
 publisher: Novo Jornal
+lens: []
+body_completeness: full
 author: Nova Vaga
 published: 2026-03-13
 date_precision: day

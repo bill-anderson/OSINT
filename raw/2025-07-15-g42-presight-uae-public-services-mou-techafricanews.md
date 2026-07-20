@@ -6,12 +6,14 @@ publisher: TechAfrica News
 published: 2025-07-15
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [finance.mou, dpi.govtech, tech.ai, geopol.gulf, gov.policy]
 entities: [[g42], [presight], [ministry-of-digital-transition-and-digitalisation-cote-divoire], [ivoiretech-forum], [anne-desiree-ouloto], [kalil-ibrahim-konate], [robert-beugre-mambe]]
 lens: []
+body_completeness: full
 ---
 
 #Technology

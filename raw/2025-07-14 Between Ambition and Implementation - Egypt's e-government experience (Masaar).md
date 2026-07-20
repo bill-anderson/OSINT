@@ -11,6 +11,7 @@ places: [EGY]
 topics: [dpi.govtech, gov.protect, include.access, gov.policy]
 entities: [[digital-egypt]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Between Ambition and Implementation — A Critical Reading of Egypt's E-Government Experience (Masaar)

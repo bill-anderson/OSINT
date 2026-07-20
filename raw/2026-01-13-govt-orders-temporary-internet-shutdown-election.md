@@ -6,6 +6,7 @@ publisher: Nile Post
 published: 2026-01-13
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [UGA]
 topics: [infra.connect, gov.legislate]
 entities: [[uganda-communications-commission]]

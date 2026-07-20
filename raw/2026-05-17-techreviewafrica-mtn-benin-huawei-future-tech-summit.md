@@ -3,6 +3,7 @@ type: source
 title: MTN Benin and Huawei host Future Tech Summit 2026
 url: https://techreviewafrica.com/news/5474/mtn-benin-and-huawei-host-future-tech-summit-2026
 publisher: Tech Review Africa
+ingested: 2026-07-18
 author: Nana Appiah Acquaye
 published: 2026-05-17
 date_precision: day
@@ -13,6 +14,7 @@ places: [BEN]
 topics: [geopol.china, tech.ai, infra.connect, infra.store, tech.industry]
 entities: [[mtn-benin], [huawei]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Provenance note: Tech Review Africa is a byline-free PR wire (README source table). Published date established from the page's own "Date:" line at fetch time — Exa served no date. Sourcing the underlying MTN Benin / Huawei announcement would be preferable at ingest. -->

@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: instrument
 title: The burden of recording and reporting health data in primary health care facilities in five low- and lower-middle income countries
 places: [GHA, MOZ, NGA, TZA]

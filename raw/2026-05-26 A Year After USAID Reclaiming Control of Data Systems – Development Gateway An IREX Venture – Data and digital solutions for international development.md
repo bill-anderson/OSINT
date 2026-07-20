@@ -2,6 +2,8 @@
 type: source
 title: "A year after: reclaiming control of data systems"
 publisher: Development Gateway (an IREX venture)
+date_precision: day
+date_source: source
 author: Megan Levanduski et al. (with Open Data Watch)
 url: https://developmentgateway.org/blog/a-year-after-usaid-reclaiming-control-of-data-systems/
 published: 2026-05-26
@@ -11,6 +13,7 @@ places: [XAF, ETH, KEN, ZMB, ZAF, SEN]
 topics: [data.statistics, gov.policy, gov.regional, dpi.exchange, geopol.usa, capacity.research, data.open]
 entities: [[development-gateway], [usaid]]
 lens: [sovereignty, colonialism]
+body_completeness: full
 ---
 
 <!-- One year after the Jan-2025 US aid freeze: >2/3 of NSOs report funding cuts, 73% report

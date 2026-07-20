@@ -14,6 +14,7 @@ places: [AGO]
 topics: [infra.cybersec, geopol.usa, finance.new, finance.mou, capacity.training, gov.policy]
 entities: [[cybastion]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 Angola has partnered with American technology company Cybastion to improve its cybersecurity. The government signed a deal with Cybastion, which pledged to invest $25 million to strengthen Angola's digital defenses.

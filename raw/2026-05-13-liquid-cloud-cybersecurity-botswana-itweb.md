@@ -3,6 +3,9 @@ type: source
 title: Liquid expands service portfolio in Botswana
 url: https://itweb.africa/article/liquid-expands-service-portfolio-in-botswana/KzQenqjypOmMZd2r
 publisher: ITWeb Africa
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Nsuku Khosa
 published: 2026-05-13
 date_precision: day

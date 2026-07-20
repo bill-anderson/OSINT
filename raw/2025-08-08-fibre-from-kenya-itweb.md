@@ -3,6 +3,7 @@ type: source
 title: South Sudan to lay fibre from Kenya
 url: https://itweb.africa/article/south-sudan-to-lay-fibre-from-kenya/lwrKx73Y94lqmg1o
 publisher: ITWeb Africa
+ingested: 2026-07-19
 author: Mthulisi Sibanda
 published: 2025-08-08
 date_precision: day

@@ -6,10 +6,12 @@ publisher: Telecom Review Africa
 published: 2025-07-11
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [CMR]
 topics: [gov.legislate, gov.standards, infra.connect, include.access, tech.industry]
 entities: [[art-cameroon], [orange-cameroun], [mtn-cameroon]]
 lens: []
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: CMR-2026-07-17
 ---

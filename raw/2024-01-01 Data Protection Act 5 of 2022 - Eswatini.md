@@ -11,6 +11,7 @@ places: [SWZ]
 topics: [gov.protect, gov.legislate, gov.regional, gov.standards]
 entities: [[data-protection-act-2022-eswatini], [esccom], [sadc]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 (Note: page is undated; publication year is approximate. Evergreen reference explainer of the Act.)

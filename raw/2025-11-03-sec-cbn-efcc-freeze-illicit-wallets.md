@@ -6,6 +6,7 @@ publisher: Vanguard
 published: 2025-11-03
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [NGA]
 topics: [dpi.pay, infra.cybersec, gov.legislate]
 entities: [[securities-and-exchange-commission-nigeria], [central-bank-of-nigeria], [efcc]]

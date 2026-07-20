@@ -3,6 +3,9 @@ type: source
 title: Burkina Faso Targets Zero Telecom White Zones by 2027 as 61 Nakambe Towns Get Connected
 url: https://techafricanews.com/2025/12/18/burkina-faso-targets-zero-telecom-white-zones-by-2027-as-61-nakambe-towns-get-connected/
 publisher: TechAfrica News
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Kay-Lyne Wolfenden
 published: 2025-12-18
 date_precision: day

@@ -7,6 +7,7 @@ topics: [tech.ai, gov.policy, geopol.usa, geopol.china, gov.protect, gov.legisla
 lens: [sovereignty, colonialism]
 status: active
 last_reviewed: 2026-07-13
+sources: []
 ---
 
 # Alice Munyua

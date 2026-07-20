@@ -13,6 +13,7 @@ places: [GHA]
 topics: [dpi.pay, dpi.exchange, gov.regional, finance.new]
 entities: [[onafriq-papss-ghana-launch], [onafriq], [papss], [bank-of-ghana], [afreximbank]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Onafriq + PAPSS launched cross-border payments in Ghana (live). Partner banks, fintechs, MMOs can send/receive to mobile wallets and bank accounts; real-time on PAPSS rails, Afreximbank as settlement agent. BoG approved a six-month pilot (evaluate volumes, FX, engagement). Onafriq spans 43 African countries, 1bn+ wallets, 500m accounts. PAPSS established by Afreximbank + AU, supports AfCFTA. Precedes the later Nigeria→Ghana naira rail (reported Feb 2026). -->

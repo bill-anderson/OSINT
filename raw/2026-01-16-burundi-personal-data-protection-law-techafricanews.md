@@ -3,6 +3,7 @@ type: source
 title: Burundi Adopts Landmark Personal Data Protection Law to Safeguard Citizens in the Digital Era
 url: https://techafricanews.com/2026/01/16/burundi-adopts-landmark-personal-data-protection-law-to-safeguard-citizens-in-the-digital-era/
 publisher: TechAfrica News
+ingested: 2026-07-18
 author: Kay-Lyne Wolfenden
 published: 2026-01-16
 date_precision: day
@@ -13,6 +14,7 @@ places: [BDI]
 topics: [gov.protect, gov.legislate, dpi.id]
 entities: [[ministry-of-interior-burundi], [national-assembly-burundi]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Burundi Adopts Landmark Personal Data Protection Law to Safeguard Citizens in the Digital Era

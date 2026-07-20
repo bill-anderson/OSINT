@@ -13,6 +13,7 @@ places: [BFA]
 topics: [infra.connect, dpi.govtech, include.divides]
 entities: [[pactdigital]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Biometric Update (Feb 2026): Digital Transition Minister Dr Aminata Zerbo Sabané reported the ministry's 2025 gains (91% performance target): connectivity (telephone + internet) extended to 370 additional localities; two new modular data centres built (data sovereignty); 69 new digital platforms developed for public services; and a partnership with the national postal service to build 20 'citizen houses' over five years — physical assisted-access points to bridge the digital divide. Consolidated 2025 progress snapshot. -->

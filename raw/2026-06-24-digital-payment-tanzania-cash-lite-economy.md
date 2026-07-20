@@ -6,6 +6,7 @@ publisher: The Citizen
 published: 2026-06-24
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [TZA]
 topics: [dpi.pay, gov.policy]
 entities: [[bank-of-tanzania]]

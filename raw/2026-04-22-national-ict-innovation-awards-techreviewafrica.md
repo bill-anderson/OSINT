@@ -6,6 +6,7 @@ publisher: Tech Review Africa
 published: 2026-04-22
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 provenance_flag: pr-wire
 places: [MWI]
 topics: [tech.innovate, gov.policy]

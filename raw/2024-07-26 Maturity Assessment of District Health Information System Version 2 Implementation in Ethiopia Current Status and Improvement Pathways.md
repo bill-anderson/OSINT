@@ -3,6 +3,8 @@ type: source
 title: "Maturity Assessment of District Health Information System Version 2 (DHIS2) Implementation in Ethiopia"
 publisher: JMIR Medical Informatics 12:e50375
 url: https://medinform.jmir.org/2024/1/e50375
+date_precision: day
+date_source: source
 author: Yilma TM, Taddese A, Mamuye A, Tilahun B, et al.
 published: 2024-07-26
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [ETH]
 topics: [dpi.mis, dpi.exchange, gov.standards, infra.connect, capacity.training, data.statistics]
 entities: [[dhis2-maturity-ethiopia], [dhis2], [ethiopia-moh]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Scholarly publication: national DHIS2 maturity via SOCI tool (5 domains). Overall 'defined' stage (2.81; target 'managed' 4.09 by 2025); ICT infrastructure lowest ('repeatable', 2.14); interoperability/data-use 'emerging'. DHIS2 in Ethiopia since 2018 (v2.30). Ethiopia lacks a national digital ID/client registry (interoperability gap). Home page for [[dhis2-maturity-ethiopia]]. -->

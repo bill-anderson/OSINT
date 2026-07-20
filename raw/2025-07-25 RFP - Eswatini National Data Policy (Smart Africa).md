@@ -7,6 +7,8 @@ published: 2025-07-25
 date_precision: day
 date_source: source
 ingested: 2026-07-17
+lens: []
+body_completeness: full
 artefact: "2025-07-25 RFP - Eswatini National Data Policy (Smart Africa).pdf"
 places: [SWZ]
 topics: [gov.policy, gov.protect, gov.standards]

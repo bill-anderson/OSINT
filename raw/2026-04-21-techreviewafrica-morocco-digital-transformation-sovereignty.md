@@ -6,12 +6,14 @@ publisher: Tech Review Africa
 published: 2026-04-21
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: MAR-2026-07-17
 places: [MAR]
 topics: [gov.policy, infra.store]
 entities: []
 lens: [sovereignty]
+body_completeness: full
 provenance_flag: pr-wire
 ---
 

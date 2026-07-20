@@ -3,6 +3,8 @@ type: source
 title: "Helios Towers completes 133 UCSAF sites to expand rural connectivity in Tanzania"
 publisher: Tech Review Africa
 url: https://techreviewafrica.com/news/4919/
+date_precision: day
+date_source: source
 author: Nana Appiah Acquaye
 published: 2026-04-13
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [TZA]
 topics: [infra.connect, digital.rural, include.access, digital.localgov]
 entities: [[helios-towers]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Helios Towers completed 133 telecom sites under Tanzania's UCSAF programme (commemorated Dodoma; President Samia Suluhu Hassan, Minister Angela Kairuki). ~45% of Helios's Tanzania sites are rural. -->

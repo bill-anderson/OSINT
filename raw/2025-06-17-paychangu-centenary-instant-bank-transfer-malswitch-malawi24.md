@@ -6,6 +6,7 @@ publisher: Malawi24
 published: 2025-06-17
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [MWI]
 topics: [dpi.pay, finance.new, include.access]
 entities: [[reserve-bank-of-malawi]]

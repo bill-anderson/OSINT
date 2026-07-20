@@ -7,6 +7,7 @@ topics: [infra.store, infra.energy, finance.new, data.statistics]
 lens: []
 status: active
 last_reviewed: 2026-07-11
+sources: []
 ---
 
 # Xalam Analytics Data Center Market Briefs 2026

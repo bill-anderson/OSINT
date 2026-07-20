@@ -3,6 +3,8 @@ type: source
 title: Digital 2025: Eswatini
 url: https://datareportal.com/reports/digital-2025-eswatini
 publisher: DataReportal (Kepios / We Are Social / Meltwater)
+lens: []
+body_completeness: full
 author: Simon Kemp
 published: 2025-03-03
 date_precision: day

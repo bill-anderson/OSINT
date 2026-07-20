@@ -3,6 +3,8 @@ type: source
 title: "Malawi's second city digitises tax collection"
 publisher: ITWeb Africa
 url: https://itweb.africa/article/malawis-second-city-digitises-tax-collection/GxwQDq1DYWeMlPVo
+date_precision: day
+date_source: source
 author: Benson Kunchezera
 published: 2026-03-06
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [MWI]
 topics: [digital.localgov, dpi.pay, dpi.govtech]
 entities: [[blantyre-city-council], [malawi-revenue-authority]]
 lens: []
+body_completeness: excerpt
 ---
 
 <!-- Blantyre City Council partnered with NBS Bank to digitise revenue/tax collection and enable electronic payment of council services (Mayor Isaac Jomo Osman). Within the Digital Malawi Acceleration Project. Local-govt counterpart to the national MRA e-invoicing. -->

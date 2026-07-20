@@ -3,14 +3,17 @@ type: source
 title: "Liquid C2 expands Google Cloud access in Africa with AI-driven distribution programme, Liquid G"
 publisher: Liquid C2
 url: https://liquidc2.com/
+date_source: source
 author: Liquid C2
 published: 2025-12-01
+date_precision: month
 accessed: 2026-07-11
 ingested: 2026-07-11
 places: [XAF]
 topics: [infra.store, tech.ai, geopol.usa]
 entities: [[liquid-c2], [google], [cassava-technologies]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Backfill (2025-12): Liquid C2 launched 'Liquid G', an AI-powered Google Cloud distribution programme for African resellers/enterprises (via Cloudmania) — single-provider marketplace, local-currency billing. Part of the [[liquid-c2]] Google Cloud thread. CEO Oswald Jumira. -->

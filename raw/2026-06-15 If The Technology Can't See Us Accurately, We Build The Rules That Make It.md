@@ -3,6 +3,8 @@ type: source
 title: "If The Technology Can't See Us Accurately, We Build The Rules That Make It."
 publisher: africaintheroom.substack.com (Africa in the Room)
 url: https://africaintheroom.substack.com/p/if-the-technology-cant-see-us-accurately
+date_precision: day
+date_source: source
 author: Zuria Nagadya
 published: 2026-06-15
 accessed: 2026-07-12
@@ -11,6 +13,7 @@ places: [XAF, UGA, NGA, KEN, ZWE, MOZ]
 topics: [tech.ai, gov.protect, infra.cybersec]
 entities: [[zuria-nagadya], [eu-ai-act], [european-union], [cbn], [rwanda-national-ai-agency]]
 lens: [sovereignty, colonialism]
+body_completeness: full
 ---
 
 <!-- Nagadya: facial-recognition governance argument (built on Joy Buolamwini's bias research) cataloguing large African biometric-surveillance spends — Uganda $126m/1,800 Kampala cameras, Nigeria >$470m, Kenya $219m — and the absence of legal safeguards (IDS March-2026 report across 11 countries: no adequate framework, national-security exemptions gut existing data-protection law). Proposes pre-deployment accuracy testing on African faces, appeal mechanisms, named accountability. Cites EU AI Act's Feb-2025 real-time FR ban. External expert analysis. Attach: eu-ai-act, tech.ai/gov.protect. -->

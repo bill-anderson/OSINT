@@ -13,6 +13,7 @@ places: [CAF]
 topics: [infra.connect, include.divides]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 <!-- DataReportal Digital 2024 CAR baseline (early 2024): 616.6k internet users, 10.6% penetration; 159.5k social-media users (2.7% of population); 1.86m cellular mobile connections (32.0%). Population 5.83m (+3.0% y/y), 43.9% urban, median age 14.9. Internet users +18k (+3.0%) y/y; 5.21m (89.4%) offline. Standing reference figures for CAR's connectivity/inclusion gap — one of the lowest internet-penetration rates on the continent. -->

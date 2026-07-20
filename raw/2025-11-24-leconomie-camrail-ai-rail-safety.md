@@ -3,6 +3,9 @@ type: source
 title: Camrail adopte l'IA pour une expérience client optimisée
 url: https://leconomie.info/digitalisation-camrail-place-lia-au-coeur-de-la-surete-et-de-la-logistique/
 publisher: Le quotidien L'Economie
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Fadira Etonde
 published: 2025-11-24
 date_precision: day

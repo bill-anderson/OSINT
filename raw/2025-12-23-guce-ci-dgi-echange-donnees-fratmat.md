@@ -6,12 +6,14 @@ publisher: Fraternité Matin
 published: 2025-12-23
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [dpi.exchange, dpi.govtech]
 entities: [[guce-ci], [direction-generale-des-impots-cote-divoire]]
 lens: []
+body_completeness: full
 ---
 
 # Dynamisation du commerce extérieur : Le GUCE-CI et la Direction générale des impôts prêts à échanger leurs données

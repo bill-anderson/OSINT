@@ -1,9 +1,13 @@
 ---
 type: source
+date_precision: day
+date_source: source
 places: [RWA]
 topics: [include.divides, infra.connect, data.statistics]
 entities: []
 ingested: 2026-07-16
+lens: []
+body_completeness: full
 page: Digital 2024 - Rwanda
 title: Digital 2024 - Rwanda
 author: Simon Kemp (DataReportal / We Are Social / Meltwater)

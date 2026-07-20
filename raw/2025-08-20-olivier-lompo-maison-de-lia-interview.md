@@ -6,12 +6,14 @@ publisher: Sidwaya
 published: 2025-08-20
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: BFA-2026-07-17
 places: [BFA]
 topics: [tech.ai, capacity.research, tech.innovate, infra.cybersec]
 entities: [[olivier-lompo], [maison-de-lia-burkina-faso], [cil-burkina-faso]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Dr Olivier Lompo, enseignant-chercheur à l'Ecole polytechnique fédérale de Lausanne en Suisse: « Les Etats qui intègrent l'IA dans leurs politiques publiques prennent une longueur d'avance en compétitivité et en performance sociale »

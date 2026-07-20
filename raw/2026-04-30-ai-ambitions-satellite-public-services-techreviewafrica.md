@@ -6,12 +6,14 @@ publisher: Tech Review Africa
 published: 2026-04-30
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [tech.ai, data.satellite, infra.connect, digital.rural, dpi.govtech]
 entities: [[ministry-of-digital-transition-cote-divoire], [djibril-ouattara], [femua]]
 lens: [sovereignty]
+body_completeness: full
 provenance_flag: pr-wire
 primary_to_source: Ministry of Digital Transition and Technological Innovation communiqué on the minister's FEMUA 2026 launch address
 ---

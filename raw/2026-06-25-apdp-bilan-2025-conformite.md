@@ -3,6 +3,9 @@ type: source
 title: "Protection des données personnelles en 2025 au Bénin : l'Apdp dresse un bilan sous le signe de la conformité"
 url: https://www.lanation.bj/numerique/protection-des-donnees-personnelles-en-2025-au-benin-lapdp-dresse-un-bilan-sous-le-signe-de-la-conformite
 publisher: La Nation
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Christian HOUNONGBE
 published: 2026-06-25
 date_precision: day

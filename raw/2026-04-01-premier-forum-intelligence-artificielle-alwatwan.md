@@ -6,10 +6,12 @@ publisher: Al-Watwan
 published: 2026-04-01
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [COM]
 topics: [tech.ai, tech.innovate, gov.policy, include.access]
 entities: [[anaden], [anrtic], [actic], [university-of-comoros], [ministry-of-posts-telecoms-comoros]]
 lens: [sovereignty]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: COM-2026-07-17
 ---

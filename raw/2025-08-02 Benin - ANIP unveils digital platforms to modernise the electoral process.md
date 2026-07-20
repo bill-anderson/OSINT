@@ -13,6 +13,7 @@ places: [BEN]
 topics: [dpi.id, dpi.registry, dpi.govtech]
 entities: [[anip-benin]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Government source (31 Jul 2025 session, published ~2 Aug 2025): ANIP presented new versions of its digital platforms for the electoral process to parties + civil society. RNPP (Registre National des Personnes Physiques) affirmed as the SINGLE SOURCE of electoral data (per articles 41-42 of law 2017-08 of 19 Jun 2017). New features: find your NPI, view/change polling station, obtain voting documents; a USSD portal via *151# for those without smartphone/internet (digital inclusion); residence declaration; interoperability with the Register of Beninese Abroad for diaspora transfers. Electoral calendar: statistics to CENA 14 Jul 2025; definitive computerised electoral list (LEPI) displayed 12 Nov 2025; 2026 elections. DG ANIP: Aristide Guy Adjinacou Gnahoui. Feeds [[benin--dpi-id]]. -->

@@ -3,6 +3,8 @@ type: source
 title: "Starlink blocked from operating in Namibia"
 publisher: Connecting Africa
 url: https://www.connectingafrica.com/regulation/starlink-blocked-from-operating-in-namibia
+date_precision: day
+date_source: source
 author: Paula Gilbert
 published: 2026-03-26
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [NAM, ZAF]
 topics: [infra.connect, gov.legislate, gov.protect, include.divides, digital.rural]
 entities: [[starlink], [cran]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Namibia's CRAN denied Starlink's licence + spectrum (met 3 of 6 criteria). Failed: ownership/control (100% foreign, breaches the 51%-Namibian-ownership rule), national security (data sovereignty), compliance history. Nov 2024 CRAN issued cease-and-desist + terminal confiscation. Starlink claims 98.6% consultation support; >30% of Namibians lack internet. -->

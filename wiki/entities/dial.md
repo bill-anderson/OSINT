@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: organisation
 title: Digital Impact Alliance (DIAL)
 places: [XGL, XAF, ETH]

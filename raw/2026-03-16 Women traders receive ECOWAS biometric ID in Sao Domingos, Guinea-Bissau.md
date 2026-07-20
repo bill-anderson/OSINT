@@ -10,6 +10,7 @@ places: [GNB]
 topics: [dpi.id, gov.regional, include.access]
 entities: [[enbic], [ecowas]]
 lens: []
+body_completeness: full
 retrieved: 2026-07-17
 ingested: 2026-07-18
 sweep_batch: GNB-2026-07-17

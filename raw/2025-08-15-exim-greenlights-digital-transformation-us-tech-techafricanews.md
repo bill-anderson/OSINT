@@ -6,12 +6,14 @@ publisher: TechAfrica News
 published: 2025-08-15
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [finance.new, dpi.govtech, geopol.usa, geopol.china, infra.store]
 entities: [[cybastion], [us-exim-bank], [cisco], [amazon-web-services], [motorola-solutions], [microsoft], [james-cruse]]
 lens: []
+body_completeness: full
 provenance_flag: pr-wire
 primary_to_source: US EXIM Board of Directors transaction approval notice for the Côte d'Ivoire ministry digitalisation export (August 2025)
 ---

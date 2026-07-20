@@ -6,12 +6,14 @@ publisher: Linfodrome
 published: 2026-04-27
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [gov.legislate, gov.standards]
 entities: [[artci], [ansut], [anssi-cote-divoire], [agence-ivoirienne-de-gestion-des-frequences]]
 lens: []
+body_completeness: full
 ---
 
 # Régulation numérique : l'ARTCI et les opérateurs renforcent le cadre de conformité en Côte d'Ivoire

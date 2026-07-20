@@ -3,6 +3,9 @@ type: source
 title: Benin Expands Higher Education Access Through E-Learning Strategy
 url: https://www.wearetech.africa/en/fils-uk/news/tech/benin-expands-higher-education-access-through-e-learning-strategy
 publisher: We Are Tech Africa
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Samira Njoya
 published: 2026-07-06
 date_precision: day

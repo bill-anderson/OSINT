@@ -6,6 +6,7 @@ publisher: Vanguard
 published: 2025-11-28
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [NGA]
 topics: [tech.ai, capacity.training, geopol.usa]
 entities: [[google]]

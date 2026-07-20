@@ -3,6 +3,8 @@ type: source
 title: "Rich countries 'ran off and secured supplies' of Covid vaccines, says Africa envoy"
 publisher: The Guardian
 url: https://www.theguardian.com/global-development/2021/jun/24/rich-countries-deliberately-keeping-covid-vaccines-from-africa-says-envoy
+date_precision: day
+date_source: source
 author: Silence Charumbira
 published: 2021-06-24
 accessed: 2026-06-12
@@ -11,6 +13,7 @@ places: [XAF, XGL]
 topics: [gov.regional, geopol.usa, include.access]
 entities: [[strive-masiyiwa], [african-union]]
 lens: [colonialism, sovereignty]
+body_completeness: full
 ---
 
 <!-- Masiyiwa as AU envoy to the African Vaccine Acquisition Task Team: sharpest vaccine-inequity

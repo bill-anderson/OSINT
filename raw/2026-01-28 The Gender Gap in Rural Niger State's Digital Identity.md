@@ -3,6 +3,8 @@ type: source
 title: "The Gender Gap in Rural Niger State's Digital Identity"
 publisher: TechCity NG
 url: https://www.techcityng.com/the-gender-gap-in-rural-niger-states-digital-identity/
+date_precision: day
+date_source: source
 author: Anibe Idajili
 published: 2026-01-28
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [NGA]
 topics: [dpi.id, include.divides, include.access, digital.rural]
 entities: [[nimc], [world-bank], [nigeria-id4d]]
 lens: [colonialism]
+body_completeness: full
 ---
 
 <!-- As of June 2025 only 38.8% of enrolled NIN holders are women vs 61.1% men (22.3% gap, NIMC). Niger State: 21 NIN centres for ~7.5m; N3,000 transport cost a barrier; NIN required for maternal-care fund. Phone ownership 78% urban vs 42% rural women. (DPI Africa Journalism Fellowship.) -->

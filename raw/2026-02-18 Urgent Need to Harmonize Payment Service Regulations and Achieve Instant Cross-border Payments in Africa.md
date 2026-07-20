@@ -12,6 +12,7 @@ places: [XAF]
 topics: [dpi.pay, gov.regional, gov.legislate, gov.standards]
 entities: [[africanenda], [afcfta], [payment-service-directive-africa]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Urgent Need to Harmonize Payment Service Regulations and Achieve Instant Cross-border Payments in Africa - AfricaNenda Foundation

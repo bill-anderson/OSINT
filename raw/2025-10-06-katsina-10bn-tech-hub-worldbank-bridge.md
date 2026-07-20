@@ -6,6 +6,7 @@ publisher: We Are Tech Africa
 published: 2025-10-07
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [NGA]
 topics: [tech.innovate, finance.new, infra.connect]
 entities: [[project-bridge], [world-bank]]

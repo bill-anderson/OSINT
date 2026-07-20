@@ -13,6 +13,7 @@ places: [COG]
 topics: [gov.protect, gov.legislate]
 entities: [[national-personal-data-protection-commission-congo]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Merges 2 outlets (Cybersecurity Mag Africa + ACI, both 2024-07-05). The Council of Ministers approved (3 Jul 2024) a draft bill creating a National Personal Data Protection Commission (Commission Nationale de Protection des Données à Caractère Personnel); Minister Léon-Juste Ibombo presented it. Aims: strengthen legislation, build trust in digital services, ensure rigorous control of personal-data use. This is the JULY-2024 draft-law approval — the origin of the commission whose members were subsequently installed in January 2026 (see the existing commission entity). -->

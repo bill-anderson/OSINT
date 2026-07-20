@@ -11,6 +11,7 @@ places: [CPV]
 topics: [infra.cybersec, gov.protect, dpi.govtech]
 entities: [[nosi]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Cabo Verde launches national SOC and CSIRT

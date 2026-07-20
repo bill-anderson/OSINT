@@ -11,6 +11,7 @@ places: [ETH]
 topics: [dpi.id, dpi.pay, gov.protect]
 entities: [[national-bank-of-ethiopia], [fayda-ethiopia-national-id]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # NBE launches full integration of the Fayda digital ID with the banking system

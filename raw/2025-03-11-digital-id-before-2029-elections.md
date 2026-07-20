@@ -6,6 +6,7 @@ publisher: Biometric Update
 published: 2025-03-11
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [ZAF]
 topics: [dpi.id, gov.policy]
 entities: [[home-affairs-south-africa], [leon-schreiber]]

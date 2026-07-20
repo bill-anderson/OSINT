@@ -1,6 +1,7 @@
 ---
 type: source
 title: الجزائر تدشّن مركزا لليقظة والتنبيه والاستجابة للحوادث المعلوماتية
+ingested: 2026-07-18
 title_en: Algeria inaugurates a cyber-incident monitoring, alert and response centre (MPT-CERT)
 url: https://www.echoroukonline.com/%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1-%D8%AA%D8%AF%D8%B4%D9%91%D9%86-%D9%85%D8%B1%D9%83%D8%B2%D8%A7-%D9%84%D9%84%D9%8A%D9%82%D8%B8%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D9%86%D8%A8%D9%8A%D9%87-%D9%88
 publisher: Echorouk El Yawmi
@@ -15,6 +16,7 @@ topics: [infra.cybersec, gov.policy]
 entities: [[ministry-of-post-and-telecommunications-algeria], [mpt-cert], [sid-ali-zerrouki]]
 date_note: "Fixed at ingest: invalid place code KOR removed (South Korea not in countries.csv); geopol.china mis-tag removed (KOICA is South-Korean, and no geopol.korea slug exists — see ISSUE-014). Korea/KOICA cooperation noted in prose."
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # الجزائر تدشّن مركزا لليقظة والتنبيه والاستجابة للحوادث المعلوماتية

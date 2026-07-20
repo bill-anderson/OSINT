@@ -4,11 +4,14 @@ title: Joint Statement of the United States and African Union on the Launch of a
 url: https://www.state.gov/releases/office-of-the-spokesperson/2026/01/joint-statement-of-the-united-states-and-african-union-on-the-launch-of-a-strategic-investment-working-group
 publisher: U.S. Department of State
 published: 2026-01-28
+date_precision: day
+date_source: source
 ingested: 2026-07-10
 places: [XAF, ETH]
 topics: [geopol.usa, finance.mou, gov.regional, infra.connect, infra.energy, tech.industry]
 entities: [[us-auc-strategic-investment-working-group], [us-department-of-state], [african-union], [afcfta]]
 lens: [sovereignty, colonialism]
+body_completeness: full
 ---
 
 ![](https://www.state.gov/wp-content/uploads/2026/01/Image.jpeg)

@@ -6,12 +6,14 @@ publisher: ACTUALITE.CD
 published: 2025-06-26
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: COD-2026-07-17
 places: [COD]
 topics: [dpi.id, gov.policy, gov.standards, dpi.govtech]
 entities: [[rdc-pass], [trident-digital-tech], [augustin-kibassa-maliba], [tridentity], [netic-news]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 Le ministre des PTN, Augustin Kibassa.

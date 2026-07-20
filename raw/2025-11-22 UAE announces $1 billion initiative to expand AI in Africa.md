@@ -4,6 +4,8 @@ title: UAE announces $1 billion initiative to expand AI in Africa
 url: https://www.reuters.com/world/middle-east/uae-announces-1-billion-initiative-expand-ai-africa-2025-11-22/
 publisher: Reuters
 published: 2025-11-22
+date_precision: day
+date_source: source
 ingested: 2026-07-10
 places: [XAF, ZAF]
 topics: [tech.ai, finance.new, infra.capacity, infra.store, geopol.gulf]

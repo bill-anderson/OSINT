@@ -11,6 +11,7 @@ places: [CPV]
 topics: [dpi.govtech, gov.policy, include.divides]
 entities: [[digital-cabo-verde-project], [nosi]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Digital Transformation in Cabo Verde — The New Horizon (World Bank)

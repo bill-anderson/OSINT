@@ -6,12 +6,14 @@ publisher: MyJoyOnline
 published: 2026-07-15
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: GHA-2026-07-17
 places: [GHA]
 topics: [data.statistics]
 entities: [[ghana-statistical-service]]
 lens: []
+body_completeness: full
 ---
 # Finance Minister urges GSS to publish quarterly employment rate data
 

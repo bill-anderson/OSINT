@@ -6,10 +6,12 @@ publisher: We Are Tech Africa
 published: 2025-09-23
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [DJI]
 topics: [gov.regional, dpi.govtech, capacity.training, finance.mou]
 entities: []
 lens: []
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: DJI-2026-07-17
 ---

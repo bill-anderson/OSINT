@@ -6,12 +6,14 @@ publisher: Biometric Update
 published: 2026-03-23
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: LBR-2026-07-17
 places: [LBR]
 topics: [dpi.id, dpi.registry]
 entities: [[national-identification-registry-liberia], [great-project-liberia], [techno-brain], [osd-international], [world-bank]]
 lens: []
+body_completeness: full
 ---
 
 # Liberia's national ID issuance grinds to halt over $1.7M debt to service provider

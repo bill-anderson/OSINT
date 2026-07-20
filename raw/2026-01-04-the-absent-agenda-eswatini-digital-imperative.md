@@ -6,6 +6,7 @@ publisher: Independent News Eswatini
 published: 2026-01-04
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [SWZ]
 topics: [gov.policy, infra.connect, finance.new]
 entities: [[digital-eswatini-project], [world-bank], [eptc]]

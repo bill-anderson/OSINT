@@ -6,6 +6,7 @@ publisher: New Vision
 published: 2026-04-01
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [UGA]
 topics: [capacity.training, tech.ai, geopol.china]
 entities: [[nita-uganda]]

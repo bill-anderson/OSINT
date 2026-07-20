@@ -3,6 +3,8 @@ type: source
 title: "Kenya, India and Italy Launch Trilateral Sovereign AI Partnership for Africa"
 publisher: Ecofin Agency
 url: https://www.ecofinagency.com/kenya-india-and-italy-launch-trilateral-sovereign-ai-partnership/
+date_precision: day
+date_source: source
 author: Samira Njoya
 published: 2026-02-20
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [KEN, XAF]
 topics: [tech.ai, gov.regional, finance.mou, geopol.india, geopol.eu, capacity.research]
 entities: [[kenya-india-italy-sovereign-ai-partnership], [undp]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Kenya, India and Italy signed a letter of intent at the India AI Impact Summit (New Delhi, 19 Feb 2026) — target 100 AI deployment programs by 2030, multilingual voice AI for low-bandwidth settings; led by EkStep Foundation + Kenya's Directorate of Digital Economy + Italy's enterprise ministry, with UNDP; builds on the G7 AI Hub + Italy's Mattei Plan. Deal [[kenya-india-italy-sovereign-ai-partnership]]. -->

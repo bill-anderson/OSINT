@@ -13,6 +13,7 @@ places: [BFA]
 topics: [tech.innovate, data.statistics]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 <!-- COMPANION SOURCE PAGE for binary raw/2024-01-01 WIPO Global Innovation Index 2024 - Burkina Faso profile.pdf (date proxied to year). WIPO GII 2024 Burkina Faso: ranks 129th of 133 economies; 7th of 10 low-income economies; 23rd of 27 in Sub-Saharan Africa — near the bottom globally. Benchmark for BFA's weak innovation base. -->

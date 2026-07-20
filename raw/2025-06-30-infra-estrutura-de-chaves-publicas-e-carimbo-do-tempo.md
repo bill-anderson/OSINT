@@ -3,6 +3,8 @@ type: source
 title: Ministro anuncia criação de infra-estrutura das chaves públicas e do carimbo do tempo
 url: https://angop.ao/noticias/tecnologia/ministro-anuncia-criacao-de-infra-estrutura-da-chaves-publicas-e-carimbo-do-tempo/
 publisher: Angop
+lens: []
+body_completeness: full
 author: GIZ/MAG
 published: 2025-06-30
 date_precision: day

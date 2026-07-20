@@ -3,6 +3,9 @@ type: source
 title: Demand for data, broadband push BTC revenue up
 url: https://www.mmegi.bw/business/demand-for-data-broadband-push-btc-revenue-up/news
 publisher: Mmegi
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Lewanika Timothy
 published: 2025-07-01
 date_precision: day

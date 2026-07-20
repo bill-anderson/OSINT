@@ -13,6 +13,7 @@ places: [ZAF, MUS, TUN, MAR, SYC, EGY, XAF]
 topics: [dpi.govtech, data.statistics, gov.regional]
 entities: [[un-egdi]]
 lens: []
+body_completeness: full
 ---
 
 *Tag fix + fold-in, 2026-07-17 (TUN·TZA·UGA batch): this page was tagged `places: [MUS]` alone

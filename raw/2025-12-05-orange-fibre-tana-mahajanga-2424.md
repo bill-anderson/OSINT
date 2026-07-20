@@ -6,10 +6,12 @@ publisher: 2424.mg
 published: 2025-12-05
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [MDG]
 topics: [infra.connect]
 entities: [[orange]]
 lens: []
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: MDG-2026-07-17
 ---

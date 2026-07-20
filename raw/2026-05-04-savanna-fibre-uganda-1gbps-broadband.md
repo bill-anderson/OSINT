@@ -6,6 +6,7 @@ publisher: ITWeb Africa
 published: 2026-05-04
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [UGA]
 topics: [infra.connect]
 entities: [[savanna-fibre-uganda]]

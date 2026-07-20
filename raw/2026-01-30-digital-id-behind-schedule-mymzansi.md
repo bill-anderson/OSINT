@@ -6,6 +6,7 @@ publisher: Biometric Update
 published: 2026-01-30
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [ZAF]
 topics: [dpi.id, dpi.govtech, gov.policy]
 entities: [[home-affairs-south-africa], [mymzansi]]

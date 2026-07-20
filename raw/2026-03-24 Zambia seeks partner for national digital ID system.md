@@ -3,6 +3,8 @@ type: source
 title: "Zambia seeks partner for national digital ID system"
 publisher: Channel Africa
 url: https://www.channelafrica.co.za/channelafrica/news/zambia-seeks-partner-for-national-digital-id-system/
+date_precision: day
+date_source: source
 author: Asanda Zondi
 published: 2026-03-24
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [ZMB]
 topics: [dpi.id, dpi.registry, dpi.govtech, finance.new]
 entities: [[smart-zambia-institute], [dzap], [world-bank]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Short brief: Zambia (Smart Zambia Institute) seeking an international partner for its national digital ID under the Digital Zambia Acceleration Project (DZAP; $100m World Bank grant); completion targeted 2026. Same event as the MOSIP-integrator item. (Source date scraped as time-only; dated to the sibling report.) -->

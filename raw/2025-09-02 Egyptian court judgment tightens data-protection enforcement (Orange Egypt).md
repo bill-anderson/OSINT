@@ -11,6 +11,7 @@ places: [EGY]
 topics: [gov.protect, gov.legislate, infra.cybersec]
 entities: [[egypt-pdpl]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Egyptian court judgment tightens data-protection enforcement (Orange Egypt, EGP 10m)

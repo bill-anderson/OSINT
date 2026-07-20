@@ -6,6 +6,7 @@ publisher: NewsDay
 published: 2025-07-14
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [ZWE]
 topics: [dpi.id, dpi.registry, include.access, digital.rural]
 entities: [[civil-registry-department-zimbabwe], [unicef]]

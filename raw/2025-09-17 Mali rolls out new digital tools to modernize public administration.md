@@ -12,6 +12,7 @@ places: [MLI]
 topics: [dpi.govtech, dpi.id, dpi.registry, include.access]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 Mali's Prime Minister Abdoulaye Maiga attended on 16 September 2025 the presentation of new digital solutions for three ministries — Transport, Health and Territorial Administration — created by local companies to modernise public administration.

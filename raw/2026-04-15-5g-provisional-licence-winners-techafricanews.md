@@ -13,6 +13,7 @@ places: [MRT]
 topics: [infra.connect, tech.industry]
 entities: [[are-mauritania], [mauritel], [mattel], [chinguitel], [rimatel]]
 lens: []
+body_completeness: full
 ---
 
 # Mauritania — 5G provisional licence winners named (ARE)

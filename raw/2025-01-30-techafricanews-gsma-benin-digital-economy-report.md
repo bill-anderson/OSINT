@@ -3,6 +3,9 @@ type: source
 title: GSMA Report Highlights Digitalisation's Role in Benin's Economic Growth
 url: https://techafricanews.com/2025/01/30/gsma-report-highlights-digitalisations-role-in-benins-economic-growth
 publisher: TechAfrica News
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Aayushya Ranjan
 published: 2025-01-30
 date_precision: day

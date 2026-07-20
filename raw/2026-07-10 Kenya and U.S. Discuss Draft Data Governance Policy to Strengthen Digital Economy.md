@@ -3,6 +3,8 @@ type: source
 title: Kenya and U.S. Discuss Draft Data Governance Policy to Strengthen Digital Economy
 url: https://techafricanews.com/2026/07/10/kenya-and-u-s-discuss-draft-data-governance-policy-to-strengthen-digital-economy/
 publisher: TechAfrica News
+date_precision: day
+date_source: proxy
 author: Jennifer Onyeagoro
 published: 2026-07-10
 ingested: 2026-07-10
@@ -10,6 +12,7 @@ places: [KEN]
 topics: [gov.policy, gov.protect, dpi.exchange, gov.standards, geopol.usa]
 entities: [[us-department-of-state]]
 lens: [sovereignty]
+body_completeness: full
 ---
 Kenya has stepped up efforts to strengthen its digital governance framework following high-level discussions on the country’s Draft Data Governance Policy (2026) with officials from the United States Embassy.
 

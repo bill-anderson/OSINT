@@ -11,6 +11,7 @@ places: [EGY]
 topics: [gov.policy, dpi.govtech, tech.industry]
 entities: [[egypt-vision-2030]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Egypt Vision 2030 — National Agenda for Sustainable Development (updated)

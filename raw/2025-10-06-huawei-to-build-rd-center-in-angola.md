@@ -14,6 +14,7 @@ places: [AGO]
 topics: [geopol.china, tech.ai, capacity.training, capacity.research, include.divides, finance.new]
 entities: [[huawei]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 Chinese multinational Huawei has announced plans to establish a research and development (R&D) center in Angola, aimed at advancing digital inclusion across the country.

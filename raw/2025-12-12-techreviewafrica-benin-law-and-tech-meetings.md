@@ -3,6 +3,7 @@ type: source
 title: Benin hosts first Law and Tech Meetings to promote AI regulation and data governance
 url: https://techreviewafrica.com/news/3444/benin-hosts-first-law-and-tech-meetings-to-promote-ai-regulation-and-data-governance
 publisher: Tech Review Africa
+ingested: 2026-07-18
 author: Kanto Kai Okanta
 published: 2025-12-12
 date_precision: day
@@ -13,6 +14,7 @@ places: [BEN]
 topics: [tech.ai, gov.legislate, gov.protect, dpi.exchange, gov.policy]
 entities: [[asin], [apdp-benin], [mtn-benin], [isocel]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Provenance note: Tech Review Africa is a byline-free PR wire (README source table). Published date established from the page's own "Date:" line at fetch time — Exa served no date, and the search-result context implied 2026. Sourcing the underlying ASIN announcement would be preferable at ingest. -->

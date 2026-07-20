@@ -12,6 +12,7 @@ places: [SLE]
 topics: [dpi.id, gov.legislate]
 entities: [[ncra]]
 lens: []
+body_completeness: full
 ---
 
 # Government Extends Deadline for Obtaining National Identity Cards

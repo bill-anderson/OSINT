@@ -3,6 +3,7 @@ type: source
 title: "Transformation digitale et communications électroniques: un résultat jugé satisfaisant de plus de 85% pour 2025"
 url: https://www.sidwaya.info/transformation-digitale-et-communications-electroniques-un-resultat-juge-satisfaisant-de-plus-de-85-pour-2025/
 publisher: Sidwaya
+ingested: 2026-07-18
 author: Oumarou RABO
 published: 2026-03-24
 date_precision: day
@@ -13,6 +14,7 @@ places: [BFA]
 topics: [dpi.govtech, infra.connect, infra.store, dpi.id, include.divides, digital.rural, gov.policy]
 entities: [[aminata-zerbo-sabane]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Transformation digitale et communications électroniques: un résultat jugé satisfaisant de plus de 85% pour 2025

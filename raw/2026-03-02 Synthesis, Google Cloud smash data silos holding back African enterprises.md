@@ -3,6 +3,8 @@ type: source
 title: "Synthesis, Google Cloud smash data silos holding back African enterprises"
 publisher: TechCentral
 url: https://techcentral.co.za/synthesis-google-cloud-smash-data-silos/278372/
+date_precision: day
+date_source: source
 author: Digicloud Africa
 published: 2026-03-02
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [ZAF, XAF]
 topics: [infra.store, tech.ai, dpi.exchange, gov.protect]
 entities: [[google]]
 lens: []
+body_completeness: full
 ---
 
 <!-- *** Sponsored/promoted content. *** Synthesis (a Digicloud Africa / Google Cloud partner) uses Google Cloud (BigQuery/Looker/Gemini Enterprise) to build enterprise data platforms; reiterates Google Cloud's ~$1bn Africa investment. Low weight; backfill/context to [[google]]. -->

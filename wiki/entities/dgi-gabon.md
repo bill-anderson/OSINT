@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: government-body
 title: DGI Gabon (Direction Générale des Impôts)
 places: [GAB]

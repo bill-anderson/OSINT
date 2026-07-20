@@ -1,6 +1,7 @@
 ---
 type: source
 title: الجزائر تدخل رسمياً عصر الجيل الخامس
+ingested: 2026-07-18
 title_en: ARPCE opens tender for three 5G mobile licences
 url: https://www.echoroukonline.com/%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1-%D8%AA%D8%AF%D8%AE%D9%84-%D8%B1%D8%B3%D9%85%D9%8A%D8%A7%D9%8B-%D8%B9%D8%B5%D8%B1-%D8%A7%D9%84%D8%AC%D9%8A%D9%84-%D8%A7%D9%84%D8%AE%D8%A7%D9%85%D8%B3
 publisher: Echorouk El Yawmi
@@ -14,6 +15,7 @@ places: [DZA]
 topics: [infra.connect, gov.legislate, tech.industry]
 entities: [[arpce, ministere-de-la-poste-et-des-telecommunications]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # الجزائر تدخل رسمياً عصر الجيل الخامس

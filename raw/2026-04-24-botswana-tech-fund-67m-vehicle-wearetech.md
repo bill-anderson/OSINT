@@ -3,6 +3,9 @@ type: source
 title: Botswana Tech Fund Debuts $67.5 Million Vehicle for Southern African Startups
 url: https://www.wearetech.africa/en/fils-uk/news/tech/botswana-tech-fund-debuts-67-5-million-vehicle-for-southern-african-startups
 publisher: We Are Tech Africa
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Samira Njoya
 published: 2026-04-24
 date_precision: day

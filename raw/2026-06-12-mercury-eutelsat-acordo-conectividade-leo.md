@@ -3,6 +3,8 @@ type: source
 title: Mercury reforça oferta de conectividade em Angola com novo acordo com a Eutelsat
 url: https://angop.ao/noticias/economia/mercury-reforca-oferta-de-conectividade-em-angola-com-novo-acordo-com-a-eutelsat/
 publisher: Angop
+lens: []
+body_completeness: full
 author: ACC/CS
 published: 2026-06-12
 date_precision: day

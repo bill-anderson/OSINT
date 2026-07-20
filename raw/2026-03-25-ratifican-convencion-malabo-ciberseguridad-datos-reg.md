@@ -6,12 +6,14 @@ publisher: Revista Real Equatorial Guinea
 published: 2026-03-25
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: GNQ-2026-07-17
 places: [GNQ]
 topics: [gov.protect, infra.cybersec, gov.regional, gov.legislate]
 entities: [[malabo-convention]]
 lens: []
+body_completeness: full
 ---
 
 On 25 March 2026 the Chamber of Deputies approved ratification of the **African Union Convention on Cybersecurity and Personal Data Protection (Malabo Convention)** — together with the Convention establishing the International Organisation for Mediation — after the Foreign Affairs and Treaties Committee report. Both instruments were defended by Minister of State for Foreign Affairs Simeón Oyono Esono Angue, who framed them within a foreign policy aimed at reinforcing sovereignty, legal certainty and institutional modernisation. The AU convention establishes a common legal framework to regulate electronic transactions, protect personal data and combat cybercrime, and promotes harmonisation of African legislation. Ratification was approved unanimously (session chaired by Chamber president Salomón Nguema Owono).

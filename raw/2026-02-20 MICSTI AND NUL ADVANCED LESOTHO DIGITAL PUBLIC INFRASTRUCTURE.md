@@ -3,6 +3,8 @@ type: source
 title: "MICSTI and NUL advance Lesotho Digital Public Infrastructure"
 publisher: Government of Lesotho
 url: https://www.gov.ls/ict/micsti-and-nul-advanced-lesotho-digital-public-infrastructure/
+date_precision: day
+date_source: source
 author: Masekoche Ncheke
 published: 2026-02-20
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [LSO]
 topics: [dpi.exchange, dpi.id, dpi.govtech, dpi.mis]
 entities: [[micsti-lesotho], [mosip]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Lesotho's MICSTI met the National University of Lesotho to review DPI progress; three systems presented: X-Road (govt interoperability), MOSIP (biometric digital ID), and a Decision Support System for planning/budgeting. -->

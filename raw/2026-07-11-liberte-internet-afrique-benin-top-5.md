@@ -3,6 +3,7 @@ type: source
 title: "Liberté Internet en Afrique : Le Bénin dans le top 5 du classement 2026"
 url: https://fraternite.bj/liberte-internet-en-afrique-le-benin-dans-le-top-5-du-classement-2026/
 publisher: Fraternité
+ingested: 2026-07-18
 author: Alexia Lumière-Christina ADJOU-MOUMOUNI
 published: 2026-07-11
 date_precision: day
@@ -13,6 +14,7 @@ places: [BEN]
 topics: [infra.connect, include.access, data.statistics]
 entities: [[cloudwards]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Liberté Internet en Afrique : Le Bénin dans le top 5 du classement 2026

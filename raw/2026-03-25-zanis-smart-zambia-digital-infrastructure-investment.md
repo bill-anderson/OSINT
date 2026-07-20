@@ -10,6 +10,7 @@ ingested: 2026-07-20
 places: [ZMB]
 topics: [dpi.govtech, infra.connect, finance.new, gov.policy, digital.localgov, dpi.pay]
 entities: [[smart-zambia-institute], [percy-chinyama], [kasali-musenge], [zesco]]
+lens: []
 body_completeness: full
 ---
 

@@ -6,11 +6,12 @@ publisher: Al Chourouk (جريدة الشروق التونسية)
 published: 2026-06-11
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [TUN]
 topics: [dpi.mis, dpi.registry, dpi.id]
 entities: [[ministry-of-health-tunisia]]
 lens: []
-body_completeness: headline-only
+body_completeness: excerpt
 retrieved: 2026-07-17
 sweep_batch: TUN-2026-07-17
 ---

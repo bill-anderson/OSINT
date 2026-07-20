@@ -6,12 +6,14 @@ publisher: Revista Real Equatorial Guinea
 published: 2026-05-06
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: GNQ-2026-07-17
 places: [GNQ]
 topics: [infra.connect, gov.regional]
 entities: [[gitge]]
 lens: []
+body_completeness: full
 ---
 
 **GITGE** (Gestor de Infraestructuras de Telecomunicaciones de Guinea Ecuatorial) hosted, 4–8 May 2026 in Malabo, the **36th meeting of the Operation & Maintenance Committee (O&MSC) of the Africa Coast to Europe (ACE) consortium** — one of the continent's most important submarine-cable systems — gathering telecom operators from African and European member countries that own the ACE cable. The agenda covered network-performance analysis, operational coordination and international cooperation on the ACE system.

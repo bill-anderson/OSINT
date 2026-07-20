@@ -3,6 +3,9 @@ type: source
 title: Dutch, US firms to develop solar-powered data centre in Palapye
 url: https://www.mmegi.bw/business/dutch-us-firms-to-develop-solar-powered-data-centre-in-palapye/news
 publisher: Mmegi
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Pauline Dikuelo
 published: 2025-10-06
 date_precision: day

@@ -3,6 +3,7 @@ type: source
 title: "Burkina Faso : L'ABDI relance l'offensive en faveur de l'adoption de l'IPv6, pour un internet de nouvelle génération"
 url: https://lefaso.net/spip.php?article147597
 publisher: leFaso.net
+ingested: 2026-07-18
 author: Hanifa Koussoubé
 published: 2026-07-03
 date_precision: day
@@ -13,6 +14,7 @@ places: [BFA]
 topics: [infra.connect, infra.capacity, infra.cybersec, gov.standards, gov.policy, capacity.training, tech.ai]
 entities: [[alliance-burkinabe-des-domaines-internet], [arcep-burkina-faso], [moov-africa-burkina-faso], [ministere-de-la-transition-digitale-des-postes-et-des-communications-electroniques-burkina-faso]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Burkina Faso : L'ABDI relance l'offensive en faveur de l'adoption de l'IPv6, pour un internet de nouvelle génération

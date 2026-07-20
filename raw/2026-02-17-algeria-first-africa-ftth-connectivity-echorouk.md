@@ -1,6 +1,7 @@
 ---
 type: source
 title: الجزائر الأولى إفريقيا في مجال الربط بالإنترنت عالي التدفق
+ingested: 2026-07-18
 title_en: Algeria ranks first in Africa for FTTH high-speed connectivity (3m households)
 url: https://www.echoroukonline.com/%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1-%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89-%D8%A5%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A7-%D9%81%D9%8A-%D9%85%D8%AC%D8%A7%D9%84-%D8%A7%D9%84%D8%B1%D8%A8%D8%B7-%D8%A8
 publisher: Echorouk El Yawmi
@@ -14,6 +15,7 @@ places: [DZA]
 topics: [infra.connect, include.access, data.statistics]
 entities: [[ministere-de-la-poste-et-des-telecommunications, algerie-telecom]]
 lens: []
+body_completeness: full
 ---
 
 # الجزائر الأولى إفريقيا في مجال الربط بالإنترنت عالي التدفق

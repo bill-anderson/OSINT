@@ -12,6 +12,7 @@ places: [UGA]
 topics: [dpi.id, dpi.registry, tech.industry, include.access, include.divides, geopol.gulf, infra.cybersec]
 entities: [[nira-uganda], [mosip], [tahaluf], [tech5], [ndaga-muntu], [claire-ollama], [rosemary-kisembo]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 *THE ORIGIN ACCOUNT for the 28m-migration fact. The wiki previously held that fact only second-hand, as a passing clause in the 2026-05-22 prototype-programme source — which hyperlinks to THIS article. The UGA hub's two '>28m' citations should be re-anchored here. The buried lede is the enrolment split: renewals 14.3m of 15.8m (90.5%) against first-time enrolments of only 6.4m of 17.2m (37.3%), with 10.1m cards printed but only 2.5m collected.*

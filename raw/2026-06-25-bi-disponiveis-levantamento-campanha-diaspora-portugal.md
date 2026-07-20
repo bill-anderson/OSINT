@@ -6,6 +6,7 @@ publisher: Magazine Santomensidade
 published: 2026-06-25
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [STP]
 topics: [dpi.id, dpi.registry]
 entities: [[dgrn]]

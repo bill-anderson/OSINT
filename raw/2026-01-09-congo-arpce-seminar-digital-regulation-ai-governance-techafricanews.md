@@ -3,6 +3,7 @@ type: source
 title: Congo Hosts Strategic Seminar on Digital Regulation and AI Governance
 url: https://techafricanews.com/2026/01/09/congo-hosts-strategic-seminar-on-digital-regulation-and-ai-governance/
 publisher: TechAfrica News
+ingested: 2026-07-18
 author: Kay-Lyne Wolfenden
 published: 2026-01-09
 date_precision: day
@@ -11,6 +12,7 @@ places: [COG]
 topics: [tech.ai, gov.legislate, gov.policy, dpi.pay, data.satellite, gov.standards]
 entities: [[arpce-congo]]
 lens: [sovereignty]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: COG-2026-07-17
 ---

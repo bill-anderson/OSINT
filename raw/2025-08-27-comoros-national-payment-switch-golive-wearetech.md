@@ -6,12 +6,14 @@ publisher: We Are Tech Africa
 published: 2025-08-27
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: COM-2026-07-17
 places: [COM]
 topics: [dpi.pay, include.access, include.divides]
 entities: [[paylogic], [bcc-comoros], [world-bank]]
 lens: []
+body_completeness: full
 ---
 
 # Comoros Adopts a National System for Digital Payments

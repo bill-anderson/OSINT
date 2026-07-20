@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: initiative
 title: NISSA (National Information System for Social Assistance, Lesotho)
 places: [LSO]

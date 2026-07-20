@@ -14,6 +14,7 @@ places: [AGO]
 topics: [gov.protect, gov.legislate, gov.policy, gov.regional, tech.ai]
 entities: [[apd-angola], [amaro-figueiredo], [unesco], [smart-africa], [palop]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Nova Lei de Protecção de Dados pode vigorar no próximo ano legislativo

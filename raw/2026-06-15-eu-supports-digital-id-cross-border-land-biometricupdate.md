@@ -6,6 +6,7 @@ publisher: Biometric Update
 published: 2026-06-15
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [KEN]
 topics: [dpi.id, dpi.registry, geopol.eu, gov.regional]
 entities: [[european-union], [maisha-namba]]

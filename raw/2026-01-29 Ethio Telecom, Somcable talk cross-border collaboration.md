@@ -3,6 +3,8 @@ type: source
 title: "Ethio Telecom, Somcable talk cross-border collaboration"
 publisher: Connecting Africa
 url: https://www.connectingafrica.com/connectivity/ethio-telecom-somcable-talk-cross-border-collaboration
+date_precision: day
+date_source: source
 author: Matshepo Sehloho
 published: 2026-01-29
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [ETH, SOM]
 topics: [infra.connect, gov.regional, finance.mou]
 entities: [[ethio-telecom], [somcable]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Ethio Telecom (CEO Frehiwot Tamru) and Somcable (Somaliland) in talks on a cross-border digital/telecom partnership (~29 Jan 2026). Talks only, no signed deal. (Somaliland has no ISO code -> mapped to SOM; note political sensitivity.) -->

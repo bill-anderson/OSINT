@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: government-body
 title: Reserve Bank of Zimbabwe (RBZ)
 places: [ZWE]

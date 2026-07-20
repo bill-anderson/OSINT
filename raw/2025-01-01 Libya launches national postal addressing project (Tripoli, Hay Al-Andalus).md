@@ -13,6 +13,7 @@ places: [LBY]
 topics: [dpi.registry, digital.localgov, infra.connect]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 <!-- Year-proxy 2025. Libya Post began installing street address signs in Hay Al-Andalus district, Tripoli, as part of a nationwide plan to modernize the postal system. First phase: assign official addresses to 42,000 buildings. Aims to streamline postal services, improve location accuracy, enhance service quality — part of broader national-infrastructure development + more efficient public services. -->

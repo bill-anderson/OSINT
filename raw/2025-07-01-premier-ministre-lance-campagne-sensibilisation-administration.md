@@ -6,12 +6,14 @@ publisher: Sidwaya
 published: 2025-07-01
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: BFA-2026-07-17
 places: [BFA]
 topics: [gov.protect, gov.legislate, capacity.training, infra.cybersec]
 entities: [[cil-burkina-faso], [halguieta-nassa], [rimtalba-jean-emmanuel-ouedraogo]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Protection des données à caractère personnel: le Premier ministre sonne la mobilisation au sein de l'Administration

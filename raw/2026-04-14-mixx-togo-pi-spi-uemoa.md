@@ -6,6 +6,7 @@ publisher: Togo First
 published: 2026-04-14
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [TGO, XWA]
 topics: [dpi.pay, gov.regional, dpi.exchange]
 entities: [[bceao], [mixx-togo], [yas-togo]]

@@ -6,12 +6,14 @@ publisher: Fraternité Matin
 published: 2026-04-15
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [dpi.govtech]
 entities: [[observatoire-fluidite-transports], [cntig]]
 lens: []
+body_completeness: full
 ---
 
 # Fluidité des transports : Une nouvelle plateforme pour accompagner les acteurs

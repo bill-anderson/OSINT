@@ -3,6 +3,7 @@ type: source
 title: "Identification électronique des personnes : le programme WURI sensibilise à Bobo-Dioulasso"
 url: https://www.sidwaya.info/identification-electronique-des-personnes-le-programme-wuri-sensibilise-a-bobo-dioulasso/
 publisher: Sidwaya
+ingested: 2026-07-18
 author: Adaman Drabo; Jessica Rabo
 published: 2025-08-21
 date_precision: day
@@ -13,6 +14,7 @@ places: [BFA]
 topics: [dpi.id, gov.protect, infra.store, include.access, gov.legislate]
 entities: [[wuri-programme], [oni-burkina-faso]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Identification électronique des personnes: le programme WURI sensibilise à Bobo-Dioulasso

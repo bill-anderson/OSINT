@@ -3,6 +3,8 @@ type: source
 title: Rwanda Is Counting Everything—and Changing in the Process
 url: https://www.ktpress.rw/2026/04/rwanda-is-counting-everything-and-changing-in-the-process/
 publisher: KT Press
+ingested: 2026-07-19
+lens: []
 author: Stephen Kamanzi
 published: 2026-04-21
 date_precision: day

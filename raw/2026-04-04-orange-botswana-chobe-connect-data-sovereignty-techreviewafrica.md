@@ -3,6 +3,7 @@ type: source
 title: Orange Botswana highlights digital infrastructure as key to regional economic integration
 url: https://techreviewafrica.com/news/4730/orange-botswana-highlights-digital-infrastructure-as-key-to-regional-economic-integration
 publisher: Tech Review Africa
+ingested: 2026-07-18
 author: Nana Appiah Acquaye
 published: 2026-04-04
 date_precision: day
@@ -13,6 +14,7 @@ places: [BWA]
 topics: [infra.connect, infra.store, gov.regional, include.access, capacity.training]
 entities: [[orange-botswana], [nene-maiga], [sadc]]
 lens: [sovereignty]
+body_completeness: full
 pr_wire: true   # Tech Review Africa is a byline-light PR wire (README source table); verify against the primary at ingest
 ---
 

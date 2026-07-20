@@ -6,12 +6,14 @@ publisher: Telecom Review Africa
 published: 2025-05-05
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 places: [DZA]
 topics: [infra.connect, infra.capacity, tech.industry, geopol.china]
 entities: [[algerie-telecom], [huawei], [ministry-of-post-and-telecommunications-algeria], [sid-ali-zerrouki], [adel-bentoumi], [high-commission-digitalisation-algeria], [meriem-benmouloud]]
 lens: []
+body_completeness: full
 ---
 
 Algérie Télécom celebrated a milestone moment—its 22nd anniversary—alongside two major achievements: connecting more than two million households to its fiber-to-the-home (FTTH) network and launching WiFi 7 at the iconic Hotel Aurassi, a regional first that further cements Algeria's place on the international tech stage.

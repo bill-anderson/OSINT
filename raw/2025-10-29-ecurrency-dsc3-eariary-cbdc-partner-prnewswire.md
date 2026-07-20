@@ -6,10 +6,12 @@ publisher: PR Newswire (eCurrency Mint)
 published: 2025-10-29
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [MDG]
 topics: [dpi.pay]
 entities: [[e-ariary], [ecurrency-mint]]
 lens: []
+body_completeness: full
 provenance_flag: pr-wire
 retrieved: 2026-07-17
 sweep_batch: MDG-2026-07-17

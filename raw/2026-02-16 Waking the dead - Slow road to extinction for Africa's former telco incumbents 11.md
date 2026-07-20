@@ -3,6 +3,8 @@ type: source
 title: "Waking the dead - Slow road to extinction for Africa's former telco incumbents #11"
 publisher: Russell Southwood (Substack)
 url: "https://russellsouthwood.substack.com/p/waking-the-dead-slow-road-to-extinction"
+date_precision: day
+date_source: source
 author: Russell Southwood
 published: 2026-02-16
 accessed: 2026-07-12
@@ -11,6 +13,7 @@ places: [KEN, TCD, GMB, CMR, COD, ETH, ZMB, BEN]
 topics: [tech.industry, infra.connect, gov.policy]
 entities: [[russell-southwood], [ethio-telecom], [orange], [safaricom], [vodacom], [airtel-africa], [world-bank], [huawei], [g42], [african-development-bank], [european-union]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Analysis: former govt fixed-line incumbents (Telkom Kenya, Sotel Tchad, Gamtel, Camtel, SCPT/DRC) as "stranded assets" from failed vision/capital/skills/patronage; only Camtel profitable via protected wholesale/landing-station monopolies. NB "Helios" here = Helios Investment Partners (PE buyer of Telkom Kenya), NOT helios-towers — do NOT attach helios-towers. Attach: orange/safaricom/world-bank (Telkom Kenya), airtel-africa (Sotel corridor), g42 (SCPT/Benya). Incumbent profiles not created (Southwood-scope). -->

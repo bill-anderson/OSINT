@@ -10,6 +10,8 @@ ingested: 2026-07-17
 places: [ZMB]
 topics: [infra.connect, include.divides, include.access, data.statistics, digital.rural]
 entities: [[datareportal]]
+lens: []
+body_completeness: full
 ---
 
 *Its 33.0% internet penetration (Jan 2025) sits between the held DZAP PAD's ~21 per 100 and UNDP's 56.8% — three figures, almost certainly three definitions. See reviews/contradictions/open/zambia-internet-penetration. The notable datum is the fixed median download FALLING 38.0% YoY to 16.50 Mbps, which corroborates the held drought/load-shedding thread.*

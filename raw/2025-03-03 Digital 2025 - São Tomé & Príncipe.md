@@ -12,6 +12,7 @@ places: [STP]
 topics: [include.access, infra.connect]
 entities: [[datareportal], [gsma], [kepios]]
 lens: []
+body_completeness: full
 ---
 
 # Digital 2025: São Tomé & Príncipe

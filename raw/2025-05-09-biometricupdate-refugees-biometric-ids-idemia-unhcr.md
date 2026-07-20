@@ -6,6 +6,7 @@ publisher: Biometric Update
 published: 2025-05-09
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [TCD]
 topics: [dpi.id, dpi.registry, include.access, geopol.eu]
 entities: [[anats], [cnarr-chad], [unhcr], [idemia], [world-bank]]

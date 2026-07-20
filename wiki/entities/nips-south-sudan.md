@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: initiative
 title: National Instant Payment System (NIPS) — South Sudan
 places: [SSD]

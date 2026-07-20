@@ -6,12 +6,14 @@ publisher: Revista Real Equatorial Guinea
 published: 2026-04-03
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: GNQ-2026-07-17
 places: [GNQ]
 topics: [infra.connect, gov.regional]
 entities: []
 lens: [sovereignty]
+body_completeness: full
 ---
 
 On 3 April 2026 the international firm **Analysys Mason** presented to the government (Palacio del Pueblo, Malabo; chaired by VP Teodoro Nguema Obiang Mangue) a technical study on options to improve Equatorial Guinea's international internet connection. The study (begun 2023) concludes GNQ needs to reinforce its connection to high-capacity international networks for a more stable service; current technical problems — especially with the **ASD cable** — keep degrading quality.

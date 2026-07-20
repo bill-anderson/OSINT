@@ -3,6 +3,8 @@ type: source
 title: "Microsoft secures land for future South Africa data centre growth"
 publisher: Joburg ETC (via MyBroadband)
 url: https://www.joburgetc.com/business/microsoft-south-africa-data-centres-growth/
+date_precision: day
+date_source: source
 author: Chiraag Davechand
 published: 2026-04-15
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [ZAF]
 topics: [infra.store, infra.energy, tech.ai, capacity.training, capacity.literacy]
 entities: [[microsoft], [microsoft-sa-2026-expansion]]
 lens: []
+body_completeness: excerpt
 ---
 
 <!-- Same R5.4bn SA investment (earliest of the pair, 2026-04-15): land for DC growth + power/water readiness; skill 1m South Africans, pay 50,000 certification exams; Jan 2026 SABC+ collaboration. Original source MyBroadband. -->

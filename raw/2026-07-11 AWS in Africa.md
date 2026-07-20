@@ -4,7 +4,8 @@ title: "AWS in Africa"
 publisher: Amazon Web Services
 url: https://aws.amazon.com/local/africa/
 author: unknown
-published: unknown
+published: 2026-07-11
+date_precision: day
 date_source: proxy
 accessed: 2026-07-11
 ingested: 2026-07-11

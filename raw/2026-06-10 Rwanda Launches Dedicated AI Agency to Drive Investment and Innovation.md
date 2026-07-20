@@ -4,11 +4,14 @@ title: Rwanda Launches Dedicated AI Agency to Drive Investment and Innovation
 url: https://www.wearetech.africa/en/fils-uk/news/tech/rwanda-launches-dedicated-ai-agency-to-drive-investment-and-innovation
 publisher: We Are Tech Africa
 published: 2026-06-10
+date_precision: day
+date_source: source
 ingested: 2026-07-10
 places: [RWA, XEA, XAF]
 topics: [tech.ai, gov.policy, gov.legislate, finance.new, capacity.training, capacity.research]
 entities: [[rwanda-national-ai-agency], [paula-ingabire]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 - **Rwanda’s Cabinet approved the creation of a National Artificial Intelligence Agency on June 8 to accelerate AI development, adoption, investment and governance.**

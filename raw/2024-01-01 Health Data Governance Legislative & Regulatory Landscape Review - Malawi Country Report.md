@@ -13,6 +13,7 @@ places: [MWI]
 topics: [gov.protect, dpi.mis, gov.legislate]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 Transform Health country report (2024; with Research ICT Solutions and Baker Botts) reviewing Malawi's legislative and regulatory landscape for health data governance, part of a multi-country series aimed at harnessing digital technology and data for universal health coverage by 2030.

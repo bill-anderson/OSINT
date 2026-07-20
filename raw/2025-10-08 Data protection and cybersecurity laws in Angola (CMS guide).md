@@ -13,6 +13,7 @@ places: [AGO]
 topics: [gov.protect, gov.legislate, infra.cybersec]
 entities: [[angola-data-protection-law-22-11]]
 lens: []
+body_completeness: full
 ---
 
 <!-- CMS expert guide (Oct 2025) — comprehensive, current enumeration of Angola's data/cyber legal stack. Useful reference for the whole instrument set. Cite as analysis. -->

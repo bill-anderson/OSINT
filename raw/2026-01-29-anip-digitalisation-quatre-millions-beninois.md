@@ -3,6 +3,9 @@ type: source
 title: "Digitalisation des documents d'état civil et d'identité: Quatre millions de béninois servis en 2025"
 url: https://www.lanation.bj/numerique/digitalisation-des-documents-detat-civil-et-didentite-quatre-millions-de-beninois-servis-en-2025
 publisher: La Nation
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Christian HOUNONGBE
 published: 2026-01-29
 date_precision: day

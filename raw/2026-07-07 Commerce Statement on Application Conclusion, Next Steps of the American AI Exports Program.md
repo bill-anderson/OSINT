@@ -3,6 +3,8 @@ type: source
 title: "Commerce Statement on Application Conclusion, Next Steps of the American AI Exports Program"
 publisher: US Department of Commerce, International Trade Administration
 url: https://www.trade.gov/press-release/commerce-statement-application-conclusion-next-steps-american-ai-exports-program
+date_precision: day
+date_source: source
 author: International Trade Administration
 published: 2026-07-07
 accessed: 2026-07-10
@@ -11,6 +13,7 @@ places: [XGL]
 topics: [geopol.usa, tech.ai]
 entities: [[us-department-of-commerce], [american-ai-exports-program]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Primary US government press release. Admissible. Non-Africa-specific → XGL; relevance

@@ -13,6 +13,7 @@ places: [MLI]
 topics: [dpi.id, gov.regional, gov.legislate]
 entities: [[emptech], [idemia], [alliance-of-sahel-states]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 Mali held an official launch ceremony on 27 October 2025 for its new national biometric passport, an ICAO-compliant travel document with an electronic chip holding the holder's fingerprints and photograph. The new supplier is the Chinese firm Emptech (Emperor Technology Co., Ltd), replacing France's Idemia.

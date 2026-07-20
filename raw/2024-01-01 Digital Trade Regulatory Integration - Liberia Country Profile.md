@@ -12,6 +12,7 @@ places: [LBR]
 topics: [dpi.exchange, gov.regional, gov.legislate]
 entities: [[world-bank], [ecowas]]
 lens: []
+body_completeness: full
 artefact: "2024-01-01 Digital trade regulatory integration - Country profile - Liberia.pdf"
 ---
 

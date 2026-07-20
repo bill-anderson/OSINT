@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: instrument
 title: Somali National ID (SNID)
 places: [SOM]

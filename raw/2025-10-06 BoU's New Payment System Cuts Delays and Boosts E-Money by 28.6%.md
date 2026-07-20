@@ -3,6 +3,8 @@ type: source
 title: BoU's New Payment System Cuts Delays and Boosts E-Money by 28.6%
 url: https://ubc.go.ug/2025/10/06/bous-new-payment-system-cuts-delays-and-boosts-e-money-by-28-6
 publisher: Uganda Broadcasting Corporation
+lens: []
+body_completeness: full
 author: David Mwanje
 published: 2025-10-06
 date_precision: day

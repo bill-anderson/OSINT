@@ -13,6 +13,7 @@ places: [CAF]
 topics: [dpi.id, include.access]
 entities: [[al-madina]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Continued decentralised CNI enrolment: after Bouar and Berbérati, Al-Madina's technical team deployed to Birao (capital of Vakaga prefecture, far north-east) to enrol applicants — biometric capture, photos, personal data. Part of the drive to bring identification services closer to populations in remote areas. Confirms the town-by-town mobile rollout continuing into late 2025. -->

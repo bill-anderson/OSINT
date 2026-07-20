@@ -13,6 +13,7 @@ places: [COG]
 topics: [dpi.govtech, infra.connect, finance.new]
 entities: [[patn-congo], [world-bank]]
 lens: []
+body_completeness: full
 ---
 
 <!-- COMPANION SOURCE PAGE for binary raw/2025-06-30 World Bank - Congo Digital Acceleration Project (PATN) Implementation Status Report.pdf (13pp). WB Implementation Status & Results Report (seq 6, 30 Jun 2025) for the Congo Digital Acceleration Project (P175592) — IBRD/IDA IPF, FY2022 (~$100m) — the operation the government brands PATN. Progress reference for the broadband/e-services/digital-ID components. -->

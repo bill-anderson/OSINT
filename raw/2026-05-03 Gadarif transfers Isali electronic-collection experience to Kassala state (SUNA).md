@@ -9,6 +9,8 @@ date_source: source
 places: [SDN]
 topics: [dpi.pay, digital.localgov, dpi.govtech]
 entities: [[isali], [ministry-of-finance-sudan]]
+lens: []
+body_completeness: full
 retrieved: 2026-07-17
 ingested: 2026-07-18
 sweep_batch: SDN-2026-07-17

@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: company
 title: Somtel (Somtel International)
 places: [SOM]

@@ -3,6 +3,9 @@ type: source
 title: Benin Accelerates Digital Transformation with New OIF "D-CLIC" Training Program
 url: https://techafricanews.com/2025/10/20/benin-accelerates-digital-transformation-with-new-oif-d-clic-training-program
 publisher: TechAfrica News
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Jennifer Onyeagoro
 published: 2025-10-20
 date_precision: day

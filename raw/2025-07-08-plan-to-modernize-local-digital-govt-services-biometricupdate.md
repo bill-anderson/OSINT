@@ -3,6 +3,7 @@ type: source
 title: Cameroon unveils plan to modernize local digital govt services
 url: https://www.biometricupdate.com/202507/cameroon-unveils-plan-to-modernize-local-digital-govt-services
 publisher: Biometric Update
+ingested: 2026-07-18
 author: Ayang Macdonald
 published: 2025-07-08
 date_precision: day
@@ -11,6 +12,7 @@ places: [CMR]
 topics: [digital.localgov, dpi.govtech, dpi.exchange, dpi.registry, dpi.id, gov.policy, capacity.training]
 entities: [[bunec], [cameroon-civil-registration-law-2024]]
 lens: [sovereignty]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: CMR-2026-07-17
 ---

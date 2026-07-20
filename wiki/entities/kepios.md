@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: organisation
 title: Kepios
 url: https://kepios.com/

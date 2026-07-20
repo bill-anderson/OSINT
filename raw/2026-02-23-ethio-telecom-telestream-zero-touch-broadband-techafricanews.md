@@ -6,10 +6,12 @@ publisher: TechAfrica News
 published: 2026-02-23
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [ETH]
 topics: [infra.connect, tech.industry, dpi.pay]
 entities: [[ethio-telecom], [telebirr]]
 lens: []
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: ETH-2026-07-17
 ---

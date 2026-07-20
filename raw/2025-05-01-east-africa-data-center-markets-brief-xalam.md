@@ -11,6 +11,7 @@ places: [XEA]
 topics: [infra.store, infra.energy, finance.new, data.statistics]
 entities: [[xalam-dc-market-briefs-2026], [world-bank]]
 lens: []
+body_completeness: full
 ---
 
 # East Africa Data Center Markets — Xalam Analytics Market Brief

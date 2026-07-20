@@ -13,6 +13,7 @@ places: [MRT]
 topics: [infra.connect, geopol.china]
 entities: [[chinguitel], [huawei]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Chinguitel–Huawei network modernisation, Nouakchott

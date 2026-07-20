@@ -3,6 +3,7 @@ type: source
 title: Visa and Afriland First Bank partner to expand digital payments in Cameroon
 url: https://techreviewafrica.com/news/4328
 publisher: Tech Review Africa
+ingested: 2026-07-18
 author: Robert Kwaku Annor
 published: 2026-03-12
 date_precision: day
@@ -11,6 +12,7 @@ places: [CMR, XCA]
 topics: [dpi.pay, tech.industry, finance.mou, include.access, geopol.usa, infra.cybersec]
 entities: [[visa], [afriland-first-bank]]
 lens: []
+body_completeness: full
 provenance_flag: pr-wire
 provenance_note: >
   Tech Review Africa is a PR-wire outlet; this item reads as joint Visa/Afriland

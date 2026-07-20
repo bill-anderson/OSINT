@@ -6,6 +6,7 @@ publisher: The Citizen
 published: 2026-04-30
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [TZA]
 topics: [infra.store, infra.connect, gov.protect]
 entities: [[wingu-africa]]

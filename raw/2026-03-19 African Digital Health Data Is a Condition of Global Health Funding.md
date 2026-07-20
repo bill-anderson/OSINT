@@ -3,6 +3,8 @@ type: source
 title: "African Digital Health Data Is a Condition of Global Health Funding"
 publisher: ICTworks
 url: https://www.ictworks.org/african-digital-health-data-global-health-funding/
+date_precision: day
+date_source: source
 author: Wayan Vota
 published: 2026-03-19
 accessed: 2026-07-11

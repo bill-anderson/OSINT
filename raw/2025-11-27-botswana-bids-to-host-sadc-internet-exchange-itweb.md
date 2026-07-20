@@ -3,6 +3,7 @@ type: source
 title: Botswana seeks to host SADC internet exchange
 url: https://itweb.africa/article/botswana-seeks-to-host-sadc-internet-exchange/j5alr7QALmK7pYQk
 publisher: ITWeb Africa
+ingested: 2026-07-18
 author: Staff Writer
 published: 2025-11-27
 date_precision: day
@@ -13,6 +14,7 @@ places: [BWA]
 topics: [infra.connect, gov.regional, infra.store]
 entities: [[bofinet], [sadc], [digital-delta-data-centre], [keabetswe-segole]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Botswana seeks to host SADC internet exchange

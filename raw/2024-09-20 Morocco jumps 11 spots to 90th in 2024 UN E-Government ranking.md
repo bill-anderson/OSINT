@@ -13,6 +13,7 @@ places: [MAR]
 topics: [dpi.govtech, data.statistics, gov.policy]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 <!-- Morocco ranked 90th/193 in the 2024 UN EGDI, up 11 places from 101st (2022). UN DESA; score 0.6841 (online service 0.5618; telecom infra 0.8827; human capital 0.6078). "Accelerating Digital Transformation for Sustainable Development." Steady improvement since 2008 (140th), 82nd in 2014 then dips + recovery. Regionally 4th in Africa behind South Africa (40th), Mauritius (76th), Tunisia (87th). Egypt 95th, Algeria 116th, Libya 125th, Senegal 135th. Denmark top. -->

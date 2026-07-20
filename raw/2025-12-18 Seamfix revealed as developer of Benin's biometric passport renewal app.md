@@ -3,6 +3,8 @@ type: source
 title: "Seamfix revealed as developer of Benin's biometric passport renewal app"
 publisher: Biometric Update
 url: https://www.biometricupdate.com/202512/seamfix-revealed-as-developer-of-benins-biometric-passport-renewal-app
+date_precision: day
+date_source: source
 author: Chris Burt
 published: 2025-12-18
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [BEN]
 topics: [dpi.id, dpi.govtech, dpi.pay, include.access]
 entities: [[seamfix], [epass-benin], [anip-benin]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Seamfix (Nigeria/UK) revealed (2025-12-18) as developer of Benin's ePass diaspora passport-renewal app (face biometrics + liveness), built with the Ministry of Foreign Affairs on Seamfix GovSmart; ePass launched Oct 2025, in 80+ countries, ~15-min renewals. Seamfix raised $4.5m in 2024; also did MTN Côte d'Ivoire's 8m-SIM eKYC via BioSmart. -->

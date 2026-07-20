@@ -7,6 +7,7 @@ topics: [tech.ai, gov.protect, data.open, capacity.research]
 lens: [colonialism, sovereignty]
 status: active
 last_reviewed: 2026-07-12
+sources: []
 ---
 
 # Abeba Birhane

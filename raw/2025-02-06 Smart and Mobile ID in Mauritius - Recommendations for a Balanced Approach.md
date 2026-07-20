@@ -13,6 +13,7 @@ places: [MUS]
 topics: [dpi.id, gov.protect, gov.legislate]
 entities: [[mauritius-mobile-id]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 Analysis/opinion piece (see note below) recalling the July 2024 Intelwatch policy brief "Smart ID Cards in Mauritius: Balancing Rights and Freedoms with National Identification Needs," prompted by the new Minister's announcement that Government will proceed with the Mobile ID project. Part of a comparative research project on digital surveillance in Southern Africa.

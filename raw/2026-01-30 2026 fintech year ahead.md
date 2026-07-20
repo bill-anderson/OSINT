@@ -3,6 +3,8 @@ type: source
 title: "2026 fintech year ahead"
 publisher: ITWeb Africa
 url: https://itweb.africa/article/2026-fintech-year-ahead/4r1ly7R9j3nvpmda
+date_precision: day
+date_source: source
 author: Lerato Lamola
 published: 2026-01-30
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [ZAF]
 topics: [gov.policy, dpi.pay, finance.new, gov.regional]
 entities: [[sarb], [popia]]
 lens: []
+body_completeness: full
 ---
 
 <!-- SA fintech regulatory outlook (Webber Wentzel): FSCA+Prudential Authority AI-in-finance survey (end-2025), an AI regulatory framework expected 2026; SARB Payments Ecosystem Modernisation (PEM) opening payments to non-banks; 300 crypto-asset-service-provider licences by end-2025; '2026 the year of stablecoins'; COFI Bill pending. Attach to SA payments/[[sarb]]. -->

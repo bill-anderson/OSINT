@@ -6,10 +6,12 @@ publisher: TechCabal
 published: 2025-11-26
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [MDG, COM, TZA, TGO, SEN]
 topics: [dpi.pay, finance.new]
 entities: [[axian-telecom], [mvola]]
 lens: []
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: MDG-2026-07-17
 ---

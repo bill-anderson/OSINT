@@ -3,6 +3,8 @@ type: source
 title: "A political economy analysis of strengthening health information system in Tanzania"
 publisher: BMC Medical Informatics and Decision Making 23:245
 url: https://pmc.ncbi.nlm.nih.gov/articles/PMC10617168/
+date_precision: day
+date_source: source
 author: Kuwawenaruwa A, Mollel H, Machonchoryo JM, Margini F, Jaribu J, Binyaruka P
 published: 2023-10-30
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [TZA]
 topics: [dpi.mis, dpi.exchange, gov.standards, data.statistics]
 entities: [[hmis-tanzania-pea], [dhis2], [usaid], [world-bank]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Scholarly publication (peer-reviewed, 17 KII, Apr-May 2022). Tanzania HMIS ecosystem = 18 fragmented systems; DHIS2 rolled out to all district councils 2013, >90% of data flows via it. Government dominant; long-relationship donors most influential (Basket Fund). Barriers: capacity, finance, closed-source lock-in, coding variance. Home page for [[hmis-tanzania-pea]]. -->

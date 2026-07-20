@@ -6,6 +6,7 @@ publisher: Nile Post
 published: 2026-01-30
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [UGA]
 topics: [infra.cybersec, dpi.pay]
 entities: []

@@ -6,6 +6,7 @@ publisher: RSTP (Rádio Televisão de São Tomé e Príncipe)
 published: 2025-09-02
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [STP]
 topics: [dpi.exchange, dpi.registry, dpi.id]
 entities: [[prese], [dgrn], [universidade-aveiro]]

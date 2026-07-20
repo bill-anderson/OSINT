@@ -3,6 +3,8 @@ type: source
 title: "ECOWAS presents SIGMAT at the World Customs Organization 2026 Technology Conference in Abu Dhabi"
 publisher: ECOWAS
 url: https://www.ecowas.int/ecowas-presents-sigmat-at-the-world-customs-organization-2026-technology-conference-in-abu-dhabi/
+date_precision: day
+date_source: source
 author: ECOWAS
 published: 2026-01-30
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [XWA]
 topics: [dpi.exchange, gov.regional, gov.standards, infra.capacity]
 entities: [[ecowas], [sigmat]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Official ECOWAS release: presented SIGMAT (Interconnected System for the Management of Goods in Transit) at the WCO 2026 Technology Conference, Abu Dhabi (28-30 Jan 2026). SIGMAT launched 2019; roadmap adds risk management, mobile capabilities, a regional guarantee-management system and a secure e-Hub. Non-ECOWAS interest. -->

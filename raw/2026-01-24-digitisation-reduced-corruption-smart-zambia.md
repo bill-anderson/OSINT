@@ -6,7 +6,8 @@ publisher: News Diggers
 published: 2026-01-24
 date_precision: day
 date_source: source
-body_completeness: lede-only
+ingested: 2026-07-19
+body_completeness: paywalled
 retrieved: 2026-07-17
 sweep_batch: ZMB-2026-07-17
 places: [ZMB]

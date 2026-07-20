@@ -3,6 +3,8 @@ type: source
 title: Georeferencing of land titles: a revolution for security and transparency in Togo
 url: https://www.otr.tg/index.php/fr/1544-georeferencement-des-titres-fonciers-une-revolution-pour-la-securite-et-la-transparence-au-togo.html
 publisher: Office Togolais des Recettes (OTR)
+lens: []
+body_completeness: full
 author: Emefa Mensah
 published: 2025-11-19
 date_precision: day

@@ -6,6 +6,7 @@ publisher: TechAfrica News
 published: 2025-08-25
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [NGA]
 topics: [gov.protect, gov.legislate]
 entities: [[ndpc]]

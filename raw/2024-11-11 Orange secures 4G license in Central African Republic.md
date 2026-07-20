@@ -13,6 +13,7 @@ places: [CAF]
 topics: [infra.connect, geopol.eu]
 entities: [[orange-centrafrique], [orange]]
 lens: [colonialism]
+body_completeness: full
 ---
 
 <!-- Orange Centrafrique became the first operator to win a 4G licence in CAR (announced early Nov 2024), signed with the Ministry of Digital Economy, Posts and Telecommunications. GM Max Francisco framed it as a major step for connectivity demand. No rollout date given. Orange Centrafrique: ~just under 2m subscribers, operating since 2007. Also present: Telecel and Moov Africa. First 4G in a landlocked country of ~5.7m — a marker of how far behind CAR's connectivity is. -->

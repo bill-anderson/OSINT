@@ -3,6 +3,9 @@ type: source
 title: Burundi and India Explore Partnership on Digital Identity and E-Payments
 url: https://techafricanews.com/2026/06/26/burundi-and-india-explore-partnership-on-digital-identity-and-e-payments/
 publisher: TechAfrica News
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Kay-Lyne Wolfenden
 published: 2026-06-26
 date_precision: day

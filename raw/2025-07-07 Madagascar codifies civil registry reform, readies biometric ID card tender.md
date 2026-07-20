@@ -13,6 +13,7 @@ places: [MDG]
 topics: [dpi.id, dpi.registry, gov.legislate, include.access]
 entities: [[prodigy-madagascar], [in-groupe], [idemia], [mg-ministry-digital-development]]
 lens: []
+body_completeness: full
 ---
 
 A bill on the identification of natural persons in Madagascar received Senate approval on 4 July 2025 (days after the lower chamber), among 10 bills endorsed that day. Consultant Jean Aholou (who contributed to drafting, and is National Coordinator of the WURI Benin project) said the legislation modernises Madagascar's national ID system, aligning it with international standards and PRODIGY objectives, and recognises the unique identification certificate as a legal ID document. The bill also overhauls the civil registration mechanism to enhance inclusion and human-rights respect.

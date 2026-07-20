@@ -2,6 +2,7 @@
 type: source
 title: "The data side of leaving no one behind"
 publisher: Development Initiatives
+date_source: source
 author: [[bill]], Bernard Sabiti and Sam Wozniak
 published: 2021-09
 date_precision: month
@@ -12,6 +13,7 @@ places: [XGL, XAF, XSS]
 topics: [data.statistics, dpi.id, dpi.mis, gov.policy, include.divides]
 entities: [[bill]]
 lens: [colonialism, sovereignty]
+body_completeness: full
 ---
 
 <!-- Admissible: named institutional analysis (Development Initiatives), external authored work. -->

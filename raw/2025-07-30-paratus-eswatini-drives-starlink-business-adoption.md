@@ -6,6 +6,7 @@ publisher: ITWeb Africa
 published: 2025-07-30
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [SWZ]
 topics: [infra.connect, include.divides]
 entities: [[paratus-eswatini], [paratus-group], [starlink], [real-image-internet]]

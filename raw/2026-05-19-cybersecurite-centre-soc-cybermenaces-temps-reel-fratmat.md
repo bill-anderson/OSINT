@@ -6,12 +6,14 @@ publisher: Fraternité Matin
 published: 2026-05-19
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [infra.cybersec]
 entities: [[3r-technologie], [wilfried-assande], [zanga-dagnogo]]
 lens: []
+body_completeness: full
 ---
 
 # Cybersécurité en Côte d’Ivoire : Un centre intelligent pour traquer les cybermenaces en temps réel

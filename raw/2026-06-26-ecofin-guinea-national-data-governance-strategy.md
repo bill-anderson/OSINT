@@ -3,6 +3,7 @@ type: source
 title: "Guinea begins work on a National Data Governance Strategy (drafting launched 19 June 2026)"
 url: https://www.ecofinagency.com/news/2606-56858-guinea-begins-work-on-national-data-governance-strategy
 publisher: Ecofin Agency
+ingested: 2026-07-18
 author: Samira Njoya
 published: 2026-06-26
 date_precision: day
@@ -13,6 +14,7 @@ places: [GIN]
 topics: [gov.policy, gov.protect, dpi.exchange, tech.ai]
 entities: [[dntien], [ministry-digital-economy-guinea], [simandou-2040]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Guinea Begins Work on National Data Governance Strategy

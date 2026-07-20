@@ -3,6 +3,7 @@ type: source
 title: Minister Ateny defends cybercrime law amid concerns (President Kiir signs Cyber Crimes and Computer Abuse Act 2026)
 url: https://www.radiotamazuj.org/en/news/article/minister-ateng-defends-cybercrime-law-amid-concerns
 publisher: Radio Tamazuj
+ingested: 2026-07-19
 author: Editor In Chief
 published: 2026-02-19
 date_precision: day

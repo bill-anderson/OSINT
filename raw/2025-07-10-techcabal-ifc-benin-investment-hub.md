@@ -3,6 +3,9 @@ type: source
 title: IFC taps Nigeria's market to boost Benin as West Africa's next investment hub
 url: https://techcabal.com/2025/07/10/ifc-taps-nigerias-market-to-boost-benin-as-west-africas-next-investment-hub/
 publisher: TechCabal
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Faith Omoniyi
 published: 2025-07-10
 date_precision: day

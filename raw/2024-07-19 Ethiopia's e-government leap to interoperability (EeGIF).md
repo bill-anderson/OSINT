@@ -11,6 +11,7 @@ places: [ETH]
 topics: [dpi.govtech, dpi.exchange, gov.standards]
 entities: [[insa-ethiopia]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Ethiopia's e-government leap to interoperability (EeGIF)

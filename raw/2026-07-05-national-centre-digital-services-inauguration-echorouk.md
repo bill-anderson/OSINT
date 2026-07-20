@@ -1,6 +1,7 @@
 ---
 type: source
 title: الرئيس تبون يُدشن المركز الوطني للخدمات الرقمية
+ingested: 2026-07-18
 title_en: President Tebboune inaugurates the National Centre for Digital Services
 url: https://www.echoroukonline.com/%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3-%D8%AA%D8%A8%D9%88%D9%86-%D9%8A%D9%8F%D8%AF%D8%B4%D9%86-%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A-%D9%84%D9%84%D8%AE%D8%AF%D9%85
 publisher: Echorouk El Yawmi
@@ -14,6 +15,7 @@ places: [DZA]
 topics: [infra.store, dpi.govtech, dpi.exchange, infra.cybersec]
 entities: [[abdelmadjid-tebboune, centre-national-algerien-des-services-numeriques, haut-commissariat-a-la-numerisation]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # الرئيس تبون يُدشن المركز الوطني للخدمات الرقمية

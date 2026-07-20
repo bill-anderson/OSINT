@@ -13,6 +13,7 @@ places: [MRT]
 topics: [infra.connect, gov.regional, geopol.eu, finance.new]
 entities: [[ellalink], [mtnima-mauritania], [eib]]
 lens: [sovereignty]
+body_completeness: full
 provenance_flag: state-agency
 ---
 

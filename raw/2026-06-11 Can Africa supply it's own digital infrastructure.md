@@ -2,6 +2,8 @@
 type: source
 title: "Can Africa supply its own digital infrastructure?"
 publisher: Data Landscapers
+date_precision: day
+date_source: source
 author: [[bill]]
 url: https://data-landscapers.com/2026/06/11/sovereign-infrastructure/
 published: 2026-06-11
@@ -11,6 +13,7 @@ places: [XAF, XSS, AGO, KEN, NGA, ZAF]
 topics: [infra.store, infra.connect, infra.capacity, tech.industry, finance.new, gov.policy, gov.regional]
 entities: [[bill], [data-landscapers], [cassava-technologies], [seacom], [paratus], [mtn-group], [safaricom]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- EXPERT ANALYSIS (Data Landscapers, author [[bill]]). Thesis: regional data localisation only

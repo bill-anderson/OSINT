@@ -13,6 +13,7 @@ places: [MAR]
 topics: [dpi.id, dpi.govtech, infra.cybersec]
 entities: [[dgsn-morocco], [mon-e-id]]
 lens: []
+body_completeness: full
 ---
 
 <!-- DGSN 2024 annual report: issued nearly 4.7m electronic national ID cards in 2024 (3.4m Rabat centre, 1.2m new Marrakech facility). 2nd phase of the electronic identity system via the "Trusted Third Party Identity Verification" platform. 17 framework agreements (Bank Al-Maghrib, banking groups, healthcare); 30+ public/private institutions authorized to use the verification platform (criminal records, prison admin, foreign trade). 80 new mobile units serving 130,000+ citizens; 71 centres at diplomatic missions (219,408 e-ID for expatriates). E-Police portal launched 2024 (criminal-record requests, appointments); E-Blagh online-crime platform (12,614 reports since June 2024). -->

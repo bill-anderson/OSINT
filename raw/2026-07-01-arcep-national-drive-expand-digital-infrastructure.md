@@ -3,6 +3,9 @@ type: source
 title: Burkina Faso's ARCEP Launches National Drive to Expand Digital Infrastructure
 url: https://techafricanews.com/2026/07/01/burkina-fasos-arcep-launches-national-drive-to-expand-digital-infrastructure/
 publisher: TechAfrica News
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Editorial Team
 published: 2026-07-01
 date_precision: day

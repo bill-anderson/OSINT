@@ -6,12 +6,14 @@ publisher: Tech Africa News
 published: 2026-03-11
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: MAR-2026-07-17
 places: [MAR]
 topics: [tech.ai, gov.policy]
 entities: [[digital-morocco-2030]]
 lens: []
+body_completeness: full
 ---
 
 # AI Made in Morocco: ministry highlights AI's role, Industry X.0 initiative

@@ -3,6 +3,8 @@ type: source
 title: "Zimbabwe rejects $350 million US health funding deal, warns it threatens national sovereignty"
 publisher: Business Insider Africa
 url: https://africa.businessinsider.com/local/markets/zimbabwe-rejects-dollar350-million-us-health-funding-deal/
+date_precision: day
+date_source: source
 author: Ayodeji Adegboyega
 published: 2026-02-24
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [ZWE, XAF]
 topics: [gov.protect, geopol.usa, dpi.mis, data.statistics]
 entities: [[america-first-global-health-strategy], [zimbabwe-us-health-mou]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Zimbabwe withdrew from ~$350m US health-funding talks (Mnangagwa directive; Dec 23 letter). Objections: long-term US national-health-data access; attempt to fold in critical minerals; bilateral architecture outside WHO. NB: amount conflict vs the '$367m' item (contradiction, flag). -->

@@ -13,6 +13,7 @@ places: [CAF]
 topics: [dpi.govtech, dpi.pay, gov.policy]
 entities: [[dgid-central-african-republic]]
 lens: []
+body_completeness: full
 ---
 
 <!-- CAR tax administration launched the e-Tax platform for online tax payment on Mon 24 Mar 2025. Aim: improve transparency and efficiency — online access to tax information, declaration and payment. Four modules including registration for the unique identification number (NIU). Context: a Jan 2025 IMF mission had urged accelerated digitalisation of public-finance and tax management. Earliest of CAR's three named e-gov platforms (e-Tax Mar 2025 · Gouvernemental Centralisé Dec 2025 · DUNIA Feb 2026); run by the DGID (Direction Générale des Impôts et des Domaines). -->

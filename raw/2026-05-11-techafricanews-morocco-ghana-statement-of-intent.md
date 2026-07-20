@@ -6,12 +6,14 @@ publisher: Tech Africa News
 published: 2026-05-11
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: MAR-2026-07-17
 places: [MAR]
 topics: [gov.regional, finance.mou]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 # Morocco and Ghana sign statement of intent on digital transformation

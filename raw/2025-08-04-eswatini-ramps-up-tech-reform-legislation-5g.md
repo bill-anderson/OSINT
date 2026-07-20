@@ -6,6 +6,7 @@ publisher: TechAfrica News
 published: 2025-08-04
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [SWZ]
 topics: [gov.legislate, infra.connect, capacity.training, dpi.govtech, tech.ai]
 entities: [[ministry-of-ict-eswatini], [world-bank]]

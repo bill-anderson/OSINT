@@ -6,13 +6,14 @@ publisher: Telecom Review Africa
 published: 2026-05-06
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [KEN]
 topics: [infra.connect, geopol.china]
 entities: [[safaricom], [huawei]]
 lens: []
 retrieved: 2026-07-17
 sweep_batch: KEN-2026-07-17
-body_completeness: clip-full
+body_completeness: full
 ---
 
 # Safaricom Launches Kenya's First Fiber-to-the-Room Service with Huawei

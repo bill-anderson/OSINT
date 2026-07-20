@@ -3,6 +3,7 @@ type: source
 title: "Protection des données personnelles : Le Bénin et le Sénégal scellent une alliance stratégique à Cotonou"
 url: https://lanation.bj/numerique/protection-des-donnees-personnelles-le-benin-et-le-senegal-scellent-une-alliance-strategique-a-cotonou
 publisher: La Nation
+ingested: 2026-07-18
 author: Christian HOUNONGBE
 published: 2026-04-17
 date_precision: day
@@ -13,6 +14,7 @@ places: [BEN, SEN]
 topics: [gov.protect, gov.regional, finance.mou, capacity.training]
 entities: [[apdp-benin], [cdp-senegal], [luciano-hounkponou], [ousmane-thiongane], [afapdp]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Protection des données personnelles : Le Bénin et le Sénégal scellent une alliance stratégique à Cotonou

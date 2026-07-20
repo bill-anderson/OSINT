@@ -6,12 +6,14 @@ publisher: Connecting Africa
 published: 2026-01-22
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [infra.connect, digital.rural, include.access]
 entities: [[orange-cote-divoire], [eutelsat], [orange]]
 lens: []
+body_completeness: full
 ---
 
 By Matshepo Sehloho, Associate Editor, Connecting Africa. January 22, 2026.

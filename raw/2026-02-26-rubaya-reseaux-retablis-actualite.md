@@ -6,12 +6,14 @@ publisher: ACTUALITE.CD
 published: 2026-02-26
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: COD-2026-07-17
 places: [COD]
 topics: [infra.connect, include.access, dpi.pay]
 entities: [[vodacom], [orange], [airtel]]
 lens: []
+body_completeness: full
 ---
 
 Jeudi 26 février 2026 - 09:31

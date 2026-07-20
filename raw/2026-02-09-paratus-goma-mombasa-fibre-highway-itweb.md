@@ -6,10 +6,12 @@ publisher: ITWeb Africa
 published: 2026-02-09
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [COD, KEN, UGA, RWA]
 topics: [infra.connect, gov.regional, tech.industry, infra.store]
 entities: [[paratus-group], [roke-telkom], [moveon-telecoms]]
 lens: []
+body_completeness: full
 provenance_flag: pr-wire
 retrieved: 2026-07-17
 sweep_batch: COD-2026-07-17

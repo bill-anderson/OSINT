@@ -6,6 +6,7 @@ publisher: COMESA
 published: 2026-07-04
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [SYC]
 topics: [dpi.govtech, gov.regional, dpi.exchange]
 entities: [[seychelles-revenue-commission], [comesa]]

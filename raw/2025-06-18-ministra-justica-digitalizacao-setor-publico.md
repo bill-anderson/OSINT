@@ -6,6 +6,7 @@ publisher: Téla Nón
 published: 2025-06-18
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [STP]
 topics: [dpi.govtech, gov.policy]
 entities: []

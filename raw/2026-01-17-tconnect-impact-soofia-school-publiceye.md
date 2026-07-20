@@ -6,10 +6,12 @@ publisher: Public Eye
 published: 2026-01-17
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [LSO]
 topics: [infra.connect, include.access, dpi.mis, digital.rural]
 entities: [[t-connect-lesotho], [starlink]]
 lens: []
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: LSO-2026-07-17
 ---

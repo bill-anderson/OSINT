@@ -3,6 +3,9 @@ type: source
 title: "Prestations consulaires : Plus de 540 mille visas délivrés en trois ans"
 url: https://lejour.cm/prestations-consulaires-plus-de-540-mille-visas-delivres-en-trois-ans/
 publisher: Le Jour
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Solière Champlain Paka
 published: 2026-05-08
 date_precision: day

@@ -3,6 +3,9 @@ type: source
 title: PayInc and First Capital Bank Botswana Launch Instant Cross-Border Payments
 url: https://techafricanews.com/2026/03/02/payincs-tcib-unlocks-real-time-cross-border-payments-between-south-africa-and-botswana/
 publisher: TechAfrica News
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Jennifer Onyeagoro
 published: 2026-03-02
 date_precision: day

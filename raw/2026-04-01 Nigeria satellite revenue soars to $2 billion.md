@@ -3,14 +3,17 @@ type: source
 title: "Nigeria satellite revenue soars to $2 billion"
 publisher: ITWeb Africa
 url: https://itweb.africa/article/nigeria-satellite-revenue-soars-to-2-billion/
+date_source: source
 author: Samuel Olomu
 published: 2026-04-01
+date_precision: month
 accessed: 2026-07-11
 ingested: 2026-07-11
 places: [NGA]
 topics: [infra.connect, infra.capacity, tech.industry]
 entities: [[nigcomsat]]
 lens: []
+body_completeness: excerpt
 ---
 
 <!-- NigComSat revenue rose from $650m (2023) to >$2bn by end-2025 (disclosed at Nigerian Satellite Week, Abuja, 20th anniversary). Two new satellites NIGCOMSAT-2A/2B procured for 2028/2029 (5G backhaul, security). NIGCOMSAT-1R (2011) nearing 15-yr design life. Single-source figures. -->

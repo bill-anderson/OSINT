@@ -1,6 +1,7 @@
 ---
 type: source
 title: "Sécurisation de l'espace numérique : L'engagement sans faille de la DGSN"
+ingested: 2026-07-18
 title_en: National Police (DGSN) chief Ali Badaoui — "national security is now cybersecurity first"; study day on the personal-data-protection law (18-07 as amended by 25-11) with Justice/Interior ministers and ANPDP president Samir Bourehil
 url: https://www.elmoudjahid.dz/fr/actualite/securisation-de-l-espace-numerique-l-engagement-sans-faille-de-la-dgsn-255551
 publisher: El Moudjahid
@@ -15,6 +16,7 @@ places: [DZA]
 topics: [infra.cybersec, gov.protect, dpi.id]
 entities: [[dgsn, ali-badaoui, anpdp, samir-bourehil, ministere-de-linterieur, ministere-de-la-justice]]
 lens: [sovereignty]
+body_completeness: full
 provenance_flag: state-media
 ---
 

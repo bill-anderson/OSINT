@@ -6,6 +6,7 @@ publisher: Equity Axis
 published: 2026-04-30
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [ZWE]
 topics: [infra.connect, data.statistics, include.access]
 entities: [[econet-wireless-zimbabwe], [netone], [telecel-zimbabwe], [potraz]]

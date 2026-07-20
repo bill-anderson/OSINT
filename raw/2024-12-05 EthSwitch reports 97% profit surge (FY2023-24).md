@@ -11,6 +11,7 @@ places: [ETH]
 topics: [dpi.pay, dpi.exchange]
 entities: [[ethswitch]]
 lens: []
+body_completeness: full
 ---
 
 # EthSwitch reports 97% profit surge (FY2023/24)

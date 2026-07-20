@@ -3,6 +3,7 @@ type: source
 title: Burundi Studies India Stack for Digital Identity and Payment Reforms
 url: https://www.wearetech.africa/en/fils-uk/news/tech/burundi-studies-india-stack-for-digital-identity-and-payment-reforms
 publisher: We Are Tech Africa
+ingested: 2026-07-18
 author: Samira Njoya
 published: 2026-06-23
 date_precision: day
@@ -13,6 +14,7 @@ places: [BDI]
 topics: [dpi.id, dpi.pay, dpi.govtech, geopol.india]
 entities: [[india-stack], [ministry-of-finance-budget-and-digital-economy-burundi]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Burundi Studies India Stack for Digital Identity and Payment Reforms

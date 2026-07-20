@@ -3,6 +3,9 @@ type: source
 title: Botswana gets 'Always-On Internet' with MTN, Ethica alliance
 url: https://itweb.africa/article/botswana-gets-always-on-internet-with-mtn-ethica-alliance/j5alr7QAjWk7pYQk
 publisher: ITWeb Africa
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Phathisani Moyo
 published: 2025-11-06
 date_precision: day

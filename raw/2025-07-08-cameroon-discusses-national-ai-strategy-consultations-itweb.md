@@ -3,6 +3,7 @@ type: source
 title: Cameroon discusses national AI strategy
 url: https://itweb.africa/article/cameroon-discusses-national-ai-strategy/O2rQGMAEKQGMd1ea
 publisher: ITWeb Africa
+ingested: 2026-07-18
 author: Amindeh Blaise Atabong
 published: 2025-07-08
 date_precision: day
@@ -11,6 +12,7 @@ places: [CMR]
 topics: [tech.ai, gov.policy, gov.legislate, capacity.training, capacity.research, tech.innovate, gov.protect, include.divides]
 entities: [[snia-cameroon], [minpostel]]
 lens: [sovereignty]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: CMR-2026-07-17
 ---

@@ -3,6 +3,9 @@ type: source
 title: "Botswana's ICT trajectory: What 2025 taught us and why 2026 Matters"
 url: https://www.sundaystandard.info/botswanas-ict-trajectory-what-2025-taught-us-and-why-2026-matters/
 publisher: Sunday Standard
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Ogone Mothooagae
 published: 2025-12-14
 date_precision: day

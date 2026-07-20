@@ -6,12 +6,14 @@ publisher: MyJoyOnline
 published: 2026-01-27
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: GHA-2026-07-17
 places: [GHA]
 topics: [gov.protect, gov.policy]
 entities: [[data-protection-commission-ghana]]
 lens: []
+body_completeness: full
 ---
 
 # Deputy Communications Minister calls for stronger institutional collaboration on data protection

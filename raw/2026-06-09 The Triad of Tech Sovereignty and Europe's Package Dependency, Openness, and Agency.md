@@ -3,6 +3,8 @@ type: source
 title: "The Triad of Tech Sovereignty and Europe's Package: Dependency, Openness, and Agency"
 publisher: SSRN working paper (The GovLab / Max Planck Institute)
 url: https://ssrn.com/abstract=6907425
+date_precision: day
+date_source: source
 doi: 10.2139/ssrn.6907425
 author: Stefaan Verhulst, Begoña Gonzalez Otero
 published: 2026-06-09
@@ -13,6 +15,7 @@ places: [XGL]
 topics: [gov.standards, gov.legislate, tech.industry, geopol.eu, infra.store, gov.policy]
 entities: [[the-govlab], [stefaan-verhulst]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- SOURCE RECORD for the PDF `2026-07-10 ssrn-6907425.pdf` (source of record; this .md is the

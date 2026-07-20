@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: government-body
 title: Postal and Telecommunications Regulatory Authority of Zimbabwe (POTRAZ)
 places: [ZWE]

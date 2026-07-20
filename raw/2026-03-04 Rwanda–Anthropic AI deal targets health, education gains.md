@@ -3,6 +3,8 @@ type: source
 title: "Rwandaâ€“Anthropic AI deal targets health, education gains"
 publisher: The New Times
 url: https://www.newtimes.co.rw/article/33786/
+date_precision: day
+date_source: source
 author: Vincent Sugira
 published: 2026-03-04
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [RWA, XAF]
 topics: [tech.ai, dpi.govtech, capacity.training, gov.protect]
 entities: [[anthropic-rwanda-mou], [anthropic], [paula-ingabire]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Backfill to [[anthropic-rwanda-mou]] (SAME MoU, signed 17 Feb 2026): 3-year Rwanda x Anthropic partnership embedding 'responsible AI' across government (health: cervical cancer/malaria/maternal; education); Claude + Claude Code + API credits + training; builds on the Nov-2025 ALX 'Chidi' learning companion; target up to 2,000 teachers/civil servants. -->

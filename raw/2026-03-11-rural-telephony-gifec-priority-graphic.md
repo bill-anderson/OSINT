@@ -6,12 +6,14 @@ publisher: Graphic Online
 published: 2026-03-11
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: GHA-2026-07-17
 places: [GHA]
 topics: [infra.connect, digital.rural, include.divides]
 entities: [[gifec], [huawei]]
 lens: []
+body_completeness: full
 ---
 
 # Improving rural telephony project remains top priority — GIFEC CEO

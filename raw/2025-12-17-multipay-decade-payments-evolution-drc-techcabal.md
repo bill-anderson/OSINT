@@ -6,10 +6,12 @@ publisher: TechCabal
 published: 2025-12-17
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [COD]
 topics: [dpi.pay, finance.new, include.access, tech.industry, gov.legislate]
 entities: [[multipay-drc], [interswitch], [rawbank], [equity-bank-congo]]
 lens: []
+body_completeness: full
 provenance_flag: pr-wire
 retrieved: 2026-07-17
 sweep_batch: COD-2026-07-17

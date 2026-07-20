@@ -3,6 +3,7 @@ type: source
 title: Burkina Faso Strengthens Oversight of National Fibre Optic Infrastructure
 url: https://techafricanews.com/2026/06/19/burkina-faso-strengthens-oversight-of-national-fibre-optic-infrastructure/
 publisher: TechAfrica News
+ingested: 2026-07-18
 author: Joyce Onyeagoro
 published: 2026-06-19
 date_precision: day
@@ -13,6 +14,7 @@ places: [BFA]
 topics: [infra.connect, infra.capacity, gov.standards]
 entities: [[ministry-of-digital-transition-burkina-faso]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Burkina Faso Strengthens Oversight of National Fibre Optic Infrastructure

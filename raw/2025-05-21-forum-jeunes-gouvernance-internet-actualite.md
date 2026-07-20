@@ -6,13 +6,14 @@ publisher: ACTUALITE.CD
 published: 2025-05-21
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: COD-2026-07-17
 places: [COD]
 topics: [gov.policy, include.access, digital.rural, capacity.training, tech.innovate]
 entities: [[augustin-kibassa-maliba], [arptc], [christian-katende], [starlink], [drc-digital-code], [kevin-mukendi], [felix-tshisekedi]]
 lens: []
-body_completeness: partial
+body_completeness: excerpt
 ---
 
 Troisième édition du Forum des jeunes sur la gouvernance de l'internet en RDC

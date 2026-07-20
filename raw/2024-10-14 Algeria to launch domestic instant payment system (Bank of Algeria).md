@@ -11,6 +11,7 @@ places: [DZA]
 topics: [dpi.pay, include.access]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 # Algeria to launch domestic instant payment system (Bank of Algeria)

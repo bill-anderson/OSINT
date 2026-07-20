@@ -13,6 +13,7 @@ places: [MAR]
 topics: [dpi.id, dpi.govtech, gov.policy]
 entities: [[dgsn-morocco], [digital-morocco-2030], [mon-e-id]]
 lens: []
+body_completeness: full
 ---
 
 <!-- DGSN + Ministry of Digital Transition + Admin Reform signed a deal to facilitate service delivery via the national digital ID (Digital Morocco 2030). DGSN played a major role launching Morocco's national digital ID. Aims: all govt entities can digitize services accessible via the national biometric digital ID; legal + organizational blueprint for identity verification using a trusted third-party service. Fast-tracks public-sector digital evolution + addresses service delays. Digital Morocco 2030 (if executed): ~240,000 jobs + ~100bn dirhams (~$10.7bn) GDP by 2030. GITEX Africa (3rd ed) used to advance deals + showcase digital health. -->

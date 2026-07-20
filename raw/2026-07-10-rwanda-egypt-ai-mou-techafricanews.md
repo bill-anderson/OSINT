@@ -3,6 +3,8 @@ type: source
 title: Rwanda and Egypt Deepen AI Cooperation with New Digital Partnership
 url: https://techafricanews.com/2026/07/10/rwanda-and-egypt-deepen-ai-cooperation-with-new-digital-partnership/
 publisher: TechAfrica News
+ingested: 2026-07-19
+lens: []
 author: Jennifer Onyeagoro
 published: 2026-07-10
 date_precision: day

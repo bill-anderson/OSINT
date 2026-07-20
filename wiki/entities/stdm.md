@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: instrument
 title: Social Tenure Domain Model (STDM)
 places: [UGA, XGL]

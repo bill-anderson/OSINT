@@ -6,10 +6,12 @@ publisher: A Nação
 published: 2026-03-21
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [CPV]
 topics: [include.divides, capacity.literacy, data.statistics]
 entities: []
 lens: []
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: CPV-2026-07-17
 ---

@@ -13,6 +13,7 @@ places: [KEN]
 topics: [dpi.id, dpi.mis, gov.protect]
 entities: [[social-health-authority-kenya], [dhis2]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Nairobi, 4 Aug 2025: MoH launched Biometric Health Identification (BHI) at KUTRRH, part of the Digital Superhighway under BETA. Unveiled by Health CS Aden Duale. Four components: BHI (secure access without documents; fingerprint reduces fraud/waits); Practise360 (geo-tagged/fenced pre-auth for doctors); National Product Catalogue (approved medicines); Health Information Exchange HIE (real-time secure data exchange). 99% of KUTRRH walk-ins registered under SHA; 29 biometric devices; biometric registration operational in all Level 4/5/6 facilities (Level 2/3 to follow). 24 counties transitioning to HMIS; Track-and-Trace in final testing. -->

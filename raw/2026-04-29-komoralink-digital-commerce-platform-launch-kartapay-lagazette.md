@@ -6,10 +6,12 @@ publisher: La Gazette des Comores
 published: 2026-04-29
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [COM]
 topics: [tech.industry, dpi.pay, tech.innovate]
 entities: [[komoralink], [kartapay], [uccia]]
 lens: []
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: COM-2026-07-17
 ---

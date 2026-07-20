@@ -3,6 +3,7 @@ type: source
 title: Congo Expands 3G Connectivity to Rural Areas Under Digital Transformation Project (PATN)
 url: https://techafricanews.com/2025/10/16/congo-expands-3g-connectivity-to-rural-areas-under-digital-transformation-project-patn/
 publisher: TechAfrica News
+ingested: 2026-07-18
 author: Jennifer Onyeagoro
 published: 2025-10-16
 date_precision: day
@@ -11,6 +12,7 @@ places: [COG]
 topics: [infra.connect, include.divides, digital.rural, include.access, gov.policy]
 entities: [[patn-congo], [world-bank]]
 lens: []
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: COG-2026-07-17
 ---

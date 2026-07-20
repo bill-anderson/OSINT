@@ -3,6 +3,7 @@ type: source
 title: Cameroon orders telcos to block unregistered mobile devices
 url: https://www.connectingafrica.com/regulation/cameroon-orders-telcos-to-block-unregistered-mobile-devices
 publisher: Connecting Africa
+ingested: 2026-07-18
 author: Matshepo Sehloho
 published: 2026-05-25
 date_precision: day
@@ -11,6 +12,7 @@ places: [CMR]
 topics: [dpi.registry, dpi.exchange, gov.legislate, infra.connect, include.access, dpi.govtech]
 entities: [[cameroon-customs], [camcis], [camtel], [mtn-cameroon], [orange-cameroun]]
 lens: [sovereignty]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: CMR-2026-07-17
 ---

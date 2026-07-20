@@ -13,6 +13,7 @@ places: [AGO]
 topics: [dpi.pay, include.access]
 entities: [[emis-angola]]
 lens: []
+body_completeness: full
 ---
 
 <!-- KWiK instant-payment system (operated within Angola's EMIS-run national payment system): 35m+ transactions / 590bn kwanzas in 2025, >100% growth in volume and value vs 2024; Dec 2025 alone 3.5m transfers / 74.5bn kwanzas. 22 financial institutions (bank + non-bank) in the KWiK ecosystem. Disclosed at the 7th session of the National Financial Inclusion Strategy coordination committee (CCENIF), led by Minister of State for Economic Coordination José de Lima Massano. Feeds the ENIF 2025-2027 goals (digital-financial-service access, interoperability, lower costs). Roadmap: QR payments, service/state payments, merchant management. allAfrica syndication of Jornal de Angola. -->

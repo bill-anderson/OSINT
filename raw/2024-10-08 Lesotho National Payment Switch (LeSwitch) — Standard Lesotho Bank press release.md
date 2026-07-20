@@ -13,6 +13,7 @@ places: [LSO]
 topics: [dpi.pay, include.access]
 entities: [[leswitch]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- LeSwitch, led by the Central Bank of Lesotho with the banking sector + PSPs, modernizes electronic payments by connecting POS terminals, ATMs and mobile money into a single central hub for authorization/processing. Goals: near real-time; 24/7; digital interoperability (bank + non-bank); physical interoperability (ATMs/agents across providers); support e-commerce gateways + e-government payments. Financial inclusion + growth. Staged: fast-payments phase piloted Oct 2022, launched 20 Mar 2024; next phase card-stream switching (POS/ATM) in testing, ATM pilot 5 Oct 2024. Domestic only; cross-border via existing systems. -->

@@ -3,6 +3,8 @@ type: source
 title: "Numérisation des documents de l'état civil au Bénin : 4 millions de citoyens servis par l'ANIP en 2025"
 url: https://www.lanation.bj/numerique/numerisation-des-documents-de-letat-civil-au-benin-4-millions-de-citoyens-servis-par-lanip-en-2025
 publisher: La Nation
+ingested: 2026-07-18
+lens: []
 author: Christian Hounnongbé
 published: 2026-01-28
 date_precision: day

@@ -11,6 +11,7 @@ places: [EGY]
 topics: [dpi.id, dpi.govtech, gov.protect]
 entities: [[moieg-pass]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Egypt's Interior Ministry launches MOIEG-PASS biometric verification app

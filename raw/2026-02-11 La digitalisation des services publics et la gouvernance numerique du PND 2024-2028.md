@@ -13,6 +13,7 @@ places: [CAF]
 topics: [dpi.govtech, gov.policy]
 entities: [[mepci-central-african-republic], [pnd-2024-2028-central-african-republic], [faustin-archange-touadera]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Ministry (MEPCI) statement: digital integration is embedded in the priority/structuring projects of the National Development Plan (PND-RCA) 2024-2028. Minister Pr Richard Filakota is accelerating the digital-transformation drive to dematerialise public services. Official launch of MEPCI's "DUNIA" digital platform scheduled 23 Feb 2026, under Touadera's patronage, at the CNSS conference hall in Bangui. Goal: dematerialise administrative procedures, speed processes, improve transparency, optimise service delivery, improve the business climate. Primary ministry source anchoring the PND digitalisation agenda and dating the DUNIA launch. -->

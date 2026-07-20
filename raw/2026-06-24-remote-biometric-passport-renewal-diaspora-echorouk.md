@@ -1,6 +1,7 @@
 ---
 type: source
 title: إطلاق خدمة تجديد جواز السفر البيومتري "عن بُعد"
+ingested: 2026-07-18
 title_en: Remote biometric passport renewal service launched for the diaspora
 url: https://www.echoroukonline.com/%D8%A5%D8%B7%D9%84%D8%A7%D9%82-%D8%AE%D8%AF%D9%85%D8%A9-%D8%AA%D8%AC%D8%AF%D9%8A%D8%AF-%D8%AC%D9%88%D8%A7%D8%B2-%D8%A7%D9%84%D8%B3%D9%81%D8%B1-%D8%A7%D9%84%D8%A8%D9%8A%D9%88%D9%85%D8%AA%D8%B1%D9%8A
 publisher: Echorouk El Yawmi
@@ -14,6 +15,7 @@ places: [DZA]
 topics: [dpi.id, dpi.govtech, gov.protect]
 entities: [[said-saoud, ministere-de-linterieur]]
 lens: []
+body_completeness: full
 ---
 
 # إطلاق خدمة تجديد جواز السفر البيومتري "عن بُعد"

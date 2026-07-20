@@ -3,6 +3,9 @@ type: source
 title: Orange Botswana and SEZA Collaboration to Power Digital Economic Expansion
 url: https://techafricanews.com/2026/03/17/orange-botswana-and-seza-collaboration-to-power-digital-economic-expansion/
 publisher: TechAfrica News
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Kay-Lyne Wolfenden
 published: 2026-03-17
 date_precision: day

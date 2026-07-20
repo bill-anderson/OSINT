@@ -3,6 +3,7 @@ type: source
 title: Congo Advances Digital Inclusion with New Connections in Miaba and Ehota (FASUCE)
 url: https://techafricanews.com/2026/01/28/congo-advances-digital-inclusion-with-new-connections-in-miaba-and-ehota/
 publisher: TechAfrica News
+ingested: 2026-07-18
 author: Editorial Team
 published: 2026-01-28
 date_precision: day
@@ -11,6 +12,7 @@ places: [COG]
 topics: [infra.connect, include.divides, digital.rural, include.access]
 entities: [[fasuce-congo], [arpce-congo]]
 lens: []
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: COG-2026-07-17
 ---

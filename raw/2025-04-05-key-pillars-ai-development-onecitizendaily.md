@@ -3,6 +3,7 @@ type: source
 title: South Sudan identifies key pillars for AI development
 url: https://www.onecitizendaily.com/index.php/2025/04/05/south-sudan-identifies-key-pillars-for-ai-development/
 publisher: One Citizen Daily
+ingested: 2026-07-19
 author: One Citizen Daily Newspaper
 published: 2025-04-05
 date_precision: day

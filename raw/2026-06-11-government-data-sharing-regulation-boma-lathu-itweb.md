@@ -6,6 +6,7 @@ publisher: ITWeb Africa
 published: 2026-06-11
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [MWI]
 topics: [dpi.exchange, gov.legislate, infra.store, geopol.china]
 entities: [[malawi-ministry-of-ict], [malawi-data-protection-act-2024], [dmap], [huawei]]

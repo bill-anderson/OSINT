@@ -3,6 +3,8 @@ type: source
 title: "3 Reasons Mobile Money Programs Have a $1.7 Trillion Problem"
 publisher: ICTworks
 url: https://www.ictworks.org/african-mobile-money-program-problems/
+date_precision: day
+date_source: source
 author: Wayan Vota
 published: 2026-04-16
 accessed: 2026-07-11

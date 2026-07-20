@@ -12,6 +12,7 @@ places: [TZA]
 topics: [infra.store, infra.connect, dpi.exchange, finance.new]
 entities: [[wingu-africa], [anton-volianskyi], [tspar]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 *The $50m data-centre phase 2 (Mar 2025) is a DIFFERENT object from the WCX cloud-exchange platform launched in Tanzania in Nov 2025, and the $50m investment is a different quantity from Wingu's $60m raise — keep them verbally distinct. The 99.983% uptime figure belongs to the Mbezi facility; the 99.982% held on the Wingu page is the Djibouti TO7 site.*

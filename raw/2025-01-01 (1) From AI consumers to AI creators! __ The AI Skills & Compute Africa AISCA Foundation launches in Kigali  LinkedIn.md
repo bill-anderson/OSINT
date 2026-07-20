@@ -3,6 +3,7 @@ type: source
 title: "From AI consumers to AI creators: the AISCA Foundation launches in Kigali"
 publisher: LinkedIn (self-published)
 url: https://www.linkedin.com/pulse/from-ai-consumers-creators-skills-compute-africa-aisca-masiyiwa-yqcse/
+date_source: source
 author: Strive Masiyiwa
 published: 2025
 date_precision: year
@@ -12,6 +13,7 @@ places: [RWA, XAF]
 topics: [tech.ai, infra.capacity, capacity.training, tech.innovate, include.access]
 entities: [[aisca-foundation], [strive-masiyiwa], [cassava-technologies]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- First-party LinkedIn post by Masiyiwa: AISCA Foundation launch (Kigali) + Cassava's first

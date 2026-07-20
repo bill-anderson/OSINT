@@ -12,6 +12,7 @@ places: [GAB]
 topics: [dpi.id]
 entities: []
 lens: [sovereignty]
+body_completeness: full
 ---
 
 Gabonese citizens can now obtain the new Electronic National Identity Card (CNIE), described by the government as a marker of its commitment to modernization, efficiency and transparency.

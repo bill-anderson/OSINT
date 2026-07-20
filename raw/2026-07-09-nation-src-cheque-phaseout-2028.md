@@ -6,6 +6,7 @@ publisher: Seychelles Nation
 published: 2026-07-09
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [SYC]
 topics: [dpi.pay]
 entities: [[seychelles-revenue-commission], [central-bank-of-seychelles]]

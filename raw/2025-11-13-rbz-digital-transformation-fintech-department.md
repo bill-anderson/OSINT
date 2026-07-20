@@ -6,6 +6,7 @@ publisher: TechnoMag
 published: 2025-11-13
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [ZWE]
 topics: [dpi.pay, gov.policy, tech.innovate]
 entities: [[reserve-bank-of-zimbabwe]]

@@ -6,6 +6,7 @@ publisher: The Guardian (IPP Media)
 published: 2026-04-21
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [TZA]
 topics: [gov.policy, dpi.pay, dpi.govtech]
 entities: []

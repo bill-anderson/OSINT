@@ -7,6 +7,7 @@ topics: [data.statistics, data.open, capacity.research]
 lens: []
 status: active
 last_reviewed: 2026-07-11
+sources: []
 ---
 
 # PARIS21

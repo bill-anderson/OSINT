@@ -3,6 +3,7 @@ type: source
 title: MTN Cameroon works with Camusat to expand network
 url: https://itweb.africa/article/mtn-cameroon-works-with-camusat-to-expand-network/xnklOqz1wVYM4Ymz
 publisher: ITWeb Africa
+ingested: 2026-07-18
 author: Amindeh Blaise Atabong
 published: 2025-06-17
 date_precision: day
@@ -11,6 +12,7 @@ places: [CMR]
 topics: [infra.connect, infra.energy, tech.industry, finance.new, finance.mou, include.access]
 entities: [[mtn-cameroon], [camusat], [aktivco]]
 lens: []
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: CMR-2026-07-17
 ---

@@ -6,6 +6,7 @@ publisher: Tchadinfos
 published: 2026-05-09
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [TCD]
 topics: [dpi.id, gov.protect, infra.cybersec, dpi.registry]
 entities: [[anats], [airtel-chad], [adetic]]

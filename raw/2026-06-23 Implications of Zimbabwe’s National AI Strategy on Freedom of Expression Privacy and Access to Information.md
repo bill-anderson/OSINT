@@ -12,6 +12,7 @@ places: [ZWE]
 topics: [tech.ai, gov.policy, gov.protect, infra.cybersec, gov.legislate, include.divides]
 entities: [[misa], [zimbabwe-national-ai-strategy], [project-pangolin]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Implications of Zimbabwe’s National AI Strategy on Freedom of Expression, Privacy, and Access to Information | MISA Regional

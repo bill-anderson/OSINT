@@ -6,10 +6,12 @@ publisher: Expresso das Ilhas
 published: 2026-03-29
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [CPV]
 topics: [data.statistics, data.open, capacity.research, gov.protect]
 entities: [[ine-cv], [joao-de-pina-cardoso], [universidade-de-coimbra]]
 lens: []
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: CPV-2026-07-17
 ---

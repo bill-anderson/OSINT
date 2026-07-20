@@ -3,6 +3,8 @@ type: source
 title: Government of Rwanda Deepens AI Strategy Through Capacity-Building Initiative
 url: https://techafricanews.com/2026/03/19/government-of-rwanda-deepens-ai-strategy-through-capacity-building-initiative/
 publisher: TechAfrica News
+ingested: 2026-07-19
+lens: []
 author: Akim Benamara
 published: 2026-03-19
 date_precision: day

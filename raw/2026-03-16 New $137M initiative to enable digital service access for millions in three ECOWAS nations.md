@@ -3,6 +3,8 @@ type: source
 title: "New $137M initiative to enable digital service access for millions in three ECOWAS nations"
 publisher: Biometric Update
 url: https://www.biometricupdate.com/202603/new-137m-initiative-to-enable-digital-service-access
+date_precision: day
+date_source: source
 author: Ayang Macdonald
 published: 2026-03-16
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [BEN, LBR, SLE, XWA]
 topics: [infra.connect, dpi.govtech, gov.regional, finance.new, include.access]
 entities: [[wardip], [world-bank], [ecowas], [african-union], [smart-africa]]
 lens: []
+body_completeness: full
 ---
 
 <!-- World Bank $137m (announced 2026-03-11) for WARDIP2 (Western Africa Regional Digital Integration Program, phase 2) in Benin, Liberia, Sierra Leone: broadband for >5m + digital public services for >5m more (~10.6m total). Three pillars; WARDIP launched 2023 (also Gambia, Guinea-Bissau, Mauritania). -->

@@ -12,6 +12,7 @@ places: [ETH, XAF]
 topics: [dpi.exchange, gov.standards, gov.protect, infra.store, dpi.registry]
 entities: [[development-gateway], [gates-foundation], [dial]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Interoperability as a Cornerstone of Resilient Digital Systems

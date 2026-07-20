@@ -3,6 +3,9 @@ type: source
 title: "Télécommunications : Plus de 700 jeunes talents intégrés"
 url: https://lejour.cm/telecommunications-plus-de-700-jeunes-talents-integres/
 publisher: Le Jour
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Solière Champlain Paka
 published: 2026-05-08
 date_precision: day

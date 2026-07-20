@@ -3,6 +3,8 @@ type: source
 title: Angola deploys ANGOSAT-2 connectivity to border areas through startup-led initiative
 url: https://techreviewafrica.com/news/5278/angola-deploys-angosat-2-connectivity-to-border-areas-through-startup-led-initiative
 publisher: Tech Review Africa
+lens: []
+body_completeness: full
 author: Nana Appiah Acquaye
 published: 2026-05-04
 date_precision: day

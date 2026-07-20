@@ -6,10 +6,12 @@ publisher: La Gazette des Comores
 published: 2025-10-14
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [COM]
 topics: [dpi.id, dpi.registry, gov.protect, digital.localgov]
 entities: [[amecc-project], [france], [unicef], [ministry-of-interior-comoros]]
 lens: [colonialism]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: COM-2026-07-17
 ---

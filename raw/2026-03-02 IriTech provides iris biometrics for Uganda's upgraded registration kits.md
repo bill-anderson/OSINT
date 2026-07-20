@@ -3,6 +3,8 @@ type: source
 title: IriTech provides iris biometrics for Uganda's upgraded registration kits
 url: https://www.biometricupdate.com/202603/iritech-provides-iris-biometrics-for-ugandas-upgraded-registration-kits
 publisher: Biometric Update
+lens: []
+body_completeness: full
 author: Chris Burt
 published: 2026-03-02
 date_precision: day

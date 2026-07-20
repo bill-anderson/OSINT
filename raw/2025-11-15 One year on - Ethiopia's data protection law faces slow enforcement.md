@@ -11,6 +11,7 @@ places: [ETH]
 topics: [gov.protect, gov.legislate]
 entities: [[ethiopia-pdpp], [ethiopian-communications-authority]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # One year on — Ethiopia's data protection law faces a slow path to enforcement

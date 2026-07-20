@@ -3,6 +3,7 @@ type: source
 title: "Feature: Digital rights ignorance puts South Sudanese at risk"
 url: https://www.radiotamazuj.org/en/news/article/feature-digital-rights-ignorance-puts-south-sudanese-at-risk
 publisher: Radio Tamazuj
+ingested: 2026-07-19
 author: Associate Editor
 published: 2025-11-20
 date_precision: day

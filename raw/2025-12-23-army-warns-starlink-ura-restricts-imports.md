@@ -6,6 +6,7 @@ publisher: New Vision
 published: 2025-12-23
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [UGA]
 topics: [infra.connect, geopol.usa]
 entities: [[starlink], [uganda-communications-commission]]

@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: instrument
 title: Somalia Cybersecurity Law (2026)
 places: [SOM]

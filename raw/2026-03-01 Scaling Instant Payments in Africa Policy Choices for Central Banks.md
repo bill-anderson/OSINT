@@ -12,6 +12,7 @@ places: [XAF, XSS, ZAF]
 topics: [dpi.pay, dpi.exchange, gov.policy, gov.regional, include.access, infra.cybersec]
 entities: [[africanenda], [world-bank], [afcfta-digital-trade-protocol], [mojaloop]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Scaling Instant Payments in Africa: Policy Choices for Central Banks

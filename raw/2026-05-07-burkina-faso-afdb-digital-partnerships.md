@@ -3,6 +3,7 @@ type: source
 title: Burkina Faso Expands Digital Partnerships as AfDB Eyes Strategic Projects
 url: https://www.wearetech.africa/en/fils-uk/news/public-management/burkina-faso-expands-digital-partnerships-as-afdb-eyes-strategic-projects
 publisher: We Are Tech Africa
+ingested: 2026-07-18
 author: Samira Njoya
 published: 2026-05-07
 date_precision: day
@@ -13,6 +14,7 @@ places: [BFA]
 topics: [finance.mou, gov.regional, gov.policy, capacity.training]
 entities: [[ministry-of-digital-transition-burkina-faso], [aminata-zerbo-sabane], [afdb], [world-bank], [pactdigital], [wuri]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Burkina Faso Expands Digital Partnerships as AfDB Eyes Strategic Projects

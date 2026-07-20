@@ -6,12 +6,14 @@ publisher: ACTUALITE.CD
 published: 2026-05-08
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: COD-2026-07-17
 places: [COD]
 topics: [infra.connect, gov.standards, gov.regional, infra.energy]
 entities: [[helios-towers], [fratel], [maixent-bekangba], [vodacom], [arptc]]
 lens: []
+body_completeness: full
 provenance_flag: pr-wire
 ---
 

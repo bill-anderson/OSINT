@@ -6,12 +6,14 @@ publisher: TechAfrica News
 published: 2026-04-30
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 places: [DZA]
 topics: [tech.ai, infra.store, tech.innovate, tech.industry]
 entities: [[djezzy], [algeria-venture], [taubyte]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Djezzy Unveils AI Cloud Platform in Landmark Partnership with Algeria Venture and Taubyte

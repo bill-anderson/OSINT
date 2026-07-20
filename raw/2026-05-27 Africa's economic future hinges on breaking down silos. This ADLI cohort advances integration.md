@@ -3,6 +3,8 @@ type: source
 title: "Africa's economic future hinges on breaking down silos. This ADLI cohort advances integration"
 publisher: Digital Impact Alliance (DIAL)
 url: https://dial.global/adli-cohort-advances-integration/
+date_precision: day
+date_source: source
 author: Pierrinne Leukes
 published: 2026-05-27
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [XAF, NGA, KEN]
 topics: [gov.regional, gov.policy, dpi.exchange, dpi.id, gov.standards, capacity.training]
 entities: [[adli], [dial], [afcfta], [african-union], [afcfta-digital-trade-protocol]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- 2026 ADLI (Africa Data Leadership Initiative) cohort x AfCFTA Digital Identity Annex (AU-adopted Feb 2025); 6 countries/3 trade corridors. Cites EAC/ECOWAS/SADC data-governance frameworks; AU 'African Single Digital Market'. -->

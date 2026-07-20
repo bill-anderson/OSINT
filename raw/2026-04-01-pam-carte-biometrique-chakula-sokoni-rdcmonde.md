@@ -6,12 +6,14 @@ publisher: Magazine RD CONGO-MONDE
 published: 2026-04-01
 date_precision: month
 date_source: proxy
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: COD-2026-07-17
 places: [COD]
 topics: [dpi.pay, dpi.id, include.access, digital.rural, data.statistics]
 entities: [[world-food-programme], [chakula-sokoni], [afc-m23]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- DATE NOTE: no publication date in body. The only dated anchor is a reference to

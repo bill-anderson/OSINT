@@ -3,6 +3,8 @@ type: source
 title: "Abia Govt Call For Unified Data Architecture To Drive Governance"
 publisher: The Whistler
 url: https://thewhistler.ng/abia-govt-call-for-unified-data-architecture-to-drive-governance/
+date_precision: day
+date_source: source
 author: Favour Onyebuchi
 published: 2026-02-19
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [NGA]
 topics: [dpi.registry, dpi.id, digital.localgov, gov.policy]
 entities: [[abia-state-government]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Abia State (Gov. Alex Otti) called for a 'unified data architecture' at a 'Strategic DPI and Delivery' workshop (Umuahia, ~mid-Feb 2026), theme 'One Data, One Identity, One Government'. A sub-national Nigerian DPI push. Entity [[abia-state-government]]. -->

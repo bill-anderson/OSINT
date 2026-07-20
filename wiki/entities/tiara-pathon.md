@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: person
 title: Tiara Pathon
 places: [ZAF, XSS]

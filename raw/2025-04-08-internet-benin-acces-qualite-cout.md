@@ -3,6 +3,9 @@ type: source
 title: "Internet au Bénin: Accès, qualité et coût : Où en sommes-nous ?"
 url: https://fraternite.bj/internet-au-benin-acces-qualite-et-cout-ou-en-sommes-nous/
 publisher: Fraternité
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Illiassou MAMOUDOU
 published: 2025-04-08
 date_precision: day

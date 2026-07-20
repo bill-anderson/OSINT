@@ -3,6 +3,8 @@ type: source
 title: Inside Rwanda's plan to fast-track digital transformation by 2026
 url: https://www.newtimes.co.rw/article/27947/news/technology/inside-rwandas-plan-to-fast-track-digital-transformation-by-2026
 publisher: The New Times
+ingested: 2026-07-19
+lens: []
 author: Emmanuel Ntirenganya
 published: 2025-07-09
 date_precision: day

@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: government-body
 title: Independent Communications Authority of South Africa (ICASA)
 places: [ZAF]

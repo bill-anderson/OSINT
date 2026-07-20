@@ -13,6 +13,7 @@ places: [MOZ]
 topics: [dpi.id, dpi.govtech, include.access]
 entities: [[edge-mozambique], [world-bank]]
 lens: []
+body_completeness: full
 ---
 
 Project Information Document for the World Bank's Mozambique Digital Governance and Economy Project (EDGE, P172350) — a $150 million Investment Project Financing operation that establishes the EDGE project, with implementing agencies INAGE and INTIC. It frames the project's support for foundational digital identity, digital government services and inclusive access. The founding reference for the EDGE entity.

@@ -2,6 +2,8 @@
 type: source
 title: "All the ways Europe is ditching American technology"
 publisher: WIRED
+date_precision: day
+date_source: source
 author: Matt Burgess
 url: https://www.wired.com/story/all-the-ways-europe-is-ditching-american-technology/
 published: 2026-06-08
@@ -11,6 +13,7 @@ places: [XGL]
 topics: [gov.policy, geopol.usa, geopol.eu, infra.store, tech.industry]
 entities: [[google], [microsoft], [amazon-web-services]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Global-North analogue of the African sovereignty pieces: European governments/firms/NGOs

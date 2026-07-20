@@ -6,10 +6,12 @@ publisher: Biometric Update
 published: 2026-05-11
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [COD]
 topics: [dpi.pay, dpi.id, include.access, include.divides, gov.policy, tech.innovate]
 entities: [[mainmoney], [ai-tech-drc], [keyo], [rdc-pass], [trident-digital-tech]]
 lens: []
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: COD-2026-07-17
 ---

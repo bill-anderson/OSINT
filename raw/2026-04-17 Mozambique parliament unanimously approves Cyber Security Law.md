@@ -3,6 +3,8 @@ type: source
 title: "Mozambique parliament unanimously approves Cyber Security Law"
 publisher: Club of Mozambique (via O Pais)
 url: https://clubofmozambique.com/news/mozambique-parliament-unanimously-approves-cyber-security-law/
+date_precision: day
+date_source: source
 author: unknown
 published: 2026-04-17
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [MOZ]
 topics: [infra.cybersec, gov.legislate]
 entities: [[mozambique-cyber-security-law]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Parliament unanimously passed a Cyber Security Law + separate Cybercrime Law (2026-04-17). INCM = technical coordinator (functions pass to Defence/Security Cyber Coordination Centre in state of siege); Cyber Security Fund. Currency figure internally inconsistent in source (160M vs 167,257.94M MZN) - recorded, not reconciled. -->

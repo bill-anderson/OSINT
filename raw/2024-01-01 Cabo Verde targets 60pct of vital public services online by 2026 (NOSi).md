@@ -11,6 +11,7 @@ places: [CPV]
 topics: [dpi.govtech, dpi.id, dpi.exchange, gov.policy]
 entities: [[nosi]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Cabo Verde targets 60% of vital public services online by 2026 (NOSi)

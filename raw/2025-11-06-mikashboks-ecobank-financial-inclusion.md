@@ -6,6 +6,7 @@ publisher: Sierra Leone Concord Times
 published: 2025-11-06
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: SLE-2026-07-17

@@ -7,6 +7,7 @@ topics: [dpi.exchange, dpi.id, dpi.pay, gov.policy, gov.standards]
 lens: []
 status: active
 last_reviewed: 2026-07-11
+sources: []
 ---
 
 # DPI and Development: A World Bank Group Approach

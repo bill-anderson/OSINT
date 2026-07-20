@@ -6,10 +6,12 @@ publisher: Primature de la République centrafricaine (site officiel)
 published: 2025-12-19
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [CAF]
 topics: [infra.connect, geopol.usa, include.divides, include.access, finance.mou]
 entities: [[starlink], [spacex], [felix-moloua], [faustin-archange-touadera], [justin-gourna-zacko], [us-embassy-bangui], [melanie-zimmermann], [sylvie-baipo-temon]]
 lens: [sovereignty]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: CAF-2026-07-17
 provenance_flag: government-primary (official Prime Minister's office; promotional register — capture is not endorsement)

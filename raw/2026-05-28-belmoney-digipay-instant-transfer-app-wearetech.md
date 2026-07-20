@@ -3,6 +3,7 @@ type: source
 title: Belmoney, DigiPay launch instant transfer app for Congo and DRC (DigiTransfer)
 url: https://www.wearetech.africa/en/fils-uk/news/tech/belmoney-digipay-launch-instant-transfer-app-for-congo-and-drc
 publisher: We Are Tech Africa
+ingested: 2026-07-18
 author: Samira Njoya
 published: 2026-05-28
 date_precision: day
@@ -11,6 +12,7 @@ places: [COG, COD]
 topics: [dpi.pay, finance.mou, include.access, geopol.eu, tech.industry]
 entities: [[digipay-group], [belmoney]]
 lens: []
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: COG-2026-07-17
 ---

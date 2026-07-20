@@ -6,6 +6,7 @@ publisher: The Namibian
 published: 2026-06-21
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [NAM]
 topics: [infra.cybersec, dpi.pay, gov.protect, data.statistics]
 entities: [[telecom-namibia], [bank-of-namibia], [cran]]

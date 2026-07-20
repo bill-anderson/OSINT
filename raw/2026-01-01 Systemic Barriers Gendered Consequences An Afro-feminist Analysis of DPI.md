@@ -12,6 +12,7 @@ places: [UGA, KEN, ZAF, XEA, XSS]
 topics: [dpi.id, dpi.pay, dpi.exchange, gov.protect, include.divides, include.access]
 entities: [[pollicy], [safaricom], [mymzansi]]
 lens: [sovereignty, colonialism]
+body_completeness: full
 ---
 
 # Systemic Barriers, Gendered Consequences: an Afro-feminist analysis of DPI

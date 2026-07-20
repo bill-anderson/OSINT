@@ -6,10 +6,12 @@ publisher: Corbeau News Centrafrique (CNC)
 published: 2025-12-21
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [CAF]
 topics: [infra.connect, geopol.usa, include.access, digital.rural, finance.mou]
 entities: [[starlink], [spacex], [us-embassy-bangui], [melanie-zimmermann], [faustin-archange-touadera], [felix-moloua], [justin-gourna-zacko]]
 lens: [sovereignty]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: CAF-2026-07-17
 date_note: "Exa metadata gave 2025-12-21; the page renders a live 'today' date in its chrome (read 'jeudi, juin 11, 2026' at fetch) which must NOT be mistaken for the publication date. 2025-12-21 is corroborated by the article's image path (/uploads/2025/12/) and by the ceremony it reports (Wed 17 Dec 2025, cf. primature.cf 2025-12-19)."

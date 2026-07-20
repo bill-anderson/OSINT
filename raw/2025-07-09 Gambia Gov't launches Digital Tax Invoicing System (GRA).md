@@ -13,6 +13,7 @@ places: [GMB]
 topics: [dpi.govtech, dpi.pay, data.statistics]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 <!-- Gambia Revenue Authority (GRA) launched a Digital Invoicing System (e-invoicing) to modernise tax administration. April 2025 e-invoicing agreement with Avatar Technologies (Greenbelt, Maryland, USA). Simplifies invoicing, reduces errors, real-time sales monitoring to cut under-declaration/evasion; tamper-proof digital signature. Follows a GRA due-diligence visit to Côte d'Ivoire; complements Digital Weigh Bridge, Fuel Integrity Marking, Digital Tax Stamp. CG Yankuba Darboe; Finance Min Seedy Keita. -->

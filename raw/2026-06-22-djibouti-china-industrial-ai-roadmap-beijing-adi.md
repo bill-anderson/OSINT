@@ -6,10 +6,12 @@ publisher: Agence Djiboutienne d'Information (ADI)
 published: 2026-06-22
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [DJI]
 topics: [geopol.china, tech.ai, tech.industry, finance.new]
 entities: [[china-exim-bank], [ilyas-moussa-dawaleh]]
 lens: [sovereignty]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: DJI-2026-07-17
 ---

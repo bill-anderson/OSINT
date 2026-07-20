@@ -3,6 +3,9 @@ type: source
 title: "Gouvernance foncière : Le gouvernement implique les chefs traditionnels dans la procédure Immatriculation des terres"
 url: https://leconomie.info/gouvernance-fonciere-le-gouvernement-implique-les-chefs-traditionnels-dans-la-procedure-immatriculation-des-terres/
 publisher: Le quotidien L'Economie
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Jean Daniel Obama
 published: 2025-04-23
 date_precision: day

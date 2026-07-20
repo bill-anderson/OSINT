@@ -3,6 +3,8 @@ type: source
 title: How Digital Public Infrastructure Is Transforming Health and Identity in Rural Zambia
 url: https://dpi.africa.com/how-digital-public-infrastructure-is-transforming-health-and-identity-in-rural-zambia
 publisher: dpi.africa.com (Co-Develop)
+lens: []
+body_completeness: full
 author: Lissa Ngenda Mwenda, Vimbainashe Tsododo, Garikai Nhongo
 published: 2026-01-15
 date_precision: day

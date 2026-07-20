@@ -6,12 +6,14 @@ publisher: TechAfrica News
 published: 2026-06-15
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 places: [DZA]
 topics: [infra.cybersec, gov.policy, capacity.training, finance.mou]
 entities: [[mpt-cert-algeria], [ministry-of-post-and-telecommunications-algeria], [sid-ali-zerrouki], [koica]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Algeria Launches Sectoral Cyber Incident Response Center to Strengthen Digital Resilience

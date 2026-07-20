@@ -3,6 +3,8 @@ type: source
 title: "Nigeria explores avenues for digital trust collaboration with Trust Stamp"
 publisher: Biometric Update
 url: https://www.biometricupdate.com/202602/
+date_precision: day
+date_source: source
 author: Ayang Macdonald
 published: 2026-02-24
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [NGA, GHA]
 topics: [dpi.id, gov.protect, infra.cybersec, capacity.literacy]
 entities: [[nitda], [trust-stamp], [kashifu-inuwa]]
 lens: []
+body_completeness: full
 ---
 
 <!-- NITDA held strategic discussions with Trust Stamp (AI biometric tokenization) in Abuja on a digital-trust framework; Trust Stamp already used by a Nigerian MNO for SIM-swap fraud prevention, and by Ghana (Sept 2025). Talks only (no signed deal). Entity [[trust-stamp]]. -->

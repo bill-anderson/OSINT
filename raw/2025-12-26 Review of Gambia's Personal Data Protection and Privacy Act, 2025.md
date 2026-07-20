@@ -13,6 +13,7 @@ places: [GMB]
 topics: [gov.protect, gov.legislate]
 entities: [[gambia-data-protection-act-2025]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Detailed legal review (TechHive Advisory) of The Gambia's enacted Personal Data Protection and Privacy Act. Follows validation of the National Data Policy earlier in the year; ends a multi-year stalled process. Establishes an independent Commission. Extraterritorial jurisdiction; exceptions for personal/household + anonymous data. Codifies fairness/transparency/lawfulness/purpose limitation/minimisation/accuracy/security; 7 lawful bases (consent, contract, legal obligation, vital interests, public task, legitimate interest, archiving/research/stats). Sensitive data (incl. genetic/biometric/health/race/politics) prohibited unless lawful basis + condition. Robust data-subject rights (access, rectification, erasure, restriction, objection incl. direct-marketing, protection from solely-automated decisions/profiling, complaints + compensation). -->

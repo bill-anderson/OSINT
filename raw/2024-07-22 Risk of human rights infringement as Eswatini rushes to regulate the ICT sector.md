@@ -12,6 +12,7 @@ places: [SWZ]
 topics: [dpi.id, dpi.registry, gov.legislate, gov.protect, gov.policy, infra.cybersec]
 entities: [[esccom], [mtn-eswatini], [ministry-of-home-affairs-eswatini], [rstp], [data-protection-act-2022-eswatini], [computer-crime-and-cyber-crime-act-2022-eswatini], [apc]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 *Originally published 2024-07-22; updated 2024-11-04. Issue 3 of Southern Africa Digital Rights. Historical baseline for national-ID state — must not out-rank 2025-26 material on current DPI state.*

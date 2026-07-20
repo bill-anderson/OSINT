@@ -6,12 +6,14 @@ publisher: Revista Real Equatorial Guinea
 published: 2026-05-25
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: GNQ-2026-07-17
 places: [GNQ]
 topics: [infra.connect, dpi.pay, tech.industry]
 entities: [[getesa]]
 lens: []
+body_completeness: full
 ---
 
 State telecom operator **GETESA** launched a modernisation plan, announced by its new Director General Charles Borome Razafimahatratra to VP Nguema Obiang Mangue. Three axes: optimising the national network, expanding phone/internet coverage, and the company's digital transformation. Concrete steps: acquiring modern equipment; **reactivating fibre optic** (until now used only by power utility SEGESA to interconnect substations); **introducing 5G**; deploying **public Wi-Fi in Malabo, Bata, Oyala** and rural/urban areas; and reinforcing energy/technical infrastructure.

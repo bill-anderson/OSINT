@@ -1,6 +1,7 @@
 ---
 type: source
 title: "Vitesse de l'Internet mobile : Alger dans le Top 50 mondial"
+ingested: 2026-07-18
 title_en: Algiers enters the global Top 50 for mobile-internet speed (48th, up 68 places from 116th in Sept), 163.31 Mbps download per Ookla; fixed internet up 11 places (92.44 Mbps) on fibre expansion — Post & Telecoms Ministry
 url: https://www.echoroukonline.com/vitesse-de-linternet-mobile-alger-dans-le-top-50-mondial
 publisher: Echorouk El Yawmi
@@ -15,6 +16,7 @@ places: [DZA]
 topics: [infra.connect, data.statistics, include.access]
 entities: [[ministere-de-la-poste-et-des-telecommunications, ookla, algerie-telecom]]
 lens: []
+body_completeness: full
 provenance_flag: privately-owned
 ---
 

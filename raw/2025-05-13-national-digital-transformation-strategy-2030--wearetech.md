@@ -6,12 +6,14 @@ publisher: We Are Tech
 published: 2025-05-13
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 places: [DZA]
 topics: [gov.policy, dpi.govtech, capacity.training, infra.store, infra.cybersec, tech.industry, include.access]
 entities: [[digital-algeria-2030], [high-commission-digitalisation-algeria], [meriem-benmouloud], [abdelmadjid-tebboune]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Algeria Aims for Full Digital Transformation by 2030 with New Strategy

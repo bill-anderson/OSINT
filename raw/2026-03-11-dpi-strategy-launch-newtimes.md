@@ -3,6 +3,8 @@ type: source
 title: Rwanda launches Digital Public Infrastructure strategy to power citizen services, AI
 url: https://www.newtimes.co.rw/article/34011/news/featured/rwanda-launches-digital-public-infrastructure-strategy-to-power-citizen-services-ai
 publisher: The New Times
+ingested: 2026-07-19
+lens: []
 author: Vincent Sugira
 published: 2026-03-11
 date_precision: day

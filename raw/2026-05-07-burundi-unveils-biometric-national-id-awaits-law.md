@@ -3,6 +3,7 @@ type: source
 title: Burundi unveils Biometric National ID system, awaits law before full rollout
 url: https://www.burunditimes.com/burundi-unveils-biometric-national-id-system-awaits-law-before-full-rollout/
 publisher: Burundi Times
+ingested: 2026-07-18
 author: Burundi Times
 published: 2026-05-07
 date_precision: day
@@ -13,6 +14,7 @@ places: [BDI]
 topics: [dpi.id, dpi.registry, gov.protect, gov.legislate, gov.regional]
 entities: [[ministry-of-interior-burundi], [eac]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Burundi unveils Biometric National ID system, awaits law before full rollout

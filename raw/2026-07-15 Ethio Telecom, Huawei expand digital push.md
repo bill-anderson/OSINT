@@ -13,6 +13,7 @@ places: [ETH]
 topics: [infra.connect, tech.ai, tech.industry, infra.store]
 entities: [[ethio-telecom], [huawei], [telebirr]]
 lens: []
+body_completeness: full
 ---
 
 <!-- ITWeb Africa, 15 Jul 2026. Ethio Telecom + Huawei expanding collaboration beyond telecoms infra into

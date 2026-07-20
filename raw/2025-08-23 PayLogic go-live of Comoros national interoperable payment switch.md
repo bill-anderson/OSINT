@@ -13,6 +13,7 @@ places: [COM]
 topics: [dpi.pay, include.access]
 entities: [[paylogic], [bcc-comoros]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Merges PayLogic award (2025-01-07) + go-live (2025-08-23). Comoros' National Payment Switch went live (Aug 2025), a unified interoperable platform connecting commercial banks, microfinance institutions and mobile-money operators nationwide for real-time digital transactions. Part of the World Bank-financed Financial Sector Development Support Project (PADSF); vendor PayLogic (Exec Chairman Mohamed Mekouar). Aims: reduce cash reliance, modernise the financial sector, reach rural areas + diaspora. PayLogic also runs the CEMAC regional switch, Eswatini and Lesotho (LeSwitch). Award URL: pay-logic.com/paylogic-awarded-project-for-interoperable-digital-payment-switch-in-the-union-of-comoros. -->

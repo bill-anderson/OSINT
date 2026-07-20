@@ -3,6 +3,8 @@ type: source
 title: "Pan-African Payment and Settlement System drives Africa's banking integration"
 publisher: African Business
 url: https://african.business/2022/08/
+date_precision: day
+date_source: source
 author: sshah
 published: 2022-08-30
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [XAF]
 topics: [dpi.pay, gov.regional, finance.new, dpi.exchange]
 entities: [[papss], [afcfta], [afreximbank], [wamkele-mene], [cbn]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Backfill (2022): PAPSS launched by Afreximbank with AfCFTA support (Sept 2021); instant cross-border payments across 40+ currencies. Afreximbank approved $500m for the WAMZ pilot, expects a further $3bn for continental rollout. Baseline figures — mark 'as of 2022'. -->

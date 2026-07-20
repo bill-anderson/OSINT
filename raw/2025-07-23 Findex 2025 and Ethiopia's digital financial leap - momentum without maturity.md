@@ -11,6 +11,7 @@ places: [ETH]
 topics: [dpi.pay, include.access, include.divides, data.statistics]
 entities: [[world-bank]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Findex 2025 and Ethiopia's digital financial leap — momentum without maturity

@@ -3,6 +3,8 @@ type: source
 title: "Kenya streamlines access to legal and digital identity"
 publisher: Biometric Update
 url: https://www.biometricupdate.com/202602/kenya-streamlines-access-to-legal-and-digital-identity
+date_precision: day
+date_source: source
 author: Ayang Macdonald
 published: 2026-02-24
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [KEN]
 topics: [dpi.id, dpi.registry, gov.legislate, digital.rural, include.access]
 entities: [[kenya-revenue-authority]]
 lens: []
+body_completeness: full
 ---
 
 <!-- President Ruto assented to the Births and Deaths Registration (Amendment) Bill 2024 — mandates >=1 civil-registration office in each of 290 sub-counties (reinforcing Constitution Art. 6(3)); passed the National Assembly Nov 2024; part of ongoing Kenya civil-registration + national-ID reform. (KRA tag incidental.) -->

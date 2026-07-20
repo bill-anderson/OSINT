@@ -1,10 +1,13 @@
 ---
 type: source
+ingested: 2026-07-17
 places: [NGA]
 topics: [dpi.id, include.access]
 entities: [[nimc]]
 date_precision: day
 date_source: source
+lens: []
+body_completeness: full
 page: 
 title: NIMC Intensifies Ward-Level NIN Enrolment Nationwide
 author: by Michael Olugbode

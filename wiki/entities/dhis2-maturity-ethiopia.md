@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: instrument
 title: Maturity Assessment of DHIS2 Implementation in Ethiopia
 places: [ETH]

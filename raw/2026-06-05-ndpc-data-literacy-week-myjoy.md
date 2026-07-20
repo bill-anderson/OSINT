@@ -6,6 +6,7 @@ publisher: MyJoyOnline
 published: 2026-06-05
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: GHA-2026-07-17
 places: [GHA]
@@ -13,6 +14,7 @@ topics: [data.statistics, capacity.literacy, data.open]
 date_note: "Fixed at ingest: 'NDPC' here = National DEVELOPMENT PLANNING Commission (Audrey Smock Amoah), not the Data Protection Commission; gov.protect tag dropped, data.statistics added."
 entities: [[national-development-planning-commission-ghana], [ghana-statistical-service]]
 lens: []
+body_completeness: full
 ---
 # NDPC boss calls for data-driven governance at UCC Data Literacy Week Launch
 

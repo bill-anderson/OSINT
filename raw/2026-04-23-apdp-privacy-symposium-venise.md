@@ -3,6 +3,7 @@ type: source
 title: "Protection des données : Le modèle béninois à la tribune du Privacy Symposium à Venise"
 url: https://www.lanation.bj/numerique/protection-des-donnees-le-modele-beninois-a-la-tribune-du-privacy-symposium-a-venise
 publisher: La Nation
+ingested: 2026-07-18
 author: Christian Hounnongbé
 published: 2026-04-23
 date_precision: day
@@ -13,6 +14,7 @@ places: [BEN]
 topics: [gov.protect, gov.legislate, geopol.eu, tech.ai]
 entities: [[apdp-benin], [luciano-hounkponou], [privacy-symposium], [code-du-numerique-benin]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Protection des données : Le modèle béninois à la tribune du Privacy Symposium à Venise

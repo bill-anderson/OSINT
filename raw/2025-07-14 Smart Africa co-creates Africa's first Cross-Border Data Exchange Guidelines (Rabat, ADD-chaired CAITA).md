@@ -13,6 +13,7 @@ places: [MAR, XSS, XAF]
 topics: [dpi.exchange, gov.regional, gov.standards]
 entities: [[smart-africa], [add-morocco]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Smart Africa, via its Council of African IT Agencies (CAITA) — chaired by Morocco's Digital Development Agency (ADD) — brought 11 member states to Rabat (14 Jul 2025) to draft Africa's first Cross-Border Data Exchange Guidelines. Aim: harmonized framework for developing/interconnecting/operating data-exchange platforms in the Smart Africa space, under the Smart Africa Trust Alliance (SATA). CEO Lacina Koné: "game-changer." ADD DG Amine El Mezouaghi tied to King Mohammed VI's vision. Parallel with Morocco's first National AI Summit; explored the GovStack Information Mediator (Data Exchange) Building Block. CAITA states: Benin, Burkina Faso, Côte d'Ivoire, Comoros, Gabon, Ghana, Mauritania, Nigeria, Tunisia, Zambia, Morocco. Partners: NORAD, GovStack, GIZ. -->

@@ -6,12 +6,14 @@ publisher: TechAfrica News
 published: 2026-06-15
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [dpi.govtech, tech.innovate, gov.policy]
 entities: [[cybastion], [ministry-of-tourism-and-leisure-cote-divoire], [sublime-cote-divoire], [digital-fast-track]]
 lens: []
+body_completeness: full
 ---
 
 # Cybastion and Côte d'Ivoire Collaborate on 'Sublime Côte d'Ivoire' E-Tourism Platform

@@ -2,6 +2,8 @@
 type: source
 title: "Africa benefits from connectivity milestone"
 publisher: ITWeb Africa
+date_precision: day
+date_source: source
 author: Lezeth Khoza
 url: https://itweb.africa/article/africa-benefits-from-connectivity-milestone/WnpNgq21dJNMVrGd
 published: 2026-07-09
@@ -11,6 +13,7 @@ places: [XAF, KEN, ZAF, XGL]
 topics: [infra.connect, include.divides, include.access, tech.ai, finance.new]
 entities: [[partner2connect], [itu], [microsoft], [gsma]]
 lens: []
+body_completeness: excerpt
 ---
 
 <!-- DEDUP: same P2C >$100bn pledge milestone (WSIS Forum 2026, Geneva) as the already-ingested

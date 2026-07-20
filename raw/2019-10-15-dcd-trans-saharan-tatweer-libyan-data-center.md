@@ -10,6 +10,7 @@ ingested: 2026-07-20
 places: [LBY]
 topics: [infra.store, infra.cybersec]
 entities: [[trans-sahara], [tatweer], [huawei]]
+lens: []
 body_completeness: full
 ---
 

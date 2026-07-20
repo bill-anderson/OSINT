@@ -3,6 +3,8 @@ type: source
 title: "Undersea cables for Africa's internet retrace history and leave digital gaps as they connect continents"
 publisher: The Conversation Africa
 url: https://theconversation.com/undersea-cables-for-africas-internet-retrace-history-225912
+date_precision: day
+date_source: source
 author: Jess Auerbach Jahajeeah
 published: 2024-03-15
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [ZAF, NGA, CIV, LBR, GHA, BFA, AGO, XSS]
 topics: [infra.connect, include.divides, infra.capacity]
 entities: [[jess-auerbach], [starlink]]
 lens: [colonialism, sovereignty]
+body_completeness: full
 ---
 
 <!-- Backfill (2024-03): expert interview tied to the 14 Mar 2024 four-cable outage (Nigeria/CÃ´te d'Ivoire/Liberia/Ghana/Burkina Faso/SA worst hit). Single-cable countries (Sierra Leone, Liberia) fully offline when a cable breaks; most African cables maintained by the ship LÃ©on ThÃ©venin. Explicit digital-colonialism framing. Author [[jess-auerbach]]. -->

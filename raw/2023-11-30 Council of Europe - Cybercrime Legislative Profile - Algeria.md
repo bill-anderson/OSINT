@@ -11,6 +11,7 @@ places: [DZA]
 topics: [infra.cybersec, gov.legislate]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 # Council of Europe — Cybercrime Legislative Profile, Algeria

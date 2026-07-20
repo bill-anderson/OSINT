@@ -3,6 +3,9 @@ type: source
 title: "Registre National des Personnes Physiques : Les nouvelles précisions de l'ANIP"
 url: https://fraternite.bj/registre-national-des-personnes-physiques-les-nouvelles-precisions-de-lanip/
 publisher: Fraternité
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Bernice BODEHOU / Fidégnon
 published: 2026-05-07
 date_precision: day

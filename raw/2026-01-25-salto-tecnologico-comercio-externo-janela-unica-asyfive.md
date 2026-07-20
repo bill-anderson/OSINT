@@ -6,6 +6,7 @@ publisher: Téla Nón
 published: 2026-01-25
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [STP]
 topics: [dpi.govtech, dpi.exchange]
 entities: [[undp]]

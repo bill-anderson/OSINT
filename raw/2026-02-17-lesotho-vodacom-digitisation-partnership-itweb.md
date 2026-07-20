@@ -6,10 +6,12 @@ publisher: ITWeb Africa
 published: 2026-02-17
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [LSO]
 topics: [dpi.govtech, finance.mou, dpi.pay, gov.policy]
 entities: [[vodacom], [micsti-lesotho]]
 lens: []
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: LSO-2026-07-17
 ---

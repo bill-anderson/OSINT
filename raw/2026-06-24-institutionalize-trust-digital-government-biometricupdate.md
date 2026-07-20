@@ -6,6 +6,7 @@ publisher: Biometric Update
 published: 2026-06-24
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [KEN]
 topics: [dpi.govtech, gov.protect, dpi.id]
 entities: [[odpc-kenya]]

@@ -6,12 +6,14 @@ publisher: Linfodrome
 published: 2026-05-14
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [infra.connect, digital.localgov]
 entities: [[kaydan-technology], [groupe-kaydan], [mairie-du-plateau], [jacques-gabriel-ehouo], [alain-kouadio]]
 lens: []
+body_completeness: full
 ---
 
 # Plateau : la mairie lance un réseau souterrain unique pour tous les opérateurs du secteur des télécommunications

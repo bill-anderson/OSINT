@@ -6,10 +6,12 @@ publisher: Expresso das Ilhas
 published: 2026-03-06
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [CPV, AGO]
 topics: [dpi.govtech, finance.mou, infra.cybersec, infra.store, gov.regional]
 entities: [[nosi], [setic-fp-angola], [nosi-setic-fp-mou-2026]]
 lens: [sovereignty]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: CPV-2026-07-17
 ---

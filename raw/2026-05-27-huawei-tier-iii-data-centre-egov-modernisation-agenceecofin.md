@@ -6,13 +6,14 @@ publisher: Agence Ecofin
 published: 2026-05-27
 date_precision: day
 date_source: proxy
+ingested: 2026-07-18
 places: [CAF]
 topics: [infra.store, dpi.govtech, geopol.china, infra.cybersec, dpi.exchange, infra.energy]
 entities: [[huawei], [mepci-central-african-republic], [adolphe-nicaise-samafou], [dunia-platform], [pnd-2024-2028-central-african-republic]]
 lens: [sovereignty, colonialism]
 retrieved: 2026-07-17
 sweep_batch: CAF-2026-07-17
-body_completeness: highlights-only
+body_completeness: excerpt
 date_note: "Exa served no publication date for this URL. 2026-05-27 is inferred from the Ecofin URL slug (2705-138800) and is corroborated by Digital Business Africa's coverage of the same meeting on 2026-05-28. Hence date_source: proxy. NOTE: the Ecofin body says the working meeting was 'le mardi 26 mars' — this is an error in the source: Digital Business Africa dates the same meeting 'mardi 26 mai 2026', which is the Tuesday that fits. Correct at ingest."
 ---
 

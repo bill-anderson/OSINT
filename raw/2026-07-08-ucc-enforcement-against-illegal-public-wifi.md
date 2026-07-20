@@ -6,6 +6,7 @@ publisher: TechAfrica News
 published: 2026-07-08
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [UGA]
 topics: [infra.connect, gov.legislate]
 entities: [[uganda-communications-commission]]

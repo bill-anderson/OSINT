@@ -12,6 +12,7 @@ places: [TCD]
 topics: [dpi.id, dpi.exchange, dpi.registry, dpi.govtech, gov.protect, include.access, finance.new]
 entities: [[anats], [chad-biometric-registry], [idemia], [unhcr], [tchad-connexion-2030]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 *The XAF 15bn (~US$26.1m) registry-investment figure is relayed second-hand from Africa 24 TV quoting government sources — attribute accordingly if load-bearing.*

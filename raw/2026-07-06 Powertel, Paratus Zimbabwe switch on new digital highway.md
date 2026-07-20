@@ -4,11 +4,14 @@ title: Powertel, Paratus Zimbabwe switch on new digital highway
 url: https://itweb.africa/article/powertel-paratus-zimbabwe-switch-on-new-digital-highway/Gb3Bw7WadXZq2k6V
 publisher: ITWeb Africa
 published: 2026-07-06
+date_precision: day
+date_source: source
 ingested: 2026-07-10
 places: [ZWE, ZMB, BWA, XSA]
 topics: [infra.connect, gov.regional, finance.new, infra.capacity]
 entities: [[powertel-paratus-fibre-corridor], [paratus]]
 lens: [sovereignty]
+body_completeness: excerpt
 ---
 
 [![...](https://itweb.africa/google_news_badge.webp)](https://news.google.com/publications/CAAqJggKIiBDQklTRWdnTWFnNEtER2wwZDJWaUxtRm1jbWxqWVNnQVAB?hl=en-ZA&gl=ZA&ceid=ZA%3Aen)

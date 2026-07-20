@@ -6,12 +6,14 @@ publisher: Mediaguinee
 published: 2025-12-26
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: GIN-2026-07-17
 places: [GIN]
 topics: [infra.connect, capacity.research, include.access]
 entities: [[ansuten], [ministry-digital-economy-guinea], [rose-pola-pricemou], [sogeb]]
 lens: []
+body_completeness: full
 ---
 
 # La ministre Pricemou lance un vaste projet de connexion numérique pour 17 universités et instituts

@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: organisation
 title: Financial Sector Deepening Tanzania (FSDT)
 places: [TZA]

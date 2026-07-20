@@ -3,6 +3,9 @@ type: source
 title: "Communauté de Pratiques eServices (CoP): La gestion de la plateforme confiée au Club Dsi Bénin"
 url: https://lanation.bj/actualites/communaute-de-pratiques-eservices-cop-la-gestion-de-la-plateforme-confiee-au-club-dsi-benin
 publisher: La Nation
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Ariel GBAGUIDI
 published: 2026-03-02
 date_precision: day

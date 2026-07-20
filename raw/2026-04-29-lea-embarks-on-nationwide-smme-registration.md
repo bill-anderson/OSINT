@@ -3,6 +3,9 @@ type: source
 title: LEA embarks on nationwide SMME registration
 url: https://www.mmegi.bw/business/lea-embarks-on-nationwide-smme-registration/news
 publisher: Mmegi
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Pauline Dikuelo
 published: 2026-04-29
 date_precision: day

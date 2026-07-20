@@ -6,12 +6,14 @@ publisher: The Standard
 published: 2025-12-11
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: GMB-2026-07-17
 places: [GMB]
 topics: [tech.industry, finance.new]
 entities: []
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Gov't to sell 80 percent shares at Gamcel for D6 billion

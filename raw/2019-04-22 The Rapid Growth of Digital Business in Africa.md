@@ -2,6 +2,8 @@
 type: source
 title: "The rapid growth of digital business in Africa"
 publisher: Harvard Business Review
+date_precision: day
+date_source: source
 author: Acha Leke, Tawanda Sibanda
 url: https://hbr.org/2019/04/the-rapid-growth-of-digital-business-in-africa
 published: 2019-04-22
@@ -11,6 +13,7 @@ places: [XAF, XSS, NGA, KEN]
 topics: [tech.industry, finance.new, dpi.pay, infra.connect, include.access, tech.innovate]
 entities: [[strive-masiyiwa]]
 lens: [colonialism]
+body_completeness: full
 ---
 
 <!-- 2019 HBR context. Anchored on Jumia's Apr-2019 NYSE listing (~$2bn cap). ALL figures dated

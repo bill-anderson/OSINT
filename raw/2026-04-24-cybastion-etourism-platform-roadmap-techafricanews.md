@@ -6,12 +6,14 @@ publisher: TechAfrica News
 published: 2026-04-24
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [dpi.govtech, dpi.pay, tech.innovate, gov.policy]
 entities: [[cybastion], [ministry-of-tourism-and-leisure-cote-divoire], [siandou-fofana], [sublime-cote-divoire], [fatoumata-komah], [digital-fast-track]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Côte d'Ivoire Advances Digital Tourism Strategy as Cybastion Presents eTourism Platform Roadmap

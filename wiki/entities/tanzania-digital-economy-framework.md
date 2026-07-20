@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: instrument
 title: Tanzania Digital Economy Strategic Framework 2024-2034
 places: [TZA]

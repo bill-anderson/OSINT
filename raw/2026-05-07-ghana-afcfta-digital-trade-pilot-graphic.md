@@ -6,12 +6,14 @@ publisher: Graphic Online
 published: 2026-05-07
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: GHA-2026-07-17
 places: [GHA, XWA]
 topics: [gov.regional, dpi.exchange, dpi.pay]
 entities: [[afcfta]]
 lens: []
+body_completeness: full
 ---
 # Ghana, 2 others pilot AfCFTA digital trade - Vice-President says new corridor to eliminate delays, high costs of intra-African transactions
 

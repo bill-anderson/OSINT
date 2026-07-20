@@ -6,12 +6,14 @@ publisher: ITWeb Africa
 published: 2025-09-02
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [infra.connect, dpi.pay, include.access]
 entities: [[mtn-cote-divoire], [mtn-group]]
 lens: []
+body_completeness: full
 ---
 
 By Phathisani Moyo, Senior contributor. Johannesburg, 02 Sept 2025.

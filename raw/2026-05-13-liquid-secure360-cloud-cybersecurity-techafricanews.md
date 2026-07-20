@@ -3,6 +3,9 @@ type: source
 title: Liquid Enhances Botswana's Digital Infrastructure with Enterprise-Grade Security and Cloud Solutions
 url: https://techafricanews.com/2026/05/13/liquid-enhances-botswanas-digital-infrastructure-with-enterprise-grade-security-and-cloud-solutions/
 publisher: TechAfrica News
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Editorial Team
 published: 2026-05-13
 date_precision: day

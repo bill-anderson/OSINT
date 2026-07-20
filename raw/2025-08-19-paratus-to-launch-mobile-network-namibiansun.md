@@ -6,6 +6,7 @@ publisher: Namibian Sun
 published: 2025-08-19
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [NAM]
 topics: [infra.connect, tech.industry]
 entities: [[paratus], [mtc-namibia], [telecom-namibia], [cran]]

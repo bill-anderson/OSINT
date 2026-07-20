@@ -1,6 +1,9 @@
 ---
 type: source
 title: Digital Skills in Nigeria — a summary of the population's skills and the availability of digital infrastructure in schools
+ingested: 2026-07-17
+lens: []
+body_completeness: full
 authors: Martin De Simone, Federico Alfredo Manolio
 publisher: World Bank (IBRD)
 published: 2024-01-01

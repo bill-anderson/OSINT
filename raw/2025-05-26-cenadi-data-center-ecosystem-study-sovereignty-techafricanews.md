@@ -3,6 +3,7 @@ type: source
 title: Cameroon Unveils Key Study on Data Center Ecosystem and Digital Sovereignty
 url: https://techafricanews.com/2025/05/26/cameroon-unveils-key-study-on-data-center-ecosystem-and-digital-sovereignty/
 publisher: TechAfrica News
+ingested: 2026-07-18
 author: Aayushya Ranjan
 published: 2025-05-26
 date_precision: day
@@ -11,6 +12,7 @@ places: [CMR]
 topics: [infra.store, gov.policy, tech.ai, infra.energy, infra.connect, gov.standards, data.statistics]
 entities: [[cenadi]]
 lens: [sovereignty]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: CMR-2026-07-17
 ---

@@ -6,6 +6,7 @@ publisher: ThisDay
 published: 2025-05-28
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [NGA]
 topics: [dpi.exchange, gov.policy, dpi.id, dpi.pay]
 entities: [[nimc], [nitda]]

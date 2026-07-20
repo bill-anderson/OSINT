@@ -13,6 +13,7 @@ places: [CAF]
 topics: [gov.policy, infra.connect, digital.rural, tech.innovate]
 entities: [[faustin-archange-touadera]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Touadera frames digital as a lever to boost the national economy: better digital infrastructure incl. fibre-optic rollout, a stable/accessible internet; extending fibre and rural 4G to close the digital divide; startup support incl. a startup training centre at the University of Bangui; digitalising administrative services to simplify processes, reduce corruption and build institutional trust. Stated aim: position CAR as a key player in the regional digital economy, attract FDI, create durable jobs. Statement of intent/political framing, not a concrete deployment. -->

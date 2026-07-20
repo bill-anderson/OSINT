@@ -3,6 +3,8 @@ type: source
 title: "Home affairs launches Smart ID partnership with banks"
 publisher: TimesLIVE
 url: https://www.timeslive.co.za/politics/2026-03-09-home-affairs-launches-smart-id-partnership-with-banks/
+date_precision: day
+date_source: source
 author: Sisanda Mbolekwa
 published: 2026-03-09
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [ZAF]
 topics: [dpi.id, dpi.govtech, dpi.registry, gov.protect, include.access]
 entities: [[sa-digital-id-regulations], [home-affairs-south-africa]]
 lens: []
+body_completeness: full
 ---
 
 <!-- SA Home Affairs launched its first live bank-branch Smart ID partnership (with Capitec, Orange Farm, 9 Mar 2026); prior bank partnership limited to 30 branches for 63m people; ~16m still on the green ID book; digital gateway to the National Population Register (DHA remains custodian). Part of 'Home Affairs @ home'. Attach to [[sa-digital-id-regulations]]. -->

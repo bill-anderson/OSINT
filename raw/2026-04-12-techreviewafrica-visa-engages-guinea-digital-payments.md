@@ -3,6 +3,7 @@ type: source
 title: "Visa engages Guinea on digital payments; potential MoU with the Central Bank"
 url: https://techreviewafrica.com/news/4892/visa-engages-guinea-on-digital-payments-to-accelerate-financial-sector-transformation
 publisher: Tech Review Africa
+ingested: 2026-07-18
 author: Nana Appiah Acquaye
 published: 2026-04-12
 date_precision: day
@@ -13,6 +14,7 @@ places: [GIN]
 topics: [dpi.pay, finance.mou]
 entities: [[visa], [bcrg], [simandou-2040]]
 lens: []
+body_completeness: full
 provenance_flag: pr-wire
 ---
 

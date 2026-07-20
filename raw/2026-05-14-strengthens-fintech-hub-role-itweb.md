@@ -3,6 +3,8 @@ type: source
 title: Rwanda strengthens African fintech hub role
 url: https://itweb.africa/article/rwanda-strengthens-african-fintech-hub-role/kYbe9MXba5bvAWpG
 publisher: ITWeb Africa
+ingested: 2026-07-19
+lens: []
 author: Phyllis Birori
 published: 2026-05-14
 date_precision: day

@@ -3,6 +3,7 @@ type: source
 title: US, Burkina Faso alliance to offer AI training to youths
 url: https://itweb.africa/article/us-burkina-faso-alliance-to-offer-ai-training-to-youths/rW1xL75n8o9MRk6m
 publisher: ITWeb Africa
+ingested: 2026-07-18
 author: Lezeth Khoza
 published: 2026-01-28
 date_precision: day
@@ -13,6 +14,7 @@ places: [BFA]
 topics: [geopol.usa, capacity.training, tech.ai]
 entities: [[ministry-of-digital-transition-burkina-faso], [aminata-zerbo-sabane], [joann-m-lockard]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # US, Burkina Faso alliance to offer AI training to youths

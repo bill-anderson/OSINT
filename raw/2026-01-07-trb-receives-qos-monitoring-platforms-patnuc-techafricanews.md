@@ -3,6 +3,7 @@ type: source
 title: Cameroon Strengthens Telecom Oversight as TRB Receives QoS Monitoring Platforms
 url: https://techafricanews.com/2026/01/07/cameroon-strengthens-telecom-oversight-as-trb-receives-qos-monitoring-platforms/
 publisher: TechAfrica News
+ingested: 2026-07-18
 author: Joyce Onyeagoro
 published: 2026-01-07
 date_precision: day
@@ -11,6 +12,7 @@ places: [CMR]
 topics: [gov.legislate, gov.standards, infra.connect, infra.capacity, include.access, gov.policy]
 entities: [[art-cameroon], [patnuc], [world-bank], [minpostel]]
 lens: [sovereignty]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: CMR-2026-07-17
 ---

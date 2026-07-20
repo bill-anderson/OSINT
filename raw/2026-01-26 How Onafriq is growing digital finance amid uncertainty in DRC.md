@@ -3,6 +3,8 @@ type: source
 title: "How Onafriq is growing digital finance amid uncertainty in DRC"
 publisher: Connecting Africa
 url: https://www.connectingafrica.com/financial-inclusion/how-onafriq-is-growing-digital-finance-amid-uncertainty-in-drc
+date_precision: day
+date_source: source
 author: Eden Harris
 published: 2026-01-26
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [COD]
 topics: [dpi.pay, include.access, finance.new]
 entities: [[onafriq], [visa]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Onafriq (CEO Dare Okoudjou) connects 1bn mobile wallets + 500m bank accounts across 43 countries; supported Visa Pay's DRC launch (Q4 2025, card-mobile-money interoperability). DRC has 29m mobile-money accounts / 34.6% penetration (Q4 2024); the central bank (BCC) supportive. -->

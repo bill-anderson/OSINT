@@ -3,6 +3,7 @@ type: source
 title: Cameroon warns telcos to block illicit devices or face tax penalties
 url: https://www.connectingafrica.com/regulation/cameroon-warns-telcos-to-block-illicit-devices-or-face-tax-penalties
 publisher: Connecting Africa
+ingested: 2026-07-18
 author: Matshepo Sehloho
 published: 2026-06-09
 date_precision: day
@@ -11,6 +12,7 @@ places: [CMR]
 topics: [dpi.registry, dpi.exchange, gov.legislate, dpi.govtech, infra.connect, include.access, tech.industry]
 entities: [[cameroon-customs], [mtn-cameroon], [orange-cameroun], [camcis]]
 lens: [sovereignty]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: CMR-2026-07-17
 ---

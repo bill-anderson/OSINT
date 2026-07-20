@@ -3,6 +3,8 @@ type: source
 title: "The Long View - What ICT4D did for Africa and why that deep past matters for today"
 publisher: Russell Southwood (Substack)
 url: "https://russellsouthwood.substack.com/p/the-long-view-what-ict4d-did-for"
+date_precision: day
+date_source: source
 author: Russell Southwood
 published: 2026-04-16
 accessed: 2026-07-12
@@ -11,6 +13,7 @@ places: [XSS, KEN, ZAF, NGA, COD, TZA, TGO, ERI, CMR]
 topics: [tech.industry, infra.connect, dpi.pay, include.divides, capacity.research]
 entities: [[russell-southwood], [research-ict-africa], [alison-gillwald], [seacom], [jagun-sat3-open-access-2008], [gsma]]
 lens: [colonialism, sovereignty]
+body_completeness: full
 ---
 
 <!-- Analysis: first of two retrospectives on ICT4D / digital development in SSA 2000–2008/9; development actors shaped the landscape, liberalisation+mobile transformative but network effects re-created monopolies (M-Pesa, Momo); incumbent rent-seeking on SAT3/WACS landing stations, landlocked gatekeeping (Camtel). Datable: GSMA >US$35bn MNO investment 2000–2007; SAT3/WACS 2001. Attach: research-ict-africa, jagun-sat3-open-access-2008, seacom (TENET deal). -->

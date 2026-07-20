@@ -13,6 +13,7 @@ places: [GNQ]
 topics: [dpi.id, dpi.registry, gov.legislate]
 entities: [[cnedoge]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Official (VP press office, 4 Apr 2025). EG wants a control mechanism in civil registries, esp. for the "literal" (birth) certificate. Concern: expatriates fraudulently obtain the DIP and passport by irregularly holding the literal certificate; the 2011 Nationality Law sets conditions but foreigners allegedly falsify the certificate. VP instructed Justice Ministry to propose civil-registry improvements. Separately, CNEDOGE DG Teodomiro Monsuy Eyi reported a national tour to produce the DIP: ~1 month, 7,670 dossiers obtained, 7,275 processed. -->

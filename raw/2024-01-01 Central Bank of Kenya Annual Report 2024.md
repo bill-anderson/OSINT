@@ -12,6 +12,7 @@ places: [KEN]
 topics: [dpi.pay, data.statistics, gov.policy]
 entities: [[central-bank-of-kenya]]
 lens: []
+body_completeness: full
 artefact: "2024-01-01 Central Bank of Kenya Annual Report 2024.pdf"
 ---
 

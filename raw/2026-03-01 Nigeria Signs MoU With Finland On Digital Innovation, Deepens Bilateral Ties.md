@@ -3,6 +3,7 @@ type: source
 title: "Nigeria Signs MoU With Finland On Digital Innovation, Deepens Bilateral Ties"
 publisher: AriseNews
 url: https://www.arise.tv/nigeria-signs-mou-with-finland-on-digital-innovation
+date_source: source
 author: Oghenevwede Ohwovoriole
 published: 2026-03
 date_precision: month
@@ -12,6 +13,7 @@ places: [NGA, XGL]
 topics: [finance.mou, gov.policy, dpi.exchange, infra.cybersec, capacity.training, geopol.eu]
 entities: [[nigeria-finland-digital-mou], [bosun-tijani], [estdev], [finnfund]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Nigeria (Minister Bosun Tijani) and Finland (Under Secretary Jarno Syrjälä) signed a digital-innovation MoU in Abuja — digital government, DPI, cybersecurity, capacity building; follows Helsinki engagements with Finnvera/Finnfund; complements Finland's lead in the EU Team Europe Initiative on Digital Public Services (implemented with Estonia's ESTDEV). Deal [[nigeria-finland-digital-mou]]. -->

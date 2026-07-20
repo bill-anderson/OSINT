@@ -3,6 +3,7 @@ type: source
 title: "L’IA au cœur de la semaine de l’innovation numérique"
 url: https://lejour.cm/lia-au-coeur-de-la-semaine-de-linnovation-numerique/
 publisher: Le Jour
+ingested: 2026-07-18
 author: Solière Champlain Paka
 published: 2025-05-28
 date_precision: day
@@ -13,6 +14,7 @@ places: [CMR]
 topics: [tech.ai, tech.innovate]
 entities: [[minpostel]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # L’IA au cœur de la semaine de l’innovation numérique

@@ -3,6 +3,7 @@ type: source
 title: Cameroon introduces digital ID system for taxi owners, drivers
 url: https://www.biometricupdate.com/202607/cameroon-introduces-digital-id-system-for-taxi-owners-drivers
 publisher: Biometric Update
+ingested: 2026-07-18
 author: Ayang Macdonald
 published: 2026-07-01
 date_precision: day
@@ -11,6 +12,7 @@ places: [CMR]
 topics: [dpi.id, dpi.registry, digital.localgov, include.access, geopol.eu]
 entities: [[yaounde-city-council], [giz]]
 lens: [sovereignty]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: CMR-2026-07-17
 ---

@@ -7,6 +7,8 @@ published: 2020-05-29
 date_precision: day
 date_source: source
 ingested: 2026-07-17
+lens: []
+body_completeness: full
 artefact: "2020-05-29 PAD - Eswatini Health System Strengthening for Human Capital Development (PAD3539).pdf"
 places: [SWZ]
 topics: [dpi.mis, finance.new, include.access]

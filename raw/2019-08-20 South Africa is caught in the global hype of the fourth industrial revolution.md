@@ -3,6 +3,8 @@ type: source
 title: "South Africa is caught in the global hype of the fourth industrial revolution"
 publisher: The Conversation
 url: "https://theconversation.com/south-africa-is-caught-in-the-global-hype-of-the-fourth-industrial-revolution-121189"
+date_precision: day
+date_source: source
 author: Alison Gillwald
 published: 2019-08-20
 accessed: 2026-07-12
@@ -11,6 +13,7 @@ places: [ZAF]
 topics: [tech.ai, gov.policy, include.divides]
 entities: [[research-ict-africa], [cyril-ramaphosa], [alison-gillwald], [after-access]]
 lens: [colonialism, sovereignty]
+body_completeness: full
 ---
 <!-- Gillwald op-ed. Facts AS OF 2019-08-20: critiques the Accenture/WEF 4IR claim of R5tn value + 4m jobs over a decade as methodologically unexplained; SA internet penetration below the ~20% critical mass in many African countries (RIA After Access). External expert analysis, not primary evidence; attach to ZAF hub, research-ict-africa, alison-gillwald. -->
 

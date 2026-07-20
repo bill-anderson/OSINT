@@ -3,6 +3,9 @@ type: source
 title: "Protection des données à caractère personnel: des membres du cabinet du ministère des Infrastructures renforcent leurs compétences"
 url: https://www.sidwaya.info/protection-des-donnees-a-caractere-personnel-des-membres-du-cabinet-du-ministere-des-infrastructures-renforcent-leurs-competences/
 publisher: Sidwaya
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Nadège YAMEOGO
 published: 2025-09-30
 date_precision: day

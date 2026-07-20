@@ -12,6 +12,7 @@ places: [KEN]
 topics: [dpi.id, gov.protect, include.divides]
 entities: [[maisha-namba]]
 lens: [colonialism]
+body_completeness: full
 ---
 
 # Digital ID in Kenya — Final Policy Paper (Amnesty Kenya)

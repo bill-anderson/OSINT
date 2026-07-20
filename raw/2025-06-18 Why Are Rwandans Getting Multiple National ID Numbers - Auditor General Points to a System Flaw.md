@@ -1,9 +1,13 @@
 ---
 type: source
+date_precision: day
+date_source: source
 places: [RWA]
 topics: [dpi.id, dpi.registry, gov.protect]
 entities: [[nida-rwanda]]
 ingested: 2026-07-16
+lens: []
+body_completeness: full
 page: Why Are Rwandans Getting Multiple National ID Numbers? Auditor General Points to a System Flaw
 title: Why Are Rwandans Getting Multiple National ID Numbers? Auditor General Points to a System Flaw
 author: Stephen Kamanzi

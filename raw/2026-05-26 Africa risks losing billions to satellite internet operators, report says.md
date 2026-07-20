@@ -3,6 +3,8 @@ type: source
 title: "Africa risks losing billions to satellite internet operators, report says"
 publisher: TechCabal
 url: https://techcabal.com/2026/05/26/africa-risk-losing-billions-to-satellite-internet-operators/
+date_precision: day
+date_source: source
 author: John Adoyi
 published: 2026-05-26
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [NGA, ZWE, SEN, NAM, ZAF, KEN, XAF, XSS]
 topics: [infra.connect, data.satellite, gov.policy, gov.regional, geopol.usa, digital.rural, include.access]
 entities: [[starlink], [mtn-group], [airtel-africa], [vodacom], [africa-ceo-forum]]
 lens: [sovereignty, colonialism]
+body_completeness: full
 ---
 
 <!-- Africa CEO Forum + Askya report (30+ execs/regulators): LEO revenue leakage. Starlink in >=25 countries; ~66k NGA users, >67k ZWE. Licensing asymmetry (Senegal $150k Starlink vs >$50m 5G). Underlying report is a lead. -->

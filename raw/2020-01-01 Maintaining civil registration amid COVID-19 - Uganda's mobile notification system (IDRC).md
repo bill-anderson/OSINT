@@ -3,6 +3,8 @@ type: source
 title: Maintaining civil registration amid the COVID-19 crisis: Uganda's mobile notification system
 url: https://crvssystems.ca/
 publisher: Centre of Excellence for CRVS Systems (IDRC), with UNECA and the APAI-CRVS Secretariat
+lens: []
+body_completeness: full
 author: Zoran Djokovic
 published: 2020-01-01
 date_precision: year

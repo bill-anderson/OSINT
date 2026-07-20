@@ -3,6 +3,9 @@ type: source
 title: Benin Data Protection Authority and UNICEF explore expanded partnership on digital safety
 url: https://techreviewafrica.com/news/4554/benin-data-protection-authority-and-unicef-explore-expanded-partnership-on-digital-safety
 publisher: Tech Review Africa
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Nana Appiah Acquaye
 published: 2026-03-26
 date_precision: day

@@ -3,6 +3,7 @@ type: source
 title: Central bank's push for mobile money as legal tender triggers mixed reactions
 url: https://www.onecitizendaily.com/index.php/2025/07/22/central-banks-push-for-mobile-money-as-legal-tender-triggers-mixed-reactions/
 publisher: One Citizen Daily
+ingested: 2026-07-19
 author: One Citizen Daily Newspaper
 published: 2025-07-22
 date_precision: day

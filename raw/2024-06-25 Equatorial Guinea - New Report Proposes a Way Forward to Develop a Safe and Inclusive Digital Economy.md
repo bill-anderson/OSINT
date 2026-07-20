@@ -13,6 +13,7 @@ places: [GNQ]
 topics: [gov.policy, dpi.pay, tech.industry, capacity.training]
 entities: [[equatorial-guinea-digital-economy-diagnostic], [world-bank]]
 lens: []
+body_completeness: full
 ---
 
 <!-- WB press release on the Digital Economy Country Diagnostic (25 Jun 2024, via eTrade for all). Supported by the Digital Development Partnership (DDP). Five foundations. Quick-win recs: cost-oriented obligations in international-capacity + national-network fibre wholesale; cybersecurity maturity assessment; national strategy for digital public platforms; strengthen DFS agent networks; inclusive digital-entrepreneurship roadmap; national education ICT policy. Aissatou Diallo (Res Rep); Camila Mejia Giraldo (lead author) stresses data quality, coordination, electricity, legal framework, island-continental + gender divides. Same diagnostic as 'Bridging the Gaps'. -->

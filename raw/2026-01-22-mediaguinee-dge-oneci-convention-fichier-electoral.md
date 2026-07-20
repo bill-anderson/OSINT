@@ -3,6 +3,7 @@ type: source
 title: "Conakry : la DGE et l'ONECI signent une convention faisant du RNPP la source unique du fichier électoral"
 url: https://mediaguinee.com/2026/01/conakry-la-dge-et-loneci-scellent-une-alliance-pour-un-fichier-electoral-fiable/
 publisher: Mediaguinee
+ingested: 2026-07-18
 author: Mayi Cissé
 published: 2026-01-22
 date_precision: day
@@ -13,6 +14,7 @@ places: [GIN]
 topics: [dpi.id, dpi.registry, dpi.exchange]
 entities: [[oneci-guinea], [matd-guinea]]
 lens: []
+body_completeness: full
 ---
 
 # Conakry : la DGE et l'ONECI scellent une alliance pour un fichier électoral fiable

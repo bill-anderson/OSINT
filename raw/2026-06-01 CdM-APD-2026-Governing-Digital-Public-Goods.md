@@ -2,6 +2,7 @@
 type: source
 title: "Governing Digital Public Goods"
 publisher: Club de Madrid (Annual Policy Dialogue 2026)
+date_source: source
 author: Alison Gillwald (Research ICT Africa)
 published: 2026-06
 date_precision: month
@@ -12,6 +13,7 @@ places: [XGL, XAF, XSS]
 topics: [gov.policy, gov.regional, dpi.exchange, tech.ai, infra.store, geopol.usa, geopol.china]
 entities: [[research-ict-africa], [club-de-madrid]]
 lens: [sovereignty, colonialism]
+body_completeness: full
 ---
 
 <!-- Admissible: named institutional analysis (Research ICT Africa for Club de Madrid), primary authored work. -->

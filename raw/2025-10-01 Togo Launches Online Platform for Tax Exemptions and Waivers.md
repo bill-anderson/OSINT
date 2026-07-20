@@ -3,6 +3,8 @@ type: source
 title: Togo Launches Online Platform for Tax Exemptions and Waivers
 url: https://www.togofirst.com/en/economic-governance/0110-17200-togo-launches-online-platform-for-tax-exemptions-and-waivers
 publisher: Togo First
+lens: []
+body_completeness: full
 author: Esaie Edoh
 published: 2025-10-01
 date_precision: day

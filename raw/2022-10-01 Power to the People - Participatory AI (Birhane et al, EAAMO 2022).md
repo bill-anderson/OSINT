@@ -3,14 +3,17 @@ type: source
 title: "Power to the People? Opportunities and Challenges for Participatory AI"
 publisher: "ACM EAAMO '22 (Equity and Access in Algorithms, Mechanisms, and Optimization)"
 url: https://doi.org/10.1145/3551624.3555290
+date_source: source
 author: Abeba Birhane, William Isaac, Vinodkumar Prabhakaran, Mark Díaz, Madeleine Clare Elish, Iason Gabriel, Shakir Mohamed
 published: 2022-10-01
+date_precision: day
 accessed: 2026-07-12
 ingested: 2026-07-12
 places: [XGL]
 topics: [tech.ai, capacity.research]
 entities: [[abeba-birhane], [google], [google-deepmind]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- EAAMO '22 peer-reviewed paper (full text: `raw/2022-10-01 birhane-6.pdf`). This .md is the source

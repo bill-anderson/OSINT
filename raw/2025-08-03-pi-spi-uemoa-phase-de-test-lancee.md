@@ -6,12 +6,14 @@ publisher: leFaso.net
 published: 2025-08-03
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: BFA-2026-07-17
 places: [BFA, XWA]
 topics: [dpi.pay, gov.regional, include.access, gov.standards]
 entities: [[bceao], [pi-spi], [uemoa]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Plateforme Interopérable du Système de Paiement Instantané de l'UEMOA : Une phase de test lancée

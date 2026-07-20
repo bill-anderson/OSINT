@@ -11,6 +11,7 @@ places: [DJI]
 topics: [infra.cybersec, gov.policy]
 entities: [[national-cybersecurity-authority-djibouti], [vision-djibouti-2035]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Djibouti National Cybersecurity Strategy 2024–2030

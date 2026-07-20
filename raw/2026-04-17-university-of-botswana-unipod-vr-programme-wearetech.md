@@ -3,6 +3,9 @@ type: source
 title: University of Botswana Enters VR Space With New Immersive Initiative
 url: https://www.wearetech.africa/en/fils-uk/news/tech/university-of-botswana-enters-vr-space-with-new-immersive-initiative
 publisher: We Are Tech Africa
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Ange J.A de Berry Quenum
 published: 2026-04-17
 date_precision: day

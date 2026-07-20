@@ -6,6 +6,7 @@ publisher: Business Day
 published: 2026-02-15
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [ZAF]
 topics: [infra.store, finance.new, geopol.usa]
 entities: [[cyril-ramaphosa]]

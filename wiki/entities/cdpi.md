@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: organisation
 title: Centre for Digital Public Infrastructure (CDPI)
 places: [XGL, XAF]

@@ -3,6 +3,8 @@ type: source
 title: "Regulating for Africa’s future digital economy – A draft agenda to speed things up"
 publisher: Russell Southwood (Substack)
 url: "https://russellsouthwood.substack.com/p/regulating-for-africas-future-digital"
+date_precision: day
+date_source: source
 author: Russell Southwood
 published: 2026-06-25
 accessed: 2026-07-12
@@ -11,6 +13,7 @@ places: [XSS, XAF, NGA, GHA, KEN, ZAF, RWA, BFA, SEN]
 topics: [gov.legislate, gov.policy, gov.regional, infra.connect, dpi.pay, include.access, include.divides, tech.ai]
 entities: [[russell-southwood], [ncc], [bank-of-ghana], [gsma], [mtn-group]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Analysis: telecoms regulators, born of 1990s liberalisation, must repurpose around digital infrastructure as national "nervous system"; proposes single African sovereign-data market/sub-regional data-sovereignty acts, licence passporting, data-rollover, market-based infra rights, spectrum freeing, sandboxes. Datable: May 2026 NCC review of 26-yr framework (→ncc); Bank of Ghana–National Bank of Rwanda fintech passporting MoU (finance.mou candidate); SA 900MHz innovation spectrum. -->

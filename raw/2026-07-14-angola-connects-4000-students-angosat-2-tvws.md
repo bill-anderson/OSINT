@@ -3,6 +3,8 @@ type: source
 title: Angola connects nearly 4,000 students through ANGOSAT-2 and TV White Space connectivity project
 url: https://techreviewafrica.com/news/6298/angola-connects-nearly-4000-students-through-angosat-2-and-tv-white-space-connectivity-project
 publisher: Tech Review Africa
+lens: []
+body_completeness: full
 author: Nana Appiah Acquaye
 published: 2026-07-14
 date_precision: day

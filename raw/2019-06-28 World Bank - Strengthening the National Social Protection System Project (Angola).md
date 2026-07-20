@@ -13,6 +13,7 @@ places: [AGO]
 topics: [dpi.registry, dpi.pay, include.access]
 entities: [[kwenda], [world-bank]]
 lens: []
+body_completeness: full
 ---
 
 <!-- COMPANION SOURCE PAGE for binary raw/2019-06-28 World Bank - Strengthening the National Social Protection System Project (Angola).pdf (63pp). WB Project Appraisal Document PAD3340, US$320m IBRD loan, 28 Jun 2019 — the appraisal that financed [[kwenda]], Angola's flagship cash-transfer G2P programme (implemented by FAS). Establishes the social-registry + digital-G2P architecture. TTL: Bénédicte Leroy de la Brière. -->

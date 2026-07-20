@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: organisation
 title: International Monetary Fund (IMF)
 places: [XGL, XAF]

@@ -3,6 +3,8 @@ type: source
 title: Municipal elections in Togo: revision of electoral rolls begins 7 April
 url: https://www.togofirst.com/fr/politique/0204-16058-elections-municipales-au-togo-la-revision-des-listes-electorales-debute-le-7-avril
 publisher: Togo First
+lens: []
+body_completeness: full
 author: Esaie Edoh
 published: 2025-04-02
 date_precision: day

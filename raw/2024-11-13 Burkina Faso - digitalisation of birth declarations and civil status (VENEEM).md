@@ -13,6 +13,7 @@ places: [BFA]
 topics: [dpi.id, dpi.registry, include.access]
 entities: [[veneem]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Burkina24/Citizenship Rights (Nov 2024): VENEEM — an innovative digital civil-registration platform to manage systematic declaration of civil-status events, capturing events at their point of occurrence (health facilities etc.), works on PC + smartphone, supports notifications and level-by-level validation per the Code des personnes et de la famille. Tied to the "unique identifier" (identifiant unique) and secure civil-status documents. Directed by Commissaire principal Ousmane Diallo Nacanabo (Director of unique identifier & civil-document security). The CRVS foundation under Burkina's ID stack (feeds WURI / CIB-AES). -->

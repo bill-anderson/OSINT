@@ -3,6 +3,7 @@ type: source
 title: BURS looks to tax global digital services providers
 url: https://www.mmegi.bw/business/burs-looks-to-tax-global-digital-services-providers/news
 publisher: Mmegi
+ingested: 2026-07-18
 author: Pauline Dikuelo
 published: 2026-06-02
 date_precision: day
@@ -13,6 +14,7 @@ places: [BWA]
 topics: [gov.legislate, tech.industry, geopol.usa]
 entities: [[botswana-unified-revenue-service], [remote-service-vat-act-botswana]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # BURS looks to tax global digital services providers

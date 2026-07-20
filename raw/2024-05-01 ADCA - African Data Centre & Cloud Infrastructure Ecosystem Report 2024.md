@@ -13,6 +13,7 @@ places: [XAF, CIV]
 topics: [infra.store, tech.industry]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 <!-- COMPANION SOURCE PAGE for binary raw/2024-05-01 ADCA - African Data Centre & Cloud Infrastructure Ecosystem Report 2024.pdf (45pp; date proxied to month ~May 2024). Africa Data Centres Association (Abidjan-based) + Oxford Business Group report on building a world-class African data-centre & cloud ecosystem as an economic-transformation catalyst. Continental reference (XAF) with CIV as ADCA's home base; context for the region's DC boom (incl. the Abidjan/Grand-Bassam cluster). Held as a continental reference; per-country figures not promoted. -->

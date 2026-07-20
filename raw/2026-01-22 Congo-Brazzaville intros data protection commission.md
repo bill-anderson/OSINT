@@ -3,6 +3,8 @@ type: source
 title: "Congo-Brazzaville intros data protection commission"
 publisher: ITWeb Africa
 url: https://itweb.africa/article/congo-brazzaville-intros-data-protection-commission/
+date_precision: day
+date_source: source
 author: Lezeth Khoza
 published: 2026-01-22
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [COG]
 topics: [gov.protect, gov.legislate]
 entities: [[national-personal-data-protection-commission-congo]]
 lens: [sovereignty]
+body_completeness: excerpt
 ---
 
 <!-- Republic of Congo (Congo-Brazzaville) established a National Personal Data Protection Commission (~22 Jan 2026); ICT minister Léon Juste Ibombo installed members to consolidate the 'digital rule of law'; empowered to advise, warn and sanction; independent authority. -->

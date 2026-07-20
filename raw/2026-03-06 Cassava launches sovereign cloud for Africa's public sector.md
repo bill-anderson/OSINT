@@ -3,6 +3,8 @@ type: source
 title: "Cassava launches sovereign cloud for Africa's public sector"
 publisher: ITWeb Africa
 url: https://itweb.africa/article/cassava-launches-sovereign-cloud-for-africas-public-sector/
+date_precision: day
+date_source: source
 author: Staff Writer
 published: 2026-03-06
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [XSS]
 topics: [infra.store, tech.ai, dpi.govtech, gov.standards, geopol.usa]
 entities: [[national-sovereign-cloud], [cassava-technologies], [cassava-ai-factories], [nvidia], [anthropic], [google]]
 lens: [sovereignty]
+body_completeness: excerpt
 ---
 
 <!-- Backfill/update to [[national-sovereign-cloud]]: Cassava National Sovereign Cloud (MWC Barcelona, Mar 2026) â€” cloud+cybersec+AI compute+local-language models; cites US CLOUD Act exposure; a Cloud Partner Programme (NVIDIA Cloud Partner solutions + AI Multi-Model Exchange with Anthropic Claude + Google Gemini). COO Ahmed El Beheiry. -->

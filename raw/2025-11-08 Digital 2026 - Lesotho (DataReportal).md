@@ -13,6 +13,7 @@ places: [LSO]
 topics: [infra.connect, include.divides, data.statistics]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 <!-- DataReportal Digital 2026: Lesotho (publ end-2025; data late-2025). Population 2.37m (Oct 2025; 31.5% urban, median age 21.8). Mobile connections 2.20m (92.7%, 94.0% broadband). Internet users 1.14m, 48.0% penetration (end-2025). Social media 653k (27.5%). Baseline for the Lesotho hub (DataReportal shifted cycle, Digital 2026 at end-2025). -->

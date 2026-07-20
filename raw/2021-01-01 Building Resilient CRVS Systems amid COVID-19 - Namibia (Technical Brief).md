@@ -13,6 +13,7 @@ places: [NAM]
 topics: [dpi.registry, data.statistics]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 Technical brief on the resilience of Namibia's National Population Registration System (NPRS) during the COVID-19 pandemic. It documents how Namibia's decentralised, health-facility-linked civil registration system — with online e-birth and e-death notification systems introduced in 2017 and 2018 — kept functioning as an essential service during the 2020 state of emergency, and how civil registration data can support health surveillance (deaths, causes of death, excess deaths).

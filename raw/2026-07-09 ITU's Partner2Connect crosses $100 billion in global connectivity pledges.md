@@ -4,11 +4,14 @@ title: ITU's Partner2Connect crosses $100 billion in global connectivity pledges
 url: https://www.itedgenews.africa/itus-partner2connect-crosses-100-billion-in-global-connectivity-pledges/
 publisher: IT Edge News
 published: 2026-07-09
+date_precision: day
+date_source: source
 ingested: 2026-07-10
 places: [XGL, XAF, KEN, ZAF]
 topics: [infra.connect, include.divides, finance.new, capacity.training, tech.ai]
 entities: [[itu], [partner2connect], [microsoft], [gsma]]
 lens: []
+body_completeness: full
 ---
 ***USD 100 billion and counting: the global coalition for universal meaningful connectivity achieved a landmark moment at the WSIS Forum 2026, as ITU’s Partner2Connect initiative crossed the century mark in commitments to connect the unconnected.***
 

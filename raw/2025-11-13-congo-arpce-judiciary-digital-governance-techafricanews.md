@@ -3,6 +3,7 @@ type: source
 title: Congo's ARPCE and Judiciary Strengthen Collaboration on Digital Governance (Magistrates Open Days, Pointe-Noire)
 url: https://techafricanews.com/2025/11/13/congos-arpce-and-judiciary-strengthen-collaboration-on-digital-governance/
 publisher: TechAfrica News
+ingested: 2026-07-18
 author: Jennifer Onyeagoro
 published: 2025-11-13
 date_precision: day
@@ -11,6 +12,7 @@ places: [COG]
 topics: [gov.legislate, gov.protect, infra.cybersec, capacity.training, dpi.govtech]
 entities: [[arpce-congo]]
 lens: []
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: COG-2026-07-17
 ---

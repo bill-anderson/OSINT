@@ -12,6 +12,7 @@ places: [SYC]
 topics: [dpi.id, dpi.govtech, dpi.registry, infra.cybersec]
 entities: [[seyid], [certexpress], [wisekey], [department-of-immigration-and-civil-status-seychelles]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 *Provenance: secondary reporting, credited by the outlet to Seychelles News Agency.

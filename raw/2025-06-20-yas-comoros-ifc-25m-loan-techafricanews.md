@@ -6,12 +6,14 @@ publisher: TechAfrica News
 published: 2025-06-20
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: COM-2026-07-17
 places: [COM]
 topics: [infra.connect, finance.new, include.divides, digital.rural]
 entities: [[yas-comoros], [axian], [ifc], [world-bank]]
 lens: []
+body_completeness: full
 provenance_flag: pr-wire
 ---
 

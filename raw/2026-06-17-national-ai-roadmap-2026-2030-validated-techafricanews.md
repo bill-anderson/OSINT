@@ -3,6 +3,7 @@ type: source
 title: Burkina Faso Validates National AI Roadmap 2026–2030 to Accelerate Digital Transformation
 url: https://techafricanews.com/2026/06/17/burkina-faso-validates-national-ai-roadmap-2026-2030-to-accelerate-digital-transformation/
 publisher: TechAfrica News
+ingested: 2026-07-18
 author: Jennifer Onyeagoro
 published: 2026-06-17
 date_precision: day
@@ -13,6 +14,7 @@ places: [BFA]
 topics: [tech.ai, gov.policy, tech.innovate]
 entities: [[ministry-of-digital-transition-burkina-faso], [spivten]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Burkina Faso Validates National AI Roadmap 2026–2030 to Accelerate Digital Transformation

@@ -14,6 +14,7 @@ places: [AGO, NAM]
 topics: [infra.connect, gov.regional, digital.rural, include.divides]
 entities: [[angosat-2]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 Namibia's Ministry of Information and Communication Technology (MICT) has partnered with Angola to use the Angosat-2 satellite to improve connectivity in the country's remote areas where terrestrial infrastructure remains limited.

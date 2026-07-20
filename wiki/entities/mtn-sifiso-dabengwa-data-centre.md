@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: deal
 title: MTN Nigeria — Sifiso Dabengwa Data Centre (Lagos)
 places: [NGA]

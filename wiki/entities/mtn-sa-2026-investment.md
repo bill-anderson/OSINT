@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: deal
 title: MTN South Africa R21.8bn ($1.3bn) investment (to 2028)
 places: [ZAF]

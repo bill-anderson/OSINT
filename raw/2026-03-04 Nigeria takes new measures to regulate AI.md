@@ -3,6 +3,8 @@ type: source
 title: "Nigeria takes new measures to regulate AI"
 publisher: ITWeb Africa
 url: https://itweb.africa/article/nigeria-takes-new-measures-to-regulate-ai/
+date_precision: day
+date_source: source
 author: Samuel Olomu
 published: 2026-03-04
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [NGA, XGL]
 topics: [tech.ai, gov.protect, gov.policy, gov.standards, infra.cybersec]
 entities: [[ndpc], [bosun-tijani]]
 lens: []
+body_completeness: excerpt
 ---
 
 <!-- Nigeria's NDPC (Commissioner Vincent Olatunji) joined 60+ regulators via the Global Privacy Assembly's International Enforcement Cooperation Working Group against deepfakes/synthetic media; pushing privacy-by-design, watermarking, and 'algorithmic accountability like financial reporting'. Ties to Tijani's National AI strategy. Backfill to [[ndpc]]. -->

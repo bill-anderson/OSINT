@@ -3,6 +3,9 @@ type: source
 title: "Secteur des télécommunications: un taux d'exécution des engagements situé entre 80 et 90 %"
 url: https://www.sidwaya.info/secteur-des-telecommunications-un-taux-dexecution-des-engagements-situe-entre-80-et-90/
 publisher: Sidwaya
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Abibata Kara
 published: 2026-06-21
 date_precision: day

@@ -6,10 +6,12 @@ publisher: L'Express de Madagascar
 published: 2025-01-15
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [MDG]
 topics: [tech.ai, gov.policy, finance.mou, capacity.training]
 entities: [[mg-ministry-digital-development]]
 lens: []
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: MDG-2026-07-17
 ---

@@ -6,10 +6,12 @@ publisher: Al-Watwan
 published: 2025-02-01
 date_precision: month
 date_source: proxy
+ingested: 2026-07-18
 places: [COM]
 topics: [infra.connect, tech.industry, dpi.pay]
 entities: [[comores-telecom], [huri-money], [ministry-of-posts-telecoms-comoros]]
 lens: []
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: COM-2026-07-17
 ---

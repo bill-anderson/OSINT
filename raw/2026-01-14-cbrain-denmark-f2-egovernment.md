@@ -6,6 +6,7 @@ publisher: We Are Tech Africa
 published: 2026-01-15
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [NGA]
 topics: [dpi.govtech, gov.policy]
 entities: [[cbrain], [publica-ai]]

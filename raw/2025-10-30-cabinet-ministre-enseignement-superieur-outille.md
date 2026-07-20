@@ -3,6 +3,9 @@ type: source
 title: "Protection des données à caractère personnel : le cabinet du ministre chargé de l'Enseignement supérieur outillé"
 url: https://www.sidwaya.info/protection-des-donnees-a-caractere-personnel-le-cabinet-du-ministre-charge-de-lenseignement-superieur-outille/
 publisher: Sidwaya
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Emmanuel BICABA
 published: 2025-10-30
 date_precision: day

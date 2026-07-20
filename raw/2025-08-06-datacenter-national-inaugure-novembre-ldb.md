@@ -3,6 +3,7 @@ type: source
 title: "Infrastructures numériques : le Datacenter national sera inauguré en novembre"
 url: https://www.adiac-congo.com/content/infrastructures-numeriques-le-datacenter-national-sera-inaugure-en-novembre-166222
 publisher: Les Dépêches de Brazzaville (ADIAC)
+ingested: 2026-07-18
 author: Firmin Oyé
 published: 2025-08-06
 date_precision: day
@@ -13,6 +14,7 @@ places: [COG, XCA]
 topics: [infra.store, finance.new, geopol.china, dpi.govtech]
 entities: [[congo-national-data-centre], [african-development-bank]]
 lens: [sovereignty]
+body_completeness: full
 provenance_flag: state-aligned-outlet
 ---
 

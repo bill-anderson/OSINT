@@ -13,6 +13,7 @@ places: [AGO]
 topics: [gov.protect, gov.legislate]
 entities: [[angola-data-protection-law-22-11]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Contemporaneous analyst note on the passage of Angola's Law 22/11 (17 June 2011), the omnibus Personal Data Protection Law (LPDP). Establishes a Data Protection Agency (later the APD); principles of transparency, lawfulness, proportionality, purpose, accuracy, retention limits. Agency must approve international transfers to non-adequate countries (notification for adequate). Processing needs express consent + agency notification; extra restrictions on sensitive (incl. genetic), credit/solvency, video-surveillance and call-recording data. Data-subject rights: access, object, rectify, update, delete. Penalties up to $150,000. Baseline instrument reference; APD enforcement came much later (see PLMJ 2024). -->

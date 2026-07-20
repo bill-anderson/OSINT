@@ -3,6 +3,9 @@ type: source
 title: "Enseignement supérieur/ A l'université, la révolution silencieuse du savoir en ligne"
 url: https://www.lanation.bj/actualites/enseignement-superieur-a-luniversite-la-revolution-silencieuse-du-savoir-en-ligne
 publisher: La Nation
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Jonas KOUYOU (Collaboration extérieure)
 published: 2026-07-08
 date_precision: day

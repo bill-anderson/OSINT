@@ -3,6 +3,8 @@ type: source
 title: "Gates Foundation and OpenAI Commit $50m to AI-Powered Health Systems in Africa"
 publisher: Tech Africa News
 url: "https://techafricanews.com/2026/01/22/gates-foundation-and-openai-commit-50m-to-ai-powered-health-systems-in-africa/"
+date_precision: day
+date_source: source
 author: Jennifer Onyeagoro
 published: 2026-01-22
 accessed: 2026-07-12
@@ -11,6 +13,7 @@ places: [RWA, XSS]
 topics: [tech.ai, dpi.mis, finance.new, geopol.usa]
 entities: [[gates-foundation], [openai], [paula-ingabire], [horizon1000]]
 lens: []
+body_completeness: full
 ---
 <!-- Gates Foundation + OpenAI "Horizon1000": $50m AI-for-health pilot (announced 2026-01-22), begins in Rwanda, scaling to 1,000 primary-care clinics by 2028; targets SSA 5.6m health-worker gap. NEW deal — distinct from gates-anthropic-partnership (OpenAI, not Anthropic). Attach: [[horizon1000]], RWA hub, gates-foundation, openai, paula-ingabire. -->
 

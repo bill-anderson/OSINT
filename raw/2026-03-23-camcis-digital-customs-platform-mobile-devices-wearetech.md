@@ -3,6 +3,7 @@ type: source
 title: Cameroon Launches Digital Customs Platform for Mobile Devices
 url: https://www.wearetech.africa/en/fils-uk/news/tech/cameroon-launches-digital-customs-platform-for-mobile-devices
 publisher: We Are Tech Africa
+ingested: 2026-07-18
 author: Ange J.A de Berry Quenum (English adaptation); originally published in French by Samira Njoya
 published: 2026-03-23
 date_precision: day
@@ -11,6 +12,7 @@ places: [CMR]
 topics: [dpi.govtech, dpi.registry, dpi.exchange, gov.legislate, infra.connect, include.access]
 entities: [[camcis], [cameroon-customs], [antic-cameroon], [art-cameroon], [ministry-of-posts-and-telecommunications-cameroon]]
 lens: [sovereignty]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: CMR-2026-07-17
 ---

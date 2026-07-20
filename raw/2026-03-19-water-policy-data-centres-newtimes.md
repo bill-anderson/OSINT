@@ -3,6 +3,7 @@ type: source
 title: Why Rwanda needs a water policy for data centres now
 url: https://www.newtimes.co.rw/article/34190/news/technology/why-rwanda-needs-a-waterpolicy-for-data-centres-now
 publisher: The New Times
+ingested: 2026-07-19
 author: Prince Ruzigana
 published: 2026-03-19
 date_precision: day

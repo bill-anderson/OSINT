@@ -3,6 +3,9 @@ type: source
 title: "FONI 2025 à Cotonou : Des échanges sur le financement du secteur privé et la digitalisation des services publics"
 url: https://fraternite.bj/foni-2025-a-cotonou-des-echanges-sur-le-financement-du-secteur-prive-et-la-digitalisation-des-services-publics/
 publisher: Fraternité
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Isac YAI
 published: 2025-05-23
 date_precision: day

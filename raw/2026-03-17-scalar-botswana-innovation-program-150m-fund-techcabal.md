@@ -3,6 +3,9 @@ type: source
 title: Botswana launches 12-month startup programme tied to $150m climate fund
 url: https://techcabal.com/2026/03/17/botswana-to-support-clean-energy-startups/
 publisher: TechCabal
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: John Adoyi
 published: 2026-03-17
 date_precision: day

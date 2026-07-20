@@ -6,12 +6,14 @@ publisher: Tech Africa News
 published: 2026-06-05
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: MAR-2026-07-17
 places: [MAR]
 topics: [tech.ai, finance.mou]
 entities: [[orange]]
 lens: []
+body_completeness: full
 ---
 
 # Morocco signs AI partnership with Orange Morocco to advance digital transformation

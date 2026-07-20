@@ -3,6 +3,8 @@ type: source
 title: "Senegal Accelerates Digital Sovereignty with Rollout of Flagship Technology Initiatives"
 publisher: Tech Africa News
 url: https://techafricanews.com/2026/03/25/senegal-accelerates-digital-sovereignty/
+date_precision: day
+date_source: source
 author: Jennifer Onyeagoro
 published: 2026-03-25
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [SEN]
 topics: [gov.policy, infra.connect, infra.store, dpi.id, dpi.pay, dpi.exchange, gov.protect, infra.cybersec, include.access]
 entities: [[new-deal-technologique]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Senegal launched projects under its New Deal Technologique (CICAD, 2026-03-24): four pillars (digital sovereignty, public-service digitisation, digital economy, hub positioning). Universal Connectivity Project targets >1m people free connectivity in 2026; National Interoperability Platform; in-country data centres/cloud. -->

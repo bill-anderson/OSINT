@@ -6,6 +6,7 @@ publisher: Tech Review Africa
 published: 2026-05-10
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 provenance_flag: pr-wire
@@ -13,6 +14,7 @@ places: [DZA, XAF]
 topics: [tech.innovate, gov.regional, tech.industry, finance.mou]
 entities: [[afcfta], [africa-start-up-conference-2026], [algeria-ministry-of-knowledge-economy-start-ups-and-micro-enterprises]]
 lens: []
+body_completeness: full
 ---
 
 **Primary source to obtain at ingest:** the AfCFTA Secretariat's own release on the Mene–Ouadah meeting at AFIC12 (9–10 May 2026, Algiers), and any Algerian Ministry of Knowledge Economy, Start-Ups and Micro-enterprises statement on the December 2026 conference.

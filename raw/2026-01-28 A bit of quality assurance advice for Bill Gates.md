@@ -2,6 +2,8 @@
 type: source
 title: "A bit of quality assurance advice for Bill Gates"
 publisher: Data Landscapers
+date_precision: day
+date_source: source
 author: [[bill]]
 url: https://data-landscapers.com/2026/01/28/qa-advice-gates/
 published: 2026-01-28
@@ -11,6 +13,7 @@ places: [RWA, XSS, XAF]
 topics: [tech.ai, dpi.mis, include.access, capacity.training, gov.policy]
 entities: [[bill], [data-landscapers], [gates-foundation], [openai]]
 lens: [colonialism]
+body_completeness: full
 ---
 
 <!-- EXPERT ANALYSIS (Data Landscapers, author [[bill]]). Argues Gates misrepresents health-

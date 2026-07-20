@@ -3,6 +3,8 @@ type: source
 title: "Kenya's Health Deal Is a Stress Test for the America First Global Health Strategy"
 publisher: Carnegie Endowment for International Peace
 url: https://carnegieendowment.org/research/2026/03/kenya-data-protection-america-first-global-health-strategy
+date_precision: day
+date_source: source
 author: Jane Munga & Rose Mosero
 published: 2026-03-27
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [KEN, ZMB, ZWE, SEN, XAF]
 topics: [gov.protect, geopol.usa, finance.mou, dpi.exchange, gov.legislate, tech.ai, dpi.mis]
 entities: [[america-first-global-health-strategy], [us-kenya-health-framework], [odpc-kenya], [jane-munga]]
 lens: [sovereignty, colonialism]
+body_completeness: full
 ---
 
 <!-- Carnegie analysis: 22 African countries signed bilateral AFGHS agreements (late 2025-early 2026); Kenya first. Kenya framework = 5-yr, $2.5bn (Rubio+Mudavadi, 2025-12-04). High Court suspended it (Omtatah petition, injunction 2025-12-19). Data-Sharing Agreement institutionalises US access to Kenyan health/genomic data â€” conflicts with Kenya Data Protection Act 2019 + Digital Health Act 2023. AFGHS sought 25-yr data sharing for 5-yr aid. Worldcoin precedent. -->

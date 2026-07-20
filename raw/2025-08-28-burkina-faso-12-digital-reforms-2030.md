@@ -3,6 +3,7 @@ type: source
 title: Burkina Faso outlines 12 digital reforms to drive transformation by 2030
 url: https://www.wearetech.africa/en/fils-uk/news/tech/burkina-faso-outlines-12-digital-reforms-to-drive-transformation-by-2030
 publisher: We Are Tech Africa
+ingested: 2026-07-18
 author: Samira Njoya
 published: 2025-08-28
 date_precision: day
@@ -13,6 +14,7 @@ places: [BFA]
 topics: [gov.policy, infra.connect, dpi.id, infra.cybersec]
 entities: [[ministry-of-digital-transition-burkina-faso], [arcep-burkina-faso], [sn-den]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Burkina Faso outlines 12 digital reforms to drive transformation by 2030

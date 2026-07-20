@@ -6,6 +6,7 @@ publisher: Daily Nation
 published: 2026-06-08
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [KEN]
 topics: [data.open, gov.protect]
 entities: []

@@ -12,6 +12,7 @@ places: [DJI, XEA]
 topics: [tech.ai, gov.policy, infra.connect, gov.regional, gov.standards]
 entities: [[itu], [smart-africa], [eardip], [vision-djibouti-2035]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Djibouti Seeks ITU, Smart Africa Support for Telecoms and AI Development - We are Tech

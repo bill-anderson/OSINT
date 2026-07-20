@@ -6,12 +6,14 @@ publisher: TechAfrica News
 published: 2025-08-01
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: GHA-2026-07-17
 places: [GHA]
 topics: [gov.protect, gov.policy]
 entities: [[data-protection-commission-ghana], [samuel-nartey-george]]
 lens: []
+body_completeness: full
 ---
 
 # Ghana Takes Major Step Towards Secure Digital Future with New Data Protection Board

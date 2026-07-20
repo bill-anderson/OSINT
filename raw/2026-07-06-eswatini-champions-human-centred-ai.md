@@ -6,6 +6,7 @@ publisher: Independent News Eswatini
 published: 2026-07-06
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [SWZ]
 topics: [tech.ai, gov.policy, gov.legislate, infra.cybersec]
 entities: [[government-of-eswatini]]

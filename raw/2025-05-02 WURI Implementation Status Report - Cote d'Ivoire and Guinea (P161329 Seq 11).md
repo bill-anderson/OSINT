@@ -12,6 +12,7 @@ places: [GIN, CIV, XWA]
 topics: [dpi.id, gov.regional, include.access]
 entities: [[wuri-programme], [world-bank], [ecowas], [oneci-guinea]]
 lens: []
+body_completeness: full
 artefact: "2025-05-02 WURI ISR P161329 Seq11.pdf"
 ---
 

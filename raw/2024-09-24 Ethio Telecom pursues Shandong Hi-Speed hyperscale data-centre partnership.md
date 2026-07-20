@@ -11,6 +11,7 @@ places: [ETH]
 topics: [infra.store, geopol.china, finance.mou]
 entities: [[ethio-telecom]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Ethio Telecom pursues Shandong Hi-Speed hyperscale data-centre partnership

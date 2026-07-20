@@ -6,12 +6,14 @@ publisher: FrontPage Africa
 published: 2026-03-20
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: LBR-2026-07-17
 places: [LBR]
 topics: [dpi.id, dpi.registry, gov.protect, dpi.govtech]
 entities: [[national-identification-registry-liberia], [great-project-liberia], [techno-brain], [world-bank], [naymote]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Liberia: National ID Card Rollout Continues to Be Held Up by $1.7 Million Unpaid Government Debt

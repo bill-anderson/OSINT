@@ -3,6 +3,7 @@ type: source
 title: "Paiements instantanés dans l'Uemoa: Nouveaux délais pour la connexion à la plateforme Pi Spi"
 url: https://lanation.bj/economie/paiements-instantanes-dans-luemoa-nouveaux-delais-pour-la-connexion-a-la-plateforme-pi-spi
 publisher: La Nation
+ingested: 2026-07-18
 author: Claude Urbain PLAGBETO
 published: 2026-06-29
 date_precision: day
@@ -13,6 +14,7 @@ places: [BEN, XWA]
 topics: [dpi.pay, dpi.exchange, gov.regional, include.access]
 entities: [[bceao], [uemoa], [pi-spi]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Paiements instantanés dans l'Uemoa: Nouveaux délais pour la connexion à la plateforme Pi Spi

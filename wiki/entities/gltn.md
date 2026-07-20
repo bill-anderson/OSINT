@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: organisation
 title: Global Land Tool Network (GLTN)
 places: [UGA, XGL]

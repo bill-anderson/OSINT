@@ -3,6 +3,7 @@ type: source
 title: Burkina Faso's Digital Ministry Hits 91% of 2025 Targets, Sets Ambitious 2026 Agenda
 url: https://techafricanews.com/2026/02/05/burkina-fasos-digital-ministry-hits-91-of-2025-targets-sets-ambitious-2026-agenda/
 publisher: TechAfrica News
+ingested: 2026-07-18
 author: Kay-Lyne Wolfenden
 published: 2026-02-05
 date_precision: day
@@ -13,6 +14,7 @@ places: [BFA]
 topics: [dpi.govtech, infra.store, infra.connect, dpi.id]
 entities: [[ministry-of-digital-transition-burkina-faso], [aminata-zerbo-sabane], [rimtalba-jean-emmanuel-ouedraogo], [la-poste-burkina-faso]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Burkina Faso's Digital Ministry Hits 91% of 2025 Targets, Sets Ambitious 2026 Agenda

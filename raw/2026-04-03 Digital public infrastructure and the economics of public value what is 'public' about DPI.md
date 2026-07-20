@@ -2,6 +2,8 @@
 type: source
 title: "Digital public infrastructure and the economics of public value: what is 'public' about DPI?"
 publisher: Journal of Economic Policy Reform (Taylor & Francis)
+date_precision: day
+date_source: source
 author: Mariana Mazzucato, David Eaves, Beatriz Vasconcellos
 url: https://www.tandfonline.com/doi/full/10.1080/17487870.2026.2662285
 published: 2026-04-03
@@ -11,6 +13,7 @@ places: [XGL, KEN]
 topics: [dpi.id, dpi.pay, dpi.exchange, gov.policy, capacity.research, include.access, tech.innovate, gov.standards]
 entities: [[mariana-mazzucato], [david-eaves], [ucl-iipp]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Peer-reviewed (JEPR, DOI 10.1080/17487870.2026.2662285). DPI is not neutral; the "attributes"

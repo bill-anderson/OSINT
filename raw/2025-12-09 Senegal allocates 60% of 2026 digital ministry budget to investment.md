@@ -11,6 +11,7 @@ places: [SEN]
 topics: [gov.policy, finance.new, infra.store, dpi.id, dpi.govtech]
 entities: [[new-deal-technologique]]
 lens: []
+body_completeness: full
 ---
 
 # Senegal allocates 60% of 2026 digital ministry budget to investment

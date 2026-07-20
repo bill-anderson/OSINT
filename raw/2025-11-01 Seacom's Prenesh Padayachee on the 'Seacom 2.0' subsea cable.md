@@ -3,6 +3,7 @@ type: source
 title: "Seacom's Prenesh Padayachee on the 'Seacom 2.0' subsea cable"
 publisher: Connecting Africa
 url: https://www.connectingafrica.com/fiber-networking/atf-2025-seacom-s-prenesh-padayachee-on-the-seacom-2-0-subsea-cable-system
+date_source: source
 author: Paula Gilbert
 published: 2025-11
 date_precision: month
@@ -12,6 +13,7 @@ places: [ZAF, XAF]
 topics: [infra.connect, tech.ai, finance.new, infra.store]
 entities: [[seacom]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Recorded interview (Connecting Africa / Paula Gilbert) at Africa Tech Festival 2025,

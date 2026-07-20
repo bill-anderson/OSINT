@@ -13,6 +13,7 @@ places: [CMR]
 topics: [infra.connect, include.divides, dpi.govtech]
 entities: [[patnuc], [world-bank]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Business in Cameroon (Nov 2025): Posts & Telecoms Minister opened bidding (31 Oct 2025) for the "rural connectivity" component of PATNUC (Digital Transformation Acceleration Project) — World Bank-backed, 55bn XAF — to connect 328 currently-unserved 3G localities by 2028. Two phases (120 sites + optional 208), work to Dec 2026. Involves Minmap, Minepat, ART, Camtel, MTN Cameroon, Orange Cameroun. Rural connectivity is one of three PATNUC components. NB: distinct from Burkina Faso's PATNUC/PACTDIGITAL — Cameroon's own PATNUC. -->

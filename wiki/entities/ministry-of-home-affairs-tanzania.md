@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: government-body
 title: Ministry of Home Affairs, Tanzania
 places: [TZA]

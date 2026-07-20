@@ -13,6 +13,7 @@ places: [MAR]
 topics: [tech.industry, gov.policy, dpi.pay]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 <!-- Historical baseline (2016). OBG on Morocco's ICT sector: offshoring + electronic payments niches; ICT ~3% of GDP (2015). Plan Maroc Numeric 2020 (successor to Numeric 2013). Governance: Law 24-96 (1996) liberalised, ended Maroc Telecom monopoly; e-Morocco 2010, Maroc Numeric 2013 (Dh5.2bn, 4 priorities). Offshoring: Casanearshore, Technopolis Rabat, Fès/Tetouan/Oujda Shore; call centres $480m. E-payment: 11.7m credit cards (Sept 2015); S2M; Moroccans spent $2.5bn online (2014). Startups: Maroc Numeric Fund (Dh100m). Cloud: <10 DCs (2014). E-gov: 85th (UN 2016); Portnet (18,000 traders). Historical context for Digital Morocco 2030. -->

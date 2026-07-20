@@ -12,6 +12,7 @@ places: [LSO]
 topics: [gov.policy, gov.legislate, dpi.govtech]
 entities: [[lesotho-digital-transformation-strategy], [micsti-lesotho]]
 lens: []
+body_completeness: full
 artefact: "2024-01-01 LSO61 Lesotho National Digital Policy 2024.pdf"
 ---
 

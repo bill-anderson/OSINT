@@ -1,6 +1,7 @@
 ---
 type: source
 title: "Immatriculation des véhicules : Passage au tout-numérique dès aujourd'hui"
+ingested: 2026-07-18
 title_en: Third phase of national vehicle-registration IT system goes live 5 Apr 2026 — end of manual local applications, centralised platform, biometric ID card required for transfers
 url: https://www.elmoudjahid.dz/fr/actualite/immatriculation-des-vehicules-passage-au-tout-numerique-des-aujourd-hui-250065
 publisher: El Moudjahid
@@ -15,6 +16,7 @@ places: [DZA]
 topics: [dpi.govtech, dpi.registry, dpi.id]
 entities: [[ministere-de-linterieur]]
 lens: []
+body_completeness: full
 provenance_flag: state-media
 ---
 

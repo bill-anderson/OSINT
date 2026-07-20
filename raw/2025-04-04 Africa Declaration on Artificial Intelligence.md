@@ -11,6 +11,7 @@ places: [XAF, RWA]
 topics: [tech.ai, gov.policy, gov.regional, finance.new]
 entities: [[africa-ai-declaration], [african-union], [smart-africa], [itu]]
 lens: [sovereignty]
+body_completeness: full
 artifact: "2025-04-04 Africa Declaration on Artificial Intelligence.pdf"
 ---
 

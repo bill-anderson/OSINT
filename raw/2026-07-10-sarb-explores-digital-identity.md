@@ -6,6 +6,7 @@ publisher: EWN
 published: 2026-07-10
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [ZAF]
 topics: [dpi.id, dpi.pay]
 entities: [[sarb]]

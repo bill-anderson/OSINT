@@ -3,6 +3,7 @@ type: source
 title: Cameroon unveils upgraded digital procurement system with $12M Korean grant
 url: https://www.biometricupdate.com/202506/cameroon-unveils-upgraded-digital-procurement-system-with-12m-korean-grant
 publisher: Biometric Update
+ingested: 2026-07-18
 author: Ayang Macdonald
 published: 2025-06-30
 date_precision: day
@@ -11,6 +12,7 @@ places: [CMR]
 topics: [dpi.govtech, dpi.exchange, gov.policy, finance.new, data.open]
 entities: [[coleps], [koica], [ministry-of-public-contracts-cameroon]]
 lens: [sovereignty]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: CMR-2026-07-17
 ---

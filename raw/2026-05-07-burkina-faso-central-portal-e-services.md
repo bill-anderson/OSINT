@@ -3,6 +3,8 @@ type: source
 title: Burkina Faso Launches Central Portal to Streamline E-Services
 url: https://www.wearetech.africa/en/fils-uk/news/tech/burkina-faso-launches-central-portal-to-streamline-e-services
 publisher: We Are Tech Africa
+ingested: 2026-07-18
+lens: []
 author: Ange J.A de Berry Quenum
 published: 2026-05-07
 date_precision: day

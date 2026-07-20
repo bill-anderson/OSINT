@@ -3,6 +3,7 @@ type: source
 title: "Cybersécurité : des experts de la sous-région renforcent les stratégies de riposte"
 url: https://www.adiac-congo.com/content/cybersecurite-des-experts-de-la-sous-region-renforcent-les-strategies-de-riposte-165608
 publisher: Les Dépêches de Brazzaville (ADIAC)
+ingested: 2026-07-18
 author: Firmin Oyé
 published: 2025-07-01
 date_precision: day
@@ -13,6 +14,7 @@ places: [COG, XCA]
 topics: [infra.cybersec, gov.regional, infra.capacity, gov.legislate]
 entities: [[anssi-congo], [itu]]
 lens: [sovereignty]
+body_completeness: full
 provenance_flag: state-aligned-outlet
 ---
 

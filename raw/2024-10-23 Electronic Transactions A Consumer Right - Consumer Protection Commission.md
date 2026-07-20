@@ -3,6 +3,8 @@ type: source
 title: Electronic Transactions: A Consumer Right - Consumer Protection Commission
 url: https://zimbabwenow.co.zw/articles/12707/electronic-transactions-a-consumer-right-consumer-protection-commission
 publisher: Zim Now
+lens: []
+body_completeness: full
 author: Oscar J Jeke / Philemon Jambaya
 published: 2024-10-23
 date_precision: day

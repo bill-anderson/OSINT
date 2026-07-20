@@ -6,12 +6,14 @@ publisher: FrontPage Africa
 published: 2026-05-13
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: LBR-2026-07-17
 places: [LBR]
 topics: [dpi.id, dpi.registry, gov.protect]
 entities: [[national-identification-registry-liberia], [osd-international], [techno-brain], [great-project-liberia], [world-bank]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Liberia Turns to Austrian Firm to Rescue Troubled National ID System as Activists Flag Security Concerns

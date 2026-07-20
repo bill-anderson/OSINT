@@ -6,12 +6,14 @@ publisher: leFaso.net
 published: 2026-07-07
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: BFA-2026-07-17
 places: [BFA, XWA]
 topics: [dpi.pay, gov.regional, include.access, finance.new]
 entities: [[bceao], [pi-spi], [uemoa]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Paiements instantanés dans l'UEMOA : La BCEAO prolonge les délais de connexion à la plateforme PI-SPI

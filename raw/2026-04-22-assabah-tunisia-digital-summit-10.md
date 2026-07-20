@@ -6,6 +6,7 @@ publisher: Assabah News (جريدة الصباح نيوز)
 published: 2026-04-22
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [TUN]
 topics: [gov.policy, tech.ai, tech.innovate]
 entities: [[ministry-of-communication-technologies-tunisia]]

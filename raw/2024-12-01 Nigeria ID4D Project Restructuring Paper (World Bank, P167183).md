@@ -5,6 +5,9 @@ publisher: World Bank (Digital Development Global Practice, Western & Central Af
 published: 2024-12-01
 date_precision: month
 date_source: proxy
+ingested: 2026-07-17
+lens: []
+body_completeness: full
 accessed: 2026-07-16
 places: [NGA]
 topics: [dpi.id]

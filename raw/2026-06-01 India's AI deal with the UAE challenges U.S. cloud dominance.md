@@ -3,14 +3,17 @@ type: source
 title: "India's AI deal with the UAE challenges U.S. cloud dominance"
 publisher: Rest of World
 url: https://restofworld.org/2026/india-uae-g42-cerebras-ai-sovereignty/
+date_source: source
 author: Indranil Ghosh, Itika Sharma Punit
 published: 2026-06-01
+date_precision: month
 accessed: 2026-07-11
 ingested: 2026-07-11
 places: [XGL]
 topics: [tech.ai, infra.store, geopol.india, geopol.gulf, geopol.usa]
 entities: [[g42], [uae], [nvidia]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- G42's 'Intelligence Grid': 64 Cerebras systems to India (deal 15 May 2026). Not Africa-specific; reference on the AI-sovereignty / G42 compute-diplomacy model and Gulf-backed sovereign compute. -->

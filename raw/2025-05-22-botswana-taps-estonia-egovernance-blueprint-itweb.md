@@ -3,6 +3,9 @@ type: source
 title: Botswana taps Estonia's blueprint to drive digital growth
 url: https://itweb.africa/article/botswana-taps-estonias-blueprint-to-drive-digital-growth/LPp6VMrBJ9jMDKQz
 publisher: ITWeb Africa
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Phathisani Moyo
 published: 2025-05-22
 date_precision: day

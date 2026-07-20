@@ -3,6 +3,9 @@ type: source
 title: Burundi lands funding for 4G rural expansion
 url: https://itweb.africa/article/burundi-lands-funding-for-4g-rural-expansion/kYbe9MXbak9vAWpG
 publisher: ITWeb Africa
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Lezeth Khoza
 published: 2026-05-05
 date_precision: day

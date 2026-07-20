@@ -3,6 +3,7 @@ type: source
 title: Cameroon blocks undeclared mobile devices
 url: https://itweb.africa/article/cameroon-blocks-undeclared-mobile-devices/mYZRXM9gWm9vOgA8
 publisher: ITWeb Africa
+ingested: 2026-07-18
 author: Amindeh Blaise Atabong
 published: 2026-05-22
 date_precision: day
@@ -11,6 +12,7 @@ places: [CMR]
 topics: [dpi.registry, dpi.exchange, gov.legislate, infra.connect, include.access, dpi.govtech]
 entities: [[cameroon-customs], [camtel], [mtn-cameroon], [orange-cameroun]]
 lens: [sovereignty]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: CMR-2026-07-17
 ---

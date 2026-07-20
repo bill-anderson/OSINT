@@ -3,6 +3,9 @@ type: source
 title: Universal Telecom donates Starlink Internet to Marang JSS
 url: https://www.mmegi.bw/news/universal-telecom-donates-starlink-internet-to-marang-jss/news
 publisher: Mmegi
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Laone Choeunyane
 published: 2026-03-04
 date_precision: day

@@ -6,6 +6,7 @@ publisher: We Are Tech Africa
 published: 2026-05-07
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [TUN]
 topics: [dpi.pay, finance.new, gov.standards]
 entities: [[central-bank-of-tunisia], [tunpay], [societe-monetique-tunisie]]

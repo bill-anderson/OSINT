@@ -3,6 +3,8 @@ type: source
 title: "Digital equality: South Africa still has a long way to go"
 publisher: The Conversation
 url: "https://theconversation.com/digital-equality-south-africa-still-has-a-long-way-to-go-131864"
+date_precision: day
+date_source: source
 author: Alison Gillwald
 published: 2020-03-03
 accessed: 2026-07-12
@@ -11,6 +13,7 @@ places: [ZAF]
 topics: [include.divides, include.access, dpi.pay, gov.policy]
 entities: [[research-ict-africa], [alison-gillwald], [after-access]]
 lens: []
+body_completeness: full
 ---
 <!-- Gillwald op-ed. Facts AS OF 2020-03-03 (survey data as of After Access 2018): Competition Commission ordered removal of the prepaid "poverty premium"; prepaid = ~85% of the SA data market (lifeline subsidy a likely free-rider transfer); device price top barrier for non-users, data cost the reason for sub-optimal use; 32% of SA users used public wi-fi monthly; ~50% of South Africans offline. Do not treat 2018/2020 figures as current. Attach to ZAF hub, research-ict-africa, alison-gillwald. -->
 

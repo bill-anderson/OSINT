@@ -13,6 +13,7 @@ places: [MUS]
 topics: [dpi.id, dpi.pay]
 entities: [[mauritius-mobile-id]]
 lens: []
+body_completeness: full
 ---
 
 Citizen step-by-step guide to the electronic Know-Your-Customer (eKYC) process for mandatory SIM re-registration in Mauritius. Under the ICTA (Registration of SIM) Regulations 2023 — in force from 31 October 2023 — all SIM holders in the Republic of Mauritius must re-register their SIM(s), with operator deadlines running to 30 April 2024; the guide walks users through online eKYC re-registration (e.g. via operator eKYC apps/websites) and in-person options.

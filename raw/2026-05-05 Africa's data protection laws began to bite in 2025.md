@@ -13,6 +13,7 @@ places: [XAF, UGA, ZAF, KEN, NGA]
 topics: [gov.protect, gov.legislate, tech.ai]
 entities: [[code-for-africa], [digital-policy-alert], [odpc-kenya], [ndpc], [meta]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Reference report; cites primaries throughout (admissible, not AI synthesis). Headline: 44 countries with enacted DP laws by end-2025 (80% of AU members, citing Digital Policy Alert); 38 fully operational DPAs (up from 34 a year earlier); 11 AU states with no law; 15 more with laws but no functioning body; >50 laws projected by end-2026. Corroborates 44 (REV-001(b), Adebowale side) vs Mbaya's "36". Enforcement examples (Uganda Google/first criminal conviction, SA 8-yr sentence, Kenya Worldcoin deletion, Nigeria $220m Meta fine) already largely on gov.protect. -->

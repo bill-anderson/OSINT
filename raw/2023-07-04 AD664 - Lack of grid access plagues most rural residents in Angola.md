@@ -13,6 +13,7 @@ places: [AGO]
 topics: [infra.energy, include.divides, digital.rural]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 <!-- Afrobarometer dispatch AD664 (2023) — survey evidence on Angola's electricity gap, the binding constraint under connectivity/data infrastructure. 65% live in grid-served zones (up from 61% in 2019) but only 14% of RURAL residents are within reach vs 92% urban; 59% connected; of the connected 78% say it works most/all the time; combined, <half (47%) enjoy reliable supply — just 6% of rural residents, 28% of the high-poverty group. 66% rate government's electricity provision poor (83% rural). Govt Power Sector Action Plan targets 60% electrification by 2025 (from 47% in 2020); rural electrification est. <10%. Authors from the Institute for Justice and Reconciliation (IJR). -->

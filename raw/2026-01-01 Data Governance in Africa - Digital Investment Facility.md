@@ -3,6 +3,7 @@ type: source
 title: "Data Governance in Africa — Digital Investment Facility"
 publisher: D4D Hub / Digital Investment Facility
 url: https://d4dhub.eu/
+date_source: source
 author: D4D Hub
 published: 2026
 date_precision: year
@@ -12,6 +13,7 @@ places: [XSS]
 topics: [infra.store, infra.connect, finance.new, infra.energy]
 entities: [[digital-investment-facility], [giz]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Profile of the Digital Investment Facility (DIF) — EU/Germany/Finland-funded (implemented by GIZ + HAUS, under Global Gateway/D4D Hub); de-risks data-centre & IXP projects in SSA (min EUR 5m, revenue-generating, ESG). Publishes the Xalam DC market briefs ([[xalam-dc-market-briefs-2026]]). NB: page mis-titled 'Data Governance'. -->

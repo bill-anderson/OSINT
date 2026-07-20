@@ -4,11 +4,14 @@ title: "Google Cloud Summit in Africa Highlights the Continent's Digital Transfo
 url: https://www.googlecloudpresscorner.com/2026-07-01-Google-Cloud-Summit-in-Africa-Highlights-the-Continents-Digital-Transformation-and-Unveils-New-Agentic-AI-and-Infrastructure-Investments
 publisher: Google Cloud (press release)
 published: 2026-07-01
+date_precision: day
+date_source: source
 ingested: 2026-07-10
 places: [ZAF, GHA, XAF]
 topics: [infra.connect, tech.ai, tech.innovate, finance.new, capacity.training, geopol.usa]
 entities: [[google], [cyril-ramaphosa], [vodacom]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 Google Cloud Summit in Africa Highlights the Continent’s Digital Transformation and Unveils New Agentic AI and Infrastructure Investments

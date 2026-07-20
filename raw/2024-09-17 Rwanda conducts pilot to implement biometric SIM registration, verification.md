@@ -1,9 +1,13 @@
 ---
 type: source
+date_precision: day
+date_source: source
 places: [RWA]
 topics: [dpi.id, infra.cybersec, gov.legislate]
 entities: [[rura-rwanda], [nida-rwanda]]
 ingested: 2026-07-16
+lens: []
+body_completeness: full
 page: Rwanda conducts pilot to implement biometric SIM registration, verification
 title: Rwanda conducts pilot to implement biometric SIM registration, verification
 author: Ayang Macdonald

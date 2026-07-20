@@ -6,6 +6,7 @@ publisher: Salam Info
 published: 2026-06-02
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [TCD, XCA]
 topics: [infra.connect, dpi.govtech, gov.regional, include.divides]
 entities: [[world-bank], [patn-chad], [ministry-telecom-digital-economy-chad]]

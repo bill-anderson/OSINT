@@ -3,6 +3,8 @@ type: source
 title: "Mapping African Digital Infrastructures (Part 2): A quantitative analysis of open-source contributions"
 publisher: Research ICT Africa
 url: https://researchictafrica.net/2022/06/12/mapping-african-digital-infrastructures-part-2-a-quantitative-analysis-of-open-source-contributions/
+date_precision: day
+date_source: source
 author: David Johnson
 published: 2022-06-12
 accessed: 2026-07-12
@@ -11,6 +13,7 @@ places: [XAF, NGA, ZAF, KEN]
 topics: [infra.capacity, tech.innovate, capacity.research, data.open]
 entities: [[mapping-african-digital-infrastructures], [research-ict-africa]]
 lens: [colonialism]
+body_completeness: full
 ---
 <!-- Part 2 (quantitative GitHub analysis) of RIA's 3-part study: very low but rising African OS contribution (Africa 2.3% of active GitHub users 2021, GitHub Octoverse), led by Nigeria and South Africa. Cites publication [[mapping-african-digital-infrastructures]]; reference figures stay there, not concept/place pages. (EGY dropped from places.) -->
 

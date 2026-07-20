@@ -13,6 +13,7 @@ places: [COG]
 topics: [dpi.id, dpi.registry, gov.protect]
 entities: [[patn-congo]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- ACI (Jul 2025): a national digital-identity workshop in Brazzaville (16 Jul 2025, "Toward an inclusive and secure digital identity"). Posts/Telecoms/Digital Economy Minister Léon Juste Ibombo stressed secure digital identity for data confidentiality + national digital sovereignty; under the WB-financed PATN and "Congo Digital 2025." Govt commits to a legal/institutional framework enabling a Digital Wallet. Thales rep Laurent Jutard: trusted digital identity is the first pillar. Ministry of Interior (Bonsang Oko Letchaud, DG Territorial Admin): a unified, reliable, sovereign digital identity is being built with WB support; civil-status reform progressing via SIFEC (Système d'information des faits d'État Civil, digitising civil-status records); modern interoperable ID framed as national security. -->

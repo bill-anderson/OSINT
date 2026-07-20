@@ -12,6 +12,7 @@ places: [MAR]
 topics: [dpi.id, gov.policy]
 entities: [[dgsn-morocco]]
 lens: []
+body_completeness: full
 artefact: "2024-09-18 PlaquetteInstitutionnel DGSN Morocco (Ang).pdf"
 ---
 

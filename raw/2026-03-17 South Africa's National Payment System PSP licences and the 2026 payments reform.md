@@ -3,6 +3,8 @@ type: source
 title: "South Africa's National Payment System: PSP licences and the 2026 payments reform"
 publisher: Facephi Observatory
 url: https://facephi.com/observatory/en/national-payment-system-south-africa-psp-licences/
+date_precision: day
+date_source: source
 author: Facephi (berta)
 published: 2026-03-17
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [ZAF, XSA]
 topics: [dpi.pay, gov.legislate, gov.policy, dpi.exchange, finance.new]
 entities: [[sarb], [popia]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Explainer citing primaries (NPS Act 1998, SARB Vision 2025, 2025 Exemption Notice/Draft Directive): SA opening the National Payment System to non-bank PSPs from 2026 via activity-based licensing (7 categories). PayShap (live 2023) >100m txns in first year, per-txn limit raised to R50,000; cross-border via SADC TCIB (ISO 20022). Vendor-authored â€” facts sourced to the cited instruments. -->

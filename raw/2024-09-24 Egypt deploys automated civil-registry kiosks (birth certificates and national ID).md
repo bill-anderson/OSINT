@@ -11,6 +11,7 @@ places: [EGY]
 topics: [dpi.id, dpi.registry, dpi.govtech, include.access]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 # Egypt deploys automated civil-registry kiosks (birth certificates and national ID)

@@ -10,6 +10,8 @@ ingested: 2026-07-16
 places: [SDN]
 topics: [infra.connect, dpi.pay, gov.policy, tech.industry, include.divides]
 entities: [[world-bank]]
+lens: []
+body_completeness: full
 artefact: Digital-Economy-RepSudan-jun22.pdf
 ---
 

@@ -3,6 +3,9 @@ type: source
 title: Botswana's Kala Data Centre near revenue-generating stage
 url: https://itweb.africa/article/botswanas-kala-data-centre-near-revenue-generating-stage/lwrKxv3YbjAMmg1o
 publisher: ITWeb Africa
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Staff Writer
 published: 2025-09-26
 date_precision: day

@@ -6,12 +6,14 @@ publisher: We Are Tech
 published: 2026-04-20
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 places: [DZA]
 topics: [tech.ai, infra.cybersec, tech.innovate, capacity.research]
 entities: [[abdelmadjid-tebboune], [ministry-of-higher-education-and-scientific-research-algeria], [ministry-of-knowledge-economy-algeria], [ministry-of-telecommunications-algeria]]
 lens: []
+body_completeness: full
 ---
 
 # Algeria Unveils First AI and Cybersecurity Start-up Cluster

@@ -3,6 +3,9 @@ type: source
 title: Nigeria and Angola sign space cooperation at ANGOTIC 2026 in Luanda
 url: https://techreviewafrica.com/news/5915/nigeria-and-angola-sign-space-cooperation-at-angotic-2026-in-luanda
 publisher: Tech Review Africa
+entities: []
+lens: []
+body_completeness: full
 author: Nana Appiah Acquaye
 published: 2026-06-13
 date_precision: day

@@ -6,6 +6,7 @@ publisher: TechAfrica News
 published: 2025-08-27
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [NGA]
 topics: [dpi.pay, gov.standards]
 entities: [[central-bank-of-nigeria]]

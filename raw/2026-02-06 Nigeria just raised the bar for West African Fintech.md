@@ -3,6 +3,8 @@ type: source
 title: "Nigeria just raised the bar for West African Fintech"
 publisher: Modern Ghana
 url: https://www.modernghana.com/news/1469391/
+date_precision: day
+date_source: source
 author: Isaac Ofori
 published: 2026-02-06
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [NGA, GHA, SEN, KEN, ZAF, XWA]
 topics: [dpi.pay, finance.new, gov.regional, gov.policy, tech.ai, gov.standards]
 entities: [[cbn], [cbn-policy-insight-series-2025], [ecowas], [afcfta]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Commentary on the CBN's Policy Insight Series 2025 ('Shaping the Future of Fintech in Nigeria'): 18-month roadmap, 3 pillars; proposes a Single Regulatory Window, regulatory passporting (pilots with Ghana/Kenya/Senegal/South Africa), a Responsible AI in Finance Hub. 87.5% of NG fintechs say compliance costs constrain innovation. (Source the CBN report directly.) -->

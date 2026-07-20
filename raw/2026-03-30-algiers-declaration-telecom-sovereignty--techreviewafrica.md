@@ -6,6 +6,7 @@ publisher: Tech Review Africa
 published: 2026-03-30
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 provenance_flag: pr-wire
@@ -13,6 +14,7 @@ places: [DZA, XAF]
 topics: [gov.regional, infra.connect, infra.store, infra.cybersec, digital.rural, capacity.training]
 entities: [[algiers-declaration], [african-telecommunications-union]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 **Primary source to obtain at ingest:** the text of the Algiers Declaration on African Telecommunications Sovereignty and Integrated Connectivity (2026–2030) itself, plus the African Telecommunications Union / AU ministerial communiqué from the Algiers meeting.

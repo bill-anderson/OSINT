@@ -3,6 +3,9 @@ type: source
 title: "Ministère en charge de la digitalisation : Aurélie Adam Soulé Zoumarou passe la main à Mahuna Akplogan"
 url: https://fraternite.bj/ministere-en-charge-de-la-digitalisation-aurelie-adam-soule-zoumarou-passe-la-main-a-mahuna-akplogan/
 publisher: Fraternité
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Fidégnon
 published: 2026-05-27
 date_precision: day

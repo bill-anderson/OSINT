@@ -3,14 +3,17 @@ type: source
 title: "Narratives and Counternarratives on Data Sharing in Africa"
 publisher: "ACM FAccT '21 (Conference on Fairness, Accountability, and Transparency)"
 url: https://doi.org/10.1145/3442188.3445897
+date_source: source
 author: Rediet Abebe, Kehinde Aruleba, Abeba Birhane, Sara Kingsley, George Obaido, Sekou L. Remy, Swathi Sadagopan
 published: 2021-03-01
+date_precision: day
 accessed: 2026-07-12
 ingested: 2026-07-12
 places: [XAF, XSS]
 topics: [dpi.exchange, data.open, gov.protect, tech.ai, capacity.research]
 entities: [[abeba-birhane]]
 lens: [colonialism, sovereignty]
+body_completeness: full
 ---
 
 <!-- FAccT '21 peer-reviewed paper (full text: `raw/2021-03-01 3442188.3445897.pdf`). This .md is the

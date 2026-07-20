@@ -6,12 +6,14 @@ publisher: ACTUALITE.CD
 published: 2025-08-31
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: COD-2026-07-17
 places: [COD]
 topics: [infra.connect, finance.mou, include.divides, digital.rural]
 entities: [[monacosat], [felix-tshisekedi], [augustin-kibassa-maliba], [jose-mpanda-kabangu], [starlink], [drc-national-digital-plan-pnn2]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 Dimanche 31 août 2025 - 11:33

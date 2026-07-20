@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: organisation
 title: FATF (Financial Action Task Force)
 places: [TGO, XGL]

@@ -6,12 +6,14 @@ publisher: We Are Tech
 published: 2026-03-13
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 places: [DZA]
 topics: [dpi.pay, tech.industry, finance.new]
 entities: [[yassir], [uno-hypermarkets], [cevital-group]]
 lens: []
+body_completeness: full
 ---
 
 # Algeria's Yassir Buys Uno Hypermarkets to Extend Its Super-App Ecosystem

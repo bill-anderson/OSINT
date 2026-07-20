@@ -6,6 +6,7 @@ publisher: ITWeb Africa
 published: 2025-10-07
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [SWZ]
 topics: [infra.cybersec, gov.policy, capacity.literacy]
 entities: [[government-of-eswatini], [government-in-your-hand]]

@@ -3,6 +3,9 @@ type: source
 title: Burundi Seeks IFC Support for Digital Projects
 url: https://www.wearetech.africa/en/fils-uk/news/tech/burundi-seeks-ifc-support-for-digital-projects
 publisher: We Are Tech Africa
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Isaac K. Kassouwi
 published: 2025-02-12
 date_precision: day

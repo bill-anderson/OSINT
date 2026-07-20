@@ -3,6 +3,8 @@ type: source
 title: SASSA on qualification criteria for COVID-19 SRD
 url: https://www.gov.za/news/media-statements/sassa-qualification-criteria-covid-19-srd-19-jan-2026
 publisher: South African Government (gov.za)
+lens: []
+body_completeness: full
 author: SASSA
 published: 2026-01-19
 date_precision: day

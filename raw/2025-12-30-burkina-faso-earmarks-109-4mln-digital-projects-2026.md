@@ -3,6 +3,9 @@ type: source
 title: Burkina Faso Earmarks $109.4Mln for Digital Projects in 2026
 url: https://www.wearetech.africa/en/fils-uk/news/public-management/burkina-faso-earmarks-109-4mln-for-digital-projects-in-2026
 publisher: We Are Tech Africa
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Isaac K. Kassouwi
 published: 2025-12-30
 date_precision: day

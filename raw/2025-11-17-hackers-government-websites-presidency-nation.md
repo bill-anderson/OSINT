@@ -6,6 +6,7 @@ publisher: Daily Nation
 published: 2025-11-17
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [KEN]
 topics: [infra.cybersec]
 entities: []

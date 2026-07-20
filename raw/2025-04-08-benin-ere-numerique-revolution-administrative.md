@@ -3,6 +3,7 @@ type: source
 title: "Le Bénin à l'ère du numérique : une révolution administrative en marche"
 url: https://fraternite.bj/le-benin-a-lere-du-numerique-une-revolution-administrative-en-marche/
 publisher: Fraternité
+ingested: 2026-07-18
 author: Bergedor HADJIHOU
 published: 2025-04-08
 date_precision: day
@@ -13,6 +14,7 @@ places: [BEN]
 topics: [dpi.govtech, dpi.registry, dpi.exchange, gov.protect, digital.rural]
 entities: [[anip-benin], [service-public-bj], [aurelie-adam-soule-zoumarou]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Le Bénin à l'ère du numérique : une révolution administrative en marche

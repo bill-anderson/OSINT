@@ -4,12 +4,15 @@ title: "Taking digital inequality seriously for digital public infrastructure an
 publisher: Research ICT Africa
 url: https://researchictafrica.net/research/taking-digital-inequality-seriously-for-digital-public-infrastructure-and-data-governance/
 published: 2026-04-14
+date_precision: day
+date_source: source
 accessed: 2026-07-12
 ingested: 2026-07-12
 places: [ZAF, XAF]
 topics: [include.divides, gov.protect, gov.policy, dpi.id, dpi.pay, dpi.exchange]
 entities: [[after-access], [research-ict-africa]]
 lens: [sovereignty, colonialism]
+body_completeness: full
 ---
 <!-- RIA report using demand-side After Access (2022) data: DPI debates misrepresent digital inequality; argues "positive" data-governance rights (access, empowerment) matter more than traditional negative rights. Reference figures stay on the After Access resource. Attach: [[after-access]] + [[research-ict-africa]]. -->
 

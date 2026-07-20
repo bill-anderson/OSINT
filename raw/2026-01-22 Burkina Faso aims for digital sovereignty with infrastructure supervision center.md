@@ -3,6 +3,8 @@ type: source
 title: "Burkina Faso aims for digital sovereignty with infrastructure supervision center"
 publisher: Biometric Update
 url: https://www.biometricupdate.com/202601/burkina-faso-aims-for-digital-sovereignty-with-infrastructure-supervision-center
+date_precision: day
+date_source: source
 author: Ayang Macdonald
 published: 2026-01-22
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [BFA]
 topics: [infra.store, infra.cybersec, gov.policy, tech.ai]
 entities: [[alliance-of-sahel-states], [ecowas], [bf-ministry-digital-transition]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Burkina Faso launched work on a Digital Infrastructure Supervision Center (~$5.4m, 9-month build, delivery ~Oct 2026) to supervise the national backbone/data centres/cyberspace; a 'zero data abroad' localization policy. Follows a Nov 2025 biometric ID system; BF is part of the AES trio. -->

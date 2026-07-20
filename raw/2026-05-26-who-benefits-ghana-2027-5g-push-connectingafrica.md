@@ -6,12 +6,14 @@ publisher: Connecting Africa
 published: 2026-05-26
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: GHA-2026-07-17
 places: [GHA]
 topics: [infra.connect]
 entities: [[ngic-ghana], [mtn-ghana], [telecel-ghana]]
 lens: []
+body_completeness: full
 ---
 
 # Who will benefit from Ghana's 2027 5G push?

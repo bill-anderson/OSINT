@@ -3,6 +3,7 @@ type: source
 title: Digital Delta Data Centre to improve public service delivery
 url: https://www.mmegi.bw/business/digital-delta-data-centre-to-improve-public-service-delivery/news
 publisher: Mmegi
+ingested: 2026-07-18
 author: Pauline Dikuelo
 published: 2026-05-06
 date_precision: day
@@ -13,6 +14,7 @@ places: [BWA]
 topics: [infra.store, dpi.govtech, infra.connect]
 entities: [[bofinet], [digital-delta-data-centre], [geoffrey-seleka]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Digital Delta Data Centre to improve public service delivery

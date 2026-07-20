@@ -6,6 +6,7 @@ publisher: L'Express (Maurice)
 published: 2026-06-20
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 retrieved: 2026-07-17
 sweep_batch: MUS-2026-07-17
 body_completeness: full

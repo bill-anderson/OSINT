@@ -3,6 +3,7 @@ type: source
 title: "Douala : La Mairie de Ville veut digitaliser son cadastre et créer un certificat de possession numérique"
 url: https://leconomie.info/douala-la-mairie-de-ville-veut-digitaliser-son-cadastre-et-creer-un-certificat-de-possession-numerique/
 publisher: Le quotidien L'Economie
+ingested: 2026-07-18
 author: Francois Gael Mbala
 published: 2026-05-07
 date_precision: day
@@ -13,6 +14,7 @@ places: [CMR]
 topics: [dpi.registry, digital.localgov, geopol.china]
 entities: [[huawei], [communaute-urbaine-de-douala]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Douala : La Mairie de Ville veut digitaliser son cadastre et créer un certificat de possession numérique

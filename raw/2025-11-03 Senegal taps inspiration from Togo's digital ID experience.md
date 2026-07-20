@@ -12,6 +12,7 @@ places: [TGO, SEN]
 topics: [dpi.id, dpi.pay, gov.regional, gov.standards, finance.new, include.access]
 entities: [[anid-togo], [mosip], [novissi], [wuri-programme], [gates-foundation]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 *Derivative on the core event (cites Ecofin Agency and TechAfrica News); admitted for the MOSIP-MoU-2021, Novissi, New Deal Technologique and bilateral-partnership context the origin account lacks.*

@@ -6,10 +6,12 @@ publisher: Tech Review Africa
 published: 2026-07-07
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [ETH]
 topics: [tech.ai, capacity.training, capacity.research, gov.policy]
 entities: [[ethiopian-ai-institute], [abiy-ahmed]]
 lens: []
+body_completeness: full
 provenance_flag: pr-wire
 retrieved: 2026-07-17
 sweep_batch: ETH-2026-07-17

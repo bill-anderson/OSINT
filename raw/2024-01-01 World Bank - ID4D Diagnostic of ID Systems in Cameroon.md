@@ -13,6 +13,7 @@ places: [CMR]
 topics: [dpi.id, dpi.registry, include.access]
 entities: [[world-bank], [bunec]]
 lens: []
+body_completeness: full
 ---
 
 <!-- COMPANION SOURCE PAGE for binary raw/2024-01-01 World Bank - ID4D Diagnostic of ID Systems in Cameroon.pdf (103pp; date proxied to year). World Bank ID4D diagnostic of Cameroon's identification + civil-registration systems — the authoritative baseline behind the 2024-25 reforms (new biometric CNI via Augentic/DGSN, BUNEC CRVS digitisation, UPIN, Law 2024/016). Per prior guidance, held as a reference; specific figures not promoted to synthesis pages. -->

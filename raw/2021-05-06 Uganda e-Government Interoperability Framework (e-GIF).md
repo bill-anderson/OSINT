@@ -7,6 +7,8 @@ published: 2021-05-06
 date_precision: day
 date_source: source
 ingested: 2026-07-17
+lens: []
+body_completeness: full
 artefact: "2021-05-06 Uganda e-Government Interoperability Framework (e-GIF).pdf"
 places: [UGA]
 topics: [dpi.exchange, gov.standards, dpi.govtech]

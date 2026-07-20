@@ -4,12 +4,15 @@ title: "SA's Telcos, Banks At War With Govt Over 6,500% ID Verification Fee Hike
 publisher: WeeTracker
 url: "https://weetracker.com/2026/01/27/south-africa-id-verification-fee-court-case/"
 published: 2026-01-27
+date_precision: day
+date_source: source
 accessed: 2026-07-12
 ingested: 2026-07-12
 places: [ZAF]
 topics: [dpi.id, dpi.registry, gov.legislate, include.access]
 entities: [[home-affairs-south-africa], [vodacom], [mtn-group], [act-south-africa], [leon-schreiber]]
 lens: [sovereignty]
+body_completeness: full
 ---
 <!-- Contested policy event (as of 2026-01-27): ACT (Assoc. of Communications and Technology; incl. Vodacom, MTN) filed a High Court review of a Home Affairs regulation raising the OVS ID-verification fee from 15c to ZAR 10 (+~6,500%; ZAR 1 off-peak batch option), effective 1 July 2025. Home Affairs (Min. Leon Schreiber) says the old system failed >50% of the time, new platform <1%; revenue earmarked for an "Intelligent Population Register" + future digital ID. TymeBank (Jonker) opposes as a "regressive tax"; Capitec to absorb. Same OVS whose repair is credited in [48]. Attach to home-affairs-south-africa, south-africa--dpi-id, ZAF hub. -->
 

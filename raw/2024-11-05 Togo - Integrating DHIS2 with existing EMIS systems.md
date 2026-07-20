@@ -10,6 +10,8 @@ ingested: 2026-07-17
 places: [TGO]
 topics: [dpi.mis, data.statistics, dpi.exchange, capacity.research, include.divides]
 entities: [[dhis2], [hisp-wca], [mepsta-togo], [stateduc]]
+lens: []
+body_completeness: full
 ---
 
 *A living implementation-profile page, not an event report: the date is a page date, so its contents are standing state and must not be reasoned about as 'state as of 2024-11-05' without hedging. Filed date_source: proxy for that reason.*

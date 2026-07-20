@@ -6,10 +6,12 @@ publisher: Corbeau News Centrafrique (CNC)
 published: 2025-01-29
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [CAF]
 topics: [dpi.id, dpi.govtech, include.access, dpi.pay]
 entities: [[edesec], [ministere-interieur-central-african-republic], [michel-nicaise-nassin], [ecobank-centrafrique], [bgfibank-centrafrique]]
 lens: [sovereignty]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: CAF-2026-07-17
 ---

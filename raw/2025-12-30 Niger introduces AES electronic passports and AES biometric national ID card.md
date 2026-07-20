@@ -13,6 +13,7 @@ places: [NER]
 topics: [dpi.id, gov.regional]
 entities: [[niger-national-eid], [alliance-of-sahel-states]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 Niger's Council of Ministers approved two draft decrees on 26 December 2025 to introduce electronic AES passports (ordinary and service) and AES biometric national identity cards. The move is part of efforts by members of the Alliance of Sahel States (AES) to harmonise travel and identity documents and promote regional integration, following the Confederation's launch of a common passport in late January 2025 that replaced the ECOWAS passport after the bloc withdrawal.

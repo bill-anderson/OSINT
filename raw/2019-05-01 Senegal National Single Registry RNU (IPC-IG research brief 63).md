@@ -11,6 +11,7 @@ places: [SEN]
 topics: [dpi.registry, include.access, data.statistics, gov.protect]
 entities: [[rnu-senegal], [dgpsn-senegal], [cdp-senegal], [senegal-numerique]]
 lens: []
+body_completeness: full
 artefact: "[[2019-05-01 PRB63_Institutionalisation_and_expanded_coverage_of_Senegal_s_National_Single_Registry.pdf]]"
 ---
 

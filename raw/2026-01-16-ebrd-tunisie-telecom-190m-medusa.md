@@ -10,6 +10,7 @@ ingested: 2026-07-20
 places: [TUN]
 topics: [infra.connect, finance.new, geopol.eu, infra.cybersec, infra.energy]
 entities: [[ebrd], [tunisie-telecom], [medusa-submarine-cable], [european-union], [global-gateway]]
+lens: []
 body_completeness: full
 ---
 

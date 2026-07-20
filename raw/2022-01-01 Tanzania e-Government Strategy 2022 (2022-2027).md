@@ -7,6 +7,8 @@ published: 2022-01-01
 date_precision: year
 date_source: source
 ingested: 2026-07-17
+lens: []
+body_completeness: full
 artefact: "2022-01-01 Tanzania e-Government Strategy 2022 (2022-2027).pdf"
 places: [TZA]
 topics: [dpi.govtech, gov.policy, dpi.exchange, infra.cybersec]

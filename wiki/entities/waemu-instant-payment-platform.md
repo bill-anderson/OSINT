@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: initiative
 title: WAEMU Instant Payment Platform (PI-SPI)
 places: [TGO, SEN, XWA]

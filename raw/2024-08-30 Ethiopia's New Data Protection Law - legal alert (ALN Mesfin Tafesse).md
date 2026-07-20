@@ -11,6 +11,7 @@ places: [ETH]
 topics: [gov.protect, gov.legislate]
 entities: [[ethiopia-pdpp]]
 lens: []
+body_completeness: full
 ---
 
 # Ethiopia's New Data Protection Law — legal alert (ALN Mesfin Tafesse & Associates)

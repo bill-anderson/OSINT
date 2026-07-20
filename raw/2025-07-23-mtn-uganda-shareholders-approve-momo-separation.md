@@ -6,6 +6,7 @@ publisher: ITWeb Africa
 published: 2025-07-23
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [UGA]
 topics: [dpi.pay]
 entities: [[mtn-uganda], [mtn-momo-uganda]]

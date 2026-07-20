@@ -14,6 +14,7 @@ places: [AGO]
 topics: [dpi.id, dpi.pay, dpi.govtech, geopol.india, finance.mou, gov.policy]
 entities: [[mosip]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 India has pledged to share its expertise in digital public infrastructure with Angola. The announcement came after a meeting in New Delhi on Friday, May 3, between visiting Angolan President João Lourenço (photo, left) and Indian Prime Minister Narendra Modi (photo, right). The initiative aims to enhance e-governance and streamline citizen access to public services in Angola.

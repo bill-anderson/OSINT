@@ -6,6 +6,7 @@ publisher: Le Sahel (ONEP)
 published: 2025-07-24
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [NER]
 topics: [infra.cybersec, dpi.govtech, infra.store, gov.policy, dpi.exchange]
 entities: [[ansi-niger], [niger-ixp]]

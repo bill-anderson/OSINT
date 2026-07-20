@@ -3,6 +3,7 @@ type: source
 title: "Accessibilité aux cartes Cip et C'est Moi: 130 000 personnes enrôlées en huit mois"
 url: https://lanation.bj/actualites/accessibilite-aux-cartes-cip-et-cest-moi-130-000-personnes-enrolees-en-huit-mois
 publisher: La Nation
+ingested: 2026-07-18
 author: Ariel GBAGUIDI
 published: 2026-05-18
 date_precision: day
@@ -13,6 +14,7 @@ places: [BEN]
 topics: [dpi.id, include.access, include.divides, digital.rural, digital.localgov]
 entities: [[anip-benin], [je-suis-citoyen-beninois], [ravip-benin], [tokandji-houedako], [andre-todje]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Accessibilité aux cartes Cip et C'est Moi: 130 000 personnes enrôlées en huit mois

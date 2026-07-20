@@ -6,6 +6,7 @@ publisher: ThisDay
 published: 2026-06-17
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [NGA]
 topics: [infra.store, gov.protect, dpi.pay]
 entities: [[central-bank-of-nigeria]]

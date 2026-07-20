@@ -6,6 +6,7 @@ publisher: Daily Nation
 published: 2026-05-13
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [KEN]
 topics: [gov.protect, gov.legislate]
 entities: [[odpc-kenya], [william-kabogo]]

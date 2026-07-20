@@ -3,6 +3,8 @@ type: source
 title: Le Fonds d'amorçage français Digital Africa va investir dans la fintech camerounaise Futa
 url: https://leconomie.info/le-fonds-damorcage-francais-digital-africa-va-investir-dans-la-fintech-camerounaise-futa/
 publisher: Le quotidien L'Economie
+ingested: 2026-07-18
+lens: []
 author: Francois Gael Mbala
 published: 2025-02-21
 date_precision: day

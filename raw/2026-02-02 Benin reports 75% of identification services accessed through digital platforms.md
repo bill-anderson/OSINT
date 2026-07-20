@@ -3,6 +3,8 @@ type: source
 title: "Benin reports 75% of identification services accessed through digital platforms"
 publisher: Biometric Update
 url: https://www.biometricupdate.com/202602/benin-reports-75-of-identification-services-accessed-through-digital-platforms
+date_precision: day
+date_source: source
 author: Ayang Macdonald
 published: 2026-02-02
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [BEN]
 topics: [dpi.id, dpi.govtech, include.access, data.statistics]
 entities: [[anip-benin], [seamfix], [world-bank], [wuri-programme]]
 lens: []
+body_completeness: full
 ---
 
 <!-- ANIP: in 2025, >=75% of identification services were solicited via digital platforms; 10.5m civil-status/ID services issued; 4m citizens reached; channel split 37% portal / 30% ANIP BJ app / 8% USSD; 3.8m telecom authentications; 25m eKYC verifications. ePass built on Seamfix GovSmart; digital civil registration issues birth cert + PIN at birth (pilot Oct 2025, UNICEF + WURI). -->

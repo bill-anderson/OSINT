@@ -13,6 +13,7 @@ places: [COD]
 topics: [gov.policy, tech.ai, infra.connect]
 entities: [[drc-national-digital-plan-pnn2], [drc-national-ai-strategy]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Agence Ecofin (FR), 11 Oct 2025 (URL prefix 1110). The definitive French primary for the PNN2 cost

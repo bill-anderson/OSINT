@@ -3,6 +3,7 @@ type: source
 title: "Marc-André Loko après le lancement du rapport sur les vulnérabilités du cyberspace béninois: « Nous disposons aujourd'hui d'un dispositif solide… »"
 url: https://www.lanation.bj/numerique/marc-andre-loko-apres-le-lancement-du-rapport-sur-les-vulnerabilites-du-cyberspace-beninois-nous-disposons-aujourdhui-dun-dispositif-solide
 publisher: La Nation
+ingested: 2026-07-18
 author: Christian Hounongbe
 published: 2025-07-02
 date_precision: day
@@ -13,6 +14,7 @@ places: [BEN]
 topics: [infra.cybersec, dpi.govtech, gov.policy, tech.ai]
 entities: [[asin-benin], [marc-andre-loko], [cyber-africa-forum]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Marc-André Loko après le lancement du rapport sur les vulnérabilités du cyberspace béninois: « Nous disposons aujourd'hui d'un dispositif solide… »

@@ -12,6 +12,7 @@ places: [SSD]
 topics: [dpi.govtech, gov.policy]
 entities: [[electronic-services-council-south-sudan]]
 lens: []
+body_completeness: full
 ---
 
 # South Sudan orders full digitization of public institutions

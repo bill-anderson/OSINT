@@ -6,10 +6,12 @@ publisher: TechAfrica News
 published: 2026-07-16
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [CMR]
 topics: [digital.localgov, dpi.govtech, dpi.registry, capacity.training, include.divides, data.statistics]
 entities: [[antic-cameroon]]
 lens: [sovereignty]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: CMR-2026-07-17
 ---

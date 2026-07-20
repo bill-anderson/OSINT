@@ -9,6 +9,8 @@ date_source: source
 places: [SDN]
 topics: [dpi.pay, include.access, infra.connect]
 entities: [[ministry-digital-transformation-sudan], [central-bank-of-sudan], [communications-postal-regulatory-authority-sudan]]
+lens: []
+body_completeness: full
 retrieved: 2026-07-17
 ingested: 2026-07-18
 sweep_batch: SDN-2026-07-17

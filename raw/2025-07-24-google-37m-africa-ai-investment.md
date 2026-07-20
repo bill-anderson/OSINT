@@ -6,6 +6,7 @@ publisher: We Are Tech Africa
 published: 2025-07-25
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [NGA, XGL]
 topics: [tech.ai, geopol.usa, capacity.research]
 entities: [[google]]

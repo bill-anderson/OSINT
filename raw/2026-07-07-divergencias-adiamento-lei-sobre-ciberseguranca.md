@@ -14,6 +14,7 @@ places: [AGO]
 topics: [infra.cybersec, gov.legislate]
 entities: [[assembleia-nacional-angola], [unita], [mpla], [angola-cybersecurity-law]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Divergências ditam adiamento da discussão da Proposta de Lei sobre Cibersegurança

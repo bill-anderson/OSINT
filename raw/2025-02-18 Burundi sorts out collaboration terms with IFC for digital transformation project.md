@@ -13,6 +13,7 @@ places: [BDI]
 topics: [dpi.id, dpi.govtech, infra.connect, finance.new]
 entities: [[ifc], [pafen-burundi], [setic-burundi]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Biometric Update (Feb 2025): IFC (World Bank affiliate) met Burundi's Executive Secretary for ICT to explore implementing the digital-transformation agenda via public-private partnerships — months after Burundi concluded a digital-cooperation MoU with Vietnam. Context: the World Bank-approved (2022) "Digital Foundations Project for Burundi" (PAFEN), ~$92m, launched Sept 2024 by VP Prosper Bazombanza — three components: digital access/inclusion, enablers of digital public-service delivery, institutional coordination. Burundi's DPI ambitions centre on a national ID system; in 2023 the government said it planned to roll out a national biometric ID before 2025 (subsequently slipped — see the 2024/2026 ID sources). One of the world's poorest countries building DPI. -->

@@ -3,6 +3,7 @@ type: source
 title: "Communications électroniques: le Burkina, le Ghana, le Mali et le Niger harmonisent leurs fréquences"
 url: https://www.sidwaya.info/communications-electroniques-le-burkina-le-ghana-le-mali-et-le-niger-harmonisent-leurs-frequences/
 publisher: Sidwaya
+ingested: 2026-07-18
 author: Boukary Bonkoungou et Samira Kiénoré
 published: 2025-11-23
 date_precision: day
@@ -13,6 +14,7 @@ places: [BFA, XWA]
 topics: [gov.regional, infra.connect, gov.standards, infra.cybersec]
 entities: [[arcep-burkina-faso], [arcep-niger], [ministere-transition-digitale-burkina-faso], [aminata-zerbo-sabane], [alliance-of-sahel-states], [samuel-nartey-george], [wendlassida-patrice-compaore]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Communications électroniques: le Burkina, le Ghana, le Mali et le Niger harmonisent leurs fréquences

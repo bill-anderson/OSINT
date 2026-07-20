@@ -12,6 +12,7 @@ places: [GHA]
 topics: [infra.connect, data.statistics]
 entities: [[national-communications-authority-ghana]]
 lens: []
+body_completeness: full
 artefact: "2024-09-01 Q2-2024-Quarterly-Statistical-Bulletin-Ver5.1.pdf"
 ---
 

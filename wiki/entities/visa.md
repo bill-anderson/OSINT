@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: company
 title: Visa
 places: [COD, KEN, DJI, GAB, GIN, XAF]

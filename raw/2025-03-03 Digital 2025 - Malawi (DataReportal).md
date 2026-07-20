@@ -13,6 +13,7 @@ places: [MWI]
 topics: [data.statistics]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 DataReportal's Digital 2025 report for Malawi. Headline figures for early 2025:

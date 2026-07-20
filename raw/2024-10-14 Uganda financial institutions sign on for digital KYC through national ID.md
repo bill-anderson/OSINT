@@ -12,6 +12,7 @@ places: [UGA]
 topics: [dpi.id, dpi.pay, dpi.exchange, include.access, gov.protect, gov.legislate, finance.new]
 entities: [[bank-of-uganda], [nira-uganda], [registration-of-persons-act-2015]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 *Reports the Bank of Uganda 2023 annual report — the annual report is the primary and is not held. The mechanism by which the ID becomes a gate on financial life: 74 institutions gained NIRA database access under the same Registration of Persons Act 2015 provision the High Court declined to disturb in June 2025.*

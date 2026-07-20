@@ -3,6 +3,8 @@ type: source
 title: "SIN, ST Digital to deploy cloud services at Lome data center"
 publisher: Connecting Africa
 url: https://www.connectingafrica.com/data-centers/togo-s-sin-st-digital-to-deploy-cloud-services-at-lom-data-center
+date_precision: day
+date_source: source
 author: Matshepo Sehloho
 published: 2026-06-02
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [TGO]
 topics: [infra.store, tech.ai, gov.regional]
 entities: [[sin-togo], [st-digital-gabon], [lome-data-centre], [sin-st-digital-lome-cloud-deal]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- SIN (state-owned; DG Attia Byll) + ST Digital Togo (DG Justine Adebiyi) to launch a private cloud at the Tier III Lome Data Centre; in-country hosting / digital sovereignty; skills programmes. ST Digital appears to be the same group as [[st-digital-gabon]] (national arms). -->

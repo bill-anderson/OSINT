@@ -6,10 +6,12 @@ publisher: Expresso das Ilhas
 published: 2025-05-26
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [CPV]
 topics: [capacity.training, capacity.literacy, tech.ai, include.access]
 entities: []
 lens: []
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: CPV-2026-07-17
 ---

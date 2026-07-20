@@ -6,11 +6,12 @@ publisher: New Vision
 published: 2026-01-06
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [UGA]
 topics: [infra.connect, geopol.usa]
 entities: [[starlink], [uganda-communications-commission]]
 lens: [sovereignty]
-body_completeness: headline-lead
+body_completeness: paywalled
 retrieved: 2026-07-17
 sweep_batch: UGA-2026-07-17
 ---

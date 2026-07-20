@@ -3,6 +3,7 @@ type: source
 title: "Protection des données personnelles : des diplomates burkinabè sensibilisés"
 url: https://www.sidwaya.info/protection-des-donnees-personnelles-des-diplomates-burkinabe-sensibilises/
 publisher: Sidwaya
+ingested: 2026-07-18
 author: Wanlé Gérard COULIBALY et Djamila Kouraogo
 published: 2025-08-07
 date_precision: day
@@ -13,6 +14,7 @@ places: [BFA]
 topics: [gov.protect, capacity.training, infra.cybersec]
 entities: [[cil-burkina-faso], [halguieta-nassa]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Protection des données personnelles : des diplomates burkinabè sensibilisés

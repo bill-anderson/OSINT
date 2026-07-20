@@ -12,6 +12,7 @@ places: [SOM]
 topics: [dpi.id, include.access]
 entities: [[nira-somalia], [snid]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Somalia walking a thorny road to an inclusive national digital ID system

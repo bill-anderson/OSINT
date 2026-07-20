@@ -3,6 +3,8 @@ type: source
 title: "Health Data Without Continuity: Why Electronic Health Records Still Have Not Scaled Across Africa"
 publisher: Tech Africa News
 url: https://techafricanews.com/2026/04/23/health-data-without-continuity/
+date_precision: day
+date_source: source
 author: Joyce Onyeagoro
 published: 2026-04-23
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [XAF, RWA, ETH, NGA, KEN, ZAF]
 topics: [dpi.mis, dpi.exchange, gov.standards, infra.connect, infra.energy, dpi.id]
 entities: [[dhis2], [africa-cdc]]
 lens: []
+body_completeness: full
 ---
 
 <!-- EHR interoperability the least-resolved DPI layer; OpenMRS/DHIS2/proprietary systems siloed. >50% of African facilities lack power/internet (Africa CDC's Nsengimana); duplicate testing ~5-10% of diagnostic budgets. Rwanda/Ethiopia/Nigeria/Kenya/SA progress. -->

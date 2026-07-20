@@ -3,6 +3,8 @@ type: source
 title: Tanzania ramps up national physical address registration
 url: https://www.thecitizen.co.tz/tanzania/news/national/tanzania-ramps-up-national-physical-address-registration-4685750
 publisher: The Citizen (Tanzania)
+lens: []
+body_completeness: full
 author: Hellen Nachilongo
 published: 2024-07-10
 date_precision: day

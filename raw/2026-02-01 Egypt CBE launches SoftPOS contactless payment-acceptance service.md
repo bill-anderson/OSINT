@@ -11,6 +11,7 @@ places: [EGY]
 topics: [dpi.pay, include.access]
 entities: [[central-bank-of-egypt]]
 lens: []
+body_completeness: full
 ---
 
 # Egypt's CBE launches SoftPOS contactless payment-acceptance service

@@ -6,12 +6,14 @@ publisher: Fraternité Matin
 published: 2026-04-30
 date_precision: day
 date_source: proxy
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [tech.ai, gov.policy]
 entities: [[femua], [ministere-transition-numerique-innovation-technologique-civ]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # FEMUA 18 : Le ministre Djibril Ouattara trace la voie d’une Côte d’Ivoire, hub africain de l’intelligence artificielle

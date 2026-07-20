@@ -6,12 +6,14 @@ publisher: Graphic Online
 published: 2025-07-16
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: GHA-2026-07-17
 places: [GHA]
 topics: [dpi.registry, dpi.id]
 entities: [[births-and-deaths-registry-ghana]]
 lens: []
+body_completeness: full
 ---
 # Births and Deaths Registry receives security papers, begins clearing backlog
 

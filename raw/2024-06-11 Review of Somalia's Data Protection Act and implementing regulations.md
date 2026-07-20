@@ -12,6 +12,7 @@ places: [SOM]
 topics: [gov.protect, gov.legislate]
 entities: [[somali-data-protection-act], [somalia-data-protection-authority]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Review of Somalia's Data Protection Act (2023) and implementing regulations

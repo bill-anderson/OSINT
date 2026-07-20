@@ -2,6 +2,8 @@
 type: source
 title: "Building the same road twice"
 publisher: Data Landscapers
+date_precision: day
+date_source: source
 author: [[bill]]
 url: https://data-landscapers.com/2026/05/28/building-same-road-twice/
 published: 2026-05-28
@@ -11,6 +13,7 @@ places: [XAF, RWA, GHA, NGA, KEN, MAR]
 topics: [dpi.exchange, gov.regional, gov.standards, gov.policy, dpi.id]
 entities: [[bill], [data-landscapers], [smart-africa], [afcfta], [african-union]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- EXPERT ANALYSIS (Data Landscapers, author [[bill]]). Smart Africa (SADX) and the AfCFTA

@@ -6,6 +6,7 @@ publisher: New Vision
 published: 2026-06-03
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [UGA]
 topics: [dpi.pay]
 entities: [[bank-of-uganda]]

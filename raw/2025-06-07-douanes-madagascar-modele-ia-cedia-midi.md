@@ -6,10 +6,12 @@ publisher: Midi Madagasikara
 published: 2025-06-07
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [MDG]
 topics: [tech.ai, dpi.govtech]
 entities: [[cedia-madagascar]]
 lens: []
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: MDG-2026-07-17
 ---

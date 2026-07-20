@@ -3,6 +3,7 @@ type: source
 title: Cameroon Launches $163 Million Push to Digitize Local Governments
 url: https://www.wearetech.africa/en/fils-uk/news/public-management/cameroon-launches-163-million-push-to-digitize-local-governments
 publisher: We Are Tech Africa
+ingested: 2026-07-18
 author: Samira Njoya
 published: 2026-06-04
 date_precision: day
@@ -11,6 +12,7 @@ places: [CMR]
 topics: [digital.localgov, dpi.govtech, dpi.exchange, infra.connect, include.divides, gov.policy, capacity.training, finance.new, infra.cybersec]
 entities: [[digi-cor], [minddevel], [feicom]]
 lens: [sovereignty]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: CMR-2026-07-17
 ---

@@ -1,10 +1,13 @@
 ---
 type: source
+ingested: 2026-07-17
 places: [NGA]
 topics: [dpi.id, include.access]
 entities: [[nimc], [nigeria-id4d]]
 date_precision: day
 date_source: source
+lens: []
+body_completeness: full
 page: FG mandates use of NIN for social services, interventions - The Guardian Nigeria
 title: FG mandates use of NIN for social services, interventions
 author: Kobor Amos

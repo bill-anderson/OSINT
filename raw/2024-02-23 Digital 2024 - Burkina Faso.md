@@ -13,6 +13,7 @@ places: [BFA]
 topics: [infra.connect, include.divides]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 <!-- DataReportal Digital 2024 Burkina Faso baseline (early 2024): 4.69m internet users, 19.9% penetration; +116k users (+2.5%) y/y; 18.85m (80.1%) offline. Standing connectivity/inclusion baseline for BFA — one of the lower penetration rates on the continent, the gap PACTDIGITAL/500-localities target addresses. -->

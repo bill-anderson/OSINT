@@ -13,6 +13,7 @@ places: [GNQ]
 topics: [dpi.mis, data.statistics]
 entities: [[dhis2]]
 lens: []
+body_completeness: full
 ---
 
 <!-- The Bioko Island Malaria Elimination Project (BIMEP), with the Ministry of Health and Social Welfare, expanded its existing DHIS2 instance to an electronic logistics-management information system (eLMIS) for malaria commodities — replacing error-prone Excel tools. DHIS2 malaria-logistics module + predictors forecast stock-on-hand and months-of-stock at the central warehouse, triangulate stock vs health-services data (exposing reporting gaps and stock leakage), and alert on expiries/reorder thresholds. Impact: prevented stock-outs, improved forecasting, increased accountability. Ongoing transition to DHIS2 Android Capture. Main challenge: instilling a data-use culture. A concrete GNQ dpi.mis deployment. -->

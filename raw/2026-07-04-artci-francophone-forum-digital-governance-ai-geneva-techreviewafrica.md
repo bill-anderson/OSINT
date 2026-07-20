@@ -6,12 +6,14 @@ publisher: Tech Review Africa
 published: 2026-07-04
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [gov.regional, tech.ai, gov.protect, gov.standards]
 entities: [[artci], [roger-felix-adom], [organisation-internationale-de-la-francophonie]]
 lens: []
+body_completeness: full
 provenance_flag: pr-wire
 primary_to_source: ARTCI communiqué on the delegation; the OIF's programme and outcome documents for the 2nd Francophone Forum on Digital Governance and AI
 ---

@@ -13,6 +13,7 @@ places: [GHA]
 topics: [dpi.id, gov.legislate, dpi.pay, infra.cybersec]
 entities: [[national-identification-authority-ghana], [ghana-card], [samuel-nartey-george]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Second outlet on the same Sept-2025 SIM framework (Minister S.N. George, 5 Sept Accra meeting with operators and religious leaders). Legislation expected in parliament Oct 2025: link every SIM to NIA biometric DB via CEIR + NIA data sync; strengthen data protection among MoMo agents (weakest link). Context: GSMA 200% MoMo penetration end-2023, 66m accounts / ~33m population, >55% use it. BoG 2023 financial-stability report: 13,451 sector fraud cases, MoMo ~20% (~2,700). Dedup with 2025-09-08 Biometric Update. -->

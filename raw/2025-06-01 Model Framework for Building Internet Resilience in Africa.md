@@ -12,6 +12,7 @@ places: [XAF, SLE]
 topics: [infra.connect, infra.cybersec, infra.energy, gov.policy, gov.standards]
 entities: [[african-telecommunications-union], [afrinic], [internet-society], [internet-resilience-framework-africa]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Model Framework for Building Internet Resilience in Africa (ATU-S Framework 001)

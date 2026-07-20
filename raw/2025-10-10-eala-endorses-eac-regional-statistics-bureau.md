@@ -3,6 +3,7 @@ type: source
 title: EALA endorses creation of Regional Statistics Bureau for Monetary Union
 url: https://www.burunditimes.com/eala-passes-eac-statistics-bureau-bill-paving-way-for-monetary-union/
 publisher: Burundi Times
+ingested: 2026-07-18
 author: Burundi Times
 published: 2025-10-10
 date_precision: day
@@ -13,6 +14,7 @@ places: [BDI, XEA]
 topics: [data.statistics, gov.regional, gov.standards, gov.legislate]
 entities: [[eac], [eala]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # EALA endorses creation of Regional Statistics Bureau for Monetary Union

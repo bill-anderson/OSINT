@@ -13,6 +13,7 @@ places: [COD]
 topics: [dpi.id, dpi.govtech]
 entities: [[trident-digital-tech], [rdc-pass]]
 lens: [sovereignty, colonialism]
+body_completeness: full
 ---
 
 <!-- Merges Biometric Update (2025-02-13) + We Are Tech (2025-02-14) + ID Tech Wire validation-phase update (2025-04-08). The DRC and Singapore's Trident announced (12 Feb 2025) an implementation agreement with the Ministry of Posts, Telecommunications and Digital Affairs to deploy a national digital-ID system — following the Dec 2024 collaboration framework with the Office of the President. The DRCPass VALIDATION PHASE launched 15 Mar 2025 in Kinshasa (Minister Augustin Kibassa Maliba), using Trident's Tridentity platform (blockchain + biometrics + AI + zero-knowledge proofs), integrated into sovereign cloud + national data centres. Early milestones of the Trident/DRCPass rollout. Corroborating URLs: wearetech.africa/.../dr-congo-signs-agreement-to-deploy-national-id-system; idtechwire.com/drc-launches-national-digital-id-system-in-major-tech-transformation-push. -->

@@ -1,6 +1,7 @@
 ---
 type: source
 title: الجزائر تفتح رسميا مجال المُنافسة في الاتصالات الفضائية
+ingested: 2026-07-18
 title_en: Algeria opens satellite-communications competition — tender for two satellite ISP licences
 url: https://www.echoroukonline.com/%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1-%D8%AA%D9%81%D8%AA%D8%AD-%D8%B1%D8%B3%D9%85%D9%8A%D8%A7-%D9%85%D8%AC%D8%A7%D9%84-%D8%A7%D9%84%D9%85%D9%8F%D9%86%D8%A7%D9%81%D8%B3%D8%A9-%D9%81%D9%8A-%D8%A7
 publisher: Echorouk El Yawmi
@@ -14,6 +15,7 @@ places: [DZA]
 topics: [infra.connect, data.satellite, include.access, gov.legislate]
 entities: [[arpce, ministere-de-la-poste-et-des-telecommunications, sid-ali-zerrouki]]
 lens: []
+body_completeness: full
 ---
 
 # الجزائر تفتح رسميا مجال المُنافسة في الاتصالات الفضائية

@@ -13,6 +13,7 @@ places: [AGO]
 topics: [infra.store, capacity.training, data.satellite, gov.policy]
 entities: [[infosi], [huawei]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Trade outlet (FurtherAfrica, quality moderate — B item). Reports the first-stone ceremony for Angola's INFOSI-managed national cloud platform (Sept 2025) — framed as a shift from pilots to scalable infrastructure. Skills: with Huawei, the government has trained 5,000 ICT technicians, targeting 10,000 by 2027. Also flags AngoSat-II and a forthcoming Earth-observation satellite for agriculture/resource/security remote sensing. Minister: Mário Oliveira (MINTTICS). Corroborates the national data-centre/cloud programme and adds the Huawei skills figures + satellite plans. -->

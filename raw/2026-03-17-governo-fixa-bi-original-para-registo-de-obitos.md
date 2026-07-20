@@ -3,6 +3,8 @@ type: source
 title: Governo fixa Bilhete de Identidade original como exigência para registo de óbitos no País
 url: https://www.novojornal.co.ao/sociedade/detalhe/governo-fixa-bilhete-de-identidade-original-como-exigencia-para-registo-de-obitos-no-pais-70493.html
 publisher: Novo Jornal
+lens: []
+body_completeness: full
 author: Nova Vaga
 published: 2026-03-17
 date_precision: day

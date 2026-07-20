@@ -6,12 +6,14 @@ publisher: Fraternité Matin
 published: 2025-03-14
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [gov.policy, tech.ai, finance.new, infra.store]
 entities: [[bad], [parae]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Stratégies nationales de la gouvernance de données et de l'IA: La Bad continuera à soutenir les initiatives

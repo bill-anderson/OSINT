@@ -3,6 +3,9 @@ type: source
 title: "Région de l’Ouest : 20 jeunes formés à l’intelligence artificielle"
 url: https://lejour.cm/region-de-louest-20-jeunes-formes-a-lintelligence-artificielle/
 publisher: Le Jour
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Aurélien Kanouo
 published: 2025-07-02
 date_precision: day

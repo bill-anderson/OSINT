@@ -3,6 +3,9 @@ type: source
 title: Crypto oversight gaps persist in Botswana
 url: https://www.mmegi.bw/business/crypto-oversight-gaps-persist-in-botswana/news
 publisher: Mmegi
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Pauline Dikuelo
 published: 2026-02-23
 date_precision: day

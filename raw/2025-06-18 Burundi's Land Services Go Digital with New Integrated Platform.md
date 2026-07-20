@@ -13,6 +13,7 @@ places: [BDI]
 topics: [dpi.registry, dpi.govtech, gov.protect]
 entities: [[mediabox], [pafen-burundi], [world-bank]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Burundian firm Mediabox launched (17 Jun 2025) an Electronic Document & Records Management System (EDRMS) for the Directorate of Land Titles and National Cadastre (DTFCN), World Bank-funded — internal land-operations management, secure archiving, traceability. Integrates with two other DTFCN platforms: Building Permit System (BPS, permits + initial titles) and Property Management System (PMS, transfers/corrections/mortgages) — a full land-admin digital ecosystem. Addresses bureaucratic delay, absent central archives, land-title legal insecurity. Part of the Digital Foundations Project (PAFEN), $92m World Bank. Notes Burundi ranked 183rd of 193 on the UN 2024 EGDI. -->

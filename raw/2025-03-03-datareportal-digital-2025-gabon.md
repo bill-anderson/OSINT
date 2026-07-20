@@ -10,6 +10,8 @@ ingested: 2026-07-15
 places: [GAB]
 topics: [infra.connect, include.divides, dpi.pay]
 entities: []
+lens: []
+body_completeness: full
 ---
 
 DataReportal's Digital 2025: Gabon report — headlines for early 2025:

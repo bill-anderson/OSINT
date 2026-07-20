@@ -12,6 +12,7 @@ places: [MWI]
 topics: [dpi.registry, gov.legislate]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 [Analysis: DAI programme blog summarising a white paper; no date on clip, references a 2020 report and pilots "now in their fourth year" since 2016 - year proxy.] It reflects on implementing Malawi's 2016 Customary Land Act, which lets smallholders convert customary rights to registered private title for greater tenure security. Two donor-funded pilots (DAI works on the EU-funded Land Governance programme, with a consortium led by Oxfam Malawi) tested registration in Kasungu, Phalombe and Rumphi.

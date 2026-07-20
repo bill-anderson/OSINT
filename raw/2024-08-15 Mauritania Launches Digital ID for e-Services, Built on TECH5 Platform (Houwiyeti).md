@@ -13,6 +13,7 @@ places: [MRT]
 topics: [dpi.id, dpi.govtech, include.access]
 entities: [[houwiyeti], [tech5], [undp], [mtnima-mauritania]]
 lens: []
+body_completeness: full
 ---
 
 Mauritania launched a digital identity app ("Houwiyeti") offering access to government e-services, building on a pilot using biometric technology from TECH5. TECH5 won the digital-ID pilot contract in June 2022, in partnership with local integrator SmartMS and UNDP, for the Ministry of Digital Transition, Innovation and Public Sector Modernisation (MTNIMA).

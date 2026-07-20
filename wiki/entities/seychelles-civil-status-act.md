@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: instrument
 title: Seychelles Civil Status Act (Cap 34)
 places: [SYC]

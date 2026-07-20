@@ -4,11 +4,14 @@ title: Seacom boosts East Africa connectivity
 url: https://itweb.africa/article/seacom-boosts-east-africa-connectivity/VgZeyvJlgBXMdjX9
 publisher: ITWeb Africa
 published: 2026-06-18
+date_precision: day
+date_source: source
 ingested: 2026-07-10
 places: [KEN, UGA, XEA]
 topics: [infra.connect, gov.regional, infra.capacity]
 entities: [[seacom]]
 lens: []
+body_completeness: excerpt
 ---
 
 ![David Kariuki, chief technology officer at Seacom (image source: supplied).](https://lh3.googleusercontent.com/R-bxHnuMT5392QynFVPOM5nicTs8mer_j7FXS5IX6AOR6N2vpteNWG0ilcnI3zyF41NQYWgdEYkaTewpvA7-JZhbbmSI875FdCHx)

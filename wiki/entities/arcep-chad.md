@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: government-body
 title: ARCEP Chad (Communications and Postal Regulatory Authority)
 places: [TCD]

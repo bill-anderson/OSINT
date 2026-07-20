@@ -6,10 +6,12 @@ publisher: La Gazette des Comores
 published: 2025-03-20
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [COM]
 topics: [dpi.govtech, gov.policy, infra.connect, infra.store]
 entities: [[project-digitization-comorian-economy], [anaden], [anrtic], [actic], [african-development-bank], [university-of-comoros]]
 lens: []
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: COM-2026-07-17
 ---

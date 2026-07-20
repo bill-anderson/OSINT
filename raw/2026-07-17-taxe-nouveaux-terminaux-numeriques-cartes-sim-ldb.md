@@ -3,6 +3,7 @@ type: source
 title: "Assemblée nationale : présentation de la Taxe sur les nouveaux terminaux numériques à cartes Sim"
 url: https://www.adiac-congo.com/content/assemblee-nationale-presentation-de-la-taxe-sur-les-nouveaux-terminaux-numeriques-cartes-sim
 publisher: Les Dépêches de Brazzaville (ADIAC)
+ingested: 2026-07-18
 author: Parfait Wilfried Douniama
 published: 2026-07-17
 date_precision: day
@@ -13,6 +14,7 @@ places: [COG]
 topics: [gov.legislate, tech.industry, infra.connect, dpi.pay, include.access]
 entities: [[aden-congo]]
 lens: []
+body_completeness: full
 provenance_flag: state-aligned-outlet
 ---
 

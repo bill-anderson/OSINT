@@ -3,6 +3,9 @@ type: source
 title: Benin Sets 2031 Horizon for New Digital Transformation Roadmap
 url: https://www.wearetech.africa/en/fils-uk/news/public-management/benin-sets-2031-horizon-for-new-digital-transformation-roadmap
 publisher: We Are Tech Africa
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Ange J.A de Berry Quenum
 published: 2026-02-09
 date_precision: day

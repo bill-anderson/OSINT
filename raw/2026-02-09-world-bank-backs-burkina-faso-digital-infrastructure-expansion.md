@@ -3,6 +3,9 @@ type: source
 title: World Bank Backs Burkina Faso's Nationwide Digital Infrastructure Expansion
 url: https://techafricanews.com/2026/02/09/world-bank-backs-burkina-fasos-nationwide-digital-infrastructure-expansion/
 publisher: TechAfrica News
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Kay-Lyne Wolfenden
 published: 2026-02-09
 date_precision: day

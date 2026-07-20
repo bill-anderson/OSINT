@@ -6,12 +6,14 @@ publisher: Tech Review Africa
 published: 2025-06-17
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [gov.legislate, infra.cybersec, dpi.govtech]
 entities: [[ministry-of-digital-transition-cote-divoire], [kalil-konate]]
 lens: []
+body_completeness: full
 provenance_flag: pr-wire
 primary_to_source: Ivorian Senate record of the 16 June 2025 adoption ratifying Ordinance No. 2024-950; the ordinance text itself; Ministry of Digital Transition communiqué
 ---

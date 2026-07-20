@@ -3,6 +3,7 @@ type: source
 title: Benin Signs Landmark Agreements to Expand Trust Services and Accelerate Digital Transformation
 url: https://techafricanews.com/2025/07/17/benin-signs-landmark-agreements-to-expand-trust-services-and-accelerate-digital-transformation
 publisher: TechAfrica News
+ingested: 2026-07-18
 author: Jennifer Onyeagoro
 published: 2025-07-17
 date_precision: day
@@ -13,6 +14,7 @@ places: [BEN, SEN]
 topics: [finance.mou, infra.cybersec, dpi.id, gov.standards]
 entities: [[asin], [iidia], [orbus-digital-services], [quality-corporate], [cyber-africa-forum]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Benin Signs Landmark Agreements to Expand Trust Services and Accelerate Digital Transformation

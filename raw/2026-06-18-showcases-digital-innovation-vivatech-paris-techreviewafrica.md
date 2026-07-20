@@ -6,12 +6,14 @@ publisher: Tech Review Africa
 published: 2026-06-18
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [tech.innovate, geopol.eu, finance.new]
 entities: [[ministry-of-digital-transition-cote-divoire], [djibril-ouattara], [mamadou-toure], [vivatech]]
 lens: []
+body_completeness: full
 provenance_flag: pr-wire
 primary_to_source: Ministry of Digital Transition and Technological Innovation communiqué on the Côte d'Ivoire pavilion at VivaTech 2026; VivaTech exhibitor listing
 ---

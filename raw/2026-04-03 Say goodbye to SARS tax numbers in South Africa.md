@@ -3,6 +3,8 @@ type: source
 title: "Say goodbye to SARS tax numbers in South Africa"
 publisher: Daily Investor
 url: https://dailyinvestor.com/finance/127603/
+date_precision: day
+date_source: source
 author: Shaun Jacobs
 published: 2026-04-03
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [ZAF]
 topics: [dpi.id, dpi.pay, gov.protect, dpi.govtech, finance.new]
 entities: [[sars], [sarb], [sa-digital-id-regulations]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- SARS (Commissioner Kieswetter) leading a whole-of-government push for a single biometric-secured digital ID (Modernisation 3.0) to replace ~7-8 identifiers per person across ~62m people. Population register becomes the single identity; ends separate Home Affairs ID + SARS tax numbers. SARS crossed R2tn annual revenue. Partnering with SARB on an instant-payment system. -->

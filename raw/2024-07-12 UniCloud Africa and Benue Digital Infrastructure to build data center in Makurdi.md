@@ -1,9 +1,13 @@
 ---
 type: source
+date_precision: day
+date_source: source
 places: [NGA]
 topics: [infra.store, finance.mou]
 entities: [[unicloud-africa], [africa-data-centres], [benue-digital-infrastructure-company]]
 ingested: 2026-07-16
+lens: []
+body_completeness: full
 page: UniCloud Africa and Benue Digital Infrastructure to build data center in Makurdi, Nigeria - DCD
 title: UniCloud Africa and Benue Digital Infrastructure to build data center in Makurdi, Nigeria
 author: Niva Yadav

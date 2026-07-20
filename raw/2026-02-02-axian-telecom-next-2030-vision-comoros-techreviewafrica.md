@@ -6,12 +6,14 @@ publisher: Tech Review Africa
 published: 2026-02-02
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: COM-2026-07-17
 places: [COM]
 topics: [infra.connect, tech.industry, capacity.training, include.divides]
 entities: [[yas-comoros], [axian], [ifc]]
 lens: []
+body_completeness: full
 provenance_flag: pr-wire
 ---
 

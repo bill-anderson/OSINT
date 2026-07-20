@@ -3,6 +3,9 @@ type: source
 title: Botswana's tax system, built for tangible goods, now faces the internet
 url: https://www.sundaystandard.info/botswanas-tax-system-built-for-tangible-goods-now-faces-the-internet/
 publisher: Sunday Standard
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Thobo Motlhoka
 published: 2026-03-23
 date_precision: day

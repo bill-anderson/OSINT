@@ -3,6 +3,8 @@ type: source
 title: "BEAC joins PAPSS and accelerates cross-border payments integration in Central Africa"
 publisher: Financial Afrik / Kapital Afrik
 url: https://www.financialafrik.com/en/2026/07/11/beac-joins-papss-and-accelerates-cross-border-payments-integration-in-central-africa/
+date_precision: day
+date_source: source
 author: Dominique Mabika
 published: 2026-07-11
 accessed: 2026-07-12
@@ -11,6 +13,7 @@ places: [XCA]
 topics: [dpi.pay, gov.regional]
 entities: [[papss], [beac], [afcfta], [afreximbank]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- BEAC (CEMAC regional central bank) officially joined PAPSS as of 2026-07-11, extending the continental payment rail into Central Africa/CEMAC. Body paywalled (lede only). ATTACH-ONLY to papss (central updates) + new beac entity + XCA hub. Date/terms of accession unconfirmed beyond lede — recommend second outlet. -->

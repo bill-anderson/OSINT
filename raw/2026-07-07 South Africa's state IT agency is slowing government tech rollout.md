@@ -3,6 +3,8 @@ type: source
 title: "South Africa's state IT agency is slowing government tech rollout"
 publisher: TechCabal
 url: https://techcabal.com/2026/07/07/how-sita-became-south-africas-biggest-digital-transformation-bottleneck/
+date_precision: day
+date_source: source
 author: Phathisani Moyo
 published: 2026-07-07
 accessed: 2026-07-10
@@ -11,6 +13,7 @@ places: [ZAF]
 topics: [dpi.govtech, gov.policy, tech.industry]
 entities: [[sita]]
 lens: []
+body_completeness: full
 ---
 
 <!-- On-the-record reporting of a Public Service Commission investigation (cites the PSC

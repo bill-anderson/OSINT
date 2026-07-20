@@ -13,6 +13,7 @@ places: [NER]
 topics: [dpi.registry, data.statistics]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 Analysis report on registered civil-status events (births, deaths, marriages, divorces) in Niger for 2023, produced by the Institut National de la Statistique (INS), Ministry of Economy and Finance. Civil registration in Niger is governed by Law No. 2007-30 (3 December 2007); the report notes that computerisation of civil-status acts began in 2023, with over 130 communes equipped for digitisation.

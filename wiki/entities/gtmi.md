@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: instrument
 title: GovTech Maturity Index (GTMI)
 places: [XGL, XAF]

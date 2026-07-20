@@ -3,6 +3,7 @@ type: source
 title: "Protection des données à caractère personnel au Bénin : ce que dit la loi du 06 Janvier 2021"
 url: https://fraternite.bj/protection-des-donnees-a-caractere-personnel-au-benin-ce-que-dit-la-loi-du-06-janvier-2021/
 publisher: Fraternité
+ingested: 2026-07-18
 author: Isac YAI
 published: 2025-05-05
 date_precision: day
@@ -13,6 +14,7 @@ places: [BEN]
 topics: [gov.protect, gov.legislate, infra.cybersec]
 entities: [[apdp-benin]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Protection des données à caractère personnel au Bénin : ce que dit la loi du 06 Janvier 2021

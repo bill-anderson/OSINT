@@ -12,6 +12,7 @@ places: [MLI]
 topics: [dpi.pay, gov.regional, include.access]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 TerraPay partnered with Wave Mobile Money to enable cross-border remittances directly into Wave mobile wallets in Mali. TerraPay's global payment network facilitates remittance flows from multiple money-transfer operators across the US, Canada and Europe to Mali through a single integration, allowing Wave users to instantly receive funds.

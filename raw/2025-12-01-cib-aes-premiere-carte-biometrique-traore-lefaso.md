@@ -6,12 +6,14 @@ publisher: leFaso.net
 published: 2025-12-01
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: BFA-2026-07-17
 places: [BFA]
 topics: [dpi.id, gov.regional, gov.standards, include.access]
 entities: [[cib-aes], [oni-burkina-faso], [alliance-of-sahel-states], [ibrahim-traore]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Espace AES : Le Président du Faso a désormais sa carte d'identité biométrique

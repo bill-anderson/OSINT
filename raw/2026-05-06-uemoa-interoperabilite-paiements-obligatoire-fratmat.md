@@ -6,12 +6,14 @@ publisher: Fraternité Matin
 published: 2026-05-06
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV, XWA]
 topics: [dpi.pay, gov.regional, gov.legislate]
 entities: [[bceao], [uemoa], [gsma]]
 lens: []
+body_completeness: full
 ---
 
 # UEMOA : L’interopérabilité des paiements devient obligatoire dès le 30 juin 2026

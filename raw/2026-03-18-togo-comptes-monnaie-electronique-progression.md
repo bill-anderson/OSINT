@@ -6,6 +6,7 @@ publisher: Togo First
 published: 2026-03-18
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [TGO, XWA]
 topics: [dpi.pay, data.statistics, include.access]
 entities: [[bceao], [mixx-togo], [moov-africa-togo]]

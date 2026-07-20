@@ -12,6 +12,7 @@ places: [SOM]
 topics: [dpi.id, dpi.govtech]
 entities: [[nira-somalia], [snid]]
 lens: []
+body_completeness: full
 ---
 
 # Somalia mandates use of the national biometric ID for government and private-sector services

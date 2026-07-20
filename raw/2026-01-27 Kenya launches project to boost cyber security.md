@@ -3,6 +3,8 @@ type: source
 title: "Kenya launches project to boost cyber security"
 publisher: ITWeb Africa
 url: "https://itweb.africa/article/kenya-launches-project-to-boost-cyber-security/LPp6VMrBjoPMDKQz"
+date_precision: day
+date_source: source
 author: Phathisani Moyo
 published: 2026-01-27
 accessed: 2026-07-12
@@ -11,6 +13,7 @@ places: [KEN]
 topics: [infra.cybersec, gov.policy, finance.new, geopol.eu]
 entities: [[kenya-cyber-resilience-project], [expertise-france], [estdev], [european-union]]
 lens: []
+body_completeness: excerpt
 ---
 <!-- Kenya Cyber Resilience (KCR) Project launched Nairobi week of 2026-01-27: $3.56m (€3m), 36 months, EU-funded, implemented by Expertise France + EstDev; aligned to National Cybersecurity Strategy / Digital Master Plan; groundwork for a future National Cybersecurity Agency. >20,000 govt services moved online in past year. Attach: [[kenya-cyber-resilience-project]], [[expertise-france]], [[estdev]], KEN hub. -->
 

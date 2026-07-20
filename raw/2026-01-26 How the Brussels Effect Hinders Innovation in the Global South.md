@@ -3,6 +3,8 @@ type: source
 title: "How the Brussels Effect Hinders Innovation in the Global South"
 publisher: Center for Data Innovation (ITIF)
 url: https://datainnovation.org/2026/01/how-brussels-effect-hinders-innovation-in-global-south/
+date_precision: day
+date_source: source
 author: Ayesha Bhatti
 published: 2026-01-26
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [XGL, XSS]
 topics: [gov.legislate, gov.policy, gov.standards, geopol.eu, tech.ai, tech.innovate]
 entities: []
 lens: [colonialism, sovereignty]
+body_completeness: full
 ---
 
 <!-- ITIF/Center for Data Innovation commentary summarising an ITIF report: the EU 'Brussels Effect' (GDPR/DSA/DMA/AI Act) as 'regulatory imperialism' raising Global-South compliance costs and entrenching Western firms; recommends flexible, regionally-grounded models. Positioned (pro-deregulation) commentary; framing for the EU-vs-Global-South regulation debate. -->

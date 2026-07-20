@@ -1,6 +1,7 @@
 ---
 type: source
 title: بطلب من البنوك... "إيني" تنتج 1.6 مليون جهاز دفع إلكتروني
+ingested: 2026-07-18
 title_en: ENIE produces 1.6 million payment terminals (TPE) for banks' cashless push
 url: https://www.echoroukonline.com/%D8%A8%D8%B7%D9%84%D8%A8-%D9%85%D9%86-%D8%A7%D9%84%D8%A8%D9%86%D9%88%D9%83-%D8%A5%D9%8A%D9%86%D9%8A-%D8%AA%D9%86%D8%AA%D8%AC-1-6-%D9%85%D9%84%D9%8A%D9%88%D9%86-%D8%AC%D9%87%D8%A7%D8%B2-%D8%AF
 publisher: Echorouk El Yawmi
@@ -14,6 +15,7 @@ places: [DZA]
 topics: [dpi.pay, tech.industry]
 entities: [[enie, ministere-des-finances, abdeslam-bouab]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # بطلب من البنوك... "إيني" تنتج 1.6 مليون جهاز دفع إلكتروني

@@ -3,6 +3,9 @@ type: source
 title: Botswana and Five SADC Countries Slash Roaming Tariffs under One Network Area Framework
 url: https://techafricanews.com/2026/03/13/botswana-and-five-sadc-countries-slash-roaming-tariffs-under-one-network-area-framework/
 publisher: TechAfrica News
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Kay-Lyne Wolfenden
 published: 2026-03-13
 date_precision: day

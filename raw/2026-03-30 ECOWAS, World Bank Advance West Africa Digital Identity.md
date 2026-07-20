@@ -3,6 +3,8 @@ type: source
 title: "ECOWAS, World Bank Advance West Africa Digital Identity"
 publisher: Voice of Nigeria
 url: https://von.gov.ng/ecowas-world-bank-advance-west-africa-digital-identity/
+date_precision: day
+date_source: source
 author: Simon Stephanie
 published: 2026-03-30
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [TGO, XWA]
 topics: [dpi.id, gov.regional, dpi.exchange, gov.standards]
 entities: [[wuri-programme], [ecowas], [world-bank]]
 lens: []
+body_completeness: full
 ---
 
 <!-- 2nd WURI (West Africa Unique Identification for Regional Integration and Inclusion) Supervisory Committee (virtual): validated interoperability/engagement/M&E strategies and the 2026 Regional Work Plan for mutual recognition of ID credentials. ECOWAS + World Bank co-secretariat; aligns to ECOWAS Vision 2050 (~300m citizens). -->

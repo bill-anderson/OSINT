@@ -12,6 +12,7 @@ places: [GMB]
 topics: [gov.policy, infra.connect, dpi.pay, dpi.govtech, tech.industry]
 entities: [[gambia-national-digital-economy-masterplan]]
 lens: []
+body_completeness: full
 artefact: "2024-01-01 Gambia National Digital Economy Master Plan 2024-2034.pdf"
 ---
 

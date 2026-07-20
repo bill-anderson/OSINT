@@ -3,6 +3,7 @@ type: source
 title: Congo Modernizes CFCO with Satellite Technology in Partnership with China (BeiDou)
 url: https://techafricanews.com/2026/03/04/congo-modernizes-cfco-with-satellite-technology-in-partnership-with-china/
 publisher: TechAfrica News
+ingested: 2026-07-18
 author: Kay-Lyne Wolfenden
 published: 2026-03-04
 date_precision: day
@@ -11,6 +12,7 @@ places: [COG]
 topics: [geopol.china, data.satellite, infra.connect, digital.rural, infra.cybersec, capacity.training]
 entities: []
 lens: [sovereignty, colonialism]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: COG-2026-07-17
 ---

@@ -3,6 +3,7 @@ type: source
 title: "Intelligence artificielle : le Congo pose les jalons d'une régulation"
 url: https://www.adiac-congo.com/content/intelligence-artificielle-le-congo-pose-les-jalons-dune-regulation-168692
 publisher: Les Dépêches de Brazzaville (ADIAC)
+ingested: 2026-07-18
 author: Fiacre Kombo
 published: 2026-01-19
 date_precision: day
@@ -13,6 +14,7 @@ places: [COG]
 topics: [tech.ai, gov.legislate, gov.policy, infra.connect, infra.store, infra.cybersec, tech.innovate]
 entities: [[arpce-congo], [anssi-congo], [congo-national-data-centre]]
 lens: [sovereignty]
+body_completeness: full
 provenance_flag: state-aligned-outlet
 ---
 

@@ -3,6 +3,7 @@ type: source
 title: "Congo-Pnud : un nouveau volet de formation en intelligence artificielle destiné aux jeunes congolais"
 url: https://www.adiac-congo.com/content/congo-pnud-un-nouveau-volet-de-formation-en-intelligence-artificielle-destine-aux-jeunes
 publisher: Les Dépêches de Brazzaville (ADIAC)
+ingested: 2026-07-18
 author: Fiacre Kombo
 published: 2025-03-11
 date_precision: day
@@ -13,6 +14,7 @@ places: [COG]
 topics: [capacity.training, infra.cybersec, tech.ai, infra.capacity]
 entities: [[undp], [caria-congo], [itu]]
 lens: []
+body_completeness: full
 provenance_flag: state-aligned-outlet
 ---
 

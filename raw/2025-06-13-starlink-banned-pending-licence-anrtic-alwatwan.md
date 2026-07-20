@@ -6,10 +6,12 @@ publisher: Al-Watwan
 published: 2025-06-13
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [COM]
 topics: [infra.connect, gov.legislate, include.access, geopol.usa]
 entities: [[anrtic], [starlink], [ministry-of-posts-telecoms-comoros]]
 lens: [sovereignty]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: COM-2026-07-17
 ---

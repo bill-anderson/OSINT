@@ -1,10 +1,13 @@
 ---
 type: source
+ingested: 2026-07-17
 places: [NGA]
 topics: [dpi.id, dpi.exchange, gov.protect]
 entities: [[nimc], [nibss]]
 date_precision: day
 date_source: source
+lens: []
+body_completeness: full
 page: How NIMC is building Nigeria's digital infrastructure - The Guardian Nigeria
 title: How NIMC is building Nigeria's digital infrastructure
 author: 'Sola Akinsanmi (opinion)

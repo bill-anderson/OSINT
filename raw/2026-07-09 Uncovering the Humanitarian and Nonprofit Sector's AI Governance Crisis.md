@@ -3,6 +3,8 @@ type: source
 title: "Uncovering the Humanitarian and Nonprofit Sector's AI Governance Crisis"
 publisher: Tech Policy Press
 url: https://www.techpolicy.press/uncovering-the-humanitarian-and-nonprofit-sectors-ai-governance-crisis/
+date_precision: day
+date_source: source
 author: Danai Nhando
 published: 2026-07-09
 accessed: 2026-07-12
@@ -11,6 +13,7 @@ places: [XGL, XSS]
 topics: [gov.protect, tech.ai, dpi.id, include.access]
 entities: []
 lens: [colonialism]
+body_completeness: full
 ---
 
 <!-- TPP analysis of the humanitarian/nonprofit AI-governance gap: WFP Gaza breach (~600k households' data, incl. IDs/biometrics); 93% of 2,539 aid workers (144 countries, 75% in SSA/MENA/AsiaPac) use AI but only 22% have formal policies; UNHCR (19m people, 15.8m facial images) / WFP (31m people, 59 countries) as extreme biometric-data custodians; the 'unconsenting beneficiary' consent problem. gov.protect + dpi.id (biometrics). -->

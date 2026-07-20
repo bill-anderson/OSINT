@@ -6,6 +6,7 @@ publisher: Expresso das Ilhas
 published: 2026-06-09
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [CPV]
 topics: [infra.cybersec, tech.industry, capacity.training, tech.ai]
 entities: [[visionware], [bruno-castro], [techpark-cv]]

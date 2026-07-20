@@ -11,6 +11,7 @@ places: [ETH]
 topics: [dpi.pay, dpi.exchange]
 entities: [[ethswitch]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Ethiopia launches national instant payment system (EthioPay-IPS)

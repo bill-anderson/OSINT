@@ -13,6 +13,7 @@ places: [AGO]
 topics: [dpi.exchange, dpi.govtech]
 entities: [[world-bank]]
 lens: []
+body_completeness: full
 ---
 
 <!-- COMPANION SOURCE PAGE for binary raw/2023-01-01 World Bank - Angola Digital Public Infrastructure and Interoperability.pdf (165pp). WB reference document (© 2023) tied in the CAF/AGO datasets to Angola's data-exchange / interoperability status (business-registration & digital-ID integration "partially integrated"). Date proxied to year. Held as a WB reference on Angola's DPI/interoperability baseline; per-cell figures not lifted into place pages. Feeds [[angola--dpi-pay]] / DPI context. -->

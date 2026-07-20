@@ -3,6 +3,8 @@ type: source
 title: Província do Bengo dá início à impressão local do Bilhete de Identidade
 url: https://angop.ao/noticias/politica/provincia-do-bengo-da-inicio-a-impressao-local-do-bilhete-de-identidade/
 publisher: Angop
+lens: []
+body_completeness: full
 author: CJ/SC
 published: 2026-06-19
 date_precision: day

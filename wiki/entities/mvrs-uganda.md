@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: initiative
 title: Mobile Vital Records System (MVRS), Uganda
 places: [UGA]

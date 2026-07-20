@@ -3,14 +3,17 @@ type: source
 title: "US data centre firm Equinix is investing $438 million in South Africa"
 publisher: Business Insider Africa (via Bloomberg)
 url: https://africa.businessinsider.com/local/markets/us-data-centre-firm-equinix-is-investing-dollar438-million-in-south-africa/j390t94
+date_source: source
 author: Ayodeji Adegboyega
 published: 2026-04-01
+date_precision: month
 accessed: 2026-07-11
 ingested: 2026-07-11
 places: [ZAF, XAF]
 topics: [infra.store, tech.ai, finance.new, infra.energy]
 entities: [[equinix], [equinix-sa-438m-expansion]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Equinix planning a $438m (R7.5bn) SA expansion (Johannesburg + Cape Town), self-funded; secured ~327,000 sqm land, adding ~160MW. SAME investment as the 'R890m land' item. Africa ~409MW operational DC capacity (<1% global); SA ~three-quarters. SA market ~$2.6bn (2025) -> >$5bn by 2031. -->

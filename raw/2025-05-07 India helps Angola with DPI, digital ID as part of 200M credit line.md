@@ -13,6 +13,7 @@ places: [AGO]
 topics: [dpi.id, dpi.exchange, geopol.india, finance.mou]
 entities: [[angola-india-dpi-credit-line]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Merges Biometric Update (7 May 2025) + Ecofin Agency (11 May 2025) on the same New Delhi summit — dedup. After a Lourenço–Modi meeting (first Angolan presidential visit in 38 years; 40th anniversary of ties), India extended a $200m line of credit spanning DPI, digital governance, space, defence and healthcare, with digital-skills training. Angola to adopt India's DPI model — digital IDs, e-payments, unified social registries; hopes to model its digital ID on Aadhaar. India's MOSIP already in Morocco, Ethiopia, Sierra Leone, Guinea; UPI-inspired payments work with Rwanda. Ecofin adds Angola ranks 156/193 on 2024 EGDI (0.4149), below African (0.4247) and global (0.6382) averages. The India-facing leg of Angola's three-way DPI courtship (India / China civil-registration / UAE-G42). Ecofin URL: ecofinagency.com/news/1105-46744. -->

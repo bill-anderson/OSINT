@@ -7,6 +7,7 @@ topics: [gov.standards, gov.policy, dpi.exchange, tech.industry, capacity.resear
 lens: []
 status: active
 last_reviewed: 2026-07-10
+sources: []
 ---
 
 # World Development Report 2025

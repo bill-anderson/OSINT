@@ -6,6 +6,7 @@ publisher: Expresso das Ilhas
 published: 2026-06-02
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [CPV]
 topics: [data.statistics, infra.cybersec]
 entities: [[ine-cv], [joao-de-pina-cardoso]]

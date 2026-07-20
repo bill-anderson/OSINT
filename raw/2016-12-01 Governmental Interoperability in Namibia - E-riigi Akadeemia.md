@@ -12,6 +12,7 @@ places: [NAM]
 topics: [dpi.exchange, dpi.govtech, gov.standards]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 Project profile: "The Designing and Implementation of Governmental Interoperability Solution (X-Road) in Namibia," implemented by Estonia's e-Governance Academy (eGA). The project delivered a governmental interoperability framework based on the Estonian X-Road system, using the Unified eXchange Platform (UXP) technology implemented by Cybernetica Ltd to securely connect government databases and enable e-services.

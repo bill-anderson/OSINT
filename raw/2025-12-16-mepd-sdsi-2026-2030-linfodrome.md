@@ -6,12 +6,14 @@ publisher: Linfodrome
 published: 2025-12-16
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [dpi.govtech, gov.policy, infra.cybersec]
 entities: [[ministere-economie-plan-developpement-cote-divoire], [sndi], [niale-kaba]]
 lens: []
+body_completeness: full
 ---
 
 # Le ministère de l'Economie du Plan et du Développement fait la mise à jour de son système d'information 2026-2030

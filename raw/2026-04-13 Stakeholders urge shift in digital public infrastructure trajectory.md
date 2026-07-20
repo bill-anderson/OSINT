@@ -3,6 +3,8 @@ type: source
 title: "Stakeholders urge shift in digital public infrastructure trajectory"
 publisher: The Nation (Nigeria)
 url: https://thenationonlineng.net/stakeholders-urge-shift-in-digital-public-infrastructure-trajectory/
+date_precision: day
+date_source: source
 author: Lucas Ajanaku
 published: 2026-04-13
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [XAF, NGA, MOZ, TZA, BWA, KEN]
 topics: [dpi.exchange, infra.store, tech.ai, data.statistics, gov.regional, include.access, gov.policy]
 entities: [[uneca], [african-union], [gsma], [africa-data-centres], [cassava-technologies]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- 58th UNECA Conference of Ministers roundtable on DPI, data centres and sovereignty. Adil el Youssefi (Africa Data Centres): Africa must 10x data-centre capacity; generates <1% of global data despite ~20% of population. GSMA's Wamola: remove duties on entry-level smartphones. ~1bn Africans offline despite mobile-signal reach. Call to translate the AU AI Strategy into funded local frameworks. -->

@@ -13,6 +13,7 @@ places: [MWI]
 topics: [dpi.id, dpi.registry, gov.protect]
 entities: [[national-registration-bureau-malawi], [idt4m], [malawi-data-protection-act-2024], [undp]]
 lens: []
+body_completeness: full
 ---
 
 Malawi established its first multi-modal biometric citizen database in 2018, registering 9.1 million people. As of 2024, over 12.5 million people aged 16+ have obtained a digital legal ID alongside 3 million birth registrations — over 75 percent of the estimated population and 99 percent of adults. The national registration and identification system won the World Summit on the Information Society Award 2021. The digital ID has been integrated across voting, payroll, SIM cards, passports, immigration and tax, with sectoral applications in health, banking and agriculture.

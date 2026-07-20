@@ -6,12 +6,14 @@ publisher: ACTUALITE.CD
 published: 2025-03-28
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: COD-2026-07-17
 places: [COD]
 topics: [infra.connect, include.access, infra.energy]
 entities: [[vodacom], [orange], [airtel]]
 lens: []
+body_completeness: full
 ---
 
 Vendredi 28 mars 2025 - 10:03

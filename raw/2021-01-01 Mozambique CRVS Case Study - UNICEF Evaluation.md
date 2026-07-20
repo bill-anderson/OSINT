@@ -13,6 +13,7 @@ places: [MOZ]
 topics: [dpi.registry, data.statistics, include.access]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 A UNICEF evaluation case study of civil registration and vital statistics (CRVS) reforms in Mozambique, examining efforts to strengthen birth registration and vital-statistics systems and the barriers to legal-identity coverage. A reference evaluation for the CRVS/registry facet — cite for its analysis rather than absorbing its figures.

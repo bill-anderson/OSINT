@@ -3,6 +3,8 @@ type: source
 title: Snapshot of Civil Registration and Vital Statistics Systems of Tanzania Mainland
 url: https://crvssystems.ca/
 publisher: Centre of Excellence for CRVS Systems (IDRC), with UNECA
+lens: []
+body_completeness: full
 author: Yacob Zewoldi
 published: 2019-01-01
 date_precision: year

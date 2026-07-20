@@ -12,6 +12,7 @@ places: [TCD]
 topics: [infra.cybersec, infra.store, dpi.govtech, gov.standards, dpi.exchange]
 entities: [[adetic], [ansice], [techso-group], [chad-national-data-centre], [adetic-ansice-techso-audit-agreement]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # ADETIC, ANSICE, and TECHSO-GROUP Join Forces to Protect Chad's Digital Infrastructure

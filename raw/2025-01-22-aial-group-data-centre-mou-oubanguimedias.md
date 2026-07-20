@@ -6,13 +6,14 @@ publisher: Oubangui Médias
 published: 2025-01-22
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [CAF]
 topics: [infra.store, dpi.govtech, finance.mou, dpi.exchange, dpi.registry]
 entities: [[aial-group-limited], [mepci-central-african-republic], [justin-gourna-zacko]]
 lens: [sovereignty]
 retrieved: 2026-07-17
 sweep_batch: CAF-2026-07-17
-body_completeness: highlights-only
+body_completeness: excerpt
 provenance_flag: canonical-original (mirrored without attribution by rca.news-pravda.com — prefer this copy)
 ---
 

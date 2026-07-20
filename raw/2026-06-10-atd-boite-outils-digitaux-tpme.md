@@ -6,6 +6,7 @@ publisher: Togo First
 published: 2026-06-10
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [TGO]
 topics: [dpi.govtech, tech.industry, tech.innovate, geopol.eu]
 entities: [[agence-togo-digital], [giz], [european-union]]

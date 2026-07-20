@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: instrument
 title: Zimbabwe Statutory Instrument 76 of 2025 (securitised deeds)
 places: [ZWE]

@@ -6,6 +6,7 @@ publisher: ITWeb
 published: 2026-07-16
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [ZAF]
 topics: [tech.ai, dpi.pay, gov.standards]
 entities: [[sarb]]

@@ -3,6 +3,9 @@ type: source
 title: Botswana launches one-year program for climate tech startups
 url: https://www.wearetech.africa/en/fils-uk/brief/brief-one/botswana-launches-one-year-program-for-climate-tech-startups
 publisher: We Are Tech Africa
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: The Redaction
 published: 2026-04-10
 date_precision: day

@@ -3,6 +3,7 @@ type: source
 title: "Réorganisation agraire et foncière : la nouvelle loi, un rempart contre les dérives"
 url: https://www.sidwaya.info/reorganisation-agraire-et-fonciere-la-nouvelle-loi-un-rempart-contre-les-derives/
 publisher: Sidwaya
+ingested: 2026-07-18
 author: Aly Sawadogo
 published: 2026-06-29
 date_precision: day

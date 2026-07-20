@@ -3,6 +3,8 @@ type: source
 title: "Huawei reconnects with South Sudan"
 publisher: ITWeb Africa
 url: https://itweb.africa/article/huawei-reconnects-with-south-sudan/
+date_precision: day
+date_source: source
 author: Mthulisi Sibanda
 published: 2026-02-09
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [SSD]
 topics: [geopol.china, infra.connect, tech.industry]
 entities: [[huawei], [zte]]
 lens: [sovereignty, colonialism]
+body_completeness: excerpt
 ---
 
 <!-- Huawei CEO Wang Shibo (in role since Dec 2025) met South Sudan ICT minister Ateny Wek Ateny in Juba (~Feb 2026), pledging partnership expansion. Background: a 2014 rift (SSD officials accused Huawei of hacking govt emails/forging documents to damage a rival ZTE contract). -->

@@ -6,12 +6,14 @@ publisher: AHORA EG
 published: 2025-06-17
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: GNQ-2026-07-17
 places: [GNQ]
 topics: [geopol.china, tech.ai, infra.cybersec, capacity.training]
 entities: []
 lens: [sovereignty]
+body_completeness: full
 ---
 
 China–Equatorial Guinea technology cooperation. Following Vice-President Teodoro Nguema Obiang Mangue's visit to China, both sides reviewed implementation of signed agreements and ongoing negotiations with Chinese firms interested in strategic sectors. Minister of Transport Honorato Evita Oma said the country has set a national roadmap to become a regional technology hub, stressing cooperation with China in cybersecurity, artificial intelligence and critical-infrastructure management, and that qualified human-resource training is fundamental.

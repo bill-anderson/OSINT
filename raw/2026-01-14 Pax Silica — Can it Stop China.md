@@ -3,6 +3,8 @@ type: source
 title: "Pax Silica — Can it Stop China?"
 publisher: CEPA
 url: https://cepa.org/article/pax-silica-can-it-stop-china/
+date_precision: day
+date_source: source
 author: Christopher Cytera
 published: 2026-01-14
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [XGL]
 topics: [geopol.usa, geopol.china, tech.industry, tech.ai, infra.capacity]
 entities: [[pax-silica], [nvidia]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Named-analyst (CEPA) commentary on the US-led Pax Silica semiconductor/AI supply-chain coalition (founding signatories Japan, South Korea, Singapore, Israel, UAE, UK, Australia); critique that selection reflects alignment over industrial heft; US allowed NVIDIA H200 sales to China for a 25% export fee. Non-Africa context; attach to [[pax-silica]]. -->

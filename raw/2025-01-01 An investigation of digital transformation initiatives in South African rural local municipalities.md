@@ -12,6 +12,7 @@ places: [ZAF]
 topics: [digital.localgov, digital.rural, gov.policy, include.divides, infra.connect]
 entities: [[sita], [salga]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # An investigation of digital transformation initiatives in South African rural local municipalities | Netshirando | South African Journal of Information Management

@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: instrument
 title: Eswatini National Health Sector Strategic Plan 2024/25-2027/28 (NHSSP)
 places: [SWZ]

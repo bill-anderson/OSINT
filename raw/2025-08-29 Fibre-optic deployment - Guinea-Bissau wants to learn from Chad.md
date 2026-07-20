@@ -13,6 +13,7 @@ places: [GNB, TCD]
 topics: [infra.connect, gov.regional]
 entities: [[entd-gw]]
 lens: []
+body_completeness: full
 ---
 
 <!-- GNB launched its National Digital Transformation Strategy 2025-2030 (Jan 2025), six axes incl. digital infrastructure. Wants to learn from Chad on fibre-optic deployment; 27 Aug 2025 meeting in N'Djamena between Chad's telecom minister Boukar Michel and GNB's Julio Mamadou Balde. GNB connected to first international subsea cable ACE in March 2023; approved Starlink commercial launch April 2025. International connectivity confined to coast; still needs a national backbone linking main cities. 2022 WB report: internet penetration 32.5% in 2023 (ITU); limited middle-mile (microwave, embryonic Bissau fibre metro, transport link to Sonatel/Senegal). No formal cooperation framework signed yet. -->

@@ -6,12 +6,14 @@ publisher: TechAfrica News
 published: 2026-02-25
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 places: [DZA]
 topics: [dpi.govtech, dpi.registry, capacity.research, tech.innovate]
 entities: [[ministry-of-higher-education-and-scientific-research-algeria], [kamal-badari]]
 lens: []
+body_completeness: full
 ---
 
 # Algeria Launches Four New Digital Platforms to Modernise Higher Education Sector

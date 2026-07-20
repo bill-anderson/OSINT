@@ -6,10 +6,12 @@ publisher: Connecting Africa
 published: 2025-03-11
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [LSO]
 topics: [infra.connect, gov.legislate, geopol.usa, data.satellite]
 entities: [[starlink], [lesotho-communications-authority], [econet-telecom-lesotho], [vodacom]]
 lens: [sovereignty]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: LSO-2026-07-17
 ---

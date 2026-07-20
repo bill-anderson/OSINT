@@ -3,6 +3,7 @@ type: source
 title: "Protection des données sensibles : l'Asin forme 300 policiers à la cybersécurité"
 url: https://www.lanation.bj/numerique/protection-des-donnees-sensibles-lasin-forme-300-policiers-a-la-cybersecurite
 publisher: La Nation
+ingested: 2026-07-18
 author: Christian Hounnongbé
 published: 2026-06-26
 date_precision: day
@@ -13,6 +14,7 @@ places: [BEN]
 topics: [infra.cybersec, capacity.training, gov.protect, infra.store]
 entities: [[asin-benin], [cnin-benin], [police-republicaine-benin], [marc-andre-loko], [william-comlan-boko]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Protection des données sensibles : l'Asin forme 300 policiers à la cybersécurité

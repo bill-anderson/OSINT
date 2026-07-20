@@ -13,6 +13,7 @@ places: [MOZ]
 topics: [gov.policy, dpi.govtech, data.statistics]
 entities: [[intic-mozambique]]
 lens: []
+body_completeness: full
 ---
 
 Mozambique officially launched the process to draft a National Digital Transformation Strategy on 12 February 2026, during a special session of the National Conference on Digital Transformation (held 11-12 February in Maputo). The roadmap aims to leverage the country's geographic, energy and demographic potential and link these with digital public infrastructure for inclusive development and economic resilience.

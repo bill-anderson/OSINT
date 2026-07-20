@@ -3,6 +3,7 @@ type: source
 title: "Digital Public Infrastructure and the Politics of Data in Africa"
 publisher: LinkedIn Pulse
 url: https://www.linkedin.com/pulse/digital-public-infrastructure-politics-data-africa-hlengiwe-dube-n1mif
+date_source: source
 author: Hlengiwe Dube
 published: 2026
 date_precision: year
@@ -12,6 +13,7 @@ places: [XSS]
 topics: [dpi.id, dpi.exchange, gov.protect, gov.policy, include.divides]
 entities: [[african-union]]
 lens: [sovereignty, colonialism]
+body_completeness: full
 ---
 
 <!-- Named-analyst commentary (Hlengiwe Dube): DPI is political, not neutral; risks function creep, surveillance, exclusion; norms (AU Malabo Convention, AU Data Policy Framework, ACHPR Declaration) exist but practice lags (under-resourced DPAs, rare HRIAs, vendor-driven procurement). Framing, not evidence. (Junk publish date in source.) -->

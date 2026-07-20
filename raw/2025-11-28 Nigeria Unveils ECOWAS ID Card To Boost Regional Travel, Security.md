@@ -1,10 +1,13 @@
 ---
 type: source
+ingested: 2026-07-17
 places: [NGA]
 topics: [dpi.id, gov.regional]
 entities: [[ecowas], [enbic], [nimc]]
 date_precision: day
 date_source: source
+lens: []
+body_completeness: full
 page: 
 title: Nigeria Unveils ECOWAS ID Card To Boost Regional Travel, Security
 author: Justina SIMON

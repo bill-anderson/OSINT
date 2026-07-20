@@ -6,6 +6,7 @@ publisher: Vanguard
 published: 2025-01-29
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 retrieved: 2026-07-17
 body_completeness: excerpt
 sweep_batch: NGA-2026-07-17

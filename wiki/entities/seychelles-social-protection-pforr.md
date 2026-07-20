@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: deal
 title: Seychelles Strengthening the Quality of the Social Protection System (PforR)
 places: [SYC]

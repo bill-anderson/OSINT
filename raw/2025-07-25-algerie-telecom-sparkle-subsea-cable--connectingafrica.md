@@ -6,12 +6,14 @@ publisher: Connecting Africa
 published: 2025-07-25
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 places: [DZA]
 topics: [infra.connect, finance.mou, infra.store]
 entities: [[algerie-telecom], [sparkle], [italy], [adel-bentoumi], [enrico-bagnasco]]
 lens: []
+body_completeness: full
 ---
 
 # Algérie Télécom, Sparkle plan subsea cable to link Italy to Africa

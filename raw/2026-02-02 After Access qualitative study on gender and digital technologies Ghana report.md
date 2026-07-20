@@ -4,12 +4,15 @@ title: "After Access qualitative study on gender and digital technologies: Ghana
 publisher: Research ICT Africa
 url: https://researchictafrica.net/research/after-access-qualitative-study-on-gender-and-digital-technologies-ghana-report/
 published: 2026-02-02
+date_precision: day
+date_source: source
 accessed: 2026-07-12
 ingested: 2026-07-12
 places: [GHA]
 topics: [include.divides, include.access, capacity.literacy, gov.policy]
 entities: [[after-access], [research-ict-africa]]
 lens: []
+body_completeness: full
 ---
 <!-- Ghana country report of the After Access qualitative gender study: Ghana among stronger continental performers on connectivity/affordability, yet women's access uneven by geography, income, education, gender norms (as of 2026-02-02). Attach: [[after-access]] + [[research-ict-africa]]. -->
 

@@ -3,6 +3,7 @@ type: source
 title: "$15M Biometric Drive: South Sudan Lays Foundations for Digital Public Infrastructure to Purge 'Ghost' Workers"
 url: https://www.onecitizendaily.com/index.php/2026/01/16/15m-biometric-drive-south-sudan-lays-foundations-for-digital-public-infrastructure-to-purge-ghost-workers/
 publisher: One Citizen Daily
+ingested: 2026-07-19
 author: One Citizen Daily Newspaper
 published: 2026-01-16
 date_precision: day

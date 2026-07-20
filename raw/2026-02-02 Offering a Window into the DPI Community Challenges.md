@@ -3,6 +3,8 @@ type: source
 title: "Offering a Window into the DPI Community Challenges"
 publisher: UCL IIPP
 url: https://medium.com/iipp-blog/offering-a-window-into-the-dpi-community-challenges
+date_precision: day
+date_source: source
 author: UCL IIPP
 published: 2026-02-02
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [XGL]
 topics: [dpi.exchange, dpi.id, dpi.pay, capacity.research, gov.protect]
 entities: [[ucl-iipp], [dpi-map]]
 lens: []
+body_completeness: full
 ---
 
 <!-- UCL IIPP on the first State of DPI Report (16 Jan 2026): the DPI Map global baseline = 64 digital IDs, 97 digital payment systems, 103 data-exchange systems worldwide. Of 288 registered participants, Africa only 6; top community concern = DPI excluding vulnerable populations. Entity [[dpi-map]]. -->

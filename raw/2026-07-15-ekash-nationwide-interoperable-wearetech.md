@@ -3,6 +3,8 @@ type: source
 title: Rwanda Launches eKash to Enable Nationwide Instant Interoperable Payments
 url: https://www.wearetech.africa/en/fils-uk/news/tech/rwanda-launches-ekash-to-enable-nationwide-instant-interoperable-payments
 publisher: We Are Tech Africa
+ingested: 2026-07-19
+lens: []
 author: Samira Njoya
 published: 2026-07-15
 date_precision: day

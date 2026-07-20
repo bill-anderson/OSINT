@@ -6,12 +6,14 @@ publisher: Fraternité Matin
 published: 2025-12-06
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [dpi.pay]
 entities: [[moov-africa-cote-divoire], [moov-money], [mastercard], [gtbank]]
 lens: []
+body_completeness: full
 ---
 
 # Mobile Money : Un tournant majeur pour la digitalisation financière en Côte d'Ivoire

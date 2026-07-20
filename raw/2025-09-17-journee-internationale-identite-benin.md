@@ -3,6 +3,7 @@ type: source
 title: "Journée internationale de l'identité: Le Bénin en tête de l'agenda africain de l'identification des personnes"
 url: https://lanation.bj/actualites/journee-internationale-de-lidentite-le-benin-en-tete-de-lagenda-africain-de-lidentification-des-personnes
 publisher: La Nation
+ingested: 2026-07-18
 author: Josué F. MEHOUENOU
 published: 2025-09-17
 date_precision: day
@@ -13,6 +14,7 @@ places: [BEN]
 topics: [dpi.id, dpi.registry, include.access, gov.regional, tech.innovate]
 entities: [[anip-benin], [aristide-adjinacou-gnahoui], [id4africa], [unicef], [ravip-benin], [merveille-hountondji], [adebissi-adedjouma]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Journée internationale de l'identité: Le Bénin en tête de l'agenda africain de l'identification des personnes

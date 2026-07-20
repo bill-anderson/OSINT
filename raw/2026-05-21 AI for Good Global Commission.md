@@ -3,6 +3,8 @@ type: source
 title: "AI for Good Global Commission"
 publisher: ITU (AI for Good)
 url: https://commission.aiforgood.itu.int/
+date_precision: day
+date_source: source
 author:
 published: 2026-05-21
 accessed: 2026-07-10
@@ -11,6 +13,7 @@ places: [RWA, XGL]
 topics: [tech.ai, gov.regional]
 entities: [[ai-for-good-global-commission], [paul-kagame]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Primary source: the Commission's own profile page. Admissible (first-party). Body

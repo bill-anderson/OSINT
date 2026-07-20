@@ -1,6 +1,7 @@
 ---
 type: source
 title: بنسخة محدثة.. هذا جديد تطبيق "بريدي موب"
+ingested: 2026-07-18
 title_en: New BaridiMob version — virtual card, virtual TPE, Cashless merchant accounts
 url: https://www.echoroukonline.com/%D8%A8%D9%86%D8%B3%D8%AE%D8%A9-%D9%85%D8%AD%D8%AF%D8%AB%D8%A9-%D9%87%D8%B0%D8%A7-%D8%AC%D8%AF%D9%8A%D8%AF-%D8%AA%D8%B7%D8%A8%D9%8A%D9%82-%D8%A8%D8%B1%D9%8A%D8%AF%D9%8A-%D9%85%D9%88%D8%A8
 publisher: Echorouk El Yawmi
@@ -14,6 +15,7 @@ places: [DZA]
 topics: [dpi.pay, include.divides]
 entities: [[algerie-poste, baridimob, sid-ali-zerrouki, ministere-de-la-poste-et-des-telecommunications]]
 lens: []
+body_completeness: full
 ---
 
 # بنسخة محدثة.. هذا جديد تطبيق "بريدي موب"

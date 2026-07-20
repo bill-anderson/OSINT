@@ -3,6 +3,8 @@ type: source
 title: Launch of New Digital Solutions for Public Services
 url: https://www.ics.gov.sc/about/media-centre/publications/launch-of-new-digital-solutions-for-public-services
 publisher: Department of Immigration & Civil Status (ICS), Seychelles
+lens: []
+body_completeness: full
 author: Juliette Ernesta
 published: 2024-09-18
 date_precision: day

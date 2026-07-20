@@ -6,6 +6,7 @@ publisher: Le N'Djam Post
 published: 2025-12-21
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [TCD]
 topics: [infra.connect, digital.rural, include.access, infra.store]
 entities: [[pmice], [safitel], [ministry-telecom-digital-economy-chad]]

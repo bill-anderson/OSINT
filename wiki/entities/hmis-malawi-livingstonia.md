@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: instrument
 title: Utilisation of data and factors affecting HMIS performance — six Synods of Livingstonia health facilities in Malawi
 places: [MWI]

@@ -6,10 +6,12 @@ publisher: TechAfrica News
 published: 2025-12-18
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [DJI]
 topics: [dpi.govtech, dpi.pay, gov.policy, geopol.eu]
 entities: [[vision-djibouti-2035]]
 lens: []
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: DJI-2026-07-17
 ---

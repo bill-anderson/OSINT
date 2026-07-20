@@ -6,6 +6,7 @@ publisher: Connecting Africa
 published: 2026-06-26
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [TCD]
 topics: [infra.connect, gov.standards, infra.energy, include.access]
 entities: [[moov-africa-chad], [airtel-chad], [ministry-telecom-digital-economy-chad]]

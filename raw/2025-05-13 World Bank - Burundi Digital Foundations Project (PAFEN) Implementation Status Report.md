@@ -13,6 +13,7 @@ places: [BDI]
 topics: [dpi.govtech, infra.connect, gov.policy]
 entities: [[pafen-burundi], [setic-burundi], [world-bank]]
 lens: []
+body_completeness: full
 ---
 
 <!-- COMPANION SOURCE PAGE for binary raw/2025-05-13 World Bank - Burundi Digital Foundations Project (PAFEN) Implementation Status Report.pdf (14pp). WB Implementation Status & Results Report (ISR03987, seq 6), archived 13 May 2025, for the Burundi Digital Foundations Project (PAFEN, P176396) — IBRD/IDA Investment Project Financing, FY2022 (~$92m). Implementing agencies: MINCOTIM (Communication/IT/Media), MFBPE (Finance/Budget/Economic Planning), and SETIC (Executive Secretariat for ICT). Progress reference for PAFEN's broadband/skills/e-services components. -->

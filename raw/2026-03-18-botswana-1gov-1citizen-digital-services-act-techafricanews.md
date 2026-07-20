@@ -3,6 +3,7 @@ type: source
 title: Botswana Advances Digital Government with 1Gov-1Citizen Platform Upgrade
 url: https://techafricanews.com/2026/03/18/botswana-advances-digital-government-with-1gov-1citizen-platform-upgrade/
 publisher: TechAfrica News
+ingested: 2026-07-18
 author: Joyce Onyeagoro
 published: 2026-03-18
 date_precision: day
@@ -13,6 +14,7 @@ places: [BWA]
 topics: [dpi.govtech, dpi.exchange, gov.legislate, infra.cybersec, infra.store, infra.connect, data.satellite, tech.innovate]
 entities: [[ministry-of-communications-and-innovation-botswana], [digital-services-authority-botswana], [digital-delta-data-centre], [bofinet], [botsat-1], [bitri], [botswana-innovation-fund]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Botswana Advances Digital Government with 1Gov-1Citizen Platform Upgrade

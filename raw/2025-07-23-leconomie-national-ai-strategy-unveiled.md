@@ -3,6 +3,7 @@ type: source
 title: "Stratégie nationale de l'intelligence artificielle : un cadre clair pour le futur numérique du Cameroun"
 url: https://leconomie.info/strategie-nationale-de-lintelligence-artificielle-un-cadre-clair-pour-le-futur-numerique-du-cameroun/
 publisher: Le quotidien L'Economie
+ingested: 2026-07-18
 author: Hervé Fopa Fogang
 published: 2025-07-23
 date_precision: day
@@ -13,6 +14,7 @@ places: [CMR]
 topics: [tech.ai, gov.policy]
 entities: [[snia-cameroon], [conia], [minpostel], [eventify]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Stratégie nationale de l'intelligence artificielle : un cadre clair pour le futur numérique du Cameroun

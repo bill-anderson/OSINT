@@ -6,6 +6,7 @@ publisher: Téla Nón
 published: 2026-01-22
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [STP]
 topics: [dpi.id, dpi.registry, include.access]
 entities: [[dgrn], [prese]]

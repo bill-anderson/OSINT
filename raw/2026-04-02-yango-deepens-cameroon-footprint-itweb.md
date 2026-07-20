@@ -3,6 +3,7 @@ type: source
 title: Yango deepens Cameroon footprint
 url: https://itweb.africa/article/yango-deepens-cameroon-footprint/GxwQD71DG4KvlPVo
 publisher: ITWeb Africa
+ingested: 2026-07-18
 author: Amindeh Blaise Atabong
 published: 2026-04-02
 date_precision: day
@@ -11,6 +12,7 @@ places: [CMR]
 topics: [tech.industry, tech.innovate, dpi.pay, include.access, infra.connect]
 entities: [[yango]]
 lens: []
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: CMR-2026-07-17
 ---

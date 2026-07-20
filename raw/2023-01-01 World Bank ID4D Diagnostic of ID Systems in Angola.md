@@ -13,6 +13,7 @@ places: [AGO]
 topics: [dpi.id, dpi.registry, include.access]
 entities: [[world-bank]]
 lens: []
+body_completeness: full
 ---
 
 <!-- World Bank ID4D Diagnostic of ID Systems in Angola (2023; date proxied to year). The authoritative baseline reference for Angola's civil-registration + identification (CRVS+ID) systems. Source clip was a full-text scrape (~279KB) distilled here. Key evidence below. Underpins the newborn-ID drive, the China-devised RCI civil-registration system, and the India/Aadhaar DPI pivot — see [[angola--dpi-id]]. -->

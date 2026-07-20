@@ -12,6 +12,7 @@ places: [XAF, XSS, NGA]
 topics: [infra.connect, infra.cybersec, gov.regional, gov.standards]
 entities: [[international-cable-protection-committee], [itu], [bosun-tijani], [ncc]]
 lens: []
+body_completeness: full
 ---
 
 # ‘How Nigeria, others can secure undersea Internet cables’

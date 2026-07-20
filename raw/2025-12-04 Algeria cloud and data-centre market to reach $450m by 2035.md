@@ -11,6 +11,7 @@ places: [DZA]
 topics: [infra.store, tech.ai, infra.connect, dpi.pay]
 entities: [[digital-algeria-2030], [high-commission-digitalisation-algeria], [algerie-telecom]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Algeria cloud and data-centre market to reach $450m by 2035

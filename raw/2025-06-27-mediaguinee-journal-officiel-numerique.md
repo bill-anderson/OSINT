@@ -6,12 +6,14 @@ publisher: Mediaguinee
 published: 2025-06-27
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: GIN-2026-07-17
 places: [GIN]
 topics: [dpi.govtech, data.open, gov.legislate]
 entities: [[secretariat-general-gouvernement-guinea]]
 lens: []
+body_completeness: full
 ---
 
 # Digitalisation : le Journal Officiel passe au numérique, une innovation du Secrétariat Général du Gouvernement

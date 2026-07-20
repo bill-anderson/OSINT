@@ -12,6 +12,7 @@ places: [MRT]
 topics: [gov.policy, dpi.govtech, infra.connect]
 entities: [[mtnima-mauritania]]
 lens: []
+body_completeness: full
 ---
 
 Promotional/advertorial ministerial interview (Business Focus, "mauritaniareport" series) with Mohamed Abdallahi Louly, Mauritania's Minister of Digital Transformation, Innovation and Modernization of the Administration. It establishes the National Digital Transformation Agenda 2022-2025, a strategy built on four axes: digital infrastructure, digital government administration, support for the transformation of economic sectors, and e-business and innovation. The dedicated ministry was created in 2021.

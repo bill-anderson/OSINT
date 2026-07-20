@@ -3,6 +3,8 @@ type: source
 title: Seychelles Pledges to Modernize Public Services Through Digital Transformation
 url: https://www.wearetech.africa/en/fils-uk/news/public-management/seychelles-pledges-to-modernize-public-services-through-digital-transformation
 publisher: We Are Tech Africa
+lens: []
+body_completeness: full
 author: Hikmatu Bilali
 published: 2025-02-10
 date_precision: day

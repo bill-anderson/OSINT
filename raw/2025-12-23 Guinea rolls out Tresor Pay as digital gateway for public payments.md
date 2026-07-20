@@ -13,6 +13,7 @@ places: [GIN]
 topics: [dpi.pay, dpi.govtech, include.access]
 entities: [[tresor-pay]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Guinea launched Trésor Pay (22 Dec 2025, Conakry) to dematerialize payment of administrative fees/charges owed to the state, improving revenue mobilization. Per Finance Minister Mourana Soumah, follows a presidential directive: reduce queues, curb informal practices, ensure traceability, speed fund availability, reduce fraud. Users pay via mobile phone; relies on e-money services, runs alongside traditional circuit, dedicated call centre. Financial inclusion ~30%; mobile money expanding. Could extend to non-tax revenue, mass payments. -->

@@ -3,6 +3,8 @@ type: source
 title: "South Africa makes the ETA the cornerstone of its visa reform"
 publisher: VisasNews
 url: https://visasnews.com/en/south-africa-makes-the-eta-the-cornerstone-of-its-visa-reform/
+date_precision: day
+date_source: source
 author: VisasNews
 published: 2026-02-24
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [ZAF]
 topics: [dpi.id, dpi.govtech, gov.protect, infra.cybersec, geopol.china]
 entities: [[south-africa-eta], [sars], [sa-digital-id-regulations]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- SA's Electronic Travel Authorisation (ETA) made the sole visa gateway (launched ahead of the G20 Summit); already rejected 30,000+ applications; uses ML + facial recognition + rules-based automated decisions (no human review); for China/India/Indonesia/Mexico nationals via 3 airports; to link to a smart population register + biometric digital ID (with BMA + SARS). SIU found ~20 years of visa maladministration. Entity [[south-africa-eta]]. -->

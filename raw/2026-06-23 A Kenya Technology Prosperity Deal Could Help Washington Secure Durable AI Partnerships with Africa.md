@@ -3,6 +3,8 @@ type: source
 title: A Kenya Technology Prosperity Deal Could Help Washington Secure Durable AI Partnerships with Africa
 url: https://carnegieendowment.org/research/2026/06/united-states-kenya-technology-prosperity-deal-could-help-washington-secure-durable-ai-partnerships-with-africa
 publisher: Carnegie Endowment for International Peace
+date_precision: day
+date_source: source
 author: Jane Munga
 published: 2026-06-23
 ingested: 2026-07-10
@@ -10,6 +12,7 @@ places: [KEN, XAF, XGL]
 topics: [tech.ai, geopol.usa, geopol.gulf, finance.mou, gov.standards, gov.policy, gov.regional, infra.store, capacity.research]
 entities: [[technology-prosperity-deal], [pax-silica], [american-ai-exports-program], [uae], [uae-ai-for-development-initiative], [microsoft-g42-kenya-datacenter], [us-auc-strategic-investment-working-group], [openai], [g42], [william-ruto], [jane-munga], [us-department-of-commerce], [us-department-of-state]]
 lens: [sovereignty, colonialism]
+body_completeness: full
 ---
 ![2026-06-23 A Kenya Technology Prosperity Deal Could Help Washington Secure Durable AI Partnerships with Africa](https://assets.carnegieendowment.org/_/eyJrZXkiOiJpbWFnZXMvS2VueWEtVW5pdGVkLVN0YXRlcy1mbGFncy1pU3RvY2stMTA5Njg5NDIyNi5wbmcifQ==)
 

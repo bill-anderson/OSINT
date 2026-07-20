@@ -3,6 +3,7 @@ type: source
 title: "Projet de société du duo Wadagni-Talata: Une vision ambitieuse pour faire du Bénin un hub technologique"
 url: https://lanation.bj/actualites/projet-de-societe-du-duo-wadagni-talata-une-vision-ambitieuse-pour-faire-du-benin-un-hub-technologique
 publisher: La Nation
+ingested: 2026-07-18
 author: Isidore GOZO
 published: 2026-03-24
 date_precision: day
@@ -13,6 +14,7 @@ places: [BEN]
 topics: [gov.policy, tech.ai, infra.store, capacity.training, tech.innovate]
 entities: [[seme-city], [code-du-numerique-benin], [romuald-wadagni]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Projet de société du duo Wadagni-Talata: Une vision ambitieuse pour faire du Bénin un hub technologique

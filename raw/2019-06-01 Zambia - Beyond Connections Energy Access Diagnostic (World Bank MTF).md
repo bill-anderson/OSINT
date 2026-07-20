@@ -3,6 +3,8 @@ type: source
 title: Zambia - Beyond Connections: Energy Access Diagnostic Report Based on the Multi-Tier Framework
 url: https://documents.worldbank.org/
 publisher: World Bank / IBRD (ESMAP Multi-Tier Framework series)
+lens: []
+body_completeness: full
 author: Lucia Luzi, Yunhui Lin, Bryan Bonsuk Koo, Dana Rysankova, Elisa Portale
 published: 2019-06-01
 date_precision: month

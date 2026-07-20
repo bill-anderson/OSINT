@@ -3,6 +3,8 @@ type: source
 title: "Strengthening Fayda: Ethiopia's improvement journey through the Digital ID Assessment"
 publisher: Digital Impact Alliance (DIAL)
 url: https://dial.global/research/digital-id-second-assessment-continuous-learning-ethiopia/
+date_precision: day
+date_source: source
 author: unknown
 published: 2026-05-12
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [ETH]
 topics: [dpi.id, dpi.registry, gov.standards, capacity.research]
 entities: [[fayda-ethiopia-national-id], [dial], [digital-id-assessment]]
 lens: []
+body_completeness: full
 ---
 
 <!-- DIAL case study: Fayda >42m registrations, 130+ agency integrations (as of 2026-05); 90m-by-2028 target; the NIDP adopted DIAL's Digital ID Assessment as an official monitoring mechanism (first used early 2025, re-run 2026). -->

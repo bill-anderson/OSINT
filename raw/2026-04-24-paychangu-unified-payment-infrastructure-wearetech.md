@@ -6,6 +6,7 @@ publisher: We Are Tech Africa
 published: 2026-04-24
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [MWI]
 topics: [dpi.pay, tech.innovate, finance.new]
 entities: []

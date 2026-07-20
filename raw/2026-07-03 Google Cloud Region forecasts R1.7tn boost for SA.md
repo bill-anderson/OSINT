@@ -4,11 +4,14 @@ title: Google Cloud Region forecasts R1.7tn boost for SA
 url: https://www.itweb.co.za/article/google-cloud-region-forecasts-r17tn-boost-for-sa/KPNG8v8N92lM4mwD
 publisher: ITWeb
 published: 2026-07-03
+date_precision: day
+date_source: source
 ingested: 2026-07-10
 places: [ZAF, XAF]
 topics: [infra.store, tech.ai, geopol.usa, finance.new, dpi.exchange, infra.capacity]
 entities: [[google], [vodacom]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 ![Maureen Costello, VP for UK, Ireland and Sub-Saharan Africa at Google Cloud, with Discovery founder and group CEO Adrian Gore.](https://lh3.googleusercontent.com/GnUyGBXPU6OwZZHT4kq63vPooNll5W08U6hlwy2juj3899yydfyr7Mmt8D1c8tB6-PwtqENclX6bKaJisuSpPEGYQZHZNQ0Lus1Z)

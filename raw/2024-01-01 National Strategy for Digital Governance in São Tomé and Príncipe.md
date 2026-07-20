@@ -12,6 +12,7 @@ places: [STP]
 topics: [gov.policy, dpi.govtech]
 entities: [[national-strategy-digital-governance-sao-tome], [unu-egov]]
 lens: []
+body_completeness: full
 ---
 
 # National Strategy for Digital Governance in São Tomé and Príncipe

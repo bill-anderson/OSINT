@@ -6,12 +6,14 @@ publisher: AHORA EG
 published: 2025-04-02
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: GNQ-2026-07-17
 places: [GNQ]
 topics: [dpi.id, dpi.govtech]
 entities: [[cnedoge]]
 lens: []
+body_completeness: full
 ---
 
 Parliamentary scrutiny of the national document-issuing body CNEDOGE. On 1 April 2025 the Chamber of Deputies examined the functioning, tariffs and issuance processes of the Centro Nacional de Emisión de Documentos de Guinea Ecuatorial. Director General Teodomiro Monsuy Eyí set out the entity's operational difficulties and answered deputies' questions on the issuance of identity documents and passports.

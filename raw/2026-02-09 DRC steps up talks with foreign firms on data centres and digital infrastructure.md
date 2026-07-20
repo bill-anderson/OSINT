@@ -13,6 +13,7 @@ places: [COD]
 topics: [infra.store, finance.new, geopol.gulf]
 entities: [[drc-national-digital-plan-pnn2]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Ecofin (Feb 2026): DRC courting foreign investment for data centres/digital infrastructure. On 5 Feb 2026, Digital Economy Minister Kibassa Maliba met UAE-based The Founding (data-centre proposals), suggesting a working group to define technical specs; also met Tunisian firm Dirasset International and Bayayi Group. DRC plans $1.5bn digital investment 2026-2030 on top of international-partner funding. The FDI-courting / data-centre-pipeline dimension of PNN2. -->

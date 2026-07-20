@@ -3,6 +3,8 @@ type: source
 title: Responsável defende fim da dispersão legislativa no sector tecnológico em Angola
 url: https://angop.ao/noticias/economia/especialista-defende-fim-da-dispersao-legislativa-no-sector-tecnologico-em-angola/
 publisher: Angop
+lens: []
+body_completeness: full
 author: VX/CS
 published: 2026-05-06
 date_precision: day

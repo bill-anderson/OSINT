@@ -10,6 +10,8 @@ ingested: 2026-07-17
 places: [SWZ]
 topics: [infra.energy, digital.rural, include.access, finance.new]
 entities: [[ascent-eswatini], [world-bank], [satu-kahkonen]]
+lens: []
+body_completeness: full
 ---
 
 MBABANE, February 13, 2025 - A new World Bank financed project is helping set Eswatini on the path to universal energy access by 2030. The Accelerating Sustainable and Clean Energy Access Transformation (ASCENT) project for Eswatini will help the country reach the remaining 12% of the population with electricity access.

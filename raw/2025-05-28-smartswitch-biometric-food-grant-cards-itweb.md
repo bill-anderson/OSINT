@@ -3,6 +3,9 @@ type: source
 title: SmartSwitch advances financial inclusion in Botswana
 url: https://itweb.africa/article/smartswitch-advances-financial-inclusion-in-botswana/DZQ587V8Z1xqzXy2
 publisher: ITWeb Africa
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Lezeth Khoza
 published: 2025-05-28
 date_precision: day

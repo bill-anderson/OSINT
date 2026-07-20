@@ -3,6 +3,9 @@ type: source
 title: "'MoU to foster data-driven culture in Botswana'"
 url: https://www.mmegi.bw/business/mou-to-foster-data-driven-culture-in-botswana/news
 publisher: Mmegi
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Pauline Dikuelo
 published: 2025-02-05
 date_precision: day

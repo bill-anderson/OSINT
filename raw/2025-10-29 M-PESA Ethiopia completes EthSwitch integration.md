@@ -11,6 +11,7 @@ places: [ETH]
 topics: [dpi.pay, dpi.exchange, include.access]
 entities: [[safaricom-ethiopia], [ethswitch], [safaricom]]
 lens: []
+body_completeness: full
 ---
 
 # M-PESA Ethiopia completes EthSwitch integration

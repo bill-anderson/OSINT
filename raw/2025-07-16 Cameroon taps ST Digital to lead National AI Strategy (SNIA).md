@@ -13,6 +13,7 @@ places: [CMR]
 topics: [tech.ai, infra.store, gov.policy]
 entities: [[st-digital], [snia-cameroon]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Business in Cameroon (Jul 2025): the government plans to work with local firm ST Digital to roll out its National AI Strategy (SNIA) and boost digital sovereignty, after a 14 Jul 2025 visit by Posts & Telecoms Minister Minette Libom Li Likeng to ST Digital's Douala datacentre (Tier 3, sovereign cloud, AI-specific equipment). Frames ST Digital as a strategic partner for Cameroon's digital economy — sovereign-cloud + AI infrastructure. -->

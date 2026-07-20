@@ -3,6 +3,7 @@ type: source
 title: "South Sudan Tax: 'Digital First' Strategy to Combat Revenue Leakages"
 url: https://www.onecitizendaily.com/index.php/2026/03/10/south-sudan-tax-digital-first-strategy-to-combat-revenue-leakages/
 publisher: One Citizen Daily
+ingested: 2026-07-19
 author: Kei Emmanuel Duku
 published: 2026-03-10
 date_precision: day

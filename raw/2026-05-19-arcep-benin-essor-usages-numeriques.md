@@ -3,6 +3,9 @@ type: source
 title: "Communications électroniques: L’essor des usages numériques transforme le marché béninois"
 url: https://www.lanation.bj/numerique/communications-electroniques-lessor-des-usages-numeriques-transforme-le-marche-beninois
 publisher: La Nation
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Isidore GOZO
 published: 2026-05-19
 date_precision: day

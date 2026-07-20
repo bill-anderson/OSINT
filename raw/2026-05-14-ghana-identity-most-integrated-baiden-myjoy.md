@@ -6,12 +6,14 @@ publisher: MyJoyOnline
 published: 2026-05-14
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: GHA-2026-07-17
 places: [GHA]
 topics: [dpi.id]
 entities: [[margins-id-group], [national-identification-authority-ghana], [ghana-card]]
 lens: []
+body_completeness: full
 ---
 # Ghana's identity system among world's most integrated — Moses Baiden
 

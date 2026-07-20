@@ -6,10 +6,12 @@ publisher: TechAfrica News
 published: 2026-04-17
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [COD]
 topics: [infra.cybersec, infra.connect, infra.store, dpi.pay, finance.mou, finance.new, geopol.usa, capacity.training, tech.ai]
 entities: [[cybastion], [drc-national-digital-plan-pnn2]]
 lens: [sovereignty, colonialism]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: COD-2026-07-17
 ---

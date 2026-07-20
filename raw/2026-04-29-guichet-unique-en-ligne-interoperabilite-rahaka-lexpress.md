@@ -6,10 +6,12 @@ publisher: L'Express de Madagascar
 published: 2026-04-29
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [MDG]
 topics: [dpi.govtech, dpi.exchange]
 entities: [[ugd-madagascar], [prodigy-madagascar], [mg-ministry-digital-development]]
 lens: []
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: MDG-2026-07-17
 ---

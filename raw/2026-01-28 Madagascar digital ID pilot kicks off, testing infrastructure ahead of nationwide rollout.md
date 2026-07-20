@@ -13,6 +13,7 @@ places: [MDG]
 topics: [dpi.id, dpi.registry, dpi.govtech]
 entities: [[prodigy-madagascar], [oni-madagascar], [mg-ministry-digital-development]]
 lens: []
+body_completeness: full
 ---
 
 Madagascar launched a pilot to enrol citizens for its new national digital ID system, ahead of a full nationwide rollout expected from April 2026. The pilot began 27 January 2026 at a ceremony presided over by President Michael Randrianirina; the Ministry of Digital Development, Posts and Telecommunications announced it on its official Facebook page. The pilot first enrols the head of state and members of government to test the system infrastructure, mainly in the district of Antsimondrano.

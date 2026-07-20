@@ -3,6 +3,8 @@ type: source
 title: "Digital IDs: How registration is progressing so far (Rwanda)"
 publisher: The New Times (Rwanda)
 url: https://www.newtimes.co.rw/article/34090/
+date_precision: day
+date_source: source
 author: Joan Mbabazi
 published: 2026-03-16
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [RWA]
 topics: [dpi.id, dpi.registry, gov.protect, gov.legislate]
 entities: [[nida-rwanda]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Rwanda's NIDA has registered 2,373,854 of ~14m target (~40,000/day). New biometric digital ID (e-Indangamuntu) adds iris to fingerprint+facial; Single Digital Identification Law (no dual identities; old cards invalid, replace by June 2027). Three forms (number/token/QR card); CRVS-integrated; consent via digital wallet + eRainbow (access log, revocable, age 16+). -->

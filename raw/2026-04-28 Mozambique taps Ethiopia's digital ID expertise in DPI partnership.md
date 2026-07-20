@@ -3,6 +3,8 @@ type: source
 title: "Mozambique taps Ethiopia's digital ID expertise in DPI partnership"
 publisher: Biometric Update
 url: https://www.biometricupdate.com/202604/mozambique-taps-ethiopias-digital-id-expertise-in-dpi-partnership
+date_precision: day
+date_source: source
 author: Ayang Macdonald
 published: 2026-04-28
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [MOZ, ETH]
 topics: [dpi.id, dpi.exchange, finance.mou, gov.regional]
 entities: [[atdi-mozambique], [fayda-ethiopia-national-id], [mozambique-ethiopia-dpi-mou]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- MoU (Addis, initial 3yr): Ethiopia's NIDP / FaydaVerse to support Mozambique's new ATDI on digital-ID platforms, DPI pilots, interoperability, joint cybersecurity. South-South; 'technological sovereignty'. Ethiopia has a comparable deal with Zambia. -->

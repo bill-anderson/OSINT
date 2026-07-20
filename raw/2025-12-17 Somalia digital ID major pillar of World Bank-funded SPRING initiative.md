@@ -12,6 +12,7 @@ places: [SOM]
 topics: [dpi.id, finance.new]
 entities: [[nira-somalia], [snid], [somalia-spring-project], [central-bank-of-somalia]]
 lens: []
+body_completeness: full
 ---
 
 # Somalia digital ID major pillar of World Bank-funded SPRING initiative

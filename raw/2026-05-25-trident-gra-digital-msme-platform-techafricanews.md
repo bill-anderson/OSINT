@@ -6,12 +6,14 @@ publisher: TechAfrica News
 published: 2026-05-25
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: GHA-2026-07-17
 places: [GHA]
 topics: [dpi.pay, dpi.govtech, tech.industry]
 entities: [[ghana-revenue-authority], [trident-digital]]
 lens: []
+body_completeness: full
 ---
 # Trident Begins Commercial Rollout of Ghana Revenue Authority Digital MSME Platform
 

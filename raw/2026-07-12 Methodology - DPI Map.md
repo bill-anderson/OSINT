@@ -4,6 +4,7 @@ title: "Methodology - DPI Map"
 publisher: DPI Map
 url: https://dpimap.org/methodology/
 published: 2026-07-12
+date_precision: day
 date_source: proxy
 accessed: 2026-07-12
 ingested: 2026-07-12
@@ -11,6 +12,7 @@ places: [XGL]
 topics: [dpi.id, dpi.pay, dpi.exchange, gov.standards]
 entities: [[dpi-map], [david-eaves], [ucl-iipp]]
 lens: []
+body_completeness: full
 ---
 <!-- Undated DPI Map "Measuring DPI" framework: 6 attributes + outcome indicators (38 ID, 20 payments, 20 data exchange); v1.0 collects only measurable must-haves; "DPI-likeness" counting rules. Cites Eaves & Rao (2025), IIPP WP 2025-01. Methodology/reference attaching to [[dpi-map]] (central sets dpi-map needs-review). -->
 

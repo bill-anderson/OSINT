@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: government-body
 title: Registrar General's Office (Seychelles)
 places: [SYC]

@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: instrument
 title: Data for local decision-making — an index to measure facility-level use of HMIS data
 places: [ETH]

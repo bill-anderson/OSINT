@@ -6,6 +6,7 @@ publisher: Tchadinfos
 published: 2026-01-11
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [TCD]
 topics: [infra.connect, gov.regional]
 entities: [[trans-saharan-backbone-dts], [ministry-telecom-digital-economy-chad], [european-union]]

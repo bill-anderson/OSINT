@@ -13,6 +13,7 @@ places: [MOZ]
 topics: [infra.store, infra.connect]
 entities: [[vodacom]]
 lens: []
+body_completeness: full
 ---
 
 Vodacom Mozambique inaugurated its new Business Data Centre at the end of March 2025 in Matola — a Tier 3 (Uptime Institute-certified) facility for national and international companies. It occupies 2,600 m² and starts with 128 racks, expandable to over 500 racks.

@@ -6,6 +6,7 @@ publisher: Trends N Africa
 published: 2025-10-15
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [TUN]
 topics: [infra.store, gov.policy, finance.new]
 entities: [[tunisia-investment-authority]]

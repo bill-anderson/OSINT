@@ -11,6 +11,7 @@ places: [ETH]
 topics: [dpi.id, gov.policy]
 entities: [[fayda-ethiopia-national-id], [tech5], [visa], [digital-ethiopia-2030]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Ethiopia launches Fayda digital ID (90M-by-2027 target)

@@ -12,6 +12,7 @@ places: [NAM]
 topics: [dpi.pay, include.access]
 entities: [[mtc-namibia]]
 lens: []
+body_completeness: full
 ---
 
 UNHCR, in collaboration with the government of Namibia, launched Cash-Based Interventions (CBI) for refugees and asylum-seekers in the Osire settlement, replacing in-kind food aid with cash assistance amid prolonged drought and funding shortfalls. The scheme is facilitated by Mobile Telecommunications Company (MTC) Namibia through its mobile money service, and is framed as a step toward financial inclusion for a population whose access to financial markets is otherwise limited by Namibia's settlement policy.

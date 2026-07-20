@@ -6,12 +6,14 @@ publisher: TechAfrica News
 published: 2026-02-20
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 places: [DZA]
 topics: [infra.connect, include.access, include.divides, gov.policy, digital.rural]
 entities: [[ministry-of-post-and-telecommunications-algeria], [sid-ali-zerrouki], [algerie-telecom]]
 lens: []
+body_completeness: full
 ---
 
 # Algeria Reaches Milestone as 3 Million Households Connect to Fibre Broadband

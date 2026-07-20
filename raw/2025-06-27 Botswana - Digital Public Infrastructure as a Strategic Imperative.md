@@ -13,6 +13,7 @@ places: [BWA]
 topics: [dpi.exchange, dpi.id, gov.policy]
 entities: []
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- The Patriot on Sunday (Jun 2025) — Botswana analyst op-ed (Dr Dimakatso Polokelo) making the case for DPI as a strategic imperative: open, interoperable systems (foundational digital ID, interoperable payments, data-exchange layers, digital authentication) as the backbone for services across finance, e-gov, agriculture, education, health and intra-African trade. Analytical framing, not primary evidence; cite as analysis of Botswana's DPI agenda. -->

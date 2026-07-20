@@ -3,6 +3,7 @@ type: source
 title: Cameroon boosts financial literacy with new digital platform
 url: https://itweb.africa/article/cameroon-boosts-financial-literacy-with-new-digital-platform/Pero3qZ32EZvQb6m
 publisher: ITWeb Africa
+ingested: 2026-07-18
 author: Amindeh Blaise Atabong
 published: 2025-06-23
 date_precision: day
@@ -11,6 +12,7 @@ places: [CMR]
 topics: [dpi.pay, dpi.govtech, data.open, capacity.literacy, include.access, tech.innovate, gov.legislate]
 entities: [[cnef-cameroon], [bankcompar]]
 lens: []
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: CMR-2026-07-17
 ---

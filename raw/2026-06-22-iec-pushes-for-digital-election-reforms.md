@@ -3,6 +3,9 @@ type: source
 title: IEC pushes for digital election reforms
 url: https://www.mmegi.bw/news/iec-pushes-for-digital-election-reforms/news
 publisher: Mmegi
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Pini Bothoko
 published: 2026-06-22
 date_precision: day

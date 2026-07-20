@@ -3,6 +3,7 @@ type: source
 title: Vianney Kanda numérise les services en Centrafrique
 url: https://www.wearetech.africa/fr/fils/tech-stars/vianney-kanda-numerise-les-services-en-centrafrique
 publisher: We Are Tech Africa
+ingested: 2026-07-18
 author: Melchior Koba (edited by Sèna D. B. de Sodji)
 published: 2025-05-14
 date_precision: day

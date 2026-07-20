@@ -3,6 +3,8 @@ type: source
 title: "Google joins $90M investment into Cassava to bolster Africa's digital infrastructure"
 publisher: TechCrunch
 url: https://techcrunch.com/2024/12/17/
+date_precision: day
+date_source: source
 author: Paul Sawers
 published: 2024-12-17
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [ZAF, KEN, COD, RWA, UGA, ZMB, ZWE]
 topics: [infra.store, infra.connect, finance.new, tech.ai, geopol.usa]
 entities: [[google-cassava-90m-round], [cassava-technologies], [liquid-c2], [google], [us-dfc], [finnfund]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Backfill (2024-12): $90m equity round into Cassava (US DFC + Finnfund + Google direct stake); part of $310m total. Umoja terrestrial cable (with Google) runs Kenya->DRC->Rwanda->Uganda->Zambia->Zimbabwe->South Africa. Backfill to [[cassava-technologies]]/[[google-cassava-90m-round]]. -->

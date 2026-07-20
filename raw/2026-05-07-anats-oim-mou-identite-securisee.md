@@ -6,6 +6,7 @@ publisher: Le N'Djam Post
 published: 2026-05-07
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [TCD]
 topics: [dpi.id, dpi.registry, finance.mou, include.access]
 entities: [[anats], [iom]]

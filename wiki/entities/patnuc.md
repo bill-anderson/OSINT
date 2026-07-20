@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: initiative
 title: PATNUC (Project for the Acceleration of the Digital Transformation of Cameroon)
 places: [CMR]

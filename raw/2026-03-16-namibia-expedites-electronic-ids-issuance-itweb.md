@@ -6,6 +6,7 @@ publisher: ITWeb Africa
 published: 2026-03-16
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [NAM]
 topics: [dpi.id, dpi.registry, dpi.govtech]
 entities: [[namibia-digital-id], [ministry-home-affairs-namibia], [netumbo-nandi-ndaitwah]]

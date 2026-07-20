@@ -3,6 +3,8 @@ type: source
 title: BCEAO Launches Instant Payments Platform in Togo with Three Banks
 url: https://www.togofirst.com/en/banking/0110-17197-bceao-launches-instant-payments-platform-in-togo-with-three-banks
 publisher: Togo First
+lens: []
+body_completeness: full
 author: Ayi Renaud Dossavi
 published: 2025-10-01
 date_precision: day

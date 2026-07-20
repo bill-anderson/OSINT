@@ -11,6 +11,7 @@ places: [DZA]
 topics: [dpi.registry, dpi.govtech, dpi.exchange]
 entities: [[amlak]]
 lens: []
+body_completeness: full
 ---
 
 # Algeria begins nationwide rollout of AMLAK electronic land system

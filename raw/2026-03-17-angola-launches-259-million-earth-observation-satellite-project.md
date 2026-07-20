@@ -14,6 +14,7 @@ places: [AGO]
 topics: [data.satellite, geopol.eu, finance.new, gov.policy, infra.capacity]
 entities: [[airbus], [angosat-2]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 Angola has launched the ANGEO-1 Earth observation satellite project with an estimated cost of $259 million.

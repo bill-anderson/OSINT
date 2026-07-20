@@ -6,6 +6,7 @@ publisher: Le Sahel (ONEP)
 published: 2026-07-10
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [NER]
 topics: [digital.rural, include.divides, include.access, capacity.literacy]
 entities: [[ansi-niger], [world-bank]]

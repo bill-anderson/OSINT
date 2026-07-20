@@ -6,12 +6,14 @@ publisher: ACTUALITE.CD
 published: 2025-11-16
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: COD-2026-07-17
 places: [COD]
 topics: [dpi.id, dpi.registry, gov.policy, dpi.exchange, data.statistics]
 entities: [[onip-drc], [ceni-drc], [jacquemain-shabani-lukoo], [felix-tshisekedi], [idemia], [afritech], [igf-drc], [jean-bamanisa], [lighthouse-reports], [bloomberg]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 Félix Tshisekedi lors de la capture en vue de l'obtention de sa carte d'identité

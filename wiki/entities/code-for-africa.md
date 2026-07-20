@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: organisation
 title: Code for Africa
 url: https://codeforafrica.org/

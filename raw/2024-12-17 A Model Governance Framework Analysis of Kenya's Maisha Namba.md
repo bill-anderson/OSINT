@@ -13,6 +13,7 @@ places: [KEN]
 topics: [dpi.id, gov.protect, include.divides]
 entities: [[maisha-namba]]
 lens: [colonialism]
+body_completeness: full
 ---
 
 <!-- Temple iLIT report (publ 17 Dec 2024; dated Aug 2024) — first independent public report applying the UNDP Model Governance Framework for Digital Legal Identity Systems (MGF, Sept 2023) to a national system. Argues Kenya's Maisha Namba ID+payments ecosystem (as envisioned since 2023) will exacerbate inequalities and marginalize those unable to get ID docs. Equality/non-discrimination lens. Draws on Haki na Sheria (double registrations/statelessness), UC Berkeley privacy recs, Huduma Namba litigation (Nubian Rights Forum, KHRC), Amnesty. Focus: rural, nomadic, unconnected, extreme-poverty, security-vetted (tribe/religion/ethnicity). July 2023 UNDP-Kenya MoU on the digital ID system. -->

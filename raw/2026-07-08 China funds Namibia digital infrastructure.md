@@ -3,6 +3,8 @@ type: source
 title: "China funds Namibia digital infrastructure"
 publisher: ITWeb Africa
 url: https://itweb.africa/article/china-funds-namibia-digital-infrastructure/rW1xL75n1YmMRk6m
+date_precision: day
+date_source: source
 author: Alfred Shilongo
 published: 2026-07-08
 accessed: 2026-07-10
@@ -11,6 +13,7 @@ places: [NAM]
 topics: [geopol.china, tech.ai, infra.store, finance.new, capacity.training, dpi.govtech, include.divides]
 entities: [[huawei], [china-namibia-smart-city], [netumbo-nandi-ndaitwah]]
 lens: [sovereignty, colonialism]
+body_completeness: excerpt
 ---
 
 <!-- First-party-sourced reporting (Namibian Presidency) of a Chinese Smart City funding

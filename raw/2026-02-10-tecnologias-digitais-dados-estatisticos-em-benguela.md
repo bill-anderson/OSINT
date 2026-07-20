@@ -3,6 +3,8 @@ type: source
 title: Tecnologias digitais reforçam precisão dos dados estatísticos em Benguela
 url: https://angop.ao/noticias/tecnologia/tecnologias-digitais-reforcam-precisao-dos-dados-estatisticos-em-benguela/
 publisher: Angop
+lens: []
+body_completeness: full
 author: JH/CRB
 published: 2026-02-10
 date_precision: day

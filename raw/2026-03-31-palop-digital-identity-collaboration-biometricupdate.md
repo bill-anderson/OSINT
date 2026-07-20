@@ -6,12 +6,14 @@ publisher: Biometric Update
 published: 2026-03-31
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CPV-2026-07-17
 places: [CPV, AGO, GNB, MOZ, STP]
 topics: [dpi.id, gov.regional]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 # PALOP countries collaborate to enhance digital identity and public services

@@ -3,6 +3,8 @@ type: source
 title: "Amazon Leo secures landing permit in Nigeria"
 publisher: Connecting Africa
 url: https://www.connectingafrica.com/connectivity/amazon-leo-secures-landing-permit-in-nigeria
+date_precision: day
+date_source: source
 author: Matshepo Sehloho
 published: 2026-01-15
 accessed: 2026-07-12
@@ -11,6 +13,7 @@ places: [NGA]
 topics: [infra.connect, geopol.usa, gov.legislate, tech.industry]
 entities: [[ncc], [starlink], [spacex], [amazon-leo]]
 lens: [sovereignty]
+body_completeness: full
 ---
 <!-- NCC grants Amazon Leo (ex-Project Kuiper) a 7-yr LEO landing permit effective 2026-02-28 (FSS/MSS/ESIM; up to 3,236 sats; 400 Mbit/s), ending Starlink's sole-LEO position (Starlink >66,000 NG subscribers end-2025). Attach: NGA hub, amazon-leo (new), ncc. -->
 

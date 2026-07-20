@@ -3,6 +3,7 @@ type: source
 title: Burkina Faso Deepens Digital Transformation Ties with Italian Investors
 url: https://techafricanews.com/2026/04/23/burkina-faso-deepens-digital-transformation-ties-with-italian-investors/
 publisher: TechAfrica News
+ingested: 2026-07-18
 author: Kay-Lyne Wolfenden
 published: 2026-04-23
 date_precision: day
@@ -13,6 +14,7 @@ places: [BFA]
 topics: [geopol.eu, finance.new, dpi.id, digital.rural]
 entities: [[ministry-of-digital-transition-burkina-faso], [borlli-michel-some], [cyrille-ganou-badolo]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Burkina Faso Deepens Digital Transformation Ties with Italian Investors

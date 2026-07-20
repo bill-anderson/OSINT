@@ -11,6 +11,7 @@ places: [DJI]
 topics: [infra.store, infra.connect]
 entities: [[wingu-africa]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Djibouti inaugurates Wingu TO7 Tier-3 data centre and cable landing station

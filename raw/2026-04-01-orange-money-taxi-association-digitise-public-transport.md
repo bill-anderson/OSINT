@@ -3,6 +3,9 @@ type: source
 title: Orange Money, Taxi Association partner to digitise public transportation
 url: https://www.mmegi.bw/business/orange-money-taxi-association-partner-to-digitise-public-transportation/news
 publisher: Mmegi
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: staff writer
 published: 2026-04-01
 date_precision: day

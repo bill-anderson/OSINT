@@ -6,6 +6,7 @@ publisher: Internet Governance Project (Georgia Tech)
 published: 2026-06-09
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [TZA]
 topics: [gov.policy, gov.protect, infra.connect]
 entities: []

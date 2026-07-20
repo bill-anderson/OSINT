@@ -6,12 +6,14 @@ publisher: Fraternité Matin
 published: 2026-05-19
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [capacity.training, geopol.china]
 entities: [[huawei], [inp-hb], [esatic], [hub-ivoire-tech], [djibril-ouattara], [august-dong]]
 lens: []
+body_completeness: full
 ---
 
 # Innovation/ Concours mondial pour les jeunes talents: Des étudiants ivoiriens vont représenter la Côte d’Ivoire en Chine

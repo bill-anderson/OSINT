@@ -3,6 +3,8 @@ type: source
 title: "South Africa Teams Up With Google to Train 5,000 in Digital Skills"
 publisher: Ecofin Agency
 url: https://www.ecofinagency.com/news-services/2603-54116-south-africa-teams-up-with-google-to-train-5-000-in-digital-skills
+date_precision: day
+date_source: source
 author: Felicien Houindo Lokossou
 published: 2026-03-30
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [ZAF]
 topics: [capacity.training, tech.ai, include.divides, capacity.literacy]
 entities: [[google], [dhet-south-africa], [world-bank]]
 lens: []
+body_completeness: full
 ---
 
 <!-- SA Dept of Higher Education & Training (DHET): 5,000 Google certification scholarships in AI/digital skills across universities/TVET/CET; agreement signed 2026-03-30, Johannesburg. Train-the-trainer. Context: SA unemployment 32.9% Q1 2025, youth 46.1%. -->

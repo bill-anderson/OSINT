@@ -6,12 +6,14 @@ publisher: ACTUALITE.CD
 published: 2025-05-02
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: COD-2026-07-17
 places: [COD]
 topics: [infra.connect, gov.policy, geopol.usa]
 entities: [[starlink], [arptc]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 Vendredi 2 mai 2025 - 20:44

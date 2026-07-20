@@ -3,6 +3,8 @@ type: source
 title: "Concerns over South Africa's proposed digital ID system from traditional leaders"
 publisher: Vukani News
 url: https://vukaninews.co.za/
+date_precision: day
+date_source: source
 author: Phiri Cawe
 published: 2026-03-31
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [ZAF]
 topics: [dpi.id, include.divides, digital.rural, gov.protect]
 entities: [[sa-digital-id-regulations]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Traditional leaders (Amadumisa, under UCoSA) oppose SA's proposed digital ID; want prior consultation, education, possibly a referendum. Concerns: fraud, rural exclusion (no smartphones/internet), privacy/'microchip' fears. Grassroots-opposition angle on the SA digital-ID rollout. -->

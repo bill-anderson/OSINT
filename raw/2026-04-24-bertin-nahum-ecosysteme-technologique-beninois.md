@@ -3,6 +3,9 @@ type: source
 title: "Écosystème technologique béninois : Bertin Nahum en immersion pour partager son expertise"
 url: https://fraternite.bj/ecosysteme-technologique-beninois-bertin-nahum-en-immersion-pour-partager-son-expertise/
 publisher: Fraternité
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Michèl GUEDENON
 published: 2026-04-24
 date_precision: day

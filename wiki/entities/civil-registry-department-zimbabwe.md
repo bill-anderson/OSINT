@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: government-body
 title: Civil Registry Department (Zimbabwe)
 places: [ZWE]

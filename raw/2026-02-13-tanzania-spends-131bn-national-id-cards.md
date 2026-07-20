@@ -6,6 +6,7 @@ publisher: Tanzania Insight
 published: 2026-02-13
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [TZA]
 topics: [dpi.id, infra.store]
 entities: [[nida-tanzania]]

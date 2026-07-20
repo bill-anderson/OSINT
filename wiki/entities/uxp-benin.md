@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: resource
 title: UXP Benin (national data-exchange dashboard)
 places: [BEN]

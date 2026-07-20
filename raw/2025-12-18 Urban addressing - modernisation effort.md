@@ -10,6 +10,8 @@ ingested: 2026-07-17
 places: [TGO]
 topics: [dpi.registry, digital.localgov, gov.standards]
 entities: [[dagl-togo]]
+lens: []
+body_completeness: full
 ---
 
 (Translated from French; key terms kept.)

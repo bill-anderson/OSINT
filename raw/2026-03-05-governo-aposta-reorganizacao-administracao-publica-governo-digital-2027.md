@@ -3,6 +3,8 @@ type: source
 title: Governo aposta na reorganização da Administração Pública
 url: https://angop.ao/noticias/economia/ministro-defende-reorganizacao-da-administracao-publica-para-modernizacao-do-estado/
 publisher: Angop
+lens: []
+body_completeness: full
 author: MEL/CS
 published: 2026-03-05
 date_precision: day

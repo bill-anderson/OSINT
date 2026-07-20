@@ -13,6 +13,7 @@ places: [DJI]
 topics: [infra.cybersec, gov.policy]
 entities: [[national-cybersecurity-authority-djibouti]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- TechAfrica News, 9 Dec 2025. Ingested via the reconcile pass (REV-DJI-001): confirms the ANC's

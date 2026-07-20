@@ -3,6 +3,8 @@ type: source
 title: Anthropic’s Claude to bolster data sovereignty in SA
 url: https://www.itweb.co.za/article/anthropics-claude-to-bolster-data-sovereignty-in-sa-trendai/mYZRXv9gjl8MOgA8
 publisher: ITWeb
+date_precision: day
+date_source: source
 author: Chris Tredger
 published: 2026-07-09
 ingested: 2026-07-10
@@ -10,6 +12,7 @@ places: [ZAF]
 topics: [infra.store, tech.ai, gov.protect, gov.policy, gov.legislate]
 entities: [[anthropic], [trendai], [popia]]
 lens: [sovereignty]
+body_completeness: full
 ---
 ------
 

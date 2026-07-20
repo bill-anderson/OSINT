@@ -3,6 +3,8 @@ type: source
 title: "The Double Standard: Why Are Internet Governance Rules Different for Africa?"
 publisher: alicemunyua.substack.com (Gatekeepers series)
 url: https://alicemunyua.substack.com/p/the-double-standard-why-are-internet
+date_precision: day
+date_source: source
 author: Alice Munyua
 published: 2025-11-04
 accessed: 2026-07-12
@@ -11,6 +13,7 @@ places: [XAF]
 topics: [gov.regional, infra.connect, gov.policy]
 entities: [[alice-munyua], [icann], [afrinic], [caiga], [smart-africa], [african-union], [communications-authority-of-kenya]]
 lens: [sovereignty, colonialism]
+body_completeness: full
 ---
 
 <!-- Munyua: challenges ICANN for co-developing/funding Smart Africa's CAIGA (Continental Africa Internet Governance Architecture), which would let the Smart Africa Heads-of-State Summit politically endorse AFRINIC governance reforms and substitute political endorsement for member ratification — governmental capture of a community-governed RIR. 2024 ICANN/Smart Africa MoU; CAIGA presented at ICANN84 Dublin; blueprint drafted by a France-based third party. Region-level (XAF). External expert analysis. Attach: icann, afrinic, caiga, smart-africa. -->

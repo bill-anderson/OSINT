@@ -6,10 +6,12 @@ publisher: We Are Tech Africa
 published: 2026-05-16
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [DJI]
 topics: [include.divides, capacity.training, digital.rural, gov.policy]
 entities: [[vision-djibouti-2035]]
 lens: []
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: DJI-2026-07-17
 ---

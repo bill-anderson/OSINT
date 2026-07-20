@@ -3,6 +3,9 @@ type: source
 title: "Mintp : Des responsables outillés à l'utilisation de la plateforme RF-eTrust"
 url: https://leconomie.info/mintp-des-responsables-outilles-a-lutilisation-de-la-plateforme-rf-etrust/
 publisher: Le quotidien L'Economie
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Jean Daniel Obama
 published: 2025-07-07
 date_precision: day

@@ -6,6 +6,7 @@ publisher: Togo First
 published: 2026-04-21
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [TGO, XWA]
 topics: [infra.connect, gov.regional, include.divides, finance.new]
 entities: [[arcep-togo]]

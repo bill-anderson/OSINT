@@ -11,6 +11,7 @@ places: [XAF]
 topics: [tech.ai, gov.policy, gov.regional, gov.standards]
 entities: [[african-union], [au-continental-ai-strategy]]
 lens: [sovereignty]
+body_completeness: full
 artefact: "2024-07-01 Continental AI Strategy.pdf"
 ---
 

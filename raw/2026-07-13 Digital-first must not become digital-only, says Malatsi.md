@@ -12,6 +12,7 @@ places: [ZAF]
 topics: [include.divides, include.access, dpi.govtech, gov.policy]
 entities: [[solly-malatsi], [dcdt-south-africa], [mymzansi]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Digital-first must not become digital-only, says Malatsi | ITWeb

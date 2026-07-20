@@ -6,12 +6,14 @@ publisher: We Are Tech
 published: 2025-12-27
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 places: [DZA]
 topics: [dpi.pay, dpi.govtech, dpi.registry, gov.policy, tech.industry]
 entities: [[tabaakoum], [edahabia], [ministry-of-finance-algeria], [ministry-of-internal-trade-algeria], [gie-monetique]]
 lens: []
+body_completeness: full
 ---
 
 # Algeria Moves Business Registration Stamp Duties Online

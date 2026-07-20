@@ -2,6 +2,8 @@
 type: source
 title: "Liquid C2 launches Africa's first Google Cloud-powered Experience Centre"
 publisher: Cassava Technologies
+date_precision: day
+date_source: source
 author: Andy Higgins
 url: https://www.cassavatechnologies.com/liquid-c2-launches-africas-first-google-cloud-powered-experience-centre-to-accelerate-ai-adoption/
 published: 2026-04-08
@@ -11,6 +13,7 @@ places: [ZAF, XAF]
 topics: [capacity.training, tech.ai, tech.innovate, infra.connect]
 entities: [[liquid-c2], [cassava-technologies], [google]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- First-party: Africa's first Google Cloud-powered Partner Experience Centre, Johannesburg

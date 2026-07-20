@@ -6,6 +6,7 @@ publisher: Tech Review Africa
 published: 2026-03-30
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 provenance_flag: pr-wire
@@ -13,6 +14,7 @@ places: [DZA, NER]
 topics: [gov.regional, infra.connect, capacity.training]
 entities: [[algerian-niger-joint-grand-committee-for-cooperation], [ministry-of-posts-and-telecommunications-algeria], [ministry-of-communications-niger]]
 lens: []
+body_completeness: full
 ---
 
 **Primary source to obtain at ingest:** the communiqué of the second session of the

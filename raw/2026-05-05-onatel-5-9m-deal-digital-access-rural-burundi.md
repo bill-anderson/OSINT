@@ -3,6 +3,7 @@ type: source
 title: $5.9M ONATEL deal marks new push for digital access in rural Burundi
 url: https://www.burunditimes.com/5-9m-onatel-deal-marks-new-push-for-digital-access-in-rural-burundi/
 publisher: Burundi Times
+ingested: 2026-07-18
 author: Burundi Times
 published: 2026-05-05
 date_precision: day
@@ -13,6 +14,7 @@ places: [BDI]
 topics: [infra.connect, digital.rural, include.divides, include.access, finance.mou]
 entities: [[setic-burundi], [onatel-burundi], [pafen-burundi]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # $5.9M ONATEL deal marks new push for digital access in rural Burundi

@@ -11,6 +11,7 @@ places: [ETH]
 topics: [dpi.govtech, gov.policy, data.statistics]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 # E-tax adoption and tax compliance in Ethiopia (ICTD Working Paper 180)

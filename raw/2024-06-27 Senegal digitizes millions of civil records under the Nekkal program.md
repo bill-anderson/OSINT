@@ -11,6 +11,7 @@ places: [SEN]
 topics: [dpi.registry, dpi.id, dpi.govtech, geopol.eu]
 entities: [[nekkal-programme], [anec-senegal]]
 lens: []
+body_completeness: full
 ---
 
 # Senegal digitizes millions of civil records to improve citizen rights and public policy

@@ -6,12 +6,14 @@ publisher: Fraternité Matin
 published: 2025-08-15
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [dpi.pay, dpi.govtech]
 entities: [[tresor-public-cote-divoire], [tresorpay-tresormoney], [ceges-tptm], [pagds]]
 lens: []
+body_completeness: full
 ---
 
 # Côte d'Ivoire : Le Trésor Public accélère la digitalisation des dépenses publiques avec TrésorPay–TrésorMoney

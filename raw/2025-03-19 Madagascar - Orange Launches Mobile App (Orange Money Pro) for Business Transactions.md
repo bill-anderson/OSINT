@@ -13,6 +13,7 @@ places: [MDG]
 topics: [dpi.pay, include.access]
 entities: [[orange]]
 lens: []
+body_completeness: full
 ---
 
 Orange Madagascar introduced Orange Money Pro on 18 March 2025, a mobile application for merchants and distributors to streamline financial-transaction management and improve the mobile-money experience for professionals.

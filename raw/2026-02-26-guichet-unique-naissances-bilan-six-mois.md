@@ -3,6 +3,9 @@ type: source
 title: "Guichet unique de déclaration des naissances au Bénin : un bond spectaculaire du taux d'enregistrement en six mois"
 url: https://fraternite.bj/guichet-unique-de-declaration-des-naissances-au-benin-un-bond-spectaculaire-du-taux-denregistrement-en-six-mois/
 publisher: Fraternité
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Isac YAI
 published: 2026-02-26
 date_precision: day

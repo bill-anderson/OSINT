@@ -13,6 +13,7 @@ places: [MUS]
 topics: [data.statistics]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 DataReportal's Digital 2024: Mauritius report — the annual connectivity baseline. Early-2024 headline figures:

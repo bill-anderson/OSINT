@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: resource
 title: DHIS2
 places: [XGL, XAF, ETH, RWA, TZA, MWI, KEN, NGA, EGY, GNQ, GMB]

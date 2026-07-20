@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: organisation
 title: World Intellectual Property Organization (WIPO)
 places: [XGL, SYC]

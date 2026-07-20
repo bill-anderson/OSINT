@@ -6,6 +6,7 @@ publisher: Times of Eswatini
 published: 2026-07-05
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [SWZ]
 topics: [gov.policy, tech.ai, dpi.govtech, geopol.usa]
 entities: [[ministry-of-ict-eswatini], [google], [government-in-your-hand], [digital-eswatini-project]]

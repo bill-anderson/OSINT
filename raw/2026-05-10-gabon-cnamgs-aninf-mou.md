@@ -6,9 +6,12 @@ publisher: Tech Review Africa
 published: 2026-05-10
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [GAB]
 topics: [dpi.mis, infra.cybersec]
 entities: [[aninf-gabon]]
+lens: []
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: GAB-2026-07-17
 provenance_flag: pr-wire

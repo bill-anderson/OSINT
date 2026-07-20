@@ -6,6 +6,7 @@ publisher: TechAfrica News
 published: 2026-04-07
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [NGA]
 topics: [gov.protect, infra.cybersec]
 entities: [[ndpc], [remita], [sterling-bank]]

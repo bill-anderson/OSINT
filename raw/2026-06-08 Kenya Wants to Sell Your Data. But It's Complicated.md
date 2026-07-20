@@ -3,6 +3,8 @@ type: source
 title: "Kenya Wants to Sell Your Data. But It’s Complicated."
 publisher: Rose M. Mutiso (rosemutiso.substack.com)
 url: https://rosemutiso.substack.com/p/kenya-wants-to-sell-your-data-but
+date_precision: day
+date_source: source
 author: Rose M. Mutiso
 published: 2026-06-08
 accessed: 2026-07-12
@@ -11,6 +13,7 @@ places: [KEN]
 topics: [gov.protect, data.open, gov.policy, dpi.exchange, dpi.govtech, geopol.eu]
 entities: [[kenya-data-marketplace], [odpc-kenya], [european-union], [giz], [rose-mutiso]]
 lens: [sovereignty, colonialism]
+body_completeness: full
 ---
 
 <!-- External expert analysis. Reads Kenya's Draft Final National Data Governance Policy (May 2026) behind the "Kenya to sell your data" headline: the data marketplace (licensing anonymised/aggregated non-personal datasets for revenue) is a small part of a larger interoperability reform; flags weak anonymisation, non-consent given mandatory eCitizen use, vague benefit-sharing, implausible Jul-2026 phased rollout. EU + German (GIZ) technical assistance whose own frameworks (Data Governance Act, GDPR) would bar the same reuse -> colonialism lens. Attach to kenya-data-marketplace, odpc-kenya, kenya--gov-protect. -->

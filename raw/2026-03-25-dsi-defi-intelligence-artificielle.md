@@ -3,6 +3,7 @@ type: source
 title: "Transformation numérique: Les Dsi face au défi de l'intelligence artificielle"
 url: https://lanation.bj/actualites/transformation-numerique-les-dsi-face-au-defi-de-lintelligence-artificielle
 publisher: La Nation
+ingested: 2026-07-18
 author: Joël C. Tokponou
 published: 2026-03-25
 date_precision: day
@@ -13,6 +14,7 @@ places: [BEN]
 topics: [tech.ai, dpi.govtech, gov.policy, infra.cybersec, gov.protect]
 entities: [[asin-benin], [marc-andre-loko], [merry-toi-milonon], [code-du-numerique-benin]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Transformation numérique: Les Dsi face au défi de l'intelligence artificielle

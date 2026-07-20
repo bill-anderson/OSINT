@@ -3,6 +3,8 @@ type: source
 title: "Gabon Inaugurates First Tier III Datacenter to Boost Digital Sovereignty"
 publisher: TechAfrica News
 url: https://techafricanews.com/2026/07/06/gabon-inaugurates-first-tier-iii-datacenter-to-boost-digital-sovereignty/
+date_precision: day
+date_source: source
 author: Jennifer Onyeagoro
 published: 2026-07-06
 accessed: 2026-07-10
@@ -11,6 +13,7 @@ places: [GAB, XCA]
 topics: [infra.store, infra.cybersec, tech.ai, tech.innovate, gov.policy, finance.mou]
 entities: [[st-digital-gabon]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- On-the-record reporting of a government inauguration + MoU. Admissible. GAB primary;

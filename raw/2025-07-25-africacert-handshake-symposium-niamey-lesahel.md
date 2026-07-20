@@ -6,6 +6,7 @@ publisher: Le Sahel (ONEP)
 published: 2025-07-25
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [NER]
 topics: [infra.cybersec, gov.policy, gov.regional, capacity.training]
 entities: [[africacert], [ansi-niger], [alliance-of-sahel-states]]

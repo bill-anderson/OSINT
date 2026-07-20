@@ -3,6 +3,10 @@ type: source
 title: "Amphithéâtre virtuel : l'université qui vient aux populations"
 url: https://fraternite.bj/amphitheatre-virtuel-luniversite-qui-vient-aux-populations/
 publisher: Fraternité
+ingested: 2026-07-18
+entities: []
+lens: []
+body_completeness: full
 author: Isac YAI
 published: 2026-07-08
 date_precision: day

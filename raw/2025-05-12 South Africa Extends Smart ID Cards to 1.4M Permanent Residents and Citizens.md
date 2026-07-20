@@ -3,6 +3,8 @@ type: source
 title: South Africa Extends Smart ID Cards to 1.4M Permanent Residents and Citizens
 url: https://idtechwire.com/south-africa-extends-smart-id-cards-to-1-4m-permanent-residents-and-citizens
 publisher: ID Tech (IDTechWire)
+lens: []
+body_completeness: full
 author: ID Tech Editorial Team
 published: 2025-05-12
 date_precision: day

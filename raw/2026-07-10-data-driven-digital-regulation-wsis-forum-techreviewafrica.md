@@ -6,12 +6,14 @@ publisher: Tech Review Africa
 published: 2026-07-10
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [gov.policy, gov.standards, gov.regional, data.statistics]
 entities: [[artci], [roger-felix-adom], [wsis]]
 lens: []
+body_completeness: full
 provenance_flag: pr-wire
 primary_to_source: ARTCI communiqué on the WSIS Forum 2026 high-level African regulators' meeting; the WSIS Forum session record
 ---

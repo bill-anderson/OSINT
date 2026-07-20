@@ -4,11 +4,14 @@ title: MOSIP accredits Fime for biometric device testing
 url: https://www.biometricupdate.com/202606/mosip-accredits-fime-for-biometric-device-testing
 publisher: Biometric Update
 published: 2026-06-09
+date_precision: day
+date_source: source
 ingested: 2026-07-10
 places: [XGL, XAF]
 topics: [dpi.id, gov.standards, infra.cybersec]
 entities: [[mosip]]
 lens: [sovereignty]
+body_completeness: full
 ---
 Accreditation allows Fime to validate biometric devices used in MOSIP-based national digital identity programs
 

@@ -3,6 +3,8 @@ type: source
 title: "CBN's local data order puts Nigeria's data centres to test"
 publisher: TechCabal
 url: https://techcabal.com/2026/07/07/cbns-local-data-order-puts-nigerias-data-centres-to-test/
+date_precision: day
+date_source: source
 author: Frank Eleanya
 published: 2026-07-07
 accessed: 2026-07-10
@@ -11,6 +13,7 @@ places: [NGA]
 topics: [gov.protect, gov.legislate, infra.store, dpi.pay, geopol.usa, infra.energy, tech.ai]
 entities: [[cbn]]
 lens: [sovereignty, colonialism]
+body_completeness: full
 ---
 
 <!-- On-the-record reporting on the CBN data-localization directive + industry-readiness

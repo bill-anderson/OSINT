@@ -3,6 +3,9 @@ type: source
 title: "Burkina Faso : Orange Money et la BSIC interconnectent comptes bancaires et portefeuilles mobiles"
 url: https://lefaso.net/spip.php?article138630
 publisher: leFaso.net
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Hanifa Koussoubé
 published: 2025-06-05
 date_precision: day

@@ -6,12 +6,14 @@ publisher: Mediaguinee
 published: 2026-05-21
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: GIN-2026-07-17
 places: [GIN]
 topics: [infra.connect, gov.legislate, include.access]
 entities: [[fesatel], [arpt-guinea]]
 lens: []
+body_completeness: full
 ---
 
 # Interdiction des activités des Wifi-Zones et restriction du FTTH : la FESATEL hausse le ton et menace d'une grève

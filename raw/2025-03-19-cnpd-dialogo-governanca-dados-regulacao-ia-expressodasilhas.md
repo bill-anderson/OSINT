@@ -6,10 +6,12 @@ publisher: Expresso das Ilhas
 published: 2025-03-19
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [CPV]
 topics: [gov.protect, tech.ai, gov.legislate, gov.policy]
 entities: [[cnpd], [faustino-varela], [gov-cv]]
 lens: [sovereignty]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: CPV-2026-07-17
 ---

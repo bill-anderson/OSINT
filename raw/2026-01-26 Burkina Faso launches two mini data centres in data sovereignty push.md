@@ -13,6 +13,7 @@ places: [BFA]
 topics: [infra.store, dpi.govtech]
 entities: [[pactdigital]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Merges Developing Telecoms (2026-01-26) + DatacenterDynamics (2026-01-27) — one event, two outlets (dedup). Burkina Faso inaugurated two government mini/modular data centres in Ouagadougou (commissioned by PM Rimtalba Jean Emmanuel Ouédraogo, via the Ministry of Digital Transition). Combined ~3PB (3,000TB) storage, 105.6TB memory, 28,800 CPU cores; >7,000 VMs — a ~10× increase on prior national capacity; each ministry gets 100-300 VMs for its platforms. Cost ~16bn FCFA ($29m); projected savings ~30bn FCFA ($54m) over five years by cutting reliance on international hosting. A concrete data-sovereignty/data-localisation move. Ties to PACTDIGITAL. DCD URL: datacenterdynamics.com/en/news/govt-of-burkina-faso-launches-two-mini-data-centers-to-support-data-sovereignty. -->

@@ -3,6 +3,7 @@ type: source
 title: "RCA : Orange lance la 4G pour répondre à la demande croissante en connectivité"
 url: https://www.wearetech.africa/fr/fils/actualites/telecom/rca-orange-lance-la-4g-pour-repondre-a-la-demande-croissante-en-connectivite
 publisher: We Are Tech Africa
+ingested: 2026-07-18
 author: Samira Njoya (edited by Sèna D. B. de Sodji)
 published: 2025-05-19
 date_precision: day

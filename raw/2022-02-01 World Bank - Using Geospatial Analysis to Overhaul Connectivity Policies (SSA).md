@@ -13,6 +13,7 @@ places: [XSS, XAF]
 topics: [infra.connect, include.divides, data.satellite]
 entities: [[world-bank]]
 lens: []
+body_completeness: full
 ---
 
 <!-- COMPANION SOURCE PAGE for binary raw/2022-02-01 World Bank - Using Geospatial Analysis to Overhaul Connectivity Policies (SSA).pdf (66pp; Feb 2022). World Bank methodology report on using geospatial analysis to expand mobile-internet coverage and adoption across Sub-Saharan Africa — CONTINENTAL (XSS/XAF), not DRC-specific (arrived via the DRC digital-project bundle P165747). Historical baseline (2022); held as a regional connectivity-policy reference; figures not promoted. -->

@@ -4,12 +4,15 @@ title: "CNN Marketplace Africa sits down with Strive Masiyiwa"
 publisher: CNN Marketplace Africa (via Econet Africa)
 url: https://www.econetafrica.com/news/cnn-marketplace-africa-sits-down-with-strive-masiyiwa
 published: 2014-06-03
+date_precision: day
+date_source: source
 accessed: 2026-06-12
 ingested: 2026-07-10
 places: [ZWE, XAF]
 topics: [infra.connect, dpi.pay, include.access]
 entities: [[strive-masiyiwa], [econet-wireless]]
 lens: []
+body_completeness: full
 ---
 
 <!-- 2014 first-party interview (republished on Econet's site). Orphan-support "~30,000 at any

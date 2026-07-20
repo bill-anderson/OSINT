@@ -6,10 +6,12 @@ publisher: Intelligent CIO Africa
 published: 2026-05-08
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [MDG]
 topics: [dpi.registry, tech.ai]
 entities: [[studia-inc]]
 lens: []
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: MDG-2026-07-17
 ---

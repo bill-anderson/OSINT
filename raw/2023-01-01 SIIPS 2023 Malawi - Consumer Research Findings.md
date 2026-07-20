@@ -13,6 +13,7 @@ places: [MWI]
 topics: [dpi.pay, include.access]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 Malawi country consumer-research findings from the State of Inclusive Instant Payments in Africa (SIIPS) 2023 report, an AfricaNenda initiative with the World Bank and UN Economic Commission for Africa (second edition; consumer research conducted May-June 2023 across Cameroon, Malawi, Morocco, Rwanda and Senegal). No explicit publication date on the extract - year proxy.

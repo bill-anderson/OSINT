@@ -3,6 +3,7 @@ type: source
 title: "Loi sur la cybersécurité : le président de la HAC précise son application aux web-médias"
 url: https://aminata.com/guinee_loi-sur-la-cybersecurite-le-president-de-haute-autorite-de-la-communication-apporte-des-precisions/
 publisher: Aminata.com
+ingested: 2026-07-18
 author: Bah Mamadou Baïlo
 published: 2025-07-26
 date_precision: day
@@ -13,6 +14,7 @@ places: [GIN]
 topics: [infra.cybersec, gov.legislate]
 entities: [[hac-guinea]]
 lens: []
+body_completeness: full
 ---
 
 # Guinée_Loi sur la cybersécurité : le président de la Haute Autorité de la Communication apporte des précisions

@@ -3,6 +3,7 @@ type: source
 title: Govt moves to 'in-house' local data
 url: https://www.mmegi.bw/business/govt-moves-to-in-house-local-data/news
 publisher: Mmegi
+ingested: 2026-07-18
 author: Mbongeni Mguni
 published: 2025-11-25
 date_precision: day
@@ -13,6 +14,7 @@ places: [BWA]
 topics: [gov.protect, gov.legislate, infra.store, dpi.govtech]
 entities: [[david-tshere], [ministry-of-communications-and-innovation-botswana], [bofinet], [digital-delta-data-centre], [botswana-data-protection-act]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Govt moves to 'in-house' local data

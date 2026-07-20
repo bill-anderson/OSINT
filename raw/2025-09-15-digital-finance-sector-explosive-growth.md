@@ -6,6 +6,7 @@ publisher: TechAfrica News
 published: 2025-09-15
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [ZWE]
 topics: [dpi.pay, finance.new, data.statistics]
 entities: [[reserve-bank-of-zimbabwe], [zimswitch]]

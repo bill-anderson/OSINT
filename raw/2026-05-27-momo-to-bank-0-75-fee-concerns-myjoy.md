@@ -6,12 +6,14 @@ publisher: MyJoyOnline
 published: 2026-05-27
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: GHA-2026-07-17
 places: [GHA]
 topics: [dpi.pay, gov.policy]
 entities: [[bank-of-ghana]]
 lens: []
+body_completeness: full
 ---
 # The proposed imposition of a 0.75% fee on Mobile Money-To-Bank transfers raises serious concerns regarding fairness, financial inclusion, and the underlying principle of interoperability within the digital financial ecosystem
 

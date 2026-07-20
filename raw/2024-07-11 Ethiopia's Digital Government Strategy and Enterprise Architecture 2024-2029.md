@@ -11,6 +11,7 @@ places: [ETH]
 topics: [dpi.govtech, gov.policy, dpi.exchange]
 entities: [[insa-ethiopia]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Ethiopia's Digital Government Strategy and Enterprise Architecture 2024–2029

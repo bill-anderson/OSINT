@@ -3,6 +3,9 @@ type: source
 title: Benin Expands AI Education With First National Olympiad
 url: https://www.wearetech.africa/en/fils-uk/news/tech/benin-expands-ai-education-with-first-national-olympiad
 publisher: We Are Tech Africa
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Adoni Conrad Quenum
 published: 2026-06-29
 date_precision: day

@@ -6,6 +6,7 @@ publisher: Business Times
 published: 2026-05-14
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [ZWE]
 topics: [gov.protect, gov.legislate]
 entities: [[potraz]]

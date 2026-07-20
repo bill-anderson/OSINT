@@ -3,6 +3,7 @@ type: source
 title: At Cyber Africa Forum, Africa's tech ministers push for sovereign data infrastructure, enhanced cybersecurity
 url: https://techcabal.com/2025/07/02/tech-ministers-cyber-africa-forum/
 publisher: TechCabal
+ingested: 2026-07-18
 author: Faith Omoniyi
 published: 2025-07-02
 date_precision: day
@@ -13,6 +14,7 @@ places: [BEN, CIV, COG]
 topics: [gov.policy, infra.store, infra.cybersec, dpi.exchange, capacity.training, tech.innovate]
 entities: [[asin], [cyber-africa-forum], [ifc], [world-bank], [african-development-bank]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # At Cyber Africa Forum, Africa's tech ministers push for sovereign data infrastructure, enhanced cybersecurity

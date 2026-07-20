@@ -3,6 +3,7 @@ type: source
 title: Congo Recommits to Digital Transformation Goals for 2025
 url: https://www.wearetech.africa/en/fils-uk/tech-stars/congo-recommits-to-digital-transformation-goals-for-2025
 publisher: We Are Tech Africa
+ingested: 2026-07-18
 author: Samira Njoya
 published: 2025-01-23
 date_precision: day
@@ -11,6 +12,7 @@ places: [COG]
 topics: [gov.policy, infra.connect, include.divides, capacity.training, dpi.govtech]
 entities: [[patn-congo], [arpce-congo], [congo-digital-strategy-2030]]
 lens: [sovereignty]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: COG-2026-07-17
 ---

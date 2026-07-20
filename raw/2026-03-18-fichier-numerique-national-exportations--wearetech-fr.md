@@ -6,12 +6,14 @@ publisher: We Are Tech
 published: 2026-03-18
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 places: [DZA]
 topics: [dpi.registry, data.statistics, tech.industry]
 entities: [[ministry-of-foreign-trade-algeria], [kamel-rezig]]
 lens: []
+body_completeness: full
 ---
 
 # Algérie : un fichier numérique national pour recenser les biens et services destinés à l'exportation

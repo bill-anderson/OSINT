@@ -3,6 +3,8 @@ type: source
 title: "The rise of cheques as Kenya's preferred payment method"
 publisher: ITWeb Africa
 url: "https://itweb.africa/article/the-rise-of-cheques-as-kenyas-preferred-payment-method/wbrpOqg2aBXMDLZn"
+date_precision: day
+date_source: source
 author: Phathisani Moyo
 published: 2026-01-13
 accessed: 2026-07-12
@@ -11,6 +13,7 @@ places: [KEN, BFA, ZMB, SYC, GHA]
 topics: [dpi.pay]
 entities: [[central-bank-of-kenya], [safaricom], [pesalink]]
 lens: []
+body_completeness: excerpt
 ---
 <!-- Despite M-PESA dominance, cheques still move ~$17bn/yr in Kenya (11 mths to Nov 2025 avg ~$1.57bn/mth); CBK favours reform over abolition to protect inclusion; cheques clear in 1 day (vs 5 in 2011), capped $7,750. Continental trend the other way: Burkina Faso ended cheques in public entities Oct 2025; Zambia stops June 2026; Seychelles/Ghana tightening. Attach: [[central-bank-of-kenya]], safaricom, pesalink, KEN hub (+ light BFA/ZMB/SYC/GHA). -->
 

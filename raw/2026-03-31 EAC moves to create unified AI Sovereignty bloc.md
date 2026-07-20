@@ -3,6 +3,8 @@ type: source
 title: "EAC moves to create unified AI Sovereignty bloc"
 publisher: ITWeb Africa
 url: https://itweb.africa/article/eac-moves-to-create-unified-ai-sovereignty-bloc/
+date_precision: day
+date_source: source
 author: Phyllis Birori
 published: 2026-03-31
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [XEA, RWA, KEN, TZA, UGA]
 topics: [gov.regional, tech.ai, gov.policy, gov.standards]
 entities: [[eac], [paula-ingabire]]
 lens: [sovereignty]
+body_completeness: excerpt
 ---
 
 <!-- 4th EAC Regional STI Conference (Kigali) explores a regional AI Policy Roadmap to harmonise rules across the 8-member bloc. Rwanda ICT minister Paula Ingabire on data sovereignty: value from AI in East Africa should accrue to East Africans. 'AI Sovereignty bloc' framing is aspirational. -->

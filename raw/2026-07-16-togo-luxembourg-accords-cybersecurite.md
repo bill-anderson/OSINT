@@ -6,6 +6,7 @@ publisher: Togo First
 published: 2026-07-16
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [TGO]
 topics: [infra.cybersec, finance.mou, gov.policy]
 entities: [[cina-lawson], [luxembourg-government]]

@@ -13,6 +13,7 @@ places: [LBR]
 topics: [dpi.id, gov.legislate]
 entities: [[national-identification-registry-liberia]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Second outlet on Executive Order 147 (signed 28 April 2025). Mandatory NBIS enrollment for citizens + 90-day+ residents; tackles identity fraud, illegal migration, impersonation. Foreigner ID card enables SIM registration + residency verification. Implemented by NIR with govt + private partners; access to banking, healthcare, education. Fees set by Board of Registrars. All ministries/agencies must use NIR database for verification. Data handling per Liberia's data-protection legislation. Dedup with 2025-04-30 ID Tech (signing dates 28 vs late April). -->

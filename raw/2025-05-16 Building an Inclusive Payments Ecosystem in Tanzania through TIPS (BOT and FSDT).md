@@ -7,6 +7,8 @@ published: 2025-05-16
 date_precision: day
 date_source: proxy
 ingested: 2026-07-17
+lens: []
+body_completeness: full
 artefact: "2025-05-16 Building an Inclusive Payments Ecosystem in Tanzania through TIPS (BOT and FSDT).pdf"
 places: [TZA]
 topics: [dpi.pay, dpi.exchange, include.access, gov.standards]

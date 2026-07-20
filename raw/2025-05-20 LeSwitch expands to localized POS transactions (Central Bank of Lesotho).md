@@ -13,6 +13,7 @@ places: [LSO]
 topics: [dpi.pay, include.access]
 entities: [[leswitch]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- CBL + leading banks introduced localized POS transactions under LeSwitch, following ATM localization (Oct 2024). Effective 11 May 2025, POS rolled out as a pilot, gradually onboarding merchants/customers toward nationwide. Basotho can transact on any POS with debit cards regardless of bank. Standard Lesotho Bank's Samuel Koetle: LeSwitch (formerly National Payment Switch) conceptualized 2016; 2021 instant payments bank↔mobile money (M-Pesa, Khetsi); 2023 domesticated ATM cards; Oct 2024 LeSwitch-enabled ATM pilot. By early 2025 all local debit/credit card transactions fully facilitated locally — reduces fees, improves accessibility. Next phase: e-commerce + retail. International payments via Visa/Mastercard. -->

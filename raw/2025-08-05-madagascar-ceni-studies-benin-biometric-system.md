@@ -3,6 +3,7 @@ type: source
 title: "Réforme électorale : la CENI de Madagascar étudie le système béninois"
 url: https://fraternite.bj/reforme-electorale-la-ceni-de-madagascar-etudie-le-systeme-beninois/
 publisher: Fraternité
+ingested: 2026-07-18
 author: Isac YAI
 published: 2025-08-05
 date_precision: day
@@ -13,6 +14,7 @@ places: [BEN, MDG]
 topics: [dpi.id, gov.regional, dpi.govtech, capacity.training]
 entities: [[cena-benin], [ceni-madagascar], [undp], [cour-constitutionnelle-madagascar], [arsene-retaf-andrianarisedo-dama], [laurentine-adossou-davo]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Réforme électorale : la CENI de Madagascar étudie le système béninois

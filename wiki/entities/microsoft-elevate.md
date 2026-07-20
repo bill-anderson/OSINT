@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: initiative
 title: Microsoft Elevate
 places: [ZAF, XSS]

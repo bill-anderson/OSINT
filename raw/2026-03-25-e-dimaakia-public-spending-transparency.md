@@ -3,6 +3,9 @@ type: source
 title: Burkina Faso Introduces Digital System to Enhance Transparency in Public Spending
 url: https://techafricanews.com/2026/03/25/burkina-faso-introduces-digital-system-to-enhance-transparency-in-public-spending/
 publisher: TechAfrica News
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Editorial Team
 published: 2026-03-25
 date_precision: day

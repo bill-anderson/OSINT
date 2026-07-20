@@ -11,6 +11,7 @@ places: [ETH]
 topics: [dpi.pay, include.access, dpi.mis]
 entities: [[world-bank]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Leveraging e-payments for financial inclusion in Ethiopia (World Bank)

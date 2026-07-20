@@ -6,6 +6,7 @@ publisher: ITWeb Africa
 published: 2026-07-14
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [MWI]
 topics: [gov.protect, gov.legislate, gov.standards]
 entities: [[macra-malawi], [malawi-data-protection-act-2024]]

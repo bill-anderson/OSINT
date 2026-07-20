@@ -12,6 +12,7 @@ places: [NGA]
 topics: [dpi.id, dpi.govtech, dpi.mis]
 entities: [[nimc]]
 lens: []
+body_completeness: full
 ---
 
 # Agric Ministry adopts NIMC identity system to verify genuine farmers - Vanguard News

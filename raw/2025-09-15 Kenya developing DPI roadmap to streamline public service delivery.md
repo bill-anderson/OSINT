@@ -13,6 +13,7 @@ places: [KEN]
 topics: [dpi.govtech, dpi.id, dpi.pay, gov.policy]
 entities: [[kenya-dpi-roadmap], [maisha-namba], [kenya-national-digital-masterplan]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Kenya developing a DPI roadmap; Ministry of ICT/Digital Economy breakfast with stakeholders + EU/GIZ. Rep of PS Mary Kerema: foundation for public-service delivery, digital innovation, cross-border digital trade. Five pillars: inclusivity, trust, innovation, interoperability, sustainability. Kenya already has Maisha Namba national ID + M-Pesa payments; roadmap makes these more impactful. Follows the National AI Strategy 2025-2030; National Data Governance policy planned. Part of the Kenya National Digital Masterplan 2022-2032. Cluster with KICTANet launch. -->

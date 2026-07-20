@@ -12,6 +12,7 @@ places: [MOZ]
 topics: [dpi.id, dpi.registry, include.access]
 entities: [[edge-mozambique], [dnic-mozambique], [world-bank]]
 lens: []
+body_completeness: full
 ---
 
 World Bank feature on Mozambique's free-ID campaign. More than one in every two people in Mozambique lack official proof of identity (nearly 13 million+), blocking access to education, professional qualifications, land, bank accounts, formal employment and business registration.

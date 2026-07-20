@@ -6,6 +6,7 @@ publisher: Le N'Djam Post
 published: 2025-01-08
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: TCD-2026-07-17

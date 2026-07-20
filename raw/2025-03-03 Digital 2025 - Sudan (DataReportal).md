@@ -10,6 +10,8 @@ ingested: 2026-07-16
 places: [SDN]
 topics: [infra.connect, include.divides]
 entities: [[gsma]]
+lens: []
+body_completeness: full
 ---
 
 # Digital 2025: Sudan (DataReportal)

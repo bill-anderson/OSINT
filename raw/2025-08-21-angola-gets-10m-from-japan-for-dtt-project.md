@@ -3,6 +3,9 @@ type: source
 title: Angola gets $10m from Japan for DTT project
 url: https://itweb.africa/article/angola-gets-10m-from-japan-for-dtt-project/KBpdgvpmlj17LEew
 publisher: ITWeb Africa
+entities: []
+lens: []
+body_completeness: full
 author: Lezeth Khoza
 published: 2025-08-21
 date_precision: day

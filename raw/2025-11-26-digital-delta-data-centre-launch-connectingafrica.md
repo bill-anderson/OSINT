@@ -3,6 +3,7 @@ type: source
 title: Botswana launches Tier III certified carrier-neutral data center
 url: https://www.connectingafrica.com/data-centers/botswana-launches-tier-iii-certified-carrier-neutral-data-center
 publisher: Connecting Africa
+ingested: 2026-07-18
 author: Matshepo Sehloho
 published: 2025-11-26
 date_precision: day
@@ -13,6 +14,7 @@ places: [BWA]
 topics: [infra.store, infra.connect, tech.industry]
 entities: [[bofinet], [digital-delta-data-centre], [david-tshere], [uptime-institute]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Botswana launches Tier III certified carrier-neutral data center

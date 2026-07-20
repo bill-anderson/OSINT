@@ -3,6 +3,7 @@ type: source
 title: "Cauridor (Guinea-based cross-border payments) appoints ex-Flutterwave exec Awa Koné as COO"
 url: https://techcabal.com/2026/04/14/cauridor-hires-ex-flutterwave-exec/
 publisher: TechCabal
+ingested: 2026-07-18
 author: Opeyemi Kareem
 published: 2026-04-14
 date_precision: day
@@ -13,6 +14,7 @@ places: [GIN]
 topics: [dpi.pay, finance.new, tech.industry]
 entities: [[cauridor]]
 lens: []
+body_completeness: full
 ---
 
 # Ex-Flutterwave executive Awa Koné joins Cauridor as Chief Operating Officer

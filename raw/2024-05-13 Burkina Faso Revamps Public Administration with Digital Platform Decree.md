@@ -13,6 +13,7 @@ places: [BFA]
 topics: [dpi.govtech, gov.policy]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 <!-- We Are Tech (May 2024): Burkina Faso's Council of Ministers approved a decree to standardise and streamline deployment of government information systems and digital platforms — reduce processing times, ease citizen access, fix past failures (inadequate pre-launch testing, platform incompatibility, poor inter-department communication). Championed by Digital Transition Minister Aminata Zerbo/Sabané. Aligned to the National Strategy for the Modernization of Public Administration (SNMAP) 2021-2025. Governance framework behind BFA's platform proliferation (Faso Arzêka, SYC@D, VENEEM, etc.). -->

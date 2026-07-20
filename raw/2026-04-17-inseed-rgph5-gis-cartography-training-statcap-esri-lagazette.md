@@ -6,10 +6,12 @@ publisher: La Gazette des Comores
 published: 2026-04-17
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [COM]
 topics: [data.statistics, data.satellite, capacity.training]
 entities: [[inseed-comores], [world-bank], [esri]]
 lens: []
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: COM-2026-07-17
 ---

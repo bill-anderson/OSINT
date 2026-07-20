@@ -3,6 +3,7 @@ type: source
 title: "Guinea launches TELEMO national digital public-procurement platform (Conakry, 22 May 2026)"
 url: https://techafricanews.com/2026/05/26/guinea-digitizes-public-procurement-with-launch-of-telemo-platform/
 publisher: TechAfrica News
+ingested: 2026-07-18
 author: TechAfrica News Editorial Team
 published: 2026-05-26
 date_precision: day
@@ -13,6 +14,7 @@ places: [GIN]
 topics: [dpi.govtech, gov.standards]
 entities: [[telemo], [simandou-2040]]
 lens: []
+body_completeness: full
 ---
 
 # Guinea Digitizes Public Procurement with Launch of TELEMO Platform

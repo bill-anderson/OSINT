@@ -12,6 +12,7 @@ places: [GNQ]
 topics: [gov.policy, dpi.id, dpi.pay, infra.connect, dpi.govtech, capacity.training]
 entities: [[equatorial-guinea-digital-economy-diagnostic], [world-bank], [adige]]
 lens: []
+body_completeness: full
 artefact: "2024-06-25 P1793391 Equatorial Guinea Digital Economy Diagnostic.pdf"
 ---
 

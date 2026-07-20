@@ -3,6 +3,7 @@ type: source
 title: Elon Musk's Starlink an existential threat to local telecoms sector?
 url: https://www.sundaystandard.info/elon-musks-starlink-an-existential-threat-to-local-telecoms-sector/
 publisher: Sunday Standard
+ingested: 2026-07-18
 author: Thobo Motlhoka
 published: 2025-02-05
 date_precision: day
@@ -13,6 +14,7 @@ places: [BWA]
 topics: [infra.connect, tech.industry, geopol.usa, dpi.pay]
 entities: [[starlink], [statistics-botswana]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Elon Musk's Starlink an existential threat to local telecoms sector?

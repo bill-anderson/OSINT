@@ -3,6 +3,7 @@ type: source
 title: Cameroon expands education digitalization with student digital ID program
 url: https://www.biometricupdate.com/202606/cameroon-expands-education-digitalization-with-student-digital-id-program
 publisher: Biometric Update
+ingested: 2026-07-18
 author: Ayang Macdonald
 published: 2026-06-11
 date_precision: day
@@ -11,6 +12,7 @@ places: [CMR]
 topics: [dpi.id, dpi.mis, dpi.pay, include.access, finance.mou]
 entities: [[mtn-cameroon], [mtn-mobile-money-corporation], [ministry-of-secondary-education-cameroon]]
 lens: [sovereignty]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: CMR-2026-07-17
 ---

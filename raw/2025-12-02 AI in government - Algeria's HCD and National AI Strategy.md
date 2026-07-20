@@ -11,6 +11,7 @@ places: [DZA]
 topics: [tech.ai, gov.policy, dpi.govtech]
 entities: [[high-commission-digitalisation-algeria], [algeria-national-ai-strategy], [digital-algeria-2030], [algeria-digital-id-trust-law]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # AI in government — Algeria's High Commission for Digitalisation and National AI Strategy

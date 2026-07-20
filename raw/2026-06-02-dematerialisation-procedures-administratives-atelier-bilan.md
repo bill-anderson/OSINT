@@ -3,6 +3,9 @@ type: source
 title: "Dématérialisation des procédures administratives: un atelier pour faire le bilan de sa mise en œuvre"
 url: https://www.sidwaya.info/dematerialisation-des-procedures-administratives-un-atelier-pour-faire-le-bilan-de-sa-mise-en-oeuvre/
 publisher: Sidwaya
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Adaman DRABO
 published: 2026-06-02
 date_precision: day

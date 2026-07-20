@@ -6,6 +6,7 @@ publisher: TechnoMag
 published: 2026-06-30
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [ZWE, ZAF]
 topics: [tech.ai, infra.store, geopol.usa, finance.new]
 entities: [[strive-masiyiwa], [james-manyika], [liquid-c2], [econet-group], [google], [cassava-technologies]]

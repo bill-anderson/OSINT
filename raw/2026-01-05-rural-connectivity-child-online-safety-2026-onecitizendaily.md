@@ -3,6 +3,7 @@ type: source
 title: South Sudan Targets Rural Connectivity, Child Online Safety in 2026 Digital Transformation Push
 url: https://www.onecitizendaily.com/index.php/2026/01/05/south-sudan-targets-rural-connectivity-child-online-safety-in-2026-digital-transformation-push/
 publisher: One Citizen Daily
+ingested: 2026-07-19
 author: Alan Clement
 published: 2026-01-05
 date_precision: day

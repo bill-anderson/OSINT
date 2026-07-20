@@ -3,6 +3,7 @@ type: source
 title: "Transformation digitale: le Burkina Faso trace sa voie vers un avenir inclusif"
 url: https://www.sidwaya.info/transformation-digitale-le-burkina-faso-trace-sa-voie-vers-un-avenir-inclusif/
 publisher: Sidwaya
+ingested: 2026-07-18
 author: DCRP – MTDPCE
 published: 2025-11-11
 date_precision: day
@@ -13,6 +14,7 @@ places: [BFA]
 topics: [gov.policy, dpi.govtech, infra.store, infra.connect, dpi.id, dpi.pay, infra.cybersec, tech.ai, capacity.literacy, include.divides, finance.new]
 entities: [[aminata-zerbo-sabane], [ibrahim-traore], [world-bank], [pactdigital], [spivten]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Transformation digitale: le Burkina Faso trace sa voie vers un avenir inclusif

@@ -10,6 +10,7 @@ ingested: 2026-07-20
 places: [UGA]
 topics: [dpi.id, gov.policy]
 entities: [[parliament-of-uganda], [cosase-uganda], [veridos], [uganda-printing-and-publishing-corporation], [ministry-of-finance-planning-and-economic-development-uganda]]
+lens: []
 body_completeness: full
 ---
 

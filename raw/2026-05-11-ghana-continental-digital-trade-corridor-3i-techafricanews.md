@@ -6,12 +6,14 @@ publisher: TechAfrica News
 published: 2026-05-11
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: GHA-2026-07-17
 places: [GHA]
 topics: [gov.regional, dpi.pay, dpi.exchange]
 entities: [[afcfta], [bank-of-ghana], [papss]]
 lens: [sovereignty]
+body_completeness: full
 ---
 # Ghana Champions Continental Digital Trade Corridor at 3i Africa Summit
 

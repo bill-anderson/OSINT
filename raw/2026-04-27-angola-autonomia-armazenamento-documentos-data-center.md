@@ -14,6 +14,7 @@ places: [AGO]
 topics: [infra.store, gov.protect, dpi.exchange, dpi.id]
 entities: [[infosi], [andre-pedro], [data-center-e-cloud-do-governo-angola], [raxio-data-centres], [ministerio-das-telecomunicacoes-tecnologias-de-informacao-e-comunicacao-social-angola]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Angola alcança autonomia no armazenamento de documentos pessoais com novo Data Center

@@ -6,12 +6,14 @@ publisher: Liberian Observer
 published: 2026-04-29
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: LBR-2026-07-17
 places: [LBR]
 topics: [dpi.govtech, dpi.exchange, gov.policy, gov.standards, infra.cybersec, gov.protect]
 entities: [[otdi-liberia], [central-bank-of-liberia]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Boakai's Executive Order 163 Signals Digital Government Shift

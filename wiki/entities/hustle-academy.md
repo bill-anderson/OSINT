@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: initiative
 title: Google Hustle Academy
 places: [XSS, NGA, KEN, ZAF]

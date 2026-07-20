@@ -12,6 +12,7 @@ places: [XAF, NAM, KEN, NGA, ZAF]
 topics: [dpi.id, dpi.pay, dpi.exchange, gov.protect, gov.regional, tech.ai, geopol.india, finance.mou]
 entities: [[csep], [auda-nepad], [research-ict-africa], [au-data-policy-framework], [malabo-convention]]
 lens: [sovereignty, colonialism]
+body_completeness: full
 ---
 
 # The Africa–India Blueprint for Growth

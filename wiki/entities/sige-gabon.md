@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: initiative
 title: SIGE (Education Management Information System, Gabon)
 places: [GAB]

@@ -1,10 +1,13 @@
 ---
 type: source
+ingested: 2026-07-17
 places: [NGA]
 topics: [infra.store, tech.ai, finance.new]
 entities: [[airtel-africa], [airtel-nxtra-eko-atlantic-data-centre]]
 date_precision: day
 date_source: source
+lens: []
+body_completeness: full
 page: Airtel Nigeria to build 38MW hyperscale data centre - Developing Telecoms
 title: Airtel Nigeria to build 38MW hyperscale data centre
 author: John Tanner

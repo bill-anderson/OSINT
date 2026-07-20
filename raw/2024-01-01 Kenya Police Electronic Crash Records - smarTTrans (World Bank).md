@@ -12,6 +12,7 @@ places: [KEN]
 topics: [dpi.govtech, data.statistics, dpi.mis]
 entities: [[world-bank]]
 lens: []
+body_completeness: full
 artefact: "2024-01-01 IDU Kenya Police Electronic Crash Records smarTTrans.pdf"
 ---
 

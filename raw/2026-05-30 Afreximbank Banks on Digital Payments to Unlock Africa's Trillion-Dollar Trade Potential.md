@@ -3,6 +3,8 @@ type: source
 title: "Afreximbank Banks on Digital Payments to Unlock Africa's Trillion-Dollar Trade Potential"
 publisher: Dawan Africa
 url: https://www.dawan.africa/news/afreximbank-banks-on-digital-payments
+date_precision: day
+date_source: source
 author: Kepher Otieno
 published: 2026-05-30
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [KEN, EGY, XAF, XSS]
 topics: [dpi.pay, dpi.exchange, gov.regional, finance.new]
 entities: [[afreximbank], [papss]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Afreximbank payments suite (PAPSS, PAPSSCARD, African Currency Marketplace), Egypt 30 May 2026; local-currency settlement to cut USD dependence; PAPSS x Kenya Pesalink. NB: body says President Oramah, caption 'George Elombi' - verify current president. -->

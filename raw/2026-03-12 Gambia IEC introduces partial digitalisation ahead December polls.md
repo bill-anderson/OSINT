@@ -13,6 +13,7 @@ places: [GMB]
 topics: [dpi.govtech, data.satellite]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 <!-- Gambia's Independent Electoral Commission (IEC) chairman Joseph Colley: preparing a digital system for the next presidential election to strengthen transparency and curb fake results. Plans a GIS to map all polling stations for the first time; digitalising polling stations so the public can access registration info; gradual transition to digital incl. results transmission; 65-inch screens for collation; tablets during the process with manual backups. -->

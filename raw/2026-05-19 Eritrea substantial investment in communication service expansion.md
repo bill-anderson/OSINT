@@ -13,6 +13,7 @@ places: [ERI]
 topics: [infra.connect, include.divides]
 entities: [[eritel]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 **Provenance note:** Shabait is the organ of Eritrea's Ministry of Information — a

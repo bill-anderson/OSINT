@@ -3,6 +3,8 @@ type: source
 title: "Tiara Pathon on Turning AI Literacy From a Privilege Into a Public Good"
 publisher: The African Innovators Series (Substack)
 url: https://reamby.substack.com/p/tiara-pathon-on-turning-ai-literacy
+date_precision: day
+date_source: source
 author: Rebecca Mbaya
 published: 2026-03-27
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [ZAF, XSS]
 topics: [tech.ai, capacity.training, capacity.literacy, include.divides, include.access]
 entities: [[microsoft], [tiara-pathon], [microsoft-elevate]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Interview: Tiara Pathon, SA National AI Skills Director at Microsoft Elevate; positions Elevate as 'connective tissue' for AI literacy; named partners SABC+, Civic AI, Ikamva Digital (with GIZ). First-hand quotes admissible; value is the person/initiative profile. -->

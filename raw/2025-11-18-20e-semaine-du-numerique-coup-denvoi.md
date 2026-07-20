@@ -3,6 +3,7 @@ type: source
 title: "20e édition de la Semaine du numérique : le président du Faso donne le coup d'envoi"
 url: https://www.sidwaya.info/20e-edition-de-la-semaine-du-numerique-le-president-du-faso-donne-le-coup-denvoi/
 publisher: Sidwaya
+ingested: 2026-07-18
 author: Boukary BONKOUNGOU
 published: 2025-11-18
 date_precision: day
@@ -13,6 +14,7 @@ places: [BFA]
 topics: [gov.policy, tech.ai, gov.regional, infra.store]
 entities: [[ibrahim-traore], [aminata-zerbo-sabane], [alliance-of-sahel-states], [ministere-transition-digitale-burkina-faso]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # 20e édition de la Semaine du numérique : le président du Faso donne le coup d'envoi

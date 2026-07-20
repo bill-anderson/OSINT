@@ -3,6 +3,8 @@ type: source
 title: "Africa's data centres rethink power as grids falter"
 publisher: The Punch
 url: https://punchng.com/africas-data-centres-rethink-power-as-grids-falter/
+date_precision: day
+date_source: source
 author: Justice Okamgba
 published: 2026-04-14
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [NGA, XAF]
 topics: [infra.store, infra.energy, tech.ai]
 entities: [[africa-data-centres], [liquid-c2]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- GITEX Africa panel: Nigeria has 'a little over 20' operational data centres (mostly Lagos). Schneider Electric's Hady Stephan: 'a grid-first approach cannot be Africa's strategy'. Operators (Liquid, Teraco, ADC) using hybrid grid+solar+battery+diesel. Backbone Connectivity + Mainstream Energy piloting compute co-located at a hydropower site. -->

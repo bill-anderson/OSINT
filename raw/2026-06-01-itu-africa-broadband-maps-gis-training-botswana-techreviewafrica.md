@@ -3,6 +3,9 @@ type: source
 title: ITU BDT drives Africa Broadband Maps project with subregional GIS training in Southern Africa
 url: https://techreviewafrica.com/news/5719/itu-bdt-drives-africa-broadband-maps-project-with-subregional-gis-training-in-southern-africa
 publisher: Tech Review Africa
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Kanto Kai Okanta
 published: 2026-06-01
 date_precision: day

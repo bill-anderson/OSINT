@@ -12,6 +12,7 @@ places: [RWA]
 topics: [dpi.pay, dpi.exchange, include.access]
 entities: [[ekash], [national-bank-of-rwanda], [rswitch-rwanda]]
 lens: []
+body_completeness: full
 ---
 
 # Rwanda's eKash System Achieves Full Interoperability for Digital Payments

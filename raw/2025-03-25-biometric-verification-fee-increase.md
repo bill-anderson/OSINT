@@ -6,6 +6,7 @@ publisher: Biometric Update
 published: 2025-03-25
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [ZAF]
 topics: [dpi.id, dpi.pay, gov.protect]
 entities: [[home-affairs-south-africa]]

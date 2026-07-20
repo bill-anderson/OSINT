@@ -3,6 +3,7 @@ type: source
 title: "Parting Clouds: Creating a Competitive Marketplace for Compute"
 publisher: Canadian Anti-Monopoly Project (CAMP)
 url: https://www.antimonopoly.ca/
+date_source: source
 author: David Eaves, Keldon Bester
 published: 2025
 date_precision: year
@@ -13,6 +14,7 @@ places: [XGL]
 topics: [tech.industry, infra.store, gov.standards, gov.legislate, geopol.usa, gov.policy]
 entities: [[david-eaves], [camp]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- SOURCE RECORD for the PDF `2025-01-01 Eaves commodification.pdf` (source of record). CAMP report,

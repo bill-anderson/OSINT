@@ -3,6 +3,7 @@ type: source
 title: Burundi Rolls Out Six-Pillar AI Strategy to Accelerate Digital Economy
 url: https://www.wearetech.africa/en/fils-uk/news/tech/burundi-rolls-out-six-pillar-ai-strategy-to-accelerate-digital-economy
 publisher: We Are Tech Africa
+ingested: 2026-07-18
 author: Samira Njoya
 published: 2026-04-23
 date_precision: day
@@ -13,6 +14,7 @@ places: [BDI]
 topics: [tech.ai, gov.policy, infra.store, capacity.training]
 entities: [[undp], [ministry-of-finance-budget-and-digital-economy-burundi]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Burundi Rolls Out Six-Pillar AI Strategy to Accelerate Digital Economy

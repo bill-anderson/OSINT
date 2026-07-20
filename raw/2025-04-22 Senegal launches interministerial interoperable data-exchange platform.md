@@ -11,6 +11,7 @@ places: [SEN]
 topics: [dpi.exchange, dpi.govtech, gov.policy]
 entities: [[new-deal-technologique]]
 lens: []
+body_completeness: full
 ---
 
 # Data exchange — Senegal launches an interministerial, interoperable platform

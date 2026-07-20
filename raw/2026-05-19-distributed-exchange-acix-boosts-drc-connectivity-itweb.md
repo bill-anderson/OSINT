@@ -6,10 +6,12 @@ publisher: ITWeb Africa
 published: 2026-05-19
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [COD]
 topics: [infra.connect, infra.store, dpi.exchange, tech.industry, gov.regional]
 entities: [[acix], [de-cix], [oadc-texaf-digital], [internet-pour-tous], [united-sa]]
 lens: [sovereignty]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: COD-2026-07-17
 ---

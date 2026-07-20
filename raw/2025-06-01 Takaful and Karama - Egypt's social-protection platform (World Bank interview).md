@@ -11,6 +11,7 @@ places: [EGY]
 topics: [dpi.mis, include.access, dpi.pay, dpi.id]
 entities: [[takaful-and-karama]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Takaful and Karama — Egypt's social-protection platform (World Bank interview)

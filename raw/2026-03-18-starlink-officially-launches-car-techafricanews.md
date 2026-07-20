@@ -3,6 +3,7 @@ type: source
 title: Starlink Officially Launches in the Central African Republic to Boost High-Speed Internet Access
 url: https://techafricanews.com/2026/03/18/starlink-officially-launches-in-the-central-african-republic-to-boost-high-speed-internet-access/
 publisher: TechAfrica News
+ingested: 2026-07-18
 author: Joyce Onyeagoro
 published: 2026-03-18
 date_precision: day
@@ -11,6 +12,7 @@ places: [CAF]
 topics: [infra.connect, include.access, include.divides, digital.rural, geopol.usa, capacity.training]
 entities: [[spacex]]
 lens: []
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: CAF-2026-07-17
 ---

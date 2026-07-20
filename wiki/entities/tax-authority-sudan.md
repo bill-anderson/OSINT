@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: government-body
 title: Tax Authority (Sudan, Diwan al-Daraib)
 places: [SDN]

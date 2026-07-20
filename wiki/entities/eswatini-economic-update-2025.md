@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: instrument
 title: Eswatini Economic Update 2025 - Harnessing the Potential of Digital Technologies
 places: [SWZ]

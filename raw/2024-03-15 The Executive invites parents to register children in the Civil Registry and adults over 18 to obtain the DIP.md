@@ -13,6 +13,7 @@ places: [GNQ]
 topics: [dpi.id, dpi.registry, include.access]
 entities: [[cnedoge]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Official (PDGE, 15 Mar 2024). Government to require the DIP more strictly of over-18s to access public services. Backdrop: VP Nguema Obiang Mangue met the inter-ministerial commission on the Child Protection Law. Advised working with CNEDOGE (which has a nationwide tour plan) and a simple message: everyone must hold a DIP for any transaction, and minors must be registered in the civil registry. Difficulty reconciling registered minor data with reality. DIP obligatory from age 18; to be required more rigorously for any procedure or movement. -->

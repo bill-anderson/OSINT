@@ -6,12 +6,14 @@ publisher: leFaso.net
 published: 2025-04-16
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: BFA-2026-07-17
 places: [BFA]
 topics: [tech.ai, capacity.research, capacity.training, finance.new, data.open, tech.innovate]
 entities: [[citadel], [universite-virtuelle-burkina-faso], [jean-marie-dipama], [crdi], [sida], [open-burkina], [ministere-transition-digitale-burkina-faso]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # CITADEL remporte encore un financement compétitif international de 1 million de dollars pour la recherche en Intelligence Artificielle au Burkina Faso

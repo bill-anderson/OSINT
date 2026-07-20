@@ -12,6 +12,7 @@ places: [MWI]
 topics: [dpi.mis, digital.rural]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 [Analysis: peer-reviewed academic study (BMC Health Services Research; DOI 10.1186/s12913-025-12844-0); fieldwork conducted September 2024 in Zomba District. Exact publication date not on clip - year proxy.] The qualitative study assesses Health Passports (HPs) - paper-based, patient-held medical records used in Malawi since the early 2000s under the National Health Information System Policy (last updated 2015). It combines a focus-group discussion with health workers and document analysis of completed HP pages.

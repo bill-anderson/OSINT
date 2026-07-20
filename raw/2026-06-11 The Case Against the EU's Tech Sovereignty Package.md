@@ -4,6 +4,8 @@ title: "The Case Against the EU's Tech Sovereignty Package"
 url: https://itif.org/publications/2026/06/11/the-case-against-the-eus-tech-sovereignty-package/
 publisher: ITIF (Information Technology and Innovation Foundation)
 published: 2026-06-11
+date_precision: day
+date_source: source
 ingested: 2026-07-10
 places: [XGL]
 topics: [geopol.eu, geopol.usa, geopol.china, infra.store, tech.industry, gov.policy, infra.capacity]

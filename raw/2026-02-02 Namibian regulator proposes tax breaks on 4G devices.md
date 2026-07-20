@@ -3,6 +3,8 @@ type: source
 title: "Namibian regulator proposes tax breaks on 4G devices"
 publisher: ITWeb Africa
 url: https://itweb.africa/article/namibian-regulator-proposes-tax-breaks-on-4g-devices/
+date_precision: day
+date_source: source
 author: Alfred Shilongo
 published: 2026-02-02
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [NAM]
 topics: [include.access, include.divides, infra.connect]
 entities: [[cran], [emma-theofelus]]
 lens: []
+body_completeness: excerpt
 ---
 
 <!-- CRAN CEO Emilia Nghikembua proposed tax breaks/incentives to make 4G devices affordable (MTC tower launch, Kunene, ~1 Feb 2026); MTC 4G utilisation <50%. ICT minister Emma Theofelus distributed 100 USF-funded phones to top learners. -->

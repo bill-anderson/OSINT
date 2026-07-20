@@ -6,12 +6,14 @@ publisher: TechAfrica News
 published: 2025-02-25
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 places: [DZA]
 topics: [infra.connect, infra.capacity, geopol.china, tech.industry]
 entities: [[algerie-telecom], [huawei]]
 lens: []
+body_completeness: full
 provenance_flag: pr-wire
 ---
 

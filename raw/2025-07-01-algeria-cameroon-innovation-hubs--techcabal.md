@@ -6,12 +6,14 @@ publisher: TechCabal
 published: 2025-07-01
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 places: [DZA, CMR]
 topics: [tech.innovate, finance.new]
 entities: [[algerie-telecom], [algeria-venture], [vaulfi]]
 lens: []
+body_completeness: full
 ---
 
 # Algeria and Cameroon pitch themselves as Africa's next innovation hubs

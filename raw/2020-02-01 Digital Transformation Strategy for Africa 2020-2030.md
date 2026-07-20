@@ -11,6 +11,7 @@ places: [XAF]
 topics: [gov.policy, infra.connect, dpi.id, dpi.pay, tech.industry]
 entities: [[african-union], [au-digital-transformation-strategy]]
 lens: []
+body_completeness: full
 artefact: "2020-02-01 Digital Transformation Strategy for Africa 2020-2030.pdf"
 ---
 

@@ -11,6 +11,7 @@ places: [UGA]
 topics: [dpi.id, dpi.registry, include.divides, include.access, digital.rural, digital.localgov, gov.protect]
 entities: [[nira-uganda], [ndaga-muntu], [unhcr], [sage-uganda]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 *Ground-level launch-day account of the 27 May 2025 start. The Tororo RDC's claim that 'a survey shows more Kenyans than Ugandans currently hold Ugandan national IDs' is attributed to an unnamed survey — an assertion, not a fact, and not to be repeated as one.*

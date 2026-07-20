@@ -1,6 +1,7 @@
 ---
 type: source
 title: إطلاق أول مركز للتكنولوجيا والابتكار في أنظمة التعليم الافتراضي
+ingested: 2026-07-18
 title_en: Algeria opens first technology/innovation centre for virtual-education systems (AI in higher education)
 url: https://www.echoroukonline.com/%D8%A5%D8%B7%D9%84%D8%A7%D9%82-%D8%A3%D9%88%D9%84-%D9%85%D8%B1%D9%83%D8%B2-%D9%84%D9%84%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7-%D9%88%D8%A7%D9%84%D8%A7%D8%A8%D8%AA%D9%83%D8%A7%D8%B1
 publisher: Echorouk El Yawmi
@@ -14,6 +15,7 @@ places: [DZA]
 topics: [tech.ai, capacity.training, tech.innovate]
 entities: [[kamel-baddari, ministere-enseignement-superieur, elias-zerhouni]]
 lens: []
+body_completeness: full
 ---
 
 # إطلاق أول مركز للتكنولوجيا والابتكار في أنظمة التعليم الافتراضي

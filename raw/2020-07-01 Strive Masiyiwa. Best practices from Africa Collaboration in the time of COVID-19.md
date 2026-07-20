@@ -3,14 +3,17 @@ type: source
 title: "Best practices from Africa: collaboration in the time of COVID-19"
 publisher: Commonwealth Security Research Group
 url: https://www.cwsrg.org/post/strive-masiyiwa-best-practices-from-africa-collaboration-in-the-time-of-covid-19
+date_source: source
 author: Strive Masiyiwa
 published: 2020-07-01
+date_precision: month
 accessed: 2026-06-12
 ingested: 2026-07-10
 places: [ZAF, XAF]
 topics: [dpi.exchange, gov.regional, finance.mou, tech.industry]
 entities: [[africa-medical-supplies-platform], [strive-masiyiwa], [econet-wireless], [african-union]]
 lens: [sovereignty, colonialism]
+body_completeness: full
 ---
 
 <!-- Masiyiwa's own primary account of AMSP (launched ~June 2020 by AU chair Ramaphosa). Names

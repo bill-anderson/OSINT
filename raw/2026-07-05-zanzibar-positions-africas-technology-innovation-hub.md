@@ -6,6 +6,7 @@ publisher: The Citizen
 published: 2026-07-05
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [TZA]
 topics: [tech.innovate, capacity.training, tech.ai]
 entities: [[iit-madras-zanzibar]]

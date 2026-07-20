@@ -11,6 +11,7 @@ places: [ETH]
 topics: [dpi.pay, include.access]
 entities: [[safaricom-ethiopia], [telebirr]]
 lens: []
+body_completeness: full
 ---
 
 # Mobile Money in Ethiopia (FSD Ethiopia)

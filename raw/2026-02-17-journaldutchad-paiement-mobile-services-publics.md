@@ -6,6 +6,7 @@ publisher: Journal du Tchad
 published: 2026-02-17
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [TCD]
 topics: [dpi.pay, dpi.govtech, finance.new, include.access]
 entities: [[moov-money-chad], [airtel-money-chad], [konoom], [cashi-chad]]

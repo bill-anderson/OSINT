@@ -12,6 +12,7 @@ places: [XAF, ZAF, NGA, ETH, RWA]
 topics: [dpi.exchange, dpi.id, dpi.pay, gov.policy, gov.regional]
 entities: [[dpi-roadmap-playbook], [africanenda], [dial], [afcfta-digital-trade-protocol]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # DPI Roadmap Playbook (March 2026 updated edition)

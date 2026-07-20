@@ -13,6 +13,7 @@ places: [BWA]
 topics: [infra.store, dpi.govtech]
 entities: [[bofinet]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Merges TechAfrica (2025-11-26) + DatacenterDynamics (2025-12-03) — one event, two outlets (dedup). Botswana launched the Digital Delta Data Centre (DDDC) in Gaborone — its FIRST national data centre, developed and operated by state-owned Botswana Fibre Networks (BoFiNet); the country's only Tier III certified, carrier-neutral national DC, fully government-owned. Built by Chinese firm Zhong Gan (per DCD). Positioned as a national/regional digital hub. DCD URL: datacenterdynamics.com/en/news/botswana-launches-first-national-data-center. -->

@@ -3,6 +3,7 @@ type: source
 title: "State of the Industry Report on Mobile Money 2026"
 publisher: GSMA (Mobile Money programme)
 url: https://www.gsma.com/sotir
+date_source: source
 author: Gianluca Storchi (GSMA)
 published: 2026-03
 date_precision: month
@@ -13,6 +14,7 @@ places: [XSS, XAF, XGL]
 topics: [dpi.pay, finance.new, include.access, include.divides]
 entities: [[gsma], [gates-foundation]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Admissible: GSMA institutional/agency flagship report (supported by the Gates Foundation),

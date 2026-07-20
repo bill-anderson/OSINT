@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: resource
 title: eAqoonsi (Somalia digital ID app)
 url: https://nira.gov.so/eaqoonsi

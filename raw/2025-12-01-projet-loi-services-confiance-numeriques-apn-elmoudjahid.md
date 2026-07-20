@@ -3,6 +3,7 @@ type: source
 title: "Le projet de loi sur les services de confiance numériques à l'APN : La sécurité des systèmes d'information nationaux renforcée"
 url: https://www.elmoudjahid.dz/fr/actualite/le-projet-de-loi-sur-les-services-de-confiance-numeriques-a-l-apn-la-securite-des-systemes-d-information-nationaux-renforcee-244691
 publisher: El Moudjahid
+ingested: 2026-07-18
 lang: fr
 published: 2025-12-01
 date_precision: month
@@ -14,6 +15,7 @@ places: [DZA]
 topics: [dpi.id, gov.legislate, gov.standards, infra.cybersec]
 entities: [[arpce, ance, agce, aece, sid-ali-zerrouki, ministere-poste-telecommunications]]
 lens: [sovereignty]
+body_completeness: full
 provenance_flag: state-media
 ---
 

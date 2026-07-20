@@ -6,12 +6,14 @@ publisher: We Are Tech Africa
 published: 2025-09-12
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [infra.connect, digital.rural, include.divides, include.access]
 entities: [[artci], [pncr-cote-divoire], [ibrahim-kalil-konate], [international-telecommunication-union], [alassane-ouattara]]
 lens: []
+body_completeness: full
 ---
 
 # Côte d'Ivoire to extend broadband to 30 rural towns by end September

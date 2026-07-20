@@ -6,10 +6,12 @@ publisher: TechAfrica News
 published: 2026-07-10
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [ETH]
 topics: [dpi.pay, dpi.govtech, dpi.exchange]
 entities: [[ethswitch], [national-bank-of-ethiopia], [ethiopia-ndps]]
 lens: []
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: ETH-2026-07-17
 ---

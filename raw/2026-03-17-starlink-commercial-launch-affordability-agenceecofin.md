@@ -6,10 +6,12 @@ publisher: Agence Ecofin
 published: 2026-03-17
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [CAF]
 topics: [infra.connect, geopol.usa, include.divides, include.access, digital.rural]
 entities: [[starlink], [spacex], [devea-centrafrique], [mepci-central-african-republic], [gsma], [itu], [world-bank]]
 lens: [sovereignty]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: CAF-2026-07-17
 ---

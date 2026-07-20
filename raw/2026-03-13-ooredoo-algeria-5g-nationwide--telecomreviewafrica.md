@@ -6,12 +6,14 @@ publisher: Telecom Review Africa
 published: 2026-03-13
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 places: [DZA]
 topics: [infra.connect, include.access]
 entities: [[ooredoo-algeria], [roni-tohme]]
 lens: []
+body_completeness: full
 ---
 
 # Ooredoo Algeria Expands 5G Network Nationwide to Accelerate Digital Transformation

@@ -6,12 +6,14 @@ publisher: Connecting Africa
 published: 2026-05-26
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [include.divides, capacity.training, tech.innovate, finance.mou]
 entities: [[orange-cote-divoire], [undp]]
 lens: []
+body_completeness: full
 ---
 
 By Matshepo Sehloho, Associate Editor, Connecting Africa. May 26, 2026.

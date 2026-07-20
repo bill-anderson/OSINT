@@ -12,6 +12,7 @@ places: [LBR]
 topics: [dpi.id, dpi.registry, gov.legislate]
 entities: [[national-identification-registry-liberia]]
 lens: []
+body_completeness: full
 artefact: "2024-01-01 PS2-4-Liberia-NIR-Legal-Framework-and-Mandate.pdf"
 ---
 

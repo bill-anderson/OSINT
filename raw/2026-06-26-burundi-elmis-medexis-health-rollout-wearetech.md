@@ -3,6 +3,9 @@ type: source
 title: Burundi Advances Health Digitalization With Broader eLMIS Medexis Rollout
 url: https://www.wearetech.africa/en/fils-uk/news/tech/burundi-advances-health-digitalization-with-broader-elmis-medexis-rollout
 publisher: We Are Tech Africa
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Samira Njoya
 published: 2026-06-26
 date_precision: day

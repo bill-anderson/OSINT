@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: instrument
 title: Angola National Statistics Development Strategy 2026–2032 (ENDE)
 places: [AGO]

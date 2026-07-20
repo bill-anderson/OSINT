@@ -3,6 +3,8 @@ type: source
 title: "Ethiopia's approach to their National Data Strategy offers lessons for Africa's digital future"
 publisher: Digital Impact Alliance (DIAL)
 url: https://dial.global/lessons-from-ethiopias-data-strategy-approach/
+date_precision: day
+date_source: source
 author: Ibrahim Mamma Hussein
 published: 2025-09-18
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [ETH]
 topics: [gov.policy, gov.protect, data.statistics, dpi.exchange]
 entities: [[dial], [african-union], [insa-ethiopia], [ethiopian-ai-institute]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- DIAL first-hand account: Ethiopia developing its first national data-governance strategy under the Office of the PM; DIAL invited to expand the framework into a full draft. Technical committee = INSA, MiNT, Ethiopian AI Institute, Addis Ababa University. Drew on the AU Data Policy Framework. Agency analysis, not scholarly. -->

@@ -3,6 +3,8 @@ type: source
 title: Digital 2026: Zimbabwe
 url: https://datareportal.com/reports/digital-2026-zimbabwe
 publisher: DataReportal (Kepios / We Are Social / Meltwater)
+lens: []
+body_completeness: full
 author: Simon Kemp
 published: 2025-11-08
 date_precision: day

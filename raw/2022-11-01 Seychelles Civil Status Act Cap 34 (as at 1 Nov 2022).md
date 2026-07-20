@@ -7,6 +7,8 @@ published: 2022-11-01
 date_precision: day
 date_source: source
 ingested: 2026-07-17
+lens: []
+body_completeness: full
 artefact: "2022-11-01 Seychelles Civil Status Act Cap 34 (as at 1 Nov 2022).pdf"
 places: [SYC]
 topics: [dpi.registry, gov.legislate, dpi.id]

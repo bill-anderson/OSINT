@@ -6,12 +6,14 @@ publisher: Fraternité Matin
 published: 2025-04-24
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [gov.legislate, dpi.exchange]
 entities: [[assemblee-nationale-cote-divoire], [artci], [anssi-cote-divoire]]
 lens: []
+body_completeness: full
 ---
 
 # Echanges électroniques : Le projet de loi portant ratification de l'ordonnance et modification des articles 3 et 17 de l'ordonnance n°2017 du 2 août 2017, adopté à l'Assemblée nationale

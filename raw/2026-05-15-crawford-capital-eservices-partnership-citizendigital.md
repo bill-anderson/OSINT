@@ -3,6 +3,7 @@ type: source
 title: South Sudan confirms digital services partnership with Crawford Capital Limited
 url: https://citizen.digital/article/south-sudan-confirms-digital-services-partnership-with-crawford-capital-limited-n382816
 publisher: Citizen Digital
+ingested: 2026-07-19
 author: Citizen Digital
 published: 2026-05-15
 date_precision: day

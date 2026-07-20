@@ -12,6 +12,7 @@ places: [MOZ]
 topics: [gov.policy, dpi.govtech, infra.connect, digital.rural]
 entities: [[incm-mozambique]]
 lens: []
+body_completeness: full
 ---
 
 U.S. ITA market-intelligence note on Mozambique's Digital Transformation Strategy (16 July 2025). The 2025 creation of the Ministry of Communications and Digital Transformation unified ICT-focused public institutions. The government is drafting a Digital Transformation Strategy covering connectivity, e-government and social services.

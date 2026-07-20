@@ -6,10 +6,12 @@ publisher: Tech Africa News
 published: 2025-06-20
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [LSO]
 topics: [infra.connect, tech.industry, tech.ai]
 entities: [[econet-telecom-lesotho]]
 lens: []
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: LSO-2026-07-17
 ---

@@ -4,11 +4,14 @@ title: DR Congo to Launch National Digital Identity System RDC-PASS on June 13
 url: https://www.wearetech.africa/en/fils-uk/news/tech/dr-congo-to-launch-national-digital-identity-system-rdc-pass-on-june-13
 publisher: We Are Tech Africa
 published: 2026-06-11
+date_precision: day
+date_source: source
 ingested: 2026-07-10
 places: [COD]
 topics: [dpi.id, dpi.govtech, dpi.pay, gov.protect, finance.new]
 entities: [[rdc-pass], [trident-digital-tech], [felix-tshisekedi]]
 lens: [sovereignty, colonialism]
+body_completeness: full
 ---
 
 - **DR Congo will officially launch RDC-PASS, its national digital identity platform, on June 13 as part of the “DRC 2030 Digital Nation” strategy.**

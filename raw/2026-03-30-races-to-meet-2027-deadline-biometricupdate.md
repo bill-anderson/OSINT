@@ -3,6 +3,8 @@ type: source
 title: Rwanda races to meet 2027 deadline for digital ID rollout
 url: https://www.biometricupdate.com/202603/rwanda-races-to-meet-2027-deadline-for-digital-id-rollout
 publisher: Biometric Update
+ingested: 2026-07-19
+lens: []
 author: Ayang Macdonald
 published: 2026-03-30
 date_precision: day

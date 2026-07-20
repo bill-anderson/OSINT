@@ -3,6 +3,9 @@ type: source
 title: "Gouvernance des données : le Bénin en première ligne à la 9e conférence du Rapdp à Abidjan"
 url: https://www.lanation.bj/numerique/gouvernance-des-donnees-le-benin-en-premiere-ligne-a-la-9e-conference-du-rapdp-a-abidjan
 publisher: La Nation
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Christian Hounnongbé
 published: 2026-05-20
 date_precision: day

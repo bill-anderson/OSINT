@@ -11,6 +11,7 @@ places: [SEN]
 topics: [gov.protect, gov.legislate]
 entities: [[senegal-data-protection-law], [cdp-senegal]]
 lens: []
+body_completeness: full
 artefact: "[[2026-07-16 data_protection_law_of_senegal(africa).pdf]]"
 ---
 

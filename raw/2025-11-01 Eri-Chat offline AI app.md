@@ -13,6 +13,7 @@ places: [ERI]
 topics: [tech.ai, tech.innovate]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 **Provenance note:** Shabait is the Eritrea Ministry of Information organ (state

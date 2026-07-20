@@ -3,6 +3,9 @@ type: source
 title: "Mobile money : Gimacpay franchit la barre des 600 milliards FCFA de transactions"
 url: https://lejour.cm/mobile-money-gimacpay-franchit-la-barre-des-600-milliards-fcfa-de-transactions/
 publisher: Le Jour
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Hiondi Nkam IV
 published: 2025-10-20
 date_precision: day

@@ -12,6 +12,7 @@ places: [GHA]
 topics: [dpi.exchange, dpi.govtech, gov.policy, dpi.pay, data.open]
 entities: [[dial], [bank-of-ghana]]
 lens: [sovereignty]
+body_completeness: full
 artefact: "2024-01-01 Ghana-final.pdf"
 ---
 

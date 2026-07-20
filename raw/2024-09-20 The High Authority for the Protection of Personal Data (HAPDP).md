@@ -13,6 +13,7 @@ places: [NER]
 topics: [gov.protect, gov.legislate]
 entities: [[hapdp-niger], [niger-data-protection-law]]
 lens: []
+body_completeness: full
 ---
 
 Profile of the High Authority for the Protection of Personal Data (HAPDP), Niger's independent data-protection authority. It was created in 2017 under Law No. 2017-28 (3 May 2017), amended by Law No. 2019-71 (24 December 2019); those texts were repealed by Law No. 2022-59 (16 December 2022), itself amended by Law No. 2023-31 (4 July 2023) and by Ordinances 2024-16 (26 April 2024) and 2024-29 (24 June 2024). The authority stems from Article 8 of the AU (Malabo) Convention, which required an independent enforcement body.

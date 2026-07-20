@@ -13,6 +13,7 @@ places: [MWI]
 topics: [gov.policy, finance.new, dpi.govtech]
 entities: [[world-bank]]
 lens: []
+body_completeness: full
 ---
 
 World Bank Program Appraisal Document (dated 26 April 2024) for a proposed IDA grant of SDR 60.3 million (US$80 million equivalent) to Malawi for a Fiscal Governance Program-for-Results. The operation supports public financial management reform - including revenue mobilisation, budget execution and procurement modernisation - underpinning the digitalisation of government fiscal systems.

@@ -6,6 +6,7 @@ publisher: بوابة الوسط (Alwasat)
 published: 2026-05-01
 date_precision: month
 date_source: proxy
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: LBY-2026-07-17
 places: [LBY]

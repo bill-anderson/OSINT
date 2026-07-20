@@ -3,6 +3,9 @@ type: source
 title: Luxembourg pledges to reduce Sahel's digital gap
 url: https://itweb.africa/article/luxembourg-pledges-to-reduce-sahels-digital-gap/KWEBbvyLJjxqmRjO
 publisher: ITWeb Africa
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Mthulisi Sibanda
 published: 2025-01-10
 date_precision: day

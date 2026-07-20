@@ -3,6 +3,8 @@ type: source
 title: "Orange-backed subsea cable to connect Nigeria, 19 other countries"
 publisher: TechCabal
 url: https://techcabal.com/2026/05/23/orange-backed-subsea-cable-to-connect-nigeria-19-other-countries/
+date_precision: day
+date_source: source
 author: Frank Eleanya
 published: 2026-05-23
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [NGA, SEN, GIN, CIV, MRT, ZAF, EGY, DZA, KEN, XWA, XAF]
 topics: [infra.connect, geopol.eu, capacity.training, finance.new]
 entities: [[orange], [via-africa-cable], [meta]]
 lens: [colonialism, sovereignty]
+body_completeness: full
 ---
 
 <!-- Via Africa: Orange-led consortium, >20,000km Atlantic corridor W.Africa<->Europe (first announced 2026-05-12, Africa Forward Summit, Nairobi; Macron present). 3-4yr build. Context: Africa has 77 active/planned systems; >50% of intl bandwidth via 5 countries. Orange to train >3m youth by 2030. -->

@@ -13,6 +13,7 @@ places: [CMR]
 topics: [dpi.mis, gov.protect, capacity.training]
 entities: [[dhis2]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Peer-reviewed study (Digital Health, SAGE, 2025) on Cameroon's digital-health data-services landscape (governance, interoperability, platform adoption); mixed methods (n=60 questionnaires, 6 interviews with digital-health experts). Findings: major governance/policy gaps — 85% unaware of any guidelines, 86.7% felt policy support inadequate (worse at central level, 90.9%); 63.3% used digital platforms, 63.3% received formal training, 80% aware of DHIS2, but 45% reported interoperability challenges with DHIS2. Evidence base on Cameroon's HMIS/health-data governance weakness. -->

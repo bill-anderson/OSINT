@@ -3,6 +3,7 @@ type: source
 title: New biometric ID card center opens for citizens in northern Cameroon
 url: https://www.biometricupdate.com/202508/new-biometric-id-card-center-opens-for-citizens-in-northern-cameroon
 publisher: Biometric Update
+ingested: 2026-07-18
 author: Ayang Macdonald
 published: 2025-08-07
 date_precision: day
@@ -11,6 +12,7 @@ places: [CMR]
 topics: [dpi.id, include.access, include.divides, digital.rural]
 entities: [[dgsn-cameroon], [augentic], [iom], [unhcr]]
 lens: [sovereignty]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: CMR-2026-07-17
 ---

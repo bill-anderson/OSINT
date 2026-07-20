@@ -3,6 +3,8 @@ type: source
 title: MINJUSDH diz que falhas do sistema nos postos de identificação e registo civil, que já duram há meses se devem às quebras de telecomunicações
 url: https://www.novojornal.co.ao/politica/detalhe/minjusdh-diz-que-falhas-do-sistema-nos-postos-de-identificacao-e-registo-civil-que-ja-duram-ha-meses-se-devem-as-quebras-de-telecomunicacoes-71601.html
 publisher: Novo Jornal
+lens: []
+body_completeness: full
 author: Nova Vaga
 published: 2026-05-05
 date_precision: day

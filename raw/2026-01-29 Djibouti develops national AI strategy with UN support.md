@@ -11,6 +11,7 @@ places: [DJI]
 topics: [tech.ai, gov.policy]
 entities: [[vision-djibouti-2035], [itu]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Djibouti develops national AI strategy with UN support

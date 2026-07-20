@@ -13,6 +13,7 @@ places: [GIN]
 topics: [infra.connect, include.divides, data.statistics]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 <!-- DataReportal Digital 2025: Guinea, early-2025 headlines (GSMA Intelligence / Kepios). Mobile 14.2m connections (95.1% of pop, 80.8% broadband); internet users 3.96m (26.5% penetration → 73.5% offline); social media 3.05m (20.4%); population 14.9m (38.7% urban, median age 18.3). -->

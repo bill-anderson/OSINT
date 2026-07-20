@@ -1,6 +1,7 @@
 ---
 type: source
 title: "Cybersécurité : Alger et Moscou scellent un partenariat ambitieux"
+ingested: 2026-07-18
 title_en: Algeria and Russia sign a cybersecurity MoU — Russia's Positive Technologies with EPE Proxylan (a CERIST subsidiary); joint research, training and digital-infrastructure cooperation
 url: https://www.elmoudjahid.dz/fr/actualite/cybersecurite-alger-et-moscou-scellent-un-partenariat-ambitieux-235279
 publisher: El Moudjahid
@@ -16,7 +17,7 @@ topics: [infra.cybersec, finance.mou, capacity.research]
 entities: [[positive-technologies, proxylan, cerist, russia]]
 lens: [sovereignty]
 provenance_flag: state-media
-body_completeness: clipped-at-fetch
+body_completeness: excerpt
 ---
 
 # Cybersécurité : Alger et Moscou scellent un partenariat ambitieux

@@ -13,6 +13,7 @@ places: [COM]
 topics: [gov.protect, gov.legislate]
 entities: [[comoros-data-protection-law-2021]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- TechHive Advisory analyst review (cite as analysis): the Union of Comoros enacted its Protection of Personal Data Law on 29 June 2021 — a comprehensive, GDPR-aligned framework. Broad extraterritorial scope; core principles + lawful bases; privacy notices, DPbDD, processor agreements, security, 72-hour breach notification to the National Authority; mandatory DPO for public authorities + large-scale/sensitive processing; RoPA. Full data-subject rights (incl. erasure, portability, no solely-automated decisions). Risk-based international transfers (adequacy / safeguards / derogations). CRUCIAL: the law establishes the National Authority for the Protection of Personal Data, but as of mid-2024 it had NOT been formally constituted or made operational — the enforcement gap. (The AfDB project separately funds creating a data-protection/access-to-information authority.) -->

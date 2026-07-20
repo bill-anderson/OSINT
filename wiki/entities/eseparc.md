@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: organisation
 title: Eswatini Economic Policy Analysis and Research Centre (ESEPARC)
 places: [SWZ]

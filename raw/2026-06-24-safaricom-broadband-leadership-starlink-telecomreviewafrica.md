@@ -6,13 +6,14 @@ publisher: Telecom Review Africa
 published: 2026-06-24
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [KEN]
 topics: [infra.connect, include.access]
 entities: [[safaricom], [starlink], [communications-authority-of-kenya]]
 lens: []
 retrieved: 2026-07-17
 sweep_batch: KEN-2026-07-17
-body_completeness: clip-full
+body_completeness: full
 ---
 
 # Safaricom Strengthens Market Leadership in Kenya's Broadband Sector

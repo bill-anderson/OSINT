@@ -6,12 +6,14 @@ publisher: Telecom Review Africa
 published: 2025-12-05
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 places: [DZA]
 topics: [infra.connect, tech.ai, tech.innovate, capacity.training, include.divides]
 entities: [[ooredoo-algeria], [isabelle-hajri], [t-start], [machrou3i]]
 lens: []
+body_completeness: full
 ---
 
 # Leading Algeria's Digital Leap: Ooredoo's Strategic Vision in the Era of Digital Transformation

@@ -6,6 +6,7 @@ publisher: Space in Africa
 published: 2025-12-11
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [STP]
 topics: [infra.connect, geopol.usa]
 entities: [[starlink], [spacex]]

@@ -6,12 +6,14 @@ publisher: We Are Tech
 published: 2026-02-16
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 places: [DZA]
 topics: [dpi.govtech, dpi.exchange, gov.policy, data.open]
 entities: [[ministry-of-justice-algeria], [lotfi-boudjemaa]]
 lens: []
+body_completeness: full
 ---
 
 # Algeria launches online system for lawyers to access certified court decisions

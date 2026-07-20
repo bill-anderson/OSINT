@@ -10,6 +10,8 @@ ingested: 2026-07-17
 places: [TGO]
 topics: [dpi.pay, finance.mou, include.access, tech.industry]
 entities: [[ecobank], [thunes], [ecobank-thunes-partnership], [bceao]]
+lens: []
+body_completeness: full
 ---
 
 (Togo First) - Ecobank Group has launched a new instant cross-border transfer service in Togo, in partnership with Singaporean fintech Thunes. This marks the start of a continental rollout that will eventually cover the banking group's 35 markets.

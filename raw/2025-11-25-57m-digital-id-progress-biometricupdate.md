@@ -3,6 +3,8 @@ type: source
 title: Rwanda notes progress with $57M digital ID system to launch next year
 url: https://www.biometricupdate.com/202511/rwanda-notes-progress-with-57m-digital-id-system-to-launch-next-year
 publisher: Biometric Update
+ingested: 2026-07-19
+lens: []
 author: Ayang Macdonald
 published: 2025-11-25
 date_precision: day

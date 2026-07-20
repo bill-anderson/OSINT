@@ -3,6 +3,8 @@ type: source
 title: PR manda abrir crédito adicional suplementar de 275 milhões USD no OGE2026 para o MAT e duplica dotação do ministério
 url: https://www.novojornal.co.ao/economia/detalhe/pr-manda-abrir-credito-adicional-suplementar-de-275-milhoes-usd-no-oge2026-para-o-mat-e-duplica-dotacao-do-ministerio-70083.html
 publisher: Novo Jornal
+lens: []
+body_completeness: full
 author: Nova Vaga
 published: 2026-02-26
 date_precision: day

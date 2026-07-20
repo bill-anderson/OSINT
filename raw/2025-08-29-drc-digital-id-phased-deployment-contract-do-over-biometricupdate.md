@@ -6,10 +6,12 @@ publisher: Biometric Update
 published: 2025-08-29
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [COD]
 topics: [dpi.id, dpi.registry, gov.protect, infra.connect, infra.store, include.access, capacity.training]
 entities: [[rdc-pass], [trident-digital-tech], [idemia], [onip-drc], [oadc-texaf-digital], [world-bank]]
 lens: [sovereignty, colonialism]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: COD-2026-07-17
 ---

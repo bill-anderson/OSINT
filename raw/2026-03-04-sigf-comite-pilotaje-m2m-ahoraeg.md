@@ -6,12 +6,14 @@ publisher: AHORA EG
 published: 2026-03-04
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: GNQ-2026-07-17
 places: [GNQ]
 topics: [dpi.govtech, dpi.mis, gov.policy]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 Second meeting of the Steering Committee (Comité de Pilotaje) of the Sistema Integral de Gestión de Funcionarios (SIGF) project — the digitalisation of civil-servant management — held 3 March 2026 at the seat of the Presidency in Malabo II, with representatives of the Moroccan firm M2M Group. The committee analysed the most effective mechanisms for progressive, digitalised nationwide implementation.

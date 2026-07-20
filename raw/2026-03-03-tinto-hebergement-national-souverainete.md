@@ -3,6 +3,7 @@ type: source
 title: "Burkina : « Le crédo actuellement, c'est l'hébergement national pour des questions de souveraineté », Teg-Wendé Idriss Tinto, DG de la Transformation digitale"
 url: https://lefaso.net/spip.php?article144800
 publisher: leFaso.net
+ingested: 2026-07-18
 author: Hamed Nanéma, Hanifa Koussoubé, Dominique Ouédraogo (vidéo)
 published: 2026-03-03
 date_precision: day
@@ -13,6 +14,7 @@ places: [BFA]
 topics: [dpi.govtech, infra.store, gov.protect, gov.standards, dpi.exchange, infra.cybersec, dpi.pay]
 entities: [[teg-wende-idriss-tinto], [ministere-transition-digitale-burkina-faso], [cil-burkina-faso], [faso-arzeka]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Burkina : « Le crédo actuellement, c'est l'hébergement national pour des questions de souveraineté », Teg-Wendé Idriss Tinto, DG de la Transformation digitale

@@ -2,6 +2,7 @@
 type: source
 title: "Harnessing AI for Humanitarian Impact"
 publisher: NetHope (Center for the Digital Nonprofit), with the UK Humanitarian Innovation Hub
+date_source: source
 author: Meheret Takele Mandefro
 published: 2026-03
 date_precision: month
@@ -12,6 +13,7 @@ places: [XGL, XAF, XSS]
 topics: [tech.ai, data.open, capacity.training, include.access, gov.standards]
 entities: [[nethope]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Admissible: named institutional report synthesising primary case studies. -->

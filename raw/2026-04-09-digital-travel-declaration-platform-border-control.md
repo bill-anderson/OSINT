@@ -3,6 +3,9 @@ type: source
 title: Burkina Faso Launches Digital Travel Declaration Platform to Modernize Border Control
 url: https://techafricanews.com/2026/04/09/burkina-faso-launches-digital-travel-declaration-platform-to-modernize-border-control/
 publisher: TechAfrica News
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Editorial Team
 published: 2026-04-09
 date_precision: day

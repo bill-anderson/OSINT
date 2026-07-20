@@ -3,6 +3,7 @@ type: source
 title: "Inclusion numérique en Afrique de l'Ouest: Le laboratoire d'innovation technologique lancé"
 url: https://lanation.bj/actualites/inclusion-numerique-en-afrique-de-louest-le-laboratoire-dinnovation-technologique-lance
 publisher: La Nation
+ingested: 2026-07-18
 author: Isidore Gozo
 published: 2025-06-25
 date_precision: day
@@ -13,6 +14,7 @@ places: [BEN, XWA]
 topics: [tech.ai, include.divides, tech.innovate, infra.capacity, gov.regional]
 entities: [[asin-benin], [institute-for-inclusive-digital-africa], [gates-foundation], [nvidia], [celtiis]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Inclusion numérique en Afrique de l'Ouest: Le laboratoire d'innovation technologique lancé

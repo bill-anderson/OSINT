@@ -10,6 +10,8 @@ ingested: 2026-07-15
 places: [GAB]
 topics: [dpi.registry, gov.legislate, tech.ai]
 entities: []
+lens: []
+body_completeness: full
 ---
 
 (Roundtable held 18-19 February 2025 in Libreville; publication date not stated on page — event month used as proxy. Builds on the November 2024 NPM designation.)

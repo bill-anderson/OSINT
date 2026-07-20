@@ -3,6 +3,8 @@ type: source
 title: "Africa Data Center Investment 2026: The $4.5B Race and the Power Problem"
 publisher: TechMoonshot
 url: https://techmoonshot.com/2026/05/21/africas-data-center-boom/
+date_precision: day
+date_source: source
 author: Bolu Babalola
 published: 2026-05-21
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [ZAF, KEN, NGA, MAR, DJI, ETH, GHA, TZA, EGY, XAF]
 topics: [infra.store, infra.energy, tech.ai, gov.protect, gov.legislate, infra.connect]
 entities: [[microsoft], [google], [amazon-web-services], [cassava-technologies], [g42], [africa-data-centres], [nvidia], [microsoft-g42-kenya-datacenter]]
 lens: [sovereignty, colonialism]
+body_completeness: full
 ---
 
 <!-- Analytical synthesis citing Arizton/Mordor/McKinsey/ADCA. 223 DCs/38 countries mid-2025 (ZAF 56, KEN 19, NGA 17); DC construction market $4.58bn by 2031. Anchor source for the DC power-penalty ('instability tax') narrative. -->

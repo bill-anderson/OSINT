@@ -6,10 +6,12 @@ publisher: Telecom Review Africa
 published: 2025-01-14
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [COD]
 topics: [infra.connect, infra.energy, include.divides, include.access, digital.rural, dpi.pay, gov.policy, tech.industry]
 entities: [[orange], [vodacom], [orange-vodacom-drc-rural-towerco-jv]]
 lens: []
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: COD-2026-07-17
 ---

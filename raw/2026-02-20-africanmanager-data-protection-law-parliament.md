@@ -6,6 +6,7 @@ publisher: African Manager
 published: 2026-02-20
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [TUN]
 topics: [gov.protect, gov.legislate, tech.ai]
 entities: [[assembly-of-peoples-representatives-tunisia], [instance-nationale-protection-donnees-personnelles-tunisia]]

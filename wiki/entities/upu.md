@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: organisation
 title: Universal Postal Union (UPU)
 places: [XGL, TZA]

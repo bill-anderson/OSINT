@@ -12,6 +12,7 @@ places: [ZAF]
 topics: [dpi.mis, digital.localgov, include.divides, include.access, gov.policy]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 # A framework for the integrated digital transformation of municipal healthcare services in South Africa: The case of Gauteng | Khumalo | South African Journal of Information Management

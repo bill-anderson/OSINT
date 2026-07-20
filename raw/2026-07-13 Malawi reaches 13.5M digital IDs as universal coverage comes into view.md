@@ -12,6 +12,7 @@ places: [MWI]
 topics: [dpi.id, dpi.registry, include.access]
 entities: [[national-registration-bureau-malawi], [undp], [dmap]]
 lens: []
+body_completeness: full
 ---
 
 # Malawi reaches 13.5M digital IDs as universal coverage comes into view | Biometric Update

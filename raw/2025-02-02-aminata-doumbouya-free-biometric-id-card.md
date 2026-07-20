@@ -3,6 +3,7 @@ type: source
 title: "Guinée: le Général Mamadi Doumbouya décrète la gratuité de la carte nationale biométrique"
 url: https://aminata.com/guinee-general-mamadi-doumbouya-president-de-la-transition-decrete-la-gratuite-de-la-carte-nationale-biometrique/
 publisher: Aminata.com
+ingested: 2026-07-18
 author: Mamadou Aliou Barry
 published: 2025-02-02
 date_precision: day

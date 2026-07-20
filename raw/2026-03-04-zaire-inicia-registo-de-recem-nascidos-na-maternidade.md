@@ -3,6 +3,8 @@ type: source
 title: Zaire inicia registo de recém-nascidos a partir da maternidade
 url: https://angop.ao/noticias/politica/zaire-mbanza-kongo-inicia-registo-de-recem-nascidos-a-partir-da-maternidade/
 publisher: Angop
+lens: []
+body_completeness: full
 author: DMN/PMV/IZ
 published: 2026-03-04
 date_precision: day

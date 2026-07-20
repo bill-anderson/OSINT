@@ -3,6 +3,8 @@ type: source
 title: "iXAfrica, Oracle to launch Kenya's first public cloud region"
 publisher: ITWeb Africa
 url: "https://itweb.africa/article/ixafrica-oracle-to-launch-kenyas-first-public-cloud-region/xnklOqz1YW6M4Ymz"
+date_precision: day
+date_source: source
 author: Staff Writer
 published: 2026-01-28
 accessed: 2026-07-12
@@ -11,6 +13,7 @@ places: [KEN]
 topics: [infra.store, geopol.usa, tech.ai, finance.mou]
 entities: [[ixafrica-oracle-oci-nairobi], [ixafrica-data-centres], [oracle], [william-ruto]]
 lens: [sovereignty]
+body_completeness: excerpt
 ---
 <!-- iXAfrica Data Centres named host/colocation partner for the Oracle Cloud Infrastructure (OCI) region in Nairobi — Kenya's first public cloud region (as of 2026-01-28); President Ruto announced the region in 2024. iXAfrica = East/Central Africa's largest hyperscale carrier-neutral AI-ready facility; "sovereign digital economy" framing. Quotes: Snehar Shah (iXAfrica CEO), David Bunei (Oracle Kenya). Attach: [[ixafrica-oracle-oci-nairobi]] deal, ixafrica-data-centres, oracle, william-ruto, KEN hub. -->
 

@@ -3,6 +3,8 @@ type: source
 title: "Focus on Sahel digital sovereignty gets clearer with Niger's new biometric ID card"
 publisher: Biometric Update
 url: https://www.biometricupdate.com/202603/focus-on-sahel-digital-sovereignty
+date_precision: day
+date_source: source
 author: Ayang Macdonald
 published: 2026-03-30
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [NER, BFA, MLI, XWA]
 topics: [dpi.id, infra.store, infra.cybersec, gov.regional]
 entities: [[alliance-of-sahel-states]]
 lens: [sovereignty, colonialism]
+body_completeness: full
 ---
 
 <!-- Niger began enrolment for a new AES-aligned biometric national ID (President Tiani first enrollee, 2026-03-27); second AES state after Burkina Faso (Nov 2025). Card enables passport-free AES travel. AES severed ECOWAS ties 2024, launched common biometric passport Jan 2025. Libyan firm Al Itissan Al-Jadeed contracted; Niger plans a national data centre. -->

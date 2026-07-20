@@ -11,6 +11,7 @@ places: [CPV]
 topics: [dpi.govtech, gov.policy]
 entities: [[digital-cabo-verde-project]]
 lens: []
+body_completeness: full
 ---
 
 # Cabo Verde — Financial Audit ToR (Digital Cabo Verde, Statistics, Health Security)

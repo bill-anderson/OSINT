@@ -3,6 +3,7 @@ type: source
 title: CAMTEL Explores Satellite Partnership to Strengthen Connectivity in Cameroon
 url: https://techafricanews.com/2026/04/09/camtel-explores-satellite-partnership-to-strengthen-connectivity/
 publisher: TechAfrica News
+ingested: 2026-07-18
 author: Kay-Lyne Wolfenden
 published: 2026-04-09
 date_precision: day
@@ -11,6 +12,7 @@ places: [CMR]
 topics: [infra.connect, include.divides, digital.rural, tech.industry, finance.mou]
 entities: [[camtel], [avanti-communications]]
 lens: [sovereignty]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: CMR-2026-07-17
 ---

@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: deal
 title: Eswatini Health System Strengthening for Human Capital Development Project
 places: [SWZ]

@@ -13,6 +13,7 @@ places: [BFA]
 topics: [infra.cybersec, infra.connect]
 entities: [[arcep-burkina-faso]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Ecofin (Dec 2025): Burkina Faso's telecom regulator ARCEP launched DNSSEC for the national ".bf" domain on 5 Dec 2025 (Ouagadougou) — adds a digital signature to DNS records to guarantee authenticity/integrity for ".bf" services. Technical support from ICANN via its Coalition for Digital Africa "DNSSEC Roadshow." A concrete cybersecurity/trust-infrastructure step complementing the data-sovereignty agenda. -->

@@ -6,6 +6,7 @@ publisher: Telecom Review Africa
 published: 2026-02-10
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [NAM]
 topics: [infra.connect, gov.policy, dpi.id, include.divides]
 entities: [[mtc-namibia]]

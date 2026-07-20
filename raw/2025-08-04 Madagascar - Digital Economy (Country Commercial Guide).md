@@ -12,6 +12,7 @@ places: [MDG]
 topics: [gov.policy, infra.connect, dpi.pay, data.statistics]
 entities: [[mg-ministry-digital-development]]
 lens: []
+body_completeness: full
 ---
 
 The U.S. Country Commercial Guide for Madagascar's digital economy (last published 4 August 2025). The digital sector accounts for 18 percent of Madagascar's economic growth and represents 1.7 percent of GDP. Thanks to private-sector investment in fibre optics, Madagascar has among the fastest internet speeds in Africa and is becoming a destination for technology-intensive business process outsourcing (BPO), serving clients including Amazon, Deliveroo and Air France.

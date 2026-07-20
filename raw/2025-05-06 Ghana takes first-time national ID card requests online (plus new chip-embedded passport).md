@@ -13,6 +13,7 @@ places: [GHA]
 topics: [dpi.id, dpi.govtech]
 entities: [[national-identification-authority-ghana], [ghana-card]]
 lens: []
+body_completeness: full
 ---
 
 <!-- NIA moves first-time Ghana Card applications + premium services to online-only (7-step flow: form, pay, book interview, QR code, biometric capture at premium centre, issuance). Feb 2025: NIA received 700,000 blank cards to clear a backlog dating from 2023. Separately, Ghana rolled out a new chip-embedded passport (ICAO-standard; old biometric passport to phase out by 2030; Ghanaian firm Biometric Travel Solutions Ltd involved in production). -->

@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: instrument
 title: Uganda Digital Government Strategy, Version 1.1
 places: [UGA]

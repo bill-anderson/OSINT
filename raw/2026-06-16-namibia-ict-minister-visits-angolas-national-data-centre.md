@@ -3,6 +3,7 @@ type: source
 title: Namibia ICT Minister Visits Angola's National Data Centre During ANGOTIC 2026
 url: https://techafricanews.com/2026/06/16/namibia-ict-minister-visits-angolas-national-data-centre-during-angotic-2026/
 publisher: TechAfrica News
+entities: []
 author: Editorial Team
 published: 2026-06-16
 date_precision: day
@@ -13,6 +14,7 @@ sweep_batch: AGO-2026-07-17
 places: [AGO, NAM]
 topics: [infra.store, gov.regional, dpi.govtech]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 The Minister of Information and Communication Technology of Namibia, Hon. Emma Theofelus, has visited Angola's newly inaugurated National Data Centre and cloud infrastructure in Camama, Luanda, as part of a regional digital cooperation engagement during ANGOTIC 2026. The visit took place on 13 June 2026 and included members of the Namibian delegation attending the technology and innovation event.

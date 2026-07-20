@@ -6,12 +6,14 @@ publisher: TechAfrica News
 published: 2026-06-16
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: LBR-2026-07-17
 places: [LBR]
 topics: [infra.connect, gov.regional, include.access]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 # Liberia Advances Regional Fiber Optic Expansion Strategy Through TRANSCO CLSG Partnership

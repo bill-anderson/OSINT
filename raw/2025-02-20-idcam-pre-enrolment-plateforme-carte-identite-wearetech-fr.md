@@ -3,6 +3,7 @@ type: source
 title: Le Cameroun numérise la procédure d'obtention de la carte d'identité nationale
 url: https://www.wearetech.africa/fr/fils/breves/breves-simple/le-cameroun-numerise-la-procedure-d-obtention-de-la-carte-d-identite-nationale
 publisher: We Are Tech Africa
+ingested: 2026-07-18
 author: La Rédaction
 published: 2025-02-20
 date_precision: day
@@ -11,6 +12,7 @@ places: [CMR]
 topics: [dpi.id, dpi.govtech, dpi.pay, include.access, include.divides]
 entities: [[idcam], [dgsn-cameroon], [augentic]]
 lens: []
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: CMR-2026-07-17
 ---

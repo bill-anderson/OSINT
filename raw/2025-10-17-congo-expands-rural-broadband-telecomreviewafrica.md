@@ -6,10 +6,12 @@ publisher: Telecom Review Africa
 published: 2025-10-17
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [COG]
 topics: [infra.connect, include.divides, digital.rural, gov.policy, dpi.govtech, finance.new]
 entities: [[patn-congo], [world-bank], [congo-digital-strategy-2030]]
 lens: [sovereignty]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: COG-2026-07-17
 ---

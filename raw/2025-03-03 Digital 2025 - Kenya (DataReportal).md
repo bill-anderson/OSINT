@@ -13,6 +13,7 @@ places: [KEN]
 topics: [infra.connect, include.divides, data.statistics]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 <!-- DataReportal Digital 2025: Kenya (3 Mar 2025). Population 57.0m (Jan 2025; 30.3% urban, median age 20.0). Mobile connections 68.8m (121%, 94.7% broadband). Internet users 27.4m (48.0% penetration); 29.6m (52.0%) offline. Social media 15.1m (26.5%). Current baseline; pairs with Digital 2024 comparator. -->

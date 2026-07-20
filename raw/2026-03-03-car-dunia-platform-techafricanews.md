@@ -3,6 +3,7 @@ type: source
 title: Central African Republic Fully Digitizes Ministry with Launch of Dûnîa Platform
 url: https://techafricanews.com/2026/03/03/central-african-republic-fully-digitizes-ministry-with-launch-of-dunia-platform/
 publisher: TechAfrica News
+ingested: 2026-07-18
 author: Jennifer Onyeagoro
 published: 2026-03-03
 date_precision: day
@@ -11,6 +12,7 @@ places: [CAF]
 topics: [dpi.govtech, dpi.exchange, gov.policy, data.statistics, tech.industry, finance.new]
 entities: [[mepci-central-african-republic], [pnd-2024-2028-central-african-republic], [faustin-archange-touadera]]
 lens: [sovereignty]
+body_completeness: full
 provenance_flag: pr-wire
 retrieved: 2026-07-17
 sweep_batch: CAF-2026-07-17

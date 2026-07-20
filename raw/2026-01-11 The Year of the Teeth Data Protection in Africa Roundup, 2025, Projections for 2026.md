@@ -13,6 +13,7 @@ places: [XAF, KEN, NGA, ZAF, GHA, DZA, GMB, BWA, DJI, UGA, SDN]
 topics: [gov.protect, gov.legislate, gov.policy, tech.ai, gov.regional]
 entities: [[digital-policy-alert], [tech-hive-advisory], [ndpc], [odpc-kenya], [us-kenya-health-framework], [african-union]]
 lens: [sovereignty, colonialism]
+body_completeness: full
 ---
 
 <!-- Authoritative annual reference roundup (Digital Policy Alert × Tech Hive Advisory; cites primaries throughout). End-2025 state of play: >=44 countries with DP laws (80% of AU members); >=38 fully established DPAs; 6 with law but no operational regulator; 11 yet to legislate. 2026 projections: >50 laws + 40 authorities, first comprehensive AI laws by Q2. Corroborates 44 (REV-001(b)). Legislative detail: Djibouti Digital Code, Gambia + Botswana laws in force; Algeria/Ghana/Kenya/Mauritius/Nigeria/Senegal amending. NADPA admitted Somalia + Tanzania (NADPA has no entity page yet -> gap flagged in _review.md). AI strategies adopted: Cote d'Ivoire, Kenya, Libya, Nigeria; Egypt updated; Guinea 10-yr roadmap; Mauritius AI Unit; Chad AI Directorate. NOT a contradiction: calls the Kenya-US Health Cooperation Framework 'USD 1.6 billion' — this is the health-programs component of the ~$2.5bn total framework (Carnegie [[2026-03-27 Kenya's Health Deal Is a Stress Test for the America First Global Health Strategy]] holds both: 5-yr $2.5bn total; '$1.6 billion for Kenya's health programs'). Whole-vs-part, reconciled; no REV item. -->

@@ -3,6 +3,8 @@ type: source
 title: Parliament Approves Draft Law on Virtual Assets as Rwanda Strengthens Digital Finance Rules
 url: https://techafricanews.com/2026/04/01/parliament-approves-draft-law-on-virtual-assets-as-rwanda-strengthens-digital-finance-rules/
 publisher: TechAfrica News
+ingested: 2026-07-19
+lens: []
 author: Editorial Team
 published: 2026-04-01
 date_precision: day

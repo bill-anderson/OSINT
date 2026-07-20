@@ -12,6 +12,7 @@ places: [SLE]
 topics: [dpi.id, gov.legislate]
 entities: [[ncra]]
 lens: []
+body_completeness: full
 ---
 
 # Sierra Leone announces mandatory national ID cards - what you need to know

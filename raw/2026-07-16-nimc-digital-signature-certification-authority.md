@@ -6,6 +6,7 @@ publisher: ThisDay
 published: 2026-07-16
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [NGA]
 topics: [dpi.id, dpi.govtech, infra.cybersec]
 entities: [[nimc]]

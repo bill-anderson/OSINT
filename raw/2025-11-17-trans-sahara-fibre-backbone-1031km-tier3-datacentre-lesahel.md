@@ -6,6 +6,7 @@ publisher: Le Sahel (ONEP)
 published: 2025-11-17
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [NER]
 topics: [infra.connect, infra.store, gov.regional, gov.policy]
 entities: [[trans-saharan-fibre-backbone], [niger-telecoms], [african-development-bank]]

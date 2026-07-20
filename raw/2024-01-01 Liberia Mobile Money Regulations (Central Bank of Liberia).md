@@ -12,6 +12,7 @@ places: [LBR]
 topics: [dpi.pay, gov.legislate, include.access]
 entities: []
 lens: []
+body_completeness: full
 artefact: "2024-01-01 Liberia Mobile Money Regulations (CBL).pdf"
 ---
 

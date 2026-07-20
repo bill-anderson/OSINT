@@ -6,6 +6,7 @@ publisher: Independent News Eswatini
 published: 2026-04-13
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [SWZ]
 topics: [geopol.usa, tech.innovate, finance.mou]
 entities: [[google], [google-eswatini-mou], [ministry-of-ict-eswatini]]

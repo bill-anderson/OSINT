@@ -13,6 +13,7 @@ places: [MDG]
 topics: [dpi.pay, dpi.exchange, gov.standards]
 entities: [[mvola]]
 lens: []
+body_completeness: full
 ---
 
 GSMA case study on MVola, a digital bank licensed for mobile money and digital retail banking in Madagascar with over 10 million customers. MVola adopted a digital-first, open-platform strategy — the MVola Developer's Portal for direct merchant integrations, MVola Wallet-to-Bank and QR Code payment — allowing third-party developers to access its APIs.

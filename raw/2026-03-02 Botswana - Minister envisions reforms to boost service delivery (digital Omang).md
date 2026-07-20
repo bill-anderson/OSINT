@@ -13,6 +13,7 @@ places: [BWA]
 topics: [dpi.id, dpi.govtech, include.access]
 entities: [[omang-digital-id-botswana]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Botswana Daily News (Mar 2026): the Ministry of Labour and Home Affairs (Minister Maj Gen Pius Mokgware), presenting 2026/27 budget estimates, set out reforms — transitioning to 24-hour operations at strategic border posts (Kazungula, Martins Drift, Pioneer Gate, Tlokweng) and, per keywords, advancing a digital ID (Omang), an Electronic Identification System, an e-wallet and e-government/biometric services. The digital-identity/e-gov modernisation strand for Botswana (the Omang national ID going digital). -->

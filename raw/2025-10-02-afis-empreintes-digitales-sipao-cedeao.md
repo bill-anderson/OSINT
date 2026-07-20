@@ -3,6 +3,7 @@ type: source
 title: "Lutte contre la criminalité au Bénin : un système automatisé d'identification par empreintes digitales inauguré"
 url: https://fraternite.bj/lutte-contre-la-criminalite-au-benin-un-systeme-automatise-didentification-par-empreintes-digitales-inaugure/
 publisher: Fraternité
+ingested: 2026-07-18
 author: Isac YAI
 published: 2025-10-02
 date_precision: day
@@ -13,6 +14,7 @@ places: [BEN]
 topics: [dpi.id, dpi.exchange, gov.regional, infra.capacity]
 entities: [[ecowas], [interpol], [european-union], [sipao]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Lutte contre la criminalité au Bénin : un système automatisé d'identification par empreintes digitales inauguré

@@ -12,6 +12,7 @@ places: [SOM, DJI, KEN, XEA]
 topics: [infra.connect]
 entities: [[hormuud-telecom], [somtel], [djibouti-telecom], [dare1-cable]]
 lens: []
+body_completeness: full
 ---
 
 # DARE1 subsea cable expansion to boost internet capacity from Kenya to South Africa

@@ -6,6 +6,9 @@ publisher: Le Jour
 published: 2025-10-01
 date_precision: day
 date_source: proxy
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: CMR-2026-07-17
 places: [CMR]

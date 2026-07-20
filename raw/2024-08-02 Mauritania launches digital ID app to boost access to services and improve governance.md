@@ -13,6 +13,7 @@ places: [MRT]
 topics: [dpi.id, dpi.govtech, include.access]
 entities: [[houwiyeti], [tech5], [undp], [mtnima-mauritania]]
 lens: []
+body_completeness: full
 ---
 
 Mauritania launched a pilot programme for a new digital ID app, spearheaded by UNDP, to provide verifiable digital identities and enhance access to services and governance. In 2022 UNDP issued a request for proposals for an open-source digital-identity pilot adhering to privacy-by-design principles.

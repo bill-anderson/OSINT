@@ -6,6 +6,7 @@ publisher: Le Sahel (ONEP)
 published: 2025-03-04
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [NER]
 topics: [infra.store, dpi.govtech, gov.policy, infra.connect, gov.protect]
 entities: [[niger-ixp], [hapdp-niger]]

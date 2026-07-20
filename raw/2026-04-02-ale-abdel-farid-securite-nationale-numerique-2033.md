@@ -3,6 +3,7 @@ type: source
 title: "Sécurité nationale et transformation numérique : Ce que propose l'expert Ale Abdel Farid"
 url: https://fraternite.bj/securite-nationale-et-transformation-numerique-ce-que-propose-lexpert-ale-abdel-farid/
 publisher: Fraternité
+ingested: 2026-07-18
 author: Michèl GUEDENON
 published: 2026-04-02
 date_precision: day

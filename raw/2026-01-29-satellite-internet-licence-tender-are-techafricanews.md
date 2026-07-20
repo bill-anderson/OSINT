@@ -13,6 +13,7 @@ places: [MRT]
 topics: [infra.connect, include.divides, geopol.usa]
 entities: [[are-mauritania], [starlink], [mauritel], [mattel], [chinguitel]]
 lens: []
+body_completeness: full
 ---
 
 # Mauritania — satellite internet licence tender (ARE); Starlink 2026 launch flagged

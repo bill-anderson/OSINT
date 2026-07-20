@@ -13,6 +13,7 @@ places: [LBR]
 topics: [dpi.id, gov.protect, gov.legislate]
 entities: [[national-identification-registry-liberia]]
 lens: [colonialism]
+body_completeness: full
 ---
 
 <!-- Editorial: ~1 year after being positioned as a linchpin of state modernization, the NIR lies dormant — stalled by a contract dispute + governance impasse. The biometric ID (mandated by EO 147, 2025; to underpin SIM, banking, social services, economic participation) stalled first with operations (queues, frustration) then a full shutdown over procurement. Root: failure to uphold transparent competitive procurement — NIR sought a restricted-bid award to a foreign firm, rejected by PPCC. Millions cut off. Civil society/lawmakers/local businesses raise concerns: free issuance given poverty; foreign-dominated contracting risks technological dependency over local firms. Calls: enforce procurement law; reboot NIR operational plan (timelines, communication); engage stakeholders for inclusion, accountability, sustainable tech transfer. -->

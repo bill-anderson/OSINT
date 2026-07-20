@@ -3,6 +3,7 @@ type: source
 title: "High tech : Les problèmes auxquels font face les Datacenters"
 url: https://leconomie.info/high-tech-les-problemes-auxquels-font-face-les-datacenters/
 publisher: Le quotidien L'Economie
+ingested: 2026-07-18
 author: Jean Daniel Obama
 published: 2025-05-27
 date_precision: day
@@ -13,6 +14,7 @@ places: [CMR]
 topics: [infra.store, infra.energy]
 entities: [[cenadi-cameroon], [minfi-cameroon]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # High tech : Les problèmes auxquels font face les Datacenters

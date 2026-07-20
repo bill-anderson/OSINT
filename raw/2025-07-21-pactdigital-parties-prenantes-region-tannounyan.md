@@ -3,6 +3,8 @@ type: source
 title: "Transformation digitale au Burkina Faso: PACTDIGITAL outille les parties prenantes de la région de Tannounyan"
 url: https://www.sidwaya.info/transformation-digitale-au-burkina-faso-pactdigital-outille-les-parties-prenantes-de-la-region-de-tannounyan/
 publisher: Sidwaya
+ingested: 2026-07-18
+lens: []
 author: Alpha Sékou BARRY
 published: 2025-07-21
 date_precision: day

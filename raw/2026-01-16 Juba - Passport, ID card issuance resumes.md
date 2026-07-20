@@ -12,6 +12,7 @@ places: [SSD]
 topics: [dpi.id, dpi.registry]
 entities: [[dcrnpi-south-sudan]]
 lens: []
+body_completeness: full
 ---
 
 # Juba: Passport, ID card issuance resumes

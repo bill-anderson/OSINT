@@ -3,6 +3,8 @@ type: source
 title: "Can AI solve open aid data’s access problem?"
 publisher: Publish What You Fund
 url: https://www.publishwhatyoufund.org/2026/07/can-ai-solve-open-aid-datas-access-problem/
+date_precision: day
+date_source: source
 author: Elma Jenkins; Alex Tilley
 published: 2026-07-02
 accessed: 2026-07-12
@@ -11,6 +13,7 @@ places: [ETH, XGL]
 topics: [data.open, tech.ai, data.statistics]
 entities: [[publish-what-you-fund], [international-aid-transparency-initiative], [usaid]]
 lens: []
+body_completeness: full
 ---
 <!-- PWYF experiment using an LLM agent to query raw IATI aid data: strong on retrieval (totals within 0.3% of established tools), unreliable on interpretation (hallucinated explanations, missed double-counting, missed UK/FCDO 2025 cuts). Reference-study figures live on [[international-aid-transparency-initiative]]/[[publish-what-you-fund]], NOT concept/place pages. Ethiopia used only as worked example. -->
 

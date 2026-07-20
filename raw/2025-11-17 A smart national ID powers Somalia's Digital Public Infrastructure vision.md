@@ -12,6 +12,7 @@ places: [SOM]
 topics: [dpi.id, dpi.govtech]
 entities: [[nira-somalia], [snid]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # A smart national ID powers Somalia's Digital Public Infrastructure (DPI) vision

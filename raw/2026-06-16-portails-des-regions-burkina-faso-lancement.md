@@ -3,6 +3,9 @@ type: source
 title: "Portails des Régions du Burkina Faso : Un pas décisif vers une administration numérique de proximité"
 url: https://www.sidwaya.info/portails-des-regions-du-burkina-faso-un-pas-decisif-vers-une-administration-numerique-de-proximite/
 publisher: Sidwaya
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: DCRP/MATM
 published: 2026-06-16
 date_precision: day

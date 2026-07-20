@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: instrument
 title: Togo Anti-Money Laundering Law (2025)
 places: [TGO]

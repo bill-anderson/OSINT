@@ -13,6 +13,7 @@ places: [BDI]
 topics: [gov.protect, gov.legislate, dpi.id]
 entities: [[burundi-data-protection-law-2026], [malabo-convention]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Merges We Are Tech (2026-01-16) + CADE (2026-01-19) on the same event (dedup). Burundi's National Assembly unanimously adopted a personal-data-protection bill on 15 Jan 2026 (Kigobe). Sponsored by the Ministry of Interior, Community Development & Public Security. Creates an independent data-protection authority; introduces criminal penalties complementing existing cybercrime provisions. Explicitly motivated by digitisation of the voter register, computerised public administration, and preparations for a BIOMETRIC NATIONAL ID card. Aligns with the AU Malabo Convention; article notes ~39 African countries had adopted dedicated DP laws (as of Jan 2026). Biometric-ID pilot testing underway in ~a dozen communes ahead of phased national rollout; registration software aligned to new administrative boundaries installed. CADE URL: cadeproject.org/updates/burundi-adopts-data-protection-law. -->

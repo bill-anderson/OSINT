@@ -12,6 +12,7 @@ places: [LSO]
 topics: [dpi.id, dpi.govtech]
 entities: [[lesotho-national-id]]
 lens: []
+body_completeness: full
 artefact: "2024-01-01 GovTech-Case-Studies-Lesotho-The-National-Identification-System.pdf"
 ---
 

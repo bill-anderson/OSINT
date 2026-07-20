@@ -6,10 +6,12 @@ publisher: Tech Review Africa
 published: 2026-07-04
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [DJI]
 topics: [tech.innovate, dpi.govtech, gov.policy]
 entities: []
 lens: []
+body_completeness: full
 provenance_flag: pr-wire
 retrieved: 2026-07-17
 sweep_batch: DJI-2026-07-17

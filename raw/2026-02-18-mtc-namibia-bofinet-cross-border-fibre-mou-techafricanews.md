@@ -3,6 +3,9 @@ type: source
 title: MTC Namibia and BoFiNet Sign MOU to Strengthen Cross-Border Connectivity
 url: https://techafricanews.com/2026/02/18/mtc-namibia-and-bofinet-sign-mou-to-strengthen-cross-border-connectivity/
 publisher: TechAfrica News
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Kay-Lyne Wolfenden
 published: 2026-02-18
 date_precision: day

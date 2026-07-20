@@ -13,6 +13,7 @@ places: [BFA]
 topics: [gov.policy, infra.store, infra.connect, dpi.id]
 entities: [[pactdigital], [wuri-programme]]
 lens: []
+body_completeness: full
 ---
 
 <!-- We Are Tech (Feb 2025): Burkina Faso's Ministry of Digital Transition unveiled 2025 priorities at a 14 Feb 2025 review (chaired by PM Ouédraogo). Key 2025 projects: complete data-centre construction (then 70% done); expand network coverage to ≥500 underserved localities; deepen e-service digitisation; large-scale population enrolment for WURI electronic unique ID; and launch PACTDIGITAL (~$150m). Roadmap anchor tying the DC build, connectivity, WURI and PACTDIGITAL together. -->

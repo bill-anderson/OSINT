@@ -6,6 +6,7 @@ publisher: Téla Nón
 published: 2026-05-14
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [STP]
 topics: [infra.store, dpi.id]
 entities: [[afap], [inic]]

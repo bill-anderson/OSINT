@@ -6,6 +6,7 @@ publisher: The Citizen
 published: 2026-01-13
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [TZA]
 topics: [dpi.govtech, gov.policy, dpi.exchange]
 entities: [[ega-tanzania], [world-bank]]

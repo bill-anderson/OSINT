@@ -13,6 +13,7 @@ places: [COG]
 topics: [dpi.id, include.access]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 <!-- DAC Presse (Mar 2025): Interior Minister Raymond Zéphirin Mboulou inaugurated a passport + national-ID (CNI) production centre in Pointe-Noire — residents no longer need to travel to Brazzaville. 480 m² building, latest-generation machines; daily capacity 300 CEMAC electronic passports + 20,000 CNI, split into passport + ID-card zones. High-tech materials produced with a French security firm to harden documents against forgery. Framed as administrative equity + document security + citizen trust. Decentralisation of ID/passport issuance (parallel to the Comoros/Anjouan move). -->

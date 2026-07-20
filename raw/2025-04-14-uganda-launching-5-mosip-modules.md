@@ -6,6 +6,7 @@ publisher: Biometric Update
 published: 2025-04-14
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [UGA]
 topics: [dpi.id, dpi.pay]
 entities: [[nira-uganda], [mosip]]

@@ -13,6 +13,7 @@ places: [MDG]
 topics: [dpi.id, dpi.registry, dpi.govtech]
 entities: [[prodigy-madagascar], [oni-madagascar], [mg-ministry-digital-development]]
 lens: []
+body_completeness: full
 ---
 
 Madagascar has begun a pilot enrolment phase for a national biometric digital identity programme, starting in the Antsimondrano district, to assign a National Unique Identification Number (NUI) to citizens. Rollout is managed under the Ministry of Digital Development, Posts and Telecommunications, working with the National Office for Identification (ONI).

@@ -14,6 +14,7 @@ places: [AGO]
 topics: [infra.cybersec, gov.legislate, gov.protect, include.access, gov.standards]
 entities: [[assembleia-nacional-angola], [unita], [angola-cybersecurity-law], [centro-nacional-de-ciberseguranca-angola], [uniao-internacional-das-telecomunicacoes]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Proposta de Lei de cibersegurança aprovada, mas com a abstenção da UNITA, que receia que Governo recorra ao corte de internet nos dias das eleições e das manifestações

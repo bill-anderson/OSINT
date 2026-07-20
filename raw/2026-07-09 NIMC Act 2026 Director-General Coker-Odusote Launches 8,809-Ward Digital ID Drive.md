@@ -4,11 +4,14 @@ title: "NIMC Act 2026: Director-General Coker-Odusote Launches 8,809-Ward Digita
 url: https://streamlinefeed.co.ke/news/nimc-director-general-coker-odusote-digital-identity-drive
 publisher: Streamline Feed
 published: 2026-07-09
+date_precision: day
+date_source: source
 ingested: 2026-07-10
 places: [NGA, KEN]
 topics: [dpi.id, gov.legislate, infra.cybersec, include.access, gov.protect]
 entities: [[nimc], [ndpc], [nigeria-id4d]]
 lens: [sovereignty]
+body_completeness: full
 ---
 Ad • Kings Lotus Ongata Rongai – Modern 2 and 3 Bedroom
 

@@ -3,6 +3,7 @@ type: source
 title: "Gérer les données sur l'urbanisation : renforcer la gestion et l'interopérabilité pour des villes inclusives au Cameroun"
 url: https://leconomie.info/gerer-les-donnees-sur-lurbanisation-renforcer-la-gestion-et-linteroperabilite-pour-des-villes-inclusives-au-cameroun/
 publisher: Le quotidien L'Economie
+ingested: 2026-07-18
 author: Dr. NZEPANG Fabrice (Cameroon Economics Society, Research Center on Innovation, Institutions and Inclusive Development)
 published: 2025-12-19
 date_precision: day

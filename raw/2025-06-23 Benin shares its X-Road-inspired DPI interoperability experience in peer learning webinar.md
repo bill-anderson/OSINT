@@ -3,6 +3,8 @@ type: source
 title: "Benin shares its X-Road-inspired DPI interoperability experience in peer learning webinar"
 publisher: Biometric Update
 url: https://www.biometricupdate.com/202506/benin-shares-its-x-road-inspired-dpi-interoperability-experience-in-peer-learning-webinar
+date_precision: day
+date_source: source
 author: Ayang Macdonald
 published: 2025-06-23
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [BEN]
 topics: [dpi.exchange, dpi.id, dpi.pay, dpi.govtech, gov.regional]
 entities: [[asin-benin], [uxp-benin], [cybernetica], [cdpi], [gates-foundation], [mosip]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- CDPI peer-learning webinar profiling Benin's DPI (started ~2016 under Talon, modeled on Estonia). UXP is Cybernetica's proprietary product (NOT X-Road — dated correction). As of mid-2025: 1,500+ services integrated, 55+ institutions, 300+ services digitized, 70M+ data-exchange transactions. Foreign partners must work with a local company. -->

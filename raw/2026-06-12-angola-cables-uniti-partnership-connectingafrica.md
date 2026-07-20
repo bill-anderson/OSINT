@@ -14,6 +14,7 @@ places: [AGO]
 topics: [infra.connect, infra.store, geopol.usa, finance.mou, include.divides]
 entities: [[angola-cables]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 Angola Cables, a provider of subsea cable and international connectivity solutions, last month signed a key agreement with Uniti Wholesale which will see Africa directly connecting with the American market, benefiting data-heavy sectors such as agriculture, fintech and logistics.

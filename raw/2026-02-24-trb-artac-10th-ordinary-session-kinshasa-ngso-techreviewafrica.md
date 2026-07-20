@@ -3,6 +3,7 @@ type: source
 title: Cameroon's TRB participates in ARTAC's 10th Ordinary Session in Kinshasa
 url: https://techreviewafrica.com/news/4133
 publisher: Tech Review Africa
+ingested: 2026-07-18
 author: Nana Appiah Acquaye
 published: 2026-02-24
 date_precision: day
@@ -11,6 +12,7 @@ places: [CMR, XCA, COD]
 topics: [gov.regional, gov.legislate, gov.standards, infra.connect, dpi.pay, gov.protect, include.divides, digital.rural, data.satellite, data.statistics]
 entities: [[artac], [art-cameroon], [starlink], [oneweb], [amazon-kuiper], [itu]]
 lens: [sovereignty]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: CMR-2026-07-17
 ---

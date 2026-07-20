@@ -3,6 +3,7 @@ type: source
 title: Angola Pushes Digital Reform With New Public Finance Innovation Hub
 url: https://www.wearetech.africa/en/fils-uk/news/public-management/angola-pushes-digital-reform-with-new-public-finance-innovation-hub
 publisher: We Are Tech Africa
+entities: []
 author: Isaac K. Kassouwi
 published: 2026-03-30
 date_precision: day
@@ -13,6 +14,7 @@ sweep_batch: AGO-2026-07-17
 places: [AGO, CPV]
 topics: [dpi.govtech, gov.policy, tech.innovate, gov.standards, finance.mou]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 - Angola launches an innovation lab (i.Lab) to test and scale digital solutions in public finance.

@@ -13,6 +13,7 @@ places: [MAR]
 topics: [gov.legislate, tech.ai, dpi.id, dpi.exchange]
 entities: [[digital-x0-law], [digital-morocco-2030], [mosip]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Second outlet on the "Digital X.o" draft law (AI governance, data interoperability, digital identity). Still being worked on before parliament (per Le360). Min Delegate Amal El Fellah Seghrouchni: clarifies data interoperability among govt institutions (per Law 09-08); introduces sectoral digital IDs keeping data control with users; outlines AI streamlining public services. Emphasises cybersecurity + digital trust; supports Morocco Digital 2030 (sovereignty, innovation, local skills, responsible AI). Morocco building its DPI with a robust digital ID using MOSIP for social protection/inclusion; unveiled a Digital for Sustainable Development (D4SD) Hub in Sept with UNDP. Dedup with CADE 7 Nov 2025. -->

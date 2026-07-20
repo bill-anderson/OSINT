@@ -6,12 +6,14 @@ publisher: ITWeb Africa
 published: 2025-11-12
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [infra.connect, digital.rural, include.access]
 entities: [[africa-mobile-networks], [ses]]
 lens: []
+body_completeness: full
 ---
 
 By Lezeth Khoza, Junior journalist. Johannesburg, 12 Nov 2025.

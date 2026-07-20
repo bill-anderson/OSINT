@@ -6,6 +6,7 @@ publisher: TechCentral
 published: 2026-02-17
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [ZAF]
 topics: [infra.connect, gov.legislate]
 entities: [[icasa]]

@@ -13,6 +13,7 @@ places: [AGO, XSA, XEA]
 topics: [dpi.exchange, dpi.govtech, gov.regional, finance.new]
 entities: [[idea-mpa], [ima-angola], [world-bank]]
 lens: []
+body_completeness: full
 ---
 
 <!-- World Bank factsheet on the IDEA programme (Inclusive Digitalization in Eastern and Southern Africa) as it applies to Angola. IDEA: $2.48bn IDA/IBRD, 15 countries + RECs over 8 years; COMESA spearheads regional coordination; phase 1 = Angola, DRC, Malawi. Angola's slice = the Angola Digital Acceleration Project (PADA), a $300m IBRD loan, implemented by the Instituto de Modernização Administrativa (IMA), expected to mobilise ~$80m private investment. Focus: internet access, data infrastructure, interoperability across ministries/public services (quote from Adão de Almeida, Minister of State/Chief of Staff of the Presidency). See the sibling programme entity [[idea-mpa]]. -->

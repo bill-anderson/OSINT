@@ -3,6 +3,8 @@ type: source
 title: "Why decentralized digital identity looks different in every country"
 publisher: Biometric Update
 url: https://www.biometricupdate.com/202605/why-decentralized-digital-identity-looks-different-in-every-country
+date_precision: day
+date_source: source
 author: Joel R. McConvey
 published: 2026-05-28
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [XAF, ETH, UGA, SLE, MAR, GHA, TGO]
 topics: [dpi.id, gov.standards, gov.protect, tech.innovate]
 entities: [[mosip], [id4africa]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Reference explainer: MOSIP now has MoUs with 29 countries; underpins ID in Ethiopia/Uganda/Sierra Leone (Morocco first implementer); Togo 6m unique numbers; Ghana Card ~20m (~90%, not MOSIP). ID4Africa 2026 AGM (Abidjan). Centralised vs federated vs decentralised architectures. -->

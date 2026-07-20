@@ -6,12 +6,14 @@ publisher: TechAfrica News
 published: 2026-03-27
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [infra.connect, include.access, tech.industry]
 entities: [[orange-cote-divoire], [ma-box]]
 lens: []
+body_completeness: full
 provenance_flag: pr-wire
 primary_to_source: Orange Côte d'Ivoire launch announcement for the Ma Box application, Orange Village event (25 March 2026)
 ---

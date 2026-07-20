@@ -3,6 +3,7 @@ type: source
 title: Burundi Signs USD 5.9 Million Contract to Expand Rural Network Connectivity
 url: https://techafricanews.com/2026/05/04/burundi-signs-usd-5-9-million-contract-to-expand-rural-network-connectivity/
 publisher: TechAfrica News
+ingested: 2026-07-18
 author: Jennifer Onyeagoro
 published: 2026-05-04
 date_precision: day
@@ -13,6 +14,7 @@ places: [BDI]
 topics: [infra.connect, digital.rural, include.divides]
 entities: [[onatel-burundi], [setic-burundi], [pafen-burundi]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Burundi Signs USD 5.9 Million Contract to Expand Rural Network Connectivity

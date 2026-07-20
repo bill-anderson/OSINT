@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: government-body
 title: South African Reserve Bank (SARB)
 places: [ZAF]

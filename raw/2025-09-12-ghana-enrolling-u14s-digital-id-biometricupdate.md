@@ -6,12 +6,14 @@ publisher: Biometric Update
 published: 2025-09-12
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: GHA-2026-07-17
 places: [GHA]
 topics: [dpi.id, dpi.registry]
 entities: [[national-identification-authority-ghana], [ghana-card]]
 lens: []
+body_completeness: full
 ---
 # Ghana begins enrolling U-14s for digital ID card
 

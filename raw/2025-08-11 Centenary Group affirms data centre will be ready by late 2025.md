@@ -3,6 +3,8 @@ type: source
 title: Centenary Group affirms data centre will be ready by late 2025
 url: https://pctechmag.com/2025/08/centenary-group-affirms-data-centre-will-be-ready-by-late-2025
 publisher: PC Tech Magazine
+lens: []
+body_completeness: full
 author: Nathan Ernest Olupot
 published: 2025-08-11
 date_precision: day

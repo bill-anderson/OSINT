@@ -13,6 +13,7 @@ places: [BEN]
 topics: [data.statistics, tech.innovate, include.access]
 entities: [[world-bank]]
 lens: []
+body_completeness: full
 ---
 
 <!-- COMPANION SOURCE PAGE for binary raw/2024-01-01 World Bank Enterprise Surveys - Benin 2024 Country Profile.pdf (12pp; date proxied to year). WB Enterprise Surveys Benin 2024 — firm-level business-environment data (access to finance, infrastructure/electricity, technology use, informality, etc.). Edge-of-core-scope reference; held as a business-environment baseline behind Benin's digital-economy ambitions, not mined for detail. -->

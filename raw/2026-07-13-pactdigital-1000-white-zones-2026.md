@@ -3,6 +3,9 @@ type: source
 title: Burkina Faso Targets 1,000 White Zones in 2026 Connectivity Drive
 url: https://techafricanews.com/2026/07/13/burkina-faso-targets-1000-white-zones-in-2026-connectivity-drive/
 publisher: TechAfrica News
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Kay-Lyne Wolfenden
 published: 2026-07-13
 date_precision: day

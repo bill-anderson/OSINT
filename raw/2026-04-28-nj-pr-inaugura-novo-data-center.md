@@ -14,6 +14,7 @@ places: [AGO]
 topics: [infra.store, dpi.exchange, dpi.govtech, tech.industry]
 entities: [[joao-lourenco], [data-center-e-cloud-do-governo-angola], [nuvem-nacional-de-angola], [infosi], [ministerio-das-telecomunicacoes-tecnologias-de-informacao-e-comunicacao-social-angola]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # PR inaugura novo Data Center, infra-estrutura para armazenamento seguro de dados governamentais e hospedagem de sistemas informáticos públicos

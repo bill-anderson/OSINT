@@ -3,6 +3,7 @@ type: source
 title: Congo's Digital Economy Could Add $1.5 Billion and Create 144,000 Jobs by 2030 (GSMA)
 url: https://www.wearetech.africa/en/fils-uk/news/tech/congo-s-digital-economy-could-add-1-5-billion-and-create-144-000-jobs-by-2030-gsma
 publisher: We Are Tech Africa
+ingested: 2026-07-18
 author: Samira Njoya
 published: 2026-06-24
 date_precision: day
@@ -11,6 +12,7 @@ places: [COG]
 topics: [infra.connect, dpi.pay, gov.policy, include.divides, gov.legislate, infra.cybersec, capacity.training, finance.new]
 entities: [[gsma], [congo-digital-strategy-2030]]
 lens: []
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: COG-2026-07-17
 ---

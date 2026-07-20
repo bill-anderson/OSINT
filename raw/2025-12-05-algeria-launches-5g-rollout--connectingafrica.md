@@ -6,12 +6,14 @@ publisher: Connecting Africa
 published: 2025-12-05
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 places: [DZA, XNA]
 topics: [infra.connect, gov.policy, tech.industry]
 entities: [[mobilis], [djezzy], [ooredoo-algeria], [algerie-telecom], [arpce], [ministry-of-post-and-telecommunications-algeria], [sid-ali-zerrouki]]
 lens: []
+body_completeness: full
 ---
 
 # Algeria launches 5G rollout

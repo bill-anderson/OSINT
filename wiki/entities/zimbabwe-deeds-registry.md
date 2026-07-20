@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: government-body
 title: Zimbabwe Deeds Registry
 places: [ZWE]

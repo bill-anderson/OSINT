@@ -12,6 +12,7 @@ places: [MWI]
 topics: [data.open, dpi.mis, dpi.exchange]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 [Analysis: thought-leadership blog reporting a convened event.] Development Gateway recounts a September 2023 "Multi Stakeholder Dialogue in Malawi on National Data Infrastructure for Climate Decision Making," convened by the Commonwealth Secretariat and hosted by the Government of Malawi with AGRA, Open Society Foundations and GIZ. It was one of a series of national dialogues (with Ghana, Barbados and Bangladesh to follow) exploring how to build a national DPI to harness climate data for more resilient food systems.

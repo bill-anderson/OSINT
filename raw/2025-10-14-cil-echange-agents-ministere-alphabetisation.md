@@ -3,6 +3,9 @@ type: source
 title: "Protection des données à caractère personnel: la CIL échange avec les agents du ministère en charge de l'alphabétisation"
 url: https://www.sidwaya.info/protection-des-donnees-a-caractere-personnel-la-cil-echange-avec-les-agents-du-ministere-en-charge-de-lalphabetisation/
 publisher: Sidwaya
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Adama SEDGO et Armella KIBTONGO
 published: 2025-10-14
 date_precision: day

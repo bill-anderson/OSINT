@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: instrument
 title: Togo Digital Economy Diagnostic Report (World Bank, 2019)
 places: [TGO]

@@ -12,6 +12,7 @@ places: [NAM]
 topics: [digital.rural, include.access, include.divides]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 Case study (fieldwork conducted January–September 2023) of the Grüne Bürgerenergie / Green People's Energy (GBE) off-grid solar electrification of 15 rural primary and combined schools in Namibia, implemented via the Ministry of Mines and Energy, Ministry of Education, and the Namibia Energy Institute. Nearly half of Namibia's population lacks electricity, and the country has over 180 unelectrified schools concentrated near the northern border.

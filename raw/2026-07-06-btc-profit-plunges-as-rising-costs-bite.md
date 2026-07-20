@@ -3,6 +3,9 @@ type: source
 title: BTC profit plunges as rising costs bite
 url: https://www.mmegi.bw/business/btc-profit-plunges-as-rising-costs-bite/news
 publisher: Mmegi
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Lewanika Timothy
 published: 2026-07-06
 date_precision: day

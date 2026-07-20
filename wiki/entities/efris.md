@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: initiative
 title: Electronic Fiscal Receipting and Invoicing System (EFRIS), Uganda
 places: [UGA]

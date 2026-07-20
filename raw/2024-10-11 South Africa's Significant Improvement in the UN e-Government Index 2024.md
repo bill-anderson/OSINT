@@ -10,6 +10,8 @@ ingested: 2026-07-17
 places: [ZAF]
 topics: [dpi.govtech, gov.policy, data.open, digital.localgov, capacity.literacy]
 entities: [[dcdt-south-africa], [solly-malatsi], [un-egdi]]
+lens: []
+body_completeness: full
 ---
 
 *PRIMARY — the SA government's own statement on a third-party index; celebratory register, attribute. Complementary to the held Ecofin report of the same EGDI edition rather than duplicative: it uniquely carries the delivery numbers (255 government services identified for digitisation, 134 e-Services live on the SITA-hosted national portal), the MTSF 2019-2024 and 2030 whole-of-government targets, the LOSI city-portal detail, and the Malatsi quote. SA rose from rank 65 (2022) to 40 (2024) and entered the 'very high EGDI' group for the first time.*

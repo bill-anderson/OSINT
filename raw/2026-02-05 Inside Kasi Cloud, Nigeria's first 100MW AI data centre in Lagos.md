@@ -1,9 +1,13 @@
 ---
 type: source
+date_precision: day
+date_source: source
 places: [NGA]
 topics: [infra.store, tech.ai]
 entities: [[kasi-cloud]]
 ingested: 2026-07-16
+lens: []
+body_completeness: full
 page: A first look at Kasi Cloud's 100MW AI data centre in Lagos - TechCabal
 title: Inside Kasi Cloud, Nigeria's first 100MW AI data centre in Lagos
 author: Frank Eleanya

@@ -6,12 +6,14 @@ publisher: leFaso.net
 published: 2026-03-27
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: BFA-2026-07-17
 places: [BFA]
 topics: [dpi.pay, tech.innovate, include.access, tech.industry]
 entities: [[yenga], [kreezus], [orange-money-burkina-faso], [moov-africa-burkina-faso], [telecel-faso], [sank-money], [coris-money]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # YENGA : L'application burkinabè qui simplifie le quotidien de milliers de Burkinabè

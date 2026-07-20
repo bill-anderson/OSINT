@@ -11,6 +11,7 @@ places: [ZAF]
 topics: [infra.store, geopol.usa, tech.industry]
 entities: [[microsoft]]
 lens: [colonialism]
+body_completeness: full
 ---
 
 *THE OLDEST ITEM IN THE BATCH — a genuine 2019 primary, seven years old, and the T-zero of African hyperscale. Vendor first-party announcement: corporate self-report, attribute. Its '54 regions', the IDC spend projection and the 112,000-jobs-by-2022 forecast are 2019 FORECASTS and are now historical — they must not be read as current state. Note it claims Microsoft opened 'our first enterprise-grade datacenters in Africa' in 2019, while 2026 reporting describes the new Microsoft build as 'SA's first enterprise-grade data centres' — a marketing-language collision across seven years; the wiki should repeat neither 'first' uncritically.*

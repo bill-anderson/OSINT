@@ -6,6 +6,7 @@ publisher: Afrique IT News
 published: 2025-09-02
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [TCD]
 topics: [infra.connect, gov.standards, include.access]
 entities: [[airtel-chad], [moov-africa-chad], [ministry-telecom-digital-economy-chad], [pmice]]

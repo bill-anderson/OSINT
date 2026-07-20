@@ -4,11 +4,14 @@ title: Starlink drives African broadband speeds higher
 url: https://itweb.africa/article/starlink-drives-african-broadband-speeds-higher/GxwQD71DnGyvlPVo
 publisher: ITWeb Africa
 published: 2026-06-15
+date_precision: day
+date_source: source
 ingested: 2026-07-10
 places: [XSS]
 topics: [infra.connect, include.access, include.divides, infra.capacity]
 entities: [[starlink]]
 lens: []
+body_completeness: excerpt
 ---
 
 ![Starlink user with mount hardware. (Image source: Starlink).](https://lh3.googleusercontent.com/i3HTgXeEh04nYGLAApmx8SOBicyIJRn9EWjMeIOJ_BlMZVJT0M5UIWpNejDKZQjsIThmy-0CX1T08wr-aDaukoZCw679tX8o6DgbAA)

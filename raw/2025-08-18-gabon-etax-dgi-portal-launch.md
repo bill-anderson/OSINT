@@ -10,6 +10,8 @@ ingested: 2026-07-15
 places: [GAB]
 topics: [dpi.pay, dpi.govtech]
 entities: [[digitax-gabon], [dgi-gabon]]
+lens: []
+body_completeness: full
 ---
 
 Official announcement (Gouvernement.ga, 18 August 2025) of the new online tax declaration and payment portal (**e-tax**) established by the Direction Générale des Impôts (DGI) of the Republic of Gabon.

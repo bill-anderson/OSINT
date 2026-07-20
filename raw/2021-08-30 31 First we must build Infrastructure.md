@@ -3,6 +3,8 @@ type: source
 title: "#31 First we must build Infrastructure"
 publisher: Frontier Fintech (Substack)
 url: https://frontierfintech.substack.com/p/31-first-we-must-build-infrastructure
+date_precision: day
+date_source: source
 author: Samora Kariuki
 published: 2021-08-30
 accessed: 2026-07-12
@@ -11,6 +13,7 @@ places: [NGA, KEN, ZAF, XGL]
 topics: [dpi.pay, dpi.id, include.access]
 entities: [[samora-kariuki], [nimc]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- External expert analysis (Frontier Fintech). 2021 BACKGROUNDER — historical/foundational value only; figures (2021 VC, ">13m SA ID cards", Huduma Namba, Aadhaar >1bn) are dated — do NOT push into current concept/place synthesis. Thesis: African consumer fintech needs foundational infrastructure (sovereign identity, address systems, shared rails) built first, framed as "principles of African fintech". Sponsored Hyperverge KYC section is an ad, ignored. Attach: dpi.id / dpi.pay / include.access concepts; NGA/KEN/ZAF hubs. -->

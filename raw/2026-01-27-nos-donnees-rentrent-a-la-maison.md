@@ -3,6 +3,7 @@ type: source
 title: Nos données rentrent à la maison
 url: https://www.sidwaya.info/nos-donnees-rentrent-a-la-maison/
 publisher: Sidwaya
+ingested: 2026-07-18
 author: La rédaction
 published: 2026-01-27
 date_precision: day

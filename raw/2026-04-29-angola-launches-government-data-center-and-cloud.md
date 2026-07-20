@@ -14,6 +14,7 @@ places: [AGO]
 topics: [infra.store, infra.connect, gov.policy, dpi.govtech, geopol.gulf]
 entities: [[angosat-2]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 The Minister of Telecommunications, Information Technologies and Social Communication highlighted, during the inauguration ceremony of the Data Center and Cloud of the Government of Angola, that the project represents a decisive milestone in the country's digital trajectory and a firm step towards the consolidation of an economy based on knowledge and innovation.

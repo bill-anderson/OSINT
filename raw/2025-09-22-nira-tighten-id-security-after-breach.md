@@ -6,6 +6,7 @@ publisher: Biometric Update
 published: 2025-09-22
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [UGA]
 topics: [dpi.id, gov.protect, infra.cybersec]
 entities: [[nira-uganda], [personal-data-protection-office-uganda], [unwanted-witness]]

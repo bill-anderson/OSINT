@@ -6,10 +6,12 @@ publisher: ITWeb Africa
 published: 2026-07-09
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [LSO]
 topics: [tech.ai, gov.policy, include.divides, gov.regional]
 entities: [[micsti-lesotho]]
 lens: [sovereignty]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: LSO-2026-07-17
 ---

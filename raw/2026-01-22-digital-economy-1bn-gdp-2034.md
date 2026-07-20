@@ -6,6 +6,7 @@ publisher: The Citizen
 published: 2026-01-22
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [TZA]
 topics: [gov.policy, tech.industry]
 entities: [[ict-commission-tanzania], [micit-tanzania]]

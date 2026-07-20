@@ -13,6 +13,7 @@ places: [KEN, SEN]
 topics: [infra.connect, finance.new]
 entities: [[yas], [axian-telecom], [ebrd], [ebrd-yas-network-loan]]
 lens: []
+body_completeness: full
 ---
 
 <!-- TechBooky, 14 Jul 2026. SAME EVENT as the held 2026-07-13 EBRD-Yas source → attach to the existing

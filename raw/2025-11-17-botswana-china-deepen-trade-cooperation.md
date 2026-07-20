@@ -3,6 +3,7 @@ type: source
 title: Botswana, China deepen trade cooperation
 url: https://www.mmegi.bw/news/botswana-china-deepen-trade-cooperation/news
 publisher: Mmegi
+ingested: 2026-07-18
 author: Tsaone Basimanebotlhe
 published: 2025-11-17
 date_precision: day
@@ -13,6 +14,7 @@ places: [BWA]
 topics: [geopol.china, tech.ai, tech.innovate, capacity.research]
 entities: [[tiroeaone-ntsima], [ministry-of-trade-and-entrepreneurship-botswana]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Botswana, China deepen trade cooperation

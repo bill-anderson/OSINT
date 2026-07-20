@@ -6,12 +6,14 @@ publisher: ACTUALITE.CD
 published: 2025-03-15
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: COD-2026-07-17
 places: [COD]
 topics: [dpi.id, gov.policy, infra.store, finance.mou, tech.innovate]
 entities: [[trident-digital-tech], [augustin-kibassa-maliba], [felix-tshisekedi], [judith-suminwa], [william-lim], [tridentity], [rdc-pass]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 Augustin Kibassa Maliba, Ministre des PT-NTIC

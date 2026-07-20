@@ -3,6 +3,9 @@ type: source
 title: "Atelier de simulation d'exercice sur table au Bénin : le renforcement des capacités pour la gestion de crise"
 url: https://fraternite.bj/atelier-de-simulation-dexercice-sur-table-au-benin-le-renforcement-des-capacites-pour-la-gestion-de-crise/
 publisher: Fraternité
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Isac YAI
 published: 2025-03-31
 date_precision: day

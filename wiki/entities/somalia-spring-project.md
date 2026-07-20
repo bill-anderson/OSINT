@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: initiative
 title: Somalia SPRING Project (World Bank)
 places: [SOM]

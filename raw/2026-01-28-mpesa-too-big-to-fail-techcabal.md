@@ -6,6 +6,7 @@ publisher: TechCabal
 published: 2026-01-28
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [KEN]
 topics: [dpi.pay, gov.protect]
 entities: [[safaricom], [central-bank-of-kenya]]

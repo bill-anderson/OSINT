@@ -12,6 +12,7 @@ places: [MOZ]
 topics: [gov.protect, gov.legislate]
 entities: [[mozambique-data-protection-law]]
 lens: []
+body_completeness: full
 ---
 
 TechHive Advisory review of Mozambique's comprehensive draft Personal Data Protection Law, which aims to align with international standards, particularly the African Union's Malabo Convention (ratified by Mozambique in 2019). Scope: applies to processing of personal data within Mozambique by natural/legal persons, public or private, for economic and non-private purposes, in physical and digital formats, with exemptions for journalistic/artistic/literary purposes and carve-outs for national security/defence. Principles mirror international best practice (transparency, purpose limitation, legality/fairness, data minimisation, accuracy, storage limitation, security, accountability).

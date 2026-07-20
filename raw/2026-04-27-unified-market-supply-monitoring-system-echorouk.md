@@ -1,6 +1,7 @@
 ---
 type: source
 title: "نظام معلوماتي موحد لمتابعة تموين السوق وتعزيز ضبط الأسعار"
+ingested: 2026-07-18
 title_en: Government begins a unified IT system to monitor national market supply and prices — digital platforms for distribution/prices and storage spaces, per PM Ghrieb's 9 Apr 2026 inter-ministerial council; built per national data-governance framework (Decree 25-320)
 url: https://www.echoroukonline.com/%D9%86%D8%B8%D8%A7%D9%85-%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA%D9%8A-%D9%85%D9%88%D8%AD%D8%AF-%D9%84%D9%85%D8%AA%D8%A7%D8%A8%D8%B9%D8%A9-%D8%AA%D9%85%D9%88%D9%8A%D9%86-%D8%A7%D9%84%D8%B3%D9%88
 publisher: Echorouk El Yawmi
@@ -15,6 +16,7 @@ places: [DZA]
 topics: [dpi.mis, dpi.exchange, data.statistics, gov.policy]
 entities: [[ministere-du-commerce-interieur, haut-commissariat-a-la-numerisation, meriem-benmouloud, office-national-des-statistiques]]
 lens: []
+body_completeness: full
 provenance_flag: privately-owned
 ---
 

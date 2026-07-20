@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: deal
 title: Yas / AXIAN Telecom — Wananchi Group acquisition
 places: [UGA, KEN]

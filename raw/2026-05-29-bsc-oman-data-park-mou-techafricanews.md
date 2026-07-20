@@ -3,6 +3,7 @@ type: source
 title: Broadband Systems and Oman Data Park Sign Deal to Expand Rwanda's Digital Infrastructure
 url: https://techafricanews.com/2026/05/29/broadband-systems-and-oman-data-park-sign-deal-to-expand-rwandas-digital-infrastructure/
 publisher: TechAfrica News
+ingested: 2026-07-19
 author: Joyce Onyeagoro
 published: 2026-05-29
 date_precision: day

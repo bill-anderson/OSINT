@@ -6,6 +6,7 @@ publisher: TechCabal
 published: 2025-06-11
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [NGA]
 topics: [dpi.pay, infra.connect, gov.policy]
 entities: [[ncc], [central-bank-of-nigeria]]

@@ -10,6 +10,7 @@ ingested: 2026-07-20
 places: [TGO]
 topics: [dpi.govtech, dpi.exchange, gov.regional, finance.mou]
 entities: [[atd-togo], [nitec-kazakhstan]]
+lens: []
 body_completeness: full
 ---
 

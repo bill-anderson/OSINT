@@ -3,6 +3,9 @@ type: source
 title: Botswana unveils initiative to support start-ups
 url: https://itweb.africa/article/botswana-unveils-initiative-to-support-start-ups/WnpNgq21nRaMVrGd
 publisher: ITWeb Africa
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Phathisani Moyo
 published: 2026-03-13
 date_precision: day

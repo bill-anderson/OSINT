@@ -3,6 +3,8 @@ type: source
 title: "Africa's Data Centre Boom: Where The New Facilities Are Being Built"
 publisher: TechTrends Africa
 url: https://techtrends.africa/africas-data-centre-boom/
+date_precision: day
+date_source: source
 author: Okey Chigbu
 published: 2026-06-23
 accessed: 2026-07-10
@@ -11,6 +13,7 @@ places: [XAF, ZAF, NGA, KEN, EGY, SEN, GHA]
 topics: [infra.store, infra.energy, tech.ai, finance.new, geopol.usa, geopol.china]
 entities: [[cassava-technologies], [mtn-group], [airtel-africa], [us-dfc], [seacom]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- On-the-record trade reporting with linked primaries (DFC, IFC, operator releases).

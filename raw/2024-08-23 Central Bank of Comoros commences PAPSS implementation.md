@@ -13,6 +13,7 @@ places: [COM]
 topics: [dpi.pay, gov.regional]
 entities: [[bcc-comoros], [papss], [afreximbank]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Afreximbank (Aug 2024): the Banque Centrale des Comores (BCC) and PAPSS announced official commencement of PAPSS implementation in Comoros. BCC signed the membership agreement July 2024; a workshop (21 Aug 2024, Moroni) brought together commercial-bank + MFI CEOs; press conference with BCC Governor Dr Younoussa Imani + PAPSS Deputy CEO John Bosco Sebabi. PAPSS lets Comorians pay other African countries directly in Comorian francs (~120-second settlement), reducing FX-conversion cost/delay — part of AfCFTA. Commercial banks to begin integrating. -->

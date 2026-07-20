@@ -3,6 +3,7 @@ type: source
 title: "Stratégie : Le Cameroun mise sur la souveraineté numérique"
 url: https://lejour.cm/stragie-le-cameroun-mise-sur-la-souverainete-numerique/
 publisher: Le Jour
+ingested: 2026-07-18
 author: Solière Champlain Paka
 published: 2026-06-12
 date_precision: day
@@ -13,6 +14,7 @@ places: [CMR]
 topics: [infra.store]
 entities: [[camtel]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Stratégie : Le Cameroun mise sur la souveraineté numérique

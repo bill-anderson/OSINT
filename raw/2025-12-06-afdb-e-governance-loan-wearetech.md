@@ -6,12 +6,14 @@ publisher: We Are Tech Africa
 published: 2025-12-06
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CPV-2026-07-17
 places: [CPV]
 topics: [dpi.govtech, finance.new, gov.policy]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 # Cape Verde Gets €17.7 Million AfDB Support for E-Governance Upgrade

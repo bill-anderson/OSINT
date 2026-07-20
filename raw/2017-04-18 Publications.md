@@ -3,6 +3,8 @@ type: source
 title: "DIODE Publications list"
 publisher: DIODE network / Univ. Manchester GDI
 url: https://diode.network/publications/
+date_precision: day
+date_source: source
 author: Richard Heeks et al. (maintainers)
 published: 2017-04-18
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [XGL]
 topics: [capacity.research, tech.industry, include.divides, data.open]
 entities: [[diode-network]]
 lens: [colonialism]
+body_completeness: full
 ---
 
 <!-- Curated bibliography (DIODE network, Univ. Manchester GDI) - filed as ONE `resource` with status needs-review. Entries are NOT promoted at intake; named scholarly works become `publication`s only on deliberate later review or when actually cited. Framework/standard entries -> instrument; agency reports -> source. -->

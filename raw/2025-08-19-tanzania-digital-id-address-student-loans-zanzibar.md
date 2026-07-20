@@ -6,6 +6,7 @@ publisher: Biometric Update
 published: 2025-08-19
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [TZA]
 topics: [dpi.id, dpi.registry, include.access]
 entities: [[nida-tanzania], [heslb]]

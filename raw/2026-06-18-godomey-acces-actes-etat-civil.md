@@ -3,6 +3,9 @@ type: source
 title: "Accès aux actes d'état civil à Godomey: autorités communales et citoyens en dialogue ouvert"
 url: https://lanation.bj/index.php/actualites/acces-aux-actes-detat-civil-a-godomey-autorites-communales-et-citoyens-en-dialogue-ouvert
 publisher: La Nation
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Joël C. TOKPONOU
 published: 2026-06-18
 date_precision: day

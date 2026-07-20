@@ -3,6 +3,10 @@ type: source
 title: "Communication électronique au sein des ministères et institutions: un manuel de procédures de gestion des systèmes d’information validé"
 url: https://www.sidwaya.info/communication-electronique-au-sein-des-ministeres-et-institutions-un-manuel-de-procedures-de-gestion-des-systemes-dinformation-valide/
 publisher: Sidwaya
+ingested: 2026-07-18
+entities: []
+lens: []
+body_completeness: full
 author: Kadi RABO
 published: 2025-09-23
 date_precision: day

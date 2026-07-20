@@ -14,6 +14,7 @@ places: [AGO]
 topics: [data.satellite, infra.connect, geopol.china, finance.new, data.open, gov.standards]
 entities: [[ministerio-das-telecomunicacoes-tecnologias-de-informacao-e-comunicacao-social-angola], [angosat-2], [sinohydro], [eximbank-china], [servico-nacional-de-contratacao-publica-angola], [rede-nacional-de-banda-larga-angola]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # PAC2025: MINTTICS com despesas de 673,5 mil milhões USD – Quase metade do valor é para o Angosat-3, o satélite doméstico para "apoiar a agricultura e combater a seca"

@@ -13,6 +13,7 @@ places: [BFA]
 topics: [capacity.training, dpi.govtech, include.divides]
 entities: [[pactdigital]]
 lens: []
+body_completeness: full
 ---
 
 <!-- We Are Tech (Sep 2025): PACTDIGITAL (Ministry of Digital Economy) outlined (10 Sep 2025) support to secondary/technical/vocational education: update telecom/ICT curricula to job-market needs, launch an online learning platform, strengthen local educational-multimedia-content skills, and equip scientific high schools in Ouagadougou and Bobo-Dioulasso. A project to develop 95 educational mobile apps was announced Feb 2024. Coordinator Haoua Ouattara/Dama. Digital-skills/human-capital strand of PACTDIGITAL, amid connectivity/training constraints. -->

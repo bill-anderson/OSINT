@@ -3,6 +3,8 @@ type: source
 title: "Smart Africa, RealTyme join forces for data sovereignty"
 publisher: ITWeb Africa
 url: https://itweb.africa/article/smart-africa-realtyme-join-forces-for-data-sovereignty/
+date_precision: day
+date_source: source
 author: Nsuku Khosa
 published: 2026-04-16
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [XAF, XSS]
 topics: [infra.cybersec, tech.ai, gov.protect, geopol.usa]
 entities: [[smart-africa], [realtyme], [smart-africa-realtyme-partnership]]
 lens: [sovereignty, colonialism]
+body_completeness: excerpt
 ---
 
 <!-- Smart Africa Digital Academy + RealTyme (Swiss zero-trust comms) 'national protection framework'; three pillars framed as 'digital decolonisation'; explicitly positioned against the US Cloud Act. Claim: Africa ~60% higher cyber-attack rate than global average. -->

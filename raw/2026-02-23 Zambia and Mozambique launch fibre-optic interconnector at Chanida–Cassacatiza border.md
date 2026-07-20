@@ -3,6 +3,8 @@ type: source
 title: "Zambia and Mozambique launch fibre-optic interconnector at Chanida-Cassacatiza border"
 publisher: Club of Mozambique
 url: https://clubofmozambique.com/news/zambia-and-mozambique-launch-fibre-optic-interconnector/
+date_precision: day
+date_source: source
 author: Zambian Digest
 published: 2026-02-23
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [ZMB, MOZ, XSA]
 topics: [infra.connect, gov.regional, digital.rural, dpi.exchange]
 entities: [[vodacom], [bayobab-zambia]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Zambia + Mozambique commissioned the Chanida-Cassacatiza cross-border fibre interconnector (~23 Feb 2026), linking Zambia's backbone to Mozambique's submarine-cable network. Minister Mutati: Zambia now fibre-linked to eight neighbours, 'most digitally connected in Southern Africa'. Bayobab (MTN) + Vodacom. -->

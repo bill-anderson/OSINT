@@ -6,10 +6,12 @@ publisher: Expresso das Ilhas
 published: 2025-11-12
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [CPV]
 topics: [tech.innovate, finance.new, capacity.training]
 entities: [[gov-cv], [pedro-lopes], [pro-empresa]]
 lens: []
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: CPV-2026-07-17
 ---

@@ -14,6 +14,7 @@ places: [MUS]
 topics: [dpi.id, dpi.registry, dpi.govtech]
 entities: [[civil-status-division-mauritius]]
 lens: []
+body_completeness: full
 ---
 
 Presentation on the civil registration and vital statistics (CRVS) and identity ecosystem of the Republic of Mauritius, by William Ayelou, dated 28 June 2019. Describes how the Civil Status Division and associated bodies register vital events (births, deaths, marriages) and how these feed the national identity system and government service delivery.

@@ -3,6 +3,7 @@ type: source
 title: "Partenariat : le CEO et l'ONG Pratic s'accordent pour la souveraineté numérique"
 url: https://www.adiac-congo.com/content/partenariat-le-ceo-et-long-pratic-saccordent-pour-la-souverainete-numerique-170295
 publisher: Les Dépêches de Brazzaville (ADIAC)
+ingested: 2026-07-18
 author: Rominique Makaya
 published: 2026-06-02
 date_precision: day
@@ -13,6 +14,7 @@ places: [COG, XCA]
 topics: [infra.store, infra.energy, finance.mou, infra.connect, capacity.research]
 entities: [[pratic-congo], [centre-excellence-oyo]]
 lens: [sovereignty]
+body_completeness: full
 provenance_flag: state-aligned-outlet
 ---
 

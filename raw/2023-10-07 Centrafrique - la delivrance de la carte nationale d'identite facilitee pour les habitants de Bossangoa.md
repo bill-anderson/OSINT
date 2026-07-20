@@ -13,6 +13,7 @@ places: [CAF]
 topics: [dpi.id, include.access]
 entities: [[al-madina]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Decentralised CNI enrolment: Al Madina, the firm producing CAR's national ID card, set up a temporary secondary centre in Bossangoa (Ouham, north) for 10 days to spare residents the costly trip to Bangui. Enrolment (photo, fingerprint, signature) done at the local police station; 2,500 applicants targeted; cards printed in Bangui and returned. Coordinator general of Al-Madina: Ulrich Perrin Marandji Moholo. Illustrates the Bangui-centralisation problem behind CAR's ID-access gap. -->

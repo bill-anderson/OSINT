@@ -14,6 +14,7 @@ places: [XGL]
 topics: [gov.protect, infra.store, gov.legislate]
 entities: []
 lens: [sovereignty]
+body_completeness: full
 ---
 
 CGD Working Paper 674 (January 2024) by David Medine, "Data Localization: A 'Tax' on the Poor." The paper argues that data-localization mandates - requiring data to be stored or processed within national borders - raise costs for financial and digital services and disproportionately burden low-income users, weighing claimed sovereignty and privacy benefits against economic and inclusion costs.

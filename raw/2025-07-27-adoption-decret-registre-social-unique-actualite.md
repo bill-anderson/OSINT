@@ -6,12 +6,14 @@ publisher: ACTUALITE.CD
 published: 2025-07-27
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: COD-2026-07-17
 places: [COD]
 topics: [dpi.registry, dpi.mis, gov.legislate, gov.policy, include.access]
 entities: [[nathalie-aziza-munana], [ministere-affaires-sociales-drc], [felix-tshisekedi], [judith-suminwa]]
 lens: []
+body_completeness: full
 ---
 
 Les membres du gouvernement Suminwa avec Félix Tshisekedi

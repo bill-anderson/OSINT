@@ -6,12 +6,14 @@ publisher: MyJoyOnline
 published: 2026-05-30
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: GHA-2026-07-17
 places: [GHA]
 topics: [gov.legislate, gov.policy]
 entities: [[samuel-nartey-george], [nita-ghana]]
 lens: []
+body_completeness: full
 ---
 
 # NITA Bill: 'I hear the tech industry, but we won't rewrite rules' – Sam George to critics on legislative process

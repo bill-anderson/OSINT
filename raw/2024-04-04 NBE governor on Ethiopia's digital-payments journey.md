@@ -11,6 +11,7 @@ places: [ETH]
 topics: [dpi.pay, gov.policy, include.access]
 entities: [[national-bank-of-ethiopia], [telebirr], [ethswitch]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # NBE governor on Ethiopia's digital-payments journey

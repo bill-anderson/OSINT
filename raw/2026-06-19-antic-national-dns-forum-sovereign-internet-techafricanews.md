@@ -3,6 +3,7 @@ type: source
 title: ANTIC Drives Push for Secure and Sovereign Internet at National DNS Forum in Cameroon
 url: https://techafricanews.com/2026/06/19/antic-drives-push-for-secure-and-sovereign-internet-at-national-dns-forum-in-cameroon/
 publisher: TechAfrica News
+ingested: 2026-07-18
 author: Joyce Onyeagoro
 published: 2026-06-19
 date_precision: day
@@ -11,6 +12,7 @@ places: [CMR]
 topics: [infra.cybersec, infra.connect, gov.standards, infra.capacity, tech.industry]
 entities: [[antic-cameroon]]
 lens: [sovereignty]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: CMR-2026-07-17
 ---

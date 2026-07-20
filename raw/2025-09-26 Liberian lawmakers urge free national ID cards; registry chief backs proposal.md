@@ -13,6 +13,7 @@ places: [LBR]
 topics: [dpi.id, include.access, gov.legislate]
 entities: [[national-identification-registry-liberia], [great-project-liberia]]
 lens: []
+body_completeness: full
 ---
 
 <!-- House of Reps pushing to make mandatory national ID free. NIR charges US$5/card for banking + govt services access. Lawmakers: fee out of reach — 2019 WB report, 3/10 in Monrovia + 8/10 rural in poverty. Rep Moima Briggs-Mensah (Bong) triggered the hearing; Rep Ivar Jones (Margibi) referred it to committees (report within a week). ED Andrew Peters: no objection to free if govt shoulders cost. Only 16% of ~5.5m enrolled; NIR processes 5,000 cards/day (~3 yrs to serve all), constrained by roads/postal/logistics. Plans: 100 enrollment centres, 6 printing machines. Funded via WB $30m GREAT. Earlier deadline extended 76 days. -->

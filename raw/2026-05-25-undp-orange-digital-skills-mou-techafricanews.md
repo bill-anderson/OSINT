@@ -6,12 +6,14 @@ publisher: TechAfrica News
 published: 2026-05-25
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [capacity.training, capacity.literacy, include.divides, digital.rural, finance.mou, tech.innovate]
 entities: [[undp], [orange-cote-divoire], [orange-digital-center], [blerta-cela], [mamadou-bamba]]
 lens: []
+body_completeness: full
 ---
 
 # UNDP Partners with Orange Côte d'Ivoire to Expand Digital Skills and Entrepreneurship in Côte d'Ivoire

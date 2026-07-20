@@ -6,10 +6,12 @@ publisher: Expresso das Ilhas
 published: 2025-10-30
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [CPV]
 topics: [infra.cybersec, dpi.govtech, gov.protect]
 entities: [[nosi], [gov-cv], [eurico-monteiro], [world-bank]]
 lens: [sovereignty]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: CPV-2026-07-17
 ---

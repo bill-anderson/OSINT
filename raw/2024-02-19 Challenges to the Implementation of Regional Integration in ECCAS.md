@@ -13,6 +13,7 @@ places: [XCA]
 topics: [gov.regional]
 entities: [[eccas]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Scholarly analysis (Pan-African University; DOI 10.47772/IJRISS.2024.801166) of why ECCAS's Annex-VII protocol on free movement of persons and goods remains poorly implemented: weak infrastructure/communication links, ethnic divide, political instability, rising nationalism, hostile relations and rivalry between heads of state, and pervasive roadblocks. Establishing/background reference for the [[eccas]] entity and the Central-Africa integration frame — tangential to data governance (free movement, not data flows), so ingested lightly. ECCAS founded 18 Oct 1983 by UDEAC members (Cameroon, CAR, Chad, Congo, Equatorial Guinea, Gabon) plus CEPGL states, Angola and São Tomé; hibernated 1992–1998. -->

@@ -3,6 +3,8 @@ type: source
 title: "Broadening advanced AI education across Africa"
 publisher: Google (The Keyword)
 url: https://blog.google/company-news/inside-google/around-the-globe/google-africa/ai-research-foundations/
+date_precision: day
+date_source: source
 author: Melanie Eusebe
 published: 2026-03-17
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [XAF, XSS, NGA]
 topics: [tech.ai, capacity.training, capacity.research, capacity.literacy]
 entities: [[google], [google-ai-research-foundations], [google-deepmind]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Primary company announcement: Google DeepMind's AI Research Foundations curriculum expands in Africa (free on Google Skills, co-developed with UCL); Google.org gave $4m to Nigeria's FATE Foundation, partnering with AIMS. Africa = 1/5 of world population but 1.8% of AI research (SCImago). -->

@@ -3,6 +3,8 @@ type: source
 title: Rwanda unveils cyber security centre of excellence
 url: https://itweb.africa/article/rwanda-unveils-cyber-security-centre-of-excellence/kLgB17ez2x4M59N4
 publisher: ITWeb Africa
+ingested: 2026-07-19
+lens: []
 author: Phyllis Birori
 published: 2025-10-03
 date_precision: day

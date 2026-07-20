@@ -13,6 +13,7 @@ places: [LBR]
 topics: [dpi.id, gov.legislate, gov.protect]
 entities: [[national-identification-registry-liberia]]
 lens: []
+body_completeness: full
 ---
 
 <!-- President Boakai signed Executive Order 147 mandating NBIS enrollment for all citizens + 90-day+ foreign residents. Biometric national ID card = primary ID for public services + private transactions; foreigners get a Foreigner ID Card. Immediate effect; all ministries/agencies/private institutions must enforce. Oversight: NIR + MFDP + Liberia Revenue Authority. NIR to provide online query portal + e-verification; fees set by NIR Board. Reaffirms unique NIN (education, health, telecom, finance, employment, security). NBIS cornerstone of Digital Transformation Initiative; biometric effort began with 2021 voter-registration pilots. NIR under the 2011 NIR Act; no religious/political/ethnic data. Dedup with 2025-05-01 Biometric Update. -->

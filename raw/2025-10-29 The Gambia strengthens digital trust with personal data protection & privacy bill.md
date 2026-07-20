@@ -13,6 +13,7 @@ places: [GMB]
 topics: [gov.protect, gov.legislate, dpi.id]
 entities: [[gambia-data-protection-act-2025]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Second outlet on the Gambian data-protection legislation (approved by Parliament). Ministry of Information: first comprehensive framework for personal data + privacy of all Gambians. Aligns with the Gambian govt's Open Data Strategy 2023-2026. WB DPI expert Tariq Malik praised it (LinkedIn), "closes an important gap." Next: implementation, awareness, capacity-building for oversight, enforcement. Notes: in 2024 The Gambia signed an MoU with Presight to support digital transformation (phase 1: digital ID + digital government). -->

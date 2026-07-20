@@ -6,6 +6,7 @@ publisher: TechAfrica News
 published: 2025-08-12
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV, CMR, GAB, TGO, GIN, SEN]

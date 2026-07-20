@@ -12,6 +12,7 @@ places: [SOM]
 topics: [gov.policy, dpi.govtech]
 entities: [[somalia-digital-transformation-strategy], [somalia-ministry-communications-technology]]
 lens: []
+body_completeness: full
 ---
 
 # Somalia moves to finalize Digital Transformation Strategy 2025-2030 with ITU support

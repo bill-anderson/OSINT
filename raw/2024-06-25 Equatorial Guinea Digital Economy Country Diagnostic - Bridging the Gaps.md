@@ -13,6 +13,7 @@ places: [GNQ]
 topics: [gov.policy, dpi.id, dpi.pay, infra.connect, dpi.govtech]
 entities: [[equatorial-guinea-digital-economy-diagnostic], [world-bank], [adige]]
 lens: []
+body_completeness: full
 ---
 
 <!-- WB Digital Economy Country Diagnostic for Equatorial Guinea (25 Jun 2024), assessing the five DE4A pillars (infrastructure, public platforms, DFS, businesses, skills). Context: National Development Plan 2035 (2021) added tech/innovation as cross-cutting; govt implementing the Digital Agenda for Equatorial Guinea (ADIGE) — 4 objectives (universalize telecom access, digitize procedures, support ICT sector, empower citizens). Findings: broadband affordability improving but limited competition + cyber weaknesses; a digital civil-registry pilot launched 2018 but digital identity NOT yet implemented; DFS nascent, NO licensed e-money/mobile-money operator. Recs: cost-oriented wholesale fibre, cyber maturity assessment, national digital-public-platforms strategy, DFS agent networks, national ICT education policy. Cross-cutting: data quality, coordination, electricity, legal framework, island-continental + gender divides. -->

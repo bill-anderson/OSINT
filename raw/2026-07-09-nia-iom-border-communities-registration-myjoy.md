@@ -6,12 +6,14 @@ publisher: MyJoyOnline
 published: 2026-07-09
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: GHA-2026-07-17
 places: [GHA]
 topics: [dpi.id]
 entities: [[national-identification-authority-ghana], [ghana-card], [iom]]
 lens: []
+body_completeness: full
 ---
 # NIA, IOM to begin special Ghana Card registration in border communities from July 13
 

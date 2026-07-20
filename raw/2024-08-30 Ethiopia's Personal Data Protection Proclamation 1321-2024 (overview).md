@@ -11,6 +11,7 @@ places: [ETH]
 topics: [gov.protect, gov.legislate, dpi.exchange]
 entities: [[ethiopia-pdpp], [ethiopian-communications-authority]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Ethiopia's Personal Data Protection Proclamation 1321/2024 (overview)

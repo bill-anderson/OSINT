@@ -13,6 +13,7 @@ places: [BDI]
 topics: [dpi.govtech, dpi.pay, gov.policy]
 entities: [[obr-burundi], [world-bank]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Merges TechAfrica (2026-01-22) + Ecofin (2026-01-23) on the same event (dedup). The Office Burundais des Recettes (OBR / Burundi Revenue Authority) launched the e-KORI online tax + non-tax revenue platform on 19 Jan 2026, World Bank-backed. Online filing/payment, remote tracking, fewer office visits; aims to raise domestic revenue and cut reliance on foreign aid (Finance/Budget/Digital-Economy Minister Dr Alain Ndikumana). Nine-phase rollout, each deliverable validated before the next; training for officials/taxpayers; cybersecurity a central focus (technical partner). Framed under Burundi's Vision 2040/2060. Ecofin URL: ecofinagency.com/news-finances/2301-52202. -->

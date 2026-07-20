@@ -12,6 +12,7 @@ places: [KEN, TZA, XEA, XSS]
 topics: [dpi.id, dpi.pay, gov.protect, include.access, gov.legislate, digital.rural]
 entities: [[cmu-africa], [safaricom], [gsma], [gates-foundation]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # My Money, Your Name: Challenges and Workarounds in ID-Required Mobile Money in East Africa | Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems

@@ -6,12 +6,14 @@ publisher: The Point
 published: 2026-02-26
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: GMB-2026-07-17
 places: [GMB]
 topics: [infra.connect, gov.policy]
 entities: []
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Satellite internet debate shifts toward balanced national connectivity strategy

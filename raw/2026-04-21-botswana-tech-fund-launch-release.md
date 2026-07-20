@@ -10,6 +10,7 @@ ingested: 2026-07-20
 places: [BWA, XSA]
 topics: [finance.new, tech.innovate]
 entities: [[botswana-tech-fund], [launch-africa-ventures], [pula-investments], [botswana-innovation-hub], [sadc], [thema-capital], [molten-ventures], [tuli-conservation-trust], [ibrahim-index-of-african-governance], [martin-davis], [florence-bavanandan], [stephen-lansdown]]
+lens: []
 body_completeness: full
 ---
 

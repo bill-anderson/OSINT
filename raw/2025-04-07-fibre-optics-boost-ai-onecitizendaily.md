@@ -3,6 +3,7 @@ type: source
 title: Gov't targets fibre optics to boost AI development
 url: https://www.onecitizendaily.com/index.php/2025/04/07/govt-targets-fibre-optics-to-boost-ai-development/
 publisher: One Citizen Daily
+ingested: 2026-07-19
 author: One Citizen Daily Newspaper
 published: 2025-04-07
 date_precision: day

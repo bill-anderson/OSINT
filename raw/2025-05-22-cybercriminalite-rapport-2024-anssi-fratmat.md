@@ -6,12 +6,14 @@ publisher: Fraternité Matin
 published: 2025-05-22
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [infra.cybersec]
 entities: [[anssi-cote-divoire], [plateforme-de-lutte-contre-la-cybercriminalite], [ci-cert]]
 lens: []
+body_completeness: full
 ---
 
 # Cybercriminalité en Côte d'Ivoire : 12 100 dossiers traités pour un préjudice de 7 milliards de FCfa

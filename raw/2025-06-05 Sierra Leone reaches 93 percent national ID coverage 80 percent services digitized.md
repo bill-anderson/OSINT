@@ -12,6 +12,7 @@ places: [SLE]
 topics: [dpi.id, dpi.govtech, dpi.exchange]
 entities: [[ncra]]
 lens: []
+body_completeness: full
 ---
 
 # Sierra Leone reaches 93 percent national ID coverage, 80 percent services digitized

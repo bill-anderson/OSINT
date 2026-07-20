@@ -6,12 +6,14 @@ publisher: Fraternité Matin
 published: 2026-05-18
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [gov.protect, gov.regional]
 entities: [[reseau-africain-autorites-protection-donnees-personnelles], [djibril-ouattara], [rgpd]]
 lens: []
+body_completeness: full
 ---
 
 # Régulation numérique en Afrique: La Côte d’Ivoire appelle à une action collective pour renforcer la protection des données

@@ -3,6 +3,9 @@ type: source
 title: Anatomy of a P500 Million e-government fiasco
 url: https://www.sundaystandard.info/anatomy-of-a-p500-million-e-government-fiasco/
 publisher: Sunday Standard
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Khonani Ontebetse
 published: 2025-05-12
 date_precision: day

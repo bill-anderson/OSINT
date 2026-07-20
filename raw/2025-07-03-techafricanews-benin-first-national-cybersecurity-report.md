@@ -3,6 +3,9 @@ type: source
 title: Benin Releases First National Cybersecurity Report Highlighting Rising Threats
 url: https://techafricanews.com/2025/07/03/benin-releases-first-national-cybersecurity-report-highlighting-rising-threats
 publisher: TechAfrica News
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Jennifer Onyeagoro
 published: 2025-07-03
 date_precision: day

@@ -3,6 +3,7 @@ type: source
 title: "Cyber Africa Forum 2025: Le rapport de vulnérabilités du cyberespace béninois dévoilé"
 url: https://lanation.bj/numerique/cyber-africa-forum-2025-le-rapport-de-vulnerabilites-du-cyberespace-beninois-devoile
 publisher: La Nation
+ingested: 2026-07-18
 author: Christian Hounongbe
 published: 2025-06-26
 date_precision: day
@@ -13,6 +14,7 @@ places: [BEN]
 topics: [infra.cybersec, gov.policy, gov.standards, dpi.govtech]
 entities: [[asin-benin], [cnin-benin], [cyber-africa-forum], [bjcsirt], [marc-andre-loko], [ouanilo-medegan-fagla]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Cyber Africa Forum 2025: Le rapport de vulnérabilités du cyberespace béninois dévoilé

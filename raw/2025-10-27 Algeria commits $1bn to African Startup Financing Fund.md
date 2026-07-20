@@ -11,6 +11,7 @@ places: [DZA, XAF]
 topics: [finance.new, gov.regional, tech.innovate]
 entities: [[african-startup-fund-algeria]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Algeria commits $1bn to an African startup financing fund

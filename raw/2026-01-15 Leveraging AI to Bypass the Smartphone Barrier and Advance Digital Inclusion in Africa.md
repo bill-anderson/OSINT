@@ -3,6 +3,8 @@ type: source
 title: "Leveraging AI to Bypass the Smartphone Barrier and Advance Digital Inclusion in Africa"
 publisher: TechAfrica News
 url: https://techafricanews.com/2026/01/15/leveraging-ai-to-bypass-the-smartphone-barrier-and-advance-digital-inclusion-in-africa/
+date_precision: day
+date_source: source
 author: Joyce Onyeagoro
 published: 2026-01-15
 accessed: 2026-07-12
@@ -11,6 +13,7 @@ places: [XAF, ZMB, GHA]
 topics: [tech.ai, include.divides, include.access, capacity.literacy]
 entities: [[gsma], [mtn-group], [ralph-mupita], [samuel-nartey-george], [viamo], [axian-telecom], [african-telecommunications-union]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Named editorial analysis (admissible): voice/NLP AI as an access layer for feature-phone users. Examples: Ask Viamo Anything (AVA, Zambia — 59% women users, GSMA study); MTN "Miss Baza" voice assistant (MWC Kigali 2025, 4 languages). Quotes: Mupita (MTN), Nartey George (Ghana min.), Omo (ATU SG), Jaber (Axian). New entities: viamo, axian-telecom, african-telecommunications-union. krosai/miss-baza deferred. -->

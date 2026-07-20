@@ -6,10 +6,12 @@ publisher: Lesotho Times
 published: 2025-07-11
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [LSO]
 topics: [infra.connect, include.access, tech.industry]
 entities: [[econet-telecom-lesotho]]
 lens: []
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: LSO-2026-07-17
 ---

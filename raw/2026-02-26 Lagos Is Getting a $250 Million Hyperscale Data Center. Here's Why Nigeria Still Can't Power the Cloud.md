@@ -3,6 +3,8 @@ type: source
 title: "Lagos Is Getting a $250 Million Hyperscale Data Center. Here's Why Nigeria Still Can't Power the Cloud"
 publisher: TechMoonshot
 url: https://techmoonshot.com/2026/02/26/lagos-is-getting-a-250-million-hyperscale-data-center/
+date_precision: day
+date_source: source
 author: Fatima Oladunni
 published: 2026-02-26
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [NGA]
 topics: [infra.store, infra.energy, gov.protect, infra.connect]
 entities: [[kasi-cloud], [nsia], [equinix], [africa-data-centres]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Kasi Cloud (NSIA-backed) broke ground on a $250m hyperscale campus in Lekki. NG capacity ~86MW operational (2025), >320MW planned (~4x); grid never >6GW for 230m; diesel $0.40-0.50/kWh vs $0.05-0.10 grid; ~$12/watt build. -->

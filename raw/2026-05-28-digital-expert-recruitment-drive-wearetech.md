@@ -6,12 +6,14 @@ publisher: We Are Tech Africa
 published: 2026-05-28
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [capacity.training, gov.policy, tech.ai, infra.cybersec, dpi.govtech, gov.legislate]
 entities: [[ministry-of-digital-transition-and-digitalization-cote-divoire]]
 lens: []
+body_completeness: full
 ---
 
 # Côte d'Ivoire seeks experts in AI, cybersecurity and digital governance

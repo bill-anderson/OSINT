@@ -3,6 +3,9 @@ type: source
 title: Botswana launches national e-waste strategy as BOCRA and Environmental Department sign partnership agreement
 url: https://techreviewafrica.com/news/6284/botswana-launches-national-e-waste-strategy-as-bocra-and-environmental-department-sign-partnership-agreement
 publisher: Tech Review Africa
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Nana Appiah Acquaye
 published: 2026-07-13
 date_precision: day

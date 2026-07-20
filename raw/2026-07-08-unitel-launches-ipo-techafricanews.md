@@ -3,6 +3,8 @@ type: source
 title: UNITEL Launches IPO, Opens 15% Stake to Public Investors
 url: https://techafricanews.com/2026/07/08/unitel-launches-ipo-opens-15-stake-to-public-investors/
 publisher: TechAfrica News
+lens: []
+body_completeness: full
 author: Editorial Team
 published: 2026-07-08
 date_precision: day

@@ -6,12 +6,14 @@ publisher: TechAfrica News
 published: 2026-03-25
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: GHA-2026-07-17
 places: [GHA]
 topics: [dpi.id, infra.cybersec]
 entities: [[mtn-ghana], [national-communications-authority-ghana]]
 lens: []
+body_completeness: full
 ---
 # MTN Ghana Backs Phased SIM Re-Registration to Enhance Security
 

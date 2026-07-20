@@ -11,6 +11,7 @@ places: [EGY]
 topics: [dpi.registry, dpi.govtech, gov.legislate]
 entities: [[egypt-property-id-law]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Egypt approves Property ID Law to digitise the real-estate sector

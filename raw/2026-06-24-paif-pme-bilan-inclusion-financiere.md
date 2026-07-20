@@ -3,6 +3,9 @@ type: source
 title: "Transformation numérique, inclusion financière et financement des PME: le bilan d'un projet structurant au Burkina Faso"
 url: https://www.sidwaya.info/transformation-numerique-inclusion-financiere-et-financement-des-pme-le-bilan-dun-projet-structurant-au-burkina-faso/
 publisher: Sidwaya
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Arouna KABORE
 published: 2026-06-24
 date_precision: day

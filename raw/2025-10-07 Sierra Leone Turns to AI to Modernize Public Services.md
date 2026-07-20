@@ -12,6 +12,7 @@ places: [SLE]
 topics: [tech.ai, dpi.govtech, capacity.training]
 entities: [[world-bank]]
 lens: []
+body_completeness: full
 ---
 
 # Sierra Leone Turns to AI to Modernize Public Services

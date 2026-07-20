@@ -13,6 +13,7 @@ places: [MWI]
 topics: [dpi.id, dpi.registry, include.access]
 entities: [[national-registration-bureau-malawi], [undp]]
 lens: []
+body_completeness: full
 ---
 
 At the ID4Africa 2025 AGM in Ethiopia, NRB Principal Secretary Mphatso Sambo presented Malawi's identity progress ahead of a full-scale digital ID rollout targeted for 2026, following a completed pilot. As of the report, 12.5 million citizens (almost 100 percent of the eligible 16-and-above population, more than half of them women) were enrolled for a national ID, linked with over 33 public and private institutions to unlock finance, social protection and services. Work is supported by UNDP, the EU and Irish Aid.

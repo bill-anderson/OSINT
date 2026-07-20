@@ -13,6 +13,7 @@ places: [GIN]
 topics: [dpi.pay, include.access]
 entities: [[bcrg], [mojaloop]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- BCRG launched work on an instant payment system (SPI) on 18 Dec 2025 (consultative process: banks, EMIs, MFIs, fintechs). VG Mohamed Lamine Conté. Real-time send/receive any time; merchant + P2P. Tech: public, open, interoperable, Mojaloop-based (limit tech dependence, local innovation). Inclusion: 23% of adults hold an account (up from 7% ten years ago), below SSA average; mobile-money transactions +8.6% to 46,795bn GNF in Q2 2024. Dedup with 2025-12-21 Ecofin SPI. -->

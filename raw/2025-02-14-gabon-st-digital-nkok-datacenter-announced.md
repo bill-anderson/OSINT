@@ -6,10 +6,12 @@ publisher: GabonReview
 published: 2025-02-14
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [GAB]
 topics: [infra.store]
 entities: [[st-digital-gabon]]
 lens: [sovereignty]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: GAB-2026-07-17
 ---

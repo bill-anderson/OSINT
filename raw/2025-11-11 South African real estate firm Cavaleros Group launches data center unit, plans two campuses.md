@@ -3,6 +3,8 @@ type: source
 title: South African real estate firm Cavaleros Group launches data center unit, plans two campuses
 url: https://www.datacenterdynamics.com/en/news/south-african-real-estate-firm-cavaleros-group-launches-data-center-unit-plans-two-campuses
 publisher: Data Center Dynamics
+lens: []
+body_completeness: full
 author: Dan Swinhoe
 published: 2025-11-11
 date_precision: day

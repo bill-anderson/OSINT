@@ -6,6 +6,7 @@ publisher: The Citizen
 published: 2026-07-04
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [TZA]
 topics: [infra.connect, tech.industry, include.access]
 entities: [[yas-tanzania]]

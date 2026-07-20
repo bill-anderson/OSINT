@@ -3,6 +3,7 @@ type: source
 title: "Deux start-up ivoiriennes (SIIN, DIGITECH GROUP) retenues pour la plateforme nationale des attestations automobiles de Guinée"
 url: https://aminata.com/deux-start-up-ivoiriennes-pour-la-conception-et-la-mise-en-oeuvre-de-la-plateforme-nationale-de-gestion-des-attestations-automobiles/
 publisher: Aminata.com
+ingested: 2026-07-18
 author: Ikd
 published: 2025-08-01
 date_precision: day
@@ -13,6 +14,7 @@ places: [GIN, CIV]
 topics: [dpi.govtech, tech.industry]
 entities: [[siin], [digitech-group]]
 lens: []
+body_completeness: full
 ---
 
 # Deux start-up ivoiriennes pour la conception et la mise en œuvre de la plateforme nationale de gestion des attestations automobiles

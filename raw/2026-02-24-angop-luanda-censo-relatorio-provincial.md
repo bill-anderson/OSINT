@@ -10,6 +10,7 @@ type: source
 places: [AGO]
 topics: [data.statistics, dpi.id, dpi.registry, gov.policy, include.divides]
 entities: [[ine-angola], [joel-futi], [carlos-de-lemos], [censo-2024-angola], [bilhete-de-identidade-angola], [angop]]
+lens: []
 body_completeness: full
 ---
 

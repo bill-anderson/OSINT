@@ -6,6 +6,7 @@ publisher: Digital Business Africa
 published: 2025-09-29
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [TCD]
 topics: [infra.connect, gov.policy, include.access]
 entities: [[starlink], [arcep-chad]]

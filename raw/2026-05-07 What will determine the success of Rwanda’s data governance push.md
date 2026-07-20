@@ -12,6 +12,7 @@ places: [RWA]
 topics: [dpi.exchange, data.statistics, data.open, gov.policy, dpi.govtech]
 entities: [[cenfri], [nisr], [rwanda-national-data-sharing-policy]]
 lens: []
+body_completeness: full
 ---
 
 # What will determine the success of Rwanda’s data governance push? – Cenfri

@@ -6,12 +6,14 @@ publisher: MyJoyOnline
 published: 2025-12-15
 date_precision: day
 date_source: proxy
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: GHA-2026-07-17
 places: [GHA]
 topics: [dpi.pay, data.statistics]
 entities: [[bank-of-ghana]]
 lens: []
+body_completeness: full
 ---
 # Mobile money transactions hits GH¢3trn as digital payments surge – BoG Report
 

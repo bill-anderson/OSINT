@@ -3,6 +3,7 @@ type: source
 title: "Code du numérique : huit décrets d'application enfin adoptés"
 url: https://lanation.bj/actualites/code-du-numerique-huit-decrets-dapplication-enfin-adoptes
 publisher: La Nation
+ingested: 2026-07-18
 author: Joël TOKPONOU
 published: 2025-07-02
 date_precision: day
@@ -13,6 +14,7 @@ places: [BEN]
 topics: [gov.legislate, gov.protect, infra.cybersec, dpi.id, gov.standards]
 entities: [[code-du-numerique-benin], [conseil-des-ministres-benin]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Code du numérique : huit décrets d'application enfin adoptés

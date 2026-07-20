@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: government-body
 title: National Identification Authority (NIA, Ghana)
 places: [GHA]

@@ -13,6 +13,7 @@ places: [COD]
 topics: [dpi.registry, dpi.govtech, dpi.mis]
 entities: [[encore-drc], [world-bank]]
 lens: []
+body_completeness: full
 ---
 
 <!-- World Bank (Jul 2025): in early 2025 the DRC launched its first clean, digital directory of civil servants (central government + Kinshasa province) — before this the number of civil servants was unknown and no consolidated cross-ministry database existed (ghost-workers/wage-bill problem). Ceremony chaired by PM Judith Suminwa + VPM/Civil Service Minister Jean-Pierre Lihau. Supported by the WB-funded ENCORE project (Enhancing Collection of Revenue and Expenditure), implemented with the Ministry of Civil Service and public-finance reform committee COREF. A registry/HRMIS DPI use case tackling payroll integrity. -->

@@ -3,6 +3,9 @@ type: source
 title: Orange Money, Paymentology strengthen online payment security
 url: https://www.mmegi.bw/business/orange-money-paymentology-strengthen-online-payment-security/news
 publisher: Mmegi
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Pauline Dikuelo
 published: 2026-04-13
 date_precision: day

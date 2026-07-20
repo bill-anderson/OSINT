@@ -13,6 +13,7 @@ places: [CAF]
 topics: [gov.protect, gov.legislate]
 entities: [[car-data-protection-law-24-001]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Analyst review (TechHive Advisory) of CAR's Law No. 24.001 on the Protection of Personal Data, enacted Jan 2024 — cite as analysis, not primary. Comprehensive framework: broad scope (any processing within/affecting CAR, incl. security/defence/justice, with personal-use and technical-storage exemptions); principles (lawfulness, fairness, transparency, accuracy, storage/purpose limitation); lawful bases incl. consent (parental for minors). Sensitive data (race, politics, religion, union, genetic/biometric, health, sex life) generally prohibited barring conditions; direct marketing needs prior consent + opt-out. Cross-border transfers tiered: allowed to states with similar protection, specific conditions for CEMAC/ECCAS members, derogations for others. Rights: access, rectification, erasure, objection, no solely-automated decisions, information. Controllers must appoint a resident DPO and keep a processing register. Supervision: an independent authority (NOT yet established) with powers to investigate, handle complaints, sanction — warnings, cease-processing orders, fines up to 5% of annual turnover, plus criminal sanctions. -->

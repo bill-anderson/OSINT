@@ -6,12 +6,14 @@ publisher: Graphic Online
 published: 2025-05-09
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: GHA-2026-07-17
 places: [GHA]
 topics: [infra.cybersec, tech.ai]
 entities: [[cyber-security-authority-ghana]]
 lens: []
+body_completeness: full
 ---
 # Ghana launches Africa's largest AI-driven security centre
 

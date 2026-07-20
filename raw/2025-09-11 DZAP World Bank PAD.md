@@ -4,6 +4,8 @@ title: "Digital Zambia Acceleration Project (DZAP) — World Bank Project Apprai
 url: https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099100625152522349
 publisher: World Bank (International Development Association)
 published: 2025-09-11
+date_precision: day
+date_source: source
 ingested: 2026-07-10
 attachment: 2026-05-23 World Bank Zambia.pdf
 places: [ZMB]

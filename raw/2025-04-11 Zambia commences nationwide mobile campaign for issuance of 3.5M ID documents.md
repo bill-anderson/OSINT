@@ -3,6 +3,8 @@ type: source
 title: Zambia commences nationwide mobile campaign for issuance of 3.5M ID documents
 url: https://www.biometricupdate.com/202504/zambia-commences-nationwide-mobile-campaign-for-issuance-of-3-5m-id-documents
 publisher: Biometric Update
+lens: []
+body_completeness: full
 author: Ayang Macdonald
 published: 2025-04-11
 date_precision: day

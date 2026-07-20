@@ -3,6 +3,7 @@ type: source
 title: Belmoney, DigiPay enable Congolese remittances from France and Belgium (DigiTransfer)
 url: https://www.connectingafrica.com/fintech/belmoney-digipay-enable-congolese-remittances-from-france-and-belgium
 publisher: Connecting Africa
+ingested: 2026-07-18
 author: The Staff, Contributors
 published: 2026-05-28
 date_precision: day
@@ -11,6 +12,7 @@ places: [COG, COD]
 topics: [dpi.pay, finance.mou, include.access, geopol.eu]
 entities: [[digipay-group], [belmoney]]
 lens: []
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: COG-2026-07-17
 ---

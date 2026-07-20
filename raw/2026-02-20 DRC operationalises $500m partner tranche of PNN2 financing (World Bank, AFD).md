@@ -12,6 +12,7 @@ places: [COD]
 topics: [gov.policy, finance.new, infra.connect]
 entities: [[drc-national-digital-plan-pnn2], [world-bank], [idea-mpa]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- We Are Tech (Ecofin), 20 Feb 2026. Reports the DRC's 17 Feb 2026 announcement (after Minister

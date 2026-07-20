@@ -11,6 +11,7 @@ places: [ETH]
 topics: [dpi.id, dpi.govtech]
 entities: [[fayda-ethiopia-national-id]]
 lens: []
+body_completeness: full
 ---
 
 # Fayda passes 28 million registrations; education enrolment mandate

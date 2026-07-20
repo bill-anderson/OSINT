@@ -14,6 +14,7 @@ places: [NAM]
 topics: [dpi.id, dpi.govtech]
 entities: [[namibia-digital-id]]
 lens: []
+body_completeness: full
 ---
 
 Conference presentation by Melanie Tjijenda (Republic of Namibia) on identity and electronic/digital government, outlining Namibia's approach to legal identity, civil registration and e-government service delivery built on the National Population Registration System.

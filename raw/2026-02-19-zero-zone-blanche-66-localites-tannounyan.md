@@ -3,6 +3,9 @@ type: source
 title: "Burkina/Inclusion numérique : 66 localités des Tannounyan ciblées par le chantier « Zéro zone blanche »"
 url: https://lefaso.net/spip.php?article144560
 publisher: leFaso.net
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Romuald Dofini
 published: 2026-02-19
 date_precision: day

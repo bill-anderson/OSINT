@@ -13,6 +13,7 @@ places: [KEN]
 topics: [infra.store, infra.energy]
 entities: [[safaricom]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Safaricom completed phase one of the first building at its Limuru (Redhill) data center — its fourth in Kenya. Campus of 3 buildings; 2.8MW IT capacity at end of phase 2 (Jan 2026), Tier III. Free cooling + solar; innovation lab. Esther Karuga (lead): "same league with Google and Microsoft." Safaricom runs 3 other facilities around Nairobi (Kisumu, Thika, Arena) + 2 in Addis Ababa. Limuru near Nairobi (Digital Realty, PAIX, Africa Data Centres, MTN). -->

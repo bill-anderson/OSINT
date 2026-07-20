@@ -13,6 +13,7 @@ places: [AGO]
 topics: [dpi.id, dpi.registry, data.statistics, include.divides, include.access]
 entities: [[ine-angola], [bilhete-de-identidade-angola], [censo-2024-angola]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Quase metade dos angolanos sem Bilhete de Identidade - Só em Luanda há mais de 2,4 milhões de pessoas sem este documento de identificação

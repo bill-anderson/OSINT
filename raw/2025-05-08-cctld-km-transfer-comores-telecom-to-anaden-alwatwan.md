@@ -6,10 +6,12 @@ publisher: Al-Watwan
 published: 2025-05-08
 date_precision: day
 date_source: proxy
+ingested: 2026-07-18
 places: [COM]
 topics: [infra.connect, infra.store, gov.standards, dpi.govtech]
 entities: [[anaden], [comores-telecom], [comores-cable], [icann]]
 lens: [sovereignty]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: COM-2026-07-17
 ---

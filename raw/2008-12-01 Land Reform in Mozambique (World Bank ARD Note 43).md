@@ -13,6 +13,7 @@ places: [MOZ]
 topics: [dpi.registry, gov.legislate]
 entities: [[world-bank]]
 lens: []
+body_completeness: full
 ---
 
 World Bank Agriculture and Rural Development (ARD) Note 43 on land reform in Mozambique, reviewing the country's land law, tenure regime and land-administration/cadastre arrangements. A low-relevance land-administration baseline from 2008, useful only as historical context for the population/land-registry facet.

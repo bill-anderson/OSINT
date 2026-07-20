@@ -4,12 +4,15 @@ title: "Digital Public Infrastructure in Africa: A leapfrog catalyst for inclusi
 url: https://www.undp.org/africa           # RBA / DAI Hub policy paper — backfill exact publication URL
 publisher: United Nations Development Programme (Regional Bureau for Africa; Digital, AI and Innovation Hub)
 published: 2026-01-01     # approximate — cites December 2025 interviews; exact date not in capture, backfill
+date_precision: month
+date_source: source
 ingested: 2026-07-10
 attachment: "2026-07-10 undp-africa-dpi-full_report-digital-version-v2.3_compr2 (2).pdf"
 places: [XAF, NGA, TZA, ZAF, RWA, KEN, GHA]
 topics: [dpi.id, dpi.pay, dpi.exchange, dpi.govtech, gov.regional, gov.standards, gov.policy, finance.new, include.divides, include.access, infra.connect, tech.ai]
 entities: [[undp], [afcfta], [gates-foundation]]
 lens: [sovereignty, colonialism]
+body_completeness: full
 ---
 
 # Source record — Digital Public Infrastructure in Africa (UNDP)

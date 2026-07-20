@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: government-body
 title: HAAC (Haute Autorité de l'Audiovisuel et de la Communication, Togo)
 places: [TGO]

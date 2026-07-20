@@ -11,6 +11,7 @@ places: [SDN]
 topics: [dpi.govtech, infra.cybersec, tech.ai, gov.policy, gov.legislate]
 entities: [[ministry-digital-transformation-sudan], [digital-transformation-authority-sudan], [sudanese-data-and-ai-authority], [sudanese-cybersecurity-authority]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Sudan Establishes Three Digital Authorities to Advance E-Govt

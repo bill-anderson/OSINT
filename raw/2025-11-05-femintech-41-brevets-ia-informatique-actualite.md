@@ -6,12 +6,14 @@ publisher: ACTUALITE.CD
 published: 2025-11-05
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: COD-2026-07-17
 places: [COD]
 topics: [capacity.training, capacity.literacy, include.divides, tech.ai]
 entities: [[femintech], [unicef], [silikin-village], [marie-laure-lepas-kanda], [makoura-ouatara]]
 lens: []
+body_completeness: full
 ---
 
 Cérémonie de remise des brevets par Femintech

@@ -11,6 +11,7 @@ places: [EGY]
 topics: [dpi.pay, include.access, gov.policy]
 entities: [[central-bank-of-egypt]]
 lens: []
+body_completeness: full
 ---
 
 # Egypt financial inclusion reaches 77.6% (CBE, end-2025)

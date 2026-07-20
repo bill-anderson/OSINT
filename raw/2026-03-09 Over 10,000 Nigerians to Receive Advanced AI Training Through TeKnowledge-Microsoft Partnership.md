@@ -3,6 +3,8 @@ type: source
 title: "Over 10,000 Nigerians to Receive Advanced AI Training Through TeKnowledge-Microsoft Partnership"
 publisher: Tech Africa News
 url: https://techafricanews.com/2026/03/09/over-10000-nigerians-to-receive-advanced-ai-training/
+date_precision: day
+date_source: source
 author: Jennifer Onyeagoro
 published: 2026-03-09
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [NGA]
 topics: [capacity.training, tech.ai, capacity.literacy]
 entities: [[microsoft], [teknowledge]]
 lens: []
+body_completeness: full
 ---
 
 <!-- TeKnowledge named delivery partner for Phase 2 of Microsoft's AI National Skilling Initiative in Nigeria (announced 2026-03-09) — 10,000 to be trained (youth/women/developers), scaling via universities + NYSC. Phase 1 (2025): 50,000+ reached, 3,000+ advanced-certified. Coordinated with the 3MTT initiative. -->

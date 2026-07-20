@@ -6,10 +6,12 @@ publisher: We Are Tech Africa
 published: 2026-03-16
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [COD]
 topics: [gov.protect, gov.legislate, gov.policy, gov.standards, gov.regional, infra.cybersec, capacity.training, finance.new]
 entities: [[drc-digital-code], [rudi-international], [droit-numerique-cd], [malabo-convention], [african-union]]
 lens: [sovereignty]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: COD-2026-07-17
 ---

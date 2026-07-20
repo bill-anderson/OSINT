@@ -3,6 +3,9 @@ type: source
 title: "Trade Finance : Bataille entre banques et fintechs locales pour contrôler le marché du commerce international"
 url: https://leconomie.info/trade-finance-bataille-entre-banques-et-fintechs-locales-pour-controler-le-marche-du-commerce-international/
 publisher: Le quotidien L'Economie
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Francois Gael Mbala
 published: 2025-10-17
 date_precision: day

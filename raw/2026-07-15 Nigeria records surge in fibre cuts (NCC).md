@@ -13,6 +13,7 @@ places: [NGA]
 topics: [infra.connect, infra.cybersec]
 entities: [[ncc]]
 lens: []
+body_completeness: full
 ---
 
 <!-- ITWeb Africa, 15 Jul 2026, on NCC data. Nigeria fibre-cut incidents surged to a record in Apr-May 2026;

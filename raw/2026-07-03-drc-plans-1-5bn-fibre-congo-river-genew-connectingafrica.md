@@ -6,10 +6,12 @@ publisher: Connecting Africa
 published: 2026-07-03
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [COD]
 topics: [infra.connect, finance.new, finance.mou, geopol.china, include.divides]
 entities: [[genew-technologies], [drc-national-digital-plan-pnn2]]
 lens: [sovereignty, colonialism]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: COD-2026-07-17
 ---

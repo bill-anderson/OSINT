@@ -6,6 +6,7 @@ publisher: Mwananchi
 published: 2026-02-19
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [TZA]
 topics: [tech.ai, infra.cybersec]
 entities: []

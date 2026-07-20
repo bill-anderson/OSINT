@@ -6,10 +6,12 @@ publisher: We Are Tech Africa
 published: 2026-04-02
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [COD]
 topics: [dpi.mis, dpi.govtech, dpi.id, data.open, include.divides, include.access, capacity.research, capacity.training, infra.connect, gov.standards]
 entities: [[world-bank], [unesco], [unicef]]
 lens: []
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: COD-2026-07-17
 ---

@@ -6,12 +6,14 @@ publisher: Tech Review Africa
 published: 2026-03-24
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CPV-2026-07-17
 places: [CPV]
 topics: [tech.innovate, gov.policy, include.access]
 entities: []
 lens: []
+body_completeness: full
 provenance_flag: pr-wire
 ---
 

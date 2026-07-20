@@ -3,6 +3,8 @@ type: source
 title: Zimbabwe Launches Mobile ID Registration Program to Serve Remote Binga Communities
 url: https://mobileidworld.com/zimbabwe-launches-mobile-id-registration-program-to-serve-remote-binga-communities
 publisher: Mobile ID World
+lens: []
+body_completeness: full
 author: Alex Perala
 published: 2025-07-10
 date_precision: day

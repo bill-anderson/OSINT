@@ -3,6 +3,7 @@ type: source
 title: Congo Unveils European-Backed Plan to Accelerate Digital Transformation (EIB/EU phase of PATN)
 url: https://techafricanews.com/2025/06/23/congo-unveils-european-backed-plan-to-accelerate-digital-transformation/
 publisher: TechAfrica News
+ingested: 2026-07-18
 author: Joyce Onyeagoro
 published: 2025-06-23
 date_precision: day
@@ -11,6 +12,7 @@ places: [COG]
 topics: [gov.policy, finance.new, geopol.eu, dpi.govtech, infra.cybersec, gov.protect, capacity.training]
 entities: [[patn-congo], [congo-digital-strategy-2030], [national-personal-data-protection-commission-congo]]
 lens: [sovereignty]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: COG-2026-07-17
 ---

@@ -13,6 +13,7 @@ places: [XWA, NGA, GHA, CIV, TGO, BEN, BFA, MLI, GIN, SLE, LBR]
 topics: [infra.connect]
 entities: [[csquared], [2africa-cable], [equiano-cable]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Mobile Europe, 15 Jul 2026. CSquared (pan-African wholesale infrastructure co.) added capacity on

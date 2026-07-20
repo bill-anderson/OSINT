@@ -3,6 +3,8 @@ type: source
 title: "Every country defines identity differently. Can digital public infrastructure bridge those differences?"
 publisher: Digital Impact Alliance (DIAL)
 url: https://dial.global/every-country-defines-identity-differently-can-dpi-bridge-those-differences/
+date_precision: day
+date_source: source
 author: Lenah Chacha
 published: 2026-07-10
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [XAF, KEN, RWA, UGA]
 topics: [dpi.id, dpi.exchange, gov.regional, gov.protect]
 entities: [[dial], [afcfta]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- DIAL fellowship analysis: identity is inherently local; three cross-border problems (data sufficiency, adequacy, sovereignty). National ID cards are mutually recognised for travel among Kenya/Rwanda/Uganda but often inadequate for cross-border financial services. Proposes standardized identity schemas + purpose-specific locally-compliant credentials. -->

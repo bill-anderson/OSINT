@@ -13,6 +13,7 @@ places: [XAF]
 topics: [dpi.registry, data.statistics]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 Assessment (April 2023) of the digitalization of Civil Registration and Vital Statistics (CRVS) systems across Africa, produced by the African Development Bank (AfDB) and COMESA. It reviews the state of digital CRVS on the continent - the recording of births, deaths, marriages and divorces and the vital statistics derived from them - and the challenges of coverage and modernisation.

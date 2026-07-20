@@ -13,6 +13,7 @@ places: [GNQ]
 topics: [dpi.id, gov.policy, dpi.exchange, dpi.pay]
 entities: [[equatorial-guinea-digital-economy-diagnostic], [world-bank]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Biometric Update on the WB Digital Economy Diagnostic (15 Jul 2024). Immediate actions: set up a digital identity system + DPI per DE4A. Diagnostic assesses five pillars; digital as a diversification lever (per 2035 NDP). Recs: address regulatory/governance barriers to infrastructure; streamline the digital civil registry + implement a digital ID ecosystem; develop digital payment infrastructure (whole-of-government); strengthen digital trade; adopt a national ICT education policy. Report: a digital ID could cut manual-document dependence and fraud; recommends a currently-absent national interoperability framework. Prior year: EG ran a biometric enrollment drive for public servants to verify payroll eligibility. -->

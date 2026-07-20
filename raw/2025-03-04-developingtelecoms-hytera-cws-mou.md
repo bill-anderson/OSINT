@@ -6,6 +6,7 @@ publisher: Developing Telecoms
 published: 2025-03-04
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [SYC]
 topics: [infra.connect, infra.cybersec, finance.mou, geopol.china]
 entities: [[hytera], [cable-wireless-seychelles]]

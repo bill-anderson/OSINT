@@ -3,6 +3,9 @@ type: source
 title: A letter to Dr. Khaufelo Lekobane - Statistician General
 url: https://www.sundaystandard.info/a-letter-to-dr-khaufelo-lekobane-statistician-general/
 publisher: Sunday Standard
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Victor Baatweng
 published: 2025-10-27
 date_precision: day

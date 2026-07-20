@@ -13,6 +13,7 @@ places: [COD]
 topics: [dpi.id, dpi.pay, dpi.govtech]
 entities: [[trident-digital-tech], [rdc-pass]]
 lens: [sovereignty, colonialism]
+body_completeness: full
 ---
 
 <!-- Merges the "final PPP" cluster (GlobeNewswire 2025-06-25 + Biometric Update 2025-06-26 + ID Tech Wire 2025-06-27) + phased-deployment update (Biometric Update 2025-08-29). Trident Digital Tech Holdings (NASDAQ: TDTH) signed the DEFINITIVE PPP agreement with the DRC (25 Jun 2025), making it the EXCLUSIVE provider of e-KYC services for the country's 80m+ mobile subscribers (110m+ population), on a 20-YEAR term, delivering the Web 3.0/Tridentity-based DRCPass. Phased nationwide deployment + public-education campaign underway by Aug 2025; Singapore Minister Grace Fu highlighted DRCPass at the Africa Singapore Business Forum 2025. Use cases: government-service access, biometric SIM registration, identity verification for digital payments and credit assessment. Corroborating URLs: biometricupdate.com/202506/drcpass-digital-id-launches-as-dr-congo-finalizes-contract-with-trident; idtechwire.com/trident-signs-exclusive-deal-...; biometricupdate.com/202508/drc-digital-id-phased-deployment-underway-following-contract-do-over. -->

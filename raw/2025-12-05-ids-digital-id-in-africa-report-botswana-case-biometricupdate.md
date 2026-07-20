@@ -3,6 +3,7 @@ type: source
 title: African digital ID systems need better governance by stronger independent bodies: Researchers
 url: https://www.biometricupdate.com/202512/african-digital-id-systems-need-better-governance-by-stronger-independent-bodies-researchers
 publisher: Biometric Update
+ingested: 2026-07-18
 author: Chris Burt
 published: 2025-12-05
 date_precision: day
@@ -13,6 +14,7 @@ places: [BWA]
 topics: [dpi.id, gov.protect, include.access]
 entities: [[institute-of-development-studies], [centre-for-internet-and-society], [research-ict-africa]]
 lens: [sovereignty, colonialism]
+body_completeness: full
 ---
 
 # African digital ID systems need better governance by stronger independent bodies: Researchers

@@ -6,10 +6,12 @@ publisher: ITWeb Africa
 published: 2026-03-13
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [LSO]
 topics: [infra.connect, dpi.pay, tech.industry, tech.ai, gov.legislate]
 entities: [[vodacom], [m-pesa], [lesotho-communications-authority]]
 lens: []
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: LSO-2026-07-17
 ---

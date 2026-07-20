@@ -10,6 +10,8 @@ ingested: 2026-07-17
 places: [ZAF]
 topics: [infra.store, infra.capacity, finance.new]
 entities: [[research-and-markets]]
+lens: []
+body_completeness: full
 ---
 
 *MARKETING PRESS RELEASE for a paywalled commercial database — not a development. Its figures are vendor-asserted and must not be promoted as current state: ~53 existing DCs and ~300 MW (early 2025) sits below the wiki's held 55 facilities (Feb 2026) and 56 (May 2026), which is a consistent growth series, NOT a contradiction. Useful only as a dated prior.*

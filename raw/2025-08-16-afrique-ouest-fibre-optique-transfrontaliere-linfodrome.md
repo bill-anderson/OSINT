@@ -6,12 +6,14 @@ publisher: Linfodrome
 published: 2025-08-16
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [XWA]
 topics: [infra.connect, gov.regional]
 entities: [[cedeao], [afpif]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Afrique de l'Ouest : Une nouvelle ère numérique portée par les infrastructures de fibre optique transfrontalières

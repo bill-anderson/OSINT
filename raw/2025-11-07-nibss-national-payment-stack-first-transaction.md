@@ -6,6 +6,7 @@ publisher: ThisDay
 published: 2025-11-10
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [NGA]
 topics: [dpi.pay, dpi.exchange, gov.standards]
 entities: [[nibss]]

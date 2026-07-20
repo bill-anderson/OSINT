@@ -13,6 +13,7 @@ places: [LBY]
 topics: [dpi.pay, data.statistics, include.access]
 entities: [[central-bank-of-libya]]
 lens: []
+body_completeness: full
 ---
 
 <!-- CBL statistics (2025 up to 15 Feb 2026, via GNU Hakomitna platform): unprecedented electronic-payment growth. Mobile banking apps: 4.29m subscribers; 200.7m transactions worth 313.6bn LYD. POS terminals 165,313 (from 150,205 in 2024); POS 288.6m transactions worth 37.8bn LYD. Activated bank cards 5.5m; ATM withdrawals ~23.9m transactions / 12.6bn LYD. E-wallets 186,817 accounts, circulation >92m LYD. Instant-transfer platform LYPAY ONEPAY: 18.3m transactions worth 108.7bn LYD. Expected to reduce parallel economy, strengthen transparency, improve banking efficiency. -->

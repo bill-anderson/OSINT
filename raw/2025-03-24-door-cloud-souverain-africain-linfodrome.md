@@ -6,6 +6,7 @@ publisher: Linfodrome
 published: 2025-03-24
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 provenance_flag: pr-wire
@@ -13,6 +14,7 @@ places: [CIV, SEN]
 topics: [infra.store, tech.industry]
 entities: [[cloudoor], [groupement-orange-services], [orange-middle-east-and-africa], [uemoa], [techstars], [uptime-institute]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Door : Le Cloud Souverain Africain qui Réinvente la Compétitivité et l'Innovation

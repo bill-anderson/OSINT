@@ -13,6 +13,7 @@ places: [GNB]
 topics: [gov.policy, dpi.govtech]
 entities: [[entd-gw], [undp]]
 lens: []
+body_completeness: full
 ---
 
 <!-- UNU-EGOV project (year-proxy 2024; funded by UNDP). Objective: a comprehensive strategy + roadmap for public-sector digitisation, better citizen service delivery, digital governance. Assesses current state, sets vision/objectives, yearly targets with responsible institutions, implementation budget. Roadmap details actions/deadlines/resources to 2030. Deliverables D1-D5 (strategy, roadmap, validation report, national workshop, comms materials). Project Manager Beatriz Lanza. Establishes ENTD.GW. -->

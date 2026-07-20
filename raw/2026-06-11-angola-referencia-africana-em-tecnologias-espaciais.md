@@ -14,6 +14,7 @@ places: [AGO]
 topics: [data.satellite, infra.connect, include.divides, tech.innovate, capacity.research, gov.policy]
 entities: [[angosat-2], [conecta-angola], [mario-oliveira], [ggpen], [space-in-africa], [angotic], [universidade-agostinho-neto]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Angola pretende consolidar-se como referência africana em tecnologias espaciais

@@ -3,6 +3,7 @@ type: source
 title: "Guinée : 6 768 458 électeurs, chiffres définitifs du fichier électoral biométrique permanent"
 url: https://mediaguinee.com/2025/08/guinee-67-millions-delecteurs-inscrits-conakry-et-kankan-concentrent-presque-la-moitie/
 publisher: Mediaguinee
+ingested: 2026-07-18
 author: Mayi Cissé
 published: 2025-08-28
 date_precision: day
@@ -13,6 +14,7 @@ places: [GIN]
 topics: [dpi.id, dpi.registry, data.statistics]
 entities: [[matd-guinea], [pn-ravec]]
 lens: []
+body_completeness: full
 ---
 
 # Guinée : 6,7 millions d'électeurs inscrits, Conakry et Kankan concentrent presque la moitié

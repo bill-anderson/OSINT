@@ -3,6 +3,8 @@ type: source
 title: "The cost of Uganda's internet shutdown"
 publisher: The Independent
 url: https://www.independent.co.ug/the-cost-of-ugandas-internet-shutdown/
+date_precision: day
+date_source: source
 author: Ian Katusiime
 published: 2026-01-26
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [UGA]
 topics: [infra.connect, gov.legislate, dpi.pay, dpi.id, infra.cybersec]
 entities: [[uganda-communications-commission], [mtn-group], [airtel-africa]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Internet shut down the evening of 13 Jan 2026, two days before the presidential election; lasted 4 days. Biometric Voter Verification Kits (>$70m procurement) failed on election morning; Museveni declared winner (71%). Blackout cost MTN + Airtel ~$15m. Lawsuit filed; Uganda Law Society calls it illegal (no state of emergency). Regional trade spillover (Northern Corridor). -->

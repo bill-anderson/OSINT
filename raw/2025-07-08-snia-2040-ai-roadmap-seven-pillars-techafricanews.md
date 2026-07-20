@@ -3,6 +3,7 @@ type: source
 title: Cameroon Unveils 2040 AI Roadmap Anchored on Seven Strategic Pillars
 url: https://techafricanews.com/2025/07/08/cameroon-unveils-2040-ai-roadmap-anchored-on-seven-strategic-pillars/
 publisher: TechAfrica News
+ingested: 2026-07-18
 author: Editorial Team
 published: 2025-07-08
 date_precision: day
@@ -11,6 +12,7 @@ places: [CMR, XCA]
 topics: [tech.ai, gov.policy, gov.legislate, gov.standards, data.open, dpi.exchange, infra.store, infra.energy, capacity.training, capacity.research, tech.innovate, gov.regional]
 entities: [[snia-cameroon], [ministry-of-posts-and-telecommunications-cameroon], [conia]]
 lens: [sovereignty]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: CMR-2026-07-17
 ---

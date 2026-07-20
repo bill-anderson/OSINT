@@ -3,6 +3,8 @@ type: source
 title: "Benin receives 2,050 biometric terminals from World Bank to boost civil registration"
 publisher: Biometric Update
 url: https://www.biometricupdate.com/202410/benin-receives-2050-biometric-terminals-from-world-bank-to-boost-civil-registration
+date_precision: day
+date_source: source
 author: Ayang Macdonald
 published: 2024-10-28
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [BEN]
 topics: [dpi.id, dpi.registry, include.access]
 entities: [[world-bank], [wuri-programme], [anip-benin]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Backfill (2024): 2,050 mobile biometric registration terminals donated by the World Bank to ANIP via WURI-Benin (Cotonou, ~Oct 2024); feed births/marriages/deaths into the RNPP + RNEC. WURI targets >=100m people with legal ID across 6 West African nations by 2028. -->

@@ -13,6 +13,7 @@ places: [AGO]
 topics: [infra.connect, infra.store]
 entities: [[angola-cables]]
 lens: []
+body_completeness: full
 ---
 
 <!-- COMPANION SOURCE PAGE for binary raw/2022-11-01 Angola Cables - Commercial Catalogue 2022.pdf (13MB, operator collateral). Angola Cables product/route catalogue — reference collateral for the [[angola-cables]] entity: submarine systems (SACS South Atlantic, WACS, Monet), AngoNAP data centre + Angonix IXP (Luanda), Fortaleza (Brazil) DC, IP Transit / Clouds2Africa / Host2Africa. Marketing collateral, not a dated news event; held as company reference. Date proxied to catalogue month. -->

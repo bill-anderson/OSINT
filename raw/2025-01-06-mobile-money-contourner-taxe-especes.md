@@ -3,6 +3,9 @@ type: source
 title: "Transactions financières au Bénin : le Mobile Money pour contourner la taxe sur les paiements en espèces"
 url: https://fraternite.bj/transactions-financieres-au-benin-le-mobile-money-pour-contourner-la-taxe-sur-les-paiements-en-especes/
 publisher: Fraternité
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Bergedor HADJIHOU
 published: 2025-01-06
 date_precision: day

@@ -6,12 +6,14 @@ publisher: Fraternité Matin
 published: 2025-02-26
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [tech.industry, gov.policy, capacity.training, geopol.eu]
 entities: [[onudi], [esatic], [inp-hb]]
 lens: []
+body_completeness: full
 ---
 
 # Industrie 4.0 : La stratégie nationale remise au gouvernement

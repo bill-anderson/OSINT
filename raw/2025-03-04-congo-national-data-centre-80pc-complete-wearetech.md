@@ -3,6 +3,7 @@ type: source
 title: Congo's National Data Center 80% Complete, Set for November Launch
 url: https://www.wearetech.africa/en/fils-uk/news/public-management/congos-national-data-center-80-complete-set-for-november-launch
 publisher: We Are Tech Africa
+ingested: 2026-07-18
 author: Isaac K. Kassouwi
 published: 2025-03-04
 date_precision: day
@@ -11,6 +12,7 @@ places: [COG, XCA]
 topics: [infra.store, gov.policy, infra.connect, dpi.govtech]
 entities: [[congo-national-data-centre], [patn-congo]]
 lens: [sovereignty]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: COG-2026-07-17
 ---

@@ -6,10 +6,12 @@ publisher: La Nation (Djibouti)
 published: 2025-10-22
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [DJI]
 topics: [infra.connect, digital.rural, digital.localgov, include.divides, include.access, capacity.literacy]
 entities: [[djibouti-digital-foundation], [djibouti-telecom], [world-bank]]
 lens: []
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: DJI-2026-07-17
 ---

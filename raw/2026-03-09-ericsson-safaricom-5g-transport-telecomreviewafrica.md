@@ -6,13 +6,14 @@ publisher: Telecom Review Africa
 published: 2026-03-09
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [KEN]
 topics: [infra.connect]
 entities: [[safaricom], [ericsson]]
 lens: []
 retrieved: 2026-07-17
 sweep_batch: KEN-2026-07-17
-body_completeness: clip-full
+body_completeness: full
 ---
 
 # Ericsson and Safaricom Deepen Collaboration to Strengthen Kenya's 5G Transport Network

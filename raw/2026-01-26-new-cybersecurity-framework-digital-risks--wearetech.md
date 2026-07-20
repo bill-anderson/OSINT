@@ -6,12 +6,14 @@ publisher: We Are Tech
 published: 2026-01-26
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 places: [DZA]
 topics: [infra.cybersec, gov.legislate, gov.policy, gov.protect, gov.standards]
 entities: [[presidential-decree-26-07-algeria], [anpdp], [kaspersky]]
 lens: []
+body_completeness: full
 ---
 
 # Algeria Adopts New Cybersecurity Framework as Digital Risks Rise

@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: instrument
 title: Global Innovation Index (GII)
 places: [XGL, SYC]

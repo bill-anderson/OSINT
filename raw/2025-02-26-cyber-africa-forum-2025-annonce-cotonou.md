@@ -3,6 +3,7 @@ type: source
 title: "Le Cyber Africa Forum 2025 officiellement annoncé à Cotonou : un levier stratégique pour la transformation numérique en Afrique"
 url: https://fraternite.bj/le-cyber-africa-forum-2025-officiellement-annonce-a-cotonou-un-levier-strategique-pour-la-transformation-numerique-en-afrique/
 publisher: Fraternité
+ingested: 2026-07-18
 author: Isac YAI
 published: 2025-02-26
 date_precision: day
@@ -13,6 +14,7 @@ places: [BEN]
 topics: [infra.cybersec, gov.policy, tech.ai, include.divides]
 entities: [[cyber-africa-forum], [asin-benin], [cnin-benin], [franck-kie], [marc-andre-loko], [ouanilo-medegan-fagla]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Le Cyber Africa Forum 2025 officiellement annoncé à Cotonou : un levier stratégique pour la transformation numérique en Afrique

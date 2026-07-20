@@ -3,6 +3,8 @@ type: source
 title: "South Sudan green network gets $5m boost"
 publisher: ITWeb Africa
 url: https://itweb.africa/article/south-sudan-green-network-gets-5m-boost/
+date_precision: day
+date_source: source
 author: Lezeth Khoza
 published: 2026-02-20
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [SSD]
 topics: [infra.energy, infra.connect, finance.new]
 entities: [[mtn-group], [finnfund], [crei-south-sudan]]
 lens: []
+body_completeness: excerpt
 ---
 
 <!-- Finnfund committed a $5m follow-on into CREI (total $10m), backed by the EU's EFSD+ / Africa Connected (as of 2026-02-20); funds solar-hybrid energy at MTN South Sudan's 499 telecom sites (490 renovated, serving 4m+); coverage rose 69%->80% of population. -->

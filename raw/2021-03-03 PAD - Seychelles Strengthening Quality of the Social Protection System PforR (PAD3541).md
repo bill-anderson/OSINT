@@ -7,6 +7,8 @@ published: 2021-03-03
 date_precision: day
 date_source: source
 ingested: 2026-07-17
+lens: []
+body_completeness: full
 artefact: "2021-03-03 PAD - Seychelles Strengthening Quality of the Social Protection System PforR (PAD3541).pdf"
 places: [SYC]
 topics: [dpi.registry, finance.new, include.access]

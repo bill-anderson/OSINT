@@ -11,6 +11,7 @@ places: [ETH]
 topics: [infra.connect, geopol.china, include.divides]
 entities: [[ethio-telecom], [huawei]]
 lens: []
+body_completeness: full
 ---
 
 # Ethio Telecom expands 4G capacity with Huawei

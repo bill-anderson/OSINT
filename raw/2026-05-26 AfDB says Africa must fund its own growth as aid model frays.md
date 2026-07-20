@@ -3,6 +3,8 @@ type: source
 title: "AfDB says Africa must fund its own growth as aid model frays"
 publisher: The Africa Report
 url: https://www.theafricareport.com/419860/afdb-says-africa-must-fund-its-own-growth-as-aid-model-frays/
+date_precision: day
+date_source: source
 author: Leanne de Bassompierre
 published: 2026-05-26
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [XAF, XEA, XCA, XSS]
 topics: [finance.new, gov.policy, gov.regional, data.statistics]
 entities: [[african-development-bank], [african-union], [nafa]]
 lens: [sovereignty, colonialism]
+body_completeness: full
 ---
 
 <!-- AfDB African Economic Outlook 2026 launch (Brazzaville). SDG financing gap >$1.3tn/yr; digitising tax could raise $469bn/yr; pension/insurance ~$4tn, <3% domestic infra. Sovereignty framing. -->

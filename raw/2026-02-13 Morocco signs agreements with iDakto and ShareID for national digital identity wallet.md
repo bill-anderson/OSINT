@@ -13,6 +13,7 @@ places: [MAR]
 topics: [dpi.id, dpi.govtech]
 entities: [[mon-e-id], [idarati-x0], [idakto], [dgsn-morocco], [idemia]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Morocco's Ministry of Digital Transition + Admin Reform signed cooperation agreements with French firms iDakto + ShareID (announced 12 Feb 2026) to develop a national digital identity wallet. Within the Idarati X.0 modernization program. Builds on a major 2025 digital-ID agreement aligning the ministry + DGSN under Digital Morocco 2030, and on biometric foundations from IDEMIA's 2019 contract to modernize the national ID card (fingerprint + facial). iDakto + ShareID provide wallet-architecture expertise; ~6-month horizon for initial phases. Wallet part of the same ecosystem the E-Police platform uses for identity verification; may extend to private-sector auth. Cluster with Idarati X.0 launch. -->

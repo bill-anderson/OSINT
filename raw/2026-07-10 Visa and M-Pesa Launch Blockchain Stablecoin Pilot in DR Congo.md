@@ -3,6 +3,8 @@ type: source
 title: "Visa and M-Pesa Launch Blockchain Stablecoin Pilot in DR Congo"
 publisher: Streamline Feed
 url: https://streamlinefeed.co.ke/news/visa-and-m-pesa-launch-blockchain-stablecoin-pilot-in-dr-congo
+date_precision: day
+date_source: source
 author: Streamline Feed
 published: 2026-07-10
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [COD, KEN]
 topics: [dpi.pay, finance.new, geopol.usa, geopol.gulf, gov.protect]
 entities: [[visa], [safaricom], [onafriq], [visa-mpesa-onafriq-drc-stablecoin-pilot]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- *** VERIFY (needs-review): low-authority aggregator, promotional, no clear primary citation. *** Visa + M-Pesa (Safaricom) + Onafriq USD-pegged stablecoin pilot in DRC, bypassing correspondent banking (~8% SSA remittance fee). Builds on Visa Pay in DRC (Sept 2025). Corroborate against Visa/Safaricom/Onafriq primary releases before hardening. -->

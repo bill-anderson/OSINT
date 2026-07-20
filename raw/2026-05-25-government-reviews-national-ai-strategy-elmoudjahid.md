@@ -1,6 +1,7 @@
 ---
 type: source
 title: "Réunion du Gouvernement : la stratégie nationale d'intelligence artificielle à l'ordre du jour"
+ingested: 2026-07-18
 title_en: PM Sifi Ghrieb chairs government meeting (25 May 2026) examining draft national AI strategy (three pillars — data, digital infrastructure, human skills) and the Dzair Digital Services portal deployment plan
 url: https://www.elmoudjahid.dz/fr/actualite/reunion-du-gouvernement-la-strategie-nationale-d-intelligence-artificielle-a-l-ordre-du-jour-252722
 publisher: El Moudjahid
@@ -15,6 +16,7 @@ places: [DZA]
 topics: [tech.ai, gov.policy, dpi.govtech]
 entities: [[sifi-ghrieb, algeria-national-ai-strategy, dzair-services, haut-commissariat-a-la-numerisation]]
 lens: [sovereignty]
+body_completeness: full
 provenance_flag: state-media
 ---
 

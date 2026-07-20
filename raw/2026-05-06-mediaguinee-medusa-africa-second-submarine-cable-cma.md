@@ -6,12 +6,14 @@ publisher: Mediaguinee
 published: 2026-05-06
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: GIN-2026-07-17
 places: [GIN]
 topics: [infra.connect, infra.store, geopol.eu]
 entities: [[guilab], [medusa-africa], [mourana-soumah], [simandou-2040]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # 2e câble sous-marin : la Guinée propulse sa souveraineté numérique avec la signature de l'accord MEDUSA AFRICA

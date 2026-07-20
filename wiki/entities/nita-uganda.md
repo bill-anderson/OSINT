@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: government-body
 title: National Information Technology Authority — Uganda (NITA-U)
 places: [UGA]

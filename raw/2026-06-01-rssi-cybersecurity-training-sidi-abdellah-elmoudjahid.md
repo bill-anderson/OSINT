@@ -1,6 +1,7 @@
 ---
 type: source
 title: "Cybersécurité et souveraineté numérique : les RSSI en première ligne"
+ingested: 2026-07-18
 title_en: ASSI (Defence Ministry) runs 2nd RSSI training session at Sidi Abdellah cyber school under National Information Systems Security Strategy 2025-2029; confirms Presidential Decree 26-07 of 7 Jan 2026 mandating SSI/data-protection units in all public bodies
 url: https://www.elmoudjahid.dz/fr/actualite/cybersecurite-et-souverainete-numerique-les-rssi-en-premiere-ligne-253024
 publisher: El Moudjahid
@@ -16,7 +17,7 @@ topics: [infra.cybersec, capacity.training, gov.policy]
 entities: [[information-systems-security-agency, ministere-de-la-defense-nationale, ecole-nationale-superieure-cybersecurite, decree-26-07, national-information-systems-security-strategy]]
 lens: [sovereignty]
 provenance_flag: state-media
-body_completeness: clipped-at-fetch
+body_completeness: excerpt
 ---
 
 # Cybersécurité et souveraineté numérique : les RSSI en première ligne

@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: deal
 title: Airtel Nigeria (Nxtra) — Eko Atlantic hyperscale data centre
 places: [NGA]

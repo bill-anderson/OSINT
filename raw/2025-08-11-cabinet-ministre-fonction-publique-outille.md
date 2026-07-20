@@ -3,6 +3,9 @@ type: source
 title: "Protection des données à caractère personnel : le cabinet du ministre de la Fonction publique outillé"
 url: https://www.sidwaya.info/protection-des-donnees-a-caractere-personnel-le-cabinet-du-ministre-de-la-fonction-publique-outille/
 publisher: Sidwaya
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Gbetcheni Constantin Bertrand KAMBIRE
 published: 2025-08-11
 date_precision: day

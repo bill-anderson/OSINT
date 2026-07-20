@@ -3,6 +3,8 @@ type: source
 title: "Pan-African Payment and Settlement System (ITA market profile)"
 publisher: US International Trade Administration
 url: https://www.trade.gov/market-intelligence/pan-african-payment-and-settlement-system
+date_precision: day
+date_source: source
 author: International Trade Administration
 published: 2022-05-11
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [XAF, GHA, EGY]
 topics: [dpi.pay, gov.regional, finance.new, infra.connect]
 entities: [[papss], [afcfta], [afreximbank]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Backfill (2022 US ITA reference): PAPSS launched Jan 2022, HQ Cairo; ~42 African currencies; aims to save ~$5bn/yr in transaction costs; developed by Afreximbank with AfCFTA, platform by StoneX; connected 25 large commercial banks; MoU with BUNA (Arab Monetary Fund). Mark 'as of 2022'. -->

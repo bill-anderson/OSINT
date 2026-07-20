@@ -3,6 +3,8 @@ type: source
 title: Bilhete de Identidade pode ser tratado ao domicílio
 url: https://angop.ao/noticias/politica/bilhete-de-identidade-pode-ser-tratado-ao-domicilio/
 publisher: Angop
+lens: []
+body_completeness: full
 author: MGM/ART
 published: 2026-07-01
 date_precision: day

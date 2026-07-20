@@ -3,6 +3,8 @@ type: source
 title: Gabon Targets $13 Billion 2026 Budget with Revenue Digitalization Push
 url: https://www.ecofinagency.com/news-digital/1509-48682-gabon-targets-13-billion-2026-budget-with-revenue-digitalization-push
 publisher: Ecofin Agency
+lens: []
+body_completeness: full
 author: Isaac K. Kassouwi (adapted by Ange Jason Quenum)
 published: 2025-09-15
 date_precision: day

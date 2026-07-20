@@ -10,6 +10,8 @@ ingested: 2026-07-17
 places: [TGO]
 topics: [dpi.registry, dpi.govtech, digital.localgov, include.access]
 entities: [[services-publics-togo]]
+lens: []
+body_completeness: full
 ---
 
 *Official state-portal account of the civil-status rollout announced 15 Dec 2025; complementary to the Togo First report of 2025-12-17, which adds the Energy Ministry procedures and the January-2026 extension.*

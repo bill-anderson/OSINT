@@ -3,6 +3,7 @@ type: source
 title: Cameroon Strengthens Digital Transformation with University and ART Partnership
 url: https://techafricanews.com/2026/02/11/cameroon-strengthens-digital-transformation-with-university-and-art-partnership/
 publisher: TechAfrica News
+ingested: 2026-07-18
 author: Editorial Team
 published: 2026-02-11
 date_precision: day
@@ -11,6 +12,7 @@ places: [CMR]
 topics: [capacity.research, capacity.training, gov.legislate, gov.policy, tech.industry, finance.mou]
 entities: [[art-cameroon], [university-of-yaounde-ii], [patnuc]]
 lens: [sovereignty]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: CMR-2026-07-17
 ---

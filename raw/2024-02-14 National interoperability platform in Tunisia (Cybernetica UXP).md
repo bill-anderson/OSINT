@@ -11,6 +11,7 @@ places: [TUN]
 topics: [dpi.exchange, dpi.govtech, gov.standards, infra.cybersec, dpi.id, geopol.eu, finance.new]
 entities: [[cybernetica], [uxp-tunisia], [ebrd], [ministry-of-communication-technologies-tunisia], [nizar-ben-neji], [digital-tunisia-2020-2025]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 *Vendor's own announcement — promotional framing; capture is not endorsement. No body dateline; the date rests on frontmatter but is internally consistent ('over the past 10 months' from a 2023 agreement). Renders the minister's name 'Nizar bin Naji' — same person as Nizar Ben Neji, transliteration variance.*

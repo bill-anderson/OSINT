@@ -12,6 +12,7 @@ places: [STP]
 topics: [gov.protect, gov.policy, gov.regional, capacity.training]
 entities: [[d4d-hub], [au-data-policy-framework], [auda-nepad], [kictanet], [giz], [african-union], [european-union]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # D4D Hub on Sao Tome and Principe | LinkedIn

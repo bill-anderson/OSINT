@@ -6,6 +6,7 @@ publisher: Biometric Update
 published: 2026-01-06
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [TZA]
 topics: [dpi.id, gov.legislate, dpi.registry]
 entities: [[nida-tanzania]]

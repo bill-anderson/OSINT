@@ -12,6 +12,7 @@ places: [GAB, XAF]
 topics: [tech.ai, gov.policy, include.divides, infra.store, capacity.research]
 entities: [[brookings], [au-continental-ai-strategy]]
 lens: [colonialism, sovereignty]
+body_completeness: full
 ---
 
 # Why Africa should sequence, not rush into AI | Brookings

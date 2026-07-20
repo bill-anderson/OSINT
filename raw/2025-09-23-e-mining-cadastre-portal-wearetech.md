@@ -6,12 +6,14 @@ publisher: We Are Tech Africa
 published: 2025-09-23
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [dpi.registry, dpi.govtech, data.open, gov.standards, infra.store]
 entities: [[robert-beugre-mambe], [landfolio], [extractive-industries-transparency-initiative], [mamadou-sangafowa-coulibaly], [ministry-of-mines-petroleum-and-energy-cote-divoire]]
 lens: []
+body_completeness: full
 ---
 
 # Côte d'Ivoire launches e-mining portal to improve transparency and investment

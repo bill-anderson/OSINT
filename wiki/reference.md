@@ -818,9 +818,11 @@ check acted, a one-line-per-check count.
 14. **`url:` quality** — a `raw/` source whose `url:` is a **bare domain** (e.g.
     `documents.worldbank.org`) or **blank**: recover the canonical document-specific
     URL. World Bank docs reconstruct from their document/project ID; others by
-    title search. Unrecoverable after one attempt → leave a dated in-file note
-    (`url unrecovered as of YYYY-MM-DD`), don't invent one. A bare domain cites
-    nothing and breaks the dedup key.
+    title search. **No attempt limit** — work the recovery strategies until the URL
+    is found or genuinely exhausted (title search, document/project ID, publisher
+    site search, archive lookup). Only once exhausted, leave a dated in-file note
+    (`url unrecovered as of YYYY-MM-DD`); never invent one. A bare domain cites
+    nothing and breaks the dedup key. *(One-attempt limit dropped 2026-07-20.)*
 
 ### Auto-resolve onto the page — no queue
 
@@ -842,12 +844,17 @@ check acted, a one-line-per-check count.
    index. Place-hub **Recent developments** sections are exempt — they are meant to
    be dated logs.
 15. **`body_completeness` backfill — by evidence, never by guess.** A `raw/` source
-    missing the field: **inspect the stored body**. Clean and untruncated → `full`;
-    truncation or paywall markers ("Read more", "subscribe", a mid-sentence cut) →
-    `excerpt` or `paywalled`; genuinely ambiguous → **leave blank**. Missing means
-    *unverified*, and blank asserts nothing — never set `full` on an unchecked body,
-    because the paywalled-promotion gate and the `full > excerpt` dedup tiebreak both
-    trust the field. Setting it from the body's own evidence is a check, not a claim.
+    missing the field: establish it from the stored body. **Marker-matching counts as
+    evidence** — a mechanical pass over the body for truncation and paywall markers
+    ("Read more", "Continue reading", "subscribe", "sign in to read", a mid-sentence
+    cut at the body's end) is a valid check, not a guess, and may set the field at
+    scale without per-file reading. Clean and untruncated → `full`; markers present →
+    `excerpt` or `paywalled`; **anything the markers leave genuinely ambiguous is
+    inspected, or left blank**. Missing means *unverified*, and blank asserts
+    nothing — never set `full` on a body no check has passed over, because the
+    paywalled-promotion gate and the `full > excerpt` dedup tiebreak both trust the
+    field. *(Marker-matching admitted 2026-07-20; the per-file-inspection-only
+    requirement is superseded.)*
 
 ### Surface to Bill — the only output
 

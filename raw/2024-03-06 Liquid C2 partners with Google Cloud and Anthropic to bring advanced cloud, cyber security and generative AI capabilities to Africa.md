@@ -3,6 +3,8 @@ type: source
 title: "Liquid C2 partners with Google Cloud and Anthropic to bring advanced cloud, cyber security and generative AI to Africa"
 publisher: Cassava Technologies
 url: https://www.cassavatechnologies.com/liquid-c2-partners-with-google-cloud-and-anthropic
+date_precision: day
+date_source: source
 author: Andy Higgins
 published: 2024-03-06
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [XAF]
 topics: [infra.store, infra.cybersec, tech.ai, finance.mou]
 entities: [[liquid-c2], [cassava-technologies], [google], [anthropic]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Backfill (2024-03): Liquid C2 announced collaborations with Google Cloud and Anthropic (Claude via Vertex AI); builds on the Nov-2023 Google Cloud MoU; '>80% of largest businesses in 31 African countries use Liquid-supplied tech'. Part of the [[liquid-c2]] thread. -->

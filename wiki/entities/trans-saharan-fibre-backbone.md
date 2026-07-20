@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: initiative
 title: Trans-Saharan Fiber Optic Backbone (Dorsale Transsaharienne, DTS)
 places: [TCD, NER]

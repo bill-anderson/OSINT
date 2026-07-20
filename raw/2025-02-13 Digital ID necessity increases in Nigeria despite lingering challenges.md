@@ -3,6 +3,8 @@ type: source
 title: "Digital ID necessity increases in Nigeria despite lingering challenges"
 publisher: Biometric Update
 url: https://www.biometricupdate.com/202502/digital-id-necessity-increases-in-nigeria-despite-lingering-challenges
+date_precision: day
+date_source: source
 author: Ayang Macdonald
 published: 2025-02-13
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [NGA]
 topics: [dpi.id, dpi.registry, gov.protect, include.access]
 entities: [[nimc], [ncc], [world-bank], [nigeria-id4d]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Background source (2025-02): NIN mandated for all social services (SGF Akume); World Bank project requires >=180m IDs by end-2026; ~6,000 Niger nationals found with NINs -> Tinubu database audit. -->

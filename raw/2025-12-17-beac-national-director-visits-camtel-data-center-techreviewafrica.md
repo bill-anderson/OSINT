@@ -3,6 +3,7 @@ type: source
 title: BEAC National Director visits CAMTEL Data Center
 url: https://techreviewafrica.com/news/3479
 publisher: Tech Review Africa
+ingested: 2026-07-18
 author: Robert Annor
 published: 2025-12-17
 date_precision: day
@@ -11,6 +12,7 @@ places: [CMR, XCA]
 topics: [infra.store, gov.protect, dpi.govtech, infra.energy, tech.industry, infra.cybersec]
 entities: [[camtel], [beac], [zamengoe-data-centre]]
 lens: [sovereignty]
+body_completeness: full
 provenance_flag: pr-wire
 provenance_note: >
   Tech Review Africa is a PR-wire outlet; this reads as CAMTEL announcement copy — a

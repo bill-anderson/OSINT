@@ -3,6 +3,8 @@ type: source
 title: Tanzania rolls out infant registration for stronger citizen ID
 url: https://www.thecitizen.co.tz/tanzania/news/national/tanzania-rolls-out-infant-registration-for-stronger-citizen-id-5316036
 publisher: The Citizen (Tanzania)
+lens: []
+body_completeness: full
 author: Sanjito Msafiri
 published: 2026-01-04
 date_precision: day

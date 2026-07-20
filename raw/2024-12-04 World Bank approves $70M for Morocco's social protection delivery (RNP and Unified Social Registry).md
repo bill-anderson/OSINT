@@ -13,6 +13,7 @@ places: [MAR]
 topics: [dpi.id, dpi.registry, include.access, finance.new]
 entities: [[morocco-national-population-registry], [world-bank]]
 lens: []
+body_completeness: full
 ---
 
 <!-- WB Board approved $70m Morocco Second Identity and Targeting for Social Protection Project (4 Dec 2024), building on the first project (designed/implemented the National Population Registry + Unified Social Registry, enrolled ~half the population). 2018: King Mohammed VI called for harmonized social protection → unified social registry. Law 72-18 established the National Population Registry (RNP), the Social Registry (RSU), and the National Register Agency (+3 decrees). Achievements: replaced RAMED with AMO-TADAMON; Dec 2023 Direct Social Benefit program (>half the population; ~1.6% of GDP). RSU = single entry point for new social programs. New project: reinforce/extend RNP + operationalize National Register Agency; expand RSU; project management/capacity. Extends to rural/remote (digital/remote applications), impact 5 programs by end-2024, 8 by 2028. -->

@@ -6,10 +6,12 @@ publisher: Biometric Update
 published: 2026-04-21
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [MDG]
 topics: [dpi.id, dpi.registry]
 entities: [[prodigy-madagascar], [laxton], [in-groupe]]
 lens: []
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: MDG-2026-07-17
 ---

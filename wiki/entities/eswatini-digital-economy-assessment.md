@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: instrument
 title: Eswatini Digital Economy Assessment (World Bank)
 places: [SWZ]

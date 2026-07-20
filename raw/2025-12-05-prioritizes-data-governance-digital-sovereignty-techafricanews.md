@@ -6,10 +6,12 @@ publisher: TechAfrica News
 published: 2025-12-05
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [MOZ]
 topics: [gov.policy, gov.protect, data.open]
 entities: [[intic-mozambique], [uneca]]
 lens: [sovereignty]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: MOZ-2026-07-17
 ---

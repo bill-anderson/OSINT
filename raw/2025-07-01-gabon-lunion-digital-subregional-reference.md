@@ -6,8 +6,12 @@ publisher: L'Union
 published: 2025-07-01
 date_precision: month
 date_source: proxy
+ingested: 2026-07-18
 places: [GAB]
 topics: [gov.policy, dpi.govtech]
+entities: []
+lens: []
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: GAB-2026-07-17
 ---

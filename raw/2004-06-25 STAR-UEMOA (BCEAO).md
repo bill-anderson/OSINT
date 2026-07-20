@@ -12,6 +12,7 @@ places: [NER, XWA]
 topics: [dpi.pay, gov.regional]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 STAR-UEMOA is the BCEAO's regional real-time gross settlement (RTGS) system for systemic, large-value transactions across the WAEMU/UEMOA zone. It became operational on 25 June 2004. Eligible participants include the BCEAO, banks and financial institutions, the regional central depository/settlement bank of the BRVM stock exchange, the interbank electronic-banking group GIM-UEMOA and the West African Development Bank (BOAD), connected via SWIFT or the BCEAO private network.

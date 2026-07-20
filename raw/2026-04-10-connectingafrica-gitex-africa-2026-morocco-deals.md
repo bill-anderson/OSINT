@@ -6,12 +6,14 @@ publisher: Connecting Africa
 published: 2026-04-10
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: MAR-2026-07-17
 places: [MAR]
 topics: [finance.mou, tech.industry]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 # GITEX Africa 2026: companies ink deals to transform Morocco

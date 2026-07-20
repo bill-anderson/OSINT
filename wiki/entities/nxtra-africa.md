@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: company
 title: Nxtra Africa (Nxtra by Airtel)
 places: [NGA, KEN, UGA, TZA, COD, ZMB, RWA]

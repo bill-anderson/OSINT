@@ -3,6 +3,8 @@ type: source
 title: "Madagascar Tests Biometric ID System, Aims to Register 2 Million People by Mid-2026"
 publisher: Ecofin Agency
 url: https://www.ecofinagency.com/news-digital/2701-52309-madagascar-tests-biometric-id-system
+date_precision: day
+date_source: source
 author: Adoni Conrad Quenum
 published: 2026-01-27
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [MDG]
 topics: [dpi.id, dpi.govtech]
 entities: [[mg-ministry-digital-development]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Madagascar launched a national biometric-registration pilot (~27 Jan 2026, senior officials first); nationwide launch April 2026, target 2 million adults registered Apr-Jun 2026; fingerprints + facial + iris; goal a single verifiable ID per person. -->

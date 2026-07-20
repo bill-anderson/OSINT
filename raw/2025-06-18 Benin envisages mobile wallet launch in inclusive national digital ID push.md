@@ -3,6 +3,8 @@ type: source
 title: "Benin envisages mobile wallet launch in inclusive national digital ID push"
 publisher: Biometric Update
 url: https://www.biometricupdate.com/202506/benin-envisages-mobile-wallet-launch-in-inclusive-national-digital-id-push
+date_precision: day
+date_source: source
 author: Ayang Macdonald
 published: 2025-06-18
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [BEN]
 topics: [dpi.id, dpi.pay, include.access, tech.ai, gov.regional]
 entities: [[anip-benin], [world-bank], [smart-africa], [wuri-programme], [id4africa]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- ANIP DG (ID4Africa 2025): Benin plans a citizen mobile wallet by ~end 2026. 2017 Identification Law created ANIP + a unique identifier; national register now ~98% of population; 10m+ documents; ~200,000 biometric authentications/day; connected to 80+ institutions. Goal: legal identity for every citizen by 2028. -->

@@ -6,12 +6,14 @@ publisher: Tech Review Africa
 published: 2026-06-25
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [infra.connect, include.access, dpi.pay, include.divides]
 entities: [[ansut], [gilles-thierry-beugre], [apide]]
 lens: []
+body_completeness: full
 provenance_flag: pr-wire
 primary_to_source: ANSUT communiqué / APIDE 2026 panel record; the underlying smartphone-penetration statistic (41% to 80% by 2030 target) and its source dataset
 ---

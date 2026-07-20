@@ -6,6 +6,7 @@ publisher: Ministry of Information and Civic Education (MoICE), Sierra Leone
 published: 2026-04-22
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: SLE-2026-07-17

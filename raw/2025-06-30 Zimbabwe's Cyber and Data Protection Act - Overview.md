@@ -12,6 +12,7 @@ places: [ZWE]
 topics: [gov.protect, gov.legislate, gov.standards, infra.cybersec, dpi.exchange]
 entities: [[zimbabwe-cyber-and-data-protection-act], [potraz]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 *Law-firm briefing (Michalsons markets data-protection compliance services) — admissible as a dated reference explainer, but attribute; its compliance-urgency framing is commercial and its statutory claims should ideally be traced to the Act itself, which the wiki does NOT hold (GAP-ZWE-001) despite two held sources already relying on s.164C. Fills a live hole: the Act was cited by held material with no page describing it. Structurally significant: POTRAZ, the telecom regulator, doubles as the data protection authority.*

@@ -3,6 +3,7 @@ type: source
 title: Cameroon gets AfDB funding to boost telecoms sector
 url: https://itweb.africa/article/cameroon-gets-afdb-funding-to-boost-telecoms-sector/8OKdWqDXBa1qbznQ
 publisher: ITWeb Africa
+ingested: 2026-07-18
 author: Lezeth Khoza
 published: 2025-12-03
 date_precision: day
@@ -11,6 +12,7 @@ places: [CMR]
 topics: [finance.new, infra.connect, tech.industry, infra.energy]
 entities: [[african-development-bank], [cca-bank]]
 lens: []
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: CMR-2026-07-17
 ---

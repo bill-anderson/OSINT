@@ -13,6 +13,7 @@ places: [BDI]
 topics: [dpi.registry, dpi.id, include.divides]
 entities: [[ceni-burundi]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- SOS Médias Burundi (May 2025): CENI extended voter-registration-card collection by one day (to 15 May 2025) citing distribution-centre irregularities and low turnout ahead of legislative/communal elections. Diaspora/military collection arrangements noted. Reports COERCION: during the first registration phase (early 2025) citizens were reportedly forced to register to obtain receipts — access to markets, healthcare and police services conditioned on proof of registration; Imbonerakure (CNDD-FDD youth) checked documents at strategic points. Electoral Code Art. 60 bars pressure/coercion but no sanctions observed. Important governance caveat on how Burundi's voter-registration DATA is being produced — coercion under a dominant-party context. Edge-of-core-topic (electoral politics) but relevant to the registration-data integrity story. -->

@@ -13,6 +13,7 @@ places: [MRT]
 topics: [dpi.govtech, dpi.id, dpi.mis]
 entities: [[houwiyeti], [anrpts-mauritania], [mtnima-mauritania]]
 lens: []
+body_completeness: full
 provenance_flag: state-agency
 ---
 

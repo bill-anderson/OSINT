@@ -3,6 +3,9 @@ type: source
 title: Cyber Drill sounds alarm on AI, IoT and quantum threats
 url: https://www.mmegi.bw/news/cyber-drill-sounds-alarm-on-ai-iot-and-quantum-threats/news
 publisher: Mmegi
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Larona Makhaiza
 published: 2026-03-09
 date_precision: day

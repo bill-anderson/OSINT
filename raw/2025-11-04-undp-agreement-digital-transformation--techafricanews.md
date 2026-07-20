@@ -6,12 +6,14 @@ publisher: TechAfrica News
 published: 2025-11-04
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 places: [DZA]
 topics: [gov.policy, dpi.govtech, dpi.exchange, capacity.training, capacity.literacy, include.access, finance.mou]
 entities: [[undp], [high-commission-digitalisation-algeria]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Algeria and UNDP Sign Agreement to Accelerate National Digital Transformation

@@ -11,6 +11,7 @@ places: [EGY]
 topics: [dpi.govtech, dpi.id, gov.policy, tech.ai]
 entities: [[digital-egypt], [mcit-egypt]]
 lens: []
+body_completeness: full
 ---
 
 # Egypt targets full government automation and digital ID verification by 2026

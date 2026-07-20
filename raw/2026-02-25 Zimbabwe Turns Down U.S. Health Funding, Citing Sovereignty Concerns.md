@@ -3,6 +3,8 @@ type: source
 title: "Zimbabwe Turns Down U.S. Health Funding, Citing Sovereignty Concerns"
 publisher: Ecofin Agency
 url: https://www.ecofinagency.com/news/2602-53296-zimbabwe-turns-down-u-s-health-funding-citing-sovereignty-concerns
+date_precision: day
+date_source: source
 author: Lydie Mobio
 published: 2026-02-25
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [ZWE, KEN, RWA, CIV]
 topics: [geopol.usa, gov.protect, dpi.exchange, gov.regional, dpi.mis]
 entities: [[america-first-global-health-strategy], [zimbabwe-us-health-mou], [usaid]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Zimbabwe ended talks on a bilateral US health MoU worth $367m over 5 yrs (per US Embassy Harare, 2026-02-25); Mnangagwa (Dec 2025 memo) called it 'unbalanced'. 1.2m on US-supported HIV treatment. Under 'America First' health strategy, 16 countries signed >$18.3bn. NB: figure conflict vs the '$350m' item (contradiction, flag). -->

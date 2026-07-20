@@ -13,6 +13,7 @@ places: [CMR]
 topics: [gov.protect, gov.legislate]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 <!-- COMPANION SOURCE PAGE for binary raw/2024-03-27 DS-I Africa Law - Cameroon country report (data law).pdf (23pp; DRAFT dated 27 Mar 2024). DS-I Africa Law (Data Science for Health — datalaw.africa) country report on Cameroon's data-protection / health-data / research legal framework — reference on the legal landscape ahead of the 2024 data-protection bill. Held as a legal reference. -->

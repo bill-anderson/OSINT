@@ -7,6 +7,8 @@ published: 2023-04-01
 date_precision: month
 date_source: source
 ingested: 2026-07-17
+lens: []
+body_completeness: full
 artefact: "2023-04-01 Digitalization of CRVS Systems in Africa (AfDB & COMESA).pdf"
 places: [XAF]
 topics: [dpi.registry, dpi.id, gov.regional]

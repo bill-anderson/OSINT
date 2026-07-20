@@ -4,12 +4,15 @@ title: "The quiet rise of African intelligence: eight Africans join UN AI panel"
 publisher: iAfrikan
 url: https://iafrikan.com/the-quiet-rise-of-african-intelligence-eight-africans-join-un-ai-panel/
 published: 2026-02-19
+date_precision: day
+date_source: source
 accessed: 2026-07-10
 ingested: 2026-07-10
 places: [XAF, ZAF]
 topics: [tech.ai, gov.standards, gov.policy, capacity.research, include.divides]
 entities: [[un-ai-scientific-panel]]
 lens: [sovereignty, colonialism]
+body_completeness: full
 ---
 
 <!-- 8 of 40 experts on the UN Independent International Scientific Panel on AI (Res A/RES/79/325,

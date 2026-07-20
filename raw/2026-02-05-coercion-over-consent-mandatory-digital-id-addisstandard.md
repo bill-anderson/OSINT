@@ -6,10 +6,12 @@ publisher: Addis Standard
 published: 2026-02-05
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [ETH]
 topics: [dpi.id, gov.protect, gov.policy]
 entities: [[fayda-ethiopia-national-id], [ethio-telecom]]
 lens: [sovereignty, colonialism]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: ETH-2026-07-17
 ---

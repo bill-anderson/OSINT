@@ -3,6 +3,7 @@ type: source
 title: "Burundi : un atelier national pour évaluer le paysage de l'intelligence artificielle et tracer une feuille de route stratégique"
 url: https://www.iwacu-burundi.org/burundi-un-atelier-national-pour-evaluer-le-paysage-de-lintelligence-artificielle-et-tracer-une-feuille-de-route-strategique/
 publisher: Iwacu
+ingested: 2026-07-18
 author: La Rédaction
 published: 2025-11-25
 date_precision: day
@@ -13,6 +14,7 @@ places: [BDI]
 topics: [tech.ai, gov.policy, gov.protect, capacity.research]
 entities: [[undp], [ministry-of-finance-budget-and-digital-economy-burundi]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 > **Dating note (sweep):** Iwacu serves no publication date. This article reports the opening of the

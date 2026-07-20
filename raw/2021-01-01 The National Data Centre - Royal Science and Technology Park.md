@@ -11,6 +11,7 @@ places: [SWZ]
 topics: [infra.store, infra.energy, dpi.govtech, infra.cybersec]
 entities: [[rstp], [eswatini-national-data-centre]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 *Operator's own facility page, marketing-inflected; capture is not endorsement. No capacity, tenant, uptime-tier or utilisation figures disclosed.*

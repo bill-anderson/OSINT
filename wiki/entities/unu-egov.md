@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: organisation
 title: UNU-EGOV (UN University Operating Unit on Policy-Driven Electronic Governance)
 url: https://egov.unu.edu/
@@ -7,6 +8,7 @@ places: [XGL]
 topics: [dpi.govtech, gov.policy]
 status: active
 last_reviewed: 2026-07-16
+sources: []
 ---
 
 # UNU-EGOV

@@ -6,12 +6,14 @@ publisher: We Are Tech Africa
 published: 2026-05-23
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: MAR-2026-07-17
 places: [MAR]
 topics: [dpi.id, dpi.govtech]
 entities: [[dgsn-morocco]]
 lens: []
+body_completeness: full
 ---
 
 # Morocco digitizes national ID renewal process

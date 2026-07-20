@@ -13,6 +13,7 @@ places: [GNB]
 topics: [gov.policy, dpi.govtech, infra.connect]
 entities: [[entd-gw], [undp]]
 lens: []
+body_completeness: full
 ---
 
 <!-- 31 Jan 2025: UNU-EGOV + UNDP Bissau met PM Rui Duarte Barros on next steps for the National Digital Transformation Strategy (ENTD.GW), esp. Council of Ministers approval. Discussed telecom market challenges, the Universal Access Fund, short-term ENTD.GW interventions, the approval decree. Since July 2024 UNU-EGOV has collaborated with UNDP Bissau on ENTD.GW; officially launched 29 Jan 2025 (PM + Minister of Transportation/Telecom/Digital Economy). Full-day capacity-building 31 Jan (~50 participants) with ITMA. ENTD.GW: 10 strategic pillars (infrastructure, data, economy, people, literacy, governance, innovation, trust, sustainability, public services), 6 objectives, 55 interventions. Consultations led by Beatriz Lanza. Phase 2 underway. -->

@@ -6,12 +6,14 @@ publisher: Fraternité Matin
 published: 2025-08-26
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [infra.store, geopol.usa, finance.new]
 entities: [[exim-bank-usa], [cybastion], [ministere-transition-numerique-cote-divoire], [ibrahim-kalil-konate], [jessica-davis-ba]]
 lens: []
+body_completeness: full
 ---
 
 # Premier Centre national de données : Les Etats-Unis appuient la Côte d'Ivoire à hauteur de 39,6 milliards de Fcfa

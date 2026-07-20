@@ -6,6 +6,7 @@ publisher: Developing Telecoms
 published: 2026-05-26
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [TZA]
 topics: [dpi.pay, finance.mou]
 entities: [[vodacom-tanzania], [mpesa], [paypal]]

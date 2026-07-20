@@ -7,6 +7,8 @@ published: 2025-04-01
 date_precision: month
 date_source: source
 ingested: 2026-07-17
+lens: []
+body_completeness: full
 artefact: "2025-04-01 South Africa Department of Home Affairs Strategic Plan 2025-2030.pdf"
 places: [ZAF]
 topics: [dpi.id, dpi.registry, dpi.govtech, gov.policy, include.access, infra.cybersec]

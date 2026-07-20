@@ -3,6 +3,7 @@ type: source
 title: "Statistiques : des données régulières pour mieux mesurer le marché du travail"
 url: https://www.adiac-congo.com/content/statistiques-des-donnees-regulieres-pour-mieux-mesurer-le-marche-du-travail-170792
 publisher: Les Dépêches de Brazzaville (ADIAC)
+ingested: 2026-07-18
 author: Fiacre Kombo
 published: 2026-07-11
 date_precision: day
@@ -13,6 +14,7 @@ places: [COG]
 topics: [data.statistics, gov.standards, gov.policy]
 entities: [[ins-congo], [ilo]]
 lens: []
+body_completeness: full
 provenance_flag: state-aligned-outlet
 ---
 

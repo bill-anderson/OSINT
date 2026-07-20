@@ -3,6 +3,7 @@ type: source
 title: "Preliminary Report of the Independent International Scientific Panel on AI"
 publisher: United Nations
 url: https://www.un.org/
+date_source: source
 author: Independent International Scientific Panel on Artificial Intelligence (Co-Chairs Yoshua Bengio & Maria Ressa)
 published: 2026-07
 date_precision: month
@@ -13,6 +14,7 @@ places: [XGL, XAF]
 topics: [tech.ai, gov.standards, gov.policy, gov.protect]
 entities: [[un-ai-scientific-panel], [african-union]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Admissible: primary output of the UN Independent International Scientific Panel on AI (the

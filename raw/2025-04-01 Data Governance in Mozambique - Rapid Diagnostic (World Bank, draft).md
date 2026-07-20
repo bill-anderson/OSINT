@@ -13,6 +13,7 @@ places: [MOZ]
 topics: [gov.protect, gov.policy, data.open, gov.standards]
 entities: [[world-bank]]
 lens: []
+body_completeness: full
 ---
 
 World Bank rapid data-governance diagnostic for Mozambique (April 2025 draft for government discussion), assessing the country's data-protection framework, data-sharing and interoperability arrangements, open-data readiness and data standards, and setting out reform priorities. A highly relevant reference document for the MOZ data-governance facet — cite-don't-absorb; do not promote its figures as current state.

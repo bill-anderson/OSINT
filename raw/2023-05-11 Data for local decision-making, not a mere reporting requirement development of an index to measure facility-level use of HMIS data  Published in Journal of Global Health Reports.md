@@ -3,6 +3,8 @@ type: source
 title: "Data for local decision-making: development of an index to measure facility-level use of HMIS data"
 publisher: Journal of Global Health Reports
 url: https://www.joghr.org/article/75141-
+date_precision: day
+date_source: source
 author: Qian J, Shiferaw S, Seme A, Esmale OE, Denboba W, Stierman E, Zimmerman L, Creanga AA
 published: 2023-05-11
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [ETH]
 topics: [dpi.mis, data.statistics, capacity.research]
 entities: [[hmis-data-use-index-ethiopia], [dhis2], [gates-foundation]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Scholarly publication: 10-item facility-level HMIS data-use index (305 Ethiopian facilities, 2019 & 2020; 2020 response 93.2%, Tigray excluded). Mean score 7.2->7.9 (+0.7, P<0.01). DHIS-2 introduced Ethiopia 2018; >95% of facilities use it. Funded by Gates (PMA Ethiopia, AAU+JHU). Home page for [[hmis-data-use-index-ethiopia]]. -->

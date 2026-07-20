@@ -6,6 +6,7 @@ publisher: TechAfrica News
 published: 2026-02-20
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [KEN]
 topics: [gov.policy, infra.connect]
 entities: []

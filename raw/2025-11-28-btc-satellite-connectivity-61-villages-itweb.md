@@ -3,6 +3,9 @@ type: source
 title: BTC's new reach extends to 61 villages in Botswana
 url: https://itweb.africa/article/btcs-new-reach-extends-to-61-villages-in-botswana/rxP3jqBEWB4MA2ye
 publisher: ITWeb Africa
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Savious Parker Kwinika
 published: 2025-11-28
 date_precision: day

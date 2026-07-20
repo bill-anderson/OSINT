@@ -13,6 +13,7 @@ places: [LSO]
 topics: [dpi.pay, dpi.govtech, data.statistics]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 <!-- Revenue Services Lesotho (RSL) + Standard Lesotho Bank (SLB) launched an integrated e-payment system (Maseru, 11 Feb 2026) for tax transactions. RSL Acting CG Obed 'Nete: simplifies/secures tax payments; builds on a 2022 partnership. Three platforms: USSD, internet banking, SLB mobile app — pay Corporate Income Tax, PAYE, VAT, customs duties electronically. Reduces manual processes, improves accuracy; 103 customs + 148 inland-tax transactions already recorded. SLB CEO Samuel Seboka: seamless payments via digital platforms. Part of modernising revenue collection + Lesotho's digital transformation. -->

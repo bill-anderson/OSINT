@@ -3,6 +3,9 @@ type: source
 title: Le Burundi digitalise ses procédures d'importation via un guichet unique
 url: https://www.wearetech.africa/fr/fils/actualites/tech/le-burundi-digitalise-ses-procedures-d-importation-via-un-guichet-unique
 publisher: We Are Tech Africa
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Samira Njoya
 published: 2026-02-19
 date_precision: day

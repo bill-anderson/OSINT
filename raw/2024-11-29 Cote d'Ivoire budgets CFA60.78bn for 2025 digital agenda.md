@@ -13,6 +13,7 @@ places: [CIV]
 topics: [gov.policy, finance.new, include.divides]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 <!-- We Are Tech (Nov 2024): Côte d'Ivoire's Ministry of Digital Transition 2025 budget approved (25 Nov 2024) at CFA60.78bn (~$96.8m) — enhance connectivity, equitable tech access, digital skills, support youth/women. Part of the multi-year budget trajectory: CFA52.6bn (2024) → CFA60.78bn (2025) → CFA83.2bn (2026). -->

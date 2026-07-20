@@ -6,12 +6,14 @@ publisher: The Point
 published: 2026-07-10
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: GMB-2026-07-17
 places: [GMB]
 topics: [tech.industry, finance.new, infra.connect]
 entities: []
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # GAMTEL, YCELL sign landmark Share Investment and Network Modernization Agreement

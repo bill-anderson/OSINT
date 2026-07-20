@@ -13,6 +13,7 @@ places: [CAF]
 topics: [dpi.govtech, gov.policy]
 entities: [[world-bank], [mepci-central-african-republic]]
 lens: []
+body_completeness: full
 ---
 
 <!-- CAR launched a single government-services portal, "Gouvernemental Centralisé," on 10 Dec 2025 — online admin tasks, request/complaint tracking, access to official documents and regulations. Aim: cut office visits, paperwork and processing times through one digital entry point. Financed by the World Bank (Public Sector Governance Programme); Ministry of Finance oversaw development; implemented by EY Tunisie Medianet (digital-solutions firm for public administrations in Africa/Middle East). Plans to expand to health, education and tax. Distinct from the MEPCI "DUNIA" platform (launched Feb 2026) and the DGID "e-Tax" platform (Mar 2025) — three parallel systems in the PND 2024-2028 digitalisation drive. Govt seeking further funding. -->

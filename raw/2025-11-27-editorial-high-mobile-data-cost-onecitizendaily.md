@@ -3,6 +3,7 @@ type: source
 title: "Editorial: South Sudan's mobile data among the most expensive in Africa (~US$23.70/GB)"
 url: https://www.onecitizendaily.com/index.php/2025/11/27/41522/
 publisher: One Citizen Daily
+ingested: 2026-07-19
 author: One Citizen Daily Newspaper (Editorial)
 published: 2025-11-27
 date_precision: day

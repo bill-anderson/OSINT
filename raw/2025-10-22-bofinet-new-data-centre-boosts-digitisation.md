@@ -3,6 +3,7 @@ type: source
 title: BoFiNet's new data centre boosts digitisation
 url: https://www.mmegi.bw/business/bofinets-new-data-centre-boosts-digitisation/news
 publisher: Mmegi
+ingested: 2026-07-18
 author: Mbongeni Mguni
 published: 2025-10-22
 date_precision: day
@@ -13,6 +14,7 @@ places: [BWA]
 topics: [infra.store, tech.industry]
 entities: [[bofinet], [digital-delta-data-centre], [botswana-digital-and-innovation-hub]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # BoFiNet's new data centre boosts digitisation

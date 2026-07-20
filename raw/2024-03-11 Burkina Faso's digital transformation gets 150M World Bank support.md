@@ -13,6 +13,7 @@ places: [BFA]
 topics: [dpi.govtech, infra.connect, finance.new, capacity.training]
 entities: [[pactdigital], [world-bank], [wuri-programme]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Biometric Update (Mar 2024): the World Bank (IDA) approved $150m (early 2024) for Burkina Faso's "Digital Acceleration Project" — the origin/funding of what the government brands PACTDIGITAL (Digital Transformation Acceleration Project). Aims: expand broadband esp. to IDPs/underserved and climate-vulnerable areas, develop digital public services, train public-administration staff and youth in digital skills. WB country director Clara Ana De Sousa; TTL Tounwendé Alain Sawadogo. Foundation for the BFA DPI build (incl. WURI enrolment). -->

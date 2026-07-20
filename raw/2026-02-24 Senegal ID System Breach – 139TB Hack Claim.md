@@ -11,6 +11,7 @@ places: [SEN]
 topics: [dpi.id, infra.cybersec, gov.protect]
 entities: [[daf-senegal], [iris-corporation], [senegal-numerique]]
 lens: []
+body_completeness: full
 ---
 
 # Senegal ID System Breach – 139TB Hack Claim

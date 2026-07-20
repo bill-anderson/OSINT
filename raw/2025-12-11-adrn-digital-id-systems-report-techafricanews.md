@@ -3,6 +3,7 @@ type: source
 title: New Report Provides Comprehensive Overview of Digital-ID Systems Across Africa
 url: https://techafricanews.com/2025/12/11/new-report-provides-comprehensive-overview-of-digital-id-systems-across-africa/
 publisher: TechAfrica News
+ingested: 2026-07-18
 author: Editorial Team
 published: 2025-12-11
 date_precision: day
@@ -13,6 +14,7 @@ places: [BWA]
 topics: [dpi.id, gov.protect, include.access]
 entities: [[african-digital-rights-network], [paradigm-initiative], [centre-for-internet-and-society]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # New Report Provides Comprehensive Overview of Digital-ID Systems Across Africa

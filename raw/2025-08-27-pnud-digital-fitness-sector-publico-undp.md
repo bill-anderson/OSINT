@@ -6,12 +6,14 @@ publisher: UNDP / PNUD Guinea Ecuatorial
 published: 2025-08-27
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: GNQ-2026-07-17
 places: [GNQ]
 topics: [gov.policy, capacity.training, infra.cybersec]
 entities: [[undp]]
 lens: []
+body_completeness: full
 ---
 
 On 27 August 2025 the Ministry of Foreign Affairs, International Cooperation and Diaspora and **UNDP (PNUD)** in Equatorial Guinea, with UNDP's Global Digitalisation Office / CDO Digital Capabilities Lab, launched an intensive **"Digital Fitness"** training initiative for multisectoral government authorities. Over three days, training covered digital transformation, digital-product management, citizen-centred design and cybersecurity fundamentals — to strengthen institutional capacity for digital public-service delivery.

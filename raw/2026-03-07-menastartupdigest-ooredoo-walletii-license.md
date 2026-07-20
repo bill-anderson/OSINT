@@ -6,6 +6,7 @@ publisher: MENA Startup Digest (via Fintech News Middle East)
 published: 2026-03-07
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [TUN]
 topics: [dpi.pay, finance.new, geopol.gulf]
 entities: [[ooredoo-fintech], [central-bank-of-tunisia], [walletii], [qnb-group], [societe-monetique-tunisie]]

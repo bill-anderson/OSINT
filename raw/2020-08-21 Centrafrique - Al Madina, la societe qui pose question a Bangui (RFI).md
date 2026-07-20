@@ -13,6 +13,7 @@ places: [CAF]
 topics: [dpi.id, gov.standards]
 entities: [[al-madina]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- RFI, 21 Aug 2020. Ingested via the reconcile pass (REV-CAF-001) as the resolving primary: it states

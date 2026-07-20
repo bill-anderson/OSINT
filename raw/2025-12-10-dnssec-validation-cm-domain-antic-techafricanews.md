@@ -3,6 +3,7 @@ type: source
 title: Cameroon Aims for 98% DNSSEC Validation Across National Internet by 2026
 url: https://techafricanews.com/2025/12/10/cameroon-aims-for-98-dnssec-validation-across-national-internet-by-2026/
 publisher: TechAfrica News
+ingested: 2026-07-18
 author: Joyce Onyeagoro
 published: 2025-12-10
 date_precision: day
@@ -11,6 +12,7 @@ places: [CMR]
 topics: [infra.cybersec, infra.connect, gov.standards, infra.capacity]
 entities: [[antic-cameroon], [icann], [afrinic], [camtel], [mtn-cameroon], [orange-cameroun]]
 lens: [sovereignty]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: CMR-2026-07-17
 ---

@@ -10,6 +10,7 @@ ingested: 2026-07-20
 places: [UGA]
 topics: [dpi.id, tech.industry]
 entities: [[uganda-security-printing-company], [veridos], [giesecke-devrient], [uganda-printing-and-publishing-corporation]]
+lens: []
 body_completeness: full
 ---
 

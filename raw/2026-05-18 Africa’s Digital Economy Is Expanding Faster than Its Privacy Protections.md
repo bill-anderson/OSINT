@@ -12,6 +12,7 @@ places: [XAF, KEN, NGA, UGA, MUS, GHA, BWA, RWA, TZA, ZWE]
 topics: [gov.protect, gov.legislate, dpi.pay, tech.ai, include.access]
 entities: [[unwanted-witness], [privacy-scorecard-report], [meta], [google], [malabo-convention]]
 lens: [sovereignty, colonialism]
+body_completeness: full
 ---
 
 # Africa’s Digital Economy Is Expanding Faster than Its Privacy Protections  : Unwanted Witness

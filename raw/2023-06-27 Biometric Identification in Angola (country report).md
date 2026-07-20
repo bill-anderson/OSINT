@@ -13,6 +13,7 @@ places: [AGO]
 topics: [dpi.id, gov.protect]
 entities: [[greater-internet-freedom]]
 lens: [sovereignty, colonialism]
+body_completeness: full
 ---
 
 <!-- COMPANION SOURCE PAGE for binary raw/2023-06-27 Biometric Identification in Angola (country report).pdf (24pp). NGO research report (Greater Internet Freedom/Internews), Dr. Dércio Tsandzana (Eduardo Mondlane Univ.), June 2023 — same multi-region biometrics/digital-ID study series as the CAR report. CC BY-NC-SA 4.0. Digital-rights/biometrics assessment of Angola's identification systems; companion evidence for [[angola--dpi-id]] and the data-sovereignty reading. -->

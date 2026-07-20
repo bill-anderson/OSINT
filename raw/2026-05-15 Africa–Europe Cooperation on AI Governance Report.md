@@ -12,6 +12,7 @@ places: [XAF, KEN, ZAF, NGA, RWA, ZWE, GHA, XEA]
 topics: [tech.ai, gov.protect, gov.regional, geopol.eu, capacity.training, finance.new, gov.policy]
 entities: [[lawyers-hub], [au-continental-ai-strategy], [eu-ai-act], [popia], [information-regulator-south-africa], [ndpc]]
 lens: [sovereignty, colonialism]
+body_completeness: full
 ---
 
 # Africa–Europe Cooperation on AI Governance

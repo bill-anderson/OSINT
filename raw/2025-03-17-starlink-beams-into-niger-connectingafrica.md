@@ -6,6 +6,7 @@ publisher: Connecting Africa
 published: 2025-03-17
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [NER]
 topics: [infra.connect, geopol.usa, include.divides, gov.legislate]
 entities: [[starlink]]

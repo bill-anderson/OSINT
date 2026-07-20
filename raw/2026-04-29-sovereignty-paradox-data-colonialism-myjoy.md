@@ -6,12 +6,14 @@ publisher: MyJoyOnline
 published: 2026-04-29
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: GHA-2026-07-17
 places: [GHA, XAF]
 topics: [tech.ai, gov.policy, infra.store]
 entities: []
 lens: [sovereignty, colonialism]
+body_completeness: full
 ---
 # The sovereignty paradox: Data colonialism, debt, and Africa's digital future
 

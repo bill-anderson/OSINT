@@ -11,6 +11,7 @@ places: [SEN]
 topics: [dpi.registry, dpi.id, dpi.govtech, gov.protect]
 entities: [[anec-senegal], [new-deal-technologique]]
 lens: []
+body_completeness: full
 ---
 
 # Senegal plans digital overhaul of civil status system

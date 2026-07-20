@@ -3,6 +3,8 @@ type: source
 title: Leveraging Digital Public Infrastructure to Enhance Uganda's Tax Revenue Potential
 url: https://blog-pfm.imf.org/en/pfmblog/2025/04/leveraging-digital-public-infrastructure-to-enhance
 publisher: IMF PFM Blog
+lens: []
+body_completeness: full
 author: Amos Sanday
 published: 2025-04-21
 date_precision: day

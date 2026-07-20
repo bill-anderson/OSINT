@@ -11,6 +11,7 @@ places: [ETH]
 topics: [dpi.pay, gov.policy, include.access, gov.regional]
 entities: [[ethiopia-ndps], [national-bank-of-ethiopia], [fayda-ethiopia-national-id], [ethswitch]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Ethiopia launches National Digital Payments Strategy 2026–2030 and instant payments

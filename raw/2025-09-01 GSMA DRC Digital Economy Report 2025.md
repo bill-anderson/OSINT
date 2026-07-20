@@ -3,6 +3,7 @@ type: source
 title: "Driving Digital Transformation in the DRC: Opportunities, policy reforms and the role of mobile"
 publisher: GSMA (with Through Line Advisors)
 url: https://www.gsma.com/
+date_source: source
 author: Matthew Harrison Harvey, Daniel Pate, Gaia Penteriani, Mark Williams (Through Line Advisors); Angela Wamola, Caroline Mbugua, Jimmy-Christel Ngoma (GSMA)
 published: 2025-09
 date_precision: month
@@ -13,6 +14,7 @@ places: [COD, XSS]
 topics: [infra.connect, tech.industry, dpi.pay, gov.policy, include.access, finance.new]
 entities: [[gsma], [world-bank]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Admissible: GSMA institutional/agency analysis (with Through Line Advisors). Source, not a

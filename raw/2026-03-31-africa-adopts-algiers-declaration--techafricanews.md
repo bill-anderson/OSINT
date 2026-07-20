@@ -6,12 +6,14 @@ publisher: TechAfrica News
 published: 2026-03-31
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 places: [DZA, XAF]
 topics: [infra.connect, gov.regional, gov.policy, infra.store, infra.cybersec, include.divides, digital.rural]
 entities: [[algiers-declaration], [william-kabogo-gitau]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Africa Adopts Algiers Declaration to Strengthen Telecom Sovereignty and Connectivity

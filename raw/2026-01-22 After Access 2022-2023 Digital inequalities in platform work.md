@@ -4,12 +4,15 @@ title: "After Access 2022-2023: Digital inequalities in platform work"
 publisher: Research ICT Africa
 url: https://researchictafrica.net/research/after-access-2022-2023-digital-inequalities-in-platform-work/
 published: 2026-01-22
+date_precision: day
+date_source: source
 accessed: 2026-07-12
 ingested: 2026-07-12
 places: [XSS]
 topics: [include.divides, include.access, capacity.training]
 entities: [[after-access], [research-ict-africa]]
 lens: []
+body_completeness: full
 ---
 <!-- RIA After Access report on platform/gig work across Sub-Saharan Africa: platform work layers onto — not dissolves — existing structural inequalities; draws on the nationally representative 2022 After Access survey. Attach: [[after-access]] + [[research-ict-africa]]. -->
 

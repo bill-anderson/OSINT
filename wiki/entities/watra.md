@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: organisation
 title: West Africa Telecommunications Regulators Assembly (WATRA)
 places: [XWA]

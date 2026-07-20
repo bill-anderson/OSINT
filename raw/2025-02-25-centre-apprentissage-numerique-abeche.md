@@ -6,6 +6,7 @@ publisher: We Are Tech Africa
 published: 2025-02-25
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: TCD-2026-07-17

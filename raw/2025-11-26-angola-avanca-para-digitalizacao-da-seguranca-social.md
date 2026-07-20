@@ -3,6 +3,8 @@ type: source
 title: Angola avança para digitalização da Segurança Social
 url: https://angop.ao/noticias/politica/angola-avanca-para-digitalizacao-do-inss-com-novo-regime-de-tramitacao-electronica/
 publisher: Angop
+lens: []
+body_completeness: full
 author: AFL/ART
 published: 2025-11-26
 date_precision: day

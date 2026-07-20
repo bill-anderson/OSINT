@@ -6,12 +6,14 @@ publisher: ITWeb Africa
 published: 2025-04-25
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: MAR-2026-07-17
 places: [MAR]
 topics: [infra.connect, finance.mou]
 entities: [[vodafone], [maroc-telecom]]
 lens: []
+body_completeness: full
 ---
 
 # Vodafone and Maroc Telecom sign digital services deal

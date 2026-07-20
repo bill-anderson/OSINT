@@ -3,6 +3,7 @@ type: source
 title: Central African Republic Suspends Starlink Kits Citing Security and Equipment Traceability Requirements
 url: https://techafricanews.com/2026/04/28/central-african-republic-suspends-starlink-kits-citing-security-and-equipment-traceability-requirements/
 publisher: TechAfrica News
+ingested: 2026-07-18
 author: Editorial Team
 published: 2026-04-28
 date_precision: day
@@ -11,6 +12,7 @@ places: [CAF]
 topics: [infra.connect, gov.legislate, gov.standards, infra.cybersec, include.access, geopol.usa]
 entities: [[arcep-central-african-republic], [spacex]]
 lens: [sovereignty]
+body_completeness: full
 provenance_flag: pr-wire
 retrieved: 2026-07-17
 sweep_batch: CAF-2026-07-17

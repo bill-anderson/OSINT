@@ -3,6 +3,7 @@ type: source
 title: Congo and Russia Strengthen Digital and AI Cooperation During High-Level Meeting (CARIA phases 3–4, Sberbank debt-swap)
 url: https://techafricanews.com/2026/04/21/congo-and-russia-strengthen-digital-and-ai-cooperation-during-high-level-meeting/
 publisher: TechAfrica News
+ingested: 2026-07-18
 author: Editorial Team
 published: 2026-04-21
 date_precision: day
@@ -11,6 +12,7 @@ places: [COG]
 topics: [tech.ai, finance.new, finance.mou, capacity.training, capacity.research, tech.innovate]
 entities: [[caria-congo]]
 lens: [sovereignty, colonialism]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: COG-2026-07-17
 ---

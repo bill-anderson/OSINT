@@ -3,6 +3,8 @@ type: source
 title: "Has Satellite Become Africa's Most Critical Connectivity Infrastructure"
 publisher: Tech Africa News
 url: https://techafricanews.com/2026/03/26/has-satellite-become-africas-most-critical-connectivity-infrastructure/
+date_precision: day
+date_source: source
 author: Joyce Onyeagoro
 published: 2026-03-26
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [XAF, XSS]
 topics: [infra.connect, infra.capacity, digital.rural, include.access]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 <!-- Interview/explainer (podcast Ep5 S2, ST Engineering iDirect's Omar Diab): >300m Africans still out of coverage; satellite shifting from last-resort to core infra via LEO/multi-orbit; bottleneck is economics (low rural ARPU) not technology. Low intelligence density; admissible as commentary. -->

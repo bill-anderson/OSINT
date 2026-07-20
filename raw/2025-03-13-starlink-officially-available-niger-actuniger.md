@@ -6,6 +6,7 @@ publisher: ActuNiger
 published: 2025-03-13
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [NER]
 topics: [infra.connect, include.divides, geopol.usa, gov.legislate]
 entities: [[starlink], [arcep-niger]]

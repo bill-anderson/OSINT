@@ -6,10 +6,12 @@ publisher: Connecting Africa
 published: 2025-09-01
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [DJI, KEN, ZAF, TZA, MOZ, MDG, SOM]
 topics: [infra.connect, gov.regional, infra.store]
 entities: [[djibouti-telecom], [dare1-cable]]
 lens: [sovereignty]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: DJI-2026-07-17
 ---

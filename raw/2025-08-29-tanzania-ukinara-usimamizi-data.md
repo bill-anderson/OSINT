@@ -6,6 +6,7 @@ publisher: Mwananchi
 published: 2025-08-29
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [TZA]
 topics: [gov.policy, gov.protect, dpi.exchange, infra.store]
 entities: [[micit-tanzania], [african-union]]

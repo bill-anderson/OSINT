@@ -3,6 +3,8 @@ type: source
 title: Gabon — integration of school health into the education management information system (SIGE)
 url: https://gabonmediatime.com/gabon-integration-de-la-sante-scolaire-dans-le-systeme-de-gestion-educative
 publisher: Gabon Media Time
+lens: []
+body_completeness: full
 author: Blandine Biloghe
 published: 2025-08-09
 date_precision: day

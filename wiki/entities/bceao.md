@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: government-body
 title: BCEAO (Banque Centrale des États de l'Afrique de l'Ouest)
 places: [TGO, SEN, XWA, BEN]

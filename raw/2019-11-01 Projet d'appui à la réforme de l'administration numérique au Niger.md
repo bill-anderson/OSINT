@@ -12,6 +12,7 @@ places: [NER]
 topics: [dpi.govtech, gov.policy]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 Project page for Expertise France's support to Niger's National Agency for the Information Society (ANSI), funded by the Agence Française de Développement (AFD). Since November 2019 the project has provided operational support to ANSI in managing the State's digital projects and piloting e-administration under Niger's "Niger 2.0" strategic plan, aiming to bring public services closer to citizens and businesses through digital technology.

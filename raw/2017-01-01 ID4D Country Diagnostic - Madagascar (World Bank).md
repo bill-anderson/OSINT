@@ -13,6 +13,7 @@ places: [MDG]
 topics: [dpi.id, dpi.registry, include.access]
 entities: [[world-bank]]
 lens: []
+body_completeness: full
 ---
 
 World Bank Identification for Development (ID4D) Country Diagnostic for Madagascar (2017). A reference diagnostic assessing the state of Madagascar's identification and civil registration systems, coverage gaps, and the case for foundational ID as a basis for inclusion and service access. Establishes the baseline that later informed the PRODIGY project. Cite for its analysis and framing; do not promote its dated figures into synthesis pages (cite-don't-absorb).

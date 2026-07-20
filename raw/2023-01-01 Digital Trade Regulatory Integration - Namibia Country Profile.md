@@ -13,6 +13,7 @@ places: [NAM]
 topics: [gov.regional, gov.legislate, dpi.exchange]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 Namibia country profile from the ECA African Trade Policy Centre's Digital Trade Regulatory Integration (DTRI) initiative, which maps the legal and regulatory environment for digital trade to support AfCFTA Protocol on Digital Trade negotiations and inform the OECD Digital Services Trade Restrictiveness Index. The profile draws on two datasets covering digital-services-trade restrictions (2014-2021) and digital-trade-integration measures.

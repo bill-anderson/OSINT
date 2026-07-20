@@ -3,6 +3,9 @@ type: source
 title: Absa reshapes payments with virtual cards
 url: https://www.mmegi.bw/business/absa-reshapes-payments-with-virtual-cards/news
 publisher: Mmegi
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Lucy Kgweetsi
 published: 2025-11-12
 date_precision: day

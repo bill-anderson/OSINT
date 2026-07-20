@@ -2,6 +2,7 @@
 type: source
 title: "Africa's sovereign AI play: Cassava and Strive Masiyiwa's $720m bet"
 publisher: Ecofin Agency
+date_source: source
 author: Idriss Linge
 url: https://www.ecofinagency.com/news/2809-49064-africa-s-sovereign-ai-play-cassava-technologies-and-zimbabwean-strive-masiyiwa-720-million-bets
 published: 2026
@@ -12,6 +13,7 @@ places: [ZAF, NGA, KEN, EGY, MAR, XAF]
 topics: [infra.capacity, infra.store, tech.ai, infra.connect, infra.energy, finance.new]
 entities: [[cassava-technologies], [cassava-ai-factories], [africa-data-centres], [liquid-c2], [strive-masiyiwa], [nvidia]]
 lens: [sovereignty, colonialism]
+body_completeness: full
 ---
 
 <!-- Anchor source for the $720m AI-factory story. First Joburg facility: 3,000 Nvidia H100s

@@ -3,6 +3,7 @@ type: source
 title: "Journée internationale de l'identité: trois jours de réflexion pour un système d'identification efficient"
 url: https://www.sidwaya.info/journee-internationale-de-lidentite-trois-jours-de-reflexion-pour-un-systeme-didentification-efficient/
 publisher: Sidwaya
+ingested: 2026-07-18
 author: Evariste Yoda
 published: 2025-09-17
 date_precision: day
@@ -13,6 +14,7 @@ places: [BFA]
 topics: [dpi.id, gov.regional, gov.policy, include.access]
 entities: [[oni-burkina-faso], [alliance-of-sahel-states]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Journée internationale de l'identité: trois jours de réflexion pour un système d'identification efficient

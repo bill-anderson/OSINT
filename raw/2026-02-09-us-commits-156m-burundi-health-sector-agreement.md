@@ -3,6 +3,7 @@ type: source
 title: United States commits $156M to Burundi health sector under new five-year agreement
 url: https://www.burunditimes.com/united-states-commits-156-million-to-burundi-health-sector-under-new-five-year-agreement/
 publisher: Burundi Times
+ingested: 2026-07-18
 author: Burundi Times
 published: 2026-02-09
 date_precision: day
@@ -13,6 +14,7 @@ places: [BDI]
 topics: [dpi.mis, geopol.usa, finance.mou, gov.protect]
 entities: [[us-embassy-burundi], [ministry-of-health-burundi]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # United States commits $156M to Burundi health sector under new five-year agreement

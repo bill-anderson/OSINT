@@ -6,12 +6,14 @@ publisher: Tech Review Africa
 published: 2025-07-11
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [tech.innovate, gov.policy, include.divides]
 entities: [[ivoire-tech-forum], [ministry-of-digital-transition-cote-divoire], [kalil-konate], [robert-beugre-mambe]]
 lens: [sovereignty]
+body_completeness: full
 provenance_flag: pr-wire
 primary_to_source: Ministry of Digital Transition and Digitalization communiqué on Ivoire Tech Forum 2025; the National Digital Strategy 2025 document referenced
 ---

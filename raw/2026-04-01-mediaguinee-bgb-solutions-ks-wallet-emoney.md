@@ -6,12 +6,14 @@ publisher: Mediaguinee
 published: 2026-04-01
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: GIN-2026-07-17
 places: [GIN]
 topics: [dpi.pay, finance.new, include.access]
 entities: [[bgb-solutions], [ks-wallet]]
 lens: []
+body_completeness: full
 ---
 
 # Monnaie électronique : BGB SOLUTIONS S.A lance son application KS-WALLET

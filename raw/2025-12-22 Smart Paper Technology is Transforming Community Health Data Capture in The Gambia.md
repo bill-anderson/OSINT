@@ -13,6 +13,7 @@ places: [GMB]
 topics: [dpi.mis, data.statistics]
 entities: [[dhis2]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Smart Paper Technology (SPT) — hybrid paper→digital system — transformed HMIS at Bundung Maternal and Child Hospital (Serekunda). Launched 2017 by MoH, MRCG at LSHTM, Shifo Foundation, US CDC, Bundung Hospital; piloted at Bundung + Fajikunda, now expanding. SPT assigns unique patient IDs, barcodes, QR codes to every mother/child; structured paper forms scanned/digitised/synced with DHIS2. Reduced register use, easier retrieval, SMS reminders, real-time vaccine stock, role-based access. Reporting lags months→days. Facility deliveries in Bundung catchment 82.5% (2022) → 83.9% (2023). -->

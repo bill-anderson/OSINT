@@ -3,6 +3,7 @@ type: source
 title: Starlink beams into Central African Republic
 url: https://www.connectingafrica.com/connectivity/starlink-beams-into-central-african-republic
 publisher: Connecting Africa
+ingested: 2026-07-18
 author: Matshepo Sehloho
 published: 2026-03-17
 date_precision: day
@@ -11,6 +12,7 @@ places: [CAF]
 topics: [infra.connect, include.access, include.divides, digital.rural, geopol.usa]
 entities: [[spacex]]
 lens: []
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: CAF-2026-07-17
 ---

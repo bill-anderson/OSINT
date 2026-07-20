@@ -3,6 +3,9 @@ type: source
 title: "Cameroun : Le Cabinet Danielle Moukouri retenu pour élaborer la Stratégie nationale de développement de l'IA"
 url: https://leconomie.info/cameroun-le-cabinet-danielle-moukouri-retenu-pour-elaborer-la-strategie-nationale-de-developpement-de-lia/
 publisher: Le quotidien L'Economie
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Julie Bilo’o
 published: 2025-03-11
 date_precision: day

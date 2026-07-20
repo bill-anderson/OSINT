@@ -12,6 +12,7 @@ places: [TZA]
 topics: [gov.protect, gov.legislate, infra.cybersec]
 entities: [[tanzania-pdpa], [pdpc-tanzania], [clyde-and-co]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 *Law-firm briefing — attribute to Clyde & Co. USD conversions of the TZS penalties are as of 2026-02.*

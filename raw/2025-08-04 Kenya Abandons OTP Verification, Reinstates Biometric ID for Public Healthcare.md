@@ -13,6 +13,7 @@ places: [KEN]
 topics: [dpi.id, dpi.mis, include.divides]
 entities: [[social-health-authority-kenya]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Kenya discontinued OTP (One-Time Password) verification for public-healthcare patients, reinstating biometric ID to reduce fraud + improve service. Announced by the Social Health Authority (SHA), managing SHIF. OTP introduced 2024 during the NHIF→SHA transition but drew criticism: rural patients + poor mobile coverage; 60%+ of facilities reported OTP delays; fraud via manipulated phone numbers. MoH distributing biometric devices (fingerprint + facial, central-database validation) to public hospitals. Health CS Aden Duale: biometric checks mandatory at all Level 4-6 hospitals, lower tiers to follow. -->

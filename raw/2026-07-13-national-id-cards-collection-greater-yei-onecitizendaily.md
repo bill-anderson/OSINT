@@ -3,6 +3,7 @@ type: source
 title: Thousand begin collecting national identity cards in greater Yei
 url: https://www.onecitizendaily.com/index.php/2026/07/13/thousand-begin-collecting-national-identity-cards-in-greater-yei/
 publisher: One Citizen Daily
+ingested: 2026-07-19
 author: One Citizen Daily Newspaper
 published: 2026-07-13
 date_precision: day

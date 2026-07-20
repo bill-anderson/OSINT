@@ -3,6 +3,8 @@ type: source
 title: Connecting the Remaining 812 Schools Takes Centre Stage at EdTech Mondays Dialogue
 url: https://www.ktpress.rw/2026/03/connecting-the-remaining-812-schools-takes-centre-stage-at-edtech-mondays-dialogue/
 publisher: KT Press
+ingested: 2026-07-19
+lens: []
 author: Daniel Sabiiti
 published: 2026-03-31
 date_precision: day

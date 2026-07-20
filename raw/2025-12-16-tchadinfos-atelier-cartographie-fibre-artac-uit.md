@@ -6,6 +6,7 @@ publisher: Tchadinfos
 published: 2025-12-16
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [TCD, XCA]
 topics: [infra.connect, gov.regional, dpi.exchange]
 entities: [[arcep-chad], [artac], [itu]]

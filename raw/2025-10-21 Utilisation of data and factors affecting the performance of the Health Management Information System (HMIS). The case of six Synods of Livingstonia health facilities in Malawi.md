@@ -3,6 +3,8 @@ type: source
 title: "Utilisation of data and factors affecting HMIS performance: six Synods of Livingstonia health facilities in Malawi"
 publisher: Archives of Public Health 83:254
 url: https://pmc.ncbi.nlm.nih.gov/articles/PMC12539031/
+date_precision: day
+date_source: source
 author: Salangwa C, Munthali R, Mfune L, Nyirenda VK
 published: 2025-10-21
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [MWI]
 topics: [dpi.mis, data.statistics, capacity.training, gov.standards]
 entities: [[hmis-malawi-livingstonia], [dhis2]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Scholarly publication (cross-sectional, Aug 2023, 6 SoLHD facilities, 103 participants). 70% of facility respondents used HMIS data vs 33.3% of district respondents; 31.4% of facility staff had no HMIS training in prior 24 months. Barriers: no SOPs, weak resources/supervision/incentives. Malawi uses DHIS2. Home page for [[hmis-malawi-livingstonia]]. -->

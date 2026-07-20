@@ -3,6 +3,7 @@ type: source
 title: Anthony Same Expands African Datacenter Network to Drive Digital Transformation
 url: https://www.wearetech.africa/en/fils-uk/tech-stars/anthony-same-expands-african-datacenter-network-to-drive-digital-transformation
 publisher: We Are Tech Africa
+ingested: 2026-07-18
 author: Melchior Koba
 published: 2026-05-13
 date_precision: day
@@ -11,6 +12,7 @@ places: [CMR, GAB, COG, CIV]
 topics: [infra.store, infra.cybersec, tech.industry, gov.protect, capacity.training, dpi.govtech]
 entities: [[st-digital], [anthony-same]]
 lens: [sovereignty]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: CMR-2026-07-17
 ---

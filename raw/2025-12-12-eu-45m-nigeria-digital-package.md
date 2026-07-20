@@ -6,6 +6,7 @@ publisher: TechAfrica News
 published: 2025-12-12
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [NGA]
 topics: [finance.new, geopol.eu, infra.connect]
 entities: [[european-union]]

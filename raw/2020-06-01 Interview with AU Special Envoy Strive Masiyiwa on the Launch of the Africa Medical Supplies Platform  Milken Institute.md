@@ -3,6 +3,7 @@ type: source
 title: "Interview with AU Special Envoy Strive Masiyiwa on the Africa Medical Supplies Platform"
 publisher: Milken Institute (COVID-19 Africa Watch)
 url: https://milkeninstitute.org/content-hub/collections/articles/interview-au-special-envoy-strive-masiyiwa-launch-africa-medical-supplies-platform
+date_source: source
 author: Staci Warden (interviewer)
 published: 2020-06
 date_precision: month
@@ -12,6 +13,7 @@ places: [ZAF, NGA, KEN, XAF]
 topics: [dpi.exchange, gov.regional, finance.mou, tech.industry, include.access]
 entities: [[africa-medical-supplies-platform], [strive-masiyiwa], [econet-wireless], [african-union]]
 lens: [sovereignty, colonialism]
+body_completeness: full
 ---
 
 <!-- AMSP launch (mid-2020); same event as the CSWRG best-practices piece (richer primary).

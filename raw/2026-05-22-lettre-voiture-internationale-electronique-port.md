@@ -3,6 +3,9 @@ type: source
 title: "Bénin : la Lettre de Voiture Internationale électronique au départ du Port officiellement lancée"
 url: https://fraternite.bj/benin-la-lettre-de-voiture-internationale-electronique-au-depart-du-port-officiellement-lancee/
 publisher: Fraternité
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Isac YAI
 published: 2026-05-22
 date_precision: day

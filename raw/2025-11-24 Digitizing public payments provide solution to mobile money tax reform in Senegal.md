@@ -11,6 +11,7 @@ places: [SEN]
 topics: [dpi.pay, gov.legislate, gov.policy, include.access]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 # Digitizing public payments provide solution to mobile money tax reform in Senegal

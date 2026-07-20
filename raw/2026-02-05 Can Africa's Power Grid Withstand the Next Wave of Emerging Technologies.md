@@ -3,6 +3,8 @@ type: source
 title: "Can Africa's Power Grid Withstand the Next Wave of Emerging Technologies?"
 publisher: Tech Africa News
 url: https://techafricanews.com/
+date_precision: day
+date_source: source
 author: Joyce Onyeagoro
 published: 2026-02-05
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [XAF, NGA]
 topics: [infra.energy, infra.store, infra.capacity, include.access]
 entities: [[mtn-group], [gsma]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Analytical explainer on the DC power crunch: Africa DC electricity demand growing ~20-25%/yr (could reach 8,000 GWh); ~600m Africans lack electricity; Mupita (MTN) says Africa needs 'hundreds of billions' in energy infra; World Bank/AfDB Mission 300 aims to electrify 300m more. Backfill to infra.energy. -->

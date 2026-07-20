@@ -3,6 +3,8 @@ type: source
 title: "A (Refreshed) List of Content Providers' Submarine Cable Holdings"
 publisher: TeleGeography
 url: https://resources.telegeography.com/telegeography-content-providers-submarine-cable-holdings-list-new
+date_precision: day
+date_source: source
 author: Alan Mauldin
 published: 2024-06-27
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [XGL]
 topics: [infra.connect, infra.store]
 entities: [[telegeography]]
 lens: []
+body_completeness: full
 ---
 
 <!-- TeleGeography maintained reference list of content-provider submarine-cable ownership (grew from 20 cables in 2017 to 60+; table updated Mar 2026). Google owns/part-owns ~35 systems (incl. Equiano sole); Meta part-owns 2Africa; content providers surpassed backbones as largest capacity users in 2017. Resource [[telegeography]]. -->

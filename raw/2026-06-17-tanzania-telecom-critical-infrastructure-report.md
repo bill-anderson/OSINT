@@ -6,6 +6,7 @@ publisher: Tech Africa News
 published: 2026-06-17
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [TZA]
 topics: [infra.connect, gov.policy, data.statistics]
 entities: [[tcra]]

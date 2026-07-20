@@ -6,6 +6,7 @@ publisher: Independent News Eswatini
 published: 2026-02-22
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [SWZ]
 topics: [dpi.id, dpi.registry]
 entities: [[ministry-of-home-affairs-eswatini]]

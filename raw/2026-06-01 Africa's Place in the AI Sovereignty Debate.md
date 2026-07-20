@@ -3,14 +3,17 @@ type: source
 title: "Africa's Place in the AI Sovereignty Debate"
 publisher: Anjola Adebowale (anjolaadebowale.substack.com)
 url: https://anjolaadebowale.substack.com/p/africas-place-in-the-ai-sovereignty
+date_source: source
 author: Anjola Adebowale
 published: 2026-06-01
+date_precision: month
 accessed: 2026-07-12
 ingested: 2026-07-12
 places: [XAF, KEN, NGA, ZAF, MAR, RWA]
 topics: [tech.ai, infra.store, infra.energy, gov.protect, gov.policy, gov.regional]
 entities: [[au-continental-ai-strategy], [afcfta-digital-trade-protocol], [smart-africa], [mtn-nigeria], [mtn-group], [microsoft-g42-kenya-datacenter], [g42], [pax-silica], [paula-ingabire], [william-ruto], [ndpc], [microsoft], [anjola-adebowale]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- External expert analysis. "Sovereignty = leverage, not self-sufficiency" applied to Africa via the Oxford Frontier AI Forum (30 May 2026). Traps: "Bayobab" Dabengwa Sifiso Lagos DC = MTN -> mtn-nigeria (no generic bayobab entity); Morocco 500MW renewables AI project = existing pax-silica; NDPC's largest fine (Jul 2025, on Multichoice) is a NEW datapoint on ndpc, distinct from ndpc-meta-settlement; Microsoft-G42 stall -> microsoft-g42-kenya-datacenter. States 44 African countries with data-protection laws by early 2026 (NB conflicts with Mbaya's "only 36" in the same batch — record both dated, do not reconcile). Kigali $60bn AI Fund / Africa Declaration has no entity yet (flagged, not created). -->

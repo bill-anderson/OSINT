@@ -3,6 +3,8 @@ type: source
 title: "African nations recommit to operationalize AfCFTA digital single market framework"
 publisher: Biometric Update
 url: https://www.biometricupdate.com/202607/african-nations-recommit-to-operationalize-afcfta-digital-single-market-framework
+date_precision: day
+date_source: source
 author: Ayang Macdonald
 published: 2026-07-07
 accessed: 2026-07-10
@@ -11,6 +13,7 @@ places: [XAF, NGA]
 topics: [gov.regional, dpi.exchange, gov.standards, dpi.pay, dpi.id, gov.policy, finance.new]
 entities: [[afcfta], [papss], [wamkele-mene]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- On-the-record reporting of the 2nd AfCFTA Digital Trade Forum (Lagos). Admissible.

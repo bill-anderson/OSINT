@@ -3,6 +3,8 @@ type: source
 title: "Nations priced out of Big AI are building with frugal models"
 publisher: Rest of World
 url: https://restofworld.org/2026/frugal-ai-big-tech/
+date_precision: day
+date_source: source
 author: Rina Chandran
 published: 2026-04-02
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [XGL, KEN, NGA]
 topics: [tech.ai, tech.innovate, include.divides, capacity.research]
 entities: [[microsoft], [google], [amazon-web-services]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- US + Chinese companies operate >90% of AI data centres (Oxford); Africa/South America almost none. AI adoption grew ~2x faster in wealthy vs LMIC last year (Microsoft Research). Cambridge Frugal AI Hub in talks with Kenya/Nigeria officials. India's Soliga voice model built from 5 hours of data on a sub-$50 Raspberry Pi. Africa relevance is the KEN/NGA hook. -->

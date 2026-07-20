@@ -11,6 +11,7 @@ places: [XSA]
 topics: [infra.connect, infra.energy, gov.regional]
 entities: [[sadc], [sadc-ridmp]]
 lens: []
+body_completeness: full
 artefact: "2012-08-01 SADC RIDMP Executive Summary.pdf"
 ---
 

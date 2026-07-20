@@ -11,6 +11,7 @@ places: [ETH]
 topics: [infra.energy, infra.store]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 # Bitdeer completes 40 MW Oromia bitcoin-mining site in Ethiopia

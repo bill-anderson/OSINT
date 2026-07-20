@@ -13,6 +13,7 @@ places: [XAF]
 topics: [dpi.id, dpi.registry, data.statistics]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 <!-- COMPANION SOURCE PAGE for binary raw/2017-01-01 AU - Report on the Status of Civil Registration and Vital Statistics in Africa.pdf (42pp). Continental CRVS status report from the Africa Programme on Accelerated Improvement of CRVS (APAI-CRVS) monitoring framework, based on the Oct 2016 web-based monitoring round (date proxied to year). Regional (XAF), NOT Angola-specific — held as a continental CRVS reference; per-country figures not lifted into place pages. Context for Angola's / CAR's civil-registration gaps. -->

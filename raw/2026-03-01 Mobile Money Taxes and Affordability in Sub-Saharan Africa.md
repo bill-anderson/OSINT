@@ -12,6 +12,7 @@ places: [XSS, ZMB, MLI, KEN, NGA, CMR]
 topics: [dpi.pay, finance.new, include.access, gov.legislate]
 entities: [[gsma]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Mobile Money Taxes and Affordability in Sub-Saharan Africa

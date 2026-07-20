@@ -7,6 +7,7 @@ published: 2025-01-20
 date_precision: day
 date_source: source
 ingested: 2026-07-17
+lens: []
 artefact: "2025-01-20 PID Appraisal Stage - Digital Zambia Acceleration Project (P505094).pdf"
 places: [ZMB]
 topics: [infra.connect, dpi.exchange, dpi.govtech, capacity.training, finance.new, infra.cybersec]

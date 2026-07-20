@@ -6,6 +6,7 @@ publisher: The Times (Times Group)
 published: 2025-12-05
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [MWI]
 topics: [digital.rural, dpi.exchange, dpi.id, gov.protect, data.statistics]
 entities: [[national-registration-bureau-malawi], [malawi-data-protection-act-2024], [macra-malawi], [undp]]

@@ -6,6 +6,7 @@ publisher: Huawei Enterprise (case study)
 published: 2025-08-30
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [SYC]
 topics: [dpi.mis, capacity.training, geopol.china]
 entities: [[huawei], [cable-wireless-seychelles], [ministry-of-education-seychelles]]

@@ -10,6 +10,7 @@ ingested: 2026-07-20
 places: [ZWE]
 topics: [gov.protect, gov.standards, dpi.govtech]
 entities: [[zimra], [potraz], [zimbabwe-cyber-and-data-protection-act]]
+lens: []
 body_completeness: full
 ---
 
@@ -19,7 +20,7 @@ ID-sequence bracketing against dated neighbours — news ID 2347 sits between ID
 same event reported retrospectively, so on/after 2026-01-26); Data Privacy Week fell
 26–30 January 2026. **Late January 2026** is therefore well supported; filed at month
 precision, `date_source: proxy`, with the filename padded to `2026-01-01` per convention.
-Full method in `reviews/contradictions/research/zimbabwe-zimra-tarms-date.md`.*
+Full method in `reviews/contradictions/done/zimbabwe-zimra-tarms-date.md`.*
 
 Data Privacy Week serves as a timely reminder that ZIMRA's mandate is built entirely on trust. Every day, the Authority process vast volumes of sensitive personal data. Safeguarding this data is not optional it is a legal, ethical and institutional responsibility.
 

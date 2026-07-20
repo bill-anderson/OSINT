@@ -12,6 +12,7 @@ places: [STP]
 topics: [dpi.id, dpi.registry, dpi.govtech]
 entities: [[sao-tome-national-digital-id], [mosip], [id4africa], [world-bank], [african-development-bank]]
 lens: []
+body_completeness: full
 ---
 
 # São Tomé and Principe pilots MOSIP-based national digital ID system

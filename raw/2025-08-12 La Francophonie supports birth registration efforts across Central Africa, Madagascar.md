@@ -13,6 +13,7 @@ places: [CAF, TCD, CMR, MDG, XCA]
 topics: [dpi.id, dpi.registry, include.access]
 entities: [[oif-la-francophonie]]
 lens: []
+body_completeness: full
 ---
 
 <!-- On the 8th Africa CRVS Day (10 Aug), OIF/La Francophonie reaffirmed support for birth registration across Central Africa + Madagascar. Figures: Chad 53,000+ children registered (Tandjilé, Ennedi Est), phase 2 in prep; Cameroon 5,400 (Far North); CAR — project launching, targets 3,000 birth certificates for undocumented children/youth plus staff training. OIF's flagship Civil Registration project (since 2019) targets rural/vulnerable populations, aligned to SDG 16.9 (legal identity for all by 2030). Also supported Madagascar's data-protection institution. Since 2021: 500,000+ registered, 2.5m+ sensitised, 6,100+ agents trained across five countries. CAR figure is small/early-stage. -->

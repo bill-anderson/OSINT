@@ -3,6 +3,8 @@ type: source
 title: Gabon Speeds Up Digital Payments Rollout with MaDigiPaie Program
 url: https://www.ecofinagency.com/news-digital/1112-51310-gabon-speeds-up-digital-payments-rollout-with-madigipaie-program
 publisher: Ecofin Agency
+lens: []
+body_completeness: full
 author: Isaac K. Kassouwi
 published: 2025-12-11
 date_precision: day

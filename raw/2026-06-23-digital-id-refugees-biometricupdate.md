@@ -3,6 +3,7 @@ type: source
 title: Rwanda's digital ID rollout expands access for refugees
 url: https://www.biometricupdate.com/202606/rwandas-digital-id-rollout-expands-access-for-refugees
 publisher: Biometric Update
+ingested: 2026-07-19
 author: Ayang Macdonald
 published: 2026-06-23
 date_precision: day

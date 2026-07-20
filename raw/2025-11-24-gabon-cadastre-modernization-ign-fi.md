@@ -11,6 +11,7 @@ places: [GAB]
 topics: [dpi.registry, gov.policy, finance.mou]
 entities: [[ign-fi], [gabon-ign-fi-cadastre-deal]]
 lens: [colonialism]
+body_completeness: full
 ---
 
 Libreville, 24 November 2025 — Ludovic Megne Ndong, Minister of Housing, Habitat, Urbanism and Cadastre, received a delegation from IGN FI (Institut Géographique National France Internationale), marking a step in the digitization of Gabon's land sector, aimed at eliminating land disputes and optimizing territorial planning.

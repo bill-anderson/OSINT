@@ -14,6 +14,7 @@ places: [AGO]
 topics: [tech.industry, finance.new, gov.policy]
 entities: [[unitel]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 Angola's largest telecommunications operator, Unitel, has launched an initial public offering (IPO), with the government selling a 15% stake on the local stock exchange as part of its wider privatisation programme.

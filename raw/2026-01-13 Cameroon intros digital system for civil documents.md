@@ -3,6 +3,8 @@ type: source
 title: "Cameroon intros digital system for civil documents"
 publisher: ITWeb Africa
 url: https://itweb.africa/article/cameroon-intros-digital-system-for-civil-documents/
+date_precision: day
+date_source: source
 author: Lezeth Khoza
 published: 2026-01-13
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [CMR]
 topics: [dpi.registry, dpi.id, digital.localgov, include.access]
 entities: [[undp]]
 lens: []
+body_completeness: excerpt
 ---
 
 <!-- Cameroon deployed a digital civil-status system (birth/marriage/death certs at council level), implemented by UNDP and funded by Denmark; covers 10 municipalities across the Far North, North-West and South-West; aims to enhance legal-identity access for youth/women/vulnerable groups and resilience in crisis areas. -->

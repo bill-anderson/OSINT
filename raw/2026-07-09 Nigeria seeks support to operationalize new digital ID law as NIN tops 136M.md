@@ -3,6 +3,8 @@ type: source
 title: "Nigeria seeks support to operationalize new digital ID law as NIN tops 136M"
 publisher: Biometric Update
 url: https://www.biometricupdate.com/202607/nigeria-seeks-support-to-operationalize-new-digital-id-law-as-nin-tops-136m
+date_precision: day
+date_source: source
 author: Ayang Macdonald
 published: 2026-07-09
 accessed: 2026-07-10
@@ -11,6 +13,7 @@ places: [NGA]
 topics: [dpi.id, gov.legislate, gov.policy, finance.new, include.access]
 entities: [[nimc], [nigeria-id4d], [world-bank]]
 lens: [sovereignty, colonialism]
+body_completeness: full
 ---
 
 <!-- On-the-record reporting of NIMC stakeholder consultations on the NIMC Act 2026.

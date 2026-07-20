@@ -3,6 +3,8 @@ type: source
 title: "MTN Ghana secures $1.1bn boost as AI push deepens"
 publisher: ITWeb Africa
 url: https://itweb.africa/article/mtn-ghana-secures-11bn-boost-as-ai-push-deepens/
+date_precision: day
+date_source: source
 author: Phathisani Moyo
 published: 2026-02-23
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [GHA]
 topics: [infra.connect, infra.store, tech.ai, dpi.pay, capacity.training]
 entities: [[mtn-group], [mtn-ghana], [ralph-mupita]]
 lens: []
+body_completeness: excerpt
 ---
 
 <!-- MTN Ghana to invest $1.1bn over three years (announced during Mupita's visit, ~Feb 2026) in 4G/5G, hyperscale data centres, AI/cloud. MTN Ghana ~58% market share, >25m subscribers, MoMo >11m active. Echoes a 2022 >$1bn/5yr pledge. -->

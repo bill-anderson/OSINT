@@ -3,6 +3,9 @@ type: source
 title: Botswana records lowest suspected digital fraud but...
 url: https://www.sundaystandard.info/botswana-records-lowest-suspected-digital-fraud-but/
 publisher: Sunday Standard
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Obusitse Kologwe
 published: 2026-06-15
 date_precision: day

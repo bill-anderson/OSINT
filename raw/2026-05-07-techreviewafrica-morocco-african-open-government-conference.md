@@ -6,12 +6,14 @@ publisher: Tech Review Africa
 published: 2026-05-07
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: MAR-2026-07-17
 places: [MAR]
 topics: [data.open, gov.regional, dpi.govtech]
 entities: []
 lens: []
+body_completeness: full
 provenance_flag: pr-wire
 ---
 

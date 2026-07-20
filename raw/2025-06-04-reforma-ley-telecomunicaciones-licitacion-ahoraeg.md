@@ -6,12 +6,14 @@ publisher: AHORA EG
 published: 2025-06-04
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: GNQ-2026-07-17
 places: [GNQ]
 topics: [gov.legislate, infra.connect, tech.ai, infra.cybersec, gov.protect]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 The Ministry of Transport, Telecommunications and Artificial Intelligence Systems announced an international tender to hire a specialised firm to lead a comprehensive reform of Ley N.º 7/2005 General de Telecomunicaciones and its regulations. The aim is to modernise the legal framework of the telecoms sector to promote investment, innovation, connectivity, digital inclusion and legal certainty.

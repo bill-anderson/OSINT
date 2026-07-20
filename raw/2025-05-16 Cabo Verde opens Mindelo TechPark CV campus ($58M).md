@@ -11,6 +11,7 @@ places: [CPV]
 topics: [infra.store, gov.policy, dpi.govtech]
 entities: [[techpark-cv], [african-development-bank]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Cabo Verde opens Mindelo TechPark CV campus ($58M)

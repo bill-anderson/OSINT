@@ -10,6 +10,7 @@ places: [SDN]
 topics: [dpi.id, dpi.govtech, infra.cybersec, gov.policy]
 entities: [[sudapass], [ministry-digital-transformation-sudan], [sudanese-cybersecurity-authority], [national-electronic-certification-authority-sudan], [civil-registry-sudan]]
 lens: [sovereignty]
+body_completeness: full
 retrieved: 2026-07-17
 ingested: 2026-07-18
 sweep_batch: SDN-2026-07-17

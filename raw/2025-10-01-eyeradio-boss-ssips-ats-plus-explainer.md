@@ -10,6 +10,7 @@ ingested: 2026-07-20
 places: [SSD]
 topics: [dpi.pay, dpi.exchange, gov.standards, infra.cybersec, include.access]
 entities: [[bank-of-south-sudan], [ssips-south-sudan], [david-akum-saba-elkher], [addis-ababa-othow], [iso-20022]]
+lens: []
 body_completeness: full
 ---
 

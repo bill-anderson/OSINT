@@ -6,6 +6,7 @@ publisher: TechCabal
 published: 2025-05-09
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [NGA]
 topics: [dpi.pay, gov.legislate]
 entities: [[securities-and-exchange-commission-nigeria], [central-bank-of-nigeria]]

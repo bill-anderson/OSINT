@@ -6,10 +6,12 @@ publisher: TechAfrica News
 published: 2025-02-03
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [COD]
 topics: [infra.store, infra.cybersec, gov.standards, dpi.pay, include.access, tech.industry]
 entities: [[oadc-texaf-digital]]
 lens: []
+body_completeness: full
 provenance_flag: pr-wire
 retrieved: 2026-07-17
 sweep_batch: COD-2026-07-17

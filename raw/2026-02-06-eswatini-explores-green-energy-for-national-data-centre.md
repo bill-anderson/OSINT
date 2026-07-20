@@ -6,6 +6,7 @@ publisher: Independent News Eswatini
 published: 2026-02-06
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [SWZ]
 topics: [infra.store, infra.energy, geopol.gulf, finance.mou]
 entities: [[ministry-of-ict-eswatini], [global-south-utilities], [rstp]]

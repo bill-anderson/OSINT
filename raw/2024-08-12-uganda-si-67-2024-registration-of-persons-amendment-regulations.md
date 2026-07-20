@@ -10,6 +10,7 @@ ingested: 2026-07-20
 places: [UGA]
 topics: [dpi.id, gov.legislate]
 entities: [[nira-uganda], [ministry-of-internal-affairs-uganda], [registration-of-persons-act-2015], [ndaga-muntu]]
+lens: []
 body_completeness: full
 ---
 

@@ -13,6 +13,7 @@ places: [LSO]
 topics: [dpi.govtech, dpi.registry, gov.regional]
 entities: [[mosip]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Lesotho joined the 50-in-5 campaign (support 50 countries to build safe/inclusive/interoperable DPI within 5 years) as the 14th member (campaign launched Nov 2023). Min of Comms/Science/Tech/Innovation Nthati Moorosi: drives economic growth via ICT, enables sectors to draw up digital-transformation strategies. UNDP's Jacqueline Olewa: Innovation Hub with Ministry of Education at Lerotholi Polytechnic (UNDP + UNICEF). Campaign: enabling legislation, DPI implementation plan across government, target women/youth. Situated in UNDP/Vital Strategies advocacy for DPI-CRVS integration. MOSIP a cornerstone open-source DPI platform (17 countries). -->

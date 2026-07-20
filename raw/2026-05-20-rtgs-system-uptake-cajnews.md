@@ -3,6 +3,7 @@ type: source
 title: South Sudan platform to digitise economy pays off (RTGS uptake)
 url: https://cajnewsafrica.com/2026/05/20/south-sudan-platform-to-digitise-economy-pays-off/
 publisher: CAJ News Africa
+ingested: 2026-07-19
 author: Anyang Garang
 published: 2026-05-20
 date_precision: day

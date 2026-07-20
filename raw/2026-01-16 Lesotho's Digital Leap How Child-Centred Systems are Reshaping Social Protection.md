@@ -3,6 +3,8 @@ type: source
 title: "Lesotho's Digital Leap: How Child-Centred Systems are Reshaping Social Protection"
 publisher: DPI Africa
 url: https://dpi.africa.com/lesothos-digital-leap/
+date_precision: day
+date_source: source
 author: Editor NG
 published: 2026-01-16
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [LSO]
 topics: [dpi.registry, dpi.mis, gov.protect, include.access, digital.rural]
 entities: [[nissa-lesotho], [universal-dpi-safeguards-framework]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Lesotho's NISSA social registry holds data on >90% of households, categorised by vulnerability; redesign (backed by UNICEF + Co-Develop Fund) puts children's rights at the centre and applies the Universal DPI Safeguards Framework. -->

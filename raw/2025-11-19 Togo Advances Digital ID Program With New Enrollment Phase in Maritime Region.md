@@ -11,6 +11,7 @@ places: [TGO]
 topics: [dpi.id, dpi.registry, include.access, include.divides, finance.new, digital.rural]
 entities: [[anid-togo], [inseed-togo], [e-id-togo], [wuri-programme], [world-bank]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 *Reports a rollout phase but no cumulative enrolment count — see GAP-TGO-002.*

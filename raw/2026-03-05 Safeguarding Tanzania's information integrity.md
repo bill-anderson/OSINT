@@ -4,12 +4,15 @@ title: "Safeguarding Tanzania’s information integrity"
 publisher: Research ICT Africa
 url: https://researchictafrica.net/research/safeguarding-tanzanias-information-integrity/
 published: 2026-03-05
+date_precision: day
+date_source: source
 accessed: 2026-07-12
 ingested: 2026-07-12
 places: [TZA]
 topics: [include.divides, infra.connect, gov.policy]
 entities: [[research-ict-africa]]
 lens: [sovereignty, colonialism]
+body_completeness: full
 ---
 <!-- RIA report on multistakeholder efforts to protect information integrity during Tanzania's 2025 electoral cycle amid state-led internet shutdowns, media capture, disinformation; argues global information-integrity interventions largely ineffective in African contexts. NOTE: no dedicated disinformation/shutdown taxonomy slug — flagged possible taxonomy gap. Attach: [[research-ict-africa]]. -->
 

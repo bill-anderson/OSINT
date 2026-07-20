@@ -3,6 +3,9 @@ type: source
 title: Botswana launches Scalar programme to bridge innovation funding gap
 url: https://www.mmegi.bw/news/botswana-launches-scalar-programme-to-bridge-innovation-funding-gap/news
 publisher: Mmegi
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Larona Makhaiza
 published: 2026-03-18
 date_precision: day

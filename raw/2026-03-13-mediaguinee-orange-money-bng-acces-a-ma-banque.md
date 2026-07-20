@@ -6,12 +6,14 @@ publisher: Mediaguinee
 published: 2026-03-13
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: GIN-2026-07-17
 places: [GIN]
 topics: [dpi.pay, include.access]
 entities: [[orange-money-guinea], [banque-nationale-de-guinee]]
 lens: []
+body_completeness: full
 ---
 
 # Orange Money lance le service « Accès à ma banque » avec la Banque Nationale de Guinée (BNG)

@@ -13,6 +13,7 @@ places: [BEN]
 topics: [gov.policy, dpi.id, infra.cybersec, geopol.china]
 entities: [[asin-benin], [smart-africa]]
 lens: [sovereignty, colonialism]
+body_completeness: full
 ---
 
 <!-- BACKFILL (2024-05-29) — historical baseline for Benin's digital-partnership strategy. Interview with Marc-André Loko, DG of ASIN (Agency for Information Systems and Digital), formed by merging Benin's four digital-sector implementing agencies (incl. ADN). Key: Benin's 2021-2026 digital plan (successor to the 2016 Deloitte-built plan); "diversified portfolio of best-in-class partners" as deliberate sovereignty strategy. Partners: Estonia + Rwanda (e-gov expertise via Cybernetica, eGA); China (Huawei, CITCC via China Development Bank/EximBank — financing + debt deferrals); Microsoft/Oracle-certified firms; French feasibility studies (Sofrecom, Tactis, Horus); Tunisian firms (Digitalis, MGI BFC). Benin's DIGITAL CODE (drawn up with Jones Day) covers e-comms, cybersecurity, data protection. Benin LEADS Smart Africa's digital-identity interoperability project (cross-border ID: Senegal, Togo, soon Ghana). 2021 delegated-management contract of Benin's digital-infrastructure company to Sonatel (Senegal/Orange). Rich for geopol diversification + [[benin--dpi-id]]. -->

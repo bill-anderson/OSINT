@@ -6,12 +6,14 @@ publisher: Biometric Update
 published: 2025-07-10
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: GHA-2026-07-17
 places: [GHA]
 topics: [dpi.govtech, finance.new]
 entities: [[nita-ghana], [samuel-nartey-george], [world-bank]]
 lens: []
+body_completeness: full
 ---
 # Ghana to add 16k digital govt services as part of $200M World Bank project
 

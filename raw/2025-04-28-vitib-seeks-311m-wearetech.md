@@ -6,12 +6,14 @@ publisher: We Are Tech Africa
 published: 2025-04-28
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [tech.industry, finance.new, geopol.india, infra.store, infra.connect]
 entities: [[vitib], [export-import-bank-of-india], [okaya-group]]
 lens: []
+body_completeness: full
 ---
 
 # Côte d'Ivoire : VITIB Seeks $311 Mln to Accelerate Its Development

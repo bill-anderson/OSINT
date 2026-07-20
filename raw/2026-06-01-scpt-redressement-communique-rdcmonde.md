@@ -6,12 +6,14 @@ publisher: Magazine RD CONGO-MONDE
 published: 2026-06-01
 date_precision: month
 date_source: proxy
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: COD-2026-07-17
 places: [COD]
 topics: [infra.connect, gov.policy]
 entities: [[scpt-drc]]
 lens: []
+body_completeness: full
 provenance_flag: pr-wire
 ---
 

@@ -13,6 +13,7 @@ places: [MRT]
 topics: [infra.store, gov.policy, dpi.exchange]
 entities: [[mtnima-mauritania], [wardip], [world-bank]]
 lens: [sovereignty]
+body_completeness: full
 provenance_flag: off-assigned-host
 ---
 

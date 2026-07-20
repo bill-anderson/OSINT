@@ -11,6 +11,7 @@ places: [ETH]
 topics: [capacity.literacy, include.divides, dpi.pay]
 entities: [[undp]]
 lens: []
+body_completeness: full
 ---
 
 # Digital and financial literacy in Ethiopia — UNCDF/MInT nationwide survey

@@ -3,6 +3,9 @@ type: source
 title: Burundi Taps Regional Cooperation to Advance Digital Tax Reforms
 url: https://www.wearetech.africa/en/fils-uk/news/finance/burundi-taps-regional-cooperation-to-advance-digital-tax-reforms
 publisher: We Are Tech Africa
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: La Rédaction
 published: 2025-06-25
 date_precision: day

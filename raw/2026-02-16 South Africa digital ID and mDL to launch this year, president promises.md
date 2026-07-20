@@ -12,6 +12,7 @@ places: [ZAF]
 topics: [dpi.id, dpi.govtech, dpi.registry, tech.ai, infra.store, gov.policy, include.access]
 entities: [[cyril-ramaphosa], [home-affairs-south-africa], [sassa]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 *A PROMISE, NOT A DELIVERY — and the article itself says implementation 'is behind schedule as the government said recently that the legal framework was still being discussed, pending cabinet approval'. Ramaphosa's SONA 'this year' (2026) runs one to two years ahead of his own department's tabled APP (hosting by 31 Mar 2027, platform 2027/28). PROVENANCE CORRECTION: the '55 data centres / >R50bn over three years' pair is attributed on the held south-africa--infra-store to Godongwana on 2026-02-25; it is in Ramaphosa's SONA of 2026-02-12, which is the earlier origin. Also carries SASSA's claimed R300m+ saved since biometric verification.*

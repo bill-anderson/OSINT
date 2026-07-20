@@ -3,6 +3,9 @@ type: source
 title: "Cameroun : un plan stratégique pour développer la santé numérique entre 2026 et 2030"
 url: https://leconomie.info/cameroun-un-plan-strategique-pour-developper-la-sante-numerique-entre-2026-et-2030/
 publisher: Le quotidien L'Economie
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: William Abada
 published: 2026-03-10
 date_precision: day

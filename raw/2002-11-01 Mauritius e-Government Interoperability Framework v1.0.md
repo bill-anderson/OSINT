@@ -13,6 +13,7 @@ places: [MUS]
 topics: [dpi.exchange, gov.standards]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 Version 1.0 of the Mauritius e-Government Interoperability Framework (November 2002), setting technical standards and specifications to enable interoperability across government information systems and data exchange between public agencies. An early foundational standards instrument for Mauritian e-government. Filed as a reference artefact documenting the historical baseline of the country's interoperability standards; cite for provisions, not current state.

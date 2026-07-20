@@ -3,6 +3,9 @@ type: source
 title: Burundi Digitizes Tax Collection With Launch of e-KORI System
 url: https://www.wearetech.africa/en/fils-uk/news/tech/burundi-digitizes-tax-collection-with-launch-of-e-kori-system
 publisher: We Are Tech Africa
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Samira Njoya
 published: 2026-01-22
 date_precision: day

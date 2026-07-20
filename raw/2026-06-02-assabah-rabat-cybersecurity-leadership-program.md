@@ -6,12 +6,14 @@ publisher: Assabah
 published: 2026-06-02
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: MAR-2026-07-17
 places: [MAR]
 topics: [infra.cybersec, capacity.training, gov.regional]
 entities: [[dgssi-morocco]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # الرباط تحتضن البرنامج التنفيذي للقيادة في الأمن السيبراني

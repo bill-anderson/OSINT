@@ -13,6 +13,7 @@ places: [MLI]
 topics: [capacity.training, include.access]
 entities: [[world-bank]]
 lens: []
+body_completeness: full
 ---
 
 An infoDev/World Bank country report profiling the state of information and communication technology in education in Mali as part of a wider survey of ICT and education across Africa. It documents the policy environment, infrastructure and early ICT-in-schools initiatives of the mid-2000s.

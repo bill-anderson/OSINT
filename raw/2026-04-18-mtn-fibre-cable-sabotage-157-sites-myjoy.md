@@ -6,12 +6,14 @@ publisher: MyJoyOnline
 published: 2026-04-18
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: GHA-2026-07-17
 places: [GHA]
 topics: [infra.connect, infra.cybersec]
 entities: [[mtn-ghana]]
 lens: []
+body_completeness: full
 ---
 
 # 157 sites disrupted – MTN CEO reveals massive scale of fibre cable sabotage

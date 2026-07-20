@@ -10,6 +10,8 @@ ingested: 2026-07-15
 places: [GAB]
 topics: [dpi.govtech, dpi.id, dpi.registry]
 entities: [[aninf-gabon]]
+lens: []
+body_completeness: full
 ---
 
 (Undated on page; context ties it to the 2025 legislative/local elections — year precision assigned.)

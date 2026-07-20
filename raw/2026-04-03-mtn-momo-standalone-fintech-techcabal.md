@@ -6,12 +6,14 @@ publisher: TechCabal
 published: 2026-04-03
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: GHA-2026-07-17
 places: [GHA]
 topics: [dpi.pay, gov.legislate]
 entities: [[mtn-ghana], [mobilemoney-fintech], [mtn-group]]
 lens: []
+body_completeness: full
 ---
 # MTN completes Ghana mobile money spinoff in major fintech push
 

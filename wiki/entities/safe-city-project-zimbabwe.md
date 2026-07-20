@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: initiative
 title: Safe City Project (Zimbabwe)
 places: [ZWE]

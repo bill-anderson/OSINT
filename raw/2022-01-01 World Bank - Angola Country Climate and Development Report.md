@@ -13,6 +13,7 @@ places: [AGO]
 topics: [infra.energy, gov.policy]
 entities: [[world-bank]]
 lens: []
+body_completeness: full
 ---
 
 <!-- COMPANION SOURCE PAGE for binary raw/2022-01-01 World Bank - Angola Country Climate and Development Report.pdf (87pp). WB Angola CCDR (2022; date proxied to year). Climate-development reference; relevant here mainly as the energy baseline behind Angola's connectivity/data-infrastructure constraint (high renewable/hydro share of generation but low access; ~47% electrification 2020). Edge-of-core-scope (climate) — held as a light reference, not mined for climate detail. -->

@@ -11,6 +11,7 @@ places: [SEN]
 topics: [gov.policy, dpi.id, infra.store, include.access, tech.innovate]
 entities: [[new-deal-technologique]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Senegal unveils digital transformation strategy to enhance economic growth

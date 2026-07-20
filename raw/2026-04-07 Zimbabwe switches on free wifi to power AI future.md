@@ -3,6 +3,8 @@ type: source
 title: "Zimbabwe switches on free wifi to power AI future"
 publisher: ITWeb Africa
 url: https://itweb.africa/article/zimbabwe-switches-on-free-wifi-to-power-ai-future/
+date_precision: day
+date_source: source
 author: Phathisani Moyo
 published: 2026-04-07
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [ZWE]
 topics: [infra.connect, tech.ai, include.access, capacity.training, digital.rural]
 entities: [[starlink], [uae]]
 lens: []
+body_completeness: excerpt
 ---
 
 <!-- Zimbabwe rolling out free public Wi-Fi (tied to 46th Independence Day, 18 Apr 2026); 409 hotspots deploying, target 1,000 by year-end. Flagship '1.5 million coding programme' with the UAE. Cybersecurity programme trained 3,000+ youths; Starlink recently licensed. -->

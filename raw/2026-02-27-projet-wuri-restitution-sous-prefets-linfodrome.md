@@ -6,12 +6,14 @@ publisher: Linfodrome
 published: 2026-02-27
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [dpi.id, dpi.registry, digital.rural]
 entities: [[projet-wuri], [ministere-emploi-protection-sociale-cote-divoire]]
 lens: []
+body_completeness: full
 ---
 
 # Projet WURI : les recommandations restituées aux sous-préfets et leaders communautaires de 10 sous-préfectures

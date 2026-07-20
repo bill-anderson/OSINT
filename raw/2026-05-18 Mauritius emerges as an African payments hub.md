@@ -3,6 +3,8 @@ type: source
 title: "Mauritius emerges as an African payments hub"
 publisher: ITWeb Africa
 url: https://itweb.africa/article/mauritius-emerges-as-an-african-payments-hub/
+date_precision: day
+date_source: source
 author: Lezeth Khoza
 published: 2026-05-18
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [MUS, ZAF]
 topics: [dpi.pay, finance.new, gov.regional]
 entities: [[peach-payments]]
 lens: []
+body_completeness: excerpt
 ---
 
 <!-- Peach Payments' Mauritius entity: transaction volume +>300% YoY 2024->2025, +42% merchants; FATF grey-list exit aided confidence. Operates directly in 11 African markets (15 via partnerships). Single-company interview. -->

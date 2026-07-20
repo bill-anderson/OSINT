@@ -6,6 +6,7 @@ publisher: SAnews
 published: 2026-06-08
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [ZAF]
 topics: [dpi.registry, dpi.id]
 entities: [[home-affairs-south-africa]]

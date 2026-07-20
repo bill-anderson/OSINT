@@ -6,6 +6,7 @@ publisher: The Times (Times Group)
 published: 2026-03-30
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [MWI]
 topics: [dpi.pay, data.statistics, include.access]
 entities: [[reserve-bank-of-malawi]]

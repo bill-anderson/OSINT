@@ -14,6 +14,7 @@ places: [AGO]
 topics: [dpi.id, dpi.registry, dpi.exchange, include.access, digital.rural]
 entities: [[ministerio-da-justica-e-dos-direitos-humanos-angola], [marcy-lopes], [bilhete-de-identidade-angola], [plano-de-universalizacao-do-bilhete-de-identidade]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Impressão do BI abrange todas as províncias do país

@@ -3,6 +3,8 @@ type: source
 title: SmartSwitch Botswana Pioneers Dignified Digital Aid for 75,000+ Beneficiaries
 url: https://techafricanews.com/2025/05/28/smartswitch-botswana-pioneers-dignified-digital-aid-for-75000-beneficiaries/
 publisher: TechAfrica News
+ingested: 2026-07-18
+lens: []
 author: Aayushya Ranjan
 published: 2025-05-28
 date_precision: day

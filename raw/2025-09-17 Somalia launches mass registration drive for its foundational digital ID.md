@@ -12,6 +12,7 @@ places: [SOM]
 topics: [dpi.id, include.access, finance.new]
 entities: [[nira-somalia], [snid], [eaqoonsi], [somalia-spring-project]]
 lens: []
+body_completeness: full
 ---
 
 # Federal Republic of Somalia launches mass registration drive for its digital ID

@@ -10,6 +10,7 @@ ingested: 2026-07-20
 places: [SWZ]
 topics: [gov.policy, dpi.exchange, dpi.id, dpi.pay, dpi.govtech, infra.connect, capacity.training, tech.innovate]
 entities: [[eswatini-digital-readiness-assessment], [undp], [eseparc], [ministry-of-ict-eswatini], [savannah-maziya], [henrik-franklin], [darinka-vasquez], [government-in-your-hand], [eswatini-digitalisation-strategy-2024-2028]]
+lens: []
 body_completeness: full
 ---
 

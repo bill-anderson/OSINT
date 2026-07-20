@@ -3,6 +3,9 @@ type: source
 title: "Vaste coup de filet contre la cybercriminalité en Afrique : 651 arrestations, le Bénin concerné"
 url: https://fraternite.bj/vaste-coup-de-filet-contre-la-cybercriminalite-en-afrique-651-arrestations-le-benin-concerne/
 publisher: Fraternité
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Alexia Lumière-Christina ADJOU-MOUMOUNI
 published: 2026-02-19
 date_precision: day

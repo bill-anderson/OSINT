@@ -6,10 +6,12 @@ publisher: TechAfrica News
 published: 2026-07-06
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [COD]
 topics: [dpi.pay, finance.new, include.access, geopol.usa, gov.regional]
 entities: [[visa], [safaricom], [onafriq], [visa-mpesa-onafriq-drc-stablecoin-pilot]]
 lens: [sovereignty]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: COD-2026-07-17
 ---

@@ -6,12 +6,14 @@ publisher: TechAfrica News
 published: 2026-03-17
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [infra.connect, data.satellite, digital.rural, include.divides, geopol.usa, tech.innovate]
 entities: [[starlink], [spacex], [ministry-of-digital-transition-and-digitalisation-cote-divoire], [djibril-ouattara], [digital-city-cote-divoire], [air-cote-divoire]]
 lens: []
+body_completeness: full
 ---
 
 # Ivory Coast and US Strengthen Digital Cooperation with Focus on Starlink and Tech Hub Development

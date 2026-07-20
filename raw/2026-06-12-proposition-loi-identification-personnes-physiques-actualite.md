@@ -6,12 +6,14 @@ publisher: ACTUALITE.CD
 published: 2026-06-12
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: COD-2026-07-17
 places: [COD]
 topics: [gov.legislate, dpi.id, dpi.registry, dpi.exchange, gov.protect, gov.standards]
 entities: [[venance-eyanga-mboyo], [patrick-namazihana-bachoke], [assemblee-nationale-drc], [onip-drc], [ceni-drc]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 Les députés nationaux Venance Eyanga et Patrick Namazihana

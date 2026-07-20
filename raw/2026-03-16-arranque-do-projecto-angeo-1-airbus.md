@@ -14,6 +14,7 @@ places: [AGO]
 topics: [data.satellite, geopol.eu, tech.industry, capacity.training, finance.new, gov.policy]
 entities: [[angeo-1], [airbus-defence-and-space], [ggpen], [mario-oliveira], [zolana-joao], [alain-faure]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Ministro enaltece início do projecto ANGEO-1 para consolidação do programa espacial

@@ -3,6 +3,7 @@ type: source
 title: "20e édition semaine du numérique: La souveraineté numérique, un impératif national"
 url: https://www.sidwaya.info/20e-edition-semaine-du-numerique-la-souverainete-numerique-un-imperatif-national/
 publisher: Sidwaya
+ingested: 2026-07-18
 author: Direction de la communication de la Présidence du Faso
 published: 2025-11-18
 date_precision: day

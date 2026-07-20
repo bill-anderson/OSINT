@@ -6,12 +6,14 @@ publisher: ITWeb Africa
 published: 2025-12-03
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV, XWA]
 topics: [dpi.exchange, gov.regional, tech.industry, dpi.govtech]
 entities: [[tradepost], [ecowas], [ministry-of-digital-transition-cote-divoire]]
 lens: []
+body_completeness: full
 ---
 
 By Samuel Olomu, Nigeria correspondent. Johannesburg, 03 Dec 2025.

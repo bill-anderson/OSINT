@@ -3,6 +3,7 @@ type: source
 title: Central African Republic advances with tax digitalisation
 url: https://itweb.africa/article/central-african-republic-advances-with-tax-digitalisation/rW1xL75n43RMRk6m
 publisher: ITWeb Africa
+ingested: 2026-07-18
 author: Amindeh Blaise Atabong
 published: 2025-01-31
 date_precision: day
@@ -11,6 +12,7 @@ places: [CAF]
 topics: [dpi.govtech, dpi.pay, geopol.eu, gov.policy, capacity.training]
 entities: [[dgid-central-african-republic]]
 lens: []
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: CAF-2026-07-17
 ---

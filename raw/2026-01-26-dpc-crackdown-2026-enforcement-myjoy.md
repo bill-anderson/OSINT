@@ -6,12 +6,14 @@ publisher: MyJoyOnline
 published: 2026-01-26
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: GHA-2026-07-17
 places: [GHA]
 topics: [gov.protect, gov.legislate]
 entities: [[data-protection-commission-ghana]]
 lens: []
+body_completeness: full
 ---
 
 # Data Protection Commission to crack down on breaches as 2026 marked for strict enforcement

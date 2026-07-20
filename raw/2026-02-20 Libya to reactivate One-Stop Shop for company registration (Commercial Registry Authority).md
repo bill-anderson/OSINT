@@ -13,6 +13,7 @@ places: [LBY]
 topics: [dpi.govtech, gov.policy]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 <!-- 16 Feb 2026: meeting at the Commercial Registry Authority to activate the "One-Stop Shop" for company registration, per PM directives to simplify registration + improve the business environment. Attendees: CRA head + NESDB DG. Consolidating license-issuing + company-registration entities in one location (Law No. 23 of 2010) for swift, transparent procedures. Reviewed digital-infrastructure readiness + integration with the One-Stop Shop to standardise procedures, reduce complexity, enhance investor confidence. (Libya Herald notes repeated past failures to reform company-registration bureaucracy.) -->

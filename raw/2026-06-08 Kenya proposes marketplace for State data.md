@@ -4,11 +4,14 @@ title: Kenya proposes marketplace for State data
 url: https://itweb.africa/article/kenya-proposes-marketplace-for-state-data/RgeVDMPRldKvKJN3
 publisher: ITWeb Africa
 published: 2026-06-08
+date_precision: day
+date_source: source
 ingested: 2026-07-10
 places: [KEN]
 topics: [data.open, gov.policy, dpi.govtech, gov.protect, data.statistics, dpi.registry]
 entities: [[kenya-data-marketplace], [william-ruto]]
 lens: [sovereignty]
+body_completeness: excerpt
 ---
 ![William Ruto, Kenyan president.](https://lh3.googleusercontent.com/-ZkBlJ0QagsKTDB4frQw6tC56TIvpjNJYR0GlcG8qSaBh9vu852kLCZHNcuW998kualTCepyl4zEySLF10Co-t75RikK_4eosT4)
 

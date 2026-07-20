@@ -3,6 +3,8 @@ type: source
 title: "Malawi validates AI strategy, digital transformation policy"
 publisher: CAJ News Africa
 url: https://cajnewsafrica.com/2026/02/20/malawi-validates-ai-strategy-digital-transformation-policy/
+date_precision: day
+date_source: source
 author: Mavhuto Banda
 published: 2026-02-20
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [MWI]
 topics: [gov.policy, tech.ai, dpi.govtech, capacity.training]
 entities: [[undp], [malawi-ministry-of-ict]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Malawi began validation of a Draft National Digital Transformation Strategy + Draft National AI Strategy (two-day workshop, Lilongwe, ~18 Feb 2026); launched a 'Shape Malawi's Digital and AI Future' feedback portal; led by the Ministry of ICT / Dept of E-Government with UNDP. Pre-adoption drafts. -->

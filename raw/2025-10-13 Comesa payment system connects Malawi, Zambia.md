@@ -13,6 +13,7 @@ places: [MWI]
 topics: [dpi.pay, gov.regional]
 entities: [[comesa]]
 lens: []
+body_completeness: full
 ---
 
 The 21-member Common Market for Eastern and Southern Africa (COMESA) has rolled out its first interoperable cross-border payment system, the Digital Retail Payments Platform (DRPP), linking Malawi and Zambia. It enables instant, low-cost transactions in local currencies without relying on scarce foreign exchange — the first successful demonstration of real-time regional payments, supervised by the Reserve Bank of Malawi (RBM) and the Bank of Zambia (BoZ).

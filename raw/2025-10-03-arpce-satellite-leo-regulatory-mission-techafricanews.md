@@ -3,6 +3,7 @@ type: source
 title: Republic of Congo's ARPCE Advances Technical and Regulatory Expertise in Satellite Communications
 url: https://techafricanews.com/2025/10/03/republic-of-congos-arpce-advances-technical-and-regulatory-expertise-in-satellite-communications/
 publisher: TechAfrica News
+ingested: 2026-07-18
 author: Kay-Lyne Wolfenden
 published: 2025-10-03
 date_precision: day
@@ -11,6 +12,7 @@ places: [COG]
 topics: [infra.connect, gov.legislate, infra.capacity, include.divides]
 entities: [[arpce-congo]]
 lens: []
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: COG-2026-07-17
 ---

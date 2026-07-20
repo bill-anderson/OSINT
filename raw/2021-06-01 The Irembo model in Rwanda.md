@@ -7,6 +7,8 @@ ingested: 2026-07-16
 published: 2021-06-01
 date_precision: year
 date_source: proxy
+lens: []
+body_completeness: full
 page: 
 title: The Irembo model in Rwanda
 author: 

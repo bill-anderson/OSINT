@@ -3,6 +3,8 @@ type: source
 title: "Who Protects Nigeria's Digital Citizens? Unmasking Accountability Gaps in Digital Rights Governance"
 publisher: Dataphyte
 url: https://www.dataphyte.com/topic/technology/who-protects-nigerias-digital-citizens/
+date_precision: day
+date_source: source
 author: Adeyemi Okediran
 published: 2026-02-27
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [NGA]
 topics: [gov.protect, gov.legislate, dpi.id, infra.cybersec, include.access, tech.ai]
 entities: [[nimc], [ndpc], [nigeria-data-protection-act-2023]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Analytical reporting citing primaries: the 2021 Twitter/X suspension (~7 months, up to N10.72tn cost); Freedom on the Net 2024 'partly free'; NITDA Code of Practice (48-hr takedown, >13.5m accounts deactivated by mid-2025); Cybercrimes Act 2015 s.24 used vs journalists; a 2024 alleged ~43m NIN-record exposure; NDPC under ministerial control (criticised). Backfill to [[nimc]]/[[ndpc]]. -->

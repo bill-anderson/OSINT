@@ -12,6 +12,7 @@ places: [TCD]
 topics: [infra.store, infra.connect, finance.new, digital.rural, dpi.govtech, geopol.eu]
 entities: [[pmice], [chad-national-data-centre], [boukar-michel], [flexenclosure], [world-bank]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 *The site's top-of-page '14 Jul 2026' stamp is a template artefact; the true byline date is 2026-01-06, corroborated by the 20 Dec 2025 commencement and the Dec 2025 Sarh ceremony.*

@@ -13,6 +13,7 @@ places: [LBY]
 topics: [dpi.pay, dpi.govtech, gov.protect]
 entities: [[central-bank-of-libya]]
 lens: []
+body_completeness: full
 ---
 
 <!-- CBL launched "Ratebk Lahzi" (Your Salary Instantly) — real-time salary transfer depositing public-sector wages via the national instant payment network. With Ministry of Finance; streamlines payroll, reduces delays. Data for ~2m pensioners/public employees collected; +700,000 being verified for August payroll. PM Dabaiba: "national necessity" — digitizing payroll protects public funds, curbs payments to non-working individuals; salaries = 55% of public spending. State Council's Belkacem Debrez: anti-bureaucratic, eliminates duplicate/fraudulent payroll. Resistance from eastern government (Osama Hammad): refused to share employee banking data with Tripoli MoF; unity govt mandate "expired"; warned of politicization. CBL holds legal + technical mandate over payroll data — caught between reform + politicization fears. -->

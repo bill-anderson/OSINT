@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: instrument
 title: Digital Readiness Assessment - Eswatini (UNDP)
 places: [SWZ]

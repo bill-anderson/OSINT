@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: government-body
 title: Somalia Ministry of Communications and Technology
 places: [SOM]

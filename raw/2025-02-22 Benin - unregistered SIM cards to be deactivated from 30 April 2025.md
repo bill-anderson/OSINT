@@ -13,6 +13,7 @@ places: [BEN]
 topics: [dpi.id, gov.protect, infra.cybersec]
 entities: [[arcep-benin]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- ARCEP Benin (extraordinary Council session, reported Feb 2025) decided unregistered SIM cards would be deactivated from 30 April 2025 (registration deadline 30 March 2025); operators to send daily SMS notifications. Rationale: protect subscribers against fraud/scams/cybercrime by identifying each user, better regulate telecoms, secure mobile-financial-services transactions. The piece flags that SIM registration REQUIRES a strict personal-data-protection framework to avoid leaks/misuse (cites Mauritius cancelling its registration over such issues, and false-identity registration risk). Ties SIM-ID to the digital-ID + data-protection nexus. Feeds [[benin--dpi-id]] / gov.protect. -->

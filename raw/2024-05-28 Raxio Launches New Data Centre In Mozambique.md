@@ -12,6 +12,7 @@ places: [MOZ]
 topics: [infra.store, infra.connect]
 entities: [[raxio-group]]
 lens: []
+body_completeness: full
 ---
 
 CIO Africa coverage of Raxio Mozambique (Raxio MZ1), the country's first Tier III Uptime-certified data centre, located in Beluluane Industrial Park (MozParks) near Maputo. It is described as foundational for Mozambique's growing digital economy and the government's digital-transformation agenda.

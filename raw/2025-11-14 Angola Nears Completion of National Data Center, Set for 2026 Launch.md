@@ -13,6 +13,7 @@ places: [AGO]
 topics: [infra.store, dpi.govtech, gov.policy]
 entities: [[infosi], [ima-angola]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Angola's sovereign national data centre (Luanda, hosted by INFOSI) ~75% complete as of Nov 2025, to be operational H1 2026; modular design of 12 containers × 28 racks = 336 racks. Part of a ~$90m plan alongside a unified government cloud; all government services must migrate within 30 days of inauguration. Context: Angola ranks 156/193 on the 2024 UN EGDI (0.4149). The broader Angola Digital Acceleration Program (PADA), $300m World Bank, had faced delays partly due to low internet access. DataReportal: 17.2m internet users early 2023, 44.8% penetration. NB: this is the same national DC later inaugurated end-Apr 2026 (see AGO hub, 2026-06-15 ANGOTIC) — the $89–90m figure recurs. Minister: Mário Oliveira; INFOSI DG: André Pedro. -->

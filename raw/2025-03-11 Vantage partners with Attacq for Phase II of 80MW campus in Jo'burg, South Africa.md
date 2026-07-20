@@ -3,6 +3,8 @@ type: source
 title: Vantage partners with Attacq for Phase II of 80MW campus in Jo'burg, South Africa
 url: https://www.datacenterdynamics.com/en/news/vantage-partners-with-attacq-for-phase-ii-of-80mw-campus-in-joburg-south-africa
 publisher: Data Center Dynamics
+lens: []
+body_completeness: full
 author: Niva Yadav
 published: 2025-03-11
 date_precision: day

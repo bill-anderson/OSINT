@@ -2,6 +2,8 @@
 type: source
 title: "Sub-Saharan Africa's data centre landscape: who owns the infrastructure (v2)"
 publisher: Data Landscapers
+date_precision: day
+date_source: source
 author: [[bill]]
 url: https://data-landscapers.com/lab/2026/06/10/africa-data-centres-v2/
 published: 2026-06-10
@@ -11,6 +13,7 @@ places: [XAF, XSS, ZAF, NGA, KEN, AGO]
 topics: [infra.store, infra.capacity, infra.connect, tech.industry, finance.new]
 entities: [[bill], [data-landscapers], [cassava-technologies], [equinix]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Published Data Landscapers /lab DATASET (data-centre ownership register). 306 DCs / 46

@@ -3,6 +3,8 @@ type: source
 title: "Safaricom Ethiopia partners National ID Program to expand digital identity registration"
 publisher: Tech Review Africa
 url: https://techreviewafrica.com/news/6190/safaricom-ethiopia-partners-national-id-program-to-expand-digital-identity-registration
+date_precision: day
+date_source: source
 author: Nana Appiah Acquaye
 published: 2026-07-06
 accessed: 2026-07-10
@@ -11,6 +13,7 @@ places: [ETH]
 topics: [dpi.id, finance.mou, include.divides, dpi.pay]
 entities: [[safaricom-ethiopia-fayda-jv], [safaricom], [fayda-ethiopia-national-id]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- On-the-record reporting of a Joint Venture Agreement. Admissible. ETH primary.

@@ -6,10 +6,12 @@ publisher: We Are Tech Africa
 published: 2025-02-14
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [COD]
 topics: [dpi.id, dpi.govtech, gov.protect, include.access, include.divides, capacity.literacy, infra.connect]
 entities: [[rdc-pass], [trident-digital-tech], [drc-digital-code]]
 lens: [sovereignty]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: COD-2026-07-17
 ---

@@ -9,7 +9,9 @@ date_source: source
 ingested: 2026-07-15
 places: [EGY]
 topics: [dpi.registry, include.access]
+entities: []
 lens: [colonialism]
+body_completeness: full
 ---
 
 # Securing Land Tenure in Egypt — Who Needs Registered Titles? (Sims)

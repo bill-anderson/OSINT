@@ -3,6 +3,7 @@ type: source
 title: "Transformation numérique dans l’espace UEMOA : l’avenir de l’IA, des fintechs et de la finance inclusive en réflexions"
 url: https://www.sidwaya.info/transformation-numerique-dans-lespace-uemoa-lavenir-de-lia-des-fintechs-et-de-la-finance-inclusive-en-reflexions/
 publisher: Sidwaya
+ingested: 2026-07-18
 author: Oumarou Rabo
 published: 2026-07-14
 date_precision: day
@@ -13,6 +14,7 @@ places: [BFA, XWA]
 topics: [tech.ai, dpi.pay, gov.regional, gov.policy, tech.industry, include.access, finance.new]
 entities: [[sipen-uemoa], [uemoa], [bceao], [aminata-zerbo-sabane], [rimtalba-jean-emmanuel-ouedraogo], [ministere-transition-digitale-burkina-faso]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Transformation numérique dans l’espace UEMOA : l’avenir de l’IA, des fintechs et de la finance inclusive en réflexions

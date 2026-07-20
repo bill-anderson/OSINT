@@ -6,6 +6,7 @@ publisher: Vanguard
 published: 2026-05-06
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [NGA]
 topics: [infra.cybersec, infra.store]
 entities: [[ndpc]]

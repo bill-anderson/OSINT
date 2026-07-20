@@ -1,6 +1,7 @@
 ---
 type: intersection
 title: Burundi × Digital Identity
+status: active
 place: BDI
 topic: dpi.id
 places: [BDI]

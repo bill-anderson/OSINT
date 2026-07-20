@@ -3,6 +3,7 @@ type: source
 title: "DNSSEC et RPKI : L'ANTIC muscle la défense du cyberespace camerounais"
 url: https://leconomie.info/dnssec-et-rpki-lantic-muscle-la-defense-du-cyberespace-camerounais/
 publisher: Le quotidien L'Economie
+ingested: 2026-07-18
 author: Francois Gael Mbala
 published: 2025-12-09
 date_precision: day
@@ -13,6 +14,7 @@ places: [CMR]
 topics: [infra.cybersec, gov.standards]
 entities: [[antic-cameroon], [icann], [afrinic], [orange-cameroun]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # DNSSEC et RPKI : L'ANTIC muscle la défense du cyberespace camerounais

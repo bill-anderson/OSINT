@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: organisation
 title: Zimbabwe Stock Exchange (ZSE)
 places: [ZWE]

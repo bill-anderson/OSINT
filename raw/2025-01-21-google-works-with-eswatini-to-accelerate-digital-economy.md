@@ -6,6 +6,7 @@ publisher: ITWeb Africa
 published: 2025-01-21
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [SWZ]
 topics: [geopol.usa, finance.mou, capacity.training, dpi.govtech]
 entities: [[google], [ministry-of-ict-eswatini], [google-eswatini-mou], [government-in-your-hand]]

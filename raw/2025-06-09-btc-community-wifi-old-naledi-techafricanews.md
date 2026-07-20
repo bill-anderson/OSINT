@@ -3,6 +3,9 @@ type: source
 title: Botswana Launches Community Wi-Fi in Old Naledi, Boosting Digital Inclusion
 url: https://techafricanews.com/2025/06/09/botswana-launches-community-wi-fi-in-old-naledi-boosting-digital-inclusion/
 publisher: TechAfrica News
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Joyce Onyeagoro
 published: 2025-06-09
 date_precision: day

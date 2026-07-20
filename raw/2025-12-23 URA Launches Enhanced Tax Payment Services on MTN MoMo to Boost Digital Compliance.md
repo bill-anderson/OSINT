@@ -3,6 +3,8 @@ type: source
 title: URA Launches Enhanced Tax Payment Services on MTN MoMo to Boost Digital Compliance
 url: https://softpower.ug/ura-launches-enhanced-tax-payment-services-on-mtn-momo-to-boost-digital-compliance
 publisher: SoftPower News
+lens: []
+body_completeness: full
 author: Rogers Atukunda
 published: 2025-12-23
 date_precision: day

@@ -11,6 +11,7 @@ places: [SEN]
 topics: [infra.store, infra.connect, finance.new]
 entities: [[paix-data-centres]]
 lens: []
+body_completeness: full
 ---
 
 # PAIX Data Centres breaks ground on Dakar data center

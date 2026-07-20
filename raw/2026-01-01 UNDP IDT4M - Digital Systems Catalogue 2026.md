@@ -13,6 +13,7 @@ places: [MWI]
 topics: [dpi.govtech, dpi.id, dpi.exchange]
 entities: [[idt4m], [undp]]
 lens: []
+body_completeness: full
 ---
 
 Catalogue (marked 2026; exact date not stated - month proxy) of the digital systems supported by the UNDP Inclusive Digital Transformation for Malawi (IDT4M) project, which helps the Government of Malawi design, develop and scale digital public goods for governance, accountability and service delivery. It presents a curated portfolio of systems actively used across national and sub-national institutions, following a needs-based, use-case-driven approach to reduce duplication and improve adoption.

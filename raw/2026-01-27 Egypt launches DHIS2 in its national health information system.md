@@ -11,6 +11,7 @@ places: [EGY]
 topics: [dpi.mis, dpi.exchange, gov.protect]
 entities: [[dhis2]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Egypt launches DHIS2 in its national health information system

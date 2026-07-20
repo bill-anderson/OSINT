@@ -3,6 +3,8 @@ type: source
 title: "Namibian schools, clinics to get free internet"
 publisher: ITWeb Africa
 url: https://itweb.africa/article/namibian-schools-clinics-to-get-free-internet/PmxVEMKEdwzvQY85
+date_precision: day
+date_source: source
 author: Alfred Shilongo
 published: 2026-01-27
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [NAM]
 topics: [infra.connect, include.access, digital.rural]
 entities: [[emma-theofelus]]
 lens: []
+body_completeness: excerpt
 ---
 
 <!-- Namibian schools and clinics under towers built in the last two years to get free internet for 7 years; N$80m (~$4.98m) over two years in nine RAN towers for underserved areas (Minister Emma Theofelus). -->

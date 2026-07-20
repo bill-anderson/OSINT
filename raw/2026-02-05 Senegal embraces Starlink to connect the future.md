@@ -3,6 +3,8 @@ type: source
 title: "Senegal embraces Starlink to connect the future"
 publisher: ITWeb Africa
 url: https://itweb.africa/article/senegal-embraces-starlink-to-connect-the-future/KPNG8v8N5zxM4mwD
+date_precision: day
+date_source: source
 author: Emeka Okonkwo
 published: 2026-02-05
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [SEN]
 topics: [infra.connect, digital.rural, include.divides, data.satellite]
 entities: [[starlink]]
 lens: []
+body_completeness: excerpt
 ---
 
 <!-- Starlink went live in Senegal (announced by Musk on X, ~4 Feb 2026) — its 26th African deployment. Article lists 25 other African countries already served (BEN BWA BDI CPV TCD COG SWZ GHA GNB KEN LSO LBR MDG MWI MUS MOZ NER NGA RWA STP SLE SOM SSD ZMB ZWE) — useful coverage snapshot. -->

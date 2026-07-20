@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: deal
 title: Microsoft South Africa R5.4bn cloud & AI expansion (announced 2025-03-06)
 places: [ZAF]

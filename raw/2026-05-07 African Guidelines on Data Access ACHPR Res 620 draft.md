@@ -12,6 +12,7 @@ places: [XAF]
 topics: [gov.legislate, gov.policy, gov.regional, gov.standards, gov.protect, data.open, data.statistics, dpi.exchange, tech.ai]
 entities: [[african-commission], [african-guidelines-data-access], [malabo-convention], [au-data-policy-framework]]
 lens: [sovereignty, colonialism]
+body_completeness: full
 ---
 
 # African Guidelines on Data Access (draft, ACHPR Res.620)

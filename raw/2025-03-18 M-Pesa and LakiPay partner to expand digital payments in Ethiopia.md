@@ -11,6 +11,7 @@ places: [ETH]
 topics: [dpi.pay, include.access]
 entities: [[safaricom-ethiopia], [safaricom]]
 lens: []
+body_completeness: full
 ---
 
 # M-Pesa and LakiPay partner to expand digital payments in Ethiopia

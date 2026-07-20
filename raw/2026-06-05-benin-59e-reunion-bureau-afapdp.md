@@ -3,6 +3,9 @@ type: source
 title: "Participation du Bénin à la 59e réunion du Bureau de l'Afapdp: L'axe de la coopération internationale renforcé"
 url: https://lanation.bj/societe/participation-du-benin-a-la-59e-reunion-du-bureau-de-lafapdp-laxe-de-la-cooperation-internationale-renforce
 publisher: La Nation
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Christian HOUNONGBE
 published: 2026-06-05
 date_precision: day

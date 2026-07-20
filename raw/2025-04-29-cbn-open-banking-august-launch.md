@@ -6,6 +6,7 @@ publisher: TechCabal
 published: 2025-04-29
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [NGA]
 topics: [dpi.pay, gov.policy, dpi.exchange]
 entities: [[central-bank-of-nigeria]]

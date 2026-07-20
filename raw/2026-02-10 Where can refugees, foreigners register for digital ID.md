@@ -1,9 +1,13 @@
 ---
 type: source
+date_precision: day
+date_source: source
 places: [RWA]
 topics: [dpi.id, include.access]
 entities: [[nida-rwanda]]
 ingested: 2026-07-16
+lens: []
+body_completeness: full
 page: 
 title: Where can refugees, foreigners register for digital ID?
 author: cfeditoren

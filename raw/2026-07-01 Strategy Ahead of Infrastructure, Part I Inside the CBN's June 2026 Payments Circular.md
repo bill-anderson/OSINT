@@ -3,14 +3,17 @@ type: source
 title: "Strategy Ahead of Infrastructure, Part I: Inside the CBN's June 2026 Payments Circular"
 publisher: Anjola Adebowale (Substack)
 url: https://anjolaadebowale.substack.com/p/strategy-ahead-of-infrastructure-8ef
+date_source: source
 author: Anjola Adebowale
 published: 2026-07-01
+date_precision: month
 accessed: 2026-07-12
 ingested: 2026-07-12
 places: [NGA, KEN, ZAF, XGL]
 topics: [gov.legislate, infra.store, dpi.pay, gov.protect, infra.energy, geopol.usa]
 entities: [[anjola-adebowale], [cbn-payments-circular-2026], [cbn], [microsoft-g42-kenya-datacenter], [g42], [microsoft], [william-ruto], [africa-data-centres], [amazon-web-services]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- External expert analysis. Close reading of the CBN's 15 June 2026 payments circular PSS/DIR/PUB/CIR/001/004 (signed Dr. Rakiya Yusuf): four-pillar strategy (market-structure caps, data localisation, UBO disclosure, systemic oversight) strategically sound but the 1 Jan 2027 data-localisation deadline outruns Nigeria's data-centre and grid capacity. Same circular as Part II → both cite one shared [[cbn-payments-circular-2026]] instrument. anjola-adebowale created by Writer D. Kenya Olkaria/G42 suspension (May 2026) attaches to [[microsoft-g42-kenya-datacenter]] as update evidence. Attach: cbn; gov.legislate/infra.store/dpi.pay/gov.protect/infra.energy/geopol.usa concepts; NGA/KEN/ZAF hubs. -->

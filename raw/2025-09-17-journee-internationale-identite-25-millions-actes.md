@@ -3,6 +3,7 @@ type: source
 title: "Journée internationale de l'identité : plus de 2,5 millions d'actes sécurisés délivrés au Bénin"
 url: https://fraternite.bj/journee-internationale-de-lidentite-plus-de-25-millions-dactes-securises-delivres-au-benin/
 publisher: Fraternité
+ingested: 2026-07-18
 author: Isac YAI
 published: 2025-09-17
 date_precision: day
@@ -13,6 +14,7 @@ places: [BEN]
 topics: [dpi.id, dpi.registry, gov.policy, include.access]
 entities: [[anip-benin], [wuri], [world-bank], [unicef], [id4africa]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Journée internationale de l'identité : plus de 2,5 millions d'actes sécurisés délivrés au Bénin

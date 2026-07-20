@@ -13,6 +13,7 @@ places: [COG]
 topics: [infra.store, infra.connect]
 entities: [[arpce-congo]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- DCD (Mar 2024): President Denis Sassou N'Guesso activated Congo's connection to the 2Africa subsea cable (28 Feb 2024, Pointe-Noire) and commissioned a new data centre built by the telecom regulator ARPCE. ARPCE DG Louis-Marc Sakala: the state's SECOND data centre (after Brazzaville 2021), for "storage and security of sovereign data." Cost CFA3.8bn ($6.3m), ~2yr build, up to 54 racks / 156 sqm. 2Africa landing near the existing WACS station. 2Africa (45,000km, world's longest subsea cable; Meta/Telecom Egypt/China Mobile/MTN GlobalConnect/Orange/STC/Vodafone/WIOCC) will link 33 countries. Distinct from the Brazzaville National DC (CAB, $72.8m). -->

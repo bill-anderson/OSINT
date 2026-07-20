@@ -7,6 +7,7 @@ topics: [tech.ai, gov.policy, gov.standards, gov.protect, data.open]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-11
+sources: []
 ---
 
 # Global Index on Responsible AI (GIRAI)

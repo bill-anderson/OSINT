@@ -3,6 +3,9 @@ type: source
 title: "Finance numérique et inclusion: Plus de 248 millions de comptes « MoMo » dans l’Uemoa"
 url: https://www.lanation.bj/economie/finance-numerique-et-inclusion-plus-de-248-millions-de-comptes-momo-dans-luemoa
 publisher: La Nation
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Babylas ATINKPAHOUN
 published: 2026-03-17
 date_precision: day

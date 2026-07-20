@@ -4,12 +4,15 @@ title: "After Access qualitative study on gender and digital technologies: Ugand
 publisher: Research ICT Africa
 url: https://researchictafrica.net/research/after-access-qualitative-study-on-gender-and-digital-technologies-uganda-report/
 published: 2026-02-05
+date_precision: day
+date_source: source
 accessed: 2026-07-12
 ingested: 2026-07-12
 places: [UGA]
 topics: [include.divides, include.access, capacity.literacy, dpi.pay, gov.policy]
 entities: [[after-access], [research-ict-africa]]
 lens: []
+body_completeness: full
 ---
 <!-- Uganda country report of the After Access qualitative gender study: mobile phones increasingly embedded in women's lives (mobile money, WhatsApp) but basic/feature phones remain primary access for many women (as of 2026-02-05). Attach: [[after-access]] + [[research-ict-africa]]. -->
 

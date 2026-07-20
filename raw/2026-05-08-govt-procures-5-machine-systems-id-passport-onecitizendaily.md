@@ -3,6 +3,7 @@ type: source
 title: Government procures 5 advanced machine systems for national ID and passport production
 url: https://www.onecitizendaily.com/index.php/2026/05/08/government-procures-5-advanced-machine-systems-for-national-id-and-passport-production/
 publisher: One Citizen Daily
+ingested: 2026-07-19
 author: One Citizen Daily Newspaper
 published: 2026-05-08
 date_precision: day

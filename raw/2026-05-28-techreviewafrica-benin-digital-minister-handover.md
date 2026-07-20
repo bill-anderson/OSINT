@@ -3,6 +3,9 @@ type: source
 title: Benin's Digital Minister completes handover, highlights progress in national digital transformation agenda
 url: https://techreviewafrica.com/news/5646/benins-digital-minister-completes-handover-highlights-progress-in-national-digital-transformation-agenda
 publisher: Tech Review Africa
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Nana Appiah Acquaye
 published: 2026-05-28
 date_precision: day

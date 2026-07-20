@@ -13,6 +13,7 @@ places: [KEN]
 topics: [dpi.id, include.access]
 entities: [[maisha-namba]]
 lens: []
+body_completeness: full
 ---
 
 <!-- ID registrations in Kakamega County jumped after scrapping first-time application fees. Interior CS Kipchumba Murkomen: more people enrolling for Maisha Namba after terminating the KES 300 ($2.30) fee; also scrapped the KES 500 vetting fee for birth certificates when applying for ID/passport. President Ruto signed the gazette notice scrapping first-time-ID fees March 2025. Kakamega: live-capture pilot; 40 ID centres across 14 sub-counties. Maisha Namba approved/launched 2023. -->

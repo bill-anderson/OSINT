@@ -11,6 +11,7 @@ places: [EGY]
 topics: [dpi.id, dpi.pay, include.access, gov.protect]
 entities: [[haweya], [central-bank-of-egypt]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Egypt's CBE launches Haweya national digital financial ID (eKYC)

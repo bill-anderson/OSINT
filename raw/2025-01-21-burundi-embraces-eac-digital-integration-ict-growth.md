@@ -3,6 +3,9 @@ type: source
 title: Burundi Embraces EAC Digital Integration for ICT Growth
 url: https://www.burunditimes.com/burundi-embraces-eac-digital-integration-for-ict-growth/
 publisher: Burundi Times
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Burundi Times
 published: 2025-01-21
 date_precision: day

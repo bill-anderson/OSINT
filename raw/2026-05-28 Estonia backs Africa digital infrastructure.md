@@ -3,6 +3,8 @@ type: source
 title: "Estonia backs Africa digital infrastructure"
 publisher: ITWeb Africa
 url: https://itweb.africa/article/estonia-backs-africa-digital-infrastructure/raYAyqor9ydMJ38N
+date_precision: day
+date_source: source
 author: Samuel Olomu
 published: 2026-05-28
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [XAF]
 topics: [dpi.exchange, infra.cybersec, gov.standards, capacity.training, geopol.eu, finance.mou]
 entities: [[estdev], [smart-africa], [estdev-smart-africa-mou]]
 lens: [sovereignty]
+body_completeness: excerpt
 ---
 
 <!-- ESTDEV-Smart Africa MoU (Brussels) on interoperable/reusable DPI across 42 member states; reduce vendor lock-in; capacity-building. MoU = deal. -->

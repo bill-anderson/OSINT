@@ -6,6 +6,7 @@ publisher: ITWeb Africa
 published: 2026-04-16
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [MWI]
 topics: [dpi.pay, gov.policy, infra.cybersec, gov.regional]
 entities: [[reserve-bank-of-malawi]]

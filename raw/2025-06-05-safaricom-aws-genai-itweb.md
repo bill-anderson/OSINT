@@ -6,6 +6,7 @@ publisher: ITWeb Africa
 published: 2025-06-05
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [KEN]
 topics: [tech.ai, infra.store, geopol.usa]
 entities: [[safaricom], [aws]]

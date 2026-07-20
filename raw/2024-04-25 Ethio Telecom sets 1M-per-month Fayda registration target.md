@@ -11,6 +11,7 @@ places: [ETH]
 topics: [dpi.id, include.access]
 entities: [[fayda-ethiopia-national-id], [ethio-telecom]]
 lens: []
+body_completeness: full
 ---
 
 # Ethio Telecom sets 1M-per-month Fayda registration target

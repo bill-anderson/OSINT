@@ -3,6 +3,8 @@ type: source
 title: "Margins takes Ghana's ID success to The Gambia"
 publisher: Modern Ghana
 url: https://www.modernghana.com/news/1465102/margins-takes-ghanas-id-success-to-the-gambia.html
+date_precision: day
+date_source: source
 author: Modern Ghana
 published: 2026-01-20
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [GHA, GMB]
 topics: [dpi.id, finance.new, tech.industry]
 entities: [[margins-id-group], [gambia-national-id-contract], [ghana-card]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Margins ID Group won a DBFOT contract to build The Gambia's National ID + Integrated Digital ID system — the first African-owned firm to export a full national ID system (tender opened Jul 2024; 11 bidders, Margins selected). Ghana's system: 19.2m registered, 262 institutions. The Gambia's third national-ID attempt. -->

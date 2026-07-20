@@ -13,6 +13,7 @@ places: [GNB]
 topics: [dpi.id, dpi.registry, dpi.exchange]
 entities: [[sirec], [enbic], [undp], [ecowas]]
 lens: []
+body_completeness: full
 ---
 
 <!-- (ID4Africa 2025 AGM.) GNB digitizing civil registration via SIREC (Integrated System of Citizen Registers and Statistics), per Raul Gomes (Head of Civil Registration Office, Ministry of Justice). Birth registration <50% (~46% of under-5s). SIREC began ~3 months prior; UNDP trained civil-registry officers on enrollment kits/platform. Exploring integration with health + education; training health technicians for facility birth registration. Support: UNICEF, UNDP, Univ of Aveiro (Portugal). GNB already has a functional biometric national ID card, modernizing under a UNDP "Building National ID" project (Swiss-funded). One of six ECOWAS nations to have fully operationalized the ENBIC biometric ID card for cross-border movement/trade. Challenges: funding, connectivity. -->

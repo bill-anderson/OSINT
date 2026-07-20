@@ -3,6 +3,7 @@ type: source
 title: Policy Reforms Could Unlock FCFA 870 Billion and 144,000 Jobs in Republic of Congo by 2030, New GSMA Report Finds
 url: https://techafricanews.com/2026/06/22/gsma-report-policy-reforms-could-unlock-fcfa-870-billion-and-144000-jobs-in-republic-of-congo-by-2030/
 publisher: TechAfrica News
+ingested: 2026-07-18
 author: Editorial Team
 published: 2026-06-22
 date_precision: day
@@ -11,6 +12,7 @@ places: [COG]
 topics: [infra.connect, dpi.pay, gov.policy, include.divides, gov.legislate, infra.cybersec, capacity.literacy, finance.new]
 entities: [[gsma], [congo-digital-strategy-2030]]
 lens: []
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: COG-2026-07-17
 ---

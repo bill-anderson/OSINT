@@ -3,6 +3,8 @@ type: source
 title: "AUC Signs Partnership With Google to Advance Africa's AI & Digital Capacity"
 publisher: CIO Africa
 url: https://cioafrica.co/auc-signs-partnership-with-google-to-advance-africas-ai-digital-capacity/
+date_precision: day
+date_source: source
 author: Kevin Namunwa
 published: 2026-02-20
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [XAF]
 topics: [gov.policy, gov.regional, tech.ai, capacity.training, infra.store, geopol.usa]
 entities: [[au-google-mou], [google], [african-union], [apolitical]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- AU Commission (Commissioner Lerato Mataboge) signed an MoU with Google (17 Feb 2026, Addis Ababa) on AI/cloud infra, skills, R&D, AI policy — anchored in the AU Continental AI Strategy; Google commits to train 3m students/teachers by 2030 + free Gemini Pro + Amharic support; AI-readiness training for officials via Apolitical. Deal [[au-google-mou]]. (See the critical 'Gatekeepers XII' analysis re: CLOUD Act exposure.) -->

@@ -6,6 +6,7 @@ publisher: Business Day
 published: 2025-07-21
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [ZAF]
 topics: [dpi.pay, gov.legislate]
 entities: [[sarb]]

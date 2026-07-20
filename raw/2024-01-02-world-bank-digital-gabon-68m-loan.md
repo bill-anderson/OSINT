@@ -10,6 +10,8 @@ ingested: 2026-07-15
 places: [GAB]
 topics: [dpi.id, dpi.exchange, gov.protect, infra.cybersec, include.access, finance.new]
 entities: [[world-bank], [digital-gabon-project]]
+lens: []
+body_completeness: full
 ---
 
 LIBREVILLE, 2 January 2024 — The Government of Gabon and the World Bank signed a $68.5 million loan for the **Digital Gabon Project** to accelerate adoption of digitalized public services and increase the number of persons with a unique ID facilitating inclusive access to public services. Signed by Mays Mouissi (Gabon Minister of Economy and Participations) and Cheick Kante (World Bank Country Director for Gabon).

@@ -6,10 +6,12 @@ publisher: Expresso das Ilhas
 published: 2025-05-17
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [CPV]
 topics: [tech.ai, include.divides, capacity.training]
 entities: [[helio-varela]]
 lens: [sovereignty]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: CPV-2026-07-17
 ---

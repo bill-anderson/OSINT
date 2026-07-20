@@ -3,6 +3,9 @@ type: source
 title: "Recensement 2026 : Le Cameroun déploie des outils numériques et satellitaires pour la collecte des données"
 url: https://leconomie.info/recensement-2026-le-cameroun-deploie-des-outils-numeriques-et-satellitaires-pour-la-collecte-des-donnees/
 publisher: Le quotidien L'Economie
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Landry TYAGA
 published: 2026-03-11
 date_precision: day

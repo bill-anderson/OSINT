@@ -13,6 +13,7 @@ places: [GMB]
 topics: [dpi.mis, data.statistics, capacity.training]
 entities: [[dhis2]]
 lens: []
+body_completeness: full
 ---
 
 <!-- The Gambia's Ministry of Basic and Secondary Education (MoBSE) is shifting from aggregate data to dynamic dashboards + individual learner tracking using DHIS2 for Education (DHIS2-Ed). Real-time enrolment/attendance/performance/equity; School Report Cards for principals/parents. Partnerships: Global Partnership for Education (GPE), University of Oslo HISP, GPE KIX. Takeaways: start with simple wins; move from aggregate to individual records; make data transparent. Positions The Gambia as a model for learner-focused EMIS in Africa. -->

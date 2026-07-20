@@ -6,6 +6,7 @@ publisher: NewZimbabwe.com
 published: 2026-04-07
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [ZWE]
 topics: [dpi.registry, dpi.govtech, gov.legislate]
 entities: [[digital-land-administration-platform], [zimbabwe-deeds-registry], [ministry-of-justice-zimbabwe]]

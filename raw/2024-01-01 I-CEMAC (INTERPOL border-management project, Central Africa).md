@@ -13,6 +13,7 @@ places: [XCA, GNQ, GAB, CMR, TCD, COG, CAF]
 topics: [dpi.exchange, infra.cybersec, gov.regional]
 entities: [[i-cemac], [ecowas]]
 lens: []
+body_completeness: full
 ---
 
 <!-- INTERPOL I-CEMAC project (2019-2024, €4.9m, funded by CEMAC). Strengthens border security across the 6 CEMAC states (Cameroon, Chad, Congo, Gabon, Equatorial Guinea, CAR) by extending INTERPOL's I-24/7 network + databases to 40 border points + 6 NCBs. Screen passengers/travel documents; improve interoperability among national systems; strengthen NCB infrastructure. Updates: Gabon 4 border posts done (Mar 2024); Equatorial Guinea assessment (Feb 2023, Malabo NCB) + I-24/7 to 10 sites incl. Malabo/Bata/Mongomeyen airports + Kiosi/Mongomo/Dimbala; Cameroon (Douala/Yaoundé, 6,000+ searches in 72h). -->

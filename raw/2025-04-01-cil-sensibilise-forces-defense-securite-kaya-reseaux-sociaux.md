@@ -3,6 +3,9 @@ type: source
 title: "Protection des données à caractère personnel: bien utiliser les réseaux sociaux dans la reconquête du territoire"
 url: https://www.sidwaya.info/protection-des-donnees-a-caractere-personnel-bien-utiliser-les-reseaux-sociaux-dans-la-reconquete-du-territoire/
 publisher: Sidwaya
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Emil Abdoul Razak SEGDA
 published: 2025-04-01
 date_precision: day

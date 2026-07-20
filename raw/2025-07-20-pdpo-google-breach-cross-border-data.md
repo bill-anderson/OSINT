@@ -6,6 +6,7 @@ publisher: New Vision
 published: 2025-07-20
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [UGA]
 topics: [gov.protect, gov.legislate]
 entities: [[personal-data-protection-office-uganda], [google]]

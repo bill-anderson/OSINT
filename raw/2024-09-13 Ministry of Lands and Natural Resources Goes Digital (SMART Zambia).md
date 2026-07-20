@@ -10,6 +10,8 @@ ingested: 2026-07-17
 places: [ZMB]
 topics: [dpi.registry, dpi.govtech, dpi.pay, digital.localgov]
 entities: [[zilas], [smart-zambia-institute], [ministry-of-lands-zambia]]
+lens: []
+body_completeness: full
 ---
 
 *Dated by an in-body dateline ('Lusaka, 13th September 2024') — not a proxy. Reports an event (a four-day ZILAS exhibition at Cosmopolitan Mall, 10-13 Sept 2024, 250+ clients served); a Zamportal account is now a prerequisite to pay ground rent. Government self-description — attribute. Zambia's land-administration digitisation was entirely absent from the wiki before this batch.*

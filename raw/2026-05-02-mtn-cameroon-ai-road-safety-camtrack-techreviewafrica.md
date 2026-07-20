@@ -3,6 +3,7 @@ type: source
 title: MTN Cameroon showcases AI-driven road safety solution at National Forum
 url: https://techreviewafrica.com/news/5251
 publisher: Tech Review Africa
+ingested: 2026-07-18
 author: Nana Appiah Acquaye
 published: 2026-05-02
 date_precision: day
@@ -11,6 +12,7 @@ places: [CMR]
 topics: [tech.ai, tech.industry, tech.innovate, gov.protect, dpi.mis, data.statistics]
 entities: [[mtn-cameroon], [camtrack]]
 lens: []
+body_completeness: full
 provenance_flag: pr-wire
 provenance_note: >
   Tech Review Africa is a PR-wire outlet; this reads as MTN announcement copy — it

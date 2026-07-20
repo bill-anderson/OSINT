@@ -3,6 +3,9 @@ type: source
 title: Burkina Faso Moves Closer to Universal Digital Access with Telecel Faso Deployment
 url: https://techafricanews.com/2025/12/11/burkina-faso-moves-closer-to-universal-digital-access-with-telecel-faso-deployment/
 publisher: TechAfrica News
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Editorial Team
 published: 2025-12-11
 date_precision: day

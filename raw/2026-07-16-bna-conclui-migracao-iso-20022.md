@@ -3,6 +3,8 @@ type: source
 title: BNA conclui migração para padrão internacional ISO 20022
 url: https://angop.ao/noticias/economia/bna-conclui-migracao-para-padrao-internacional-iso-20022/
 publisher: Angop
+lens: []
+body_completeness: full
 author: ACC/CS
 published: 2026-07-16
 date_precision: day

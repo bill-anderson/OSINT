@@ -6,6 +6,7 @@ publisher: Namibian Sun
 published: 2025-08-17
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [NAM]
 topics: [gov.protect, gov.legislate, gov.policy]
 entities: [[emma-theofelus]]

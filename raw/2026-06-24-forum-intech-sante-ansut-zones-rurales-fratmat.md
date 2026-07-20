@@ -6,12 +6,14 @@ publisher: Fraternité Matin
 published: 2026-06-24
 date_precision: day
 date_source: proxy
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [digital.rural, dpi.mis, include.access, infra.connect]
 entities: [[ansut], [rnhd], [honore-aka]]
 lens: []
+body_completeness: full
 ---
 
 # Forum INTECH Santé 2026: L’ANSUT présente sa feuille de route pour connecter les zones rurales et moderniser l’accès aux soins

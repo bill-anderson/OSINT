@@ -3,6 +3,7 @@ type: source
 title: "Balance des paiements 2026 : la collecte des données lancée"
 url: https://www.adiac-congo.com/content/balance-des-paiements-2026-la-collecte-des-donnees-lancee-169853
 publisher: Les Dépêches de Brazzaville (ADIAC)
+ingested: 2026-07-18
 author: Firmin Oyé
 published: 2026-04-22
 date_precision: day
@@ -13,6 +14,7 @@ places: [COG, XCA]
 topics: [data.statistics, gov.standards, gov.regional]
 entities: [[beac]]
 lens: []
+body_completeness: full
 provenance_flag: state-aligned-outlet
 ---
 

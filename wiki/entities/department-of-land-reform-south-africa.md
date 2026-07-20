@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: government-body
 title: Department of Land Reform and Rural Development (South Africa)
 places: [ZAF]

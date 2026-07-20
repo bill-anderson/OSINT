@@ -6,6 +6,7 @@ publisher: Mondaq
 published: 2026-06-16
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [ZAF]
 topics: [gov.protect, gov.legislate]
 entities: [[information-regulator-south-africa], [sibanye-stillwater]]

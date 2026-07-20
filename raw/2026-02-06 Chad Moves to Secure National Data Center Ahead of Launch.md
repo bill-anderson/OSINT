@@ -12,6 +12,7 @@ places: [TCD]
 topics: [infra.cybersec, infra.store, dpi.govtech, gov.standards, dpi.exchange]
 entities: [[adetic], [ansice], [techso-group], [chad-national-data-centre], [adetic-ansice-techso-audit-agreement], [tchad-connexion-2030]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 *Same 2026-02-05 signing as the TechAfrica News account; complementary, not a duplicate — that page adds the third signatory, the ADETIC DG quote and the phase-1-complete detail, this one adds the Tchad Connexion 2030 / EGDI / GCI framing.*

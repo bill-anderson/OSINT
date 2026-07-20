@@ -6,10 +6,12 @@ publisher: TechAfrica News
 published: 2026-07-17
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [MDG]
 topics: [dpi.pay, finance.mou, include.access]
 entities: [[airtel-madagascar], [baobab-bank]]
 lens: []
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: MDG-2026-07-17
 ---

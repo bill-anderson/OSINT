@@ -12,6 +12,7 @@ places: [SSD]
 topics: [dpi.id, include.access]
 entities: [[dcrnpi-south-sudan], [unhcr], [european-union]]
 lens: []
+body_completeness: full
 ---
 
 # Over 17,400 South Sudanese Receive National Identity Cards Thanks to UNHCR and the European Union

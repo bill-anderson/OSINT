@@ -6,12 +6,14 @@ publisher: The Fintech Times
 published: 2026-03-29
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: GNQ-2026-07-17
 places: [GNQ]
 topics: [dpi.pay]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 Dated reference/analysis (named analyst, Richie Santosdiaz) profiling Equatorial Guinea's fintech ecosystem in 2026 — the only Spanish-speaking African state, oil-driven, exploring digital finance. Baseline figures to cite (not absorb as current state): the ecosystem remains **small — an estimated fewer than 5–10 fintech / digital-financial-service providers**, concentrated in mobile payments, remittances and basic DFS, and dominated by traditional banks and telecom operators. CEMAC-wide **financial inclusion is ~32%**, so most of the population operates outside the formal banking system (heavy cash reliance).

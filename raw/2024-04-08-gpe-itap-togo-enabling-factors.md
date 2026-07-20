@@ -10,6 +10,7 @@ ingested: 2026-07-20
 places: [TGO]
 topics: [dpi.mis, data.statistics, gov.policy, include.access, include.divides]
 entities: [[global-partnership-for-education], [gpe-itap], [mepsta-togo], [stateduc], [pse-togo-2020-2030], [resen-togo-2019], [pasec], [confemen], [synecat], [mics-eagle], [data-must-speak], [unicef], [world-bank], [afd], [european-union], [giz], [kfw], [unesco], [african-development-bank], [islamic-development-bank], [oif], [dvv-international], [handicap-international], [plan-international], [action-aid-togo], [unfpa], [togo-2025-roadmap], [sdg4]]
+lens: []
 body_completeness: excerpt
 ---
 

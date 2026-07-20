@@ -3,6 +3,7 @@ type: source
 title: Botswana taps Huawei for AI, rural connectivity
 url: https://itweb.africa/article/botswana-taps-huawei-for-ai-rural-connectivity/GxwQDq1DOk9MlPVo
 publisher: ITWeb Africa
+ingested: 2026-07-18
 author: Mthulisi Sibanda
 published: 2026-05-08
 date_precision: day
@@ -13,6 +14,7 @@ places: [BWA]
 topics: [geopol.china, tech.ai, infra.connect, digital.rural, dpi.govtech]
 entities: [[huawei], [ministry-of-communications-and-innovation-botswana], [village-connectivity-project]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Botswana taps Huawei for AI, rural connectivity

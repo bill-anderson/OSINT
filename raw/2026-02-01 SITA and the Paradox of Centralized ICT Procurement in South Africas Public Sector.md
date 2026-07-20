@@ -12,6 +12,7 @@ places: [ZAF]
 topics: [dpi.govtech, gov.policy, infra.capacity, gov.standards]
 entities: [[sita]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # SITA and the Paradox of Centralized ICT Procurement (South Africa)

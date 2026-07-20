@@ -3,6 +3,9 @@ type: source
 title: Botswana advances robust digital ecosystems
 url: https://itweb.africa/article/botswana-advances-robust-digital-ecosystems/rxP3jMBEb527A2ye
 publisher: ITWeb Africa
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Staff Writer
 published: 2026-05-25
 date_precision: day

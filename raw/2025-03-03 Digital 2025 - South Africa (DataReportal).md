@@ -10,6 +10,8 @@ ingested: 2026-07-17
 places: [ZAF]
 topics: [infra.connect, include.access, include.divides, data.statistics]
 entities: [[datareportal]]
+lens: []
+body_completeness: full
 ---
 
 *Cite, don't absorb. Worth a framing note rather than a contradiction: the held hub says 4G reaches 98% of the population, while this says 21.1% of people remained OFFLINE at the start of 2025. Coverage is not use — the two are compatible, but the 98% figure must not be allowed to imply near-universal access when a fifth of the population is offline.*

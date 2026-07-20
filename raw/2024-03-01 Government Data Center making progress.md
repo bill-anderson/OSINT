@@ -12,6 +12,7 @@ places: [MWI]
 topics: [infra.store, dpi.govtech]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 The Malawi Government, through the Public Private Partnership Commission (PPPC) in partnership with the Department of e-Government (Ministry of Information and Digitalization) under the Digital Malawi Project (DIGMAP), is constructing a Government Data Centre in Lilongwe with World Bank funding, complementing the existing data centre in Blantyre. Lilongwe will serve as the Primary Data Centre and Blantyre as the Secondary/Backup.

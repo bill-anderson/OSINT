@@ -3,6 +3,7 @@ type: source
 title: Congo sets 2-month deadline for SIM registration
 url: https://www.connectingafrica.com/regulation/congo-sets-2-month-deadline-for-sim-registration
 publisher: Connecting Africa
+ingested: 2026-07-18
 author: Matshepo Sehloho
 published: 2025-10-23
 date_precision: day
@@ -11,6 +12,7 @@ places: [COG]
 topics: [gov.legislate, dpi.id, infra.connect, gov.standards]
 entities: [[arpce-congo], [airtel-congo]]
 lens: []
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: COG-2026-07-17
 ---

@@ -6,12 +6,14 @@ publisher: TechAfrica News
 published: 2026-03-19
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [gov.policy, finance.new, infra.connect, infra.cybersec, include.divides, tech.innovate]
 entities: [[ministry-of-digital-transition-and-digitalisation-cote-divoire], [djibril-ouattara]]
 lens: []
+body_completeness: full
 ---
 
 # Côte d'Ivoire Unveils 83.275bn FCFA Digital Budget with 37% Increase for 2026

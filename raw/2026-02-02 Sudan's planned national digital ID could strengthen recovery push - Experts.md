@@ -12,6 +12,7 @@ places: [SDN]
 topics: [dpi.id, dpi.govtech, include.access, gov.policy]
 entities: [[sudapass], [ministry-digital-transformation-sudan], [sudanese-cybersecurity-authority], [world-bank]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Sudan's planned national digital ID could strengthen recovery push: Experts

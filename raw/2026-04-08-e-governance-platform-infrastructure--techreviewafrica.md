@@ -6,6 +6,7 @@ publisher: Tech Review Africa
 published: 2026-04-08
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 provenance_flag: pr-wire
@@ -13,6 +14,7 @@ places: [DZA]
 topics: [dpi.govtech, infra.store, dpi.exchange, capacity.training]
 entities: [[united-nations-development-programme], [dzair-services]]
 lens: []
+body_completeness: full
 ---
 
 **Primary source to obtain at ingest:** the UN Resident Coordinator's / UNDP Algeria statement on the engagement with the High Commissioner for Digitalisation, and any Algerian High Commission for Digitalisation release on the Dzair Services platform launch.

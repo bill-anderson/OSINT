@@ -13,6 +13,7 @@ places: [BEN]
 topics: [infra.connect]
 entities: [[mtn-benin], [mtn-group]]
 lens: []
+body_completeness: full
 ---
 
 <!-- MTN Benin launched the country's FIRST commercial 5G network (Nov 2024), live initially in Cotonou and Abomey-Calavi — beating rivals Moov Africa Benin and Celtiis (both said to be trialing). MD Uche Ofodile framed 5G as a catalyst for innovation/growth (gaming, streaming, IoT). Vendor partners not disclosed. Marks Benin's connectivity front-runner. Feeds the BEN connectivity story. -->

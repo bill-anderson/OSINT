@@ -13,6 +13,7 @@ places: [CIV]
 topics: [dpi.govtech, dpi.id]
 entities: [[oneci]]
 lens: []
+body_completeness: full
 ---
 
 <!-- TrendsnAfrica (Feb 2025): Côte d'Ivoire launched the e-Justice platform (30 Jan 2025) to simplify access to judicial services — initially letting citizens of Yopougon and Dabou submit nationality-certificate applications online (linked to ONECI/CEV/VERIF identity verification). Early e-government/justice digitalisation, precursor to the June 2025 digital-nationality-certificate decree. -->

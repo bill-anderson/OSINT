@@ -6,12 +6,14 @@ publisher: Mediaguinee
 published: 2025-04-25
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: GIN-2026-07-17
 places: [GIN]
 topics: [dpi.id, dpi.registry, dpi.govtech]
 entities: [[matd-guinea], [pn-ravec]]
 lens: []
+body_completeness: full
 ---
 
 # Recensement administratif à vocation d'état civil (PN-RAVEC) : le MATD met à disposition le numéro 105, ouvert 24/24, 7/7

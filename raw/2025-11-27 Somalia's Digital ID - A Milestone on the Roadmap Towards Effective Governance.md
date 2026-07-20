@@ -12,6 +12,7 @@ places: [SOM]
 topics: [dpi.id, dpi.registry]
 entities: [[nira-somalia], [snid], [eaqoonsi]]
 lens: []
+body_completeness: full
 ---
 
 # Somalia's Digital ID — A Milestone on the Roadmap Towards Effective Governance and Service Delivery

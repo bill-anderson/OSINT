@@ -3,6 +3,8 @@ type: source
 title: "Behind the speedy MyMzansi screens and the Presidency’s race to build a digital government"
 publisher: Daily Maverick
 url: "https://www.dailymaverick.co.za/article/2025-11-09-behind-the-speedy-mymzansi-screens-and-the-presidencys-race-to-build-a-digital-government/"
+date_precision: day
+date_source: source
 author: Kara Le Roux
 published: 2025-11-09
 accessed: 2026-07-12
@@ -11,6 +13,7 @@ places: [ZAF]
 topics: [dpi.govtech, dpi.id, dpi.pay, dpi.exchange, gov.policy]
 entities: [[digital-services-unit-presidency-sa], [mymzansi], [amazon-web-services], [home-affairs-south-africa], [google], [world-bank], [operation-vulindlela], [sa-digital-transformation-roadmap]]
 lens: [sovereignty]
+body_completeness: full
 ---
 <!-- Foundational MyMzansi build profile (as of 2025-11-09): prototype built in 10 weeks by the Presidency's Digital Services Unit (DSU, led by Richard Gevers, ex-Open Cities Lab); AWS (Pete Herlihy) + Silverstripe key partners; modular open-DPG stack (Silverstripe, GOV.UK Pay, GOV.UK Notify, verifiable credentials via NG by Credisure); functional digital ID, driver's licence, payments, verifiable wallet with Bluetooth offline validation; demoed at Global DPI Summit, Cape Town; first public rollout planned H1 2026 (later slipped — see [14]); >200 public servants; 2030 roadmap under the Presidency's IMC on Digital Transformation. Deepens the mymzansi entity + south-africa--dpi-id. -->
 

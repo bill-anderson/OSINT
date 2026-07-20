@@ -3,6 +3,8 @@ type: source
 title: Teraco Unveils 8th Data Centre, JB5, Strengthening Africa's Digital Infrastructure
 url: https://techafricanews.com/2025/06/03/teraco-unveils-8th-data-centre-jb5-strengthening-africas-digital-infrastructure
 publisher: TechAfrica News
+lens: []
+body_completeness: full
 author: Kay-Lyne Wolfenden
 published: 2025-06-03
 date_precision: day

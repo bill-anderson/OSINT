@@ -3,6 +3,9 @@ type: source
 title: "Face aux attaques du numérique : L'ASIN offre un outil d'analyse des risques aux acteurs de protection"
 url: https://fraternite.bj/face-aux-attaques-du-numerique-lasin-offre-un-outil-danalyse-des-risques-aux-acteurs-de-protection/
 publisher: Fraternité
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Isac YAI
 published: 2025-07-10
 date_precision: day

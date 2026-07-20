@@ -3,6 +3,8 @@ type: source
 title: "Seychelles to Host AfCFTA Digital Trade Corridor Headquarters"
 publisher: The Seychelles Times
 url: "https://theseychellestimes.com/2026/07/10/seychelles-afcfta-digital-trade-corridor-headquarters/"
+date_precision: day
+date_source: source
 author: Chief Creator
 published: 2026-07-10
 accessed: 2026-07-12
@@ -11,6 +13,7 @@ places: [SYC, XAF]
 topics: [gov.regional, dpi.exchange, finance.mou]
 entities: [[afcfta], [afcfta-digital-trade-protocol], [wamkele-mene], [afcfta-digital-trade-corridor], [quest-ghana], [seychelles-afcfta-mou]]
 lens: [sovereignty]
+body_completeness: full
 ---
 <!-- Seychelles Cabinet approved (2026-07-08) hosting the AfCFTA Digital Trade Corridor HQ in Victoria — operational seat for continental digital commerce alongside (not replacing) the Accra Secretariat. Built on the AfCFTA Digital Trade Protocol (ministers approved Feb 2024; 8 annexes open). Precursor MoU signed 2026-03-05 (AfCFTA Secretariat + Quest Ghana Ltd + Govt of Seychelles) during Wamkele Mene visit. Follows AfCFTA Digital Trade Forum 2026 (Lagos, 2026-07-02). Attach: [[afcfta-digital-trade-corridor]], [[quest-ghana]], [[seychelles-afcfta-mou]], afcfta, afcfta-digital-trade-protocol, SYC/XAF hubs. -->
 

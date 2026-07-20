@@ -3,6 +3,8 @@ type: source
 title: Performance Audit Report on Registration and Issuance of National Identification Cards to all Eligible Citizens
 url: https://www.nao.go.tz/
 publisher: National Audit Office of Tanzania (Controller and Auditor General)
+lens: []
+body_completeness: full
 author: Charles E. Kichere, CAG
 published: 2021-03-01
 date_precision: month

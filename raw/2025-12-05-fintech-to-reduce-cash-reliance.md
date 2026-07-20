@@ -6,6 +6,7 @@ publisher: Times of Eswatini
 published: 2025-12-05
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [SWZ]
 topics: [dpi.pay, gov.policy, finance.new]
 entities: [[central-bank-of-eswatini], [ministry-of-finance-eswatini], [fsra-eswatini], [national-fintech-strategy-eswatini]]

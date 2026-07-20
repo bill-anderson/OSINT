@@ -12,6 +12,7 @@ places: [XAF, XSS]
 topics: [dpi.id, gov.protect, include.divides]
 entities: [[biometric-digital-id-in-africa]]
 lens: [colonialism]
+body_completeness: full
 artefact: "2025-12-01 Biometric_Digital_ID_in_Africa.pdf"
 ---
 

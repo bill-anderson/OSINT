@@ -12,6 +12,7 @@ places: [LBR]
 topics: [gov.policy, infra.cybersec, dpi.govtech, infra.connect]
 entities: [[digital-liberia-strategy], [lta-liberia]]
 lens: [sovereignty]
+body_completeness: full
 artefact: "2026-02-03 Liberia-National-Digital-Strategy.pdf"
 ---
 

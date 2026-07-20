@@ -6,6 +6,7 @@ publisher: Sidwaya
 published: 2025-11-18
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: BFA-2026-07-17
 places: [BFA]

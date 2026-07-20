@@ -3,6 +3,8 @@ type: source
 title: "Martin Tisné: le non-alignement à l'ère de l'IA"
 publisher: Le Grand Continent
 url: https://legrandcontinent.eu/fr/2026/02/16/le-non-alignement-a-lere-de-lia/
+date_precision: day
+date_source: source
 author: Martin Tisné
 published: 2026-02-16
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [XGL]
 topics: [tech.ai, gov.policy, data.open]
 entities: [[martin-tisne], [anthropic], [openai]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Signed essay (Martin Tisné): argues for an AI 'non-aligned movement' of middle powers around open, resilient AI stacks (published as India's AI Impact Summit opens). Only the US and China can have fully sovereign stacks; names France/Germany/Nigeria/India/Morocco as middle powers. Cites Current AI, ROOST, Carney's 'alliance of middle powers'. Africa examples illustrative. -->

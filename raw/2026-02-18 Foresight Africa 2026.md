@@ -12,6 +12,7 @@ places: [XAF, XSS, GAB, KEN, RWA, NGA]
 topics: [tech.ai, dpi.pay, infra.store, data.open, gov.protect, include.divides]
 entities: [[brookings]]
 lens: [sovereignty, colonialism]
+body_completeness: full
 ---
 
 # Foresight Africa 2026

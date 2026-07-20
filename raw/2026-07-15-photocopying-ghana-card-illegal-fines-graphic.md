@@ -6,12 +6,14 @@ publisher: Graphic Online
 published: 2026-07-15
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: GHA-2026-07-17
 places: [GHA]
 topics: [dpi.id, gov.legislate]
 entities: [[national-identification-authority-ghana], [ghana-card]]
 lens: []
+body_completeness: full
 ---
 # Photocopying Ghana Card now illegal, offenders face fines up to GH¢24,000
 

@@ -12,6 +12,7 @@ places: [SOM]
 topics: [gov.protect, gov.legislate]
 entities: [[somalia-data-protection-authority], [somali-data-protection-act]]
 lens: []
+body_completeness: full
 ---
 
 # Somalia — inauguration of the Data Protection Authority

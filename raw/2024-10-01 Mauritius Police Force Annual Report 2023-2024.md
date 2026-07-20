@@ -13,6 +13,7 @@ places: [MUS]
 topics: [infra.cybersec, data.statistics]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 Annual report of the Mauritius Police Force covering 2023-2024, reporting on force activities, performance and crime statistics, including any cybercrime and IT-security dimensions of policing. Low relevance to the wiki's data-governance / digital-transformation scope — filed as a reference artefact for occasional cybercrime-statistics or institutional context; not a source of dated digital-transformation figures.

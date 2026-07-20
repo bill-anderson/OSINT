@@ -6,12 +6,14 @@ publisher: TechAfrica News
 published: 2025-07-21
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [infra.store, dpi.govtech, capacity.training, geopol.usa, tech.innovate]
 entities: [[cybastion], [digital-city-cote-divoire]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Côte d'Ivoire's Digital Sovereignty Takes Shape with New Data Center

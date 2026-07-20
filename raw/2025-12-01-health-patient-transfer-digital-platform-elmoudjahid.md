@@ -1,6 +1,7 @@
 ---
 type: source
 title: "Santé : une plateforme numérique dédiée aux opérations de transfert des patients bientôt opérationnelle"
+ingested: 2026-07-18
 title_en: Health Minister Aït Messaoudene announces (Council of the Nation) a forthcoming digital platform to manage inter-hospital patient transfers, with priority handling for the South and Highlands
 url: https://www.elmoudjahid.dz/fr/actualite/sante-une-plateforme-numerique-dediee-aux-operations-de-transfert-des-patients-bientot-operationnelle-244821
 publisher: El Moudjahid
@@ -15,6 +16,7 @@ places: [DZA]
 topics: [dpi.mis, dpi.govtech, include.access]
 entities: [[ministere-de-la-sante, mohamed-seddik-ait-messaoudene]]
 lens: []
+body_completeness: full
 provenance_flag: state-media
 ---
 

@@ -13,6 +13,7 @@ places: [MOZ]
 topics: [infra.store, infra.connect]
 entities: [[vodacom]]
 lens: []
+body_completeness: full
 ---
 
 Vodacom launched a data centre in Maputo, Mozambique. Located in Tchumene, Matola, construction of the $25 million facility began in October 2023; it is said to be the country's largest. The carrier-neutral data centre offers direct access to the 2Africa subsea cable, hosted in Vodacom Mozambique's equipment room in Matola.

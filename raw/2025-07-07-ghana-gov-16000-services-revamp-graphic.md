@@ -6,12 +6,14 @@ publisher: Graphic Online
 published: 2025-07-07
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: GHA-2026-07-17
 places: [GHA]
 topics: [dpi.govtech, dpi.exchange]
 entities: [[samuel-nartey-george], [nita-ghana]]
 lens: []
+body_completeness: full
 ---
 # Govt to put 16,000 services online in major Ghana.gov revamp
 

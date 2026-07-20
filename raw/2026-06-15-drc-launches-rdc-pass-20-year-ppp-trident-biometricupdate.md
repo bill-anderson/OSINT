@@ -6,10 +6,12 @@ publisher: Biometric Update
 published: 2026-06-15
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [COD]
 topics: [dpi.id, dpi.govtech, gov.protect, infra.store, finance.new]
 entities: [[rdc-pass], [trident-digital-tech], [felix-tshisekedi], [drc-national-digital-plan-pnn2]]
 lens: [sovereignty]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: COD-2026-07-17
 ---

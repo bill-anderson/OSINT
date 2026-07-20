@@ -13,6 +13,7 @@ places: [GMB]
 topics: [gov.protect, gov.legislate]
 entities: [[gambia-data-protection-act-2025]]
 lens: []
+body_completeness: full
 ---
 
 <!-- The Gambia's National Assembly passed the Personal Data Protection and Privacy Bill 2025 (Third Ordinary Session) — the country's first comprehensive personal-data-protection framework, establishing an independent oversight Commission. Info Minister Dr Ismaila Ceesay: "major milestone." Product of collaboration among government, the NA ICT & Education Committee, civil society and development partners. Aligns The Gambia with international best practice. -->

@@ -3,6 +3,9 @@ type: source
 title: Burundi digital payments see growth but cash still dominates
 url: https://www.burunditimes.com/burundi-digital-payments-see-growth-but-cash-still-dominates/
 publisher: Burundi Times
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Burundi Times
 published: 2025-09-29
 date_precision: day

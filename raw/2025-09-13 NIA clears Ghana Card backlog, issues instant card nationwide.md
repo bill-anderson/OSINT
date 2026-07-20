@@ -13,6 +13,7 @@ places: [GHA]
 topics: [dpi.id]
 entities: [[national-identification-authority-ghana], [ghana-card]]
 lens: []
+body_completeness: full
 ---
 
 <!-- NIA cleared the Mar-2023–Jan-2025 card backlog (blank-card shortage); instant issuance nationwide (register today, card today). Head of Corporate Affairs Williams Ampomah E. Darlas (Daily Graphic, 11 Sept 2025). 292 operational registration centres. As of Sept 2025: 18,950,942 enrolled; 18,848,635 printed; 17,747,459 issued. 95 institutions integrated with the NIA platform for real-time authentication; smaller institutions to be onboarded via a mobile app under development. -->

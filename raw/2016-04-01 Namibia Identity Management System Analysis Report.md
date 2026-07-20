@@ -13,6 +13,7 @@ places: [NAM]
 topics: [dpi.id, dpi.registry]
 entities: [[world-bank]]
 lens: []
+body_completeness: full
 ---
 
 World Bank analysis report on Namibia's identity management system, examining the architecture, business processes and technology of the country's civil registration and national identity infrastructure (the National Population Registration System) and options for its modernisation.

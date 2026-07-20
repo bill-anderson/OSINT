@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: government-body
 title: Ghana Health Service (GHS)
 places: [GHA]

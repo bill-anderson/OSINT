@@ -6,6 +6,7 @@ publisher: Malawi24
 published: 2026-07-17
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [MWI]
 topics: [infra.connect, include.access, gov.protect]
 entities: [[macra-malawi]]

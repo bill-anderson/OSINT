@@ -13,6 +13,7 @@ places: [GNQ]
 topics: [gov.policy, dpi.govtech, tech.industry]
 entities: [[world-bank], [adige]]
 lens: []
+body_completeness: full
 ---
 
 <!-- World Bank's first-ever Country Economic Memorandum on Equatorial Guinea (Malabo, 4 Mar 2025). Argues for a new growth model as oil declines (oil/gas ~80% of revenues). Digital-relevant: weak business climate, land-titling issues, inadequate digitalization of public services. Recommends: improve the one-stop shop, enable online registration, digitize the Commercial Registry. Situates reforms in AGENDA 2035 (National Sustainable Development Strategy 2021-2035) + Economic Diversification Initiative; benchmarks vs CEMAC. New Social Protection Law (universal coverage) drafted, not yet approved. -->

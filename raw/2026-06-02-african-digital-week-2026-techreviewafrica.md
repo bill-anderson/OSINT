@@ -6,12 +6,14 @@ publisher: Tech Review Africa
 published: 2026-06-02
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [gov.policy, tech.innovate, capacity.training]
 entities: [[ministry-of-digital-transition-cote-divoire], [djibril-ouattara], [african-digital-week]]
 lens: []
+body_completeness: full
 provenance_flag: pr-wire
 primary_to_source: The national digital transformation roadmap (seven pillars, 40 priority projects); Ministry communiqué on the minister's African Digital Week 2026 opening address
 ---

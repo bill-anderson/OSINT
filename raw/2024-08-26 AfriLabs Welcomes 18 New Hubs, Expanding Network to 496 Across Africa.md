@@ -13,6 +13,7 @@ places: [XAF]
 topics: [tech.innovate, capacity.training]
 entities: [[afrilabs]]
 lens: []
+body_completeness: full
 ---
 
 <!-- AfriLabs added 18 new hubs → 496 hubs across 261 cities in 53 African nations. Notable: SU LaunchLab (Stellenbosch, first in the city); ScaleUp Namibia; OceanHub Africa; Graca Machel Trust Women Creating Wealth; DigiArtLivingLab (Tunisia); Egypt (PTS Investments, Aria Ventures); Mswitch (Abuja); East Africa — Africa Tech Space (Nakuru), Owl Innovation Labs (Nairobi), RLabs Tanzania (Iringa), AfriFORTIFIED HUB (Kisumu); Central Africa — Ovation + KIVUTECH (Kinshasa/Bukavu DRC), Revival Innovation Hub (Cameroon), DIAMBILAY (Lubumbashi). Mayssa Mrabet (AfriLabs director of community). -->

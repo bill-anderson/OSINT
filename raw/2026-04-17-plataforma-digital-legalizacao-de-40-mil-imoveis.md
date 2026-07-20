@@ -3,6 +3,8 @@ type: source
 title: Executivo promete legalizar 40 mil imóveis até ao final de 2026
 url: https://novojornal.co.ao/politica/detalhe/executivo-promete-legalizar-40-mil-imoveis-ate-ao-final-de-2026-71209.html
 publisher: Novo Jornal
+lens: []
+body_completeness: full
 author: Nova Vaga
 published: 2026-04-17
 date_precision: day

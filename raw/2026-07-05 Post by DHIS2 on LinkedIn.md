@@ -3,6 +3,8 @@ type: source
 title: "DHIS2: Nigeria officially launches DHIS2-based national education system (DNEMIS)"
 publisher: DHIS2 (official LinkedIn)
 url: https://www.linkedin.com/posts/dhis-2_dhis2-dnemis-emis-ugcPost-7478150988491632641-yEtA/
+date_precision: day
+date_source: source
 author: DHIS2
 published: 2026-07-05
 accessed: 2026-07-12
@@ -11,6 +13,7 @@ places: [NGA]
 topics: [dpi.mis, dpi.govtech]
 entities: [[dnemis-nigeria], [federal-ministry-education-nigeria], [dhis2], [hisp-centre], [european-union]]
 lens: [sovereignty]
+body_completeness: full
 ---
 <!-- Nigeria's Federal Ministry of Education launched DNEMIS, a DHIS2-based national education MIS, in Abuja (~2026-07-05) — now the world's largest DHIS2 implementation. Partners: HISP Centre (Univ. of Oslo), HISP Nigeria, UNICEF Nigeria, EU. Min. Maruf Tunji Alausa framed it as data sovereignty (data domiciled in Nigeria). Attach: NGA hub, dhis2, hisp-centre, dnemis-nigeria (new), federal-ministry-education-nigeria (new). -->
 📢 TODAY: Nigeria officially launches DHIS2-based national education system.

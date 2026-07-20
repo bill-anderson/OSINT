@@ -3,6 +3,9 @@ type: source
 title: BTC reduces data prices following regulator approval
 url: https://www.mmegi.bw/business/btc-reduces-data-prices-following-regulator-approval/news
 publisher: Mmegi
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Staff Writer
 published: 2026-02-18
 date_precision: day

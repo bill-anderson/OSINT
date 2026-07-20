@@ -6,12 +6,14 @@ publisher: TechAfrica News
 published: 2026-03-04
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 places: [DZA]
 topics: [infra.connect, include.access]
 entities: [[djezzy]]
 lens: []
+body_completeness: full
 ---
 
 # Djezzy Launches Nationwide 5G Network, Offering High-Speed Connectivity Across 18 Algerian States

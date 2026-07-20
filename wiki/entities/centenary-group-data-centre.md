@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: initiative
 title: Centenary Group Data Centre (Masaka)
 places: [UGA]

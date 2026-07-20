@@ -6,6 +6,7 @@ publisher: IOL
 published: 2026-07-17
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [ZAF]
 topics: [dpi.id, dpi.registry, include.access]
 entities: [[home-affairs-south-africa]]

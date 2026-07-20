@@ -3,6 +3,7 @@ type: source
 title: "A New Era of Connectivity: Starlink Officially Enters the Central African Republic"
 url: https://techafricanews.com/2025/12/22/a-new-era-of-connectivity-starlink-officially-enters-the-central-african-republic/
 publisher: TechAfrica News
+ingested: 2026-07-18
 author: Jennifer Onyeagoro
 published: 2025-12-22
 date_precision: day
@@ -11,6 +12,7 @@ places: [CAF]
 topics: [infra.connect, include.access, include.divides, digital.rural, geopol.usa, finance.mou]
 entities: [[spacex]]
 lens: [sovereignty]
+body_completeness: full
 provenance_flag: pr-wire
 retrieved: 2026-07-17
 sweep_batch: CAF-2026-07-17

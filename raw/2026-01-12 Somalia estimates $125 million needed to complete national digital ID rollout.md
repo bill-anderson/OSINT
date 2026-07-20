@@ -12,6 +12,7 @@ places: [SOM]
 topics: [dpi.id, finance.new]
 entities: [[nira-somalia], [snid]]
 lens: []
+body_completeness: full
 ---
 
 # Somalia estimates $125 million needed to complete national digital ID rollout

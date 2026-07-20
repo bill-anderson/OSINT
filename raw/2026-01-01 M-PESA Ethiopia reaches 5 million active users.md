@@ -11,6 +11,7 @@ places: [ETH]
 topics: [dpi.pay, include.access]
 entities: [[safaricom-ethiopia], [safaricom]]
 lens: []
+body_completeness: full
 ---
 
 # M-PESA Ethiopia reaches 5 million active users

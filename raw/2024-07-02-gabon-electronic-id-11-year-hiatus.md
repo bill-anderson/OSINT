@@ -12,6 +12,7 @@ places: [GAB]
 topics: [dpi.id, gov.regional]
 entities: [[thales], [digital-gabon-project], [world-bank]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 Gabon has launched its National Electronic Identity Card (CNIE) after an 11-year hiatus since its last ID card issuance. Citizens can now apply for the national digital ID card, issued initially only in Libreville with plans to expand to all police stations nationwide.

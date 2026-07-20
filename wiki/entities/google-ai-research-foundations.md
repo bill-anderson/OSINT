@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: initiative
 title: Google AI Research Foundations
 places: [XAF, XSS, NGA]

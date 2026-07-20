@@ -9,6 +9,8 @@ date_source: source
 places: [SDN]
 topics: [dpi.govtech, dpi.id, dpi.registry, include.access, gov.policy]
 entities: [[ministry-digital-transformation-sudan], [ministry-human-resources-social-welfare-sudan], [unified-social-registry-sudan]]
+lens: []
+body_completeness: full
 retrieved: 2026-07-17
 ingested: 2026-07-18
 sweep_batch: SDN-2026-07-17

@@ -13,6 +13,7 @@ places: [AGO]
 topics: [dpi.mis, geopol.china, finance.mou, tech.ai, capacity.training, include.access]
 entities: [[huawei], [ministerio-da-saude-angola], [silvia-lutucuta], [qian-lei]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Angola e Huawei assinam memorando para reforço da saúde digital

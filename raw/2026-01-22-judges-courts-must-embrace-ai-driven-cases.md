@@ -3,6 +3,9 @@ type: source
 title: Judges, Courts must embrace AI-driven cases - CJ
 url: https://www.mmegi.bw/news/judges-courts-must-embrace-ai-driven-cases-cj/news
 publisher: Mmegi
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Sharon Mathala
 published: 2026-01-22
 date_precision: day

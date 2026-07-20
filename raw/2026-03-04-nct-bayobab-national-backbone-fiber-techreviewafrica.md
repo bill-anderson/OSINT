@@ -3,6 +3,7 @@ type: source
 title: NCT South Sudan and Bayobab collaborate to roll out national backbone fiber network project
 url: https://techreviewafrica.com/news/4204/nct-south-sudan-and-bayobab-collaborate-to-roll-out-national-backbone-fiber-network-project
 publisher: Tech Review Africa
+ingested: 2026-07-19
 author: Nana Appiah Acquaye
 published: 2026-03-04
 date_precision: day

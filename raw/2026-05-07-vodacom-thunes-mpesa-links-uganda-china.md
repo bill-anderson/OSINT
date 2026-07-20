@@ -6,6 +6,7 @@ publisher: Connecting Africa
 published: 2026-05-07
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [UGA, XEA]
 topics: [dpi.pay]
 entities: [[thunes]]

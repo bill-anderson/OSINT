@@ -3,6 +3,8 @@ type: source
 title: Gabon — Strengthening school-data collection a priority for the Education Ministry
 url: https://pointnoirtv.com/2025/03/11/gabon-renforcement-de-la-collecte-des-donnees-scolaires-une-priorite-pour-le-ministere-de-leducation-nationale
 publisher: PointNoirTV
+lens: []
+body_completeness: full
 author: Wilfried Bourobou
 published: 2025-03-11
 date_precision: day

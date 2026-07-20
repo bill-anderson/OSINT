@@ -3,6 +3,8 @@ type: source
 title: "Malawi reaps digital tax gains"
 publisher: ITWeb Africa
 url: https://itweb.africa/article/malawi-reaps-digital-tax-gains/
+date_precision: day
+date_source: source
 author: Benson Kunchezera
 published: 2026-06-03
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [MWI]
 topics: [dpi.govtech, dpi.mis, data.statistics, gov.policy]
 entities: [[malawi-revenue-authority]]
 lens: []
+body_completeness: excerpt
 ---
 
 <!-- Malawi Revenue Authority's Electronic Invoicing System now >$1.2m/day; May collections >~$28m; ~7,500 of ~9,000 registered VAT operators migrated. Digital-tax-as-infrastructure; blackouts/connectivity the constraints. -->

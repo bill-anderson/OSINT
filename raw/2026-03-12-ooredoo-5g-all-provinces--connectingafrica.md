@@ -6,12 +6,14 @@ publisher: Connecting Africa
 published: 2026-03-12
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 places: [DZA]
 topics: [infra.connect, include.access]
 entities: [[ooredoo-algeria], [djezzy], [algerie-telecom], [arpce], [roni-tohme]]
 lens: []
+body_completeness: full
 ---
 
 # Ooredoo expands 5G network to all Algerian provinces

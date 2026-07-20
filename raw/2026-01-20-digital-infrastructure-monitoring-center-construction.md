@@ -3,6 +3,7 @@ type: source
 title: Burkina Faso Kicks Off Construction of Digital Infrastructure Monitoring Center
 url: https://techafricanews.com/2026/01/20/burkina-faso-kicks-off-construction-of-digital-infrastructure-monitoring-center/
 publisher: TechAfrica News
+ingested: 2026-07-18
 author: Editorial Team
 published: 2026-01-20
 date_precision: day
@@ -13,6 +14,7 @@ places: [BFA]
 topics: [infra.store, infra.cybersec, infra.connect]
 entities: [[ministry-of-digital-transition-burkina-faso], [aminata-zerbo-sabane], [cristal-sarl]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Burkina Faso Kicks Off Construction of Digital Infrastructure Monitoring Center

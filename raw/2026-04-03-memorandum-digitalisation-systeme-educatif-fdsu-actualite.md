@@ -6,6 +6,7 @@ publisher: ACTUALITE.CD
 published: 2026-04-03
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: COD-2026-07-17
 places: [COD]

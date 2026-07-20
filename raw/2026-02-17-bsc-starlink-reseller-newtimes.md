@@ -3,6 +3,8 @@ type: source
 title: BSC's Starlink authorisation enhances internet reliability in Rwanda
 url: https://www.newtimes.co.rw/article/33378/news/featured/bscs-starlink-authorisation-enhances-internet-reliability-in-rwanda
 publisher: The New Times
+ingested: 2026-07-19
+lens: []
 author: Frank Ntarindwa
 published: 2026-02-17
 date_precision: day

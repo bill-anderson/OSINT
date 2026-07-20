@@ -3,6 +3,9 @@ type: source
 title: Digital Divide persists as East Africa expands regional tech integration
 url: https://www.burunditimes.com/digital-divide-persists-as-east-africa-expands-regional-tech-integration/
 publisher: Burundi Times
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Moses Havyarimana
 published: 2026-05-07
 date_precision: day

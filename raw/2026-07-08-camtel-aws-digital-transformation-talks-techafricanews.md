@@ -3,6 +3,7 @@ type: source
 title: CAMTEL Explores Digital Transformation Partnership with Amazon Web Services
 url: https://techafricanews.com/2026/07/08/camtel-explores-digital-transformation-partnership-with-amazon-web-services/
 publisher: TechAfrica News
+ingested: 2026-07-18
 author: Kay-Lyne Wolfenden
 published: 2026-07-08
 date_precision: day
@@ -11,6 +12,7 @@ places: [CMR]
 topics: [infra.store, geopol.usa, tech.ai, infra.connect, finance.mou, tech.industry]
 entities: [[camtel], [amazon-web-services]]
 lens: [sovereignty]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: CMR-2026-07-17
 ---

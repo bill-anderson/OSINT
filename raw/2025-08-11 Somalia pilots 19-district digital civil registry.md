@@ -12,6 +12,7 @@ places: [SOM]
 topics: [dpi.registry, dpi.id, include.access]
 entities: [[somalia-crvs], [somalia-moifar]]
 lens: []
+body_completeness: full
 ---
 
 # Somalia pilots 19-district digital civil registry, lays groundwork for nationwide legal identity

@@ -3,6 +3,8 @@ type: source
 title: Angola Cables, Uniti expand connectivity
 url: https://itweb.africa/article/angola-cables-uniti-expand-connectivity/LPwQ5MlbngBvNgkj
 publisher: ITWeb Africa
+lens: []
+body_completeness: full
 author: Staff Writer
 published: 2026-05-21
 date_precision: day

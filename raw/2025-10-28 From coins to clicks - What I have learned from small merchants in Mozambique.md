@@ -12,6 +12,7 @@ places: [MOZ]
 topics: [dpi.pay, include.access]
 entities: [[world-bank]]
 lens: []
+body_completeness: full
 ---
 
 A World Bank blog on digital payments among small merchants in Mozambique, drawing on a recent World Bank study of over 2,000 merchants across five provinces. Key finding: 22% of merchants surveyed still don't accept digital payments; many use personal e-wallets rather than business ones, because personal accounts are easier to set up while business accounts seem complicated or expensive.

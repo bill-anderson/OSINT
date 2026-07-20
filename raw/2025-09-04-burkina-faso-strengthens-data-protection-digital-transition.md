@@ -3,6 +3,7 @@ type: source
 title: Burkina Faso Strengthens Data Protection in Digital Transition Drive
 url: https://techafricanews.com/2025/09/04/burkina-faso-strengthens-data-protection-in-digital-transition-drive/
 publisher: TechAfrica News
+ingested: 2026-07-18
 author: Editorial Team
 published: 2025-09-04
 date_precision: day
@@ -13,6 +14,7 @@ places: [BFA]
 topics: [gov.protect, gov.policy, dpi.govtech, tech.ai]
 entities: [[ministry-of-digital-transition-burkina-faso], [cil-burkina-faso], [aminata-zerbo-sabane], [halguieta-nassa-trawina]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Burkina Faso Strengthens Data Protection in Digital Transition Drive

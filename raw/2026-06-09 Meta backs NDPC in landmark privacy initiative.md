@@ -4,11 +4,14 @@ title: Meta backs NDPC in landmark privacy initiative
 url: https://itweb.africa/article/meta-backs-ndpc-in-landmark-privacy-initiative/lwrKxq3Y2W27mg1o
 publisher: ITWeb Africa
 published: 2026-06-09
+date_precision: day
+date_source: source
 ingested: 2026-07-10
 places: [NGA]
 topics: [gov.protect, gov.legislate, geopol.usa]
 entities: [[ndpc], [meta], [ndpc-meta-settlement]]
 lens: [sovereignty]
+body_completeness: excerpt
 ---
 ![The National Commissioner and CEO of the NDPC, Dr. Vincent Olatunji.](https://lh3.googleusercontent.com/x-5FtNlv0KhFhZYIo78HYU1K1qDt32Nt0I86QB9OzXVI-SEoU2IHFqebPL2-sRJmniEFF-i3pTQ1tRv9zXKDVRMYzT41qu_GOFLxBA)
 

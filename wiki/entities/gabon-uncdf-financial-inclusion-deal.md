@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: deal
 title: Gabon–UNCDF Financial Inclusion Partnership
 places: [GAB]

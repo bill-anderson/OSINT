@@ -6,12 +6,14 @@ publisher: ACTUALITE.CD
 published: 2026-05-29
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: COD-2026-07-17
 places: [COD]
 topics: [dpi.id, dpi.registry, gov.policy, finance.new, dpi.govtech]
 entities: [[onip-drc], [serge-mulindwa], [ebuteli], [idemia], [afritech], [igf-drc], [lighthouse-reports], [bloomberg]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 Photo d'illustration

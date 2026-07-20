@@ -3,6 +3,8 @@ type: source
 title: "Google plans to build four subsea cable connectivity hubs for Africa"
 publisher: Developing Telecoms
 url: https://developingtelecoms.com/
+date_precision: day
+date_source: source
 author: John Tanner
 published: 2025-09-22
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [KEN, ZAF, UGA, RWA, COD, ZMB, ZWE, EGY, GHA, MAR, NGA, XAF]
 topics: [infra.connect, tech.ai, geopol.usa, capacity.training]
 entities: [[google], [equiano-cable], [umoja-cable]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Backfill (2025-09): Google to build 4 subsea-cable connectivity hubs (N/S/E/W Africa) with landing stations + data centres (~3yr); says it exceeded its 2021 $1bn Africa pledge; Umoja cable (Africa->Australia via SA/Kenya) RFS 2027; 7m trained, +3m by 2030; free Google AI Pro for students in 8 countries. Backfill to [[google]]/[[umoja-cable]]. -->

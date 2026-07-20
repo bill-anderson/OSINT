@@ -12,6 +12,7 @@ places: [TGO, SEN]
 topics: [dpi.id, gov.regional, dpi.exchange, capacity.training, gov.standards]
 entities: [[anid-togo], [mosip], [wuri-programme]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 *Origin account for the Yasmine Mama quote; the Biometric Update write-up cites this piece for it. Complementary, not duplicate.*

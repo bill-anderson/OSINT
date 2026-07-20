@@ -6,6 +6,7 @@ publisher: Equity Axis
 published: 2026-07-02
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [ZWE]
 topics: [dpi.pay, include.access, digital.rural]
 entities: [[o-mari], [ecocash], [innbucks], [netone], [old-mutual], [afc-holdings-zimbabwe], [zipit]]

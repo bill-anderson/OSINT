@@ -3,6 +3,8 @@ type: source
 title: "Strive Masiyiwa, the philanthropist who connected Africa"
 publisher: MoneyWeek
 url: https://moneyweek.com/economy/people/603312/strive-masiyiwa-the-philanthropist-who-connected-africa
+date_precision: day
+date_source: source
 author: Jane Lewis
 published: 2021-05-26
 accessed: 2026-06-12
@@ -11,6 +13,7 @@ places: [ZWE, ZAF, XAF, XGL]
 topics: [infra.connect, finance.new]
 entities: [[strive-masiyiwa], [econet-wireless]]
 lens: [colonialism]
+body_completeness: full
 ---
 
 <!-- Best biographical spine: born 1961 Rhodesia; exile to Zambia; schooled Scotland; Cardiff

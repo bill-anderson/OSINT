@@ -10,6 +10,7 @@ ingested: 2026-07-20
 places: [ZWE]
 topics: [tech.industry, finance.new, infra.store, infra.energy, infra.connect]
 entities: [[econet-infraco], [distributed-power-africa], [econet-wireless-zimbabwe], [victoria-falls-stock-exchange], [fayaz-king], [unicef]]
+lens: []
 body_completeness: full
 ---
 

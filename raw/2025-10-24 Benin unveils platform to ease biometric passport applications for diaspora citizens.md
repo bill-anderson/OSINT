@@ -3,6 +3,8 @@ type: source
 title: "Benin unveils platform to ease biometric passport applications for diaspora citizens"
 publisher: Biometric Update
 url: https://www.biometricupdate.com/202510/benin-unveils-platform-to-ease-biometric-passport-applications-for-diaspora-citizens
+date_precision: day
+date_source: source
 author: Ayang Macdonald
 published: 2025-10-24
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [BEN]
 topics: [dpi.id, dpi.govtech, dpi.exchange]
 entities: [[epass-benin], [seamfix], [uxp-benin], [anip-benin]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Benin's ePass diaspora biometric passport-renewal platform (epass.gouv.bj, ~Oct 2025): contactless fingerprint + face, ICAO-compliant, 4-week delivery; registration via national digital ID + consular number; part of '4D Diplomacy'. Benin's DPI is X-Road-inspired. -->

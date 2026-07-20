@@ -3,6 +3,7 @@ type: source
 title: "Transformation numérique en Afrique de l'Ouest et du Centre: Les dirigeants s'engagent à œuvrer pour des progrès tangibles"
 url: https://lanation.bj/actualites/transformation-numerique-en-afrique-de-louest-et-du-centre-les-dirigeants-sengagent-a-oeuvrer-pour-des-progres-tangibles
 publisher: La Nation
+ingested: 2026-07-18
 author: Ariel GBAGUIDI
 published: 2025-11-19
 date_precision: day
@@ -13,6 +14,7 @@ places: [BEN, XWA]
 topics: [gov.regional, gov.standards, tech.ai, infra.connect, dpi.id]
 entities: [[declaration-de-cotonou], [world-bank], [ministere-du-numerique-et-de-la-digitalisation-benin], [mission-300]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Transformation numérique en Afrique de l'Ouest et du Centre: Les dirigeants s'engagent à œuvrer pour des progrès tangibles

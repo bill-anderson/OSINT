@@ -3,6 +3,8 @@ type: source
 title: How to secure your property in Zimbabwe with the new digital deed system
 url: https://nehandaradio.com/2025/08/01/avoid-the-rush-avoid-the-risk-how-to-secure-your-property-in-zimbabwe-with-the-new-digital-deed-system
 publisher: Nehanda Radio
+lens: []
+body_completeness: full
 author: Nyasha Timba (Devittie, Rudolph & Timba)
 published: 2025-08-01
 date_precision: day

@@ -6,12 +6,14 @@ publisher: Fraternité Matin
 published: 2025-06-13
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [gov.policy, tech.industry, finance.new]
 entities: [[vivatech], [anssi-cote-divoire], [parae], [pncr], [start-up-act-cote-divoire], [ivoire-tech-forum]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Côte d'Ivoire numérique 2030 : Ibrahim Kalil Konaté présente une stratégie ambitieuse à VivaTech

@@ -6,12 +6,14 @@ publisher: Biometric Update
 published: 2025-11-10
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 places: [DZA]
 topics: [gov.legislate, dpi.id, gov.protect, dpi.pay, gov.policy]
 entities: [[algeria-digital-id-trust-law], [abdelmadjid-tebboune], [council-of-ministers-algeria], [algeria-biometric-id-card], [digital-algeria-2030], [nec]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Algeria approves draft legislation on digital ID, trust services

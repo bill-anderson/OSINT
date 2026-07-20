@@ -3,6 +3,7 @@ type: source
 title: Benin appoints Mahuna Akplogan as Minister for Digital Transformation and Innovation with responsibility for National AI Strategy
 url: https://techreviewafrica.com/news/5729/benin-appoints-mahuna-akplogan-as-minister-for-digital-transformation-and-innovation-with-responsibility-for-national-ai-strategy
 publisher: Tech Review Africa
+ingested: 2026-07-18
 author: Nana Appiah Acquaye
 published: 2026-06-01
 date_precision: day
@@ -13,6 +14,7 @@ places: [BEN]
 topics: [gov.policy, tech.ai, tech.innovate, capacity.training, infra.store]
 entities: [[ministry-of-digital-benin], [sniam]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Provenance note: Tech Review Africa is a byline-free PR wire (README source table). Published date established from the page's own "Date:" line at fetch time — Exa served no date. Sourcing the underlying presidential decree / Council of Ministers record would be preferable at ingest. -->

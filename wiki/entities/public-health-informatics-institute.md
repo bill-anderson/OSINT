@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: organisation
 title: Public Health Informatics Institute (PHII)
 places: [XGL, XAF]

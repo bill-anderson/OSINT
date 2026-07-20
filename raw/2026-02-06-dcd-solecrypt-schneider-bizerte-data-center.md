@@ -6,6 +6,7 @@ publisher: Data Center Dynamics (DCD)
 published: 2026-02-06
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [TUN]
 topics: [infra.store, infra.energy, tech.ai, finance.mou]
 entities: [[solecrypt], [schneider-electric], [solecrypt-schneider-electric-mou]]

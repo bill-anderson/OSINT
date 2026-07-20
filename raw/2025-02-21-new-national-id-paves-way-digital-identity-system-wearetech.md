@@ -3,6 +3,7 @@ type: source
 title: "Cameroon: New National ID Paves Way for Digital Identity System"
 url: https://www.wearetech.africa/en/fils-uk/news/tech/cameroon-new-national-id-paves-way-for-digital-identity-system
 publisher: We Are Tech Africa
+ingested: 2026-07-18
 author: Samira Njoya
 published: 2025-02-21
 date_precision: day
@@ -11,6 +12,7 @@ places: [CMR]
 topics: [dpi.id, dpi.registry, dpi.pay, dpi.govtech, gov.protect, gov.legislate, include.access, data.statistics]
 entities: [[augentic], [dgsn-cameroon]]
 lens: [sovereignty]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: CMR-2026-07-17
 ---

@@ -11,6 +11,7 @@ places: [XAF]
 topics: [gov.policy, gov.protect, dpi.exchange, gov.standards, data.open]
 entities: [[african-union], [au-data-policy-framework]]
 lens: [sovereignty]
+body_completeness: full
 artefact: "2022-02-01 AU Data Policy Framework.pdf"
 ---
 

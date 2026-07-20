@@ -13,6 +13,7 @@ places: [GMB]
 topics: [dpi.govtech, gov.policy, data.satellite]
 entities: [[undp]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Community policing in The Gambia scaling from concept to practice (Essau Model Police Station, Gambisara). Post-2017 security-sector reform. 2022 State of the Nation: 25 community-policing programmes, 175 active structures. UNDP-supported training in mediation/prevention; patrol investments (bicycles). Technology: mobile data-collection apps linked to case-management systems, plus GIS mapping of police facilities to guide deployment. Essau station: accessible design (disability provisions, gender/child-welfare spaces). -->

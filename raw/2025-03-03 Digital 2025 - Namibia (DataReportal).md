@@ -13,6 +13,7 @@ places: [NAM]
 topics: [data.statistics]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 DataReportal Digital 2025: Namibia edition (published 3 March 2025) — reference connectivity statistics for early 2025.

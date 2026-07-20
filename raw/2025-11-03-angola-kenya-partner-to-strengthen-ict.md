@@ -3,6 +3,8 @@ type: source
 title: Angola, Kenya partner to strengthen ICT
 url: https://www.connectingafrica.com/partnerships/angola-kenya-partner-to-strengthen-ict
 publisher: Connecting Africa
+lens: []
+body_completeness: full
 author: Matshepo Sehloho
 published: 2025-11-03
 date_precision: day

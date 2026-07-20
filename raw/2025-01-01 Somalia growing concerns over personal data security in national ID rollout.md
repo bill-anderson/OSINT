@@ -12,6 +12,7 @@ places: [SOM]
 topics: [gov.protect, dpi.id]
 entities: [[nira-somalia]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Somalia — growing concerns over personal data security in national ID rollout

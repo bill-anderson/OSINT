@@ -11,6 +11,7 @@ places: [RWA]
 topics: [dpi.id, gov.protect, include.divides]
 entities: [[nida-rwanda]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Digital Identity in Rwanda (CIS–RIA case study)

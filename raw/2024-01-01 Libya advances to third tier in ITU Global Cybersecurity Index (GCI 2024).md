@@ -13,6 +13,7 @@ places: [LBY]
 topics: [infra.cybersec, gov.policy]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 <!-- Year-proxy 2024 (reports the ITU's 5th-edition GCI released 2024). Libya advanced to the 3rd level of institutional maturity in the ITU Global Cybersecurity Index — maturity to 68.09% (up from the 2020 assessment). Progress in legal/technical/regulatory measures, capacity building, international cooperation. Credited to the Cybersecurity Project team at Libya's Telecommunications Holding Company (local + international partners). Positioning toward a digitally secure, smart nation. -->

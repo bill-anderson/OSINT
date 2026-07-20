@@ -13,6 +13,7 @@ places: [KEN]
 topics: [dpi.govtech, include.access]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 <!-- Kenya launched a unified diaspora portal — Diaspora Integrated Information Management System (DIIMS) — on eCitizen, by the State Dept for Diaspora Affairs. Kenyans abroad register individually/as associations, report missing persons/deaths, access crisis-mapping, submit distress alerts. 24-hour diaspora response centre (phone/WhatsApp/email) for medical emergencies, arrests, lost documents. Coincides with Kazi Majuu (regulated overseas employment). Part of digital public-service modernisation. -->

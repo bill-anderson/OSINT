@@ -3,6 +3,8 @@ type: source
 title: "Orange Côte d'Ivoire Launches Orange Sat Satellite Internet to Boost Nationwide Connectivity"
 publisher: Tech Africa News
 url: https://techafricanews.com/2026/01/21/orange-cote-divoire-launches-orange-sat/
+date_precision: day
+date_source: source
 author: Jennifer Onyeagoro
 published: 2026-01-21
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [CIV]
 topics: [infra.connect, digital.rural, include.divides, include.access]
 entities: [[orange], [orange-cote-divoire], [orange-sat], [eutelsat]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Orange Côte d'Ivoire launched 'Orange Sat' satellite internet (with Eutelsat) targeting remote/underserved 'white areas' beyond 4G and fibre; complements its fibre + mobile broadband portfolio. -->

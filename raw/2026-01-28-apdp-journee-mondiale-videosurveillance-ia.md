@@ -3,6 +3,9 @@ type: source
 title: "Journée mondiale de la protection des données : l'APDP place la vidéosurveillance et l'IA au cœur de la célébration"
 url: https://www.lanation.bj/numerique/journee-mondiale-de-la-protection-des-donnees-lapdp-place-la-videosurveillance-et-lia-au-coeur-de-la-celebration
 publisher: La Nation
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Christian Hounnongbé
 published: 2026-01-28
 date_precision: day

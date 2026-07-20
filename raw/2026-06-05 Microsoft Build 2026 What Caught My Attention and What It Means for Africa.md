@@ -3,6 +3,8 @@ type: source
 title: "Microsoft Build 2026: What Caught My Attention and What It Means for Africa"
 publisher: Anjola Adebowale (anjolaadebowale.substack.com)
 url: https://anjolaadebowale.substack.com/p/microsoft-build-2026-what-matters
+date_precision: day
+date_source: source
 author: Anjola Adebowale
 published: 2026-06-05
 accessed: 2026-07-12
@@ -11,6 +13,7 @@ places: [XAF]
 topics: [tech.ai, tech.industry, geopol.usa, infra.store]
 entities: [[microsoft], [anjola-adebowale]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- External expert analysis. Read of Microsoft Build 2026 (Discovery, Majorana 2, MAI models incl. MAI-Thinking-1 @ 35B active params, Frontier Tuning, Scout, Project Solara) for African implications; throughline = Microsoft assembling a full-stack, vertically-owned AI platform. Anchor analysis for the Build-2026 product line; attach to microsoft hub. Global/vendor news read for Africa -> XAF, no single country. -->

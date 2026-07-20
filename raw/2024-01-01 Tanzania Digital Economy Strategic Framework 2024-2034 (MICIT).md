@@ -7,6 +7,8 @@ published: 2024-01-01
 date_precision: year
 date_source: source
 ingested: 2026-07-17
+lens: []
+body_completeness: full
 artefact: "2024-01-01 Tanzania Digital Economy Strategic Framework 2024-2034 (MICIT).pdf"
 places: [TZA]
 topics: [gov.policy, tech.industry, dpi.govtech]

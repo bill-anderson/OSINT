@@ -3,6 +3,8 @@ type: source
 title: Home Affairs on launch of world-class new identity verification service and cost-effective usage
 url: https://www.gov.za/news/media-statements/home-affairs-launch-world-class-new-identity-verification-service-and-cost
 publisher: South African Government (gov.za)
+lens: []
+body_completeness: full
 author: Department of Home Affairs
 published: 2025-07-06
 date_precision: day

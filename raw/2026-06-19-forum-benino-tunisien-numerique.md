@@ -3,6 +3,7 @@ type: source
 title: "Forum du numérique : le Bénin et la Tunisie accélèrent les projets communs"
 url: https://fraternite.bj/forum-du-numerique-le-benin-et-la-tunisie-accelerent-les-projets-communs/
 publisher: Fraternité
+ingested: 2026-07-18
 author: Isac YAI
 published: 2026-06-19
 date_precision: day
@@ -13,6 +14,7 @@ places: [BEN]
 topics: [infra.store, gov.regional, capacity.training, infra.cybersec, tech.ai]
 entities: [[dsi-benin], [get-it], [eo-africa-cloud], [agence-des-systemes-dinformation-et-du-numerique-benin]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Forum du numérique : le Bénin et la Tunisie accélèrent les projets communs

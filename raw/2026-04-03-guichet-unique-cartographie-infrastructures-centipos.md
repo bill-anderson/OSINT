@@ -6,6 +6,7 @@ publisher: Togo First
 published: 2026-04-03
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [TGO]
 topics: [dpi.govtech, dpi.registry, digital.localgov]
 entities: [[cina-lawson]]

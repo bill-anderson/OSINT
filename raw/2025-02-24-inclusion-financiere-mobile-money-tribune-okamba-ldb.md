@@ -3,6 +3,7 @@ type: source
 title: "De l'inclusion financière : que nous apporte le Mobile Money ? (Tribune libre)"
 url: https://www.adiac-congo.com/content/de-linclusion-financiere-que-nous-apporte-le-mobile-money-163010
 publisher: Les Dépêches de Brazzaville (ADIAC)
+ingested: 2026-07-18
 author: Emmanuel Okamba (maître de conférences HDR en sciences de gestion)
 published: 2025-02-24
 date_precision: day
@@ -13,6 +14,7 @@ places: [COG, XCA]
 topics: [dpi.pay, include.access, include.divides, infra.connect, finance.new, capacity.training]
 entities: [[mtn], [airtel], [gsma], [arpce-congo]]
 lens: []
+body_completeness: full
 provenance_flag: opinion-tribune
 ---
 

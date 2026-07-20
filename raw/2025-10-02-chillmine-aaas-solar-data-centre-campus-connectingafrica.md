@@ -3,6 +3,9 @@ type: source
 title: ChillMine, AAAS Energy to launch data center in Botswana
 url: https://www.connectingafrica.com/data-centers/chillmine-aaas-energy-to-launch-data-center-in-botswana
 publisher: Connecting Africa
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Matshepo Sehloho
 published: 2025-10-02
 date_precision: day

@@ -6,12 +6,14 @@ publisher: Fraternité Matin
 published: 2026-01-06
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [dpi.pay, finance.new]
 entities: [[cdc-ci], [green-pay], [orange-cote-divoire]]
 lens: []
+body_completeness: full
 ---
 
 # Inclusion financière : La CDC-CI entre au capital de la fintech Green-Pay

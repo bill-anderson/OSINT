@@ -13,6 +13,7 @@ places: [GIN]
 topics: [dpi.id, dpi.govtech, gov.policy]
 entities: [[fugas], [simandou-2040]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Second outlet on the FUGAS launch (Unique Administrative and Payroll Management Platform), ceremony with PM Amadou Oury Bah. Pilot (prior year) saved est. $26.9m after biometric audit; of ~270,000 registered civil servants, fewer than 150,000 confirmed with effective work presence. PM: major step to modernize civil service + anti-graft. Digitization drive began 2021. FUGAS aligns with Simandou 2040 (digital-technology pillar launched at 2025 Transform Africa Summit). Dedup with 2025-11-30 Ecofin. -->

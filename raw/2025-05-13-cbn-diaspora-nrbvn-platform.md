@@ -6,6 +6,7 @@ publisher: Vanguard
 published: 2025-05-13
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [NGA]
 topics: [dpi.pay, dpi.id]
 entities: [[central-bank-of-nigeria], [nibss]]

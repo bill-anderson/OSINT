@@ -6,6 +6,7 @@ publisher: National Identification Authority (Ghana)
 published: 2023-11-05
 date_precision: day
 date_source: proxy
+ingested: 2026-07-20
 places: [GHA]
 topics: [dpi.id, dpi.registry, gov.legislate, gov.protect]
 entities: [[national-identification-authority-ghana]]

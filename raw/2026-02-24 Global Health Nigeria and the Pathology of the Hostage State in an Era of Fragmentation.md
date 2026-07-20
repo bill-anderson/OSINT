@@ -3,6 +3,8 @@ type: source
 title: "Global Health, Nigeria and the Pathology of the Hostage State in an Era of Fragmentation"
 publisher: Global Policy Journal
 url: https://www.globalpolicyjournal.com/blog/
+date_precision: day
+date_source: source
 author: Nelson Aghogho Evaborhene
 published: 2026-02-24
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [NGA, XSS]
 topics: [geopol.usa, gov.policy, gov.regional, finance.mou, gov.legislate]
 entities: [[america-first-global-health-strategy], [africa-cdc], [african-union]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Named-analyst blog on the Nigeria-AFGHS Compact (~$2.1bn US grants + $3.0bn Nigerian domestic, 'health independence by 2030'); ADC opposition cites Constitution s.42(1); context — Dec-2025 US airstrikes in NW Nigeria, ~200 US Special Ops (Feb 2026); the 39th AU Assembly (Feb 2026) operationalised the African Pooled Procurement Mechanism. Backfill to [[america-first-global-health-strategy]]. -->

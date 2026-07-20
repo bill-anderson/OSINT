@@ -11,6 +11,7 @@ places: [DJI]
 topics: [infra.store, infra.connect]
 entities: [[paix-data-centres], [fonds-souverain-djibouti]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # PAIX–Djibouti Sovereign Fund data-centre joint venture (JIB1)

@@ -3,6 +3,7 @@ type: source
 title: "Usage de l'intelligence artificielle dans l'administration : l'Asin appelle à un encadrement strict"
 url: https://lanation.bj/numerique/usage-de-lintelligence-artificielle-dans-ladministration-lasin-appelle-a-un-encadrement-strict
 publisher: La Nation
+ingested: 2026-07-18
 author: Isidore Gozo
 published: 2026-06-16
 date_precision: day
@@ -13,6 +14,7 @@ places: [BEN]
 topics: [tech.ai, gov.protect, dpi.govtech, gov.policy, infra.store]
 entities: [[asin-benin], [apdp-benin]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Usage de l'intelligence artificielle dans l'administration : l'Asin appelle à un encadrement strict

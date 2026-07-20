@@ -3,6 +3,7 @@ type: source
 title: Gozem Launches in Congo-Brazzaville After $30 Million Fundraise
 url: https://www.wearetech.africa/en/fils-uk/news/tech/gozem-launches-in-congo-brazzaville-after-30-million-fundraise
 publisher: We Are Tech Africa
+ingested: 2026-07-18
 author: Samira Njoya
 published: 2025-11-07
 date_precision: day
@@ -11,6 +12,7 @@ places: [COG]
 topics: [dpi.pay, finance.new, tech.innovate, tech.industry]
 entities: [[gozem]]
 lens: []
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: COG-2026-07-17
 ---

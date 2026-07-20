@@ -3,6 +3,7 @@ type: source
 title: Botswana expands digital tax net
 url: https://www.mmegi.bw/business/botswana-expands-digital-tax-net/news
 publisher: Mmegi
+ingested: 2026-07-18
 author: Pauline Dikuelo
 published: 2026-07-13
 date_precision: day
@@ -13,6 +14,7 @@ places: [BWA]
 topics: [gov.legislate, gov.regional, tech.industry]
 entities: [[botswana-unified-revenue-service], [african-tax-administration-forum], [remote-service-vat-act-botswana]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Botswana expands digital tax net

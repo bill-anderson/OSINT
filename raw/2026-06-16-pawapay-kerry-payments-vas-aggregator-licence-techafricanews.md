@@ -3,6 +3,7 @@ type: source
 title: PawaPay Subsidiary Kerry Payments Secures VAS Payment Aggregator Licence in Congo
 url: https://techafricanews.com/2026/06/16/pawapay-subsidiary-kerry-payments-secures-vas-payment-aggregator-licence-in-congo/
 publisher: TechAfrica News
+ingested: 2026-07-18
 author: Kay-Lyne Wolfenden
 published: 2026-06-16
 date_precision: day
@@ -11,6 +12,7 @@ places: [COG, XCA]
 topics: [dpi.pay, gov.legislate, dpi.exchange, include.access]
 entities: [[arpce-congo], [pawapay]]
 lens: []
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: COG-2026-07-17
 ---

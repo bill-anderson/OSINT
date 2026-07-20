@@ -6,6 +6,7 @@ publisher: Techzim
 published: 2026-04-17
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [ZWE]
 topics: [tech.ai, infra.store, tech.innovate]
 entities: [[econet-wireless-zimbabwe], [cassava-technologies], [econet-ai]]

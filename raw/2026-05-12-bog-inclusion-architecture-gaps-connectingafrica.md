@@ -6,12 +6,14 @@ publisher: Connecting Africa
 published: 2026-05-12
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: GHA-2026-07-17
 places: [GHA]
 topics: [dpi.pay, include.access]
 entities: [[bank-of-ghana]]
 lens: []
+body_completeness: full
 ---
 # Bank of Ghana touts inclusion, but more 'architecture' needed to close gaps
 

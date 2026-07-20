@@ -6,10 +6,12 @@ publisher: Africa Business Insight
 published: 2026-03-06
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [CAF, XCA]
 topics: [gov.regional, infra.connect, dpi.pay, dpi.govtech, capacity.training, include.divides]
 entities: [[cardip], [world-bank], [justin-gourna-zacko], [mepci-central-african-republic]]
 lens: []
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: CAF-2026-07-17
 provenance_flag: secondary-aggregator (Africa Business Insight rewrites wire/trade copy; quotes attributed to AFP — trace to the AFP/World Bank primary at ingest)

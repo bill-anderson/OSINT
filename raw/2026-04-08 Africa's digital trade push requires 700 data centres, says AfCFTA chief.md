@@ -3,6 +3,8 @@ type: source
 title: "Africa's digital trade push requires 700 data centres, says AfCFTA chief"
 publisher: Punch (via bilaterals.org)
 url: https://isds.bilaterals.org/africa-s-digital-trade-push
+date_precision: day
+date_source: source
 author: unknown
 published: 2026-04-08
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [XAF, MAR]
 topics: [infra.store, infra.capacity, dpi.exchange, gov.regional, gov.policy, dpi.pay, tech.ai]
 entities: [[afcfta], [wamkele-mene]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Wamkele Mene at GITEX Africa (Marrakech, 8 Apr 2026): Africa needs >700 DCs (has ~220, ~1% global commercial capacity). AfCFTA single market $3.6tn; digital economy $721bn by 2050; DC capacity to triple to ~1.2GW by 2030. -->

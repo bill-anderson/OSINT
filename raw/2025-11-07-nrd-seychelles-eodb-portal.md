@@ -6,6 +6,7 @@ publisher: NRD Companies (press release)
 published: 2025-11-07
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [SYC]
 topics: [dpi.govtech, finance.new]
 entities: [[nrd-companies], [ministry-of-investment-entrepreneurship-and-industry-seychelles]]

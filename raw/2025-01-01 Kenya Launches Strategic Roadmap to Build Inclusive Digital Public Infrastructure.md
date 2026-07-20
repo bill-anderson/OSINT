@@ -13,6 +13,7 @@ places: [KEN]
 topics: [dpi.govtech, dpi.exchange, gov.policy]
 entities: [[kenya-dpi-roadmap], [kictanet]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Year-proxy 2025 (references Connected Africa Summit May 2025 + inaugural Inter-Ministerial Steering Committee). Kenya developing a DPI roadmap, launched at the inaugural Inter-Ministerial Steering Committee (govt agencies, civil society, academia, intl partners). PS John Tanui (via Mary Kerema). Builds on 20,000+ eCitizen e-services; consolidates fragmented systems. GovStack methodology; GIZ, ITU, EU support; LoI at Connected Africa Summit May 2025. Blueprint to unify digital ID, payments, data exchange, trusted services; assesses 5 domains (data infrastructure, interoperability, digital identity/trust, access, governance); lessons from Estonia/Singapore/India. KICTANet key contributor. Cluster with Biometric Update 2025-09-15. -->

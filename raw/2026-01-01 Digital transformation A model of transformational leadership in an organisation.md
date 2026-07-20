@@ -12,6 +12,7 @@ places: [ZAF]
 topics: [digital.localgov, gov.policy, capacity.training, capacity.research]
 entities: []
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Digital transformation: A model of transformational leadership in an organisation | Mmakau | South African Journal of Information Management

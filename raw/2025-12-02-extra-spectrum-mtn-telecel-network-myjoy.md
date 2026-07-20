@@ -6,12 +6,14 @@ publisher: MyJoyOnline
 published: 2025-12-02
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: GHA-2026-07-17
 places: [GHA]
 topics: [infra.connect]
 entities: [[mtn-ghana], [telecel-ghana], [national-communications-authority-ghana]]
 lens: []
+body_completeness: full
 ---
 
 # Gov't says mobile network problems resolved after issuing extra spectrum to MTN, Telecel

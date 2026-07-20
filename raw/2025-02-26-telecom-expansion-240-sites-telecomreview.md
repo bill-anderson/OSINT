@@ -6,12 +6,14 @@ publisher: Telecom Review Africa
 published: 2025-02-26
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [infra.connect, digital.rural, gov.policy, include.access]
 entities: [[orange-cote-divoire], [mtn-cote-divoire], [moov-africa], [gsma]]
 lens: []
+body_completeness: full
 ---
 
 While Ivorian telecom operators are required to ensure nationwide coverage, some areas remain underserved. To bridge this gap, the government has intensified pressure as part of its digital transformation agenda.

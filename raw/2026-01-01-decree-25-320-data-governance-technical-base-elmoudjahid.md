@@ -1,6 +1,7 @@
 ---
 type: source
 title: "Décret sur la gouvernance des données : Un socle technique prometteur"
+ingested: 2026-07-18
 title_en: Analysis of Presidential Decree 25-320 (JO 30 Dec 2025) on national data governance — classification, cataloguing, secure interoperability; expert flags lack of open-data/valorisation
 url: https://www.elmoudjahid.dz/fr/actualite/decret-sur-la-gouvernance-des-donnees-un-socle-technique-prometteur-245982
 publisher: El Moudjahid
@@ -15,6 +16,7 @@ places: [DZA]
 topics: [gov.protect, gov.policy, dpi.exchange, infra.cybersec]
 entities: [[haut-commissariat-a-la-numerisation, algeria-data-governance-framework]]
 lens: [sovereignty]
+body_completeness: full
 provenance_flag: state-media
 ---
 

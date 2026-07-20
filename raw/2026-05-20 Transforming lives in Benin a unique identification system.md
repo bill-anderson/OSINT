@@ -12,6 +12,7 @@ places: [BEN, XWA]
 topics: [dpi.id, dpi.registry, include.access, finance.new, dpi.pay]
 entities: [[world-bank], [wuri-programme], [anip-benin]]
 lens: []
+body_completeness: full
 ---
 
 # Transforming lives in Benin: a unique identification system

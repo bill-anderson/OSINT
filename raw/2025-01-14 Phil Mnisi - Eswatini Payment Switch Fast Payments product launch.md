@@ -3,6 +3,8 @@ type: source
 title: Phil Mnisi: Eswatini Payment Switch Fast Payments product launch
 url: https://www.bis.org/review/r250114f.htm
 publisher: BIS — Central bankers' speeches
+lens: []
+body_completeness: full
 author: Phil Mnisi (Governor, Central Bank of Eswatini)
 published: 2025-01-14
 date_precision: day

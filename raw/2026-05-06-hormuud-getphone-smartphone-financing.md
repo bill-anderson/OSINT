@@ -6,6 +6,7 @@ publisher: Connecting Africa
 published: 2026-05-06
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: SOM-2026-07-17

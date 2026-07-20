@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: government-body
 title: Department of Information, Communications and Technology (DICT), Seychelles
 places: [SYC]

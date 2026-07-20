@@ -13,6 +13,7 @@ places: [MAR]
 topics: [infra.store, gov.policy, tech.ai]
 entities: [[digital-morocco-2030], [add-morocco]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Year-proxy 2025. Morocco implemented a Cloud First Policy (cornerstone of Digital Morocco 2030) — cloud as the mandatory default for all public-admin technology investments. Salma Tazi (Director of Cloud Infrastructure & Offshoring, Ministry of Digital Transition): "no investment will be planned or executed without first considering cloud." Three pillars: a cloud excellence centre (with ADD) for technical standards; a national cloud observatory launching 2027; training. All ministries must rethink data classification/management. Private sector: 40% of SMEs used cloud (2024) → "Move to Cloud"/"Post Move to Cloud" incentives tied to job creation. Also embracing an emerging AI First strategy; positioning as an Africa-Europe digital hub. -->

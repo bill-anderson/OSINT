@@ -12,6 +12,7 @@ places: [ZAF]
 topics: [include.access, include.divides, tech.industry, gov.policy]
 entities: [[solly-malatsi], [dcdt-south-africa], [gsma], [gsma-sa-smartphone-tax-reform-2026]]
 lens: []
+body_completeness: full
 ---
 
 # SOLLY MALATSI | Removing smartphone tax means access to opportunity

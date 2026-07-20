@@ -3,6 +3,7 @@ type: source
 title: Cameroon rolls out IMEI-based system to enforce import duties on mobile devices
 url: https://techcabal.com/2026/04/01/cameroon-imei-system-mobile-device-import-duties/
 publisher: TechCabal
+ingested: 2026-07-18
 author: John Adoyi
 published: 2026-04-01
 date_precision: day
@@ -11,6 +12,7 @@ places: [CMR]
 topics: [dpi.registry, dpi.exchange, dpi.govtech, gov.legislate, infra.connect, include.access, infra.cybersec]
 entities: [[camcis], [cameroon-customs]]
 lens: [sovereignty]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: CMR-2026-07-17
 ---

@@ -3,6 +3,8 @@ type: source
 title: A Look at Tanzania's eGovernment Model
 url: https://www.ktpress.rw/2025/07/a-look-at-tanzanias-egovernment-model/
 publisher: KT Press
+ingested: 2026-07-19
+lens: []
 author: KT Press Staff Writer
 published: 2025-07-09
 date_precision: day

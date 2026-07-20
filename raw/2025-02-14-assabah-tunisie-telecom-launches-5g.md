@@ -6,6 +6,7 @@ publisher: Assabah News (جريدة الصباح نيوز)
 published: 2025-02-14
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [TUN]
 topics: [infra.connect, tech.industry]
 entities: [[tunisie-telecom]]

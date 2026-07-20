@@ -3,6 +3,9 @@ type: source
 title: Burkina Faso Adopts Harmonized Framework to Strengthen Digital Governance
 url: https://techafricanews.com/2025/09/24/burkina-faso-adopts-harmonized-framework-to-strengthen-digital-governance/
 publisher: TechAfrica News
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Jennifer Onyeagoro
 published: 2025-09-24
 date_precision: day

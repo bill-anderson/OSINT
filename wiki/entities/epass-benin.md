@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: initiative
 title: ePass (Benin diaspora passport-renewal platform)
 places: [BEN]

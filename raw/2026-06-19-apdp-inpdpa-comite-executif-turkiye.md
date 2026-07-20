@@ -3,6 +3,7 @@ type: source
 title: "Gouvernance numérique : l'APDP du Bénin positionne le pays au cœur de la régulation internationale en Türkiye"
 url: https://www.lanation.bj/actualites/gouvernance-numerique-lapdp-du-benin-positionne-le-pays-au-coeur-de-la-regulation-internationale-en-turkiye
 publisher: La Nation
+ingested: 2026-07-18
 author: Christian HOUNONGBE
 published: 2026-06-19
 date_precision: day
@@ -13,6 +14,7 @@ places: [BEN, MLI, MAR, SOM]
 topics: [gov.protect, gov.regional, gov.standards, capacity.training, geopol.gulf]
 entities: [[apdp-benin], [inpdpa], [luciano-hounkponou], [kvkk-turkey]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Gouvernance numérique : l'APDP du Bénin positionne le pays au cœur de la régulation internationale en Türkiye

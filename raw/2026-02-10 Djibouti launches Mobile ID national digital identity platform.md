@@ -11,6 +11,7 @@ places: [DJI]
 topics: [dpi.id, dpi.exchange, gov.protect, dpi.govtech]
 entities: [[mobile-id-djibouti], [vision-djibouti-2035], [djibouti-digital-code], [smart-wallet-djibouti], [tech5], [visa]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Djibouti launches Mobile ID national digital identity platform

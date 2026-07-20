@@ -3,6 +3,7 @@ type: source
 title: "Saturation du câble sous-marin : la Guinée co-investit dans un 3e câble via le consortium Via Africa"
 url: https://mediaguinee.com/2026/06/saturation-du-cable-sous-marin-ahmed-karifa-diawara-dg-de-la-guilab-devoile-la-riposte-de-la-guinee/
 publisher: Mediaguinee
+ingested: 2026-07-18
 author: Christine Finda Kamano
 published: 2026-06-17
 date_precision: day
@@ -13,6 +14,7 @@ places: [GIN]
 topics: [infra.connect, gov.regional]
 entities: [[guilab], [via-africa], [mourana-soumah], [simandou-2040]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Saturation du câble sous-marin : Ahmed Karifa Diawara, DG de la GUILAB, dévoile la riposte de la Guinée

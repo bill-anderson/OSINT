@@ -14,6 +14,7 @@ places: [AGO]
 topics: [data.satellite, geopol.eu, tech.innovate, capacity.training]
 entities: [[airbus]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 *(PR-wire item — Tech Review Africa carries no independent reporting on this; the primary is the GGPEN/Airbus announcement and should be sourced at ingest if the detail is load-bearing.)*

@@ -12,6 +12,7 @@ places: [SLE]
 topics: [gov.protect, gov.legislate]
 entities: [[sierra-leone-data-protection-rti-bill-2025]]
 lens: []
+body_completeness: full
 ---
 
 # Government Finalizes Sierra Leone's Data Protection and Right to Access Information Bill

@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: company
 title: Raxio Group
 places: [UGA, ETH, MOZ, COD, CIV, AGO, TZA]

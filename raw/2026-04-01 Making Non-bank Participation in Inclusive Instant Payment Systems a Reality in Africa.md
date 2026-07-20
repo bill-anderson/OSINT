@@ -12,6 +12,7 @@ places: [XAF, ZAF, GHA, NGA, RWA, ZWE]
 topics: [dpi.pay, dpi.exchange, gov.regional, include.access]
 entities: [[africanenda], [alliancedfa]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Making Non-bank Participation in Inclusive Instant Payment Systems a Reality in Africa

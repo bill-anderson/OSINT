@@ -11,6 +11,7 @@ places: [SEN]
 topics: [dpi.id, infra.cybersec, gov.protect]
 entities: [[daf-senegal], [iris-corporation]]
 lens: []
+body_completeness: full
 ---
 
 # Senegal shuts National ID office after ransomware attack

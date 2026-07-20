@@ -13,6 +13,7 @@ places: [KEN]
 topics: [infra.store, finance.new]
 entities: [[ixafrica-data-centres]]
 lens: []
+body_completeness: full
 ---
 
 <!-- iXAfrica secured financing for a 20MW expansion of its NBOX1 data center in Nairobi. Rand Merchant Bank (RMB, FirstRand) multi-tranche package adds 20MW; NBOX1 target total 22.5MW. 17,300 sqm on Mombasa Road, adiabatic cooling, 6,621 sqm colocation; campus since 2021, $50m Helios backing, on former Schneider Electric land. iXAfrica also signed with Tilisi Developments to buy 11 acres for a 2nd Nairobi campus. RMB previously financed WIOCC's Open Access Data Centres and Africa Data Centres. Hub tracks iXAfrica; financing update. -->

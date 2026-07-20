@@ -3,6 +3,8 @@ type: source
 title: Digital Identity in Tanzania - country case study
 url: https://digitalid.design/
 publisher: Centre for Internet and Society (India) and Research ICT Africa
+lens: []
+body_completeness: full
 author: Dr Patricia Boshe
 published: 2021-10-31
 date_precision: day

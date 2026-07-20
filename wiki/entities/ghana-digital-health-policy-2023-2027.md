@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: instrument
 title: Ghana Policy and Strategy on Digital Health 2023-2027
 places: [GHA]

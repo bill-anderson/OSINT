@@ -3,6 +3,7 @@ type: source
 title: ARPCE Demands Flawless Network Performance Ahead of March Elections
 url: https://techafricanews.com/2026/02/19/arpce-demands-flawless-network-performance-ahead-of-march-elections/
 publisher: TechAfrica News
+ingested: 2026-07-18
 author: Akim Benamara
 published: 2026-02-19
 date_precision: day
@@ -11,6 +12,7 @@ places: [COG]
 topics: [infra.connect, gov.legislate, gov.standards, include.access]
 entities: [[arpce-congo]]
 lens: []
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: COG-2026-07-17
 ---

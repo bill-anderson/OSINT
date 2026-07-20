@@ -13,6 +13,7 @@ places: [MUS]
 topics: [gov.policy, dpi.govtech, gov.legislate, dpi.id]
 entities: [[mauritius-digital-blueprint-2025-2029]]
 lens: []
+body_completeness: full
 ---
 
 The Government of Mauritius has unveiled "A Blueprint for Mauritius - A Bridge to the Future" (2025-2029), a plan to modernise the national digital ecosystem and position Mauritius as a secure, globally competitive digital hub. On 21 August 2025, Dr Avinash Ramtohul, Minister of Information Technology, Communication and Innovation, announced (at the launch of Emtel's cloud services) that new digital regulations would follow the Blueprint.

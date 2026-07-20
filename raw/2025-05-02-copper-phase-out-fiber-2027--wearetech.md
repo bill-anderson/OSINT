@@ -6,12 +6,14 @@ publisher: We Are Tech
 published: 2025-05-02
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 places: [DZA]
 topics: [infra.connect, infra.capacity, include.access, include.divides, gov.policy]
 entities: [[algerie-telecom], [ministry-of-post-and-telecommunications-algeria], [sid-ali-zerrouki], [arcep-france]]
 lens: []
+body_completeness: full
 ---
 
 - Algeria plans to fully replace its outdated copper telecom network with high-speed fiber optics by the end of 2027.

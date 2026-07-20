@@ -3,6 +3,7 @@ type: source
 title: Cameroon's Douala Port seals 5G agreement
 url: https://itweb.africa/article/cameroons-douala-port-seals-5g-agreement/raYAyqorj5xMJ38N
 publisher: ITWeb Africa
+ingested: 2026-07-18
 author: Amindeh Blaise Atabong
 published: 2025-11-28
 date_precision: day
@@ -11,6 +12,7 @@ places: [CMR]
 topics: [infra.connect, infra.store, infra.cybersec, tech.industry, finance.new, dpi.govtech]
 entities: [[port-authority-of-douala], [innovendi]]
 lens: [sovereignty]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: CMR-2026-07-17
 ---

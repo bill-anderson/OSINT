@@ -3,6 +3,7 @@ type: source
 title: Cameroon to unlock stalled mobile phone tax revenue
 url: https://itweb.africa/article/cameroon-to-unlock-stalled-mobile-phone-tax-revenue/lwrKx73YOdEqmg1o
 publisher: ITWeb Africa
+ingested: 2026-07-18
 author: Amindeh Blaise Atabong
 published: 2026-03-31
 date_precision: day
@@ -11,6 +12,7 @@ places: [CMR]
 topics: [dpi.registry, dpi.exchange, dpi.govtech, gov.legislate, gov.protect, infra.connect, include.access]
 entities: [[camcis], [cameroon-customs]]
 lens: [sovereignty]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: CMR-2026-07-17
 ---

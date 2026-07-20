@@ -6,12 +6,14 @@ publisher: Tech Review Africa
 published: 2026-05-22
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [finance.mou, include.divides, tech.innovate, include.access]
 entities: [[orange-cote-divoire], [undp], [mamadou-bamba], [blerta-cela]]
 lens: []
+body_completeness: full
 provenance_flag: pr-wire
 primary_to_source: The Orange Côte d'Ivoire–UNDP partnership agreement and the joint release announcing it
 ---

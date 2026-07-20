@@ -6,6 +6,7 @@ publisher: ActuNiger
 published: 2026-01-18
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [NER]
 topics: [infra.connect, tech.industry, geopol.usa, geopol.india]
 entities: [[airtel-niger], [starlink], [arcep-niger]]

@@ -13,6 +13,7 @@ places: [CIV]
 topics: [dpi.registry, include.access]
 entities: [[rsu-cote-divoire]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Filets Sociaux CI (Apr 2025): Côte d'Ivoire operationalising its Registre Social Unique (RSU) — a single social registry centralising socio-economic data on poor/vulnerable households to share with social programmes for targeting. 200,000+ households in the process of registration; managed via the SIG-RSU information system. The social-registry (dpi.registry) layer under CIV's social-protection system. -->

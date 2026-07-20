@@ -2,6 +2,7 @@
 type: entity
 entity_type: person
 title: Bill Anderson
+sources: []
 aliases: [bill, Bill Anderson]
 url: https://data-landscapers.com/about/
 places: [XAF, ZAF]

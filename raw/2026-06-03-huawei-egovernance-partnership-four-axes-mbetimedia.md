@@ -6,10 +6,12 @@ publisher: Mbeti Media
 published: 2026-06-03
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [CAF]
 topics: [infra.store, dpi.govtech, geopol.china, infra.cybersec, dpi.exchange]
 entities: [[huawei], [mepci-central-african-republic], [un-e-government-survey]]
 lens: [sovereignty, colonialism]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: CAF-2026-07-17
 provenance_flag: same event as the Agence Ecofin 2026-05-27 item (Huawei working meeting, 26 May 2026); staged per the sweep rule that same-event/different-outlet is never a drop. Mbeti Media adds the eLTE security-radio axis and the UN e-government-ranking framing.

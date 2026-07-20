@@ -3,6 +3,7 @@ type: source
 title: Why Connecting Rural Congo Costs Three Times More Than It Should (backhaul spectrum fees)
 url: https://techafricanews.com/2026/07/16/why-connecting-rural-congo-costs-three-times-more-than-it-should/
 publisher: TechAfrica News
+ingested: 2026-07-18
 author: Joyce Onyeagoro
 published: 2026-07-16
 date_precision: day
@@ -11,6 +12,7 @@ places: [COG, COD, XCA, XSS]
 topics: [infra.connect, include.divides, digital.rural, gov.legislate, gov.policy, include.access]
 entities: [[gsma], [arpce-congo]]
 lens: []
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: COG-2026-07-17
 ---

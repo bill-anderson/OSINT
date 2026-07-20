@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: company
 title: Helios Towers
 places: [TZA, COD, SEN, XAF]

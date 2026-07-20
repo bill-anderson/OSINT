@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: instrument
 title: Digital Economy for Chad — Country Diagnostic (P177120)
 places: [TCD]

@@ -2,6 +2,8 @@
 type: source
 title: "Cassava Technologies and Google partner to bring Gemini to millions across Africa"
 publisher: Cassava Technologies
+date_precision: day
+date_source: source
 author: Andy Higgins
 url: https://www.cassavatechnologies.com/cassava-technologies-google-partner-to-bring-gemini-to-millions-across-africa/
 published: 2025-11-12
@@ -11,6 +13,7 @@ places: [XAF]
 topics: [tech.ai, infra.connect, capacity.training, geopol.usa]
 entities: [[cassava-technologies], [google]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- First-party: 6-month Google AI Plus trial + data-free (zero-rated) Gemini app across

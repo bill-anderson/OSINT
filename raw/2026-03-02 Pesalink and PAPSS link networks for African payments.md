@@ -3,6 +3,8 @@ type: source
 title: "Pesalink and PAPSS link networks for African payments"
 publisher: The Paypers
 url: https://thepaypers.com/payments/news/
+date_precision: day
+date_source: source
 author: Sinziana Albu
 published: 2026-03-02
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [KEN, XAF]
 topics: [dpi.pay, dpi.exchange, gov.regional, finance.mou]
 entities: [[pesalink], [papss], [afcfta]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Pesalink (Kenya) joined PAPSS as a Technical Connectivity Provider — connecting 80+ Kenyan banks/fintechs/SACCOs to PAPSS's 160+ banks (instant local-currency settlement); the first time PAPSS piloted a national switch for transaction termination in Kenya. Supports AfCFTA. Entity [[pesalink]]. -->

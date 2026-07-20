@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: organisation
 title: HISP Centre (University of Oslo)
 places: [XGL, XAF, NGA]

@@ -10,6 +10,8 @@ ingested: 2026-07-15
 places: [GAB]
 topics: [dpi.registry, include.access, dpi.mis]
 entities: [[registre-social-unique-gabon], [aninf-gabon], [world-bank]]
+lens: []
+body_completeness: full
 ---
 
 Gabon has finalized the technical work on the **Registre Social Unique (RSU / Unique Social Registry)**. A closing workshop, chaired by the Minister of Women, Family and Child Protection, brought together national and international experts on Thursday, 28 August 2025, to lay the foundations of a system designed to optimize the management of social programs and better target the most vulnerable.

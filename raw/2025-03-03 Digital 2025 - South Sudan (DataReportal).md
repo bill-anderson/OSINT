@@ -12,6 +12,7 @@ places: [SSD]
 topics: [infra.connect, include.divides]
 entities: [[datareportal]]
 lens: []
+body_completeness: full
 ---
 
 # Digital 2025: South Sudan

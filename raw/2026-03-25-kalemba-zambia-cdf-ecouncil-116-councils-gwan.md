@@ -10,6 +10,7 @@ ingested: 2026-07-20
 places: [ZMB]
 topics: [dpi.govtech, digital.localgov, dpi.mis, infra.connect, dpi.pay, infra.energy]
 entities: [[smart-zambia-institute], [percy-chinyama], [kasali-musenge], [constituency-development-fund-zambia]]
+lens: []
 body_completeness: full
 ---
 

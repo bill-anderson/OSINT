@@ -6,10 +6,12 @@ publisher: Expresso das Ilhas
 published: 2025-01-15
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [CPV]
 topics: [tech.innovate, tech.industry, dpi.govtech]
 entities: [[cabo-verde-digital], [pro-empresa], [techpark-cv]]
 lens: []
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: CPV-2026-07-17
 ---

@@ -6,12 +6,14 @@ publisher: Fraternité Matin
 published: 2025-07-25
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [data.open, gov.policy]
 entities: [[caidp], [access-caidp]]
 lens: []
+body_completeness: full
 ---
 
 # ACCESS CAIDP : Un tournant pour la transparence et l'accès à l'information en Côte d'Ivoire

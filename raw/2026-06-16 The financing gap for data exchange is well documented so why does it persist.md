@@ -12,6 +12,7 @@ places: [XAF, GHA]
 topics: [dpi.exchange, gov.policy, finance.new, data.open]
 entities: [[dial], [africa-data-leadership-initiative], [gates-foundation], [world-bank]]
 lens: []
+body_completeness: full
 ---
 
 # The financing gap for data exchange is well documented, so why does it persist? – Digital Impact Alliance

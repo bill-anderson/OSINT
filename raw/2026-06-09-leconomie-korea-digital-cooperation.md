@@ -3,6 +3,9 @@ type: source
 title: "Coopération numérique : Yaoundé plaide pour un renforcement du partenariat technologique à Séoul"
 url: https://leconomie.info/cooperation-numerique-yaounde-plaide-pour-un-renforcement-du-partenariat-technologique-a-seoul/
 publisher: Le quotidien L'Economie
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: William Abada
 published: 2026-06-09
 date_precision: day

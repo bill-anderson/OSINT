@@ -11,6 +11,7 @@ places: [SEN]
 topics: [dpi.pay, dpi.mis, include.access]
 entities: [[sen-csu], [better-than-cash-alliance]]
 lens: []
+body_completeness: full
 ---
 
 # How has Senegal made responsible digital payments a catalyst for universal health coverage?

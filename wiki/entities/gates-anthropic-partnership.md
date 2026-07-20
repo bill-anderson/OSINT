@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: deal
 title: Gates Foundation–Anthropic partnership
 places: [XGL]

@@ -3,6 +3,8 @@ type: source
 title: "Liberia Unveils 5-Year 'Digital Liberia' Strategy to Boost Sovereignty and Innovation"
 publisher: Tech Africa News
 url: https://techafricanews.com/2026/02/03/liberia-unveils-5-year-digital-liberia-strategy/
+date_precision: day
+date_source: source
 author: Jennifer Onyeagoro
 published: 2026-02-03
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [LBR]
 topics: [gov.policy, infra.connect, include.access, infra.cybersec, dpi.govtech, digital.rural]
 entities: [[digital-liberia-strategy], [lta-liberia]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Liberia unveiled 'Digital Liberia: Equity, Sovereignty and Innovation for a Connected Future', Strategic Plan 2025-2029 (~3 Feb 2026): eight priority areas incl. universal connectivity, national digital addressing/postal reform, cybersecurity & data sovereignty, e-governance; four pillars; aligns to the ARREST Agenda. -->

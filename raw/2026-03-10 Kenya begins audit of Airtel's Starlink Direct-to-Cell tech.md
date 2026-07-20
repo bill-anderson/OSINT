@@ -3,6 +3,8 @@ type: source
 title: "Kenya begins audit of Airtel's Starlink Direct-to-Cell tech"
 publisher: ITWeb Africa
 url: https://itweb.africa/article/
+date_precision: day
+date_source: source
 author: Nixon Kanali
 published: 2026-03-10
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [KEN]
 topics: [infra.connect, gov.standards, infra.capacity]
 entities: [[communications-authority-of-kenya], [starlink], [airtel-africa], [safaricom]]
 lens: []
+body_completeness: excerpt
 ---
 
 <!-- The Communications Authority of Kenya began a technical review of Airtel's application to use Starlink Direct-to-Cell â€” investigating LEO-to-handset interference with licensed 3G/4G/5G spectrum; audit to conclude by mid-2026; part of the Airtel-Starlink rollout across 14 markets. Entity [[communications-authority-of-kenya]]. -->

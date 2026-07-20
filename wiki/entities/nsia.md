@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: government-body
 title: Nigeria Sovereign Investment Authority (NSIA)
 places: [NGA]

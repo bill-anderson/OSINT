@@ -6,12 +6,14 @@ publisher: Fraternité Matin
 published: 2025-01-30
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [dpi.govtech, dpi.id, dpi.registry]
 entities: [[oneci]]
 lens: []
+body_completeness: full
 ---
 
 # Sécurisation et digitalisation des actes de justice : Le ministre Sansan Kambilé lance une plateforme

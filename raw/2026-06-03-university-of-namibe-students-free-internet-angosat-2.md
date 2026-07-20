@@ -3,6 +3,8 @@ type: source
 title: Over 5,600 University of Namibe students gain free internet access through ANGOSAT-2
 url: https://techreviewafrica.com/news/5761/over-5600-university-of-namibe-students-gain-free-internet-access-through-angosat-2
 publisher: Tech Review Africa
+lens: []
+body_completeness: full
 author: Robert Kwaku Annor
 published: 2026-06-03
 date_precision: day

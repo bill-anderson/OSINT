@@ -12,6 +12,7 @@ places: [MWI]
 topics: [gov.policy, dpi.id, digital.rural, gov.protect]
 entities: [[undp], [idt4m], [malawi-ministry-of-ict]]
 lens: []
+body_completeness: full
 ---
 
 Web presentation of Malawi's Digital Readiness Assessment (DRA), the UNDP rapid diagnostic combining quantitative metrics (internet/mobile penetration) with qualitative stakeholder inputs, aligned with Malawi Vision 2063 and the SDGs. It places Malawi at the "Opportunistic" stage (score 2.7 of 5): progress in connectivity, DPI, governance and regulation — including significant 4G coverage and universal adult Digital ID registration, plus foundational frameworks such as the Data Protection Act and a National Cybersecurity Strategy — but no coordinated national strategy, and persistent gaps in rural connectivity, digital literacy, institutional coordination and affordability.

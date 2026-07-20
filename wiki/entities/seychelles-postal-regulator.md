@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: government-body
 title: Seychelles Postal Regulator (Postal Regulator Services)
 places: [SYC]

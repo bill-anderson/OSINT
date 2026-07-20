@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: initiative
 title: Google for Startups Accelerator Africa
 places: [XAF, NGA, KEN, ZAF]

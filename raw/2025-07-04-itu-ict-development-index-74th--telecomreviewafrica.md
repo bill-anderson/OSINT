@@ -6,12 +6,14 @@ publisher: Telecom Review Africa
 published: 2025-07-04
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 places: [DZA]
 topics: [data.statistics, include.access, infra.connect, gov.policy]
 entities: [[itu], [itu-ict-development-index]]
 lens: []
+body_completeness: full
 ---
 
 # Algeria Climbs 15 Places in Global ICT Index

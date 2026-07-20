@@ -3,6 +3,9 @@ type: source
 title: Webb Fontaine advances Benin's customs digitisation project
 url: https://itweb.africa/article/webb-fontaine-advances-benins-customs-digitisation-project/Pero37Z3aLRMQb6m
 publisher: ITWeb Africa
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Staff Writer
 published: 2025-02-13
 date_precision: day

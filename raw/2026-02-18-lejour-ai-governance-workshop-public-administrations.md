@@ -3,6 +3,9 @@ type: source
 title: "Le Cameroun intensifie sa stratégie de gouvernance numérique"
 url: https://lejour.cm/le-cameroun-intensifie-sa-strategie-de-gouvernance-numerique/
 publisher: Le Jour
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Jean Ateba Onguene
 published: 2026-02-18
 date_precision: day

@@ -10,6 +10,7 @@ ingested: 2026-07-20
 places: [XAF, KEN, ZAF, EGY, NGA, SEN, MAR, GHA]
 topics: [finance.new, tech.industry, tech.innovate, dpi.pay]
 entities: [[partech], [partech-africa], [partech-africa-tech-vc-report], [tidjane-deme], [cyril-collon]]
+lens: []
 body_completeness: full
 ---
 

@@ -3,6 +3,7 @@ type: source
 title: Burkina Faso, UAE's Presight partner to accelerate digital transformation
 url: https://www.connectingafrica.com/digital-inclusion/burkina-faso-uae-s-presight-partner-to-accelerate-digital-transformation
 publisher: Connecting Africa
+ingested: 2026-07-18
 author: Matshepo Sehloho
 published: 2025-09-22
 date_precision: day
@@ -13,6 +14,7 @@ places: [BFA]
 topics: [finance.mou, geopol.gulf, tech.ai, infra.cybersec]
 entities: [[presight], [g42], [ministry-of-digital-transition-burkina-faso], [arcep-burkina-faso], [nca-ghana], [ecowas]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 Burkina Faso and United Arab Emirates-based Presight International Services have signed a memorandum of understanding (MoU) aimed at strengthening Burkina Faso's digital economy.

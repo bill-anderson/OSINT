@@ -3,6 +3,7 @@ type: source
 title: Burkina Faso Asserts Digital Sovereignty with Launch of National Mini Data Centres
 url: https://techafricanews.com/2026/01/23/burkina-faso-asserts-digital-sovereignty-with-launch-of-national-mini-data-centres/
 publisher: TechAfrica News
+ingested: 2026-07-18
 author: Joyce Onyeagoro
 published: 2026-01-23
 date_precision: day
@@ -13,6 +14,7 @@ places: [BFA]
 topics: [infra.store, gov.policy, infra.capacity, finance.new]
 entities: [[ministry-of-digital-transition-burkina-faso], [rimtalba-jean-emmanuel-ouedraogo]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Burkina Faso Asserts Digital Sovereignty with Launch of National Mini Data Centres

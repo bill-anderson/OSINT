@@ -3,6 +3,9 @@ type: source
 title: "SIRATPay : le paiement numérique simplifie les péages au Bénin"
 url: https://fraternite.bj/siratpay-le-paiement-numerique-simplifie-les-peages-au-benin/
 publisher: Fraternité
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Alexia Lumière-Christina ADJOU-MOUMOUNI
 published: 2026-03-19
 date_precision: day

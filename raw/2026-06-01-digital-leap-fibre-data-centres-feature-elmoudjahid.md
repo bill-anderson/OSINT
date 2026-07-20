@@ -1,6 +1,7 @@
 ---
 type: source
 title: "Fibre optique, e-paiement, data et skills center en Algérie : le grand bond numérique"
+ingested: 2026-07-18
 title_en: State-daily feature on Algeria's digital build-out — 200,000+ km fibre, sovereign data centres (Mohammadia w/ Huawei, Uptime Tier III Design; Constantine operational since 2023; Blida under deployment)
 url: https://www.elmoudjahid.dz/fr/actualite/fibre-optique-e-paiement-data-et-skills-center-en-algerie-le-grand-bond-numerique-253854
 publisher: El Moudjahid
@@ -16,7 +17,7 @@ topics: [infra.store, infra.connect, geopol.china, dpi.govtech]
 entities: [[haut-commissariat-a-la-numerisation, huawei, dzair-services, algerie-telecom]]
 lens: [sovereignty]
 provenance_flag: state-media
-body_completeness: clipped-at-fetch
+body_completeness: excerpt
 ---
 
 # Fibre optique, e-paiement, data et skills center en Algérie : le grand bond numérique

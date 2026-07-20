@@ -13,6 +13,7 @@ places: [CIV]
 topics: [infra.store, infra.connect]
 entities: [[raxio-group]]
 lens: []
+body_completeness: full
 ---
 
 <!-- DCD (Sep 2024): Raxio Group launched CIV1 in Abidjan — its 5th data centre and 3rd launch of 2024 — located at VITIB (Village of Innovation and Technology, Grand-Bassam), Tier III carrier-neutral. First announced Nov 2022. Part of Côte d'Ivoire's growing Abidjan/Grand-Bassam data-centre cluster and Raxio's pan-African footprint. -->

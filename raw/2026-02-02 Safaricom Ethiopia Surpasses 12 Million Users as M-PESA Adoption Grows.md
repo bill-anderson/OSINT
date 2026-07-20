@@ -3,6 +3,8 @@ type: source
 title: "Safaricom Ethiopia Surpasses 12 Million Users as M-PESA Adoption Grows"
 publisher: Tech Africa News
 url: https://techafricanews.com/2026/02/02/safaricom-ethiopia-surpasses-12-million-users/
+date_precision: day
+date_source: source
 author: Joyce Onyeagoro
 published: 2026-02-02
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [ETH]
 topics: [infra.connect, dpi.pay, include.access]
 entities: [[safaricom], [ethswitch], [safaricom-ethiopia], [telebirr]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Safaricom Ethiopia: 12.2m 3-month active customers (+71.7% YoY, period to 31 Dec 2025); 4G covers 57.1%; Q3 FY26 service revenue KES 9.68bn (+54.2%); M-PESA 5.2m active (+258.5%), value >2x to ETB 20.37bn; EthSwitch integration (Oct 2025) enabled full interoperability + EthQR. (Corroborates the M-PESA Ethiopia +258% item.) -->

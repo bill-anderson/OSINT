@@ -3,6 +3,9 @@ type: source
 title: Burundi modernizes financial crime defense as Central Bank issues new AML/CFT rules
 url: https://www.burunditimes.com/burundi-modernizes-financial-crime-defense-as-central-bank-issues-new-aml-cft-rules/
 publisher: Burundi Times
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Burundi Times
 published: 2026-02-16
 date_precision: day

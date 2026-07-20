@@ -13,6 +13,7 @@ places: [NAM]
 topics: [dpi.id, dpi.registry, gov.protect, gov.legislate]
 entities: [[namibia-civil-registration-identification-act-2024], [mtc-namibia], [ministry-home-affairs-namibia]]
 lens: []
+body_completeness: full
 ---
 
 Analysis by legal expert Dianne Hubbard (a technical adviser to the Ministry of Home Affairs on the bill) for the Association for Progressive Communications' *Southern Africa Digital Rights* series (Issue 3). It argues that biometrics are collected across many contexts in Namibia — ID cards (photo plus ten fingerprints), the 2018 biometric e-passport, an Integrated Border Management System, voter registration, driving licences, police certificates of conduct, social grants and SIM-card registration — mostly without a governing data-protection law.

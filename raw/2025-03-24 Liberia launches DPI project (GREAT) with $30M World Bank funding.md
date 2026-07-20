@@ -13,6 +13,7 @@ places: [LBR]
 topics: [dpi.id, dpi.govtech, finance.new]
 entities: [[great-project-liberia], [national-identification-registry-liberia], [world-bank]]
 lens: []
+body_completeness: full
 ---
 
 <!-- MFDP launched the GREAT project (Governance Reform Accountability Transformation) 20 Mar in Monrovia. WB ID Credit Program: $30m + $13m for digital infrastructure. Enroll 2m+ Liberians for the national digital ID via NIR. To Nov 2030; digital-government ecosystem across 9 institutions (civil service, tax/revenue, NIR, Education, Health, Finance, Trade). Four pillars: public-service access, tax-revenue/anti-corruption, accountability, capacity building. Finance Min Augustine Kpehe Ngafuan; WB Rep Oyewole Afuye (govt ownership). NIR ED Andrew Peters: enrollment teams to clan/chiefdom levels. -->

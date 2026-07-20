@@ -6,6 +6,7 @@ publisher: Ahram Online (English)
 published: 2025-12-01
 date_precision: month
 date_source: proxy
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: EGY-2026-07-17
 places: [EGY]

@@ -6,6 +6,7 @@ publisher: Independent News Eswatini
 published: 2026-05-21
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [SWZ]
 topics: [infra.cybersec, dpi.exchange, infra.store, gov.policy]
 entities: [[ministry-of-ict-eswatini], [rstp]]

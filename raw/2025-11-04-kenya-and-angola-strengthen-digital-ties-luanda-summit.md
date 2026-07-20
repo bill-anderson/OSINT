@@ -3,6 +3,8 @@ type: source
 title: Kenya and Angola Strengthen Digital Ties to Accelerate Africa's Infrastructure Transformation
 url: https://techafricanews.com/2025/11/04/kenya-and-angola-strengthen-digital-ties-to-accelerate-africas-infrastructure-transformation/
 publisher: TechAfrica News
+lens: []
+body_completeness: full
 author: Jennifer Onyeagoro
 published: 2025-11-04
 date_precision: day

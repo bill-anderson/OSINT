@@ -6,6 +6,7 @@ publisher: ITWeb Africa
 published: 2026-07-10
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [MWI]
 topics: [tech.ai, dpi.id, gov.protect, capacity.training]
 entities: [[macra-malawi], [undp]]

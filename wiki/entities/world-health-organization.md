@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: organisation
 title: World Health Organization (WHO)
 places: [XGL]

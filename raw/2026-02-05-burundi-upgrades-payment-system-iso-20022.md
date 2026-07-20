@@ -3,6 +3,9 @@ type: source
 title: Burundi upgrades Payment System to international ISO 20022 Standard
 url: https://www.burunditimes.com/burundi-upgrades-payment-system-to-international-iso-20022-standard/
 publisher: Burundi Times
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Burundi Times
 published: 2026-02-05
 date_precision: day

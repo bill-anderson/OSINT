@@ -3,6 +3,9 @@ type: source
 title: "SNK IA Challenge 2025 : 100 jeunes à formés à l'utilisation de l'intelligence artificielle"
 url: https://leconomie.info/snk-ia-challenge-2025-100-jeunes-a-formes-a-lutilisation-de-lintelligence-artificielle/
 publisher: Le quotidien L'Economie
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Hervé Fopa Fogang
 published: 2025-07-23
 date_precision: day

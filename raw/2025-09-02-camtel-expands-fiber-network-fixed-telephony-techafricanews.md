@@ -3,6 +3,7 @@ type: source
 title: Cameroon's Camtel Expands Fiber Network and Fixed Telephony Services
 url: https://techafricanews.com/2025/09/02/cameroons-camtel-expands-fiber-network-and-fixed-telephony-services/
 publisher: TechAfrica News
+ingested: 2026-07-18
 author: Jennifer Onyeagoro
 published: 2025-09-02
 date_precision: day
@@ -11,6 +12,7 @@ places: [CMR]
 topics: [infra.connect, tech.industry, include.access, include.divides, dpi.pay, digital.rural, tech.ai]
 entities: [[camtel]]
 lens: [sovereignty]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: CMR-2026-07-17
 ---

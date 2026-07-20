@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: company
 title: Open Access Data Centres (OADC)
 places: [NGA, XWA, XAF]

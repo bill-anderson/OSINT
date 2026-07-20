@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: instrument
 title: Bank of Tanzania (Financial Consumer Protection) (Amendment) Regulations, GN No. 298 of 2025
 places: [TZA]

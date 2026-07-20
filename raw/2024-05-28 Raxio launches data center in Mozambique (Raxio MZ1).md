@@ -13,6 +13,7 @@ places: [MOZ]
 topics: [infra.store, infra.connect]
 entities: [[raxio-group]]
 lens: []
+body_completeness: full
 ---
 
 Pan-African operator Raxio Data Centres opened Raxio Mozambique (Raxio MZ1) in Maputo — the country's first Tier III Uptime-certified data centre. It offers 3MW across 2,000 sqm, with capacity for up to 400 racks, located in Beluluane Industrial Park (MozParks) on the outskirts of the capital. Raxio broke ground in September 2022.

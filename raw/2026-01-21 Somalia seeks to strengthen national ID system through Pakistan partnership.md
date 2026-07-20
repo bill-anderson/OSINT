@@ -12,6 +12,7 @@ places: [SOM]
 topics: [dpi.id]
 entities: [[nira-somalia], [snid]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Somalia seeks to strengthen national ID system through Pakistan (NADRA) partnership

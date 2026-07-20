@@ -3,6 +3,9 @@ type: source
 title: "Télécommunications : le Bénin, le Sénégal et le Togo lancent un roaming sans frontières"
 url: https://lanation.bj/numerique/telecommunications-le-benin-le-senegal-et-le-togo-lancent-un-roaming-sans-frontieres
 publisher: La Nation
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Isidore GOZO
 published: 2026-04-26
 date_precision: day

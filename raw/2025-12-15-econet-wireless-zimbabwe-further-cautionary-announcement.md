@@ -10,6 +10,7 @@ ingested: 2026-07-20
 places: [ZWE]
 topics: [tech.industry, finance.new, infra.connect, infra.store, infra.energy]
 entities: [[econet-wireless-zimbabwe], [econet-infraco], [victoria-falls-stock-exchange], [zimbabwe-stock-exchange], [douglas-mboweni]]
+lens: []
 body_completeness: full
 ---
 

@@ -6,6 +6,7 @@ publisher: Togo First
 published: 2026-01-23
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [TGO]
 topics: [dpi.id, digital.rural]
 entities: [[agence-nationale-identification-togo], [e-id-togo], [wuri], [world-bank]]

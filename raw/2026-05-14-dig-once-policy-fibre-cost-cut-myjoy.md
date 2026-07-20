@@ -6,12 +6,14 @@ publisher: MyJoyOnline
 published: 2026-05-14
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: GHA-2026-07-17
 places: [GHA]
 topics: [infra.connect, gov.policy]
 entities: [[samuel-nartey-george]]
 lens: []
+body_completeness: full
 ---
 
 # Government says 'Dig Once' policy could cut fibre rollout costs by up to 60%

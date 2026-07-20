@@ -14,6 +14,7 @@ places: [AGO]
 topics: [dpi.id, gov.legislate, dpi.registry, include.access]
 entities: [[ministerio-da-justica-e-dos-direitos-humanos-angola], [marcy-lopes], [bilhete-de-identidade-angola]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # BI passará a ser documento único válido para identificação

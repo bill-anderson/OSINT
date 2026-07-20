@@ -11,6 +11,7 @@ places: [ZAF, XAF]
 topics: [infra.store, tech.ai, geopol.usa]
 entities: [[google], [amazon-web-services]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Google launches first African cloud region in Johannesburg (GCP)

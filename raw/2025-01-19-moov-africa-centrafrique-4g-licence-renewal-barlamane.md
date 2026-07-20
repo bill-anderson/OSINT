@@ -6,10 +6,12 @@ publisher: Barlamane
 published: 2025-01-19
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [CAF]
 topics: [infra.connect, gov.legislate, include.divides]
 entities: [[moov-africa-centrafrique], [maroc-telecom], [arcep-central-african-republic], [orange-centrafrique], [telecel-centrafrique]]
 lens: []
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: CAF-2026-07-17
 ---

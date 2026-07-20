@@ -12,6 +12,7 @@ places: [SOM]
 topics: [dpi.id, geopol.usa, infra.cybersec]
 entities: [[nira-somalia]]
 lens: [sovereignty, colonialism]
+body_completeness: full
 ---
 
 # FBI seeks vendors to support Somalia's biometric identification system

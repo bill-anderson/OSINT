@@ -11,6 +11,7 @@ places: [DZA, XAF]
 topics: [gov.regional, gov.standards, tech.industry, geopol.eu, gov.legislate]
 entities: [[algiers-declaration], [african-telecommunications-union]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Algiers Declaration: Africa's OTT Platform Rules

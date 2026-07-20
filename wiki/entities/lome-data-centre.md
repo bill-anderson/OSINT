@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: resource
 title: Lomé Data Centre (LDC)
 places: [TGO]

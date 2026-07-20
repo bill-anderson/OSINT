@@ -3,6 +3,8 @@ type: source
 title: "Nigeria's Disharmonised Digital System Leaving Low-Income Farmers Behind"
 publisher: HumAngle Media
 url: https://humanglemedia.com/nigerias-disharmonised-digital-system-leaving-low-income-farmers-behind/
+date_precision: day
+date_source: source
 author: Obidah Habila Albert
 published: 2026-03-03
 accessed: 2026-07-11

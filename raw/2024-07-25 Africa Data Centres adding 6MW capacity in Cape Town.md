@@ -12,6 +12,7 @@ places: [ZAF]
 topics: [infra.store, infra.energy, infra.connect, finance.new]
 entities: [[africa-data-centres], [cassava-technologies], [us-dfc], [distributed-power-africa]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 *HISTORICAL BASELINE and the primary origin of the DFC-backed claim the wiki holds unquantified: it puts a figure on it (a loan of up to $300m from the US DFC) and dates the CPT1 uplift (5.5 MW to 11.5 MW, roughly doubling Cape Town capacity). Distinct from the November 2024 20 MW programme — that later piece explicitly back-references this July uplift, which self-corroborates both dates.*

@@ -3,6 +3,9 @@ type: source
 title: "IA générative: L'innovation qui bouscule la cybersécurité"
 url: https://lanation.bj/numerique/ia-generative-linnovation-qui-bouscule-la-cybersecurite
 publisher: La Nation
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Isidore Gozo
 published: 2026-01-20
 date_precision: day

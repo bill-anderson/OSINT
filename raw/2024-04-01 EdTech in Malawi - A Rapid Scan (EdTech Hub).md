@@ -14,6 +14,7 @@ places: [MWI]
 topics: [capacity.training, dpi.mis]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 EdTech Hub rapid evidence review (April 2024; DOI 10.53832/edtechhub.0152) scanning the education-technology landscape in Malawi - policy, infrastructure, and use of technology in education - contributed to by University of Malawi researchers and supported by UKAid, the Gates Foundation, World Bank and UNICEF.

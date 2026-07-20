@@ -6,10 +6,12 @@ publisher: La Nation (Djibouti)
 published: 2026-07-09
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [DJI, ETH, XEA]
 topics: [infra.cybersec, gov.regional, capacity.training, infra.capacity]
 entities: [[national-cybersecurity-authority-djibouti], [dj-cert], [igad]]
 lens: [sovereignty]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: DJI-2026-07-17
 ---

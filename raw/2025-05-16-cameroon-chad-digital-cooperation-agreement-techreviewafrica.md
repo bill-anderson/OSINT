@@ -3,6 +3,7 @@ type: source
 title: Cameroon and Chad forge digital alliance through cooperation agreement
 url: https://techreviewafrica.com/news/2321
 publisher: Tech Review Africa
+ingested: 2026-07-18
 author: Kanto Kai Okanta
 published: 2025-05-16
 date_precision: day
@@ -11,6 +12,7 @@ places: [CMR, TCD, XCA]
 topics: [infra.connect, gov.regional, finance.mou, dpi.exchange, include.access, include.divides, digital.rural]
 entities: [[camtel], [sotel-tchad], [minpostel]]
 lens: [sovereignty]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: CMR-2026-07-17
 ---

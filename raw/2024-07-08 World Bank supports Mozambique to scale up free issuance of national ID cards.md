@@ -13,6 +13,7 @@ places: [MOZ]
 topics: [dpi.id, dpi.registry, include.access]
 entities: [[edge-mozambique], [dnic-mozambique], [world-bank]]
 lens: []
+body_completeness: full
 ---
 
 The World Bank is supporting Mozambique to ease access to free national ID cards and bridge the identification gap. More than 140,000 individuals obtained national ID cards in the pilot phase that started in November 2023.

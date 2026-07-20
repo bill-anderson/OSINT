@@ -12,6 +12,7 @@ places: [UGA, KEN]
 topics: [gov.protect, dpi.id, gov.legislate, dpi.registry, gov.standards, tech.ai, infra.cybersec]
 entities: [[unwanted-witness], [personal-data-protection-office-uganda], [electoral-commission-uganda], [data-protection-and-privacy-act-uganda-2019], [odpc-kenya]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Uneven Enforcement of Data Protection Laws Puts Data Subjects’ Rights at Risk in Uganda’s 2026 Polls

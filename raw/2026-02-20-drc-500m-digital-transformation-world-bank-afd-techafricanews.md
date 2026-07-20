@@ -6,10 +6,12 @@ publisher: TechAfrica News
 published: 2026-02-20
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [COD]
 topics: [gov.policy, finance.new, infra.connect, infra.store, infra.cybersec, dpi.govtech, dpi.registry, capacity.training, tech.ai]
 entities: [[drc-national-digital-plan-pnn2], [world-bank], [idea-mpa]]
 lens: [sovereignty]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: COD-2026-07-17
 ---

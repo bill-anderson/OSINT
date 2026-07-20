@@ -3,6 +3,8 @@ type: source
 title: "Zambia unveils online passport application system"
 publisher: ITWeb Africa
 url: https://itweb.africa/article/zambia-unveils-online-passport-application-system/
+date_precision: day
+date_source: source
 author: Staff Writer
 published: 2026-01-08
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [ZMB]
 topics: [dpi.govtech, dpi.id, gov.protect, include.access]
 entities: [[smart-zambia-institute]]
 lens: []
+body_completeness: excerpt
 ---
 
 <!-- Zambia launched an Online Passport Application & Payment System (~8 Jan 2026, SMART Zambia Institute e-Gov Division); >1,000 passports already processed online; framed around transparency, reduced delays, data protection. Paperless push projected to save >ZMW400m (~$15m). -->

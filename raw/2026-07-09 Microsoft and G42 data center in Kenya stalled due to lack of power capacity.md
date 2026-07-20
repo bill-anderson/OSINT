@@ -4,11 +4,14 @@ title: Microsoft and G42 data center in Kenya stalled due to lack of power capac
 url: https://www.datacenterdynamics.com/en/news/microsoft-and-g42-data-center-in-kenya-stalled-due-to-lack-of-power-capacity/
 publisher: DatacenterDynamics
 published: 2026-07-09
+date_precision: day
+date_source: source
 ingested: 2026-07-10
 places: [KEN, XEA]
 topics: [infra.store, infra.energy, infra.capacity, tech.ai, finance.new, geopol.usa, geopol.gulf]
 entities: [[microsoft], [g42], [microsoft-g42-kenya-datacenter], [william-ruto]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 Plans from Microsoft and UAE-based G42 to establish a data center in Kenya have hit a roadblock.

@@ -10,6 +10,7 @@ places: [GNB]
 topics: [dpi.id, dpi.registry, dpi.govtech]
 entities: [[sirec], [undp]]
 lens: []
+body_completeness: full
 retrieved: 2026-07-17
 ingested: 2026-07-18
 sweep_batch: GNB-2026-07-17

@@ -13,6 +13,7 @@ places: [NAM]
 topics: [dpi.registry, dpi.id, gov.protect, gov.legislate]
 entities: [[namibia-civil-registration-identification-act-2024], [undp]]
 lens: []
+body_completeness: full
 ---
 
 Namibia's newly proposed Civil Registration and Identification Bill has been praised for containing essential data-protection elements, per a review by the Association for Progressive Communications (APC) in its series on digital rights and identity in southern Africa.

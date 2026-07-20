@@ -11,6 +11,7 @@ places: [SEN]
 topics: [dpi.registry, include.access, data.statistics]
 entities: [[rnu-senegal], [dgpsn-senegal]]
 lens: []
+body_completeness: full
 ---
 
 # Social protection — the RNU rises from 542,000 to one million households

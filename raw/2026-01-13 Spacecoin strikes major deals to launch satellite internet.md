@@ -3,6 +3,8 @@ type: source
 title: "Spacecoin strikes major deals to launch satellite internet"
 publisher: ITWeb Africa
 url: "https://itweb.africa/article/spacecoin-strikes-major-deals-to-launch-satellite-internet/nWJadMbNzjxMbjO1"
+date_precision: day
+date_source: source
 author: Lezeth Khoza
 published: 2026-01-13
 accessed: 2026-07-12
@@ -11,6 +13,7 @@ places: [KEN, NGA, XGL]
 topics: [infra.connect, data.satellite, tech.industry]
 entities: [[spacecoin], [communications-authority-of-kenya], [ncc], [starlink], [spacex]]
 lens: []
+body_completeness: excerpt
 ---
 <!-- Spacecoin (blockchain-integrated satellite operator, founder Tae Oh) announced pilots incl. a transmission licence with the Communications Authority of Kenya for satellite IoT/connectivity + continued work under an existing NCC (Nigeria) licence; also Indonesia/Cambodia (MekongNet) — non-African, XGL only. Launched 3 more satellites late Nov 2025. Starlink dominant (26 nations). Attach: [[spacecoin]], communications-authority-of-kenya, ncc, KEN/NGA hubs. -->
 

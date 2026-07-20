@@ -13,6 +13,7 @@ places: [MRT]
 topics: [dpi.id, dpi.govtech, include.access]
 entities: [[houwiyeti], [tech5], [undp], [mtnima-mauritania]]
 lens: []
+body_completeness: full
 ---
 
 UNDP blog on Mauritania's pilot of an inclusive, open-source, mobile-based digital identity solution, e-ID Mauritania. UNDP is working with the Ministry of Digital Transformation, Innovation and Public Sector Modernization (MTNIMA) to advance the country's digital-identity infrastructure. In Mauritania, 44% of the population lives in rural areas with limited connectivity, making inclusive design imperative.

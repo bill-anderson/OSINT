@@ -3,6 +3,8 @@ type: source
 title: "Microsoft picks South Africa for $329 million expansion in cloud infrastructure and AI training"
 publisher: Business Insider Africa
 url: https://africa.businessinsider.com/local/markets/microsoft-picks-south-africa
+date_precision: day
+date_source: source
 author: Solomon Ekanem
 published: 2026-04-17
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [ZAF]
 topics: [infra.store, tech.ai, infra.energy, capacity.training, geopol.usa]
 entities: [[microsoft], [microsoft-sa-2026-expansion]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Microsoft $329m (~R5.4bn) SA expansion: DC expansion, power/water readiness, land, AI skills; builds on prior $1.2bn. Partners Lelapa AI. SAME event as the 'Microsoft secures land' item (one node, two sources). -->

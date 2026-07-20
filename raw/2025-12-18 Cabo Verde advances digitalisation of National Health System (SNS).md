@@ -11,6 +11,7 @@ places: [CPV]
 topics: [dpi.mis, dpi.id, dpi.exchange]
 entities: [[nosi]]
 lens: []
+body_completeness: full
 ---
 
 # Cabo Verde advances digitalisation of the National Health System (SNS)

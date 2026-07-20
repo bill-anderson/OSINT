@@ -3,6 +3,7 @@ type: source
 title: "Fichier électoral : la DGE annonce 6 948 894 électeurs et 23 681 bureaux pour les élections couplées du 31 mai 2026"
 url: https://mediaguinee.com/2026/04/fichier-electoral-la-dge-annonce-pres-de-7-millions-delecteurs-pour-les-elections-couplees-du-31-mai/
 publisher: Mediaguinee
+ingested: 2026-07-18
 author: Mayi Cissé
 published: 2026-04-25
 date_precision: day
@@ -13,6 +14,7 @@ places: [GIN]
 topics: [dpi.id, dpi.registry, data.statistics]
 entities: [[matd-guinea], [pn-ravec]]
 lens: []
+body_completeness: full
 ---
 
 # Fichier électoral : la DGE annonce près de 7 millions d'électeurs pour les élections couplées du 31 mai

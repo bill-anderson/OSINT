@@ -13,6 +13,7 @@ places: [MWI]
 topics: [dpi.id, gov.legislate, gov.protect]
 entities: [[macra-malawi], [national-registration-bureau-malawi]]
 lens: []
+body_completeness: full
 ---
 
 MACRA will launch a nationwide biometric SIM card registration programme from 1 July 2025 to combat mobile fraud and strengthen telecoms security, with a registration window running through September. All subscribers must link SIM cards to biometric identifiers (fingerprints or facial images); each person may register fewer than 10 SIMs per operator. The programme runs with the NRB to authenticate identities against Malawi's biometric ID system, with daily non-compliance fines up to K50,000 (individuals) and K150,000 (corporates).

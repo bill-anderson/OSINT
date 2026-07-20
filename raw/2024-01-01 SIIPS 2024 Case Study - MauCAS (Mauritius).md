@@ -13,6 +13,7 @@ places: [MUS]
 topics: [dpi.pay, include.access]
 entities: [[maucas]]
 lens: []
+body_completeness: full
 ---
 
 Case study on the Mauritius Central Automated Switch (MauCAS) from the State of Inclusive Instant Payment Systems in Africa (SIIPS) 2024 report. Profiles MauCAS as Mauritius's national instant-payment switch — its role in interoperable, real-time retail payments and its contribution to financial inclusion. Filed as a reference artefact profiling the MauCAS system; cite for institutional/design detail rather than promoting its dated figures.

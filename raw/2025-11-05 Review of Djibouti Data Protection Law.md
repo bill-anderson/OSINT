@@ -11,6 +11,7 @@ places: [DJI]
 topics: [gov.protect, dpi.exchange]
 entities: [[cndp-djibouti], [djibouti-digital-code]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Review of Djibouti's Data Protection Law (within the Digital Code)

@@ -1,10 +1,13 @@
 ---
 type: source
+ingested: 2026-07-17
 places: [NGA]
 topics: [dpi.id, dpi.exchange]
 entities: [[nimc], [ninauth]]
 date_precision: day
 date_source: source
+lens: []
+body_completeness: full
 page: Nigeria unveils platform to streamline national ID authentication, verification - Biometric Update
 title: Nigeria unveils platform to streamline national ID authentication, verification
 author: Ayang Macdonald

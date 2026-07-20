@@ -6,10 +6,12 @@ publisher: L'Express de Madagascar
 published: 2025-12-02
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [MDG]
 topics: [infra.connect, include.access, gov.policy]
 entities: [[mg-ministry-digital-development]]
 lens: []
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: MDG-2026-07-17
 ---

@@ -3,6 +3,7 @@ type: source
 title: Burundi Launches Digital Civil Registry and Biometric ID Initiative
 url: https://www.wearetech.africa/en/fils-uk/news/tech/burundi-launches-digital-civil-registry-and-biometric-id-initiative
 publisher: We Are Tech Africa
+ingested: 2026-07-18
 author: Ange J.A de Berry Quenum
 published: 2026-05-08
 date_precision: day
@@ -13,6 +14,7 @@ places: [BDI]
 topics: [dpi.id, dpi.registry, dpi.govtech, include.divides]
 entities: [[ministry-of-interior-burundi]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Burundi Launches Digital Civil Registry and Biometric ID Initiative

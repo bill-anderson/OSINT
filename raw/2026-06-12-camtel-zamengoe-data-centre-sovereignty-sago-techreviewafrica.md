@@ -3,6 +3,7 @@ type: source
 title: CAMTEL highlights digital sovereignty and data protection at Government Action Fair in Yaoundé
 url: https://techreviewafrica.com/news/5885/camtel-highlights-digital-sovereignty-and-data-protection-at-government-action-fair-in-yaounde
 publisher: Tech Review Africa
+ingested: 2026-07-18
 author: Robert Kwaku Annor
 published: 2026-06-12
 date_precision: day
@@ -11,6 +12,7 @@ places: [CMR, XCA]
 topics: [infra.store, gov.protect, dpi.govtech, tech.industry]
 entities: [[camtel], [zamengoe-data-centre]]
 lens: [sovereignty]
+body_completeness: full
 provenance_flag: pr-wire
 provenance_note: >
   Tech Review Africa is a byline-free PR-wire outlet; this item reads as CAMTEL

@@ -12,6 +12,7 @@ places: [TZA]
 topics: [gov.protect, gov.legislate, gov.standards]
 entities: [[tanzania-pdpa], [pdpc-tanzania]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 *Named practitioner/academic analysis. Carries the canonical PDPA dates (passed 2022-11-27, in force 2023-05-01) and the s.15 registration deadline that expired 2025-04-30 — one week before this piece. Complementary to the Clyde & Co breach-notification piece: non-overlapping sections of the same statute.*

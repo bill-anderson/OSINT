@@ -6,12 +6,14 @@ publisher: ACTUALITE.CD
 published: 2026-06-26
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: COD-2026-07-17
 places: [COD]
 topics: [dpi.govtech, capacity.training, gov.policy, infra.cybersec]
 entities: [[ministere-economie-nationale-drc], [abolia-taba-mopolo], [e-controle-drc], [felix-tshisekedi]]
 lens: []
+body_completeness: full
 ---
 
 Photo d'illustration

@@ -10,6 +10,8 @@ ingested: 2026-07-17
 places: [SYC]
 topics: [dpi.pay, include.access, gov.policy, finance.new]
 entities: [[central-bank-of-seychelles], [seft-seychelles]]
+lens: []
+body_completeness: full
 ---
 
 Note on provenance: the original Seychelles News Agency page returned HTTP 403 on two fetch attempts. The body below is reconstructed faithfully from a same-day syndicated republication of this SNA article (Capmad, dated 2024-09-22), which carries the figures, dates and named source. The "published" date (2024-09-22) is taken from that syndication and is a proxy for the SNA publication date, which is late September 2024.

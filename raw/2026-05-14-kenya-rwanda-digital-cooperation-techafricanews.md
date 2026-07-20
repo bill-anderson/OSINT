@@ -3,6 +3,8 @@ type: source
 title: Kenya and Rwanda Strengthen Digital Economy Cooperation in AI and Infrastructure Push
 url: https://techafricanews.com/2026/05/14/kenya-and-rwanda-strengthen-digital-economy-cooperation-in-ai-and-infrastructure-push/
 publisher: TechAfrica News
+ingested: 2026-07-19
+lens: []
 author: Kay-Lyne Wolfenden
 published: 2026-05-14
 date_precision: day

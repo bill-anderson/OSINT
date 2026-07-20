@@ -6,6 +6,7 @@ publisher: TechAfrica News
 published: 2025-06-26
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [MWI]
 topics: [infra.connect, gov.policy, tech.industry]
 entities: [[macra-malawi]]

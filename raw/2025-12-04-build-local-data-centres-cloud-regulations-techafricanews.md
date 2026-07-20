@@ -6,10 +6,12 @@ publisher: TechAfrica News
 published: 2025-12-04
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [MOZ]
 topics: [infra.store, gov.legislate, dpi.pay]
 entities: [[intic-mozambique]]
 lens: [sovereignty]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: MOZ-2026-07-17
 ---

@@ -6,12 +6,14 @@ publisher: We Are Tech Africa
 published: 2025-09-29
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [dpi.exchange, dpi.govtech, geopol.eu, gov.standards, dpi.registry]
 entities: [[cybernetica], [uxp], [sndi-cote-divoire], [oneci], [ibrahim-kalil-konate], [digital-nation]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # La Côte d'Ivoire lance une plateforme d'interopérabilité pour fluidifier l'administration

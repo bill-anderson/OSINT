@@ -1,6 +1,7 @@
 ---
 type: source
 title: هكذا يتم حماية خصوصيات الجزائريين بالمؤسسات العمومية
+ingested: 2026-07-18
 title_en: Presidential Decree 26-07 mandates cybersecurity/data-protection units in every public body
 url: https://www.echoroukonline.com/%D9%87%D9%83%D8%B0%D8%A7-%D9%8A%D8%AA%D9%85-%D8%AD%D9%85%D8%A7%D9%8A%D8%A9-%D8%AE%D8%B5%D9%88%D8%B5%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1%D9%8A%D9%8A%D9%86-%D8%A8%D8%A7%D9%84
 publisher: Echorouk El Yawmi
@@ -14,6 +15,7 @@ places: [DZA]
 topics: [gov.protect, infra.cybersec, gov.legislate, dpi.govtech]
 entities: [[abdelmadjid-tebboune, anpdcp, information-systems-security-agency, decree-26-07]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # هكذا يتم حماية خصوصيات الجزائريين بالمؤسسات العمومية

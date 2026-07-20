@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: instrument
 title: ASYCUDA (Automated System for Customs Data)
 places: [XGL]

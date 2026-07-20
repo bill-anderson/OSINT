@@ -3,6 +3,9 @@ type: source
 title: First Capital Bank rolls out instant SADC payments
 url: https://www.sundaystandard.info/first-capital-bank-rolls-out-instant-sadc-payments/
 publisher: Sunday Standard
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Cedric Swanka
 published: 2026-03-09
 date_precision: day

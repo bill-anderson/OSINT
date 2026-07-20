@@ -6,6 +6,7 @@ publisher: Biometric Update
 published: 2026-06-08
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: ZMB-2026-07-17

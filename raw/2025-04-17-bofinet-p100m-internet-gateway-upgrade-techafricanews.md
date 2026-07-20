@@ -3,6 +3,7 @@ type: source
 title: BoFiNet Entrusts P100M Internet Gateway Upgrade to Citizen-Owned Companies
 url: https://techafricanews.com/2025/04/17/bofinet-entrusts-p100m-internet-gateway-upgrade-to-citizen-owned-companies/
 publisher: TechAfrica News
+ingested: 2026-07-18
 author: Aayushya Ranjan
 published: 2025-04-17
 date_precision: day

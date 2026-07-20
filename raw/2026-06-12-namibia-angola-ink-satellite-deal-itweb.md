@@ -3,6 +3,8 @@ type: source
 title: Namibia, Angola ink satellite deal for regional connectivity
 url: https://itweb.africa/article/namibia-angola-ink-satellite-deal-for-regional-connectivity/G98YdqLGjVoMX2PD
 publisher: ITWeb Africa
+lens: []
+body_completeness: full
 author: Lezeth Khoza
 published: 2026-06-12
 date_precision: day

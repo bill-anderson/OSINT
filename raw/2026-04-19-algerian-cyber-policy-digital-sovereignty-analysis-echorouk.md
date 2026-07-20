@@ -1,6 +1,7 @@
 ---
 type: source
 title: السياسة السيبرانية الجزائرية: تعزيز السيادة الرقمية وبناء بيئة رقمية مستدامة
+ingested: 2026-07-18
 title_en: Analysis — Algeria's cyber policy and digital sovereignty (EGDI 0.56; 38m internet users 2025; laws 18-05/18-07/09-04)
 url: https://www.echoroukonline.com/%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%B3%D8%A9-%D8%A7%D9%84%D8%B3%D9%8A%D8%A8%D8%B1%D8%A7%D9%86%D9%8A%D8%A9-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1%D9%8A%D8%A9-%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%A7
 publisher: Echorouk El Yawmi
@@ -14,6 +15,7 @@ places: [DZA]
 topics: [gov.policy, infra.cybersec, gov.protect, dpi.govtech, data.statistics]
 entities: [[anpdcp, haut-commissariat-a-la-numerisation]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # السياسة السيبرانية الجزائرية: تعزيز السيادة الرقمية وبناء بيئة رقمية مستدامة

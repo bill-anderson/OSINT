@@ -3,6 +3,9 @@ type: source
 title: Orange Digital Center Burkina Faso showcases youth digital skills programmes during ministerial visit
 url: https://techreviewafrica.com/news/6160/orange-digital-center-burkina-faso-showcases-youth-digital-skills-programmes-during-ministerial-visit
 publisher: Tech Review Africa
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Nana Appiah Acquaye
 published: 2026-07-04
 date_precision: day

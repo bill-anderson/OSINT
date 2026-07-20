@@ -3,6 +3,7 @@ type: source
 title: "Mise en œuvre de la carte d'identité biométrique de la Cedeao : les médias appelés à jouer un rôle clé dans la sensibilisation"
 url: https://lanation.bj/numerique/mise-en-oeuvre-de-la-carte-didentite-biometrique-de-la-cedeao-les-medias-appeles-a-jouer-un-role-cle-dans-la-sensibilisation
 publisher: La Nation
+ingested: 2026-07-18
 author: Isidore GOZO
 published: 2026-06-03
 date_precision: day
@@ -13,6 +14,7 @@ places: [BEN]
 topics: [dpi.id, gov.regional, gov.standards, include.access, capacity.literacy]
 entities: [[ecowas], [iom], [chimene-lougbegnon-bossa], [albert-siaw-boateng], [seve-diomande]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Mise en œuvre de la carte d'identité biométrique de la Cedeao : les médias appelés à jouer un rôle clé dans la sensibilisation

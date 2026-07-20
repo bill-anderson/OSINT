@@ -6,6 +6,7 @@ publisher: The Namibian
 published: 2026-01-29
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [NAM]
 topics: [gov.policy, gov.legislate, infra.cybersec, include.divides, infra.connect]
 entities: [[emma-theofelus]]

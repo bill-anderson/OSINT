@@ -3,6 +3,7 @@ type: source
 title: Impact Palmarès revises digital visa deal with Cameroon, gets secure document printing contract
 url: https://www.biometricupdate.com/202512/impact-palmares-revises-digital-visa-deal-with-cameroon-gets-secure-document-printing-contract
 publisher: Biometric Update
+ingested: 2026-07-18
 author: Ayang Macdonald
 published: 2025-12-10
 date_precision: day
@@ -11,6 +12,7 @@ places: [CMR, CIV]
 topics: [dpi.id, dpi.govtech, gov.standards, finance.mou, tech.industry]
 entities: [[impact-palmares], [ministry-of-external-relations-cameroon], [cameroon-national-printing-press]]
 lens: [sovereignty]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: CMR-2026-07-17
 ---

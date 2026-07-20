@@ -6,6 +6,7 @@ publisher: ITWeb Africa
 published: 2026-01-13
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [KEN]
 topics: [dpi.pay, tech.innovate]
 entities: [[safaricom]]

@@ -13,6 +13,7 @@ places: [MLI]
 topics: [gov.policy, infra.connect, dpi.pay, include.access]
 entities: [[world-bank]]
 lens: []
+body_completeness: full
 ---
 
 A World Bank Digital Economy Country Diagnostic for Mali, assessing the foundations of the country's digital economy across digital infrastructure, digital public platforms, digital financial services, digital skills and digital entrepreneurship, and setting out constraints and reform priorities.

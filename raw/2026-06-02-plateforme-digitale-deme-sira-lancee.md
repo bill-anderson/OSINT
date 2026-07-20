@@ -3,6 +3,7 @@ type: source
 title: "Solidarité nationale: la plateforme digitale « Dèmè Sira » officiellement lancée"
 url: https://www.sidwaya.info/solidarite-nationale-la-plateforme-digitale-deme-sira-officiellement-lancee/
 publisher: Sidwaya
+ingested: 2026-07-18
 author: Fatimata ZOUNGRANA
 published: 2026-06-02
 date_precision: day
@@ -13,6 +14,7 @@ places: [BFA]
 topics: [dpi.govtech, dpi.mis, include.access, data.statistics, gov.protect, infra.store]
 entities: [[anptic]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Solidarité nationale: la plateforme digitale « Dèmè Sira » officiellement lancée

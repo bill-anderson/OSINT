@@ -13,6 +13,7 @@ places: [NAM]
 topics: [dpi.id, dpi.registry, gov.legislate, include.access]
 entities: [[namibia-digital-id], [namibia-civil-registration-identification-act-2024], [ministry-home-affairs-namibia], [undp]]
 lens: []
+body_completeness: full
 ---
 
 Namibia is finalising preparations to launch its national digital identity system, led by the Ministry of Home Affairs, Immigration, Safety and Security (MHAISS) with UNDP and other development partners. Namibia will be the first country to implement UNDP's Model Governance Framework for Digital Legal Identity (introduced in 2023).

@@ -14,6 +14,7 @@ places: [AGO]
 topics: [infra.connect, finance.new, infra.store, geopol.usa, geopol.china]
 entities: [[unitel], [2africa-cable], [aguinaldo-jaime], [mario-oliveira], [meta], [vodafone], [china-mobile-international], [mtn], [orange], [wiocc]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # UNITEL investe mais de USD 40 milhões em fibra óptica

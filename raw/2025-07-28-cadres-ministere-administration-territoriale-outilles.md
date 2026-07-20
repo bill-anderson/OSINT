@@ -3,6 +3,7 @@ type: source
 title: "Protection des données à caractère personnel : des cadres du ministère de l'Administration territoriale outillés"
 url: https://www.sidwaya.info/protection-des-donnees-a-caractere-personnel-des-cadres-du-ministere-de-ladministration-territoriale-outilles/
 publisher: Sidwaya
+ingested: 2026-07-18
 author: Nadège YAMEOGO et Djamila KOURAOGO
 published: 2025-07-28
 date_precision: day
@@ -13,6 +14,7 @@ places: [BFA]
 topics: [gov.protect, gov.legislate, capacity.training, digital.localgov]
 entities: [[cil-burkina-faso], [halguieta-nassa], [rimtalba-jean-emmanuel-ouedraogo]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Protection des données à caractère personnel : des cadres du ministère de l'Administration territoriale outillés

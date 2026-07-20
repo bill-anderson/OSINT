@@ -6,6 +6,7 @@ publisher: Biometric Update
 published: 2025-10-27
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [MWI]
 topics: [dpi.id, dpi.registry, gov.policy, include.access]
 entities: [[national-registration-bureau-malawi], [undp]]

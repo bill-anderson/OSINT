@@ -3,6 +3,7 @@ type: source
 title: Burundi Adopts National Data Governance Strategy
 url: https://www.wearetech.africa/en/fils-uk/news/burundi-adopts-national-data-governance-strategy
 publisher: We Are Tech Africa
+ingested: 2026-07-18
 author: La Rédaction
 published: 2025-11-14
 date_precision: day
@@ -13,6 +14,7 @@ places: [BDI]
 topics: [gov.policy, gov.protect, gov.standards, data.statistics]
 entities: [[uneca], [au-data-policy-framework]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Burundi Adopts National Data Governance Strategy

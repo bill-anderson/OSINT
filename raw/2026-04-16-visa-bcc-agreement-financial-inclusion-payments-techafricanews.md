@@ -6,10 +6,12 @@ publisher: TechAfrica News
 published: 2026-04-16
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [COD]
 topics: [dpi.pay, finance.mou, include.access, gov.policy, infra.cybersec, capacity.literacy, capacity.training, geopol.usa]
 entities: [[visa], [banque-centrale-du-congo]]
 lens: []
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: COD-2026-07-17
 ---

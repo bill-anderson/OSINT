@@ -11,6 +11,7 @@ places: [DZA]
 topics: [dpi.pay, dpi.govtech]
 entities: [[high-commission-digitalisation-algeria]]
 lens: []
+body_completeness: full
 ---
 
 # Algeria launches Tabioucom fiscal-stamp-duty e-payment platform

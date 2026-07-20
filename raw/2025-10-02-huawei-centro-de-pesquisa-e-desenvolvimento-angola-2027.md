@@ -14,6 +14,7 @@ places: [AGO]
 topics: [geopol.china, tech.industry, capacity.training, capacity.research, tech.ai, include.divides]
 entities: [[huawei], [joao-lourenco], [hover-gao], [antonio-hou]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Huawei pretende instalar centro de pesquisa e desenvolvimento em Angola até 2027

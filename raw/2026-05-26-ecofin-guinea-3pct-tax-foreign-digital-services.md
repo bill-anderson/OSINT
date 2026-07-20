@@ -3,6 +3,7 @@ type: source
 title: "Guinea introduces 3% tax on foreign digital services; creates Digital Sovereignty Fund (decree, 21 May 2026)"
 url: https://www.ecofinagency.com/news-digital/2605-55916-guinea-introduces-3-tax-on-foreign-digital-services
 publisher: Ecofin Agency
+ingested: 2026-07-18
 author: Samira Njoya
 published: 2026-05-26
 date_precision: day
@@ -13,6 +14,7 @@ places: [GIN]
 topics: [gov.legislate, infra.store, geopol.usa, finance.new]
 entities: [[mamadi-doumbouya]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Guinea Introduces 3% Tax on Foreign Digital Services

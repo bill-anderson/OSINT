@@ -13,6 +13,7 @@ places: [BEN]
 topics: [tech.innovate, data.statistics]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 <!-- COMPANION SOURCE PAGE for binary raw/2024-01-01 WIPO Global Innovation Index 2024 - Benin profile.pdf (date proxied to year). WIPO GII 2024 Benin: ranks 119th of 133 economies; 32nd of 38 lower-middle-income; 16th of 27 in Sub-Saharan Africa — mid-pack for SSA and notably ahead of regional low-income peers. Benchmark for Benin's innovation standing. -->

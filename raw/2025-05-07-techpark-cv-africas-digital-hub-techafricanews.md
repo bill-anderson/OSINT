@@ -6,12 +6,14 @@ publisher: TechAfrica News
 published: 2025-05-07
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CPV-2026-07-17
 places: [CPV]
 topics: [tech.innovate, tech.industry, finance.new, capacity.training]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 Cabo Verde launches TechPark CV, a state-of-the-art technology hub backed by AfDB, positioning itself as a global digital gateway.

@@ -13,6 +13,7 @@ places: [LBY]
 topics: [gov.policy, infra.connect, include.divides]
 entities: [[gia-libya]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Industry overview (Alwadi Communications, private ICT firm). Libya making strides in digitalization. Drivers: GIA developing a national digital-transformation strategy (e-governance, financial inclusion, cybersecurity); EU-funded E-nable Project; expanding internet (2025: 14.6m mobile connections, 6.4m social media). Challenges: infrastructure (rural high-speed access), regulatory/bureaucratic delays, talent/skills gap, cybersecurity/data protection. Opportunities: cloud/AI, e-commerce/digital payments, partnerships. Trends: AI/automation, 5G/IoT, cybersecurity investment. Promotional in places (Alwadi self-references). -->

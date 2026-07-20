@@ -10,6 +10,7 @@ type: source
 places: [AGO]
 topics: [data.statistics, gov.policy, include.divides]
 entities: [[ine-angola], [joel-futi], [censo-2024-angola], [united-nations], [angop]]
+lens: []
 body_completeness: full
 ---
 

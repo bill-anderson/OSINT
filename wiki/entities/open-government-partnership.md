@@ -8,6 +8,7 @@ topics: [gov.policy, dpi.govtech, gov.protect]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-16
+sources: []
 ---
 
 # Open Government Partnership (OGP)

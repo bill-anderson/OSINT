@@ -6,6 +6,7 @@ publisher: Tech Review Africa
 published: 2026-01-02
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 provenance_flag: pr-wire
@@ -13,6 +14,7 @@ places: [DZA]
 topics: [infra.connect, gov.policy, dpi.govtech]
 entities: [[algeria-ministry-of-post-and-telecommunications], [algeria-post]]
 lens: []
+body_completeness: full
 ---
 
 **Primary source to obtain at ingest:** the Ministry of Post and Telecommunications' own year-end statement by Minister Sid Ali Zerrouki (the wire carries no figures — the ministry text should supply the underlying sector metrics).

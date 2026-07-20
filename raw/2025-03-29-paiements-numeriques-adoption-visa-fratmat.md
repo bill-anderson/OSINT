@@ -6,12 +6,14 @@ publisher: Fraternité Matin
 published: 2025-03-29
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [dpi.pay, gov.protect]
 entities: [[visa], [anssi-cote-divoire]]
 lens: []
+body_completeness: full
 ---
 
 # Paiements numériques en Côte d'Ivoire : Une adoption croissante sous haute vigilance

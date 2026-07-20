@@ -3,6 +3,9 @@ type: source
 title: "Fintechs : L'IA pilote désormais 70 % des fraudes biométriques en Afrique"
 url: https://leconomie.info/fintechs-lia-pilote-desormais-70-des-fraudes-biometriques-en-afrique/
 publisher: Le quotidien L'Economie
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Fadira Etonde
 published: 2026-03-12
 date_precision: day

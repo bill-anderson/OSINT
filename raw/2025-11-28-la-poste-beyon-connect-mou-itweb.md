@@ -6,12 +6,14 @@ publisher: ITWeb Africa
 published: 2025-11-28
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [dpi.id, dpi.govtech, finance.mou]
 entities: [[la-poste-de-cote-divoire], [beyon-connect], [post-connect], [artci], [ministry-of-digital-transition-cote-divoire]]
 lens: []
+body_completeness: full
 ---
 
 By Lezeth Khoza, Junior journalist. Johannesburg, 28 Nov 2025.

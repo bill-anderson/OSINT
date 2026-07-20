@@ -3,6 +3,9 @@ type: source
 title: Botswana moves to strengthen agricultural data integration
 url: https://www.mmegi.bw/news/botswana-moves-to-strengthen-agricultural-data-integration/news
 publisher: Mmegi
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Pini Bothoko
 published: 2026-06-15
 date_precision: day

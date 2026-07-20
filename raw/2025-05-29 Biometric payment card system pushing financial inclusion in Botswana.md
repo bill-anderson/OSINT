@@ -13,6 +13,7 @@ places: [BWA]
 topics: [dpi.pay, dpi.id, include.access]
 entities: [[smartswitch-botswana]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Biometric Update (May 2025): SmartSwitch Botswana (a Lesaka Technologies subsidiary) reports 75,000+ food-voucher beneficiaries completed digital purchases at local stores using its biometrics-enabled smart-card system, built on Botswana's Universal Electronic Payment System (UEPS) infrastructure. Biometric-linked G2P/social-benefit payments — the ID-payments nexus for inclusion. -->

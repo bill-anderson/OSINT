@@ -13,6 +13,7 @@ places: [CMR]
 topics: [dpi.id, dpi.registry, dpi.exchange]
 entities: [[bunec], [liber-technologies], [cameroon-civil-registration-law-2024]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Merges Biometric Update + ID Tech Wire (both 2025-10-27) on the same partnership (dedup). Cameroon's National Civil Status Registration Office (BUNEC) partnered Luxembourg-based Liber Technologies (est. 2017; secure document digitization, digital gov services — incl. Chad e-visa + digital land registration) to implement the new civil-registration law (Law 2024/016): digital birth/marriage/death certificates + a UPIN for every citizen. Goal: a fully digital CRVS system by 2029, integrated with the new biometric national ID and biometric voter kits. ID Tech Wire URL: idtechwire.com/cameroons-bunec-partners-with-liber-technologies-for-crvs-digitization. -->

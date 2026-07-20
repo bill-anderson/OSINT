@@ -6,6 +6,7 @@ publisher: Digital Business Africa
 published: 2026-06-01
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [TCD]
 topics: [geopol.usa, infra.connect, infra.store, dpi.mis, finance.mou]
 entities: [[ministry-telecom-digital-economy-chad], [starlink], [intersystems]]

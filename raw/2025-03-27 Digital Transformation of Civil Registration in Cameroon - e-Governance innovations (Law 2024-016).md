@@ -13,6 +13,7 @@ places: [CMR]
 topics: [dpi.registry, dpi.govtech, gov.legislate]
 entities: [[cameroon-civil-registration-law-2024], [bunec]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Peer-reviewed article (J. Digital Technologies and Law, 2025;3(1):7-34) on the e-governance innovations of Cameroon's 2024 civil-registration reforms (Law 2024/016): electronic declaration of civil-status acts, a national database, transition to electronic certificates — assessed for efficiency, transparency, accessibility and vital-statistics accounting. Flags barriers: insufficient tech equipment, limited internet access, low digital literacy; and the need to balance digitalisation with citizens' rights. Analysis (cite as analysis) on the CRVS legal reform. -->

@@ -13,6 +13,7 @@ places: [BEN]
 topics: [dpi.id, dpi.govtech, include.access]
 entities: [[anip-benin]]
 lens: []
+body_completeness: full
 ---
 
 <!-- ANIP 2025 performance data (released 26 Jan 2026): served 4 million citizens and issued 10.5 million civil-status + identity documents in 2025; ONLINE/REMOTE channels handled 75% of all identification procedures. Channel split: eservices.anip.bj 37%, ANIP BJ mobile app 30%, USSD 8%, physical counters 25%. Concrete evidence Benin's foundational-ID stack is now delivering at scale digitally. Feeds [[benin--dpi-id]]. -->

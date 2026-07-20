@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: instrument
 title: UPU S42 (international addressing standard)
 places: [XGL, TZA]

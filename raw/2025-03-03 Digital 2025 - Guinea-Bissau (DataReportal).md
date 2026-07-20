@@ -13,6 +13,7 @@ places: [GNB]
 topics: [infra.connect, include.divides, data.statistics]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 <!-- DataReportal Digital 2025: Guinea-Bissau (3 Mar 2025). Population 2.23m (46.1% urban, median age 19.4). Mobile connections 2.62m = 118% of pop (+13.9% YoY, 81.8% broadband). Internet users 723k, 32.5% penetration → 67.5% offline. Social media 443k (19.9%). Baseline for a new GNB hub. -->

@@ -6,6 +6,7 @@ publisher: Biometric Update
 published: 2025-05-01
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [NER]
 topics: [dpi.id, dpi.registry, include.access]
 entities: [[wuri-programme], [world-bank]]

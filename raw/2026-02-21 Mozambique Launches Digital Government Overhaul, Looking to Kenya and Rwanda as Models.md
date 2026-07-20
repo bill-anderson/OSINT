@@ -3,6 +3,8 @@ type: source
 title: "Mozambique Launches Digital Government Overhaul, Looking to Kenya and Rwanda as Models"
 publisher: iAfrica
 url: https://iafrica.com/mozambique-launches-digital-government-overhaul-looking-to-kenya-and-rwanda-as-models/
+date_precision: day
+date_source: source
 author: Sean Whitehead
 published: 2026-02-21
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [MOZ]
 topics: [dpi.govtech, gov.policy, dpi.exchange, dpi.pay, gov.regional]
 entities: [[atdi-mozambique]]
 lens: []
+body_completeness: full
 ---
 
 <!-- President Daniel Chapo (first national digital-transformation conference, Maputo, ~Feb 2026) announced a plan to digitise all government services, modelled on Kenya & Rwanda; a Multi-Sector Technical Commission to draft a roadmap by mid-2026; a new Ministry of Communications & Digital Transformation. Mozambique ranks 177/193 on the 2024 UN E-Gov Index. -->

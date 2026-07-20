@@ -13,6 +13,7 @@ places: [LBY, NER]
 topics: [dpi.id, tech.industry, finance.new]
 entities: [[ecowas]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Primarily a NIGER story; retained as the signal of a Libyan biometrics vendor exporting identity systems. Al Itissan Al-Jadeed (Libyan) contracted to upgrade Niger's passport + national ID systems. PPP framework docs signed 27 Jun in Niamey. Two MoUs between Niger's Interior Min Maj Gen Mohamed Toumba + company director Wissal Samtali: (1) financing/construction/maintenance of a biometric passport system; (2) upgrading Niger's national ID architecture with a secure national digital ID. Passport: polycarbonate + biometric chips; digital archiving system. Follows the AES (Niger/Burkina/Mali) common passport after ECOWAS withdrawal. -->

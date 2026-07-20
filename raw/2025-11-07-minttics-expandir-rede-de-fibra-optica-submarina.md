@@ -3,6 +3,8 @@ type: source
 title: MINTTICS trabalha para expandir rede de fibra óptica submarina
 url: https://angop.ao/noticias/tecnologia/minttics-trabalha-para-expandir-rede-de-fibra-optica-submarina/
 publisher: Angop
+lens: []
+body_completeness: full
 author: CJ/PA
 published: 2025-11-07
 date_precision: day

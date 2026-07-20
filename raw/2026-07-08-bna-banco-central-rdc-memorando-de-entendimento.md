@@ -3,6 +3,8 @@ type: source
 title: BNA e Banco Central da RDC assinam memorando de entendimento
 url: https://angop.ao/noticias/economia/bna-e-banco-central-da-rdc-assinam-memorando-de-entendimento/
 publisher: Angop
+lens: []
+body_completeness: full
 author: AMC/CS
 published: 2026-07-08
 date_precision: day

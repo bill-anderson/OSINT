@@ -3,6 +3,8 @@ type: source
 title: "Cybernetica, Tony Blair Institute pilot digital credential wallet in Kenya"
 publisher: Biometric Update
 url: https://www.biometricupdate.com/202603/kenya-pilots-digital-credential-wallet-to-combat-fake-degrees-in-civil-service
+date_precision: day
+date_source: source
 author: Ayang Macdonald
 published: 2026-03-09
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [KEN]
 topics: [dpi.id, dpi.govtech, gov.standards]
 entities: [[cybernetica], [tony-blair-institute], [kenya-public-service-commission]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Cybernetica (Estonia) + Tony Blair Institute completed a verifiable-credentials proof-of-concept in Kenya (with the Public Service Commission) — wallet-based degree credentials on the W3C VC model, decentralized, interoperable; driven by an audit that found >2,000 fake certificates in a recruitment drive; aligns to Kenya's Trust Framework. Entities [[tony-blair-institute]], [[kenya-public-service-commission]]. -->

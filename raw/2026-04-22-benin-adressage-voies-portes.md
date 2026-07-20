@@ -3,6 +3,9 @@ type: source
 title: "Bénin : Adressage des voies et des portes"
 url: https://fraternite.bj/benin-adressage-des-voies-et-des-portes/
 publisher: Fraternité
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Isac YAI
 published: 2026-04-22
 date_precision: day

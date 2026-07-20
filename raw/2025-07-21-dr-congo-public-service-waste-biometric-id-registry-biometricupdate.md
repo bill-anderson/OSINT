@@ -6,10 +6,12 @@ publisher: Biometric Update
 published: 2025-07-21
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [COD]
 topics: [dpi.registry, dpi.mis, dpi.id, dpi.govtech, digital.localgov]
 entities: [[encore-drc], [world-bank], [rdc-pass], [trident-digital-tech]]
 lens: []
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: COD-2026-07-17
 ---

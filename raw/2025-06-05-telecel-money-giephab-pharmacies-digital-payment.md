@@ -3,6 +3,9 @@ type: source
 title: Telecel Money and Pharmacists partners to rollout digital payment in Burkina Faso
 url: https://techreviewafrica.com/news/2394/telecel-money-and-pharmacists-partners-to-rollout-digital-payment-in-burkina-faso
 publisher: Tech Review Africa
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Nana Appiah Acquaye
 published: 2025-06-05
 date_precision: day

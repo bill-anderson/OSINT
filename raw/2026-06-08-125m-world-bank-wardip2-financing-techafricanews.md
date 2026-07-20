@@ -6,12 +6,14 @@ publisher: TechAfrica News
 published: 2026-06-08
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: LBR-2026-07-17
 places: [LBR]
 topics: [finance.new, infra.connect, gov.regional, infra.cybersec, dpi.govtech]
 entities: [[world-bank], [wardip]]
 lens: []
+body_completeness: full
 ---
 
 # Liberia Secures $125 Million World Bank Support for Energy, Digital and Infrastructure Projects

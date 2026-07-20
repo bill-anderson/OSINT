@@ -3,6 +3,8 @@ type: source
 title: New ID verification process for Sassa grants - Here's who's affected
 url: https://www.citizen.co.za/news/south-africa/new-id-verification-process-sassa-grants-which-recipients
 publisher: The Citizen
+lens: []
+body_completeness: full
 author: Jarryd Westerdale
 published: 2025-04-24
 date_precision: day

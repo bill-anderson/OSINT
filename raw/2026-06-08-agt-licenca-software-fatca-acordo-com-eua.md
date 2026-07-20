@@ -14,6 +14,7 @@ places: [AGO]
 topics: [dpi.exchange, geopol.usa, gov.protect, dpi.govtech, finance.new]
 entities: [[agt-angola], [joao-lourenco], [fatca], [internal-revenue-service-eua]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # AGT: Mais de meio milhão de euros para licença de software de combate à evasão fiscal – PR aprovou despesa no âmbito do acordo com EUA

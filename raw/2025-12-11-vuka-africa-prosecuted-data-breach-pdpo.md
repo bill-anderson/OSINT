@@ -6,6 +6,7 @@ publisher: New Vision
 published: 2025-12-11
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [UGA]
 topics: [gov.protect, infra.cybersec]
 entities: [[personal-data-protection-office-uganda], [nita-uganda]]

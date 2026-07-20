@@ -3,6 +3,7 @@ type: source
 title: "Formalités à l’aéroport : la fiche de police se remplit désormais en ligne"
 url: https://www.sidwaya.info/formalites-a-laeroport-la-fiche-de-police-se-remplit-desormais-en-ligne/
 publisher: Sidwaya
+ingested: 2026-07-18
 author: Nadège YAMEOGO
 published: 2026-04-09
 date_precision: day
@@ -13,6 +14,7 @@ places: [BFA]
 topics: [dpi.govtech, dpi.exchange, dpi.registry, gov.policy]
 entities: [[safa-societe-des-aeroports-du-faso]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Formalités à l’aéroport : la fiche de police se remplit désormais en ligne

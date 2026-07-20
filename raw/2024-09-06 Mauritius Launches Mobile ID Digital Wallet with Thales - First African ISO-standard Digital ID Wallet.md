@@ -13,6 +13,7 @@ places: [MUS]
 topics: [dpi.id, dpi.govtech]
 entities: [[mauritius-mobile-id], [thales]]
 lens: []
+body_completeness: full
 ---
 
 Mauritius launched its Mobile ID system on 4 September 2024, supported by a Thales-led consortium and aimed at enhancing access to government services. Unveiled by Minister of Information Technology, Communication and Innovation Deepak (Darsanand) Balgobin, it forms part of the broader "Digital Mauritius 2030" effort. Balgobin said that with the Mobile ID implemented in the MWA digital wallet app, Mauritius becomes the first African country to introduce a digital ID wallet based on ISO standards. The app is available for Android and Apple.

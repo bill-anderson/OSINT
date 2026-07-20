@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: company
 title: CEET (Togo's national electricity utility)
 places: [TGO]

@@ -6,6 +6,7 @@ publisher: The Guardian (IPP Media)
 published: 2026-04-28
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [TZA]
 topics: [dpi.pay, gov.legislate]
 entities: [[bank-of-tanzania], [tips-tanzania]]

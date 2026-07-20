@@ -6,6 +6,7 @@ publisher: East Africa Business World
 published: 2026-05-29
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [TZA]
 topics: [dpi.pay, finance.new, tech.industry]
 entities: [[nala]]

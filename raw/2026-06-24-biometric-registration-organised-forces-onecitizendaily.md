@@ -3,6 +3,7 @@ type: source
 title: Government launches biometric registration exercise for organised forces
 url: https://www.onecitizendaily.com/index.php/2026/06/24/government-launches-biometric-registration-exercise-for-organised-forces/
 publisher: One Citizen Daily
+ingested: 2026-07-19
 author: One Citizen Daily Newspaper
 published: 2026-06-24
 date_precision: day

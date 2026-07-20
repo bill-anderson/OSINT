@@ -13,6 +13,7 @@ places: [CIV]
 topics: [gov.policy, infra.connect, tech.industry]
 entities: [[artci]]
 lens: []
+body_completeness: full
 ---
 
 <!-- US ITA Country Commercial Guide (May 2026): Côte d'Ivoire's digital transformation, aiming to be francophone West Africa's digital hub — expanding infrastructure/connectivity, financial inclusion, secure digital environment. Names ARTCI (regulator/DPA), ANSUT (universal service), the National Cybersecurity Agency, BCEAO, and the National Digital Development Strategy. Internet penetration projected 67% by 2025 (31.9% as of 2024, per Statista). Reference framing of CIV's digital-economy landscape. -->

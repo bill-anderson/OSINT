@@ -3,6 +3,9 @@ type: source
 title: How satellite connectivity is transforming Botswana's remote communities
 url: https://www.mmegi.bw/features/how-satellite-connectivity-is-transforming-botswanas-remote-communities/news
 publisher: Mmegi
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Odirile Tamajobe
 published: 2025-06-03
 date_precision: day

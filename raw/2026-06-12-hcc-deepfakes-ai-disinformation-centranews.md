@@ -6,10 +6,12 @@ publisher: Centra News
 published: 2026-06-12
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [CAF]
 topics: [tech.ai, infra.cybersec, gov.legislate, dpi.id, gov.protect]
 entities: [[haut-conseil-de-la-communication-car], [jose-richard-pouambi], [arcep-central-african-republic], [faustin-archange-touadera]]
 lens: [sovereignty]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: CAF-2026-07-17
 date_note: "Dateline in body reads 'Bangui, le 12 juin 2026'; the press conference it reports was 'ce mercredi 10 juin'. Exa served no date for this URL; the byline dateline is the source of record."

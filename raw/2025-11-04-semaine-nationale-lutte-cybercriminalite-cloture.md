@@ -3,6 +3,7 @@ type: source
 title: "Semaine nationale de lutte contre la cybercriminalité: les rideaux sont tombés sur des notes de satisfaction"
 url: https://www.sidwaya.info/semaine-nationale-de-lutte-contre-la-cybercriminalite-les-rideaux-sont-tombes-sur-des-notes-de-satisfaction/
 publisher: Sidwaya
+ingested: 2026-07-18
 author: Gustave KONATE (Collaborateur)
 published: 2025-11-04
 date_precision: day
@@ -13,6 +14,7 @@ places: [BFA]
 topics: [infra.cybersec, gov.policy, capacity.literacy]
 entities: [[bclcc], [orange-burkina-faso], [mahamadou-sana]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Semaine nationale de lutte contre la cybercriminalité: les rideaux sont tombés sur des notes de satisfaction

@@ -3,6 +3,8 @@ type: source
 title: "OUT, PDPC Launch National Data Protection Programme"
 publisher: Media Wire Express
 url: https://mediawireexpress.co.tz/out-pdpc-launch-national-data-protection-programme/
+lens: []
+body_completeness: full
 author: mwe-correspondent
 published: 2026-07-14
 date_precision: day

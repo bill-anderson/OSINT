@@ -3,6 +3,7 @@ type: source
 title: "Gouvernance publique : des recommandations pour booster l'application du Code sur la transparence"
 url: https://www.adiac-congo.com/content/gouvernance-publique-des-recommandations-pour-booster-lapplication-du-code-sur-la
 publisher: Les Dépêches de Brazzaville (ADIAC)
+ingested: 2026-07-18
 author: Parfait Wilfried Douniama
 published: 2026-07-16
 date_precision: day
@@ -13,6 +14,7 @@ places: [COG]
 topics: [data.open, gov.policy, dpi.govtech, data.statistics, digital.localgov, gov.standards]
 entities: [[cntr-congo]]
 lens: []
+body_completeness: full
 provenance_flag: state-aligned-outlet
 ---
 

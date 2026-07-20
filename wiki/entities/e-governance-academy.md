@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: organisation
 title: e-Governance Academy (eGA)
 places: [XGL, TUN, UGA]

@@ -13,6 +13,7 @@ places: [MDG]
 topics: [dpi.pay, include.access]
 entities: [[e-ariary], [mvola]]
 lens: []
+body_completeness: full
 ---
 
 Madagascar's central bank (Banky Foibem-pirenena Madagasikara) launched a 10-month pilot for its digital currency, the e-Ariary, on 23 May 2025, to modernise the financial system and boost inclusion. The initiative seeks to reduce reliance on physical cash, lower transaction costs, improve traceability and expand access, particularly in rural areas.

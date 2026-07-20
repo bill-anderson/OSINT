@@ -3,6 +3,7 @@ type: source
 title: "Assemblée nationale: L'article 6 de la loi sur l'identification des personnes physiques retouché"
 url: https://www.lanation.bj/actualites/assemblee-nationale-larticle-6-de-la-loi-sur-lidentification-des-personnes-physiques-retouche
 publisher: La Nation
+ingested: 2026-07-18
 author: Thibaud C. NAGNONHOU, A/R Ouémé-Plateau
 published: 2025-06-23
 date_precision: day
@@ -13,6 +14,7 @@ places: [BEN]
 topics: [dpi.id, gov.legislate, dpi.registry, include.access]
 entities: [[anip-benin], [assemblee-nationale-benin], [yvon-detchenou], [global-green-growth-institute]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Assemblée nationale: L'article 6 de la loi sur l'identification des personnes physiques retouché

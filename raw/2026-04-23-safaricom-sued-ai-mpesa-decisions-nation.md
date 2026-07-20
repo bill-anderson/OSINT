@@ -6,6 +6,7 @@ publisher: Daily Nation
 published: 2026-04-23
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [KEN]
 topics: [tech.ai, gov.protect, dpi.pay]
 entities: [[safaricom]]

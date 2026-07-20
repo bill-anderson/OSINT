@@ -6,6 +6,7 @@ publisher: ITWeb Africa
 published: 2026-02-24
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [UGA]
 topics: [dpi.pay, infra.connect]
 entities: [[airtel-uganda]]

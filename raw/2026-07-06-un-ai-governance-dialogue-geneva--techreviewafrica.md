@@ -6,6 +6,7 @@ publisher: Tech Review Africa
 published: 2026-07-06
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 provenance_flag: pr-wire
@@ -13,6 +14,7 @@ places: [DZA, XAF]
 topics: [tech.ai, gov.policy, gov.regional, include.divides, capacity.training]
 entities: [[un-global-dialogue-on-ai-governance], [algeria-ministry-of-post-and-telecommunications]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 **Primary source to obtain at ingest:** the Algerian Ministry of Post and Telecommunications' own statement of Minister Zerrougui's Geneva address, and the UN's official materials for the inaugural Global Dialogue on Artificial Intelligence Governance (6 July 2026), including the Secretary-General's opening remarks.

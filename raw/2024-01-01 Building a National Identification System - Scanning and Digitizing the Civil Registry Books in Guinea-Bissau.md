@@ -13,6 +13,7 @@ places: [GNB]
 topics: [dpi.registry, dpi.id]
 entities: [[sirec], [undp]]
 lens: []
+body_completeness: full
 ---
 
 <!-- UNDP "Building National ID" project (year-proxy 2024/2025). Objective: ensure citizens have access to identity documentation to exercise citizenship rights. Impact areas: set up/equip a digitization centre; organize and recover civil registry books; develop complete software to digitize the civil registry (births, deaths, marriages, annotations) as the main national platform. Funded by UNDP + Swiss Confederation co-financing; main partner/beneficiary Ministry of Justice and Human Rights. -->

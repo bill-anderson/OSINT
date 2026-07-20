@@ -3,6 +3,8 @@ type: source
 title: "Smart Africa drives cross-border data interoperability through SADX Technical Mission"
 publisher: Tech Review Africa
 url: https://techreviewafrica.com/news/5165/
+date_precision: day
+date_source: source
 author: Nana Appiah Acquaye
 published: 2026-04-27
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [RWA, BEN, GHA]
 topics: [dpi.exchange, dpi.id, gov.regional, gov.standards, infra.cybersec]
 entities: [[smart-africa], [sadx]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- SADX (Smart Africa Data Exchange) Technical Assessment Mission (Kigali) with Rwanda, Benin, Ghana: PKI trust chains, API contracts, cross-border verification-request processing, incident response. 'Functional, federated and decentralised' architecture. -->

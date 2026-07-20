@@ -3,6 +3,8 @@ type: source
 title: Zimbabwe looks forward to digital ID rollout after population registry reform
 url: https://www.biometricupdate.com/202507/zimbabwe-looks-forward-to-digital-id-rollout-after-population-registry-reform
 publisher: Biometric Update
+lens: []
+body_completeness: full
 author: Ayang Macdonald
 published: 2025-07-15
 date_precision: day

@@ -3,6 +3,7 @@ type: source
 title: "TechCabal Daily – CAR launches a meme coin"
 url: https://techcabal.com/2025/02/11/techcabal-daily-car-launches-a-meme-coin/
 publisher: TechCabal
+ingested: 2026-07-18
 author: Muktar Oladunmade, Faith Omoniyi, Emmanuel Nwosu (edited by Timi Odueso, Olumuyiwa Olowogboyega)
 published: 2025-02-11
 date_precision: day

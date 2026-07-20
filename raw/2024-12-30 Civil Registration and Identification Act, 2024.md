@@ -12,6 +12,7 @@ places: [NAM]
 topics: [dpi.registry, dpi.id, gov.legislate]
 entities: [[namibia-civil-registration-identification-act-2024]]
 lens: []
+body_completeness: full
 ---
 
 The Civil Registration and Identification Act (Act No. 13 of 2024) is Namibia's overarching statute for civil registration and legal identity. It establishes a single national Civil Register — comprising Birth, Marriage, Death and Identity Registers — under a Registrar-General, consolidating the notification, registration and certification of births, stillbirths, adoptions, deaths, name changes, marriages, divorces and other marital severances.

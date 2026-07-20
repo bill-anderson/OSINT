@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: resource
 title: Research and Markets
 places: [XGL, ZAF]

@@ -6,6 +6,7 @@ publisher: Tech Review Africa
 published: 2026-07-07
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [NAM]
 topics: [tech.ai, gov.policy, include.divides, gov.regional]
 entities: [[emma-theofelus]]

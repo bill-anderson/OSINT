@@ -3,6 +3,7 @@ type: source
 title: Congo to Host Regional Cyberdrill as Part of Digital Transformation Agenda
 url: https://techafricanews.com/2025/06/25/congo-to-host-regional-cyberdrill-as-part-of-digital-transformation-agenda/
 publisher: TechAfrica News
+ingested: 2026-07-18
 author: Editorial Team
 published: 2025-06-25
 date_precision: day
@@ -11,6 +12,7 @@ places: [COG, XCA]
 topics: [infra.cybersec, gov.regional, gov.policy, tech.ai]
 entities: [[anssi-congo], [caria-congo], [congo-digital-strategy-2030]]
 lens: [sovereignty]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: COG-2026-07-17
 ---

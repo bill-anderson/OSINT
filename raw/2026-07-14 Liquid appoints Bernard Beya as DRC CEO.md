@@ -3,6 +3,8 @@ type: source
 title: Liquid appoints Bernard Beya as DRC CEO
 publisher: ITWeb Africa
 url: https://itweb.africa/article/liquid-appoints-bernard-beya-as-drc-ceo/WnpNgq21dWmMVrGd
+lens: []
+body_completeness: full
 author: Staff Writer
 published: 2026-07-14
 date_precision: day

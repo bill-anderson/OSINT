@@ -6,6 +6,7 @@ publisher: Biometric Update
 published: 2025-07-01
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [NAM]
 topics: [dpi.pay, dpi.id, infra.cybersec, include.access]
 entities: [[bank-of-namibia], [namibia-digital-id], [namibia-civil-registration-identification-act-2024]]

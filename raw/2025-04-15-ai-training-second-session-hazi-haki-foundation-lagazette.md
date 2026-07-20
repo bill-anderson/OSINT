@@ -6,10 +6,12 @@ publisher: La Gazette des Comores
 published: 2025-04-15
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [COM]
 topics: [tech.ai, capacity.training]
 entities: [[hazi-haki-foundation], [university-of-comoros], [uccia]]
 lens: []
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: COM-2026-07-17
 ---

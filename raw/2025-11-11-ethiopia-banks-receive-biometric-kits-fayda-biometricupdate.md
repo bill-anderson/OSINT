@@ -6,10 +6,12 @@ publisher: Biometric Update
 published: 2025-11-11
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [ETH]
 topics: [dpi.id, dpi.pay, include.divides]
 entities: [[fayda-ethiopia-national-id], [national-bank-of-ethiopia]]
 lens: []
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: ETH-2026-07-17
 ---

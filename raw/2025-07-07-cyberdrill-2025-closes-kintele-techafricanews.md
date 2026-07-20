@@ -3,6 +3,7 @@ type: source
 title: Cyberdrill 2025 Closes in Kintele, Boosts Central Africa's Cyber Readiness
 url: https://techafricanews.com/2025/07/07/cyberdrill-2025-closes-in-kintele-boosts-central-africas-cyber-readiness/
 publisher: TechAfrica News
+ingested: 2026-07-18
 author: Joyce Onyeagoro
 published: 2025-07-07
 date_precision: day
@@ -11,6 +12,7 @@ places: [COG, XCA]
 topics: [infra.cybersec, gov.regional, tech.ai, gov.policy, tech.innovate]
 entities: [[anssi-congo], [caria-congo], [congo-digital-strategy-2030]]
 lens: [sovereignty]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: COG-2026-07-17
 ---

@@ -3,6 +3,9 @@ type: source
 title: Botswana Tech Fund launches multimillion pula venture vehicle
 url: https://www.mmegi.bw/business/botswana-tech-fund-launches-multimillion-pula-venture-vehicle/news
 publisher: Mmegi
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Lewanika Timothy
 published: 2026-04-29
 date_precision: day

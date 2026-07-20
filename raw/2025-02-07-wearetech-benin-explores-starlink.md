@@ -3,6 +3,7 @@ type: source
 title: Benin Explores Starlink for Internet Access
 url: https://www.wearetech.africa/en/fils-uk/news/public-management/benin-explores-starlink-for-internet-access
 publisher: We Are Tech Africa
+ingested: 2026-07-18
 author: Isaac K. Kassouwi
 published: 2025-02-07
 date_precision: day
@@ -13,6 +14,7 @@ places: [BEN]
 topics: [infra.connect, include.access, include.divides, geopol.usa]
 entities: [[starlink], [spacex], [arcep-benin], [gsma]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Benin Explores Starlink for Internet Access

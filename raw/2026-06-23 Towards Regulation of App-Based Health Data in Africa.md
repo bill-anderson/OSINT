@@ -12,6 +12,7 @@ places: [XAF]
 topics: [gov.protect, dpi.mis, tech.ai, gov.standards, gov.regional, dpi.exchange]
 entities: [[cipesa], [africa-cdc]]
 lens: [sovereignty]
+body_completeness: excerpt
 ---
 
 # Towards Regulation of App-Based Health Data in Africa – Collaboration on International ICT Policy for East and Southern Africa (CIPESA)

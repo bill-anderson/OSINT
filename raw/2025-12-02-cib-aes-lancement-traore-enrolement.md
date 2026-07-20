@@ -3,6 +3,7 @@ type: source
 title: "Carte d'identité biométrique AES au Burkina Faso : le capitaine Ibrahim Traoré pour commencer"
 url: https://www.sidwaya.info/carte-didentite-biometrique-aes-au-burkina-faso-le-capitaine-ibrahim-traore-pour-commencer/
 publisher: Sidwaya
+ingested: 2026-07-18
 author: JK. Sidwaya
 published: 2025-12-02
 date_precision: day
@@ -13,6 +14,7 @@ places: [BFA]
 topics: [dpi.id, gov.regional, infra.cybersec]
 entities: [[cib-aes], [oni-burkina-faso], [alliance-of-sahel-states]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Carte d'identité biométrique AES au Burkina Faso: le capitaine Ibrahim Traoré pour commencer

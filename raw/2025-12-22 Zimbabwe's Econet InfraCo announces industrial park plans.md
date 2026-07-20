@@ -3,6 +3,8 @@ type: source
 title: Zimbabwe's Econet InfraCo announces industrial park plans
 url: https://developingtelecoms.com/telecom-technology/data-centres-networks/19531-zimbabwes-econet-infraco-announces-industrial-park-plans.html
 publisher: Developing Telecoms
+lens: []
+body_completeness: full
 author: Vaughan O'Grady
 published: 2025-12-22
 date_precision: day

@@ -13,6 +13,7 @@ places: [BWA]
 topics: [dpi.pay, dpi.govtech]
 entities: [[bank-of-botswana]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Mmegi (Jul 2025): Botswana's push to digitise government revenue collection is gathering pace, with the Bank of Botswana confirming steady progress on its "Digital BoB2024" initiative — modernising government payments/revenue collection. The central-bank-led G2P/revenue-digitisation strand of Botswana's DPI. -->

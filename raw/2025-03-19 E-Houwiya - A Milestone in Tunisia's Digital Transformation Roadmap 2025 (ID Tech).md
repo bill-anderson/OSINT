@@ -12,6 +12,7 @@ places: [TUN]
 topics: [dpi.id, dpi.govtech, dpi.pay, gov.standards, include.access, infra.cybersec]
 entities: [[e-houwiya], [nizar-ben-neji], [ance-tunisia], [cni-tunisia], [central-bank-of-tunisia]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 *FIRST-HAND PRINCIPAL TESTIMONY, not neutral trade reporting: the author is Tunisia's former Minister of Communication Technologies (2021-2024), who led E-Houwiya's design and implementation. Attribute as named participant analysis. The anchor source for E-Houwiya. A shortened repost carried by Mobile ID World was pruned as a relevant-duplicate (it self-declared the repost and added nothing).*

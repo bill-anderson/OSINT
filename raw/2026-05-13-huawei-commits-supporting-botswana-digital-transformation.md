@@ -3,6 +3,7 @@ type: source
 title: Huawei commits to supporting Botswana's digital transformation
 url: https://www.mmegi.bw/business/huawei-commits-to-supporting-botswanas-digital-transformation/news
 publisher: Mmegi
+ingested: 2026-07-18
 author: Pauline Dikuelo
 published: 2026-05-13
 date_precision: day
@@ -13,6 +14,7 @@ places: [BWA]
 topics: [geopol.china, infra.connect, infra.store, tech.ai, capacity.training]
 entities: [[huawei], [li-dalu]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Huawei commits to supporting Botswana's digital transformation

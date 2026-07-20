@@ -1,6 +1,7 @@
 ---
 type: source
 title: "Dispositif KYC : La Banque d'Algérie prépare une nouvelle instruction"
+ingested: 2026-07-18
 title_en: Bank of Algeria governor Lebbou announces binding KYC instruction for banks; new monetary law opens door to digital banks and payment-service providers under review
 url: https://www.elmoudjahid.dz/fr/actualite/dispositif-kyc-la-banque-d-algerie-prepare-une-nouvelle-instruction-251312
 publisher: El Moudjahid
@@ -15,6 +16,7 @@ places: [DZA]
 topics: [dpi.pay, gov.legislate, finance.new, include.divides]
 entities: [[banque-dalgerie, mohamed-lamine-lebbou, algerie-poste]]
 lens: []
+body_completeness: full
 provenance_flag: state-media
 ---
 

@@ -11,6 +11,7 @@ places: [ETH]
 topics: [gov.policy, tech.ai, infra.cybersec, dpi.id]
 entities: [[digital-ethiopia-2030], [insa-ethiopia], [abiy-ahmed]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # PM Abiy launches the Digital Ethiopia 2030 strategy

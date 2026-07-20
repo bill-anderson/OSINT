@@ -12,6 +12,7 @@ places: [MWI]
 topics: [dpi.govtech, finance.new]
 entities: [[world-bank]]
 lens: []
+body_completeness: full
 ---
 
 [Publisher: PPDA official page; no publication date on clip - year proxy, content references 2023 events.] PPDA describes a national digitalisation of public procurement backed by the World Bank Program-for-Results (PforR) and IDA, with a US$80 million allocation aimed at improving resource mobilisation, budget execution and public-financial-management transparency. It links the drive to Malawi's 2023 accession to the Open Government Partnership and a National Action Plan launched by President Lazarus Chakwera.

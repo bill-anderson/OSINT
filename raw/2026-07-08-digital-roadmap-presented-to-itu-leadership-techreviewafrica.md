@@ -6,12 +6,14 @@ publisher: Tech Review Africa
 published: 2026-07-08
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [gov.policy, gov.regional, infra.connect, tech.innovate]
 entities: [[itu], [ministry-of-digital-transition-cote-divoire], [djibril-ouattara], [tomas-lamanauskas]]
 lens: []
+body_completeness: full
 provenance_flag: pr-wire
 primary_to_source: The national digital transformation roadmap (seven pillars, 40 priority projects); ITU / Ministry readout of the meeting with the Deputy Secretary-General
 ---

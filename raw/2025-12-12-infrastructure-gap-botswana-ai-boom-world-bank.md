@@ -3,6 +3,9 @@ type: source
 title: Infrastructure gap puts Botswana on the back foot in the AI boom, World Bank cautions
 url: https://www.sundaystandard.info/infrastructure-gap-puts-botswana-on-the-back-foot-in-the-ai-boom-world-bank-cautions/
 publisher: Sunday Standard
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Sunday Standard Reporter
 published: 2025-12-12
 date_precision: day

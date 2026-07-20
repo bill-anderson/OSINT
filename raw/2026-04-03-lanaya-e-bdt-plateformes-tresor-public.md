@@ -3,6 +3,7 @@ type: source
 title: "Burkina/Finances : LANAYA et e-BDT, deux plateformes digitales pour révolutionner les services bancaires"
 url: https://lefaso.net/spip.php?article145491
 publisher: leFaso.net
+ingested: 2026-07-18
 author: Muriel Dominique Ouédraogo
 published: 2026-04-03
 date_precision: day
@@ -13,6 +14,7 @@ places: [BFA]
 topics: [dpi.govtech, dpi.pay, gov.policy, tech.innovate, infra.cybersec]
 entities: [[lanaya], [e-bdt], [direction-generale-du-tresor-et-de-la-comptabilite-publique-burkina-faso], [ministere-de-leconomie-et-des-finances-burkina-faso], [aboubacar-nacanabo], [patinde-wendinda-jean-yves-belem]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Burkina/Finances : LANAYA et e-BDT, deux plateformes digitales pour révolutionner les services bancaires

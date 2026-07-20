@@ -13,6 +13,7 @@ places: [XAF, XSS, RWA, KEN]
 topics: [digital.rural, infra.connect, gov.policy]
 entities: [[global-center-on-ai-governance]]
 lens: [sovereignty, colonialism]
+body_completeness: full
 ---
 
 <!-- ANALYSIS (named third-party expert, tag as analysis not primary evidence). Uche Ezejiofor (Nigerian

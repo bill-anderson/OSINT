@@ -11,6 +11,7 @@ places: [ETH]
 topics: [dpi.id, finance.new, include.access]
 entities: [[ethiopia-digital-id-inclusion-project], [fayda-ethiopia-national-id]]
 lens: []
+body_completeness: full
 ---
 
 # WB Ethiopia Digital ID for Inclusion and Services Project — Implementation Status Report (P179040)

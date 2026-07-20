@@ -13,6 +13,7 @@ places: [COD]
 topics: [dpi.id, gov.regional]
 entities: [[margins-id-group], [onip-drc]]
 lens: [sovereignty, colonialism]
+body_completeness: full
 ---
 
 <!-- Bankable (Aug 2025): the DRC's Presidential Strategic Oversight Council (CPVS) said (25 Jul 2025) it is finalising a contract with Ghana's Margins Group (maker of the "Ghana Card") to PRODUCE national identity CARDS — replacing the terminated Afritech/IDEMIA deal. CPVS coordinator François Muamba Tshishimbi + ONIP DG Richard Ilunga confirmed the new partnership but gave no detail on the selection process. NB: this is the physical-CARD / ONIP track, distinct from (and parallel to) Trident's DRCPass digital-ID/e-KYC — two ID efforts running at once; selection-process opacity flagged. -->

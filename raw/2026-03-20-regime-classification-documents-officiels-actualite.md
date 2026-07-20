@@ -6,12 +6,14 @@ publisher: ACTUALITE.CD
 published: 2026-03-20
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: COD-2026-07-17
 places: [COD]
 topics: [gov.policy, gov.standards, gov.legislate, infra.cybersec]
 entities: [[guillaume-ngefa], [drc-digital-code], [felix-tshisekedi], [ministere-de-la-justice-drc]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 Photo d'illustration

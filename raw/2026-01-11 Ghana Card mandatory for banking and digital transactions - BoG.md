@@ -13,6 +13,7 @@ places: [GHA]
 topics: [dpi.id, dpi.pay, gov.legislate, gov.protect]
 entities: [[bank-of-ghana], [ghana-card], [national-identification-authority-ghana]]
 lens: []
+body_completeness: full
 ---
 
 <!-- BoG revised Supervisory Guidance Note (effective immediately, replaces June 2022): Ghana Card is the primary/sole ID for financial transactions; NIA database centred in KYC/CDD/AML. Full biometric + liveness for all digital onboarding (no risk-based approach). Customers without a Ghana Card barred. Reporting cites the primary BoG note. -->

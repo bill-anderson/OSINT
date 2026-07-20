@@ -12,6 +12,7 @@ places: [SOM]
 topics: [dpi.pay, finance.new]
 entities: [[central-bank-of-somalia], [somalia-instant-payment-system]]
 lens: []
+body_completeness: full
 ---
 
 # Somalia taps BPC to launch first nationwide instant payment system (SIPS)

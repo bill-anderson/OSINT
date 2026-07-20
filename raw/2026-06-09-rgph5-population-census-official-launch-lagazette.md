@@ -6,10 +6,12 @@ publisher: La Gazette des Comores
 published: 2026-06-09
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [COM]
 topics: [data.statistics, data.satellite, gov.policy]
 entities: [[inseed-comores], [world-bank], [unfpa]]
 lens: []
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: COM-2026-07-17
 ---

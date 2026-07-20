@@ -3,6 +3,8 @@ type: source
 title: "Mozambique intros data breach platform"
 publisher: ITWeb Africa
 url: https://itweb.africa/article/mozambique-intros-data-breach-platform/
+date_precision: day
+date_source: source
 author: Staff Writer
 published: 2026-02-06
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [MOZ]
 topics: [gov.protect, infra.cybersec, dpi.govtech]
 entities: [[intic-mozambique]]
 lens: [sovereignty]
+body_completeness: excerpt
 ---
 
 <!-- Mozambique's INTIC (National Institute of ICT) established a pilot platform for reporting personal data breaches (introduced on the sidelines of a digital-literacy webinar, ~Feb 2026); part of consolidating the personal-data-protection regime. (INTIC distinct from ATDI, the digital-transformation agency.) -->

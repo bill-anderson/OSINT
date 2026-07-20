@@ -3,6 +3,8 @@ type: source
 title: "Kenya's State Department of ICT and Digital Economy discusses digital partnership with Oracle"
 publisher: Tech Review Africa
 url: https://techreviewafrica.com/news/6212/kenyas-state-department-of-ict-and-digital-economy-discusses-digital-partnership-with-oracle
+date_precision: day
+date_source: source
 author: Nana Appiah Acquaye
 published: 2026-07-07
 accessed: 2026-07-10
@@ -11,6 +13,7 @@ places: [KEN]
 topics: [geopol.usa, infra.store, tech.ai, dpi.govtech, gov.policy]
 entities: [[oracle]]
 lens: [sovereignty, colonialism]
+body_completeness: full
 ---
 
 <!-- On-the-record reporting of an exploratory meeting (discussions only — no MoU signed,

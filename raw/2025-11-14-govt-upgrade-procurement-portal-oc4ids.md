@@ -6,6 +6,7 @@ publisher: New Vision
 published: 2025-11-14
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [UGA]
 topics: [dpi.govtech, data.open]
 entities: [[ppda-uganda]]

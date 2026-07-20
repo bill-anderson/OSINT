@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: initiative
 title: Bede (Zain digital wallet, Sudan)
 places: [SDN]

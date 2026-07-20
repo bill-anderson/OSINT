@@ -12,6 +12,7 @@ places: [XAF, KEN]
 topics: [tech.ai, data.open, gov.policy, gov.legislate, gov.regional, capacity.research]
 entities: [[cipit], [au-continental-ai-strategy], [au-data-policy-framework]]
 lens: [sovereignty, colonialism]
+body_completeness: full
 ---
 
 # Rethinking Ownership, Authorship, and Value Creation in IP Policy for African AI

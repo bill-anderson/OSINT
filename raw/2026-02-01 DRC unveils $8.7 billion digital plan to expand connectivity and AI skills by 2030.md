@@ -13,6 +13,7 @@ places: [COD]
 topics: [gov.policy, infra.connect, tech.ai]
 entities: [[drc-national-digital-plan-pnn2]]
 lens: []
+body_completeness: full
 ---
 
 <!-- iAfrica (Feb 2026): reports the DRC's 2026-2030 digital transformation plan (PNN2) at $8.7bn — expanding connectivity, modernising public services, building tech skills. Targets: 650 additional communities gaining broadband (~30m people + 1,000 public institutions); projected +$4.1bn GDP by 2029, 700,000 jobs, mobile internet to 9.7m new users. Also cites an interbank payment platform, WB IDEA and AFD funding, and DRC Pass. NB: the $8.7bn figure CONFLICTS with the $1.5bn (government) / ~$10.4bn (total, per rdc-pass) figures — see REV-COD-001. -->

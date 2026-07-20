@@ -1,6 +1,7 @@
 ---
 type: source
 title: "لحماية الأطفال من مخاطر الإنترنت.. استحداث خلية لليقظة السيبرانية"
+ingested: 2026-07-18
 title_en: National child-protection body (ONPPE, SG Dalila Aliane) creates a cyber-vigilance cell to monitor the digital space and fight online child exploitation, coordinating with Defence and Interior ministries; green line "1111"
 url: https://www.echoroukonline.com/%D9%84%D8%AD%D9%85%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%A3%D8%B7%D9%81%D8%A7%D9%84-%D9%85%D9%86-%D9%85%D8%AE%D8%A7%D8%B7%D8%B1-%D8%A7%D9%84%D8%A5%D9%86%D8%AA%D8%B1%D9%86%D8%AA-%D8%A7%D8%B3%D8%AA%D8%AD
 publisher: Echorouk El Yawmi
@@ -15,6 +16,7 @@ places: [DZA]
 topics: [infra.cybersec, include.access, gov.protect]
 entities: [[organe-national-protection-promotion-enfance, dalila-aliane, ministere-de-la-defense-nationale, ministere-de-linterieur]]
 lens: []
+body_completeness: full
 provenance_flag: privately-owned
 ---
 

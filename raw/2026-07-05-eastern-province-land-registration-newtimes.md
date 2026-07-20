@@ -3,6 +3,8 @@ type: source
 title: Eastern Province land registration drive delivers titles, reduces disputes
 url: https://www.newtimes.co.rw/article/37136/news/rwanda/eastern-province-land-registration-drive-delivers-titles-reduces-disputes
 publisher: The New Times
+ingested: 2026-07-19
+lens: []
 author: Emmanuel Nkangura
 published: 2026-07-05
 date_precision: day

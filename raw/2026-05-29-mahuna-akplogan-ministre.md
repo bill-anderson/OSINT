@@ -3,6 +3,7 @@ type: source
 title: "Dr Mahuna AKPLOGAN : de contributeur majeur à l'IA en Afrique à ministre de la République"
 url: https://www.lanation.bj/numerique/dr-mahuna-akplogan-de-contributeur-majeur-a-lia-en-afrique-a-ministre-de-la-republique
 publisher: La Nation
+ingested: 2026-07-18
 author: Christian Hounongbe
 published: 2026-05-29
 date_precision: day
@@ -13,6 +14,7 @@ places: [BEN]
 topics: [tech.ai, capacity.training, gov.policy, dpi.govtech, capacity.research]
 entities: [[mahuna-akplogan], [isheero], [asin-benin], [sniam-benin], [gpt-bj], [smart-layers], [extome], [datacamp], [africa-techup-tour], [oxford-insights]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Dr Mahuna AKPLOGAN : de contributeur majeur à l'IA en Afrique à ministre de la République

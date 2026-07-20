@@ -3,6 +3,7 @@ type: source
 title: "Extension du réseau de fibre optique : Le Cameroun s'endette à hauteur de 108 milliards de FCFA auprès de la Chine"
 url: https://leconomie.info/extension-du-reseau-de-fibre-optique-le-cameroun-sendette-a-hauteur-de-108-milliards-de-fcfa-aupres-de-la-chine/
 publisher: Le quotidien L'Economie
+ingested: 2026-07-18
 author: Julie Bilo'o
 published: 2026-03-11
 date_precision: day
@@ -13,6 +14,7 @@ places: [CMR]
 topics: [infra.connect, geopol.china, finance.new]
 entities: [[china-exim-bank], [camtel], [huawei], [minepat-cameroon]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Extension du réseau de fibre optique : Le Cameroun s'endette à hauteur de 108 milliards de FCFA auprès de la Chine

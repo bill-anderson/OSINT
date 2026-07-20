@@ -3,6 +3,7 @@ type: source
 title: "Cameroon: CAMTEL and Government Launch Initiative to Strengthen Youth Skills in Telecoms"
 url: https://techafricanews.com/2026/06/04/cameroon-camtel-and-government-launch-initiative-to-strengthen-youth/
 publisher: TechAfrica News
+ingested: 2026-07-18
 author: Editorial Team
 published: 2026-06-04
 date_precision: day
@@ -11,6 +12,7 @@ places: [CMR]
 topics: [capacity.training, tech.industry, finance.mou, capacity.research]
 entities: [[camtel], [ministry-of-higher-education-cameroon]]
 lens: []
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: CMR-2026-07-17
 ---

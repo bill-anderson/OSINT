@@ -6,12 +6,14 @@ publisher: ACTUALITE.CD
 published: 2026-02-19
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: COD-2026-07-17
 places: [COD]
 topics: [dpi.id, dpi.registry, dpi.exchange, data.statistics, gov.policy]
 entities: [[onip-drc], [ceni-drc], [denis-kadima-kazadi], [richard-ilunga], [jacquemain-shabani-lukoo], [felix-tshisekedi], [idemia], [afritech], [igf-drc], [lighthouse-reports], [bloomberg]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 Cérémonie de la remise officielle du fichier électoral des électeurs enrôlés au cours de l'année 2022 à l'ONIP

@@ -3,6 +3,8 @@ type: source
 title: "The Gatekeepers Part XII"
 publisher: Substack (Alice Munyua)
 url: https://alicemunyua.substack.com/p/the-gatekeepers-part-xii
+date_precision: day
+date_source: source
 author: Alice Munyua
 published: 2026-03-05
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [XAF, ETH, NGA, XGL]
 topics: [tech.ai, gov.regional, gov.policy, geopol.usa, geopol.china, infra.store, gov.protect]
 entities: [[african-union], [google], [au-google-mou], [au-continental-ai-strategy], [cloud-act]]
 lens: [sovereignty, colonialism]
+body_completeness: full
 ---
 
 <!-- Named-analyst polemic (Alice Munyua): the 17 Feb 2026 AUC-Google MoU exposes African data to the US CLOUD Act; AU 2025 budget 77.5% external-donor funded; argues the AU Continental AI Strategy (Jul 2024) was externally drafted; recalls the 2012 Chinese-built AU HQ data-exfiltration reports. Strong sovereignty/colonialism source; cite for analysis. Instruments [[au-continental-ai-strategy]], [[cloud-act]]. -->

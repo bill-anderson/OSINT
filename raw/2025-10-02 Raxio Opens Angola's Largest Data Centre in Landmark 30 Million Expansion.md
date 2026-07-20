@@ -13,6 +13,7 @@ places: [AGO]
 topics: [infra.store, infra.connect]
 entities: [[raxio-group]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Primary Raxio press release (2 Oct 2025), corroborated by Ecofin Agency and DatacenterDynamics — one event, three outlets (dedup). Raxio Angola (AG1), in Cacuaco, Luanda Province: the country's largest and only Tier III commercial data centre, up to 3 MW / 800+ racks, 19,000 m² (Raxio's biggest campus), plan to exceed 7 MW within five years. Raxio's 6th African facility; $30m. Sited close to undersea-cable landing stations to host local internet traffic. Telecom/IT Minister Mário Oliveira (who championed the project) officiated. Other outlet URLs: ecofinagency.com/news/0310-49253 · datacenterdynamics.com/en/news/raxio-launches-data-center-in-luanda-angola/. -->

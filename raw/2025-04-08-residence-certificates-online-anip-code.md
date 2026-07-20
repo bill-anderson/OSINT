@@ -3,6 +3,9 @@ type: source
 title: "Délivrance des certificats de résidence: La mise en ligne n'a pas résolu le problème au niveau des chefs de quartier ou de village"
 url: https://fraternite.bj/delivrance-des-certificats-de-residence-la-mise-en-ligne-na-pas-resolu-le-probleme-au-niveau-des-chefs-de-quartier-ou-de-village/
 publisher: Fraternité
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Patrice SOKEGBE
 published: 2025-04-08
 date_precision: day

@@ -6,6 +6,7 @@ publisher: Tech Review Africa
 published: 2026-05-19
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 provenance_flag: pr-wire
@@ -13,6 +14,7 @@ places: [DZA]
 topics: [capacity.literacy, capacity.training, include.access, infra.cybersec]
 entities: [[algeria-ministry-of-post-and-telecommunications], [7-77-programme]]
 lens: []
+body_completeness: full
 ---
 
 **Primary source to obtain at ingest:** the Algerian Ministry of Post and Telecommunications' World Telecommunications and Information Technology Day announcement of the "7.77" programme, which should carry the official target figures and centre list.

@@ -1,10 +1,13 @@
 ---
 type: source
+ingested: 2026-07-17
 places: [NGA]
 topics: [infra.store]
 entities: [[digital-realty]]
 date_precision: day
 date_source: source
+lens: []
+body_completeness: full
 page: Digital Realty launches a 2MW data center in Nigeria - DCD
 title: Digital Realty launches a 2MW data center in Nigeria
 author: Dan Swinhoe

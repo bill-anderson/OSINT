@@ -11,6 +11,7 @@ places: [ETH]
 topics: [dpi.mis, data.statistics, dpi.exchange]
 entities: [[dhis2], [ethiopia-moh]]
 lens: []
+body_completeness: full
 ---
 
 # Enhancing healthcare performance in Ethiopia using DHIS2

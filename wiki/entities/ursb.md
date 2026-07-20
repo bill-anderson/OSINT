@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: government-body
 title: Uganda Registration Services Bureau (URSB)
 places: [UGA]

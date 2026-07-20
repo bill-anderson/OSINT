@@ -3,6 +3,8 @@ type: source
 title: Paypay ultrapassa 1,6 milhões de transferências mensais no KWiK
 url: https://angop.ao/noticias/economia/paypay-ultrapassa-1-6-milhoes-de-transferencias-mensais-no-kwik/
 publisher: Angop
+lens: []
+body_completeness: full
 author: GIZ/CS
 published: 2026-03-05
 date_precision: day

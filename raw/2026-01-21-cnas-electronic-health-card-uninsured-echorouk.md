@@ -1,6 +1,7 @@
 ---
 type: source
 title: CNAS: Une carte électronique pour les personnes sans couverture sociale
+ingested: 2026-07-18
 title_en: CNAS launches electronic health card for uninsured (dematerialised, decree 24-187)
 url: https://www.echoroukonline.com/cnas-une-carte-electronique-pour-les-personnes-sans-couverture-sociale
 publisher: Echorouk El Yawmi
@@ -14,6 +15,7 @@ places: [DZA]
 topics: [dpi.id, dpi.govtech, dpi.registry]
 entities: [[cnas]]
 lens: []
+body_completeness: full
 ---
 
 # CNAS: Une carte électronique pour les personnes sans couverture sociale

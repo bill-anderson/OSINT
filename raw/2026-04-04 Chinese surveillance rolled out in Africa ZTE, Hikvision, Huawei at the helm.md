@@ -3,6 +3,8 @@ type: source
 title: "Chinese surveillance rolled out in Africa: ZTE, Hikvision, Huawei at the helm"
 publisher: South China Morning Post
 url: https://www.scmp.com/news/china/diplomacy/article/3348916
+date_precision: day
+date_source: source
 author: Jevans Nyabiage
 published: 2026-04-04
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [KEN, NGA, EGY, ZMB, SEN, ZWE, MOZ, DZA, UGA, RWA, XAF]
 topics: [infra.cybersec, gov.protect, infra.store, tech.ai, geopol.china]
 entities: [[huawei], [zte], [hikvision]]
 lens: [sovereignty, colonialism]
+body_completeness: full
 ---
 
 <!-- On IDS report 'Smart City Surveillance in Africa' (Mar 2026), 11 countries; Chinese firms in every one. Nigeria largest: China Exim Bank advanced $399m of $470m Abuja ZTE/Hikvision spend; Lagos 10,000 cameras. Countries spent >$2bn on facial recognition/ANPR. Typical ~$250m Eximbank loan bundles cameras + data centre + training (institutional lock-in). -->

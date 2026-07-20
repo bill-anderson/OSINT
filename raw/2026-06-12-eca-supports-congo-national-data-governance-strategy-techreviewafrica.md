@@ -3,6 +3,7 @@ type: source
 title: ECA supports Republic of the Congo in developing National Data Governance Strategy
 url: https://techreviewafrica.com/news/5882/eca-supports-republic-of-the-congo-in-developing-national-data-governance-strategy
 publisher: Tech Review Africa
+ingested: 2026-07-18
 author: Nana Appiah Acquaye
 published: 2026-06-12
 date_precision: day
@@ -11,6 +12,7 @@ places: [COG, XAF]
 topics: [gov.policy, gov.standards, gov.regional, data.open, data.statistics, gov.protect]
 entities: [[uneca]]
 lens: [sovereignty]
+body_completeness: full
 provenance_flag: pr-wire
 retrieved: 2026-07-17
 sweep_batch: COG-2026-07-17

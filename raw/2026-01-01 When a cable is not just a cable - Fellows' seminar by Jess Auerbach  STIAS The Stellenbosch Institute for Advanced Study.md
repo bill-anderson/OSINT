@@ -3,6 +3,7 @@ type: source
 title: "When a cable is not just a cable — Fellows' seminar by Jess Auerbach (STIAS)"
 publisher: STIAS
 url: https://www.stias.ac.za/public-lectures-seminars/when-a-cable-is-not-just-a-cable
+date_source: source
 author: Michelle Galloway
 published: 2026
 date_precision: year

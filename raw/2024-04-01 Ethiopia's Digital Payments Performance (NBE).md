@@ -11,6 +11,7 @@ places: [ETH]
 topics: [dpi.pay, data.statistics]
 entities: [[national-bank-of-ethiopia], [ethswitch]]
 lens: []
+body_completeness: full
 ---
 
 # Ethiopia's Digital Payments Performance (NBE presentation)

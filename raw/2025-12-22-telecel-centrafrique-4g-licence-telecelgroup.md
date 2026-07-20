@@ -6,10 +6,12 @@ publisher: Telecel Group (republishing Oubangui Médias, 2025-12-22)
 published: 2025-12-22
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [CAF]
 topics: [infra.connect, gov.legislate, include.divides, tech.industry]
 entities: [[telecel-centrafrique], [telecel-group], [irene-moussa-kembe], [justin-gourna-zacko], [felix-moloua], [arcep-central-african-republic], [orange-centrafrique], [moov-africa-centrafrique]]
 lens: []
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: CAF-2026-07-17
 provenance_flag: company-primary + republication (Telecel's own site; original at https://oubanguimedias.com/2025/12/22/telecel-centrafrique-obtient-sa-licence-4g-une-nouvelle-ere-pour-la-connectivite-en-republique-centrafricaine — prefer the Oubangui Médias copy at ingest if the human wants the independent outlet)

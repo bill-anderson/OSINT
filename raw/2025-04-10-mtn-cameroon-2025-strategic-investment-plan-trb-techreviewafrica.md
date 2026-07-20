@@ -3,6 +3,7 @@ type: source
 title: MTN Cameroon presents 2025 strategic investment plan to telecom regulator
 url: https://techreviewafrica.com/news/2220
 publisher: Tech Review Africa
+ingested: 2026-07-18
 author: Nana Appiah Acquaye
 published: 2025-04-10
 date_precision: day
@@ -11,6 +12,7 @@ places: [CMR]
 topics: [gov.legislate, tech.industry, finance.new, infra.connect, include.divides, include.access, dpi.pay, capacity.literacy]
 entities: [[mtn-cameroon], [art-cameroon]]
 lens: []
+body_completeness: full
 provenance_flag: pr-wire
 provenance_note: >
   Tech Review Africa is a PR-wire outlet; this is MTN announcement copy in a

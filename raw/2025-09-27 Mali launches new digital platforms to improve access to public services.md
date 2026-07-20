@@ -12,6 +12,7 @@ places: [MLI]
 topics: [dpi.govtech, dpi.id, dpi.registry, include.access]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 Mali unveiled a set of new, locally developed digital platforms modernising access to public services across transport, health and public administration, part of the government's broader digital-transformation plan.

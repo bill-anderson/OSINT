@@ -6,6 +6,7 @@ publisher: Hypertext
 published: 2026-02-13
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [ZAF]
 topics: [dpi.govtech, gov.policy]
 entities: [[cyril-ramaphosa], [mymzansi]]

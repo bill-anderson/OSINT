@@ -6,12 +6,14 @@ publisher: Liberian Observer
 published: 2026-02-12
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: LBR-2026-07-17
 places: [LBR]
 topics: [infra.cybersec, gov.protect]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 # House to Probe Data Breach, $6.1M Foya Project

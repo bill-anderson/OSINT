@@ -6,10 +6,12 @@ publisher: La Gazette des Comores
 published: 2026-07-10
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [COM]
 topics: [dpi.registry, dpi.mis, include.access, gov.protect]
 entities: [[world-bank]]
 lens: []
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: COM-2026-07-17
 ---

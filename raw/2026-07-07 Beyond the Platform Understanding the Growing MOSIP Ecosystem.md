@@ -2,6 +2,8 @@
 type: source
 title: "Beyond the platform: understanding the growing MOSIP ecosystem"
 publisher: Biometric Update
+date_precision: day
+date_source: source
 author: Chris Burton (host)
 url: https://www.youtube.com/watch?v=B_iGkxWXNbg
 published: 2026-07-07
@@ -11,6 +13,7 @@ places: [ETH, NER, ZMB, XSS, XAF, XGL]
 topics: [dpi.id, dpi.exchange, dpi.govtech, gov.standards, tech.industry, capacity.research, include.access, geopol.india]
 entities: [[mosip], [fayda-ethiopia-national-id], [gates-foundation]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Biometric Update webinar on the MOSIP ecosystem. Mid-2026 scale: 30+ countries engaged,

@@ -3,6 +3,8 @@ type: source
 title: "CBN’s Data Localisation Directive Puts Nigerian Fintechs In A Cloud Dilemma"
 publisher: TechBooky
 url: https://www.techbooky.com/cbns-data-localisation-directive-puts-nigerian-fintechs-in-a-cloud-dilemma/
+date_precision: day
+date_source: source
 author: Paul Balo
 published: 2026-07-10
 accessed: 2026-07-12
@@ -11,6 +13,7 @@ places: [NGA]
 topics: [infra.store, gov.protect, dpi.pay, gov.policy]
 entities: [[cbn], [nigeria-data-protection-act-2023], [nitda], [amazon-web-services], [microsoft], [google], [oracle]]
 lens: [sovereignty, colonialism]
+body_completeness: full
 ---
 <!-- Analysis of CBN payment-data localisation directive (issued June 2026; data in-country by 2027-01-01, ~6mo to comply): argues domestication != protection, flags NDPA 2023 cross-border-transfer tension, urges encryption/key-control/hybrid-hosting + phased compliance. Same directive already on cbn / nigeria--gov-protect / nigeria--infra-store — ATTACH-ONLY, no new pages. Primary to extract: Punch report. -->
 

@@ -3,6 +3,9 @@ type: source
 title: Gassan à nouveau connecté au réseau après 4 ans d'interruption
 url: https://www.sidwaya.info/gassan-a-nouveau-connecte-au-reseau-apres-4-ans-dinterruption/
 publisher: Sidwaya
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Kantigui
 published: 2026-03-24
 date_precision: day

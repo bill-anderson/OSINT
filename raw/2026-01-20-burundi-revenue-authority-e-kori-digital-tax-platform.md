@@ -3,6 +3,9 @@ type: source
 title: Burundi Revenue Authority rolls out E-KORI digital tax platform
 url: https://www.burunditimes.com/burundi-revenue-authority-rolls-out-e-kori-digital-tax-platform/
 publisher: Burundi Times
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Burundi Times
 published: 2026-01-20
 date_precision: day

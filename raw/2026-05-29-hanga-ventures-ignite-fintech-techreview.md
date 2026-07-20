@@ -3,6 +3,8 @@ type: source
 title: Rwanda showcases fintech innovation driving financial inclusion through Hanga Ventures Ignite programme
 url: https://techreviewafrica.com/news/5673/rwanda-showcases-fintech-innovation-driving-financial-inclusion-through-hanga-ventures-ignite-programme
 publisher: Tech Review Africa
+ingested: 2026-07-19
+lens: []
 author: Nana Appiah Acquaye
 published: 2026-05-29
 date_precision: day

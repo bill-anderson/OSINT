@@ -1,9 +1,13 @@
 ---
 type: source
+date_precision: day
+date_source: source
 places: [RWA]
 topics: [dpi.id, dpi.registry, include.access]
 entities: [[nida-rwanda]]
 ingested: 2026-07-16
+lens: []
+body_completeness: full
 page: Rwanda digital ID initiative advances with 1.5 million enrollments
 title: Rwanda digital ID initiative advances with 1.5 million enrollments
 author: Ayang Macdonald

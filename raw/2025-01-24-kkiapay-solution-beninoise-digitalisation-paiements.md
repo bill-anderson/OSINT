@@ -3,6 +3,7 @@ type: source
 title: "Kkiapay, une solution 100% béninoise pour la digitalisation des paiements"
 url: https://fraternite.bj/kkiapay-une-solution-100-beninoise-pour-la-digitalisation-des-paiements/
 publisher: Fraternité
+ingested: 2026-07-18
 author: Bergedor HADJIHOU
 published: 2025-01-24
 date_precision: day
@@ -13,6 +14,7 @@ places: [BEN]
 topics: [dpi.pay, tech.innovate, infra.cybersec, gov.regional]
 entities: [[kkiapay], [opensi], [gilles-kounou], [orange-money], [wave]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Kkiapay, une solution 100% béninoise pour la digitalisation des paiements

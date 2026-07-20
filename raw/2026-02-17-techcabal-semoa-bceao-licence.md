@@ -6,6 +6,7 @@ publisher: TechCabal
 published: 2026-02-17
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [TGO, XWA]
 topics: [dpi.pay, gov.legislate, gov.regional, finance.new]
 entities: [[semoa], [bceao]]

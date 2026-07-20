@@ -12,6 +12,7 @@ places: [GAB]
 topics: [gov.policy, finance.new, infra.connect, infra.store, infra.cybersec, dpi.govtech]
 entities: [[visa], [huawei]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 Gabon's Ministry of Digital Economy, Digitalization and Innovation announced a budget of **82 billion CFA francs for 2026, a 156.2% increase from 32 billion CFA in 2025**. Minister Mark-Alexandre Doumba presented the budget to the National Transition Assembly on 19 October 2025. The increase reflects a commitment to accelerating digital transformation through the digital entrepreneurial ecosystem, infrastructure deployment, and digital literacy.

@@ -13,6 +13,7 @@ places: [BEN]
 topics: [dpi.id, dpi.exchange]
 entities: [[anip-benin], [wuri-programme]]
 lens: []
+body_completeness: full
 ---
 
 <!-- BACKFILL (2024-05-06) — historical baseline, do not out-rank fresher ANIP state. Explains the foundational instrument: the Certificat du NPI (Cnpi/fID), the "C'est moi" card, established by article 6 of décret 2020-099 of 26 Feb 2020 — a free (zero-franc), unlimited-validity support for the unique personal identification number (NPI), built with World Bank support (WURI project). Designed as the base ("socle") for electronic identity: unified standardised identification + an authentication factor (with PIN/biometrics) for online services. Aligned to SDG 16.9 (legal identity for all). Background for [[benin--dpi-id]]. -->

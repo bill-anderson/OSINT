@@ -3,6 +3,9 @@ type: source
 title: Ghana, Burkina Faso tackle cross-border signal interference
 url: https://www.connectingafrica.com/connectivity/ghana-burkina-faso-tackle-cross-border-signal-interference
 publisher: Connecting Africa
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Matshepo Sehloho
 published: 2025-08-21
 date_precision: day

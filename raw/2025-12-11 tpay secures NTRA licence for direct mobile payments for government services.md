@@ -11,6 +11,7 @@ places: [EGY]
 topics: [dpi.pay, dpi.govtech, include.access]
 entities: [[tpay], [ntra-egypt]]
 lens: []
+body_completeness: full
 ---
 
 # tpay secures NTRA licence for direct carrier-billing payments for government services

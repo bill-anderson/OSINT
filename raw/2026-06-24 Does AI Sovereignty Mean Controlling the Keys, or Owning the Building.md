@@ -3,6 +3,8 @@ type: source
 title: "Does AI Sovereignty Mean Controlling the Keys, or Owning the Building?"
 publisher: Rebecca Mbaya (reamby.substack.com)
 url: https://reamby.substack.com/p/does-ai-sovereignty-mean-controlling
+date_precision: day
+date_source: source
 author: Rebecca Mbaya
 published: 2026-06-24
 accessed: 2026-07-12
@@ -11,6 +13,7 @@ places: [XAF, ZAF]
 topics: [tech.ai, gov.protect, gov.regional, gov.policy]
 entities: [[microsoft], [google], [openai], [afcfta], [uae], [rebecca-mbaya]]
 lens: [sovereignty, colonialism]
+body_completeness: full
 ---
 
 <!-- External expert analysis. Critiques the Nadella/Sunak (Davos 2026) "sovereignty as portfolio risk-management" framing as context-stripping for Africa; distinguishes data vs digital sovereignty; argues 54 nations without a shared definition = fragmentation = weakness. States "only 36 African countries currently have data protection legislation" (per Siyabonga Mabuza) — NB conflicts with Adebowale's "44 by early 2026" in the same batch; both dated, do not reconcile silently. Draws structurally on Siyabonga Mabuza, "Rewriting the Algorithm" (Jun 2026, siyabonga.pro): candidate publication entity but self-published, cited once — NOT created at intake (flag for later review). -->

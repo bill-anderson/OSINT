@@ -3,6 +3,7 @@ type: source
 title: "Digitalisation : une plateforme pour former des milliers de jeunes dans le numérique"
 url: https://www.adiac-congo.com/content/digitalisation-une-plateforme-pour-former-des-milliers-de-jeunes-dans-le-numerique-164718
 publisher: Les Dépêches de Brazzaville (ADIAC)
+ingested: 2026-07-18
 author: Firmin Oyé
 published: 2025-05-15
 date_precision: day
@@ -13,6 +14,7 @@ places: [COG]
 topics: [capacity.training, capacity.literacy, tech.ai, infra.cybersec, capacity.research, tech.innovate]
 entities: [[caria-congo]]
 lens: []
+body_completeness: full
 provenance_flag: state-aligned-outlet
 ---
 

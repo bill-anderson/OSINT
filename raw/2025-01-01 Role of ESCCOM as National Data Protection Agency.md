@@ -10,6 +10,8 @@ ingested: 2026-07-17
 places: [SWZ]
 topics: [gov.protect, gov.legislate, gov.standards]
 entities: [[esccom], [data-protection-act-2022-eswatini]]
+lens: []
+body_completeness: full
 ---
 
 (Note: institutional mandate page is undated; publication year is approximate/evergreen.)

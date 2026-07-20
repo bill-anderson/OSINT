@@ -3,6 +3,8 @@ type: source
 title: Startup do Moxico recebe licença para fornecer Internet via ANGOSAT-2
 url: https://angop.ao/noticias/tecnologia/startup-do-moxico-recebe-licenca-para-fornecer-internet-via-angosat-2/
 publisher: Angop
+lens: []
+body_completeness: full
 author: TST/YD
 published: 2026-07-02
 date_precision: day

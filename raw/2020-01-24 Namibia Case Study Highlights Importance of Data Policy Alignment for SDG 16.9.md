@@ -12,6 +12,7 @@ places: [NAM]
 topics: [dpi.registry, dpi.id, dpi.exchange, include.access]
 entities: [[namibia-digital-id]]
 lens: []
+body_completeness: full
 ---
 
 Reporting on a Global Partnership for Sustainable Development Data / Centre of Excellence compendium of good practices for advancing SDG target 16.9 (legal identity for all), featuring Namibia. Namibia is presented as operating a fully integrated National Population Registration System (NPRS) that registers citizens, permanent residents and refugees, built by combining databases linked by a unique identification number (UIN), with Vision 2030 and the e-Government strategy providing the policy alignment.

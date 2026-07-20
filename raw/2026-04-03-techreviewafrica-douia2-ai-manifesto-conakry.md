@@ -3,6 +3,7 @@ type: source
 title: "Guinea launches DouIA2 AI initiative and signs the 'Manifesto of Conakry'"
 url: https://techreviewafrica.com/news/4715/guinea-launches-douia2-initiative-to-drive-ai-driven-digital-transformation
 publisher: Tech Review Africa
+ingested: 2026-07-18
 author: Nana Appiah Acquaye
 published: 2026-04-03
 date_precision: day
@@ -13,6 +14,7 @@ places: [GIN]
 topics: [tech.ai, gov.policy, data.open]
 entities: [[rose-pola-pricemou], [ministry-digital-economy-guinea]]
 lens: []
+body_completeness: full
 provenance_flag: pr-wire
 ---
 

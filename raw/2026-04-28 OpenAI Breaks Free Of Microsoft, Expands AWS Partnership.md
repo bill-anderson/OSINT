@@ -3,6 +3,8 @@ type: source
 title: "OpenAI Breaks Free Of Microsoft, Expands AWS Partnership"
 publisher: MediaPost
 url: https://www.mediapost.com/publications/article/414658/
+date_precision: day
+date_source: source
 author: Laurie Sullivan
 published: 2026-04-28
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [XGL]
 topics: [tech.ai, infra.store, geopol.usa]
 entities: [[openai], [microsoft], [amazon-web-services]]
 lens: []
+body_completeness: full
 ---
 
 <!-- OpenAI restructures the Microsoft partnership, ending exclusivity; can now sell models on AWS and Google Cloud (Azure primary through 2032). Global cloud/AI context (no African place); light synthesis. -->

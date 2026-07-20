@@ -12,6 +12,7 @@ places: [XAF, DJI, GMB, BDI, BWA, DZA, NGA]
 topics: [gov.protect, gov.legislate]
 entities: [[paradigm-initiative], [nigeria-data-protection-act-2023], [ripoti]]
 lens: []
+body_completeness: full
 ---
 
 # Press release: Paradigm Initiative applauds countries with data protection laws - Paradigm Initiative

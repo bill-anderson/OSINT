@@ -5,12 +5,14 @@ publisher: Google Cloud
 url: https://cloud.google.com/distributed-cloud
 published: 2026
 date_precision: year
+date_source: source
 accessed: 2026-06-12
 ingested: 2026-07-10
 places: [XGL]
 topics: [infra.store, tech.ai, gov.protect, gov.standards]
 entities: [[google]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- PROFILE / REFERENCE (global Google product page; no African-specific claim). GDC extends

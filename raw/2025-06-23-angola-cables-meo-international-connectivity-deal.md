@@ -3,6 +3,8 @@ type: source
 title: Angola Cables inks new international connectivity deal (MEO Wholesale Solutions)
 url: https://itweb.africa/article/angola-cables-inks-new-international-connectivity-deal/LPp6V7rBA3A7DKQz
 publisher: ITWeb Africa
+lens: []
+body_completeness: full
 author: Staff Writer
 published: 2025-06-23
 date_precision: day

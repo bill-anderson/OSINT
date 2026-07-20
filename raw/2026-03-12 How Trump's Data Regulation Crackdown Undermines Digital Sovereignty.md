@@ -3,6 +3,8 @@ type: source
 title: "How Trump's Data Regulation Crackdown Undermines Digital Sovereignty"
 publisher: Tech Policy Press
 url: https://www.techpolicy.press/how-trumps-data-regulation-crackdown-undermines-digital-sovereignty/
+date_precision: day
+date_source: source
 author: James GÃ¶rgen
 published: 2026-03-12
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [XGL]
 topics: [gov.protect, gov.policy, gov.legislate, geopol.usa, geopol.eu]
 entities: [[us-department-of-state], [america-first-global-health-strategy]]
 lens: [sovereignty, colonialism]
+body_completeness: full
 ---
 
 <!-- Named-expert analysis of an internal State Dept cable (18 Feb 2026, signed Rubio) directing diplomats to monitor and counter data-sovereignty/localization laws worldwide (names GDPR; promotes the Global Cross-Border Privacy Rules Forum). Part of a campaign (Section 301 vs Brazil; anti-EU-DSA lobbying; WTO e-transmission-duty moratorium push, opposed by India/South Africa/Indonesia). Key context for Africa's data-sovereignty debate. -->

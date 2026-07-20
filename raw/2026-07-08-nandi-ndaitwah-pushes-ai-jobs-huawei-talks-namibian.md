@@ -6,6 +6,7 @@ publisher: The Namibian
 published: 2026-07-08
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [NAM]
 topics: [geopol.china, tech.ai, infra.store, capacity.training, finance.new]
 entities: [[netumbo-nandi-ndaitwah], [huawei], [china-namibia-smart-city], [ministry-home-affairs-namibia]]

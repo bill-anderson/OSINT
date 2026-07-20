@@ -13,6 +13,7 @@ places: [LBY]
 topics: [dpi.id, dpi.govtech]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 <!-- Libya's National High Electoral Commission (HNEC) launched an electronic verification mechanism to confirm voter identity in the municipal council elections, coinciding with voter-card distribution. Initially targeted 4 municipalities: Zliten, Al-Sbiaa, Brak, Al-Abrak. Enhances integrity/professionalism. Voters' biometric data registered via advanced devices during voter-card collection at election centres. -->

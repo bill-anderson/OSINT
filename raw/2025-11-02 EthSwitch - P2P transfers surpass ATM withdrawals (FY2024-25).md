@@ -11,6 +11,7 @@ places: [ETH]
 topics: [dpi.pay, include.access]
 entities: [[ethswitch]]
 lens: []
+body_completeness: full
 ---
 
 # EthSwitch — P2P transfers surpass ATM withdrawals (FY2024/25)

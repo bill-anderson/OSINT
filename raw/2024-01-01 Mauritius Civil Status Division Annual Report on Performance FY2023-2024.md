@@ -13,6 +13,7 @@ places: [MUS]
 topics: [dpi.registry, dpi.id]
 entities: [[civil-status-division-mauritius]]
 lens: []
+body_completeness: full
 ---
 
 Annual Report on Performance of the Mauritius Civil Status Division (CSD) for FY2023-2024, documenting the CSD's civil registration functions — registration of births, deaths and marriages — and their role in the national identity and vital-statistics system. Filed as a reference artefact profiling CSD activity; cite for institutional context rather than dated figures. Publication date not stated on the artefact; dated by proxy to FY (year precision).

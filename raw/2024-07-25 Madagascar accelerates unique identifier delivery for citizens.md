@@ -13,6 +13,7 @@ places: [MDG]
 topics: [dpi.id, dpi.registry, include.access]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 Madagascar is significantly expediting the delivery of unique identifiers during its household census, allowing family members to access state services immediately and bypassing the lengthy biometric enrolment process that typically exceeds two years.

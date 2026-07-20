@@ -13,6 +13,7 @@ places: [MUS]
 topics: [gov.policy, dpi.govtech, dpi.id]
 entities: [[mauritius-digital-blueprint-2025-2029]]
 lens: []
+body_completeness: full
 ---
 
 "A Blueprint for Mauritius - A Bridge to the Future" — the Government of Mauritius's Digital Transformation Blueprint for 2025-2029, unveiled in May 2025. The strategy sets out the national programme to modernise Mauritius's digital ecosystem and position it as a secure, competitive digital hub: unified government portal and mobile ID, updated data protection (GDPR alignment), a revised Cybersecurity and Cybercrime Act and National Cyber Resiliency Agency, a National AI Strategy, an e-commerce licensing framework, and SME/innovation support.

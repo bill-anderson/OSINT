@@ -3,6 +3,7 @@ type: source
 title: Digital ID Rollout Kicks Off in Kigali
 url: https://www.ktpress.rw/2026/02/digital-id-rollout-kicks-off-in-kigali/
 publisher: KT Press
+ingested: 2026-07-19
 author: Sam Nkurunziza
 published: 2026-02-07
 date_precision: day

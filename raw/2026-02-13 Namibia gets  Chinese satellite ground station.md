@@ -3,6 +3,8 @@ type: source
 title: "Namibia gets Chinese satellite ground station"
 publisher: ITWeb Africa
 url: https://itweb.africa/article/namibia-gets-chinese-satellite-ground-station/LPwQ57lbLyAqNgkj
+date_precision: day
+date_source: source
 author: Alfred Shilongo
 published: 2026-02-13
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [NAM]
 topics: [data.satellite, infra.connect, tech.industry, geopol.china]
 entities: [[netumbo-nandi-ndaitwah]]
 lens: [sovereignty, colonialism]
+body_completeness: excerpt
 ---
 
 <!-- China handed over Namibia's first satellite data-receiving ground station (Telecom Earth Station outside Windhoek, ~13 Feb 2026) for agriculture/disaster/environment; wholly Namibia-run with China training technicians. Namibia drafting a Space Science & Technology Bill. China soft-power framing. -->

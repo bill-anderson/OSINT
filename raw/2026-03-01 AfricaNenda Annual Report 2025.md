@@ -12,6 +12,7 @@ places: [XAF, RWA, LBR, ETH, CPV, MWI]
 topics: [dpi.pay, dpi.exchange, gov.regional, include.access, finance.mou]
 entities: [[africanenda], [ekash], [rswitch-rwanda], [central-bank-of-liberia], [mojaloop], [ethswitch]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # AfricaNenda Foundation — Annual Report 2025

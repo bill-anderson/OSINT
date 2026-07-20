@@ -6,12 +6,14 @@ publisher: Magazine RD CONGO-MONDE
 published: 2026-07-16
 date_precision: day
 date_source: proxy
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: COD-2026-07-17
 places: [COD]
 topics: [dpi.govtech, dpi.mis, gov.policy, gov.standards, data.open]
 entities: [[igf-drc], [christophe-bitasimwa]]
 lens: []
+body_completeness: full
 ---
 
 <!-- DATE NOTE: no explicit publication date in body. Body anchors the event to

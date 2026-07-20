@@ -11,6 +11,7 @@ places: [ETH]
 topics: [dpi.govtech, dpi.id, dpi.exchange]
 entities: [[mesob-platform], [fayda-ethiopia-national-id], [mosip]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # How Fayda powers Ethiopia's MESOB one-stop government platform

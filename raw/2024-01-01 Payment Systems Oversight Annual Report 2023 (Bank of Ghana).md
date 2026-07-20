@@ -12,6 +12,7 @@ places: [GHA]
 topics: [dpi.pay, data.statistics, infra.store]
 entities: [[bank-of-ghana]]
 lens: []
+body_completeness: full
 artefact: "2024-01-01 Payment-Systems-Oversight-Annual-Report-2023.pdf"
 ---
 

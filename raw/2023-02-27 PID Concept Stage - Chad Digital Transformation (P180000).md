@@ -7,6 +7,7 @@ published: 2023-02-27
 date_precision: day
 date_source: source
 ingested: 2026-07-17
+lens: []
 artefact: "2023-02-27 PID Concept Stage - Chad Digital Transformation (P180000).pdf"
 places: [TCD]
 topics: [dpi.govtech, finance.new, infra.connect]

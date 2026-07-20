@@ -13,6 +13,7 @@ places: [GHA]
 topics: [dpi.id, dpi.govtech]
 entities: [[national-identification-authority-ghana], [ghana-card], [margins-id-group], [samuel-nartey-george]]
 lens: []
+body_completeness: full
 ---
 
 <!-- From June 2025 SIM re-registration goes fully online (Ghana Card + automatic verification, no physical centres). Announced 8 April by Minister S.N. George at Margins ID Group (ICPS), Accra. Campaign began 2021; per 11 Nov 2022 Ministry update: 30,011,082 completed phase-one (Ghana Card–SIM link), 20,892,970 full biometric verification (~70%). -->

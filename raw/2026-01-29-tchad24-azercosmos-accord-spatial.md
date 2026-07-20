@@ -6,6 +6,7 @@ publisher: Tchad24 TV
 published: 2026-01-29
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [TCD]
 topics: [data.satellite, infra.connect, finance.mou, digital.rural]
 entities: [[arcep-chad], [azercosmos]]

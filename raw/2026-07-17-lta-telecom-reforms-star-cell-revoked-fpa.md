@@ -6,12 +6,14 @@ publisher: FrontPage Africa
 published: 2026-07-17
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: LBR-2026-07-17
 places: [LBR]
 topics: [infra.connect, gov.legislate, gov.policy, gov.protect, include.access]
 entities: [[lta-liberia], [starlink]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Liberia: LTA Unveils Sweeping Telecom Reforms, Revokes Star Cell License After Six Years of Inactivity

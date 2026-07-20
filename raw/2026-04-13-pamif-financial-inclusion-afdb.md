@@ -13,6 +13,7 @@ places: [MRT]
 topics: [dpi.pay, include.access, finance.new, infra.store]
 entities: [[african-development-bank], [central-bank-mauritania], [bmci], [pamif]]
 lens: []
+body_completeness: full
 provenance_flag: off-assigned-host
 ---
 

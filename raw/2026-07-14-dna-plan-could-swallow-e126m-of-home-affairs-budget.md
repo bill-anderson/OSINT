@@ -6,6 +6,7 @@ publisher: Times of Eswatini
 published: 2026-07-14
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [SWZ]
 topics: [dpi.id, dpi.registry, gov.protect]
 entities: [[ministry-of-home-affairs-eswatini]]

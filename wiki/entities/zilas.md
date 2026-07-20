@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: initiative
 title: Zambia Integrated Land Administration System (ZILAS)
 places: [ZMB]

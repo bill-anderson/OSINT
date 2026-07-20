@@ -12,6 +12,7 @@ places: [NGA]
 topics: [gov.protect, dpi.id, gov.legislate, infra.cybersec]
 entities: [[media-rights-agenda], [paradigm-initiative], [digital-rights-lawyers-initiative], [ndpc], [nigeria-data-protection-act-2023], [inec], [nimc]]
 lens: []
+body_completeness: full
 ---
 
 # MRA, Civil-Society Coalition Call on Nigerian Government to Strengthen Horizontal Accountability for Citizens’ Data - Media Rights Agenda

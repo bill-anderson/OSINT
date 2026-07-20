@@ -13,6 +13,7 @@ places: [GNQ]
 topics: [infra.connect, include.divides, data.statistics]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 <!-- DataReportal Digital 2026: Equatorial Guinea (published 8 Nov 2025; figures as of Oct 2025). Population 1.95m (75.4% urban, median age 20.9). Mobile connections 885k = 45.4% of pop (64.5% broadband) — note low mobile penetration. Internet users 1.18m, 60.4% penetration (end-2025). Social media 178k (9.1%). DataReportal shifted its cycle, publishing Digital 2026 at end-2025. -->

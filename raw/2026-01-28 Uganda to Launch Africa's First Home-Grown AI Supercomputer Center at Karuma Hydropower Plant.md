@@ -12,6 +12,7 @@ places: [UGA]
 topics: [tech.ai, infra.store, infra.energy, infra.connect, finance.new, capacity.research]
 entities: [[aeonian-project], [synectics-technologies], [nvidia], [karuma-hydropower-plant], [centenary-group-data-centre], [raxio-group]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 *Explanatory local coverage for a lay audience, thin on attribution — the lowest evidential weight of the three Aeonian accounts. Sole source for the $1.2 billion project cost: single-sourced, flag it as such wherever used. The wiki should adopt NO 'first AI factory in Africa' claim — three clips give three different superlatives against Cassava's competing claim; the label is contested marketing.*

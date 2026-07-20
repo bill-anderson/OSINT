@@ -12,6 +12,7 @@ places: [GHA]
 topics: [dpi.registry, digital.localgov, data.satellite, dpi.govtech]
 entities: [[lands-commission-ghana]]
 lens: []
+body_completeness: full
 artefact: "2023-01-01 NLC-Fit-for-purpose cadastral.pdf"
 ---
 

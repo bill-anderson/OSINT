@@ -3,6 +3,8 @@ type: source
 title: Smart Africa and AFNIC Partner to Strengthen Africa's Internet Infrastructure
 url: https://techafricanews.com/2026/07/09/smart-africa-and-afnic-partner-to-strengthen-africas-internet-infrastructure/
 publisher: TechAfrica News
+date_precision: day
+date_source: source
 author: Jennifer Onyeagoro
 published: 2026-07-09
 ingested: 2026-07-10
@@ -10,6 +12,7 @@ places: [XAF]
 topics: [infra.connect, infra.cybersec, capacity.training, gov.standards, gov.regional]
 entities: [[smart-africa], [afnic], [smart-africa-afnic-mou]]
 lens: [sovereignty]
+body_completeness: full
 ---
 [Smart Africa](https://smartafrica.org/) has signed a Memorandum of Understanding (MoU) with [AFNIC](https://www.afnic.fr/en/) to strengthen Africa’s internet infrastructure through enhanced collaboration on domain name management, cybersecurity and technical capacity building.
 

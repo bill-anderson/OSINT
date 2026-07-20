@@ -3,6 +3,8 @@ type: source
 title: "On Documenting African AI Knowledge: What Becomes Possible"
 publisher: Rebecca Mbaya (reamby.substack.com)
 url: https://reamby.substack.com/p/on-documenting-african-ai-knowledge
+date_precision: day
+date_source: source
 author: Rebecca Mbaya
 published: 2026-03-25
 accessed: 2026-07-12
@@ -11,6 +13,7 @@ places: [XAF]
 topics: [tech.ai, tech.innovate, capacity.research, include.divides]
 entities: [[rebecca-mbaya]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- External expert analysis. Behind-the-scenes of the TAIS Knowledge Map (interactive network of ~53 interviewed African AI innovators across six thematic clusters), and the contradiction of documenting African AI sovereignty with non-African tools (NotebookLM/Claude/Gemini/Lovable) + the offline-first/connectivity gap. Article is human-authored analysis (tools are its subject, not its author) -> admissible as source. TAIS Knowledge Map is Mbaya's own project: candidate resource entity, self-referential, NOT created at intake (flag). Earliest-dated piece in batch. -->

@@ -13,6 +13,7 @@ places: [TCD, MLI, SEN]
 topics: [dpi.registry, dpi.id, include.access, include.divides, digital.rural, gov.legislate, dpi.exchange]
 entities: [[anats], [id4africa], [ansaec-mali]]
 lens: [colonialism, sovereignty]
+body_completeness: full
 ---
 
 *Merged 2026-07-17: the wiki held a Mali-focused extract of this article; the SWZ/SYC/TCD/TGO

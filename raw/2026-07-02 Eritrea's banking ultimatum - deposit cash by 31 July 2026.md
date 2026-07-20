@@ -13,6 +13,7 @@ places: [ERI]
 topics: [dpi.pay, gov.legislate]
 entities: [[bank-of-eritrea]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 **Provenance note:** Awate.com is a **diaspora / opposition** outlet (founded 2001

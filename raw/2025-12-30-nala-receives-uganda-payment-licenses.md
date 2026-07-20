@@ -6,6 +6,7 @@ publisher: We Are Tech Africa
 published: 2025-12-30
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [UGA]
 topics: [dpi.pay, finance.new]
 entities: [[nala], [bank-of-uganda]]

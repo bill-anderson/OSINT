@@ -12,6 +12,7 @@ places: [XAF, XSS, KEN, RWA]
 topics: [infra.connect, infra.energy, dpi.pay, include.divides, finance.new, gov.regional]
 entities: [[mo-ibrahim-foundation], [papss]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Africa on the move: Boosting mobility and connectivity

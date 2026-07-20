@@ -6,12 +6,14 @@ publisher: TechAfrica News
 published: 2025-11-25
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [gov.policy, gov.legislate, finance.new, infra.connect, include.access]
 entities: [[ministry-of-digital-transition-and-digitalisation-cote-divoire], [kalil-ibrahim-konate], [national-assembly-cote-divoire], [alassane-ouattara]]
 lens: []
+body_completeness: full
 ---
 
 #News

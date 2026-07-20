@@ -6,12 +6,14 @@ publisher: Telecom Review Africa
 published: 2025-12-05
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: GHA-2026-07-17
 places: [GHA]
 topics: [dpi.id, gov.legislate]
 entities: [[samuel-nartey-george], [national-communications-authority-ghana], [national-identification-authority-ghana]]
 lens: []
+body_completeness: full
 ---
 # Ghana to Launch New Nationwide SIM Registration by Early 2026
 

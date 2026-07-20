@@ -12,6 +12,7 @@ places: [LSO]
 topics: [dpi.pay, include.access, gov.legislate]
 entities: [[leswitch]]
 lens: []
+body_completeness: full
 artefact: "2025-09-01 The Regulator July-Sept 2025 (Central Bank of Lesotho).pdf"
 ---
 

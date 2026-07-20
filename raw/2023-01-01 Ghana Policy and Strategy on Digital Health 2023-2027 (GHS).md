@@ -12,6 +12,7 @@ places: [GHA]
 topics: [dpi.mis, gov.policy, infra.capacity]
 entities: [[ghana-digital-health-policy-2023-2027], [ghana-health-service]]
 lens: []
+body_completeness: full
 artefact: "2023-01-01 gha_ghana_policy-and-strategy-on-digital-health_2023-2027.pdf"
 ---
 

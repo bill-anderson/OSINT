@@ -3,6 +3,7 @@ type: source
 title: Chad tells operators to fast-track fiber link to Cameroon
 url: https://www.connectingafrica.com/fiber-networking/chad-tells-operators-to-fast-track-fiber-link-to-cameroon
 publisher: Connecting Africa
+ingested: 2026-07-18
 author: Matshepo Sehloho
 published: 2026-02-09
 date_precision: day
@@ -11,6 +12,7 @@ places: [TCD, CMR]
 topics: [infra.connect, gov.regional, gov.legislate, finance.mou, include.divides, data.statistics]
 entities: [[sotel-tchad], [airtel-chad], [arcep-chad], [moov-africa]]
 lens: [sovereignty]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: CMR-2026-07-17
 ---

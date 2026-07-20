@@ -6,12 +6,14 @@ publisher: ITWeb Africa
 published: 2026-03-25
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: GHA-2026-07-17
 places: [GHA]
 topics: [dpi.pay, gov.policy]
 entities: [[bank-of-ghana], [samuel-nartey-george]]
 lens: []
+body_completeness: full
 ---
 # Ghana puts fintech at forefront of digital economy
 

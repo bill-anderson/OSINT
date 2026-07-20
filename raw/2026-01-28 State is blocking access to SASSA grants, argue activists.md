@@ -12,6 +12,7 @@ places: [ZAF]
 topics: [dpi.pay, include.access, include.divides, gov.legislate, gov.protect, capacity.literacy, digital.rural]
 entities: [[sassa], [institute-for-economic-justice], [paythegrants], [national-treasury-south-africa]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 *THE EVIDENTIARY SPINE FOR DIGITAL-BY-DEFAULT EXCLUSION, and the most important clip in this batch for the wiki's analytical balance. Public-interest journalism reporting from filed court papers — attribute the arguments to the parties. The Institute for Economic Justice and #PayTheGrants are opposing the state's SCA appeal against a Jan-2025 high court ruling that struck the online-only application system, the R624 income threshold and the grant's value as unlawful. Their charge, from the papers: the state made the grant 'inaccessible to millions... and persistently failed to pay hundreds of thousands of approved beneficiaries'. Scale, on the department's own June-2022 figures: 13.4 million working-age people with NO income; 18.3 million below the food poverty line; Treasury funds fewer than half of those who would qualify. The mechanism: any money entering a bank account is treated as income, and bank verification wrongly excludes eligible applicants by misclassifying funds on a single month's snapshot. The department argued that complaints posted on X prove there is no barrier to online access. Until now the wiki held only rhetorical warnings about digital-first becoming digital-only; this is where it is litigated with numbers.*

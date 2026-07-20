@@ -14,6 +14,7 @@ places: [AGO]
 topics: [infra.cybersec, gov.legislate, tech.ai, infra.store, gov.regional]
 entities: [[joao-lourenco], [procuradoria-geral-da-republica-angola], [servico-de-investigacao-criminal-angola], [convencao-das-nacoes-unidas-contra-o-cibercrime], [centro-nacional-de-ciberseguranca-angola], [angola-cybersecurity-law], [nuvem-nacional-de-angola]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # João Lourenço considera cybercrime um dos grandes desafios da Justiça

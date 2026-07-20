@@ -2,6 +2,8 @@
 type: source
 title: "Google in Africa"
 publisher: Data Landscapers
+date_precision: day
+date_source: source
 author: [[bill]]
 url: https://data-landscapers.com/2026/05/20/google-in-africa/
 published: 2026-05-20
@@ -11,6 +13,7 @@ places: [XAF, ZAF, GHA, KEN]
 topics: [infra.connect, infra.store, tech.ai, geopol.usa, gov.regional, finance.new, tech.industry]
 entities: [[bill], [data-landscapers], [google], [cassava-technologies], [afcfta], [african-union]]
 lens: [sovereignty, colonialism]
+body_completeness: full
 ---
 
 <!-- EXPERT ANALYSIS (Data Landscapers, author [[bill]]). "Partner or predator?" — audit of

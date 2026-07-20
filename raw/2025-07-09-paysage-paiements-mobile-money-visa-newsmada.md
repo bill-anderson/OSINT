@@ -6,10 +6,12 @@ publisher: Newsmada
 published: 2025-07-09
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [MDG]
 topics: [dpi.pay, finance.new, include.access]
 entities: [[mvola], [visa], [e-ariary]]
 lens: []
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: MDG-2026-07-17
 ---

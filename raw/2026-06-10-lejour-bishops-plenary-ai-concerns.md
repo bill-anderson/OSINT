@@ -3,6 +3,9 @@ type: source
 title: "Plénière des évêques : l'Eglise catholique se préoccupe de l'utilisation croissante de l'IA"
 url: https://lejour.cm/pleniere-des-eveques-leglise-catholique-se-preoccupe-de-lutilisation-croissante-de-lia/
 publisher: Le Jour
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Roseline Ewombe Eboa
 published: 2026-06-10
 date_precision: day

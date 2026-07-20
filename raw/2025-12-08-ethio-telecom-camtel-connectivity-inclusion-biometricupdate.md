@@ -3,6 +3,7 @@ type: source
 title: Ethio Telecom to boost Cameroon's digital connectivity, inclusion drive
 url: https://www.biometricupdate.com/202512/ethio-telecom-to-boost-cameroons-digital-connectivity-inclusion-drive
 publisher: Biometric Update
+ingested: 2026-07-18
 author: Ayang Macdonald
 published: 2025-12-08
 date_precision: day
@@ -11,6 +12,7 @@ places: [CMR, ETH]
 topics: [infra.connect, infra.store, dpi.pay, tech.industry, finance.mou, include.access, gov.regional]
 entities: [[camtel], [ethio-telecom]]
 lens: [sovereignty]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: CMR-2026-07-17
 ---

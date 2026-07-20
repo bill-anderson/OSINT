@@ -13,6 +13,7 @@ places: [MRT]
 topics: [dpi.id, dpi.registry, include.access, gov.legislate]
 entities: [[anrpts-mauritania]]
 lens: [sovereignty, colonialism]
+body_completeness: full
 provenance_flag: off-assigned-host
 ---
 

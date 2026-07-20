@@ -12,6 +12,7 @@ places: [XAF, ZAF, LSO]
 topics: [gov.protect, gov.legislate, gov.regional, dpi.pay]
 entities: [[cenfri], [popia], [information-regulator-south-africa], [afcfta-digital-trade-protocol], [malabo-convention]]
 lens: [colonialism]
+body_completeness: full
 ---
 
 # Reassessing the role of data protection authorities in Africa – Cenfri

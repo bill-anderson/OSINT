@@ -3,6 +3,9 @@ type: source
 title: BurundiPay Set to Transform Digital Payments and Financial Transactions Nationwide
 url: https://techafricanews.com/2026/04/27/burundipay-set-to-transform-digital-payments-and-financial-transactions-nationwide/
 publisher: TechAfrica News
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Editorial Team
 published: 2026-04-27
 date_precision: day

@@ -4,11 +4,14 @@ title: "Ralph Mupita on MTN's New Frontier: Connectivity, Content, and African A
 url: https://techafricanews.com/2026/04/09/ralph-mupita-on-mtns-new-frontier-connectivity-content-and-african-ai/
 publisher: Tech Africa News
 published: 2026-04-09
+date_precision: day
+date_source: source
 ingested: 2026-07-10
 places: [XAF, NGA, XSS]
 topics: [infra.connect, tech.ai, include.divides, include.access, finance.new, tech.industry]
 entities: [[mtn-group], [ralph-mupita]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 ![](https://techafricanews.com/wp-content/uploads/2026/04/MWC_Barcelona_Youtube_Thumbnail_01_MTN_Ralph_Mupita-transformed.jpeg)

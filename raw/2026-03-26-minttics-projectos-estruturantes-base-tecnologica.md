@@ -13,6 +13,7 @@ places: [AGO]
 topics: [infra.connect, infra.store, data.satellite, tech.ai, include.divides, gov.policy]
 entities: [[ministerio-das-telecomunicacoes-tecnologias-de-informacao-e-comunicacao-social-angola], [mario-oliveira], [equiano-cable], [angosat-2], [angeo-1], [conecta-angola], [data-center-e-cloud-do-governo-angola], [angotic]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # MINTTICS implementa projectos estruturantes para a redefinição da base tecnológica do país

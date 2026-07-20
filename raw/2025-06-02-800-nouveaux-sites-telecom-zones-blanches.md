@@ -3,6 +3,9 @@ type: source
 title: Burkina Faso Plans 800 New Telecom Sites to Close Coverage Gaps
 url: https://www.telecomreviewafrica.com/articles/general-news/12008-burkina-faso-plans-800-new-telecom-sites-to-close-coverage-gaps/
 publisher: Telecom Review Africa
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author:
 published: 2025-06-02
 date_precision: day

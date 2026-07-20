@@ -3,6 +3,8 @@ type: source
 title: "Zimbabwe's Econet Wireless and the making of Africa's first cashless society"
 publisher: The Guardian
 url: https://www.theguardian.com/global-development-professionals-network/blog/2014/aug/18/econet-wireless-zimbabwe-cashless-society
+date_precision: day
+date_source: source
 author: Anna Leach
 published: 2014-08-18
 accessed: 2026-06-12
@@ -11,6 +13,7 @@ places: [ZWE, ZAF, KEN, NGA, XAF]
 topics: [dpi.pay, infra.connect, include.access, infra.energy]
 entities: [[econet-wireless], [ecocash], [strive-masiyiwa]]
 lens: []
+body_completeness: full
 ---
 
 <!-- 2014 reporting. EcoCash "43% of GDP moves through Econet"; hyperinflation (2002) destroyed

@@ -3,6 +3,7 @@ type: source
 title: Six Francophone West African Countries Unite on AI Governance Framework
 url: https://www.wearetech.africa/en/fils-uk/news/tech/six-francophone-west-african-countries-unite-on-ai-governance-framework
 publisher: We Are Tech Africa
+ingested: 2026-07-18
 author: Ange J. A de Berry Quenum
 published: 2026-07-09
 date_precision: day
@@ -13,6 +14,7 @@ places: [BEN, BFA, CIV, GIN, MLI, SEN]
 topics: [tech.ai, gov.policy, gov.regional, gov.protect, gov.standards]
 entities: [[niyel], [african-union], [unesco]]
 lens: [sovereignty, colonialism]
+body_completeness: full
 ---
 
 # Six Francophone West African Countries Unite on AI Governance Framework

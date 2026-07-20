@@ -13,6 +13,7 @@ places: [BFA]
 topics: [gov.legislate, infra.connect]
 entities: [[arcep-burkina-faso]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Ecofin (Feb 2026): Burkina Faso adopted a decree (12 Feb 2026) requiring large firms (≥CFA5bn annual revenue over 3 fiscal years) to build HQ in-country — hitting the three mobile operators. Four categories by revenue: Cat A (≥CFA100bn) must build ≥R+7 building w/ parking + energy-efficiency — Moov Africa and Orange qualify; Telecel Faso is Cat C (CFA10-50bn), ≥R+4. Per ARCEP 2024 revenue: Onatel CFA117.19bn; Orange CFA332.91bn; Telecel CFA40.44bn. A physical-localisation/economic-sovereignty measure (local HQ, local investment) — the built-environment cousin of data localisation. -->

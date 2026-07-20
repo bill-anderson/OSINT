@@ -3,6 +3,7 @@ type: source
 title: "Cyber Incub: Des solutions en cybersécurité en maturation à Abomey-Calavi"
 url: https://www.lanation.bj/numerique/cyber-incub-des-solutions-en-cybersecurite-en-maturation-a-abomey-calavi
 publisher: La Nation
+ingested: 2026-07-18
 author: Christian Hounongbe
 published: 2026-04-21
 date_precision: day
@@ -13,6 +14,7 @@ places: [BEN]
 topics: [infra.cybersec, tech.innovate, finance.new, geopol.eu]
 entities: [[asin-benin], [adpme-benin], [cnin-benin], [cyber-incub], [luxdev], [bedigital], [lenvol-incubateur], [marc-andre-loko], [laurent-gangbes], [ouanilo-medegan-fagla]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Cyber Incub: Des solutions en cybersécurité en maturation à Abomey-Calavi

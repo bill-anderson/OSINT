@@ -6,10 +6,12 @@ publisher: Lesotho Times
 published: 2025-05-14
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [LSO]
 topics: [dpi.pay, include.access, finance.new]
 entities: [[leswitch], [central-bank-of-lesotho], [standard-lesotho-bank]]
 lens: [sovereignty]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: LSO-2026-07-17
 ---

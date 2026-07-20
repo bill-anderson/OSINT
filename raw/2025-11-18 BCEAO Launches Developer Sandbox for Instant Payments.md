@@ -3,6 +3,8 @@ type: source
 title: BCEAO Launches Developer Sandbox for Instant Payments
 url: https://www.togofirst.com/en/itc/1811-17593-bceao-launches-developer-sandbox-for-instant-payments
 publisher: Togo First
+lens: []
+body_completeness: full
 author: Togo First (R.E.D)
 published: 2025-11-18
 date_precision: day

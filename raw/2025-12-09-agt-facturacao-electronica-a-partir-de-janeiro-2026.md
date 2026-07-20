@@ -3,6 +3,8 @@ type: source
 title: AGT começa a aplicar facturação electrónica em 1 de Janeiro de 2026
 url: https://novojornal.co.ao/economia/detalhe/agt-comeca-a-aplicar-facturacao-electronica-em-1-de-janeiro-de-2026-68608.html
 publisher: Novo Jornal
+lens: []
+body_completeness: full
 author: Nova Vaga
 published: 2025-12-09
 date_precision: day

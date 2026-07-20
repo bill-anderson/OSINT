@@ -4,11 +4,14 @@ title: How AI Keeps Europe Hooked on US Cloud
 url: https://www.techpolicy.press/how-ai-keeps-europe-hooked-on-us-cloud/
 publisher: Tech Policy Press
 published: 2026-06-29
+date_precision: day
+date_source: source
 ingested: 2026-07-10
 places: [XGL]
 topics: [infra.store, tech.ai, geopol.usa, geopol.eu, gov.policy, tech.industry, infra.capacity]
 entities: [[microsoft], [google], [nvidia]]
 lens: [sovereignty, colonialism]
+body_completeness: full
 ---
 
 Frederike Kaltheuner, Leevi Saari /

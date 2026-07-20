@@ -3,6 +3,7 @@ type: source
 title: "Burkina/Économie numérique : La refondation par l'IA au cœur de la 4ᵉ édition du SIPEN-UEMOA"
 url: https://lefaso.net/spip.php?article147847
 publisher: leFaso.net
+ingested: 2026-07-18
 author: Erwan Compaoré
 published: 2026-07-14
 date_precision: day
@@ -13,6 +14,7 @@ places: [BFA, XWA]
 topics: [tech.ai, gov.regional, gov.policy, dpi.pay, include.access, finance.new]
 entities: [[sipen-uemoa], [uemoa], [aminata-zerbo-sabane], [ministere-transition-digitale-burkina-faso], [alliance-of-sahel-states]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Burkina/Économie numérique : La refondation par l'IA au cœur de la 4ᵉ édition du SIPEN-UEMOA

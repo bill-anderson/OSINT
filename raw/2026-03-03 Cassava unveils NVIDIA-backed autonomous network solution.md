@@ -3,6 +3,8 @@ type: source
 title: "Cassava unveils NVIDIA-backed autonomous network solution"
 publisher: ITWeb Africa
 url: https://itweb.africa/article/cassava-unveils-nvidia-backed-autonomous-network-solution/
+date_precision: day
+date_source: source
 author: Lezeth Khoza
 published: 2026-03-03
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [XAF, ZAF]
 topics: [infra.connect, tech.ai, tech.innovate]
 entities: [[cassava-technologies], [cassava-ai], [nvidia], [cassava-ai-factories], [caimex]]
 lens: [sovereignty]
+body_completeness: excerpt
 ---
 
 <!-- Backfill/update to [[cassava-technologies]]/[[nvidia]]: Cassava Autonomous Network — an agentic solution to self-optimise mobile RAN (cuts minor-issue repair from 4 days to ~35 min, +75% efficiency), across all vendors and 2G-5G; powered by NVIDIA NIM microservices; runs on CAIMEx. -->

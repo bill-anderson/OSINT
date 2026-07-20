@@ -12,6 +12,7 @@ places: [GHA]
 topics: [include.divides, capacity.training, digital.rural, dpi.mis]
 entities: []
 lens: []
+body_completeness: full
 artefact: "2025-11-26 GSCARR-2025-0350.pdf"
 ---
 

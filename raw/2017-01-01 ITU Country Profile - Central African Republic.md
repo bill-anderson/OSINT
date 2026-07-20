@@ -13,6 +13,7 @@ places: [CAF]
 topics: [infra.connect, gov.legislate]
 entities: [[socatel], [orange-centrafrique], [arcep-central-african-republic]]
 lens: []
+body_completeness: full
 ---
 
 <!-- COMPANION SOURCE PAGE for the binary PDF raw/2017-01-01 ITU Country Profile - Central African Republic.pdf. ITU ICT country profile of an LDC (2017 folder; some data ~2016) — date proxied to year (exact pub date not on the doc). Official reference for CAR's connectivity structure. -->

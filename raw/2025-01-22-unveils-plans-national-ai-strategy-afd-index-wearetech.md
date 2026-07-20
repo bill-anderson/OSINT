@@ -3,6 +3,7 @@ type: source
 title: Cameroon Unveils Plans for National Artificial Intelligence Strategy
 url: https://www.wearetech.africa/en/fils-uk/news/tech/cameroon-unveils-plans-for-national-artificial-intelligence-strategy
 publisher: We Are Tech Africa
+ingested: 2026-07-18
 author: Samira Njoya
 published: 2025-01-22
 date_precision: day
@@ -11,6 +12,7 @@ places: [CMR]
 topics: [tech.ai, gov.policy, gov.protect, infra.cybersec, capacity.training, tech.innovate, finance.new, data.statistics]
 entities: [[snia-cameroon], [minpostel], [agence-francaise-de-developpement]]
 lens: [sovereignty]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: CMR-2026-07-17
 ---

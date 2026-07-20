@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: organisation
 title: Pan-African Postal Union (PAPU)
 places: [XAF, TZA]

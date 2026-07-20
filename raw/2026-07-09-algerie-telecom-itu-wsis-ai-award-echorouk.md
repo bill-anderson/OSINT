@@ -1,6 +1,7 @@
 ---
 type: source
 title: مشروع جزائري في الذكاء الاصطناعي يتوج في القمة العالمية لمجتمع المعلومات
+ingested: 2026-07-18
 title_en: Algérie Télécom AI project wins ITU/WSIS award ("AI for digital inclusion")
 url: https://www.echoroukonline.com/%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1%D9%8A-%D9%81%D9%8A-%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D9%8A%D8%AA%D9%88%D8%AC
 publisher: Echorouk El Yawmi
@@ -14,6 +15,7 @@ places: [DZA]
 topics: [tech.ai, include.divides, tech.innovate]
 entities: [[algerie-telecom, itu, ministere-de-la-poste-et-des-telecommunications, sid-ali-zerrouki]]
 lens: []
+body_completeness: full
 ---
 
 # مشروع جزائري في الذكاء الاصطناعي يتوج في القمة العالمية لمجتمع المعلومات

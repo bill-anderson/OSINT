@@ -3,6 +3,9 @@ type: source
 title: BSB bets on digital banking to become Botswana's primary bank
 url: https://www.mmegi.bw/news/bsb-bets-on-digital-banking-to-become-botswanas-primary-bank/news
 publisher: Mmegi
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Kingsley Kuda
 published: 2026-06-22
 date_precision: day

@@ -3,6 +3,7 @@ type: source
 title: Burkina Faso Prioritizes Tech Sovereignty in Talks with Italian Investors
 url: https://www.wearetech.africa/en/fils-uk/news/tech/burkina-faso-prioritizes-tech-sovereignty-in-talks-with-italian-investors
 publisher: We Are Tech Africa
+ingested: 2026-07-18
 author: Samira Njoya
 published: 2026-04-24
 date_precision: day

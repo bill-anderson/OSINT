@@ -12,6 +12,7 @@ places: [LBR]
 topics: [dpi.id, dpi.registry]
 entities: [[national-identification-registry-liberia], [world-bank]]
 lens: []
+body_completeness: full
 artefact: "2020-01-01 113549-REPL-Liberia-ID4D-Diagnostics-Web.pdf"
 ---
 

@@ -12,6 +12,7 @@ places: [XWA, GHA, XAF]
 topics: [dpi.govtech, gov.legislate, data.open, tech.ai, gov.regional, finance.new]
 entities: [[odi-global], [konza-technopolis]]
 lens: [sovereignty, colonialism]
+body_completeness: full
 ---
 
 # Getting Smart about Africa's mineral wealth (ODI)

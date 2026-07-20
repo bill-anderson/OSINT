@@ -6,13 +6,14 @@ publisher: Radio Ndeke Luka (Fondation Hirondelle)
 published: 2026-02-03
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [CAF]
 topics: [infra.connect, gov.policy, include.divides, digital.rural]
 entities: [[justin-gourna-zacko], [starlink], [mepci-central-african-republic]]
 lens: [sovereignty]
 retrieved: 2026-07-17
 sweep_batch: CAF-2026-07-17
-body_completeness: radio-item (text stub + audio)
+body_completeness: full
 ---
 
 **Note:** Radio Ndeke Luka publishes radio journalism — this item is a short web stub fronting an audio interview. The full substance is in the audio, which is not captured here. The text below is the complete published text.

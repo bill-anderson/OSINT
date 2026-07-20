@@ -3,6 +3,8 @@ type: source
 title: "Gabon and Huawei Forge Partnership to Boost National Digital Transformation"
 publisher: Tech Africa News
 url: https://techafricanews.com/2026/01/05/gabon-and-huawei-forge-partnership-to-boost-national-digital-transformation/
+date_precision: day
+date_source: source
 author: Jennifer Onyeagoro
 published: 2026-01-05
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [GAB]
 topics: [finance.mou, tech.innovate, capacity.training, geopol.china]
 entities: [[huawei], [gabon-huawei-mou]]
 lens: [sovereignty, colonialism]
+body_completeness: full
 ---
 
 <!-- MoU signed 2025-12-23 between the Gabon govt (Minister Mark-Alexandre Doumba) and Huawei Gabon; three pillars: joint project committee, integration of Gabonese startups, skills transfer for digital sovereignty; expands the Connected Schools Program. -->

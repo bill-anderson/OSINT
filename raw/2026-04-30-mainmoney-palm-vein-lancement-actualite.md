@@ -6,12 +6,14 @@ publisher: ACTUALITE.CD
 published: 2026-04-30
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: COD-2026-07-17
 places: [COD]
 topics: [dpi.pay, dpi.id, include.access, tech.innovate, finance.new]
 entities: [[mainmoney], [sylvain-mubenga], [visa], [silikin-village], [chu-renaissance-kinshasa]]
 lens: []
+body_completeness: full
 provenance_flag: pr-wire
 ---
 

@@ -13,6 +13,7 @@ places: [GIN]
 topics: [dpi.registry, dpi.id, include.access]
 entities: [[oneci-guinea]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Enabel (Belgian Development Agency) interview (2023) on the EU-funded pilot to modernise Guinea's civil registry across 10 communes. Baseline: only 45-60% of Guineans have birth certificates; <2% of marriages/deaths registered. 2022 pilot: 44,493 vital events recorded on time; 66,562 obtained certificates via court procedure. Three phases: (1) national digital civil registry in 10 pilot communes (105,000+ records migrated); (2) 3 app modules with DXC Technology (records security, court-decision harmonisation, automatic birth notification ≤10 days); (3) legal reform for digitisation. Drew on Rwanda + Belgium (BOSA, DABS/BAEC). Belgian teams visit every 2 months. EU convinced; extension envisaged. Baseline predating the 2026 Sanoyah biometric rollout. -->

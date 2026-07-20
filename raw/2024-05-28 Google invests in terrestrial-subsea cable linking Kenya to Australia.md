@@ -3,6 +3,8 @@ type: source
 title: "Google invests in terrestrial-subsea cable linking Kenya to Australia"
 publisher: Mobile Europe
 url: https://www.mobileeurope.co.uk/google-invests-in-terrestrial-subsea-cable-linking-kenya-to-australia/
+date_precision: day
+date_source: source
 author: Annie Turner
 published: 2024-05-28
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [KEN, UGA, RWA, COD, ZMB, ZWE, ZAF, XAF]
 topics: [infra.connect, infra.cybersec, geopol.usa, finance.new]
 entities: [[umoja-cable], [google], [liquid-c2], [cassava-technologies]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Backfill (2024-05): Google's 'Umoja' cable — first to directly connect Africa to Australia (terrestrial Kenya->Uganda->Rwanda->DRC->Zambia->Zimbabwe->SA, then to Australia); overland route built with Liquid Intelligent Technologies (Cassava). Google's 2021 $1bn/5yr pledge (>$900m by 2024). Entity [[umoja-cable]]. -->

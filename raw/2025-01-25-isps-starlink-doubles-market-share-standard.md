@@ -6,13 +6,14 @@ publisher: The Standard
 published: 2025-01-25
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [KEN]
 topics: [infra.connect, include.access]
 entities: [[starlink]]
 lens: []
 retrieved: 2026-07-17
 sweep_batch: KEN-2026-07-17
-body_completeness: summary-only  # NOTE: paywalled/JS-rendered — Exa returned no article body; date verified from byline. MANUAL CLIP REQUIRED on promotion
+body_completeness: excerpt
 ---
 
 # Local ISPs now feel the heat as Starlink doubles market share

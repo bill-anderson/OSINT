@@ -1,10 +1,13 @@
 ---
 type: source
+ingested: 2026-07-17
 places: [NGA]
 topics: [infra.store, finance.new]
 entities: [[oadc]]
 date_precision: day
 date_source: source
+lens: []
+body_completeness: full
 page: Open Access Data Centres to Expand Lagos Facility to 24MW by 2027 - TechAfrica News
 title: Open Access Data Centres to Expand Lagos Facility to 24MW by 2027
 author: Aayushya Ranjan

@@ -3,6 +3,8 @@ type: source
 title: "Margins ID Group emerges as Africa's leading provider of certified digital identity solutions"
 publisher: Class FM Online
 url: https://mobile.classfmonline.com/news/technology/Margins-ID-Group-emerges
+date_precision: day
+date_source: source
 author: Class FM Online
 published: 2026-01-28
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [GHA]
 topics: [dpi.id, dpi.pay, infra.cybersec, gov.standards]
 entities: [[margins-id-group], [ghana-card]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Profile: Ghana's Margins ID Group (founded 1990). Subsidiary ICPS is Africa's first domestic secure ID/payment/gov-doc production (only West African ISO 14298 security-printing facility; Mastercard/Visa certified; produces the Ghana Card); subsidiary MIDSA does digital-ID platforms/biometrics. Positions for AfCFTA-interoperable systems. -->

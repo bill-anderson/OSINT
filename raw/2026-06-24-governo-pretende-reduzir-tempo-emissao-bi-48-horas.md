@@ -3,6 +3,8 @@ type: source
 title: Governo pretende reduzir tempo de emissão do BI para até 48 horas
 url: https://angop.ao/noticias/politica/governo-pretende-reduzir-tempo-de-emissao-do-bi-para-ate-48-horas/
 publisher: Angop
+lens: []
+body_completeness: full
 author: ART
 published: 2026-06-24
 date_precision: day

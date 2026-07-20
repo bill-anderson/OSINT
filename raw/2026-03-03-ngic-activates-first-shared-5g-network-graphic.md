@@ -6,12 +6,14 @@ publisher: Graphic Online
 published: 2026-03-03
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: GHA-2026-07-17
 places: [GHA]
 topics: [infra.connect]
 entities: [[ngic-ghana], [national-communications-authority-ghana]]
 lens: []
+body_completeness: full
 ---
 
 # NGIC secures regulatory clearance, activates Ghana's first shared 5G network

@@ -3,6 +3,7 @@ type: source
 title: Niger's rollout of biometric IDs gets a thumbs up
 url: https://www.connectingafrica.com/regulation/niger-s-rollout-of-biometric-ids-gets-a-thumbs-up
 publisher: Connecting Africa
+ingested: 2026-07-18
 author: Daniel Itai
 published: 2026-04-21
 date_precision: day
@@ -13,6 +14,7 @@ places: [NER, BFA]
 topics: [dpi.id, gov.regional, gov.protect, include.divides]
 entities: [[alliance-of-sahel-states], [roscosmos]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 Niger has become the latest African country to begin rolling out biometric identity documents to its citizens.

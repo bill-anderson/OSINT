@@ -3,6 +3,7 @@ type: source
 title: Congo Nears Completion of Landmark National Data Center, Aims for November 2025 Launch
 url: https://techafricanews.com/2025/08/07/congo-nears-completion-of-landmark-national-data-center-aims-for-november-2025-launch/
 publisher: TechAfrica News
+ingested: 2026-07-18
 author: Joyce Onyeagoro
 published: 2025-08-07
 date_precision: day
@@ -11,6 +12,7 @@ places: [COG, XCA]
 topics: [infra.store, gov.policy, infra.connect, dpi.govtech, infra.cybersec]
 entities: [[congo-national-data-centre], [patn-congo]]
 lens: [sovereignty]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: COG-2026-07-17
 ---

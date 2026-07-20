@@ -3,6 +3,8 @@ type: source
 title: "The burden of recording and reporting health data in primary health care facilities in five low- and lower-middle income countries"
 publisher: BMC Health Services Research 21(Suppl 1):691
 url: https://pmc.ncbi.nlm.nih.gov/articles/PMC8436492/
+date_precision: day
+date_source: source
 author: Siyam A, Ir P, York D, Antwi J, ... Boerma T, O'Neill K
 published: 2021-09-13
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [GHA, MOZ, NGA, TZA]
 topics: [dpi.mis, data.statistics, gov.standards, capacity.training, digital.rural]
 entities: [[rhis-recording-burden-5country]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Scholarly publication (80 PHC facilities in Cambodia, Ghana, Mozambique, Nigeria, Tanzania; 2016-17; 1,360 interactions). Avg 34 registers/country (16 Ghana - 48 Tanzania); recording ~1/3 of consultation time; avg 35 monthly reporting forms; reporting 4h (MOZ/NGA) to 13-15h (TZA/GHA) per worker/month. Calls for international standards for facility registers/forms. Home page for [[rhis-recording-burden-5country]]. -->

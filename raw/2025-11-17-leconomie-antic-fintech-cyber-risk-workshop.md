@@ -3,6 +3,9 @@ type: source
 title: "Cameroun : L'ANTIC et The Change Engine préparent la Fintech aux cyber-risques"
 url: https://leconomie.info/cameroun-lantic-et-the-change-engine-preparent-la-fintech-aux-cyber-risques/
 publisher: Le quotidien L'Economie
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Fadira Etonde
 published: 2025-11-17
 date_precision: day

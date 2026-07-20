@@ -6,6 +6,7 @@ publisher: NewsDay
 published: 2025-10-17
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [ZWE]
 topics: [gov.protect, infra.cybersec, gov.policy]
 entities: [[potraz], [ministry-of-ict-postal-and-courier-services-zimbabwe]]

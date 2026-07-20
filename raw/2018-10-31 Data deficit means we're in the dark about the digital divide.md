@@ -3,6 +3,8 @@ type: source
 title: "Data deficit means we’re in the dark about the digital divide"
 publisher: The Conversation
 url: https://theconversation.com/data-deficit-means-were-in-the-dark-about-the-digital-divide-103363
+date_precision: day
+date_source: source
 author: Alison Gillwald
 published: 2018-10-31
 accessed: 2026-07-12
@@ -11,6 +13,7 @@ places: [ZAF, NGA, XSS, XGL]
 topics: [include.divides, data.statistics, include.access]
 entities: [[after-access], [research-ict-africa]]
 lens: []
+body_completeness: full
 ---
 <!-- OLD (2018) Gillwald/RIA commentary: supply-side ICT stats fail to measure the digital divide in the Global South; demand-side After Access survey data needed. Foundational framing on the measurement problem — do NOT treat its 2017 figures as current. Attach: [[after-access]] + [[research-ict-africa]]. -->
 

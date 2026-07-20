@@ -13,6 +13,7 @@ places: [XSA]
 topics: [dpi.pay, gov.regional, include.access]
 entities: [[sadc]]
 lens: []
+body_completeness: full
 ---
 
 <!-- SADC official news (date proxied to the meeting date, 20 Feb 2024 — article publish date not on clip). SADC Financial Inclusion Subcommittee met in Johannesburg 19–20 Feb 2024 to review the SADC Strategy on Financial Inclusion & SME Access to Finance 2023-2028 (under SADC Vision 2050). Tech as central lever. Under the EU-funded SIBE programme (11th EDF), 83% of the 2021–2023 FI work plan implemented; with FinMark Trust, 119m individuals / 77% of SADC adults now financially included (vs 57% in 2011). A SADC Financial Inclusion Information Portal launched as the central FI data repository / monitoring mechanism. Regional context for Angola's cross-border payments / SADC settlement (kwanza) story. Director FIC: Sadwick Mtonakutha. -->

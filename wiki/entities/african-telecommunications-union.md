@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: organisation
 title: African Telecommunications Union (ATU)
 places: [XAF]

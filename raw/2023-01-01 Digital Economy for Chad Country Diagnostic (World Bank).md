@@ -7,6 +7,8 @@ published: 2023-01-01
 date_precision: year
 date_source: source
 ingested: 2026-07-17
+lens: []
+body_completeness: full
 artefact: "2023-01-01 Digital Economy for Chad Country Diagnostic (World Bank).pdf"
 places: [TCD]
 topics: [gov.policy, infra.connect, dpi.govtech, tech.industry]

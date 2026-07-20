@@ -11,6 +11,7 @@ places: [DZA, XNA]
 topics: [dpi.pay, gov.regional]
 entities: [[papss], [afreximbank]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Bank of Algeria joins the PAPSS network

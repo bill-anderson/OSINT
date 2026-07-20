@@ -3,6 +3,9 @@ type: source
 title: No need for a new Digital Services Agency. Do more with less!
 url: https://www.sundaystandard.info/no-need-for-a-new-digital-services-agency-do-more-with-less/
 publisher: Sunday Standard
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Stephanus Gentium
 published: 2025-08-18
 date_precision: day

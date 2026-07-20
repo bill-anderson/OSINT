@@ -6,6 +6,7 @@ publisher: Tech Review Africa
 published: 2026-04-27
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 provenance_flag: pr-wire
@@ -13,6 +14,7 @@ places: [DZA]
 topics: [tech.ai, capacity.training, tech.innovate, tech.industry]
 entities: [[algeria-ministry-of-vocational-training-and-education], [algeria-ministry-of-knowledge-economy-start-ups-and-micro-enterprises]]
 lens: []
+body_completeness: full
 ---
 
 **Primary source to obtain at ingest:** the Algerian Ministry of Vocational Training and Education statement on the national AI training programme launch under Minister Nassima Arhab, including details of the National Institute of Vocational Training's Centre of Excellence in Digital Economy incubator at Sidi Abdallah-Rahmania.

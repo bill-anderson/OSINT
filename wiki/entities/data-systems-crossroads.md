@@ -7,6 +7,7 @@ topics: [data.statistics, data.open, gov.policy, capacity.research]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-11
+sources: []
 ---
 
 # Data Systems at a Crossroads: Official Statistics for a New Era

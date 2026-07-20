@@ -6,6 +6,7 @@ publisher: Le Sahel (ONEP)
 published: 2026-06-10
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [NER]
 topics: [tech.ai, capacity.training, data.statistics, data.open]
 entities: [[ansi-niger], [united-nations]]

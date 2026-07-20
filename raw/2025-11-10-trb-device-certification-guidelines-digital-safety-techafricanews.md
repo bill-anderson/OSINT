@@ -3,6 +3,7 @@ type: source
 title: Cameroon Strengthens Digital Safety Campaign with Device Certification Guidelines
 url: https://techafricanews.com/2025/11/10/cameroon-strengthens-digital-safety-campaign-with-device-certification-guidelines/
 publisher: TechAfrica News
+ingested: 2026-07-18
 author: Jennifer Onyeagoro
 published: 2025-11-10
 date_precision: day
@@ -11,6 +12,7 @@ places: [CMR]
 topics: [gov.standards, gov.legislate, infra.cybersec, include.access, tech.industry, dpi.registry]
 entities: [[art-cameroon]]
 lens: [sovereignty]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: CMR-2026-07-17
 ---

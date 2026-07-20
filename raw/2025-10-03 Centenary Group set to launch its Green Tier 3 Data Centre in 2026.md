@@ -10,6 +10,8 @@ ingested: 2026-07-17
 places: [UGA]
 topics: [infra.store, infra.energy, dpi.govtech]
 entities: [[centenary-group-data-centre], [centenary-group]]
+lens: []
+body_completeness: full
 ---
 
 *Current state on the delivery date: Q1 2026, superseding the end-2025 target of 2025-08-11. Worth noting the rhetorical tell — this piece describes the rebased schedule as 'on schedule' without acknowledging the earlier commitment.*

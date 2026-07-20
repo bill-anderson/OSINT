@@ -6,6 +6,7 @@ publisher: NewsDay
 published: 2025-05-21
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [ZWE]
 topics: [infra.connect, include.access, data.statistics]
 entities: [[potraz], [econet-wireless-zimbabwe], [netone], [telecel-zimbabwe]]

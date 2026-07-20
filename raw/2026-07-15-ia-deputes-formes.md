@@ -3,6 +3,7 @@ type: source
 title: "Intelligence artificielle: les députés formés"
 url: https://www.sidwaya.info/intelligence-artificielle-les-deputes-formes/
 publisher: Sidwaya
+ingested: 2026-07-18
 author: Boukary BONKOUNGOU; Bark-Wendé Sandrine TASSEMBEDO (Stagiaire)
 published: 2026-07-15
 date_precision: day
@@ -13,6 +14,7 @@ places: [BFA]
 topics: [tech.ai, capacity.training, gov.legislate]
 entities: [[spivten], [assemblee-legislative-du-peuple], [ministere-transition-digitale-burkina-faso], [yaya-traore]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Intelligence artificielle: les députés formés

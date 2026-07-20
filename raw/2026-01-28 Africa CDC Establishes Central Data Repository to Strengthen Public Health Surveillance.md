@@ -4,12 +4,15 @@ title: "Africa CDC Establishes Central Data Repository to Strengthen Public Heal
 publisher: Africa CDC
 url: https://africacdc.org/news-item/africa-cdc-establishes-central-data-repository-to-strengthen-public-health-surveillance/
 published: 2026-01-28
+date_precision: day
+date_source: source
 accessed: 2026-07-12
 ingested: 2026-07-12
 places: [XAF]
 topics: [dpi.exchange, dpi.mis, infra.store, gov.regional, data.statistics]
 entities: [[africa-cdc], [africa-cdc-cdr], [global-fund], [public-health-informatics-institute], [african-union]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Official Africa CDC announcement (dateline Addis Ababa 27 Jan 2026): launch of the Central Data Repository (CDR), a secure federated platform integrating surveillance/lab/programme data; validation workshop 17–18 Nov 2025; public-health emergencies +40% 2022–2024 (213 incidents). Financed by the Global Fund; built by PHII. Federated model — member states retain data ownership (clean data-sovereignty datapoint). -->

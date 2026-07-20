@@ -6,12 +6,14 @@ publisher: ACTUALITE.CD
 published: 2025-10-31
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: COD-2026-07-17
 places: [COD]
 topics: [dpi.pay, finance.new, include.access, digital.rural]
 entities: [[firstbank-drc], [first-bank-of-nigeria], [visa], [olajide-ayeronwi]]
 lens: []
+body_completeness: full
 provenance_flag: pr-wire
 ---
 

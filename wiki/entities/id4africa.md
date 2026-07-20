@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: organisation
 title: ID4Africa
 places: [XAF, XGL]

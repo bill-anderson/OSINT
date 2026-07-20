@@ -6,10 +6,12 @@ publisher: We Are Tech Africa
 published: 2025-12-15
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [DJI]
 topics: [tech.industry, tech.innovate, gov.regional]
 entities: [[vision-djibouti-2035]]
 lens: []
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: DJI-2026-07-17
 ---

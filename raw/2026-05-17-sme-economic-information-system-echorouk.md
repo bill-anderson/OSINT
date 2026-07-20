@@ -1,6 +1,7 @@
 ---
 type: source
 title: إطلاق نظام معلوماتي اقتصادي جديد خاص بالمؤسسات الصغيرة والمتوسطة في الجزائر
+ingested: 2026-07-18
 title_en: New SME economic information system launched (data collection/exchange across agencies)
 url: https://www.echoroukonline.com/%D8%A5%D8%B7%D9%84%D8%A7%D9%82-%D9%86%D8%B8%D8%A7%D9%85-%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA%D9%8A-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%D9%8A-%D8%AC%D8%AF%D9%8A%D8%AF-%D8%AE%D8%A7%D8%B5-%D8%A8
 publisher: Echorouk El Yawmi
@@ -14,6 +15,7 @@ places: [DZA]
 topics: [dpi.mis, dpi.exchange, data.statistics, gov.legislate]
 entities: [[journal-officiel-algerie, office-national-des-statistiques]]
 lens: []
+body_completeness: full
 ---
 
 # إطلاق نظام معلوماتي اقتصادي جديد خاص بالمؤسسات الصغيرة والمتوسطة في الجزائر

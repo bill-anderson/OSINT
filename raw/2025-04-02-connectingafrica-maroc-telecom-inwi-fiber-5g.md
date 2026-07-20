@@ -6,12 +6,14 @@ publisher: Connecting Africa
 published: 2025-04-02
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: MAR-2026-07-17
 places: [MAR]
 topics: [infra.connect]
 entities: [[maroc-telecom], [inwi]]
 lens: []
+body_completeness: full
 ---
 
 # Maroc Telecom and Inwi partner to deploy fibre and 5G

@@ -3,6 +3,8 @@ type: source
 title: Angola Cables e Uniti Wholesale estabelecem parceria de conectividade
 url: https://angop.ao/noticias/economia/angola-cables-e-uniti-wholesale-estabelecem-parceria-de-conectividade/
 publisher: Angop
+lens: []
+body_completeness: full
 author: DC
 published: 2026-05-27
 date_precision: day

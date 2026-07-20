@@ -6,6 +6,7 @@ publisher: The Times (Times Group)
 published: 2026-01-13
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [MWI]
 topics: [dpi.govtech, gov.policy, dpi.exchange, dpi.id]
 entities: [[malawi-electoral-commission], [macra-malawi], [dmap]]

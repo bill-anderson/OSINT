@@ -3,6 +3,8 @@ type: source
 title: "South African police forced to track firearms with pen and paper after R1-billion system blunder"
 publisher: MyBroadband
 url: https://mybroadband.co.za/news/government/632371-
+date_precision: day
+date_source: source
 author: Jan Vermeulen
 published: 2026-03-08
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [ZAF]
 topics: [dpi.govtech, gov.protect, infra.cybersec]
 entities: [[saps], [forensic-data-analysts], [sita]]
 lens: []
+body_completeness: full
 ---
 
 <!-- SAPS liable >R1bn over a botched biometric Firearm Permit System (Pretoria High Court, Dec 2025: R644m for IP + R120m maintenance to Forensic Data Analysts). FDA switched systems off in 2019 over non-payment; >3,000 police firearms missing since; stations reverted to pen-and-paper; court found SITA illegally extracted FDA source code. A govtech-procurement failure. Entities [[saps]], [[forensic-data-analysts]]. -->

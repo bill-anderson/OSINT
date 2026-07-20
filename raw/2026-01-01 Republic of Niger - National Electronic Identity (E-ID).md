@@ -12,6 +12,7 @@ places: [NER]
 topics: [dpi.id, dpi.govtech]
 entities: [[niger-national-eid]]
 lens: []
+body_completeness: full
 ---
 
 Snapshot of a National Electronic Identity (E-ID) portal for the Republic of Niger, presenting the E-ID card as a key to public and private digital services. The portal describes an online 24/7 application flow with integrated biometrics, 48-hour data validation, a biometric appointment and card delivery, a 10-year validity, and a 6,000 FCFA total fee. Advertised service domains span tax filing, banking authentication and payments, health records, education and (forthcoming) transport/digital driver's licence.

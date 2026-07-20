@@ -3,6 +3,8 @@ type: source
 title: "WhatsApp tax filing set to pull millions into Kenya's tax net"
 publisher: ITWeb Africa
 url: https://itweb.africa/article/whatsapp-tax-filing-set-to-pull-millions-into-kenyas-tax-net/
+date_precision: day
+date_source: source
 author: Phathisani Moyo
 published: 2026-04-02
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [KEN]
 topics: [dpi.govtech, dpi.pay, data.statistics, include.access]
 entities: [[kenya-revenue-authority], [meta]]
 lens: []
+body_completeness: excerpt
 ---
 
 <!-- KRA launched a WhatsApp tax-filing chatbot (8 steps -> 3; auto pre-filled PAYE data). Kenya has >22m registered taxpayers but only ~7m actively file. Comparators: SARS eFiling, FIRS, Rwanda Irembo. WhatsApp = Meta property. -->

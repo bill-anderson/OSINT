@@ -6,12 +6,14 @@ publisher: Biometric Update
 published: 2026-05-19
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CPV-2026-07-17
 places: [CPV]
 topics: [dpi.id, dpi.registry, dpi.exchange]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 # Cabo Verde's CRVS-ID reforms drive near-universal birth registration

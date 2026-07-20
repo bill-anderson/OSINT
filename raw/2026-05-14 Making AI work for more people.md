@@ -3,6 +3,8 @@ type: source
 title: "Making AI work for more people"
 publisher: Gates Foundation
 url: https://www.gatesfoundation.org/ideas/media-center/press-releases/2026/05/ai-anthropic-partnership
+date_precision: day
+date_source: source
 author: unknown
 published: 2026-05-14
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [XGL]
 topics: [tech.ai, include.access, capacity.research, data.statistics]
 entities: [[gates-foundation], [anthropic], [gates-anthropic-partnership]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Gates Foundation-Anthropic partnership: $200m over 4 years (grants + API credits + technical support) for AI public goods across health/education/agriculture in LMICs. Deal; Africa relevance illustrative (Kenya/Nigeria examples). -->

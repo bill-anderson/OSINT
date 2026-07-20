@@ -6,6 +6,7 @@ publisher: Resecurity
 published: 2025-07-29
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [SYC]
 topics: [infra.cybersec, gov.protect]
 entities: [[seychelles-commercial-bank], [resecurity]]

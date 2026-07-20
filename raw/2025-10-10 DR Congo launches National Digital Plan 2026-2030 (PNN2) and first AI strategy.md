@@ -13,6 +13,7 @@ places: [COD]
 topics: [gov.policy, tech.ai, infra.connect]
 entities: [[drc-national-digital-plan-pnn2], [drc-national-ai-strategy]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Merges Bankable (2025-10-10) + Ecofin (2025-10-12) on the same launch. On 8 Oct 2025 in Kinshasa, Digital Economy Minister Augustin Kibassa Maliba launched the drafting of the National Digital Plan 2026-2030 (PNN2) + the DRC's first National AI Strategy, to position DRC as a regional digital hub by 2030 and leverage its critical minerals. Four pillars: infrastructure & connectivity; digital public platforms & services; human capital & inclusion; cybersecurity & digital trust — plus five cross-cutting priorities incl. technological sovereignty and AI. Cost framed as "$1.5bn" (government investment) — NB conflicting totals elsewhere ($8.7bn iAfrica; ~$10.4bn on rdc-pass) — see contradiction REV. -->

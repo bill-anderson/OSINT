@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: organisation
 title: BOAD (Banque Ouest-Africaine de Développement / West African Development Bank)
 places: [TGO, XWA]

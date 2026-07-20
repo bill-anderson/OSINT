@@ -6,12 +6,14 @@ publisher: Biometric Update
 published: 2026-02-12
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: MAR-2026-07-17
 places: [MAR]
 topics: [dpi.id, dpi.govtech]
 entities: [[idakto], [idarati-x0]]
 lens: []
+body_completeness: full
 ---
 
 # iDakto and ShareID to help build Morocco's new digital wallet super app

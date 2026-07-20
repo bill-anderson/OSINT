@@ -3,6 +3,8 @@ type: source
 title: "Momentum builds on SA's single digital entry point MyMzansi"
 publisher: ITWeb
 url: https://www.itweb.co.za/article/momentum-builds-on-sas-single-digital-entry-point-mymzansi/
+date_precision: day
+date_source: source
 author: Simnikiwe Mzekandaba
 published: 2026-02-02
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [ZAF]
 topics: [dpi.govtech, dpi.exchange, dpi.id, dpi.pay, gov.standards, digital.localgov]
 entities: [[mymzansi], [sa-digital-id-regulations], [operation-vulindlela]]
 lens: []
+body_completeness: full
 ---
 
 <!-- SA's MyMzansi unified digital-government platform to go live to test groups in March 2026 (per the Operation Vulindlela phase-two progress report) â€” zero-rated app for licences/health/social/home-affairs, connecting digital identity, payments and services; MzansiXchange data-exchange pilot (Oct 2025); a national digital-government standards framework underway. Entity [[mymzansi]]. -->

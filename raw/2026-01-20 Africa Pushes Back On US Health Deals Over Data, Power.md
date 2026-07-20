@@ -3,6 +3,8 @@ type: source
 title: "Africa Pushes Back On US Health Deals Over Data, Power"
 publisher: SciDev.Net (via AllAfrica)
 url: https://allafrica.com/stories/202601200174.html
+date_precision: day
+date_source: source
 author: SciDev.Net
 published: 2026-01-20
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [KEN, UGA, RWA, NGA, SWZ, ETH, MOZ, CIV, CMR, LSO, MDG, SLE, LBR, BWA]
 topics: [gov.protect, geopol.usa, gov.policy, dpi.mis, data.statistics]
 entities: [[america-first-global-health-strategy], [us-kenya-health-framework], [africa-cdc]]
 lens: [sovereignty, colonialism]
+body_completeness: full
 ---
 
 <!-- The 14-country AFGHS MOU funding table: Uganda $2.3bn, Kenya $2.5bn, Rwanda $228m, Nigeria $5.1bn, Eswatini $242m, Ethiopia $1.466bn, Mozambique $1.8bn, Côte d'Ivoire $937m, Cameroon $850m, Lesotho $364m, Madagascar $175m, Sierra Leone $173m, Liberia $176m, Botswana $486m. Kenya first (4 Dec 2025), High Court halted data-sharing. Backfill to [[america-first-global-health-strategy]]. -->

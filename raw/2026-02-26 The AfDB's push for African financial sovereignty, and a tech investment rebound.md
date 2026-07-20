@@ -3,6 +3,8 @@ type: source
 title: "The AfDB's push for African financial sovereignty, and a tech investment rebound"
 publisher: Invest Africa
 url: https://www.investafrica.com/insights-/anewfinancialarchitectureforafrica
+date_precision: day
+date_source: source
 author: George Meadows
 published: 2026-02-26
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [XAF, XSS, EGY, AGO, ZAF, NGA, KEN]
 topics: [finance.new, gov.regional, tech.industry, finance.mou]
 entities: [[african-development-bank], [nafa], [african-union], [sidi-ould-tah]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- NAFA launch (AfDB pres. Sidi Ould Tah, AU summit 14-15 Feb 2026). African external debt $220bn (2009) -> $685bn end-2023; >$90bn 2026 repayments (S&P). AU self-funded only 22-25%. Partech: 2025 Africa tech VC $4.1bn (+25%); Big Four = 72%; domestic investors 45%. -->

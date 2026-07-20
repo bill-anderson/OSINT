@@ -6,12 +6,14 @@ publisher: The Point
 published: 2025-06-20
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: GMB-2026-07-17
 places: [GMB]
 topics: [dpi.id, dpi.registry, gov.policy]
 entities: [[gambia-national-id-contract]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Gov't to integrate ID cards with Electronic Civil Registration

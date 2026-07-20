@@ -10,6 +10,7 @@ ingested: 2026-07-20
 places: [UGA]
 topics: [dpi.id, gov.protect, include.access, gov.legislate]
 entities: [[iser-uganda], [unwanted-witness], [heapi], [nira-uganda], [registration-of-persons-act-2015], [sage-uganda]]
+lens: []
 body_completeness: full
 ---
 

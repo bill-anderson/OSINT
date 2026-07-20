@@ -13,6 +13,7 @@ places: [NAM]
 topics: [dpi.pay, gov.policy, include.access]
 entities: [[bank-of-namibia]]
 lens: []
+body_completeness: full
 ---
 
 Namibia digital-finance ecosystem assessment and strategy (2023), produced under the Digital Financing for Sustainable Development agenda. It assesses the state of Namibia's digital financial services ecosystem — payments, financial inclusion, enabling regulation and infrastructure, with the Bank of Namibia central to the payments landscape — and sets out a strategy to deepen inclusive digital finance in support of the SDGs. Reference work — cite, don't absorb.

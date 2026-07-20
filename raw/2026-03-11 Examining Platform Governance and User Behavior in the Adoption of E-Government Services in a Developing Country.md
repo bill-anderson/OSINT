@@ -12,6 +12,7 @@ places: [GHA, XWA]
 topics: [dpi.govtech, gov.policy, include.access]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 # Examining Platform Governance and User Behavior in the Adoption of E‐Government Services in a Developing Country - Abdul‐Salam - 2026 - THE ELECTRONIC JOURNAL OF INFORMATION SYSTEMS IN DEVELOPING COUNTRIES - Wiley Online Library

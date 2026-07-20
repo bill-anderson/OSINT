@@ -6,6 +6,7 @@ publisher: TechAfrica News
 published: 2026-02-18
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [NGA]
 topics: [infra.connect, gov.policy]
 entities: [[mtn-nigeria], [ihs-towers]]

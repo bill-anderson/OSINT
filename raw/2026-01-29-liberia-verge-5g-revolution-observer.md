@@ -6,12 +6,14 @@ publisher: Liberian Observer
 published: 2026-01-29
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: LBR-2026-07-17
 places: [LBR]
 topics: [infra.connect, include.access, include.divides]
 entities: [[lta-liberia]]
 lens: []
+body_completeness: full
 ---
 
 # Liberia on the Verge of 5G Revolution

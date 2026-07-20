@@ -6,10 +6,12 @@ publisher: Club of Mozambique
 published: 2026-06-29
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [MOZ]
 topics: [dpi.govtech, dpi.registry]
 entities: []
 lens: [sovereignty]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: MOZ-2026-07-17
 ---

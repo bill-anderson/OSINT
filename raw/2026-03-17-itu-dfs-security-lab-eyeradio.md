@@ -3,6 +3,7 @@ type: source
 title: South Sudan boosts mobile payment security with ITU DFS lab training
 url: https://www.eyeradio.org/south-sudan-boosts-mobile-payment-security-with-itu-dfs-lab-training/
 publisher: Eye Radio
+ingested: 2026-07-19
 author: Michael Daniel
 published: 2026-03-17
 date_precision: day

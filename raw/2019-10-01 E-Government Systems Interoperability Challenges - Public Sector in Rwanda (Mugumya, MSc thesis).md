@@ -11,6 +11,7 @@ places: [RWA]
 topics: [dpi.govtech, dpi.exchange, gov.standards]
 entities: [[nida-rwanda], [rwanda-information-society-authority], [rura-rwanda], [university-of-rwanda]]
 lens: []
+body_completeness: full
 ---
 
 # E-Government Systems Interoperability Challenges: Public Sector in Rwanda (Mugumya, MSc thesis, 2019)

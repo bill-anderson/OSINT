@@ -13,6 +13,7 @@ places: [AGO]
 topics: [gov.protect, gov.legislate, infra.cybersec]
 entities: [[apd-angola], [angola-data-protection-law-22-11]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- PLMJ law-firm briefing (Aug 2024) — the key "APD has teeth" source. Angola's DP framework: LPDP (Law 22/11, 17 Jun 2011) + Law of Electronic Communications (Law 23/11, 20 Jun 2011). Constitutional privacy base (art. 32(2)). The Agência Angolana de Proteção de Dados (APD) was formally CONSTITUTED IN 2016 and has intensified supervision; in June–July 2024 it published SANCTIONS against several companies for serious LPDP violations. Distinguishes Angola from many African states where the DPA exists on paper only. Cite as analysis. -->

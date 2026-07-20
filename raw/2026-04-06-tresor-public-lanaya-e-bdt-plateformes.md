@@ -3,6 +3,7 @@ type: source
 title: "Trésor public: Lanaya et e-BDT pour simplifier les démarches administratives"
 url: https://www.sidwaya.info/tresor-public-lanaya-et-e-bdt-pour-simplifier-les-demarches-administratives/
 publisher: Sidwaya
+ingested: 2026-07-18
 author: Fleur Birba
 published: 2026-04-06
 date_precision: day
@@ -13,6 +14,7 @@ places: [BFA]
 topics: [dpi.govtech, dpi.pay, include.access, gov.policy, finance.new]
 entities: [[aminata-zerbo-sabane], [world-bank], [direction-generale-du-tresor-burkina-faso]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Trésor public: Lanaya et e-BDT pour simplifier les démarches administratives

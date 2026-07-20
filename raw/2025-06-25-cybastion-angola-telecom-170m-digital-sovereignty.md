@@ -14,6 +14,7 @@ places: [AGO]
 topics: [infra.cybersec, infra.connect, geopol.usa, finance.new, capacity.training]
 entities: [[cybastion], [angola-telecom]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 U.S.-based technology firm Cybastion has announced a landmark $170 million investment in partnership with Angola's incumbent telecommunications operator, Angola Telecom E.P., aimed at strengthening the country's digital infrastructure and cybersecurity capacity.

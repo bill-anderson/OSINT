@@ -3,6 +3,7 @@ type: source
 title: Benin Launches First Local Language Voice AI to Bridge Digital Divide
 url: https://techafricanews.com/2025/06/30/benin-launches-first-local-language-voice-ai-to-bridge-digital-divide
 publisher: TechAfrica News
+ingested: 2026-07-18
 author: Editorial Team
 published: 2025-06-30
 date_precision: day
@@ -13,6 +14,7 @@ places: [BEN, SEN, CIV]
 topics: [tech.ai, include.divides, include.access, capacity.literacy, dpi.pay]
 entities: [[iidia], [asin], [gates-foundation], [nvidia], [celtiis]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Benin Launches First Local Language Voice AI to Bridge Digital Divide

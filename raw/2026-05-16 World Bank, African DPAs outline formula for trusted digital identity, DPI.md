@@ -3,6 +3,8 @@ type: source
 title: "World Bank, African DPAs outline formula for trusted digital identity, DPI"
 publisher: Biometric Update
 url: https://www.biometricupdate.com/202605/world-bank-african-dpas-outline-formula
+date_precision: day
+date_source: source
 author: Chris Burt
 published: 2026-05-16
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [KEN, UGA, LBR, BEN, MUS, XEA]
 topics: [gov.protect, dpi.id, dpi.exchange, gov.regional, infra.cybersec, tech.ai]
 entities: [[world-bank], [mosip], [id4africa], [eac]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- ID4Africa 2026 AGM World Bank session on data-lifecycle trust (six data-storage risks). Kenya/India/Uganda ID systems had breakdowns from weak safeguards. Mauritius DPO ~3,000 enforcement actions/yr (99% amicable); Benin APDP has an AI policy; Liberia bill in legislature; EAC body for its 8 DPAs. -->

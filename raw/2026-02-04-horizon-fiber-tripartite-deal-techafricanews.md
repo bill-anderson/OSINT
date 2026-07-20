@@ -6,10 +6,12 @@ publisher: TechAfrica News
 published: 2026-02-04
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [DJI, ETH, SDN]
 topics: [infra.connect, gov.regional, finance.mou]
 entities: [[djibouti-telecom], [ethio-telecom], [sudatel-group], [horizon-fiber-initiative]]
 lens: [sovereignty]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: DJI-2026-07-17
 ---

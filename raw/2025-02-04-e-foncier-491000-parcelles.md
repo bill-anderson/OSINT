@@ -3,6 +3,9 @@ type: source
 title: "Réforme du e-foncier au Bénin: Plus de 491 000 parcelles enregistrées dans 12 communes"
 url: https://lanation.bj/actualites/reforme-du-e-foncier-au-benin-plus-de-491-000-parcelles-enregistrees-dans-12-communes
 publisher: La Nation
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Claude Urbain PLAGBETO
 published: 2025-02-04
 date_precision: day

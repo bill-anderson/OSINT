@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: instrument
 title: Nigeria Government Enterprise Architecture (NGEA)
 places: [NGA]

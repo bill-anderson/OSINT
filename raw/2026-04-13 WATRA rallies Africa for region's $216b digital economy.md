@@ -3,6 +3,8 @@ type: source
 title: "WATRA rallies Africa for region's $216b digital economy"
 publisher: The Guardian (Nigeria)
 url: https://guardian.ng/news/watra-rallies-africa-for-regions-216b-digital-economy/
+date_precision: day
+date_source: source
 author: Adeyemi Adepetun
 published: 2026-04-13
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [XWA, BFA]
 topics: [gov.regional, gov.policy, infra.connect, infra.cybersec, dpi.pay]
 entities: [[watra]]
 lens: []
+body_completeness: full
 ---
 
 <!-- WATRA (West Africa Telecommunications Regulators Assembly, 16 members) concluded its 4th Working Groups Meeting in Ouagadougou (hosted by ARCEP, 2026-04-12). Region's digital economy cited at $216bn. Working groups finalised reports on 5G, subsea-cable resilience, cybersecurity, consumer protection, NGSO satellite regulation. -->

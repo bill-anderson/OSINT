@@ -6,12 +6,14 @@ publisher: TechAfrica News
 published: 2025-09-29
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CPV-2026-07-17
 places: [CPV]
 topics: [dpi.govtech, gov.policy, finance.new]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 # Cape Verde Accelerates Digital Transformation with World Bank Support

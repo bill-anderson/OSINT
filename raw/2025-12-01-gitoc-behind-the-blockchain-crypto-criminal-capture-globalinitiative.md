@@ -6,6 +6,7 @@ publisher: Global Initiative Against Transnational Organized Crime (GI-TOC) — 
 published: 2025-12-01
 date_precision: month
 date_source: source
+ingested: 2026-07-18
 places: [CAF, XCA]
 topics: [dpi.pay, gov.legislate, gov.protect, finance.new, tech.industry]
 entities: [[gi-toc], [sango-coin], [car-meme-coin], [faustin-archange-touadera], [emile-parfait-simb], [beac], [gabac], [wagner-group], [nathalia-dukhan]]

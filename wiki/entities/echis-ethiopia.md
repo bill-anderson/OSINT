@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: initiative
 title: eCHIS (electronic Community Health Information System), Ethiopia
 places: [ETH]

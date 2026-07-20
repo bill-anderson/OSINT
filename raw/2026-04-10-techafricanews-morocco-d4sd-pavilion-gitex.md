@@ -6,12 +6,14 @@ publisher: Tech Africa News
 published: 2026-04-10
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: MAR-2026-07-17
 places: [MAR]
 topics: [tech.industry, gov.policy]
 entities: [[digital-morocco-2030]]
 lens: []
+body_completeness: full
 ---
 
 # Morocco launches D4SD pavilion at GITEX Africa 2026

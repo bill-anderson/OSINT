@@ -6,6 +6,7 @@ publisher: Tunisian Monitor
 published: 2026-07-15
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [TUN]
 topics: [dpi.mis, dpi.id, dpi.registry]
 entities: [[ministry-of-health-tunisia]]

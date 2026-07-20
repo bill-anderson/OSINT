@@ -3,6 +3,7 @@ type: source
 title: Angola Unveils National Cybersecurity Strategy to Strengthen Digital Resilience
 url: https://techafricanews.com/2025/12/09/angola-unveils-national-cybersecurity-strategy-to-strengthen-digital-resilience/
 publisher: TechAfrica News
+entities: []
 author: Jennifer Onyeagoro
 published: 2025-12-09
 date_precision: day
@@ -13,6 +14,7 @@ sweep_batch: AGO-2026-07-17
 places: [AGO]
 topics: [infra.cybersec, gov.policy, gov.legislate, gov.protect, capacity.literacy]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 The Government of Angola has introduced a National Cybersecurity Strategy, aimed at safeguarding the country's digital infrastructure and promoting a culture of cybersecurity among citizens and institutions. The strategy, presented as a draft Presidential Decree, establishes a comprehensive framework to prevent and combat cyber threats, while aligning Angola with regional and international cybersecurity standards.

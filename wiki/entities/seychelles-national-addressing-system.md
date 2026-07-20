@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: initiative
 title: Seychelles National Addressing and Postcode System
 places: [SYC]

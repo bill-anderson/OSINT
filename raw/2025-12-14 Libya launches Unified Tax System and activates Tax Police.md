@@ -13,6 +13,7 @@ places: [LBY]
 topics: [dpi.govtech, dpi.pay, data.statistics]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 <!-- Libyan Tax Authority announced (12 Dec 2025) the official launch of the Unified Tax System + several digital platforms operational in 2026 — part of its digital-transformation plan. Also activated the Tax Police role (with Interior Ministry) for oversight, compliance, reduced violations. Announced at the Authority's Regular 2025 Meeting in Tripoli; commended high revenue collection + bonus payments. Aimed at improving service quality + sustainability of state finances. -->

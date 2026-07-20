@@ -6,12 +6,14 @@ publisher: Fraternité Matin
 published: 2026-04-17
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [dpi.govtech]
 entities: [[ministere-justice-cote-divoire], [e-justice-ci], [jean-sansan-kambile]]
 lens: []
+body_completeness: full
 ---
 
 # Modernisation de la justice ivoirienne : La plateforme e-justice.ci au cœur d'un atelier de sensibilisation

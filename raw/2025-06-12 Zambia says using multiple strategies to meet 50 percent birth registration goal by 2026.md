@@ -3,6 +3,8 @@ type: source
 title: Zambia says using multiple strategies to meet 50 percent birth registration goal by 2026
 url: https://www.biometricupdate.com/202506/zambia-says-using-multiple-strategies-to-meet-50-percent-birth-registration-goal-by-2026
 publisher: Biometric Update
+lens: []
+body_completeness: full
 author: Ayang Macdonald
 published: 2025-06-12
 date_precision: day

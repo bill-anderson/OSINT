@@ -10,6 +10,7 @@ ingested: 2026-07-20
 places: [TUN]
 topics: [infra.connect, finance.mou]
 entities: [[orange-tunisia], [medusa-submarine-cable], [afr-ix-telecom], [thierry-millet], [norman-albi], [ooredoo-tunisia], [didon-cable]]
+lens: []
 body_completeness: full
 ---
 

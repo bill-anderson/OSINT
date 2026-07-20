@@ -3,6 +3,8 @@ type: source
 title: "Bank of Ghana Calls for Payment System Overhaul to Unlock AfCFTA Trade"
 publisher: News Ghana
 url: https://www.newsghana.com.gh/bank-of-ghana-calls-for-payment-system-overhaul-to-unlock-afcfta-trade/
+date_precision: day
+date_source: source
 author: News Ghana
 published: 2026-02-05
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [GHA, RWA, XAF]
 topics: [dpi.pay, dpi.exchange, gov.regional, finance.new, infra.cybersec]
 entities: [[bank-of-ghana], [papss], [afcfta]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Bank of Ghana (2nd Deputy Gov. Matilda Asante-Asiedu, African Prosperity Dialogue): intra-African payment costs 7-10% vs ~3% global; >80% of inter-African payments route via correspondent banks abroad, costing ~$5.3bn/yr; AfCFTA = 1.5bn people / ~$2.8tn GDP. Ghana promoting PAPSS + fintech passporting with Rwanda + a Virtual Asset Service Providers law. Attach to [[bank-of-ghana]]/[[papss]]. -->

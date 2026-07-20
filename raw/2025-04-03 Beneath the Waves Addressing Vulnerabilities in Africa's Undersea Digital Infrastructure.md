@@ -3,6 +3,8 @@ type: source
 title: "Beneath the Waves: Addressing Vulnerabilities in Africa's Undersea Digital Infrastructure"
 publisher: Carnegie Endowment for International Peace
 url: https://carnegieendowment.org/research/2025/04/
+date_precision: day
+date_source: source
 author: Jane Munga
 published: 2025-04-03
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [XAF, EGY, ZAF, NGA, KEN, DJI]
 topics: [infra.connect, gov.regional, gov.standards, infra.cybersec, gov.policy]
 entities: [[carnegie-endowment], [jane-munga], [international-cable-protection-committee], [african-union]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Carnegie reference paper (Jane Munga): 77 cable systems land in Africa (37 of 38 coastal countries; Eritrea the exception); hubs Egypt/SA/Djibouti/Nigeria/Kenya. March 2024 outage hit 10 countries (Nigeria lost >$590m in 4 days); only 3 repair ships serve Africa. ITU+ICPC advisory body (Nov 2024) co-chaired by Bosun Tijani. (Frontmatter date was mis-typed 2001 → corrected 2025-04-03.) -->

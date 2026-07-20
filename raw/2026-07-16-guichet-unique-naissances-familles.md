@@ -3,6 +3,9 @@ type: source
 title: "Guichet unique d'enregistrement des naissances: Une réforme qui change le quotidien des familles"
 url: https://www.lanation.bj/actualites/guichet-unique-denregistrement-des-naissances-une-reforme-qui-change-le-quotidien-des-familles
 publisher: La Nation
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Isidore GOZO
 published: 2026-07-16
 date_precision: day

@@ -6,12 +6,14 @@ publisher: ACTUALITE.CD
 published: 2025-02-19
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: COD-2026-07-17
 places: [COD]
 topics: [infra.connect, include.divides, digital.rural, capacity.literacy]
 entities: [[fdsu-drc], [internet-society-drc], [paterne-kadiat], [arptc]]
 lens: []
+body_completeness: full
 ---
 
 Mercredi 19 février 2025 - 18:20

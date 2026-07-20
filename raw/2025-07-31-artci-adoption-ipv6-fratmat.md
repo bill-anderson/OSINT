@@ -6,12 +6,14 @@ publisher: Fraternité Matin
 published: 2025-07-31
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [infra.connect, gov.standards]
 entities: [[artci], [okto-technologies], [orange-cote-divoire], [mtn-cote-divoire], [moov-africa-cote-divoire], [huawei], [vipnet], [codinorm], [civix], [teleset], [strategie-nationale-de-developpement-du-numerique-cote-divoire]]
 lens: []
+body_completeness: full
 ---
 
 # Côte d'Ivoire : L'ARTCI impulse l'adoption de l'IPv6 pour un Internet plus moderne

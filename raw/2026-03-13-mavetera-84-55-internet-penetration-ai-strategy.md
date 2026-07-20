@@ -3,6 +3,7 @@ type: source
 title: 84.55% Internet Penetration to Support AI Adoption in Zimbabwe
 url: https://technomag.co.zw/84-55-internet-penetration-to-support-ai-adoption-in-zimbabwe/
 publisher: TechnoMag
+lens: []
 author: Ross Moyo
 published: 2026-03-13
 date_precision: day

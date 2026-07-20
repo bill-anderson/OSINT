@@ -6,12 +6,14 @@ publisher: Tech Review Africa
 published: 2026-07-04
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [gov.protect, dpi.govtech, gov.standards]
 entities: [[artci], [certinum], [ministry-of-digital-transition-cote-divoire]]
 lens: []
+body_completeness: full
 provenance_flag: pr-wire
 primary_to_source: ARTCI communiqué launching CERTINUM; the platform's published procedures for personal-data processing authorisations
 ---

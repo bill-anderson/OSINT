@@ -6,12 +6,14 @@ publisher: TechAfrica News
 published: 2026-06-09
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 places: [DZA, TUN]
 topics: [gov.regional, infra.connect, tech.innovate, finance.mou]
 entities: [[ministry-of-post-and-telecommunications-algeria], [sid-ali-zerrouki], [algeria-tunisia-joint-technical-commission]]
 lens: []
+body_completeness: full
 ---
 
 # Algeria and Tunisia Expand Cooperation in Telecommunications and ICT Sector

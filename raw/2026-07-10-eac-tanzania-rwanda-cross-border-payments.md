@@ -6,6 +6,7 @@ publisher: The Citizen
 published: 2026-07-10
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [TZA]
 topics: [dpi.pay, gov.regional, dpi.exchange]
 entities: [[eac], [tips-tanzania], [bank-of-tanzania]]

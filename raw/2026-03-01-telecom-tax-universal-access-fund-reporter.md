@@ -6,8 +6,9 @@ publisher: The Reporter Ethiopia
 published: 2026-03-01
 date_precision: month
 date_source: proxy
+ingested: 2026-07-18
 date_note: "Body unfetchable (JS-rendered); month from article image path /2026/03/. Verify exact day at ingest."
-body_completeness: summary-only
+body_completeness: excerpt
 places: [ETH]
 topics: [infra.connect, include.access, gov.legislate, include.divides]
 entities: [[ethio-telecom], [safaricom-ethiopia]]

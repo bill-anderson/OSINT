@@ -6,12 +6,14 @@ publisher: TechCabal
 published: 2025-12-16
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 places: [DZA]
 topics: [finance.new, tech.innovate, tech.industry, dpi.pay]
 entities: [[volz], [tell-group], [groupe-industriel-babahoum-algerie], [algerian-startup-fund], [yassir], [mohamed-abdelhadi-mezi], [african-startup-conference]]
 lens: []
+body_completeness: full
 ---
 
 # VOLZ raises Algeria's largest startup funding round in local currency

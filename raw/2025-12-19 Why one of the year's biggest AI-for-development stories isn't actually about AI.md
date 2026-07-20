@@ -3,6 +3,8 @@ type: source
 title: "Why one of the year’s biggest AI-for-development stories isn’t actually about AI"
 publisher: Rose M. Mutiso (rosemutiso.substack.com)
 url: https://rosemutiso.substack.com/p/why-one-of-the-years-biggest-ai-for
+date_precision: day
+date_source: source
 author: Rose M. Mutiso
 published: 2025-12-19
 accessed: 2026-07-12
@@ -11,6 +13,7 @@ places: [XGL]
 topics: [tech.ai, data.satellite, data.statistics, digital.rural, include.access]
 entities: [[google], [rose-mutiso]]
 lens: []
+body_completeness: full
 ---
 
 <!-- External expert analysis. Uses India's AI monsoon-forecasting success (Google NeuralGCM + ECMWF AIFS, delivered via SMS/voice to ~38m farmers) to argue the real lesson is NOT about AI: it worked because of decades of meteorological data, institutional networks, trusted delivery infrastructure (mKisan, 2013) and human-centred design. India not in place vocab -> XGL (non-Africa-specific). ECMWF/mKisan/IMD not warranted as entities from one piece. -->

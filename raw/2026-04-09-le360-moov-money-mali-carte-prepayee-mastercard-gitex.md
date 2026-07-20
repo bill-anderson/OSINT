@@ -10,10 +10,10 @@ places: [MLI]
 topics: [dpi.pay]
 entities: [[sotelma], [maroc-telecom]]
 lens: []
+body_completeness: full
 retrieved: 2026-07-17
 ingested: 2026-07-18
 sweep_batch: MLI-2026-07-17
-
 ---
 
 Le360 Afrique. At GITEX Africa 2026 (Marrakech, 4th edition), Moov Money Mali launched a co-branded prepaid card with Mastercard, linked directly to the user's mobile wallet. Announced by Abdallah Tabhiret (DG, Moov Africa Malitel) alongside Mohamed Benomar (DG North-West Africa, Mastercard). Explicitly targets the unbanked: enables online payments (national and international), cash withdrawals via the Mastercard network and merchant settlement, with no traditional bank account. Positioned within BCEAO/WAEMU digital-payment and interoperability efforts. Part of Maroc Telecom group's strategy (present in 11 countries, ~77m customers). Complements Orange Money Mali's Orabank-Mastercard prepaid card (June 2025), both telco-led cards bridging mobile money to international card rails.

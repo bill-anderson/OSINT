@@ -13,6 +13,7 @@ places: [BDI]
 topics: [dpi.mis, dpi.registry, include.access]
 entities: [[merankabandi], [openimis], [world-bank]]
 lens: []
+body_completeness: full
 ---
 
 <!-- openIMIS blog (no explicit date; references a July 2025 WB note + Jan 2026 WB blog → published ~early 2026, date proxied to year). Burundi migrated its flagship Cash for Jobs social-protection programme (Merankabandi) to the CORE-MIS solution powered by openIMIS. Since May 2025 CORE-MIS has managed cash transfers + income-generating-activity financing for 1.25m beneficiaries across 5 provinces; >1m beneficiary records migrated from the legacy system. Merankabandi (WB-financed, national since 2022) supports 200,000+ vulnerable households; added emergency transfers + benefits for 360,000 refugees/host-community members. Multiple payment providers integrated for automated payment + reconciliation; KoboToolbox integrated. Govt developing a Unified Social Registry under the National Social Protection Strategy — openIMIS's social-registry features a candidate base. CORE-MIS built by WB during COVID, folded into openIMIS in 2023 (WB/BMZ/SDC). -->

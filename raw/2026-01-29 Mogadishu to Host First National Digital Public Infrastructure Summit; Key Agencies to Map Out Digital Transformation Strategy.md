@@ -3,6 +3,8 @@ type: source
 title: "Mogadishu to Host First National Digital Public Infrastructure Summit"
 publisher: SONNA
 url: https://sonna.so/en/mogadishu-to-host-first-national-digital-public-infrastructure-summit
+date_precision: day
+date_source: source
 author: Abdullahi
 published: 2026-01-29
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [SOM]
 topics: [dpi.govtech, gov.policy, dpi.exchange, gov.regional]
 entities: [[central-bank-of-somalia], [nira-somalia]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Somalia's first National DPI Summit (Mogadishu, 14-15 Feb 2026), organised by the Ministry of Communications & Technology + Office of the PM; collaborating: CBS, National Communications Authority, NIRA, Data Protection Authority. Objective: a cohesive national vision rooted in interoperability. -->

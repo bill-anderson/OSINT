@@ -6,12 +6,14 @@ publisher: Tech Review Africa
 published: 2026-03-19
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [finance.new, gov.policy, infra.cybersec, include.divides]
 entities: [[ministry-of-digital-transition-cote-divoire], [djibril-ouattara]]
 lens: []
+body_completeness: full
 provenance_flag: pr-wire
 primary_to_source: Ministry of Digital Transition and Technological Innovation 2026 budget launch communiqué and the Letters of Commitment issued to its four budget programmes
 ---

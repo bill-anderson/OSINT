@@ -6,6 +6,7 @@ publisher: Le Sahel (ONEP)
 published: 2025-08-04
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [NER]
 topics: [tech.innovate, tech.industry, capacity.training, dpi.pay]
 entities: [[ansi-niger]]

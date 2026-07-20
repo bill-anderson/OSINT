@@ -4,12 +4,15 @@ title: "NITDA Commits to Digital Inclusion for Persons with Disabilities"
 publisher: Nigeria Communications Week
 url: https://www.nigeriacommunicationsweek.com.ng/nitda-commits-to-digital-inclusion-for-persons-with-disabilities/
 published: 2026-01-23
+date_precision: day
+date_source: source
 accessed: 2026-07-12
 ingested: 2026-07-12
 places: [NGA]
 topics: [include.access, capacity.training, include.divides]
 entities: [[nitda], [kashifu-inuwa], [dl4all-nitda]]
 lens: []
+body_completeness: excerpt
 ---
 <!-- NITDA (DG Kashifu Inuwa) trained 50 persons-with-disabilities in a two-day DL4ALL programme, Abuja (as of 2026-01-23), with Inclusive Friends Association + SIMBED. DL4ALL informal-sector track has trained >480,000 Nigerians across 30 states+FCT since Sept 2024; national digital-literacy targets 70% by 2027, 95% by 2030. NOTE: 3 unrelated trailing stories (POS fraud, Moniepoint, Flutterwave–Circle USDC) bundled in clip — NOT part of this source. Attach: NGA hub, nitda, dl4all-nitda (new). -->
 

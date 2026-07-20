@@ -3,6 +3,9 @@ type: source
 title: Botswana's digital asset blind spot raises laundering alarm
 url: https://www.sundaystandard.info/botswanas-digital-asset-blind-spot-raises-laundering-alarm/
 publisher: Sunday Standard
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Sunday Standard Reporter
 published: 2026-02-23
 date_precision: day

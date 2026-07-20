@@ -12,6 +12,7 @@ places: [LSO]
 topics: [dpi.govtech, gov.regional]
 entities: [[lesotho-digital-transformation-strategy]]
 lens: []
+body_completeness: full
 artefact: "2024-05-01 Lesotho 50-in-5 country profile.pdf"
 ---
 

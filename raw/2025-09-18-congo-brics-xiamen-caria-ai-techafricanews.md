@@ -3,6 +3,7 @@ type: source
 title: Congo Showcases Digital Infrastructure Gains and AI Ambitions in Xiamen (BRICS Forum, CARIA–CAICT)
 url: https://techafricanews.com/2025/09/18/congo-showcases-digital-infrastructure-gains-and-ai-ambitions-in-xiamen/
 publisher: TechAfrica News
+ingested: 2026-07-18
 author: Jennifer Onyeagoro
 published: 2025-09-18
 date_precision: day
@@ -11,6 +12,7 @@ places: [COG, XCA]
 topics: [tech.ai, geopol.china, gov.regional, infra.store, capacity.research, tech.innovate, finance.mou]
 entities: [[caria-congo], [congo-national-data-centre], [smart-africa]]
 lens: [sovereignty, colonialism]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: COG-2026-07-17
 ---

@@ -3,6 +3,8 @@ type: source
 title: South Africa - Smart ID Card (Baker McKenzie guidance)
 url: https://iamhere.bakermckenzie.com/en/pages/south-africa
 publisher: Baker McKenzie
+lens: []
+body_completeness: full
 author: Baker McKenzie
 published: 2025-01-01
 date_precision: year

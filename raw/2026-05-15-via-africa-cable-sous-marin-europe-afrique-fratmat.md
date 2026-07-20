@@ -6,12 +6,14 @@ publisher: Fraternité Matin
 published: 2026-05-15
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV, XWA]
 topics: [infra.connect, geopol.eu, finance.mou]
 entities: [[via-africa], [canalink], [guilab], [international-mauritania-telecom], [orange-group], [orange-cote-divoire], [sonatel], [silverlinks]]
 lens: [sovereignty]
+body_completeness: full
 provenance_flag: pr-wire
 ---
 

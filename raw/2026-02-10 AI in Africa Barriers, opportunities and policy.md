@@ -3,6 +3,8 @@ type: source
 title: "AI in Africa: Barriers, opportunities and policy"
 publisher: VoxDev (VoxDevTalk / Ideas in Development)
 url: "https://voxdev.org/topic/technology-innovation/ai-africa-barriers-opportunities-and-policy"
+date_precision: day
+date_source: source
 author: VoxDev (interview with Rose Mutiso)
 published: 2026-02-10
 accessed: 2026-07-12
@@ -11,6 +13,7 @@ places: [XSS, XAF, ZAF, KEN, NGA, MAR, EGY]
 topics: [tech.ai, infra.energy, infra.store, infra.connect, gov.policy, gov.regional, data.open]
 entities: [[rose-mutiso]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Analysis: VoxDevTalk interview with Rose Mutiso (founder, African Tech Futures Lab) on AI preconditions — power, connectivity, data; data centres as physical backbone; AI is NOT a classic leapfrog; three-step agenda (affordable power at scale w/ DCs as anchor customers; governments as enablers not planners + regional data harmonisation; lower entry barriers for local researchers). Datable: Africa ~166x Switzerland's population but only ~2x its data centres. DATE FIX: frontmatter published was EMPTY; body "Published 10.02.26" → 2026-02-10 (stated-in-article, no proxy). Author field was empty; = VoxDev editorial writeup of Mutiso interview. -->

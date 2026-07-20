@@ -6,6 +6,7 @@ publisher: Namibian Sun
 published: 2026-07-01
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [NAM]
 topics: [dpi.id, dpi.registry, gov.protect, include.access]
 entities: [[namibia-digital-id], [ministry-home-affairs-namibia], [namibia-civil-registration-identification-act-2024]]

@@ -11,6 +11,7 @@ places: [DJI]
 topics: [dpi.govtech, dpi.exchange]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 # World Bank GovTech Case Study — Djibouti Digital Customs Administration (ASYCUDAWorld)

@@ -12,6 +12,7 @@ places: [KEN]
 topics: [dpi.govtech, infra.connect, gov.policy, tech.ai, include.access]
 entities: [[mzalendo], [konza-technopolis]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # ICT - Promise Tracker

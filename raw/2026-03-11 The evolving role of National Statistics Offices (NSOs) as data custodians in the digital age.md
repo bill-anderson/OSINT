@@ -4,12 +4,15 @@ title: "The evolving role of National Statistics Offices (NSOs) as data custodia
 publisher: Research ICT Africa
 url: https://researchictafrica.net/research/the-evolving-role-of-national-statistics-offices-nsos-as-data-custodians-in-the-digital-age/
 published: 2026-03-11
+date_precision: day
+date_source: source
 accessed: 2026-07-12
 ingested: 2026-07-12
 places: [ZAF, GHA, KEN, BEN]
 topics: [data.statistics, data.open, data.satellite, gov.policy, gov.legislate]
 entities: [[research-ict-africa]]
 lens: [sovereignty]
+body_completeness: full
 ---
 <!-- RIA report: NSOs in ZAF/GHA/KEN/BEN displaced as primary data producers by platform/satellite/private data; gap between perceived responsibility and formal mandate = institutional risk; recommends legal reform to formalise NSOs as data custodians. Reference figures stay on the resource. Attach: [[research-ict-africa]]. -->
 

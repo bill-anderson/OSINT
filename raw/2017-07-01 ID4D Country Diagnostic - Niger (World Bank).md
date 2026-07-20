@@ -13,6 +13,7 @@ places: [NER]
 topics: [dpi.id, dpi.registry]
 entities: [[world-bank]]
 lens: []
+body_completeness: full
 ---
 
 World Bank Identification for Development (ID4D) country diagnostic / Identity Management System Analysis (IMSA) for Niger. It maps the institutional and legal framework governing identity management, the civil register and functional registers requiring proof of identity, development partners, and a framework for modernising Niger's identity management system, closing with validation-workshop outputs.

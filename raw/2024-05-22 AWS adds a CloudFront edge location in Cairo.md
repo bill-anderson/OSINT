@@ -11,6 +11,7 @@ places: [EGY]
 topics: [infra.store, infra.connect]
 entities: [[amazon-web-services]]
 lens: []
+body_completeness: full
 ---
 
 # AWS adds a CloudFront edge location in Cairo

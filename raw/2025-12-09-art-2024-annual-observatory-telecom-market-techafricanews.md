@@ -3,6 +3,7 @@ type: source
 title: Cameroon's Telecom Sector Grows 18% in 2024, Driven by Mobile and Digital Services
 url: https://techafricanews.com/2025/12/09/cameroons-telecom-sector-grows-18-in-2024-driven-by-mobile-and-digital-services/
 publisher: TechAfrica News
+ingested: 2026-07-18
 author: Joyce Onyeagoro
 published: 2025-12-09
 date_precision: day
@@ -11,6 +12,7 @@ places: [CMR]
 topics: [data.statistics, infra.connect, tech.industry, dpi.pay, gov.legislate, finance.new, include.access, infra.store]
 entities: [[art-cameroon], [camtel], [mtn-cameroon], [orange-cameroun], [ihs-towers]]
 lens: [sovereignty]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: CMR-2026-07-17
 ---

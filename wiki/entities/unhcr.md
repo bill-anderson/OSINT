@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: organisation
 title: UNHCR (UN Refugee Agency)
 url: https://www.unhcr.org/

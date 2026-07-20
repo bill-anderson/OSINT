@@ -12,6 +12,7 @@ places: [STP]
 topics: [gov.protect, gov.legislate, dpi.exchange]
 entities: [[sao-tome-data-protection-law-2016], [sao-tome-interoperability-framework-2024], [national-data-protection-agency-sao-tome], [malabo-convention]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # São Tomé and Príncipe — Digital Regulations in the Metaverse Era (Data chapter)

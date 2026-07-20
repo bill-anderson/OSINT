@@ -6,12 +6,14 @@ publisher: TechAfrica News
 published: 2026-07-15
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [infra.cybersec, infra.connect, tech.industry, finance.new]
 entities: [[omobio], [moov-africa-cote-divoire], [yogesh-lulla]]
 lens: []
+body_completeness: full
 provenance_flag: pr-wire
 primary_to_source: Omobio / Moov Africa Côte d'Ivoire exclusive International A2P Messaging and Firewall Solution agreement announcement (July 2026)
 ---

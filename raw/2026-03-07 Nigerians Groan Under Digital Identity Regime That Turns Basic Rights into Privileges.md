@@ -3,6 +3,8 @@ type: source
 title: "Nigerians Groan Under Digital Identity Regime That Turns Basic Rights into Privileges"
 publisher: THISDAY Live
 url: https://www.thisdaylive.com/2026/03/07/nigerians-groan-under-digital-identity-regime/
+date_precision: day
+date_source: source
 author: Omolabake Fasogbon
 published: 2026-03-07
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [NGA, KEN]
 topics: [dpi.id, gov.protect, include.divides, include.access, capacity.literacy, dpi.registry]
 entities: [[nimc], [nigeria-id4d], [research-ict-africa]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Investigative reporting: NIN required for healthcare/education/banking/telecoms/welfare; NIMC claims 126m+ enrolled (~94m unenrolled); a 2024 policy confined corrections to a smartphone self-service portal tied to the original device; 72% of adults lack smartphones (Research ICT Africa); extortion by agents (N12,000-62,000 vs official N2,000); enrolment slowed to ~648,888/month. World Bank ID4D $430m facility extended to Dec 2026. Backfill to [[nimc]]. -->

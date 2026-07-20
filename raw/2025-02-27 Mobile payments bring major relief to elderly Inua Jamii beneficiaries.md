@@ -13,6 +13,7 @@ places: [KEN]
 topics: [dpi.pay, include.access, dpi.mis]
 entities: [[inua-jamii], [safaricom]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Inua Jamii cash-transfer beneficiaries (Ngong, Kajiado North) access funds via mobile payments (M-Pesa + eCitizen), saving on transport. PS Social Protection Joseph Motari: President directed the elderly be paid via M-Pesa/eCitizen. State Dept disbursed KES 3.52bn to 1,760,074 beneficiaries (Jan 2025 cycle, KES 2,000 each). Transition from bank accounts to M-Pesa agents via eCitizen; pilot began Nov 2024 (Murang'a, Marsabit). Withdraw full amount at M-Pesa agent with national ID, *222#. Safaricom allowed line registration for over-60 beneficiaries/caregivers. -->

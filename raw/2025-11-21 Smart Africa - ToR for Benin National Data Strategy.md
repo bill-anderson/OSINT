@@ -13,6 +13,7 @@ places: [BEN]
 topics: [gov.policy, gov.standards, data.open]
 entities: [[smart-africa], [asin-benin]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- COMPANION SOURCE PAGE for binary raw/2025-11-21 Smart Africa - ToR for Benin National Data Strategy.pdf (17pp). Smart Africa Secretariat RFP/ToR (ref 141/SAS-GIZ-Data Governance/RFP/11/2025; published 21 Nov 2025, closing 17 Dec 2025) to recruit a consultancy to develop BENIN'S NATIONAL DATA STRATEGY, under the Smart Africa–GIZ Data Governance workstream. Signals Benin building a formal national data-governance/strategy framework (data as a governed asset) with continental (Smart Africa) + German (GIZ) backing. Feeds BEN gov.policy/gov.standards + [[smart-africa]]. -->

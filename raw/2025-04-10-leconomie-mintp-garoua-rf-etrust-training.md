@@ -3,6 +3,9 @@ type: source
 title: "Garoua : Des responsables du Mintp formés à l'utilisation de RF-Etrust"
 url: https://leconomie.info/garoua-des-responsables-du-mintp-formes-a-lutilisation-de-rf-etrust/
 publisher: Le quotidien L'Economie
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Julie Bilo'o
 published: 2025-04-10
 date_precision: day

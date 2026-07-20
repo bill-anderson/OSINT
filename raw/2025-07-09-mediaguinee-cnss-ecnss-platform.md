@@ -6,12 +6,14 @@ publisher: Mediaguinee
 published: 2025-07-09
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: GIN-2026-07-17
 places: [GIN]
 topics: [dpi.govtech, dpi.pay, dpi.mis]
 entities: [[cnss-guinea], [bcrg], [simandou-2040]]
 lens: []
+body_completeness: full
 ---
 
 # Modernisation de la gestion des cotisations sociales : la CNSS lance la plateforme eCNSS

@@ -11,6 +11,7 @@ places: [SEN]
 topics: [dpi.id, dpi.govtech, gov.regional]
 entities: [[iris-corporation], [ecowas]]
 lens: []
+body_completeness: full
 ---
 
 # Senegal targets 3M ECOWAS biometric ID holders for voter registration

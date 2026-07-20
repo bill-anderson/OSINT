@@ -7,6 +7,8 @@ published: 2025-06-28
 date_precision: day
 date_source: source
 ingested: 2026-07-17
+lens: []
+body_completeness: full
 artefact: "2025-06-28 PID Concept Stage - Digital Eswatini (P508948).pdf"
 places: [SWZ]
 topics: [dpi.govtech, finance.new, infra.connect, dpi.id, capacity.training]

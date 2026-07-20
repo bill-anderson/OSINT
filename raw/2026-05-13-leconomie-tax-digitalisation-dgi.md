@@ -3,6 +3,7 @@ type: source
 title: "Digitalisation fiscale au Cameroun : La Direction Générale des Impôts opère sa mue"
 url: https://leconomie.info/digitalisation-fiscale-au-cameroun-la-direction-generale-des-impots-opere-sa-mue/
 publisher: Le quotidien L'Economie
+ingested: 2026-07-18
 author: Serge Patrice Ekombo
 published: 2026-05-13
 date_precision: day

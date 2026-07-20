@@ -3,6 +3,9 @@ type: source
 title: "Protection des données personnelles: Sensibilisation des populations de l'Ouémé"
 url: https://www.lanation.bj/actualites/protection-des-donnees-personnelles-sensibilisation-des-populations-de-loueme
 publisher: La Nation
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Thibaud C. NAGNONHOU, A/R Ouémé-Plateau
 published: 2026-06-17
 date_precision: day

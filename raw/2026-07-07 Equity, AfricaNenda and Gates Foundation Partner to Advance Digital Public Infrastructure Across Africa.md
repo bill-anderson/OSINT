@@ -3,6 +3,8 @@ type: source
 title: "Equity, AfricaNenda and Gates Foundation Partner to Advance Digital Public Infrastructure Across Africa"
 publisher: TechAfrica News
 url: https://techafricanews.com/2026/07/07/equity-africanenda-and-gates-foundation-partner-to-advance-digital-public-infrastructure-across-africa/
+date_precision: day
+date_source: source
 author: Jennifer Onyeagoro
 published: 2026-07-07
 accessed: 2026-07-10
@@ -11,6 +13,7 @@ places: [KEN, XAF]
 topics: [finance.mou, dpi.pay, dpi.id, dpi.exchange, include.access, gov.regional]
 entities: [[equity-africanenda-gates-dpi-partnership], [equity-group-holdings], [africanenda], [gates-foundation], [james-mwangi], [afcfta]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- On-the-record reporting of an MoU signing with named principals and direct quotes.

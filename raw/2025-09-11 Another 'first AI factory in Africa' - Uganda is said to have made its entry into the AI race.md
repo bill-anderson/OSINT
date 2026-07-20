@@ -12,6 +12,7 @@ places: [UGA]
 topics: [tech.ai, infra.store, infra.energy, infra.connect, finance.new]
 entities: [[aeonian-project], [synectics-technologies], [nvidia], [karuma-hydropower-plant], [cassava-technologies]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 *The scepticism is carried by the headline and the closing comparison to Cassava's rival 'first AI factory in Africa' claim, not by an argued case — read it as evidence that the 'first' label is CONTESTED across at least two projects, not as a debunk. Says USIO 'was built' in partnership with NVIDIA (past tense) where the Ecofin account four days later says it 'is being developed' — almost certainly loose sub-editing; do not read it as evidence the machine exists.*

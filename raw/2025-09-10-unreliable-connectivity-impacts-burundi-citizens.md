@@ -3,6 +3,9 @@ type: source
 title: Unreliable connectivity impacts Burundi's citizens
 url: https://www.connectingafrica.com/connectivity/unreliable-connectivity-impacts-burundi-s-citizens
 publisher: Connecting Africa
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Desire Nimubona
 published: 2025-09-10
 date_precision: day

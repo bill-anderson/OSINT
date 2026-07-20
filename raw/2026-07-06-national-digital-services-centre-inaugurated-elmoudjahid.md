@@ -1,6 +1,7 @@
 ---
 type: source
 title: "Le Centre national des services numériques inauguré"
+ingested: 2026-07-18
 title_en: President Tebboune inaugurates the National Centre for Digital Services at Mohammadia (Algiers) on 64th independence anniversary — sovereign data hosting, two national sites, international construction/security standards
 url: https://www.elmoudjahid.dz/fr/actualite/infrastructure-inedite-et-premiere-du-genre-a-travers-le-pays-le-centre-national-des-services-numeriques-inaugure-255075
 publisher: El Moudjahid
@@ -15,6 +16,7 @@ places: [DZA]
 topics: [infra.store, dpi.govtech, dpi.exchange, infra.cybersec]
 entities: [[abdelmadjid-tebboune, centre-national-algerien-des-services-numeriques, meriem-benmouloud, haut-commissariat-a-la-numerisation]]
 lens: [sovereignty]
+body_completeness: full
 provenance_flag: state-media
 ---
 

@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: initiative
 title: MaPoste (digital super-app, Côte d'Ivoire)
 places: [CIV]

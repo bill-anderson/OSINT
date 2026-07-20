@@ -3,6 +3,7 @@ type: source
 title: L'IA au cœur de la Stratégie numérique au Burundi
 url: https://www.iwacu-burundi.org/lia-au-coeur-de-la-strategie-numerique-au-burundi/
 publisher: Iwacu
+ingested: 2026-07-18
 author: La Rédaction
 published: 2026-04-22
 date_precision: day
@@ -13,6 +14,7 @@ places: [BDI]
 topics: [tech.ai, gov.policy, infra.store, gov.protect, capacity.training, tech.innovate]
 entities: [[setic-burundi], [undp], [ministry-of-finance-budget-and-digital-economy-burundi]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 > **Dating note (sweep):** Iwacu serves no publication date. This article reports the

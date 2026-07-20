@@ -13,6 +13,7 @@ places: [MAR]
 topics: [dpi.id, infra.cybersec, dpi.pay]
 entities: [[mon-e-id], [dgsn-morocco], [add-morocco], [idemia]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Morocco's response to cyberattacks (by Algerian group Jabaroot, hitting CNSS, Justice Ministry, land-registry ANCFCC) includes fast-tracking the national digital ID by govt + public. System: "Mon e-ID" mobile app + citizen portal, built by iDAKTO. Platform built via partnership between Idemia Smart Identity by IN Group (also supplies contactless national ID cards), under contract to ADD (Digital Development Agency) + DGSN. Adopters: Ministries of Justice/Habitat/Youth, CNSS, DGI (tax), TGR (treasury); banks/telecoms following (some integrated Mon e-ID in 48h). iDAKTO's Yann Bouan: hybrid model — server-side 1:N for proofing, native device biometrics for 1:1; iDAKTO never accesses biometric data. DGSN's Mouhcine Yejjou: 2.5m active users, 7m+ digital-identity transactions since April 2022. -->

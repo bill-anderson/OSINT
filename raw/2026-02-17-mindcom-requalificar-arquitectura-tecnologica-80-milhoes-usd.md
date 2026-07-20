@@ -3,6 +3,8 @@ type: source
 title: Ministério da Indústria e Comércio vai requalificar arquitectura tecnológica da rede Informática por 80 milhões de dólares
 url: https://www.novojornal.co.ao/economia/detalhe/ministerio-da-industria-e-comercio-vai-requalificar-arquitectura-tecnologica-da-rede-informatica-por-80-milhoes-de-dolares-69887.html
 publisher: Novo Jornal
+lens: []
+body_completeness: full
 author: Nova Vaga
 published: 2026-02-17
 date_precision: day

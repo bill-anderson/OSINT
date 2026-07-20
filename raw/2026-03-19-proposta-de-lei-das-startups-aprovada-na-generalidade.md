@@ -3,6 +3,8 @@ type: source
 title: Propostas de Lei das Startups e do novo Código do Imposto sobre os Rendimentos das Pessoas Singulares aprovadas na generalidade no Parlamento
 url: https://www.novojornal.co.ao/politica/detalhe/propostas-de-lei-das-startups-e-do-novo-codigo-do-imposto-sobre-os-rendimentos-das-pessoas-singulares-aprovadas-na-generalidade-no-parlamento-70556.html
 publisher: Novo Jornal
+lens: []
+body_completeness: full
 author: Nova Vaga
 published: 2026-03-19
 date_precision: day

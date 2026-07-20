@@ -3,6 +3,8 @@ type: source
 title: "Introducing WAXAL: A New Open Dataset for African Speech Technology"
 publisher: Google
 url: https://blog.google/intl/en-africa/company-news/introducing-waxal/
+date_precision: day
+date_source: source
 author: Aisha Walcott-Bryant
 published: 2026-02-02
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [XSS, UGA, GHA, RWA]
 topics: [tech.ai, data.open, capacity.research, include.access]
 entities: [[waxal], [google], [aisha-walcott-bryant]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Primary: Google Research Africa's WAXAL open speech dataset (Wolof 'speak') — 21 languages, 11,000+ hrs, ~2m recordings (~1,250 hrs ASR + 20+ hrs TTS) on Hugging Face; partners Makerere, Univ. Ghana, Digital Umuganda, AIMS. Home for [[waxal]]; head of Google Research Africa [[aisha-walcott-bryant]]. -->

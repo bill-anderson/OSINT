@@ -3,6 +3,7 @@ type: source
 title: "Vision Bénin 2060: Le numérique érigé en moteur stratégique de transformation nationale"
 url: https://lanation.bj/actualites/vision-benin-2060-le-numerique-erige-en-moteur-strategique-de-transformation-nationale
 publisher: La Nation
+ingested: 2026-07-18
 author: Isidore GOZO
 published: 2026-02-12
 date_precision: day
@@ -13,6 +14,7 @@ places: [BEN]
 topics: [gov.policy, include.divides, tech.ai, dpi.id, infra.store]
 entities: [[vision-benin-2060], [african-union]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Vision Bénin 2060: Le numérique érigé en moteur stratégique de transformation nationale

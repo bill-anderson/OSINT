@@ -13,6 +13,7 @@ places: [MWI]
 topics: [capacity.training]
 entities: [[world-bank]]
 lens: []
+body_completeness: full
 ---
 
 World Bank Implementation Completion and Results Report (Report No. ICR00005716, dated 28 April 2022) for the Malawi Education Sector Improvement Project (MESIP), an Education for All - Fast Track Initiative grant of US$44.9 million. Low direct relevance to data governance; retained as a reference on education-sector capacity and delivery in Malawi.

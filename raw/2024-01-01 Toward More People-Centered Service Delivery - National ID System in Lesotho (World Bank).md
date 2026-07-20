@@ -12,6 +12,7 @@ places: [LSO]
 topics: [dpi.id, dpi.govtech, include.access]
 entities: [[lesotho-national-id]]
 lens: []
+body_completeness: full
 artefact: "2024-01-01 P17240506 Toward More People-Centered Service Delivery National ID Lesotho.pdf"
 ---
 

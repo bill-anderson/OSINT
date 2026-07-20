@@ -12,6 +12,7 @@ places: [XAF, XSS, GHA, KEN, NGA, ZAF, ETH]
 topics: [dpi.pay, dpi.exchange, include.access, finance.new]
 entities: [[affinity-africa], [mo-ibrahim-foundation], [gsma], [papss]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # The State of Cash Dependency and Digital Financial Inclusion in Africa

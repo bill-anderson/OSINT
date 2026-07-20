@@ -6,6 +6,7 @@ publisher: TechAfrica News
 published: 2025-07-18
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [TCD]
 topics: [gov.policy, infra.connect, dpi.govtech, dpi.pay, finance.new]
 entities: [[tchad-connexion-2030], [sotel-chad], [world-bank], [ministry-telecom-digital-economy-chad]]

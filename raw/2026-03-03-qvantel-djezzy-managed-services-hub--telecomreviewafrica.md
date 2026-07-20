@@ -6,12 +6,14 @@ publisher: Telecom Review Africa
 published: 2026-03-03
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 places: [DZA]
 topics: [infra.connect, infra.capacity, tech.industry, capacity.training]
 entities: [[qvantel], [djezzy], [boumediene-senouci], [varun-galande]]
 lens: []
+body_completeness: full
 provenance_flag: pr-wire
 ---
 

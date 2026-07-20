@@ -3,6 +3,7 @@ type: source
 title: Camtel launches tender for 2.3 million SIMs
 url: https://itweb.africa/article/camtel-launches-tender-for-23-million-sims/6GxRKqYQwWZqb3Wj
 publisher: ITWeb Africa
+ingested: 2026-07-18
 author: Amindeh Blaise Atabong
 published: 2026-03-30
 date_precision: day
@@ -11,6 +12,7 @@ places: [CMR]
 topics: [infra.connect, tech.industry, include.access, dpi.govtech]
 entities: [[camtel], [mtn-cameroon], [orange-cameroun]]
 lens: [sovereignty]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: CMR-2026-07-17
 ---

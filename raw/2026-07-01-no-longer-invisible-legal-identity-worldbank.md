@@ -6,10 +6,12 @@ publisher: World Bank
 published: 2026-07-01
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [MDG]
 topics: [dpi.id, dpi.registry, gov.legislate, include.access]
 entities: [[prodigy-madagascar], [world-bank]]
 lens: []
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: MDG-2026-07-17
 ---

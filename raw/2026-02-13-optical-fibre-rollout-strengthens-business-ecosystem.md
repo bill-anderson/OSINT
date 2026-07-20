@@ -6,6 +6,7 @@ publisher: Times of Eswatini
 published: 2026-02-13
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [SWZ]
 topics: [infra.connect, gov.policy, dpi.govtech]
 entities: [[ministry-of-ict-eswatini], [rstp], [business-eswatini]]

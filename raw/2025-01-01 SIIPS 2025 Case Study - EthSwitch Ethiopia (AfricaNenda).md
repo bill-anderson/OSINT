@@ -11,6 +11,7 @@ places: [ETH]
 topics: [dpi.pay, include.access, dpi.exchange]
 entities: [[ethswitch], [national-bank-of-ethiopia]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # SIIPS 2025 Case Study — EthSwitch Ethiopia (AfricaNenda)

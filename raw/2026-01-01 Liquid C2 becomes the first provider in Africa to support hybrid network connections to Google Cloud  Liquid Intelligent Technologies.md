@@ -5,12 +5,14 @@ publisher: Liquid Intelligent Technologies
 url: https://liquid.tech/about-us/news/liquid-c2-becomes-the-first-provider-in-africa-to-support-hybrid-network-connections-to-google-cloud/
 published: 2026
 date_precision: year
+date_source: source
 accessed: 2026-06-12
 ingested: 2026-07-10
 places: [XAF]
 topics: [infra.connect, infra.store, tech.ai, gov.protect]
 entities: [[liquid-c2], [google]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- First-party: Liquid C2 first Google Cloud Interconnect provider on the continent (private

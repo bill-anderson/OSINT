@@ -13,6 +13,7 @@ places: [NAM]
 topics: [dpi.mis, gov.policy]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 Namibia's National eHealth Strategy for 2021-2025, the government's policy framework for digitalising the health sector — covering health information systems, digital health services and the governance, infrastructure and standards needed to support them. Companion page for the strategy document. Reference work — cite, don't absorb.

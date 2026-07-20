@@ -3,6 +3,8 @@ type: source
 title: Key Highlights of the Bank of Tanzania (Financial Consumer Protection) (Amendment) Regulations, GN No. 298 of 2025
 url: https://kemiadvocates.co.tz/2025/06/27/legal-update-key-highlights-of-the-bank-of-tanzania-financial-consumer-protection-amendment-regulations-gn-no-298-of-2025-date-23-may-2025
 publisher: Kemi Advocates
+lens: []
+body_completeness: full
 author: Kemi Advocates
 published: 2025-06-27
 date_precision: day

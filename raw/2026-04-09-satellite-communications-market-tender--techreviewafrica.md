@@ -6,6 +6,7 @@ publisher: Tech Review Africa
 published: 2026-04-09
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 provenance_flag: pr-wire
@@ -13,6 +14,7 @@ places: [DZA]
 topics: [infra.connect, digital.rural, include.divides, gov.policy]
 entities: [[arpce-algeria], [algeria-ministry-of-post-and-telecommunications]]
 lens: []
+body_completeness: full
 ---
 
 **Primary source to obtain at ingest:** the ARPCE (Autorité de Régulation de la Poste et des Communications Électroniques) tender notice itself for the two NGSO satellite licences — the regulator's published call for competition, which will carry the licence terms, timetable and eligibility conditions the wire omits.

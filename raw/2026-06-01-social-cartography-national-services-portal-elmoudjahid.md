@@ -1,6 +1,7 @@
 ---
 type: source
 title: "Cartographie sociale et portail national des services numériques : Une révolution silencieuse en marche"
+ingested: 2026-07-18
 title_en: Council of Ministers — Tebboune tasks High Commissioner for Digitalisation with a national social map before the autumn; effective launch of the National Digital Services Portal ("Dzair Digital Services") as strategic decision-support tool
 url: https://www.elmoudjahid.dz/fr/actualite/retour-sur-le-conseil-des-ministres-cartographie-sociale-et-portail-national-des-services-numeriques-une-revolution-silencieuse-en-marche-254255
 publisher: El Moudjahid
@@ -15,6 +16,7 @@ places: [DZA]
 topics: [dpi.govtech, data.statistics, dpi.exchange, gov.policy]
 entities: [[abdelmadjid-tebboune, haut-commissariat-a-la-numerisation, dzair-services]]
 lens: [sovereignty]
+body_completeness: full
 provenance_flag: state-media
 ---
 

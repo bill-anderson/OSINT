@@ -6,12 +6,14 @@ publisher: Tech Review Africa
 published: 2026-05-12
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [gov.policy, gov.standards]
 entities: [[artci], [ministry-of-digital-transition-cote-divoire], [djibril-ouattara], [roger-felix-adom]]
 lens: []
+body_completeness: full
 provenance_flag: pr-wire
 primary_to_source: The ARTCI Regulatory Council roadmap presented on 11 May 2026; ARTCI / Ministry communiqué on the meeting
 ---

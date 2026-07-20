@@ -13,6 +13,7 @@ places: [COG, XCA]
 topics: [infra.store, infra.connect, gov.regional]
 entities: [[congo-national-data-centre], [world-bank]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Merges Techpoint + Empower Africa (both 2024-05-20) + the 2025-03-11 "75% completion" update. Congo began building a national data centre in Bacongo district, Brazzaville — a three-storey facility to store/process national data — funded at $72.8m ($57m AfDB + $15.8m govt; = ~€66.55m: €52.47m AfDB + €14.5m govt), including a 600-km fibre backbone connecting Congo to Cameroon and CAR (part of the Central African Backbone / CAB project). Framed as the FIRST sovereign data centre in Central Africa — hosting all public data domestically, ending reliance on European servers, offering storage/backup to telcos/banks/insurers. Originally expected operational Dec 2024; by 11 Mar 2025 it had reached 75% completion, with inauguration anticipated Aug–Nov 2025 (AfDB regional DG Solomane Koné + Minister Ibombo site visit). CAB coordinator Michael Ngakala. The $72.8m/€66.55m are the same amount (currency difference). -->

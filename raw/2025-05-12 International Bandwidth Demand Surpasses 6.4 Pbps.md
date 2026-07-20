@@ -3,6 +3,8 @@ type: source
 title: "International Bandwidth Demand Surpasses 6.4 Pbps"
 publisher: TeleGeography
 url: https://resources.telegeography.com/
+date_precision: day
+date_source: source
 author: Alan Mauldin
 published: 2025-05-12
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [XGL, XAF]
 topics: [infra.connect, infra.capacity]
 entities: [[telegeography]]
 lens: []
+body_completeness: full
 ---
 
 <!-- TeleGeography data (year-end 2024): global used international bandwidth >6.4 Pbps (tripled 2020->2024, 32% CAGR); Africa fastest-growing at >40% CAGR; content/cloud (Google/Meta/Microsoft/Amazon) ~75% of demand. Feeds [[telegeography]]. -->

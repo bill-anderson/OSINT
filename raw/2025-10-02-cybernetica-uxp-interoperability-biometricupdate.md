@@ -6,12 +6,14 @@ publisher: Biometric Update
 published: 2025-10-02
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [dpi.exchange, dpi.govtech, gov.standards]
 entities: [[cybernetica], [sndi], [ministry-of-digital-transition-cote-divoire], [digital-afrique-telecom]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 By Chris Burt. October 2, 2025.

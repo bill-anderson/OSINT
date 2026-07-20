@@ -3,6 +3,9 @@ type: source
 title: "Protection des données personnelles : l'APDP mobilise les forces vives du chef-lieu du Couffo"
 url: https://lanation.bj/societe/protection-des-donnees-personnelles-lapdp-mobilise-les-forces-vives-du-chef-lieu-du-couffo
 publisher: La Nation
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Christian HOUNONGBE
 published: 2026-04-16
 date_precision: day

@@ -6,12 +6,14 @@ publisher: Fraternité Matin
 published: 2026-05-18
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [gov.protect]
 entities: [[reseau-africain-autorites-protection-donnees-personnelles], [artci], [djibril-ouattara], [roger-felix-adom], [iro-adamou]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Protection des données personnelles : Djibril Ouattara présente les progrès réalisés par la Côte d’Ivoire

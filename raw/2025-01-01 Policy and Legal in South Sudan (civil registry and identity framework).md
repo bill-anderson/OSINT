@@ -12,6 +12,7 @@ places: [SSD]
 topics: [dpi.id, gov.legislate]
 entities: [[dcrnpi-south-sudan]]
 lens: []
+body_completeness: full
 ---
 
 # Policy & Legal in South Sudan

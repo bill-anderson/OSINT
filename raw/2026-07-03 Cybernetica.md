@@ -3,6 +3,8 @@ type: source
 title: "Cybernetica (AS)"
 publisher: Cybernetica AS
 url: https://cyber.ee/
+date_precision: day
+date_source: source
 author: unknown
 published: 2026-07-03
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [XGL]
 topics: [dpi.exchange, dpi.govtech, infra.cybersec, dpi.id, gov.standards]
 entities: [[cybernetica]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Homepage capture - entity profile of the Estonian firm that created X-Road and the in-house UXP (Unified eXchange Platform). No event; basis for [[cybernetica]]. Relevant to African DPI via Smart Africa / ESTDEV and UXP deployments (e.g. Benin). -->

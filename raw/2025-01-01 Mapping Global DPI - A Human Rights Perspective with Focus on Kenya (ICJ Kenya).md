@@ -3,6 +3,7 @@ type: source
 title: "Mapping Global Digital Public Infrastructure (DPI): A Human Rights Perspective with Focus on Kenya"
 publisher: ICJ Kenya (Kenyan Section of the International Commission of Jurists)
 url: https://www.icj-kenya.org/
+date_source: source
 author: Henry Omusundi Maina (research consultant); ICJ Kenya
 published: 2025
 date_precision: year
@@ -12,6 +13,7 @@ places: [KEN, XAF, XGL]
 topics: [dpi.id, dpi.pay, dpi.exchange, gov.protect, gov.legislate, include.access]
 entities: [[icj-kenya], [odpc-kenya], [safaricom]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- ICJ Kenya institutional report (2025), full text held locally as

@@ -13,6 +13,7 @@ places: [MWI]
 topics: [gov.protect, gov.legislate]
 entities: [[macra-malawi]]
 lens: []
+body_completeness: full
 ---
 
 [Analysis/opinion: digital-rights essay by Moses Kaufa, originally published in APC's Southern Africa Digital Rights Issue 2; no date on clip and latest events cited are mid/late 2022 - year proxy. Historical baseline: predates the February 2024 Data Protection Act, describing the pre-Act state.] The article argues that Malawi's lack of an enacted data protection law jeopardises privacy amid rising demands for personal data - for SIM registration (from 2018), national ID enrolment (National Registration Act 2010; registration from 2017), banking KYC and voting.

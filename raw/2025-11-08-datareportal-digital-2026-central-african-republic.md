@@ -10,6 +10,7 @@ ingested: 2026-07-20
 places: [CAF]
 topics: [data.statistics, include.access, include.divides, infra.connect]
 entities: [[datareportal], [kepios], [gsma], [united-nations], [itu], [meta], [linkedin], [x-corp]]
+lens: []
 body_completeness: full
 ---
 

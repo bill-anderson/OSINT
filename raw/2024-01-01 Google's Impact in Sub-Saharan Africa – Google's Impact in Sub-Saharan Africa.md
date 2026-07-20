@@ -3,6 +3,7 @@ type: source
 title: "Google's Impact in Sub-Saharan Africa (Public First report)"
 publisher: Public First (for Google)
 url: https://googlessa.publicfirst.co.uk/
+date_source: source
 author: Public First
 published: 2024
 date_precision: year
@@ -12,6 +13,7 @@ places: [XSS, NGA, KEN, ZAF, GHA, TZA, CMR, CIV, MOZ, AGO, ZWE, SEN, UGA]
 topics: [include.access, infra.connect, tech.ai, infra.store, capacity.training, finance.new, data.satellite]
 entities: [[google], [google-for-startups-accelerator-africa], [hustle-academy]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Backfill: Google-commissioned Public First impact report — Google's 2021 $1bn/5yr Africa commitment; Google tools added ~$16bn economic activity (2023); Equiano + Umoja + Africa Connect + Taara; JHB Cloud region (Jan 2024, +$2.1bn GDP/40,000 jobs by 2030); 10,300 SMBs via Hustle Academy. Self-interested; attach to [[google]]. -->

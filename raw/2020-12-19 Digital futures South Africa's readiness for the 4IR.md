@@ -4,12 +4,15 @@ title: "Digital futures: South Africa's readiness for the 4IR"
 publisher: Research ICT Africa
 url: "https://researchictafrica.net/research/digital-futures-south-africas-readiness-for-the-4ir/"
 published: 2020-12-19
+date_precision: day
+date_source: source
 accessed: 2026-07-12
 ingested: 2026-07-12
 places: [ZAF]
 topics: [gov.policy, tech.ai, include.divides, tech.innovate]
 entities: [[research-ict-africa]]
 lens: []
+body_completeness: full
 ---
 <!-- RIA/UCT Nelson Mandela School policy paper commissioned by the National Planning Commission (NPC). Report completed 2019 (pre-COVID), released for public comment July 2020, published Dec 2020. Argues the technologically-determinist 4IR blueprint lens cannot deliver the NDP's inclusive vision; needs affordable meaningful access + demand-side absorptive capacity. Historical/framing value AS OF 2020, not current data. Attach to ZAF hub + research-ict-africa. Full report held locally: `raw/2020-12-19 DIGITAL FUTURES - SOUTH AFRICA'S READINESS FOR THE FOURTH INDUSTRIAL REVOLUTION.pdf` (NPC draft released for public comment 6 July 2020, supported by Konrad-Adenauer Stiftung) — this clipping is the source of record; the PDF is its full-text companion, not separately filed. -->
 

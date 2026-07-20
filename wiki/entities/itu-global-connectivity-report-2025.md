@@ -7,6 +7,7 @@ topics: [infra.connect, include.divides, include.access, data.statistics, gov.st
 lens: []
 status: active
 last_reviewed: 2026-07-10
+sources: []
 ---
 
 # ITU Global Connectivity Report 2025

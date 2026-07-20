@@ -3,14 +3,17 @@ type: source
 title: "Starlink Partners with Airtel & Vodacom: From Rival to Ally"
 publisher: Tech In Africa
 url: https://www.techinafrica.com/starlink-partners-airtel-vodacom-rival-ally/
+date_source: source
 author: Kevin Mwangi
 published: 2026-01-01
+date_precision: month
 accessed: 2026-07-12
 ingested: 2026-07-12
 places: [ZAF, KEN, COD, LSO, TZA, MOZ, XAF]
 topics: [infra.connect, data.satellite, finance.mou]
 entities: [[starlink], [airtel-africa], [vodacom], [spacex], [starlink-airtel-d2c-partnership], [starlink-vodacom-leo-partnership]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Starlink shifts rival→ally: two distinct partnerships → two new deal entities. AIRTEL: Direct-to-Cell + backhaul, 2026 launch across all 14 markets (SpaceX licensed 9/14 by May 2025; Airtel 173.8m subs Sep 2025). VODACOM: LEO backhaul + equipment resale, 25 countries; ZAR 2.5bn (~$145.6m) SA 30%-HDI-ownership commitment; SA rollout delayed on compliance. Starlink live in 25 African countries (Nov 2025). SEO-blog format but real quoted partnerships (Taldar/Joosub/Gibbs) → admissible. -->

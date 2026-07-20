@@ -13,6 +13,7 @@ places: [LBR]
 topics: [gov.protect, gov.legislate, include.divides]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 <!-- Analysis: Liberia has NO dedicated data-protection law + NO National Data Authority, despite being an ECOWAS Data Protection Act signatory (which requires member states to establish one). Constitution Art. 16 gives privacy protection but no specific data/online-privacy law. Assistant Postal Affairs Min Melvin Yealue: no national DPA, no designated protection officers, no law requiring them. Govt drafting a policy to implement the ECOWAS Act (Min Worlea Saywah Dunah, working with LTA). National ICT Policy 2019-2024 (SET themes). Digital 2023: 1.80m internet users, 33.6% penetration. Rural access gaps (Tubmanburg). Journalists endorsed a self-regulation manual on data privacy (2022, EU-supported). Enforcement blocked by limited funding (Finance Min Tweah). -->

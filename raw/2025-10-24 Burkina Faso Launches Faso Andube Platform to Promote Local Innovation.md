@@ -13,6 +13,7 @@ places: [BFA]
 topics: [tech.innovate, capacity.training]
 entities: []
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Ecofin (Oct 2025): President Ibrahim Traoré announced (17 Oct 2025) "Faso Ãndúbe," a digital platform to promote Burkinabè scientific/technical/technological talent — inventors/innovators at home and in the diaspora register projects and access support toward local manufacturing of "Made in Burkina" machinery, routed to an incubator under construction. A technological-sovereignty / import-substitution framing (local manufacture, diaspora skills). -->

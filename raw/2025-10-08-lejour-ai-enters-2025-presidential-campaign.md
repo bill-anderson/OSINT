@@ -3,6 +3,9 @@ type: source
 title: "Présidentielle 2025 : Quand l’intelligence artificielle entre en campagne"
 url: https://lejour.cm/presidentielle-2025-quand-lintelligence-artificielle-entre-en-campagne/
 publisher: Le Jour
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Solière Champlain Paka
 published: 2025-10-08
 date_precision: day

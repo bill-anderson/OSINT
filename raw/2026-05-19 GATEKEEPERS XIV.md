@@ -3,6 +3,8 @@ type: source
 title: "GATEKEEPERS XIV"
 publisher: alicemunyua.substack.com (Gatekeepers series)
 url: https://alicemunyua.substack.com/p/gatekeepers-xiv
+date_precision: day
+date_source: source
 author: Alice Munyua
 published: 2026-05-19
 accessed: 2026-07-12
@@ -11,6 +13,7 @@ places: [KEN]
 topics: [tech.ai, gov.legislate, gov.policy, gov.protect, dpi.pay]
 entities: [[alice-munyua], [kenya-ai-bill-2026], [eu-ai-act], [africa-ai-declaration], [gates-foundation], [safaricom], [vodacom], [odpc-kenya], [communications-authority-of-kenya], [au-continental-ai-strategy], [african-union], [abeba-birhane]]
 lens: [sovereignty, colonialism]
+body_completeness: full
 ---
 
 <!-- Munyua: the Kenya AI Bill 2026 is a self-declared EU-AI-Act transplant (Memorandum of Objects p.73) — presidentially-appointed AI Commissioner, KES 5m (~$40k) fine cap, no extraterritorial reach, no pre-deployment impact assessment; situates it inside the Gates/Kigali "philanthropic industrial complex" and the SHA algorithm as live proof-of-concept extracting from the poorest Kenyans. External expert analysis. Attach: kenya-ai-bill-2026, eu-ai-act, africa-ai-declaration, KEN hub, tech.ai/gov.legislate concepts. -->

@@ -6,12 +6,14 @@ publisher: Hespress
 published: 2025-01-09
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: MAR-2026-07-17
 places: [MAR]
 topics: [tech.ai, gov.legislate]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 # مبادرة تشريعية تهدف إلى تنظيم استعمال الذكاء الاصطناعي في المغرب

@@ -12,6 +12,7 @@ places: [SSD]
 topics: [dpi.pay, dpi.exchange, dpi.govtech, include.divides]
 entities: [[bank-of-south-sudan]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # What is actually functioning as DPI in South Sudan

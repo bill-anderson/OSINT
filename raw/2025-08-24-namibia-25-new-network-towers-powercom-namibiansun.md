@@ -6,6 +6,7 @@ publisher: Namibian Sun
 published: 2025-08-24
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [NAM]
 topics: [infra.connect, include.access, digital.rural, gov.policy]
 entities: [[telecom-namibia], [emma-theofelus]]

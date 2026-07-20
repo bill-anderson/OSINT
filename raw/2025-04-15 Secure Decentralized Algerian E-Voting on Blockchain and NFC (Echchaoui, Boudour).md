@@ -11,6 +11,7 @@ places: [DZA]
 topics: [dpi.govtech, tech.innovate, dpi.id]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 # Secure and Decentralized Algerian E-Voting System Based on Blockchain and NFC (Echchaoui, Boudour)

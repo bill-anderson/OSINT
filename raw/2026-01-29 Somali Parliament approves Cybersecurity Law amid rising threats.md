@@ -12,6 +12,7 @@ places: [SOM]
 topics: [infra.cybersec, gov.legislate]
 entities: [[somalia-cybersecurity-law]]
 lens: []
+body_completeness: full
 ---
 
 # Somali Parliament approves Cybersecurity Law amid rising threats

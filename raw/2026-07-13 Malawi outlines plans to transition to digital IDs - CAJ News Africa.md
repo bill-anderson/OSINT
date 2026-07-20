@@ -12,6 +12,7 @@ places: [MWI]
 topics: [dpi.id, dpi.govtech, gov.legislate]
 entities: [[national-registration-bureau-malawi], [dmap], [world-bank]]
 lens: []
+body_completeness: full
 ---
 
 # Malawi outlines plans to transition to digital IDs - CAJ News Africa

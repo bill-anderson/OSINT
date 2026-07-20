@@ -6,6 +6,7 @@ publisher: NewsDay (The Southern Eye)
 published: 2026-05-14
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [ZWE]
 topics: [dpi.id, dpi.registry, dpi.govtech]
 entities: [[ministry-of-home-affairs-zimbabwe], [zimbabwe-population-registry-system], [civil-registry-department-zimbabwe]]

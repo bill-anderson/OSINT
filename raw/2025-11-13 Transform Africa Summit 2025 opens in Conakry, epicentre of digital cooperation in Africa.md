@@ -13,6 +13,7 @@ places: [GIN, XAF]
 topics: [gov.regional, tech.ai, gov.policy, infra.store]
 entities: [[transform-africa-summit-2025], [smart-africa], [simandou-2040], [telemo], [guinea-national-data-centre], [rose-pola-pricemou]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- 7th Transform Africa Summit opened 12 Nov 2025 Conakry (Smart Africa Alliance, 42 member states + Govt of Guinea), theme "AI for Africa: Innovate Locally, Impact Globally." First Francophone West Africa host. Min Rose Pola Pricemou: national data now hosted locally (Tier III DC), .GN reinstated. FUGAS + TELEMO (launched 12 Nov, developed with Rwanda). Fibre quadrupled (12,000+ km); 2nd submarine cable; GIGA connected 500+ schools; national technopark designed. Oct 2025 UNDP-supported national AI-ecosystem workshop → foundation for a national AI strategy. Presidents Doumbouya + Kagame attended. Smart Africa: 37→42 members, new 3-year strategy, flagships SANIA/SADX/Digital ID. -->

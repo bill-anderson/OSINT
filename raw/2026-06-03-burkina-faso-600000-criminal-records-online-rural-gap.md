@@ -3,6 +3,8 @@ type: source
 title: Burkina Faso Issues 600,000 Criminal Records Online, but Rural Connectivity Gap Persists
 url: https://www.wearetech.africa/en/fils-uk/news/tech/burkina-faso-issues-600-000-criminal-records-online-but-rural-connectivity-gap-persists
 publisher: We Are Tech Africa
+ingested: 2026-07-18
+lens: []
 author: Samira Njoya
 published: 2026-06-03
 date_precision: day

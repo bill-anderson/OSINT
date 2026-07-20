@@ -6,6 +6,7 @@ publisher: RSTP (Rádio Televisão de São Tomé e Príncipe)
 published: 2026-03-27
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [STP]
 topics: [infra.connect, include.divides, include.access]
 entities: [[cst], [ager]]

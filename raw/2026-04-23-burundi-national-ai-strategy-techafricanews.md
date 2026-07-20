@@ -3,6 +3,9 @@ type: source
 title: Burundi Launches Framework to Integrate Artificial Intelligence into Governance and Economy
 url: https://techafricanews.com/2026/04/23/burundi-launches-framework-to-integrate-artificial-intelligence-into-governance-and-economy/
 publisher: TechAfrica News
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Akim Benamara
 published: 2026-04-23
 date_precision: day

@@ -4,12 +4,15 @@ title: "After Access qualitative study on gender and digital technologies: Ethio
 publisher: Research ICT Africa
 url: https://researchictafrica.net/research/after-access-gender-and-digital-technologies-ethiopia-report/
 published: 2026-02-17
+date_precision: day
+date_source: source
 accessed: 2026-07-12
 ingested: 2026-07-12
 places: [ETH]
 topics: [include.divides, include.access, capacity.literacy, infra.connect, gov.policy]
 entities: [[after-access], [research-ict-africa]]
 lens: []
+body_completeness: full
 ---
 <!-- Ethiopia country report of the After Access qualitative gender study: telecom liberalisation expanded coverage but Ethiopia shows one of the region's widest gender gaps in digital access, stark urban/rural disparity (as of 2026-02-17). Attach: [[after-access]] + [[research-ict-africa]]. -->
 

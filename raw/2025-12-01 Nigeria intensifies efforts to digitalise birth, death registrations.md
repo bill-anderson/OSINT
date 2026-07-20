@@ -1,10 +1,13 @@
 ---
 type: source
+ingested: 2026-07-17
 places: [NGA]
 topics: [dpi.registry, dpi.id, dpi.mis]
 entities: [[npc-nigeria], [e-crvs-nigeria]]
 date_precision: month
 date_source: proxy
+lens: []
+body_completeness: full
 page: 
 title: Nigeria intensifies efforts to digitalise birth, death registrations
 author: 

@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: organisation
 title: Africa Policy Research Institute (APRI)
 places: [XAF]

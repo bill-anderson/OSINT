@@ -6,12 +6,14 @@ publisher: We Are Tech
 published: 2025-03-17
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 places: [DZA]
 topics: [tech.ai, infra.capacity, infra.store, capacity.research, gov.policy, tech.innovate]
 entities: [[ministry-of-post-and-telecommunications-algeria], [sid-ali-zerrouki], [abdelmadjid-tebboune]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 Algeria plans for artificial intelligence to contribute 7% to its GDP by 2027, with investments in advanced infrastructure driving this goal.

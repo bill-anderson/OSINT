@@ -13,6 +13,7 @@ places: [CIV]
 topics: [tech.innovate, data.statistics]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 <!-- COMPANION SOURCE PAGE for binary raw/2024-01-01 WIPO Global Innovation Index 2024 - Cote d'Ivoire profile.pdf (date proxied to year). WIPO GII 2024 Côte d'Ivoire: ranks 112th of 133 economies. Benchmark for CIV's innovation standing (mid-low, but the country frames itself as a francophone West African digital hub). -->

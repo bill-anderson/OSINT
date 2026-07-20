@@ -6,12 +6,14 @@ publisher: We Are Tech
 published: 2025-02-17
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 places: [DZA]
 topics: [dpi.id, dpi.govtech, gov.standards, gov.legislate, infra.cybersec]
 entities: [[arpce-algeria], [ministry-of-post-and-telecommunications-algeria], [sid-ali-zerrouki], [agce-algeria], [abdelmadjid-tebboune], [world-bank]]
 lens: []
+body_completeness: full
 ---
 
 Digital transformation is a key priority for the Algerian government. On February 9, during a Council of Ministers meeting, President Abdelmadjid Tebboune called for measures to speed up the digitization process.

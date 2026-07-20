@@ -13,6 +13,7 @@ places: [COD]
 topics: [dpi.pay, include.access, gov.legislate]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 <!-- US ITA Country Commercial Guide — DRC e-commerce chapter (Feb 2026): e-commerce still nascent but expanding — only ~20% have mobile-broadband subscriptions and internet penetration <10%, but mobile-money use is rising fast. References the Digital Code, mobile-money interoperability, the central bank (BCC), Visa Pay and M-Pesa. Reference snapshot of the DRC's digital-commerce/payments landscape. -->

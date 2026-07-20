@@ -6,12 +6,14 @@ publisher: TechAfrica News
 published: 2026-02-04
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: GHA-2026-07-17
 places: [GHA]
 topics: [gov.legislate, gov.policy, tech.ai]
 entities: [[samuel-nartey-george]]
 lens: []
+body_completeness: full
 ---
 
 # Ghana Pushes Tech-Law Reforms to Support AI, Fintech and Cybersecurity Growth

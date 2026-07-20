@@ -6,6 +6,7 @@ publisher: The Fintech Times
 published: 2026-07-09
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [STP]
 topics: [dpi.pay, finance.new]
 entities: [[bcstp], [bistp]]

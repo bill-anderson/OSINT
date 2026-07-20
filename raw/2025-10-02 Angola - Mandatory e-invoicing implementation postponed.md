@@ -13,6 +13,7 @@ places: [AGO]
 topics: [dpi.pay, dpi.govtech, gov.legislate]
 entities: [[agt-angola]]
 lens: []
+body_completeness: full
 ---
 
 <!-- KPMG tax reference (Oct 2025): Angola's General Tax Administration (AGT) postponed mandatory e-invoicing to 1 Oct 2025 (from Sept), with a penalty-free grace period to 31 Dec 2025 while AGT certifies e-invoicing software. From 1 Jan 2026 mandatory for large taxpayers, government suppliers and transactions >AOA 25m; extended to all VAT-registered taxpayers by Sept 2026. Governed by Presidential Decree 71/25; technical standards in Executive Decree 2683/25. Requirements: AGT-certified software, real-time transmission, SAF-T format. Part of Angola's tax-administration digitalisation (AGT tax portal). -->

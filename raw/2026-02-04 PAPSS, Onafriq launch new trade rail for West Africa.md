@@ -3,6 +3,8 @@ type: source
 title: "PAPSS, Onafriq launch new trade rail for West Africa"
 publisher: ITWeb Africa
 url: https://itweb.africa/article/papss-onafriq-launch-new-trade-rail-for-west-africa/G98YdqLGPX5MX2PD
+date_precision: day
+date_source: source
 author: Lezeth Khoza
 published: 2026-02-04
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [NGA, GHA, XWA]
 topics: [dpi.pay, dpi.exchange, finance.mou]
 entities: [[papss], [onafriq], [cbn], [afcfta]]
 lens: []
+body_completeness: excerpt
 ---
 
 <!-- Onafriq + PAPSS piloting wallet-based outbound payments Nigeria->Ghana fully in Naira, no hard-currency conversion (approved by the CBN; 6-month pilot from 1 Dec). PAPSS network: 160+ banks, 400m+ accounts, 19 countries. Onafriq cites 1bn+ mobile wallets. Supports AfCFTA operationalisation. -->

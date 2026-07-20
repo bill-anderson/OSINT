@@ -3,6 +3,7 @@ type: source
 title: "Building Open Digital States — DPGs create value (DPGA)"
 publisher: Digital Public Goods Alliance
 url: https://www.digitalpublicgoods.net/blog/building-open-digital-states-dpgs-create-value-dpi
+date_source: source
 author: Gordon LaForge & Akash Kapur
 published: 2026
 date_precision: year
@@ -12,6 +13,7 @@ places: [RWA, XGL]
 topics: [dpi.exchange, dpi.id, dpi.pay, gov.policy, dpi.mis]
 entities: [[dpga], [mosip], [dhis2]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- DPGA report 'Building Open Digital States' (case studies Philippines, Kyrgyzstan, Rwanda; four-dimension value framework). Rwanda: DHIS2 raised data completeness 88%->95%, maternal mortality fell >50% (2010-19); exports DHIS2/Mojaloop regionally. Kyrgyzstan Tunduk saved 21m citizen-hours + $19m (2024). Entity [[dpga]]. -->

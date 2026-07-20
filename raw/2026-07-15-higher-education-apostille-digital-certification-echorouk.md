@@ -1,6 +1,7 @@
 ---
 type: source
 title: "تصديق رقمي لوثائق التعليم العالي نحو 123 دولة بفضل \"الأبوستيل\""
+ingested: 2026-07-18
 title_en: Higher-education directorate (Boufadi Yasmina) details Apostille go-live (9 Jul 2026) for digital certification of university documents recognised in 126 Hague-Convention states; Algeria acceded 25 Aug 2025
 url: https://www.echoroukonline.com/%D8%AA%D8%B5%D8%AF%D9%8A%D9%82-%D8%B1%D9%82%D9%85%D9%8A-%D9%84%D9%88%D8%AB%D8%A7%D8%A6%D9%82-%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%8A-%D9%86%D8%AD%D9%88-123
 publisher: Echorouk El Yawmi
@@ -15,6 +16,7 @@ places: [DZA]
 topics: [dpi.govtech, dpi.exchange, gov.regional, capacity.training]
 entities: [[ministere-enseignement-superieur, haut-commissariat-a-la-numerisation, apostille-platform, ministere-des-affaires-etrangeres]]
 lens: []
+body_completeness: full
 provenance_flag: privately-owned
 ---
 

@@ -12,6 +12,7 @@ places: [TGO]
 topics: [gov.protect, gov.legislate, infra.cybersec, gov.policy, finance.mou]
 entities: [[ipdcp-togo], [haac-togo], [haac-ipdcp-accord]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 *Sourced to the IPDCP itself; carries no critical framing of the DPA gaining access to the broadcast regulator's monitoring room.*

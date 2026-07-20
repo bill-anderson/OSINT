@@ -6,12 +6,14 @@ publisher: TechAfrica News
 published: 2026-05-04
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CPV-2026-07-17
 places: [CPV]
 topics: [gov.policy, tech.ai, dpi.exchange]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 # Cape Verde Launches National Data and AI Strategies to Modernize Public Administration

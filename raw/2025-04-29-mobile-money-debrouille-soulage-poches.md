@@ -3,6 +3,9 @@ type: source
 title: "Mobile Money au Bénin : une débrouille qui soulage les poches"
 url: https://fraternite.bj/mobile-money-au-benin-une-debrouille-qui-soulage-les-poches/
 publisher: Fraternité
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Patrice SOKEGBE
 published: 2025-04-29
 date_precision: day

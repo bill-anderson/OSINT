@@ -3,6 +3,9 @@ type: source
 title: Botswana Partners with PEMANDU to Drive Nationwide Digital Transformation
 url: https://techafricanews.com/2025/09/17/botswana-partners-with-pemandu-to-drive-nationwide-digital-transformation/
 publisher: TechAfrica News
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Editorial Team
 published: 2025-09-17
 date_precision: day

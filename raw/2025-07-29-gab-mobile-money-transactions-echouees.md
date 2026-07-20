@@ -3,6 +3,9 @@ type: source
 title: "Guichets automatiques bancaires et Mobile Money : enquête sur le calvaire des usagers face aux transactions échouées"
 url: https://fraternite.bj/guichets-automatiques-bancaires-et-mobile-money-enquete-sur-le-calvaire-des-usagers-face-aux-transactions-echouees/
 publisher: Fraternité
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Bergedor HADJIHOU
 published: 2025-07-29
 date_precision: day

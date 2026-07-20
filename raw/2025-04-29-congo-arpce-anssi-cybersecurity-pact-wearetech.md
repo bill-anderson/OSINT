@@ -3,6 +3,7 @@ type: source
 title: Congo Strengthens Cybersecurity Through Dual-Agency Collaboration (ARPCE–ANSSI MoU)
 url: https://www.wearetech.africa/en/fils-uk/news/public-management/congo-strengthens-cybersecurity-through-dual-agency-collaboration
 publisher: We Are Tech Africa
+ingested: 2026-07-18
 author: Isaac K. Kassouwi
 published: 2025-04-29
 date_precision: day
@@ -11,6 +12,7 @@ places: [COG]
 topics: [infra.cybersec, gov.standards, finance.mou]
 entities: [[arpce-congo], [anssi-congo]]
 lens: [sovereignty]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: COG-2026-07-17
 ---

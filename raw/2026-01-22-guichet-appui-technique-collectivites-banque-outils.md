@@ -3,6 +3,9 @@ type: source
 title: "Guichet appui technique des collectivités territoriales: les acteurs s’approprient la banque d’outils"
 url: https://www.sidwaya.info/guichet-appui-technique-des-collectivites-territoriales-les-acteurs-sapproprient-la-banque-doutils/
 publisher: Sidwaya
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Evariste YODA
 published: 2026-01-22
 date_precision: day

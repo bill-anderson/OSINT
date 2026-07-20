@@ -5,12 +5,14 @@ publisher: NYU Stern Center for Business and Human Rights
 url: https://bhr.stern.nyu.edu/event/strive-masiyiwa-proves-you-can-succeed-in-business-while-creating-value-for-society/
 published: 2015
 date_precision: year
+date_source: source
 accessed: 2026-06-12
 ingested: 2026-07-10
 places: [ZWE, XAF, XGL]
 topics: [infra.connect, dpi.pay, include.access, capacity.training]
 entities: [[strive-masiyiwa], [econet-wireless]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Undated profile (~2015). "Higher Life Foundation" (40,000 students) vs "Capernaum Trust"

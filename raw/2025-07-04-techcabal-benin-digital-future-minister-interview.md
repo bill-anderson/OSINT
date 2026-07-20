@@ -3,6 +3,7 @@ type: source
 title: Why Benin's digital future depends on patience, partnerships, and people
 url: https://techcabal.com/2025/07/04/benin-digital-future/
 publisher: TechCabal
+ingested: 2026-07-18
 author: Faith Omoniyi
 published: 2025-07-04
 date_precision: day
@@ -13,6 +14,7 @@ places: [BEN]
 topics: [gov.policy, dpi.id, dpi.exchange, tech.innovate, infra.connect, include.divides]
 entities: [[api-an], [seme-city], [cyber-africa-forum]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Why Benin's digital future depends on patience, partnerships, and people

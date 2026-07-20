@@ -5,12 +5,14 @@ publisher: IISS
 url: https://www.iiss.org/online-analysis/online-analysis/2026/01/us-critical-minerals-diplomacy-from-america-first-deals-to-pax-silica/
 published: 2026-01
 date_precision: month
+date_source: source
 accessed: 2026-07-12
 ingested: 2026-07-12
 places: [COD, XGL]
 topics: [geopol.usa, geopol.china, tech.ai]
 entities: [[pax-silica], [us-dfc], [us-department-of-state]]
 lens: [sovereignty, colonialism]
+body_completeness: full
 ---
 
 <!-- IISS analysis of Trump's three-track critical-minerals strategy (EO 14241 Mar 2025; OBBBA $7.5bn Jul 2025; MP Materials deal; Orion Consortium; Pax Silica launched Dec 2025). Africa relevance narrow = DRC bilateral track linked to security guarantees. ATTACH-ONLY to pax-silica (central updates it — do NOT edit that page). Africa tag COD + XGL per central override. -->

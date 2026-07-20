@@ -6,12 +6,14 @@ publisher: Magazine RD CONGO-MONDE
 published: 2026-06-11
 date_precision: day
 date_source: proxy
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: COD-2026-07-17
 places: [COD]
 topics: [dpi.pay, dpi.govtech, digital.localgov, gov.policy]
 entities: [[trafigo-sarl], [magloire-kabemba], [aeroport-de-ndjili], [ville-province-de-kinshasa]]
 lens: []
+body_completeness: full
 ---
 
 <!-- DATE NOTE: no explicit publication date in body. Body says the reform was

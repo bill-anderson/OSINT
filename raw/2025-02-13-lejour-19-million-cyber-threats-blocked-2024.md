@@ -3,6 +3,9 @@ type: source
 title: "Cyberattaque : Plus de 19 millions de menaces identifiées et bloquées en 2024"
 url: https://lejour.cm/cyberattaque-plus-de-19-millions-de-menaces-identifiees-et-bloquees-en-2024/
 publisher: Le Jour
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Moustapha Oumarou Djidjioua
 published: 2025-02-13
 date_precision: day

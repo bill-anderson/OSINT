@@ -12,6 +12,7 @@ places: [XGL, GMB]
 topics: [dpi.registry, include.access, dpi.mis]
 entities: [[world-bank]]
 lens: []
+body_completeness: full
 artefact: "2024-01-01 P177331 Social Registries - Global Insights on Coverage and Beyond.pdf"
 ---
 

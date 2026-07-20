@@ -6,12 +6,14 @@ publisher: Magazine RD CONGO-MONDE
 published: 2026-01-01
 date_precision: month
 date_source: proxy
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: COD-2026-07-17
 places: [COD]
 topics: [dpi.govtech, digital.localgov, gov.protect, tech.innovate]
 entities: [[kin-alerte], [call-for-trading-drc], [ville-province-de-kinshasa]]
 lens: []
+body_completeness: full
 ---
 
 <!-- DATE NOTE: no publication date in body — no dateline, no event date. Exa

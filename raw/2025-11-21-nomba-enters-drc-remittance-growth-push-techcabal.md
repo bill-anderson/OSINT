@@ -6,10 +6,12 @@ publisher: TechCabal
 published: 2025-11-21
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [COD]
 topics: [dpi.pay, finance.new, include.access, include.divides, tech.industry, tech.innovate]
 entities: [[nomba], [vodacom], [orange], [rawbank]]
 lens: []
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: COD-2026-07-17
 ---

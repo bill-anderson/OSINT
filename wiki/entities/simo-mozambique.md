@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: organisation
 title: Sociedade Interbancária de Moçambique (SIMO)
 places: [MOZ]

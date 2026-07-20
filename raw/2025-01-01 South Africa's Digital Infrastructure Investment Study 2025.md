@@ -2,6 +2,7 @@
 type: source
 title: "South Africa's Digital Infrastructure Investment Study 2025"
 publisher: Africa Analysis (with Ellipsis Regulatory Solutions and Networks Anonymous), for the Development Bank of Southern Africa (DBSA) and National Planning Commission
+date_source: source
 author: Africa Analysis
 published: 2025
 date_precision: year
@@ -12,6 +13,7 @@ places: [ZAF, XSS]
 topics: [infra.connect, infra.store, include.access, include.divides, finance.new, dpi.govtech, gov.policy]
 entities: [[dbsa], [sadis-2025]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Admissible: commissioned institutional study, primary analysis. -->

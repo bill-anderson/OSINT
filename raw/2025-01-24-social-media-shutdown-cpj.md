@@ -3,6 +3,7 @@ type: source
 title: South Sudan blocks social media access amid unrest (NCA orders 30-90 day Facebook/TikTok block)
 url: https://cpj.org/2025/01/south-sudan-blocks-social-media-access-amid-unrest/
 publisher: Committee to Protect Journalists
+ingested: 2026-07-19
 author: Committee to Protect Journalists
 published: 2025-01-24
 date_precision: day

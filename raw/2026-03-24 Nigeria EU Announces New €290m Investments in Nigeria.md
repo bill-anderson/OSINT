@@ -3,6 +3,8 @@ type: source
 title: "Nigeria: EU Announces New EUR 290m Investments in Nigeria"
 publisher: AllAfrica
 url: https://allafrica.com/stories/202603240024.html
+date_precision: day
+date_source: source
 author: unknown
 published: 2026-03-24
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [NGA]
 topics: [finance.new, infra.connect, dpi.exchange, capacity.training, gov.policy, geopol.eu]
 entities: [[eu-nigeria-global-gateway-290m], [european-union], [global-gateway], [ebrd]]
 lens: []
+body_completeness: full
 ---
 
 <!-- EUR 290m package (7 operations) at the 8th EU-Nigeria Ministerial Dialogue (Abuja): EUR 131m digitalisation (90,000km fibre with EBRD, DPI + data-exchange systems, 3MTT/TVET), EUR 86m agriculture, EUR 16m migration. Global Gateway. Deal [[eu-nigeria-global-gateway-290m]]. -->

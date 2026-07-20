@@ -3,6 +3,7 @@ type: source
 title: "CONIA 2025 : Une plateforme souveraine pour structurer l'écosystème de l'intelligence artificielle au Cameroun"
 url: https://leconomie.info/conia-2025-une-plateforme-souveraine-pour-structurer-lecosysteme-de-lintelligence-artificielle-au-cameroun/
 publisher: Le quotidien L'Economie
+ingested: 2026-07-18
 author: Hervé Fopa Fogang
 published: 2025-06-26
 date_precision: day
@@ -13,6 +14,7 @@ places: [CMR]
 topics: [tech.ai, gov.policy]
 entities: [[snia-cameroon], [conia], [minpostel], [eventify]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # CONIA 2025 : Une plateforme souveraine pour structurer l'écosystème de l'intelligence artificielle au Cameroun

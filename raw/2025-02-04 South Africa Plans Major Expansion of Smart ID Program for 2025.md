@@ -3,6 +3,8 @@ type: source
 title: South Africa Plans Major Expansion of Smart ID Program for 2025
 url: https://idtechwire.com/south-africa-plans-major-expansion-of-smart-id-program-for-2025
 publisher: ID Tech (IDTechWire)
+lens: []
+body_completeness: full
 author: ID Tech Editorial Team
 published: 2025-02-04
 date_precision: day

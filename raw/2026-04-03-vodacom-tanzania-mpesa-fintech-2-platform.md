@@ -6,6 +6,7 @@ publisher: TanzaniaInvest
 published: 2026-04-03
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [TZA]
 topics: [dpi.pay, tech.industry]
 entities: [[vodacom-tanzania], [mpesa]]

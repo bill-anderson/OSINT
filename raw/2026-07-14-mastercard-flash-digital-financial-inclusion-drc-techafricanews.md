@@ -6,6 +6,7 @@ publisher: TechAfrica News
 published: 2026-07-14
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [COD, COG]
 topics: [dpi.pay, finance.mou, include.access, include.divides, tech.innovate, geopol.usa]
 entities: [[mastercard], [flash-drc], [mastercard-flash-drc-prepaid-partnership]]

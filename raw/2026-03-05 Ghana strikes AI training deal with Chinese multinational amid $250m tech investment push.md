@@ -3,6 +3,8 @@ type: source
 title: "Ghana strikes AI training deal with Chinese multinational amid $250m tech investment push"
 publisher: Business Insider Africa
 url: https://africa.businessinsider.com/local/markets/ghana-strikes-ai-training-deal-with-chinese-multinational/
+date_precision: day
+date_source: source
 author: Segun Adeyemi
 published: 2026-03-05
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [GHA]
 topics: [tech.ai, capacity.training, geopol.china, include.divides, infra.capacity]
 entities: [[huawei], [ghana-national-ai-strategy], [samuel-nartey-george]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Huawei to give free AI training to 3,000 girls in Ghana's Girls in ICT programme (agreed MWC 2026 Barcelona). Girls in ICT trained ~18,000 girls since 2012. Ghana pushing a $250m AI Compute Centre, 5G, rural telephony, smartphone-assembly plant. 4G reaches >90% but usage <60%. Same $250m push as the AI-Hub item. -->

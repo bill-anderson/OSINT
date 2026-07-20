@@ -3,6 +3,7 @@ type: source
 title: "Plateforme interopérable du système de paiement instantané: banques et mobile money désormais interconnectés à 100 % dans l’UEMOA"
 url: https://www.lanation.bj/numerique/plateforme-interoperable-du-systeme-de-paiement-instantane-banques-et-mobile-money-desormais-interconnectes-a-100-dans-luemoa
 publisher: La Nation
+ingested: 2026-07-18
 author: Christian HOUNONGBE
 published: 2026-05-29
 date_precision: day
@@ -13,6 +14,7 @@ places: [BEN, XWA]
 topics: [dpi.pay, dpi.exchange, gov.regional]
 entities: [[bceao], [uemoa], [pi-spi]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Plateforme interopérable du système de paiement instantané: banques et mobile money désormais interconnectés à 100 % dans l’UEMOA

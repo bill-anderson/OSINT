@@ -3,6 +3,8 @@ type: source
 title: "Digital Ethiopia 2030: Charting a Sovereign Path to Prosperity"
 publisher: CIO Africa
 url: https://cioafrica.co/digital-ethiopia-2030-charting-a-sovereign-path-to-prosperity/
+date_precision: day
+date_source: source
 author: Eskinder Mesfin Cherinet
 published: 2026-01-27
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [ETH]
 topics: [gov.policy, dpi.id, dpi.pay, infra.connect, infra.energy, tech.ai, capacity.training, gov.regional]
 entities: [[digital-ethiopia-2030], [fayda-ethiopia-national-id], [telebirr], [african-union], [afcfta]]
 lens: [sovereignty, colonialism]
+body_completeness: full
 ---
 
 <!-- Named-expert commentary on Digital Ethiopia 2030: frames data governance as digital sovereignty. Targets 100% 5G in 100 cities; 128m mobile subs; every adult a Fayda digital ID by 2030; digital payments 7x (Telebirr); GERD green energy $0.03-0.05/kWh ('Cloud of Africa'); 5 Million Coders; East African Digital Corridor with Kenya; sovereign cloud + Mela AI model. -->

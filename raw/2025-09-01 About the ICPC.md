@@ -3,6 +3,7 @@ type: source
 title: "About the International Cable Protection Committee (ICPC)"
 publisher: International Cable Protection Committee
 url: https://www.iscpc.org/about-the-icpc/
+date_source: source
 author: ICPC
 published: 2025-09
 date_precision: month
@@ -12,6 +13,7 @@ places: [XGL]
 topics: [infra.connect, gov.standards, infra.cybersec]
 entities: [[international-cable-protection-committee]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Profile of the ICPC (founded 22 May 1958, UK; >235 members from >70 countries). Sets best practices for submarine-cable install/protection/repair; co-launched the ITU/ICPC International Advisory Body for Submarine Cable Resilience (Nov 2024). -->

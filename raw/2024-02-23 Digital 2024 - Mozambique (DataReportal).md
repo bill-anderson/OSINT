@@ -13,6 +13,7 @@ places: [MOZ]
 topics: [data.statistics]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 DataReportal's Digital 2024 profile for Mozambique (data early 2024). Headline figures: 7.96 million internet users at the start of 2024 (internet penetration 23.2%; +842k / +11.8% year-on-year; 76.8% offline). Social media: 3.20 million user identities in January 2024 (9.3% of population). Mobile: 18.91 million cellular connections (55.0% of the total population).

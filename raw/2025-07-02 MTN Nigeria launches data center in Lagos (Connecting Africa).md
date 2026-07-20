@@ -1,10 +1,13 @@
 ---
 type: source
+ingested: 2026-07-17
 places: [NGA]
 topics: [infra.store, dpi.pay, tech.ai]
 entities: [[mtn-nigeria], [mtn-sifiso-dabengwa-data-centre]]
 date_precision: day
 date_source: source
+lens: []
+body_completeness: full
 page: MTN Nigeria launches data center in Lagos - Connecting Africa
 title: MTN Nigeria launches data center in Lagos
 author: Matshepo Sehloho

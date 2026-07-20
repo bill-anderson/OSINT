@@ -3,6 +3,7 @@ type: source
 title: "Yaoundé : Le défi d’une utilisation encadrée de l’intelligence artificielle"
 url: https://lejour.cm/yaounde-le-defi-dune-utilisation-encadree-de-lintelligence-artificielle/
 publisher: Le Jour
+ingested: 2026-07-18
 author: Achille Chountsa
 published: 2025-07-09
 date_precision: day
@@ -13,6 +14,7 @@ places: [CMR]
 topics: [tech.ai, gov.legislate]
 entities: [[minpostel], [conia-cameroon]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Yaoundé : Le défi d’une utilisation encadrée de l’intelligence artificielle

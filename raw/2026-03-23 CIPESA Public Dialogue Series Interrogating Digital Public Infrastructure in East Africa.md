@@ -12,6 +12,7 @@ places: [XEA, XWA, XAF]
 topics: [dpi.exchange, gov.protect, include.divides, dpi.govtech, gov.policy]
 entities: [[cipesa], [co-develop], [media-foundation-west-africa]]
 lens: [sovereignty]
+body_completeness: excerpt
 ---
 
 # CIPESA Public Dialogue Series: Interrogating Digital Public Infrastructure in East Africa – Collaboration on International ICT Policy for East and Southern Africa (CIPESA)

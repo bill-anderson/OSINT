@@ -13,6 +13,7 @@ places: [BWA]
 topics: [gov.protect, include.divides]
 entities: []
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- COMPANION SOURCE PAGE for binary raw/2024-01-01 Londa 2023 Digital Rights and Inclusion in Africa Report - Botswana.pdf (12pp; Londa 2023 report, published ~early 2024; date proxied to year). Paradigm Initiative's Londa digital-rights report — Botswana chapter — covering data protection, access/inclusion, privacy and digital-rights developments (2023). Civil-society reference for [[botswana--gov-protect]] and the digital-divide dimension. Same Londa/Paradigm series as other country chapters in the wiki. -->

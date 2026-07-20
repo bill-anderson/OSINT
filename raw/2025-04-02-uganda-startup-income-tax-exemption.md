@@ -6,6 +6,7 @@ publisher: We Are Tech Africa
 published: 2025-04-02
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [UGA]
 topics: [tech.innovate, gov.policy]
 entities: []

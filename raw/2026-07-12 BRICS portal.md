@@ -4,6 +4,7 @@ title: "BRICS portal"
 publisher: InfoBRICS (republished from News.Az)
 url: https://infobrics.org/en/post/77791/
 published: 2026-07-12
+date_precision: day
 date_source: proxy
 accessed: 2026-07-12
 ingested: 2026-07-12
@@ -11,6 +12,7 @@ places: [ZAF, ETH, XGL]
 topics: [dpi.pay, gov.regional]
 entities: [[brics-pay], [uae]]
 lens: [sovereignty]
+body_completeness: full
 ---
 <!-- Undated promotional explainer on BRICS Pay (proposed cross-border digital payment/settlement system to reduce dollar dependence; interoperability layer over CIPS/UPI; settle in national currencies/CBDCs). Weak provenance; source of record only for the standing initiative [[brics-pay]] — concrete milestones must come from primaries. African/African-adjacent members: ZAF, ETH (EGY dropped). -->
 BRICS Pay is a proposed cross-border digital payment system being developed by the BRICS countries — Brazil, Russia, India, China, South Africa, as well as new members that have joined the bloc in recent years

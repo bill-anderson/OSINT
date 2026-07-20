@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: initiative
 title: L'école de la Tunisie du futur (tarbia.tn)
 places: [TUN]

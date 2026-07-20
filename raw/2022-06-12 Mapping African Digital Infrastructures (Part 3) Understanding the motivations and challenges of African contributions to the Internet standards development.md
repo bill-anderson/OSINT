@@ -3,6 +3,8 @@ type: source
 title: "Mapping African Digital Infrastructures (Part 3): Understanding the motivations and challenges of African contributions to the Internet standards development"
 publisher: Research ICT Africa
 url: https://researchictafrica.net/2022/06/13/mapping-african-digital-infrastructures-part-3-understanding-the-motivations-and-challenges-of-african-contributions-to-the-internet-standards-development/
+date_precision: day
+date_source: source
 author: Amreesh Phokeer
 published: 2022-06-12
 accessed: 2026-07-12
@@ -11,6 +13,7 @@ places: [XAF]
 topics: [infra.capacity, gov.standards, capacity.research, tech.innovate]
 entities: [[mapping-african-digital-infrastructures], [research-ict-africa], [internet-society-africa-history]]
 lens: [colonialism]
+body_completeness: full
 ---
 <!-- Part 3 of RIA's 3-part study: negligible African participation in IETF Internet-standards development (~0.26% of RFCs as of 2022), driven by technical/financial/language barriers; ISOC IETF-Africa sponsors participants. Cites publication [[mapping-african-digital-infrastructures]]; reference figures stay there. -->
 

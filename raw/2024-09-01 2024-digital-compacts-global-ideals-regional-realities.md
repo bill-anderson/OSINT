@@ -2,6 +2,7 @@
 type: source
 title: "Digital compacts: global ideals, regional realities"
 publisher: Development Initiatives
+date_source: source
 author: [[bill]]
 published: 2024-09
 date_precision: month

@@ -6,10 +6,12 @@ publisher: Tech Review Africa
 published: 2025-12-20
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [DJI]
 topics: [gov.policy, data.open, tech.ai]
 entities: [[vision-djibouti-2035]]
 lens: [sovereignty]
+body_completeness: full
 provenance_flag: pr-wire
 retrieved: 2026-07-17
 sweep_batch: DJI-2026-07-17

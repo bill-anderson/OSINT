@@ -13,6 +13,7 @@ places: [GMB]
 topics: [dpi.pay, dpi.govtech, include.access]
 entities: [[yonna-wallet]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Yonna Group (via subsidiary Yonna Wallet) signed a partnership with the Government (Accountant General's Department) to conduct payments for all government services — first Gambian fintech with such authority. All government fees (rates, business registration, ID cards, passports) payable via Yonna Wallet; Yonna Global Wallet lets diaspora pay from abroad. Reduces fraud/leakage/middlemen; auto-generates traceable receipts; easy reconciliation. Yonna has 200+ branches/outlets. GM Momodou Barrow. -->

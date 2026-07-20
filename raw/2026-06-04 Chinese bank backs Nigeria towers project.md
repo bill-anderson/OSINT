@@ -3,6 +3,8 @@ type: source
 title: "Chinese bank backs Nigeria towers project"
 publisher: ITWeb Africa
 url: https://itweb.africa/article/chinese-bank-backs-nigeria-towers-project/DZQ587V8RakqzXy2
+date_precision: day
+date_source: source
 author: Samuel Olomu
 published: 2026-06-04
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [NGA]
 topics: [infra.connect, digital.rural, include.access, geopol.china, finance.new]
 entities: [[ncc], [bosun-tijani], [nucap]]
 lens: [colonialism]
+body_completeness: excerpt
 ---
 
 <!-- China Industrial Bank (its first Nigeria investment) to back >=1,000 of NUCAP's telecom towers before end-2026 (3,700 planned; NUCAP targets >20m underserved Nigerians). NCC: 12,000 sites to upgrade in 2026. -->

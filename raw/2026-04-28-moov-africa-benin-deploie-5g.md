@@ -3,6 +3,9 @@ type: source
 title: "Révolution de l’internet mobile: Moov Africa Bénin déploie la 5G zéro latence"
 url: https://lanation.bj/messages/revolution-de-linternet-mobile-moov-africa-benin-deploie-la-5g-zero-latence
 publisher: La Nation
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Ariel GBAGUIDI
 published: 2026-04-28
 date_precision: day

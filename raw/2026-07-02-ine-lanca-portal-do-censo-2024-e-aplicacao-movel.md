@@ -3,6 +3,8 @@ type: source
 title: INE lança Portal do Censo 2024 e aplicação móvel
 url: https://angop.ao/noticias/politica/ine-lanca-portal-do-censo-2024-e-aplicacao-movel/
 publisher: Angop
+lens: []
+body_completeness: full
 author: JAR
 published: 2026-07-02
 date_precision: day

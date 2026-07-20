@@ -13,6 +13,7 @@ places: [GMB]
 topics: [dpi.id, gov.policy, gov.protect]
 entities: [[gambia-national-digital-id-strategy], [gicta]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Banjul, 16-17 May 2024 (ECA): two-day validation workshop for The Gambia's National Digital ID and Digital Transformation Strategy 2023-2028. Min of Comms & Digital Economy Ousman Bah; PS Lamin Camara; ECA's Mactar Seck. Pillars aligned with the Recovery-focused National Development Plan. Stakeholders from all ministries, immigration, Gambia Police Force, and the newly established ICT Agency (GICTA). Initiated Dec 2022 with ECA technical/financial support (discussions at the 17th IGF Addis Ababa). Aim: secure/efficient digital ID for all citizens with privacy safeguards. -->

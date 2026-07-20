@@ -12,6 +12,7 @@ places: [ZAF]
 topics: [dpi.id, dpi.exchange, dpi.govtech, gov.standards, dpi.registry]
 entities: [[sars], [home-affairs-south-africa], [border-management-authority], [government-printing-works]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 *CORRECTS A HELD DATE. The wiki's south-africa--dpi-id says the SARS-hosted architecture extends 'an April-2024 pact' between DHA, SARS, the BMA and GPW. This is contemporaneous reporting of that signing and dates it APRIL 2025 — and says it is the SARS-DHA BILATERAL, not the four-party deal, that dates back to 2010. The held April-2024 looks like a garbled merge of the two. See reviews/contradictions/open/south-africa-four-party-pact-date. Kieswetter: 'only one identity through which the individual interacts with government'.*

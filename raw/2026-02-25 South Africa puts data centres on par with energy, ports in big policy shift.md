@@ -4,11 +4,14 @@ title: South Africa puts data centres on par with energy, ports in big policy sh
 url: https://techcentral.co.za/south-africa-puts-data-centres-on-par-with-energy-ports-in-big-policy-shift/278142/
 publisher: TechCentral
 published: 2026-02-25
+date_precision: day
+date_source: source
 ingested: 2026-07-10
 places: [ZAF]
 topics: [infra.store, infra.energy, gov.policy, tech.ai, finance.new, infra.capacity]
 entities: [[microsoft], [google], [equinix], [nvidia]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 ![2026-02-25 South Africa puts data centres on par with energy, ports in big policy shift](https://techcentral.co.za/wp-content/uploads/2025/08/teraco-jb4-1500-800.jpg)

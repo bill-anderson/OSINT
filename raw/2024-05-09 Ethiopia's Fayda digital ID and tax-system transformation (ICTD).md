@@ -11,6 +11,7 @@ places: [ETH]
 topics: [dpi.id, dpi.govtech, gov.policy]
 entities: [[fayda-ethiopia-national-id]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Ethiopia's Fayda digital ID and tax-system transformation (ICTD)

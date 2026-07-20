@@ -6,12 +6,14 @@ publisher: ACTUALITE.CD
 published: 2026-04-21
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: COD-2026-07-17
 places: [COD]
 topics: [gov.protect, gov.legislate, capacity.research]
 entities: [[coco-kayudi-misamu], [jean-francois-henrotte], [drc-digital-code], [universite-de-kinshasa], [vincent-kangulumba]]
 lens: []
+body_completeness: full
 ---
 
 Ouvrage. Protection des données personnelles en RDC

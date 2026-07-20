@@ -6,12 +6,14 @@ publisher: Fraternité Matin
 published: 2026-06-15
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [infra.connect, gov.standards]
 entities: [[artci], [civix], [netflix], [akamai], [djibril-ouattara]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Peeringday 2026/Appairage et interconnexion : L’Artci mobilise l’écosystème numérique autour d’un internet performant

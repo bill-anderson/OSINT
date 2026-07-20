@@ -3,6 +3,7 @@ type: source
 title: Telecom regulator pushes for improved QoS and nationwide network coverage in Cameroon
 url: https://techafricanews.com/2026/04/16/telecom-regulator-pushes-for-improved-qos-and-nationwide-network-coverage/
 publisher: TechAfrica News
+ingested: 2026-07-18
 author: Joyce Onyeagoro
 published: 2026-04-16
 date_precision: day
@@ -11,6 +12,7 @@ places: [CMR]
 topics: [gov.legislate, gov.standards, infra.connect, infra.energy, tech.industry, finance.new]
 entities: [[art-cameroon], [mtn-cameroon], [orange-cameroun], [ihs-towers]]
 lens: [sovereignty]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: CMR-2026-07-17
 ---

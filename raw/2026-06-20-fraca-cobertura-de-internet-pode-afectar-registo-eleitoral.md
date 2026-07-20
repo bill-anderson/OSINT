@@ -3,6 +3,8 @@ type: source
 title: Fraca cobertura de internet preocupa Governo e pode afectar registo eleitoral em zonas de difícil acesso
 url: https://www.novojornal.co.ao/politica/detalhe/fraca-cobertura-de-internet-preocupa-governo-e-pode-afectar-registo-eleitoral-em-zonas-de-dificil-acesso-72668.html
 publisher: Novo Jornal
+lens: []
+body_completeness: full
 author: Nova Vaga
 published: 2026-06-20
 date_precision: day

@@ -3,6 +3,7 @@ type: source
 title: Cameroon councils begin issuance of digital birth certificates
 url: https://www.biometricupdate.com/202601/cameroon-councils-begin-issuance-of-digital-birth-certificates
 publisher: Biometric Update
+ingested: 2026-07-18
 author: Ayang Macdonald
 published: 2026-01-12
 date_precision: day
@@ -11,6 +12,7 @@ places: [CMR]
 topics: [dpi.registry, dpi.id, digital.localgov, include.access, gov.legislate]
 entities: [[bunec], [undp], [liber-technologies], [cameroon-civil-registration-law-2024]]
 lens: [sovereignty]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: CMR-2026-07-17
 ---

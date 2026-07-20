@@ -3,6 +3,8 @@ type: source
 title: "#111 - Winning But Losing - The Payments End Game"
 publisher: Frontier Fintech (Substack)
 url: https://frontierfintech.substack.com/p/111-winning-but-losing-the-payments
+date_precision: day
+date_source: source
 author: Samora Kariuki
 published: 2026-02-23
 accessed: 2026-07-12
@@ -11,6 +13,7 @@ places: [NGA, KEN, ZAF, TZA, GHA, XAF, XGL]
 topics: [dpi.pay, tech.industry]
 entities: [[samora-kariuki], [nibss], [safaricom], [onafriq], [visa], [sarb], [bank-of-ghana], [central-bank-of-kenya]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- External expert analysis (Frontier Fintech). Thesis: African payment aggregators face Brazil/India-style margin collapse as low-cost central-bank instant-payment systems become utilities; durable value shifts to credit, data and compliance layers, not processing. Body dates StoneCo/PagSeguro figures "mid Feb 2025" but edition sequence (#93 Aug 2025, #117 Apr 2026) supports Feb 2026 — treat "2025" as stale/typo. Attach: dpi.pay + tech.industry concepts; NGA/KEN/ZAF hubs. -->

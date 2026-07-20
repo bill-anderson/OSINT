@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: government-body
 title: Kenya School of Government (KSG)
 places: [KEN]

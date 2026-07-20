@@ -12,6 +12,7 @@ places: [XAF]
 topics: [dpi.exchange, dpi.pay, gov.regional, finance.new, gov.policy]
 entities: [[brookings], [afcfta], [afcfta-digital-trade-protocol]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Realizing Africa’s digital trade potential under the AfCFTA | Brookings

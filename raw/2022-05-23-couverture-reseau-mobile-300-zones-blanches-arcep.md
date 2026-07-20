@@ -3,6 +3,7 @@ type: source
 title: "Couverture du Burkina Faso en réseau mobile : Environ 300 « zones blanches » rayées de la carte"
 url: https://www.sidwaya.info/couverture-du-burkina-faso-en-reseau-mobile-environ-300-zones-blanches-rayees-de-la-carte/
 publisher: Quotidien Sidwaya
+lens: []
 author: Alpha Sékou BARRY
 published: 2022-05-23
 date_precision: day

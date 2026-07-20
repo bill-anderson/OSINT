@@ -6,12 +6,14 @@ publisher: Liberian Observer
 published: 2025-04-30
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: LBR-2026-07-17
 places: [LBR]
 topics: [dpi.id, dpi.registry, include.access, gov.protect]
 entities: [[national-identification-registry-liberia], [lta-liberia]]
 lens: []
+body_completeness: full
 ---
 
 # No National ID, No Transaction

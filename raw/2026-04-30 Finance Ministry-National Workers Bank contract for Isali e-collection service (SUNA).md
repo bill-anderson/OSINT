@@ -9,6 +9,8 @@ date_source: source
 places: [SDN]
 topics: [dpi.pay, dpi.govtech, include.access]
 entities: [[ministry-of-finance-sudan], [national-workers-bank-sudan], [isali]]
+lens: []
+body_completeness: full
 retrieved: 2026-07-17
 ingested: 2026-07-18
 sweep_batch: SDN-2026-07-17

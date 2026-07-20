@@ -6,6 +6,7 @@ publisher: Nile Post
 published: 2025-12-05
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [UGA]
 topics: [infra.connect, gov.legislate]
 entities: [[uganda-communications-commission], [electoral-commission-uganda]]

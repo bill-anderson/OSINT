@@ -1,10 +1,13 @@
 ---
 type: source
+ingested: 2026-07-17
 places: [NGA]
 topics: [dpi.id, gov.legislate]
 entities: [[nimc]]
 date_precision: day
 date_source: source
+lens: []
+body_completeness: full
 page: Nigeria undertakes reforms to strengthen national digital ID legal framework - Biometric Update
 title: Nigeria undertakes reforms to strengthen national digital ID legal framework
 author: Ayang Macdonald

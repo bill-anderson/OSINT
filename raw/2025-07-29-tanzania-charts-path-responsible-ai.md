@@ -6,6 +6,7 @@ publisher: The Citizen
 published: 2025-07-29
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [TZA]
 topics: [tech.ai, gov.policy]
 entities: [[ict-commission-tanzania]]

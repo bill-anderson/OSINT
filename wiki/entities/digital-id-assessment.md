@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: instrument
 title: DIAL Digital ID Assessment
 places: [XGL, ETH]

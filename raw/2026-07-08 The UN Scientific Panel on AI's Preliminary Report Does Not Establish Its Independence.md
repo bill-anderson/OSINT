@@ -3,6 +3,8 @@ type: source
 title: "The UN Scientific Panel on AI's Preliminary Report Does Not Establish Its Independence"
 publisher: Tech Policy Press
 url: https://www.techpolicy.press/the-un-scientific-panel-on-ais-preliminary-report-does-not-establish-its-independence/
+date_precision: day
+date_source: source
 author: Jason Tucker, Virginia Dignum, Rachele Carli, Petter Ericson, Tatjana Titareva (AI Policy Lab, Umeå University)
 published: 2026-07-08
 accessed: 2026-07-12
@@ -11,6 +13,7 @@ places: [XGL]
 topics: [tech.ai, gov.standards, capacity.research]
 entities: [[un-ai-scientific-panel]]
 lens: []
+body_completeness: full
 ---
 
 <!-- TPP critique of the UN Independent International Scientific Panel on AI (IISPAI) Preliminary Report: fails to demonstrate independence from industry and states; funders named (Germany, Japan, Spain, Omidyar) but no amounts/conditions; smooths consensus and leans on developer-produced evidence. Critique of the report already held ([[2026-07-01 Independent International Scientific Panel on AI - Preliminary Report 2026]]); attach to [[un-ai-scientific-panel]]. -->

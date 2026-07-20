@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: instrument
 title: World Bank Enterprise Surveys
 url: https://www.enterprisesurveys.org/

@@ -2,6 +2,8 @@
 type: source
 title: "SA finally has a broadband map - and it reveals where the gaps are"
 publisher: TechCentral
+date_precision: day
+date_source: source
 author: Nkosinathi Ndlovu
 url: https://techcentral.co.za/sa-finally-has-a-broadband-map-and-it-reveals-where-the-gaps-are/279660/
 published: 2026-03-31
@@ -11,6 +13,7 @@ places: [ZAF]
 topics: [infra.connect, include.divides, include.access, data.open, gov.policy]
 entities: [[sadis-2025], [dbsa]]
 lens: []
+body_completeness: full
 ---
 
 <!-- SA's first granular broadband map (1.5m hexagonal cells) built for the DBSA/NPC-commissioned

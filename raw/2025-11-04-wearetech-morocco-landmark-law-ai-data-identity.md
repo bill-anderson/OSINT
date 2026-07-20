@@ -6,12 +6,14 @@ publisher: We Are Tech Africa
 published: 2025-11-04
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: MAR-2026-07-17
 places: [MAR]
 topics: [gov.legislate, tech.ai, gov.protect]
 entities: [[digital-x0-law]]
 lens: []
+body_completeness: full
 ---
 
 # Morocco drafts landmark law to govern AI, data and digital identity

@@ -3,6 +3,7 @@ type: source
 title: "Construction du Datacenter : la BAD s'indigne du ralentissement des travaux"
 url: https://www.adiac-congo.com/content/construction-du-datacenter-la-bad-sindigne-du-ralentissement-des-travaux-165004
 publisher: Les Dépêches de Brazzaville (ADIAC)
+ingested: 2026-07-18
 author: Firmin Oyé
 published: 2025-05-29
 date_precision: day
@@ -13,6 +14,7 @@ places: [COG]
 topics: [infra.store, finance.new, geopol.china, dpi.govtech]
 entities: [[congo-national-data-centre], [african-development-bank], [patn-congo]]
 lens: [sovereignty]
+body_completeness: full
 provenance_flag: state-aligned-outlet
 ---
 

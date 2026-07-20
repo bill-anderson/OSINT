@@ -13,6 +13,7 @@ places: [NAM]
 topics: [dpi.id, gov.policy, include.access, gov.protect]
 entities: [[undp], [ministry-home-affairs-namibia], [namibia-digital-id]]
 lens: []
+body_completeness: full
 ---
 
 UNDP Namibia (Yrika Maritz, Head of Experimentation) Part 3 blog on the governance assessment of Namibia's digital legal identity using UNDP's Model Governance Framework, with MHAISS as custodian of the national population register.

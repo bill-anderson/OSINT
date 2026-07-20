@@ -3,6 +3,7 @@ type: source
 title: "Laboratoire Régional d'Innovation Numérique et de Technologie : L'IIDA et l'ASIN lancent le projet d'IA en langue Fon"
 url: https://fraternite.bj/laboratoire-regional-dinnovation-numerique-et-de-technologie-liida-et-lasin-lancent-le-projet-dia-en-langue-fon/
 publisher: Fraternité
+ingested: 2026-07-18
 author: Isac YAI
 published: 2025-06-25
 date_precision: day
@@ -13,6 +14,7 @@ places: [BEN]
 topics: [tech.ai, include.access, tech.innovate, digital.rural, finance.new]
 entities: [[iida-institute-for-inclusive-digital-africa], [asin-benin], [gates-foundation], [marc-andre-loko], [makarimi-adechoubou]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Laboratoire Régional d'Innovation Numérique et de Technologie : L'IIDA et l'ASIN lancent le projet d'IA en langue Fon

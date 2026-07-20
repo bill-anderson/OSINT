@@ -6,12 +6,14 @@ publisher: TechAfrica News
 published: 2025-11-27
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV, MAR, GIN, MRT]
 topics: [gov.policy, digital.rural, include.divides, infra.connect, data.satellite, finance.new]
 entities: [[kalil-ibrahim-konate], [african-development-bank], [africa-investment-forum], [national-rural-connectivity-programme-cote-divoire], [niale-kaba]]
 lens: []
+body_completeness: full
 ---
 
 # Côte d'Ivoire Unveils Ambitious Digital Transformation Plan at Africa Investment Forum 2025

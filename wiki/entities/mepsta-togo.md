@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: government-body
 title: MEPSTA (Ministère de l'Enseignement primaire, secondaire, technique et artisanal, Togo)
 places: [TGO]

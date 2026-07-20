@@ -11,6 +11,7 @@ places: [CPV]
 topics: [infra.store, gov.policy, dpi.govtech]
 entities: [[techpark-cv], [african-development-bank]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Cabo Verde unveils TechPark CV "tech islands" vision, backed with $50m from AfDB

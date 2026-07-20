@@ -7,6 +7,8 @@ published: 2024-08-01
 date_precision: month
 date_source: source
 ingested: 2026-07-17
+lens: []
+body_completeness: full
 artefact: "2024-08-01 Eswatini National Health Sector Strategic Plan 2024-25 to 2027-28.pdf"
 places: [SWZ]
 topics: [dpi.mis, gov.policy, include.access]

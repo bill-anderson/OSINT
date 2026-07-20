@@ -6,12 +6,14 @@ publisher: TechAfrica News
 published: 2026-04-30
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [infra.connect, geopol.china, tech.industry, infra.capacity]
 entities: [[orange-cote-divoire], [huawei]]
 lens: []
+body_completeness: full
 provenance_flag: pr-wire
 primary_to_source: Orange Côte d'Ivoire social-media statement marking 10 years of the Huawei GNOC partnership (April 2026)
 ---

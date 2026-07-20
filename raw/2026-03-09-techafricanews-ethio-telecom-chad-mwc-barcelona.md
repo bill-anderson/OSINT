@@ -6,6 +6,7 @@ publisher: TechAfrica News
 published: 2026-03-09
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [TCD]
 topics: [infra.connect, finance.mou, infra.store, dpi.pay]
 entities: [[ethio-telecom], [ministry-telecom-digital-economy-chad]]

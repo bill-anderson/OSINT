@@ -3,6 +3,8 @@ type: source
 title: "Nigeria launches GovGuide, an AI chatbot for public service access"
 publisher: TechCabal
 url: https://techcabal.com/2026/05/22/nigeria-taps-meta-ai-to-help-citizens-access-government-services/
+date_precision: day
+date_source: source
 author: Frank Eleanya
 published: 2026-05-22
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [NGA]
 topics: [dpi.govtech, tech.ai, include.access, capacity.literacy, gov.protect]
 entities: [[govguide-nigeria], [meta], [bosun-tijani]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- GovGuide (Meta + FMCIDE + NCAIR + Publica AI) on Meta's Llama; English/Hausa/Igbo/Yoruba (NLLB-200 now 50+ African languages). Context: prior $32.8m NDPC fine on Meta (reportedly waived) - distinct from the $222m FCCPC penalty. -->

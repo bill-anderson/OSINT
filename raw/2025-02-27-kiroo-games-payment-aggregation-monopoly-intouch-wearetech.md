@@ -3,6 +3,7 @@ type: source
 title: "Kiro'o Games CEO: Payment Agregation Monopoly Threatens Cameroon's Digital Economy"
 url: https://www.wearetech.africa/en/fils-uk/news/tech/kiroo-games-ceo-payment-agregation-monopoly-threatens-cameroons-digital-economy
 publisher: We Are Tech Africa
+ingested: 2026-07-18
 author: Idriss Linge
 published: 2025-02-27
 date_precision: day
@@ -11,6 +12,7 @@ places: [CMR]
 topics: [dpi.pay, gov.legislate, tech.industry, tech.innovate, include.access, finance.new, gov.policy]
 entities: [[kiroo-games], [intouch], [mtn-mobile-money], [orange-cameroun]]
 lens: [sovereignty, colonialism]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: CMR-2026-07-17
 ---

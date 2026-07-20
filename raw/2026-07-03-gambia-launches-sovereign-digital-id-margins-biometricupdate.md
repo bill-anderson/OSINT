@@ -6,12 +6,14 @@ publisher: Biometric Update
 published: 2026-07-03
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: GMB-2026-07-17
 places: [GMB]
 topics: [dpi.id, infra.store]
 entities: [[gambia-national-id-contract], [margins-id-group]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # The Gambia launches sovereign digital ID system built by Margins ID Group

@@ -3,6 +3,7 @@ type: source
 title: Burundi opposition parties challenge CENI's 2027 election preparations, president calls for "Parental Dialogue"
 url: https://www.burunditimes.com/burundi-opposition-parties-challenge-cenis-2027-election-preparations-president-calls-for-parental-dialogue/
 publisher: Burundi Times
+ingested: 2026-07-18
 author: Burundi Times
 published: 2026-05-09
 date_precision: day
@@ -13,6 +14,7 @@ places: [BDI]
 topics: [dpi.registry, dpi.id, gov.policy]
 entities: [[ceni-burundi], [uprona], [cnl-burundi]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Burundi opposition parties challenge CENI's 2027 election preparations, president calls for "Parental Dialogue"

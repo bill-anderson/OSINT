@@ -6,6 +6,7 @@ publisher: Fraternité Matin
 published: 2026-06-24
 date_precision: day
 date_source: proxy
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]

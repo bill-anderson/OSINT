@@ -11,6 +11,7 @@ places: [DZA]
 topics: [gov.policy, dpi.govtech, tech.ai, include.divides]
 entities: [[digital-algeria-2030]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # The Digital Transition in Algeria — Challenges and Opportunities (Hammal)

@@ -3,6 +3,8 @@ type: source
 title: Legal Discussions with Vengai Madzima - Digitization of the Deeds Registry in Zimbabwe
 url: https://www.newzimbabwe.com/legal-discussions-with-vengai-madzima-digitization-of-the-deeds-registry-in-zimbabwe
 publisher: NewZimbabwe.com
+lens: []
+body_completeness: full
 author: Vengai Madzima (Madzima Chidyausiku Museta Legal Practitioners)
 published: 2025-07-28
 date_precision: day

@@ -13,6 +13,7 @@ places: [COD]
 topics: [dpi.pay, finance.new, gov.protect]
 entities: [[visa], [onafriq], [safaricom], [visa-mpesa-onafriq-drc-stablecoin-pilot]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Ecofin Agency, 2 Jul 2026. The CORRECTIVE source for REV-006: explicitly states there is NO

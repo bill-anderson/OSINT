@@ -12,6 +12,7 @@ places: [NGA, XWA]
 topics: [infra.store, infra.cybersec, tech.ai, infra.connect]
 entities: [[teknowledge], [equinix], [teknowledge-equinix-partnership]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # TeKnowledge, Equinix partner to accelerate digital transformation | Nigerian Pilot Newspaper

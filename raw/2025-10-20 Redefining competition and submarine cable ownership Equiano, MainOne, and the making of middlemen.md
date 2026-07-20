@@ -3,6 +3,8 @@ type: source
 title: "Redefining competition and submarine cable ownership: Equiano, MainOne, and the making of middlemen"
 publisher: The Information Society (Taylor & Francis)
 url: https://www.tandfonline.com/doi/full/10.1080/01972243.2025.2547676
+date_precision: day
+date_source: source
 author: J. Emeka Nwankwo
 published: 2025-10-20
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [NGA, XWA, GHA, CIV, ZAF, NAM, TGO, CMR]
 topics: [infra.connect, infra.store, dpi.exchange, geopol.usa]
 entities: [[equiano-mainone-nwankwo-2025], [google], [equiano-cable], [equinix]]
 lens: [colonialism, sovereignty]
+body_completeness: full
 ---
 
 <!-- Scholarly publication (peer-reviewed): Equiano (144 Tbps, Google-owned) exceeds all other African cables combined; Google lands via partners (WIOCC/OADC); Equinix acquired MainOne for $320m (2021/22) — largest Nigeria tech deal; MainOne (Funke Opeke, 2008) a 7,000km Portugal-Nigeria cable. Google-sponsored study claims Equiano cut NGA retail price 21%, +$10.1bn GDP by 2025. Home for [[equiano-mainone-nwankwo-2025]]. -->

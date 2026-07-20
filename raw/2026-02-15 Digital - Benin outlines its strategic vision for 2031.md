@@ -13,6 +13,7 @@ places: [BEN]
 topics: [gov.policy, gov.standards, tech.ai]
 entities: [[asin-benin]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Benin drafted a strategic digital vision to 2031 at a Cotonou seminar (5-6 Feb 2026) run by the Ministry of Digital & Digitalisation with Deloitte (partner Karim Koundi). Aim: a shared "Benin digital nation by 2031" vision aligning priorities across infrastructure, digitised public services, cybersecurity, local innovation, human capacity and financing of innovative firms. Minister Aurélie Adam Soulé Zoumarou flagged remaining challenges: still-limited connectivity, high-speed coverage/quality, persistent digital divide, personal-data protection, and support for digital SMEs/start-ups. Output: a strategic reference/roadmap document. Successor framing to the 2021-2026 government digital plan. -->

@@ -12,6 +12,7 @@ places: [RWA, XEA, XGL]
 topics: [dpi.exchange, dpi.mis, dpi.pay, dpi.id, gov.standards, capacity.research]
 entities: [[dpga], [ekash], [mojaloop], [dhis2]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Building Open Digital States: Country Case Studies on the Impact of DPGs for DPI

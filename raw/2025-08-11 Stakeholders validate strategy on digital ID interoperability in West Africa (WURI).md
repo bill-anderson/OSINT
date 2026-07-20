@@ -13,6 +13,7 @@ places: [NER, XWA]
 topics: [dpi.id, dpi.exchange, gov.regional]
 entities: [[wuri-programme], [world-bank]]
 lens: []
+body_completeness: full
 ---
 
 ECOWAS parties and the countries of the West Africa Unique Identification for Regional Integration and Inclusion (WURI) program validated the Foundational Identification Systems Interoperability and Mutual Recognition of ID Credentials Strategy at a workshop in Accra, Ghana, bringing together foundational identity agencies and functional service providers. The strategy aims to support a common position on interoperability and mutual recognition of foundational ID across the five WURI states and the wider region.

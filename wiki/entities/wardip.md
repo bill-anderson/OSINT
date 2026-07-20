@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: initiative
 title: WARDIP (Western Africa Regional Digital Integration Program)
 places: [XWA, GMB, GIN, GNB, MRT, BEN, LBR, SLE]

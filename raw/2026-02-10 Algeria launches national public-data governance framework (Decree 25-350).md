@@ -11,6 +11,7 @@ places: [DZA]
 topics: [gov.policy, dpi.exchange, gov.protect, infra.store]
 entities: [[algeria-data-governance-framework], [digital-algeria-2030]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Algeria launches national public-data governance framework (Presidential Decree 25-350)

@@ -6,12 +6,14 @@ publisher: ACTUALITE.CD
 published: 2026-06-15
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: COD-2026-07-17
 places: [COD]
 topics: [gov.policy, gov.standards, capacity.literacy, capacity.training, dpi.mis, dpi.exchange, capacity.research]
 entities: [[raissa-malu-dinanga], [minedu-nc-drc], [felix-tshisekedi], [ticef-drc], [global-partnership-for-education]]
 lens: []
+body_completeness: full
 ---
 
 Illustration/Photo ACTUALITE.CD

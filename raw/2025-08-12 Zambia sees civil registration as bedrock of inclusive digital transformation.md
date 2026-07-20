@@ -3,6 +3,8 @@ type: source
 title: Zambia sees civil registration as bedrock of inclusive digital transformation
 url: https://www.biometricupdate.com/202508/zambia-sees-civil-registration-as-bedrock-of-inclusive-digital-transformation
 publisher: Biometric Update
+lens: []
+body_completeness: full
 author: Ayang Macdonald
 published: 2025-08-12
 date_precision: day

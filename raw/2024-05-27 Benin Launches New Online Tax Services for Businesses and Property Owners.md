@@ -13,6 +13,7 @@ places: [BEN]
 topics: [dpi.govtech, dpi.pay, gov.policy]
 entities: [[dgi-benin]]
 lens: []
+body_completeness: full
 ---
 
 <!-- BACKFILL (2024-05-27) — historical baseline. Benin's Directorate General of Taxes (DGI) unveiled new online tax services (23 May 2024) for small businesses + property owners in Cotonou (nationwide expansion planned), on the e-services.impots.bj portal first launched 2017. DG: Nicolas Yenoussi. Frames Benin's ambition to be West Africa's digital hub since President Talon (2016), accelerated post-COVID (2021). Reports digitisation contributed to a 13.1% rise in tax revenue 2017-2021 vs 5.7% in 2012-2016. Feeds the BEN govtech/tax story. -->

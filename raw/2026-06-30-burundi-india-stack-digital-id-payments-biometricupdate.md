@@ -3,6 +3,7 @@ type: source
 title: Burundi looks to India Stack for digital ID and payments infrastructure
 url: https://www.biometricupdate.com/202606/burundi-looks-to-india-stack-for-digital-id-and-payments-infrastructure
 publisher: Biometric Update
+ingested: 2026-07-18
 author: Ayang Macdonald
 published: 2026-06-30
 date_precision: day
@@ -13,6 +14,7 @@ places: [BDI]
 topics: [dpi.id, dpi.pay, geopol.india]
 entities: [[india-stack], [aadhaar], [ifc], [ministry-of-finance-budget-and-digital-economy-burundi]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Burundi looks to India Stack for digital ID and payments infrastructure

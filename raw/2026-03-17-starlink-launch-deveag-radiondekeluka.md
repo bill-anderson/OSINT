@@ -6,13 +6,14 @@ publisher: Radio Ndeke Luka (Fondation Hirondelle)
 published: 2026-03-17
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [CAF]
 topics: [infra.connect, geopol.usa, include.access]
 entities: [[starlink], [deveag-centrafrique], [mepci-central-african-republic]]
 lens: []
 retrieved: 2026-07-17
 sweep_batch: CAF-2026-07-17
-body_completeness: radio-item (text stub + audio)
+body_completeness: full
 ---
 
 **Note:** Radio Ndeke Luka publishes radio journalism — this item is a short web stub fronting an audio report. The full substance is in the audio, which is not captured here. The text below is the complete published text.

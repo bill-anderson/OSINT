@@ -12,6 +12,7 @@ places: [TUN]
 topics: [dpi.id, gov.protect, tech.ai, tech.innovate, tech.industry, dpi.govtech, dpi.pay, finance.new, data.open, data.statistics, geopol.eu, geopol.china]
 entities: [[e-houwiya], [access-now], [e-governance-academy], [uqudo], [startup-tunisia], [subsidies-compensation-platform-tunisia], [nizar-ben-neji]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 *MONTH PRECISION: the page states no day; 2025-03 is taken from the publisher's own URL path convention (202503), so date_source is source but precision is month and the filename day is padding. Heavily derivative — it restates the E-Houwiya figures (from Ben Neji's own piece) and the Access Now critique. Cite those origins, not this, for facts they carry; cite this for the eGA MoU, Marit Lani, Sofiene Hemissi, the Subsidies Compensation Platform, Uqudo and the fintech/index figures it uniquely holds.*

@@ -10,6 +10,7 @@ ingested: 2026-07-20
 places: [LBY]
 topics: [infra.connect, finance.mou, geopol.china]
 entities: [[zte], [ltt]]
+lens: []
 body_completeness: full
 ---
 

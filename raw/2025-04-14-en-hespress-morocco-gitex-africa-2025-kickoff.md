@@ -6,12 +6,14 @@ publisher: Hespress English
 published: 2025-04-14
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: MAR-2026-07-17
 places: [MAR]
 topics: [tech.industry, gov.policy, tech.ai]
 entities: [[digital-morocco-2030], [add-morocco]]
 lens: []
+body_completeness: full
 ---
 
 # Morocco champions inclusive digital future at GITEX Africa 2025 kick-off

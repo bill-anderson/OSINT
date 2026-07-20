@@ -3,6 +3,7 @@ type: source
 title: Camtel provides connectivity infrastructure for WTO Ministerial Conference in Yaoundé
 url: https://techreviewafrica.com/news/4612
 publisher: Tech Review Africa
+ingested: 2026-07-18
 author: Nana Appiah Acquaye
 published: 2026-03-28
 date_precision: day
@@ -11,6 +12,7 @@ places: [CMR]
 topics: [infra.connect, tech.industry, infra.cybersec]
 entities: [[camtel], [world-trade-organization]]
 lens: []
+body_completeness: full
 provenance_flag: pr-wire
 provenance_note: >
   Tech Review Africa is a PR-wire outlet; this is CAMTEL announcement copy about a

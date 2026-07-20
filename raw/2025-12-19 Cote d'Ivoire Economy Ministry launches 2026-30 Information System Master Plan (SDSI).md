@@ -13,6 +13,7 @@ places: [CIV]
 topics: [gov.policy, dpi.exchange, data.statistics]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 <!-- Ecofin (Dec 2025): Côte d'Ivoire's Ministry of Economy, Planning & Development (MEPD) adopted a 2026-2030 Information System Master Plan (SDSI / Schéma Directeur des Systèmes d'Information) — modernise digital tools, strengthen data security, improve public-service management and digital governance. Presented in Abidjan (chief of staff Yéo Nahoua, Minister Kaba Nialé). A sectoral (economy/planning ministry) IT-governance strategy complementing the national digital strategy. -->

@@ -10,6 +10,7 @@ ingested: 2026-07-20
 places: [ZWE]
 topics: [tech.industry, finance.new, infra.connect, infra.store, infra.energy]
 entities: [[econet-wireless-zimbabwe], [econet-infraco], [distributed-power-africa], [econet-wireless-private-limited], [zimbabwe-stock-exchange]]
+lens: []
 body_completeness: full
 ---
 

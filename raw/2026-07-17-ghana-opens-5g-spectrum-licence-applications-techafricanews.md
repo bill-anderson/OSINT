@@ -6,12 +6,14 @@ publisher: TechAfrica News
 published: 2026-07-17
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: GHA-2026-07-17
 places: [GHA]
 topics: [infra.connect]
 entities: [[national-communications-authority-ghana]]
 lens: []
+body_completeness: full
 ---
 
 # Ghana Opens Applications for Mobile Broadband and 5G Spectrum Licences

@@ -12,6 +12,7 @@ places: [ZWE]
 topics: [infra.connect]
 entities: [[econet-wireless], [strive-masiyiwa]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Company primary record (evergreen "About Us" page; no publication date — copyright © 2026, so

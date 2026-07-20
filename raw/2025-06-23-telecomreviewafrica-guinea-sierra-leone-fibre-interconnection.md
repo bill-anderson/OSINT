@@ -6,12 +6,14 @@ publisher: Telecom Review Africa
 published: 2025-06-23
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: GIN-2026-07-17
 places: [GIN, SLE]
 topics: [infra.connect, gov.regional, dpi.exchange]
 entities: [[sogeb], [leoncom], [ministry-digital-economy-guinea]]
 lens: []
+body_completeness: full
 ---
 
 # Guinea and Sierra Leone Link National Fibre Networks for Regional Digital Integration

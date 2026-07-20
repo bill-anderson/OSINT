@@ -3,6 +3,8 @@ type: source
 title: "Ghana approves $250M AI Hub & National AI Strategy"
 publisher: Africa AI News
 url: https://www.africaainews.com/p/ghana-approves-250m-ai-hub-and-national
+date_precision: day
+date_source: source
 author: Carrington Malin
 published: 2026-04-03
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [GHA]
 topics: [tech.ai, finance.new, gov.policy, infra.store, gov.protect]
 entities: [[ghana-national-ai-strategy], [samuel-nartey-george], [smart-africa]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Ghana Cabinet approved a $250m national AI computing centre; National AI Strategy (2023-2033, 8 pillars) public launch set 24 Apr 2026; developed with Smart Africa, GIZ FAIR Forward, The Future Society. AI Readiness Assessment with UNESCO. Ghana 72nd on Global AI Index 2025 (6th in Africa). NB: source is AI-edited but reports a primary govt announcement; verify at launch. Likely same $250m push as the Huawei training item. -->

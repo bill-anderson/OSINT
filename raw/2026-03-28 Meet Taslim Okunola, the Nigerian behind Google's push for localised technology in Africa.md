@@ -3,6 +3,8 @@ type: source
 title: "Meet Taslim Okunola, the Nigerian behind Google's push for localised technology in Africa"
 publisher: Business Insider Africa
 url: https://africa.businessinsider.com/local/leaders/meet-taslim-okunola/
+date_precision: day
+date_source: source
 author: Olamilekan Okebiorun
 published: 2026-03-28
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [NGA, XSS]
 topics: [tech.ai, include.access, gov.protect]
 entities: [[google], [taslim-okunola]]
 lens: [colonialism]
+body_completeness: full
 ---
 
 <!-- Profile of Taslim Okunola, Google Global Strategy & Operations Manager (from Ibadan); helped bring Nigerian English + Yoruba/Hausa/Igbo into Google Assistant/Maps. Argues for building products from scratch for African users. Cites ITU ~36-38% of Africans online; GSMA 400m+ SSA mobile-internet users. -->

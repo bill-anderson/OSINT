@@ -3,6 +3,7 @@ type: source
 title: "TechCabal Daily – CAR blocks Starlink roaming"
 url: https://techcabal.com/2026/04/28/techcabal-daily-car-blocks-starlink-roaming/
 publisher: TechCabal
+ingested: 2026-07-18
 author: Emmanuel Nwosu
 published: 2026-04-28
 date_precision: day
@@ -11,6 +12,7 @@ places: [CAF]
 topics: [infra.connect, gov.legislate, gov.standards, include.access, include.divides, geopol.usa]
 entities: [[spacex], [arcep-central-african-republic]]
 lens: [sovereignty]
+body_completeness: full
 provenance_flag: newsletter-digest
 retrieved: 2026-07-17
 sweep_batch: CAF-2026-07-17

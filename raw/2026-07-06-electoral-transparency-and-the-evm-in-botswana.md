@@ -3,6 +3,9 @@ type: source
 title: Electoral transparency, credibility, and the dark shadow of the EVM in Botswana
 url: https://www.sundaystandard.info/electoral-transparency-credibility-and-the-dark-shadow-of-the-evm-in-botswana/
 publisher: Sunday Standard
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Monageng Mogalakwe
 published: 2026-07-06
 date_precision: day

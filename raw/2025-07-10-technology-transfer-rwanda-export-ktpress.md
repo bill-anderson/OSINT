@@ -3,6 +3,7 @@ type: source
 title: Technology Transfer Is Rwanda's Latest Pricey Export
 url: https://www.ktpress.rw/2025/07/technology-transfer-is-rwandas-latest-pricey-export/
 publisher: KT Press
+ingested: 2026-07-19
 author: KT Press Staff Writer
 published: 2025-07-10
 date_precision: day

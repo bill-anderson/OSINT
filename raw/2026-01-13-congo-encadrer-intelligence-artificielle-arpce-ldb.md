@@ -3,6 +3,7 @@ type: source
 title: "Technologies : le Congo s'engage à encadrer l'utilisation de l'Intelligence artificielle"
 url: https://www.adiac-congo.com/content/technologies-le-congo-sengage-encadrer-lutilisation-de-lintelligence-artificielle-168634
 publisher: Les Dépêches de Brazzaville (ADIAC)
+ingested: 2026-07-18
 author: Fiacre Kombo
 published: 2026-01-13
 date_precision: day
@@ -13,6 +14,7 @@ places: [COG]
 topics: [tech.ai, gov.legislate, gov.policy, gov.protect, dpi.pay, data.satellite]
 entities: [[arpce-congo], [undp], [caria-congo]]
 lens: [sovereignty]
+body_completeness: full
 provenance_flag: state-aligned-outlet
 ---
 

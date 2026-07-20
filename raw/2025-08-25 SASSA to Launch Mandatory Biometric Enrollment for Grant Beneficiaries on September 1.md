@@ -3,6 +3,8 @@ type: source
 title: SASSA to Launch Mandatory Biometric Enrollment for Grant Beneficiaries on September 1
 url: https://idtechwire.com/sassa-to-launch-mandatory-biometric-enrollment-for-grant-beneficiaries-on-september-1
 publisher: ID Tech (IDTechWire)
+lens: []
+body_completeness: full
 author: Ji-seo Kim
 published: 2025-08-25
 date_precision: day

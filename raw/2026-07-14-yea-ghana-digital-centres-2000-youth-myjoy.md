@@ -6,12 +6,14 @@ publisher: MyJoyOnline
 published: 2026-07-14
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: GHA-2026-07-17
 places: [GHA]
 topics: [capacity.training, tech.ai, infra.cybersec]
 entities: [[yea-ghana]]
 lens: []
+body_completeness: full
 ---
 # YEA partners Ghana Digital Centres to train 2,000 youth in AI, cybersecurity and digital skills
 

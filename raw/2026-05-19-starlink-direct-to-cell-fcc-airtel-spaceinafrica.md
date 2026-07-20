@@ -6,10 +6,12 @@ publisher: Space in Africa
 published: 2026-05-19
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [MDG]
 topics: [infra.connect, include.access]
 entities: [[starlink], [airtel-madagascar]]
 lens: []
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: MDG-2026-07-17
 ---

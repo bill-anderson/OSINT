@@ -3,6 +3,7 @@ type: source
 title: "Intelligence artificielle dans l'espace UEMOA : Le défi de l'inclusion, des infrastructures et de la souveraineté des données"
 url: https://lefaso.net/spip.php?article147865
 publisher: leFaso.net
+ingested: 2026-07-18
 author: Farida Thiombiano
 published: 2026-07-15
 date_precision: day
@@ -13,6 +14,7 @@ places: [BFA, XWA]
 topics: [tech.ai, data.open, infra.store, infra.connect, infra.energy, include.divides, gov.standards, capacity.research]
 entities: [[sipen-uemoa], [uemoa]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Intelligence artificielle dans l'espace UEMOA : Le défi de l'inclusion, des infrastructures et de la souveraineté des données

@@ -12,6 +12,7 @@ places: [COG, XCA, XSS]
 topics: [infra.connect, dpi.pay, gov.protect, infra.cybersec, tech.ai, include.divides, digital.rural, finance.new]
 entities: [[gsma], [congo-digital-strategy-2030], [malabo-convention]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Driving Digital Transformation of the Economy in the Republic of Congo

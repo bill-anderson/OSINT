@@ -6,6 +6,7 @@ publisher: ITWeb Africa
 published: 2025-07-10
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [NAM]
 topics: [infra.cybersec, geopol.india, finance.mou, dpi.pay]
 entities: [[netumbo-nandi-ndaitwah]]

@@ -6,12 +6,14 @@ publisher: We Are Tech Africa
 published: 2025-07-09
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CPV-2026-07-17
 places: [CPV]
 topics: [gov.policy, dpi.govtech, infra.cybersec]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 # Digital Transformation: Cape Verde Moves Closer to South Korea

@@ -7,6 +7,8 @@ published: 2026-07-17
 date_precision: day
 date_source: proxy
 ingested: 2026-07-17
+lens: []
+body_completeness: full
 artefact: "2026-07-17 A Collaborative Approach to Digital Identity and Digital Transformation (NIRA and NITA-U).pdf"
 places: [UGA]
 topics: [dpi.id, dpi.exchange, dpi.govtech, gov.standards]

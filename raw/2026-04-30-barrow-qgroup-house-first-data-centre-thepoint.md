@@ -6,12 +6,14 @@ publisher: The Point
 published: 2026-04-30
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: GMB-2026-07-17
 places: [GMB]
 topics: [infra.store, infra.connect, geopol.china]
 entities: []
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Barrow inaugurates QGroup House, unveils Gambia's first data centre

@@ -13,6 +13,7 @@ places: [MDG]
 topics: [gov.policy, include.access, data.statistics]
 entities: [[mg-ministry-digital-development]]
 lens: []
+body_completeness: full
 ---
 
 Madagascar's Ministry of Digital Development, Posts and Telecommunications, with UNDP, launched a Digital Readiness Assessment (DRA) on 27 February 2025 in Antsirabe. The DRA aims to diagnose the digital sector and identify priority actions to close gaps.

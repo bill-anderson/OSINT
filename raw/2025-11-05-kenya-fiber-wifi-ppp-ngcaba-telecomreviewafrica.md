@@ -6,13 +6,14 @@ publisher: Telecom Review Africa
 published: 2025-11-05
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [KEN]
 topics: [infra.connect, digital.rural]
 entities: [[william-kabogo]]
 lens: []
 retrieved: 2026-07-17
 sweep_batch: KEN-2026-07-17
-body_completeness: clip-full
+body_completeness: full
 ---
 
 # Kenya Advances Fiber and Wi-Fi Rollout with Public-Private Push

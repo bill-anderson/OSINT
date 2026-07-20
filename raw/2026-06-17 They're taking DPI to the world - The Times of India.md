@@ -3,6 +3,8 @@ type: source
 title: "They're taking DPI to the world"
 publisher: The Times of India
 url: https://timesofindia.indiatimes.com/technology/times-techies/theyre-taking-dpi-to-the-world/articleshow/131849408.cms
+date_precision: day
+date_source: source
 author: Sujit John, Supriya Roy
 published: 2026-06-17
 accessed: 2026-06-19
@@ -11,6 +13,7 @@ places: [MAR, XGL]
 topics: [geopol.india, dpi.id, dpi.pay, gov.standards, capacity.training]
 entities: [[mosip], [nandan-nilekani], [gates-foundation]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- On-the-record feature reporting with named principals. Admissible. Global/India-DPI-

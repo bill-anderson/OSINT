@@ -11,6 +11,7 @@ places: [CPV]
 topics: [gov.protect, dpi.exchange]
 entities: [[cnpd-cabo-verde], [data-protection-law-cabo-verde]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Cabo Verde data protection — Digital Regulations in the Metaverse Era (IBA)

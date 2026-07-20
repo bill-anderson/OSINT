@@ -6,12 +6,14 @@ publisher: TechAfrica News
 published: 2026-03-20
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [tech.ai, dpi.govtech, include.access, data.open]
 entities: [[emy-101], [government-of-cote-divoire]]
 lens: []
+body_completeness: full
 ---
 
 # Côte d'Ivoire Launches EMY 101 AI Chatbot to Transform Public Service Access

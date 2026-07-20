@@ -1,6 +1,7 @@
 ---
 type: source
 title: "بالأرقام.. السجلات التجارية المفتوحة تفوقت على المغلقة!"
+ingested: 2026-07-18
 title_en: Interior Trade Ministry figures — 173,651 new commercial registrations vs 125,195 struck off in 2025 (+55k net); digitalisation via the "Sedjilkoum" portal and generalised electronic commercial register
 url: https://www.echoroukonline.com/%D8%A8%D8%A7%D9%84%D8%A3%D8%B1%D9%82%D8%A7%D9%85-%D8%A7%D9%84%D8%B3%D8%AC%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D8%AC%D8%A7%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D9%81%D8%AA%D9%88%D8%AD%D8%A9-%D8%AA
 publisher: Echorouk El Yawmi
@@ -15,6 +16,7 @@ places: [DZA]
 topics: [dpi.registry, data.statistics, dpi.govtech, data.open]
 entities: [[ministere-du-commerce-interieur, cnrc]]
 lens: []
+body_completeness: full
 provenance_flag: privately-owned
 ---
 

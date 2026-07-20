@@ -11,6 +11,7 @@ places: [CPV]
 topics: [dpi.govtech, gov.policy, gov.protect, infra.store]
 entities: [[digital-cabo-verde-project]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # World Bank Project Paper — Digital Cabo Verde Project (Additional Financing)

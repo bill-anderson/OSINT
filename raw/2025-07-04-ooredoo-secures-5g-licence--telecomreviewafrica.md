@@ -6,6 +6,7 @@ publisher: Telecom Review Africa
 published: 2025-07-04
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 provenance_flag: pr-wire
@@ -13,6 +14,7 @@ places: [DZA]
 topics: [infra.connect, gov.legislate, gov.policy]
 entities: [[ooredoo-algeria], [roni-tohme], [arpce-algeria]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Ooredoo Algeria Secures 5G License Following Competitive Tender Process

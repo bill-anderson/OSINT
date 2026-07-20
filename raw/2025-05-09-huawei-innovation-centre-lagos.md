@@ -6,6 +6,7 @@ publisher: ITWeb Africa
 published: 2025-05-09
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [NGA]
 topics: [tech.innovate, geopol.china, tech.ai]
 entities: [[huawei]]

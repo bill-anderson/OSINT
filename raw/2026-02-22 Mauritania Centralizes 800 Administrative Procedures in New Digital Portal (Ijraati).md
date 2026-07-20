@@ -13,6 +13,7 @@ places: [MRT]
 topics: [dpi.govtech, data.statistics]
 entities: [[mtnima-mauritania]]
 lens: []
+body_completeness: full
 ---
 
 The Mauritanian government launched "Ijraati," a digital platform consolidating more than 800 administrative procedures into a single centralised directory for citizens, investors and businesses, as part of the country's public-administration digitisation strategy. Users can consult required documents, processing times and relevant agencies; the platform includes an administrative dashboard and tracking tools.

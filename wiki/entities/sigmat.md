@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: initiative
 title: SIGMAT (ECOWAS Interconnected System for the Management of Goods in Transit)
 places: [XWA]

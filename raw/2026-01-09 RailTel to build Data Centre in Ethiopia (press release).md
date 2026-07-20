@@ -11,6 +11,7 @@ places: [ETH]
 topics: [infra.store, geopol.india, finance.new]
 entities: []
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # RailTel (India) to build a data centre in Ethiopia — MEA work order

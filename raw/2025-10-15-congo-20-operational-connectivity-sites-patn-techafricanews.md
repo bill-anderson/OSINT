@@ -3,6 +3,7 @@ type: source
 title: Congo Expands High-Speed Internet Access with 20 Operational Connectivity Sites
 url: https://techafricanews.com/2025/10/15/congo-expands-high-speed-internet-access-with-20-operational-connectivity-sites/
 publisher: TechAfrica News
+ingested: 2026-07-18
 author: Kay-Lyne Wolfenden
 published: 2025-10-15
 date_precision: day
@@ -11,6 +12,7 @@ places: [COG]
 topics: [infra.connect, include.divides, digital.rural, gov.policy, finance.new]
 entities: [[patn-congo], [world-bank], [congo-digital-strategy-2030]]
 lens: []
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: COG-2026-07-17
 ---

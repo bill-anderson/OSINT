@@ -6,6 +6,7 @@ publisher: Le N'Djam Post
 published: 2026-03-26
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [TCD]
 topics: [capacity.training, include.access, capacity.literacy]
 entities: [[pdmfi-chad]]

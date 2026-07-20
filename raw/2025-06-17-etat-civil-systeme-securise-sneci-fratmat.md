@@ -6,12 +6,14 @@ publisher: Fraternité Matin
 published: 2025-06-17
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [dpi.id, dpi.registry]
 entities: [[oneci], [sneci], [union-europeenne]]
 lens: []
+body_completeness: full
 ---
 
 # État civil : Vagondo Diomandé veut bâtir un système sécurisé

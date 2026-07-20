@@ -6,10 +6,12 @@ publisher: La Gazette des Comores
 published: 2025-06-09
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [COM]
 topics: [dpi.mis, dpi.id, capacity.literacy, include.access]
 entities: [[anaden], [unicef], [ministry-of-education-comoros]]
 lens: []
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: COM-2026-07-17
 ---

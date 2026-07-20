@@ -4,12 +4,15 @@ title: "Understanding MOSIP: What the Modular Open-Source Identity Platform Is a
 url: https://www.biometricupdate.com/
 publisher: Biometric Update (Biometrics Research Group, Inc.)
 published: 2026-05-01
+date_precision: day
+date_source: source
 ingested: 2026-07-10
 attachment: 2026-05-01 Understanding-MOSIP-Biometric-Update-report.pdf
 places: [XGL, MAR, SLE, ETH, UGA, XAF]
 topics: [dpi.id, gov.standards, dpi.pay, tech.industry, capacity.training]
 entities: [[mosip], [nandan-nilekani]]
 lens: [sovereignty, colonialism]
+body_completeness: full
 ---
 
 # Source record — Understanding MOSIP (Biometric Update report)

@@ -6,6 +6,7 @@ publisher: Times of Eswatini
 published: 2026-02-02
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [SWZ]
 topics: [capacity.training, tech.ai, capacity.literacy]
 entities: [[ministry-of-ict-eswatini], [rstp], [undp], [government-in-your-hand]]

@@ -6,12 +6,14 @@ publisher: ITWeb Africa
 published: 2025-07-28
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [tech.industry, capacity.training, tech.innovate]
 entities: [[yango-group]]
 lens: []
+body_completeness: full
 ---
 
 By Lezeth Khoza, Junior journalist. Johannesburg, 28 Jul 2025.

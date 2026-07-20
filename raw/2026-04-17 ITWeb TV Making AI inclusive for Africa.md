@@ -3,6 +3,8 @@ type: source
 title: "ITWeb TV: Making AI inclusive for Africa"
 publisher: ITWeb TV
 url: https://www.itweb.co.za/videos/6GxRKMYQwOjMb3Wj
+date_precision: day
+date_source: source
 author: unknown
 published: 2026-04-17
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [ZAF]
 topics: [tech.ai, infra.connect, include.access, infra.store]
 entities: [[google]]
 lens: []
+body_completeness: full
 ---
 
 <!-- ITWeb TV #137 interview: Google SA country director Kabelo Makwane on inclusive AI/connectivity, rising YouTube engagement, and appetite for an Africa-based cloud region. Thin transcript/blurb. -->

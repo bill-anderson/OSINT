@@ -12,6 +12,7 @@ places: [TUN]
 topics: [dpi.id, gov.protect, gov.legislate, infra.cybersec]
 entities: [[access-now], [organic-law-2004-63-tunisia], [ministry-of-interior-tunisia]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 *First-party advocacy press release: Access Now's position, not a neutral record. Capture is not endorsement. The body dates the event (2024-03-06 vote); the publication date rests on frontmatter.*

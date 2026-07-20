@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: deal
 title: Togo Digital Acceleration Financing (World Bank, $100m IDA series)
 places: [TGO]

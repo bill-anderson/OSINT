@@ -6,10 +6,12 @@ publisher: Biometric Update
 published: 2026-03-05
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [ETH]
 topics: [dpi.id, include.divides, infra.capacity]
 entities: [[fayda-ethiopia-national-id], [mosip], [ethiopia-digital-id-inclusion-project]]
 lens: []
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: ETH-2026-07-17
 ---

@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: initiative
 title: Registre Social Unique (RSU, Gabon)
 places: [GAB]

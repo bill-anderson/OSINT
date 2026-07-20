@@ -6,6 +6,7 @@ publisher: CIO Africa
 published: 2026-06-19
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [TZA]
 topics: [infra.store, infra.connect, infra.cybersec]
 entities: [[liquid-intelligent-technologies], [cassava-technologies], [micit-tanzania]]

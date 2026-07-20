@@ -3,6 +3,8 @@ type: source
 title: "Western AI models 'fail spectacularly' in farms and forests abroad"
 publisher: Rest of World
 url: https://restofworld.org/2026/ai-agriculture-local-data/
+date_precision: day
+date_source: source
 author: Rina Chandran
 published: 2026-03-12
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [KEN, UGA, SEN, XSS]
 topics: [tech.ai, data.satellite, include.divides, digital.rural, capacity.research]
 entities: [[nasa-harvest], [catherine-nakalembe], [google], [microsoft]]
 lens: [colonialism, sovereignty]
+body_completeness: full
 ---
 
 <!-- NASA Harvest's Catherine Nakalembe: Western-trained AI couldn't recognise local crops in western Kenya; her team collected 5m+ images in two weeks (Nature Sci Data 2025) to map cropland in Kenya/Uganda/Senegal. Digital Green's FarmerChat: 1m+ farmers, 16 local languages. Digital-farming market ~$30bn (2024) -> ~$84bn (2034). Warns of 'digital colonialism'. -->

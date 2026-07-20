@@ -3,6 +3,7 @@ type: source
 title: Burkina Faso launches two mini data centers
 url: https://www.connectingafrica.com/data-centers/burkina-faso-launches-two-mini-data-centers
 publisher: Connecting Africa
+ingested: 2026-07-18
 author: Matshepo Sehloho
 published: 2026-01-26
 date_precision: day
@@ -13,6 +14,7 @@ places: [BFA]
 topics: [infra.store, infra.capacity, gov.policy]
 entities: [[ministry-of-digital-transition-burkina-faso], [telecel-faso], [presight], [g42], [arcep-burkina-faso], [nca-ghana]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 Burkina Faso's government has inaugurated two new mini data centers to strengthen the country's digital infrastructure and enhance data sovereignty.

@@ -10,6 +10,8 @@ ingested: 2026-07-17
 places: [SWZ]
 topics: [dpi.registry, dpi.id, include.access, capacity.training, finance.new]
 entities: [[eswatini-youth-employment-opportunities-project], [world-bank], [satu-kahkonen]]
+lens: []
+body_completeness: full
 ---
 
 MBABANE, May 12, 2025 - The World Bank Board of Executive Directors has approved the Eswatini Youth Employment Opportunities Project (EYEOP), aimed at increasing income earning opportunities for targeted youth. EYEOP is the first project in Eswatini financed by the International Development Association (IDA) following the country's transition to an IDA/IBRD blended status.

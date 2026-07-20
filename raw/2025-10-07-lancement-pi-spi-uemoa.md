@@ -3,6 +3,7 @@ type: source
 title: "Lancement du Système de paiement instantané interopérable: La Pi Spi, une solution rapide et inclusive au profit des citoyens Uemoa"
 url: https://lanation.bj/economie/lancement-du-systeme-de-paiement-instantane-interoperable-la-pi-spi-une-solution-rapide-et-inclusive-au-profit-des-citoyens-uemoa
 publisher: La Nation
+ingested: 2026-07-18
 author: Anselme Pascal AGUEHOUNDE
 published: 2025-10-07
 date_precision: day
@@ -13,6 +14,7 @@ places: [BEN, XWA]
 topics: [dpi.pay, dpi.exchange, gov.regional, include.access]
 entities: [[bceao], [uemoa], [pi-spi]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Lancement du Système de paiement instantané interopérable: La Pi Spi, une solution rapide et inclusive au profit des citoyens Uemoa

@@ -13,6 +13,7 @@ places: [GIN]
 topics: [infra.store, gov.policy, data.statistics]
 entities: [[guinea-national-data-centre]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Guinea inaugurated a national data centre in Conakry (4 Sept 2025), to host national data and reinforce digital sovereignty. Certified Tier 3 by the Uptime Institute (redundancy, ~1.6h/yr max downtime). Per Ministry of Posts, Telecoms & Digital Economy. UN E-Government Survey 2024: Guinea EGDI 0.4006 (29th in Africa), up from 0.2955 in 2022. Dedup with 2025-09-05 TechAfrica (.gn + data centre launch). -->

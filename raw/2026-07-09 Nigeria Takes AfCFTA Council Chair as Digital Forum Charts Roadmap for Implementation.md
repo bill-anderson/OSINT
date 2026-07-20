@@ -3,6 +3,8 @@ type: source
 title: "Nigeria Takes AfCFTA Council Chair as Digital Forum Charts Roadmap for Implementation"
 publisher: African Newspage
 url: https://www.africannewspage.net/2026/07/nigeria-takes-afcfta-council-chair/
+date_precision: day
+date_source: source
 author: Press Release
 published: 2026-07-09
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [NGA, EGY, GHA, XAF]
 topics: [gov.regional, dpi.pay, dpi.exchange, tech.industry, finance.new, include.access]
 entities: [[afcfta], [wamkele-mene], [papss]]
 lens: []
+body_completeness: full
 ---
 
 <!-- 18th AfCFTA Council of Ministers (Abuja): Nigeria takes the Bureau Chair from Egypt. 2nd AfCFTA Digital Trade Forum's Eight Calls to Action to operationalise the Digital Trade Protocol. Digital economy ~$180bn now -> ~$712bn by 2050; ADIEP x Google training 7,500 SMEs in 19 countries. -->

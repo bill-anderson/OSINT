@@ -2,6 +2,8 @@
 type: source
 title: "You can have any AI stack you like, so long as it's American"
 publisher: Data Landscapers
+date_precision: day
+date_source: source
 author: [[bill]]
 url: https://data-landscapers.com/2026/02/27/ai-stack-american/
 published: 2026-02-27
@@ -11,6 +13,7 @@ places: [XAF, XSS, XGL]
 topics: [tech.ai, geopol.usa, gov.standards, gov.policy, tech.industry]
 entities: [[bill], [data-landscapers], [american-ai-exports-program], [us-department-of-commerce]]
 lens: [sovereignty, colonialism]
+body_completeness: full
 ---
 
 <!-- EXPERT ANALYSIS (Data Landscapers, author [[bill]]). The US American AI Exports Program +

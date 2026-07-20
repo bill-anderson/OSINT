@@ -6,6 +6,7 @@ publisher: Le Sahel (ONEP)
 published: 2026-01-29
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [NER]
 topics: [infra.connect, gov.standards, gov.legislate, include.access]
 entities: [[arcep-niger]]

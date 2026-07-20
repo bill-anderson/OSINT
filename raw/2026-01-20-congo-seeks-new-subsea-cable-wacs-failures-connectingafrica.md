@@ -3,6 +3,7 @@ type: source
 title: Congo wants to connect to new cable amidst WACS failures
 url: https://www.connectingafrica.com/connectivity/congo-wants-to-connect-to-new-cable-amidst-wacs-failures
 publisher: Connecting Africa
+ingested: 2026-07-18
 author: Matshepo Sehloho
 published: 2026-01-20
 date_precision: day
@@ -11,6 +12,7 @@ places: [COG]
 topics: [infra.connect, gov.legislate, include.access]
 entities: [[arpce-congo]]
 lens: [sovereignty]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: COG-2026-07-17
 ---

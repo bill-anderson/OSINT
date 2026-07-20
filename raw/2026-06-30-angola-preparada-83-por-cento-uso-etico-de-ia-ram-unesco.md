@@ -3,6 +3,8 @@ type: source
 title: Angola está preparada em mais de 80% para uso ético de IA
 url: https://angop.ao/noticias/sociedade/angola-esta-preparada-em-mais-de-80-para-uso-etico-de-ia/
 publisher: Angop
+lens: []
+body_completeness: full
 author: CPM/DP
 published: 2026-06-30
 date_precision: day

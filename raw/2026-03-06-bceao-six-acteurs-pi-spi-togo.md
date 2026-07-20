@@ -6,6 +6,7 @@ publisher: Togo First
 published: 2026-03-06
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [TGO, XWA]
 topics: [dpi.pay, gov.regional]
 entities: [[bceao], [ecobank]]

@@ -12,6 +12,7 @@ places: [XAF, NGA, KEN, AGO, MUS, BWA, SYC, GHA, XWA, XEA, XSA]
 topics: [gov.protect, gov.legislate, gov.regional, tech.ai]
 entities: [[future-of-privacy-forum], [nigeria-data-protection-act-2023], [ndpc], [kenya-data-protection-act-2019], [odpc-kenya], [malabo-convention], [au-data-policy-framework], [afcfta-digital-trade-protocol], [eu-ai-act]]
 lens: [sovereignty, colonialism]
+body_completeness: full
 ---
 
 # Africa’s Data Protection Reforms: A Continental Perspective on the Drivers of Change in Legal Frameworks

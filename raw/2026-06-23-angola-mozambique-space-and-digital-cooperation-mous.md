@@ -3,6 +3,8 @@ type: source
 title: Angola and Mozambique sign space and digital cooperation agreements to strengthen connectivity
 url: https://techreviewafrica.com/news/6025/angola-and-mozambique-sign-space-and-digital-cooperation-agreements-to-strengthen-connectivity
 publisher: Tech Review Africa
+lens: []
+body_completeness: full
 author: Nana Appiah Acquaye
 published: 2026-06-23
 date_precision: day

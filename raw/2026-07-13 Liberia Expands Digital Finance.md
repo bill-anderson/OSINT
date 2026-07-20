@@ -12,6 +12,7 @@ places: [LBR]
 topics: [dpi.pay, include.access, infra.connect]
 entities: [[pay-na-na]]
 lens: []
+body_completeness: full
 ---
 
 # Liberia Expands Digital Finance - Liberia news The New Dawn Liberia, premier resource for latest news

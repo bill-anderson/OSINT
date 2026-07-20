@@ -12,6 +12,7 @@ places: [XAF, TZA, CMR, KEN, COD, TGO, UGA, SDN]
 topics: [infra.connect, gov.legislate, gov.regional, include.access]
 entities: [[access-now], [starlink], [article-19], [cipesa], [paradigm-initiative]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Rising Repression Meets Global Resistance: Internet Shutdowns in 2025

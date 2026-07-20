@@ -3,6 +3,7 @@ type: source
 title: Mobile Money providers pledge nationwide expansion to support digital payment
 url: https://www.onecitizendaily.com/index.php/2025/08/15/mobile-money-providers-pledge-nationwide-expansion-to-support-digital-payment/
 publisher: One Citizen Daily
+ingested: 2026-07-19
 author: One Citizen Daily Newspaper
 published: 2025-08-15
 date_precision: day

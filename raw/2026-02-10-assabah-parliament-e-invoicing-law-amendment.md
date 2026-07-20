@@ -6,6 +6,7 @@ publisher: Assabah News (جريدة الصباح نيوز)
 published: 2026-02-10
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [TUN]
 topics: [gov.legislate, dpi.govtech, gov.protect]
 entities: [[assembly-of-peoples-representatives-tunisia], [ministry-of-communication-technologies-tunisia]]

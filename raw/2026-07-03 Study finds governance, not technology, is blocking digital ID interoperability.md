@@ -4,11 +4,14 @@ title: Study finds governance, not technology, is blocking digital ID interopera
 url: https://www.biometricupdate.com/202607/study-finds-governance-not-technology-is-blocking-digital-id-interoperability
 publisher: Biometric Update
 published: 2026-07-03
+date_precision: day
+date_source: source
 ingested: 2026-07-10
 places: [NGA, XAF, XGL]
 topics: [dpi.id, dpi.exchange, gov.standards, gov.regional, gov.protect]
 entities: [[afcfta]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 Trust frameworks and assurance models remain the missing links for cross-border digital identity

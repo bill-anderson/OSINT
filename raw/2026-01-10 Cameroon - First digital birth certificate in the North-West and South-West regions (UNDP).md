@@ -13,6 +13,7 @@ places: [CMR]
 topics: [dpi.id, dpi.registry, include.access]
 entities: [[bunec], [undp]]
 lens: []
+body_completeness: full
 ---
 
 <!-- UNDP Cameroon (Jan 2026): on 7 Jan 2026 the first civil certificate issued through a fully digitalized civil-registration system in the North-West and South-West regions was collected at Limbe I Council (no delays, no loss risk, free). Part of UNDP's "Contributing to Social Cohesion Efforts in the Far-North, North-West and South-West Regions" (Denmark-funded, UNDP Funding Windows), covering 10 municipalities (Maroua III, Koza, Mindif, Méri, Mora, Limbe I, Buea City Council, Tiko, Bamenda III, Bamenda City Council). Same UNDP/Denmark civil-documents programme the CMR hub already notes (10 municipalities) — the concrete first-issuance milestone, feeding the BUNEC/Law-2024-016 digital CRVS. -->

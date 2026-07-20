@@ -3,6 +3,7 @@ type: source
 title: Burkina Faso Trains Lawmakers on Artificial Intelligence to Support Digital Governance
 url: https://techafricanews.com/2026/07/16/burkina-faso-trains-lawmakers-on-artificial-intelligence-to-support-digital-governance/
 publisher: TechAfrica News
+ingested: 2026-07-18
 author: Editorial Team
 published: 2026-07-16
 date_precision: day
@@ -13,6 +14,7 @@ places: [BFA]
 topics: [tech.ai, capacity.training, gov.legislate]
 entities: [[spivten], [ministry-of-digital-transition-burkina-faso], [yaya-traore], [legislative-assembly-of-the-people-burkina-faso]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Burkina Faso Trains Lawmakers on Artificial Intelligence to Support Digital Governance

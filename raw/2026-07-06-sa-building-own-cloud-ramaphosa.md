@@ -6,6 +6,7 @@ publisher: MyBroadband
 published: 2026-07-06
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [ZAF]
 topics: [infra.store, gov.policy]
 entities: [[cyril-ramaphosa]]

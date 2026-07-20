@@ -13,6 +13,7 @@ places: [LBR]
 topics: [dpi.id, dpi.govtech, dpi.pay]
 entities: [[national-identification-registry-liberia], [great-project-liberia]]
 lens: []
+body_completeness: full
 ---
 
 <!-- NIR says the national ID is central to Liberia's digital economy. Media Relations Dir Daniel Sloh Sargbe (Monrovia briefing). As of Dec 2024: ~740,000 citizens registered (aged 31-65, 59% male). Growth via partnerships: MoU with Civil Service Agency (May 2024) — NIN for payroll verification, identifying ghost workers (as Ethiopia does); MoU with LTA (Oct 2024) — national ID required for SIM registration. Other: Ministry of Gender/Children/Social Protection (social schemes), UNICEF (under-5 children into NBIS). WB GREAT project ongoing. Boakai called for aggressive enrollment. -->

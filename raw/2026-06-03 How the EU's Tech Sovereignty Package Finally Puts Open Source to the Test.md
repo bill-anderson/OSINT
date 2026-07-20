@@ -4,11 +4,14 @@ title: "How the EU's Tech Sovereignty Package Finally Puts Open Source to the Te
 url: https://www.techpolicy.press/how-the-eus-tech-sovereignty-package-finally-puts-open-source-to-the-test/
 publisher: Tech Policy Press
 published: 2026-06-03
+date_precision: day
+date_source: source
 ingested: 2026-07-10
 places: [XGL]
 topics: [gov.policy, gov.legislate, gov.standards, infra.cybersec, tech.industry, dpi.id, tech.ai]
 entities: []
 lens: [sovereignty]
+body_completeness: full
 ---
 
 Nicholas Gates, Aimilia Givropoulou, Jaakko Karhu /

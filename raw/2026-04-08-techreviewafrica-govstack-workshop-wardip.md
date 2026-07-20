@@ -3,6 +3,7 @@ type: source
 title: "Guinea launches GovStack workshop to advance interoperable digital public services (WARDIP)"
 url: https://techreviewafrica.com/news/4820/guinea-launches-govstack-workshop-to-advance-digital-public-services
 publisher: Tech Review Africa
+ingested: 2026-07-18
 author: Nana Appiah Acquaye
 published: 2026-04-08
 date_precision: day
@@ -13,6 +14,7 @@ places: [GIN]
 topics: [dpi.govtech, dpi.exchange, gov.standards]
 entities: [[wardip], [world-bank], [ministry-digital-economy-guinea]]
 lens: []
+body_completeness: full
 provenance_flag: pr-wire
 ---
 

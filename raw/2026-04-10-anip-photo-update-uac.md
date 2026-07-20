@@ -3,6 +3,9 @@ type: source
 title: "Facilitation du processus de vote : ANIP lance la mise à jour de photos en ligne à l'UAC"
 url: https://fraternite.bj/facilitation-du-processus-de-vote-anip-lance-la-mise-a-jour-de-photos-en-ligne-a-luac/
 publisher: Fraternité
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Isac YAI
 published: 2026-04-10
 date_precision: day

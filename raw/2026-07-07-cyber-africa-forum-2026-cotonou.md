@@ -3,6 +3,7 @@ type: source
 title: "Cyber Africa Forum 2026: Cotonou au cœur des enjeux de cybersécurité en Afrique"
 url: https://www.lanation.bj/actualites/cyber-africa-forum-2026-cotonou-au-coeur-des-enjeux-de-cybersecurite-en-afrique
 publisher: La Nation
+ingested: 2026-07-18
 author: Isidore Gozo
 published: 2026-07-07
 date_precision: day
@@ -13,6 +14,7 @@ places: [BEN, XAF]
 topics: [infra.cybersec, gov.regional, tech.ai, dpi.id, dpi.exchange]
 entities: [[cyber-africa-forum], [franck-kie], [interpol]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Cyber Africa Forum 2026: Cotonou au cœur des enjeux de cybersécurité en Afrique

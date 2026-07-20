@@ -3,6 +3,7 @@ type: source
 title: "Intelligence artificielle au Burkina Faso: vers la validation d'une feuille de route nationale"
 url: https://www.sidwaya.info/intelligence-artificielle-au-burkina-faso-vers-la-validation-dune-feuille-de-route-nationale/
 publisher: Sidwaya
+ingested: 2026-07-18
 author: Oumarou RABO
 published: 2026-06-17
 date_precision: day
@@ -13,6 +14,7 @@ places: [BFA]
 topics: [tech.ai, gov.policy, capacity.research]
 entities: [[ministere-transition-digitale-burkina-faso], [spivten], [alliance-of-sahel-states]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Intelligence artificielle au Burkina Faso: vers la validation d'une feuille de route nationale

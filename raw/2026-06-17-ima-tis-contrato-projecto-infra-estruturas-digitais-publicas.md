@@ -3,6 +3,8 @@ type: source
 title: IMA e TIS formalizam contrato para implementação do projecto "Digitais Públicas"
 url: https://angop.ao/noticias/economia/ima-e-tis-formalizam-contrato-para-implementacao-do-projecto-digitais-publicas/
 publisher: Angop
+lens: []
+body_completeness: full
 author: AMC/QCB
 published: 2026-06-17
 date_precision: day

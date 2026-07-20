@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: deal
 title: The Gambia National ID + Integrated Digital ID (DBFOT)
 places: [GMB]

@@ -6,12 +6,14 @@ publisher: We Are Tech
 published: 2025-11-03
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 places: [DZA]
 topics: [gov.policy, dpi.govtech, dpi.exchange, capacity.training, gov.standards, include.access, finance.mou]
 entities: [[undp], [high-commission-digitalisation-algeria], [abdelmadjid-tebboune], [datareportal]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # UNDP to Support Algeria's Push for Digital Transformation

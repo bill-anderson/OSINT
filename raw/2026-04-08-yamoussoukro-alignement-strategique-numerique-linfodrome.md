@@ -6,12 +6,14 @@ publisher: Linfodrome
 published: 2026-04-08
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [gov.policy, tech.ai, infra.cybersec, data.open]
 entities: [[ministere-transition-numerique-cote-divoire], [djibril-ouattara], [padci], [parae]]
 lens: []
+body_completeness: full
 ---
 
 # Transformation numérique : Yamoussoukro au centre de l'alignement stratégique du secteur

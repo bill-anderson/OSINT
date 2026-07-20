@@ -12,6 +12,7 @@ places: [GMB]
 topics: [dpi.id, dpi.registry, gov.policy]
 entities: [[gambia-national-digital-id-strategy], [world-bank]]
 lens: []
+body_completeness: full
 artefact: "2024-01-01 P502279 Gambia High-Level Assessment of Identity Management System.pdf"
 ---
 

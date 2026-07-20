@@ -6,6 +6,7 @@ publisher: TechAfrica News
 published: 2025-04-11
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [TUN]
 topics: [infra.connect, tech.industry]
 entities: [[instance-nationale-des-telecommunications-tunisia]]

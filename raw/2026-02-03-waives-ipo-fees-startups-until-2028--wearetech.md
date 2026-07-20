@@ -6,12 +6,14 @@ publisher: We Are Tech
 published: 2026-02-03
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 places: [DZA]
 topics: [finance.new, gov.policy, tech.innovate, tech.industry]
 entities: [[cosob], [sgbv], [algerie-clearing], [bourse-dalger], [moustachir], [startup-dz], [banque-de-developpement-local]]
 lens: []
+body_completeness: full
 ---
 
 # Algeria Waives IPO Fees for Startups Until 2028

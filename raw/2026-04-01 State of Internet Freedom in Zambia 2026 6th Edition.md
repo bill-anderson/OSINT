@@ -12,6 +12,7 @@ places: [ZMB, XSA]
 topics: [gov.legislate, gov.protect, gov.policy, dpi.id, infra.connect, tech.ai, include.divides]
 entities: [[bloggers-of-zambia]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # State of Internet Freedom in Zambia — 2026 (6th Edition)

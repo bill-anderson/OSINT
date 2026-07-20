@@ -3,6 +3,8 @@ type: source
 title: "Anthropic is Becoming the Backbone of Rwanda's Government. But Who is Accountable?"
 publisher: Tech Policy Press
 url: https://www.techpolicy.press/anthropic-is-becoming-the-backbone-of-rwandas-government-but-who-is-accountable/
+date_precision: day
+date_source: source
 author: Javaid Iqbal Sofi
 published: 2026-03-17
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [RWA]
 topics: [tech.ai, gov.policy, dpi.govtech, capacity.training, gov.protect]
 entities: [[anthropic], [anthropic-rwanda-mou], [paula-ingabire], [paul-kagame], [african-union]]
 lens: [sovereignty, colonialism]
+body_completeness: full
 ---
 
 <!-- Named-expert analysis of Anthropic's 3-year (non-binding) Feb-2026 MoU embedding AI across Rwanda's health ministry, public-sector agencies and education (Claude/Claude Code access, Chidi education tool across 8 countries; extends a Nov-2025 ALX partnership). Core argument: an accountability vacuum â€” no external/parliamentary/civil-society review. Cite as analysis. -->

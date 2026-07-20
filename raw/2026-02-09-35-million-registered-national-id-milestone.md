@@ -6,6 +6,7 @@ publisher: New Vision
 published: 2026-02-09
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [UGA]
 topics: [dpi.id, dpi.registry]
 entities: [[nira-uganda]]

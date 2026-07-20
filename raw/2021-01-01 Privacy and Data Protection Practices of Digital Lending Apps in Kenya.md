@@ -12,6 +12,7 @@ places: [KEN]
 topics: [gov.protect, dpi.pay, dpi.id, tech.ai]
 entities: [[cipit], [odpc-kenya], [safaricom], [meta], [google]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Privacy and Data Protection Practices of Digital Lending Apps in Kenya

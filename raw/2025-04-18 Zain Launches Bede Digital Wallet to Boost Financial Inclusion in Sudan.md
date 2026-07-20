@@ -9,6 +9,8 @@ date_source: source
 places: [SDN]
 topics: [dpi.pay, finance.new, include.access]
 entities: [[zain-sudan], [bede-wallet], [central-bank-of-sudan]]
+lens: []
+body_completeness: full
 retrieved: 2026-07-17
 ingested: 2026-07-18
 sweep_batch: SDN-2026-07-17

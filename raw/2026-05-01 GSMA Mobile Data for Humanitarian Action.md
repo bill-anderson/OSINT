@@ -12,6 +12,7 @@ places: [XAF, GHA, COD, TGO, XGL]
 topics: [dpi.exchange, gov.protect, gov.regional, infra.connect, tech.ai]
 entities: [[gsma], [world-bank], [malabo-convention]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Mobile Data for Humanitarian Action

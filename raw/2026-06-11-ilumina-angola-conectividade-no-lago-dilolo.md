@@ -3,6 +3,8 @@ type: source
 title: Projecto "Ilumina Angola" garante conectividade digital no Lago Dilolo
 url: https://angop.ao/noticias/tecnologia/projecto-ilumina-angola-garante-conectividade-digital-no-lago-dilolo/
 publisher: Angop
+lens: []
+body_completeness: full
 author: HD
 published: 2026-06-11
 date_precision: day

@@ -3,6 +3,7 @@ type: source
 title: "Communications électroniques : l'ARPCE renforce son expertise sur les satellites de télécommunications"
 url: https://www.adiac-congo.com/content/communications-electroniques-larpce-renforce-son-expertise-sur-les-satellites-de
 publisher: Les Dépêches de Brazzaville (ADIAC)
+ingested: 2026-07-18
 author: Quentin Loubou
 published: 2025-10-04
 date_precision: day
@@ -13,6 +14,7 @@ places: [COG]
 topics: [infra.connect, gov.legislate, infra.capacity, include.access, geopol.eu, data.satellite]
 entities: [[arpce-congo], [eutelsat], [oneweb]]
 lens: []
+body_completeness: full
 provenance_flag: state-aligned-outlet
 ---
 

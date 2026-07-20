@@ -12,6 +12,7 @@ places: [NER]
 topics: [dpi.id, gov.regional]
 entities: [[niger-national-eid], [alliance-of-sahel-states]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 As part of the Alliance of Sahel States (AES) initiative to harmonise travel and identity documents within the AES confederation, the Nigerien Council of Ministers has adopted a decree to establish AES biometric national identity cards, which will be required for all citizens aged 15 and up. The cards will allow individuals to travel throughout the AES without a passport. The date of implementation and any penalties for non-compliance had not yet been announced at the time of writing.

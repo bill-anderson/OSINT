@@ -12,6 +12,7 @@ places: [KEN, RWA, XEA]
 topics: [gov.protect, infra.cybersec, gov.legislate, include.divides]
 entities: [[article-19], [african-commission]]
 lens: []
+body_completeness: full
 ---
 
 # African Commission: Highlighting pressures on civic space in Kenya and Rwanda - ARTICLE 19

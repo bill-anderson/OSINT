@@ -6,12 +6,14 @@ publisher: Liberian Observer
 published: 2025-12-17
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: LBR-2026-07-17
 places: [LBR]
 topics: [dpi.govtech, dpi.id, dpi.pay]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 # CSA Goes Live with Automated LPA Platform

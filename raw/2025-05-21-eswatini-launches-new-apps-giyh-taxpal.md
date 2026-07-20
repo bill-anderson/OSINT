@@ -6,6 +6,7 @@ publisher: Independent News Eswatini
 published: 2025-05-21
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [SWZ]
 topics: [dpi.govtech, dpi.pay, include.access]
 entities: [[government-in-your-hand], [ministry-of-ict-eswatini], [eswatini-revenue-service]]

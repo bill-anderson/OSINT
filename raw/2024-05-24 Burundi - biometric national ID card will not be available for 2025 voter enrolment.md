@@ -13,6 +13,7 @@ places: [BDI]
 topics: [dpi.id, dpi.registry, include.divides]
 entities: [[ceni-burundi]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Burundi Eco (May 2024): CENI announced the biometric national ID card would NOT be ready for the 2025 voter enrolment (not available within the coming three months), so enrolment would use the CURRENT (easily falsifiable) ID card. Stakeholders (incl. OLUCOME's Gabriel Rufyiri) worried about fraud — foreign nationals (Congolese, Rwandans) reportedly obtaining ID cards illegally, and the new administrative boundaries making current-card data inaccurate. CENI budget for 2025 elections: 114.4bn FBu. No 2008-onwards general census yet, so CENI projected the 2008 population (8m) at 3%/yr growth → ~13.2m for 2025. Voter census in 2024, valid for 2025 + 2027 elections. 2025 = legislative + communal councillors; presidential in 2027. Early evidence the biometric-ID rollout slipped repeatedly. -->

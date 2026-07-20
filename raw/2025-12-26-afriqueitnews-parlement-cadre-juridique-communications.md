@@ -6,6 +6,7 @@ publisher: Afrique IT News
 published: 2025-12-26
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [TCD]
 topics: [gov.legislate, gov.policy, infra.cybersec]
 entities: [[arcep-chad]]

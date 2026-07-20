@@ -3,6 +3,7 @@ type: source
 title: Internet Prices Slashed, Data Centre Ready: Botswana Accelerates Digital Transformation
 url: https://techafricanews.com/2025/11/25/internet-prices-slashed-data-centre-ready-botswana-accelerates-digital-transformation/
 publisher: TechAfrica News
+ingested: 2026-07-18
 author: Jennifer Onyeagoro
 published: 2025-11-25
 date_precision: day
@@ -13,6 +14,7 @@ places: [BWA]
 topics: [infra.connect, gov.policy, infra.store, data.satellite, dpi.govtech, gov.legislate]
 entities: [[david-tshere], [digital-delta-data-centre], [botsat-1], [ministry-of-communications-and-innovation-botswana]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Internet Prices Slashed, Data Centre Ready: Botswana Accelerates Digital Transformation

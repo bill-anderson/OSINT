@@ -3,6 +3,9 @@ type: source
 title: Inside Botswana's trillion-Pula illusion
 url: https://www.sundaystandard.info/inside-botswanas-trillion-pula-illusion/
 publisher: Sunday Standard
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Sunday Standard Reporter
 published: 2026-07-06
 date_precision: day

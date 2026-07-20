@@ -3,6 +3,7 @@ type: source
 title: "Numérique/Gouvernance : Frédéric Malik Nguema Nzé fait de l'ARPCE son fer de lance"
 url: https://www.adiac-congo.com/content/numeriquegouvernance-frederic-malik-nguema-nze-fait-de-larpce-son-fer-de-lance-170823
 publisher: Les Dépêches de Brazzaville (ADIAC)
+ingested: 2026-07-18
 author: Quentin Loubou
 published: 2026-07-14
 date_precision: day
@@ -13,6 +14,7 @@ places: [COG]
 topics: [gov.policy, dpi.govtech, infra.connect, infra.cybersec, dpi.registry]
 entities: [[arpce-congo]]
 lens: [sovereignty]
+body_completeness: full
 provenance_flag: state-aligned-outlet
 ---
 

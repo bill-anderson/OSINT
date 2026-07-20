@@ -13,6 +13,7 @@ places: [MWI]
 topics: [dpi.id, gov.protect, data.open]
 entities: [[malawi-electoral-commission]]
 lens: []
+body_completeness: full
 ---
 
 The Malawi Electoral Commission (MEC) denied a request by election-observer coalition Chisankho Watch for electronic access to voter-registration data ahead of the 2025 general election. Chisankho Watch (comprising the Catholic Commission for Justice & Peace, Public Affairs Committee, mHub and the Gender Justice Unit) had sought analyzable electronic copies of the 2025 voter roll and prior registers — including names, dates of birth, sex, residence, national ID numbers and registration data by polling centre (explicitly excluding biometric data) — to run an independent voter-list verification.

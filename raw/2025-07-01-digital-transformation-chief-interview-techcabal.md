@@ -6,12 +6,14 @@ publisher: TechCabal
 published: 2025-07-01
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [gov.policy, tech.ai, dpi.id, dpi.exchange, dpi.govtech, tech.innovate, digital.rural, infra.store]
 entities: [[ministry-of-digital-transition-cote-divoire], [ivortech], [cyber-africa-forum]]
 lens: []
+body_completeness: full
 ---
 
 By Faith Omoniyi. 1st Jul, 2025.

@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: initiative
 title: Orange Sat (Côte d'Ivoire satellite internet)
 places: [CIV]

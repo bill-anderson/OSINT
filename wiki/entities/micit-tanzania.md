@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: government-body
 title: Ministry of Information, Communication and Information Technology (MICIT), Tanzania
 places: [TZA]

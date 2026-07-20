@@ -6,12 +6,14 @@ publisher: Telecom Review Africa
 published: 2025-05-06
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 places: [DZA]
 topics: [infra.connect, tech.ai, digital.rural, include.access, include.divides, capacity.training]
 entities: [[ooredoo-algeria], [roni-tohme]]
 lens: []
+body_completeness: full
 ---
 
 In an exclusive interview with Telecom Review Africa, Roni Tohme, CEO of Ooredoo Algeria, delved into the milestones that have shaped the company's remarkable journey from its early days as Nedjma to becoming a technology-driven telecom leader under the Ooredoo brand.

@@ -4,11 +4,14 @@ title: "Africa's $240 Billion Mobile Economy: A Checkpoint on Africa's Digital T
 url: https://techafricanews.com/2026/06/18/africas-240-billion-mobile-economy-a-checkpoint-on-africas-digital-transformation-journey/
 publisher: Tech Africa News
 published: 2026-06-18
+date_precision: day
+date_source: source
 ingested: 2026-07-10
 places: [XAF, XSS]
 topics: [infra.connect, include.divides, include.access, tech.ai, gov.policy, dpi.pay]
 entities: [[gsma], [mtn-group], [airtel-africa], [safaricom], [vodacom], [gates-foundation], [google]]
 lens: [sovereignty, colonialism]
+body_completeness: full
 ---
 
 ## #TechTalkThursday

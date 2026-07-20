@@ -13,6 +13,7 @@ places: [MRT]
 topics: [finance.mou, geopol.gulf, infra.cybersec, gov.policy]
 entities: [[islamic-development-bank], [mtnima-mauritania], [digital-y]]
 lens: []
+body_completeness: full
 ---
 
 # Mauritania–IsDB $50 million digital-transformation financing (principle agreement)

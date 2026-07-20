@@ -13,6 +13,7 @@ places: [SEN]
 topics: [infra.cybersec, gov.protect, gov.policy]
 entities: [[new-deal-technologique]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- We Are Tech (Ecofin), 15 Jul 2026 (event 13 Jul). Senegal launched public-private cooperation to protect

@@ -3,6 +3,7 @@ type: source
 title: Why 2026 is the year of accountability for data controllers and processors
 url: https://www.newtimes.co.rw/article/32861/opinions/why-2026-is-the-year-of-accountability-for-data-controllers-and-processors
 publisher: The New Times
+ingested: 2026-07-19
 author: Jean-Claude Nshimiyimana
 published: 2026-01-26
 date_precision: day

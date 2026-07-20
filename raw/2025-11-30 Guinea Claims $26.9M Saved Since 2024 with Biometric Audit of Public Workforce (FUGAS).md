@@ -13,6 +13,7 @@ places: [GIN]
 topics: [dpi.id, dpi.govtech, gov.policy]
 entities: [[fugas], [simandou-2040]]
 lens: []
+body_completeness: full
 ---
 
 <!-- FUGAS (unified administrative + payroll management system, live July 2024) saved 233bn GNF ($26.9m): of 277,000 registered contract staff/civil servants, only ~130,000 confirmed after biometric checks. Cost ~60bn GNF. Presented in Conakry by PM Amadou Oury Bah. PM: system "must integrate a unique personal identification number." Part of Simandou 2040; complements TELEMO, national Data Center, Guinea Telecoms. ~20,000 employees to change grade. Dedup with 2025-12-03 Biometric Update. -->

@@ -1,6 +1,7 @@
 ---
 type: source
 title: "أكثر من 64 ألف مشترك.. الذكاء الاصطناعي يتصدر اختيارات برنامج \"7.77\""
+ingested: 2026-07-18
 title_en: National Digital Empowerment programme "7.77" (Post & Telecoms Ministry) draws 64,508 enrollees across all 58 wilayas — AI top specialty (30%); 80.4% choose distance learning; detailed age/geography/language breakdown
 url: https://www.echoroukonline.com/%D8%A3%D9%83%D8%AB%D8%B1-%D9%85%D9%86-64-%D8%A3%D9%84%D9%81-%D9%85%D8%B4%D8%AA%D8%B1%D9%83-%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D9%8A%D8%AA
 publisher: Echorouk El Yawmi
@@ -15,6 +16,7 @@ places: [DZA]
 topics: [capacity.training, tech.ai, capacity.literacy, include.divides]
 entities: [[ministere-de-la-poste-et-des-telecommunications, national-digital-empowerment-programme]]
 lens: []
+body_completeness: full
 provenance_flag: privately-owned
 ---
 

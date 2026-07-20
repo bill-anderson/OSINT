@@ -13,6 +13,7 @@ places: [KEN]
 topics: [dpi.pay, dpi.exchange, gov.regional]
 entities: [[pesalink], [papss], [afreximbank]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Afreximbank primary (Nairobi, 26 Feb 2026): Pesalink (Kenya's de facto instant payment network) partnered with PAPSS for instant 24/7 cross-border payments from PAPSS participants into Kenyan banks/MMOs on Pesalink, settled in local currencies (cutting correspondent banking + FX-reserve reliance). Pesalink = Technical Connectivity Provider linking 80+ Kenyan banks/fintechs/SACCOs/telcos to 160+ PAPSS banks. PAPSS CEO Mike Ogbalu III: Pesalink first switch piloted for transaction termination in Kenya. Pesalink CEO Gituku Kirika. PAPSS = Afreximbank + AU + AfCFTA. 2023 WB: cross-African remittance ~7-8%. Pesalink operated by IPSL (Kenya Bankers Association). Corroborates the hub's Pesalink-PAPSS thread. -->

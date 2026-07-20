@@ -1,10 +1,13 @@
 ---
 type: source
+ingested: 2026-07-17
 places: [NGA]
 topics: [dpi.exchange, dpi.id]
 entities: [[nitda], [ngdx], [kashifu-inuwa]]
 date_precision: day
 date_source: source
+lens: []
+body_completeness: full
 page: Nigeria to Launch NGDX, Unified Data Exchange by End of This Year - Nigerian CommunicationWeek
 title: Nigeria to Launch NGDX, Unified Data Exchange by End of This Year
 author: Ebere Melum-Nwogbo

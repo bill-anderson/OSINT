@@ -3,6 +3,7 @@ type: source
 title: New Data Commission tightens compliance oversight
 url: https://www.mmegi.bw/business/new-data-commission-tightens-compliance-oversight/news
 publisher: Mmegi
+ingested: 2026-07-18
 author: Pauline Dikuelo
 published: 2026-02-11
 date_precision: day
@@ -13,6 +14,7 @@ places: [BWA]
 topics: [gov.protect, gov.legislate, dpi.pay]
 entities: [[information-and-data-protection-commission-botswana], [kepaletswe-somolekae]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # New Data Commission tightens compliance oversight

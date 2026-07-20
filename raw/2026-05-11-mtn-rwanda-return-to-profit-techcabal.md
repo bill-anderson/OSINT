@@ -3,6 +3,8 @@ type: source
 title: Data and fintech power MTN Rwanda's return to profitability
 url: https://techcabal.com/2026/05/11/data-and-fintech-power-mtn-rwandas-return-to-profitability/
 publisher: TechCabal
+ingested: 2026-07-19
+lens: []
 author: Frank Eleanya
 published: 2026-05-11
 date_precision: day

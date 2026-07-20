@@ -6,12 +6,14 @@ publisher: Fraternité Matin
 published: 2026-07-02
 date_precision: day
 date_source: proxy
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [gov.protect, gov.standards]
 entities: [[artci], [bmi-wfs], [oneci], [certinum]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Protection des données à caractère personnel : Certinum entre en service pour accélérer la conformité numérique en Côte d'Ivoire

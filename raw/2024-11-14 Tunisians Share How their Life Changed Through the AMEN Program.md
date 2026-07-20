@@ -10,6 +10,8 @@ ingested: 2026-07-17
 places: [TUN]
 topics: [dpi.registry, dpi.pay, include.access, include.divides, data.statistics, finance.new]
 entities: [[amen-program-tunisia], [ministry-of-social-affairs-tunisia], [world-bank]]
+lens: []
+body_completeness: full
 ---
 
 *World Bank first-party feature on a programme it funds; promotional register, capture is not endorsement. Adjacent to but NOT established as the same platform as the Subsidies Compensation Platform that Access Now alleges skipped data-protection impact assessments — do not merge without evidence.*

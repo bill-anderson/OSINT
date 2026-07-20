@@ -13,6 +13,7 @@ places: [GMB]
 topics: [digital.localgov, dpi.registry, data.satellite]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 <!-- LoGRI Policy Brief 11 (Dec 2025): step-by-step guide to a digital addressing system, drawing on Kanifing Municipality (the most densely populated area in The Gambia). Jul 2021–Feb 2022: implemented a Plus Code digital addressing system for 500,000 residents; georeferenced 36,000 properties, created a municipal address database, installed address boards. Kanifing Municipal Council uses it to improve waste management + property-tax collection. Frames digital addressing as a public good for city management, policy targeting, emergency response. -->

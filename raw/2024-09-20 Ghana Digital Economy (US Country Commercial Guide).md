@@ -13,6 +13,7 @@ places: [GHA]
 topics: [gov.policy, dpi.pay, infra.store, dpi.govtech, gov.protect, infra.cybersec, tech.industry, infra.connect]
 entities: [[bank-of-ghana], [national-communications-authority-ghana], [data-protection-commission-ghana]]
 lens: []
+body_completeness: full
 ---
 
 <!-- US Country Commercial Guide backgrounder (last published 2024-09-20). Institutional map: MoCD directs comms policy; agencies NITA, NCA, GIFEC, CSA, DPC. BoG runs payments/GhIPSS. ICT4AD (2003), Electronic Transactions Act (2008), draft Startup Law. Ghana 15/47 Africa on 2024 ICT Development Index; >135% mobile penetration; only Tier IV DC in West Africa. Reference figures — cite, don't absorb. -->

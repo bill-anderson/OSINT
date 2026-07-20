@@ -3,6 +3,9 @@ type: source
 title: Benin launches 2025 Digital Week to advance innovation and AI-driven entrepreneurship
 url: https://techreviewafrica.com/news/3346/benin-launches-2025-digital-week-to-advance-innovation-and-ai-driven-entrepreneurship
 publisher: Tech Review Africa
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Nana Appiah Acquaye
 published: 2025-12-03
 date_precision: day

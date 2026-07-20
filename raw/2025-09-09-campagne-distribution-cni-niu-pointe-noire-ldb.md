@@ -3,6 +3,7 @@ type: source
 title: "Administration : lancement de la campagne de distribution de proximité des CNI et NIU"
 url: https://www.adiac-congo.com/content/administration-lancement-de-la-campagne-de-distribution-de-proximite-des-cni-et-niu-166913
 publisher: Les Dépêches de Brazzaville (ADIAC)
+ingested: 2026-07-18
 author: Séverin Ibara
 published: 2025-09-09
 date_precision: day
@@ -13,6 +14,7 @@ places: [COG]
 topics: [dpi.id, dpi.registry, include.access, digital.localgov]
 entities: [[niu-congo]]
 lens: []
+body_completeness: full
 provenance_flag: state-aligned-outlet
 ---
 

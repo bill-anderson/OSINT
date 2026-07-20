@@ -3,6 +3,8 @@ type: source
 title: "Tanzania's GovTech success raises bar for East Africa's digital states"
 publisher: Daily Monitor
 url: https://www.monitor.co.ug/uganda/news/national/tanzania-s-govtech-success
+date_precision: day
+date_source: source
 author: Deogratius Wamala
 published: 2026-01-26
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [TZA, UGA, KEN, RWA, EGY, XEA]
 topics: [dpi.govtech, dpi.exchange, gov.standards, dpi.id, dpi.pay]
 entities: [[gtmi], [world-bank]]
 lens: []
+body_completeness: full
 ---
 
 <!-- 2025 World Bank GovTech Maturity Index (GTMI) places Tanzania in Group A ('Extensive'), with Kenya, Rwanda, Uganda, Egypt. GTMI = 48 indicators / 4 pillars. Tanzania systems: GovESB (data-exchange), HCIMS, Ajira Portal, NeST procurement, GePG payments. Digital citizen engagement lags region-wide. -->

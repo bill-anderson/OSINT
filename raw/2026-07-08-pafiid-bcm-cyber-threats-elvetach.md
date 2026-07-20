@@ -13,6 +13,7 @@ places: [MRT]
 topics: [infra.cybersec, dpi.pay]
 entities: [[central-bank-mauritania], [pafiid]]
 lens: []
+body_completeness: full
 provenance_flag: off-assigned-host
 ---
 

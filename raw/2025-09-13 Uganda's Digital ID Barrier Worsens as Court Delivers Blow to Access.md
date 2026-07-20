@@ -12,6 +12,7 @@ places: [UGA]
 topics: [dpi.id, gov.protect, gov.legislate, include.divides, include.access, digital.rural, dpi.govtech]
 entities: [[iser-uganda], [nira-uganda], [cipesa], [registration-of-persons-act-2015], [sage-uganda], [ndaga-muntu]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 *Named ADVOCACY ANALYSIS of a real cited judgment — attribute as such; the judgment itself is the primary and is not held. Case: Initiative for Social and Economic Rights (ISER) & 2 Others v Attorney General & NIRA, HCT-00-CV-MC-0066-2022, High Court of Uganda, dismissed 10 June 2025. The Court held Uganda's ID system 'is not digital because it operates primarily offline' and that the deponents 'appear to me to be few and isolated cases'. The author's 18 million / ~40% unregistered estimate carries NO cited source — that is itself the finding. See reviews/contradictions/open/uganda-unregistered-population.*

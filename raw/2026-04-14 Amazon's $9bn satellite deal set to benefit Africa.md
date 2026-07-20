@@ -3,6 +3,8 @@ type: source
 title: "Amazon's $9bn satellite deal set to benefit Africa"
 publisher: ITWeb Africa
 url: https://itweb.africa/article/amazons-9bn-satellite-deal-set-to-benefit-africa/kLgB17ezwwgM59N4
+date_precision: day
+date_source: source
 author: Phathisani Moyo
 published: 2026-04-14
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [ZAF, RWA, MOZ, GAB, NGA, KEN]
 topics: [infra.connect, geopol.usa, finance.new, digital.rural]
 entities: [[amazon-web-services], [globalstar], [amazon-globalstar-acquisition], [starlink]]
 lens: [sovereignty]
+body_completeness: excerpt
 ---
 
 <!-- Amazon in advanced talks to buy Globalstar for ~$9bn to accelerate Project Kuiper ('Leo') vs Starlink (per FT). Apple holds 20% of Globalstar. Kuiper ~180 satellites vs Starlink's 7,000+. Globalstar holds spectrum/partnerships in ZAF/RWA/MOZ/GAB. Deal not finalised (as of 2026-04-14); 'benefit Africa' is speculative. -->

@@ -3,6 +3,9 @@ type: source
 title: "Intelligence artificielle : Quelles applications réelles pour des PME ?"
 url: https://leconomie.info/intelligence-artificielle-quelles-applications-reelles-pour-des-pme/
 publisher: Le quotidien L'Economie
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Patrice Nzukou Wakam
 published: 2025-02-18
 date_precision: day

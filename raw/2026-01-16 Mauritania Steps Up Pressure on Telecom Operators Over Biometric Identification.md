@@ -13,6 +13,7 @@ places: [MRT]
 topics: [dpi.id, gov.legislate, gov.protect, infra.cybersec]
 entities: [[are-mauritania]]
 lens: []
+body_completeness: full
 ---
 
 Mauritania's Telecommunications Regulatory Authority (ARE) announced on 15 January 2026 that it issued formal notices to telecom operators Mattel, Mauritel and Chinguitel over failures in subscriber-identification procedures found during inspections. Operators were given a two-month deadline before sanctions.

@@ -6,12 +6,14 @@ publisher: TechAfrica News
 published: 2026-02-16
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CPV-2026-07-17
 places: [CPV]
 topics: [infra.connect, gov.policy]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 # Cape Verde Launches National 5G Strategy to Accelerate Digital Nation Vision

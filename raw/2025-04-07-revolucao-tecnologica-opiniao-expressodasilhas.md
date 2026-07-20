@@ -6,10 +6,12 @@ publisher: Expresso das Ilhas
 published: 2025-04-07
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [CPV]
 topics: [gov.policy, tech.ai, gov.protect, gov.legislate]
 entities: [[gov-cv]]
 lens: [sovereignty]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: CPV-2026-07-17
 ---

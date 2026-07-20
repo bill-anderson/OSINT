@@ -6,10 +6,12 @@ publisher: La Nation (Djibouti)
 published: 2025-07-13
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [DJI]
 topics: [gov.legislate, gov.protect, infra.cybersec, gov.policy, dpi.govtech]
 entities: [[djibouti-digital-code], [cndp-djibouti], [mariam-hamadou-ali]]
 lens: [sovereignty]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: DJI-2026-07-17
 ---

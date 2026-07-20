@@ -3,6 +3,8 @@ type: source
 title: "Malawi integrates immigration e-services"
 publisher: ITWeb Africa
 url: https://itweb.africa/article/malawi-integrates-immigration-e-services/Olx4z7kaxp3q56km
+date_precision: day
+date_source: source
 author: Benson Kunchezera
 published: 2026-07-07
 accessed: 2026-07-10
@@ -11,6 +13,7 @@ places: [MWI]
 topics: [dpi.govtech, dpi.exchange, dpi.id, infra.store, gov.protect, finance.new]
 entities: [[dmap], [world-bank]]
 lens: [sovereignty, colonialism]
+body_completeness: excerpt
 ---
 
 <!-- On-the-record reporting of an e-government integration under the World Bank-funded

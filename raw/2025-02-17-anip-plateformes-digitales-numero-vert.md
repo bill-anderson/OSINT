@@ -3,6 +3,7 @@ type: source
 title: "Obtention des pièces d'identification des personnes: L'Anip lance de nouvelles plateformes digitales et un numéro vert"
 url: https://lanation.bj/actualites/obtention-des-pieces-didentification-des-personnes-lanip-lance-de-nouvelles-plateformes-digitales-et-un-numero-vert
 publisher: La Nation
+ingested: 2026-07-18
 author: Arnaud DOUMANHOUN
 published: 2025-02-17
 date_precision: day
@@ -13,6 +14,7 @@ places: [BEN]
 topics: [dpi.id, dpi.registry, dpi.govtech, include.access, tech.ai]
 entities: [[anip-benin], [aristide-adjinacou-gnahoui], [wuri], [world-bank]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Obtention des pièces d'identification des personnes: L'Anip lance de nouvelles plateformes digitales et un numéro vert

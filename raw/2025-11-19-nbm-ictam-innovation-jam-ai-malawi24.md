@@ -6,6 +6,7 @@ publisher: Malawi24
 published: 2025-11-19
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [MWI]
 topics: [tech.innovate, tech.ai, finance.mou]
 entities: []

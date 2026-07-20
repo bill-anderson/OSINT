@@ -3,6 +3,9 @@ type: source
 title: "Burkina Faso: Orange Money Enhances Services with New Platform"
 url: https://www.wearetech.africa/en/fils-uk/news/telecom/burkina-faso-orange-money-enhances-services-with-new-platform
 publisher: We Are Tech Africa
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Samira Njoya
 published: 2025-03-06
 date_precision: day

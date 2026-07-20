@@ -6,6 +6,7 @@ publisher: Togo First
 published: 2026-06-25
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [TGO]
 topics: [gov.protect, capacity.training]
 entities: [[ipdcp-togo]]

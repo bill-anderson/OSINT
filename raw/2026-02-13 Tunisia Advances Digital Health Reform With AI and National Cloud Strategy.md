@@ -12,6 +12,7 @@ places: [TUN]
 topics: [infra.store, tech.ai, infra.connect, dpi.exchange, gov.protect, digital.rural]
 entities: [[tunisie-telecom], [ministry-of-health-tunisia], [digital-hospital-project-tunisia]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 *Reports stated plans and intentions only — no amounts, no dates, no named agreement, no 'as of' figures. No body dateline; date rests on frontmatter. Names 'Assad bin Dyab' as Tunisie Telecom president/GM; the wiki records 'Lassaad Ben Dhiab' as CEO one month earlier — near-certainly the same person under different transliterations, but not established. See ISSUE-006.*

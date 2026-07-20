@@ -6,6 +6,7 @@ publisher: TechAfrica News
 published: 2026-03-12
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [NGA]
 topics: [dpi.pay, infra.cybersec, gov.standards]
 entities: [[central-bank-of-nigeria]]

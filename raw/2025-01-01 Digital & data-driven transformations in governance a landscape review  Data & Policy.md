@@ -3,6 +3,7 @@ type: source
 title: "Digital & data-driven transformations in governance: a landscape review | Data & Policy"
 publisher: Data & Policy (Cambridge University Press)
 url: https://www.cambridge.org/core/journals/data-and-policy/article/digital-datadriven-transformations-in-governance-a-landscape-review/3FF50FF12E9F4694AFA7D5471FE74F5C
+date_source: source
 author: Sarah Giest; Keegan McBride; Anastasija Nikiforova; Sujit Kumar Sikder
 published: 2025
 date_precision: year

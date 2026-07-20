@@ -6,12 +6,14 @@ publisher: TechCabal
 published: 2026-02-24
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 places: [DZA, XNA]
 topics: [dpi.pay, tech.innovate, finance.new]
 entities: [[vaulfi], [safa-korti], [karim-khattaby]]
 lens: []
+body_completeness: full
 ---
 
 # Why VaulFi is building a stablecoin-powered super app for North Africa

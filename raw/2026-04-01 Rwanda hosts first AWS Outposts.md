@@ -2,6 +2,7 @@
 type: source
 title: "Rwanda hosts first AWS Outposts deployment in region"
 publisher: TechReview Africa
+date_source: source
 author: Nana Appiah Acquaye
 url: https://techreviewafrica.com/news/5128/rwanda-hosts-first-aws-outposts-deployment-in-region
 published: 2026-04
@@ -12,6 +13,7 @@ places: [RWA]
 topics: [infra.store, infra.capacity, tech.ai, dpi.govtech, gov.protect]
 entities: [[aws-outposts-rwanda], [amazon-web-services], [sand-technologies]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Same event as the Montjalinews piece (attach both to [[aws-outposts-rwanda]]). Adds: "third

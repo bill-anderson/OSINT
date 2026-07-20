@@ -3,6 +3,9 @@ type: source
 title: Finance Ministry bets P8.8bn on digital discipline
 url: https://www.sundaystandard.info/finance-ministry-bets-p8-8bn-on-digital-discipline/
 publisher: Sunday Standard
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Cedric Swanka
 published: 2025-11-03
 date_precision: day

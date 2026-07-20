@@ -3,6 +3,8 @@ type: source
 title: "THE GATEKEEPERS PART V: The New Maps of Africa"
 publisher: alicemunyua.substack.com (Gatekeepers series)
 url: https://alicemunyua.substack.com/p/the-gatekeepers-part-v-the-new-maps
+date_precision: day
+date_source: source
 author: Alice Munyua
 published: 2025-12-15
 accessed: 2026-07-12
@@ -11,6 +13,7 @@ places: [KEN]
 topics: [gov.protect, geopol.usa, tech.ai, dpi.mis]
 entities: [[alice-munyua], [us-kenya-health-framework], [america-first-global-health-strategy], [specimen-sharing-agreement], [odpc-kenya]]
 lens: [sovereignty, colonialism]
+body_completeness: full
 ---
 
 <!-- Munyua: structural "data-colonialism / new scramble" read of the early-Dec-2025 Kenya–US Health Cooperation Framework (25 yrs of health-data/pathogen/genetic access for 5 yrs of funding; Art 3(f) benefit-sharing TBD; Art 5(g) no intl-law obligations), read alongside the Trump National Security Strategy. Same framework as Zuria Nagadya's litigation piece [[2026-06-08 Kenyan Citizens Took A $2.5 Billion Deal With America To Court To Fight For Their Health Data]] — complementary, do not spawn parallel event pages. Attach: us-kenya-health-framework, kenya--gov-protect. External expert analysis. -->

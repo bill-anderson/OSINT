@@ -6,12 +6,14 @@ publisher: Fraternité Matin
 published: 2025-08-05
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [include.access, include.divides, infra.connect]
 entities: [[ansut], [ministere-de-la-transition-numerique-et-de-la-digitalisation-cote-divoire], [programme-national-de-connectivite-rurale]]
 lens: []
+body_completeness: full
 ---
 
 # Service universel des télécommunications : Vers une inclusion numérique totale en Côte d'Ivoire grâce à l'Ansut

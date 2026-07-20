@@ -3,6 +3,9 @@ type: source
 title: "Commerce extérieur : Le Cameroun se dote d'un outil de paiement douanier digital"
 url: https://leconomie.info/commerce-exterieur-le-cameroun-se-dote-dun-outil-de-paiement-douanier-digital/
 publisher: Le quotidien L'Economie
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Francois Gael Mbala
 published: 2026-03-30
 date_precision: day

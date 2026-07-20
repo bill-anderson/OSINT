@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: organisation
 title: Payments Association of Zambia (PAYZ)
 places: [ZMB]

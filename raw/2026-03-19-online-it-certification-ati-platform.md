@@ -3,6 +3,9 @@ type: source
 title: Burkina Faso Advances Digital Transformation with Online IT Certification System
 url: https://techafricanews.com/2026/03/19/burkina-faso-advances-digital-transformation-with-online-it-certification-system/
 publisher: TechAfrica News
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Kay-Lyne Wolfenden
 published: 2026-03-19
 date_precision: day

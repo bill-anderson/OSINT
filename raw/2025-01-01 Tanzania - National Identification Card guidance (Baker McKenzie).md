@@ -3,6 +3,8 @@ type: source
 title: Tanzania - National Identification Card (Baker McKenzie guidance)
 url: https://iamhere.bakermckenzie.com/en/pages/tanzania
 publisher: Baker McKenzie
+lens: []
+body_completeness: full
 author: Baker McKenzie
 published: 2025-01-01
 date_precision: year

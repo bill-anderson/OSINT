@@ -3,6 +3,8 @@ type: source
 title: "Vodacom Group to take controlling stake in Safaricom"
 publisher: Connecting Africa
 url: https://www.connectingafrica.com/investment/vodacom-group-to-take-controlling-stake-in-safaricom
+date_precision: day
+date_source: source
 author: Paula Gilbert
 published: 2025-12-04
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [KEN, ZAF, ETH]
 topics: [finance.new, infra.connect, dpi.pay]
 entities: [[vodacom-safaricom-stake-deal], [vodacom], [safaricom]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Vodacom to raise its Safaricom stake 35%->55% via a $2.1bn deal (buying 15% from the Kenyan government + 5% from Vodafone at KES 34/share); needs approvals in Kenya/Ethiopia/SA; Kenya retains 20% + board seats. Full consolidation lifts Vodacom Group revenue toward R220bn ($12.9bn). Deal [[vodacom-safaricom-stake-deal]]. -->

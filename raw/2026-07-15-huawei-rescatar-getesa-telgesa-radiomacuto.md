@@ -6,12 +6,14 @@ publisher: RadioMacuto
 published: 2026-07-15
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: GNQ-2026-07-17
 places: [GNQ]
 topics: [infra.connect, tech.industry]
 entities: [[getesa], [huawei]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 Independent/critical outlet's account of the GETESA–Huawei contract (signed 9 July 2026, Jefatura de Estado) to modernise the deteriorated GETESA network over six months. RadioMacuto notes the government disclosed neither the contract's value, financing, nor the procedure used to select Huawei, nor concrete evaluation targets.

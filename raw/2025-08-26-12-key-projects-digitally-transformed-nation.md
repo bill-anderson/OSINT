@@ -3,6 +3,7 @@ type: source
 title: Burkina Faso Outlines 12 Key Projects for a Digitally Transformed Nation
 url: https://techafricanews.com/2025/08/26/burkina-faso-outlines-12-key-projects-for-a-digitally-transformed-nation/
 publisher: TechAfrica News
+ingested: 2026-07-18
 author: Kay-Lyne Wolfenden
 published: 2025-08-26
 date_precision: day
@@ -13,6 +14,7 @@ places: [BFA]
 topics: [gov.policy, tech.ai, dpi.id, capacity.literacy]
 entities: [[rimtalba-jean-emmanuel-ouedraogo], [ibrahim-traore], [ministry-of-digital-transition-burkina-faso]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Burkina Faso Outlines 12 Key Projects for a Digitally Transformed Nation

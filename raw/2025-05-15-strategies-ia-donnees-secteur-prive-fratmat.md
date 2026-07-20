@@ -6,12 +6,14 @@ publisher: Fraternité Matin
 published: 2025-05-15
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [tech.ai, gov.policy, data.open]
 entities: [[cgeci]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Stratégies nationales de l'IA et de la gouvernance des données: Les deux outils présentés au secteur privé

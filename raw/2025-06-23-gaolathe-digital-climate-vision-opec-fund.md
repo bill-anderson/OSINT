@@ -3,6 +3,9 @@ type: source
 title: Gaolathe makes bold case for Botswana's digital and climate vision
 url: https://www.sundaystandard.info/gaolathe-makes-bold-case-for-botswanas-digital-and-climate-vision/
 publisher: Sunday Standard
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Thobo Motlhoka
 published: 2025-06-23
 date_precision: day

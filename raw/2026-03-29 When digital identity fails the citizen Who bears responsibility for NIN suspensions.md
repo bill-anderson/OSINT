@@ -3,6 +3,8 @@ type: source
 title: "When digital identity fails the citizen: Who bears responsibility for NIN suspensions"
 publisher: The Nation (Nigeria)
 url: https://thenationonlineng.net/when-digital-identity-fails-the-citizen/
+date_precision: day
+date_source: source
 author: Olanrewaju M. Lassise-Phillips
 published: 2026-03-29
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [NGA]
 topics: [dpi.id, gov.protect, gov.legislate, include.access]
 entities: [[nimc], [nigeria-id4d]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Op-ed: validly issued NINs suspended over enrolment-centre 'bypass', with reinstatement fees shifted to citizens; NIN now compulsory for banking/telecom/tax. Argues regulatory failure is upstream and monetised remediation erodes trust. External commentary (tag as analysis). -->

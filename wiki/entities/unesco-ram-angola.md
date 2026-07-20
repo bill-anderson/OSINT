@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: instrument
 title: UNESCO AI Readiness Assessment (RAM) — Angola
 places: [AGO]

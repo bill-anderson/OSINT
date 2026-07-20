@@ -13,6 +13,7 @@ places: [BFA]
 topics: [dpi.registry, dpi.govtech]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 <!-- Ministry of Economy & Finance (Mar 2025): official launch (21 Mar 2025, under PM Ouédraogo) of SYC@D — Système Intégré de Gestion du Cadastre et des Domaines — at https://sif.bf. Modernises land/cadastral/domain procedures: tax and land administration can securely and quickly process and issue land-occupation titles; users can request plot allocation, obtain a cadastral extract, and receive provisional/definitive transfer orders online. Ministers: Aboubakar Nacanabo (Finance), Mikaïlou Sidibé (Urbanism/Housing). The land-registry pillar of BFA's govtech stack. -->

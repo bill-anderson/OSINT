@@ -6,6 +6,7 @@ publisher: Togo First
 published: 2026-04-02
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [TGO]
 topics: [dpi.govtech, infra.cybersec, capacity.training]
 entities: [[cina-lawson], [agence-togo-digital]]

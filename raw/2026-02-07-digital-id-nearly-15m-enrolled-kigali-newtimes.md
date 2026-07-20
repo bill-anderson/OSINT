@@ -3,6 +3,8 @@ type: source
 title: Digital ID: Nearly 1.5m enrolled, registration reaches Kigali
 url: https://www.newtimes.co.rw/article/33156/news/technology/digital-id-nearly-15m-enrolled-registration-reaches-kigali
 publisher: The New Times
+ingested: 2026-07-19
+lens: []
 author: Emmanuel Ntirenganya
 published: 2026-02-07
 date_precision: day

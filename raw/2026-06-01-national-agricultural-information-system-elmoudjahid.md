@@ -1,6 +1,7 @@
 ---
 type: source
 title: "Le secteur se dote d'un système national d'information intégré : L'agriculture fait sa mue numérique"
+ingested: 2026-07-18
 title_en: Agriculture Ministry launches National Agricultural Information System — unified data collection/analysis for decision support; first module tracks the harvest campaign; planned national farm register and agricultural land register
 url: https://www.elmoudjahid.dz/fr/actualite/le-secteur-se-dote-d-un-systeme-national-d-information-integre-l-agriculture-fait-sa-mue-numerique-254754
 publisher: El Moudjahid
@@ -16,7 +17,7 @@ topics: [dpi.mis, dpi.registry, digital.rural, data.statistics]
 entities: [[ministere-de-lagriculture, office-algerien-interprofessionnel-des-cereales]]
 lens: []
 provenance_flag: state-media
-body_completeness: clipped-at-fetch
+body_completeness: excerpt
 ---
 
 # L'agriculture fait sa mue numérique : un système national d'information intégré

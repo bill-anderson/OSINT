@@ -3,6 +3,8 @@ type: source
 title: "Ethiopia's approach to use cases shows how to ground data governance in real-world priorities"
 publisher: Digital Impact Alliance (DIAL)
 url: https://dial.global/ethiopias-approach-to-use-cases/
+date_precision: day
+date_source: source
 author: DIAL
 published: 2026-03-04
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [ETH]
 topics: [gov.policy, dpi.exchange, data.statistics, include.divides, tech.ai]
 entities: [[dial], [fayda-ethiopia-national-id]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- DIAL analysis: Ethiopia's first National Data Governance Strategy grounded in use cases. Health = >70 siloed platforms / >200 pilots -> a multi-tenant EMR interoperability pilot; agriculture = AI advisory + farmer credit; Fayda a cross-cutting enabler. Cites GSMA: Ethiopia rural mobile-internet gender gap 81% vs urban 29%. -->

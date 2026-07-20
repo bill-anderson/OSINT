@@ -13,6 +13,7 @@ places: [MWI]
 topics: [digital.rural, include.access]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 Peer-reviewed empirical study (mixed-methods, exploratory sequential design; 432 household-survey respondents plus focus groups) of the factors affecting use of ICT for crime prevention and detection in community policing at the Muloza border area of Mulanje, Malawi. It finds mobile telephones are the dominant ICT and that police have essentially no dedicated ICT resources, relying on personal phones; regression identifies age, education, income, technical expertise, cost of access, and police–community trust as significant factors in ICT use.

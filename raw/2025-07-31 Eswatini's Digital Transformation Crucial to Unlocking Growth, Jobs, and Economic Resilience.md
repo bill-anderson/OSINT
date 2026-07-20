@@ -10,6 +10,8 @@ ingested: 2026-07-17
 places: [SWZ]
 topics: [gov.policy, infra.connect, dpi.id, dpi.pay, include.access, capacity.training, tech.innovate, digital.rural]
 entities: [[world-bank], [eswatini-economic-update-2025], [eptc], [satu-kahkonen]]
+lens: []
+body_completeness: full
 ---
 
 *Canonical primary for the 2025-07-31 Eswatini Economic Update launch (dateline MBABANE). Companion coverage: the World Bank publication page and the Biometric Update write-up, each carrying payload this page lacks.*

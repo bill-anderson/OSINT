@@ -13,6 +13,7 @@ places: [XAF]
 topics: [gov.regional, tech.ai, infra.connect, infra.cybersec]
 entities: [[african-union], [itu]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- TechReviewAfrica. AUC + ITU signed a cooperation MoU at the AI for Good Global Summit (Geneva),

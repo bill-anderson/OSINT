@@ -12,6 +12,7 @@ places: [NAM]
 topics: [infra.connect, digital.rural, data.statistics]
 entities: [[telecom-namibia]]
 lens: []
+body_completeness: full
 ---
 
 MICT Executive Director Audrin Mathe announced on 3 June 2025, during a visit to Telecom Namibia, that the government targets 100% telecoms coverage by 2030. Projects discussed with Telecom Namibia include an OSS/BSS management system, a fixed-mobile network core, fibre to the home (FTTX) and radio-access-network (RAN) extension, with emphasis on the Karas, Kavango West, Omaheke and Kunene regions. The rural push is backed by the Universal Service Fund (USF), launched in March 2024 with an initial N$145 million (~US$8 million) endowment.

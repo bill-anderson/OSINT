@@ -12,6 +12,7 @@ places: [XAF, ZAF]
 topics: [dpi.exchange, gov.regional, gov.policy, geopol.india, data.open]
 entities: [[odi-global], [afcfta-digital-trade-protocol]]
 lens: [sovereignty, colonialism]
+body_completeness: full
 ---
 
 # Digital Public Infrastructure at the G20: tensions, commitments and continuities | ODI: Think change

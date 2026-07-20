@@ -6,12 +6,14 @@ publisher: Fraternité Matin
 published: 2026-06-10
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [infra.cybersec, infra.capacity]
 entities: [[anssi-cote-divoire], [rn-rssi], [djibril-ouattara], [guelpetchin-ouattara]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Lutte contre la cybercriminalité : Le ministre Djibril Ouattara lance le réseau national des RSSI

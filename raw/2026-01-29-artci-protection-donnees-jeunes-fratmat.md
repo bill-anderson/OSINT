@@ -6,12 +6,14 @@ publisher: Fraternité Matin
 published: 2026-01-29
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [gov.protect, capacity.literacy]
 entities: [[artci], [injs]]
 lens: []
+body_completeness: full
 ---
 
 # Protection des données à caractère personnel : L'Artci rappelle leurs droits et devoirs à des milliers de jeunes

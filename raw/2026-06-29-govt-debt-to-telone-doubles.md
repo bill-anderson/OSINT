@@ -6,6 +6,7 @@ publisher: NewsDay
 published: 2026-06-29
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [ZWE]
 topics: [infra.connect, infra.store, finance.new]
 entities: [[telone], [starlink]]

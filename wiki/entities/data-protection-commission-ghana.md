@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: government-body
 title: Data Protection Commission (DPC, Ghana)
 places: [GHA]

@@ -13,6 +13,7 @@ places: [MDG]
 topics: [dpi.id, dpi.govtech, dpi.registry, gov.policy]
 entities: [[prodigy-madagascar], [world-bank]]
 lens: []
+body_completeness: full
 ---
 
 The World Bank Project Appraisal Document (PAD) for Madagascar's Digital Governance and Identification Management System Project (PRODIGY), the foundational document establishing the project. Financing of $140 million IDA plus a $3 million Global Financing Facility grant supports building digital public infrastructure — a consolidated, interoperable identity management system, digital and mobile government services, and project implementation support. This is the appraisal reference for the PRODIGY project profile; cite for scope, objectives and design rather than extracting dated figures.

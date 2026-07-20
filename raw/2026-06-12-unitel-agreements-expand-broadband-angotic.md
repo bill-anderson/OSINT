@@ -3,6 +3,8 @@ type: source
 title: Unitel Agreements Set to Expand Broadband and Strengthen Angola's Digital Infrastructure
 url: https://techafricanews.com/2026/06/12/unitel-agreements-set-to-expand-broadband-and-strengthen-angolas-digital-infrastructure/
 publisher: TechAfrica News
+lens: []
+body_completeness: full
 author: Akim Benamara
 published: 2026-06-12
 date_precision: day

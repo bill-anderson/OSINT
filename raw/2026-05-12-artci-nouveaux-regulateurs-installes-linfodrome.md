@@ -6,12 +6,14 @@ publisher: Linfodrome
 published: 2026-05-12
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [gov.legislate]
 entities: [[artci], [roger-felix-adom], [coty-souleymane-diakite], [lakoun-ouattara]]
 lens: []
+body_completeness: full
 ---
 
 # ARTCI : Les nouveaux régulateurs de l’Autorité de Régulation des TIC de Côte d’Ivoire officiellement installés

@@ -6,6 +6,7 @@ publisher: Daily News
 published: 2026-04-10
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [TZA]
 topics: [infra.connect, data.statistics, infra.store]
 entities: [[tcra], [nictbb]]

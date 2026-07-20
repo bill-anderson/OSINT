@@ -3,6 +3,8 @@ type: source
 title: Zimbabwe implements biometric border posts for automating immigration processes
 url: https://www.biometricupdate.com/202405/zimbabwe-implements-biometric-border-posts-for-automating-immigration-processes
 publisher: Biometric Update
+lens: []
+body_completeness: full
 author: Abhishek Jadhav
 published: 2024-05-15
 date_precision: day

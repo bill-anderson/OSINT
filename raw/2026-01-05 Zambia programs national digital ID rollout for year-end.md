@@ -12,6 +12,7 @@ places: [ZMB, ETH]
 topics: [dpi.id, dpi.govtech, finance.new, finance.mou, gov.regional, capacity.training, infra.connect, digital.rural, geopol.usa]
 entities: [[smart-zambia-institute], [dzap], [world-bank], [idea-mpa], [comesa], [tony-blair-institute], [undp]]
 lens: [sovereignty, colonialism]
+body_completeness: full
 ---
 
 *Converts a second-hand hyperlink into a first-hand cited source: the held 2026-03-24 MOSIP-integrator piece cites THIS URL for 'fully rolled out by the end of this year' without holding it. Supplies the IDEA Programme's numbers (~$2.48bn, 15 countries, eight years, COMESA-coordinated), which the wiki referenced via [[idea-mpa]] without figures. Chinyama's end-2026 target conflicts with Registrar General Chikalanga's end-2027 — see reviews/contradictions/open/zambia-digital-id-target. The line 'the World Bank has expressed satisfaction with the progress made, which may result in additional support' is the dependency dynamic stated plainly.*

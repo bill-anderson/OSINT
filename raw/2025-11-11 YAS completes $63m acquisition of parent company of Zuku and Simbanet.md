@@ -3,6 +3,8 @@ type: source
 title: YAS completes $63m acquisition of parent company of Zuku and Simbanet
 url: https://www.independent.co.ug/yas-completes-63m-acquisition-of-parent-company-of-zuku-and-simbanet
 publisher: The Independent (Uganda)
+lens: []
+body_completeness: full
 author: Julius Businge
 published: 2025-11-11
 date_precision: day

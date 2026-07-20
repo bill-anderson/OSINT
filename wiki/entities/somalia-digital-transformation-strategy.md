@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: instrument
 title: Somalia Digital Transformation Strategy 2025-2030
 places: [SOM]

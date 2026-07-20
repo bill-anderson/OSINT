@@ -3,6 +3,8 @@ type: source
 title: "Rwanda, China forge technology alliance"
 publisher: ITWeb Africa
 url: "https://itweb.africa/article/rwanda-china-forge-technology-alliance/KA3WwqdzGW67rydZ"
+date_precision: day
+date_source: source
 author: Phyllis Birori
 published: 2026-01-19
 accessed: 2026-07-12
@@ -11,6 +13,7 @@ places: [RWA]
 topics: [geopol.china, capacity.training, infra.connect]
 entities: []
 lens: [sovereignty]
+body_completeness: excerpt
 ---
 <!-- China's ambassador to Rwanda (Gao Wenqi) met senior officials "over the weekend" (as of 2026-01-19) to explore ICT/AI/digital-innovation cooperation, focused on smart education and school digital infrastructure. Exploratory only — NO binding deal, NO finance.mou (override #8). Min of state Yves Iradukunda (deferred, plain text). Attach: RWA hub, geopol.china. -->
 

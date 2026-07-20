@@ -13,6 +13,7 @@ places: [AGO]
 topics: [infra.connect, include.divides, digital.rural, tech.industry]
 entities: [[angosat-2]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 Angola has opened access to its national satellite, ANGOSAT-2, for commercial telecom operators to help expand internet coverage beyond fiber and mobile networks.

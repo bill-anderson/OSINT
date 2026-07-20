@@ -3,6 +3,8 @@ type: source
 title: "Sierra Leone partners with Bhutan, Sign on digital identity platform"
 publisher: Biometric Update
 url: https://www.biometricupdate.com/202607/sierra-leone-partners-with-bhutan-sign-on-digital-identity-platform
+date_precision: day
+date_source: source
 author: Joel R. McConvey
 published: 2026-07-08
 accessed: 2026-07-10
@@ -11,6 +13,7 @@ places: [SLE]
 topics: [dpi.id, gov.standards, capacity.training, finance.mou]
 entities: [[sierra-leone-digital-id-mou], [sign-foundation], [bhutan-ndi], [mosip]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- On-the-record reporting of a tri-party MoU (citing the Bhutan NDI first-party

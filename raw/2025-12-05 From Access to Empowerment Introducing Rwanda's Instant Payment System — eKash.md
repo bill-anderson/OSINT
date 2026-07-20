@@ -3,6 +3,8 @@ type: source
 title: "From Access to Empowerment: Introducing Rwanda's Instant Payment System — eKash"
 publisher: Digital Products Everyday (Promesse, Substack)
 url: https://promesse.substack.com/p/from-access-to-empowerment-introducing
+date_precision: day
+date_source: source
 author: Promesse D. Ishimwe
 published: 2025-12-05
 accessed: 2026-07-12
@@ -11,6 +13,7 @@ places: [RWA]
 topics: [dpi.pay, include.access]
 entities: [[ekash], [rswitch-rwanda], [national-bank-of-rwanda], [africanenda], [gates-foundation], [rwanda-information-society-authority]]
 lens: []
+body_completeness: full
 ---
 
 <!-- External expert analysis / INSIDER explainer. Author is an RSwitch/eKash insider (celebratory, promotional tone) — volume figures (P2P >30m txns/>160bn RWF since May 2022; P2M ~35,000 payments/>2bn RWF since Feb 2025) are project-stated, not independent. Marks official launch of Rwanda's instant/interoperable payment system eKash (powered by RSwitch) on 5 Dec 2025. Ishimwe attributed via author/publisher only (no person page; flag if a second Ishimwe piece appears). Attach: existing [[rswitch-rwanda]] (eKash is its product) + rwanda-dpi-strategy context; dpi.pay/include.access concepts; RWA hub. -->

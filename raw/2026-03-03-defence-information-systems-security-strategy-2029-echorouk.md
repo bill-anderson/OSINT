@@ -1,6 +1,7 @@
 ---
 type: source
 title: Ministry Of Defense Unveils Information Systems Security Strategy Until 2029
+ingested: 2026-07-18
 title_en: Defence Ministry unveils first National Information Systems Security Strategy (2025-2029)
 url: https://www.echoroukonline.com/ministry-of-defense-unveils-information-systems-security-strategy-until-2029
 publisher: Echorouk El Yawmi
@@ -14,6 +15,7 @@ places: [DZA]
 topics: [infra.cybersec, gov.policy, gov.legislate]
 entities: [[information-systems-security-agency, abdelmadjid-tebboune, national-information-systems-security-strategy]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Ministry Of Defense Unveils Information Systems Security Strategy Until 2029

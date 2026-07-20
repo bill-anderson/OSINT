@@ -6,12 +6,14 @@ publisher: MyJoyOnline
 published: 2026-07-09
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: GHA-2026-07-17
 places: [GHA]
 topics: [dpi.pay, include.access]
 entities: [[bank-of-ghana]]
 lens: []
+body_completeness: full
 ---
 # Mobile-money histories should unlock loans, insurance for informal workers – BoG fintech head
 

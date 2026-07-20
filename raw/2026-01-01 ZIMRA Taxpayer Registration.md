@@ -10,6 +10,8 @@ ingested: 2026-07-17
 places: [ZWE]
 topics: [dpi.govtech, dpi.registry, dpi.id, dpi.pay, dpi.exchange]
 entities: [[zimra], [tarms-zimbabwe]]
+lens: []
+body_completeness: full
 ---
 
 > **Date bracketed 2026-07-20 (reconcile pass): January 2026**, outer bound 2 Dec 2025 – 30 Jan 2026 —

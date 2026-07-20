@@ -3,6 +3,7 @@ type: source
 title: Chad Plans 50 Telecom Sites, 50 km of Fiber in N'Djamena
 url: https://www.ecofinagency.com/news-digital/1302-52879-chad-plans-50-telecom-sites-50-km-of-fiber-in-n-djamena
 publisher: Ecofin Agency
+lens: []
 author: Isaac K. Kassouwi
 published: 2026-02-13
 date_precision: day

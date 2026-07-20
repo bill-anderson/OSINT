@@ -3,6 +3,8 @@ type: source
 title: "China's DeepSeek gives US tech giants a run for their money as Microsoft and others expand AI push in Africa"
 publisher: Business Insider Africa
 url: https://africa.businessinsider.com/local/markets/chinas-deepseek-gives-us-tech-giants-a-run-for-their-money/
+date_precision: day
+date_source: source
 author: Olamilekan Okebiorun
 published: 2026-03-12
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [XAF, ZAF, KEN, ETH, ZWE, NGA, RWA, EGY, MAR]
 topics: [tech.ai, geopol.china, geopol.usa, capacity.training, infra.store, infra.energy]
 entities: [[microsoft], [mtn-group], [anthropic], [openai], [google], [gates-foundation], [cassava-technologies], [nvidia], [deepseek]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Aggregative but citing primaries: Microsoft to train 3m Africans in AI by 2026; MTN partnership to push M365/Copilot to ~300m subscribers; DeepSeek = 11-14% of African chatbot usage (~20% in Ethiopia & Zimbabwe); Gates+OpenAI $50m health-AI (Jan 2026); Anthropic-Rwanda MoU; Nvidia+Cassava ~$700m DCs. Verify figures against underlying primaries. -->

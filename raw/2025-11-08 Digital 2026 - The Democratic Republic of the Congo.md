@@ -13,6 +13,7 @@ places: [COD]
 topics: [infra.connect, include.divides]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 <!-- DataReportal Digital 2026 DRC (published end-2025, data to Oct 2025): 64.7m cellular mobile connections at end-2025 = 56.9% of population (+4.7m / +7.8% y/y); GSMA Intelligence: 79.6% are "broadband" (3G/4G/5G). Standing connectivity/inclusion baseline for the DRC — mobile-heavy, low fixed/internet penetration (<10% per US ITA). -->

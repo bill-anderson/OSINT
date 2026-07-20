@@ -6,12 +6,14 @@ publisher: Fraternité Matin
 published: 2025-05-28
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [capacity.training, geopol.china]
 entities: [[huawei], [esatic], [universite-polytechnique-de-bingerville]]
 lens: []
+body_completeness: full
 ---
 
 # Huawei ICT Competition 2024-2025 : Accueil triomphal à Abidjan pour les champions du monde ivoiriens

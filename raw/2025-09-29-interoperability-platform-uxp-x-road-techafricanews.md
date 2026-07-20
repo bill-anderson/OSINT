@@ -6,12 +6,14 @@ publisher: TechAfrica News
 published: 2025-09-29
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [dpi.exchange, dpi.govtech, dpi.registry, gov.policy, gov.standards, geopol.eu]
 entities: [[cybernetica], [uxp], [x-road], [sndi], [ministry-of-digital-transition-and-digitalisation-cote-divoire], [kalil-ibrahim-konate], [national-digital-development-strategy-cote-divoire]]
 lens: []
+body_completeness: full
 ---
 
 # Ivory Coast Launches Interoperability Platform to Modernize Public Administration

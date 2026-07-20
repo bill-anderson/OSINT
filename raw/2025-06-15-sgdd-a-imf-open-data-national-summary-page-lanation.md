@@ -6,10 +6,12 @@ publisher: La Nation (Djibouti)
 published: 2025-06-15
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [DJI]
 topics: [data.open, data.statistics, gov.standards]
 entities: [[instad-djibouti], [banque-centrale-djibouti], [imf], [african-development-bank]]
 lens: []
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: DJI-2026-07-17
 ---

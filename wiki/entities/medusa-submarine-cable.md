@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: resource
 title: MEDUSA submarine cable
 places: [XNA, TUN, XGL]

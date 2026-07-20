@@ -3,6 +3,7 @@ type: source
 title: Congo boosts Internet access in rural areas (20 high-speed sites, PATN)
 url: https://www.connectingafrica.com/connectivity/congo-boosts-internet-access-in-rural-areas
 publisher: Connecting Africa
+ingested: 2026-07-18
 author: Matshepo Sehloho
 published: 2025-10-20
 date_precision: day
@@ -11,6 +12,7 @@ places: [COG]
 topics: [infra.connect, include.divides, digital.rural, gov.policy, finance.new, gov.regional]
 entities: [[patn-congo], [world-bank], [arpce-congo], [congo-digital-strategy-2030]]
 lens: []
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: COG-2026-07-17
 ---

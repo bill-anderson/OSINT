@@ -6,6 +6,7 @@ publisher: New Vision
 published: 2025-06-18
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [UGA]
 topics: [tech.ai, gov.policy]
 entities: [[nita-uganda]]

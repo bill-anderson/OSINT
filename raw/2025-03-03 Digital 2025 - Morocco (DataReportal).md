@@ -13,6 +13,7 @@ places: [MAR]
 topics: [infra.connect, include.divides, data.statistics]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 <!-- DataReportal Digital 2025: Morocco (3 Mar 2025). Population 38.3m (65.9% urban, median age 29.8). Mobile connections 54.9m (143%, 84.9% broadband). Internet users 35.3m, 92.2% penetration → 7.8% offline. Social media 21.3m (55.5%). High-penetration North-African baseline. -->

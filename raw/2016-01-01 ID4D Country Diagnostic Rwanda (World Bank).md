@@ -11,6 +11,7 @@ places: [RWA]
 topics: [dpi.id, dpi.registry]
 entities: [[world-bank], [nida-rwanda]]
 lens: []
+body_completeness: full
 ---
 
 # ID4D Country Diagnostic: Rwanda (World Bank, 2016)

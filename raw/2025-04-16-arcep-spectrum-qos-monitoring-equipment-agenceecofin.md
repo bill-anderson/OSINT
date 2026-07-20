@@ -6,10 +6,12 @@ publisher: Agence Ecofin
 published: 2025-04-16
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [CAF]
 topics: [infra.connect, gov.standards, gov.legislate, include.access]
 entities: [[arcep-central-african-republic], [orange-centrafrique], [telecel-centrafrique], [moov-africa-centrafrique], [felix-moloua]]
 lens: []
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: CAF-2026-07-17
 ---

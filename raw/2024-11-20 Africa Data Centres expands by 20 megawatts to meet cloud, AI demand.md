@@ -3,6 +3,8 @@ type: source
 title: Africa Data Centres expands by 20 megawatts to meet cloud, AI demand
 url: https://news.outsourceaccelerator.com/africa-data-centres-expands-20mw
 publisher: Outsource Accelerator
+lens: []
+body_completeness: full
 author: HJ Suroy
 published: 2024-11-20
 date_precision: day

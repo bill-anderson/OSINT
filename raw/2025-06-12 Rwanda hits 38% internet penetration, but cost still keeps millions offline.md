@@ -1,9 +1,13 @@
 ---
 type: source
+date_precision: day
+date_source: source
 places: [RWA]
 topics: [include.divides, include.access, infra.connect]
 entities: [[gsma]]
 ingested: 2026-07-16
+lens: []
+body_completeness: full
 page: Rwanda hits 38% internet penetration, but cost still keeps millions offline
 title: Rwanda hits 38% internet penetration, but cost still keeps millions offline
 author: John Adoyi

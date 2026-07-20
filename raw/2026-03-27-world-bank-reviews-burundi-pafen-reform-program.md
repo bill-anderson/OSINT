@@ -3,6 +3,9 @@ type: source
 title: World Bank Reviews Burundi's PAFEN Reform Program
 url: https://www.wearetech.africa/en/fils-uk/news/tech/world-bank-reviews-burundi-s-pafen-reform-program
 publisher: We Are Tech Africa
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Samira Njoya
 published: 2026-03-27
 date_precision: day

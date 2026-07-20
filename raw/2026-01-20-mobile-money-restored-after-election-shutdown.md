@@ -6,6 +6,7 @@ publisher: New Vision
 published: 2026-01-20
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [UGA]
 topics: [infra.connect, dpi.pay]
 entities: [[uganda-communications-commission]]

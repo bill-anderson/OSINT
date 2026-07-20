@@ -13,6 +13,7 @@ places: [MAR]
 topics: [gov.legislate, tech.ai, gov.protect, dpi.id]
 entities: [[digital-x0-law], [digital-morocco-2030]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Morocco unveiled "Digital X.0" — a proposed national law integrating AI, data governance and digital identity into modernisation. Presented by Amal El Fallah Seghrouchni (Minister Delegate for Digital Transition). Under General Secretariat review; legal foundation of Maroc Digital 2030. Three pillars: data governance, digital identity, interoperability. Ensures secure/ethical data use under Law 09-08 (personal data protection); a national identity system giving citizens control; a traceable consent mechanism for data exchanges public↔private. Cybersecurity + transparency provisions. Morocco's first attempt to embed AI governance into national policy (ethics/accountability for algorithms). Seghrouchni: "balancing innovation with trust." Dedup with BiometricUpdate 6 Nov 2025. -->

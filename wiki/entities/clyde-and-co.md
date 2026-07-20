@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: company
 title: Clyde & Co
 places: [XGL, TZA]

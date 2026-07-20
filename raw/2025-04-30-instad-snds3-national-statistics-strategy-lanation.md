@@ -6,10 +6,12 @@ publisher: La Nation (Djibouti)
 published: 2025-04-30
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [DJI]
 topics: [data.statistics, gov.policy, dpi.exchange, capacity.training, data.open]
 entities: [[instad-djibouti], [world-bank], [ibrahim-abdi-hadi]]
 lens: []
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: DJI-2026-07-17
 ---

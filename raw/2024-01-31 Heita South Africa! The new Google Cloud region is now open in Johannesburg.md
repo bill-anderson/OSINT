@@ -12,6 +12,7 @@ places: [ZAF]
 topics: [infra.store, tech.ai, geopol.usa, infra.connect, finance.new]
 entities: [[google], [equiano], [mtn-group], [liquid-c2]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 *THE CANONICAL PRIMARY, and it CORRECTS A HELD ERROR: the wiki dated the Johannesburg cloud region's launch to 2025-03-27, which is the publication date of a secondary AFRIBIT blog post mistaken for the event date. Google's own announcement dates it 2024-01-31 — fourteen months earlier — and is internally corroborated ('40 cloud regions and 121 zones', a Jan-2024 count; '$180 billion by 2025' stated as a projection). No contradiction is filed: the vendor's own announcement is dispositive, so this is an error correction rather than competing values. The underlying failure mode — a secondary re-report's publication date ingested as the event date — is raised as ISSUE-009. Vendor first-party — attribute.*

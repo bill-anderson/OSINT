@@ -3,6 +3,7 @@ type: source
 title: "Burkina : Le premier Grand salon de la data en Afrique veut promouvoir une gouvernance responsable de la donnée"
 url: https://lefaso.net/spip.php?article147910
 publisher: leFaso.net
+ingested: 2026-07-18
 author: Armelle Ouédraogo, Dominique Ouédraogo
 published: 2026-07-16
 date_precision: day
@@ -13,6 +14,7 @@ places: [BFA]
 topics: [data.open, gov.policy, tech.ai, infra.store, capacity.training]
 entities: [[grand-salon-data-afrique], [djibril-pamousso], [aminata-zerbo-sabane], [ministere-transition-digitale-burkina-faso]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Burkina : Le premier Grand salon de la data en Afrique veut promouvoir une gouvernance responsable de la donnée

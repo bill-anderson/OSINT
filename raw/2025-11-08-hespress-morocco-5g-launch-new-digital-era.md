@@ -6,12 +6,14 @@ publisher: Hespress
 published: 2025-11-08
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: MAR-2026-07-17
 places: [MAR]
 topics: [infra.connect]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 # إطلاق أنترنيت الجيل الخامس (5G) يدخل المغاربة إلى العصر الرقمي الجديد

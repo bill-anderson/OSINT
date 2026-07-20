@@ -6,6 +6,7 @@ publisher: NewsDay
 published: 2026-07-17
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [ZWE]
 topics: [infra.connect, include.divides, dpi.mis, digital.rural]
 entities: [[starlink], [ministry-of-health-and-child-care-zimbabwe], [potraz]]

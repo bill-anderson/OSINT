@@ -1,6 +1,7 @@
 ---
 type: source
 title: "Conservation des données personnelles : l'ANPDP exige le respect de la loi"
+ingested: 2026-07-18
 title_en: Data-protection authority (ANPDP) presses public/private bodies on law 25-11 compliance — DPO designation, processing register, automated operations log
 url: https://www.elmoudjahid.dz/fr/actualite/conservation-des-donnees-personnelles-l-anpdp-exige-le-respect-de-la-loi-244968
 publisher: El Moudjahid
@@ -16,7 +17,7 @@ topics: [gov.protect, gov.legislate, dpi.govtech]
 entities: [[anpdp, ministere-de-la-poste-et-des-telecommunications]]
 lens: [sovereignty]
 provenance_flag: state-media
-body_completeness: clipped-at-fetch
+body_completeness: excerpt
 ---
 
 # Conservation des données personnelles : l'ANPDP exige le respect de la loi

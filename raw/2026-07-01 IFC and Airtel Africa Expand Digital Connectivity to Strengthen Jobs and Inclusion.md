@@ -4,11 +4,14 @@ title: IFC and Airtel Africa Expand Digital Connectivity to Strengthen Jobs and 
 url: https://www.ifc.org/en/pressroom/2026/ifc-and-airtel-africa-expand-digital-connectivity-to-strengthen-jobs-and-inclusion
 publisher: IFC (International Finance Corporation)
 published: 2026-07-01
+date_precision: day
+date_source: source
 ingested: 2026-07-10
 places: [XSS, KEN]
 topics: [infra.connect, finance.new, include.access, include.divides, infra.capacity]
 entities: [[ifc], [airtel-africa], [ifc-airtel-africa-loan], [world-bank]]
 lens: []
+body_completeness: full
 ---
 
 **Nairobi, Kenya, July 1, 2026 –** IFC today announces new financing to Airtel Africa to expand digital infrastructure, connect more people to quality mobile services, and support job creation in Africa.

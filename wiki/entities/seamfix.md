@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: company
 title: Seamfix
 places: [NGA, BEN, CIV]

@@ -3,6 +3,8 @@ type: source
 title: Home Affairs unveils 2.06tri/- budget (Tanzania)
 url: https://dailynews.co.tz/home-affairs-unveils-2-06tri-budget
 publisher: Daily News (Tanzania)
+lens: []
+body_completeness: full
 author: Mariam Said
 published: 2025-05-27
 date_precision: day

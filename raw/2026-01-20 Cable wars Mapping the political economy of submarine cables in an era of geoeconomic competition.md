@@ -3,6 +3,8 @@ type: source
 title: "Cable wars: Mapping the political economy of submarine cables in an era of geoeconomic competition"
 publisher: Globalizations (Taylor & Francis)
 url: https://www.tandfonline.com/doi/full/10.1080/14747731.2025.2599691
+date_precision: day
+date_source: source
 author: Joscha Abels & Milan Babic
 published: 2026-01-20
 accessed: 2026-07-11

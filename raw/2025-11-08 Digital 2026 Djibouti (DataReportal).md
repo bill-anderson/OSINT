@@ -11,6 +11,7 @@ places: [DJI]
 topics: [infra.connect, include.divides]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 # Digital 2026 — Djibouti (DataReportal)

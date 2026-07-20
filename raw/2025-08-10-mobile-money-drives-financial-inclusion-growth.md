@@ -6,6 +6,7 @@ publisher: Times of Eswatini
 published: 2025-08-10
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [SWZ]
 topics: [dpi.pay, include.access, include.divides]
 entities: [[world-bank], [mtn-eswatini], [eswatini-mobile]]

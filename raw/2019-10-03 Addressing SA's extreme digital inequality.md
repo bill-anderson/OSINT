@@ -3,6 +3,8 @@ type: source
 title: "Addressing SA’s extreme digital inequality"
 publisher: UCT News / The Conversation
 url: "https://www.news.uct.ac.za/article/-2019-10-03-addressing-sas-extreme-digital-inequality"
+date_precision: day
+date_source: source
 author: Alison Gillwald
 published: 2019-10-03
 accessed: 2026-07-12
@@ -11,6 +13,7 @@ places: [ZAF]
 topics: [include.divides, gov.policy, tech.ai, capacity.training]
 entities: [[research-ict-africa], [cyril-ramaphosa], [alison-gillwald], [after-access]]
 lens: [sovereignty, colonialism]
+body_completeness: full
 ---
 <!-- Gillwald op-ed (UCT News republication of The Conversation piece, same text as [55]). All facts AS OF 2019-10-03: ~half of SA offline; use "entirely consumptive" (RIA After Access SA 2017); Ramaphosa's Presidential Commission on 4IR + WEF Centre at CSIR. DO NOT propagate the "~60 million SA Facebook users" Cambridge Analytica figure — it is an error. Framing/context source; attach to ZAF hub, research-ict-africa, alison-gillwald. -->
 

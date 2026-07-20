@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: organisation
 title: HISP WCA (Health Information Systems Programme, West and Central Africa)
 places: [TGO, XWA, XCA]

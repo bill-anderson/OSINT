@@ -6,12 +6,14 @@ publisher: ITWeb Africa
 published: 2025-12-08
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 places: [DZA, XNA]
 topics: [infra.connect, gov.policy, finance.new, include.divides, digital.rural]
 entities: [[mobilis], [djezzy], [ooredoo-algeria], [sid-ali-zerrouki], [ministry-of-post-and-telecommunications-algeria], [ericsson], [gsma]]
 lens: []
+body_completeness: full
 ---
 
 # Mobilis, Djezzy, Ooredoo lead Algeria's $492m 5G rollout

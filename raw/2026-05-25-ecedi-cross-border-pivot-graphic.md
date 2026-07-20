@@ -6,12 +6,14 @@ publisher: Graphic Online
 published: 2026-05-25
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: GHA-2026-07-17
 places: [GHA]
 topics: [dpi.pay, gov.regional]
 entities: [[bank-of-ghana], [afcfta]]
 lens: []
+body_completeness: full
 ---
 # BoG keeps e-Cedi alive • Shifts focus to cross-border payments
 

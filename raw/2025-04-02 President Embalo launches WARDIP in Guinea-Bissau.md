@@ -10,6 +10,7 @@ places: [GNB]
 topics: [gov.policy, infra.connect, gov.regional, dpi.govtech, finance.new]
 entities: [[wardip], [world-bank]]
 lens: [sovereignty]
+body_completeness: full
 retrieved: 2026-07-17
 ingested: 2026-07-18
 sweep_batch: GNB-2026-07-17

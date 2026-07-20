@@ -3,6 +3,9 @@ type: source
 title: BOCRA expands ICT training to support digital inclusion in Botswana schools
 url: https://techreviewafrica.com/news/3680/bocra-expands-ict-training-to-support-digital-inclusion-in-botswana-schools
 publisher: Tech Review Africa
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Kanto Kai Okanta
 published: 2026-01-22
 date_precision: day

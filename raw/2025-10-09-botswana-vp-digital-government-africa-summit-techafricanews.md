@@ -3,6 +3,7 @@ type: source
 title: Botswana's Vice President Calls for United African Push Toward Digital Transformation
 url: https://techafricanews.com/2025/10/09/botswanas-vice-president-calls-for-united-african-push-toward-digital-transformation/
 publisher: TechAfrica News
+ingested: 2026-07-18
 author: Editorial Team
 published: 2025-10-09
 date_precision: day
@@ -13,6 +14,7 @@ places: [BWA]
 topics: [gov.regional, gov.policy, gov.protect, dpi.id, infra.store]
 entities: [[ndaba-gaolathe], [smart-zambia-institute]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Botswana's Vice President Calls for United African Push Toward Digital Transformation

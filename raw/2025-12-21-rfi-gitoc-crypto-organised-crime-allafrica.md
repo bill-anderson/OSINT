@@ -6,10 +6,12 @@ publisher: RFI (Radio France Internationale), distributed by AllAfrica Global Me
 published: 2025-12-21
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [CAF]
 topics: [dpi.pay, gov.legislate, finance.new, tech.industry]
 entities: [[gi-toc], [nathalia-dukhan], [sango-coin], [car-meme-coin], [faustin-archange-touadera], [emile-parfait-simb]]
 lens: [sovereignty, colonialism]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: CAF-2026-07-17
 provenance_flag: syndicated-copy (origin RFI; canonical RFI URL not located at fetch — allAfrica carries the full text under RFI copyright)

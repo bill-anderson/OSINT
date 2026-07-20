@@ -13,6 +13,7 @@ places: [KEN]
 topics: [dpi.id, include.access, gov.legislate]
 entities: [[communications-authority-of-kenya]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Kenya published the Kenya Information and Communications (Registration of Telecommunications Service Subscribers) Regulations 2025 (Legal Notice No. 90). Section 5(e) recognizes the Refugee Identity Card as valid for SIM registration — refugees can legally acquire SIMs and access mobile services. Also: mandatory biometric + ID verification; SIM registration for children by parents/guardians; ban on proxy registrations (except minors); 6-month compliance window; revocation of the 2015 SIM regulations. -->

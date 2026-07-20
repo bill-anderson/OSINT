@@ -6,12 +6,14 @@ publisher: Mediaguinee
 published: 2026-01-12
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: GIN-2026-07-17
 places: [GIN]
 topics: [dpi.govtech]
 entities: [[landaya], [diaka-sidibe]]
 lens: []
+body_completeness: full
 ---
 
 # Industrie : Dre Diaka Sidibé lance LANDAYA, pour fluidifier la relation entre l'État et les promoteurs industriels

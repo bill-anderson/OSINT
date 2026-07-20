@@ -3,6 +3,8 @@ type: source
 title: Govt developing new digital system to enhance public service delivery
 url: https://www.newtimes.co.rw/article/30507/news/technology/govt-developing-new-digital-system-to-enhance-public-service-delivery
 publisher: The New Times
+ingested: 2026-07-19
+lens: []
 author: Charles Nyandwi
 published: 2025-10-15
 date_precision: day

@@ -6,6 +6,7 @@ publisher: TechCabal
 published: 2025-08-21
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [UGA, XAF]
 topics: [infra.connect, finance.new]
 entities: [[csquared]]

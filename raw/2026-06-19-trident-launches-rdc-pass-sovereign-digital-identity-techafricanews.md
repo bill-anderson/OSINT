@@ -6,10 +6,12 @@ publisher: TechAfrica News
 published: 2026-06-19
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [COD]
 topics: [dpi.id, dpi.govtech, dpi.pay, dpi.mis, gov.protect, include.access]
 entities: [[rdc-pass], [trident-digital-tech], [felix-tshisekedi]]
 lens: [sovereignty]
+body_completeness: full
 provenance_flag: pr-wire
 retrieved: 2026-07-17
 sweep_batch: COD-2026-07-17

@@ -3,6 +3,8 @@ type: source
 title: "Cybastion Advances Digital Government Solutions, Supports Benin's SECUROUTE Infrastructure Upgrade"
 publisher: Tech Africa News
 url: https://techafricanews.com/2026/01/27/cybastion-advances-digital-government-solutions-supports-benins-securoute-infrastructure-upgrade/
+date_precision: day
+date_source: source
 author: Jennifer Onyeagoro
 published: 2026-01-27
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [BEN]
 topics: [dpi.govtech, infra.cybersec, dpi.exchange, dpi.pay, gov.standards]
 entities: [[cybastion], [securoute], [asin-benin]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Cybastion partnering with Benin's Ministry of Economy & Finance to expand infrastructure for full interoperability with SECUROUTE (national road-enforcement data platform). Cybastion portfolio: e-payments, eTax, eVisa, eHealth (with IQVIA). -->

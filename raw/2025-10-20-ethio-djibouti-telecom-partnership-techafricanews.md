@@ -6,10 +6,12 @@ publisher: TechAfrica News
 published: 2025-10-20
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [DJI, ETH]
 topics: [infra.connect, gov.regional, dpi.pay]
 entities: [[djibouti-telecom], [ethio-telecom], [horizon-fiber-initiative]]
 lens: []
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: DJI-2026-07-17
 ---

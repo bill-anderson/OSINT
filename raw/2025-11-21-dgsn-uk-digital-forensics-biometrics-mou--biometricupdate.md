@@ -6,12 +6,14 @@ publisher: Biometric Update
 published: 2025-11-21
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 places: [DZA]
 topics: [dpi.id, infra.cybersec, finance.mou, gov.legislate]
 entities: [[dgsn-algeria], [uk-home-office], [ali-badaoui]]
 lens: []
+body_completeness: full
 ---
 
 # Algeria to get UK support on digital forensics, biometrics for policing

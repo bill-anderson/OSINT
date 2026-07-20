@@ -6,12 +6,14 @@ publisher: Fraternité Matin
 published: 2025-02-12
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [tech.ai, gov.policy]
 entities: [[unesco], [haute-autorite-de-la-bonne-gouvernance], [agence-internationale-de-lenergie]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Sommet d'action sur l'IA/Méthodologie d'évaluation: Kalil Konaté présente le plan de la Côte d'Ivoire

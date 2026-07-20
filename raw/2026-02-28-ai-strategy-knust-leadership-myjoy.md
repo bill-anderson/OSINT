@@ -6,12 +6,14 @@ publisher: MyJoyOnline
 published: 2026-02-28
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: GHA-2026-07-17
 places: [GHA]
 topics: [tech.ai, gov.policy, capacity.research]
 entities: [[ghana-national-ai-strategy], [knust]]
 lens: []
+body_completeness: full
 ---
 # The road to approval: Inside Ghana's AI strategy and KNUST's leadership
 

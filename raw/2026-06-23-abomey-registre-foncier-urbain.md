@@ -3,6 +3,9 @@ type: source
 title: "Urbanisation : Abomey prépare sa révolution foncière numérique"
 url: https://lanation.bj/index.php/actualites/urbanisation-abomey-prepare-sa-revolution-fonciere-numerique
 publisher: La Nation
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Joël C. TOKPONOU
 published: 2026-06-23
 date_precision: day

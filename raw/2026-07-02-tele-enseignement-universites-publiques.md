@@ -3,6 +3,9 @@ type: source
 title: "Universités publiques: Le numérique s'invite dans les amphithéâtres"
 url: https://www.lanation.bj/actualites/universites-publiques-le-numerique-sinvite-dans-les-amphitheatres
 publisher: La Nation
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Joël C. TOKPONOU
 published: 2026-07-02
 date_precision: day

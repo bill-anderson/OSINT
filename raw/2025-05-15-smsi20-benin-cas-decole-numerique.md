@@ -6,12 +6,14 @@ publisher: Fraternité
 published: 2025-05-15
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: BEN-2026-07-17
 places: [BEN]
 topics: [dpi.govtech, include.divides, gov.policy, tech.ai]
 entities: [[assemblee-nationale-benin], [ministere-du-numerique-et-de-la-digitalisation-benin], [itu]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # SMSI+20 : le Bénin, un cas d'école en matière de numérique en Afrique

@@ -6,12 +6,14 @@ publisher: We Are Tech
 published: 2025-03-11
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 places: [DZA]
 topics: [dpi.exchange, dpi.govtech, dpi.registry, dpi.pay, gov.policy, capacity.training]
 entities: [[abdelmadjid-tebboune], [djibayatic], [moussahamatic], [cnrc-algeria], [aapi-algeria]]
 lens: []
+body_completeness: full
 ---
 
 To modernize its operations, the Algerian state has focused on rapid digitization. A fully digital tax system is being developed to simplify and enhance the security of tax processes.

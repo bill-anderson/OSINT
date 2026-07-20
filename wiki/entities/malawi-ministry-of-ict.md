@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: government-body
 title: Malawi Ministry of Information and Communications Technology
 places: [MWI]

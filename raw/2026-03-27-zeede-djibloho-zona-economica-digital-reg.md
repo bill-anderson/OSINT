@@ -6,12 +6,14 @@ publisher: Revista Real Equatorial Guinea
 published: 2026-03-27
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: GNQ-2026-07-17
 places: [GNQ]
 topics: [infra.store, tech.ai, gov.policy]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 At an Ordinary Directive Council of the Ministry of Transport, Telecommunications and AI Systems (Malabo, chaired by Minister Honorato Evita Oma), the draft decree to create a **Zona Económica y Exclusiva Digital (ZEEDE-GE) in Djibloho** was analysed. The project aims to make Djibloho the country's "digital epicentre", offering global connectivity via integrated digital services combined with **artificial intelligence, big data and high-performance data centres**, to accelerate national digitalisation and promote e-commerce.

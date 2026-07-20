@@ -1,9 +1,13 @@
 ---
 type: source
+date_precision: day
+date_source: source
 places: [RWA]
 topics: [dpi.govtech, infra.connect, gov.policy, capacity.training, include.access]
 entities: [[irembo], [giz], [rwanda-information-society-authority]]
 ingested: 2026-07-16
+lens: []
+body_completeness: full
 page: 
 title: Rwanda’s digital transformation: an effort at intergovernmental collaboration
 author: Zoey Soh, Cindy X. S. Zheng

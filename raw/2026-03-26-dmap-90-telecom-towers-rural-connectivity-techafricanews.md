@@ -6,6 +6,7 @@ publisher: TechAfrica News
 published: 2026-03-26
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [MWI]
 topics: [infra.connect, include.divides, include.access]
 entities: [[macra-malawi], [dmap], [world-bank]]

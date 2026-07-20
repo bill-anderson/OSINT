@@ -1,6 +1,7 @@
 ---
 type: source
 title: توظيف الذكاء الاصطناعي و"البلوك تشين" والدينار الرقمي لحماية السيادة المالية بالجزائر
+ingested: 2026-07-18
 title_en: AI, blockchain and the digital dinar for Algeria's financial sovereignty (minister confirms digital-dinar project)
 url: https://www.echoroukonline.com/%D8%AA%D9%88%D8%B8%D9%8A%D9%81-%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D9%88%D8%A7%D9%84%D8%A8%D9%84%D9%88%D9%83-%D8%AA%D8%B4%D9%8A%D9%86
 publisher: Echorouk El Yawmi
@@ -14,6 +15,7 @@ places: [DZA]
 topics: [dpi.pay, tech.ai, gov.policy, finance.new]
 entities: [[banque-dalgerie, meriem-benmouloud, haut-commissariat-a-la-numerisation, digital-dinar]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # توظيف الذكاء الاصطناعي و"البلوك تشين" والدينار الرقمي لحماية السيادة المالية بالجزائر

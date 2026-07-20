@@ -3,6 +3,7 @@ type: source
 title: Congo Telecom becomes first operator in Republic of Congo to receive ISO 9001:2015 certification
 url: https://techreviewafrica.com/news/4630/congo-telecom-becomes-first-operator-in-republic-of-congo-to-receive-iso-90012015-certification
 publisher: Tech Review Africa
+ingested: 2026-07-18
 author: Nana Appiah Acquaye
 published: 2026-03-29
 date_precision: day
@@ -11,6 +12,7 @@ places: [COG]
 topics: [gov.standards, tech.industry, infra.connect]
 entities: [[congo-telecom]]
 lens: []
+body_completeness: full
 provenance_flag: pr-wire
 retrieved: 2026-07-17
 sweep_batch: COG-2026-07-17

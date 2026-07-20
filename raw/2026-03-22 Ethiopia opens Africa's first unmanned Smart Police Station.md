@@ -11,6 +11,7 @@ places: [ETH]
 topics: [dpi.govtech, tech.ai, include.access]
 entities: [[digital-ethiopia-2030], [abiy-ahmed]]
 lens: []
+body_completeness: full
 ---
 
 # Ethiopia opens Africa's first unmanned Smart Police Station

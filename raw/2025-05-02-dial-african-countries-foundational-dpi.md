@@ -11,6 +11,7 @@ places: [XAF]
 topics: [dpi.exchange, dpi.id, dpi.pay, gov.policy, gov.regional, include.access]
 entities: [[dial], [adli], [afcfta], [mojaloop]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # African countries are already building the foundational infrastructure required for the digital future

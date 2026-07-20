@@ -6,6 +6,7 @@ publisher: Tech Review Africa
 published: 2026-05-08
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [UGA]
 topics: [gov.protect, tech.ai]
 entities: [[cipesa]]

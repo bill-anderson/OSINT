@@ -12,6 +12,7 @@ places: [KEN]
 topics: [dpi.mis, gov.policy, dpi.id]
 entities: [[social-health-authority-kenya]]
 lens: []
+body_completeness: full
 artefact: "2025-03-26 Policy-Brief-Digitalisation-of-Health-Services-in-Kenya.pdf"
 ---
 

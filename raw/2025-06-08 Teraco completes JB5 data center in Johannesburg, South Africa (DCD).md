@@ -3,6 +3,8 @@ type: source
 title: Teraco completes JB5 data center in Johannesburg, South Africa
 url: https://www.datacenterdynamics.com/en/news/teraco-jb5-south-africa-johannesburg
 publisher: Data Center Dynamics
+lens: []
+body_completeness: full
 author: Matthew Gooding
 published: 2025-06-08
 date_precision: day

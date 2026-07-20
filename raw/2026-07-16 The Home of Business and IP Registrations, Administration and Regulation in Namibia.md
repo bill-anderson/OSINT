@@ -12,6 +12,7 @@ places: [NAM]
 topics: [dpi.registry, dpi.govtech]
 entities: [[bipa-namibia]]
 lens: []
+body_completeness: full
 ---
 
 Home/profile page of the Business and Intellectual Property Authority (BIPA), Namibia's focal point for the registration of businesses and industrial/intellectual property rights. BIPA is established as a juristic person under section 3 of the BIPA Act, 2016 (Act No. 8 of 2016) and is a Public Enterprise under the Public Enterprises Governance Act, 2019 (Act No. 1 of 2019).

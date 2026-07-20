@@ -6,6 +6,7 @@ publisher: TechnoMag
 published: 2025-06-12
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [ZWE]
 topics: [dpi.pay, infra.connect, finance.new]
 entities: [[econet-wireless-zimbabwe], [ecocash], [ecocash-holdings]]

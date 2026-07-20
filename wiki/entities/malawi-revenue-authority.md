@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: government-body
 title: Malawi Revenue Authority (MRA)
 places: [MWI]

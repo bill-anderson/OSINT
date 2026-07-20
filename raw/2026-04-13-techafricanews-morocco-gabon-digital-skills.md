@@ -6,12 +6,14 @@ publisher: Tech Africa News
 published: 2026-04-13
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: MAR-2026-07-17
 places: [MAR]
 topics: [gov.regional, capacity.training, finance.mou]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 # Morocco-Gabon agreement on digital skills and capacity building

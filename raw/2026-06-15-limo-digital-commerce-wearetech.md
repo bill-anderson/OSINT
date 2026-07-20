@@ -6,10 +6,12 @@ publisher: We Are Tech Africa
 published: 2026-06-15
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [DJI]
 topics: [tech.innovate, dpi.pay, tech.ai]
 entities: []
 lens: []
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: DJI-2026-07-17
 ---

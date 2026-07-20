@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: instrument
 title: Digital Governance Analysis - Seychelles, 2024 Edition
 places: [SYC]

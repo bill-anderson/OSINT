@@ -6,6 +6,7 @@ publisher: Central News
 published: 2026-03-30
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [ZAF]
 topics: [infra.cybersec, data.statistics]
 entities: [[statistics-south-africa]]

@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: deal
 title: Equinix South Africa $438m expansion
 places: [ZAF]

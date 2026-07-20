@@ -3,6 +3,9 @@ type: source
 title: Burkina Faso Tightens Telecom Regulations, but Affordability Concerns Persist
 url: https://www.wearetech.africa/en/fils-uk/news/telecom/burkina-faso-tightens-telecom-regulations-but-affordability-concerns-persist
 publisher: We Are Tech Africa
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Isaac K. Kassouwi
 published: 2025-12-06
 date_precision: day

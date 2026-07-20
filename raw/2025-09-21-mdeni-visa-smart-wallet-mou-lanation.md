@@ -6,10 +6,12 @@ publisher: La Nation (Djibouti)
 published: 2025-09-21
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [DJI]
 topics: [dpi.pay, finance.mou, dpi.id, dpi.govtech, include.access]
 entities: [[smart-wallet-djibouti], [visa], [tech5], [mariam-hamadou-ali], [vision-djibouti-2035]]
 lens: [sovereignty]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: DJI-2026-07-17
 ---

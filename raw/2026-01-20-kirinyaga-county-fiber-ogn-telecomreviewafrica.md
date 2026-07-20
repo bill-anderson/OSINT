@@ -6,13 +6,14 @@ publisher: Telecom Review Africa
 published: 2026-01-20
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [KEN]
 topics: [digital.localgov, infra.connect]
 entities: []
 lens: []
 retrieved: 2026-07-17
 sweep_batch: KEN-2026-07-17
-body_completeness: clip-full
+body_completeness: full
 ---
 
 # Kenya Advances Digital Economy with Fiber, Wi-Fi, and Youth Programs

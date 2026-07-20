@@ -14,6 +14,7 @@ places: [AGO]
 topics: [infra.cybersec, gov.protect, gov.legislate]
 entities: [[sinse-angola], [predator-spyware-angola], [predator-spyware-angola], [amnistia-internacional], [teixeira-candido], [fernando-miala], [friends-of-angola], [front-line-defenders], [expresso]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # SINSE adquiriu spyware Predator, usado para espiar jornalista, em 2021, avança jornal português

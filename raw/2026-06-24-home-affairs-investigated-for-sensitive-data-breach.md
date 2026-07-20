@@ -6,6 +6,7 @@ publisher: Independent News Eswatini
 published: 2026-06-24
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [SWZ]
 topics: [gov.protect, gov.legislate, dpi.id]
 entities: [[esccom], [eswatini-data-protection-authority], [ministry-of-home-affairs-eswatini]]

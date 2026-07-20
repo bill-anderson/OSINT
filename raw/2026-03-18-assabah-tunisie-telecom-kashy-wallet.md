@@ -6,6 +6,7 @@ publisher: Assabah News (جريدة الصباح نيوز)
 published: 2026-03-18
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [TUN]
 topics: [dpi.pay, finance.new, tech.industry]
 entities: [[tunisie-telecom], [viamobile], [kashy]]

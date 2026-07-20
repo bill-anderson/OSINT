@@ -3,6 +3,8 @@ type: source
 title: Land Reform and Rural Development implements Electronic Deeds Registration System
 url: https://www.gov.za/news/media-statements/land-reform-and-rural-development-implements-electronic-deeds-registration-system
 publisher: South African Government (gov.za)
+lens: []
+body_completeness: full
 author: Department of Agriculture, Land Reform and Rural Development
 published: 2025-04-01
 date_precision: day

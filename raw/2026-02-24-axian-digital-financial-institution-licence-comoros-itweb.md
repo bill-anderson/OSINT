@@ -6,12 +6,14 @@ publisher: ITWeb Africa
 published: 2026-02-24
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: COM-2026-07-17
 places: [COM]
 topics: [dpi.pay, gov.legislate, finance.new, include.access]
 entities: [[axian], [bcc-comoros], [mvola]]
 lens: []
+body_completeness: full
 ---
 
 # AXIAN gets digital first financial license in the Comoros

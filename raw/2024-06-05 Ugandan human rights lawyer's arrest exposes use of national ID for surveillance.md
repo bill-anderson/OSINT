@@ -12,6 +12,7 @@ places: [UGA]
 topics: [dpi.id, gov.protect, infra.cybersec, gov.legislate]
 entities: [[nira-uganda], [nick-opiyo], [rosemary-kisembo], [acme-uganda]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 *Reporting ON a Bloomberg / Lighthouse Reports investigation — that investigation is the primary and is NOT held (GAP-UGA-002). Precision matters here: the clip establishes the MECHANISM (underlying software and datasets easily accessed by individuals at all levels of law enforcement) but does NOT document which ID records were pulled on Nick Opiyo; the link from his record to his December 2020 detention is asserted by Opiyo and implied by the investigation, not shown. NIRA ED Rosemary Kisembo refuted on the record that law enforcement could readily access the database.*

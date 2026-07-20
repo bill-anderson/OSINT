@@ -6,10 +6,12 @@ publisher: We Are Tech Africa
 published: 2026-06-25
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [MDG]
 topics: [infra.cybersec, gov.legislate]
 entities: [[cirt-madagascar], [mg-ministry-digital-development]]
 lens: [sovereignty]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: MDG-2026-07-17
 ---

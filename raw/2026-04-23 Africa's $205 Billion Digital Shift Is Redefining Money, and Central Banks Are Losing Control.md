@@ -3,6 +3,8 @@ type: source
 title: "Africa's $205 Billion Digital Shift Is Redefining Money, and Central Banks Are Losing Control"
 publisher: Dawan Africa
 url: https://www.dawan.africa/news/africas-dollar205-billion-digital-shift
+date_precision: day
+date_source: source
 author: Mohamed Ali
 published: 2026-04-23
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [NGA, ZAF, KEN, EGY, RWA, XSS]
 topics: [dpi.pay, gov.protect, gov.legislate, gov.policy, finance.new, geopol.usa]
 entities: [[cbn]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- SARB Gov. Kganyago (Oct 2025): dollar stablecoins could cost monetary sovereignty. CBN 15-member stablecoin task force; cNGN (regulated naira stablecoin). $205bn SSA digital-rail flows Jul24-Jun25 (+52%). Std Chartered: stablecoins could pull $1tn from EM banks. -->

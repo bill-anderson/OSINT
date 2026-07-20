@@ -6,6 +6,7 @@ publisher: TechAfrica News
 published: 2026-07-02
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [NAM]
 topics: [dpi.pay, finance.mou, dpi.govtech]
 entities: [[bank-of-namibia], [namibia-payment-system-management-act-2023]]

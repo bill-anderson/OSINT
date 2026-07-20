@@ -6,6 +6,7 @@ publisher: Téla Nón
 published: 2026-04-30
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [STP]
 topics: [dpi.registry, dpi.exchange, geopol.eu]
 entities: [[prese], [dgrn], [universidade-aveiro]]

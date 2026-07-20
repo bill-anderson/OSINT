@@ -3,6 +3,7 @@ type: source
 title: Congo Nears Adoption of 2030 Digital Strategy
 url: https://www.wearetech.africa/en/fils-uk/news/tech/congo-nears-adoption-of-2030-digital-strategy
 publisher: We Are Tech Africa
+ingested: 2026-07-18
 author: Samira Njoya
 published: 2025-10-16
 date_precision: day
@@ -11,6 +12,7 @@ places: [COG]
 topics: [gov.policy, infra.connect, dpi.govtech, tech.ai, infra.cybersec, capacity.training, infra.store]
 entities: [[congo-digital-strategy-2030], [world-bank], [congo-national-data-centre]]
 lens: [sovereignty]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: COG-2026-07-17
 ---

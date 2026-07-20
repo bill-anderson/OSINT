@@ -13,6 +13,7 @@ places: [NAM]
 topics: [dpi.registry, dpi.id, gov.legislate, include.access]
 entities: [[namibia-civil-registration-identification-act-2024], [ministry-home-affairs-namibia], [namibia-digital-id]]
 lens: []
+body_completeness: full
 ---
 
 The Department of Civil Registration (under MHAISS) received a budget allocation of N$178,122,000 (US$9.7 million) for 2025/2026, disclosed by Home Affairs and Immigration Minister Lucia Iipumbu in a budget speech.

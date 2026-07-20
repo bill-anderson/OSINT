@@ -6,6 +6,7 @@ publisher: TechAfrica News
 published: 2025-07-15
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 provenance_flag: pr-wire
@@ -13,6 +14,7 @@ places: [DZA]
 topics: [dpi.govtech, dpi.exchange, finance.mou, gov.standards]
 entities: [[algerie-telecom], [national-chamber-of-notaries-algeria]]
 lens: []
+body_completeness: full
 ---
 
 # Algeria Strengthens E-Governance with New Notarial Sector Digital Partnership

@@ -1,6 +1,7 @@
 ---
 type: source
 title: Le Général d'Armée Saïd Chanegriha suit l'opération de lancement du deuxième satellite Alsat-3B
+ingested: 2026-07-18
 title_en: Algeria launches second Alsat-3B Earth-observation satellite (China cooperation)
 url: https://www.echoroukonline.com/le-general-darmee-said-chanegriha-suit-loperation-de-lancement-du-deuxieme-satellite-alsat-3b
 publisher: Echorouk El Yawmi
@@ -14,6 +15,7 @@ places: [DZA]
 topics: [data.satellite, geopol.china, infra.capacity]
 entities: [[agence-spatiale-algerienne, said-chanegriha, ministere-de-la-defense-nationale]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Le Général d'Armée Saïd Chanegriha suit l'opération de lancement du deuxième satellite Alsat-3B

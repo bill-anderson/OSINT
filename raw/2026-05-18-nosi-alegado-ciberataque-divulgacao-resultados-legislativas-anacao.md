@@ -6,10 +6,12 @@ publisher: A Nação
 published: 2026-05-18
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [CPV]
 topics: [infra.cybersec, dpi.govtech, infra.connect]
 entities: [[nosi]]
 lens: []
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: CPV-2026-07-17
 ---

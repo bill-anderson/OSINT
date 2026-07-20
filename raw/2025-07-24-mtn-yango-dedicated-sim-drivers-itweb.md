@@ -3,6 +3,7 @@ type: source
 title: MTN, Yango partner on dedicated SIM offering to drivers
 url: https://itweb.africa/article/mtn-yango-partner-on-dedicated-sim-offering-to-drivers/GxwQD71DJbOvlPVo
 publisher: ITWeb Africa
+ingested: 2026-07-18
 author: Amindeh Blaise Atabong
 published: 2025-07-24
 date_precision: day
@@ -11,6 +12,7 @@ places: [CMR]
 topics: [dpi.pay, tech.industry, tech.innovate, include.access, infra.connect, finance.mou]
 entities: [[mtn-cameroon], [yango], [mtn-mobile-money]]
 lens: []
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: CMR-2026-07-17
 ---

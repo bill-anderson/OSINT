@@ -3,6 +3,8 @@ type: source
 title: Rwanda launching digital identity, biometrics enrollment with $8.5M budget
 url: https://www.biometricupdate.com/202505/rwanda-launching-digital-identity-biometrics-enrollment-with-8-5m-budget
 publisher: Biometric Update
+ingested: 2026-07-19
+lens: []
 author: Chris Burt
 published: 2025-05-23
 date_precision: day

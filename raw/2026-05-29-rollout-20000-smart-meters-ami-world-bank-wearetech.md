@@ -3,6 +3,7 @@ type: source
 title: Cameroon begins rollout of 20,000 smart meters
 url: https://www.wearetech.africa/en/fils-uk/news/tech/cameroon-begins-rollout-of-20-000-smart-meters
 publisher: We Are Tech Africa
+ingested: 2026-07-18
 author: Samira Njoya
 published: 2026-05-29
 date_precision: day
@@ -11,6 +12,7 @@ places: [CMR]
 topics: [infra.energy, infra.store, dpi.mis, dpi.govtech, finance.new, data.statistics, include.access]
 entities: [[minee-cameroon], [socadel], [world-bank], [african-development-bank]]
 lens: []
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: CMR-2026-07-17
 ---

@@ -13,6 +13,7 @@ places: [MLI]
 topics: [dpi.id, gov.regional]
 entities: [[alliance-of-sahel-states]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 Burkina Faso, Mali and Niger — under junta-led governments and grouped as the Confederation of Sahel States (AES) — announced the launch of a common biometric passport effective 29 January 2025, coinciding with their definitive exit from ECOWAS. The announcement, signed by Lt Gen Assimi Goïta (Mali's transitional leader and AES Chairman), said old ECOWAS-logo passports remain valid until expiry but may be replaced with new AES passports.

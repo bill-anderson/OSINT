@@ -6,6 +6,7 @@ publisher: ITWeb
 published: 2026-04-23
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [ZAF]
 topics: [dpi.govtech, gov.policy]
 entities: [[operation-vulindlela], [mymzansi]]

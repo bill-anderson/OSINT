@@ -6,6 +6,7 @@ publisher: Inside Privacy (Covington)
 published: 2025-04-15
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [ZAF]
 topics: [gov.protect, gov.legislate]
 entities: [[information-regulator-south-africa]]

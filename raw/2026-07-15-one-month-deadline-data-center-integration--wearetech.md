@@ -6,12 +6,14 @@ publisher: We Are Tech
 published: 2026-07-15
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 places: [DZA]
 topics: [dpi.exchange, dpi.govtech, infra.store, gov.policy]
 entities: [[abdelmadjid-tebboune], [national-digital-services-center-algeria], [dzair-services]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Algeria Sets One-Month Deadline for Government Data Center Integration

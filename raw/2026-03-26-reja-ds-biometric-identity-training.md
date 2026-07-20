@@ -3,6 +3,7 @@ type: source
 title: "Identité biométrique et protection des données personnelles : le REJA-DS en formation à Cotonou"
 url: https://fraternite.bj/identite-biometrique-et-protection-des-donnees-personnelles-le-reja-ds-en-formation-a-cotonou/
 publisher: Fraternité
+ingested: 2026-07-18
 author: Isac YAI
 published: 2026-03-26
 date_precision: day
@@ -13,6 +14,7 @@ places: [BEN]
 topics: [gov.protect, dpi.id, capacity.training, capacity.literacy]
 entities: [[reja-ds], [konrad-adenauer-stiftung], [sipodi], [anip-benin], [apdp-benin], [moise-dossoumou], [tobias-ruettershoff]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Identité biométrique et protection des données personnelles : le REJA-DS en formation à Cotonou

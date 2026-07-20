@@ -6,9 +6,12 @@ publisher: GabonReview
 published: 2025-01-07
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [GAB]
 topics: [infra.connect]
 entities: [[airtel-gabon]]
+lens: []
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: GAB-2026-07-17
 ---

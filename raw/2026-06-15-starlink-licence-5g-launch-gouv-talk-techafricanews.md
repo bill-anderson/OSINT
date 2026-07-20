@@ -6,12 +6,14 @@ publisher: TechAfrica News
 published: 2026-06-15
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [infra.connect, data.satellite, digital.rural, include.divides, include.access, gov.legislate, gov.policy, tech.ai, infra.cybersec, geopol.usa]
 entities: [[starlink], [spacex], [ministry-of-digital-transition-and-digitalisation-cote-divoire], [djibril-ouattara], [artci]]
 lens: []
+body_completeness: full
 ---
 
 #Satellite

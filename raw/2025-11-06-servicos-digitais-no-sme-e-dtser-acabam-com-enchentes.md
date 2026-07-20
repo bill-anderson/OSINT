@@ -3,6 +3,8 @@ type: source
 title: Entrada dos serviços digitais no SME e na DTSER acaba com enchentes e "mixeiros" à porta, mas utentes queixam-se de dificuldades no acesso ao cadastramento no portal da DTSER
 url: https://www.novojornal.co.ao/sociedade/detalhe/entrada-dos-servicos-digitais-no-sme-e-na-dtser-acaba-com-enchentes-e-mixeiros-a-porta-mas-utentes-queixam-se-de-dificuldades-no-acesso-ao-cadastramento-no-portal-da-dtser-68093.html
 publisher: Novo Jornal
+lens: []
+body_completeness: full
 author: Nova Vaga
 published: 2025-11-06
 date_precision: day

@@ -3,6 +3,9 @@ type: source
 title: "Plateforme de gestion électronique des courriers: Un pilier pour la modernisation de l'administration publique"
 url: https://lanation.bj/actualites/plateforme-de-gestion-electronique-des-courriers-un-pilier-pour-la-modernisation-de-ladministration-publique
 publisher: La Nation
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Isidore GOZO
 published: 2025-02-18
 date_precision: day

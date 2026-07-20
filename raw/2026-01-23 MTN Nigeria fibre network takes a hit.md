@@ -3,6 +3,8 @@ type: source
 title: "MTN Nigeria fibre network takes a hit"
 publisher: ITWeb Africa
 url: https://itweb.africa/article/mtn-nigeria-fibre-network-takes-a-hit/o1Jr5MxP5Z6MKdWL
+date_precision: day
+date_source: source
 author: Samuel Olomu
 published: 2026-01-23
 accessed: 2026-07-12
@@ -11,6 +13,7 @@ places: [NGA]
 topics: [infra.connect, tech.industry]
 entities: [[mtn-nigeria], [mtn-group]]
 lens: []
+body_completeness: excerpt
 ---
 <!-- MTN Nigeria "2025 Wrapped" (CEO Karl Toriola): 9,218 fibre-cut incidents (1 Jan–31 Dec 2025), vandalism at 211 sites (1 Jan–30 Nov 2025), 1,624,263 consumer complaints (all resolved). Return to profit: PAT ₦750.19bn ($525M) 9M to Sept 2025 (vs ₦514.9bn loss 9M 2024); interim dividend ₦5.00/share. Attach: NGA hub, mtn-nigeria (new), mtn-group. -->
 

@@ -3,6 +3,7 @@ type: source
 title: "Burkina : Le ministère de la Transition digitale lance son premier CASEM 2026 sous le signe de la souveraineté numérique"
 url: https://lefaso.net/spip.php?article145231
 publisher: leFaso.net
+ingested: 2026-07-18
 author: Rama Diallo
 published: 2026-03-23
 date_precision: day
@@ -13,6 +14,7 @@ places: [BFA]
 topics: [infra.connect, infra.store, infra.cybersec, dpi.id, dpi.govtech, dpi.pay, gov.policy, gov.regional, gov.legislate, include.divides, digital.rural, tech.ai, capacity.training]
 entities: [[ministere-de-la-transition-digitale-des-postes-et-des-communications-electroniques-burkina-faso], [aminata-zerbo-sabane], [societe-burkinabe-de-telediffusion], [starlink], [la-poste-burkina-faso], [alliance-des-etats-du-sahel], [resina]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Burkina : Le ministère de la Transition digitale lance son premier CASEM 2026 sous le signe de la souveraineté numérique

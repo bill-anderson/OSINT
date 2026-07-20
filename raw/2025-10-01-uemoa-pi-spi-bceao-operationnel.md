@@ -3,6 +3,9 @@ type: source
 title: "Espace UEMOA: le système de Paiement instantané PI-SPI de la BCEAO opérationnel"
 url: https://www.sidwaya.info/espace-uemoa-le-systeme-de-paiement-instantane-pi-spi-de-la-bceao-operationnel/
 publisher: Sidwaya
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Fleur BIRBA
 published: 2025-10-01
 date_precision: day

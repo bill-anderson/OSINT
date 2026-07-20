@@ -6,6 +6,7 @@ publisher: TechAfrica News
 published: 2026-05-25
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [KEN]
 topics: [tech.ai, infra.store, tech.innovate]
 entities: [[ixafrica-data-centres]]

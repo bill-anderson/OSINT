@@ -6,12 +6,14 @@ publisher: Liberian Observer
 published: 2025-12-17
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: LBR-2026-07-17
 places: [LBR]
 topics: [dpi.pay, finance.new, include.access, infra.cybersec]
 entities: [[central-bank-of-liberia], [pay-na-na], [mojaloop], [africanenda], [world-bank]]
 lens: []
+body_completeness: full
 ---
 
 # Gov't Launches IIPS with Orange Money, Mobile Money Integration

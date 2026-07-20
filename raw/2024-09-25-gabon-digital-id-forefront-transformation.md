@@ -12,6 +12,7 @@ places: [GAB]
 topics: [dpi.id, gov.policy, infra.store, finance.mou]
 entities: [[in-groupe], [digital-gabon-project], [world-bank], [huawei]]
 lens: [sovereignty, colonialism]
+body_completeness: full
 ---
 
 Since June 2024, citizens in Gabon have been able to obtain a new-generation national ID and a digital ID number — something that had not happened for at least 10 years. The physical card and digital ID management software/hardware are supplied by French identity services company **IN Groupe** (EVP Yann Haguet); the project was launched on 25 June.

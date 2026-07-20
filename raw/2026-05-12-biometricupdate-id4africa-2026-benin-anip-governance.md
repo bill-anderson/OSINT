@@ -3,6 +3,7 @@ type: source
 title: "Building digital ID systems that last: African countries share experiences as ID4Africa 2026 opens"
 url: https://www.biometricupdate.com/202605/building-digital-id-systems-that-last-african-countries-share-experiences-as-id4africa-2026-opens
 publisher: Biometric Update
+ingested: 2026-07-18
 author: Ayang Macdonald
 published: 2026-05-12
 date_precision: day
@@ -13,6 +14,7 @@ places: [BEN, NGA, CIV, GHA, MAR, ETH, UGA, KEN]
 topics: [dpi.id, dpi.registry, gov.policy, include.access]
 entities: [[anip-benin], [id4africa], [nimc-nigeria], [oneci], [nia-ghana], [mosip]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Building digital ID systems that last: African countries share experiences as ID4Africa 2026 opens

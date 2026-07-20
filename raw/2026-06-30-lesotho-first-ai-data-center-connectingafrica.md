@@ -6,10 +6,12 @@ publisher: Connecting Africa
 published: 2026-06-30
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [LSO]
 topics: [infra.store, infra.energy, tech.ai, finance.new, geopol.usa]
 entities: [[convalt-energy], [project-kobong]]
 lens: [sovereignty]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: LSO-2026-07-17
 ---

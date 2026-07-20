@@ -13,6 +13,7 @@ places: [KEN]
 topics: [include.divides, tech.industry, infra.connect]
 entities: [[gsma]]
 lens: []
+body_completeness: full
 ---
 
 <!-- GSMA report 'Accelerating Smartphone Adoption in Africa': Kenyans perceive locally-assembled phones as lower quality despite lower prices (2 yrs after Kenya's first assembly plant). Recommends brand-building + consumer-trust. Oct 2023: first assembly plant, Machakos (East Africa Device Assembly Kenya Ltd); Ruto: up to 3m units/yr, cheapest in Africa. April 2024: 268,000 locally-assembled phones bought (ex-CS Owalo); M-Kopa produced 1.5m+ in Nairobi (Nov 2024). Smartphone adoption 62%, 63% on 4G, only 3% 5G. Nearly half of buyers open to reputable pre-owned phones. MWC Kigali (Oct): GSMA + Airtel/Axian/Ethio/MTN/Orange/Vodacom proposed baseline for an affordable entry-level 4G smartphone. Vivek Badrinath (GSMA DG). -->

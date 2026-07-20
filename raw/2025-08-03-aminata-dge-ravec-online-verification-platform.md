@@ -3,6 +3,7 @@ type: source
 title: "Vérification du PN-RAVEC : la DGE lance une plateforme digitale pour les électeurs (verification.dge.gov.gn)"
 url: https://aminata.com/verification-du-pn-ravec-la-dge-lance-une-plateforme-digitale-pour-simplifier-la-demarche-des-electeurs/
 publisher: Aminata.com
+ingested: 2026-07-18
 author: Ikd
 published: 2025-08-03
 date_precision: day
@@ -13,6 +14,7 @@ places: [GIN]
 topics: [dpi.govtech, dpi.id, include.access]
 entities: [[matd-guinea], [pn-ravec]]
 lens: []
+body_completeness: full
 ---
 
 # Vérification du PN-RAVEC : la DGE lance une plateforme digitale pour simplifier la démarche des électeurs

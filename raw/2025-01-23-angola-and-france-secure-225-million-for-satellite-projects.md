@@ -13,6 +13,7 @@ places: [AGO]
 topics: [data.satellite, finance.new, geopol.eu]
 entities: [[airbus]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 Finance Minister Vera Daves de Sousa has signed major financing agreements to drive Angola's technological advancements and infrastructure development.

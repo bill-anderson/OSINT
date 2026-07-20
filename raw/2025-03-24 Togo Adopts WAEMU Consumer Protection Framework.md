@@ -3,6 +3,8 @@ type: source
 title: Togo Adopts WAEMU Consumer Protection Framework
 url: https://www.togofirst.com/en/economic-governance/2403-15996-togo-adopts-waemu-consumer-protection-framework
 publisher: Togo First
+lens: []
+body_completeness: full
 author: Ayi Renaud Dossavi
 published: 2025-03-24
 date_precision: day

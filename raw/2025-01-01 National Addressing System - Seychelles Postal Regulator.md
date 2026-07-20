@@ -10,6 +10,8 @@ ingested: 2026-07-17
 places: [SYC]
 topics: [dpi.registry, gov.standards, data.statistics, dpi.govtech]
 entities: [[seychelles-postal-regulator], [seychelles-national-addressing-system], [dict-seychelles]]
+lens: []
+body_completeness: full
 ---
 
 Note: This is an undated government portal page describing the status of the National Addressing System. The dataset context places it in 2025; "published: 2025" is a bare-year, in-window estimate — no explicit publication date is stated on the page.

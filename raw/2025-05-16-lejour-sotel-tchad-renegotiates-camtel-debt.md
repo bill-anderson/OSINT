@@ -3,6 +3,7 @@ type: source
 title: "Coopération digitale : Sotel Tchad renégocie sa dette envers Camtel"
 url: https://lejour.cm/cooperation-digitale-sotel-tchad-renegocie-sa-dette-envers-camtel/
 publisher: Le Jour
+ingested: 2026-07-18
 author: Achille Chountsa
 published: 2025-05-16
 date_precision: day
@@ -13,6 +14,7 @@ places: [CMR, TCD]
 topics: [infra.connect, gov.regional]
 entities: [[camtel], [sotel-tchad], [minpostel]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Coopération digitale : Sotel Tchad renégocie sa dette envers Camtel

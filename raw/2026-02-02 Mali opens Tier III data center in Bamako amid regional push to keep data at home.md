@@ -13,6 +13,7 @@ places: [MLI]
 topics: [infra.store, infra.cybersec, dpi.govtech, gov.regional]
 entities: [[alliance-of-sahel-states]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 Malian authorities inaugurated a Tier III data centre in Bamako on Saturday 31 January 2026, during the third edition of Mali's Digital Week. Described as strategic infrastructure, it aims to strengthen digital sovereignty by encouraging local storage of public and sensitive data previously hosted abroad. Minister Alhamdou Ag Ilyène called it "a decisive step toward safeguarding and securing national data."

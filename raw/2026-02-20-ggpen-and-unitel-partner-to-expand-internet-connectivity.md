@@ -3,6 +3,8 @@ type: source
 title: GGPEN and UNITEL partner to expand internet connectivity in Angola
 url: https://techreviewafrica.com/news/4074/ggpen-and-unitel-partner-to-expand-internet-connectivity-in-angola
 publisher: Tech Review Africa
+lens: []
+body_completeness: full
 author: Nana Appiah Acquaye
 published: 2026-02-20
 date_precision: day

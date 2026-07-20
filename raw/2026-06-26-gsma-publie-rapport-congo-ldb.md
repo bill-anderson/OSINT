@@ -3,6 +3,7 @@ type: source
 title: "Téléphonie mobile : la GSMA publie son rapport sur le Congo"
 url: https://www.adiac-congo.com/content/telephonie-mobile-la-gsma-publie-son-rapport-sur-le-congo-170615
 publisher: Les Dépêches de Brazzaville (ADIAC)
+ingested: 2026-07-18
 author: Guillaume Ondze
 published: 2026-06-26
 date_precision: day
@@ -13,6 +14,7 @@ places: [COG]
 topics: [infra.connect, dpi.pay, include.divides, include.access, gov.policy]
 entities: [[gsma], [congo-digital-strategy-2030]]
 lens: [sovereignty]
+body_completeness: full
 provenance_flag: state-aligned-outlet
 ---
 

@@ -6,12 +6,14 @@ publisher: TechAfrica News
 published: 2026-01-15
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [dpi.pay, finance.new, include.access, tech.innovate]
 entities: [[cdc-ci], [green-pay], [orange-cote-divoire], [lassina-fofana], [anouar-traboulsi]]
 lens: []
+body_completeness: full
 ---
 
 # CDC-CI and GREEN-PAY Partner to Accelerate Digital Payment Innovation in Côte d'Ivoire

@@ -6,12 +6,14 @@ publisher: ACTUALITE.CD
 published: 2025-02-03
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: COD-2026-07-17
 places: [COD]
 topics: [infra.connect, include.access, gov.policy]
 entities: [[csac-drc], [ptntic-drc]]
 lens: []
+body_completeness: full
 ---
 
 Lundi 3 février 2025 - 08:53

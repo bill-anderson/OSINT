@@ -3,6 +3,8 @@ type: source
 title: "Why Google, Amazon and Meta are going overland in Africa"
 publisher: The Africa Report
 url: https://www.theafricareport.com/411855/
+date_precision: day
+date_source: source
 author: Quentin Velluet
 published: 2026-03-16
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [ZAF, XAF]
 topics: [infra.connect, geopol.usa, finance.new]
 entities: [[google], [meta], [amazon-web-services], [microsoft]]
 lens: []
+body_completeness: full
 ---
 
 <!-- US hyperscalers pivoting to build overland ultra-high-speed fibre across Africa's interior with local players (after subsea 2Africa/Equiano). Yangtze Optics Africa Cable fibre factory in Durban. NB: capture is paywall-truncated — re-capture for full text. -->

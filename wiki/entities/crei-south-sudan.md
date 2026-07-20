@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: company
 title: Communication and Renewable Energy Infrastructure (CREI)
 places: [SSD]

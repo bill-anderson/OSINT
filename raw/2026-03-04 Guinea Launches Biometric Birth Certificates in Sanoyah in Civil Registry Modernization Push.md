@@ -13,6 +13,7 @@ places: [GIN]
 topics: [dpi.id, dpi.registry]
 entities: [[oneci-guinea], [mosip], [tech5]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Sanoyah commune (outskirts of Conakry) began issuing biometric birth certificates locally on 2 Mar 2026 — "one citizen, one identity." Attended by ONECI DG + Ministry of Territorial Administration. Home-commune enrolment for both biometric birth certificate and biometric national ID card. Phase 1: 2,000 biometric birth certificates. Base docs: prior birth cert, court supplementary judgment, or RAVEC document; private-DC docs rejected. Free for residents 15-30 (60,000 GNF receipt for under-15); national ID free for first-time 16+. Built on MOSIP + TECH5. Birth cert = foundational doc for the national biometric ID. -->

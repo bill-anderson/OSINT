@@ -6,12 +6,14 @@ publisher: MyJoyOnline
 published: 2026-07-16
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: GHA-2026-07-17
 places: [GHA]
 topics: [dpi.pay, gov.legislate]
 entities: [[bank-of-ghana]]
 lens: []
+body_completeness: full
 ---
 # BoG to roll out new digital banking framework as financial sector goes more digital
 

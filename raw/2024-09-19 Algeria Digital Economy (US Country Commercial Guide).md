@@ -11,6 +11,7 @@ places: [DZA]
 topics: [gov.protect, dpi.pay, infra.connect, gov.policy, infra.store]
 entities: [[anpdcp]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Algeria — Digital Economy (U.S. Country Commercial Guide)

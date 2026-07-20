@@ -6,6 +6,7 @@ publisher: Malawi24
 published: 2026-06-09
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [MWI]
 topics: [infra.connect, dpi.govtech, geopol.china, finance.new]
 entities: [[malawi-ministry-of-ict], [huawei]]

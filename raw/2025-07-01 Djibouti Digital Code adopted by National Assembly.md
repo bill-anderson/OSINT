@@ -11,6 +11,7 @@ places: [DJI]
 topics: [gov.protect, infra.cybersec, gov.policy, dpi.exchange]
 entities: [[djibouti-digital-code], [cndp-djibouti], [national-cybersecurity-authority-djibouti], [vision-djibouti-2035]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Djibouti Digital Code adopted by the National Assembly

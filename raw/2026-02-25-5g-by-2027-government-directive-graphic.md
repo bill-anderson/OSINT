@@ -6,12 +6,14 @@ publisher: Graphic Online
 published: 2026-02-25
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: GHA-2026-07-17
 places: [GHA]
 topics: [infra.connect]
 entities: [[national-communications-authority-ghana], [samuel-nartey-george]]
 lens: []
+body_completeness: full
 ---
 
 # 5G by 2027: Government directive puts telecom regulator on the clock

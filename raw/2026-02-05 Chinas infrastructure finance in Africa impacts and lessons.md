@@ -12,6 +12,7 @@ places: [XAF, ETH, KEN, GHA, GIN, ZMB, AGO]
 topics: [infra.connect, infra.store, dpi.govtech, finance.new, finance.mou, geopol.china, digital.rural]
 entities: [[odi-global], [china-eximbank], [huawei], [zte], [konza-technopolis]]
 lens: [sovereignty, colonialism]
+body_completeness: full
 ---
 
 # China's infrastructure finance in Africa: impacts and lessons

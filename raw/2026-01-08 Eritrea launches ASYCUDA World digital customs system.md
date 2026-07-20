@@ -11,6 +11,7 @@ places: [ERI]
 topics: [dpi.govtech, dpi.exchange, gov.policy]
 entities: []
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Eritrea launches ASYCUDA World digital customs system

@@ -7,6 +7,7 @@ topics: [tech.ai, gov.policy, capacity.research]
 lens: [sovereignty, colonialism]
 status: active
 last_reviewed: 2026-07-15
+sources: []
 ---
 
 # Global Center on AI Governance

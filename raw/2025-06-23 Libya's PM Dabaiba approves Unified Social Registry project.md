@@ -13,6 +13,7 @@ places: [LBY]
 topics: [dpi.registry, include.access, dpi.mis]
 entities: [[libya-unified-social-registry]]
 lens: []
+body_completeness: full
 ---
 
 <!-- PM Dabaiba approved the draft Unified Social Registry document (submitted by Social Affairs Minister + High Committee chair Wafaa Al-Kilani; Tripoli, 23 Jun 2025). Relies on a unified database integrating citizens' social + economic information to identify those eligible for support accurately/transparently. Classification system by social criteria (income, health, family size) with periodic data updates. Fundamental pillar for a social-security system protecting vulnerable groups; part of developing social protection + fairness in distributing support. -->

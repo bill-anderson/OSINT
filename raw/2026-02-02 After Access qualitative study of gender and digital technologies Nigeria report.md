@@ -4,12 +4,15 @@ title: "After Access qualitative study of gender and digital technologies: Niger
 publisher: Research ICT Africa
 url: https://researchictafrica.net/research/after-access-qualitative-study-of-gender-and-digital-technologies-nigeria-report/
 published: 2026-02-02
+date_precision: day
+date_source: source
 accessed: 2026-07-12
 ingested: 2026-07-12
 places: [NGA]
 topics: [include.divides, include.access, capacity.literacy, gov.policy]
 entities: [[after-access], [research-ict-africa]]
 lens: []
+body_completeness: full
 ---
 <!-- Nigeria country report of RIA's After Access qualitative gender study (NGA/GHA/UGA/ETH set): digital adoption shaped by gender norms, cost, security, literacy; rural women and women with disabilities most excluded. Attach: [[after-access]] + [[research-ict-africa]]. -->
 

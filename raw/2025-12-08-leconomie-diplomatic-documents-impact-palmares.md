@@ -3,6 +3,7 @@ type: source
 title: "Gouvernance numérique : Le Cameroun confie la sécurisation des documents diplomatiques au groupe ivoirien Impact Palmarès"
 url: https://leconomie.info/gouvernance-numerique-le-cameroun-confie-la-securisation-des-documents-diplomatiques-au-groupe-ivoirien-impact-palmares/
 publisher: Le quotidien L'Economie
+ingested: 2026-07-18
 author: William Abada
 published: 2025-12-08
 date_precision: day
@@ -13,6 +14,7 @@ places: [CMR]
 topics: [dpi.id, dpi.govtech, infra.store]
 entities: [[impact-palmares], [minrex-cameroon]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Gouvernance numérique : Le Cameroun confie la sécurisation des documents diplomatiques au groupe ivoirien Impact Palmarès

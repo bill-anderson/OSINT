@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: organisation
 title: UN Economic Commission for Africa (UNECA / ECA)
 places: [XAF]

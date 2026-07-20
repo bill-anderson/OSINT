@@ -6,12 +6,14 @@ publisher: Fraternité Matin
 published: 2026-03-13
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [gov.protect, capacity.literacy]
 entities: [[artci]]
 lens: []
+body_completeness: full
 ---
 
 # JIF 2026/Protection des données à caractère personnel: L'Artci sensibilise les lycéennes à leurs droits et à un usage responsable du numérique

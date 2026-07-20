@@ -6,6 +6,7 @@ publisher: Times of Eswatini
 published: 2025-11-16
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [SWZ]
 topics: [dpi.pay, gov.regional]
 entities: [[central-bank-of-eswatini], [eswatini-payment-switch], [africanenda-foundation]]

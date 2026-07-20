@@ -3,6 +3,9 @@ type: source
 title: "Foncier au Burkina : SYC@D pour une meilleure gestion des terres"
 url: https://www.sidwaya.info/foncier-au-burkina-sycd-pour-une-meilleure-gestion-des-terres/
 publisher: Sidwaya
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Emmanuel Bicaba
 published: 2025-03-23
 date_precision: day

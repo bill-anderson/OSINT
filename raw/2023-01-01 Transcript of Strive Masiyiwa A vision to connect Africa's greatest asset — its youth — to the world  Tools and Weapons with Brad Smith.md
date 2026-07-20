@@ -3,6 +3,7 @@ type: source
 title: "Strive Masiyiwa on Tools and Weapons with Brad Smith (transcript)"
 publisher: Tools and Weapons with Brad Smith (Microsoft)
 url: https://tools-and-weapons-with-brad-smith.simplecast.com/episodes/strive-masiyiwa-entrepreneurship-education-and-impatience/transcript
+date_source: source
 author: Brad Smith (host)
 published: 2023
 date_precision: year
@@ -12,6 +13,7 @@ places: [ZWE, ZAF, NGA, KEN, XAF, XGL]
 topics: [infra.connect, infra.store, tech.ai, capacity.training, include.access, geopol.usa, gov.regional, tech.industry]
 entities: [[strive-masiyiwa], [econet-wireless], [liquid-c2], [microsoft], [african-union], [africa-medical-supplies-platform]]
 lens: [sovereignty, colonialism]
+body_completeness: full
 ---
 
 <!-- Richest single biographical+strategy source (~2023, undated). Econet 100,000 miles fibre

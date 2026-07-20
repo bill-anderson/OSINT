@@ -3,6 +3,8 @@ type: source
 title: Togo Increases Electricity Prices to Boost Utility's Finances
 url: https://www.togofirst.com/en/energy/1605-16346-togo-increases-electricity-prices-to-boost-utility-s-finances
 publisher: Togo First
+lens: []
+body_completeness: full
 author: Ayi Renaud Dossavi
 published: 2025-05-16
 date_precision: day

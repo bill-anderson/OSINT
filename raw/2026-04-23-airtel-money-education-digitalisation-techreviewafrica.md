@@ -3,6 +3,7 @@ type: source
 title: Airtel Money supports digitalisation of education sector in Republic of Congo (E-SCHOOL ACADEMY / YABISOSOFT)
 url: https://techreviewafrica.com/news/5111/airtel-money-supports-digitalisation-of-education-sector-in-republic-of-congo
 publisher: Tech Review Africa
+ingested: 2026-07-18
 author: Kanto Kai Okanta
 published: 2026-04-23
 date_precision: day
@@ -11,6 +12,7 @@ places: [COG]
 topics: [dpi.pay, dpi.mis, include.access, tech.innovate]
 entities: [[airtel-congo]]
 lens: []
+body_completeness: full
 provenance_flag: pr-wire
 retrieved: 2026-07-17
 sweep_batch: COG-2026-07-17

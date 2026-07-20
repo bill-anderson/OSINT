@@ -3,6 +3,8 @@ type: source
 title: Ericsson modernizes Unitel's network in Angola
 url: https://www.connectingafrica.com/5g-networks/ericsson-modernizes-unitel-s-network-in-angola
 publisher: Connecting Africa
+lens: []
+body_completeness: full
 author: Paula Gilbert
 published: 2025-03-11
 date_precision: day

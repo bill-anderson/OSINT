@@ -6,12 +6,14 @@ publisher: Tech Review Africa
 published: 2025-10-02
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [dpi.govtech, gov.policy, dpi.registry]
 entities: [[projet-dacceleration-du-numerique-padci], [ministry-of-digital-transition-cote-divoire], [okto-technologies], [world-bank]]
 lens: []
+body_completeness: full
 provenance_flag: pr-wire
 primary_to_source: The OKTO Technologies / IT6 consortium mapping study of 232 digital public services; PADCI (Digital Acceleration Project) documentation and its World Bank co-financing agreement
 ---

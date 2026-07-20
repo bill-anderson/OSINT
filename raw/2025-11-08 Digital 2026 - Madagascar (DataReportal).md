@@ -13,6 +13,7 @@ places: [MDG]
 topics: [data.statistics]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 DataReportal's Digital 2026 profile for Madagascar (published end-2025; data current to October 2025). Headline figures: 21.8 million cellular mobile connections in late 2025 (66.2% of total population; +2.2 million / +11.1% year-on-year; 76.3% "broadband" 3G/4G/5G). Internet users: 6.71 million at end-2025, an internet penetration rate of 20.4%. Social media: 4.15 million user identities in October 2025 (12.6% of population).

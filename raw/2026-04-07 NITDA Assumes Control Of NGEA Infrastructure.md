@@ -3,6 +3,8 @@ type: source
 title: "NITDA Assumes Control Of NGEA Infrastructure"
 publisher: CIO Africa
 url: https://cioafrica.co/nitda-assumes-control-of-ngea-infrastructure/
+date_precision: day
+date_source: source
 author: Steve Mbego
 published: 2026-04-07
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [NGA]
 topics: [dpi.govtech, dpi.exchange, gov.standards]
 entities: [[nitda], [nimc], [ngea], [galaxy-backbone]]
 lens: []
+body_completeness: full
 ---
 
 <!-- NITDA formally took over the Nigeria Government Enterprise Architecture (NGEA) infrastructure (Abuja handover), built over ~2.5 yrs with Korea's KOICA; part of e-Government Masterplan 2.0. Pilots at NIMC, Customs, Immigration, NITDA; hosted by Galaxy Backbone; aims MDA interoperability. (Korea funder has no matching geopol slug.) -->

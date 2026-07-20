@@ -12,6 +12,7 @@ places: [XGL, XSS]
 topics: [data.statistics, data.open, gov.policy, capacity.research]
 entities: [[data-systems-crossroads], [paris21], [open-data-watch]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Data Systems at a Crossroads: Official Statistics for a New Era (PARIS21 DP22)

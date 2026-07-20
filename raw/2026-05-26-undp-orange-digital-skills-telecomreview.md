@@ -6,12 +6,14 @@ publisher: Telecom Review Africa
 published: 2026-05-26
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [capacity.training, capacity.literacy, include.divides, tech.innovate, finance.mou]
 entities: [[orange-cote-divoire], [undp]]
 lens: []
+body_completeness: full
 ---
 
 The United Nations Development Program (UNDP) has partnered with Orange Côte d'Ivoire to strengthen digital inclusion and support entrepreneurship initiatives to empower young people across Côte d'Ivoire. The collaboration seeks to expand access to digital skills training, innovation opportunities, and entrepreneurial development as part of broader efforts to accelerate the country's digital transformation.

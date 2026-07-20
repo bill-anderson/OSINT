@@ -6,6 +6,7 @@ publisher: Techzim
 published: 2025-07-24
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [ZWE]
 topics: [infra.connect, include.divides, digital.localgov, dpi.govtech]
 entities: [[starlink], [ministry-of-ict-postal-and-courier-services-zimbabwe]]

@@ -3,6 +3,9 @@ type: source
 title: Benin Enters the 5G Era as Moov Africa Bénin Launches High-Speed Network at Novotel Orisha Cotonou
 url: https://techafricanews.com/2026/04/28/benin-enters-the-5g-era-as-moov-africa-benin-launches-high-speed-network-at-novotel-orisha-cotonou/
 publisher: TechAfrica News
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Kay-Lyne Wolfenden
 published: 2026-04-28
 date_precision: day

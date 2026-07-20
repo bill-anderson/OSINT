@@ -13,6 +13,7 @@ places: [LSO]
 topics: [dpi.registry, include.access, dpi.mis]
 entities: [[nissa-lesotho]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Year-proxy 2024 (RFP closing 12 Aug 2024; ToR dated 19 Jul 2024). Ministry of Gender, Youth and Social Development (MoGYSD), EU financial + UNICEF technical assistance, issued an RFP for the NISSA social registry + MISSA (Management Information System for Social Assistance). Earlier MIS developed Nov 2014, completed Jan 2016 — web-based on Microsoft platform + mobile app for timely data collection, supporting integrated safety nets (CGP, OVC Bursary, Public Assistance). UNICEF Social Policy Section continues to support strengthening the NISSA registry + MISSA. -->

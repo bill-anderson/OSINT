@@ -3,6 +3,7 @@ type: source
 title: "5ème édition du Cyber Africa Forum : les assises de Cotonou pour le renforcement de la cybersécurité"
 url: https://fraternite.bj/5eme-edition-du-cyber-africa-forum-les-assises-de-cotonou-pour-le-renforcement-de-la-cybersecurite/
 publisher: Fraternité
+ingested: 2026-07-18
 author: Isac YAI
 published: 2025-06-26
 date_precision: day

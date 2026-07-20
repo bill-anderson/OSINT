@@ -3,6 +3,9 @@ type: source
 title: Open Data Hackathon kicks off in Botswana
 url: https://techreviewafrica.com/news/4673/open-data-hackathon-kicks-off-in-botswana
 publisher: Tech Review Africa
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Nana Appiah Acquaye
 published: 2026-03-31
 date_precision: day

@@ -3,6 +3,9 @@ type: source
 title: "Semaine de l'innovation numérique : Les meilleurs projets primés"
 url: https://leconomie.info/semaine-de-linnovation-numerique-les-meilleurs-projets-primes/
 publisher: Le quotidien L'Economie
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Emilienne Nseme
 published: 2025-06-30
 date_precision: day

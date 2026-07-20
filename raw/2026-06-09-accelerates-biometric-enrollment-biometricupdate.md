@@ -3,6 +3,8 @@ type: source
 title: Rwanda accelerates biometric enrollment ahead of digital ID switch
 url: https://www.biometricupdate.com/202606/rwanda-accelerates-biometric-enrollment-ahead-of-digital-id-switch
 publisher: Biometric Update
+ingested: 2026-07-19
+lens: []
 author: Ayang Macdonald
 published: 2026-06-09
 date_precision: day

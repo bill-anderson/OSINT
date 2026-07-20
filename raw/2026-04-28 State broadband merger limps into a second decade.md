@@ -3,6 +3,8 @@ type: source
 title: "State broadband merger limps into a second decade"
 publisher: TechCentral
 url: https://techcentral.co.za/state-broadband-merger-limps-into-a-second-decade/280723/
+date_precision: day
+date_source: source
 author: Nkosinathi Ndlovu
 published: 2026-04-28
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [ZAF]
 topics: [infra.connect, gov.policy, include.access]
 entities: [[sita]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Sentech-Broadband Infraco merger (-> State Digital Infrastructure Company) slips to 2028/29 FY (DCDT APP, tabled 31 Mar 2026); BBI technically insolvent, lost SITA and Eskom contracts. SITA: no permanent CIO >3 years, 54% executive vacancy. National AI policy withdrawn. -->

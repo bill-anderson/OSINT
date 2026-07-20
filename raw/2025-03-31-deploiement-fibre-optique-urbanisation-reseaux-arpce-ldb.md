@@ -3,6 +3,7 @@ type: source
 title: "Déploiement de la fibre optique : vers une urbanisation maîtrisée des réseaux"
 url: https://www.adiac-congo.com/content/deploiement-de-la-fibre-optique-vers-une-urbanisation-maitrisee-des-reseaux-163787
 publisher: Les Dépêches de Brazzaville (ADIAC)
+ingested: 2026-07-18
 author: Quentin Loubou
 published: 2025-03-31
 date_precision: day
@@ -13,6 +14,7 @@ places: [COG]
 topics: [infra.connect, gov.standards, gov.legislate, infra.energy, digital.localgov]
 entities: [[arpce-congo], [congo-telecom]]
 lens: []
+body_completeness: full
 provenance_flag: state-aligned-outlet
 ---
 

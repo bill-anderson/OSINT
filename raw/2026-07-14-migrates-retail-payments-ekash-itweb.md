@@ -3,6 +3,8 @@ type: source
 title: Rwanda migrates retail payments to eKash
 url: https://itweb.africa/article/rwanda-migrates-retail-payments-to-ekash/rxP3jqBEnOoMA2ye
 publisher: ITWeb Africa
+ingested: 2026-07-19
+lens: []
 author: Phyllis Birori
 published: 2026-07-14
 date_precision: day

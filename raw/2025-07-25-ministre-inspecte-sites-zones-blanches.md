@@ -3,6 +3,9 @@ type: source
 title: "Couverture des « zones blanches »: la ministre Aminata Zerbo inspecte des sites de télécommunications"
 url: https://www.sidwaya.info/couverture-des-zones-blanches-la-ministre-aminata-zerbo-inspecte-des-sites-de-telecommunications/
 publisher: Sidwaya
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Oumarou Rabo et Beyon Romain Nébié
 published: 2025-07-25
 date_precision: day

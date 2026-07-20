@@ -6,10 +6,12 @@ publisher: Africa Business Insight
 published: 2026-05-25
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [CAF, SSD, XCA]
 topics: [infra.connect, gov.regional, include.divides, infra.cybersec]
 entities: [[mtn-group], [central-african-digital-development-agency], [mepci-central-african-republic], [adolphe-nicaise-samafou], [central-african-backbone], [eccas], [world-bank], [afdb]]
 lens: [sovereignty]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: CAF-2026-07-17
 provenance_flag: secondary-aggregator (rewrites trade/wire copy; trace the ministry statement of 17 May 2026 at ingest)

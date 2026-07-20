@@ -6,10 +6,12 @@ publisher: Tech Review Africa
 published: 2026-04-03
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [COD]
 topics: [dpi.pay, include.access, include.divides, gov.legislate, finance.new, tech.industry]
 entities: [[vodacom], [banque-centrale-du-congo]]
 lens: []
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: COD-2026-07-17
 ---

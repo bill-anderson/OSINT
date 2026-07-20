@@ -3,6 +3,8 @@ type: source
 title: Integrated National Data Exchange Systems - Uganda Case Study
 url: https://dial.global/research/integrated-national-data-exchange-uganda-case-study
 publisher: Digital Impact Alliance (DIAL)
+lens: []
+body_completeness: full
 author: Bernard Sabiti
 published: 2024-06-28
 date_precision: day

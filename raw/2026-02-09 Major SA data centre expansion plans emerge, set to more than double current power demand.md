@@ -12,6 +12,7 @@ places: [ZAF]
 topics: [infra.store, infra.energy, infra.capacity, gov.policy, tech.ai, geopol.usa]
 entities: [[teraco], [cavaleros], [microsoft], [vantage], [eskom], [cyril-ramaphosa]]
 lens: [sovereignty, colonialism]
+body_completeness: full
 ---
 
 *The strongest analytical piece in the data-centre batch and the one that supplies the aggregate thesis the wiki lacks: SA capacity going from ~400 MW to at least 1,200 MW, an increment roughly equal to one stage of Eskom load shedding. Carries Chris Yelland on constrained supply by 2029 and Eskom's 'looming base supply cliff', and the transparency contrast — Teraco discloses, Cavaleros says power procurement is 'commercially sensitive' under strict NDAs. Also treats the Microsoft R5.4bn announcement as already made as of 2026-02-09, against held sources dating it 2026-04 — see reviews/contradictions/open/microsoft-sa-investment-date.*

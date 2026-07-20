@@ -6,6 +6,7 @@ publisher: The Seychelles Times
 published: 2026-07-06
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [SYC]
 topics: [infra.connect]
 entities: [[airtel-seychelles], [seychelles-broadcasting-corporation], [ericsson]]

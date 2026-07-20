@@ -6,12 +6,14 @@ publisher: Tech Africa News
 published: 2025-11-24
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: MAR-2026-07-17
 places: [MAR]
 topics: [infra.store, infra.energy]
 entities: [[orange]]
 lens: []
+body_completeness: full
 ---
 
 # Orange Maroc unveils sustainable data centre to support Maroc Digital 2030

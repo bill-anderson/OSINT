@@ -13,6 +13,7 @@ places: [KEN]
 topics: [infra.store, tech.ai, geopol.usa, geopol.china]
 entities: [[microsoft-g42-kenya-datacenter], [g42], [microsoft], [huawei]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Semafor exclusive (22 Sept 2025): the $1bn Microsoft/G42 geothermal DC in Olkaria is languishing months before its expected first-phase deadline (~May 2026); no groundbreaking; geopolitics + financial snags. 15 months after the deal, G42/Microsoft/Kenya still working out business rationale + financial model. Frames Kenya as a US-China tech battleground: Huawei built ~70% of Africa's 4G, embedded in cloud/DC/power-grid. G42 severed Huawei ties late 2023 to secure US chips; Microsoft then invested $1.5bn in G42. Project intended as a blueprint to loosen Beijing's grip. Corroborates/updates the hub's stalled-DC development. -->

@@ -3,6 +3,8 @@ type: source
 title: "Malawi positions data privacy as cornerstone of digital development"
 publisher: Malawi24
 url: https://malawi24.com/2026/01/28/malawi-positions-data-privacy-as-cornerstone-of-digital-development/
+date_precision: day
+date_source: source
 author: Eric Chiputula
 published: 2026-01-28
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [MWI]
 topics: [gov.protect, gov.policy, dpi.govtech]
 entities: [[malawi-data-protection-act-2024]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Malawi ICT Minister Shadrick Namalomba (Data Privacy Week, Lilongwe) declared 'Privacy by Design' essential and data protection 'no longer optional', citing the Data Protection Act of 2024. Framed as central to Malawi 2063. -->

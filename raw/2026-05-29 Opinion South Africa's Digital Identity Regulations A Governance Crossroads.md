@@ -3,6 +3,8 @@ type: source
 title: "Opinion: South Africa's Digital Identity Regulations - A Governance Crossroads"
 publisher: Polity.org.za (Creamer Media)
 url: https://www.polity.org.za/article/opinion-south-africas-digital-identity-regulations-a-governance-crossroads-2026-05-29
+date_precision: day
+date_source: source
 author: Mark Burke
 published: 2026-05-29
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [ZAF]
 topics: [dpi.id, gov.protect, gov.legislate, gov.standards, dpi.exchange, include.divides]
 entities: [[popia], [sa-digital-id-regulations]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Named-analyst critique of DHA draft Identification Regulations (published 2026-05-04; comment to 2026-06-06): no right to erasure, weak/implied consent, no citizen access logs, power concentrated in the DG; likely ultra vires vs the NIR Bill. External analysis - cite by author. -->

@@ -1,9 +1,13 @@
 ---
 type: source
+date_precision: day
+date_source: source
 places: [RWA]
 topics: [dpi.pay, dpi.exchange, include.access]
 entities: [[ekash], [rswitch-rwanda], [mojaloop], [rwanda-information-society-authority], [national-bank-of-rwanda]]
 ingested: 2026-07-16
+lens: []
+body_completeness: full
 page: 
 title: Powering Rwanda’s Payments Future: How Mojaloop Enables RNDPS 2.0 and eKash
 author: Mojaloop Foundation

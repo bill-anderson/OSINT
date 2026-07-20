@@ -3,6 +3,8 @@ type: source
 title: "Five lessons from Zimbabwe's richest man, Strive Masiyiwa"
 publisher: African Leadership Magazine
 url: https://www.africanleadershipmagazine.co.uk/five-lessons-from-zimbabwes-richest-man-strive-masiyiwa/
+date_precision: day
+date_source: source
 author: Editorial Staff
 published: 2014-01-20
 accessed: 2026-06-12
@@ -10,6 +12,7 @@ ingested: 2026-07-10
 places: [ZWE, ZAF, KEN, NGA, RWA, XAF]
 topics: [infra.connect, finance.new]
 lens: []
+body_completeness: full
 entities: [[strive-masiyiwa], [econet-wireless]]
 ---
 

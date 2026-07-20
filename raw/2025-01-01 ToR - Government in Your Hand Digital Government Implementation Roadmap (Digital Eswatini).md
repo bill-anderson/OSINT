@@ -7,6 +7,8 @@ published: 2025-01-01
 date_precision: year
 date_source: proxy
 ingested: 2026-07-17
+lens: []
+body_completeness: full
 artefact: "2025-01-01 ToR - Government in Your Hand Digital Government Implementation Roadmap (Digital Eswatini).pdf"
 places: [SWZ]
 topics: [dpi.govtech, dpi.id, dpi.exchange, dpi.pay, gov.policy]

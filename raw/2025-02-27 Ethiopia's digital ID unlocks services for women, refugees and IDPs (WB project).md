@@ -11,6 +11,7 @@ places: [ETH]
 topics: [dpi.id, include.access, finance.new]
 entities: [[ethiopia-digital-id-inclusion-project], [fayda-ethiopia-national-id], [world-bank]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Ethiopia's digital ID unlocks services for women, refugees and IDPs (World Bank project)

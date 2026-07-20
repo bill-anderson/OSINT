@@ -3,6 +3,9 @@ type: source
 title: "Olympiades nationales d'intelligence artificielle 2026 : le Bénin lance la chasse aux talents du numérique"
 url: https://www.lanation.bj/numerique/olympiades-nationales-dintelligence-artificielle-2026-le-benin-lance-la-chasse-aux-talents-du-numerique
 publisher: La Nation
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Isidore Gozo
 published: 2026-06-23
 date_precision: day

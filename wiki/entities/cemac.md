@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: organisation
 title: CEMAC (Communauté Économique et Monétaire de l'Afrique Centrale)
 places: [XCA, TCD]

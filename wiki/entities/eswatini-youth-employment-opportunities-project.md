@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: deal
 title: Eswatini Youth Employment Opportunities Project (EYEOP)
 places: [SWZ]

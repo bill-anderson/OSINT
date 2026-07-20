@@ -12,6 +12,7 @@ places: [SOM, TZA, XEA]
 topics: [gov.regional, dpi.id]
 entities: [[eac], [nira-somalia]]
 lens: []
+body_completeness: full
 ---
 
 # Somalia cleared to adopt and print the EAC e-Passport

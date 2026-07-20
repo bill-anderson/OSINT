@@ -14,6 +14,7 @@ places: [AGO]
 topics: [infra.cybersec, gov.legislate, gov.protect]
 entities: [[assembleia-nacional-angola], [unita], [mpla], [angola-cybersecurity-law], [mario-oliveira], [ministerio-das-telecomunicacoes-tecnologias-de-informacao-e-comunicacao-social-angola]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Parlamento: Deputados suspendem discussão da proposta de Lei da Cibersegurança para melhorar diploma controverso

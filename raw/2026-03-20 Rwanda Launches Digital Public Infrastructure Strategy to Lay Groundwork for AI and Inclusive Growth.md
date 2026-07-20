@@ -3,6 +3,8 @@ type: source
 title: "Rwanda Launches Digital Public Infrastructure Strategy to Lay Groundwork for AI and Inclusive Growth"
 publisher: iAfrica
 url: https://iafrica.com/rwanda-launches-digital-public-infrastructure-strategy/
+date_precision: day
+date_source: source
 author: Sean Whitehead
 published: 2026-03-20
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [RWA]
 topics: [dpi.exchange, dpi.id, dpi.pay, dpi.govtech, gov.policy, tech.ai, include.access, finance.new]
 entities: [[rwanda-dpi-strategy], [rwanda-information-society-authority], [african-union]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Rwanda unveiled a national DPI strategy at its first DPI Day (9 Mar 2026, organised by RISA with Access to Finance Rwanda) — builds on the Rwanda Centre for Digital Public Infrastructure (est. 2025); digital-ID rollout planned by June 2026; interoperable payment platform e-Kash cited; positions Rwanda as a regional AI hub via stronger data exchange. Entities [[rwanda-dpi-strategy]], [[rwanda-information-society-authority]]. -->

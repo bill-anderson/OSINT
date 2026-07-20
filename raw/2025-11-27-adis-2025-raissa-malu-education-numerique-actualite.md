@@ -6,12 +6,14 @@ publisher: ACTUALITE.CD
 published: 2025-11-27
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: COD-2026-07-17
 places: [COD]
 topics: [dpi.govtech, tech.ai, capacity.training, capacity.literacy, include.access]
 entities: [[raissa-malu], [ministere-de-leducation-nationale-drc], [adn-drc], [dominique-migisha], [africa-digital-innovation-summit], [augustin-kibassa-maliba], [julien-paluku]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 Photo d'illustration

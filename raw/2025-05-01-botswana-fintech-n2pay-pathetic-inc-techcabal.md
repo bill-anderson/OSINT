@@ -3,6 +3,9 @@ type: source
 title: In a sparse fintech landscape, two new startups prepare to make their mark in Botswana
 url: https://techcabal.com/2025/05/01/in-a-sparse-fintech-landscape-two-new-startups-prepare-to-make-their-mark-in-botswana/
 publisher: TechCabal
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Sakhile Dube
 published: 2025-05-01
 date_precision: day

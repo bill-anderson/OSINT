@@ -11,6 +11,7 @@ places: [ETH]
 topics: [dpi.registry, dpi.id, data.statistics]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 # CRVS Systems Snapshot — Ethiopia (Centre of Excellence for CRVS)

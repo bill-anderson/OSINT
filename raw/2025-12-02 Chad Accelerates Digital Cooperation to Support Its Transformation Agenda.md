@@ -12,6 +12,7 @@ places: [TCD, XCA]
 topics: [gov.regional, finance.mou, dpi.govtech, infra.store, infra.connect, geopol.usa, gov.policy, infra.cybersec]
 entities: [[adetic], [boukar-michel], [tchad-connexion-2030], [cadnac], [cemac], [itu]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Chad Accelerates Digital Cooperation to Support Its Transformation Agenda

@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: deal
 title: Ecobank–Thunes Instant Cross-Border Payments Partnership
 places: [TGO, XAF]

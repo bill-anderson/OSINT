@@ -13,6 +13,7 @@ places: [LBR]
 topics: [infra.connect, include.divides, data.statistics]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 <!-- DataReportal Digital 2025: Liberia (3 Mar 2025). Population 5.67m (54.3% urban, median age 18.8). Mobile connections 5.11m (90.1%, 87.2% broadband). Internet users 1.84m, 32.4% penetration → ~3.8m offline. Social media 941k (16.6%). Baseline for the Liberia hub. -->

@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: resource
 title: SYDONIA (ASYCUDA) customs system
 places: [TGO]

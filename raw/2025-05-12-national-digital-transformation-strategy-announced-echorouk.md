@@ -1,6 +1,7 @@
 ---
 type: source
 title: Algeria, Candidate For Digital Leadership in Africa by 2030
+ingested: 2026-07-18
 title_en: Benmouloud announces National Digital Transformation Strategy — five axes, five data centres
 url: https://www.echoroukonline.com/algeria-candidate-for-digital-leadership-in-africa-by-2030
 publisher: Echorouk El Yawmi
@@ -14,6 +15,7 @@ places: [DZA]
 topics: [gov.policy, infra.store, dpi.govtech, capacity.training, dpi.pay]
 entities: [[meriem-benmouloud, haut-commissariat-a-la-numerisation, national-digital-transformation-strategy]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Algeria, Candidate For Digital Leadership in Africa by 2030

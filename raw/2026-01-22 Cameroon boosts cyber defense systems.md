@@ -3,6 +3,8 @@ type: source
 title: "Cameroon boosts cyber defense systems"
 publisher: ITWeb Africa
 url: https://itweb.africa/article/cameroon-boosts-cyber-defense-systems/Pero37Z3YWdMQb6m
+date_precision: day
+date_source: source
 author: Amindeh Blaise Atabong
 published: 2026-01-22
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [CMR]
 topics: [infra.cybersec, dpi.govtech]
 entities: [[antic-cameroon], [world-bank], [patnuc]]
 lens: []
+body_completeness: excerpt
 ---
 
 <!-- Cameroon commissioned cyber equipment/software worth >$1.3m at ANTIC's CIRT (Yaoundé, 20 Jan 2026), funded via the World Bank PATNUC. ANTIC identified >=8,502 vulnerabilities in 2025; CIRT collects ~200GB/day and handles ~200 urgent requisitions. -->

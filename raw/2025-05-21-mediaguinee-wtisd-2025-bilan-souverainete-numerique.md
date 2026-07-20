@@ -6,12 +6,14 @@ publisher: Mediaguinee
 published: 2025-05-21
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: GIN-2026-07-17
 places: [GIN]
 topics: [infra.connect, infra.store, infra.cybersec, gov.policy, tech.industry]
 entities: [[rose-pola-pricemou], [ministry-digital-economy-guinea], [mtn-guinea], [guilab], [guinea-national-data-centre]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # "On a acquis 87,5 % de MTN Guinée pour reprendre la main sur notre avenir télécom" (Rose Pricemou, ministre)

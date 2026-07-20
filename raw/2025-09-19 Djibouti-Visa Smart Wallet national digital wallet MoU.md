@@ -11,6 +11,7 @@ places: [DJI]
 topics: [dpi.pay, dpi.id, finance.mou, include.access]
 entities: [[smart-wallet-djibouti], [visa], [tech5], [djibouti-telecom], [djibouti-digital-code]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Djibouti–Visa "Smart Wallet" national digital wallet MoU

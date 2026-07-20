@@ -3,6 +3,8 @@ type: source
 title: "Ghana to take state control of .GH domain to strengthen digital identity"
 publisher: GBC Ghana Online
 url: https://www.gbcghanaonline.com/general/gh-domain-george/2026/
+date_precision: day
+date_source: source
 author: GBC
 published: 2026-01-22
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [GHA]
 topics: [gov.policy, dpi.id, infra.connect]
 entities: [[samuel-nartey-george], [ghana-domain-name-registry]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Minister Sam George (22 Jan 2026): plan to bring the .GH domain fully under state ownership (managed privately since 1996 by Prof. Nii Narku Quaynor); push to make firms register .com.gh as 'national digital identity'. Framed as digital sovereignty. -->

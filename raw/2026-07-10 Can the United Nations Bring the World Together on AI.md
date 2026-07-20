@@ -3,6 +3,8 @@ type: source
 title: "Can the United Nations Bring the World Together on AI?"
 publisher: Tech Policy Press
 url: https://www.techpolicy.press/can-the-united-nations-bring-the-world-together-on-ai/
+date_precision: day
+date_source: source
 author: Chris Stokel-Walker
 published: 2026-07-10
 accessed: 2026-07-12
@@ -11,6 +13,7 @@ places: [XGL]
 topics: [tech.ai, gov.regional, gov.standards]
 entities: [[un-ai-scientific-panel], [ai-for-good-global-commission], [itu]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- TPP analysis of the 2026 UN AI for Good Summit (Geneva): can the UN (193 states) govern AI amid US/EU/China rivalry; two prongs — a leaders' 'commission of the willing' + technical standards; Global South demand for real power vs a 'performative seat'. Attach to [[un-ai-scientific-panel]], [[ai-for-good-global-commission]]. -->

@@ -6,10 +6,12 @@ publisher: Lesotho Times
 published: 2026-06-12
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [LSO]
 topics: [gov.policy, gov.protect, tech.ai, infra.connect, dpi.govtech]
 entities: [[micsti-lesotho]]
 lens: [sovereignty]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: LSO-2026-07-17
 ---

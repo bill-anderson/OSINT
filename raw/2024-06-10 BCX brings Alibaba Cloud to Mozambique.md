@@ -13,6 +13,7 @@ places: [MOZ]
 topics: [infra.store, gov.policy]
 entities: []
 lens: [sovereignty]
+body_completeness: full
 ---
 
 Telkom subsidiary BCX teamed up with Alibaba to bring Alibaba Cloud to Mozambique. The Africa Local Public (ALP) Cloud services are hosted in a BCX data centre in Maputo — the second African country where Alibaba launched ALP Cloud (after South Africa in October 2023).

@@ -13,6 +13,7 @@ places: [LBR]
 topics: [dpi.id, gov.policy]
 entities: [[national-identification-registry-liberia]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Boakai appointed NSA Samuel Kofi Woods to lead a steering committee overseeing NBIS, rollout deadline 13 April 2026 (presidential memo). Committee: Ministries of Internal Affairs, Foreign Affairs, Post & Telecom; LTA, NIR, Central Bank of Liberia, National Elections Commission, President's Delivery Unit, Senior Economic Advisor. Follows the April EO (mandatory biometric ID for citizens + 90-day+ residents); builds on 2024 biometric efforts. NBIS for national security + verifiable identities; key feature: offline operation for remote/low-connectivity areas. Supports social welfare, banking, SIM registration. -->

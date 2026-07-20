@@ -1,10 +1,13 @@
 ---
 type: source
+ingested: 2026-07-17
 places: [NGA]
 topics: [dpi.id]
 entities: [[nimc], [nigeria-id4d]]
 date_precision: day
 date_source: source
+lens: []
+body_completeness: full
 page: NIN enrollments hit 123.9 million in October - NIMC - Nairametrics
 title: NIN enrollments hit 123.9 million in October - NIMC
 author: Samson Akintaro

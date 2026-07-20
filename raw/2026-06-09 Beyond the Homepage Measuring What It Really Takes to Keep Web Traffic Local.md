@@ -12,6 +12,7 @@ places: [XAF, ZAF, MWI, TZA, DZA, EGY, XSA, XSS]
 topics: [infra.connect, infra.store, include.access, gov.standards]
 entities: [[internet-society], [internet-society-pulse]]
 lens: [sovereignty, colonialism]
+body_completeness: full
 ---
 
 # Beyond the Homepage: Measuring What It Really Takes to Keep Web Traffic Local | ISOC Pulse

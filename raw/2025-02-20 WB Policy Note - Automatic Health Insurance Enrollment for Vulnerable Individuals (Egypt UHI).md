@@ -11,6 +11,7 @@ places: [EGY]
 topics: [dpi.mis, include.access, gov.policy]
 entities: [[takaful-and-karama]]
 lens: []
+body_completeness: full
 ---
 
 # WB Policy Note — Automatic Health Insurance Enrollment for Vulnerable Individuals (Egypt UHI)

@@ -6,6 +6,7 @@ publisher: State House Seychelles (Office of the President)
 published: 2026-06-23
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [SYC]
 topics: [dpi.govtech, infra.capacity, geopol.usa]
 entities: [[attorney-generals-office-seychelles], [patrick-herminie], [unodc], [unops]]

@@ -13,6 +13,7 @@ places: [CAF]
 topics: [dpi.id, dpi.registry, include.access]
 entities: [[ane-central-african-republic], [genkey], [al-madina], [faustin-archange-touadera]]
 lens: []
+body_completeness: full
 ---
 
 <!-- CAR prepares a biometric voter-registration drive ahead of long-delayed local elections (first since 1988; tentative date 6 Apr 2025, ahead of Dec 2025 presidential/legislative). Vendor: Dutch firm GenKey (also used for the 2020 general elections). ANE received 3,000 enrolment tablets, 1.68m registration forms, trained 2,000+ agents, >70% of funds mobilised. Core obstacle: lack of national ID documents — CNI issued only in Bangui because of insecurity, costly for rural citizens; authorities fall back on verbal testimony from traditional chiefs. Al Madina (ID card printer) accused of raising the fee from FCFA 4,500 (law) to FCFA 6,750. -->

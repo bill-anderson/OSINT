@@ -10,6 +10,8 @@ ingested: 2026-07-15
 places: [GAB]
 topics: [dpi.id, dpi.exchange, gov.protect, infra.cybersec, include.access]
 entities: [[world-bank], [digital-gabon-project]]
+lens: []
+body_completeness: full
 ---
 
 Companion source page for the archived PDF: [[raw/2024-12-19-world-bank-digital-gabon-isr-seq7.pdf]]

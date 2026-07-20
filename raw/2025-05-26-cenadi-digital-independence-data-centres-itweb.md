@@ -3,6 +3,7 @@ type: source
 title: Cameroon pursues digital independence via data centres
 url: https://itweb.africa/article/cameroon-pursues-digital-independence-via-data-centres/mYZRXM9g6ZzvOgA8
 publisher: ITWeb Africa
+ingested: 2026-07-18
 author: Amindeh Blaise Atabong
 published: 2025-05-26
 date_precision: day
@@ -11,6 +12,7 @@ places: [CMR]
 topics: [infra.store, infra.energy, infra.connect, gov.policy, gov.standards, infra.capacity, data.statistics]
 entities: [[cenadi], [ministry-of-finance-cameroon]]
 lens: [sovereignty]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: CMR-2026-07-17
 ---

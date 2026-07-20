@@ -12,6 +12,7 @@ places: [SLE]
 topics: [dpi.id, dpi.pay, digital.rural, include.access]
 entities: [[ncra], [world-bank], [sierra-leone-instant-payment-switch], [sierra-leone-national-digital-farmer-registry]]
 lens: []
+body_completeness: full
 ---
 
 # Unlocking opportunity - How digital ID can transform lives in Sierra Leone

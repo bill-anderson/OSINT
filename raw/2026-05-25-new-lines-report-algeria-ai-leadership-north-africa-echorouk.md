@@ -1,6 +1,7 @@
 ---
 type: source
 title: "Algeria Is The Most Likely To Lead Artificial Intelligence In North Africa"
+ingested: 2026-07-18
 title_en: New Lines Institute report — Algeria best-placed to lead AI in North Africa (market $499m 2025 → $1.69bn 2030)
 url: https://www.echoroukonline.com/algeria-is-the-most-likely-to-lead-artificial-intelligence-in-north-africa
 publisher: Echorouk El Yawmi
@@ -14,6 +15,7 @@ places: [DZA]
 topics: [tech.ai, gov.policy, capacity.research, geopol.usa, geopol.china, infra.connect]
 entities: [[new-lines-institute, algerie-telecom, medusa-cable]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # "Algeria Is The Most Likely To Lead Artificial Intelligence In North Africa"

@@ -3,6 +3,9 @@ type: source
 title: Botswana Tech Fund Targets £50m to Accelerate Digital Growth Across Southern Africa
 url: https://techafricanews.com/2026/04/22/botswana-tech-fund-targets-50m-to-accelerate-digital-growth-across-southern-africa/
 publisher: TechAfrica News
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Kay-Lyne Wolfenden
 published: 2026-04-22
 date_precision: day

@@ -3,6 +3,9 @@ type: source
 title: Botswana Advances Digital Inclusion Through Technology Donations and Education Support
 url: https://techafricanews.com/2026/05/25/botswana-advances-digital-inclusion-through-technology-donations-and-education-support/
 publisher: TechAfrica News
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Joyce Onyeagoro
 published: 2026-05-25
 date_precision: day

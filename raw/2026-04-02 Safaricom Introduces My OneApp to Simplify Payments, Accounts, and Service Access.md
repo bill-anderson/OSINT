@@ -3,6 +3,8 @@ type: source
 title: "Safaricom Introduces My OneApp to Simplify Payments, Accounts, and Service Access"
 publisher: Tech Africa News
 url: https://techafricanews.com/2026/04/02/safaricom-introduces-my-oneapp/
+date_precision: day
+date_source: source
 author: Jennifer Onyeagoro
 published: 2026-04-02
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [KEN]
 topics: [dpi.pay, tech.industry, include.access]
 entities: [[safaricom]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Safaricom unveiled 'My OneApp' merging the M-PESA App and MySafaricom App into one platform (payments + account management + telecom services). Thin announcement, no figures. -->

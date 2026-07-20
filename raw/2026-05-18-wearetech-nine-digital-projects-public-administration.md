@@ -3,6 +3,7 @@ type: source
 title: "Guinea unveils nine digital projects to modernize public administration (GUSP, Gouv-Lab, eTax, ANDE)"
 url: https://www.wearetech.africa/fr/fils/actualites/tech/guinea-launches-nine-digital-projects-to-modernize-public-administration
 publisher: We Are Tech Africa
+ingested: 2026-07-18
 author: Samira Njoya
 published: 2026-05-18
 date_precision: day
@@ -13,6 +14,7 @@ places: [GIN]
 topics: [dpi.govtech, gov.policy, capacity.training]
 entities: [[ande], [fugas], [simandou-2040]]
 lens: []
+body_completeness: full
 ---
 
 # Guinea Launches Nine Digital Projects to Modernize Public Administration

@@ -13,6 +13,7 @@ places: [BFA]
 topics: [dpi.pay, dpi.govtech, include.access]
 entities: [[faso-arzeka]]
 lens: []
+body_completeness: full
 ---
 
 <!-- We Are Tech (Jan 2025): Faso Arzêka — a government digital-payment platform under the Ministry of Economy & Finance via the Directorate General of Treasury and Public Accounting (DGTCP). Centralises government/financial services; mobile app (iOS/Android) + web + USSD *700# for the unconnected. Pay via Arzêka Money, mobile money, bank cards, transfers. Services: eTimbre (e-tax stamps), motor-vehicle tax, residence tax, customs duties, other admin services, categorised by ministry. Aims: state revenue collection, transparency, financial inclusion (esp. rural). A P2G digital-payments backbone. -->

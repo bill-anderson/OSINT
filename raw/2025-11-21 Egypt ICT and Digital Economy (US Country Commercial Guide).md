@@ -11,6 +11,7 @@ places: [EGY]
 topics: [dpi.govtech, infra.connect, gov.policy, tech.industry, infra.store]
 entities: [[mcit-egypt], [ntra-egypt], [telecom-egypt]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Egypt — ICT and Digital Economy (U.S. Country Commercial Guide)

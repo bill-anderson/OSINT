@@ -13,6 +13,7 @@ places: [COM]
 topics: [dpi.govtech, infra.store, dpi.id, gov.protect]
 entities: [[project-digitization-comorian-economy], [anaden]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Merges Biometric Update (2024-10-06) + Techpoint (2024-10-03). AfDB Board approved (1 Oct 2024) €9.51m ($10.4m) — €4.02m African Development Fund + €5.49m Transition Support Facility — for the "Project to Support Digitization of the Comorian Economy" (total est. €22.53m / $25m). Builds/operationalises a new data centre + existing secondary DC + an incubator; a PPP private operator runs/markets/maintains the DCs. Also: a digital-administration platform, digital public payment system, interoperability/data-exchange platform, and a NEW National Authority for the Protection of Personal Data and Access to Information. Comoros spent ~10 years on a six-pillar digital-services strategy with limited progress. -->

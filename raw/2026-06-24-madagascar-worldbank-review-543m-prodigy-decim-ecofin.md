@@ -6,10 +6,12 @@ publisher: Ecofin Agency
 published: 2026-06-24
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [MDG]
 topics: [dpi.id, infra.store, infra.connect, infra.energy, finance.new]
 entities: [[prodigy-madagascar], [decim-madagascar], [world-bank]]
 lens: []
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: MDG-2026-07-17
 ---

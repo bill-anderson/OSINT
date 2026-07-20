@@ -6,12 +6,14 @@ publisher: TechAfrica News
 published: 2025-10-20
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [dpi.govtech, finance.new, geopol.usa, gov.policy, capacity.training]
 entities: [[cybastion], [us-exim-bank], [ministry-of-commerce-and-industry-cote-divoire], [yves-yoboue]]
 lens: []
+body_completeness: full
 ---
 
 #Technology

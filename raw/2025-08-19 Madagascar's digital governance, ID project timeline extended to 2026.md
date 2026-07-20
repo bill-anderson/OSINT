@@ -13,6 +13,7 @@ places: [MDG]
 topics: [dpi.exchange, dpi.govtech, dpi.id]
 entities: [[prodigy-madagascar], [ugd-madagascar], [world-bank]]
 lens: []
+body_completeness: full
 ---
 
 The implementation timeline of Madagascar's PRODIGY project has been extended to a new closing date of 30 June 2026, to make the project more adaptive after earlier activity timelines were missed. PRODIGY is supported by about $143 million from the World Bank.

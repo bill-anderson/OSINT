@@ -6,6 +6,7 @@ publisher: Connecting Africa
 published: 2026-06-25
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [TZA]
 topics: [infra.connect, finance.mou, include.access]
 entities: [[yas-tanzania], [zictia]]

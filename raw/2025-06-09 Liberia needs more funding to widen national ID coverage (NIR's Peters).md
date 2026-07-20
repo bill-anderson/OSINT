@@ -13,6 +13,7 @@ places: [LBR]
 topics: [dpi.id, include.access, dpi.registry]
 entities: [[national-identification-registry-liberia], [great-project-liberia]]
 lens: []
+body_completeness: full
 ---
 
 <!-- NIR ED Andrew Peters (ID4Africa 2025 AGM): biggest challenge to expanding national ID enrollment is funding. National ID registration rate ~14% of ~5m citizens. Main issue: payments — citizens willing but paying for services an obstacle. Strong political support from Boakai; UNICEF assistance on birth registration. NIR seeking funding to make birth + ID registration free (needed to meet SDG 16.9 by 2030). Child-enrollment pilot with UNICEF: ~5,000 children in May (aligned with a 2023 NIR project to capture biometrics of children at birth); hopes to expand to 100,000-200,000. Fee dependence would prevent meeting the 2030 target. -->

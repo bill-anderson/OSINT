@@ -2,6 +2,7 @@
 type: source
 title: "David Eaves — About (personal site)"
 publisher: eaves.ca (self)
+date_source: source
 author: David Eaves
 url: https://eaves.ca/about-david/
 published: 2026
@@ -12,6 +13,7 @@ places: [XGL]
 topics: [dpi.id, dpi.pay, dpi.exchange, dpi.govtech, gov.policy, capacity.research]
 entities: [[david-eaves], [ucl-iipp], [mariana-mazzucato]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- PROFILE (bio page; undated — the 2008 frontmatter date is a stale CMS artefact). Enriches

@@ -3,6 +3,7 @@ type: source
 title: MTN Congo launches digital obstetric reference project to enhance maternal healthcare
 url: https://techreviewafrica.com/news/5456/mtn-congo-launches-digital-obstetric-reference-project-to-enhance-maternal-healthcare
 publisher: Tech Review Africa
+ingested: 2026-07-18
 author: Kanto Kai Okanta
 published: 2026-05-16
 date_precision: day
@@ -11,6 +12,7 @@ places: [COG]
 topics: [dpi.mis, include.access, infra.connect, tech.innovate]
 entities: []
 lens: []
+body_completeness: full
 provenance_flag: pr-wire
 retrieved: 2026-07-17
 sweep_batch: COG-2026-07-17

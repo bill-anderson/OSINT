@@ -6,10 +6,12 @@ publisher: Al-Watwan
 published: 2025-10-16
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [COM]
 topics: [dpi.govtech, dpi.exchange, gov.protect, gov.policy, geopol.eu]
 entities: [[expertise-france], [european-union], [plan-comores-emergent]]
 lens: [colonialism]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: COM-2026-07-17
 ---

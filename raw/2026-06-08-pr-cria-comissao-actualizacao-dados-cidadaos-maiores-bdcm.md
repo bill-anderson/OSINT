@@ -14,6 +14,7 @@ places: [AGO]
 topics: [dpi.registry, dpi.id, dpi.exchange, digital.localgov, infra.connect, infra.energy, infra.cybersec]
 entities: [[joao-lourenco], [dionisio-da-fonseca], [base-de-dados-de-cidadaos-maiores-angola], [balcao-unico-de-atendimento-ao-publico-angola], [registo-eleitoral-oficioso-angola], [bilhete-de-identidade-angola]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # PR cria comissão liderada pelo ministro de Estado para actualizar dados dos cidadãos maiores com prova de vida, que passou a ser obrigatória nos períodos pré-eleitorais

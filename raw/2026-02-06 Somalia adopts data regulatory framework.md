@@ -3,6 +3,8 @@ type: source
 title: "Somalia adopts data regulatory framework"
 publisher: ITWeb Africa
 url: https://itweb.africa/article/somalia-adopts-data-regulatory-framework/
+date_precision: day
+date_source: source
 author: Lezeth Khoza
 published: 2026-02-06
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [SOM]
 topics: [gov.protect, gov.legislate, dpi.govtech]
 entities: [[somalia-ministry-communications-technology]]
 lens: []
+body_completeness: excerpt
 ---
 
 <!-- Somalia's Council of Ministers approved the 'Regulatory Framework for the Public Data Protection Law' (~early Feb 2026), implementing the existing Public Data Protection Law; drafted by the Ministry of Communications and Technology (Minister Mohamed Adam Moalim). -->

@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: instrument
 title: Infant Registration Bill, Tanzania
 places: [TZA]

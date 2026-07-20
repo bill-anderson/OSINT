@@ -6,10 +6,12 @@ publisher: Connecting Africa
 published: 2026-05-13
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [COD]
 topics: [infra.connect, infra.energy, include.divides, include.access, finance.new, tech.industry, gov.policy, digital.rural]
 entities: [[gsma], [orange], [vodacom], [helios-towers], [starlink], [drc-national-digital-plan-pnn2], [felix-tshisekedi]]
 lens: []
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: COD-2026-07-17
 ---

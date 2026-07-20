@@ -6,10 +6,12 @@ publisher: Centrafrique Infos
 published: 2026-03-11
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [CAF, XCA]
 topics: [dpi.pay, gov.regional, include.access, gov.policy]
 entities: [[beac], [yvon-sana-bangui], [cobac], [imf]]
 lens: []
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: CAF-2026-07-17
 ---

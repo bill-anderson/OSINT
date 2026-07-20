@@ -3,6 +3,8 @@ type: source
 title: Teraco to build 40 MW JB7 data centre at Isando Campus
 url: https://www.engineeringnews.co.za/article/teraco-building-40-mw-jb7-expansion-to-isando-campus-2024-11-13
 publisher: Engineering News (Creamer Media)
+lens: []
+body_completeness: full
 author: Schalk Burger
 published: 2024-11-13
 date_precision: day

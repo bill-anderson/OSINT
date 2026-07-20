@@ -12,6 +12,7 @@ places: [MLI]
 topics: [infra.store, infra.cybersec, dpi.govtech, gov.regional]
 entities: [[alliance-of-sahel-states]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 Mali inaugurated a Tier III data centre — the National Data Centre — during the country's third annual Digital Week, launched over the weekend by the Ministry of Communication, Digital Economy and Administration Modernisation (Minister Alhamdou Ag Ilyène), in the presence of digital-economy ministers from the Confederation of Sahel States (AES).

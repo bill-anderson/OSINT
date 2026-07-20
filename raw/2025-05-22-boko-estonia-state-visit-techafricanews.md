@@ -3,6 +3,9 @@ type: source
 title: President Duma Gideon Boko Highlights Digital Transformation Lessons on Estonia State Visit
 url: https://techafricanews.com/2025/05/22/president-duma-gideon-boko-highlights-digital-transformation-lessons-on-estonia-state-visit/
 publisher: TechAfrica News
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Aayushya Ranjan
 published: 2025-05-22
 date_precision: day

@@ -13,6 +13,7 @@ places: [GIN]
 topics: [dpi.pay, gov.regional, include.access]
 entities: [[bcrg], [mojaloop], [papss]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Guinea preparing a national instant + interoperable payment system (SPI); VG El Hadj Mohamed Lamine Conté opened a two-day workshop 18 Dec 2025. Immediate transfers across bank accounts / mobile wallets; merchant payments (formal + informal); reduce cash; support gov payments (salaries, social assistance, suppliers). Tech: Mojaloop-based public infrastructure, state-controlled, local fintech innovation. Designed to integrate with PAPSS/ECOWAS. Context: WAEMU BCEAO PI-SPI launched late Sept 2025 (8 states); WAEMU e-payments 260m (2014) → 11bn+ (2024), inclusion 74%. AfricaNenda SIIPS 2024: 31 instant-payment systems in Africa (3 cross-border); Ghana/Nigeria/Rwanda already run them. Dedup with 2025-12-22 WeAreTech. -->

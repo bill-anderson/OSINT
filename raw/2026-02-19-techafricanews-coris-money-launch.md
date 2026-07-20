@@ -3,6 +3,7 @@ type: source
 title: "Guinea launches CORIS MONEY e-money solution (Coris Bank International)"
 url: https://techafricanews.com/2026/02/19/guinea-launches-coris-money-to-boost-financial-inclusion-and-digitalization/
 publisher: TechAfrica News
+ingested: 2026-07-18
 author: Jennifer Onyeagoro
 published: 2026-02-19
 date_precision: day
@@ -13,6 +14,7 @@ places: [GIN]
 topics: [dpi.pay, finance.new, include.access]
 entities: [[coris-money], [coris-bank-international], [mourana-soumah], [ministry-digital-economy-guinea], [simandou-2040]]
 lens: []
+body_completeness: full
 ---
 
 # Guinea Launches CORIS MONEY to Boost Financial Inclusion and Digitalization

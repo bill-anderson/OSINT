@@ -3,6 +3,7 @@ type: source
 title: CAMTEL Partners with Cameroon Baccalaureate Office to Digitize National Exams
 url: https://techafricanews.com/2026/01/19/camtel-partners-with-cameroon-baccalaureate-office-to-digitize-national-exams/
 publisher: TechAfrica News
+ingested: 2026-07-18
 author: Jennifer Onyeagoro
 published: 2026-01-19
 date_precision: day
@@ -11,6 +12,7 @@ places: [CMR]
 topics: [dpi.mis, dpi.govtech, infra.store, infra.connect, gov.protect, finance.mou]
 entities: [[camtel], [cameroon-baccalaureate-office]]
 lens: [sovereignty]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: CMR-2026-07-17
 ---

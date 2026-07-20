@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: government-body
 title: Ministry of Human Resources and Social Welfare (Sudan)
 places: [SDN]

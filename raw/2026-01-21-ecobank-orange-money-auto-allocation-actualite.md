@@ -6,12 +6,14 @@ publisher: ACTUALITE.CD
 published: 2026-01-21
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: COD-2026-07-17
 places: [COD]
 topics: [dpi.pay, dpi.exchange, include.access, finance.mou]
 entities: [[ecobank], [orange], [orange-money], [orange-digital-center-kinshasa], [airtel-rdc], [michel-kayembe]]
 lens: []
+body_completeness: full
 ---
 
 Présentation de la solution Auto-Allocation à Orange Digital Center

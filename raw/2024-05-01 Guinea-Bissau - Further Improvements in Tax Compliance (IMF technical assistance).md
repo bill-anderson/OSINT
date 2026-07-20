@@ -12,6 +12,7 @@ places: [GNB]
 topics: [dpi.pay, gov.policy, dpi.govtech]
 entities: []
 lens: []
+body_completeness: full
 artefact: "2024-05-01 hlsea2024015 Guinea-Bissau Tax Compliance (IMF).pdf"
 ---
 

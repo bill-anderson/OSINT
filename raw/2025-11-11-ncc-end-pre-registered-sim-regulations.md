@@ -6,6 +6,7 @@ publisher: Vanguard
 published: 2025-11-11
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [NGA]
 topics: [dpi.id, gov.legislate, infra.cybersec]
 entities: [[ncc]]

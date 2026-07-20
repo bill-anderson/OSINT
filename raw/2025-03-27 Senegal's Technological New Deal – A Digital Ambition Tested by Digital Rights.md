@@ -11,6 +11,7 @@ places: [SEN]
 topics: [gov.policy, gov.protect, include.divides, infra.cybersec]
 entities: [[new-deal-technologique], [senegal-data-protection-law]]
 lens: [sovereignty, colonialism]
+body_completeness: full
 ---
 
 # Senegal's Technological New Deal – A Digital Ambition Tested by Digital Rights

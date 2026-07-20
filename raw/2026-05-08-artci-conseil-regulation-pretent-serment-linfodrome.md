@@ -6,12 +6,14 @@ publisher: Linfodrome
 published: 2026-05-08
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [gov.legislate]
 entities: [[artci], [roger-felix-adom], [coty-souleymane-diakite]]
 lens: []
+body_completeness: full
 ---
 
 # ARTCI : Les nouveaux membres du Conseil de régulation prêtent serment

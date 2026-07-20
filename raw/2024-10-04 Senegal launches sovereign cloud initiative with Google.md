@@ -11,6 +11,7 @@ places: [SEN]
 topics: [infra.store, finance.mou, geopol.usa, gov.policy]
 entities: [[google-senegal-sovereign-cloud], [google], [new-deal-technologique]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Senegal launches sovereign cloud initiative with Google

@@ -3,6 +3,7 @@ type: source
 title: Moov Africa Burkina Breaks Ground on State-of-the-Art Headquarters to Drive Digital Innovation
 url: https://techafricanews.com/2026/02/04/new-moov-africa-burkina-hq-marks-milestone-for-national-telecommunications-operator/
 publisher: TechAfrica News
+ingested: 2026-07-18
 author: Joyce Onyeagoro
 published: 2026-02-04
 date_precision: day
@@ -13,6 +14,7 @@ places: [BFA]
 topics: [infra.connect, finance.new, tech.industry]
 entities: [[moov-africa-burkina-faso], [ministry-of-digital-transition-burkina-faso], [aminata-zerbo-sabane], [onatel]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Moov Africa Burkina Breaks Ground on State-of-the-Art Headquarters to Drive Digital Innovation

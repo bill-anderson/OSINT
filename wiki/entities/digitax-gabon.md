@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: initiative
 title: Digitax Gabon / e-tax (DGI revenue digitalization)
 places: [GAB]

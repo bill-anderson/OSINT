@@ -2,6 +2,7 @@
 type: source
 title: "Is the SDG monitoring framework broken?"
 publisher: Development Initiatives
+date_source: source
 author: [[bill]] and Sam Wozniak
 published: 2023-04
 date_precision: month

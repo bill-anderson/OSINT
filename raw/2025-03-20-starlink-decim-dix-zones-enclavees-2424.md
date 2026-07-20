@@ -6,10 +6,12 @@ publisher: 2424.mg
 published: 2025-03-20
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [MDG]
 topics: [infra.connect, include.access, digital.rural]
 entities: [[starlink], [decim-madagascar], [world-bank]]
 lens: []
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: MDG-2026-07-17
 ---

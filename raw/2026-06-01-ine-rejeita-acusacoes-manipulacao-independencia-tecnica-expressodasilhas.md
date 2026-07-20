@@ -6,6 +6,7 @@ publisher: Expresso das Ilhas
 published: 2026-06-01
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [CPV]
 topics: [data.statistics, data.open]
 entities: [[ine-cv], [joao-de-pina-cardoso], [world-bank]]

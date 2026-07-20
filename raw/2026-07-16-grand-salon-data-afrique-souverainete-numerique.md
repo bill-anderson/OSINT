@@ -3,6 +3,7 @@ type: source
 title: "Grand salon de la data en Afrique : un rendez-vous de promotion de la souveraineté numérique"
 url: https://www.sidwaya.info/grand-salon-de-la-data-en-afrique-un-rendez-vous-de-promotion-de-la-souverainete-numerique/
 publisher: Sidwaya
+ingested: 2026-07-18
 author: Aly Sawadogo
 published: 2026-07-16
 date_precision: day
@@ -13,6 +14,7 @@ places: [BFA]
 topics: [gov.policy, gov.protect, tech.ai, infra.store, capacity.training, tech.industry, infra.connect]
 entities: [[africa-data-entry], [cil-burkina-faso], [ministere-transition-digitale-burkina-faso], [aminata-zerbo-sabane]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Grand salon de la data en Afrique : un rendez-vous de promotion de la souveraineté numérique

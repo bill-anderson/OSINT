@@ -6,6 +6,7 @@ publisher: NADPA-RAPDP (Network of African Data Protection Authorities) — repr
 published: 2025-07-06
 date_precision: day
 date_source: source
+ingested: 2026-07-20
 places: [NGA]
 topics: [gov.protect, gov.legislate, dpi.exchange]
 entities: [[ndpc], [multichoice-nigeria], [nigeria-data-protection-act-2023]]

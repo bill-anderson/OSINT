@@ -13,6 +13,7 @@ places: [CMR]
 topics: [dpi.registry, include.access]
 entities: [[campost], [findme]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Business in Cameroon (Nov 2024): Cameroon Postal Services (Campost) signed a partnership (1 Nov 2024, Yaoundé) with Cameroonian start-up FindMe to enhance the national address system, adapting FindMe's postal-addressing model (already used in Senegal; operational in Cameroon since July 2024). Campost DG Pierre Kaldadak framed it around e-commerce last-mile delivery and improving customer identification (KYC) for financial services. Digital addressing as a DPI-adjacent registry layer. -->

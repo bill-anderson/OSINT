@@ -3,14 +3,17 @@ type: source
 title: "Identification System in Benin: Increasing Access to Services"
 publisher: World Bank Blogs
 url: https://blogs.worldbank.org/en/nasikiliza/identification-system-in-benin-increasing-access-to-services
+date_source: source
 author: Caroline Tassot, Luis Inaki Alberro
 published: 2025-11-01
+date_precision: month
 accessed: 2026-07-11
 ingested: 2026-07-11
 places: [BEN]
 topics: [dpi.id, dpi.registry, include.access, include.divides]
 entities: [[world-bank], [wuri-programme], [anip-benin]]
 lens: []
+body_completeness: full
 ---
 
 <!-- World Bank blog: in 2017 ~25% of Beninese lacked a birth certificate and <50% had a national ID (women 37%); 2017-18 biometric enrolment of ~90%; via WURI a third obtained the QR fID certificate, plus 2.2m more -> near-99% biometric enrolment; fID free and lifelong, linked to the Alafia microcredit program. (Published date approximate.) -->

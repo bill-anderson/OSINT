@@ -12,6 +12,7 @@ places: [XAF, BFA, UGA, KEN, RWA, XSS]
 topics: [infra.connect, include.access, gov.standards]
 entities: [[internet-society], [afrinic]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Local Infrastructure, Lower Costs: How Peering Is Moving the Needle on Internet Affordability - Internet Society

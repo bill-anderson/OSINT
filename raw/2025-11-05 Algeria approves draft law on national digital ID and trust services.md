@@ -11,6 +11,7 @@ places: [DZA]
 topics: [dpi.id, gov.legislate, gov.protect, dpi.exchange]
 entities: [[algeria-digital-id-trust-law], [anpdcp], [digital-algeria-2030]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Algeria approves draft law on national digital ID and trust services

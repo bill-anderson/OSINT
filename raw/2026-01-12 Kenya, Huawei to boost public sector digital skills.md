@@ -3,6 +3,8 @@ type: source
 title: "Kenya, Huawei to boost public sector digital skills"
 publisher: ITWeb Africa
 url: "https://itweb.africa/article/kenya-huawei-to-boost-public-sector-digital-skills/wbrpOMg2a6D7DLZn"
+date_precision: day
+date_source: source
 author: Nixon Kanali
 published: 2026-01-12
 accessed: 2026-07-12
@@ -11,6 +13,7 @@ places: [KEN]
 topics: [capacity.training, finance.mou, tech.ai, geopol.china]
 entities: [[kenya-school-of-government], [huawei]]
 lens: []
+body_completeness: excerpt
 ---
 <!-- Kenya School of Government (statutory body, KSG Act No.9/2012) + Huawei Kenya in DISCUSSIONS (post high-level meeting, ~wk before 2026-01-12) on an MoU to train public servants in AI/cybersecurity/cloud/digital governance. MoU NOT signed — prospective only; finance.mou tagged on source, no ksg-huawei-mou deal entity created (override #8). Attach: [[kenya-school-of-government]], huawei, KEN hub. -->
 

@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: instrument
 title: Barriers, facilitators and motivators of eCHIS use among health workers in Ethiopia
 places: [ETH]

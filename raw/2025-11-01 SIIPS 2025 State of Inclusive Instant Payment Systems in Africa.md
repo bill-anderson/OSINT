@@ -12,6 +12,7 @@ places: [XAF, XWA, XCA, XSA, XEA, XSS, NGA]
 topics: [dpi.pay, dpi.exchange, gov.regional, gov.standards, include.access, include.divides]
 entities: [[africanenda], [papss], [world-bank], [ekash]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # SIIPS 2025 — State of Inclusive Instant Payment Systems in Africa

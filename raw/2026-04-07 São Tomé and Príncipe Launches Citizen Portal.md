@@ -12,6 +12,7 @@ places: [STP]
 topics: [dpi.govtech, dpi.id, dpi.exchange, include.access]
 entities: [[cdpi], [world-bank], [co-develop]]
 lens: []
+body_completeness: full
 ---
 
 # São Tomé and Príncipe Launches Citizen Portal | CDPI

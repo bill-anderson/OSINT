@@ -3,6 +3,7 @@ type: source
 title: Benin Signs Three Deals to Boost Digital Transformation
 url: https://www.wearetech.africa/en/fils-uk/news/tech/benin-signs-three-deals-to-boost-digital-transformation
 publisher: We Are Tech Africa
+ingested: 2026-07-18
 author: Samira Njoya
 published: 2025-07-02
 date_precision: day
@@ -13,6 +14,7 @@ places: [BEN, SEN]
 topics: [finance.mou, infra.cybersec, tech.innovate, gov.protect]
 entities: [[asin], [iidia], [orbus-digital-services], [quality-corporate], [gates-foundation], [cyber-africa-forum], [gsma]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Benin Signs Three Deals to Boost Digital Transformation

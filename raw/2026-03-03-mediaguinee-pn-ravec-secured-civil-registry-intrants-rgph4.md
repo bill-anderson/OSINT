@@ -6,12 +6,14 @@ publisher: Mediaguinee
 published: 2026-03-03
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: GIN-2026-07-17
 places: [GIN]
 topics: [dpi.registry, dpi.id, data.statistics]
 entities: [[pn-ravec], [matd-guinea]]
 lens: []
+body_completeness: full
 ---
 
 # Conakry : le PN-RAVEC dote les 13 communes d'un important lot d'intrants d'état civil, dont les certificats de non-remariage

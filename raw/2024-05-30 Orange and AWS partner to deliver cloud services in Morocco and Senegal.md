@@ -3,6 +3,8 @@ type: source
 title: "Orange and AWS partner to deliver cloud services in Morocco and Senegal"
 publisher: Mobile Europe
 url: https://www.mobileeurope.co.uk/orange-and-aws-partner-to-deliver-cloud-services-in-morocco-and-senegal/
+date_precision: day
+date_source: source
 author: Simon Dux
 published: 2024-05-30
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [MAR, SEN]
 topics: [infra.store, infra.connect]
 entities: [[orange], [amazon-web-services]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Backfill (2024): Orange MEA + AWS bringing AWS Wavelength Zones to Morocco and Senegal — first in Africa and first in countries without an AWS Region; supports data residency + low-latency for telecom/finance/public sector. Orange the anchor customer. Historical baseline for Orange/AWS Africa cloud footprint. -->

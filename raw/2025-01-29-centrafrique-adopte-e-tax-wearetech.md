@@ -3,6 +3,7 @@ type: source
 title: La Centrafrique adopte l'e-Tax pour mieux percevoir les impôts
 url: https://www.wearetech.africa/fr/fils/actualites/tech/la-centrafrique-adopte-le-tax-pour-mieux-percevoir-les-impots
 publisher: We Are Tech Africa
+ingested: 2026-07-18
 author: Samira Njoya
 published: 2025-01-29
 date_precision: day
@@ -11,6 +12,7 @@ places: [CAF]
 topics: [dpi.govtech, dpi.pay, geopol.eu, gov.policy]
 entities: [[dgid-central-african-republic]]
 lens: []
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: CAF-2026-07-17
 ---

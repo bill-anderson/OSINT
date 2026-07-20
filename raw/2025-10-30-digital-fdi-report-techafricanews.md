@@ -3,6 +3,8 @@ type: source
 title: Rwanda Unveils Strategic Digital FDI Report to Drive Investment in Cloud, Fintech, and Data Infrastructure
 url: https://techafricanews.com/2025/10/30/rwanda-unveils-strategic-digital-fdi-report-to-drive-investment-in-cloud-fintech-and-data-infrastructure/
 publisher: TechAfrica News
+ingested: 2026-07-19
+lens: []
 author: Editorial Team
 published: 2025-10-30
 date_precision: day

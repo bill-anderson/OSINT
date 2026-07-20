@@ -13,6 +13,7 @@ places: [COD, KEN]
 topics: [dpi.pay, finance.new]
 entities: [[visa], [onafriq], [safaricom], [visa-mpesa-onafriq-drc-stablecoin-pilot]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- The EastAfrican, 2 Jul 2026 (syndicated via Zawya same day). Origin of the whole "Visa/M-Pesa/

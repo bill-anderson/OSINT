@@ -3,6 +3,8 @@ type: source
 title: "Bad news about South Africa’s newest ID book plan"
 publisher: MyBroadband
 url: "https://mybroadband.co.za/news/government/626663-bad-news-about-south-africas-newest-id-book-plan.html"
+date_precision: day
+date_source: source
 author: Hanno Labuschagne
 published: 2026-01-28
 accessed: 2026-07-12
@@ -11,6 +13,7 @@ places: [ZAF]
 topics: [dpi.id, gov.policy]
 entities: [[home-affairs-south-africa], [mymzansi], [research-ict-africa], [sa-digital-id-regulations], [operation-vulindlela], [leon-schreiber]]
 lens: [sovereignty]
+body_completeness: full
 ---
 <!-- UPDATE (as of 2026-01-28) to the SA digital-ID storyline: rollout behind schedule, will take several more years. Min. Ramokgopa (Planning/M&E) claimed reforms progressing, rollout end-2026; Home Affairs confirms the digital ID policy is STILL under development, must go to Cabinet then public comment. Schreiber's April-2025 "shortly to Cabinet" not met. MyMzansi roadmap Q4-FY2025 functional-ID target will be missed. Later schedule-slip counterpart to the Nov-2025 build in [15] — keep both "as of" dated. Attach to south-africa--dpi-id, sa-digital-id-regulations, home-affairs-south-africa, mymzansi. -->
 

@@ -6,10 +6,12 @@ publisher: Tech Review Africa
 published: 2026-04-07
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [COD]
 topics: [gov.legislate, gov.policy, dpi.pay, dpi.govtech, infra.store, tech.industry, finance.new]
 entities: [[drc-digital-code]]
 lens: []
+body_completeness: full
 provenance_flag: pr-wire
 retrieved: 2026-07-17
 sweep_batch: COD-2026-07-17

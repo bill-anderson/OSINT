@@ -4,11 +4,14 @@ title: "Who Owns Africa's Sky?"
 url: https://insights.techcabal.com/who-owns-africas-sky/
 publisher: TechCabal Insights
 published: 2026-06-16
+date_precision: day
+date_source: source
 ingested: 2026-07-10
 places: [XAF, NGA, KEN, ZWE, SEN, ZAF, NAM]
 topics: [infra.connect, include.access, include.divides, gov.policy, gov.legislate, gov.regional]
 entities: [[starlink], [airtel-africa]]
 lens: [sovereignty, colonialism]
+body_completeness: full
 ---
 
 Africa’s mobile sector contributed $220 billion to the continent’s economy in 2024, 7.7% of GDP, supporting 8 million formal jobs and generating over $30 billion in annual taxes. Now, a new class of offshore satellite operators is competing for the same high-value customers while bypassing the licensing costs, infrastructure obligations, and tax regimes that underpin that entire ecosystem.

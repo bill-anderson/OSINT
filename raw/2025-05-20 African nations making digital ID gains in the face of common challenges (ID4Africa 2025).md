@@ -13,6 +13,7 @@ places: [MRT]
 topics: [dpi.id, dpi.govtech, data.statistics]
 entities: [[anrpts-mauritania], [houwiyeti]]
 lens: []
+body_completeness: full
 ---
 
 Progress report from ID4Africa 2025 (Day 1, Addis Ababa) featuring ID authorities from Benin, Malawi, Mauritania, Tanzania and Somalia. [Mauritania-focused extract.]

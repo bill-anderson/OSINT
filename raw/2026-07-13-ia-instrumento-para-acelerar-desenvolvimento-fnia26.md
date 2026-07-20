@@ -3,6 +3,8 @@ type: source
 title: Inteligência Artificial encarada como instrumento para acelerar desenvolvimento de Angola
 url: https://angop.ao/noticias/economia/inteligencia-artificial-encarada-como-instrumento-para-acelerar-desenvolvimento-de-angola/
 publisher: Angop
+lens: []
+body_completeness: full
 author: HM/CS
 published: 2026-07-13
 date_precision: day

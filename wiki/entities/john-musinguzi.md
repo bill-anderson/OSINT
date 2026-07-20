@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: person
 title: John R. Musinguzi
 places: [UGA]

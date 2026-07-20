@@ -3,6 +3,7 @@ type: source
 title: "L'ARPCE lance son service d'authentification et de signature électroniques : Une nouvelle brique à la numérisation"
 url: https://www.elmoudjahid.dz/fr/actualite/l-arpce-lance-son-service-d-authentification-et-de-signature-electroniques-une-nouvelle-brique-a-la-numerisation-230834
 publisher: El Moudjahid
+ingested: 2026-07-18
 lang: fr
 published: 2025-09-01
 date_precision: month
@@ -14,6 +15,7 @@ places: [DZA]
 topics: [dpi.id, dpi.govtech, gov.standards, infra.cybersec]
 entities: [[arpce, aece, samia-touchen, sid-ali-zerrouki, meriem-benmouloud, mohamed-el-hadi-hennachi]]
 lens: [sovereignty]
+body_completeness: full
 provenance_flag: state-media
 ---
 

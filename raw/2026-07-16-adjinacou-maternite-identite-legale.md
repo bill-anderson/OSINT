@@ -3,6 +3,7 @@ type: source
 title: "Aristide Adjinacou, Directeur général de l'Anip : « Nous voulons faire de chaque maternité une véritable porte d'entrée vers l'identité légale »"
 url: https://www.lanation.bj/actualites/aristide-adjinacou-directeur-general-de-lanip-nous-voulons-faire-de-chaque-maternite-une-veritable-porte-dentree-vers-lidentite-legale
 publisher: La Nation
+ingested: 2026-07-18
 author: Isidore GOZO
 published: 2026-07-16
 date_precision: day
@@ -13,6 +14,7 @@ places: [BEN]
 topics: [dpi.registry, dpi.id, include.access, dpi.govtech, data.statistics]
 entities: [[anip-benin], [aristide-adjinacou-gnahoui], [wuri], [unicef], [world-bank], [ministere-sante-benin]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Aristide Adjinacou, Directeur général de l'Anip : « Nous voulons faire de chaque maternité une véritable porte d'entrée vers l'identité légale »

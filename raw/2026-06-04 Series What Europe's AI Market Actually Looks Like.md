@@ -3,6 +3,8 @@ type: source
 title: "Series: What Europe's AI Market Actually Looks Like"
 publisher: Tech Policy Press (with AI Now Institute)
 url: https://www.techpolicy.press/series-what-europes-ai-market-actually-looks-like/
+date_precision: day
+date_source: source
 author: Frederike Kaltheuner, Leevi Saari
 published: 2026-06-04
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [XGL]
 topics: [tech.ai, geopol.eu, geopol.usa]
 entities: []
 lens: [sovereignty, colonialism]
+body_completeness: full
 ---
 
 <!-- EU AI-market series (with AI Now Institute): 'Sovereign AI' rests on the unexamined assumption EU firms align with EU strategic interests; economic value still flows to US hyperscalers. External analysis kept as framing for the EU tech-sovereignty cluster (no African place; a mirror for Africa's dependency debate). -->

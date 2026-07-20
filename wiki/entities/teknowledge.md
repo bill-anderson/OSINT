@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: company
 title: TeKnowledge
 places: [NGA, XGL]

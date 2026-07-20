@@ -6,6 +6,7 @@ publisher: ActuNiger
 published: 2025-09-09
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [NER]
 topics: [infra.connect, gov.legislate, infra.cybersec, include.access]
 entities: [[arcep-niger], [starlink]]

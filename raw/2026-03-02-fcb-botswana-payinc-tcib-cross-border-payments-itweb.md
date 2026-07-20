@@ -3,6 +3,9 @@ type: source
 title: FCB Botswana, PayInc partner to drive financial inclusion
 url: https://itweb.africa/article/fcb-botswana-payinc-partner-to-drive-financial-inclusion/Gb3BwMWaxbdv2k6V
 publisher: ITWeb Africa
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Staff Writer
 published: 2026-03-02
 date_precision: day

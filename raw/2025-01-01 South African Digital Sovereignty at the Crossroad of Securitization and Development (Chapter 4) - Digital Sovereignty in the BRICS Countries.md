@@ -3,13 +3,16 @@ type: source
 title: South African Digital Sovereignty at the Crossroad of Securitization and Development (Chapter 4, Digital Sovereignty in the BRICS Countries)
 url: https://www.cambridge.org/core/books/digital-sovereignty-in-the-brics-countries/south-african-digital-sovereignty-at-the-crossroad-of-securitization-and-development/08C1119DE09286B84626FA49F6AD0586
 publisher: Cambridge University Press (in "Digital Sovereignty in the BRICS Countries", ed. Belli et al.)
+date_source: source
 author: unknown           # chapter author not captured in clip — backfill from the book
 published: 2025-01-01      # "January 2025"; exact date approximate
+date_precision: month
 ingested: 2026-07-10
 places: [ZAF, XGL]
 topics: [gov.policy, gov.protect, gov.legislate, infra.cybersec, dpi.exchange, gov.regional, gov.standards, geopol.eu, geopol.usa, geopol.china, infra.store]
 entities: [[popia], [research-ict-africa], [seacom]]
 lens: [sovereignty, colonialism]
+body_completeness: full
 ---
 ### 4.1 Introduction
 

@@ -13,6 +13,7 @@ places: [NER]
 topics: [infra.connect, data.statistics]
 entities: [[niger-ixp]]
 lens: []
+body_completeness: full
 ---
 
 Niger inaugurated a new Internet Exchange Point (IXP) in Niamey on 19 August 2025, opened by Adji Ali Salatou, Minister of Communication and New Information Technologies. An IXP lets internet service providers interconnect directly in a single location to exchange traffic locally, avoiding costlier international transit and typically reducing connectivity costs while improving network stability.

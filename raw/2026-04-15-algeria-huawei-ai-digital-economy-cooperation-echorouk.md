@@ -1,6 +1,7 @@
 ---
 type: source
 title: الجزائر تبحث مع "هواوي" تعزيز التعاون في الذكاء الاصطناعي والاقتصاد الرقمي
+ingested: 2026-07-18
 title_en: Algeria discusses AI/GPU and digital-economy cooperation with Huawei
 url: https://www.echoroukonline.com/%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1-%D8%AA%D8%A8%D8%AD%D8%AB-%D9%85%D8%B9-%D9%87%D9%88%D8%A7%D9%88%D9%8A-%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88
 publisher: Echorouk El Yawmi
@@ -14,6 +15,7 @@ places: [DZA]
 topics: [tech.ai, tech.innovate, geopol.china, tech.industry]
 entities: [[huawei, ministere-de-leconomie-de-la-connaissance, noureddine-ouadah, algeria-venture]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # الجزائر تبحث مع "هواوي" تعزيز التعاون في الذكاء الاصطناعي والاقتصاد الرقمي

@@ -12,6 +12,7 @@ places: [KEN, ETH, XEA]
 topics: [dpi.id, gov.protect, include.access, include.divides, gov.policy, gov.standards, dpi.pay, geopol.eu]
 entities: [[caribou], [safaricom], [fayda-ethiopia-national-id]]
 lens: [sovereignty, colonialism]
+body_completeness: full
 ---
 
 # Digital Identity and Migration: Struggles for Equitable Technology Governance

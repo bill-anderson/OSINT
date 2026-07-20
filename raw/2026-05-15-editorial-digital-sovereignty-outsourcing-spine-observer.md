@@ -6,12 +6,14 @@ publisher: Liberian Observer
 published: 2026-05-15
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: LBR-2026-07-17
 places: [LBR]
 topics: [dpi.id, infra.store, gov.protect, gov.policy, dpi.govtech]
 entities: [[national-identification-registry-liberia]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Liberia Cannot Build Digital Sovereignty by Outsourcing Its Digital Spine

@@ -3,6 +3,8 @@ type: source
 title: "Barriers, facilitators and motivators of electronic community health information system (eCHIS) use among health workers in Ethiopia"
 publisher: Frontiers in Digital Health 5:1162239
 url: https://pmc.ncbi.nlm.nih.gov/articles/PMC10282640/
+date_precision: day
+date_source: source
 author: Bogale TN, Teklehaimanot SM, Debela TF, Enyew DB, et al.
 published: 2023-06-07
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [ETH]
 topics: [dpi.mis, infra.connect, infra.energy, capacity.training, digital.rural, gov.protect]
 entities: [[echis-ethiopia-study], [echis-ethiopia]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Scholarly publication (phenomenological, 54 interviews, May 2022). eCHIS = offline-first mobile app for ~40,000 Health Extension Workers; releases 1-2 in >7,000 health posts. Ethio Telecom coverage 85% 2G / 66% 3G / 4% 4G; rural electricity 9% (29,950 power banks distributed). Barriers: parallel paper+electronic recording, connectivity/power, poor training, theft-liability fear. Home page for [[echis-ethiopia-study]]. -->

@@ -6,12 +6,14 @@ publisher: Telecom Review Africa
 published: 2026-06-16
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [infra.connect, gov.policy, include.access, digital.rural, tech.ai, infra.cybersec]
 entities: [[starlink], [ministry-of-digital-transition-cote-divoire]]
 lens: []
+body_completeness: full
 ---
 
 Côte d'Ivoire is set to take a significant step forward in its digital transformation journey, with satellite internet provider Starlink scheduled to commence operations in July 2026 and the country's 5G rollout beginning during the same period.

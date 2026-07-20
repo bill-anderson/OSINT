@@ -10,6 +10,8 @@ ingested: 2026-07-17
 places: [UGA]
 topics: [dpi.registry, digital.rural, digital.localgov, gov.legislate, include.divides, data.open]
 entities: [[gltn], [un-habitat], [mlhud-uganda], [stdm]]
+lens: []
+body_completeness: full
 ---
 
 *YEAR PRECISION, PROXY: the GLTN blog is undated on-page; the 2024 year rests on an intake assertion, not on-page evidence. The only hard in-body date is the Uganda Gazette notice of 18 September 2020. Do not reason about this as a 2024 datapoint. Implementer's own account of its own programme — attribute. The colonialism lens is arguable (customary vs statutory tenure formalisation) but the source does not argue it, so it is not tagged.*

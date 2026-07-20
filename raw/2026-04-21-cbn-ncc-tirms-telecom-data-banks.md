@@ -6,6 +6,7 @@ publisher: TechCabal
 published: 2026-04-21
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [NGA]
 topics: [dpi.pay, dpi.id, infra.cybersec]
 entities: [[central-bank-of-nigeria], [ncc]]

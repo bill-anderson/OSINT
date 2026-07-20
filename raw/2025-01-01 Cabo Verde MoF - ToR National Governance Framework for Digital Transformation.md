@@ -11,6 +11,7 @@ places: [CPV]
 topics: [dpi.govtech, gov.policy]
 entities: [[digital-cabo-verde-project]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Cabo Verde MoF — ToR, National Governance Framework for Digital Transformation

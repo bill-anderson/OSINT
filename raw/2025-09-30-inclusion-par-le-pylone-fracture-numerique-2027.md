@@ -3,6 +3,7 @@ type: source
 title: "L'inclusion par le pylône : Comment le Burkina Faso veut gommer la fracture numérique d'ici 2027"
 url: https://burkina24.com/2025/09/30/linclusion-par-le-pylone-comment-le-burkina-faso-veut-gommer-la-fracture-numerique-dici-2027/
 publisher: Burkina24
+lens: []
 author: Akim Ky
 published: 2025-09-30
 date_precision: day

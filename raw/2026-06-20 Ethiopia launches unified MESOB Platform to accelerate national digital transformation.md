@@ -4,11 +4,14 @@ title: Ethiopia launches unified MESOB Platform to accelerate national digital t
 url: https://techreviewafrica.com/news/5997/ethiopia-launches-unified-mesob-platform-to-accelerate-national-digital-transformation
 publisher: Tech Review Africa
 published: 2026-06-20
+date_precision: day
+date_source: source
 ingested: 2026-07-10
 places: [ETH]
 topics: [dpi.govtech, tech.ai, tech.innovate, capacity.research]
 entities: [[mesob-platform], [ethiopian-ai-institute], [abiy-ahmed]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 **Latest News:**

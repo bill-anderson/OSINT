@@ -3,6 +3,8 @@ type: source
 title: Angolan Agencies Join Forces to Strengthen Nascent Startup Sector
 url: https://www.wearetech.africa/en/fils-uk/news/tech/angolan-agencies-join-forces-to-strengthen-nascent-startup-sector
 publisher: We Are Tech Africa
+lens: []
+body_completeness: full
 author: Isaac K. Kassouwi
 published: 2025-03-18
 date_precision: day

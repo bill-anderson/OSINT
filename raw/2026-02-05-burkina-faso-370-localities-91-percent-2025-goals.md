@@ -3,6 +3,8 @@ type: source
 title: Burkina Faso Expands Digital Access to 370 Localities, Hits 91% of 2025 Goals
 url: https://www.wearetech.africa/en/fils-uk/news/tech/burkina-faso-expands-digital-access-to-370-localities-hits-91-of-2025-goals
 publisher: We Are Tech Africa
+ingested: 2026-07-18
+lens: []
 author: Samira Njoya
 published: 2026-02-05
 date_precision: day

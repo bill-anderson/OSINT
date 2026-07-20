@@ -13,6 +13,7 @@ places: [MWI]
 topics: [dpi.pay, data.statistics, include.access]
 entities: [[reserve-bank-of-malawi]]
 lens: []
+body_completeness: full
 ---
 
 Per the Reserve Bank of Malawi (RBM) National Payments System Report for Q2 2025, registered mobile-money subscribers reached 20.1 million by end-June 2025, up from 17.6 million the prior quarter (+13.95%). Female subscribers rose to 44.69 percent (male 55.31 percent), a narrowing but still-present gender gap. Registered mobile-money agents grew 19.94 percent to 656,276 (412,862 active over 90 days), though only 27.9 percent of agents operate in rural areas and just 46.1 percent of those were active, versus 85.2 percent activity in urban areas.

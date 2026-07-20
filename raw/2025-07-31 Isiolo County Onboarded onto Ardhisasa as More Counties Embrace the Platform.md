@@ -13,6 +13,7 @@ places: [KEN]
 topics: [dpi.registry, digital.localgov, dpi.govtech]
 entities: [[ardhisasa]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Isiolo, 31 Jul 2025: Isiolo County joined Ardhisasa (Blocks 1-10 live). Lands Secretary Sarah Maina urged registration for faster/transparent land transactions + national-county data sharing. Ardhisasa = homegrown digital land-administration system (searches, transfers, subdivisions online), built on the National Land Information Management System (NLIMS). Prior week: Mombasa Island Blocks XVI/XVII; Marsabit + Baringo (Koibatek) next. Ongoing county rollout to streamline land governance + address historical land injustices. -->

@@ -3,6 +3,8 @@ type: source
 title: "Icasa moves to mandate national infrastructure database"
 publisher: TechCentral
 url: https://techcentral.co.za/icasa-moves-to-mandate-national-infrastructure-database/280056/
+date_precision: day
+date_source: source
 author: Duncan McLeod
 published: 2026-04-12
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [ZAF]
 topics: [gov.legislate, gov.policy, gov.standards, infra.connect, data.open]
 entities: [[icasa]]
 lens: []
+body_completeness: full
 ---
 
 <!-- ICASA gazetted draft rapid-deployment regulations (~2026-04-10; 30-working-day comment). Reg 7 creates a national GIS database: operators must submit geo-referenced data on fibre/towers/ducts/poles/base stations bi-annually (WGS84; Shapefile/GeoJSON/GeoPackage). Fines up to R1m. GIS obligations effective 6 months after publication. -->

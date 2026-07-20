@@ -3,6 +3,7 @@ type: source
 title: Russian intelligence-linked hackers attack Botswana
 url: https://www.sundaystandard.info/russian-intelligence-linked-hackers-attack-botswana/
 publisher: Sunday Standard
+ingested: 2026-07-18
 author: Khonani Ontebetse
 published: 2025-02-16
 date_precision: day
@@ -13,6 +14,7 @@ places: [BWA]
 topics: [infra.cybersec]
 entities: [[bocra], [apt28]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Russian intelligence-linked hackers attack Botswana

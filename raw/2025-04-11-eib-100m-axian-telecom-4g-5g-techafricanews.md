@@ -6,10 +6,12 @@ publisher: TechAfrica News
 published: 2025-04-11
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [MDG, TZA]
 topics: [infra.connect, finance.new, geopol.eu]
 entities: [[axian-telecom]]
 lens: []
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: MDG-2026-07-17
 ---

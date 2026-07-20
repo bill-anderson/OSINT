@@ -6,12 +6,14 @@ publisher: Linfodrome
 published: 2026-05-12
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [dpi.govtech, dpi.exchange]
 entities: [[guce-ci], [guce-connect], [issouf-fadika], [kitifolo-kignaman-soro]]
 lens: []
+body_completeness: full
 ---
 
 # Digitalisation du commerce extérieur : Plus de 400 participants attendu à la première édition du GUCE CONNECT

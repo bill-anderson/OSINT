@@ -2,6 +2,8 @@
 type: source
 title: "From Davos to New Delhi, rupture of global order tests AI governance"
 publisher: Tech Policy Press
+date_precision: day
+date_source: source
 author: Alison Gillwald (Research ICT Africa)
 url: https://www.techpolicy.press/from-davos-to-new-delhi-rupture-of-global-order-tests-ai-governance/
 published: 2026-02-17
@@ -11,6 +13,7 @@ places: [XGL, ZAF, XAF]
 topics: [tech.ai, gov.policy, gov.regional, geopol.usa, geopol.china, geopol.india, geopol.eu]
 entities: [[research-ict-africa], [african-union]]
 lens: [sovereignty, colonialism]
+body_completeness: full
 ---
 
 <!-- Gillwald (RIA) reads the geopolitical rupture as a contest over data/AI infrastructures.

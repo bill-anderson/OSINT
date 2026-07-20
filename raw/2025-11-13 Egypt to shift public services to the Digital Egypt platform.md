@@ -11,6 +11,7 @@ places: [EGY]
 topics: [dpi.govtech, dpi.exchange, include.access]
 entities: [[digital-egypt], [mcit-egypt]]
 lens: []
+body_completeness: full
 ---
 
 # Egypt to shift public services to the Digital Egypt platform

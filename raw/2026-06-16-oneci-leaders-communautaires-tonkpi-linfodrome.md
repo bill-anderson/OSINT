@@ -6,12 +6,14 @@ publisher: Linfodrome
 published: 2026-06-16
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [dpi.id, dpi.registry, digital.rural]
 entities: [[oneci], [unfpa], [pelagie-gonto], [affessi-affessi]]
 lens: []
+body_completeness: full
 ---
 
 # Déclaration des naissances et des décès : L’ONECI engage les leaders communautaires du Tonkpi

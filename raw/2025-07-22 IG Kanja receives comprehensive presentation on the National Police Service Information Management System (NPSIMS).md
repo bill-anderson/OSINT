@@ -13,6 +13,7 @@ places: [KEN]
 topics: [dpi.govtech, infra.cybersec]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 <!-- 22 Jul 2025: PS ICT/Digital Economy John Tanui presented NPSIMS to IG Douglas Kanja at NPS HQ Jogoo House. NPSIMS = online system consolidating fragmented police systems; citizen-centered access (mobile apps, USSD, web, call centres, social media); transparency/accountability via role-based access, audit trails, digital chain of custody. IG: digitizing all police services is key to the NPS Strategic Plan 2023-2027, transforming stations into centres of excellence. -->

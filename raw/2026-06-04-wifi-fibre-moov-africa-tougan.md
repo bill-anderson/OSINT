@@ -3,6 +3,9 @@ type: source
 title: "Burkina : Le Wifi fibre de Moov Africa à Tougan"
 url: https://lefaso.net/spip.php?article146927
 publisher: leFaso.net
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Erwan Compaoré
 published: 2026-06-04
 date_precision: day

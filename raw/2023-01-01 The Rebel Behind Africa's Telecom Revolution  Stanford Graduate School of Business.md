@@ -3,6 +3,7 @@ type: source
 title: "The rebel behind Africa's telecom revolution (Stanford GSB)"
 publisher: Stanford Graduate School of Business (Insights)
 url: https://www.gsb.stanford.edu/insights/rebel-behind-africas-telecom-revolution
+date_source: source
 author: Louise Lee
 published: 2023
 date_precision: year
@@ -12,6 +13,7 @@ places: [ZWE, XAF]
 topics: [infra.connect, dpi.pay, include.access]
 entities: [[strive-masiyiwa], [econet-wireless], [ecocash]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Undated (~2023). Primary account of EcoCash guerrilla marketing to the unbanked + the

@@ -3,6 +3,8 @@ type: source
 title: "Uganda launches prototype program for digital ID and public infrastructure"
 publisher: Biometric Update
 url: https://www.biometricupdate.com/202605/uganda-launches-prototype-program
+date_precision: day
+date_source: source
 author: Ayang Macdonald
 published: 2026-05-22
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [UGA]
 topics: [dpi.id, dpi.govtech, dpi.registry, tech.innovate, capacity.research]
 entities: [[mosip]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Uganda 'Government Systems Prototype Showcase' (Min. of ICT & National Guidance) + a National Innovator Registry (gazetted 5 Jul); covers digital ID, CRVS, DPI, HMIS, interoperability. Ties to Uganda's MOSIP-based ID (>28m records migrated). 'Technology sovereignty'. -->

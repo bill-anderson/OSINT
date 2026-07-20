@@ -13,6 +13,7 @@ places: [AGO]
 topics: [tech.ai, gov.legislate, gov.protect]
 entities: [[angola-ai-bill], [angola-data-protection-law-22-11]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Analyst review (TechHive Advisory, Dec 2025) of Angola's draft AI law — cite as analysis. Comprehensive framework governing development/supply/use of AI, structurally influenced by the OECD principles and the EU AI Act's risk-based approach. Dual objective: build a domestic AI industry / technological sovereignty + human-centric safeguards. Broad scope with strong extraterritorial reach (activities outside Angola affecting Angolan public interests / persons); excludes purely personal/family use and scientific R&D. Reviewed alongside a concurrent draft AMENDMENT to the Data Protection Act — the AI-law/DP-law linkage. Positions Angola among African states with specific AI legislative proposals (Egypt, Ghana, Morocco, Nigeria) vs those merely signalling intent (Kenya, Mauritius, Namibia, Uganda, Zimbabwe). -->

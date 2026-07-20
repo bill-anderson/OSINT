@@ -3,6 +3,8 @@ type: source
 title: Home Affairs sets new record by delivering over four million Smart IDs in 2025
 url: https://www.gov.za/news/media-statements/home-affairs-sets-new-record-delivering-over-four-million-smart-ids-2025-28
 publisher: South African Government (gov.za)
+lens: []
+body_completeness: full
 author: Department of Home Affairs
 published: 2026-01-28
 date_precision: day

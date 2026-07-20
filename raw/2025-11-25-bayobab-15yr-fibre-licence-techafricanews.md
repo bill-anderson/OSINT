@@ -3,6 +3,7 @@ type: source
 title: MTN Digital Infrastructure Secures 15-Year License to Expand Fibre Network in South Sudan (Bayobab)
 url: https://techafricanews.com/2025/11/25/mtn-digital-infrastructure-secures-15-year-license-to-expand-fibre-network-in-south-sudan/
 publisher: TechAfrica News
+ingested: 2026-07-19
 author: Jennifer Onyeagoro
 published: 2025-11-25
 date_precision: day

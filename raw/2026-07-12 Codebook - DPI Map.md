@@ -4,6 +4,7 @@ title: "Codebook - DPI Map"
 publisher: DPI Map
 url: https://dpimap.org/codebook/
 published: 2026-07-12
+date_precision: day
 date_source: proxy
 accessed: 2026-07-12
 ingested: 2026-07-12
@@ -11,6 +12,7 @@ places: [XGL]
 topics: [dpi.id, dpi.pay, dpi.exchange, gov.protect, capacity.research]
 entities: [[dpi-map], [ucl-iipp]]
 lens: []
+body_completeness: full
 ---
 <!-- Undated DPI Map codebook: variables classifying digital ID (23 vars), payment (22 vars) and data-exchange (18 vars) systems; system- vs sub-system indicators cross-referenced to the "Measuring DPI Framework". Methodology/reference attaching to [[dpi-map]] (central sets dpi-map needs-review). -->
 

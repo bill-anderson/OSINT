@@ -13,6 +13,7 @@ places: [CAF]
 topics: [dpi.id, gov.protect, gov.standards]
 entities: [[greater-internet-freedom], [al-madina]]
 lens: [sovereignty, colonialism]
+body_completeness: full
 ---
 
 <!-- COMPANION SOURCE PAGE for the binary PDF raw/2023-06-27 Country Report - Rebuilding Identification and Stakeholder Engagement in the Central African Republic.pdf (28pp). NGO research report (Greater Internet Freedom/Internews), authored by Dr. Dércio Tsandzana (Eduardo Mondlane Univ.), June 2023 — part of a multi-region study of biometrics/digital-ID threats. CC BY-NC-SA 4.0. Core CAF-specific evidence for the digital-ID sovereignty story. -->

@@ -3,6 +3,9 @@ type: source
 title: Burkina Faso Moves Travel Declarations Online in Security Push
 url: https://www.wearetech.africa/en/fils-uk/news/tech/burkina-faso-moves-travel-declarations-online-in-security-push
 publisher: We Are Tech Africa
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Samira Njoya
 published: 2026-04-13
 date_precision: day

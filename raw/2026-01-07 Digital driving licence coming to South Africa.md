@@ -3,6 +3,8 @@ type: source
 title: "Digital driving licence coming to South Africa"
 publisher: Techpoint Africa
 url: "https://techpoint.africa/insight/techpoint-digest-1253/"
+date_precision: day
+date_source: source
 author: Victoria Fakiya
 published: 2026-01-07
 accessed: 2026-07-12
@@ -11,6 +13,7 @@ places: [ZAF, LBR]
 topics: [dpi.id, dpi.govtech, include.access]
 entities: [[mymzansi], [home-affairs-south-africa], [sa-digital-transformation-roadmap]]
 lens: [sovereignty]
+body_completeness: full
 ---
 <!-- Techpoint Digest bundling three stories; primary = ZAF. SA (as of 2026-01-07): digital driving permit + card validity extension 5→8 years "in motion"; prototype built in ~3 months by a Presidency team; showcased Nov 2025 by Communications Minister Solly Malatsi at the Global DPI Summit; runs on MyMzansi (part of the Digital Transformation Roadmap launched May 2025 — single digital ID, cross-govt data sharing, digital payments, zero-rated access); Home Affairs to phase out the green ID book. Light LBR: Liberia MOE Digital Learning Platform + "Liberia Learns" Radio/TV launched 6 Jan 2026 (Grades 1–3). Libya DDoS item DROPPED per batch override (no LBY tag). Attach to mymzansi, south-africa--dpi-id, ZAF hub. -->
 

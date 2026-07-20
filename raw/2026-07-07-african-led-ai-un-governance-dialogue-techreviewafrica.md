@@ -6,12 +6,14 @@ publisher: Tech Review Africa
 published: 2026-07-07
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [tech.ai, gov.regional, gov.standards, capacity.training]
 entities: [[djibril-ouattara], [ecowas], [waemu], [ohada], [cames], [un-global-dialogue-on-ai-governance]]
 lens: [sovereignty, colonialism]
+body_completeness: full
 provenance_flag: pr-wire
 primary_to_source: The minister's statement to the UN Global Dialogue on AI Governance (Geneva) — UN/ITU session record or transcript; Ministry communiqué
 ---

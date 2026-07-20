@@ -4,12 +4,15 @@ title: "CAIMEx — Cassava AI multi-model LLM exchange for telcos"
 publisher: Cassava AI
 url: https://www.cassava.ai/caimex/
 published: 2026-02-28
+date_precision: day
+date_source: source
 accessed: 2026-06-12
 ingested: 2026-07-10
 places: [XAF, XGL]
 topics: [tech.ai, tech.innovate, infra.capacity, gov.protect, tech.industry]
 entities: [[caimex], [cassava-ai], [cassava-technologies], [anthropic]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- PROFILE / REFERENCE (Cassava AI product page; no dated event). CAIMEx = OpenAI-compatible

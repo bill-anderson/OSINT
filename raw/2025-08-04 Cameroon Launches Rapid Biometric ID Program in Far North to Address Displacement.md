@@ -13,6 +13,7 @@ places: [CMR]
 topics: [dpi.id, include.access]
 entities: [[augentic], [dgsn-cameroon]]
 lens: []
+body_completeness: full
 ---
 
 <!-- ID Tech Wire (Aug 2025): DGSN launched a rapid biometric ID enrolment campaign in Cameroon's Far North region (inaugural ceremony Maroua, 2 Aug 2025) to extend legal identity to underserved and displaced populations (IDPs; UNHCR context). Builds on the 15-year BOT contract with AUGENTIC (spring 2024) to overhaul national ID infrastructure — enrolment, card production, secure issuance. The inclusion/displacement angle of the new CNI rollout. -->

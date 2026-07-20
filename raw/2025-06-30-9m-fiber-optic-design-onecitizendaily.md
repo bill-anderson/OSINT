@@ -3,6 +3,7 @@ type: source
 title: Gov't approves $9 million for fiber optic design
 url: https://www.onecitizendaily.com/index.php/2025/06/30/govt-approves-9-million-for-fiber-optic-design/
 publisher: One Citizen Daily
+ingested: 2026-07-19
 author: One Citizen Daily Newspaper
 published: 2025-06-30
 date_precision: day

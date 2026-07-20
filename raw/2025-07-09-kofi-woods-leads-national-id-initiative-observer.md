@@ -6,12 +6,14 @@ publisher: Liberian Observer
 published: 2025-07-09
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: LBR-2026-07-17
 places: [LBR]
 topics: [dpi.id, dpi.registry, include.access]
 entities: [[national-identification-registry-liberia], [lta-liberia], [central-bank-of-liberia]]
 lens: []
+body_completeness: full
 ---
 
 # Kofi Woods Leads National ID Card Initiative

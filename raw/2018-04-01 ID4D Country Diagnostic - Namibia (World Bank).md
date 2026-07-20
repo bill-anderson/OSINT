@@ -13,6 +13,7 @@ places: [NAM]
 topics: [dpi.id, dpi.registry]
 entities: [[world-bank]]
 lens: []
+body_completeness: full
 ---
 
 World Bank Identification for Development (ID4D) country diagnostic for Namibia, assessing the country's identity and civil registration ecosystem — the National Population Registration System, ID coverage, gaps, and recommendations for a robust, inclusive identification system.

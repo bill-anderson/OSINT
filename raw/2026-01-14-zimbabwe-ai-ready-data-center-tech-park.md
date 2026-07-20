@@ -6,6 +6,7 @@ publisher: TechAfrica News
 published: 2026-01-14
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [ZWE]
 topics: [infra.store, tech.ai, finance.new, gov.policy]
 entities: [[econet-wireless-zimbabwe], [econet-infraco], [ministry-of-ict-postal-and-courier-services-zimbabwe]]

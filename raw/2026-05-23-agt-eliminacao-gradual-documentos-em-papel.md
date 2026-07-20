@@ -3,6 +3,8 @@ type: source
 title: AGT prevê eliminação gradual de documentos em papel
 url: https://angop.ao/noticias/economia/agt-preve-eliminacao-gradual-de-documentos-em-papel/
 publisher: Angop
+lens: []
+body_completeness: full
 author: DOC/GIZ/ART
 published: 2026-05-23
 date_precision: day

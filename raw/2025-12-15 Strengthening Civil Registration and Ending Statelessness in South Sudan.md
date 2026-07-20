@@ -12,6 +12,7 @@ places: [SSD]
 topics: [dpi.id, include.access]
 entities: [[dcrnpi-south-sudan], [unhcr]]
 lens: []
+body_completeness: full
 ---
 
 # Strengthening Civil Registration and Ending Statelessness in South Sudan

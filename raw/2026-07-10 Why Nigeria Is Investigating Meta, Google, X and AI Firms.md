@@ -3,6 +3,8 @@ type: source
 title: "Why Nigeria Is Investigating Meta, Google, X and AI Firms"
 publisher: TechMoonshot
 url: https://techmoonshot.com/2026/07/10/why-nigeria-is-investigating-meta-google-x-and-ai-firms/
+date_precision: day
+date_source: source
 author: Fatima Oladunni
 published: 2026-07-10
 accessed: 2026-07-12
@@ -11,6 +13,7 @@ places: [NGA, ZAF]
 topics: [gov.legislate, tech.ai, gov.protect]
 entities: [[fccpc], [meta], [google], [x-corp], [bola-tinubu], [ndpc]]
 lens: [sovereignty]
+body_completeness: full
 ---
 <!-- President Tinubu ordered FCCPC to investigate Meta/Alphabet(Google)/X + GenAI firms over uncompensated scraping/training on Nigerian news content (abuse of dominance + copyright, FCCP Act 2018); directive via Info Min. Mohammed Idris; EVC Tunji Bello frames it as fact-finding; triggered by Nigerian Press Organisation petition. Precedents: 2025 $220m Meta penalty (under appeal), NDPC ₦7.2bn privacy penalties, SA CompComm–Google ~R688m/yr. Distinct from ndpc-meta-settlement. Attach: NGA hub, fccpc, meta, google, x-corp (new), bola-tinubu (new). -->
 President Bola Tinubu has ordered Nigeria’s competition watchdog to investigate Meta, Alphabet, X and a cluster of generative AI platforms over how they treat Nigerian news content. The directive, issued through Information Minister Mohammed Idris, tasks the Federal Competition and Consumer Protection Commission (FCCPC) with determining whether the companies broke the law by scraping, training on, and profiting from journalism they never paid for. It is the boldest move yet in Nigeria’s ongoing push to make global tech platforms answer to local rules.

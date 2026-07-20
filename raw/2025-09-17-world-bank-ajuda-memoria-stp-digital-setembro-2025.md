@@ -6,6 +6,7 @@ publisher: World Bank Group
 published: 2025-09-17
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [STP]
 topics: [infra.store, dpi.id, dpi.exchange, dpi.govtech, infra.connect, infra.cybersec, data.statistics]
 entities: [[world-bank], [stp-digital], [inic], [dgrn], [ager]]

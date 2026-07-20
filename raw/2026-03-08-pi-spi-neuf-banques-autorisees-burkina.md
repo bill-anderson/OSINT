@@ -3,6 +3,7 @@ type: source
 title: "Paiements instantanés PI-SPI dans l'UEMOA : Neuf banques et institutions désormais autorisées au Burkina Faso"
 url: https://lefaso.net/spip.php?article144889
 publisher: leFaso.net
+ingested: 2026-07-18
 author: Hamed Nanéma
 published: 2026-03-08
 date_precision: day
@@ -13,6 +14,7 @@ places: [BFA, XWA]
 topics: [dpi.pay, gov.regional, include.access, finance.new]
 entities: [[bceao], [pi-spi], [uemoa], [orange-money-burkina-faso], [coris-bank-international], [ecobank], [orabank], [bank-of-africa], [united-bank-for-africa], [baobab], [cofina], [banque-de-lunion-burkina-faso]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Paiements instantanés PI-SPI dans l'UEMOA : Neuf banques et institutions désormais autorisées au Burkina Faso

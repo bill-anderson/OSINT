@@ -2,6 +2,8 @@
 type: source
 title: "Strive Masiyiwa's push for Africa's AI-powered digital infrastructure"
 publisher: dpi.africa.com
+date_precision: day
+date_source: source
 author: "Admin DW"
 url: https://dpi.africa.com/strive-masiyiwas-push-for-africas-ai-powered-digital-infrastructure/
 published: 2025-09-18

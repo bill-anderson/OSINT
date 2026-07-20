@@ -6,12 +6,14 @@ publisher: Revista Ecofin EG (ecofinge.com)
 published: 2026-07-02
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: GNQ-2026-07-17
 places: [GNQ]
 topics: [dpi.govtech, dpi.exchange, data.statistics]
 entities: [[gitge]]
 lens: []
+body_completeness: full
 ---
 
 A June 2026 diagnostic study by **Dr Marcos Ncogo, deputy director of GITGE**, exposes major gaps in the digital transformation of the public administration. Ministries were surveyed on technological readiness, understanding of Big Data, data-analysis capacity, and willingness to integrate into a **national digital-identity model**.

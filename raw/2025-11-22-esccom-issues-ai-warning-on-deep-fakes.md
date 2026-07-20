@@ -6,6 +6,7 @@ publisher: Times of Eswatini
 published: 2025-11-22
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [SWZ]
 topics: [tech.ai, gov.legislate, infra.cybersec]
 entities: [[esccom], [university-of-eswatini]]

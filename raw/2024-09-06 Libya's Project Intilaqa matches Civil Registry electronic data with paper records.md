@@ -13,6 +13,7 @@ places: [LBY]
 topics: [dpi.registry, dpi.id, gov.protect]
 entities: [[civil-registry-authority-libya]]
 lens: []
+body_completeness: full
 ---
 
 <!-- PM Aldabaiba followed up on Project Intilaqa (matching electronic Civil Registry data with paper records). Attendees: Acting Interior Min Imad Trabelsi, Administrative Control Authority head, CRA head Maj Gen Tariq Al-Thaman, Passports/Nationality/Foreigners head. CRA: 257 offices completed matching + scanning, 1.8m Libyan families printed — 97% completion; project not completed since mid-1970s. CRA issues the unique National ID Number; only with a valid number can a citizen get a SIM, passport, bank account, official-rate hard currency, marry, or vote. Controversy: 250,000-700,000 fake National ID Numbers (leaked intelligence report, cited for postponing 24 Dec 2021 elections); past CBL-CRA database dispute → joint committee. Intilaqa cleans the database. -->

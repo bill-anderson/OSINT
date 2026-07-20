@@ -3,6 +3,9 @@ type: source
 title: Botswana's ambitious $300m digital proposal
 url: https://itweb.africa/article/botswanas-ambitious-300m-digital-proposal/dgp45qaBwYDvX9l8
 publisher: ITWeb Africa
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Mthulisi Sibanda
 published: 2026-03-18
 date_precision: day

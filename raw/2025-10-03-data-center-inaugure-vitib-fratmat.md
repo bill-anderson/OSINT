@@ -6,12 +6,14 @@ publisher: Fraternité Matin
 published: 2025-10-03
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [infra.store]
 entities: [[st-digital], [vitib], [ministere-de-la-transition-numerique-et-de-la-digitalisation-cote-divoire]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Innovation technologique : Un data center de point officiellement inauguré à Vitib

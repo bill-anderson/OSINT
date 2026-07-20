@@ -6,12 +6,14 @@ publisher: TechAfrica News
 published: 2025-09-22
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [finance.new, infra.store, dpi.govtech, geopol.usa, geopol.china]
 entities: [[us-exim-bank], [cybastion], [cisco], [hewlett-packard-enterprise], [schneider-electric]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # U.S. EXIM Approves $100 Million Guarantee for Côte d'Ivoire Digital Transformation

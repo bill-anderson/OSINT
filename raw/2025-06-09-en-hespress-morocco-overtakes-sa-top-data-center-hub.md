@@ -6,12 +6,14 @@ publisher: Hespress English
 published: 2025-06-09
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: MAR-2026-07-17
 places: [MAR]
 topics: [infra.store]
 entities: [[digital-morocco-2030], [maroc-telecom], [inwi]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Morocco overtakes South Africa as Africa's top data center hub

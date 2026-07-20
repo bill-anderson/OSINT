@@ -12,6 +12,7 @@ places: [SOM]
 topics: [dpi.id, dpi.registry, dpi.mis, include.access]
 entities: [[opencrvs]]
 lens: []
+body_completeness: full
 ---
 
 # OpenCRVS | Somalia

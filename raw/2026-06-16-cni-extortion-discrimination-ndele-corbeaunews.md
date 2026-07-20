@@ -6,10 +6,12 @@ publisher: Corbeau News Centrafrique (CNC)
 published: 2026-06-16
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [CAF]
 topics: [dpi.id, dpi.registry, include.access, include.divides, digital.rural]
 entities: [[al-madina]]
 lens: [sovereignty]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: CAF-2026-07-17
 date_note: "The page renders a live 'today' date in its chrome (read 'mercredi, juin 24, 2026' at fetch) — NOT the publication date. 2026-06-16 is Exa's crawl-time metadata and is consistent with the article's internal 'Ce lundi' (Mon 15 June 2026). Verify at ingest if the exact day matters."

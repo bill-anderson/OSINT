@@ -13,6 +13,7 @@ places: [MWI]
 topics: [dpi.id, dpi.registry, include.access, finance.new]
 entities: [[idt4m], [undp], [national-registration-bureau-malawi]]
 lens: []
+body_completeness: full
 ---
 
 Malawi, with technical and financial support from UNDP, the EU and Irish Aid, launched the Inclusive Digital Transformation for Malawi (IDT4M) project to widen digital inclusion in a country where only about 20 percent of citizens have internet access. The project has three focus areas: an inclusive digital identity system for marginalised populations; enhanced digital systems built on open-source solutions and human-rights safeguards; and youth digital literacy, productivity and gender equality. Partners include the NRB, e-Government service, MACRA, private sector, civil society and universities.

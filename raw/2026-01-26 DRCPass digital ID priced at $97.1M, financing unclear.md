@@ -13,6 +13,7 @@ places: [COD]
 topics: [dpi.id, finance.new]
 entities: [[rdc-pass], [trident-digital-tech]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Bankable (Jan 2026): per a Ministry of Planning document, developing DRCPass requires $97.1m in capex (equipment, systems, infrastructure, facilities only) — financing remains unclear. The PPP (signed Jun 2025, Ministry of Posts/Telecoms/New ICTs × Trident) makes Trident the exclusive e-KYC provider on Web 3.0, for a 20-year term. Cost/financing-transparency detail on the DRCPass concession. -->

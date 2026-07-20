@@ -6,6 +6,7 @@ publisher: TechAfrica News
 published: 2025-05-26
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [MWI]
 topics: [dpi.id, include.access, dpi.pay]
 entities: [[national-registration-bureau-malawi]]

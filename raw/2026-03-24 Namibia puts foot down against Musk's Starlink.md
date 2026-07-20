@@ -3,6 +3,8 @@ type: source
 title: "Namibia puts foot down against Musk's Starlink"
 publisher: ITWeb Africa
 url: https://itweb.africa/article/namibia-puts-foot-down-against-musks-starlink/
+date_precision: day
+date_source: source
 author: Phathisani Moyo
 published: 2026-03-24
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [NAM, ZAF]
 topics: [infra.connect, gov.legislate, include.divides, digital.rural]
 entities: [[starlink], [cran]]
 lens: [sovereignty]
+body_completeness: excerpt
 ---
 
 <!-- CRAN (Govt Gazette, ~23 Mar 2026) declined Starlink Namibia's Class Comprehensive Telecoms Licence + spectrum — local subsidiary fully foreign-owned, no Namibian shareholding; mirrors SA rejection (Musk called it 'openly racist'). Starlink now licensed in 27 African countries. CRAN may reconsider within 90 days. (Same CRAN denial as the batch-2 item, restated.) -->

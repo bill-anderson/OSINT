@@ -12,6 +12,7 @@ places: [TUN]
 topics: [dpi.id, gov.legislate, gov.standards]
 entities: [[organic-law-2024-22-tunisia], [organic-law-2024-23-tunisia], [icao], [ministry-of-interior-tunisia]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 *Same 2024-04-22 ministerial session as the TAP/Zawya account, and complementary to it rather than

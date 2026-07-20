@@ -3,6 +3,7 @@ type: source
 title: "Inauguration du Hub numérique de N'Zérékoré pour l'inclusion digitale en région forestière"
 url: https://aminata.com/inauguration-du-hub-numerique-de-nzerekore-une-avancee-majeure-pour-linclusion-digitale-et-la-transformation-numerique-en-guinee/
 publisher: Aminata.com
+ingested: 2026-07-18
 author: Primature – Cellule de Communication du Gouvernement
 published: 2025-02-09
 date_precision: day
@@ -13,6 +14,7 @@ places: [GIN]
 topics: [include.divides, capacity.training, digital.localgov]
 entities: [[ministry-digital-economy-guinea], [rose-pola-pricemou]]
 lens: []
+body_completeness: full
 ---
 
 # Inauguration du HUB numérique de N'Zérékoré : une avancée majeure pour l'inclusion digitale

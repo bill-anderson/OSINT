@@ -11,6 +11,7 @@ places: [DZA]
 topics: [dpi.govtech, digital.localgov, gov.policy]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 # Electronic Municipalities in Algeria within the e-Government Strategy (Billeh)

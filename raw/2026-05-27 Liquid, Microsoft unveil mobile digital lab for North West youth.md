@@ -3,6 +3,8 @@ type: source
 title: "Liquid, Microsoft unveil mobile digital lab for North West youth"
 publisher: ITWeb
 url: https://www.itweb.co.za/article/liquid-microsoft-unveil-mobile-digital-lab/
+date_precision: day
+date_source: source
 author: Staff Writer
 published: 2026-05-27
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [ZAF]
 topics: [capacity.training, capacity.literacy, include.access, tech.ai, digital.rural]
 entities: [[liquid-c2], [microsoft], [cassava-technologies]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Solar-powered mobile digital lab (Liquid + Microsoft + SA DCDT) at Royal Bafokeng Institute, Phokeng, North West. Power Platform cohort. Builds on Mthatha centre (515 trained, 96% pass, 149 placed). -->

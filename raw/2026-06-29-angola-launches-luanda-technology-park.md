@@ -3,6 +3,8 @@ type: source
 title: Angola launches Luanda technology park
 url: https://itweb.africa/article/angola-launches-luanda-technology-park/8OKdWqDX2nRqbznQ
 publisher: ITWeb Africa
+lens: []
+body_completeness: full
 author: Staff Writer
 published: 2026-06-29
 date_precision: day

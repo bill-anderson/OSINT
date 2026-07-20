@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: resource
 title: Disrupt Africa
 places: [XAF, ZAF, NGA, EGY, KEN]

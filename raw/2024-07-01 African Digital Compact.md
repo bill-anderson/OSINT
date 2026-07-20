@@ -11,6 +11,7 @@ places: [XAF, XSS]
 topics: [gov.policy, gov.regional, gov.standards, dpi.exchange, infra.cybersec]
 entities: [[african-union], [africa-digital-compact]]
 lens: [sovereignty]
+body_completeness: full
 artefact: "2024-07-01 African Digital Compact.pdf"
 ---
 

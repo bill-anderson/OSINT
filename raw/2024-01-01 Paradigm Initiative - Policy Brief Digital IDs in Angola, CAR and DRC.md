@@ -13,6 +13,7 @@ places: [AGO, CAF, COD]
 topics: [dpi.id, gov.protect]
 entities: []
 lens: [sovereignty, colonialism]
+body_completeness: full
 ---
 
 <!-- COMPANION SOURCE PAGE for binary raw/2024-01-01 Paradigm Initiative - Policy Brief Digital IDs in Angola, CAR and DRC.pdf (16pp). Paradigm Initiative (2024) human-rights policy brief assessing digital-ID systems in Angola, CAR and DRC — cross-links to [[caf--dpi-id]] and [[COD]]. Researchers Thobekile Matimbe, Bridgette Ndlovu; editor Adeboye Adegoke. Argues for safeguarding human rights in digital-ID deployment. Date proxied to year. -->

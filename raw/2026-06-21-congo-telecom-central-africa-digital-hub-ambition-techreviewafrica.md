@@ -3,6 +3,7 @@ type: source
 title: Congo Telecom reiterates ambition to lead digital transit and technology hub in Central Africa
 url: https://techreviewafrica.com/news/6002/congo-telecom-reiterates-ambition-to-lead-digital-transit-and-technology-hub-in-central-africa
 publisher: Tech Review Africa
+ingested: 2026-07-18
 author: Kanto Kai Okanta
 published: 2026-06-21
 date_precision: day
@@ -11,6 +12,7 @@ places: [COG, COD, XCA]
 topics: [infra.connect, gov.regional, finance.new, tech.industry, dpi.exchange]
 entities: [[congo-telecom]]
 lens: [sovereignty]
+body_completeness: full
 provenance_flag: pr-wire
 retrieved: 2026-07-17
 sweep_batch: COG-2026-07-17

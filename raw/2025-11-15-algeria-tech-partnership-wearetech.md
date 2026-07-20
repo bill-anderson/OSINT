@@ -6,12 +6,14 @@ publisher: We Are Tech Africa
 published: 2025-11-15
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV, DZA]
 topics: [gov.regional, infra.connect, gov.policy, tech.industry]
 entities: [[sid-ali-zerrouki], [alphonse-voho-sahi], [international-telecommunication-union], [world-bank]]
 lens: []
+body_completeness: full
 ---
 
 # Côte d'Ivoire Explores Tech Partnership with Algeria to Boost Digital Economy

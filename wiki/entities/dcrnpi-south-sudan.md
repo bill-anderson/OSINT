@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: government-body
 title: Directorate of Civil Registry, Nationality, Passport and Immigration (DCRNPI/DNPI)
 places: [SSD]

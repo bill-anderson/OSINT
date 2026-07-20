@@ -13,6 +13,7 @@ places: [MUS]
 topics: [dpi.govtech, dpi.id]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 Annual Report on Performance of the Mauritius Prime Minister's Office for financial year 2023-2024, covering functions under the PMO including Home Affairs, and touching on e-government service delivery and identity-related administration. Low relevance to the wiki's core scope — filed as a reference artefact for institutional/e-government context. Publication date not stated on the artefact; dated by proxy to FY (year precision).

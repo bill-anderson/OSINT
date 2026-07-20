@@ -4,12 +4,15 @@ title: "AWS launches Outposts in Rwanda"
 publisher: Montjalinews
 url: https://www.montjalinews.org/2026/04/17/amazon-web-services-launches-outposts-in-rwanda/
 published: 2026-04-17
+date_precision: day
+date_source: source
 accessed: 2026-06-18
 ingested: 2026-07-10
 places: [RWA]
 topics: [infra.store, infra.capacity, tech.ai, dpi.govtech, gov.protect]
 entities: [[aws-outposts-rwanda], [amazon-web-services], [sand-technologies]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- AWS Outposts hybrid-cloud deployment in Rwanda, supported by Sand Technologies. Quotes:

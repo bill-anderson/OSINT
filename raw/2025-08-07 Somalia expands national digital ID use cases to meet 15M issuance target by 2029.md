@@ -12,6 +12,7 @@ places: [SOM]
 topics: [dpi.id, dpi.pay]
 entities: [[nira-somalia], [snid], [central-bank-of-somalia]]
 lens: []
+body_completeness: full
 ---
 
 # Somalia expands national digital ID use cases to meet 15M issuance target by 2029

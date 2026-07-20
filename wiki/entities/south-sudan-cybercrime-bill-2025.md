@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: instrument
 title: Cybercrime and Abuse of Computer Bill 2025 (South Sudan)
 places: [SSD]

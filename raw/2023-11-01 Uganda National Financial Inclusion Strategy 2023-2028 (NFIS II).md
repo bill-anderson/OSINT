@@ -7,6 +7,8 @@ published: 2023-11-01
 date_precision: month
 date_source: source
 ingested: 2026-07-17
+lens: []
+body_completeness: full
 artefact: "2023-11-01 Uganda National Financial Inclusion Strategy 2023-2028 (NFIS II).pdf"
 places: [UGA]
 topics: [dpi.pay, include.access, include.divides, gov.policy]

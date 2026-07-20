@@ -3,6 +3,9 @@ type: source
 title: Paratus Botswana, Eutelsat showcase resilient connectivity and redefine how mining connects in southern Africa
 url: https://itweb.africa/article/paratus-botswana-eutelsat-showcase-resilient-connectivity-and-redefine-how-mining-connects-in-southern-africa/lLn14MmQeANMJ6Aa
 publisher: ITWeb Africa
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Issued by Paratus (company press release)
 published: 2026-07-14
 date_precision: day

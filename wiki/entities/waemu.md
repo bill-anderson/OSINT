@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: organisation
 title: WAEMU / UEMOA (West African Economic and Monetary Union)
 places: [TGO, XWA]

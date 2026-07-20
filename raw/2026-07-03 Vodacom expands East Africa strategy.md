@@ -4,11 +4,14 @@ title: Vodacom expands East Africa strategy
 url: https://itweb.africa/article/vodacom-expands-east-africa-strategy/lLn14MmQerdMJ6Aa
 publisher: ITWeb Africa
 published: 2026-07-03
+date_precision: day
+date_source: source
 ingested: 2026-07-10
 places: [XEA, KEN, TZA, ZAF]
 topics: [dpi.pay, infra.connect, include.access, tech.ai, finance.new, include.divides]
 entities: [[vodacom], [safaricom]]
 lens: []
+body_completeness: excerpt
 ---
 
 ![Vodacom head office  (Image source: Highperform.ai).](https://lh3.googleusercontent.com/XY-aS1L43dsjV6FWvhKM2shwfo4sVxnGFNsSUUdiMzZr2oQEvp_kuqye6MauwWMM348opE5Wll1QCJZt3QCHEMy16AN2CL5KbYz7)

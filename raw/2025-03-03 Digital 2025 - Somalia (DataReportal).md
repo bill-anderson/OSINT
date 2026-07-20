@@ -12,6 +12,7 @@ places: [SOM]
 topics: [infra.connect, include.access]
 entities: [[datareportal]]
 lens: []
+body_completeness: full
 ---
 
 # Digital 2025 - Somalia (DataReportal)

@@ -3,6 +3,7 @@ type: source
 title: "Souveraineté numérique : le gouvernement inaugure deux datacenters"
 url: https://www.sidwaya.info/souverainete-numerique-le-gouvernement-inaugure-deux-datacenters/
 publisher: Sidwaya
+ingested: 2026-07-18
 author: Abdoulaye Balbone et Fatimata Zoungrana
 published: 2026-01-25
 date_precision: day
@@ -13,6 +14,7 @@ places: [BFA]
 topics: [infra.store, gov.policy, dpi.govtech, infra.cybersec, finance.new]
 entities: [[aminata-zerbo-sabane], [rimtalba-jean-emmanuel-ouedraogo], [ministere-transition-digitale-burkina-faso], [ibrahim-traore]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Souveraineté numérique: le gouvernement inaugure deux datacenters

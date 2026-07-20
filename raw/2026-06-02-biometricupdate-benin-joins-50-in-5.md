@@ -3,6 +3,7 @@ type: source
 title: Benin joins 50-in-5 as digital identity, DPI strategy advances
 url: https://www.biometricupdate.com/202606/benin-joins-50-in-5-as-digital-identity-dpi-strategy-advances
 publisher: Biometric Update
+ingested: 2026-07-18
 author: Ayang Macdonald
 published: 2026-06-02
 date_precision: day
@@ -13,6 +14,7 @@ places: [BEN]
 topics: [dpi.id, dpi.exchange, gov.regional, gov.policy, dpi.pay]
 entities: [[asin], [anip-benin], [50-in-5], [undp], [world-bank], [id4africa]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Benin joins 50-in-5 as digital identity, DPI strategy advances

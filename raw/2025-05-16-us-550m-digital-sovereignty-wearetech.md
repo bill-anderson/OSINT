@@ -6,12 +6,14 @@ publisher: We Are Tech Africa
 published: 2025-05-16
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [geopol.usa, finance.mou, infra.cybersec, capacity.training, tech.ai, infra.store]
 entities: [[cybastion], [george-mason-university], [troy-fitrell], [cisco], [ministry-of-digital-economy-cote-divoire]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Côte d'Ivoire Secures $550M U.S. Backing for Digital Sovereignty, Tech Talent

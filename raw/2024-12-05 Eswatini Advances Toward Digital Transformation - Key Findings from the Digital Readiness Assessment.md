@@ -10,6 +10,8 @@ ingested: 2026-07-17
 places: [SWZ]
 topics: [gov.policy, dpi.exchange, dpi.govtech, infra.connect, include.divides, capacity.literacy, data.statistics]
 entities: [[eswatini-digital-readiness-assessment], [undp], [eseparc], [ministry-of-ict-eswatini], [government-in-your-hand], [eswatini-digitalisation-strategy-2024-2028]]
+lens: []
+body_completeness: full
 ---
 
 On a journey to transform Eswatini's digital landscape, the Ministry of ICT is pursuing a digital agenda, demonstrated by the "Government in Your Hand" project and implementation of the Eswatini Digitalisation Strategy 2024-2028. Eswatini is among the first countries in the African region to implement the UNDP Digital Readiness Assessment (DRA).

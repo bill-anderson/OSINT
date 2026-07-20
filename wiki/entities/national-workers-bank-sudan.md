@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: company
 title: National Workers Bank (Sudan)
 places: [SDN]

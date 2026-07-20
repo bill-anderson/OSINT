@@ -6,6 +6,7 @@ publisher: We Are Tech (WeAreTech.Africa)
 published: 2026-04-13
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [NAM]
 topics: [infra.cybersec, data.statistics, tech.ai]
 entities: [[cran]]

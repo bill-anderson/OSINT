@@ -6,6 +6,7 @@ publisher: Cybernetica
 published: 2026-05-14
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [TUN]
 topics: [dpi.exchange, dpi.govtech, gov.regional]
 entities: [[cybernetica], [ministry-of-communication-technologies-tunisia], [ebrd]]

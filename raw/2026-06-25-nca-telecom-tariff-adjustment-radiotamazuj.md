@@ -3,6 +3,7 @@ type: source
 title: NCA adjusts telecom tariff exchange rate to avert network collapse
 url: https://www.radiotamazuj.org/en/news/article/nca-adjusts-telecom-tariff-exchange-rate-to-avert-network-collapse
 publisher: Radio Tamazuj
+ingested: 2026-07-19
 author: Editor In Chief
 published: 2026-06-25
 date_precision: day

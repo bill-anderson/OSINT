@@ -3,6 +3,7 @@ type: source
 title: "Cybersécurité: Le Bénin parie sur les start-up innovantes"
 url: https://lanation.bj/numerique/cybersecurite-le-benin-parie-sur-les-start-up-innovantes
 publisher: La Nation
+ingested: 2026-07-18
 author: Christian Hounongbe
 published: 2025-04-16
 date_precision: day
@@ -13,6 +14,7 @@ places: [BEN]
 topics: [infra.cybersec, tech.innovate, tech.industry, gov.policy]
 entities: [[asin-benin], [adpme-benin], [cnin-benin], [cyber-incub], [marc-andre-loko], [laurent-gangbes], [aurelie-adam-soule-zoumarou]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Cybersécurité: Le Bénin parie sur les start-up innovantes

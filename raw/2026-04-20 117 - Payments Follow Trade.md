@@ -3,6 +3,8 @@ type: source
 title: "#117 - Payments Follow Trade"
 publisher: Frontier Fintech (Substack)
 url: https://frontierfintech.substack.com/p/117-payments-follow-trade
+date_precision: day
+date_source: source
 author: Samora Kariuki (with April Long, CEO/cofounder Waka)
 published: 2026-04-20
 accessed: 2026-07-12
@@ -11,6 +13,7 @@ places: [KEN, XAF]
 topics: [dpi.pay, geopol.china]
 entities: [[samora-kariuki], [waka], [huawei], [hikvision]]
 lens: [sovereignty, colonialism]
+body_completeness: full
 ---
 
 <!-- External expert analysis (Frontier Fintech). PARTNER PIECE co-written with April Long (CEO/cofounder Waka); charts from "Waka Seed Deck" — Waka traction figures (>$100m annual flow across 8 markets, 100+ liquidity providers, 20 currencies) are company-stated, not independently verified. April Long attributed in frontmatter only (no person page, per plan). Thesis: Africa's cross-border payments must be rebuilt around the Africa-Asia (China) trade corridor using stablecoins as invisible backend rails plus two-sided compliance/relationship capability into mainland China. Stablecoin thread cross-links [[2026-02-23 111 - Winning But Losing - The Payments End Game]]. Attach: dpi.pay + geopol.china concepts; XAF hub. -->

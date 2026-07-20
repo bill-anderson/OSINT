@@ -3,6 +3,7 @@ type: source
 title: "Digitalisation : le Congo veut se doter d'une identité numérique sécurisée"
 url: https://www.adiac-congo.com/content/digitalisation-le-congo-veut-se-doter-dune-identite-numerique-securisee-165876
 publisher: Les Dépêches de Brazzaville (ADIAC)
+ingested: 2026-07-18
 author: Firmin Oyé
 published: 2025-07-18
 date_precision: day
@@ -13,6 +14,7 @@ places: [COG]
 topics: [dpi.id, dpi.registry, gov.protect, gov.policy, include.access, capacity.research]
 entities: [[patn-congo], [caria-congo], [thales], [world-bank]]
 lens: [sovereignty]
+body_completeness: full
 provenance_flag: state-aligned-outlet
 ---
 

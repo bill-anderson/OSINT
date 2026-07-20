@@ -6,12 +6,14 @@ publisher: MyJoyOnline
 published: 2026-04-28
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: GHA-2026-07-17
 places: [GHA]
 topics: [tech.ai, gov.policy]
 entities: [[ghana-national-ai-strategy]]
 lens: [sovereignty]
+body_completeness: full
 ---
 # Ghana's AI Strategy is more than a policy, it is a declaration of digital sovereignty
 

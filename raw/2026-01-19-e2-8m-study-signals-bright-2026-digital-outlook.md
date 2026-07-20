@@ -6,6 +6,7 @@ publisher: Times of Eswatini
 published: 2026-01-19
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [SWZ]
 topics: [data.statistics, gov.policy, infra.connect]
 entities: [[esccom], [ministry-of-ict-eswatini]]

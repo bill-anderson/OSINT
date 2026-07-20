@@ -6,12 +6,14 @@ publisher: Telecom Review Africa
 published: 2025-10-03
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 places: [DZA]
 topics: [infra.connect, tech.ai, include.divides, include.access, digital.rural, infra.cybersec]
 entities: [[ooredoo-algeria], [medhat-elhusseiny], [service-universel-des-telecommunications-algeria], [ookla]]
 lens: []
+body_completeness: full
 ---
 
 # 5G, AI, and Beyond, Ooredoo's Role in Shaping Algeria's Digital Economy : Dr. Medhat ElHusseiny

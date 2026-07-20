@@ -3,6 +3,8 @@ type: source
 title: Projecto "Njila" reabilita postos de registo de nascimento no Bié e no Huambo
 url: https://angop.ao/noticias/sociedade/njila-reabilita-postos-de-registos-de-nascimento-no-bie-e-huambo/
 publisher: Angop
+lens: []
+body_completeness: full
 author: ZZN/JSV/ALH
 published: 2026-04-06
 date_precision: day

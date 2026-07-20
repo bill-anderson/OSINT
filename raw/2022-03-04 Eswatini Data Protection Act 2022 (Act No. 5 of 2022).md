@@ -12,6 +12,7 @@ places: [SWZ]
 topics: [gov.protect, gov.legislate, gov.standards]
 entities: [[data-protection-act-2022-eswatini], [esccom]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Eswatini Data Protection Act, 2022 (Act No. 5 of 2022)

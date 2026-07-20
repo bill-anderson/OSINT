@@ -6,6 +6,7 @@ publisher: ACTUALITE.CD
 published: 2025-03-18
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: COD-2026-07-17
 places: [COD]
@@ -13,7 +14,7 @@ topics: [infra.connect, gov.policy, gov.standards]
 entities: [[arptc]]
 lens: []
 provenance_flag: pr-wire
-body_completeness: headline-only
+body_completeness: excerpt
 ---
 
 Mardi 18 mars 2025 - 09:48

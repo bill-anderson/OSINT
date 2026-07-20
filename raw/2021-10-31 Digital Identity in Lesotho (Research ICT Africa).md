@@ -12,6 +12,7 @@ places: [LSO]
 topics: [dpi.id, gov.protect]
 entities: [[lesotho-national-id]]
 lens: [colonialism]
+body_completeness: full
 artefact: "2021-10-31 CIS_DigitalID_RIA_Lesotho.pdf"
 ---
 

@@ -6,10 +6,12 @@ publisher: We Are Tech Africa
 published: 2025-02-12
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [COD]
 topics: [dpi.id, dpi.govtech, gov.policy, gov.regional, include.access]
 entities: [[rdc-pass], [trident-digital-tech], [felix-tshisekedi]]
 lens: [sovereignty]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: COD-2026-07-17
 ---

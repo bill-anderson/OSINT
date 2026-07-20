@@ -3,6 +3,8 @@ type: source
 title: "Is it a bird? Is it plane? No, Jim, it’s an African mobile operator, but not as we know it #9"
 publisher: Russell Southwood (Substack)
 url: "https://russellsouthwood.substack.com/p/is-it-a-bird-is-it-plane-no-jim-its"
+date_precision: day
+date_source: source
 author: Russell Southwood
 published: 2025-12-04
 accessed: 2026-07-12
@@ -11,6 +13,7 @@ places: [XSS, NGA, KEN, ZAF, GHA, SEN, ETH, COD, MLI]
 topics: [tech.industry, infra.connect, dpi.pay, tech.ai, infra.store, finance.new]
 entities: [[russell-southwood], [mtn-group], [airtel-africa], [vodacom], [safaricom], [orange], [econet-wireless], [axian-telecom], [ethio-telecom], [safaricom-ethiopia], [meta], [google]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Analysis: SSA MNOs turning into data/holding companies as data revenue overtakes voice; spin-offs (towers, DCs, Bayobab=MTN wholesale brand→mtn-group NOT bayobab-zambia, mobile money) and need for neutral interoperable platforms + JV/network-sharing for fibre/AI CAPEX. Attach: mtn-group (Bayobab), airtel-africa (NXtra), vodacom (Maziv 30%), safaricom (broadband/IXAfrica), orange (DRC rural JV), ethio-telecom/safaricom-ethiopia (M-PESA Lehulum). -->

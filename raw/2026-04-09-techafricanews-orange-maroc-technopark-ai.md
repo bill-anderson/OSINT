@@ -6,12 +6,14 @@ publisher: Tech Africa News
 published: 2026-04-09
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: MAR-2026-07-17
 places: [MAR]
 topics: [tech.ai, tech.innovate]
 entities: [[orange]]
 lens: []
+body_completeness: full
 ---
 
 # Orange Maroc partners Technopark to accelerate AI and digital transformation

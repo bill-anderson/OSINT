@@ -3,6 +3,7 @@ type: source
 title: "MTN sells Guinea-Conakry business to the State of Guinea"
 url: https://www.connectingafrica.com/investment/mtn-sells-guinea-conakry-business-to-guinean-government
 publisher: Connecting Africa
+ingested: 2026-07-18
 author: Paula Gilbert
 published: 2025-01-06
 date_precision: day
@@ -13,6 +14,7 @@ places: [GIN]
 topics: [infra.connect, tech.industry, finance.new]
 entities: [[mtn], [mtn-guinea], [orange-guinea]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # MTN sells Guinea-Conakry business to Guinean government

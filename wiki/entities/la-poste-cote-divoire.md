@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: organisation
 title: La Poste de Côte d'Ivoire
 places: [CIV]

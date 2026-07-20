@@ -13,6 +13,7 @@ places: [GNQ]
 topics: [dpi.id, gov.legislate]
 entities: [[cnedoge]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Explainer (year-proxy 2024) on CNEDOGE — Centro Nacional de Emisión de Documentos Oficiales. Created by Decree 24/2010 (11 March), attached to the Ministry of National Security, seat in Malabo. Purpose: guarantee authenticity of official documents — national identity documents (DIP), passports (official/ordinary/diplomatic/service), foreigners' residence cards, civil-servant cards. Governing bodies: Board of Administration, Directorate General, Area Chiefs. Statutory aims: issue all biometric-security official documents; install/control/manage issuance + verification devices nationwide (incl. consulates abroad); advise government on document authenticity. No regulation on issuance deadlines — unwritten norm ~30 working days for a DIP, 14-17 for a passport. -->

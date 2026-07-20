@@ -10,6 +10,7 @@ ingested: 2026-07-20
 places: [SSD]
 topics: [dpi.pay, dpi.exchange, include.access, finance.mou]
 entities: [[bank-of-south-sudan], [africanenda], [nips-south-sudan], [johnny-ohisa-damian], [robert-ochola]]
+lens: []
 body_completeness: full
 ---
 

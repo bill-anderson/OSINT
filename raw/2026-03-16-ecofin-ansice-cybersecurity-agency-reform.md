@@ -6,6 +6,7 @@ publisher: Ecofin Agency
 published: 2026-03-16
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [TCD]
 topics: [gov.legislate, gov.protect, infra.cybersec, tech.ai]
 entities: [[ansice], [malabo-convention]]

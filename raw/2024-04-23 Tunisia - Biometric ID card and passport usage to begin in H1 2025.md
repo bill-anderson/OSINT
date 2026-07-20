@@ -12,6 +12,7 @@ places: [TUN]
 topics: [dpi.id, gov.legislate, gov.standards, dpi.govtech]
 entities: [[ministry-of-interior-tunisia], [ministry-of-communication-technologies-tunisia], [organic-law-2024-22-tunisia], [organic-law-2024-23-tunisia], [icao], [nizar-ben-neji]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 *National news agency relaying a Prime Ministry statement — the closer-to-primary account of the 2024-04-22 ministerial session, and the better citation for who attended. Complementary to the ID Tech report of the same event, which uniquely carries the organic-law rank gloss.*

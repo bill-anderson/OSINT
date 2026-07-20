@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: instrument
 title: UN E-Government Development Index (EGDI)
 places: [XGL, XAF]

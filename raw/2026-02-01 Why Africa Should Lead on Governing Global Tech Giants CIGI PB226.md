@@ -12,6 +12,7 @@ places: [XAF, NGA, KEN, ZAF, RWA]
 topics: [gov.regional, gov.protect, gov.legislate, tech.industry, geopol.usa]
 entities: [[cigi], [malabo-convention], [popia]]
 lens: [sovereignty, colonialism]
+body_completeness: full
 ---
 
 # Why Africa Should Lead on Governing Global Tech Giants (CIGI PB226)

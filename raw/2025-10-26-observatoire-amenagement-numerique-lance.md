@@ -3,6 +3,7 @@ type: source
 title: "Ministère en charge de la transition digitale: l'Observatoire de l'aménagement numérique lancé"
 url: https://www.sidwaya.info/ministere-en-charge-de-la-transition-digitale-lobservatoire-de-lamenagement-numerique-lance/
 publisher: Sidwaya
+ingested: 2026-07-18
 author: Abibata Kara
 published: 2025-10-26
 date_precision: day
@@ -13,6 +14,7 @@ places: [BFA]
 topics: [infra.connect, gov.policy, data.open, data.statistics, gov.standards]
 entities: [[ministere-transition-digitale-burkina-faso], [aminata-zerbo-sabane], [arcep-burkina-faso], [observatoire-amenagement-numerique-burkina-faso], [international-telecommunication-union]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Ministère en charge de la transition digitale: l'Observatoire de l'aménagement numérique lancé

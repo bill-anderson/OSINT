@@ -3,6 +3,7 @@ type: source
 title: Burkina Faso Invests $30 Million in Digital Infrastructure Amid Challenges
 url: https://www.wearetech.africa/en/fils-uk/news/tech/burkina-faso-invests-30-million-in-digital-infrastructure-amid-challenges
 publisher: We Are Tech Africa
+ingested: 2026-07-18
 author: Samira Njoya
 published: 2025-03-17
 date_precision: day
@@ -13,6 +14,7 @@ places: [BFA]
 topics: [finance.new, infra.store, infra.connect, dpi.govtech]
 entities: [[ministry-of-digital-transition-burkina-faso], [rimtalba-jean-emmanuel-ouedraogo], [resina]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Burkina Faso Invests $30 Million in Digital Infrastructure Amid Challenges

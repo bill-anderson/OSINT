@@ -12,6 +12,7 @@ places: [SLE]
 topics: [gov.policy, gov.standards, dpi.exchange]
 entities: [[dial], [sierra-leone-national-data-strategy]]
 lens: []
+body_completeness: full
 ---
 
 # Strengthening Sierra Leone's national data strategy (DIAL)

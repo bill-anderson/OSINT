@@ -3,6 +3,8 @@ type: source
 title: "Can a digital economy exist in South Sudan without reliable DPI"
 publisher: Sudans Post
 url: https://www.sudanspost.com/can-a-digital-economy-exist-in-south-sudan-without-reliable-dpi/
+date_precision: day
+date_source: source
 author: Sudans Post
 published: 2026-01-30
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [SSD]
 topics: [dpi.pay, dpi.exchange, dpi.id, infra.connect, include.divides]
 entities: [[bank-of-south-sudan], [starlink]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Bank of South Sudan launched an Inter-Bank Payment and Settlement System (Oct 2025) but not all banks integrated. No national digital ID; biometric payroll/humanitarian registries siloed; de-facto DPI donor-driven and proprietary. Mobile money fragile; internet among most expensive in region. -->

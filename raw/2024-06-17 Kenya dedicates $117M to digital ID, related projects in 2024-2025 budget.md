@@ -13,6 +13,7 @@ places: [KEN]
 topics: [dpi.id, dpi.registry, finance.new]
 entities: [[maisha-namba]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Kenya allocated KES 15.13bn (US$117m) to digital ID + related projects for FY2024/25 (State Dept for Immigration). Population management KES 6.88bn ($53.3m): 7.5m 3rd-gen/digital ID cards, 1.5m biometric passports, 6.3m birth certificates, 2.3m biometric visas, + roll out the Unique Personal Identifier (UPI) from birth. Migration/citizen services KES 7.03bn ($54.4m): 2 passport printers, visa-free regime, facial recognition at 9 one-stop border posts, 33,800 more eCitizen services (eCitizen unveiled Jun 2023 with 5,000). Cluster with the Techweez immigration-budget piece. -->

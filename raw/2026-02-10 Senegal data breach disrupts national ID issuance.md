@@ -11,6 +11,7 @@ places: [SEN]
 topics: [dpi.id, infra.cybersec, gov.protect, dpi.registry]
 entities: [[daf-senegal], [iris-corporation], [senegal-numerique], [new-deal-technologique]]
 lens: []
+body_completeness: full
 ---
 
 # Senegal data breach disrupts national ID issuance

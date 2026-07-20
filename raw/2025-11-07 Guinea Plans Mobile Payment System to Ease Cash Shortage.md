@@ -13,6 +13,7 @@ places: [GIN]
 topics: [dpi.pay, gov.legislate, include.access]
 entities: [[bcrg]]
 lens: []
+body_completeness: full
 ---
 
 <!-- BCRG strategy (presented 4 Nov 2025 to CNT budget commission) to reduce cash dependence: an M-Pesa-inspired merchant payment system built with World Bank support. 11 licensed EMIs (up from 6 in 2024); ~26% of adults hold an e-money account. Plans to operationalize the national payment switch (interoperability). Aug 2025 plan to ban cash in public admin; June 2025 PM suspended cash at PM's Office. Cash crisis eased via air-freighted banknotes (two 20-ft containers, >1.4tn GNF / $161m, Aug 2025); ~94% of banknotes never return to banks. -->

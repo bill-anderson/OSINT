@@ -13,6 +13,7 @@ places: [CIV]
 topics: [dpi.exchange, dpi.govtech]
 entities: [[sndi-cote-divoire], [cybernetica]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Merges We Are Tech (2025-09-29, launch 25 Sept) + Biometric Update (2025-10-02, contract) on the same UXP interoperability platform (dedup). Côte d'Ivoire's Minister of Digital Transition Ibrahim Kalil Konaté launched a public-administration interoperability platform (Abidjan, 25 Sep 2025) for secure real-time data exchange between state information systems. Built on Cybernetica's UXP (Unified eXchange Platform, X-Road-family); SNDI (Société Nationale de Développement Informatique) commissioned by the Ministry (MTND); 20-month implementation with Digital Afrique Telecom (DAT). Part of the National Digital Development Strategy / "zero paper 2030." Same UXP/Cybernetica model as Benin. -->

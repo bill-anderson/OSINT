@@ -6,6 +6,7 @@ publisher: TheCable (Nigeria)
 published: 2026-05-17
 date_precision: day
 date_source: source
+ingested: 2026-07-20
 places: [NGA]
 topics: [digital.localgov, infra.energy, include.divides, capacity.literacy]
 entities: [[enugu-smart-green-schools], [efcc], [ndubueze-mbah]]

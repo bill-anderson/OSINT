@@ -6,12 +6,14 @@ publisher: MyJoyOnline
 published: 2026-04-11
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: GHA-2026-07-17
 places: [GHA]
 topics: [infra.connect]
 entities: [[samuel-nartey-george], [mtn-ghana]]
 lens: []
+body_completeness: full
 ---
 
 # Sam George unveils massive 1,150-cell site rollout to end network woes

@@ -14,6 +14,7 @@ places: [AGO, NAM]
 topics: [infra.connect, gov.regional, finance.mou]
 entities: [[angola-telecom]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 Digital connectivity along Southern Africa's west coast is set for an upgrade following the signing of a memorandum of understanding and a commercial terms agreement between Telecom Namibia and Angola Telecom in Swakopmund.

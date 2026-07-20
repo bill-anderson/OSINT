@@ -3,6 +3,7 @@ type: source
 title: Irembo joins Rwanda-Botswana Business Forum to discuss digital government collaboration
 url: https://techreviewafrica.com/news/5357/irembo-joins-rwanda-botswana-business-forum-to-discuss-digital-government-collaboration
 publisher: Tech Review Africa
+ingested: 2026-07-18
 author: Nana Appiah Acquaye
 published: 2026-05-08
 date_precision: day
@@ -13,6 +14,7 @@ places: [BWA]
 topics: [dpi.govtech, gov.regional, dpi.exchange]
 entities: [[irembo], [israel-bimpe], [botswana-investment-and-trade-centre]]
 lens: [sovereignty]
+body_completeness: full
 pr_wire: true   # Tech Review Africa is a byline-light PR wire (README source table); verify against the primary at ingest
 ---
 

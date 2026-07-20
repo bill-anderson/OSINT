@@ -6,6 +6,7 @@ publisher: Tech Review Africa
 published: 2026-02-04
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 provenance_flag: pr-wire
@@ -13,6 +14,7 @@ places: [DZA]
 topics: [infra.connect, tech.industry, digital.localgov, infra.energy]
 entities: [[ooredoo-algeria], [deo-electronique]]
 lens: []
+body_completeness: full
 ---
 
 **Primary source to obtain at ingest:** Ooredoo Algeria's own press release on the "Ganzat" smart-city pilot in Sétif with DEO Electronique, which should carry the 5G rollout and IoT deployment specifics.

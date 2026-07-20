@@ -14,6 +14,7 @@ places: [AGO]
 topics: [infra.store, dpi.exchange, dpi.govtech, infra.cybersec, gov.protect]
 entities: [[joao-lourenco], [mario-oliveira], [data-center-e-cloud-do-governo-angola], [nuvem-nacional-de-angola], [infosi]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Presidente da República inaugura novo Centro de Dados do Governo

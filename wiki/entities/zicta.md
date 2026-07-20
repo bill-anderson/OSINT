@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: government-body
 title: Zambia Information and Communications Technology Authority (ZICTA)
 places: [ZMB]

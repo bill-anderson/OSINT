@@ -3,6 +3,7 @@ type: source
 title: The new era of data colonialism
 url: https://www.mmegi.bw/blogs/african-politics/the-new-era-of-data-colonialism
 publisher: Mmegi
+ingested: 2026-07-18
 author: Solly Rakgomo
 published: 2026-05-11
 date_precision: day

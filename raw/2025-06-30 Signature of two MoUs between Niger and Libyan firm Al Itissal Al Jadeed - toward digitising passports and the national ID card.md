@@ -13,6 +13,7 @@ places: [NER]
 topics: [dpi.id, gov.legislate]
 entities: [[niger-national-eid], [al-itissal-al-jadeed]]
 lens: []
+body_completeness: full
 ---
 
 Niger's Minister of State for the Interior, Major-General Mohamed Toumba, and the director of the Libyan firm Al Itissal Al Jadeed, Wissal Samlali, signed two memorandums of understanding on Friday 27 June 2025 in Niamey. The agreements cover, respectively: the financing, construction and maintenance of a system to issue biometric polycarbonate e-passports with electronic chips plus electronic archiving of records under a public-private partnership; and the issuance of the Nigerien national identity card.

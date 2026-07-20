@@ -13,6 +13,7 @@ places: [BFA]
 topics: [gov.policy, data.statistics]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 <!-- COMPANION SOURCE PAGE for binary raw/2024-01-01 IMF - Burkina Faso Country Report (2024).pdf (81pp; date proxied to year). IMF Burkina Faso country report (2024) — macroeconomic and structural context (security crisis; ~3.5m of 22.7m need food aid; 2m+ IDPs). Edge-of-core-scope: held as a light macro/development reference behind BFA's digital agenda (digitisation of business registration, tax and justice appears in its structural-reform strands), not mined for detail. -->

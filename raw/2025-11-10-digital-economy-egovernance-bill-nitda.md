@@ -6,6 +6,7 @@ publisher: TechCabal
 published: 2025-11-11
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [NGA]
 topics: [gov.legislate, gov.policy, dpi.govtech]
 entities: [[nitda]]

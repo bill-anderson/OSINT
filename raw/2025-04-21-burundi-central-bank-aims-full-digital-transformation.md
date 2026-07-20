@@ -3,6 +3,9 @@ type: source
 title: Burundi's Central Bank aims for full digital transformation
 url: https://www.burunditimes.com/burundis-central-bank-aims-for-full-digital-transformation/
 publisher: Burundi Times
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Burundi Times
 published: 2025-04-21
 date_precision: day

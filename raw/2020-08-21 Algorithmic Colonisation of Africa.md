@@ -3,6 +3,8 @@ type: source
 title: "Algorithmic Colonisation of Africa"
 publisher: The Elephant
 url: https://www.theelephant.info/analysis/2020/08/21/algorithmic-colonisation-of-africa/
+date_precision: day
+date_source: source
 author: Abeba Birhane
 published: 2020-08-21
 accessed: 2026-07-12
@@ -11,6 +13,7 @@ places: [XAF, XSS]
 topics: [tech.ai, geopol.usa, include.divides]
 entities: [[abeba-birhane], [meta], [google]]
 lens: [colonialism, sovereignty]
+body_completeness: full
 ---
 
 <!-- Birhane's foundational essay on algorithmic/digital colonialism in Africa: Western tech monopolies (Facebook/Meta, Google, Uber, Netflix) controlling African digital infrastructure and extracting data as 'human natural resources' (Zuboff surveillance-capitalism framing). Canonical colonialism-lens source. Attach to [[abeba-birhane]], tech.ai, geopol.usa. -->

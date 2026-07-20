@@ -6,12 +6,14 @@ publisher: TechAfrica News
 published: 2025-08-25
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [finance.new, infra.store, geopol.usa, geopol.china, infra.cybersec]
 entities: [[cybastion], [us-exim-bank]]
 lens: [sovereignty]
+body_completeness: full
 provenance_flag: pr-wire
 primary_to_source: US EXIM Bank approval notice for the $66M guarantee for the Côte d'Ivoire national data centre (August 2025)
 ---

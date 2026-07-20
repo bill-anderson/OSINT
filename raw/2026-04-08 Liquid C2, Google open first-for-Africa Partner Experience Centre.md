@@ -3,6 +3,8 @@ type: source
 title: "Liquid C2, Google open first-for-Africa Partner Experience Centre"
 publisher: IT-Online
 url: https://it-online.co.za/2026/04/08/liquid-c2-google-open-first-for-africa-partner-experience-centre/
+date_precision: day
+date_source: source
 author: Kathy Gibson
 published: 2026-04-08
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [ZAF, KEN, NGA, MAR, EGY, XAF]
 topics: [infra.store, tech.ai, capacity.training, infra.connect]
 entities: [[cassava-technologies], [liquid-c2], [google], [strive-masiyiwa]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- SAME event as the htxt / Cassava-Tech coverage: Liquid C2 (Cassava) launched Africa's first Google-Cloud-powered Partner Experience Centre, Johannesburg (Gemini Enterprise/Playspace, reseller local-currency billing). Cassava AI factory in Cape Town; further factories planned Kenya, Nigeria, Morocco, Egypt. Masiyiwa: 'the time for talking about AI is over.' -->

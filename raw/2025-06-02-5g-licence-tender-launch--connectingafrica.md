@@ -6,12 +6,14 @@ publisher: Connecting Africa
 published: 2025-06-02
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 places: [DZA]
 topics: [infra.connect, gov.policy, gov.legislate]
 entities: [[arpce-algeria], [ministry-of-post-and-telecommunications-algeria], [sid-ali-zerrouki], [mobilis], [djezzy], [ooredoo-algeria], [omdia]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Algeria begins tender process for 5G licenses

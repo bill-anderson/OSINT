@@ -8,6 +8,7 @@ topics: [gov.policy, gov.protect, tech.ai, dpi.id, infra.store, geopol.usa, geop
 lens: [sovereignty, colonialism]
 status: active
 last_reviewed: 2026-07-10
+sources: []
 ---
 
 # Data Landscapers

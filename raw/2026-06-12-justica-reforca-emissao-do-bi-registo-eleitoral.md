@@ -3,6 +3,8 @@ type: source
 title: Justiça reforça emissão do BI para apoiar actualização do registo eleitoral
 url: https://angop.ao/noticias/politica/justica-reforca-emissao-do-bi-para-apoiar-actualizacao-do-registo-eleitoral/
 publisher: Angop
+lens: []
+body_completeness: full
 author: LDN/SC
 published: 2026-06-12
 date_precision: day

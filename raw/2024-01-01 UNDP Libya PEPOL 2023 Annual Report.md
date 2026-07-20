@@ -12,6 +12,7 @@ places: [LBY]
 topics: [gov.policy, dpi.id]
 entities: [[undp]]
 lens: []
+body_completeness: full
 artefact: "2024-01-01 undp-ly-pepol-2023-annual-report-2024.pdf"
 ---
 

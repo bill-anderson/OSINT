@@ -3,6 +3,8 @@ type: source
 title: "UXP Directory - Benin national data-exchange dashboard"
 publisher: Government of Benin
 url: https://statistiques.xroad.bj/
+date_precision: day
+date_source: proxy
 author: unknown
 published: 2026-07-11
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [BEN]
 topics: [dpi.exchange, dpi.govtech, data.statistics]
 entities: [[uxp-benin], [cybernetica]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Live Benin UXP/X-Road statistics dashboard (as of 2026-07-11): 138,174,337 total requests; 73 members, 176 information systems, 512 services; top providers ANATT (transport), ANIP (identity), DGI (tax). Resource; UXP is Cybernetica's product. -->

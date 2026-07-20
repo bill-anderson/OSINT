@@ -13,6 +13,7 @@ places: [AGO]
 topics: [dpi.pay, include.access, include.divides]
 entities: [[africell]]
 lens: []
+body_completeness: full
 ---
 
 <!-- GSMA Mobile for Development case study (2023): Africell Angola (market entry 2022, the 4th operator breaking a state-telco duopoly) launched mobile money service Afrimoney in April 2023. Context: ~50% of Angolans unbanked, large informal sector; well-established banks but weak digital financial services. Africell captured ~25% telecom market share within 8 months. Interview with Simon Andersson-Manjang, Acting Group Co-Head of Afrimoney. Mobile money as the inclusion play alongside the bank-centric EMIS/Multicaixa rails. -->

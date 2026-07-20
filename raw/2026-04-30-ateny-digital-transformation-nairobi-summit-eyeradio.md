@@ -3,6 +3,7 @@ type: source
 title: Ateny outlines S. Sudan's digital transformation plans at Nairobi summit (data centre halfway; 2,700km fibre; ICT Authority; Data Protection Act)
 url: https://www.eyeradio.org/ateny-outlines-s-sudans-digital-transformation-plans-at-nairobi-summit/
 publisher: Eye Radio
+ingested: 2026-07-19
 author: Memoscar Lasuba
 published: 2026-04-30
 date_precision: day

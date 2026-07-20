@@ -3,6 +3,8 @@ type: source
 title: "Strategy Ahead of Infrastructure, Part II: The Opportunity and the Case for Sequencing"
 publisher: Anjola Adebowale (Substack)
 url: https://anjolaadebowale.substack.com/p/strategy-ahead-of-infrastructure
+date_precision: day
+date_source: source
 author: Anjola Adebowale
 published: 2026-06-19
 accessed: 2026-07-12
@@ -11,6 +13,7 @@ places: [NGA, RWA, XGL]
 topics: [gov.legislate, infra.store, dpi.pay, tech.ai, gov.policy]
 entities: [[anjola-adebowale], [cbn-payments-circular-2026], [cbn], [mtn-nigeria], [africa-data-centres], [rwanda-dpi-strategy], [national-bank-of-rwanda]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- External expert analysis. Companion to Part I: same CBN June-2026 circular creates AI/data-engineering/governance opportunity for Nigerian firms but should have been sequenced against national infrastructure milestones (India's 2018 RBI rollback vs Rwanda's phased, sandbox-tested DPI). NEEDS-REVIEW: published-date ordering suspect — Part II post-dates Part I; frontmatter dates it 2026-06-19, BEFORE Part I (2026-07-01) which it references as already live, and before the circular's own 15 June 2026 issue makes a completed Part I implausible; true date likely early July 2026. Date kept as-is pending human correction (central to log the contradiction). MTN Sifiso Dabengwa DC ($235m, July 2025) attaches to [[mtn-nigeria]]; Rwanda 2022 regulatory sandbox to [[national-bank-of-rwanda]]/[[rwanda-dpi-strategy]]. Cross-link with Part I. -->

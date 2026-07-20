@@ -3,6 +3,8 @@ type: source
 title: "South Africa's digital ID gets a targeted launch date"
 publisher: TechCentral
 url: https://techcentral.co.za/south-africas-digital-id-gets-a-launch-date/280460/
+date_precision: day
+date_source: source
 author: Duncan McLeod
 published: 2026-04-21
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [ZAF]
 topics: [dpi.id, dpi.registry, gov.legislate, infra.cybersec, gov.protect]
 entities: [[sa-digital-id-regulations], [popia]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Home Affairs APP 2026/27 (tabled 30 Mar 2026): hosting infrastructure by 31 Mar 2027, full platform online 2027/28; PKI/CA stack built inside the SARS hosting environment; facial recognition primary biometric. A separate NIR Bill to underpin the system. -->

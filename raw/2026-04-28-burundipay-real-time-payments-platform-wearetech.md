@@ -3,6 +3,9 @@ type: source
 title: Burundi Launches Real-Time Payments Platform Backed by World Bank
 url: https://www.wearetech.africa/en/fils-uk/news/tech/burundi-launches-real-time-payments-platform-backed-by-world-bank
 publisher: We Are Tech Africa
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Samira Njoya
 published: 2026-04-28
 date_precision: day

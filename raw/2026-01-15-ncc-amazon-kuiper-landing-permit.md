@@ -6,6 +6,7 @@ publisher: TechAfrica News
 published: 2026-01-15
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [NGA]
 topics: [infra.connect, data.satellite, geopol.usa]
 entities: [[amazon-kuiper], [ncc]]

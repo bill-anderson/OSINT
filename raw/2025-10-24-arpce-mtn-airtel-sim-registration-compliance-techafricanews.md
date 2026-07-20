@@ -3,6 +3,7 @@ type: source
 title: ARPCE Convenes Meeting with MTN and Airtel on SIM Registration Compliance
 url: https://techafricanews.com/2025/10/24/arpce-convenes-meeting-with-mtn-and-airtel-on-sim-registration-compliance/
 publisher: TechAfrica News
+ingested: 2026-07-18
 author: Kay-Lyne Wolfenden
 published: 2025-10-24
 date_precision: day
@@ -11,6 +12,7 @@ places: [COG]
 topics: [gov.legislate, dpi.id, gov.standards, infra.cybersec]
 entities: [[arpce-congo], [airtel-congo]]
 lens: []
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: COG-2026-07-17
 ---

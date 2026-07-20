@@ -3,6 +3,7 @@ type: source
 title: Angola Launches i.Lab to Accelerate Digital Transformation of Public Finance
 url: https://techafricanews.com/2026/03/30/angola-launches-i-lab-to-accelerate-digital-transformation-of-public-finance/
 publisher: TechAfrica News
+entities: []
 author: Editorial Team
 published: 2026-03-30
 date_precision: day
@@ -13,6 +14,7 @@ sweep_batch: AGO-2026-07-17
 places: [AGO]
 topics: [dpi.govtech, gov.standards, tech.innovate, gov.policy]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 The Ministry of Finance (MINFIN), through the Public Finance Information and Communication Technologies Service (SETIC-FP), presented i.Lab – Innovation Laboratory for Public Finance, a strategic initiative aimed at accelerating the digital transformation in the field of public finances in Angola.

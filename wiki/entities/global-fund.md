@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: organisation
 title: The Global Fund (to Fight AIDS, Tuberculosis and Malaria)
 places: [XGL, XAF]

@@ -14,6 +14,7 @@ places: [AGO]
 topics: [infra.store, tech.innovate, tech.industry]
 entities: [[angola-cables]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 Angola Cables has announced the launch of the Accelera Cloud Program, an initiative designed to support small and medium-sized enterprises (SMEs) and startups by providing free cloud credits and migration assistance.

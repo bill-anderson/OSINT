@@ -13,6 +13,7 @@ places: [GIN]
 topics: [gov.policy, infra.connect, gov.regional, dpi.govtech]
 entities: [[transform-africa-summit-2025], [smart-africa], [simandou-2040], [arpt-guinea], [rose-pola-pricemou]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Smart Africa profile of Guinea as TAS 2025 host (promotional backgrounder). Guinea had been set to host in 2020 (postponed by COVID); now first West African/Francophone host, Conakry 12-14 Nov 2025. ICT one of 5 Simandou 2040 pillars. Adoption (Jan 2025): 3.96m internet users (26.5%), 14.2m mobile connections (~95%), 3.05m social media; median fixed download 9.5 Mbps. e-GOV portal; e-Conseil + e-Learning launched Apr 2024. Agencies ANDE (state digitalization), ANSSI (cyber), ANSUTEN (universal service). Guinea Fintech Week, VivaTech 2025, '200 Femmes dans les TIC'. Guinea joined Smart Africa 2016; flagship "Intra-African Connectivity" (with TCTS/Tata); ARPT chairs Smart Africa Council of African Regulators (CAR). -->

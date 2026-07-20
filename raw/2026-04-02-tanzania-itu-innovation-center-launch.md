@@ -6,6 +6,7 @@ publisher: Biometric Update
 published: 2026-04-02
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [TZA]
 topics: [tech.innovate, gov.regional, infra.capacity]
 entities: [[itu], [ict-commission-tanzania], [tcra]]

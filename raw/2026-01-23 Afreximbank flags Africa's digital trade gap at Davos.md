@@ -3,6 +3,8 @@ type: source
 title: "Afreximbank flags Africa’s digital trade gap at Davos"
 publisher: Africa Briefing
 url: https://africabriefing.com/afreximbank-flags-africas-digital-trade-gap-at-davos/
+date_precision: day
+date_source: source
 author: Editorial Staff
 published: 2026-01-23
 accessed: 2026-07-12
@@ -11,6 +13,7 @@ places: [XAF]
 topics: [dpi.pay, dpi.exchange, gov.regional, infra.connect, dpi.id, tech.ai]
 entities: [[afreximbank], [papss], [afcfta], [itu]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Africa Collective Davos 2026 (WEF) panel "The Digital Economy on the African Continent": Afreximbank argues AfCFTA (1.4bn+ market) stalls without shared digital "rails" — PAPSS as cornerstone. Advocacy/event coverage, no new transaction → ATTACH-ONLY to afreximbank/papss/afcfta (central updates); no new event page. -->

@@ -13,6 +13,7 @@ places: [MLI]
 topics: [dpi.govtech, dpi.id, gov.regional]
 entities: [[alliance-of-sahel-states]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 On 18 February 2025, Mali unveiled a new digital platform to facilitate access to administrative, identity and travel documents for its diaspora, deployed across the country's diplomatic and consular missions worldwide, with advanced security and data-protection measures.

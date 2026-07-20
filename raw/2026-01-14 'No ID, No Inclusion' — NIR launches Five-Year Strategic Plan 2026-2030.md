@@ -13,6 +13,7 @@ places: [LBR]
 topics: [dpi.id, gov.policy, include.access]
 entities: [[national-identification-registry-liberia]]
 lens: []
+body_completeness: full
 ---
 
 <!-- NIR ED Andrew Peters launched a Five-Year Strategic Plan 2026-2030 (13 Jan 2026) for a secure, trusted, inclusive national ID. Aligned with the ARREST Agenda; digital transformation, financial inclusion, public-sector accountability. Acknowledges gains since the 2011 NIR Act (biometric enrollment, NINs, partnerships) but flags: low coverage, weak infrastructure, capacity gaps, evolving data-protection demands, fragile public trust. Six pillars: universal coverage; governance/institutional capacity; digital ID modernization; infrastructure; legal + data-protection frameworks; financial sustainability via partnerships. Digital IDs, mobile credentials, interoperable platforms for rural/underserved communities. -->

@@ -12,6 +12,7 @@ places: [XGL, XSS, ZAF]
 topics: [include.divides, gov.policy, gov.regional, data.statistics]
 entities: [[gillwald-digital-inequality-paradox-2025], [alison-gillwald], [research-ict-africa]]
 lens: [sovereignty, colonialism]
+body_completeness: full
 ---
 
 # From "digital divide" to "digital equality": Unpacking the digital inequality paradox

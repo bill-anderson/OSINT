@@ -10,6 +10,8 @@ ingested: 2026-07-17
 places: [SWZ]
 topics: [dpi.mis, digital.rural, dpi.exchange, include.access, data.statistics]
 entities: [[ministry-of-health-eswatini], [eswatini-cbhis], [eswatini-cmis], [world-bank]]
+lens: []
+body_completeness: full
 ---
 
 FEATURE STORY, February 23, 2026. Rural Health Motivators (RHMs) in Eswatini previously faced significant logistical and financial burdens due to paper-based reporting. The Ministry of Health, supported by the World Bank, introduced the electronic Community-Based Health Information System (CBHIS) to digitize these processes. The system operates offline on handheld devices and integrates with national health records.

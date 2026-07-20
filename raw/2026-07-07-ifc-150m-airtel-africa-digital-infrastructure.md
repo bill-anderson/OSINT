@@ -6,6 +6,7 @@ publisher: TechAfrica News
 published: 2026-07-07
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [NGA, XGL]
 topics: [finance.new, infra.connect]
 entities: [[ifc], [airtel-nigeria]]

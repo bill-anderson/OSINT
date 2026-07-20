@@ -14,6 +14,7 @@ places: [AGO]
 topics: [dpi.registry, dpi.id, digital.localgov, include.access, dpi.exchange]
 entities: [[base-de-dados-de-cidadaos-maiores-angola], [balcao-unico-de-atendimento-ao-publico-angola], [dionisio-da-fonseca], [comissao-nacional-eleitoral-angola], [registo-eleitoral-oficioso-angola], [marcy-lopes]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Eleições 2027: Arranca hoje a "prova de vida" para actualização do registo eleitoral

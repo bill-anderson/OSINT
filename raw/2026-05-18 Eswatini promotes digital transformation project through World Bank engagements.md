@@ -4,11 +4,14 @@ title: Eswatini promotes digital transformation project through World Bank engag
 url: https://techreviewafrica.com/news/5487/eswatini-promotes-digital-transformation-project-through-world-bank-engagements
 publisher: Tech Review Africa
 published: 2026-05-18
+date_precision: day
+date_source: source
 ingested: 2026-07-10
 places: [SWZ]
 topics: [dpi.govtech, infra.connect, infra.cybersec, capacity.training, finance.new, include.divides]
 entities: [[world-bank], [eswatini-digital-transformation-project]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 **Latest News:**

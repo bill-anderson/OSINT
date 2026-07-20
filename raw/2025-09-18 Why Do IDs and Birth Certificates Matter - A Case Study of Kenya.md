@@ -13,6 +13,7 @@ places: [KEN]
 topics: [dpi.id, include.divides, include.access]
 entities: [[maisha-namba]]
 lens: [colonialism]
+body_completeness: full
 ---
 
 <!-- HRRC case study on legal identity exclusion in Kenya. March 2025 Kenya removed the 100 KSh first-time ID fee. ID once called "kipande" (colonial). Maisha Namba: universal identifiers at birth; low citizen participation; ~10.6bn KSh spent by 2022; privacy concerns (privately-contracted IT firms). Only 34% of registered children have a birth certificate (KDHS 2022); 76% of under-5s registered; 15% of under-1s have certificates. ~5m without national ID; 9,800 stateless (UNHCR). Marginalized: ASALs (Mandera/Turkana/Wajir), Nubians, ethnic Somalis, Shona. 91% of adults have ID (WB); 2m+ excluded from finance for lack of ID (FSD). Recommends lowering ID age, mobile clinics, PETs, accountability. Strong analytical/rights piece. -->

@@ -10,6 +10,8 @@ ingested: 2026-07-17
 places: [NGA, KEN, UGA, TZA, COD, ZMB, RWA]
 topics: [infra.store, infra.connect, infra.energy, tech.ai, geopol.india, finance.new]
 entities: [[nxtra-africa], [airtel-africa]]
+lens: []
+body_completeness: full
 ---
 
 *MARKED (sponsored) — marketing-adjacent content, not independent reporting. Admissible (a named CEO on the record) but it is the company's account of its own plans: every figure is a corporate PROJECTION, not an achievement. Do not state Nxtra 'will' build anything as fact. Pan-African, NOT a Uganda item: Uganda appears twice in passing lists with no site, capacity figure or date — the honest ceiling for the UGA hub is 'Kampala named as a future Nxtra Edge site (as of 2024-12-13)'. DATE TRAP: the DCD header renders a bogus '14 Jul 2026'; true byline 2024-12-13.*

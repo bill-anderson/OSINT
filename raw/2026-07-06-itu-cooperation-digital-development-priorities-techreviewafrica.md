@@ -6,12 +6,14 @@ publisher: Tech Review Africa
 published: 2026-07-06
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [gov.regional, data.statistics, capacity.training, infra.energy]
 entities: [[itu], [ministry-of-digital-transition-cote-divoire], [djibril-ouattara], [cosmas-zavazava], [wsis]]
 lens: []
+body_completeness: full
 provenance_flag: pr-wire
 primary_to_source: ITU Telecommunication Development Bureau (BDT) readout of the bilateral; Ministry of Digital Transition communiqué on the Geneva meeting
 ---

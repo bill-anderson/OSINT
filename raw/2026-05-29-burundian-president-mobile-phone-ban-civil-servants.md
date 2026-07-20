@@ -3,6 +3,7 @@ type: source
 title: Burundian President seeks mobile phone ban for civil servants
 url: https://www.connectingafrica.com/regulation/burundian-president-seeks-mobile-phone-ban-for-civil-servants
 publisher: Connecting Africa
+ingested: 2026-07-18
 author: Desire Nimubona
 published: 2026-05-29
 date_precision: day
@@ -13,6 +14,7 @@ places: [BDI]
 topics: [include.access, gov.policy, infra.connect]
 entities: [[evariste-ndayishimiye], [onatel-burundi], [dukingire-isi-yacu]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Burundian President seeks mobile phone ban for civil servants

@@ -3,6 +3,8 @@ type: source
 title: "Africa urged to turn WSIS+20 commitments into measurable digital progress"
 publisher: Digital Watch (DiploFoundation)
 url: https://dig.watch/updates/wsis-2026-digital-transformation-africa
+date_precision: day
+date_source: source
 author: Nenad Milicevic
 published: 2026-07-10
 accessed: 2026-07-12
@@ -11,6 +13,7 @@ places: [XAF, NGA]
 topics: [gov.policy, gov.regional, include.divides, capacity.training, tech.ai, infra.capacity, infra.connect, capacity.literacy]
 entities: [[uneca], [nitda], [itu], [aficta]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- WSIS Forum 2026 session (AFICTA + NITDA): Africa has strategies, needs measurable implementation. UNECA "Africa 2035 Digital Implementation Roadmap" (9 pillars, 15 indicators); Nigeria ICT = 13–14% GDP, 3MTT (train 3m by 2027); Africa ~0.6% of global DC capacity / ~0.2% of AI compute (per MEMORY: do NOT push these global-study figures into concept/place pages). New entity: aficta. -->

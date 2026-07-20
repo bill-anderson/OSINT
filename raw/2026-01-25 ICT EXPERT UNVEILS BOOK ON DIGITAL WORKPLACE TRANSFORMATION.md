@@ -3,6 +3,8 @@ type: source
 title: "ICT expert unveils book on digital workplace transformation"
 publisher: Eswatini Positive News
 url: https://eswatinipositivenews.online/ict-expert-unveils-book-on-digital-workplace-transformation/
+date_precision: day
+date_source: source
 author: Thubelihle Mweli
 published: 2026-01-25
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [SWZ]
 topics: [tech.industry, capacity.literacy, dpi.govtech]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 <!-- Launch of the book 'The Digital Workplace Advantage' by Muzi Mhlongo (Eswatini) — six thematic parts, case studies from government/development/private sector; covers UX, cybersecurity, data analytics, change management. Self-published practitioner book; low intelligence value, captured for the record. -->

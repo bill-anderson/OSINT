@@ -3,6 +3,7 @@ type: source
 title: South Sudan Digitizes Regulation to Strengthen Revenue Collection (NCA e-Services Platform launch)
 url: https://www.onecitizendaily.com/index.php/2026/02/13/south-sudan-digitizes-regulation-to-strengthen-revenue-collection/
 publisher: One Citizen Daily
+ingested: 2026-07-19
 author: One Citizen Daily Newspaper
 published: 2026-02-13
 date_precision: day

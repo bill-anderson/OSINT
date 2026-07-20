@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: instrument
 title: Uganda e-Government Interoperability Framework (e-GIF)
 places: [UGA]

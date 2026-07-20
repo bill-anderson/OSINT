@@ -3,6 +3,7 @@ type: source
 title: "Intelligence artificielle et langues nationales : le Congo lance les travaux de sa stratégie nationale avec l'appui du Pnud"
 url: https://www.adiac-congo.com/content/intelligence-artificielle-et-langues-nationales-le-congo-lance-les-travaux-de-sa-strategie
 publisher: Les Dépêches de Brazzaville (ADIAC)
+ingested: 2026-07-18
 author: Rude Ngoma
 published: 2026-05-06
 date_precision: day
@@ -13,6 +14,7 @@ places: [COG]
 topics: [tech.ai, gov.policy, capacity.literacy, include.divides, capacity.research]
 entities: [[undp], [caria-congo]]
 lens: [sovereignty]
+body_completeness: full
 provenance_flag: state-aligned-outlet
 ---
 

@@ -13,6 +13,7 @@ places: [CMR]
 topics: [dpi.id, gov.protect, gov.legislate]
 entities: [[bunec], [cameroon-civil-registration-law-2024]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Biometric Update (Nov 2024): Cameroon brought two bills to parliament — a new civil-registration dispensation (introducing a Unique Personal Identification Number/UPIN, electronic civil-status declaration, a national database and digital birth/marriage/death certificates) and a personal-data-protection bill. Being examined by the National Assembly + Senate, to be enacted by the President. Foundational legislation for the DPI/CRVS overhaul (the civil-registration bill became Law 2024/016). -->

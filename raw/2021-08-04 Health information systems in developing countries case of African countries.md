@@ -3,6 +3,8 @@ type: source
 title: "Health information systems in developing countries: case of African countries"
 publisher: BMC Medical Informatics and Decision Making 21:232
 url: https://pmc.ncbi.nlm.nih.gov/articles/PMC8336100/
+date_precision: day
+date_source: source
 author: Koumamba AP, Bisvigou UJ, Ngoungou EB, Diallo G
 published: 2021-08-04
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [ZAF, BEN, BWA, GHA, MWI, MOZ, RWA, SLE, TZA, ZMB, ZWE, GAB, XSS]
 topics: [dpi.mis, data.statistics, gov.standards, capacity.research, data.open]
 entities: [[his-developing-countries-review], [dhis2], [world-bank], [usaid]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Scholarly literature review (Feb-Jul 2019; 14 of 2492 articles; HIS in 12 African countries). All 12 adopted a data-warehouse approach supported by DHIS2; 11 of 12 lacked a national strategy and aligned to donor strategies (Malawi the exception). DHIS2 = open-source, HISP/Univ. of Oslo, web version 2006. Home page for [[his-developing-countries-review]]. -->

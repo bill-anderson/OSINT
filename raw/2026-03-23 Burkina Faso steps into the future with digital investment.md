@@ -3,6 +3,8 @@ type: source
 title: "Burkina Faso steps into the future with digital investment"
 publisher: ITWeb Africa
 url: https://itweb.africa/article/burkina-faso-steps-into-the-future-with-digital-investment/
+date_precision: day
+date_source: source
 author: Lezeth Khoza
 published: 2026-03-23
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [BFA]
 topics: [gov.policy, infra.store, infra.connect, capacity.training, dpi.govtech]
 entities: [[world-bank], [bf-ministry-digital-transition]]
 lens: [sovereignty]
+body_completeness: excerpt
 ---
 
 <!-- PACTDIGITAL-BF (12 flagship digital projects by 2030; in force Sept 2024, 5-yr, ~$170m World Bank IDA + national): Jan 2026 commissioned two mini data centres in Ouagadougou; 'zero data abroad' localization; national data centre planned. Five components incl. connectivity, public-service transformation, skills. -->

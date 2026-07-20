@@ -12,6 +12,7 @@ places: [ZAF]
 topics: [gov.protect, gov.legislate, gov.policy, tech.ai, dpi.govtech, infra.connect, include.divides, capacity.training]
 entities: [[csea], [popia], [dpga], [visa], [microsoft], [malabo-convention]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # South Africa Data Governance Snapshot 2026

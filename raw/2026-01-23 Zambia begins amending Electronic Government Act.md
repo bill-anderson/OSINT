@@ -3,6 +3,8 @@ type: source
 title: "Zambia begins amending Electronic Government Act"
 publisher: ITWeb Africa
 url: https://itweb.africa/article/zambia-begins-amending-electronic-government-act/
+date_precision: day
+date_source: source
 author: Arnold Mulenga
 published: 2026-01-23
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [ZMB]
 topics: [gov.legislate, dpi.govtech, dpi.exchange, gov.standards]
 entities: [[smart-zambia-institute]]
 lens: []
+body_completeness: excerpt
 ---
 
 <!-- Zambia proposing an Electronic Government (Amendment) Bill (revising Act No. 41 of 2021) to enable fully integrated digital public services — legal standing for electronic submissions + digital authentication; targets laws requiring physical documents/signatures. Officials cite fragmented, vendor-locked systems. -->

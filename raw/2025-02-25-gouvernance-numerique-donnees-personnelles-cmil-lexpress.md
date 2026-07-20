@@ -6,10 +6,12 @@ publisher: L'Express de Madagascar
 published: 2025-02-25
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [MDG]
 topics: [gov.protect, gov.legislate]
 entities: [[oif-la-francophonie]]
 lens: [sovereignty]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: MDG-2026-07-17
 ---

@@ -3,6 +3,9 @@ type: source
 title: Senegal, Togo and Benin launch free roaming initiative
 url: https://techreviewafrica.com/news/5159/senegal-togo-and-benin-launch-free-roaming-initiative
 publisher: Tech Review Africa
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Nana Appiah Acquaye
 published: 2026-04-27
 date_precision: day

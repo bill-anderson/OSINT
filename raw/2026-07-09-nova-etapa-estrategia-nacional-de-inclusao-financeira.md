@@ -3,6 +3,8 @@ type: source
 title: Governo anuncia nova etapa na Estratégia Nacional de Inclusão Financeira
 url: https://angop.ao/noticias/economia/governo-anuncia-nova-etapa-na-estrategia-nacional-de-inclusao-financeira/
 publisher: Angop
+lens: []
+body_completeness: full
 author: ACC/DC
 published: 2026-07-09
 date_precision: day

@@ -3,6 +3,8 @@ type: source
 title: "DRC envisages a functional digital government platform by March"
 publisher: Biometric Update
 url: https://www.biometricupdate.com/202601/drc-envisages-a-functional-digital-government-platform-by-march
+date_precision: day
+date_source: source
 author: Ayang Macdonald
 published: 2026-01-30
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [COD]
 topics: [dpi.govtech, dpi.id, dpi.pay, infra.store, infra.connect, gov.policy, infra.cybersec, capacity.training]
 entities: [[trident-digital-tech], [rdc-pass], [world-bank], [idea-mpa]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- DRC targets a digital-government platform for Q1 2026 + interbank payment platform, tax portal, customs system (tax/customs to raise revenue 1.2-1.3% of GDP). Blueprint 2026-2030 (four pillars); RDC-PASS digital ID launched Jun 2025 (Trident, $97.1m). Plan needs ~$10.4bn (govt ~$1.5bn); World Bank IDEA program + AFD. -->

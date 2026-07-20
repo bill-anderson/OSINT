@@ -3,6 +3,8 @@ type: source
 title: "US fintech sues DR Congo for $400m over failed banking deal"
 publisher: ITWeb Africa
 url: https://itweb.africa/article/us-fintech-sues-dr-congo-for-400m-over-failed-banking-deal/
+date_precision: day
+date_source: source
 author: Phathisani Moyo
 published: 2026-01-19
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [COD]
 topics: [dpi.pay, dpi.govtech, finance.new, geopol.usa]
 entities: [[payservices], [payservices-drc-banking-deal]]
 lens: [sovereignty]
+body_completeness: excerpt
 ---
 
 <!-- PayServices (Idaho) sued DRC + officials in US federal court (~Jan 2026), alleging sabotage of a $72m project to modernise state banking/payments; seeks up to $400m (some filings cite $4bn); says it invested >$72m awaiting a $20m state contribution never paid, and that the project collapsed after it refused bribe demands. DRC calls the docs a 'non-binding MoU'. -->

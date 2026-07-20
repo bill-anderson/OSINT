@@ -3,6 +3,7 @@ type: source
 title: Burkina Faso leads the way in culturally inspired AI
 url: https://itweb.africa/article/burkina-faso-leads-the-way-in-culturally-inspired-ai/kLgB1MezwnJq59N4
 publisher: ITWeb Africa
+ingested: 2026-07-18
 author: Staff Writer
 published: 2026-03-25
 date_precision: day
@@ -13,6 +14,7 @@ places: [BFA]
 topics: [tech.ai, include.divides, capacity.research, gov.policy]
 entities: [[ministry-of-digital-transition-burkina-faso], [spivten], [pactdigital], [aminata-zerbo-sabane]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Burkina Faso leads the way in culturally inspired AI

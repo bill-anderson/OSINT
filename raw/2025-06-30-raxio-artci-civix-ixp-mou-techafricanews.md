@@ -6,12 +6,14 @@ publisher: TechAfrica News
 published: 2025-06-30
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [infra.connect, infra.store, finance.mou, gov.policy]
 entities: [[raxio-cote-divoire], [artci], [civix]]
 lens: [sovereignty]
+body_completeness: full
 provenance_flag: pr-wire
 primary_to_source: Raxio Côte d'Ivoire / ARTCI joint MoU announcement on CIVIX colocation at the Grand Bassam VITIB data centre (June 2025)
 ---

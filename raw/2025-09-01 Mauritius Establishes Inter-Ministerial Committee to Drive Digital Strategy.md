@@ -13,6 +13,7 @@ places: [MUS]
 topics: [dpi.govtech, gov.policy]
 entities: [[mauritius-digital-blueprint-2025-2029]]
 lens: []
+body_completeness: full
 ---
 
 The Mauritian government has established an inter-ministerial committee to coordinate implementation of its national digital strategy, unveiled in May 2025. The inaugural meeting took place on 26 August 2025 in Ebene, chaired by the Ministry of Information Technology, Communication and Innovation (MITCI). The committee serves as a single point of contact ensuring coherence across ministries.

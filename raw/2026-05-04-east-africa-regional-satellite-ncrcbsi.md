@@ -6,6 +6,7 @@ publisher: Connecting Africa
 published: 2026-05-04
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [UGA, XEA]
 topics: [data.satellite, gov.regional, infra.connect]
 entities: []

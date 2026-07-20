@@ -6,6 +6,7 @@ publisher: Tech Africa News
 published: 2025-08-19
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [TZA]
 topics: [infra.connect, finance.mou, dpi.pay]
 entities: [[airtel-tanzania], [zictia]]

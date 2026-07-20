@@ -3,6 +3,9 @@ type: source
 title: "Services de communications électroniques: 750 zones bientôt couvertes"
 url: https://www.sidwaya.info/services-de-communications-electroniques-750-zones-bientot-couvertes/
 publisher: Sidwaya
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Voro Korahiré
 published: 2025-09-30
 date_precision: day

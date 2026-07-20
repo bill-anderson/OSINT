@@ -11,6 +11,7 @@ places: [EGY]
 topics: [dpi.pay, dpi.exchange, gov.policy]
 entities: [[fra-egypt]]
 lens: []
+body_completeness: full
 ---
 
 # Egypt's FRA launches digital factoring portal

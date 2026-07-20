@@ -13,6 +13,7 @@ places: [GMB]
 topics: [dpi.govtech]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 <!-- IGP Seedy Mukhtar Touray: Gambia Police Force needs to transition from paper-based documentation to a digitalised mode (faster, cheaper). Quarterly media briefing, Police HQ Banjul. Digitalisation of police workflow + records management for effectiveness/efficiency. Also flagged need for a training academy and mobility challenges. -->

@@ -3,6 +3,7 @@ type: source
 title: Cameroon, Gabon, Uganda tackle biometric voter registers' integrity, engagement
 url: https://www.biometricupdate.com/202501/cameroon-gabon-uganda-tackle-biometric-voter-registers-integrity-engagement
 publisher: Biometric Update
+ingested: 2026-07-18
 author: Ayang Macdonald
 published: 2025-01-31
 date_precision: day
@@ -11,6 +12,7 @@ places: [CMR, GAB, UGA]
 topics: [dpi.id, dpi.registry, gov.legislate, include.access, include.divides, data.statistics, capacity.training]
 entities: [[elecam]]
 lens: [sovereignty]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: CMR-2026-07-17
 ---

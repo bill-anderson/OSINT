@@ -3,6 +3,7 @@ type: source
 title: CAMTEL and CBC Secure 44.884 Billion FCFA Financing for Cameroon Mobile Network Expansion
 url: https://techafricanews.com/2026/01/22/camtel-and-cbc-secure-44-884-billion-fcfa-financing-for-cameroon-mobile-network-expansion/
 publisher: TechAfrica News
+ingested: 2026-07-18
 author: Akim Benamara
 published: 2026-01-22
 date_precision: day
@@ -11,6 +12,7 @@ places: [CMR]
 topics: [infra.connect, finance.new, tech.industry, include.divides, include.access]
 entities: [[camtel], [commercial-bank-cameroun]]
 lens: [sovereignty]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: CMR-2026-07-17
 ---

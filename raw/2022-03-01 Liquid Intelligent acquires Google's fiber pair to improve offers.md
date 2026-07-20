@@ -3,6 +3,7 @@ type: source
 title: "Liquid Intelligent acquires Google's fiber pair to improve offers"
 publisher: Ecofin Agency
 url: https://www.ecofinagency.com/telecom/3003-43499-
+date_source: source
 author: Isaac K. Kassouwi
 published: 2022-03
 date_precision: month
@@ -12,6 +13,7 @@ places: [TGO, ZWE, XWA, XSA, ZAF]
 topics: [infra.connect, geopol.usa]
 entities: [[liquid-c2], [google], [equiano-cable], [econet-wireless]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Backfill (~2022-03): Liquid Intelligent Technologies (Econet) acquired a fibre pair on Google's Equiano cable (up to 12 Tbps); >100,000km African fibre; plans to interconnect Equiano landings east-west. Announced days after Equiano's first African landing (Togo). Backfill to [[liquid-c2]]/[[equiano-cable]]. (Undated in source; ~2022.) -->

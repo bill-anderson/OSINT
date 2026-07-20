@@ -13,6 +13,7 @@ places: [AGO]
 topics: [tech.innovate, gov.policy, data.statistics]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 <!-- COMPANION SOURCE PAGE for binary raw/2025-01-01 WIPO Global Innovation Index 2025 - Angola profile.pdf. WIPO GII 2025 Angola one-pager (date proxied to year). Angola ranks 138th of 139 economies (near-bottom globally); 37th of 37 lower-middle-income; 31st of 32 in Sub-Saharan Africa; worse on outputs (137th) than inputs (133rd); no top innovation clusters. GII trajectory: 2021 132nd · 2022 127th · 2023 132nd · 2024 133rd · 2025 138th (declining). Standing benchmark for Angola's innovation-ecosystem weakness. -->

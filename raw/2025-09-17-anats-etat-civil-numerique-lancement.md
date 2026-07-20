@@ -6,6 +6,7 @@ publisher: Le N'Djam Post
 published: 2025-09-17
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [TCD]
 topics: [dpi.id, dpi.registry, dpi.govtech]
 entities: [[anats]]

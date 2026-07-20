@@ -10,6 +10,8 @@ ingested: 2026-07-17
 places: [TGO]
 topics: [finance.new, infra.connect, capacity.training, tech.innovate, include.divides, include.access, infra.capacity]
 entities: [[world-bank], [togo-digital-acceleration-financing], [cina-lawson]]
+lens: []
+body_completeness: full
 ---
 
 *Dateline WASHINGTON, December 18, 2024; the URL path reads /2024/12/19/. The dateline is taken as published. This IDA broadband/skills operation is distinct from WURI — the $100m and WURI's $72m must not be summed.*

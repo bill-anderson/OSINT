@@ -13,6 +13,7 @@ places: [COD]
 topics: [dpi.id, gov.protect]
 entities: [[onip-drc], [idemia]]
 lens: [sovereignty, colonialism]
+body_completeness: full
 ---
 
 <!-- ID Tech Wire (Sep 2024): the DRC cancelled a $1.2bn national biometric-ID contract with IDEMIA (in partnership with intermediary Afritech), called off 12 Aug 2024 per ONIP DG Richard Ilunga, after a Bloomberg/Lighthouse Reports investigation alleged financial mismanagement and cost irregularities (overbilling). The backstory to the pivot toward Trident/DRCPass and the Margins Group card track. -->

@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: government-body
 title: OTR (Office Togolais des Recettes / Togolese Revenue Office)
 places: [TGO]

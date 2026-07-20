@@ -6,12 +6,14 @@ publisher: Biometric Update
 published: 2026-01-20
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [dpi.id, dpi.govtech, dpi.registry, gov.protect]
 entities: [[oneci], [la-poste-de-cote-divoire], [rnpp]]
 lens: []
+body_completeness: full
 ---
 
 By Ayang Macdonald. January 20, 2026.

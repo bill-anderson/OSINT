@@ -3,6 +3,8 @@ type: source
 title: GGPEN e Africel fortalecem parceria para expandir serviços do Angosat
 url: https://angop.ao/noticias/economia/ggpen-e-africel-fortalecem-parceria-para-expandir-servicos-do-angosat/
 publisher: Angop
+lens: []
+body_completeness: full
 author: GIZ/CS
 published: 2026-06-12
 date_precision: day

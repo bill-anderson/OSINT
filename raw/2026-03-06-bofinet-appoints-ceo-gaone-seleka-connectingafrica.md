@@ -3,6 +3,9 @@ type: source
 title: Botswana's BoFiNet appoints new CEO
 url: https://www.connectingafrica.com/data-centers/botswana-s-bofinet-appoints-new-ceo
 publisher: Connecting Africa
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Matshepo Sehloho
 published: 2026-03-06
 date_precision: day

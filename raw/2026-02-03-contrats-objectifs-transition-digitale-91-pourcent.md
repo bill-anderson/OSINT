@@ -6,12 +6,14 @@ publisher: leFaso.net
 published: 2026-02-03
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: BFA-2026-07-17
 places: [BFA]
 topics: [infra.connect, infra.store, dpi.govtech, dpi.id, gov.policy, include.divides, digital.rural]
 entities: [[ministere-de-la-transition-digitale-des-postes-et-des-communications-electroniques-burkina-faso], [aminata-zerbo-sabane], [la-poste-burkina-faso]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Évaluation des contrats d'objectifs : Le ministère de la Transition digitale franchit le cap des 91 %

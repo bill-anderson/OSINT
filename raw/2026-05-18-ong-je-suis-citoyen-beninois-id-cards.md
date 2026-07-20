@@ -3,6 +3,9 @@ type: source
 title: "Octroi des pièces d'identité : l'ONG \"Je suis citoyen béninois\" sort certains Béninois de l'anonymat"
 url: https://fraternite.bj/octroi-des-pieces-didentite-long-je-suis-citoyen-beninois-sort-certains-beninois-de-lanonymat/
 publisher: Fraternité
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Isac YAI
 published: 2026-05-18
 date_precision: day

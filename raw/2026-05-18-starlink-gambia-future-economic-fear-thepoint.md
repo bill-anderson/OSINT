@@ -6,12 +6,14 @@ publisher: The Point
 published: 2026-05-18
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: GMB-2026-07-17
 places: [GMB]
 topics: [infra.connect, geopol.usa]
 entities: []
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Starlink's Gambia future: Beyond national security concerns lies economic fear

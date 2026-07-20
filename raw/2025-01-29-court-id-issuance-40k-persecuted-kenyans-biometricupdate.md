@@ -6,6 +6,7 @@ publisher: Biometric Update
 published: 2025-01-29
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [KEN]
 topics: [dpi.id, include.access]
 entities: [[maisha-namba]]

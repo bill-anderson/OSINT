@@ -13,6 +13,7 @@ places: [MRT]
 topics: [infra.connect, geopol.eu]
 entities: [[ellalink], [mtnima-mauritania], [alcatel-submarine-networks], [eib]]
 lens: [sovereignty]
+body_completeness: full
 provenance_flag: state-agency
 ---
 

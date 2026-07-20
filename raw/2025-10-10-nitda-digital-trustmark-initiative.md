@@ -6,6 +6,7 @@ publisher: TechAfrica News
 published: 2025-10-10
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [NGA]
 topics: [gov.standards, infra.cybersec, gov.protect]
 entities: [[nitda]]

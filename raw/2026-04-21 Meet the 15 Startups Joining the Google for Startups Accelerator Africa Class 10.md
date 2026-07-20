@@ -3,6 +3,8 @@ type: source
 title: "Meet the 15 Startups Joining the Google for Startups Accelerator Africa Class 10"
 publisher: Google
 url: https://blog.google/intl/en-africa/company-news/meet-the-15-startups/
+date_precision: day
+date_source: source
 author: Folarin Aiyegbusi
 published: 2026-04-21
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [AGO, NGA, KEN, UGA, ZAF, SEN, CIV, TZA]
 topics: [tech.innovate, tech.ai, finance.new, dpi.pay, include.access]
 entities: [[google], [google-for-startups-accelerator-africa]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Accelerator Africa Class 10: 15 startups (from ~2,600 applications), 13 Apr-19 Jun 2026. Program since 2018: 106 startups/17 countries, alumni raised >$263m, >2,800 jobs. Cohort captured as facts, not 15 entities. -->

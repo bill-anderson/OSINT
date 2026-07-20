@@ -10,6 +10,7 @@ type: source
 places: [AGO]
 topics: [tech.ai, gov.policy, gov.standards, gov.protect, infra.connect, infra.store, capacity.training, capacity.research]
 entities: [[unesco], [unesco-ram-angola], [vicente-lopes], [angelo-buta-joao], [ministerio-das-telecomunicacoes-tecnologias-de-informacao-e-comunicacao-social-angola], [angola-national-ai-strategy], [angola-data-protection-law-22-11], [livro-branco-tic-angola-2023-2027]]
+lens: []
 body_completeness: full
 ---
 

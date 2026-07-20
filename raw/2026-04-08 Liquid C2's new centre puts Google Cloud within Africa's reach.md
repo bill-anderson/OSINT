@@ -3,6 +3,8 @@ type: source
 title: "Liquid C2's new centre puts Google Cloud within Africa's reach"
 publisher: htxt.co.za (Hypertext)
 url: https://htxt.co.za/2026/04/liquid-c2s-new-centre-puts-google-cloud-within-africas-reach/
+date_precision: day
+date_source: source
 author: Brendyn Lotz
 published: 2026-04-08
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [ZAF, XSS]
 topics: [tech.ai, infra.capacity, capacity.training, tech.industry]
 entities: [[liquid-c2], [cassava-technologies], [google]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Liquid C2 (Cassava) opened Africa's first Partner Experience Centre powered by Google Cloud, Johannesburg (Gemini Enterprise, accreditation, local-currency billing). SAME event as the IT-Online / Cassava-Tech coverage — one event, multiple sources. -->

@@ -6,12 +6,14 @@ publisher: Mediaguinee
 published: 2025-07-22
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: GIN-2026-07-17
 places: [GIN]
 topics: [include.divides, include.access, infra.connect]
 entities: [[ansuten], [arpt-guinea], [ministry-digital-economy-guinea]]
 lens: []
+body_completeness: full
 ---
 
 # Guinée : vers une couverture à 90 % des zones rurales d'ici 2030, une initiative de l'ANSUTEN

@@ -3,6 +3,7 @@ type: source
 title: Telecel Centrafrique launches 4G+ services in Bangui to expand national connectivity
 url: https://www.techreviewafrica.com/news/5420/telecel-centrafrique-launches-4g-services-in-bangui-to-expand-national-connectivity
 publisher: Tech Review Africa
+ingested: 2026-07-18
 author: Robert Kwaku Annor
 published: 2026-05-14
 date_precision: day
@@ -11,6 +12,7 @@ places: [CAF]
 topics: [infra.connect, include.access, tech.industry]
 entities: [[arcep-central-african-republic]]
 lens: []
+body_completeness: full
 provenance_flag: pr-wire
 retrieved: 2026-07-17
 sweep_batch: CAF-2026-07-17

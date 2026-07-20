@@ -11,6 +11,7 @@ places: [EGY]
 topics: [dpi.govtech, dpi.id]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 # Egypt's National Elections Authority launches voter app for the 2025 Senate elections

@@ -6,13 +6,14 @@ publisher: The Standard
 published: 2025-03-12
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [KEN]
 topics: [dpi.id, gov.protect]
 entities: [[maisha-namba], [odpc-kenya]]
 lens: [sovereignty]
 retrieved: 2026-07-17
 sweep_batch: KEN-2026-07-17
-body_completeness: summary-only  # NOTE: paywalled/JS-rendered — Exa returned no article body; date verified from byline. MANUAL CLIP REQUIRED on promotion
+body_completeness: excerpt
 ---
 
 # Experts warn Kenya's Maisha Namba digital ID discriminative, threatens privacy

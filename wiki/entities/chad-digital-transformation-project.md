@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: deal
 title: Chad Digital Transformation Project (P180000 / PAD00070)
 places: [TCD]

@@ -3,6 +3,7 @@ type: source
 title: MTN Secures 15-Year License to Deepen Digital Footprint in South Sudan
 url: https://techafricanews.com/2025/04/14/mtn-secures-15-year-license-to-deepen-digital-footprint-in-south-sudan/
 publisher: TechAfrica News
+ingested: 2026-07-19
 author: Editorial Team
 published: 2025-04-14
 date_precision: day

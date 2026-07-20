@@ -6,10 +6,12 @@ publisher: La Nation (Djibouti)
 published: 2026-04-29
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [DJI, TZA, KEN, MUS, XEA]
 topics: [dpi.govtech, dpi.exchange, gov.standards, gov.regional, tech.industry]
 entities: [[djibouti-port-community-systems], [world-bank], [international-maritime-organization], [kentrade]]
 lens: [sovereignty]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: DJI-2026-07-17
 ---

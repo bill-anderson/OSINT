@@ -12,6 +12,7 @@ places: [SYC]
 topics: [gov.protect, gov.legislate, gov.standards]
 entities: [[data-protection-act-2023-seychelles], [information-commission-seychelles], [dict-seychelles]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 Introduction

@@ -6,12 +6,14 @@ publisher: Tech Review Africa
 published: 2026-07-04
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [capacity.literacy, infra.connect, capacity.training, dpi.govtech]
 entities: [[ministry-of-national-education-cote-divoire], [nguessan-koffi], [quantis-cote-divoire], [serenea-group], [ministry-of-digital-transition-cote-divoire]]
 lens: []
+body_completeness: full
 provenance_flag: pr-wire
 primary_to_source: Ministry of National Education, Literacy and Technical Education communiqué; the technical and financial agreement for the education digitalization project (pending signature)
 ---

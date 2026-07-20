@@ -3,6 +3,7 @@ type: source
 title: MTN South Sudan Pioneers eSIM Technology, Redefining Connectivity
 url: https://www.telecomreviewafrica.com/articles/telecom-operators/4695-mtn-south-sudan-pioneers-esim-technology-redefining-connectivity/
 publisher: Telecom Review Africa
+ingested: 2026-07-19
 author: Telecom Review Africa
 published: 2025-01-22
 date_precision: day

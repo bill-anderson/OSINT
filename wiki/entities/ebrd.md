@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: organisation
 title: EBRD (European Bank for Reconstruction and Development)
 places: [XGL, TUN, XNA, NGA, KEN, SEN]

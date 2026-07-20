@@ -6,12 +6,14 @@ publisher: ACTUALITE.CD
 published: 2025-06-26
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: COD-2026-07-17
 places: [COD]
 topics: [tech.innovate, gov.policy, gov.regional, finance.new]
 entities: [[augustin-kibassa-maliba], [arptc], [adn-drc], [seraphin-umba-kapepe], [africa-tech-invest]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 Les responsables des institutions congolaises du numérique, panélistes à l'Africa Tech invest 2025

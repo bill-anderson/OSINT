@@ -6,12 +6,14 @@ publisher: ACTUALITE.CD
 published: 2025-06-22
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: COD-2026-07-17
 places: [COD]
 topics: [include.divides, infra.connect, gov.policy, digital.rural]
 entities: [[felix-tshisekedi], [arptc], [starlink], [monacosat], [drc-national-digital-plan-pnn2]]
 lens: []
+body_completeness: full
 ---
 
 Dimanche 22 juin 2025 - 13:06

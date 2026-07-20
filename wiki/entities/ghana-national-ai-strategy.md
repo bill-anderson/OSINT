@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: instrument
 title: Ghana National AI Strategy (2023–2033)
 places: [GHA]

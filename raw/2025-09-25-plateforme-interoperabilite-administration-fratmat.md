@@ -6,12 +6,14 @@ publisher: Fraternité Matin
 published: 2025-09-25
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [dpi.exchange, dpi.govtech]
 entities: [[ministere-de-la-transition-numerique-et-de-la-digitalisation-cote-divoire], [sndi], [digital-nation], [x-road], [cnps], [cnam], [cepici], [direction-generale-des-impots-cote-divoire], [strategie-nationale-de-developpement-du-numerique-cote-divoire]]
 lens: []
+body_completeness: full
 ---
 
 # Amélioration de la qualité des services publics: Kalil Konaté met en place la plateforme d'interopérabilité de l'administration

@@ -12,6 +12,7 @@ places: [SOM]
 topics: [infra.store, infra.energy, tech.industry]
 entities: [[hormuud-telecom]]
 lens: []
+body_completeness: full
 ---
 
 # Hormuud Telecom plans to build more 'green' data centres

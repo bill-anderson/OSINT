@@ -3,6 +3,8 @@ type: source
 title: "MTN makes big bet on AI data centres in South Africa"
 publisher: MyBroadband
 url: https://mybroadband.co.za/news/cloud-hosting/636908-mtn-makes-big-bet-on-ai-data-centres-in-south-africa.html
+date_precision: day
+date_source: source
 author: Declan Thompson
 published: 2026-03-28
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [ZAF, NGA]
 topics: [infra.store, tech.ai, infra.energy]
 entities: [[mtn-group], [ralph-mupita]]
 lens: []
+body_completeness: full
 ---
 
 <!-- MTN entering the AI data-centre race (FY2025 results); SA and Nigeria priority markets; co-investment partners shortlisted. Sifiso Dabengwa Data Centre (Lagos) phase 1 launched Jul 2025 — largest in West Africa (4.5MW, phase 2 to 14-20MW). Water/electricity strain flagged. -->

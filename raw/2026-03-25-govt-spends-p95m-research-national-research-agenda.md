@@ -3,6 +3,9 @@ type: source
 title: Gov't spends P9.5m on research projects
 url: https://www.mmegi.bw/business/govt-spends-p95m-on-research-projects/news
 publisher: Mmegi
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Pauline Dikuelo
 published: 2026-03-25
 date_precision: day

@@ -6,10 +6,12 @@ publisher: Connecting Africa
 published: 2026-02-05
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [ETH, DJI, SDN]
 topics: [infra.connect, gov.regional, finance.mou, dpi.exchange]
 entities: [[ethio-telecom]]
 lens: []
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: ETH-2026-07-17
 ---

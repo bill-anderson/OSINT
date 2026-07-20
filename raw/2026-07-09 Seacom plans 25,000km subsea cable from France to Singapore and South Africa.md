@@ -3,6 +3,8 @@ type: source
 title: "Seacom plans 25,000km subsea cable from France to Singapore and South Africa"
 publisher: DataCenterDynamics
 url: https://www.datacenterdynamics.com/en/news/seacom-plans-25000km-subsea-cable-from-france-to-singapore-and-south-africa/
+date_precision: day
+date_source: source
 author: Dan Swinhoe
 published: 2026-07-09
 accessed: 2026-07-10
@@ -11,6 +13,7 @@ places: [XAF, ZAF, KEN, TZA, UGA, RWA]
 topics: [infra.connect, tech.ai, finance.new, gov.regional]
 entities: [[seacom]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- On-the-record trade reporting of a company announcement. Admissible. ZAF is the named

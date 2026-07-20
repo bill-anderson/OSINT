@@ -14,6 +14,7 @@ places: [AGO]
 topics: [dpi.pay, gov.regional, gov.standards, tech.ai, dpi.exchange]
 entities: [[bna-angola], [manuel-tiago-dias], [sadc], [sadc-rtgs], [kwik-angola], [emis-angola]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Kwanza vai integrar sistema de pagamento da SADC a partir do II semestre

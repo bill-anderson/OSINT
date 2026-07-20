@@ -10,6 +10,7 @@ ingested: 2026-07-20
 places: [ZMB]
 topics: [dpi.govtech, infra.connect, digital.localgov, digital.rural]
 entities: [[smart-zambia-institute], [zamtel]]
+lens: []
 body_completeness: full
 ---
 

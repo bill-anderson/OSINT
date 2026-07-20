@@ -12,6 +12,7 @@ places: [KEN]
 topics: [dpi.pay, data.statistics]
 entities: [[central-bank-of-kenya]]
 lens: []
+body_completeness: full
 artefact: "2024-12-01 The-Kenya-Electronic-Payment-and-Settlement-System-Report-December-2024.pdf"
 ---
 

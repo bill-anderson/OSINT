@@ -11,6 +11,7 @@ places: [ETH]
 topics: [dpi.pay, dpi.exchange, gov.regional]
 entities: [[ethswitch], [mastercard]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # EthSwitch unveils 15-year vision and Mastercard partnership

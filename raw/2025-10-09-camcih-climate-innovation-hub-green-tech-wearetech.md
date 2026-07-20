@@ -3,6 +3,7 @@ type: source
 title: Cameroon Launches Climate Innovation Hub to Advance Green Tech
 url: https://www.wearetech.africa/en/fils-uk/news/cameroon-launches-climate-innovation-hub-to-advance-green-tech
 publisher: We Are Tech Africa
+ingested: 2026-07-18
 author: Samira Njoya
 published: 2025-10-09
 date_precision: day
@@ -11,6 +12,7 @@ places: [CMR]
 topics: [tech.innovate, capacity.research, capacity.training, infra.energy, data.statistics]
 entities: [[camcih], [ict-university-cameroon], [global-center-on-adaptation]]
 lens: []
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: CMR-2026-07-17
 ---

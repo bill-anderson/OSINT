@@ -3,6 +3,8 @@ type: source
 title: "WURI digital ID project improving access to public services in Benin"
 publisher: Biometric Update
 url: https://www.biometricupdate.com/202406/wuri-digital-id-project-improving-access-to-public-services-in-benin
+date_precision: day
+date_source: source
 author: Ayang Macdonald
 published: 2024-06-27
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [BEN, XWA]
 topics: [dpi.id, include.access, gov.regional]
 entities: [[wuri-programme], [ecowas], [world-bank], [anip-benin]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Backfill (2024): Benin's foundational-ID (fID) certificate ('Certificat NPI/fID' / 'C'est moi') under World Bank-supported WURI; ~99% of citizens now hold a legal+digital identity; WURI enrolled 2.2m more (incl. 4,000 abroad); QR-code mobile-app authentication. Baseline for the Benin DPI cluster. -->

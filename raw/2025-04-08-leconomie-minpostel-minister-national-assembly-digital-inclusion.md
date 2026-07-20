@@ -3,6 +3,7 @@ type: source
 title: "Minette Libom Li Likeng : « C'est en construisant un numérique au service de tous, que nous poserons les fondations d'un développement inclusif »"
 url: https://leconomie.info/minette-libom-li-likeng-cest-en-construisant-un-numerique-au-service-de-tous-que-nous-poserons-les-fondations-dun-developpement-inclusif/
 publisher: Le quotidien L'Economie
+ingested: 2026-07-18
 author: La Rédaction
 published: 2025-04-08
 date_precision: day
@@ -13,6 +14,7 @@ places: [CMR]
 topics: [gov.policy, include.divides]
 entities: [[minpostel], [antic-cameroon], [camtel], [mtn-cameroon], [orange-cameroun], [patnuc], [world-bank], [art-cameroon], [cdic-cameroon], [snia-cameroon]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Minette Libom Li Likeng : « C'est en construisant un numérique au service de tous, que nous poserons les fondations d'un développement inclusif »

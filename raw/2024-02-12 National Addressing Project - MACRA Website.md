@@ -12,6 +12,7 @@ places: [MWI]
 topics: [dpi.registry, dpi.govtech]
 entities: [[macra-malawi]]
 lens: []
+body_completeness: full
 ---
 
 MACRA describes the National Addressing System (NAS) Project, a multi-stakeholder national programme it coordinates to give a physical address to every property in Malawi. Components span a national postcode system, national addressing standards, an address database, physical addressing infrastructure, GIS, and public sensitisation, with sub-committees led by relevant stakeholders.

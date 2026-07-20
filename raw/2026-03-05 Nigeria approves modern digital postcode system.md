@@ -3,6 +3,8 @@ type: source
 title: "Nigeria approves modern digital postcode system"
 publisher: ITWeb Africa
 url: https://itweb.africa/article/nigeria-approves-modern-digital-postcode-system/
+date_precision: day
+date_source: source
 author: Emeka Ekonkwo
 published: 2026-03-05
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [NGA]
 topics: [dpi.registry, dpi.govtech, gov.policy]
 entities: [[nigeria-digital-postcode-system], [bosun-tijani]]
 lens: []
+body_completeness: excerpt
 ---
 
 <!-- Nigeria approved a GIS-enabled alphanumeric Digital Postcode System (geographic intelligent addressing) for planning, emergency response, logistics/e-commerce, service delivery (announced by Minister Bosun Tijani). Entity [[nigeria-digital-postcode-system]]. -->

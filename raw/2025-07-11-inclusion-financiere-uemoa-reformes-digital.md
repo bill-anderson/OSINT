@@ -3,6 +3,7 @@ type: source
 title: "Inclusion financière: L’Uemoa à l’heure des réformes et du digital"
 url: https://lanation.bj/economie/inclusion-financiere-luemoa-a-lheure-des-reformes-et-du-digital
 publisher: La Nation
+ingested: 2026-07-18
 author: Claude Urbain PLAGBETO
 published: 2025-07-11
 date_precision: day
@@ -13,6 +14,7 @@ places: [BEN, XWA]
 topics: [dpi.pay, include.access, gov.policy, gov.regional, capacity.literacy]
 entities: [[bceao], [uemoa]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Inclusion financière: L’Uemoa à l’heure des réformes et du digital

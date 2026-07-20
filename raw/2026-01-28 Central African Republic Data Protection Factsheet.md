@@ -13,6 +13,7 @@ places: [CAF]
 topics: [gov.protect, gov.legislate, gov.regional]
 entities: [[data-protection-africa], [car-data-protection-law-24-001]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Data Protection Africa (ALT Advisory) factsheet, last updated 28 Jan 2026: CAR has a data-protection LAW IN PLACE but the data-protection AUTHORITY is NOT YET APPOINTED — the recurring enforcement gap. Fact sheet covers domestic law, international commitments, scope, personal data, collection/processing, transparency, accountability, participation, cross-border transfer, automated processing. Lists applicable CEMAC-level instruments: Reg. 21/08-UEAC (e-comms harmonisation, 2008); Directives 07/08 & 09/08-UEAC (user protection, 2008); Reg. 03/16-CEMAC-UMAC (payment systems/incidents, 2016); Directive 02/19-UEAC (consumer protection, 2019); Reg. 01/20/CEMAC/UMAC/COBAC (banking-consumer protection, 2020). Standing reference profile — cite the dated fact (DPA not appointed as of 28 Jan 2026), source is the registry entity [[data-protection-africa]]. -->

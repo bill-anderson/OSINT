@@ -6,10 +6,12 @@ publisher: Expresso das Ilhas
 published: 2026-03-20
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [CPV]
 topics: [dpi.govtech, dpi.exchange, dpi.registry, data.open]
 entities: [[plataforma-empresa-online], [prime-solutions]]
 lens: []
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: CPV-2026-07-17
 ---

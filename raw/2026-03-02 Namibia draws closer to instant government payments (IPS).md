@@ -13,6 +13,7 @@ places: [NAM]
 topics: [dpi.pay, dpi.govtech, include.access]
 entities: [[bank-of-namibia]]
 lens: []
+body_completeness: full
 ---
 
 In her 2026/2027 national budget speech, Finance Minister Ericah Shafudah announced progress on Namibia's first fast and instant payment system, the Instant Payment Solution (IPS), expected to launch in Q3 2026. Led by the Ministry of Finance and the Bank of Namibia with payment service providers, IPS will let government pay people directly into bank accounts or e-wallets within seconds. The initial use case is Government-to-Person (G2P): social grants, long paid in cash through NamPost, will go straight into beneficiaries' accounts, phasing out cash payouts.

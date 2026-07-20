@@ -3,6 +3,8 @@ type: source
 title: "Mapping African Digital Infrastructures (Part 1): A qualitative analysis of open-source contributions"
 publisher: Research ICT Africa
 url: https://researchictafrica.net/2022/05/30/mapping-african-digital-infrastructures-a-qualitative-analysis-of-open-source-contributions/
+date_precision: day
+date_source: source
 author: Senka Hadzic; Sarah Kiden
 published: 2022-05-30
 accessed: 2026-07-12
@@ -11,6 +13,7 @@ places: [XAF, ZAF, KEN, NGA]
 topics: [infra.capacity, tech.innovate, capacity.research, data.open]
 entities: [[mapping-african-digital-infrastructures], [research-ict-africa]]
 lens: [colonialism]
+body_completeness: full
 ---
 <!-- Part 1 (qualitative) of RIA's 3-part digital-infrastructure-grant study: barriers to African-led open-source projects (funding, motivations, skills, francophone/language diversity); flagship projects concentrated in ZAF & KEN. One of three sources citing publication [[mapping-african-digital-infrastructures]] — figures stay on the publication, not concept/place pages. -->
 

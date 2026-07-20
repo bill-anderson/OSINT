@@ -6,6 +6,7 @@ publisher: The Seychelles Times
 published: 2026-06-24
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [SYC]
 topics: [dpi.pay]
 entities: [[absa-bank-seychelles], [central-bank-of-seychelles]]

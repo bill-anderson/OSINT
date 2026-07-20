@@ -3,6 +3,8 @@ type: source
 title: "ECOWAS Adopts Digital Roadmap; Targets Unified Single Market and AI Governance for West Africa"
 publisher: PRNigeria
 url: https://prnigeria.com/2026/01/24/ecowas-adopts-digital-roadmap/
+date_precision: day
+date_source: source
 author: Dahiru Lawal
 published: 2026-01-24
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [XWA]
 topics: [gov.regional, gov.policy, tech.ai, gov.standards, dpi.pay, dpi.id, infra.connect]
 entities: [[ecowas]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- ECOWAS three-day Thematic Dialogue (Lagos, 20-22 Jan 2026): committed to a Regional Digital Single Market ('remove digital borders') for 400m+ citizens; resolved to develop a Regional AI Governance Framework; priorities interoperable fintech, unified digital ID, rural broadband. Aspirational communiqué. -->

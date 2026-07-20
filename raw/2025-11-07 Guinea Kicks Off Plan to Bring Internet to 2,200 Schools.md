@@ -13,6 +13,7 @@ places: [GIN]
 topics: [infra.connect, include.divides, capacity.training]
 entities: [[simandou-2040]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Guinea launched (5 Nov 2025) a plan to connect 2,200 public primary schools to the internet by end-2026 under the global GIGA initiative (ITU + UNICEF). ~600 schools already equipped; target 1,000 by end-2025 (>1m children). Minister Jean Paul Cédy (Pre-University Education). Part of education digital transformation — Simandou Academy under Simandou 2040; 2021 digital roadmap. -->

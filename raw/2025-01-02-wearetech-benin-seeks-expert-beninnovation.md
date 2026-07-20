@@ -3,6 +3,7 @@ type: source
 title: Benin Seeks Expert to Accelerate Digital Transformation
 url: https://www.wearetech.africa/en/fils-uk/news/tech/benin-seeks-expert-to-accelerate-digital-transformation
 publisher: We Are Tech Africa
+ingested: 2026-07-18
 author: Samira Njoya
 published: 2025-01-02
 date_precision: day
@@ -13,6 +14,7 @@ places: [BEN]
 topics: [dpi.govtech, geopol.eu, infra.capacity]
 entities: [[asin], [european-union], [cybernetica], [e-governance-academy]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Benin Seeks Expert to Accelerate Digital Transformation

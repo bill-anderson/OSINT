@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: instrument
 title: Tanzania e-Government Strategy 2022 (2022-2027)
 places: [TZA]

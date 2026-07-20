@@ -3,6 +3,8 @@ type: source
 title: "How SpaceX is making a quiet bet on Africa"
 publisher: Semafor
 url: https://www.semafor.com/article/05/22/2026/starlinks-africa-ambitions
+date_precision: day
+date_source: source
 author: Yinka Adegoke
 published: 2026-05-22
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [ZAF, XAF]
 topics: [infra.connect, include.access, include.divides, geopol.usa, gov.policy]
 entities: [[starlink], [airtel-africa], [africa-ceo-forum]]
 lens: [sovereignty, colonialism]
+body_completeness: full
 ---
 
 <!-- Expert commentary on SpaceX's Africa play: S-1 prospectus (277pp, $1.75tn valuation, >3bn-people goal); Airtel-Starlink direct-to-cell (Dec 2025); SA regulatory delay. Africa CEO Forum/Askya: the divide is affordability, not coverage. Chase the S-1 for primary figures. -->

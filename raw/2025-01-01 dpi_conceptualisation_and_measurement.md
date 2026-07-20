@@ -3,6 +3,7 @@ type: source
 title: "Digital Public Infrastructure: a framework for conceptualisation and measurement"
 publisher: UCL Institute for Innovation and Public Purpose (Working Paper WP 2025-01)
 url: https://www.ucl.ac.uk/bartlett/public-purpose/wp2025-01
+date_source: source
 author: David Eaves, Krisstina Rao
 published: 2025
 date_precision: year
@@ -13,6 +14,7 @@ places: [XGL]
 topics: [dpi.govtech, dpi.exchange, gov.standards, gov.policy]
 entities: [[david-eaves], [ucl-iipp]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- SOURCE RECORD for the PDF `2025-01-01 dpi_conceptualisation_and_measurement.pdf` (source of

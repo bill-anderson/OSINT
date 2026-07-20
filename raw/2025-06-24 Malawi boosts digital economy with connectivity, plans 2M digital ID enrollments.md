@@ -13,6 +13,7 @@ places: [MWI]
 topics: [dpi.id, infra.connect, infra.store, dpi.exchange]
 entities: [[world-bank], [undp]]
 lens: []
+body_completeness: full
 ---
 
 Malawi has set a target of enrolling 2 million people in its digital ID programme under the current phase of a World Bank- and UNDP-backed digital transformation project. Phase 2 — the Digital Malawi Acceleration Project (DMAP), launched November 2024 — includes support for digital ID enrolment (following Phase 1 diagnostics of the identity ecosystem), establishing more digital services, connecting 500 government offices, and distributing affordable phones and laptops to low-income Malawians. National digital ID rollout is expected in 2026.

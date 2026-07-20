@@ -3,6 +3,8 @@ type: source
 title: "Africa to the World: Angola Cables and Megaport Expand Global Reach"
 url: https://techafricanews.com/2025/03/20/africa-to-the-world-angola-cables-and-megaport-expand-global-reach/
 publisher: TechAfrica News
+lens: []
+body_completeness: full
 author: Aayushya Ranjan
 published: 2025-03-20
 date_precision: day

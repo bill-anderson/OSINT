@@ -14,6 +14,7 @@ places: [AGO]
 topics: [data.satellite, geopol.eu, capacity.training, tech.innovate]
 entities: [[airbus]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 *(PR-wire item covering the same ANGEO-1 kick-off as the We Are Tech Africa report of 2026-03-17, which carries the €225m/$259m contract value; this piece adds GGPEN's own framing of the sovereignty rationale. Prefer the primary GGPEN/Airbus announcement for hard facts.)*

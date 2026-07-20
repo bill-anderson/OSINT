@@ -12,6 +12,7 @@ places: [SYC]
 topics: [gov.protect, gov.legislate, dpi.exchange]
 entities: [[data-protection-act-2023-seychelles], [information-commission-seychelles]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 In a significant move to safeguard the privacy and security of its citizens' personal information, Seychelles introduced the new Data Protection Act, 2023 (DPA) in December 2023, which is now in force. The DPA repeals the Data Protection Act 2003 which was enacted but never implemented in practice.

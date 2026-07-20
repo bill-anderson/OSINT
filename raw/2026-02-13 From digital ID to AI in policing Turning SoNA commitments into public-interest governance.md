@@ -12,6 +12,7 @@ places: [ZAF]
 topics: [dpi.id, tech.ai, gov.policy, infra.store, include.divides]
 entities: [[research-ict-africa], [cyril-ramaphosa], [mymzansi], [sa-digital-id-regulations]]
 lens: [sovereignty, colonialism]
+body_completeness: full
 ---
 
 # From digital ID to AI in policing: Turning SoNA commitments into public-interest governance - Research ICT Africa

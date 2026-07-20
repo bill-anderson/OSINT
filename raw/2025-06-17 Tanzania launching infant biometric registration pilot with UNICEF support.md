@@ -3,6 +3,8 @@ type: source
 title: Tanzania launching infant biometric registration pilot with UNICEF support
 url: https://www.biometricupdate.com/202506/tanzania-launching-infant-biometric-registration-pilot-with-unicef-support
 publisher: Biometric Update
+lens: []
+body_completeness: full
 author: Ayang Macdonald
 published: 2025-06-17
 date_precision: day

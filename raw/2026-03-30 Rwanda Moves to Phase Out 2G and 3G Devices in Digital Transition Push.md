@@ -3,6 +3,8 @@ type: source
 title: "Rwanda Moves to Phase Out 2G and 3G Devices in Digital Transition Push"
 publisher: Tech Africa News
 url: https://techafricanews.com/2026/03/30/rwanda-moves-to-phase-out-2g-and-3g-devices/
+date_precision: day
+date_source: source
 author: Jennifer Onyeagoro
 published: 2026-03-30
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [RWA]
 topics: [infra.connect, gov.policy, include.access]
 entities: [[paula-ingabire]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Rwanda's MINICT (Minister Paula Ingabire) held talks with device importers on a gradual phase-out of 2G/3G devices to expand access to modern devices/advanced digital services. Thin; no firm timeline. -->

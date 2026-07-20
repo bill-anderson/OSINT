@@ -3,6 +3,9 @@ type: source
 title: "Economie numérique dans l’espace UEMOA : 1000 professionnels attendus en juillet prochain à Ouagadougou"
 url: https://www.sidwaya.info/economie-numerique-dans-lespace-uemoa-1000-professionnels-attendus-en-juillet-prochain-a-ouagadougou/
 publisher: Sidwaya
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Boukary Bonkoungou et Lydia Esther Billa
 published: 2026-06-18
 date_precision: day

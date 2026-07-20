@@ -13,6 +13,7 @@ places: [GHA]
 topics: [infra.connect, include.divides, gov.policy, dpi.pay, tech.ai]
 entities: [[gsma]]
 lens: []
+body_completeness: full
 ---
 
 <!-- GSMA Digital Africa Summit Ghana 2025 (Accra, 3 Sept 2025): report 'Driving Digital Transformation of the Economy in Ghana' — strategic reforms could add ~$3.4bn by 2030. Mobile industry = 8% GDP (GHS 94bn); 99% 4G coverage but 62% usage gap. Sector potential: agri +GHS 10.5bn/190k jobs; manufacturing +GHS 15bn; e-gov +GHS 5.8bn tax. Barrier: device affordability (smartphone 27% of monthly GDP/capita; 76% for poorest 40%). Praises e-levy removal; calls for device-financing PPPs, 5G roadmap, rights-of-way reform. Target 20.6m unique mobile-internet users by 2029 (from 13.1m). Tied to RESET agenda (Angela Wamola). -->

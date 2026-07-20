@@ -12,6 +12,7 @@ places: [XAF, BDI, COG, MUS, TUN, EGY, DZA, KEN, NGA, TZA, GHA, ZWE, MOZ, ZAF, M
 topics: [gov.protect, gov.legislate, tech.ai, gov.policy, gov.regional, gov.standards]
 entities: [[tech-hive-advisory], [national-personal-data-protection-commission-congo], [ndpc], [odpc-kenya], [malabo-convention]]
 lens: []
+body_completeness: full
 ---
 
 # Bimonthly Update on Privacy in Africa (January & February 2026)

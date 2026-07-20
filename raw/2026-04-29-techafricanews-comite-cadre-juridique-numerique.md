@@ -6,6 +6,7 @@ publisher: TechAfrica News
 published: 2026-04-29
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [TCD]
 topics: [gov.legislate, gov.policy]
 entities: [[arcep-chad], [ministry-telecom-digital-economy-chad]]

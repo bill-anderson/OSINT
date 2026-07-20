@@ -6,12 +6,14 @@ publisher: Fraternité Matin
 published: 2025-09-26
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [dpi.pay, gov.legislate]
 entities: [[bceao], [djogana-pay], [peya-pay], [orange-money], [mtn-mobile-money], [moov-money], [uemoa]]
 lens: []
+body_completeness: full
 ---
 
 # Inclusion financière/Monnaie électronique : La Côte d'Ivoire enregistre un 4e établissement

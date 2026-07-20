@@ -13,6 +13,7 @@ places: [MLI]
 topics: [dpi.govtech, dpi.id, dpi.registry, include.access]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 A system to produce biometric driver's licences and vehicle registration cards is among several new digital service platforms introduced by the Malian government, presented to Prime Minister Abdoulaye Maiga. All were developed in Mali.

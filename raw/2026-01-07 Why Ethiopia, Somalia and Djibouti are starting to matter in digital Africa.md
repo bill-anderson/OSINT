@@ -3,6 +3,8 @@ type: source
 title: "Why Ethiopia, Somalia and Djibouti are starting to matter in digital Africa"
 publisher: TechCabal
 url: https://techcabal.com/2026/01/07/how-ethiopia-somalia-and-djibouti-building-africas-digital-powerhouses/
+date_precision: day
+date_source: source
 author: Kenn Abuya
 published: 2026-01-07
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [ETH, SOM, DJI, XEA]
 topics: [infra.connect, dpi.pay, dpi.id, tech.industry, include.access, finance.new]
 entities: [[safaricom], [starlink], [huawei], [gsma], [world-bank], [fayda-ethiopia-national-id], [wingu-africa], [ethio-telecom], [telebirr], [central-bank-of-somalia]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Rich figure source. Ethiopia: penetration ~19% (early 2025); 85.4m mobile; Safaricom Ethiopia $2.27bn capital since 2021; Fayda >12m by mid-2025; telebirr 72m. Somalia: mobile money ~$8bn (36% of GDP), ~$2bn diaspora remittances; CBS launched SIPS + SOMQR (early 2025); Starlink licensed Apr 2025. Djibouti: 12 subsea landings (incl. 2Africa); 65% penetration; Tier-3 hub. Some source URLs cross-country-mismatched — verify before hard-citing. -->

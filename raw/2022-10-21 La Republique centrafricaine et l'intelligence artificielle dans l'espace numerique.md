@@ -13,6 +13,7 @@ places: [CAF]
 topics: [tech.ai, infra.store, gov.protect, infra.connect]
 entities: [[greater-internet-freedom], [arcep-central-african-republic]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- NGO digital-rights baseline (Greater Internet Freedom/Internews, 2022): CAR lags badly on AI/digital — 188th/189 on the 2020 UN HDI; telecom coverage ~51% of territory; social-media-active population ~140,600 (2.9%). Internet supplied entirely by mobile operators (Orange Centrafrique, Télétel, Moov). National strategy "Centrafrique numérique 2018" adopted but only three laws applied: Law 18.002 (17 Jan 2018, e-communications); Law 17.020 (19 May 2017, creating regulator ARCEP); Law 17.009 (21 Feb 2017, postal activities). NO national data centre — a stated sovereignty/security weakness; in 2020 Facebook exposed France- and Russia-targeting disinformation campaigns before CAR elections. No specific digital-rights law (pre-dates the 2024 data-protection law). Useful pre-2024 baseline for the AI/data-sovereignty gap. -->

@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: organisation
 title: Economic Community of West African States (ECOWAS)
 places: [XWA]

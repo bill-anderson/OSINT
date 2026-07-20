@@ -13,6 +13,7 @@ places: [MRT]
 topics: [infra.connect, include.divides, include.access]
 entities: [[ellalink], [mtnima-mauritania], [ace-cable]]
 lens: []
+body_completeness: full
 provenance_flag: off-assigned-host
 ---
 

@@ -13,6 +13,7 @@ places: [KEN]
 topics: [infra.store, tech.ai, geopol.usa, geopol.gulf]
 entities: [[microsoft-g42-kenya-datacenter], [microsoft], [g42]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Washington, 22 May 2024. Microsoft + G42 announced digital investments in Kenya, G42 leading an initial $1bn. Priority: a green Olkaria data center (G42 + partners) running Microsoft Azure in a new East Africa Cloud Region (operational within 24 months of agreements), powered by renewable geothermal + water-conservation. Four more pillars: Swahili/English AI model dev; East Africa Innovation Lab (AI skills); connectivity investments; safe cloud across East Africa. LoI signed during Ruto's US state visit (US + UAE govt assistance). Ruto: "bigger than technology itself"; Brad Smith: "single largest and broadest digital investment in Kenya's history"; Peng Xiao (G42). Original announcement primary behind the hub's stalled-DC thread. -->

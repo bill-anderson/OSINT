@@ -3,6 +3,9 @@ type: source
 title: Ericsson, Luxembourg, Sweden support boosts Sahel digital connectivity
 url: https://itweb.africa/article/ericsson-luxembourg-sweden-support-boosts-sahel-digital-connectivity/Pero3MZ3ozJqQb6m
 publisher: ITWeb Africa
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Mthulisi Sibanda
 published: 2026-06-15
 date_precision: day

@@ -3,6 +3,8 @@ type: source
 title: Gabon Accelerates Digital Transformation with New Public Finance and E-Government Initiatives
 url: https://techafricanews.com/2026/01/14/gabon-accelerates-digital-transformation-with-new-public-finance-and-e-government-initiatives
 publisher: TechAfrica News
+lens: []
+body_completeness: full
 author: Joyce Onyeagoro
 published: 2026-01-14
 date_precision: day

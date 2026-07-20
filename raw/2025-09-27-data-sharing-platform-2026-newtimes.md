@@ -3,6 +3,7 @@ type: source
 title: Govt moves ahead with data sharing platform to go live in 2026
 url: https://www.newtimes.co.rw/article/30040/news/technology/govt-moves-ahead-with-data-sharing-platform-to-go-live-in-2026
 publisher: The New Times
+ingested: 2026-07-19
 author: Fidele Nsengiyumva
 published: 2025-09-27
 date_precision: day

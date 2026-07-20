@@ -3,6 +3,7 @@ type: source
 title: Cameroon seeks $195 million to expand optic fibre backbone
 url: https://itweb.africa/article/cameroon-seeks-195-million-to-expand-optic-fibre-backbone/WnxpEv4Y28g7V8XL
 publisher: ITWeb Africa
+ingested: 2026-07-18
 author: Amindeh Blaise Atabong
 published: 2026-03-09
 date_precision: day
@@ -11,6 +12,7 @@ places: [CMR, XCA]
 topics: [infra.connect, geopol.china, finance.new, include.divides, gov.policy]
 entities: [[camtel], [china-eximbank], [huawei]]
 lens: [sovereignty, colonialism]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: CMR-2026-07-17
 ---

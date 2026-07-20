@@ -3,6 +3,8 @@ type: source
 title: HISP WCA develops DHIS2 EMIS for education data analysis and visualization in Togo
 url: https://education.dhis2.org/fr/emis-togo-2022
 publisher: DHIS2 (education.dhis2.org)
+lens: []
+body_completeness: full
 author: Ellen Summey
 published: 2024-11-19
 date_precision: day

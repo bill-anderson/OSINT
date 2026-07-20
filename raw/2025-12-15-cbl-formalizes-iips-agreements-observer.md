@@ -6,6 +6,7 @@ publisher: Liberian Observer
 published: 2025-12-15
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: LBR-2026-07-17
 places: [LBR]

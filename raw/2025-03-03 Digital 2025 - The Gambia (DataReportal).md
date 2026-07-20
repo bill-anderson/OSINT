@@ -13,6 +13,7 @@ places: [GMB]
 topics: [infra.connect, include.divides, data.statistics]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 <!-- DataReportal Digital 2025: The Gambia (3 Mar 2025). Population 2.79m (65.4% urban, median age 18.6). Mobile connections 3.15m = 113% of pop (+4.5% YoY, 88.7% broadband). Internet users 1.28m, 45.9% penetration → 54.1% offline. Social media 449k (16.1%). Baseline for the Gambia hub. -->

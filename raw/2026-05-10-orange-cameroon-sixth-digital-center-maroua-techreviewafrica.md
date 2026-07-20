@@ -3,6 +3,7 @@ type: source
 title: Orange Cameroon launches sixth digital center in Maroua
 url: https://techreviewafrica.com/news/5372
 publisher: Tech Review Africa
+ingested: 2026-07-18
 author: Kanto Kai Okanta
 published: 2026-05-10
 date_precision: day
@@ -11,6 +12,7 @@ places: [CMR]
 topics: [capacity.training, tech.innovate, include.divides, digital.rural, tech.industry, capacity.research]
 entities: [[orange-cameroun], [orange-digital-center], [university-of-maroua]]
 lens: []
+body_completeness: full
 provenance_flag: pr-wire
 provenance_note: >
   Tech Review Africa is a PR-wire outlet; this reads as Orange Cameroon announcement

@@ -3,6 +3,7 @@ type: source
 title: "Conférence des Rssi : les experts mobilisés pour une cybersécurité plus résiliente"
 url: https://www.lanation.bj/numerique/conference-des-rssi-les-experts-mobilises-pour-une-cybersecurite-plus-resiliente
 publisher: La Nation
+ingested: 2026-07-18
 author: Isidore Gozo
 published: 2026-06-25
 date_precision: day
@@ -13,6 +14,7 @@ places: [BEN]
 topics: [infra.cybersec, tech.ai, gov.policy, dpi.govtech]
 entities: [[asin-benin], [marc-andre-loko], [mahuna-akplogan], [code-du-numerique-benin], [sniam-benin]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Conférence des Rssi : les experts mobilisés pour une cybersécurité plus résiliente

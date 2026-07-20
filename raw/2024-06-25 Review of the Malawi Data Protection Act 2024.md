@@ -12,6 +12,7 @@ places: [MWI]
 topics: [gov.protect, gov.legislate]
 entities: [[malawi-data-protection-act-2024], [macra-malawi]]
 lens: []
+body_completeness: full
 ---
 
 [Analysis: legal review by CIPIT, Strathmore University.] The piece reviews the Malawi Data Protection Act (MDPA), enacted February 2024, which sets out frameworks for lawful data processing, data-subject rights and controller/processor obligations across ten parts. Notably, the Act designates MACRA (the communications regulator) as the Data Protection Authority rather than creating a new body, resembling Zambia's model and, the author suggests, likely to reduce administrative cost.

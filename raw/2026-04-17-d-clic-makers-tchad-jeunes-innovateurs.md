@@ -6,6 +6,7 @@ publisher: Le N'Djam Post
 published: 2026-04-17
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [TCD]
 topics: [capacity.training, tech.innovate, capacity.literacy, geopol.eu]
 entities: [[oif], [wenaklabs], [onape-chad]]

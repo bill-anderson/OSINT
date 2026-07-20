@@ -4,11 +4,14 @@ title: The Promise and Limits of African Data Sovereignty
 url: https://businessamlive.com/the-promise-and-limits-of-african-data-sovereignty/
 publisher: Business a.m. (syndicated from Project Syndicate)
 published: 2026-06-08
+date_precision: day
+date_source: source
 ingested: 2026-07-10
 places: [XAF, NGA, KEN, ZAF]
 topics: [gov.protect, infra.store, gov.regional, geopol.usa, geopol.gulf, gov.legislate, gov.policy]
 entities: [[microsoft], [google], [meta], [g42], [equinix], [african-union], [afcfta], [microsoft-g42-kenya-datacenter]]
 lens: [sovereignty, colonialism]
+body_completeness: full
 ---
 
 MUNICH/TORONTO—In June 2025, while testifying under oath before a French Senate inquiry, Microsoft France’s director of public and legal affairs admitted that the company “ [cannot guarantee](https://www.theregister.com/off-prem/2025/07/25/microsoft-exec-admits-it-cannot-guarantee-data-sovereignty/458553) ” the data sovereignty of French customers in the event of a legally justified injunction issued by a US court. That is because, under the [2018 CLOUD Act](https://www.justice.gov/criminal/media/999391/dl), US authorities can order any firm headquartered in the United States to hand over the data it controls, no matter where it is located or which subsidiary holds it.

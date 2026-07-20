@@ -3,6 +3,8 @@ type: source
 title: Angola prevê aprovar nova Estratégia de Desenvolvimento da Estatística até 2032
 url: https://angop.ao/noticias/economia/angola-preve-aprovar-nova-estrategia-de-desenvolvimento-da-estatistica-ate-2032/
 publisher: Angop
+lens: []
+body_completeness: full
 author: HM/CS
 published: 2026-06-12
 date_precision: day

@@ -3,6 +3,8 @@ type: source
 title: "The World's Most Needed AI Governance Framework Doesn't Exist Yet. Africa Should Build It."
 publisher: africaintheroom.substack.com (Africa in the Room)
 url: https://africaintheroom.substack.com/p/the-worlds-most-needed-ai-governance
+date_precision: day
+date_source: source
 author: Zuria Nagadya
 published: 2026-05-04
 accessed: 2026-07-12
@@ -11,6 +13,7 @@ places: [XAF, RWA, NGA, KEN, GHA, ZAF, UGA]
 topics: [tech.ai, gov.policy, gov.regional]
 entities: [[zuria-nagadya], [africa-ai-declaration], [au-continental-ai-strategy], [african-union], [itu], [rwanda-national-ai-agency], [rwanda-information-society-authority], [cbn], [ghana-national-ai-strategy]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Nagadya: manifesto arguing the existing African AI-governance building blocks (AU Continental AI Strategy 2024, Kigali Africa AI Declaration Apr-2025 + $60bn Fund, Rwanda's Responsible AI Office, Nigeria CBN fintech explainability gate, Kenya's data-sovereignty principle) share one blind spot — the informal economy — and Africa should build a binding framework starting from mobile money, chamas, 2000 languages and communal redress. External expert analysis. Attach: africa-ai-declaration, au-continental-ai-strategy, tech.ai/gov.policy/gov.regional. -->

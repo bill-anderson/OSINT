@@ -13,6 +13,7 @@ places: [CAF]
 topics: [infra.energy, dpi.mis]
 entities: [[world-bank], [enerca]]
 lens: []
+body_completeness: full
 ---
 
 <!-- World Bank approved (3 Jun 2022) a $138m grant ($83m IDA + $30m Green Climate Fund + $25m private) for the Electricity Sector Strengthening and Access Project (PARSE), plus $70m for the Health Service Delivery project (SENI-Plus). Baseline: only 14.3% of CAR's population has electricity (~35% Bangui, ~0.4% rural); strong solar potential (5 kWh/m²/day). PARSE: 5 mini-grids totalling 10 MW for 20,000 households (Nola, Bouar, Bossembélé, Bangassou); transmission strengthening; Danzi solar plant expansion 25→40 MW; off-grid solar for households, 300 schools, 300 health centres, ~100 public buildings; strengthening utility ENERCA. Energy is the binding constraint on connectivity/data infrastructure — the ITU profile flags inadequate electricity as a brake on mobile-network expansion. -->

@@ -6,6 +6,7 @@ publisher: Mwananchi
 published: 2025-04-11
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [TZA]
 topics: [infra.cybersec, data.statistics]
 entities: [[ict-commission-tanzania]]

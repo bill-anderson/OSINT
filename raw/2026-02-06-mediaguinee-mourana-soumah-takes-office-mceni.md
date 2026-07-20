@@ -6,12 +6,14 @@ publisher: Mediaguinee
 published: 2026-02-06
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: GIN-2026-07-17
 places: [GIN]
 topics: [dpi.govtech, gov.policy]
 entities: [[mourana-soumah], [ministry-digital-economy-guinea], [rose-pola-pricemou]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Mourana Soumah à la tête du MCENI : « j'aborde cette mission avec une conviction forte »

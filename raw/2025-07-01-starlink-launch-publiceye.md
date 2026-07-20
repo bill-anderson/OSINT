@@ -6,10 +6,12 @@ publisher: Public Eye
 published: 2025-07-01
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [LSO]
 topics: [infra.connect, data.satellite, geopol.usa, gov.legislate, include.divides]
 entities: [[starlink], [t-connect-lesotho], [lesotho-communications-authority]]
 lens: [sovereignty]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: LSO-2026-07-17
 ---

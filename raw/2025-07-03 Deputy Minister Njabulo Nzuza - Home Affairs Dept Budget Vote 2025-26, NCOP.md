@@ -3,6 +3,8 @@ type: source
 title: Deputy Minister Njabulo Nzuza: Home Affairs Dept Budget Vote 2025/26, NCOP
 url: https://www.gov.za/news/speeches/deputy-minister-njabulo-nzuza-home-affairs-dept-budget-vote-202526-ncop-03-jul-2025
 publisher: South African Government (gov.za)
+lens: []
+body_completeness: full
 author: Njabulo B Nzuza, Deputy Minister of Home Affairs
 published: 2025-07-03
 date_precision: day

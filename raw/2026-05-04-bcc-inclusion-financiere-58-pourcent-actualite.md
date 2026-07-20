@@ -6,12 +6,14 @@ publisher: ACTUALITE.CD
 published: 2026-05-04
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: COD-2026-07-17
 places: [COD]
 topics: [dpi.pay, include.access, gov.policy, data.statistics, finance.new]
 entities: [[banque-centrale-du-congo], [andre-wameso], [patrick-muyaya]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 Lundi 4 mai 2026 - 12:44

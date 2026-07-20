@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: government-body
 title: Department of Immigration & Civil Status (ICS), Seychelles
 places: [SYC]

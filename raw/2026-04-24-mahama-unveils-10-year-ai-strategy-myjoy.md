@@ -6,12 +6,14 @@ publisher: MyJoyOnline
 published: 2026-04-24
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: GHA-2026-07-17
 places: [GHA]
 topics: [tech.ai, gov.policy]
 entities: [[ghana-national-ai-strategy]]
 lens: []
+body_completeness: full
 ---
 # Mahama unveils 10-year National AI Strategy to drive jobs, innovation and inclusive growth
 

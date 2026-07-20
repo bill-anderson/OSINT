@@ -3,6 +3,7 @@ type: source
 title: South Sudan Announces 2,400km Fiber-Optic Network to Strengthen Digital Infrastructure
 url: https://techafricanews.com/2025/10/09/south-sudan-announces-2400-km-fiber-optic-network-to-strengthen-digital-infrastructure/
 publisher: TechAfrica News
+ingested: 2026-07-19
 author: Jennifer Onyeagoro
 published: 2025-10-09
 date_precision: day

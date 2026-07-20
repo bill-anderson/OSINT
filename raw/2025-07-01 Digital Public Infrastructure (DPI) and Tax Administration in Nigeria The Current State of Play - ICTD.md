@@ -1,10 +1,13 @@
 ---
 type: source
+ingested: 2026-07-17
 places: [NGA]
 topics: [dpi.govtech, dpi.pay, dpi.exchange, data.statistics]
 entities: [[nitda]]
 date_precision: month
 date_source: proxy
+lens: []
+body_completeness: full
 page: 
 title: Digital Public Infrastructure (DPI) and Tax Administration in Nigeria: The Current State of Play - ICTD
 author: 

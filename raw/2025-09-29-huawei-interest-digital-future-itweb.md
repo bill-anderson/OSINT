@@ -3,6 +3,7 @@ type: source
 title: Huawei expresses interest in South Sudan's digital future
 url: https://itweb.africa/article/huawei-expresses-interest-in-south-sudans-digital-future/nWJadMbNYGgMbjO1
 publisher: ITWeb Africa
+ingested: 2026-07-19
 author: Mthulisi Sibanda
 published: 2025-09-29
 date_precision: day

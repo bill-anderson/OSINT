@@ -3,6 +3,8 @@ type: source
 title: "Burkina Faso Courts Egyptian Tech Investors for Public Sector Digitization"
 publisher: We Are Tech Africa
 url: https://www.wearetech.africa/en/fils-uk/news/tech/burkina-faso-courts-egyptian-tech-investors-for-public-sector-digitization
+date_precision: day
+date_source: source
 author: Samira Njoya
 published: 2026-01-19
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [BFA]
 topics: [dpi.govtech, dpi.id, gov.policy, finance.mou]
 entities: []
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Burkina Faso's Digital Transition Minister Aminata Zerbo Sabané received a MAG Trade & Investment (Egypt) delegation (14 Jan 2026) pitching digital-health/ID projects; skills-transfer/local-capacity framing. Discussions only, no agreements signed. -->

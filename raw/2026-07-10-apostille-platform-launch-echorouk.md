@@ -1,6 +1,7 @@
 ---
 type: source
 title: Lancement officiel de la plateforme "Apostille" relative à la légalisation des documents destinés à être utilisés à l'étranger
+ingested: 2026-07-18
 title_en: HCN launches "Apostille" e-platform for legalising public documents for foreign use
 url: https://www.echoroukonline.com/lancement-officiel-de-la-plateforme-apostille-relative-a-la-legalisation-des-documents-destines-a-etre-utilises-a-letranger
 publisher: Echorouk El Yawmi
@@ -14,6 +15,7 @@ places: [DZA]
 topics: [dpi.govtech, dpi.exchange, gov.policy]
 entities: [[haut-commissariat-a-la-numerisation, apostille-platform]]
 lens: []
+body_completeness: full
 ---
 
 # Lancement officiel de la plateforme "Apostille" relative à la légalisation des documents destinés à être utilisés à l'étranger

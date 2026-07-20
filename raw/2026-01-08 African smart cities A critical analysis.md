@@ -2,6 +2,8 @@
 type: source
 title: "African smart cities: a critical analysis"
 publisher: Data Landscapers
+date_precision: day
+date_source: source
 author: [[bill]]
 url: https://data-landscapers.com/2026/01/08/smart-cities/
 published: 2026-01-08
@@ -11,6 +13,7 @@ places: [XAF, KEN, RWA, EGY, MAR, SEN]
 topics: [infra.cybersec, geopol.china, dpi.govtech, gov.protect, include.divides, tech.ai]
 entities: [[bill], [data-landscapers], [huawei]]
 lens: [sovereignty, colonialism]
+body_completeness: full
 ---
 
 <!-- EXPERT ANALYSIS (Data Landscapers, author [[bill]]) — a self-described OSINT "Lab" exercise.

@@ -3,6 +3,8 @@ type: source
 title: Central Bank of Tunisia Reports 81% Surge In Mobile Payments As Tunisia Accelerates Its Digital Transformation In 2025
 url: https://trendsnafrica.com/central-bank-of-tunisia-reports-81-surge-in-mobile-payments-as-tunisia-accelerates-its-digital-transformation-in-2025/
 publisher: TrendsnAfrica
+lens: []
+body_completeness: full
 author: News Desk
 published: 2026-02-23
 date_precision: day

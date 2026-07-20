@@ -4,11 +4,14 @@ title: Namibia encouraged by Angola on datacentre establishment
 url: https://itweb.africa/article/namibia-encouraged-by-angola-on-datacentre-establishment/JN1gPvOA8oPMjL6m
 publisher: ITWeb Africa
 published: 2026-06-15
+date_precision: day
+date_source: source
 ingested: 2026-07-10
 places: [NAM, AGO, XSA]
 topics: [infra.store, gov.policy, finance.new, gov.regional]
 entities: [[emma-theofelus]]
 lens: [sovereignty]
+body_completeness: excerpt
 ---
 
 ![Angola’s INFOSI director general André Mpumba Pedro with Emma Theofelus, the Namibian minister of ICT on her visit to the Angolan National Data Center.](https://lh3.googleusercontent.com/2IrEgJwhBJ1kUmKKeZcDdpXUxDUe3k09d_qx__6rV2E33eoYQ0NTOmjIMDOtBzD2xv7wgJde74_zrKYLgXCFAY7ToHkz2gU2am_pRQ)

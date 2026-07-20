@@ -13,6 +13,7 @@ places: [GIN]
 topics: [dpi.mis, dpi.exchange, gov.standards]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 <!-- Workshop on skills-transfer for health-information-system interoperability, Conakry 25-28 Nov 2025. Organized by Terre des Hommes with Ministry of Health (MSHP), funded by Enabel via Wehubit. Strengthens the SNIS (Système National d'Information Sanitaire). Wehubit "improving data governance in Africa (DGA)" project; REC maternité (electronic maternity register piloted in 15 health centres). Consultant mapping of health digital tools to avoid duplication; aggregated individual data to feed SNIS. Recommendations: data security/governance, support local teams, open-source. Goal: centralize all national health info in one system. -->

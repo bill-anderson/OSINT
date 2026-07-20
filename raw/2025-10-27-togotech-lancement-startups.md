@@ -6,6 +6,7 @@ publisher: Togo First
 published: 2025-10-27
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [TGO]
 topics: [tech.innovate, tech.industry]
 entities: [[togotech], [cina-lawson], [giz], [semoa], [gozem]]

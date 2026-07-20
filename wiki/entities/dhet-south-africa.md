@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: government-body
 title: Department of Higher Education and Training (DHET), South Africa
 places: [ZAF]

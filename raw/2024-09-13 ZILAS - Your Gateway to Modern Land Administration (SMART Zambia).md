@@ -10,6 +10,8 @@ ingested: 2026-07-17
 places: [ZMB]
 topics: [dpi.registry, dpi.govtech, dpi.exchange]
 entities: [[zilas], [smart-zambia-institute], [ministry-of-lands-zambia]]
+lens: []
+body_completeness: full
 ---
 
 *Profiles the standing system rather than reporting an event: ZILAS (Zambia Integrated Land Administration System), deployed by SMART Zambia's E-Government Division, 100% digital, web and mobile, accessed via the Government Service Bus at gsb.gov.zm. Dated by an in-body dateline, not a proxy. Government self-description — attribute.*

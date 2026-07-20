@@ -3,6 +3,8 @@ type: source
 title: "(3) Africa’s Digital Policy Review: 2025 in Perspective and Outlook for 2026"
 publisher: LinkedIn Pulse (self-published)
 url: https://www.linkedin.com/pulse/africas-digital-policy-review-2025-perspective-outlook-2026-lvfbe/
+date_precision: day
+date_source: source
 author: DigitA
 published: 2026-01-12
 accessed: 2026-07-12
@@ -11,6 +13,7 @@ places: [XAF]
 topics: [gov.policy, gov.legislate, gov.protect, dpi.pay, tech.ai, tech.innovate, gov.regional, dpi.id]
 entities: [[au-data-policy-framework], [au-digital-transformation-strategy], [afcfta], [afcfta-digital-trade-protocol], [papss], [african-union], [au-continental-ai-strategy], [cbn], [ndpc], [odpc-kenya], [nitda]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Lead-rich pan-African year-in-review of 2025 digital policy (fintech, AI, startup acts, digital trade, data protection). Corrupt date 2001-01-12 → 2026-01-12. LIGHT ATTACH ONLY per central override #6: do NOT harden its figures (16 AI strategies, PAPSS 16 countries/150+ banks, 46/54 data-protection laws, 8 AfCFTA annexes) onto pages — verify against the primaries it links. Anchors au-data-policy-framework + au-digital-transformation-strategy (midpoint 2025). -->

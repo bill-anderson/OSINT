@@ -3,6 +3,8 @@ type: source
 title: Eswatini unveils readiness report for digital ID, transformation push
 url: https://www.biometricupdate.com/202411/eswatini-unveils-readiness-report-for-digital-id-transformation-push
 publisher: Biometric Update
+lens: []
+body_completeness: full
 author: Abigail Opiah
 published: 2024-11-22
 date_precision: day

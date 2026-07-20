@@ -1,10 +1,13 @@
 ---
 type: source
+ingested: 2026-07-17
 places: [NGA]
 topics: [dpi.exchange]
 entities: [[nitda], [ngdx], [bosun-tijani], [european-union]]
 date_precision: day
 date_source: source
+lens: []
+body_completeness: full
 page: Nigeria to Launch National Data Exchange Platform to Boost Digital Economy - We Are Tech
 title: Nigeria to Launch National Data Exchange Platform to Boost Digital Economy
 author: Isaac K. Kassouwi

@@ -3,6 +3,8 @@ type: source
 title: "Nigeria Seeks Stronger Digital Sovereignty, National Software Infrastructure"
 publisher: Nigeria Communications Week
 url: https://www.nigeriacommunicationsweek.com.ng/nigeria-seeks-stronger-digital-sovereignty-national-software-infrastructure/
+date_precision: day
+date_source: source
 author: unknown
 published: 2026-04-14
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [NGA]
 topics: [gov.policy, gov.standards, infra.store, tech.industry, geopol.china, gov.protect]
 entities: [[nitda], [kashifu-inuwa], [mtn-group]]
 lens: [sovereignty, colonialism]
+body_completeness: excerpt
 ---
 
 <!-- NITDA DG Kashifu Inuwa at GITEX Africa: Nigeria building national software infrastructure + data-sovereignty policy; wants hyperscalers to partner with local firms ('capture value here') rather than banning China; cites EU DMA/DSA/Data Governance Act; an executive order designates all digital infrastructure as critical national infrastructure. Ericsson-Nigeria MOU (Oct 2024). (Trailing Airtel/UNICEF and Canal+/MultiChoice blocks are separate bundled stories.) -->

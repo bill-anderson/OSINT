@@ -13,6 +13,7 @@ places: [GNQ, CMR]
 topics: [infra.connect]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 <!-- Historical baseline (2018): Equatorial Guinea inaugurated its link to the Ceiba-2 submarine cable on 4 June 2018 (ceremony led by GITGE, telecom-infrastructure manager, with the President). Ceiba-2: 400 km, 40 Gbps (upgradable to 100), connecting Malabo-Bata-Kribi (Cameroon) — the country's first direct international fibre connection, redundancy to Ceiba-1 (Malabo-Bata) and the ACE cable. -->

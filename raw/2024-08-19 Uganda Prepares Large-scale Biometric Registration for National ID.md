@@ -12,6 +12,7 @@ places: [UGA]
 topics: [dpi.id, dpi.registry, tech.industry, digital.rural, infra.energy, gov.legislate]
 entities: [[nira-uganda], [ndaga-muntu], [veridos], [electoral-commission-uganda]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 *Carries the TARGETS (17.2m unregistered to register; 15.8m renewals) that NIRA's own Feb-2026 review is measured against, and the Veridos/Muehlbauer card-production procurement controversy — single-sourced and held nowhere else in the wiki.*

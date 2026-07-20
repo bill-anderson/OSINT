@@ -3,6 +3,8 @@ type: source
 title: "Now is the time to invest in locally-owned health data systems"
 publisher: DHIS2 (HISP Centre, University of Oslo)
 url: https://dhis2.org/invest-in-routine-systems/
+date_precision: day
+date_source: source
 author: Max Krafft
 published: 2025-04-03
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [KEN, ETH, UGA, RWA, SOM, NGA, XSS]
 topics: [dpi.mis, data.statistics, include.access, capacity.research, geopol.usa]
 entities: [[dhis2], [hisp-centre], [africa-cdc], [usaid]]
 lens: [sovereignty, colonialism]
+body_completeness: full
 ---
 
 <!-- HISP/DHIS2 first-party post: 2025 US/USAID cuts shut PEPFAR's DATIM; Kenya MoH lost EMR access (Mar 2025). Africa CDC (Kaseya): up to 80% of malaria/HIV program costs aid-dependent. DHIS2 in >90 countries (75 national), data touching ~3.2bn people. Health Data Collaborative survey (Feb 2025): only 33.3% systems fully operational, 69.7% disrupted. Interested-party evidence. -->

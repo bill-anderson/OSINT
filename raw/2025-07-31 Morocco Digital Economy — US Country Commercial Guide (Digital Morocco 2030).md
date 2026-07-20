@@ -13,6 +13,7 @@ places: [MAR]
 topics: [gov.policy, dpi.govtech, infra.store, gov.protect, geopol.usa]
 entities: [[digital-morocco-2030], [oracle]]
 lens: []
+body_completeness: full
 ---
 
 <!-- US CCG (last published 31 Jul 2025). Morocco digital strategies since 2005 (e-Maroc 2010, Maroc Numeric 2013, 2020); Digital Morocco 2030 launched 25 Sept 2024: accelerate e-gov + unified services portal; leading African tech hub for FDI; startup ecosystem. Enablers: cloud, AI, connectivity, talent. Laws: Public Services Charter 54.19; Admin Simplification 55.19; Electronic Data Exchange 53-05; inter-admin interoperability; Personal Data Protection 09-08; Right to Info 31-13. Tech = 6.8% GDP. E-gov: 140th (2008) → 90th (2024) EGDI (11th Africa), targeting top 50; 300+ citizen + 200+ business services. Cloud/DCs: Casablanca 25+ DCs; Oracle 2 cloud regions (Casablanca + Settat, ~$140m/5yr, May 2024); MSFT/AWS/Google exploring. Barriers: fragmentation, data-localization, skills (train 100,000 by 2030), digital divide (~1,800 rural villages no internet). -->

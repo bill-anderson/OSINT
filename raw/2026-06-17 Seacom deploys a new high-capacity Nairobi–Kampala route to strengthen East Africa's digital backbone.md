@@ -4,6 +4,8 @@ title: Seacom deploys a new high-capacity Nairobi–Kampala route to strengthen 
 url: https://seacom.co.ke/news/seacom-deploys-a-new-high-capacity-nairobikampala-route-to-strengthen-east-africas-digital-backbone
 publisher: Seacom (press release)
 published: 2026-06-17
+date_precision: day
+date_source: source
 ingested: 2026-07-10
 places: [KEN, UGA, XEA]
 topics: [infra.connect, infra.capacity, gov.regional]

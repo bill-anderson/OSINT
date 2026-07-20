@@ -6,12 +6,14 @@ publisher: Tech Review Africa
 published: 2026-04-10
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [infra.connect, dpi.pay, tech.industry, finance.new, digital.rural]
 entities: [[mtn-cote-divoire], [mtn-group]]
 lens: []
+body_completeness: full
 provenance_flag: pr-wire
 primary_to_source: MTN Côte d'Ivoire press-conference release of 9 April 2026 (network rollout, MTN One Web, MTN Satellite, MoMo Soutra, the 200bn CFA-by-2028 investment commitment)
 ---

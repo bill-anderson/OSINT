@@ -7,6 +7,8 @@ published: 2024-01-01
 date_precision: year
 date_source: proxy
 ingested: 2026-07-17
+lens: []
+body_completeness: full
 artefact: "2024-01-01 Eswatini Ministry of Home Affairs Annual Report 2024-25.pdf"
 places: [SWZ]
 topics: [dpi.id, dpi.registry, gov.policy]

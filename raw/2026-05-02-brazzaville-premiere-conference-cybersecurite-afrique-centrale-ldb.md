@@ -3,6 +3,7 @@ type: source
 title: "Afrique centrale : Brazzaville abritera en juin la première conférence sur la cybersécurité"
 url: https://www.adiac-congo.com/content/afrique-centrale-brazzaville-abritera-en-juin-la-premiere-conference-sur-la-cybersecurite
 publisher: Les Dépêches de Brazzaville (ADIAC)
+ingested: 2026-07-18
 author: Firmin Oyé
 published: 2026-05-02
 date_precision: day
@@ -13,6 +14,7 @@ places: [COG, XCA]
 topics: [infra.cybersec, gov.regional, tech.innovate, finance.mou]
 entities: [[anssi-congo], [osiane], [pratic-congo]]
 lens: [sovereignty]
+body_completeness: full
 provenance_flag: state-aligned-outlet
 ---
 

@@ -3,6 +3,9 @@ type: source
 title: "Internet haut débit : le PAFEN veut couvrir plus de 80 % du territoire"
 url: https://www.iwacu-burundi.org/internet-haut-debit-le-pafen-veut-couvrir-plus-de-80-du-territoire/
 publisher: Iwacu
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: La Rédaction
 published: 2026-05-01
 date_precision: month

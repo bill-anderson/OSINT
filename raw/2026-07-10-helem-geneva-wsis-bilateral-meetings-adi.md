@@ -6,10 +6,12 @@ publisher: Agence Djiboutienne d'Information (ADI)
 published: 2026-07-10
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [DJI, XEA]
 topics: [gov.regional, gov.policy, tech.ai, infra.connect, geopol.china, include.divides]
 entities: [[itu], [smart-africa], [eardip], [djibouti-digital-foundation]]
 lens: [sovereignty]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: DJI-2026-07-17
 ---

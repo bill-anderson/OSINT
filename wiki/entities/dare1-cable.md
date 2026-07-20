@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: resource
 title: DARE1 (Djibouti Africa Regional Express 1) submarine cable
 url: https://djiboutitelecom.dj/
@@ -7,6 +8,7 @@ places: [DJI, SOM, KEN, TZA, MOZ, MDG, ZAF, XEA]
 topics: [infra.connect]
 status: active
 last_reviewed: 2026-07-16
+sources: []
 ---
 
 # DARE1 — Djibouti Africa Regional Express 1

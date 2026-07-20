@@ -4,11 +4,14 @@ title: Zambia, China deepen digital ties
 url: https://itweb.africa/article/zambia-china-deepen-digital-ties/o1Jr5qxPY8gqKdWL
 publisher: ITWeb Africa
 published: 2026-06-08
+date_precision: day
+date_source: source
 ingested: 2026-07-10
 places: [ZMB]
 topics: [geopol.china, infra.connect, capacity.training, tech.industry, gov.policy]
 entities: [[huawei]]
 lens: [sovereignty]
+body_completeness: excerpt
 ---
 
 ![Nkula Mwanza, director of digital communications at Zambia's Ministry of Technology and Science, and Han Jing, China's ambassador to Zambia.](https://lh3.googleusercontent.com/2IDduBZCgPVWz-XBK_xQeWDrwC2ADHI9kFJ0WacUnOF3tSRj7MDmoxlUPRFA-ORUcEvw1X_X6L0nP18DXRjZ5KiBfZfheJ-TL4gl)

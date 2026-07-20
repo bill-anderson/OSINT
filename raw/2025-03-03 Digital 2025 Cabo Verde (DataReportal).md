@@ -11,6 +11,7 @@ places: [CPV]
 topics: [infra.connect, include.divides]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 # Digital 2025 — Cabo Verde (DataReportal)

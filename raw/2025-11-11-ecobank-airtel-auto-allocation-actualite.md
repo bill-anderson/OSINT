@@ -6,12 +6,14 @@ publisher: ACTUALITE.CD
 published: 2025-11-11
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: COD-2026-07-17
 places: [COD]
 topics: [dpi.pay, dpi.exchange, include.access, finance.new]
 entities: [[ecobank], [airtel-rdc], [airtel-money], [airtel-africa], [michel-kayembe]]
 lens: []
+body_completeness: full
 ---
 
 Lancement du service Auto-allocation

@@ -6,10 +6,12 @@ publisher: Biometric Update
 published: 2026-05-06
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [COD]
 topics: [dpi.govtech, dpi.id, dpi.exchange, dpi.pay, gov.policy, gov.protect, infra.connect, finance.new]
 entities: [[drc-national-digital-plan-pnn2], [world-bank], [rdc-pass], [trident-digital-tech], [idea-mpa]]
 lens: [sovereignty]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: COD-2026-07-17
 ---

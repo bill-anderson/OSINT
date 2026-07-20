@@ -6,6 +6,7 @@ publisher: ActuNiger
 published: 2026-04-27
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [NER]
 topics: [dpi.id, dpi.pay, include.access]
 entities: [[niger-national-eid], [cib-aes], [nita-niger]]

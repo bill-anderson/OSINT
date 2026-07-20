@@ -3,6 +3,8 @@ type: source
 title: "How foreign domains compromise digital identity"
 publisher: Vanguard
 url: https://www.vanguardngr.com/2026/01/how-foreign-domains-compromise-digital-identity/
+date_precision: day
+date_source: source
 author: Nwafor
 published: 2026-01-21
 accessed: 2026-07-12

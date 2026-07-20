@@ -13,6 +13,7 @@ places: [GNB]
 topics: [dpi.id]
 entities: [[semlex]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Vendor announcement — Semlex; flagged for verification. New biometric national-ID production centre in Safim (Biombo region), inaugurated 30 Jan 2026 by Justice Minister Carlos Pinto Pereira. Part of MoJ reforms to decentralize civil-identification services. DG of Civil Identification: Helder Romano Vieira. Safim: 100 ID cards/day, third centre in Biombo (after Quinhamel, Plack 2). New centres planned in Sao Domingos, Bolama (Bijagos). To date GNB has 18 biometric ID production centres nationwide, incl. Bissau. -->

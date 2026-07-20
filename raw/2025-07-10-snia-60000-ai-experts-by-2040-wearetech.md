@@ -3,6 +3,7 @@ type: source
 title: Cameroon Eyes 60,000 AI Experts Trained by 2040, But Digital Barriers Remain
 url: https://www.wearetech.africa/en/fils-uk/news/tech/cameroon-eyes-60-000-ai-experts-trained-by-2040-but-digital-barriers-remain
 publisher: We Are Tech Africa
+ingested: 2026-07-18
 author: Samira Njoya
 published: 2025-07-10
 date_precision: day
@@ -11,6 +12,7 @@ places: [CMR]
 topics: [tech.ai, capacity.training, capacity.research, gov.policy, gov.protect, include.divides, infra.store, infra.connect, digital.rural]
 entities: [[snia-cameroon], [ministry-of-posts-and-telecommunications-cameroon], [itu]]
 lens: [sovereignty]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: CMR-2026-07-17
 ---

@@ -11,6 +11,7 @@ places: [RWA]
 topics: [dpi.id, dpi.registry, include.access, gov.protect]
 entities: [[world-bank], [nida-rwanda]]
 lens: []
+body_completeness: full
 ---
 
 # People's Perspectives on ID and Civil Registration in Rwanda (World Bank, 2020)

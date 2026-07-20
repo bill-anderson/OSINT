@@ -13,6 +13,7 @@ places: [GMB, GHA]
 topics: [dpi.id, finance.new, tech.industry]
 entities: [[gambia-national-id-contract], [margins-id-group]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Corroborates the Margins/Gambia national-ID contract (dedup with 2026-01-20 Modern Ghana). Margins ID Systems Applications (MIDSA), subsidiary of Ghana's Margins ID Group, won a build-co-operate-transfer contract to modernize The Gambia's identity infrastructure and produce national ID cards; signed with the Ministry of Interior. "Secure, scalable, integrated National Identity Management System and ICAO-compliant e-identity card infrastructure." CEO Moses Kwesi Baiden Jr. Margins also produces the Ghana Card. Ends "an era of confusion" in Gambia's ID sector. Interior Min Abdoulie Sanyang hinted Sept 2024. -->

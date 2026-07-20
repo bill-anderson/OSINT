@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: organisation
 title: UNCDF (United Nations Capital Development Fund)
 places: [GAB]

@@ -6,6 +6,7 @@ publisher: Zawya (via TAP)
 published: 2025-11-03
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [TUN]
 topics: [infra.connect, infra.store, geopol.eu]
 entities: [[tunisie-telecom], [medusa-submarine-cable]]

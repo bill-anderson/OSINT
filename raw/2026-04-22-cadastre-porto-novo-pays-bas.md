@@ -3,6 +3,9 @@ type: source
 title: "Mise en place du cadastre national: Plus de 53 000 parcelles déjà enregistrées à Porto-Novo (Les Pays-Bas satisfaits des résultats obtenus)"
 url: https://lanation.bj/actualites/mise-en-place-du-cadastre-national-plus-de-53-000-parcelles-deja-enregistrees-a-porto-novo-les-pays-bas-satisfaits-des-resultats-obtenus
 publisher: La Nation
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Thibaud C. NAGNONHOU, A/R Ouémé-Plateau
 published: 2026-04-22
 date_precision: day

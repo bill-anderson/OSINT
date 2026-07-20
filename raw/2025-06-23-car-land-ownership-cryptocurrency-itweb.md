@@ -3,6 +3,7 @@ type: source
 title: CAR offers land ownership using cryptocurrency
 url: https://itweb.africa/article/car-offers-land-ownership-using-cryptocurrency/Olx4z7kaAGbq56km
 publisher: ITWeb Africa
+ingested: 2026-07-18
 author: Lezeth Khoza
 published: 2025-06-23
 date_precision: day
@@ -11,6 +12,7 @@ places: [CAF]
 topics: [dpi.registry, dpi.pay, finance.new, gov.legislate, tech.innovate]
 entities: [[faustin-archange-touadera]]
 lens: [sovereignty]
+body_completeness: full
 provenance_flag: pr-wire
 retrieved: 2026-07-17
 sweep_batch: CAF-2026-07-17

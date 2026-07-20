@@ -3,6 +3,8 @@ type: source
 title: "Malawi President orders digital revolution"
 publisher: ITWeb Africa
 url: https://itweb.africa/article/malawi-president-orders-digital-revolution/kYbe9MXbob9vAWpG
+date_precision: day
+date_source: source
 author: Mthulisi Sibanda
 published: 2026-02-16
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [MWI]
 topics: [dpi.govtech, gov.policy, dpi.id, include.access]
 entities: []
 lens: []
+body_completeness: excerpt
 ---
 
 <!-- President Arthur Peter Mutharika (State of the Nation Address, 2026/27 budget meeting) directed all MDAs to accelerate digitalisation 'forthwith' — passports, national ID cards, driver's licences, procurement; testing a Digital Identity Wallet; target 80% internet usage by 2026. Aligned to Malawi 2063. -->

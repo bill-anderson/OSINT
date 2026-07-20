@@ -6,12 +6,14 @@ publisher: Linfodrome
 published: 2026-06-09
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [dpi.id, capacity.literacy, digital.rural]
 entities: [[oneci], [ago-christian-kodia], [affessi-affessi], [rnpp]]
 lens: []
+body_completeness: full
 ---
 
 # Etat civil, identification : L’ONECI renforce les capacités des speakers en langues locales pour un relais efficace

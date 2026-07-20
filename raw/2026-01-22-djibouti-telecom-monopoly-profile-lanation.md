@@ -6,10 +6,12 @@ publisher: La Nation (Djibouti)
 published: 2026-01-22
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [DJI, ETH, SOM, XEA]
 topics: [infra.connect, tech.industry, gov.legislate, infra.store]
 entities: [[djibouti-telecom]]
 lens: [sovereignty]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: DJI-2026-07-17
 ---

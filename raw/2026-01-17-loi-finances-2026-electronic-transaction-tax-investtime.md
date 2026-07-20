@@ -13,6 +13,7 @@ places: [MRT]
 topics: [gov.legislate, dpi.pay, finance.new]
 entities: [[central-bank-mauritania]]
 lens: []
+body_completeness: full
 provenance_flag: off-assigned-host
 ---
 

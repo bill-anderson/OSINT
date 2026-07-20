@@ -4,12 +4,15 @@ title: "Cassava Technologies announces National Sovereign Cloud for African gove
 publisher: Cassava AI
 url: https://www.cassava.ai/2026/03/05/cassava-technologies-announces-national-sovereign-cloud-to-support-secure-digital-infrastructure-for-african-governments/
 published: 2026-03-05
+date_precision: day
+date_source: source
 accessed: 2026-06-12
 ingested: 2026-07-10
 places: [XAF]
 topics: [dpi.govtech, gov.protect, tech.ai, infra.store, infra.capacity, capacity.training]
 entities: [[national-sovereign-cloud], [cassava-technologies], [cassava-ai]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- First-party launch: NSC for African governments (cloud, cyber, compute/AI, local-language

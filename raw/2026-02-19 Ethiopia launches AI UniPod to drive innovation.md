@@ -3,6 +3,8 @@ type: source
 title: "Ethiopia launches AI UniPod to drive innovation"
 publisher: Connecting Africa
 url: https://www.connectingafrica.com/ai/ethiopia-launches-ai-unipod-to-drive-innovation
+date_precision: day
+date_source: source
 author: Matshepo Sehloho
 published: 2026-02-19
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [ETH]
 topics: [tech.ai, tech.innovate, capacity.research, capacity.training]
 entities: [[ai-unipod-ethiopia], [ethiopian-ai-institute], [undp], [digital-ethiopia-2030]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- AI UniPod launched in Addis Ababa (Ethiopian AI Institute + Addis Ababa University + UNDP + Timbuktoo Initiative); under Digital Ethiopia 2030; Deputy PM framed sovereignty as 'owning our data, designing our algorithms'. -->

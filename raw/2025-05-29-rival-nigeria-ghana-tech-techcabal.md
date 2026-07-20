@@ -6,12 +6,14 @@ publisher: TechCabal
 published: 2025-05-29
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CPV-2026-07-17
 places: [CPV]
 topics: [tech.innovate, tech.industry, infra.connect]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 # Can Cape Verde challenge Nigeria and Ghana as West Africa's tech powerhouses?

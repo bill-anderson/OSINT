@@ -11,6 +11,7 @@ places: [DJI]
 topics: [dpi.govtech, dpi.pay, include.access]
 entities: [[vision-djibouti-2035], [djibouti-digital-code]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Djibouti begins one-stop G2B digital platform for businesses

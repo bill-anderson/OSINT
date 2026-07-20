@@ -7,6 +7,7 @@ topics: [gov.protect, gov.legislate, infra.cybersec, gov.regional]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-12
+sources: []
 ---
 
 # Malabo Convention

@@ -6,12 +6,14 @@ publisher: We Are Tech
 published: 2026-06-19
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 places: [DZA]
 topics: [dpi.govtech, dpi.registry, capacity.training, gov.standards, data.open]
 entities: [[ministry-of-higher-education-and-scientific-research-algeria], [national-certification-qualification-framework-algeria]]
 lens: []
+body_completeness: full
 ---
 
 # Algeria Digitizes Degree Recognition Through National Qualifications System

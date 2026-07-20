@@ -13,6 +13,7 @@ places: [COD]
 topics: [gov.protect, gov.legislate]
 entities: [[drc-digital-code]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- 7sur7.cd (Aug 2024): on 6 Aug 2024 in Kinshasa, think tank Law & Technologies presented a study on the DRC's personal-data-protection legal framework, stressing the need to OPERATIONALISE the Data Protection Authority required by Article 262 of the Digital Code (Loi 20/017). Calls on the government to draft/sign the decree defining the authority's organisation and functioning. The enforcement-gap flag: DRC has a Digital Code with a DP authority on paper, not yet operational — salient as the Trident/DRCPass 20-yr e-KYC concession proceeds. -->

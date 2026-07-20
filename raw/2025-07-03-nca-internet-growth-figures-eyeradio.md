@@ -3,6 +3,7 @@ type: source
 title: NCA reports huge internet growth in South Sudan (1.3m to 1.9m users; penetration 12% to 15.7%)
 url: https://www.eyeradio.org/nca-reports-huge-internet-growth-in-south-sudan/
 publisher: Eye Radio
+ingested: 2026-07-19
 author: Koang Chang
 published: 2025-07-03
 date_precision: day

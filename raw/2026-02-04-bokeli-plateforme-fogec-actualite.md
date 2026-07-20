@@ -6,12 +6,14 @@ publisher: ACTUALITE.CD
 published: 2026-02-04
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: COD-2026-07-17
 places: [COD]
 topics: [dpi.govtech, tech.ai, finance.new, tech.innovate]
 entities: [[fogec], [bokeli], [quantum-vertex], [laurent-munzemba-kompa], [suzanne-tumba], [felix-tshisekedi]]
 lens: []
+body_completeness: full
 ---
 
 Lancement de "Bokeli"

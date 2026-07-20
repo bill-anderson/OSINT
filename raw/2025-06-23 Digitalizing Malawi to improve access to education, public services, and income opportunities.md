@@ -12,6 +12,7 @@ places: [MWI]
 topics: [infra.connect, infra.store, dpi.exchange, dpi.govtech, capacity.training]
 entities: [[world-bank], [macra-malawi], [malawi-data-protection-act-2024]]
 lens: []
+body_completeness: full
 ---
 
 World Bank results brief on the Malawi Digital Foundations Project (Digital Malawi Program Phase 1, P160533; $72.4m IDA). Between 2017 and 2024 the project brought benefits to over 8.5 million citizens — nearly 7 million joining the digital economy as new internet users and ~3 million existing users gaining faster, cheaper access. Wholesale internet prices fell from ~$460/Mbit/s per month at project start to below $10; over 100 free public Wi-Fi spots and some 640 government sites were connected (target 400), and over 83,000 students across 81 institutions gained cheaper connectivity via MAREN. Over 19,000 youth (10,000 female) were trained in digital skills through 10 Tech Hubs.

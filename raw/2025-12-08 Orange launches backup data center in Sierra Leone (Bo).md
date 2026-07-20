@@ -12,6 +12,7 @@ places: [SLE]
 topics: [infra.store]
 entities: [[orange-sierra-leone], [orange]]
 lens: []
+body_completeness: full
 ---
 
 # Orange launches backup data center in Sierra Leone (Bo)

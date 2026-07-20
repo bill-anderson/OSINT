@@ -6,6 +6,7 @@ publisher: Mwananchi
 published: 2026-03-16
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [TZA]
 topics: [capacity.training, tech.ai, capacity.research]
 entities: []

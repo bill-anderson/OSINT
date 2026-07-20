@@ -12,6 +12,7 @@ places: [NGA, XWA, XAF]
 topics: [dpi.pay, dpi.id, dpi.exchange, gov.regional, gov.protect, finance.new]
 entities: [[odi-global], [afcfta-digital-trade-protocol], [papss], [gleif], [cbn]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Cross-border digital payments and identity in Nigeria under the AfCFTA

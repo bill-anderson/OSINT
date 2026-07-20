@@ -3,6 +3,8 @@ type: source
 title: "Liquid C2 becomes the first provider in Africa to support hybrid network connections to Google Cloud"
 publisher: Liquid C2
 url: https://liquid.tech/about-us/news/liquid-c2-becomes-the-first-provider-in-africa
+date_precision: day
+date_source: source
 author: Liquid C2
 published: 2024-06-06
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [XAF, XSS]
 topics: [infra.connect, infra.store, geopol.usa]
 entities: [[liquid-c2], [google], [liquid-c2-google-cloud-mou]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Backfill (2024-06): Liquid C2 became the first Google Cloud Interconnect provider in Africa (private low-latency direct connection). Part of the [[liquid-c2]] x Google Cloud thread. CEO Oswald Jumira. -->

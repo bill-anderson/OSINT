@@ -3,6 +3,9 @@ type: source
 title: "Communications électroniques: le projet de couverture de 750 zones blanches présenté aux acteurs de Nando"
 url: https://www.sidwaya.info/communications-electroniques-le-projet-de-couverture-de-750-zones-blanches-presente-aux-acteurs-de-nando/
 publisher: Sidwaya
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Beyon Romain Nébié et Didier Ouédraogo
 published: 2025-12-09
 date_precision: day

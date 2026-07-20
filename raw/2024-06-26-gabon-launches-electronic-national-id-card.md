@@ -12,6 +12,7 @@ places: [GAB]
 topics: [dpi.id]
 entities: [[thales]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 Gabonese citizens can now obtain the new Electronic National Identity Card, President of the Transition Brigadier General Brice Clotaire Oligui Nguema announced on Monday, 24 June 2024.

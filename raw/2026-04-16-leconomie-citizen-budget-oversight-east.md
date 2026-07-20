@@ -3,6 +3,9 @@ type: source
 title: "Finances publiques : La société civile de l'Est mobilisée pour mieux surveiller le budget citoyen 2026"
 url: https://leconomie.info/finances-publiques-la-societe-civile-de-lest-mobilisee-pour-mieux-surveiller-le-budget-citoyen-2026/
 publisher: Le quotidien L'Economie
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Jean Daniel Obama
 published: 2026-04-16
 date_precision: day

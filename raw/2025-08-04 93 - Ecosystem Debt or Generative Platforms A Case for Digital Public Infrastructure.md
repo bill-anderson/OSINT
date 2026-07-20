@@ -3,6 +3,8 @@ type: source
 title: "#93 - Ecosystem Debt or Generative Platforms? A Case for Digital Public Infrastructure"
 publisher: Frontier Fintech (Substack)
 url: https://frontierfintech.substack.com/p/93-ecosystem-debt-or-generative-platforms
+date_precision: day
+date_source: source
 author: Samora Kariuki
 published: 2025-08-04
 accessed: 2026-07-12
@@ -11,6 +13,7 @@ places: [NGA, EGY, GHA, ZAF, KEN, RWA, XGL]
 topics: [dpi.pay, dpi.id, dpi.exchange, gov.policy]
 entities: [[samora-kariuki], [ghana-card], [safaricom], [nibss], [sarb], [popia], [sa-digital-transformation-roadmap], [rwanda-dpi-strategy], [nimc]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- External expert analysis (Frontier Fintech). Frames DPI (identity + payments + data exchange) as a public good; contrasts "Ecosystem Debt" (closed platforms, e.g. M-Pesa) with "Generative Public Platforms" (India Stack, Brazil Pix); scores six African markets on a 1-5 DPI maturity rubric (Ghana 40/60 and South Africa 39/60 as leaders; Nigeria, Egypt, Kenya, Rwanda profiled). Scores are the author's own methodology — cite as Kariuki's framework, NOT an authoritative index. Attach: dpi.pay/dpi.id/dpi.exchange/gov.policy concepts; NGA/EGY/GHA/ZAF/KEN/RWA hubs. -->

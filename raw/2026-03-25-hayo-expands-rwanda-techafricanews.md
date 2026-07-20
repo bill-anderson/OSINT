@@ -3,6 +3,8 @@ type: source
 title: Hayo Expands to Rwanda to Power Digital Growth with Voice, Messaging, and eSIM Solutions
 url: https://techafricanews.com/2026/03/25/hayo-expands-to-rwanda-to-power-digital-growth-with-voice-messaging-and-esim-solutions/
 publisher: TechAfrica News
+ingested: 2026-07-19
+lens: []
 author: Akim Benamara
 published: 2026-03-25
 date_precision: day

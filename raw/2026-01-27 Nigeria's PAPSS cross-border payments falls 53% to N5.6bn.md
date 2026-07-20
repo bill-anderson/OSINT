@@ -3,6 +3,8 @@ type: source
 title: "Nigeria’s PAPSS cross-border payments falls 53% to N5.6bn"
 publisher: Vanguard
 url: https://www.vanguardngr.com/2026/01/nigerias-papss-cross-border-payments-falls-53-to-n5-6bn/
+date_precision: day
+date_source: source
 author: Urowayino Jeremiah
 published: 2026-01-27
 accessed: 2026-07-12
@@ -11,6 +13,7 @@ places: [NGA]
 topics: [dpi.pay]
 entities: [[papss], [papsscard], [cbn], [afreximbank], [afcfta], [african-union]]
 lens: [sovereignty]
+body_completeness: full
 ---
 <!-- CONTRADICTION-WATCH: negative trend vs bullish PAPSS narrative — record, don't overwrite. Per CBN Financial Stability Report (30 Jun 2025): NG PAPSS value N5.6bn H1'25 vs N11.97bn H1'24 (−53%); txns 3,246 vs 4,600 (−29%). Nigeria = top PAPSS participant, 22+ integrated banks. PAPSSCARD launched (Afreximbank + Mercury Payment Services; PAPSS CEO Mike Ogbalu III, PAPSSCARD acting CEO John Bosco Sebabi). ATTACH-ONLY to papss; NGA hub; papsscard (new). -->
 [Columns](https://www.vanguardngr.com/category/columns/)

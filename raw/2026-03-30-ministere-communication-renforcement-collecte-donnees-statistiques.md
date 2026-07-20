@@ -3,6 +3,9 @@ type: source
 title: "Système collecte de données statistiques: le ministère en charge de la communication explore les pistes de renforcement du dispositif"
 url: https://www.sidwaya.info/systeme-collecte-de-donnees-statistiques-le-ministere-en-charge-de-la-communication-explore-les-pistes-de-renforcement-du-dispositif/
 publisher: Sidwaya
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Valentin KABORE
 published: 2026-03-30
 date_precision: day

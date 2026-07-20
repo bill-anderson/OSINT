@@ -6,6 +6,7 @@ publisher: ITWeb Africa
 published: 2026-01-14
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [NGA]
 topics: [tech.ai, gov.legislate]
 entities: [[nitda]]

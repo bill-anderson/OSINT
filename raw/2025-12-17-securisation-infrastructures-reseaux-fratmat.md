@@ -6,12 +6,14 @@ publisher: Fraternité Matin
 published: 2025-12-17
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [infra.connect, gov.legislate]
 entities: [[ihs-cote-divoire], [artci]]
 lens: []
+body_completeness: full
 ---
 
 # Infrastructures des réseaux de communication électronique: Les acteurs du secteur à la recherche d'une protection durable

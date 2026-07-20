@@ -3,6 +3,9 @@ type: source
 title: BoFiNet invests P100m in upgrading Botswana's internet gateway
 url: https://www.mmegi.bw/business/bofinet-invests-p100m-in-upgrading-botswanas-internet-gateway/news
 publisher: Mmegi
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Staff Writer
 published: 2025-04-16
 date_precision: day

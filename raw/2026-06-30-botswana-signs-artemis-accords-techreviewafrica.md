@@ -3,6 +3,7 @@ type: source
 title: Botswana joins Artemis Accords as 68th Signatory
 url: https://techreviewafrica.com/news/6126/botswana-joins-artemis-accords-as-68th-signatory
 publisher: Tech Review Africa
+ingested: 2026-07-18
 author: Nana Appiah Acquaye
 published: 2026-06-30
 date_precision: day
@@ -13,6 +14,7 @@ places: [BWA]
 topics: [data.satellite, geopol.usa, gov.regional]
 entities: [[artemis-accords], [nasa], [david-tshere], [botsat-1]]
 lens: [sovereignty]
+body_completeness: full
 pr_wire: true   # Tech Review Africa is a byline-light PR wire (README source table); verify against the primary at ingest
 ---
 

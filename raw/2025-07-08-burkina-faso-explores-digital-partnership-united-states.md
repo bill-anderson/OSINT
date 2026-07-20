@@ -3,6 +3,7 @@ type: source
 title: Burkina Faso Explores Digital Partnership with the United States
 url: https://www.wearetech.africa/en/fils-uk/news/public-management/burkina-faso-explores-digital-partnership-with-the-united-states
 publisher: We Are Tech Africa
+ingested: 2026-07-18
 author: Isaac K. Kassouwi
 published: 2025-07-08
 date_precision: day
@@ -13,6 +14,7 @@ places: [BFA]
 topics: [geopol.usa, finance.mou, infra.cybersec, infra.store]
 entities: [[ministry-of-digital-transition-burkina-faso], [aminata-zerbo-sabane], [joann-lockard], [pactdigital]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Burkina Faso Explores Digital Partnership with the United States

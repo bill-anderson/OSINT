@@ -3,6 +3,7 @@ type: source
 title: Flutterwave expands further with license in Cameroon
 url: https://www.connectingafrica.com/fintech/flutterwave-expands-further-with-license-in-cameroon
 publisher: Connecting Africa
+ingested: 2026-07-18
 author: Paula Gilbert
 published: 2025-06-23
 date_precision: day
@@ -11,6 +12,7 @@ places: [CMR, XCA]
 topics: [dpi.pay, gov.legislate, tech.industry, include.access, gov.regional]
 entities: [[flutterwave], [ecobank], [beac]]
 lens: []
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: CMR-2026-07-17
 ---

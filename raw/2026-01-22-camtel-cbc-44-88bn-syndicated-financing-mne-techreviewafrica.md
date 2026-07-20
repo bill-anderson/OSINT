@@ -3,6 +3,7 @@ type: source
 title: CAMTEL and CBC secure FCFA 44.88 billion financing for Mobile Network Expansion
 url: https://techreviewafrica.com/news/3683
 publisher: Tech Review Africa
+ingested: 2026-07-18
 author: Nana Appiah Acquaye
 published: 2026-01-22
 date_precision: day
@@ -11,6 +12,7 @@ places: [CMR]
 topics: [finance.new, infra.connect, tech.industry, include.access, include.divides, dpi.govtech]
 entities: [[camtel], [commercial-bank-cameroun]]
 lens: []
+body_completeness: full
 provenance_flag: pr-wire
 provenance_note: >
   Tech Review Africa is a PR-wire outlet; this reads as CAMTEL/CBC announcement copy.

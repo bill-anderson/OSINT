@@ -4,11 +4,14 @@ title: "Government data silos threaten Nigeria's AI ambitions"
 url: https://techcabal.com/2026/06/17/why-nigerias-ai-future-depends-on-breaking-government-data-silos/
 publisher: TechCabal
 published: 2026-06-17
+date_precision: day
+date_source: source
 ingested: 2026-07-10
 places: [NGA]
 topics: [dpi.exchange, dpi.id, gov.standards, tech.ai, gov.protect, gov.policy, dpi.govtech]
 entities: [[nitda], [ndpc], [nimc], [cbn], [meta]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 Eight major government agencies hold some of Nigeria’s most valuable datasets on citizens. But these databases remain siloed, with little interoperability or data sharing. Industry experts say that unless this changes, Nigeria’s push to become a leading artificial intelligence power in Africa could struggle before it truly begins.

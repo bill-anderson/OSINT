@@ -13,6 +13,7 @@ places: [AGO]
 topics: [gov.policy, infra.connect, dpi.govtech]
 entities: [[livro-branco-tic-angola-2023-2027]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Law-firm briefing summarising Angola's ICT White Paper (LBTIC 2023-2027, "Livro Branco das TIC"), approved 5 Dec 2024, repealing the 2019-2022 White Paper. Sets the ICT sector's political/strategic measures, nested under ELP Angola 2050, PDN 2023-2027, AU Agenda 2063, ITU Connect 2030 and SADC Digital 2027. Ministry: MINTTICS. Draft went to public consultation Mar 2024. Five 2027 objectives incl. faster/cheaper communications and strategic ICT-infrastructure investment. The umbrella policy over Angola's digital-acceleration agenda (national DC/cloud, PADA/IDEA). Mine for the primary LBTIC decree where a specific provision is needed. -->

@@ -3,6 +3,7 @@ type: source
 title: With Rwanda's New Digital ID, You Will Control Everything Anyone Sees
 url: https://www.ktpress.rw/2026/05/with-rwandas-new-digital-id-you-will-control-everything-anyone-sees/
 publisher: KT Press
+ingested: 2026-07-19
 author: Stephen Kamanzi
 published: 2026-05-26
 date_precision: day

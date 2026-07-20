@@ -6,12 +6,14 @@ publisher: The Point
 published: 2026-01-21
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: GMB-2026-07-17
 places: [GMB]
 topics: [dpi.id, finance.new]
 entities: [[gambia-national-id-contract], [margins-id-group]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Gov't signs ID Card deal with Margins ID Systems Applications Ltd

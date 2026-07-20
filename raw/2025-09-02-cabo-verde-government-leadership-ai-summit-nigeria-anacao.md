@@ -6,10 +6,12 @@ publisher: A Nação
 published: 2025-09-02
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [CPV, NGA]
 topics: [tech.ai, gov.regional, tech.innovate, capacity.training]
 entities: [[pedro-lopes], [gov-cv], [she-code-ai], [digital-africa-corridor]]
 lens: []
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: CPV-2026-07-17
 ---

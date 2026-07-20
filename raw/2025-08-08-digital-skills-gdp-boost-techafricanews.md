@@ -6,12 +6,14 @@ publisher: TechAfrica News
 published: 2025-08-08
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CPV-2026-07-17
 places: [CPV]
 topics: [capacity.training, capacity.literacy, include.divides]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 # Cape Verde Eyes GDP Boost Through Stronger Digital Skills

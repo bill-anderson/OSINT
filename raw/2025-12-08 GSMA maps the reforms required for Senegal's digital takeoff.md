@@ -11,6 +11,7 @@ places: [SEN]
 topics: [infra.connect, dpi.pay, gov.policy, gov.legislate, include.divides, infra.energy]
 entities: [[gsma], [new-deal-technologique]]
 lens: []
+body_completeness: full
 ---
 
 # GSMA maps the reforms required for Senegal's digital takeoff

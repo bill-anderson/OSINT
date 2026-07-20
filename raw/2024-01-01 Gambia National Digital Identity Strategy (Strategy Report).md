@@ -12,6 +12,7 @@ places: [GMB]
 topics: [dpi.id, gov.policy, gov.protect]
 entities: [[gambia-national-digital-id-strategy], [gicta]]
 lens: []
+body_completeness: full
 artefact: "2024-01-01 Gambia National Digital Identity Strategy (Strategy Report).pdf"
 ---
 

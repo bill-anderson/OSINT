@@ -3,6 +3,8 @@ type: source
 title: "FIJ Showed That INEC Broke Data Law. Digital Rights Lawyers Sue the Commission 10 Months Later"
 publisher: Foundation for Investigative Journalism (FIJ)
 url: https://fij.ng/article/fij-showed-that-inec-broke-data-law-digital-rights-lawyers-sue-the-commission-10-months-later/
+date_precision: day
+date_source: source
 author: Timileyin Akinmoyeje
 published: 2026-07-10
 accessed: 2026-07-12
@@ -11,6 +13,7 @@ places: [NGA]
 topics: [gov.protect, gov.legislate, dpi.registry]
 entities: [[inec], [digital-rights-lawyers-initiative], [nigeria-data-protection-act-2023], [ndpc], [nimc]]
 lens: [sovereignty]
+body_completeness: full
 ---
 <!-- DRLI + lawyer Solomon Etisang sued INEC (Federal High Court, Yenagoa; counsel Olumide Babalola) for failing to publish a website privacy policy — alleged NDPA 2023 ss.24(1)(a)/24(3)/27(1) + Constitution s.37 breach. Follows FIJ's Oct 2025 report; May 2025 Olayinka voter-record leak. Distinct from ndpc-meta-settlement. Attach: NGA hub, nigeria--gov-protect, inec (new), digital-rights-lawyers-initiative (new). -->
 

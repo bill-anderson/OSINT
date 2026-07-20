@@ -13,6 +13,7 @@ places: [MAR]
 topics: [dpi.pay, gov.policy, include.access, finance.new]
 entities: [[world-bank]]
 lens: []
+body_completeness: full
 ---
 
 <!-- WB Program Document (Report PGD168) for a proposed Development Policy Loan of EUR 459.8m (~US$500m) to Morocco for the First Financial and Digital Inclusion Development Policy Financing (26 May 2020). Finance/Competitiveness/Innovation + Digital Development + Macro/Trade Global Practices, MENA Region. Reference: the WB DPF operation underpinning Morocco's financial + digital inclusion reforms (a baseline behind the later social-protection registry + Digital Morocco 2030 agenda). -->

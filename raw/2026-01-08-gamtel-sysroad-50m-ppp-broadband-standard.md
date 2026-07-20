@@ -6,12 +6,14 @@ publisher: The Standard
 published: 2026-01-08
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: GMB-2026-07-17
 places: [GMB]
 topics: [infra.connect, finance.new, tech.industry]
 entities: []
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # GAMTEL, SYSROAD sign $50M PPP to modernise Gambia's broadband network

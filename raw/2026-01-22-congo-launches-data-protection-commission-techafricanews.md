@@ -3,6 +3,7 @@ type: source
 title: Congo Launches Commission to Strengthen Personal Data Protection and Digital Governance
 url: https://techafricanews.com/2026/01/22/congo-launches-commission-to-strengthen-personal-data-protection-and-digital-governance/
 publisher: TechAfrica News
+ingested: 2026-07-18
 author: Joyce Onyeagoro
 published: 2026-01-22
 date_precision: day
@@ -11,6 +12,7 @@ places: [COG]
 topics: [gov.protect, gov.legislate, gov.standards, dpi.govtech]
 entities: [[national-personal-data-protection-commission-congo]]
 lens: [sovereignty]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: COG-2026-07-17
 ---

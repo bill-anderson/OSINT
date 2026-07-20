@@ -3,6 +3,8 @@ type: source
 title: "Europe Wrote The World’s Most Advanced AI Law. The EU AI Act."
 publisher: africaintheroom.substack.com (Africa in the Room)
 url: https://africaintheroom.substack.com/p/europe-wrote-the-worlds-most-advanced
+date_precision: day
+date_source: source
 author: Zuria Nagadya
 published: 2026-05-18
 accessed: 2026-07-12
@@ -11,6 +13,7 @@ places: [XAF, KEN, NGA, ZAF, UGA, GHA]
 topics: [tech.ai, gov.legislate, geopol.eu, gov.protect]
 entities: [[zuria-nagadya], [eu-ai-act], [european-union], [rwanda-national-ai-agency], [cbn]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Nagadya: explainer/advocacy on how the EU AI Act's extraterritorial "where the output lands" reach already binds African businesses; walks the four risk tiers, the 2025-02-02 prohibited-practice bans and 2026-08-02 high-risk enforcement date, and argues Africa should extend (not copy) the risk-based model with informal-economy, language-accuracy and communal-redress provisions. Popular register (sells an "AI Readiness Audit") but named-author analysis. Attach: eu-ai-act, european-union, tech.ai/geopol.eu. -->

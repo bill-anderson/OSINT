@@ -3,6 +3,7 @@ type: source
 title: "Zenzri lors d'un conseil ministériel: 2026, année du démarrage effectif de la \"digitalisation complète\" de l'administration"
 url: https://pm.gov.tn/fr/decision-gouvernementale/zenzri-lors-dun-conseil-ministeriel-2026-annee-du-demarrage-effectif-de-la
 publisher: Portail de la Présidence du Gouvernement – Tunisie (pm.gov.tn)
+lens: []
 lang: fr
 published: 2026-02-13
 date_precision: day

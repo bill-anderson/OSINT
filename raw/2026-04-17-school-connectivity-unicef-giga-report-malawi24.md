@@ -6,6 +6,7 @@ publisher: Malawi24
 published: 2026-04-17
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [MWI]
 topics: [infra.connect, include.divides, include.access, capacity.training]
 entities: [[undp]]

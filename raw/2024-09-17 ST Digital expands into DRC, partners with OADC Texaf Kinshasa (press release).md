@@ -13,6 +13,7 @@ places: [COD, CMR]
 topics: [infra.store, infra.connect]
 entities: [[st-digital], [oadc-texaf-digital]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- COMPANION SOURCE PAGE for binary raw/2024-09-17 ST Digital expands into DRC, partners with OADC Texaf Kinshasa (press release).pdf (2pp). ST Digital press release (17 Sep 2024): the Cameroon-HQ African cloud provider expands into the DRC, partnering with OADC Texaf (Kinshasa) to drive content delivery. Extends the ST Digital regional footprint (Cameroon/Gabon/CIV/Togo → DRC) documented in the CMR/CIV batch. Cross-links [[st-digital]]. -->

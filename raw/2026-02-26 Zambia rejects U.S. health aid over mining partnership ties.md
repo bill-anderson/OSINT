@@ -3,6 +3,8 @@ type: source
 title: "Zambia rejects U.S. health aid over mining partnership ties"
 publisher: Africanews
 url: https://www.africanews.com/2026/02/26/zambia-rejects-us-health-aid-over-mining-partnership-ties/
+date_precision: day
+date_source: source
 author: Africanews
 published: 2026-02-26
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [ZMB, ZWE, KEN]
 topics: [geopol.usa, gov.protect, finance.mou, gov.policy]
 entities: [[zambia-us-health-mou], [america-first-global-health-strategy], [africa-cdc], [zimbabwe-us-health-mou]]
 lens: [sovereignty, colonialism]
+body_completeness: full
 ---
 
 <!-- Zambia halted a proposed $1bn/5yr US health deal over clauses tying aid to copper/cobalt access; Hichilema requested 'revisions'. Zimbabwe rejected its $367m agreement over instant pathogen-data-access. Africa CDC's Kaseya backs renegotiation ('We want to own our data in Africa'). Kenya's High Court froze its deal. Corroborates the $367m Zimbabwe figure. -->

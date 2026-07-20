@@ -11,6 +11,7 @@ places: [EGY]
 topics: [dpi.mis, dpi.govtech, include.access]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 # Egypt to launch digital platform for social insurance (40 initial services)

@@ -3,6 +3,8 @@ type: source
 title: "Orange Côte d'Ivoire intros satellite broadband"
 publisher: ITWeb Africa
 url: https://itweb.africa/article/orange-cote-divoire-intros-satellite-broadband/lwrKx73YLdRqmg1o
+date_precision: day
+date_source: source
 author: Lezeth Khoza
 published: 2026-01-22
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [CIV]
 topics: [infra.connect, digital.rural, include.divides, data.satellite]
 entities: [[orange], [orange-cote-divoire], [orange-sat], [eutelsat]]
 lens: []
+body_completeness: excerpt
 ---
 
 <!-- Orange Côte d'Ivoire + Eutelsat launched satellite broadband (Eutelsat KONNECT) for rural areas beyond 4G/fibre; complements fibre/mobile portfolio. (Companion to the 'Orange Sat' launch item.) -->

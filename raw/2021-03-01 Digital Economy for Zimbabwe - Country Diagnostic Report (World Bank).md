@@ -7,6 +7,8 @@ published: 2021-03-01
 date_precision: month
 date_source: source
 ingested: 2026-07-17
+lens: []
+body_completeness: full
 artefact: "2021-03-01 Digital Economy for Zimbabwe - Country Diagnostic Report (World Bank).pdf"
 places: [ZWE]
 topics: [gov.policy, infra.connect, dpi.govtech, tech.industry, dpi.pay]

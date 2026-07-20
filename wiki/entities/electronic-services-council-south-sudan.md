@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: government-body
 title: Electronic Services Council — South Sudan
 places: [SSD]

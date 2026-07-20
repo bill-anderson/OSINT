@@ -1,9 +1,13 @@
 ---
 type: source
+date_precision: day
+date_source: source
 places: [RWA]
 topics: [dpi.mis, dpi.registry, dpi.id]
 entities: [[nida-rwanda], [nisr], [irembo]]
 ingested: 2026-07-16
+lens: []
+body_completeness: full
 page: 
 title: Interoperability of CRVS and EIR systems for improved EPI management in Rwanda
 author: Max Krafft

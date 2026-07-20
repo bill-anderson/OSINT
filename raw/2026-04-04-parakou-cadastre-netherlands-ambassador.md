@@ -3,6 +3,9 @@ type: source
 title: "Sécurisation foncière à Parakou : L'ambassadeur du Royaume des Pays-Bas préoccupé par les défis à relever"
 url: https://fraternite.bj/securisation-fonciere-a-parakou-lambassadeur-du-royaume-des-pays-bas-preoccupe-par-les-defis-a-relever/
 publisher: Fraternité
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Isac YAI
 published: 2026-04-04
 date_precision: day

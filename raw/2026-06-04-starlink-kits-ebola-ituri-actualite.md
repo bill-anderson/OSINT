@@ -6,12 +6,14 @@ publisher: ACTUALITE.CD
 published: 2026-06-04
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: COD-2026-07-17
 places: [COD]
 topics: [infra.connect, include.access, data.statistics]
 entities: [[starlink], [africa-cdc], [jean-kaseya]]
 lens: []
+body_completeness: full
 ---
 
 Jeudi 4 juin 2026 - 15:34

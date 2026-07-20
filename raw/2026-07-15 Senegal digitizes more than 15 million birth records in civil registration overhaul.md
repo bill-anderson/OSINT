@@ -13,6 +13,7 @@ places: [SEN]
 topics: [dpi.registry, dpi.id, dpi.govtech]
 entities: [[anec-senegal]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Africa Business Insight, 15 Jul 2026 (via APA). Senegal's ANEC digitised 15.3m civil-registration

@@ -3,6 +3,9 @@ type: source
 title: Telecel deploys 300 telecom sites in Burkina Faso
 url: https://www.connectingafrica.com/connectivity/telecel-deploys-300-telecom-sites-in-burkina-faso
 publisher: Connecting Africa
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Matshepo Sehloho
 published: 2025-12-11
 date_precision: day

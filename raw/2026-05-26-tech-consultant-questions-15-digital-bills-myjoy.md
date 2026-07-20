@@ -6,12 +6,14 @@ publisher: MyJoyOnline
 published: 2026-05-26
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: GHA-2026-07-17
 places: [GHA]
 topics: [gov.legislate, gov.policy]
 entities: [[nita-ghana], [samuel-nartey-george]]
 lens: []
+body_completeness: full
 ---
 
 # What are they hiding? – Tech consultant questions rush for 15 digital bills

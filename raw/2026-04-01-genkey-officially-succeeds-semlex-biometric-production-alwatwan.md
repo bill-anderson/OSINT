@@ -6,10 +6,12 @@ publisher: Al-Watwan
 published: 2026-04-01
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [COM]
 topics: [dpi.id, gov.protect, gov.standards, include.access]
 entities: [[genkey], [semlex], [ministry-of-interior-comoros]]
 lens: [sovereignty]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: COM-2026-07-17
 ---

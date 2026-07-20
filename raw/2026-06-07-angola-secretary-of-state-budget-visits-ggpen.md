@@ -3,6 +3,8 @@ type: source
 title: Angola's Secretary of State for Budget visits National Space Programme Management Office
 url: https://techreviewafrica.com/news/5832/angolas-secretary-of-state-for-budget-visits-national-space-programme-management-office
 publisher: Tech Review Africa
+lens: []
+body_completeness: full
 author: Nana Appiah Acquaye
 published: 2026-06-07
 date_precision: day

@@ -2,6 +2,8 @@
 type: source
 title: "Africa, we have a data problem"
 publisher: Data Landscapers
+date_precision: day
+date_source: source
 author: [[bill]]
 url: https://data-landscapers.com/2026/03/31/africa-data-problem/
 published: 2026-03-31
@@ -11,6 +13,7 @@ places: [XAF, XSS, ZWE]
 topics: [digital.rural, data.statistics, dpi.id, dpi.mis, dpi.govtech, include.divides, capacity.literacy, gov.policy]
 entities: [[bill], [data-landscapers]]
 lens: [sovereignty, colonialism]
+body_completeness: full
 ---
 
 <!-- EXPERT ANALYSIS (Data Landscapers, author [[bill]]). Systematic 54-country review: rural

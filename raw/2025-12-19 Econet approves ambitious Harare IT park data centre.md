@@ -3,6 +3,8 @@ type: source
 title: Econet approves ambitious Harare IT park, data centre
 url: https://itweb.africa/article/econet-approves-ambitious-harare-it-park-data-centre/RgeVDMPRgo1vKJN3
 publisher: ITWeb Africa
+lens: []
+body_completeness: full
 author: Tawanda Karombo
 published: 2025-12-19
 date_precision: day

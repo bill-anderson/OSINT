@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: government-body
 title: Ministry of Lands, Housing and Urban Development (MLHUD), Uganda
 places: [UGA]

@@ -3,6 +3,9 @@ type: source
 title: BOCRA leads IPv6 training initiative to strengthen Botswana's digital infrastructure
 url: https://techreviewafrica.com/news/5530/bocra-leads-ipv6-training-initiative-to-strengthen-botswanas-digital-infrastructure
 publisher: Tech Review Africa
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Nana Appiah Acquaye
 published: 2026-05-21
 date_precision: day

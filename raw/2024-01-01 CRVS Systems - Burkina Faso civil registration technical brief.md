@@ -13,6 +13,7 @@ places: [BFA]
 topics: [dpi.id, dpi.registry]
 entities: [[veneem]]
 lens: []
+body_completeness: full
 ---
 
 <!-- COMPANION SOURCE PAGE for binary raw/2024-01-01 CRVS Systems - Burkina Faso civil registration technical brief.pdf (10pp; date proxied to year). Technical brief on Burkina Faso's civil registration, incl. continuity during the COVID-19 crisis (civil registration declared an essential service from 9 Mar 2020, staff rotation under lockdown). Reference context for the CRVS foundation ([[veneem]], unique identifier) beneath the ID stack. -->

@@ -3,6 +3,8 @@ type: source
 title: "South Africa Marks New Era in Satellite Connectivity with Space42 Thuraya-4 Launch"
 publisher: Tech Africa News
 url: https://techafricanews.com/2026/02/09/
+date_precision: day
+date_source: source
 author: Jennifer Onyeagoro
 published: 2026-02-09
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [ZAF, XAF]
 topics: [infra.connect, data.satellite, geopol.gulf]
 entities: [[space42], [thuraya-4]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Space42 (UAE) launched Thuraya-4 mobile satellite services in South Africa (Johannesburg, under Ramaphosa's patronage); claims first mobile satellite coverage of the whole continent; announced 'Map Africa' geospatial initiative. Gulf tech presence. Entities [[space42]], [[thuraya-4]]. -->

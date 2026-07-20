@@ -3,6 +3,8 @@ type: source
 title: "How Strategic  Shift of NIBSS Is  Rewiring Nigeria’s Payments System"
 publisher: ThisDay
 url: https://www.thisdaylive.com/2026/02/02/how-strategic-shift-of-nibss-is-rewiring-nigerias-payments-system/
+date_precision: day
+date_source: source
 author: Nume Ekeghe
 published: 2026-02-02
 accessed: 2026-07-12
@@ -11,6 +13,7 @@ places: [NGA, XAF]
 topics: [dpi.pay, dpi.exchange, gov.standards, include.access, gov.regional]
 entities: [[nibss], [national-payment-stack], [cbn], [africanenda], [papss], [nimc]]
 lens: []
+body_completeness: full
 ---
 <!-- DATE: publication ~2026-02-02 (URL path); anchor event = first NPS live txn 2025-11-07 11:56am (PalmPay→Wema, instant, ISO 20022). NIBSS unveils National Payment Stack (payments+identity+data; BVN/TIN/RC KYC; multi-currency); NIP fees N5→N3.75 (Jul 2023)→N2 (Jan 2026), goal zero-rated; NIP first African instant-payment system rated "Mature" on AfricaNenda spectrum; 20+ African central banks at Lagos unveiling. Attach: NGA hub, nibss (new), national-payment-stack (new). -->
 *Nigeria Inter-Bank Settlement System has stabilised Nigeria’s payment ecosystem by eliminating the dreaded ‘Christmas Freeze’ and also positioned the country as a continental leader in digital finance, writes Nume Ekeghe*

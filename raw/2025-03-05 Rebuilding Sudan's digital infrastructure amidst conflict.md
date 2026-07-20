@@ -12,6 +12,7 @@ places: [SDN]
 topics: [dpi.pay, infra.connect, gov.policy, include.access]
 entities: [[magdi-amin], [bank-of-khartoum], [mojaloop]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Rebuilding Sudan's digital infrastructure amidst conflict

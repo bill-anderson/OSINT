@@ -6,6 +6,7 @@ publisher: ITWeb Africa
 published: 2026-06-05
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [KEN]
 topics: [infra.store, tech.ai, gov.policy]
 entities: [[john-tanui], [konza-technopolis], [oracle]]

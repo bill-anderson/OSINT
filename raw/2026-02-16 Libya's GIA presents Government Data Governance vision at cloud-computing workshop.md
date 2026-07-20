@@ -13,6 +13,7 @@ places: [LBY]
 topics: [gov.policy, dpi.exchange, infra.store]
 entities: [[gia-libya], [gaci-libya]]
 lens: []
+body_completeness: full
 ---
 
 <!-- 15 Feb 2026: GIA participated in a GACI workshop "The Future Vision for Data and Cloud Computing Services" (Tripoli), supporting the national comms strategy to develop digital infrastructure. GIA's Eng. Ayoub Al-Shweikh (Director, National Information System Dept) + Eng. Hussam Al-Rabti presented "Government Data Governance Policies" — treating data as a strategic resource for informed decisions. Context: GIA recently launched indicators covering 91 datasets via its Open Data Platform; preparing the 2025 Seventh National Human Development Report with UNDP. -->

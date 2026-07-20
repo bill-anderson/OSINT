@@ -3,8 +3,10 @@ type: source
 title: "RETRACTION: Ghana's National ID cards can now make payments"
 publisher: TechCabal
 url: https://techcabal.com/2026/04/01/ghana-card-can-now-make-payments/
+date_source: source
 author: Editorial Team
 published: 2026-04-01
+date_precision: day
 accessed: 2026-07-11
 ingested: 2026-07-11
 places: [GHA]

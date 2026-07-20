@@ -5,6 +5,9 @@ publisher: Independent National Electoral Commission (INEC)
 published: 2025-07-01
 date_precision: month
 date_source: source
+ingested: 2026-07-17
+lens: []
+body_completeness: full
 accessed: 2026-07-16
 places: [NGA]
 topics: [dpi.id, dpi.govtech, gov.standards]

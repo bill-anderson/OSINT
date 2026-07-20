@@ -4,12 +4,15 @@ title: "Digital Africa post the pandemic: Ghana report"
 publisher: Research ICT Africa
 url: https://researchictafrica.net/research/digital-africa-post-the-pandemic-ghana-report/
 published: 2025-10-08
+date_precision: day
+date_source: source
 accessed: 2026-07-12
 ingested: 2026-07-12
 places: [GHA]
 topics: [include.divides, include.access, dpi.pay, gov.policy, infra.connect]
 entities: [[after-access], [research-ict-africa]]
 lens: []
+body_completeness: full
 ---
 <!-- RIA After Access 2022 Ghana country report: internet access, digital literacy, gender inclusion, mobile-money participation vs 2012/2018 waves; persistent urban/rural + gender gaps. Reference figures stay on the After Access resource — do not promote into concept pages. Attach: [[after-access]] + [[research-ict-africa]]. -->
 

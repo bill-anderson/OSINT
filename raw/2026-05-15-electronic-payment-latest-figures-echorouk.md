@@ -1,6 +1,7 @@
 ---
 type: source
 title: Paiement électronique : Voici les derniers chiffres
+ingested: 2026-07-18
 title_en: Finance Minister gives latest e-payment figures (22m cards, 104k TPE)
 url: https://www.echoroukonline.com/paiement-electronique-voici-les-derniers-chiffres
 publisher: Echorouk El Yawmi
@@ -14,6 +15,7 @@ places: [DZA]
 topics: [dpi.pay, include.divides, data.statistics]
 entities: [[abdelkrim-bouzred, ministere-des-finances, algerie-poste]]
 lens: []
+body_completeness: full
 ---
 
 # Paiement électronique : Voici les derniers chiffres

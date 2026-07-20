@@ -3,6 +3,8 @@ type: source
 title: "First look: Full Text of the America First Global Health Strategy Specimen Sharing Agreement"
 publisher: Emily Bass (Substack)
 url: https://emilysbass.substack.com/p/first-look-full-text-of-america-first
+date_precision: day
+date_source: source
 author: Emily Bass
 published: 2025-11-21
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [XSS, ZMB, ZWE, KEN]
 topics: [gov.protect, gov.legislate, geopol.usa, data.statistics]
 entities: [[specimen-sharing-agreement], [america-first-global-health-strategy], [africa-cdc]]
 lens: [sovereignty, colonialism]
+body_completeness: full
 ---
 
 <!-- Reproduces the FULL PRIMARY TEXT of the AFGHS model Specimen Sharing Agreement (annex to the MOU): no reciprocity; country shares specimens within 5 days on US request; US may onward-share to up to 10 non-USG entities; 25-year duration. A key primary doc. Instrument [[specimen-sharing-agreement]] tied to [[america-first-global-health-strategy]]. -->

@@ -3,6 +3,8 @@ type: source
 title: "New report highlights urgent need to rebuild and sustain health data systems"
 publisher: DHIS2 (HISP Centre, University of Oslo)
 url: https://dhis2.org/report-highlights-need-to-sustain-health-data-systems/
+date_precision: day
+date_source: source
 author: Ellen Summey
 published: 2025-11-05
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [XSS, XGL]
 topics: [dpi.mis, data.statistics, finance.new]
 entities: [[dhis2], [open-data-watch], [hisp-centre]]
 lens: []
+body_completeness: full
 ---
 
 <!-- On the Open Data Watch report 'Rebuilding Global Health Data: Scale, Risks, and Paths to Recovery': >75 LMICs rely on DHIS2 as national HMIS (>40% of world population). Three risks: over-reliance on donor funding, weak domestic financing/governance, insufficient country coordination. Recommends permanent govt-funded HMIS/CRVS roles in recurrent budgets. -->

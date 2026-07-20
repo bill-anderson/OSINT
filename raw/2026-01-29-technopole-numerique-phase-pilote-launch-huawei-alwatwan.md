@@ -6,10 +6,12 @@ publisher: Al-Watwan
 published: 2026-01-29
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [COM]
 topics: [tech.innovate, capacity.training, dpi.govtech, geopol.china]
 entities: [[huawei], [university-of-comoros], [ministry-of-posts-telecoms-comoros], [anaden]]
 lens: [sovereignty]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: COM-2026-07-17
 ---

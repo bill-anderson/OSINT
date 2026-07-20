@@ -3,6 +3,9 @@ type: source
 title: "Burundi Launches #ABREMA: Fully Digital Platform for Pharmaceutical Imports"
 url: https://techafricanews.com/2026/02/19/burundi-launches-abrema-fully-digital-platform-for-pharmaceutical-imports/
 publisher: TechAfrica News
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Jennifer Onyeagoro
 published: 2026-02-19
 date_precision: day

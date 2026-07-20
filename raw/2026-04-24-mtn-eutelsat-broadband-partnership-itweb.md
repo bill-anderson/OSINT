@@ -6,12 +6,14 @@ publisher: ITWeb Africa
 published: 2026-04-24
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [infra.connect, digital.rural, include.access]
 entities: [[mtn-cote-divoire], [eutelsat], [starlink], [orange-cote-divoire], [bayobab]]
 lens: []
+body_completeness: full
 ---
 
 By Nsuku Khosa, ITWeb intern. Johannesburg, 24 Apr 2026.

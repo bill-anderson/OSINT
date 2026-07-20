@@ -3,6 +3,8 @@ type: source
 title: Fintechs expanding between Kenya and Rwanda may soon need one licence
 url: https://techcabal.com/2026/03/12/fintechs-expanding-between-kenya-and-rwanda-may-soon-need-one-licence/
 publisher: TechCabal
+ingested: 2026-07-19
+lens: []
 author: Kenn Abuya
 published: 2026-03-12
 date_precision: day

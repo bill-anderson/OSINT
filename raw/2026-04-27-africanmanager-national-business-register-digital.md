@@ -6,6 +6,7 @@ publisher: African Manager
 published: 2026-04-27
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [TUN]
 topics: [dpi.registry, dpi.govtech, dpi.id]
 entities: [[national-business-register-tunisia], [e-houwiya]]

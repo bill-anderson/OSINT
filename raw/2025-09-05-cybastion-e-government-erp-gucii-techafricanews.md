@@ -6,12 +6,14 @@ publisher: TechAfrica News
 published: 2025-09-05
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [dpi.govtech, dpi.registry, dpi.mis, geopol.usa, gov.policy]
 entities: [[cybastion], [ministry-of-commerce-and-industry-cote-divoire], [gucii]]
 lens: []
+body_completeness: full
 ---
 
 # Côte d'Ivoire Partners with Cybastion to Drive E-Government Reforms Through Digital Solutions

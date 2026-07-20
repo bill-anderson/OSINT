@@ -3,14 +3,17 @@ type: source
 title: "US tech giant from Silicon Valley buys R890 million worth of land in South Africa"
 publisher: BusinessTech (via Bloomberg)
 url: https://businesstech.co.za/
+date_source: source
 author: Loni Prinsloo
 published: 2026-04-01
+date_precision: month
 accessed: 2026-07-11
 ingested: 2026-07-11
 places: [ZAF, XAF]
 topics: [infra.store, infra.energy, tech.ai, finance.new, geopol.usa]
 entities: [[equinix], [equinix-sa-438m-expansion]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Equinix bought R890m of land in Johannesburg + Cape Town — part of its R7.5bn ($438m) SA plan (327,000 sqm, +160MW). SAME event as the '$438 million' item. SA = ~three-quarters of Africa's ~409MW; market ~$2.6bn (2025) -> >$5bn by 2031 (Arizton). -->

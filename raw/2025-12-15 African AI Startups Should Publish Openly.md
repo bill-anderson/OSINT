@@ -3,6 +3,8 @@ type: source
 title: "African AI Startups Should Publish Openly"
 publisher: chinasa.substack.com (Digital Cognoscente)
 url: https://chinasa.substack.com/p/african-ai-startups-should-publish
+date_precision: day
+date_source: source
 author: Chinasa T. Okolo
 published: 2025-12-15
 accessed: 2026-07-12
@@ -11,6 +13,7 @@ places: [XAF]
 topics: [tech.ai, tech.innovate, capacity.research, data.open]
 entities: [[chinasa-t-okolo], [global-center-on-ai-governance]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Okolo: commentary urging African AI startups to open-source models (not merely open-weight), publish benchmarked performance and red-team results in peer-reviewed venues (NeurIPS/ICML/ACL; Deep Learning Indaba, Pan Africon AI, SACAIR) to counter "AI snake oil" and the opacity of the African AI landscape; notes cost/access barriers for Global Majority researchers. Least event-driven of the batch; lens empty. Reading list is a bibliography — not promoted at intake. External expert analysis. -->

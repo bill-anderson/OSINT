@@ -4,11 +4,14 @@ title: MTN Group goes all-in on platforms and AI
 url: https://techcentral.co.za/mtn-group-goes-all-in-on-platforms-and-ai/282559/
 publisher: TechCentral
 published: 2026-06-10
+date_precision: day
+date_source: source
 ingested: 2026-07-10
 places: [XSS, ZAF, NGA]
 topics: [infra.connect, infra.store, dpi.pay, tech.ai, include.access, infra.capacity]
 entities: [[mtn-group], [ralph-mupita], [nvidia]]
 lens: [sovereignty]
+body_completeness: full
 ---
 ![MTN Group goes all-in on platforms and AI - Ralph Mupita](https://techcentral.co.za/wp-content/uploads/2026/04/ralph-mupita-1500-800.jpg)
 

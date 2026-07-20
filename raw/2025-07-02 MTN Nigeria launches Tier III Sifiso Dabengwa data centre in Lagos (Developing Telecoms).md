@@ -1,10 +1,13 @@
 ---
 type: source
+ingested: 2026-07-17
 places: [NGA]
 topics: [infra.store, dpi.pay, tech.ai]
 entities: [[mtn-nigeria], [mtn-sifiso-dabengwa-data-centre]]
 date_precision: day
 date_source: source
+lens: []
+body_completeness: full
 page: MTN Nigeria launches Tier III data centre in Lagos - Developing Telecoms
 title: MTN Nigeria launches Tier III data centre in Lagos
 author: John Tanner

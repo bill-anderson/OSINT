@@ -13,6 +13,7 @@ places: [BDI]
 topics: [tech.innovate, data.statistics]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 <!-- COMPANION SOURCE PAGE for binary raw/2024-01-01 WIPO Global Innovation Index 2024 - Burundi profile.pdf (date proxied to year). WIPO GII 2024 Burundi one-pager: ranks 127th of 133 economies; 5th of 10 low-income economies; 21st of 27 in Sub-Saharan Africa. Standing benchmark for Burundi's innovation-ecosystem weakness (near-bottom globally). -->

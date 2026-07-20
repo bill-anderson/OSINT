@@ -11,6 +11,7 @@ places: [EGY]
 topics: [gov.protect, gov.legislate, dpi.exchange]
 entities: [[egypt-pdpl], [pdpc-egypt]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Egypt finalises Executive Regulations to the Personal Data Protection Law (Decree 816/2025)

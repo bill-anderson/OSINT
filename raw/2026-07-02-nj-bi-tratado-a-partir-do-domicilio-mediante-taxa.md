@@ -3,6 +3,8 @@ type: source
 title: BI vai poder ser tratado a partir do domicílio mediante pagamento de uma taxa, anunciou ministro da Justiça e dos Direitos Humanos
 url: https://novojornal.co.ao/politica/detalhe/bi-vai-poder-ser-tratado-a-partir-do-seu-domicilio-mediante-pagamento-de-uma-taxa-anunciou-ministro-da-justica-e-dos-direitos-humanos-72964.html
 publisher: Novo Jornal
+lens: []
+body_completeness: full
 author: Nova Vaga
 published: 2026-07-02
 date_precision: day

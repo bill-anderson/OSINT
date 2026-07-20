@@ -12,6 +12,7 @@ places: [ZMB, ETH]
 topics: [dpi.id, dpi.registry, include.divides, include.access, finance.new, finance.mou, gov.regional, dpi.govtech, infra.connect]
 entities: [[zrhcp], [unhcr], [world-bank], [smart-zambia-institute], [fayda-ethiopia-national-id]]
 lens: [sovereignty, colonialism]
+body_completeness: full
 ---
 
 *Dates and names the Ethiopia MoU the held zambia--dpi-id records undated: signed by Percy Chinyama (SZI) and Yodahe Zemichael (ED, Ethiopia's NIDP), with Chinyama saying Zambia wants Ethiopia's model BECAUSE it is domestically developed. Carries a rare candid failure admission: 'the current platform is hindering government efforts to identify duplicate social program beneficiaries.' ZRHCP ($30m, refugee biometric NRCs, to end-Oct 2028) and the MVNO PPP tender are new threads.*

@@ -3,6 +3,7 @@ type: source
 title: "Yaoundé : Les premières CNI produites en 48h remises"
 url: https://lejour.cm/yaounde-les-premieres-cni-produites-en-48h-remises/
 publisher: Le Jour
+ingested: 2026-07-18
 author: Achille Chountsa
 published: 2025-03-04
 date_precision: day
@@ -13,6 +14,7 @@ places: [CMR]
 topics: [dpi.id, include.access]
 entities: [[dgsn-cameroon]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Yaoundé : Les premières CNI produites en 48h remises

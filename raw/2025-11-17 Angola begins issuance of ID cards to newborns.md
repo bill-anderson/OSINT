@@ -13,6 +13,7 @@ places: [AGO]
 topics: [dpi.id, dpi.registry, include.access]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 <!-- Angola begins issuing national ID cards to newborns under the 'Born with a birth certificate' initiative (Ministry of Health + UNICEF), starting in Zaire Province — Mbanza Kongo municipality first (biggest regional hospital), then the other 10 municipalities. Registration equipment placed in maternity wards; measures to prevent registration of foreigners (border with DR Congo). Part of the CRVS drive to expand legal identity in rural/hard-to-reach areas. Notes Angola relies on India's experience/financial support for DPI and hopes to model its digital ID on Aadhaar. Provincial delegate for Justice & Human Rights: Nicolau Sozinho. -->

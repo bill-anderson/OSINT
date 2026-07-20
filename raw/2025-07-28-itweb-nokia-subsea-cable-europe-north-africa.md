@@ -6,12 +6,14 @@ publisher: ITWeb Africa
 published: 2025-07-28
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: MAR-2026-07-17
 places: [MAR]
 topics: [infra.connect]
 entities: [[nokia]]
 lens: []
+body_completeness: full
 ---
 
 # Nokia powers subsea cable linking Europe and North Africa

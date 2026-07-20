@@ -11,6 +11,7 @@ places: [DJI]
 topics: [infra.cybersec, gov.policy, gov.regional]
 entities: [[national-cybersecurity-authority-djibouti], [djibouti-digital-code], [malabo-convention]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Djibouti advances bill to create a National Cybersecurity Authority (ANC)

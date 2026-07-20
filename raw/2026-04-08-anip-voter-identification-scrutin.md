@@ -3,6 +3,9 @@ type: source
 title: "Scrutin du 12 avril : l'identification des électeurs facilitée jusqu'à la dernière heure par l'ANIP"
 url: https://fraternite.bj/scrutin-du-12-avril-lidentification-des-electeurs-facilitee-jusqua-la-derniere-heure-par-lanip/
 publisher: Fraternité
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Michèl GUEDENON
 published: 2026-04-08
 date_precision: day

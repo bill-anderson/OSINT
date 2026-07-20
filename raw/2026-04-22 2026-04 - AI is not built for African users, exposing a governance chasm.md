@@ -3,6 +3,8 @@ type: source
 title: "AI is not built for African users, exposing a governance chasm"
 publisher: University of the Witwatersrand
 url: https://www.wits.ac.za/news/latest-news/research-news/2026/2026-04/ai-is-not-built-for-african-users-exposing-a-governance-chasm-.html
+date_precision: day
+date_source: source
 author: Wits News
 published: 2026-04-22
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [ZAF]
 topics: [tech.ai, gov.policy, gov.legislate, gov.protect, gov.standards, include.divides]
 entities: [[google]]
 lens: [colonialism, sovereignty]
+body_completeness: full
 ---
 
 <!-- 2nd African Cyber Law Conference (Wits, 24-25 Mar 2026). On-record event report; admissible. Argues Africa's AI-governance gap is coordination/enforcement, not legislation ('digital extractivism'). -->

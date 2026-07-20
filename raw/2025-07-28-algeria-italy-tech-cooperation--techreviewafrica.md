@@ -6,6 +6,7 @@ publisher: Tech Review Africa
 published: 2025-07-28
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 provenance_flag: pr-wire
@@ -13,6 +14,7 @@ places: [DZA]
 topics: [finance.mou, geopol.eu, tech.industry, infra.cybersec]
 entities: [[algeria-italy-tech-mou], [algeria-ministry-of-post-and-telecommunications]]
 lens: []
+body_completeness: full
 ---
 
 **Primary source to obtain at ingest:** the Algerian Ministry of Post and Telecommunications / Italian Ministry of Enterprises and Made in Italy statement on the Zerrouki–Urso MoU, and the official Algeria–Italy joint communiqué from President Tebboune's Rome visit. (Italy captured as an entity / geopol.eu — not an African place code.)

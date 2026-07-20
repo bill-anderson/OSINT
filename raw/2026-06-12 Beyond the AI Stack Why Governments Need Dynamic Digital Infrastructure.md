@@ -3,6 +3,8 @@ type: source
 title: "Beyond the AI Stack: Why Governments Need Dynamic Digital Infrastructure"
 publisher: Anjola Adebowale (anjolaadebowale.substack.com)
 url: https://anjolaadebowale.substack.com/p/beyond-the-ai-stack-why-governments
+date_precision: day
+date_source: source
 author: Anjola Adebowale
 published: 2026-06-12
 accessed: 2026-07-12
@@ -11,6 +13,7 @@ places: [KEN, NGA, ZAF, EGY, RWA, XAF]
 topics: [tech.ai, gov.policy, dpi.id, dpi.pay, infra.store]
 entities: [[au-continental-ai-strategy], [safaricom], [mosip], [nimc], [cassava-ai-factories], [nvidia], [microsoft], [world-bank], [paula-ingabire], [anjola-adebowale]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- External expert analysis. Argues for a "dynamic tech stack" (identity, sovereign data, orchestration, adaptive governance, human absorption) over a technology-specific "AI stack"; benchmarks NGA/EGY/ZAF/KEN + RWA. Cassava-Nvidia $720m is its own datapoint (do not overwrite google-cassava-90m-round). M-Pesa attributed to safaricom (no m-pesa entity). Attach: au-continental-ai-strategy, KEN/NGA/ZAF/EGY/RWA hubs; light touch mosip, nimc, cassava-ai-factories. -->

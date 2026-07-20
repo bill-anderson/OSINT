@@ -3,6 +3,8 @@ type: source
 title: "Kenya, Germany forge path for AI centre"
 publisher: ITWeb Africa
 url: https://itweb.africa/article/kenya-germany-forge-path-for-ai-centre/
+date_precision: day
+date_source: source
 author: Maria Macharia
 published: 2026-02-04
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [KEN]
 topics: [tech.ai, capacity.research, capacity.training, geopol.eu, gov.policy]
 entities: [[kenya-germany-ai-centre], [kenya-aist]]
 lens: []
+body_completeness: excerpt
 ---
 
 <!-- Kenya (PS John Tanui) hosted a German Federal Ministry of Research/Technology/Space delegation (Nairobi, ~3 Feb 2026) for preliminary consultations toward a 'Centre of African Excellence for Applied AI' in Kenya (with Kenya-AIST); aligned to Kenya's National AI Strategy 2025-2030. Entity [[kenya-germany-ai-centre]]. -->

@@ -3,6 +3,9 @@ type: source
 title: Orange Botswana, SEZA Sign Deal to Upgrade Digital Infrastructure
 url: https://www.wearetech.africa/en/fils-uk/news/tech/orange-botswana-seza-sign-deal-to-upgrade-digital-infrastructure
 publisher: We Are Tech Africa
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Samira Njoya
 published: 2026-03-17
 date_precision: day

@@ -3,6 +3,7 @@ type: source
 title: "Guinea urges Orange to improve network quality, expand coverage and lower internet costs"
 url: https://www.connectingafrica.com/connectivity/guinea-urges-orange-to-improve-network-quality
 publisher: Connecting Africa
+ingested: 2026-07-18
 author: Matshepo Sehloho
 published: 2026-07-10
 date_precision: day
@@ -13,6 +14,7 @@ places: [GIN]
 topics: [infra.connect, include.access]
 entities: [[orange-guinea], [mourana-soumah], [ministry-digital-economy-guinea], [simandou-2040]]
 lens: []
+body_completeness: full
 ---
 
 # Guinea urges Orange to improve network quality

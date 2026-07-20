@@ -3,6 +3,8 @@ type: source
 title: "Kagame co-chairs global AI commission"
 publisher: ITWeb Africa
 url: https://itweb.africa/article/kagame-co-chairs-global-ai-commission/Kjlyr7wBke9vk6am
+date_precision: day
+date_source: source
 author: Phyllis Birori
 published: 2026-07-03
 accessed: 2026-07-10

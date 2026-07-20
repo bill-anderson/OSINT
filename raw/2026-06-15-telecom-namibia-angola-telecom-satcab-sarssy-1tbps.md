@@ -14,6 +14,7 @@ places: [AGO, NAM]
 topics: [infra.connect, gov.regional, finance.mou]
 entities: [[angola-telecom]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 Telecom Namibia, Angola Telecom, and SATCAB – Satélite e Cabo TV, S.A. signed the Master Service Agreement (MSA) for the Southern African Regional Submarine System (SARSSy) on 12 June 2026, with the integration of the Equiano Cable System, marking a significant milestone in strengthening digital connectivity and cooperation.

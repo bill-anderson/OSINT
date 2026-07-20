@@ -3,14 +3,17 @@ type: source
 title: "KFF Tracker: America First MOU Bilateral Global Health Agreements"
 publisher: KFF
 url: https://www.kff.org/global-health-policy/kff-tracker-america-first-mou-bilateral-global-health-agreements/
+date_source: source
 author: KFF
 published: 2026-07-01
+date_precision: day
 accessed: 2026-07-11
 ingested: 2026-07-11
 places: [XSS, XAF]
 topics: [geopol.usa, gov.protect, data.statistics, gov.policy]
 entities: [[kff-afghs-mou-tracker], [america-first-global-health-strategy]]
 lens: []
+body_completeness: full
 ---
 
 <!-- A standing, continuously-updated KFF tracker/dataset of the America First Global Health Strategy bilateral MOUs (released 18 Sept 2025; 5-year 2026-2030 MOUs). Sourced from State Dept/embassy/partner-country releases + MOU texts. Resource [[kff-afghs-mou-tracker]] tied to [[america-first-global-health-strategy]]. -->

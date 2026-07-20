@@ -6,6 +6,7 @@ publisher: Mwananchi
 published: 2026-07-15
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [TZA]
 topics: [tech.ai, gov.legislate, capacity.training]
 entities: []

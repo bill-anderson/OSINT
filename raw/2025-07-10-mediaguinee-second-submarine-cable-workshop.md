@@ -6,12 +6,14 @@ publisher: Mediaguinee
 published: 2025-07-10
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: GIN-2026-07-17
 places: [GIN]
 topics: [infra.connect, gov.regional]
 entities: [[guilab], [sonatel], [ministry-digital-economy-guinea]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Atterrissement d'un second câble sous-marin en Guinée : la GUILAB et ses partenaires se concertent à Conakry

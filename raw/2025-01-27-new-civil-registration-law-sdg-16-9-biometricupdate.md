@@ -3,6 +3,7 @@ type: source
 title: New civil registration law refocuses Cameroon's push for SDG 16.9 legal ID target
 url: https://www.biometricupdate.com/202501/new-civil-registration-law-refocuses-cameroons-push-for-sdg-16-9-legal-id-target
 publisher: Biometric Update
+ingested: 2026-07-18
 author: Ayang Macdonald
 published: 2025-01-27
 date_precision: day
@@ -11,6 +12,7 @@ places: [CMR]
 topics: [dpi.id, dpi.registry, gov.legislate, include.access, digital.localgov]
 entities: [[bunec], [cameroon-civil-registration-law-2024]]
 lens: [sovereignty]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: CMR-2026-07-17
 ---

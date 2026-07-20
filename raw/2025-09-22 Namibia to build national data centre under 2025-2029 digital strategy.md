@@ -12,6 +12,7 @@ places: [NAM]
 topics: [infra.store, gov.policy]
 entities: []
 lens: [sovereignty]
+body_completeness: full
 ---
 
 The Namibian government plans to set up a national data centre as part of its digital-transformation drive, announced the previous week by Emma Theofelus, Minister of Information and Communication Technology (MICT), during the presentation of new government decisions to accelerate digitalisation.

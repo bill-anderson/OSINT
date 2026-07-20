@@ -13,6 +13,7 @@ places: [COD]
 topics: [dpi.govtech, infra.connect, dpi.registry]
 entities: [[rdc-pass]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- The RegTech (May 2025): DRC's blockchain-based e-government initiative (Minister Augustin Kibassa Maliba) — a blockchain-powered digital ID (DRCPass), satellite connectivity, a planned 55,000-km national fibre backbone (~12,000 km completed, mainly major urban hubs), and a Tier-3 data centre already operational in Kinshasa. Blockchain land records also flagged. The ambitious-but-early e-gov build; a lot of the fibre backbone remains to be built. -->

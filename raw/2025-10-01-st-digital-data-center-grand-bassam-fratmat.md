@@ -6,12 +6,14 @@ publisher: Fraternité Matin
 published: 2025-10-01
 date_precision: day
 date_source: proxy
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [infra.store]
 entities: [[st-digital], [vitib], [artci], [idc], [aws], [microsoft-azure], [google-cloud], [apl], [ministere-de-la-transition-numerique-et-de-la-digitalisation-cote-divoire]]
 lens: [sovereignty]
+body_completeness: full
 provenance_flag: pr-wire
 ---
 

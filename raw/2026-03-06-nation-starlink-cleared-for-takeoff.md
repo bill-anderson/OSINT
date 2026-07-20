@@ -6,6 +6,7 @@ publisher: Seychelles Nation
 published: 2026-03-06
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [SYC]
 topics: [infra.connect, geopol.usa]
 entities: [[starlink], [licensing-and-technology-authority-seychelles]]

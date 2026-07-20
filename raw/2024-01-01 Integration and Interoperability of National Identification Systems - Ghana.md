@@ -12,6 +12,7 @@ places: [GHA]
 topics: [dpi.id, dpi.exchange, gov.protect, gov.standards, gov.regional]
 entities: [[ghana-card], [national-identification-authority-ghana]]
 lens: [sovereignty]
+body_completeness: full
 artefact: "2024-01-01 Integration-and-Interoperability-of-National-Identification-Systems.pdf"
 ---
 

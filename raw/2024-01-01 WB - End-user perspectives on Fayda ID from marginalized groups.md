@@ -11,6 +11,7 @@ places: [ETH]
 topics: [dpi.id, include.access, include.divides]
 entities: [[fayda-ethiopia-national-id]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # WB — End-user perspectives on Fayda ID from marginalized and vulnerable groups

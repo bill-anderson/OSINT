@@ -3,6 +3,7 @@ type: source
 title: "Titres fonciers sécurisés : une mesure coûteuse et précipitée"
 url: https://www.iwacu-burundi.org/titres-fonciers-securises-une-mesure-couteuse-et-precipitee/
 publisher: Iwacu
+ingested: 2026-07-18
 author: Stine Akimana
 published: 2026-04-01
 date_precision: month
@@ -13,6 +14,7 @@ places: [BDI]
 topics: [dpi.registry, gov.legislate, gov.protect, include.access]
 entities: [[direction-des-titres-fonciers-et-du-cadastre-national-burundi], [uprona]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 > **Dating note (sweep):** Iwacu serves no publication date. Bounded from content: the article

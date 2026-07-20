@@ -11,6 +11,7 @@ places: [ETH]
 topics: [gov.policy, include.divides, capacity.training]
 entities: [[digital-ethiopia-2030]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # The challenges facing Ethiopia's digital transformation

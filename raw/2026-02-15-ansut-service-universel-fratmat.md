@@ -6,12 +6,14 @@ publisher: Fraternité Matin
 published: 2026-02-15
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [include.access, infra.connect]
 entities: [[ansut], [ministere-transition-numerique-cote-divoire], [djibril-ouattara]]
 lens: []
+body_completeness: full
 ---
 
 # Ansut : Djibril Ouattara encourage les agents à intensifier la marche vers le service universel

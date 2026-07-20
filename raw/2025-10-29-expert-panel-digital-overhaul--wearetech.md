@@ -6,12 +6,14 @@ publisher: We Are Tech
 published: 2025-10-29
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 places: [DZA]
 topics: [gov.policy, gov.legislate, capacity.training, capacity.research, tech.ai, include.divides]
 entities: [[high-commission-digitalisation-algeria], [scientific-technical-committee-csthcn], [meriem-benmouloud], [digital-algeria-2030]]
 lens: []
+body_completeness: full
 ---
 
 # Algeria Appoints Expert Panel to Accelerate Digital Overhaul

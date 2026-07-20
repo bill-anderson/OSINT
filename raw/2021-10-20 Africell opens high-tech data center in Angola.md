@@ -13,6 +13,7 @@ places: [AGO]
 topics: [infra.store, infra.connect]
 entities: [[africell], [angola-cables]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Primary company announcement (20 Oct 2021), corroborated by DatacenterDynamics and Ecofin Agency (20–22 Oct 2021) — merged here, one event, three outlets (dedup). Africell opened a cloud-based enterprise data centre at its Luanda HQ (Kings Tower) as the cornerstone of its Angola network ahead of its mobile launch (4th operator, breaking the state-telco duopoly). Infra suppliers HP, Nokia, Dell, Oracle; local partners CPC Africa, Jembas, Prosecurity; tech partnerships incl. Angola Cables, MSTelcom, Angola Telecom, Infrasat. First phase of a 5G-enabled network. AGT cleared equipment; INSS collaborated on installation. Positioned as open hosting for Angolan startups. Other outlet URLs: datacenterdynamics.com/en/news/africell-opens-data-center-in-luanda-angola/ · ecofinagency.com/telecom/2210-43114. -->

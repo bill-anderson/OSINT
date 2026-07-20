@@ -13,6 +13,7 @@ places: [AGO]
 topics: [finance.new, finance.mou, geopol.usa, infra.cybersec, infra.capacity, capacity.training]
 entities: [[cybastion], [angola-telecom], [us-africa-business-summit-2025], [corporate-council-on-africa], [us-international-development-finance-corporation]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Empresa americana e Angola Telecom rubricam acordo para reforçar soberania digital

@@ -13,6 +13,7 @@ places: [XAF, RWA]
 topics: [tech.ai, gov.policy, gov.regional, gov.protect, finance.new]
 entities: [[africa-ai-declaration], [smart-africa], [african-union]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- On-the-record reporting on the Africa Declaration on AI (signed Kigali, 4 Apr 2025). Reports 52 of 54 states signed + AU + Smart Africa, "only Tanzania and Western Sahara absent" — CONFLICTS with the primary Declaration document (2025-04-04), whose signatory block lists 49 countries (also absent: DR Congo, Eritrea, Libya, Seychelles). Prefer the primary; the 52 figure is a reporting error. Quotes Aissatou Sylla (Dentons, Paris) on cross-jurisdictional implementation. $60bn Africa AI Fund figure matches africa-ai-declaration entity. REV-001(a) evidence. -->

@@ -10,6 +10,8 @@ ingested: 2026-07-17
 places: [TCD]
 topics: [dpi.govtech, dpi.registry, gov.policy, dpi.exchange]
 entities: [[ministry-of-transport-chad]]
+lens: []
+body_completeness: full
 ---
 
 # Chad to deploy integrated digital platform for transport services

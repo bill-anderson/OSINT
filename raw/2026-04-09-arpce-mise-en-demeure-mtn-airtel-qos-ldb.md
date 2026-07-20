@@ -3,6 +3,7 @@ type: source
 title: "Qualité de service des réseaux mobiles : l'ARPCE monte la pression sur MTN et Airtel"
 url: https://www.adiac-congo.com/content/qualite-de-service-des-reseaux-mobiles-larpce-monte-la-pression-sur-mtn-et-airtel-169708
 publisher: Les Dépêches de Brazzaville (ADIAC)
+ingested: 2026-07-18
 author: Quentin Loubou
 published: 2026-04-09
 date_precision: day
@@ -13,6 +14,7 @@ places: [COG]
 topics: [infra.connect, gov.legislate, gov.standards, include.divides, include.access, digital.rural]
 entities: [[arpce-congo], [mtn], [airtel], [congo-telecom]]
 lens: []
+body_completeness: full
 provenance_flag: state-aligned-outlet
 ---
 

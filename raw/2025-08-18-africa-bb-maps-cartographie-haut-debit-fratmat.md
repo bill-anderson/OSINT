@@ -6,12 +6,14 @@ publisher: Fraternité Matin
 published: 2025-08-18
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [infra.connect, data.open, data.satellite]
 entities: [[uit], [artci], [africa-broadband-maps], [union-europeenne], [union-africaine-des-telecommunications], [ministere-de-la-transition-numerique-et-de-la-digitalisation-cote-divoire]]
 lens: []
+body_completeness: full
 ---
 
 # Africa-BB-Maps/ Connectivité Haut Débit : La Côte d'Ivoire dessine sa cartographie nationale des réseaux de télécommunications

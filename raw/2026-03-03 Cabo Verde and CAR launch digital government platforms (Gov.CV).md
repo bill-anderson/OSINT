@@ -11,6 +11,7 @@ places: [CPV, CAF]
 topics: [dpi.govtech, dpi.id, dpi.exchange]
 entities: [[gov-cv], [nosi]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Cabo Verde and Central African Republic launch digital government platforms (Gov.CV)

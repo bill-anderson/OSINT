@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: initiative
 title: Somalia Instant Payment System (SIPS)
 places: [SOM]

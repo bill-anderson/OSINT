@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: initiative
 title: Online Border Management System (OBMS, Zimbabwe)
 places: [ZWE]

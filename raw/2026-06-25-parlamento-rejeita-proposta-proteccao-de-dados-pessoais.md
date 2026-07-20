@@ -3,6 +3,8 @@ type: source
 title: Parlamento rejeita proposta sobre protecção de dados pessoais
 url: https://angop.ao/noticias/politica/parlamento-rejeita-proposta-sobre-proteccao-de-dados-pessoais/
 publisher: Angop
+lens: []
+body_completeness: full
 author: MGM/ART
 published: 2026-06-25
 date_precision: day

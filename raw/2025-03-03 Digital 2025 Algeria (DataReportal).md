@@ -11,6 +11,7 @@ places: [DZA]
 topics: [infra.connect, include.divides]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 # Digital 2025 — Algeria (DataReportal)

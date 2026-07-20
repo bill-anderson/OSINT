@@ -6,6 +6,7 @@ publisher: TechAfrica News
 published: 2026-02-19
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [TCD]
 topics: [infra.store, finance.mou, infra.capacity]
 entities: [[adetic], [azercosmos]]

@@ -13,6 +13,7 @@ places: [KEN]
 topics: [infra.connect, include.divides, gov.policy, tech.industry]
 entities: [[gsma]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Nairobi, 22 Oct 2024: GSMA report 'Driving Digital Transformation of the Economy in Kenya' — digital economy to contribute KSH 662bn to GDP by 2028 (policy reforms in agri/manufacturing/transport/trade); 300,000 new jobs, +KSH 150bn tax. GSMA launched the Digital Africa Index (DAI); Kenya a top performer (>50). 2023: mobile ecosystem KSH 1.2tn GDP, KSH 212bn govt revenue. 99% 3G, 98% 4G coverage; only 33.5% use mobile internet (usage gap 63%→46% by 2028). Companion 'Barriers to Smartphone Adoption: Kenya' on affordability. Recs: reduce sector taxes, streamline licences, device affordability, skills. Angela Wamola (GSMA SSA head). -->

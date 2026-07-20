@@ -2,6 +2,8 @@
 type: source
 title: "The system's crashed. Where's the backup?"
 publisher: Data Landscapers
+date_precision: day
+date_source: source
 author: [[bill]]
 url: https://data-landscapers.com/2026/06/03/off-site_backups/
 published: 2026-06-03
@@ -11,6 +13,7 @@ places: [XAF, XSS, ZAF, NGA, KEN]
 topics: [infra.store, gov.protect, gov.legislate, gov.regional, gov.standards, geopol.usa]
 entities: [[bill], [data-landscapers], [microsoft-g42-kenya-datacenter]]
 lens: [sovereignty, colonialism]
+body_completeness: full
 ---
 
 <!-- EXPERT ANALYSIS (Data Landscapers, author [[bill]]). The "resilient / local / sovereign —

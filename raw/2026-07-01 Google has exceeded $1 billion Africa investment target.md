@@ -4,6 +4,8 @@ title: Google has exceeded $1 billion Africa investment target
 url: https://www.reuters.com/world/africa/google-has-exceeded-1-billion-africa-investment-target-2026-07-01/
 publisher: Reuters
 published: 2026-07-01
+date_precision: month
+date_source: source
 ingested: 2026-07-10
 places: [ZAF, GHA, XAF]
 topics: [infra.connect, tech.ai, tech.innovate, finance.new, capacity.training, geopol.usa]

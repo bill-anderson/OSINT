@@ -6,6 +6,7 @@ publisher: TechAfrica News
 published: 2026-04-28
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [SWZ]
 topics: [infra.connect, include.divides, data.satellite]
 entities: [[starlink], [government-of-eswatini], [mtn-eswatini], [eswatini-mobile]]

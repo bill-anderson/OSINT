@@ -1,6 +1,7 @@
 ---
 type: source
 title: "توقيع مشروع لدعم تنفيذ استراتيجية التحول الرقمي 2025-2030"
+ingested: 2026-07-18
 title_en: High Commission for Digitalisation signs a project document to support the National Digital Transformation Strategy 2025-2030, with UNDP and Japanese government funding (following the 26 Oct 2025 letter of intent)
 url: https://www.echoroukonline.com/%D8%AA%D9%88%D9%82%D9%8A%D8%B9-%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D9%84%D8%AF%D8%B9%D9%85-%D8%AA%D9%86%D9%81%D9%8A%D8%B0-%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%D9%8A%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%AA
 publisher: Echorouk El Yawmi
@@ -15,6 +16,7 @@ places: [DZA]
 topics: [gov.policy, finance.mou, capacity.training, tech.industry]
 entities: [[haut-commissariat-a-la-numerisation, meriem-benmouloud, undp, japan, national-digital-transformation-strategy]]
 lens: []
+body_completeness: full
 provenance_flag: privately-owned
 ---
 

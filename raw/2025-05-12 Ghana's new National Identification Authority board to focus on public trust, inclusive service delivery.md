@@ -13,6 +13,7 @@ places: [GHA]
 topics: [dpi.id, gov.policy]
 entities: [[national-identification-authority-ghana], [ghana-card]]
 lens: []
+body_completeness: full
 ---
 
 <!-- New NIA governing board commissioned by Interior Minister Muntaka Mohammed-Mubarak. Board Chairman Moses Afetsi Positive; acting Executive Secretary Wisdom Kwaku Deku credited with decentralizing registration, expanding premium services, online-only applications. Board tasked with legal + digital ID for all Ghanaians by 2030 (SDG 16.9). Cites National Identification Act 2009 for board mandate. -->

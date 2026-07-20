@@ -3,6 +3,7 @@ type: source
 title: "Protection des données et technologies émergentes : le plaidoyer de Luciano Hounkponou pour un renforcement des capacités en Afrique"
 url: https://lanation.bj/numerique/protection-des-donnees-et-technologies-emergentes-le-plaidoyer-de-luciano-hounkponou-pour-un-renforcement-des-capacites-en-afrique
 publisher: La Nation
+ingested: 2026-07-18
 author: Christian HOUNONGBE
 published: 2026-05-21
 date_precision: day
@@ -13,6 +14,7 @@ places: [BEN]
 topics: [gov.protect, capacity.training, tech.ai, infra.cybersec, gov.regional]
 entities: [[apdp-benin], [rapdp], [luciano-hounkponou]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Protection des données et technologies émergentes : le plaidoyer de Luciano Hounkponou pour un renforcement des capacités en Afrique

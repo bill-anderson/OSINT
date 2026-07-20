@@ -3,14 +3,17 @@ type: source
 title: "MTN to invest $1.3B in South Africa by 2028"
 publisher: Connecting Africa
 url: https://www.connectingafrica.com/investment/mtn-to-invest-1-3b-in-south-africa-by-2028
+date_source: source
 author: Paula Gilbert
 published: 2026-04-01
+date_precision: month
 accessed: 2026-07-11
 ingested: 2026-07-11
 places: [ZAF]
 topics: [infra.connect, finance.new, infra.capacity, capacity.training]
 entities: [[mtn-group], [mtn-sa-2026-investment]]
 lens: []
+body_completeness: full
 ---
 
 <!-- MTN pledged R21.8bn (~$1.3bn) in SA over 3 yrs (to end-2028) at the 6th SA Investment Conference; 3rd-biggest pledge (conference total R113.5bn). MTN SA spent R6.8bn on network in 2025; >40m subscribers. Prior conference pledges: Microsoft R5.4bn, Cassava R4.5bn. -->

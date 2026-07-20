@@ -3,6 +3,8 @@ type: source
 title: "Priced out of the future: Confronting the rising cost of AI in Africa"
 publisher: The Sun (Nigeria)
 url: https://thesun.ng/priced-out-of-the-future-confronting-the-rising-cost-of-ai-in-africa/
+date_precision: day
+date_source: source
 author: Ojo Emmanuel Ademola
 published: 2026-06-17
 accessed: 2026-06-17
@@ -11,6 +13,7 @@ places: [XAF, NGA, KEN, GHA, ZAF, RWA]
 topics: [tech.ai, include.divides, capacity.research, infra.store, finance.new, geopol.usa, geopol.china, gov.regional]
 entities: []
 lens: [sovereignty, colonialism]
+body_completeness: full
 ---
 
 <!-- Named-author op-ed/analysis (Prof. Ojo Emmanuel Ademola) in The Sun. Admissible as

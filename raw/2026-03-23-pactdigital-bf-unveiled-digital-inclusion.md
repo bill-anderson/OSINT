@@ -3,6 +3,7 @@ type: source
 title: Burkina Faso Unveils PACTDIGITAL to Drive Digital Inclusion, Innovation, and Economic Growth
 url: https://techafricanews.com/2026/03/23/burkina-faso-unveils-pactdigital-to-drive-digital-inclusion-innovation-and-economic-growth/
 publisher: TechAfrica News
+ingested: 2026-07-18
 author: Editorial Team
 published: 2026-03-23
 date_precision: day
@@ -13,6 +14,7 @@ places: [BFA]
 topics: [include.divides, dpi.govtech, infra.connect, finance.new]
 entities: [[pactdigital], [ministry-of-digital-transition-burkina-faso], [international-development-association], [world-bank]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Burkina Faso Unveils PACTDIGITAL to Drive Digital Inclusion, Innovation, and Economic Growth

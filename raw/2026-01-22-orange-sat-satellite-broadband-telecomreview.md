@@ -6,12 +6,14 @@ publisher: Telecom Review Africa
 published: 2026-01-22
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [infra.connect, digital.rural, include.access, include.divides]
 entities: [[orange-cote-divoire], [eutelsat]]
 lens: []
+body_completeness: full
 ---
 
 Orange Côte d'Ivoire has launched Orange Sat, a satellite broadband service developed in partnership with Eutelsat, to extend internet connectivity to rural "white zones" that currently have no access to 4G or fiber networks.

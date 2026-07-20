@@ -6,6 +6,7 @@ publisher: Developing Telecoms
 published: 2025-02-17
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [TUN]
 topics: [infra.connect, tech.industry]
 entities: [[orange-tunisia], [ooredoo-tunisia], [tunisie-telecom], [ministry-of-communication-technologies-tunisia]]

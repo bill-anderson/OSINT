@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: government-body
 title: ANINF (National Agency for Digital Infrastructure and Frequencies, Gabon)
 places: [GAB]

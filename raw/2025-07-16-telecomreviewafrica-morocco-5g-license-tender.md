@@ -6,12 +6,14 @@ publisher: Telecom Review Africa
 published: 2025-07-16
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: MAR-2026-07-17
 places: [MAR]
 topics: [infra.connect, gov.legislate]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 # Morocco launches 5G licence tender to advance digital strategy

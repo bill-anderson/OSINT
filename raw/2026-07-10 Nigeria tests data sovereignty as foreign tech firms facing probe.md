@@ -3,6 +3,8 @@ type: source
 title: "Nigeria tests data sovereignty as foreign tech firms facing probe"
 publisher: Nigerian Tribune (via Zawya)
 url: https://www.zawya.com/en/economy/africa/nigeria-tests-data-sovereignty-tfwnm5he
+date_precision: day
+date_source: source
 author: Chima Nwokoji
 published: 2026-07-10
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [NGA, ZAF]
 topics: [gov.protect, infra.store, gov.legislate, dpi.pay, geopol.usa, gov.standards]
 entities: [[cbn], [fccpc], [meta], [google], [microsoft], [amazon-web-services]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- FG directs FCCPC to probe anti-competitive practices by Meta/Alphabet/X/GenAI (after NPO petition). FCCPC's 2025 $222m Meta penalty (under appeal). CBN onshoring mandate by 2027-01-01. NIBSS: N1.07 quadrillion (~$702bn) e-txns in 2024. NG = Africa's 2nd DC market. -->

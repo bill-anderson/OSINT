@@ -12,6 +12,7 @@ places: [SSD]
 topics: [infra.store, infra.connect, gov.legislate]
 entities: [[national-communication-authority-south-sudan], [mgi-communications]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # South Sudan's NCA establishes Gateway Services and Data Centre Oversight Committee

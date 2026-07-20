@@ -6,6 +6,7 @@ publisher: Daily Maverick
 published: 2026-07-15
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [ZAF]
 topics: [infra.connect, geopol.usa]
 entities: [[amazon-leo], [herotel]]

@@ -6,6 +6,7 @@ publisher: Tech Review Africa
 published: 2026-03-30
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 provenance_flag: pr-wire
@@ -13,6 +14,7 @@ places: [DZA, XAF]
 topics: [dpi.exchange, gov.regional, include.access, infra.connect]
 entities: [[50-in-5], [global-africa-tech-summit]]
 lens: []
+body_completeness: full
 ---
 
 **Primary source to obtain at ingest:** the 50-in-5 initiative's own announcement of Algeria's accession, and any Algerian High Commission for Digitalisation / Ministry of Post and Telecommunications release from the Global Africa Tech Summit in Algiers. Kenya's endorsement should be traced to the Kenyan Ministry of ICT statement.

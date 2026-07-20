@@ -12,6 +12,7 @@ places: [SSD]
 topics: [gov.protect, gov.legislate]
 entities: [[paradigm-initiative], [koneta-hub], [national-communication-authority-south-sudan], [south-sudan-data-protection-bill]]
 lens: []
+body_completeness: full
 ---
 
 # Press Release: Paradigm Initiative Partners with Koneta Hub to Drive Dialogue on Data Protection Law in South Sudan

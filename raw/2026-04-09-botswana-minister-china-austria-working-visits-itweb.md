@@ -3,6 +3,7 @@ type: source
 title: Botswana seeks digital partnerships abroad
 url: https://itweb.africa/article/botswana-seeks-digital-partnerships-abroad/wbrpOqg2wZbMDLZn
 publisher: ITWeb Africa
+ingested: 2026-07-18
 author: Mthulisi Sibanda
 published: 2026-04-09
 date_precision: day
@@ -13,6 +14,7 @@ places: [BWA]
 topics: [geopol.china, gov.policy, infra.store, tech.ai]
 entities: [[david-tshere], [huawei], [ministry-of-communications-and-innovation-botswana], [international-atomic-energy-agency]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Botswana seeks digital partnerships abroad

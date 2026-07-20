@@ -6,12 +6,14 @@ publisher: Fraternité Matin
 published: 2025-06-11
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [infra.cybersec]
 entities: [[kaspersky], [afripol], [smart-africa], [interpol]]
 lens: []
+body_completeness: full
 ---
 
 # Cybersécurité/Kaspersky : Plus de 27 millions de tentatives d'attaques détectées en Côte d'Ivoire en 2024

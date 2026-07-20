@@ -3,6 +3,8 @@ type: source
 title: "Ivory Coast Launches MaPoste to Digitize Postal and Administrative Services"
 publisher: We Are Tech Africa
 url: https://www.wearetech.africa/en/fils-uk/news/tech/ivory-coast-launches-maposte-to-digitize-postal-and-administrative-services
+date_precision: day
+date_source: source
 author: Samira Njoya
 published: 2026-01-19
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [CIV]
 topics: [dpi.govtech, dpi.id, dpi.registry, gov.protect]
 entities: [[oneci], [la-poste-cote-divoire], [maposte]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- ONECI + La Poste de Côte d'Ivoire launched 'MaPoste' super-app (16 Jan 2026) linking digital ID (NNI) to postal/administrative services; integrates ONECI's National Register of Natural Persons (RNPP); 'phygital' (200+ agencies + digital); ID-card delivery, civil-status/nationality/criminal-record certs. -->

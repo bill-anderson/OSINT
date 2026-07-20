@@ -13,6 +13,7 @@ places: [CAF]
 topics: [dpi.id, gov.legislate, include.access]
 entities: [[al-madina]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- CAR government returned the CNI price to its legal FCFA 4,500 (per 2020 finance law) via interministerial order n°017/MISP/DIRCAB/SP.25 of 26 June 2025, ending five years of illegal pricing (6,000–6,750 FCFA) charged under a public-private arrangement with Lebanese firm Almadina. History: 2020 Assembly voted 4,500; Almadina imposed higher prices; MPs led by Thierry-Georges Vackat sued at Bangui administrative tribunal; magistrate Michel Anihibié ruled the order "arbitrary" (4 Sep 2020); the M4500 collective formed Oct 2020, three members arrested at a 13 Oct 2020 sit-in. The June 2025 fix coincides with ANE struggling to finalise the electoral roll — the CNI being indispensable to vote in the December scrutiny. NB: this source calls Almadina "libanaise" (Lebanese); Biometric Update calls it Oman-headquartered — see contradiction REV. -->

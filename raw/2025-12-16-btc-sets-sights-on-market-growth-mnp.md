@@ -3,6 +3,9 @@ type: source
 title: BTC sets sights on market growth
 url: https://www.mmegi.bw/features/btc-sets-sights-on-market-growth/news
 publisher: Mmegi
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Mbongeni Mguni
 published: 2025-12-16
 date_precision: day

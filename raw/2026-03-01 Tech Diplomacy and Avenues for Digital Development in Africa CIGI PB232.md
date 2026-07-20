@@ -12,6 +12,7 @@ places: [XAF, KEN, RWA, ZAF, NGA]
 topics: [gov.policy, gov.regional, geopol.china, geopol.usa, tech.ai, infra.store]
 entities: [[cigi], [afcfta-digital-trade-protocol]]
 lens: [sovereignty, colonialism]
+body_completeness: full
 ---
 
 # Tech Diplomacy and Avenues for Digital Development in Africa (CIGI PB232)

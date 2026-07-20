@@ -6,6 +6,7 @@ publisher: Malawi24
 published: 2026-01-16
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [MWI]
 topics: [dpi.registry, dpi.id, include.access, gov.legislate]
 entities: [[national-registration-bureau-malawi]]

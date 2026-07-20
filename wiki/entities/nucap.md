@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: initiative
 title: Nigeria Universal Communication Access Project (NUCAP)
 places: [NGA]

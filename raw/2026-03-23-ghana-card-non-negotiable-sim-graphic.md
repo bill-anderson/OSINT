@@ -6,12 +6,14 @@ publisher: Graphic Online
 published: 2026-03-23
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: GHA-2026-07-17
 places: [GHA]
 topics: [dpi.id]
 entities: [[national-identification-authority-ghana]]
 lens: []
+body_completeness: full
 ---
 # Ghana Card 'non-negotiable' for SIM registration — NIA boss warns
 

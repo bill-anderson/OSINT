@@ -4,11 +4,14 @@ title: "What Google's latest startup cohort says about AI in Africa"
 url: https://techcabal.com/2026/06/19/googles-alex-okosi-on-whats-holding-back-africas-ai-startups/
 publisher: TechCabal
 published: 2026-06-19
+date_precision: day
+date_source: source
 ingested: 2026-07-10
 places: [XAF, KEN, NGA, ZAF]
 topics: [tech.ai, tech.innovate, finance.new, infra.capacity, infra.store, capacity.training]
 entities: [[google]]
 lens: [colonialism]
+body_completeness: full
 ---
 
 On Thursday, Google graduated 15 startups from eight African countries through its [Google for Startups Accelerator Africa programme](https://techcabal.com/2022/10/17/google-startup-programme-for-african-startups/) in Nairobi. Most of these startups are building artificial intelligence (AI) into core products in payments, transport, agriculture, healthcare and enterprise software. Google said 60% of the cohort is already profitable, generating an average of $60,000 in monthly revenue.

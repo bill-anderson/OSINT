@@ -6,12 +6,14 @@ publisher: ACTUALITE.CD
 published: 2026-06-25
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: COD-2026-07-17
 places: [COD]
 topics: [infra.connect, tech.industry, infra.energy, finance.new]
 entities: [[helios-towers], [anapi], [maixent-bekangba]]
 lens: []
+body_completeness: full
 provenance_flag: pr-wire
 ---
 

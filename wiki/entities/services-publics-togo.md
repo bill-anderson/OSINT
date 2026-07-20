@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: initiative
 title: Services Publics (Guichet National du Service Public, Togo)
 places: [TGO]

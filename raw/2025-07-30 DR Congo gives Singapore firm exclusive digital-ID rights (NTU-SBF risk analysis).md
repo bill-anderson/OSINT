@@ -13,6 +13,7 @@ places: [COD]
 topics: [dpi.id, gov.protect]
 entities: [[trident-digital-tech], [rdc-pass]]
 lens: [sovereignty, colonialism]
+body_completeness: full
 ---
 
 <!-- NTU-SBF Centre for African Studies analysis (Jul 2025) — cite as analysis. Reviews the DRC's PPP with Singapore's Trident to run the nationwide DRCPass digital-ID/e-KYC system, aimed at fraud prevention, financial inclusion and public-service delivery — but WARNS it could run into controversy without proper checks and balances (transparency, corruption risk), explicitly recalling the cancelled IDEMIA/Afritech contract. The critical/governance-risk framing of the 20-year foreign-exclusive concession. -->

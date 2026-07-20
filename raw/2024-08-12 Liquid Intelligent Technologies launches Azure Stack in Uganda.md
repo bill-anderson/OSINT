@@ -12,6 +12,7 @@ places: [UGA]
 topics: [infra.store, infra.connect, tech.ai, gov.protect, geopol.usa]
 entities: [[liquid-c2], [cassava-technologies], [microsoft], [raxio-group]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 *DATE TRAP: the DCD page header renders a bogus '14 Jul 2026' current-date stamp; the true byline is 2024-08-12. This publisher will trap future clips the same way.*

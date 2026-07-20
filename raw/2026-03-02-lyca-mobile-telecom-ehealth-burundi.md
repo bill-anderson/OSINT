@@ -3,6 +3,9 @@ type: source
 title: Lyca Mobile Advances Telecom and E-Health Plans in Burundi
 url: https://www.wearetech.africa/en/fils-uk/news/telecom/lyca-mobile-advances-telecom-and-e-health-plans-in-burundi
 publisher: We Are Tech Africa
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Samira Njoya
 published: 2026-03-02
 date_precision: day

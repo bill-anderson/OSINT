@@ -12,6 +12,7 @@ places: [SLE]
 topics: [dpi.registry, dpi.id, dpi.exchange, digital.rural]
 entities: [[ncra], [sierra-leone-national-digital-farmer-registry]]
 lens: []
+body_completeness: full
 ---
 
 # NCRA, Ministry of Agriculture partner on National Digital Farmer Registry integration

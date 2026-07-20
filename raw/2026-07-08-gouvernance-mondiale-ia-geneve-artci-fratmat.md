@@ -6,12 +6,14 @@ publisher: Fraternité Matin
 published: 2026-07-08
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [tech.ai, gov.regional]
 entities: [[artci], [organisation-internationale-de-la-francophonie], [nations-unies], [djibril-ouattara], [roger-felix-adom]]
 lens: []
+body_completeness: full
 ---
 
 # Gouvernance mondiale de l'IA : la Côte d'Ivoire fait entendre sa voix à Genève grâce à l'ARTCI

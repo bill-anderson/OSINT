@@ -3,6 +3,8 @@ type: source
 title: Londa 2023 - Digital Rights and Inclusion in Africa Report: Tunisia
 url: https://paradigmhq.org/
 publisher: Paradigm Initiative
+lens: []
+body_completeness: full
 author: Yosr Jouini (editorial lead: 'Gbenga Sesan)
 published: 2024-04-01
 date_precision: month

@@ -13,6 +13,7 @@ places: [MWI]
 topics: [dpi.id, dpi.registry, include.access]
 entities: [[national-registration-bureau-malawi]]
 lens: []
+body_completeness: full
 ---
 
 Malawi plans to roll out a digital identity wallet by 2026, sending the national ID direct to smartphones and cutting the wait and cost of replacing the mandatory physical card for citizens aged 16. NRB Principal Secretary Mphatso Sambo announced the plan at the ID4Africa AGM in Addis Ababa, saying the Digital ID Wallet had been successfully piloted and the next step is nationwide implementation to ease access to services from banking to healthcare.

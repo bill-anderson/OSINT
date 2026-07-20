@@ -3,6 +3,7 @@ type: source
 title: "Yaoundé : La 2ème édition des Concertations nationales sur l'intelligence artificielle s'ouvre ce jour"
 url: https://leconomie.info/yaounde-la-2eme-edition-des-concertations-nationales-sur-lintelligence-artificielle-souvre-ce-jour/
 publisher: Le quotidien L'Economie
+ingested: 2026-07-18
 author: Hervé Fopa Fogang
 published: 2025-07-07
 date_precision: day
@@ -13,6 +14,7 @@ places: [CMR]
 topics: [tech.ai, gov.policy]
 entities: [[snia-cameroon], [conia], [minpostel]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Yaoundé : La 2ème édition des Concertations nationales sur l'intelligence artificielle s'ouvre ce jour

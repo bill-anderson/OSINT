@@ -6,12 +6,14 @@ publisher: ACTUALITE.CD
 published: 2026-03-28
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: COD-2026-07-17
 places: [COD]
 topics: [gov.legislate, data.open, gov.policy]
 entities: [[jacques-djoli], [assemblee-nationale-drc]]
 lens: []
+body_completeness: full
 ---
 
 Jacques Djoli

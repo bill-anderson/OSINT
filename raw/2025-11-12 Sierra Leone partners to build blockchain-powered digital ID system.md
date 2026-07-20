@@ -12,6 +12,7 @@ places: [SLE]
 topics: [dpi.id, gov.standards, finance.mou, tech.ai]
 entities: [[sign-foundation], [sierra-leone-digital-id-mou], [ncra]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Sierra Leone partners to build blockchain-powered digital ID system

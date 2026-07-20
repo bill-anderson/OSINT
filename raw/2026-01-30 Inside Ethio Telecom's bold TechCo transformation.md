@@ -3,6 +3,8 @@ type: source
 title: "Inside Ethio Telecom's bold TechCo transformation"
 publisher: ITWeb Africa
 url: https://itweb.africa/article/inside-ethio-telecoms-bold-techco-transformation/
+date_precision: day
+date_source: source
 author: Phathisani Moyo
 published: 2026-01-30
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [ETH]
 topics: [infra.connect, dpi.pay, tech.industry, digital.rural, include.access]
 entities: [[ethio-telecom], [telebirr], [digital-ethiopia-2030]]
 lens: []
+body_completeness: excerpt
 ---
 
 <!-- Ethio Telecom H1 FY2025/26: +~4m customers (base >87m); revenue $545m (ETB85.02bn); taxes $228m; ~$88m forex secured; 'Next Horizon: Digital & Beyond 2028' strategy (aligned to Digital Ethiopia 2030); 4G to dozens of new towns; Telebirr anchors payments/savings/micro-loans at national scale. -->

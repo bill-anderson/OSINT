@@ -3,6 +3,7 @@ type: source
 title: "Camtel – Ethio Telecom : Alliance stratégique pour l'essor de Blue Money"
 url: https://lejour.cm/camtel-ethio-telecom-alliance-strategique-pour-lessor-de-blue-money/
 publisher: Le Jour
+ingested: 2026-07-18
 author: Solière Champlain Paka
 published: 2025-12-23
 date_precision: day
@@ -13,6 +14,7 @@ places: [CMR]
 topics: [dpi.pay, finance.mou]
 entities: [[camtel], [ethio-telecom], [blue-money], [minpostel], [judith-yah-sunday], [frehiwot-tamiru]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Camtel – Ethio Telecom : Alliance stratégique pour l'essor de Blue Money

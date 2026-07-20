@@ -3,6 +3,7 @@ type: source
 title: "Mobile money : Le lancement de ‘’Blue Money’’ annoncé"
 url: https://lejour.cm/mobile-money-le-lancement-de-blue-money-annonce/
 publisher: Le Jour
+ingested: 2026-07-18
 author: Solière Champlain Paka
 published: 2025-05-02
 date_precision: day
@@ -13,6 +14,7 @@ places: [CMR]
 topics: [dpi.pay]
 entities: [[camtel]]
 lens: [sovereignty]
+body_completeness: excerpt
 ---
 
 # Mobile money : Le lancement de ‘’Blue Money’’ annoncé

@@ -13,6 +13,7 @@ places: [CIV, CMR]
 topics: [infra.store, infra.connect]
 entities: [[st-digital]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Merges TechAfrica (2025-10-03) + DCD (2025-10-08) + Financial Afrik (2025-09-30) on the same event (dedup). Cameroon's ST Digital inaugurated its FIRST Côte d'Ivoire facility — an eco-responsible Tier III data centre at VITIB II, Grand-Bassam (announced 2 Oct; construction began Nov 2024). ST Digital's regional expansion (Cameroon HQ → CIV) into the Abidjan/Grand-Bassam data-centre cluster (alongside Raxio, PAIX, MDXi, Stellarix). Data sovereignty / local hosting framing. DCD URL: datacenterdynamics.com/en/news/cameroons-st-digital-opens-data-center-in-cote-divoire. -->

@@ -12,6 +12,7 @@ places: [SLE]
 topics: [dpi.pay]
 entities: [[sierra-leone-instant-payment-switch], [orange-sierra-leone]]
 lens: []
+body_completeness: full
 ---
 
 # Sierra Leone Launches National Instant Payment System

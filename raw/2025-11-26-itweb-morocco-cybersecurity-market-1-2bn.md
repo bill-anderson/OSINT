@@ -6,12 +6,14 @@ publisher: ITWeb Africa
 published: 2025-11-26
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: MAR-2026-07-17
 places: [MAR]
 topics: [infra.cybersec, tech.industry]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 # Morocco cybersecurity market balloons to $1.2bn

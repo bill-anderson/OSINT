@@ -3,6 +3,7 @@ type: source
 title: Orange Expands 4G Network to Provinces in the Central African Republic
 url: https://techafricanews.com/2025/05/26/orange-expands-4g-network-to-provinces-in-central-african-republic/
 publisher: TechAfrica News
+ingested: 2026-07-18
 author: Aayushya Ranjan
 published: 2025-05-26
 date_precision: day
@@ -11,6 +12,7 @@ places: [CAF]
 topics: [infra.connect, include.access, include.divides, digital.rural]
 entities: [[orange-centrafrique]]
 lens: []
+body_completeness: full
 provenance_flag: pr-wire
 retrieved: 2026-07-17
 sweep_batch: CAF-2026-07-17

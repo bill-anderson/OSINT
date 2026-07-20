@@ -13,6 +13,7 @@ places: [MOZ]
 topics: [dpi.id, include.access, dpi.registry, data.statistics]
 entities: [[dnic-mozambique]]
 lens: []
+body_completeness: full
 ---
 
 Only 34 percent of adult Mozambican citizens have an identity card, though 55 percent have a birth certificate, per the International Organization for Migration (IOM), data revealed 11 June 2024 at the opening of the Second Regional Conference on Legal Identity in Maputo. IOM head Laura Tomm-Bonde said extreme violence by islamist terrorists in Cabo Delgado over six years has worsened the situation for vulnerable populations.

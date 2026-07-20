@@ -13,6 +13,7 @@ places: [ZMB, XSA]
 topics: [tech.ai, gov.policy, gov.regional]
 entities: [[comesa], [idea-mpa], [world-bank]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Zambia's Ministry of Technology and Science, with the COMESA Secretariat and the World Bank, launched an

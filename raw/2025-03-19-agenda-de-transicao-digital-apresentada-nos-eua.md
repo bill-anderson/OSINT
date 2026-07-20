@@ -3,6 +3,8 @@ type: source
 title: Agenda de transição digital de Angola apresentada nos EUA
 url: https://angop.ao/noticias/sociedade/agenda-de-transicao-digital-de-angola-apresentada-nos-eua/
 publisher: Angop
+lens: []
+body_completeness: full
 author: OHA
 published: 2025-03-19
 date_precision: day

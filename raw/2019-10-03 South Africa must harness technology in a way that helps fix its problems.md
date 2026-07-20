@@ -3,6 +3,8 @@ type: source
 title: "South Africa must harness technology in a way that helps fix its problems"
 publisher: The Conversation
 url: "https://theconversation.com/south-africa-must-harness-technology-in-a-way-that-helps-fix-its-problems-121191"
+date_precision: day
+date_source: source
 author: Alison Gillwald
 published: 2019-10-03
 accessed: 2026-07-12
@@ -11,6 +13,7 @@ places: [ZAF]
 topics: [gov.policy, include.divides, capacity.research, tech.ai, data.statistics]
 entities: [[research-ict-africa], [cyril-ramaphosa], [alison-gillwald], [after-access]]
 lens: [colonialism, sovereignty]
+body_completeness: full
 ---
 <!-- Gillwald op-ed. All facts AS OF 2019-10-03: ~half of SA lacks basic internet access, barely-online use "entirely consumptive" (RIA After Access 2017); Ramaphosa's Presidential Commission on 4IR + WEF Centre at CSIR. DO NOT propagate the "~60 million SA Facebook users" Cambridge Analytica figure — it is an error. External expert analysis, not primary evidence; attach to ZAF hub, research-ict-africa, alison-gillwald. Same underlying article as [2]. -->
 

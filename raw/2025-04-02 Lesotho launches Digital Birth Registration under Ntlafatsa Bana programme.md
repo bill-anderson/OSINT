@@ -13,6 +13,7 @@ places: [LSO]
 topics: [dpi.registry, dpi.id, include.access]
 entities: [[lesotho-national-id]]
 lens: []
+body_completeness: full
 ---
 
 <!-- EU Delegation + Govt of Lesotho + UNICEF launched Digital Birth Registration within the Ntlafatsa Bana programme (remarks by EU Amb Paola Amadei, Tankele Sports Ground; attended by King Letsie III, PM Matekane, Min of Gender/Youth/Social Development Pitso Lesaoana). Birth registration = first step in recognising children's rights/identities from birth, opening healthcare + education. Facet of the broader CASH Plus approach under Ntlafatsa Bana (water, energy, nutrition, digitalisation of payments). 20,000 Child Grants Programme (CGP) beneficiaries already receive grants via digital payments (avoiding long journeys); enhances transparency/accountability/cost efficiency. UNICEF-supported, EU contribution. -->

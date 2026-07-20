@@ -4,6 +4,7 @@ title: World Bank Theme Taxonomy (June 2025)
 url: https://openknowledge.worldbank.org/server/api/core/bitstreams/ffdefbe7-7978-4133-886b-85e62e01f87c/content
 publisher: The World Bank — Operations Policy & Country Services
 published: 2025-06-01
+date_precision: month
 ingested: 2026-07-10
 documents_entity: [[world-bank-theme-taxonomy]]
 places: [XGL]

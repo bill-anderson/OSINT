@@ -7,6 +7,8 @@ published: 2022-01-01
 date_precision: year
 date_source: source
 ingested: 2026-07-17
+lens: []
+body_completeness: full
 artefact: "2022-01-01 Eswatini Digital Economy Assessment (World Bank).pdf"
 places: [SWZ]
 topics: [gov.policy, infra.connect, dpi.govtech, tech.industry]

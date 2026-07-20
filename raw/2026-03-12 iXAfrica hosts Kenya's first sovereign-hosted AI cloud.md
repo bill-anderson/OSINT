@@ -3,6 +3,8 @@ type: source
 title: "iXAfrica hosts Kenya's first sovereign-hosted AI cloud"
 publisher: ITWeb Africa
 url: https://itweb.africa/article/ixafrica-hosts-kenyas-first-sovereign-hosted-ai-cloud/rxP3jMBE3V47A2ye
+date_precision: day
+date_source: source
 author: Staff Writer
 published: 2026-03-12
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [KEN]
 topics: [infra.store, tech.ai, infra.capacity]
 entities: [[servernah-cloud], [ixafrica-data-centres]]
 lens: [sovereignty]
+body_completeness: excerpt
 ---
 
 <!-- Kenya's 'first sovereign-hosted' cloud+AI platform, Servernah Cloud, launched at iXAfrica Data Centres' Nairobi campus (Atlancis Technologies + Everse Technology + iXAfrica). Runs AI workloads within African borders; sovereignty framed as retaining talent/revenue/skills, not just local storage. -->

@@ -3,6 +3,8 @@ type: source
 title: Mais de 120 mil Bilhetes de Identidade aguardam levantamento em todo o país
 url: https://angop.ao/noticias/politica/mais-de-120-mil-bilhetes-de-identidade-aguardam-levantamento-em-todo-o-pais/
 publisher: Angop
+lens: []
+body_completeness: full
 author: MGM/FMA/SC
 published: 2026-07-15
 date_precision: day

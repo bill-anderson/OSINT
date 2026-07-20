@@ -6,12 +6,14 @@ publisher: ITWeb Africa
 published: 2025-02-12
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV, CMR]
 topics: [tech.ai, infra.store, infra.capacity]
 entities: [[st-digital], [nvidia]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 ST Digital, a pan-African cloud and data centre solutions provider, has announced GPU Cloud Africa, a service it describes as the first sovereign Artificial Intelligence (AI) hosting platform equipped with NVIDIA GPU processors in Cameroon and Cote d'Ivoire.

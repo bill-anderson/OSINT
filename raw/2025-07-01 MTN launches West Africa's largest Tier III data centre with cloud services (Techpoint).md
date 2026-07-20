@@ -1,10 +1,13 @@
 ---
 type: source
+ingested: 2026-07-17
 places: [NGA]
 topics: [infra.store, dpi.pay, tech.ai]
 entities: [[mtn-nigeria], [mtn-sifiso-dabengwa-data-centre]]
 date_precision: day
 date_source: source
+lens: []
+body_completeness: full
 page: MTN launches West Africa's largest Tier III data centre with cloud services - Techpoint Africa
 title: MTN launches West Africa's largest Tier III data centre with cloud services to rival Amazon, Google, others
 author: Bolu Abiodun

@@ -3,6 +3,7 @@ type: source
 title: South Sudan's ICT Ministry Commends MTN for 25% Tariff Reduction, Urges Further Cuts
 url: https://techafricanews.com/2025/12/12/south-sudans-ict-ministry-commends-mtn-for-25-tariff-reduction-urges-further-cuts/
 publisher: TechAfrica News
+ingested: 2026-07-19
 author: Jennifer Onyeagoro
 published: 2025-12-12
 date_precision: day

@@ -3,6 +3,8 @@ type: source
 title: "Africa CDC head cites major concerns over data, pathogen sharing in US health deals"
 publisher: Channel Africa (Reuters)
 url: https://www.channelafrica.co.za/
+date_precision: day
+date_source: source
 author: Reuters
 published: 2026-03-05
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [ZWE, ZMB, XSS]
 topics: [gov.protect, geopol.usa, dpi.mis]
 entities: [[africa-cdc], [america-first-global-health-strategy], [zimbabwe-us-health-mou], [zambia-us-health-mou]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Africa CDC DG Jean Kaseya: 'huge concerns regarding data, regarding pathogen sharing' in US bilateral health deals; Zimbabwe pulled out of a $367m/5yr deal; Zambia pushed back. Kaseya declined an Africa CDC observer role citing sovereignty. Backfill to [[america-first-global-health-strategy]]/[[africa-cdc]] (corroborates $367m Zimbabwe figure). -->

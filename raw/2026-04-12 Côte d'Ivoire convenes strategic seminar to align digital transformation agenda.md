@@ -3,6 +3,8 @@ type: source
 title: "Cote d'Ivoire convenes strategic seminar to align digital transformation agenda"
 publisher: Tech Review Africa
 url: https://techreviewafrica.com/news/4904/
+date_precision: day
+date_source: source
 author: Robert Kwaku Annor
 published: 2026-04-12
 accessed: 2026-07-11

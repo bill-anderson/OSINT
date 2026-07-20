@@ -3,6 +3,7 @@ type: source
 title: "Listes électorales : Elecam acquiert 1000 nouveaux kits d’enrôlement"
 url: https://lejour.cm/listes-electorales-elecam-acquiert-1000-nouveaux-kits-denrolement/
 publisher: Le Jour
+ingested: 2026-07-18
 author: Prince Nguimbous
 published: 2025-05-08
 date_precision: day
@@ -13,6 +14,7 @@ places: [CMR]
 topics: [dpi.id, dpi.registry]
 entities: [[elecam]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Listes électorales : Elecam acquiert 1000 nouveaux kits d’enrôlement

@@ -6,6 +6,7 @@ publisher: Expresso das Ilhas
 published: 2026-05-27
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [CPV]
 topics: [infra.cybersec, gov.protect]
 entities: [[policia-judiciaria-cv]]

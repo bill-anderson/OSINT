@@ -12,6 +12,7 @@ places: [NAM]
 topics: [infra.cybersec, data.statistics]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 Namibia was ranked in Tier 4 ("Evolving") of the ITU's Global Cybersecurity Index (GCI) for 2024, scoring 37.93 out of 100. Tier 4 countries score between 20 and 55, indicating basic cybersecurity measures with substantial areas needing development.

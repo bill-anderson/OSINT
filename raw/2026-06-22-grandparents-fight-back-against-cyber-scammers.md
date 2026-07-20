@@ -3,6 +3,9 @@ type: source
 title: Grandparents fight back against cyber scammers
 url: https://www.sundaystandard.info/grandparents-fight-back-against-cyber-scammers/
 publisher: Sunday Standard
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Portia Nkani
 published: 2026-06-22
 date_precision: day

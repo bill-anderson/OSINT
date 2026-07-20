@@ -1,10 +1,13 @@
 ---
 type: source
+ingested: 2026-07-17
 places: [NGA]
 topics: [dpi.id, include.access, digital.rural]
 entities: [[nimc], [nigeria-id4d]]
 date_precision: day
 date_source: source
+lens: []
+body_completeness: full
 page: Nigeria launches nationwide drive to boost digital ID coverage, improve inclusion - Biometric Update
 title: Nigeria launches nationwide drive to boost digital ID coverage, improve inclusion
 author: Ayang Macdonald

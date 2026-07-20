@@ -13,6 +13,7 @@ places: [MRT]
 topics: [infra.store, infra.connect, gov.regional]
 entities: []
 lens: [sovereignty]
+body_completeness: full
 ---
 
 The Nouakchott national data centre was inaugurated on Thursday 8 May 2025 by Mauritanian President Mohamed Ould El-Ghazaouani, Minister of Digital Transformation and Modernisation of Administration Ahmed Salem Bede Etvagha, the EU Ambassador and EIB officials. The project bolsters Mauritania's digital sovereignty and supports the West African Regional Communications Infrastructure Programme (WARCIP).

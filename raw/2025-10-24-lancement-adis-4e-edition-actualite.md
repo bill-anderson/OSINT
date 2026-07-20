@@ -6,12 +6,14 @@ publisher: ACTUALITE.CD
 published: 2025-10-24
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: COD-2026-07-17
 places: [COD]
 topics: [tech.innovate, tech.industry, dpi.pay]
 entities: [[adn-drc], [dominique-migisha], [drc-fintech-association], [andis], [africa-digital-innovation-summit], [yogo-dubois], [felix-tshisekedi]]
 lens: []
+body_completeness: full
 ---
 
 Photo d'illustration

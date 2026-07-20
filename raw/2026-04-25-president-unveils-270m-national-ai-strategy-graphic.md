@@ -6,12 +6,14 @@ publisher: Graphic Online
 published: 2026-04-25
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: GHA-2026-07-17
 places: [GHA]
 topics: [tech.ai, gov.policy, finance.new, infra.store]
 entities: [[ghana-national-ai-strategy], [samuel-nartey-george]]
 lens: [sovereignty]
+body_completeness: full
 ---
 # President unveils $270m National AI Strategy - $250m computing centre, $20m implementation fund earmarked to create Africa's AI Hub
 

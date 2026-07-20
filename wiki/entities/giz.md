@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: organisation
 title: Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ)
 places: [XGL, XAF, BEN, RWA, TZA, STP, MRT]

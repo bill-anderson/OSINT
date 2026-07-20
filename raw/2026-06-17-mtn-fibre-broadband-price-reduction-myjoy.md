@@ -6,12 +6,14 @@ publisher: MyJoyOnline
 published: 2026-06-17
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: GHA-2026-07-17
 places: [GHA]
 topics: [infra.connect, include.access]
 entities: [[samuel-nartey-george], [mtn-ghana]]
 lens: []
+body_completeness: full
 ---
 # Sam George announces major reduction in MTN fibre broadband prices
 

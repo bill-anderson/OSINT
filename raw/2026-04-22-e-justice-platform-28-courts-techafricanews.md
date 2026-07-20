@@ -6,12 +6,14 @@ publisher: TechAfrica News
 published: 2026-04-22
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [dpi.govtech, dpi.registry, include.access, digital.localgov, gov.policy]
 entities: [[ministry-of-justice-cote-divoire], [sansan-kambile], [e-justice-platform-cote-divoire]]
 lens: []
+body_completeness: full
 ---
 
 # Ivory Coast Expands E-Justice Platform to 28 Courts Nationwide

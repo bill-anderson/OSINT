@@ -10,6 +10,8 @@ ingested: 2026-07-17
 places: [TCD]
 topics: [dpi.pay, include.access, tech.industry, geopol.india]
 entities: [[airtel-chad], [ecobank], [airtel-africa]]
+lens: []
+body_completeness: full
 ---
 
 *Date unverified: the clip body carries no internal date, and the event described (initial Airtel Money launch with Ecobank/ETI) reads as considerably older than the clipper's 2024-05-06. Filed date_source: proxy pending verification against the source page.*

@@ -6,12 +6,14 @@ publisher: Hespress English
 published: 2025-11-07
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: MAR-2026-07-17
 places: [MAR]
 topics: [infra.connect, include.access]
 entities: [[maroc-telecom], [orange], [inwi]]
 lens: []
+body_completeness: full
 ---
 
 # What 5G could mean for Morocco's economy and its people

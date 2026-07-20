@@ -3,6 +3,7 @@ type: source
 title: "Réduction de la fracture numérique : Cotonou accueille le Sommet mondial sur la société de l'information (SMSI+20)"
 url: https://fraternite.bj/reduction-de-la-fracture-numerique-cotonou-accueille-le-sommet-mondial-sur-la-societe-de-linformation-smsi20/
 publisher: Fraternité
+ingested: 2026-07-18
 author: emmanuel.dulac.h
 published: 2025-05-13
 date_precision: day
@@ -13,6 +14,7 @@ places: [BEN]
 topics: [include.divides, gov.policy, dpi.id, gov.regional]
 entities: [[rpbnip-benin], [assemblee-nationale-benin], [african-union], [itu]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Réduction de la fracture numérique : Cotonou accueille le Sommet mondial sur la société de l'information (SMSI+20)

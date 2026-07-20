@@ -3,6 +3,7 @@ type: source
 title: "America First, Africa Last: Data Extraction from Africa's Bodies and the Erosion of Health Sovereignty"
 publisher: Pambazuka News
 url: https://pambazuka.org/Data-Extraction-from-Africa
+date_source: source
 author: Ahmed Olayinka Sule
 published: 2026-01
 date_precision: month
@@ -12,6 +13,7 @@ places: [KEN, NGA, UGA, RWA, LBR, CMR, SWZ, LSO, MOZ, CIV, BWA, MDG, SLE, ETH]
 topics: [gov.protect, gov.policy, geopol.usa, geopol.china, dpi.mis, gov.regional]
 entities: [[america-first-global-health-strategy], [us-kenya-health-framework], [africa-cdc], [african-union], [specimen-sharing-agreement]]
 lens: [sovereignty, colonialism]
+body_completeness: full
 ---
 
 <!-- Named-analyst deep-dive: 14 African countries signed AFGHS bilateral agreements totalling ~$16bn; only Kenya's framework public (signed 4 Dec 2025). The Model Specimen Sharing Agreement — share data within 5 days of US request, onward-share to up to 10 non-US entities, 25-year duration; asymmetric (Kenya audits 5% of facilities, 7-day outbreak detection, 1-day US notification; no reciprocity); 'not an international agreement', no legal recourse. Kenya court suspended part. Backfill to [[america-first-global-health-strategy]]. (Frontmatter author fields wrong; body signed Ahmed Olayinka Sule.) -->

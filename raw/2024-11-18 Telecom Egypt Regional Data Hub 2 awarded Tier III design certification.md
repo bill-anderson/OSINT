@@ -11,6 +11,7 @@ places: [EGY]
 topics: [infra.store, infra.connect]
 entities: [[telecom-egypt]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Telecom Egypt's Regional Data Hub 2 awarded Tier III design certification

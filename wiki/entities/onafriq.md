@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: company
 title: Onafriq (formerly MFS Africa)
 places: [XAF, COD, KEN, NGA, GHA, XWA]

@@ -3,6 +3,9 @@ type: source
 title: Botswana Minister Embarks on Strategic China, Austria Visits to Boost Digital Transformation
 url: https://techafricanews.com/2026/04/09/botswana-minister-embarks-on-strategic-china-austria-visits-to-boost-digital-transformation/
 publisher: TechAfrica News
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Kay-Lyne Wolfenden
 published: 2026-04-09
 date_precision: day

@@ -3,6 +3,8 @@ type: source
 title: eKash is a welcome step towards seamless regional payments
 url: https://www.newtimes.co.rw/article/37448/opinions/editorial/ekash-is-a-welcome-step-towards-seamless-regional-payments
 publisher: The New Times
+ingested: 2026-07-19
+lens: []
 author: The New Times (Editorial)
 published: 2026-07-16
 date_precision: day

@@ -6,12 +6,14 @@ publisher: TechAfrica News
 published: 2026-01-26
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 places: [DZA]
 topics: [infra.cybersec, gov.legislate, gov.policy, gov.protect, gov.standards, infra.store]
 entities: [[assi], [national-council-for-information-systems-security-algeria], [anpdp], [high-commission-for-digitalization-algeria], [national-authority-for-prevention-of-ict-crimes-algeria], [ministry-of-national-defense-algeria]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Algeria Strengthens Cybersecurity Framework to Protect National Infrastructure

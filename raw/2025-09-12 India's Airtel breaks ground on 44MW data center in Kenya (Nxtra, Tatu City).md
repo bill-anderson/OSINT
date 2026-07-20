@@ -13,6 +13,7 @@ places: [KEN]
 topics: [infra.store, geopol.india, finance.new, infra.energy]
 entities: [[airtel-africa]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Airtel broke ground on a 44MW data center in Kenya via Airtel Africa's Nxtra arm — in Tatu City SEZ outside Nairobi (low taxes, import/stamp-duty exemptions; ~95% renewable energy, a third solar). Two phases (22MW each), operational Q1 2027; reportedly the country's largest by capacity, ~KES 19bn (~$147m). Nxtra launched in Africa Jan 2024; jointly owned by Airtel Africa + Carlyle (24%). Most Kenyan DCs are around Nairobi (Safaricom, iXAfrica, Digital Realty). -->

@@ -6,12 +6,14 @@ publisher: We Are Tech Africa
 published: 2025-07-31
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CPV-2026-07-17
 places: [CPV]
 topics: [tech.innovate, tech.industry, capacity.training, finance.new]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 # Cape Verde Ramps Up Digital Start-up Ecosystem to Boost Economy

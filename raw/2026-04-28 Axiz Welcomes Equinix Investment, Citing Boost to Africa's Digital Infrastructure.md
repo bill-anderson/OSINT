@@ -3,6 +3,8 @@ type: source
 title: "Axiz Welcomes Equinix Investment, Citing Boost to Africa's Digital Infrastructure"
 publisher: Tech Africa News
 url: https://techafricanews.com/2026/04/28/axiz-welcomes-equinix-investment-citing-boost-to-africas-digital-infrastructure/
+date_precision: day
+date_source: source
 author: Jennifer Onyeagoro
 published: 2026-04-28
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [ZAF, XAF]
 topics: [infra.store, tech.ai, gov.protect]
 entities: [[equinix], [axiz]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Axiz (Equinix SA distribution partner) welcomes the Equinix investment; thin, no figure for the Equinix outlay itself. Drivers: AI workloads, hybrid cloud, data-sovereignty. Establishes the Axiz channel entity. -->

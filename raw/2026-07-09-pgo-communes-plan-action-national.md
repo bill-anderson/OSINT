@@ -3,6 +3,9 @@ type: source
 title: "Partenariat pour un gouvernement ouvert : les communes entrent en action"
 url: https://www.lanation.bj/societe/partenariat-pour-un-gouvernement-ouvert-les-communes-entrent-en-action
 publisher: La Nation
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Joël C. TOKPONOU
 published: 2026-07-09
 date_precision: day

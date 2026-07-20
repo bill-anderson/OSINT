@@ -13,6 +13,7 @@ places: [GMB]
 topics: [dpi.registry, include.access, dpi.mis]
 entities: [[gambia-social-registry]]
 lens: []
+body_completeness: full
 ---
 
 <!-- The Gambia Social Registry (GamSR), initiated 2021, now covers 40 of 43 districts and 203,022 households (~70% of population in 2 years). Underpinned 'Nafa Quick' COVID response (78,422 households, 30 districts) and the Nafa cash-transfer programme (20 districts, 16,966 households). Also used by National Disaster Management Agency, ROOTS project (Agriculture), WFP. Success factors: stakeholder buy-in; standardized assessment (digitized questionnaire + proxy means test); institutional arrangements (Gambia Bureau of Statistics GBoS); tech enablers (CAPI, Social Registry Information System SRIS with automated data-quality checks). Challenges: remote populations, data accuracy, infrastructure, data security. -->

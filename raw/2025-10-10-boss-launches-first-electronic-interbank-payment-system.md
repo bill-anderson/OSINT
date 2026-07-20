@@ -10,6 +10,7 @@ ingested: 2026-07-20
 places: [SSD]
 topics: [dpi.pay, dpi.exchange, dpi.govtech, gov.regional, include.access]
 entities: [[bank-of-south-sudan], [ssips-south-sudan], [addis-ababa-othow], [samuel-yanga-mikaya], [salva-kiir], [martin-elia-lomuro], [garang-majak-bol], [ministry-of-finance-south-sudan], [south-sudan-bankers-association], [bruna-siricio], [eac], [african-development-bank]]
+lens: []
 body_completeness: full
 ---
 

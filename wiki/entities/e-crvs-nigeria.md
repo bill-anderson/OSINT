@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: initiative
 title: e-CRVS (Nigeria electronic Civil Registration and Vital Statistics System)
 places: [NGA]

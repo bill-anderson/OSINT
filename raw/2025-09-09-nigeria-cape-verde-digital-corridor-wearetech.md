@@ -6,12 +6,14 @@ publisher: We Are Tech Africa
 published: 2025-09-09
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CPV-2026-07-17
 places: [CPV, NGA]
 topics: [gov.regional, capacity.training, tech.innovate]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 # Nigeria, Cape Verde Launch African Digital Corridor to Boost Tech and Trade Cooperation

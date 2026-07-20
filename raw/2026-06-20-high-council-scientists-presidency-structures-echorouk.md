@@ -1,6 +1,7 @@
 ---
 type: source
 title: Création de deux importantes structures sous la tutelle de la Présidence de la République
+ingested: 2026-07-18
 title_en: Creation of two structures under the Presidency — High Council of Scientists/Researchers and National Archaeology Agency
 url: https://www.echoroukonline.com/creation-de-deux-importantes-structures-sous-la-tutelle-de-la-presidence-de-la-republique
 publisher: Echorouk El Yawmi
@@ -14,6 +15,7 @@ places: [DZA]
 topics: [capacity.research, tech.innovate, gov.policy]
 entities: [[abdelmadjid-tebboune, haut-conseil-des-scientifiques-et-chercheurs]]
 lens: []
+body_completeness: full
 ---
 
 # Création de deux importantes structures sous la tutelle de la Présidence de la République

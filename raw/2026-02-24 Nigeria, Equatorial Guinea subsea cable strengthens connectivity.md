@@ -3,6 +3,8 @@ type: source
 title: "Nigeria, Equatorial Guinea subsea cable strengthens connectivity"
 publisher: Connecting Africa
 url: https://www.connectingafrica.com/fiber-networking/nigeria-equatorial-guinea-subsea-cable-to-strengthen-regional-connectivity
+date_precision: day
+date_source: source
 author: Daniel Itai
 published: 2026-02-24
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [NGA, GNQ, XWA, XCA]
 topics: [infra.connect, infra.store, gov.regional, infra.cybersec]
 entities: [[backbone-connectivity-network-nigeria], [nigeria-eqguinea-subsea-cable]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Subsea fibre agreement signed in Malabo (Feb 2026) between Backbone Connectivity Network Nigeria (CEO Ibrahim Dikko) and EqGuinea Minister Honorato Evita Oma; includes a commercial data centre. Specs/investment/timelines undisclosed. Nigeria has 7 subsea cables; EqGuinea historically reliant on ACE. Framed as regional data sovereignty. -->

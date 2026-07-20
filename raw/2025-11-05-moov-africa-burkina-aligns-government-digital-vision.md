@@ -3,6 +3,9 @@ type: source
 title: Moov Africa Burkina Faso Aligns with Government Vision to Accelerate Digital and Financial Inclusion
 url: https://techafricanews.com/2025/11/05/moov-africa-burkina-faso-aligns-with-government-vision-to-accelerate-digital-and-financial-inclusion/
 publisher: TechAfrica News
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Kay-Lyne Wolfenden
 published: 2025-11-05
 date_precision: day

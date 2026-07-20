@@ -3,6 +3,7 @@ type: source
 title: "African tech startup funding leaps by almost 50% as sector begins to recover from global \"funding winter\""
 url: https://disruptafrica.com/2026/02/03/african-tech-startup-funding-leaps-by-almost-50-as-sector-begins-to-recover-from-global-funding-winter/
 publisher: Disrupt Africa
+lens: []
 author: Tom Jackson
 published: 2026-02-03
 date_precision: day

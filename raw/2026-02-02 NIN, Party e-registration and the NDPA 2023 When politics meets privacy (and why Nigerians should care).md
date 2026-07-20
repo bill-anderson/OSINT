@@ -3,6 +3,8 @@ type: source
 title: "NIN, Party e-registration and the NDPA 2023: When politics meets privacy"
 publisher: The Guardian Nigeria
 url: https://guardian.ng/opinion/letters/nin-party-e-registration-and-the-ndpa-2023/
+date_precision: day
+date_source: source
 author: El-shaddai Ikeh
 published: 2026-02-02
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [NGA]
 topics: [gov.protect, gov.legislate, dpi.id]
 entities: [[nimc], [ndpc], [nigeria-data-protection-act-2023]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Named-lawyer analysis: the APC's nationwide membership e-registration requires a valid NIN; allegations Enugu civil servants were pressured to submit NINs tied to salary. Legal analysis under the NDPA 2023 (consent, sensitive-data = political affiliation, purpose limitation, DPIA duties). Attach to [[nimc]]/[[ndpc]]/[[nigeria-data-protection-act-2023]]. -->

@@ -7,6 +7,8 @@ published: 2022-02-26
 date_precision: day
 date_source: source
 ingested: 2026-07-17
+lens: []
+body_completeness: full
 artefact: "2022-02-26 Uganda Digital Government Strategy v1.1.pdf"
 places: [UGA]
 topics: [dpi.govtech, gov.policy, dpi.exchange, gov.standards]

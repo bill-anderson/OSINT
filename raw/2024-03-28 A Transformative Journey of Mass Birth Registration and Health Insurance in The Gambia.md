@@ -13,6 +13,7 @@ places: [GMB]
 topics: [dpi.registry, dpi.id, dpi.mis, include.access]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 <!-- WB-financed Gambia Essential Health Services Strengthening Project ran a simultaneous mass registration of birth certificates + national health insurance (Aug 2022–Feb 2023): ~1.17m people (>half the population) issued birth certificates + NHIA cards, each with a unique national ID number + QR code, via an eCRVS system replacing paper. Pre-2020 paper birth-registration completeness ~59%. Integrated the Interior Ministry's national ID system with Health's civil registration; NHIA combined campaign. Real-time UIN generation. Satellite internet in remote areas; public error-reporting portal; daily dashboard; online attendance register for 1,500+ officers. Mar 2023 GBoS survey: ~54% reported registered. eCRVS = foundational interoperability system using the UIN as common key. -->

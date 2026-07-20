@@ -6,12 +6,14 @@ publisher: Fraternité Matin
 published: 2025-02-11
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [infra.cybersec, gov.legislate]
 entities: [[anssi-cote-divoire], [plateforme-de-lutte-contre-la-cybercriminalite], [ci-cert]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Cybersécurité: L'ANSSI officiellement lancée pour renforcer la protection des systèmes d'information

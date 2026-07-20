@@ -13,6 +13,7 @@ places: [BWA]
 topics: [dpi.id, gov.protect, infra.connect]
 entities: [[bocra]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- BOCRA public notice (Mar 2024): mandatory SIM-card registration for all users, under BOCRA's mandate via the Communications Regulatory Authority (CRA) Act 2012, requiring licensed operators' compliance. The SIM-ID/subscriber-identification measure (the ID-adjacent regulatory layer) for Botswana. -->

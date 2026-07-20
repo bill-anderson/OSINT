@@ -3,6 +3,8 @@ type: source
 title: Govt sets 2027 deadline for full shift to digital ID
 url: https://www.newtimes.co.rw/article/34398/news/technology/govt-sets-2027-deadline-for-full-shift-to-digital-id
 publisher: The New Times
+ingested: 2026-07-19
+lens: []
 author: Joan Mbabazi
 published: 2026-03-26
 date_precision: day

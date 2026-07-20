@@ -3,6 +3,8 @@ type: source
 title: "How Africa and Europe could create global AI governance rules"
 publisher: PubAffairs Bruxelles
 url: https://www.pubaffairsbruxelles.eu/opinion-analysis/how-africa-and-europe-could-create-global-ai-governance-rules/
+date_precision: day
+date_source: source
 author: Melody Musoni; Verengai Mabika (ECDPM)
 published: 2026-01-21
 accessed: 2026-07-12
@@ -11,6 +13,7 @@ places: [XAF, XGL]
 topics: [tech.ai, gov.legislate, gov.regional, geopol.eu, gov.protect]
 entities: [[african-union], [european-union], [au-continental-ai-strategy], [au-data-policy-framework], [ecdpm]]
 lens: [sovereignty, colonialism]
+body_completeness: full
 ---
 
 <!-- ECDPM analysts (human-authored, admissible) argue AU+EU should co-create a human-centric AI governance framework blending EU AI Act + AU Continental AI Strategy + AU Data Policy Framework, beyond a "standards-setter vs standards-taker" dynamic. 7th AU-EU summit Nov 2025 declaration deemed weak; May 2025 communiqué more ambitious. Explicit "digital colonialism" framing → colonialism lens. New entities: ecdpm, au-data-policy-framework. -->

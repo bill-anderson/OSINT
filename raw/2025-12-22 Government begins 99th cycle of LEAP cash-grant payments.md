@@ -13,6 +13,7 @@ places: [GHA]
 topics: [dpi.pay, include.access, dpi.mis]
 entities: [[leap-ghana]]
 lens: []
+body_completeness: full
 ---
 
 <!-- MoGCSP began LEAP's 99th cycle, disbursement from 22 Dec 2025. GH¢139,329,463.37 released to ~350,580 households (~1.5m people); bi-monthly grants GH¢320-530 by household size. MoF allocated GH¢1.1bn to LEAP (highest since inception); coverage to expand to 400,000 households in 2026. LEAP increasingly runs on mobile-money-enabled G2P rails. -->

@@ -11,6 +11,7 @@ places: [EGY]
 topics: [dpi.govtech, dpi.exchange, gov.policy, include.access]
 entities: [[digital-egypt], [mcit-egypt]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # 5 facts you need to know about Digital Public Infrastructure (UNDP Egypt)

@@ -4,12 +4,15 @@ title: "Conference Sessions"
 publisher: Fintech Festival Tanzania
 url: https://fintechfestival.africa/conference-sessions/
 published: 2025-01-14
+date_precision: day
+date_source: source
 accessed: 2026-07-12
 ingested: 2026-07-12
 places: [TZA]
 topics: [dpi.pay, tech.innovate]
 entities: [[fintech-festival-tanzania]]
 lens: []
+body_completeness: full
 ---
 <!-- Agenda of Fintech Festival Tanzania 2025 (12–13 June 2025, Dar es Salaam): banking/SACCOs, retail/e-commerce, identity summit, blockchain, insurtech; Bank of Tanzania fintech sandbox case study. Marginal value (programme, no dated intelligence beyond the event). Attach: [[fintech-festival-tanzania]] (needs-review). -->
 

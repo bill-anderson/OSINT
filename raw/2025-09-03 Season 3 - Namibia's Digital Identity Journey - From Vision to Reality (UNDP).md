@@ -12,6 +12,7 @@ places: [NAM]
 topics: [dpi.id, dpi.exchange, dpi.pay, gov.policy]
 entities: [[undp], [namibia-digital-id], [ministry-home-affairs-namibia], [namibia-civil-registration-identification-act-2024]]
 lens: []
+body_completeness: full
 ---
 
 UNDP Namibia's final instalment in its digital legal identity (DLI) series, on how MHAISS is building Namibia's digital identity system with UNDP support.

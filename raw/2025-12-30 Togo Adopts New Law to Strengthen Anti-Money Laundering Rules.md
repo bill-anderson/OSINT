@@ -3,6 +3,8 @@ type: source
 title: Togo Adopts New Law to Strengthen Anti-Money Laundering Rules
 url: https://www.togofirst.com/en/economic-governance/3012-17892-togo-adopts-new-law-to-strengthen-anti-money-laundering-rules
 publisher: Togo First
+lens: []
+body_completeness: full
 author: Togo First (R.E.D)
 published: 2025-12-30
 date_precision: day

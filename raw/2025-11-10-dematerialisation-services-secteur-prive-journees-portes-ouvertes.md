@@ -3,6 +3,9 @@ type: source
 title: "Dématérialisation des services: le secteur privé s’approprie les procédures"
 url: https://www.sidwaya.info/dematerialisation-des-services-le-secteur-prive-sapproprie-les-procedures/
 publisher: Sidwaya
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Wanlé Gérard COULIBALY
 published: 2025-11-10
 date_precision: day

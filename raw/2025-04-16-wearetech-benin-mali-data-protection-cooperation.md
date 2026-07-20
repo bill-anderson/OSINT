@@ -3,6 +3,7 @@ type: source
 title: Benin and Mali Enhance Data Protection Cooperation
 url: https://www.wearetech.africa/en/fils-uk/news/public-management/benin-and-mali-enhance-data-protection-cooperation
 publisher: We Are Tech Africa
+ingested: 2026-07-18
 author: Samira Njoya
 published: 2025-04-16
 date_precision: day
@@ -13,6 +14,7 @@ places: [BEN, MLI]
 topics: [gov.protect, gov.regional, gov.standards]
 entities: [[apdp-benin], [rapdp]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Benin and Mali Enhance Data Protection Cooperation

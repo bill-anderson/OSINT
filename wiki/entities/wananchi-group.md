@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: company
 title: Wananchi Group (Holdings) Ltd
 places: [UGA, KEN]

@@ -3,6 +3,7 @@ type: source
 title: BEAC Joins PAPSS to Strengthen Cross-Border Payments in Central Africa
 url: https://techafricanews.com/2026/07/09/beac-joins-papss-to-strengthen-cross-border-payments-in-central-africa/
 publisher: TechAfrica News
+ingested: 2026-07-18
 author: Akim Benamara
 published: 2026-07-09
 date_precision: day
@@ -11,6 +12,7 @@ places: [CMR, XCA]
 topics: [dpi.pay, dpi.exchange, gov.regional, finance.mou, include.access, tech.industry]
 entities: [[beac], [papss], [afreximbank], [african-union], [afcfta], [bceao]]
 lens: [sovereignty]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: CMR-2026-07-17
 ---

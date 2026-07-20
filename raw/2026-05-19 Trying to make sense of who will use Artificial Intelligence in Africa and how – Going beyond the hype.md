@@ -3,6 +3,8 @@ type: source
 title: "Trying to make sense of who will use Artificial Intelligence in Africa and how – Going beyond the hype"
 publisher: Russell Southwood (Substack)
 url: "https://russellsouthwood.substack.com/p/trying-to-make-sense-of-who-will"
+date_precision: day
+date_source: source
 author: Russell Southwood
 published: 2026-05-19
 accessed: 2026-07-12
@@ -11,6 +13,7 @@ places: [XSS, KEN, ZAF, NGA, EGY, MAR]
 topics: [tech.ai, infra.store, dpi.pay, finance.new, geopol.usa, capacity.training]
 entities: [[russell-southwood], [mtn-group], [airtel-africa], [vodacom], [orange], [cassava-technologies], [cassava-ai-factories], [nvidia], [ixafrica-data-centres], [microsoft], [microsoft-g42-kenya-datacenter], [g42], [google], [meta], [space42], [digital-investment-facility], [african-development-bank]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Analysis: demand-side reframing of Africa's AI debate (drawn from WIOCC Africa Interconnection 2026 report); splits consumer inference (product-taker) vs specialist training by MNOs/banks/govs; surveys GPU-as-a-Service (Nvidia partners) and warns Microsoft–G42 Kenya exposed weak anchor-tenant demand. Attach: microsoft-g42-kenya-datacenter (anchor-tenant critique), cassava-technologies/cassava-ai-factories (GPU phase-1+expansion), mtn-group (Genova/EVA/Bayobab DC hire). -->

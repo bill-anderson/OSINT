@@ -3,6 +3,8 @@ type: source
 title: "Starlink pushes for SA license with advocacy campaign"
 publisher: Connecting Africa
 url: https://www.connectingafrica.com/regulation/
+date_precision: day
+date_source: source
 author: Matshepo Sehloho
 published: 2026-02-18
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [ZAF]
 topics: [infra.connect, gov.legislate, gov.policy, geopol.usa]
 entities: [[starlink], [icasa], [spacex]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Starlink running an online advocacy campaign to lobby for a SA licence (after a Jan 2026 email urging customers to pressure ICASA). SA rules require 30% ownership by historically-disadvantaged persons; Minister Malatsi proposed EEIPs as an alternative (Dec 12 2025 policy direction to ICASA). SpaceX pledged R2.5bn to comply with B-BBEE; committee chair called the campaign 'an affront'. Backfill to [[starlink]]/[[icasa]]. -->

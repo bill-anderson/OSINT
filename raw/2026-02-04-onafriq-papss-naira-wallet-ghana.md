@@ -6,6 +6,7 @@ publisher: TechAfrica News
 published: 2026-02-04
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [NGA, GHA]
 topics: [dpi.pay, gov.regional]
 entities: [[onafriq], [papss], [central-bank-of-nigeria]]

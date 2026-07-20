@@ -6,12 +6,14 @@ publisher: ITWeb Africa
 published: 2026-07-09
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: GHA-2026-07-17
 places: [GHA]
 topics: [infra.connect, gov.legislate]
 entities: [[ngic-ghana], [mtn-ghana], [telecel-ghana], [national-communications-authority-ghana]]
 lens: []
+body_completeness: full
 ---
 
 # Ghana widens 5G competition

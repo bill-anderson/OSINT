@@ -6,12 +6,14 @@ publisher: Tech Africa News
 published: 2025-03-18
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: MAR-2026-07-17
 places: [MAR]
 topics: [tech.industry]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 # GITEX Africa Morocco 2025 returns bigger than ever

@@ -4,11 +4,14 @@ title: FG Halts Enforcement of New Regulations on Internet Platforms
 url: https://www.nigeriacommunicationsweek.com.ng/fg-halts-enforcement-of-new-regulations-on-internet-platforms/
 publisher: Nigeria Communications Week
 published: 2026-07-08
+date_precision: day
+date_source: source
 ingested: 2026-07-10
 places: [NGA]
 topics: [gov.policy, gov.legislate, gov.protect, tech.ai]
 entities: [[bosun-tijani], [nitda], [ndpc], [ncc]]
 lens: [sovereignty]
+body_completeness: excerpt
 ---
 ![](https://i0.wp.com/www.nigeriacommunicationsweek.com.ng/wp-content/uploads/2026/06/Bosun-Tijani-Communincations-Innovations-and-Digital-Economy-minister.jpg?w=648&ssl=1)
 

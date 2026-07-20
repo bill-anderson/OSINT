@@ -6,6 +6,7 @@ publisher: Tech Review Africa
 published: 2026-04-30
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [SWZ]
 topics: [gov.policy, gov.standards, data.open, gov.protect]
 entities: [[ministry-of-ict-eswatini], [european-union], [germany]]

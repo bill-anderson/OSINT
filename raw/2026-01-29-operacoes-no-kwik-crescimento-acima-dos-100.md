@@ -3,6 +3,8 @@ type: source
 title: Operações no KWiK registam crescimento acima dos 100%
 url: https://angop.ao/noticias/economia/operacoes-no-kwik-registam-crescimento-acima-dos-100/
 publisher: Angop
+lens: []
+body_completeness: full
 author: ACC/QCB
 published: 2026-01-29
 date_precision: day

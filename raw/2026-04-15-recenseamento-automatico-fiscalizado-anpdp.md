@@ -6,6 +6,7 @@ publisher: Téla Nón
 published: 2026-04-15
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [STP]
 topics: [gov.protect, dpi.registry, dpi.exchange]
 entities: [[anpdp], [dgrn]]

@@ -3,6 +3,7 @@ type: source
 title: Benin makes its case as Africa's next cybersecurity hotspot at Cyber Africa Forum
 url: https://techcabal.com/2025/06/26/benin-cyber-africa-forum/
 publisher: TechCabal
+ingested: 2026-07-18
 author: Faith Omoniyi
 published: 2025-06-26
 date_precision: day
@@ -13,6 +14,7 @@ places: [BEN]
 topics: [infra.cybersec, tech.innovate, finance.new, infra.store, tech.ai]
 entities: [[cyber-africa-forum], [asin], [mtn-benin], [ecobank]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Benin makes its case as Africa's next cybersecurity hotspot at Cyber Africa Forum

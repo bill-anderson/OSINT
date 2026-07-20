@@ -3,6 +3,8 @@ type: source
 title: Robust DPI inevitable for Eswatini's economic, jobs boom: World Bank
 url: https://www.biometricupdate.com/202508/robust-dpi-inevitable-for-eswatinis-economic-jobs-boom-world-bank
 publisher: Biometric Update
+lens: []
+body_completeness: full
 author: Ayang Macdonald
 published: 2025-08-05
 date_precision: day

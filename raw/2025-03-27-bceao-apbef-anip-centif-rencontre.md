@@ -3,6 +3,9 @@ type: source
 title: "Première rencontre 2025 entre la Bceao et l'Apbef : les Banques, l'Anip, la Centif et la Bceao mutualisent leurs efforts pour de meilleurs résultats"
 url: https://fraternite.bj/premiere-rencontre-2025-entre-la-bceao-et-lapbef-les-banques-lanip-la-centif-et-la-bceao-mutualisent-leurs-efforts-pour-de-meilleurs-resultats/
 publisher: Fraternité
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Isac YAI
 published: 2025-03-27
 date_precision: day

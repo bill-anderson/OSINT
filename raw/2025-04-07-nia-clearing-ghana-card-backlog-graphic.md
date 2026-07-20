@@ -6,12 +6,14 @@ publisher: Graphic Online
 published: 2025-04-07
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: GHA-2026-07-17
 places: [GHA]
 topics: [dpi.id]
 entities: [[national-identification-authority-ghana], [ghana-card]]
 lens: []
+body_completeness: full
 ---
 # NIA clearing backlog of printed Ghana Cards, applicants urged to collect them from district offices
 

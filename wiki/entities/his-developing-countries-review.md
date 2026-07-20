@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: instrument
 title: Health information systems in developing countries — case of African countries
 places: [XSS, GAB]

@@ -3,6 +3,8 @@ type: source
 title: Togo Expands Public Service Digitisation With Online Civil Registry Platform
 url: https://www.togofirst.com/en/public-services/1712-17829-togo-expands-public-service-digitisation-with-online-civil-registry-platform
 publisher: Togo First
+lens: []
+body_completeness: full
 author: Togo First (R.E.D)
 published: 2025-12-17
 date_precision: day

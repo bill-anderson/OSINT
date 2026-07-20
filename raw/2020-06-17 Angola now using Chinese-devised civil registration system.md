@@ -13,6 +13,7 @@ places: [AGO]
 topics: [dpi.id, dpi.registry, geopol.china]
 entities: []
 lens: [sovereignty, colonialism]
+body_completeness: full
 ---
 
 <!-- Forum Macao (China–PLP forum, semi-official) quoting Jornal de Angola: Angola began (June 2020) using a new civil-registration system DEVISED BY CHINA — state-owned China National Electronics Import & Export Corp (CEIEC) won the contract in Nov 2019. Rolled out first in Luanda; supplies each citizen a birth-certificate copy for use in applying for a national ID card. Goal: register 12 million Angolans' births by 2022, more cheaply. Technical lead: Fernando Fortes. This is the China-facing leg of Angola's DPI story — predating the 2025 India/Aadhaar pivot and the UAE/G42 MoU; a data-sovereignty flag (foreign-devised core civil-registration infrastructure). -->

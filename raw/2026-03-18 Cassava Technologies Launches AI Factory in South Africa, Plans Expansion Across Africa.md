@@ -3,6 +3,8 @@ type: source
 title: "Cassava Technologies Launches AI Factory in South Africa, Plans Expansion Across Africa"
 publisher: Tech Africa News
 url: https://techafricanews.com/2026/03/18/
+date_precision: day
+date_source: source
 author: Jennifer Onyeagoro
 published: 2026-03-18
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [ZAF, NGA, KEN, EGY, MAR]
 topics: [tech.ai, infra.capacity, infra.store, gov.protect]
 entities: [[cassava-ai-factories], [cassava-technologies], [nvidia], [cassava-ai], [caimex]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Backfill/update to [[cassava-ai-factories]]: AI Factory deploying in South Africa, scaling to Nigeria/Kenya/Egypt/Morocco; Cassava = 'continent's first NVIDIA Cloud Partner' (GPUaaS/AIaaS); CAIMEx (NVIDIA Blueprints/NIM) launched 2025; Cassava Autonomous Network for MNOs; languages Swahili -> Zulu/Afrikaans. -->

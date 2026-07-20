@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: organisation
 title: Tech Hive Advisory
 url: https://www.techhiveadvisory.africa/

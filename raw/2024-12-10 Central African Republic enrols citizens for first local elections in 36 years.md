@@ -13,6 +13,7 @@ places: [CAF]
 topics: [dpi.id, dpi.registry, include.access]
 entities: [[ane-central-african-republic], [genkey], [undp], [faustin-archange-touadera]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Biometric voter registration underway in CAR ahead of local elections (first in ~36 years). Touadera launched the process in Bangui, first to verify his own listing. Bangui phase ran 24 Nov–7 Dec 2024; rest of country to 15 Dec. Vendor GenKey; 3,000 enrolment tablets, 1,469 registration agents. Backed by UNDP. Exercise both verifies 2020 registrants and enrols first-timers. -->

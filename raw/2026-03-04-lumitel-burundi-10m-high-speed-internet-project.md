@@ -3,6 +3,9 @@ type: source
 title: Lumitel Burundi Launches $10M High-Speed Internet Project Across the Country
 url: https://techafricanews.com/2026/03/04/lumitel-burundi-launches-10m-high-speed-internet-project-across-the-country/
 publisher: TechAfrica News
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Jennifer Onyeagoro
 published: 2026-03-04
 date_precision: day

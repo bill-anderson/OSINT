@@ -11,6 +11,7 @@ places: [RWA]
 topics: [dpi.id, gov.legislate, infra.cybersec, gov.protect]
 entities: [[rwanda-sim-card-registration-regulation-2024], [rura-rwanda], [nida-rwanda]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Regulation Governing SIM Card Registration in Rwanda (RURA No. 18/2024)

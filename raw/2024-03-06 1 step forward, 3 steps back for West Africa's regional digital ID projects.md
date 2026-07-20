@@ -12,6 +12,7 @@ places: [TGO, BFA, MLI, NER, GIN, CIV, BEN, XWA]
 topics: [dpi.id, gov.regional, include.access, finance.new]
 entities: [[wuri-programme], [ecowas], [anid-togo], [inseed-togo], [world-bank]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 *Historical baseline (Mar 2024 test registration) — must not out-rank the Nov-2025 ANID rollout on current state. The clip renders INSEED and ANID as *ministries*; they are agencies under the Planning and Digital Economy ministries respectively — wire-copy error, not propagated.*

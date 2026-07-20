@@ -6,12 +6,14 @@ publisher: Fraternité Matin
 published: 2025-07-13
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [finance.new, tech.industry, tech.innovate]
 entities: [[ivoire-tech-forum], [ministere-de-la-transition-numerique-et-de-la-digitalisation-cote-divoire], [fonds-ivoirien-de-linnovation-technologique], [cicg]]
 lens: []
+body_completeness: full
 ---
 
 # Ivoire Tech 2025 / Secteur numérique: Plus de 250 milliards de FCfa investis pour 2 965 emplois directs créés

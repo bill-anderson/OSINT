@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: instrument
 title: South Sudan Data Protection Bill (draft)
 places: [SSD]

@@ -12,6 +12,7 @@ places: [SLE]
 topics: [dpi.exchange, dpi.govtech, gov.standards]
 entities: [[world-bank]]
 lens: []
+body_completeness: full
 ---
 
 # Sierra Leone Government Service Bus prototype - Terms of Reference (World Bank)

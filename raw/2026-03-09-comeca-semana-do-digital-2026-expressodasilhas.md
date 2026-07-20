@@ -6,10 +6,12 @@ publisher: Expresso das Ilhas
 published: 2026-03-09
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [CPV]
 topics: [gov.policy, dpi.govtech, tech.innovate]
 entities: [[gov-cv], [semana-do-digital], [pro-empresa], [olavo-correia]]
 lens: []
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: CPV-2026-07-17
 ---

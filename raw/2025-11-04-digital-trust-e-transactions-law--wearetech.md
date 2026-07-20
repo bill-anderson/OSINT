@@ -6,12 +6,14 @@ publisher: We Are Tech
 published: 2025-11-04
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 places: [DZA]
 topics: [gov.legislate, dpi.id, gov.protect, dpi.pay, gov.policy, finance.new]
 entities: [[algeria-digital-id-trust-law], [council-of-ministers-algeria], [algeria-biometric-id-card]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Algeria Approves Law to Strengthen Digital Trust and E-Transactions

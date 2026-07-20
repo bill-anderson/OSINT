@@ -7,6 +7,8 @@ published: 2024-11-01
 date_precision: month
 date_source: source
 ingested: 2026-07-17
+lens: []
+body_completeness: full
 artefact: "2024-11-01 Digital Readiness Assessment - Eswatini (UNDP).pdf"
 places: [SWZ]
 topics: [gov.policy, dpi.exchange, infra.connect, include.divides]

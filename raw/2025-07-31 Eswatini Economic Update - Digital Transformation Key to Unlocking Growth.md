@@ -10,6 +10,8 @@ ingested: 2026-07-17
 places: [SWZ]
 topics: [gov.policy, dpi.id, dpi.pay, dpi.exchange, dpi.govtech, infra.connect, infra.cybersec, capacity.training, tech.innovate, digital.rural, finance.new]
 entities: [[eswatini-economic-update-2025], [world-bank], [eptc], [ministry-of-ict-eswatini]]
+lens: []
+body_completeness: full
 ---
 
 Eswatini's economy is projected to grow by about 5% in 2025. Sustaining this growth will require decisive action to accelerate digital transformation, strengthen fiscal resilience, and tackle structural challenges. These are the findings of the latest Eswatini Economic Update (EEU): Harnessing the potential of digital technologies for Eswatini's growth and job creation.

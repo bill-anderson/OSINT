@@ -3,6 +3,8 @@ type: source
 title: "Ghana Mobile Money Interoperability Nearly Doubles in 2025"
 publisher: News Ghana
 url: https://www.newsghana.com.gh/ghana-mobile-money-interoperability-nearly-doubles-in-2025/
+date_precision: day
+date_source: source
 author: News Ghana
 published: 2026-02-05
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [GHA]
 topics: [dpi.pay, data.statistics, gov.regional, finance.new]
 entities: [[bank-of-ghana], [papss], [afcfta]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Bank of Ghana data (African Prosperity Dialogue): interoperable mobile-money value rose GHc3.1bn (Dec 2024) -> GHc5.8bn (Dec 2025), +87%; count ~20m -> 29m (+45%). Interoperability launched 2018. Ghana participates in PAPSS; fintech passporting with Rwanda; a Virtual Asset Service Providers Act passed. AfCFTA framing. -->

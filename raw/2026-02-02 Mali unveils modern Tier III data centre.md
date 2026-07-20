@@ -3,6 +3,8 @@ type: source
 title: "Mali unveils modern Tier III data centre"
 publisher: ITWeb Africa
 url: https://itweb.africa/article/mali-unveils-modern-tier-iii-data-centre/
+date_precision: day
+date_source: source
 author: Lezeth Khoza
 published: 2026-02-02
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [MLI, NER, BFA]
 topics: [infra.store, infra.cybersec, dpi.govtech, gov.regional]
 entities: [[alliance-of-sahel-states]]
 lens: [sovereignty]
+body_completeness: excerpt
 ---
 
 <!-- Mali inaugurated a Tier III 'National Data Centre' during its 3rd Digital Week (~early Feb 2026), attended by AES (Mali/Niger/Burkina Faso) digital ministers; to host state strategic data + 'mutualised' AES infrastructure; framed as ending dependence on foreign/extraterritorial cloud. -->

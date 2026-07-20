@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: resource
 title: OpenCRVS
 url: https://www.opencrvs.org

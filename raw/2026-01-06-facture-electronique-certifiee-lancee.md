@@ -3,6 +3,9 @@ type: source
 title: "Modernisation de l’administration fiscale: la facture électronique certifiée officiellement lancée"
 url: https://www.sidwaya.info/modernisation-de-ladministration-fiscale-la-facture-electronique-certifiee-officiellement-lancee/
 publisher: Sidwaya
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Adama SAWADOGO
 published: 2026-01-06
 date_precision: day

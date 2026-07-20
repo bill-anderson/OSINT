@@ -6,6 +6,7 @@ publisher: TechAfrica News
 published: 2025-11-10
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [ZAF]
 topics: [infra.store, finance.new, geopol.usa]
 entities: [[teraco]]

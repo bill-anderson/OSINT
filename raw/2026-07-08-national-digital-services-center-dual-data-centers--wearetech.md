@@ -6,12 +6,14 @@ publisher: We Are Tech
 published: 2026-07-08
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 places: [DZA]
 topics: [infra.store, dpi.govtech, dpi.id, dpi.exchange, geopol.china, gov.policy]
 entities: [[national-digital-services-center-algeria], [abdelmadjid-tebboune], [meriem-benmouloud], [huawei], [high-commission-digitalisation-algeria], [dzair-services]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Algeria Opens Dual Data Center Infrastructure to Support Digital Government

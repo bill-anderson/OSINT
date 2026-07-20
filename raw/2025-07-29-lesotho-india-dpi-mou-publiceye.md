@@ -6,10 +6,12 @@ publisher: Public Eye
 published: 2025-07-29
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [LSO]
 topics: [dpi.id, dpi.pay, dpi.exchange, dpi.govtech, gov.policy, finance.mou, geopol.india]
 entities: [[micsti-lesotho], [lesotho-india-dpi-mou], [india-stack]]
 lens: [sovereignty]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: LSO-2026-07-17
 ---

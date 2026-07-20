@@ -3,6 +3,7 @@ type: source
 title: Could Botswana be a regional digital living lab for tech?
 url: https://www.mmegi.bw/opinion-amp-analysis/could-botswana-be-a-regional-digital-living-lab-for-tech/news
 publisher: Mmegi
+ingested: 2026-07-18
 author: Dr Matlhogonolo Mongwa-Mouwane
 published: 2025-02-17
 date_precision: day

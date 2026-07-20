@@ -6,6 +6,7 @@ publisher: Mwananchi
 published: 2025-12-25
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [TZA]
 topics: [dpi.pay, data.statistics]
 entities: [[bank-of-tanzania], [tips-tanzania]]

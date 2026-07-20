@@ -3,6 +3,8 @@ type: source
 title: "Data Protection is the Next Frontier for Nigeria's Digital Economy, Says Samiat"
 publisher: ThisDay Live
 url: https://www.thisdaylive.com/2026/03/04/data-protection-is-the-next-frontier/
+date_precision: day
+date_source: source
 author: ThisDay
 published: 2026-03-04
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [NGA]
 topics: [gov.protect, gov.legislate, finance.new, include.access]
 entities: [[ndpc], [nigeria-data-protection-act-2023]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Named-specialist (Samiat Akande) commentary: data protection as economic infrastructure and a 'trust deficit' issue; cites the Nigeria Data Protection Act 2023 + NDPC; legislation alone insufficient; GDPR as a model. Attach to [[ndpc]] / [[nigeria-data-protection-act-2023]]. -->

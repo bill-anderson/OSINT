@@ -6,6 +6,7 @@ publisher: ActuNiger
 published: 2026-07-16
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [NER]
 topics: [dpi.id, gov.regional, gov.legislate]
 entities: [[niger-national-eid], [alliance-of-sahel-states], [cib-aes], [al-itissal-al-jadeed]]

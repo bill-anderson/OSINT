@@ -3,6 +3,7 @@ type: source
 title: Digital land register, key in fighting fraud - expert
 url: https://www.onecitizendaily.com/index.php/2025/06/18/digital-land-register-key-in-fighting-fraud-expert/
 publisher: One Citizen Daily
+ingested: 2026-07-19
 author: One Citizen Daily Newspaper
 published: 2025-06-18
 date_precision: day

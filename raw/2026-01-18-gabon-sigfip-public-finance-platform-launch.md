@@ -3,6 +3,8 @@ type: source
 title: Gabon Launches Integrated Digital Platform for Public Finance Management
 url: https://www.ecofinagency.com/news/1801-52022-gabon-launches-integrated-digital-platform-for-public-finance-management
 publisher: Ecofin Agency
+lens: []
+body_completeness: full
 author: Chamberline Moko
 published: 2026-01-18
 date_precision: day

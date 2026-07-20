@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: instrument
 title: Uganda National Financial Inclusion Strategy 2023-2028 (NFIS II)
 places: [UGA]

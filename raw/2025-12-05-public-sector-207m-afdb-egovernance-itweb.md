@@ -6,12 +6,14 @@ publisher: ITWeb Africa
 published: 2025-12-05
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CPV-2026-07-17
 places: [CPV]
 topics: [dpi.govtech, finance.new, gov.policy]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 # Cabo Verde's public sector bags $20.7m to digitise

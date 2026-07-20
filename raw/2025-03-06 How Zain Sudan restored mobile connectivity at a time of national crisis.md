@@ -12,6 +12,7 @@ places: [SDN]
 topics: [infra.connect, dpi.pay, infra.store]
 entities: [[zain-sudan], [totogi]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # How Zain Sudan restored mobile connectivity at a time of national crisis

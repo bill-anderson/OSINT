@@ -3,6 +3,8 @@ type: source
 title: SA powers Africa's $1.64bn tech funding rebound
 url: https://www.itweb.co.za/article/sa-powers-africas-164bn-tech-funding-rebound/4r1lyMR9YJR7pmda
 publisher: ITWeb
+lens: []
+body_completeness: full
 author: Sibahle Malinga
 published: 2026-02-27
 date_precision: day

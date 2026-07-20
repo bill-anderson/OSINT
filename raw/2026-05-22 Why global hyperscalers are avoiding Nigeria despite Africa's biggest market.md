@@ -3,6 +3,8 @@ type: source
 title: "Why global hyperscalers are avoiding Nigeria despite Africa's biggest market"
 publisher: BusinessDay
 url: https://businessday.ng/technology/article/why-global-hyperscalers-are-avoiding-nigeria/
+date_precision: day
+date_source: source
 author: Royal Ibeh
 published: 2026-05-22
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [NGA, KEN, ZAF, ETH]
 topics: [infra.store, infra.energy, gov.policy, gov.legislate, tech.ai, geopol.usa]
 entities: [[ncc]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- No hyperscaler runs a full cloud region in Nigeria (only access points to foreign regions); investment lost to Kenya/South Africa. Telecom policy unchanged since 2000; NCC rewriting the National Telecommunications Policy. A ~20MW bitcoin project left Nigeria for Ethiopia over power costs. -->

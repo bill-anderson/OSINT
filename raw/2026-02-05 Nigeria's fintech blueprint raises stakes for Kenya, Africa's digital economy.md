@@ -3,6 +3,8 @@ type: source
 title: "Nigeria's fintech blueprint raises stakes for Kenya, Africa's digital economy"
 publisher: Capital FM
 url: https://capitalfm.africa/
+date_precision: day
+date_source: source
 author: Phidel Kizito
 published: 2026-02-05
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [NGA, KEN, GHA, SEN, ZAF]
 topics: [dpi.pay, gov.policy, finance.new, dpi.id, gov.regional]
 entities: [[cbn-policy-insight-series-2025], [cbn]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Backfill: Kenya-angle reporting on the CBN Policy Insight Series 2025 (Single Regulatory Window, Compliance-as-a-Service; bilateral licence-recognition pilots with Kenya/Ghana/Senegal/South Africa; 88% of fintechs say compliance constrains innovation). Attach to [[cbn-policy-insight-series-2025]]. -->

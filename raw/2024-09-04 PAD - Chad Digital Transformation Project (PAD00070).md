@@ -7,6 +7,8 @@ published: 2024-09-04
 date_precision: day
 date_source: source
 ingested: 2026-07-17
+lens: []
+body_completeness: full
 artefact: "2024-09-04 PAD - Chad Digital Transformation Project (PAD00070).pdf"
 places: [TCD]
 topics: [dpi.govtech, finance.new, infra.connect, infra.store, dpi.id]

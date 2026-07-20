@@ -3,6 +3,7 @@ type: source
 title: "Stratégie numérique Bénin 2031: L'écosystème mobilisé pour tracer la feuille de route"
 url: https://lanation.bj/actualites/strategie-numerique-benin-2031-lecosysteme-mobilise-pour-tracer-la-feuille-de-route
 publisher: La Nation
+ingested: 2026-07-18
 author: Anselme Pascal AGUEHOUNDE
 published: 2026-02-06
 date_precision: day
@@ -13,6 +14,7 @@ places: [BEN]
 topics: [gov.policy, dpi.govtech, infra.connect, dpi.registry, tech.ai]
 entities: [[ministere-du-numerique-et-de-la-digitalisation-benin], [deloitte], [vision-benin-2060]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Stratégie numérique Bénin 2031: L'écosystème mobilisé pour tracer la feuille de route

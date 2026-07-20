@@ -11,6 +11,7 @@ places: [XGL, XSS]
 topics: [include.divides, include.access, dpi.pay, capacity.literacy]
 entities: [[gsma-mobile-gender-gap-report], [gsma], [gates-foundation]]
 lens: []
+body_completeness: full
 ---
 
 # The Mobile Gender Gap Report 2025

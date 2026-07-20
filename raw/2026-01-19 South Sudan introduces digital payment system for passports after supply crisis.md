@@ -3,6 +3,8 @@ type: source
 title: "South Sudan introduces digital payment system for passports after supply crisis"
 publisher: Sudans Post
 url: https://www.sudanspost.com/south-sudan-introduces-digital-payment-system-for-passports-after-supply-crisis/
+date_precision: day
+date_source: source
 author: Sudans Post
 published: 2026-01-19
 accessed: 2026-07-11

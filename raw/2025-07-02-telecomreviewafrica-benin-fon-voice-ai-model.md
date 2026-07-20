@@ -6,12 +6,14 @@ publisher: Telecom Review Africa
 published: 2025-07-02
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: BEN-2026-07-17
 places: [BEN, SEN, CIV]
 topics: [tech.ai, include.divides, include.access, capacity.literacy]
 entities: [[iidia], [asin], [gates-foundation], [nvidia]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Benin Unveils First Localized Voice-to-Voice AI Model

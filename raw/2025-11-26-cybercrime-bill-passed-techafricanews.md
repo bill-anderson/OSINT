@@ -3,6 +3,7 @@ type: source
 title: South Sudan Takes Major Step Against Cybercrime with New Bill
 url: https://techafricanews.com/2025/11/26/south-sudan-takes-major-step-against-cybercrime-with-new-bill/
 publisher: TechAfrica News
+ingested: 2026-07-19
 author: Jennifer Onyeagoro
 published: 2025-11-26
 date_precision: day

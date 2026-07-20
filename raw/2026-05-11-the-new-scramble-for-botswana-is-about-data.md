@@ -3,6 +3,7 @@ type: source
 title: The new scramble for Botswana is about data
 url: https://www.sundaystandard.info/the-new-scramble-for-botswana-is-about-data/
 publisher: Sunday Standard
+ingested: 2026-07-18
 author: Sunday Standard Reporter
 published: 2026-05-11
 date_precision: day
@@ -13,6 +14,7 @@ places: [BWA]
 topics: [gov.protect, include.divides, digital.rural, infra.connect]
 entities: []
 lens: [sovereignty, colonialism]
+body_completeness: full
 ---
 
 # The new scramble for Botswana is about data

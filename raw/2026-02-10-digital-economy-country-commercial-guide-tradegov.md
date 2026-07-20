@@ -13,6 +13,7 @@ places: [MRT]
 topics: [gov.policy, gov.protect, tech.ai, dpi.pay, infra.store, data.statistics]
 entities: [[apd-mauritania], [mtnima-mauritania], [unctad]]
 lens: []
+body_completeness: full
 provenance_flag: off-assigned-host
 ---
 

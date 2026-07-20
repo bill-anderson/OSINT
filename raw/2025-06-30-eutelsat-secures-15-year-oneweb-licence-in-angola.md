@@ -3,6 +3,8 @@ type: source
 title: Eutelsat Group Secures 15-Year License to Operate OneWeb LEO Connectivity in Angola
 url: https://techafricanews.com/2025/06/30/eutelsat-group-secures-15-year-license-to-operate-oneweb-leo-connectivity-in-angola/
 publisher: TechAfrica News
+lens: []
+body_completeness: full
 author: Jennifer Onyeagoro
 published: 2025-06-30
 date_precision: day

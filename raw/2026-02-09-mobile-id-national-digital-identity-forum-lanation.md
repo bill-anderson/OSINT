@@ -6,10 +6,12 @@ publisher: La Nation (Djibouti)
 published: 2026-02-09
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [DJI, SOM, BEN]
 topics: [dpi.id, gov.protect, dpi.govtech, gov.policy, infra.cybersec, include.access]
 entities: [[mobile-id-djibouti], [national-cybersecurity-authority-djibouti], [ansie-djibouti], [to7-network], [vision-djibouti-2035]]
 lens: [sovereignty]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: DJI-2026-07-17
 ---

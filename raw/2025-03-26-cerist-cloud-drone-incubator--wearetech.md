@@ -6,12 +6,14 @@ publisher: We Are Tech
 published: 2025-03-26
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 places: [DZA]
 topics: [infra.store, tech.innovate, capacity.research, infra.cybersec, tech.industry]
 entities: [[cerist], [kamel-baddari], [ministry-of-higher-education-and-scientific-research-algeria]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 Digital technology is a cornerstone of the Algerian government's vision for socioeconomic development. The administration has even made innovation a top priority in its development strategy.

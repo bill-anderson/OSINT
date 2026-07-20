@@ -3,6 +3,8 @@ type: source
 title: "Kenyan Citizens Took A $2.5 Billion Deal With America To Court To Fight For Their Health Data."
 publisher: africaintheroom.substack.com (Africa in the Room)
 url: https://africaintheroom.substack.com/p/kenyan-citizens-took-a-25-billion
+date_precision: day
+date_source: source
 author: Zuria Nagadya
 published: 2026-06-08
 accessed: 2026-07-12
@@ -11,6 +13,7 @@ places: [KEN, GHA, XAF]
 topics: [gov.protect, geopol.usa, infra.store, tech.ai]
 entities: [[zuria-nagadya], [consumer-federation-of-kenya], [us-kenya-health-framework], [america-first-global-health-strategy], [odpc-kenya], [au-data-policy-framework], [microsoft-g42-kenya-datacenter]]
 lens: [sovereignty, colonialism]
+body_completeness: full
 ---
 
 <!-- Nagadya: litigation narrative on the Kenya–US $2.5bn health deal (signed 2025-12-04) — COFEK petition ~8 days later citing Data Protection Act + Digital Health Act, High Court suspension of the data-transfer component, Court of Appeal reversal (case continuing). Surveys the African data-localisation stack (AU Data Policy Framework 2022, Kenya Cloud Policy 2025, Ghana Draft DP Bill 2025) and the 17%-of-people/1%-of-AI-data gap. Same deal as Munyua's Gatekeepers V [[2025-12-15 THE GATEKEEPERS PART V The New Maps of Africa]] — complementary litigation angle. Reconcile $2.5bn / 2025-12-04 with us-kenya-health-framework "as of". External expert analysis. -->

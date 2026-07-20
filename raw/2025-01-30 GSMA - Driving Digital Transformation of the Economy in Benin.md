@@ -13,6 +13,7 @@ places: [BEN]
 topics: [gov.policy, finance.new, dpi.pay, include.access]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 <!-- GSMA report launch (30 Jan 2025, Cotonou): "Driving Digital Transformation of the Economy in Benin." Headline: digital adoption could generate XOF 1.2 trillion GDP by 2028, create 300,000+ jobs, and boost tax revenue by XOF 150bn; total GDP could rise 8% by 2028. Mobile sector contributed XOF 960bn to GDP in 2023. Sector gains by 2028: Agriculture +XOF 197bn/82,000 jobs; Manufacturing +XOF 134bn/77,000 jobs; Transport +XOF 74bn/25,000 jobs; Trade +XOF 39bn/18,000 jobs. Recommends policy reforms (incl. on mobile-money levies). The dated evidence base repeatedly cited by the Benin government (budget, 2031 vision). GSMA rep: Angela Wamola. -->

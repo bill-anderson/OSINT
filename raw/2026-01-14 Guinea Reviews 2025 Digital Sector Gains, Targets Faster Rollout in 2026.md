@@ -13,6 +13,7 @@ places: [GIN]
 topics: [infra.connect, dpi.govtech, gov.policy, infra.store, capacity.training, data.statistics]
 entities: [[ministry-digital-economy-guinea], [rose-pola-pricemou], [fugas], [telemo], [guinea-national-data-centre]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Minister Rose Pola Pricemou's 2025 sector review. Backbone quadrupled to 200 Gbps (from 50); ~12,000 km fibre to all admin regions; first Tier 3 national data centre; IXP operationalized; sovereign .gn management. Gov digitalization: 39 public-service apps; passport via unified portal; TELEMO fully digitized procurement; FUGAS saved >233bn GNF (~$26.9m). Education/inclusion: 10,000+ trained; Univ Connect (80,000+ students/staff); GIGA connected 585 schools (target 2,200 by 2026); 20 more regional hubs; $4m+ in tech entrepreneurship. Telecoms 4.4% of GDP, ~$220m investment; mobile-internet costs -25%. 2026: 600+ white zones, education/e-gov, cybersecurity + local hosting. -->

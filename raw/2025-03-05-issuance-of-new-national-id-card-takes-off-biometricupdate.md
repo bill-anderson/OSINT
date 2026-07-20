@@ -3,6 +3,7 @@ type: source
 title: Cameroonians ecstatic as issuance of new national ID card takes off
 url: https://www.biometricupdate.com/202503/cameroonians-ecstatic-as-issuance-of-new-national-id-card-takes-off
 publisher: Biometric Update
+ingested: 2026-07-18
 author: Ayang Macdonald
 published: 2025-03-05
 date_precision: day
@@ -11,6 +12,7 @@ places: [CMR]
 topics: [dpi.id, gov.legislate, include.access]
 entities: [[dgsn-cameroon], [augentic]]
 lens: [sovereignty]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: CMR-2026-07-17
 ---

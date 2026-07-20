@@ -12,6 +12,7 @@ places: [KEN]
 topics: [dpi.pay, include.access]
 entities: [[pesalink], [africanenda]]
 lens: []
+body_completeness: full
 artefact: "2022-01-01 EN_SIIPS_Casestudy_Pesalink.pdf"
 ---
 

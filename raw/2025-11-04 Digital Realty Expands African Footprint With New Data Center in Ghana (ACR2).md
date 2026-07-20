@@ -13,6 +13,7 @@ places: [GHA]
 topics: [infra.store, geopol.usa, finance.new, infra.connect]
 entities: [[digital-realty], [2africa-cable]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Digital Realty inaugurated ACR2 in Accra end-Oct 2025: 1.7 MW IT capacity, 500 racks / 1,100 sqm, connected to 2Africa and Digital Realty's 300+ DC global platform. ~15 African facilities post-Teraco. Africa held <2% of global colocation capacity (mid-2023); market projected $1.94bn (2025) → $3.85bn (2030), 14.7% CAGR (Mordor). -->

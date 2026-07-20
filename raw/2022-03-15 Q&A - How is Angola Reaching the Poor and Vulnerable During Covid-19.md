@@ -13,6 +13,7 @@ places: [AGO]
 topics: [dpi.pay, dpi.registry, include.access]
 entities: [[kwenda], [world-bank]]
 lens: []
+body_completeness: full
 ---
 
 <!-- World Bank brief on Kwenda, Angola's cash-transfer G2P programme (launched May 2020), implemented by the Social Support Fund (FAS) under the Strengthening the National Social Protection System Project; part of the G2Px digitizing-G2P initiative. 247,000+ head-of-household beneficiaries at time of writing (quarterly ~25,500 kz / ~$40); targets 1.6m low-income families, 60% female-headed. Delivers payments digitally for most beneficiaries — Angola's first cash-transfer programme paying via digital/cash, a financial-inclusion and women's-economic-empowerment lever amid the oil-price/COVID crisis. WB TTL: Emma Mercedes Monsalve Montiel. -->

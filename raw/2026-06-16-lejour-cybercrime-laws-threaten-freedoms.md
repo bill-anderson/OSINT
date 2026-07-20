@@ -3,6 +3,9 @@ type: source
 title: "Cameroun : Quand les lois sur la cybercriminalité menacent les libertés"
 url: https://lejour.cm/cameroun-quand-les-lois-sur-la-cybercriminalite-menacent-les-libertes/
 publisher: Le Jour
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Jean Ateba Onguene
 published: 2026-06-16
 date_precision: day

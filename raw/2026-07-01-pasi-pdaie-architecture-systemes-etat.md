@@ -3,6 +3,9 @@ type: source
 title: "Transformation numérique de l'État: Un cadre commun pour ses Systèmes d'information en préparation"
 url: https://lanation.bj/actualites/transformation-numerique-de-letat-un-cadre-commun-pour-ses-systemes-dinformation-en-preparation
 publisher: La Nation
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Arnaud DOUMANHOUN
 published: 2026-07-01
 date_precision: day

@@ -6,6 +6,7 @@ publisher: Tech Review Africa
 published: 2025-07-16
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 provenance_flag: pr-wire
@@ -13,6 +14,7 @@ places: [DZA]
 topics: [dpi.pay, include.access, digital.rural, infra.cybersec, finance.mou]
 entities: [[algeria-post], [sonelgaz], [posty-mob]]
 lens: []
+body_completeness: full
 ---
 
 **Primary source to obtain at ingest:** the Algerian Ministry of Post and Telecommunications statement on the Algeria Post–Sonelgaz Distribution signing, and the text of the National Digital Payment Strategy 2025 (for the 70%-by-2027 target).

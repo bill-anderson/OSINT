@@ -3,6 +3,8 @@ type: source
 title: "I traced who owns the undersea cables that carry 95% of global internet traffic — the map is a colonial one"
 publisher: Silicon Canals
 url: https://siliconcanals.com/i-traced-who-owns-the-undersea-cables/
+date_precision: day
+date_source: source
 author: Justin Brown
 published: 2026-03-02
 accessed: 2026-07-11

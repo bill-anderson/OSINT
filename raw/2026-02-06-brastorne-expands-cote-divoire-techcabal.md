@@ -6,12 +6,14 @@ publisher: TechCabal
 published: 2026-02-06
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV, BWA]
 topics: [digital.rural, include.divides, include.access, tech.ai, dpi.pay]
 entities: [[brastorne-enterprises], [orange-cote-divoire]]
 lens: []
+body_completeness: full
 ---
 
 By John Adoyi. 6th Feb, 2026.

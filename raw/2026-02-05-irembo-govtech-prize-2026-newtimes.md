@@ -3,6 +3,8 @@ type: source
 title: Rwanda's Irembo scoops global GovTech award
 url: https://www.newtimes.co.rw/article/33101/news/technology/rwandas-irembo-scoops-global-govtech-award
 publisher: The New Times
+ingested: 2026-07-19
+lens: []
 author: Prince Ruzigana
 published: 2026-02-05
 date_precision: day

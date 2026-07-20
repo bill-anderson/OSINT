@@ -6,6 +6,7 @@ publisher: Daily News
 published: 2026-05-22
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [TZA]
 topics: [dpi.id, infra.cybersec]
 entities: [[nida-tanzania]]

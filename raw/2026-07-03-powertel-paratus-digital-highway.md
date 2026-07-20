@@ -6,6 +6,7 @@ publisher: NewsDay
 published: 2026-07-03
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [ZWE]
 topics: [infra.connect, gov.regional, finance.new]
 entities: [[powertel-communications], [paratus-zimbabwe], [zesa], [mutapa-investment-fund], [potraz]]

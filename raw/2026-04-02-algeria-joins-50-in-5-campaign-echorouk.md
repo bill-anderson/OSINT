@@ -1,6 +1,7 @@
 ---
 type: source
 title: الجزائر تنضم إلى الحملة العالمية "50 في 5"
+ingested: 2026-07-18
 title_en: Algeria joins the global "50-in-5" DPI campaign
 url: https://www.echoroukonline.com/%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1-%D8%AA%D9%86%D8%B6%D9%85-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%AD%D9%85%D9%84%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9-50-%D9%81%D9%8A-5
 publisher: Echorouk El Yawmi
@@ -14,6 +15,7 @@ places: [DZA]
 topics: [dpi.exchange, dpi.id, dpi.pay, gov.policy, include.divides]
 entities: [[ministere-de-la-poste-et-des-telecommunications, e-tawki3, undp, algerie-poste]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # الجزائر تنضم إلى الحملة العالمية "50 في 5"

@@ -11,6 +11,7 @@ places: [SEN]
 topics: [dpi.registry, dpi.id, include.access]
 entities: [[nekkal-programme], [anec-senegal]]
 lens: []
+body_completeness: full
 artefact: "[[2023-05-01 senegal.pdf]]"
 ---
 

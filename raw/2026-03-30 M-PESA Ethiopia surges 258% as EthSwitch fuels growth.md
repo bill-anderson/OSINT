@@ -3,6 +3,8 @@ type: source
 title: "M-PESA Ethiopia surges 258% as EthSwitch fuels growth"
 publisher: ITWeb Africa
 url: https://itweb.africa/article/m-pesa-ethiopia-surges-258-as-ethswitch-fuels-growth/
+date_precision: day
+date_source: source
 author: Phathisani Moyo
 published: 2026-03-30
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [ETH]
 topics: [dpi.pay, dpi.exchange, include.access, infra.connect]
 entities: [[safaricom], [ethswitch]]
 lens: []
+body_completeness: excerpt
 ---
 
 <!-- M-PESA Ethiopia active users +258.5% YoY to 5.2m (quarter to Dec 2025), driven by Oct 2025 EthSwitch integration (links to 30+ banks/wallets, real-time transfers, EthQR; 50,000+ merchants). Safaricom Ethiopia service revenue +54.2% to $75m. Safaricom paid $850m for the Ethiopia licence (2021); launched M-PESA there 2023. -->

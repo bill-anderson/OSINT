@@ -6,13 +6,14 @@ publisher: Telecom Review Africa
 published: 2025-10-30
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [KEN]
 topics: [infra.connect, geopol.usa]
 entities: [[safaricom], [meta]]
 lens: []
 retrieved: 2026-07-17
 sweep_batch: KEN-2026-07-17
-body_completeness: clip-full
+body_completeness: full
 ---
 
 # Meta Selects Safaricom as Landing Partner for Daraja Subsea Cable

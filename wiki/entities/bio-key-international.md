@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: company
 title: BIO-key International
 places: [XGL, MOZ]

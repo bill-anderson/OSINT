@@ -3,6 +3,7 @@ type: source
 title: "RNPP et fichier électoral biométrique : le MATD présente les statistiques provisoires (9,01M au RNPP, 6 748 923 électeurs)"
 url: https://mediaguinee.com/2025/07/ibrahima-kalil-conde-matd-ce-processus-de-constitution-du-rnpp-et-du-fichier-electoral-va-permettre-a-la-guinee-de-tourner-definitivement-la-page-des-contestations/
 publisher: Mediaguinee
+ingested: 2026-07-18
 author: Mamadou Yaya Barry
 published: 2025-07-19
 date_precision: day
@@ -13,6 +14,7 @@ places: [GIN]
 topics: [dpi.id, dpi.registry, data.statistics]
 entities: [[matd-guinea], [pn-ravec], [oneci-guinea]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Ibrahima Kalil Condé (MATD) : « ce processus de constitution du RNPP et du fichier électoral va permettre à la Guinée de tourner définitivement la page des contestations »

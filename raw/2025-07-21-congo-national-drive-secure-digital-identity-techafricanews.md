@@ -3,6 +3,7 @@ type: source
 title: Congo Launches National Drive for Secure Digital Identity System
 url: https://techafricanews.com/2025/07/21/congo-launches-national-drive-for-secure-digital-identity-system/
 publisher: TechAfrica News
+ingested: 2026-07-18
 author: Jennifer Onyeagoro
 published: 2025-07-21
 date_precision: day

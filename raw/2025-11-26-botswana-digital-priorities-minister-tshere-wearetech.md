@@ -3,6 +3,9 @@ type: source
 title: Botswana outlines new digital priorities under Minister David Tshere
 url: https://www.wearetech.africa/en/fils-uk/news/tech/botswana-outlines-new-digital-priorities-under-minister-david-tshere
 publisher: We Are Tech Africa
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Samira Njoya
 published: 2025-11-26
 date_precision: day

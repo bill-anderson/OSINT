@@ -3,6 +3,7 @@ type: source
 title: Airtel Congo, Wing Wah to deploy private telecom network (Banga Kayo oil field)
 url: https://www.connectingafrica.com/connectivity/airtel-congo-wing-wah-to-deploy-private-telecom-network
 publisher: Connecting Africa
+ingested: 2026-07-18
 author: Matshepo Sehloho
 published: 2025-08-18
 date_precision: day
@@ -11,6 +12,7 @@ places: [COG]
 topics: [infra.connect, geopol.china, finance.mou, tech.industry]
 entities: [[airtel-congo], [arpce-congo]]
 lens: []
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: COG-2026-07-17
 ---

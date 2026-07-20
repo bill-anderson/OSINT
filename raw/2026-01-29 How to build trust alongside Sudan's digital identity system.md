@@ -3,6 +3,8 @@ type: source
 title: "How to build trust alongside Sudan's digital identity system"
 publisher: World Economic Forum
 url: https://www.weforum.org/stories/emerging-technologies/digital-identity-platform-sudan-recovery/
+date_precision: day
+date_source: source
 author: Yousif Yahya & Abir Ibrahim
 published: 2026-01-29
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [SDN]
 topics: [dpi.id, gov.policy, dpi.pay, include.access]
 entities: [[sudapass], [world-bank]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Sudan preparing to launch SudaPass, a unified national digital ID (Ministry of Telecom & Digital Transformation, under the Baladna e-government programme). >30m need humanitarian aid, >14m displaced (pop. 51m); last census 2008. Recommends the Malabo Convention + World Bank ID Principles as safeguards. -->

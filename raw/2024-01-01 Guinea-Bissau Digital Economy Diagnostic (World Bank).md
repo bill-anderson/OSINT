@@ -12,6 +12,7 @@ places: [GNB]
 topics: [infra.connect, dpi.pay, dpi.id, gov.policy, capacity.training]
 entities: [[guinea-bissau-digital-economy-diagnostic], [world-bank]]
 lens: []
+body_completeness: full
 artefact: "2024-01-01 P177016 Guinea-Bissau Digital Economy Diagnostic.pdf"
 ---
 

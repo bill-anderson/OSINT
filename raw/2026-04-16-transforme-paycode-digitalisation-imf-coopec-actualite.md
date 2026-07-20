@@ -6,12 +6,14 @@ publisher: ACTUALITE.CD
 published: 2026-04-16
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: COD-2026-07-17
 places: [COD]
 topics: [dpi.pay, dpi.exchange, dpi.id, include.access, digital.rural, finance.mou, gov.standards]
 entities: [[projet-transforme-rdc], [paycode-fintech-congo], [animf-rdc], [aprocec-rdc], [banque-centrale-du-congo], [world-bank], [mosolo-card], [advance-congo]]
 lens: []
+body_completeness: full
 ---
 
 Transforme

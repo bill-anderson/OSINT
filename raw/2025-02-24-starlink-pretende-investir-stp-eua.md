@@ -6,6 +6,7 @@ publisher: RSTP (Rádio Televisão de São Tomé e Príncipe)
 published: 2025-02-24
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [STP]
 topics: [infra.connect, geopol.usa]
 entities: [[starlink], [spacex]]

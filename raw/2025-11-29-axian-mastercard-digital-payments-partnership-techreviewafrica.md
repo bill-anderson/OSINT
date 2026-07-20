@@ -6,12 +6,14 @@ publisher: Tech Review Africa
 published: 2025-11-29
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: COM-2026-07-17
 places: [COM, MDG, TZA, TGO, SEN]
 topics: [dpi.pay, finance.mou, include.access]
 entities: [[axian], [mastercard], [mvola]]
 lens: []
+body_completeness: full
 provenance_flag: pr-wire
 ---
 

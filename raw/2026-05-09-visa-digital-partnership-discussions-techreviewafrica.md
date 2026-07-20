@@ -6,12 +6,14 @@ publisher: Tech Review Africa
 published: 2026-05-09
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [dpi.pay, finance.mou, infra.cybersec, tech.innovate]
 entities: [[visa], [ministry-of-digital-transition-cote-divoire], [djibril-ouattara], [tareq-muhmood]]
 lens: []
+body_completeness: full
 provenance_flag: pr-wire
 primary_to_source: Ministry of Digital Transition and Technological Innovation communiqué on the VISA delegation's Abidjan working visit; any Visa statement on the engagement
 ---

@@ -1,6 +1,8 @@
 ---
 type: source
 title: "The Path to a Sovereign Tech Stack is Via a Commodified Tech Stack"
+date_precision: day
+date_source: source
 author: David Eaves
 publisher: Tech Policy Press
 url: https://www.techpolicy.press/the-path-to-a-sovereign-tech-stack-is-via-a-commodified-tech-stack/
@@ -11,6 +13,7 @@ places: [XGL, ZAF]
 topics: [gov.standards, tech.industry, geopol.usa, infra.store, dpi.govtech, gov.policy, geopol.eu, geopol.india]
 entities: [[david-eaves]]
 lens: [sovereignty, colonialism]
+body_completeness: full
 ---
 
 <!-- Named-author analysis/op-ed on Tech Policy Press. Admissible: it cites primary

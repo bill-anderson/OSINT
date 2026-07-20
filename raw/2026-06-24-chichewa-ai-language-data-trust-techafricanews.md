@@ -6,6 +6,7 @@ publisher: TechAfrica News
 published: 2026-06-24
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [MWI]
 topics: [tech.ai, data.open, capacity.research, include.access]
 entities: [[world-bank], [malawi-ministry-of-ict]]

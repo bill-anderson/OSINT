@@ -1,10 +1,13 @@
 ---
 type: source
+ingested: 2026-07-17
 places: [NGA]
 topics: [infra.cybersec]
 entities: [[itu]]
 date_precision: day
 date_source: source
+lens: []
+body_completeness: full
 page: Nigeria among tier-3 countries in Global Cybersecurity Index 2024 - The Guardian Nigeria
 title: Nigeria among tier-3 countries in Global Cybersecurity Index 2024
 author: Anthony (The Guardian Nigeria)

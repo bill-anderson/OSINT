@@ -13,6 +13,7 @@ places: [GHA]
 topics: [dpi.id, gov.legislate, dpi.pay, infra.cybersec]
 entities: [[national-identification-authority-ghana], [ghana-card], [samuel-nartey-george], [national-communications-authority-ghana]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Ghana plans a legislative framework (a bill/Legislative Instrument when parliament reconvenes Oct 2025) to link SIM cards to the Ghana Card and combat mobile money fraud. Biometric SIM + device registration via a Centralized Equipment Identity Register (CEIR) linked to NIA. BoG: MoMo ~$88.3bn (2023); Ghana Police cybercrime unit ~7,250 MoMo fraud cases in 2023 (+32% YoY). Same event as the 2025-09-09 Ecofin report. -->

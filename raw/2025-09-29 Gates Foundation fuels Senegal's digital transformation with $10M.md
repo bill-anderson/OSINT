@@ -11,6 +11,7 @@ places: [SEN]
 topics: [dpi.id, tech.ai, finance.new, gov.policy]
 entities: [[gates-foundation], [new-deal-technologique]]
 lens: []
+body_completeness: full
 ---
 
 # Gates Foundation fuels Senegal's digital transformation with $10M

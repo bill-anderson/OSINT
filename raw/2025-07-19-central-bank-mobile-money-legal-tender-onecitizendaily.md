@@ -3,6 +3,7 @@ type: source
 title: Central Bank Affirms Mobile Money as Legal Tender
 url: https://www.onecitizendaily.com/index.php/2025/07/19/central-bank-affirms-mobile-money-as-legal-tender/
 publisher: One Citizen Daily
+ingested: 2026-07-19
 author: One Citizen Daily Newspaper
 published: 2025-07-19
 date_precision: day

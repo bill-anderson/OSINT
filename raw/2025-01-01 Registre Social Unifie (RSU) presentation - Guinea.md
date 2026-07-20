@@ -12,6 +12,7 @@ places: [GIN]
 topics: [dpi.registry, include.access, dpi.mis]
 entities: [[rsu-guinea]]
 lens: []
+body_completeness: full
 artefact: "2025-01-01 Presentation-RSU_FDSI_2025.pdf"
 ---
 

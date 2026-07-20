@@ -3,6 +3,8 @@ type: source
 title: "Zambia looking for MOSIP system integrator to support digital ID project"
 publisher: Biometric Update
 url: https://www.biometricupdate.com/202603/zambia-looking-for-mosip-system-integrator-to-support-digital-id-project
+date_precision: day
+date_source: source
 author: Ayang Macdonald
 published: 2026-03-24
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [ZMB, ETH]
 topics: [dpi.id, dpi.registry, dpi.govtech, finance.new]
 entities: [[smart-zambia-institute], [mosip], [world-bank], [gates-foundation], [dzap], [fayda-ethiopia-national-id]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Zambia (Smart Zambia Institute) seeking a system integrator to deploy MOSIP-based ID with civil registration; 'home-grown', open-standards, no lock-in; Laxton recently certified MOSIP SI. Target full rollout end-2026, 80% of citizens. Funded via DZAP (>$100m World Bank IDA). MoU with Ethiopia to learn from Fayda. Same event as the 'Zambia seeks partner' item. -->

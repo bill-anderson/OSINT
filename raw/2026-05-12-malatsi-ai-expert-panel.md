@@ -6,6 +6,7 @@ publisher: TimesLIVE
 published: 2026-05-12
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [ZAF]
 topics: [tech.ai, gov.policy]
 entities: [[dcdt-south-africa], [solly-malatsi]]

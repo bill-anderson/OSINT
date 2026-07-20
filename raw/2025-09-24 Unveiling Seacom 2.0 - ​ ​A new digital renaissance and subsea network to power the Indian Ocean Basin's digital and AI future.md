@@ -3,6 +3,8 @@ type: source
 title: "Unveiling Seacom 2.0 - a new subsea network to power the Indian Ocean Basin's digital and AI future"
 publisher: Seacom
 url: https://seacom.com/news/unveiling-seacom-20
+date_precision: day
+date_source: source
 author: unknown
 published: 2025-09-24
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [XEA, XSA]
 topics: [infra.connect, infra.capacity, tech.ai, gov.regional]
 entities: [[seacom]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Seacom 2.0 subsea cable (announced 24 Sep 2025, Submarine Networks World, Singapore): 48 fibre pairs, Indian Ocean Basin/ME/Med/S.Europe, low-latency AI workloads, landing stations as 'AI communication nodes'. GDP/cost-reduction figures are marketing claims. -->

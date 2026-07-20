@@ -4,11 +4,14 @@ title: Microsoft SA secures digital talent for govt
 url: https://www.itweb.co.za/article/microsoft-sa-secures-digital-talent-for-govt/KWEBbvyLnePqmRjO
 publisher: ITWeb
 published: 2026-06-19
+date_precision: day
+date_source: source
 ingested: 2026-07-10
 places: [ZAF]
 topics: [capacity.training, dpi.govtech, include.access, geopol.usa]
 entities: [[microsoft]]
 lens: []
+body_completeness: full
 ---
 ---
 

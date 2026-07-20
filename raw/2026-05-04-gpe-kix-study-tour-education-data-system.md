@@ -3,6 +3,7 @@ type: source
 title: GPE KIX study tour documents what it takes to build an education data system
 url: https://education.dhis2.org/gpe-kix-study-tour/
 publisher: DHIS2 (HISP Centre, University of Oslo)
+lens: []
 author: Ellen Summey
 published: 2026-05-04
 date_precision: day

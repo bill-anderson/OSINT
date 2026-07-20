@@ -6,6 +6,7 @@ publisher: The Times (Times Group)
 published: 2025-01-07
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [MWI]
 topics: [dpi.id, dpi.exchange, dpi.pay, tech.ai]
 entities: [[national-registration-bureau-malawi], [reserve-bank-of-malawi], [undp]]

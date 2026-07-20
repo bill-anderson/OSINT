@@ -3,6 +3,9 @@ type: source
 title: "Digitalisation dans les collectivités territoriales: Le projet e-Commune lancé"
 url: https://lanation.bj/actualites/digitalisation-dans-les-collectivites-territoriales-le-projet-e-commune-lance
 publisher: La Nation
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Joël C. TOKPONOU
 published: 2025-10-01
 date_precision: day

@@ -12,6 +12,7 @@ places: [SOM]
 topics: [dpi.id, dpi.registry]
 entities: [[nira-somalia], [snid]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # NADRA powers Somalia's digital transformation with foundational ID infrastructure

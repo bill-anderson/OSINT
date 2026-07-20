@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: government-body
 title: Ministry of Justice, Legal and Parliamentary Affairs (Zimbabwe)
 places: [ZWE]

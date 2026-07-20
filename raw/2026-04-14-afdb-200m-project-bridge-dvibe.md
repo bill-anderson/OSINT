@@ -6,6 +6,7 @@ publisher: Connecting Africa
 published: 2026-04-14
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [NGA]
 topics: [infra.connect, finance.new]
 entities: [[afdb], [project-bridge]]

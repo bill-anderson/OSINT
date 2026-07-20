@@ -6,10 +6,12 @@ publisher: Expresso das Ilhas
 published: 2026-04-21
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [CPV]
 topics: [infra.connect, finance.new, geopol.eu, gov.policy]
 entities: [[cvtelecom]]
 lens: [sovereignty]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: CPV-2026-07-17
 ---

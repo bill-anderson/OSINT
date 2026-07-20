@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: resource
 title: PeeringDB
 url: https://www.peeringdb.com/
@@ -7,6 +8,7 @@ places: [XGL]
 topics: [infra.connect, infra.store]
 status: active
 last_reviewed: 2026-07-10
+sources: []
 ---
 
 # PeeringDB

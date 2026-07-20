@@ -6,12 +6,14 @@ publisher: Tech Review Africa
 published: 2026-07-13
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [gov.policy, infra.connect, finance.new, tech.ai, infra.cybersec, include.access]
 entities: [[ministry-of-digital-transition-cote-divoire], [djibril-ouattara], [la-poste-cote-divoire]]
 lens: []
+body_completeness: full
 provenance_flag: pr-wire
 primary_to_source: The National Development Plan (NDP) 2026-2030 Investor Day materials and the Ministry's panel statement; ARTCI/ministry data behind the penetration, coverage, user and fibre figures cited
 ---

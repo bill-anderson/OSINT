@@ -11,6 +11,7 @@ places: [DJI]
 topics: [dpi.govtech, gov.policy, dpi.exchange]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 # World Bank GovTech Operations in Djibouti — A Digital Transformation Case Study

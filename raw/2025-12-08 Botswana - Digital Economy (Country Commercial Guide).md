@@ -13,6 +13,7 @@ places: [BWA]
 topics: [gov.policy, infra.connect, tech.industry]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 <!-- US ITA Country Commercial Guide (Dec 2025): overview of Botswana's expanding digital economy — government prioritising digital infrastructure; openness to satellite providers fostering competition, lower data costs and remote connectivity. Names SmartBots (digital-transformation strategy), a Digital Services Bill and Cybersecurity Bill (pending legislation), the BOTSAT-1 satellite, and BOCRA as regulator. A dated reference framing Botswana's digital-economy policy landscape. -->

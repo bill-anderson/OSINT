@@ -6,12 +6,14 @@ publisher: Graphic Online
 published: 2025-01-31
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: GHA-2026-07-17
 places: [GHA]
 topics: [tech.ai, gov.policy]
 entities: [[samuel-nartey-george]]
 lens: []
+body_completeness: full
 ---
 # Ghana will be Africa's AI hub in 4 years — Sam George
 

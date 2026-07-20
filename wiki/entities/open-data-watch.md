@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: organisation
 title: Open Data Watch (ODW)
 places: [XGL, XSS]

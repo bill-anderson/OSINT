@@ -3,6 +3,8 @@ type: source
 title: Angola Expands Satellite Internet Push as 37 Firms Enter Conecta Project
 url: https://techafricanews.com/2026/04/10/angola-expands-satellite-internet-push-as-37-firms-enter-conecta-project/
 publisher: TechAfrica News
+lens: []
+body_completeness: full
 author: Joyce Onyeagoro
 published: 2026-04-10
 date_precision: day

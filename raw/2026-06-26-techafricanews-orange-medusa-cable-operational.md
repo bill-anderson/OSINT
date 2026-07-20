@@ -6,6 +6,7 @@ publisher: TechAfrica News
 published: 2026-06-26
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [TUN]
 topics: [infra.connect, infra.store, geopol.eu]
 entities: [[orange-tunisia], [medusa-submarine-cable]]

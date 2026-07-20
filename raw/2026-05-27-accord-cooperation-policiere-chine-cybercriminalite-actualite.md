@@ -6,12 +6,14 @@ publisher: ACTUALITE.CD
 published: 2026-05-27
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: COD-2026-07-17
 places: [COD]
 topics: [infra.cybersec, infra.capacity, geopol.china]
 entities: [[jacquemain-shabani], [police-nationale-congolaise], [wang-xiaohong], [ministere-interieur-securite-rdc]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # La RDC signe un accord de coopération policière avec la Chine pour renforcer les capacités opérationnelles de la PNC

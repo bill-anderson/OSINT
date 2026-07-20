@@ -3,6 +3,7 @@ type: source
 title: Burkina Faso Strengthens Data Sovereignty with Two Mini Data Centers
 url: https://www.telecomreviewafrica.com/articles/general-news/28154-burkina-faso-strengthens-data-sovereignty-with-two-mini-data-centers/
 publisher: Telecom Review Africa
+ingested: 2026-07-18
 author:
 published: 2026-01-27
 date_precision: day
@@ -13,6 +14,7 @@ places: [BFA]
 topics: [infra.store, infra.capacity, gov.policy]
 entities: [[ministry-of-digital-transition-burkina-faso]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 The government of Burkina Faso has inaugurated two new mini data centers as part of efforts to enhance data sovereignty and strengthen the country's digital infrastructure.

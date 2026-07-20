@@ -6,10 +6,12 @@ publisher: La Gazette des Comores
 published: 2025-11-01
 date_precision: month
 date_source: proxy
+ingested: 2026-07-18
 places: [COM]
 topics: [dpi.id, dpi.registry, gov.legislate, digital.localgov]
 entities: [[amecc-project], [anec-comoros], [ministry-of-interior-comoros]]
 lens: []
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: COM-2026-07-17
 ---

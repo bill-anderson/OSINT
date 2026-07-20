@@ -3,6 +3,10 @@ type: source
 title: "Cadre de vie au Bénin : votre téléphone peut changer votre quartier"
 url: https://fraternite.bj/cadre-de-vie-au-benin-votre-telephone-peut-changer-votre-quartier/
 publisher: Fraternité
+ingested: 2026-07-18
+entities: []
+lens: []
+body_completeness: full
 author: Isac YAI
 published: 2026-02-02
 date_precision: day

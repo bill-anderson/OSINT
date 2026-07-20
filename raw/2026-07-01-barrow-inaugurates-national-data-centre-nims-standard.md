@@ -6,12 +6,14 @@ publisher: The Standard
 published: 2026-07-01
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: GMB-2026-07-17
 places: [GMB]
 topics: [dpi.id, infra.store, dpi.govtech]
 entities: [[gambia-national-id-contract], [margins-id-group], [gicta]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Barrow inaugurates national data centre, digital identity system

@@ -13,6 +13,7 @@ places: [CIV]
 topics: [dpi.govtech, dpi.id]
 entities: [[oneci]]
 lens: []
+body_completeness: full
 ---
 
 <!-- We Are Tech (Jun 2025): Côte d'Ivoire's Council of Ministers approved a decree (18 Jun 2025) to digitize nationality certificates — a joint proposal by the Ministries of Justice and Digital Transition, building on the e-Justice platform (nationality-certificate applications online) and ONECI identity systems. Part of the e-services/administrative-modernisation drive. -->

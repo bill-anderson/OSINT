@@ -13,6 +13,7 @@ places: [MOZ]
 topics: [dpi.id, gov.legislate, infra.cybersec]
 entities: [[incm-mozambique]]
 lens: []
+body_completeness: full
 ---
 
 Mobile users in Mozambique will be required to register SIM cards with biometric data from the second half of 2024, the regulator (INCM) announced (via Lusa, 17 January 2024). The pilot phase began 15 January 2024 on an optional basis, becoming compulsory in the last six months of the year; from 2025 subscribers who fail to regularise risk having cards blocked.

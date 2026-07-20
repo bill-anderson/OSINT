@@ -6,6 +6,7 @@ publisher: ThisDay
 published: 2025-06-17
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [NGA]
 topics: [dpi.id, dpi.pay]
 entities: [[credicorp], [nimc]]

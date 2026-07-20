@@ -3,6 +3,9 @@ type: source
 title: "Economie numérique : Momo Helep pour révolutionner la trésorerie des PME"
 url: https://lejour.cm/economie-numerique-momo-helep-pour-revolutionner-la-tresorerie-des-pme/
 publisher: Le Jour
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Hilary Sipouo
 published: 2026-06-23
 date_precision: day

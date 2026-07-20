@@ -1,6 +1,7 @@
 ---
 type: source
 title: "\"اعرف زبونك\"... بداية عصر جديد من التدقيق المالي!"
+ingested: 2026-07-18
 title_en: Bank of Algeria issues KYC Instruction 04-2026 (dated 30 Apr 2026, signed by governor Mohamed Lamine Lebbou) — expanded, risk-based Know-Your-Customer rules for banks, financial institutions and Algérie Poste; PEP scrutiny and source-of-wealth checks
 url: https://www.echoroukonline.com/%D8%A7%D8%B9%D8%B1%D9%81-%D8%B2%D8%A8%D9%88%D9%86%D9%83-%D8%A8%D8%AF%D8%A7%D9%8A%D8%A9-%D8%B9%D8%B5%D8%B1-%D8%AC%D8%AF%D9%8A%D8%AF-%D9%85%D9%86-%D8%A7%D9%84%D8%AA%D8%AF%D9%82%D9%8A%D9%82-%D8%A7
 publisher: Echorouk El Yawmi
@@ -16,7 +17,7 @@ topics: [dpi.pay, gov.legislate, gov.protect, finance.new]
 entities: [[banque-dalgerie, mohamed-lamine-lebbou, algerie-poste]]
 lens: []
 provenance_flag: privately-owned
-body_completeness: clipped-at-fetch
+body_completeness: excerpt
 ---
 
 # "اعرف زبونك"… بداية عصر جديد من التدقيق المالي!

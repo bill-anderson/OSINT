@@ -13,6 +13,7 @@ places: [BWA]
 topics: [infra.connect, include.divides]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 <!-- DataReportal Digital 2024 Botswana baseline (early 2024). Standing connectivity/inclusion reference for BWA. (Headline figures on the source page.) Botswana is among the more connected Southern African markets — context for its DPI/digital-economy push. -->

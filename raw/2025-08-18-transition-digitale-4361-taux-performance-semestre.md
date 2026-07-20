@@ -3,6 +3,9 @@ type: source
 title: "Ministère en charge de la transition digitale: 43,61% de taux de performances au premier semestre de l'année"
 url: https://www.sidwaya.info/ministere-en-charge-de-la-transition-digitale-4361-de-taux-de-performances-au-premier-semestre-de-lannee/
 publisher: Sidwaya
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Emmanuel Bicaba et Roxanne Koala
 published: 2025-08-18
 date_precision: day

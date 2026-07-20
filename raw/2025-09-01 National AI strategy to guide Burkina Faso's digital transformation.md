@@ -13,6 +13,7 @@ places: [BFA]
 topics: [tech.ai, gov.policy]
 entities: []
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Biometric Update (Sep 2025): Burkina Faso began drafting a national AI Action Plan (period 2026-2028), launched via a consultation workshop by the Ministry of Digital Transition, Posts and Electronic Communications. Permanent Secretary for Innovation & Digital Emerging Technologies Dr Yaya Traoré framed AI as central to digital-economy growth, aligned to the digital-economy development plan 2018-2027. Six focus areas: infrastructure & connectivity; data governance; human capital / AI skills; legal & ethical frameworks; innovation & entrepreneurship; sustainable funding & international partnerships. -->

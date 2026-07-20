@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: deal
 title: Onafriq–PAPSS Ghana cross-border payments launch
 places: [GHA]

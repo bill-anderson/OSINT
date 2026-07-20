@@ -6,6 +6,7 @@ publisher: Business Day
 published: 2026-02-26
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [ZAF]
 topics: [infra.connect, include.access, finance.new]
 entities: [[dcdt-south-africa]]

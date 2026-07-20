@@ -1,10 +1,13 @@
 ---
 type: source
+ingested: 2026-07-17
 places: [NGA]
 topics: [infra.connect]
 entities: [[ncc]]
 date_precision: day
 date_source: proxy
+lens: []
+body_completeness: full
 page: 
 title: Nigeria - Submarine Networks
 author: 

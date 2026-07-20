@@ -3,6 +3,7 @@ type: source
 title: "Connectivité (éditorial)"
 url: https://www.adiac-congo.com/content/connectivite-167638
 publisher: Les Dépêches de Brazzaville (ADIAC)
+ingested: 2026-07-18
 author: Les Dépêches de Brazzaville (éditorial, non signé)
 published: 2025-10-20
 date_precision: day
@@ -13,6 +14,7 @@ places: [COG]
 topics: [infra.connect, digital.rural, include.divides, include.access, gov.policy]
 entities: [[patn-congo], [world-bank]]
 lens: []
+body_completeness: full
 provenance_flag: editorial-opinion
 ---
 

@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: initiative
 title: Nigeria Data Exchange (NGDX)
 places: [NGA]

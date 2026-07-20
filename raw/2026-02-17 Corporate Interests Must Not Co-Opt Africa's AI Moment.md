@@ -3,6 +3,8 @@ type: source
 title: "Corporate Interests Must Not Co-Opt Africa's AI Moment"
 publisher: The Pan African Review
 url: "https://panafricanreview.com/corporate-interests-must-not-co-opt-africas-ai-moment/"
+date_precision: day
+date_source: source
 author: Chinasa T. Okolo
 published: 2026-02-17
 accessed: 2026-07-12
@@ -11,6 +13,7 @@ places: [XAF, XSS, NGA, RWA, MAR, GHA]
 topics: [tech.ai, gov.legislate, gov.policy, gov.regional]
 entities: [[chinasa-t-okolo], [openai], [gates-foundation], [horizon1000], [meta], [google], [microsoft], [g42], [giz], [european-union], [undp], [au-continental-ai-strategy]]
 lens: [sovereignty, colonialism]
+body_completeness: full
 ---
 
 <!-- Analysis: op-ed warning corporate/philanthropic capture threatens African AI governance; prescribes independent publicly-funded regulators, lobbying transparency, local solutions, regional coordination via AU Continental AI Strategy, regulatory-capacity investment — toward AI self-determination. Datable: Oct 2025 OpenAI Academy at Univ of Lagos; OpenAI+Gates US$50m Horizons1000 (=horizon1000) Rwanda health; ≥20 African national AI strategies. Attach: horizon1000/openai/gates-foundation, google/meta/microsoft/giz/european-union (Nigeria AI-strategy drafting). -->

@@ -13,6 +13,7 @@ places: [COD]
 topics: [infra.store, infra.connect]
 entities: [[oadc-texaf-digital]]
 lens: []
+body_completeness: full
 ---
 
 <!-- CIO Africa (Aug 2024): the DRC's FIRST Tier-III certified, open-access, carrier-neutral data centre went live in Kinshasa — a joint venture between Open Access Data Centres (OADC, a WIOCC company) and TEXAF, "OADC Texaf Digital." 2MW-capable; Uptime Institute Tier-III; ISO 27001 on track for Q3 2024. First of two Kinshasa Tier-III DCs launched Aug 2024 (the other being Raxio DRC1, the largest). ST Digital later partnered OADC Texaf for content delivery/cloud (Sep 2024) — see the separate press-release source. -->

@@ -6,12 +6,14 @@ publisher: ACTUALITE.CD
 published: 2026-03-31
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: COD-2026-07-17
 places: [COD]
 topics: [finance.new, infra.connect, gov.policy]
 entities: [[helios-towers], [anapi], [maixent-bekangba], [rachel-pungu-luamba]]
 lens: []
+body_completeness: full
 ---
 
 Mardi 31 mars 2026 - 17:23

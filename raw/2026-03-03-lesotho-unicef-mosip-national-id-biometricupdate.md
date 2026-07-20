@@ -6,10 +6,12 @@ publisher: Biometric Update
 published: 2026-03-03
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [LSO]
 topics: [dpi.id, dpi.registry, gov.protect, dpi.exchange]
 entities: [[unicef-lesotho], [micsti-lesotho], [mosip], [lesotho-national-id]]
 lens: []
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: LSO-2026-07-17
 ---

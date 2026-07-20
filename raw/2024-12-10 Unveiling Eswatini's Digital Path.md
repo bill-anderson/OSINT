@@ -10,6 +10,8 @@ ingested: 2026-07-17
 places: [SWZ]
 topics: [gov.policy, dpi.id, dpi.exchange, dpi.pay, infra.connect, infra.store, capacity.literacy, include.divides, gov.protect, infra.cybersec]
 entities: [[undp], [eswatini-digital-readiness-assessment], [savannah-maziya], [eswatini-digitalisation-strategy-2024-2028], [government-in-your-hand]]
+lens: []
+body_completeness: full
 ---
 
 Digital Readiness Assessment Significant in Digitalization (December 10, 2024). UNDP Resident Representative Henrik Franklin handed over the Digital Readiness Assessment report to Minister of ICT Sen. Savanna Maziya.

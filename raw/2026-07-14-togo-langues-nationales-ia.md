@@ -6,6 +6,7 @@ publisher: Togo First
 published: 2026-07-14
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [TGO]
 topics: [tech.ai, capacity.research, data.open]
 entities: [[togo-ai-lab], [cina-lawson], [zindi]]

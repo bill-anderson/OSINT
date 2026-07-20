@@ -1,9 +1,13 @@
 ---
 type: source
+date_precision: day
+date_source: source
 places: [RWA]
 topics: [dpi.exchange, gov.policy, data.open]
 entities: [[rwanda-national-data-sharing-policy], [nisr], [rwanda-information-society-authority]]
 ingested: 2026-07-16
+lens: []
+body_completeness: full
 page: Introduction to the Rwanda National Data Sharing Policy
 title: Introduction to the Rwanda National Data Sharing Policy
 author: Angelos Munezero (Cenfri)

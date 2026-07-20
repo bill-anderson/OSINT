@@ -6,12 +6,14 @@ publisher: Graphic Online
 published: 2025-10-29
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: GHA-2026-07-17
 places: [GHA]
 topics: [dpi.mis, dpi.govtech]
 entities: [[ministry-of-health-ghana], [ghana-health-service]]
 lens: []
+body_completeness: full
 ---
 # Health Ministry rolls out new digital system after NHIS electronic platform disruptions
 

@@ -13,6 +13,7 @@ places: [COG]
 topics: [gov.policy, infra.connect, dpi.govtech]
 entities: [[patn-congo], [arpce-congo]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Congo's Digital Transformation Acceleration Project (PATN — Projet d'Accélération de la Transformation Numérique) — launched Jan 2023, World Bank $100m (WB name: Congo Digital Acceleration Project, P175592) — set a FY2024 budget of CFA38.7bn ($63.9m), approved by the Steering Committee 28 May 2024, for 57 projects: high-speed internet to public administrations, universities, secondary schools and rural areas. Aligned to the 2022-2026 National Development Plan (PND) and "Congo Digital 2025." Per ARPCE: 3.4m internet subscribers in 2023 (59.7% penetration), 5.9m mobile subscribers. NB: Congo's PATN is distinct from Cameroon's PATNUC and DRC's projects. -->

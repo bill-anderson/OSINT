@@ -3,6 +3,8 @@ type: source
 title: "Google launches WAXAL, an open-source voice dataset for African languages"
 publisher: Ecofin Agency
 url: https://www.ecofinagency.com/news-digital/0402-52574-google-launches-waxal
+date_precision: day
+date_source: source
 author: Fiacre E. Kakpo
 published: 2026-02-04
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [XSS, UGA, GHA, RWA]
 topics: [tech.ai, data.open, capacity.research, include.access]
 entities: [[waxal], [google]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Secondary reporting of WAXAL: 11,000+ hours of voice / ~2m audio files / 21 African languages, free on Hugging Face; partners Makerere + Univ. Ghana (13 langs) + Digital Umuganda (Rwanda, 5) + AIMS; African partners retain corpus ownership. Same event as the Google-blog primary; entity [[waxal]]. -->

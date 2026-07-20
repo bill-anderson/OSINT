@@ -11,6 +11,7 @@ places: [DZA]
 topics: [dpi.pay, include.access]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 # Algeria to launch DZ MOB PAY mobile payment system (January 2025)

@@ -13,6 +13,7 @@ places: [MAR]
 topics: [infra.cybersec, gov.policy]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 <!-- Morocco classified Tier 1 (highest, "role-modelling", 95-100) of the ITU 2024 Global Cybersecurity Index. Score 97.5/100 across five pillars: Legal 20/20, Technical 18.12/20, Organizational 20/20, Capacity Dev 19.38/20, Cooperation 20/20. 46 countries reached Tier 1 (up from ~30 in 2021). Other Tier 1: Egypt, Saudi Arabia, Oman, Qatar, UAE, Australia, Estonia, Singapore, UK, US. Global average 65.7 (+27% since 2020). Tier 1 = robust legal frameworks, national CIRTs, national cyber strategies, capacity dev, international cooperation. -->

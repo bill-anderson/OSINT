@@ -14,6 +14,7 @@ places: [AGO]
 topics: [dpi.id, dpi.exchange, infra.store, gov.protect]
 entities: [[sita]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 *(Angola-relevant sections of a multi-country round-up captured in full; the remaining sections cover India, the Philippines and Malaysia and are summarised at the foot.)*

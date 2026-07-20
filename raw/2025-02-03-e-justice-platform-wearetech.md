@@ -6,12 +6,14 @@ publisher: We Are Tech Africa
 published: 2025-02-03
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [dpi.govtech, dpi.id, gov.policy]
 entities: [[oneci], [ministry-of-justice-and-human-rights-cote-divoire], [jean-sansan-kambile]]
 lens: []
+body_completeness: full
 ---
 
 # Côte d'Ivoire Digitizes Judicial Services with e-Justice Platform

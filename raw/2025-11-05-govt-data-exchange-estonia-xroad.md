@@ -6,6 +6,7 @@ publisher: Biometric Update
 published: 2025-11-05
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [ZAF]
 topics: [dpi.exchange, dpi.govtech]
 entities: [[mzansixchange]]

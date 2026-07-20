@@ -13,6 +13,7 @@ places: [LBY]
 topics: [dpi.govtech, data.open, gov.policy]
 entities: [[gia-libya]]
 lens: []
+body_completeness: full
 ---
 
 <!-- GIA began preliminary operation of the national government-reports platform LY-GOVREP, with the Cabinet's Inspection and Follow-Up Department. Launch announced 20 Jul 2025 (first technical meeting 14 Jul), 60 governmental entities under the Cabinet. Organises official govt reports in a unified digital platform to support transparency, empower oversight, improve decision-making. Discussed data entry, institutional publication controls, linking entities. Part of GIA's wider push alongside its Open Data Platform + 7th National Human Development Report with UNDP. -->

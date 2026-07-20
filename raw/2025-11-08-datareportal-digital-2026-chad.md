@@ -10,6 +10,7 @@ ingested: 2026-07-20
 places: [TCD]
 topics: [data.statistics, include.access, include.divides, infra.connect]
 entities: [[datareportal], [kepios], [gsma], [united-nations], [itu], [meta], [tiktok], [linkedin], [x-corp], [reddit]]
+lens: []
 body_completeness: full
 ---
 

@@ -1,6 +1,7 @@
 ---
 type: source
 title: هكذا سيؤثر تعميم استعمال بروتوكول IPv6 على الانترنت في الجزائر
+ingested: 2026-07-18
 title_en: Algeria pushes IPv6 adoption to modernise digital infrastructure and support IoT/smart cities
 url: https://www.echoroukonline.com/%D9%87%D9%83%D8%B0%D8%A7-%D8%B3%D9%8A%D8%A4%D8%AB%D8%B1-%D8%AA%D8%B9%D9%85%D9%8A%D9%85-%D8%A7%D8%B3%D8%AA%D8%B9%D9%85%D8%A7%D9%84-%D8%A8%D8%B1%D9%88%D8%AA%D9%88%D9%83%D9%88%D9%84-ipv6-%D8%B9%D9%84
 publisher: Echorouk El Yawmi
@@ -14,6 +15,7 @@ places: [DZA]
 topics: [infra.connect, gov.standards, tech.innovate]
 entities: [[sid-ali-zerrouki, ministere-de-la-poste-et-des-telecommunications, afrinic]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # هكذا سيؤثر تعميم استعمال بروتوكول IPv6 على الانترنت في الجزائر

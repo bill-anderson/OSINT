@@ -2,6 +2,8 @@
 type: source
 title: "Submarine cables serving Africa (cable factsheet)"
 publisher: Data Landscapers
+date_precision: day
+date_source: source
 author: [[bill]]
 url: https://data-landscapers.com/lab/2026/06/03/cable-factsheet/
 published: 2026-06-03
@@ -12,6 +14,7 @@ places: [XAF, ZAF]
 topics: [infra.connect, infra.store, tech.industry, geopol.usa]
 entities: [[bill], [data-landscapers], [seacom], [google], [meta]]
 lens: [sovereignty, colonialism]
+body_completeness: full
 ---
 
 <!-- Published Data Landscapers /lab DATASET (12-cable factsheet; `2026-06-03 cable-factsheet.pdf` attachment).

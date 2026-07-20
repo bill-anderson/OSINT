@@ -6,12 +6,14 @@ publisher: ACTUALITE.CD
 published: 2025-07-13
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: COD-2026-07-17
 places: [COD]
 topics: [capacity.training, dpi.govtech, tech.ai, gov.policy, include.divides]
 entities: [[unesco], [isaias-barreto-da-rosa]]
 lens: []
+body_completeness: full
 ---
 
 Numérique...

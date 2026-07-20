@@ -3,6 +3,8 @@ type: source
 title: "Ghana and UNDP Strengthen Partnership on Digital Transformation Projects"
 publisher: TechAfrica News
 url: https://techafricanews.com/2026/07/07/ghana-and-undp-strengthen-partnership-on-digital-transformation-projects/
+date_precision: day
+date_source: source
 author: Jennifer Onyeagoro
 published: 2026-07-07
 accessed: 2026-07-10
@@ -11,6 +13,7 @@ places: [GHA]
 topics: [gov.policy, capacity.training, gov.legislate, tech.innovate, finance.new, tech.ai, dpi.pay]
 entities: [[undp], [samuel-nartey-george]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- On-the-record reporting of a ministerial meeting + partner update. Admissible.

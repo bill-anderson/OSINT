@@ -3,6 +3,8 @@ type: source
 title: "New Rwanda-Tanzania Payment Pilot could transform trade across East Africa"
 publisher: Burundi Times
 url: "https://www.burunditimes.com/new-rwanda-tanzania-payment-pilot-could-transform-trade-across-east-africa/"
+date_precision: day
+date_source: source
 author: Burundi Times
 published: 2026-07-10
 accessed: 2026-07-12
@@ -11,6 +13,7 @@ places: [RWA, TZA, XEA]
 topics: [dpi.pay, gov.regional, dpi.exchange]
 entities: [[eac], [eac-cross-border-payment-masterplan], [tips-tanzania], [rswitch-rwanda], [world-bank], [giz]]
 lens: [sovereignty]
+body_completeness: full
 ---
 <!-- Rwanda + Tanzania concluded a week-long Zanzibar technical meeting (as of 2026-07-10) on a proof-of-concept interlinking Tanzania's TIPS and Rwanda's RSwitch — first cross-border instant-payment corridor under the EAC Cross-Border Payment System Masterplan. Under EAC "variable geometry"; only RWA+TZA so far; P2P first; no launch date. NOT a PAPSS item (override — keep papss out). Chair: Nestory Nicholas Maro (Bank of Tanzania). Attach: [[eac-cross-border-payment-masterplan]], [[tips-tanzania]], [[rswitch-rwanda]], eac, RWA/TZA/XEA hubs. -->
 

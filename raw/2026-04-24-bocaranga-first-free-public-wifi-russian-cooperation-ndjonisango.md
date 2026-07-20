@@ -6,10 +6,12 @@ publisher: Ndjoni Sango
 published: 2026-04-24
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [CAF]
 topics: [infra.connect, digital.rural, include.access, include.divides, capacity.literacy]
 entities: [[faustin-archange-touadera], [essaie-gbanne], [mouvement-coeurs-unis], [russia-car-cooperation]]
 lens: [sovereignty, colonialism]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: CAF-2026-07-17
 provenance_flag: pro-government outlet; item doubles as legislative campaign copy for the MCU candidate — read the framing accordingly (capture is not endorsement)

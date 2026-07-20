@@ -3,6 +3,8 @@ type: source
 title: AN aprova na generalidade alteração à Lei de Protecção de Dados Pessoais
 url: https://angop.ao/noticias/politica/assembleia-nacional-aprova-na-generalidade-alteracao-a-lei-de-proteccao-de-dados-pessoais/
 publisher: Angop
+lens: []
+body_completeness: full
 author: LDN/MGM/SC
 published: 2026-04-13
 date_precision: day

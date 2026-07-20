@@ -3,14 +3,17 @@ type: source
 title: "Benin boosts digital inclusion, govt service access with cooperation deals"
 publisher: Biometric Update
 url: https://www.biometricupdate.com/202509/benin-boosts-digital-inclusion
+date_source: source
 author: Ayang Macdonald
 published: 2025-09-01
+date_precision: month
 accessed: 2026-07-11
 ingested: 2026-07-11
 places: [BEN]
 topics: [dpi.id, dpi.govtech, infra.cybersec, gov.policy, dpi.pay]
 entities: [[asin-benin], [uxp-benin], [estdev]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Benin's ASIN signed 3 cooperation agreements at the 5th Cyber Africa Forum (Cotonou, Sept 2025): with IIDiA (modernise national systems), Quality Corporate (e-signatures/seals/ID), and Orbus (PKI software for e-gov). Benin released its maiden national cybersecurity report (2021-24). X-Road-model DPI. -->

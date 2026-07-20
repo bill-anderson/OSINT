@@ -12,6 +12,7 @@ places: [ZMB]
 topics: [dpi.id, dpi.registry, gov.protect, gov.standards, infra.cybersec, gov.policy, include.divides]
 entities: [[dnrpc-zambia], [smart-zambia-institute], [undp], [inris]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 *Historical baseline (predates the held DZAP PAD by a year) and the richest single Zambia ID document in the batch — but it must not overwrite fresher state. UNDP is a direct participant here (it designed the Model Governance Assessment), so this is a first-hand implementer account, not neutral reporting. Carries the 1.5m INRIS enrolment figure that a LATER source (ZNBC, 2025-12-28) contradicts downwards to 1.3m — see reviews/contradictions/open/zambia-inris-enrolment. Also internally inconsistent on NRC adult coverage: 'over 88 percent' in one paragraph, '89 percent' in another.*

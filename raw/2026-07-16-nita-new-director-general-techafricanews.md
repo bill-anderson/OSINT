@@ -6,12 +6,14 @@ publisher: TechAfrica News
 published: 2026-07-16
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: GHA-2026-07-17
 places: [GHA]
 topics: [dpi.govtech]
 entities: [[nita-ghana], [samuel-nartey-george]]
 lens: []
+body_completeness: full
 ---
 
 # Ghana Appoints Nana Yaw Amoah-Yeboah as NITA Director-General

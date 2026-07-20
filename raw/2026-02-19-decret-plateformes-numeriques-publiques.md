@@ -6,12 +6,14 @@ publisher: leFaso.net
 published: 2026-02-19
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: BFA-2026-07-17
 places: [BFA]
 topics: [dpi.govtech, gov.legislate, gov.standards, gov.protect, infra.cybersec, dpi.exchange]
 entities: [[ministere-transition-digitale-burkina-faso], [ibrahim-traore]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Gouvernance numérique : Un décret encadre désormais l'exploitation des plateformes numériques publiques au Burkina Faso

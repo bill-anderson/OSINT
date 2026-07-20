@@ -13,6 +13,7 @@ places: [LBR]
 topics: [dpi.id, gov.legislate, infra.connect]
 entities: [[national-identification-registry-liberia], [lta-liberia]]
 lens: []
+body_completeness: full
 ---
 
 <!-- LTA + NIR signed an MoU to link SIM cards with government IDs via biometric registration. Completion expected end-2026; 10 July 2025 deadline after which unregistered SIMs deactivated. Register 3.5m Liberians, starting with free registration/verification phase. All SIM holders must register with NIR-issued IDs; non-compliance in 6 months → deactivation. NIR set up registration centres in every district + some townships. 4m+ SIMs in Liberia; NIR database holds 7m+ entries. LTA Acting Chair Abdullah L. Kamara. A similar 2020 initiative failed on low NIR enrolment + technical issues. May 2024: Digital Transformation Project to train 10,000 youth in digital skills. -->

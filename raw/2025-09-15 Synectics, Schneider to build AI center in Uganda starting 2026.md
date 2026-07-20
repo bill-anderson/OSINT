@@ -11,6 +11,7 @@ places: [UGA]
 topics: [tech.ai, infra.store, infra.energy, infra.connect, gov.regional]
 entities: [[aeonian-project], [synectics-technologies], [schneider-electric], [nvidia], [karuma-hydropower-plant]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 *Date double-corroborated (on-page dateline plus the Ecofin URL slug 1509-). The same Aeonian facility as the Business Insider and Watchdog accounts — complementary, not duplicates.*

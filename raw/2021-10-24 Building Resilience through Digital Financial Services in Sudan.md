@@ -11,6 +11,7 @@ places: [SDN]
 topics: [dpi.pay, include.access, finance.new]
 entities: []
 lens: [sovereignty]
+body_completeness: full
 artefact: 2021-10-24 sudan-building-resilience-through-dfs.pdf
 ---
 

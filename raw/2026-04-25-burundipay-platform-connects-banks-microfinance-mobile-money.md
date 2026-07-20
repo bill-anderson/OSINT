@@ -3,6 +3,9 @@ type: source
 title: New 'BurundiPay' platform connects banks, microfinance and Mobile Money networks
 url: https://www.burunditimes.com/new-burundipay-platform-connects-banks-microfinance-and-mobile-money-networks/
 publisher: Burundi Times
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Burundi Times
 published: 2026-04-25
 date_precision: day

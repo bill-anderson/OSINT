@@ -3,6 +3,8 @@ type: source
 title: Cubango prepara transição da administração analógica para digital a partir de 2026
 url: https://angop.ao/noticias/sociedade/cubango-prepara-transicao-da-administracao-analogica-para-digital-a-partir-de-2026/
 publisher: Angop
+lens: []
+body_completeness: full
 author: MSM/FF/PLB
 published: 2025-12-18
 date_precision: day

@@ -6,6 +6,7 @@ publisher: Le Sahel (ONEP)
 published: 2025-07-28
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [NER]
 topics: [gov.protect, gov.legislate, gov.standards]
 entities: [[hapdp-niger], [niger-data-protection-law], [malabo-convention]]

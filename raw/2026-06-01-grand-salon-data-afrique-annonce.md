@@ -3,6 +3,7 @@ type: source
 title: "Grand salon de la data en Afrique : Ouagadougou accueille la première édition les 15 et 16 juillet 2026"
 url: https://lefaso.net/spip.php?article146862
 publisher: leFaso.net
+ingested: 2026-07-18
 author: S.I.K
 published: 2026-06-01
 date_precision: day
@@ -13,6 +14,7 @@ places: [BFA]
 topics: [data.open, gov.policy, tech.ai, capacity.training]
 entities: [[grand-salon-data-afrique], [djibril-pamousso]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Grand salon de la data en Afrique : Ouagadougou accueille la première édition les 15 et 16 juillet 2026

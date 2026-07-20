@@ -6,12 +6,14 @@ publisher: We Are Tech Africa
 published: 2025-02-10
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV, TGO]
 topics: [gov.regional, infra.cybersec, gov.policy, infra.connect]
 entities: [[cina-lawson], [ibrahim-kalil-konate], [ministry-of-digital-transition-and-digitalization-cote-divoire], [international-finance-corporation]]
 lens: []
+body_completeness: full
 ---
 
 # Togo, Côte d'Ivoire Explore Deeper Digital Cooperation

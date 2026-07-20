@@ -13,6 +13,7 @@ places: [GIN, XAF]
 topics: [gov.regional, tech.ai, dpi.pay, dpi.exchange, finance.mou, dpi.govtech]
 entities: [[transform-africa-summit-2025], [smart-africa], [simandou-2040], [telemo], [visa]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- TAS 2025 Conakry day-2/closing (theme "AI for Africa"). Day 2 (17 Nov): Guinea launched Simandou 2040 Pillar 3 (digital backbone of industrialization; digital sector to 20% of GDP) and rolled out TELEMO (e-procurement, Guinea-Rwanda South-South), Simandou Academy. Smart Africa unveiled SANIA (innovation-ecosystem platform); MoUs: YouthConnekt Africa, Visa (govt services, digital payments, inclusion, e-commerce), SADX pilot (Benin/Ghana/Rwanda), SADA with The Gambia, AFTLD (domain sovereignty), Women Political Leaders. Closing (19 Nov): 7,000+ participants, 79 nationalities, 45 ministers, 584 CEOs, 590 startups, 14 MoUs. Guinea: backbone 50→200 Gbps, 2nd submarine cable landing, interconnected Mali/CIV/SLE, Tier III DC, technopoles, 6 hubs (20 by 2026), new data-protection law + ANSSI/ANDE, women's hackathon (130+). -->

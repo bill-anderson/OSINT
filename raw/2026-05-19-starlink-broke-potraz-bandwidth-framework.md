@@ -6,6 +6,7 @@ publisher: NewsDay (The Zimbabwe Independent)
 published: 2026-05-19
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [ZWE]
 topics: [infra.connect, data.statistics, include.access]
 entities: [[starlink], [potraz], [liquid-intelligent-technologies], [telone]]

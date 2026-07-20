@@ -13,6 +13,7 @@ places: [LBR]
 topics: [dpi.id, gov.protect, include.access]
 entities: [[national-identification-registry-liberia]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Public frustration in Montserrado over delays + irregularities at NIR centres. Allegations of bribery/favoritism — staff demanding L$200 or a US$20 "gentleman's agreement" to fast-track biometric ID. Failed visits, long queues, elderly sleeping in chairs. On 14 April Boakai issued EO 147 requiring NBIS enrollment. Banking fallout: national ID now required to open/reactivate accounts; NIR extended mandatory-banking deadline to 31 Aug. Ecobank + others posted notices; banks reported reduced foot traffic. NIR denied express services, reaffirmed the US$5 fee (5 June), warned soliciting staff will be dismissed. Congo Town centre serves 500+/day vs 250 capacity. ED Andrew Peters questioned; lawmakers launched a probe. -->

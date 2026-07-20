@@ -13,6 +13,7 @@ places: [MWI]
 topics: [data.statistics]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 DataReportal's Digital 2026 report for Malawi (published end of 2025; data points reflect the latest available as of October 2025). Current baseline headline figures:

@@ -3,6 +3,9 @@ type: source
 title: "'Think before you post or face the law'"
 url: https://www.mmegi.bw/news/think-before-you-post-or-face-the-law/news
 publisher: Mmegi
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Pini Bothoko
 published: 2026-02-25
 date_precision: day

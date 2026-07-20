@@ -13,6 +13,7 @@ places: [KEN]
 topics: [infra.store, infra.energy, tech.ai]
 entities: [[microsoft-g42-kenya-datacenter], [microsoft], [g42]]
 lens: []
+body_completeness: full
 ---
 
 <!-- DCD on the $1bn Microsoft/G42 geothermal data center (Olkaria, LoI at Ruto's US visit). Operational within 2 years, initial 100MW capacity (potentially 1GW). KenGen operates four geothermal plants (700MW+). Microsoft launching East Africa cloud region; last-mile wireless for 20m in Kenya / 50m in East Africa by end-2025. G42 announced a 100MW geothermal DC campus with EcoCloud (Mar 2024); EcoCloud broke ground on 'Project Eagle' at KenGen Green Energy Park Olkaria (phase 1: 24MW over eight 3MW halls). Cluster with Microsoft Source; overlaps hub's stalled-DC thread. -->

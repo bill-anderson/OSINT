@@ -3,6 +3,7 @@ type: source
 title: "Monnaie numérique de la Bceao: Une aubaine pour les jeunes entrepreneurs béninois ?"
 url: https://www.lanation.bj/economie/monnaie-numerique-de-la-bceao-une-aubaine-pour-les-jeunes-entrepreneurs-beninois
 publisher: La Nation
+ingested: 2026-07-18
 author: Marveen Promise AÏNADOU (Coll ext.)
 published: 2025-09-15
 date_precision: day
@@ -13,6 +14,7 @@ places: [BEN, XWA]
 topics: [dpi.pay, include.access, tech.innovate, gov.policy]
 entities: [[bceao], [uemoa], [kkiapay], [fedapay]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Monnaie numérique de la Bceao: Une aubaine pour les jeunes entrepreneurs béninois ?

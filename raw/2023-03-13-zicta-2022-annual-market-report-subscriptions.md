@@ -10,6 +10,7 @@ ingested: 2026-07-20
 places: [ZMB]
 topics: [infra.connect, tech.industry, data.statistics, gov.legislate, dpi.id]
 entities: [[zicta], [mtn-zambia], [airtel-zambia], [datareportal], [meta]]
+lens: []
 body_completeness: full
 ---
 

@@ -3,6 +3,7 @@ type: source
 title: "KMR Start-up HUB lance « Pyramid », un écosystème numérique camerounais à stockage local"
 url: https://leconomie.info/kmr-start-up-hub-lance-pyramid-un-ecosysteme-numerique-camerounais-a-stockage-local/
 publisher: Le quotidien L'Economie
+ingested: 2026-07-18
 author: Fadira Etonde
 published: 2026-06-15
 date_precision: day
@@ -13,6 +14,7 @@ places: [CMR]
 topics: [infra.store, tech.innovate]
 entities: [[kmr-start-up-hub], [camtel], [st-digital]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # KMR Start-up HUB lance « Pyramid », un écosystème numérique camerounais à stockage local

@@ -1,10 +1,13 @@
 ---
 type: source
+ingested: 2026-07-17
 places: [NGA]
 topics: [dpi.id, dpi.pay, gov.protect]
 entities: [[nimc], [nibss], [cbn]]
 date_precision: day
 date_source: source
+lens: []
+body_completeness: full
 page: Understanding Nigeria's digital identity landscape - TC Insights
 title: Understanding Nigeria's digital identity landscape
 author: Stephen Agwaibor

@@ -3,6 +3,8 @@ type: source
 title: Raxio raises data centre funding
 publisher: ITWeb Africa
 url: https://itweb.africa/article/raxio-raises-data-centre-funding/8OKdWMDX2zVMbznQ
+lens: []
+body_completeness: full
 author: Staff Writer
 published: 2026-07-14
 date_precision: day

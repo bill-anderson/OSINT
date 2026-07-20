@@ -6,12 +6,14 @@ publisher: Graphic Online
 published: 2025-12-11
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: GHA-2026-07-17
 places: [GHA]
 topics: [dpi.govtech]
 entities: [[ministry-of-interior-ghana]]
 lens: []
+body_completeness: full
 ---
 # Interior Ministry launches online digital services portal
 

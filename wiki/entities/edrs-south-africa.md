@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: initiative
 title: Electronic Deeds Registration System (eDRS, South Africa)
 places: [ZAF]

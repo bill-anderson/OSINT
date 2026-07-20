@@ -13,6 +13,7 @@ places: [LBY]
 topics: [dpi.id, gov.protect, infra.cybersec]
 entities: [[civil-registry-authority-libya]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- House of Representatives Defence & National Security Committee warned of "manipulation and serious violations" within the Civil Registry Authority — breaches let foreign nationals unlawfully obtain Libyan national ID numbers + citizen benefits. Called it "a direct threat to national security and Libyan identity." Called for investigations, judicial referral, toughest penalties. Amid concern over registry integrity — central to elections, public services, citizenship. Safeguarding it prevents identity fraud, illegal benefits, compromised voter rolls. -->

@@ -3,6 +3,9 @@ type: source
 title: Botswana rolls out innovation accelerator for climate, digital startups
 url: https://www.wearetech.africa/en/fils-uk/brief/brief-simple/botswana-rolls-out-innovation-accelerator-for-climate-digital-startups
 publisher: We Are Tech Africa
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Redaction
 published: 2026-03-18
 date_precision: day

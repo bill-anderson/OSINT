@@ -3,6 +3,9 @@ type: source
 title: "Budget Ouvert (OBS), 2025 : le Bénin se hisse parmi les références mondiales de la transparence budgétaire"
 url: https://fraternite.bj/budget-ouvert-obs-2025-le-benin-se-hisse-parmi-les-references-mondiales-de-la-transparence-budgetaire/
 publisher: Fraternité
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Isac YAI
 published: 2026-06-19
 date_precision: day

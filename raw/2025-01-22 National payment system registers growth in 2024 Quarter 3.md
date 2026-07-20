@@ -13,6 +13,7 @@ places: [MWI]
 topics: [dpi.pay, include.access, data.statistics]
 entities: [[reserve-bank-of-malawi]]
 lens: []
+body_completeness: full
 ---
 
 The Reserve Bank of Malawi's National Payment Systems report shows Q3 2024 transaction volumes up 14.3 percent to 527.9 million and value up 23.4 percent to K59.5 trillion. The Malawi Interbank Transfer and Settlement System (MITASS) carried 73.3 percent of value (K43.6tn). Digital financial services volumes rose 14.8 percent to 516.3 million (value K10.4tn); mobile money subscribers reached 14.8 million and registered agents 447,348; internet banking subscribers hit 298,750.

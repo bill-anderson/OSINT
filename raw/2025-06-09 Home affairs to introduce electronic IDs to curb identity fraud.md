@@ -13,6 +13,7 @@ places: [NAM]
 topics: [dpi.id, infra.cybersec, include.access]
 entities: [[ministry-home-affairs-namibia], [namibia-digital-id], [undp]]
 lens: []
+body_completeness: full
 ---
 
 The Ministry of Home Affairs, Immigration, Safety and Security announced plans to launch Namibia's first electronic identity cards (e-IDs) by July 2026. Ministry executive director Etienne Maritz said the biometric-enabled e-ID would reduce identity fraud, eliminate duplicate records, and enhance data and national security, giving each citizen a unique, near-unforgeable verifiable identity.

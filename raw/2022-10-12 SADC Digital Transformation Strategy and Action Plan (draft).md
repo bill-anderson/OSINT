@@ -11,6 +11,7 @@ places: [XSA]
 topics: [gov.regional, gov.policy, gov.standards, dpi.exchange, infra.connect]
 entities: [[sadc], [sadc-digital-transformation-strategy]]
 lens: []
+body_completeness: full
 artefact: "2022-10-12 SADC Digital Transformation Strategy and Action Plan (draft).pdf"
 ---
 

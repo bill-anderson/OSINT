@@ -13,6 +13,7 @@ places: [MLI]
 topics: [data.statistics]
 entities: []
 lens: []
+body_completeness: full
 ---
 
 DataReportal's Digital 2025 profile for Mali (data early 2025). Headline figures: 23.4 million cellular mobile connections (94.2% of the total population; +377k / +1.6% year-on-year; 87.5% "broadband"). Internet users: 8.72 million at the start of 2025, an internet penetration rate of 35.1% (+250k / +3.0% year-on-year); around 16.1 million people (64.9%) remained offline. Social media: 2.20 million user identities in January 2025 (8.9% of population).

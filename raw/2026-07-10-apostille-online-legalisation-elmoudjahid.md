@@ -1,6 +1,7 @@
 ---
 type: source
 title: "Légalisation des documents destinés à l'étranger : l'apostille désormais accessible en ligne"
+ingested: 2026-07-18
 title_en: Apostille for legalising public documents for foreign use now available online (Hague Convention); state-daily coverage of the HCN platform launch
 url: https://www.elmoudjahid.dz/fr/actualite/legalisation-des-documents-destines-a-l-etranger-l-apostille-desormais-accessible-en-ligne-255359
 publisher: El Moudjahid
@@ -16,7 +17,7 @@ topics: [dpi.govtech, dpi.exchange, gov.policy, gov.regional]
 entities: [[haut-commissariat-a-la-numerisation, apostille-platform]]
 lens: []
 provenance_flag: state-media
-body_completeness: clipped-at-fetch
+body_completeness: excerpt
 ---
 
 # Légalisation des documents destinés à l'étranger : l'apostille désormais accessible en ligne

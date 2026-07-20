@@ -6,12 +6,14 @@ publisher: Graphic Online
 published: 2025-10-23
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: GHA-2026-07-17
 places: [GHA]
 topics: [gov.legislate, gov.protect, dpi.exchange]
 entities: [[nita-ghana], [data-protection-commission-ghana]]
 lens: []
+body_completeness: full
 ---
 
 # Ghana's Data Harmonisation Bill 2025 to be opened for public consultation from Nov 19 to 27, 2025

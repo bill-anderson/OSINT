@@ -4,12 +4,15 @@ title: "Strive Masiyiwa on business, human rights and philanthropy (NYU Law)"
 publisher: NYU School of Law
 url: https://www.law.nyu.edu/news/Strive-Masiyiwa-Bernstein-Institute-leadership-business-human-rights-philanthropy-Econet-Zimbabwe
 published: 2017-04-04
+date_precision: day
+date_source: source
 accessed: 2026-06-12
 ingested: 2026-07-10
 places: [ZWE, XAF, XGL]
 topics: [infra.connect, gov.legislate, include.access]
 entities: [[strive-masiyiwa], [econet-wireless], [african-union]]
 lens: [colonialism, sovereignty]
+body_completeness: full
 ---
 
 <!-- Econet founding fight (1993 idea; won on freedom-of-expression in the constitutional court;

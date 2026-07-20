@@ -13,6 +13,7 @@ places: [KEN]
 topics: [dpi.registry, dpi.id, gov.legislate]
 entities: [[maisha-namba]]
 lens: []
+body_completeness: full
 ---
 
 <!-- 3-day validation workshop on the Births and Deaths Registration Bill 2025 to modernise Kenya's civil registration. Led by State Dept for Immigration & Citizen Services (Civil Registration Service, CRS). Interior CS Kipchumba Murkomen supports (post-Jukwaa la Usalama forums). CRS Sec Paul Mwangemi: current Act (Cap 149) outdated/paper-driven. Bill: modern legal framework for digital registration, tech in records; data protection, access to info, intersex persons, surrogacy, adoption re-registration, presumed deaths. Aligns with a national population database, UPI at birth, legal identity/nationality at birth. Support: Vital Strategies + GHAI. -->

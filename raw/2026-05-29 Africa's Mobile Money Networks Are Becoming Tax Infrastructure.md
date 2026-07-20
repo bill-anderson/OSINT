@@ -3,6 +3,8 @@ type: source
 title: "Africa's Mobile Money Networks Are Becoming Tax Infrastructure"
 publisher: TechTrends KE
 url: https://techtrendske.co.ke/2026/05/29/africa-digital-payments-tax-collection-pressure/
+date_precision: day
+date_source: source
 author: George Kamau
 published: 2026-05-29
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [KEN, NGA, SEN, XSS]
 topics: [dpi.pay, gov.policy, include.access, finance.new]
 entities: [[safaricom]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Fiscal turn: mobile-money rails folded into tax collection (Kenya/Nigeria/Senegal) as debt costs rise. Traceability vs cash-flight risk. Cites Brookings' Pierre Nguimkeu. Informal economy ~90% of SSA employment. -->

@@ -3,6 +3,8 @@ type: source
 title: "African Union pushes for unified African voice at Global AI Governance Dialogue"
 publisher: Tech Review Africa
 url: https://techreviewafrica.com/news/6233/
+date_precision: day
+date_source: source
 author: Nana Appiah Acquaye
 published: 2026-07-09
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [XAF]
 topics: [tech.ai, gov.regional, gov.policy]
 entities: [[african-union], [un-ai-scientific-panel]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- AU Commission (Commissioner Lerato Mataboge) calls for a coordinated African approach at the inaugural Global Dialogue on AI Governance, Geneva (2026-07-09, alongside AI for Good + WSIS Forum 2026). The UN Independent International Scientific Panel on AI presented its Preliminary Report; Mataboge met African panel scientists (Marivate, Tadesse, Orji, El-Assady). -->

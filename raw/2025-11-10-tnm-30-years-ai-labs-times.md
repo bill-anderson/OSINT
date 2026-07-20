@@ -6,6 +6,7 @@ publisher: The Times (Times Group)
 published: 2025-11-10
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [MWI]
 topics: [infra.connect, tech.ai, tech.innovate]
 entities: [[malawi-ministry-of-ict]]

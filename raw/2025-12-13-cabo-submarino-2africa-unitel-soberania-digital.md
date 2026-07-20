@@ -14,6 +14,7 @@ places: [AGO]
 topics: [infra.connect, infra.store, tech.ai, dpi.pay, tech.industry]
 entities: [[unitel], [2africa-cable], [mario-oliveira], [ministerio-das-telecomunicacoes-tecnologias-de-informacao-e-comunicacao-social-angola]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Cabo submarino da Unitel reforça soberania digital de Angola

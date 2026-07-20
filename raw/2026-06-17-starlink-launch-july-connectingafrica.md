@@ -6,12 +6,14 @@ publisher: Connecting Africa
 published: 2026-06-17
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [infra.connect, gov.policy, gov.legislate, digital.rural, tech.ai]
 entities: [[starlink], [ministry-of-digital-transition-cote-divoire], [orange-cote-divoire], [eutelsat], [mtn-cote-divoire], [la-poste-de-cote-divoire]]
 lens: []
+body_completeness: full
 ---
 
 By Matshepo Sehloho, Associate Editor, Connecting Africa. June 17, 2026.

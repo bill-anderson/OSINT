@@ -6,12 +6,14 @@ publisher: Tech Review Africa
 published: 2025-07-21
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: CIV-2026-07-17
 places: [CIV]
 topics: [infra.connect, digital.rural, include.divides, include.access]
 entities: [[programme-national-de-connectivite-rurale], [ministry-of-digital-transition-cote-divoire], [kalil-konate]]
 lens: []
+body_completeness: full
 provenance_flag: pr-wire
 primary_to_source: PNCR (Programme National de Connectivité Rurale) rollout communiqué from the Ministry of Digital Transition and Digitalization; PNCR site-activation schedule
 ---

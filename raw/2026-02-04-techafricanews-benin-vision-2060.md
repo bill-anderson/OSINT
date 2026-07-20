@@ -3,6 +3,7 @@ type: source
 title: Benin's Vision 2060 Puts Digital Technology at the Core of National Growth
 url: https://techafricanews.com/2026/02/04/benins-vision-2060-puts-digital-technology-at-the-core-of-national-growth
 publisher: TechAfrica News
+ingested: 2026-07-18
 author: Joyce Onyeagoro
 published: 2026-02-04
 date_precision: day
@@ -13,6 +14,7 @@ places: [BEN]
 topics: [gov.policy, tech.ai, infra.cybersec, include.divides, dpi.govtech, dpi.pay]
 entities: [[benin-2060-alafia]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Benin's Vision 2060 Puts Digital Technology at the Core of National Growth

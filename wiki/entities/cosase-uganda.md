@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: government-body
 title: COSASE (Committee on Commissions, Statutory Authorities and State Enterprises), Uganda
 places: [UGA]

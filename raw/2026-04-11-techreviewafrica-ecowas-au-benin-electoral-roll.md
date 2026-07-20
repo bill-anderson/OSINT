@@ -3,6 +3,7 @@ type: source
 title: ECOWAS and African Union assess Benin's electoral preparedness ahead of presidential poll
 url: https://techreviewafrica.com/public/news/4880/ecowas-and-african-union-assess-benins-electoral-preparedness-ahead-of-presidential-poll
 publisher: Tech Review Africa
+ingested: 2026-07-18
 author: Nana Appiah Acquaye
 published: 2026-04-11
 date_precision: day
@@ -13,6 +14,7 @@ places: [BEN]
 topics: [dpi.registry, dpi.id, dpi.exchange, gov.regional, include.access]
 entities: [[anip-benin], [ecowas], [african-union], [rnpp]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Provenance note: Tech Review Africa is a byline-free PR wire (README source table). Published date established from the page's own "Date:" line at fetch time — Exa served no date. Sourcing the underlying ANIP/ECOWAS/AU statements would be preferable at ingest. -->

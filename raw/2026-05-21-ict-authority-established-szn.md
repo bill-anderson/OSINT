@@ -3,6 +3,7 @@ type: source
 title: South Sudan to establish ICT authority as part of media, tech reforms
 url: https://szn.ss/south-sudan-to-establish-ict-authority-as-part-of-media-tech-reforms/
 publisher: Standard Zone News
+ingested: 2026-07-19
 author: Bullen Bala
 published: 2026-05-21
 date_precision: day

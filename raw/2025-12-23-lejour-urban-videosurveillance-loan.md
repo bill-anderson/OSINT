@@ -3,6 +3,9 @@ type: source
 title: "Un emprunt de plus de 39 milliards FCFA pour la Vidéosurveillance Urbaine"
 url: https://lejour.cm/un-emprunt-de-plus-de-39-milliards-fcfa-pour-la-videosurveillance-urbaine/
 publisher: Le Jour
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Hiondi Nkam IV
 published: 2025-12-23
 date_precision: day

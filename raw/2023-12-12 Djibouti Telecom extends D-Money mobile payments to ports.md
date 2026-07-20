@@ -11,6 +11,7 @@ places: [DJI]
 topics: [dpi.pay, include.access]
 entities: [[djibouti-telecom]]
 lens: []
+body_completeness: full
 ---
 
 > **Date corrected 2026-07-20 (reconcile pass).** This file previously carried a **proxy year of 2021** —

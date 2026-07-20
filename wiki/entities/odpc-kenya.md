@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: government-body
 title: Office of the Data Protection Commissioner (ODPC), Kenya
 places: [KEN]

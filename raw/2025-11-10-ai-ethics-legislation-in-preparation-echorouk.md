@@ -1,6 +1,7 @@
 ---
 type: source
 title: تشريعات جديدة لضبط الاستخدام الأخلاقي للذكاء الاصطناعي
+ingested: 2026-07-18
 title_en: Government preparing comprehensive law on ethical AI use; national AI strategy detailed
 url: https://www.echoroukonline.com/%D8%AA%D8%B4%D8%B1%D9%8A%D8%B9%D8%A7%D8%AA-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%84%D8%B6%D8%A8%D8%B7-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85-%D8%A7%D9%84%D8%A3%D8%AE%D9%84%D8%A7%D9%82
 publisher: Echorouk El Yawmi
@@ -14,6 +15,7 @@ places: [DZA]
 topics: [tech.ai, gov.legislate, gov.policy, capacity.training]
 entities: [[kamel-baddari, conseil-scientifique-algerien-intelligence-artificielle, national-ai-strategy]]
 lens: []
+body_completeness: full
 ---
 
 # تشريعات جديدة لضبط الاستخدام الأخلاقي للذكاء الاصطناعي

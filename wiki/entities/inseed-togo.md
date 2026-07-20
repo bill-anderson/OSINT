@@ -1,5 +1,6 @@
 ---
 type: entity
+lens: []
 entity_type: government-body
 title: INSEED (Institut National de la Statistique et des Études Économiques et Démographiques, Togo)
 places: [TGO]

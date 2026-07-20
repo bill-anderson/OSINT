@@ -6,10 +6,12 @@ publisher: We Are Tech Africa
 published: 2025-12-09
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [DJI]
 topics: [infra.cybersec, gov.legislate, gov.regional]
 entities: [[national-cybersecurity-authority-djibouti], [malabo-convention], [vision-djibouti-2035]]
 lens: [sovereignty]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: DJI-2026-07-17
 ---

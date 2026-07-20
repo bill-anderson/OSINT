@@ -13,6 +13,7 @@ places: [UGA, ETH, MOZ, COD, CIV, AGO, TZA]
 topics: [infra.store, finance.new, tech.ai]
 entities: [[raxio-group], [ifc]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Tech.africa, 15 Jul 2026 (event 13 Jul). Raxio lifted committed capital $350m → $380m as backers Roha

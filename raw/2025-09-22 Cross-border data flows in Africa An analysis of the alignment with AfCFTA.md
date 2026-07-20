@@ -3,6 +3,8 @@ type: source
 title: "Cross-border data flows in Africa: An analysis of the alignment with AfCFTA"
 publisher: Research ICT Africa
 url: https://researchictafrica.net/research/cross-border-data-flows-in-africa-an-analysis-of-the-alignment-with-afcfta/
+date_precision: day
+date_source: source
 author: Sandra Makumbirofa; Jackline Akello; Nawal Omar
 published: 2025-09-22
 accessed: 2026-07-12
@@ -11,6 +13,7 @@ places: [XAF]
 topics: [gov.protect, gov.regional, dpi.exchange, gov.legislate]
 entities: [[cross-border-data-flows-afcfta-ria-2025], [research-ict-africa], [afcfta], [afcfta-digital-trade-protocol], [african-union]]
 lens: [sovereignty]
+body_completeness: full
 ---
 <!-- RIA report mapping African data-sharing frameworks and their poor alignment with AfCFTA; fragmentation + weak adequacy recognition block intra-African data sharing; recommends operational DPAs, interoperability standards, regional mutual recognition. This clip is one source citing the publication [[cross-border-data-flows-afcfta-ria-2025]]. -->
 

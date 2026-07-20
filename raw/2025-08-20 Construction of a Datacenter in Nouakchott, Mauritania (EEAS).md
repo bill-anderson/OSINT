@@ -12,6 +12,7 @@ places: [MRT]
 topics: [infra.store, infra.connect, gov.regional]
 entities: []
 lens: [sovereignty]
+body_completeness: full
 ---
 
 EU External Action Service note (20 August 2025) on the Nouakchott data centre, a flagship EU Global Gateway initiative in Mauritania's digitalisation sector. Carried out through a €15 million EIB loan, the project includes construction, Tier III certification by the Uptime Institute, and construction supervision/monitoring.

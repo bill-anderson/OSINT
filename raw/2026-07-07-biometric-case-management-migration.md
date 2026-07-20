@@ -6,6 +6,7 @@ publisher: Biometric Update
 published: 2026-07-07
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [ZAF]
 topics: [dpi.id, gov.protect]
 entities: [[home-affairs-south-africa]]

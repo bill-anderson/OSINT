@@ -13,6 +13,7 @@ places: [GHA]
 topics: [dpi.id, dpi.registry, include.access]
 entities: [[national-identification-authority-ghana], [ghana-card]]
 lens: []
+body_completeness: full
 ---
 
 <!-- NIA plans continuous registration: ~2.5m remaining 15+ still without a card (of ~20m first cohort of over-14s); plus ~3m diaspora ($20 W Africa / $30 rest of Africa / $50 outside Africa), 7m under-15s, 10,000 refugees. Baseline as of 31 Oct 2023: 17.56m registered 15+ (of ~30.8m pop); 17.51m+ printed, 16.62m issued, 895,000 awaiting collection, ~49,000 unprinted, ~101,000 blocked as duplicates; 192,277 non-citizen ID cards. Cards free for Ghanaians ($120 foreigners). ES Prof. Kenneth Agyemang Attafuah. Three biometrics (fingerprint, face, iris). Pilot with Births & Deaths Registry + GHS for ages 0-6. SDG 16.9. -->

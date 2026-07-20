@@ -3,6 +3,9 @@ type: source
 title: "Stratégie nationale de l'Etat civil : un taux d'exécution physique de 64,11% en 2024"
 url: https://www.sidwaya.info/strategie-nationale-de-letat-civil-un-taux-dexecution-physique-de-6411-en-2024/
 publisher: Sidwaya
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Nadège Yaméogo
 published: 2025-06-19
 date_precision: day

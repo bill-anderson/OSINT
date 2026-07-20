@@ -3,6 +3,8 @@ type: source
 title: "Deadline extended for Benin digital government transformation tender"
 publisher: Biometric Update
 url: https://www.biometricupdate.com/202501/deadline-extended-for-benin-digital-government-transformation-tender
+date_precision: day
+date_source: source
 author: Chris Burt
 published: 2025-01-29
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [BEN]
 topics: [dpi.govtech, gov.policy, capacity.training]
 entities: [[giz], [smart-africa], [uxp-benin]]
 lens: []
+body_completeness: full
 ---
 
 <!-- GIZ-run Benin 'Beninnovation' e-gov tender (PaaS architecture) deadline extended to 2025-02-03. Cites Benin's biometric National Register of Natural Persons (RNPP, 10m), the Smart Africa Digital ID Blueprint, X-Road implementation, and the WURI foundational-ID certificate. Capacity-building for civil servants + local providers. -->

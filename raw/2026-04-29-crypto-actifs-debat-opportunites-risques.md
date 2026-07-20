@@ -3,6 +3,7 @@ type: source
 title: "Crypto-actifs: Le débat sur les opportunités et les risques ouvert"
 url: https://lanation.bj/economie/crypto-actifs-le-debat-sur-les-opportunites-et-les-risques-ouvert
 publisher: La Nation
+ingested: 2026-07-18
 author: Babylas ATINKPAHOUN
 published: 2026-04-29
 date_precision: day
@@ -13,6 +14,7 @@ places: [BEN, XWA]
 topics: [dpi.pay, gov.policy, infra.cybersec, tech.innovate]
 entities: [[bceao], [uemoa]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Crypto-actifs: Le débat sur les opportunités et les risques ouvert

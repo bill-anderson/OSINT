@@ -3,6 +3,8 @@ type: source
 title: Rwanda's AI Ambition Takes Shape as Cabinet Approves New Agency
 url: https://www.ktpress.rw/2026/06/rwandas-ai-ambition-takes-shape-as-cabinet-approves-new-agency/
 publisher: KT Press
+ingested: 2026-07-19
+lens: []
 author: Sam Nkurunziza
 published: 2026-06-08
 date_precision: day

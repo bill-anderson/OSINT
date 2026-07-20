@@ -6,6 +6,7 @@ publisher: Namibian Sun
 published: 2025-07-30
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [NAM]
 topics: [infra.cybersec, data.statistics]
 entities: []

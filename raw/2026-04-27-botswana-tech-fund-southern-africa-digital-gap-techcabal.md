@@ -3,6 +3,9 @@ type: source
 title: Botswana Tech Fund sees opportunity where African venture capital rarely flows
 url: https://techcabal.com/2026/04/27/botswana-tech-fund/
 publisher: TechCabal
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Muktar Oladunmade
 published: 2026-04-27
 date_precision: day

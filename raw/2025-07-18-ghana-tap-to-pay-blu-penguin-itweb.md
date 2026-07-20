@@ -6,12 +6,14 @@ publisher: ITWeb Africa
 published: 2025-07-18
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: GHA-2026-07-17
 places: [GHA]
 topics: [dpi.pay, tech.industry]
 entities: [[blu-penguin], [network-international]]
 lens: []
+body_completeness: full
 ---
 # Ghana goes tap-to-pay with mobile money
 

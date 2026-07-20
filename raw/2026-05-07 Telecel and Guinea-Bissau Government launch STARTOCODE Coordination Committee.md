@@ -10,6 +10,7 @@ places: [GNB]
 topics: [capacity.training, capacity.literacy, tech.innovate, finance.mou]
 entities: [[telecel]]
 lens: []
+body_completeness: full
 provenance_flag: pr-wire
 retrieved: 2026-07-17
 ingested: 2026-07-18

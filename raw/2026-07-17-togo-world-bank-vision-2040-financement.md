@@ -6,6 +6,7 @@ publisher: Togo First
 published: 2026-07-17
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [TGO]
 topics: [finance.new, dpi.id, gov.regional, infra.energy]
 entities: [[world-bank], [wuri]]

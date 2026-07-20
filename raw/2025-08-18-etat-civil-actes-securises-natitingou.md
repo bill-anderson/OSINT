@@ -3,6 +3,9 @@ type: source
 title: "État civil à l'ère des réformes: L'utilité des actes sécurisés souvent négligée"
 url: https://lanation.bj/region/etat-civil-a-lere-des-reformes-lutilite-des-actes-securises-souvent-negligee
 publisher: La Nation
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Alexis METON, A/R Atacora-Donga
 published: 2025-08-18
 date_precision: day

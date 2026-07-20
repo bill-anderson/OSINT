@@ -3,6 +3,8 @@ type: source
 title: Minister Asamo Calls for Stronger Financial Inclusion for Persons with Disabilities
 url: https://nilepost.co.ug/news/307494/minister-asamo-calls-for-stronger-financial-inclusion-for-persons-with-disabilities
 publisher: Nile Post
+lens: []
+body_completeness: full
 author: Carolinah Nakibuule
 published: 2025-12-02
 date_precision: day

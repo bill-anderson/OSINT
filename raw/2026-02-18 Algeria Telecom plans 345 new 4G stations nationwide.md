@@ -11,6 +11,7 @@ places: [DZA]
 topics: [infra.connect, include.divides, gov.policy]
 entities: [[algerie-telecom]]
 lens: []
+body_completeness: full
 ---
 
 # Algeria Telecom plans 345 new 4G stations nationwide

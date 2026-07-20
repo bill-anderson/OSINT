@@ -6,6 +6,7 @@ publisher: Official Gazette, Republic of Seychelles
 published: 2025-12-23
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [SYC]
 topics: [gov.legislate, tech.innovate, capacity.research]
 entities: [[national-institute-of-science-technology-and-innovation-seychelles]]

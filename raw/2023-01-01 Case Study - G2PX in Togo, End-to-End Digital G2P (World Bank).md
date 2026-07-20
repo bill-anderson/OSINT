@@ -7,6 +7,8 @@ published: 2023-01-01
 date_precision: year
 date_source: proxy
 ingested: 2026-07-17
+lens: []
+body_completeness: full
 artefact: "2023-01-01 Case Study - G2PX in Togo, End-to-End Digital G2P (World Bank).pdf"
 places: [TGO]
 topics: [dpi.pay, dpi.id, include.access, dpi.registry]

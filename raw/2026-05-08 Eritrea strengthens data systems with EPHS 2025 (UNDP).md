@@ -13,6 +13,7 @@ places: [ERI]
 topics: [data.statistics, capacity.research]
 entities: [[undp], [eritrea-national-statistics-office]]
 lens: []
+body_completeness: full
 ---
 
 **Provenance note:** UNDP official news (primary / first-hand, development-partner

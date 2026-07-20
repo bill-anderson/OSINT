@@ -3,6 +3,8 @@ type: source
 title: Angola reafirma compromisso com a inovação digital no sistema de saúde
 url: https://angop.ao/noticias/saude/angola-reafirma-compromisso-com-a-inovacao-digital-no-sistema-de-saude/
 publisher: Angop
+lens: []
+body_completeness: full
 author: MEL/AJQ
 published: 2026-02-14
 date_precision: day

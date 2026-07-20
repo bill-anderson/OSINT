@@ -9,6 +9,8 @@ date_source: source
 places: [SDN]
 topics: [dpi.pay, finance.mou, geopol.gulf]
 entities: [[network-international], [saudi-sudanese-bank], [mastercard]]
+lens: []
+body_completeness: full
 retrieved: 2026-07-17
 ingested: 2026-07-18
 sweep_batch: SDN-2026-07-17

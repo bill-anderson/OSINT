@@ -3,6 +3,8 @@ type: source
 title: "EBRD and Tunisie Telecom Partner on €190 Million Digital Infrastructure Upgrade"
 publisher: Tech Africa News
 url: https://techafricanews.com/2026/01/19/ebrd-and-tunisie-telecom-partner/
+date_precision: day
+date_source: source
 author: Jennifer Onyeagoro
 published: 2026-01-19
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [TUN]
 topics: [infra.connect, infra.capacity, finance.new, infra.cybersec, geopol.eu]
 entities: [[ebrd], [tunisie-telecom], [medusa-submarine-cable]]
 lens: [colonialism]
+body_completeness: full
 ---
 
 <!-- Up to €190m EBRD development-linked loan (4 tranches, first €50m) for Tunisie Telecom's 4G->5G upgrade, FTTH to 200,000 households, and connection to the MEDUSA submarine cable; +€11m EU grant (incl. cybersecurity); Global Gateway aligned; interest tied to SOE-reform milestones. First EBRD non-sovereign-guaranteed public-sector financing in Tunisia since 2012. -->

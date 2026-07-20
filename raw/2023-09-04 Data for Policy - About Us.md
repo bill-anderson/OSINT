@@ -4,12 +4,15 @@ title: Data for Policy - About Us
 publisher: Data for Policy
 url: https://dataforpolicy.org/about-us/
 published: 2023-09-04
+date_precision: day
+date_source: source
 accessed: 2026-07-12
 ingested: 2026-07-12
 places: [XGL, XSS]
 topics: [gov.policy, data.open, capacity.research]
 entities: [[data-for-policy], [stefaan-verhulst], [gates-foundation], [the-govlab]]
 lens: []
+body_completeness: full
 ---
 <!-- Standing About-Us page for Data for Policy (CIC, est. 2014; UK CIC 2018; launched Data & Policy journal with CUP 2019; 2022 Gates-backed Equity Initiative focused on SSA participation). Establishes the standing body → entity profile [[data-for-policy]], not an event. -->
 

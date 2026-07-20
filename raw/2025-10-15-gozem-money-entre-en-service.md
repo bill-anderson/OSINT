@@ -6,6 +6,7 @@ publisher: Togo First
 published: 2025-10-15
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [TGO]
 topics: [dpi.pay, finance.new, tech.innovate]
 entities: [[gozem], [nsia-banque], [bceao]]

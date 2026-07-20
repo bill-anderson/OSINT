@@ -3,6 +3,7 @@ type: source
 title: "Stepping Stones to the Internet in Africa (NSRC)"
 publisher: Network Startup Resource Center
 url: https://nsrc.org/africa-network-history
+date_source: source
 author: NSRC
 published: 2023
 date_precision: year
@@ -12,6 +13,7 @@ places: [XSS, TUN, ZAF, KEN]
 topics: [infra.connect, capacity.research, data.open]
 entities: [[nsrc]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Profile of the NSRC 'Stepping Stones' African network-history reference + interactive connectivity map: first African TCP/IP connection Oct 1991 (Tunisia); SA Nov 1991; Eritrea last (Nov 2000); FidoNet/UUCP precursors from the 1980s; end-2022 ~600m Africans online (~43%). Resource [[nsrc]]. -->

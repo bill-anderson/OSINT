@@ -3,6 +3,7 @@ type: source
 title: "Cameroon Launches PROXIGAB: National Digital Platform to Support SMEs and Youth Entrepreneurs"
 url: https://techafricanews.com/2026/01/27/cameroon-launches-proxigab-national-digital-platform-to-support-smes-and-youth-entrepreneurs/
 publisher: TechAfrica News
+ingested: 2026-07-18
 author: Editorial Team
 published: 2026-01-27
 date_precision: day
@@ -11,6 +12,7 @@ places: [CMR]
 topics: [dpi.govtech, tech.innovate, finance.new, include.access, gov.protect]
 entities: [[proxigab], [ministry-of-trade-smes-and-youth-entrepreneurship-cameroon]]
 lens: []
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: CMR-2026-07-17
 ---

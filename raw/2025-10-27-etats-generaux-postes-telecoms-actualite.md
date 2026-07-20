@@ -6,12 +6,14 @@ publisher: ACTUALITE.CD
 published: 2025-10-27
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: COD-2026-07-17
 places: [COD]
 topics: [gov.policy, infra.connect, finance.new, include.divides]
 entities: [[jose-mpanda-kabangu], [scpt-drc], [felix-tshisekedi], [drc-national-digital-plan-pnn2]]
 lens: []
+body_completeness: full
 ---
 
 Lundi 27 octobre 2025 - 21:58

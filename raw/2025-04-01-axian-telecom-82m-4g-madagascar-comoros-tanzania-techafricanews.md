@@ -6,12 +6,14 @@ publisher: TechAfrica News
 published: 2025-04-01
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: COM-2026-07-17
 places: [COM, MDG, TZA]
 topics: [infra.connect, finance.new, include.divides, digital.rural]
 entities: [[axian], [itu]]
 lens: []
+body_completeness: full
 provenance_flag: pr-wire
 ---
 

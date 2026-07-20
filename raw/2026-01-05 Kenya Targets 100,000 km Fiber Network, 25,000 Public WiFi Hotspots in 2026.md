@@ -3,6 +3,8 @@ type: source
 title: "Kenya Targets 100,000 km Fiber Network, 25,000 Public WiFi Hotspots in 2026"
 publisher: TechAfrica News
 url: "https://techafricanews.com/2026/01/05/kenya-targets-100000-km-fiber-network-25000-public-wifi-hotspots-in-2026/"
+date_precision: day
+date_source: source
 author: Jennifer Onyeagoro
 published: 2026-01-05
 accessed: 2026-07-12
@@ -11,6 +13,7 @@ places: [KEN]
 topics: [infra.connect, include.access, capacity.training]
 entities: [[ict-authority-kenya]]
 lens: []
+body_completeness: full
 ---
 <!-- As of 2026-01-05 the Kenya ICT Authority (icta.go.ke) targets 100,000 km national fibre + 25,000 public WiFi hotspots in 2026, plus digital-literacy and e-waste measures (aspirational plans). Attach: [[ict-authority-kenya]], KEN hub. Distinct from communications-authority-of-kenya (regulator). -->
 

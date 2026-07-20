@@ -3,6 +3,7 @@ type: source
 title: Cameroon Strengthens Cybersecurity with Advanced Systems at National CIRT
 url: https://techafricanews.com/2026/01/21/cameroon-strengthens-cybersecurity-with-advanced-systems-at-national-cirt/
 publisher: TechAfrica News
+ingested: 2026-07-18
 author: Jennifer Onyeagoro
 published: 2026-01-21
 date_precision: day
@@ -11,6 +12,7 @@ places: [CMR]
 topics: [infra.cybersec, infra.capacity, dpi.govtech, gov.policy, finance.new, data.statistics]
 entities: [[antic], [patnuc], [world-bank], [minpostel]]
 lens: [sovereignty]
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: CMR-2026-07-17
 ---

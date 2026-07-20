@@ -13,6 +13,7 @@ places: [XAF]
 topics: [tech.innovate, capacity.training]
 entities: [[afrilabs]]
 lens: []
+body_completeness: full
 ---
 
 <!-- ITWeb (Aug 2024): AfriLabs, the pan-African network of technology & innovation hubs, admitted 18 new member hubs in Q2 2024 — strengthening its presence across all African regions, including its first hub in Stellenbosch (South Africa) and hubs in Tunisia (DigiArtLivingLab, Connect'Innov, The Dot) and elsewhere. Regional (XAF) innovation-ecosystem item; AfriLabs as a standing continental hub network. -->

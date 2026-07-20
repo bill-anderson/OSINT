@@ -3,6 +3,7 @@ type: source
 title: ICT Ministry vows to ensure effective operation of Cyber crime Act
 url: https://www.onecitizendaily.com/index.php/2026/02/20/ict-ministry-vows-to-ensure-effective-operation-of-cyber-crime-act/
 publisher: One Citizen Daily
+ingested: 2026-07-19
 author: One Citizen Daily Newspaper
 published: 2026-02-20
 date_precision: day

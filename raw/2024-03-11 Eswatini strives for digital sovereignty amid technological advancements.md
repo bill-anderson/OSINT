@@ -12,6 +12,7 @@ places: [SWZ]
 topics: [gov.protect, gov.legislate, infra.cybersec, include.access, gov.standards]
 entities: [[esccom], [data-protection-act-2022-eswatini], [computer-crime-and-cyber-crime-act-2022-eswatini], [eptc], [mtn-eswatini], [apc]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 *Originally published 2024-03-11; updated 2024-11-18. First appeared in Issue 2 of Southern Africa Digital Rights. Named-analyst advocacy analysis — attribute, do not treat as neutral record.*

@@ -12,6 +12,7 @@ places: [LSO]
 topics: [infra.connect, include.divides, gov.policy]
 entities: []
 lens: []
+body_completeness: full
 artefact: "2024-01-01 Moliehi Makhele - Lesotho internet affordability.pdf"
 ---
 

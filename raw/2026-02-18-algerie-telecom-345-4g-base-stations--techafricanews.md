@@ -6,6 +6,7 @@ publisher: TechAfrica News
 published: 2026-02-18
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: DZA-2026-07-17
 provenance_flag: pr-wire
@@ -13,6 +14,7 @@ places: [DZA]
 topics: [infra.connect, infra.capacity, include.access, digital.rural]
 entities: [[algerie-telecom]]
 lens: []
+body_completeness: full
 ---
 
 # Algeria Telecom to Deploy 345 New 4G Base Stations Nationwide

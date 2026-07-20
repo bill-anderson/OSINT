@@ -3,6 +3,9 @@ type: source
 title: Botswana pushes for RRB seat as African states forge common ITU agenda in Victoria Falls
 url: https://techreviewafrica.com/news/5936/botswana-pushes-for-rrb-seat-as-african-states-forge-common-itu-agenda-in-victoria-falls
 publisher: Tech Review Africa
+ingested: 2026-07-18
+lens: []
+body_completeness: full
 author: Nana Appiah Acquaye
 published: 2026-06-15
 date_precision: day

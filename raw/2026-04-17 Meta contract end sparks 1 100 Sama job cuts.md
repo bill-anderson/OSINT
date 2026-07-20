@@ -3,6 +3,8 @@ type: source
 title: "Meta contract end sparks 1 100 Sama job cuts"
 publisher: ITWeb Africa
 url: https://itweb.africa/article/meta-contract-end-sparks-1-100-sama-job-cuts/
+date_precision: day
+date_source: source
 author: Lezeth Khoza
 published: 2026-04-17
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [KEN]
 topics: [tech.ai, include.access, gov.protect, capacity.training]
 entities: [[meta], [sama]]
 lens: [colonialism]
+body_completeness: excerpt
 ---
 
 <!-- Sama laying off 1,108 Kenya staff after Meta ended its content/data-annotation contract. Ties to the Daniel Motaung case; Kenyan courts allow Meta to be sued locally. Global-margins AI-data labour. -->

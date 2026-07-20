@@ -6,6 +6,7 @@ publisher: TechAfrica News
 published: 2026-06-09
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 places: [KEN]
 topics: [geopol.eu, finance.new, gov.policy]
 entities: [[european-union]]

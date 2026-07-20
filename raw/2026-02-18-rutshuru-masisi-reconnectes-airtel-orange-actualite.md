@@ -6,12 +6,14 @@ publisher: ACTUALITE.CD
 published: 2026-02-18
 date_precision: day
 date_source: source
+ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: COD-2026-07-17
 places: [COD]
 topics: [infra.connect, include.access, dpi.pay]
 entities: [[airtel], [orange]]
 lens: []
+body_completeness: full
 ---
 
 Mercredi 18 février 2026 - 08:15

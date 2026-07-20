@@ -6,6 +6,7 @@ publisher: Information Commission of Seychelles
 published: 2025-11-10
 date_precision: day
 date_source: proxy
+ingested: 2026-07-19
 places: [SYC]
 topics: [gov.legislate, gov.policy, data.open]
 entities: [[information-commission-seychelles]]

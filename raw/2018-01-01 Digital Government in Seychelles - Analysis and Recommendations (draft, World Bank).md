@@ -7,6 +7,8 @@ published: 2018-01-01
 date_precision: year
 date_source: source
 ingested: 2026-07-17
+lens: []
+body_completeness: full
 artefact: "2018-01-01 Digital Government in Seychelles - Analysis and Recommendations (draft, World Bank).pdf"
 places: [SYC]
 topics: [dpi.govtech, gov.policy]

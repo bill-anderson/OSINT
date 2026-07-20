@@ -14,6 +14,7 @@ places: [AGO]
 topics: [infra.store, infra.connect, infra.cybersec, gov.policy, tech.ai, gov.regional]
 entities: [[ministerio-das-telecomunicacoes-tecnologias-de-informacao-e-comunicacao-social-angola], [mario-oliveira], [joao-lourenco], [data-center-e-cloud-do-governo-angola], [nuvem-nacional-de-angola], [angosat-2], [2africa-cable], [sadc]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Centro de Dados do Governo representa soberania digital de Angola - ministro

@@ -6,6 +6,8 @@ publisher: Telecom Review Africa
 published: 2025-10-22
 date_precision: day
 date_source: source
+ingested: 2026-07-19
+lens: []
 retrieved: 2026-07-17
 sweep_batch: RWA-2026-07-17
 body_completeness: full

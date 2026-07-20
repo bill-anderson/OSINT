@@ -6,6 +6,7 @@ publisher: TechCabal
 published: 2025-11-13
 date_precision: day
 date_source: source
+ingested: 2026-07-19
 places: [SWZ]
 topics: [dpi.pay, dpi.exchange, gov.legislate]
 entities: [[central-bank-of-eswatini], [eswatini-payment-switch]]

@@ -3,6 +3,8 @@ type: source
 title: "DIAL Digital ID Assessment"
 publisher: Digital Impact Alliance (DIAL)
 url: https://dial.global/work/digital-id-assessment/
+date_precision: day
+date_source: source
 author: unknown
 published: 2024-01-16
 accessed: 2026-07-11
@@ -11,6 +13,7 @@ places: [XGL, ETH]
 topics: [dpi.id, gov.standards, include.access]
 entities: [[digital-id-assessment], [dial], [fayda-ethiopia-national-id]]
 lens: []
+body_completeness: full
 ---
 
 <!-- Profile of DIAL's Digital ID Assessment framework (Guidebook / Principles Inventory / Solution Evaluation; 12 categories; self-assessment maturity scoring). Instrument basis for [[digital-id-assessment]]; Ethiopia NIDP an early adopter. -->

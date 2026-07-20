@@ -12,6 +12,7 @@ places: [UGA, XAF]
 topics: [tech.ai, gov.policy, gov.protect, include.divides, capacity.research]
 entities: [[cipesa], [au-continental-ai-strategy]]
 lens: [sovereignty, colonialism]
+body_completeness: excerpt
 ---
 
 # CIPESA Urges Rights-Centred Approach to Uganda’s AI Strategy – Collaboration on International ICT Policy for East and Southern Africa (CIPESA)
