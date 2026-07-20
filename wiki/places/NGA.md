@@ -265,13 +265,19 @@ last_reviewed: 2026-07-20
   **[[nigeria-id4d]]** (World Bank / AFD / EIB). Source:
   [[2026-07-09 Nigeria seeks support to operationalize new digital ID law as NIN tops 136M]].
   See [[dpi.id]], [[gov.legislate]], and the intersection **[[nigeria--dpi-id]]**.
-- **2026-07-09** — **8,809-ward NIN enrolment drive.** Under the NIMC Act 2026, DG
-  Coker-Odusote launched ward-level enrolment across all **8,809 wards** targeting rural
-  women, children, PWDs and refugees (NIN as prerequisite for banking/telecoms/federal
-  programmes), plus new powers to **arrest and prosecute identity thieves** via an
-  **ICE Unit**. Drew a **Maisha Namba** contrast with Kenya ([[KEN]]). Source:
-  [[2026-07-09 NIMC Act 2026 Director-General Coker-Odusote Launches 8,809-Ward Digital ID Drive]].
+- **2026-07-09** — **8,809-ward NIN enrolment drive disclosed.** At a courtesy visit to
+  Information Minister **Mohammed Idris** (Abuja, 8 Jul), DG Coker-Odusote said NIMC **has
+  commenced** ward-by-ward enrolment across all **8,809 political wards** on a Tinubu
+  directive, targeting women, children, elderly persons, PWDs and refugees; Idris put
+  ~**100M** Nigerians as still uncaptured against **136M** enrolled (2026-07). NIMC has
+  **reactivated** its **ICE Unit** and may prosecute identity fraud with security agencies
+  and the Ministry of Justice. Sources:
+  [[2026-07-09 Nigerian Government Intensifies National Identity Enrolment Campaign (Voice of Nigeria)]],
+  [[2026-07-09 NIMC Enrols 136 Million Nigerians as Coker-Odusote Pushes Stronger Inter-Ministerial Partnership]].
   See [[infra.cybersec]], [[include.access]], **[[nigeria--dpi-id]]**.
+  *(The drive began **2026-02-16**; this is a disclosure of progress, not a launch. A
+  previously held "Maisha Namba contrast with Kenya" framing was struck on 2026-07-20 — it
+  appears in no primary the wiki holds.)*
 - **2026-07-09** — **Nigeria takes the AfCFTA Council of Ministers Bureau Chair** from Egypt
   at the 18th Council (Abuja); Trade Minister **Jumoke Oduwole** named four priorities
   including unlocking digital trade and MSME/women-and-youth finance. The parallel **2nd AfCFTA

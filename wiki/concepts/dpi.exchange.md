@@ -153,7 +153,8 @@ cross-border scale, the legal enforceability of that exchange.
   first announced (2025-04) as a JICA-supported interministerial system, its first phase (end-2025)
   targeting faster social assistance. See [[dpi.govtech]],
   [[gov.protect]], [[infra.store]]. Sources:
-  [[2025-04-22 Senegal launches interministerial interoperable data-exchange platform]],
+  [[2025-04-22-lesoleil-interoperability-platform]],
+  [[2025-09-19-techafricanews-interoperability-update]],
   [[2026-03-25 Senegal Accelerates Digital Sovereignty with Rollout of Flagship Technology Initiatives]].
 - **[[XWA]] West Africa — cross-border ID as exchange (2026-03).** The **[[wuri-programme]]**
   ([[ecowas]] + World Bank) validated a regional/cross-border interoperability strategy for **mutual
@@ -320,5 +321,5 @@ cross-border scale, the legal enforceability of that exchange.
 - [[2026-01-26 How Onafriq is growing digital finance amid uncertainty in DRC]]
 - [[2025-08-04 93 - Ecosystem Debt or Generative Platforms A Case for Digital Public Infrastructure]]
 - [[2025-06-09 Rwanda charts a new course for government data sharing]]
-- [[2025-04-22 Senegal launches interministerial interoperable data-exchange platform]]
+- [[2025-04-22-lesoleil-interoperability-platform]]
 - [[2025-08-28 Nigeria to launch National Data Exchange (NGDX) platform to boost digital economy]]

@@ -262,8 +262,9 @@ last_reviewed: 2026-07-20
 - **2025-04-22** — **National Interoperability Platform launched.** Senegal launched an interministerial,
   interoperable data-exchange platform (with **JICA**), a structuring DPI project of the
   **[[new-deal-technologique|New Deal]]**; first phase (end-2025) aims to speed social assistance. See
-  [[dpi.exchange]], [[dpi.govtech]]. Source:
-  [[2025-04-22 Senegal launches interministerial interoperable data-exchange platform]].
+  [[dpi.exchange]], [[dpi.govtech]]. Sources:
+  [[2025-04-22-lesoleil-interoperability-platform]],
+  [[2025-09-19-techafricanews-interoperability-update]].
 - **2025-02-24** — **New Deal Technologique founding launch.** President Faye launched the strategy
   (Horizon 2034, "Senegal 2050"), centred on a **unique biometric digital ID** generating functional
   identities, a single citizen portal, and integrated services; ~$1.7bn budget. See

@@ -24,7 +24,7 @@ digital and "tech islands" hub** (**[[techpark-cv|TechPark CV]]**), backed by th
   spot) fill in the picture: **CRVS–ID interoperability ([[autentika-cabo-verde|Autentika]]) drove birth
   registration to ~99%** (UIN at birth); a **National 5G Strategy** (Resolution 33/2026) bundling a
   universal digital ID + data strategy; a **€37M [[cv-telecom]] guarantee** drawing a **[[unitel|UNITEL T+]]
-  neutrality objection**; **[[techpark-cv|TechPark]]** Praia (€45.59M AfDB) + Mindelo; **[[fundo-morabeza|
+  neutrality objection**; **[[techpark-cv|TechPark]]** Praia (AfDB financing €45.5–45.59M; project value unresolved, 2026-07-20) + Mindelo; **[[fundo-morabeza|
   Fundo Morabeza]]** €24M; new **[[cabo-verde-data-ai-strategy|Data + AI strategies]]**; NOSi's govtech
   **export to Angola**; and two live controversies — the **[[ine-cabo-verde|INE]] data-manipulation** row
   and a **NOSi election-night cyber-incident**. See [[cabo-verde--dpi-id]], [[cabo-verde--infra-connect]],

@@ -164,7 +164,7 @@ Interoperable digital payments and financial inclusion.
   (eKash) and Adebowale (CBN). See [[RWA]], [[NGA]], [[infra.store]], [[dpi.exchange]]. Sources:
   [[2025-12-05 From Access to Empowerment Introducing Rwanda's Instant Payment System — eKash]],
   [[2025-03-10 Powering Rwanda's Payments Future How Mojaloop Enables RNDPS 2.0 and eKash]],
-  [[2026-07-13 Rwanda's eKash System Achieves Full Interoperability for Digital Payments]],
+  [[2026-07-14-migrates-retail-payments-ekash-itweb]],
   [[2026-07-01 Strategy Ahead of Infrastructure, Part I Inside the CBN's June 2026 Payments Circular]],
   [[2026-06-19 Strategy Ahead of Infrastructure, Part II The Opportunity and the Case for Sequencing]].
 - **[[SDN]] Sudan (2026) — a sovereign hub with competing private spokes.** The intended national
@@ -269,7 +269,7 @@ Continental rails and the sector-wide figures/theses are above. National payment
 - [[2026-07-10 Nigeria tests data sovereignty as foreign tech firms facing probe]]
 - [[2026-07-11 BEAC joins PAPSS and accelerates cross-border payments integration in Central Africa]]
 - [[2026-07-13 Liberia Expands Digital Finance]]
-- [[2026-07-13 Rwanda's eKash System Achieves Full Interoperability for Digital Payments]]
+- [[2026-07-14-migrates-retail-payments-ekash-itweb]]
 - [[2025-03-05 Rebuilding Sudan's digital infrastructure amidst conflict]]
 - [[2025-03-10 Powering Rwanda's Payments Future How Mojaloop Enables RNDPS 2.0 and eKash]]
 - [[2025-11-24 Digitizing public payments provide solution to mobile money tax reform in Senegal]]

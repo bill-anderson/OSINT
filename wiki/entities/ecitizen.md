@@ -6,7 +6,7 @@ places: [KEN]
 topics: [dpi.govtech, dpi.pay, gov.protect]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-18
+last_reviewed: 2026-07-20
 sources: [[2026-03-26-ecitizen-22000-services-audit-techafricanews], [2026-03-26-ecitizen-revenue-46m-daily-itweb], [2026-06-23-agencies-defy-ecitizen-order-1695-services-nation], [2025-04-20-mps-multi-billion-ecitizen-deal-cancelled-nation], [2025-04-01-court-halts-school-fees-ecitizen-nation], [2025-07-23-ecitizen-payments-not-reach-treasury-standard], [2026-03-10-hand-over-ecitizen-auditor-general-standard], [2026-03-27-ecitizen-heist-pesaflow-63b-standard]]
 ---
 
@@ -33,9 +33,19 @@ Tree), with the state asserting full ownership under a January 2023 handover agr
   probe found **eCitizen payments not reaching Treasury accounts** (PS Kiptoo summoned), and The Standard
   detailed a **"Pesaflow heist" of KES 6.3bn** diverted to private accounts. Seven private entities/banks
   were summoned over the suspected diversion. Sources:
-  [[2026-03-10-hand-over-ecitizen-auditor-general-standard]],
+  [[2026-03-26-ecitizen-revenue-46m-daily-itweb]] *(carries the "single point of failure" framing, the
+  KES 9.4bn figure, the KES 44.8bn collections variance and the seven summonsed entities)*,
   [[2025-07-23-ecitizen-payments-not-reach-treasury-standard]],
-  [[2026-03-27-ecitizen-heist-pesaflow-63b-standard]].
+  [[2026-03-10-hand-over-ecitizen-auditor-general-standard]] and
+  [[2026-03-27-ecitizen-heist-pesaflow-63b-standard]] *(both **headline-only** — The Standard serves a
+  hard login wall over the body. Checked 2026-07-20: the articles are real and bylined (Mate Tongola;
+  Josphat Thiong'o), but the wiki holds only their headlines. They establish that the recommendation to
+  hand the platform to the State was reported on 10 Mar 2026, and that a KES 6.3bn Pesaflow diversion
+  was alleged on 27 Mar 2026 — and nothing further. The mechanism of the alleged diversion is **not
+  established**; a subscriber clip is queued as an acquisition.)*
+  - *Status of the allegations, as of 2026-07-20:* these are audit findings and press allegations.
+    Nothing on file records a charge, a court determination, or a Pesaflow or eCitizen response. That
+    absence is itself the current state, not a gap to be papered over.
 - **Contract scrutiny (2025-04).** [[gov.legislate]] MPs sought to **cancel the eCitizen consultancy
   agreement**, calling it lopsided and signed by a junior officer without Treasury/Interior CS signatures
   — exposing Kenyans to loss of money and data. Source:

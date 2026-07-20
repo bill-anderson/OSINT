@@ -20,8 +20,9 @@ debating the **AI divide** in its own press.
 
 ## TechPark — the physical hub bet
 
-**[[techpark-cv|TechPark CV]]** opened at **Praia** (May 2025, **€45.59M / $51.7M AfDB** — the same
-inauguration in two currencies, ~2% of GDP; ZEET special economic zone; **23 firms / 7 countries, 311 jobs,
+**[[techpark-cv|TechPark CV]]** opened at **Praia** (May 2025; **project value unresolved as at
+2026-07-20** — reported as €45.59M of AfDB financing, and as a €51.85M project carrying €45.5M of AfDB
+financing, with the "~2% of GDP" framing depending on which is used; ZEET special economic zone; **23 firms / 7 countries, 311 jobs,
 2,769 upskilled**) and a second campus at **Mindelo** (São Vicente, with a data centre) — the vehicle for a
 **digital-economy-to-25%-of-GDP** target. TechCabal weighed whether CV can "rival Nigeria and Ghana"
 (Pedro Lopes; $100M+ infra, 14,530 km fibre, a ZET sandbox, brain-drain reversal). Sources:

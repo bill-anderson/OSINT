@@ -7,7 +7,7 @@ topics: [infra.connect, infra.store, dpi.pay, tech.industry, capacity.training]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-18
-sources: [[2025-09-02-camtel-expands-fiber-network-fixed-telephony-techafricanews], [2026-03-30-camtel-tender-2-3-million-sims-itweb], [2026-01-22-camtel-cbc-44-88bn-syndicated-financing-mne-techreviewafrica], [2026-01-22-camtel-cbc-44-884bn-fcfa-mobile-network-expansion-techafricanews], [2025-12-05-ethio-telecom-camtel-master-service-agreement-telecomreviewafrica], [2025-12-16-ethio-telecom-team-concludes-strategic-visit-camtel-telecomreviewafrica], [2026-07-08-camtel-aws-digital-transformation-talks-techafricanews], [2026-04-09-camtel-avanti-satellite-partnership-techafricanews], [2025-05-16-lejour-sotel-tchad-renegotiates-camtel-debt], [2025-05-02-lejour-camtel-blue-money-launch-announced], [2025-12-23-lejour-camtel-ethio-telecom-blue-money]]
+sources: [[2025-09-02-camtel-expands-fiber-network-fixed-telephony-techafricanews], [2026-03-30-camtel-tender-2-3-million-sims-itweb], [2026-01-22-camtel-cbc-44-884bn-fcfa-mobile-network-expansion-techafricanews], [2025-12-05-ethio-telecom-camtel-master-service-agreement-telecomreviewafrica], [2025-12-16-ethio-telecom-team-concludes-strategic-visit-camtel-telecomreviewafrica], [2026-07-08-camtel-aws-digital-transformation-talks-techafricanews], [2026-04-09-camtel-avanti-satellite-partnership-techafricanews], [2025-05-16-lejour-sotel-tchad-renegotiates-camtel-debt], [2025-05-02-lejour-camtel-blue-money-launch-announced], [2025-12-23-lejour-camtel-ethio-telecom-blue-money]]
 ---
 
 # CAMTEL (Cameroon Telecommunications)
@@ -40,8 +40,7 @@ wholesale and landing-station monopolies**, not retail mobile, where it is negli
   it. **Reconciliation:** the wiki also holds a "Jan 2026 **US$81.2m** CBC package" (Southwood); given
   the syndicated structure, the FCFA 44.884bn phase-1 tranche and the ~US$81.2m facility are plausibly
   **different quantities (tranche vs total), not a conflict** — both kept, dated and distinctly labelled,
-  pending a CAMTEL/CBC primary. (Also ~US$65.65m from BEAC in 2025.) Sources (both PR-wire, same day):
-  [[2026-01-22-camtel-cbc-44-88bn-syndicated-financing-mne-techreviewafrica]],
+  pending a CAMTEL/CBC primary. (Also ~US$65.65m from BEAC in 2025.) Source:
   [[2026-01-22-camtel-cbc-44-884bn-fcfa-mobile-network-expansion-techafricanews]].
 
 ## Blue Money — the state into mobile money

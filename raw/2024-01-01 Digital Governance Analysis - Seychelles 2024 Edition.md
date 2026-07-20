@@ -1,7 +1,7 @@
 ---
 type: source
 title: Digital Governance Analysis: Seychelles, 2024 Edition
-url: https://www.eforumsd.com
+url: https://www.eforumsd.com/wp-content/uploads/2024/05/Seychelles-Digital-Governance-Report.pdf
 publisher: Economic Forum for Sustainable Development (eforumsd.com)
 published: 2024-01-01
 date_precision: year
@@ -14,7 +14,16 @@ places: [SYC]
 topics: [dpi.govtech, gov.policy, gov.protect]
 entities: [[seychelles-digital-governance-report]]
 ---
-<!-- url unrecovered as of 2026-07-20 -->
+<!-- Provenance established 2026-07-20 (lint #6). The document is real: the canonical PDF is
+     served by the publisher at eforumsd.com/wp-content/uploads/2024/05/Seychelles-Digital-Governance-Report.pdf,
+     and its cover matches the stored title and the stored "Report Created For: The Secretary General
+     of The Commonwealth of Nations" line verbatim. The earlier `url unrecovered` note is withdrawn.
+     Publisher self-describes as a "consortium"; the wiki takes no view on its standing — the
+     reference-study guard below is what governs use of its figures. -->
+
+<!-- Note the file path dates the upload to May 2024; `published` is kept at year precision
+     ("2024 Edition") rather than inferred to a month. -->
+
 
 # Digital Governance Analysis: Seychelles, 2024 Edition
 

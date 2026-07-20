@@ -145,7 +145,6 @@ last_reviewed: 2026-07-18
   centres** nationally), and **BCX**'s hosting of **Alibaba Cloud**'s local (ALP) services in Maputo (Jun 2024,
   billed in local currency for data sovereignty). Sources:
   [[2024-05-28 Raxio launches data center in Mozambique (Raxio MZ1)]],
-  [[2024-05-28 Raxio Launches New Data Centre In Mozambique]],
   [[2025-03-31 Vodacom opens data center in Maputo, Mozambique]],
   [[2025-04-23 Vodacom Business Data Centre - A Strategic Step Towards Business Digitalisation in Mozambique]],
   [[2024-06-10 BCX brings Alibaba Cloud to Mozambique]]. See [[infra.store]], [[infra.connect]].

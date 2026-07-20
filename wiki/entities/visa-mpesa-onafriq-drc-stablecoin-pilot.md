@@ -7,7 +7,7 @@ topics: [dpi.pay, finance.new, gov.protect]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-16
-sources: [[2026-07-02 Visa tests stablecoins in DRC for cross-border payments (The EastAfrican)], [2026-07-02 DR Congo becomes Africa's live test for dollar-settled mobile money (Ecofin)], [2026-01-26 How Onafriq is growing digital finance amid uncertainty in DRC], [2026-07-10 Visa and M-Pesa Launch Blockchain Stablecoin Pilot in DR Congo]]
+sources: [[2026-07-02 Visa tests stablecoins in DRC for cross-border payments (The EastAfrican)], [2026-07-02 DR Congo becomes Africa's live test for dollar-settled mobile money (Ecofin)], [2026-01-26 How Onafriq is growing digital finance amid uncertainty in DRC]]
 ---
 
 # Visa–Onafriq DRC stablecoin settlement (via Visa Pay)
@@ -49,14 +49,16 @@ Specifically unconfirmed as of 2026-07-16:
 
 ## Provenance history
 
-Originally flagged (REV-006) on a single low-authority aggregator ([[2026-07-10 Visa and M-Pesa Launch Blockchain Stablecoin Pilot in DR Congo]],
-a late rewrite). The core mechanism is now corroborated by the Visa-executive primary; the residual gap
-is on **framing and specifics**, handled by caveat above rather than a `needs-review` hold. Tags
-[[dpi.pay]], [[finance.new]], [[gov.protect]].
+Originally flagged (REV-006) on a single low-authority aggregator — a 2026-07-10 rewrite on
+`streamlinefeed.co.ke`, which carried no primary citation and post-dated the trade-press
+reporting it restated. That item was **retired and deleted on 2026-07-20** when the domain was
+adjudicated inadmissible under lint #6 (drop-list: ad-injected scrape). Nothing on this page
+now rests on it: the core mechanism is carried by the Visa-executive primary, and the residual
+gap is on **framing and specifics**, handled by caveat above rather than a `needs-review` hold.
+Tags [[dpi.pay]], [[finance.new]], [[gov.protect]].
 
 ## Sources
 
 - [[2026-07-02 Visa tests stablecoins in DRC for cross-border payments (The EastAfrican)]]
 - [[2026-07-02 DR Congo becomes Africa's live test for dollar-settled mobile money (Ecofin)]]
 - [[2026-01-26 How Onafriq is growing digital finance amid uncertainty in DRC]]
-- [[2026-07-10 Visa and M-Pesa Launch Blockchain Stablecoin Pilot in DR Congo]]

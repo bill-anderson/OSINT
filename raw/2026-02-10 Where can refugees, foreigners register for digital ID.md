@@ -11,7 +11,8 @@ body_completeness: full
 page: 
 title: Where can refugees, foreigners register for digital ID?
 url: https://www.newtimes.co.rw/article/33209/news/technology/where-can-refugees-foreigners-register-for-digital-id
-author: cfeditoren
+publisher: The New Times (Rwanda)
+author: (unattributed in the mirrored copy)
 published: 2026-02-10
 accessed: 2026-07-16
 source: https://www.africa-press.net/rwanda/policy/where-can-refugees-foreigners-register-for-digital-id
@@ -19,6 +20,19 @@ keywords:
 ---
 
 # Where can refugees, foreigners register for digital ID? - Rwanda
+
+<!-- Provenance corrected 2026-07-20 (lint #6). The stored body is not a direct capture: it was taken
+     from africa-press.net (see the `source:` key, the "**Africa-Press - Rwanda.**" prefix and the
+     static.africa-press.net image below), which republishes The New Times without attribution.
+
+     `author:` previously read "cfeditoren" - that is Africa-Press's CMS account, not a reporter, and it
+     was standing in as the author of a New Times article. Removed. `publisher:` was missing and is set
+     to The New Times, which the `url:` already correctly points at.
+
+     The body reads as the full article rather than a teaser, so it is left in place, but it is a
+     **mirrored copy**: if this file is ever relied on for a quote or an exact figure, re-capture from
+     newtimes.co.rw first. Africa-Press is a content mirror and should not be staged as a publisher in
+     its own right - see also raw/2026-04-23-wingu-africa-launches-cloud-exchange-wcx.md. -->
 
 > ## Excerpt
 > The Directorate General of Immigration and Emigration has announced that the registration for electronic identity cards ...

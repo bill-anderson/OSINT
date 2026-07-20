@@ -9,7 +9,7 @@ date_source: source
 ingested: 2026-07-18
 places: [DJI]
 topics: [dpi.id, gov.protect, dpi.govtech, infra.cybersec]
-entities: [[mobile-id-djibouti], [vision-djibouti-2035]]
+entities: [[mobile-id-djibouti], [vision-djibouti-2035], [djibouti-digital-code]]
 lens: [sovereignty]
 body_completeness: full
 retrieved: 2026-07-17

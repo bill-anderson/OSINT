@@ -7,7 +7,7 @@ topics: [dpi.pay, gov.legislate, gov.policy]
 lens: []
 status: active
 last_reviewed: 2026-07-14
-sources: [[2025-12-05 From Access to Empowerment Introducing Rwanda's Instant Payment System — eKash], [2026-06-19 Strategy Ahead of Infrastructure, Part II The Opportunity and the Case for Sequencing], [2026-07-13 Rwanda's eKash System Achieves Full Interoperability for Digital Payments]]
+sources: [[2025-12-05 From Access to Empowerment Introducing Rwanda's Instant Payment System — eKash], [2026-06-19 Strategy Ahead of Infrastructure, Part II The Opportunity and the Case for Sequencing], [2026-07-14-migrates-retail-payments-ekash-itweb]]
 ---
 
 # National Bank of Rwanda (BNR)
@@ -28,7 +28,7 @@ mobile-money operators and national payment infrastructure, including the
   merchant payments on one rail, capped at a **RWF 20** fee and **RWF 10m** per transaction —
   the regulator setting the pricing and reach of the national instant-payment utility. See
   [[dpi.exchange]]. Source:
-  [[2026-07-13 Rwanda's eKash System Achieves Full Interoperability for Digital Payments]].
+  [[2026-07-14-migrates-retail-payments-ekash-itweb]].
 - **Regulatory sandbox (est. 2022), cited as a sequencing model.** In Anjola
   Adebowale's *Strategy Ahead of Infrastructure, Part II*, BNR's phased,
   sandbox-tested approach — regulation tied to a multi-year national strategy,
@@ -44,4 +44,4 @@ mobile-money operators and national payment infrastructure, including the
 
 - [[2025-12-05 From Access to Empowerment Introducing Rwanda's Instant Payment System — eKash]]
 - [[2026-06-19 Strategy Ahead of Infrastructure, Part II The Opportunity and the Case for Sequencing]]
-- [[2026-07-13 Rwanda's eKash System Achieves Full Interoperability for Digital Payments]]
+- [[2026-07-14-migrates-retail-payments-ekash-itweb]]

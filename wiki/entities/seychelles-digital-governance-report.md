@@ -43,6 +43,17 @@ a development. See [[dpi.govtech]], [[gov.policy]], [[SYC]].
   commissioning relationship ("created for" the Commonwealth Secretary-General) is the report's own
   claim about itself — no Commonwealth publication record is held to corroborate it, and no author
   or methodology note is stated in the document.
+- **The document itself is real (established 2026-07-20).** An earlier check flagged it as possibly
+  non-existent, on the grounds that its stored title and date matched nothing on the open web. That
+  is wrong: the canonical PDF is served by the publisher at
+  `eforumsd.com/wp-content/uploads/2024/05/Seychelles-Digital-Governance-Report.pdf`, and its cover
+  matches the stored title and the "Report Created For" line verbatim. The bare-domain `url:` on the
+  source page has been replaced with that document-specific URL. **What remains genuinely
+  unestablished, as of 2026-07-20, is the publisher's standing**: the Economic Forum for Sustainable
+  Development self-describes as a "consortium" advancing sustainable economic growth, names no
+  authors, states no methodology, and the wiki holds nothing independent on it. Capture is not
+  endorsement — the cite-don't-absorb guard above is what governs use of its numbers, and it binds
+  regardless.
 - **How to use it.** Consult it as background on Seychelles' index standing around 2024, and as a
   pointer to the primary indices. A dated fact drawn *from* it becomes a normal source citing this
   entity — it does not make the study evidence of current state.

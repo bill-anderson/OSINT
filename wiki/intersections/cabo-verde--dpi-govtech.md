@@ -9,7 +9,7 @@ entities: [[nosi], [gov-cv], [digital-cabo-verde-project], [nosi-angola-setic-mo
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-18
-sources: [[2024-01-01 Cabo Verde targets 60pct of vital public services online by 2026 (NOSi)], [raw/2026-03-03 Cabo Verde and CAR launch digital government platforms (Gov.CV)], [raw/2024-10-23 Digital Transformation in Cabo Verde - The New Horizon (World Bank)], [raw/2025-05-02 WB Project Paper - Digital Cabo Verde Project Additional Financing], [2025-10-15-governo-prepara-portal-digital-modernizar-burocracia-expressodasilhas], [2026-02-24-governo-lanca-portal-govcv-modernizar-servicos-publicos-expressodasilhas], [2026-03-20-plataforma-empresa-online-digitalizacao-servicos-publicos-expressodasilhas], [2026-02-13-semana-do-digital-anual-resolucao-expressodasilhas], [2026-03-09-comeca-semana-do-digital-2026-expressodasilhas], [2026-03-06-nosi-setic-fp-angola-memorando-entendimento-expressodasilhas], [2025-12-05-public-sector-207m-afdb-egovernance-itweb], [2025-12-06-afdb-e-governance-loan-wearetech], [2026-03-18-bad-financia-segunda-fase-reforma-electronica-177-milhoes-expressodasilhas], [2025-09-29-world-bank-digital-transformation-support-techafricanews], [2025-07-09-south-korea-digital-cooperation-wearetech], [2026-03-24-rabida-diaspora-initiative-techreviewafrica], [2026-04-30-atu-engages-cabo-verde-techreviewafrica]]
+sources: [[2024-01-01 Cabo Verde targets 60pct of vital public services online by 2026 (NOSi)], [raw/2026-03-03 Cabo Verde and CAR launch digital government platforms (Gov.CV)], [raw/2024-10-23 Digital Transformation in Cabo Verde - The New Horizon (World Bank)], [raw/2025-05-02 WB Project Paper - Digital Cabo Verde Project Additional Financing], [2025-10-15-governo-prepara-portal-digital-modernizar-burocracia-expressodasilhas], [2026-02-24-governo-lanca-portal-govcv-modernizar-servicos-publicos-expressodasilhas], [2026-03-20-plataforma-empresa-online-digitalizacao-servicos-publicos-expressodasilhas], [2026-02-13-semana-do-digital-anual-resolucao-expressodasilhas], [2026-03-09-comeca-semana-do-digital-2026-expressodasilhas], [2026-03-06-nosi-setic-fp-angola-memorando-entendimento-expressodasilhas], [2025-12-06-afdb-e-governance-loan-wearetech], [2026-03-18-bad-financia-segunda-fase-reforma-electronica-177-milhoes-expressodasilhas], [2025-09-29-world-bank-digital-transformation-support-techafricanews], [2025-07-09-south-korea-digital-cooperation-wearetech], [2026-03-24-rabida-diaspora-initiative-techreviewafrica], [2026-04-30-atu-engages-cabo-verde-techreviewafrica]]
 ---
 
 # Cabo Verde × GovTech / e-Government
@@ -47,12 +47,11 @@ An island micro-state (~500,000 people) that has turned e-government into a comp
 ## Financing & partnerships
 
 The digital state runs on donor money and diplomacy: an **AfDB E-PFMRP phase-2** loan for the electronic
-reform — reported as **$20.7M** (ITWeb) and **€17.7M** (We Are Tech / Expresso), the **same event dated
-in two currencies** (incl. e-justice and digital-nomad components) — plus a **World Bank digital-
+reform — **€17.71M**, the AfDB's own denomination, quoted by the Bank at **$20.63M (Dec 2025)**
+(incl. e-justice and digital-nomad components) — plus a **World Bank digital-
 transformation support** mission (60% services online by 2026, 80% by 2030), a **South Korea** digital-
 cooperation mission (data governance, e-services, cybersecurity), a **RABIDA** diaspora-engagement
 initiative, and **ATU** engagement on global ICT processes. Sources:
-[[2025-12-05-public-sector-207m-afdb-egovernance-itweb]],
 [[2025-12-06-afdb-e-governance-loan-wearetech]],
 [[2026-03-18-bad-financia-segunda-fase-reforma-electronica-177-milhoes-expressodasilhas]],
 [[2025-09-29-world-bank-digital-transformation-support-techafricanews]],

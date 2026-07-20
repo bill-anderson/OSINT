@@ -7,7 +7,7 @@ topics: [gov.policy, tech.ai, dpi.id, infra.connect]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-15
-sources: [[2026-07-13 Djibouti Seeks ITU, Smart Africa Support for Telecoms and AI Development], [2026-02-10 Djibouti launches Mobile ID national digital identity platform], [2025-07-01 Djibouti Digital Code adopted by National Assembly], [2026-01-29 Djibouti develops national AI strategy with UN support], [2025-12-18 Djibouti begins one-stop G2B digital platform for businesses], [2023-12-11-lanation-djibouti-lancement-premiere-plateforme-paiement-en-ligne-d-money]]
+sources: [[2026-07-13 Djibouti Seeks ITU, Smart Africa Support for Telecoms and AI Development], [2026-02-10-mobile-id-biometric-launch-biometricupdate], [2025-07-01 Djibouti Digital Code adopted by National Assembly], [2026-01-29 Djibouti develops national AI strategy with UN support], [2025-12-18 Djibouti begins one-stop G2B digital platform for businesses], [2023-12-11-lanation-djibouti-lancement-premiere-plateforme-paiement-en-ligne-d-money]]
 ---
 
 # Vision Djibouti 2035
@@ -23,8 +23,9 @@ expanding digital public services and building a national AI ecosystem.
   identity platform — a single citizen identifier for authentication, e-signature and service
   access — was launched by President Guelleh as "a cornerstone of Vision Djibouti 2035," built on
   the **[[djibouti-digital-code]]**, a sovereign national cloud and cybersecurity reforms. See
-  [[dpi.id]], [[gov.protect]]. Source:
-  [[2026-02-10 Djibouti launches Mobile ID national digital identity platform]].
+  [[dpi.id]], [[gov.protect]]. Sources:
+  [[2026-02-10-mobile-id-biometric-launch-biometricupdate]],
+  [[2026-02-09-mobile-id-national-digital-identity-forum-lanation]].
 - **Digital Code adopted (2025-06-30).** Djibouti's first comprehensive **[[djibouti-digital-code|Digital Code]]**
   (data protection, cybersecurity, e-commerce) sits within the Vision 2035 road map. Source:
   [[2025-07-01 Djibouti Digital Code adopted by National Assembly]].

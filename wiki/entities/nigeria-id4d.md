@@ -7,7 +7,7 @@ topics: [finance.new, dpi.id, gov.policy, include.divides]
 lens: [sovereignty, colonialism]
 status: active
 last_reviewed: 2026-07-11
-sources: [[2026-07-09 Nigeria seeks support to operationalize new digital ID law as NIN tops 136M], [2026-06-05 Nigeria looks beyond enrollment as digital ID passes 130 million], [2026-07-09 NIMC Act 2026 Director-General Coker-Odusote Launches 8,809-Ward Digital ID Drive], [2025-02-13 Digital ID necessity increases in Nigeria despite lingering challenges], [2026-03-29 When digital identity fails the citizen Who bears responsibility for NIN suspensions], [2026-01-28 The Gender Gap in Rural Niger State's Digital Identity], [2026-03-07 Nigerians Groan Under Digital Identity Regime That Turns Basic Rights into Privileges]]
+sources: [[2026-07-09 Nigeria seeks support to operationalize new digital ID law as NIN tops 136M], [2026-06-05 Nigeria looks beyond enrollment as digital ID passes 130 million], [2026-07-09 Nigerian Government Intensifies National Identity Enrolment Campaign (Voice of Nigeria)], [2026-07-09 NIMC Enrols 136 Million Nigerians as Coker-Odusote Pushes Stronger Inter-Ministerial Partnership], [2025-02-13 Digital ID necessity increases in Nigeria despite lingering challenges], [2026-03-29 When digital identity fails the citizen Who bears responsibility for NIN suspensions], [2026-01-28 The Gender Gap in Rural Niger State's Digital Identity], [2026-03-07 Nigerians Groan Under Digital Identity Regime That Turns Basic Rights into Privileges]]
 ---
 
 # Nigeria ID4D (Identity for Development)

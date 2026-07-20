@@ -11,7 +11,7 @@ retrieved: 2026-07-17
 sweep_batch: CPV-2026-07-17
 places: [CPV]
 topics: [dpi.govtech, finance.new, gov.policy]
-entities: [[african-development-bank], [cabo-verde-e-pfmrp]]
+entities: [[african-development-bank], [world-bank], [cabo-verde-e-pfmrp], [ministry-digital-economy-cabo-verde]]
 lens: []
 body_completeness: full
 ---
@@ -26,6 +26,12 @@ Last updated : samedi, 06 décembre 2025 18:30
 - AfDB grants €17.7 m loan to advance Cape Verde's e-governance reforms
 - Program boosts digital business environment and modernizes public finance systems
 - Measures target growth, transparency, and stronger private-sector competitiveness
+
+<!-- Dup fold (lint #7, 2026-07-20) from ITWeb Africa, 5 Dec 2025, dropped as a duplicate
+     (https://itweb.africa/article/cabo-verdes-public-sector-bags-207m-to-digitise/O2rQGqAEzeyqd1ea):
+     it reported the same approval as "$20.7m" — a rounding of the AfDB's own €17.71m / $20.63m
+     dual quotation below, not a second figure. Its one added fact: E-PFMRP is a multi-phased
+     initiative supported primarily by the **AfDB and the World Bank**. -->
 
 The African Development Bank (AfDB) on Monday approved a 17.71 million euro ($20.63 million) loan for the second phase of Cape Verde's E-Governance and Public Financial Management Reform Program.
 

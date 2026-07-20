@@ -9,7 +9,7 @@ entities: [[google], [equinix], [microsoft], [cassava-technologies], [nvidia], [
 lens: [sovereignty, colonialism]
 status: active
 last_reviewed: 2026-07-20
-sources: [[2026-07-20-cassava-africa-data-centres-azure-expressroute-metro], [2026-07-20-master-power-technologies-r50m-customer-experience-centre], [2026-02-25 South Africa puts data centres on par with energy, ports in big policy shift], [2026-07-03 Google Cloud Region forecasts R1.7tn boost for SA], [2026-06-04 Equinix faces challenge to Cape Town data centres over environmental concerns], [2026-06-23 Africa's Data Centre Boom Where The New Facilities Are Being Built], [2025-11-10-teraco-ct2-50mw-cape-town], [2026-01-23-compcom-stanlib-africa-data-centres], [2026-02-15-ramaphosa-data-centres-r50bn], [2026-07-05-google-r2bn-ai-hub], [2026-07-06-sa-building-own-cloud-ramaphosa], [2026-07-07-digital-sovereignty-key-ramaphosa], [2026-07-16-cape-town-tribunal-data-centre-greenlight], [2026-04-01 US data centre firm Equinix is investing $438 million in South Africa], [2026-04-01 US tech giant from Silicon Valley buys R890 million worth of land in South Africa], [2026-04-28 Axiz Welcomes Equinix Investment, Citing Boost to Africa's Digital Infrastructure], [2026-04-17 Microsoft picks South Africa for $329 million expansion in cloud infrastructure and AI training], [2026-04-15 Microsoft secures land for future South Africa data centre growth], [2026-03-28 MTN makes big bet on AI data centres in South Africa]]
+sources: [[2026-07-20-cassava-africa-data-centres-azure-expressroute-metro], [2026-07-20-master-power-technologies-r50m-customer-experience-centre], [2026-02-25 South Africa puts data centres on par with energy, ports in big policy shift], [2026-07-03 Google Cloud Region forecasts R1.7tn boost for SA], [2026-06-04 Equinix faces challenge to Cape Town data centres over environmental concerns], [2026-06-23 Africa's Data Centre Boom Where The New Facilities Are Being Built], [2025-11-10-teraco-ct2-50mw-cape-town], [2026-01-23-compcom-stanlib-africa-data-centres], [2026-02-15-ramaphosa-data-centres-r50bn], [2026-07-01 Google Cloud Summit in Africa Highlights the Continent's Digital Transformation and Unveils New Agentic AI and Infrastructure Investments], [2026-07-01-google-ecape-four-hub-anchor], [2026-07-06-sa-building-own-cloud-ramaphosa], [2026-07-07-digital-sovereignty-key-ramaphosa], [2026-07-16-cape-town-tribunal-data-centre-greenlight], [2026-04-01 US data centre firm Equinix is investing $438 million in South Africa], [2026-04-01 US tech giant from Silicon Valley buys R890 million worth of land in South Africa], [2026-04-28 Axiz Welcomes Equinix Investment, Citing Boost to Africa's Digital Infrastructure], [2026-04-17 Microsoft picks South Africa for $329 million expansion in cloud infrastructure and AI training], [2026-04-15 Microsoft secures land for future South Africa data centre growth], [2026-03-28 MTN makes big bet on AI data centres in South Africa]]
 ---
 
 # South Africa × Data Storage
@@ -46,13 +46,27 @@ policy, power and water.
   jurisdiction**, saying government is building **its own cloud via the CSIR** — *"sovereignty is measured
   … by a nation's ability to secure its data, develop its own capabilities and exercise meaningful control."*
   Sources: [[2026-07-06-sa-building-own-cloud-ramaphosa]], [[2026-07-07-digital-sovereignty-key-ramaphosa]].
-- **Google's R2.1bn AI hub, on localisation terms (Jul 2026).** Google chose SA (over Kenya/Nigeria/Egypt)
-  for a **R2.1bn / 3-year AI-training campus in Midrand** (GPUs, subsidised local-firm access), signed via a
-  Pretoria MoU — with conditions **data sovereignty advocates won**: **≥60% local technical hiring** and
-  **in-country storage of SA user data**, in exchange for SEZ tax concessions (FFC: ~R340m corporate tax
-  forgone over 5 years). ~1,400 construction + 650 permanent jobs; phase 1 early 2027. The clearest case of
-  the state **pricing sovereignty into a hyperscaler deal**. See [[tech.ai]], [[geopol.usa]]. Source:
-  [[2026-07-05-google-r2bn-ai-hub]]. *(The R50bn/3-year sector figure recurs — [[2026-02-15-ramaphosa-data-centres-r50bn]].)*
+- **Google's Eastern Cape Digital Exchange Port (Jul 2026).** At the inaugural **Google Cloud Summit
+  Africa** (Johannesburg, 1 Jul 2026, opened by Ramaphosa), Google announced a **Digital Exchange Port in
+  the Eastern Cape** — the **first of four** connectivity hubs it has committed to Africa — anchoring SA as
+  an international switching point, connecting to **Australia via the Umoja subsea cable** and on a new
+  route to **India**, and providing compute for AI workloads. **Google did not disclose the investment
+  value** (as of 2026-07-20). It came alongside Africa's first Applied AI Lab (Ghana), a Soweto digital
+  innovation centre (R3m, with WeThinkCode), and the 2026 SA startup accelerator cohort. Google says it has
+  passed its **$1bn** Africa commitment ahead of schedule, and projects the Johannesburg Cloud Region at
+  **$90.6bn (R1.7tn)** additional gross output and ~**315,000 jobs by 2030** — a company projection, not an
+  independent one. See [[tech.ai]], [[geopol.usa]]. Sources:
+  [[2026-07-01 Google Cloud Summit in Africa Highlights the Continent's Digital Transformation and Unveils New Agentic AI and Infrastructure Investments]],
+  [[2026-07-01-google-ecape-four-hub-anchor]], [[2026-07-03 Google Cloud Region forecasts R1.7tn boost for SA]].
+  *(The R50bn/3-year sector figure recurs — [[2026-02-15-ramaphosa-data-centres-r50bn]].)*
+  - **Correction, 2026-07-20.** This bullet previously reported a **R2.1bn Google AI campus in Midrand**,
+    won over Kenya/Nigeria/Egypt via a Pretoria MoU carrying ≥60% local hiring, in-country data storage and
+    SEZ tax concessions (~R340m forgone), with 1,400 construction and 650 permanent jobs — and read it as
+    "the clearest case of the state pricing sovereignty into a hyperscaler deal". **None of that is
+    established, and the source was fabricated**: southafricanews24.com, since judged a generated-content
+    site, downgraded to `_leads/` and added to `sweep/drop-list.csv`. There is **no evidence on file of any
+    localisation or local-hiring condition attached to a South African hyperscaler deal** — the sovereignty
+    argument on this page rests on Ramaphosa's CSIR statements below, not on a negotiated condition.
 - **The build, and its capital.** **[[teraco]]** completed **CT2 to 50 MW** (Cape Town; +32 MW, AI-ready
   liquid cooling, **zero-water closed-loop** cooling against Cape Town's Day-Zero history, a **120 MW solar
   PV** wheeling plant, connected to all Cape subsea cables). **[[stanlib]]** Infrastructure Fund II won

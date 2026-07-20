@@ -12,7 +12,7 @@ retrieved: 2026-07-17
 sweep_batch: SLE-2026-07-17
 places: [SLE, GIN]
 topics: [infra.connect, dpi.exchange, gov.regional, finance.mou]
-entities: [[leonecom], [sogeb], [ecowas]]
+entities: [[leonecom], [sogeb], [ecowas], [ministry-digital-economy-guinea]]
 lens: []
 ---
 

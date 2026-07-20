@@ -21,6 +21,21 @@ entities: [[national-land-authority-rwanda], [landesa]]
 
 Image caption: Residents during a correction session of their land titles. Courtesy.
 
-[CLIP — partial body] The full article body could not be retrieved: newtimes.co.rw renders the body client-side and no verbatim syndication of this specific article (37136) was found. Only the headline and image caption are captured above.
+[CLIP — headline and caption only] The full article body could not be retrieved: newtimes.co.rw renders the body client-side and no verbatim syndication of this specific article (37136) was found. Re-checked 2026-07-20 — still unretrievable; the article itself is real and the headline, byline and date above are confirmed. **Nothing beyond the headline and the image caption is this article's text.**
 
-Related coverage of the same Eastern Province land-registration and boundary-correction campaign (for context, not this article's text): a six-month LANDESA/National Land Authority exercise in Kayonza District issued more than 28,000 land titles (concluded 17 June 2026), targeting 28,527 hectares; about 4,700 parcels could not immediately be titled due to disputes, mortgages or wrongly registered wetlands. Marie Grace Nishimwe, Director General and Chief Registrar of Land Titles, said additional districts including Bugesera would follow in the next fiscal year. (Sourced from RealRwanda / allAfrica reporting on the same programme; verify against the New Times original before compiling.)
+<!-- BODY-INTEGRITY REPAIR, 2026-07-20 (lint #6). This file previously carried a paragraph of figures —
+     28,000+ titles, 28,527 ha, ~4,700 untitled parcels, the Nishimwe quote, Bugesera next — under a note
+     saying they came from RealRwanda/allAfrica coverage and should be verified before compiling. They were
+     compiled anyway, onto [[rwanda--dpi-registry]], which meant the wiki cited a New Times article for
+     facts that article's stored body does not contain. The foreign paragraph is struck.
+
+     The actual primary has been established and ingested:
+     [[2026-06-17-kayonza-land-correction-28000-titles-realrwanda]] (RealRwanda, 17 Jun 2026), which
+     carries every one of those figures in its own words. The citation on [[rwanda--dpi-registry]] has been
+     rewired to it.
+
+     **This file now supports one claim only**: that The New Times reported on 5 July 2026, under the
+     byline Emmanuel Nkangura, that an Eastern Province land-registration drive delivered titles and
+     reduced disputes. It supports no figure, no name and no quote. Do not cite it for any.
+     Promoting it further requires a manual subscriber/rendered clip of the original. -->
+

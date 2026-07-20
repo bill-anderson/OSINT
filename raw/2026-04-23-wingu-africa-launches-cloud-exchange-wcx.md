@@ -2,7 +2,7 @@
 type: source
 title: Wingu Africa launches Wingu Cloud Exchange (WCX) in Tanzania (locally-hosted private cloud)
 url: https://www.africa-press.net/tanzania/all-news/wingu-africa-launches-cloud-exchange-to-boost-tanzanias-it
-publisher: Africa-Press (Daily News interview)
+publisher: Daily News (Tanzania) — captured via the africa-press.net mirror
 published: 2026-04-23
 date_precision: day
 date_source: source
@@ -17,6 +17,15 @@ sweep_batch: TZA-2026-07-17
 ---
 
 Wingu Africa Launches Cloud Exchange to Boost Tanzania's IT - Tanzania
+
+<!-- Provenance clarified 2026-07-20 (lint #6). `publisher:` read "Africa-Press (Daily News interview)".
+     Africa-Press is a content mirror, not a publisher: the reporting here is a Daily News (Tanzania)
+     interview with Wingu Africa's Chief Strategy Officer and co-founder Nicholas Lodge, republished by
+     africa-press.net, whose prefix ("Africa-Press - Tanzania.") is visible in the body below.
+     `publisher:` corrected to name the originating outlet. The held `url:` is the mirror's, and the
+     canonical Daily News URL is not recovered - queued as an acquisition. Note also that the substance
+     is a company executive describing his own product, so it is a **company claim**, not independent
+     verification of WCX's capabilities. -->
 
 Wingu Africa has launched the Wingu Cloud Exchange (WCX) in Tanzania, aiming to democratize access to cloud technology. This initiative is designed to accelerate digital transformation and inclusion, providing local organizations with a secure, compliant, and cost-effective alternative to offshore services. The WCX platform supports Tanzanian SMEs and startups, enabling them to leverage enterprise
 

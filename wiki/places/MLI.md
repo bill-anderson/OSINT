@@ -122,8 +122,7 @@ penetration 35.1% (2026)**) and a below-average e-government score.
   and mandatory health insurance), and **SIGIP** (territorial-administration data management). Birth
   registration ~90%. Sources:
   [[2025-09-17 Mali rolls out new digital tools to modernize public administration]],
-  [[2025-09-26 Mali introduces new platforms to enhance digital public service access]],
-  [[2025-09-27 Mali launches new digital platforms to improve access to public services]]. See
+  [[2025-09-26 Mali introduces new platforms to enhance digital public service access]]. See
   [[dpi.govtech]], [[dpi.id]], [[include.access]].
 - **2025-06-05** — **Orange Money–Orabank Mastercard prepaid card.** **[[orange-mali]]** and Orabank Mali
   launched a co-branded prepaid Mastercard (virtual/physical, linked to the Orange Money wallet via Max it),

@@ -8,8 +8,8 @@ topics: [dpi.registry, data.statistics, dpi.id, digital.rural]
 entities: [[nisr]]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-19
-sources: [[2026-04-21-rwanda-counting-everything-nisr-ktpress], [2026-07-05-eastern-province-land-registration-newtimes]]
+last_reviewed: 2026-07-20
+sources: [[2026-04-21-rwanda-counting-everything-nisr-ktpress], [2026-06-17-kayonza-land-correction-28000-titles-realrwanda], [2026-07-05-eastern-province-land-registration-newtimes]]
 ---
 
 # Rwanda × Registries (CRVS, land)
@@ -29,14 +29,25 @@ Around the digital-ID spine ([[rwanda--dpi-id]]) Rwanda is completing the **civi
 
 ## Land registration
 
-- **Eastern Province titling drive (2026).** A field land-title correction and boundary campaign in the
-  Eastern Province delivered titles and reduced disputes — complementing Rwanda's June-2026 **e-Title**
-  launch. A parallel LANDESA / National Land Authority exercise in **Kayonza District** (concluded 17
-  Jun 2026) issued **28,000+ titles** across ~28,527 ha, with ~4,700 parcels held back over disputes,
-  mortgages or wrongly-registered wetlands; further districts (Bugesera) follow next fiscal year. See
-  [[digital.rural]]. Source: [[2026-07-05-eastern-province-land-registration-newtimes]]
-  *(partial body — headline/caption from the New Times original, context from syndicated coverage of
-  the same campaign; a full clip of the original would firm up the article-specific figures).*
+- **Kayonza land-correction exercise (concluded 17 Jun 2026).** A six-month **LANDESA / [[national-land-authority-rwanda|National Land Authority]]**
+  registration and boundary-correction exercise in **Kayonza District** issued **more than 28,000 land
+  titles** (as of its conclusion, 17 Jun 2026), processing over 35,000 parcels across a target of 28,527
+  hectares. About **4,700 parcels could not be titled** — ownership disputes, bank mortgages, and
+  government wetland wrongly registered to individuals — and were handed to the district for follow-up.
+  Marie Grace Nishimwe, Director General and Chief Registrar of Land Titles, said further districts
+  including **Bugesera** follow in the next fiscal year. It complements Rwanda's June-2026 **e-Title**
+  launch. See [[digital.rural]]. Source:
+  [[2026-06-17-kayonza-land-correction-28000-titles-realrwanda]].
+  - *Figure scope, as of 2026-07-20:* the 28,000+ is this exercise's own yield, not Landesa's cumulative
+    Kayonza total. A February-2026 allAfrica report is understood to put ~37,000 Kayonza titles within a
+    ~54,000 three-district total — a **larger** number at an **earlier** date. **The wiki does not hold
+    that report**, so the discrepancy is unresolved and nothing here rests on it; it is queued as an
+    acquisition. Cite the figure scoped to this exercise.
+- **New Times coverage of the wider Eastern Province drive (5 Jul 2026).** The New Times reported that an
+  Eastern Province land-registration drive delivered titles and reduced disputes. **No figures are
+  established from it** — its body is not retrievable (client-side render; headline and caption only), so
+  it is cited for the existence and framing of the coverage and nothing more. Source:
+  [[2026-07-05-eastern-province-land-registration-newtimes]].
 
 ## Reads
 

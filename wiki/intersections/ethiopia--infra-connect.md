@@ -9,7 +9,7 @@ entities: [[ethio-telecom], [safaricom-ethiopia], [ethiopian-communications-auth
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-19
-sources: [[2026-07-17-ethio-telecom-huawei-digital-infrastructure], [2026-07-15 Ethio Telecom, Huawei expand digital push], [2026-05-18-ethiopia-needs-third-telecom-operator-5bn-reporter], [2026-04-20-safaricom-ethiopia-5bn-investment-need-techafricanews], [2026-04-20-ethio-telecom-99-8-coverage-smart-infrastructure-techafricanews], [2026-03-09-ethio-telecom-network-expansion-mwc-barcelona-addisstandard], [2026-03-01-telecom-tax-universal-access-fund-reporter], [2026-02-23-ethio-telecom-telestream-zero-touch-broadband-techafricanews], [2026-02-05-horizon-fiber-ethio-djibouti-sudatel-binding-deal-connectingafrica], [2026-01-10-beyond-connectivity-ethiopia-digital-future-reform-reporter], [2025-08-02-safaricom-ethiopia-begins-fibre-deployment-reporter]]
+sources: [[2026-07-17-ethio-telecom-huawei-digital-infrastructure], [2026-07-15 Ethio Telecom, Huawei expand digital push], [2026-05-18-ethiopia-needs-third-telecom-operator-5bn-reporter], [2026-04-20-safaricom-ethiopia-5bn-investment-need-techafricanews], [2026-04-20-ethio-telecom-99-8-coverage-smart-infrastructure-techafricanews], [2026-03-09-ethio-telecom-network-expansion-mwc-barcelona-addisstandard], [2026-03-01-telecom-tax-universal-access-fund-reporter], [2026-02-23-ethio-telecom-telestream-zero-touch-broadband-techafricanews], [2026-02-05-horizon-fiber-binding-agreement-connectingafrica], [2026-01-10-beyond-connectivity-ethiopia-digital-future-reform-reporter], [2025-08-02-safaricom-ethiopia-begins-fibre-deployment-reporter]]
 ---
 
 # Ethiopia × Connectivity

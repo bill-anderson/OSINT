@@ -11,13 +11,15 @@ lens: []
 body_completeness: full
 artefact: "2023-04-01 Digitalization of CRVS Systems in Africa (AfDB & COMESA).pdf"
 places: [XAF]
-topics: [dpi.registry, dpi.id, gov.regional]
+topics: [dpi.registry, dpi.id, data.statistics, gov.regional]
 entities: [[african-development-bank], [comesa]]
 ---
 
 # Digitalization of Civil Registration and Vital Statistics Systems in Africa
 
 Companion source page for the artefact `2023-04-01 Digitalization of CRVS Systems in Africa (AfDB & COMESA).pdf`, held in `raw/`.
+
+Assessment (April 2023) of the digitalization of Civil Registration and Vital Statistics (CRVS) systems across Africa, produced by the African Development Bank (AfDB) and COMESA. It reviews the state of digital CRVS on the continent — the recording of births, deaths, marriages and divorces and the vital statistics derived from them — and the challenges of coverage and modernisation.
 
 **Reference study — cite, do not absorb.** This is a multi-country or country-level
 reference work. Its dated figures are not to be promoted onto concept or place pages as

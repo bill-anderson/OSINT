@@ -51,8 +51,7 @@ Africa and Asia Infrastructure Fund**. CEO: **Robert Skjodt**.
   2,000 m², up to 400 racks, sited near three subsea-cable landings including 2Africa, with a high share of
   renewable (hydro + solar) power. Broke ground September 2022; eight top telecom/connectivity providers
   signed up at launch. See [[MOZ]], [[infra.store]]. Sources:
-  [[2024-05-28 Raxio launches data center in Mozambique (Raxio MZ1)]],
-  [[2024-05-28 Raxio Launches New Data Centre In Mozambique]].
+  [[2024-05-28 Raxio launches data center in Mozambique (Raxio MZ1)]].
 
 ## Sources
 

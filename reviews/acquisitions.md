@@ -205,3 +205,32 @@ after that drain.)*
   Both held as `body_completeness: excerpt` — narrative review and all Group/Kenya/Ethiopia KPI tables
   captured verbatim, but later financial-statement pages returned garbled by the fetch.
   [reconcile 2026-07-20]
+- **[blocked] Rwanda — allAfrica / New Times, Michel Nkurunziza, "Rwanda: Land Disputes Ease As Govt
+  Fixes Boundary Errors", 2026-02-18** (`allafrica.com/stories/202602180018.html`). Reported to give
+  ~37,000 Kayonza land titles within a ~54,000 three-district Landesa total — a **larger figure at an
+  earlier date** than the 28,000+ the wiki now holds for the concluded Jun-2026 exercise. Needed to
+  establish whether that is a scope difference or a real disagreement. **Deliberately not filed as a
+  contradiction**: the conflicting figure comes from a source the wiki does not hold, and a brief
+  citing it would breach the cite-only-what-you-hold rule. Carried as a dated caveat on
+  [[wiki/intersections/rwanda--dpi-registry]] pending. [lint #6, 2026-07-20]
+- **[untried] Rwanda — National Bank of Rwanda Directive No. 45/2026** (eKash interoperability;
+  RWF 20 fee cap, RWF 10m limit, effective 2026-07-14). Held only via ITWeb/WeAreTech reporting; the
+  directive text is not on file. `bnr.rw`. [lint #6, 2026-07-20]
+- **[blocked] Kenya — The Standard**, "Hand over eCitizen platform to State" (2026-03-10, Mate
+  Tongola) and "e-Citizen heist: How Pesaflow diverted Sh6.3b" (2026-03-27, Josphat Thiong'o).
+  **Subscriber clip required** — both held headline-only behind a login wall. The alleged diversion
+  mechanism is unestablished without them. [lint #6, 2026-07-20]
+- **[blocked] Rwanda — The New Times**, "Eastern Province land registration drive delivers titles,
+  reduces disputes" (2026-07-05, Emmanuel Nkangura), article 37136. Body renders client-side;
+  rendered or subscriber clip required. Currently supports nothing beyond its headline.
+  [lint #6, 2026-07-20]
+- **[untried] Tanzania — Daily News (Tanzania)** canonical URL for the Wingu Cloud Exchange (WCX)
+  launch interview with Nicholas Lodge, ~2026-04-23. Held only via the `africa-press.net` mirror.
+  [lint #6, 2026-07-20]
+- **[untried] Mozambique — "Data Governance in Mozambique: Findings and Recommendations Based on a
+  Rapid Diagnostic", World Bank, 2025-12-09**,
+  `documents.worldbank.org/curated/en/099817512092543722`. The wiki holds only the **April-2025 draft
+  for government**, which is now marked superseded and dated on its own page. This is a clear
+  draft→published-final tier upgrade, but the Replace **could not be executed** because the final is
+  not on file and CC cites only what it holds. Fetch it, then retire the draft and rewire.
+  [lint #7, 2026-07-20]

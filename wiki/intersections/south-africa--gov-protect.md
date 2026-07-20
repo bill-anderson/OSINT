@@ -8,8 +8,8 @@ topics: [gov.protect, gov.legislate, gov.policy, dpi.exchange, infra.store, infr
 entities: [[popia], [information-regulator-south-africa], [statistics-south-africa], [sibanye-stillwater], [research-ict-africa], [trendai], [anthropic]]
 lens: [sovereignty, colonialism]
 status: active
-last_reviewed: 2026-07-19
-sources: [[2025-01-01 South African Digital Sovereignty at the Crossroad of Securitization and Development (Chapter 4) - Digital Sovereignty in the BRICS Countries], [2026-07-09 Anthropic's Claude to bolster data sovereignty in SA], [2026-05-29 Opinion South Africa's Digital Identity Regulations A Governance Crossroads], [2026-03-31 Concerns over South Africa's proposed digital ID system from traditional leaders], [2025-04-15-mandatory-eportal-breach-reporting], [2025-05-08-popia-regulations-amendments], [2025-07-16-cybersecurity-counter-intelligence-priority], [2025-11-13-data-breaches-surge-40-percent], [2026-03-30-statssa-ransomware-attack], [2026-04-14-inforeg-788-breaches-q1], [2026-04-20-cpa-direct-marketing-optout-regs], [2026-06-04-college-popia-probe], [2026-06-14-inforeg-first-enforcement-notice-2026], [2026-06-16-paia-enforcement-mining-house-sibanye], [2026-06-18-misdirected-email-enforcement-notice], [2026-07-06-popia-five-years-nobody-accountable]]
+last_reviewed: 2026-07-20
+sources: [[2025-01-01 South African Digital Sovereignty at the Crossroad of Securitization and Development (Chapter 4) - Digital Sovereignty in the BRICS Countries], [2026-07-09 Anthropic's Claude to bolster data sovereignty in SA], [2026-05-29 Opinion South Africa's Digital Identity Regulations A Governance Crossroads], [2026-03-31 Concerns over South Africa's proposed digital ID system from traditional leaders], [2025-04-15-mandatory-eportal-breach-reporting], [2025-05-08-popia-regulations-amendments], [2025-07-16-cybersecurity-counter-intelligence-priority], [2025-11-13-data-breaches-surge-40-percent], [2026-03-30-statssa-ransomware-attack], [2026-04-14-inforeg-788-breaches-q1], [2026-04-20-cpa-direct-marketing-optout-regs], [2026-06-14-inforeg-first-enforcement-notice-2026], [2026-06-16-paia-enforcement-mining-house-sibanye], [2026-06-18-misdirected-email-enforcement-notice], [2026-07-06-popia-five-years-nobody-accountable]]
 ---
 
 # South Africa × Data Protection
@@ -82,9 +82,12 @@ Regulator]]** is finally acting — yet breaches are rising faster than accounta
   Johannesburg TVET College** (unlawful processing + failure to notify a s.22 breach), a **landmark PAIA**
   notice against mining house **[[sibanye-stillwater]]** (compelling disclosure of Social & Labour Plan
   reports — a precedent for *private bodies*), and a notice treating a **misdirected email as a reportable
-  data breach** (internal/accidental compromises count). Sources: [[2026-06-04-college-popia-probe]],
-  [[2026-06-14-inforeg-first-enforcement-notice-2026]], [[2026-06-16-paia-enforcement-mining-house-sibanye]],
-  [[2026-06-18-misdirected-email-enforcement-notice]].
+  data breach** (internal/accidental compromises count). The College notice was published **20 May 2026**.
+  Sources: [[2026-06-14-inforeg-first-enforcement-notice-2026]],
+  [[2026-06-16-paia-enforcement-mining-house-sibanye]], [[2026-06-18-misdirected-email-enforcement-notice]].
+  *(A second citation for the College notice, from southafricanews24.com, was struck 2026-07-20: that host
+  was judged a generated-content site after a separate item from it was established as fabricated, and it
+  is now on `sweep/drop-list.csv`. The claim is unaffected — it rests on the Information Regulator source.)*
 - **The accountability gap.** The Regulator received **2,374 breach notifications in FY2024/25** (~200/month);
   **788 in Q1** alone; Apr–Nov 2025 up **+40%**. Yet POPIA's **maximum fine is R10m** against an **IBM-measured
   average breach cost of R44.1m** — so, five years on, *"nobody is being held accountable"* in a way that

@@ -7,7 +7,7 @@ topics: [dpi.pay, dpi.exchange, include.access]
 lens: []
 status: active
 last_reviewed: 2026-07-14
-sources: [[2025-12-05 From Access to Empowerment Introducing Rwanda's Instant Payment System — eKash], [2026-07-13 Rwanda's eKash System Achieves Full Interoperability for Digital Payments], [2025-03-10 Powering Rwanda's Payments Future How Mojaloop Enables RNDPS 2.0 and eKash]]
+sources: [[2026-07-15-ekash-nationwide-interoperable-wearetech], [2025-12-05 From Access to Empowerment Introducing Rwanda's Instant Payment System — eKash], [2026-07-14-migrates-retail-payments-ekash-itweb], [2025-03-10 Powering Rwanda's Payments Future How Mojaloop Enables RNDPS 2.0 and eKash]]
 ---
 
 # eKash (Rwanda instant payment system)
@@ -40,13 +40,19 @@ subject to a **maximum fee of RWF 20** and a **RWF 10m per-transaction limit**. 
 existing USSD, mobile-banking apps and internet banking, with **no new app** required. This
 turns eKash from launched (Dec 2025) to a fully interoperable national utility — the
 account-to-account exchange layer of the [[rwanda-dpi-strategy]]. See [[dpi.exchange]].
-Source: [[2026-07-13 Rwanda's eKash System Achieves Full Interoperability for Digital Payments]]
-(low-authority aggregator; verify fee/limit against the BNR directive).
+Sources: [[2026-07-14-migrates-retail-payments-ekash-itweb]],
+[[2026-07-15-ekash-nationwide-interoperable-wearetech]]. *(Rewired 2026-07-20: this claim previously
+rested on africazine.com, an excerpt-republishing aggregator, since downgraded to `_leads/` and added
+to `sweep/drop-list.csv`. The fee and limit are now carried by two independent held sources reporting
+BNR Directive 45/2026, and the earlier "verify against the directive" caveat is withdrawn. The
+directive text itself is not held — it is queued as an acquisition.)*
 
 > **Provenance caveat.** The Dec-2025 launch account is an **insider explainer** by an
 > RSwitch/eKash contributor (promotional tone), so its volume figures below are
-> **project-stated**, not independent; the 2026-07 interoperability facts come from a
-> low-authority aggregator paraphrasing an apparent BNR/eKash notice.
+> **project-stated**, not independent. *(The second half of this caveat — that the 2026-07
+> interoperability facts came from a low-authority aggregator paraphrasing an apparent BNR/eKash
+> notice — is withdrawn as of 2026-07-20. That aggregator, africazine.com, has been downgraded; the
+> facts now rest on ITWeb and We Are Tech, both reporting BNR Directive 45/2026 directly.)*
 
 ## Project-stated facts (as of 2025-12)
 
@@ -68,5 +74,6 @@ Source: [[2026-07-13 Rwanda's eKash System Achieves Full Interoperability for Di
 ## Sources
 
 - [[2025-12-05 From Access to Empowerment Introducing Rwanda's Instant Payment System — eKash]]
-- [[2026-07-13 Rwanda's eKash System Achieves Full Interoperability for Digital Payments]]
+- [[2026-07-14-migrates-retail-payments-ekash-itweb]]
+- [[2026-07-15-ekash-nationwide-interoperable-wearetech]]
 - [[2025-03-10 Powering Rwanda's Payments Future How Mojaloop Enables RNDPS 2.0 and eKash]]

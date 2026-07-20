@@ -38,7 +38,9 @@ transit position.
   the Interior Ministry** (encrypted server-to-server access for others). Built on the
   **[[djibouti-digital-code]]**, a sovereign national cloud and cybersecurity reforms; a
   **[[vision-djibouti-2035]]** cornerstone. See [[dpi.id]], [[gov.protect]], [[djibouti--dpi-id]].
-  Source: [[2026-02-10 Djibouti launches Mobile ID national digital identity platform]].
+  Sources: [[2026-02-09-mobile-id-national-digital-identity-forum-lanation]],
+  [[2026-02-10-mobile-id-launch-wearetech]],
+  [[2026-02-10-mobile-id-biometric-launch-biometricupdate]].
 - **2025-12-01** — **Startup Act promulgated (Loi n°179/AN/25/9ème L)** — *primary text now held.*
   Adopted by the **Assemblée Nationale 12 November 2025** (second public sitting; Conseil des Ministres
   15 April 2025), **signed 1 December 2025**, carried in *Journal Officiel* **édition n°23 of 15 December

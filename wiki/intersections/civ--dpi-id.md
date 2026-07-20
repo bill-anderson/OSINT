@@ -9,7 +9,7 @@ entities: [[oneci], [maposte], [wuri-programme], [beyon-connect], [la-poste-cote
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-18
-sources: [[2025-04-26-oneci-application-myoneci-plus-linfodrome], [2025-06-17-etat-civil-systeme-securise-sneci-fratmat], [2025-07-01-annuaire-statistique-etat-civil-2024-fratmat], [2025-10-15-cni-timbres-electroniques-en-ligne-oneci-linfodrome], [2025-11-17-societe-generale-oneci-authentification-fratmat], [2025-11-27-beyon-connect-la-poste-mou-oneid-onebox-techafricanews], [2025-11-28-la-poste-beyon-connect-mou-itweb], [2026-01-19-maposte-app-oneci-la-poste-techafricanews], [2026-01-20-maposte-app-postal-digital-id-biometricupdate], [2026-02-27-projet-wuri-restitution-sous-prefets-linfodrome], [2026-05-13-id4africa-2026-oneci-identification-numerique-linfodrome], [2026-06-09-oneci-renforce-capacites-speakers-langues-locales-linfodrome], [2026-06-16-oneci-leaders-communautaires-tonkpi-linfodrome], [2026-07-06-iom-midas-border-management-biometricupdate]]
+sources: [[2025-04-26-oneci-application-myoneci-plus-linfodrome], [2025-06-17-etat-civil-systeme-securise-sneci-fratmat], [2025-07-01-annuaire-statistique-etat-civil-2024-fratmat], [2025-10-15-cni-timbres-electroniques-en-ligne-oneci-linfodrome], [2025-11-17-societe-generale-oneci-authentification-fratmat], [2025-11-27-beyon-connect-la-poste-mou-oneid-onebox-techafricanews], [2025-11-28-la-poste-beyon-connect-mou-itweb], [2026-01-19 Ivory Coast Launches MaPoste to Digitize Postal and Administrative Services], [2026-01-20-maposte-app-postal-digital-id-biometricupdate], [2026-02-27-projet-wuri-restitution-sous-prefets-linfodrome], [2026-05-13-id4africa-2026-oneci-identification-numerique-linfodrome], [2026-06-09-oneci-renforce-capacites-speakers-langues-locales-linfodrome], [2026-06-16-oneci-leaders-communautaires-tonkpi-linfodrome], [2026-07-06-iom-midas-border-management-biometricupdate]]
 ---
 
 # Côte d'Ivoire × Digital identity & CRVS
@@ -31,7 +31,7 @@ positive arc lacked**: while the *digital* layer advances, **on-time birth regis
 - **MaPoste super-app (Jan 2026).** With [[la-poste-cote-divoire]], the NNI/RNPP-backed digital-mailbox
   and CNI-home-delivery app; the second account adds that **digital post boxes become mandatory from
   1 Mar 2026** and CNI delivery runs through 200+ post offices. Sources:
-  [[2026-01-19-maposte-app-oneci-la-poste-techafricanews]],
+  [[2026-01-19 Ivory Coast Launches MaPoste to Digitize Postal and Administrative Services]],
   [[2026-01-20-maposte-app-postal-digital-id-biometricupdate]].
 - **International standing (May 2026).** ONECI presented Côte d'Ivoire's identification progress at
   **ID4Africa 2026**. Source: [[2026-05-13-id4africa-2026-oneci-identification-numerique-linfodrome]].

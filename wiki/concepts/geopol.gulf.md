@@ -7,7 +7,7 @@ entities: [[uae], [g42], [uae-ai-for-development-initiative], [pax-silica], [mic
 lens: [sovereignty, colonialism]
 status: active
 last_reviewed: 2026-07-18
-sources: [[2025-11-22 UAE announces $1 billion initiative to expand AI in Africa], [2026-06-18 UAE-Kenya Tech Partnership Gains Momentum as AI Investments Grow], [2026-07-09 Microsoft and G42 data center in Kenya stalled due to lack of power capacity], [2026-06-23 A Kenya Technology Prosperity Deal Could Help Washington Secure Durable AI Partnerships with Africa], [2026-06-08 The Promise and Limits of African Data Sovereignty], [2026-06-01 India's AI deal with the UAE challenges U.S. cloud dominance], [2026-07-10 Visa and M-Pesa Launch Blockchain Stablecoin Pilot in DR Congo]]
+sources: [[2025-11-22 UAE announces $1 billion initiative to expand AI in Africa], [2026-06-18 UAE-Kenya Tech Partnership Gains Momentum as AI Investments Grow], [2026-07-09 Microsoft and G42 data center in Kenya stalled due to lack of power capacity], [2026-06-23 A Kenya Technology Prosperity Deal Could Help Washington Secure Durable AI Partnerships with Africa], [2026-06-08 The Promise and Limits of African Data Sovereignty], [2026-06-01 India's AI deal with the UAE challenges U.S. cloud dominance], [2026-07-02 Visa tests stablecoins in DRC for cross-border payments (The EastAfrican)], [2026-07-02 DR Congo becomes Africa's live test for dollar-settled mobile money (Ecofin)]]
 ---
 
 # Gulf / UAE activities (`geopol.gulf`)
@@ -53,8 +53,9 @@ the **intermediary** through which US-aligned AI architecture reaches the contin
   M-Pesa top-ups are settled in stablecoins in the background via Visa Pay with [[onafriq]]
   ([[visa-mpesa-onafriq-drc-stablecoin-pilot]]; core mechanism corroborated on record, "joint pilot"
   framing and USD peg not issuer-confirmed). Gulf capital and US payment rails converging on African cross-border
-  payments. See [[COD]], [[dpi.pay]], [[geopol.usa]]. Source:
-  [[2026-07-10 Visa and M-Pesa Launch Blockchain Stablecoin Pilot in DR Congo]].
+  payments. See [[COD]], [[dpi.pay]], [[geopol.usa]]. Sources:
+  [[2026-07-02 Visa tests stablecoins in DRC for cross-border payments (The EastAfrican)]],
+  [[2026-07-02 DR Congo becomes Africa's live test for dollar-settled mobile money (Ecofin)]].
 
 ## Reads
 
@@ -79,4 +80,5 @@ the **intermediary** through which US-aligned AI architecture reaches the contin
 - [[2026-06-23 A Kenya Technology Prosperity Deal Could Help Washington Secure Durable AI Partnerships with Africa]]
 - [[2026-06-08 The Promise and Limits of African Data Sovereignty]]
 - [[2026-06-01 India's AI deal with the UAE challenges U.S. cloud dominance]]
-- [[2026-07-10 Visa and M-Pesa Launch Blockchain Stablecoin Pilot in DR Congo]]
+- [[2026-07-02 Visa tests stablecoins in DRC for cross-border payments (The EastAfrican)]]
+- [[2026-07-02 DR Congo becomes Africa's live test for dollar-settled mobile money (Ecofin)]]

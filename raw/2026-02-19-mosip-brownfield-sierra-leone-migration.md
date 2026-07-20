@@ -1,6 +1,6 @@
 ---
 type: source
-title: Brownfield MOSIP implementations — Sierra Leone's migration of enrolled ID records
+title: Brownfield implementations represent MOSIP's next wave of national digital IDs
 url: https://www.biometricupdate.com/202602/brownfield-implementations-represent-mosips-next-wave-of-national-digital-ids
 publisher: Biometric Update
 published: 2026-02-19
@@ -10,9 +10,9 @@ ingested: 2026-07-19
 body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: SLE-2026-07-17
-places: [SLE]
+places: [SLE, UGA]
 topics: [dpi.id, dpi.registry]
-entities: [[ncra], [mosip]]
+entities: [[ncra], [nira-uganda], [mosip]]
 lens: []
 ---
 

@@ -11,7 +11,7 @@ retrieved: 2026-07-17
 sweep_batch: GMB-2026-07-17
 places: [GMB]
 topics: [infra.store, infra.connect, geopol.china]
-entities: [[qgroup-house-datacentre], [qgroup], [qfiber]]
+entities: [[qgroup-house-datacentre], [qgroup], [qcell], [qfiber], [huawei]]
 lens: [sovereignty]
 body_completeness: full
 ---
@@ -19,6 +19,11 @@ body_completeness: full
 # Barrow inaugurates QGroup House, unveils Gambia's first data centre
 
 Apr 30, 2026, 2:51 PM | Article By: Special Report: By Isatou Ceesay Bah
+
+<!-- Dup fold (lint #7, 2026-07-20) from The Standard's account of the same inauguration, dropped as
+     a duplicate (https://standard.gm/qgroup-house-opens/): QGroup is described there as a **network
+     of 13 companies**; the Huawei Africa VP (rendered "Uvinci") called the data centre "the digital
+     backbone of the nation" and said Gambian telecoms growth "exceeds the African average". -->
 
 President Adama Barrow on Wednesday officially inaugurated the ultra-modern QGroup House in a historic ceremony that marked a defining moment in The Gambia's digital and economic transformation agenda. The landmark smart facility signals new era of Gambian-owned innovation, digital transformation and economic ambition.
 

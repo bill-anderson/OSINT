@@ -9,7 +9,7 @@ entities: [[guinea-mtn-nationalisation], [guilab-guinea], [arpt-guinea], [ansute
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-18
-sources: [[2025-01-06-connectingafrica-mtn-sells-guinea-conakry-to-state], [2025-05-21-mediaguinee-wtisd-2025-bilan-souverainete-numerique], [2025-06-23-telecomreviewafrica-guinea-sierra-leone-fibre-interconnection], [2025-07-10-mediaguinee-second-submarine-cable-workshop], [2025-12-26-mediaguinee-univ-connect-17-universities], [2026-05-06-mediaguinee-medusa-africa-second-submarine-cable-cma], [2026-05-21-mediaguinee-fesatel-ftth-wifi-zones-starlink], [2026-06-17-mediaguinee-via-africa-third-submarine-cable], [2026-07-10-connectingafrica-guinea-urges-orange-network-quality]]
+sources: [[2025-01-06-connectingafrica-mtn-sells-guinea-conakry-to-state], [2025-05-21-mediaguinee-wtisd-2025-bilan-souverainete-numerique], [2025-06-23-sogeb-leonecom-fibre-interconnection], [2025-07-10-mediaguinee-second-submarine-cable-workshop], [2025-12-26-mediaguinee-univ-connect-17-universities], [2026-05-06-mediaguinee-medusa-africa-second-submarine-cable-cma], [2026-05-21-mediaguinee-fesatel-ftth-wifi-zones-starlink], [2026-06-17-mediaguinee-via-africa-third-submarine-cable], [2026-07-10-connectingafrica-guinea-urges-orange-network-quality]]
 ---
 
 # Guinea × Connectivity & telecom sovereignty

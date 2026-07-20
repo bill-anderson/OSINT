@@ -18,6 +18,12 @@ body_completeness: full
 
 <!-- ONECI + La Poste de Côte d'Ivoire launched 'MaPoste' super-app (16 Jan 2026) linking digital ID (NNI) to postal/administrative services; integrates ONECI's National Register of Natural Persons (RNPP); 'phygital' (200+ agencies + digital); ID-card delivery, civil-status/nationality/criminal-record certs. -->
 
+<!-- Dup fold (lint #7, 2026-07-20) from TechAfrica News, 19 Jan 2026, same event, dropped as a duplicate
+(https://techafricanews.com/2026/01/19/cote-divoire-launches-maposte-app-to-digitize-postal-and-administrative-services/):
+launch event held at Hotel Azalaï de Marcory, attended by ARTCI, ANSUT, ANSSI and CEPICI; document
+list also includes **residence certificates**; the national identity card (CNI) is delivered to a
+chosen address. -->
+
 - **Ivory Coast launched the MaPoste application to link digital identity with postal and administrative services.**
 - **ONECI integrated the National Register of Natural Persons into La Poste’s digital platform.**
 - **The initiative aims to reduce travel, speed up procedures, and strengthen transaction security.**

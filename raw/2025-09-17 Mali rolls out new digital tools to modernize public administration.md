@@ -21,4 +21,4 @@ Transport: Sigui-Dolo (biometric driving licences and vehicle registration cards
 
 Mali scored 0.3005 on the 2024 UN E-Government Development Index (EGDI), below the African average of 0.4247. Internet penetration was 35.1% at the start of 2025 (DataReportal).
 
-[Cluster: platforms presented 16 Sep 2025; also reported by CADE and Biometric Update.]
+[Cluster: platforms presented 16 Sep 2025; also reported by Biometric Update.]

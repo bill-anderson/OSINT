@@ -22,10 +22,10 @@ last_reviewed: 2026-07-19
   utility — the A2A exchange layer of the **[[rwanda-dpi-strategy]]**; now connects **22
   financial institutions**, next phase adds government services + cross-border. Full case:
   [[rwanda--dpi-pay]]. (BNR Directive 45/2026 corroborated by ITWeb + We Are Tech, resolving the
-  earlier aggregator-only flag.) Sources:
+  earlier aggregator-only flag. The aggregator — africazine.com — was downgraded to `_leads/` on
+  2026-07-20 and its citations rewired here.) Sources:
   [[2026-07-14-migrates-retail-payments-ekash-itweb]],
-  [[2026-07-15-ekash-nationwide-interoperable-wearetech]],
-  [[2026-07-13 Rwanda's eKash System Achieves Full Interoperability for Digital Payments]].
+  [[2026-07-15-ekash-nationwide-interoperable-wearetech]].
   See [[dpi.pay]], [[dpi.exchange]], [[include.access]].
 - **2026-07-10** — **First EAC cross-border instant-payment corridor (RSwitch↔TIPS).**
   Rwanda's national switch **[[rswitch-rwanda]]** and Tanzania's **[[tips-tanzania]]** are

@@ -9,7 +9,7 @@ entities: [[nimc], [nigeria-id4d], [world-bank], [ndpc], [research-ict-africa]]
 lens: [sovereignty, colonialism]
 status: active
 last_reviewed: 2026-07-19
-sources: [[2026-07-09 Nigeria seeks support to operationalize new digital ID law as NIN tops 136M], [2026-06-05 Nigeria looks beyond enrollment as digital ID passes 130 million], [2026-07-03 Study finds governance, not technology, is blocking digital ID interoperability], [2026-07-09 NIMC Act 2026 Director-General Coker-Odusote Launches 8,809-Ward Digital ID Drive], [2026-03-29 When digital identity fails the citizen Who bears responsibility for NIN suspensions], [2026-01-28 The Gender Gap in Rural Niger State's Digital Identity], [2026-03-07 Nigerians Groan Under Digital Identity Regime That Turns Basic Rights into Privileges], [2026-07-12 Agric Ministry adopts NIMC identity system to verify genuine farmers], [2025-01-27-multiuse-biometric-id-card-launch], [2025-03-08-nimc-nelfund-biometric-cards-mou], [2025-06-12-nimc-id-prisoners-social-register-ai], [2025-06-17-credicorp-nin-credit-scores-bureau], [2025-06-25-synthetic-id-fraud-sumsub-q1], [2025-10-10-nimc-nhia-digital-id-health-mou], [2026-06-08-nigeria-loses-850m-digital-identity-neglect], [2026-07-15-nigeria-national-database-still-fragmented], [2026-07-16-nigeria-icao-pkd-biometric-passport], [2026-07-16-nimc-digital-signature-certification-authority]]
+sources: [[2026-07-09 Nigeria seeks support to operationalize new digital ID law as NIN tops 136M], [2026-06-05 Nigeria looks beyond enrollment as digital ID passes 130 million], [2026-07-03 Study finds governance, not technology, is blocking digital ID interoperability], [2026-07-09 Nigerian Government Intensifies National Identity Enrolment Campaign (Voice of Nigeria)], [2026-07-09 NIMC Enrols 136 Million Nigerians as Coker-Odusote Pushes Stronger Inter-Ministerial Partnership], [2026-03-29 When digital identity fails the citizen Who bears responsibility for NIN suspensions], [2026-01-28 The Gender Gap in Rural Niger State's Digital Identity], [2026-03-07 Nigerians Groan Under Digital Identity Regime That Turns Basic Rights into Privileges], [2026-07-12 Agric Ministry adopts NIMC identity system to verify genuine farmers], [2025-01-27-multiuse-biometric-id-card-launch], [2025-03-08-nimc-nelfund-biometric-cards-mou], [2025-06-12-nimc-id-prisoners-social-register-ai], [2025-06-17-credicorp-nin-credit-scores-bureau], [2025-06-25-synthetic-id-fraud-sumsub-q1], [2025-10-10-nimc-nhia-digital-id-health-mou], [2026-06-08-nigeria-loses-850m-digital-identity-neglect], [2026-07-15-nigeria-national-database-still-fragmented], [2026-07-16-nigeria-icao-pkd-biometric-passport], [2026-07-16-nimc-digital-signature-certification-authority]]
 ---
 
 # Nigeria × Digital Identity
@@ -39,14 +39,20 @@ consolidation*, with a new statute and a hard coverage target — all externally
   is at governance/assurance, not technology; it urges supranational governance via
   [[afcfta]]. Source:
   [[2026-07-03 Study finds governance, not technology, is blocking digital ID interoperability]].
-- **Ward-level drive + enforcement teeth (2026-07).** Under the NIMC Act 2026, DG
-  Coker-Odusote launched enrolment across all **8,809 political wards**, explicitly
-  targeting rural women, undocumented children, PWDs and refugees ([[include.access]]) with
-  NIN as the gate to banking/telecoms/federal programmes. The Act adds power to **arrest and
-  prosecute identity thieves** via an **ICE Unit**, tethered to the 2023 Data Protection Act
-  / **[[ndpc]]** ([[infra.cybersec]]). Coverage frames Nigeria's "cyber-provisions-up-front"
-  approach against Kenya's litigated **Maisha Namba** rollout. Source:
-  [[2026-07-09 NIMC Act 2026 Director-General Coker-Odusote Launches 8,809-Ward Digital ID Drive]].
+- **Ward-level drive + enforcement teeth (2026-07).** At a courtesy visit to Information
+  Minister **Mohammed Idris** (Abuja, 8 Jul 2026), DG Coker-Odusote said the ward-by-ward
+  exercise across all **8,809 political wards** is **already under way** (begun 2026-02-16 —
+  see the timeline entry below), targeting women, children, elderly persons, PWDs and
+  refugees ([[include.access]]); Idris put ~**100M** still uncaptured against **136M**
+  enrolled (2026-07). Under the NIMC Act 2026 — which incorporates the NDPA / **[[ndpc]]** —
+  NIMC may **prosecute identity fraud** with security agencies and the Federal Ministry of
+  Justice, and has **reactivated** its **ICE Unit** against illegal enrolment centres,
+  identity theft and online fraud, working with ONSA ([[infra.cybersec]]). Sources:
+  [[2026-07-09 Nigerian Government Intensifies National Identity Enrolment Campaign (Voice of Nigeria)]],
+  [[2026-07-09 NIMC Enrols 136 Million Nigerians as Coker-Odusote Pushes Stronger Inter-Ministerial Partnership]].
+  *(A previously held framing contrasting Nigeria's "cyber-provisions-up-front" approach with
+  Kenya's litigated Maisha Namba rollout was struck on 2026-07-20: it came from an
+  inadmissible aggregator and appears in no primary the wiki holds.)*
 
 - **NIN adopted for farmer verification (2026-07).** The Federal Ministry of Agriculture & Food
   Security will use NIMC's NIN / verification platform to authenticate beneficiaries of agri
@@ -112,7 +118,8 @@ by gender, by geography and by who pays to fix the state's errors.
   [[2025-05-07 Nigeria unveils NINAuth platform to streamline national ID authentication and verification]].
 - **Ward-level enrolment drive — start (2026-02-16).** [[nimc]] launched free NIN enrolment at ward
   level across all **774 LGAs / 36 states + FCT** (later framed as **8,809 wards**), targeting
-  children, rural women, PWDs and refugees — the origin of the drive the hub records at 2026-07-09.
+  children, rural women, PWDs and refugees — the actual start of the drive; the 2026-07-09
+  reports are a **disclosure of progress, not a launch**.
   Sources: [[2026-02-16 Nigeria launches nationwide ward-level drive to boost digital ID coverage and inclusion]],
   [[2026-03-04 NIMC Intensifies Ward-Level NIN Enrolment Nationwide]].
 - **Enrolment & distribution (Oct 2025).** NIN reached **123.9m** (from 114m end-2024; +9.9m in 10
@@ -180,7 +187,8 @@ Place: [[NGA]] · Concepts: [[dpi.id]] · [[gov.legislate]] · [[gov.policy]] ·
 - [[2026-07-09 Nigeria seeks support to operationalize new digital ID law as NIN tops 136M]]
 - [[2026-06-05 Nigeria looks beyond enrollment as digital ID passes 130 million]]
 - [[2026-07-03 Study finds governance, not technology, is blocking digital ID interoperability]]
-- [[2026-07-09 NIMC Act 2026 Director-General Coker-Odusote Launches 8,809-Ward Digital ID Drive]]
+- [[2026-07-09 Nigerian Government Intensifies National Identity Enrolment Campaign (Voice of Nigeria)]]
+- [[2026-07-09 NIMC Enrols 136 Million Nigerians as Coker-Odusote Pushes Stronger Inter-Ministerial Partnership]]
 - [[2026-03-29 When digital identity fails the citizen Who bears responsibility for NIN suspensions]]
 - [[2026-01-28 The Gender Gap in Rural Niger State's Digital Identity]]
 - [[2026-03-07 Nigerians Groan Under Digital Identity Regime That Turns Basic Rights into Privileges]]
