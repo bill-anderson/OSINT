@@ -9,7 +9,7 @@ entities: [[daf-senegal], [senegal-numerique], [new-deal-technologique], [green-
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-20
-sources: [[2026-02-09-seneweb-cyberattaques-senegal-expose], [2026-03-09-connectingafrica-free-internet-cyber-risks], [2026-04-01-techafricanews-senegal-finland-cooperation], [2025-08-09-lesoleil-forces-armees-ia-souverainete], [2026-02-05-aps-daf-suspension-cni-communique], [2026-02-12-darkreading-senegal-breach-security-maturity], [2026-04-07-aps-daf-reprise-production-cni]]
+sources: [[2026-02-09-seneweb-cyberattaques-senegal-expose], [2026-02-13-enqueteplus-senum-tentatives-cyberattaques], [2026-03-09-connectingafrica-free-internet-cyber-risks], [2026-04-01-techafricanews-senegal-finland-cooperation], [2025-08-09-lesoleil-forces-armees-ia-souverainete], [2026-02-05-aps-daf-suspension-cni-communique], [2026-02-12-darkreading-senegal-breach-security-maturity], [2026-04-07-aps-daf-reprise-production-cni]]
 ---
 
 # Senegal × Cybersecurity
@@ -38,6 +38,23 @@ by a free-internet push that widens the attack surface. (ITU GCI 2024: **67.17/1
   [[2026-02-05-aps-daf-suspension-cni-communique]],
   [[2026-02-12-darkreading-senegal-breach-security-maturity]],
   [[2026-04-07-aps-daf-reprise-production-cni]].
+- **SENUM SA: the company said "attempts," the press said "compromised" (resolved 2026-07-20).**
+  **[[senegal-numerique|SENUM SA]]**'s own communiqué of **9 Feb 2026** reports *"tentatives de
+  cyberattaques"* against its information systems, and describes containment — **temporary restriction of
+  access to certain services**, reinforced threat detection, cyberdefence teams working "en étroite
+  coordination avec les autorités nationales," a customer helpdesk. It confirms **no breach, no exfiltration,
+  no attacker and no affected dataset**. Three days earlier, **L'Observateur** (6 Feb 2026 edition, relayed by
+  Seneweb, Senego and others) had reported SENUM "compromise" alongside the DAF and raised the prospect of a
+  **coordinated offensive**. That framing is **press inference from simultaneity** — attributed in every
+  account to the newspaper's own reading, never to the DSC, SENUM or the ministry — and **no actor has claimed
+  SENUM**, where Green Blood claimed the DAF. The gap between "attempted" and "compromised" has never been
+  reconciled, and **no technical accounting has been published**. Source:
+  [[2026-02-13-enqueteplus-senum-tentatives-cyberattaques]].
+- **Senegal had no national CERT at the time of the breaches.** **[[clement-domingo|Clément Domingo]]** stated
+  (6 Feb 2026) that the country had **neither a national cybersecurity agency nor a national CERT**, and
+  should establish both urgently — the same position behind his March-2026 call below. This remains an expert
+  assertion on the record rather than an official confirmation, and **no evidence was found (as of
+  2026-07-20) that either body has since been established**.
 - **The diagnosis is regional, not Senegalese.** The Africa Cybersecurity Resource Center's COO **Aboubacar
   Yacouba Mai Birni** framed the breach as continental: *"digital ambition has outpaced cybersecurity
   maturity"* — states investing in data collection but far less in security-by-design, long-term data

@@ -20,9 +20,10 @@ identification law in September 2020** creating **[[anid-togo]]**, cybersecurity
 authored **[[novissi]]**, the fully-digital pandemic cash-transfer programme that remains one of
 Africa's most-cited G2P precedents.
 
-Two caveats temper the story. First, **no cumulative e-ID enrolment figure exists in any 2025
-source** — a programme repeatedly described as advancing, with no coverage number attached
-(GAP-TGO-002). Second, **provenance is concentrated**: Togo First supplies nine of the nineteen
+Two caveats temper the story. First, the coverage figure arrived late and is a **rounded floor**:
+**over 6 million people held a NIU and a biometric card at end-December 2025**, against a
+programme target of 8 million — i.e. roughly **62% of the population** and **~75% of target**
+(GAP-TGO-002 resolved 2026-07-20). Second, **provenance is concentrated**: Togo First supplies nine of the nineteen
 Togo clips in this batch and is the sole source for most of the current-state picture, including
 the payments, AML, civil-registry and e-ID-rollout threads.
 
@@ -73,8 +74,9 @@ the payments, AML, civil-registry and e-ID-rollout threads.
   following rollouts in Golfe, Agoè-Nyivé and Savanes, with **[[inseed-togo]]** managing field
   personnel. Every resident is to receive a **Unique Identification Number (NIU)** as a single
   access key to public, private and social services; **children aged 0–5 are registrable using a
-  parent's NIU**. Financed by the World Bank under [[wuri-programme]]. *No cumulative enrolment
-  count is given (GAP-TGO-002).* Source:
+  parent's NIU**. Financed by the World Bank under [[wuri-programme]]. *This phase report gives no
+  cumulative count; the national total was published later — 6m+ at end-Dec 2025, see [[dpi.id]] below.*
+  Source:
   [[2025-11-19 Togo Advances Digital ID Program With New Enrollment Phase in Maritime Region]]. See
   [[dpi.id]], [[dpi.registry]], → [[togo--dpi-id]].
 - **2025-11-19** — **Pre-2007 land titles georeferenced.** **[[otr-togo]]**, through the Direction
@@ -131,6 +133,23 @@ the payments, AML, civil-registry and e-ID-rollout threads.
   *Despite the headline, this is a stakeholder workshop on alignment — no adoption instrument, and
   the directive concerns general consumer protection rather than data or digital rights.* Source:
   [[2025-03-24 Togo Adopts WAEMU Consumer Protection Framework]]. See [[gov.regional]].
+- **2024-06 (agreements) / 2024-02 (MoU)** — **Kazakhstan e-government software licensed to ATD — and
+  nothing reported since.** Three **licensing agreements** were signed in Lomé in **late June 2024**
+  between the **Agence Togo Digital (ATD)** (MD Kafui Ekouhoho) and Kazakhstan's state IT operator
+  **NITEC** (acting head Dmitry Mun), transferring three eGov program units — **Smart Bridge** (services
+  showcase / interoperability layer), a **single web platform for public agencies**, and **Smart Data
+  Ukimet** (big-data analytics for public governance) — reportedly as a **grant of source code**. The
+  chain behind them: **Faure Gnassingbé's November 2023 visit to Kazakhstan** → a **ministry-level
+  memorandum signed at Digital Almaty in February 2024** ([[cina-lawson]] ↔ Bagdat Mussin) → the June
+  2024 agreements. Togo was Kazakhstan's **third IT-export destination**, after Tajikistan and Sierra
+  Leone. **As of 2026-07-20 no deployment, go-live, pilot result or renewal has been publicly reported
+  by either side** — the last substantive mention is a Kazakh export-progress story of 2024-09-04, which
+  gives a delivery figure for Tajikistan but none for Togo. *This is govtech licensing, **not** a
+  digital-ID or DPI-identity partnership: Togo's e-ID partner is **[[mosip]]** (with Atos and Idemia)
+  under WURI. A Biometric Update piece of 2025-11-03 listed it among "bilateral DPI partnerships",
+  which is how the unusable bare reference entered this wiki; that framing is **corrected here**
+  (GAP-TGO-003 resolved 2026-07-20).* See [[dpi.govtech]], [[dpi.exchange]], [[gov.regional]],
+  [[finance.mou]].
 - **2024-12-18** — **$100m to accelerate digital transformation.** The World Bank approved the
   **first round** of a series of IDA operations — **$100 million (≈FCFA 62 billion)**
   ([[togo-digital-acceleration-financing]]) — to connect approximately **8,000 public institutions**
@@ -205,8 +224,12 @@ the payments, AML, civil-registry and e-ID-rollout threads.
 
 ## Active topics
 
-- [[dpi.id]] — MOSIP-based e-ID under [[anid-togo]] and [[wuri-programme]]; **6 million unique
-  numbers issued** (per a May-2026 Biometric Update explainer). → **[[togo--dpi-id]]**
+- [[dpi.id]] — MOSIP-based e-ID under [[anid-togo]] and [[wuri-programme]]; **over 6 million people
+  issued a NIU *and* a biometric card as of end-December 2025** — a single counter, since the QR-coded
+  card is handed over at enrolment, so enrolled / NIU-issued / credential-delivered are not separable
+  on the published record. Reported by the **Secrétariat permanent pour le suivi des politiques de
+  réformes et des programmes financiers** in its **S2-2025 reform-implementation report**. Source:
+  [[2026-04-23-togo-6-millions-niu-fin-2025]]. → **[[togo--dpi-id]]**
 - [[dpi.registry]] · [[digital.localgov]] — civil status online in five communes; Greater Lomé urban
   addressing; pre-2007 land-title georeferencing; the CENI electoral roll (a separate register).
 - [[dpi.pay]] — [[waemu-instant-payment-platform]] via [[bceao]]; [[ecobank-thunes-partnership]];
@@ -237,7 +260,9 @@ the anchor source for [[novissi]]).
 ## Entities
 
 - [[anid-togo]] · [[inseed-togo]] · [[ipdcp-togo]] · [[haac-togo]] · [[ceni-togo]] · [[otr-togo]] ·
-  [[dagl-togo]] · [[mepsta-togo]]
+  [[dagl-togo]] · [[mepsta-togo]] · [[atd-togo]] (Agence Togo Digital — créée par décret
+  n°2021-102/PR du 29 septembre 2021, JO 19 novembre 2021; mandated to digitise 75% of administrative
+  procedures)
 - [[e-id-togo]] · [[novissi]] · [[services-publics-togo]] · [[gest-exo]] · [[wuri-programme]] ·
   [[mosip]]
 - [[bceao]] · [[waemu]] · [[waemu-instant-payment-platform]] · [[ecobank]] · [[orabank]] ·
@@ -254,4 +279,6 @@ the anchor source for [[novissi]]).
   Awona (Orabank Togo CEO); Edem Kossi (HISP WCA); Jerry Aziawa (HISP WCA Director of
   Implementation); Pr. Sena Yawo Akakpo-Numado (Permanent Technical Secretary, education sector);
   Efoé Gbetoglo (Head of Statistics Division, MEPSTA); Coris Bank; BOA; BIAT; COFINA; Banque
-  Atlantique; Sunu Bank Togo; AT2ER; ARSE; Attia Byll (SIN DG); Justine Adebiyi (ST Digital Togo DG).
+  Atlantique; Sunu Bank Togo; AT2ER; ARSE; Attia Byll (SIN DG); Justine Adebiyi (ST Digital Togo DG);
+  NITEC / National Information Technologies (Kazakhstan state IT operator); Kafui Ekouhoho (ATD MD);
+  Bagdat Mussin (Kazakh Minister of Digital Development).

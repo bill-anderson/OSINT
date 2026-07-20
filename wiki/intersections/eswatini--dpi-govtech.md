@@ -8,8 +8,8 @@ topics: [dpi.govtech, dpi.pay, dpi.id, geopol.usa, finance.mou, dpi.mis, tech.in
 entities: [[government-in-your-hand], [digital-eswatini-project], [eswatini-google-partnership], [ministry-of-ict-eswatini], [mtn-eswatini]]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-19
-sources: [[2025-05-21-eswatini-launches-new-apps-giyh-taxpal], [2026-06-24-ict-trains-change-agents-e1-2bn-digitization], [2025-01-21-google-works-with-eswatini-to-accelerate-digital-economy], [2026-04-10-former-minister-defends-google-mou], [2026-04-13-the-real-google-problem-in-eswatini-is-not-the-mou], [2026-07-05-eswatini-digital-progress-earns-continental-spotlight], [2026-06-20-eswatini-rolls-out-digital-platforms-health-agriculture-creative]]
+last_reviewed: 2026-07-20
+sources: [[2025-05-21-eswatini-launches-new-apps-giyh-taxpal], [2026-06-24-ict-trains-change-agents-e1-2bn-digitization], [2025-01-21-google-works-with-eswatini-to-accelerate-digital-economy], [2026-04-10-former-minister-defends-google-mou], [2026-04-13-the-real-google-problem-in-eswatini-is-not-the-mou], [2026-07-05-eswatini-digital-progress-earns-continental-spotlight], [2026-06-20-eswatini-rolls-out-digital-platforms-health-agriculture-creative], [2025-07-04-biometricupdate-eswatini-giyh-privacy-criticism], [2025-01-20-insidebiz-eswatini-partners-with-google]]
 ---
 
 # Eswatini × GovTech & Digital Government
@@ -20,10 +20,22 @@ was, on the evidence, a **communication failure** more than a scandal.
 
 ## GIYH — the citizen super-app
 
-- **Launch (May 2025).** ICT Minister Savannah Maziya and the Eswatini Revenue Service launched the
-  **GIYH app** (track ID/passport/travel-doc status, register businesses, **pay vehicle licences via
-  Mobile Money**, education-loan info — new services every 6 months) and **ERS TaxPal** (tax accounts,
-  clearance certificates). See [[dpi.pay]]. Source: [[2025-05-21-eswatini-launches-new-apps-giyh-taxpal]].
+- **Launch (2025-05-21, Ezulwini).** ICT Minister Savannah Maziya and the Eswatini Revenue Service
+  launched the **GIYH app** (track ID/passport/travel-doc status, register businesses, **pay vehicle
+  licences via Mobile Money**, education-loan info — new services every 6 months) and **ERS TaxPal**
+  (tax accounts, clearance certificates). Login: **national ID + SMS OTP**. **Over 2,000 downloads by
+  2025-06-11.** See [[dpi.pay]]. Source: [[2025-05-21-eswatini-launches-new-apps-giyh-taxpal]].
+- **Shipped ahead of its foundations (2025-07-04).** Six weeks after launch the **Sunday Observer**
+  reported its reporter **could locate public data on the system** — **"a glaring security risk."**
+  eGovernment Services Director **Bongani Ndlangamandla** conceded the point rather than denying it:
+  *"we are aware of some gaps, hence the need for a proper digital ID and digital signatures."* The
+  super-app went live **before** the digital-ID and PKI layer the Digital Eswatini Project is
+  building — sequencing that is the substance of the criticism, not a bug report. By **2026-03-18**
+  PM **Russell Dlamini** was telling Parliament GIYH "must be **watertight**" and that his office
+  **does not support outsourcing data to global IT companies**, calling any MoU signed without proper
+  data-protection consideration *"meaningless"* — the same argument that drove the Google row below.
+  See [[gov.protect]], [[infra.cybersec]], [[eswatini--gov-protect]]. Source:
+  [[2025-07-04-biometricupdate-eswatini-giyh-privacy-criticism]].
 - **The delivery vehicle.** The **E1.2bn ($65m) Digital Eswatini Project** (WB loan, P508948) is training
   cross-ministry **Change Agents** for a **2027 rollout** — **E648m broadband + E450m GIYH** — planning
   **Electronic IDs and USSD-based services** so citizens **without smartphones** can transact, engaging
@@ -32,9 +44,11 @@ was, on the evidence, a **communication failure** more than a scandal.
 
 ## The Google MoU controversy
 
-- **What it was.** The **[[eswatini-google-partnership|Google MoU]]** (Jan 2025, integrating Google tools
-  into GIYH — youth skills, entrepreneurship) became a **cabinet controversy** in Apr 2026: **PM Russell
-  Dlamini first dismissed** it ("Google unaware... a national-security threat"), then acknowledged in
+- **What it was.** The **[[eswatini-google-partnership|Google MoU]]** (launched **on or before
+  2025-01-20** — Google Workspace for public servants, AI, digital addressing, youth skills; Google
+  Cloud's Africa lead **Basil Ayass** on the record at the launch) became a **cabinet controversy** in
+  Apr 2026: **PM Russell Dlamini first dismissed** it ("Google unaware... a national-security threat"),
+  then acknowledged in
   writing that **Cabinet had approved it**, after the **Attorney-General confirmed** Maziya consulted
   Cabinet and the AG before signing. An investigation established the MoU with **Google Cloud EMEA** was a
   **cloud-services and e-government framework — not a monetisation deal** — the public row "a failure of

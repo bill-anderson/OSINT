@@ -6,7 +6,7 @@ parent: XEA
 place_kind: country
 topics: [dpi.id, dpi.govtech, dpi.registry, dpi.mis, include.access, gov.policy, gov.protect, gov.regional, dpi.pay, infra.connect, infra.cybersec, infra.energy, tech.ai, tech.industry, gov.legislate, dpi.exchange, finance.new, finance.mou, geopol.gulf, capacity.training, digital.localgov, include.divides]
 status: active
-last_reviewed: 2026-07-18
+last_reviewed: 2026-07-20
 ---
 
 # Sudan (SDN)
@@ -21,6 +21,49 @@ destruction (grid/telecom) and reconstruction, plus inclusion workarounds.
 
 ## Recent developments
 
+- **2026-07-04** — **Central bank revokes Al-Asjad's payment-switch licence, days after launch.**
+  The **[[central-bank-of-sudan]]** cancelled the authorisation of **Al-Asjad Smart and Digital
+  Solutions** (شركة العسجد للحلول الذكية والرقمية) to operate in electronic payment systems, on the
+  recommendation of a technical and legal committee formed by Governor **Amna Mirghani**, after "a
+  comprehensive review of the company's position against the announced technical, financial and
+  supervisory standards." CBoS did **not** disclose the specific breaches. The company had launched its
+  platform in Port Sudan on ~1 July 2026 at a ceremony attended by a representative of Sovereignty
+  Council member Ibrahim Jaber; the day before the revocation (3 Jul) CBoS barred all licensed banks and
+  fintechs from any linkage or **data exchange** without prior written approval. Sudanese outlets
+  reported — **not confirmed by CBoS** — that the firm was incorporated only in late 2025 and holds a
+  Dubai branch aimed at regional digital-identity and cloud services. Other licensed switch operators
+  named: Bright Technologies, Nahda for Technology, SudaPost. See [[dpi.pay]], [[gov.policy]],
+  [[geopol.gulf]]. Source: [[2026-07-04 CBoS revokes Al-Asjad payment switch licence (Sudan Tribune)]].
+- **2026-04-20** — **CBoS tenders the National Instant Payment System (NIPS).** The
+  **[[central-bank-of-sudan]]** opened a public tender for a national instant-payment system, announcement
+  period 20 Apr – 4 May 2026, bids to 14 May 2026; scope is a **software solution only**, with CBoS
+  supplying hardware to the winner's specification. As of **8 July 2026** a new national payment switch
+  had been **contracted but not launched**, with **[[electronic-banking-services-sudan|EBS]]** entrusted by
+  CBoS with its technical operation as a "switch of switches" connecting bank- and fintech-operated
+  switches — its CEO framing the design as sovereign hub plus competing private spokes, keeping data
+  sovereignty inside Sudan. This **qualifies the concentration-of-payments reading**: the intended
+  architecture is deliberately multi-provider under a sovereign hub, not single-provider by design.
+  See [[dpi.pay]], [[gov.policy]]. Source:
+  [[2026-04-20 CBoS tender announcement National Instant Payment System NIPS]].
+- **2026-01-31** — **Baladna launches 28 digital services.** Digital-transformation minister **Ahmed
+  Dirdiri** announced **28 digital services** under the **[[baladna-platform-sudan|Baladna]]** national
+  platform, at a Khartoum press conference convened by the cabinet-affairs minister, alongside the
+  **[[sudapass]]** digital-identity track and a national project-management system. Also announced: an
+  alternate **National Data Centre in Port Sudan** (planned), **60 4G towers** built with **200 more**
+  planned during 2026, and passage of a **cybersecurity and network-security law** (text not located as of
+  2026-07-20). By 6 Apr 2026 Baladna linked **55 government institutions**. Supersedes nothing; sits above
+  the 23 Feb 2026 investment-licensing expansion as the larger, earlier event. See [[dpi.govtech]],
+  [[infra.connect]]. Source:
+  [[2026-02-01 Digital transformation ministry launches 28 digital services on Baladna platform]].
+- **2025-10-10** — **Khartoum State data centre restored to operation.** The
+  **[[ministry-digital-transformation-sudan]]** announced (via SUNA) that the **State Data Centre in
+  Khartoum State**, **1,300 m²**, was restored and operating after technical rehabilitation, equipped for
+  cloud computing, data security and AI applications, and qualified to host government systems centrally.
+  Distinct from **[[sudatel]]**'s Khartoum data centre — seized by the RSF in **December 2023**, and on
+  which ~75% of public- and private-sector institutions including the Interior Ministry, the civil registry
+  and most banks were said to depend — and distinct again from the **planned** Port Sudan alternate national
+  data centre (announced Jan–Mar 2026, not built as of 2026-07-20). See [[infra.store]], [[dpi.govtech]].
+  Source: [[2025-10-10 Khartoum State data centre restored and operational (SUNA)]].
 - **2026-05-24** — **Tax e-invoicing restored.** PM **Kamil Idris** backed the
   **[[tax-authority-sudan]]**; its **electronic-invoicing** project (advanced
   before the war) has been restored and is resuming "at pace." See
@@ -167,6 +210,38 @@ destruction (grid/telecom) and reconstruction, plus inclusion workarounds.
 - [[gov.policy]] — trust, legal safeguards and interoperability flagged as
   preconditions for the ID layer; Malabo Convention and World Bank ID Principles
   cited as the governance frame.
+- [[gov.protect]] · [[gov.legislate]] — **the legal framework, as established 2026-07-20.**
+  - **No personal-data-protection statute and no data-protection authority.** Sudan has never enacted a
+    comprehensive data-protection law; a draft bill of around **2018** was never passed, and no
+    independent supervisory authority exists. Personal data is governed only indirectly, through
+    Article 54 of the **2019 Constitutional Charter** (privacy) and a sectoral patchwork: the
+    **Electronic Transactions Act 2007** (confidentiality of e-signature and certification data),
+    the **Informatic Offences (Combating) Act 2007** and its **2020, 2022 and 2025** amendments
+    (unauthorised access and interception), and Article 74 of the **Telecommunications and Postal
+    Regulation Act 2018** (interception on a prosecutor's or specialised judge's order). This is a
+    **finding, not a gap** — the absence is the state of the law, and it is the thing most often
+    mistaken for a framework. The **[[sudanese-data-and-ai-authority]]** (decree of 5 Nov 2025) is a
+    government data-management body under a ministry, **not** an independent data-protection regulator,
+    and was created by decree rather than under any data-protection statute. Sudan **signed** the AU
+    **Malabo Convention** on **15 March 2023** and has **not ratified** it (AU status list, Feb 2026).
+    Sudanese commentary makes the same distinction pointedly: the central bank imposing data-protection
+    conditions inside a licence is not the same thing as a statute giving citizens rights they can take
+    to court (Al-Taghyeer, 3 Jul 2026, on the Al-Asjad affair).
+  - **AML/CTF is, by contrast, on statute.** The **Anti-Money Laundering / Combating the Financing of
+    Terrorism Law of 2014** was passed by the National Assembly on **18 June 2014** and came into force on
+    signature, repealing the 2010 law. It establishes the **Financial Information Unit** at the
+    **[[central-bank-of-sudan]]** and a **National Committee for Combating Money Laundering and Terrorism
+    Financing** (a body corporate seated in Khartoum state, under the President's supervision, chaired by
+    the deputy minister of justice), and defines the money-laundering (s.35) and terrorism-financing
+    (s.36) offences. CBoS implements it through **Circular No. 8/2014**, made under Article 44 of the Act
+    and Article 8-2 of the Banking Business Act 2004, which requires risk assessment refreshed
+    **bi-annually** and applies to foreign branches and majority-owned subsidiaries on a
+    stricter-of-the-two rule. *(A 2025 academic paper gives commencement as 16 May 2014; the statute's own
+    attestation clause gives 18 June 2014 and governs.)*
+  - **The asymmetry is the analytically interesting fact**: Sudan built a supervised, directive-issuing
+    financial-integrity regime a decade before it built any personal-data regime, and is now standing up
+    digital ID, a unified social registry, a national payment switch and an AI authority **on top of a
+    legal base that has KYC duties but no data-subject rights**.
 
 ## Entities
 
@@ -178,6 +253,9 @@ destruction (grid/telecom) and reconstruction, plus inclusion workarounds.
 - [[horizon-fiber]] — cross-border fibre corridor (with [[djibouti-telecom]], [[ethio-telecom]])
 - [[bank-of-khartoum]] · [[bankak]] · [[bede-wallet]] · [[isali]] — payments rails
 - [[central-bank-of-sudan]] · [[communications-postal-regulatory-authority-sudan]] — financial/telecom regulators
+- [[electronic-banking-services-sudan]] — CBoS's operational arm for e-payments; operator of the national
+  payment switch ("switch of switches"). Ownership: CBoS 49%, [[sudatel]] 30%, commercial banks 21%
+- [[al-asjad-smart-digital-solutions]] — payment-switch licensee whose authorisation CBoS revoked (2026-07-04)
 - [[ministry-of-finance-sudan]] · [[tax-authority-sudan]] · [[national-investment-authority-sudan]] · [[sudan-customs-authority]] — revenue/e-gov bodies
 - [[ministry-of-health-sudan]] · [[afia-platform-sudan]] · [[world-health-organization]] — health-digital
 - [[ministry-human-resources-social-welfare-sudan]] · [[unified-social-registry-sudan]] — social protection

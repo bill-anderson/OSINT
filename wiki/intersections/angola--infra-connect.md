@@ -66,9 +66,22 @@ it inconsistently, and the spread is not a growth series (resolved 2026-07-20):
   annual addition, pending a construction licence. Source:
   [[2025-05-09-angola-minttics-2000km-fibra-optica-este-ano]].
 
-Monotonic growth is arithmetically impossible: the official series runs 20,000 (2025-10) → 30,000 (2025-11)
-→ 22,000 (2026-04) → 28,000 (2026-06). This is a **data-quality defect in the Angolan official record**,
-not a wiki error. INACOM's *Relatório Anual Estatístico* would settle it and is not held.
+- **"mais de 20 mil km"** — attributed to **MINTTICS' *Estado da Nação 2025*** and reported **2025-10-29**;
+  the lowest of the recent official totals and the one immediately preceding the 30,000 km claim a month
+  later.
+
+Monotonic growth is arithmetically impossible: the official series runs 22,000 (2023-05) → 20,000 (2025-10)
+→ 30,000 (2025-11) → 22,000 (2026-04) → 28,000 (2026-06) — **non-monotonic in both directions across five
+statements from the same ministry and its secretary of state**. This is a **data-quality defect in the
+Angolan official record**, not a wiki error.
+
+**Resolution now depends on a document the wiki does not hold.** INACOM's *Relatório Anual Estatístico do
+Sector das Telecomunicações e Tecnologias de Informação* (2024 edition, presented 2025-06-13 at ANGOTIC,
+bilingual PT/EN) is the authoritative series, but the Observatório TIC portal serves it only through a
+client-side application and three automated retrieval attempts have returned nothing; third parties
+(Forbes África Lusófona, 2025-06-19) demonstrably hold the PDF. This has been routed as an **acquisition**,
+not a research question — and note it is **not established that the INACOM series reports a national
+fibre-km total at all**, so obtaining it may not settle the question *(as of 2026-07-20)*.
 
 Fibre now reaches all provincial capitals with metro rings in major cities.
 

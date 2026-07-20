@@ -65,3 +65,66 @@ Notably, the Interior Minister and NIRA DG travelled to **Islamabad on 2026-01-2
 16. "Somalia walking a thorny road to an inclusive national digital ID system" — WardheerNews, 2025-06-03. https://wardheernews.com/somalia-walking-a-thorny-road-to-an-inclusive-national-digital-id-system/ — DG: NADRA "providing the system and some hardware… our technology partner."
 17. "Pakistan, Somalia ink $10.5m accord for ID system" — The Nation (Pakistan), 2018-05-23. https://www.nation.com.pk/24-May-2018/pakistan-somalia-ink-10-5m-accord-for-id-system
 18. Dalkom Somalia — colocation provider, facilities Mogadishu + Nairobi + UAE partners. https://dalkomsomalia.com/
+
+---
+
+# Second pass — 2026-07-20 (closing)
+
+## Headline
+
+**Route (b) checked and answered: the National Data Center has still not launched.** Route (a) — the
+tender document — is an **acquisition**, not research. The substantive question (where SNID data
+physically sits *now*) remains unestablished, but it is now unestablished for a reason we can state and
+date, which is the honest terminus for this item.
+
+## Route (b) — has the National Data Center launched? No, as of 2026-07-20
+
+Checked MoCT, NCA and NIRA official channels plus Somali press. **The most recent official statement on
+the NDC remains MoCT's own, 2025-05-06** — the minister's second site inspection, facility *"nearing
+completion"*.
+
+Timeline held: construction commenced **2023-11-15** (NCA); first ministerial tour **2024-04-28**;
+second inspection **2025-05-06** ("nearing completion"). **Nothing since.**
+
+**The silence is evidential, not merely absent.** MoCT/NCA/NIRA publicise launches heavily and
+promptly, and did so repeatedly across the very window in which an NDC launch would have fallen:
+
+- **2026-01-05** — Council of Ministers approves the Public Data Protection Law regulatory framework (MoCT)
+- **2026-02-14** — National DPI Conference opens, Mogadishu (MoCT + OPM, DPM Saalax Axmed Jaamac)
+- **2026-03-07** — PM Hamza Abdi Barre inaugurates **SOMCIRT**, the national CIRT (NCA)
+- **2026-06-28** — NIRA + UNDP launch the National ID and Public Service Integration Working Group
+
+A government that announced a CIRT launch with the Prime Minister presiding would not have
+commissioned its first National Data Center silently. **Provisional finding: as of 2026-07-20 the
+National Data Center has not been announced as operational**, past the World Bank SCALED-UP revised
+closing date of **2026-06-30**. Stated as a negative finding, with its basis, rather than as proof.
+
+## Route (a) — tender ref 4500377: acquisition, not research
+
+Award ref **4500377** (USD 179,220, published 2026-02-25) for commercial colocation remains behind a
+subscriber wall. It would likely name the facility and therefore settle the hosting question directly.
+**This is a document the wiki does not hold — a fetch-list item, not a contradiction.** Routed to
+acquisitions; no further research spent.
+
+## What did not move
+
+- **No hosting or data-localisation clause is public.** The 2018 Pakistan–Somalia grant agreement and
+  the SNIDS Addenda-1/-2 remain unpublished. No new text surfaced.
+- **NIRA has not repeated or substantiated the on-shore assertion.** NIRA's substantial 2026 output —
+  ID4Africa 2026 "Digital Identity Playbook" (**1.4m+ registered as of March 2026**, 70 registration
+  centres, 47% female enrolment, 100+ integrated services, 15m target by 2029), the HUBIYE / e-Aqoonsi
+  / CDS launch, the June working group — is entirely about **enrolment scale and integration**. Hosting
+  location is never mentioned. DG Abdiwali Ali Abdulle's **2025-11-17** on-shore statement stands as a
+  single unrepeated assertion naming no facility.
+
+## Position the wiki should hold
+
+The dated trajectory already on the page is correct and is not disturbed. The one thing this pass adds
+is the **negative on the NDC**, dated. The endpoint stays open on the evidence, and the item is closed
+because a second research attempt would not plausibly differ — only the tender document would.
+
+## Second-pass sources consulted
+
+MoCT (2024-04-28, 2025-05-06, 2026-01-05, 2026-02-14); NCA (2023-11-15, SOMCIRT 2026-03-07); NIRA
+(HUBIYE/e-Aqoonsi/CDS launch; ID4Africa 2026 playbook; working group 2026-06-28); Goobjoog English;
+Shabelle Media (2026-02-15); Somali Stream (2026-05-16).

@@ -293,10 +293,23 @@ registered"), **nationwide heavy rainfall** impeding kit movement and causing **
 outages**, and the ageing equipment. **The registration drive was scheduled around an election, not
 around the unregistered population** — which is the same ordering the enrolment rates later expose.
 
-**Vendor unresolved as of August 2024.** NIRA had announced plans to work with **[[veridos]]**, amid
-controversy over the card-production contract with **Muehlbauer High Tech International**, previously
-the **NSIS** supplier and *"embroiled in a scandal concerning overcharging."* **Single-sourced
-(GAP-UGA-003); do not infer the outcome from Veridos' absence from the 2026 provider list.** Sources:
+**The card-production vendor — resolved (2026-07-20).** **[[veridos]]** has been the private partner
+in Uganda's security-printing vehicle since **2018**, not a candidate awaiting selection. **Mühlbauer
+High Tech International** was the incumbent card producer **2010–2018** (a **€64.2m** contract signed
+March 2010, awarded on presidential direction over procurement-rule protests); on its expiry the
+Government entered a **15-year joint venture with Veridos**, vehicled as **USPC (Uganda Security
+Printing Company)** — **Government 51% / Veridos 49%**. Parliament's Defence and Internal Affairs
+Committee tried to reverse this: it resolved on **2022-11-22** to probe Veridos, and by **2023-04-30**
+its majority report recommended re-engaging Mühlbauer, while a minority report alleged the leadership
+had held **unsanctioned meetings with Mühlbauer in Uganda and Germany** in breach of the **PPDA Act**.
+The recommendation had no procurement force and **no contract was awarded to Mühlbauer**. The earlier
+claim that Mühlbauer was *"embroiled in a scandal concerning overcharging"* is **withdrawn as
+unsupported** — the actual disputes were procurement irregularity (2010) and vendor lock-in (which
+Mühlbauer rebutted on the record). **Two layers, not one:** card production runs through USPC; the
+enrolment system is [[tahaluf]]/[[tech5]]/[[mosip]] — so Veridos' absence from the 2026 provider list
+signifies nothing. Sources:
+[[2022-11-24-biometricupdate-uganda-parliament-probe-veridos-card-printing]],
+[[2023-04-30-monitor-fight-over-national-id-deal-splits-parliament]],
 [[2025-05-28 Huge turnout as Nira starts mass registration]],
 [[2024-08-19 Uganda Prepares Large-scale Biometric Registration for National ID]].
 

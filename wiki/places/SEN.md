@@ -70,6 +70,19 @@ last_reviewed: 2026-07-20
   ([[CIV]]) and Mauritania in the confirmed landing set. Source:
   [[2026-05-23 Orange-backed subsea cable to connect Nigeria, 19 other countries]]. See
   [[infra.connect]], [[geopol.eu]].
+- **2026-03-27** — **Law No. 2008-12 still stands unamended; the reform has been stuck since 2017.**
+  **[[senegal-data-protection-law|Law No. 2008-12 of 25 Jan 2008]]** remains Senegal's data-protection
+  statute, **unamended as of 27 Mar 2026** — cybersecurity and AI-governance consultant **Saïkou Fall** tells
+  APS it has *"devenue caduque"* against generative AI, and that *"le Sénégal tarde encore … à mettre à
+  jour"* its law; a bill is *"dans le circuit"* awaiting a National Assembly vote. The revision is not new:
+  the **[[cdp-senegal|CDP]]** opened it in **2017**, a 2019 draft would replace the CDP with a 12-member
+  **APDP** and widen "sensitive data" to filiation and genetic data, the text cleared the **Cour Suprême in
+  2022**, and finalisation workshops ran in **Oct 2024** and again after the SND/SNIA strategies were adopted
+  — yet it has still not reached a vote, including through the **February-2026 national biometric-ID
+  breach**. Fall's warning is that without it the CDP carries *"des angles morts"* as the
+  **[[new-deal-technologique|New Deal Technologique]]** scales up sensitive-data processing. *(Resolved
+  2026-07-20 — the wiki previously held only an undated "revision underway" note.)* See [[gov.protect]],
+  [[gov.legislate]], [[tech.ai]]. Source: [[2026-03-27-aps-donnees-personnelles-legislation-moderniser]].
 - **2026-03-27** — **US–Senegal health MOU with protective data language.** The recently signed
   U.S.–Senegal bilateral health Memorandum of Understanding (2026–2030) is cited by Carnegie as an
   early sign of AFGHS ([[america-first-global-health-strategy]]) recalibration: unlike the contested
@@ -232,7 +245,9 @@ last_reviewed: 2026-07-20
   · [[geopol.eu]] — Universal Connectivity (>1m people, 2026); **[[starlink]]** live (26th African
   market); Orange **[[via-africa-cable]]** Atlantic landing.
 - [[gov.protect]] · [[infra.cybersec]] · [[geopol.usa]] — data-protection/cybersecurity frameworks
-  under the New Deal; the US–Senegal health MOU's Senegalese-law data safeguard.
+  under the New Deal; **Law No. 2008-12 unamended (as of Mar 2026)**, reform stalled since 2017; **no
+  national CERT or cybersecurity agency** at the time of the 2026 breaches; the US–Senegal health MOU's
+  Senegalese-law data safeguard.
 - [[tech.ai]] · [[capacity.research]] — NASA Harvest locally-adapted agricultural AI.
 
 ## Intersections

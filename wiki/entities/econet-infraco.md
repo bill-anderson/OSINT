@@ -57,6 +57,12 @@ economical reading is an intended name dropped once DPA was chosen as the vehicl
 hold a document saying so. Source:
 [[2025-12-15-econet-wireless-zimbabwe-further-cautionary-announcement]].
 
+*Brand caution (resolved 2026-07-20):* the DPA name attaches to **three distinct registered companies**
+of common Econet origin. InfraCo is the **Zimbabwe-registered** one. It does **not** inherit the South
+African solar-wheeling history of **DPA Southern Africa (Pty) Ltd**, the DPA–[[edf]] joint venture that
+signed the [[africa-data-centres]] PPAs on the [[cassava-technologies]] side of the group. InfraCo's own
+power business is branded **Distributed Power Zimbabwe (DPZ)**. See [[distributed-power-africa]].
+
 ## Conversion, listing and shareholding (2026)
 
 - **Conversion private → public.** The Company completed its conversion from a private to a public

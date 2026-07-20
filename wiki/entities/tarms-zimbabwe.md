@@ -6,8 +6,8 @@ url: https://mytaxselfservice.zimra.co.zw
 places: [ZWE]
 topics: [dpi.govtech, dpi.registry, dpi.id, dpi.pay, dpi.exchange]
 status: active
-last_reviewed: 2026-07-17
-sources: [[2025-01-01 ZIMRA Taxpayer Registration]]
+last_reviewed: 2026-07-20
+sources: [[2026-01-01 ZIMRA Taxpayer Registration]]
 ---
 
 # TaRMS Self-Service Portal (Zimbabwe)
@@ -15,7 +15,8 @@ sources: [[2025-01-01 ZIMRA Taxpayer Registration]]
 **[[zimra]]'s online taxpayer registration and management portal**, at
 `mytaxselfservice.zimra.co.zw` — the digital front door to Zimbabwe's tax system and the
 issuing point for the **Taxpayer Identification Number (TIN)**. A standing government
-platform worth returning to, profiled here from ZIMRA's own undated guidance page.
+platform worth returning to, profiled here from ZIMRA's own registration guidance page
+(**January 2026**; the page itself carries no dateline — see date note below).
 
 ## What it does
 
@@ -34,11 +35,17 @@ platform worth returning to, profiled here from ZIMRA's own undated guidance pag
 
 ## Date and provenance warnings
 
-- **The date could not be established (GAP-ZWE-005).** The page is **undated on screen**;
-  the year on file is the **clipper's inference from a ZIMRA news-ID sequence**, not a
-  source statement. Filed **year-precision, `date_source: proxy`**; the `2025-01-01` prefix
-  is **padding for sorting**. Only **post-February 2024** is genuinely established (news ID
-  2346 sits above the 29 Feb 2024 Release-2 anchor, ID 2294).
+- **The guidance page dates to January 2026** (established 2026-07-20; month precision).
+  It is **undated on screen** — ZIMRA's news CMS renders no datelines — so the date comes
+  from bracketing news ID 2346 between dated neighbours: ID 2344 (AGM of **2 December
+  2025**) and ID 2345 (a prospective preview of the **26 January 2026** Customs Day) below
+  it, IDs 2347–2349 (Data Privacy Week and the Customs Day reported retrospectively, so
+  **on or after 26 January 2026**) above it. Outer bound **2 December 2025 – 30 January
+  2026**. The earlier bare **"2025"** was inferred off a much more distant anchor
+  (ID 2294, 29 Feb 2024) and **is superseded — it was wrong by about twelve months**.
+  The `2025-01-01` filename prefix is stale padding pending rename.
+- **Note this dates the guidance page, not the portal.** TaRMS itself went live earlier;
+  a January 2026 registration explainer says nothing about when the platform launched.
 - **First-party and effectively promotional.** The portal's claimed benefits are the
   agency's account of itself. **No figures of any kind are held** — no registrations, no
   TINs issued, no uptake.
@@ -49,4 +56,4 @@ platform worth returning to, profiled here from ZIMRA's own undated guidance pag
 
 ## Sources
 
-- [[2025-01-01 ZIMRA Taxpayer Registration]]
+- [[2026-01-01 ZIMRA Taxpayer Registration]]

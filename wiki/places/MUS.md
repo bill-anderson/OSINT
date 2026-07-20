@@ -6,7 +6,7 @@ parent: XEA
 place_kind: country
 topics: [dpi.pay, finance.new, gov.protect, gov.regional, dpi.id, dpi.govtech, gov.policy, gov.legislate, dpi.registry, dpi.exchange, gov.standards, dpi.mis, data.statistics, include.access, data.open, geopol.eu, infra.cybersec, infra.store, infra.connect, tech.ai, geopol.india, capacity.training, tech.innovate, include.divides, finance.mou]
 status: active
-last_reviewed: 2026-07-19
+last_reviewed: 2026-07-20
 ---
 
 # Mauritius (MUS)
@@ -31,13 +31,60 @@ cross-border fintech and payments gateway into Africa.
   package being benchmarked. Not a Mauritian development — a measure of its standing. See [[KEN]],
   [[ZAF]], [[gov.policy]], [[tech.innovate]], [[finance.new]]. Source:
   [[2026-07-17-kenya-golden-visa-investors]].
-- **2026-07-16** — **AI "from ambition to execution" — AllMyT Summit.** [[mauritius-telecom|MT]]'s second
-  **AllMyT Summit** (16-17 Jul, 1,000+ participants, PM Ramgoolam opening) showcased the AI & Compute Corridor —
-  Tier IV compute, GPU clusters, sovereign cloud and **[[mytgpt]]**. CEO Gungadin: *"AI will not become an
-  economic pillar because we declare it."* (Off-source AllMyT announcements — AWS MoU, NVIDIA H200, a Mauritius
-  AI Registry — await primary sourcing: GAP-MUS-001.) Full picture: **[[mauritius--tech-ai]]**. Sources:
+- **2026-07-16** — **AllMyT Summit 2026 — announcements now primary-sourced, and sorted by what they
+  actually are.** [[mauritius-telecom|MT]]'s second **AllMyT Summit** (16-17 Jul, SVICC Pailles, 1,000+
+  participants; PM Ramgoolam, Minister Ramtohul, MT chairman Sarat Lallah and CEO Gungadin) produced six
+  claimed announcements, all confirmed as **made** — but three are **statements of intent, not shipped
+  facts**, and one was **not launched at the summit at all** (resolved 2026-07-20; supersedes GAP-MUS-001):
+  - **Delivered / on the record.** An **MoU with [[amazon-web-services|AWS]]** was **signed at the opening
+    ceremony on 16 Jul 2026** — confirmed by **[[ministry-ict-mauritius|MITCI]]**/GIS, welcomed on stage by
+    AWS's Jyoti Ball (GM, Sub-Saharan Africa). Scope is soft (skills, helping institutions build, a scale
+    pathway for local innovators) with **no disclosed value or binding deliverable** — an MoU, not a deal.
+  - **Launched before the summit.** The **Mauritius AI Registry** (airegistry.mu)
+    went live on **9 July 2026**, a week ahead of the event; the summit was a **showcase stop on a promotion
+    tour**, not the launch. It is a discovery/trust directory of Mauritius-relevant AI models, agents and
+    skills that **does not host or sell** what it lists, each entry carrying provider identity and, where
+    applicable, institutional validation. Stack open-sourced.
+  - **Operator claim, uncorroborated.** Gungadin said MT's data centre "already" hosts **NVIDIA H200 GPUs**
+    (16 Jul 2026); **B300 units are a plan for end-2026**. No vendor or independent confirmation found —
+    attribute to the CEO, do not restate as established capacity.
+  - **A standards work-stream, not a product.** "**Models-as-a-Service**" was billed at the summit as a
+    telecom world first; the actual announcement came **20 Jul 2026** from **TM Forum** (the telecom
+    standards body, 800+ member companies), naming MT
+    **founding contributor and co-chair** of its **MODaaS** collaboration (initiative GB1087) — work to
+    *define* a certification framework that **does not yet exist**. No MODaaS product is in market.
+  - **Announced, prospective.** An **SBM Bank** partnership to *create* a shared entrepreneur platform
+    (no terms, value or date), and **Mauritius–Seychelles cross-border payments** with Seychelles fintech
+    **Eboo** — announced 16 Jul 2026 as a launch, but with **no Eboo, BoM or Central Bank of Seychelles
+    record** corroborating a live service.
+
+  Full picture: **[[mauritius--tech-ai]]**. Sources:
+  [[2026-07-16-mauritius-america-india-connect-subsea-cable-allmyt-summit-mitci]],
+  [[2026-07-16-mauritius-telecom-allmyt-keynote-sovereign-ai-platformafrica]],
+  [[2026-07-12-mauritius-telecom-airegistry-mu-launch-journaldudimanche]],
+  [[2026-07-20-mauritius-telecom-tm-forum-modaas-telecomtv]],
   [[2026-07-16-allmyt-summit-2026-techreviewafrica]],
-  [[2026-07-13-gungadin-ai-economic-pillar-interview-mauritiustimes]]. See [[tech.ai]], [[infra.store]].
+  [[2026-07-13-gungadin-ai-economic-pillar-interview-mauritiustimes]]. See [[tech.ai]], [[infra.store]],
+  [[gov.standards]], [[finance.mou]].
+- **2026-07-16** — **Mauritius to join the America-India Connect subsea cable programme (PM announcement).**
+  At the same summit opening, **PM Ramgoolam announced that Mauritius will participate** in the
+  **America-India Connect** subsea cable programme — on his own account, after hearing Google CEO Sundar
+  Pichai describe the project at the **AI Impact Summit in New Delhi (February 2026)**, raising Mauritius's
+  geographic case with **PM Modi**, who took it up with Pichai. This is a **government commitment to
+  participate**, not a signed landing agreement: **no consortium confirmation, landing point, capacity or
+  ready-for-service date** is on record, and MT's CEO was pointedly non-specific on subsea in the same
+  session ("very soon, we will be coming up with some announcements there"). Would sit alongside the
+  **T4 / SEACOM 2.0** builds in MT's 2026-2029 strategy. Source:
+  [[2026-07-16-mauritius-america-india-connect-subsea-cable-allmyt-summit-mitci]]. See [[infra.connect]],
+  [[geopol.india]], [[geopol.usa]], [[gov.policy]].
+- **2026-07-16** — **National Data Governance Strategy and Data Protection Act amendments flagged.**
+  In the same MITCI record, **Minister Ramtohul** committed the government to implementing a **National
+  Data Governance Strategy** and to **forthcoming amendments to the Data Protection Act**, aimed at
+  cybersecurity, privacy and online safety "particularly for children" — the legislative follow-through
+  behind the DPO Regulations 2026, the **EU-adequacy** bid and the social-media ID-verification
+  consultations. Source:
+  [[2026-07-16-mauritius-america-india-connect-subsea-cable-allmyt-summit-mitci]]. See [[gov.protect]],
+  [[gov.legislate]], [[gov.policy]].
 - **2026-07-13** — **Communications privacy under strain ("Moustass Leaks").** Leaked audio (the SIT CEO
   revocation, the wider **Moustass Leaks** saga) reopened questions of electronic-evidence admissibility,
   unlawful processing under the **DPA 2017**, and AI **deepfakes** — the live edge of a longer **surveillance
@@ -210,8 +257,9 @@ cross-border fintech and payments gateway into Africa.
   cables; MIXP) with a sovereign-hosting pitch — **[[mauritius--infra-store]]**.
 - [[tech.ai]] · [[capacity.training]] · [[gov.standards]] — governance-led AI:
   **[[mauritius-national-ai-strategy|AIM strategy + FAIR]]** (vendor-neutral/border-agnostic), a **50,000**
-  AI-training budget push, and MT's sovereign **[[mytgpt]]** platform / AllMyT Summit —
-  **[[mauritius--tech-ai]]**.
+  AI-training budget push, MT's sovereign **[[mytgpt]]** platform, the **Mauritius AI Registry**
+  (airegistry.mu, live 9 Jul 2026) and MT's founding co-chair role in **TM Forum**'s MODaaS
+  certification work — **[[mauritius--tech-ai]]**.
 - [[infra.cybersec]] · [[gov.legislate]] · [[include.divides]] — new **CII cyber regime** (Designation Regs
   2026; 25yr/Rs 2M penalties), social-media **ID-verification** consultations, and **Rodrigues** sub-national
   inclusion (Rod-Digital Vision) — **[[mauritius--infra-cybersec]]**.
@@ -219,9 +267,11 @@ cross-border fintech and payments gateway into Africa.
 
 ## Entities
 
-- [[mauritius-mobile-id]] · [[mauritius-digital-blueprint-2025-2029]] · [[mauritius-national-data-strategy]] · [[ministry-ict-mauritius]] · [[data-protection-office-mauritius]] · [[e-social-security-mauritius]] · [[maucas]] · [[civil-status-division-mauritius]] · [[thales]] · [[peach-payments]] · [[verint]] · [[mauritius-telecom]] · [[bank-of-mauritius]] · [[mauritius-commercial-bank]] · [[mauritius-national-fintech-strategy]] · [[mauritius-national-ai-strategy]] · [[mytgpt]]
+- [[mauritius-mobile-id]] · [[mauritius-digital-blueprint-2025-2029]] · [[mauritius-national-data-strategy]] · [[ministry-ict-mauritius]] · [[data-protection-office-mauritius]] · [[e-social-security-mauritius]] · [[maucas]] · [[civil-status-division-mauritius]] · [[thales]] · [[peach-payments]] · [[verint]] · [[mauritius-telecom]] · [[bank-of-mauritius]] · [[mauritius-commercial-bank]] · [[mauritius-national-fintech-strategy]] · [[mauritius-national-ai-strategy]] · [[mytgpt]] · [[amazon-web-services]]
+- Tagged, no page yet: Mauritius AI Registry (airegistry.mu); TM Forum; SBM Bank; Eboo (Seychelles).
 - Intersections: [[mauritius--gov-protect]] · [[mauritius--infra-store]] · [[mauritius--dpi-pay]] · [[mauritius--tech-ai]] · [[mauritius--infra-cybersec]]
 - Mentioned, not hubbed: Drudeisha Madhub (data-protection commissioner, heads the
   [[data-protection-office-mauritius|DPO]]); Ashok Subron (Minister of Social Security); Bank of Mauritius;
-  ICTA; CERT-MU; MPF; FATF.
+  ICTA; CERT-MU; MPF; FATF; Avinash Ramtohul (ICT minister); Sarat Lallah (MT chairman); Veemal Gungadin
+  (MT CEO); SBM Bank; Eboo (Seychelles fintech); NVIDIA.
 - Parent region: [[XEA]] · continental: [[XAF]].

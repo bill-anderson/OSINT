@@ -6,8 +6,8 @@ places: [NGA]
 topics: [gov.protect, gov.legislate, tech.ai]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-12
-sources: [[2026-06-09 Meta backs NDPC in landmark privacy initiative], [2026-06-17 Government data silos threaten Nigeria's AI ambitions], [2026-07-08 FG Halts Enforcement of New Regulations on Internet Platforms], [2026-02-02 NIN, Party e-registration and the NDPA 2023 When politics meets privacy (and why Nigerians should care)], [2026-02-27 Who Protects Nigeria's Digital Citizens Unmasking Accountability Gaps in Digital Rights Governance], [2026-03-04 Nigeria takes new measures to regulate AI], [2026-03-04 Data Protection is the Next Frontier for Nigeria's Digital Economy, Says Samiat], [2026-07-10 FIJ Showed That INEC Broke Data Law. Digital Rights Lawyers Sue the Commission 10 Months Later], [2026-07-10 Why Nigeria Is Investigating Meta, Google, X and AI Firms], [2026-01-12 (3) Africa's Digital Policy Review 2025 in Perspective and Outlook for 2026], [2026-06-01 Africa's Place in the AI Sovereignty Debate]]
+last_reviewed: 2026-07-20
+sources: [[2026-06-09 Meta backs NDPC in landmark privacy initiative], [2026-06-17 Government data silos threaten Nigeria's AI ambitions], [2026-07-08 FG Halts Enforcement of New Regulations on Internet Platforms], [2026-02-02 NIN, Party e-registration and the NDPA 2023 When politics meets privacy (and why Nigerians should care)], [2026-02-27 Who Protects Nigeria's Digital Citizens Unmasking Accountability Gaps in Digital Rights Governance], [2026-03-04 Nigeria takes new measures to regulate AI], [2026-03-04 Data Protection is the Next Frontier for Nigeria's Digital Economy, Says Samiat], [2026-07-10 FIJ Showed That INEC Broke Data Law. Digital Rights Lawyers Sue the Commission 10 Months Later], [2026-07-10 Why Nigeria Is Investigating Meta, Google, X and AI Firms], [2026-01-12 (3) Africa's Digital Policy Review 2025 in Perspective and Outlook for 2026], [2026-06-01 Africa's Place in the AI Sovereignty Debate], [2025-07-06-ndpc-multichoice-fine-statement]]
 ---
 
 # Nigeria Data Protection Commission (NDPC)
@@ -65,11 +65,22 @@ Nigeria's data-protection regulator, enforcing the **Nigeria Data Protection Act
   penalties as precedent — the data-protection flank to a competition-law action. Source:
   [[2026-07-10 Why Nigeria Is Investigating Meta, Google, X and AI Firms]].
 
-- **Multichoice fine — largest to date (2026-06 analyst note).** Adebowale cites the NDPC's
-  **largest fine (July 2025), levied on Multichoice**, as a marker of Nigeria's data-protection
-  enforcement teeth in the AI-sovereignty debate — a datapoint distinct from the
-  [[ndpc-meta-settlement]]. See [[gov.protect]], [[gov.legislate]]. Source:
-  [[2026-06-01 Africa's Place in the AI Sovereignty Debate]].
+- **MultiChoice fine — the NDPC's largest (announced 2025-07-06).** ₦**766,242,500** (~US$501,340)
+  on **[[multichoice-nigeria]]** for breaching the [[nigeria-data-protection-act-2023]], following an
+  investigation opened **Q2 2024**: privacy violations against **subscribers and non-subscribers**
+  alike, **illegal cross-border transfer** of Nigerian personal data, and processing found "patently
+  intrusive, unfair, unnecessary and disproportionate" contrary to **s.37 of the 1999 Constitution**.
+  Imposed expressly **"for want of cooperation"** after directed remediation was judged
+  unsatisfactory — the sanction endpoint of the NDPC's remediation-first model. Statement signed by
+  **Babatunde Bamigboye**, Head, Legal, Enforcement & Regulations; National Commissioner **Vincent
+  Olatunji** ordered all MultiChoice data-collection outlets investigated. **Payment / challenge
+  status not established as of 2026-07-20**, and the NDPC did **not** answer FIJ's 2025-07-09 FOI
+  request for the detailed findings within the FOI Act's statutory window — an enforcement-
+  transparency gap on the Commission's own flagship penalty. Distinct from the
+  [[ndpc-meta-settlement]]. See [[gov.protect]], [[gov.legislate]], [[nigeria--gov-protect]].
+  Sources: [[2025-07-06-ndpc-multichoice-fine-statement]],
+  [[2026-06-01 Africa's Place in the AI Sovereignty Debate]] (analyst note citing it as a marker of
+  enforcement teeth in the AI-sovereignty debate).
 
 See [[NGA]], [[meta]], [[cbn]], [[gov.protect]].
 
@@ -86,3 +97,4 @@ See [[NGA]], [[meta]], [[cbn]], [[gov.protect]].
 - [[2026-07-10 Why Nigeria Is Investigating Meta, Google, X and AI Firms]]
 - [[2026-01-12 (3) Africa's Digital Policy Review 2025 in Perspective and Outlook for 2026]]
 - [[2026-06-01 Africa's Place in the AI Sovereignty Debate]]
+- [[2025-07-06-ndpc-multichoice-fine-statement]]

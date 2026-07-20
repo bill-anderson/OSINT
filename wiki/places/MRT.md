@@ -28,6 +28,23 @@ fourth-tier cybersecurity ranking mark the distance still to travel.
   consular registry** to map the diaspora (built by diaspora engineers with **[[mtnima-mauritania|MTNIMA]]**,
   after consultations in 22 countries). Source:
   [[2026-07-10-digital-consular-services-diaspora-wearetech]]. See [[dpi.govtech]], [[dpi.registry]].
+- **2026-04-28** — **National PKI / e-certification tender (WARDIP) — issued, twice extended, not awarded.**
+  The **[[wardip|WARDIP]]** project unit at **[[mtnima-mauritania|MTNIMA]]** issued RFP
+  **AP-01_DP-15_WARDIP-2026** (credit **IDA-7445-MR**, World Bank-financed) on **28 Apr 2026**, in two lots:
+  **Lot 01, a national Public Key Infrastructure**; **Lot 02, a Certificate Management System with electronic
+  signature integrated into the [[anrpts-mauritania|ANRPTS]]'s PKI**. Bid security 1m MRU per lot;
+  beneficial-ownership disclosure required of the winner. **Additif N°1 (15 May 2026)** reweighted evaluation
+  from 30/70 to **40% technical / 60% cost** and moved the deadline to 7 Jul; **Additif N°2 (10 Jun 2026)**
+  moved it again to **21 Jul 2026**. **No award has been made as of 2026-07-20** — the deadline has not
+  passed and financial envelopes stay sealed until technical evaluation completes.
+  **Read the scope carefully:** the notice *title* promises a *"Système National d'identité numérique et
+  d'infrastructure de certification électronique,"* but the **operative text describes only an e-certification
+  system**, and both addenda drop "identité numérique" from the title. On its clauses this is a **PKI
+  procurement that integrates with the existing ANRPTS register** — a trust layer beneath
+  **[[houwiyeti|Houwiyeti]]**, **not** a second identity rail. *(Resolved 2026-07-20; the manifest note
+  supposing a distinct new digital-ID system, and the supposed July award report, are both corrected — see
+  below.)* Source: [[2026-04-28-wardip-mauritanie-ap01-identite-numerique-pki]]. See [[dpi.id]],
+  [[gov.standards]], [[infra.cybersec]], [[dpi.exchange]].
 - **2026-07-08** — **10,000+ cyber threats to the digital financial system (H1 2026).** **[[pafiid|PAFIID]]**
   reported the **[[central-bank-mauritania|Central Bank]]**'s AI-supported "digital reputation protection"
   platform detected **>10,000 electronic threats** (phishing, impersonation, app/site fraud) in H1 2026, of
@@ -97,7 +114,13 @@ fourth-tier cybersecurity ranking mark the distance still to travel.
 - **2026-01-29** — **Satellite-internet licence tender (ARE).** ARE launched an international tender (22 Jan
   2026, two batches: GEO retail + capacity sale) to widen access where ~63% remained offline (2023);
   **[[starlink|Starlink]]** flagged a **2026 commercial launch** but LEO providers are not yet authorised for
-  direct service. Source: [[2026-01-29-satellite-internet-licence-tender-are-techafricanews]]. See
+  direct service. **Outcome (7 Jul 2026, not yet held as a source):** ARE named **three provisional winners** —
+  **BRAINSAT** and **VDM** for the GEO mobile-personal-communications lot, **BRAINSAT** and **Mattel** for the
+  capacity-sale lot — from 9 bids against 13 dossiers taken; VDM and Mattel must match BRAINSAT's offer or the
+  licences pass to the next-ranked bidders. Reported by Agence Ecofin; queued in `reviews/acquisitions.md`.
+  *(Noted 2026-07-20: this "trois entreprises sélectionnées" award is **satellite licences under the ARE**,
+  and is **not** connected to the WARDIP digital-ID/PKI tender above — a conflation corrected in the same
+  pass.)* Source: [[2026-01-29-satellite-internet-licence-tender-are-techafricanews]]. See
   [[infra.connect]], [[include.divides]], [[geopol.usa]].
 - **2026-01-17** — **2026 finance law: 0.1% tax on electronic transactions.** The budget introduced a **0.1%
   levy on electronic transactions above 5,000 MRU** (wallets, payment apps, digital banking) plus **10% on
@@ -185,7 +208,9 @@ fourth-tier cybersecurity ranking mark the distance still to travel.
 - [[dpi.id]] · [[dpi.registry]] · [[include.access]] — **[[anrpts-mauritania|ANRPTS]]** biometric register
   (~94% coverage claim; register 3.4m→5.1m 2019–2026; permanent-enrolment 2025 reform; contested residual
   exclusion, sovereignty/colonialism lens); **[[houwiyeti]]** app ([[tech5]]/UNDP; 1.5m beneficiaries, figures
-  under review); biometric SIM identification ([[are-mauritania|ARE]]).
+  under review); biometric SIM identification ([[are-mauritania|ARE]]); **national PKI / CMS tender
+  (WARDIP, AP-01, Apr 2026)** integrating e-signature with the ANRPTS register — **unawarded**, deadline
+  21 Jul 2026.
 - [[dpi.govtech]] · [[dpi.mis]] · [[dpi.exchange]] · [[gov.policy]] · [[gov.standards]] — **Ijraati/Khdamati**
   portals; digital consular platform; Houwiyeti education-certificates service; national public-digital-services
   standards framework ([[giz]]/[[digital-y]]); National Digital Transformation Agenda 2022–2025; EGDI 165th

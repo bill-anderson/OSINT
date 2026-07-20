@@ -6,9 +6,9 @@ topic: dpi.id
 places: [SEN]
 topics: [dpi.id, dpi.registry, gov.protect, infra.cybersec, gov.regional]
 entities: [[daf-senegal], [iris-corporation], [anec-senegal], [nekkal-programme], [senegal-numerique], [cdp-senegal], [new-deal-technologique], [green-blood-group], [clement-domingo], [civipol], [enabel], [european-union]]
-status: needs-review
+status: active
 last_reviewed: 2026-07-20
-sources: [[2026-02-10 Senegal data breach disrupts national ID issuance], [2026-02-10 Senegal shuts National ID office after ransomware attack], [2026-02-24 Senegal ID System Breach – 139TB Hack Claim], [2026-02-05-aps-daf-suspension-cni-communique], [2026-02-12-darkreading-senegal-breach-security-maturity], [2026-04-07-aps-daf-reprise-production-cni], [2025-02-18 Senegal targets 3M ECOWAS biometric ID holders for voter registration], [2024-06-27 Senegal digitizes millions of civil records under the Nekkal program], [2024-06-26-lequotidien-fofana-19-millions-actes-etat-civil], [2026-06-29-aps-nekkal-avancees-modernisation-etat-civil], [2026-07-13-apa-anec-15-million-birth-records], [2026-01-28 Senegal plans digital overhaul of civil status system (ANEC)], [2023-05-01 Children's Right to Identity in Senegal (CHIP CRC submission)]]
+sources: [[2026-02-10 Senegal data breach disrupts national ID issuance], [2026-02-10 Senegal shuts National ID office after ransomware attack], [2026-02-24 Senegal ID System Breach – 139TB Hack Claim], [2026-02-05-aps-daf-suspension-cni-communique], [2026-02-05-senegal7-daf-perso-server-email], [2026-02-11-zataz-senegal-frappe-fichier-identite], [2026-02-12-darkreading-senegal-breach-security-maturity], [2026-04-07-aps-daf-reprise-production-cni], [2025-02-18 Senegal targets 3M ECOWAS biometric ID holders for voter registration], [2024-06-27 Senegal digitizes millions of civil records under the Nekkal program], [2024-06-26-lequotidien-fofana-19-millions-actes-etat-civil], [2026-06-29-aps-nekkal-avancees-modernisation-etat-civil], [2026-07-13-apa-anec-15-million-birth-records], [2026-01-28 Senegal plans digital overhaul of civil status system (ANEC)], [2023-05-01 Children's Right to Identity in Senegal (CHIP CRC submission)]]
 ---
 
 # Senegal × Digital Identity & CRVS
@@ -47,16 +47,35 @@ a leak; it records an unrebutted leak alongside an integrity assurance. Sources:
 [[2026-02-05-aps-daf-suspension-cni-communique]], [[2026-04-07-aps-daf-reprise-production-cni]],
 [[2026-02-12-darkreading-senegal-breach-security-maturity]].
 
-**What the "Perso" server held is disputed.** Reporting on the same leaked IRIS email splits: Security
-Affairs and Bright Defense render the stolen material as **card-personalisation data**, while Dark Reading
-reads "Perso" as **the store of citizens' personal information** — an inference the outlet itself flags as
-"likely referring to." The distinction is material to severity and is unresolved; open item:
-`reviews/contradictions/open/senegal-daf-perso-server-contents.md`. Note that it does not bear on *whether*
-civil-identity data leaked — Domingo's sample review establishes that independently.
+**The "Perso" server was card-personalisation infrastructure, not the citizen database** *(resolved
+2026-07-20)*. Two French accounts of the same leaked IRIS email read it that way, and the earlier of them
+gives the gloss directly: Senegal7 (**5 Feb 2026**) reports the leaked email flagging a *"intrusion de
+sécurité suspectée"* on the **"serveur de personnalisation (Perso Server)"** and the **"serveur de domaine
+(Domain Server)"**; ZATAZ (**11 Feb 2026**) has Quik Saw Choo saying personalisation data was taken from one
+of the two systems. Dark Reading's reading of "Perso" as the citizens' personal-information store
+(**12 Feb 2026**) is the outlet's own inference — it hedges it as *"likely referring to"* — and post-dates
+both. In card-issuance architecture "perso" denotes **personalisation**, the stage at which a blank card is
+written with its holder's data, which is precisely what the card producer's engineer would be reporting on.
+*ZATAZ narrows it further to* **bank**-*card personalisation data, in both its French and English editions;
+that specification is single-sourced, sits oddly with a national-ID contract, and is not carried here.*
+Sources: [[2026-02-05-senegal7-daf-perso-server-email]], [[2026-02-11-zataz-senegal-frappe-fichier-identite]],
+[[2026-02-12-darkreading-senegal-breach-security-maturity]].
 
-**Context.** **[[senegal-numerique|SENUM SA]]** was reportedly compromised around the same time (possible
-coordination), and reporting tied the DAF incident to an **unpaid-invoices dispute** between Iris and the
-state. Foresiet assessed Green Blood as a technically competent crew running a Golang locker and
+**This narrows the route, not the exposure.** A personalisation server holds the civil-identity payload
+written to each card, and the **domain controller was compromised too**, giving domain-wide lateral movement.
+Domingo's verification of genuine birth records and ID cards stands independently of which machine they left
+by. The **full text of the leaked IRIS email is quoted by no account**, and neither the DAF nor IRIS answered
+requests for comment (ZATAZ, 11 Feb 2026) — so the server's function rests on two press readings, with no
+official confirmation.
+
+**Context.** **[[senegal-numerique|SENUM SA]]** reported *attempted* cyberattacks in the same fortnight —
+press called it a compromise, the company did not (see [[senegal--infra-cybersec]]) — and reporting tied the
+DAF incident to an **unpaid-invoices dispute** between Iris and the state. **No authority, court filing or
+party to the contract has linked the dispute to the intrusion** *(checked 2026-07-20)*; the DSC's line of
+enquiry concerns Iris's **maintained access** under the 2016 contract, not non-payment as a motive, and ZATAZ
+states the position plainly — *"sans conclure au lien de causalité"*. What is defensible is structural, not
+causal: critical dependence on a single foreign contractor, in commercial dispute, at the moment the state
+most needed it. Source: [[2026-02-11-zataz-senegal-frappe-fichier-identite]]. Foresiet assessed Green Blood as a technically competent crew running a Golang locker and
 double-extortion model, with prior victims in Colombia and India. The event is one of a run of state
 cyberattacks (tax authority Oct 2025, Public Treasury May 2026) — full wave: [[senegal--infra-cybersec]].
 Sources: [[2026-02-10 Senegal data breach disrupts national ID issuance]],

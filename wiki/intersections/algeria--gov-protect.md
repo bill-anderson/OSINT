@@ -9,7 +9,7 @@ entities: [[anpdcp], [algeria-data-governance-framework], [algeria-digital-id-tr
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-20
-sources: [[2025-12-30-joradp-decret-25-320-gouvernance-donnees], [2024-09-19 Algeria Digital Economy (US Country Commercial Guide)], [raw/2026-02-10 Algeria launches national public-data governance framework (Decree 25-350)], [raw/2025-11-05 Algeria approves draft law on national digital ID and trust services], [2025-12-01-anpdp-data-conservation-law-compliance-elmoudjahid], [2026-01-01-decree-25-320-data-governance-technical-base-elmoudjahid], [2026-07-01-dgsn-digital-space-data-protection-elmoudjahid], [2026-04-19-algerian-cyber-policy-digital-sovereignty-analysis-echorouk]]
+sources: [[2025-12-30-joradp-decret-25-320-gouvernance-donnees], [2026-02-09-algeria-data-governance-launch-maghrebinfo], [2024-09-19 Algeria Digital Economy (US Country Commercial Guide)], [raw/2026-02-10 Algeria launches national public-data governance framework (Decree 25-350)], [raw/2025-11-05 Algeria approves draft law on national digital ID and trust services], [2025-12-01-anpdp-data-conservation-law-compliance-elmoudjahid], [2026-01-01-decree-25-320-data-governance-technical-base-elmoudjahid], [2026-07-01-dgsn-digital-space-data-protection-elmoudjahid], [2026-04-19-algerian-cyber-policy-digital-sovereignty-analysis-echorouk]]
 ---
 
 # Algeria × Data Protection & Sovereignty
@@ -33,6 +33,15 @@ Algeria pairs a personal-data regime with an unusually hard **data-localisation*
   substantive standard. **Art. 18 excludes defence, national-security and judicial data** from the framework
   altogether. A named expert critiques the decree for
   omitting **open-data / valorisation** — flows stay locked inside public institutions.
+  **Not yet in force on its core duties.** Art. 8 leaves the two *référentiels* (classification;
+  data-source cataloguing) to be published **by decision of the High Commissioner for Digitalisation**, and
+  Art. 19 starts the classification and cataloguing obligations only **from the date those référentiels are
+  published**. **As of 2026-07-20 no such publication has been traced** in the *Journal Officiel* or in any
+  HCN announcement — so the decree's operative duties are **not shown to have commenced**, six months after
+  gazetting and five after the 9 Feb 2026 launch. The launch installed a national follow-up commission; it
+  did not trigger Art. 19. (Negative finding from a French-language search, not a proven absence — a
+  *décision* could be gazetted without press notice. See
+  [[algeria-data-governance-framework]].)
 - **Digital identity & trust.** The 2025 **[[algeria-digital-id-trust-law|digital-ID & trust-services law]]** modernises the 2015 e-signature framework and consolidates biometric data into a unified identity platform, with certified trust-service providers.
 
 The through-line is **technological sovereignty**: localisation + sovereign cloud + a state-owned data-centre and AI-compute base. See [[DZA]], [[gov.protect]], [[sovereignty]].

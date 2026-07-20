@@ -1,8 +1,9 @@
 # CLAUDE.md — Data Landscapers Intelligence Wiki
 
-*(Draft rewrite, 2026-07-20. Not in force until Bill replaces `CLAUDE.md` with it.
-Operational detail — frontmatter schemas, lint checks, sweep procedure — moves to
-`wiki/reference.md`. This file is principles; CC reasons from here.)*
+*(In force from 2026-07-20. This file is principles; CC reasons from here.
+Operational detail — frontmatter schemas, lint checks, sweep procedure — belongs in
+`wiki/reference.md`, which is **not yet written**: until it exists, follow the
+conventions already visible in `raw/` and `wiki/`, and do not invent schema.)*
 
 ## Purpose
 
@@ -63,6 +64,11 @@ standalone articles are admitted. Paid placement, awards PR and vendor
 thought-leadership report no development — tag any standing object they name,
 then discard.
 
+**Out of scope is rejected and deleted, not parked.** A first-hand, admissible item
+that falls outside data governance and digital transformation is deleted, not put
+in `_leads/`. When scope is in doubt, reject. `_leads/` is for items that are in
+scope but not yet usable, nothing else.
+
 **Bill's published work is expert third-party analysis** — cited by author,
 tagged as analysis not evidence, and free to shape the wiki's framing like any
 other named analyst's. His unpublished notes and drafts are not sources. Never
@@ -80,7 +86,8 @@ This is where the wiki earns its keep, and where errors actually happen.
 
 - **Every time-varying figure is written dated**: "ranked 156th (2020)", never
   "ranks 156th". No staleness threshold — it's a phrasing rule, so staleness
-  stays visible on the page. Exchange rates are time-varying too: carry money in
+  stays visible on the page. Structural facts — a law's provisions, a treaty's
+  terms — are not time-varying and are not dated. Exchange rates are time-varying too: carry money in
   the announcing party's own currency, and write any USD figure as a dated
   conversion — otherwise one commitment becomes three "different" numbers.
 - **The event date is not the publication date.** When a source re-reports an
@@ -108,10 +115,14 @@ AU or ECOWAS are entities, not places. Reject values outside the vocabularies.
 `new/ → raw/` is a physical pipeline: a file's folder is its state, and moving it
 out of `new/` is the last step of processing it, so an interrupted run resumes
 cleanly. Sources in `raw/` are named by publication date and are immutable.
-Parked leads go to `_leads/`.
+Parked leads go to `_leads/`. **The sweep writes only to its own staging folder** —
+never straight to `new/`, `raw/` or any `wiki/` page. Candidates enter the base
+only by being processed, so an unreviewed sweep result can never become a source
+by accident.
 
-**Synthesis pages hold current state, not chronology.** Events live in the dated
-source pages that cite them. If a page reads like a log, trim it; if its length is
+**Synthesis pages hold current state, not chronology** — with one exception:
+place hubs keep a dated, reverse-chronological **Recent developments** section.
+Elsewhere, events live in the dated source pages that cite them. If a page reads like a log, trim it; if its length is
 really N repeating per-country cells, split the substantial ones out and leave the
 rest as one-line index entries. If it's a long thematic argument, leave it alone.
 
@@ -173,8 +184,17 @@ Two queues, both drained by CC. Anything that can't be closed by either isn't
 work; it's a horizon, and belongs on the relevant page as a dated statement of
 what isn't established.
 
+**CC cites only links it actually holds.** In a contradiction brief or anywhere
+else, never suggest a source from your own knowledge as though the wiki held it.
+Say plainly that nothing is on file — that absence is the finding.
+
+**Capture is not endorsement.** Profiling an entity, or holding a source, implies
+no view of it.
+
 **Querying is read-only.** Results are derived snapshots, never sources, and
-never flow back into `raw/`.
+never flow back into `raw/`. Never re-derive at query time what a compiled page
+already holds — that is what compiling was for. Research output from a reconcile
+pass is working material: it earns its place only as an ingested primary.
 
 ## Output
 

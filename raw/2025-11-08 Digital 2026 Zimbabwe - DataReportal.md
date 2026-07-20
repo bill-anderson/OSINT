@@ -5,15 +5,24 @@ url: https://datareportal.com/reports/digital-2026-zimbabwe
 publisher: DataReportal (Kepios / We Are Social / Meltwater)
 author: Simon Kemp
 published: 2025-11-08
-date_precision: month
-date_source: proxy
+date_precision: day
+date_source: source
 ingested: 2026-07-17
 places: [ZWE]
 topics: [data.statistics, infra.connect, include.access, include.divides, digital.rural]
 entities: [[datareportal]]
 ---
 
-*DATE IS PROXY AND CONTESTED. The body carries no publication date — it says only that the figures reflect the latest data available in October 2025. The 2025-11-08 comes solely from the clipper, and it CONFLICTS WITH HOUSE PRECEDENT: every other DataReportal country report held here publishes in February or March of its report year, which would put Digital 2026 at ~Feb 2026, not Nov 2025. Filed month-precision proxy pending verification (GAP-ZWE-004). The strongest datum: 10.5m people (61.6%) offline at end-2025, against 67.1% rural — the best evidence yet for the hub's digital.rural thread.*
+> **Date confirmed 2026-07-20 (reconcile pass) — the clipper was right and the house precedent was wrong.**
+> DataReportal's own page states it **changed its publication cycle** with this series: *Digital 2026*
+> editions were published **2025-11-08** carrying **October-2025** data, where *Digital 2025* published
+> 2025-03-03 with January-2025 data. The Feb/March pattern observed across other held reports describes only
+> the **superseded** cycle, so it was not evidence against this date. Upgraded from `month`/`proxy` to
+> `day`/`source`; the previous in-body note calling the date "proxy and contested" is withdrawn as
+> falsified. **An edition year is not an as-of year** — see [[datareportal]].
+>
+> The strongest datum here is unchanged: 10.5m people (61.6%) offline at end-2025 against 67.1% rural — the
+> best evidence yet for the hub's `digital.rural` thread.
 
 Note on dates: DataReportal published its Digital 2026 reports at the end of 2025; the data points below reflect the latest available data in October 2025 and are stated for late 2025.
 

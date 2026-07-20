@@ -4,9 +4,9 @@ title: Libya
 code: LBY
 parent: XNA
 place_kind: country
-topics: [dpi.pay, dpi.id, dpi.registry, dpi.govtech, dpi.exchange, gov.policy, gov.protect, infra.connect, infra.cybersec, infra.store, data.open, data.statistics, include.access, digital.localgov]
+topics: [dpi.pay, dpi.id, dpi.registry, dpi.govtech, dpi.exchange, gov.policy, gov.protect, infra.connect, infra.cybersec, infra.store, data.open, data.statistics, include.access, digital.localgov, geopol.china, finance.mou]
 status: active
-last_reviewed: 2026-07-18
+last_reviewed: 2026-07-20
 ---
 
 # Libya (LBY)
@@ -37,6 +37,14 @@ government reports, national root servers). Much of this reform is entangled wit
 > - **E-gov/regional** — LY_GOVREP activation, Unified Chambers digital system, [[baladiyabot|BaladiyaBOT]]
 >   (EU/GIZ), GACI at UNECA COM 2026, Libya at the Geneva "financing digital sovereignty" ministerial.
 
+- **2026-03-09** — **LTT–ZTE modernisation MoU at MWC Barcelona.** GNU-side state operator **LTT (Libya
+  Telecom & Technology)**, chairman **Ammar Albouzaidi**, signed a memorandum of understanding with
+  **[[zte|ZTE Corporation]]** covering **4G/5G** planning and deployment, a digital-service ecosystem
+  (**e-wallet, e-commerce, CDN**), and terminals (FWA, CPE, MiFi). **No value or timetable published** —
+  a framework, not a contract; it extends the west-side pattern of courting multiple foreign vendors
+  (KBR/US, Nokia/Finland, now ZTE/China). Source:
+  [[2026-03-09 LTT and ZTE Sign MoU to Accelerate Digital Transformation and Network Evolution in Libya at MWC Barcelona 2026]].
+  See [[infra.connect]], [[finance.mou]], [[geopol.china]].
 - **2026-02-24** — **Digital payments boom.** [[central-bank-of-libya|CBL]] statistics (2025 → Feb 2026):
   mobile banking **4.29m subscribers / 200.7m transactions / 313.6bn LYD**; POS 165,313 terminals; the
   **LYPAY ONEPAY** instant-transfer platform 18.3m transactions / 108.7bn LYD; 5.5m activated cards.
@@ -61,6 +69,18 @@ government reports, national root servers). Much of this reform is entangled wit
   Telecommunications Strategy 2023-2027. Source:
   [[2025-10-26 Libya launches root servers in Tripoli and Benghazi — digital sovereignty]]. See
   [[infra.connect]], [[infra.cybersec]].
+- **2025-08-17 → 2025-08-20** — **Huawei suspended and reinstated within three days: the east–west
+  licensing rupture.** The GNU's **General Authority for Telecommunications and Informatics (GTI)**
+  suspended **all [[huawei|Huawei]] activities in Libya** on **17 August 2025**, citing "illegal
+  contracts with illegitimate entities", breach of **Law No. 22 of 2010** (GTI holds sole licensing
+  power) and violation of **ITU** sovereignty principles — the trigger being Huawei's contracting for an
+  **eastern mobile network** with the HoR-appointed administration. **On 20 August the GTI announced
+  agreement with Huawei Technizon – Libya Branch** to continue operating on a compliance undertaking. A
+  jurisdictional signal rather than an enforcement campaign; **Huawei continues to operate on the GNU
+  side**. Source:
+  [[2025-08-20 The Telecommunications Authority announces its agreement with Huawei Libya to ensure the continuation of its activities]]
+  (LANA, the state news agency). Full thread: [[libya--infra-connect]]. See [[infra.connect]],
+  [[geopol.china]], [[gov.policy]].
 - **2025-08-11** — **CBL 'Ratebk Lahzi' real-time payroll.** A real-time public-sector salary platform
   on the instant-payment network (~2m employees/pensioners), pitched as anti-fraud but resisted by the
   eastern government, which refused to share employee banking data. Source:
@@ -102,7 +122,10 @@ government reports, national root servers). Much of this reform is entangled wit
 - [[gov.policy]] · [[dpi.exchange]] · [[data.open]] — **[[gia-libya|GIA]]** data governance, open data,
   LY-GOVREP, UNDP HDR; digital-transformation strategy.
 - [[infra.connect]] · [[infra.cybersec]] · [[infra.store]] — **[[gaci-libya|GACI]]** national root servers
-  + National Telecom Strategy 2023-2027; GCI third tier; cloud/data workshops.
+  + National Telecom Strategy 2023-2027; GCI third tier; cloud/data workshops. **East–west vendor
+  contest** — [[huawei|Huawei]]'s three-day suspension (Aug 2025) over an eastern-network contract, the
+  [[zte|ZTE]]–LTT MoU (Mar 2026), and a Huawei-module Tripoli data centre due 2027: a
+  **licensing-jurisdiction** dispute, not a vendor split. Full case: [[libya--infra-connect]].
 - [[dpi.govtech]] · [[digital.localgov]] — Unified Tax System + Tax Police; One-Stop Shop company
   registration; national postal addressing.
 

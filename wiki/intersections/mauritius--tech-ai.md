@@ -5,11 +5,11 @@ place: MUS
 topic: tech.ai
 places: [MUS]
 topics: [tech.ai, gov.policy, gov.standards, capacity.training, infra.store]
-entities: [[mauritius-national-ai-strategy], [mytgpt], [mauritius-telecom], [ministry-ict-mauritius]]
+entities: [[mauritius-national-ai-strategy], [mytgpt], [mauritius-telecom], [ministry-ict-mauritius], [amazon-web-services], [nvidia]]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-19
-sources: [[2026-04-12-national-ai-strategy-fair-guidelines-launch-lexpress], [2026-04-23-ai-strategy-fair-ethics-before-execution-techcabal], [2026-06-20-budget-2026-2027-ai-training-50000-fintech-lexpress], [2026-07-13-gungadin-ai-economic-pillar-interview-mauritiustimes], [2026-03-22-build-ai-ecosystem-before-infrastructure-mauritiustimes], [2026-01-26-mytgpt-education-pilot-techreviewafrica], [2026-07-16-allmyt-summit-2026-techreviewafrica]]
+last_reviewed: 2026-07-20
+sources: [[2026-04-12-national-ai-strategy-fair-guidelines-launch-lexpress], [2026-04-23-ai-strategy-fair-ethics-before-execution-techcabal], [2026-06-20-budget-2026-2027-ai-training-50000-fintech-lexpress], [2026-07-13-gungadin-ai-economic-pillar-interview-mauritiustimes], [2026-03-22-build-ai-ecosystem-before-infrastructure-mauritiustimes], [2026-01-26-mytgpt-education-pilot-techreviewafrica], [2026-07-16-allmyt-summit-2026-techreviewafrica], [2026-07-16-mauritius-telecom-allmyt-keynote-sovereign-ai-platformafrica], [2026-07-12-mauritius-telecom-airegistry-mu-launch-journaldudimanche], [2026-07-20-mauritius-telecom-tm-forum-modaas-telecomtv], [2026-07-16-mauritius-america-india-connect-subsea-cable-allmyt-summit-mitci]]
 ---
 
 # Mauritius × Artificial Intelligence
@@ -52,11 +52,44 @@ questions the sequencing.
   [[2026-07-13-gungadin-ai-economic-pillar-interview-mauritiustimes]],
   [[2026-01-26-mytgpt-education-pilot-techreviewafrica]],
   [[2026-07-16-allmyt-summit-2026-techreviewafrica]].
-- ⚠ **Off-source AllMyT announcements (awaiting primary).** Contemporaneous coverage *outside the sweep source
-  set* reports MT announced an **AWS MoU**, **NVIDIA H200 GPUs** hosted (B300 due end-2026), a **Mauritius AI
-  Registry** (airegistry.mu, open-sourced stack), Models-as-a-Service (TM Forum), an SBM Bank platform, and
-  Mauritius–Seychelles cross-border payments (Eboo). These are **not yet primary-sourced** — see
-  **unconfirmed as of 2026-07-20**; not asserted as fact here.
+- **AllMyT Summit announcements — primary-sourced, and graded (resolved 2026-07-20).** All six announcements
+  are confirmed as **made**; what they *are* differs sharply, and the distinction is the analytically useful
+  part:
+  - **Signed.** An **[[amazon-web-services|AWS]] MoU**, executed at the opening ceremony **16 Jul 2026**
+    (**[[ministry-ict-mauritius|MITCI]]**/GIS record). Soft scope — skills, institutional enablement, a
+    scale pathway for local innovators — with **no disclosed value or binding deliverable**.
+  - **Live, but not launched here.** The **Mauritius AI Registry** (airegistry.mu) went live **9 Jul 2026**,
+    a week *before* the summit, which was a **showcase stop**, not the launch. It is a **discovery and trust
+    layer** — a directory of Mauritius-relevant models, agents and skills that **does not host or sell** what
+    it lists; each entry carries provider identity, local-context relevance and, where applicable,
+    institutional validation. The stack is open-sourced, and MT is pitching the architecture to other
+    African and global telcos with Mauritius as originator — the most concrete expression yet of the
+    sovereignty framing. Source:
+    [[2026-07-12-mauritius-telecom-airegistry-mu-launch-journaldudimanche]].
+  - **Operator claim only.** **NVIDIA H200 GPUs** "already" in MT's data centre is Gungadin's assertion
+    (16 Jul 2026) with **no vendor or independent corroboration**; **B300 by end-2026** is a plan. Note this
+    is precisely the compute-timing bet the *Timing Trap* critique below disputes — so the absence of
+    verification matters.
+  - **A standards work-stream, not a product.** "**Models-as-a-Service**", billed at the summit as a telecom
+    world first, was announced **20 Jul 2026** by **TM Forum** as the **MODaaS** collaboration (initiative
+    GB1087) with MT as **founding contributor and co-chair** — work to *define* controls and conformance
+    criteria for a certification framework that **does not yet exist**. TM Forum's own research frames the
+    problem: **72%** of operator leaders say they trust their production AI, **14%** can evidence it.
+    Source: [[2026-07-20-mauritius-telecom-tm-forum-modaas-telecomtv]].
+  - **Announced, prospective.** An **SBM Bank** partnership to *create* a shared entrepreneur platform (no
+    terms, value or date), and **Mauritius–Seychelles cross-border payments** with **Eboo** — announced as a
+    launch but **uncorroborated** by Eboo, the BoM or the Central Bank of Seychelles.
+
+  Source for the keynote as a whole:
+  [[2026-07-16-mauritius-telecom-allmyt-keynote-sovereign-ai-platformafrica]].
+- **AI in education: a documented retreat from the student-facing tutor.** MT's my.t Learn pilot ran across
+  **ten schools**; teacher and parent resistance — Gungadin's own framing, *"Are we teaching kids that they
+  should outsource their thinking rather than doing the thinking by themselves?"* — produced a deliberate
+  pivot **from student tutor to teacher AI coach** (homework auto-correction from a phone photograph, custom
+  exam generation), targeting a personal AI assistant for **every secondary school teacher by 2027**. A rare
+  public narrowing of an African AI education deployment on pedagogical rather than technical grounds, and a
+  useful counter-example to deployment-first framing. See [[capacity.training]]. Source:
+  [[2026-07-16-mauritius-telecom-allmyt-keynote-sovereign-ai-platformafrica]].
 
 ## The critique — ecosystem before infrastructure
 

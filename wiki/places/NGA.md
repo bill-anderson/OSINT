@@ -21,13 +21,17 @@ last_reviewed: 2026-07-20
   — with **data literacy** framed as the distinct and more urgent leadership competence. Lotus
   Bank's treasury head named **late and unpaid school fees** as a central sector problem even at
   established institutions, and described extending financing **to parents** as well as schools.
-  Enugu Commissioner **[[ndubueze-mbah]]** set out **[[enugu-smart-green-schools]]** — **267
+  Enugu Commissioner **[[ndubueze-mbah]]** set out **[[enugu-smart-green-schools]]** — claiming **267
   schools (2026-07-16)** on **solar power**, connected by **satellite plus local internet
   infrastructure** — as the state's answer to urban/rural access asymmetry, naming foundational
   learning, access quality, "the gap in digital interest" and the skills gap as the sector's core
   problems. *Sponsored TechCabal Partner / Press Room placement — an organiser's account of its own
-  event, not independent reporting; the 267-school figure is the Commissioner's own, with no cost,
-  funding source or completion status disclosed.* See [[nigeria--digital-localgov]],
+  event, not independent reporting.* **Corrected 2026-07-20:** the programme is **260 schools**, one
+  per ward; **267** is an unverified state delivery claim. Independent reporting (TheCable,
+  2026-05-17) establishes the budget (**₦266.7bn in 2025, ₦198bn in 2026**) but also that **as of May
+  2026 many schools were incomplete**, with roof collapses, one school demolished (Jul 2025) and an
+  **EFCC** recovery of ₦1.23bn on a terminated ₦11.4bn / 22-school contract. See
+  [[nigeria--digital-localgov]],
   [[nigeria--tech-ai]], [[capacity.literacy]], [[include.divides]], [[infra.energy]]. Source:
   [[2026-07-18-ness-2026-nigeria-education-summit]].
 - **2026-07-17** — **AI reaches the workplace through the landlord: [[decide-ai|Decide]] ×
@@ -333,7 +337,8 @@ _Full dated chronology (2025–mid-2026) lives in the linked source pages and th
   [[codar]] selling venture-financed AI skilling, and [[japan]]/[[unesco-iicba]] equipping
   teacher-training colleges. Full case: [[nigeria--tech-ai]].
 - [[digital.localgov]] · [[infra.energy]] — state-tier build-out: **[[enugu-smart-green-schools]]**
-  (267 solar-powered, satellite-connected schools, 2026-07-16), Lagos MyLagosApp, Abia/ipNX, Benue
+  (**260** ward schools, solar-powered and satellite-connected; incomplete as of 2026-05, procurement
+  under EFCC investigation), Lagos MyLagosApp, Abia/ipNX, Benue
   civil-service skilling. Full case: [[nigeria--digital-localgov]].
 - [[dpi.pay]] · [[finance.new]] · [[finance.mou]] · [[include.divides]] — CBN fintech **passporting**
   blueprint (Ghana/Kenya/Senegal/SA) and Responsible-AI-in-Finance Hub; **[[papss]]–[[onafriq]]**

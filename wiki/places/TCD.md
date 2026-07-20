@@ -40,6 +40,17 @@ the thing to watch.
   sources — attributed, not established.* Source:
   [[2026-03-16 Chad uses national biometric registry to boost govt systems interoperability]]. See
   [[dpi.id]], [[dpi.exchange]], [[dpi.registry]].
+- **2026-04-01** — **The digital portfolio changes hands.** **Haliki Choua Mahamat** was appointed
+  Minister of Telecommunications, the Digital Economy and Digitalisation of the Administration by
+  **décret n°280/PR/PM/2026 of 1 April 2026**, replacing **[[boukar-michel]]**, who had held the
+  post since **January 2024**. Haliki took office at the handover ceremony on **8 April 2026**; the
+  same ceremony installed **Abel Maïna** in a **newly created secrétaire d'État** post. Haliki is a
+  returning minister and a **former Director-General of [[arcep-chad]]** — a regulator moving to the
+  ministry that oversees him. **Same portfolio, successive holders: it was not split or renamed**,
+  and every wiki claim attributed to "the minister" before April 2026 is Boukar Michel's, after it
+  Haliki's. Sources:
+  [[2026-04-01-tchadinfos-remaniement-gouvernement-haliki-choua-mahamat]],
+  [[2026-04-08-portail-td-passation-charges-ministere-telecommunications]]. See [[gov.policy]].
 - **2026-02-13** — **Telecom build-out, and a regulator's verdict.** Minister **[[boukar-michel]]**
   announced 50 new telecom sites in N'Djamena and 50 km of FTTH via state-owned
   **[[sotel-tchad]]** — no timeline, financing or coverage areas given. The **N'Djamena–Mberé**
@@ -71,23 +82,39 @@ the thing to watch.
   expansion; inauguration ceremony held in **Sarh, Moyen-Chari**, December 2025. Michel: "Digital
   must not stop at capitals, it must irrigate territories, connect regions, and unite the nation,"
   and "the sovereignty of a modern state is also measured by its ability to master its digital
-  infrastructures." *PMICE was originally costed at **$180 million**, financed by an **Eximbank
-  whose country of origin the source does not state** (GAP-TCD-003), per a 2023 World Bank
-  document — a superseded estimate, recorded dated, not a contradiction.* Source:
-  [[2026-01-06 Chad invests 175m in national data center and networks]]. See [[infra.store]],
-  [[finance.new]], [[digital.rural]].
+  infrastructures." **The lender is the Export-Import Bank of China** — a concessional loan of
+  **~111.4 billion FCFA over 20 years at 2% (reported 2020-05-08)**, following the Chad–China
+  framework agreement **signed 26 June 2019, ratified 20 August 2019**; **[[huawei]] is the
+  contractor** and Gulf/GOLF Consulting the supervising engineer **(2025-01-10)**. Repayment had
+  **already begun by 19 May 2026**. *The 2023 World Bank document's **$180 million** is an earlier
+  estimate of the same project — supersession, not contradiction; the euro-denominated total is
+  stable (€174m at launch 2020-07, €175.1m at Phase I 2025-12), and the USD figures differ only by
+  exchange rate.* Sources:
+  [[2026-01-06 Chad invests 175m in national data center and networks]],
+  [[2020-05-08-ciomag-tchad-pret-eximbank-chine-tic]],
+  [[2020-07-08-magazinedelafrique-tchad-lancement-pmice-financement-chine]],
+  [[2025-01-10-agenceecofin-tchad-centre-donnees-national-finalisation]]. See [[infra.store]],
+  [[finance.new]], [[digital.rural]], [[geopol.china]].
 - **2025-12-10** — **A digital law in finalisation.** Minister **[[boukar-michel]]** announced
   (9 Dec 2025, at the third Chadian School of Internet Governance) that Chad was **finalising** —
-  not enacting — a digital law incorporating international standards on cybersecurity, data
-  protection and internet governance. On **22 October 2025** the National Assembly approved an
-  ordinance amending the **2014 law** on electronic communications and postal services. *No text or
-  enactment date is held for either (GAP-TCD-002).* Source:
+  not enacting — a **Code du numérique** incorporating international standards on cybersecurity,
+  data protection and internet governance. **It remains unenacted as of 2026-04-28**: successor
+  minister Haliki Choua Mahamat installed a **34-member drafting committee on 27 April 2026** with a
+  45-day deadline. There is no adopted text, number or gazette reference because the instrument does
+  not yet exist. The related ordinance **is** identified: **Ordonnance n°011/PR/2025 of 5 August
+  2025**, amending **Article 18** of **Loi n°013/PR/2014 of 21 March 2014** — ratified by the
+  National Assembly **22 October 2025 (105–31–2)** and the Senate **23 December 2025 (65 of 67)**.
+  **Its scope is narrow**: the conditions for awarding **mobile-operator licences**, not a general
+  modernisation of the telecom code. Sources:
+  [[2025-10-22-toumaiwebmedias-ratification-ordonnance-011-pr-2025-communications-electroniques]],
   [[2025-12-10 Chad Finalizes Digital Law to Align National Framework With Global Standards]]. See
   [[gov.legislate]], [[gov.protect]], [[sovereignty]].
 - **2025-12-24** — **Huawei talks.** Michel met a **[[huawei]]** North Africa delegation led by VP
   Jason Ye on telecoms infrastructure, connected services and administration digitalisation, and
   explored converting the talks into projects aligned with [[tchad-connexion-2030]] — **no
-  agreement signed, no figures, no timeline**. Source:
+  agreement signed, no figures, no timeline**. *Context the reporting omits: Huawei is **not a
+  prospective partner** but the **incumbent contractor** on PMICE, building the national data centre
+  and backbone under China Eximbank finance since **July 2020**.* Source:
   [[2025-12-29 Chad Steps Up Rollout of Tchad Connexion 2030 in Talks With Huawei]]. See
   [[geopol.china]], [[infra.connect]].
 - **2025-12-02** — **Courting everyone.** Chad negotiated a digital partnership with **Azerbaijan**
@@ -149,7 +176,7 @@ how they relate.** They must not be added together, nor treated as versions of e
 | Vehicle | Figure | What it covers |
 |---|---|---|
 | [[tchad-connexion-2030]] | **US$1.5bn** | the national umbrella strategy to 2030 |
-| [[pmice]] | **€175.1m / US$204.7m** | Phase I: National Data Center + 1,200 km fibre + GSM/3G/4G |
+| [[pmice]] | **€175.1m / US$204.7m** | Phase I: National Data Center + 1,200 km fibre + GSM/3G/4G. **China Eximbank loan ~111.4bn FCFA, 20yr @ 2% (2020)**; contractor [[huawei]] |
 | [[chad-digital-transformation-project]] (World Bank, P180000 / PAD00070) | **US$120m** total; SDR 69.5m (**US$92.2m**) IDA grant | concept 27 Feb 2023, board 19 Dec 2023, PAD 4 Sep 2024; Ministry of Telecommunications and Digital Economy |
 
 [[tchad-connexion-2030]] targets (fullest statement, 2026-03-16): ~$1.5bn by 2030; **at least 80%
@@ -227,5 +254,11 @@ background phrasing in an off-topic article, resolved by specificity in favour o
   Nadjma Saleh Kebzabo (ANSICE deputy GM); Hamza Waraki (TECHSO-GROUP); Youssouf Gorou Tchaby
   (ANATS DG); Brahim Ali Seid (ANATS); Saleh Abakar Zene (Ministry of Finance); Fatima Goukouni
   Weddeye (Transport Minister); Salia Gbane (Airtel Chad CEO); Jason Ye (Huawei); William Flens
-  (US chargé d'affaires); ministers Haliki Choua Mahamat and Dr Abdelmadjid Abderahim; Cybastion;
+  (US chargé d'affaires); **Haliki Choua Mahamat** (Telecoms/Digital Economy minister from
+  2026-04-01, ex-DG of ARCEP); Abel Maïna (secrétaire d'État from 2026-04-08); Dr Abdelmadjid
+  Abderahim; Ali Ahmat Akhabache (Public Security, sponsor of the ANSICE ordinance); Cybastion;
   InterSystems; 19Labs; Africa 24 TV.
+
+*Officeholder note: the ministry — not the minister — is the durable actor here. Boukar Michel held
+the portfolio Jan 2024 – 1 Apr 2026; Haliki Choua Mahamat since. Ministerial quotes on this page are
+dated and attributable to whoever held the post at the time.*

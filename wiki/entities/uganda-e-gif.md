@@ -6,7 +6,7 @@ places: [UGA]
 topics: [dpi.exchange, gov.standards, dpi.govtech, data.open]
 status: active
 last_reviewed: 2026-07-17
-sources: [[2021-05-06 Uganda e-Government Interoperability Framework (e-GIF)], [2026-07-17 NITA-Uganda concludes workshop on renewal of government enterprise architecture and interoperability framework]]
+sources: [[2021-05-06 Uganda e-Government Interoperability Framework (e-GIF)], [2026-02-19 NITA-Uganda concludes workshop on renewal of government enterprise architecture and interoperability framework]]
 ---
 
 # Uganda e-Government Interoperability Framework (e-GIF)
@@ -31,15 +31,17 @@ Source: [[2021-05-06 Uganda e-Government Interoperability Framework (e-GIF)]].
 
 ## Activity in this wiki
 
-- **Under renewal (undated clip, `date_source: proxy`).** [[nita-uganda]] concluded a
-  multi-stakeholder workshop on renewing the **Government Enterprise Architecture (GEA)**
-  and the e-GIF, with the **[[e-governance-academy]]**, to reduce duplication of systems
-  and prevent fragmentation across MDAs and local governments. NITA-U's **Brenda
-  Maniraguha**: *"The blueprint ensures government systems are designed to collaborate
-  together and not grow in isolation."* *The clip's date could not be established and
-  defaults to the ingest date (GAP-UGA-004).* See [[gov.standards]], [[geopol.eu]].
-  Source:
-  [[2026-07-17 NITA-Uganda concludes workshop on renewal of government enterprise architecture and interoperability framework]].
+- **Renewed (2026-05-27).** [[nita-uganda]], with the **[[e-governance-academy]]** and
+  [[world-bank]] support, **renewed the e-GIF** alongside the Government Enterprise
+  Architecture — the renewal launched at a Kampala workshop concluded **2026-02-18** and
+  delivered by **2026-05-27**. The renewed e-GIF is built for **secure, standardised,
+  seamless data exchange across government systems**, with the GEA realigned to Uganda
+  Vision 2040; the stated purpose is to reduce duplication and prevent fragmentation across
+  MDAs and local governments. NITA-U's **Brenda Maniraguha**: *"The blueprint ensures
+  government systems are designed to collaborate together and not grow in isolation."*
+  **Rollout is not yet reported** — delivered, not implemented. See [[gov.standards]],
+  [[geopol.eu]]. Sources: [[2026-02-18-ega-uganda-launches-renewal-gea-egif]],
+  [[2026-05-27-ega-uganda-renewed-digital-government-frameworks]].
 
 ## Related
 

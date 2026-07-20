@@ -45,9 +45,23 @@ paid. **The government's arithmetic corroborates the plaintiffs.** Full case:
   Godongwana, 2026-02-25*). SASSA claims **>R300m (~$18.8m) saved since biometric verification**
   (Min. Tolashe, via SABC).
 - **The Smart ID chain, 2025-02 → 2026-01 — plan, repair, outcome.** **Announced (2025-02-04)**:
-  universal access "flat-out", bank branches to scale from **30** toward thousands, on
-  **[[idemia]]**'s **10-year contract including 80 million smart ID cards** — held nowhere else
-  (**GAP-ZAF-003**) — with **full implementation targeted for 2025, missed**. **Extended
+  universal access "flat-out", bank branches to scale from **30** toward thousands, with **full
+  implementation targeted for 2025, missed**. *That same item asserted a **[[idemia]] 10-year contract
+  including 80 million smart ID cards**; **struck as unverified, 2026-07-20** (reconcile pass, ex
+  GAP-ZAF-003). It rests on a single unsourced sentence in a trade aggregator crediting another
+  aggregator, and the record contradicts it: **Smart ID cards are produced in-house by
+  [[government-printing-works]]** (capacity 3–9m cards/yr; the DHA credited GPW, not a vendor, for the
+  4,002,964 issued in 2025), on blank polycarbonate cards contracted in **2013 to Gemalto** (€16m/~R210m,
+  ~3m cards/yr) with **Altech** personalisation machines (R40m). IDEMIA's actual DHA contract is
+  **ABIS** — biometric matching, not cards: R400m awarded to EOH (Dec 2017), **ceded to IDEMIA
+  2021-03-31** over SITA's objection that it bypassed tender, plus a **R191m** completion agreement,
+  **R65m (FY21/22) + R69m (FY22/23)** in milestone fines, NEC Africa litigation (2022-02), Phase 2
+  completed Feb 2024. Its only SA **card-production** contract was for **driving licences** (DoT/DLCA,
+  R898m, 2024-08-08) — declared "irregular, invalid, unlawful and unenforceable" and set aside by the
+  Gauteng North High Court on **2026-01-06**, with printing outsourced to the DHA meanwhile. No award
+  notice, departmental announcement, Treasury record or company statement for a ten-year 80-million-card
+  ID contract exists; 80m cards would also consume a decade of GPW's maximum capacity for a population
+  of ~63m.* **Extended
   (2025-05-12)** to **1.4 million** people previously barred by "unresolved IT system constraints" —
   ~**800,000 naturalised citizens** + ~**700,000 permanent residents**; Schreiber says they had been
   treated as "**second-class citizens**". **Delivered (2026-01-28)**: a record **4,002,964 Smart IDs

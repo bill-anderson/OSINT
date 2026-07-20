@@ -6,7 +6,7 @@ parent: XCA
 place_kind: country
 topics: [dpi.id, dpi.pay, dpi.govtech, dpi.registry, dpi.mis, dpi.exchange, gov.policy, gov.protect, gov.legislate, infra.store, infra.connect, infra.cybersec, tech.innovate, tech.ai, finance.new, finance.mou, include.access, capacity.training, digital.localgov, geopol.usa, geopol.china]
 status: active
-last_reviewed: 2026-07-19
+last_reviewed: 2026-07-20
 ---
 
 # Gabon (GAB)
@@ -19,6 +19,11 @@ substantially on foreign finance and vendors, and dogged by slow disbursement an
 
 ## Recent developments
 
+- **2026-06-02** — **First public CNIE coverage figures.** Interior Minister **Adrien Nguema Mba** tells
+  the National Assembly that **335,384 people have been enrolled** since the 2024 launch, **164,944 cards
+  produced** and **147,224 collected**, leaving **17,720 uncollected**; **92,614 files are in processing**
+  and **78,500 are litigious** (~23% of enrolments). See [[gabon--dpi-id]]. Source:
+  [[2026-06-03-gabon-cnie-enrolment-figures-assembly]].
 - **2026-07-14** — **Two start-up accords, one per named constraint.** The
   **[[ministere-economie-numerique-gabon]]** (Minister **[[mark-alexandre-doumba]]**) signed **two separate
   agreements** on the margins of the launch of **[[kimba-connect]]**, presented as Gabon's **first national
@@ -86,9 +91,21 @@ substantially on foreign finance and vendors, and dogged by slow disbursement an
 ## Active topics
 
 ### Digital identity — [[dpi.id]]
-The CNIE/NIP relaunch (June 2024), supplied by **[[in-groupe]]** with **[[thales]]** on the historical
-registry, is the flagship DPI component and the keystone for the electoral roll and social registry.
-Full treatment: **[[gabon--dpi-id]]**. Key open item: no published enrolment/coverage figure yet.
+The CNIE/NIP relaunch (June 2024) is the flagship DPI component and the keystone for the electoral roll
+and social registry. The vendor split is now established: **[[thales]]** holds the **population registry**
+(IBOGA — won by **Gemalto** on international tender, announced **2012-09-20**, and held by Thales via its
+**2019 acquisition of Gemalto**), while **[[in-groupe]]** holds the **credential** layer (ID Platform
+delivered **2013**, DGDI maintenance-and-supply partnership **Nov 2015**). The two are routinely confused
+because the companies traded identity assets **both ways** — IN Groupe bought Thales's Identity &
+Biometrics arm in **2017**, Thales bought Gemalto in **2019**. **No primary contract award for the 2024
+CNIE itself has been found for either vendor (as of 2026-07-20).**
+**Coverage (2026-06-02):** **335,384 enrolled** since the 2024 launch, **164,944 cards produced**,
+**147,224 collected**, **17,720 uncollected**, **92,614 files in processing** and **78,500 litigious**
+(~23% of enrolments) — Interior Minister **Adrien Nguema Mba** to the National Assembly. These are CNIE
+enrolments, **not** NIP holders; the World Bank "% of 16+ with a NIP" indicator still has no value above
+its **zero baseline (Dec 2024)**. Full treatment: **[[gabon--dpi-id]]**. Sources:
+[[2026-06-03-gabon-cnie-enrolment-figures-assembly]], [[2012-09-20-gemalto-gabon-biometric-national-registry]],
+[[2015-11-25-in-groupe-gabon-dgdi-secure-titles-partnership]].
 
 ### Public finance, payments & govtech — [[dpi.pay]] · [[dpi.govtech]]
 A three-part PFM stack: **[[digitax-gabon]]**/e-tax (revenue, DGI — ≥80% of tax revenue now digital),
@@ -106,8 +123,11 @@ indicators.
 
 ### Strategy, governance & data protection — [[gov.policy]] · [[gov.protect]] · [[infra.cybersec]]
 "Gabon Digital"/eGabon strategy under the [[digital-gabon-project]] ([[gabon--dpi-govtech]]); a 2025
-digital-sovereignty ordinance (JO Sept 2025); the **[[apdpvp-gabon|APDPVP]]** data-protection authority (2026
-DGMP data-destruction enforcement); a cyber posture via **ANINF** (SecBOM, ANINF–**MITRE** US cooperation,
+digital-sovereignty ordinance (JO Sept 2025); a data-protection regime running from **loi n°001/2011**
+(promulgated **25 Sept 2011**, creating the CNPDCP), amended by **ordonnance n°00002/PR/2020**
+(**31 Jan 2020**) and by **loi n°025/2023** (adopted **9 July 2023**, promulgated **12 July 2023**,
+*JO* n°218 *Bis* of **15 July 2023**), whose **art. 7 created the [[apdpvp-gabon|APDPVP]]** — the
+authority behind the 2026 DGMP data-destruction enforcement; a cyber posture via **ANINF** (SecBOM, ANINF–**MITRE** US cooperation,
 Interpol Serengeti 2.0, soft-power-hub strategy) — see [[gabon--infra-cybersec]]. Benchmarks (2024-25):
 **EGDI 121st/193 (0.5741)**; **ITU IDI 76.1/100 (11th of 42 in Africa)**; **ITU GCI 2024 Tier 4
 (39.86/100)** — strong on legal, weak on technical/organisational.

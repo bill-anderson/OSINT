@@ -6,7 +6,7 @@ parent: XEA
 place_kind: country
 topics: [dpi.id, gov.protect, dpi.govtech, dpi.pay, dpi.exchange, dpi.registry, dpi.mis, infra.connect, digital.rural, gov.policy, gov.legislate, gov.standards, gov.regional, tech.ai, include.access, include.divides, tech.innovate, finance.new, data.statistics]
 status: active
-last_reviewed: 2026-07-18
+last_reviewed: 2026-07-20
 ---
 
 # Burundi (BDI)
@@ -23,6 +23,28 @@ One of the **world's poorest countries building digital public infrastructure al
 - **2026-01** — **e-KORI tax platform + first data-protection law.** The OBR launched **e-KORI** (19 Jan) for online tax declaration/payment; the National Assembly adopted Burundi's first **[[burundi-data-protection-law-2026|data-protection law]]** (15 Jan), creating an independent authority — explicitly to enable the biometric ID. Sources: [[2026-01-20-burundi-revenue-authority-e-kori-digital-tax-platform]], [[2026-01-16-burundi-personal-data-protection-law-techafricanews]].
 - **2025-11** — **National Data Governance Strategy + AI diagnostic.** Burundi validated its first **SNGD** (seven pillars; UNECA-supported; treats data as a public good, [[au-data-policy-framework]]-aligned) and ran an **AILA/EPIA AI-readiness workshop** ([[undp]]). Sources: [[2025-11-14-burundi-adopts-national-data-governance-strategy]], [[2025-11-25-atelier-national-paysage-intelligence-artificielle-burundi]].
 - **2025-09→10** — **Connectivity crisis; cash dominance; EAC statistics bureau.** Reporting exposed severe outages tied to power/fuel/forex shortages and a struggling ONATEL; the BRB's Q2 data showed digital payments growing but **deposits/withdrawals ~45%** of value with high wallet dormancy; EALA passed the **EAC Statistics Bureau** bill (Burundi-amended). Sources: [[2025-09-10-unreliable-connectivity-impacts-burundi-citizens]], [[2025-09-29-burundi-digital-payments-growth-cash-dominates]], [[2025-10-10-eala-endorses-eac-regional-statistics-bureau]].
+- **2024-11-19** — **Vietnam MoU signed; nothing concrete has followed.** Burundi's **Ministry of
+  Communication, ICT and Media** (Minister **Léocadie Ndacayisaba**) and **Vietnam's Ministry of
+  Information and Communications** (Minister **Nguyen Manh Hung**) signed a memorandum of understanding
+  on telecommunications-technology cooperation, on the sidelines of **Vietnam International Digital
+  Week 2024** in Hanoi. **What it commits is thin**: cooperation intent on digital transformation,
+  digital economy and workforce training, plus **scholarships of up to $10,000 each** and short online
+  courses; no financing, no infrastructure commitment, no project, no timetable. The substantive
+  business in the room was **[[lumitel]]** — the Viettel-owned incumbent, stated to have paid **>$500m
+  in taxes** to Burundi since establishment — with Vietnam's specific asks (rural network expansion,
+  **5G spectrum allocation**, extended investment incentives, a telecom tax-reduction roadmap) sitting
+  **outside** the MoU. Read plainly, the instrument is diplomatic packaging around an existing
+  Vietnamese commercial position in Burundi's telecom market; an independent account called the
+  collaboration *"only at the stage of exchanges and exploratory discussions"* (2024-11-20). **Follow-up
+  as of 2026-07-20: none in the digital sector.** ICT was named one of five priority sectors at
+  President **Ndayishimiye's state visit to Hanoi on 4 April 2025** — the first at that level in 50 years
+  of relations, at which a **General Cooperation Agreement** and an **MoU on Political and Diplomatic
+  Consultations** were signed, with technical teams tasked to draft sector agreements later — but **no
+  digital sector agreement has been reported since**. *Provenance asymmetry worth recording: every
+  account of the November 2024 MoU is Vietnamese-side or third-party; **no Burundian-side announcement
+  was found**. (GAP-BDI-002 resolved 2026-07-20.)* Source:
+  [[2024-11-20-vietnam-burundi-mou-telecom-technology]]. See [[gov.regional]], [[infra.connect]],
+  [[capacity.training]], [[finance.mou]], [[sovereignty]].
 - **2025-01→06** — **EAC digital integration + foundations.** Burundi joined the EAC **One Network Area** and ratified the **Regional Digital Integration** protocol ([[arct-burundi]]); the BRB set a (slipping) full-digitalisation aim; **land services** went digital ([[mediabox]]/DTFCN); **Merankabandi** migrated to **[[openimis]]** (1.25m beneficiaries); OBR ran regional tax-digitalisation exchanges. Sources: [[2025-01-21-burundi-embraces-eac-digital-integration-ict-growth]], [[2025-06-18 Burundi's Land Services Go Digital with New Integrated Platform]], [[2025-06-25-burundi-regional-cooperation-digital-tax-reforms]].
 
 ## Active topics
@@ -34,7 +56,7 @@ One of the **world's poorest countries building digital public infrastructure al
 - **AI** ([[tech.ai]]) — a six-pillar **National AI Strategy 2026–2030** ([[ministry-of-finance-budget-and-digital-economy-burundi]], [[undp]]), preceded by an AILA readiness diagnostic.
 - **Registries** ([[dpi.registry]], [[dpi.mis]]) — digitised land cadastre ([[mediabox]]/DTFCN) + a contested electronic land-title fee; social protection **[[merankabandi]]** on **[[openimis]]**; health supply chain on **[[elmis-medexis]]**.
 - **Connectivity** ([[infra.connect]], [[digital.rural]]) — the **[[pafen-burundi]]** Digital Foundations Project ($92m WB): rural 4G via **[[lumitel]]** and **[[onatel-burundi]]**, regulated by **[[arct-burundi]]**; new entrant **[[lyca-mobile]]**; [[starlink]] priced out; severe power/forex-driven outages.
-- **Regional** ([[gov.regional]]) — EAC ([[eac]], [[XEA]]) member: One Network Area, the **[[eardip]]** data-sharing framework, EAC Statistics Bureau; also ECCAS ([[eccas]]). Source: [[2025-04-01 Regional Harmonization of Remittance Policies in ECCAS - Burundi]].
+- **Regional & bilateral** ([[gov.regional]], [[finance.mou]]) — EAC ([[eac]], [[XEA]]) member: One Network Area, the **[[eardip]]** data-sharing framework, EAC Statistics Bureau; also ECCAS ([[eccas]]). Source: [[2025-04-01 Regional Harmonization of Remittance Policies in ECCAS - Burundi]]. Bilaterally, a **Vietnam telecom-technology MoU (19 Nov 2024)** that has produced no reported digital follow-through as of 2026-07-20, and **[[india-stack]]** talks (Jun 2026) — a pattern of **cooperation instruments outpacing delivery**.
 
 ## Entities
 
@@ -44,7 +66,7 @@ One of the **world's poorest countries building digital public infrastructure al
 **Instruments:** [[burundi-data-protection-law-2026]] · [[india-stack]]
 **Resources:** [[openimis]] · [[elmis-medexis]]
 **Partners:** [[world-bank]] · [[ifc]] · [[undp]] · [[eac]] · [[eccas]] · [[starlink]]
-Mentioned, not hubbed: MINCOTIM, MFBPE, DTFCN, ABREMA, BERNET, i+Solutions, TradeMark Africa, Régideso, Econet, OLUCOME, IGAD, opposition parties (CNL/UPRONA), Imbonerakure/CNDD-FDD.
+Mentioned, not hubbed: MINCOTIM, MFBPE, DTFCN, ABREMA, BERNET, i+Solutions, TradeMark Africa, Régideso, Econet, OLUCOME, IGAD, opposition parties (CNL/UPRONA), Imbonerakure/CNDD-FDD; Ministry of Communication, ICT and Media (Min. Léocadie Ndacayisaba); Vietnam Ministry of Information and Communications (Min. Nguyen Manh Hung); Viettel (Lumitel's parent).
 
 ## Notes
 

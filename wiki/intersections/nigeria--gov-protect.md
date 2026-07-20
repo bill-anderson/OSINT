@@ -5,11 +5,11 @@ place: NGA
 topic: gov.protect
 places: [NGA]
 topics: [gov.protect, gov.legislate, gov.policy, infra.store, dpi.pay, dpi.exchange, geopol.usa, capacity.training, infra.cybersec]
-entities: [[cbn], [ndpc], [meta], [ndpc-meta-settlement], [nitda], [ncc], [bosun-tijani], [inec], [digital-rights-lawyers-initiative], [fccpc]]
+entities: [[cbn], [ndpc], [multichoice-nigeria], [meta], [ndpc-meta-settlement], [nitda], [ncc], [bosun-tijani], [inec], [digital-rights-lawyers-initiative], [fccpc]]
 lens: [sovereignty, colonialism]
 status: active
-last_reviewed: 2026-07-19
-sources: [[2026-07-07 CBN's local data order puts Nigeria's data centres to test], [2026-06-09 Meta backs NDPC in landmark privacy initiative], [2026-06-17 Government data silos threaten Nigeria's AI ambitions], [2026-07-08 FG Halts Enforcement of New Regulations on Internet Platforms], [2026-07-10 CBN's Data Localisation Directive Puts Nigerian Fintechs In A Cloud Dilemma], [2026-07-10 FIJ Showed That INEC Broke Data Law. Digital Rights Lawyers Sue the Commission 10 Months Later], [2025-03-24-ndpc-probes-tiktok-truecaller], [2025-04-30-nigeria-joins-global-cbpr-privacy-forum], [2025-05-06-mastercard-ndpc-informal-sector-dpo], [2025-05-07-nigeria-virtual-privacy-academy], [2025-08-25-ndpc-probes-1369-organisations], [2026-02-06-ncc-ndpc-data-protection-mou], [2026-02-16-ndpc-probes-temu-data-protection], [2026-02-23-ndpc-probes-schools-data-privacy], [2026-04-07-ndpc-investigates-remita-sterling-breach], [2026-05-02-ndpc-4000-weekly-cyberattacks-data-localisation], [2025-03-19-senate-social-media-legislation]]
+last_reviewed: 2026-07-20
+sources: [[2026-07-07 CBN's local data order puts Nigeria's data centres to test], [2026-06-09 Meta backs NDPC in landmark privacy initiative], [2026-06-17 Government data silos threaten Nigeria's AI ambitions], [2026-07-08 FG Halts Enforcement of New Regulations on Internet Platforms], [2026-07-10 CBN's Data Localisation Directive Puts Nigerian Fintechs In A Cloud Dilemma], [2026-07-10 FIJ Showed That INEC Broke Data Law. Digital Rights Lawyers Sue the Commission 10 Months Later], [2025-03-24-ndpc-probes-tiktok-truecaller], [2025-04-30-nigeria-joins-global-cbpr-privacy-forum], [2025-05-06-mastercard-ndpc-informal-sector-dpo], [2025-05-07-nigeria-virtual-privacy-academy], [2025-08-25-ndpc-probes-1369-organisations], [2026-02-06-ncc-ndpc-data-protection-mou], [2026-02-16-ndpc-probes-temu-data-protection], [2026-02-23-ndpc-probes-schools-data-privacy], [2026-04-07-ndpc-investigates-remita-sterling-breach], [2026-05-02-ndpc-4000-weekly-cyberattacks-data-localisation], [2025-03-19-senate-social-media-legislation], [2025-07-06-ndpc-multichoice-fine-statement]]
 ---
 
 # Nigeria × Data Protection
@@ -82,6 +82,26 @@ sanctions).
   educational institutions** (Feb 2026), each demanding 2024 audit returns, a DPO, a
   safeguards summary, and registration as a Data Controller/Processor of Major Importance.
   Sources: [[2025-08-25-ndpc-probes-1369-organisations]], [[2026-02-23-ndpc-probes-schools-data-privacy]].
+- **MultiChoice — ₦766,242,500, the largest NDPC fine to date (announced 2025-07-06).** The NDPC
+  fined **MultiChoice Nigeria** (DStv/GOtv) **₦766,242,500** (~**US$501,340**) for breaching the
+  [[nigeria-data-protection-act-2023]], on an investigation opened in **Q2 2024**. Findings: it
+  violated the privacy rights of **subscribers and of non-subscribers** ("their friends who are not
+  necessarily subscribers"); it carried out **illegal cross-border transfer** of Nigerian data
+  subjects' personal data; and its processing was "patently intrusive, unfair, unnecessary and
+  disproportionate", framed as "a grave affront to fundamental right to privacy as enshrined in
+  section 37 of the 1999 Constitution". The penalty was expressly imposed **"for want of
+  cooperation"** — remediation directed under the standard procedure was judged unsatisfactory —
+  which makes it the clearest illustration of the remediation-first model's sanction endpoint.
+  National Commissioner **Vincent Olatunji** further directed that **all outlets** through which
+  MultiChoice collects Nigerians' data be investigated. The statement was signed by **Babatunde
+  Bamigboye**, Head, Legal, Enforcement & Regulations. **Whether the fine was paid, contested or
+  varied is not established as of 2026-07-20.** *Enforcement-transparency caveat:* the
+  **Foundation for Investigative Journalism** filed an FOI request on **2025-07-09** for the extent
+  of the violations and the remedial instructions issued; the NDPC acknowledged receipt but had
+  **not responded** more than two weeks later, past the seven-working-day limit in the FOI Act 2011
+  — so the detailed findings behind Nigeria's largest data-protection penalty remain unpublished.
+  See [[sovereignty]], [[dpi.exchange]]. Source:
+  [[2025-07-06-ndpc-multichoice-fine-statement]].
 - **Multinational probes.** **TikTok & Truecaller** (Mar 2025), **Temu** (Feb 2026 —
   ~12.7m Nigerian data subjects; online surveillance, data minimisation, cross-border
   transfer), and a **Remita / Sterling Bank** breach investigation (Apr 2026). Sources:

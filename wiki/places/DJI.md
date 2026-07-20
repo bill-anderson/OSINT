@@ -6,7 +6,7 @@ parent: XEA
 place_kind: country
 topics: [infra.connect, infra.store, gov.protect, dpi.exchange, tech.ai, gov.policy, gov.regional, include.divides, dpi.id, dpi.pay, dpi.govtech, infra.cybersec, tech.innovate, capacity.training, gov.legislate, data.statistics, data.open, geopol.china]
 status: active
-last_reviewed: 2026-07-18
+last_reviewed: 2026-07-20
 ---
 
 # Djibouti (DJI)
@@ -105,7 +105,9 @@ transit position.
   2024–2030, and the statutory **[[national-cybersecurity-authority-djibouti|ANC]]** (Loi n° 195/AN/25,
   operational Dec 2025; nucleus = ANSIE's DSSI).
 - [[dpi.pay]] — **[[smart-wallet-djibouti|Smart Wallet]]** (Visa/Tech5) and Djibouti Telecom's
-  D-Money. See [[djibouti--dpi-pay]].
+  **D-Money** (wallet launched **June 2020**; **first online payment gateway 10 December 2023**, with
+  port-community integration among its use cases; new app with biometric login **26 September 2024**).
+  See [[djibouti--dpi-pay]].
 - [[dpi.govtech]] — G2B one-stop platform; World Bank GovTech operations (customs/ASYCUDAWorld).
 - [[tech.ai]] · [[gov.policy]] — first national AI strategy (**[[djibouti-ai-strategy]]**, ESCWA/UNESCO)
   under **[[vision-djibouti-2035]]** "Smart Nation"; ITU/Smart Africa/China support sought.

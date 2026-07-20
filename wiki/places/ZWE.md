@@ -142,13 +142,25 @@ doubles as the data protection authority** — there is no separate DPA.
   elsewhere held **as nominee or in trust**. *This settles the "is InfraCo new?" question: neither newly
   founded nor a simple rename, but a legal consolidation across several SPVs into a renamed existing
   vehicle.* *Residual, unresolved: the 2025-12-15 cautionary names "Econet Infrastructure Company Limited",
-  a name absent from the record after 2025-12-24.* *A separate question is now open on whether the
-  Zimbabwean DPA is the same company as the Cassava-linked [[distributed-power-africa]] in South Africa —
-  the two records are not merged.* See [[infra.store]], [[infra.energy]], [[tech.industry]],
+  a name absent from the record after 2025-12-24.* ***Resolved 2026-07-20 — the Zimbabwean DPA is not the
+  South African one.*** The DPA name attaches to **three distinct registered companies** of common Econet
+  origin: the pan-African operating business ("a business of [[cassava-technologies]]"); **DPA Southern
+  Africa (Pty) Ltd**, a South African **50:50 DPA–[[edf]] joint venture** (formed 2022-05-24) that is the
+  actual counterparty to the Africa Data Centres solar-wheeling PPAs; and **Distributed Power Africa
+  (Private) Limited**, the Zimbabwe-registered EWZL subsidiary described here. The Cassava and EWZL arms
+  have been separately owned since Cassava's launch on **2021-11-10**, which explicitly left Econet's
+  mobile businesses outside it. **The South African solar history does not belong to
+  [[econet-infraco]]**; the Zimbabwean power business is now branded **Distributed Power Zimbabwe (DPZ)**
+  inside InfraCo. *No registry extract or group-structure chart is held for any of the three; the
+  original **Econet InfraCo Pre-Listing Statement of 2026-02-04** would settle the chain and is not
+  held.* See [[distributed-power-africa]]. See [[infra.store]], [[infra.energy]], [[tech.industry]],
   [[finance.new]]. Sources:
   [[2025-12-15-econet-wireless-zimbabwe-further-cautionary-announcement]],
   [[2025-12-24-econet-notice-completion-infrastructure-restructuring]].
-- **2025-11** *(date proxy)* — **DataReportal Digital 2026: the offline majority.** At
+- **2025-11-08** — **DataReportal Digital 2026: the offline majority.** *(Publication date confirmed
+  2026-07-20 against the publisher's own page: DataReportal **changed its publication cycle** for the
+  2026 series, publishing at end-2025 with **October-2025** data. The date is no longer a proxy, and the
+  Feb/Mar house precedent describes only the superseded cycle — see [[datareportal]].)* At
   **end-2025**: **6.54m internet users, 38.4% penetration**, up 1.9% YoY but with the
   **adoption rate unchanged** — growth tracking population, not inclusion. **10.5m (61.6%)
   offline**; **16.2m mobile connections = 95.0%** of a **17.0m** population, **67.1% rural**;

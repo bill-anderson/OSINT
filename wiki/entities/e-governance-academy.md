@@ -6,7 +6,7 @@ places: [XGL, TUN, UGA]
 topics: [dpi.exchange, dpi.govtech, gov.standards, capacity.training, geopol.eu]
 status: active
 last_reviewed: 2026-07-17
-sources: [[2025-03-01 Tunisia drives digitization agenda forward while navigating risks], [2026-07-17 NITA-Uganda concludes workshop on renewal of government enterprise architecture and interoperability framework]]
+sources: [[2025-03-01 Tunisia drives digitization agenda forward while navigating risks], [2026-02-19 NITA-Uganda concludes workshop on renewal of government enterprise architecture and interoperability framework]]
 ---
 
 # e-Governance Academy (eGA)
@@ -24,14 +24,15 @@ governance ideas travel into African state-building**.
   existing building blocks into a well-functioning digital identity ecosystem. See [[TUN]],
   [[e-houwiya]]. Source:
   [[2025-03-01 Tunisia drives digitization agenda forward while navigating risks]].
-- **Uganda (GEA / e-GIF renewal workshop, date unestablished).** **[[nita-uganda]]** concluded a
-  multi-stakeholder workshop on renewing Uganda's **Government Enterprise Architecture** and the
-  **[[uganda-e-gif]]**, *in collaboration with the e-Governance Academy*, drawing representatives
-  from public entities across ministries, departments, agencies and local governments. NITA-U's
-  **Brenda Maniraguha**: *"The blueprint ensures government systems are designed to collaborate
-  together and not grow in isolation."* *The source carries no establishable date (GAP-UGA-004), so
-  this is undated activity rather than a dated development.* See [[UGA]], [[dpi.exchange]]. Source:
-  [[2026-07-17 NITA-Uganda concludes workshop on renewal of government enterprise architecture and interoperability framework]].
+- **Uganda (GEA / e-GIF renewal, 2026-02-18 → 2026-05-27).** eGA and **[[nita-uganda]]** developed
+  Uganda's **Government Enterprise Architecture** and **[[uganda-e-gif]]** in **2021**, and — with
+  [[world-bank]] support — **renewed both at the five-year mark**. A multi-agency workshop in Kampala
+  concluded **2026-02-18**; NITA-U's **Brenda Maniraguha**: *"The blueprint ensures government systems
+  are designed to collaborate together and not grow in isolation."* The renewed frameworks were
+  **delivered by 2026-05-27**, aligned to Uganda Vision 2040, with awareness and engagement workshops
+  run to prepare institutions for rollout. See [[UGA]], [[dpi.exchange]]. Sources:
+  [[2026-02-18-ega-uganda-launches-renewal-gea-egif]],
+  [[2026-05-27-ega-uganda-renewed-digital-government-frameworks]].
 
 ## Why it matters analytically
 

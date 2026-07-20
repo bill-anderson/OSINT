@@ -245,6 +245,28 @@ Investment flowing into African digital transformation. (A *specific* transactio
   retaining Disrupt Africa as a named floor series. **Never write a bare "Africa raised $X in 2025".**
   Sources: [[2026-01-22-partech-africa-tech-vc-report-2025]],
   [[2026-02-03-disrupt-africa-tech-startups-funding-report-2025]].
+- **CY2025 equity: two trackers, opposite signs — and the disagreement is in the 2024 denominator
+  (resolved 2026-07-20).** **Partech** reports African tech equity **up 8% to US$2.41bn** across 462 deals
+  (published 2026-01-22); **AVCA** reports African venture equity **down 21% to US$2.1bn** across 432 deals
+  (*Venture Capital in Africa Report*, Feb 2026). Opposite **directions** on nominally the same quantity.
+  **It is not a revision.** Partech's 2024 equity base is **US$2.2bn**, as published 2025-01-23 and
+  unchanged. AVCA's 2025 report **does not print the base its −21% is taken from**; derived from its own
+  figures (2024 total US$3.6bn; 2025 debt US$1.8bn at +91% ⇒ 2024 debt ≈US$0.94bn) it is **≈US$2.7bn**, and
+  the −21% reproduces from it exactly. So the two 2025 levels differ by ~US$0.3bn but the two **2024** bases
+  differ by ~**US$0.46bn** — and that earlier, larger gap is what flips the sign. **Neither year-on-year
+  figure should ever be quoted without its base.** Partech's scope is stated: tech & digital equity
+  **≥US$200K**, Late Seed→Growth, geography by **primary market of operations/revenue, explicitly not HQ**,
+  equity and debt reported separately, and **confidential rounds included**. AVCA's is not: its methodology
+  page (p. 41) is **not held** — routed to acquisitions — though the report is explicit that US$2.1bn is
+  equity only, excluding venture debt. A residual anomaly stays open and is flagged as a hypothesis, not a
+  finding: AVCA's universe looks **wider** than Partech's (it carries a distinct "technology penetration"
+  section, so tech is a subset of its count, and it states no size floor), which should put AVCA above
+  Partech in both years — it is in 2024 but not 2025. The best-evidenced candidate is **treatment of
+  undisclosed rounds**: Partech imputes value for confidential deals, and AVCA's own Q3 2025 note flagged
+  "a surge of undisclosed deals suggests capital is still flowing albeit less transparently". Cite Partech
+  for **African tech venture**, AVCA for **African venture as an asset class** (it alone carries exits,
+  fundraising and LP composition). Sources: [[2026-01-22-partech-africa-tech-vc-report-2025]],
+  [[2026-02-01-avca-venture-capital-in-africa-report-2025]].
 - **Target ≠ committed ≠ first close.** The [[botswana-tech-fund|Botswana Tech Fund]]'s own launch release
   (**2026-04-21**) says "a **targeted** £50 million… with a first close in Q2/2026"; coverage restated the
   target as a raised "$67.5m fund". Committed was **£10m**, first close **£5m** (as of 2026-04-27). Source:

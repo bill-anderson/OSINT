@@ -8,7 +8,7 @@ topics: [dpi.id, dpi.registry, dpi.pay, gov.legislate, gov.regional, include.acc
 entities: [[anid-togo], [e-id-togo], [novissi], [inseed-togo], [wuri-programme], [mosip], [world-bank], [ipdcp-togo], [ceni-togo]]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-19
+last_reviewed: 2026-07-20
 sources: [[2023-12-21 ISR - WURI Phase 2 Seq 7 (P169594)], [2024-03-06 1 step forward, 3 steps back for West Africa's regional digital ID projects], [2025-11-19 Togo Advances Digital ID Program With New Enrollment Phase in Maritime Region], [2025-10-30 Senegal Benchmarks Togo's e-ID System for Digital Transformation], [2025-11-03 Senegal taps inspiration from Togo's digital ID experience], [2023-01-01 Case Study - G2PX in Togo, End-to-End Digital G2P (World Bank)], [2026-05-28 Why decentralized digital identity looks different in every country], [2026-04-23-togo-6-millions-niu-fin-2025], [2026-04-27-biometricupdate-togo-6m-niu-mosip], [2025-08-12-togo-enregistrement-biometrique-agoe-nyive], [2026-01-23-identification-biometrique-zio-18-fevrier], [2026-05-11-anid-plateaux-ouest-enregistrement], [2026-07-17-togo-world-bank-vision-2040-financement]]
 ---
 
@@ -27,8 +27,10 @@ NIUs issued as of end-2025** (GAP-TGO-002 resolved).
 (NIU)** — intended as a single access key to public, private and social services
 (education, social security, pensions, finance, health, vaccination, monetary
 transfers) and as the consolidation point for a central population database. Togo
-**signed the MOSIP MoU in 2021**, and a Biometric Update explainer records **6 million
-unique numbers issued (as of May 2026)**. Enrolment is financed by the
+**signed the MOSIP MoU in 2021**, and **over 6 million people held a NIU and a biometric card at
+end-December 2025** (see "The 6-million milestone" below — the figure rests on the Togolese
+government's own S2-2025 reform report, not on the undated Biometric Update explainer that first
+carried it into this wiki). Enrolment is financed by the
 **[[world-bank]]** under **WURI-Togo** ([[wuri-programme]]). Sources:
 [[2025-11-03 Senegal taps inspiration from Togo's digital ID experience]],
 [[2026-05-28 Why decentralized digital identity looks different in every country]],
@@ -56,6 +58,22 @@ with a secure QR code** — enrolled through nationwide ANID campaigns across Gr
 under the Ministry of Public-Service Efficiency & Digital Transformation. It is the first cumulative
 figure on file, closing the earlier gap. Sources: [[2026-04-23-togo-6-millions-niu-fin-2025]],
 [[2026-04-27-biometricupdate-togo-6m-niu-mosip]].
+
+**What the counter counts (checked 2026-07-20).** Elsewhere in this corpus *enrolled*, *NIN/NIU issued*
+and *card in hand* diverge sharply and must be kept apart. In Togo they do **not**: the source states
+that in each zone residents received *"à la fois une carte biométrique et un numéro unique"* — the
+QR-coded card is handed over at the enrolment campaign itself, so the three collapse into **one
+counter**. The figure is therefore a **credential-in-hand** count, and no published figure separates
+the three. Two honesty caveats: *"plus de 6 millions"* is a **rounded floor**, not a precise count; and
+against Togo's **9.62m** population (Jan 2025) and the **8m** programme target this is roughly **62% of
+the population** and **~75% of target** — advancing, not near-universal.
+
+**A sub-national datapoint (do not sum with the national total).** In the first phase in **Golfe
+prefecture**, ANID enrolled **1,410,135 people — 108% of an initial target** set at 90% of the 1.305m
+residents counted at RGPH-5, before moving to Agoè-Nyivé at a 120% target (reported 2025-08-14). This
+is a **per-prefecture campaign figure** and is already inside the national 6m; it is carried as
+evidence the campaigns over-perform their targets. *Held here from reconcile research only — the
+underlying report is not yet a source of record.*
 
 ## Geographic rollout (2025-2026)
 

@@ -91,6 +91,18 @@ The third is **evidentiary**: the headline numbers disagree. Penetration spans *
   AI/cloud build delivered by the Chinese vendor that built the earlier Zambia National Data Centre
   (colonialism lens). Source: [[2026-06-08-zambia-huawei-ai-sovereignty-partnership]]. See [[infra.store]],
   [[tech.ai]], [[geopol.china]].
+- **2026-04-27** — **"Care 2.0" settled: it is SmartCare 2.0, the hospital tier of the same
+  EHR.** [[smart-zambia-institute]], the [[ministry-of-health-zambia|MoH]] and
+  [[ihm-southern-africa]] launched the **SmartCare 2.0 – Hospital Edition pilot** at **Ndola
+  Teaching Hospital**, extending to **Arthur Davison Children's** and **Kitwe Teaching**
+  hospitals. The GovLink coverage's "**Care 2.0**" is a **truncation of SmartCare 2.0** — not a
+  second platform, not a rename of **[[smartcare-pro]]**, and not its replacement: SmartCare is a
+  **twenty-year lineage** (approved as the MoH standard in **2005**; Legacy → **Plus, 2017** →
+  **Pro, launched 2023-11-21**), and 2.0 is the **tertiary/specialised-hospital tier** running
+  alongside Pro's **2,000+ facilities**. Government CTO **Kasali Musenge** called it "**locally
+  developed and owned**" — the vendor-independence framing again. **Open:** whether SmartCare 2.0
+  shares Pro's fingerprint enrolment or the MOSIP/[[inris]] identifier is **not established**.
+  Source: [[2026-04-28-zambia-smartcare-2-0-ndola-pilot]].
 - **2026-04-04** — **Chinese surveillance.** An IDS survey lists **Lusaka** among Chinese-supplied
   ([[hikvision]]/[[zte]]/[[huawei]]) smart-city deployments — mass surveillance **despite no terrorism
   threat** and **without adequate legal oversight**. Source:
@@ -191,12 +203,27 @@ The third is **evidentiary**: the headline numbers disagree. Penetration spans *
   published the *Digital 2026* series at end-2025, so these are **October-2025** readings. *Cited, not
   absorbed.* This is the source of record for the **33.0%** figure carried under *Contested figures*.
   Source: [[2025-11-08-digital-2026-zambia-datareportal]].
-- **2025-10-03** — **Refugee biometric IDs, an MVNO tender, a TBI MoU.** **[[zrhcp]]** launched with
-  **$30m** ([[world-bank]] IDA20 Window for Host Communities and Refugees) plus [[unhcr]] technical
-  support: biometric **NRCs for refugees and former refugees**, plus schools, clinics, water and roads;
-  **112,000** refugees and forcibly displaced persons (2025-10); completion **end-October 2028**.
-  Separately, an **MVNO contract under a PPP** is being tendered and a [[tony-blair-institute]]/[[undp]]
-  MoU signed. Source:
+- **2025-11-20** — **The TBI–UNDP MoU, dated and signed.** [[tony-blair-institute]] and
+  [[undp]] signed an MoU **in Lusaka**, by UNDP Resident Representative **Dr James Wakiaga**
+  and TBI Country Director **Maria Mkandawire**, covering digital transformation and digital
+  inclusion, public-sector capability, SDG-aligned investment promotion, **resilient health
+  systems** (technology-enabled delivery, rural health-facility electrification, improved data
+  systems) and climate-resilient agriculture. **Note what it is and is not**: a **bilateral
+  between two external organisations** to coordinate their *support to* government — the
+  Government of Zambia is **not a party**, though the areas were "identified jointly" with it.
+  **No value, duration or termination terms disclosed; the text is unpublished.** The pattern is
+  the analytically live part: UNDP signed a near-identical MoU with TBI in **Angola on
+  2025-06-23**, on a collaboration begun in 2024 — TBI is placing country directors alongside
+  UNDP resident representatives across Southern Africa, an advisory layer between donor and
+  state that no Zambian institution commissioned. *(Date discrepancy inside the primary: stamped
+  20 November, datelined 21 November.)* See [[gov.policy]], [[finance.mou]], `colonialism`.
+  Source: [[2025-11-20-undp-tbi-mou-zambia]].
+- **2025-10-03** — **Refugee biometric IDs, and an MVNO tender that was never confirmed.**
+  Secondary re-report; see **2024-09-27** for **[[zrhcp]]**'s actual approval. Its contribution
+  is the **112,000** refugees and forcibly displaced persons figure (2025-10) and the statement
+  that SZI's E-Government Division was "**taking proposals as it prepares to tender**" an
+  **MVNO contract under a PPP** — a pre-tender stage for which **no reference, value, bidder or
+  outcome has been found** (see *Untracked threads*). Source:
   [[2025-10-03 Zambia plans domestic digital ID development with help from international partners]].
 - **2025-09-11** — World Bank appraised **[[dzap]]**: **US$100M IDA grant** (+US$20M commercial) for
   connectivity, DPI and skills, implemented by [[smart-zambia-institute]] under [[idea-mpa]];
@@ -251,15 +278,54 @@ The third is **evidentiary**: the headline numbers disagree. Penetration spans *
   **145+ offices across 10 provinces** needing Data Protection Act training; reform of the National
   Registration and Citizenship Acts; refugee inclusion. Source:
   [[2024-09-17 DPI Safeguards come online in Zambias next phase of digital integration]].
+- **2024-09-27** — **[[zrhcp]] approved — the real date, and the ProGres transfer.** The
+  [[world-bank]] Board approved the **Zambia Refugee and Host Communities Project** (P503941) on
+  **2024-09-26**, announced 2024-09-27; effective **2024-12-23**, launched in Lusaka
+  **2025-09-30**, closing **2028-10-31**. An **IDA grant of SDR 22.6m = US$30m**, of which
+  **$27m from the IDA20 WHR window and $3m from national allocations** *(not $30m of WHR money,
+  as previously recorded)*. Its **US$6m identity limb** enrols refugees and former refugees into
+  **[[inris]] itself** — the same register as citizens — across **Kalumbila, Nchelenge and Kaoma**
+  districts, procuring **~150,000 cards "out of the 20 million the Government will buy for
+  citizens"** (which fixes the national procurement scale). **The finding is a line item: the
+  UNHCR ProGres database transfers to MoHAIS.** Refugee registration data moves from UN
+  protection custody to a national-security ministry, with a procedural safeguard ("aligned with"
+  the **Data Protection Act 2021**) and **no purpose limitation, retention limit, consent
+  mechanism or independent oversight described**. Population per the PAD: **101,837** refugees
+  and former refugees (2024-09). See [[zrhcp]], [[gov.protect]], [[include.divides]]. Source:
+  [[2024-09-27-world-bank-zambia-refugee-host-communities-grant]].
 - **2024-09-13** — **Land administration goes digital — a thread previously absent from the wiki.**
   **[[zilas]]**, deployed by SZI's **E-Government Division** for the [[ministry-of-lands-zambia]]:
   **100% digital**, web and mobile, via the **Government Service Bus at gsb.gov.zm**. A four-day
   exhibition at **Cosmopolitan Mall, Lusaka (10–13 September 2024)** served **250+ clients**; a
   **Zamportal account is now a prerequisite to pay ground rent**; **title deeds are digitally issued**.
-  **Provenance: both sources are SMART Zambia's own portal pages — the only account of ZILAS held is the
-  implementing agency's own; no independent evaluation or uptake figure is on file.** Sources:
+  *Both sources are SMART Zambia's own portal pages — and they are **not** the origin of the
+  system; see **2023-06-16**, which dates go-live sixteen months earlier.* Sources:
   [[2024-09-13 ZILAS - Your Gateway to Modern Land Administration (SMART Zambia)]],
   [[2024-09-13 Ministry of Lands and Natural Resources Goes Digital (SMART Zambia)]].
+- **2023-09-19** — **The independent read on ZILAS: the queue moved, it didn't vanish.**
+  **Corpus Legal Practitioners**, a Zambian firm, set out the mandatory **"Digital Clearance"**
+  step ZILAS introduced — ministry verification of the details on a certificate of title, and
+  **"no land transaction can take place until this process is completed."** Submission takes
+  **30 minutes to 1 day**, but **"the timeframe of approval… is currently uncertain. In practice,
+  it takes approximately three (3) to four (4) weeks"** (2023-09). Against SZI's "eliminating
+  queues" self-description, this is the **operator-independent account** the wiki lacked — and it
+  makes a three-to-four-week opaque approval a precondition of **every land transaction in the
+  country**. See [[zilas]], [[include.access]]. Source:
+  [[2023-09-19-zambia-zilas-digital-clearance-corpus-legal]].
+- **2023-06-16** — **ZILAS dated from the parliamentary record — and an unsupported national land
+  register.** Minister of Lands **Elijah Muchima**'s ministerial statement to the National
+  Assembly: **Cabinet approved ZILAS in 2020**; data migrated from **ZILMIS on 13 May 2023**;
+  **ZILAS went live 17 May 2023** with **sixty e-services** on the Government Service Bus and a
+  **Zampass account required** to reach them. The admission is the finding: **ZILMIS ran nine
+  years (2014–2023), its maintenance contract with the developer expired 31 March 2022, and the
+  ministry kept running the national land register with no contract** — "we were at risk in the
+  event of system challenges" — nine years "without enhancements and inclusion of online payment
+  platforms thereby creating a **conduit for corruption**." Muchima also answered public
+  complaint that "**the ZILAS has crushed**" (crashed), conceding "teething challenges", a
+  backlog team deployed offsite, and public apprehension at mandatory data-cleaning. **The
+  developer is named only as "dot.gov" — identity unestablished; do not infer
+  [[dot-com-zambia]].** See [[zilas]], [[dpi.registry]], [[gov.policy]]. Source:
+  [[2023-06-16-zambia-zilas-ministerial-statement-parliament]].
 - **2023-03-13** — **The ZICTA unit, stated on the record (historical baseline).** Reporting
   **[[zicta]]'s 2022 Annual Market Performance Report**: **active internet *subscriptions* rose 6.73% to
   11.1m (end-2022)** from 10.4m, with the **"Internet penetration rate" given as 56.7 per 100 inhabitants
@@ -324,12 +390,17 @@ The third is **evidentiary**: the headline numbers disagree. Penetration spans *
 - [[dpi.registry]] · [[include.divides]] — **civil registration is the binding constraint**: 14% of births
   registered (2024), 6% with a certificate, 50%-by-end-2026 target; the 3.5m-document campaign (Apr 2025);
   CRVS Day pillars toward SDG 16.9 ([[jack-mwiimbu]], [[davies-chikalanga]]).
-- [[dpi.registry]] · [[digital.localgov]] — **land: [[zilas]]** for the [[ministry-of-lands-zambia]] on
-  the Government Service Bus; Zamportal account required to pay ground rent; digital title deeds. *Known
-  only from the implementing agency's own account (2024-09).*
+- [[dpi.registry]] · [[digital.localgov]] — **land: [[zilas]]**, live **17 May 2023** for the
+  [[ministry-of-lands-zambia]]; sixty e-services on the Government Service Bus, Zampass account
+  required; mandatory **Digital Clearance** before any land transaction, taking **3–4 weeks in
+  practice (2023-09)**. Predecessor ZILMIS ran **without a maintenance contract from March 2022**.
+  *No parcel/title count, cost, funder or evaluation is on file; the developer ("dot.gov") is
+  unidentified.*
 - [[dpi.mis]] · [[digital.rural]] — **health: [[smartcare-pro]]**, the national EHR by
   [[ihm-southern-africa]], using the National Digital ID with **fingerprints as the patient identity**
-  (live as of 2026-01). *Implementer-authored and promotional; no independent evaluation held.*
+  (live as of 2026-01), in **2,000+ facilities (2026-07)**; **SmartCare 2.0 – Hospital Edition**
+  (the "Care 2.0" of the GovLink coverage) piloting at three Copperbelt hospitals since
+  **2026-04-27**. *Implementer-authored and promotional; no independent evaluation held.*
 - [[dpi.pay]] · [[include.access]] · [[finance.mou]] — ZamPay, mobile money, DFS; the PAYZ State House
   partnership. · [[dpi.exchange]] — ZamConnect; the Mozambique interconnector. Full case:
   [[zambia--dpi-pay]].
@@ -345,8 +416,10 @@ The third is **evidentiary**: the headline numbers disagree. Penetration spans *
   mile; UASF projects; K255m QoS approval; ZICTA threatening operators over poor QoS that gates social
   grants). Fibre backbone; Chanida–Cassacatiza (fibre to 8 neighbours); LEO satellite (DZAP Component 1,
   US$50M).
-- [[include.access]] · [[finance.new]] — **[[zrhcp]]**: $30m ([[world-bank]] IDA20 WHR + [[unhcr]]),
-  biometric NRCs for 112,000 refugees (2025-10), to end-Oct 2028.
+- [[include.access]] · [[finance.new]] · [[gov.protect]] — **[[zrhcp]]**: US$30m [[world-bank]] IDA
+  grant ($27m WHR + $3m national), approved **2024-09-26**, effective 2024-12-23, closing
+  **2028-10-31**; a **$6m identity limb** enrolling refugees into **[[inris]] itself** across three
+  districts, and **transferring the [[unhcr]] ProGres database to MoHAIS**.
 - [[tech.ai]] · [[gov.policy]] · [[tech.innovate]] — extracted: **[[zambia--tech-ai]]** — the
   forthcoming **[[zambia-national-ai-strategy]]** and Startup Bill (announced, unpublished); the
   proposed **[[itu]] AI for Good Lab**; the [[huawei]] **[[national-ai-data-centre-zambia]]** MoU
@@ -359,11 +432,24 @@ The third is **evidentiary**: the headline numbers disagree. Penetration spans *
   the **fifth operation** of **[[idea-mpa]]** — ~**$2.48 billion**, **15 African countries**, **eight
   years**, [[comesa]]-coordinated, Board-approved **June 2024**.
 
-## Untracked threads (GAP-ZMB-003)
+## Untracked threads (GAP-ZMB-003 — worked 2026-07-20)
 
-The **SMART Zambia MVNO PPP tender**; the **[[tony-blair-institute]]**/[[undp]] MoU; the
-**SIM-registration relaunch** flagged for July 2025 — each appears once in held sources, with no
-follow-up on file.
+- **[[zrhcp]]** — **confirmed and fully documented**; the project document exists (World Bank
+  **P503941**, PAD **PADHI00410**). Chronology, financing split and the identity limb are now on
+  the [[zrhcp]] page, including the **transfer of the UNHCR ProGres database to MoHAIS**.
+- **[[tony-blair-institute]]/[[undp]] MoU** — **confirmed signed**, see 2025-11-20 above.
+- **SMART Zambia MVNO PPP tender** — **still unconfirmed, and the phrasing is why.** The single
+  held mention (2025-10-03) says the E-Government Division "**is taking proposals as it prepares
+  to tender**" — a pre-tender stage, which is consistent with there being no reference number to
+  find. A search of SZI and DZAP procurement notices and the Zambian trade press surfaced **no
+  tender reference, value, bidder, award or outcome**. What the same period does contain is a
+  different set of SZI arrangements — an **MTN Zambia/MTN Group** partnership (2025-08-01), the
+  **inq Zambia/Mezzanine Helium** deal and a **VISA** MoU (DGA Summit, 2025-10-09), and real,
+  referenced DZAP procurements (bulk international bandwidth, **ZM-SZ-547791-NC-RFB**, bids due
+  2026-07-02) — none of which is the MVNO. **Do not carry the MVNO as a live procurement.**
+  Whether the ambition landed instead in the government-owned **[[govlink]]** network launched
+  2026-07-15 is an open question, not a finding.
+- **SIM-registration relaunch** (flagged July 2025) — not worked this pass; still one mention.
 
 ## Entities
 

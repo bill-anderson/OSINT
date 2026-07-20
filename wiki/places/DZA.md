@@ -45,11 +45,20 @@ market, a sovereign-cloud and state-owned data-centre/AI-compute build-out — l
 - **2026-02** — **First in Africa for FTTH households (3m)**; "All Fiber" copper phase-out by early 2027;
   **5G ($492m) rolling out nationwide** (Djezzy 18 states, Ooredoo all wilayas). See [[algeria-5g]],
   [[algeria--infra-connect]]. Source: [[2026-02-17-algeria-first-africa-ftth-connectivity-echorouk]].
-- **2026-02-09** — **National public-data governance framework launched** (PM Ghrieb), anchored in
-  **Presidential Decree n° 25-320 of 30 Dec 2025** (*JO* n° 87) — sovereign data model, interoperability, a
-  unified national data-source database. Published alongside Decree n° 25-321 (ISS Strategy 2025–29).
+- **2026-02-09** — **National public-data governance framework launched** by PM **Sifi Ghrieb** at the
+  **Centre international de conférences Abdelatif-Rahal**, Algiers, under the high patronage of
+  **[[abdelmadjid-tebboune|President Tebboune]]** and the slogan *"Souveraineté, organisation et
+  transparence"* — anchored in **Presidential Decree n° 25-320 of 30 Dec 2025** (*JO* n° 87), a sovereign
+  data model with interoperability and a unified national data-source database. Published alongside Decree
+  n° 25-321 (ISS Strategy 2025–29). At the same ceremony High Commissioner for Digitalisation
+  **Meriem Benmouloud** ([[high-commission-digitalisation-algeria]]) **installed the *commission nationale*
+  charged with following up implementation**, drawn from every ministerial department and national body —
+  following instructions given at the **Council of Ministers of 11 December 2025**. Note the launch is a
+  **political and institutional** commencement, not a legal one: the decree's classification and
+  cataloguing duties turn on Art. 19, untriggered as of 2026-07-20 (see 2025-12-30 below).
   See [[gov.protect]], [[algeria-data-governance-framework]], [[algeria--gov-protect]].
   Sources: [[2025-12-30-joradp-decret-25-320-gouvernance-donnees]] (the gazette text itself),
+  [[2026-02-09-algeria-data-governance-launch-maghrebinfo]] (Algerian record of the ceremony),
   [[2026-02-10 Algeria launches national public-data governance framework (Decree 25-350)]]
   (*which mis-numbers the decree 25-350*).
 - **2026-01-11** — **AMLAK electronic land-title system** begins nationwide rollout (DGDN). See
@@ -69,7 +78,9 @@ market, a sovereign-cloud and state-owned data-centre/AI-compute build-out — l
   **[[anpdcp|ANPDCP]]** polices the conformity of personal-data classification and cataloguing (Art. 15),
   and **[[assi|ASSI]]** sets data security-level classification (Art. 16). **Defence, national security and
   judicial data are excluded** (Art. 18); classification obligations bite only **from the date the two
-  référentiels are published** (Art. 19) — *no source held confirms they have been*. Published alongside
+  référentiels are published** (Art. 19) — and **as of 2026-07-20 no publication of either référentiel has
+  been traced**, in the *Journal Officiel* or in any HCN announcement, so the framework's core obligations
+  are **not shown to have commenced** more than six months after gazetting (see below). Published alongside
   **Decree 25-321** approving the **[[algeria-national-cybersecurity-strategy-2025-2029|National
   Information-Systems Security Strategy 2025–2029]]**. See [[gov.legislate]], [[dpi.exchange]],
   [[algeria-data-governance-framework]], [[algeria--gov-protect]], [[sovereignty]]. Source:

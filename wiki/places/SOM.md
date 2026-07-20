@@ -76,6 +76,18 @@ market's velocity.
   **[[snid]]** specifically. Source:
   [[2025-05-06-moct-national-data-center-nearing-completion]]. See [[infra.store]],
   [[gov.policy]], [[somalia--infra-connect]].
+  *Reconcile pass, 2026-07-20 — **this remains the most recent official statement on the NDC**. No
+  launch has been announced in the fourteen months since, through the World Bank SCALED-UP revised
+  closing date of 2026-06-30, and despite an active publication cadence over the same window (Public
+  Data Protection regulatory framework 2026-01-05; National DPI Conference 2026-02-14; PM inaugurates
+  SOMCIRT 2026-03-07; NIRA/UNDP integration working group 2026-06-28). **Where SNID enrolment and
+  biometric data physically sits today is therefore still not established**: MoCT's offshore
+  acknowledgement stands unretracted, NADRA's on-shore infrastructure delivery (2025-03-13) is a
+  capability not a confirmed migration, and NIRA DG Abdiwali Ali Abdulle's on-shore assertion
+  (2025-11-17) remains single, unrepeated and names no facility — NIRA's substantial 2026 output
+  (ID4Africa playbook, 1.4m+ registered as of March 2026) never mentions hosting location. The one
+  document that would settle it — NIRA colocation award ref **4500377** — is paywalled and has been
+  routed to acquisitions.*
 - **2025-03-25** — **SIPS built on BPC SmartVista.** The **[[somalia-instant-payment-system]]**,
   operated by Somalia Payment Switch under CBS, launched on BPC's SmartVista platform (Jan
   2025), with 7 institutions live and the SOMQR standard (2023). Source:
@@ -174,7 +186,8 @@ market's velocity.
 - [[infra.connect]] · [[infra.store]] · [[gov.regional]] — **[[dare1-cable]]** landings
   (Bosaso/Mogadishu) with [[hormuud-telecom]] + [[somtel]]; Hormuud green data centres (11
   DCs, 10 MWh); the state **National Data Center** (Mogadishu, under construction; "nearing
-  completion" May 2025, not yet launched), built to end offshore hosting of government data;
+  completion" May 2025, and **still not announced as operational as of 2026-07-20**, past the World
+  Bank SCALED-UP revised closing date of 2026-06-30), built to end offshore hosting of government data;
   Starlink licensed (Apr 2025, live Aug); AstaanConnect reseller; 10.7m internet users (2025);
   IPv6 migration; IFC submarine-cable working group; **EAC e-Passport** adoption (Feb 2026); Horn of
   Africa integration. Full case: [[somalia--infra-connect]].

@@ -30,12 +30,42 @@ struggling to reach its own territory on the other.
   [[2025-12-19-starlink-convention-signing-primature-cf]],
   [[2026-03-17-starlink-commercial-launch-affordability-agenceecofin]],
   [[2026-04-28-car-suspends-starlink-kits-techafricanews]]. See [[geopol.usa]], [[digital.rural]].
-- **2026-05 — "No national data centre" is now three threads (Huawei live).** [[infra.store]] Against the
-  wiki's standing line, CAR has a China-backed **Huawei Tier III** proposal (national DC + 5 microwave sites
-  + a **secure eLTE police radio**), an unconfirmed **AIAL Group MoU** (Kigali, Jan 2025), and an older
-  AfDB/CAB procurement. Full case: **[[car-national-datacentre]]**. Sources:
+- **2025-09→2026-07 — SOCATEL's $150m US privatisation: the "National Digital Hub" identified.**
+  [[geopol.usa]] [[infra.store]] The wiki's uncited "SOCATEL National Digital Hub" line resolves to a
+  **$150m MoU with US firm Greenline Technologies**, signed **18 Sep 2025 in Casablanca** before Touadéra
+  at the **Ambition28 / PND financing roundtable**, to privatise **[[socatel]]** and build a **Tier 3 data
+  centre** plus a national connectivity ecosystem. It entered an **operational phase 16 Jul 2026**, but the
+  takeover agreements and financing modalities remain unsettled — and the **fourth** rescue of an incumbent
+  whose 2020 €20m French deal was never funded. Sources:
+  [[2025-09-18-greenline-socatel-privatisation-mou-greenline]],
+  [[2026-07-17-socatel-greenline-relance-150m-agenceecofin]]. → [[car-national-datacentre]].
+- **2026-05 — "No national data centre" is now four threads, three sponsors.** [[infra.store]] Nothing is
+  built (as of **2026-07-20**), but four proposals circle the same facility: a China-backed **Huawei Tier III**
+  proposal (national DC + 5 microwave sites + a **secure eLTE police radio**), the US **Greenline/SOCATEL**
+  Tier 3 (above), a **dormant AIAL Group MoU** (Kigali, Jan 2025 — never advanced to contract), and an
+  **AfDB/CAB procurement that was never delivered** (the AfDB's own 2023 inauguration scope lists 935 km of
+  fibre, a university incubator and a cybersecurity platform — **no data centre**). Full case:
+  **[[car-national-datacentre]]**. Sources:
   [[2026-05-27-huawei-tier-iii-data-centre-egov-modernisation-agenceecofin]],
   [[2025-01-22-aial-group-data-centre-mou-oubanguimedias]]. See [[geopol.china]], [[infra.cybersec]].
+- **2026-04-14→16 — Pata Polélé: EU money digitises revenue collection.** [[dpi.govtech]] [[dpi.pay]] A
+  fourth e-gov platform, on the **revenue** side — digitising the "mini-recettes" (administrative fees) across
+  ~20 ministries, replacing cash and manual quittances with digital receipts and mobile-money payment. Pilot
+  ministries **Justice, Finance, Interior**; **EU-funded via Expertise France** (**€17.5m** over four years,
+  €8.5m to "Justice pour l'Ouest 1"); built by a Tunisian expert with the **ONI**. Source:
+  [[2026-04-18-pata-polele-digitalisation-paiements-ndjonisango]]. → [[caf--dpi-govtech]].
+- **2025-07-18 — A first-ever towerco licence (SOS Télécoms).** [[infra.connect]] ARCEP granted Chadian firm
+  **SOS Télécoms** CAR's **first licence to operate passive telecom infrastructure** — pylons and antenna
+  sites built and leased to the operators, aimed at rural and low-margin coverage. Minister Gourna-Zacko:
+  "a first in our history." The company had applied 13 Feb 2024; a separate Council-of-Ministers agreement
+  (17 Apr 2025) covers fibre in Lobaye, Mambéré-Kadéï, Ouham-Pendé and the Bangui–Bambari axis. Source:
+  [[2025-07-21-sos-telecoms-licence-infrastructures-passives-oubanguimedias]]. → [[caf--infra-connect]].
+- **2025-04-17 — The identity ecosystem gets its first strategic diagnostic.** [[dpi.id]] [[dpi.registry]]
+  After ~2 years of study, PM **Félix Moloua** opened the workshop validating the **97-page World-Bank-financed
+  "Diagnostic de la République centrafricaine"** on digital identity and état civil — a sequenced roadmap
+  toward an inclusive, interoperable system, under **P174620 (PGNSP)**. Its stated payoff: a reliable
+  population database would let CAR **skip a costly general census**. Source:
+  [[2025-04-18-diagnostic-identite-digitale-etat-civil-oubanguimedias]]. → [[caf--dpi-id]].
 - **2026-02-20 — MODERO: EU/CIVIPOL scales civil registration.** [[dpi.registry]] An **EU-funded**
   civil-registration programme (**[[modero-central-african-republic|MODERO]]**, CIVIPOL + MATDDL) targets
   **400,000 birth certificates by 2028** — an order of magnitude beyond the held OIF project (3,000). Puts
@@ -147,7 +177,8 @@ struggling to reach its own territory on the other.
 - **Energy** ([[infra.energy]]) — ~14% electricity access; World Bank **PARSE** project and
   utility **[[enerca]]**; the binding constraint on connectivity/data infrastructure. Source:
   [[2022-06-03 Central African Republic - Increasing Electricity Supply and Access and Supporting the Health System]].
-- **AI & data sovereignty** ([[tech.ai]], [[infra.store]]) — **no national data centre**; 2020
+- **AI & data sovereignty** ([[tech.ai]], [[infra.store]]) — **still no national data centre built
+  (as of 2026-07-20)**, though four proposals compete for it (**[[car-national-datacentre]]**); 2020
   France/Russia-targeting disinformation campaigns; "Centrafrique numérique 2018" largely
   unimplemented. Source:
   [[2022-10-21 La Republique centrafricaine et l'intelligence artificielle dans l'espace numerique]].
@@ -167,8 +198,11 @@ struggling to reach its own territory on the other.
 Mentioned, not hubbed: **Warani** (Bangui startup digitising services, founder Vianney Kanda, the only
 private-sector item — [[2025-05-14-vianney-kanda-warani-wearetech]]); EDESEC (passport vendor); DEVEA
 Centrafrique (Starlink operator); Central African Digital Development Agency; CIVIPOL; EDEN TiiiT; AIAL Group;
+**Greenline Technologies** (US, SOCATEL privatisation + Tier 3 DC); **SOS Télécoms** (Chadian towerco, first
+passive-infrastructure licence); **Expertise France** (EU delivery agent, Pata Polélé);
 **[[justin-gourna-zacko]]** (Minister of the Digital Economy, Posts and Telecommunications — 7 sources, over the
-page bar); the ministry itself
+page bar; **note: Agence Ecofin names Roger Andjalandji in the post as of 2026-07-16** — the wiki's
+Gourna-Zacko material dates to 2026-02 and earlier); the ministry itself
 ([[ministere-economie-numerique-postes-telecommunications-centrafrique]]); **IKOUĒ** ([[ikoue]], Bangui e-learning /
 developer-training start-up, co-founder [[petula-lenguezial]]).
 **Statistical resources:** [[datareportal]] · [[kepios]] · [[gsma]] · [[itu]].

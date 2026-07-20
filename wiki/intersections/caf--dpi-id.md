@@ -8,8 +8,8 @@ topics: [dpi.id, dpi.registry, include.access, gov.standards]
 entities: [[al-madina], [genkey], [ane-central-african-republic], [oif-la-francophonie], [greater-internet-freedom], [faustin-archange-touadera]]
 lens: [sovereignty, colonialism]
 status: active
-last_reviewed: 2026-07-18
-sources: [[2020-08-21 Centrafrique - Al Madina, la societe qui pose question a Bangui (RFI)], [2023-06-27 Country Report - Rebuilding Identification and Stakeholder Engagement in the Central African Republic], [2023-10-07 Centrafrique - la delivrance de la carte nationale d'identite facilitee pour les habitants de Bossangoa], [2024-10-08 Central African Republic in full biometric voter registration preparations], [2024-12-10 Central African Republic enrols citizens for first local elections in 36 years], [2025-07-27 Centrafrique - le prix des cartes d'identite reduit apres cinq ans de violations de la loi], [2025-08-12 La Francophonie supports birth registration efforts across Central Africa, Madagascar], [2025-12-08 RCA - la societe Al-Madina deploie sa mission d'identite a Birao]]
+last_reviewed: 2026-07-20
+sources: [[2020-08-21 Centrafrique - Al Madina, la societe qui pose question a Bangui (RFI)], [2023-06-27 Country Report - Rebuilding Identification and Stakeholder Engagement in the Central African Republic], [2023-10-07 Centrafrique - la delivrance de la carte nationale d'identite facilitee pour les habitants de Bossangoa], [2024-10-08 Central African Republic in full biometric voter registration preparations], [2024-12-10 Central African Republic enrols citizens for first local elections in 36 years], [2025-07-27 Centrafrique - le prix des cartes d'identite reduit apres cinq ans de violations de la loi], [2025-08-12 La Francophonie supports birth registration efforts across Central Africa, Madagascar], [2025-12-08 RCA - la societe Al-Madina deploie sa mission d'identite a Birao], [2025-04-18-diagnostic-identite-digitale-etat-civil-oubanguimedias]]
 ---
 
 # Central African Republic × Digital Identity
@@ -21,6 +21,31 @@ electoral cycle. It is an ID system defined more by its access gap and sovereign
 than by any digital stack.
 
 ## What we know
+
+**A strategic diagnostic, validated (2025-04-17) — the first whole-of-ecosystem plan.** After nearly two
+years of study, the government validated the **final report of the strategic diagnostic of the digital-identity
+and civil-registration ecosystem** at a workshop in Bangui on **17 April 2025**, opened by **Prime Minister
+Félix Moloua** with the ministers of Health, Digital Economy, Public Service and Interior present. The report
+— **97 pages**, titled *« Diagnostic de la République centrafricaine »* — is **[[world-bank]]**-financed under
+**P174620, the Public Sector Digital Governance Project (PGNSP)**. It frames the ecosystem in two axes: civil
+registration (vital-events recording) and identity documents (**CNI** for citizens, resident card for legally
+resident foreigners, refugee card for those under international protection). It is meant as a **high-level
+roadmap** — sequencing the steps toward an inclusive, interoperable system, aligned to the ID4D Principles and
+the recently validated **Politique nationale de l'état civil** — and as a resource-mobilisation and
+donor-coordination instrument. Its recommendations run to inclusive registration access, procedural
+harmonisation across the territory, coverage mapping, simplified mass-regularisation campaigns, legal-framework
+harmonisation, digitisation of état civil, archiving, and systematic statistical production; and for the CNI,
+more enrolment centres, decentralised adjudication of applications, and a minimum service standard. The
+civil-registration director framed the payoff bluntly — a reliable population database would let CAR **skip a
+costly general census** and redirect those funds. Source:
+[[2025-04-18-diagnostic-identite-digitale-etat-civil-oubanguimedias]]; corroborated by the Council of Ministers
+of 17 Apr 2025 (Corbeau News, 2025-04-29). (Provenance established by the reconcile pass, 2026-07-20 — the
+claim previously reached the wiki only through a dropped mirror.)
+
+Its stated successor step, **not yet held in the wiki**, is the **Système national d'identité numérique (SNID)**,
+launched **28 November 2025**: ~**$13m**, a **unique identification number (NUI)**, a new **Office national
+d'identification (ONI)**, and an implementation window of **2027–2032**, building on a **2021 AfDB-commissioned,
+EU-co-financed feasibility study**. Flagged for acquisition rather than asserted here.
 
 **Foundational ID: a contested rebuild.** After 2013 the government began re-issuing the
 **secure national ID card (CNI)**, contracted to private printer **[[al-madina]]** — an

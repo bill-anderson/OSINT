@@ -5,11 +5,11 @@ place: TCD
 topic: infra.store
 places: [TCD]
 topics: [infra.store, geopol.china, geopol.usa, infra.energy, finance.mou, data.satellite, dpi.mis, digital.rural]
-entities: [[chad-national-data-centre], [adetic], [arcep-chad], [pmice]]
+entities: [[chad-national-data-centre], [adetic], [arcep-chad], [pmice], [huawei]]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-19
-sources: [[2025-01-08-data-center-national-souverainete-numerique], [2026-02-19-techafricanews-chad-azerbaijan-adetic-ict], [2026-01-29-tchad24-azercosmos-accord-spatial], [2026-01-08-mini-reseaux-solaires-cinq-villes], [2025-12-21-fibre-optique-moyen-chari-pmice-sarh], [2026-06-01-digitalbusiness-washington-partenariats-tech]]
+last_reviewed: 2026-07-20
+sources: [[2025-01-08-data-center-national-souverainete-numerique], [2026-02-19-techafricanews-chad-azerbaijan-adetic-ict], [2026-01-29-tchad24-azercosmos-accord-spatial], [2026-01-08-mini-reseaux-solaires-cinq-villes], [2025-12-21-fibre-optique-moyen-chari-pmice-sarh], [2026-06-01-digitalbusiness-washington-partenariats-tech], [2020-05-08-ciomag-tchad-pret-eximbank-chine-tic], [2020-07-08-magazinedelafrique-tchad-lancement-pmice-financement-chine], [2025-01-10-agenceecofin-tchad-centre-donnees-national-finalisation]]
 ---
 
 # Chad × Data Centre & the Geopolitics of Infrastructure
@@ -20,12 +20,25 @@ the US. The buildings are national; the builders are foreign.
 
 ## The National Data Centre
 
+- **Chinese-financed, Chinese-built — the terms (resolved 2026-07-20).** The centre is a component of
+  **[[pmice]]**, launched **7 July 2020** and financed by a **Export-Import Bank of China**
+  concessional loan of **~111.4 billion FCFA over 20 years at 2% (reported 2020-05-08)**, following
+  the Chad–China framework agreement **signed 26 June 2019, ratified 20 August 2019**. **[[huawei]]
+  Technologies is the contractor**; **GOLF/Gulf Consulting** supervises. Chad had **begun repaying
+  by 19 May 2026**, with the works still incomplete. Sources:
+  [[2020-05-08-ciomag-tchad-pret-eximbank-chine-tic]],
+  [[2020-07-08-magazinedelafrique-tchad-lancement-pmice-financement-chine]],
+  [[2025-01-10-agenceecofin-tchad-centre-donnees-national-finalisation]].
 - **Construction under Chinese partnership (2025).** Minister Boukar Michel toured the **National Data
-  Centre** building with a **Chinese delegation** (Jan 2025) — the earliest local coverage — framed as a
-  step toward "digital sovereignty." Phase 1 (construction + equipment) later completed, with audit/
+  Centre** building with a **Chinese delegation** (Jan 2025) — framed as a
+  step toward "digital sovereignty." The building is **500 m² over four levels (2025-01-10)**. Chinese
+  ambassador **Wang Xining**, present at the visit, posed the dependency question himself: *"how to
+  take ownership of this building and its machines, even in the absence of Chinese technicians."*
+  Phase 1 (construction + equipment) later completed, with audit/
   certification the last step before inauguration and **100 micro-data centres** planned (see [[TCD]]
-  hub). See [[geopol.china]], [[infra.cybersec]]. Source:
-  [[2025-01-08-data-center-national-souverainete-numerique]].
+  hub). See [[geopol.china]], [[infra.cybersec]]. Sources:
+  [[2025-01-08-data-center-national-souverainete-numerique]],
+  [[2025-01-10-agenceecofin-tchad-centre-donnees-national-finalisation]].
 - **PMICE Phase I inauguration (Dec 2025).** The **€175.1m [[pmice]]** — National Data Centre + fibre +
   GSM/3G/4G — was inaugurated at **Sarh, Moyen-Chari** (Safitel), extending digital beyond the capital
   ("digital must irrigate territories"). See [[digital.rural]]. Source:

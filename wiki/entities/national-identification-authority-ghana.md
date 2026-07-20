@@ -5,13 +5,36 @@ title: National Identification Authority (NIA, Ghana)
 places: [GHA]
 topics: [dpi.id, dpi.registry, dpi.govtech]
 status: active
-last_reviewed: 2026-07-16
-sources: [[2025-05-01 NIA to capture 7 million under-15s and 3 million Ghanaians abroad for Ghana Card], [2025-05-06 Ghana takes first-time national ID card requests online (plus new chip-embedded passport)], [2025-05-12 Ghana's new National Identification Authority board to focus on public trust, inclusive service delivery], [2025-09-13 NIA clears Ghana Card backlog, issues instant card nationwide], [2025-03-20 National ID system yet to realize full potential (Ghana Card)]]
+last_reviewed: 2026-07-20
+sources: [[2025-05-01 NIA to capture 7 million under-15s and 3 million Ghanaians abroad for Ghana Card], [2025-05-06 Ghana takes first-time national ID card requests online (plus new chip-embedded passport)], [2025-05-12 Ghana's new National Identification Authority board to focus on public trust, inclusive service delivery], [2025-09-13 NIA clears Ghana Card backlog, issues instant card nationwide], [2025-03-20 National ID system yet to realize full potential (Ghana Card)], [2023-11-05-nia-ghana-laws-and-regulations]]
 ---
 
 # National Identification Authority (NIA, Ghana)
 
-Ghana's statutory identity authority: the registration body that operates the national identification system and issues the [[ghana-card]] (built and operated with [[margins-id-group]] under a DBFOT arrangement). It maintains the National Identity Register — the biometric database ([[dpi.id]], [[dpi.registry]]) increasingly used as the country's real-time authentication backbone across banking, tax, SIM, passport, health and land services. A new governing board was commissioned in May 2025 (Chairman Moses Afetsi Positive), tasked with delivering legal and digital ID for all Ghanaians by 2030 (SDG 16.9). Executive leadership over the period: acting Executive Secretary Wisdom Kwaku Deku (2025); Prof. Kenneth Agyemang Attafuah associated with the earlier build-out. Its board mandate is cited to the National Identification Act 2009. See [[GHA]], [[ghana--dpi-id]].
+Ghana's statutory identity authority: the registration body that operates the national identification system and issues the [[ghana-card]] (built and operated with [[margins-id-group]] under a DBFOT arrangement). It maintains the National Identity Register — the biometric database ([[dpi.id]], [[dpi.registry]]) increasingly used as the country's real-time authentication backbone across banking, tax, SIM, passport, health and land services. A new governing board was commissioned in May 2025 (Chairman Moses Afetsi Positive), tasked with delivering legal and digital ID for all Ghanaians by 2030 (SDG 16.9). Executive leadership over the period: acting Executive Secretary Wisdom Kwaku Deku (2025); Prof. Kenneth Agyemang Attafuah associated with the earlier build-out. See [[GHA]], [[ghana--dpi-id]].
+
+## Statutory basis (corrected 2026-07-20)
+
+The NIA's governing law, as listed by the Authority itself (page observed 2026-07-20):
+
+- **National Identification Authority Act, 2006 (Act 707)** — the establishing Act. Gazetted
+  **21 April 2006**, assented 18 April 2006.
+- **National Identity Register Act, 2008 (Act 750)** — the register legislation, providing for data
+  capture, protection, access, use, retention and disclosure. Gazetted **15 February 2008**, assented
+  28 January 2008.
+- **National Identity Register (Amendment) Act, 2017 (Act 950)** — assented **4 December 2017**;
+  amends ss.4, 7, 8, 22 and 75 of Act 750 (application mode, registration conditions, accepted
+  identity documents).
+- **National Identity Register Regulations, 2012 (L.I. 2111)**, as amended by the **National Identity
+  Register (Amendments) Regulations, 2018 (L.I. 2356)** — and further amended 2026-07-15 (below).
+
+Act 707 and Act 750 were both also amended by the **Data Protection Act, 2012**.
+
+> **Citation correction.** This page previously cited the board's mandate to a "National Identification
+> Act 2009". **No such Act exists** — no Ghanaian statute of that title or year governs the NIA, and
+> the year corresponds to none of Act 707 (2006), Act 750 (2008), Act 950 (2017) or L.I. 2111 (2012).
+> It was a propagated citation error, corrected 2026-07-20 against the Authority's own published list
+> of governing law. Source: [[2023-11-05-nia-ghana-laws-and-regulations]].
 
 ## Activity in this wiki
 
@@ -32,7 +55,8 @@ Ghana's statutory identity authority: the registration body that operates the na
   [[2026-07-15-biometric-verification-mandatory-ghana-card-myjoy]].
 - **Statutory restructure — under Interior (2025-08).** A bill would place the NIA **permanently under the
   Ministry of the Interior** (currently attached to no ministry) and open its database to **law-enforcement /
-  intelligence** access — a rights/sovereignty concern. Confirms the enabling **NIA Act 707** basis. Source:
+  intelligence** access — a rights/sovereignty concern. Confirms the enabling **NIA Act 707** basis (see
+  Statutory basis above). Source:
   [[2025-08-27-ghana-restructure-nia-law-enforcement-biometricupdate]].
 - **Instant issuance & 640k backlog cleared.** The Mar-2023→Jan-2025 blank-card backlog was cleared (instant
   issuance nationwide, Sep 2025); a further **640,000 backlog** was cleared and **diaspora operations** expanded
@@ -58,3 +82,4 @@ Ghana's statutory identity authority: the registration body that operates the na
 - [[2025-05-12 Ghana's new National Identification Authority board to focus on public trust, inclusive service delivery]]
 - [[2025-09-13 NIA clears Ghana Card backlog, issues instant card nationwide]]
 - [[2025-03-20 National ID system yet to realize full potential (Ghana Card)]]
+- [[2023-11-05-nia-ghana-laws-and-regulations]]

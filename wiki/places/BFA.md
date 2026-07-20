@@ -91,8 +91,10 @@ supervision centre for critical digital infrastructure.
   messaging does conflate the two. Where they diverge, treat the DG's 2030 as authoritative and 2027 as a
   target on the funded phases.* Financing is **75bn FCFA**, split 37.5bn state (via **FASU** and
   **[[pactdigital]]**) and 37.5bn from the three operators — **ONATEL, Orange Burkina Faso and Telecel**;
-  the ministry's 2026 budget of **61bn FCFA** is double 2025. **370 localities were connected by early
-  2026** (of 750 targeted); 132 new sites were programmed for the Guiriko region in 2026. At a
+  the ministry's 2026 budget of **61bn FCFA** is double 2025. **370 localities were connected in
+  calendar 2025** — *not* progress against the 750, which the Primature states are **additional** to
+  them ("750 nouvelles localités, **en complément des 370 déjà réalisées en 2025**", 2026-02-03);
+  132 new sites were programmed for the Guiriko region in 2026. At a
   **2026-04-04** working session chaired by minister Zerbo/Sabané with ARCEP executive secretary **Patrice
   Compaoré** and the operators, most localities were identified, service orders signed and equipment on
   order, with operators pressed to front-load civil works before the rainy season. Operators met **80–90%**
@@ -101,9 +103,28 @@ supervision centre for critical digital infrastructure.
   land-acquisition friction and power supply in places — the ministry now runs regional workshops with
   customary authorities (nine regions after Ouahigouya) to unblock sites. Basic-plan cost is still **~8.8%
   of GNI**. Burkina/Ghana/Mali/Niger **harmonised frequencies + free roaming** across the ECOWAS split.
-  *Progress-to-date counts are reported inconsistently across sources (223 since 2020 vs 330 since 2019 vs
-  138 first phase vs 441 sites/126 rural vs 370 localities) — sites vs localities and differing baselines;
-  see the open contradiction.* Sources: [[2026-07-13-pactdigital-1000-white-zones-2026]],
+  **Progress to date, reconciled (as of 2026-07-20).** The five circulating figures mostly resolve on
+  two distinctions — **sites ≠ localities**, and **calendar-year increments ≠ cumulative totals ≠
+  targets**. On the first, ARCEP's own phase-1 account is decisive: **183 sites (antennas), each with
+  ~6 km range and shareable by all three operators, covered ~300 localities** (project chief Soumanan
+  Sanou, field visit **2022-05-20**) — so one site serves rather more than one locality, and the units
+  are not interchangeable even though outlets swap the words. On that basis: **138** is a
+  **calendar-2024** figure (a subset of the 223, not a "first phase" — the real first phase was the
+  183-site ARCEP PPP of 2022, >13bn FCFA, Orange bearing >60%); **370** is the **calendar-2025**
+  increment; and **441 sites / 126 rural** is **not a white-zone count at all** but PM Ouédraogo's
+  2025 activity total for *all* sites deployed and activated, **of which only 126 were rural** (event:
+  Situation de la Nation address to the ALT, **2026-01-30**) — the comparable figure there is 126.
+  A consistent locality series therefore runs **223 (2020–2024, FASU) → +370 (2025)**, i.e. **~593
+  localities cumulatively since 2020** (*derived arithmetic from two ministry figures; no source states
+  a cumulative total*). *Two things stay open: the **2019 vs 2020 baseline** — Burkina24's "330 zones
+  depuis 2019" (2025-09-30) is an unattributed journalist's line from the very event at which the
+  minister said "223 sites depuis 2020", and no source defines either baseline or reconciles ~300
+  localities by May 2022 against 223 by end-2024; and the fact that **no ARCEP or MTDPCE primary
+  document** states the counting definitions — the ministry publishes substantively via Facebook,
+  outside the sweep (filed as a gap).* Sources: [[2026-02-03-contrat-objectifs-2025-ministre-transition-digitale]],
+  [[2022-05-23-couverture-reseau-mobile-300-zones-blanches-arcep]],
+  [[2025-09-30-inclusion-par-le-pylone-fracture-numerique-2027]],
+  [[2026-02-01-situation-nation-750-localites-441-sites]], [[2026-07-13-pactdigital-1000-white-zones-2026]],
   [[2026-04-06-zero-zone-blanche-750-localites-phase-2-2027]],
   [[2026-02-18-zero-zone-blanche-12-chantiers-2000-zones-2030]],
   [[2026-06-21-telecommunications-taux-execution-engagements-80-90]],

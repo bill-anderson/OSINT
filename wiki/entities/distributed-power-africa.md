@@ -5,47 +5,72 @@ title: Distributed Power Africa (DPA)
 places: [ZAF, ZWE]
 topics: [infra.energy, infra.store, tech.industry, finance.new]
 lens: [sovereignty]
-status: needs-review
+status: active
 last_reviewed: 2026-07-20
-sources: [[2024-07-25 Africa Data Centres adding 6MW capacity in Cape Town], [2024-11-20 Africa Data Centres expands by 20 megawatts to meet cloud, AI demand], [2025-12-24-econet-notice-completion-infrastructure-restructuring], [2026-03-26-econet-infraco-supplementary-pre-listing-statement]]
+sources: [[2023-03-14-cassava-adc-dpa-sa-edf-20-year-ppa], [2024-07-25 Africa Data Centres adding 6MW capacity in Cape Town], [2024-11-20 Africa Data Centres expands by 20 megawatts to meet cloud, AI demand], [2025-12-24-econet-notice-completion-infrastructure-restructuring], [2026-03-26-econet-infraco-supplementary-pre-listing-statement]]
 ---
 
 # Distributed Power Africa (DPA)
 
 **The renewable-energy business of [[cassava-technologies]], supplying wheeled solar power to sister
-company [[africa-data-centres]].** DPA (also referenced as DPA Southern Africa) is the vehicle behind
-what ADC claims is **the first successful solar wheeling in Africa** — a captive-generation model
-that routes privately generated power to a data centre across the state-owned grid rather than
-building behind the meter.
+company [[africa-data-centres]] through a South African joint venture with [[edf]].** DPA is the
+lineage behind what ADC claims is **the first successful solar wheeling in Africa** — a
+captive-generation model that routes privately generated power to a data centre across the state-owned
+grid rather than building behind the meter. **The name is shared across three separate registered
+companies** — see below before citing anything on this page.
 
-## ⚠ Open — is the Zimbabwean DPA the same company? (REV, opened 2026-07-20)
+## One brand, three registered entities (resolved 2026-07-20)
 
-Two Econet-lineage entities carry this name in the wiki's sources, and **the record does not establish
-whether they are one registered company or two sharing a brand**:
+The DPA name attaches to **three distinct companies** of common Econet-group origin. They must not be
+merged, and the South African solar history must not be carried onto [[econet-infraco]].
 
-- **DPA / "DPA Southern Africa" (this page's material, 2023–2024)** — described by Africa Data Centres as
-  "part of **[[cassava-technologies]]**", counterparty to 20-year solar-wheeling PPAs in **South Africa**.
-- **Distributed Power Africa (Private) Limited (2025-12-24 onward)** — a **Zimbabwe**-registered, **wholly
-  owned subsidiary of [[econet-wireless-zimbabwe]]**, into which EWZL consolidated its real estate and
-  passive telecoms infrastructure, **trading as [[econet-infraco]]**; converted private→public with a new
-  Certificate of Incorporation **2026-03-24** under registration number **74120A02122025**, and undergoing
-  a name change to **Econet InfraCo Limited** before its **VFEX** listing.
+- **Distributed Power Africa (DPA)** — the pan-African operating business, "a business of
+  [[cassava-technologies]]", with key operations in **South Africa, Kenya and Zimbabwe** as of
+  **2023-03** (later also Zambia and the DRC, as of **2026-06**). CEO **Norman Moyo**. Briefly renamed
+  **Distributed Power Technologies (DPT)** c. 2021–22, then back. Folded into Cassava at that group's
+  launch on **2021-11-10**, when Econet's *mobile* businesses — including
+  [[econet-wireless-zimbabwe]] — were explicitly left outside it. That launch is the group boundary the
+  two DPAs sit either side of.
+- **DPA Southern Africa (Pty) Ltd — "DPA SA"** — **South African**-registered, a **50:50 joint venture
+  between DPA and the French utility [[edf]]**, formed on EDF's acquisition of a 50% shareholding in
+  DPA's South African operations (announced **2022-05-24**). CEO **Nawfal El Fadil** (as of 2024-04).
+  **This — not DPA itself — is the counterparty to both Africa Data Centres PPAs below.**
+- **Distributed Power Africa (Private) Limited** — **Zimbabwe**-registered, reg. **74120A02122025**; a
+  wholly owned subsidiary of [[econet-wireless-zimbabwe]] used as the corporate shell into which EWZL
+  consolidated its real estate and passive telecoms infrastructure (**2025-12-24**), **trading as
+  [[econet-infraco]]**; converted private→public **2026-03-24**, renaming to Econet InfraCo Limited,
+  VFEX trading from **2026-03-31**. Its Zimbabwean distributed-power operating business is now branded
+  **Distributed Power Zimbabwe (DPZ)** inside InfraCo — a rename that decouples it from the DPA brand
+  still used on the Cassava side.
 
-**Not resolved here.** Econet Global and Cassava share a founder ([[strive-masiyiwa]]) and a history of
-brand reuse across national opcos, so a common brand across two group arms is entirely plausible; equally,
-a single DPA may have been redeployed. The wiki holds no shareholding document tying the two. Until it
-does, **do not merge the two records and do not carry the South African solar-wheeling history onto
-[[econet-infraco]]**. Sources: [[2025-12-24-econet-notice-completion-infrastructure-restructuring]],
+**Common origin, separate ownership.** DPA "was originally built on the **Econet Group's** experience
+operating power systems and battery backups for its mobile network base stations" (**2026-06-04**) — so
+the shared brand reflects one lineage, not a coincidence. But the Cassava arm and the EWZL arm have been
+separately owned since 2021, and no held document places the ZAF and ZWE entities in a single
+shareholding chain.
+
+*Unreconciled looseness, do not build on it:* trade press (**2026-06-04**) calls Econet InfraCo "the
+parent company of DPA" and has "Distributed Power Africa **(Private)** Limited" applying for a 50 MW
+Harare solar licence *after* that entity converted to public status — either imprecision, or a separate
+still-private DPA subsidiary under InfraCo. **The Econet InfraCo Pre-Listing Statement dated 2026-02-04
+(the original, not the supplementary) would carry the definitive group structure and is not held.**
+
+Sources: [[2023-03-14-cassava-adc-dpa-sa-edf-20-year-ppa]],
+[[2025-12-24-econet-notice-completion-infrastructure-restructuring]],
 [[2026-03-26-econet-infraco-supplementary-pre-listing-statement]].
 
 ## Activity in this wiki
 
-- **The 20-year PPA (signed March 2023).** ADC's Cape Town **CPT1** facility uses **wheeled solar
-  power**, enabled through a **20-year power purchase agreement signed in March 2023** with
-  Distributed Power Africa, "which is also part of Cassava Technologies." Power **"wheeling"** is the
-  process of moving privately generated power to customers **across national government-owned power
-  grids** — here, **[[eskom]]**'s. Source:
-  [[2024-07-25 Africa Data Centres adding 6MW capacity in Cape Town]].
+- **The 20-year PPA (announced 2023-03-14).** ADC signed a **20-year power purchase agreement** for
+  **12 MW** of wheeled solar — **with [[dpa-southern-africa]] (DPA SA), the DPA–[[edf]] joint venture**,
+  not with DPA directly. Power **"wheeling"** is the process of moving privately generated power to
+  customers **across national government-owned power grids** — here, **[[eskom]]**'s. Energy comes
+  partly from a solar farm **near Bloemfontein**. ADC said the deal would supply "over 30% of our South
+  African data centres" with renewables. Source:
+  [[2023-03-14-cassava-adc-dpa-sa-edf-20-year-ppa]]. *(Later trade-press accounts — including
+  [[2024-07-25 Africa Data Centres adding 6MW capacity in Cape Town]] — describe the counterparty
+  loosely as "Distributed Power Africa, which is also part of Cassava Technologies", omitting both the
+  JV structure and EDF. Prefer the announcer's own account.)*
 - **The first-in-Africa claim (2024-07-25).** **Africa Data Centres claims to be the first company to
   successfully implement this solar wheeling technology in Africa.** *A company claim, not an
   independently verified first — attribute it.* Source: same.

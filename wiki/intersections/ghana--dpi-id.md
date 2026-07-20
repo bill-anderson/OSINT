@@ -8,8 +8,8 @@ topics: [dpi.id, dpi.registry, dpi.govtech, dpi.pay, gov.legislate, gov.standard
 entities: [[national-identification-authority-ghana], [ghana-card], [margins-id-group], [gambia-national-id-contract], [samuel-nartey-george]]
 lens: [colonialism, sovereignty]
 status: active
-last_reviewed: 2026-07-16
-sources: [[2026-04-01 RETRACTION Ghana's National ID cards can now make payments], [2026-01-28 Margins ID Group emerges as Africa's leading provider of certified digital identity solutions], [2026-01-20 Margins takes Ghana's ID success to The Gambia], [2026-01-11 Ghana Card mandatory for banking and digital transactions - BoG], [2025-09-13 NIA clears Ghana Card backlog, issues instant card nationwide], [2025-09-08 Ghana plans new framework for SIM card-digital ID linkage], [2025-05-12 Ghana's new National Identification Authority board to focus on public trust, inclusive service delivery], [2025-05-06 Ghana takes first-time national ID card requests online (plus new chip-embedded passport)], [2025-05-01 NIA to capture 7 million under-15s and 3 million Ghanaians abroad for Ghana Card], [2025-03-20 National ID system yet to realize full potential (Ghana Card)]]
+last_reviewed: 2026-07-20
+sources: [[2026-04-01 RETRACTION Ghana's National ID cards can now make payments], [2026-01-28 Margins ID Group emerges as Africa's leading provider of certified digital identity solutions], [2026-01-20 Margins takes Ghana's ID success to The Gambia], [2026-01-11 Ghana Card mandatory for banking and digital transactions - BoG], [2025-09-13 NIA clears Ghana Card backlog, issues instant card nationwide], [2025-09-08 Ghana plans new framework for SIM card-digital ID linkage], [2025-05-12 Ghana's new National Identification Authority board to focus on public trust, inclusive service delivery], [2025-05-06 Ghana takes first-time national ID card requests online (plus new chip-embedded passport)], [2025-05-01 NIA to capture 7 million under-15s and 3 million Ghanaians abroad for Ghana Card], [2025-03-20 National ID system yet to realize full potential (Ghana Card)], [2023-11-05-nia-ghana-laws-and-regulations]]
 ---
 
 # Ghana × Digital Identity
@@ -26,6 +26,17 @@ African-owned national ID system**, via Margins to The Gambia.
 
 ## What we know
 
+- **[[GHA]] Statutory framework (structural; corrected 2026-07-20).** [[gov.legislate]] The system rests
+  on **four instruments**: the **National Identification Authority Act, 2006 (Act 707)** establishing the
+  **[[national-identification-authority-ghana|NIA]]** (gazetted 21 Apr 2006); the **National Identity
+  Register Act, 2008 (Act 750)** governing data capture, protection, access, retention and disclosure
+  (gazetted 15 Feb 2008); the **National Identity Register (Amendment) Act, 2017 (Act 950)** (assented
+  4 Dec 2017); and the **National Identity Register Regulations, 2012 (L.I. 2111)**, amended by **L.I.
+  2356 (2018)** and again in **July 2026** (biometric-only verification, below). Acts 707 and 750 were
+  each also amended by the **Data Protection Act, 2012**. *Note: a "National Identification Act 2009",
+  previously carried in this wiki, **does not exist** — a propagated citation error, corrected against
+  the NIA's own published list of governing law.* Source:
+  [[2023-11-05-nia-ghana-laws-and-regulations]].
 - **[[GHA]] Coverage trajectory (dated).** Registered adults (15+): **17.56m** (31 Oct 2023, of ~30.8m
   pop) → ~**18m** (Oct 2024) → **18.95m enrolled / 17.75m issued**, 292 centres, 95 institutions on
   real-time authentication (Sep 2025) → **19.2m registered / 262 institutions** (early 2026). Sources:

@@ -5,11 +5,11 @@ place: NGA
 topic: digital.localgov
 places: [NGA]
 topics: [digital.localgov, dpi.govtech, capacity.training, infra.energy, include.divides]
-entities: [[mtn-nigeria], [enugu-smart-green-schools], [ndubueze-mbah]]
+entities: [[mtn-nigeria], [enugu-smart-green-schools], [ndubueze-mbah], [efcc]]
 lens: []
 status: active
-last_reviewed: 2026-07-19
-sources: [[2025-03-14-mylagosapp-mtn-lagos-state], [2025-03-12-ipnx-abia-state-connectivity], [2025-03-26-benue-40000-civil-servants-training], [2026-07-18-ness-2026-nigeria-education-summit]]
+last_reviewed: 2026-07-20
+sources: [[2025-03-14-mylagosapp-mtn-lagos-state], [2025-03-12-ipnx-abia-state-connectivity], [2025-03-26-benue-40000-civil-servants-training], [2026-07-18-ness-2026-nigeria-education-summit], [2026-05-17-thecable-enugu-smart-schools-investigation-part-ii]]
 ---
 
 # Nigeria × Subnational Digital Government
@@ -29,19 +29,29 @@ connectivity partnerships and civil-service skilling. (See also **Anambra SmartG
   portal, a startup-support platform and an Office of the Head of Service site; builds on a Nov-2024
   Huawei partnership. See [[capacity.training]]. Source: [[2025-03-26-benue-40000-civil-servants-training]].
 
-- **Enugu — smart green schools (2026-07-16).** Commissioner for Education Professor
-  **[[ndubueze-mbah]]** described **[[enugu-smart-green-schools]]**: **267 schools across Enugu
-  State (2026-07-16)** powered by **solar** and connected by a **combination of satellite and
-  local internet infrastructure** (supply routers, access points), aimed at ensuring "no matter
-  where every child is, they have access to the standardised instruction and tuition" — urban or
-  rural. The distinguishing feature against the other entries here is the **sequencing**: a state
-  government building **power first**, then connectivity, then instruction, rather than layering
-  services onto assumed infrastructure. Mbah names the sector's problems as foundational learning,
-  quality of access, "the gap in digital interest" and the skills gap. **No cost, funding source,
-  completion status, timeline or independent verification is on file** — the school count is the
-  Commissioner's own figure, given at a supplier-organised summit and carried by a **sponsored
-  TechCabal Partner / Press Room placement**, not independent reporting. See [[infra.energy]],
-  [[include.divides]], [[digital.rural]]. Source:
+- **Enugu — smart green schools (2023–2026, ongoing).** **[[enugu-smart-green-schools]]** is Governor
+  Peter Mbah's signature initiative: **260 schools — one in each of Enugu State's 260 political
+  wards** — powered by **solar** and connected by a **combination of satellite and local internet
+  infrastructure** (supply routers, access points), each with ~25 digitally connected classrooms,
+  ICT centres, robotics/AI labs and e-libraries, for **840–1,000 pupils**. The distinguishing feature
+  against the other entries here is the **sequencing**: a state government building **power first**,
+  then connectivity, then instruction, rather than layering services onto assumed infrastructure.
+  Commissioner for Education **[[ndubueze-mbah]]** frames it against foundational learning, quality of
+  access, "the gap in digital interest" and the skills gap.
+  **Scale and finance (dated).** Pilot opened at Owo **2024-02-07**; transition of pupils began
+  **2025-09-22**; full opening of all 260 promised for **January 2026**. State allocations of
+  **₦266.7bn (2025)** and **₦198bn (2026)**, at ~**₦1.3–1.5bn per school**, funded from the state
+  budget with **no donor or DFI facility** identified; education took **32.27% of the 2026 budget**.
+  **Delivery is materially behind the claim.** As of **May 2026** many schools were **incomplete and
+  unequipped** with pupils already resuming; roofs failed at Ishielu Amagunze (Feb 2026), Iheaka
+  (2026-04-08) and Orba; a school at Mbu was **demolished in July 2025** after failing integrity
+  tests; and a **₦11.4bn contract for 22 schools** (awarded 2024-07-02, ₦5.7bn paid upfront) was
+  terminated, with the **EFCC** recovering **₦1.23bn** so far. **No connectivity or solar vendor is
+  named in any source held**, and no learning-outcome data or independent evaluation exists. A
+  separate state claim of **267 schools built (2026-07-16)**, made at a supplier-organised summit and
+  carried by a **sponsored TechCabal placement**, is **not** the programme's size and is unverified.
+  See [[infra.energy]], [[include.divides]], [[digital.rural]]. Sources:
+  [[2026-05-17-thecable-enugu-smart-schools-investigation-part-ii]],
   [[2026-07-18-ness-2026-nigeria-education-summit]].
 
 ## Links

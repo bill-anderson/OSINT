@@ -9,7 +9,7 @@ entities: [[orange-centrafrique], [socatel], [arcep-central-african-republic], [
 lens: [colonialism, sovereignty]
 status: active
 last_reviewed: 2026-07-20
-sources: [[2017-01-01 ITU Country Profile - Central African Republic], [2024-02-23 Digital 2024 - The Central African Republic], [2024-11-11 Orange secures 4G license in Central African Republic], [2025-05-22 RCA - Touadera mise sur la transformation numerique pour revitaliser l'economie], [2025-05-19-rca-orange-lance-la-4g-wearetech], [2025-12-22-telecel-centrafrique-4g-licence-telecelgroup], [2026-04-21-universal-service-fund-2026-arcep-budget-agenceecofin], [2026-05-25-south-sudan-internet-interconnection-mtn-africabusinessinsight], [2025-07-30-car-taux-penetration-internet-30-pourcent], [2025-03-03-datareportal-digital-2025-central-african-republic], [2025-11-08-datareportal-digital-2026-central-african-republic]]
+sources: [[2017-01-01 ITU Country Profile - Central African Republic], [2024-02-23 Digital 2024 - The Central African Republic], [2024-11-11 Orange secures 4G license in Central African Republic], [2025-05-22 RCA - Touadera mise sur la transformation numerique pour revitaliser l'economie], [2025-05-19-rca-orange-lance-la-4g-wearetech], [2025-12-22-telecel-centrafrique-4g-licence-telecelgroup], [2026-04-21-universal-service-fund-2026-arcep-budget-agenceecofin], [2026-05-25-south-sudan-internet-interconnection-mtn-africabusinessinsight], [2025-07-30-car-taux-penetration-internet-30-pourcent], [2025-03-03-datareportal-digital-2025-central-african-republic], [2025-11-08-datareportal-digital-2026-central-african-republic], [2025-07-21-sos-telecoms-licence-infrastructures-passives-oubanguimedias], [2025-09-18-greenline-socatel-privatisation-mou-greenline], [2026-07-17-socatel-greenline-relance-150m-agenceecofin]]
 ---
 
 # Central African Republic × Connectivity
@@ -66,6 +66,32 @@ operator revenue**, governed by the **CDCE** launched Jul 2025) is planned for 2
 [[2025-04-16-arcep-spectrum-qos-monitoring-equipment-agenceecofin]],
 [[2026-04-21-universal-service-fund-2026-arcep-budget-agenceecofin]].
 
+**A first towerco licence — the wholesale layer arrives (2025-07-18).** [[gov.legislate]] On
+**18 July 2025** ARCEP signed the *cahier des charges* granting **SOS Télécoms** a **licence for the
+operation of passive telecom infrastructure** — pylons, antenna sites, technical sites and other
+non-active equipment, to be **built and leased** to the mobile operators. Minister
+**[[justin-gourna-zacko]]** called it "**a first in our history**"; ARCEP DG Bonaventure Benjamin
+Panzet Sébas and SOS Télécoms PDG Djargué Kertoumar signed. The company — founded 2010, headquartered
+in **N'Djamena, Chad**, with branches in Niger, Burkina Faso, Togo, South Sudan and CAR — had applied
+on **13 February 2024**. It is explicitly **not** a competitor to Orange, Telecel or Moov but a
+wholesale partner, aimed at the rural and low-margin coverage the operators will not build alone: a
+**towerco** model in a market where the binding constraint is capex, not demand. Separately, the
+**Council of Ministers of 17 April 2025** approved an SOS Telecom agreement to deploy **fibre in
+Lobaye, Mambéré-Kadéï and Ouham-Pendé and on the Bangui–Bambari axis**. Source:
+[[2025-07-21-sos-telecoms-licence-infrastructures-passives-oubanguimedias]]. (Provenance established by
+the reconcile pass, 2026-07-20 — the claim previously reached the wiki only through a dropped mirror.)
+See [[digital.rural]].
+
+**The incumbent's fourth rescue attempt.** [[geopol.usa]] [[infra.store]] **[[socatel]]** — a few thousand
+fixed lines, and the international-gateway monopoly that helped kill the CAB transit component — is the
+subject of a **$150m privatisation MoU with US firm Greenline Technologies**, signed **18 Sep 2025** in
+Casablanca and moved to an operational phase **16 Jul 2026**, promising a **Tier 3 data centre** and a
+national connectivity ecosystem. Nothing is built and the deal structure is undisclosed; the **November
+2020** Global Technologies rescue (€20m, hertzian backup network to 40% of the population) was never
+funded. See [[socatel]], [[car-national-datacentre]]. Sources:
+[[2025-09-18-greenline-socatel-privatisation-mou-greenline]],
+[[2026-07-17-socatel-greenline-relance-150m-agenceecofin]].
+
 **Reducing single-route fragility.** [[gov.regional]] Bangui is pursuing a **digital interconnection with
 South Sudan** (announced 17 May 2026), to be implemented by a new **Central African Digital Development
 Agency** with **[[mtn-group|MTN]]** — cutting dependence on fragile regional routes (no financing/route
@@ -102,3 +128,6 @@ Place: [[CAF]] · Concepts: [[infra.connect]] · [[include.divides]] · [[infra.
 - [[2025-07-30-car-taux-penetration-internet-30-pourcent]]
 - [[2025-03-03-datareportal-digital-2025-central-african-republic]]
 - [[2025-11-08-datareportal-digital-2026-central-african-republic]]
+- [[2025-07-21-sos-telecoms-licence-infrastructures-passives-oubanguimedias]]
+- [[2025-09-18-greenline-socatel-privatisation-mou-greenline]]
+- [[2026-07-17-socatel-greenline-relance-150m-agenceecofin]]

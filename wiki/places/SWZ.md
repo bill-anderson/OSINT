@@ -68,8 +68,24 @@ The rails exist; usage lags them.
   (the datelined primary),
   [[2025-07-31 Eswatini Economic Update - Digital Transformation Key to Unlocking Growth]],
   [[2025-08-05 Robust DPI inevitable for Eswatini's economic, jobs boom - World Bank]] — which adds
-  that **over 90% of P2B payments remain cash-based** and that the **GIYH App launched in May 2025
-  met data-privacy criticism** (see GAP-SWZ-002). See [[gov.policy]], [[dpi.id]], [[infra.connect]].
+  that **over 90% of P2B payments remain cash-based**. See [[gov.policy]], [[dpi.id]],
+  [[infra.connect]].
+- **2025-07-04** — **GIYH's privacy failure, acknowledged by government.** The **Sunday Observer**
+  reported that its reporter **was able to locate public data on the GIYH system**, calling it
+  **"a glaring security risk."** **Bongani Ndlangamandla**, Director of eGovernment Services,
+  conceded: *"we are aware of some gaps, hence the need for a proper digital ID and digital
+  signatures"* — an admission that the citizen super-app shipped **ahead of the foundational
+  identity and PKI layer** the [[digital-eswatini-project]] is meant to build. By **2026-03-18**
+  the concern had reached PM **Russell Dlamini**, who told Parliament GIYH "must be watertight"
+  and that his office **does not support outsourcing data to global IT companies**. See
+  [[gov.protect]], [[infra.cybersec]], [[eswatini--dpi-govtech]]. Source:
+  [[2025-07-04-biometricupdate-eswatini-giyh-privacy-criticism]].
+- **2025-05-21** — **GIYH and TaxPal launched at Ezulwini.** [[savannah-maziya]] unveiled the
+  **[[government-in-your-hand]]** app with the [[eswatini-revenue-service]]'s **TaxPal**: ID/passport
+  status, business-name registration, **vehicle licences via Mobile Money**, educational-financing
+  information; login by **national ID + SMS OTP**; new services promised every six months. **Over
+  2,000 downloads by 2025-06-11.** See [[dpi.govtech]], [[dpi.pay]]. Source:
+  [[2025-05-21-eswatini-launches-new-apps-giyh-taxpal]].
 - **2025-05-12** — **Youth employment project brings a digital social registry.** The World Bank
   board approved the **[[eswatini-youth-employment-opportunities-project]]** — Eswatini's first
   IDA-financed project after transition to IDA/IBRD blended status. Component 2 establishes a
@@ -87,12 +103,15 @@ The rails exist; usage lags them.
   over five years — a 20% increase on the 249,014 households connected in 2023. Source:
   [[2025-02-13 World Bank Expands Support to Electrify Rural Eswatini, Reaching 200,000 People]].
   See [[infra.energy]], [[digital.rural]].
-- **2025-01-22** — **Google partnership announced.** ICT Minister **[[savannah-maziya]]** announced
-  a partnership integrating Google tools into **[[government-in-your-hand]]**, focused on youth
-  digital competencies, public-service accessibility and entrepreneurship
-  ([[eswatini-google-partnership]]). *No MoU value, term or scope disclosed; the deal rests on a
-  single secondary outlet, with no Google or Government of Eswatini primary held (GAP-SWZ-001).*
-  Source:
+- **On or before 2025-01-20** — **Google partnership launched.** ICT Minister
+  **[[savannah-maziya]]** launched an **MoU with Google Cloud EMEA** integrating Google tools into
+  **[[government-in-your-hand]]** — **Google Workspace for public servants**, AI, **digital
+  addressing**, and youth digital-skills academies. Google Cloud's Africa lead **Basil Ayass** spoke
+  at the launch ([[eswatini-google-partnership]]). Maziya later answered the **Senate** on data
+  sovereignty (2025-04), citing an NDA with need-to-know access "deactivated post implementation."
+  *No value or term has ever been published by either party — an established absence.* Sources:
+  [[2025-01-20-insidebiz-eswatini-partners-with-google]],
+  [[2025-01-21-google-works-with-eswatini-to-accelerate-digital-economy]],
   [[2025-01-22 Eswatini partners with Google to drive digital transformation and economic growth]].
   See [[finance.mou]], [[geopol.usa]].
 - **2024-12-11** — **Eswatini Payment Switch Fast Payments goes live.** Governor **[[phil-mnisi]]**

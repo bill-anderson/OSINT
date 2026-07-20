@@ -93,3 +93,48 @@ mutually inconsistent official claims — never as a trajectory, and never with 
 - **Jornal Fax** — "Discurso do Chefe de Estado João Lourenço na abertura da 4.ª edição do ANGOTIC", 2024-06-13. https://jornalfax.net/index.php/2024/06/13/discurso-do-chefe-de-estado-joao-lourenco-na-abertura-da-4-a-edicao-do-angotic/ — corroborates ~2,000 km as a recurring annual increment (not clipped)
 - **TechAfrica News**, 2026-04-29 and **Ecofin Agency**, 2026-04-29 — the 22,000 km restatement; already held / secondary (not clipped)
 - **INACOM** — "INACOM apresenta o Relatório Anual Estatístico 2024", 2025-06-12. https://inacom.gov.ao/2025/06/12/o-inacom-apresenta-o-relatorio-anual-estatistico-2024/ and https://observatoriotic.gov.ao/ — the authoritative statistical series; **PDF not retrievable in this pass** (provenance gap)
+
+---
+
+## Second pass, 2026-07-20 (afternoon) — ROUTED TO ACQUISITIONS
+
+Two new data points, both confirming the morning diagnosis rather than changing it:
+
+- **2023-05-17 — MINTTICS, Matias Borges**, on minttics.gov.ao: *"Ao nível da rede de fibra óptica
+  terrestre, possui **mais de 22.000 km** que conecta todas as capitais provinciais e comunais."*
+  Independently re-confirms the 22,000 km figure as **≥2023 boilerplate**, and the minister's
+  April-2026 restatement as a repetition of a figure ~3 years old.
+- **2025-10-29 — Mundo Infra**, attributed to **"Minttics – Estado da Nação 2025"**: *"A rede
+  nacional de fibra óptica ultrapassou a marca dos **20 mil quilómetros** instalados."* Pins the
+  Estado da Nação datum at day precision.
+
+The full official series now reads:
+
+> **22,000 km (2023-05) → 20,000 km (2025-10) → 30,000 km (2025-11-28) → 22,000 km (2026-04) →
+> 28,000 km (2026-06)**
+
+Non-monotonic in **both** directions across five statements from the same ministry and its
+secretary of state.
+
+### The acquisition attempt, and why it stops here
+
+**INACOM *Relatório Anual Estatístico do Sector das Telecomunicações e Tecnologias de Informação*,
+2024 edition** — presented **2025-06-13** at ANGOTIC 2025 (Centro de Convenções do Talatona),
+minister **Mário Oliveira** presiding. **Bilingual PT/EN** from this edition; two new chapters,
+*Inclusão Digital* and *Panorama Regulatório*.
+
+- `https://observatoriotic.gov.ao/documents?...&type=report` — the report listing — **fetches
+  empty**: client-side-rendered SPA with no server HTML. Third failed retrieval route.
+- **Third parties demonstrably hold the PDF.** Forbes África Lusófona (2025-06-19) quotes it in
+  detail (fixed-line 80k subscriptions 2024, −6k YoY; penetration 1.53% → 0.91% across 2020–2024;
+  MSTelcom +14pp, TV Cabo +8pp) — *"documento a que a FORBES ÁFRICA LUSÓFONA teve acesso"*. The
+  document exists and circulates; it is simply not machine-fetchable.
+
+**A browser session or manual download is required. Automated fetch has failed three times and
+should not be retried.**
+
+### Honest limit on the acquisition
+
+It is **not established that the INACOM series reports a national fibre-km total at all**. Its
+fixed-line and penetration chapters are confirmed; a backbone-length series is assumed. Obtaining
+the report may not settle the question.

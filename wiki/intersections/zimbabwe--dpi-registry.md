@@ -7,8 +7,8 @@ places: [ZWE]
 topics: [dpi.registry, gov.legislate, dpi.govtech, gov.standards, infra.cybersec, dpi.id]
 entities: [[zimbabwe-si-76-2025], [zimbabwe-deeds-registry], [digital-land-administration-platform], [ministry-of-justice-zimbabwe], [zimra], [tarms-zimbabwe], [registrar-general-zimbabwe], [civil-registry-department-zimbabwe]]
 status: active
-last_reviewed: 2026-07-19
-sources: [[2025-07-28 Legal Discussions with Vengai Madzima - Digitization of the Deeds Registry in Zimbabwe], [2025-08-01 How to secure your property in Zimbabwe with the new digital deed system], [2025-01-01 ZIMRA Taxpayer Registration], [2025-07-15 Zimbabwe looks forward to digital ID rollout after population registry reform], [2025-07-10 Zimbabwe Launches Mobile ID Registration Program to Serve Remote Binga Communities], [2026-04-07-title-deed-validation-reissuance-pilot-madzima]]
+last_reviewed: 2026-07-20
+sources: [[2025-07-28 Legal Discussions with Vengai Madzima - Digitization of the Deeds Registry in Zimbabwe], [2025-08-01 How to secure your property in Zimbabwe with the new digital deed system], [2026-01-01 ZIMRA Taxpayer Registration], [2025-07-15 Zimbabwe looks forward to digital ID rollout after population registry reform], [2025-07-10 Zimbabwe Launches Mobile ID Registration Program to Serve Remote Binga Communities], [2026-04-07-title-deed-validation-reissuance-pilot-madzima]]
 ---
 
 # Zimbabwe — registries (dpi.registry)
@@ -123,14 +123,19 @@ of a deceased taxpayer, and **"Register with existing BP Number"** — that last
 confirming a **migration from a legacy Business Partner numbering system** rather than a
 greenfield registry. The TIN gates e-filing, e-payments and automated tax clearance.
 
-**Date and provenance caveats.** The source page is **undated**; the year is the clipper's
-inference from a news-ID sequence, so it is filed **year-precision proxy** and the
-2025-01-01 prefix is padding. **Only "post-February 2024" is genuinely established
-(GAP-ZWE-005).** It is **official first-party and effectively promotional** — "enhances
-transparency, improves service delivery" are the agency's claims about itself — and it
-carries **no figures at all**: no registration counts, no migration progress, no adoption
-rate. It establishes the mechanism, not its uptake.
-Source: [[2025-01-01 ZIMRA Taxpayer Registration]].
+**Date and provenance caveats.** The source page carries **no dateline** — ZIMRA's news CMS
+renders none — but it is dated to **January 2026** (established 2026-07-20, month
+precision) by bracketing its news ID (2346) against dated neighbours: ID 2344 reports an
+AGM of 2 December 2025 and ID 2345 previews the 26 January 2026 Customs Day
+prospectively, while IDs 2347–2349 fall on or after 26 January 2026. Outer bound
+**2 December 2025 – 30 January 2026**. *This supersedes the earlier "post-February 2024 /
+bare 2025" reading, which was inferred off a distant anchor and was wrong by about a
+year; the 2025-01-01 filename prefix is stale padding pending rename.* The source remains
+**official first-party and effectively promotional** — "enhances transparency, improves
+service delivery" are the agency's claims about itself — and it carries **no figures at
+all**: no registration counts, no migration progress, no adoption rate. It establishes the
+mechanism, not its uptake.
+Source: [[2026-01-01 ZIMRA Taxpayer Registration]].
 
 ## Population registry and civil registration
 

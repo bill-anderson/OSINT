@@ -58,15 +58,20 @@ days, two days before a presidential election — reminding every layer above it
   without attaching a remedy to anyone's books. See **[[uganda--infra-connect]]**, [[include.divides]].
   Sources: [[2026-07-17-airtel-uganda-advances-digital-inclusion-talks]],
   [[2026-07-17-airtel-uganda-ict-minister-meeting]].
-- **2026-07-17** *(both items undated — proxy-dated at ingest)* — **Architecture renewal, and the stack
-  described.** [[nita-uganda]] concluded a workshop with the **[[e-governance-academy]]** on renewing
-  the **Government Enterprise Architecture** and **[[uganda-e-gif]]** (GAP-UGA-004). A joint
+- **2026-05-27** — **Architecture renewal completed.** [[nita-uganda]], with the
+  **[[e-governance-academy]]** and [[world-bank]] support, **delivered the renewed Government
+  Enterprise Architecture and [[uganda-e-gif]]** — the GEA aligned to Uganda Vision 2040, the e-GIF
+  rebuilt for secure standardised cross-government data exchange. The renewal ran from a Kampala
+  kick-off workshop concluded **2026-02-18** to delivery in May; the 2021 originals had reached their
+  five-year mark. Rollout is not yet reported. Sources:
+  [[2026-02-18-ega-uganda-launches-renewal-gea-egif]],
+  [[2026-05-27-ega-uganda-renewed-digital-government-frameworks]].
+  See [[dpi.exchange]], [[gov.standards]].
+- **2026-07-17** *(item undated — proxy-dated at ingest)* — **The stack described.** A joint
   NIRA/NITA-U deck records NIRA's services used by **90 of 135 entities** on **[[ughub]]**, with
   **[[ugpass]]** as the authentication and e-signature platform. *Undated figures — not to be read as
-  current-dated.* Sources:
-  [[2026-07-17 NITA-Uganda concludes workshop on renewal of government enterprise architecture and interoperability framework]],
+  current-dated.* Source:
   [[2026-07-17 A Collaborative Approach to Digital Identity and Digital Transformation (NIRA and NITA-U)]].
-  See [[dpi.exchange]], [[gov.standards]].
 - **2026-07-10** — **Cross-border identity governance.** A [[dial]] analysis uses **Kenya, Rwanda and
   Uganda** as its worked example: national ID cards **mutually recognised for travel** but often
   **inadequate for cross-border financial services**, where passports/permits are demanded — the

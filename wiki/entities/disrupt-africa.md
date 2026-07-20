@@ -49,6 +49,16 @@ retain **Disrupt Africa as a named floor series**: conservative, startup-scoped,
 publishing a full named startup list. The standing rule is unchanged either way: never write a bare
 "Africa raised $X in 2025".
 
+**A third series, and the same lesson (2026-07-20).** **AVCA**'s *Venture Capital in Africa Report*
+(Feb 2026) puts CY2025 African venture at **US$3.9bn across 506 deals** — US$2.1bn equity + US$1.8bn debt.
+That is AVCA's analogue of Partech's US$4.1bn/570, **not** a rival to Disrupt Africa's floor series. On
+equity alone AVCA and Partech run in **opposite directions** (−21% vs +8%), because their **2024 bases**
+differ (≈US$2.7bn vs US$2.2bn) — not because either revised anything. Four incompatible CY2025 series now
+circulate; a fifth, **TechCabal Insights' US$3.42bn / 502 deals**, has **no established basis** and should
+not be cited until it does. The standing rule holds and hardens: never sum, average or cross-check these,
+and never quote a year-on-year change without the base it is taken from. See [[finance.new]].
+Source: [[2026-02-01-avca-venture-capital-in-africa-report-2025]].
+
 **Report not yet held.** The wiki holds Disrupt Africa's *announcement* of the 11th edition
 ([[2026-02-03-disrupt-africa-tech-startups-funding-report-2025]]), not the report PDF itself. The
 sectors, acquisitions and named-startup sections, and the methodology statement quoted above, need a

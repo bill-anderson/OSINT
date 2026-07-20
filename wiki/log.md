@@ -5,6 +5,129 @@ contradictions found, and open `needs-review` flags.
 
 ---
 
+## 2026-07-20 — Reconcile pass: `open/` drained, 49 → 0
+
+Ran the whole folder, as its README requires, across 15 workers. **All 49 items closed**; `open/` now holds
+only its README. 64 primary clips are staged in `new/` for a normal ingest. Individual resolutions are on
+the pages and in `reviews/contradictions/done/`; what follows is what the pass revealed *in aggregate*.
+
+### The pass's main finding is about the corpus, not any one country
+
+**Event date ≠ publication date is not an occasional slip. It is the corpus's dominant failure mode.** This
+run found it **nine more times**, on top of the ones the morning's pass found:
+
+| Where | Held | Actual | Out by |
+|---|---|---|---|
+| ZIMRA / TaRMS (ZWE) | 2025 (inferred year) | Jan 2026 (bracketed) | ~12 months |
+| ZILAS (ZMB) | SZI portal pages | ministerial statement, go-live 2023-05-17 | ~16 months |
+| ZRHCP (ZMB) | 2025-10-03 re-report | WB approval 2024-09-26 | ~12 months |
+| D-Money ports (DJI) | 2021-12-11 proxy | published 2023-12-12, event 2023-12-10 | ~24 months |
+| NITA-U / eGA (UGA) | 2026-07-17 proxy | 2026-02-19 (dateline was on the page) | ~5 months |
+| CEIEC contract (AGO) | Nov 2019 | *Despacho Presidencial nº 8/17*, 2017-01-03 | ~2.5 years |
+| EBRD–Tunisie Telecom | 2026-01-19 re-report | EBRD's own, 2026-01-16 | 3 days |
+| LTT–ZTE MoU (LBY) | 2026-03-11 | 2026-03-09 (The Register's republication date) | 2 days |
+| GIYH criticism (SWZ) | 2025-08-05 WB passing mention | 2025-07-04 substantive account | ~1 month |
+| IFC DFS report (SDN) | 2026-07-16 (ingest date) | 2021-10-24 | ~4.7 years |
+
+Five were corrected in `raw/` by the orchestrator (workers may not write there): the Sudan IFC report, the
+Djibouti D-Money clip, the NITA-U clip, the ZIMRA clip, and the DataReportal Zimbabwe currency flags.
+
+**Two lessons worth keeping.** First, **"date could not be established" was wrong more often than it was
+right.** The NITA-U clip's dateline was sitting on the publisher's page and had simply been lost in capture;
+the ZIMRA date was recoverable by bracketing a monotonic news-ID sequence against *near* anchors rather than
+one 52 IDs distant. A capture failure had been wearing the costume of an honest limitation. Second,
+**lint #11 cannot catch any of this** — every bad prefix was well-formed, merely false.
+
+### Errors of substance corrected
+
+- **Three separate Angola claims trace to one Biometric Update headline (2025-05-07):** the CEIEC contract
+  mis-dated by 2.5 years, a **$200m Indian credit line that is for defence, not DPI** (per Modi's own words),
+  and **an Aadhaar-modelled Angolan ID and MOSIP engagement that do not exist.** A single secondary headline
+  had manufactured a China-vs-India DPI contest the record does not support.
+- **Uganda's card vendors were inverted.** Mühlbauer was the *incumbent* producer 2010–2018; **Veridos has
+  held production since 2018** via USPC (Government 51% / Veridos 49%). The 2022–23 parliamentary fight tried
+  to *displace* Veridos and failed. The "overcharging scandal" claim is **withdrawn as unsupported** —
+  objections ran the other way, that the Veridos card was too expensive.
+- **Gabon's registry was Gemalto's, not Thales's.** Thales holds it only via its 2019 acquisition. The
+  conflation had a real cause: the two firms traded identity assets **both ways** (IN Groupe bought Thales's
+  identity arm in 2017), so neither won its Gabonese mandate under the name the wiki used.
+- **Ghana's "National Identification Act 2009" does not exist.** The stack is Act 707 (2006), Act 750 (2008),
+  Act 950 (2017), L.I. 2111 (2012) as amended by L.I. 2356.
+- **Chad's Huawei relationship was described as prospective.** Huawei has been the **incumbent PMICE
+  contractor since July 2020**, on an Eximbank of China loan already in repayment. That inverts the
+  "courting every bloc" reading: China is not one option among several, it is the built infrastructure.
+- **A South African IDEMIA contract for 80m cards over ten years appears not to exist** — one unsourced
+  sentence, no award notice, and GPW produces Smart IDs in-house. Struck as unverified.
+- **Enugu's schools programme is 260, not 267**, and — contrary to the gap that spawned the brief — has a
+  substantial documentary trail, including a terminated ₦11.4bn contract, an **EFCC recovery of ₦1.23bn**,
+  and a school **demolished in July 2025** after failing integrity tests. The page now reads as a caution
+  about announced-vs-verifiable scale.
+- **`BFA.md`'s "370 localities of 750 targeted" was a misread** of Digital Magazine; the Primature says the
+  750 are *"en complément des 370 déjà réalisées en 2025."*
+- **The UN Commission does not name Adut Salva Kiir Mayardit** in connection with Crawford Capital; that
+  attribution came from secondary reporting and is now marked *reported, not established*.
+
+### Where the pass corrected this morning's work
+
+- **The EBRD conflation hypothesis was wrong.** The morning's Medusa reconcile concluded that the "EBRD
+  €190m finances the Tunisia–Medusa connection" line was trade press conflating a separate corporate loan.
+  The EBRD's own statement says the loan finances "**Tunisie Telecom's connection to the MEDUSA submarine
+  cable**". Two financings, different money for different objects: the €10m EU CEF grant built the landing
+  station Orange owns; the EBRD loan funds TT's connection into the cable as a capacity customer.
+- **Decree 26-07 (DZA) should not have entered the record.** Its only sources are `algeriatech.news`, an
+  AI-generated content farm; it was written into a gap entry this morning on that basis and is now
+  unestablished. A decoy was also caught: a "Référentiel national" presented Feb 2025 predates the decree by
+  ten months and is a different object.
+- **Two Burkina figures called "uncitable" this morning are real published statements** — Burkina24 and the
+  PM's Situation de la Nation. They reconcile on sites ≠ localities and calendar increment ≠ cumulative.
+- **P174620 is not CARDIP**, as a brief asserted; it is the bilateral Public Sector Digital Governance
+  Project, with no data-centre component.
+
+### Findings of substance the wiki did not hold
+
+- **UNHCR's ProGres refugee database transfers wholesale to Zambia's Ministry of Home Affairs**, with
+  refugees enrolling into **INRIS itself** (World Bank P503941, $6m identity limb) — a custody transfer with
+  only procedural safeguards. This partly closes the wiki's standing "no account of data-sharing terms".
+- **South Sudan's e-Government revenue platform is Crawford Capital Ltd**, untendered since Nov 2019, on a
+  **75% profit share**, with public revenues held outside the treasury — and the procurement was endorsed by
+  the **National Security Service's Internal Security Bureau because Crawford was building large
+  databases** (UN Commission, *Plundering a Nation*, A/HRC/60/CRP.5). A control case sits alongside it: a
+  comparable SSRA BOT at **3.56% with full transfer to the state**.
+- **Algeria's data-governance decree has not commenced.** Art. 19 makes its duties run only from publication
+  of the two Art. 8 *référentiels*, which issue by décision of the High Commissioner — and no such
+  publication is traceable. Six months after gazetting, the core obligations are not shown to be in force.
+- **Eswatini's GIYH shipped ahead of its own identity and PKI layer**, and the criticism is substantiated
+  rather than alleged: a reporter located public data on the system and the eGovernment Services Director
+  acknowledged it.
+- **Four proposals, three geopolitical sponsors — China, the US, Rwanda — circle one unbuilt CAR data
+  centre.** Visible only once `car-socatel-national-digital-hub` and `car-data-centre-threads` were
+  recognised as the same object.
+- **CAR launched an SNID on 2025-11-28** the wiki knew nothing about; routed to acquisitions pending an
+  official communiqué rather than asserted on a single account.
+
+### Rebrands read as new systems — now four this session
+
+**SmartCare "Care 2.0"** is the Hospital Edition tier of one lineage, not a distinct build — joining
+NIPS/SSIPS, Jamii Namba and Econet InfraCo. Worth treating as a standing pattern rather than four
+coincidences.
+
+### Routed rather than researched
+
+Reconcile is a research pass; a fetch list is a different queue. **`acquisitions.md` grew to 76 items**,
+including the Ghana gazetted Acts, Chad's six legal texts, the Tunisian *plan de développement 2026-2030*,
+the UN Commission report, ZRHCP's PAD/ESMF, and the CAR World Bank PADs. Two are recorded as **blocked**
+rather than pending: INACOM's *Relatório Anual Estatístico* (client-side app, three routes dead, needs a
+browser session — do not retry automated) and the Somali NIRA colocation award ref 4500377 (subscriber
+wall). An honest caveat sits with the first: **it is not established that the INACOM series reports a
+national fibre-km total at all**, so obtaining it may not settle the question it was routed for.
+
+### Orchestrator error, recorded
+
+I dispatched **48 of 49** items and reported the pass as complete before noticing; `zimbabwe-zimra-tarms-date`
+was run afterwards as a fifteenth worker. The miscount was mine, not a worker's.
+
+---
+
 ## 2026-07-20 — Registers deleted: `gaps.md`, `issues.md`, `entity-backlog.md`, `watch.md`
 
 Bill's instruction, on being told the consequence. `gaps.md` was already triaged to zero open items.
@@ -480,6 +603,146 @@ Actioned: `issues.md` overwritten with a tombstone pointing here and instructing
 reads it to stop. `entity-backlog.md` and `watch.md` — which were live-looking worklists with the
 same trap — headed as **closing files**, drain-then-delete, do not append. `contradictions/queued/`
 already carries a README saying nothing there is worked until promoted.
+
+### `RECONCILE.md` written — reconcile takes the whole folder, no tranching
+
+**Bill's correction (2026-07-20):** tranche selection was CC's caution, introduced when a pass was
+believed to be running concurrently. It survived as a manual gate — the opposite of the direction
+of travel. Withdrawn. **"Run reconcile" takes every item in `open/`**; if CC finds itself asking
+which items to do, the answer is all of them. Precedent supports it: the 2026-07-20 pass researched
+34 in one go.
+
+`reviews/contradictions/RECONCILE.md` now holds the loop — read brief, research externally via Exa,
+ingest primaries through `new/`, apply the resolution dated, move to `done/` as the last step so an
+interrupted pass resumes cleanly. Plus: the two-attempt limit and what to write on the page when an
+item won't close; re-routing an item that turns out to be a document the wiki simply lacks; the
+cite-only-what-you-hold discipline; and the one-pass-at-a-time concurrency rule. Tranche language
+struck from `open/README.md`.
+
+This closes the asymmetry noted earlier — the sweep had `daily-README.md` and reconcile had nothing
+since `reconcile_review.md` was deleted.
+
+### `wiki/reference.md` written — the operational detail has a home again
+
+~5,000 words / 33KB, extracted from `reference-source.md` and verified against the live tree.
+Twelve sections: facets and vocabularies, folder structure, filenames, frontmatter schemas, the
+entity page bar, filing rules, sweep intake, page hygiene, dead-link triage, query workspace,
+lint checks 1–12, weekly digest. Schemas, field vocabularies and numeric thresholds transcribed
+verbatim, not paraphrased.
+
+**Adapted where the old detail contradicted the new principles** (each marked in-file): the lint
+duplicate-keeper ladder yields to CLAUDE.md's drop/replace/keep-both; exhaustive tagging yields to
+tag-the-actors, leaving only the *paging* bar (≥3 sources / watchlist / central instrument), the
+watchlist file, the entity pass and tag-drift slug merging; the sweep's "only the human promotes"
+becomes CC promotes and logs, with the containment boundary kept as the load-bearing half; filing
+step 8's structural-gap check becomes acquisitions-or-horizon routing.
+
+**Added back** after review of the extraction, as §5a: academic work admissible on content with
+single/student authorship no grounds for rejection; the two anti-circularity clauses (never ingest
+a publication that re-renders the wiki's own pages; trace an analysis's factual claims to the
+primaries and cite the piece for its analysis); and external published standards are `instrument`
+sources, distinct from the wiki's own config files.
+
+**Three loose ends surfaced by the extraction — all resolved by Bill, 2026-07-20.**
+
+1. **`reconcile_review.md`** was the procedure that fixed contradictions. It is gone and its job is
+   now done inline: `reference.md` §6 step 7 plus `contradictions/open/README.md`. No standalone
+   runbook needed; the dangling references are dropped rather than restored.
+2. **`new-queue/done/` is Bill's** — human-owned. Documented as such: CC does not read, write,
+   drain or tally it.
+3. **`sweep/recapture/` is spent tooling** from the one-off 2026-07 verbatim re-capture run
+   (`run.log`: 1,007 of 1,013 processed) — `run.py`, `retry.py`, `extract.py`, `progress.sh`,
+   `ledger.csv`, `done/exa-recovery.csv`. Bill did not recognise it. Documented as spent: the
+   ledger carries provenance on which held sources were re-captured, the scripts are reusable for a
+   future bulk re-capture, nothing reads it on a normal pass. A deletion candidate under the month
+   rule; git holds it either way.
+
+Also closed: the South Sudan NIPS filename — **Bill deleted the file**, so the ISSUE-031 rename is
+done and drops off the handover list.
+
+### **Rule change:** six rules restored to `CLAUDE.md` after diffing the rewrite
+
+Old file recovered from `f7f5104` to `wiki/reference-source.md` and diffed against the rewrite.
+The compression had dropped real invariants. Restored, as principles:
+
+1. **Out of scope is rejected and deleted, not parked** — Bill's own hand-written rule (ISSUE-022),
+   entirely absent from the rewrite. Without it, off-topic first-hand clips silt up `_leads/`.
+2. **The sweep writes only to its own staging folder** — never straight to `new/`, `raw/` or
+   `wiki/`. Containment kept; the old "only the human promotes" half **not** restored, as it
+   contradicts act-and-log. Flagged to Bill.
+3. **CC cites only links it actually holds** — anti-confabulation; never suggest a source from
+   your own knowledge as though the wiki held it.
+4. **Capture is not endorsement.**
+5. **Structural facts are not dated** — the carve-out from the dated-figure rule, whose loss
+   invited spurious dating of laws and treaty terms.
+6. **Never re-derive at query time what a compiled page holds**, and reconcile research is working
+   material until ingested as a primary.
+
+Net +~150 words. These are restorations, not new rules, so the no-new-rule-without-deleting-one
+discipline is not engaged.
+
+**Left out deliberately**, as operational rather than principle, and queued for `wiki/reference.md`:
+index maintenance, cross-linking, dead-link triage bands and the tag-only whitelist, tag-drift slug
+merging, the external-standards-are-not-discards distinction, `last_reviewed` semantics, the
+paywalled-stub promotion gate, and place-page "Recent developments".
+
+**Ruled (Bill, 2026-07-20):** "Recent developments" stays. The no-chronology rule now carries an
+explicit exception — place hubs keep a dated, reverse-chronological Recent developments section;
+everywhere else events live in the dated source pages. Restored to `CLAUDE.md`.
+
+**Method note:** the rewrite was drafted without the old file ever being read. Compressing 6,500
+words to 1,400 unverified was the error; the diff should have been part of the rewrite, not a
+recovery from it.
+
+### Commit-attribution note — two commits silently carry `CLAUDE.md` changes
+
+`git log --oneline -- CLAUDE.md` shows four commits touching the constitution; only **1e7b289**
+is labelled as a constitution change. The other two swept in `CLAUDE.md` edits via `git add -A`
+under unrelated messages:
+
+- **f7f5104** ("reconcile pass") carries **Bill's own hand-edits to the old file** — ISSUE-019
+  (newsletter digests discarded), ISSUE-021 (paid placement inadmissible), and an
+  out-of-scope→delete rule. These were already in the working tree when that session opened.
+- **b33a91f** ("checkpoint") carries the **currency-conversion clause**, which was CC's
+  deliberate edit under the ISSUE-025 decision and is logged above. Correctly authored, wrongly
+  packaged.
+
+**Decision: leave the history, correct it here.** Amending is not `--amend` — these are not the
+last commit, so it means an interactive rebase, which rewrites every subsequent hash. **b33a91f
+is cited in this log as the recovery point for the deleted registers**, so rebasing would
+invalidate that pointer in the act of correcting the label. The content is right; only the
+packaging is wrong. Record the conflict, don't erase it.
+
+**Process fix:** stage explicit paths, never `git add -A`, in any session that might be running
+alongside another. And run **one** CC session against this vault at a time — every defect logged
+today (the stale `open/README.md`, the abolished-register race, these two commits) came from
+concurrency, not from the new rules.
+
+**Follow-on risk, more serious than the labels.** f7f5104 proves Bill had hand-edited the old
+`CLAUDE.md`. The rewrite was drafted **without the old file ever having been read end to end** —
+it was not in that session's context. Two of the three known hand-edits survive in the new file
+(digests, paid placement); the **out-of-scope→delete rule does not appear** and looks dropped,
+and there may be further losses that cannot be seen without the original. The first job of
+`wiki/reference-source.md` is therefore **a diff against the rewrite to find what the shortening
+threw away** — extracting schemas is the second job, not the first.
+
+### Disk audit, same day — two stale artefacts fixed
+
+Bill asked for a check of what is actually on disk. Result: the abolished registers are **gone**
+(`gaps.md`, `issues.md`, `entity-backlog.md`, `watch.md`, `contradictions/queued/`), the 43 briefs
+were promoted into `open/`, `new/` is empty, and `CLAUDE.draft.md` is gone. Two stale artefacts
+found and corrected:
+
+- **`contradictions/open/README.md`** was the old `queued/` README, carried in with the promoted
+  briefs. It told any agent reading it that *"nothing here is worked until it is promoted"* — i.e.
+  it disarmed the only live worklist in the vault. Rewritten as the `open/` README: everything
+  there is live, take a tranche, two failed attempts then state the position on the page and close.
+- **`CLAUDE.md`** still carried the draft header — *"Not in force until Bill replaces CLAUDE.md
+  with it"* — inside the file that is now in force, and pointed at a `wiki/reference.md` that does
+  not exist. Corrected, with an explicit instruction not to invent schema until it does.
+
+Both are the same failure as the `issues.md` one logged above: a file's contents are its state,
+and a file that moves must have its self-description moved with it.
 
 ### Handed to Bill (CC cannot delete or move files)
 
@@ -9257,3 +9520,730 @@ encoded, Iron Capital lead pending deletion** until it is gone.
 Bill deleted `_leads/2026-07-17-iron-capital-euromoney-nigeria-investment-bank-award.md`. **Confirmed
 gone** by CC (re-stage returns "does not exist"). The advertorial/sponsored-content rule is in CLAUDE.md
 Source admissibility. ISSUE-021 removed from `reviews/issues.md` — the issues register is now empty.
+
+## 2026-07-20 reconcile — Sudan cluster (3 briefs, all closed)
+
+**sudan-four-off-source-developments — RESOLVED.** All four established from Arabic and English primaries.
+(1) **NIPS tender**: CBoS public tender for a National Instant Payment System, 20 Apr – 4 May 2026, bids to
+14 May, software-only scope. As of 8 Jul 2026 a new national payment switch is **contracted but not
+launched**, operated by **EBS** as a "switch of switches". (2) **Al-Asjad licence revoked 4 Jul 2026** by
+CBoS on a technical/legal committee recommendation; breaches not disclosed; UAE tie is *reported
+allegation*, not established. (3) **Baladna 28 digital services**, event date **2026-01-31** (press
+conference; publication 2026-02-01 — event date not promoted from publication date). (4) **Khartoum State
+data centre restored 2025-10-10**, 1,300 m² — distinct from Sudatel's RSF-seized facility (Dec 2023) and
+from the *planned* Port Sudan alternate centre. Four clips to `new/`. SDN.md updated.
+
+**Decision.** The NIPS/EBS finding **qualifies the wiki's concentration-of-payments thesis** rather than
+confirming it: the intended architecture is a sovereign hub with competing private spokes, not
+single-provider by design. Recorded as such on SDN.md rather than filed as a contradiction.
+
+**sudan-aml-and-data-protection-framework — RESOLVED, and the data-protection half resolves to an
+absence.** The parked KYC lead's AML claim was **correct and is now sourceable**: AML/CTF Law of **2014**
+(passed 18 Jun 2014, in force on signature), FIU at CBoS, National Committee, implemented via CBoS
+**Circular 8/2014**. On data protection the finding is a **vacuum, stated dated on the page**: no
+comprehensive statute, no data-protection authority, a c.2018 draft bill never enacted, only a sectoral
+patchwork (Constitutional Charter Art. 54; Electronic Transactions Act 2007; Informatic Offences Act 2007
++ 2020/2022/2025 amendments; Telecom Act 2018 Art. 74). Malabo **signed 15 Mar 2023, not ratified**. The
+Sudanese Data and AI Authority (Nov 2025 decree) is a government data-management body, **not** an
+independent regulator. No clip — the statute texts were read via search highlights, not fetched verbatim.
+
+**Decision.** Two AI-generated country-profile aggregators (anuragverma.co, levellers.ai) surfaced high in
+search and were **used only as leads**; every fact was re-confirmed against a primary or named-author
+source. Noted in the quarantine file so a later pass doesn't mistake them for sources.
+
+**sudan-dfs-report-publication-date — RESOLVED as to the date; the fix is a `raw/` correction CC did not
+apply.** The held artefact is the **IFC** country brief *"Building Resilience Through Digital Financial
+Services: Sudan"*, published **2021-10-24** (date on IFC's own series page,
+https://www.ifc.org/en/insights-reports/2021/building-resilience-through-dfs), PDF at
+https://www.ifc.org/content/dam/ifc/doc/mgrt/sudan-building-resilience-through-dfs.pdf — filename matches
+the held artefact exactly. Underlying data is **2019–2020** (77.1% mobile access 2019; 13.38m internet
+users Jan 2020). **Not an acquisition** — the wiki holds the document; only the date was missing. The
+correction to `raw/` is left for the orchestrator, the reconcile worker being barred from writing there.
+
+---
+
+## 2026-07-20 — reconcile pass (worker: GHA/NGA batch)
+
+**ghana-nia-statutory-basis-2006-vs-2009 — RESOLVED. One citation was simply wrong.**
+The wiki's "**National Identification Act 2009**" **does not exist**; no Ghanaian statute of that
+title or year governs the NIA, and 2009 matches none of the real instruments. Claim B was correct.
+The statutory stack, per the NIA's own published list of governing law (nia.gov.gh, observed
+2026-07-20) and corroborated by GhaLII, Refworld, the Ghana BRR portal and NCA-hosted PDFs:
+**NIA Act 2006 (Act 707)** (gazetted 21 Apr 2006, assented 18 Apr 2006) · **National Identity
+Register Act 2008 (Act 750)** (gazetted 15 Feb 2008, assented 28 Jan 2008) · **National Identity
+Register (Amendment) Act 2017 (Act 950)** (assented 4 Dec 2017; amends ss.4/7/8/22/75 of Act 750) ·
+**National Identity Register Regulations 2012 (L.I. 2111)**, amended by **L.I. 2356 (2018)** and
+again July 2026. Acts 707 and 750 were each also amended by the **Data Protection Act 2012**.
+Corrected on [[national-identification-authority-ghana]] (new "Statutory basis" section carrying an
+explicit citation-correction note) and [[ghana--dpi-id]] (new structural bullet). Clip to `new/`:
+`2023-11-05-nia-ghana-laws-and-regulations.md`. Research quarantined at
+`reviews/contradictions/research/ghana-nia-statutory-basis-2006-vs-2009.md`.
+*Acquisition candidate (not a contradiction):* the gazetted Act texts themselves — free PDFs at
+nia.gov.gh and nca.org.gh.
+
+**nigeria-ndpc-multichoice-fine-primary — RESOLVED. The fine is real; the wiki simply rested it on
+marketing collateral.** The **NDPC's own statement**, signed by **Babatunde Bamigboye** (Head,
+Legal, Enforcement & Regulations), issued **Sunday 6 July 2025** in Abuja: **₦766,242,500**
+(~US$501,340) on **MultiChoice Nigeria** for breaching the NDPA 2023, on an investigation opened
+**Q2 2024** — privacy violations against subscribers *and non-subscribers*, **illegal cross-border
+transfer**, processing "patently intrusive, unfair, unnecessary and disproportionate" contrary to
+s.37 of the 1999 Constitution — imposed expressly **"for want of cooperation"** after directed
+remediation was judged unsatisfactory. Corroborated by Reuters (2025-07-07), Nairametrics, Guardian
+NG, ICIR, Premium Times, Punch, DataGuidance. **Date discrepancy noted and rejected:** a law-firm
+note dates it "6th June 2025" — an isolated error against seven contemporaneous accounts; do not
+carry it. **Still open, stated on the pages:** whether the fine was paid, contested or varied; and
+the NDPC did **not** answer FIJ's 2025-07-09 FOI request for detailed findings within the FOI Act's
+seven-working-day window — an enforcement-transparency finding now carried on
+[[nigeria--gov-protect]] and [[ndpc]]. Clip to `new/`:
+`2025-07-06-ndpc-multichoice-fine-statement.md`. Research quarantined at
+`reviews/contradictions/research/nigeria-ndpc-multichoice-fine-primary.md`.
+
+**nigeria-enugu-267-smart-green-schools — RESOLVED, and the wiki had the wrong number.** The
+programme exists and is far better documented than the single sponsored placement implied — but it
+is **260 schools, one per ward**, not 267. **267** is an unverified state *delivery* claim
+(mid-2026), and the Commissioner's NESS remark belongs in that register, not as the programme's
+size. The documentary trail the brief assumed absent does exist, via TheCable's investigation
+(2026-05-17): state allocations of **₦266.7bn (2025)** and **₦198bn (2026)**, ~**₦1.3–1.5bn per
+school**, **self-funded from the state budget with no donor or DFI facility**; a **₦11.4bn contract
+for 22 schools** awarded **2024-07-02** (₦5.7bn paid upfront), terminated Feb 2025, with an **EFCC**
+recovery of **₦1.23bn**. Critically, **delivery is materially behind the claim**: as of **May 2026**
+many schools were incomplete and unequipped with pupils already resuming; roof failures at Ishielu
+Amagunze (Feb 2026), Iheaka (2026-04-08) and Orba; a school at **Mbu demolished July 2025** after
+failing integrity tests. [[enugu-smart-green-schools]] rewritten; [[nigeria--digital-localgov]] and
+[[NGA]] corrected. **Residual gap, stated dated on the page:** no connectivity or solar **vendor** is
+named anywhere, and no learning-outcome data or independent evaluation exists. Clip to `new/`:
+`2026-05-17-thecable-enugu-smart-schools-investigation-part-ii.md`. Research quarantined at
+`reviews/contradictions/research/nigeria-enugu-267-smart-green-schools.md`.
+*Acquisition candidates:* TheCable Part I of the same investigation; the Enugu State appropriation
+documents (budget figures currently reach us via TheCable's reading of them).
+
+**Entity tags added without pages** (tag-always/page-when-material): `multichoice-nigeria` (now
+2 sources — approaching the ≥3 bar, flag for the entity pass), `efcc`.
+
+## 2026-07-20 — reconcile pass (BFA / ZAF / SOM)
+
+- **RESOLVED — `burkina-faso-white-zones-coverage-to-date`.** The numerator question. **Both
+  "no source held" figures turned out to be real published statements**: *330 depuis 2019* is
+  Burkina24, 2025-09-30 (an **unattributed journalist's closing line**, from the very event at which
+  the minister said *223 sites depuis 2020*); *441 sites dont 126 en zone rurale* is **PM Rimtalba
+  Jean Emmanuel Ouédraogo's Situation de la Nation address, 2026-01-30**. The five figures reconcile
+  on two distinctions — **sites ≠ localities** (ARCEP phase 1: **183 antennas, ~6 km range each,
+  covered ~300 localities**) and **calendar increments ≠ cumulative ≠ target**. Findings: **138 =
+  calendar-2024** (leFaso's "first phase" framing is wrong; the real first phase was 183 sites in
+  2022); **370 = calendar-2025**, and the Primature states the 750 are *"en complément des 370 déjà
+  réalisées en 2025"* — so **Digital Magazine's "370 of 750 targeted" framing was a misread, and
+  `BFA.md` carried it**; corrected. **441 is not a white-zone count** — it is all sites deployed in
+  2025, of which **only 126 rural**. Consistent series: **223 (2020–2024) + 370 (2025) ≈ 593
+  localities since 2020** (derived, not asserted by any source). **Left open on the page and routed
+  to acquisitions:** the 2019-vs-2020 baseline, and the absence of any ARCEP/MTDPCE primary stating
+  the counting definitions (ministry publishes via Facebook, off-sweep). Now rests on
+  [[2026-02-03-contrat-objectifs-2025-ministre-transition-digitale]] (Primature, gov primary),
+  [[2022-05-23-couverture-reseau-mobile-300-zones-blanches-arcep]] (Sidwaya/ARCEP — the
+  sites-vs-localities ratio), [[2025-09-30-inclusion-par-le-pylone-fracture-numerique-2027]] and
+  [[2026-02-01-situation-nation-750-localites-441-sites]] (both ingested to close the provenance
+  gaps). → `done/`.
+- **RESOLVED (negative) — `south-africa-idemia-smart-id-contract`.** The alleged **IDEMIA ten-year
+  contract for 80 million smart ID cards does not appear to exist**; **struck as unverified** on
+  `ZAF.md`. It rests on **one unsourced sentence** in ID Tech Wire (2025-02-04), itself credited to
+  BizNews. No award notice, DHA announcement, Treasury record or company statement exists, and the
+  documented record contradicts it: **Smart ID cards are produced in-house by Government Printing
+  Works** (3–9m cards/yr capacity; the DHA credited GPW, not a vendor, for the 4,002,964 issued in
+  2025), on blanks contracted in **2013 to Gemalto** (€16m/~R210m) with **Altech** personalisation
+  machines (R40m). IDEMIA's real DHA contract is **ABIS** — biometric matching, not cards: R400m to
+  EOH (2017), **ceded to IDEMIA 2021-03-31** over SITA's objection, +R191m completion agreement,
+  R65m+R69m in fines, NEC litigation, Phase 2 completed Feb 2024. Its only SA card-production
+  contract was **driving licences** (DoT/DLCA, R898m) — set aside by the Gauteng North High Court
+  **2026-01-06** as irregular, invalid, unlawful and unenforceable. 80m cards would also consume a
+  decade of GPW's maximum capacity for a population of ~63m. **No clips** — the resolution is a
+  negative and needed no new primary. Closes ex-GAP-ZAF-003. → `done/`.
+- **CLOSED (inconclusive by design) — `somalia-national-id-data-hosting`.** Route (b) checked and
+  answered: **the National Data Center has still not been announced as operational as of
+  2026-07-20**, fourteen months after MoCT's "nearing completion" (2025-05-06) and past the World
+  Bank SCALED-UP revised closing date of 2026-06-30 — a negative made evidential by the ministry's
+  active publication cadence over the same window (data-protection framework 2026-01-05, DPI
+  Conference 2026-02-14, PM inaugurates SOMCIRT 2026-03-07, NIRA/UNDP working group 2026-06-28).
+  NIRA's substantial 2026 output (ID4Africa playbook; 1.4m+ registered as of March 2026) never
+  mentions hosting location, so the DG's 2025-11-17 on-shore assertion stands single and unrepeated.
+  Route (a) — colocation award ref **4500377** — is an **acquisition, not research**; routed. Page
+  now states the position dated and honest about what is not established. Closed because a second
+  research attempt would not plausibly differ; only the tender document would. → `done/`.
+- Pages touched: `wiki/places/BFA.md`, `wiki/places/ZAF.md`, `wiki/places/SOM.md`.
+- Registers: 2 items appended to `reviews/acquisitions.md` (Somali tender 4500377; BFA ARCEP/MTDPCE
+  counting-definitions primary).
+
+## 2026-07-20 — reconcile pass, Gabon cluster (3 items)
+
+**gabon-data-protection-statute-text — RESOLVED; the residue is an acquisition, not research.** The wiki
+could name the regulator but not the law. Gabon's regime is a chain of three instruments, all now on
+`apdpvp-gabon` and summarised on `GAB`: **loi n°001/2011** (promulgated 25 Sept 2011, Décret n°01098/PR,
+*JO* n°74 of 24–31 Oct 2011; art. 15 created the **CNPDCP**) → **ordonnance n°00002/PR/2020** (31 Jan
+2020; amends arts. 13/14/20/37/101/102/104, creates the **RPPVP** levy and the **DPD** role) → **loi
+n°025/2023** (adopted 9 July 2023, promulgated 12 July 2023 by Décret n°166/PR, *JO* n°218 *Bis* of 15
+July 2023), whose **art. 7 creates the APDPVP**. So the authority rests on art. 7 of the 2023 law, not a
+standalone decree. **Two citation forms circulate for one instrument** — the JO's own header and DLA
+Piper say "du 09/07/2023", the APDPVP's own PDF and AFAPDP say "du 12 juillet 2023" (matching the
+promulgation decree); recorded on the page as adoption-vs-promulgation, **not** filed as a contradiction.
+Also flagged: africadataprotection.org miscategorises it as a "Règlement". **Entry into force is not
+fully established** — the final/transitional articles sit past the fetch truncation — so the full text and
+the 2020 ordonnance are **routed to `acquisitions.md`**. No clip: a ~200-article statute read in part is
+not worth storing as an `excerpt`.
+
+**gabon-cnie-nip-enrolment-coverage — RESOLVED.** Interior Minister **Adrien Nguema Mba** gave the first
+detailed figures to the National Assembly on **2 June 2026**: **335,384 enrolled** since the 2024 launch,
+**164,944 cards produced**, **147,224 collected**, **17,720 uncollected**, **92,614 files in processing**,
+**78,500 litigious**. Recorded on `gabon--dpi-id` and `GAB` with the **counting caveat the brief asked
+for** — these are enrolment events / credentials produced / credentials delivered, and **none is unique
+NIPs issued**; because citizens already on the 2013+ biometric electoral roll get a NIP attestation
+without re-enrolling, 335,384 is a **floor** for NIP coverage, not a measure of it. The World Bank "% of
+16+ with a NIP" indicator therefore **stays at its zero baseline (Dec 2024)** and remains an open item.
+Trajectory added (0 → ~120,000 Feb 2025 → 335,384 Jun 2026). Noted as analysis, not just arithmetic: the
+**78,500 litigious files are ~23% of all enrolments** — a data-quality problem, not a queue. Clip:
+`2026-06-03-gabon-cnie-enrolment-figures-assembly`. **Provenance limit recorded and routed:** the
+Assembly's own communiqué and AGP both cover the session but publish **no numbers**, so the figures rest
+on press accounts of a spoken answer — a DGDI/ministry publication is queued in `acquisitions.md`.
+
+**gabon-id-vendor-roles-in-groupe-vs-thales — RESOLVED for the historical mandates; the 2024 award stays
+open.** The brief suspected the wiki had conflated two vendors. It had, and the cause was a **corporate-
+history artefact**: **neither firm won its Gabon mandate under the name the wiki used**, and the two
+companies traded identity assets **in both directions** — IN Groupe bought **Thales's** Identity &
+Biometrics arm (effective **9 May 2017**), and Thales bought **Gemalto** (2019). Established: the
+**registry** (IBOGA) was won by **Gemalto** on international tender **announced 2012-09-20** (Coesys
+enrolment, fingerprint dedup, Coesys Issuance, PKI), and **Thales holds it only via the Gemalto
+acquisition** — the wiki's "Gabon awarded Thales in 2012" was **wrong and is corrected**. The
+**credential** layer is **IN Groupe**: ID Platform delivered **2013** (first contacts 2010), five-year
+DGDI maintenance-and-supply partnership **Nov 2015** (Moubelet Boubeya / Trutt), published scope
+**e-passports, visas, residence permits, refugee cards — the national ID card is not named**, with an
+explicit **technology-transfer** aim. Clips:
+`2012-09-20-gemalto-gabon-biometric-national-registry`,
+`2015-11-25-in-groupe-gabon-dgdi-secure-titles-partnership`. Pages fixed: `thales`, `in-groupe`,
+`gabon--dpi-id`, `GAB`. **Left open and stated dated on the page:** no primary award for the **2024 CNIE**
+was found for either vendor, and Digital Business Africa (2024-06-27) reports the **DGDI itself produces
+the CNIE** — *platform supplier* vs *producer of record* are different claims the sources do not settle,
+so the page says so rather than smoothing it. Sovereignty note kept sharp: Thales's own ID4Africa 2023
+deck names **"risk of vendor lock-in"** as a challenge.
+
+All three briefs `git mv`'d to `reviews/contradictions/done/`. Research quarantined in
+`reviews/contradictions/research/` (DO-NOT-INGEST). Three clips staged in `new/` awaiting normal ingest.
+
+**chad-telecoms-minister-boukar-michel-vs-haliki-choua-mahamat — RESOLVED, not a contradiction.**
+Successive holders of the *same* portfolio, no split and no rename. **Boukar Michel** held it from
+**January 2024** (title expanded to *Télécommunications, Économie numérique et Digitalisation de
+l'administration* on 2024-05-27) until **1 April 2026**; **Haliki Choua Mahamat** was appointed by
+**décret n°280/PR/PM/2026 of 2026-04-01** and took office at the handover on **2026-04-08**, which
+also installed **Abel Maïna** in a newly created secrétaire d'État post. Haliki is a returning
+minister and **former DG of [[arcep-chad]]**. The wiki's 2026-07-01 source naming Haliki was
+therefore never in conflict — he had held the post three months by then. [[TCD]] updated with a
+dated Recent-developments entry and an officeholder note; per the entity rule the **ministry**, not
+the person, is the durable actor. Clips to `new/`:
+`2026-04-01-tchadinfos-remaniement-gouvernement-haliki-choua-mahamat.md`,
+`2026-04-08-portail-td-passation-charges-ministere-telecommunications.md`.
+
+**chad-pmice-eximbank-identity — RESOLVED. The lender is China, and the wiki was blind to it.**
+PMICE is financed by the **Export-Import Bank of China**: a concessional loan of **~111.4bn FCFA
+over 20 years at 2%**, ratifying bill passed by the National Assembly as reported **2020-05-08**,
+following the Chad–China framework agreement **signed 2019-06-26, ratified 2019-08-20**. The loan's
+stated scope (national data centre, 200 Sotel sites, 1,200 km fibre) *is* PMICE Phase I. Project
+launched **2020-07-07**; **[[huawei]] is the contractor**, GOLF/Gulf Consulting the supervising
+engineer (2025-01-10); repayment had **already begun by 2026-05-19** with works incomplete. Cost
+figures reconcile as supersession, not conflict — €174m at launch (2020-07) → €175.1m Phase I
+(2025-12), stable in euro; the loan (111.4bn FCFA) is *smaller* than the project total (114bn FCFA);
+the World Bank's $180m (2023) and the $204.7m (2025) differ largely by exchange rate.
+**Consequential correction:** [[TCD]] framed the December-2025 Huawei meeting as talks with a
+prospective partner "no agreement signed" — Huawei has in fact been the **incumbent contractor since
+July 2020**. [[pmice]], [[TCD]] and [[chad--infra-store]] updated. Clips to `new/`:
+`2020-05-08-ciomag-tchad-pret-eximbank-chine-tic.md`,
+`2020-07-08-magazinedelafrique-tchad-lancement-pmice-financement-chine.md`,
+`2025-01-10-agenceecofin-tchad-centre-donnees-national-finalisation.md`.
+*Recorded, not resolved:* PMICE expands two ways in the press — "Connectivité de l'État" vs
+"Communications Électroniques"; the 2020 launch coverage and the ministry's own 2026 readouts use
+the latter.
+
+**chad-digital-law-text-and-enactment — RESOLVED as a dated vacuum, plus a scope correction.**
+Two separate questions, both now answered. (1) **The Code du numérique is not enacted.** As of
+**2026-04-28** it was still at drafting stage — Haliki installed a **34-member committee on
+2026-04-27** with a 45-day deadline. There is no text, number or gazette reference *because the
+instrument does not exist*; that is a **known vacuum stated dated on the page**, not a provenance
+gap, and Chad still has no enacted data-protection law. (2) **The ordinance is identified and
+narrower than the wiki said**: **Ordonnance n°011/PR/2025 of 2025-08-05** amends **a single article
+(18)** of **Loi n°013/PR/2014 of 2014-03-21**, and its actual subject is **mobile-operator licence
+conditions** — the "modernisation / competition / sovereignty" language was the bill's stated
+rationale as relayed by trade press, not the amendment's content. Ratified by the **National
+Assembly 2025-10-22 (105–31–2)** and the **Senate 2025-12-23 (65 of 67)**. **Bonus primary fact**
+from the same floor debate: Boukar Michel stated on the record that **[[starlink]]'s Chadian
+concession is a multiservice ISP (FAI) licence, not a mobile-operator licence, granted on
+application after favourable ARCEP opinion and without public tender**. [[TCD]] and
+[[chad--gov-protect]] updated. Clip to `new/`:
+`2025-10-22-toumaiwebmedias-ratification-ordonnance-011-pr-2025-communications-electroniques.md`.
+*Law-number discrepancy settled by primary:* trade press splits between 014/PR/2014 and 013/PR/2014;
+the published text itself reads **013/2014**, which the wiki already had right — no new
+contradiction opened.
+
+**Decision (reconcile pass, Chad).** Per today's entity rule, ministerial churn is tagged to the
+**ministry**, not the officeholder: the three Chad clips naming ministers tag
+`ministry-of-telecommunications-digital-economy-chad`, and [[boukar-michel]]'s existing page is left
+in place but the [[TCD]] hub now carries a dated officeholder note so pre- and post-April-2026
+ministerial quotes are not silently attributed to the wrong person.
+
+**Routed to `reviews/acquisitions.md`** (documents the wiki wants and does not hold): Ordonnance
+n°011/PR/2025; Loi n°013/PR/2014 (**URL held, fetchable**); Ordonnance n°001/PR/2026 (ANSICE reform);
+décret n°280/PR/PM/2026; the 2023 World Bank document and the China Eximbank loan agreement; and —
+**newly surfaced, not previously known to the wiki** — Chad's **loi on biometric data in judicial
+procedures**, adopted by the National Assembly **2026-04-10 (138–1)**, material to [[chad--dpi-id]]
+and [[chad--gov-protect]] (**reporting URL held, fetchable**).
+
+## 2026-07-20 — reconcile pass (worker: Algeria launch + Africa VC equity direction)
+
+- **Algeria Feb-2026 data-governance launch — RESOLVED, and it turned up the load-bearing fact.**
+  The 9 Feb 2026 launch record is established from the Algerian press: PM **Sifi Ghrieb** at the
+  **CIC Abdelatif-Rahal**, under Tebboune's high patronage, slogan *"Souveraineté, organisation et
+  transparence"*; High Commissioner **Meriem Benmouloud** installed the ***commission nationale***
+  for implementation follow-up, per Council of Ministers instructions of **11 Dec 2025**. Primary
+  clipped to `new/`: `2026-02-09-algeria-data-governance-launch-maghrebinfo.md` (full verbatim; it
+  also prints the correct **25-320** inside the PM's quotation, re-confirming the already-closed
+  25-350 error). **The consequential finding is Art. 19:** the decree's classification and
+  cataloguing obligations run only **from publication of the two Art. 8 *référentiels***, which
+  issue **by décision of the High Commissioner**, not by decree. **As of 2026-07-20 no such
+  publication has been traced** — so six months after gazetting and five after the launch, the
+  framework's core duties are **not shown to have commenced**. Recorded as a dated negative finding,
+  not a proven absence; a JORADP 2026 index sweep is routed to `acquisitions.md`. Decoy noted and
+  excluded: the *"première version du Référentiel national de la gouvernance des données"* presented
+  20 Feb 2025 predates the decree by ten months and is a different object. Also established:
+  **Decree 25-321**'s ISS Strategy text is *"annexée à l'original"* and therefore **not printed in
+  the JO**. **Decree 26-07** left **unestablished** — its only sources are an AI content farm
+  (`algeriatech.news`, inadmissible; its 19 Feb 2026 committee and DZaïr-portal claims were
+  discarded). **Samir Bourhil** (ANPDP president) **not corroborated** in this pass.
+  Pages: `wiki/places/DZA.md`, `wiki/entities/algeria-data-governance-framework.md`,
+  `wiki/intersections/algeria--gov-protect.md`. Brief → `done/`.
+
+- **African tech equity CY2025, +8% vs −21% — RESOLVED; not a dispute and not a rebase.** Partech
+  (**+8% to US$2.41bn**, 462 deals) and AVCA (**−21% to US$2.1bn**, 432 deals) disagree on **sign**
+  because they sit on **different 2024 bases**, and **neither has revised a prior-year figure** — the
+  brief's rebase hypothesis is disconfirmed. Partech's 2024 equity base is **US$2.2bn**, as published
+  2025-01-23 and unchanged. AVCA **does not print** the base behind its −21%; derived from its own
+  figures (2024 total US$3.6bn; 2025 debt US$1.8bn at +91%) it is **≈US$2.7bn**, and reproduces the
+  −21% exactly. The 2025 levels differ by ~US$0.3bn; the **2024** bases differ by ~US$0.46bn — the
+  earlier, larger gap is what flips the sign. Partech's scope is fully stated (tech & digital equity
+  ≥US$200K, Late Seed→Growth, geography by **primary market not HQ**, equity/debt separated,
+  confidential rounds imputed); **AVCA's methodology page (p. 41) could not be retrieved** and is
+  routed to `acquisitions.md`. One residual left open **as a hypothesis, not a finding**: AVCA's
+  universe reads *wider* than Partech's yet came in *lower* in 2025 only — best candidate is
+  divergent treatment of **undisclosed rounds**, supported by AVCA's own Q3 2025 note on "a surge of
+  undisclosed deals". AVCA's **US$3.9bn/506** is its equity+debt total (the analogue of Partech's
+  US$4.1bn/570), not a rival equity series; **TechCabal Insights' US$3.42bn/502 has no established
+  basis** and is marked do-not-cite. Primary clipped to `new/`:
+  `2026-02-01-avca-venture-capital-in-africa-report-2025.md` (**verbatim excerpt**, §4–9 and
+  methodology not retrieved, flagged in-file). Standing rule reinforced: **never quote a
+  year-on-year change without its base**. Pages: `wiki/concepts/finance.new.md`,
+  `wiki/concepts/tech.industry.md`, `wiki/entities/disrupt-africa.md`. Brief → `done/`.
+
+## 2026-07-20 — reconcile pass, Central African Republic batch (5 items)
+
+All five were **provenance hunts** whose claims reached the wiki only through the dropped
+`rca.news-pravda.com` mirror or an uncited dataset line. **All five resolved**; in four cases the
+domestic francophone original was located behind the mirror, and in the fifth the uncited line proved
+to name a real, dated transaction.
+
+- **`car-pata-polele-original`** → resolved. **Pata Polélé** is a **digital public-revenue collection
+  system** (Sango: *pata* = money, *polélé* = clear/open) for the "mini-recettes" across ~20 ministries;
+  **EU-funded via Expertise France** (€17.5m / 4 years, €8.5m to "Justice pour l'Ouest 1"), built by a
+  Tunisian expert with the **ONI**; pilot ministries Justice/Finance/Interior; workshop **14–16 Apr 2026**,
+  Bangui. Original: **Ndjoni Sango, 2026-04-18**. → `caf--dpi-govtech`, `CAF`.
+- **`car-sos-telecoms-licence-original`** → resolved. Original located: **Oubangui Médias, 2025-07-21**
+  (the Pravda item is a verbatim copy; Oubangui timestamps 33 min earlier). The licence is CAR's
+  **first-ever passive-infrastructure (towerco) licence**, granted by **ARCEP**, cahier des charges signed
+  **18 Jul 2025**; SOS Télécoms is N'Djamena-based and applied 13 Feb 2024. → `caf--infra-connect`, `CAF`.
+- **`car-etat-civil-strategic-report-original`** → resolved. Original located: **Oubangui Médias,
+  2025-04-18**, plus an independent **ACAP** account. The **97-page World-Bank-financed "Diagnostic de la
+  République centrafricaine"** was validated at a workshop **17 Apr 2025** opened by PM **Félix Moloua**,
+  under **P174620 (PGNSP)**. → `caf--dpi-id`, `CAF`.
+- **`car-socatel-national-digital-hub`** → resolved; **both claims stand, correctly dated**. The uncited
+  "SOCATEL National Digital Hub" dataset line is the **Greenline Technologies MoU** — **$150m**, signed
+  **18 Sep 2025 in Casablanca** at the Ambition28/PND roundtable, promising a **Tier 3 data centre**;
+  operational phase from **16 Jul 2026**. And CAR **still has no built national data centre** as of
+  2026-07-20, so the 2022 Greater Internet Freedom baseline is **not** contradicted. → `socatel`,
+  `car-national-datacentre`, `caf--infra-connect`, `CAF`.
+- **`car-data-centre-threads`** → resolved, all three threads. (1) **AfDB/CAB** — the AfDB's own 2023
+  inauguration scope (935 km fibre, university incubator, cybersecurity platform, digital-development
+  agency) contains **no data centre**; recorded as a **dated negative**, not an open unknown. (2) **AIAL
+  Kigali MoU** — confirmed as a genuine MoU from a **domestic original, not an aggregator**, and explicitly
+  never a contract; **dormant**, no contract or Council-of-Ministers approval found. (3) **P174620** — the
+  brief's framing was wrong: **P174620 is not CARDIP**, it is the bilateral CAR Public Sector Digital
+  Governance Project (US$35m, +US$6.4m in 2025 = US$41.4m), and it holds **no data-centre component**. Its
+  material moved to the govtech record where it belongs. A **fourth thread** (Greenline, above) was added.
+  Net: **four proposals, three geopolitical sponsors — China, the US, Rwanda — over one unbuilt facility.**
+
+- Clips written to `new/` (5): `2026-04-18-pata-polele-digitalisation-paiements-ndjonisango`,
+  `2025-07-21-sos-telecoms-licence-infrastructures-passives-oubanguimedias`,
+  `2025-04-18-diagnostic-identite-digitale-etat-civil-oubanguimedias`,
+  `2025-09-18-greenline-socatel-privatisation-mou-greenline`,
+  `2026-07-17-socatel-greenline-relance-150m-agenceecofin`.
+- Pages touched: `wiki/places/CAF.md`, `wiki/entities/car-national-datacentre.md`,
+  `wiki/entities/socatel.md`, `wiki/intersections/caf--dpi-id.md`,
+  `wiki/intersections/caf--dpi-govtech.md`, `wiki/intersections/caf--infra-connect.md`.
+- Registers: 4 items appended to `reviews/acquisitions.md` (WB PAD4661 + P174620 additional-financing
+  paper; AfDB backbone inauguration release; CAR SNID). 5 briefs `open/` → `done/`.
+- **Flag — officeholder currency.** Agence Ecofin (2026-07-17) names **Roger Andjalandji** as Minister of
+  the Digital Economy, Posts and Telecommunications as of 2026-07-16; the wiki's 7-source
+  **[[justin-gourna-zacko]]** material dates to 2026-02 and earlier. Noted on `CAF.md`, not resolved —
+  a ministerial-succession check is wanted.
+- **Congo-Brazzaville was kept separate**: the ARPCE-listed Brazzaville/Pointe-Noire data centres are
+  **COG**, a different country; no merge with the CAF threads.
+
+## 2026-07-20 — Reconcile pass: Togo, Burundi, Djibouti (4 briefs, francophone research)
+
+All four resolved; `open/` → `done/`. Research quarantined to `reviews/contradictions/research/`.
+
+- **`togo-e-id-cumulative-enrolment-figure` — RESOLVED (GAP-TGO-002).** The floating "6 million"
+  figure now rests on its origin: the **Secrétariat permanent pour le suivi des politiques de réformes
+  et des programmes financiers**, S2-2025 reform-implementation report — **6m+ people issued a NIU
+  *and* a biometric card as of end-December 2025**, via Togo First 2026-04-23
+  ([[2026-04-23-togo-6-millions-niu-fin-2025]], **already held in `raw/`**; the clip I drafted was an
+  exact relevant-duplicate and was discarded before it entered `new/`). Key finding on the
+  enrolled/issued/delivered distinction: **in Togo the three collapse into one counter**, because the
+  QR-coded card is handed over at the enrolment campaign — so this is a *credential-in-hand* count, and
+  no published figure separates them. Honesty caveats added: "plus de 6 millions" is a **rounded
+  floor**; 6m against 9.62m population and an 8m target = **~62% coverage, ~75% of target**. The hub's
+  mis-attribution to "a May-2026 Biometric Update explainer" is corrected — Biometric Update was
+  re-reporting Togo First. Sub-national datapoint carried, explicitly not summable: **Golfe prefecture
+  1,410,135 enrolled = 108% of target** (2025-08-14, from research only, not yet a source of record).
+
+- **`togo-kazakhstan-dpi-partnership` — RESOLVED (GAP-TGO-003).** The partnership is real, dated, and
+  **mis-framed in the reference that introduced it**. Three instruments, not one: Nov 2023 presidential
+  visit → **Feb 2024 ministry-level memorandum at Digital Almaty** (Lawson ↔ Mussin) → **late June 2024,
+  three licensing agreements ATD ↔ NITEC** transferring Smart Bridge, a single public-agency web
+  platform, and Smart Data Ukimet, reportedly as a source-code grant. **It is govtech licensing, not a
+  DPI-identity partnership** — Togo's e-ID partner is MOSIP (Atos, Idemia) under WURI; Biometric Update
+  (2025-11-03), an identity-industry outlet, had folded it into a list of "bilateral DPI partnerships",
+  which is how the unusable bare reference entered the wiki. **Nothing has followed: no deployment,
+  go-live, pilot result or renewal reported by either side as of 2026-07-20** — recorded as a dated
+  finding, not an absence of research. New entity surfaced and tagged, not hubbed: **ATD (Agence Togo
+  Digital)**, décret n°2021-102/PR of 29 Sept 2021.
+
+- **`burundi-vietnam-digital-mou` — RESOLVED (GAP-BDI-002).** MoU **signed 19 November 2024** at
+  Vietnam International Digital Week 2024, Hanoi, between Léocadie Ndacayisaba (Burundi MinCom/ICT/Media)
+  and Nguyen Manh Hung (Vietnam MIC). The IFC's undated passing reference was accurate. **It commits
+  almost nothing** — cooperation intent plus scholarships up to $10,000; no financing, project or
+  timetable. The substance in the room was **Lumitel** (Viettel, >$500m taxes paid), and Vietnam's
+  concrete asks — rural expansion, 5G spectrum, investment incentives, telecom tax cuts — sat *outside*
+  the MoU. **No digital follow-through as of 2026-07-20**; ICT was named a priority sector at
+  Ndayishimiye's 4 Apr 2025 Hanoi state visit but no sector agreement has been reported. **Provenance
+  asymmetry recorded: no Burundian-side announcement exists** — every account is Vietnamese-side or
+  third-party.
+
+- **`djibouti-d-money-port-payment-launch-year` — RESOLVED (GAP-DJI-001). The wiki was two years out.**
+  The launch was **December 2023, not 2021**. La Nation (published 2023-12-11) reports the ceremony as
+  **"hier" = 2023-12-10**; the held Developing Telecoms clip (published 2023-12-12) says "11 December"
+  with no year — most likely **the primary outlet's publication date read as the event date**, the same
+  defect this corpus keeps hitting. Prefer **2023-12-10**; the year is certain either way. **Framing also
+  corrected**: this was the launch of **Djibouti's first online payment gateway**, closing with
+  conventions signed across ministries, public companies and banks — the Ports and Free Zones Authority
+  was one signatory, and "port workers" is the secondary re-report's angle, not the event's billing. The
+  DPCS figures (DJF 2–3bn/month, ~11% online) are now correctly dated to **December 2023**. D-Money
+  timeline fixed: wallet **June 2020** → gateway **Dec 2023** → new biometric-login app **26 Sep 2024**.
+
+- Clips written to `new/` (3): `2024-06-20-kazakhstan-nitec-togo-atd-egov-licensing`,
+  `2024-11-20-vietnam-burundi-mou-telecom-technology`,
+  `2023-12-11-lanation-djibouti-lancement-premiere-plateforme-paiement-en-ligne-d-money`.
+- Pages touched: `wiki/places/TGO.md`, `wiki/places/BDI.md`, `wiki/places/DJI.md`,
+  `wiki/intersections/togo--dpi-id.md`, `wiki/intersections/djibouti--dpi-pay.md`.
+- **Flag — mis-dated file in `raw/` needs a rename this pass could not make.**
+  `raw/2021-12-11 Djibouti Telecom extends D-Money mobile payments to ports.md` carries a **proxy year
+  that is now proven wrong by two years**. Correct prefix is **2023-12-11** (its publication date). The
+  reconcile pass is barred from writing to `raw/`, so the rename + link updates (referenced from
+  `wiki/intersections/djibouti--dpi-pay.md`, whose `sources:` line I have already normalised by
+  dropping a stray `raw/` path prefix) are left for a maintenance pass. Until renamed, the file sorts
+  two years early and lint #11 will not catch it — the prefix is well-formed, just false.
+
+## 2026-07-20 — reconcile pass (TUN / DZA / LBY worker)
+
+- **RESOLVED `algeria-jo-87-vs-presidential-decree-25-350`** — verified, nothing outstanding. "JO-87" is
+  *Journal Officiel* issue n° 87 of 30 Dec 2025, not an instrument name; it carries **Presidential Decree
+  n° 25-320**, and no act numbered 25-350 exists in that issue (We Are Tech Africa mis-numbers it). Entity
+  page, DZA hub, `algeria--gov-protect` and both indexes already carried the correction from the earlier
+  pass; brief moved to `done/` without re-research. Rests on
+  `raw/2025-12-30-joradp-decret-25-320-gouvernance-donnees.md`.
+- **RESOLVED `tunisia-ebrd-190m-medusa-financing`** — **the conflation hypothesis was wrong.** EBRD's own
+  announcement (16 Jan 2026) states the €190m development-linked loan to **Tunisie Telecom** finances,
+  among 4G→5G / FTTH-200k / backbone / energy components, "*Tunisie Telecom's connection to the MEDUSA
+  submarine cable*". Both claims stand as **different money for different objects**: the EBRD loan funds
+  TT's **connection to** the cable; the **€10m EU CEF-Digital grant to Orange Tunisia** (Dec 2022) funded
+  the **Bizerte landing station**, which Orange owns and TT buys capacity from. TUN hub corrected and
+  scope-noted. **Date defect fixed:** the event was dated **2026-01-19** (a TechAfrica re-report's
+  publication date) against EBRD's own **2026-01-16** — event-date-vs-publication-date slippage.
+- **RESOLVED `tunisia-current-national-digital-strategy`** — no standalone successor to Digital Tunisia
+  2020-2025 exists. The plan **lapsed** (no extension, repeal, or outcomes report found); the current
+  framing is the **unified national digital-transformation vision inside the *plan de développement
+  2026-2030***, per Head of Government Sarra Zaafrani Zenzri, 2026-02-13. A change of **instrument type**
+  — sectoral ICT strategy → chapter of a whole-of-government plan coordinated by the Ministry of Economy
+  and Planning. This is what the EU ambassador's "National Digital Strategy" denotes. Entity page gained a
+  *Succession* section; TUN hub gained a dated entry. Plan text still unheld → acquisitions.
+- **RESOLVED `libya-huawei-zte-east-west-infrastructure`** — all three claims confirmed, **two
+  corrections**: (1) the Huawei suspension of **2025-08-17 was lifted on 2025-08-20**, three days later,
+  on a compliance undertaking — the brief carried only the suspension; (2) the LTT–ZTE MoU was signed
+  **2026-03-09**, not 2026-03-11 (that was The Register's partner-content republication date). Also
+  disambiguated: **Ozon is the HoR-side licensee**, not the network — the eastern network is reported as
+  **"Barqa 217"**. New `libya--infra-connect` section "The east–west vendor contest" frames it as a
+  **licensing-jurisdiction dispute, not a vendor split** (Huawei serves both sides). USD 700m / USD 198m
+  figures recorded as **single-outlet, reported not established**.
+- **Clips to `new/` (4):** `2026-01-16-ebrd-tunisie-telecom-190m-medusa.md`,
+  `2026-02-13-tunisie-conseil-ministeriel-digitalisation-complete.md` (pm.gov.tn, FR),
+  `2025-08-20-lana-gti-huawei-libya-agreement.md` (Libyan News Agency),
+  `2026-03-09-ltt-zte-mou-mwc-barcelona.md` (ZTE). All full verbatim bodies.
+- **Research quarantined** to `reviews/contradictions/research/` for the three researched items.
+- **7 acquisition targets** appended to `reviews/acquisitions.md` (3 TUN, 4 LBY).
+
+## 2026-07-20 — Reconcile pass (Uganda / Eswatini worker, 4 briefs)
+
+- **RESOLVED `uganda-nita-u-gea-egif-workshop-date`.** Publication date fixed at **2026-02-19**
+  (TechReviewAfrica's own dateline, recovered on re-fetch — the clip had lost it). Event date fixed
+  separately: the eGA/NITA-U workshop ran in Kampala in the week to **2026-02-18**. Also surfaced a
+  development the wiki lacked — the GEA/e-GIF renewal **completed 2026-05-27**. Rests on
+  `2026-02-18-ega-uganda-launches-renewal-gea-egif` and
+  `2026-05-27-ega-uganda-renewed-digital-government-frameworks`. Pages: `nita-uganda`, `UGA`.
+  *Follow-up for the orchestrator: `raw/2026-07-17 NITA-Uganda concludes workshop…` still needs the
+  tier-1 mechanical date correction (rename to 2026-02-19, `date_source: source`, drop the
+  "DATE COULD NOT BE ESTABLISHED" preamble, update 2 referrers). Reconcile may not write to `raw/`.*
+
+- **RESOLVED `uganda-veridos-muehlbauer-card-production-dispute` — the wiki had the roles inverted.**
+  Mühlbauer was the **incumbent** card producer **2010–2018** (€64.2m contract, Mar 2010, awarded on
+  presidential direction over procurement-rule protests), not a rival bidder. **Veridos** has held the
+  card-production arrangement since **2018** via **USPC** (Uganda Security Printing Company, Government
+  51% / Veridos 49%), following a 2016 UPPC joint venture and a contested 2017-07-03 award. The 2022–23
+  parliamentary fight was an attempt to *displace* Veridos and return the work to Mühlbauer; it failed —
+  no contract was ever awarded to Mühlbauer, and NIRA was paying USPC for blank cards by June 2024.
+  **The "embroiled in a scandal concerning overcharging" claim is withdrawn as unsupported**; the real
+  disputes were procurement irregularity (2010) and vendor lock-in (which Mühlbauer rebutted on the
+  record). Also established: **card production (USPC) and the enrolment system (Tahaluf/Tech5/MOSIP)
+  are different layers** — Veridos' absence from the 2026 provider list signifies nothing, closing the
+  standing "do not infer" caveat. Rests on
+  `2022-11-24-biometricupdate-uganda-parliament-probe-veridos-card-printing` and
+  `2023-04-30-monitor-fight-over-national-id-deal-splits-parliament`. Pages: `veridos`,
+  `uganda--dpi-id`.
+
+- **RESOLVED `eswatini-giyh-app-launch-and-privacy-criticism`.** Launch fixed at **2025-05-21,
+  Ezulwini** — the wiki already held the source (`2025-05-21-eswatini-launches-new-apps-giyh-taxpal`,
+  SWZ sweep) and had simply not applied it. Criticism substantiated: the **Sunday Observer** found its
+  reporter **could locate public data on the system** ("a glaring security risk"), and eGovernment
+  Services Director **Bongani Ndlangamandla acknowledged** it — *"we are aware of some gaps, hence the
+  need for a proper digital ID and digital signatures"* — i.e. GIYH shipped ahead of its own digital-ID
+  and PKI layer. Escalated to PM **Russell Dlamini** by 2026-03-18. **Sourcing defect corrected:** the
+  criticism had been dated to a 2025-08-05 World Bank piece that mentions it in passing; the
+  substantive and earlier account is **2025-07-04**. Rests on
+  `2025-07-04-biometricupdate-eswatini-giyh-privacy-criticism`. Pages: `government-in-your-hand`,
+  `SWZ`, `eswatini--dpi-govtech`.
+
+- **RESOLVED `eswatini-google-partnership-single-sourced` — the brief was stale on arrival.** The
+  2026-07-17 SWZ sweep had already added four sources and `eswatini--dpi-govtech` already carried the
+  resolved account; the live defect was `eswatini-google-partnership.md` carrying a "nothing here is
+  corroborated" callout directly above a paragraph declaring the matter resolved. Reconciled. New this
+  pass: (i) **event-date correction** — "Announced 2025-01-22" was Techpoint's *publication* date; the
+  domestic account (Inside Biz) reports the launch already held on **2025-01-20**, so recorded as *on or
+  before 2025-01-20*; (ii) **Google was on the record at the launch** via Google Cloud Africa lead Basil
+  Ayass, with named workstreams (Workspace for public servants, AI, digital addressing, skills
+  academies); (iii) **a parliamentary accountability trail** — Maziya answered Senator Fezeka Dlamini in
+  the Senate (2025-04) on data sovereignty, citing an NDA with need-to-know access deactivated
+  post-implementation. **Value, term and signature date remain unpublished by either party — recorded as
+  an established absence, not a collection gap.** Rests on
+  `2025-01-20-insidebiz-eswatini-partners-with-google`. Pages: `eswatini-google-partnership`,
+  `government-in-your-hand`, `eswatini--dpi-govtech`.
+
+- 6 primaries clipped to `new/`; research quarantined to `reviews/contradictions/research/` (4 files).
+
+## 2026-07-20 — reconcile pass, Zambia batch (3 briefs)
+
+- **RESOLVED `zambia-care-2-0-vs-smartcare-pro`.** "Care 2.0" is a **truncation of SmartCare 2.0**,
+  and SmartCare 2.0 is the **Hospital Edition** tier of the same national SmartCare EHR lineage —
+  not a distinct build, not a rename of SmartCare Pro, not its replacement. Lineage established:
+  approved as MoH standard 2005 → Legacy → **Plus (2017)** → **Pro (national launch 2023-11-21)**;
+  **SmartCare 2.0 pilot launched 2026-04-27** at Ndola Teaching Hospital, with Arthur Davison
+  Children's and Kitwe Teaching. Confirmed by ITWeb Africa stating both are "the latest versions"
+  of the same system, and by identical pilot-site lists across the "Care 2.0" and "SmartCare 2.0"
+  accounts. Rests on [[2026-04-28-zambia-smartcare-2-0-ndola-pilot]]. **Left open and stated as
+  such**: whether SmartCare 2.0 shares Pro's fingerprint enrolment or the MOSIP/INRIS identifier.
+  Pages: `wiki/entities/smartcare-pro.md`, `wiki/places/ZMB.md`.
+- **RESOLVED `zambia-zilas-independent-account`.** Two operator-independent accounts found, and
+  they correct the record materially. **(1)** Ministerial statement of **Elijah Muchima** to the
+  National Assembly, **2023-06-16**: Cabinet approved ZILAS **2020**; migration from ZILMIS
+  **13 May 2023**; **go-live 17 May 2023** — sixteen months before the SZI portal pages the wiki
+  had been dating the system from. Also on the record: ZILMIS ran **2014–2023 with its maintenance
+  contract expired since 31 March 2022**, "a conduit for corruption"; public complaint that "the
+  ZILAS has crushed"; developer named only as "**dot.gov**", identity unestablished (**explicitly
+  not** inferred to be `dot-com-zambia`). **(2)** Corpus Legal Practitioners, **2023-09-19**:
+  mandatory **Digital Clearance** gates every land transaction and takes **3–4 weeks in practice**
+  against SZI's "eliminating queues". Rests on
+  [[2023-06-16-zambia-zilas-ministerial-statement-parliament]],
+  [[2023-09-19-zambia-zilas-digital-clearance-corpus-legal]]. **Still unestablished and stated as
+  such**: parcel/title counts, district coverage, cost, funder, any audit. Pages:
+  `wiki/entities/zilas.md`, `wiki/places/ZMB.md`.
+- **RESOLVED (2 of 3 threads) `zambia-zrhcp-mvno-ppp-tbi-undp-threads`.**
+  - **ZRHCP — real, fully documented** (World Bank P503941, PAD PADHI00410). Chronology corrected:
+    Board approval **2024-09-26** (announced 09-27), effective **2024-12-23**, launched 2025-09-30,
+    closing **2028-10-31** — the wiki had been dating it from a 2025-10-03 secondary re-report.
+    Financing corrected: **$27m WHR + $3m national PBA**, not $30m of WHR. New and consequential:
+    the **UNHCR ProGres database transfers to MoHAIS**, refugees enrol into **INRIS itself**, and
+    **~150,000 cards of a 20 million national procurement**. Rests on
+    [[2024-09-27-world-bank-zambia-refugee-host-communities-grant]].
+  - **TBI–UNDP MoU — real and signed**, **2025-11-20**, Lusaka, by UNDP RR James Wakiaga and TBI
+    Country Director Maria Mkandawire. Recorded as a **bilateral between two external bodies**,
+    with the Government of Zambia **not a party**; no value, duration or text disclosed. Noted as a
+    regional template (near-identical Angola MoU, 2025-06-23). Rests on
+    [[2025-11-20-undp-tbi-mou-zambia]].
+  - **MVNO PPP tender — NOT confirmed, and recorded as unconfirmed.** The held mention describes a
+    **pre-tender** stage ("taking proposals as it prepares to tender"); no reference, value, bidder,
+    award or outcome exists in SZI/DZAP procurement or the trade press. Explicitly **not** conflated
+    with the MTN, inq/Mezzanine, VISA or bulk-bandwidth (ZM-SZ-547791-NC-RFB) arrangements found in
+    the same period. Pages: `wiki/entities/zrhcp.md`, `wiki/places/ZMB.md`.
+- **Clips to `new/` (5):** `2023-06-16-zambia-zilas-ministerial-statement-parliament`,
+  `2023-09-19-zambia-zilas-digital-clearance-corpus-legal`,
+  `2024-09-27-world-bank-zambia-refugee-host-communities-grant`, `2025-11-20-undp-tbi-mou-zambia`,
+  `2026-04-28-zambia-smartcare-2-0-ndola-pilot`. All full verbatim bodies.
+- **Research quarantined** to `reviews/contradictions/research/` (3 files, DO-NOT-INGEST).
+- **Acquisitions filed (4):** ZRHCP PAD + ESMF + ISR (P503941); smartcarezambia.io portal and
+  programme-managers deck; MoH SmartCare HIS Standards (2006 PS circular).
+- All three briefs moved `open/` → `done/`.
+
+## 2026-07-20 — Reconcile pass, AGO/ZWE worker (4 briefs)
+
+**`angola-digital-id-stack-china-vs-india` — RESOLVED (not a contradiction; a division of labour, plus
+three wiki errors corrected).** The two accounts sit eight years and one order of commitment apart.
+- **China is the incumbent and the only executed contract.** *Despacho Presidencial nº 8/17* of
+  **2017-01-03** (José Eduardo dos Santos) selected **CEIEC** for **$243m** to implement the *Plataforma
+  de Gestão Integrada da Identificação Civil e Criminal* via MINJUSDH, on a Chinese commercial credit
+  line. New BI issuance began late 2017; production centre construction began 2018-06; **João Lourenço
+  inaugurated the Centro Nacional de Produção e Controlo do BI (Kilamba) on 2019-11-08** — 16 lines,
+  ~20,000 docs/day, real-time links to 18 provinces.
+- **Error 1 (date, ~2.5 years):** the wiki recorded "CEIEC won the contract Nov 2019". Nov 2019 is the
+  **centre's inauguration**; the contract is **Jan 2017**.
+- **Error 2 (framing):** the **$200m India credit line is for defence**, per Modi's own words at the
+  2025-05-03 New Delhi joint press statement. DPI was a *separate* sentence with no money attached. The
+  conflation traces to a Biometric Update headline of 2025-05-07.
+- **Error 3 (fact):** **no Aadhaar-modelled Angolan digital ID and no MOSIP engagement in Angola exist.**
+  That article's MOSIP references are Morocco, Ethiopia, Sierra Leone, Guinea — context, not Angolan fact.
+  MEA Secretary (ER) Dammu Ravi called DPI "a new area" for Angola needing "awareness building".
+- Pages: `wiki/intersections/angola--dpi-id.md` (three-way-contest framing corrected),
+  `wiki/entities/angola-india-dpi-credit-line.md` (retitled; slug retained as a flagged misnomer because
+  it is cited from an immutable `raw/` page), `wiki/places/AGO.md` (3 passages).
+
+**`dpa-zimbabwe-vs-cassava-identity` (REV-DPA-001) — RESOLVED. Do not merge.** One brand, **three
+distinct registered companies** of common Econet origin: (1) **DPA**, the pan-African operating business,
+"a business of Cassava Technologies", CEO Norman Moyo; (2) **DPA Southern Africa (Pty) Ltd**, a South
+African **50:50 DPA–EDF joint venture** (EDF's 50% announced 2022-05-24) — **the actual counterparty to
+both Africa Data Centres PPAs**, a fact the wiki had missed entirely along with EDF as an actor; and
+(3) **Distributed Power Africa (Private) Limited**, Zimbabwe reg. 74120A02122025, the EWZL shell trading
+as Econet InfraCo. The Cassava and EWZL arms have been separately owned since Cassava's launch
+(2021-11-10), which explicitly left Econet's mobile businesses outside it. Zimbabwe's power business is
+now branded **Distributed Power Zimbabwe (DPZ)**. Pages: `wiki/entities/distributed-power-africa.md`
+(rewritten, `needs-review` → `active`), `wiki/entities/econet-infraco.md`, `wiki/places/ZWE.md`.
+
+**`zimbabwe-digital-2026-publication-date` — RESOLVED in favour of the clipper.** The publisher's own
+page confirms **2025-11-08**: "we published our Digital 2026 reports at the end of 2025… these data
+points reflect the latest available data in **October 2025**… we've **changed our publication cycle**
+since our Digital 2025 reports." The Feb/Mar house precedent is real but describes only the superseded
+cycle. Corroborated in-corpus: the Zambia, Chad and CAR 2026 editions all carry 2025-11-08 at
+`date_source: source`. Page: `wiki/places/ZWE.md` (proxy caveat removed).
+- **Follow-up for the orchestrator (not actioned — reconcile may not write to `raw/`):**
+  `raw/2025-11-08 Digital 2026 Zimbabwe - DataReportal.md` still carries `date_precision: month` /
+  `date_source: proxy` and an in-body note calling the date "PROXY AND CONTESTED". Both are now
+  falsified; filename and `published` are already correct. A currency-honesty correction.
+
+**`angola-national-fibre-length-2025-2026` — ROUTED TO ACQUISITIONS, closed.** Two new data points
+confirmed the morning pass's diagnosis rather than changing it: MINTTICS' Matias Borges stated "mais de
+22.000 km" on **2023-05-17** (re-confirming that figure as ≥2023 boilerplate), and Mundo Infra
+(**2025-10-29**) pinned the 20,000 km datum to MINTTICS' *Estado da Nação 2025*. The official series is
+**non-monotonic in both directions** across five statements from one ministry: 22,000 (2023-05) → 20,000
+(2025-10) → 30,000 (2025-11) → 22,000 (2026-04) → 28,000 (2026-06). A data-quality defect in the Angolan
+official record, not a wiki error. **INACOM's *Relatório Anual Estatístico* is not machine-fetchable** —
+the Observatório TIC portal is a client-side app and three retrieval routes have now returned nothing,
+while third parties (Forbes África Lusófona, 2025-06-19) demonstrably hold the PDF. Per the routing rule,
+this is an acquisition, not a research question. **Honest limit recorded on the page: it is not
+established that the INACOM series reports a national fibre-km total at all.** Page:
+`wiki/intersections/angola--infra-connect.md`.
+
+- **Clips extracted to `new/` (4)**, all full verbatim bodies:
+  `2017-01-16-nj-chineses-apoiam-angola-emissao-bi-registo-nascimento`,
+  `2019-11-10-angorussia-centro-producao-bi-243-milhoes`,
+  `2025-05-03-pmindia-joint-press-statement-angola` (announcer of record),
+  `2023-03-14-cassava-adc-dpa-sa-edf-20-year-ppa` (announcer of record).
+- **Research quarantined** to `reviews/contradictions/research/` (4 files, DO-NOT-INGEST).
+- **Acquisitions filed (2):** INACOM *Relatório Anual Estatístico* 2024 (bilingual, presented
+  2025-06-13 at ANGOTIC) via `observatoriotic.gov.ao` — needs a browser session or manual download;
+  and the **Econet InfraCo Pre-Listing Statement dated 2026-02-04** (the original, not the
+  supplementary at ewzinvestor.com) for the definitive DPA group structure.
+- All four briefs moved `open/` → `done/`.
+
+## 2026-07-20 — Reconcile pass, batch 3 (ERI / MUS / SSD)
+
+Three provenance hunts worked from `reviews/contradictions/open/`; **all three resolved**.
+
+- **ERI — submarine cables + Starlink (GAP-ERI-001).** Both claims previously rested only on a dropped
+  ts2.tech AI synthesis; both now rest on citable sources. **No submarine cable lands in Eritrea**, and as
+  of **2024-06-10** the state was **not responding to the cable industry's approaches** to route Red Sea
+  cables through its waters (optimal ~170m depth) — Middle East Eye, on the record from the Submarine
+  Networks conference; Eritrea is also **not a party to UNCLOS**. The "only coastal African state with zero
+  landings" framing traces to the **undated** submarinenetworks.com registry page (adjacent counts stamped
+  end-2019) — recorded as the registry's framing, not as a dated 2026 fact. **Starlink: "No planned launch
+  date"** on SpaceX's own coverage map as tabulated **2026-07-17** — a refresh on the original 2024 claim,
+  and stable across 2023/2025/2026 tabulations; **no evidence of an application or a refusal**, so the page
+  states absence of a date, not a documented refusal. No Eritrean regulatory notice or Shabait statement is
+  retrievable — a legitimate dated null result for a one-operator state with no independent press.
+  Pages: `wiki/places/ERI.md`, `wiki/entities/eritel.md`.
+
+- **MUS — AllMyT Summit 2026 announcements (GAP-MUS-001).** All six claimed announcements **confirmed as
+  made**; the correction is **what kind of thing each is**. **AWS MoU** signed at the opening ceremony
+  **2026-07-16** (MITCI/GIS primary) — soft scope, no value, no binding deliverable. The **Mauritius AI
+  Registry** (airegistry.mu) went live **2026-07-09**, a week *before* the summit — the summit was a
+  showcase stop, not the launch (the "summit remarks reported as programmes" pattern, caught). **NVIDIA
+  H200** hosting is an **uncorroborated operator claim** (B300 = a plan for end-2026). **Models-as-a-Service**
+  is a **TM Forum standards work-stream** (MODaaS, GB1087; announced 2026-07-20 with MT as founding
+  contributor and co-chair) to *define* a certification framework that does not yet exist — **no product in
+  market**. **SBM Bank** and **Mauritius–Seychelles/Eboo payments** are announced and prospective,
+  uncorroborated by the parties or either central bank. Two substantive items surfaced that the brief did
+  not list: PM Ramgoolam's announcement that **Mauritius will join the America-India Connect subsea cable
+  programme** (a commitment to participate, not a signed landing agreement), and Minister Ramtohul's
+  commitment to a **National Data Governance Strategy + Data Protection Act amendments**. The
+  "unconfirmed as of 2026-07-20" caveat on `mytgpt.md` is **retired**. Pages: `wiki/places/MUS.md`,
+  `wiki/entities/mytgpt.md`, `wiki/intersections/mauritius--tech-ai.md`.
+
+- **SSD — the private tax/revenue platform (GAP-SSD-001).** Identified: **Crawford Capital Ltd**
+  (UK-registered; payments arm **CapitalPay**), exclusive provider of e-Government Services under an
+  **untendered November 2019 contract** with the Ministry of ICT & Postal Services — trade permits, visas,
+  tax, customs, work permits and the **Electronic Crude Oil Accreditation Permit**. Primary of record: **UN
+  Commission on Human Rights in South Sudan, *Plundering a Nation*, A/HRC/60/CRP.5, 2025-09-16**, which
+  finds a **75% profit share** to Crawford (25% to the ministry), a **2024 extension to an unlawful levy on
+  tax-exempt humanitarian agencies**, a 2023 **0.3%-of-cargo-value** oil accreditation fee, and the SSRA
+  **complicit in letting public revenues be held in company bank accounts** outside the treasury (UNCAC
+  arts 9–10). The procurement was endorsed by the **National Security Service's Internal Security Bureau**
+  **on the ground that Crawford was building large databases** — the data-governance crux. Both sides now
+  dated on the page: Crawford's **2026-06-22** denial (claims a **2% platform service fee**, regulated
+  trust accounts under the Electronic Money Regulation 2017) and the SSRA/Ministry **2026-05-14** defence.
+  **US State Department sanctioned Crawford in May 2026**; the trade minister's March-2026 review order was
+  overruled within 24 hours by VP Wani Igga. **Ownership precision applied:** the Commission's published
+  findings say "family members of national political elites" and **do not name Adut Salva Kiir Mayardit** —
+  the wiki's prior attribution is now marked *reported, not established*, including inline on the
+  2026-01-20 entry that introduced it. Captured the **control case**: the SSRA/NCA **Ensoft/N-Soft**
+  six-year **BOT** at **3.56%** with full transfer to the state (2025-10-08) — same country, same year,
+  radically different terms. Pages: `wiki/places/SSD.md`,
+  `wiki/intersections/south-sudan--dpi-govtech.md`.
+
+- **Clips extracted to `new/` (9)**, all full verbatim bodies:
+  `2024-06-10-cable-firms-eye-eritrea-red-sea-houthi-attacks`,
+  `2026-07-17-starlink-launches-27th-african-country-ivory-coast`,
+  `2026-07-16-mauritius-america-india-connect-subsea-cable-allmyt-summit-mitci` (announcer of record),
+  `2026-07-16-mauritius-telecom-allmyt-keynote-sovereign-ai-platformafrica`,
+  `2026-07-12-mauritius-telecom-airegistry-mu-launch-journaldudimanche`,
+  `2026-07-20-mauritius-telecom-tm-forum-modaas-telecomtv`,
+  `2025-09-16-un-commission-south-sudan-plundering-a-nation-ohchr` (announcer of record),
+  `2026-05-14-south-sudan-defends-crawford-capital-deal-eastleighvoice`,
+  `2026-06-22-crawford-denies-75-percent-revenue-retention-sudanspost`,
+  `2025-10-09-ssra-nca-ensoft-six-year-revenue-digitization-deal-eyeradio`.
+- **Research quarantined** to `reviews/contradictions/research/` (3 files, DO-NOT-INGEST).
+- **Acquisition filed (1):** UN Commission on Human Rights in South Sudan, *Plundering a Nation*,
+  **A/HRC/60/CRP.5** (101pp, 2025-09-16) — holds the documented Crawford ownership structure that would
+  settle the Adut Salva Kiir attribution.
+- **Flagged for the entity pass:** **Crawford Capital Ltd** now crosses the ≥3-source bar and is due a
+  page (tagged, no page yet). Also tagged without pages: TM Forum, Mauritius AI Registry, Ensoft/N-Soft.
+- **Surfaced, not worked:** vendor name unresolved (**Ensoft** vs **N-Soft**) across two accounts of the
+  same signing; and the SSRA appears as both *South Sudan Revenue Authority* and *National Revenue
+  Authority* (eTax portal at etax.nra.gov.ss), with Commissioner-General given as **Simon Akuei Deng**
+  (2025-10) and **William Anyuon Kuol** (2026-01) — a leadership change or a naming inconsistency to pin.
+- All three briefs moved `open/` → `done/`.

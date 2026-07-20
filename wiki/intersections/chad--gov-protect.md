@@ -8,8 +8,8 @@ topics: [gov.protect, gov.legislate, infra.cybersec, tech.ai, geopol.usa, gov.st
 entities: [[ansice], [arcep-chad], [starlink]]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-19
-sources: [[2026-03-16-ecofin-ansice-cybersecurity-agency-reform], [2025-01-25-ansice-cisa-cybersecurite-infrastructures-critiques], [2025-08-28-tchadinfos-arrete-conditions-utilisation-starlink], [2026-04-29-techafricanews-comite-cadre-juridique-numerique], [2025-12-26-afriqueitnews-parlement-cadre-juridique-communications]]
+last_reviewed: 2026-07-20
+sources: [[2026-03-16-ecofin-ansice-cybersecurity-agency-reform], [2025-01-25-ansice-cisa-cybersecurite-infrastructures-critiques], [2025-08-28-tchadinfos-arrete-conditions-utilisation-starlink], [2026-04-29-techafricanews-comite-cadre-juridique-numerique], [2025-12-26-afriqueitnews-parlement-cadre-juridique-communications], [2025-10-22-toumaiwebmedias-ratification-ordonnance-011-pr-2025-communications-electroniques]]
 ---
 
 # Chad × Data Protection, Cyber & the Legal Framework
@@ -36,13 +36,33 @@ country already imposing hard identification/retention rules on users.
 
 ## Rewriting the legal framework
 
-- **Amending the 2014 code.** Parliament ratified (23 Dec 2025, strong majority) **ordinance 011/PR/2025**
-  amending **art. 18 of Law 013/PR/2014** on electronic/postal communications — a first step to adapt
-  regulation to technological change. Source: [[2025-12-26-afriqueitnews-parlement-cadre-juridique-communications]].
-- **A wholesale rewrite (Apr 2026).** A **34-member committee** (45-day deadline) was inaugurated to
-  **overhaul** the digital/telecom/postal legal framework, deemed outdated by the pace of innovation. This
-  runs alongside the "digital law in finalisation" (cybersecurity/data-protection/internet governance —
-  see [[TCD]] hub). Source: [[2026-04-29-techafricanews-comite-cadre-juridique-numerique]].
+- **Amending the 2014 code — and it is narrower than the framing suggests.** **Ordonnance
+  n°011/PR/2025 of 5 August 2025** amends **a single article — art. 18 — of Loi n°013/PR/2014 of
+  21 March 2014** on electronic/postal communications. Ratified by the **National Assembly on
+  22 October 2025 (105 for, 31 against, 2 abstentions)** and the **Senate on 23 December 2025
+  (65 of 67)**. **Its actual subject is the conditions for awarding mobile-operator licences**, not a
+  general modernisation of the code: the "adapt regulation to technological change" language is the
+  bill's stated rationale as relayed by trade press, not the amendment's content. Deputies' floor
+  concerns were monopoly, licence sales, corruption and non-respect of the cahier des charges
+  (resolved 2026-07-20). Sources:
+  [[2025-10-22-toumaiwebmedias-ratification-ordonnance-011-pr-2025-communications-electroniques]],
+  [[2025-12-26-afriqueitnews-parlement-cadre-juridique-communications]].
+- **Starlink is licensed as an ISP, not a mobile operator (on the record, 22 Oct 2025).** Defending
+  the bill, Minister Boukar Michel stated that **[[starlink]]**'s Chadian concession is a
+  **multiservice Fournisseur d'Accès Internet (FAI) licence**, granted **on application after a
+  favourable ARCEP technical opinion and without public tender** — and that market conditions did not
+  permit a new ISP entrant, past calls for candidates having failed. See [[chad--infra-connect]].
+  Source: [[2025-10-22-toumaiwebmedias-ratification-ordonnance-011-pr-2025-communications-electroniques]].
+- **A wholesale rewrite (Apr 2026).** A **34-member committee** (45-day deadline) was inaugurated
+  **27 April 2026** by Minister Haliki Choua Mahamat to **overhaul** the digital/telecom/postal legal
+  framework, deemed outdated by the pace of innovation. Source:
+  [[2026-04-29-techafricanews-comite-cadre-juridique-numerique]].
+- **The Code du numérique is not enacted (as of 2026-04-28).** The "digital law in finalisation"
+  announced by Boukar Michel in December 2025 — cybersecurity, data protection, internet governance —
+  **has no adopted text, number, promulgation date or gazette reference, because it does not yet
+  exist**. The 34-member committee above *is* its current stage. This is a **dated vacuum, not a
+  provenance gap**: Chad still has **no enacted data-protection law**, while ANSICE is being empowered
+  to administer one.
 
 ## Identification and retention — collection ahead of protection
 

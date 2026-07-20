@@ -5,8 +5,8 @@ title: Zimbabwe Revenue Authority (ZIMRA)
 places: [ZWE]
 topics: [dpi.govtech, dpi.registry, dpi.id, dpi.pay, dpi.exchange]
 status: active
-last_reviewed: 2026-07-17
-sources: [[2025-01-01 ZIMRA Taxpayer Registration]]
+last_reviewed: 2026-07-20
+sources: [[2026-01-01 ZIMRA Taxpayer Registration]]
 ---
 
 # Zimbabwe Revenue Authority (ZIMRA)
@@ -23,7 +23,7 @@ a functional identifier sitting alongside the national ID architecture run by th
   Economic Operators**. Registration is done electronically at the TaRMS Self-Service
   Portal; a **TIN is issued on approval** by a ZIMRA official with approval rights. The
   TIN unlocks **e-filing, e-payments and automated tax clearance**. See [[dpi.govtech]],
-  [[dpi.id]]. Source: [[2025-01-01 ZIMRA Taxpayer Registration]].
+  [[dpi.id]]. Source: [[2026-01-01 ZIMRA Taxpayer Registration]].
 - **Legacy migration.** The portal's four registration categories — Individual;
   Organization; Representative of a Deceased Taxpayer; and **Register with existing BP
   Number** — confirm **migration from a legacy Business Partner numbering system**. See
@@ -31,15 +31,20 @@ a functional identifier sitting alongside the national ID architecture run by th
 
 ## Date and provenance warnings
 
-- **The publication date could not be established.** The ZIMRA page is **undated**; the
-  year on file is the **clipper's inference from a news-ID sequence**, so it is filed
-  **year-precision, `date_source: proxy`**, and the `2025-01-01` prefix is **padding for
-  sorting only**. The only genuinely established bound is **post-February 2024**
-  (GAP-ZWE-005). Do not reason about this as a 2025 statement.
-- **Official first-party and effectively promotional.** "Enhances transparency, improves
+- **Published January 2026** (established 2026-07-20; month precision). The ZIMRA page
+  carries **no dateline** — the news CMS renders none — so the date is fixed by bracketing
+  its news ID (2346) against dated neighbours: ID 2344 reports an AGM of **2 December
+  2025**, ID 2345 previews the **26 January 2026** Customs Day prospectively, and IDs
+  2347–2349 (Data Privacy Week; the same Customs Day reported retrospectively) fall
+  **on or after 26 January 2026**. Outer bound **2 December 2025 – 30 January 2026**.
+  **This supersedes the earlier bare "2025"**, which was the clipper's inference off a
+  distant anchor (ID 2294, Feb 2024) and was wrong by about twelve months. The
+  `2025-01-01` filename prefix is stale padding pending rename.
+- **Still first-party and effectively promotional.** "Enhances transparency, improves
   service delivery, supports efficient compliance monitoring" are **the agency's claims
-  about itself**, not evidence. **The source carries no figures at all** — no registration
-  counts, no TIN totals, no uptake data.
+  about itself**, not evidence.
+- **The source carries no figures at all** — no registration counts, no TIN totals, no
+  uptake data. It establishes the mechanism, not its uptake.
 
 ## Related
 
@@ -47,4 +52,4 @@ a functional identifier sitting alongside the national ID architecture run by th
 
 ## Sources
 
-- [[2025-01-01 ZIMRA Taxpayer Registration]]
+- [[2026-01-01 ZIMRA Taxpayer Registration]]

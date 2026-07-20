@@ -13,7 +13,8 @@ last_reviewed: 2026-07-20
 
 South Sudan is digitising faster than the infrastructure and governance meant to
 support it. A **de-facto DPI** — telecom mobile money, donor biometric registries,
-humanitarian cash systems, a privately-owned tax platform — keeps commerce and
+humanitarian cash systems, and a national e-government revenue platform run by a private, UK-registered,
+US-sanctioned contractor (**Crawford Capital Ltd**) — keeps commerce and
 services moving, but it is fragmented, proprietary, and vulnerable to outages,
 insecurity and political interference. The two structural gaps are a **reliable
 connectivity/energy layer** and, most critically, the **absence of a unified
@@ -24,13 +25,80 @@ but ahead of the governance frameworks meant to hold it.
 
 ## Recent developments
 
+- **2026-06-22** — **The private revenue platform, identified: Crawford Capital Ltd** *(resolved
+  2026-07-20; supersedes GAP-SSD-001)*. The "privately-owned national tax platform" the wiki has carried
+  since Jan 2026 on a single secondary account is **Crawford Capital Ltd**, a **UK-registered** company
+  whose payments arm trades as **CapitalPay**. The primary of record is the **UN Commission on Human Rights
+  in South Sudan**, *Plundering a Nation* (**A/HRC/60/CRP.5, 16 Sep 2025**), which devotes a titled section
+  to it. Established:
+  - **Contract (Nov 2019)** with the **Ministry of Information, Communication Technology and Postal
+    Services** (then minister Michael Makuei Lueth), as **exclusive provider of e-Government Services** —
+    trade permits, visas, tax payments, customs, work permits, and the **Electronic Crude Oil Accreditation
+    Permit** through which every exported barrel passes.
+  - **No competitive tender** on the public record, despite the Public Procurement and Disposal of Assets
+    Act 2018. The Commission found the procurement endorsed by key ministries **and by the National
+    Security Service's Internal Security Bureau**, whose then-DG wrote personally in support, proposing
+    Crawford work with the intelligence service's ICT department **because the company was building large
+    databases and integrating online services**. The security service sponsored the contract *on database
+    grounds* — the data-governance crux of the whole arrangement.
+  - **Terms (UN finding):** Crawford **retains a 75% profit share of the taxes it collects**; 25% to the
+    Ministry. Extended in **2024** to an **unlawful levy on tax-exempt humanitarian agencies** that forced
+    suspension of critical food aid. A separate **0.3%-of-cargo-value** crude-oil accreditation fee
+    (introduced 2023) is split with the Ministry, the Commission estimating Crawford's share at
+    **US$9.6-11.5m/yr**.
+  - **Where the money sits.** The Commission found the **[[south-sudan-national-revenue-authority|SSRA]]**
+    complicit in allowing Crawford representatives to **collect and hold public revenues in company bank
+    accounts**, outside the national treasury — "in clear violation of articles 9 and 10 of the **UN
+    Convention against Corruption**."
+  - **Crawford's rebuttal (22 Jun 2026, unnamed CEO):** the 75/25 split applies "only to a separate
+    convenience fee", not to government revenue; the company says it earns a **2% platform service fee**;
+    funds sit in **regulated trust/collection accounts** under the **Electronic Money Regulation 2017**
+    subject to central-bank oversight, "not private operating accounts". It claims monthly non-oil revenue
+    rose from ~**US$648,000 (2020)** to ~**US$28m (2025)**. It did **not** address the oil-sector findings.
+  - **The state defends it (14 May 2026).** The SSRA and the Ministry of ICT issued separate statements
+    calling the engagement lawful, transparent and **endorsed by the Council of Ministers**, claiming
+    ~**130bn SSP monthly** and ~**1 trillion SSP over eight months** (peak Apr 2026). *SSP figures are of
+    little comparative value given the parallel-rate gap.* Neither acknowledged the 75/25 split, the
+    humanitarian levies or the private-account finding.
+  - **Ownership — precision required.** The Commission's published findings say Crawford "is owned and run
+    by **family members of national political elites**" and locate the shareholding in the full report;
+    **they do not name Adut Salva Kiir Mayardit.** That attribution comes from investigative secondary
+    reporting, which also names majority shareholder **Garang Mayom Kuoc Malek (68%)** and Kenyan
+    businessman **Jeremy Gisemba (26%)**. Treat the presidential-family association as **reported, not
+    established by the primary** (see below).
+  - **Contested politically.** Trade Minister **Atong Kuol Manyang Juuk** ordered a **90-day review**
+    (5 Mar 2026); **Vice President James Wani Igga overruled her within 24 hours**, holding the contract
+    cabinet-approved (Cabinet Resolution No. 3/2024; Presidential Order No. 35 of 2025 mandates the SSRA
+    e-government system). The **US State Department sanctioned Crawford Capital in May 2026** for siphoning
+    public funds and diverting foreign assistance.
+
+  This is national fiscal infrastructure operated by a private, foreign-registered, now-sanctioned company
+  under an untendered contract sponsored by the security service — the sharpest data-governance case in the
+  corpus. See [[dpi.govtech]], [[dpi.pay]], [[gov.policy]], [[gov.protect]], [[south-sudan--dpi-govtech]].
+  Sources: [[2025-09-16-un-commission-south-sudan-plundering-a-nation-ohchr]],
+  [[2026-06-22-crawford-denies-75-percent-revenue-retention-sudanspost]],
+  [[2026-05-14-south-sudan-defends-crawford-capital-deal-eastleighvoice]].
+- **2025-10-08** — **A second private revenue operator, on radically different terms (SSRA + NCA +
+  Ensoft/N-Soft).** The SSRA and the **[[national-communication-authority-south-sudan|NCA]]** signed a
+  **six-year Build-Operate-Transfer** agreement with **Ensoft** (named **N-Soft** in other reporting) for
+  **telecom revenue assurance** — real-time visibility of telecom-sector collections. The vendor takes
+  **3.56%** of revenue collected; **96.44%** goes to government; the **NCA hosts and oversees** the system;
+  and it **transfers fully to the government after six years**, with no fixed contract value. Signed by
+  SSRA Commissioner-General **Simon Akuei Deng** and NCA DG **Gieth Kon Mathiang**. Set against Crawford's
+  75% share with no transfer clause, this is the **control case** — it shows what an ordinary
+  revenue-digitisation contract in the same country, the same year, looks like. See [[dpi.pay]],
+  [[dpi.govtech]]. Source:
+  [[2025-10-09-ssra-nca-ensoft-six-year-revenue-digitization-deal-eyeradio]].
 - **2026-01-20** — **"What is actually functioning as DPI."** A Sudans Post
   synthesis (documenting Oct 2025–Jan 2026) of the country's de-facto DPI: the
   Bank of South Sudan's **IBPSS** (Oct 2025) as the first interoperable interbank
   backbone (the source's acronym; the system is properly **SSIPS** — see 2025-10-10 below); telecom **mobile money** (>1m users) degrading to cash during outages;
   a **Nimule one-stop border post** with customs automation; a **primary
   tax/revenue platform privately owned by Adut Salva Kiir Mayardit**, the
-  president's daughter; a **World-Bank-backed biometric public-servant payroll**
+  president's daughter *(the platform is **Crawford Capital Ltd** — identified 2026-07-20 above; note the
+  UN Commission's published findings attribute ownership to "family members of national political elites"
+  and **do not name Adut Salva Kiir Mayardit**, so this source's specific attribution stands as reported,
+  not established)*; a **World-Bank-backed biometric public-servant payroll**
   that stays siloed absent a national ID; and donor WHO/UNICEF health systems as
   the most reliable-but-proprietary layer. Reinforces the 2026-01-30 feature
   below. Source: [[2026-01-20 What is actually functioning as DPI in South Sudan]].
@@ -145,7 +213,10 @@ but ahead of the governance frameworks meant to hold it.
   ISO 20022 — wholesale interbank settlement, the system elsewhere mis-cited as
   "IBPSS") and **NIPS** (a Feb-2025 BoSS + AfricaNenda *project*, retail instant
   payments, **no documented go-live**) — two sequential programmes, not one
-  (resolved 2026-07-20, see [[nips-south-sudan]]); NRA cashless digital passport/ID payments;
+  (resolved 2026-07-20, see [[nips-south-sudan]]); **e-government revenue collection outsourced to
+  Crawford Capital Ltd** under an untendered 2019 contract (75% profit share per the UN Commission;
+  US-sanctioned May 2026) alongside an Ensoft/N-Soft telecom revenue-assurance BOT at 3.56% — see
+  [[south-sudan--dpi-govtech]]; NRA cashless digital passport/ID payments;
   full-digitisation decree (Jan 2026 deadline); mobile money declared legal tender (Jul 2025), RTGS uptake, ITU DFS Security Lab. Full case: [[south-sudan--dpi-pay]].
 - [[dpi.id]] · [[dpi.registry]] · [[gov.protect]] — **no unified interoperable
   national digital ID** (the defining gap); personal ID (Butaka Shakhsia) now
@@ -186,6 +257,10 @@ but ahead of the governance frameworks meant to hold it.
   digital-rights / financial-inclusion partners
 - [[crei-south-sudan]] · [[finnfund]] · [[mtn-group]] — telecom energy financing
 - [[huawei]] · [[zte]] · [[starlink]] — foreign infrastructure/connectivity
+- Tagged, no page yet: **Crawford Capital Ltd** / CapitalPay (private e-government revenue operator;
+  ≥3 sources — due a page at the next entity pass); UN Commission on Human Rights in South Sudan
+  (*Plundering a Nation*, A/HRC/60/CRP.5); Ensoft / N-Soft (telecom revenue assurance).
 - Mentioned, not hubbed: WHO, UNICEF, UNHCR, EU (donor DPI); Ateny Wek Ateny (ICT
   minister); Thomas Gatkuoth Nyak (e-services council); Adut Salva Kiir Mayardit
-  (private tax platform); Edmund Yakani (civil society).
+  (associated with the private revenue platform in secondary reporting; **not named in the UN
+  Commission's published findings**); Edmund Yakani (civil society).
