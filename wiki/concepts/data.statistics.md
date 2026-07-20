@@ -44,7 +44,8 @@ is where the **"is the data even being created?"** question lives, upstream of D
   "fork in the road" — optimise existing systems, or transform them — sharpening the aid-shock thesis
   above. See [[capacity.research]], [[data.open]].
 - **Administrative data as a fiscal asset (2026-05, Malawi).** [[malawi-revenue-authority]]'s
-  Electronic Invoicing System (EIS) now yields **>$1.2m/day** (May collections >$28m), with ~7,500 of
+  Electronic Invoicing System (EIS) was yielding **>US$1.2m/day** (**May 2026** collections >US$28m)
+  as reported 2026-06-03, with ~7,500 of
   ~9,000 registered VAT operators migrated — real-time transaction records becoming both tax
   infrastructure and a new administrative dataset, though blackouts and connectivity constrain
   coverage. A concrete instance of the "creation, not just digitisation" argument. See [[MWI]],

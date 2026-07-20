@@ -173,7 +173,8 @@ National digital strategy, ownership and the financing conditions around it.
 - **The fiscal turn — mobile money as tax infrastructure (2026-05/06).** Under debt pressure,
   **Kenya, Nigeria and Senegal** are folding mobile-money rails into **tax collection**, trading
   financial-inclusion framing for traceability (risking cash flight among fee-sensitive users);
-  **[[MWI]] Malawi's** Electronic Invoicing System now yields **>$1.2m/day** with ~**7,500 of ~9,000**
+  **[[MWI]] Malawi's** Electronic Invoicing System was yielding **>US$1.2m/day** (as reported
+  2026-06-03; publisher's USD rendering, MWK original not held) with ~**7,500 of ~9,000**
   VAT operators migrated — digital-tax-as-infrastructure in practice. See [[dpi.pay]],
   [[include.access]]. Sources:
   [[2026-05-29 Africa's Mobile Money Networks Are Becoming Tax Infrastructure]],

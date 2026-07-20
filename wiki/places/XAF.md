@@ -311,7 +311,7 @@ _Older dated developments (through early 2026) are preserved in their linked sou
 ## Active topics
 
 - [[infra.store]] · [[infra.connect]] · [[infra.energy]] — data centres (700-facility gap,
-  $4.5bn race, power "instability tax"), subsea cable (Via Africa, Seacom 2.0), satellite-
+  $4.5bn build-out race (2026-05), power "instability tax"), subsea cable (Via Africa, Seacom 2.0), satellite-
   sovereignty debate.
 - [[dpi.pay]] · [[dpi.id]] · [[include.access]] — continental DPI push; PAPSS/Afreximbank rails
   (2022 baseline → PAPSSCARD/Pesalink); MOSIP/ID4Africa; ADLI cohort; cross-border ID governance
@@ -319,7 +319,7 @@ _Older dated developments (through early 2026) are preserved in their linked sou
 - [[dpi.mis]] · [[dpi.exchange]] — health-data/EHR interoperability (Africa CDC, DHIS2);
   AFGHS bilateral health-data MOUs vs sovereignty; DHIS2/HMIS financing risk after US cuts
   (Open Data Watch/HISP).
-- [[tech.ai]] — affordability/agency gap; AI sovereignty ($60bn AI Fund, AU Continental AI
+- [[tech.ai]] — affordability/agency gap; AI sovereignty ($60bn Africa AI Fund, Kigali 2026-05; AU Continental AI
   Strategy, <1% of global DC capacity); **AU unified voice at the Global AI Governance Dialogue + UN
   Scientific Panel**; **US–China AI-stack contest** (Tech Corps vs DeepSeek/Qwen); AU compute grid;
   Google DeepMind AI education; UNECA "10x data-centre capacity" call.

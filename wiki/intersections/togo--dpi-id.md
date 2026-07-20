@@ -9,7 +9,7 @@ entities: [[anid-togo], [e-id-togo], [novissi], [inseed-togo], [wuri-programme],
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-20
-sources: [[2023-12-21 ISR - WURI Phase 2 Seq 7 (P169594)], [2024-03-06 1 step forward, 3 steps back for West Africa's regional digital ID projects], [2025-11-19 Togo Advances Digital ID Program With New Enrollment Phase in Maritime Region], [2025-10-30 Senegal Benchmarks Togo's e-ID System for Digital Transformation], [2025-11-03 Senegal taps inspiration from Togo's digital ID experience], [2023-01-01 Case Study - G2PX in Togo, End-to-End Digital G2P (World Bank)], [2026-05-28 Why decentralized digital identity looks different in every country], [2026-04-23-togo-6-millions-niu-fin-2025], [2026-04-27-biometricupdate-togo-6m-niu-mosip], [2025-08-12-togo-enregistrement-biometrique-agoe-nyive], [2026-01-23-identification-biometrique-zio-18-fevrier], [2026-05-11-anid-plateaux-ouest-enregistrement], [2026-07-17-togo-world-bank-vision-2040-financement]]
+sources: [[2023-12-21 ISR - WURI Phase 2 Seq 06 (P169594)], [2024-03-06 1 step forward, 3 steps back for West Africa's regional digital ID projects], [2025-11-19 Togo Advances Digital ID Program With New Enrollment Phase in Maritime Region], [2025-10-30 Senegal Benchmarks Togo's e-ID System for Digital Transformation], [2025-11-03 Senegal taps inspiration from Togo's digital ID experience], [2023-01-01 Case Study - G2PX in Togo, End-to-End Digital G2P (World Bank)], [2026-05-28 Why decentralized digital identity looks different in every country], [2026-04-23-togo-6-millions-niu-fin-2025], [2026-04-27-biometricupdate-togo-6m-niu-mosip], [2025-08-12-togo-enregistrement-biometrique-agoe-nyive], [2026-01-23-identification-biometrique-zio-18-fevrier], [2026-05-11-anid-plateaux-ouest-enregistrement], [2026-07-17-togo-world-bank-vision-2040-financement]]
 ---
 
 # Togo × Digital Identity & CRVS
@@ -48,7 +48,7 @@ account of the sequence:
 - **February 2022 governance decree** establishing project governance bodies.
 
 See [[gov.legislate]], [[gov.protect]]. Source:
-[[2023-12-21 ISR - WURI Phase 2 Seq 7 (P169594)]].
+[[2023-12-21 ISR - WURI Phase 2 Seq 06 (P169594)]].
 
 ## The 6-million milestone (resolves GAP-TGO-002)
 
@@ -116,7 +116,7 @@ field-personnel deployment.
 own H2-2025 reforms report: **6m+ NIUs as of end-Dec 2025** (see "The 6-million milestone" above). The
 **8m** figure remains a *target* stated in December 2023, not a coverage claim. See [[include.divides]].
 Sources:
-[[2023-12-21 ISR - WURI Phase 2 Seq 7 (P169594)]],
+[[2023-12-21 ISR - WURI Phase 2 Seq 06 (P169594)]],
 [[2024-03-06 1 step forward, 3 steps back for West Africa's regional digital ID projects]],
 [[2025-11-19 Togo Advances Digital ID Program With New Enrollment Phase in Maritime Region]].
 
@@ -169,7 +169,7 @@ reputation that brought the Dakar delegation. See [[dpi.pay]], [[include.access]
 
 See [[finance.new]]. Sources:
 [[2024-03-06 1 step forward, 3 steps back for West Africa's regional digital ID projects]],
-[[2023-12-21 ISR - WURI Phase 2 Seq 7 (P169594)]].
+[[2023-12-21 ISR - WURI Phase 2 Seq 06 (P169594)]].
 
 ## The regional frame — WURI shrinking around Togo
 
@@ -190,7 +190,7 @@ implementation therefore hardens as the programme's Sahel membership falls away.
 
 ## Sources
 
-- [[2023-12-21 ISR - WURI Phase 2 Seq 7 (P169594)]]
+- [[2023-12-21 ISR - WURI Phase 2 Seq 06 (P169594)]]
 - [[2024-03-06 1 step forward, 3 steps back for West Africa's regional digital ID projects]]
 - [[2025-11-19 Togo Advances Digital ID Program With New Enrollment Phase in Maritime Region]]
 - [[2025-10-30 Senegal Benchmarks Togo's e-ID System for Digital Transformation]]

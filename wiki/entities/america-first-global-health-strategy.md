@@ -7,7 +7,7 @@ topics: [geopol.usa, gov.protect, dpi.mis, dpi.exchange, finance.mou, data.stati
 lens: [sovereignty, colonialism]
 status: active
 last_reviewed: 2026-07-12
-sources: [[2026-02-25 Zimbabwe Turns Down U.S. Health Funding, Citing Sovereignty Concerns], [2026-03-19 African Digital Health Data Is a Condition of Global Health Funding], [2026-02-24 ⁠Zimbabwe rejects $350 million US health funding deal warns It threatens national sovereignty], [2026-03-27 Kenya's Health Deal Is a Stress Test for the America First Global Health Strategy], [2026-02-25 US accused of 'shameless exploitation' over proposed Zambian health aid deal], [2026-02-26 Zambia rejects U.S. health aid over mining partnership ties], [2026-03-12 How Trump's Data Regulation Crackdown Undermines Digital Sovereignty], [2025-11-21 First look Full Text of America First Global Health Strategy Specimen Sharing Agreement], [2026-01-20 Africa Pushes Back On US Health Deals Over Data, Power], [2026-01-01 America First, Africa Last  Data Extraction from Africa's Bodies and the Erosion of Health Sovereignty], [2026-03-05 Africa CDC head cites major concerns over data, pathogen sharing in US health deals], [2026-02-24 Global Health Nigeria and the Pathology of the Hostage State in an Era of Fragmentation], [2026-07-01 KFF Tracker America First MOU Bilateral Global Health Agreements], [2025-12-15 THE GATEKEEPERS PART V The New Maps of Africa], [2026-06-08 Kenyan Citizens Took A $2.5 Billion Deal With America To Court To Fight For Their Health Data]]
+sources: [[2026-02-25 Zimbabwe Turns Down U.S. Health Funding, Citing Sovereignty Concerns], [2026-03-19 African Digital Health Data Is a Condition of Global Health Funding], [2026-02-24 ⁠Zimbabwe rejects $350 million US health funding deal warns It threatens national sovereignty], [2026-03-27 Kenya's Health Deal Is a Stress Test for the America First Global Health Strategy], [2026-02-25 US accused of 'shameless exploitation' over proposed Zambian health aid deal], [2026-02-26 Zambia rejects U.S. health aid over mining partnership ties], [2026-03-12 How Trump's Data Regulation Crackdown Undermines Digital Sovereignty], [2025-11-21 First look Full Text of America First Global Health Strategy Specimen Sharing Agreement], [2026-01-20 Africa Pushes Back On US Health Deals Over Data, Power], [2026-01-01 America First, Africa Last  Data Extraction from Africa's Bodies and the Erosion of Health Sovereignty], [2026-02-27 Africa CDC head cites major concerns over data, pathogen sharing in US health deals], [2026-02-24 Global Health Nigeria and the Pathology of the Hostage State in an Era of Fragmentation], [2026-07-01 KFF Tracker America First MOU Bilateral Global Health Agreements], [2025-12-15 THE GATEKEEPERS PART V The New Maps of Africa], [2026-06-08 Kenyan Citizens Took A $2.5 Billion Deal With America To Court To Fight For Their Health Data]]
 ---
 
 # America First Global Health Strategy (AFGHS)
@@ -60,7 +60,7 @@ funding**, making AFGHS as much a digital-governance instrument as a health one.
   interviewees; Makerere's Peter Waiswa) stress the deals route outbreak reporting to a foreign
   government within days, sidelining continental systems and forfeiting collective bargaining. See
   [[africa-cdc]], [[gov.regional]]. Sources:
-  [[2026-03-05 Africa CDC head cites major concerns over data, pathogen sharing in US health deals]],
+  [[2026-02-27 Africa CDC head cites major concerns over data, pathogen sharing in US health deals]],
   [[2026-01-20 Africa Pushes Back On US Health Deals Over Data, Power]].
 - **Nigeria compact — the $5.1bn breakdown (2026-02).** Nigeria's is the largest MOU: **~$2.1bn in
   US grants paired with a $3.0bn Nigerian domestic co-investment** ("health independence by 2030"),
@@ -114,7 +114,7 @@ funding**, making AFGHS as much a digital-governance instrument as a health one.
 - [[2025-11-21 First look Full Text of America First Global Health Strategy Specimen Sharing Agreement]]
 - [[2026-01-20 Africa Pushes Back On US Health Deals Over Data, Power]]
 - [[2026-01-01 America First, Africa Last  Data Extraction from Africa's Bodies and the Erosion of Health Sovereignty]]
-- [[2026-03-05 Africa CDC head cites major concerns over data, pathogen sharing in US health deals]]
+- [[2026-02-27 Africa CDC head cites major concerns over data, pathogen sharing in US health deals]]
 - [[2026-02-24 Global Health Nigeria and the Pathology of the Hostage State in an Era of Fragmentation]]
 - [[2026-07-01 KFF Tracker America First MOU Bilateral Global Health Agreements]]
 - [[2025-12-15 THE GATEKEEPERS PART V The New Maps of Africa]]

@@ -108,7 +108,7 @@ and **[[starlink]]** satellite entry ([[guinea-bissau--infra-connect]]).
   See [[dpi.registry]].
 - **Reference (WB / IMF).** The WB **[[guinea-bissau-digital-economy-diagnostic]]** (DE4A five pillars)
   and an IMF tax-compliance TA report (May 2024) frame the digital-economy and revenue-modernization
-  gaps. Sources: [[2024-01-01 Guinea-Bissau Digital Economy Diagnostic (World Bank)]],
+  gaps. Sources: [[2022-09-18 Guinea-Bissau Digital Economy Diagnostic (World Bank)]],
   [[2024-05-01 Guinea-Bissau - Further Improvements in Tax Compliance (IMF technical assistance)]].
 
 ## Active topics

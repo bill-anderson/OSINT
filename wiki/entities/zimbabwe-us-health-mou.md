@@ -7,7 +7,7 @@ topics: [geopol.usa, gov.protect, dpi.mis]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-16
-sources: [[2026-02-25 Zimbabwe Turns Down U.S. Health Funding, Citing Sovereignty Concerns], [2026-02-24 ⁠Zimbabwe rejects $350 million US health funding deal warns It threatens national sovereignty], [2026-02-26 Zambia rejects U.S. health aid over mining partnership ties], [2026-02-25 US accused of 'shameless exploitation' over proposed Zambian health aid deal], [2026-03-05 Africa CDC head cites major concerns over data, pathogen sharing in US health deals]]
+sources: [[2026-02-25 Zimbabwe Turns Down U.S. Health Funding, Citing Sovereignty Concerns], [2026-02-24 ⁠Zimbabwe rejects $350 million US health funding deal warns It threatens national sovereignty], [2026-02-26 Zambia rejects U.S. health aid over mining partnership ties], [2026-02-25 US accused of 'shameless exploitation' over proposed Zambian health aid deal], [2026-02-27 Africa CDC head cites major concerns over data, pathogen sharing in US health deals]]
 ---
 
 # Zimbabwe–US health MoU (rejected)
@@ -57,7 +57,7 @@ of" — via the state *Herald*; not held on file.)
   states Zimbabwe pulled out of the **$367m/5-yr** deal (a third corroboration of the figure), calling it
   "unequal" and citing sensitive-data concerns; [[africa-cdc]] flagged "huge concerns regarding data,
   regarding pathogen sharing." Source:
-  [[2026-03-05 Africa CDC head cites major concerns over data, pathogen sharing in US health deals]].
+  [[2026-02-27 Africa CDC head cites major concerns over data, pathogen sharing in US health deals]].
 
 ## Sources
 
@@ -65,4 +65,4 @@ of" — via the state *Herald*; not held on file.)
 - [[2026-02-24 ⁠Zimbabwe rejects $350 million US health funding deal warns It threatens national sovereignty]]
 - [[2026-02-26 Zambia rejects U.S. health aid over mining partnership ties]]
 - [[2026-02-25 US accused of 'shameless exploitation' over proposed Zambian health aid deal]]
-- [[2026-03-05 Africa CDC head cites major concerns over data, pathogen sharing in US health deals]]
+- [[2026-02-27 Africa CDC head cites major concerns over data, pathogen sharing in US health deals]]

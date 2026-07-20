@@ -4,15 +4,15 @@ ingested: 2026-07-17
 places: [NGA]
 topics: [dpi.govtech, dpi.pay, dpi.exchange, data.statistics]
 entities: [[nitda]]
-date_precision: month
-date_source: proxy
+date_precision: day
+date_source: source
 lens: []
 body_completeness: full
 page: 
 title: Digital Public Infrastructure (DPI) and Tax Administration in Nigeria: The Current State of Play - ICTD
 url: https://www.ictd.ac/blog/digital-tax-infrastructure-in-nigeria-current-state-and-outlook/
 author: 
-published: 2025-07-01
+published: 2025-10-10
 accessed: 2026-07-16
 source: https://www.ictd.ac/blog/digital-tax-infrastructure-in-nigeria-current-state-and-outlook/
 keywords: 
@@ -54,3 +54,5 @@ The event marks an important milestone in DPI implementation in Nigeria, particu
 2.  There is a need to evaluate the extent to which the draft DPI Technical Standard and National Digital Public Infrastructure (DPI) Framework address issues relating to DPI for tax administration.
 3.  There is a need for a deep-dive engagement with privacy concerns issues relating to data sharing and exchange between <u><a href="https://www.gsma.com/solutions-and-impact/connectivity-for-good/mobile-for-development/mobile-money/">digital merchant payment services providers</a></u> and subnational tax administrations.
 4.  A national policy dialogue is needed to bring together stakeholders in Nigeria’s DPI space, including government agencies, payment service providers, research centres, and civil society. Such an event would help share research, highlight policy gaps, raise awareness, and reduce perception gaps around DPI for tax administration.
+
+NOTE (lint #3, 2026-07-20): published corrected 2025-07-01 (month, proxy) -> 2025-10-10 (day, source). The ICTD blog post at the URL on file is dated 2025-10-10.

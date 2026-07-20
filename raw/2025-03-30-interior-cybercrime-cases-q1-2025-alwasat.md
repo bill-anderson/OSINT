@@ -3,9 +3,9 @@ type: source
 title: "«الداخلية» تعلن عدد قضايا الجرائم الإلكترونية في الربع الأول من 2025"
 url: https://alwasat.ly/news/libya/471949
 publisher: بوابة الوسط (Alwasat)
-published: 2025-04-06
-date_precision: month
-date_source: proxy
+published: 2025-03-30
+date_precision: day
+date_source: source
 ingested: 2026-07-18
 retrieved: 2026-07-17
 sweep_batch: LBY-2026-07-17
@@ -103,3 +103,5 @@ body_completeness: full
 بوابة الوسط غير مسؤولة عن محتوى المواقع الخارجية وتعليقات القراء
 
 بوابة جريدة الوسط»، بوابة إلكترونية ليبية مستقلة ملتزمة في أدائها المهني بالأنظمة الإعلامية السارية، وهدفها تقديم خدمة إعلامية مستنيرة ترتكز إلى الصدقية والدقة والحياد، واحترام الحرية الشخصية، وصولاً إلى أن تكون «صوت ليبيا الدولي
+
+NOTE (lint #3, 2026-07-20): published corrected 2025-04-06 (month, proxy) -> 2025-03-30 (day, source). The stored verbatim body carries the Alwasat dateline "القاهرة - بوابة الوسط الأحد 30 مارس 2025, 02:03 مساء" - Sunday 30 March 2025. The date was on the page all along; the proxy was unnecessary.

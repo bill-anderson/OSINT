@@ -227,7 +227,7 @@ cross-border fintech and payments gateway into Africa.
   **[[civil-status-division-mauritius|CSD]]** CRVS/ID ecosystem (2019 presentation; FY2023-24 report), PMO and
   Police Force annual reports (FY2023-24), a **Health 2015** eHealth strategy, and the historic **e-Government
   Interoperability Framework v1.0** (2002). Cited, not absorbed. Sources:
-  [[2019-06-28 The CRVS and Identity Eco-System in the Republic of Mauritius (presentation)]],
+  [[2019-06-01 The CRVS and Identity Eco-System in the Republic of Mauritius (presentation)]],
   [[2024-01-01 Mauritius Civil Status Division Annual Report on Performance FY2023-2024]],
   [[2024-01-01 Mauritius Prime Minister's Office Annual Report on Performance FY2023-2024 (incl. Home Affairs)]],
   [[2024-10-01 Mauritius Police Force Annual Report 2023-2024]],

@@ -322,8 +322,10 @@ last_reviewed: 2026-07-20
   facilities; ~6GW grid for 230m people vs South Africa's ~48GW), and argues it should have been
   *sequenced* against infrastructure milestones (cf. India's 2018–19 RBI rollback, Rwanda's phased
   DPI). Part II casts the **[[mtn-nigeria]]** Sifiso Dabengwa DC ($235m, 4.5MW, $20m naira-priced
-  cloud) as the local capacity to absorb it. Payments context: **[[nibss]]** logged **~$702.6bn**
-  in e-transactions in 2024 (Kariuki's "payments end-game"). Sources:
+  cloud) as the local capacity to absorb it. Payments context: **[[nibss]]** logged
+  **₦1.07 quadrillion in e-transactions (2024)** — the piece renders this as **~$702.6bn** at its
+  own undated conversion, so the naira figure is the one carried here (Kariuki's "payments
+  end-game"). Sources:
   [[2026-07-01 Strategy Ahead of Infrastructure, Part I Inside the CBN's June 2026 Payments Circular]],
   [[2026-06-19 Strategy Ahead of Infrastructure, Part II The Opportunity and the Case for Sequencing]],
   [[2026-02-23 111 - Winning But Losing - The Payments End Game]]. See [[dpi.pay]], [[infra.store]],

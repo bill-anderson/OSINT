@@ -55,7 +55,8 @@ vendor-neutral publication of foundational reference data.
   Governance Policy** designating data a strategic national asset, run by a new
   **National Data Governance & Emerging Technologies Council** and **Data
   Governance Office**. Comparators: Singapore's tiered platform; UK Ordnance
-  Survey (~$263m/yr from geospatial licensing). Deal/initiative:
+  Survey (cited at **Sh34bn ≈US$263m/yr** from geospatial licensing, as reported 2026-06-08 —
+  a Kenyan paper's double conversion; the GBP original is not held). Deal/initiative:
   [[kenya-data-marketplace]]. See [[gov.policy]], [[gov.protect]],
   [[dpi.govtech]]. Source: [[2026-06-08 Kenya proposes marketplace for State data]].
 - **Zambia's open-source turn + NSDI (2026-06, ITWeb Africa).** Zambia's Cabinet

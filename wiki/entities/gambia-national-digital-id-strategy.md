@@ -7,7 +7,7 @@ topics: [dpi.id, gov.policy]
 lens: []
 status: active
 last_reviewed: 2026-07-16
-sources: [[2024-05-17 Validation of The Gambia's National Digital ID and Digital Transformation Strategy], [2024-01-01 Gambia National Digital Identity Strategy (Strategy Report)], [2024-01-01 Gambia Diagnostic - High-Level Assessment of Identity Management System (World Bank)]]
+sources: [[2024-05-17 Validation of The Gambia's National Digital ID and Digital Transformation Strategy], [2024-01-01 Gambia National Digital Identity Strategy (Strategy Report)], [2025-10-20 ID4D-Diagnostic of ID Systems in The Gambia - Presentation (World Bank)]]
 ---
 
 # Gambia National Digital ID and Digital Transformation Strategy 2023-2028
@@ -27,10 +27,10 @@ See [[GMB]].
   ministries, immigration, the Gambia Police Force and the newly-established **[[gicta]]**. Source:
   [[2024-05-17 Validation of The Gambia's National Digital ID and Digital Transformation Strategy]].
 - **Evidence base.** A World Bank high-level assessment of The Gambia's identity-management system
-  underpins the reform. Source: [[2024-01-01 Gambia Diagnostic - High-Level Assessment of Identity Management System (World Bank)]].
+  underpins the reform. Source: [[2025-10-20 ID4D-Diagnostic of ID Systems in The Gambia - Presentation (World Bank)]].
 
 ## Sources
 
 - [[2024-05-17 Validation of The Gambia's National Digital ID and Digital Transformation Strategy]]
 - [[2024-01-01 Gambia National Digital Identity Strategy (Strategy Report)]]
-- [[2024-01-01 Gambia Diagnostic - High-Level Assessment of Identity Management System (World Bank)]]
+- [[2025-10-20 ID4D-Diagnostic of ID Systems in The Gambia - Presentation (World Bank)]]

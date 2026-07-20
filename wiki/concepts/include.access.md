@@ -179,8 +179,9 @@ private digital services as the test of infrastructure's value.
   Source: [[2026-06-25 Regulating for Africa's future digital economy – A draft agenda to speed things up]].
 
 - **ID-access frictions — Sierra Leone and South Sudan (2024–25).** In **[[SLE]] Sierra Leone** a
-  **$6–7** national-ID card fee plus low literacy gate access, while social-protection **digital
-  payments** first reached **~35,000** households (2025). In **[[SSD]] South Sudan**, **17,400** returnee
+  national-ID card fee of **~US$6–7** plus low literacy gate access, while social-protection **digital
+  payments** first reached **~35,000** households (2025). *(The fee is set in leones; no SLE figure,
+  conversion date or citation is on file for the USD range — unestablished as of 2026-07-20.)* In **[[SSD]] South Sudan**, **17,400** returnee
   national-ID cards were issued via **EU/UNHCR** (2024-11). See [[dpi.id]], [[include.divides]], [[SLE]],
   [[SSD]].
 - **[[UGA]] Uganda — two different biometric failures, an order of magnitude apart in meaning.** NIRA

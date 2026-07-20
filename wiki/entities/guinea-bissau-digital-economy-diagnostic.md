@@ -7,7 +7,7 @@ topics: [infra.connect, gov.policy, dpi.pay, dpi.id]
 lens: []
 status: active
 last_reviewed: 2026-07-16
-sources: [[2024-01-01 Guinea-Bissau Digital Economy Diagnostic (World Bank)]]
+sources: [[2022-09-18 Guinea-Bissau Digital Economy Diagnostic (World Bank)]]
 ---
 
 # Guinea-Bissau Digital Economy Diagnostic (World Bank)
@@ -16,8 +16,8 @@ The World Bank's **Digital Economy Diagnostic** for Guinea-Bissau — the refere
 
 ## Activity in this wiki
 
-- **Reference diagnostic.** Source: [[2024-01-01 Guinea-Bissau Digital Economy Diagnostic (World Bank)]].
+- **Reference diagnostic.** Source: [[2022-09-18 Guinea-Bissau Digital Economy Diagnostic (World Bank)]].
 
 ## Sources
 
-- [[2024-01-01 Guinea-Bissau Digital Economy Diagnostic (World Bank)]]
+- [[2022-09-18 Guinea-Bissau Digital Economy Diagnostic (World Bank)]]

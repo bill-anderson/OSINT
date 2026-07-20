@@ -66,9 +66,11 @@ Government service delivery online.
   public-sector AI. See [[tech.ai]], [[include.access]], [[capacity.literacy]]. Source:
   [[2026-05-22 Nigeria launches GovGuide, an AI chatbot for public service access]].
 - **[[MWI]] Malawi — digital tax as e-gov infrastructure (2026-06).** The
-  [[malawi-revenue-authority]]'s **Electronic Invoicing System (EIS)** now generates
-  **>$1.2m/day**, with May collections **>$28m** and **~7,500 of ~9,000** VAT operators
-  migrated — real-time transaction capture as a governance backbone, constrained by
+  [[malawi-revenue-authority]]'s **Electronic Invoicing System (EIS)** was generating
+  **>US$1.2m/day**, with **May 2026** collections **>US$28m** and **~7,500 of ~9,000** VAT operators
+  migrated (all as reported 2026-06-03). *The MRA collects in kwacha; the publisher gives only its
+  own USD rendering, with no MWK figure and no stated rate or date — so the kwacha original is not
+  established (noted 2026-07-20).* — real-time transaction capture as a governance backbone, constrained by
   blackouts and connectivity. Sits alongside the Bomalathu portal above. See [[dpi.mis]],
   [[data.statistics]], [[gov.policy]]. Source: [[2026-06-03 Malawi reaps digital tax gains]].
 - **[[UGA]] Uganda — sourcing e-gov locally (2026-05).** The Government Systems Prototype

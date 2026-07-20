@@ -7,7 +7,7 @@ topics: [dpi.registry, dpi.id]
 lens: []
 status: active
 last_reviewed: 2026-07-16
-sources: [[2019-06-28 The CRVS and Identity Eco-System in the Republic of Mauritius (presentation)], [2024-01-01 Mauritius Civil Status Division Annual Report on Performance FY2023-2024]]
+sources: [[2019-06-01 The CRVS and Identity Eco-System in the Republic of Mauritius (presentation)], [2024-01-01 Mauritius Civil Status Division Annual Report on Performance FY2023-2024]]
 ---
 
 # Civil Status Division (CSD, Mauritius)

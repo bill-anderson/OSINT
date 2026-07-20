@@ -7,7 +7,7 @@ topics: [geopol.usa, gov.protect, finance.mou, dpi.mis]
 lens: [sovereignty, colonialism]
 status: active
 last_reviewed: 2026-07-11
-sources: [[2026-02-25 US accused of 'shameless exploitation' over proposed Zambian health aid deal], [2026-02-26 Zambia rejects U.S. health aid over mining partnership ties], [2026-03-05 Africa CDC head cites major concerns over data, pathogen sharing in US health deals]]
+sources: [[2026-02-25 US accused of 'shameless exploitation' over proposed Zambian health aid deal], [2026-02-26 Zambia rejects U.S. health aid over mining partnership ties], [2026-02-27 Africa CDC head cites major concerns over data, pathogen sharing in US health deals]]
 ---
 
 # Zambia–US health-financing MoU (proposed, halted)
@@ -55,10 +55,10 @@ investment.
 - **Africa CDC confirmation (2026-03-05).** Reuters, reporting DG Kaseya's press conference, confirmed
   Zambia "had pushed back on a section of its deal" — the same day Kaseya voiced "huge concerns
   regarding data, regarding pathogen sharing." See [[africa-cdc]]. Source:
-  [[2026-03-05 Africa CDC head cites major concerns over data, pathogen sharing in US health deals]].
+  [[2026-02-27 Africa CDC head cites major concerns over data, pathogen sharing in US health deals]].
 
 ## Sources
 
 - [[2026-02-25 US accused of 'shameless exploitation' over proposed Zambian health aid deal]]
 - [[2026-02-26 Zambia rejects U.S. health aid over mining partnership ties]]
-- [[2026-03-05 Africa CDC head cites major concerns over data, pathogen sharing in US health deals]]
+- [[2026-02-27 Africa CDC head cites major concerns over data, pathogen sharing in US health deals]]

@@ -7,7 +7,7 @@ places: [UGA]
 topics: [dpi.govtech, dpi.id, dpi.exchange, gov.standards, infra.cybersec]
 status: active
 last_reviewed: 2026-07-17
-sources: [[2026-07-17 A Collaborative Approach to Digital Identity and Digital Transformation (NIRA and NITA-U)]]
+sources: [[2024-05-21 A Collaborative Approach to Digital Identity and Digital Transformation (NIRA and NITA-U)]]
 ---
 
 # UGPass
@@ -27,7 +27,7 @@ platform. It provides authentication over **OpenID Connect** and **OAuth**, and 
   *The deck carries no date on any slide and no recoverable PDF metadata; it is dated to
   the ingest date as a proxy and is not a publication date.* See [[dpi.govtech]],
   [[dpi.id]], [[gov.standards]]. Source:
-  [[2026-07-17 A Collaborative Approach to Digital Identity and Digital Transformation (NIRA and NITA-U)]].
+  [[2024-05-21 A Collaborative Approach to Digital Identity and Digital Transformation (NIRA and NITA-U)]].
 
 ## Related
 

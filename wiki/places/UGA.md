@@ -71,7 +71,7 @@ days, two days before a presidential election — reminding every layer above it
   NIRA/NITA-U deck records NIRA's services used by **90 of 135 entities** on **[[ughub]]**, with
   **[[ugpass]]** as the authentication and e-signature platform. *Undated figures — not to be read as
   current-dated.* Source:
-  [[2026-07-17 A Collaborative Approach to Digital Identity and Digital Transformation (NIRA and NITA-U)]].
+  [[2024-05-21 A Collaborative Approach to Digital Identity and Digital Transformation (NIRA and NITA-U)]].
 - **2026-07-10** — **Cross-border identity governance.** A [[dial]] analysis uses **Kenya, Rwanda and
   Uganda** as its worked example: national ID cards **mutually recognised for travel** but often
   **inadequate for cross-border financial services**, where passports/permits are demanded — the

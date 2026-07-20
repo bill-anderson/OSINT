@@ -7,7 +7,7 @@ topics: [gov.protect, gov.legislate, infra.cybersec]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-20
-sources: [[2023-12-21 ISR - WURI Phase 2 Seq 7 (P169594)], [2025-12-12 Personal data and digital rights in Togo - HAAC and IPDCP seal institutional cooperation accord], [2019-10-29-togo-loi-2019-014-protection-donnees-caractere-personnel]]
+sources: [[2023-12-21 ISR - WURI Phase 2 Seq 06 (P169594)], [2025-12-12 Personal data and digital rights in Togo - HAAC and IPDCP seal institutional cooperation accord], [2019-10-29-togo-loi-2019-014-protection-donnees-caractere-personnel]]
 ---
 
 # IPDCP (Instance de Protection des Données à Caractère Personnel, Togo)
@@ -34,7 +34,7 @@ a **foundational unique identification law of September 2020** (creating [[anid-
 - **Statutory origin (WURI ISR, 2023-12-21).** The IPDCP's creation is recorded in the World
   Bank's account of Togo's identification-law package, alongside a **February 2022** decree
   establishing e-ID project governance bodies. Source:
-  [[2023-12-21 ISR - WURI Phase 2 Seq 7 (P169594)]].
+  [[2023-12-21 ISR - WURI Phase 2 Seq 06 (P169594)]].
 
 - **Statutory origin, now primary-sourced (2026-07-20).** The IPDCP is created by **art. 55 of
   *loi n° 2019-014 du 29 octobre 2019***, whose full gazetted text (*JO de la République
@@ -64,5 +64,5 @@ ANCy (cybersecurity agency, created June 2022).
 ## Sources
 
 - [[2019-10-29-togo-loi-2019-014-protection-donnees-caractere-personnel]]
-- [[2023-12-21 ISR - WURI Phase 2 Seq 7 (P169594)]]
+- [[2023-12-21 ISR - WURI Phase 2 Seq 06 (P169594)]]
 - [[2025-12-12 Personal data and digital rights in Togo - HAAC and IPDCP seal institutional cooperation accord]]

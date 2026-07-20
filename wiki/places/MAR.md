@@ -31,10 +31,11 @@ divide (~1,800 villages offline).
 > - **AI** — two legislative tracks (Jan-2025 AI bill; Digital X.0 law); CNDP sovereign responsible-AI
 >   LLMs; "AI Made in Morocco"/JAZARI; Orange AI programmes. Hub: [[morocco--tech-ai]].
 > - **Data centres** — #1 in Africa by DC count (overtaking SA); **[[nexus-ai-factory|Nexus AI Factory]]**
->   ($1.2bn, 500MW, TAQA/Nvidia); green DCs (Dakhla, Orange Tech); Oracle Agadir. Hub: [[morocco--infra-store]].
+>   (**MAD 12bn**, ≈US$1.2bn at the sources' own undated conversion; capacity reported as
+>   **500MW** vs **~36MW across two phases** — unresolved, 2026-07-20; TAQA/Nvidia); green DCs (Dakhla, Orange Tech); Oracle Agadir. Hub: [[morocco--infra-store]].
 > - **Connectivity** — 5G launch (Nov 2025, ANRT licensing); Maroc Telecom-Inwi FiberCo/TowerCo;
 >   Nokia-Medusa subsea. Hub: [[morocco--infra-connect]].
-> - **Cyber** — $1.2bn market; maCERT FortiBleed; Rabat as ANCA regional cyber hub. Hub:
+> - **Cyber** — $1.2bn market (Ken Research, 2025-11); maCERT FortiBleed; Rabat as ANCA regional cyber hub. Hub:
 >   [[morocco--infra-cybersec]].
 > - **Digital economy & diplomacy** — [[gitex-africa|GITEX Africa]] as investment gateway; offshoring
 >   scale-up; open-government forum + Ghana/Gabon/DCO bilaterals. Hub: [[morocco--gov-regional]].

@@ -7,7 +7,7 @@ places: [UGA]
 topics: [dpi.exchange, dpi.govtech, gov.standards, data.open, include.access]
 status: active
 last_reviewed: 2026-07-17
-sources: [[2024-06-28 Integrated National Data Exchange Systems - Uganda Case Study], [2026-07-17 A Collaborative Approach to Digital Identity and Digital Transformation (NIRA and NITA-U)]]
+sources: [[2024-06-28 Integrated National Data Exchange Systems - Uganda Case Study], [2024-05-21 A Collaborative Approach to Digital Identity and Digital Transformation (NIRA and NITA-U)]]
 ---
 
 # UGHub
@@ -39,7 +39,7 @@ other's services. It is the spine of Uganda's interoperability story and the rea
   among its largest data providers — NIRA's services used by **90 of 135 entities** on the
   platform. Companion to [[ugpass]] for authentication. *The deck is undated and dated to
   the ingest date as a proxy — do not treat these figures as current-dated.* Source:
-  [[2026-07-17 A Collaborative Approach to Digital Identity and Digital Transformation (NIRA and NITA-U)]].
+  [[2024-05-21 A Collaborative Approach to Digital Identity and Digital Transformation (NIRA and NITA-U)]].
 
 ## Related
 

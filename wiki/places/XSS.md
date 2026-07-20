@@ -6,7 +6,7 @@ parent: XAF
 place_kind: region
 topics: [infra.connect, infra.store, infra.energy, include.divides, include.access, tech.ai, data.open, capacity.research, finance.new, dpi.govtech, dpi.mis, gov.standards, gov.protect, gov.regional, geopol.usa, capacity.training]
 status: active
-last_reviewed: 2026-07-12
+last_reviewed: 2026-07-20
 ---
 
 # Sub-Saharan Africa (XSS)
@@ -95,8 +95,8 @@ home region. Roll-up by walking parents.
 
 ## Active topics
 
-- [[include.divides]] · [[include.access]] — the usage/affordability gap; $40
-  handsets; Starlink.
+- [[include.divides]] · [[include.access]] — the usage/affordability gap; entry-handset
+  affordability (**no dated price figure on file as of 2026-07-20**); Starlink.
 - [[infra.connect]] · [[infra.store]] · [[infra.energy]] — operator + LEO build-out; IFC
   financing; DIF data-centre/IXP project de-risking.
 - [[tech.ai]] · [[data.open]] — African-language models (WAXAL open voice dataset); the ~1%

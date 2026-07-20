@@ -183,8 +183,8 @@ what makes it work or fail.
 - **[[MWI]] Malawi — revenue as a real-time MIS (2026-06).** The
   [[malawi-revenue-authority]]'s **Electronic Invoicing System (EIS)** replaced
   the older Electronic Fiscal Devices, capturing transactions in real time
-  (VAT + income tax together); it now generates **>$1.2m/day** (May collections
-  **>$28m**) with **~7,500 of ~9,000** VAT operators migrated — a sectoral MIS
+  (VAT + income tax together); it was generating **>US$1.2m/day** (**May 2026** collections
+  **>US$28m**) as reported 2026-06-03, with **~7,500 of ~9,000** VAT operators migrated — a sectoral MIS
   whose main constraints, as in health, are blackouts and connectivity. See
   [[dpi.govtech]], [[data.statistics]], [[gov.policy]]. Source:
   [[2026-06-03 Malawi reaps digital tax gains]].

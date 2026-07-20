@@ -7,7 +7,7 @@ topics: [gov.standards, tech.industry, dpi.govtech, gov.policy, gov.legislate, i
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-12
-sources: [[2025-12-15 The Path to a Sovereign Tech Stack is Via a Commodified Tech Stack  TechPolicy.Press], [2025-01-01 Eaves commodification], [2025-01-01 dpi_conceptualisation_and_measurement], [2026-01-01 David Eaves Personal Site], [2026-04-03 Digital public infrastructure and the economics of public value what is 'public' about DPI], [2026-07-12 Methodology - DPI Map]]
+sources: [[2025-12-15 The Path to a Sovereign Tech Stack is Via a Commodified Tech Stack  TechPolicy.Press], [2026-06-02 Eaves commodification], [2025-01-01 dpi_conceptualisation_and_measurement], [2026-01-01 David Eaves Personal Site], [2026-04-03 Digital public infrastructure and the economics of public value what is 'public' about DPI], [2026-07-12 Methodology - DPI Map]]
 ---
 
 # David Eaves
@@ -28,7 +28,7 @@ stacks.
 
 - [[2025-12-15 The Path to a Sovereign Tech Stack is Via a Commodified Tech Stack  TechPolicy.Press]]
   — op-ed (Tech Policy Press, 2025-12-15).
-- [[2025-01-01 Eaves commodification]] — **"Parting Clouds: Creating a Competitive Marketplace for
+- [[2026-06-02 Eaves commodification]] — **"Parting Clouds: Creating a Competitive Marketplace for
   Compute"** (CAMP, 2025, with Keldon Bester / [[camp]]): the fuller competition-policy
   report behind the op-ed. Ingested 2026-07-10.
 - [[2025-01-01 dpi_conceptualisation_and_measurement]] — **DPI: a framework for conceptualisation and
@@ -55,7 +55,7 @@ vendor-independent ID) should read their DPI choices.
 ## Sources
 
 - [[2025-12-15 The Path to a Sovereign Tech Stack is Via a Commodified Tech Stack  TechPolicy.Press]]
-- [[2025-01-01 Eaves commodification]]
+- [[2026-06-02 Eaves commodification]]
 - [[2025-01-01 dpi_conceptualisation_and_measurement]]
 - [[2026-01-01 David Eaves Personal Site]]
 - [[2026-04-03 Digital public infrastructure and the economics of public value what is 'public' about DPI]]

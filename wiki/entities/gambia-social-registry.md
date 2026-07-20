@@ -7,7 +7,7 @@ topics: [dpi.registry, include.access, dpi.mis]
 lens: []
 status: active
 last_reviewed: 2026-07-16
-sources: [[2024-04-23 The Gambia Social Registry - A Success Story in Systems Building], [2024-01-01 Social Registries - Global Insights on Coverage and Beyond (World Bank)]]
+sources: [[2024-04-23 The Gambia Social Registry - A Success Story in Systems Building], [2025-07-15 Global Insights on Social Registries - Coverage and Beyond (World Bank)]]
 ---
 
 # Gambia Social Registry (GamSR)
@@ -29,4 +29,4 @@ Bureau of Statistics (GBoS). See [[GMB]].
 ## Sources
 
 - [[2024-04-23 The Gambia Social Registry - A Success Story in Systems Building]]
-- [[2024-01-01 Social Registries - Global Insights on Coverage and Beyond (World Bank)]]
+- [[2025-07-15 Global Insights on Social Registries - Coverage and Beyond (World Bank)]]

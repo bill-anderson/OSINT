@@ -7,7 +7,7 @@ entities: [[david-eaves], [mosip], [nandan-nilekani], [the-govlab], [ucl-iipp], 
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-20
-sources: [[2026-07-10-itu-icpc-advisory-body-cable-resilience-report], [2025-12-15 The Path to a Sovereign Tech Stack is Via a Commodified Tech Stack  TechPolicy.Press], [2026-06-17 They're taking DPI to the world - The Times of India], [2026-06-09 The Triad of Tech Sovereignty and Europe's Package Dependency, Openness, and Agency], [2025-01-01 Eaves commodification], [2025-01-01 dpi_conceptualisation_and_measurement], [2026-07-08 Sierra Leone partners with Bhutan, Sign on digital identity platform], [2026-06-17 Zambia's govt leans towards open-source], [2026-07-03 Study finds governance, not technology, is blocking digital ID interoperability], [2026-06-09 MOSIP accredits Fime for biometric device testing], [2026-06-03 How the EU's Tech Sovereignty Package Finally Puts Open Source to the Test], [2026-05-01 Understanding-MOSIP-Biometric-Update-report], [2026-07-09 Smart Africa and AFNIC Partner to Strengthen Africa's Internet Infrastructure], [2026-01-01 Digital Public Infrastructure in Africa - UNDP], [2026-05-27 Africa's economic future hinges on breaking down silos. This ADLI cohort advances integration], [2026-05-12 Strengthening Fayda Ethiopia's improvement journey through the Digital ID Assessment], [2024-01-16 Digital ID], [2026-04-27 Smart Africa drives cross-border data interoperability through SADX Technical Mission], [2026-05-28 Why decentralized digital identity looks different in every country], [2026-03-30 ECOWAS, World Bank Advance West Africa Digital Identity], [2026-04-12 Icasa moves to mandate national infrastructure database], [2021-09-13 The burden of recording and reporting health data in primary health care facilities in five low- and lower-middle income countries], [2026-04-07 NITDA Assumes Control Of NGEA Infrastructure]]
+sources: [[2026-07-10-itu-icpc-advisory-body-cable-resilience-report], [2025-12-15 The Path to a Sovereign Tech Stack is Via a Commodified Tech Stack  TechPolicy.Press], [2026-06-17 They're taking DPI to the world - The Times of India], [2026-06-09 The Triad of Tech Sovereignty and Europe's Package Dependency, Openness, and Agency], [2026-06-02 Eaves commodification], [2025-01-01 dpi_conceptualisation_and_measurement], [2026-07-08 Sierra Leone partners with Bhutan, Sign on digital identity platform], [2026-06-17 Zambia's govt leans towards open-source], [2026-07-03 Study finds governance, not technology, is blocking digital ID interoperability], [2026-06-09 MOSIP accredits Fime for biometric device testing], [2026-06-03 How the EU's Tech Sovereignty Package Finally Puts Open Source to the Test], [2026-05-01 Understanding-MOSIP-Biometric-Update-report], [2026-07-09 Smart Africa and AFNIC Partner to Strengthen Africa's Internet Infrastructure], [2026-01-01 Digital Public Infrastructure in Africa - UNDP], [2026-05-27 Africa's economic future hinges on breaking down silos. This ADLI cohort advances integration], [2026-05-12 Strengthening Fayda Ethiopia's improvement journey through the Digital ID Assessment], [2024-01-16 Digital ID], [2026-04-27 Smart Africa drives cross-border data interoperability through SADX Technical Mission], [2026-05-28 Why decentralized digital identity looks different in every country], [2026-03-30 ECOWAS, World Bank Advance West Africa Digital Identity], [2026-04-12 Icasa moves to mandate national infrastructure database], [2021-09-13 The burden of recording and reporting health data in primary health care facilities in five low- and lower-middle income countries], [2026-04-07 NITDA Assumes Control Of NGEA Infrastructure]]
 ---
 
 # Standards (`gov.standards`)
@@ -27,7 +27,7 @@ Technical and de facto standards as instruments of policy and sovereignty.
   [[the-govlab]]. Source: [[2026-06-09 The Triad of Tech Sovereignty and Europe's Package Dependency, Openness, and Agency]].
 - **The competition evidence base ("Parting Clouds").** Eaves & Bester ([[camp]]) detail
   why concentration persists and how interoperability + procurement can break it. See
-  [[2025-01-01 Eaves commodification]], [[tech.industry]].
+  [[2026-06-02 Eaves commodification]], [[tech.industry]].
 - **Open standards in a greenfield build (2026-07, Sierra Leone).** The Sierra
   Leone–[[bhutan-ndi]]–[[sign-foundation]] MoU commits to **open-source** technologies and
   **W3C verifiable credentials**, with governance designed so national institutions can
@@ -250,7 +250,7 @@ Technical and de facto standards as instruments of policy and sovereignty.
 - [[2025-12-15 The Path to a Sovereign Tech Stack is Via a Commodified Tech Stack  TechPolicy.Press]]
 - [[2026-06-17 They're taking DPI to the world - The Times of India]]
 - [[2026-06-09 The Triad of Tech Sovereignty and Europe's Package Dependency, Openness, and Agency]]
-- [[2025-01-01 Eaves commodification]]
+- [[2026-06-02 Eaves commodification]]
 - [[2025-01-01 dpi_conceptualisation_and_measurement]]
 - [[2026-07-08 Sierra Leone partners with Bhutan, Sign on digital identity platform]]
 - [[2026-05-27 Africa's economic future hinges on breaking down silos. This ADLI cohort advances integration]]

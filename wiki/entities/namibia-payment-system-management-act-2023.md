@@ -7,7 +7,7 @@ topics: [dpi.pay, gov.legislate]
 lens: []
 status: active
 last_reviewed: 2026-07-16
-sources: [[2023-08-08 Namibia Payment System Management Act 14 of 2023]]
+sources: [[2023-07-28 Namibia Payment System Management Act 14 of 2023]]
 ---
 
 # Namibia Payment System Management Act 14 of 2023

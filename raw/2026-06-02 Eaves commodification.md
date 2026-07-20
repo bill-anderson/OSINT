@@ -4,12 +4,12 @@ title: "Parting Clouds: Creating a Competitive Marketplace for Compute"
 publisher: Canadian Anti-Monopoly Project (CAMP)
 url: https://antimonopoly.ca/parting-clouds-creating-a-competitive-marketplace-for-compute/
 date_source: source
-author: David Eaves, Keldon Bester
-published: 2025
-date_precision: year
+author: Curtis McCord, David Eaves (Canadian Anti-Monopoly Project); Keldon Bester, CAMP
+published: 2026-06-02
+date_precision: day
 accessed: 2026-07-10
 ingested: 2026-07-10
-attachment: 2025-01-01 Eaves commodification.pdf
+attachment: 2026-06-02 Eaves commodification.pdf
 places: [XGL]
 topics: [tech.industry, infra.store, gov.standards, gov.legislate, geopol.usa, gov.policy]
 entities: [[david-eaves], [camp]]
@@ -17,7 +17,7 @@ lens: [sovereignty]
 body_completeness: full
 ---
 
-<!-- SOURCE RECORD for the PDF `2025-01-01 Eaves commodification.pdf` (source of record). CAMP report,
+<!-- SOURCE RECORD for the PDF `2026-06-02 Eaves commodification.pdf` (source of record). CAMP report,
      2025, co-authored with Keldon Bester (CAMP Exec. Director). Admissible primary.
      Canada-focused but generalises → XGL. Resolves the second Eaves item flagged as
      unfiled on [[david-eaves]]. NOT a duplicate of the Tech Policy Press op-ed — a
@@ -26,7 +26,7 @@ body_completeness: full
 # Parting Clouds: Creating a Competitive Marketplace for Compute
 
 **Eaves, D. and Bester, K. (2025).** Published by the Canadian Anti-Monopoly Project
-([[camp]]). Attachment: `2025-01-01 Eaves commodification.pdf`.
+([[camp]]). Attachment: `2026-06-02 Eaves commodification.pdf`.
 
 ## Summary (as captured)
 
@@ -47,3 +47,5 @@ The fuller, evidenced version of the argument in Eaves' Tech Policy Press op-ed
 ([[2025-12-15 The Path to a Sovereign Tech Stack is Via a Commodified Tech Stack  TechPolicy.Press]]):
 sovereignty via commodification/interoperability, not ownership. See [[tech.industry]],
 [[infra.store]], [[gov.legislate]], [[david-eaves]].
+
+NOTE (lint #3, 2026-07-20): published corrected 2025 (year) -> 2026-06-02 (day), and the author line corrected. The CAMP page at the URL on file is dated "June 2, 2026"; David Eaves announced the report as newly published on 2026-06-02. The report PDF (antimonopoly.ca/wp-content/uploads/2026/05/CAMP_Report_Parting_Clouds.pdf) credits Curtis McCord (CAMP policy analyst), David Eaves (UCL IIPP) and Keldon Bester (CAMP Executive Director); Eaves describes it as written with Curtis McCord and Keldon at CAMP. The held author line "David Eaves, Keldon Bester" omitted McCord. CAUTION for the curator: the body prose still reads "Eaves, D. and Bester, K. (2025)" and cites this report as the fuller version of a Tech Policy Press op-ed dated 2025-12-15 - the report is now the LATER of the two, so any wiki page framing it as the antecedent needs re-checking. Body prose left unedited (raw/ capture).

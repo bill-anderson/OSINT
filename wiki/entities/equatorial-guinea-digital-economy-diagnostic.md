@@ -7,7 +7,7 @@ topics: [gov.policy, dpi.id, dpi.pay, infra.connect]
 lens: []
 status: active
 last_reviewed: 2026-07-16
-sources: [[2024-06-25 Equatorial Guinea Digital Economy Country Diagnostic - Bridging the Gaps], [2024-06-25 Equatorial Guinea - New Report Proposes a Way Forward to Develop a Safe and Inclusive Digital Economy], [2024-07-15 World Bank identifies priority actions for DPI in Equatorial Guinea], [2024-06-25 Equatorial Guinea Digital Economy Diagnostic (World Bank full report)]]
+sources: [[2024-06-25 Equatorial Guinea Digital Economy Country Diagnostic - Bridging the Gaps], [2024-06-25 Equatorial Guinea - New Report Proposes a Way Forward to Develop a Safe and Inclusive Digital Economy], [2024-07-15 World Bank identifies priority actions for DPI in Equatorial Guinea], [2024-05-18 Equatorial Guinea Digital Economy Diagnostic (World Bank full report)]]
 ---
 
 # Equatorial Guinea Digital Economy Diagnostic (World Bank)
@@ -25,4 +25,4 @@ The World Bank's **Digital Economy Country Diagnostic** for Equatorial Guinea (W
 - [[2024-06-25 Equatorial Guinea Digital Economy Country Diagnostic - Bridging the Gaps]]
 - [[2024-06-25 Equatorial Guinea - New Report Proposes a Way Forward to Develop a Safe and Inclusive Digital Economy]]
 - [[2024-07-15 World Bank identifies priority actions for DPI in Equatorial Guinea]]
-- [[2024-06-25 Equatorial Guinea Digital Economy Diagnostic (World Bank full report)]]
+- [[2024-05-18 Equatorial Guinea Digital Economy Diagnostic (World Bank full report)]]

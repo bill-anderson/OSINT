@@ -33,7 +33,7 @@ central exchange backbone plus enterprise architecture, led by **[[nitda]]**.
   IDs, merchant payments, data exchange) and finds the open question at subnational level is *which*
   system anchors the DPI **Data Exchange Architecture** — with NIN–revenue-system integration and
   e-Tax automation improving but inconsistent across states. Source:
-  [[2025-07-01 Digital Public Infrastructure (DPI) and Tax Administration in Nigeria The Current State of Play - ICTD]].
+  [[2025-10-10 Digital Public Infrastructure (DPI) and Tax Administration in Nigeria The Current State of Play - ICTD]].
 
 ## DPI governance architecture (2025-2026)
 
@@ -85,7 +85,7 @@ Intersections: [[nigeria--dpi-id]] · [[nigeria--gov-protect]] · Entities: [[ni
 
 - [[2025-08-30 Nigeria to launch NGDX, unified data exchange, by end of 2025 (NITDA)]]
 - [[2025-08-28 Nigeria to launch National Data Exchange (NGDX) platform to boost digital economy]]
-- [[2025-07-01 Digital Public Infrastructure (DPI) and Tax Administration in Nigeria The Current State of Play - ICTD]]
+- [[2025-10-10 Digital Public Infrastructure (DPI) and Tax Administration in Nigeria The Current State of Play - ICTD]]
 - [[2025-10-04 How NIMC is building Nigeria's digital infrastructure]]
 - [[2025-03-07-dpi-framework-unified-services-2027]]
 - [[2025-04-15-nitda-draft-dpi-technical-standards]]

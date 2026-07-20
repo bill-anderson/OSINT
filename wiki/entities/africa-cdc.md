@@ -7,7 +7,7 @@ topics: [dpi.mis, dpi.exchange, data.statistics, gov.protect, geopol.usa]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-11
-sources: [[2026-04-23 Health Data Without Continuity Why Electronic Health Records Still Have Not Scaled Across Africa], [2025-04-03 Now is the time to invest in locally-owned health data systems], [2026-03-19 African Digital Health Data Is a Condition of Global Health Funding], [2026-02-26 Zambia rejects U.S. health aid over mining partnership ties], [2026-03-05 Africa CDC head cites major concerns over data, pathogen sharing in US health deals], [2025-11-21 First look Full Text of America First Global Health Strategy Specimen Sharing Agreement], [2026-01-20 Africa Pushes Back On US Health Deals Over Data, Power], [2026-01-01 America First, Africa Last  Data Extraction from Africa's Bodies and the Erosion of Health Sovereignty], [2026-02-24 Global Health Nigeria and the Pathology of the Hostage State in an Era of Fragmentation]]
+sources: [[2026-04-23 Health Data Without Continuity Why Electronic Health Records Still Have Not Scaled Across Africa], [2025-04-03 Now is the time to invest in locally-owned health data systems], [2026-03-19 African Digital Health Data Is a Condition of Global Health Funding], [2026-02-26 Zambia rejects U.S. health aid over mining partnership ties], [2026-02-27 Africa CDC head cites major concerns over data, pathogen sharing in US health deals], [2025-11-21 First look Full Text of America First Global Health Strategy Specimen Sharing Agreement], [2026-01-20 Africa Pushes Back On US Health Deals Over Data, Power], [2026-01-01 America First, Africa Last  Data Extraction from Africa's Bodies and the Erosion of Health Sovereignty], [2026-02-24 Global Health Nigeria and the Pathology of the Hostage State in an Era of Fragmentation]]
 ---
 
 # Africa CDC (Africa Centres for Disease Control and Prevention)
@@ -53,7 +53,7 @@ key voice on the infrastructure constraints behind African health data.
   and [[ZMB]] had pushed back. He said he had first welcomed the strategy (more direct funding,
   required co-investment) but declined an observer role to respect member-state sovereignty, offering
   Africa CDC support to any country renegotiating. See [[geopol.usa]], [[gov.protect]]. Sources:
-  [[2026-03-05 Africa CDC head cites major concerns over data, pathogen sharing in US health deals]],
+  [[2026-02-27 Africa CDC head cites major concerns over data, pathogen sharing in US health deals]],
   [[2026-01-20 Africa Pushes Back On US Health Deals Over Data, Power]].
 - **Aggregated-sovereignty role (2026-02).** Analysts position Africa CDC — with the **African
   Pooled Procurement Mechanism** operationalised at the **39th AU Assembly (Feb 2026)** and the
@@ -68,7 +68,7 @@ key voice on the infrastructure constraints behind African health data.
 - [[2025-04-03 Now is the time to invest in locally-owned health data systems]]
 - [[2026-03-19 African Digital Health Data Is a Condition of Global Health Funding]]
 - [[2026-02-26 Zambia rejects U.S. health aid over mining partnership ties]]
-- [[2026-03-05 Africa CDC head cites major concerns over data, pathogen sharing in US health deals]]
+- [[2026-02-27 Africa CDC head cites major concerns over data, pathogen sharing in US health deals]]
 - [[2025-11-21 First look Full Text of America First Global Health Strategy Specimen Sharing Agreement]]
 - [[2026-01-20 Africa Pushes Back On US Health Deals Over Data, Power]]
 - [[2026-01-01 America First, Africa Last  Data Extraction from Africa's Bodies and the Erosion of Health Sovereignty]]

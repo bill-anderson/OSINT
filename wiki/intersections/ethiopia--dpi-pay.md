@@ -8,7 +8,7 @@ topics: [dpi.pay, dpi.exchange, include.access]
 entities: [[safaricom], [ethswitch], [ethio-telecom], [telebirr], [safaricom-ethiopia], [digital-ethiopia-2030]]
 lens: []
 status: active
-last_reviewed: 2026-07-13
+last_reviewed: 2026-07-20
 sources: [[2026-03-30 M-PESA Ethiopia surges 258% as EthSwitch fuels growth], [2026-02-02 Safaricom Ethiopia Surpasses 12 Million Users as M-PESA Adoption Grows], [2026-01-30 Inside Ethio Telecom's bold TechCo transformation], [2026-01-27 Digital Ethiopia 2030 Charting a Sovereign Path to Prosperity]]
 ---
 
@@ -24,7 +24,7 @@ interoperability, rather than licensing, into the growth lever.
   active users jumped **+258.5% YoY to 5.2m** (quarter to Dec 2025) after the **Oct 2025
   [[ethswitch]] integration** linked it to 30+ banks/wallets with real-time transfers and EthQR
   merchant payments (50,000+ merchants); transaction value +192%, Safaricom Ethiopia service
-  revenue +54.2% to $75m. Interoperability, not a licence, is the growth lever, replicating the
+  revenue +54.2% to **KSh9.68bn** for the quarter (≈US$75m at the source's own undated conversion). Interoperability, not a licence, is the growth lever, replicating the
   Kenyan model. See [[dpi.exchange]]. Source:
   [[2026-03-30 M-PESA Ethiopia surges 258% as EthSwitch fuels growth]].
 - **Ethiopia — Telebirr and M-PESA at national scale (2026-01/02).** Two engines anchor

@@ -8,7 +8,7 @@ topics: [infra.connect, include.access, include.divides, data.satellite, geopol.
 entities: [[cst-sao-tome], [starlink]]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-19
+last_reviewed: 2026-07-20
 sources: [[2025-01-25-cst-35-anos-expansao-rede-conectividade-escolas], [2025-02-24-starlink-pretende-investir-stp-eua], [2025-12-11-starlink-begins-service-stp], [2026-03-27-cst-inaugura-antena-agua-ize]]
 ---
 
@@ -44,7 +44,8 @@ inter-island gap the World Bank project is closing (see [[sao-tome--dpi-id]], [[
 - `sovereignty`: connectivity for a two-island micro-state is inherently partner-dependent, and the
   Starlink episode is a neat vignette of a **US pivot** — withdrawing legacy public broadcasting (VOA)
   while ushering in a private US satellite operator. It widens access (and is the enabler behind off-grid
-  ID emission, [[sao-tome--dpi-id]]) but at premium prices (~$80/mo in a $2,700-GDP/capita economy) that
+  ID emission, [[sao-tome--dpi-id]]) but at premium prices (Residential **STN 1,700/mo**, ≈US$79.5 at
+  the Dec-2025 launch price, in an economy with GDP/capita ~$2,700 (World Bank, cited 2026-07)) that
   keep it a complement to CST, not a substitute.
 
 ## Links

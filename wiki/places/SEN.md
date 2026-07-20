@@ -267,9 +267,11 @@ last_reviewed: 2026-07-20
   [[2025-09-19-techafricanews-interoperability-update]].
 - **2025-02-24** — **New Deal Technologique founding launch.** President Faye launched the strategy
   (Horizon 2034, "Senegal 2050"), centred on a **unique biometric digital ID** generating functional
-  identities, a single citizen portal, and integrated services; ~$1.7bn budget. See
-  [[new-deal-technologique]], [[dpi.id]]. Source:
-  [[2025-02-27 Senegal unveils New Deal Technologique digital transformation strategy]].
+  identities, a single citizen portal, and integrated services; budget **FCFA 1,105bn**
+  (~US$1.7bn at the wiki's own undated conversion), across 12 priority programmes. See
+  [[new-deal-technologique]], [[dpi.id]]. Sources:
+  [[2025-02-27 Senegal unveils New Deal Technologique digital transformation strategy]],
+  [[2025-02-24-new-deal-1105-billion-investment]].
 - **2025-02-18** — **ECOWAS biometric ID becomes sole voter-registration proof.** A registration exercise
   (from 1 Feb 2025) targeted **~3m ECOWAS-biometric-ID holders** off the electoral roll; the ECOWAS CNI
   (produced by **[[iris-corporation]]**) replaced birth-certificate extracts. See [[senegal--dpi-id]],

@@ -7,7 +7,7 @@ topics: [dpi.id, dpi.registry, gov.standards, include.access]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-17
-sources: [[2023-12-21 ISR - WURI Phase 2 Seq 7 (P169594)], [2024-03-06 1 step forward, 3 steps back for West Africa's regional digital ID projects], [2025-11-19 Togo Advances Digital ID Program With New Enrollment Phase in Maritime Region], [2025-10-30 Senegal Benchmarks Togo's e-ID System for Digital Transformation], [2025-11-03 Senegal taps inspiration from Togo's digital ID experience]]
+sources: [[2023-12-21 ISR - WURI Phase 2 Seq 06 (P169594)], [2024-03-06 1 step forward, 3 steps back for West Africa's regional digital ID projects], [2025-11-19 Togo Advances Digital ID Program With New Enrollment Phase in Maritime Region], [2025-10-30 Senegal Benchmarks Togo's e-ID System for Digital Transformation], [2025-11-03 Senegal taps inspiration from Togo's digital ID experience]]
 ---
 
 # ANID (Agence Nationale d'Identification, Togo)
@@ -59,7 +59,7 @@ follows the Togo First account of 2025-11-19.
   2019)**, **cybersecurity/cybercrime amendments (June 2022)** creating **ANCy**, the
   creation of the **[[ipdcp-togo]]** data protection authority, and a **February 2022**
   decree establishing project governance bodies. See [[gov.legislate]]. Source:
-  [[2023-12-21 ISR - WURI Phase 2 Seq 7 (P169594)]].
+  [[2023-12-21 ISR - WURI Phase 2 Seq 06 (P169594)]].
 - **Test registration (March 2024) — historical baseline.** ANID and [[inseed-togo]] were
   reported managing WURI test registrations of the biometric digital ID, planned **5–15
   March 2024** after sites and supervisors were selected; ANID had originally planned the
@@ -74,7 +74,7 @@ Transformation; Yasmine Mama (ANID Datacenter Network Specialist).
 
 ## Sources
 
-- [[2023-12-21 ISR - WURI Phase 2 Seq 7 (P169594)]]
+- [[2023-12-21 ISR - WURI Phase 2 Seq 06 (P169594)]]
 - [[2024-03-06 1 step forward, 3 steps back for West Africa's regional digital ID projects]]
 - [[2025-11-19 Togo Advances Digital ID Program With New Enrollment Phase in Maritime Region]]
 - [[2025-10-30 Senegal Benchmarks Togo's e-ID System for Digital Transformation]]

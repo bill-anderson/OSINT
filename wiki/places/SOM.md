@@ -12,7 +12,7 @@ last_reviewed: 2026-07-20
 # Somalia (SOM)
 
 Somalia runs one of Africa's most sophisticated **private-sector-led** digital
-economies — mobile money worth ~**$8bn / 36% of GDP** built by telecom operators in
+economies — mobile money worth ~**$8bn / 36% of GDP (2026-01)** built by telecom operators in
 the vacuum left by the 1991 collapse of central banking. The Federal Government is
 now attempting its first serious **formalisation**: a data-protection regulatory
 framework, a national DPI summit, and central-bank payment interoperability
@@ -178,8 +178,8 @@ market's velocity.
 
 ## Active topics
 
-- [[dpi.pay]] · [[finance.new]] — private telecom mobile money (~$8bn, 36% of GDP;
-  ~$2bn diaspora remittances); CBS's **SIPS** + **SOMQR** interoperability (early
+- [[dpi.pay]] · [[finance.new]] — private telecom mobile money (~$8bn, 36% of GDP, 2026-01;
+  ~$2bn/yr diaspora remittances, 2026-01); CBS's **SIPS** + **SOMQR** interoperability (early
   2025) as the first state assertion over the payments landscape. Full case: [[somalia--dpi-pay]].
 - [[dpi.id]] · [[dpi.registry]] — **[[nira-somalia]]**'s foundational **[[snid]]** (11-digit
   NIN, biometric, since Sept 2023; NADRA-built); mass registration toward **15m by 2029**,
@@ -189,7 +189,7 @@ market's velocity.
   (2023) + **[[somalia-data-protection-authority]]** (2024); Public Data Protection Law
   framework (Feb 2026); **[[somalia-cybersecurity-law]]** (Jan 2026, SOM-CIRT). Full case:
   [[somalia--gov-protect]].
-- [[dpi.pay]] · [[finance.new]] — private telecom mobile money (~$8bn, 36% of GDP);
+- [[dpi.pay]] · [[finance.new]] — private telecom mobile money (~$8bn, 36% of GDP, 2026-01);
   **[[somalia-instant-payment-system]]** (SIPS) on BPC SmartVista + SOMQR. Full case:
   [[somalia--dpi-pay]].
 - [[gov.policy]] · [[dpi.govtech]] — **[[somalia-digital-transformation-strategy]]** 2025-2030

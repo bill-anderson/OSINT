@@ -36,7 +36,9 @@ Interoperable digital payments and financial inclusion.
   ~$3.7m) in H1'25 per CBN's Financial Stability Report — a real but **narrow-scope** metric, not
   Nigeria's total throughput and **not a counter-signal** to the rail's scaling (REV-002 resolved
   2026-07-16). Paper **cheques still
-  move ~$17bn/yr in Kenya** even as Burkina Faso, Zambia, Seychelles and Ghana phase them out.
+  move at scale in Kenya** — **KSh 2.215tn (≈US$17bn) over the 11 months to Nov 2025**, averaging
+  **KSh 201.44bn (≈US$1.57bn)/month** — even as Burkina Faso, Zambia, Seychelles and Ghana phase
+  them out.
   See [[gov.regional]], [[XCA]], [[NGA]], [[KEN]]. Sources:
   [[2026-07-11 BEAC joins PAPSS and accelerates cross-border payments integration in Central Africa]],
   [[2026-02-02 How Strategic  Shift of NIBSS Is  Rewiring Nigeria's Payments System]],

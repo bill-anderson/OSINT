@@ -7,7 +7,7 @@ topics: [dpi.id, dpi.registry]
 lens: []
 status: active
 last_reviewed: 2026-07-16
-sources: [[2025-04-02 Lesotho launches Digital Birth Registration under Ntlafatsa Bana programme], [2024-01-01 Lesotho National Identification System (World Bank GovTech Case Study)], [2021-10-31 Digital Identity in Lesotho (Research ICT Africa)], [2024-01-01 Toward More People-Centered Service Delivery - National ID System in Lesotho (World Bank)]]
+sources: [[2025-04-02 Lesotho launches Digital Birth Registration under Ntlafatsa Bana programme], [2022-06-30 Lesotho National Identification System (World Bank GovTech Case Study)], [2021-10-31 Digital Identity in Lesotho (Research ICT Africa)], [2022-05-26 Toward More People-Centered Service Delivery - National ID System in Lesotho (World Bank)]]
 ---
 
 # Lesotho National Identity and Civil Registry (NICR)
@@ -35,13 +35,13 @@ country's DPI build-out (X-Road interoperability, a **[[mosip]]**-based biometri
   as "the foundation of everything," with pilots underway with India. See [[india-stack]].
 - **Reference base.** The WB GovTech case study, a WB people-centred-service-delivery note, and a Research
   ICT Africa digital-identity study document the NIS's design and gaps. Sources:
-  [[2024-01-01 Lesotho National Identification System (World Bank GovTech Case Study)]],
-  [[2024-01-01 Toward More People-Centered Service Delivery - National ID System in Lesotho (World Bank)]],
+  [[2022-06-30 Lesotho National Identification System (World Bank GovTech Case Study)]],
+  [[2022-05-26 Toward More People-Centered Service Delivery - National ID System in Lesotho (World Bank)]],
   [[2021-10-31 Digital Identity in Lesotho (Research ICT Africa)]].
 
 ## Sources
 
 - [[2025-04-02 Lesotho launches Digital Birth Registration under Ntlafatsa Bana programme]]
-- [[2024-01-01 Lesotho National Identification System (World Bank GovTech Case Study)]]
+- [[2022-06-30 Lesotho National Identification System (World Bank GovTech Case Study)]]
 - [[2021-10-31 Digital Identity in Lesotho (Research ICT Africa)]]
-- [[2024-01-01 Toward More People-Centered Service Delivery - National ID System in Lesotho (World Bank)]]
+- [[2022-05-26 Toward More People-Centered Service Delivery - National ID System in Lesotho (World Bank)]]

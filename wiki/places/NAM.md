@@ -6,7 +6,7 @@ parent: XSA
 place_kind: country
 topics: [geopol.china, tech.ai, infra.store, finance.new, capacity.training, dpi.govtech, include.divides, infra.connect, infra.capacity, gov.regional, gov.policy, gov.legislate, gov.protect, digital.rural, data.satellite, tech.industry, include.access, dpi.id, dpi.registry, dpi.pay, dpi.exchange, dpi.mis, gov.standards, data.statistics]
 status: active
-last_reviewed: 2026-07-19
+last_reviewed: 2026-07-20
 ---
 
 # Namibia (NAM)
@@ -141,7 +141,7 @@ last_reviewed: 2026-07-19
   **[[ministry-home-affairs-namibia|Ministry of Home Affairs]]**. On this base the ministry is rolling out a
   **[[namibia-digital-id|national e-ID]]** — a smart contactless-chip card — by **September 2026** (slipped from July; see **[[namibia--dpi-id]]**) to curb fraud and
   duplicate records, backed by **[[undp]]** ("Namibia's Digital Identity Journey," linking the **NamX** data
-  exchange and **Nampay**) and a stepped-up civil-registration drive (~**US$9m** budget). Digital-rights
+  exchange and **Nampay**) and a stepped-up civil-registration drive (**N$70m** allocated, ≈US$4.7m at the source's own undated conversion, 2025-04 — within a **N$7.4bn** MHAISS budget; the wiki previously carried an unsourced ~US$9m, corrected 2026-07-20). Digital-rights
   analysts (APC) warned that **biometric collection is running ahead of a weak data-protection regime**.
   Sources: [[2024-12-30 Civil Registration and Identification Act, 2024]],
   [[2025-06-09 Home affairs to introduce electronic IDs to curb identity fraud]],

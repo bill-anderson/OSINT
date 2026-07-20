@@ -8,13 +8,14 @@ topics: [dpi.pay, finance.new, include.access, tech.innovate]
 entities: [[central-bank-sao-tome]]
 lens: []
 status: active
-last_reviewed: 2026-07-19
+last_reviewed: 2026-07-20
 sources: [[2025-06-03-bcstp-lanca-sandbox-fintechs-inclusao-financeira], [2026-07-09-fintech-times-stp-fintech-analysis]]
 ---
 
 # São Tomé and Príncipe × Digital Payments & Fintech
 
-For a **~230k-person, ~$2,700-GDP/capita** island economy, fintech is "less about the next unicorn than
+For a **~230k-person** island economy with **GDP/capita ~$2,700 (World Bank, cited 2026-07)**, fintech
+is "less about the next unicorn than
 about practical solutions" — the **[[central-bank-sao-tome|BCSTP]]** is modernising payments and
 incubating fintechs to cut cash use and complement thin physical banking.
 

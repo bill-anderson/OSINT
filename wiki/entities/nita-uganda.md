@@ -7,7 +7,7 @@ places: [UGA]
 topics: [dpi.exchange, dpi.govtech, gov.standards, gov.policy, digital.localgov]
 status: active
 last_reviewed: 2026-07-20
-sources: [[2024-06-28 Integrated National Data Exchange Systems - Uganda Case Study], [2026-02-18-ega-uganda-launches-renewal-gea-egif], [2026-05-27-ega-uganda-renewed-digital-government-frameworks], [2026-07-17 A Collaborative Approach to Digital Identity and Digital Transformation (NIRA and NITA-U)], [2021-05-06 Uganda e-Government Interoperability Framework (e-GIF)], [2022-02-26 Uganda Digital Government Strategy v1.1]]
+sources: [[2024-06-28 Integrated National Data Exchange Systems - Uganda Case Study], [2026-02-18-ega-uganda-launches-renewal-gea-egif], [2026-05-27-ega-uganda-renewed-digital-government-frameworks], [2024-05-21 A Collaborative Approach to Digital Identity and Digital Transformation (NIRA and NITA-U)], [2021-05-06 Uganda e-Government Interoperability Framework (e-GIF)], [2022-02-26 Uganda Digital Government Strategy v1.1]]
 ---
 
 # National Information Technology Authority — Uganda (NITA-U)
@@ -53,7 +53,7 @@ Architecture (GEA) and the [[uganda-e-gif]] interoperability framework.
   Cabinet Technical Sub-Committee Working Group headed by the Ministry of ICT, with the
   **NITA-U Executive Director sitting on the NIRA Board**. *Undated — do not treat these
   figures as current-dated.* Source:
-  [[2026-07-17 A Collaborative Approach to Digital Identity and Digital Transformation (NIRA and NITA-U)]].
+  [[2024-05-21 A Collaborative Approach to Digital Identity and Digital Transformation (NIRA and NITA-U)]].
 - **Instrument custodian.** NITA-U (with MoICT&NG) issued the **[[uganda-e-gif]]**
   (**6 May 2021**) and the **[[uganda-digital-government-strategy]] v1.1**
   (**26 February 2022**), the latter a formal addendum to the GEA/e-GIF engagement.

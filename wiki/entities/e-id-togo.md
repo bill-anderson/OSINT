@@ -7,7 +7,7 @@ topics: [dpi.id, dpi.registry, include.access, include.divides, gov.legislate, f
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-17
-sources: [[2023-12-21 ISR - WURI Phase 2 Seq 7 (P169594)], [2025-11-19 Togo Advances Digital ID Program With New Enrollment Phase in Maritime Region], [2025-10-30 Senegal Benchmarks Togo's e-ID System for Digital Transformation], [2025-11-03 Senegal taps inspiration from Togo's digital ID experience], [2026-05-28 Why decentralized digital identity looks different in every country], [2024-03-06 1 step forward, 3 steps back for West Africa's regional digital ID projects]]
+sources: [[2023-12-21 ISR - WURI Phase 2 Seq 06 (P169594)], [2025-11-19 Togo Advances Digital ID Program With New Enrollment Phase in Maritime Region], [2025-10-30 Senegal Benchmarks Togo's e-ID System for Digital Transformation], [2025-11-03 Senegal taps inspiration from Togo's digital ID experience], [2026-05-28 Why decentralized digital identity looks different in every country], [2024-03-06 1 step forward, 3 steps back for West Africa's regional digital ID projects]]
 ---
 
 # e-ID Togo
@@ -44,7 +44,7 @@ See [[gov.legislate]], [[gov.protect]].
   can be registered using a parent's NIU. Sources:
   [[2026-05-28 Why decentralized digital identity looks different in every country]],
   [[2025-11-19 Togo Advances Digital ID Program With New Enrollment Phase in Maritime Region]],
-  [[2023-12-21 ISR - WURI Phase 2 Seq 7 (P169594)]].
+  [[2023-12-21 ISR - WURI Phase 2 Seq 06 (P169594)]].
 - **The enrolment-count gap.** The programme's stated goal was **8 million individuals
   registered by June 2024** (as of the December-2023 ISR). **No 2025 source held here
   reports a cumulative enrolment count** — the November-2025 rollout report gives phases but
@@ -75,7 +75,7 @@ campaign.
 
 ## Sources
 
-- [[2023-12-21 ISR - WURI Phase 2 Seq 7 (P169594)]]
+- [[2023-12-21 ISR - WURI Phase 2 Seq 06 (P169594)]]
 - [[2025-11-19 Togo Advances Digital ID Program With New Enrollment Phase in Maritime Region]]
 - [[2025-10-30 Senegal Benchmarks Togo's e-ID System for Digital Transformation]]
 - [[2025-11-03 Senegal taps inspiration from Togo's digital ID experience]]

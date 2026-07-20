@@ -4,7 +4,7 @@ title: "Equatorial Guinea Digital Economy Diagnostic (World Bank — full report
 url: https://documents.worldbank.org/curated/en/099051724134540301
 publisher: World Bank
 author: World Bank (Camila Mejia Giraldo et al.)
-published: 2024-06-25
+published: 2024-05-18
 date_precision: day
 date_source: source
 ingested: 2026-07-16
@@ -13,11 +13,13 @@ topics: [gov.policy, dpi.id, dpi.pay, infra.connect, dpi.govtech, capacity.train
 entities: [[equatorial-guinea-digital-economy-diagnostic], [world-bank], [adige]]
 lens: []
 body_completeness: full
-artefact: "2024-06-25 P1793391 Equatorial Guinea Digital Economy Diagnostic.pdf"
+artefact: "2024-05-18 P1793391 Equatorial Guinea Digital Economy Diagnostic.pdf"
 ---
 
 # Equatorial Guinea Digital Economy Diagnostic (World Bank, full report)
 
 The full World Bank **Digital Economy Diagnostic** for Equatorial Guinea (cite: World Bank 2023; published/released June 2024) — the primary reference behind the [[equatorial-guinea-digital-economy-diagnostic]] instrument synthesis and the two June-2024 press/summary clips. Assesses the five **DE4A** pillars (digital infrastructure, digital public platforms, digital financial services, digital businesses, digital skills), with per-pillar current-state findings and recommendations, against the backdrop of the National Development Plan 2035 and the Digital Agenda for Equatorial Guinea ([[adige]]).
 
-**Primary document (PDF):** `2024-06-25 P1793391 Equatorial Guinea Digital Economy Diagnostic.pdf` — held in `raw/` alongside this companion page. Dated synthesis lives on the instrument entity. See [[GNQ]], [[world-bank]].
+**Primary document (PDF):** `2024-05-18 P1793391 Equatorial Guinea Digital Economy Diagnostic.pdf` — held in `raw/` alongside this companion page. Dated synthesis lives on the instrument entity. See [[GNQ]], [[world-bank]].
+
+NOTE (lint #3, 2026-07-20): published corrected 2024-06-25 -> 2024-05-18. World Bank WDS record for guid 099051724134540301 (the URL on file): "Digital Economy Diagnostic - Equatorial Guinea", report 190405, docdt 2024-05-18. The former 2024-06-25 was the date of the World Bank publication announcement / eTrade for all press release, not the document. The two press clips held in raw/ (the eTrade press release and the worldbank.org publication landing page, both genuinely dated 25 June 2024) and the Biometric Update piece of 15 July 2024 are correctly dated at their own publication dates and were NOT changed.

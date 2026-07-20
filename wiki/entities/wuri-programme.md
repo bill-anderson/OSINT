@@ -7,7 +7,7 @@ topics: [dpi.id, gov.regional, dpi.exchange, gov.standards, include.access, dpi.
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-19
-sources: [[2025-02-21-bioenable-mosip-national-digital-id-pilot-biometricupdate], [2025-05-01-wuri-niger-birth-certificate-pilot-filingue-biometricupdate], [2026-03-30 ECOWAS, World Bank Advance West Africa Digital Identity], [2024-06-27 WURI digital ID project improving access to public services in Benin], [2025-11-01 Identification System in Benin Increasing Access to Services], [2024-10-28 Benin receives 2,050 biometric terminals from World Bank to boost civil registration], [2026-02-02 Benin reports 75% of identification services accessed through digital platforms], [2025-06-18 Benin envisages mobile wallet launch in inclusive national digital ID push], [2025-05-02 WURI Implementation Status Report - Cote d'Ivoire and Guinea (P161329 Seq 11)], [2025-08-11 Stakeholders validate strategy on digital ID interoperability in West Africa (WURI)], [2023-06-01 WURI Program - Unique Identifiers to Enable Access to Human Development Services (World Bank)], [2023-12-21 ISR - WURI Phase 2 Seq 7 (P169594)], [2024-03-06 1 step forward, 3 steps back for West Africa's regional digital ID projects], [2025-11-19 Togo Advances Digital ID Program With New Enrollment Phase in Maritime Region]]
+sources: [[2025-02-21-bioenable-mosip-national-digital-id-pilot-biometricupdate], [2025-05-01-wuri-niger-birth-certificate-pilot-filingue-biometricupdate], [2026-03-30 ECOWAS, World Bank Advance West Africa Digital Identity], [2024-06-27 WURI digital ID project improving access to public services in Benin], [2025-11-01 Identification System in Benin Increasing Access to Services], [2024-10-28 Benin receives 2,050 biometric terminals from World Bank to boost civil registration], [2026-02-02 Benin reports 75% of identification services accessed through digital platforms], [2025-06-18 Benin envisages mobile wallet launch in inclusive national digital ID push], [2025-05-02 WURI Implementation Status Report - Cote d'Ivoire and Guinea (P161329 Seq 11)], [2025-08-11 Stakeholders validate strategy on digital ID interoperability in West Africa (WURI)], [2023-06-01 WURI Program - Unique Identifiers to Enable Access to Human Development Services (World Bank)], [2023-12-21 ISR - WURI Phase 2 Seq 06 (P169594)], [2024-03-06 1 step forward, 3 steps back for West Africa's regional digital ID projects], [2025-11-19 Togo Advances Digital ID Program With New Enrollment Phase in Maritime Region]]
 ---
 
 # WURI (West Africa Unique Identification for Regional Integration and Inclusion)
@@ -32,7 +32,7 @@ architecture as a **Multiphase Programmatic Approach (MPA)**:
   [[TGO]] Togo. **Approved 28 April 2020; effective 15 September 2020; closing 30 July
   2026.**
 
-Source: [[2023-12-21 ISR - WURI Phase 2 Seq 7 (P169594)]].
+Source: [[2023-12-21 ISR - WURI Phase 2 Seq 06 (P169594)]].
 
 **A financing discrepancy that probably reconciles arithmetically.** Biometric Update, citing
 Togo First (**2024-03-06**), reports **$72 million for Togo out of a total of $395 million for
@@ -47,7 +47,7 @@ stay recorded, dated and attributed. Note also that Togo's **$72m** here is the
 operation of December 2024 ([[togo-digital-acceleration-financing]]) — the two must never be
 summed. See [[finance.new]]. Sources:
 [[2024-03-06 1 step forward, 3 steps back for West Africa's regional digital ID projects]],
-[[2023-12-21 ISR - WURI Phase 2 Seq 7 (P169594)]].
+[[2023-12-21 ISR - WURI Phase 2 Seq 06 (P169594)]].
 
 ## Activity in this wiki
 
@@ -77,7 +77,7 @@ summed. See [[finance.new]]. Sources:
   million individuals by June 2024**, with a proof of concept in four regions **Oct–Nov 2023**.
   Enrolment reached the **Maritime region Zone 1** from **22 November 2025**. See
   [[dpi.id]], [[gov.legislate]]. Sources:
-  [[2023-12-21 ISR - WURI Phase 2 Seq 7 (P169594)]],
+  [[2023-12-21 ISR - WURI Phase 2 Seq 06 (P169594)]],
   [[2025-11-19 Togo Advances Digital ID Program With New Enrollment Phase in Maritime Region]].
 - **2nd Supervisory Committee (reported 2026-03-30).** The committee met **virtually**,
   chaired by **Silété Devo**, DG of Togo's National Agency for the Identification of
@@ -149,6 +149,6 @@ summed. See [[finance.new]]. Sources:
 - [[2025-05-02 WURI Implementation Status Report - Cote d'Ivoire and Guinea (P161329 Seq 11)]]
 - [[2025-08-11 Stakeholders validate strategy on digital ID interoperability in West Africa (WURI)]]
 - [[2023-06-01 WURI Program - Unique Identifiers to Enable Access to Human Development Services (World Bank)]]
-- [[2023-12-21 ISR - WURI Phase 2 Seq 7 (P169594)]]
+- [[2023-12-21 ISR - WURI Phase 2 Seq 06 (P169594)]]
 - [[2024-03-06 1 step forward, 3 steps back for West Africa's regional digital ID projects]]
 - [[2025-11-19 Togo Advances Digital ID Program With New Enrollment Phase in Maritime Region]]

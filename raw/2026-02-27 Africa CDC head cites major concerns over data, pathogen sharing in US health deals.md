@@ -6,7 +6,7 @@ url: https://www.channelafrica.co.za/channelafrica/news/africa-cdc-head-cites-ma
 date_precision: day
 date_source: source
 author: Reuters
-published: 2026-03-05
+published: 2026-02-27
 accessed: 2026-07-11
 ingested: 2026-07-11
 places: [ZWE, ZMB, XSS]
@@ -41,3 +41,5 @@ However, he said the agency had been supporting countries where requested, and w
 “I said to all of my countries, you have full support from Africa CDC. Even if you want to re-negotiate if you want Africa CDC to be there, we’ll be there,” he said.
 
 –Reuters–
+
+NOTE (lint #3, 2026-07-20): published corrected 2026-03-05 -> 2026-02-27. The Channel Africa page at the URL on file carries "Date Posted: February 27, 2026" (5:02 am). The underlying Reuters report is of 2026-02-26; the article quotes Kaseya speaking "on Thursday", i.e. 26 February 2026. published is the Channel Africa publication date, per the source stored.

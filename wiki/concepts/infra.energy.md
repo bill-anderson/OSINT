@@ -6,7 +6,7 @@ places: [AGO, XAF, CAF, ZAF, NGA, KEN, ETH, MAR, SOM, SDN, CIV, RWA]
 entities: [[cassava-technologies], [gocab], [yango], [spiro], [ampersand], [moove], [kasi-cloud], [nsia], [ncc], [microsoft-sa-2026-expansion], [microsoft], [equinix], [equinix-sa-438m-expansion], [mtn-group], [africa-data-centres], [liquid-c2], [gsma], [gsma-mobile-net-zero-2026]]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-18
+last_reviewed: 2026-07-20
 sources: [[2026-07-17-gsma-mobile-net-zero-renewable-energy], [2026-06-23 Africa's Data Centre Boom Where The New Facilities Are Being Built], [2026-06-04 Equinix faces challenge to Cape Town data centres over environmental concerns], [2026-02-25 South Africa puts data centres on par with energy, ports in big policy shift], [2026-07-09 Microsoft and G42 data center in Kenya stalled due to lack of power capacity], [2026-05-21 Africa Data Center Investment 2026 The $4.5B Race and the Power Problem], [2026-02-26 Lagos Is Getting a $250 Million Hyperscale Data Center. Here's Why Nigeria Still Can't Power the Cloud], [2026-05-22 Why global hyperscalers are avoiding Nigeria despite Africa's biggest market], [2026-04-17 Microsoft picks South Africa for $329 million expansion in cloud infrastructure and AI training], [2026-04-15 Microsoft secures land for future South Africa data centre growth], [2026-04-14 Africa's data centres rethink power as grids falter], [2026-03-28 MTN makes big bet on AI data centres in South Africa], [2026-04-01 US data centre firm Equinix is investing $438 million in South Africa], [2026-04-01 US tech giant from Silicon Valley buys R890 million worth of land in South Africa], [2026-02-10 AI in Africa Barriers, opportunities and policy], [2026-07-01 Strategy Ahead of Infrastructure, Part I Inside the CBN's June 2026 Payments Circular], [2026-06-01 Africa's Place in the AI Sovereignty Debate], [2026-07-18-gocab-yango-abidjan-evs]]
 ---
 
@@ -28,11 +28,14 @@ variable that turns colocation economics from marginal to unviable.
   **120 MW solar PV plant** in South Africa's Free State (Nov 2024) to power its data
   centres "in direct response to ongoing grid instability." Renewable PPAs are now
   "standard features of new builds." Source: [[2026-06-23 Africa's Data Centre Boom Where The New Facilities Are Being Built]].
-- **Diesel penalty.** In **Nigeria**, the cost of building/operating diesel backup
-  inflates build cost to **~$15m/MW** versus a continental average near **$10m/MW**.
-- **Site selection follows power.** Ghana's Accra draws interest partly on **high solar
+- **Diesel penalty (2026-06).** In **Nigeria**, the cost of building/operating diesel backup
+  inflates build cost to **~US$15m/MW** against a continental average near **US$10m/MW**
+  (both as reported 2026-06-23). Source:
+  [[2026-06-23 Africa's Data Centre Boom Where The New Facilities Are Being Built]].
+- **Site selection follows power (2026-06).** Ghana's Accra draws interest partly on **high solar
   irradiation**; power redundancy is a named factor everywhere. Grid deficits persist
-  for the surrounding communities even where facilities self-provision.
+  for the surrounding communities even where facilities self-provision. Source:
+  [[2026-06-23 Africa's Data Centre Boom Where The New Facilities Are Being Built]].
 - **The DC power penalty, quantified (2026, [[NGA]] Nigeria).** Nigeria's national grid has
   never carried **>6 GW** for **230m** people — against **48 GW for 63m** in [[ZAF]] South
   Africa — and runs at **~41% availability**, so diesel is the *primary* supply, not backup.

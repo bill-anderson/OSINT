@@ -7,7 +7,7 @@ topics: [tech.industry, gov.legislate, infra.store]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-10
-sources: [[2025-01-01 Eaves commodification]]
+sources: [[2026-06-02 Eaves commodification]]
 ---
 
 # Canadian Anti-Monopoly Project (CAMP)
@@ -26,4 +26,4 @@ Competition-policy organisation (Executive Director **Keldon Bester**); publishe
 
 ## Sources
 
-- [[2025-01-01 Eaves commodification]]
+- [[2026-06-02 Eaves commodification]]

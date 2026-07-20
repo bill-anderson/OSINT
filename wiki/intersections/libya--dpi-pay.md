@@ -9,7 +9,7 @@ entities: [[central-bank-of-libya], [jumhouria-bank]]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-18
-sources: [[2026-01-20-cbl-epayment-2025-up-186pc-389bn-libyaherald], [2026-02-21-cbl-epayment-2025-stats-313bn-alwasat], [2026-03-03-cbl-record-epayment-qr-launch-alwasat], [2026-03-06-cbl-mandates-epayments-state-revenue-fx-cut-libyaherald], [2026-03-11-cbl-allows-foreigners-ewallets-circular-alwasat], [2026-05-27-cbl-epayment-system-crash-2m-pos-libyaherald], [2026-06-16-cbl-epaix-softpos-visa-alwasat], [2026-06-17-cbl-epaix-2026-softpos-visa-standin-libyaherald], [2026-01-15-jumhuria-first-petrol-station-epayment-libyaherald], [2026-05-01-finnovate-libyan-banks-digital-expansion-alwasat]]
+sources: [[2026-01-20-cbl-epayment-2025-up-186pc-389bn-libyaherald], [2026-02-21-cbl-epayment-2025-stats-313bn-alwasat], [2026-03-03-cbl-record-epayment-qr-launch-alwasat], [2026-03-06-cbl-mandates-epayments-state-revenue-fx-cut-libyaherald], [2026-03-11-cbl-allows-foreigners-ewallets-circular-alwasat], [2026-05-27-cbl-epayment-system-crash-2m-pos-libyaherald], [2026-06-16-cbl-epaix-softpos-visa-alwasat], [2026-06-17-cbl-epaix-2026-softpos-visa-standin-libyaherald], [2026-01-15-jumhuria-first-petrol-station-epayment-libyaherald], [2026-04-25-finnovate-libyan-banks-digital-expansion-alwasat]]
 ---
 
 # Libya × Digital Payments
@@ -59,7 +59,7 @@ build pairs rapid adoption with a live resilience question.
   and **Network International (UAE) + Seraj Islamic Bank** (Benghazi/east, est. 2024) an integrated
   digital-payments/Visa/prepaid-card stack — India and Gulf vendors entering on both sides of the split.
   Sources: [[2026-01-15-jumhuria-first-petrol-station-epayment-libyaherald]],
-  [[2026-05-01-finnovate-libyan-banks-digital-expansion-alwasat]].
+  [[2026-04-25-finnovate-libyan-banks-digital-expansion-alwasat]].
 
 ## Links
 

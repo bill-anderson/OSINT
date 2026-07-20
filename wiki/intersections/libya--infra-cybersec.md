@@ -9,7 +9,7 @@ entities: [[central-bank-of-libya], [gaci-libya]]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-18
-sources: [[2026-07-16-parliament-national-security-cybersecurity-law-alwasat], [2026-06-24-cbl-cyber-incident-alwasat], [2025-04-06-interior-cybercrime-cases-q1-2025-alwasat]]
+sources: [[2026-07-16-parliament-national-security-cybersecurity-law-alwasat], [2026-06-24-cbl-cyber-incident-alwasat], [2025-03-30-interior-cybercrime-cases-q1-2025-alwasat]]
 ---
 
 # Libya × Cybersecurity
@@ -34,7 +34,7 @@ servers/IPv6) and absorbs live incidents — against a rapidly digitising paymen
 - **Cybercrime enforcement (2025 Q1).** [[gov.protect]] The Interior Ministry (GNU) handled **135
   cybercrime cases** in Q1-2025 (104 social-media, 14 mobile-phone with 22 phones seized, 8 CCTV) and
   **188 devices seized**, targeting online criminal networks, digital fraud and extortion. Source:
-  [[2025-04-06-interior-cybercrime-cases-q1-2025-alwasat]] *(date proxied ~2025-04)*.
+  [[2025-03-30-interior-cybercrime-cases-q1-2025-alwasat]] *(date proxied ~2025-04)*.
 
 ## Links
 

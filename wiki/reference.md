@@ -861,6 +861,20 @@ check acted, a one-line-per-check count.
    party's own currency. **Fix in place**: date the figure, convert the phrasing,
    or where the current value genuinely can't be established, write the dated
    absence on the page (a known vacuum is a finding). Re-stamp `last_reviewed`.
+
+   **Detect at bullet level, not line level.** House style dates the bullet header,
+   so a figure inherits its bullet's date and is not a defect. A line-level scan for
+   undated money runs ~90% false-positive — the 2026-07-20 pass flagged 558
+   candidates, of which ~13 on concept pages were real. Test whether the *enclosing
+   bullet* carries a date anywhere, then screen what remains: a USD figure is
+   **correct** when USD is the announcing party's own currency (World Bank / IMF /
+   AfDB / DFC loans, a US company's own figure), when it is not a commitment at all
+   (a price point, a tracker series, an analyst market-size estimate), or when the
+   local-currency original is present in a form the scan missed (`Sh`, `₦`, `R`,
+   `GH₵`, `CFA`, `N$`, `XAF`). The real defect is narrow: **an African party's
+   own-currency commitment rendered into USD with no dated conversion.** Where the
+   source itself gives only USD, date it and record that the local original is not
+   established — never invent a rate. *(Added 2026-07-20 from that pass.)*
 6. **Inadmissible sources** — a compiled source whose origin is a second-hand/AI
    synthesis, Bill's *unpublished* notes, or a publication that re-renders the
    wiki's own pages: **downgrade in place** — demote to a lead, or strike the

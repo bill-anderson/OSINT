@@ -9,7 +9,7 @@ entities: [[ipdcp-togo], [ancy-togo], [haac-togo], [haac-ipdcp-accord]]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-20
-sources: [[2025-12-12 Personal data and digital rights in Togo - HAAC and IPDCP seal institutional cooperation accord], [2023-12-21 ISR - WURI Phase 2 Seq 7 (P169594)], [2025-03-29-ipdcp-demarre-activites], [2025-11-03-3000-jeunes-formes-reflexes-numeriques], [2026-06-25-ipdcp-forme-premiers-correspondants], [2019-10-29-togo-loi-2019-014-protection-donnees-caractere-personnel]]
+sources: [[2025-12-12 Personal data and digital rights in Togo - HAAC and IPDCP seal institutional cooperation accord], [2023-12-21 ISR - WURI Phase 2 Seq 06 (P169594)], [2025-03-29-ipdcp-demarre-activites], [2025-11-03-3000-jeunes-formes-reflexes-numeriques], [2026-06-25-ipdcp-forme-premiers-correspondants], [2019-10-29-togo-loi-2019-014-protection-donnees-caractere-personnel]]
 ---
 
 # Togo × Data Protection & Cybersecurity
@@ -84,7 +84,7 @@ the IPDCP to access its control and monitoring room** — a data-protection auth
 a **broadcast-surveillance facility**. The sole account is **sourced to the IPDCP and carries no critical
 framing** of that access — the absence is recorded, not filled in. Sources:
 [[2025-12-12 Personal data and digital rights in Togo - HAAC and IPDCP seal institutional cooperation accord]],
-[[2023-12-21 ISR - WURI Phase 2 Seq 7 (P169594)]]. The
+[[2023-12-21 ISR - WURI Phase 2 Seq 06 (P169594)]]. The
 "digital sovereignty" language that runs through the campaigns sits alongside this concentration of
 security and privacy functions. See [[TGO]] hub, [[gov.protect]].
 
