@@ -54,7 +54,7 @@ maintained and queried.
   systems for **CRVS and registries**, and a **National Innovator Registry** was
   gazetted **5 Jul 2026** to catalogue local tech suppliers. See [[dpi.id]],
   [[dpi.govtech]], [[tech.innovate]]. Source:
-  [[2026-05-22 Uganda launches prototype program for digital ID and public infrastructure]].
+  [[2026-05-22 Uganda launches prototype program for digital ID and public infrastructure]]. → [[uganda--dpi-registry]]
 - **[[ETH]] Ethiopia — Fayda registration at scale (2026-05).** The
   **[[fayda-ethiopia-national-id]]** register has passed **42m registrations** with
   **130+ agency integrations** (target **90m by 2028**); the NIDP uses DIAL's
@@ -68,7 +68,7 @@ maintained and queried.
   integrity is the weak point: ~**6,000 Niger nationals** were found holding NINs,
   triggering a database audit, against a World Bank target of **≥180m IDs by
   end-2026**. See [[dpi.id]], [[gov.protect]], [[include.access]]. Source:
-  [[2025-02-13 Digital ID necessity increases in Nigeria despite lingering challenges]].
+  [[2025-02-13 Digital ID necessity increases in Nigeria despite lingering challenges]]. → [[nigeria--dpi-registry]]
 - **[[RWA]] Rwanda — a CRVS-integrated register (2026-03).** Rwanda's new biometric
   **e-Indangamuntu** ([[nida-rwanda]]) is built **on top of the Civil Registration and Vital
   Statistics** system, linking parent–child family trees to drive service delivery. Enrolment
@@ -76,7 +76,7 @@ maintained and queried.
   with iris added to fingerprint/face; the **Single Digital Identification Law** makes it the sole
   government identity (legacy cards void by June 2027). Register access is logged and consent-gated
   through the **eRainbow** platform. As of 2026-03-16, **2,373,854 of ~14m** enrolled. See [[dpi.id]],
-  [[gov.protect]]. Source: [[2026-03-16 Digital IDs How registration is progressing so far]].
+  [[gov.protect]]. Source: [[2026-03-16 Digital IDs How registration is progressing so far]]. → [[rwanda--dpi-registry]]
 - **[[ZMB]] Zambia — ID plus civil registration on open standards (2026-03).**
   [[smart-zambia-institute]] is procuring a system integrator to deploy a **[[mosip]]**-based
   national ID **integrated with the civil-registration architecture**, built by Zambians on open

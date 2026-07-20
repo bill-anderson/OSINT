@@ -392,3 +392,7 @@ Part of the [entities index](entities-index.md).
 | Nam-CSIRT (Namibia Cyber Security Incident Response Team) | NAM | infra.cybersec, data.statistics | [[nam-csirt]] |
 | ARCEP Niger (electronic-communications regulator) | NER | infra.connect, gov.legislate, gov.standards | [[arcep-niger]] |
 | ANSI (Agence Nationale pour la Société de l'Information) — Niger | NER | dpi.govtech, infra.cybersec, tech.innovate | [[ansi-niger]] |
+| Securities and Exchange Commission (SEC, Nigeria) | NGA | gov.legislate, dpi.pay, tech.industry | [[sec-nigeria]] |
+| Nigeria Revenue Service (NRS) | NGA | gov.legislate, dpi.pay, dpi.id | [[nigeria-revenue-service]] |
+| Nigerian Financial Intelligence Unit (NFIU) | NGA | gov.legislate, dpi.pay, infra.cybersec | [[nfiu]] |
+| Office of the National Security Adviser (ONSA), Nigeria | NGA | infra.cybersec, gov.legislate, dpi.id, infra.connect | [[onsa-nigeria]] |

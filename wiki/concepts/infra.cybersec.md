@@ -49,7 +49,7 @@ how "cyber threat" is defined and acted on.
 - **[[ZMB]] Zambia (2025).** [[dzap]] Component 2 is "Interoperable **and secure**
   platforms" — secure data hosting and a Cybersecurity Incident Response Team (CIRT)
   underpin the DPI stack ([[dpi.exchange]], [[dpi.id]]). Security, privacy and
-  interoperability are stated design priorities for the homegrown foundational ID.
+  interoperability are stated design priorities for the homegrown foundational ID. → [[zambia--infra-cybersec]]
 - **[[ZAF]] South Africa — securitization + real exposure (2025 analysis).** The BRICS-book
   chapter reads SA cyber policy through a **securitization** lens: how threat is *framed*
   (the Cybercrimes Act, bulk-surveillance powers, apartheid-surveillance memory) can expand
@@ -70,7 +70,7 @@ how "cyber threat" is defined and acted on.
   prosecute identity fraud with security agencies and the Federal Ministry of Justice — the
   Act incorporating the Nigeria Data Protection Act, around a biometric database of **136M+**
   enrolled (2026-07). See [[dpi.id]], [[nigeria--dpi-id]]. Source:
-  [[2026-07-09 NIMC Enrols 136 Million Nigerians as Coker-Odusote Pushes Stronger Inter-Ministerial Partnership]].
+  [[2026-07-09 NIMC Enrols 136 Million Nigerians as Coker-Odusote Pushes Stronger Inter-Ministerial Partnership]]. → [[nigeria--infra-cybersec]]
 - **[[MOZ]] Mozambique — cyber-security package (2026-04).** Parliament **unanimously** passed a
   Cyber Security Law plus a separate Cybercrime Law. The INCM acts as technical coordinator, but
   under a state of siege/emergency its functions pass to the **Cyber Coordination Centre of the
@@ -280,6 +280,8 @@ how "cyber threat" is defined and acted on.
 - **[[CAF]] Central African Republic — the baseline.** Scored **3.6 on the 2018 Cybersecurity Index**
   against **29.5** for Sub-Saharan Africa, with **no national cybersecurity strategy, no CERT and no SOC**
   as of 2022-03-07 (World Bank appraisal).
+- **[[TZA]] Tanzania** — a strong international index score and an annual forum against weak institutional hygiene and a fraud economy running through the SIM-registration layer. → [[tanzania--infra-cybersec]]
+- **[[UGA]] Uganda** — a threat curve that reached the central bank, the Mar-2026 Computer Misuse Act rollback, and new anti-piracy content-blocking reach. → [[uganda--infra-cybersec]]
 
 ## Places
 

@@ -23,7 +23,7 @@ market, a sovereign-cloud and state-owned data-centre/AI-compute build-out — l
 
 - **2026-07-15** *(reported 2026-07-20)* — **ANPDP: an identifiable image is personal data, and
   posting it to a foreign-hosted platform may be an international transfer.** The
-  **[[anpdp|ANPDP]]** adopted a délibération on **Wednesday 15 July 2026** applying
+  **[[anpdcp|ANPDP]]** adopted a délibération on **Wednesday 15 July 2026** applying
   **[[algeria-law-18-07|loi n°18-07]]** to photos and video: identifiability makes them personal
   data; public posting requires **free, explicit, prior and verifiable consent** plus prior notice of
   controller, purpose, distribution, retention and data-subject rights. Its sharpest clause treats

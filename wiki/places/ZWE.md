@@ -326,6 +326,8 @@ doubles as the data protection authority** — there is no separate DPA.
 - [[dpi.pay]] · [[dpi.govtech]] — [[ecocash]]'s foundational role; the
   [[reserve-bank-of-zimbabwe]]'s sub-US$10 fee exemption (Sept 2024);
   [[consumer-protection-commission-zimbabwe]] POS enforcement; TaRMS TIN issuance.
+  Full case: **[[zimbabwe--dpi-pay]]** — the payments boom on a broken currency (the ZiG legal
+  tender yet barely working online) and the physical cash-out war.
 - [[infra.store]] · [[infra.energy]] · [[tech.industry]] · [[finance.new]] — the [[econet-infraco]] 300-ha
   Harare park (100 MW solar, undisclosed-capacity data centre); the completed tower carve-out and
   **[[victoria-falls-stock-exchange]] listing (2026-03-31)** against EWZL's **ZSE delisting** — Zimbabwe's

@@ -6,6 +6,26 @@ Reporting): a few lines each, full detail in `log-archive.md` or git.
 
 ---
 
+## 2026-07-20 — Full lint, all 15 checks (spec change to #14 and #15)
+
+**Spec (Bill):** #14 one-attempt limit dropped; #15 admits marker-matching. Both amended in `reference.md` §11, plus three findings folded in from the run — `source:`-first and byte-comparison for #14, bullet-level detection for #3.
+
+**Ran out of numeric order, logged as a decision:** #15 and #14 before #7, because duplicates uses `body_completeness` as its tiebreak and `url:` as its dedup key; running #7 first would have adjudicated against a field missing for 72% of `raw/`.
+
+**Counts.** #1 4,745 fields (0 deletions) · #2/#11/#12 clean · #13 1 · #14 225/241 recovered, 10 unrecovered, 6 false positives · #15 3,277 set, 51 legacy values normalised, 95 blank · #8 3 concept pages split, 6 intersections created · #5 386 tagged, 37 correctly empty · #7 15 sources + 1 PDF deleted, 0 dangling · #6 4 hostile domains drop-listed · #3 ~20 money defects, 21 dates corrected, 34 renames, 54 files rewired · #4 105 orphan intersections indexed, 63 both-sides links, 7 pages created, 1 true stray.
+
+**The finding that matters: a fabricated source was load-bearing on a wiki page.** `southafricanews24.com` invented a R2.1bn Google AI campus, an MoU with data-localisation conditions, SEZ concessions and two non-existent officials; `south-africa--infra-store` read it as "the clearest case of the state pricing sovereignty into a hyperscaler deal". Google's real announcement, already held from Google's own release, disclosed no value. Also drop-listed: `streamlinefeed.co.ke` (unattributed rewrites — real events, invented operational detail, injected a **false event date** onto 3 pages that already held the right one), `africazine.com`, `africa-press.net`. Inadmissible-origin items are **discarded, not parked** — `_leads/` is for in-scope-not-yet-usable.
+
+**Corrections to held state:** 4 publisher mis-attributions (UNECA and UNCDF docs credited to the World Bank; a CIPESA brief filed as Kenyan government; an operator guide as Government of Mauritius) · Namibia carried an **unsourced US$9m** where the only held source says N$70m (~US$4.7m) · Senegal's FCFA 1,105bn primary dropped for a bare `~$1.7bn`, source not cited at all · a body-integrity failure (Rwanda land registration cited for figures pasted in from other reporting) · 3 stored dates proven wrong by byte-identity, incl. a slide deck filed as a report.
+
+**My own errors, both found by agents not me:** #15 stripped HTML comments *before* marker-matching, which is exactly where capture provenance lives — 54 files wrongly set `full`, corrected to 45 `paywalled` / 9 `excerpt`. My #3 money detector ran ~93% false-positive (558 flagged, ~20 real) and my #4 link extractor didn't resolve artefact or `raw/`-prefixed targets (103 of 125 "strays" were fine). Agents also overruled three of my briefs correctly — Eaves/CAMP authorship, NCA Ghana's re-upload path, and a "sibling clips share the wrong stamp" assumption that was wrong.
+
+**Standing risk, measured not closed:** 540 hosts appear exactly once in `raw/`; **512 of those single-use sources are compiled onto wiki pages.** Host-pattern sweeps cannot detect fabrication. Deserves its own pass, prioritised by how load-bearing the citing page is.
+
+Revert: `git revert` the individual `lint:` commits.
+
+`contradictions - 4 ; acquisitions - 39 ; decisions logged - 6`
+
 ## 2026-07-20 — Reconcile: 3 researched, 3 resolved, `open/` empty
 
 8 primaries ingested. All three closed on attempt 1; `research/` deleted at pass end.

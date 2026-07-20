@@ -32,7 +32,7 @@ localization mandates, and the competition/antitrust angle on cloud concentratio
   [[nigeria--dpi-pay]]. Source:
   [[2026-07-20-nigeria-coordinated-regulatory-framework-virtual-assets]].
 - **[[DZA]] An image is personal data — ANPDP délibération (adopted 2026-07-15).** Algeria's
-  **[[anpdp]]** adopted a délibération on **Wednesday 15 July 2026** ruling that **any photograph or
+  **[[anpdcp|ANPDP]]** adopted a délibération on **Wednesday 15 July 2026** ruling that **any photograph or
   video permitting direct or indirect identification of a natural person is personal data** under
   **[[algeria-law-18-07|loi n°18-07]]**, so its collection, storage, retention and publication need a
   legal basis and must meet lawfulness, transparency, proportionality and purpose-limitation. Public

@@ -65,7 +65,7 @@ The **[[angola-fake-news-law]]** (Lei contra Informações Falsas na Internet) *
 
 ## Practice ahead of protections
 
-The sharpest evidence is a **surveillance case**: Amnesty International's Security Lab gave the **first forensic confirmation** that Intellexa's **Predator** spyware ([[predator-spyware-angola]]) was **active on journalist [[teixeira-candido]]'s phone on 4 May 2024**, with the state intelligence service **[[sinse-angola]]** named as the software's end-user in a contract dated to April 2021. Cândido filed a criminal complaint; this is the adversarial counter-story (reported by *Novo Jornal* / *Expresso*) to the state's digital-sovereignty framing.
+The sharpest evidence is a **surveillance case**: Amnesty International's Security Lab gave the **first forensic confirmation** that Intellexa's **Predator** spyware ([[predator-spyware-angola]]) was **active on journalist Teixeira-candido]]'s phone on 4 May 2024**, with the state intelligence service **[[sinse-angola]]** named as the software's end-user in a contract dated to April 2021. Cândido filed a criminal complaint; this is the adversarial counter-story (reported by *Novo Jornal* / *Expresso*) to the state's digital-sovereignty framing.
 
 **International cooperation.** President Lourenço reported (2026-03-03) that Angola has **signed the UN Convention against Cybercrime** (ratification pending) and that ~**$20m** in cybercrime-related assets were seized in 2025 (illegal crypto-mining, bank-system attacks, comms diversion).
 

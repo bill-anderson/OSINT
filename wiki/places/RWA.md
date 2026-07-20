@@ -310,7 +310,8 @@ last_reviewed: 2026-07-19
 - [[dpi.exchange]] · [[gov.standards]] · [[infra.cybersec]] · [[dpi.id]] — Kigali as
   host of the Smart Africa SADX cross-border data-exchange mission; the National Data
   Sharing Policy (NISR governance / RISA platform split); cross-border identity friction
-  (Kenya/Rwanda/Uganda mutual recognition vs financial-service inadequacy).
+  (Kenya/Rwanda/Uganda mutual recognition vs financial-service inadequacy). Full case:
+  [[rwanda--dpi-exchange]].
 - [[dpi.pay]] — **[[ekash]] / RNDPS 2.0** on [[mojaloop]] (P2M/P2B, SACCO/MFI
   integration; full interoperability 2026-07); the phased sequencing model.
 - [[dpi.mis]] · [[data.statistics]] — EHR-interoperability exemplar; **CRVS–EIR

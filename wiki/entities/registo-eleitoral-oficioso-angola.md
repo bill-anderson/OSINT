@@ -34,7 +34,7 @@ and validated ahead of an election, now paired with a mandatory biometric **proo
   [[2026-06-12-justica-reforca-emissao-do-bi-registo-eleitoral]],
   [[2026-07-15-mais-de-120-mil-bilhetes-aguardam-levantamento]].
 - **Governance.** Coordinated by the presidential proof-of-life commission (chair
-  [[dionisio-da-fonseca]]). Source:
+  Dionísio da Fonseca). Source:
   [[2026-06-08-pr-cria-comissao-actualizacao-dados-cidadaos-maiores-bdcm]].
 
 Fuller treatment on **[[angola--dpi-registry]]**.

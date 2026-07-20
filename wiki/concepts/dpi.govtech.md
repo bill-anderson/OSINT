@@ -25,7 +25,7 @@ Government service delivery online.
   below — though by Jan 2026 the underlying digital-ID reform was already behind schedule. See
   [[digital-services-unit-presidency-sa]], [[dpi.id]]. Sources:
   [[2025-11-09 Behind the speedy MyMzansi screens and the Presidency's race to build a digital government]],
-  [[2026-01-07 Digital driving licence coming to South Africa]].
+  [[2026-01-07 Digital driving licence coming to South Africa]]. → [[south-africa--dpi-govtech]]
 - **[[ZMB]] Zambia (2025).** **ZamPortal / eServices** currently offers only ~**300 of
   an estimated 1,500** government services online; **ZamSign** provides e-signatures.
   Digitising government records and services (today largely paper, and vulnerable to
@@ -78,7 +78,7 @@ Government service delivery online.
   for service delivery, interoperability and DPI atop Uganda's **[[mosip]]**-based ID (>28m
   records) — "technology sovereignty" as a procurement strategy. See [[dpi.id]],
   [[tech.innovate]]. Source:
-  [[2026-05-22 Uganda launches prototype program for digital ID and public infrastructure]].
+  [[2026-05-22 Uganda launches prototype program for digital ID and public infrastructure]]. → [[uganda--dpi-govtech]]
 - **[[BWA]] Botswana — a "digital-by-default" reform after a stalled decade (2025–26).** Under Minister
   Tshere, Botswana is standing up a **[[digital-services-act-botswana|Digital Services Act + Digital
   Services Authority]]** to set interoperability/cyber/governance standards across MDAs, on the
@@ -184,7 +184,7 @@ Government service delivery online.
   the tier; the Bank stresses the shift from launched portals to **interoperability, adoption and
   impact**, with **digital citizen engagement** the weak pillar region-wide. See [[dpi.exchange]],
   [[gov.standards]], [[dpi.id]]. Source:
-  [[2026-01-26 Tanzania's GovTech success raises bar for East Africa's digital states]].
+  [[2026-01-26 Tanzania's GovTech success raises bar for East Africa's digital states]]. → [[tanzania--dpi-govtech]]
 - **[[CMR]] Cameroon — council-level civil documents go digital (2026-01).** A **[[undp]]**-implemented,
   Denmark-funded system digitises birth, marriage and death certificates at council level across **10
   municipalities** in the Far North, North-West and South-West — service continuity and legal-identity
@@ -214,10 +214,10 @@ Government service delivery online.
   Source: [[2021-06-01 The Irembo model in Rwanda]].
 - **[[STP]] São Tomé and Príncipe — an early e-gov strategy (2020).** São Tomé's **2020 National
   Strategy for Digital Governance** organises its e-government agenda around nine thematic axes. See
-  [[gov.policy]], [[STP]].
+  [[gov.policy]], [[STP]]. → [[sao-tome--dpi-govtech]]
 - **[[SSD]] South Sudan — digitisation by decree (2025-12).** South Sudan issued a **full-digitisation
   decree** (Dec 2025) setting a **Jan-2026** deadline for government services, from an **EGDI 192/193**
-  (2024) base — ambition far ahead of infrastructure. See [[gov.policy]], [[SSD]].
+  (2024) base — ambition far ahead of infrastructure. See [[gov.policy]], [[SSD]]. → [[south-sudan--dpi-govtech]]
 - **[[SLE]] Sierra Leone — services digitised, AI-readiness under way (2025).** Sierra Leone reports
   **~80%** of government services digitised (2025; EGDI 172/193, 2024) and signed a **World Bank AI
   Readiness** assessment plus a Qhala AI MoU to modernise public services (2025-10). See [[tech.ai]],
@@ -235,7 +235,7 @@ Government service delivery online.
   covers that launch or the criticism directly. See [[dpi.id]], [[dpi.pay]], [[gov.protect]]. Sources:
   [[2025-06-28 PID Concept Stage - Digital Eswatini (P508948)]],
   [[2025-01-01 ToR - Government in Your Hand Digital Government Implementation Roadmap (Digital Eswatini)]],
-  [[2025-08-05 Robust DPI inevitable for Eswatini's economic, jobs boom - World Bank]].
+  [[2025-08-05 Robust DPI inevitable for Eswatini's economic, jobs boom - World Bank]]. → [[eswatini--dpi-govtech]]
 - **[[TGO]] Togo — civil status online, tax exemptions made mandatory (2025-09 → 2026-01).** Togo routes
   services through the **Guichet National du Service Public** ([[services-publics-togo]]): online
   civil-status requests (birth, marriage and death copies, with real-time tracking) announced
@@ -246,7 +246,7 @@ Government service delivery online.
   customs system and **mandatory from 1 Jan 2026** after a three-month transition — a deadline, not
   merely a portal. See [[dpi.registry]], [[dpi.exchange]], [[digital.localgov]]. Sources:
   [[2025-12-17 Togo Expands Public Service Digitisation With Online Civil Registry Platform]],
-  [[2025-10-01 Togo Launches Online Platform for Tax Exemptions and Waivers]].
+  [[2025-10-01 Togo Launches Online Platform for Tax Exemptions and Waivers]]. → [[togo--dpi-govtech]]
 - **[[TCD]] Chad — a transport platform still at the planning stage (2025-09).** The Ministry of
   Transport ([[ministry-of-transport-chad]]) discussed (**9 Sept 2025**) an integrated platform to
   centralise vehicle registration cards, driver's licences, technical-inspection certificates,
@@ -263,7 +263,7 @@ Government service delivery online.
   without a named instrument. Seychelles ranked **92nd of 193 on the UN EGDI, 0.6773 (2024 index)**,
   among Africa's stronger performers; again a reference-index figure, not current state. See
   [[dpi.registry]], [[SYC]]. Source:
-  [[2025-02-10 Seychelles Pledges to Modernize Public Services Through Digital Transformation]].
+  [[2025-02-10 Seychelles Pledges to Modernize Public Services Through Digital Transformation]]. → [[seychelles--dpi-govtech]]
 
 - **[[AGO]] Angola — a coordinated agenda on a low base (2025–26).** Angola's **Governo Digital 2027** agenda counts **218 structuring projects** (2026-03, up from 214 in 2025) under the **[[ima-angola|IMA]]**, from a UN **EGDI 156/193** base (up 18 places in a decade). The concrete DPI backbone is a **US$150m IMA–[[tis-angola|TIS]] contract** (Despacho Presidencial 38/26): interoperability platform, digital identity, **PKI e-signatures**. A PKI/time-stamp **trust layer** underpins **[[agt-angola|AGT]]** mandatory e-invoicing (live 1 Jan 2026) and a FATCA data flow to the US IRS; the Ministry of Finance's **[[i-lab-angola|i.Lab]]** (with Brazil's **[[serpro]]**) tests public-finance solutions under a sovereignty framing; INSS and Cubango-province ([[digital.localgov]]) rollouts extend it. Rare user-side evidence: SME/DTSER digitisation ended the informal "mixeiros" but the portal is hard to use. → **[[angola--dpi-govtech]]**. Sources: [[2026-03-05-governo-aposta-reorganizacao-administracao-publica-governo-digital-2027]], [[2026-06-17-ima-tis-contrato-projecto-infra-estruturas-digitais-publicas]], [[2025-11-06-servicos-digitais-no-sme-e-dtser-acabam-com-enchentes]].
 
@@ -312,6 +312,11 @@ Government service delivery online.
   as a **source-code grant** — its third such export after Tajikistan and Sierra Leone. **No deployment
   reported by either side as of 2026-07-20.** Note the taxonomy trap: this is **govtech licensing, not
   DPI-identity** — Togo's e-ID partner is [[mosip]] under WURI.
+- **[[ETH]] Ethiopia** — a homegrown, Fayda-anchored GovTech stack framed as digital sovereignty. → [[ethiopia--dpi-govtech]]
+- **[[NGA]] Nigeria** — the back-office layer — treasury, payments, asset and document systems — beneath the DPI architecture; EGDI 144/193 (2024) against a 75%-of-services-by-2027 target. → [[nigeria--dpi-govtech]]
+- **[[SEN]] Senegal** — the National Interoperability Platform, the National Digital Council and sector platforms under the New Deal. → [[senegal--dpi-govtech]]
+- **[[SOM]] Somalia** — service-delivery DPI (job portal, electronic immunization register) on the ID/payments spine — against the domestic warning about digitising the existing fragmentation. → [[somalia--dpi-govtech]]
+- **[[TUN]] Tunisia** — a cabinet-monitored digital-government portfolio inside the 2026–2030 Development Plan, on an Estonian-lineage UXP backbone now extending to the business economy. → [[tunisia--dpi-govtech]]
 
 ## Places
 

@@ -203,7 +203,7 @@ poverty through digital-enabled services within five years. Other accounts rende
 
 - [[dpi.id]] · [[dpi.registry]] · [[dpi.exchange]] — [[anats]] and the [[chad-biometric-registry]]
   as the intended single source of truth; CRVS via health facilities, schools, refugee camps,
-  municipalities and mobile units.
+  municipalities and mobile units. Full case: [[chad--dpi-id]].
 - [[infra.store]] — [[chad-national-data-centre]] (audit stage, pre-inauguration) plus 100 planned
   micro-data centres; PMICE Sarh; the geopolitics of building it (China construction, Azerbaijan/Azercosmos, US/Cybastion certification, China solar mini-grids). Full case: [[chad--infra-store]]. Chad's **first** data centre (2016) cost **$6m**, 374 sqm, was built in
   Sweden by **[[flexenclosure]]** and shipped to N'Djamena, designed for a 400kW IT load.

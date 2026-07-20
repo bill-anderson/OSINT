@@ -291,6 +291,8 @@ Personal-data regimes across African jurisdictions — and the friction their
   2026) on national **[[au-data-policy-framework]]** adoption run by the **[[d4d-hub]]** with
   [[giz]], [[auda-nepad]] and [[kictanet]] — small states operationalising the AU's norms. →
   [[sao-tome--gov-protect]]
+- **[[ETH]] Ethiopia** — a modern data-protection law enacted just as mass identity-and-banking data harmonisation accelerated — and not yet operational. → [[ethiopia--gov-protect]]
+- **[[TUN]] Tunisia** — still governed by the 2004 organic law while mandatory Mobile ID, a centralising health identifier and blanket e-invoicing arrive; the replacement moved in parliament in 2026. → [[tunisia--gov-protect]]
 
 **Indexed here:**
 

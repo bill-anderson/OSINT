@@ -74,7 +74,7 @@ The registry integration that matters analytically is the linking of the
 ([[base-de-dados-de-cidadaos-maiores-angola|BDCM]])**:
 
 - A **presidential decree (2026-06-08)** created an interministerial commission (chair:
-  Casa Civil chief [[dionisio-da-fonseca]]) to run a **biometric proof-of-life** update —
+  Casa Civil chief Dionísio da Fonseca) to run a **biometric proof-of-life** update —
   mandatory in pre-electoral periods since 2025 — tasked to **stabilise BDIC↔BDCM
   interoperability**, biometrically de-duplicate, update residence, and consolidate the
   BDCM as the **official electoral reference base**. Source:

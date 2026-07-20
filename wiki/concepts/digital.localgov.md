@@ -96,6 +96,7 @@ the layer where citizens actually meet the state.
   integrity tests; a **₦11.4bn 22-school contract terminated** with an **EFCC recovery of ₦1.23bn**. No
   connectivity or solar vendor is named in any source held, and no learning-outcome data or independent
   evaluation exists (as of 2026-07-20).
+- **[[NGA]] Nigeria** — states building citizen apps, connectivity partnerships and civil-service skilling below the federal tier. → [[nigeria--digital-localgov]]
 
 ## Places
 

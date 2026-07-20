@@ -278,6 +278,7 @@ cross-border scale, the legal enforceability of that exchange.
   report of 2021-10-04 recorded in the judgment estimated a **35% false-rejection rate — 4.5 million of
   13 million eligible claimants**. Directly relevant wherever data exchange is used to establish
   eligibility rather than to deliver a service.
+- **[[RWA]] Rwanda** — a national DPI strategy binding siloed systems, the national data-sharing platform and RDAP financing — the interoperability gap Rwanda’s own analysts name most often. → [[rwanda--dpi-exchange]]
 
 ## Places
 

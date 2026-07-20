@@ -218,6 +218,10 @@ Continental rails and the sector-wide figures/theses are above. National payment
 - **[[TCD]] Chad** — a "zéro cash, zéro papier" 2026 budget mandate over home-grown COBAC-licensed fintechs, plus [[airtel-chad]]'s undated Airtel Money launch with [[ecobank]]. → [[chad--dpi-pay]]
 - **[[SEN]] Senegal** — the contested **0.5% mobile-money transfer tax**, Wave's low-fee disruption, BCEAO licensing, and [[sen-csu|SEN-CSU]] digital payments behind >50% health coverage. → [[senegal--dpi-pay]]
 - **[[TZA]] Tanzania** — **[[tips-tanzania|TIPS]]** as a state-built backbone, fee caps, the cash-lite mandate from 1 Jul 2026, and **Jamii Malipo announced 2024 with no launch date and not a central-bank system**. → [[tanzania--dpi-pay]]
+- **[[RWA]] Rwanda** — 93–96% formal inclusion and all domestic retail payments consolidated onto eKash in mid-2026, reaching toward EAC cross-border. → [[rwanda--dpi-pay]]
+- **[[STP]] São Tomé and Príncipe** — the BCSTP regulatory sandbox and fintech incubation for a ~230k-person island economy. → [[sao-tome--dpi-pay]]
+- **[[TUN]] Tunisia** — identity converting into volume — mobile payments +81% in 2025 on e-Houwiya wired into PaySmart; the CBT’s TUNPAY label; telcos turning fintech. → [[tunisia--dpi-pay]]
+- **[[ZWE]] Zimbabwe** — a payments boom on a broken currency — the gold-backed ZiG legal tender yet barely working online, and a physical cash-out war. → [[zimbabwe--dpi-pay]]
 
 **Indexed here:**
 

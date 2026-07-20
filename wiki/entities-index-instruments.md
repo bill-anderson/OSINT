@@ -219,3 +219,6 @@ source that cites it.
 | Mapping African Digital Infrastructures (RIA study, 2022) | XAF, ZAF, KEN, NGA | infra.capacity, tech.innovate, capacity.research, data.open, gov.standards | [[mapping-african-digital-infrastructures]] |
 | From 'digital divide' to 'digital equality' (Gillwald, GISW 2025) | XGL, XSS, ZAF | include.divides, gov.policy, gov.regional, data.statistics | [[gillwald-digital-inequality-paradox-2025]] |
 | Data Systems at a Crossroads (Open Data Watch / PARIS21) | XGL, XAF | data.statistics, data.open, capacity.research | [[data-systems-crossroads]] |
+| Presidential Executive Order on Virtual Assets Coordination, 2026 (Nigeria) | NGA | gov.legislate, gov.policy, dpi.pay, infra.cybersec | [[virtual-assets-executive-order-2026]] |
+| Algeria — Law No. 18-07 on the protection of personal data | DZA | gov.protect, gov.legislate, infra.store | [[algeria-law-18-07]] |
+| RICA (Regulation of Interception of Communications Act, South Africa) | ZAF | gov.legislate, gov.protect, infra.cybersec, dpi.id | [[rica-south-africa]] |

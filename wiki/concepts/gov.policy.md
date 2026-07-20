@@ -320,6 +320,7 @@ National digital strategy, ownership and the financing conditions around it.
   the predecessor Mühlbauer; a minority report alleged unsanctioned meetings with Mühlbauer in Uganda and
   Germany "in total contravention of the Public Procurement and Disposal of Public Assets Act." MP Abdu
   Katuntu: Parliament "is not mandated to do procurement." **No contract followed.**
+- **[[SEN]] Senegal** — the New Deal Technologique in full — four pillars, 1,105bn FCFA ATN financing, targets to 2034 and first-year delivery. → [[senegal--gov-policy]]
 
 ## Places
 

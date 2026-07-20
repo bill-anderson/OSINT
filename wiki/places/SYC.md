@@ -107,7 +107,8 @@ about commencement dates, enforcement reach and drafting gaps rather than covera
 - [[dpi.id]] · [[dpi.registry]] — [[seyid]] (2014 [[wisekey]] selection for public-key digital
   signature technology; official launch 1 Nov 2022; mandatory virtual ID for new work-permit
   holders from 17 Sept 2024) and [[certexpress]]. Statutory basis for civil registration:
-  [[seychelles-civil-status-act]] (Cap 34, consolidated as at 1 Nov 2022).
+  [[seychelles-civil-status-act]] (Cap 34, consolidated as at 1 Nov 2022). Full case:
+  [[seychelles--dpi-id]].
 - [[dpi.pay]] · [[include.access]] — the [[central-bank-of-seychelles]] cheque phase-out (SRC completes it by 2028),
   [[seft-seychelles]], UPI (India NPCI MoU), Fusepay, Absa multi-currency card. Full case: [[seychelles--dpi-pay]].
 - [[dpi.govtech]] — egov.sc portal relaunch (2026), Electronic Case Management System (justice, US/UNODC),

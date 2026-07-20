@@ -43,17 +43,17 @@ Part of the [entities index](entities-index.md).
   Shameel Joosub (Vodacom); Kashifu Inuwa Abdullahi (NITDA), Vincent Olatunji (NDPC);
   Enoch Godongwana; N-Atlas; NSDI Portal (Zambia); Angosat-2, SARSSy, Equiano, Umoja
   (cables/satellites).
-- **This ingest (governance & regulation, 2026-07-20):** `virtual-assets-executive-order-2026`
-  (Presidential Executive Order on Virtual Assets Coordination, 2026 — instrument; also the
-  Virtual Asset Council and Virtual Asset Office it creates), `sec-nigeria` (Securities and
-  Exchange Commission, Nigeria), `nigeria-revenue-service`, `nfiu` (Nigerian Financial
-  Intelligence Unit), `onsa-nigeria` (Office of the National Security Adviser); `paystack`,
-  `stripe`, `mono`, The Stack Group / Zap / Paystack MFB, Ladder Microfinance Bank, Shola
-  Akinlade; `department-of-justice-south-africa`, `rica-south-africa` (RICA 2002 — instrument),
-  Mmamoloko Kubayi, Nomvuyiso Batyi; `anpdp` (Algeria's data-protection authority — **note tag
-  drift with the held `anpdcp` slug, and a name collision with São Tomé's ANPDP; reconcile in
-  the entity pass**), `algeria-law-18-07`. Several are at or near the ≥3-source bar
-  (`sec-nigeria`, `rica-south-africa`, `anpdp`) — candidates for the next entity pass.
+- **This ingest (governance & regulation, 2026-07-20):** `paystack`, `stripe`, `mono`, The Stack
+  Group / Zap / Paystack MFB, Ladder Microfinance Bank, Shola Akinlade;
+  `department-of-justice-south-africa`, Mmamoloko Kubayi, Nomvuyiso Batyi; `busha` (Nigerian
+  exchange; 2 sources — watch for a third), `tether` (named across five sources but an actor in
+  only one — left unhubbed rather than stubbed).
+  *Hubbed 2026-07-20 by lint #4:* [[virtual-assets-executive-order-2026]], [[sec-nigeria]],
+  [[nigeria-revenue-service]], [[nfiu]], [[onsa-nigeria]], [[rica-south-africa]],
+  [[algeria-law-18-07]]. The `anpdp` tag drift is **resolved in body prose** — those links now point
+  at the held [[anpdcp]] page; the São Tomé ANPDP name collision stands (that authority is
+  [[national-data-protection-agency-sao-tome]]), and the remaining `anpdp` *frontmatter* tags are
+  left for the entity pass.
 - **This ingest (government digital services, 2026-07-20):** `dgid-senegal` (Direction générale
   des impôts et des domaines — **note collision risk with the held `dgid-central-african-republic`
   slug; keep country-suffixed**), `sentimbre` (DGID e-stamp platform);

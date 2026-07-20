@@ -166,6 +166,10 @@ economic activity — the layer beyond hardware.
   ministry the arbiter** of which firms count as credible — support and gatekeeping in one instrument.
   Full treatment: **[[gabon--tech-innovate]]**. See [[finance.mou]], [[geopol.china]],
   [[capacity.training]]. Source: [[2026-07-17-gabon-garantie-publique-huawei-start-up]].
+- **[[NGA]] Nigeria** — free zones, hubs and talent pipelines aimed at ICT reaching 22% of GDP by 2027 and 3m tech talents; the sovereignty framing of foreign platforms. → [[nigeria--tech-innovate]]
+- **[[SEN]] Senegal** — the Startup Act operationalised, with DER/FJ and Sonatel behind an entrepreneurship and skills ecosystem. → [[senegal--tech-innovate]]
+- **[[TCD]] Chad** — a thin but real innovation/skills layer — home-grown telehealth, donor-funded maker and refugee hubs, youth training, much of it Francophonie-backed. → [[chad--tech-innovate]]
+- **[[UGA]] Uganda** — a deep-tech and manufacturing framing — “start with the hard stuff” — shadowed by a funding drought and a past-pilot scale problem. → [[uganda--tech-innovate]]
 
 ## Places
 

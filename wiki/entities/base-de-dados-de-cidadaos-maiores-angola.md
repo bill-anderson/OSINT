@@ -22,7 +22,7 @@ the civil-identification database (**[[bdic-angola|BDIC]]**). Run by the
 ## Current state
 
 - **Presidential commission to update it (2026-06-08).** A presidential decree created an
-  interministerial commission (chaired by the Casa Civil chief **[[dionisio-da-fonseca]]**,
+  interministerial commission (chaired by the Casa Civil chief **Dionísio da Fonseca**,
   with Interior, Foreign Affairs, Finance, MAT, Justice and MINTTICS) to run a biometric,
   in-person **proof-of-life** update — mandatory in pre-electoral periods since 2025 — to
   purge deceased or rights-suspended names. Named tasks: biometric de-duplication, updated

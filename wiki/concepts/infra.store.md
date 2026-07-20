@@ -191,6 +191,9 @@ the CLOUD Act ceiling). Place-specific treatments:
 - **[[SLE]] Sierra Leone** — geographic redundancy as sovereignty: [[orange-sierra-leone]]'s **€23m** Bo backup data centre (2025-12) and the [[natca]] HQ **National Data Centre** (2026-04). → [[sierra-leone--infra-store]]
 - **[[SSD]] South Sudan** — an under-construction Juba national data centre with the SSIGW gateway and the DC both in the hands of Swiss operator **[[mgi-communications]]**, under an NCA oversight committee with a data-sovereignty mandate. → [[south-sudan--infra-store]]
 - **[[GNQ]] Equatorial Guinea** — PAMFP-tendered **Malabo primary + Bata backup** government data centres and the ZEEDE-Djibloho digital-zone ambition, on a low maturity base; the [[nigeria-eqguinea-subsea-cable]] deal bundles a **commercial data centre** so hosting rides in on the cable. → [[gnq--infra-store]]
+- **[[RWA]] Rwanda** — a Gulf tie-up for AI-ready capacity and a regional-hub pitch — against a water constraint Rwanda’s own analysts flag. → [[rwanda--infra-store]]
+- **[[TUN]] Tunisia** — converting Mediterranean cable landings into a DC and AI-hosting industry — a state investment priority and a solar-powered AI-DC flagship, strategy rather than capacity so far. → [[tunisia--infra-store]]
+- **[[TZA]] Tanzania** — the PDPA and a localisation policy turning data sovereignty into commercial demand, with Wingu and Liquid building to catch it. → [[tanzania--infra-store]]
 
 **Indexed here:**
 

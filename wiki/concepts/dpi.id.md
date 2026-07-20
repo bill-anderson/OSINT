@@ -158,6 +158,8 @@ Substantial place treatments have their own intersection pages; the long tail is
 - **[[SOM]] Somalia** — the foundational **[[snid|SNID]]** (>1m enrolled by late 2025 against 15m by end-2029), NADRA-built, with **where SNID data is physically hosted an open contradiction**. → [[somalia--dpi-id]]
 - **[[COD]] DR Congo** — a cancelled $1.2bn [[idemia]] contract → [[rdc-pass]] under a 20-year exclusive e-KYC PPP with [[trident-digital-tech]] — the outsourced extreme. → [[drc--dpi-id]]
 - **[[SSD]] South Sudan** — no unified national digital ID; the "Butaka Shakhsia" personal ID gates banking, land and court access. → [[south-sudan--dpi-id]]
+- **[[TUN]] Tunisia** — e-Houwiya Mobile ID crossing from available to mandatory from 1 July 2026, plus sectoral health, business and CRVS identifiers — compulsion arriving before the data-protection rewrite. → [[tunisia--dpi-id]]
+- **[[ZWE]] Zimbabwe** — the architecture-vs-operation gap — 1.5m undocumented children and a denied backlog against mobile registration reaching Binga; farmer sector biometric IDs. → [[zimbabwe--dpi-id]]
 
 **Indexed here (sub-threshold):**
 
