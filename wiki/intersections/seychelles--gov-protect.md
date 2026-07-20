@@ -64,8 +64,8 @@ fine or guidance by the Commission: a coverage gap, not evidence of inactivity. 
   the **DarkForums** marketplace; SCB suspended internet banking, apologised and engaged police. The
   attacker claimed an **Oracle WebLogic** vulnerability (Flexcube Private Banking) and decryption using
   **keys accessible in the bank's IT environment**. Resecurity (which engaged the actor) frames it within
-  the **targeting of offshore/tax-haven banking jurisdictions** — Seychelles ranks 45th on the Corporate
-  Tax Haven Index. See [[infra.cybersec]]. Sources: [[2025-07-15-bankinfosecurity-scb-data-breach]],
+  the **targeting of offshore/tax-haven banking jurisdictions** — Seychelles ranked 45th on the Corporate
+  Tax Haven Index (as cited by Resecurity, 2025-07). See [[infra.cybersec]]. Sources: [[2025-07-15-bankinfosecurity-scb-data-breach]],
   [[2025-07-29-resecurity-seychelles-bank-breach-analysis]].
 - The breach is the first concrete **test of the DPA's breach regime** (ss.43–44) in a jurisdiction whose
   **offshore-finance profile makes it a disproportionate target** — data with real geopolitical value

@@ -14,7 +14,7 @@ sources: [[2026-03-31 SA finally has a broadband map - and it reveals where the 
 
 # South Africa × Connectivity
 
-South Africa now has its first **granular national broadband map** — the evidence base
+South Africa published its first **granular national broadband map** (2026-03) — the evidence base
 for where connectivity actually reaches, built for the **[[sadis-2025]]** investment study
 commissioned by the **[[dbsa]]** and National Planning Commission.
 
@@ -22,7 +22,7 @@ commissioned by the **[[dbsa]]** and National Planning Commission.
 
 - The country is divided into **~1.5m hexagonal cells** (~0.76 km² each); each of **213
   municipalities** gets a composite broadband-access score.
-- **4G reaches 98% of the population** (vs 80% in Brazil), yet **~400,000 households lack
+- **4G reached 98% of the population (2026-03)** (vs 80% in Brazil), yet **~400,000 households lack
   4G+**; **74%** of households are within 10 km of a fibre node but **12.2%** sit **beyond
   20 km**; **6,700+** of ~15,000 public schools and **1,000+ clinics** are **10–25 km** from
   fibre. Unconnected municipalities cluster in Mpumalanga, Northern Cape and KwaZulu-Natal.

@@ -26,7 +26,7 @@ sensitive (esp. financial) data in-country.
   construction incentives — informed by Saudi Arabia, Mauritius and Egypt precedents. Source:
   [[2025-03-21-regulation-data-centres-cloud-includes-sanctions-clubofmozambique]].
 - **Vodacom data centre — "17 data centres" (2025-03).** [[infra.store]] PM **Benvinda Levi** inaugurated
-  **[[vodacom]]** Mozambique's new data centre, noting the country now has **17 data centres** and a pending
+  **[[vodacom]]** Mozambique's new data centre, noting the country had **17 data centres (2025-03)** and a pending
   cybersecurity-legislation review — "fundamental" for centralising and securely storing data. (Complements
   the held Matola $25m Tier-3 Vodacom DC.) Source:
   [[2025-03-29-pm-opens-vodacom-data-centre-clubofmozambique]].
