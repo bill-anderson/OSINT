@@ -26,7 +26,15 @@ Values outside the vocabularies are rejected.
 
 - [places-index.md](places-index.md) — browse by place (country / region).
 - [topics-index.md](topics-index.md) — browse by subject.
-- [entities-index.md](entities-index.md) — browse by entity.
+- [entities-index.md](entities-index.md) — browse by entity. Sharded by entity
+  type — [companies](entities-index-companies.md) ·
+  [organisations](entities-index-organisations.md) ·
+  [government bodies](entities-index-government-bodies.md) ·
+  [initiatives](entities-index-initiatives.md) ·
+  [deals](entities-index-deals.md) · [people](entities-index-people.md) ·
+  [resources](entities-index-resources.md) ·
+  [instruments](entities-index-instruments.md) ·
+  [mentioned, not yet paged](entities-index-mentioned.md).
 
 ## Operations
 
@@ -52,7 +60,7 @@ Values outside the vocabularies are rejected.
 | | Count |
 |---|---|
 | Sources of record (`raw/`) | 4,679 markdown + 297 binary artefacts |
-| Entity pages | 1,728 |
+| Entity pages | 1,741 |
 | Place hubs | 62 (54 countries + 8 regions — full roster) |
 | Concept pages | 36 (full taxonomy) |
 | Intersections | 273 |
