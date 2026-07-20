@@ -209,9 +209,10 @@ placed on the claim they support, not gathered at the end.
 
 ## Reporting
 
-End a job with what happened, not what's pending:
+**Log entries are terse — a few lines: what changed, why, what to revert if wrong.
+Never a narrative.** A `log.md` too long to skim defeats its own purpose. End a job
+with what happened, not what's pending:
 
 `contradictions - NN ; acquisitions - NN ; decisions logged - NN`
 
-Weekly, a terse digest: what was ingested, what was decided, what looks shaky.
-Five minutes to skim, not a report to study.
+Weekly, a terse digest: ingested, decided, shaky. Five minutes to skim.

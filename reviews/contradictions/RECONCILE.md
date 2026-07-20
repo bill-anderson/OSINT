@@ -69,9 +69,9 @@ file is only the closure marker, and `research/` is transient scratch —
 never accumulates as a fake store of record or a quarantine-leak surface for the
 next lint.
 
-Append one entry to `wiki/log.md`: items researched, resolved, re-routed to
-acquisitions, closed unresolved; primaries ingested; anything that looks shaky.
-Then the tally:
+Append **one terse entry** to `wiki/log.md` (a few lines, not a narrative):
+counts researched / resolved / re-routed / closed-unresolved, primaries ingested,
+anything shaky. Then the tally:
 
 `contradictions - NN ; acquisitions - NN ; decisions logged - NN`
 

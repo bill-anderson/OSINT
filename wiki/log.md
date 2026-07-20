@@ -5,6 +5,12 @@ contradictions found, and open `needs-review` flags.
 
 ---
 
+## 2026-07-20 — Log entries now terse (rule + cleanup)
+
+Rule added to CLAUDE.md → Reporting: log entries are a few lines, not narrative (a log too long to
+skim defeats its purpose); RECONCILE/ACQUIRE told to log tersely. Compressed today's process/rules-rework
+entries; left the ingest/reconcile findings entries (they carry the corpus corrections).
+
 ## 2026-07-20 — Reconcile: ZRHCP Subcomponent 1.2 resolved; `open/` empty
 
 The day's last contradiction, closed in favour of the **PAD: US$6m / ~150,000 cards**. The unreconciled
@@ -46,43 +52,15 @@ now holds only its README.
 
 ---
 
-## 2026-07-20 — Consistency pass across all processes + ZRHCP acquisition dropped
+## 2026-07-20 — Consistency pass + ZRHCP acquisition dropped
 
-Bill asked for a consistency check from `CLAUDE.md` down. Read CLAUDE.md, `reference.md`,
-`RECONCILE.md`, `ACQUIRE.md`, both READMEs. Architecture is sound — two queues, act-and-log,
-whole-folder passes, matching triggers and status lines. Fixed the day's residue:
-
-- **CLAUDE.md header** claimed `reference.md` "not yet written" — it is. Now points to it and to the
-  two pass files.
-- **"worked by the sweep or a hand-clip, never by reconcile"** — stale phrasing in three files
-  (CLAUDE.md, RECONCILE.md, reference.md §8), all predating the acquire pass. All now read "drained
-  by the acquisition pass; hand-clip-only documents dropped, absence stated on the page."
-- **RECONCILE.md** never said to clean up `research/` at pass end — why ~80 scratch files accumulated
-  until hand-deleted. Now: durable resolution lives on the page + log, `research/` is transient and
-  deleted at pass end.
-
-**Daily sweep checked too (initially missed).** `sweep/daily-README.md` carried three stale items,
-now fixed: the standing status line still read `issues - NN ; contradictions - NN ; gaps - NN`
-(→ the two-queue line); a mirror-only story with no original was routed to `reviews/gaps.md` as a
-"gap lead" (→ drop it, note the dated absence on the page — no gaps register); and an inline
-`(ISSUE-019)` rule citation stripped (the rule stays; issue-number refs don't).
-
-**One real contradiction between two process files — Bill ruled.** `daily-README` said the human
-promotes `new-queue/ → new/`; `reference.md` §7 said "CC promotes, no human gate." Bill's ruling:
-**the human gate stays** — reviewing raw sweep candidates before the pipeline is his, `new-queue/done/`
-is his review area. §7 corrected to match. This is now documented as the **one deliberate human gate**
-in the system; everywhere else CC acts and logs. (It is not a retreat from pragmatic automation —
-it gates raw external candidates entering the base, not CC's decisions within it.)
-
-**ZRHCP acquisition dropped (decision).** The acquire pass had parked one blocked item — the ZRHCP
-ISR Seq 2 (P503941), 403 to automated fetch — in a new `acquisitions.md` section, and opened
-contradiction `zrhcp-subcomponent-1-2-card-count-and-cost`. Parking a hand-clip chore is exactly
-what the drop rule forbids. Actioned: **dropped the ISR** from the queue; `acquisitions.md` reset to
-its empty state (acquired docs are in `raw/` via the batch below). The **contradiction stays open** —
-it is a genuine PAD-vs-ESMF dispute, both values held, legitimate reconcile work; its resolution path
-was repointed off the dropped item to "attempt other routes, else carry as a dated unreconciled
-statement." No carve-out added to ACQUIRE.md: a blocked tie-breaker drops, and the contradiction it
-would have settled closes as a dated absence — the designed outcome.
+Checked CLAUDE.md → reference.md → RECONCILE/ACQUIRE → sweep → READMEs. Fixes: reference.md no longer
+"not yet written"; stale "sweep or hand-clip" phrasing corrected in 3 files; RECONCILE now deletes
+`research/` at pass end; sweep's status line, a `gaps.md` route and an issue-number citation stripped.
+**Ruling:** the human promote-gate `new-queue/ → new/` stays (the one manual step; gates raw sweep
+candidates, not CC decisions) — reference.md §7 corrected to match.
+**ZRHCP:** acquire had parked the 403-blocked ISR + opened a contradiction. Dropped the ISR per rule;
+contradiction stays open (genuine PAD-vs-ESMF dispute).
 
 ## 2026-07-20 — Ingest: the acquisition batch (50 documents, 12 workers)
 
@@ -293,44 +271,14 @@ both are failures of the same discipline.
 
 ---
 
-## 2026-07-20 — Rule change: lint acts and logs, no longer reports
+## 2026-07-20 — Lint rewritten: acts and logs, no longer reports
 
-`reference.md` §11 rewritten. Lint was defined as "flag for X" on every check — built to hand Bill
-a pile. Now it acts, in git, and logs a count; a wrong auto-fix is a revert, not a review queue.
-Same discipline already applied to gaps, reconcile and acquire; it had not been carried into lint.
-
-The 13 checks split three ways:
-- **Auto-fix** (mechanical, one right answer): #1 schema, #2 vocabulary, #4 orphans/dead-links,
-  #5 tagging, #7 duplicate drop/replace, #11 date prefix, #12 link-list, #13 quarantine leaks.
-- **Auto-resolve onto the page** (no queue): #3 freshness/currency, #6 inadmissible-source
-  downgrade, #8 page bloat. A known vacuum becomes a dated statement on the page.
-- **Surface to Bill** (the only output): #9 genuine contradictions → `contradictions/open/` for the
-  next reconcile; #10 stranded `new/` items (reported, not ingested — that's a separate pass).
-  Nothing else. **Equal duplicates are not surfaced** (Bill, 2026-07-20): where neither copy is
-  better, #7 keeps the first by filename and drops the other — which one survives does not matter.
-
-Two carve-outs kept explicit so the auto-fixers don't overreach: #5 does not over-tag mere mentions
-(CLAUDE.md's actors-not-mentions rule), and #8 exempts place-hub **Recent developments** sections,
-which are meant to be dated logs.
-
-Net: a full lint run now cleans up after itself and ends in a tally plus at most a handful of true
-judgment calls, instead of a report to work through.
-
-## 2026-07-20 — Decision: three lint checks added for today's new failure modes
-
-Today's changes created three failure modes the lint didn't cover. Added to `reference.md` §11:
-
-- **#13 Quarantine leaks** — a `wiki/` page citing `contradictions/research/`, `queries/results/`,
-  or any `DO-NOT-INGEST` file. New because the reconcile pass left ~80 research scratch files on
-  disk; this is the leak the quarantine exists to stop. **Run it right after the acquisitions
-  ingest.**
-- **#6** extended — flag a source that re-renders the wiki's own pages back as an external
-  publication (the anti-circularity clause added to `reference.md` §5a today).
-- **#3** extended — flag a USD figure not written as a dated conversion, or money not in the
-  announcing party's currency (the ISSUE-025 currency decision).
-
-Not added: nothing for the two-attempt contradiction limit or out-of-scope deletion — both are
-procedure, not a checkable page state.
+`reference.md` §11 rewritten from "flag for X" to act-and-log. 13 checks split: **auto-fix** (#1,2,4,5,7,11,12,13),
+**auto-resolve onto the page** (#3 freshness/currency, #6 inadmissible, #8 bloat), **surface only** #9 real
+contradictions + #10 stranded `new/`. Equal duplicates auto-settled by #7 (keep first, drop other), not
+surfaced. Carve-outs: #5 won't over-tag mentions; #8 exempts Recent developments.
+Also added earlier: **#13 quarantine leaks** (page citing `research/`/`results/`/DO-NOT-INGEST — run after any
+ingest), **#6** anti-circularity, **#3** USD-not-dated-conversion.
 
 ## 2026-07-20 — Reconcile pass: `open/` drained, 49 → 0
 
@@ -457,74 +405,21 @@ was run afterwards as a fifteenth worker. The miscount was mine, not a worker's.
 
 ## 2026-07-20 — Registers deleted: `gaps.md`, `issues.md`, `entity-backlog.md`, `watch.md`
 
-Bill's instruction, on being told the consequence. `gaps.md` was already triaged to zero open items.
-The other three were not: **`issues.md` held 15 undecided items** (including ISSUE-034/035/036 from the
-same day's triage), `entity-backlog.md` a mint list, `watch.md` a set of dormant triggers. All are
-**deleted undecided**, recoverable only from git — checkpoint commit `b33a91f` records their final
-contents, since three carried uncommitted changes that `git rm -f` would otherwise have destroyed outright.
+Bill's instruction. All four deleted (git `b33a91f` holds final contents); `issues.md`'s 15 items deleted
+undecided — no pending-decision register survives. 5 wiki pages + `acquisitions.md` that pointed at them
+rewritten to dated "not established as of 2026-07-20" statements. 43 queued briefs promoted to `open/`;
+`queued/` removed. `reviews/` = `acquisitions.md` + `contradictions/{open,done,research}` only.
 
-This is consistent with the rewrite: there is no pending-decision register, and an item closable by
-neither `contradictions/` nor `acquisitions.md` "isn't work; it's a horizon".
+## 2026-07-20 — CLAUDE.md rewritten (52KB → 9.5KB), principles-first
 
-**Consequential edits made rather than left dangling.** Five wiki pages and `acquisitions.md` pointed at
-now-deleted files. Rather than leave dead pointers, each was converted to what the rewrite asks for — a
-**dated statement of what isn't established**, on the page it bears on:
-
-- `car-national-datacentre`, `mytgpt`, `nigerian-exchange`, `orange`, `mauritius--tech-ai` — "see
-  `reviews/gaps.md`" → "unknown / not held / unconfirmed **as of 2026-07-20**".
-- `acquisitions.md` — its exit rule routed unobtainable documents to `watch.md`; now records the absence
-  on the page it bears on, dated.
-
-**Also recorded:** the 43 queued contradiction briefs were promoted to `open/` (staged as renames, so
-nothing was lost with the directory) and `reviews/contradictions/queued/` is removed. `reviews/` now holds
-`acquisitions.md` and `contradictions/{open,done,research}` only.
-
-**Open contradictions: 49** (50 files in `open/`, one of which is its README).
-
----
-
-## 2026-07-20 — CLAUDE.md replaced with the draft rewrite (52KB → 9.5KB)
-
-Bill replaced `CLAUDE.md` with `CLAUDE.draft.md` — a principles-first rewrite, 82% shorter.
-Logged here because a rule change is worth reading rather than discovering.
-
-**What changes in how CC works.**
-- **"Act. Log after. Never ask."** No pending-decision register. Where CC would have asked, it takes
-  the more conservative option, does it, and records it here under **Decisions**.
-- **Two queues only — `contradictions/` and `acquisitions.md`.** Anything closable by neither "isn't
-  work; it's a horizon", and belongs on the relevant page as a **dated statement of what isn't
-  established**.
-- **Entity tagging is no longer exhaustive.** Tag an entity only if it has a page, is on the
-  watchlist, or is *an actor in the development the source reports* — three to six per source, not
-  twenty. Tag institutions, not officeholders.
-- **Duplicates gain a `replace` outcome**, and **a later better source displaces an earlier one** —
-  quality beats primacy, but only on a clear tier upgrade.
-- **Depth on demand.** Even coverage of 54 states × 36 topics is explicitly abandoned as the engine
-  of an unmanageable backlog; thin coverage where nobody is writing is *correct*, not a gap.
-- **Status line becomes** `contradictions - NN ; acquisitions - NN ; decisions logged - NN`.
-- **No new rule without deleting one.** No citing issue numbers or past rulings inside the rules.
-
-**Known consequence, not actioned.** The swap was made without `wiki/reference.md`, which the draft
-names as the new home for the operational detail — frontmatter schemas for all five page types, the
-12 lint checks, sweep-intake rules, the filing-rules sequence, dead-link triage bands and
-page-hygiene thresholds. That detail now lives only in git history (this file's parent commit).
-Bill directed the swap on that basis.
-
-**Also orphaned:** `reviews/issues.md` (12 items) and `reviews/gaps.md` (131 items, of which 9 were
-added by today's ingest minutes before the swap) have no standing under the new model. Under the new
-rules most gaps are either **acquisitions** (a specific document to fetch) or **dated statements of
-what isn't established** on the page itself; issues are decisions CC should now simply take and log.
-Left in place pending Bill's direction — re-routing 143 items is not a side effect of a file swap.
-
----
+Act-log-never-ask; two queues only; entity tagging non-exhaustive (actors/institutions, not mentions/
+officeholders); duplicates gain `replace` on tier upgrade; depth-on-demand; no-new-rule-without-deleting.
+Swapped before `reference.md` existed — operational detail was in git history until reference.md was written
+(below).
 
 ## 2026-07-20 — Log ordering corrected
 
-Today's reconcile-pass and ingest entries were **appended to the foot** of this file, against its own
-"newest entries at the top" convention. Both moved to the top, newest first. Mechanical; no content
-changed.
-
----
+Today's entries had been appended at the foot against the newest-at-top convention; moved to top. Mechanical.
 
 ## 2026-07-20 ingest — the reconcile pass's 74 primaries drained from `new/`
 
@@ -830,37 +725,9 @@ when the clips land in `raw/`.
 
 ## 2026-07-20 — **Rule change:** CLAUDE.md rewritten; decisions now actioned, not queued
 
-**In force from 2026-07-20.** `CLAUDE.md` replaced (6,500 → ~1,400 words). Bill's directive:
-the project was drifting toward manual review and fine-tuning rather than pragmatic automation,
-and the fix is philosophical, not procedural.
+Fuller companion to the CLAUDE.md-rewritten entry above; rule content not repeated here.
 
-**What changed.**
-- **Act, log after, never ask.** CC makes judgment calls the rules don't settle, actions them, and
-  records them under **Decisions**. Bill reverts what he disagrees with. Git is the safety net.
-- **`reviews/issues.md` abolished.** A pending-decision register is the thing being removed. The
-  15 open issues were decided today (below) rather than carried.
-- **Registers 5 → 2.** `contradictions/` and `acquisitions.md`, both drained by CC. `gaps.md`,
-  `issues.md`, `entity-backlog.md`, `watch.md` and `contradictions/queued/` all go. Horizons move
-  onto the page as dated statements of what isn't established, where they are findings rather than
-  chores.
-- **Depth on demand** replaces even coverage. Thin coverage of a country nobody is writing about
-  is now the correct state, not a gap.
-- **No new rule without deleting one**; nothing untouched in a month is kept; no citing issue
-  numbers inside the rules — that back-referencing is how the file became case law.
-- **Duplicates tightened** (Bill): admitted only if they *substantially* add value; a later,
-  better source **replaces** an earlier held one on a tier upgrade — quality beats primacy;
-  keep-both becomes rare.
-- **Entity tagging bounded** (Bill): tag the actors, not every mention — has a page, on the
-  watchlist, or an actor in the development reported. Three to six per source, not twenty.
-  **Institutions, not officeholders.** Untagged names stay greppable in the verbatim body and are
-  backfilled when they start to matter. Ingest cost drops from O(mentions) to O(actors).
-- **Currency:** money is carried in the announcing party's own currency, USD as a dated
-  conversion (folded into the existing dated-figure rule rather than added as a new one).
-
-### Decisions
-
-All 15 open issues resolved on CC's own recommendations under the new rule. Two departed from the
-recommendation as written; both are noted.
+### Decisions — 15 open issues resolved on CC's recommendations (2 reversed)
 
 - **ISSUE-036 — superseded.** The proposed five-register amendment is moot: the rewrite went
   further and cut to two. Closed unactioned.
@@ -913,253 +780,34 @@ recommendation as written; both are noted.
 - The translated-page date lint (ISSUE-024) — at least two known DHIS2 French pages.
 - SBTi entity page (ISSUE-034) — next entity pass.
 
-### Correction, same day — abolished registers left live on disk
+### Process rework, same day (narrative now lives in the files themselves)
 
-Bill stopped a CC session that had begun working `reviews/issues.md`. **He was right to.** The
-15 issues had already been decided and logged above, but CC logged the decisions and left
-`issues.md` on disk with every item still reading `*Decision:* (awaiting)` — so any agent reading
-that file would reasonably have re-decided all 15, without sight of this entry, and possibly
-differently. Abolishing a register in the log while leaving it live on disk is not abolishing it.
-
-**Rule learned, and it generalises:** a file's *contents* are its state. Deletion may need Bill,
-but emptying does not — CC closes a register the moment it is abolished, in the same pass, rather
-than logging an intention and handing over a `git rm`. Same principle as `new/ → raw/`, where the
-folder is the state.
-
-Actioned: `issues.md` overwritten with a tombstone pointing here and instructing any agent that
-reads it to stop. `entity-backlog.md` and `watch.md` — which were live-looking worklists with the
-same trap — headed as **closing files**, drain-then-delete, do not append. `contradictions/queued/`
-already carries a README saying nothing there is worked until promoted.
-
-### `RECONCILE.md` written — reconcile takes the whole folder, no tranching
-
-**Bill's correction (2026-07-20):** tranche selection was CC's caution, introduced when a pass was
-believed to be running concurrently. It survived as a manual gate — the opposite of the direction
-of travel. Withdrawn. **"Run reconcile" takes every item in `open/`**; if CC finds itself asking
-which items to do, the answer is all of them. Precedent supports it: the 2026-07-20 pass researched
-34 in one go.
-
-`reviews/contradictions/RECONCILE.md` now holds the loop — read brief, research externally via Exa,
-ingest primaries through `new/`, apply the resolution dated, move to `done/` as the last step so an
-interrupted pass resumes cleanly. Plus: the two-attempt limit and what to write on the page when an
-item won't close; re-routing an item that turns out to be a document the wiki simply lacks; the
-cite-only-what-you-hold discipline; and the one-pass-at-a-time concurrency rule. Tranche language
-struck from `open/README.md`.
-
-This closes the asymmetry noted earlier — the sweep had `daily-README.md` and reconcile had nothing
-since `reconcile_review.md` was deleted.
-
-### `wiki/reference.md` written — the operational detail has a home again
-
-~5,000 words / 33KB, extracted from `reference-source.md` and verified against the live tree.
-Twelve sections: facets and vocabularies, folder structure, filenames, frontmatter schemas, the
-entity page bar, filing rules, sweep intake, page hygiene, dead-link triage, query workspace,
-lint checks 1–12, weekly digest. Schemas, field vocabularies and numeric thresholds transcribed
-verbatim, not paraphrased.
-
-**Adapted where the old detail contradicted the new principles** (each marked in-file): the lint
-duplicate-keeper ladder yields to CLAUDE.md's drop/replace/keep-both; exhaustive tagging yields to
-tag-the-actors, leaving only the *paging* bar (≥3 sources / watchlist / central instrument), the
-watchlist file, the entity pass and tag-drift slug merging; the sweep's "only the human promotes"
-becomes CC promotes and logs, with the containment boundary kept as the load-bearing half; filing
-step 8's structural-gap check becomes acquisitions-or-horizon routing.
-
-**Added back** after review of the extraction, as §5a: academic work admissible on content with
-single/student authorship no grounds for rejection; the two anti-circularity clauses (never ingest
-a publication that re-renders the wiki's own pages; trace an analysis's factual claims to the
-primaries and cite the piece for its analysis); and external published standards are `instrument`
-sources, distinct from the wiki's own config files.
-
-**Three loose ends surfaced by the extraction — all resolved by Bill, 2026-07-20.**
-
-1. **`reconcile_review.md`** was the procedure that fixed contradictions. It is gone and its job is
-   now done inline: `reference.md` §6 step 7 plus `contradictions/open/README.md`. No standalone
-   runbook needed; the dangling references are dropped rather than restored.
-2. **`new-queue/done/` is Bill's** — human-owned. Documented as such: CC does not read, write,
-   drain or tally it.
-3. **`sweep/recapture/` is spent tooling** from the one-off 2026-07 verbatim re-capture run
-   (`run.log`: 1,007 of 1,013 processed) — `run.py`, `retry.py`, `extract.py`, `progress.sh`,
-   `ledger.csv`, `done/exa-recovery.csv`. Bill did not recognise it. Documented as spent: the
-   ledger carries provenance on which held sources were re-captured, the scripts are reusable for a
-   future bulk re-capture, nothing reads it on a normal pass. A deletion candidate under the month
-   rule; git holds it either way.
-
-Also closed: the South Sudan NIPS filename — **Bill deleted the file**, so the ISSUE-031 rename is
-done and drops off the handover list.
-
-### **Rule change:** six rules restored to `CLAUDE.md` after diffing the rewrite
-
-Old file recovered from `f7f5104` to `wiki/reference-source.md` and diffed against the rewrite.
-The compression had dropped real invariants. Restored, as principles:
-
-1. **Out of scope is rejected and deleted, not parked** — Bill's own hand-written rule (ISSUE-022),
-   entirely absent from the rewrite. Without it, off-topic first-hand clips silt up `_leads/`.
-2. **The sweep writes only to its own staging folder** — never straight to `new/`, `raw/` or
-   `wiki/`. Containment kept; the old "only the human promotes" half **not** restored, as it
-   contradicts act-and-log. Flagged to Bill.
-3. **CC cites only links it actually holds** — anti-confabulation; never suggest a source from
-   your own knowledge as though the wiki held it.
-4. **Capture is not endorsement.**
-5. **Structural facts are not dated** — the carve-out from the dated-figure rule, whose loss
-   invited spurious dating of laws and treaty terms.
-6. **Never re-derive at query time what a compiled page holds**, and reconcile research is working
-   material until ingested as a primary.
-
-Net +~150 words. These are restorations, not new rules, so the no-new-rule-without-deleting-one
-discipline is not engaged.
-
-**Left out deliberately**, as operational rather than principle, and queued for `wiki/reference.md`:
-index maintenance, cross-linking, dead-link triage bands and the tag-only whitelist, tag-drift slug
-merging, the external-standards-are-not-discards distinction, `last_reviewed` semantics, the
-paywalled-stub promotion gate, and place-page "Recent developments".
-
-**Ruled (Bill, 2026-07-20):** "Recent developments" stays. The no-chronology rule now carries an
-explicit exception — place hubs keep a dated, reverse-chronological Recent developments section;
-everywhere else events live in the dated source pages. Restored to `CLAUDE.md`.
-
-**Method note:** the rewrite was drafted without the old file ever being read. Compressing 6,500
-words to 1,400 unverified was the error; the diff should have been part of the rewrite, not a
-recovery from it.
-
-### Commit-attribution note — two commits silently carry `CLAUDE.md` changes
-
-`git log --oneline -- CLAUDE.md` shows four commits touching the constitution; only **1e7b289**
-is labelled as a constitution change. The other two swept in `CLAUDE.md` edits via `git add -A`
-under unrelated messages:
-
-- **f7f5104** ("reconcile pass") carries **Bill's own hand-edits to the old file** — ISSUE-019
-  (newsletter digests discarded), ISSUE-021 (paid placement inadmissible), and an
-  out-of-scope→delete rule. These were already in the working tree when that session opened.
-- **b33a91f** ("checkpoint") carries the **currency-conversion clause**, which was CC's
-  deliberate edit under the ISSUE-025 decision and is logged above. Correctly authored, wrongly
-  packaged.
-
-**Decision: leave the history, correct it here.** Amending is not `--amend` — these are not the
-last commit, so it means an interactive rebase, which rewrites every subsequent hash. **b33a91f
-is cited in this log as the recovery point for the deleted registers**, so rebasing would
-invalidate that pointer in the act of correcting the label. The content is right; only the
-packaging is wrong. Record the conflict, don't erase it.
-
-**Process fix:** stage explicit paths, never `git add -A`, in any session that might be running
-alongside another. And run **one** CC session against this vault at a time — every defect logged
-today (the stale `open/README.md`, the abolished-register race, these two commits) came from
-concurrency, not from the new rules.
-
-**Follow-on risk, more serious than the labels.** f7f5104 proves Bill had hand-edited the old
-`CLAUDE.md`. The rewrite was drafted **without the old file ever having been read end to end** —
-it was not in that session's context. Two of the three known hand-edits survive in the new file
-(digests, paid placement); the **out-of-scope→delete rule does not appear** and looks dropped,
-and there may be further losses that cannot be seen without the original. The first job of
-`wiki/reference-source.md` is therefore **a diff against the rewrite to find what the shortening
-threw away** — extracting schemas is the second job, not the first.
-
-### Disk audit, same day — two stale artefacts fixed
-
-Bill asked for a check of what is actually on disk. Result: the abolished registers are **gone**
-(`gaps.md`, `issues.md`, `entity-backlog.md`, `watch.md`, `contradictions/queued/`), the 43 briefs
-were promoted into `open/`, `new/` is empty, and `CLAUDE.draft.md` is gone. Two stale artefacts
-found and corrected:
-
-- **`contradictions/open/README.md`** was the old `queued/` README, carried in with the promoted
-  briefs. It told any agent reading it that *"nothing here is worked until it is promoted"* — i.e.
-  it disarmed the only live worklist in the vault. Rewritten as the `open/` README: everything
-  there is live, take a tranche, two failed attempts then state the position on the page and close.
-- **`CLAUDE.md`** still carried the draft header — *"Not in force until Bill replaces CLAUDE.md
-  with it"* — inside the file that is now in force, and pointed at a `wiki/reference.md` that does
-  not exist. Corrected, with an explicit instruction not to invent schema until it does.
-
-Both are the same failure as the `issues.md` one logged above: a file's contents are its state,
-and a file that moves must have its self-description moved with it.
-
-### Handed to Bill (CC cannot delete or move files)
-
-- `git rm reviews/gaps.md reviews/issues.md reviews/entity-backlog.md reviews/watch.md`
-- `git rm -r reviews/contradictions/queued/` — **after** promoting the 43 briefs into
-  `contradictions/open/`, or they are lost.
-- Rename `raw/2025-02-07 South Sudan launches first national instant payment system (NIPS).md`
-  to `...South Sudan launches NIPS project (system never went live).md` or similar (ISSUE-031).
-
-### Blocked
-
-`wiki/reference.md` was not written. The retained schemas, lint checks and sweep procedure live
-only in the superseded `CLAUDE.md`, now in git history, and CC has no shell in this session to
-recover it. Writing it from memory would fabricate the very details it exists to pin down.
-Recover with `git show HEAD~1:CLAUDE.md > wiki/reference-source.md` and CC will cut it down.
+- **Registers closed on disk, not just in the log** — a file's contents are its state; emptying
+  doesn't need Bill even if deletion does. `issues.md` tombstoned; `entity-backlog.md`/`watch.md`
+  headed drain-then-delete.
+- **RECONCILE.md written** — whole-folder loop, two-attempt limit, one-pass-at-a-time; tranching struck.
+- **reference.md written** (~33KB, 12 sections) — schemas/thresholds verbatim; four spots adapted to the
+  new principles; §5a added back (academic work, anti-circularity, external standards).
+- **Six dropped rules restored to CLAUDE.md** after diffing the recovered old file (`f7f5104`):
+  out-of-scope→delete, sweep containment, cite-only-held-links, capture≠endorsement, structural-facts-
+  not-dated, no-requery-of-compiled. "Recent developments" exception restored.
+- **Two commits (`f7f5104`, `b33a91f`) silently carried CLAUDE.md edits** via `git add -A`. Left as-is
+  (rebase would break `b33a91f` as the register-recovery pointer); fix = stage explicit paths, one
+  session at a time. Every defect today traced to **concurrency**, not the new rules.
+- Loose ends resolved: `reconcile_review.md` gone (inline now); `new-queue/done/` is Bill's;
+  `sweep/recapture/` is spent tooling; South Sudan NIPS file deleted by Bill.
 
 ---
 
-## 2026-07-20 — Register triage: `gaps.md` split four ways (102 → 0 open)
+## 2026-07-20 — Register triage: `gaps.md` split (superseded hours later)
 
-**Curator directive (2026-07-20):** Bill judged the gap register manually unmanageable at
-**102 open items** and directed a rework, suggesting gaps be treated as contradictions and
-those that cannot be reconciled discarded or logged for later. Actioned, with one refinement
-raised and adopted: sorting the 102 showed **four** distinct kinds of work, not two, and the
-"acquisition" family in particular is wrongly shaped for the reconcile pass — reconcile is an
-Exa research pass, and ~40 of the items needed a *fetch*, not an investigation.
-
-**Diagnosis.** `gaps.md` had an entrance and no exit. CLAUDE.md forbade CC from actioning any
-item, and no other process could close one, so anything absence-shaped accreted there
-indefinitely. Symptoms visible in the file at triage: **duplicate IDs** (`GAP-AGO-001`,
-`GAP-KEN-001`, `GAP-LBY-001`, `GAP-LSO-001`, `GAP-CMR-001` each used twice), **placeholder IDs**
-(~28 items filed as `GAP-XXX-00X`), **content duplication** between the two 2026-07-20 sections
-(SSD/SEN/MWI items filed twice), and one item (`GAP-CMR-001`, Cameroon DP bill status)
-**answered by a later entry in the same file** and never closed.
-
-**Split.**
-
-| Destination | Items | Kind | Worked by |
-|---|---|---|---|
-| `reviews/entity-backlog.md` | 27 | entity referenced, no page | CC, entity pass (tier-2) |
-| `reviews/acquisitions.md` | 40 | specific known document unheld | fetch / hand-clip / sweep |
-| `reviews/contradictions/queued/` | 43 | claim needs a source or status | reconcile, **in tranches** |
-| `reviews/watch.md` | 20 | answer does not yet exist | dormant until trigger fires |
-| `reviews/issues.md` | 2 | judgment call | Bill (ISSUE-034, ISSUE-035) |
-| `reviews/gaps.md` | 0 | genuine research lead for Bill | Bill |
-
-Counts exceed 102 because several items split across destinations (e.g. `GAP-SDN-002` = a page
-mint **plus** a date verification) and duplicates were merged.
-
-**New registers.**
-- **`entity-backlog.md`** — page-minting jobs the written rules already determine; **not gaps**,
-  since no human decision is pending. Split into *mint from material already held* (Teraco, SASSA,
-  Bank of Tanzania, DNRPC, Wananchi, Zain Group, Somalia NDC), *mint once a primary lands*, and
-  *mechanical fixes* (the `sita` / `sita-aero` namespace collision; the missing companion source
-  page for the Uganda data-centre PDF, a live breach of the Filenames rule).
-- **`acquisitions.md`** — a shopping list. Items marked `[blocked]` (403, bot-block, cookie wall,
-  JS shell, fetch-size limit) or `[untried]`. Now the **largest real backlog** in the vault, and
-  previously invisible as such because it was mixed in with research leads.
-- **`watch.md`** — items no research can close: awaiting an event (Liberia's DP law, Madagascar's
-  CMIL, Zimbabwe SI 76 commencement), outcome unknown (Tunisia biometric issuance, South Sudan
-  NIPS), or never published (SASSA's alternative-identification cohort, ANRPTS usage statistics,
-  Zambia's post-2018 survey figure). Each carries a **re-check trigger**. Noted on the file: a
-  watch item is not permission to leave a page silent about a known vacuum — load-bearing
-  absences should be *stated and dated* on the page.
-- **`contradictions/queued/`** — 43 provenance-hunt briefs written in the standard wiki-agnostic
-  format, each citing **only source URLs the wiki actually holds** and saying so explicitly where
-  none is on file. Staged rather than filed straight into `open/` so a single reconcile pass is
-  never handed the whole queue; Bill promotes in country/batch tranches. A pattern worth
-  recording: for the **majority** of these the wiki holds no source URL at all for the claim, only
-  the second-hand mention that introduced it — they are provenance *voids*, not disputes between
-  competing sourced values.
-
-**Disposal rule adopted** (the fix for the accretion): an item unresolved after **two** reconcile
-attempts, or passed over twice by Bill, closes to `watch.md` with a re-check trigger and stops
-counting against the live queue. A question unanswerable twice is a horizon, not a backlog.
-
-**Held for ratification.** `CLAUDE.md` still describes the old single register. Under the
-schema-change-control invariant CC does not edit that file silently or as a side effect of another
-task, so the proposed amendment — the five-register model, the disposal rule, step-8 routing by
-kind, and a status line extended to show the acquisition queue — is filed as **ISSUE-036** with
-the exact changes, awaiting Bill's explicit ratification. Until ratified the written rules and the
-files on disk diverge; the work is git-reversible.
-
-**Resolved in passing.** `GAP-CMR-001` (Cameroon personal-data-protection bill enactment status) —
-closed by supersession: enacted 23 Dec 2024 as **Loi n°2024/017**, already recorded as
-[[cameroon-data-protection-law-2024]]. The gazette text remains unheld and moved to
-`acquisitions.md`.
-
-**Not done:** no wiki page was touched, no source ingested, no research run. This was a register
-rework only.
+Bill judged the 102-item `gaps.md` unmanageable (it had an entrance, no exit; also duplicate/
+placeholder IDs and one self-answered item). First sorted into four registers by kind —
+entity-backlog (27), acquisitions (40), queued contradictions (43), watch (20), + 2 issues.
+**This four-register split was itself replaced the same day by the two-queue model** (see the
+CLAUDE.md-rewritten entries above); the intermediate registers were then deleted. Net durable
+outcome: gaps→contradictions/acquisitions, disposal rule = two attempts then a dated absence.
+Resolved in passing: GAP-CMR-001 (Cameroon DP bill = Loi n°2024/017, enacted 23 Dec 2024).
 
 ---
 

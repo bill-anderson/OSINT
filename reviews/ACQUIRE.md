@@ -43,9 +43,8 @@ standing chore. Bill analyses the data; he does not manage the queue.
 
 ## Ending the pass
 
-Append one entry to `wiki/log.md`: documents acquired and ingested, documents
-dropped (with the reason class — paywall, 403, etc.), and pages that gained a
-dated not-held line. Then:
+Append **one terse entry** to `wiki/log.md` (a few lines): counts acquired /
+dropped (with reason class), pages that gained a dated not-held line. Then:
 
 `contradictions - NN ; acquisitions - NN ; decisions logged - NN`
 
