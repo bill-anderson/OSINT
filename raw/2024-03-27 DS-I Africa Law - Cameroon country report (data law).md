@@ -2,7 +2,7 @@
 type: source
 title: "DS-I Africa Law — Cameroon country report (data & health-data law)"
 publisher: DS-I Africa Law (Datalaw.africa)
-url: https://www.datalaw.africa/
+url: https://www.datalaw.africa/wp-content/uploads/2024/03/CAMEROON.pdf
 author: DS-I Africa Law
 published: 2024-03-27
 date_precision: day

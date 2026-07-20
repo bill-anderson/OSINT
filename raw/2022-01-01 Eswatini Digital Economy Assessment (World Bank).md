@@ -1,7 +1,7 @@
 ---
 type: source
 title: Eswatini Digital Economy Assessment
-url: https://documents.worldbank.org/
+url: https://documents.worldbank.org/curated/en/099074503132323149
 publisher: World Bank
 published: 2022-01-01
 date_precision: year

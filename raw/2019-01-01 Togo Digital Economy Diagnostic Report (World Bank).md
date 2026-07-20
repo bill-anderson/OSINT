@@ -1,7 +1,7 @@
 ---
 type: source
 title: Togo Digital Economy Diagnostic Report
-url: https://documents.worldbank.org/
+url: https://documents.worldbank.org/curated/en/704281608649708130
 publisher: World Bank Group
 published: 2019-01-01
 date_precision: year

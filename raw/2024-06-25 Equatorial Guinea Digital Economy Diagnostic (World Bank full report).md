@@ -1,7 +1,7 @@
 ---
 type: source
 title: "Equatorial Guinea Digital Economy Diagnostic (World Bank — full report)"
-url: https://documents.worldbank.org
+url: https://documents.worldbank.org/curated/en/099051724134540301
 publisher: World Bank
 author: World Bank (Camila Mejia Giraldo et al.)
 published: 2024-06-25

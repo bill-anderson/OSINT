@@ -1,7 +1,7 @@
 ---
 type: source
 title: "Toward More People-Centered Service Delivery: Opportunities for the National ID System in Lesotho (World Bank)"
-url: https://documents.worldbank.org
+url: https://documents.worldbank.org/curated/en/099020105272229623
 publisher: World Bank
 author: World Bank
 published: 2024-01-01

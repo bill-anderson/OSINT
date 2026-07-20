@@ -1,7 +1,7 @@
 ---
 type: source
 title: Zambia - Beyond Connections: Energy Access Diagnostic Report Based on the Multi-Tier Framework
-url: https://documents.worldbank.org/
+url: https://documents.worldbank.org/curated/en/477041572269756712
 publisher: World Bank / IBRD (ESMAP Multi-Tier Framework series)
 lens: []
 body_completeness: full

@@ -2,7 +2,7 @@
 type: source
 title: "ST Digital Expands into DRC, Partners with OADC Texaf Kinshasa"
 publisher: ST Digital (press release)
-url: https://www.st-digital.africa/
+url: https://openaccessdc.net/fr/news/st-digital-expands-into-drc-partners-with-oadc-texaf---kinshasa-to-drive-content-delivery
 author: ST Digital
 published: 2024-09-17
 date_precision: day

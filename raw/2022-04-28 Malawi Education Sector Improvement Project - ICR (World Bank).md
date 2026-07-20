@@ -2,7 +2,7 @@
 type: source
 artefact: "2022-04-28-Malawi-Education-Sector-Improvement-Project.pdf"
 title: Malawi Education Sector Improvement Project - ICR (World Bank)
-url: https://documents.worldbank.org/
+url: https://documents.worldbank.org/curated/en/134201651499886937
 publisher: World Bank
 published: 2022-04-28
 date_precision: day

@@ -1,7 +1,7 @@
 ---
 type: source
 title: "SIIPS 2022 Case Study — Pesalink (The State of Instant and Inclusive Payment Systems in Africa)"
-url: https://www.africanenda.org
+url: https://www.africanenda.org/uploads/files/EN_SIIPS_Casestudy_Pesalink.pdf
 publisher: AfricaNenda
 author: AfricaNenda
 published: 2022-01-01

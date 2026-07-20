@@ -1,7 +1,7 @@
 ---
 type: source
 title: Electronic Municipalities in Algeria within the e-Government Strategy (Billeh)
-url:
+url: https://doi.org/10.56334/sei/8.12.46
 publisher: Zahag El Mouatassim Billeh, University of Blida 02 — Science, Education and Innovations in the Context of Modern Problems (Issue 12, Vol. 8, 2025)
 published: 2025-01-01
 date_precision: year

@@ -1,7 +1,7 @@
 ---
 type: source
 title: Terms of Reference / RFP: Eswatini National Data Policy (RFP# 131/SA/RFP/07/2025)
-url: https://smartafrica.org/
+url: https://smartafrica.org/wp-content/uploads/2025/07/RFP-Eswatini-Data-Policy.pdf
 publisher: Smart Africa
 published: 2025-07-25
 date_precision: day

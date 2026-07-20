@@ -11,6 +11,7 @@ lens: []
 body_completeness: full
 page: 
 title: The Irembo model in Rwanda
+url: https://public.digital/pd-insights/signals/signals-5/the-irembo-model-in-rwanda
 author: 
 published: 
 accessed: 2026-07-16

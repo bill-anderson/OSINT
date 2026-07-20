@@ -1,7 +1,7 @@
 ---
 type: source
 title: WB Ethiopia Digital ID for Inclusion and Services Project — Appraisal ESRS (P179040)
-url:
+url: https://documents.worldbank.org/curated/en/099102523122010001
 publisher: World Bank
 published: 2025-02-07
 date_precision: day

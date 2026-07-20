@@ -1,7 +1,7 @@
 ---
 type: source
 title: CRVS Systems Snapshot — Ethiopia (Centre of Excellence for CRVS)
-url:
+url: https://apai-crvs.uneca.org/sites/default/files/resourcefiles/CRVS_EthiopiaSnapshot_e.pdf
 publisher: Centre of Excellence for CRVS Systems (IDRC)
 published: 2020-01-01
 date_precision: year

@@ -2,7 +2,7 @@
 type: source
 artefact: "2023-04-01-Digitalization of Civil Registration and Vital Statistics in Africa.pdf"
 title: Digitalization of CRVS Systems in Africa - Assessment
-url: https://www.afdb.org/
+url: https://apai-crvs.uneca.org/sites/default/files/resourcefiles/Digitalization%20of%20Civil%20Registration%20and%20Vital%20Statistics%20in%20Africa.pdf
 publisher: AfDB & COMESA
 published: 2023-04-01
 date_precision: month

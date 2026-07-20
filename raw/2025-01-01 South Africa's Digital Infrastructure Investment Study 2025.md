@@ -1,6 +1,7 @@
 ---
 type: source
 title: "South Africa's Digital Infrastructure Investment Study 2025"
+url: https://www.dbsa.org/sites/default/files/media/documents/2026-03/South%20Africa%27s%20Digital%20Infrastructure%20Investment%20Study%202025.pdf
 publisher: Africa Analysis (with Ellipsis Regulatory Solutions and Networks Anonymous), for the Development Bank of Southern Africa (DBSA) and National Planning Commission
 date_source: source
 author: Africa Analysis

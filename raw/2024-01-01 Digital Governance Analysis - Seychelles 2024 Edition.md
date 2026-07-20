@@ -14,6 +14,7 @@ places: [SYC]
 topics: [dpi.govtech, gov.policy, gov.protect]
 entities: [[seychelles-digital-governance-report]]
 ---
+<!-- url unrecovered as of 2026-07-20 -->
 
 # Digital Governance Analysis: Seychelles, 2024 Edition
 

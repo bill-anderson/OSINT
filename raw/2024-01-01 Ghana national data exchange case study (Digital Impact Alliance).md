@@ -1,7 +1,7 @@
 ---
 type: source
 title: "Ghana — National Data Exchange Case Study"
-url: https://digitalimpactalliance.org
+url: https://dial.global/research/national-data-exchange-ghana-case-study/
 publisher: Digital Impact Alliance (DIAL)
 author: Digital Impact Alliance
 published: 2024-01-01

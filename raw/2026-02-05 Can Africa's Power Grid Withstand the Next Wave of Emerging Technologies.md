@@ -2,7 +2,7 @@
 type: source
 title: "Can Africa's Power Grid Withstand the Next Wave of Emerging Technologies?"
 publisher: Tech Africa News
-url: https://techafricanews.com/
+url: https://techafricanews.com/2026/02/05/can-africas-power-grid-withstand-the-next-wave-of-emerging-technologies/
 date_precision: day
 date_source: source
 author: Joyce Onyeagoro

@@ -2,7 +2,7 @@
 type: source
 artefact: "2025-05-01-Blueprint-for-Mauritius-2025.pdf"
 title: A Blueprint for Mauritius - Digital Transformation 2025-2029
-url: 
+url: https://mdpa.govmu.org/mdpa/wp-content/uploads/2025/08/Blueprint-for-Mauritius-2025.pdf
 publisher: Government of Mauritius
 published: 2025-05-01
 date_precision: month

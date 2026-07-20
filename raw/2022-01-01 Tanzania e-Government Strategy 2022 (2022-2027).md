@@ -1,7 +1,7 @@
 ---
 type: source
 title: Tanzania e-Government Strategy 2022 (covering 2022-2027)
-url: https://www.utumishi.go.tz/
+url: https://www.utumishi.go.tz/uploads/documents/sw-1688121445-Tanzania%20e-Government%20Strategy%202022.pdf
 publisher: President's Office - Public Service Management and Good Governance (PO-PSMGG), Tanzania
 published: 2022-01-01
 date_precision: year

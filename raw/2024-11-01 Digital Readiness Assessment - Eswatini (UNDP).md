@@ -1,7 +1,7 @@
 ---
 type: source
 title: Digital Readiness Assessment: Eswatini
-url: https://www.undp.org/
+url: https://www.undp.org/eswatini/publications/eswatinis-digital-transformation-progressing-systematically-towards-digital-future
 publisher: UNDP
 published: 2024-11-01
 date_precision: month

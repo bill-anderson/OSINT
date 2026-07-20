@@ -1,7 +1,7 @@
 ---
 type: source
 title: The Digital Transition in Algeria — Challenges and Opportunities (Hammal)
-url:
+url: https://doi.org/10.33704/1748-011-003-037
 publisher: Farida Hammal, University of Algiers 3 (Capital and Performance Research Laboratory)
 published: 2025-12-04
 date_precision: day

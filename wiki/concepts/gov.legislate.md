@@ -73,13 +73,16 @@ localization mandates, and the competition/antitrust angle on cloud concentratio
 - **[[NGA]] competition law meets AI, and a privacy-policy suit (2026-07).** President Tinubu
   directed the **[[fccpc]]** to investigate [[meta]], Alphabet/[[google]], X and generative-AI
   platforms for **abuse of dominance and copyright** (FCCP Act 2018) over uncompensated training
-  on Nigerian journalism, after a Nigerian Press Organisation petition. In parallel,
+  on Nigerian journalism, after a Nigerian Press Organisation petition — **competition and
+  consumer-protection law, not data law**, as the enforceable lever over foreign tech, building on
+  the FCCPC's contested **2025 $222m Meta penalty**. In parallel,
   [[digital-rights-lawyers-initiative]] sued [[inec]] under the
   **[[nigeria-data-protection-act-2023]]** (ss.24/27) for publishing no privacy policy —
   regulation increasingly tested through the courts, not just agencies. See [[gov.protect]],
-  [[nimc]]. Sources:
+  [[tech.industry]], [[nimc]]. Sources:
   [[2026-07-10 Why Nigeria Is Investigating Meta, Google, X and AI Firms]],
-  [[2026-07-10 FIJ Showed That INEC Broke Data Law. Digital Rights Lawyers Sue the Commission 10 Months Later]].
+  [[2026-07-10 FIJ Showed That INEC Broke Data Law. Digital Rights Lawyers Sue the Commission 10 Months Later]],
+  [[2026-07-10 Nigeria tests data sovereignty as foreign tech firms facing probe]].
 - **New statutes and DPAs across smaller states (2026-01→02).** The legislative layer is thickening
   beyond the big markets: **[[ZMB]] Zambia** tabled an **Electronic Government (Amendment) Bill**
   (revising Act No. 41 of 2021) to give **electronic submissions and digital authentication** binding
@@ -138,11 +141,6 @@ localization mandates, and the competition/antitrust angle on cloud concentratio
   [[gov.protect]]. Sources:
   [[2026-04-21 South Africa's digital ID gets a targeted launch date]],
   [[2026-05-29 Opinion South Africa's Digital Identity Regulations A Governance Crossroads]].
-- **Competition regulation over platforms — Nigeria (2026-07).** The FG directed the **[[fccpc]]** to
-  probe alleged anti-competitive conduct by Meta, Alphabet, X and generative-AI platforms —
-  competition/consumer-protection law (not data law) as the enforceable lever over foreign tech,
-  building on the FCCPC's contested 2025 $222m Meta penalty. See [[gov.protect]], [[tech.industry]].
-  Source: [[2026-07-10 Nigeria tests data sovereignty as foreign tech firms facing probe]].
 - **Rewriting the telecom rulebook — Nigeria (2026-05).** The **[[ncc]]** is rewriting Nigeria's
   **National Telecommunications Policy** for the first time since **2000**, stakeholders warning that
   a licensing regime built for voice/SMS no longer fits cloud, AI, data centres and smart cities —

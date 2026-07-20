@@ -1,7 +1,7 @@
 ---
 type: source
 title: "Gambia National Digital Identity Strategy — Strategy Report"
-url: https://mocde.gov.gm
+url: https://policies.gov.gm/d/9c7cefe5-80cf-11ef-b086-029254d29bb1
 publisher: Government of The Gambia (Ministry of Communications and Digital Economy)
 author: Government of The Gambia
 published: 2024-01-01

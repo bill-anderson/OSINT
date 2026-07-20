@@ -1,7 +1,7 @@
 ---
 type: source
 title: Building an Inclusive Payments Ecosystem in Tanzania through TIPS - Case Study
-url: https://www.bot.go.tz/
+url: https://www.bot.go.tz/Publications/Other/Working%20Papers%20Series/en/2025051609501183.pdf
 publisher: Bank of Tanzania and Financial Sector Deepening Tanzania (FSDT)
 published: 2025-05-16
 date_precision: day

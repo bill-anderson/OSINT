@@ -1,7 +1,7 @@
 ---
 type: source
 title: Project Appraisal Document: Seychelles Strengthening the Quality of the Social Protection System Program-for-Results (PAD3541)
-url: https://documents.worldbank.org/
+url: https://documents.worldbank.org/curated/en/441051616983276293
 publisher: World Bank
 published: 2021-03-03
 date_precision: day

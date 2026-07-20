@@ -26,18 +26,21 @@ maintained and queried.
   [[home-affairs-south-africa]], [[dpi.id]], [[south-africa--dpi-id]]. Sources:
   [[2026-01-28 Home Affairs sets new record by delivering over four million Smart IDs in 2025]],
   [[2026-01-27 SA's Telcos, Banks At War With Govt Over 6,500% ID Verification Fee Hike]].
-- **[[ZAF]] South Africa — the population register as an API (2026-04/05).** SA's
-  emerging national ID centres on the **population register** held by Home Affairs
-  inside the **SARS** hosting environment, with **facial recognition** the primary
-  biometric. Draft **Identification Regulations** (gazetted 4 May 2026) would let
-  accredited **"trusted entities"** — banks, telcos, agencies — query the register
-  in real time over **APIs** under Director-General-approved data-sharing
-  agreements, with seven-year access logs. Critics warn there is **no right to
-  erasure**: once enrolled, biometric templates stay indefinitely, and citizens get
-  no visibility into who queried their record. The registry, not the wallet, is
-  where the governance stakes sit. See [[dpi.id]], [[dpi.exchange]], [[gov.protect]].
+- **[[ZAF]] South Africa — the population register as the government-wide key, and as an API
+  (2026-04/05).** SA's emerging national ID centres on the **population register** held by Home
+  Affairs inside the **[[sars]]** hosting environment, with **facial recognition** the primary
+  biometric. SARS Commissioner Kieswetter's **Modernisation 3.0** makes that register the **single
+  source of identity** for ~62m people, folding the **7–8 identifiers** each person now holds (Home
+  Affairs ID, tax number, VAT, hospital number…) into one biometric record to close "arbitrage" gaps.
+  Draft **Identification Regulations** (gazetted 4 May 2026) would then let accredited **"trusted
+  entities"** — banks, telcos, agencies — query it in real time over **APIs** under
+  Director-General-approved data-sharing agreements, with seven-year access logs. Critics warn there
+  is **no right to erasure**: once enrolled, biometric templates stay indefinitely, and citizens get
+  no visibility into who queried their record. The registry, not the wallet, is where the governance
+  stakes sit. See [[dpi.id]], [[dpi.exchange]], [[dpi.govtech]], [[gov.protect]].
   Sources: [[2026-04-21 South Africa's digital ID gets a targeted launch date]],
-  [[2026-05-29 Opinion South Africa's Digital Identity Regulations A Governance Crossroads]].
+  [[2026-05-29 Opinion South Africa's Digital Identity Regulations A Governance Crossroads]],
+  [[2026-04-03 Say goodbye to SARS tax numbers in South Africa]].
 - **[[TZA]] Tanzania — Jamii Namba goes multimodal (2026-04).** [[nida-tanzania]] is
   procuring Phase II of the **Jamii Namba** population register, **adding iris and
   facial** recognition to fingerprints, building a NIDA HQ in Dodoma and expanding
@@ -74,13 +77,6 @@ maintained and queried.
   government identity (legacy cards void by June 2027). Register access is logged and consent-gated
   through the **eRainbow** platform. As of 2026-03-16, **2,373,854 of ~14m** enrolled. See [[dpi.id]],
   [[gov.protect]]. Source: [[2026-03-16 Digital IDs How registration is progressing so far]].
-- **[[ZAF]] South Africa — one register as the single identity (2026-04).** SARS Commissioner
-  Kieswetter's Modernisation 3.0 makes the **population register the single source of identity** for
-  ~62m people, folding the **7–8 identifiers** each person now holds (Home Affairs ID, tax number,
-  VAT, hospital number…) into one biometric record to close "arbitrage" gaps. The register — hosted
-  inside the SARS environment — becomes the government-wide key, reinforcing the API/"trusted
-  entities" stakes above. Entity [[sars]]. See [[dpi.id]], [[dpi.govtech]], [[gov.protect]]. Source:
-  [[2026-04-03 Say goodbye to SARS tax numbers in South Africa]].
 - **[[ZMB]] Zambia — ID plus civil registration on open standards (2026-03).**
   [[smart-zambia-institute]] is procuring a system integrator to deploy a **[[mosip]]**-based
   national ID **integrated with the civil-registration architecture**, built by Zambians on open
@@ -176,10 +172,25 @@ maintained and queried.
   the **cadastre** into an integrated land-management system ([[gabon-ign-fi-cadastre-deal]]); and
   digitalisation of judicial **custody registers** (Méndez Principles). See [[GAB]]. Sources:
   [[2025-08-28-gabon-registre-social-unique]] · [[2025-11-24-gabon-cadastre-modernization-ign-fi]].
-- **[[SEN]] Senegal — Nékkal digitising civil records (2024–2026).** The EU-funded
-  **[[nekkal-programme|Nékkal]]** programme (2021) had digitised **19m+** civil records by 2024;
-  **[[anec-senegal|ANEC]]** reports **15.3m** (2026) — the figures differ by counting base — and has
-  begun health-facility pre-declaration software (Jan 2026). See [[dpi.id]], [[dpi.govtech]]. Sources:
+- **[[SEN]] Senegal — Nékkal, ANEC, and the archive-stock-versus-live-load trap (2024–2026).** Two
+  civil-registration counts circulate and **must not be read as a regression**: they measure different
+  things. The EU-funded **[[nekkal-programme|Nékkal]]** programme (2021) counts legacy paper acts
+  **scanned and indexed out of communal archives** — **19m+ by Jun 2024**, and **10m digitised / 20m
+  indexed** at programme close (**2026-06-29**) against a 30m target — whereas
+  **[[anec-senegal|ANEC]]**'s **15.3m (2026-07-13)** counts records **loaded into the live national
+  database (RNEC)**, a subset of the archive stock. Minister Moussa Bala Fofana drew the distinction
+  himself: "Plus de 19 millions d'actes… sont numérisés et indexés. *Une bonne partie* accessible à
+  partir du Registre national de l'état civil." The live-registration flow is smaller again: ANEC's own
+  deck (Aug 2025) reports ~**20m** acts digitised and indexed against **112,881 (2024)** and **108,233
+  (part-2025)** declarations registered through the live RNEC. ANEC has also begun health-facility
+  pre-declaration software (Jan 2026). *Note two held sources do not reconcile: ANEC gives 20m as
+  "numérisés **et** indexés" with 10m remaining, while the Nékkal closing report (Jun 2026) gives 10m
+  digitised and 20m indexed as distinct totals — most likely Nékkal counting its own contribution rather
+  than the national total, but no held document says so. Note also ANEC's framing is* actes d'état civil
+  *— all civil-status events, not "birth records" as some coverage headlines it.* Separately, the
+  civil-status bill is **"validated", not enacted**: ANEC's deck still lists Council of Ministers
+  validation, National Assembly adoption and the décret d'application as outstanding (Aug 2025).
+  See [[dpi.id]], [[dpi.govtech]], [[senegal--dpi-id]]. Sources:
   [[2024-06-27 Senegal digitizes millions of civil records under the Nekkal program]],
   [[2026-01-28 Senegal plans digital overhaul of civil status system (ANEC)]].
 - **[[SEN]] Senegal — the RNU social registry scales (2024).** The
@@ -284,15 +295,6 @@ maintained and queried.
   [[2026-06-08-pr-cria-comissao-actualizacao-dados-cidadaos-maiores-bdcm]],
   [[2026-06-15-arranca-prova-de-vida-para-actualizacao-do-registo-eleitoral]],
   [[2026-07-01-impressao-do-bi-abrange-todas-as-provincias]].
-- **[[SEN]] Senegal (2026) — two civil-registration counts measure different things.** They must not be
-  read as a regression: the EU-funded **Nékkal** programme reports legacy paper acts **scanned and indexed**
-  out of communal archives (**19m+ by Jun 2024**; **10m digitised / 20m indexed** at programme close,
-  2026-06-29, against a 30m target), whereas **ANEC's 15.3m (2026-07-13)** counts records **loaded into the
-  live national database (RNEC)** — a subset of the archive stock. Minister Moussa Bala Fofana drew the
-  distinction himself: "Plus de 19 millions d'actes… sont numérisés et indexés. *Une bonne partie*
-  accessible à partir du Registre national de l'état civil." A worked example of archive-digitisation
-  totals being mistaken for live-database load. *Note ANEC's framing is* actes d'état civil *— all
-  civil-status events, not "birth records" as some coverage headlines it.* See [[senegal--dpi-id]].
 - **[[ZMB]] Zambia — ZILAS, live 2023-05-17.** Cabinet-approved 2020; migrated from ZILMIS 2023-05-13;
   sixty e-services on the Government Service Bus. Predecessor **ZILMIS ran nine years (2014–2023) with its
   maintenance contract expired since 2022-03-31** — the ministry ran the national land register
@@ -304,14 +306,6 @@ maintained and queried.
   payoff: a reliable population database would let CAR **skip a costly general census**. Financed under
   **P174620 (Public Sector Digital Governance Project)** — **not CARDIP**, and carrying **no data-centre
   component**.
-- **[[SEN]] Senegal — the archive-stock versus live-load gap, in one document.** ANEC's own deck
-  (Aug 2025) reports ~**20m acts digitised and indexed** against **112,881 (2024)** and **108,233
-  (part-2025)** declarations registered through the live RNEC. *Note two held sources do not reconcile:
-  ANEC gives 20m as "numérisés **et** indexés" with 10m remaining, while the Nékkal closing report (Jun
-  2026) gives **10m digitised and 20m indexed** as distinct totals — most likely Nékkal counting its own
-  contribution rather than the national total, but no held document says so.* Separately, the
-  civil-status bill is **"validated", not enacted**: ANEC's deck still lists Council of Ministers
-  validation, National Assembly adoption and the décret d'application as outstanding (Aug 2025).
 
 ## Places
 

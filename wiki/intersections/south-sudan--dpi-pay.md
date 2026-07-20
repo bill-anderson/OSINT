@@ -9,7 +9,7 @@ entities: [[bank-of-south-sudan], [nips-south-sudan], [ssips-south-sudan], [afri
 lens: []
 status: active
 last_reviewed: 2026-07-20
-sources: [[2025-07-19-central-bank-mobile-money-legal-tender-onecitizendaily], [2025-07-22-mobile-money-legal-tender-mixed-reactions-onecitizendaily], [2025-08-15-mobile-money-providers-nationwide-expansion-onecitizendaily], [2025-08-29-boss-safeguard-payment-system-mtn-momo-onecitizendaily], [2026-03-17-itu-dfs-security-lab-eyeradio], [2026-05-20-rtgs-system-uptake-cajnews], [2025-02-05-africanenda-boss-nips-announcement], [2025-10-01-eyeradio-boss-ssips-ats-plus-explainer], [2025-10-10-boss-launches-first-electronic-interbank-payment-system]]
+sources: [[2026-01-19 South Sudan introduces digital payment system for passports after supply crisis], [2026-01-30 Can a digital economy exist in South Sudan without reliable DPI], [2025-07-19-central-bank-mobile-money-legal-tender-onecitizendaily], [2025-07-22-mobile-money-legal-tender-mixed-reactions-onecitizendaily], [2025-08-15-mobile-money-providers-nationwide-expansion-onecitizendaily], [2025-08-29-boss-safeguard-payment-system-mtn-momo-onecitizendaily], [2026-03-17-itu-dfs-security-lab-eyeradio], [2026-05-20-rtgs-system-uptake-cajnews], [2025-02-05-africanenda-boss-nips-announcement], [2025-10-01-eyeradio-boss-ssips-ats-plus-explainer], [2025-10-10-boss-launches-first-electronic-interbank-payment-system]]
 ---
 
 # South Sudan × Digital Payments
@@ -46,6 +46,7 @@ rail (**NIPS**) remains a project, not a live system.
   and Settlement System (SSIPS)**, an **ATS+** platform combining **RTGS** (high-value, urgent, settled
   individually and irrevocably on validation) and **ACH** (bulk, lower-value batch cycles — salary runs,
   utility bills) on the **ISO 20022** messaging standard, replacing paper-based manual interbank process.
+  **13 banks at launch, with all licensed banks mandated by 2026-01-31.**
   Rollout is **phased**, beginning with a select number of banks and onboarding others; security rests on
   encrypted channels, MFA and an isolated network, with a real-time participant credit/liquidity risk
   framework. Governor **Dr Addis Ababa Othow** presided (Cabinet Affairs minister Martin Elia Lomuro
@@ -68,6 +69,11 @@ rail (**NIPS**) remains a project, not a live system.
 - **RTGS uptake (Oct 2025→).** BoSS and the Finance Ministry reported **"exceptional uptake"** of the
   **RTGS** component for real-time bank/government settlement. See
   [[dpi.exchange]]. Source: [[2026-05-20-rtgs-system-uptake-cajnews]].
+- **Cash abolished for passport/ID payments (2026-01).** Payments digitising faster than the rails: cash
+  was abolished for **passport/ID payments** after a supply crisis, but the **missing national digital ID**
+  leaves systems siloed. See [[dpi.id]], [[south-sudan--dpi-id]]. Sources:
+  [[2026-01-19 South Sudan introduces digital payment system for passports after supply crisis]],
+  [[2026-01-30 Can a digital economy exist in South Sudan without reliable DPI]].
 - **DFS Security Lab (2026).** The **[[national-communication-authority-south-sudan|NCA]]** and BoSS,
   with the **ITU** (DFS Knowledge Transfer, Phase 3), stood up a **Digital Financial Services Security
   Lab** to security-test mobile-payment apps and align to international best practice. See

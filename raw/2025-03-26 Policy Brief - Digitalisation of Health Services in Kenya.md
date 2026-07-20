@@ -1,7 +1,7 @@
 ---
 type: source
 title: "Policy Brief — Digitalisation of Health Services in Kenya"
-url: https://www.health.go.ke
+url: https://cipesa.org/wp-content/files/briefs/Policy_Brief_-_Digitalisation_of_Health_Services_in_Kenya-final_26-03-2025.pdf
 publisher: (Kenya health-sector policy brief)
 author: (policy brief)
 published: 2025-03-26

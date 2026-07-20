@@ -15,6 +15,7 @@ lens: []
 body_completeness: full
 artefact: "2025-09-01 The Regulator July-Sept 2025 (Central Bank of Lesotho).pdf"
 ---
+<!-- url unrecovered as of 2026-07-20 -->
 
 # The Regulator — Central Bank of Lesotho (July–September 2025)
 

@@ -1,6 +1,7 @@
 ---
 type: source
 title: "Is the SDG monitoring framework broken?"
+url: https://devinit.org/resources/is-the-sdg-monitoring-framework-broken/
 publisher: Development Initiatives
 date_source: source
 author: [[bill]] and Sam Wozniak

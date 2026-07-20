@@ -10,6 +10,7 @@ lens: []
 body_completeness: full
 page: UniCloud Africa and Benue Digital Infrastructure to build data center in Makurdi, Nigeria - DCD
 title: UniCloud Africa and Benue Digital Infrastructure to build data center in Makurdi, Nigeria
+url: https://www.datacenterdynamics.com/en/news/unicloud-africa-and-benue-digital-infrastructure-to-build-data-center-in-makurdi-nigeria
 author: Niva Yadav
 published: 2024-07-12
 accessed: 2026-07-16

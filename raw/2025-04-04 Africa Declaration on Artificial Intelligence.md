@@ -2,7 +2,7 @@
 type: source
 title: "Africa Declaration on Artificial Intelligence (primary document)"
 publisher: Global AI Summit on Africa (Kigali) — Smart Africa / African Union
-url: 
+url: https://c4ir.rw/docs/Africa-Declaration-on-Artificial-Intelligence.pdf
 published: 2025-04-04
 date_precision: day
 date_source: source

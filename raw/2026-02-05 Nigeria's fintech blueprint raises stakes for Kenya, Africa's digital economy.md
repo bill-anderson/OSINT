@@ -2,7 +2,7 @@
 type: source
 title: "Nigeria's fintech blueprint raises stakes for Kenya, Africa's digital economy"
 publisher: Capital FM
-url: https://capitalfm.africa/
+url: https://www.capitalfm.co.ke/business/2026/02/nigerias-fintech-blueprint-raises-stakes-for-kenya-africas-digital-economy/
 date_precision: day
 date_source: source
 author: Phidel Kizito

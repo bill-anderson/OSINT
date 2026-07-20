@@ -10,6 +10,7 @@ lens: []
 body_completeness: full
 page: Nigeria Makes National ID Number Mandatory for Access to Social Services - ID Tech
 title: Nigeria Makes National ID Number Mandatory for Access to Social Services
+url: https://idtechwire.com/nigeria-makes-national-id-number-mandatory-for-access-to-social-services/
 author: ID Tech Editorial Team
 published: 2025-02-12
 accessed: 2026-07-16

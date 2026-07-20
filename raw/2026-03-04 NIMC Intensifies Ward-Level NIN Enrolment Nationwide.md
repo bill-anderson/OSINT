@@ -10,6 +10,7 @@ lens: []
 body_completeness: full
 page: 
 title: NIMC Intensifies Ward-Level NIN Enrolment Nationwide
+url: https://www.arise.tv/nimc-intensifies-ward-level-nin-enrolment-nationwide/
 author: by Michael Olugbode
 published: 2026-03-04
 accessed: 2026-07-16

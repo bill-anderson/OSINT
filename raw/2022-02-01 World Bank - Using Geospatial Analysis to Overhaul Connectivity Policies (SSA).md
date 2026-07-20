@@ -2,7 +2,7 @@
 type: source
 title: "Using Geospatial Analysis to Overhaul Connectivity Policies: Expanding Mobile Internet Coverage and Adoption in Sub-Saharan Africa"
 publisher: World Bank
-url: https://documents.worldbank.org/
+url: https://documents.worldbank.org/curated/en/099720003142231831
 author: World Bank
 published: 2022-02-01
 date_precision: month

@@ -5,11 +5,11 @@ place: TCD
 topic: dpi.pay
 places: [TCD]
 topics: [dpi.pay, dpi.govtech, finance.new, include.access, gov.policy]
-entities: [[airtel-chad], [moov-africa-chad], [konoom], [cashi-chad]]
+entities: [[airtel-chad], [moov-africa-chad], [konoom], [cashi-chad], [ecobank]]
 lens: []
 status: active
 last_reviewed: 2026-07-19
-sources: [[2026-01-24-budget-2026-zero-cash-zero-papier-fen], [2026-02-17-journaldutchad-paiement-mobile-services-publics], [2026-04-02-wearetech-cashi-sfi-ifc-paiements-numeriques], [2026-06-19-wearetech-konoom-paiements-numeriques-multicanal]]
+sources: [[2024-05-06 Airtel launches mobile money transfers in Chad], [2026-01-24-budget-2026-zero-cash-zero-papier-fen], [2026-02-17-journaldutchad-paiement-mobile-services-publics], [2026-04-02-wearetech-cashi-sfi-ifc-paiements-numeriques], [2026-06-19-wearetech-konoom-paiements-numeriques-multicanal]]
 ---
 
 # Chad × Digital Payments & Fintech
@@ -39,6 +39,11 @@ internet and thin skills**.
   transfers, merchant/bill payments, mass payouts and **QR** acceptance across wallets, bank accounts and
   agents. Its accessibility design deliberately reaches feature-phone users in low-connectivity zones. See
   [[include.access]], [[tech.innovate]]. Source: [[2026-06-19-wearetech-konoom-paiements-numeriques-multicanal]].
+- **Airtel Money (date not established).** **[[airtel-chad]]** launched **Airtel Money** with
+  **[[ecobank]]** (ETI) — phone-as-wallet transfers, bills, fees; registration requires valid
+  identification. **Date not established: the source carries no internal date and is filed
+  `date_source: proxy`; the launch year is unknown and this development must not be dated
+  confidently.** Source: [[2024-05-06 Airtel launches mobile money transfers in Chad]].
 - **Cashi × IFC (Apr 2026).** The fintech **Cashi** partnered the **IFC** to deploy an **interoperable
   payments platform for Central Africa, Chad-first** — accessible by mobile, POS and SMS — to cut cash
   dependence and open formal finance to small businesses and the poorly-connected. See [[finance.new]].

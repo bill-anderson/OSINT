@@ -2,7 +2,7 @@
 type: source
 artefact: "2023-01-01-Malawi-SIIPS2023-Country-Analysis-Consumer-Research-Findings.pdf"
 title: SIIPS 2023 Malawi - Consumer Research Findings
-url: https://www.africanenda.org/
+url: https://www.africanenda.org/uploads/files/SIIPS-2023/Malawi-SIIPS2023-Country-Analysis-Consumer-Research-Findings.pdf
 publisher: AfricaNenda
 published: 2023-01-01
 date_precision: year

@@ -1,7 +1,7 @@
 ---
 type: source
 title: WB Policy Note — Automatic Health Insurance Enrollment for Vulnerable Individuals (Egypt UHI)
-url:
+url: https://documents.worldbank.org/curated/en/099052025143012394
 publisher: World Bank (Health, Nutrition & Population — MENA)
 published: 2025-02-20
 date_precision: day

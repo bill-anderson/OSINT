@@ -1,7 +1,7 @@
 ---
 type: source
 title: "GovTech Case Studies — Lesotho: The National Identification System (World Bank)"
-url: https://documents.worldbank.org
+url: https://thedocs.worldbank.org/en/doc/65175e7d6401c2f8f8b3e582dea933fe-0350062022/original/GovTech-Case-Studies-Lesotho-The-National-Identification-System.pdf
 publisher: World Bank
 author: World Bank
 published: 2024-01-01

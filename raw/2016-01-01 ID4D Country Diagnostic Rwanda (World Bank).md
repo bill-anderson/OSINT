@@ -1,7 +1,7 @@
 ---
 type: source
 title: ID4D Country Diagnostic - Rwanda
-url: https://documents.worldbank.org/
+url: https://documents.worldbank.org/curated/en/257581546882856591
 publisher: World Bank (ID4D)
 published: 2016-01-01
 date_precision: year

@@ -1,7 +1,7 @@
 ---
 type: source
 title: "Présentation du Registre Social Unifié (RSU) — Guinée"
-url: https://mpfepv.gov.gn
+url: https://fdsi.gov.gn/wp-content/uploads/2025/01/Presentation-RSU_FDSI_2025.pdf
 publisher: Ministère de la Promotion Féminine, de l'Enfance et des Personnes Vulnérables (Guinea)
 author: Ministère de la Promotion Féminine, de l'Enfance et des Personnes Vulnérables
 published: 2025-01-01

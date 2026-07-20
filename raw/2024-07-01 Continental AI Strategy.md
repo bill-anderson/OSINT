@@ -1,7 +1,7 @@
 ---
 type: source
 title: "Continental Artificial Intelligence Strategy"
-url: https://au.int
+url: https://au.int/en/documents/20240809/continental-artificial-intelligence-strategy
 publisher: African Union
 published: 2024-07-01
 date_precision: month

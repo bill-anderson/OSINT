@@ -4,12 +4,12 @@ title: Gabon × Digital Payments
 place: GAB
 topic: dpi.pay
 places: [GAB, XCA]
-topics: [dpi.pay, dpi.exchange, include.access, tech.innovate]
-entities: [[madigipaie-gabon], [gabon-visa-partnership-deal], [beac]]
+topics: [dpi.pay, dpi.exchange, dpi.govtech, include.access, tech.innovate]
+entities: [[madigipaie-gabon], [gabon-visa-partnership-deal], [beac], [digitax-gabon], [sigfip-gabon], [uncdf], [visa]]
 lens: []
 status: active
 last_reviewed: 2026-07-18
-sources: [[2025-06-17-gabon-payments-interoperability-gimac], [2025-06-17-gabon-lunion-digital-ecosystem-payments], [2025-07-20-gabon-visa-partnership-public-services], [2026-03-01-gabon-madigipaie-taxigab], [2026-03-03-gabon-lunion-madigipaie-taxigab], [2026-06-28-gabon-lunion-gimacpay-dysfunction], [2026-07-07-gabon-lunion-madigipaie-libreville]]
+sources: [[2025-12-11-gabon-madigipaie-digital-payments-launch], [2025-09-15-gabon-2026-budget-revenue-digitalization], [2025-06-17-gabon-payments-interoperability-gimac], [2025-06-17-gabon-lunion-digital-ecosystem-payments], [2025-07-20-gabon-visa-partnership-public-services], [2026-03-01-gabon-madigipaie-taxigab], [2026-03-03-gabon-lunion-madigipaie-taxigab], [2026-06-28-gabon-lunion-gimacpay-dysfunction], [2026-07-07-gabon-lunion-madigipaie-libreville]]
 ---
 
 # Gabon × Digital Payments
@@ -26,6 +26,14 @@ with public-service payments the spearhead — and adoption frictions starting t
 - **Visa partnership.** The **[[gabon-visa-partnership-deal|Gabon–Visa]]** accord (signed at the Africa CEO
   Forum, May 2025; follow-up in Libreville, 18 Jul 2025) targets **digitalising public services** and
   modernising the state's payment collection — a US-vendor thread (`geopol.usa`).
+- **The wider PFM/e-tax stack.** Alongside **[[madigipaie-gabon|MADIGIPAIE]]** (mobile-money public
+  payments via [[beac]]/GIMACPAY QR, **Dec 2025**) sit **[[digitax-gabon]]**/e-tax (**≥80% of tax
+  revenue digital**) and the **[[sigfip-gabon]]** treasury platform, plus **[[uncdf]]**/**[[visa]]**
+  inclusion deals. See [[dpi.govtech]]. Sources:
+  [[2025-12-11-gabon-madigipaie-digital-payments-launch]],
+  [[2025-09-15-gabon-2026-budget-revenue-digitalization]].
+- **The base.** **4.5m mobile-money accounts end-2024** (**1.6m active**); **54% of adults unbanked**
+  (Findex **2025**). See [[include.access]].
 - **Adoption friction (critical read, 2026-06).** L'Union reported **GimacPay malfunctions** — cross-border
   CEMAC transfers not arriving, slow complaint handling — a rare critical counterpoint to the official
   payments narrative.

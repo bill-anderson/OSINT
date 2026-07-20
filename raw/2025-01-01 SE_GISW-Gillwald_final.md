@@ -1,7 +1,7 @@
 ---
 type: source
 title: "From 'digital divide' to 'digital equality': Unpacking the digital inequality paradox (GISW WSIS+20 special edition)"
-url: https://giswatch.org/
+url: https://www.apc.org/sites/default/files/SE_GISW-Gillwald_final.pdf
 publisher: Association for Progressive Communications (Global Information Society Watch)
 author: Alison Gillwald (Research ICT Africa / University of Cape Town)
 published: 2025-01-01

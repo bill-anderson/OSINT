@@ -15,6 +15,7 @@ lens: []
 body_completeness: full
 artefact: "2023-01-01 NLC-Fit-for-purpose cadastral.pdf"
 ---
+<!-- url unrecovered as of 2026-07-20 -->
 
 # Digitalization of Land Administration in Ghana (Lands Commission)
 

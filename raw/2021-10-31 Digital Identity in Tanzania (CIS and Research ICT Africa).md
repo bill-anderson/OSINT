@@ -1,7 +1,7 @@
 ---
 type: source
 title: Digital Identity in Tanzania - country case study
-url: https://digitalid.design/
+url: https://digitalid.design/RIA_Tanzania.html
 publisher: Centre for Internet and Society (India) and Research ICT Africa
 lens: []
 body_completeness: full

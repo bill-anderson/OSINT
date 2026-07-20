@@ -2,7 +2,7 @@
 type: source
 artefact: "2023-01-01-namibia_digital_finance_ecosystem_assessment_and_strategy-final_0.pdf"
 title: Digital Financing for Sustainable Development - Namibia Ecosystem Assessment & Strategy 2023
-url: 
+url: https://www.undp.org/namibia/publications/digital-financing-sustainable-development-ecosystem-assessment-and-strategy-namibia
 publisher: UNDP (Digital Financing for Sustainable Development)
 published: 2023-01-01
 date_precision: year

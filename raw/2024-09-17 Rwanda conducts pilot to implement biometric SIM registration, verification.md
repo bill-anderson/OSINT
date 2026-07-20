@@ -10,6 +10,7 @@ lens: []
 body_completeness: full
 page: Rwanda conducts pilot to implement biometric SIM registration, verification
 title: Rwanda conducts pilot to implement biometric SIM registration, verification
+url: https://www.biometricupdate.com/202409/rwanda-conducts-pilot-to-implement-biometric-sim-registration-verification
 author: Ayang Macdonald
 published: 2024-09-17
 accessed: 2026-07-16

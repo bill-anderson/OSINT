@@ -10,6 +10,7 @@ lens: []
 body_completeness: full
 page: MTN launches West Africa's largest Tier III data centre with cloud services - Techpoint Africa
 title: MTN launches West Africa's largest Tier III data centre with cloud services to rival Amazon, Google, others
+url: https://techpoint.africa/news/mtn-largest-data-centre/
 author: Bolu Abiodun
 published: 2025-07-01
 accessed: 2026-07-16

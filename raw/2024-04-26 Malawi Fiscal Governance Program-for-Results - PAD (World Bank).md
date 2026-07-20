@@ -2,7 +2,7 @@
 type: source
 artefact: "2024-04-26-BOSIB-85002b6a-f060-4f25-8284-b566248dd77c.pdf"
 title: Malawi Fiscal Governance Program-for-Results - PAD (World Bank)
-url: https://documents.worldbank.org/
+url: https://documents.worldbank.org/curated/en/099050624155539128
 publisher: World Bank
 published: 2024-04-26
 date_precision: day

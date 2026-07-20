@@ -2,7 +2,7 @@
 type: source
 title: "Concerns over South Africa's proposed digital ID system from traditional leaders"
 publisher: Vukani News
-url: https://vukaninews.co.za/
+url: https://vukaninews.co.za/news/2026-03-31-concerns-over-south-africas-proposed-digital-id-system-from-traditional-leaders/
 date_precision: day
 date_source: source
 author: Phiri Cawe

@@ -10,6 +10,7 @@ lens: []
 body_completeness: full
 page: 
 title: Nigeria intensifies efforts to digitalise birth, death registrations
+url: https://dpi.africa/nigeria-intensifies-efforts-to-digitalise-birth-death-registrations/
 author: 
 published: 2025-12-01
 accessed: 2026-07-16

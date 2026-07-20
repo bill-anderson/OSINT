@@ -1,7 +1,7 @@
 ---
 type: source
 title: "Liberia National Identification Registry — Legal Framework & Mandate (presentation)"
-url: https://nir.gov.lr
+url: https://id4africa.com/2024/ps2/PS2-4-Liberia-Final.pdf
 publisher: National Identification Registry (Liberia)
 author: National Identification Registry
 published: 2024-01-01

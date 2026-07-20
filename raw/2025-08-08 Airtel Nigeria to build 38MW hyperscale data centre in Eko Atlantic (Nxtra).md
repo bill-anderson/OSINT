@@ -10,6 +10,7 @@ lens: []
 body_completeness: full
 page: Airtel Nigeria to build 38MW hyperscale data centre - Developing Telecoms
 title: Airtel Nigeria to build 38MW hyperscale data centre
+url: https://developingtelecoms.com/telecom-technology/data-centres-networks/18888-airtel-nigeria-to-build-38mw-hyperscale-data-centre-in-eko-atlantic.html
 author: John Tanner
 published: 2025-08-08
 accessed: 2026-07-16

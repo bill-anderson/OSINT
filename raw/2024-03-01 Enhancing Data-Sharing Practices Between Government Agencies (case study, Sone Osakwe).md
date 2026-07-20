@@ -2,7 +2,7 @@
 type: source
 artefact: "2024-03-01-6572157762993911.pdf"
 title: Enhancing Data-Sharing Practices Between Government Agencies (case study, Sone Osakwe)
-url: https://www.effectivecooperation.org/
+url: https://cseaafrica.org/images/posts/6572157762993911.pdf
 publisher: Sone Osakwe
 author: Sone Osakwe
 published: 2024-03-01

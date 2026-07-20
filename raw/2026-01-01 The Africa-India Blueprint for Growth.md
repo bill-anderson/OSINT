@@ -1,7 +1,7 @@
 ---
 type: source
 title: "The Africa–India Blueprint for Growth"
-url: https://csep.org/
+url: https://csep.org/reports/the-africa-india-blueprint-for-growth/
 publisher: CSEP (with AUDA-NEPAD Africa Policy Bridge Tank)
 author: Pamla Gopaul; Veda Vaidyanathan (eds.); Pria Chetty & Scott Timcke (digital ch.)
 published: 2026-01-01

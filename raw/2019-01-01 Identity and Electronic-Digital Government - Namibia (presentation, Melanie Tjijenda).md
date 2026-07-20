@@ -2,7 +2,7 @@
 type: source
 artefact: "2019-01-01-InF9-3-Melanie-Tjijenda-Namibia-Final.pdf"
 title: Identity and Electronic-Digital Government - Namibia (presentation, Melanie Tjijenda)
-url: https://namibia.un.org/
+url: https://www.id4africa.com/2019_event/presentations/InF9/InF9-3-Melanie-Tjijenda-Namibia-Final.pdf
 publisher: Government of Namibia
 author: Melanie Tjijenda
 published: 2019-01-01

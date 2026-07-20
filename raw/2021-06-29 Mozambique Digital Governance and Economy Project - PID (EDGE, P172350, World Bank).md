@@ -2,7 +2,7 @@
 type: source
 artefact: "2021-06-29-Project-Information-Document-Mozambique-Digital-Governance-Economy-P172350.pdf"
 title: Mozambique Digital Governance and Economy Project - PID (EDGE, P172350, World Bank)
-url: https://documents.worldbank.org/
+url: https://documents.worldbank.org/curated/en/566401624978714983
 publisher: World Bank
 published: 2021-06-29
 date_precision: day

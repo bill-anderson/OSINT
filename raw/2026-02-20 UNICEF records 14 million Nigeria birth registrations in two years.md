@@ -10,6 +10,7 @@ lens: []
 body_completeness: full
 page: UNICEF records 14 million Nigeria birth registrations in two years - Premium Times
 title: UNICEF records 14 million Nigeria birth registrations in two years
+url: https://www.premiumtimesng.com/health/health-news/858238-unicef-records-14-million-nigeria-birth-registrations-in-two-years.html
 author: Agency Report (NAN)
 published: 2026-02-20
 accessed: 2026-07-16

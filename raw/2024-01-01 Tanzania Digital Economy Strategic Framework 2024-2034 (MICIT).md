@@ -1,7 +1,7 @@
 ---
 type: source
 title: Tanzania Digital Economy Strategic Framework 2024-2034
-url: https://www.micit.go.tz/
+url: https://ictc.go.tz/storage/44/01J5TJNDHDVTA3AHVQN9CR6BV7.pdf
 publisher: Ministry of Information, Communication and Information Technology (MICIT), Tanzania
 published: 2024-01-01
 date_precision: year

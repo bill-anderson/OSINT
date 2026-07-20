@@ -225,7 +225,8 @@ money; they are now the substrate for the rest of the financial stack.
   end-December 2008** after a leverage-fuelled 2004–07 rally. **Corrected 2026-07-20:** the widely repeated "investors lost ₦6.96 trillion" mistakes the **closing
 market capitalisation** for the loss. The CBN's contemporaneous account (*CBN Bullion* 32(4), December 2008,
 drawing on SEC/NSE/CBN monthly bulletins) records market cap peaking at **₦12.50tn (February 2008)** and
-closing at **₦6.96tn (31 December 2008)** — a loss of **₦5.55tn, or 44.4%, between March and end-2008**. No
+closing at **₦6.96tn (31 December 2008)** — a loss of **₦5.55tn, or 44.4%, between March and end-2008**;
+the All-Share Index fell **65,653.4 → 31,450.8**. No
 dollar figure is carried: the naira moved from ~₦117/$ to ~₦135/$ across that window, so any single
 conversion is a rate-selection artefact (₦5.55tn is ~$41.0bn at the end-2008 rate, ~$46.8bn at the 2008
 average). The error is not one outlet's — it recurs across Nigerian financial writing since at least 2019, in

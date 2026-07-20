@@ -26,6 +26,9 @@ Inclusion Strategy**, the **National Switch** (the interoperable IPS) and the **
 the common platform beneath nearly every fintech launch below ("every mobile phone becomes a bank
 branch"). See [[gov.standards]].
 
+The national instant-payment switch went **live 2025-02-13** with **7 banks + 2 MNOs**
+(**[[sierra-leone-instant-payment-switch]]**), atop **8.2m** mobile-money accounts (**2023**).
+
 ## Wallets, cards and the cashless push (2025-2026)
 
 - **Vult (Apr 2025).** **Velmie × Metro Cable** launched **Vult** — a multi-currency **wallet + Visa

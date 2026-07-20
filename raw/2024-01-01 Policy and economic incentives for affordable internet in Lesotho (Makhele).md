@@ -1,7 +1,7 @@
 ---
 type: source
 title: "Policy and economic incentives for affordable internet services — Lesotho (Moliehi Makhele)"
-url: https://www.lca.org.ls
+url: https://www.itu.int/en/ITU-T/webinars/amd-iic/20240228/Documents/Moliehi%20Makhele%20.pdf
 publisher: Lesotho Communications Authority
 author: Moliehi Makhele
 published: 2024-01-01

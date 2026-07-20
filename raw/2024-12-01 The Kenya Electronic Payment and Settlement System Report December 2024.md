@@ -1,7 +1,7 @@
 ---
 type: source
 title: "The Kenya Electronic Payment and Settlement System (KEPSS) Report — December 2024"
-url: https://www.centralbank.go.ke
+url: https://www.centralbank.go.ke/wp-content/uploads/2025/01/The-Kenya-Electronic-Payment-and-Settlement-System-Report-December-2024.pdf
 publisher: Central Bank of Kenya
 author: Central Bank of Kenya
 published: 2024-12-01

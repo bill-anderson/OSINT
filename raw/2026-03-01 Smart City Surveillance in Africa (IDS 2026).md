@@ -2,7 +2,7 @@
 type: source
 title: "Smart City Surveillance in Africa: Mapping Chinese AI Surveillance Across 11 Countries"
 publisher: Institute of Development Studies (IDS)
-url: https://www.ids.ac.uk/
+url: https://www.ids.ac.uk/publications/smart-city-surveillance-in-africa-mapping-chinese-ai-surveillance-across-11-countries/
 date_source: source
 author: Wairagala Wakabi and Tony Roberts
 published: 2026-03

@@ -2,7 +2,7 @@
 type: source
 title: "Enterprise Surveys: Benin 2024 Country Profile"
 publisher: World Bank (Enterprise Surveys)
-url: https://www.enterprisesurveys.org/
+url: https://www.enterprisesurveys.org/content/dam/enterprisesurveys/documents/country/Benin-2024.pdf
 author: World Bank
 published: 2024-01-01
 date_precision: year

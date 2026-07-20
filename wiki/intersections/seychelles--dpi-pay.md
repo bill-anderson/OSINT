@@ -9,7 +9,7 @@ entities: [[central-bank-of-seychelles], [seychelles-revenue-commission], [fusep
 lens: []
 status: active
 last_reviewed: 2026-07-19
-sources: [[2026-07-09-nation-src-cheque-phaseout-2028], [2026-06-30-africabusinessinsight-seychelles-upi], [2025-11-21-techafricanews-fusepay-cheques], [2025-11-27-dabafinance-fusepay-preseed], [2026-06-24-seychellestimes-absa-multicurrency-card]]
+sources: [[2024-09-22 Seychelles to phase out cheques for financial transactions from 2025], [2026-07-09-nation-src-cheque-phaseout-2028], [2026-06-30-africabusinessinsight-seychelles-upi], [2025-11-21-techafricanews-fusepay-cheques], [2025-11-27-dabafinance-fusepay-preseed], [2026-06-24-seychellestimes-absa-multicurrency-card]]
 ---
 
 # Seychelles × Digital Payments & Fintech
@@ -20,9 +20,17 @@ products, on top of the CBS's **[[seft-seychelles|SEFT]]** transfers.
 
 ## The cheque endgame
 
-- **CBS phase-out (2024–2026).** The **[[central-bank-of-seychelles]]** set a four-step schedule to stop
-  banks issuing/accepting cheques (individuals from 2025, non-residents through mid-2026) — ~600,000
-  cheques in 2023 vs 10m+ card/SEFT transactions (see [[SYC]] hub).
+- **CBS phase-out (2024–2026), in four dated stages.** The **[[central-bank-of-seychelles]]** is phasing
+  out cheques in **four dated stages**: banks stop **issuing** to individuals **2025-01-01**; stop
+  **accepting** from individuals **2025-05-01**; stop issuing to non-residents **2026-01-01**; stop
+  accepting from non-residents after **2026-05-01**. CBS Director of Financial Inclusion **Liz Julienne**
+  put cheque use at **~600,000 in 2023** against **over 10 million** card transactions *and*
+  [[seft-seychelles]] electronic transfers **combined** in the same period (no SEFT-only volume is
+  held). Consultations raised **financial-exclusion** concerns for cheque-reliant groups and the cost of
+  adopting digital alternatives. **Provenance caveat: the source is `date_source: proxy` — the canonical
+  SNA page returned HTTP 403 and the body is a same-day syndicated copy; the figures above carry that
+  caveat.** See [[include.access]]. Source:
+  [[2024-09-22 Seychelles to phase out cheques for financial transactions from 2025]].
 - **SRC completes it (2026–2028).** The **[[seychelles-revenue-commission|SRC]]** introduced **cheque
   thresholds** for taxes/duties/levies (eff. **13 Jul 2026**) as part of a plan to **discontinue cheques
   entirely by 31 Dec 2028** — pushing taxpayers to digital. Source: [[2026-07-09-nation-src-cheque-phaseout-2028]].

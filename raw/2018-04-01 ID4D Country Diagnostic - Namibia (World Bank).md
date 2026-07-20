@@ -2,7 +2,7 @@
 type: source
 artefact: "2018-04-01-Namibia-ID4D-Diagnostic-WebV042018.pdf"
 title: ID4D Country Diagnostic - Namibia (World Bank)
-url: https://id4d.worldbank.org/
+url: https://documents.worldbank.org/curated/en/922381468196196254
 publisher: World Bank (ID4D)
 published: 2018-04-01
 date_precision: month

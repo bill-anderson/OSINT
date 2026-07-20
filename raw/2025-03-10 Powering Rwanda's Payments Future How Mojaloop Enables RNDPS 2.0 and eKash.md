@@ -10,6 +10,7 @@ lens: []
 body_completeness: full
 page: 
 title: Powering Rwanda’s Payments Future: How Mojaloop Enables RNDPS 2.0 and eKash
+url: https://mojaloop.io/how-mojaloop-enables-rndps-2-0-ekash/
 author: Mojaloop Foundation
 published: 2025-03-10
 accessed: 2026-07-16

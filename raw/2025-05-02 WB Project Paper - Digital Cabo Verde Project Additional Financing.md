@@ -1,7 +1,7 @@
 ---
 type: source
 title: World Bank Project Paper — Digital Cabo Verde Project (Additional Financing)
-url:
+url: https://documents.worldbank.org/curated/en/099051325153531205
 publisher: World Bank / International Development Association (IDA)
 published: 2025-05-02
 date_precision: day

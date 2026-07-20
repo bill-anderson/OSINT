@@ -1,7 +1,7 @@
 ---
 type: source
 title: Digital Identity in Rwanda (CIS / Research ICT Africa case study)
-url: https://digitalid.design/
+url: https://digitalid.design/RIA_Rwanda.html
 publisher: Centre for Internet and Society (CIS) & Research ICT Africa (RIA)
 published: 2021-10-31
 date_precision: day

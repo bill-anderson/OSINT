@@ -10,6 +10,7 @@ lens: []
 body_completeness: full
 page: MTN Nigeria launches data center in Lagos - Connecting Africa
 title: MTN Nigeria launches data center in Lagos
+url: https://www.connectingafrica.com/data-centers/mtn-nigeria-launches-data-center-in-lagos
 author: Matshepo Sehloho
 published: 2025-07-02
 accessed: 2026-07-16

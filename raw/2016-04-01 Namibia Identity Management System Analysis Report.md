@@ -2,7 +2,7 @@
 type: source
 artefact: "2016-04-01-Namibia-Identity-Management-System-Analysis-Report.pdf"
 title: Namibia Identity Management System Analysis Report
-url: https://id4d.worldbank.org/
+url: https://documents.worldbank.org/curated/en/184451466711154296
 publisher: World Bank
 published: 2016-04-01
 date_precision: month

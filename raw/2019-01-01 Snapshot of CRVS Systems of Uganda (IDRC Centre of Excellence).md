@@ -1,7 +1,7 @@
 ---
 type: source
 title: Snapshot of Civil Registration and Vital Statistics Systems of Uganda
-url: https://crvssystems.ca/
+url: https://apai-crvs.uneca.org/sites/default/files/resourcefiles/CRVS_UgandaSnapshot_e.pdf
 publisher: Centre of Excellence for CRVS Systems (IDRC), with UNECA
 lens: []
 body_completeness: full

@@ -10,6 +10,7 @@ lens: []
 body_completeness: full
 page: 
 title: Rwanda’s digital transformation: an effort at intergovernmental collaboration
+url: https://interweavegov.substack.com/p/rwandas-digital-transformation-an
 author: Zoey Soh, Cindy X. S. Zheng
 published: 2024-09-30
 accessed: 2026-07-16

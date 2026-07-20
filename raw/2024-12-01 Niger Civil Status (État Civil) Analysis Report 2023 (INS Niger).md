@@ -2,7 +2,7 @@
 type: source
 artefact: "2024-12-01-rapport_etat_civil_2023.pdf"
 title: Niger Civil Status (État Civil) Analysis Report 2023 (INS Niger)
-url: https://www.stat-niger.org/
+url: https://stat-niger.org/wp-content/uploads/etat_civil/rapport_etat_civil_2023.pdf
 publisher: Institut National de la Statistique (INS Niger)
 published: 2024-12-01
 date_precision: month

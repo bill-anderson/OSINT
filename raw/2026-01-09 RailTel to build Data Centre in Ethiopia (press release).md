@@ -13,6 +13,7 @@ entities: []
 lens: [sovereignty]
 body_completeness: full
 ---
+<!-- url unrecovered as of 2026-07-20 -->
 
 # RailTel (India) to build a data centre in Ethiopia — MEA work order
 

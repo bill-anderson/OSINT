@@ -1,7 +1,7 @@
 ---
 type: source
 title: Eswatini National Health Sector Strategic Plan 2024/25-2027/28 (NHSSP)
-url: https://www.gov.sz/
+url: https://www.afro.who.int/sites/default/files/2025-02/NHSSP%20ESWATINI%20.pdf
 publisher: Ministry of Health, Eswatini
 published: 2024-08-01
 date_precision: month

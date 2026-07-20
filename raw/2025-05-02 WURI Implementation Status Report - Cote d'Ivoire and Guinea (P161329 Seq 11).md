@@ -1,7 +1,7 @@
 ---
 type: source
 title: "WURI Program — Implementation Status & Results Report (P161329, Seq 11)"
-url: https://documents.worldbank.org
+url: https://documents.worldbank.org/curated/en/099050225110559061
 publisher: World Bank
 author: World Bank
 published: 2025-05-02

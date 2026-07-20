@@ -2,7 +2,7 @@
 type: source
 title: "Congo allocates $63.9m to boost digital transformation in 2024 (PATN)"
 publisher: (Congo digital / PATN reporting)
-url: https://www.arpce.cg/
+url: https://www.ecofinagency.com/telecom/3105-45575-congo-allocates-63-9mln-to-boost-digital-transformation-in-2024
 author: (PATN Steering Committee)
 published: 2024-05-28
 date_precision: day

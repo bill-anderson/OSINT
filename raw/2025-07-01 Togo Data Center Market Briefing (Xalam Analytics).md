@@ -1,7 +1,7 @@
 ---
 type: source
 title: Togo Data Center Market Briefing
-url: https://xalamanalytics.com/
+url: https://cms.d4dhub.eu/assets/Initiatives/Data-Governance-in-Africa/Digital-Investment-Facility/2507_Country-Market-Briefs/Data-Center-Market-Brief-Togo.pdf
 publisher: Xalam Analytics / DIF
 published: 2025-07-01
 date_precision: month

@@ -2,7 +2,7 @@
 type: source
 title: "Policy Brief: Digital IDs in Angola, Central African Republic (CAR) and Democratic Republic of Congo (DRC)"
 publisher: Paradigm Initiative
-url: https://paradigmhq.org/
+url: https://paradigmhq.org/report/policy-brief-digital-ids-in-angola-central-african-republic-and-democratic-republic-of-congo/
 author: Thobekile Matimbe; Bridgette Ndlovu
 published: 2024-01-01
 date_precision: year

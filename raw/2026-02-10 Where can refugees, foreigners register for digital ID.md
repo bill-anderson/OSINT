@@ -10,6 +10,7 @@ lens: []
 body_completeness: full
 page: 
 title: Where can refugees, foreigners register for digital ID?
+url: https://www.newtimes.co.rw/article/33209/news/technology/where-can-refugees-foreigners-register-for-digital-id
 author: cfeditoren
 published: 2026-02-10
 accessed: 2026-07-16

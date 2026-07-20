@@ -2,7 +2,7 @@
 type: source
 artefact: "2024-08-01-2023_FinScope_Consumer_Survey_Malawi_2023_Presentation.pdf"
 title: FinScope Consumer Survey Malawi 2023 - Main Findings
-url: https://www.finmark.org.za/
+url: https://finmark.org.za/Publications/2023_FinScope_Consumer_Survey_Malawi_2023_Presentation.pdf
 publisher: FinMark Trust
 published: 2024-08-01
 date_precision: month

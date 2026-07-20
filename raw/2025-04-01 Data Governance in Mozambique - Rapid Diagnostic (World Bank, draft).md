@@ -2,7 +2,7 @@
 type: source
 artefact: "2025-04-01-Draft-Mozambique-Data-Diagnostic-April-2025-for-Government-2.pdf"
 title: Data Governance in Mozambique - Rapid Diagnostic (World Bank, draft)
-url: https://www.worldbank.org/
+url: https://intic.gov.mz/wp-content/uploads/2025/04/Draft-Mozambique-Data-Diagnostic-April-2025-for-Government-2.pdf
 publisher: World Bank
 published: 2025-04-01
 date_precision: month

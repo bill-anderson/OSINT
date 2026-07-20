@@ -1,6 +1,7 @@
 ---
 type: source
 title: "Data disharmony: how can donors better act on their commitments?"
+url: https://devinit.org/resources/data-disharmony-how-can-donors-better-act-on-their-commitments/
 publisher: Development Initiatives
 date_source: source
 author: [[bill]] and Bernard Sabiti

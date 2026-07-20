@@ -1,6 +1,7 @@
 ---
 type: source
 title: "Harnessing AI for Humanitarian Impact"
+url: https://nethope.org/toolkits/harnessing-ai-for-humanitarian-impact-lessons-and-insights-from-11-case-studies/
 publisher: NetHope (Center for the Digital Nonprofit), with the UK Humanitarian Innovation Hub
 date_source: source
 author: Meheret Takele Mandefro

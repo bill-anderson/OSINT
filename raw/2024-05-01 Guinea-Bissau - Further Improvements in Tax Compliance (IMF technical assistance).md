@@ -1,7 +1,7 @@
 ---
 type: source
 title: "Guinea-Bissau — Further Improvements in Tax Compliance (IMF Technical Assistance Report)"
-url: https://www.imf.org
+url: https://www.imf.org/en/publications/high-level-summary-technical-assistance-reports/issues/2024/04/30/guinea-bissau-further-improvements-in-tax-compliance-548436
 publisher: International Monetary Fund
 author: IMF (Paulo Paz, Antónia Dias, Clair Hickmann, Gustavo Figueiredo)
 published: 2024-05-01

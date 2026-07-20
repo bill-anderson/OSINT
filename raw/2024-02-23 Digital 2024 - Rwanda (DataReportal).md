@@ -10,6 +10,7 @@ lens: []
 body_completeness: full
 page: Digital 2024 - Rwanda
 title: Digital 2024 - Rwanda
+url: https://datareportal.com/reports/digital-2024-rwanda
 author: Simon Kemp (DataReportal / We Are Social / Meltwater)
 published: 2024-02-23
 accessed: 2026-07-16

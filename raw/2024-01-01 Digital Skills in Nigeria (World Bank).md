@@ -1,6 +1,7 @@
 ---
 type: source
 title: Digital Skills in Nigeria — a summary of the population's skills and the availability of digital infrastructure in schools
+url: https://documents.worldbank.org/curated/en/099954107182514013
 ingested: 2026-07-17
 lens: []
 body_completeness: full

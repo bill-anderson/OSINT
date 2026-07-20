@@ -15,6 +15,7 @@ entities: [[research-ict-africa], [club-de-madrid]]
 lens: [sovereignty, colonialism]
 body_completeness: full
 ---
+<!-- url unrecovered as of 2026-07-20 -->
 
 <!-- Admissible: named institutional analysis (Research ICT Africa for Club de Madrid), primary authored work. -->
 

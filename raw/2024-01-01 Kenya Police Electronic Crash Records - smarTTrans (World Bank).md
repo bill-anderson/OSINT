@@ -1,7 +1,7 @@
 ---
 type: source
 title: "Kenya — Police Electronic Crash Records and Analytics: Lessons from a Pilot in Nairobi (smarTTrans)"
-url: https://documents.worldbank.org
+url: https://documents.worldbank.org/curated/en/099812409142212391
 publisher: World Bank
 author: World Bank (Smart and Safe Kenya Transport, smarTTrans)
 published: 2024-01-01

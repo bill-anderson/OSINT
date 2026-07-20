@@ -1,7 +1,7 @@
 ---
 type: source
 title: "Digital Identity in Lesotho (Research ICT Africa)"
-url: https://researchictafrica.net
+url: https://researchictafrica.net/publication/digital-identity-in-lesotho-case-study-conducted-as-part-of-a-ten-country-exploration-of-socio-digital-id-systems-in-parts-of-africa/
 publisher: Research ICT Africa / Centre for Internet & Society
 author: Research ICT Africa
 published: 2021-10-31

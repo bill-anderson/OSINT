@@ -2,7 +2,7 @@
 type: source
 artefact: "2021-01-01-CRVS_Webinar_Namibia_e_WEB.pdf"
 title: Building Resilient CRVS Systems amid COVID-19 - Namibia (Technical Brief)
-url: https://namibia.un.org/
+url: https://crvssystems.ca/sites/default/files/assets/images/CRVS_Webinar_Namibia_e_WEB.pdf
 publisher: Centre of Excellence for CRVS Systems
 published: 2021-01-01
 date_precision: year

@@ -10,6 +10,7 @@ lens: []
 body_completeness: full
 page: Rwanda digital ID initiative advances with 1.5 million enrollments
 title: Rwanda digital ID initiative advances with 1.5 million enrollments
+url: https://www.biometricupdate.com/202602/rwanda-digital-id-initiative-advances-with-1-5-million-enrollments
 author: Ayang Macdonald
 published: 2026-02-10
 accessed: 2026-07-16

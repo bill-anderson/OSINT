@@ -2,7 +2,7 @@
 type: source
 artefact: "2023-01-01-Mali-Country-Diagnostic.pdf"
 title: Digital Economy for Mali - Country Diagnostic (World Bank)
-url: https://documents.worldbank.org/
+url: https://documents.worldbank.org/curated/en/099320408092229246
 publisher: World Bank
 published: 2023-01-01
 date_precision: year

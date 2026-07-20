@@ -1,7 +1,7 @@
 ---
 type: source
 title: Seychelles Civil Status Act, Cap 34 (consolidated as at 1 November 2022)
-url: https://www.gov.sc/
+url: https://seylii.org/akn/sc/act/1883/4/eng@2022-11-01
 publisher: Government of Seychelles
 published: 2022-11-01
 date_precision: day

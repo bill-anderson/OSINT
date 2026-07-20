@@ -1,7 +1,7 @@
 ---
 type: source
 title: Ethiopia's Digital Payments Performance (NBE presentation)
-url:
+url: https://nbe.gov.et/wp-content/uploads/2024/04/EDPC_EDPP.pdf
 publisher: National Bank of Ethiopia
 published: 2024-04-01
 date_precision: month

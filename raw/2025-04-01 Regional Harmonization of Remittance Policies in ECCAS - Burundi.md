@@ -2,7 +2,7 @@
 type: source
 title: "Regional Harmonization of Remittance Policies in ECCAS — Burundi"
 publisher: (ECCAS remittance-policy study)
-url: https://openknowledge.worldbank.org/
+url: https://migrantmoney.uncdf.org/wp-content/uploads/2025/05/Policy-Diagnostic-Burundi-April2025.pdf
 author: (ECCAS remittance-policy diagnostic)
 published: 2025-04-01
 date_precision: month

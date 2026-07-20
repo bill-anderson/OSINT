@@ -1,7 +1,7 @@
 ---
 type: source
 title: "AU Data Policy Framework"
-url: https://au.int
+url: https://au.int/en/documents/20220728/au-data-policy-framework
 publisher: African Union
 published: 2022-02-01
 date_precision: month

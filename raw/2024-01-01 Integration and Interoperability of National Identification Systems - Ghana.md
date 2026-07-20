@@ -1,7 +1,7 @@
 ---
 type: source
 title: "Integration and Interoperability of National Identification Systems: A study of Ghana's National Data Governance situation and its impact on cross-border data flow"
-url: https://humansecurityghana.org
+url: https://www.hsrcgh.org/wp-content/uploads/2024/09/Integration-and-Interoperability-of-National-Identification-Systems.pdf
 publisher: Human Security Research Centre Ghana
 author: Selassie Tay; Kamil Alhassan
 published: 2024-01-01

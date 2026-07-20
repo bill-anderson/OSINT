@@ -2,7 +2,7 @@
 type: source
 title: "Preliminary Report of the Independent International Scientific Panel on AI"
 publisher: United Nations
-url: https://www.un.org/
+url: https://www.un.org/independent-international-scientific-panel-ai/en/preliminary-report
 date_source: source
 author: Independent International Scientific Panel on Artificial Intelligence (Co-Chairs Yoshua Bengio & Maria Ressa)
 published: 2026-07

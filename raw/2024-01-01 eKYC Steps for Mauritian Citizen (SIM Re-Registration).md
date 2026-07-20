@@ -2,7 +2,7 @@
 type: source
 artefact: "2024-01-01-eKYC_Steps-for-Mauritian-Citizen.pdf"
 title: eKYC Steps for Mauritian Citizen (SIM Re-Registration)
-url: 
+url: https://chili.mu/wp-content/uploads/eKYC_Steps-for-Mauritian-Citizen.pdf
 publisher: Government of Mauritius / ICTA
 published: 2024-01-01
 date_precision: year

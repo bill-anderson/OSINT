@@ -15,6 +15,7 @@ lens: []
 body_completeness: full
 artefact: "2024-09-18 PlaquetteInstitutionnel DGSN Morocco (Ang).pdf"
 ---
+<!-- url unrecovered as of 2026-07-20 -->
 
 # DGSN Institutional Brochure (Morocco)
 

@@ -1,7 +1,7 @@
 ---
 type: source
 title: "Ghana Health Service — Policy and Strategy on Digital Health 2023–2027"
-url: https://www.ghs.gov.gh
+url: https://ghs.gov.gh/api/media/file/POLICY_AND_STRATEGY_ON_DIGITAL_HEALTH-2.pdf
 publisher: Ghana Health Service
 author: Ghana Health Service
 published: 2023-01-01

@@ -1,7 +1,7 @@
 ---
 type: source
 title: Snapshot of Civil Registration and Vital Statistics Systems of Tanzania Mainland
-url: https://crvssystems.ca/
+url: https://apai-crvs.uneca.org/sites/default/files/resourcefiles/CRVS_TanzaniaMainlandSnapshot_e.pdf
 publisher: Centre of Excellence for CRVS Systems (IDRC), with UNECA
 lens: []
 body_completeness: full

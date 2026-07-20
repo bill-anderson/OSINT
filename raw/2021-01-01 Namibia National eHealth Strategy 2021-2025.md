@@ -2,7 +2,7 @@
 type: source
 artefact: "2021-01-01-NAM_Namibia_National-eHealth-strategy_2021-2025.pdf"
 title: Namibia National eHealth Strategy 2021-2025
-url: 
+url: https://extranet.who.int/countryplanningcycles/sites/default/files/public_file_rep/NAM_Namibia_National-eHealth-strategy_2021-2025.pdf
 publisher: Ministry of Health and Social Services, Namibia
 published: 2021-01-01
 date_precision: year

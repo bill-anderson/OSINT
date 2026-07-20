@@ -1,7 +1,7 @@
 ---
 type: source
 title: "Payment Systems Oversight Annual Report 2023"
-url: https://www.bog.gov.gh
+url: https://www.bog.gov.gh/news/payment-systems-oversight-annual-report-2023/
 publisher: Bank of Ghana — Payment Systems Department
 author: Bank of Ghana
 published: 2024-01-01

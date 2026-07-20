@@ -1,7 +1,7 @@
 ---
 type: source
 title: "The SADC Digital Transformation Strategy and Action Plan (SADC-DTS) — draft"
-url: https://www.sadc.int
+url: https://www.sadc.int/sites/default/files/2025-08/EN%20-%205.2.3B%20-%20CM--SADC-ICT-INFO-MINISTERS-2023-4.8D%20-%20Draft%20SADC%20DTS_1.pdf
 publisher: Southern African Development Community (SADC)
 published: 2022-10-12
 date_precision: day

@@ -2,7 +2,7 @@
 type: source
 title: "International Bandwidth Demand Surpasses 6.4 Pbps"
 publisher: TeleGeography
-url: https://resources.telegeography.com/
+url: https://resources.telegeography.com/used-international-bandwidth-reaches-new-heights
 date_precision: day
 date_source: source
 author: Alan Mauldin

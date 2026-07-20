@@ -1,7 +1,7 @@
 ---
 type: source
 title: Malawi Digital Readiness Assessment
-url: https://v0-malawi-digital-readiness.vercel.app/
+url: https://www.undp.org/malawi/publications/digital-readiness-assessment-dra-malawi-report
 publisher: UNDP
 published: 2024-01-01
 date_precision: year

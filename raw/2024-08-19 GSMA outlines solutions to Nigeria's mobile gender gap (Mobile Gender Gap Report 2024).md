@@ -10,6 +10,7 @@ lens: []
 body_completeness: full
 page: GSMA outline solutions to Nigeria's mobile gender gap - BusinessDay NG
 title: GSMA outline solutions to Nigeria's mobile gender gap
+url: https://businessday.ng/technology/article/gsma-outline-solutions-to-nigerias-mobile-gender-gap
 author: Boluwatife Omotayo
 published: 2024-08-19
 accessed: 2026-07-16

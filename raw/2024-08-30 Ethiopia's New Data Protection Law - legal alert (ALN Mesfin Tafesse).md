@@ -1,7 +1,7 @@
 ---
 type: source
 title: Ethiopia's New Data Protection Law — legal alert (ALN Mesfin Tafesse & Associates)
-url:
+url: https://aln.africa/wp-content/uploads/2024/04/Ethiopias-New-Data-Protection-Law-Enhancing-Privacy-and-Security-in-the-Digital-Age-ALN-Mesfin-Tafesse-and-Associates.pdf
 publisher: ALN / Mesfin Tafesse & Associates
 published: 2024-08-30
 date_precision: day

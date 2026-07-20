@@ -1,7 +1,7 @@
 ---
 type: source
 title: People's Perspectives on the National ID, Birth Registration, and Birth Certificates in Rwanda
-url: https://documents.worldbank.org/
+url: https://documents.worldbank.org/curated/en/279741611941779893
 publisher: World Bank (ID4D)
 published: 2020-01-01
 date_precision: year

@@ -10,6 +10,7 @@ lens: []
 body_completeness: full
 page: FG mandates use of NIN for social services, interventions - The Guardian Nigeria
 title: FG mandates use of NIN for social services, interventions
+url: https://guardian.ng/news/fg-mandates-use-of-nin-for-social-services-interventions
 author: Kobor Amos
 published: 2025-02-12
 accessed: 2026-07-16

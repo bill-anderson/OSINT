@@ -1,7 +1,7 @@
 ---
 type: source
 title: Project Information Document (Concept Stage): Chad Digital Transformation (P180000, PIDC34946)
-url: https://documents.worldbank.org/
+url: https://documents.worldbank.org/curated/en/099102502282341480
 publisher: World Bank
 published: 2023-02-27
 date_precision: day

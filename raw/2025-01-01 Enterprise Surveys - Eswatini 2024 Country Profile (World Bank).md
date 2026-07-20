@@ -1,7 +1,7 @@
 ---
 type: source
 title: Enterprise Surveys: Eswatini 2024 Country Profile
-url: https://documents.worldbank.org/
+url: https://www.enterprisesurveys.org/content/dam/enterprisesurveys/documents/country/Eswatini-2024.pdf
 publisher: World Bank — Enterprise Analysis Unit
 published: 2025-01-01
 date_precision: year

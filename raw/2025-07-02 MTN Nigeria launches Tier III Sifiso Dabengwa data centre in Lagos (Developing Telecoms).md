@@ -10,6 +10,7 @@ lens: []
 body_completeness: full
 page: MTN Nigeria launches Tier III data centre in Lagos - Developing Telecoms
 title: MTN Nigeria launches Tier III data centre in Lagos
+url: https://developingtelecoms.com/telecom-technology/data-centres-networks/18712-mtn-nigeria-launches-tier-iii-data-centre-in-lagos.html
 author: John Tanner
 published: 2025-07-02
 accessed: 2026-07-16

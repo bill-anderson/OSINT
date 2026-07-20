@@ -1,7 +1,7 @@
 ---
 type: source
 title: Egypt Vision 2030 — National Agenda for Sustainable Development (updated)
-url:
+url: https://mped.gov.eg/Files/Egypt_Vision_2030_EnglishDigitalUse.pdf
 publisher: Government of Egypt (Ministry of Planning and Economic Development)
 published: 2023-01-01
 date_precision: year

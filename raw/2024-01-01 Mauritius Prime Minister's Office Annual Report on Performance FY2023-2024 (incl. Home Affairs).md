@@ -2,7 +2,7 @@
 type: source
 artefact: "2024-01-01-Annual_Report_2023.2024.pdf"
 title: Mauritius Prime Minister's Office Annual Report on Performance FY2023-2024 (incl. Home Affairs)
-url: 
+url: https://pmo.govmu.org/Communique/Annual_Report_2023.2024.pdf
 publisher: Prime Minister's Office, Republic of Mauritius
 published: 2024-01-01
 date_precision: year

@@ -2,7 +2,7 @@
 type: source
 artefact: "2024-01-01-siips_2024_MauCas_CaseStudy_en.pdf"
 title: SIIPS 2024 Case Study - MauCAS (Mauritius)
-url: 
+url: https://www.africanenda.org/uploads/files/siips_2024_MauCas_CaseStudy_en.pdf
 publisher: AfricaNenda (State of Inclusive Instant Payment Systems in Africa)
 published: 2024-01-01
 date_precision: year

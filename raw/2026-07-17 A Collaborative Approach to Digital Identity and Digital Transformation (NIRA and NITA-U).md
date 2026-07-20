@@ -1,7 +1,7 @@
 ---
 type: source
 title: A Collaborative Approach to Digital Identity & Digital Transformation (NIRA / NITA-U deck)
-url: https://www.nita.go.ug/
+url: https://id4africa.com/2024/ps4/PS4-S2-Uganda-NITA-NIRA-Final.pdf
 publisher: NIRA (National Identification and Registration Authority) and NITA-U
 published: 2026-07-17
 date_precision: day

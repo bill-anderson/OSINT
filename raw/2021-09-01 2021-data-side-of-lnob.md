@@ -1,6 +1,7 @@
 ---
 type: source
 title: "The data side of leaving no one behind"
+url: https://devinit.org/resources/data-side-leaving-no-one-behind/
 publisher: Development Initiatives
 date_source: source
 author: [[bill]], Bernard Sabiti and Sam Wozniak

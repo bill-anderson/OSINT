@@ -1,7 +1,7 @@
 ---
 type: source
 title: "Lesotho's National Digital Transformation Strategy: Agenda 2030"
-url: https://www.gov.ls
+url: https://www.gov.ls/download/lesotho-national-digital-transformation-strategy-2024-2030/
 publisher: Government of Lesotho (MICSTI)
 author: Government of Lesotho
 published: 2024-01-01

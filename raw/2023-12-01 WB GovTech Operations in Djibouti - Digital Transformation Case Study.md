@@ -1,7 +1,7 @@
 ---
 type: source
 title: World Bank GovTech Operations in Djibouti — A Digital Transformation Case Study
-url:
+url: https://documents.worldbank.org/curated/en/099092923094511319
 publisher: World Bank (Equitable Growth, Finance & Institutions / GovTech Global Partnership)
 published: 2023-12-01
 date_precision: month

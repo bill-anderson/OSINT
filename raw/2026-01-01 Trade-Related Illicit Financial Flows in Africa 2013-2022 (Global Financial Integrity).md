@@ -2,7 +2,7 @@
 type: source
 title: "Trade-Related Illicit Financial Flows in Africa, 2013–2022"
 publisher: Global Financial Integrity (GFI)
-url: https://gfintegrity.org/
+url: https://gfintegrity.org/report/trade-related-illicit-financial-flows-in-africa-2013-2022/
 date_source: source
 author: Global Financial Integrity (editor Philip Nyakundi)
 published: 2026-01

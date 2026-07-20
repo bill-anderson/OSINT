@@ -2,7 +2,7 @@
 type: source
 artefact: "2002-11-01-Mauritius - e-Government Interoperability Framework Version 1.0.pdf"
 title: Mauritius e-Government Interoperability Framework v1.0
-url: 
+url: https://cib.govmu.org/Documents/Maintenance%20Agreement/egiframework.pdf
 publisher: Government of Mauritius
 published: 2002-11-01
 date_precision: month

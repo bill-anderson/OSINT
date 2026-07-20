@@ -816,13 +816,41 @@ check acted, a one-line-per-check count.
     `queries/results/`, or any `DO-NOT-INGEST` file: rewire to the ingested
     primary, or remove the citation. These are scratch, never a store of record.
 14. **`url:` quality** — a `raw/` source whose `url:` is a **bare domain** (e.g.
-    `documents.worldbank.org`) or **blank**: recover the canonical document-specific
-    URL. World Bank docs reconstruct from their document/project ID; others by
-    title search. **No attempt limit** — work the recovery strategies until the URL
-    is found or genuinely exhausted (title search, document/project ID, publisher
-    site search, archive lookup). Only once exhausted, leave a dated in-file note
-    (`url unrecovered as of YYYY-MM-DD`); never invent one. A bare domain cites
-    nothing and breaks the dedup key. *(One-attempt limit dropped 2026-07-20.)*
+    `documents.worldbank.org`), **blank**, or **missing entirely**: recover the
+    canonical document-specific URL. A bare domain cites nothing and breaks the
+    dedup key.
+    - **Check the file's own `source:` key first** (also `canonical`/`origin`/
+      `source_url`), before any web research. It is cheap and sometimes decisive:
+      in the 2026-07-20 pass one capture cohort carried `source:` in 30 of 69 files,
+      matching every independently-researched URL and in three cases holding a URL
+      web search never surfaced. **It is a cohort convention, not a wiki-wide one** —
+      the other three worklists had it in zero files — so check, don't rely on it.
+    - **No attempt limit** — work the strategies until found or genuinely exhausted:
+      `source:` key, title search, document/project ID (World Bank docs reconstruct
+      from theirs; academic ones from a DOI), publisher site search, archive lookup.
+    - **Where a binary artefact is held, byte-compare it against the candidate
+      download.** For World Bank documents the WDS JSON API
+      (`search.worldbank.org/api/v3/wds`, filterable by `projectid`/`qterm`/date)
+      returns the document's real PDF filename, which often matches the stored
+      `artefact:` exactly. Byte-identity turns *plausible* into *proven*, and in the
+      2026-07-20 pass it recovered 53/53 and exposed three captures whose stored
+      title or date was simply wrong — including a slide deck filed as a report and
+      a date that was really the download timestamp.
+    - **Verify before writing.** The URL must be *that* document — match on title
+      and date. A plausible URL for a different report by the same publisher is
+      worse than no URL. Never construct one from an unconfirmed pattern. **A 200
+      response is not proof the document exists**: some hosts serve a soft-404 (a
+      landing page, or worse — `crvssystems.ca` returns 200 with injected gambling
+      spam for missing paths), so confirm the returned body *is* the document.
+    - **Homepage and entity-profile captures are NOT defects.** Where a source is a
+      capture of an organisation's own site as a standing-object reference, with no
+      dated event, the bare domain *is* the document-specific URL. Leave it, and do
+      not write an unrecovered note on it.
+    - Only once exhausted, leave a dated in-file note (`url unrecovered as of
+      YYYY-MM-DD`); never invent one. Where the recovered page's date disagrees with
+      stored `published`, do **not** edit `published` — that is #3's business.
+    *(One-attempt limit dropped, `source:`-first and homepage carve-out added,
+    2026-07-20.)*
 
 ### Auto-resolve onto the page — no queue
 

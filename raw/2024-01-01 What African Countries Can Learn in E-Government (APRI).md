@@ -1,7 +1,7 @@
 ---
 type: source
 title: What African Countries Can Learn from Each Other in E-Government Implementation
-url: https://afripoli.org/
+url: https://doi.org/10.59184/pb024.05
 publisher: Africa Policy Research Institute (APRI)
 published: 2024-01-01
 date_precision: year

@@ -2,7 +2,7 @@
 type: source
 title: "Londa 2023: Digital Rights and Inclusion in Africa Report — Botswana"
 publisher: Paradigm Initiative
-url: https://paradigmhq.org/
+url: https://paradigmhq.org/wp-content/uploads/2024/06/Botswana-Londa-Report.pdf
 author: Paradigm Initiative
 published: 2024-01-01
 date_precision: year

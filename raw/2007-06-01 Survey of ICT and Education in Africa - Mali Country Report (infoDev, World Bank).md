@@ -2,7 +2,7 @@
 type: source
 artefact: "2007-06-01-463760BRI0Box31IC110ICTed0Survey111.pdf"
 title: Survey of ICT and Education in Africa - Mali Country Report (infoDev, World Bank)
-url: https://documents.worldbank.org/
+url: https://documents.worldbank.org/curated/en/625361468283184843
 publisher: infoDev / World Bank
 published: 2007-06-01
 date_precision: month

@@ -10,6 +10,7 @@ lens: []
 body_completeness: full
 page: Rwanda hits 38% internet penetration, but cost still keeps millions offline
 title: Rwanda hits 38% internet penetration, but cost still keeps millions offline
+url: https://techcabal.com/2025/06/12/rwanda-internet-penetration-rate/
 author: John Adoyi
 published: 2025-06-12
 accessed: 2026-07-16

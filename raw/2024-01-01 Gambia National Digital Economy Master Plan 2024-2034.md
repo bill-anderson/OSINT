@@ -1,7 +1,7 @@
 ---
 type: source
 title: "The Gambia National Digital Economy Master Plan 2024-2034"
-url: https://mocde.gov.gm
+url: https://mocde.gov.gm/wp-content/uploads/2024/05/National-Digital-Economy-Masterplan.pdf
 publisher: Government of The Gambia (Ministry of Communications and Digital Economy)
 author: Government of The Gambia
 published: 2024-01-01

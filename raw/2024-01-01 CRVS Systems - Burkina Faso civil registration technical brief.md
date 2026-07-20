@@ -2,7 +2,7 @@
 type: source
 title: "CRVS Systems — Burkina Faso civil registration (technical brief / webinar)"
 publisher: Centre of Excellence for CRVS Systems (IDRC)
-url: https://crvssystems.ca/
+url: https://crvssystems.ca/sites/default/files/assets/images/CRVS_Webinar_BurtkinaFaso_e_WEB.pdf
 author: Centre of Excellence for CRVS Systems
 published: 2024-01-01
 date_precision: year

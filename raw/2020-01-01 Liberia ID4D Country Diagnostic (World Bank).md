@@ -1,7 +1,7 @@
 ---
 type: source
 title: "Liberia ID4D Country Diagnostic (World Bank)"
-url: https://documents.worldbank.org
+url: https://documents.worldbank.org/curated/en/281811489660798714
 publisher: World Bank
 author: World Bank (ID4D)
 published: 2020-01-01

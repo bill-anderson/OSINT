@@ -1,7 +1,7 @@
 ---
 type: source
 title: Uganda e-Government Interoperability Framework (e-GIF)
-url: https://www.nita.go.ug/
+url: https://www.nita.go.ug/sites/default/files/2025-07/e-GIF.pdf
 publisher: Government of Uganda (MoICT&NG / NITA-U)
 published: 2021-05-06
 date_precision: day

@@ -1,7 +1,7 @@
 ---
 type: source
 title: Eswatini Ministry of Home Affairs Annual Report to Parliament, FY2024/25
-url: https://www.gov.sz/
+url: https://parliament.gov.sz/publications/parliament_reports/docs/ANNUAL%20REPORT%20HOME%20AFFAIRS.pdf
 publisher: Ministry of Home Affairs, Eswatini
 published: 2024-01-01
 date_precision: year

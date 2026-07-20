@@ -5,11 +5,11 @@ place: SWZ
 topic: dpi.pay
 places: [SWZ]
 topics: [dpi.pay, dpi.exchange, dpi.id, include.access, gov.policy, gov.regional, digital.localgov]
-entities: [[central-bank-of-eswatini], [eswatini-payment-switch], [eswatini-national-fintech-strategy], [mtn-eswatini]]
+entities: [[central-bank-of-eswatini], [eswatini-payment-switch], [eswatini-national-fintech-strategy], [mtn-eswatini], [paylogic]]
 lens: []
 status: active
 last_reviewed: 2026-07-19
-sources: [[2025-09-28-eswatini-payment-switch-explainer], [2025-11-13-inside-eswatini-tackling-big-payments-challenges], [2025-11-16-eswatini-enters-africa-instant-payments-revolution], [2025-11-18-cbe-prioritises-broader-digital-ecosystem], [2025-12-05-fintech-to-reduce-cash-reliance], [2025-12-07-fintech-strategy-to-transform-eswatini-digital-future], [2025-09-26-eswatini-post-office-based-govt-payment-system], [2025-08-10-mobile-money-drives-financial-inclusion-growth], [2025-09-26-eswatini-national-ekyc-system]]
+sources: [[2025-01-14 Phil Mnisi - Eswatini Payment Switch Fast Payments product launch], [2025-08-05 Robust DPI inevitable for Eswatini's economic, jobs boom - World Bank], [2025-09-28-eswatini-payment-switch-explainer], [2025-11-13-inside-eswatini-tackling-big-payments-challenges], [2025-11-16-eswatini-enters-africa-instant-payments-revolution], [2025-11-18-cbe-prioritises-broader-digital-ecosystem], [2025-12-05-fintech-to-reduce-cash-reliance], [2025-12-07-fintech-strategy-to-transform-eswatini-digital-future], [2025-09-26-eswatini-post-office-based-govt-payment-system], [2025-08-10-mobile-money-drives-financial-inclusion-growth], [2025-09-26-eswatini-national-ekyc-system]]
 ---
 
 # Eswatini × Digital Payments & Fintech
@@ -26,6 +26,19 @@ the **[[central-bank-of-eswatini|CBE]]** is closing by building **interoperabili
   yet banks don't reach most people... the switch was designed to close that gap **from the start**."
   Rollout in **three stages** (Fast Payments → Open Banking → card/POS/ATM switching). Sources:
   [[2025-09-28-eswatini-payment-switch-explainer]], [[2025-11-13-inside-eswatini-tackling-big-payments-challenges]].
+- **The Fast Payments launch itself (2024-12-11, Ezulwini).** The [[central-bank-of-eswatini]]'s
+  [[eswatini-payment-switch]] launched **Fast Payments** at Ezulwini **2024-12-11** (phase one of three:
+  then Open Banking, then POS/ATM switching; built by **[[paylogic]]** under the National Payment
+  Systems Strategy 2022–2025). **Three of eight** integrating participants were live on launch day —
+  Eswatini Bank, Swaziland Building Society, E-mali Limited — with the rest expected by end-January
+  2025; **no source held confirms whether they went live**. Participation is **mandated** for all PSPs
+  offering local payments; limits **E50,000** single transaction (bank accounts), **E10,000** per
+  digital-wallet transaction, **E50,000** daily sender limit (**2024-12-11**). The counterpoint:
+  **>90% of person-to-business payments were still cash-based (2025-08-05)** per the World Bank — the
+  rail exists, the behaviour hasn't moved. *(Launch date is the speech at Ezulwini; the BIS Review
+  carrying it published 2025-01-14 — date the development, not the publication.)* Sources:
+  [[2025-01-14 Phil Mnisi - Eswatini Payment Switch Fast Payments product launch]],
+  [[2025-08-05 Robust DPI inevitable for Eswatini's economic, jobs boom - World Bank]].
 - **Continental recognition (Nov 2025).** After the Fast Payment Module went live (Dec 2024), the
   **SIIPS 2025** report (AfricaNenda) recognised Eswatini as one of Africa's newest instant-payment
   entrants — and Eswatini **hosted the continental SIIPS launch** at the CBE Complex, Ezulwini. See

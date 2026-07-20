@@ -10,6 +10,7 @@ lens: []
 body_completeness: full
 page: Introduction to the Rwanda National Data Sharing Policy
 title: Introduction to the Rwanda National Data Sharing Policy
+url: https://cenfri.org/articles/introduction-to-the-rwanda-national-data-sharing-policy-2/
 author: Angelos Munezero (Cenfri)
 published: 2025-10-27
 accessed: 2026-07-16

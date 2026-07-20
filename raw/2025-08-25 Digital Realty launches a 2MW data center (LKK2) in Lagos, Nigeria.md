@@ -10,6 +10,7 @@ lens: []
 body_completeness: full
 page: Digital Realty launches a 2MW data center in Nigeria - DCD
 title: Digital Realty launches a 2MW data center in Nigeria
+url: https://www.datacenterdynamics.com/en/news/digital-realty-launches-a-2mw-data-center-in-nigeria/
 author: Dan Swinhoe
 published: 2025-08-25
 accessed: 2026-07-16

@@ -1,7 +1,7 @@
 ---
 type: source
 title: "African Digital Compact"
-url: https://au.int
+url: https://au.int/en/documents/20240809/african-digital-compact-adc
 publisher: African Union Commission
 published: 2024-07-01
 date_precision: month

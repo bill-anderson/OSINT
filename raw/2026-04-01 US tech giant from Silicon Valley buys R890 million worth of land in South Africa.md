@@ -2,7 +2,7 @@
 type: source
 title: "US tech giant from Silicon Valley buys R890 million worth of land in South Africa"
 publisher: BusinessTech (via Bloomberg)
-url: https://businesstech.co.za/
+url: https://businesstech.co.za/news/business/855503/us-tech-giant-from-silicon-valley-buys-r890-million-worth-of-land-in-south-africa/
 date_source: source
 author: Loni Prinsloo
 published: 2026-04-01

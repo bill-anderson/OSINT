@@ -1,7 +1,7 @@
 ---
 type: source
 title: Digital Economy for Chad: Country Diagnostic (P177120)
-url: https://documents.worldbank.org/
+url: https://documents.worldbank.org/curated/en/099062923114552178
 publisher: World Bank
 published: 2023-01-01
 date_precision: year

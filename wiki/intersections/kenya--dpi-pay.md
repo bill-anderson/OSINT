@@ -5,11 +5,11 @@ place: KEN
 topic: dpi.pay
 places: [KEN]
 topics: [dpi.pay, gov.protect, finance.new, finance.mou, tech.ai, infra.cybersec, include.divides, gov.legislate, tech.industry, infra.capacity]
-entities: [[safaricom], [central-bank-of-kenya], [moniepoint], [kenswitch], [nairobi-securities-exchange], [visa], [odpc-kenya], [busha], [tether]]
+entities: [[safaricom], [central-bank-of-kenya], [moniepoint], [kenswitch], [nairobi-securities-exchange], [visa], [odpc-kenya], [busha], [tether], [kenya-revenue-authority], [meta]]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-20
-sources: [[2025-09-22-mpesa-biggest-upgrade-decade-techcabal], [2025-11-26-safaricom-daraja-30-api-itweb], [2026-01-13-mpesa-blockchain-partner-itweb], [2026-01-28-mpesa-too-big-to-fail-techcabal], [2026-02-10-safaricom-nse-share-trading-mpesa-connectingafrica], [2026-03-20-mpesa-stop-sharing-phone-numbers-techcabal], [2026-04-02-moniepoint-enters-kenya-connectingafrica], [2026-04-03-kenswitch-visa-national-switch-techcabal], [2026-04-23-safaricom-sued-ai-mpesa-decisions-nation], [2026-05-08-fuliza-14-trillion-loans-nation], [2026-07-01-mpesa-next-financial-gap-credit-techcabal], [2026-07-14-dtb-safaricom-sim-swap-fraud-nation], [2026-05-31-telcos-warn-33pc-excise-tax-nation], [2026-07-20-busha-business-tether-stablecoin-infrastructure-africa], [2026-07-20-safaricom-financial-services-chief-exits-mpesa], [2025-11-06-safaricom-hy26-results-booklet], [2026-05-07-safaricom-fy26-results-booklet]]
+sources: [[2026-04-02 Safaricom Introduces My OneApp to Simplify Payments, Accounts, and Service Access], [2026-04-02 WhatsApp tax filing set to pull millions into Kenya's tax net], [2025-09-22-mpesa-biggest-upgrade-decade-techcabal], [2025-11-26-safaricom-daraja-30-api-itweb], [2026-01-13-mpesa-blockchain-partner-itweb], [2026-01-28-mpesa-too-big-to-fail-techcabal], [2026-02-10-safaricom-nse-share-trading-mpesa-connectingafrica], [2026-03-20-mpesa-stop-sharing-phone-numbers-techcabal], [2026-04-02-moniepoint-enters-kenya-connectingafrica], [2026-04-03-kenswitch-visa-national-switch-techcabal], [2026-04-23-safaricom-sued-ai-mpesa-decisions-nation], [2026-05-08-fuliza-14-trillion-loans-nation], [2026-07-01-mpesa-next-financial-gap-credit-techcabal], [2026-07-14-dtb-safaricom-sim-swap-fraud-nation], [2026-05-31-telcos-warn-33pc-excise-tax-nation], [2026-07-20-busha-business-tether-stablecoin-infrastructure-africa], [2026-07-20-safaricom-financial-services-chief-exits-mpesa], [2025-11-06-safaricom-hy26-results-booklet], [2026-05-07-safaricom-fy26-results-booklet]]
 ---
 
 # Kenya × Digital Payments
@@ -122,6 +122,11 @@ trying to build interoperability and oversight around it without breaking it.
   care by completing the swap after the customer reported it — establishing telco/bank liability for
   identity-layer fraud. Sources: [[2026-04-23-safaricom-sued-ai-mpesa-decisions-nation]],
   [[2026-07-14-dtb-safaricom-sim-swap-fraud-nation]].
+- **Super-app consolidation and tax rails (2026-04).** [[safaricom]] merged **M-PESA + MySafaricom**
+  into **My OneApp**; the **[[kenya-revenue-authority]]** launched a **WhatsApp ([[meta]]) tax-filing
+  chatbot** for informal filers. Sources:
+  [[2026-04-02 Safaricom Introduces My OneApp to Simplify Payments, Accounts, and Service Access]],
+  [[2026-04-02 WhatsApp tax filing set to pull millions into Kenya's tax net]].
 - **Mobile-money taxation (2026-05).** [[gov.legislate]] Telcos (Safaricom, [[airtel-africa|Airtel]])
   warned the **Finance Bill 2026** would raise transaction costs by up to **33.4%** via a 25% excise on
   imported phones plus reclassifying handsets from zero-rated to VAT-exempt — passed to low-income users

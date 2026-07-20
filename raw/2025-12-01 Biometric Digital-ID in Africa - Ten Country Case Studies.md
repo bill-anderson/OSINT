@@ -1,7 +1,7 @@
 ---
 type: source
 title: "Biometric Digital-ID in Africa: Progress and Challenges to Date — Ten Country Case Studies"
-url: https://researchictafrica.net
+url: https://www.ids.ac.uk/publications/biometric-digital-id-in-africa/
 publisher: (edited volume)
 author: "Edited by 'Gbenga Sesan and Tony Roberts"
 published: 2025-12-01

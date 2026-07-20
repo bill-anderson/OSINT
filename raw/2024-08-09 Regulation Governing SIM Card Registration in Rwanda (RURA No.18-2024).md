@@ -1,7 +1,7 @@
 ---
 type: source
 title: Regulation No. 18/R/SM-ICT/RURA/2024 Governing SIM Card Registration in Rwanda
-url: https://rura.rw/
+url: https://www.rura.rw/fileadmin/user_upload/RURA/Documents/Sectors/ICT/Regulatory_Instruments/ICT_Regulations_and_Guidelines/Regulation_Governing_SIM_Card_Registration_in_Rwanda.pdf
 publisher: Rwanda Utilities Regulatory Authority (RURA)
 published: 2024-08-09
 date_precision: day

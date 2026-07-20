@@ -1,7 +1,7 @@
 ---
 type: source
 title: Uganda Digital Government Strategy, Version 1.1
-url: https://www.nita.go.ug/
+url: https://www.nita.go.ug/sites/default/files/2025-07/Digital-Strategy.pdf
 publisher: Government of Uganda (MoICT&NG / NITA-U)
 published: 2022-02-26
 date_precision: day

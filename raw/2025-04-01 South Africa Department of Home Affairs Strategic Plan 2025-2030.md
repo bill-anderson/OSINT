@@ -1,7 +1,7 @@
 ---
 type: source
 title: Department of Home Affairs Strategic Plan 2025 to 2030 (South Africa)
-url: https://www.dha.gov.za/
+url: https://www.dha.gov.za/images/AnnualReports/DHA-STRATEGIC-PLAN-25-30.pdf
 publisher: Department of Home Affairs, Republic of South Africa
 published: 2025-04-01
 date_precision: month

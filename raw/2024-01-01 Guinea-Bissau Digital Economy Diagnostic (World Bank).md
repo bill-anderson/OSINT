@@ -1,7 +1,7 @@
 ---
 type: source
 title: "Guinea-Bissau Digital Economy Diagnostic (World Bank)"
-url: https://documents.worldbank.org
+url: https://documents.worldbank.org/curated/en/099745006262216743
 publisher: World Bank
 author: World Bank
 published: 2024-01-01

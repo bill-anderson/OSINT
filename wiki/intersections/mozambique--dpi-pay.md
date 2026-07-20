@@ -5,11 +5,11 @@ place: MOZ
 topic: dpi.pay
 places: [MOZ]
 topics: [dpi.pay, gov.legislate, finance.new, include.access, infra.cybersec, tech.ai]
-entities: [[banco-de-mocambique], [simo-mozambique], [mozambique-cyber-security-law]]
+entities: [[banco-de-mocambique], [simo-mozambique], [mozambique-cyber-security-law], [bio-key-international], [runlevel]]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-18
-sources: [[2025-08-06-e-money-accounts-109pct-adult-population-clubofmozambique], [2025-08-25-irps-tax-mobile-money-agents-clubofmozambique], [2026-02-18-national-payments-system-bill-parliament-clubofmozambique], [2026-03-02-banks-unveil-instant-payment-system-clubofmozambique], [2026-03-16-central-bank-launches-metix-clubofmozambique], [2026-04-15-national-payments-system-law-approved-parliament-clubofmozambique], [2026-06-13-cybercrime-cybersecurity-nps-laws-signed-clubofmozambique], [2026-06-16-financial-institutions-60-minutes-report-failures-clubofmozambique]]
+sources: [[2026-02-24 BIO-key and RunLevel Deploy Biometric IAM Across Mozambique's National Payments Network], [2025-08-06-e-money-accounts-109pct-adult-population-clubofmozambique], [2025-08-25-irps-tax-mobile-money-agents-clubofmozambique], [2026-02-18-national-payments-system-bill-parliament-clubofmozambique], [2026-03-02-banks-unveil-instant-payment-system-clubofmozambique], [2026-03-16-central-bank-launches-metix-clubofmozambique], [2026-04-15-national-payments-system-law-approved-parliament-clubofmozambique], [2026-06-13-cybercrime-cybersecurity-nps-laws-signed-clubofmozambique], [2026-06-16-financial-institutions-60-minutes-report-failures-clubofmozambique]]
 ---
 
 # Mozambique × Digital Payments
@@ -45,6 +45,11 @@ Payments System law**, taxation of the mobile-money economy, and operational-res
   **report any >10-min payment outage within 60 minutes** (in force 90 days after publication). Source:
   [[2026-06-16-financial-institutions-60-minutes-report-failures-clubofmozambique]].
 
+- **Biometric IAM into the national switch (2026-02).** [[infra.cybersec]] [[dpi.id]]
+  **[[bio-key-international]]** and **[[runlevel]]** are deploying **biometric IAM** into
+  **[[simo-mozambique|SIMO]]** (national payments switch **SIMOrede**). Source:
+  [[2026-02-24 BIO-key and RunLevel Deploy Biometric IAM Across Mozambique's National Payments Network]].
+
 ## Links
 
-Place: [[MOZ]] · Concepts: [[dpi.pay]] · [[include.access]] · Entities: [[banco-de-mocambique]] · [[simo-mozambique]] · Region: [[XSA]] · See also [[mozambique--dpi-id]]
+Place: [[MOZ]] · Concepts: [[dpi.pay]] · [[include.access]] · Entities: [[banco-de-mocambique]] · [[simo-mozambique]] · [[bio-key-international]] · [[runlevel]] · Region: [[XSA]] · See also [[mozambique--dpi-id]]

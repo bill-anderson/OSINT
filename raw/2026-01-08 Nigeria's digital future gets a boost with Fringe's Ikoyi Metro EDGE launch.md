@@ -10,6 +10,7 @@ lens: []
 body_completeness: full
 page: Nigeria's Digital Future Gets a Boost with Fringe's Ikoyi Metro EDGE Launch - IT News Africa
 title: Nigeria's Digital Future Gets a Boost with Fringe's Ikoyi Metro EDGE Launch
+url: https://www.itnewsafrica.com/2026/01/nigerias-digital-future-gets-a-boost-with-fringes-ikoyi-metro-edge-launch
 author: Mohd Hassan (ed. Faustine Ngila)
 published: 2026-01-08
 accessed: 2026-07-16

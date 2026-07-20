@@ -15,6 +15,7 @@ lens: []
 body_completeness: full
 artefact: "2025-01-01 National-Data-Policy-2025-The-Gambia-draft.docx"
 ---
+<!-- url unrecovered as of 2026-07-20 -->
 
 # National Data Policy 2025 — The Gambia (draft)
 

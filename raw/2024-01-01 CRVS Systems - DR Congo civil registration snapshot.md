@@ -2,7 +2,7 @@
 type: source
 title: "Snapshot of Civil Registration and Vital Statistics Systems of the Democratic Republic of Congo"
 publisher: Centre of Excellence for CRVS Systems (IDRC)
-url: https://crvssystems.ca/
+url: https://apai-crvs.uneca.org/sites/default/files/resourcefiles/CRVS_CongoDRSnapshot_e.pdf
 author: Centre of Excellence for CRVS Systems
 published: 2024-01-01
 date_precision: year

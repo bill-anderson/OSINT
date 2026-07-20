@@ -1,7 +1,7 @@
 ---
 type: source
 title: Digital Government in Seychelles: Analysis and Recommendations (Draft Version)
-url: https://documents.worldbank.org/
+url: https://thedocs.worldbank.org/en/doc/290341604360934635-0090022020/original/seychellesdesigndecv4.pdf
 publisher: World Bank
 published: 2018-01-01
 date_precision: year

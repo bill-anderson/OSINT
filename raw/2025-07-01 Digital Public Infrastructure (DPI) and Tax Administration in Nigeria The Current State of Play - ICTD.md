@@ -10,6 +10,7 @@ lens: []
 body_completeness: full
 page: 
 title: Digital Public Infrastructure (DPI) and Tax Administration in Nigeria: The Current State of Play - ICTD
+url: https://www.ictd.ac/blog/digital-tax-infrastructure-in-nigeria-current-state-and-outlook/
 author: 
 published: 2025-07-01
 accessed: 2026-07-16

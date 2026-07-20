@@ -10,6 +10,7 @@ lens: []
 body_completeness: full
 page: Nigeria to Launch NGDX, Unified Data Exchange by End of This Year - Nigerian CommunicationWeek
 title: Nigeria to Launch NGDX, Unified Data Exchange by End of This Year
+url: https://www.nigeriacommunicationsweek.com.ng/nigeria-to-launch-ngdx-unified-data-exchange-by-end-of-this-year/
 author: Ebere Melum-Nwogbo
 published: 2025-08-30
 accessed: 2026-07-16

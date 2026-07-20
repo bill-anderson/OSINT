@@ -1,7 +1,7 @@
 ---
 type: source
 title: "Digital Liberia — National Digital Strategy 2025-2029 (full document)"
-url: https://mopt.gov.lr
+url: https://mopt.gov.lr/wp-content/uploads/2025/09/Liberia-National-Digital-Strategy.pdf
 publisher: Ministry of Posts and Telecommunications (Liberia)
 author: Government of Liberia
 published: 2026-02-03

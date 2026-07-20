@@ -1,7 +1,7 @@
 ---
 type: source
 title: Global Innovation Index 2025: Seychelles country profile
-url: https://www.wipo.int/
+url: https://www.wipo.int/edocs/gii-ranking/2025/sc.pdf
 publisher: WIPO
 published: 2025-01-01
 date_precision: year

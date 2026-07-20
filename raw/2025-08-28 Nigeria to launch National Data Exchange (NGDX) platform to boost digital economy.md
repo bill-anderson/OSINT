@@ -10,6 +10,7 @@ lens: []
 body_completeness: full
 page: Nigeria to Launch National Data Exchange Platform to Boost Digital Economy - We Are Tech
 title: Nigeria to Launch National Data Exchange Platform to Boost Digital Economy
+url: https://www.wearetech.africa/en/fils-uk/news/public-management/nigeria-to-launch-national-data-exchange-platform-to-boost-digital-econom
 author: Isaac K. Kassouwi
 published: 2025-08-28
 accessed: 2026-07-16

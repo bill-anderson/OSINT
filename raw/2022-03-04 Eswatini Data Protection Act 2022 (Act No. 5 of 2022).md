@@ -1,7 +1,7 @@
 ---
 type: source
 title: Eswatini Data Protection Act, 2022 (Act No. 5 of 2022)
-url: https://www.gov.sz/
+url: https://www.esccom.org.sz/legislation/DATA%20PROTECTION%20ACT.pdf
 publisher: Government of Eswatini — Government Gazette Vol. LX No. 41
 published: 2022-03-04
 date_precision: day

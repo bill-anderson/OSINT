@@ -2,7 +2,7 @@
 type: source
 artefact: "2023-01-01-Digital trade regulatory integration - Country profile - Namibia- ENG.pdf"
 title: Digital Trade Regulatory Integration - Namibia Country Profile
-url: https://arii.uneca.org/
+url: https://www.uneca.org/sites/default/files/ATPC/cp/Digital%20trade%20regulatory%20integration%20-%20Country%20profile%20-%20Namibia-%20ENG.pdf
 publisher: United Nations Economic Commission for Africa (ECA) - African Trade Policy Centre
 published: 2023-01-01
 date_precision: year

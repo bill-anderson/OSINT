@@ -1,7 +1,7 @@
 ---
 type: source
 title: "Central Bank of Kenya — Annual Report and Financial Statements 2024"
-url: https://www.centralbank.go.ke
+url: https://www.centralbank.go.ke/uploads/cbk_annual_reports/1190916865_2024%20Annual%20Report.pdf
 publisher: Central Bank of Kenya
 author: Central Bank of Kenya
 published: 2024-01-01

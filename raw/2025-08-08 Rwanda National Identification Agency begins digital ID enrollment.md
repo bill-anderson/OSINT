@@ -10,6 +10,7 @@ lens: []
 body_completeness: full
 page: Rwanda National Identification Agency begins digital ID enrollment
 title: Rwanda National Identification Agency begins digital ID enrollment
+url: https://www.biometricupdate.com/202508/rwanda-national-identification-agency-begins-digital-id-enrollment
 author: Ayang Macdonald
 published: 2025-08-08
 accessed: 2026-07-16

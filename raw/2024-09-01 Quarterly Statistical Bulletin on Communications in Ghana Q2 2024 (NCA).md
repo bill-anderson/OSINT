@@ -1,7 +1,7 @@
 ---
 type: source
 title: "Quarterly Statistical Bulletin on Communications in Ghana — Volume 9 Issue 2 (Q2, April–June 2024)"
-url: https://www.nca.org.gh
+url: https://nca.org.gh/wp-content/uploads/2025/05/Q2-2024-Quarterly-Statistical-Bulletin-Ver5.1.pdf
 publisher: National Communications Authority (NCA), Ghana
 author: National Communications Authority
 published: 2024-09-01

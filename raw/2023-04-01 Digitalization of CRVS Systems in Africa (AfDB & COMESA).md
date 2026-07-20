@@ -1,7 +1,7 @@
 ---
 type: source
 title: Digitalization of Civil Registration and Vital Statistics Systems in Africa
-url: https://www.afdb.org/
+url: https://apai-crvs.uneca.org/sites/default/files/resourcefiles/Digitalization%20of%20Civil%20Registration%20and%20Vital%20Statistics%20in%20Africa.pdf
 publisher: African Development Bank & COMESA
 published: 2023-04-01
 date_precision: month

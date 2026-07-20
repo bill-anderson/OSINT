@@ -2,7 +2,7 @@
 type: source
 artefact: "2017-07-01-ID4DNigerIMSAEnglish012248.pdf"
 title: ID4D Country Diagnostic - Niger (World Bank)
-url: https://documents.worldbank.org/
+url: https://thedocs.worldbank.org/en/doc/755391518449923372-0090022018/original/ID4DNigerIMSAEnglish012248.pdf
 publisher: World Bank
 published: 2017-07-01
 date_precision: month

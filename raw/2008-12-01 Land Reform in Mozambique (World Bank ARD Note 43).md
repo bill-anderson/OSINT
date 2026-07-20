@@ -2,7 +2,7 @@
 type: source
 artefact: "2008-12-01-716290BRI0Box30ARD0Mzmbq0Note430web.pdf"
 title: Land Reform in Mozambique (World Bank ARD Note 43)
-url: https://documents.worldbank.org/
+url: https://documents.worldbank.org/curated/en/232741468061476953
 publisher: World Bank
 published: 2008-12-01
 date_precision: month

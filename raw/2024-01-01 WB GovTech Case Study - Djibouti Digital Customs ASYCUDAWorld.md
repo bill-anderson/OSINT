@@ -1,7 +1,7 @@
 ---
 type: source
 title: World Bank GovTech Case Study — Djibouti Digital Customs Administration (ASYCUDAWorld)
-url:
+url: https://documents.worldbank.org/curated/en/099020224094541999
 publisher: World Bank (GovTech Global Partnership — "Solutions that Work")
 published: 2024-01-01
 date_precision: year

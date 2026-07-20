@@ -1,7 +1,7 @@
 ---
 type: source
 title: "Privacy and Data Protection Practices of Digital Lending Apps in Kenya"
-url: https://cipit.strathmore.edu/
+url: https://cipit.strathmore.edu/privacy-and-data-protection-practices-of-digital-lending-apps-in-kenya-report/
 publisher: CIPIT (Strathmore University)
 author: Grace Mutung'u; Kevin Muchwat
 published: 2021-01-01

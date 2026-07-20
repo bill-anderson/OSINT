@@ -2,7 +2,7 @@
 type: source
 title: "Parting Clouds: Creating a Competitive Marketplace for Compute"
 publisher: Canadian Anti-Monopoly Project (CAMP)
-url: https://www.antimonopoly.ca/
+url: https://antimonopoly.ca/parting-clouds-creating-a-competitive-marketplace-for-compute/
 date_source: source
 author: David Eaves, Keldon Bester
 published: 2025

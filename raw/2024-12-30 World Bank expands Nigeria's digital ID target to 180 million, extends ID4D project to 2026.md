@@ -10,6 +10,7 @@ lens: []
 body_completeness: full
 page: World Bank Expands Nigeria's Digital ID Target to 180 Million, Extends Project to 2026 - ID Tech
 title: World Bank Expands Nigeria's Digital ID Target to 180 Million, Extends Project to 2026
+url: https://idtechwire.com/world-bank-expands-nigerias-digital-id-target-to-180-million-extends-project-to-2026
 author: ID Tech Editorial Team
 published: 2024-12-30
 accessed: 2026-07-16

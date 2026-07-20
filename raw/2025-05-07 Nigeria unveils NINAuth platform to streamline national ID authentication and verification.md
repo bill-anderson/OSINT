@@ -10,6 +10,7 @@ lens: []
 body_completeness: full
 page: Nigeria unveils platform to streamline national ID authentication, verification - Biometric Update
 title: Nigeria unveils platform to streamline national ID authentication, verification
+url: https://www.biometricupdate.com/202505/nigeria-unveils-platform-to-streamline-national-id-authentication-verification
 author: Ayang Macdonald
 published: 2025-05-07
 accessed: 2026-07-16

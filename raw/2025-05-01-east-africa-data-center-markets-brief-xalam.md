@@ -1,7 +1,7 @@
 ---
 type: source
 title: East Africa Data Center Markets — Xalam Analytics Market Brief
-url:
+url: https://cms.d4dhub.eu/assets/East-Africa-Data-Center-Markets-Brief.pdf
 publisher: Xalam Analytics (prepared for HAUS, GIZ and Digital Investment Facility partners)
 published: 2025-05-01
 date_precision: month

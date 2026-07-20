@@ -1,7 +1,7 @@
 ---
 type: source
 title: "Social Registries: Global Insights on Coverage and Beyond (World Bank)"
-url: https://documents.worldbank.org
+url: https://documents.worldbank.org/curated/en/099071525165029379
 publisher: World Bank
 author: Melis Guven, Agastya Yeachuri, Mohamed Almenfi (World Bank)
 published: 2024-01-01

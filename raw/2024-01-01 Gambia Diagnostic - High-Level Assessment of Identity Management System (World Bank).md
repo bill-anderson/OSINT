@@ -1,7 +1,7 @@
 ---
 type: source
 title: "Gambia Diagnostic — High-Level Assessment of Identity Management System (World Bank)"
-url: https://documents.worldbank.org
+url: https://documents.worldbank.org/curated/en/099102025103014657
 publisher: World Bank
 author: World Bank
 published: 2024-01-01

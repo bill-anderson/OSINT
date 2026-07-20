@@ -26,8 +26,8 @@ Investment flowing into African digital transformation. (A *specific* transactio
   cluster, with H1-2026 contracted power up **6×** year-on-year on AI-workload demand. See [[infra.store]].
   Source: [[2026-07-14 Raxio raises data centre funding]].
 - **Data-centre capital wave (2026-06).** Construction market ~**$1.26bn (2024) → ~$3.06bn
-  (2030)**. Named flows: [[us-dfc]] **$300m** to ADC ([[cassava-technologies]]); IFC
-  **$100m** to Raxio; IXAfrica up to **$200m** debt; [[mtn-group]] **>$235m** two-phase
+  (2030)**. Named flows: [[us-dfc]] **$300m** to ADC ([[cassava-technologies]]);
+  IXAfrica up to **$200m** debt; [[mtn-group]] **>$235m** two-phase
   Lagos build; [[airtel-africa]] 38 MW hyperscale. US development finance is positioned
   against Chinese capital ([[geopol.usa]], [[geopol.china]]). Source:
   [[2026-06-23 Africa's Data Centre Boom Where The New Facilities Are Being Built]].
@@ -64,7 +64,9 @@ Investment flowing into African digital transformation. (A *specific* transactio
   from digitising tax administration. Against that backdrop **Partech** logged **$4.1bn** in 2025
   African tech VC (**+25%**, strongest since 2022) — but debt financing was **41%** of it, the
   "Big Four" ([[KEN]]/[[ZAF]]/[[EGY]]/[[NGA]]) took **72%**, and domestic investors supplied
-  **45%** (up from ~23%); fintech remained the largest sector ($1.49bn). Naming/venue vary across
+  **45%** (up from ~23%); fintech remained the largest sector ($1.49bn). *(Partech's series is not
+  interchangeable with AVCA's or Disrupt Africa's — see the tracker note below before quoting it.)*
+  Naming/venue vary across
   accounts (AU summit, Addis vs Abidjan launch); both trace to the same NAFA framework. See
   [[gov.policy]], [[data.statistics]], [[tech.industry]]. Sources:
   [[2026-02-26 The AfDB's push for African financial sovereignty, and a tech investment rebound]],
@@ -123,16 +125,22 @@ Investment flowing into African digital transformation. (A *specific* transactio
   [[2026-04-01 Nigeria satellite revenue soars to $2 billion]].
 - **Health-aid as contested external finance (2025-12→2026-02).** US **America First Global
   Health Strategy** ([[america-first-global-health-strategy]]) bilaterals show health funding
-  operating as sovereignty-tied finance: **22 African countries** signed late-2025→early-2026.
-  Kenya's **5-yr, $2.5bn** framework ([[us-kenya-health-framework]]) — first signed — was
-  **halted by its High Court** over data-sharing and constitutional concerns; **[[ZWE]]
-  Zimbabwe rejected** a **$367m/5-yr** deal ([[zimbabwe-us-health-mou]]) as a sovereignty threat
-  (US Embassy's own figure; the earlier "$350m" a pre-announcement estimate — REV-004 resolved),
-  and Zambia stalled over data clauses. Aid conditioned on up to 25-yr health-data access for
-  5-yr funding — external finance that several states now decline. See [[finance.mou]],
-  [[geopol.usa]], [[gov.protect]], [[KEN]]. Sources:
+  operating as sovereignty-tied finance: **22 African countries** signed late-2025→early-2026,
+  with aid conditioned on up to 25-yr health-data access for 5-yr funding — external finance
+  that three states have now declined or stalled. Kenya's **5-yr, $2.5bn** framework
+  ([[us-kenya-health-framework]]) — first signed — was **halted by its High Court** over
+  data-sharing and constitutional concerns. **[[ZWE]] Zimbabwe rejected** a **$367m/5-yr** deal
+  ([[zimbabwe-us-health-mou]]) as a sovereignty threat (US Embassy's own figure; the earlier
+  "$350m" a pre-announcement estimate — REV-004 resolved). And **[[ZMB]] Zambia** effectively
+  **halted** a leaked draft **$1.012bn/5yr** MoU ([[zambia-us-health-mou]]) that tied funding to
+  hiring 40,000 health workers, a $400m Zambian contribution, **10-year health-data access and a
+  25-year pathogen-data pledge**, and — per the US embassy — copper/cobalt mining access; Zambia
+  requested "revisions" and its health minister was fired days after denying the mining link.
+  See [[finance.mou]], [[geopol.usa]], [[gov.protect]], [[KEN]]. Sources:
   [[2026-03-27 Kenya's Health Deal Is a Stress Test for the America First Global Health Strategy]],
-  [[2026-02-24 ⁠Zimbabwe rejects $350 million US health funding deal warns It threatens national sovereignty]].
+  [[2026-02-24 ⁠Zimbabwe rejects $350 million US health funding deal warns It threatens national sovereignty]],
+  [[2026-02-25 US accused of 'shameless exploitation' over proposed Zambian health aid deal]],
+  [[2026-02-26 Zambia rejects U.S. health aid over mining partnership ties]].
 
 - **European DFI capital into North African connectivity (2026-01).** The **[[ebrd]]**
   signed an up-to-**€190m** development-linked loan (four tranches, first €50m) for
@@ -194,16 +202,6 @@ Investment flowing into African digital transformation. (A *specific* transactio
   $4bn); Kinshasa calls the documents a non-binding MoU. A cautionary tale on private
   tech-infrastructure finance without enforceable terms. See [[dpi.pay]], [[geopol.usa]].
   Source: [[2026-01-19 US fintech sues DR Congo for $400m over failed banking deal]].
-- **[[ZMB]] Zambia — a $1bn US health deal, then rejection (2026-02).** Extending the
-  health-aid-as-contested-finance pattern above: a leaked draft **$1.012bn/5yr** US MoU
-  ([[zambia-us-health-mou]]) tied funding to hiring 40,000 health workers, a $400m Zambian
-  contribution, **10-year health-data access and a 25-year pathogen-data pledge**, and — per
-  the US embassy — copper/cobalt mining access. Zambia requested "revisions" and effectively
-  **halted** it; the health minister was fired days after denying the mining link (joining
-  Zimbabwe and Kenya in pushing back). See [[finance.mou]], [[geopol.usa]], [[gov.protect]].
-  Sources: [[2026-02-25 US accused of 'shameless exploitation' over proposed Zambian health aid deal]],
-  [[2026-02-26 Zambia rejects U.S. health aid over mining partnership ties]].
-
 - **[[ZMB]] Zambia (2025).** [[dzap]] — a **US$100M IDA grant** + **US$20M unguaranteed
   commercial financing** — under the **US$2.48bn** [[idea-mpa]] regional envelope. The
   operation is **MFD-enabling** and **private-capital-enabling**: World Bank concessional
@@ -231,20 +229,40 @@ Investment flowing into African digital transformation. (A *specific* transactio
   [[infra.store]]. Sources:
   [[2025-12-04 Is it a bird Is it plane No, Jim, it's an African mobile operator, but not as we know it 9]],
   [[2026-05-19 Trying to make sense of who will use Artificial Intelligence in Africa and how – Going beyond the hype]].
-- **The trackers are not commensurable (resolved 2026-07-20).** **Never sum, average or cross-check**
-  African funding trackers. **Partech** counts **equity plus debt, by deal**, across a wide tech universe
-  (**US$4.1bn / 570 deals**, +25%, published 2026-01-22 — equity US$2.41bn/462, debt US$1.64bn/107);
-  **[[disrupt-africa]]** publishes a **self-declared minimum floor**, **by funded venture**, restricted to a
-  narrow startup test (**US$1,636,700,000 / 178 startups**, +46.2%, 2026-02-03). **Two traps.** Their
-  big-four shares only *appear* to agree — Disrupt Africa's **72.5% is by count** (129/178) against
-  Partech's **72% by value**, and its by-value share is **88%**, a **16-point divergence**. And Partech's
-  **debt subtotal (US$1.64bn)** equals Disrupt Africa's **total (US$1.6367bn)** by **coincidence, not
-  reconciliation**. The gap localises to **debt megadeals to mature companies**: Kenya is Partech's #1
-  (US$1.04bn, 48% debt) but Disrupt Africa's #4 (US$273.2m), 3.8× apart, while equity-shaped Nigeria differs
-  by only 1.2×. *CC recommends* — a curation call, not settled — citing Partech as the headline series and
-  retaining Disrupt Africa as a named floor series. **Never write a bare "Africa raised $X in 2025".**
+- **CY2025 African tech funding — four published series, none commensurable (resolved 2026-07-20).**
+  **Never sum, average or cross-check** African funding trackers, and **never write a bare "Africa raised
+  $X in 2025".** The four series in circulation measure different things. **Partech** counts **equity plus
+  debt, by deal**, across a wide tech universe (**US$4.1bn / 570 deals**, +25%, published 2026-01-22 —
+  equity US$2.41bn/462, debt US$1.64bn/107). **AVCA** reports **US$3.9bn across 506 deals**, also equity
+  plus venture debt (US$2.1bn equity / US$1.8bn debt) — i.e. **the analogue of Partech's US$4.1bn, not a
+  rival to Partech's US$2.41bn equity figure**; quoting AVCA's US$3.9bn against Partech's equity series
+  compares a **total to a subtotal**. **[[disrupt-africa]]** publishes a **self-declared minimum floor**,
+  **by funded venture**, restricted to a narrow startup test (**US$1,636,700,000 / 178 startups**, +46.2%,
+  2026-02-03). A **fifth figure in circulation, TechCabal Insights' US$3.42bn / 502 deals, has no
+  established basis and is marked do-not-cite.**
+  **Two traps between Partech and Disrupt Africa.** Their big-four shares only *appear* to agree — Disrupt
+  Africa's **72.5% is by count** (129/178) against Partech's **72% by value**, and its by-value share is
+  **88%**, a **16-point divergence**. And Partech's **debt subtotal (US$1.64bn)** equals Disrupt Africa's
+  **total (US$1.6367bn)** by **coincidence, not reconciliation**. The gap localises to **debt megadeals to
+  mature companies**: Kenya is Partech's #1 (US$1.04bn, 48% debt) but Disrupt Africa's #4 (US$273.2m), 3.8×
+  apart, while equity-shaped Nigeria differs by only 1.2×.
+  **The AVCA / Disrupt Africa divergence is a definitional artefact, not a conflict** — five separable
+  causes, confirmed against both methodology sections. (1) **Scope**: AVCA excludes growth equity (routed to
+  its *African Private Capital Activity Report*), pre-seed, crowdfunding and grants; Disrupt Africa includes
+  pre-seed (20.5% of staged rounds) but excludes corporate spin-offs and firms over ~10 years old.
+  (2) **Units**: 432 AVCA *deals* against 178 Disrupt Africa *ventures*. (3) **Disclosure**: Disrupt Africa
+  books undisclosed rounds at the **lowest possible figure** and states the true total "is likely to be
+  higher", so part of its year-on-year move is a disclosure artefact. (4) **The debt shares are not the same
+  statistic** — AVCA 47% *of value*, Disrupt Africa 11.8% *of ventures raising any debt*. (5) **AVCA parks
+  60 deals / US$1.56bn — 40% of continental value — in an unattributed "Multi Region" bucket**, so
+  cross-publisher country comparison is not possible at all. Kenya CY2025 is the illustration:
+  **US$335m / US$1,096m / US$273.2m**, three numbers for one country-year.
+  *CC recommends* — a curation call, not settled — Partech as the headline series for **African tech
+  venture**, AVCA for **African venture as an asset class** (it alone carries exits, fundraising and LP
+  composition), and Disrupt Africa retained as a named floor series.
   Sources: [[2026-01-22-partech-africa-tech-vc-report-2025]],
-  [[2026-02-03-disrupt-africa-tech-startups-funding-report-2025]].
+  [[2026-02-03-disrupt-africa-tech-startups-funding-report-2025]],
+  [[2026-02-10-avca-venture-capital-in-africa-report-2025]].
 - **CY2025 equity: two trackers, opposite signs — and the disagreement is in the 2024 denominator
   (resolved 2026-07-20).** **Partech** reports African tech equity **up 8% to US$2.41bn** across 462 deals
   (published 2026-01-22); **AVCA** reports African venture equity **down 21% to US$2.1bn** across 432 deals
@@ -276,25 +294,6 @@ Investment flowing into African digital transformation. (A *specific* transactio
   5 experts, 100 staff-days, 16 weeks, including a **business plan targeting DPA cost recovery within five
   years** and a proposed **scale of fines**. Not just capacity but the terms on which a sovereign regulator
   will fund itself. Source: [[2025-10-01-dmap-tor-operationalization-data-protection-authority]].
-- **AVCA is a third non-commensurable series — and its headline is not an equity series (2026-02-01).**
-  AVCA reports **US$3.9bn across 506 deals** for CY2025 — **equity plus venture debt** (US$2.1bn equity /
-  US$1.8bn debt), i.e. **the analogue of Partech's US$4.1bn, not a rival to Partech's US$2.41bn equity
-  figure**. Quoting AVCA's US$3.9bn against Partech's equity series compares a **total to a subtotal**.
-  AVCA's own equity line is **US$2.1bn, −21% YoY, 432 deals** against Partech's **US$2.41bn, +8%** — and
-  that opposite sign is **not a rebase**: the two sit on different 2024 bases (Partech US$2.2bn, published
-  Jan 2025 and unchanged; AVCA's ≈US$2.7bn, derived, never printed). A **fifth figure in circulation,
-  TechCabal Insights' US$3.42bn / 502 deals, has no established basis and is marked do-not-cite.**
-- **The AVCA / Disrupt Africa divergence is a definitional artefact, not a conflict — five separable
-  causes, now confirmed against both methodology sections.** (1) **Scope**: AVCA excludes growth equity
-  (routed to its *African Private Capital Activity Report*), pre-seed, crowdfunding and grants; Disrupt
-  Africa includes pre-seed (20.5% of staged rounds) but excludes corporate spin-offs and firms over ~10
-  years old. (2) **Units**: 432 AVCA *deals* against 178 Disrupt Africa *ventures*. (3) **Disclosure**:
-  Disrupt Africa books undisclosed rounds at the **lowest possible figure** and states the true total "is
-  likely to be higher", so part of its year-on-year move is a disclosure artefact. (4) **The debt shares
-  are not the same statistic** — AVCA 47% *of value*, Disrupt Africa 11.8% *of ventures raising any
-  debt*. (5) **AVCA parks 60 deals / US$1.56bn — 40% of continental value — in an unattributed
-  "Multi Region" bucket**, so cross-publisher country comparison is not possible at all. Kenya CY2025 is
-  the illustration: **US$335m / US$1,096m / US$273.2m**, three numbers for one country-year.
 
 ## Places
 

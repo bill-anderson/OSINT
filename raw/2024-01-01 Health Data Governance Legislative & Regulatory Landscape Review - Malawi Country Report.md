@@ -2,7 +2,7 @@
 type: source
 artefact: "2024-01-01-Country-Report-Malawi.pdf"
 title: Health Data Governance Legislative & Regulatory Landscape Review - Malawi Country Report
-url: https://www.transformhealthcoalition.org/
+url: https://healthdatagovernance.org/wp-content/uploads/2025/01/Country-Report-Malawi.pdf
 publisher: Transform Health
 published: 2024-01-01
 date_precision: year

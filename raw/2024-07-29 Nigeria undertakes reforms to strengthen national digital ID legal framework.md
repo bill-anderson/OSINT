@@ -10,6 +10,7 @@ lens: []
 body_completeness: full
 page: Nigeria undertakes reforms to strengthen national digital ID legal framework - Biometric Update
 title: Nigeria undertakes reforms to strengthen national digital ID legal framework
+url: https://www.biometricupdate.com/202407/nigeria-undertakes-reforms-to-strengthen-national-digital-id-legal-framework
 author: Ayang Macdonald
 published: 2024-07-29
 accessed: 2026-07-16

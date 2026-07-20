@@ -10,6 +10,7 @@ lens: []
 body_completeness: full
 page: 
 title: Interoperability of CRVS and EIR systems for improved EPI management in Rwanda
+url: https://dhis2.org/rwanda-crvs-eir-integration/
 author: Max Krafft
 published: 2022-04-28
 accessed: 2026-07-16

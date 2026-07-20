@@ -1,7 +1,7 @@
 ---
 type: source
 title: "Digital Trade Regulatory Integration — Country Profile: Liberia"
-url: https://documents.worldbank.org
+url: https://www.uneca.org/sites/default/files/ATPC/cp/Digital%20trade%20regulatory%20integration%20-%20Country%20profile%20-%20Liberia-%20ENG.pdf
 publisher: World Bank
 author: World Bank
 published: 2024-01-01

@@ -10,6 +10,7 @@ lens: []
 body_completeness: full
 page: How NIMC is building Nigeria's digital infrastructure - The Guardian Nigeria
 title: How NIMC is building Nigeria's digital infrastructure
+url: https://guardian.ng/opinion/how-nimc-is-building-nigerias-digital-infrastructure/
 author: 'Sola Akinsanmi (opinion)
 published: 2025-10-04
 accessed: 2026-07-16

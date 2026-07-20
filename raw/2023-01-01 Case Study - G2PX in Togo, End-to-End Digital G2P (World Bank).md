@@ -1,7 +1,7 @@
 ---
 type: source
 title: Case Study — G2PX in Togo: End-to-End Digital G2P
-url: https://documents.worldbank.org/
+url: https://documents.worldbank.org/curated/en/099092023102014635
 publisher: World Bank (G2PX)
 published: 2023-01-01
 date_precision: year

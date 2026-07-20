@@ -1,7 +1,7 @@
 ---
 type: source
 title: The National General Education Progress Report 2024 (Eswatini)
-url: https://www.gov.sz/
+url: https://www.emis.co.sz/wp-content/uploads/2025/04/National-General-Education-Report-2024-2_compressed.pdf
 publisher: Ministry of Education and Training, Eswatini
 published: 2024-01-01
 date_precision: year

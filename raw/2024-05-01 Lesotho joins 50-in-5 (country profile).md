@@ -1,7 +1,7 @@
 ---
 type: source
 title: "Lesotho joins 50-in-5 (country profile)"
-url: https://50in5.net
+url: https://50in5.net/lesotho-joins-50-in-5/
 publisher: 50-in-5 campaign
 author: 50-in-5
 published: 2024-05-01

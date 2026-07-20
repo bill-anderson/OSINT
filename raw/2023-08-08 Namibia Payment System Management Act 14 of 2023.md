@@ -2,7 +2,7 @@
 type: source
 artefact: "2023-08-08-Payment System Management Act 14 of 2023.pdf"
 title: Namibia Payment System Management Act 14 of 2023
-url: 
+url: https://www.bon.com.na/CMSTemplates/Bon/Files/bon.com.na/94/94193758-e15b-4af9-8321-4801142c82f7.pdf
 publisher: Government of Namibia (Government Gazette)
 published: 2023-08-08
 date_precision: day

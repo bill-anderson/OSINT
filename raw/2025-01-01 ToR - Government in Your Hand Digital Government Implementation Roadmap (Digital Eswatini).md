@@ -1,7 +1,7 @@
 ---
 type: source
 title: Terms of Reference: Digital Government Implementation Roadmap Development ('Government in Your Hand')
-url: https://documents.worldbank.org/
+url: https://www.gov.sz/images/ICT/Digital%20Government%20Implementation%20Roadmap%20Development.pdf
 publisher: Government of Eswatini / World Bank (Digital Eswatini Project, P508948)
 published: 2025-01-01
 date_precision: year

@@ -2,7 +2,7 @@
 type: source
 artefact: "2019-12-24-loi-2019-71_modifloirelativealaprotectiondesdonneesacaracterepersonnel_.pdf"
 title: Niger Data Protection Law - Loi 2019-71 (amending Loi 2017-28)
-url: https://www.lesahel.org/
+url: https://www.dataguidance.com/sites/default/files/loi-2019-71_modifloirelativealaprotectiondesdonneesacaracterepersonnel_.pdf
 publisher: Republic of Niger
 published: 2019-12-24
 date_precision: day

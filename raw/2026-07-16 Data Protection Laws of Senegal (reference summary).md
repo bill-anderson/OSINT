@@ -1,7 +1,7 @@
 ---
 type: source
 title: Data Protection Laws of Senegal (reference summary)
-url: 
+url: https://dataprotection.africa/wp-content/uploads/2019/10/Senegal-Factsheet.pdf
 publisher: Data-protection legal reference compendium (secondary summary of Law No. 2008-12)
 published: 2026-07-16
 date_precision: day

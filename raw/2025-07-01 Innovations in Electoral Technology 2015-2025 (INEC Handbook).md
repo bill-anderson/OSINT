@@ -1,6 +1,7 @@
 ---
 type: source
 title: Innovations in Electoral Technology 2015–2025 (INEC Handbook)
+url: https://wp1.inecnigeria.org/wp-content/uploads/INEC-Election-Technologies-Handbook.pdf
 publisher: Independent National Electoral Commission (INEC)
 published: 2025-07-01
 date_precision: month

@@ -1,7 +1,7 @@
 ---
 type: source
 title: "Liberia Mobile Money Regulations (Central Bank of Liberia)"
-url: https://www.cbl.org.lr
+url: https://www.cbl.org.lr/sites/default/files/documents/MobileMoneyRegulations.pdf
 publisher: Central Bank of Liberia
 author: Central Bank of Liberia
 published: 2024-01-01

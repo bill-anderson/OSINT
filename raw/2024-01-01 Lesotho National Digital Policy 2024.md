@@ -1,7 +1,7 @@
 ---
 type: source
 title: "Lesotho National Digital Policy 2024"
-url: https://www.gov.ls
+url: https://www.policyvault.africa/wp-content/uploads/2025/09/LSO61.pdf
 publisher: Government of Lesotho (MICSTI)
 author: Government of Lesotho
 published: 2024-01-01

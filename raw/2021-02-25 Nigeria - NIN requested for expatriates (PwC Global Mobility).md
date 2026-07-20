@@ -1,6 +1,7 @@
 ---
 type: source
 title: Nigeria — National Identity Number requested for expatriates (PwC Global Mobility Services)
+url: https://www.pwc.com/gx/en/services/people-organisation/publications/assets/nigeria-national-identity.pdf
 publisher: PwC (Insights from Global Mobility Services)
 published: 2021-02-25
 date_precision: day

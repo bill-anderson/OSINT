@@ -2,7 +2,7 @@
 type: source
 artefact: "2023-06-01-P1756020a0d1e40bd0b07704e155e33b0eb.pdf"
 title: WURI Program - Unique Identifiers to Enable Access to Human Development Services (World Bank)
-url: https://documents.worldbank.org/
+url: https://documents.worldbank.org/curated/en/099072623112025025
 publisher: World Bank
 published: 2023-06-01
 date_precision: month

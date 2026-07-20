@@ -1,7 +1,7 @@
 ---
 type: source
 title: Project Appraisal Document: Health System Strengthening for Human Capital Development in Eswatini (PAD3539)
-url: https://documents.worldbank.org/
+url: https://documents.worldbank.org/curated/en/667311591296915504
 publisher: World Bank
 published: 2020-05-29
 date_precision: day

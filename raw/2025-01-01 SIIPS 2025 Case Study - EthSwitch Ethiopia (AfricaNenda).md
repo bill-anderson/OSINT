@@ -1,7 +1,7 @@
 ---
 type: source
 title: SIIPS 2025 Case Study — EthSwitch Ethiopia (AfricaNenda)
-url:
+url: https://africanenda.org/wp-content/uploads/siips_2025_EthSwitch-Ethiopia_CaseStudy_en.pdf
 publisher: AfricaNenda (State of Inclusive Instant Payment Systems in Africa)
 published: 2025-01-01
 date_precision: year

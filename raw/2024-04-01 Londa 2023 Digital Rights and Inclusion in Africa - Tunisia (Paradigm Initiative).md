@@ -1,7 +1,7 @@
 ---
 type: source
 title: Londa 2023 - Digital Rights and Inclusion in Africa Report: Tunisia
-url: https://paradigmhq.org/
+url: https://paradigmhq.org/wp-content/uploads/2024/06/Tunisia-Country-Report.pdf
 publisher: Paradigm Initiative
 lens: []
 body_completeness: full

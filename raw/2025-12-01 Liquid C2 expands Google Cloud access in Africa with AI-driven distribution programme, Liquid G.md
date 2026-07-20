@@ -2,7 +2,7 @@
 type: source
 title: "Liquid C2 expands Google Cloud access in Africa with AI-driven distribution programme, Liquid G"
 publisher: Liquid C2
-url: https://liquidc2.com/
+url: https://liquidc2.com/liquid-c2-expands-google-cloud-access-in-africa-with-ai-driven-distribution-programme-liquid-g/
 date_source: source
 author: Liquid C2
 published: 2025-12-01

@@ -1,7 +1,7 @@
 ---
 type: source
 title: Digital Economy for Zimbabwe: Country Diagnostic Report
-url: https://documents.worldbank.org/
+url: https://documents.worldbank.org/curated/en/982981621880260112
 publisher: World Bank Group
 published: 2021-03-01
 date_precision: month

@@ -1,6 +1,7 @@
 ---
 type: source
 title: Update on the Implementation of Digital Identity in Nigeria (NIMC DG, ID4Africa 2024)
+url: https://id4africa.com/2024/ps1/PS1-3-Nigeria-Final.pdf
 ingested: 2026-07-17
 lens: []
 body_completeness: full

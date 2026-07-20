@@ -1,7 +1,7 @@
 ---
 type: source
 title: WB — End-user perspectives on Fayda ID from marginalized and vulnerable groups
-url:
+url: https://documents.worldbank.org/curated/en/099030824142042717
 publisher: World Bank
 published: 2024-01-01
 date_precision: year

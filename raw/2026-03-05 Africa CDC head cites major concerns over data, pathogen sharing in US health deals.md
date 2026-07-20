@@ -2,7 +2,7 @@
 type: source
 title: "Africa CDC head cites major concerns over data, pathogen sharing in US health deals"
 publisher: Channel Africa (Reuters)
-url: https://www.channelafrica.co.za/
+url: https://www.channelafrica.co.za/channelafrica/news/africa-cdc-head-cites-major-concerns-over-data-pathogen-sharing-in-us-health-deals/
 date_precision: day
 date_source: source
 author: Reuters

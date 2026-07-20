@@ -10,6 +10,7 @@ lens: []
 body_completeness: full
 page: NIN enrollments hit 123.9 million in October - NIMC - Nairametrics
 title: NIN enrollments hit 123.9 million in October - NIMC
+url: https://nairametrics.com/2025/12/18/nin-enrollments-hit-123-9-million-in-october-nimc/
 author: Samson Akintaro
 published: 2025-12-18
 accessed: 2026-07-16

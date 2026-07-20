@@ -1,6 +1,7 @@
 ---
 type: source
 title: Restructuring Paper — Nigeria Digital Identification for Development Project (World Bank, P167183, Report RES00579)
+url: https://documents.worldbank.org/curated/en/099122424123515222
 publisher: World Bank (Digital Development Global Practice, Western & Central Africa)
 published: 2024-12-01
 date_precision: month

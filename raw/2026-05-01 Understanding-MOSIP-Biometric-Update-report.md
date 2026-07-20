@@ -1,7 +1,7 @@
 ---
 type: source
 title: "Understanding MOSIP: What the Modular Open-Source Identity Platform Is and How It Is Used"
-url: https://www.biometricupdate.com/
+url: https://www.biometricupdate.com/wp-content/uploads/2026/06/Understanding-MOSIP-Biometric-Update-report.pdf
 publisher: Biometric Update (Biometrics Research Group, Inc.)
 published: 2026-05-01
 date_precision: day

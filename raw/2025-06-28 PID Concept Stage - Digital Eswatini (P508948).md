@@ -1,7 +1,7 @@
 ---
 type: source
 title: Project Information Document (Concept Stage): Digital Eswatini (P508948, PIDDC01229)
-url: https://documents.worldbank.org/
+url: https://documents.worldbank.org/curated/en/099062825152022388
 publisher: World Bank
 published: 2025-06-28
 date_precision: day

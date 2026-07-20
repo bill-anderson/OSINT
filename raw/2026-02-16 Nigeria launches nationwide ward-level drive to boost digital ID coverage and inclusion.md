@@ -10,6 +10,7 @@ lens: []
 body_completeness: full
 page: Nigeria launches nationwide drive to boost digital ID coverage, improve inclusion - Biometric Update
 title: Nigeria launches nationwide drive to boost digital ID coverage, improve inclusion
+url: https://www.biometricupdate.com/202602/nigeria-launches-nationwide-drive-to-boost-digital-id-coverage-improve-inclusion
 author: Ayang Macdonald
 published: 2026-02-16
 accessed: 2026-07-16

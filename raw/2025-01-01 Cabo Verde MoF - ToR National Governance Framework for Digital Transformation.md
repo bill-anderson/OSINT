@@ -1,7 +1,7 @@
 ---
 type: source
 title: Cabo Verde MoF — ToR, National Governance Framework for Digital Transformation
-url:
+url: https://ugpe.gov.cv/concurso/national-governance-framework-for-digital-transformation-and-institutional-coordination
 publisher: Republic of Cabo Verde, Ministry of Finance (UGPE)
 published: 2025-01-01
 date_precision: year

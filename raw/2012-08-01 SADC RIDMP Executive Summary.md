@@ -1,7 +1,7 @@
 ---
 type: source
 title: "SADC Regional Infrastructure Development Master Plan — Executive Summary"
-url: https://www.sadc.int
+url: https://www.sadc.int/document/regional-infrastructure-development-master-plan-executive-summary-2012
 publisher: Southern African Development Community (SADC)
 published: 2012-08-01
 date_precision: month

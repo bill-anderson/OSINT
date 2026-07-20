@@ -1,6 +1,7 @@
 ---
 type: source
 title: "Digital compacts: global ideals, regional realities"
+url: https://devinit.org/resources/digital-compacts-global-ideals-regional-realities/
 publisher: Development Initiatives
 date_source: source
 author: [[bill]]

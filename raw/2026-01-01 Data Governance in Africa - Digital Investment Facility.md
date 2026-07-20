@@ -2,7 +2,7 @@
 type: source
 title: "Data Governance in Africa — Digital Investment Facility"
 publisher: D4D Hub / Digital Investment Facility
-url: https://d4dhub.eu/
+url: https://d4dhub.eu/data-governance-in-africa-digital-investment-facility
 date_source: source
 author: D4D Hub
 published: 2026

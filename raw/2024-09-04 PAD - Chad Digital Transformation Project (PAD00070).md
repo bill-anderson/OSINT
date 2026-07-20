@@ -1,7 +1,7 @@
 ---
 type: source
 title: Project Appraisal Document: Chad Digital Transformation Project (PAD00070)
-url: https://documents.worldbank.org/
+url: https://documents.worldbank.org/curated/en/099090624105035738
 publisher: World Bank
 published: 2024-09-04
 date_precision: day

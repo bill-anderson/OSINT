@@ -1,7 +1,7 @@
 ---
 type: source
 title: "The Digital Transformation Strategy for Africa (2020-2030)"
-url: https://au.int
+url: https://au.int/en/documents/20200518/digital-transformation-strategy-africa-2020-2030
 publisher: African Union
 published: 2020-02-01
 date_precision: month

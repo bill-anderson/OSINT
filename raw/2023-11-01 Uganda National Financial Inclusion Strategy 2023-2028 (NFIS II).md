@@ -1,7 +1,7 @@
 ---
 type: source
 title: Uganda National Financial Inclusion Strategy 2023-2028 (NFIS II)
-url: https://www.bou.or.ug/
+url: https://ugandabankers.org/wp-content/uploads/2024/01/National-Financial-Inclusion-Strategy-2023-2028-.pdf
 publisher: Republic of Uganda - Ministry of Finance, Planning and Economic Development with Bank of Uganda
 published: 2023-11-01
 date_precision: month

@@ -2,7 +2,7 @@
 type: source
 artefact: "2024-10-01-Annual-Report-2023-2024.pdf"
 title: Mauritius Police Force Annual Report 2023-2024
-url: 
+url: http://police.govmu.org/police/?mdocs-file=8001
 publisher: Mauritius Police Force
 published: 2024-10-01
 date_precision: month

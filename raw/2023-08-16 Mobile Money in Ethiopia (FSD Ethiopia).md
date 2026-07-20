@@ -1,7 +1,7 @@
 ---
 type: source
 title: Mobile Money in Ethiopia (FSD Ethiopia)
-url:
+url: https://fsdethiopia.org/wp-content/pdf/Financial%20Sector%20Deepening%20Ethiopia%20Blog%20_%20Mobile%20Money%20in%20Ethiopia.pdf
 publisher: Financial Sector Deepening Ethiopia (FSD Ethiopia)
 published: 2023-08-16
 date_precision: day

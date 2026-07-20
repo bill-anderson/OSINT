@@ -10,6 +10,7 @@ lens: []
 body_completeness: full
 page: Why Are Rwandans Getting Multiple National ID Numbers? Auditor General Points to a System Flaw
 title: Why Are Rwandans Getting Multiple National ID Numbers? Auditor General Points to a System Flaw
+url: https://www.ktpress.rw/2025/06/why-are-rwandans-getting-multiple-national-id-numbers-auditor-general-points-to-a-system-flaw/
 author: Stephen Kamanzi
 published: 2025-06-18
 accessed: 2026-07-16

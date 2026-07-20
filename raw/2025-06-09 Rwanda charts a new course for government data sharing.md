@@ -10,6 +10,7 @@ lens: []
 body_completeness: full
 page: 
 title: Rwanda charts a new course for government data sharing
+url: https://iapp.org/news/a/rwanda-charts-a-new-course-for-government-data-sharing
 author: Ridwan Oloyede
 published: 2025-06-09
 accessed: 2026-07-16

@@ -1,7 +1,7 @@
 ---
 type: source
 title: Sudan Digital Economy Assessment (World Bank)
-url:
+url: https://thedocs.worldbank.org/en/doc/61714f214ed04bcd6e9623ad0e215897-0400012021/related/Digital-Economy-RepSudan-jun22.pdf
 publisher: World Bank
 published: 2022-06-01
 date_precision: month

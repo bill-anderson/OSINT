@@ -13,6 +13,7 @@ entities: [[nida-rwanda], [rwanda-information-society-authority], [rura-rwanda],
 lens: []
 body_completeness: full
 ---
+<!-- url unrecovered as of 2026-07-20 -->
 
 # E-Government Systems Interoperability Challenges: Public Sector in Rwanda (Mugumya, MSc thesis, 2019)
 

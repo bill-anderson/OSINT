@@ -14,6 +14,7 @@ lens: []
 body_completeness: full
 artefact: "[[2023-05-01 senegal.pdf]]"
 ---
+<!-- url unrecovered as of 2026-07-20 -->
 
 # Children's Right to Identity in Senegal (CHIP submission to UN CRC)
 

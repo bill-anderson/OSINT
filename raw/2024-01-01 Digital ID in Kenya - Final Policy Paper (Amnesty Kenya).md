@@ -1,7 +1,7 @@
 ---
 type: source
 title: "Digital ID in Kenya — Final Policy Paper"
-url: https://www.amnestykenya.org
+url: https://www.amnestykenya.org/wp-content/uploads/2024/01/Digital-ID-in-Kenya-FINAL-POLICY-PAPER_Print.pdf
 publisher: Amnesty International Kenya
 author: Amnesty International Kenya
 published: 2024-01-01

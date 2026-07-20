@@ -2,7 +2,7 @@
 type: source
 title: "Google plans to build four subsea cable connectivity hubs for Africa"
 publisher: Developing Telecoms
-url: https://developingtelecoms.com/
+url: https://developingtelecoms.com/telecom-technology/data-centres-networks/19091-google-plans-to-build-four-subsea-cable-connectivity-hubs-for-africa.html
 date_precision: day
 date_source: source
 author: John Tanner

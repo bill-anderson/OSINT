@@ -2,7 +2,7 @@
 type: source
 title: "Terms of Reference — Development of Benin's National Data Strategy (Smart Africa)"
 publisher: Smart Africa Secretariat (with GIZ)
-url: https://smartafrica.org/
+url: https://smartafrica.org/wp-content/uploads/2025/11/ToR-Benin-National-Data-Stratetegy_EN-1.pdf
 author: Smart Africa Secretariat
 published: 2025-11-21
 date_precision: day

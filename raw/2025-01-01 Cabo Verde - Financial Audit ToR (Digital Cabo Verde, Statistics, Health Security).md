@@ -1,7 +1,7 @@
 ---
 type: source
 title: Cabo Verde — Financial Audit ToR (Digital Cabo Verde, Statistics, Health Security)
-url:
+url: https://www.mf.gov.cv/documents/20126/0/Financial+Audit+TOR+Digital+Project+Statistics+Projet+and+Health+Program+for+2025+2026+AND+2027.pdf/7f76e433-46ee-5ec8-7e9f-91fcc6a86051?t=1768557682220
 publisher: Republic of Cabo Verde / World Bank (IDA)
 published: 2025-01-01
 date_precision: year

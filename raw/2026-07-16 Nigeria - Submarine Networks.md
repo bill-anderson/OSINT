@@ -10,6 +10,7 @@ lens: []
 body_completeness: full
 page: 
 title: Nigeria - Submarine Networks
+url: https://www.submarinenetworks.com/en/stations/africa/nigeria
 author: 
 published: 2026-07-16
 accessed: 2026-07-16
