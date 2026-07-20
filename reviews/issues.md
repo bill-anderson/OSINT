@@ -25,6 +25,51 @@ removes the item here. A short `issues.md` means you're caught up.
 
 ---
 
+- **ISSUE-034 · Is the energy / towerco decarbonisation thread in scope?** The **Science Based
+  Targets initiative (SBTi)** is referenced in six `raw/` items with no page: it validates the
+  corporate climate targets that [[gsma-mobile-net-zero-2026|GSMA's Mobile Net Zero]] uses as its
+  adoption metric (**46 of 50** operator net-zero commitments validated as of the 2026 edition;
+  **fewer than a quarter** of the largest towercos), and it recurs whenever network energy or
+  towerco decarbonisation comes up, including for African towercos. It sits at the edge of this
+  wiki's data-governance scope, so the question is not "create the page?" but "does the wiki carry
+  this thread at all?" — which the rules do not settle. *Recommend:* carry it, narrowly — network
+  energy is where data-centre and connectivity build-out meets national infrastructure policy, and
+  the thread already arrives uninvited via GSMA. Create SBTi as an **`organisation`** (it is the
+  validator), not an instrument. If the answer is no, drop the six references rather than leaving
+  them dangling. *Decision:* (awaiting). (Migrated from `gaps.md` GAP-XGL-002, surfaced ingest
+  daily-2026-07-19; refiled as an issue 2026-07-20.)
+
+- **ISSUE-035 · Should the wiki carry Africa-focused VC funds as a set?** Held golden-visa
+  reporting names **Antler, Capria Ventures, Delta40 and Enza Capital** as maintaining Kenyan
+  regional offices — the concrete evidence behind the "Nairobi is East Africa's investment hub"
+  claim, and the constituency a residency-by-investment programme would serve. Each is too thin to
+  profile from a bare list mention, but with **Kenyan startups raising $984m in 2025** (~a third of
+  all African startup investment) and Kenya leading again in H1 2026, the funder side of the
+  ecosystem being entirely unmapped is a real structural absence. The `≥3 sources` bar decides
+  individual pages; it does not decide whether to map a *category*. *Recommend:* map them as a set
+  in one pass rather than one at a time — a funder layer sourced piecemeal will always look
+  arbitrary — but gate it on `tech.innovate` being a thread the wiki intends to carry
+  analytically, not just record. *Decision:* (awaiting). (Migrated from `gaps.md` GAP-KEN-003,
+  surfaced ingest daily-2026-07-19; refiled as an issue 2026-07-20.)
+
+- **ISSUE-036 · Ratify the register split in `CLAUDE.md`.** The 2026-07-20 triage split
+  `reviews/gaps.md` (102 items, unclosable by construction) into four registers —
+  `entity-backlog.md`, `acquisitions.md`, `contradictions/queued/`, `watch.md` — leaving `gaps.md`
+  for the narrow case where pursuing an absence is Bill's judgment call. The **work is done and is
+  git-reversible**, but `CLAUDE.md` still describes the old single register, and under the
+  schema-change-control invariant CC does not edit that file silently or as a side effect. So the
+  proposed amendment is held here for explicit ratification. *Proposed changes:* (a) in *Autonomy
+  and review*, replace the two-register description with the five-register one and add the
+  disposal rule — *an item unresolved after two reconcile attempts closes to `watch.md` with a
+  re-check trigger*; (b) in *Filing rules* step 8, redirect the structural-gap check to route by
+  kind (entity → `entity-backlog.md`, known document → `acquisitions.md`, unconfirmed claim →
+  `contradictions/queued/`, not-yet-knowable → `watch.md`, judgment call → `gaps.md`); (c) change
+  the standing status line to `issues - NN ; contradictions - NN ; gaps - NN ; acquisitions - NN`,
+  dropping nothing but making the acquisition queue visible, since it is now the largest real
+  backlog; (d) note that `contradictions/queued/` is promoted to `open/` **in tranches**, so one
+  reconcile pass is never handed the whole queue. *Recommend:* ratify as drafted. *Decision:*
+  (awaiting). (Surfaced register triage, 2026-07-20.)
+
 
 - **ISSUE-022 · Should DataReportal country reports be admitted as sources, or held as a `resource`
   entity and cited?** The reconcile pass clipped several *Digital 20XX: <country>* editions as sources.
