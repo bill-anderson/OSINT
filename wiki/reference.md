@@ -249,6 +249,7 @@ body_completeness: full   # full | excerpt | paywalled
 | `full` | complete verbatim body as published |
 | `excerpt` | verbatim *portion* kept when the full text is genuinely unavailable (fetch failure, hard paywall serving nothing usable) |
 | `paywalled` | HTTP-200 paywall serving only a free lede; kept **only** where the free body *excluding the title* adds value |
+| *(missing)* | **unverified** — completeness not asserted. New ingests always set the field; a blank is a legacy source, and `full` is never assumed of it. Backfilled from body evidence by lint #15. |
 
 **Paywalled-stub promotion gate.** A `paywalled` item whose payload depends on
 the withheld body needs a **manual subscriber clip before promotion**. One whose
@@ -814,6 +815,12 @@ check acted, a one-line-per-check count.
 13. **Quarantine leaks** — a `wiki/` page citing `reviews/contradictions/research/`,
     `queries/results/`, or any `DO-NOT-INGEST` file: rewire to the ingested
     primary, or remove the citation. These are scratch, never a store of record.
+14. **`url:` quality** — a `raw/` source whose `url:` is a **bare domain** (e.g.
+    `documents.worldbank.org`) or **blank**: recover the canonical document-specific
+    URL. World Bank docs reconstruct from their document/project ID; others by
+    title search. Unrecoverable after one attempt → leave a dated in-file note
+    (`url unrecovered as of YYYY-MM-DD`), don't invent one. A bare domain cites
+    nothing and breaks the dedup key.
 
 ### Auto-resolve onto the page — no queue
 
@@ -834,6 +841,13 @@ check acted, a one-line-per-check count.
    the rest as index lines (per `CLAUDE.md` → *Structure*). Shard an oversized
    index. Place-hub **Recent developments** sections are exempt — they are meant to
    be dated logs.
+15. **`body_completeness` backfill — by evidence, never by guess.** A `raw/` source
+    missing the field: **inspect the stored body**. Clean and untruncated → `full`;
+    truncation or paywall markers ("Read more", "subscribe", a mid-sentence cut) →
+    `excerpt` or `paywalled`; genuinely ambiguous → **leave blank**. Missing means
+    *unverified*, and blank asserts nothing — never set `full` on an unchecked body,
+    because the paywalled-promotion gate and the `full > excerpt` dedup tiebreak both
+    trust the field. Setting it from the body's own evidence is a check, not a claim.
 
 ### Surface to Bill — the only output
 
