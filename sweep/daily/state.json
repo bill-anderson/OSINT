@@ -1,6 +1,6 @@
 {
-  "last_run_completed_utc": "2026-07-19T19:31:00Z",
-  "last_run_staged": 9,
-  "last_run_window": "2026-07-17T19:31:00Z/2026-07-19T19:31:00Z",
-  "note": "Second run of 2026-07-19, 3.5h after the first. It tested the first run's hypothesis that the empty 07-18/07-19 was Exa index lag, and DISPROVED it: 07-17 was a Friday and five domains independently confirmed via live cache-busted listings that they published nothing at the weekend. These journals are weekday publishers. All 9 items staged were 07-17 search-recall misses from the day the first run had already swept — recovered entirely by front-page reconciliation, with Exa search contributing zero. Next run's window should be keyed on Monday 2026-07-20 output."
+  "last_run_completed_utc": "2026-07-20T00:00:00Z",
+  "last_run_staged": 32,
+  "last_run_window": "2026-07-18T00:00:00Z/2026-07-20T00:00:00Z",
+  "note": "Third run. All 32 staged items are dated Mon 2026-07-20; Sat 07-18 and Sun 07-19 returned nil across all ten domains, each established by positive evidence (date-archive 404s with resolving siblings on techafricanews/techcabal, listing ceilings at Fri 07-17 elsewhere) rather than inferred index lag. The weekday-publisher finding now holds across three consecutive weekends. Window end is deliberately set to 00:00Z on 07-20, not the run's wall-clock time: the sweep ran mid-day Monday, so anything published later that day must stay in scope for the next run rather than being cut off behind a mid-day high-water mark. The 48h floor would have caught it regardless; this makes it explicit."
 }

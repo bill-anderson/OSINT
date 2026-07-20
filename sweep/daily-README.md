@@ -155,7 +155,9 @@ from the day *already* swept, not newly-indexed weekend items.
    2026 datelines; itweb's front page dated 8 Jul; connectingafrica's bare
    `/latest-news` missing a known 07-17 article. Appending a query string forces a
    live crawl and fixed every one: `?nocache=YYYYMMDD` generally, `?page=1` on
-   connectingafrica.com, `?p=1` on itweb.africa. **This supersedes the earlier
+   connectingafrica.com, and **`?p=1&nocache=YYYYMMDD` on itweb.africa — `?p=1`
+   alone is NOT sufficient**, and on 2026-07-20 it still served a stale 17-Jul
+   ceiling that hid four of that domain's eight in-window items. **This supersedes the earlier
    blanket "cannot be used this way" warning on datacentresafrica.com,
    connectingafrica.com and telecomreviewafrica.com — their listings *are* usable,
    but only via a cache-busted URL.** Two residual cautions stand: a stale
@@ -164,13 +166,39 @@ from the day *already* swept, not newly-indexed weekend items.
    hero slot is editorially curated rather than chronological — use its aggregate
    `/fr/fils/actualites` and EN feeds. *(Added 2026-07-19; extended 2026-07-19 run 2.)*
 
+   **Known-good and known-dead listing paths** *(established 2026-07-20 — save the
+   404s)*:
+   - wearetech.africa — **`/en/fils-uk` is DEAD** (`CRAWL_NOT_FOUND`); use `/en/news`
+     and `/en/fils-uk/brief`. Critically, **the `brèves` tree is NOT a child of the
+     `/fr/fils/actualites` aggregate** — fetch `/fr/fils/breves`,
+     `/fr/fils/breves/breves-simple` and `/fr/fils/breves/breves-une` separately.
+     On 2026-07-20 the brèves feeds held 5 of the domain's 9 in-window items,
+     including one FR original that predated its EN twin by four hours. A run that
+     treats the actualites aggregate as complete misses the whole tree.
+   - connectingafrica.com — sections nest under parents. Dead: `/data-centers`,
+     `/policy-regulation`, `/mobile-money`. Live: `/connectivity/data-centers`,
+     `/enterprise-networking/regulation`, `/fintech/mobile-money`, `/fintech`.
+   - itweb.africa / itweb.co.za — **`/section/all` does not resolve on either.**
+
    **Date archives are a positive-evidence completeness check** where a domain uses
    dated URLs: on techcabal.com and techafricanews.com, `/YYYY/MM/DD/` resolves for
    days with output and 404s for days without, so a 404 whose sibling days work is
    evidence of *no publication*, not of a fetch problem. Conversely, **ID probing
    does not work on telecomreviewafrica.com** — IDs above the maximum silently fall
    back to recent articles instead of 404ing, so probing can confirm the ceiling but
-   never discover new items.
+   never discover new items. Its **archive date column has also been seen running one
+   day BEHIND the article pages** (2026-07-20) — the inverse of the forward-drift
+   recorded above. Both directions of drift are possible, so on any boundary case
+   take the date from the article page and never from a listing.
+
+   **Listing and search are mutual cross-checks, not primary and fallback.** The
+   "listing over search" ruling holds on yield — across four runs search has
+   contributed near-zero staged items, and on 2026-07-20 it missed ~96% of
+   techafricanews' in-window output and 100% of techcabal's, biometricupdate's and
+   wearetech's. But on 2026-07-20 it was an Exa *search* hit that exposed a stale
+   itweb.africa listing which would otherwise have returned a false nil for the
+   domain. **Run both, and treat a search hit absent from the listing as evidence
+   the listing is stale — not as a stray.** *(Amended 2026-07-20.)*
 4. **Dedup — conservative.** Drop a hit only if it is **(a)** an exact URL already
    in `seen.csv`, in `raw/` frontmatter, or in a current `new-queue/` candidate; or
    **(b)** confidently the same outlet's re-crawl of a story already held.
@@ -343,6 +371,17 @@ window <start>→<end>`.
   dropped, not staged); manual subscriber clip before promotion where the payload
   depends on the withheld body. Mirrored in CLAUDE.md (source frontmatter vocab +
   filing step 3).
+- 2026-07-20 — third run. 32 staged, all Mon 07-20; Sat/Sun nil across all ten
+  domains with positive evidence from every one (date-archive 404s with resolving
+  siblings, or listing ceilings at Fri 07-17). Folded in: **itweb.africa needs
+  `?p=1&nocache=`, not `?p=1`** (a stale listing nearly produced a false nil);
+  **listing and search are mutual cross-checks** — search still yields near-nothing
+  but it is what exposed that stale listing; **known-good/known-dead listing paths**
+  for wearetech (the `brèves` tree is a separate fetch and held 5 of 9 items;
+  `/en/fils-uk` is dead), connectingafrica (sections nest under parents) and itweb
+  (`/section/all` dead); **telecomreviewafrica's archive date column can lag the
+  article page by a day**, the inverse of the recorded forward-drift. Query clusters
+  D1/D2 unchanged.
 - 2026-07-19 (run 2) — second run same day, to test run 1's index-lag hypothesis.
   Findings folded in above: **the weekend caveat** (07-17 was a Friday and five
   domains independently confirmed no weekend publishing — a weekend tail and an

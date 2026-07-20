@@ -6,6 +6,16 @@ Reporting): a few lines each, full detail in `log-archive.md` or git.
 
 ---
 
+## 2026-07-20 — Daily sweep (run 3): 32 staged, weekend nil confirmed everywhere
+
+Window 07-18→07-20, ten domains, one agent each. **32 candidates in `new-queue/`** awaiting Bill's promote-gate; 45 dropped (`sweep/daily/drop-log-2026-07-20.csv`); 0 needing clip. All 32 are Mon 07-20 — Sat/Sun nil on every domain with positive evidence (archive 404s with resolving siblings; listing ceilings at Fri 07-17), so the weekday-publisher finding now holds across three weekends. Best item: Nigeria's Presidential EO on Virtual Assets Coordination, full text.
+
+**Decisions.** (1) Dropped Biometric Update's iiDENTIFii leadership *roundup* — 3 of 4 items non-Africa officeholder churn, and its one Africa item is covered fuller by the ITWeb article; not a dedup coin-flip but "adds nothing material". (2) Kept both outlets on Cassava/ADC and on Vove ID — same event, different outlets, so conservative dedup sends them to lint #7 with full text. (3) Staged Safaricom exec-exit and a wearetech founder profile despite officeholder/scope doubt; dropped the weaker twin profile. Reversible at review.
+
+**README amended** (`sweep/daily-README.md`): itweb.africa needs `?p=1&nocache=` — `?p=1` alone served a stale listing that nearly produced a false nil for the domain; **listing and search are now mutual cross-checks**, since search yields near-nothing but is what exposed that staleness; known-dead paths recorded (wearetech `/en/fils-uk`, itweb `/section/all`, connectingafrica's unnested sections) and the wearetech `brèves` tree flagged as a separate fetch — it held 5 of 9 items there.
+
+Revert: `git checkout <sha> -- new-queue/ sweep/`.
+
 ## 2026-07-20 — Lint #8 (bloat): two concept pages split, entities-index sharded
 
 Bloat lint: gov.protect and infra.store concept pages split to the infra.connect template (17 intersections created, 14 merged; every place-hub link verified, 0/2 lost and both restored). entities-index sharded 26,940 words → 126-word parent + 9 type shards (1,741 in/out). gov.regional kept as thematic. Fixed two uncited-but-held extractions — gabon--gov-protect, caf--infra-store — primaries held all along, now cited (not acquisitions). Revert: `git revert` the individual lint commits.
