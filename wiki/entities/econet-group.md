@@ -30,7 +30,11 @@ mobile-money story via **[[ecocash]]**, and (b) the corporate lineage behind Cas
   energy (incl. solar phone-charging kiosks); e-commerce; education.
 - **Group structure.** Econet Global / Econet Group is the founder vehicle; the infrastructure arm
   is **[[cassava-technologies]]** → **[[liquid-c2]]** (connectivity / cloud / cyber) and
-  **[[africa-data-centres]]**. The Zimbabwean opco [[econet-wireless-zimbabwe]] sits under the Group.
+  **[[africa-data-centres]]**. The Zimbabwean opco [[econet-wireless-zimbabwe]] shares the same
+  founder lineage; **no shareholding document on file establishes it as a subsidiary** — three EWZL
+  corporate filings ingested 2026-07-20, the documents where a parent would appear, contain no
+  occurrence of "Econet Group" or "Econet Global", and EWZL consistently self-describes as "the
+  Group" (as of 2026-07-20).
 
 ## Activity in this wiki
 

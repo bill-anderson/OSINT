@@ -80,7 +80,9 @@ This is where the wiki earns its keep, and where errors actually happen.
 
 - **Every time-varying figure is written dated**: "ranked 156th (2020)", never
   "ranks 156th". No staleness threshold — it's a phrasing rule, so staleness
-  stays visible on the page.
+  stays visible on the page. Exchange rates are time-varying too: carry money in
+  the announcing party's own currency, and write any USD figure as a dated
+  conversion — otherwise one commitment becomes three "different" numbers.
 - **The event date is not the publication date.** When a source re-reports an
   older announcement, establish the event date from the primary or mark it
   unknown. A secondary outlet's own date must never become the event's "as of".

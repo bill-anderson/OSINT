@@ -350,6 +350,126 @@ when the clips land in `raw/`.
 
 ---
 
+## 2026-07-20 — **Rule change:** CLAUDE.md rewritten; decisions now actioned, not queued
+
+**In force from 2026-07-20.** `CLAUDE.md` replaced (6,500 → ~1,400 words). Bill's directive:
+the project was drifting toward manual review and fine-tuning rather than pragmatic automation,
+and the fix is philosophical, not procedural.
+
+**What changed.**
+- **Act, log after, never ask.** CC makes judgment calls the rules don't settle, actions them, and
+  records them under **Decisions**. Bill reverts what he disagrees with. Git is the safety net.
+- **`reviews/issues.md` abolished.** A pending-decision register is the thing being removed. The
+  15 open issues were decided today (below) rather than carried.
+- **Registers 5 → 2.** `contradictions/` and `acquisitions.md`, both drained by CC. `gaps.md`,
+  `issues.md`, `entity-backlog.md`, `watch.md` and `contradictions/queued/` all go. Horizons move
+  onto the page as dated statements of what isn't established, where they are findings rather than
+  chores.
+- **Depth on demand** replaces even coverage. Thin coverage of a country nobody is writing about
+  is now the correct state, not a gap.
+- **No new rule without deleting one**; nothing untouched in a month is kept; no citing issue
+  numbers inside the rules — that back-referencing is how the file became case law.
+- **Duplicates tightened** (Bill): admitted only if they *substantially* add value; a later,
+  better source **replaces** an earlier held one on a tier upgrade — quality beats primacy;
+  keep-both becomes rare.
+- **Entity tagging bounded** (Bill): tag the actors, not every mention — has a page, on the
+  watchlist, or an actor in the development reported. Three to six per source, not twenty.
+  **Institutions, not officeholders.** Untagged names stay greppable in the verbatim body and are
+  backfilled when they start to matter. Ingest cost drops from O(mentions) to O(actors).
+- **Currency:** money is carried in the announcing party's own currency, USD as a dated
+  conversion (folded into the existing dated-figure rule rather than added as a new one).
+
+### Decisions
+
+All 15 open issues resolved on CC's own recommendations under the new rule. Two departed from the
+recommendation as written; both are noted.
+
+- **ISSUE-036 — superseded.** The proposed five-register amendment is moot: the rewrite went
+  further and cut to two. Closed unactioned.
+- **ISSUE-035 — VC funds: reversed my own recommendation. Not mapping them.** I had recommended
+  mapping Antler, Capria, Delta40 and Enza as a set. Under depth-on-demand that is exactly the
+  wrong instinct — it is atlas-building for a thread nobody is writing. Revisit when Bill writes on
+  African VC; the names stay in the verbatim bodies and are greppable.
+- **ISSUE-034 — SBTi: carry it, narrowly.** Network energy is where data-centre build-out meets
+  national infrastructure policy, and the thread arrives uninvited via GSMA. Create as an
+  `organisation` in the next entity pass.
+- **ISSUE-022 — DataReportal editions admitted as sources.** They are the primary for their own
+  figures. Standing caveat: figures are **never comparable across editions** (the publisher
+  silently rebases and says so itself), and an edition year is not an as-of year — *Digital 2026*
+  was published 2025-11-08 on October-2025 data.
+- **ISSUE-023 — run the rebase lint.** The *Digital 2024* → *2025* rebase was publisher-wide, not
+  a Chad correction, so any held *Digital 2024* penetration figure likely carries the same
+  overstatement (~2x in Chad). Queued as a one-off pass.
+- **ISSUE-024 — language-prefixed URLs take the original's date.** The Togo contradiction was
+  caused by a French DHIS2 page carrying its *translation* date, running a two-year-old status
+  claim as current. Added to ingest; lint sweep queued for existing `/fr/`, `/es/` cases.
+- **ISSUE-025 — actioned into CLAUDE.md.** Microsoft SA produced three "different" dollar values
+  for one R5.4bn commitment purely from exchange drift.
+- **ISSUE-026 — name and discount circulating figures.** Mauritania's "70%" stays on the page,
+  named and set aside. A debunked figure that will resurface is more useful named than silently
+  dropped.
+- **ISSUE-027 — the Jamii case study stays in `_leads/`.** Establishing its origin (Co-Develop,
+  2024-10-01) cures the dating problem, not the secondariness; it also carries three verifiable
+  factual errors. Never promoted to `raw/`.
+- **ISSUE-028 — no source-reliability register.** Corrections live on synthesis pages, as now.
+  Creating `reviews/source-notes.md` would have added a sixth register on the day five were
+  removed.
+- **ISSUE-029 — `published` = the reporting date** for recurring monthly primaries (NGX "as at
+  2026-05-31", released ~2026-07-03). It sorts the series correctly and is what a citation names.
+  The event-date rule still governs: figures are "as at 31 May 2026", never "as of July".
+- **ISSUE-030 — both DZAP deviations ratified.** Completing `url:` to a canonical deep link is a
+  link fix, not a reinterpretation, and refusing it would leave a source of record uncitable;
+  `body_completeness: excerpt` is the honest value for a partial verbatim capture.
+- **ISSUE-031 — wiki-authored metadata in `raw/` is correctable.** Filenames and ingest notes are
+  the wiki's words, not the source's; only the body is immutable. The South Sudan NIPS filename
+  asserts a launch the primaries show never happened, and misleads anyone grepping `raw/`.
+  **Rename handed to Bill** (CC cannot move files) — see below.
+- **ISSUE-032 — MACRA stays one page** with a clearly separated DPA section; split when the DPA is
+  legally independent, not before, to avoid rewiring citations twice.
+- **ISSUE-033 — actioned.** `econet-group.md` softened to founder-lineage phrasing with the
+  negative evidence stated and dated, rather than asserting or deleting the parentage claim.
+
+### Queued as work (not decisions)
+
+- The *Digital 2024* rebase lint (ISSUE-023) — potentially many country pages.
+- The translated-page date lint (ISSUE-024) — at least two known DHIS2 French pages.
+- SBTi entity page (ISSUE-034) — next entity pass.
+
+### Correction, same day — abolished registers left live on disk
+
+Bill stopped a CC session that had begun working `reviews/issues.md`. **He was right to.** The
+15 issues had already been decided and logged above, but CC logged the decisions and left
+`issues.md` on disk with every item still reading `*Decision:* (awaiting)` — so any agent reading
+that file would reasonably have re-decided all 15, without sight of this entry, and possibly
+differently. Abolishing a register in the log while leaving it live on disk is not abolishing it.
+
+**Rule learned, and it generalises:** a file's *contents* are its state. Deletion may need Bill,
+but emptying does not — CC closes a register the moment it is abolished, in the same pass, rather
+than logging an intention and handing over a `git rm`. Same principle as `new/ → raw/`, where the
+folder is the state.
+
+Actioned: `issues.md` overwritten with a tombstone pointing here and instructing any agent that
+reads it to stop. `entity-backlog.md` and `watch.md` — which were live-looking worklists with the
+same trap — headed as **closing files**, drain-then-delete, do not append. `contradictions/queued/`
+already carries a README saying nothing there is worked until promoted.
+
+### Handed to Bill (CC cannot delete or move files)
+
+- `git rm reviews/gaps.md reviews/issues.md reviews/entity-backlog.md reviews/watch.md`
+- `git rm -r reviews/contradictions/queued/` — **after** promoting the 43 briefs into
+  `contradictions/open/`, or they are lost.
+- Rename `raw/2025-02-07 South Sudan launches first national instant payment system (NIPS).md`
+  to `...South Sudan launches NIPS project (system never went live).md` or similar (ISSUE-031).
+
+### Blocked
+
+`wiki/reference.md` was not written. The retained schemas, lint checks and sweep procedure live
+only in the superseded `CLAUDE.md`, now in git history, and CC has no shell in this session to
+recover it. Writing it from memory would fabricate the very details it exists to pin down.
+Recover with `git show HEAD~1:CLAUDE.md > wiki/reference-source.md` and CC will cut it down.
+
+---
+
 ## 2026-07-20 — Register triage: `gaps.md` split four ways (102 → 0 open)
 
 **Curator directive (2026-07-20):** Bill judged the gap register manually unmanageable at

@@ -1,4 +1,12 @@
-# reviews/watch.md — standing watches (dormant, not a queue)
+# reviews/watch.md — CLOSING FILE, not a standing register
+
+> **Closing file (2026-07-20).** Under the rewritten `CLAUDE.md` a known vacuum is
+> **stated on the relevant page as a dated finding**, not tracked in a register —
+> "Liberia has no data-protection law (as of July 2026)" belongs on the Liberia
+> page, where it is intelligence, not here, where it is a chore. Work each item
+> onto its page in the next country pass, then `git rm` this file. **Do not append
+> to it.**
+
 
 Items where the wiki has established that **the answer is not currently
 obtainable** — because the event has not happened yet, the document does not

@@ -1,4 +1,12 @@
-# reviews/entity-backlog.md — entity-pass worklist (CC-owned, tier-2)
+# reviews/entity-backlog.md — ONE-OFF worklist, not a standing register
+
+> **Closing file (2026-07-20).** Under the rewritten `CLAUDE.md` there is no
+> entity-backlog register: the entity pass mints pages when an entity is
+> load-bearing and does not keep a queue. This file is retained **only** to avoid
+> throwing away a curated list already extracted from 102 gaps. Drain it in the
+> next entity pass, then `git rm` it. **Do not append to it.** New entities are
+> handled by the pass, not filed here.
+
 
 Standing worklist for the periodic **entity pass** (CLAUDE.md → *Entities: tag
 always, page when material*). Every item here is an entity, resource or
