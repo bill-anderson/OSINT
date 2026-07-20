@@ -8,6 +8,7 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 |---|---|---|---|
 | Absa | ZAF | dpi.pay, dpi.id | [[absa]] |
 | AFC Holdings (Agricultural Finance Corporation), Zimbabwe | ZWE | dpi.pay, digital.rural | [[afc-holdings-zimbabwe]] |
+| AFR-IX Telecom | TUN | infra.connect, geopol.eu, tech.industry | [[afr-ix-telecom]] |
 | Afrinvest | NGA | dpi.pay, tech.industry | [[afrinvest]] |
 | Airtel Tanzania | TZA | infra.connect, dpi.pay | [[airtel-tanzania]] |
 | Airtel Uganda | UGA | infra.connect, dpi.pay, include.divides, include.access | [[airtel-uganda]] |
@@ -31,10 +32,13 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 | Decide (Decide AI) | NGA | tech.ai, tech.industry | [[decide-ai]] |
 | Diacente Group | UGA | dpi.pay, finance.new, infra.store | [[diacente-group]] |
 | Dot Com Zambia PLC | ZMB | dpi.pay, finance.new, dpi.id | [[dot-com-zambia]] |
+| DPA Southern Africa (Pty) Ltd | ZAF | infra.energy, infra.store, finance.new | [[dpa-southern-africa]] |
 | EcoCash Holdings | ZWE | dpi.pay, finance.new | [[ecocash-holdings]] |
 | Econet AI | ZWE | tech.ai, infra.store, tech.innovate | [[econet-ai]] |
 | Econet Group | ZWE, ZAF, KEN, NGA, XAF | infra.connect, tech.ai, infra.store, dpi.pay, include.access, finance.new | [[econet-group]] |
 | Econet Wireless Zimbabwe | ZWE | infra.connect, dpi.pay, tech.ai, include.access | [[econet-wireless-zimbabwe]] |
+| EDF (Électricité de France) | ZAF | infra.energy, infra.store, finance.new | [[edf]] |
+| Electronic Banking Services (EBS), Sudan | SDN | dpi.pay, infra.store, gov.policy | [[electronic-banking-services-sudan]] |
 | First Ally Capital | NGA | finance.new, tech.ai, dpi.pay | [[first-ally-capital]] |
 | Fusepay | SYC | dpi.pay, tech.innovate, finance.new | [[fusepay]] |
 | Global Settlement Network (GSN / GSX / GSH) | XGL, UGA | dpi.pay, finance.new, infra.store | [[global-settlement-network]] |
@@ -55,6 +59,7 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 | MTN MoMo Uganda (MTN New FinCo) | UGA | dpi.pay, finance.new | [[mtn-momo-uganda]] |
 | MTN Rwanda | RWA | infra.connect, dpi.pay, tech.industry | [[mtn-rwanda]] |
 | MTN South Sudan | SSD | infra.connect, dpi.pay, tech.industry | [[mtn-south-sudan]] |
+| MultiChoice Nigeria | NGA | gov.protect, tech.industry, gov.legislate | [[multichoice-nigeria]] |
 | NALA | TZA | dpi.pay, finance.new, tech.industry | [[nala]] |
 | NetOne | ZWE | infra.connect, dpi.mis, finance.new | [[netone]] |
 | O-Mari | ZWE | dpi.pay, include.access | [[o-mari]] |
@@ -386,6 +391,7 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 | Africa Data Protection (ADP) | XAF | gov.protect, gov.legislate, gov.standards | [[africa-data-protection]] |
 | E-MARK Innovation Hub | ZMB | tech.innovate, capacity.training, tech.ai | [[e-mark-innovation-hub]] |
 | GIM-UEMOA | XWA | dpi.pay, infra.cybersec | [[gim-uemoa]] |
+| Green Blood Group | SEN | infra.cybersec, gov.protect, dpi.id | [[green-blood-group]] |
 | Intergovernmental Authority on Development (IGAD) | XEA | gov.regional, dpi.pay, infra.connect | [[igad]] |
 | IIT Madras Zanzibar (IITMZ) | TZA | capacity.training, tech.ai, tech.innovate | [[iit-madras-zanzibar]] |
 | International Advisory Body on Submarine Cable Resilience | XGL, XAF, NGA | infra.connect, gov.standards, gov.regional | [[international-advisory-body-on-submarine-cable-resilience]] |
@@ -570,6 +576,7 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 | Institute for Economic Justice (IEJ) | ZAF | include.access, include.divides, dpi.pay, gov.legislate, capacity.literacy, digital.rural | [[institute-for-economic-justice]] |
 | "#PayTheGrants" | ZAF | include.access, include.divides, dpi.pay, gov.legislate, capacity.literacy, digital.rural | [[paythegrants]] |
 | Niyel | XWA, MLI, BFA, NER, SEN, CIV, GIN, BEN | tech.ai, gov.policy, gov.regional | [[niyel]] |
+| Zimbabwe Stock Exchange (ZSE) | ZWE | finance.new, gov.standards, tech.industry | [[zimbabwe-stock-exchange]] |
 
 ## Government bodies
 
@@ -584,6 +591,7 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 | Bank of Sierra Leone (BSL) | SLE | dpi.pay, gov.standards, include.access, gov.legislate | [[bank-of-sierra-leone]] |
 | Capital Markets Authority (CMA), Uganda | UGA | dpi.pay, finance.new, gov.legislate | [[capital-markets-authority-uganda]] |
 | Banco Central de São Tomé e Príncipe (BCSTP) | STP | dpi.pay, finance.new, gov.legislate, include.access | [[central-bank-sao-tome]] |
+| COSASE (Committee on Commissions, Statutory Authorities and State Enterprises), Uganda | UGA | gov.policy, dpi.id, gov.standards | [[cosase-uganda]] |
 | Digital Land Administration Platform (DLAP), Zimbabwe | ZWE | dpi.registry, dpi.govtech, gov.legislate | [[digital-land-administration-platform]] |
 | DSTI (Directorate of Science, Technology and Innovation, Sierra Leone) | SLE | tech.ai, dpi.govtech, capacity.research, data.satellite | [[dsti]] |
 | e-Government Technology Unit (Zimbabwe) | ZWE | dpi.govtech, dpi.exchange, gov.standards | [[e-government-technology-unit-zimbabwe]] |
@@ -968,6 +976,7 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 | Enugu Smart Green Schools | NGA | digital.localgov, infra.energy, include.divides, capacity.literacy | [[enugu-smart-green-schools]] |
 | FX BDC Purchase Tracker (Nigeria) | NGA | dpi.pay, dpi.govtech, gov.legislate, data.statistics | [[fx-bdc-purchase-tracker]] |
 | GovLink Private 4G | ZMB | infra.connect, dpi.govtech, dpi.mis, include.access, digital.rural | [[govlink]] |
+| Jamii X-Change | TZA | dpi.exchange, dpi.id, dpi.pay, dpi.govtech | [[jamii-x-change]] |
 | Kimba Connect | GAB | tech.innovate, capacity.training, finance.mou, tech.industry | [[kimba-connect]] |
 | M-Pesa (Tanzania) | TZA | dpi.pay, include.access, tech.industry | [[mpesa]] |
 | MzansiXchange | ZAF | dpi.exchange, dpi.govtech, gov.standards | [[mzansixchange]] |
@@ -1468,6 +1477,9 @@ Faceted navigation by entity. Blocs and programmes are entities, not places.
 | Njabulo Nzuza | ZAF | dpi.id, dpi.registry, dpi.govtech, data.statistics, include.access, digital.rural | [[njabulo-nzuza]] |
 | Themba Matlou | ZAF | dpi.id, dpi.pay, gov.protect, include.access | [[themba-matlou]] |
 | João Lourenço | AGO | gov.policy, gov.regional, infra.cybersec, dpi.id, data.satellite | [[joao-lourenco]] |
+| Clément Domingo (security researcher, Senegal DAF breach) | SEN | infra.cybersec, gov.protect, dpi.id | [[clement-domingo]] |
+| Justin Gourna-Zacko (CAR Minister of the Digital Economy) | CAF | infra.connect, gov.policy, gov.legislate | [[justin-gourna-zacko]] |
+| Mário Oliveira (Angola Telecommunications Minister) | AGO | gov.policy, infra.connect, infra.store, infra.cybersec, data.satellite | [[mario-oliveira]] |
 
 ## Resources (standing data assets)
 
@@ -1581,6 +1593,7 @@ about or from one becomes a normal source that cites it.
 |---|---|---|---|
 | Cyber Security Act No. 3 / Cyber Crimes Act No. 4 of 2025 (Zambia) | ZMB | infra.cybersec, gov.legislate, gov.protect | [[cyber-security-act-zambia]] |
 | Eswatini National FinTech Strategy (2025–2030) | SWZ | dpi.pay, gov.policy, finance.new, dpi.id | [[eswatini-national-fintech-strategy]] |
+| SNIAC (Sistema Nacional de Identificação e Autenticação Civil), Cabo Verde | CPV | dpi.id, dpi.registry, gov.legislate | [[sniac-cabo-verde]] |
 | Zambia National AI Strategy | ZMB | gov.policy, tech.ai | [[zambia-national-ai-strategy]] |
 | Namibia Data Protection Bill | NAM | gov.protect, gov.legislate | [[namibia-data-protection-bill]] |
 | Niger National e-Health Master Plan 2025-2029 | NER | dpi.mis, gov.policy, dpi.exchange | [[niger-ehealth-masterplan]] |

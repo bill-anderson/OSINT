@@ -5,6 +5,27 @@ contradictions found, and open `needs-review` flags.
 
 ---
 
+## 2026-07-20 — Lint #4 (dead links): 70 body-prose targets triaged, 56 closed
+
+13 pages created, 10 links rewired, 35 unlinked, 14 left. New pages: mario-oliveira, edf,
+dpa-southern-africa, zimbabwe-stock-exchange, cosase-uganda, clement-domingo, green-blood-group,
+multichoice-nigeria, sniac-cabo-verde, justin-gourna-zacko, afr-ix-telecom,
+electronic-banking-services-sudan, jamii-x-change — all added to `entities-index.md`.
+
+**Decisions.** Paged `mario-oliveira` rather than unlinking him: 15 refs, and he is the signing
+party on Angola's whole outbound MoU batch, not a passing officeholder. `minttics` was an alias,
+not a missing page — rewired to the MINTTICS ministry page (8 refs). `2025-02-07 South Sudan
+launches first national instant payment system (NIPS)` is **not held**: removed from 4 body cites
+and 2 `sources:` lists, claims kept and the absence stated dated. `edf` and `multichoice-nigeria`
+rest on one source each — said so on the page. `electronic-banking-services-sudan` carries an
+uncited ownership split inherited from SDN.md, flagged on the page as a provenance gap.
+14 mid-band targets left dead as thin (civipol, enabel, gpe-kix, gpe-itap, norad, chrgj, heapi,
+digital-tanzania-project, chave-movel-digital-cabo-verde) or officeholder-level
+(dionisio-da-fonseca, medard-sseggona, teixeira-candido, parliament-of-uganda,
+office-of-the-auditor-general-uganda).
+
+Revert: `git checkout <sha> -- wiki/ raw/ reviews/` restores the prior links and drops the new pages.
+
 ## 2026-07-20 — Lint #7 (duplicates): 14 same-title/same-date clusters resolved
 
 14 `raw/` twins pruned, 38 citations rewired, no contradictions found — every pair was a double
