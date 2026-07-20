@@ -1,0 +1,26 @@
+file,status,words_after,note
+2025-01-16-cbn-mda-naira-payment-docflow.md,full,324,stored body was already genuine full article; flag only
+2025-01-23-telecom-egypt-cisco-2africa-mediterranean-ahram.md,full,437,arabic retained; english gloss preserved as NOTE
+2025-01-29-national-single-window-2025.md,failed,,vanguard CRAWL_HTTP_403 via exa; left untouched
+2025-02-06-ai-procurement-platform-states.md,full,532,
+2025-03-31-instapay-fees-introduced-april-2025-ahram.md,full,182,arabic retained; gloss preserved as NOTE; gloss claim "12m users end-2024" NOT in fetched article body - verify before citing
+2025-04-09-ict-data-protection-strategy-in-preparation-lexpress.md,full,428,french retained
+2025-05-26-blueprint-digital-transformation-launch-lexpress.md,full,589,french retained
+2025-07-09-rdap-fast-track-2026-newtimes.md,failed,,newtimes JS-rendered; exa returned headline+caption only; stored body is genuine allAfrica-syndicated full text - left untouched (flag still reads excerpt)
+2025-07-24-govt-donates-250-starlink-kits-local-authorities.md,full,450,comments/ads stripped
+2025-09-17-world-bank-ajuda-memoria-stp-digital-setembro-2025.md,failed,,PDF artefact (94k chars); companion-source-page case per CLAUDE.md - see report
+2025-09-27-data-sharing-platform-2026-newtimes.md,failed,,newtimes JS-rendered; exa returned headline+caption only; stored body is genuine Africa-Press-syndicated full text - left untouched (flag still reads excerpt)
+2025-10-15-mbaza-local-gov-platform-newtimes.md,failed,,newtimes JS-rendered; exa returned headline+caption only; stored body genuinely partial - left untouched
+2025-11-03-zawya-tunisie-telecom-medusa-landing-bizerte.md,full,431,
+2025-11-06-mikashboks-ecobank-financial-inclusion.md,full,853,
+2025-11-10-infocom-atia-reform-whitepaper.md,failed,,PDF artefact; see report
+2025-11-16-egypt-data-sovereignty-pdpc-cairo-ict-ahram.md,full,617,arabic retained; gloss preserved as NOTE
+2025-11-17-cbe-meeza-instapay-wallets-inclusion-pafix-ahram.md,full,961,arabic retained; gloss preserved as NOTE
+2025-12-01-2africa-boosts-egypt-digital-exports-internet-costs-ahram.md,full,1287,DATE FLAG: recovered byline reads "Ahmed Reda Monday 9 Feb 2026" vs stored proxy published 2025-12-01; frontmatter left unchanged - curator to adjudicate
+2025-12-12-sa-eases-ownership-rules-starlink.md,failed,,reuters paywall; exa returns same truncated preview already stored - no gain; left untouched
+2025-12-21-egypt-world-bank-gtmi-22nd-group-a-ahram.md,full,520,arabic retained; gloss preserved as NOTE
+2025-12-23-gazette-nisti-act.md,failed,,PDF artefact (statute); see report
+2025-12-31-rose-belle-tier-iv-data-centre-national-strategy-lexpress.md,full,527,french retained
+2026-01-02-digital-egypt-210-services-10-7m-users-ahram.md,full,282,arabic retained; prior body's "5000 daily registry requests / Mahmoud Badawi" line absent from recovered article - dropped and flagged in file
+2026-01-19-mcb-qr-payments-67pc-growth-lexpress.md,full,1019,french retained
+2025-12-01-gitoc-behind-the-blockchain-crypto-criminal-capture-globalinitiative.md,failed,,PDF artefact (research report); see report

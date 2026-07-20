@@ -10,35 +10,20 @@ places: [ZAF]
 topics: [dpi.govtech, gov.policy]
 entities: [[cyril-ramaphosa], [mymzansi]]
 lens: [sovereignty]
-body_completeness: excerpt
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: ZAF-2026-07-17
 ---
 
-URL: https://htxt.co.za/2026/02/ramaphosa-champions-digital-mega-platform-at-sona-2026/
-Published: 2026-02-13
+Ramaphosa champions digital mega-platform at SONA 2026 - Hypertext Skip to content
 
-Ramaphosa champions digital mega-platform at SONA 2026 - Hypertext
-
-Facebook
-
-X
-
-LinkedIn
-
-WhatsApp
-
-Reddit
-
-# Ramaphosa champions digital mega-platform at SONA 2026
+Ramaphosa champions digital mega-platform at SONA 2026
 
 During his State of the Nation Address (SONA) for 2026, President Cyril Ramaphosa described a future in which South Africans will be able to receive all important government services quickly and easily on a single digital platform he called MyMzansi.
 
-“We will digitise driver’s licenses, matric certificates and services at the Master’s Office. Citizens will beable to fill out police statements online and eligibility for SASSA grants can be tested remotely,” the president said during the speech.
+“We will digitise driver’s licenses, matric certificates and services at the Master’s Office. Citizens will be able to fill out police statements online and eligibility for SASSA grants can be tested remotely,” the president said during the speech.
 
 “All these services will be made available on the MyMzansi platform.”
-
-### What is the MyMzansi platform?
 
 Despite receiving little media publicity and public attention in recent years, the MyMzansi platform does exist as a website right now, though at its current phase, it is mostly a demo site. The South African government will use the platform to provide every single digital service it is offering and will eventually offer in the future to the public.
 
@@ -54,7 +39,7 @@ In a message on the site, Ramaphosa says, “In recent years, the government has
 
 The plan, per the president, is to change how the government delivers services. To become more efficient and seamless.
 
-### When will the platform actually be operational?
+When will the platform actually be operational?
 
 While we believe the consolidation of all government services into a single digital platform is a good idea in terms of logistics and efficiency, as well as user experience, its actual implementation may be different to what the president envisions.
 
@@ -64,7 +49,7 @@ This will begin with scaling the existing infrastructure and begin delivering on
 
 If the second phase sticks to these initiatives, it will be an enormous and costly undertaking that will require a wide-ranging collaboration between the many different government departments to implement and do it correctly. It will also require significant investment in technology, likely into private companies through tender agreements.
 
-### Challenges facing President Ramaphosa’s digital dreams
+Challenges facing President Ramaphosa’s digital dreams
 
 This will likely be the biggest hurdle for MyMzansi and the president’s plan. While different departments are currently managing their own digital transformations, like Transport’s eNaTIS and Home Affairs’ digital visa and identification processes, inter-department cooperation in South Africa has never been an easy feat.
 
@@ -76,46 +61,20 @@ Any opening of tenders for MyMzansi will also immediately fall under the microsc
 
 From the NSFAS direct payment system, to software giant SAP’s alleged corruption in South Africa, and many more.
 
-> South Africa’s service delivery future now has a name
-
-### Let's talk tech!
-
 Get the tech news you want to read. Take our reader survey and tell us how we can help you better.
 
-Take the survey now
-
-advertisement
-
-## About Author
-
-#### Luis Monzon
+Take the survey now advertisement Digital services MyMzansi President Cyril Ramaphosa SONA State of the Nation Address 2026
 
 Add Hypertext as a trusted source in Google Search Preferences here.
 
-## Related News
+Massmart to donate 20 tonnes of maize meal for Mandela Day
 
-# Government sending Saffers overseas to watch football if they record a good enough video
+Jackass: Best and Last vanishes from South African cinemas
 
-- 29th Apr 2026
+We are looking for a technology journalist
 
-# LookSee is helping South African homeowners cut costs and carbon
+We asked six AI chatbots who would win the World Cup final, this is what they said
 
-- 29th Apr 2026
+Here’s the official guide to replace batteries on Joy-Con controllers
 
-# Gautrain offering simplified travel to MiWay Wally Hayward Marathon
-
-- 29th Apr 2026
-
-# Pokémon Pocket drops multiple events and freebies on players
-
-- 29th Apr 2026
-
-# “Catastrophic failure”: ANC blasts Malatsi over AI policy fiasco
-
-- 29th Apr 2026
-
-# Mecha Mania Humble Bundle is exactly our kind of crazy
-
-- 29th Apr 2026
-
-advertisement
+Acer launches gaming laptop promotion running until the end of the year

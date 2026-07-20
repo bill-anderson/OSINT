@@ -10,26 +10,16 @@ places: [ZAF]
 topics: [dpi.pay]
 entities: [[payshap], [sarb]]
 lens: [sovereignty]
-body_completeness: excerpt
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: ZAF-2026-07-17
 ---
 
-Happily Authenticated! ×
+Why South African banks still charge for instant payments Happily Authenticated!
 
-Banking
+Why South African banks still charge for instant payments
 
-# Why South African banks still charge for instant payments
-
-By
-
-Phathisani Moyo
-
-14th Jul, 2026
-
-Get TC updates in your Newsfeed
-
-Caption: Cheslyn Jacobs, CEO of GoTyme Bank South Africa, says instant payments should be a core banking service rather than a premium feature. Image Source: GoTyme Bank.
+Phathisani Moyo 14th Jul, 2026 Get TC updates in your Newsfeed
 
 Three years after the launch of PayShap, South Africa’s real-time payment system, the technology behind instant bank transfers is no longer the issue. The question is why consumers are still paying to move their own money.
 
@@ -60,3 +50,31 @@ Still, Jacobs expects banking competition to continue evolving. “We believe th
 As instant payments become commoditised, banks are likely to compete less on transaction fees and more on the overall customer experience. For consumers, the bigger question is whether paying to send money will remain part of everyday banking.
 
 True scale demands moving beyond surface-level integrations to robust execution. We’ve filtered the noise out of Moonshot 2026, optimising the conference strictly for high-calibre connections between startup founders, global financial operators, enterprise leaders and individuals rewiring Africa’s technical frameworks. Get 20% off Early Bird tickets for a limited time.
+
+Telecoms Amazon found the formula for entering South Africa that Starlink refused
+
+Ecosystem Can the AT50 Index convince Africa’s biggest startups to list at home?
+
+FinTech Why a South African fintech chose the UK before the rest of Africa
+
+Former Safaricom executive Michael Mutiga named Stanbic Bank Kenya CEO
+
+The young Kenyan engineer who thinks robots belong in every classroom
+
+Their parents lost fortunes. They’re buying Nigerian stocks anyway.
+
+The young Kenyan engineer who thinks robots belong in every classroom
+
+Decide targets workplaces with enterprise AI rollout through CafeOne
+
+Why Kenya’s revived golden visa matters for venture investors and founders
+
+Amazon found the formula for entering South Africa that Starlink refused
+
+Nigeria’s central bank wants every retail dollar traced with digital tracker
+
+Become a TC Insider for free to finish this story.
+
+Sign in to read the full story and stay ahead of Africa's tech ecosystem.
+
+What kind of stories are you interested in?

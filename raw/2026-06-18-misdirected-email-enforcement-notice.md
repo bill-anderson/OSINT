@@ -10,24 +10,18 @@ places: [ZAF]
 topics: [gov.protect, gov.legislate]
 entities: [[information-regulator-south-africa]]
 lens: [sovereignty]
-body_completeness: excerpt
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: ZAF-2026-07-17
 ---
 
-## Legal updates and opinions
+When a misdirected email becomes a data breach: The Information Regulator issues an enforcement notice on internal and accidental security compromises - Werksmans Attorneys Skip to content
 
-###### News / News
-
-## When a misdirected email becomes a data breach: The Information Regulator issues an enforcement notice on internal and accidental security compromises
-
-Published On: June 18th, 2026
+When a misdirected email becomes a data breach: The Information Regulator issues an enforcement notice on internal and accidental security compromises
 
 by Armand Swart, Director, Hlonelwa Lutuli, Associate and Isabella Keeves, Candidate Attorney
 
 On 22 May 2026, South Africa’s Information Regulator served an enforcement notice on the Central Johannesburg TVET College after employees’ personal credential verification reports were accidentally emailed to unauthorised staff. The enforcement notice sets a significant precedent: even accidental, purely internal disclosures of personal information to unauthorised parties constitute a “security compromise” under the Protection of Personal Information Act 4 of 2013 (“POPIA“), triggering formal breach notification obligations. This article examines the enforcement notice, analyses its implications under POPIA, compares the position to the GDPR, and offers practical guidance for businesses.
-
-Background
 
 The Central Johannesburg TVET College (the “College“) had been placed under administration to address governance failures, including undisclosed criminal records and conflicts of interest among staff. As part of this process, employees’ personal information was collected to verify their academic qualifications and criminal records. This was done by a service provider preparing Personal Credential Verification Reports (“Verification Reports“). The Acting Chief Financial Officer erroneously included the complainants’ Verification Reports in a folder of finance policies, which was then emailed to unauthorised employees.
 
@@ -45,10 +39,40 @@ In the College’s case, the breach was entirely accidental: an employee attache
 
 This interpretation is grounded in the broad language of section 19(1), which requires responsible parties to take “appropriate, reasonable technical and organisational measures” to prevent, among other things, “unlawful access to or processing of personal information”. Read together with section 22, the statutory framework imposes a duty to safeguard personal information against all forms of unauthorised access, whether originating externally or internally, and whether intentional or accidental.
 
-Key Takeaways for Businesses
-
 Organisations must implement robust security measures to protect against both internal and external breaches. This requires both: (i) technological measures, such as access controls and data loss prevention technology; and (ii) organisational measures, such as policies, clear processes, and employee training. As the College’s case demonstrates, something as simple as storing personal information in a separate, access-controlled folder could have prevented the breach entirely.
 
 Businesses should implement appropriate access controls to limit internal exposure to personal information. Personal information should be accessible only to those who require it for the specific purpose for which it was collected. Role-based access controls, file segregation, and clear protocols for handling sensitive documents are essential.
 
-Every organisation should develop and maintain a comprehensive data breach response plan. The College’s experience illustrates that good-faith remedial steps – such as recalling an email and investigating internally – do not satisfy statutory breach notification obligations. A proper response plan should include: clear procedures for identifying and escalating potential security compromises; templates for notification to the Regulator and affected data subjects; designated personnel responsible
+Every organisation should develop and maintain a comprehensive data breach response plan. The College’s experience illustrates that good-faith remedial steps – such as recalling an email and investigating internally – do not satisfy statutory breach notification obligations. A proper response plan should include: clear procedures for identifying and escalating potential security compromises; templates for notification to the Regulator and affected data subjects; designated personnel responsible for managing the response; and defined timelines to ensure notification is made “as soon as reasonably possible” as required by POPIA.
+
+Most importantly, businesses must recognise the obligation to report all breaches to both the Regulator and affected data subjects. Unlike the GDPR, POPIA contains no materiality threshold. Every security compromise, no matter how minor, must be formally notified. Organisations should ensure that staff at all levels understand this obligation and that internal reporting channels are in place to escalate potential breaches promptly to those responsible for regulatory notification.
+
+Although other jurisdictions, such as the EU and UK, also require reporting of internal and accidental breaches, they apply a materiality threshold and only high-risk breaches have to be reported. POPIA contains no such exception. The practical consequence is that private and public bodies under POPIA must report every security compromise, however minor, even a misdirected internal email. This places a considerable administrative burden on responsible parties, and it stretches the Regulator’s finite resources. In the absence of a materiality threshold, there is a real risk that regulatory attention is diverted from serious incidents to trivial ones. Until the legislature revisits this position, however, organisations must comply with the law as it stands.
+
+Responsible parties must treat their data security obligations with the seriousness they demand or face the risk of a simple mistake inviting the full scrutiny of the Regulator, as was unfortunately the case for the College.
+
+South Africa’s private equity market finally has a liquidity market: The growing market for secondaries
+
+by Dylan Cunard, Director 1. Introduction 1.1. For much of the past two decades, the conversation in South Africa’s private [...]
+
+Will secondaries solve liquidity issues in South Africa’s private equity market?
+
+by Dylan Cunard, Director A multi-billion dollar revolution in global private capital could arrive in South Africa. South Africa’s private [...]
+
+Procedural certainty in business rescue: Competing commencement processes
+
+by Eric Levenstein, Director and Head of Insolvency & Business Rescue, Brandon Starr, Senior Associate and Clio Patricios, Candidate Attorney [...]
+
+When silence becomes complicity: Constructive dismissal, workplace bullying and the cost of doing nothing
+
+by Bradley Workman-Davies, Director Constructive dismissal remains one of the more difficult claims to prove in South African labour law. [...]
+
+Nxele v Chairperson of the Disciplinary Hearing: Mudau NO and others, [2026] 6 BLLR 628 (LC): Clarifying the operation of section 188A(11) of the Labour Relations Act 66 of 1995
+
+by Bankey Sono, Director and Sandile Mogweng, Candidate Attorney The Labour Court in Nxele v Chairperson of the Disciplinary Hearing: [...]
+
+No grout about it: The LAC cements section 197 principles
+
+by Bradley Workman-Davies, Director Section 197 of the Labour Relations Act has long been one of the most misunderstood and [...]
+
+© 2026 Werksmans Attorneys, All rights reserved.

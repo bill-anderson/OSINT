@@ -137,9 +137,12 @@ practice, not aspiration.
 ## Finance subject vs deal entity
 
 `finance.new` / `finance.mou` are SUBJECT tags meaning "this is about
-investment / agreements." A *specific* transaction or MoU is a **deal entity**.
-A source on one MoU carries the deal entity + `finance.mou` + its places/topics;
-a piece on funding trends carries `finance.new` with no single deal entity.
+investment / agreements." A *specific* transaction or MoU is recorded as a **dated
+fact** on the pages it touches (the parties' entity tags + `finance.mou` +
+places/topics); it becomes its own **`deal` entity page** only when **material** —
+large, multi-party, or actively tracked — per the entity page bar. A one-mention
+MoU stays a tagged fact, not a page. A piece on funding trends carries
+`finance.new` with no single deal.
 
 ## Page types and frontmatter
 
@@ -265,38 +268,57 @@ special self-authored regime:
 Because these are normal citation practice, such self-citations are **not** held
 in `reviews/` for review.
 
-### Sources, entity profiles, and leads
+### Entities: tag always, page when material
 
-A `raw/` item that reports **no single development and tags no place** is not
-automatically a discard. Distinguish three things:
+A `raw/` item that reports **no single development and tags no place** is still
+not a discard — but "capture it" now means **tag it**, not necessarily build it a
+page. Separate the two decisions:
 
-- **Source** — dated evidence of a development (an announcement, filing, report,
-  data point). Compiled normally.
-- **Entity profile (including resources and instruments)** — a clip whose value
-  is establishing or profiling a standing object you'll return to, rather than
-  reporting an event: an organisation or company, a government body, a person, a
-  project or initiative, a **data asset** (database, dataset, registry, tool or
-  portal — PeeringDB, GLEIF, national statistics portals), or a **reference
-  instrument** (a published standard, taxonomy, framework, or policy/legal
-  instrument — the Malabo Convention, the AU Data Policy Framework, the World
-  Bank DT taxonomy, MOSIP specs, GDPR). A home, profile or framework page has no
-  "event" and may be global — that's expected, not grounds for discard.
-  **Capture it as the matching entity type** — `organisation`, `company`,
-  `government-body`, `person`, `initiative`, `resource` for a data asset, or
-  `instrument` for a reference framework — never discard it and never park it as
-  a lead. A dated fact you later pull about it or *from* it (e.g. a country
-  ratifying the Malabo Convention, or "PeeringDB lists 14 IXPs in Kenya as of
-  2026-07-10") becomes a normal source that cites the entity.
-- **Discard** — genuine non-intelligence artefacts only: **the wiki's own**
-  config and vocabulary files (`taxonomy.md`, `countries.csv`, scaffolding),
-  blank or failed captures, duplicated scaffolding. **External** standards,
-  taxonomies and policy instruments are never discards — they are `instrument`
-  entities. (The distinction that caused the earlier mis-file: the wiki's own
-  `taxonomy.md` is config; the *published* World Bank taxonomy as a domain
-  framework is an `instrument` — different objects, different homes.)
+- **Reference (a tag) — always.** Every standing object a source names — company,
+  organisation, government body, person, initiative, deal, a **data resource**
+  (database, dataset, registry, tool, portal — PeeringDB, GLEIF, national
+  statistics portals) or a reference **instrument** (a published standard,
+  taxonomy, framework or policy/legal instrument — the Malabo Convention, the AU
+  Data Policy Framework, the World Bank DT taxonomy, MOSIP specs, GDPR) — is
+  tagged in the source's `entities:` frontmatter, exhaustively. Tagging records
+  the graph link and costs nothing to synthesise. Never drop a mention to save work.
+- **Page (earned) — only when material.** A standing page in `wiki/entities/` is
+  *minted* only when the entity is material: cited by **≥3 sources**, OR on the
+  **core-entities watchlist**, OR a reference instrument central to the domain
+  (Malabo, AU DPF, MOSIP and the like are material on sight). Below the bar the
+  entity lives as a tag plus its mentions in source prose; no page is written, and
+  that is expected, not a gap. A profile page, when minted, has no "event" and may
+  be global — also expected.
 
-An entity profile carries the same frontmatter as any entity; `resource` is the
-data-asset case:
+**Minting and upkeep is a periodic pass, not inline work.** The **entity pass**
+(run on request / weekly) does three things at once: mints pages for entities that
+have crossed the bar, refreshes the synthesis/`places`/`topics` of existing
+material pages, and **merges tag drift** — variant slugs for the same entity (the
+Econet-Group-vs-opco case) reconciled to one canonical slug. At ingest you only
+*tag*, and *append* the source to any page that already exists. A newly material
+entity appears as a tag first and gains its page a little later; the link is never
+lost, only the synthesis deferred.
+
+**Core-entities watchlist** — `wiki/entities/_watchlist.md`, human-owned: the
+couple of dozen players and instruments always worth an eagerly-maintained page
+(major operators, key data-protection authorities, the hyperscalers, MOSIP,
+initiatives/deals you are actively tracking). On the list → minted on first
+mention; off it → wait for the ≥3-source bar.
+
+**Discard** — genuine non-intelligence artefacts only: **the wiki's own**
+config and vocabulary files (`taxonomy.md`, `countries.csv`, scaffolding),
+blank or failed captures, duplicated scaffolding. **External** standards,
+taxonomies and policy instruments are never discards — they are `instrument`
+references (and pages once material). (The wiki's own `taxonomy.md` is config;
+the *published* World Bank taxonomy is an `instrument` — different objects,
+different homes.)
+
+A dated fact you later pull about an entity or *from* it (a country ratifying the
+Malabo Convention, or "PeeringDB lists 14 IXPs in Kenya as of 2026-07-10") is a
+normal source that cites the entity — whether or not the entity yet has a page.
+
+An entity page, once minted, carries the usual entity frontmatter; `resource` is
+the data-asset case:
 ```yaml
 ---
 type: entity
@@ -366,8 +388,16 @@ queue means routing each item to its correct destination.
    unavailable (hard paywall, fetch failure) store the verbatim portion available,
    set `body_completeness: excerpt`, and flag it for a manual clip; otherwise
    record `body_completeness: full`.
-4. For each **entity**: create/update its page; append the source; refresh its
-   `places` and `topics`. Discrete deals/MoUs become `deal` entities.
+4. **Entities — tag now, page later.** Tag every standing object the source names
+   in its `entities:` frontmatter (exhaustive, cheap). For any entity that
+   **already has a page**, append this source to its `sources:` list — a one-line
+   append, *not* a re-synthesis. Do **not** create a page for a newly-named entity
+   here, and do **not** re-synthesise existing pages inline: minting new pages
+   (once an entity crosses the ≥3-source bar or is on the watchlist) and refreshing
+   existing ones live in the periodic **entity pass**, off the ingest hot path.
+   Deals/MoUs are recorded as dated facts on the pages they touch and become a
+   `deal` *entity page* only when material (see *Entities: tag always, page when
+   material* and *Finance subject vs deal entity*).
 5. For each **place**: update the hub — add to Recent developments, ensure the
    topic section exists, link source + entities. Tag regions only when the item
    is genuinely region-level.
@@ -543,8 +573,9 @@ attention at the one point that matters. Three tiers:
 - **Auto, then digest (itemised).** Consequential but reversible editorial
   actions decided by the written rules above: matrix extraction and materiality
   calls, page creation/deletion from dead-link triage, append-log trims, prose
-  tightening, provisional contradiction resolutions. Do them, and list each in
-  the weekly digest for skim and spot-check.
+  tightening, provisional contradiction resolutions, and the periodic **entity
+  pass** (page mints, material-page refreshes, tag-drift merges). Do them, and list
+  each in the weekly digest for skim and spot-check.
 - **Hold for the human — never at the prompt.** Nothing blocks ingest, and CC
   **never interrupts with an ad-hoc question at the end of a job.** Anything that
   needs the human goes to its standing register and CC carries on; the human

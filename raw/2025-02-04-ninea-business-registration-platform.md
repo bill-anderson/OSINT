@@ -6,7 +6,7 @@ publisher: We Are Tech Africa
 published: 2025-02-04
 date_precision: day
 date_source: source
-body_completeness: excerpt
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: SEN-2026-07-17
 places: [SEN]
@@ -15,9 +15,9 @@ entities: [[[ansd]]]
 lens: []
 ---
 
-# Senegal Launches New Platform to Streamline Business Registration
+Senegal Launches New Platform to Streamline Business Registration - We are Tech
 
-By Isaac K. Kassouwi, We are Tech, 04 February 2025 (editing by Sèna D. B. de Sodji)
+Senegal Launches New Platform to Streamline Business Registration
 
 The country is banking on digital transformation to fuel its socioeconomic development. The government is stepping up initiatives to harness digital technology to improve access to services, enhance transparency, and drive innovation.
 
@@ -28,3 +28,11 @@ The launch is part of Senegal's broader "New Technological Deal" digital transfo
 "NINEA registration covers businesses operating in Senegal, nationally or internationally recognized associations, trade unions, central public administrations, public institutions, local authorities, political parties, occasional operators, landowners, NGOs, and more," the National Agency for Statistics and Demography (ANSD) said in its third-quarter 2023 report.
 
 The platform's success, however, hinges on internet access. DataReportal reports Senegal had 10.79 million internet subscribers, representing a 60% penetration rate.
+
+Tarik Dadi Combats Health Insurance Fraud with Qantev Software Tunisian Entrepreneur Safi Negra Digitizes Home Services With Ijeni Platform Insight Terra CEO Alastair Bovim Deploys Data Fusion to Mitigate Industrial Disasters Michael Moyo's Ocular AI Brings Human Expertise to Artificial Intelligence Ghanaian Entrepreneur Alfred Opare Saforo Expands Hybrid Work Through Zuludesk Nigerian Entrepreneur Rukayat Kolawole-Bello Expands Financial Inclusion Through Regxta
+
+KutanaPay Uses AI and Blockchain to Reduce Cross-Border Trade Risks Nairobi Startup Reemio Expands Digital Tools for Kenya's Rental Market Rwandan Startup Check Me Uses AI to Support Breast Cancer Screening Senegalese Fintech Dërêm Expands Access to Capital for Social Enterprises
+
+Kenya Partners with Italy to Advance Digital Transformation
+
+Please publish modules in offcanvas position.

@@ -10,10 +10,20 @@ places: [ZAF]
 topics: [dpi.id, dpi.pay]
 entities: [[home-affairs-south-africa], [sarb]]
 lens: [sovereignty]
-body_completeness: excerpt
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: ZAF-2026-07-17
 ---
+
+South Africa's operators solved fintech. Digital identity is next Close Menu
+
+Get the best South African technology news and analysis delivered to your e-mail inbox every morning.
+
+Facebook X (Twitter) YouTube LinkedIn WhatsApp Facebook X (Twitter) LinkedIn YouTube
+
+South Africa’s operators solved fintech. Digital identity is next
+
+Promoted | Contactable CEO Shaun Strydom argues telecoms operators, not banks, will drive digital identity adoption.By Contactable9 June 2026 Twitter LinkedIn Facebook WhatsApp Email Telegram Copy Link News Alerts WhatsApp
 
 For years, the digital identity debate assumed banks would drive adoption. They have regulatory depth, compliance maturity and longstanding customer trust. The evidence now points elsewhere.
 
@@ -25,7 +35,7 @@ Operators recognised a structural gap early: mobile penetration far outpaced acc
 
 Digital identity in South Africa is approaching a similar moment.
 
-## Infrastructure is converging but adoption isn’t automatic
+Infrastructure is converging but adoption isn’t automatic
 
 South Africa’s digital foundations are aligning quickly. The Reserve Bank’s Payments Ecosystem Modernisation programme is upgrading national payment rails and building a universal digital financial ID. Biometric digital identity is moving online, and national road maps are connecting identity, payments and data exchange into interoperable public infrastructure.
 
@@ -33,25 +43,23 @@ But infrastructure alone does not drive adoption. Operators already operate at t
 
 The missing piece is not identity issuance. It’s reusable trust.
 
-## From Rica obligation to identity infrastructure
+From Rica obligation to identity infrastructure
 
 Today Rica is treated largely as a compliance burden. But it already contains the seed of something much bigger.
 
 A modernised, digital Rica credential – verified once, biometrically anchored, cryptographically secured and reusable across networks and services – turns identity from a cost centre into a trust primitive.
 
-The implications are concrete: instant digital onboarding, cross-product activation using a single verified identity, structural fraud reduction– Sim-swap attacks account for 60% of mobile banking breaches at a cost of R5.3-billion to the sector annually – and alignment with the future direction of national identity and payments infrastructure.
+The implications are concrete: instant digital onboarding, cross-product activation using a single verified identity, structural fraud reduction – Sim-swap attacks account for 60% of mobile banking breaches at a cost of R5.3-billion to the sector annually – and alignment with the future direction of national identity and payments infrastructure.
 
 Fraud reduction doesn’t just protect customers – it flows directly to operator margins.
 
 In this model, Rica is not the endpoint. It’s the on-ramp.
 
-## Identity that enables ecosystems, not inhibits them
+Identity that enables ecosystems, not inhibits them
 
 The strategic risk for operators is fragmentation: duplicated verification, brittle integrations and point solutions that slow ecosystems just as they should be accelerating. An operator running separate vendors for biometrics, document verification, AML screening and workflow across multiple business units isn’t building an ecosystem – it’s managing a patchwork.
 
 Identity must enable what operators are building, not inhibit it. This requires an integrated identity layer that absorbs regulatory change, credential standards and evolving trust frameworks, and presents identity as a consistent, reusable capability across the customer journey. Identity becomes infrastructure – embedded, composable and ready to scale with the ecosystem.
-
-## The catalyst question
 
 The identity community has long searched for what would take verifiable credentials from theory to population scale. The answer may not lie in mandates or standards alone, but in the commercial incentives of organisations that already connect the country.
 
@@ -61,15 +69,18 @@ The infrastructure is converging. The trust frameworks are emerging. The commerc
 
 About Contactable Contactable is Africa’s leading Integrated Identity Platform, helping enterprises turn trust into a growth advantage. Through a single integration, we unify identity, compliance and workflow across the customer journey – reducing complexity, strengthening assurance and enabling seamless digital experiences at scale. Connect on LinkedIn or Facebook.
 
-- Advertise
-- The author, Shaun Strydom, is CEO of Contactable
-- Read more articles by Contactable on TechCentral
-- This promoted content was paid for by the party concerned
+The author, Shaun Strydom, is CEO of Contactable
 
-Follow TechCentral on Google News Add TechCentral as your preferred source on Google
+This promoted content was paid for by the party concerned
 
-Previous Article Huawei nova 15 Max now available in South Africa
+Follow TechCentral on Google News Add TechCentral as your preferred source on Google Contactable MTN Shaun Strydom Vodacom WhatsApp YouTube Share. Facebook Twitter LinkedIn WhatsApp Telegram Email Copy Link Previous ArticleHuawei nova 15 Max now available in South Africa Next Article OpenAI filing sets up a trio of trillion-dollar tech IPOs
 
-Next Article OpenAI filing sets up a trio of trillion-dollar tech IPOs
+Amazon Leo all set for South African launch
 
-Manage consent
+Biometrics alone won’t stop AI-powered fraud
+
+Industry to Icasa: punish municipalities that stall network roll-out
+
+TechCentral uses cookies to enhance its offerings. Consenting to these technologies allows us to serve you better. Not consenting or withdrawing consent may adversely affect certain features and functions of the website.
+
+Functional Functional Always active The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network. Preferences Preferences The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user. Statistics Statistics The technical storage or access that is used exclusively for statistical purposes. The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you. Marketing Marketing The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes.

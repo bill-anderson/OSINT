@@ -8,19 +8,33 @@ date_precision: day
 date_source: source
 retrieved: 2026-07-17
 sweep_batch: NGA-2026-07-17
-body_completeness: excerpt
+body_completeness: full
 places: [NGA]
 topics: [dpi.pay, finance.new]
 entities: ["[[sec-nigeria]]"]
 lens: []
 ---
 
-# Busha Lists cNGN, Expanding Nigeria's Digital Economy
+Busha Lists cNGN, Expanding Nigeria’s Digital Economy - TechAfrica News Today's Bulletin: July 19, 2026
 
-February 10, 2025 — Aayushya Ranjan, TechAfrica News
+Busha Lists cNGN, Expanding Nigeria’s Digital Economy
 
-Busha lists cNGN, a stablecoin by Wrapped CBDC Ltd, advancing Nigeria's digital economy under SEC's Regulatory Incubation Program for secure transactions.
+February 10, 2025 1 min read Author: Aayushya Ranjan
 
-Busha has announced the listing of cNGN (Compliant Nigerian Naira), a private-sector stablecoin designed to revolutionize Nigeria's digital economy.
+Busha lists cNGN, a stablecoin by Wrapped CBDC Ltd, advancing Nigeria’s digital economy under SEC’s Regulatory Incubation Program for secure transactions.
 
-Developed by Wrapped CBDC Ltd under the SEC's Regulatory Incubation Program, cNGN offers a compliant and secure digital asset for transactions. Its availability on Busha marks a significant step in advancing Nigeria's digital financial ecosystem.
+Busha has announced the listing of cNGN (Compliant Nigerian Naira), a private-sector stablecoin designed to revolutionize Nigeria’s digital economy.
+
+Developed by Wrapped CBDC Ltd under the SEC’s Regulatory Incubation Program, cNGN offers a compliant and secure digital asset for transactions. Its availability on Busha marks a significant step in advancing Nigeria’s digital financial ecosystem.
+
+EP.06 | S2 | Beyond Borders: Minister George on Regulatory Harmonisation, AI and Africa’s Collective…
+
+Ralph Mupita on MTN’s New Frontier: Connectivity, Content, and African AI Ralph Mupita, Group President and CEO, MTN Group
+
+April 9, 2026 4 min read IN CASE YOU MISSED IT #TechTalkThursday
+
+Why Connecting Rural Congo Costs Three Times More Than It Should
+
+July 16, 2026 5 min read #TechTalkThursday
+
+Why Data Refinement Could Define Africa’s AI Future

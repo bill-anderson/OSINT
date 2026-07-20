@@ -10,30 +10,18 @@ places: [ZAF]
 topics: [infra.connect, include.access, finance.new]
 entities: [[dcdt-south-africa]]
 lens: [sovereignty]
-body_completeness: excerpt
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: ZAF-2026-07-17
 ---
 
-# Government allocates R3bn for SA Connect digital push
+Government allocates R3bn for SA Connect digital push EconomyPREMIUM
 
-## Enoch Godongwana says that data infrastructure is crucial to electricity and transport
+Government allocates R3bn for SA Connect digital push
 
-February 26, 2026 at 11:00 am3 min read
+Enoch Godongwana says that data infrastructure is crucial to electricity and transport
 
-Add as a preferred source on Google Follow on Google News
-
-## Mudiwa Gavaza
-
-Technology Correspondent
-
-Send an email to Mudiwa Gavaza Connect on Twitter
-
-Send an email to %{authorName} Connect on Twitter
-
-Expand
-
-Picture: (123RF/EDHAR)
+Opens in new windowOpens in new windowOpens in new windowOpens in new window
 
 The government continues to push for investment in digital infrastructure, allocating more than R3bn for its own projects, while working to increase private participation, currently estimated at about R50bn in the next three years.
 
@@ -69,34 +57,26 @@ However, as with many well-intentioned government plans, execution has been limi
 
 The government now says Sita “will extend connectivity” at 6,343 government facilities.
 
-Would you like to comment on this article?Sign up (it's quick and free) or sign in now.
-
-Sign Up Log In
+Would you like to comment on this article? Sign up (it's quick and free) or sign in now.
 
 Please read our Comment Policy before commenting.
 
-## Editor’s Choice
+SOLLY LETSOALO | Transnet is turning the tide at Cape Town port
 
-1
+ARTHUR GOLDSTUCK | How Leo stole our sky under Starlink’s nose
 
-### NEWS ANALYSIS | The verdict on the NDP has been delivered
+TEBOGO KHAAS | It’s not a question of what at Eskom — it’s how
 
+LUNCEDO MTWENTWE | The know-how vacuum that’s crippling towns and cities
 
-2
+SA aims to launch own satellite in five to seven years
 
-### ARTHUR GOLDSTUCK | Now AI can fix a heart — and patient backlogs
+Communications department finds GNU support for its budget in parliament
 
+GCIS finds conditional support for its budget in parliament
 
-3
+Communications budget cut by a third as broadband spend slows
 
-### How to manage your money better with tried-and-tested advice
+Treasury cuts communications department budget by almost R730m
 
-
-4
-
-### ZANDILE MAKHOBA | Are South Africans forming a new relationship with credit?
-
-
-5
-
-### MY BRILLIANT CAREER | Keeping the world smiling with digital dentistry
+Facebook pageTwitter feedYoutube ChannelRSS feed

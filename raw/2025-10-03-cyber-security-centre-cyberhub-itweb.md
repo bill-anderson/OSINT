@@ -9,13 +9,17 @@ date_precision: day
 date_source: source
 retrieved: 2026-07-17
 sweep_batch: RWA-2026-07-17
-body_completeness: excerpt
+body_completeness: full
 places: [RWA]
 topics: [infra.cybersec, capacity.training]
 entities: [[national-cyber-security-authority-rwanda]], [[paula-ingabire]]
 ---
 
-# Rwanda unveils cyber security centre of excellence
+Rwanda unveils cyber security centre of excellence | ITWeb Africa AlgeriaEgyptGhanaKenyaMoroccoNigeria South Africa BUSINESS TECHNOLOGY MEDIA FOR AFRICA Subscribe to our daily newsletterSubscribe to our daily newsletter
+
+Rwanda unveils cyber security centre of excellence
+
+By Phyllis BiroriJohannesburg, 03 Oct 2025The inaugural ceremony yesterday was attended by members of the government, Cisco, GIZ Rwanda, and the private sector.
 
 Rwanda unveiled the Cyber security Centre of Excellence (CyberHub) yesterday, which is going to support cyber security education and training.
 
@@ -40,3 +44,7 @@ Dima Kandalaft, Cisco's senior director, emphasised the company's commitment to 
 She stated that the CyberHub provides an essential opportunity to grow the pool of qualified cyber security experts, thereby addressing existing skills gaps and nurturing a future-ready community.
 
 Cisco hopes that this collaboration would provide Rwanda and the wider region with the capabilities required to succeed in a rapidly evolving digital landscape.
+
+SecurityRwandaShain RahimCiscoPaula IngabireRead moreSITE SPONSOR
+
+digitalExperience seamless workflow automation with SigniFlow. Simplify, sign, and secure documents effortlessly. Transform your business.

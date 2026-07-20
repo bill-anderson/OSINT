@@ -10,25 +10,16 @@ places: [ZAF]
 topics: [dpi.pay, finance.new]
 entities: [[sarb]]
 lens: [sovereignty]
-body_completeness: excerpt
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: ZAF-2026-07-17
 ---
 
-URL: https://www.bis.org/review/r260616a.htm
-Published: 2026-06-16
-
 Rashad Cassim: Money in motion - payments, digital assets and the future of finance
-
-# Rashad Cassim: Money in motion - payments, digital assets and the future of finance
 
 Keynote address by Mr Rashad Cassim, Deputy Governor of the South African Reserve Bank, at the Gordon Institute of Business Science, Johannesburg, 9 June 2026.
 
-Central bank speech |
-
-by Rashad Cassim
-
-PDF full text (12kb)| 5 pages
+Central bank speech | 16 June 2026 by Rashad Cassim PDF full text (12kb) | 5 pages
 
 A modern, efficient and well-functioning financial system is essential for growth in any modern economy. Yet, when we talk about the financial system, some parts are more visible than others.
 
@@ -41,8 +32,6 @@ The layer that is hardest to picture is what sits beneath all of this: the finan
 This layer often gets overlooked. But it shouldn't be. Not only is it systemically important, it is also a space where some of the most exciting innovation is happening, in the world in general and South Africa in particular. The purpose of this speech is to tell that story.
 
 I will start with the question of why payments matter so much. Then I will set out the South African Reserve Bank's (SARB) thinking about fast payments, digital assets and central bank digital currency (CBDC). Finally, I will try to show how we can support innovation while protecting stability and the public interest.
-
-### Why payments matter
 
 In the payment ecosystem, there is a foundational distinction between large-value wholesale payments and low-value retail payments.
 
@@ -58,7 +47,7 @@ In a real-time gross settlement (RTGS) system, by contrast, for transactions ove
 
 South Africa moved to an RTGS system in 1998. We were one of the pioneers in this space, and it was a major step in strengthening the safety and soundness of the payments system.
 
-### The approach to fast payments, digital assets and CBDCs
+The approach to fast payments, digital assets and CBDCs
 
 That brings me to the second point: how the SARB is thinking about fast payments, digital assets and CBDCs.
 
@@ -74,4 +63,36 @@ In 2022, we expanded our DLT experimentation in Project Khokha 2. This follow up
 
 The SARB's exploratory work on retail central bank digital currency is part of a broader effort to understand how public digital money might function in a modernised economy. Exploring a retail CBDC was a logical step in a world where private digital instruments, including stablecoins, are growing, putting more pressure on central banks to provide a safe, public digital money that supports payment innovation and preserves monetary sovereignty.
 
-Last year, the SARB published its position on the role of a CBDC for retail payments. In essence, our view is that, while a retail CBDC is technically feasible and could support innovation while ensuring continued public access to central bank money, there is no compell
+Last year, the SARB published its position on the role of a CBDC for retail payments. In essence, our view is that, while a retail CBDC is technically feasible and could support innovation while ensuring continued public access to central bank money, there is no compelling need for its immediate implementation.
+
+Instead, the compelling need is to modernise the payment system to give every South African fast, simple and secure digital payments.
+
+In embarking on this journey – we had to take a step back and ask an important question. While the SARB's role in the wholesale payment system is well defined, how should we think about our role in the fast retail payment system? As we looked to our peers around the world, it was clear to us that practices vary considerably from country to country. In some jurisdictions central banks play a dominant role in both the regulation and operations of payments. In other cases, the private sector leads. We have ended up preferring a hybrid system, where both the SARB and the private sector play equally important roles in shaping our payment landscape. We recognise the sophistication and effectiveness of our private sector and we did not want to crowd that out. But it was also clear that the SARB needed to play a bigger role in retail payments to keep up with the global frontier.
+
+Supporting innovation and protecting stability
+
+That leads to my third and final point: how to support innovation while protecting stability and public interestd.
+
+Our Payments Ecosystem Modernisation (PEM) marks an important shift in the SARB's role – from setting the policy direction alone to helping shape the payment ecosystem more actively. We believe the SARB is well placed to act in the public interest, above the interests of any one group. Our role is to coordinate, support wider adoption of technology, promote a level playing field, reduce regulatory barriers where appropriate, and widen access for new entrants – especially non-bank players. But this must always be done within our mandate to safeguard financial stability by managing the liquidity, credit and cyber risks that innovation in payments can create.
+
+Through PEM, we are upgrading the underlying infrastructure to deliver a safer, faster and cheaper payment ecosystem for all users. This is especially important for low value payments, like those made by informal traders and households. This requires infrastructure and regulatory reform to move together, combining legislative changes, new authorisation frameworks and foundational platforms.
+
+The key question is what a fully developed fast retail payment system would mean for the financial system. A few outcomes are likely. Cash use might decline further, while mobile wallets and other digital payment tools could expand and support financial inclusion. Lower transaction costs on new payment rails could also place pressure on existing card-based revenue models, forcing banks and card operators to adapt. And by opening more parts of the payment value chain to non-banks, fast payments could strengthen competition in the financial sector, with wider benefits for the economy. I should also note here, however, that cash remains the most popular means of payment in the economy, and we are committed to ensuring cash remains readily available and convenient. Our strategy is about giving South Africans more choices, not taking anything away – except hopefully needless fees and delays.
+
+So far, I have said relatively little about payment innovations linked to DLT and blockchain beyond our earlier experiments. That brings me to the much-discussed issue of stablecoins. Why do stablecoins matter in the context of fast retail payments? Put differently, could they evolve into a widely used payment technology and make the SARB's modernisation effort less relevant? Or is there a role for stablecoins in the SARB's payments modernisation strategy?
+
+Stablecoins present a distinct challenge for central banks. In the case of CBDC, the issuer is the central bank. In the case of stablecoins, the issuer is typically a private non-bank, although some commercial banks are also experimenting in this area.
+
+Our response to stablecoins depends on understanding what is driving their growth and what they are actually being used for: as a more efficient payment instrument, as a form of e-money on blockchain, or as an alternative to publicly issued money. If they begin to function as the latter, the concerns become more serious. Unlike traditional money, stablecoins are not yet regulated to the same standard, and without proper oversight they could weaken the integrity of the monetary system. Other concerns include currency substitution and the possibility of circumventing exchange controls.
+
+While stablecoins have grown considerably, they are still a small part of overall financial activity. In South Africa, stablecoins account for the bulk of transactional activity on crypto exchanges but this activity is mostly related to trading, arbitrage and settlement within crypto markets, not as a form of payment for buying goods or services. They are, to a lesser extent also used for cross-border transfers and remittances. They are largely concentrated in United States dollar-pegged stablecoins, reflecting demand for digital dollar exposure more than interest in crypto as an alternative form of money.
+
+The SARB remains cautious about stablecoins, recognising both their benefits and their risks. Many jurisdictions, who have introduced regulation on stablecoins focus on addressing the risk of weak consumer and prudential safeguards, the need for stablecoin issuers to hold high-quality assets to back their tokens, to be transparent about this and to operate under clear rules that protect users and the financial system, ensuring that they do not undermine monetary stability or regulatory oversight. We are assessing whether the existing regulatory framework can be extended to stablecoin arrangements or if there is a need for separate regulation.
+
+In the end, as we monitor the growth of stablecoins, we are asking a simple question: are they gaining ground because the financial system is too costly and inefficient, or because they offer a way around legal domestic and cross-border channels? If the answer is the former, then our modernisation agenda must respond by making the formal system faster, cheaper and easier to use. If the answer is the latter, then the regulatory challenge becomes more urgent. That, in many ways, is the policy test before us.
+
+To conclude, our task is not to resist innovation but to ensure that innovation serves the public interest. The goal is simple, even if the work is not: a payment system that is modern and competitive, a monetary system that remains credible and coherent and a financial system that is both innovative and stable.
+
+The views expressed in this speech are those of the speaker and do not necessarily reflect those of the BIS. About the author Rashad Cassim More from this author
+
+More speeches from "South African Reserve Bank"

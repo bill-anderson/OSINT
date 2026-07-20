@@ -12,15 +12,25 @@ entities: []
 lens: []
 retrieved: 2026-07-17
 sweep_batch: NER-2026-07-17
-body_completeness: excerpt
+body_completeness: full
 ---
 
-# Atelier de la Direction de la e-Santé : vers une transformation numérique du système de santé
+Atelier de la Direction de la e-Santé : Vers une transformation numérique du système de santé | Le Sahel Aller au contenu
 
-*(Le Sahel / ONEP is the Niger state daily. Capture is not endorsement.)*
+Atelier de la Direction de la e-Santé : Vers une transformation numérique du système de santé
 
-The Minister of Health and Public Hygiene, médecin Colonel-major **Garba Hakimi**, opened a workshop in Niamey to validate and disseminate the **budgeted roadmap of the National e-Health Master Plan (Schéma Directeur National de la e-Santé) 2025-2029**. The plan is a sectoral component of the "Programme de la Refondation de la République du Niger 2025-2029" (aligned to Axis 4 — accelerating social reforms).
+Le ministre de la Santé et de l’Hygiène Publique, le médecin Colonel-major Garba Hakimi, a présidé, hier à Niamey, la cérémonie d’ouverture d’un atelier de validation et de dissémination de la feuille de route budgétisée du Schéma Directeur National de la e-Santé 2025-2029. Ce guide facilitera la mise en œuvre du schéma directeur de la e-Santé, contribuant ainsi à la promotion de la bonne gouvernance, à la modernisation de l’administration publique, au développement des infrastructures et des services numériques et à l’accélération des réformes sociales.
 
-The budgeted roadmap comprises **27 structuring projects** covering governance, information systems, infrastructure, community health, hospitals, laboratories, supply chain, epidemiological surveillance, human resources, **cybersecurity, interoperability and data use for decision-making**. The Minister called for moving "from a logic of dispersed projects to a genuine national policy of digital transformation of health," and for the Digitalisation Steering and Technical Committees to prioritise projects and mobilise resources.
+Selon le ministre en charge de la Santé, après la validation officielle du Schéma Directeur National de la e-Santé 2025-2029, il était nécessaire de traduire la vision du Ministère en actions concrètes, planifiées, budgétisées et réalisables. La feuille de route soumise aux participants est le résultat d’un travail collectif ayant mobilisé les directions centrales, les programmes nationaux, les structures rattachées, les partenaires techniques et les autres parties prenantes. Pour le ministre Garba Hakimi, le Schéma de la e-Santé constitue une déclinaison sectorielle du Programme de la Refondation de la République du Niger 2025-2029. Il est aligné principalement sur l’axe 4 relatif à l’accélération des réformes sociales, avec comme stratégie prioritaire l’amélioration de l’accès aux services de santé et d’hygiène de qualité.
 
-*(Sweep note: full clipped text captured at fetch. Primary source for Niger's e-health/HMIS master plan — thickens dpi.mis, a topic absent from the wiki's NER coverage.)*
+Le ministre chargé de la Santé a aussi salué cette initiative à travers laquelle les acteurs impliqués créent le fondement de la traduction en actions opérationnelles des orientations du Président de la République dans le secteur de la santé. Cette feuille de route budgétisée comprend 27 projets structurants couvrant notamment la gouvernance, les systèmes d’information, les infrastructures, la santé communautaire, les hôpitaux, les laboratoires, la chaîne d’approvisionnement, la surveillance épidémiologique, les ressources humaines, la cybersécurité, l’interopérabilité et l’utilisation des données pour la décision. « Notre responsabilité collective est maintenant de hiérarchiser ces projets, de mobiliser les ressources et d’assurer leur mise en œuvre de manière coordonnée », déclare-t-il.
+
+Aussi, la présente feuille de route doit désormais servir de boussole pour une synergie d’effort de toutes les parties prenantes vers leur objectif commun qui est la mise en œuvre du schéma directeur de la e-Santé. « Nous devons passer d’une logique de projets dispersés à une véritable politique nationale de transformation numérique de la santé », affirme le ministre. Il a, par ailleurs invité le Comité de Pilotage de la Digitalisation à jouer pleinement son rôle d’orientation stratégique, d’arbitrage et de mobilisation des ressources ; le Comité Technique de la Digitalisation à garantir la cohérence technique, le respect des normes, la sécurité, l’interopérabilité et le suivi opérationnel ainsi que les directions et les programmes à intégrer les projets retenus dans leurs plans de travail et à assurer leur mise en œuvre. Le médecin Colonel-major Garba Hakimi a enfin demandé aux partenaires d’accompagner le gouvernement plus efficacement en s’alignant à leurs priorités en matière de numérique.
+
+Par la suite, l’assistance a eu droit à une présentation détaillée de la feuille de route budgétisée du Schéma Directeur National de la e-Santé 2025-2029 par M. Mamane Alassane Ahmed, directeur de la e-Santé, et une démonstration de la couche nationale d’interopérabilité.
+
+Passeport biométrique AES : Enrôlement du Président de la République pour la délivrance du nouveau document de voyage
+
+Au Conseil des ministres : Le gouvernement appelle les citoyens à organiser des prières et des actions de sensibilisation patriotique dans le cadre de la Journée Nationale de la Souveraineté et du Patriotisme
+
+Tahoua / Numérique : Le Programme Alimentaire Mondial inaugure un centre multimédia dénommé « Guidan Fasaha »

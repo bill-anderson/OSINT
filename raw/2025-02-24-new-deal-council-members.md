@@ -6,7 +6,7 @@ publisher: Le Soleil
 published: 2025-02-24
 date_precision: day
 date_source: source
-body_completeness: excerpt
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: SEN-2026-07-17
 places: [SEN]
@@ -15,9 +15,11 @@ entities: [[[new-deal-technologique]], [[senum-sa]], [[artp]], [[sonatel]], [[wa
 lens: []
 ---
 
-# Les noms des 20 membres du Conseil national du « New Deal technologique »
+Les noms des 20 membres du Conseil national du "New Deal technologique" - Le Soleil Accueil / Accueil » Les noms des 20 membres du Conseil national du « New Deal technologique »
 
-- lundi 24 février 2025
+Les noms des 20 membres du Conseil national du « New Deal technologique »
+
+PARTAGEZ CET ARTICLE SUR LES RÉSEAUX Facebook X LinkedIn WhatsApp Telegram Email
 
 En marge du lancement du New Deal technologique ce lundi 24 février, il y a eu l’annonce des noms des 20 membres du Conseil national du « New Deal technologique.
 
@@ -34,8 +36,6 @@ Voici les 20 membres du Conseil national du « New Deal technologique »
 -Mme Nafy Diagne, Directrice de la stratégie et de la transformation chez Yas Sénégal
 
 -M. Momar Diop, président de Sens start up
-
-M. Sidy Diop, associé chez Deloitte
 
 -M. Isidor Diouf, directeur général de Sénégal numérique Sa
 
@@ -62,3 +62,39 @@ M. Sidy Diop, associé chez Deloitte
 -M. Meïssa Tall, directeur général KPMG Afrique chez KPMG
 
 -M. Baïdy Sy, spécialiste transformation numérique à la Banque mondiale
+
+XI JINPING : « Le monde doit poursuivre une approche centrée sur l’être humain et développer une IA pour le progrès »
+
+Poste de Directeur général de l’ARTP : un appel à candidature lancé
+
+Fréquences radioélectriques : l’ARTP et l’ANAM resserrent les mailles de la sécurité maritime
+
+Le satellite SMILE : comprendre la coopération spatiale sino-européenne au service de tous
+
+Transformation numérique des parlements : l’expérience sénégalaise saluée
+
+10 juillet 2026 ARTICLES LES + POPULAIRES
+
+LIRE LE JOURNAL DU JOUR NE MANQUEZ RIEN!
+
+Inscrivez-vous à la newsletter du Soleil et recevez directement les actus dans votre boîte mail!
+
+Mame Mor Gaye alias Baay Xalima : Le calligraphe des xassaïdes
+
+17 juillet 2026 ANNONCEURS Votre publicité ici
+
+Vous voulez atteindre une audience ciblée et engagée ? Placez vos bannières publicitaires sur notre site
+
+MON COMPTE S'ABONNER LE KIOSQUE Actualités
+
+Indiquez vos informations Mot de passe perdu ? JE CRÉER MON COMPTE
+
+Votre demande a été transmise avec succès
+
+Nous allons traiter votre demandes dans les meilleurs délais. L’équipe du Journal Le Soleil
+
+Votre demande a été transmise avec succès
+
+Nous allons en prendre connaissance et vous répondre dans les meilleurs délais.
+
+Indiquez vos informations Mot de passe perdu ? JE CRÉER MON COMPTE

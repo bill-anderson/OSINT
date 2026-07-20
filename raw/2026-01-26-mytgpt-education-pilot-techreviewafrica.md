@@ -8,7 +8,7 @@ date_precision: day
 date_source: source
 retrieved: 2026-07-17
 sweep_batch: MUS-2026-07-17
-body_completeness: excerpt
+body_completeness: full
 provenance_flag: pr-wire
 places: [MUS]
 topics: [tech.ai, capacity.training, dpi.mis]
@@ -16,10 +16,30 @@ entities: [[mauritius-telecom]]
 lens: []
 ---
 
-# Mauritius Telecom launches mytGPT educational project to drive AI-powered learning
+TechReviewAfrica - News Details Latest News : Sunday, July 19, 2026
 
-*Tech Review Africa (PR wire; explicit Date field 2026-01-26).*
+Mauritius Telecom launches mytGPT educational project to drive AI-powered learning
 
-Mauritius Telecom launched the pilot of its **mytGPT Education Project**, integrating an AI-powered personal tutor into classrooms to strengthen learning outcomes and support teachers. Launch attended by Devendre Gopaul (Senior Chief Executive), Ricaud Auckbur (CTO, Ministry of Education and Human Resource) and CEO Veemal Gungadin, with a live demonstration at **James Burty David Secondary School**.
+Mauritius Telecom has taken a major step in transforming education in Mauritius with the pilot launch of the mytGPT Education Project. The launch event was attended by Devendre Gopaul, Senior Chief Executive, Ricaud Auckbur, Chief Technical Officer from the Ministry of Education and Human Resource, and Veemal Gungadin, CEO of Mauritius Telecom.
 
-*(mytGPT Education — later evolving toward "my.t Learn" and scaled in the 2026-2027 Budget's 50,000-trainee AI plan — is a recurring reference across the MUS batch. PR-wire; primary confirmation suggested at ingest.)*
+A live demonstration at James Burty David Secondary School showcased the platform’s capabilities, providing educators and students with a first-hand experience of its potential. Developed by Mauritius Telecom, the mytGPT Educational Platform integrates an AI-powered personal tutor into classrooms, designed to strengthen learning outcomes, support teachers, and help students advance in their studies.
+
+The initiative marks a significant milestone in the digital transformation of education in Mauritius, highlighting the role of artificial intelligence in enhancing teaching and learning.
+
+Kenya government confirms cybersecurity incident affecting presidential website
+
+UN Tech Envoy calls for global cooperation on AI governance at World AI Conference
+
+Algeria advances Africa’s digital sovereignty agenda through AI, connectivity and innovation initiatives
+
+Kenya government confirms cybersecurity incident affecting presidential website
+
+UN Tech Envoy calls for global cooperation on AI governance at World AI Conference
+
+Algeria advances Africa’s digital sovereignty agenda through AI, connectivity and innovation initiatives
+
+University of Ghana hosts Pan-African Workshop on cybersecurity and artificial intelligence
+
+China contributes additional $2.5 million to Africa CDC for Ebola response in DRC and Uganda
+
+We may use cookies or any other tracking technologies when you visit our website, including any other media form, mobile website, or mobile application related or connect... Read more about cookies Accept Policy

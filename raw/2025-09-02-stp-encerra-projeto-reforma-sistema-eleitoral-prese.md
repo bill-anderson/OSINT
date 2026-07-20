@@ -10,21 +10,55 @@ places: [STP]
 topics: [dpi.exchange, dpi.registry, dpi.id]
 entities: [[prese]], [[dgrn]], [[universidade-aveiro]]
 lens: [colonialism]
-body_completeness: excerpt
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: STP-2026-07-17
 ---
 
+STP encerra o Projeto de Reforma do Sistema Eleitoral financiado pela União Europeia
+
+Partilhar Tweetar Partilhar Email Comentários
+
 São Tomé e Príncipe encerra nesta quinta-feira, 4, no Centro Cultural Português, a formação e a apresentação das Soluções Tecnológicas do Projeto de Reforma do Sistema Eleitoral (PReSE), financiado pela União Europeia, que tem como objetivo implementar um sistema de recenseamento eleitoral automático e permanente no país.
 
-O Projeto de Reforma do Sistema Eleitoral (PReSE) tem sido implementado pela Cooperação Portuguesa, através do Camões, I.P.
+O Projeto de Reforma do Sistema Eleitoral (PReSE), tem sido implementado pela Cooperação Portuguesa, através do Camões, I.P.
 
-"Este projeto, que teve a sua apresentação pública no passado dia 20 de maio, pretende dar resposta às principais recomendações da Missão de Observação Eleitoral da União Europeia de 2022 e às prioridades definidas pelo Governo santomense, visando reforçar a credibilidade, transparência e modernização do sistema eleitoral nacional", lê-se na nota enviada à RSTP.
+“Este projeto, que teve a sua apresentação pública no passado dia 20 de maio, pretende dar resposta às principais recomendações da Missão de Observação Eleitoral da União Europeia de 2022 e às prioridades definidas pelo Governo santomense, visando reforçar a credibilidade, transparência e modernização do sistema eleitoral nacional”, lê-se na nota enviada à RSTP.
 
 No centro da reforma está a plataforma de interoperabilidade entre a base de dados do registo civil (SIGA e Bilhete de Identidade) e a base de dados do recenseamento eleitoral, que permitirá que a inscrição de eleitores seja feita de forma automática, segura, transparente, eficaz e económica, evitando recenseamentos manuais repetidos e assegurando a atualização permanente dos cadernos eleitorais.
 
-"Esta plataforma está a ser desenvolvida pela Universidade de Aveiro, entidade parceira deste projeto, que fará uma apresentação da plataforma, suas funcionalidades e benefícios para o processo eleitoral em São Tomé e Príncipe. Formação e capacitação técnica: um dos pilares do PReSE é a capacitação das instituições nacionais, com destaque para a Direção-Geral dos Registos e Notariado (DGRN) e a Comissão Eleitoral Nacional/Gabinete Técnico Eleitoral (CEN/GTE)", acrescentou.
+“Esta plataforma está a ser desenvolvida pela Universidade de Aveiro, entidade parceira deste projeto, que fará uma apresentação da plataforma, suas funcionalidades e benefícios para o processo eleitoral em São Tomé e Príncipe. Formação e capacitação técnica Um dos pilares do PReSE é a capacitação das instituições nacionais, com destaque para a Direção-Geral dos Registos e Notariado (DGRN) e a Comissão Eleitoral Nacional/Gabinete Técnico Eleitoral (CEN/GTE)”, acrescentou.
 
 Neste quadro, foi realizada uma ação de formação em desenvolvimento web e WebAPI, conduzida pela Universidade de Aveiro, com o objetivo de dotar os técnicos da DGRN e da CEN de competências que lhes permitam ter autonomia técnica na gestão e manutenção do novo sistema.
 
-Reforço tecnológico da DGRN: o projeto prevê ainda o reforço das capacidades tecnológicas da DGRN, através da entrega e instalação de equipamentos essenciais para estabilizar e modernizar os sistemas de registo civil (SIGA e Bilhete de Identidade). Estes equipamentos asseguram maior fiabilidade, continuidade operacional e proteção dos dados dos cidadãos.
+Reforço tecnológico da DGRN O projeto prevê ainda o reforço das capacidades tecnológicas da DGRN, através da entrega e instalação de equipamentos essenciais para estabilizar e modernizar os sistemas de registo civil (SIGA e Bilhete de Identidade). Estes equipamentos asseguram maior fiabilidade, continuidade operacional e proteção dos dados dos cidadãos.
+
+Incluída em:Destaques - Projeto de Reforma do Sistema Eleitoral - São Tomé e Príncipe Publicado por Carla Neto Partilhar Tweetar Partilhar Email
+
+Eleições’26: Site da CEN sofre tentativa de invasão, mas Comissão garante segurança dos dados “sem qualquer suspeita”
+
+Eleições`26: Missão da União Europeia destaca primeiras horas do dia de voto “sem incidentes”
+
+Eleições’26: Carlos Vila Nova apela ao voto, respeito às instituições e preservação da paz
+
+ATENÇÃO: ESTE É UM ESPAÇO PÚBLICO E MODERADO. Não forneça os seus dados pessoais nem utilize linguagem imprópria.
+
+Eleições’26: Site da CEN sofre tentativa de invasão, mas Comissão garante segurança dos dados “sem qualquer suspeita”
+
+Eleições’26: CEN destaca 50% de votação no Príncipe e Lembá, e anuncia anulação em zonas com barricadas
+
+Eleições`26: Missão da União Europeia destaca primeiras horas do dia de voto “sem incidentes”
+
+Eleições’26: Carlos Vila Nova apela ao voto, respeito às instituições e preservação da paz
+
+Eleições’26: Nito d’Abreu apela ao voto em consciência e diz que respeitará resultados se não houver fraude
+
+Eleições`26: Fraca afluência e duas barricadas no sul marcam primeiras horas da votação em São Tomé e Príncipe
+
+Eleições´26: Filipe Nyusi chefia missão de observação eleitoral da União Africana em STP
+
+Mundial´26: Inglaterra vence a França e garante o terceiro lugar no campeonato do mundo
+
+Eleições´26: Governo apela ao civismo e à participação nas eleições presidenciais deste domingo
+
+Eleições’26: CEN desmente boatos e garante que jornalistas poderão divulgar resultados em tempo real

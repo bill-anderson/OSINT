@@ -9,20 +9,22 @@ date_precision: day
 date_source: source
 retrieved: 2026-07-17
 sweep_batch: RWA-2026-07-17
-body_completeness: excerpt
+body_completeness: full
 places: [RWA]
 topics: [dpi.id, include.access]
 entities: [[nida-rwanda]]
 lens: [sovereignty]
 ---
 
-# Digital ID Rollout Kicks Off in Kigali
+Digital ID Rollout Kicks Off in Kigali - KT PRESS Home » Digital ID Rollout Kicks Off in Kigali National
 
-The National Identification Agency (NIDA) has launched pre-enrollment and enrollment for Rwanda's digital national identification cards in the City of Kigali, extending a nationwide initiative expected to transform how citizens access services and interact with the state.
+by Sam Nkurunziza February 7, 2026 written by Sam Nkurunziza February 7, 2026 185
+
+The National Identification Agency (NIDA) has launched pre-enrollment and enrollment for Rwanda’s digital national identification cards in the City of Kigali, extending a nationwide initiative expected to transform how citizens access services and interact with the state.
 
 The campaign officially began in Kigali on February 7, 2026, following earlier rollouts in the Southern Province. Initial activities started in Nyanza, Huye, and Gisagara districts before expanding to Kamonyi, Ruhango, and Muhanga.
 
-Designed to make public and private services more secure, efficient, and accessible, the program is a key pillar of Rwanda's digital transformation agenda. It introduces a smart digital identity that can be used both physically and virtually, allowing citizens to authenticate themselves seamlessly across multiple platforms without relying solely on paper-based documents.
+Designed to make public and private services more secure, efficient, and accessible, the program is a key pillar of Rwanda’s digital transformation agenda. It introduces a smart digital identity that can be used both physically and virtually, allowing citizens to authenticate themselves seamlessly across multiple platforms without relying solely on paper-based documents.
 
 In Kigali, enrollment is taking place at designated sites across all three districts—Gasabo, Kicukiro, and Nyarugenge—bringing services closer to residents at the sector and cell levels.
 
@@ -38,6 +40,32 @@ NIDA has emphasized that the initiative is inclusive by design. In addition to R
 
 According to the agency, the Kigali rollout reflects a people-centred approach that prioritizes accessibility and community-level awareness.
 
-"The digital ID is about ensuring that everyone who lives in Rwanda can securely prove who they are and access services with dignity and ease," NIDA said in a statement, urging residents to visit their designated enrollment sites during the campaign period.
+“The digital ID is about ensuring that everyone who lives in Rwanda can securely prove who they are and access services with dignity and ease,” NIDA said in a statement, urging residents to visit their designated enrollment sites during the campaign period.
 
-Beyond individual convenience, the digital ID plays a strategic role in national development. A trusted digital identification system strengthens service delivery, supports better planning and policy implementation, and underpins Rwanda's ambition to build a resilient, inclusive, and digitally driven economy.
+Beyond individual convenience, the digital ID plays a strategic role in national development. A trusted digital identification system strengthens service delivery, supports better planning and policy implementation, and underpins Rwanda’s ambition to build a resilient, inclusive, and digitally driven economy.
+
+Visited 350 times, 1 visit(s) today big-storylatestnews 0 comments 0 FacebookTwitterPinterestEmail
+
+From the White House to Kigali: Social Media Post Sparks Diplomatic Exchange With Angolan Journalist
+
+Rwanda Overtakes Uganda as Kenya’s Top Coffee Supplier
+
+After Rwanda’s Crackdown, Users of Online Investment Scheme...
+
+Kagame: Progress Begins When We Stop Excusing Wrongdoing
+
+President Kagame to RPF Party: Let Results, Not...
+
+Senate Warns Wildlife Shortage of Food Is Driving...
+
+Germany Arrests Genocide Suspect Who Served in Commune...
+
+Chinese-Rwandan Traditional Medicine Centre Opens in Eastern Province
+
+More Than 140 Young Entrepreneurs, Creatives Win Millions...
+
+Africa Told to Fix Leadership Before Chasing the...
+
+Kagame Retires Three RDF Generals, Over 1,400 Other...
+
+July 11, 2026 Jojobet Girişjojobet girişJojobet Güncel Girişcasibomcasibom girişcasibom girişcasibom girişcasibomcasibom girişjojobet

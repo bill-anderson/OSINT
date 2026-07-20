@@ -10,43 +10,16 @@ places: [ZAF]
 topics: [dpi.govtech, gov.policy]
 entities: [[operation-vulindlela], [mymzansi]]
 lens: [sovereignty]
-body_completeness: excerpt
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: ZAF-2026-07-17
 ---
 
-Sectors
+Operation Vulindlela’s digital transformation gathers pace | ITWeb Sectors Companies About Subscribe
 
-Companies
+Operation Vulindlela’s digital transformation gathers pace
 
-About
-
-Subscribe
-
-NEWS
-
-INSIGHTS
-
-EVENTS
-
-VIDEOS
-
-Search
-
-- Home
-- /
-- Software Development and Testing
-- /
-- Operation Vulindlela’s digital transformation gathers pace
-
-# Operation Vulindlela’s digital transformation gathers pace
-
-
-By Simnikiwe Mzekandaba, IT in government editorJohannesburg, 23 Apr 2026
-
-
-Operation Vulindlela’s digital transformation pillar aims to ensure a fully digital government in the next few years. (Image source: 123RF)
-
+By Simnikiwe Mzekandaba, IT in government editorJohannesburg, 23 Apr 2026Operation Vulindlela’s digital transformation pillar aims to ensure a fully digital government in the next few years. (Image source: 123RF)
 
 Momentum is accelerating in the digital transformation pillar of Operation Vulindlela phase two, led by government’s advances in data integration to streamline citizen services.
 
@@ -58,11 +31,7 @@ The digital transformation reform comprises four key pillars: data exchange, dig
 
 To date, the citizen services platform MyMzansi, MzansiXchange pilot and gov.za platform have kicked-off in some capacity, with the digital identity programme progressing under the leadership of the Department of Home Affairs.
 
-See also
-
-Govt targets ‘seamless’ data sharing between departments
-
-Govt touts digital transformation as key to Operation Vulindlela 2.0
+See also Govt targets ‘seamless’ data sharing between departmentsGovt touts digital transformation as key to Operation Vulindlela 2.0
 
 Musker said the digital transformation pillar is a “really exciting” new area where a lot of momentum is building.
 

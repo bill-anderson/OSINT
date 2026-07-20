@@ -11,19 +11,29 @@ places: [SSD]
 topics: [infra.connect, gov.regional]
 entities: [[world-bank]]
 lens: []
-body_completeness: excerpt
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: SSD-2026-07-17
 ---
 
-# South Sudan to lay fibre from Kenya
+South Sudan to lay fibre from Kenya | ITWeb Africa AlgeriaEgyptGhanaKenyaMoroccoNigeria South Africa BUSINESS TECHNOLOGY MEDIA FOR AFRICA Subscribe to our daily newsletterSubscribe to our daily newsletter
 
-*ITWeb Africa, 8 August 2025 (Mthulisi Sibanda)*
+By Mthulisi Sibanda, ContributorJohannesburg, 08 Aug 2025The cable connection from Kenya is expected to lower communication costs and increase coverage.
 
-South Sudan plans to establish a fibre cable connection from neighbouring Kenya early next year. Mabe Emmanuel, secretary general of the Universal Service and Access Fund, revealed the proposal of the Ministry of Information, Communication Technology, and Postal Services.
+South Sudan plans to establish a fibre cable connection from neighbouring Kenya early next year.
 
-"The ministry, under the leadership of (minister) Michael Makuei Lueth, is currently recruiting technical teams to do the feasibility studies and environmental assessment to pave ways for the groundbreaking next year," Emmanuel said. The cable connection from Kenya is expected to lower communication costs, increase coverage, and connect underserved populations.
+Mabe Emmanuel, secretary general of the Universal Service and Access Fund, revealed the proposal of the Ministry of Information, Communication Technology, and Postal Services.
 
-The government of South Sudan is actively attempting to enhance connectivity, which has been impeded by violence and its landlocked status. Another connectivity link is planned from Djibouti in the northeast. South Sudan currently has only one fibre connectivity, a 200-kilometer line from Uganda to the capital, Juba.
+"The ministry, under the leadership of (minister) Michael Makuei Lueth, is currently recruiting technical teams to do the feasibility studies and environmental assessment to pave ways for the groundbreaking next year," according to Emmanuel.
 
-*[Body: verbatim article text captured via Exa 2026-07-17.]*
+He announced the idea following the Ministry of Information, Communication Technology, and Postal Services' 13th leadership meeting late Thursday.
+
+The cable connection from Kenya is expected to lower communication costs, increase coverage, and connect underserved populations in South Sudan.
+
+The government of South Sudan is actively attempting to enhance connectivity, which has been impeded by violence and its landlocked status.
+
+Another connectivity link is planned from Djibouti in the northeast.
+
+South Sudan currently has only one fibre connectivity, a 200-kilometer line from Uganda to the capital, Juba.
+
+InfrastructureSouth SudanKenyaMichael Makuei LuethConnectivityBroadbandEast AfricaRead moreSITE SPONSOR

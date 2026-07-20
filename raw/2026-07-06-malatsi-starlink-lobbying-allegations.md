@@ -10,43 +10,16 @@ places: [ZAF]
 topics: [infra.connect, geopol.usa]
 entities: [[starlink], [solly-malatsi]]
 lens: [sovereignty]
-body_completeness: excerpt
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: ZAF-2026-07-17
 ---
 
-Sectors
+Malatsi addresses Starlink lobbying allegations | ITWeb Sectors Companies About Subscribe
 
-Companies
+Malatsi addresses Starlink lobbying allegations
 
-About
-
-Subscribe
-
-NEWS
-
-INSIGHTS
-
-EVENTS
-
-VIDEOS
-
-Search
-
-- Home
-- /
-- Broadband
-- /
-- Malatsi addresses Starlink lobbying allegations
-
-# Malatsi addresses Starlink lobbying allegations
-
-
-By Simnikiwe Mzekandaba, IT in government editorJohannesburg, 06 Jul 2026
-
-
-Solly Malatsi, communications and digital technologies minister.
-
+By Simnikiwe Mzekandaba, IT in government editorJohannesburg, 06 Jul 2026Solly Malatsi, communications and digital technologies minister.
 
 Minister Solly Malatsi says he has engaged several low-Earth orbit (LEO) satellite providers, including Starlink, for insight-sharing purposes rather discussing individual licence applications.
 
@@ -58,13 +31,9 @@ Resolve Communications has rejected the claims as baseless and denied acting imp
 
 Following the allegations, Khusela Sangoni-Diko, Parliament’s Portfolio Committee on Communications and Digital Technologies chairperson, sought clarity from the minister. Sangoni-Diko requested responses to her query by Monday, 6 July.
 
-See also
+See also Starlink lobbying allegations draw state capture warningsPresidency rejects claims comms minister acted unlawfully
 
-Starlink lobbying allegations draw state capture warnings
-
-Presidency rejects claims comms minister acted unlawfully
-
-In a letter, dated 5 July and addressed to the chairperson, Malatsi says he has met with several companies and other stakeholders advocating for LEOs, listing MzansiSat, Amazon Leo, China Satellite Network Company, Spacesail, Space24 and Starlink.
+In a letter, dated 5 July and addressed to the chairperson, Malatsi says he has met with several companies and other stakeholders advocating for LEOs, listing MzansiSat, Amazon Leo, China Satellite Network Company, Spacesail,Space24 and Starlink.
 
 “None of these meetings discussed individual licence applications,” he states. “Such meetings are always about understanding each entity’s capabilities and sharing insights about the country’s current regulatory dispensation.
 

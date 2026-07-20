@@ -9,54 +9,84 @@ date_precision: day
 date_source: source
 retrieved: 2026-07-17
 sweep_batch: RWA-2026-07-17
-body_completeness: excerpt
+body_completeness: full
 places: [RWA]
 topics: [tech.ai, gov.policy, gov.legislate]
 entities: [[rwanda-national-ai-agency]], [[paula-ingabire]]
 ---
 
-# Rwanda's AI Ambition Takes Shape as Cabinet Approves New Agency
+Rwanda's AI Ambition Takes Shape as Cabinet Approves New Agency - KT PRESS Home » Rwanda’s AI Ambition Takes Shape as Cabinet Approves New Agency National
 
-KIGALI – Rwanda's target to become a leading player in artificial intelligence took a significant step forward on Monday after Cabinet approved the establishment of a National Artificial Intelligence Agency.
+Rwanda’s AI Ambition Takes Shape as Cabinet Approves New Agency
+
+by Sam Nkurunziza June 8, 2026 written by Sam Nkurunziza June 8, 2026 64
+
+Minister of ICT and Innovation Paula Ingabire speaking during the Global AI Summit on Africa held in Kigali last year.
+
+KIGALI – Rwanda’s target to become a leading player in artificial intelligence took a significant step forward on Monday after Cabinet approved the establishment of a National Artificial Intelligence Agency.
 
 The decision was announced following a Cabinet meeting chaired by President Paul Kagame at Urugwiro Village.
 
-According to the Cabinet communiqué, the agency will accelerate artificial intelligence development, innovation, adoption, investment and governance in support of Rwanda's digital transformation and economic growth.
+According to the Cabinet communiqué, the agency will accelerate artificial intelligence development, innovation, adoption, investment and governance in support of Rwanda’s digital transformation and economic growth.
 
 The approval builds on efforts Rwanda has made in recent years to position itself as a technology and innovation hub, including investments in digital infrastructure, digital public services and technology skills development.
 
-### Building on Existing Policy
+The new agency comes after Rwanda’s National Artificial Intelligence Policy, which was approved by Cabinet in April 2023 and outlined the country’s ambition to become a leader in responsible and inclusive AI development.
 
-The new agency comes after Rwanda's National Artificial Intelligence Policy, which was approved by Cabinet in April 2023 and outlined the country's ambition to become a leader in responsible and inclusive AI development.
+President Kagame addresses the Global AI Summit on Africa, Kigali April 3, 2025
 
 The policy focuses on building AI skills, strengthening research and innovation, improving data infrastructure, encouraging private-sector investment and establishing governance mechanisms to ensure AI is developed and used ethically, securely and inclusively.
 
 It also seeks to position Rwanda as a regional hub for AI solutions tailored to African challenges.
 
-Speaking during the launch of the policy, Minister of ICT and Innovation Paula Ingabire emphasized the importance of building local expertise to support the country's ambitions.
+Speaking during the launch of the policy, Minister of ICT and Innovation Paula Ingabire emphasized the importance of building local expertise to support the country’s ambitions.
 
-"When you look at our national AI policy, you realize that 70 per cent of the policy is focused on skills. That was very intentional because we knew that, without the right skills, we would never be able to support the industry and its associated changes," she said.
+“When you look at our national AI policy, you realize that 70 per cent of the policy is focused on skills. That was very intentional because we knew that, without the right skills, we would never be able to support the industry and its associated changes,” she said.
 
 The minister has also previously stressed the need for homegrown innovation in the field.
 
-"We will not be able to build homegrown solutions that respond to local challenges if we don't have a talented AI ecosystem, people that understand how to build these models, people that are able to leverage these tools and are out there to create the solutions," she said.
+“We will not be able to build homegrown solutions that respond to local challenges if we don’t have a talented AI ecosystem, people that understand how to build these models, people that are able to leverage these tools and are out there to create the solutions,” she said.
 
-### A New Institutional Framework
-
-Rwanda's Cabinet approved the establishment of a National Artificial Intelligence Agency that will rely on an established data centre.
+Rwanda’s Cabinet approved the establishment of a National Artificial Intelligence Agency that will rely on an established data centre.
 
 While Cabinet has approved the creation of the agency, details regarding its structure, operations and implementation timeline have not yet been made public.
 
-However, the move signals the government's intention to strengthen institutional support for artificial intelligence as Rwanda continues to expand its digital economy.
+However, the move signals the government’s intention to strengthen institutional support for artificial intelligence as Rwanda continues to expand its digital economy.
 
-In previous remarks, Ingabire described the country's AI policy as "a significant milestone" and said Rwanda was positioning itself to become "the leading destination in Africa for experimenting with and developing trustworthy AI technologies contextualized for the African continent."
+In previous remarks, Ingabire described the country’s AI policy as “a significant milestone” and said Rwanda was positioning itself to become “the leading destination in Africa for experimenting with and developing trustworthy AI technologies contextualized for the African continent.”
 
 The establishment of the National Artificial Intelligence Agency is expected to provide a dedicated platform for advancing those ambitions.
 
-As governments around the world increasingly explore the opportunities and challenges presented by artificial intelligence, Rwanda's latest Cabinet decision places the technology firmly within the country's long-term development agenda.
+As governments around the world increasingly explore the opportunities and challenges presented by artificial intelligence, Rwanda’s latest Cabinet decision places the technology firmly within the country’s long-term development agenda.
 
-Rwanda's latest move also comes amid growing momentum for artificial intelligence across Africa. Earlier this year, leaders from 54 African countries endorsed the Africa Declaration on Artificial Intelligence during the Global AI Summit on Africa held in Kigali.
+Rwanda’s latest move also comes amid growing momentum for artificial intelligence across Africa. Earlier this year, leaders from 54 African countries endorsed the Africa Declaration on Artificial Intelligence during the Global AI Summit on Africa held in Kigali.
 
 The declaration outlined plans for an Africa AI Fund expected to mobilize up to US$60 billion for AI development and proposed the creation of an Africa AI Council to strengthen cooperation and governance across the continent.
 
-The summit underscored Africa's ambition to play a more active role in shaping the future of AI rather than simply adopting technologies developed elsewhere.
+The summit underscored Africa’s ambition to play a more active role in shaping the future of AI rather than simply adopting technologies developed elsewhere.
+
+Visited 291 times, 2 visit(s) today big-storylatestnews 0 comments 0 FacebookTwitterPinterestEmail
+
+With Conservation Agriculture, Farmers Can Harvest More Without Using More Fertilizer
+
+Rwanda’s Refugee Strategy Focuses on Building Communities, Not Just Camps
+
+After Rwanda’s Crackdown, Users of Online Investment Scheme...
+
+Kagame: Progress Begins When We Stop Excusing Wrongdoing
+
+President Kagame to RPF Party: Let Results, Not...
+
+Senate Warns Wildlife Shortage of Food Is Driving...
+
+Germany Arrests Genocide Suspect Who Served in Commune...
+
+Chinese-Rwandan Traditional Medicine Centre Opens in Eastern Province
+
+More Than 140 Young Entrepreneurs, Creatives Win Millions...
+
+Africa Told to Fix Leadership Before Chasing the...
+
+Kagame Retires Three RDF Generals, Over 1,400 Other...
+
+July 11, 2026 Jojobet GirişCasibom Girişjojobet girişJojobet Güncel Girişcasibomcasibom girişcasibom girişcasibom girişcasibomcasibom girişjojobet

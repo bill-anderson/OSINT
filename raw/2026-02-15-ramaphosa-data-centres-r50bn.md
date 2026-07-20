@@ -10,30 +10,18 @@ places: [ZAF]
 topics: [infra.store, finance.new]
 entities: [[cyril-ramaphosa]]
 lens: [geopol.usa]
-body_completeness: excerpt
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: ZAF-2026-07-17
 ---
 
-# Ramaphosa bullish on data centres as R50bn expected over three years
+Ramaphosa bullish on data centres as R50bn expected over three years NewsPREMIUM
 
-## Growth in the sector has been underpinned by cloud computing and AI
+Ramaphosa bullish on data centres as R50bn expected over three years
 
-February 15, 2026 at 1:53 pm3 min read
+Growth in the sector has been underpinned by cloud computing and AI
 
-Add as a preferred source on Google Follow on Google News
-
-## Mudiwa Gavaza
-
-Technology Correspondent
-
-Send an email to Mudiwa Gavaza Connect on Twitter
-
-Send an email to %{authorName} Connect on Twitter
-
-Expand
-
-President Cyril Ramaphosa delivers the state of the nation address in Cape Town on February 12 2026. ( Rodger Bosch/Pool via REUTERS)
+Opens in new windowOpens in new windowOpens in new windowOpens in new window
 
 President Cyril Ramaphosa is again leaning into the promises of economic growth driven by technology, announcing an expected R50bn worth of digital infrastructure coming to the country’s shores over the next three years.
 
@@ -52,8 +40,6 @@ Ramaphosa is particularly bullish about the growth in local data centre investme
 Data centres — which are typically specialised facilities that manage IT infrastructure, including servers, storage devices and network equipment — and related digital structures have become increasingly attractive investment targets for asset managers. Such businesses tend to be backed by long-term customer contracts, which also ensure stable and predictable revenue and cash flow.
 
 We are attracting major investment in digital infrastructure, with 55 data centres already built and more than R50bn of investment expected over the next three years.
-
-> — Cyril Ramaphosa
 
 Growth in the sector has been underpinned by the advent of cloud computing over the past decade and a half, currently benefitting from the demand created by the boom in artificial intelligence.
 
@@ -77,32 +63,26 @@ The company now holds about 40% of data centre capacity in Sub-Saharan Africa.
 
 Part of the investment into data centres has been around renewable energy to keep facilities up and running as a failsafe for Eskom power and backup generators. In early 2024, Teraco began work on a 120MW solar energy facility in the Free State.
 
-Business Day
-
-
-Would you like to comment on this article?Sign up (it's quick and free) or sign in now.
-
-Sign Up Log In
+Would you like to comment on this article? Sign up (it's quick and free) or sign in now.
 
 Please read our Comment Policy before commenting.
 
-## Editor’s Choice
+SOLLY LETSOALO | Transnet is turning the tide at Cape Town port
 
-1
+ARTHUR GOLDSTUCK | How Leo stole our sky under Starlink’s nose
 
-### LUCKY MATHEBULA | The African Century will be built by development, not border panic
+TEBOGO KHAAS | It’s not a question of what at Eskom — it’s how
 
+LUNCEDO MTWENTWE | The know-how vacuum that’s crippling towns and cities
 
-2
+Competition Commission greenlights Stanlib bid to acquire Africa Data Centres
 
-### BHASO NDZENDZE AND TANKISO MOLOI | The paradox of rising exports and stubborn unemployment
+Futuregrowth backs Ramaphosa’s independent grid operator plan
 
+ECONOMIC WEEK AHEAD | Fresh unemployment data offers post-Sona reality check
 
-3
+POLITICAL WEEK AHEAD | Parliament debates Ramaphosa’s state of the nation address
 
-### CHIKE EMEDOSI | Africa’s risk premium is built into global financial rules
+EDITORIAL | Sona: We have our diagnosis, now we need action
 
-
-4
-
-### MICHAEL KAHN | SA’s immigration crisis began long before today’s border debate
+Facebook pageTwitter feedYoutube ChannelRSS feed

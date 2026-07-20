@@ -7,7 +7,7 @@ published: 2025-03-26
 date_precision: day
 date_source: source
 retrieved: 2026-07-17
-body_completeness: excerpt
+body_completeness: full
 sweep_batch: NGA-2026-07-17
 places: [NGA]
 topics: [capacity.training, digital.localgov]
@@ -15,9 +15,9 @@ entities: []
 lens: []
 ---
 
-# Nigeria: Benue State commits to training 40,000 civil servants in digital skills
+Nigeria: Benue State commits to training 40,000 civil servants in digital skills - We are Tech
 
-By Isaac K. Kassouwi — 26 March 2025, We are Tech (editing by Sèna D. B. de Sodji)
+Nigeria: Benue State commits to training 40,000 civil servants in digital skills
 
 Benue State, like the federal government, is emphasizing digital transformation. To this end, the state entered into a partnership with Huawei in November 2024.
 
@@ -27,6 +27,14 @@ The program aims to equip civil servants with the skills to effectively utilize 
 
 "Through this training, we are fostering a future-ready workforce capable of adapting to the demands of a rapidly evolving world," said Hyacinth Iormem Alia, Governor of Benue State. This perspective is also supported by the Organisation for Economic Co-operation and Development (OECD), which shares this vision in its recommendations.
 
-In its report titled "Developing skills for digital government: A review of good practices across OECD governments," the organization states that "to support the shift to digital government, countries must invest in developing the skills of civil servants."
+In its report titled "Developing skills for digital government: A review of good practices across OECD governments," the organization states that “to support the shift to digital government, countries must invest in developing the skills of civil servants.”
 
 The OECD further notes that digital technologies have had—and will continue to have—a profound impact on economies, labor markets, and societies. This trend is echoed by the World Bank, which forecasts that nearly 230 million jobs in Sub-Saharan Africa will require digital skills by 2030.
+
+Tarik Dadi Combats Health Insurance Fraud with Qantev Software Tunisian Entrepreneur Safi Negra Digitizes Home Services With Ijeni Platform Insight Terra CEO Alastair Bovim Deploys Data Fusion to Mitigate Industrial Disasters Michael Moyo's Ocular AI Brings Human Expertise to Artificial Intelligence Ghanaian Entrepreneur Alfred Opare Saforo Expands Hybrid Work Through Zuludesk Nigerian Entrepreneur Rukayat Kolawole-Bello Expands Financial Inclusion Through Regxta
+
+KutanaPay Uses AI and Blockchain to Reduce Cross-Border Trade Risks Nairobi Startup Reemio Expands Digital Tools for Kenya's Rental Market Rwandan Startup Check Me Uses AI to Support Breast Cancer Screening Senegalese Fintech Dërêm Expands Access to Capital for Social Enterprises
+
+Kenya Partners with Italy to Advance Digital Transformation
+
+Please publish modules in offcanvas position.

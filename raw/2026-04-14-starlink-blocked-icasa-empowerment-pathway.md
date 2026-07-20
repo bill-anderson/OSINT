@@ -10,34 +10,28 @@ places: [ZAF]
 topics: [infra.connect, gov.legislate, geopol.usa]
 entities: [[starlink], [icasa], [solly-malatsi]]
 lens: [sovereignty]
-body_completeness: excerpt
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: ZAF-2026-07-17
 ---
 
-# Was Starlink offered empowerment pathway to get into SA?
+Starlink blocked by ICASA rules despite empowerment pathway South Africa
 
+Was Starlink offered empowerment pathway to get into SA?
 
-### RELATED ARTICLES
+Kubayi to ask Ramaphosa to suspend IDAC chief Andrea Johnson
 
-## ‘Going nowhere:’ PA rejects impeachment calls, stands firm behind Ramaphosa
+People no longer believe government will deliver, says Ramaphosa at Hammanskraal borehole launch
 
-## Maybe Amazon moans less, Elon Musk?
-
-## Solly Malatsi insists EEIPs cannot be offered to multinationals, as ICASA's regulations only recognise direct equity ownership.
+Solly Malatsi insists EEIPs cannot be offered to multinationals, as ICASA's regulations only recognise direct equity ownership.
 
 Minister of Communications and Digital Technologies Solly Malatsi. Picture: Gallo Images/Luba Lesolle
 
-Add as Preferred Source on Google
-
-Follow on Google News
-
+Add as Preferred Source on Google Follow on Google News
 
 Was Starlink and Elon Musk offered the opportunity to pursue a BEE equivalent through training South Africans, rather than selling equity?
 
 Specifically, this refers to the Equity Equivalent Investment Programme (EEIP) for multinationals, alongside heavily weighted Skills Development and Enterprise Development targets for local companies.
-
-## Not through the minister
 
 EEIPs allow foreign firms to gain ownership points by investing in training, skills development, and the local industry instead of selling shares.
 
@@ -45,9 +39,7 @@ Minister of Communications and Digital Technologies Solly Malatsi says it is “
 
 South Africa’s ICT sector is caught in a regulatory bind that has left global players like Starlink unable to pursue empowerment through the EEIP Programme.
 
-## ‘Move on!’ Presidency tells Elon Musk amid Starlink bribery claims
-
-### B-BBEE
+‘Mandela Day is about serving others and living by Madiba’s values’ – Ramaphosa says
 
 The EEIP programme is a Broad-Based Black Economic Empowerment (B-BBEE) initiative designed specifically for multinational companies that cannot comply with the standard 25% black ownership requirement due to global policies.
 
@@ -55,25 +47,17 @@ They allow foreign firms to earn empowerment points by investing in training, sk
 
 Talks on launching Starlink in South Africa stalled last year after South African-born SpaceX and Tesla boss Elon Musk and US President Donald Trump ramped up public rhetoric against policies such as BEE laws, which mandate that foreign-owned telecoms companies allocate at least 30% of local equity to historically disadvantaged groups.
 
-### Offering EEIP’s
-
 Responding to questions from The Citizen about whether Musk and Starlink were offered an EEIP option, Malatsi stressed: “It is legally impossible for the ministry to offer EEIPs to multinationals”.
 
 “The Independent Communications Authority of South Africa is an independent regulator and has the sole authority to grant individual licences. I can, by law, never be involved in decisions about individual licences, and only have policy-making authority.”
 
-### RELATED ARTICLES
+Kubayi to ask Ramaphosa to suspend IDAC chief Andrea Johnson
 
-## ‘Going nowhere:’ PA rejects impeachment calls, stands firm behind Ramaphosa
-
-## Maybe Amazon moans less, Elon Musk?
-
-### ICASA regulations
+People no longer believe government will deliver, says Ramaphosa at Hammanskraal borehole launch
 
 Malatsi added: “Currently, ICASA’s Regulations in respect of the Limitations of Control and Equity Ownership by Historically Disadvantaged Groups (HDG) and the application of the ICT Sector Code only recognises ownership to be held by persons from historically disadvantaged groups as a valid measurement of broad-based black economic empowerment in the case of individual licences.”
 
 This is despite the BBBEE Act and the ICT Sector Code (approved by the Department of Trade and Industry in 2016) acknowledging that empowerment can happen in different ways, including through EEIPs.
-
-### Policy direction
 
 It is this “misalignment” that prompted Malatsi to issue a Policy Direction in May 2025, urging ICASA to consider revising its ownership regulations.
 
@@ -81,9 +65,7 @@ He said: “I am not changing the rules nor instructing ICASA to give any indivi
 
 The directive came two days after President Cyril Ramaphosa met US President Donald Trump in Washington to “reset” strained relations following false claims of “white genocide” and attacks against Afrikaner farmers in South Africa – a statement also made by Musk, who attended the Oval Office meeting.
 
-## Weather alert: Yellow level 2 storm warning issued for four provinces
-
-### Not about Starlink
+Amandela! – Don’t mess up this Mandela Day
 
 Malatsi insisted the move was not about Starlink.
 
@@ -91,21 +73,15 @@ Malatsi insisted the move was not about Starlink.
 
 “It is about harmonising the regulatory environment and increasing investment and competition in the ICT sector, so that South Africans consumers have more choice and better access to connectivity,” he said.
 
-### Licence
-
 Last year, ICASA chairperson Mothibi Ramusi confirmed the authority had not received a formal licence application from Starlink
 
 “We indicated previously that Starlink does not hold any licence issued by the authority to provide electronic communications, electronic communications network or broadcasting services in South Africa.”
 
-## Elon Musk alleges bribery plot in SA Starlink licence battle
-
-### ‘Mixed tech’
+Judge appears unsympathetic to Ramaphosa’s concerns about impeachment committee
 
 Malatsi did not elaborate on Musk’s satellite service, telling The Citizen at the Africa Tech Festival in Cape Town last year that getting South Africa connected requires a “mixed tech” approach
 
 “Whether it be fibre, through broadband connectivity, or the current debate that is everywhere else in the world about how low-orbit satellites can play a role in this space that we are in.”
-
-### Malatsi summoned
 
 The debate around Starlink’s possible exemption from B-BBEE rules intensified when Malatsi was summoned by the portfolio committee on communications and digital technologies.
 
@@ -115,22 +91,14 @@ Several organisations vowed to challenge any plan to allow Starlink to operate o
 
 Starlink operates thousands of low-earth orbit (LEO) satellites to provide high-speed internet globally.
 
-## Public Protector clears Ramaphosa over Steenhuisen’s Oval Office remarks
+SA looking at privately-owned SEZs to arrest deindustrialisation
 
-### Support Local Journalism
+communications minister Cyril Ramaphosa Donald Trump Editor’s Choice Elon Musk Independent Communications Authority of South Africa (ICASA) Starlink
 
-Add The Citizen as a Preferred Source on Google and follow us on Google News to see more of our trusted reporting in Google News and Top Stories.
+News ‘Come and rescue your people’: Stranded Nigerians plead for evacuation as repatriation ends South Africa ‘No risk to the public’: Ramokgopa defends Koeberg Nuclear safety News Kubayi to ask Ramaphosa to suspend IDAC chief Andrea Johnson Rugby Springboks too good for Wales in Durban: Six key takeaways News WATCH: Nearly R32k donated to BMW security guard after ‘bullying’ incident
 
-Add as Preferred Source on Google
+Get the latest news and updates on Whatsapp
 
-Follow on Google News
+Add as Preferred Source on Google Follow on Google News
 
-### Read more on these topics
-
-### EDITOR'S CHOICE
-
-South Africa Was Starlink offered empowerment pathway to get into SA?
-
-News Public Protector clears Ramaphosa over Steenhuisen’s Oval Office remarks
-
-Weathe
+‘Mandela Day is about serving others and living by Madiba’s values’ – Ramaphosa says

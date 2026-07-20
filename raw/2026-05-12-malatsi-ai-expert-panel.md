@@ -10,30 +10,16 @@ places: [ZAF]
 topics: [tech.ai, gov.policy]
 entities: [[dcdt-south-africa], [solly-malatsi]]
 lens: [sovereignty]
-body_completeness: excerpt
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: ZAF-2026-07-17
 ---
 
-# Malatsi sets up team of experts after AI policy blunder
+Malatsi sets up team of experts after AI policy blunder News
 
-May 12, 2026 at 5:25 pm3 min read
+Malatsi sets up team of experts after AI policy blunder
 
-Add as a preferred source on Google Follow on Google News
-
-## Thabo Mokone
-
-Parliamentary editor
-
-Send an email to Thabo Mokone Connect on Twitter
-
-Send an email to %{authorName} Connect on Twitter
-
-Expand
-
-Minister Solly Malatsi. (OJ Koloti)
-
-Story audio is generated using AI
+Opens in new windowOpens in new windowOpens in new windowOpens in new window
 
 Following an embarrassing episode regarding the draft national policy on artificial intelligence, communications and digital technologies minister Solly Malatsi has assembled a team of experts to help him manage the matter.
 
@@ -75,37 +61,18 @@ It is for this reason that Malatsi told MPs that it was time to rope in the priv
 
 “But partnering with the private sector is more than just about ownership. Where we can create mutually beneficial commercial agreements where private sector players leverage state-owned assets to deliver services at cost-effective prices, we will get more South Africans connected to the internet and out of poverty.”
 
-TimesLIVE
-
-
-Would you like to comment on this article?Sign up (it's quick and free) or sign in now.
-
-Sign Up Log In
+Would you like to comment on this article? Sign up (it's quick and free) or sign in now.
 
 Please read our Comment Policy before commenting.
 
-## Editor’s Choice
+Hill-Lewis stands firm on Steenhuisen shake-up
 
-1
+Malindi Mfazi’s cry for justice over husband’s death
 
-### Banks’ ‘boys club’ gets entrenched in latest round of executive appointments
+‘There’s a plan to take my life’: The secrets Lt-Gen Mfazi took to his grave
 
+Madlanga ‘sick bay’ fills up as Carrim seeks in-camera postponement hearing
 
-2
+Another notch down for disgraced bling queen Mashazi as 2020 honour revoked
 
-### Pula abandons appeal in SA, presses ahead with Tanzania case
-
-
-3
-
-### Arrests in Thato Molosankwe murder expose alleged violent crime syndicate
-
-
-4
-
-### Family of five found shot dead in Flagstaff home
-
-
-5
-
-### ‘I fell short’: King Misuzulu apologises as ‘historical’ video clips leak online
+Facebook pageTwitter feedYoutube ChannelInstagram pageRSS feed

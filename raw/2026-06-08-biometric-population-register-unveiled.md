@@ -10,21 +10,14 @@ places: [ZAF]
 topics: [dpi.registry, dpi.id]
 entities: [[home-affairs-south-africa]]
 lens: [sovereignty]
-body_completeness: excerpt
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: ZAF-2026-07-17
 ---
 
-URL: https://www.sanews.gov.za/south-africa/sa-unveils-biometric-population-register-tighten-migration-controls
-Published: 2026-06-08
+SA unveils biometric population register to tighten migration controls | SAnews Skip to main content Search SAnews
 
-SA unveils biometric population register to tighten migration controls | SAnews
-
-Search SAnews
-
-# SA unveils biometric population register to tighten migration controls
-
-Monday, June 8, 2026
+SA unveils biometric population register to tighten migration controls
 
 Government will establish an Intelligent Population Register containing biometric data for every person in South Africa and introduce new regulations to prevent the misuse of Traffic Registration Numbers (TRNs).
 
@@ -63,11 +56,3 @@ While acknowledging concerns about illegal immigration, he said the overwhelming
 "The task of managing migration belongs to all of us," he said, adding that only authorised state officials may enforce immigration laws.
 
 The President said the new identity management measures, together with stronger border controls, enforcement actions and legislative reforms, are intended to ensure that everyone living, working and conducting business in South Africa does so lawfully, while preserving the country's commitment to human dignity and social cohesion. – SAnews.gov.za
-
-Share this post:
-
-## SANDF refutes deploying soldiers in anticipation of protest action
-
-334
-
-31 May 2026

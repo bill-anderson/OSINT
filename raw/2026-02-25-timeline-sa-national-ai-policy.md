@@ -10,43 +10,16 @@ places: [ZAF]
 topics: [tech.ai, gov.policy]
 entities: [[dcdt-south-africa], [solly-malatsi]]
 lens: [sovereignty]
-body_completeness: excerpt
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: ZAF-2026-07-17
 ---
 
-Sectors
+Timeline for SA’s national AI policy revealed | ITWeb Sectors Companies About Subscribe
 
-Companies
+Timeline for SA’s national AI policy revealed
 
-About
-
-Subscribe
-
-NEWS
-
-INSIGHTS
-
-EVENTS
-
-VIDEOS
-
-Search
-
-- Home
-- /
-- Innovations
-- /
-- Timeline for SA’s national AI policy revealed
-
-# Timeline for SA’s national AI policy revealed
-
-
-By Simnikiwe Mzekandaba, IT in government editorJohannesburg, 25 Feb 2026
-
-
-The communications ministry is in the process of developing South Africa’s AI policy. (Image source: 123RF)
-
+By Simnikiwe Mzekandaba, IT in government editorJohannesburg, 25 Feb 2026The communications ministry is in the process of developing South Africa’s AI policy. (Image source: 123RF)
 
 The communications department has identified several steps to ensure the national artificial intelligence (AI) policy comes to fruition, envisaging completing the process in the 2027/2028 financial year.
 
@@ -54,11 +27,7 @@ This came to light during the department’s briefing before Parliament’s Port
 
 The meeting sought to provide the portfolio committee with insights into the crafting and implementation of the national AI policy, including ethical AI guidelines for national adoption.
 
-See also
-
-ITWeb TV: Malatsi vows to finalise SA’s AI policy
-
-Malatsi calls for ethical AI as SA leads G20 task force
+See also ITWeb TV: Malatsi vows to finalise SA’s AI policyMalatsi calls for ethical AI as SA leads G20 task force
 
 Mlindi Mashologu, deputy director-general (DDG): digital society and economy in the Department of Communications and Digital Technologies, detailed the steps the department is taking following the publishing of the draft AI policy in 2024.
 
@@ -73,8 +42,6 @@ Resultantly, it will now undergo Cabinet approval and public consultation, with 
 Government’s financial year kicks-off on 1 April, signalling the start of the 2026/2027 financial year.
 
 Mashologu’s presentation revealed that the nationwide AI policy, inclusive of regulations and guidelines, will be developed by 2027/2028.
-
-## International benchmarking
 
 With AI infiltrating almost every industry, policymakers across the global community have increasingly focused on its regulation. This, to ensure AI is created responsibly and ethically from the start, to ensure citizens, businesses and governments are protected from some of the potential AI risks.
 
@@ -100,8 +67,6 @@ He explained that the national AI policy is being developed to ensure the risks 
 
 He said there will be a need for a phased-approach in the adoption of AI, explaining that the policy won’t be a blanket framework for all sectors, but that different sectors will have to use it to craft sector-specific strategies that are tailor-made for their environments.
 
-## Pushed for time
-
 Some MPs sounded the alarm over the timeline risks, lack of skills, data residency, regulatory oversight, the impact of AI on employment and whether there would be sufficient mechanisms to raise public awareness during the consultation process.
 
 The discussion also touched on the need for inclusive AI data sets, the role of public consultations and the ethical considerations in AI applications, like crime detection.
@@ -118,4 +83,6 @@ Department director-general Nonkqubela Jordan-Dyani echoed the MPs’ sentiments
 
 “A lot of work has already been done,” she stated. “I think it’s very important that we set forward a nationwide policy position with regards to where we want to take artificial intelligence and where we see the opportunities, in terms of the innovation and improving efficiencies.
 
-“’W
+“’We’re seeing there are more benefits in terms of the adoption of artificial intelligence than there would be in terms of the risk, and I think the most inherent risk is about the issue of job losses.
+
+“We are trying to mitigate this on the digital skills level…we’re collaborating with the TVET colleges. We had a workshop yesterday to determine how we expand and accelerate that programme. For our digital skills, we will make sure we build the skillset identified by the industry.”

@@ -12,19 +12,29 @@ entities: [[trans-saharan-fibre-backbone], [niger-telecoms], [african-developmen
 lens: [sovereignty]
 retrieved: 2026-07-17
 sweep_batch: NER-2026-07-17
-body_completeness: excerpt
+body_completeness: full
 ---
 
-# Projet de la Dorsale Transsaharienne à Fibre Optique : un levier essentiel pour le désenclavement numérique du Niger
+Projet de la Dorsale Transsaharienne à Fibre Optique : Un levier essentiel pour le désenclavement numérique du Niger | Le Sahel Aller au contenu
 
-*(Le Sahel / ONEP is the Niger state daily. Capture is not endorsement.)*
+Projet de la Dorsale Transsaharienne à Fibre Optique : Un levier essentiel pour le désenclavement numérique du Niger
 
-The Minister of Communication and New Information Technologies, **Adji Ali Salatou**, on **Friday 14 November 2025 in Niamey** (at the Niger Telecoms premises), took **provisional acceptance of the fibre-optic links** built under the **Niger Component of the Trans-Saharan Optical Fibre Backbone Project (DTS/FO)**, financed by the African Development Bank Group (AfDB). Government's stated objective: guarantee all operators free, equitable and transparent access to very-high-speed infrastructure to stimulate competition, innovation and new markets.
+Le ministre de la Communication et des Nouvelles Technologies de l’Information, M. Adji Ali Salatou a procédé, le vendredi 14 novembre 2025 à Niamey, à la réception provisoire des tronçons des liaisons à fibre optique réalisés dans le cadre de la Composante Niger du Projet de la Dorsale Transsaharienne à Fibre Optique (DTS/FO). L’objectif recherché par le gouvernement est de garantir à tous les opérateurs un accès libre, équitable et transparent aux infrastructures très haut débit afin de stimuler la concurrence, l’innovation et la création de nouveaux marchés.
 
-Two components:
-- **Fibre optic: 1 031 km on five strategic axes** — Arlit–Assamaka–Algeria border (220 km), Diffa–N'Guigmi–Chad border (186 km), Zinder–Magaria–Nigeria border (117 km), Niamey–Dosso–Gaya–Benin border (300 km), Niamey–Makalondi–Burkina Faso border (118 km). Plus (per AfDB) an 88-km urban local loop connecting main administrative sites to the future national data centre.
-- **A Tier III Datacenter in Niamey**, to give Niger "modern, highly secure storage infrastructure conforming to international standards to guarantee our digital sovereignty."
+Peu avant la réception provisoire de cette infrastructure, le ministre de la Communication et des Nouvelles Technologies de l’Information, M. Adji Ali Salatou a expliqué qu’avec la mise en service prochaine de ces différentes liaisons se concrétise ainsi la vision et la volonté du Président de la République, Chef de l’État, le Général d’Armée Abdourahamane Tiani. « Son Programme pour la Refondation de la République prévoit en effet le maillage du territoire national en infrastructures de télécommunications à très haut débit ouvert sur la sous-région », a-t-il ajouté.
 
-The Minister framed the works within President Tiani's "Programme pour la Refondation de la République" (national very-high-speed telecoms mesh open to the sub-region), and said Niger is reaching "the ultimate stage of technical and soon commercial interconnection" of its operators' networks with Algeria, Chad, Nigeria and Benin. AfDB country head **Mamadou Tangara** called the data centre "a key infrastructure to guarantee Niger's digital sovereignty," its effective commissioning "one of the last decisive milestones for full operationalisation." Project coordinator **Soumaila Abdoul Karim**; fibre laid by the LORYNE enterprise grouping. Cost ~30 billion FCFA / ~€43m (AfDB/FAD + national counterpart), per AfDB press release.
+M. Adji Ali Salatou a souligné que l’accès au haut débit constitue pour le Niger un facteur clé de croissance, de transformation économique, d’aménagement du territoire et de diversification de l’économie nationale. « Il nous appartient désormais, autorités publiques, secteur privé et partenaires techniques et financiers, d’unir nos efforts pour exploiter pleinement le potentiel de ces infrastructures », a-t-il exhorté. Le ministre Adji a rappelé que le Projet DTS/FO comporte deux composantes essentielles. Ainsi, la composante Fibre Optique prévoit la pose de 1 031 km de fibre optique sur cinq axes stratégiques à savoir Arlit-Assamaka-Frontière Algérie (220 km), Diffa-N’Guigmi-frontière Tchad (186 km), Zinder-Magaria-frontière Nigeria (117 km), Niamey-Dosso-Gaya-frontière Bénin (300 km), Niamey-Makolondi-frontière Burkina-Faso (118 km).
 
-*(Sweep note: full clipped text captured at fetch. This is the primary state-daily account of the DTS reception; the "future national data centre" here is the Tier III facility the Minister Raliou interview of 2025-03-04 targeted for Sept 2025 — dating slipped. Companion held/entity: trans-saharan-fibre-backbone.)*
+Pour le ministre en charge de la Communication, les infrastructures réalisées dans ce cadre viendront améliorer la qualité de service Internet offert par nos opérateurs et renforcer la digitalisation du pays grâce au déploiement d’un réseau haut débit et à l’interconnexion du Niger avec ces cinq pays voisins.
+
+Quant à la deuxième composante, elle concerne, selon le ministre en charge des Nouvelles Technologies de l’Information, la construction à Niamey d’un Datacenter Tiers 3, destiné à doter le Niger d’une infrastructure de stockage moderne, hautement sécurisée et conforme aux standards internationaux afin de garantir notre souveraineté numérique. « À travers ces deux volets, les bases du développement d’un secteur des TIC dynamique et compétitif sont jetées, contribuant ainsi à la promotion des technologies comme leviers de développement économique et social », a-t-il assuré. Par ailleurs, le ministre Adji Ali Salatou a relevé que la réalisation de ces travaux marque une étape décisive pour le Niger. « Nous atteignons l’étape ultime de l’interconnexion technique et bientôt commerciale des réseaux des opérateurs du Niger avec ceux des pays frères comme l’Algérie, le Tchad, le Nigeria et le Bénin », a-t-déclaré.
+
+Pour le Responsable pays de la Banque Africaine de Développement au Niger, M. Mamadou Tangara, ce centre de données constitue une infrastructure clé pour garantir la souveraineté numérique du Niger, renforcer la confiance des usagers et permettre l’émergence des services numériques à forte valeur ajoutée. « Sa mise en service effective représentera l’un des derniers jalons décisifs pour la pleine opérationnalisation du projet. Cette dorsale permettra de renforcer l’interconnexion régionale en matière de télécommunications, de réduire significativement les coûts de communication et de transfert de données pour les usagers publics et privés, et d’accroître la résilience numérique du Niger et de ses voisins face aux chocs externes », a-t-il également ajouté.
+
+Abondant dans le même sens, le Coordinateur du Projet de la Dorsale Transsaharienne à Fibre Optique, M. Soumaila Abdoul Karim a dit que cette dorsale constitue un levier essentiel pour le désenclavement numérique du Niger. Elle contribuera à la réduction de l’exclusion géographique et des écarts de connectivité dans les zones reculées et favorisera le développement économique. Notons que cette réception provisoire est le fruit des travaux de pose de la fibre optique menés par le Groupement d’Entreprises LORYNE avec l’appui constant et déterminant de la Banque Africaine de Développement.
+
+Hamdallaye : A la découverte du village religieux de Gorou Bankassam
+
+Confection et commercialisation des tamis à Birni N’Gaouré : Un art, un métier
+
+Lutte contre les plantes envahissantes et mise en valeur des mares à Maigardayé Haoussa : Quand le programme résilience du PAM participe à la production du riz local

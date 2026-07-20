@@ -6,7 +6,7 @@ publisher: Telecom Review Africa
 published: 2025-03-19
 date_precision: day
 date_source: source
-body_completeness: excerpt
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: TCD-2026-07-17
 places: [TCD, NER]
@@ -15,12 +15,22 @@ entities: [[starlink]], [[spacex]]
 lens: []
 ---
 
-# Starlink Launches Services in Niger and Secures Operating License in Chad
+Starlink Launches Services in Niger and Secures Operating License in Chad - Telecom Review Africa My Custom Home Title
 
-Telecom Review Africa, 2025-03-19
+Starlink, SpaceX’s low-Earth orbit (LEO) satellite operator, has officially launched services in Niger and obtained an operating license for Chad. According to Niger’s Ministry of Communications, Starlink is now available for purchase, with kits for residential and corporate use. However, sharing kits is prohibited, and purchasers are held responsible for any misuse.
 
-Starlink, SpaceX's low-Earth orbit (LEO) satellite operator, has officially launched services in Niger and obtained an operating license for Chad. According to Niger's Ministry of Communications, Starlink is now available for purchase, with kits for residential and corporate use. However, sharing kits is prohibited, and purchasers are held responsible for any misuse.
+This launch follows a November 2024 agreement with Niger’s military government to provide satellite broadband. Meanwhile, Chad’s Ministry of Telecommunications confirmed that Starlink’s operating license, approved in November 2024, will enable services to be offered in the country after extensive discussions to meet national regulations.
 
-This launch follows a November 2024 agreement with Niger's military government to provide satellite broadband. Meanwhile, Chad's Ministry of Telecommunications confirmed that Starlink's operating license, approved in November 2024, will enable services to be offered in the country after extensive discussions to meet national regulations.
+Starlink’s entry is expected to boost internet penetration, particularly in Chad, where only 13.2% of the population has internet access, compared to Niger, where internet penetration is around 32%. The affordability of Starlink’s services will play a key role in expanding internet access, though hardware costs remain high, ranging from $178 in Kenya to $381 in Nigeria.
 
-Starlink's entry is expected to boost internet penetration, particularly in Chad, where only 13.2% of the population has internet access, compared to Niger, where internet penetration is around 32%. The affordability of Starlink's services will play a key role in expanding internet access, though hardware costs remain high, ranging from $178 in Kenya to $381 in Nigeria.
+Zambia Launches GovLink Private 4G to Power Digital Government and Healthcare Services
+
+Zambia has launched GovLink Private 4G, a government-owned digital connectivity network designed to improve internet access across public institutions and...Read more
+
+Madagascar Conducts First Direct-to-Cell Satellite Trial, Advancing Digital Inclusion
+
+Madagascar has become the third African country to test direct-to-cell satellite connectivity, following a successful demonstration led by Airtel Madagascar...Read more
+
+Ethiopia’s National Payments Switch Posts ETB 2.6 billion Profit
+
+EthSwitch, Ethiopia’s national payments switch, closed the 2025/26 financial year with gross profit before tax of ETB 2.6 billion, underscoring...Read more

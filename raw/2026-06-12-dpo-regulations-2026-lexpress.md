@@ -8,19 +8,19 @@ date_precision: day
 date_source: source
 retrieved: 2026-07-17
 sweep_batch: MUS-2026-07-17
-body_completeness: excerpt
+body_completeness: full
 places: [MUS]
 topics: [gov.protect, gov.legislate]
 entities: [[data-protection-office-mauritius]]
 lens: []
 ---
 
-# Conseil des ministres : Protection des données : encadrement renforcé du rôle des Data Protection Officers
+# Conseil des ministres : Protection des données : encadrement renforcé du rôle des «Data Protection Officers»
 
-*L'Express (Maurice), 12 juin 2026.*
+*L'Express (Maurice), 12 juin 2026, 20:49.*
 
-Le Conseil des ministres a approuvé la promulgation des **Data Protection (Designation, Tasks and Position of Data Protection Officers) Regulations 2026**, qui formalisent le statut et les responsabilités des Data Protection Officers (DPO).
+Le Conseil des ministres a approuvé la promulgation des Data Protection (Designation, Tasks and Position of Data Protection Officers) Regulations 2026, qui visent à formaliser le statut et les responsabilités des Data Protection Officers (DPO).
 
-Le cadre réglementaire définit les conditions de désignation, les qualifications requises, l'indépendance et les obligations de reporting des DPO, dans les secteurs public et privé. Leurs missions incluent la supervision du respect de la **Data Protection Act 2017**, la mise en place de mesures de sécurité des données, la sensibilisation et la formation du personnel, et l'interface avec le Data Protection Office.
+Ce nouveau cadre réglementaire définit les conditions de désignation, les qualifications requises, l'indépendance ainsi que les obligations de reporting de ces responsables, tant dans le secteur public que privé. Leurs missions incluent notamment la supervision du respect de la Data Protection Act 2017, la mise en place de mesures de sécurité des données, la sensibilisation et la formation du personnel, ainsi que l'interface avec le Data Protection Office.
 
-Un délai de six mois est accordé aux organisations pour se conformer. Les nouvelles dispositions entreront en vigueur le **1er janvier 2027**.
+Un délai de six mois sera accordé aux organisations pour se conformer à ces exigences. Les nouvelles dispositions entreront en vigueur le 1er janvier 2027.

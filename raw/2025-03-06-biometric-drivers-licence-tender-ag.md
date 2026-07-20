@@ -10,20 +10,22 @@ places: [ZAF]
 topics: [dpi.id, gov.protect]
 entities: [[home-affairs-south-africa], [idemia]]
 lens: [sovereignty]
-body_completeness: excerpt
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: ZAF-2026-07-17
 ---
 
-# South Africa’s biometric driver’s license tender process no good, AG finds
+South Africa’s biometric driver’s license tender process no good, AG finds | Biometric Update
 
-Idemia says contract won fair and square
+South Africa’s biometric driver’s license tender process no good, AG finds
+
+Idemia says contract won fair and square Mar 6, 2025, 4:19 pm EST | Chris Burt Categories Biometrics News | Civil / National ID | Trade Notes
 
 A contract held by Idemia Smart Identity to supply machines for printing South Africa’s biometric driver’s licenses is in limbo after the country’s Auditor General found irregularities in the tender process.
 
 The contract was awarded by the Department of Transport’s Driving License Card Account (DLCA) agency last August.
 
-Transport Minister Brabara Creecy wrote to the AG following the cancelation of a contract between Idemia and Airports Company South Africa(ACSA) last year to inquire if the company would keep South African’s data safe and if local providers were considered.
+Transport Minister Brabara Creecy wrote to the AG following the cancelation of a contract between Idemia and Airports Company South Africa (ACSA) last year to inquire if the company would keep South African’s data safe and if local providers were considered.
 
 The cancellation of the ACSA contract was not accompanied by an explanation, but followed a dispute with local partner Infoverge and the suspension of ACSA’s CIO.
 
@@ -37,7 +39,7 @@ The AG also found the DLCA, which ran the tender, had inspected Idemia hardware 
 
 Creecy is now awaiting guidance on how to proceed from South Africa’s High Court.
 
-## Idemia working on clarification, resolution
+Idemia working on clarification, resolution
 
 “Idemia Smart Identity, which operates under the Idemia South Africa entity, legitimately won this tender, as we firmly believe we are the best in this field,” a company representative told Biometric Update in an email.
 
@@ -45,58 +47,102 @@ Creecy is now awaiting guidance on how to proceed from South Africa’s High Cou
 
 “We remain open to constructive dialogue with all stakeholders to address any concerns in a transparent and solution-oriented manner. At the same time, we will continue to assess all appropriate avenues, including our legal options, to ensure a fair and objective resolution of the issues raised in the audit.”
 
-### Related Posts
+Idemia contract for SA’s biometric driver’s licenses prompts request for investigationSeptember 9, 2024
 
-Idemia contract for SA’s biometric driver’s licenses prompts request for investigation
+Idemia unveils device for biometric payment card enrollment on smartphoneJanuary 22, 2025
 
-September 9, 2024
+Kudelski IoT brings Idemia biometric IDV to 1000 US car dealershipsNovember 25, 2024
 
-Idemia unveils device for biometric payment card enrollment on smartphone
+Idemia responds to termination of contract with Airports Company South AfricaAugust 28, 2024
 
-January 22, 2025
+South African airport biometrics contract with Idemia challenged by former partnerJuly 31, 2024
 
-Kudelski IoT brings Idemia biometric IDV to 1000 US car dealerships
+Moldova preparing tender for biometric hardwareFebruary 24, 2025
 
-November 25, 2024
+Biometric age assurance market gears up for rapid expansion as rules clarify
 
-Idemia responds to termination of contract with Airports Company South Africa
+Biometric age assurance was turned up to 11 this week, as in 11 different Biometric Update articles on efforts to…
 
-August 28, 2024
+Age assurance explained: The laws reshaping the internet
 
-South African airport biometrics contract with Idemia challenged by former partner
+A year ago, age assurance was a niche topic and the biometrics industry was still anticipating the effect that the…
 
-July 31, 2024
+EUDI What? As wallet deadline looms, awareness remains low
 
-Moldova preparing tender for biometric hardware
+New consumer research from IDnow shows that only about half of French and German customers have heard of the European…
 
-February 24, 2025
+The surveillance networks cities do not have to buy
 
-## Article Topics
+Private camera networks are beginning to emerge in cities across the U.S. which operate outside the boundaries of companies who…
 
-biometrics| driver's license| government purchasing| IDEMIA| Idemia Smart Identity| South Africa| tender
+German lawmakers approve live facial recognition use by federal police
 
-## Comments
+Germany’s Federal Police appear on track to get new powers in a broad update of their governing rules, including a…
 
-Continue Reading
+Kantara updates digital identity certification criteria for latest NIST revision
 
-## Biometric Market Analysis and Buyer's Guides
+The Kantara Initiative has expanded its certification program for NIST’s Digital Identity Guidelines by releasing new criteria for their latest…
 
-- Injection Attack Detection
-- Understanding MOSIP
-- Biometric Physical Access Control
-- Digital Identity Verification
-- Deepfake Detection
-- Online Age Assurance
-- Facial Liveness Detection
+This site uses Akismet to reduce spam. Learn how your comment data is processed.
 
-## Most Viewed This Week
+Biometric Market Analysis and Buyer's Guides
 
-## Featured Company
+Fourthline, Veridas merge to build global identity and compliance platform
 
-## Biometrics Insight, Opinion
+Nigeria pushes for universal digital ID as NIN use cases expand
 
-## Digital ID In-Depth
+Facewatch retail facial recognition to notify police of repeat offender matches
 
-## Biometrics White Papers
+California quadruples access to mobile driver’s licenses
 
-## Biometrics Events
+AI fraud fuels debate over continuous identity verification
+
+Malta launches €15.6M tender for European Digital Identity Wallet
+
+Xcelerate and Socure win $163M Login.gov identity proofing contract
+
+US passport photo plan points to new layer of remote biometric verification
+
+UK won’t ban VPNs, puts onus on platforms to prevent age check circumvention
+
+Caribbean countries align digital identity efforts for regional integration
+
+Thailand taps Amadeus, Edgewater to modernize six airports with biometrics
+
+Court rejects deal, reopens Clearview AI lawsuit over biometric data collection
+
+Age assurance explained: The laws reshaping the internet
+
+The real impact of the Cyber Resilience Act
+
+Listen: trust, identity and governance in the agentic age, with Alice Sesay Pope
+
+Delegated authentication: A security essential plus strategic data asset
+
+When digital identity fails: Closing the blind spot in border security
+
+World Bank outlines practical roadmap for digital wallet trust frameworks
+
+Research calls for document portability to tackle legal ID crisis facing migrants
+
+Advice from the MOSIP ecosystem, from biometric quality to sustainability
+
+UNDP outlines the ‘5Cs’ approach to accelerate sovereign DPI implementation
+
+Protecting trust in ID takes stronger defense as DPI increases attack surface
+
+A standards-aligned cryptographic human-authorization layer for agentic AI
+
+Authenticity vs. Deepfake: Who validates what’s real?
+
+From trust to risk: Decentralized verification for ID fraud prevention
+
+OFIQ User Group Meeting Online: Jul 21, 2026
+
+West Africa Border Security Week Accra, Ghana: Aug 12 - Aug 13, 2026
+
+Security Exhibition & Conference Sydney, Australia: Sep 2 - Sep 4, 2026
+
+Connect Expo Series Atlanta, GA: Sep 9 - Sep 10, 2026
+
+GITEX Ai Türkiye Istanbul, Türkiye: Sep 9 - Sep 10, 2026

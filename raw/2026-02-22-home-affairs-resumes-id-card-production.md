@@ -10,19 +10,47 @@ places: [SWZ]
 topics: [dpi.id, dpi.registry]
 entities: [[ministry-of-home-affairs-eswatini]]
 lens: []
-body_completeness: excerpt
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: SWZ-2026-07-17
 ---
 
+No Result View All Result No Result View All Result Home News
+
+by Adekunle Owolabi February 22, 2026 in News Reading Time: 2 mins read 0
+
+The Ministry of Home Affairs building in Mbabane, Eswatini
+
 MBABANE – Government has resumed the production of national identity cards after a temporary halt caused by technical problems, the Ministry of Home Affairs announced on Sunday.
 
-According to a press statement dated 22 February 2026, the suspension had disrupted access to a document required for identification and public services, prompting the ministry to restore operations as quickly as possible. The statement was issued by Principal Secretary N.R. Nxumalo from the ministry's offices at the Home Affairs Justice Building on Mhlambanyatsi Road in Mbabane.
+According to a press statement dated 22 February 2026, the suspension had disrupted access to a document required for identification and public services, prompting the ministry to restore operations as quickly as possible. The statement was issued by Principal Secretary N.R. Nxumalo from the ministry’s offices at the Home Affairs Justice Building on Mhlambanyatsi Road in Mbabane.
 
-"The Ministry of Home Affairs is pleased to announce that the production of Identity Cards (ID cards) has resumed. This follows a temporary suspension that was put in place due to technical challenges."
+“The Ministry of Home Affairs is pleased to announce that the production of Identity Cards (ID cards) has resumed. This follows a temporary suspension that was put in place due to technical challenges.”
 
-Officials acknowledged the impact on emaSwati who depend on the card for everyday transactions, including banking, employment processes and travel within the region. "The Ministry understands that the suspension of ID card services has caused inconvenience to many citizens, and we sincerely regret any disruption this may have caused. The ID card is a vital document for identification and access to essential services, and we are committed to ensuring that all citizens can obtain their IDs without further delays."
+Officials acknowledged the impact on emaSwati who depend on the card for everyday transactions, including banking, employment processes and travel within the region.
 
-Services are now available at government service centres across the country, including Pigg's Peak, Mbabane, Manzini, Mankayane, Simunye, Siteki, Siphofaneni, Matata, Nhlangano and Hluthi. Citizens who applied during the suspension period will receive updates from the same service centre where they lodged their applications.
+Deadly overnight Russian attack on Ukraine targets the capital
 
-"The Ministry encourages all eligible citizens to take advantage of this opportunity to acquire or replace their ID cards. We appreciate the public's understanding and support during this period and look forward to serving you."
+The Elders say leaders must act as Netanyahu’s government seeks to ‘make Palestine disappear’
+
+“The Ministry understands that the suspension of ID card services has caused inconvenience to many citizens, and we sincerely regret any disruption this may have caused. The ID card is a vital document for identification and access to essential services, and we are committed to ensuring that all citizens can obtain their IDs without further delays.”
+
+Services are now available at government service centres across the country, including Pigg’s Peak, Mbabane, Manzini, Mankayane, Simunye, Siteki, Siphofaneni, Matata, Nhlangano and Hluthi.
+
+Citizens who applied during the suspension period will receive updates from the same service centre where they lodged their applications.
+
+“The Ministry encourages all eligible citizens to take advantage of this opportunity to acquire or replace their ID cards. We appreciate the public’s understanding and support during this period and look forward to serving you.”
+
+Adekunle Owolabi is a journalist, political analyst, and digital strategist with experience across Africa and the Middle East. He focuses on international diplomacy, promotes digital inclusion, and advocates for a borderless Africa.
+
+Lobola is too expensive – King Misuzulu KaZwelithini
+
+Deadly overnight Russian attack on Ukraine targets the capital
+
+Taiwan to build industrial park in Phocweni
+
+Three Lions Secure Third Place After 10-Goal Thriller
+
+Independent, bold and thought-provoking, The Independent News Eswatini is a trusted local publication delivering compelling national and international news. Our dedicated team of fearless journalists keeps emaSwati informed with breaking news and in-depth reporting, upholding the highest standards of accountability and public interest journalism.
+
+© 2025 Independent News - A publication of Mveleza Publishing

@@ -9,15 +9,21 @@ date_precision: day
 date_source: source
 retrieved: 2026-07-17
 sweep_batch: RWA-2026-07-17
-body_completeness: excerpt
+body_completeness: full
 places: [RWA]
 topics: [data.statistics, dpi.registry]
 entities: [[nisr]]
 ---
 
-# Rwanda Is Counting Everything—and Changing in the Process
+Rwanda Is Counting Everything—and Changing in the Process - KT PRESS Home » Rwanda Is Counting Everything—and Changing in the Process National
 
-Rwanda's latest vital statistics report reads from the National Institute of Statistics (NISR), at first glance, like a technical document—dense with rates, ratios and administrative benchmarks.
+Rwanda Is Counting Everything—and Changing in the Process
+
+by Stephen Kamanzi April 21, 2026 written by Stephen Kamanzi April 21, 2026 134
+
+A gathering of Catholic faithfuls in Musanze District, northern Rwanda. The number appear countless as fara as the eye can see, but the state is slowly putting in place systems to know the health of each and everyone
+
+Rwanda’s latest vital statistics report reads from the National Institute of Statistics (NISR), at first glance, like a technical document—dense with rates, ratios and administrative benchmarks.
 
 But beneath the numbers lies a more revealing story: of a state steadily tightening its grip on the fundamentals of governance, even as it navigates the complex social transitions that come with growth.
 
@@ -29,8 +35,6 @@ More striking is how quickly the country is building the infrastructure behind t
 
 In effect, Rwanda is constructing a real-time map of its population, one that underpins everything from health planning to economic policy.
 
-### A System Under Expansion
-
 Yet progress is uneven, and the report does not hide it. Death registration, long a weak point in many countries, remains incomplete. Though it improved to 50.5 percent in 2025, it still captures only about half of all deaths.
 
 At the same time, the share of deaths registered within the legally required 30 days fell sharply—from 96.3 percent to 89.9 percent, the steepest decline in recent years.
@@ -41,19 +45,13 @@ As registration extends deeper into communities, especially rural ones where dea
 
 The trade-off suggests a deliberate shift: prioritizing coverage over timeliness. It is a familiar phase in state-building, where the reach of institutions expands before their efficiency fully catches up.
 
-### A Population in Transition
-
 Beyond administration, the demographic signals are equally telling. Fertility continues its gradual decline.
 
 The total fertility rate fell slightly from 3.6 to 3.5 children per woman, while both the crude birth rate and general fertility rate edged downward. These are not dramatic shifts, but they are consistent—and consistency matters.
 
 Rwanda is moving through a controlled demographic transition, lowering fertility without the abrupt disruptions seen elsewhere.
 
-At the same time, the country's health profile is changing. Non-communicable diseases now account for the largest share of deaths, both in health facilities and in communities. This marks a transition from infectious diseases toward conditions associated with longer lifespans and changing lifestyles.
-
-It is, in many ways, a sign of success.
-
-### From Assumptions to Evidence
+At the same time, the country’s health profile is changing. Non-communicable diseases now account for the largest share of deaths, both in health facilities and in communities. This marks a transition from infectious diseases toward conditions associated with longer lifespans and changing lifestyles.
 
 The quality of health data is improving alongside these shifts. The proportion of deaths in health facilities with clearly defined causes rose sharply, from 64.7 percent to 82.3 percent in just one year.
 
@@ -67,9 +65,7 @@ At the same time, 4,479 divorces were recorded, with 2,629 granted by courts dur
 
 Meanwhile, a slight rise in low birth weight underscores the importance of continued vigilance in maternal and child health, even as overall systems improve.
 
-### Growth Meets Governance
-
-All of this unfolds against a backdrop of strong economic growth. Rwanda's economy expanded by 9.4 percent in 2025, continuing a long run of robust performance.
+All of this unfolds against a backdrop of strong economic growth. Rwanda’s economy expanded by 9.4 percent in 2025, continuing a long run of robust performance.
 
 Its population remains young—nearly half under the age of 24—offering the potential for a demographic dividend if jobs and opportunities keep pace.
 
@@ -80,3 +76,31 @@ The imperfections—gaps in death registration, delays in reporting—are real. 
 In the end, the report is less about statistics than about trajectory. It shows a government moving beyond basic service delivery toward something more ambitious: the ability to see, measure and respond to its population in near real time.
 
 For a country that, not long ago, struggled with far more fundamental challenges, that alone is a notable shift—and one that may shape its next phase of development.
+
+Visited 5,336 times, 1 visit(s) today big-storylatestnews 1 comment 0 FacebookTwitterPinterestEmail
+
+PICTORIAL: KT Radio, From Kigali Today to “Muhanga Today”
+
+KT Family Thrills Fans During Muhanga Community Outreach
+
+Tragic Kamonyi Crash Leaves Nine Dead, 12 Hospitalized
+
+After Rwanda’s Crackdown, Users of Online Investment Scheme...
+
+Kagame: Progress Begins When We Stop Excusing Wrongdoing
+
+President Kagame to RPF Party: Let Results, Not...
+
+Senate Warns Wildlife Shortage of Food Is Driving...
+
+Germany Arrests Genocide Suspect Who Served in Commune...
+
+Chinese-Rwandan Traditional Medicine Centre Opens in Eastern Province
+
+More Than 140 Young Entrepreneurs, Creatives Win Millions...
+
+Africa Told to Fix Leadership Before Chasing the...
+
+We have a good working government and, more importantly, a visionary leader, who loves his country and his people. Nothing will stop us. Challenges will always be there but we’ll keep improving.
+
+Jojobet GirişCasibom Girişjojobet girişJojobet Güncel Girişcasibomcasibom girişcasibom girişcasibom girişcasibomcasibom girişjojobet

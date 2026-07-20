@@ -10,20 +10,20 @@ places: [ZAF]
 topics: [dpi.id, finance.new, gov.policy]
 entities: [[home-affairs-south-africa]]
 lens: [sovereignty]
-body_completeness: excerpt
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: ZAF-2026-07-17
 ---
 
-# South Africa Home Affairs seeks $828M budget for digital ID, biometric visa projects
+South Africa Home Affairs seeks $828M budget for digital ID, biometric visa projects | Biometric Update
+
+South Africa Home Affairs seeks $828M budget for digital ID, biometric visa projects
+
+May 20, 2026, 5:08 pm EDT | Ayang Macdonald Categories Biometrics News | Civil / National ID | ID for All
 
 South Africa’s Department of Home Affairs has tabled a budget of 13.8 billion Rand (about US$828 million) in parliament for the 2026/2027 financial year to support the expansion of Smart IDs, the digital visa system, and the imminent launch of a national digital ID.
 
-Home Affairs Minister Leon Schreiber made the announcement in a recent budget vote speech in which he chronicled the successes which his department has achieved in the last two years under the ‘Home Affairs @ Home’ initiative. This is a drive that was launched with the aim of transforming how South Africans access identity services.
-
 South Africa is currently implementing a digital transformation program guided by the MyMzansi DPI Roadmap which aims to dramatically streamline public service delivery in the country.
-
-## Palpable digital transformation gains
 
 Schreiber noted that the successes of their reform initiatives so far have been strong and palpable.
 
@@ -41,7 +41,7 @@ With regard to the digital visa program, Schreiber said its early success after 
 
 As concerns the digital ID, he called on South Africans to submit their comments before the June 6 deadline so that “we can implement an appropriate and fit-for-purpose regulatory framework for this new system that will enable South Africans to securely access Home Affairs services in the palm of their own hand.”
 
-## Biometric voter registration from May 27
+Biometric voter registration from May 27
 
 Apart from the three core digital transformation projects, Schreiber disclosed that part of the budget will be dedicated to the organization of upcoming local elections for which a national biometric voter registration exercise will commence soon.
 
@@ -49,58 +49,88 @@ Apart from the three core digital transformation projects, Schreiber disclosed t
 
 Meanwhile, Schreiber also tabled Home Affairs budget proposals for the 2027/2028 financial year which stands at R12.8 billion (US$770 million), and that for the 2028/2029 fiscal year which amounts to R13.3 billion (US$801 million).
 
-### Related Posts
+South Africa Home Affairs requests $618M budget to advance digital transformationJuly 9, 2025
 
-South Africa Home Affairs requests $618M budget to advance digital transformation
+South Africa establishes fully digitalized ID issuance system in local banksMarch 10, 2026
 
-July 9, 2025
+South Korea gradually brings digital government services back online after fireSeptember 29, 2025
 
-South Africa establishes fully digitalized ID issuance system in local banks
+South Africa unveils roadmap for single digital ID systemSeptember 12, 2025
 
-March 10, 2026
+South Africa prioritises high-impact digital services in 2024-2029 planJanuary 26, 2026
 
-South Korea gradually brings digital government services back online after fire
+South Africa gazettes digital ID draft regulation, seeks commentsMay 6, 2026
 
-September 29, 2025
+Biometric age assurance market gears up for rapid expansion as rules clarify
 
-South Africa unveils roadmap for single digital ID system
+Biometric age assurance was turned up to 11 this week, as in 11 different Biometric Update articles on efforts to…
 
-September 12, 2025
+Age assurance explained: The laws reshaping the internet
 
-South Africa prioritises high-impact digital services in 2024-2029 plan
+A year ago, age assurance was a niche topic and the biometrics industry was still anticipating the effect that the…
 
-January 26, 2026
+EUDI What? As wallet deadline looms, awareness remains low
 
-South Africa gazettes digital ID draft regulation, seeks comments
+New consumer research from IDnow shows that only about half of French and German customers have heard of the European…
 
-May 6, 2026
+The surveillance networks cities do not have to buy
 
-## Article Topics
+Private camera networks are beginning to emerge in cities across the U.S. which operate outside the boundaries of companies who…
 
-biometrics| digital government| digital ID| government services| MyMzansi| South Africa
+German lawmakers approve live facial recognition use by federal police
 
-## Comments
+Germany’s Federal Police appear on track to get new powers in a broad update of their governing rules, including a…
 
-Continue Reading
+Kantara updates digital identity certification criteria for latest NIST revision
 
-## Biometric Market Analysis and Buyer's Guides
+The Kantara Initiative has expanded its certification program for NIST’s Digital Identity Guidelines by releasing new criteria for their latest…
 
-- Injection Attack Detection
-- Understanding MOSIP
-- Biometric Physical Access Control
-- Digital Identity Verification
-- Deepfake Detection
-- Online Age Assurance
-- Facial Liveness Detection
+This site uses Akismet to reduce spam. Learn how your comment data is processed.
 
-## DIGITAL ID for ALL NEWS
+Biometric Market Analysis and Buyer's Guides
 
-## Featured Company
+Ethio Telecom, Huawei partner to expand Ethiopia’s digital infrastructure
 
-## ID for ALL FEATURE REPORTS
+India aims for next‑gen governance reforms as AI and DPI reshape the state
 
-## BIOMETRICS WHITE PAPERS
+Fayda digital ID critical for Ethiopia’s five-year refugee inclusion strategy
 
-## BIOMETRICS EVENTS
+Morocco approves new legal framework for more secure biometric passport
 
-## EXPLAINING BIOMETRICS
+Funding gap puts Sri Lanka’s digital ID project under review
+
+Caribbean countries align digital identity efforts for regional integration
+
+PNG advances digital identity with AI laws, SevisPass integration, QUT partnership
+
+UNDP moves to scale blockchain-based digital payments after successful pilots
+
+Nigeria pushes for universal digital ID as NIN use cases expand
+
+Malawi reaches 13.5M digital IDs as universal coverage comes into view
+
+World Bank outlines practical roadmap for digital wallet trust frameworks
+
+Research calls for document portability to tackle legal ID crisis facing migrants
+
+Advice from the MOSIP ecosystem, from biometric quality to sustainability
+
+UNDP outlines the ‘5Cs’ approach to accelerate sovereign DPI implementation
+
+Protecting trust in ID takes stronger defense as DPI increases attack surface
+
+Biometrics Institute Concepts and Solutions Report
+
+Synthetic IDs and injection attacks – the weaponisation of identity in fraud and financial crime
+
+Aware eBook: Evaluating Deepfake Defense Technologies
+
+Cyber Digital Services, Defence and Security Asia 2026
+
+Injection attack detection critical to digital security yet often misunderstood
+
+The AI fraud scheme scammers use to bypass verification systems
+
+The roles of Identity, Attribute and Orchestration Service Providers
+
+How to harden biometric authentication with presentation attack detection

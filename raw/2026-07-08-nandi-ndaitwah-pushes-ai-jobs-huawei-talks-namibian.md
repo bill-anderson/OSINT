@@ -12,13 +12,43 @@ entities: [[netumbo-nandi-ndaitwah], [huawei], [china-namibia-smart-city], [mini
 lens: [sovereignty]
 retrieved: 2026-07-17
 sweep_batch: NAM-2026-07-17
-body_completeness: excerpt
+body_completeness: full
 ---
 
-# Nandi-Ndaitwah pushes AI jobs in Huawei talks
+Nandi-Ndaitwah pushes AI jobs in Huawei talks - News - The Namibian Nandi-Ndaitwah pushes AI jobs in Huawei talks - News - The Namibian
 
-President Netumbo Nandi-Ndaitwah urged Huawei to help create jobs for Namibians as the country embraces AI and digital transformation, during a meeting with Huawei executives at the company's Shenzhen HQ on her state visit to China (Tuesday). A Presidency statement praised Huawei's collaboration with Namibia's Ministry of Home Affairs (MHAISS) and the Ministry of ICT on smart-city solutions and the development of an AI-ready national data centre. "Digital transformation should not only modernise public services but also create employment opportunities and equip Namibians with the skills needed to compete in an AI-driven economy."
+Nandi-Ndaitwah pushes AI jobs in Huawei talks
 
-She welcomed the Chinese government's contribution of 98 million yuan towards Namibia's smart-city pilot, saying it would support innovation, industrialisation and skills development under NDP6, and acknowledged AI job-displacement concerns while stressing skills training. Huawei SVP for enterprise sales Leo Chen said Namibia's priorities align with Huawei's expertise in digital infrastructure, AI and cloud, reaffirming commitment to Namibia's digital economy, "strengthening data sovereignty" and improving governance and public service delivery.
+President Netumbo Nandi-Ndaitwah has urged Chinese technology giant Huawei to help create jobs for Namibians as the country embraces artificial intelligence (AI) and digital transformation.
 
-(The Namibian's angle on the 8 July 2026 Shenzhen visit — complements held ITWeb "China funds Namibia digital infrastructure" of the same date.)
+The president made the call during a meeting with Huawei executives at the company’s headquarters in Shenzhen, China, on Tuesday as part of her state visit.
+
+In a Presidency statement, Nandi-Ndaitwah praises Huawei’s collaboration with Namibia’s Ministry of Home Affairs, Immigration, Safety and Security and the Ministry of Information and Communication Technology on smart city solutions and the development of an AI-ready national data centre.
+
+“Digital transformation should not only modernise public services but also create employment opportunities and equip Namibians with the skills needed to compete in an AI-driven economy,” reads the statement.
+
+The president welcomed the Chinese government’s contribution of 98 million yuan towards Namibia’s smart city pilot project, saying the investment would support innovation, industrialisation and skills development.
+
+She said the initiative would strengthen public services, boost investor and tourist confidence and contribute to the country’s sustainable development goals under the sixth National Development Plan.
+
+Nandi-Ndaitwah acknowledged concerns that AI could replace some jobs but said Namibia’s partnership with Huawei would focus on preparing workers for emerging opportunities through digital skills training and innovation.
+
+Huawei senior vice president for enterprise sales Leo Chen says Namibia’s development priorities align with the company’s expertise in digital infrastructure, AI and cloud technologies.
+
+He reaffirms Huawei’s commitment to supporting Namibia’s digital economy, strengthening data sovereignty and providing technology solutions aimed at improving governance and public service delivery.
+
+Former PSC chair awaits sentencing after fresh delay
+
+Ramaphosa said he’d repair the criminal justice system — he failed
+
+Special police team to investigate killing of an anti-migrant leader in South Africa
+
+‘Stay in your lane’ — parties urge court to reject Ramaphosa’s Phala Phala interdict
+
+Kavango West leaders call for fully fledged health facilities
+
+Windhoek launches N$12-million streetlight mapping project
+
+Mines minister Amutse denies Namibia losing De Beers stake bid
+
+Doctor arrested after man’s alleged rape at Onandjokwe State Hospital

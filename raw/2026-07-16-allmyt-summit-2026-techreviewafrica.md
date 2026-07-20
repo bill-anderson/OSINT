@@ -8,7 +8,7 @@ date_precision: day
 date_source: source
 retrieved: 2026-07-17
 sweep_batch: MUS-2026-07-17
-body_completeness: excerpt
+body_completeness: full
 provenance_flag: pr-wire
 places: [MUS]
 topics: [tech.ai, infra.store, geopol.usa, finance.mou]
@@ -16,10 +16,34 @@ entities: [[mauritius-telecom]]
 lens: [sovereignty]
 ---
 
-# Mauritius Telecom's AllMyT Summit 2026 brings together digital leaders
+TechReviewAfrica - News Details Latest News : Sunday, July 19, 2026
 
-*Tech Review Africa (PR wire; explicit Date field 2026-07-16).*
+Mauritius Telecom’s allmyt Summit 2026 brings together digital leaders to drive innovation
 
-The second edition of the **AllMyT Summit 2026** opened in Mauritius (16-17 July 2026) at the Swami Vivekananda International Convention Centre, Pailles, with 1,000+ participants. Opening attended by **PM Dr Navinchandra Ramgoolam**, TICI minister **Dr Avinash Ramtohul**, Junior Finance Minister Dhaneshwar Damry, MT Chairman Sarat Lallah and CEO **Veemal Gungadin**.
+The second edition of the allmyt Summit 2026 has opened in Mauritius, bringing together more than 1,000 participants from the public and private sectors to explore opportunities in technology, innovation and digital transformation.
 
-*(Sweep note: this PR-wire item is thin. Richer contemporaneous coverage — from outlets outside the sweep source set — reports that at AllMyT Gungadin announced an **MoU with Amazon Web Services**, that MT's data centre now hosts **NVIDIA H200 GPUs** (B300 due end-2026), the launch of the **Mauritius AI Registry** (airegistry.mu) with an open-sourced stack, **Models-as-a-Service** with TM Forum, an **SBM Bank** platform partnership, and **cross-border payments between Mauritius and Seychelles** with Eboo. Primary sourcing of these announcements is a suggested follow-up at ingest. The national-paper companion is the Gungadin interview in Mauritius Times, 2026-07-13.)*
+The summit, hosted at the Swami Vivekananda International Convention Centre (SVICC) in Pailles, attracted government officials, business leaders, technology experts and industry stakeholders for a day focused on collaboration and the future of digital innovation.
+
+The opening ceremony was attended by Mauritius Prime Minister Dr Navinchandra Ramgoolam, GCSK, FRCP, Minister of Information Technology, Communication and Innovation Dr Avinash Ramtohul, Junior Minister of Finance Dhaneshwar Damry, Mauritius Telecom Chairman Sarat Lallah, G.O.S.K., and Chief Executive Officer Veemal Gungadin.
+
+The event marked the continuation of the allmyt Summit platform, which aims to bring together key players to discuss emerging technologies, digital opportunities and strategies for advancing Mauritius’ digital ecosystem.
+
+Mauritius Telecom said the summit provides a space for meaningful discussions, knowledge sharing and partnerships between government, industry and other stakeholders seeking to accelerate innovation and digital development.
+
+Kenya government confirms cybersecurity incident affecting presidential website
+
+UN Tech Envoy calls for global cooperation on AI governance at World AI Conference
+
+Algeria advances Africa’s digital sovereignty agenda through AI, connectivity and innovation initiatives
+
+Kenya government confirms cybersecurity incident affecting presidential website
+
+UN Tech Envoy calls for global cooperation on AI governance at World AI Conference
+
+Algeria advances Africa’s digital sovereignty agenda through AI, connectivity and innovation initiatives
+
+University of Ghana hosts Pan-African Workshop on cybersecurity and artificial intelligence
+
+China contributes additional $2.5 million to Africa CDC for Ebola response in DRC and Uganda
+
+We may use cookies or any other tracking technologies when you visit our website, including any other media form, mobile website, or mobile application related or connect... Read more about cookies Accept Policy

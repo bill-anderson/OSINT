@@ -8,29 +8,57 @@ date_precision: day
 date_source: source
 retrieved: 2026-07-17
 sweep_batch: NGA-2026-07-17
-body_completeness: excerpt
+body_completeness: full
 places: [NGA]
 topics: [finance.new, dpi.pay]
 entities: ["[[visa]]", "[[moniepoint]]"]
 lens: []
 ---
 
-# Visa makes strategic investment in Nigerian unicorn Moniepoint
+Visa makes strategic investment in Nigerian unicorn Moniepoint Happily Authenticated!
 
-By Ganiu Oloruntade, TechCabal, 23rd Jan, 2025
+Visa makes strategic investment in Nigerian unicorn Moniepoint
 
-Moniepoint, the Nigerian fintech unicorn, has secured a strategic investment from the global payments giant Visa. This comes three months after Moniepoint raised $110 million in a Series C funding round that tripled the company's valuation to hit the billion-dollar mark. The investment signals increasing interest in Moniepoint which many investors consider a solid company with bright prospects.
+Ganiu Oloruntade 23rd Jan, 2025 Get TC updates in your Newsfeed
 
-Visa's investment will help Moniepoint expand its services for African businesses. Founded in 2015, Moniepoint provides banking and payment services to small and medium businesses and retail banking. It is one of the market leaders in Nigeria's agent banking space, with over 300,000 POS agents. The company processed 5.2 billion transactions in 2023.
+Moniepoint, the Nigerian fintech unicorn, has secured a strategic investment from the global payments giant Visa. This comes three months after Moniepoint raised $110 million in a Series C funding round that tripled the company’s valuation to hit the billion-dollar mark. The investment signals increasing interest in Moniepoint which many investors consider a solid company with bright prospects.
 
-This partnership combines Moniepoint's local expertise and innovative business model with Visa's global resources and capabilities.
+Visa’s investment will help Moniepoint expand its services for African businesses. Founded in 2015, Moniepoint provides banking and payment services to small and medium businesses and retail banking. It is one of the market leaders in Nigeria’s agent banking space, with over 300,000 POS agents. The company processed 5.2 billion transactions in 2023.
 
-"Visa's backing is a strong endorsement of our vision to digitize and support African businesses at scale," said Tosin Eniolorunda, Founder and Group CEO of Moniepoint. "We aim to deepen financial inclusion, enabling SMEs to access the tools and resources they need to thrive in an increasingly digital economy."
+This partnership combines Moniepoint’s local expertise and innovative business model with Visa’s global resources and capabilities.
 
-Visa joins other Moniepoint's investors including Development Partners International, Google's Africa Investment Fund, Verod Capital, Lightrock, QED Investors, Novastar Ventures, British International Investment (BII), FMO (the Dutch entrepreneurial development bank), Global Ventures and Endeavor Catalyst.
+“Visa’s backing is a strong endorsement of our vision to digitize and support African businesses at scale,” said Tosin Eniolorunda, Founder and Group CEO of Moniepoint. “We aim to deepen financial inclusion, enabling SMEs to access the tools and resources they need to thrive in an increasingly digital economy.”
 
-"Moniepoint has built an impressive platform that directly addresses the needs of Africa's SMEs, a critical segment in enabling economic development," Andrew Torre, Regional President, Central and Eastern Europe, Middle East and Africa at Visa, added. "By making financial services and digital payments more accessible and efficient, Moniepoint is helping transform how businesses operate in Nigeria and beyond. We are excited to support their next phase of growth and innovation."
+Visa joins other Moniepoint’s investors including Development Partners International, Google’s Africa Investment Fund, Verod Capital, Lightrock, QED Investors, Novastar Ventures, British International Investment (BII), FMO (the Dutch entrepreneurial development bank), Global Ventures and Endeavor Catalyst.
 
-Visa is now an investor in Nigeria's three locally-founded fintech unicorns: Interswitch, Flutterwave and Moniepoint. In 2019, Interswitch attained unicorn status after Visa acquired a minority stake in the payments company. Visa was one of the investors in Flutterwave's $35m Series B in 2020. The global payments giant also participated in the Series A funding round of Paystack, the Stripe-owned Nigerian fintech, in 2018.
+“Moniepoint has built an impressive platform that directly addresses the needs of Africa’s SMEs, a critical segment in enabling economic development,” Andrew Torre, Regional President, Central and Eastern Europe, Middle East and Africa at Visa, added.”By making financial services and digital payments more accessible and efficient, Moniepoint is helping transform how businesses operate in Nigeria and beyond. We are excited to support their next phase of growth and innovation.”
 
-Editor's note: This article has been updated with additional details.
+Visa is now an investor in Nigeria’s three locally-founded fintech unicorns: Interswitch, Flutterwave and Moniepoint. In 2019, Interswitch attained unicorn status after Visa acquired a minority stake in the payments company. Visa was one of the investors in Flutterwave’s $35m Series B in 2020. The global payments giant also participated in the Series A funding round of Paystack, the Stripe-owned Nigerian fintech, in 2018. Editor’s note: This article has been updated with additional details.
+
+Features Ride-hailing was just the entry point. Yango had bigger plans.
+
+Ecosystem timbuktoo’s Joanne Manda on building Africa’s innovation engine from within
+
+Startups Nigerian business banking startup Brass merges operations into Paystack MFB
+
+Why Kenya’s revived golden visa matters for venture investors and founders
+
+The young Kenyan engineer who thinks robots belong in every classroom
+
+Their parents lost fortunes. They’re buying Nigerian stocks anyway.
+
+The young Kenyan engineer who thinks robots belong in every classroom
+
+Decide targets workplaces with enterprise AI rollout through CafeOne
+
+Why Kenya’s revived golden visa matters for venture investors and founders
+
+Amazon found the formula for entering South Africa that Starlink refused
+
+Nigeria’s central bank wants every retail dollar traced with digital tracker
+
+Become a TC Insider for free to finish this story.
+
+Sign in to read the full story and stay ahead of Africa's tech ecosystem.
+
+What kind of stories are you interested in?

@@ -10,21 +10,14 @@ places: [ZAF]
 topics: [dpi.exchange, dpi.govtech, data.statistics]
 entities: [[mzansixchange], [statistics-south-africa]]
 lens: [sovereignty]
-body_completeness: excerpt
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: ZAF-2026-07-17
 ---
 
-URL: https://www.sanews.gov.za/south-africa/government-launches-mzansixchange-improve-evidence-based-policy
-Published: 2025-10-10
+Government launches MzansiXchange to improve evidence-based policy | SAnews Skip to main content Search SAnews
 
-Government launches MzansiXchange to improve evidence-based policy | SAnews
-
-Search SAnews
-
-# Government launches MzansiXchange to improve evidence-based policy
-
-Friday, October 10, 2025
+Government launches MzansiXchange to improve evidence-based policy
 
 Government has taken a significant step towards transforming the management of its data through the launch of the MzansiXchange - an initiative that will enable evidence-based policymaking and real-time data verification between departments.
 
@@ -69,29 +62,3 @@ This facilitates bulk transfers of both de-identified and identifiable data betw
 This one-year pilot will test the MzansiXchange in real-world conditions, strengthening the foundations for a broader national rollout.
 
 “MzansiXchange is a national commitment to harnessing data for the public good. It is a platform for collaboration, innovation, and transformation. The success of MzansiXchange depends on how each of us commits to supporting and using it. Ensuring that all departments work towards integrating and being able to fully leverage the potential of the MzansiXchange,” he said. - SAnews.gov.za
-
-Share this post:
-
-## General fuel levy reduction cushions consumers
-
-225
-
-03 Jun 2026
-
-## Big investment needed to drive sustainable development
-
-2532
-
-11 Dec 2024
-
-## Government makes strides in digital transformation agenda
-
-3364
-
-20 Nov 2024
-
-## Government focuses on growing the economy
-
-6283
-
-01 Aug 2024

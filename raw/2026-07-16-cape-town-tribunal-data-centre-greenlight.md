@@ -10,68 +10,26 @@ places: [ZAF]
 topics: [infra.store, infra.energy]
 entities: [[equinix]]
 lens: [geopol.usa]
-body_completeness: excerpt
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: ZAF-2026-07-17
 ---
 
-###### MENU
+Giant data centres get the first green light from Cape Town tribunal - Moneyweb
 
-DATA
+DATA SIGN IN SUBSCRIBE Create account Free Newsletters Free Insider Gold R70pm Insider Pro Advisors Support journalism PODCASTS LISTEN MoneywebNOW Moneyweb@Midday RSG Geldsake SAfm Market Update All podcasts Click an ADVISOR Advisor profiles Advisor views Reader questions Submit a question Sign up MOBILE 1 SEPT 2026 • Sandton MONEYSUMMIT
 
-SIGN IN
+JSE Indices Value Move % World Indices Value 1 day 7 day Currencies Value Move % Commodities Value Move % 2 SHARES Facebook Twitter LinkedIn WhatsApp Email Print Next article: From innovation to application: AI in the business of property × Share this article 2 Shares Facebook Twitter LinkedIn WhatsApp Email Print Giant data centres get the first green light from Cape Town tribunal
 
-SUBSCRIBE
+Giant data centres get the first green light from Cape Town tribunal
 
-PODCASTS LISTEN
-
-Click an ADVISOR
-
-Moneyweb Podcasts MOBILE 1 SEPT 2026 • Sandton MONEYSUMMIT
-
-### Moneyweb@Midday
-
-Moneyweb@Midday podcasts Jeremy Maggs hosts this fast-paced live daily news show, covering a wide range of topics in business, economics and more.
-
-LISTEN ALL EPISODES ALL PODCASTS DOWNLOAD APP
-
-Disable this popup on your account page.
-
-##### Tools:
-
-##### Unit Trusts:
-
-ALL DATA TOOLS
-
-##### Shares:
-
-| JSE Indices | Value | Move | % |
-| --- | --- | --- | --- |
-
-| World Indices | Value | 1 day | 7 day |
-| --- | --- | --- | --- |
-
-| Currencies | Value | Move | % |
-| --- | --- | --- | --- |
-
-| Commodities | Value | Move | % |
-| --- | --- | --- | --- |
-
-2
-
-SHARES
-
-Approval of the application paves the way for the development of two huge data centres near the airport. Image: Ashraf Hendricks/GroundUp
+But opponents say the application failed to disclose how much water and electricity the two facilities would use. By Steve Kretzmann, GroundUp · 16 Jul 2026, 04:05 Approval of the application paves the way for the development of two huge data centres near the airport. Image: Ashraf Hendricks/GroundUp
 
 An application that paves the way for two new data centres totalling more than 120 000m² in Cape Town’s airport industrial area has been approved by the Municipal Planning Tribunal.
 
 The land use, subdivision and consolidation application by King David Country Club, which owns the area known as King Air Industria, makes no mention of how much water the giant data centres will use, nor does it detail energy supply and demand.
 
-Read/listen:
-
-Africa’s data centre gold rush needs a reality check
-
-Building South Africa’s digital future: Infrastructure, skills, and the AI opportunity
+Read/listen: Africa’s data centre gold rush needs a reality check Building South Africa’s digital future: Infrastructure, skills, and the AI opportunity
 
 The lack of information on this, and on backup diesel generation, fuel storage, air pollution, noise and related health impacts formed the basis for opposition to the application by Cape Town-based social movement, Housing Assembly, and UK-based tech justice non-profit organisation Foxglove, which received advice from the Legal Resource Centre (LRC).
 
@@ -87,13 +45,7 @@ Harvey said Housing Assembly had pointed out that Cape Town had suffered serious
 
 “The failure of Equinix to provide any kind of substantive detail on the new data centre’s water consumption in [its] land use application not only renders it impossible for it to be properly considered by the City of Cape Town, but is also arguably a serious insult to everyone who has suffered through this water scarcity in the recent past.”
 
-Read:
-
-What Cape Town can do to save water
-
-Cape Town’s water use remains too high despite Day Zero lessons
-
-Cape Town goes private to boost electricity and water supply
+Read: What Cape Town can do to save water Cape Town’s water use remains too high despite Day Zero lessons Cape Town goes private to boost electricity and water supply
 
 The application by King David Country Club involves three erven, two of which are zoned as General Industry, and one as Mixed Use.
 
@@ -109,13 +61,7 @@ He said a data centre was defined within the Municipal Planning Amendment By-law
 
 The mischaracterisation also existed in the applicant’s minimisation of the impact a data centre has on the surrounding areas and communities, which related to its electricity and water usage.
 
-Read:
-
-Cape Town housing activists celebrate landmark Tafelberg court victory
-
-Pinelands groups oppose Cape Town plan for 116-year-old golf course
-
-Cape Town needs rational thinking on appropriate land use
+Read: Cape Town housing activists celebrate landmark Tafelberg court victory Pinelands groups oppose Cape Town plan for 116-year-old golf course Cape Town needs rational thinking on appropriate land use
 
 Tribunal member Wally Johnstone agreed that the current definition for a data centre was “wholly inadequate” and “simplistic”, and there was no recognition that there was a significant change to the use of the land.
 
@@ -134,3 +80,123 @@ They were in general agreement with the applicant that this was merely a technic
 In granting the application, Holden said a data centre would promote the city “as a global, competitive, and innovation-driven hub”, create downstream employment and contribute to “improved digital infrastructure” serving a variety of industries.
 
 He said the site development plan would have to be closely scrutinised, as well as the building plan, should the site development plan be approved.
+
+© 2026 GroundUp. This article was first published here.
+
+Google See more of Moneyweb Google News Follow our coverage Newsletters Get news in your inbox Social Media Join the conversation
+
+Free users can leave 4 comments per month. Subscribers can leave unlimited comments via our website and app.
+
+Is this really journalism when you accept a laywer’s calculation for how much water a data center is going to use for cooling.
+
+Especially when you take into account that data centers in South Africa dont use evaporative cooling.
+
+Data centres worldwide are documented to be using large amounts of water for cooling. If it isn’t an issue, why didn’t the applicants provide the facts – they should know after all. Water is not a trivial issue in this country, particularly in the Western Cape. Due diligence is really important. Also, data centres are not big employers, its a mega warehouse full of servers being electronically monitored.
+
+From innovation to application: AI in the business of property
+
+Preparing Africa’s data centres for the demands of autonomous AI
+
+Xi seeks global AI sway as Chinese models spur security alarm
+
+Google Gemini launch delayed as tech falls short of internal goals
+
+17 Jul 2026 / Julia Love and Davey Alba, Bloomberg
+
+Coronation cuts AI bets, buys India rebound
+
+SpaceX shares briefly slip below IPO price for first time
+
+16 Jul 2026 / Carmen Reinicke, Bloomberg
+
+USD / ZARGBP / ZAREUR / ZARBTC / USDJSE ALSIGOLDBrent Crude $ More Indicators
+
+The invisible beliefs driving your financial decisions
+
+The greatest threat to your family’s legacy
+
+How much do you really need for retirement?
+
+The 5 pillars of retirement (or is it 10?)
+
+Family wealth is not inherited well by accident
+
+16 Jul 2026 / Hannah Myburgh Go to Click an Advisor
+
+Filing season alert: Check who controls your Sars eFiling profile
+
+Why Virgin Active is doubling down on luxury wellness clubs
+
+How Shoprite built a R1bn-plus media, insights business in plain sight
+
+Godongwana hauled to parliament over R13bn municipal funding freeze
+
+Joburg in urgent court bid to remove consumer refund risk
+
+Gauteng municipalities could save R2.5bn a year by buying surplus rooftop solar – report
+
+Toyota’s R10.4bn Hilux investment goes beyond a new bakkie
+
+Two directors resign after FSCA launches PIC investigation
+
+SA looking at privately-owned SEZs to arrest deindustrialisation
+
+The invisible beliefs driving your financial decisions
+
+The greatest threat to your family’s legacy
+
+How much do you really need for retirement?
+
+The 5 pillars of retirement (or is it 10?)
+
+16 Jul 2026 / Marius Fenwick Go to Click an Advisor
+
+From innovation to application: AI in the business of property
+
+Preparing Africa’s data centres for the demands of autonomous AI
+
+Xi seeks global AI sway as Chinese models spur security alarm
+
+Google Gemini launch delayed as tech falls short of internal goals
+
+17 Jul 2026 / Julia Love and Davey Alba, Bloomberg
+
+Coronation cuts AI bets, buys India rebound
+
+SpaceX shares briefly slip below IPO price for first time
+
+16 Jul 2026 / Carmen Reinicke, Bloomberg LATEST ARTICLES
+
+Safety incidents at Koeberg ‘contained’, nuclear plans remain
+
+19 Jul 2026 / Alister Bull and Paul Burkhardt, Bloomberg
+
+Authorities say the events at the power plant posed no risk to the public.
+
+Absa disrupts EV finance with BYD partnership
+
+World Cup distractions keep US workers out of office
+
+SA cannot redistribute its way to prosperity
+
+Living through the shattered veneer of unilateral prerogatives …
+
+Meer Suid-Afrikaners wéét hulle moet meer spaar, maar sukkel om dit te doen
+
+Should I invest in ETFs now or wait for a market correction?
+
+INSIDER SUBSCRIPTION APP NEWSLETTERS PODCASTS RADIO / LISTEN LIVE VIDEOS WEBINARS TRENDING FOLLOW US: SEARCH: Search JSE companies: Unit Trusts ETFs/ETNs SENS TRENDING: More
+
+Filing season alert: Check who controls your Sars eFiling profile
+
+A cocaine bust in Spain leads all the way to Wall Street
+
+18 Jul 2026 / Rodrigo Orihuela and Donal Griffin, Bloomberg IN DEPTH: Sponsored
+
+UFS completes 520-bed student residence project with DBSA funding
+
+Brought to you by Old Mutual Group Communications
+
+The rising spectre of dread diseases among younger generations
+
+Create a free account, or contact us to assist.

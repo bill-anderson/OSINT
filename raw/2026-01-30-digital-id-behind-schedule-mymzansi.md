@@ -10,12 +10,16 @@ places: [ZAF]
 topics: [dpi.id, dpi.govtech, gov.policy]
 entities: [[home-affairs-south-africa], [mymzansi]]
 lens: [sovereignty]
-body_completeness: excerpt
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: ZAF-2026-07-17
 ---
 
-# South Africa behind schedule on digital ID rollout under MyMzansi roadmap
+South Africa behind schedule on digital ID rollout under MyMzansi roadmap | Biometric Update
+
+South Africa behind schedule on digital ID rollout under MyMzansi roadmap
+
+Jan 30, 2026, 4:40 am EST | Ayang Macdonald Categories Biometrics News | Civil / National ID | ID for All
 
 South Africa’s plans to roll out a digital ID under the MyMzansi Digital Public Infrastructure (DPI) Roadmap are reported to be lagging after the country missed an April 2025 deadline to finalize and get the legal framework for the initiative approved by cabinet.
 
@@ -35,58 +39,88 @@ Among other things, she cited the launch of the MyMzansi DPI plan, an ongoing pi
 
 The MyMzansi DPI roadmap is a blueprint designed to transform how citizens access services from government and the private sector. It runs in two phases, from 2025–2027 and 2028–2030 with the core objectives to establish a functional national digital ID system, enable real-time data exchange, create a single platform to access a multiplicity of government services and make sure no citizen is excluded from the digital transformation process.
 
-### Related Posts
+South Africa will invest in DPI, says PresidentFebruary 7, 2025
 
-South Africa will invest in DPI, says President
+South Africa Home Affairs requests $618M budget to advance digital transformationJuly 9, 2025
 
-February 7, 2025
+South Africa introduces single digital ID as part of MyMzansi DPI planOctober 13, 2025
 
-South Africa Home Affairs requests $618M budget to advance digital transformation
+South Korea ready for nationwide digital ID rollout after pilotFebruary 11, 2025
 
-July 9, 2025
+South African banks plan more branches to expand digital ID services accessFebruary 6, 2025
 
-South Africa introduces single digital ID as part of MyMzansi DPI plan
+South Korea concludes nationwide rollout of digital IDMarch 25, 2025
 
-October 13, 2025
+Biometric age assurance market gears up for rapid expansion as rules clarify
 
-South Korea ready for nationwide digital ID rollout after pilot
+Biometric age assurance was turned up to 11 this week, as in 11 different Biometric Update articles on efforts to…
 
-February 11, 2025
+Age assurance explained: The laws reshaping the internet
 
-South African banks plan more branches to expand digital ID services access
+A year ago, age assurance was a niche topic and the biometrics industry was still anticipating the effect that the…
 
-February 6, 2025
+EUDI What? As wallet deadline looms, awareness remains low
 
-South Korea concludes nationwide rollout of digital ID
+New consumer research from IDnow shows that only about half of French and German customers have heard of the European…
 
-March 25, 2025
+The surveillance networks cities do not have to buy
 
-## Article Topics
+Private camera networks are beginning to emerge in cities across the U.S. which operate outside the boundaries of companies who…
 
-Africa| biometrics| digital government| digital ID| digital public infrastructure| MyMzansi| South Africa
+German lawmakers approve live facial recognition use by federal police
 
-## Comments
+Germany’s Federal Police appear on track to get new powers in a broad update of their governing rules, including a…
 
-Continue Reading
+Kantara updates digital identity certification criteria for latest NIST revision
 
-## Biometric Market Analysis and Buyer's Guides
+The Kantara Initiative has expanded its certification program for NIST’s Digital Identity Guidelines by releasing new criteria for their latest…
 
-- Injection Attack Detection
-- Understanding MOSIP
-- Biometric Physical Access Control
-- Digital Identity Verification
-- Deepfake Detection
-- Online Age Assurance
-- Facial Liveness Detection
+This site uses Akismet to reduce spam. Learn how your comment data is processed.
 
-## DIGITAL ID for ALL NEWS
+Biometric Market Analysis and Buyer's Guides
 
-## Featured Company
+Ethio Telecom, Huawei partner to expand Ethiopia’s digital infrastructure
 
-## ID for ALL FEATURE REPORTS
+India aims for next‑gen governance reforms as AI and DPI reshape the state
 
-## BIOMETRICS WHITE PAPERS
+Fayda digital ID critical for Ethiopia’s five-year refugee inclusion strategy
 
-## BIOMETRICS EVENTS
+Morocco approves new legal framework for more secure biometric passport
 
-## EXPLAINING BIOMETRICS
+Funding gap puts Sri Lanka’s digital ID project under review
+
+Caribbean countries align digital identity efforts for regional integration
+
+PNG advances digital identity with AI laws, SevisPass integration, QUT partnership
+
+UNDP moves to scale blockchain-based digital payments after successful pilots
+
+Nigeria pushes for universal digital ID as NIN use cases expand
+
+Malawi reaches 13.5M digital IDs as universal coverage comes into view
+
+World Bank outlines practical roadmap for digital wallet trust frameworks
+
+Research calls for document portability to tackle legal ID crisis facing migrants
+
+Advice from the MOSIP ecosystem, from biometric quality to sustainability
+
+UNDP outlines the ‘5Cs’ approach to accelerate sovereign DPI implementation
+
+Protecting trust in ID takes stronger defense as DPI increases attack surface
+
+Biometrics Institute Concepts and Solutions Report
+
+Synthetic IDs and injection attacks – the weaponisation of identity in fraud and financial crime
+
+Aware eBook: Evaluating Deepfake Defense Technologies
+
+Cyber Digital Services, Defence and Security Asia 2026
+
+Injection attack detection critical to digital security yet often misunderstood
+
+The AI fraud scheme scammers use to bypass verification systems
+
+The roles of Identity, Attribute and Orchestration Service Providers
+
+How to harden biometric authentication with presentation attack detection

@@ -10,41 +10,16 @@ places: [ZAF]
 topics: [infra.cybersec, gov.policy]
 entities: []
 lens: [sovereignty]
-body_completeness: excerpt
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: ZAF-2026-07-17
 ---
 
-Sectors
+SA govt elevates cyber security to counter-intelligence priority | ITWeb Sectors Companies About Subscribe
 
-Companies
+SA govt elevates cyber security to counter-intelligence priority
 
-About
-
-NEWS
-
-INSIGHTS
-
-EVENTS
-
-VIDEOS
-
-Search
-
-- Home
-- /
-- Security
-- /
-- SA govt elevates cyber security to counter-intelligence priority
-
-# SA govt elevates cyber security to counter-intelligence priority
-
-
-By Admire Moyo, ITWeb news editorJohannesburg, 16 Jul 2025
-
-
-Minister in the Presidency Khumbudzo Ntshavheni. (Image source: GCIS)
-
+By Admire Moyo, ITWeb news editorJohannesburg, 16 Jul 2025Minister in the Presidency Khumbudzo Ntshavheni. (Image source: GCIS)
 
 The South African government is repositioning cyber security as a core component of its national security strategy, with a renewed focus on counter-intelligence and protective security, following a series of high-profile cyber attacks on state institutions.
 
@@ -52,11 +27,7 @@ This shift in approach was outlined yesterday by minister in the Presidency Khum
 
 The announcement coincided with her tabling of the 2025 State Security Agency budget vote in Parliament.
 
-See also
-
-Cyber attack derails SA Weather Service’s performance
-
-SA’s data breach costs remain high, says SARB
+See also Cyber attack derails SA Weather Service’s performanceSA’s data breach costs remain high, says SARB
 
 At the briefing, Ntshavheni emphasised the historic nature of the publication, describing it as the first time core intelligence frameworks have been shared in a structured, transparent way without compromising national security.
 
@@ -78,14 +49,11 @@ This pillar is aimed at ensuring the country’s scientific and technological de
 
 Another pillar relates to the protection and promotion of technology and innovation.
 
-## Under attack
-
 The prioritisation of cyber as a key national security threat comes as several South African government entities have recently fallen victim to cyber attacks, raising concerns about the public sector’s cyber security readiness, amid rising global threats.
 
 In January, the South African Weather Service (SAWS) confirmed its ICT systems went down due to a criminal security breach. It revealed its aviation and marine services were affected, as well as e-mails and website.
 
 Dr Simphiwe Mayisela Managing Director, SS Consulting
-
 
 After the attack, SAWS CEO Ishaam Abader told members of Parliament that the entity did not achieve most of its targets during its fourth quarter, largely as a result of the cyber security breach.
 
@@ -105,10 +73,34 @@ According to Check Point’s Threat Intelligence Report, the South African gover
 
 Says Dartnall: “These government institutions manage vast amounts of sensitive citizen data and operate essential services and infrastructure. As digital transformation accelerates across the public sector, any gaps in cyber defences expose the state to serious risks – from data breaches to service disruption and even economic destabilisation. The result could potentially be catastrophic, through disruptions to the grid or the country’s water supply, for example.”
 
-Trek to the summit00Days:00Hrs:00Min:00Sec
-
-## Essential adjustment
-
 Mayisela believes adjusting SA’s cyber security posture to accommodate counter-intelligence is vital because many cyber threats are orchestrated by well-resourced, organised actors – including foreign intelligence services and criminal syndicates – seeking to infiltrate government systems for strategic gain.
 
-“Counter-intelligence capabilities enable the government to detect, deter and neutralise these threats proactively, rather than merely reacting to incidents after the fact. Integrating counte
+“Counter-intelligence capabilities enable the government to detect, deter and neutralise these threats proactively, rather than merely reacting to incidents after the fact. Integrating counter-intelligence into cyber security ensures a holistic approach, protecting not only data and infrastructure but also the integrity of decision-making processes and national sovereignty,” he comments.
+
+Lionel Dartnall, country manager for SADC at Check Point Software Technologies.
+
+Dartnall points out that the threat landscape has evolved far beyond conventional cyber crime. “Today, nation-state actors and organised groups often pursue intelligence gathering, political disruption and cyber espionage.
+
+“South Africa must enhance its cyber posture to include strong counter-intelligence capabilities that can detect, deter and neutralise these covert operations. This will require improved threat intelligence, better inter-agency coordination, and greater investment in cyber skills and technologies to protect national sovereignty and secure decision-making processes.”
+
+Mayisela says to further strengthen cyber security, government should invest in continuous skills development for public sector employees, ensuring they are equipped to recognise and respond to cyber threats.
+
+He adds that there should be a concerted effort to modernise legacy IT systems, implement robust access controls and enforce regular security audits.
+
+Dartnall warns that firewalls, anti-virus software and patching are no longer enough. “Check Point recommends a ‘prevention-first’ posture – multi-layered defences, zero-trust architectures, regular vulnerability testing, and incident response protocols that assume a breach has already occurred.
+
+“Cyber security training for public sector employees is essential, alongside the creation of a national cyber command or coordination centre to enable faster response and collaboration across departments. Public-private partnerships will also be key to ensuring access to global intelligence and best practices.”
+
+Bernard Chadenga, founder and CEO of The Cimplicity Institute.
+
+Bernard Chadenga, founder and CEO of The Cimplicity Institute, comments that SA's critical infrastructure and government departments have, over the years, increasingly become targets to cyber crime syndicates.
+
+"We need to remember that the bar of skills or knowledge in using cyber criminal tools available on the dark web has been lowered.
+
+Envision this, you can buy ransomware or malware from a bad guy for as little as $5 (R90.
+
+He points out that With the rise of cybercrime-as-a-Service, attackers no longer need in-house capability but can simply buy it.
+
+"They are using AI for coordinated attacks and our defenders are still using outdated tools techniques and reduced skills.
+
+The maturity of the cyber security defense mechanisms in our national institutions is still lower than our private sector," says Chedenga.

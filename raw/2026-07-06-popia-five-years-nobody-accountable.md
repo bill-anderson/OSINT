@@ -10,27 +10,24 @@ places: [ZAF]
 topics: [gov.protect]
 entities: [[information-regulator-south-africa]]
 lens: [sovereignty]
-body_completeness: excerpt
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: ZAF-2026-07-17
 ---
 
-URL: https://transformpublicrelations.com/2026/07/06/popia-five-years-later-why-is-nobody-being-held-accountable/
-Published: 2026-07-06
-
 POPIA Five Years Later: Why Is Nobody Being Held Accountable? - Transform Marketing (Pty) Ltd
 
-# POPIA Five Years Later: Why Is Nobody Being Held Accountable?
+POPIA Five Years Later: Why Is Nobody Being Held Accountable?
 
-2026: The Year Value-for-Money Becomes a Non-Negotiable30th June 2026
+2026: The Year Value-for-Money Becomes a Non-Negotiable
 
-From Compliance Checks to Industry Change7th July 2026
+Closing the Books in Days, Not Weeks: Why Finance Is Moving Beyond the Month-End Scramble
 
-2026: The Year Value-for-Money Becomes a Non-Negotiable30th June 2026
+2026: The Year Value-for-Money Becomes a Non-Negotiable
 
-From Compliance Checks to Industry Change7th July 2026
+Closing the Books in Days, Not Weeks: Why Finance Is Moving Beyond the Month-End Scramble
 
-## Five years after POPIA took effect, data breaches continue to rise. The question is: who is being held accountable?
+Five years after POPIA took effect, data breaches continue to rise. The question is: who is being held accountable?
 
 Centurion, 6 July 2026 – Five years after the Protection of Personal Information Act (POPIA) became fully enforceable, awareness and compliance efforts have increased, with organisations appointing Information Officers and the Information Regulator stepping up enforcement.
 
@@ -88,8 +85,18 @@ As cyber threats and regulatory scrutiny intensify, Ali believes organisations w
 
 “Five years on, the challenge is no longer understanding POPIA, but proving accountability,” he concludes. “Those that can demonstrate they protect personal information will be better positioned to manage risk, protect their reputation and secure stakeholder confidence.”
 
-ENDS Word Count: 791
+Founded in 2009 and headquartered in Centurion, WWISE is a leading ISO standards and systems implementation consultancy, serving over 740 clients in 18 countries across more than 40 industries. With a 100% certification success rate, WWISE provides accredited training (SAATCA, SETA, NEBOSH) and offers a global e-learning platform that has trained over 56,000 delegates in 40 countries. The firm specialises in helping organisations of all sizes meet international quality, safety, and efficiency benchmarks through over 30 ISO standards.
 
-### About WWISE:
+Information Regulator South Africa: MEDIA-STATEMENT_INFORMATION-REGULATORS-LATEST-UPDATE-Journalist-ver.pdf
 
-Founded in 2009 and headquartered in Centurion, WWISE is a leading ISO standards and systems implementation consultancy, serving over 740 clients in 18 countries across more than 40 industries. With a 100% certification success rate, WWISE provides accredited training (SAATCA, SETA, NEBOSH) and offers a global e-learning platform that has trained over 56,000 delegates in 40 countries. The firm specialises in helping organisations of all sizes meet international quality, sa
+IBM Cost of a Data Breach Report: https://www.ibm.com/reports/data-breach
+
+ISO 27001 Information Security Management: https://www.iso.org/isoiec-27001-information-security.html
+
+ISO 27701 Privacy Information Management: https://www.iso.org/standard/71670.html
+
+30 Days to Go: SARS Commissioner and Zimbabwe Procurement Regulator to Headline CIPS Conference 2026
+
+From Compliance Checks to Industry Change
+
+Closing the Books in Days, Not Weeks: Why Finance Is Moving Beyond the Month-End Scramble

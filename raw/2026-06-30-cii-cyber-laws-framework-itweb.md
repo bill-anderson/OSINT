@@ -8,19 +8,41 @@ date_precision: day
 date_source: source
 retrieved: 2026-07-17
 sweep_batch: MUS-2026-07-17
-body_completeness: excerpt
+body_completeness: full
 places: [MUS]
 topics: [infra.cybersec, gov.legislate, gov.standards]
 entities: []
 lens: []
 ---
 
-# Mauritius sets cyber laws framework
+Mauritius sets cyber laws framework | ITWeb Africa AlgeriaEgyptGhanaKenyaMoroccoNigeria South Africa BUSINESS TECHNOLOGY MEDIA FOR AFRICA Subscribe to our daily newsletterSubscribe to our daily newsletter
 
-*ITWeb Africa, 30 June 2026.*
+By Savious Parker Kwinika, ITWeb Africa ContributorJohannesburg, 30 Jun 2026New regulations set compliance requirements for critical infrastructure operators.
 
-Mauritius is implementing its **Cybersecurity and Cybercrime (Critical Information Infrastructure Designation) Regulations**, in effect since **1 June 2026**. Designated **CII operators have 12 months** to achieve full compliance; the framework identifies, designates and secures key national networks.
+Mauritius is preparing for the implementation of its Cybersecurity and Cybercrime (Critical Information Infrastructure Designation) Regulations aimed at securing critical information infrastructure.
 
-**Non-compliance carries penalties of up to 25 years' imprisonment and fines up to Rs 2 million (US$42,366).** First phase covers financial services, public service, ICT and broadcasting, energy and water supply, and transport. A stakeholder workshop in Ebène was officiated by minister **Dr Avinash Ramtohul**; Prof. Vinaye Armoogum also addressed it.
+Designated critical information infrastructure (CII) operators have 12 months to achieve full compliance after the regulations came into effect on 1 June. The framework sets out requirements to identify, designate and secure key national networks.
 
-The **National Cybersecurity Committee** is the main strategic/advisory body, with legal authority to enforce compliance alongside law enforcement. Before these regulations, Mauritius could punish cybercriminals but lacked a uniform framework to designate and regulate critical-infrastructure operators. *(Trade-journal companion to lexpress node/558304; adds penalty detail.)*
+Non-compliance carries penalties of up to 25 years’ imprisonment and fines of up to Rs2 million (US$42,366).
+
+The government has held a workshop in Ebène involving regulators, oversight bodies and operators to brief stakeholders on the new regulatory framework ahead of implementation.
+
+Dr Avinash Ramtohul, minister of information technology, communication and Innovation, officiated at the workshop on Monday.
+
+“The workshop’s outcomes will play an important role in reinforcing Mauritius’ national cybersecurity resilience and safeguarding essential services against the cyber threat landscape,” he said.
+
+The first phase of implementation covers financial services, public service, ICT and broadcasting, energy and water supply, and transport.
+
+Ramtohul said collaboration among stakeholders is needed to support data collection, strengthen technical capacity, improve skills through training and enhance access to banking services.
+
+Prof. Vinaye Armoogum also addressed the workshop.
+
+He said strengthening CII protection requires improved cybersecurity frameworks and long-term sustainability.
+
+“Cybersecurity is not only a technical issue but also a matter of national resilience, economic stability and public security,” he said.
+
+The National Cybersecurity Committee is the main strategic and advisory body responsible for protecting Mauritius against digital threats and managing national cyber resilience. It also has legal authority to enforce compliance alongside law enforcement agencies.
+
+Before the new regulations, Mauritius had laws to punish cybercriminals but lacked a uniform framework to designate and regulate critical infrastructure operators.
+
+digitalExperience seamless workflow automation with SigniFlow. Simplify, sign, and secure documents effortlessly. Transform your business.

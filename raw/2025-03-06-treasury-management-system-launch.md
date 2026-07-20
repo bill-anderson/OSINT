@@ -7,7 +7,7 @@ published: 2025-03-06
 date_precision: day
 date_source: source
 retrieved: 2026-07-17
-body_completeness: excerpt
+body_completeness: full
 sweep_batch: NGA-2026-07-17
 places: [NGA]
 topics: [dpi.govtech]
@@ -15,15 +15,30 @@ entities: []
 lens: []
 ---
 
-# Nigeria Launches Treasury Management System to Enhance Revenue and Budget Efficiency
+Nigeria Launches Treasury Management System to Enhance Revenue and Budget Efficiency - TechAfrica News Today's Bulletin: July 19, 2026
 
-March 6, 2025 — Aayushya Ranjan, TechAfrica News
+Nigeria Launches Treasury Management System to Enhance Revenue and Budget Efficiency
+
+March 6, 2025 2 min read Author: Aayushya Ranjan
 
 Nigeria launches a Treasury Management System to streamline government revenue, enforce budget control, and automate tax remittances for improved financial oversight.
 
-Pursuant to the directives of Mr. President and the Honourable Minister of Finance and Coordinating Minister of the Economy (HMF/CME) to achieve effective Treasury Management, Revenue Assurance and improved Budget Performance of all Ministries, Departments and Agencies (MDA), including Federal Government-Owned Enterprises (FGOEs), the Office of Accountant-General of the Federation (OAGF) has developed a new Solution known as 'Treasury Management and Revenue Assurance System' for deployment.
+Pursuant to the directives of Mr. President and the Honourable Minister of Finance and Coordinating Minister of the Economy (HMF/CME) to achieve effective Treasury Management, Revenue Assurance and improved Budget Performance of all Ministries, Departments and Agencies (MDA), including Federal GovernmentOwned Enterprises (FGOEs), the Office of Accountant-General of the Federation (OAGF) has developed a new Solution known as ,Treasury Management and Revenue Assurance System’for deployment.
 
-2. The Treasury Management & Revenue Assurance System is designed to coordinate, streamline and manage FGN revenue collections and payments for all MDA, including those benefiting from donor funds, trust funds, social security funds and special fund of the Federal Government of Nigeria. The system would go-live on March 4, 2025, as it will be deployed in two phases:
+2. The Treasury Management & Revenue Assurance System is designed to coordinate, streamline and manage FGN revenue collections and payments for dl MbA, including those benefiting from donor funds, trust funds, social security funds and special fund of the Federal Government of Nigeria. The system would go-live on March 4,2025, as it will be deployed in two phases:
 
-- i. Phase one shall cover payments and collection (Naira component only), the platform shall also enable OAGF/MDA to generate bank statements/balances and activate automatic deduction and remittances of tax associated with vendor payments/contractor including VAT, WHT and Stamp Duty.
-- ii. Phase two is expected to commence from June 1, 2025 and shall cover collections and payments menu for FX component and integration to MDA ERPs. This phase shall also cover activation of budget module for MDA not in national budget and other non-budgetary financial activities to enforce budget control.
+‘ i’ Phase one shall cover payments and collection (Naira component only), the platform shall also enable OAGF/MDA to generate bank statements/baiances and’activate automatic deduction and remittances of tax associated with vendor payments/contractor including VAT, WHT and Stamp Duty.
+
+ii. Phase two is expected to commence from June 1 , 2025 and shall cover collections and payments menu f9r FX component and integration to MDA ERPs. This phase shall also cover activation of budget module for MDA not in national budget and other non-budgetary ‘ financial activities to enforce budget control.
+
+EP.06 | S2 | Beyond Borders: Minister George on Regulatory Harmonisation, AI and Africa’s Collective…
+
+Ralph Mupita on MTN’s New Frontier: Connectivity, Content, and African AI Ralph Mupita, Group President and CEO, MTN Group
+
+April 9, 2026 4 min read IN CASE YOU MISSED IT #TechTalkThursday
+
+Why Connecting Rural Congo Costs Three Times More Than It Should
+
+July 16, 2026 5 min read #TechTalkThursday
+
+Why Data Refinement Could Define Africa’s AI Future

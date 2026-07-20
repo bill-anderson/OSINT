@@ -6,7 +6,7 @@ publisher: Le Soleil
 published: 2025-03-02
 date_precision: day
 date_source: source
-body_completeness: excerpt
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: SEN-2026-07-17
 places: [SEN]
@@ -15,9 +15,11 @@ entities: [[[senum-sa]], [[new-deal-technologique]]]
 lens: [sovereignty]
 ---
 
-# New Deal Technologique : les agents de SENUM SA expliquent les concepts clés
+New Deal Technologique : les agents de SENUM SA expliquent les concepts clés - Le Soleil Accueil / Accueil » New Deal Technologique : les agents de SENUM SA expliquent les concepts clés
 
-- dimanche 2 mars 2025
+New Deal Technologique : les agents de SENUM SA expliquent les concepts clés
+
+PARTAGEZ CET ARTICLE SUR LES RÉSEAUX Facebook X LinkedIn WhatsApp Telegram Email
 
 Le « New Deal Technologique », lancé par le Président Bassirou Diomaye Faye le 24 février 2025, ambitionne de métamorphoser le service public sénégalais. Cette stratégie, structurée autour de quatre piliers, vise à moderniser et dynamiser l’administration.
 
@@ -31,4 +33,38 @@ Autre pilier destiné à faciliter la vie des Sénégalais : la numérisation de
 
 Les autorités misent sur le développement de l’économie numérique et l’élargissement de l’accès à internet, à moindre coût, dans les régions reculées. Le plan prévoit de soutenir la création d’entreprises s’appuyant sur le numérique dans les secteurs de la santé, de l’agriculture et de l’éducation.
 
-Cheikh Tidiane NDIAYE
+[ Vidéo] Bacary Sarr : « Nous savons l’impact que peuvent avoir les médias dans le développement d’un pays »
+
+Bac 2026 : entre larmes, cris et embrassades, la délivrance des nouveaux bacheliers
+
+[Vidéo] Fonds propres et autonomie financière : Les communes face au défi de la mobilisation des ressources
+
+[Vidéo] SantéMap, l’application qui localise les structures de santé du Sénégal
+
+Coupe du monde 2026 : le LNR-BTP souhaite plein succès aux Lions du Sénégal
+
+Coupe du monde 2026 : le CETUD souhaite bonne chance aux Lions du Sénégal
+
+LIRE LE JOURNAL DU JOUR NE MANQUEZ RIEN!
+
+Inscrivez-vous à la newsletter du Soleil et recevez directement les actus dans votre boîte mail!
+
+Mame Mor Gaye alias Baay Xalima : Le calligraphe des xassaïdes
+
+17 juillet 2026 ANNONCEURS Votre publicité ici
+
+Vous voulez atteindre une audience ciblée et engagée ? Placez vos bannières publicitaires sur notre site
+
+MON COMPTE S'ABONNER LE KIOSQUE Actualités
+
+Indiquez vos informations Mot de passe perdu ? JE CRÉER MON COMPTE
+
+Votre demande a été transmise avec succès
+
+Nous allons traiter votre demandes dans les meilleurs délais. L’équipe du Journal Le Soleil
+
+Votre demande a été transmise avec succès
+
+Nous allons en prendre connaissance et vous répondre dans les meilleurs délais.
+
+Indiquez vos informations Mot de passe perdu ? JE CRÉER MON COMPTE

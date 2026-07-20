@@ -7,7 +7,7 @@ published: 2025-01-16
 date_precision: day
 date_source: source
 retrieved: 2026-07-17
-body_completeness: excerpt
+body_completeness: full
 sweep_batch: NGA-2026-07-17
 places: [NGA]
 topics: [dpi.govtech, dpi.pay]

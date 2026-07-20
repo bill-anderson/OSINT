@@ -12,13 +12,33 @@ entities: [[national-registration-bureau-malawi]]
 lens: []
 retrieved: 2026-07-17
 sweep_batch: MWI-2026-07-17
-body_completeness: excerpt
+body_completeness: full
 ---
 
-# Malawi Sets 2026 Target for Nationwide Digital ID Rollout to Boost Service Access
+Malawi Sets 2026 Target for Nationwide Digital ID Rollout to Boost Service Access - TechAfrica News Today's Bulletin: July 19, 2026
 
-Malawi is set to implement a **nationwide digital identification system by 2026** following a successful pilot, spearheaded by the National Registration Bureau (NRB) and announced at the **ID4Africa Annual General Meeting in Addis Ababa, Ethiopia**. The system aims to simplify access to government services via **mobile-phone-based identity verification**, improving service delivery and financial inclusion.
+Malawi Sets 2026 Target for Nationwide Digital ID Rollout to Boost Service Access
 
-Mbawaka Mwakhwawa, acting Chief Registration Officer at the NRB, highlighted growing smartphone use as key to leveraging mobile technology for identity verification, which will change how citizens engage with healthcare providers, financial institutions and other services while lowering physical-card production costs. The project aligns with ID4Africa's continent-wide push for secure, inclusive identity systems.
+May 26, 2025 1 min read Author: Jennifer Onyeagoro
 
-(Early-2025 baseline statement of the mobile-ID plan that later became the Nzika Wallet, launching September 2026.)
+The new digital ID system aims to simplify access to government services by enabling efficient identity verification, primarily through mobile phones.
+
+Malawi is set to implement a nationwide digital identification system by 2026, following a successful pilot program. The initiative is spearheaded by the National Registration Bureau (NRB) and was recently announced at the ID4Africa Annual General Meeting in Addis Ababa, Ethiopia.
+
+The new digital ID system aims to simplify access to government services by enabling efficient identity verification, primarily through mobile phones. Officials believe this approach will improve service delivery and foster greater financial inclusion by making it easier for citizens to access banking and other vital services.
+
+Mbawaka Mwakhwawa, acting Chief Registration Officer at the NRB, highlighted the growing use of smartphones in Malawi as a key factor in leveraging mobile technology for identity verification. He explained that this innovation will revolutionize how citizens engage with healthcare providers, financial institutions, and other services, while also lowering the costs associated with producing physical ID cards.
+
+The government emphasized that the digital ID project aligns with the objectives of ID4Africa, a continent-wide initiative designed to help African nations establish secure, inclusive identity systems that support both development and humanitarian efforts.
+
+EP.06 | S2 | Beyond Borders: Minister George on Regulatory Harmonisation, AI and Africa’s Collective…
+
+Ralph Mupita on MTN’s New Frontier: Connectivity, Content, and African AI Ralph Mupita, Group President and CEO, MTN Group
+
+April 9, 2026 4 min read IN CASE YOU MISSED IT #TechTalkThursday
+
+Why Connecting Rural Congo Costs Three Times More Than It Should
+
+July 16, 2026 5 min read #TechTalkThursday
+
+Why Data Refinement Could Define Africa’s AI Future

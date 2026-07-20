@@ -12,14 +12,37 @@ entities: [[emma-theofelus], [netumbo-nandi-ndaitwah], [paratus], [mtc-namibia]]
 lens: [sovereignty]
 retrieved: 2026-07-17
 sweep_batch: NAM-2026-07-17
-body_completeness: excerpt
+body_completeness: full
 ---
 
-# Namibia expedites data centre, smart city development
+Namibia expedites data centre, smart city development | ITWeb Africa AlgeriaEgyptGhanaKenyaMoroccoNigeria South Africa BUSINESS TECHNOLOGY MEDIA FOR AFRICA Subscribe to our daily newsletterSubscribe to our daily newsletter
 
-The Namibian government is developing frameworks for smart cities, construction of a public data centre, and IT collaboration with neighbour Angola — dominating a cabinet meeting chaired by President Nandi-Ndaitwah, per ICT Minister Emma Theofelus (post-cabinet briefing).
+Namibia expedites data centre, smart city development
 
-- **Data centre:** "Cabinet directed the Ministry of ICT (MICT) and the office of the prime minister to finalise the concept note and project proposal for the development of a National and Public Data Centre" — pursuing technological sovereignty by hosting national data locally. The month before, PM Elijah Ngurare and Theofelus visited Paratus to review infrastructure for protecting national data locally.
-- **Smart city:** Cabinet directed MICT and the Ministry of Urban and Rural Development to initiate a legal framework for smart city development, beginning with the City of Windhoek.
-- **VC fund:** Cabinet authorised MICT to engage female founders as potential beneficiaries of a US$20 million venture capital fund for SMEs in the ICT industry.
-- **5G:** Cabinet applauded MTC Namibia's 5G deployment (announced end of August 2025, beginning in Windhoek, Swakopmund and Walvis Bay), with nationwide rollout planned in coming months.
+By Alfred Shilongo, ContributorJohannesburg, 23 Sept 2025Emma Theofelus, minister of information, communication, and technology, announced the resolutions in a post-cabinet meeting media briefing.
+
+The Namibian government is developing frameworks for the implementation of smart cities, the construction of a public data centre, information and technology collaboration with its neighbour Angola.
+
+These issues dominated last week's cabinet meeting, which was chaired by president Nandi Netumbo-Ndaitwah.
+
+Emma Theofelus, minister of information, communication, and technology, announced the resolutions in a post-cabinet meeting media briefing.
+
+"Cabinet directed the Ministry of ICT (MICT) and the office of the prime minister to finalise the concept note and project proposal for the development of a National and Public Data Centre," she said.
+
+This comes at a time when Namibia's government is pursuing technological sovereignty by establishing data centres.
+
+Last month, prime minister Elijah Ngurare and minister Theofelus undertook a visit to Paratus, a digital infrastructure provider, to review current infrastructure and capacities for protecting national data locally.
+
+Regarding the country's smart city project, Theofelus said: "Cabinet directed MICT and the Ministry of Urban and Rural Development to initiate a legal framework for smart city development, beginning with the City of Windhoek."
+
+Furthermore, the cabinet authorised MICT to engage female founders who are potential beneficiaries of the US$20 million venture capital fund designed to finance small and medium-sized businesses in the ICT industry.
+
+Finally, Theofelus stated that the cabinet had applauded the recent deployment of 5G technology by MTC Namibia, the state-owned telco.
+
+MTC announced the deployment at the end of August, beginning in the capital Windhoek, Swakopmund, and Walvis Bay.
+
+The operator intends to deploy nationwide in the coming months.
+
+BusinessNamibiaEmma TheofelusAngolaMTCElijah NgurareParatusRead moreSITE SPONSOR
+
+digitalExperience seamless workflow automation with SigniFlow. Simplify, sign, and secure documents effortlessly. Transform your business.

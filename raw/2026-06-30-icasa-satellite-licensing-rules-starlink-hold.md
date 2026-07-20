@@ -10,160 +10,22 @@ places: [ZAF]
 topics: [infra.connect, gov.legislate, geopol.usa]
 entities: [[starlink], [icasa]]
 lens: [sovereignty]
-body_completeness: excerpt
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: ZAF-2026-07-17
 ---
 
-Today's Bulletin: July 6, 2026
+ICASA Spells Out Satellite Licensing Rules as Starlink's South Africa Entry Remains on Hold - TechAfrica News Today's Bulletin: July 19, 2026
 
-More results...
+ICASA Spells Out Satellite Licensing Rules as Starlink’s South Africa Entry Remains on Hold
 
-Generic selectors
-
-Exact matches only
-
-Search in title
-
-Search in content
-
-Post Type Selectors
-
-Filter by Categories
-
-Africacom
-
-AfricaCom 2024
-
-AfricaCom 2025
-
-AI
-
-Apps
-
-Apps
-
-Arabsat
-
-Banking
-
-Broadcast
-
-Cabsat
-
-CABSAT
-
-Cloud
-
-Column
-
-Content
-
-Corona
-
-Cryptocurrency
-
-DTT
-
-eCommerce
-
-Editorial
-
-Education
-
-Entertainment
-
-Events
-
-Fintech
-
-Fixed
-
-Gitex
-
-Gitex Africa
-
-Gitex Africa 2025
-
-GSMA Cape Town
-
-Healthcare
-
-IBC
-
-Industry Voices
-
-Infrastructure
-
-IoT
-
-MNVO Nation Africa
-
-Mobile
-
-Mobile Payments
-
-Music
-
-MWC Barcelona
-
-MWC Barcelona 2025
-
-MWC Barcelona 2026
-
-MWC Kigali
-
-MWC Kigali 2025
-
-News
-
-Online
-
-Opinion Piece
-
-Orbiting Innovations
-
-Podcast
-
-Q&A
-
-Satellite
-
-Security
-
-Software
-
-Startups
-
-Streaming
-
-Technology
-
-TechTalks
-
-TechTalkThursday
-
-Telecoms
-
-Utilities
-
-Video Interview
-
-Follow us
-
-# ICASA Spells Out Satellite Licensing Rules as Starlink’s South Africa Entry Remains on Hold
-
-June 30, 2026
-
-3 min read
-
-Author: Joyce Onyeagoro
+June 30, 2026 3 min read Author: Joyce Onyeagoro
 
 The notice, published in the Government Gazette on 29 June 2026, confirms that any entity wishing to operate satellite services within South Africa must hold three categories of licences.
 
-South Africa’s Independent Communications Authority (ICASA) has published a formal notice clarifying the licensing requirements for entities seeking to provide satellite constellation services in the country, following a wave of enquiries from prospective operators.
+South Africa’s Independent Communications Authority (ICASA ) has published a formal notice clarifying the licensing requirements for entities seeking to provide satellite constellation services in the country, following a wave of enquiries from prospective operators.
 
-The notice, published in the Government Gazette on 29 June 2026, confirms that any entity wishing to operate satellite services within South Africa must hold three categories of licences: an Individual Electronic Communications Service (I-ECS) licence, an Individual Electronic Communications Network Service (I-ECNS) licence, and one or more Radio Frequency Spectrum (RFS) licences.
+The notice , published in the Government Gazette on 29 June 2026, confirms that any entity wishing to operate satellite services within South Africa must hold three categories of licences: an Individual Electronic Communications Service (I-ECS) licence, an Individual Electronic Communications Network Service (I-ECNS) licence, and one or more Radio Frequency Spectrum (RFS) licences.
 
 On spectrum, the regulator is unambiguous. Section 31(1) of the Electronic Communications Act stipulates that “no person may transmit any signal by radio or use radio apparatus to receive any signal by radio except under and in accordance with a radio frequency spectrum licence granted by the Authority.” ICASA’s notice reaffirms this, confirming that any entity transmitting or receiving radio signals must hold an RFS licence.
 
@@ -177,4 +39,14 @@ The clarification comes against the backdrop of growing global interest in the S
 
 The notice was signed by ICASA Chairperson Mothibi G Ramusi and dated 24 June 2026.
 
-The TechAfrica News Podcast
+EP.06 | S2 | Beyond Borders: Minister George on Regulatory Harmonisation, AI and Africa’s Collective…
+
+Ralph Mupita on MTN’s New Frontier: Connectivity, Content, and African AI Ralph Mupita, Group President and CEO, MTN Group
+
+April 9, 2026 4 min read IN CASE YOU MISSED IT #TechTalkThursday
+
+Why Connecting Rural Congo Costs Three Times More Than It Should
+
+July 16, 2026 5 min read #TechTalkThursday
+
+Why Data Refinement Could Define Africa’s AI Future

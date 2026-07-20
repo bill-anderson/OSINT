@@ -12,11 +12,33 @@ entities: [[national-registration-bureau-malawi]]
 lens: []
 retrieved: 2026-07-17
 sweep_batch: MWI-2026-07-17
-body_completeness: excerpt
+body_completeness: full
 ---
 
-# Malawi to unveil digital IDs in September
+Malawi to unveil digital IDs in September | ITWeb Africa AlgeriaEgyptGhanaKenyaMoroccoNigeria South Africa BUSINESS TECHNOLOGY MEDIA FOR AFRICA Subscribe to our daily newsletterSubscribe to our daily newsletter
 
-The National Registration Bureau (NRB) is set to launch the **Nzika Wallet** mobile application in **September** (2026), enabling Malawians to access digital versions of their national ID cards via smartphones. NRB Principal Secretary **Patrick Machika** said the move improves access to ID documents, simplifies verification and makes it easier to access services requiring proof of identity.
+Malawi to unveil digital IDs in September
 
-Machika said the app has adequate security features to protect users' data, letting citizens access their national IDs digitally without carrying the physical card. Notably, the **digital ID cards won't require periodic renewals**, unlike the current physical cards which have expiry dates, and the move helps reduce challenges from lost, damaged or expired national ID cards. Further details on registration and access procedures are expected ahead of the September launch. (Names the specific app — the **Nzika (Citizen) App** — behind the mobile-ID transition.)
+By Benson Kunchezera, Malawi correspondentJohannesburg, 11 Jun 2026Patrick Machika, principal secretary, National Registration Bureau says that digital IDs will be available for Malawians in September.
+
+The National Registration Bureau (NRB) is set to launch the Nzika Wallet mobile application in September, enabling Malawians to access digital versions of their national identity cards through smartphones.
+
+NRB principal secretary Patrick Machika announced the development, as part of government efforts to modernise identity management services.
+
+He said the move is designed to improve access to identification documents, simplify verification processes and make it easier for citizens to access various services that require proof of identity.
+
+Accessible through the Nzika Wallet application, he assured citizens that security measures to safeguard users' personal information were being put in place.
+
+“The application will be available on smartphones and has adequate security features to protect users' data. Citizens will be able to access their national IDs digitally without the need to carry the physical card at all times,” he said.
+
+Machika added that the digital ID cards won’t require periodic renewals, unlike the current physical cards, which have expiry dates.
+
+The move to virtual IDs will also help to reduce challenges associated with lost, damaged or expired National Identity Cards, he said.
+
+The NRB has, in recent years, been implementing reforms aimed at strengthening the country's national identification system and improving the management of citizens' records.
+
+The bureau is expected to provide further details on registration and access procedures ahead of the September launch.
+
+ICT and GovernanceNational Registration BureauMobile applicationSmartphonesIdentity managementMalawiRead moreSITE SPONSOR
+
+digitalExperience seamless workflow automation with SigniFlow. Simplify, sign, and secure documents effortlessly. Transform your business.

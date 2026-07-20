@@ -12,14 +12,44 @@ entities: [[emma-theofelus]]
 lens: []
 retrieved: 2026-07-17
 sweep_batch: NAM-2026-07-17
-body_completeness: excerpt
+body_completeness: full
 provenance_flag: pr-wire
 ---
 
-# Namibia calls for inclusive AI governance and greater investment in Digital Capacity at UN Dialogue
+TechReviewAfrica - News Details Latest News : Sunday, July 19, 2026
 
-ICT Minister Emma Theofelus called for stronger global cooperation, increased investment in digital infrastructure and expanded skills development so that AI benefits all communities and does not widen digital inequalities. She spoke at the Global Dialogue on AI Governance in Geneva, in a session "Bridging AI Divides: Capacity-Building, Access and Digital Foundations" on 6 July 2026.
+Namibia calls for inclusive AI governance and greater investment in Digital Capacity at UN Dialogue
 
-Theofelus reaffirmed Namibia's commitment to inclusive, human-centred AI governance, emphasising cooperation to address gaps in access, skills and infrastructure, and the importance of interoperable standards for responsible AI adoption. She stressed AI should complement human potential (handling routine tasks, freeing people for creativity, critical thinking and empathy) and that developing countries must not be left behind in the global AI transformation.
+Namibia has called for stronger global cooperation, increased investment in digital infrastructure and expanded skills development to ensure that artificial intelligence benefits all communities and does not widen existing digital inequalities.
 
-(Tech Review Africa is a byline-free PR-wire; flagged for verification against a primary at ingest.)
+The call was made by Minister of Information and Communication Technology Hon. Emma Theofelus during the Global Dialogue on AI Governance in Geneva, where she participated as a speaker in a session titled “Bridging AI Divides: Capacity-Building, Access and Digital Foundations” on 6 July 2026.
+
+The Minister reaffirmed Namibia’s commitment to promoting inclusive and human-centred approaches to artificial intelligence governance, emphasizing the need for countries to work together to address gaps in access, skills and technological infrastructure.
+
+Theofelus highlighted the importance of global partnerships in strengthening digital capabilities, expanding access to AI technologies and developing interoperable standards that support responsible adoption of artificial intelligence.
+
+She stressed that AI should be designed to complement human potential by taking over routine tasks and enabling people to focus on areas that require creativity, innovation, critical thinking and empathy.
+
+The Minister also underscored the importance of ensuring that developing countries are not left behind in the global AI transformation and have the necessary tools and knowledge to participate meaningfully in shaping the future of the technology.
+
+The Global Dialogue on AI Governance has brought together governments, international organizations, technology leaders and civil society representatives to discuss approaches for building safe, ethical and inclusive artificial intelligence ecosystems.
+
+Namibia’s participation reflects its continued engagement in global digital policy discussions and its efforts to promote responsible technology development as part of its broader digital transformation agenda.
+
+Kenya government confirms cybersecurity incident affecting presidential website
+
+UN Tech Envoy calls for global cooperation on AI governance at World AI Conference
+
+Algeria advances Africa’s digital sovereignty agenda through AI, connectivity and innovation initiatives
+
+Kenya government confirms cybersecurity incident affecting presidential website
+
+UN Tech Envoy calls for global cooperation on AI governance at World AI Conference
+
+Algeria advances Africa’s digital sovereignty agenda through AI, connectivity and innovation initiatives
+
+University of Ghana hosts Pan-African Workshop on cybersecurity and artificial intelligence
+
+China contributes additional $2.5 million to Africa CDC for Ebola response in DRC and Uganda
+
+We may use cookies or any other tracking technologies when you visit our website, including any other media form, mobile website, or mobile application related or connect... Read more about cookies Accept Policy

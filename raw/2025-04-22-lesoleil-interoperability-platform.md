@@ -6,7 +6,7 @@ publisher: Le Soleil
 published: 2025-04-22
 date_precision: day
 date_source: source
-body_completeness: excerpt
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: SEN-2026-07-17
 places: [SEN]
@@ -15,12 +15,52 @@ entities: [[[new-deal-technologique]], [[jica]]]
 lens: [sovereignty]
 ---
 
-# Echange de donnees : Le Senegal lance une plateforme interministerielle et interoperable
+Echange de données : Le Sénégal lance une plateforme interministérielle et interopérable - Le Soleil Accueil / Accueil » Echange de données : Le Sénégal lance une plateforme interministérielle et interopérable
 
-Le Soleil - 22 avril 2025, par Mariama Dieme
+Echange de données : Le Sénégal lance une plateforme interministérielle et interopérable
 
-Faciliter le partage securise de donnees entre les ministeres et institutions de l'Etat, c'est ce que vise le gouvernement avec le lancement mardi d'une plateforme interministerielle et interoperable. Un projet qui entre dans le cadre de la mise en oeuvre du New Deal Technologique.
+PARTAGEZ CET ARTICLE SUR LES RÉSEAUX Facebook X LinkedIn WhatsApp Telegram Email
 
-Dans le cadre du programme d'infrastructure publique numerique du New Deal Technologique, le ministere de la Communication, des Telecommunications et du Numerique, en partenariat avec la JICA, initie un projet structurant visant a faciliter le partage securise de donnees entre les ministeres et institutions de l'Etat. Selon une note de la tutelle, cette initiative met en place une plateforme numerique pour un echange fluide, securise et instantane de donnees, en vue d'ameliorer la collaboration interinstitutionnelle, l'efficacite administrative et la transparence dans la gestion publique.
+Faciliter le partage sécurisé de données entre les ministères et institutions de l’État, c’est ce que vise le gouvernement avec le lancement mardi, d’une plateforme interministérielle et interopérable. Un projet qui entre dans le cadre de la mise en œuvre du New Deal Technologique.
 
-Les resultats attendus : acceleration du traitement des procedures administratives, reduction des saisies multiples grace a l'automatisation, fiabilite et disponibilite des donnees pour un meilleur pilotage des politiques publiques, et interconnexion securisee de l'ensemble des structures de l'Etat. La phase pilote est prevue de 2024 a 2025 et son deploiement a grande echelle entre 2025 et 2027. "Ce projet constitue une etape majeure vers une administration numerique moderne, transparente et au service des citoyens", indique le texte.
+Dans le cadre du programme d’infrastructure publique numérique du New Deal Technologique, le ministère de la Communication, des Télécommunications et du Numérique, en partenariat avec la JICA, initie un projet structurant visant à faciliter le partage sécurisé de données entre les ministères et institutions de l’État. Selon une note de la tutelle, cette initiative permet de mettre en place une plateforme numérique pour un échange « fluide, sécurisé et instantané » de données. Ceci, en vue d’améliorer la collaboration interinstitutionnelle, l’efficacité administrative et la transparence dans la gestion publique.
+
+A travers ce projet, les résultats attendus sont notamment, l’accélération du traitement des procédures administratives, ⁠la réduction des saisies multiples grâce à l’automatisation. Mais, aussi, la fiabilité et disponibilité des données pour un meilleur pilotage des politiques publiques et une interconnexion sécurisée de l’ensemble des structures de l’État.
+
+Ainsi, le document renseigne que la phase pilote est prévue de ⁠2024 à 2025 et son déploiement à grande échelle est programmé entre ⁠2025 et 2027. « Ce projet constitue une étape majeure vers une administration numérique moderne, transparente et au service des citoyens », lit-on dans le texte.
+
+XI JINPING : « Le monde doit poursuivre une approche centrée sur l’être humain et développer une IA pour le progrès »
+
+Poste de Directeur général de l’ARTP : un appel à candidature lancé
+
+Fréquences radioélectriques : l’ARTP et l’ANAM resserrent les mailles de la sécurité maritime
+
+Le satellite SMILE : comprendre la coopération spatiale sino-européenne au service de tous
+
+Transformation numérique des parlements : l’expérience sénégalaise saluée
+
+10 juillet 2026 ARTICLES LES + POPULAIRES
+
+LIRE LE JOURNAL DU JOUR NE MANQUEZ RIEN!
+
+Inscrivez-vous à la newsletter du Soleil et recevez directement les actus dans votre boîte mail!
+
+Mame Mor Gaye alias Baay Xalima : Le calligraphe des xassaïdes
+
+17 juillet 2026 ANNONCEURS Votre publicité ici
+
+Vous voulez atteindre une audience ciblée et engagée ? Placez vos bannières publicitaires sur notre site
+
+MON COMPTE S'ABONNER LE KIOSQUE Actualités
+
+Indiquez vos informations Mot de passe perdu ? JE CRÉER MON COMPTE
+
+Votre demande a été transmise avec succès
+
+Nous allons traiter votre demandes dans les meilleurs délais. L’équipe du Journal Le Soleil
+
+Votre demande a été transmise avec succès
+
+Nous allons en prendre connaissance et vous répondre dans les meilleurs délais.
+
+Indiquez vos informations Mot de passe perdu ? JE CRÉER MON COMPTE

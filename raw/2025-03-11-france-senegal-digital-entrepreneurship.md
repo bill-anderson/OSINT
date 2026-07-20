@@ -6,7 +6,7 @@ publisher: We Are Tech Africa
 published: 2025-03-11
 date_precision: day
 date_source: source
-body_completeness: excerpt
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: SEN-2026-07-17
 places: [SEN]
@@ -15,9 +15,9 @@ entities: [[[der-fj]], [[afd]]]
 lens: []
 ---
 
-# France and Senegal Strengthen Ties to Boost Digital Entrepreneurship and Innovation
+France and Senegal Strengthen Ties to Boost Digital Entrepreneurship and Innovation - We are Tech
 
-By The Redaction, We are Tech, 11 March 2025
+France and Senegal Strengthen Ties to Boost Digital Entrepreneurship and Innovation
 
 The role of North-South cooperation is critical in advancing innovation across Africa. Such partnerships enable technology transfer, provide crucial funding, and support entrepreneurial endeavors, thereby stimulating the growth of local startups and improving the continent's competitive standing.
 
@@ -29,8 +29,16 @@ The visit aimed to accelerate the growth of Senegalese tech startups and bolster
 
 The visit comes amid increased cooperation between the two nations in innovation and entrepreneurship. Through initiatives like Choose Africa 2, France is actively backing young African entrepreneurs. The DER/FJ, in partnership with the AFD and other stakeholders, has facilitated the creation of 74,000 jobs and supported 10,000 entrepreneurial initiatives, including 40 startups in collaboration with HEC Paris.
 
-Projects such as Game Hub Senegal and Anim'Lab provide young talent with training and hands-on experience in digital creation.
+Projects such as Game Hub Senegal and Anim’Lab provide young talent with training and hands-on experience in digital creation.
 
 The visit also raised the prospect of the AFD signing the second phase of the Innovation Valorization Support Program (PAVI 2), which would enhance young entrepreneurs' access to financing and technical assistance.
 
-These potential partnerships align with Senegal's New Technological Deal, the country's national digital transformation strategy. The ambitious program aims to certify 500 technology startups and create 150,000 direct jobs by 2034, positioning innovation as a key driver of Senegal's economic growth and competitiveness.
+These potential partnerships align with Senegal's New Technological Deal, the country’s national digital transformation strategy. The ambitious program aims to certify 500 technology startups and create 150,000 direct jobs by 2034, positioning innovation as a key driver of Senegal’s economic growth and competitiveness.
+
+Tarik Dadi Combats Health Insurance Fraud with Qantev Software Tunisian Entrepreneur Safi Negra Digitizes Home Services With Ijeni Platform Insight Terra CEO Alastair Bovim Deploys Data Fusion to Mitigate Industrial Disasters Michael Moyo's Ocular AI Brings Human Expertise to Artificial Intelligence Ghanaian Entrepreneur Alfred Opare Saforo Expands Hybrid Work Through Zuludesk Nigerian Entrepreneur Rukayat Kolawole-Bello Expands Financial Inclusion Through Regxta
+
+KutanaPay Uses AI and Blockchain to Reduce Cross-Border Trade Risks Nairobi Startup Reemio Expands Digital Tools for Kenya's Rental Market Rwandan Startup Check Me Uses AI to Support Breast Cancer Screening Senegalese Fintech Dërêm Expands Access to Capital for Social Enterprises
+
+Kenya Partners with Italy to Advance Digital Transformation
+
+Please publish modules in offcanvas position.

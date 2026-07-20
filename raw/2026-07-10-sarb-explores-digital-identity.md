@@ -10,21 +10,18 @@ places: [ZAF]
 topics: [dpi.id, dpi.pay]
 entities: [[sarb]]
 lens: [sovereignty]
-body_completeness: excerpt
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: ZAF-2026-07-17
 ---
 
-Go to the Homepage
+SARB explores digital identity system to secure financial sector
 
-## Latest
+Spain manager defends Argentina against 'dirty' claims
 
-- Romelu Lukaku
-- Spain football team
-- FIFA World Cup
+FIFA to review 'unpopular' World Cup hydration breaks
 
-- Enyobeni tavern
-- National Prosecuting Authority (NPA)
+'Biggest success in 60 years': Tuchel hails England's historic finish
 
 The South African Reserve Bank (SARB) is exploring a formal digital identity system that could make it easier and safer for people to access financial services.
 
@@ -40,39 +37,10 @@ However, it stressed that any future framework would need to balance innovation 
 
 Never miss a major story. Get breaking news and the latest developments from South Africa and beyond as they happen.
 
-###### Get the whole picture 💡
-
 Take a look at the topic timeline for all related articles.
 
-Topic Timeline
+Government pushes forward with nuclear expansion plans despite Koeberg safety concerns
 
-#### Trending News
+SA seeks new WTO safeguards as ArcelorMittal warns of cheap steel imports
 
-1 hour ago
-
-3 hours ago
-
-4 hours ago
-
-5 hours ago
-
-6 hours ago
-
-7 hours ago
-
-7 hours ago
-
-8 hours ago
-
-8 hours ago
-
-8 hours ago
-
-9 hours ago
-
-10 hours ago
-
-## More in Business
-
-- South African Reserve Bank (SARB)
-- Financial Action Task Force (FATF)
+When last did you buy a guava? SA's growers are asking the same question

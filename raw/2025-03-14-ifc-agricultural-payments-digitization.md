@@ -6,7 +6,7 @@ publisher: We Are Tech Africa
 published: 2025-03-14
 date_precision: day
 date_source: source
-body_completeness: excerpt
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: SEN-2026-07-17
 places: [SEN]
@@ -15,9 +15,9 @@ entities: [[[ifc]]]
 lens: []
 ---
 
-# Senegal to Digitize Agricultural Payments with IFC Support
+Senegal to Digitize Agricultural Payments with IFC Support - We are Tech
 
-By Samira Njoya, We are Tech, 14 March 2025 (editing by Sèna D. B. de Sodji)
+Senegal to Digitize Agricultural Payments with IFC Support
 
 Agriculture is a cornerstone of Senegal's economy and a primary source of income for much of the rural population. To tackle issues of efficiency and transparency in agricultural subsidy management, the country is implementing digital solutions.
 
@@ -32,3 +32,11 @@ Digitizing payments is seen as crucial to ensuring rapid and traceable subsidy d
 In Africa, small-scale farmers produce more than 70% of the food supply and support millions of rural households, according to the African Development Bank. However, these farmers face significant challenges, including limited access to affordable inputs, insufficient financing, scarce advisory services, and market information gaps.
 
 The digitization initiative is expected to transform Senegal's agricultural sector, facilitating the swift distribution of subsidies in line with crop calendars and improving the livelihoods of smallholder farmers.
+
+Tarik Dadi Combats Health Insurance Fraud with Qantev Software Tunisian Entrepreneur Safi Negra Digitizes Home Services With Ijeni Platform Insight Terra CEO Alastair Bovim Deploys Data Fusion to Mitigate Industrial Disasters Michael Moyo's Ocular AI Brings Human Expertise to Artificial Intelligence Ghanaian Entrepreneur Alfred Opare Saforo Expands Hybrid Work Through Zuludesk Nigerian Entrepreneur Rukayat Kolawole-Bello Expands Financial Inclusion Through Regxta
+
+KutanaPay Uses AI and Blockchain to Reduce Cross-Border Trade Risks Nairobi Startup Reemio Expands Digital Tools for Kenya's Rental Market Rwandan Startup Check Me Uses AI to Support Breast Cancer Screening Senegalese Fintech Dërêm Expands Access to Capital for Social Enterprises
+
+Kenya Partners with Italy to Advance Digital Transformation
+
+Please publish modules in offcanvas position.

@@ -10,43 +10,16 @@ places: [ZAF]
 topics: [gov.protect, infra.cybersec]
 entities: [[information-regulator-south-africa]]
 lens: [sovereignty]
-body_completeness: excerpt
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: ZAF-2026-07-17
 ---
 
-Sectors
+InfoReg raises alarm as data breaches hit 788 in Q1 | ITWeb Sectors Companies About Subscribe
 
-Companies
+InfoReg raises alarm as data breaches hit 788 in Q1
 
-About
-
-Subscribe
-
-NEWS
-
-INSIGHTS
-
-EVENTS
-
-VIDEOS
-
-Search
-
-- Home
-- /
-- Security
-- /
-- InfoReg raises alarm as data breaches hit 788 in Q1
-
-# InfoReg raises alarm as data breaches hit 788 in Q1
-
-
-By Admire Moyo, ITWeb news editorJohannesburg, 14 Apr 2026
-
-
-Advocate Pansy Tlakula, chairperson of the Information Regulator
-
+By Admire Moyo, ITWeb news editorJohannesburg, 14 Apr 2026Advocate Pansy Tlakula, chairperson of the Information Regulator
 
 South Africa’s Information Regulator has raised concern about the increased number of data breach notifications it is receiving from local organisations.
 
@@ -54,15 +27,11 @@ The watchdog has exclusively told ITWeb that from 1 January to 31 March, it rece
 
 Led by advocate Pansy Tlakula, the Information Regulator is an independent statutory body established under the Protection of Personal Information Act (POPIA) and accountable to the National Assembly.
 
-KNOW MORE
-
 For deeper insights into modern cyber defence strategies, register for ITWeb Security Summit Cape Town 2026 or ITWeb Security Summit 2026 in Johannesburg. These annual gatherings bring together leading local and international experts to discuss the threats, technologies and strategies shaping the future of cyber security.
 
 Its mandate is to monitor and enforce compliance with POPIA and the Promotion of Access to Information Act across both public and private bodies, ensuring the lawful processing of personal information and the protection of individuals’ rights to privacy and access to information.
 
 The regulator also investigates complaints, issues guidance and codes of conduct, and may impose penalties for non-compliance. Its responsibilities have expanded to include oversight of access to information functions previously held by the South African Human Rights Commission.
-
-## Prominent targets
 
 The watchdog’s concerns come after some recent high-profile data breaches were reported in South Africa.
 
@@ -72,11 +41,7 @@ The big-four bank recently notified clients of unauthorised access to parts of i
 
 Earlier, Liberty confirmed that an external party gained access to customer data, including sensitive personal information like names and ID numbers, prompting an investigation and client notifications.
 
-See also
-
-Standard Bank notifies clients of data breach
-
-Insurer Liberty hit by data breach
+See also Standard Bank notifies clients of data breachInsurer Liberty hit by data breach
 
 In a related development, Statistics South Africa also revealed a breach involving its systems, after a hacker group claimed to have accessed data and demanded a ransom. The agency said the incident affected a human resources database used by job-seekers.
 
@@ -95,8 +60,6 @@ Reporting enables the regulator to assess the scope and impact of the breach, en
 It also helps to safeguard affected data subjects by ensuring they are informed of potential risks, such as identity theft or fraud, allowing them to take protective measures.
 
 Ultimately, mandatory notification strengthens oversight, promotes responsible data handling practices, and reinforces public trust in how organisations manage sensitive information.
-
-## Security gaps
 
 Asked why South African organisations are increasingly being targeted, Zondi says: “We have not conducted an analysis to this extent; however, we have picked up through our assessments that the notifications reveal that the responsible parties do not always succeed in securing the integrity and confidentiality of personal information in their possession or under their control.”
 

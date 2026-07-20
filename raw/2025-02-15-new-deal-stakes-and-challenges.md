@@ -6,7 +6,7 @@ publisher: Le Soleil
 published: 2025-02-15
 date_precision: day
 date_source: source
-body_completeness: excerpt
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: SEN-2026-07-17
 places: [SEN]
@@ -15,9 +15,11 @@ entities: [[[new-deal-technologique]]]
 lens: []
 ---
 
-# Programme « new deal technologique » : Enjeux et défis d’une stratégie (1/6)
+Programme « new deal technologique » : Enjeux et défis d'une stratégie (1/6) - Le Soleil Accueil / Accueil » Programme « new deal technologique » : Enjeux et défis d’une stratégie (1/6)
 
-- samedi 15 février 2025
+Programme « new deal technologique » : Enjeux et défis d’une stratégie (1/6)
+
+PARTAGEZ CET ARTICLE SUR LES RÉSEAUX Facebook X LinkedIn WhatsApp Telegram Email
 
 Dans le cadre de la «Vision Sénégal 2050», les nouvelles autorités sénégalaises sont déterminées à mettre le numérique au cœur de la transformation économique et sociale du pays. Si cette ambition reste réaliste, elle fait face néanmoins à un certain nombre d’enjeux et de défis.
 
@@ -29,8 +31,6 @@ Avec le « New Deal technologique », il s’agira surtout de faire face au déf
 
 En effet, l’ambition de bâtir une souveraineté numérique adossée à une sécurité numérique passe, sans doute, par la disponibilité d’une connexion haut débit à moindre coût. Certaines parties du pays restent encore dans une zone grise par rapport à l’accès à l’Internet au moment où la capitale Dakar est sur le point de basculer dans la 5G. Un déséquilibre qu’il va falloir corriger avec le « New Deal technologique ». Celui-ci, au-delà de permettre d’arriver à une digitalisation complète de l’administration publique pour régler définitivement le problème des lenteurs administratives, aidera aussi à aller vers la digitalisation foncière.
 
-### Transformation digitale inclusive
-
 En plus de l’identité numérique unique, l’adressage numérique permettant aux « populations, administrations et entreprises de disposer d’une bonne adresse géo-localisable, de faciliter la navigation des usagers, des organismes assurant des missions de service public tel que l’acheminement des courriers et colis » est également inscrit dans le chapitre des défis auxquels fait face notre pays.
 
 Au Sénégal, le secteur informel qui concentre une bonne partie de la population, n’est pas digitalisé. Ce qui constitue un manque à gagner important pour l’État qui reste, aujourd’hui, déterminé à disposer d’une politique de transformation digitale inclusive.
@@ -41,4 +41,38 @@ La stratégie Sénégal numérique 2025 adoptée fin 2016 n’a pas réussi à a
 
 Toujours par rapport à la Stratégie SN 2025, Oumar Diallo, membre fondateur de SenStartup, patron de Ceo of Orya Technologie, regrette le fait qu’il n’y a pas eu l’équipe qu’il fallait à la tête de cet ambitieux programme. Aujourd’hui, pense-t-il, le Sénégal doit tirer des enseignements sur cette mauvaise expérience, en s’ouvrant aux véritables acteurs du secteur. Aux yeux de l’expert, il faut investir sur les infrastructures (Cloud national, supercalculateur) pour prétendre à une souveraineté numérique. « Pour la première fois, on a la possibilité de mettre en place, au Sénégal, une stratégie qui permet de dominer la sous-région avec la technologie, à travers les meilleures universités, les meilleures startups, les meilleurs techniciens ainsi que les meilleurs avocats en ce qui concerne les levées de fonds… », laisse-t-il entendre.
 
-Ibrahima BA
+XI JINPING : « Le monde doit poursuivre une approche centrée sur l’être humain et développer une IA pour le progrès »
+
+Poste de Directeur général de l’ARTP : un appel à candidature lancé
+
+Fréquences radioélectriques : l’ARTP et l’ANAM resserrent les mailles de la sécurité maritime
+
+Le satellite SMILE : comprendre la coopération spatiale sino-européenne au service de tous
+
+Transformation numérique des parlements : l’expérience sénégalaise saluée
+
+10 juillet 2026 ARTICLES LES + POPULAIRES
+
+LIRE LE JOURNAL DU JOUR NE MANQUEZ RIEN!
+
+Inscrivez-vous à la newsletter du Soleil et recevez directement les actus dans votre boîte mail!
+
+Mame Mor Gaye alias Baay Xalima : Le calligraphe des xassaïdes
+
+17 juillet 2026 ANNONCEURS Votre publicité ici
+
+Vous voulez atteindre une audience ciblée et engagée ? Placez vos bannières publicitaires sur notre site
+
+MON COMPTE S'ABONNER LE KIOSQUE Actualités
+
+Indiquez vos informations Mot de passe perdu ? JE CRÉER MON COMPTE
+
+Votre demande a été transmise avec succès
+
+Nous allons traiter votre demandes dans les meilleurs délais. L’équipe du Journal Le Soleil
+
+Votre demande a été transmise avec succès
+
+Nous allons en prendre connaissance et vous répondre dans les meilleurs délais.
+
+Indiquez vos informations Mot de passe perdu ? JE CRÉER MON COMPTE

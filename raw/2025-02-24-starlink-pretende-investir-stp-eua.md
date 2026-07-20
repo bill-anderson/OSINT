@@ -10,23 +10,53 @@ places: [STP]
 topics: [infra.connect, geopol.usa]
 entities: [[starlink]], [[spacex]]
 lens: [sovereignty]
-body_completeness: excerpt
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: STP-2026-07-17
 ---
 
-Duas empresas norte-americanas pretendem investir em São Tomé e Príncipe nas áreas de tecnologia, sendo uma delas, a empresa "Starlink" que oferece internet de alta velocidade por satélite, criada pela SpaceX, a empresa de exploração espacial do bilionário norte-americano, Elon Musk.
+Empresa “Starlink” de Elon Musk pretende investir em STP trazendo internet de alta qualidade
+
+Partilhar Tweetar Partilhar Email Comentários
+
+Duas empresas norte-americanas pretendem investir em São Tomé e Príncipe nas áreas de tecnologia, sendo uma delas, a empresa “Starlink” que oferece internet de alta velocidade por satélite, criada pela SpaceX, a empresa de exploração espacial do bilionário norte-americano, Elon Musk.
 
 A informação foi avançada pelo Encarregado de Negócios da embaixada dos Estados Unidos de América para Angola e São Tomé e Príncipe, James Story, após o encontro com o Presidente da República, Carlos Vila Nova.
 
-"Obviamente eles precisam de uma licença [então] vamos falando e apoiando eles, mas essa vai dar uma outra oportunidade de ter acesso a internet aqui para o povo de São Tomé e Príncipe, internet de alta qualidade", afirmou o Encarregado dos Negócios dos EUA.
+“Obviamente eles precisam de uma licença [então] vamos falando e apoiando eles, mas essa vai dar uma outra oportunidade de ter acesso a internet aqui para o povo de São Tomé e Príncipe, internet de alta qualidade”, afirmou o Encarregado dos Negócios dos EUA.
 
-"Sempre queremos fazer trabalhos assim, temos algumas empresas que estão a pensar fazer alguns trabalhos aqui em São Tomé e Príncipe, então, começamos esta conversa e vamos ter essas conversas sobre as outras empresas […] obviamente temos outras empresas também, e vamos evoluindo os nossos compromisso e este intercâmbio de ideias", acrescentou.
+“Sempre queremos fazer trabalhos assim, temos algumas empresas que estão a pensar fazer alguns trabalhos aqui em São Tomé e Príncipe, então, começamos esta conversa e vamos ter essas conversas sobre as outras empresas […] obviamente temos outras empresas também, e vamos evoluindo os nossos compromisso e este intercâmbio de ideias”, acrescentou.
 
-No ano passado, o governo americano anunciou o encerramento da estação retransmissora da Voz de América instalada em São Tomé e Príncipe há 32 anos, justificando a decisão com o facto da estação já não estar a cumprir com os objetivos para que foi criada.
+No ano passado, o governo americano anunciou o enceramento da estação retransmissora da Voz de América instalada em São Tomé e Príncipe há 32 anos, justificando a decisão com o facto da estação já não estar a cumprir com os objetivos para que foi criada.
 
-No entanto, o Encarregado dos Negócios dos EUA garantiu que esta decisão não afeta as relações entre os dois países. "Essa é a segunda vez em três semanas que estou aqui [em São Tomé e Príncipe], então, isso mostra o compromisso que nós temos com o povo são-tomense e com o governo, então o fechamento de Voz de América, não é o fechamento da relação, a [nossa] relação está evoluindo para outras coisas", precisou James Story.
+No entanto, Encarregado dos Negócios dos EUA, garantiu que esta decisão não afeta as relações entre os dois países
+
+“Essa é a segunda vez em três semanas que estou aqui [em São Tomé e Príncipe], então, isso mostra o compromisso que nós temos com o povo são-tomense e com o governo, então o fechamento de Voz de América, não é o fechamento da relação, a [nossa] relação está evoluindo para outras coisas”, precisou James Story.
 
 O diplomata reafirmou o compromisso do seu país em continuar a trabalhar e cooperar com São Tomé e Príncipe em diversas áreas para o fortalecimento das relações.
 
-[Nota do sweep: anúncio de intenção de Fev-2025; a Starlink viria a ser efetivamente ativada em STP a 11 de dezembro de 2025 — ver 2025-12-11-starlink-begins-service-stp.md.]
+Incluída em:Destaques - empresas norte-americanas - relações EUA-STP - STP-EUA - tecnologia Publicado por Kemilson D´Almeida Partilhar Tweetar Partilhar Email
+
+Gerciley Guadalupe defende a cibersegurança como prioridade para o futuro de STP
+
+ATENÇÃO: ESTE É UM ESPAÇO PÚBLICO E MODERADO. Não forneça os seus dados pessoais nem utilize linguagem imprópria.
+
+Eleições’26: Site da CEN sofre tentativa de invasão, mas Comissão garante segurança dos dados “sem qualquer suspeita”
+
+Eleições’26: CEN destaca 50% de votação no Príncipe e Lembá, e anuncia anulação em zonas com barricadas
+
+Eleições`26: Missão da União Europeia destaca primeiras horas do dia de voto “sem incidentes”
+
+Eleições’26: Carlos Vila Nova apela ao voto, respeito às instituições e preservação da paz
+
+Eleições’26: Nito d’Abreu apela ao voto em consciência e diz que respeitará resultados se não houver fraude
+
+Eleições`26: Fraca afluência e duas barricadas no sul marcam primeiras horas da votação em São Tomé e Príncipe
+
+Eleições´26: Filipe Nyusi chefia missão de observação eleitoral da União Africana em STP
+
+Mundial´26: Inglaterra vence a França e garante o terceiro lugar no campeonato do mundo
+
+Eleições´26: Governo apela ao civismo e à participação nas eleições presidenciais deste domingo
+
+Eleições’26: CEN desmente boatos e garante que jornalistas poderão divulgar resultados em tempo real

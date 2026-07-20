@@ -6,7 +6,7 @@ publisher: Le Soleil
 published: 2025-02-24
 date_precision: day
 date_source: source
-body_completeness: excerpt
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: SEN-2026-07-17
 places: [SEN]
@@ -15,9 +15,11 @@ entities: [[[new-deal-technologique]]]
 lens: [sovereignty]
 ---
 
-# « Le New Deal est un programme d’incubation et de financement pour accompagner les start-up locales, encourager l’innovation technologique », Bassirou Diomaye Faye
+"Le New Deal est un programme d'incubation et de financement pour accompagner les start-up locales, encourager l'innovation technologique", Bassirou Diomaye Faye - Le Soleil Accueil / Accueil » « Le New Deal est un programme d’incubation et de financement pour accompagner les start-up locales, encourager l’innovation technologique », Bassirou Diomaye Faye
 
-- lundi 24 février 2025
+« Le New Deal est un programme d’incubation et de financement pour accompagner les start-up locales, encourager l’innovation technologique », Bassirou Diomaye Faye
+
+PARTAGEZ CET ARTICLE SUR LES RÉSEAUX Facebook X LinkedIn WhatsApp Telegram Email
 
 18h30 : Fin de la cérémonie de lancement du New Deal technologique
 
@@ -47,8 +49,6 @@ lens: [sovereignty]
 
 15h45 : 2ème panel sur le thème « Startups et innovation: réinventer l’économie »
 
-14h : Pause déjeuner
-
 13h48 : « Il faut qu’on trouve une corrélation directe entre les technologies qu’on veut mettre en place et les besoins auxquels les populations sont confrontées », Alioune Sall, ministre de la Communication, des Télécommunications et du Numérique.
 
 13h13 : « Il faut que les Etats africains puissent comprendre qu’il faut d’abord pouvoir mobiliser les ressources internes pour booster le secteur numérique » clame Ibrahima Kalil Konaté, ministre de la Transition numérique et de la Digitalisation de Côte d’Ivoire.
@@ -65,7 +65,7 @@ lens: [sovereignty]
 
 En marge du lancement du New Deal technologique ce lundi 24 février, il y a eu l’annonce des noms des 20 membres du Conseil national du « New Deal technologique.
 
-Plus d’infos ici 🔗 https://t.co/XwiWUWhr3Y#lesoleilsn#NewDealTechnologique pic.twitter.com/rbvomt77Oc
+Plus d’infos ici 🔗 https://t.co/XwiWUWhr3Y#lesoleilsn #NewDealTechnologique pic.twitter.com/rbvomt77Oc
 
 — La SSPP Le Soleil (@LeSoleilonline) February 24, 2025
 
@@ -96,3 +96,39 @@ Plus d’infos ici 🔗 https://t.co/XwiWUWhr3Y#lesoleilsn#NewDealTechnologique 
 10h59: « Le New Deal technologique a objectif d’assurer la souveraineté numérique pour garantir l’indépendance technologique, la production des données et la résilience des infrastructures stratégiques » Mohamed Diaby? de la Delivery Unit du Bureau opérationnel de suivi (BOS)
 
 Ce lundi, à Diamniadio, le gouvernement du Sénégal lance le New Deal technologique, sa feuille de route pour la transformation numérique. Un événement hautement important dans le programme Sénégal 2050. L’idée de cette initiative est de répondre aux nombreux défis technologiques de l’heure, mais aussi de mener le pays à améliorer l’inclusion numérique et la compétitivité économique. Le Président Basirou Diomaye Faye a pris la parole pour décliner les différentes ambitions du gouvernement à travers ce programme.
+
+XI JINPING : « Le monde doit poursuivre une approche centrée sur l’être humain et développer une IA pour le progrès »
+
+Poste de Directeur général de l’ARTP : un appel à candidature lancé
+
+Fréquences radioélectriques : l’ARTP et l’ANAM resserrent les mailles de la sécurité maritime
+
+Le satellite SMILE : comprendre la coopération spatiale sino-européenne au service de tous
+
+Transformation numérique des parlements : l’expérience sénégalaise saluée
+
+10 juillet 2026 ARTICLES LES + POPULAIRES
+
+LIRE LE JOURNAL DU JOUR NE MANQUEZ RIEN!
+
+Inscrivez-vous à la newsletter du Soleil et recevez directement les actus dans votre boîte mail!
+
+Mame Mor Gaye alias Baay Xalima : Le calligraphe des xassaïdes
+
+17 juillet 2026 ANNONCEURS Votre publicité ici
+
+Vous voulez atteindre une audience ciblée et engagée ? Placez vos bannières publicitaires sur notre site
+
+MON COMPTE S'ABONNER LE KIOSQUE Actualités
+
+Indiquez vos informations Mot de passe perdu ? JE CRÉER MON COMPTE
+
+Votre demande a été transmise avec succès
+
+Nous allons traiter votre demandes dans les meilleurs délais. L’équipe du Journal Le Soleil
+
+Votre demande a été transmise avec succès
+
+Nous allons en prendre connaissance et vous répondre dans les meilleurs délais.
+
+Indiquez vos informations Mot de passe perdu ? JE CRÉER MON COMPTE

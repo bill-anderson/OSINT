@@ -10,26 +10,22 @@ places: [ZAF]
 topics: [infra.cybersec, data.statistics]
 entities: [[statistics-south-africa]]
 lens: [sovereignty]
-body_completeness: excerpt
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: ZAF-2026-07-17
 ---
 
 # Statistics South Africa Hit by Ransomware Attack, Hackers Claim Theft of 450,000 Files
 
-March 30, 2026
+By Central News Reporter, March 30, 2026
 
-March 30, 2026 0 comments
-
-# Statistics South Africa Hit by Ransomware Attack, Hackers Claim Theft of 450,000 Files
-
-PRETORIA – Statistics South Africa (Stats SA), the country’s official statistics agency responsible for producing critical national data such as the census, Consumer Price Index and employment figures, has fallen victim to a ransomware attack, with hackers claiming to have stolen more than 450,000 files containing 154 GB of data.
+PRETORIA – Statistics South Africa (Stats SA), the country's official statistics agency responsible for producing critical national data such as the census, Consumer Price Index and employment figures, has fallen victim to a ransomware attack, with hackers claiming to have stolen more than 450,000 files containing 154 GB of data.
 
 The cybercrime group known as XP95 has taken responsibility for the breach and is demanding a ransom payment of $100,000 (approximately R1.7 million) to prevent the public release of the stolen information. This marks the second major government-related cyber incident in South Africa this month, raising fresh concerns about the security of sensitive public sector data.
 
 ## Details of the Attack
 
-According to the hackers’ announcement on their dark web leak site, they gained access to an unspecified Stats SA server and extracted 453,362 files. The group has published proof of the breach, including samples of the stolen data, as is common in ransomware and data-extortion attacks.
+According to the hackers' announcement on their dark web leak site, they gained access to an unspecified Stats SA server and extracted 453,362 files. The group has published proof of the breach, including samples of the stolen data, as is common in ransomware and data-extortion attacks.
 
 Stats SA has confirmed that its systems were breached but has not yet provided full details on the exact nature of the compromised information. The agency is responsible for highly sensitive national statistics that include household survey data, demographic information, economic indicators and personal details collected during censuses and large-scale surveys.
 
@@ -39,13 +35,13 @@ Authorities are investigating whether any citizen personal information, such as 
 
 XP95 is a relatively new ransomware and cyber-extortion actor that first appeared on the scene in March 2026. Earlier this month, the same group claimed responsibility for breaching the Gauteng Provincial Government, stealing 3.8 terabytes of personal data from millions of residents and offering it for sale for around R420,000.
 
-Unlike traditional ransomware groups that primarily encrypt files and demand payment for decryption keys, XP95 appears focused on data theft and extortion — threatening to leak or sell sensitive information if the ransom is not paid. This “double extortion” tactic has become increasingly common as victims improve their backup systems, making pure encryption less effective.
+Unlike traditional ransomware groups that primarily encrypt files and demand payment for decryption keys, XP95 appears focused on data theft and extortion — threatening to leak or sell sensitive information if the ransom is not paid. This "double extortion" tactic has become increasingly common as victims improve their backup systems, making pure encryption less effective.
 
 ## Impact on National Statistics and Public Trust
 
-Stats SA plays a vital role in South Africa’s democracy and economy. Its data informs government policy, budget decisions, business planning, academic research and international reporting. Any compromise of its systems could affect the reliability and confidentiality of official statistics.
+Stats SA plays a vital role in South Africa's democracy and economy. Its data informs government policy, budget decisions, business planning, academic research and international reporting. Any compromise of its systems could affect the reliability and confidentiality of official statistics.
 
-A successful data leak could expose personal information of survey participants, erode public willingness to participate in future censuses and surveys, and damage confidence in government institutions. South Africa’s next population census is already a major undertaking, and concerns about data security could make citizens less cooperative.
+A successful data leak could expose personal information of survey participants, erode public willingness to participate in future censuses and surveys, and damage confidence in government institutions. South Africa's next population census is already a major undertaking, and concerns about data security could make citizens less cooperative.
 
 The breach also highlights the vulnerability of government departments that hold large volumes of citizen data. With Stats SA handling information from millions of households and businesses, the potential scale of impact is significant.
 
@@ -79,4 +75,4 @@ This latest breach adds urgency to calls for better funding and coordination of 
 
 Collaboration between government, private sector cybersecurity firms and international partners can help South Africa stay ahead of rapidly evolving threats. Regular penetration testing and incident response drills are also vital to minimise damage when attacks do occur.
 
-As the investigation into the Stats SA ransomware attack continues, the public will be watching closely to see how quick
+As the investigation into the Stats SA ransomware attack continues, the public will be watching closely to see how quickly systems are secured and whether any sensitive data appears on the dark web. For now, the message is clear: cyber threats to South Africa's public institutions are real and growing, and strong defences are more important than ever to protect the nation's data and its people.

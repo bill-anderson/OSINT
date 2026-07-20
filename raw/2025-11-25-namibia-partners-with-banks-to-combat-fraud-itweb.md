@@ -12,13 +12,33 @@ entities: [[bank-of-namibia], [cran]]
 lens: []
 retrieved: 2026-07-17
 sweep_batch: NAM-2026-07-17
-body_completeness: excerpt
+body_completeness: full
 ---
 
-# Namibia partners with banks to combat fraud
+Namibia partners with banks to combat fraud | ITWeb Africa AlgeriaEgyptGhanaKenyaMoroccoNigeria South Africa BUSINESS TECHNOLOGY MEDIA FOR AFRICA Subscribe to our daily newsletterSubscribe to our daily newsletter
 
-The Namibian government is partnering with the banking sector to curb financial fraud and cyber-crime. The partnership brings together the Ministry of ICT, the Bank of Namibia and the Bankers Association of Namibia, plus the Namibia Cyber Security Incident Response Team (Nam-CSIRT) and the Financial Industry Cyber Council. It culminated in the inaugural Fraud and Cybersecurity Summit held in Windhoek.
+Namibia partners with banks to combat fraud
 
-MICT acting executive director Linda Aipinge presided. The summit coincided with a central-bank announcement that local banks lost over N$65 million (~US$3.76m — text: $37.59m) between January and October 2025 to fraud.
+By Alfred Shilongo, ContributorJohannesburg, 25 Nov 2025The Namibian government is collaborating with banks to fight financial fraud and the increasing threat of cybercrime.
 
-Aipinge: "A secure digital nation is not an accident. It is built through deliberate action. Even the strongest laws cannot protect us if awareness is not there. Cyber security is everyone's shield... Laws cannot protect us if people are not informed. So together we are building a safer digital Namibia."
+The Namibian government is partnering with the banking sector on measures to curb financial fraud and the scourge of cyber-crime.
+
+The partnership features the Ministry of Information and Communication Technology, the Bank of Namibia and Bankers Association of Namibia.
+
+Other stakeholders include the Namibia Cyber Security Incident Response Team and the Financial Industry Cyber Council.
+
+This alliance has culminated in the inaugural Fraud and Cybersecurity Summit, held in the capital, Windhoek recently.
+
+Linda Aipinge, the ministry acting executive director, presided over the event held on Monday.
+
+The summit coincided with the announcement by the central bank that local banks have lost over N$65 million ($37,59m) between January and October 2025 to fraud.
+
+In her keynote, Aipinge maintained without making the public aware of fraud and cyber security, legislation would be ineffective to combat these scourges.
+
+“A secure digital nation is not an accident. It is built through deliberate action,” she said. “Even the strongest laws cannot protect us if awareness is not there. Cyber security is everyone’s shield.”
+
+She continued: “Laws cannot protect us if people are not informed. So together we are building a safer digital Namibia."
+
+SecurityNamibiaEmma TheofelusCyber securityRead moreSITE SPONSOR
+
+digitalExperience seamless workflow automation with SigniFlow. Simplify, sign, and secure documents effortlessly. Transform your business.

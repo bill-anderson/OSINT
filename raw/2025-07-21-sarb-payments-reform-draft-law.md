@@ -10,34 +10,16 @@ places: [ZAF]
 topics: [dpi.pay, gov.legislate]
 entities: [[sarb]]
 lens: [sovereignty]
-body_completeness: excerpt
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: ZAF-2026-07-17
 ---
 
-News PREMIUM
+Payments reform on the cards as Reserve Bank draws up draft law NewsPREMIUM
 
-# Payments reform on the cards as Reserve Bank draws up draft law
+Payments reform on the cards as Reserve Bank draws up draft law
 
-## The institution is setting its sights on propelling the national payment system into the big-league club of emerging markets
-
-July 21, 2025 at 5:00 am4 min read
-
-Add as a preferred source on Google
-
-Follow on Google News
-
-## Kabelo Khumalo
-
-Deputy Editor
-
-Opens in new window
-
-Opens in new window
-
-Expand
-
-Reserve Bank governor Lesetja Kganyago. Picture: FREDDY MAVUNDA
+The institution is setting its sights on propelling the national payment system into the big-league club of emerging markets
 
 The SA Reserve Bank is working on a draft law to revamp the national payments ecosystem, setting the stage for the biggest payments reforms in a generation and a potential 0.5% in GDP growth.
 
@@ -51,8 +33,6 @@ The Bank is setting its sights on propelling the country’s national payment sy
 
 The Bank said a higher equilibrium implied greater adoption of simple, affordable, secure, faster payments with reduced co-ordination frictions.
 
-Regulatory reforms
-
 Achieving this would require regulatory reforms, such as an activity-based model allowing non-banks to compete in e-money issuance and payment acceptance.
 
 “Widespread adoption has the potential to increase GDP by 0.5% which could particularly benefit less-well-off South Africans.”
@@ -64,8 +44,6 @@ The Bank pointed to India’s Unified Payments Interface (UPI) as one example of
 The paper said the UPI in 2023/24 processed 131-billion transactions, contributing to 80% of the retail payments across India.
 
 Reserve Bank governor Lesetja Kganyago, in the foreword of the report, said specialised teams comprising senior industry representatives had been tasked with designing initial products, focusing on rapid concept development.
-
-‘Inclusive and accessible’
 
 “I am inspired by what is happening globally as central banks take centre stage in shaping the future of payments. It is evident that digital transformation should not be a privilege reserved for a few — it must be inclusive and accessible to all. SA must rise to this challenge, and I firmly believe it can be done,” Kganyago said
 
@@ -83,36 +61,16 @@ The paper provided further insights into the Bank’s thinking on opening up the
 
 “For instance, a pre-funded settlement model will enable direct access to a designated settlement system. Non-banks and banks have been calling for a level playing field, which the Bank will address through an exemption notice, licensing framework and amendments to the forthcoming NPS Bill. Entry to the licensing process will require robust but fair regulation and supervision.”
 
-khumalok@businesslive.co.za
-
-Would you like to comment on this article?Sign up (it's quick and free) or sign in now.
-
-Sign Up Log In
+Would you like to comment on this article? Sign up (it's quick and free) or sign in now.
 
 Please read our Comment Policy before commenting.
 
-## Editor’s Choice
+SOLLY LETSOALO | Transnet is turning the tide at Cape Town port
 
-1
+ARTHUR GOLDSTUCK | How Leo stole our sky under Starlink’s nose
 
-### SIBUSISO BOKVELDT | Why South Africa must reform how government borrows
+TEBOGO KHAAS | It’s not a question of what at Eskom — it’s how
 
-2
+LUNCEDO MTWENTWE | The know-how vacuum that’s crippling towns and cities
 
-### KERUSHUN PILLAY | The death of physical media puts history and journalism at risk
-
-https://www.businessday.co.za/opinion/editorials/2026-07-17-kerushun-pillay-the-death-of-physical-media-puts-history-and-journalism-at-risk/
-
-3
-
-### LAEL BETHLEHEM | Thirty years after the TRC, many victims still await justice
-
-https://www.businessday.co.za/opinion/2026-07-17-lael-bethlehem-thirty-years-after-the-trc-many-victims-still-await-justice/
-
-4
-
-### TARA ROOS | Non-racialism is the destination, not the starting point
-
-5
-
-### LETTERS TO THE EDITOR
+Facebook pageTwitter feedYoutube ChannelRSS feed

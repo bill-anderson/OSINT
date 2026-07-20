@@ -6,7 +6,7 @@ publisher: Tech Africa News
 published: 2026-05-26
 date_precision: day
 date_source: source
-body_completeness: excerpt
+body_completeness: full
 retrieved: 2026-07-17
 sweep_batch: SEN-2026-07-17
 places: [SEN]
@@ -15,10 +15,38 @@ entities: [[[smart-africa]], [[unesco]]]
 lens: []
 ---
 
-# Smart Africa Leads Regional Push for Stronger Data Governance in Francophone Africa
+Smart Africa Leads Regional Push for Stronger Data Governance in Francophone Africa - TechAfrica News Today's Bulletin: July 19, 2026
 
-Tech Africa News - 26 May 2026, by Jennifer Onyeagoro
+Smart Africa Leads Regional Push for Stronger Data Governance in Francophone Africa
 
-Smart Africa held a high-level regional workshop, hosted in Senegal, focused on strengthening data governance across Francophone Africa. The workshop brought together African policymakers, government officials and digital experts to improve institutional capacity around data governance strategies, digital public policy and regulatory collaboration.
+May 26, 2026 2 min read Author: Joyce Onyeagoro
 
-Organised jointly by Smart Africa, UNESCO and Senegal's Ministry of Communication, Telecommunications and Digital Affairs under the SADA/WARDIP project framework, the workshop included participants from Burkina Faso, Cote d'Ivoire, Togo, Mali, Guinea, Guinea-Bissau and Senegal. It aligns with the African Union Data Policy Framework and the Pan-African Data Governance Blueprint developed by Smart Africa, both aimed at supporting trusted digital ecosystems and improving Africa's ability to manage, protect and leverage data.
+The initiative comes as African countries increasingly recognize data as a strategic asset for innovation, economic growth, digital transformation, and national sovereignty.
+
+Smart Africa has reinforced efforts to advance Africa’s digital transformation agenda through a high-level regional workshop focused on strengthening data governance across Francophone Africa.
+
+Held in Senegal, the workshop brought together African policymakers, government officials, and digital experts to improve institutional capacity around data governance strategies, digital public policy, and regulatory collaboration.
+
+The initiative comes as African countries increasingly recognize data as a strategic asset for innovation, economic growth, digital transformation, and national sovereignty. Discussions focused on helping participating states build more harmonized, inclusive, and future-ready data governance frameworks aligned with continental digital priorities.
+
+Organized jointly by Smart Africa, UNESCO, and Senegal’s Ministry of Communication, Telecommunications and Digital Affairs, the workshop was conducted under the SADA/WARDIP project framework.
+
+Participants engaged in interactive sessions and practical exercises designed to deepen understanding of Africa’s evolving vision for data governance, while also exploring international and continental best practices. The program further aimed to strengthen policy-making capabilities and encourage collaborative approaches to implementing data-related reforms across borders.
+
+Government representatives and experts from Burkina Faso, Côte d’Ivoire, Togo, Mali, Guinea, Guinea-Bissau, and Senegal participated in the discussions.
+
+The workshop aligns with broader continental priorities under the African Union Data Policy Framework and the Pan-African Data Governance Blueprint developed by Smart Africa, both of which aim to support trusted digital ecosystems and improve Africa’s ability to manage, protect, and leverage data for sustainable development.
+
+As governments across Africa accelerate digital transformation initiatives, stronger regional cooperation on data governance is increasingly seen as essential for enabling cross-border innovation, digital trade, cybersecurity resilience, and inclusive economic growth.
+
+EP.06 | S2 | Beyond Borders: Minister George on Regulatory Harmonisation, AI and Africa’s Collective…
+
+Ralph Mupita on MTN’s New Frontier: Connectivity, Content, and African AI Ralph Mupita, Group President and CEO, MTN Group
+
+April 9, 2026 4 min read IN CASE YOU MISSED IT #TechTalkThursday
+
+Why Connecting Rural Congo Costs Three Times More Than It Should
+
+July 16, 2026 5 min read #TechTalkThursday
+
+Why Data Refinement Could Define Africa’s AI Future
