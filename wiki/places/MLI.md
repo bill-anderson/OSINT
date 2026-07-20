@@ -27,7 +27,7 @@ penetration 35.1% (2026)**) and a below-average e-government score.
   AI-governance guidelines led by advocacy org **[[niyel]]**, announced at the UN's inaugural Global AI Dialogue
   on Governance — ethical/inclusive AI, stronger data protection, skills, bias mitigation and digital
   sovereignty, complementing national strategies. Source:
-  [[2026-07-09-wearetech-six-francophone-wa-ai-governance-niyel]]. See [[tech.ai]], [[gov.regional]], [[gov.policy]].
+  [[2026-07-09-wearetech-six-francophone-ai-governance-framework]]. See [[tech.ai]], [[gov.regional]], [[gov.policy]].
 - **2026-07-08** — **National digital health portal (sante.gov.ml).** The Ministry of Health launched a national
   digital health platform centralising public-health activities and services (facility geolocation; future
   patient-record tracking), under the **National Digital Health Strategic Plan (PSNSN) 2024–2028** — flagging

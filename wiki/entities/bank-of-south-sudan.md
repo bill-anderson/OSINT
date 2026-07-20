@@ -6,7 +6,7 @@ places: [SSD]
 topics: [dpi.pay, dpi.exchange]
 status: active
 last_reviewed: 2026-07-20
-sources: [[2026-01-30 Can a digital economy exist in South Sudan without reliable DPI], [2025-02-07 South Sudan launches first national instant payment system (NIPS)], [2026-01-20 What is actually functioning as DPI in South Sudan], [2025-02-05-africanenda-boss-nips-announcement], [2025-10-01-eyeradio-boss-ssips-ats-plus-explainer], [2025-10-10-boss-launches-first-electronic-interbank-payment-system]]
+sources: [[2026-01-30 Can a digital economy exist in South Sudan without reliable DPI], [2026-01-20 What is actually functioning as DPI in South Sudan], [2025-02-05-africanenda-boss-nips-announcement], [2025-10-01-eyeradio-boss-ssips-ats-plus-explainer], [2025-10-10-boss-launches-first-electronic-interbank-payment-system]]
 ---
 
 # Bank of South Sudan
@@ -24,8 +24,9 @@ its nascent interbank payments infrastructure.
   **2023 proof-of-concept**. Designed for real-time interoperable P2P/P2B/G2P/P2G
   rails integrating ACH, RTGS and IFT. **No NIPS go-live is documented** as of
   2026-07. See **[[nips-south-sudan]]**, [[dpi.pay]]. Source:
-  [[2025-02-05-africanenda-boss-nips-announcement]]; trade-press account:
-  [[2025-02-07 South Sudan launches first national instant payment system (NIPS)]].
+  [[2025-02-05-africanenda-boss-nips-announcement]]. *(A 2025-02-07 trade-press account
+  reporting this as a launch is referred to in this wiki but is **not held**, as of
+  2026-07-20 — do not cite it.)*
 - **SSIPS launch (2025-10-10).** BoSS launched the **South Sudan Interbank Payment
   and Settlement System (SSIPS)** — the **ATS+** platform combining **RTGS** (high-value,
   real-time) and **ACH** (bulk, batched) on **ISO 20022**, replacing paper-based manual

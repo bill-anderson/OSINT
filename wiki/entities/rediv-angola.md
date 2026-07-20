@@ -20,4 +20,4 @@ Angola's **digital platform for individual, real-time immunisation records** —
 
 ## Related
 
-- [[AGO]] · [[dpi.mis]] · [[dpi.registry]] · [[dhis2]] · [[huawei-angola-health-mou]] · [[ministerio-da-saude-angola]]
+- [[AGO]] · [[dpi.mis]] · [[dpi.registry]] · [[dhis2]] · [[huawei-angola-health-mou]] · Ministerio da Saude (Angola)

@@ -135,7 +135,7 @@ destruction (grid/telecom) and reconstruction, plus inclusion workarounds.
   during the war; framed as "digital sovereignty" and Sudan as a regional digital
   hub. See [[infra.connect]], [[gov.regional]], [[finance.mou]]. Sources:
   [[2026-02-04 Sudatel-Djibouti Telecom-Ethio telecom launch Horizon Fiber cross-border initiative (SUNA)]],
-  [[2026-02-10 Ethio telecom, Djibouti Telecom, Sudatel Seal Binding Deal on Cross-Border Fiber Network]].
+  [[2026-02-10-horizon-fiber-binding-agreement-telecomreviewafrica]].
 - **2026-01-19** — **Gulf/MEA processor enters Sudan.**
   **[[network-international]]** (Dubai) signed a card-processing/**[[mastercard]]**
   deal with **[[saudi-sudanese-bank]]** — external-actor involvement in rebuilding
@@ -272,7 +272,7 @@ destruction (grid/telecom) and reconstruction, plus inclusion workarounds.
 - [[central-bank-of-sudan]] · [[communications-postal-regulatory-authority-sudan]] — financial/telecom regulators
 - [[electronic-banking-services-sudan]] — CBoS's operational arm for e-payments; operator of the national
   payment switch ("switch of switches"). Ownership: CBoS 49%, [[sudatel]] 30%, commercial banks 21%
-- [[al-asjad-smart-digital-solutions]] — payment-switch licensee whose authorisation CBoS revoked (2026-07-04)
+- Al-Asjad Smart Digital Solutions — payment-switch licensee whose authorisation CBoS revoked (2026-07-04)
 - [[ministry-of-finance-sudan]] · [[tax-authority-sudan]] · [[national-investment-authority-sudan]] · [[sudan-customs-authority]] — revenue/e-gov bodies
 - [[ministry-of-health-sudan]] · [[afia-platform-sudan]] · [[world-health-organization]] — health-digital
 - [[ministry-human-resources-social-welfare-sudan]] · [[unified-social-registry-sudan]] — social protection

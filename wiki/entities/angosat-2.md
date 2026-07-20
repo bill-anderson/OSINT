@@ -33,7 +33,7 @@ foreign providers.
   free access plus hands-on VSAT training (June 2026, with [[unitel]], [[africell]], ST Engineering,
   [[airbus]]).
 - **Ilumina Angola** uses ANGOSAT-2 for backhaul on solar-powered shared towers in remote areas
-  (see [[ilumina-angola]]... e.g. Lago Dilolo, Moxico).
+  (e.g. Lago Dilolo, Moxico).
 
 See [[angola--data-satellite]], [[data.satellite]], [[infra.connect]], [[AGO]], [[ggpen]],
 [[conecta-angola]].

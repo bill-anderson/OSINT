@@ -268,8 +268,8 @@ analysis (2025-04-21) · [[un-egdi]] · the **Uganda Data Centre Market Brief 20
 - **Government** — [[nira-uganda]] · [[nita-uganda]] · [[ura-uganda]] · [[bank-of-uganda]] ·
   [[ursb]] · [[mlhud-uganda]] · [[sti-op-uganda]] · [[uganda-communications-commission]] ·
   [[personal-data-protection-office-uganda]] · [[parliament-of-uganda]] · [[cosase-uganda]] ·
-  [[office-of-the-auditor-general-uganda]] · [[ministry-of-internal-affairs-uganda]] ·
-  [[uganda-bureau-of-statistics]] · [[electoral-commission-uganda]]
+  [[office-of-the-auditor-general-uganda]] · Ministry of Internal Affairs (Uganda) ·
+  Uganda Bureau of Statistics · [[electoral-commission-uganda]]
 - **Systems** — [[ndaga-muntu]] · [[ughub]] · [[ugpass]] · [[mvrs-uganda]] · [[sage-uganda]] ·
   [[efris]] · [[eaps]] · [[mosip]] · [[opencrvs]] · [[dhis2]] · [[stdm]]
 - **Instruments** — [[registration-of-persons-act-2015]] · [[uganda-e-gif]] ·

@@ -251,8 +251,8 @@ Centrafricain du Numérique/OCN** under the PM);
 **[[justin-gourna-zacko]]** (Minister of the Digital Economy, Posts and Telecommunications — 7 sources, over the
 page bar; **note: Agence Ecofin names Roger Andjalandji in the post as of 2026-07-16** — the wiki's
 Gourna-Zacko material dates to 2026-02 and earlier); the ministry itself
-([[ministere-economie-numerique-postes-telecommunications-centrafrique]]); **IKOUĒ** ([[ikoue]], Bangui e-learning /
-developer-training start-up, co-founder [[petula-lenguezial]]).
+(Ministère de l'Économie Numérique, des Postes et des Télécommunications); **IKOUĒ** (Bangui e-learning /
+developer-training start-up, co-founder Petula Lenguezial).
 **Statistical resources:** [[datareportal]] · [[kepios]] · [[gsma]] · [[itu]].
 
 ## Notes

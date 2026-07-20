@@ -95,7 +95,7 @@ principle.
 - **Biometric voter registration (2025 election).** A nationwide biometric enrolment (2 Jan → 31 Jan 2025) added
   **~300,000 voters** to the **850,000** existing register ahead of the **12 April 2025** presidential vote,
   keyed on the NIP. Sources: [[2025-01-15-gabon-biometric-voter-registration-underway]],
-  [[2025-01-31-gabon-biometric-voter-register-integrity]].
+  [[2025-01-31-cameroon-gabon-uganda-biometric-voter-registers-integrity-biometricupdate]].
 - **Land registry — "Un Gabonais, un titre foncier."** ANUTTC signed **~1,200 cession decisions in 2025**, but
   ~3,000 people owe **~14bn FCFA** in arrears; a parallel **cadastre-digitalisation** drive aims to formalise
   untitled land (unlocking credit and cutting disputes). Sources:

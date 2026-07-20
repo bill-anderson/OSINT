@@ -25,7 +25,7 @@ implementation roadmap is scoped under the [[world-bank]]
   services**. See [[dpi.id]], [[dpi.exchange]], [[dpi.pay]]. Source:
   [[2025-01-01 ToR - Government in Your Hand Digital Government Implementation Roadmap (Digital Eswatini)]].
 - **App launched 2025-05-21 at Ezulwini.** [[savannah-maziya]] unveiled the **GIYH mobile
-  app** alongside the [[eswatini-revenue-service]]'s **TaxPal** app, with Finance Minister
+  app** alongside the Eswatini Revenue Service's **TaxPal** app, with Finance Minister
   **Neal Rijkenberg** and ERS Commissioner General **Brightwell Nkambule** in attendance.
   Launch-day services: check the status of IDs, passports and travel documents; register a
   business name; **pay vehicle licences via Mobile Money**; access educational-financing

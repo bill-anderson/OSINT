@@ -226,7 +226,7 @@ a [[rita-tanzania]] questionnaire of December 2018) · [[un-egdi]].
   [[fsdt]] · [[gates-foundation]] · [[rswitch-rwanda]] · [[eac-cross-border-payment-masterplan]]
 - [[micit-tanzania]] · [[tcra]] · [[ega-tanzania]] · [[napa-tanzania]] ·
   [[tanzania-e-government-strategy-2022]] · [[tanzania-digital-economy-framework]] ·
-  [[jamii-x-change]] · [[jamii-kadi]] · [[jamii-malipo]] · [[jamii-portal]] ·
+  [[jamii-x-change]] · Jamii Kadi · Jamii Malipo · Jamii Portal ·
   [[digital-tanzania-project]]
 - [[tanzania-posts-corporation]] · [[papu]] · [[upu]] · [[upu-s42]] · [[tspar]]
 - [[wingu-africa]] · [[anton-volianskyi]] · [[helios-towers]] · [[starlink]] · [[spacex]] ·

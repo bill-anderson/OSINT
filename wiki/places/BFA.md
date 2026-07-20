@@ -62,7 +62,7 @@ supervision centre for critical digital infrastructure.
   the AES biometric card (President Tiani first enrollee), after Burkina (Traoré first) — confirming the
   **[[cib-aes]]** is a **bloc-wide credential** with cross-border chip verification and passport-free AES
   travel; Burkina also ran a **diaspora enrolment pilot in Bamako**. Sources:
-  [[2026-03-30-niger-biometric-id-aes-sahel-sovereignty]], [[2026-04-21-niger-rollout-biometric-ids-aes-connectingafrica]].
+  [[2026-03-30 Focus on Sahel digital sovereignty gets clearer with Niger's new biometric ID card]], [[2026-04-21-niger-rollout-biometric-ids-aes-connectingafrica]].
   → [[burkina-faso--dpi-id]].
 - **2026-01→02 — CRVS + social registry deepen; WURI still live post-ECOWAS.** [[dpi.registry]] The SNEC
   civil-registration strategy hit **64.11%** execution (2024; 3.39m acts, 54 communes); **121,000** acts

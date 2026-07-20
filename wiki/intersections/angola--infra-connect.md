@@ -17,7 +17,7 @@ sources: [[2023-05-17-minttics-matias-borges-22000km-rede-fibra-optica-terrestre
 Angola's connectivity build in 2025–26 is a **sovereignty-framed replacement of a legacy Atlantic
 stack**: the incumbent subsea cables are ageing out just as the government pursues an independent
 international route, a mobile-led market of ~28m subscribers, and a multi-orbit satellite layer for
-the rural last mile. The unifying claim, repeated by [[minttics]], is **digital sovereignty** — a
+the rural last mile. The unifying claim, repeated by [[ministerio-das-telecomunicacoes-tecnologias-de-informacao-e-comunicacao-social-angola|MINTTICS]], is **digital sovereignty** — a
 stable international route "under national jurisdiction."
 
 ## Subsea — out with SAT-3, in with 2Africa and Equiano

@@ -63,7 +63,7 @@ Cloud region.
 - **Angola's route into Equiano — SARSSy and the Lobito Corridor (2026).** Angola reaches Equiano
   indirectly: the **[[sarssy]]** system interconnects with Equiano via **[[telecom-namibia]]**'s
   **Swakopmund** landing station, giving **[[angola-telecom]]** an **initial 1.0 Tbps** of dedicated
-  Equiano capacity (MSA signed 12 June 2026). Separately, **[[minttics]]** is planning a **domestic
+  Equiano capacity (MSA signed 12 June 2026). Separately, **[[ministerio-das-telecomunicacoes-tecnologias-de-informacao-e-comunicacao-social-angola|MINTTICS]]** is planning a **domestic
   submarine cable** to link the **Lobito Corridor** coast to Equiano (2026-03). See
   [[angola--infra-connect]], [[AGO]]. Sources:
   [[2026-06-15-telecom-namibia-angola-telecom-satcab-sarssy-1tbps]],

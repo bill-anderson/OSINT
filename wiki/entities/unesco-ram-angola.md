@@ -15,10 +15,10 @@ The **Angola country application of UNESCO's Readiness Assessment Methodology (R
 
 ## Profile
 
-- **Final report presented 2026-06-30.** Headline: Angola **>83% ready** for ethical/responsible AI. Disaggregated: **50.9% effectively ready, 32.7% partially, 16% not ready** (consultant Vicente Lopes; coordinator Hecdiantro Mena). A six-month study by **[[minttics]]**' National Directorate for Cybersecurity Policy and Digital Services, with UNESCO support, assessing legal/regulatory, social/cultural, economic, scientific/educational and technological/infrastructural dimensions.
+- **Final report presented 2026-06-30.** Headline: Angola **>83% ready** for ethical/responsible AI. Disaggregated: **50.9% effectively ready, 32.7% partially, 16% not ready** (consultant Vicente Lopes; coordinator Hecdiantro Mena). A six-month study by **[[ministerio-das-telecomunicacoes-tecnologias-de-informacao-e-comunicacao-social-angola|MINTTICS]]**' National Directorate for Cybersecurity Policy and Digital Services, with UNESCO support, assessing legal/regulatory, social/cultural, economic, scientific/educational and technological/infrastructural dimensions.
 - **What it flags.** Strengths in infrastructure (cited ~**28,000 km of fibre**, satellite, data centres) and in existing legislation (notably the [[angola-data-protection-law-22-11]] revision, which is adding AI-related elements). **Gaps**: human capital, interministerial/intersectoral coordination, a national AI directory instrument, and below-target STEM capacity.
 - **Feeds the strategy.** MINTTICS confirmed (FNIA 2nd edition, 2026-07-13) that the RAM output will inform the **[[angola-national-ai-strategy]]**. See [[tech.ai]], [[angola-national-ai-strategy]], [[AGO]]. Sources: [[2026-06-30-angola-preparada-83-por-cento-uso-etico-de-ia-ram-unesco]], [[2026-07-13-ia-instrumento-para-acelerar-desenvolvimento-fnia26]].
 
 ## Related
 
-- [[AGO]] · [[angola-national-ai-strategy]] · [[unesco]] · [[tech.ai]] · [[gov.policy]] · [[gov.standards]]
+- [[AGO]] · [[angola-national-ai-strategy]] · UNESCO · [[tech.ai]] · [[gov.policy]] · [[gov.standards]]

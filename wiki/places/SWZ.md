@@ -81,7 +81,7 @@ The rails exist; usage lags them.
   [[gov.protect]], [[infra.cybersec]], [[eswatini--dpi-govtech]]. Source:
   [[2025-07-04-biometricupdate-eswatini-giyh-privacy-criticism]].
 - **2025-05-21** — **GIYH and TaxPal launched at Ezulwini.** [[savannah-maziya]] unveiled the
-  **[[government-in-your-hand]]** app with the [[eswatini-revenue-service]]'s **TaxPal**: ID/passport
+  **[[government-in-your-hand]]** app with the Eswatini Revenue Service's **TaxPal**: ID/passport
   status, business-name registration, **vehicle licences via Mobile Money**, educational-financing
   information; login by **national ID + SMS OTP**; new services promised every six months. **Over
   2,000 downloads by 2025-06-11.** See [[dpi.govtech]], [[dpi.pay]]. Source:

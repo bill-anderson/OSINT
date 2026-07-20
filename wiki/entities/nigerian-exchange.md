@@ -17,8 +17,8 @@ participation** in Nigerian capital markets through its *Domestic & Foreign Port
 
 ## As a data source
 
-The **Domestic & Foreign Portfolio Investment Report**, prepared monthly by **[[ngx-regulation|NGX
-Regulation Limited]]** from returns polled from 100% of Active Trading Licence Holders, is the underlying
+The **Domestic & Foreign Portfolio Investment Report**, prepared monthly by **NGX
+Regulation Limited** from returns polled from 100% of Active Trading Licence Holders, is the underlying
 series behind the retail-investing figures the wiki holds. The **May 2026 edition is now held directly**
 (as at 2026-05-31), so the figures below rest on the primary rather than trade-press accounts of it.
 

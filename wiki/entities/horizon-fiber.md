@@ -7,7 +7,7 @@ topics: [infra.connect, gov.regional, finance.mou]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-18
-sources: [[2026-02-04 Sudatel-Djibouti Telecom-Ethio telecom launch Horizon Fiber cross-border initiative (SUNA)], [2026-02-10 Ethio telecom, Djibouti Telecom, Sudatel Seal Binding Deal on Cross-Border Fiber Network]]
+sources: [[2026-02-04 Sudatel-Djibouti Telecom-Ethio telecom launch Horizon Fiber cross-border initiative (SUNA)], [2026-02-10-horizon-fiber-binding-agreement-telecomreviewafrica]]
 ---
 
 # Horizon Fiber
@@ -31,7 +31,7 @@ give Sudan a role as a regional digital hub. Partners: **[[sudatel]]**,
   redundancy through route diversification and cut latency for hyperscalers.
   See [[infra.connect]], [[gov.regional]], [[finance.mou]]. Sources:
   [[2026-02-04 Sudatel-Djibouti Telecom-Ethio telecom launch Horizon Fiber cross-border initiative (SUNA)]],
-  [[2026-02-10 Ethio telecom, Djibouti Telecom, Sudatel Seal Binding Deal on Cross-Border Fiber Network]].
+  [[2026-02-10-horizon-fiber-binding-agreement-telecomreviewafrica]].
 - **Wartime build.** Sudatel says it laid **~2,700 km of new fibre** during the
   war, framing Horizon as an extension of long-running regional interconnection
   (including routes toward Chad and Ethiopia).

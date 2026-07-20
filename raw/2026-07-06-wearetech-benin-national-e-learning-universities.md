@@ -11,7 +11,7 @@ retrieved: 2026-07-17
 sweep_batch: BEN-2026-07-17
 places: [BEN]
 topics: [dpi.mis, capacity.training, include.access, include.divides, dpi.govtech]
-entities: [[unesco]]
+entities: UNESCO
 ---
 
 # Benin Expands Higher Education Access Through E-Learning Strategy

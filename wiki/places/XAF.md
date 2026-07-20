@@ -119,7 +119,7 @@ rule, is all `XAF` children except `XNA`; `XGL` is for non-Africa-specific/globa
   **Malabo-Convention ratification lag**, cross-border-transfer friction, and **no continental "adequacy"
   standard**. Sources: [[2026-03-19-data-protection-africas-default-ai-policy-tool]],
   [[2026-05-08-africas-data-worth-400bn-giving-it-away]], [[2026-04-21-au-protocol-digital-trade-boost-dpi-afcfta]],
-  [[2026-05-26-smart-africa-data-governance-francophone]], [[2025-02-27-africas-blueprint-secure-digital-future-qa]].
+  [[2026-05-26-techafricanews-smart-africa-data-governance]], [[2025-02-27-africas-blueprint-secure-digital-future-qa]].
   See [[gov.protect]], [[gov.policy]], [[tech.ai]], [[gov.regional]].
 - **2025-11 → 2026-05** — **Continental cross-border-DPI initiatives crystallise.** Two flagship, explicitly
   **African-led** shared-rail efforts moved from declaration to pilot: **[[adapt]]** (Africa Digital Access &
@@ -147,7 +147,7 @@ rule, is all `XAF` children except `XNA`; `XGL` is for non-Africa-specific/globa
   platform (launched **30 Sept 2025**, mandatory connection, one link covering all 8 **[[waemu]]** states,
   **A2A settlement <5 seconds, free**, replacing 48h/12,000-CFA transfers), alongside a mandatory **CAF-STI/SSI
   cyber-certification** ([[gim-uemoa]]); and the **[[eac]]–[[igad]] [[eardip|EARDIP]]** workshop (9 states,
-  World Bank) harmonising payment frameworks. Sources: [[2026-07-09-beac-joins-papss-central-africa]],
+  World Bank) harmonising payment frameworks. Sources: [[2026-07-09-beac-joins-papss-cross-border-payments-cemac-techafricanews]],
   [[2025-10-10-comesa-digital-retail-payments-platform]], [[2026-07-14-waemu-unified-fintech-market]],
   [[2025-07-09-eac-igad-seamless-digital-payments]]. See [[dpi.pay]], [[gov.regional]], [[finance.new]].
 - **2026-07-13** — **ITU–ICPC submarine-cable Advisory Body publishes final report.** The

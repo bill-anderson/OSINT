@@ -536,7 +536,7 @@ See [[dpi.registry]].
   [[article-19]] · [[bank-of-uganda]] · [[ura-uganda]] · [[sage-uganda]] · [[efris]] ·
   [[mvrs-uganda]] · [[ursb]] · [[nick-opiyo]] · [[acme-uganda]] · [[asamo-hellen-grace]] ·
   [[cosase-uganda]] · [[parliament-of-uganda]] · [[office-of-the-auditor-general-uganda]] ·
-  [[ministry-of-internal-affairs-uganda]] · [[uganda-bureau-of-statistics]] · [[medard-sseggona]] ·
+  Ministry of Internal Affairs (Uganda) · Uganda Bureau of Statistics · [[medard-sseggona]] ·
   [[chrgj]] · [[heapi]]
 - Mentioned, not hubbed: Gen. David Muhoozi; Fred Balaba, Ben Anyama; Technoforte, Entrust, Hyf,
   Muehlbauer High Tech International, BixeLab; ARTICLE 19 experts Prof. Tom Fisher, Dr Reetika

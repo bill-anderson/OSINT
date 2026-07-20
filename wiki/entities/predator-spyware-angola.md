@@ -12,7 +12,7 @@ sources: [[2026-02-26-sinse-adquiriu-spyware-predator-para-espiar-jornalista]]
 
 # Angola–Intellexa Predator spyware procurement
 
-The Angolan state's acquisition of **Predator**, the highly invasive mobile spyware built and sold by the mercenary-surveillance consortium **[[intellexa]]** — the first such procurement **forensically confirmed** to have been used inside Angola.
+The Angolan state's acquisition of **Predator**, the highly invasive mobile spyware built and sold by the mercenary-surveillance consortium **Intellexa** — the first such procurement **forensically confirmed** to have been used inside Angola.
 
 ## Profile
 

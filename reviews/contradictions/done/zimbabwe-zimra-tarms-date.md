@@ -53,7 +53,7 @@ Applied to `wiki/entities/zimra.md`, `wiki/entities/tarms-zimbabwe.md`,
 `raw/2025-01-01 ZIMRA Taxpayer Registration.md` → `2026-01-01` prefix, set
 `published: 2026-01-01`, `date_precision: month` (keep `date_source: proxy` — the date is
 bracketed, not published), strike the "DATE COULD NOT BE ESTABLISHED" note, and rewire the
-five `[[2025-01-01 ZIMRA Taxpayer Registration]]` links.
+five `2025-01-01 ZIMRA Taxpayer Registration` links.
 
 **Transferable lesson:** the ID-bracketing method works, and *anchor distance* is the
 variable that decides whether it yields a year or a fortnight. Worth trying on any other

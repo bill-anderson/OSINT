@@ -37,4 +37,4 @@ It is the operational front of the third phase of BI universalisation (BI at bir
 
 Place: [[AGO]] · Concepts: [[dpi.registry]] · [[dpi.id]] · [[include.access]] · Bodies:
 [[ministerio-da-justica-e-dos-direitos-humanos-angola]] · Partners: [[unicef]] ·
-[[uniao-europeia]] · Instrument: [[bilhete-de-identidade-angola]]
+[[european-union|Uniao Europeia]] · Instrument: [[bilhete-de-identidade-angola]]

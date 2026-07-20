@@ -34,6 +34,6 @@ Source (all): [[2026-04-06-projecto-njila-reabilita-postos-de-registo-bie-huambo
 ## Links
 
 Place: [[AGO]] · Concepts: [[dpi.registry]] · [[digital.localgov]] · [[digital.rural]] ·
-Funder: [[banco-mundial]] · Bodies: [[ministerio-da-administracao-do-territorio-angola]] ·
+Funder: [[world-bank|Banco Mundial]] · Bodies: [[ministerio-da-administracao-do-territorio-angola]] ·
 [[ministerio-da-justica-e-dos-direitos-humanos-angola]] · Instrument:
 [[bilhete-de-identidade-angola]]

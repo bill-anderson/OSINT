@@ -7,7 +7,7 @@ topics: [tech.ai, gov.policy, gov.regional]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-18
-sources: [[2026-07-09-wearetech-six-francophone-wa-ai-governance-niyel]]
+sources: [[2026-07-09-wearetech-six-francophone-ai-governance-framework]]
 ---
 
 # Niyel
@@ -28,7 +28,7 @@ for Francophone West Africa**.
   uncontrolled adoption of externally-developed AI could deepen technological dependence. It is
   **[[MLI|Mali]]'s first substantive continental AI-governance commitment**. See [[tech.ai]],
   [[gov.regional]], [[XWA]], [[sovereignty]]. Source:
-  [[2026-07-09-wearetech-six-francophone-wa-ai-governance-niyel]].
+  [[2026-07-09-wearetech-six-francophone-ai-governance-framework]].
 
 ## Related
 - [[tech.ai]] · [[gov.regional]] · [[XWA]] · [[MLI]] · [[BFA]] · [[NER]] · [[SEN]] · [[CIV]] ·

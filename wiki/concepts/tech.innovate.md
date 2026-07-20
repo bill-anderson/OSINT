@@ -19,13 +19,13 @@ economic activity — the layer beyond hardware.
 
 - **Diaspora founders and the "African tech" boundary problem (2026-07-17, profiles).** Two
   wearetech.africa/TechCabal profiles this week illustrate how loosely the category travels.
-  **[[qantev]]** — founded 2018 by Moroccan **[[tarik-dadi]]**, based in France, ex-[[axa]] data
+  **Qantev** — founded 2018 by Moroccan **Tarik Dadi**, based in France, ex-AXA data
   scientist — sells claims-automation and fraud-detection software to **20+ health and life insurers
   across Asia, Europe, the Middle East and the Americas**; its technology extracts and structures data
   from medical documents, including handwritten notes, and flags anomalies. **Note the tag honestly:
   Qantev has no disclosed African operations or customers** — the [[MAR]] link is the founder's
-  nationality alone. Separately, **[[helina-bischoff]]** (Deputy Managing Partner,
-  **[[africa-collective]]**, which also runs the **[[swiss-african-business-circle]]**) describes
+  nationality alone. Separately, **Helina Bischoff** (Deputy Managing Partner,
+  **Africa Collective**, which also runs the **Swiss-African Business Circle**) describes
   convening Africa-focused platforms at Davos and Geneva, and reports changing her mind on one point
   worth logging: she now sees African tech less as an end in itself than as **"an enabler of lower-tech
   businesses"** and as built for export, not only local markets. Both are captured as **entity profiles,

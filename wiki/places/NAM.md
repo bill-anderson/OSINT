@@ -59,7 +59,7 @@ last_reviewed: 2026-07-19
   to Angola Telecom; the **SARSSy MSA was signed 12 Jun 2026**). Deal: [[telecom-namibia-angola-deals]]. See
   [[infra.connect]], [[infra.capacity]], [[AGO]]. Sources:
   [[2026-06-15 Telecom Namibia signs more satellite, subsea connectivity deals with Angola firms]],
-  [[2026-06-15-telecom-namibia-angola-satcab-sarssy-1tbps-techafricanews]].
+  [[2026-06-15-telecom-namibia-angola-telecom-satcab-sarssy-1tbps]].
 - **2026-06-15** — ICT minister **[[emma-theofelus]]**, visiting Angola's new **sovereign
   national data centre** (Luanda), drew inspiration for Namibia's own planned sovereign
   datacentre (a pillar of the 2025–2029 digital strategy; no dates set). Source:

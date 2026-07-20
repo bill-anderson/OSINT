@@ -21,7 +21,7 @@ the civil-identity strand.
 
 - The Executive set a target to **legalise 40,000 properties by end-2026**, via a new
   **digital platform** built in partnership with the tax authority
-  (**[[administracao-geral-tributaria-angola|AGT]]**) that links **IGCA, AGT, the
+  (**[[agt-angola|AGT]]**) that links **IGCA, AGT, the
   *cadastro matricial* and the Conservatória do Registo Predial** (property registry). The
   aim: cut duplication, speed up sale/registration acts, and support mortgage access.
   Spokesperson: Paulo Tecas. Source:
@@ -33,4 +33,4 @@ the civil-identity strand.
 ## Links
 
 Place: [[AGO]] · Concepts: [[dpi.registry]] · [[dpi.exchange]] · [[dpi.govtech]] · Related:
-[[administracao-geral-tributaria-angola]]
+[[agt-angola]]

@@ -61,7 +61,7 @@ held.* Source: [[2023-11-07-worldbank-dtfa-wardip-sop1-pad4756]].
   [[include.access]]. Benin-specific targets from the Board release: **5.2m** people to new/enhanced
   broadband, **5.4m** new digital-service users, **9,000** trained and **140+** startups supported.
   Sources: [[2026-03-16 New $137M initiative to enable digital service access for millions in three ECOWAS nations]],
-  [[2026-03-13-techafricanews-world-bank-wardip2-137m]], [[2026-03-16-biometricupdate-wardip2-137m-ecowas]].
+  [[2026-03-13-techafricanews-world-bank-wardip2-137m]], [[2026-03-16 New $137M initiative to enable digital service access for millions in three ECOWAS nations]].
 - **Liberia WARDIP2 financing signed — $50M (2026-06-08).** [[LBR]] Liberia and the World Bank signed
   three financing agreements worth **US$125m** at the Mount Coffee Hydropower Complex, of which
   **US$50m** is WARDIP2: expanding broadband and digital connectivity, strengthening cybersecurity and

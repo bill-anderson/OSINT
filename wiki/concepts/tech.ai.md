@@ -307,7 +307,7 @@ converge.
   technological dependence. A **sub-regional** counterpart to the AU push above, and **[[MLI|Mali]]'s
   first substantive continental AI-governance commitment**. See [[gov.regional]], [[gov.policy]],
   [[XWA]], [[sovereignty]]. Source:
-  [[2026-07-09-wearetech-six-francophone-wa-ai-governance-niyel]].
+  [[2026-07-09-wearetech-six-francophone-ai-governance-framework]].
 - **The US–China AI-diffusion contest reaches Africa (2026-03).** Two moves cast Africa as a stack
   battleground. Washington launched **[[tech-corps]]** (Kratsios, India AI Impact Summit) — thousands
   of US technical volunteers offering "last-mile" deployment of American AI in partner-nation
@@ -483,7 +483,7 @@ This topic is mostly continental (the sovereignty debate, the partnership scramb
 - [[2026-07-08 China funds Namibia digital infrastructure]]
 - [[2026-07-08 The UN Scientific Panel on AI's Preliminary Report Does Not Establish Its Independence]]
 - [[2026-07-09 African Union pushes for unified African voice at Global AI Governance Dialogue]]
-- [[2026-07-09-wearetech-six-francophone-wa-ai-governance-niyel]]
+- [[2026-07-09-wearetech-six-francophone-ai-governance-framework]]
 - [[2026-07-09 ITU's Partner2Connect crosses $100 billion in global connectivity pledges]]
 - [[2026-07-09 Seacom plans 25,000km subsea cable from France to Singapore and South Africa]]
 - [[2026-07-10 Can the United Nations Bring the World Together on AI]]

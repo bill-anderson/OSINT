@@ -15,7 +15,7 @@ sources: [[2017-01-16-nj-chineses-apoiam-angola-emissao-bi-registo-nascimento], 
 Angola's justice ministry, the authority over civil identification and registration —
 issuer of the **[[bilhete-de-identidade-angola|BI]]**, custodian of the civil-registry
 and criminal-record systems, and lead body on the BI universalisation drive. Minister
-(2026): **[[marcy-lopes|Marcy Lopes]]**. Its identification arm is the **Direcção Nacional
+(2026): **Marcy Lopes**. Its identification arm is the **Direcção Nacional
 de Identificação, Registos e Notariado (DNIRN)**.
 
 ## Activity in this wiki

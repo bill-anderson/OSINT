@@ -19,7 +19,7 @@ Africa's emerging data-centre operators.
 
 ## Key material
 
-- **[[truecaller]] — a caller-ID platform's numbers, and why they are logged here (2026-07-17).** Q2
+- **Truecaller — a caller-ID platform's numbers, and why they are logged here (2026-07-17).** Q2
   2026 (quarter to June): net sales **SEK 393.2m**, down **21%** y/y (−14% constant currency); advertising
   revenue **−34%**; subscriptions **+41%** and Truecaller for Business **+8%** (constant currencies), taking
   recurring revenue to **49% of net sales** (from 33%). EBITDA ex-incentives **−50%** to SEK 105.8m (26.9%

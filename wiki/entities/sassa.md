@@ -90,7 +90,7 @@ unpaid. They are the same system viewed from either end.
   across 432 local offices** ([[themba-matlou]], 2025-09-17,
   [[2025-09-18-sassa-beneficiaries-take-up-biometric-enrolment-campaign]]).
 - **Cost and funding.** Treasury's **2025 ENE** puts the project at **R105m over three years**, with
-  **no additional allocation** — funded from savings on the terminated **[[postbank]]** Master
+  **no additional allocation** — funded from savings on the terminated **Postbank** Master
   Service Agreement (CFO **Tsakeriwa Chauke**), also covering contract staff, document digitisation,
   office infrastructure and cyber-security. Source:
   [[2025-08-28-sassa-biometric-enrolment-new-beneficiaries-portfolio-committee]].

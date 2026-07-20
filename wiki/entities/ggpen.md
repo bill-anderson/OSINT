@@ -12,7 +12,7 @@ sources: [[2025-12-23-angola-launches-commercial-access-to-angosat-2], [2026-06-
 
 # GGPEN — Gabinete de Gestão do Programa Espacial Nacional
 
-Angola's **National Space Programme Management Office**, under **[[minttics]]**, run by
+Angola's **National Space Programme Management Office**, under **[[ministerio-das-telecomunicacoes-tecnologias-de-informacao-e-comunicacao-social-angola|MINTTICS]]**, run by
 Director-General **Zolana João**. GGPEN is the institutional owner of Angola's space stack: it
 operates **[[angosat-2]]** (from the Satellite Control and Mission Centre, MCC, in **Funda**), runs
 the **[[conecta-angola]]** connectivity programme, is client-side lead on the **[[angeo-1]]**

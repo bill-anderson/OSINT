@@ -66,7 +66,7 @@ presidential coordinating body, and enabling legislation — plus a cross-border
   Kenya and Morocco** as the first **ADAPT** (Africa Digital Access & Public Infrastructure for
   Trade) pilots — shared cross-border rails for identity, payments and trusted data exchange
   (launched Nov 2025; IOTA Foundation a partner). See [[gov.regional]]. Source:
-  [[2026-05-26-afcfta-adapt-nigeria-kenya-morocco-dpi]].
+  [[2026-05-26-nigeria-kenya-morocco-afcfta-adapt]].
 
 ## Reads
 
@@ -92,4 +92,4 @@ Intersections: [[nigeria--dpi-id]] · [[nigeria--gov-protect]] · Entities: [[ni
 - [[2025-05-28-presidential-committee-dpi-implementation]]
 - [[2026-03-27-nitda-takes-over-ngea-koica]]
 - [[2025-11-10-digital-economy-egovernance-bill-nitda]]
-- [[2026-05-26-afcfta-adapt-nigeria-kenya-morocco-dpi]]
+- [[2026-05-26-nigeria-kenya-morocco-afcfta-adapt]]

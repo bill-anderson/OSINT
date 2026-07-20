@@ -37,7 +37,7 @@ its regional markets. Deputy CEO, COO and co-founder: **Demos Kyriacou**.
   cloud/content-acceleration foundation), and it opened a **second Djibouti site** (integrated cable landing +
   data centre; 12 operational subsea cables; AMS-IX Djibouti IX). CEO Anthony Voscarides framed it as "an
   investment in Africa's digital independence." Source:
-  [[2025-06-06-wingu-africa-secures-60m-east-africa-connectingafrica]].
+  [[2025-06-06-wingu-60m-east-africa-expansion-connectingafrica]].
 - **Horn-of-Africa hub footprint (2026-01).** Wingu's Djibouti technology park is cited among
   the infrastructure anchoring the Horn's rise as a set of "digital powerhouses" — the
   city-state's carrier-neutral Tier-3 ecosystem (12 subsea landings, 65% penetration, the

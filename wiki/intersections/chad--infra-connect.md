@@ -9,7 +9,7 @@ entities: [[pmice], [sotel-tchad], [airtel-chad], [moov-africa-chad], [arcep-cha
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-20
-sources: [[2020-05-08-ciomag-tchad-pret-eximbank-chine-tic], [2020-07-08-magazinedelafrique-tchad-lancement-pmice-financement-chine], [2025-01-10-agenceecofin-tchad-centre-donnees-national-finalisation], [2025-10-22-toumaiwebmedias-ratification-ordonnance-011-pr-2025-communications-electroniques], [2025-03-19-starlink-license-chad-launch-niger], [2025-07-05-tchadinfos-starlink-services-disponibles], [2025-09-29-digitalbusiness-starlink-fai-vers-operateur-telecom], [2025-09-02-afriqueitnews-operateurs-connecter-fibre-nationale], [2026-02-09-connectingafrica-fibre-ndjamena-mbere-cameroun], [2026-05-21-digitalbusiness-tchadix-ixp-un-an], [2026-06-02-salaminfo-banque-mondiale-routes-virtuelles-patn], [2026-06-19-techafricanews-arcep-plateformes-regulation-strategiques], [2026-06-26-connectingafrica-telcos-network-upgrades-airtel-moov], [2025-02-12-coupure-internet-lac-internet-society], [2025-12-16-tchadinfos-atelier-cartographie-fibre-artac-uit], [2026-01-11-tchadinfos-dts-degradations-site-bol], [2025-03-07-trans-saharan-fiber-project-delays], [2025-03-03-datareportal-digital-2025-chad], [2025-11-08-datareportal-digital-2026-chad]]
+sources: [[2020-05-08-ciomag-tchad-pret-eximbank-chine-tic], [2020-07-08-magazinedelafrique-tchad-lancement-pmice-financement-chine], [2025-01-10-agenceecofin-tchad-centre-donnees-national-finalisation], [2025-10-22-toumaiwebmedias-ratification-ordonnance-011-pr-2025-communications-electroniques], [2025-03-19-starlink-license-chad-launch-niger], [2025-07-05-tchadinfos-starlink-services-disponibles], [2025-09-29-digitalbusiness-starlink-fai-vers-operateur-telecom], [2025-09-02-afriqueitnews-operateurs-connecter-fibre-nationale], [2026-02-09-chad-fast-track-ndjamena-mbere-fiber-link-cameroon-connectingafrica], [2026-05-21-digitalbusiness-tchadix-ixp-un-an], [2026-06-02-salaminfo-banque-mondiale-routes-virtuelles-patn], [2026-06-19-techafricanews-arcep-plateformes-regulation-strategiques], [2026-06-26-connectingafrica-telcos-network-upgrades-airtel-moov], [2025-02-12-coupure-internet-lac-internet-society], [2025-12-16-tchadinfos-atelier-cartographie-fibre-artac-uit], [2026-01-11-tchadinfos-dts-degradations-site-bol], [2025-03-07-trans-saharan-fiber-project-delays], [2025-03-03-datareportal-digital-2025-chad], [2025-11-08-datareportal-digital-2026-chad]]
 ---
 
 # Chad × Connectivity
@@ -54,7 +54,7 @@ ultimatums over quality, power and sovereignty.
   international submarine-cable capacity** — but the underlying **Apr-2025 MoU was suspended by [[arcep-chad|
   ARCEP]]** over clauses deemed **contrary to national digital sovereignty**; government pressed Sotel and
   Airtel to fast-track a revision (Feb 2026). See [[gov.regional]]. Source:
-  [[2026-02-09-connectingafrica-fibre-ndjamena-mbere-cameroun]].
+  [[2026-02-09-chad-fast-track-ndjamena-mbere-fiber-link-cameroon-connectingafrica]].
 - **PMICE / PATN and the white zones.** The state ordered operators onto the national PMICE fibre (1,275
   km; 7-day ultimatum, Sep 2025); the World Bank **PATN** ([[chad-digital-transformation-project]])
   "virtual roads" mission (Jun 2026) targets ~**500 zones blanches** (fully offline localities). See

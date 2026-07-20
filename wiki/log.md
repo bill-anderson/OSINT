@@ -5,6 +5,18 @@ contradictions found, and open `needs-review` flags.
 
 ---
 
+## 2026-07-20 — Lint #7 (duplicates): 14 same-title/same-date clusters resolved
+
+14 `raw/` twins pruned, 38 citations rewired, no contradictions found — every pair was a double
+capture of one article, never a factual disagreement.
+
+Kept the fuller/better capture where one was clear (full verbatim over paraphrase or truncation:
+Wingu, Brastorne, Horizon Fiber/Telecom Review, PayInc, Niyel; embedded primary links: WARDIP2,
+Niger AES ID; fuller quote attribution: BEAC/PAPSS). Where bodies were identical, kept the twin
+the wiki already cited rather than churn citations (ADAPT, Smart Africa, SARSSy).
+
+Revert: `git checkout <sha> -- raw/ wiki/` restores the pruned files and the pre-rewire links.
+
 ## 2026-07-20 — Log entries now terse (rule + cleanup)
 
 Rule added to CLAUDE.md → Reporting: log entries are a few lines, not narrative (a log too long to

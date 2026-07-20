@@ -7,7 +7,7 @@ topics: [infra.connect, gov.regional, tech.industry]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-18
-sources: [[2026-02-04 Sudatel-Djibouti Telecom-Ethio telecom launch Horizon Fiber cross-border initiative (SUNA)], [2026-02-10 Ethio telecom, Djibouti Telecom, Sudatel Seal Binding Deal on Cross-Border Fiber Network], [2026-01-16 Minister praises Sudani-Sudatel role in business digital transformation (SUNA)]]
+sources: [[2026-02-04 Sudatel-Djibouti Telecom-Ethio telecom launch Horizon Fiber cross-border initiative (SUNA)], [2026-02-10-horizon-fiber-binding-agreement-telecomreviewafrica], [2026-01-16 Minister praises Sudani-Sudatel role in business digital transformation (SUNA)]]
 ---
 
 # Sudatel (Sudatel Telecom Group)
@@ -29,7 +29,7 @@ Sudan as a regional digital hub.
   during the war years, and cited existing cross-border routes toward Chad and
   Ethiopia. See [[infra.connect]], [[gov.regional]], [[SDN]]. Sources:
   [[2026-02-04 Sudatel-Djibouti Telecom-Ethio telecom launch Horizon Fiber cross-border initiative (SUNA)]],
-  [[2026-02-10 Ethio telecom, Djibouti Telecom, Sudatel Seal Binding Deal on Cross-Border Fiber Network]].
+  [[2026-02-10-horizon-fiber-binding-agreement-telecomreviewafrica]].
 - **Post-war business-digital-transformation push (2026-01).** At a Port-Sudan
   event the digital-transformation minister praised Sudatel and Sudani for
   keeping infrastructure and services running through the war. See

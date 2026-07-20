@@ -22,7 +22,7 @@ and the one most often lost in summary.
 
 Data from Togo's **16,000** nursery, primary and secondary schools is collected **on paper**,
 forwarded to the education inspectorates, and entered into **[[stateduc]]** — a statistical
-application used in about 20 countries — with **[[cspro]]** underlying the annual school census
+application used in about 20 countries — with **CSPro** underlying the annual school census
 infrastructure. StatEduc remains the collection tool; DHIS2 processes the records and produces the
 information products (as of 2022-12-01, [[2022-12-01-hisp-wca-dhis2-emis-togo]]).
 

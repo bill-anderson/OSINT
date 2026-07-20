@@ -13,7 +13,7 @@ sources: [[2026-04-28-pr-inaugura-novo-centro-de-dados-do-governo], [2026-04-28-
 # Data Center e Cloud do Governo (Camama national data centre)
 
 Angola's **sovereign national data centre** — the physical anchor of its digital-sovereignty
-strategy. Owned by **[[infosi]]** under **[[minttics]]**, sited between **Camama and Kilamba**,
+strategy. Owned by **[[infosi]]** under **[[ministerio-das-telecomunicacoes-tecnologias-de-informacao-e-comunicacao-social-angola|MINTTICS]]**, sited between **Camama and Kilamba**,
 Luanda, and inaugurated by President **[[joao-lourenco]]** on **28 April 2026**. It is the base
 platform for the **[[nuvem-nacional-de-angola]]** (Government Cloud).
 

@@ -8,7 +8,7 @@ date_precision: day
 date_source: source
 places: [XGL]
 topics: [tech.industry]
-entities: [[truecaller]]
+entities: Truecaller
 lens: []
 retrieved: 2026-07-19
 sweep_batch: daily-2026-07-19b

@@ -208,7 +208,7 @@ the payments, AML, civil-registry and e-ID-rollout threads.
   Source: [[2026-05-04-gpe-kix-study-tour-education-data-system]]. See [[dpi.mis]],
   [[capacity.training]], → **[[togo--dpi-mis]]**, [[GMB]].
 - **2024-04-08** — **GPE's independent panel: no fully operational EMIS yet.** The **[[gpe-itap]]**
-  enabling-factors assessment ([[global-partnership-for-education]]) rated Togo's *data and evidence*
+  enabling-factors assessment (Global Partnership for Education) rated Togo's *data and evidence*
   factor **MEDIUM** priority, finding that Togo publishes a large volume of education data annually
   (statistical yearbooks within three months of year-end) but that **"one cannot yet say that Togo
   has a fully accessible and operational EMIS"** — nothing links quantitative data, financial data
@@ -299,8 +299,8 @@ the anchor source for [[novissi]]).
 - [[bceao]] · [[waemu]] · [[waemu-instant-payment-platform]] · [[ecobank]] · [[orabank]] ·
   [[thunes]] · [[ecobank-thunes-partnership]] · [[boad]] · [[african-development-bank]] · [[fatf]]
 - [[togo-aml-law-2025]] · [[haac-ipdcp-accord]] · [[togo-digital-acceleration-financing]]
-- [[dhis2]] · [[stateduc]] · [[hisp-wca]] · [[hisp-centre]] · [[cspro]] · [[gpe-kix]] ·
-  [[global-partnership-for-education]] · [[gpe-itap]] · [[norad]] · [[sydonia]] · [[g2px]]
+- [[dhis2]] · [[stateduc]] · [[hisp-wca]] · [[hisp-centre]] · CSPro · [[gpe-kix]] ·
+  Global Partnership for Education · [[gpe-itap]] · [[norad]] · [[sydonia]] · [[g2px]]
 - [[sin-togo]] · [[lome-data-centre]] · [[sin-st-digital-lome-cloud-deal]] · [[st-digital-gabon]] ·
   [[ceet]]
 - [[cina-lawson]] · [[world-bank]] · [[ecowas]] · [[gates-foundation]] · [[id4africa]]

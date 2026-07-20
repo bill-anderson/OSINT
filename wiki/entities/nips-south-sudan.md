@@ -6,7 +6,7 @@ places: [SSD]
 topics: [dpi.pay, include.access]
 status: active
 last_reviewed: 2026-07-20
-sources: [[2025-02-07 South Sudan launches first national instant payment system (NIPS)], [2025-02-05-africanenda-boss-nips-announcement], [2025-10-01-eyeradio-boss-ssips-ats-plus-explainer], [2025-10-10-boss-launches-first-electronic-interbank-payment-system]]
+sources: [[2025-02-05-africanenda-boss-nips-announcement], [2025-10-01-eyeradio-boss-ssips-ats-plus-explainer], [2025-10-10-boss-launches-first-electronic-interbank-payment-system]]
 ---
 
 # National Instant Payment System (NIPS) — South Sudan
@@ -23,7 +23,9 @@ proof-of-concept.
   G2P and P2G payments, integrating with the ACH, RTGS and Instant Fund Transfer
   systems, and aims to bring 6m+ under-banked adults into formal finance. Aligns
   with the EAC 2024 instant-retail-payments master plan. Source:
-  [[2025-02-07 South Sudan launches first national instant payment system (NIPS)]].
+  [[2025-02-05-africanenda-boss-nips-announcement]]. *(A 2025-02-07 trade-press account
+  reporting this as a launch is referred to in this wiki but is **not held**, as of
+  2026-07-20 — do not cite it.)*
 
 ## NIPS vs SSIPS — resolved 2026-07-20
 
@@ -60,7 +62,6 @@ Source: [[2025-10-01-eyeradio-boss-ssips-ats-plus-explainer]].
 
 ## Sources
 
-- [[2025-02-07 South Sudan launches first national instant payment system (NIPS)]]
 - [[2025-02-05-africanenda-boss-nips-announcement]]
 - [[2025-10-01-eyeradio-boss-ssips-ats-plus-explainer]]
 - [[2025-10-10-boss-launches-first-electronic-interbank-payment-system]]

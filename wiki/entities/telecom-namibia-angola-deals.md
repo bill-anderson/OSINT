@@ -7,7 +7,7 @@ topics: [finance.mou, infra.connect, infra.capacity, gov.regional, infra.cyberse
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-19
-sources: [[2026-06-15 Telecom Namibia signs more satellite, subsea connectivity deals with Angola firms], [2026-06-15-telecom-namibia-angola-satcab-sarssy-1tbps-techafricanews], [2026-06-12-namibia-angola-ink-satellite-deal-itweb], [2026-06-11-namibia-and-angola-join-forces-angotic-mou], [2026-04-24-angola-namibias-dynamic-connectivity-partnership-itweb], [2025-10-14-namibia-taps-angosat-2-to-boost-connectivity]]
+sources: [[2026-06-15 Telecom Namibia signs more satellite, subsea connectivity deals with Angola firms], [2026-06-15-telecom-namibia-angola-telecom-satcab-sarssy-1tbps], [2026-06-12-namibia-angola-ink-satellite-deal-itweb], [2026-06-11-namibia-and-angola-join-forces-angotic-mou], [2026-04-24-angola-namibias-dynamic-connectivity-partnership-itweb], [2025-10-14-namibia-taps-angosat-2-to-boost-connectivity]]
 ---
 
 # Telecom Namibia–Angola connectivity agreements (2026)
@@ -24,7 +24,7 @@ partners, moving an April 2025/26 MoU/CTA into operational implementation.
   system with Google's **Equiano** cable via Telecom Namibia's **Swakopmund**
   landing station — providing Angola Telecom **1 Tbps** of dedicated Equiano
   capacity, building on the April-2026 Swakopmund MoU/CTA. Source:
-  [[2026-06-15-telecom-namibia-angola-satcab-sarssy-1tbps-techafricanews]].
+  [[2026-06-15-telecom-namibia-angola-telecom-satcab-sarssy-1tbps]].
 
 ## The ministerial ICT layer
 
@@ -54,7 +54,7 @@ See [[telecom-namibia]], [[NAM]], [[AGO]], [[infra.connect]], [[gov.regional]].
 ## Sources
 
 - [[2026-06-15 Telecom Namibia signs more satellite, subsea connectivity deals with Angola firms]]
-- [[2026-06-15-telecom-namibia-angola-satcab-sarssy-1tbps-techafricanews]]
+- [[2026-06-15-telecom-namibia-angola-telecom-satcab-sarssy-1tbps]]
 - [[2026-06-12-namibia-angola-ink-satellite-deal-itweb]]
 - [[2026-06-11-namibia-and-angola-join-forces-angotic-mou]]
 - [[2026-04-24-angola-namibias-dynamic-connectivity-partnership-itweb]]

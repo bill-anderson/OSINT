@@ -16,8 +16,8 @@ Angola's **planned National AI Strategy** — in preparation, to set an integrat
 
 ## Status
 
-- **Confirmed in preparation (2026-07-13).** At the **2nd National AI Forum (FNIA26)** in Luanda (13–14 Jul 2026), **[[minttics]]** (Hecdiantro Mena) confirmed the strategy is a next national step, to be **informed by the UNESCO RAM** ([[unesco-ram-angola]]) findings across governance, legislation, data, infrastructure, research, innovation and digital skills. The government frames AI as a strategic instrument to accelerate national development and economic diversification. See [[tech.ai]], [[unesco-ram-angola]], [[AGO]]. Sources: [[2026-07-13-ia-instrumento-para-acelerar-desenvolvimento-fnia26]], [[2026-06-30-angola-preparada-83-por-cento-uso-etico-de-ia-ram-unesco]].
+- **Confirmed in preparation (2026-07-13).** At the **2nd National AI Forum (FNIA26)** in Luanda (13–14 Jul 2026), **[[ministerio-das-telecomunicacoes-tecnologias-de-informacao-e-comunicacao-social-angola|MINTTICS]]** (Hecdiantro Mena) confirmed the strategy is a next national step, to be **informed by the UNESCO RAM** ([[unesco-ram-angola]]) findings across governance, legislation, data, infrastructure, research, innovation and digital skills. The government frames AI as a strategic instrument to accelerate national development and economic diversification. See [[tech.ai]], [[unesco-ram-angola]], [[AGO]]. Sources: [[2026-07-13-ia-instrumento-para-acelerar-desenvolvimento-fnia26]], [[2026-06-30-angola-preparada-83-por-cento-uso-etico-de-ia-ram-unesco]].
 
 ## Related
 
-- [[AGO]] · [[unesco-ram-angola]] · [[angola-ai-bill]] · [[minttics]] · [[tech.ai]] · [[gov.policy]]
+- [[AGO]] · [[unesco-ram-angola]] · [[angola-ai-bill]] · [[ministerio-das-telecomunicacoes-tecnologias-de-informacao-e-comunicacao-social-angola|MINTTICS]] · [[tech.ai]] · [[gov.policy]]

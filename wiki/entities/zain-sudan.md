@@ -12,7 +12,7 @@ sources: [[2025-03-06 How Zain Sudan restored mobile connectivity at a time of n
 
 # Zain Sudan
 
-Mobile network operator in Sudan, a subsidiary of the Kuwait-based [[zain-group]] MENA
+Mobile network operator in Sudan, a subsidiary of the Kuwait-based Zain Group MENA
 operator. Reported serving **~23 million customers** (2025); mobile wallets are a primary
 financial tool for much of its base, making it systemically important to payments as well as
 connectivity in a conflict-disrupted state.

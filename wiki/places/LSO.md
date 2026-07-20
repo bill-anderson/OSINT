@@ -47,8 +47,8 @@ last_reviewed: 2026-07-20
     government news-agency account of a spokesperson's remarks at the event, and it is the only
     evidence held for Lesotho's programme membership** — no Smart Africa programme document, terms of
     reference or RFP naming Lesotho is held as of **2026-07-20**. The wiki's own Smart Africa
-    data-strategy holdings cover **Eswatini** ([[2025-07-25 RFP - Eswatini National Data Policy (Smart
-    Africa)]]), **Benin** ([[2025-11-21 Smart Africa - ToR for Benin National Data Strategy]]) and
+    data-strategy holdings cover **Eswatini**
+    ([[2025-07-25 RFP - Eswatini National Data Policy (Smart Africa)]]), **Benin** ([[2025-11-21 Smart Africa - ToR for Benin National Data Strategy]]) and
     **Ghana**, none of them Lesotho. Write Lesotho's involvement as *attended and was described as
     selected*, dated, **not** as documented programme membership.
 - **2025-07-28/31** — **AUDPF-domestication workshop (Maseru, four days).**

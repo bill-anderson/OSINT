@@ -13,7 +13,7 @@ sources: [[2026-04-10-angola-expands-satellite-internet-push-conecta-project], [
 # Conecta Angola
 
 Angola's flagship **satellite-based digital-inclusion programme**, run by **[[ggpen]]** under
-**[[minttics]]**, using **[[angosat-2]]** capacity to reach remote and underserved areas beyond
+**[[ministerio-das-telecomunicacoes-tecnologias-de-informacao-e-comunicacao-social-angola|MINTTICS]]**, using **[[angosat-2]]** capacity to reach remote and underserved areas beyond
 fibre and mobile. Described by the government as one of the country's largest digital-inclusion
 initiatives.
 
@@ -26,7 +26,7 @@ initiatives.
   SpeedNet, Netservice, TechGolden).
 - **Edge market-opening** — local startups licensed by **INACOM** as satellite ISPs (e.g. NomaTech,
   Moxico, July 2026) and a **TVWS** variant connecting nearly 4,000 students in Ramiros (July 2026).
-- Extended to **border management** (Luvo Border Post VSAT) and paired with **[[ilumina-angola]]**
+- Extended to **border management** (Luvo Border Post VSAT) and paired with **Ilumina Angola**
   national roaming.
 
 See [[angola--data-satellite]], [[angola--infra-connect]], [[data.satellite]], [[infra.connect]],

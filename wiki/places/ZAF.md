@@ -260,7 +260,7 @@ paid. **The government's arithmetic corroborates the plaintiffs.** Full case:
   **Uptake, dated:** **997,379 cumulative to 2026-03-11** against **19.05m grant recipients
   (end-Jan 2026)** — **~5%**, i.e. the flow-based scope working as designed, not a stalled universal
   rollout. **Costed at R105m over three years with no additional Treasury allocation**, funded from
-  savings on the terminated **[[postbank]]** Master Service Agreement. **The exclusion tail is
+  savings on the terminated **Postbank** Master Service Agreement. **The exclusion tail is
   measurable** (67,868 suspended / 48,949 lapsed to Q3 FY2025/26, overwhelmingly Child Support
   Grants), and **the complaint asymmetry locates the divide precisely**: zero complaints on
   fingerprint enrolment, **7,779** on the online **facial-recognition** channel, whose fallback is a

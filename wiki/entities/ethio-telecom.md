@@ -6,7 +6,7 @@ places: [ETH, CMR]
 topics: [infra.connect, dpi.pay, tech.industry, tech.ai, infra.store, include.access, geopol.china, finance.mou]
 status: active
 last_reviewed: 2026-07-19
-sources: [[2026-07-17-ethio-telecom-huawei-digital-infrastructure], [2026-07-15 Ethio Telecom, Huawei expand digital push], [2026-02-10 Ethio telecom, Djibouti Telecom, Sudatel Seal Binding Deal on Cross-Border Fiber Network], [2026-01-30 Inside Ethio Telecom's bold TechCo transformation], [2026-01-29 Ethio Telecom, Somcable talk cross-border collaboration], [2026-01-07 Why Ethiopia, Somalia and Djibouti are starting to matter in digital Africa], [2025-12-04 Is it a bird Is it plane No, Jim, it's an African mobile operator, but not as we know it 9], [2025-08-21 Ethio Telecom expands 4G capacity with Huawei], [2024-09-24 Ethio Telecom pursues Shandong Hi-Speed hyperscale data-centre partnership], [2025-12-05-ethio-telecom-camtel-master-service-agreement-telecomreviewafrica], [2025-12-16-ethio-telecom-team-concludes-strategic-visit-camtel-telecomreviewafrica]]
+sources: [[2026-07-17-ethio-telecom-huawei-digital-infrastructure], [2026-07-15 Ethio Telecom, Huawei expand digital push], [2026-02-10-horizon-fiber-binding-agreement-telecomreviewafrica], [2026-01-30 Inside Ethio Telecom's bold TechCo transformation], [2026-01-29 Ethio Telecom, Somcable talk cross-border collaboration], [2026-01-07 Why Ethiopia, Somalia and Djibouti are starting to matter in digital Africa], [2025-12-04 Is it a bird Is it plane No, Jim, it's an African mobile operator, but not as we know it 9], [2025-08-21 Ethio Telecom expands 4G capacity with Huawei], [2024-09-24 Ethio Telecom pursues Shandong Hi-Speed hyperscale data-centre partnership], [2025-12-05-ethio-telecom-camtel-master-service-agreement-telecomreviewafrica], [2025-12-16-ethio-telecom-team-concludes-strategic-visit-camtel-telecomreviewafrica]]
 ---
 
 # Ethio Telecom
@@ -24,7 +24,7 @@ than a pure connectivity operator, anchoring the [[telebirr]] platform and align
   terrestrial fibre corridor from Djibouti's subsea landing stations through
   Ethiopia to Sudan — MoU (Dec 2024) converted to a **binding agreement**
   (Feb 2026). See [[infra.connect]], [[gov.regional]], [[SDN]], [[DJI]]. Source:
-  [[2026-02-10 Ethio telecom, Djibouti Telecom, Sudatel Seal Binding Deal on Cross-Border Fiber Network]].
+  [[2026-02-10-horizon-fiber-binding-agreement-telecomreviewafrica]].
 - **Inspur / Shandong data-centre & infra track (2026-07).** High-level talks with China's **Inspur Software**
   and **Shandong Hi-Speed Road & Bridge International Engineering** on a potential long-term partnership pairing
   digital tech with infrastructure under **Next Horizon** — extending the earlier Ethio Telecom–Shandong

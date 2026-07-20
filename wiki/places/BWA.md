@@ -92,7 +92,7 @@ An **upper-middle-income, comparatively strong-performing** Southern-African dig
   [[2025-06-03-satellite-connectivity-transforming-remote-communities]], [[2025-11-06-mtn-ethica-sdia-always-on-internet-itweb]],
   [[2025-06-09-btc-community-wifi-old-naledi-techafricanews]], [[2026-04-04-orange-botswana-chobe-connect-data-sovereignty-techreviewafrica]],
   [[2025-07-01-demand-for-data-broadband-push-btc-revenue-up]], [[2026-07-06-btc-profit-plunges-as-rising-costs-bite]],
-  [[2026-07-14-paratus-eutelsat-mining-connectivity-itweb]], [[2026-02-06-brastorne-cote-divoire-expansion-techcabal]].
+  [[2026-07-14-paratus-eutelsat-mining-connectivity-itweb]], [[2026-02-06-brastorne-expands-cote-divoire-techcabal]].
   See [[digital.rural]], [[include.divides]].
 - **2025→2026 — Registries, sectoral MIS and cautious election-digitisation.** [[dpi.registry]] The
   **deeds registry** is still "substantially manual" (workload 9,000→30,000 transactions/yr since the
@@ -133,7 +133,7 @@ An **upper-middle-income, comparatively strong-performing** Southern-African dig
   **Omang** national ID / **Electronic Identification System**, an e-wallet and biometric e-gov services in
   the 2026/27 budget ([[omang-digital-id-botswana]]). See [[dpi.id]]. Source: [[2026-03-02 Botswana - Minister envisions reforms to boost service delivery (digital Omang)]].
 - **2026-03-02** — **TCIB cross-border payments activated into Botswana.** The SADC **[[tcib]]** scheme (PayInc)
-  went live into Botswana via First Capital Bank. See [[dpi.pay]], [[XSA]]. Source: [[2026-03-02 PayInc and First Capital Bank Botswana Launch Instant Cross-Border Payments (TCIB)]].
+  went live into Botswana via First Capital Bank. See [[dpi.pay]], [[XSA]]. Source: [[2026-03-02-payinc-fcb-botswana-tcib-corridor-live-techafricanews]].
 - **2025-12-08** — **Digital-economy policy snapshot (US ITA).** SmartBots strategy, pending Digital Services &
   Cybersecurity bills, BOTSAT-1 satellite, satellite-broadband openness ([[bocra]] regulator). Source: [[2025-12-08 Botswana - Digital Economy (Country Commercial Guide)]].
 - **2025-11-26** — **First national data centre (Digital Delta DC).** [[bofinet]] launched Botswana's only

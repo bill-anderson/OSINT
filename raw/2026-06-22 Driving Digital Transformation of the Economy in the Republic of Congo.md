@@ -26,7 +26,7 @@ lens: [sovereignty]
 > **proxy** (no printed date; treats the 2026 Finance Law as enacted → written ~Q1 2026). Country =
 > **COG** (Congo-Brazzaville), not COD.
 
-**Artefact:** ![[2026-01-01 Driving Digital Transformation of the Economy in the Republic of Congo.pdf]]
+**Artefact:** ![[2026-06-22 Driving Digital Transformation of the Economy in the Republic of Congo.pdf]]
 
 ## Key facts
 

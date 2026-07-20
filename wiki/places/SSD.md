@@ -229,9 +229,9 @@ but ahead of the governance frameworks meant to hold it.
   P2P/P2B/G2P/P2G rails integrating ACH/RTGS/IFT, aimed at 6m+ under-banked adults and
   aligned to the EAC instant-payments master plan. **No NIPS go-live is documented** as
   of 2026-07; AfricaNenda's own *SIIPS 2025* census (data to June 2025) does not list
-  South Sudan. Sources: [[2025-02-05-africanenda-boss-nips-announcement]];
-  trade-press account (overstated as a launch):
-  [[2025-02-07 South Sudan launches first national instant payment system (NIPS)]].
+  South Sudan. Source: [[2025-02-05-africanenda-boss-nips-announcement]].
+  *(A 2025-02-07 trade-press account overstating this as a launch is referred to in this
+  wiki but is **not held**, as of 2026-07-20 — do not cite it.)*
   See [[dpi.pay]], [[gov.regional]], [[include.access]].
 
 ## Active topics
@@ -285,12 +285,12 @@ but ahead of the governance frameworks meant to hold it.
   digital-rights / financial-inclusion partners
 - [[crei-south-sudan]] · [[finnfund]] · [[mtn-group]] — telecom energy financing
 - [[huawei]] · [[zte]] · [[starlink]] — foreign infrastructure/connectivity
-- Tagged, no page yet: **[[crawford-capital]]** / CapitalPay (private e-government revenue operator;
+- Tagged, no page yet: **Crawford Capital** / CapitalPay (private e-government revenue operator;
   **5 sources — well over the bar, mint at the next entity pass**);
-  **[[capital-pay]]** (Crawford's payment-processing subsidiary; 1 source);
-  **[[un-commission-human-rights-south-sudan]]** (*Plundering a Nation*, A/HRC/60/CRP.5; 3 sources —
-  mint candidate); **[[ministry-of-ict-and-postal-services-south-sudan]]** (contracting counterparty on
-  the 2019 Crawford contract; 4 sources — mint candidate); **[[ensoft]]** / N-Soft (telecom revenue
+  **CapitalPay** (Crawford's payment-processing subsidiary; 1 source);
+  **UN Commission on Human Rights in South Sudan** (*Plundering a Nation*, A/HRC/60/CRP.5; 3 sources —
+  mint candidate); **Ministry of ICT and Postal Services (South Sudan)** (contracting counterparty on
+  the 2019 Crawford contract; 4 sources — mint candidate); **EnSoft** / N-Soft (telecom revenue
   assurance; 1 source).
 - Mentioned, not hubbed: WHO, UNICEF, UNHCR, EU (donor DPI); Ateny Wek Ateny (ICT
   minister); Thomas Gatkuoth Nyak (e-services council); Edmund Yakani (civil society);

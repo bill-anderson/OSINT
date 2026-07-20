@@ -20,7 +20,7 @@ re-report ([[raw/2026-02-27 SA powers Africa's $1.64bn tech funding rebound]]). 
 article, __not__ the report itself: the full PDF (sectors, acquisitions, the named startup list, the
 methodology statement) is __not yet held__ and needs a manual capture before it can be cited directly.*
 
-*__Not commensurable with [[partech]]__ (resolved 2026-07-20). This is a __self-declared minimum floor__,
+*__Not commensurable with Partech__ (resolved 2026-07-20). This is a __self-declared minimum floor__,
 counted __by funded venture__ and restricted to companies passing a narrow startup test — the methodology
 states the true total "is likely to be higher than our total", estimates the __lowest possible__ figure for
 undisclosed rounds, and excludes corporate spin-offs and companies generally over ~10 years old (Sun King,
