@@ -61,7 +61,7 @@ presidential coordinating body, and enabling legislation — plus a cross-border
   [[nitda]] to a **"super regulator"** with broad supervisory/enforcement/coordination powers;
   stakeholders flag regulatory-overlap concerns. See [[gov.legislate]]. (This bill also carries
   Nigeria's risk-based AI regime — see [[nigeria--tech-ai]].) Source:
-  [[2025-11-10-digital-economy-egovernance-bill-nitda]].
+  [[2025-11-11-digital-economy-egovernance-bill-nitda]].
 - **AfCFTA ADAPT — cross-border DPI (2025-2026).** The **[[afcfta]]** Secretariat picked **Nigeria,
   Kenya and Morocco** as the first **ADAPT** (Africa Digital Access & Public Infrastructure for
   Trade) pilots — shared cross-border rails for identity, payments and trusted data exchange
@@ -91,5 +91,5 @@ Intersections: [[nigeria--dpi-id]] · [[nigeria--gov-protect]] · Entities: [[ni
 - [[2025-04-15-nitda-draft-dpi-technical-standards]]
 - [[2025-05-28-presidential-committee-dpi-implementation]]
 - [[2026-03-27-nitda-takes-over-ngea-koica]]
-- [[2025-11-10-digital-economy-egovernance-bill-nitda]]
+- [[2025-11-11-digital-economy-egovernance-bill-nitda]]
 - [[2026-05-26-nigeria-kenya-morocco-afcfta-adapt]]

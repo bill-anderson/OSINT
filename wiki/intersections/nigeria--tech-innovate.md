@@ -9,7 +9,7 @@ entities: [[nitda], [huawei], [nsia]]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-19
-sources: [[2025-06-10-itana-first-digital-free-zone], [2025-06-19-nitda-jica-startup-hub-agreement], [2025-05-09-huawei-innovation-centre-lagos], [2025-04-03-nitda-doballi-tech-talent-mou], [2025-10-06-katsina-10bn-tech-hub-worldbank-bridge]]
+sources: [[2025-06-10-itana-first-digital-free-zone], [2025-06-19-nitda-jica-startup-hub-agreement], [2025-05-09-huawei-innovation-centre-lagos], [2025-04-03-nitda-doballi-tech-talent-mou], [2025-10-07-katsina-10bn-tech-hub-worldbank-bridge]]
 ---
 
 # Nigeria × Innovation Ecosystem
@@ -29,7 +29,7 @@ talents**, financed by a mix of DFI and bilateral capital.
 - **Katsina $10bn tech hub (Oct 2025).** One of **ten** state hubs planned; supports the 3m-talent
   programme. Katsina cites its Right-of-Way policy, State Digital Law and Digital Economic Zone. (The
   associated $500m World Bank BRIDGE financing is covered under [[nigeria--infra-connect]].) Source:
-  [[2025-10-06-katsina-10bn-tech-hub-worldbank-bridge]].
+  [[2025-10-07-katsina-10bn-tech-hub-worldbank-bridge]].
 
 ## Startup and talent programmes
 

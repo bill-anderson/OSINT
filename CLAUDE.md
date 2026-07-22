@@ -4,7 +4,8 @@
 Operational detail — frontmatter schemas, lint checks, sweep and pass procedures —
 lives in `wiki/reference.md`. The runnable passes have their own procedure files:
 `reviews/contradictions/RECONCILE.md` ("run reconcile") and `reviews/ACQUIRE.md`
-("run acquisitions").)*
+("run acquisitions"). `UPDATE-WIKI.md` ("update wiki") is the orchestrator that
+loops ingest, reconcile and acquire until the queues are empty, then lints.)*
 
 ## Purpose
 
@@ -116,10 +117,10 @@ AU or ECOWAS are entities, not places. Reject values outside the vocabularies.
 `new/ → raw/` is a physical pipeline: a file's folder is its state, and moving it
 out of `new/` is the last step of processing it, so an interrupted run resumes
 cleanly. Sources in `raw/` are named by publication date and are immutable.
-Parked leads go to `_leads/`. **The sweep writes only to its own staging folder** —
-never straight to `new/`, `raw/` or any `wiki/` page. Candidates enter the base
-only by being processed, so an unreviewed sweep result can never become a source
-by accident.
+Parked leads go to `_leads/`. **The sweep writes candidates to `new/`** (with
+best-effort frontmatter) and state/logs to its own `sweep/` — never straight to
+`raw/` or any `wiki/` page. Candidates enter the base only by being processed
+through ingest, so a raw sweep result can never become a source by accident.
 
 **Synthesis pages hold current state, not chronology** — with one exception:
 place hubs keep a dated, reverse-chronological **Recent developments** section.
@@ -213,6 +214,9 @@ placed on the claim they support, not gathered at the end.
 Never a narrative.** A `log.md` too long to skim defeats its own purpose. End a job
 with what happened, not what's pending:
 
-`contradictions - NN ; acquisitions - NN ; decisions logged - NN`
+`contradictions - NN ; acquisitions - NN ; awaiting ingest - NN ; decisions logged - NN`
+
+`STATUS.md` ("wiki status") defines these counts and is the canonical status object;
+announce each pass by name as it runs (see there).
 
 Weekly, a terse digest: ingested, decided, shaky. Five minutes to skim.

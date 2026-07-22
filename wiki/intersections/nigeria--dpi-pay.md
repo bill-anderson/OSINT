@@ -9,7 +9,7 @@ entities: [[cbn], [fx-bdc-purchase-tracker], [cbn-policy-insight-series-2025], [
 lens: []
 status: active
 last_reviewed: 2026-07-21
-sources: [[2026-07-17-nigeria-central-bank-digitises-forex-oversight], [2026-02-06 Nigeria just raised the bar for West African Fintech], [2026-02-05 Nigeria's fintech blueprint raises stakes for Kenya, Africa's digital economy], [2026-01-27 Nigeria's PAPSS cross-border payments falls 53% to N5.6bn], [2025-04-29-cbn-open-banking-august-launch], [2025-11-07-nibss-national-payment-stack-first-transaction], [2026-06-17-cbn-payments-system-vision-2028], [2025-02-10-busha-lists-cngn-stablecoin], [2026-02-04-onafriq-papss-naira-wallet-ghana], [2025-06-11-ussd-end-user-billing-model], [2025-10-09-nigeria-e-payments-256bn-cbn], [2025-12-23-siips-nigeria-instant-payments-2tn], [2026-06-15-cbn-data-localisation-beneficial-owners-2027], [2026-06-09-cbn-ai-fraud-detection-realtime], [2025-08-25-cbn-pos-geotag-iso20022], [2026-03-12-cbn-automated-aml-baseline-standards], [2026-01-12-tin-nin-crypto-tax-carf], [2026-01-15-fg-7-5-vat-electronic-banking], [2025-09-04-fccpc-deon-digital-lending-regulations], [2025-05-13-cbn-diaspora-nrbvn-platform], [2025-11-03-sec-cbn-efcc-freeze-illicit-wallets], [2025-01-23-visa-strategic-investment-moniepoint], [2026-04-21-cbn-ncc-tirms-telecom-data-banks], [2026-06-25-paystack-index-ai-checkout], [2025-05-09-isa-2025-crypto-securities], [2025-03-20-flutterwave-firs-tax-payments], [2026-07-17-mathesis-analytics-raises-funding-ai-lending], [2026-07-17-skydd-insure-fintech-leadership], [2026-07-18-nigeria-retail-investing-boom], [2008-12-01-cbn-bullion-nigerian-stock-market-global-financial-crisis], [2026-05-31-ngx-domestic-foreign-portfolio-investment-report-may-2026], [2026-07-20-nigeria-coordinated-regulatory-framework-virtual-assets], [2026-07-20-cbn-rewriting-rules-nigeria-fintech-growth], [2026-07-20-busha-business-tether-stablecoin-infrastructure-africa], [2026-07-21-stablecoins-test-africas-monetary-future], [2026-07-20-rukayat-kolawole-bello-regxta], [2026-06-16-imf-stablecoins-in-nigeria-cross-border-channel], [2026-07-21-nigeria-court-deon-digital-lending-fccpc-ncc]]
+sources: [[2026-07-17-nigeria-central-bank-digitises-forex-oversight], [2026-02-06 Nigeria just raised the bar for West African Fintech], [2026-02-05 Nigeria's fintech blueprint raises stakes for Kenya, Africa's digital economy], [2026-01-27 Nigeria's PAPSS cross-border payments falls 53% to N5.6bn], [2025-04-29-cbn-open-banking-august-launch], [2025-11-10-nibss-national-payment-stack-first-transaction], [2026-06-17-cbn-payments-system-vision-2028], [2025-02-10-busha-lists-cngn-stablecoin], [2026-02-04-onafriq-papss-naira-wallet-ghana], [2025-06-11-ussd-end-user-billing-model], [2025-10-09-nigeria-e-payments-256bn-cbn], [2025-12-23-siips-nigeria-instant-payments-2tn], [2026-06-17-cbn-data-localisation-beneficial-owners-2027], [2026-06-09-cbn-ai-fraud-detection-realtime], [2025-08-27-cbn-pos-geotag-iso20022], [2026-03-12-cbn-automated-aml-baseline-standards], [2026-01-12-tin-nin-crypto-tax-carf], [2026-01-15-fg-7-5-vat-electronic-banking], [2025-09-04-fccpc-deon-digital-lending-regulations], [2025-05-13-cbn-diaspora-nrbvn-platform], [2025-11-03-sec-cbn-efcc-freeze-illicit-wallets], [2025-01-23-visa-strategic-investment-moniepoint], [2026-04-21-cbn-ncc-tirms-telecom-data-banks], [2026-06-25-paystack-index-ai-checkout], [2025-05-09-isa-2025-crypto-securities], [2025-03-20-flutterwave-firs-tax-payments], [2026-07-17-mathesis-analytics-raises-funding-ai-lending], [2026-07-17-skydd-insure-fintech-leadership], [2026-07-18-nigeria-retail-investing-boom], [2008-12-01-cbn-bullion-nigerian-stock-market-global-financial-crisis], [2026-05-31-ngx-domestic-foreign-portfolio-investment-report-may-2026], [2026-07-20-nigeria-coordinated-regulatory-framework-virtual-assets], [2026-07-20-cbn-rewriting-rules-nigeria-fintech-growth], [2026-07-20-busha-business-tether-stablecoin-infrastructure-africa], [2026-07-21-stablecoins-test-africas-monetary-future], [2026-07-20-rukayat-kolawole-bello-regxta], [2026-06-16-imf-stablecoins-in-nigeria-cross-border-channel], [2026-07-21-nigeria-court-deon-digital-lending-fccpc-ncc]]
 ---
 
 # Nigeria × Digital Payments
@@ -157,7 +157,7 @@ and crypto-formalisation** from the CBN, NIBSS and SEC.
 - **National Payment Stack (NPS).** NIBSS launched (Jun 2025) and ran the **first live NPS transaction** (7 Nov
   2025, PalmPay↔Wema, instant settlement) — next-gen infrastructure on **ISO 20022**, foundation for instant
   payments, bank/fintech integration and cross-border. Source:
-  [[2025-11-07-nibss-national-payment-stack-first-transaction]].
+  [[2025-11-10-nibss-national-payment-stack-first-transaction]].
 - **Payments System Vision 2028.** The CBN unveiled **PSV 2028** (Jun 2026) — the strategic successor to
   PSV 2020/2025: oversight, inclusion, efficiency and global competitiveness. Source:
   [[2026-06-17-cbn-payments-system-vision-2028]].
@@ -178,11 +178,11 @@ and crypto-formalisation** from the CBN, NIBSS and SEC.
   and PSPs to **localise payments data**, disclose **ultimate beneficial owners**, and observe **market-share
   limits** (anti-concentration) by 2027 — a major restructuring, and the payments face of the sovereignty/
   localisation push (see [[nigeria--gov-protect]], [[infra.store]]). Source:
-  [[2026-06-15-cbn-data-localisation-beneficial-owners-2027]].
+  [[2026-06-17-cbn-data-localisation-beneficial-owners-2027]].
 - **ISO 20022 + POS geo-tagging** (Aug 2025, compliance Oct 2025); **automated AML baseline standards** (Mar
   2026, mandatory tech-driven ML/TF/PF monitoring); **AI/ML real-time fraud detection** (Jun 2026, under PSV
   2028); and a **CBN-NCC TIRMS** telecom-data feed (Apr 2026) letting banks check SIM-swap/recycled numbers
-  pre-clearing (fraud fell 51% to ₦25.85bn in 2025). Sources: [[2025-08-25-cbn-pos-geotag-iso20022]],
+  pre-clearing (fraud fell 51% to ₦25.85bn in 2025). Sources: [[2025-08-27-cbn-pos-geotag-iso20022]],
   [[2026-03-12-cbn-automated-aml-baseline-standards]], [[2026-06-09-cbn-ai-fraud-detection-realtime]],
   [[2026-04-21-cbn-ncc-tirms-telecom-data-banks]].
 - **Consumer-lending crackdown, and the jurisdictional fight it triggered.** The FCCPC's **DEON 2025**

@@ -6,6 +6,27 @@ Reporting): a few lines each, full detail in `log-archive.md` or git.
 
 ---
 
+## 2026-07-22 — update-wiki: converged in 2 working iterations, cap not hit; full lint closed
+
+Passes fired: **ingest ×1, reconcile ×1, finance compile ×1** (per the back-swing hand-off), **full lint ×1**;
+acquire skipped (queue empty throughout). Queues all zero on the iteration-3 read.
+
+**Lint (8,126 pages scanned):** #1/#2/#5/#12/#14 — 0 defects. **#11 — 10 `raw/` files renamed** to match
+`published` (1–3-day prefix drifts), referring links rewired; 2 remaining "mismatches" are inline-comment
+parse artifacts, not defects. **#4 — 50 unresolved `[[targets]]`**: 0 in the ≥10 band; 10 middle-band
+(3–9 refs: parliament-of-uganda, digital-tanzania-project, dsti-south-africa, busha, tether,
+barnks-forte-technologies, launch-africa-ventures, african-open-science-platform,
+national-research-foundation-south-africa, office-of-the-auditor-general-uganda) left for the digest / entity
+pass; 40 in the 1–2 band are deliberate below-bar entity references, not typos — **left as forward tags**
+(decision: deleting loses signal, paging violates the entity bar; note `dsti.md` is Sierra Leone's DSTI, so
+`dsti-south-africa` must NOT be rewired to it). 2 apparent dead PDF links resolve to held artefacts (scanner
+artifact). #13's 3 hits are the log/procedure files' own text. #15 — 1,122 legacy sources still blank =
+unverified-by-rule (marker-ambiguous; blank asserts nothing). #8 — 48 pages over ~2,500 words, all classified
+thematic/exempt by the 2026-07-20 pass; nothing new crossed. #3/#6/#7 — baseline is the 2026-07-20 full pass;
+this run's additions are all dated/primary/deduped at ingest. #9 — 0 new contradictions. #10 — `new/` empty.
+
+contradictions - 0 ; acquisitions - 0 ; awaiting ingest - 0 ; decisions logged - 5
+
 ## 2026-07-22 — finance compile: 58 hub Financing sections recomputed (as of 2026-07-22)
 
 Post-ingest compile over the full 1,210 deal records (was ~53 hubs / 1,109 records). Non-state totals now

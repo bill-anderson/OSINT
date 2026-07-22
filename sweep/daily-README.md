@@ -3,19 +3,18 @@
 **Created 2026-07-19.** The daily workhorse: a lightweight, resumable acquisition
 sweep of the trade journals in `wiki/trade-journals.csv`, run manually from Claude
 Code. It brings the wiki's holdings up to date with journal stories published
-**since the last run**, staging candidate source files into `new-queue/` for the
-standard human-review-then-ingest pipeline.
+**since the last run**, staging candidate source files into `new/` for the
+standard ingest pipeline.
 
 This is *not* the Phase-2 back-fill (completed 2026-07-17; its apparatus is in
 `sweep/archive/`), and it is *not* the digest. See **Boundaries** below.
 
 ## Boundaries — what this is and isn't
 
-- **Acquisition, not briefing.** Output is candidate source files in `new-queue/`
+- **Acquisition, not briefing.** Output is candidate source files in `new/`
   that feed the wiki. It is upstream of the base: it never writes to `raw/` or any
-  `wiki/` page. The human promotes `new-queue/ → new/`; ingest is the only door to
-  `raw/`. Staged frontmatter is a best-effort head-start, validated at ingest —
-  never a substitute for it.
+  `wiki/` page. Ingest is the only door to `raw/`. Staged frontmatter is a
+  best-effort head-start, validated at ingest — never a substitute for it.
 - **Journals only.** Its whole world is `wiki/trade-journals.csv`. The *universal*
   sweep of everything else — national press, think tanks, journals not in that CSV
   — is the **digest**, run from the `africa-digital-policy-watch` skill in the
@@ -149,6 +148,29 @@ from the day *already* swept, not newly-indexed weekend items.
    nine came from listing pages. **Treat the listing as the primary instrument and
    search as the fallback**, not the other way round.
 
+   **★★ A stale cache and an empty day are indistinguishable from listing evidence alone.**
+   *(Established 2026-07-21 run B, after run A got two domains wrong the same way — read this before
+   trusting any nil.)* Twice in one day a listing served a **stale render that looked exactly like a
+   complete short day**, and run A recorded both as established non-publication:
+
+   - **connectingafrica.com** — run A fetched **seven listings, two with *different* cache-bust
+     tokens**, plus two searches, and all ceilinged at Fri 07-17; it concluded two full weekdays of
+     silence. Run B found the site publishing normally, with a **Monday 07-20 article that was already
+     live during run A**. So a **repeated identical ceiling across different cache-bust tokens is
+     evidence of a pinned cache, not of silence** — the inference "different tokens, therefore both
+     live" is **invalid on this domain**.
+   - **techafricanews.com** — an **uncached** archive fetch silently serves a **10-item page with the
+     pagination control stripped**, which reads as a complete short day. Cache-busted, the same archive
+     returned **15 items plus a working page-2 link**; the true 07-21 total was **22**. Run A recorded
+     10. **Six staged items sat in the twelve the stale render hid.**
+
+   **The practical rule:** a nil or a short day is only established when **two independent instruments
+   agree** — a cache-busted listing *and* either a date-archive 404 whose siblings resolve, a live
+   relative timestamp ("3 hours ago"), or a search hit. **A single listing, however cache-busted, is
+   never sufficient.** Search's value is not yield — it is near-zero on most of these domains — it is
+   that it is the instrument most likely to **expose a false ceiling**, which it did for itweb.africa
+   on 07-20 and for techafricanews on 07-21.
+
    **Cache-bust every listing fetch.** Exa serves badly stale listing caches that
    silently hide the whole window — subtelforum's front page dated "July 14" with
    listings at "March 28"; telecomreviewafrica attaching "1 day ago" labels to Feb
@@ -179,6 +201,52 @@ from the day *already* swept, not newly-indexed weekend items.
      `/policy-regulation`, `/mobile-money`. Live: `/connectivity/data-centers`,
      `/enterprise-networking/regulation`, `/fintech/mobile-money`, `/fintech`.
    - itweb.africa / itweb.co.za — **`/section/all` does not resolve on either.**
+   - **telecomreviewafrica.com has FIVE section listings, not seven** *(corrected 2026-07-21 run B —
+     run A reported seven and that was wrong)*. Live: **`general-news`, `telecom-operators`,
+     `telecom-vendor` (singular), `reports-and-coverage`, `features`**. **Dead:**
+     `/articles/telecom-vendors/` (plural — the common mistake), `/articles/telecom-technology/`,
+     `/articles/interviews/`, `/articles/press-releases/`.
+   - **techafricanews.com date archives paginate at 15/page and MUST be cache-busted** — see the
+     stale-cache warning above; uncached they serve 10 items with the pagination control removed.
+   - **techcabal.com — the homepage enumerates a day better than the date archive**, which inlines
+     full article bodies and truncates. On 2026-07-21 two staged items appeared only on the homepage.
+   - **wearetech.africa `/en/news` renders headlines with no URLs and no dates** and lags the FR trees;
+     it is **not reconcilable on its own** — same failure mode as itweb.co.za's front page. Use the FR
+     trees as the enumerator and treat EN as a twin-check only.
+   - **connectingafrica.com article paths use the *leaf* section at root level** (`/regulation/…`,
+     `/data-centers/…`) **even where that path is dead as a listing**, and the slug encodes accented
+     characters oddly — "Côte" becomes **`c-te`**. A naive slug guess 404s.
+   - itweb.co.za — `/news`, `/section/news` and `/sitemap.xml` are **also dead**, and the
+     **front page renders headlines with no URLs and no dates**, so it cannot be reconciled
+     on its own. **`https://www.itweb.co.za/rss` is the usable instrument**: 40 items with
+     exact URLs and `pubDate` timestamps. Exa rejects it (`CRAWL_UNEXPECTED_CONTENT_TYPE`)
+     but `Invoke-WebRequest` + `[xml]` parses it fine. **The feed is not complete** — a
+     known 07-20 item was absent from it and surfaced only via search, so cross-check.
+     *(Established 2026-07-21.)*
+   - subtelforum.com — **`/category/news/` is dead; `/news/` is the working feed**, and a
+     better instrument than the front page: clean reverse-chronological, "Load More Posts",
+     no editorially-curated trending blocks to confuse the ordering. *(2026-07-21.)*
+   - datacentresafrica.com — **`/news/` is dead as a listing path** (it resolves to a single
+     May 2025 article). The root front page is the instrument. *(2026-07-21.)*
+   - biometricupdate.com — **`/tag/africa` is badly stale** (ceiling 15 Jul under three
+     different cache-bust strings) and the main `/biometric-news/` listing **structurally
+     omits** the Africa / ID-for-All items even when they fall inside its rendered range.
+     Use **`/author/ayangmacdonald`** (the Africa correspondent's author page) as this
+     domain's Africa instrument. `/id-for-all/news`, `/biometric-news/page/2`,
+     `/category/news` and `/feed` all fail. *(2026-07-21.)*
+   - wearetech.africa — **`/fr/fils/tech-stars` is a THIRD separate tree**, like `brèves`
+     not a child of the `/fr/fils/actualites` aggregate. It supplied 2 of 5 staged items on
+     2026-07-21. Fetch it separately alongside the brèves feeds. *(2026-07-21.)*
+
+     **But the two trees are not equal in value, and the difference is systematic.** On 2026-07-21 the
+     ingest dropped **all three staged `brèves` items** (Busha×Tether, VOVE ID, Launch Africa) as
+     duplicates — each a three-sentence compression of a story the wiki already held **in full** from
+     the originating outlet, usually a day earlier — while **both `tech-stars` items** (Regxta, Vumah
+     Labs) were ingested as **original founder/company profiles available nowhere else**. So brèves
+     inflate the staged count without adding payload, and tech-stars is where this domain's unique
+     material actually is. **Still stage brèves** — sweep-time dedup is deliberately conservative and
+     ingest adjudicates with full text — but do not read a high brèves count as a strong run, and
+     expect most of them to drop. *(2026-07-21, from that run's ingest.)*
 
    **Date archives are a positive-evidence completeness check** where a domain uses
    dated URLs: on techcabal.com and techafricanews.com, `/YYYY/MM/DD/` resolves for
@@ -186,10 +254,20 @@ from the day *already* swept, not newly-indexed weekend items.
    evidence of *no publication*, not of a fetch problem. Conversely, **ID probing
    does not work on telecomreviewafrica.com** — IDs above the maximum silently fall
    back to recent articles instead of 404ing, so probing can confirm the ceiling but
-   never discover new items. Its **archive date column has also been seen running one
-   day BEHIND the article pages** (2026-07-20) — the inverse of the forward-drift
-   recorded above. Both directions of drift are possible, so on any boundary case
-   take the date from the article page and never from a listing.
+   never discover new items. **ID probing fails for a second reason too: bare-ID URLs
+   (`/articles/general-news/28998/`) return `CRAWL_NOT_FOUND` without the slug**, so an ID
+   gap cannot be probed at all. Gaps are almost certainly sister-site (Telecom Review
+   global / Middle East) articles sharing the ID space; the seven section listings
+   enumerate the Africa site completely. *(2026-07-21.)* Its **archive date column has also
+   been seen running one day BEHIND the article pages** (2026-07-20, reproduced 2026-07-21
+   on three independent items) — the inverse of the forward-drift recorded above. Both
+   directions of drift are possible, so on any boundary case take the date from the article
+   page and never from a listing.
+
+   **A stale header clock can drift forward on article pages too**: on 2026-07-21 a
+   datacentresafrica.com article dated 09 Jul in-body rendered a page header reading
+   "Monday, July 20, 2026". Taking the date from the body prevented a false in-window
+   stage. Article-page *body* stamps remain the authority on that domain.
 
    **Listing and search are mutual cross-checks, not primary and fallback.** The
    "listing over search" ruling holds on yield — across four runs search has
@@ -199,8 +277,16 @@ from the day *already* swept, not newly-indexed weekend items.
    itweb.africa listing which would otherwise have returned a false nil for the
    domain. **Run both, and treat a search hit absent from the listing as evidence
    the listing is stale — not as a stray.** *(Amended 2026-07-20.)*
+
+   **One domain inverts the yield rule: biometricupdate.com.** Because its main listing
+   structurally omits the Africa beat (above), **search was the only instrument that saw its
+   Africa items on 2026-07-21**. A run that trusts the listing alone will build a *false nil*
+   on this domain. Run search here as a primary instrument, not a cross-check.
+   Conversely **techafricanews.com's search recall is now measured at 1 in 34 (97% miss)** —
+   worse than the 85%/96% previously recorded, and the single hit was already seen. There,
+   date-archive reconstruction is the only instrument that works. *(Both 2026-07-21.)*
 4. **Dedup — conservative.** Drop a hit only if it is **(a)** an exact URL already
-   in `seen.csv`, in `raw/` frontmatter, or in a current `new-queue/` candidate; or
+   in `seen.csv`, in `raw/` frontmatter, or in a current `new/` candidate; or
    **(b)** confidently the same outlet's re-crawl of a story already held.
    Everything else survives — *same event, different outlet* and *same story, later
    date (an update)* both go through; ingest's lint #7 adjudicates with full text.
@@ -248,7 +334,7 @@ from the day *already* swept, not newly-indexed weekend items.
      manual clip before promotion, and log it. **Never** store an AI summary or
      paraphrase as the body (see Standing capture rule).
 6. **Stage — flat, no subfolders.** Write each survivor to
-   `new-queue/YYYY-MM-DD-slug.md` (publication-date prefix; no per-journal or
+   `new/YYYY-MM-DD-slug.md` (publication-date prefix; no per-journal or
    per-country folders) with the frontmatter schema below and the full body.
 7. **Manifest + state — the last act.** Write `sweep/daily/manifest-YYYY-MM-DD.md`
    (one line per staged item: `published | topics | places | source | title |
@@ -256,6 +342,12 @@ from the day *already* swept, not newly-indexed weekend items.
    **Last**, set `state.json.last_run_completed_utc = window_end`. Doing this last
    means an interrupted run leaves the high-water mark un-advanced, so re-running
    resumes cleanly.
+8. **Process the stage — hand off to `update-wiki`.** With staging and state
+   finalised, run **`update wiki`** (`UPDATE-WIKI.md`): it drains `new/` through
+   ingest, works any contradictions / acquisitions that surface, then lints. It
+   runs *after* step 7 so the high-water mark is already set and the two never
+   write the vault concurrently. This is the sweep's normal completion — skip it
+   only when deliberately staging without processing.
 
 ## Candidate frontmatter (matches the ingest contract)
 
@@ -333,6 +425,12 @@ most **one flat agent per journal** — never per-query or per-recovery micro-ag
 (the 200-subagent session cap does not reset except on a new session). Weekends and
 outages need no special handling: the high-water window absorbs the gap.
 
+**Processing the stage.** The sweep itself only *stages* into `new/`; step 8 then
+chains into **`update wiki`** (`UPDATE-WIKI.md`), which drains `new/` through ingest,
+works any contradictions / acquisitions that surface, and lints. To stage without
+processing (e.g. to eyeball the candidates first), stop after step 7 and run
+`update wiki` by hand later.
+
 Failure modes, each with its own response: **529** = Anthropic overloaded (back off
 and retry; drop concurrency if they cluster); **401 "run /login"** = local auth
 expiry (unrelated); **repeated fetch failures on one domain** = flag those items
@@ -344,14 +442,32 @@ as the final act.
 Per CLAUDE.md, the last line is the standing register tally:
 
 ```
-contradictions - NN ; acquisitions - NN ; decisions logged - NN
+contradictions - NN ; acquisitions - NN ; awaiting ingest - NN ; decisions logged - NN
 ```
+
+(*awaiting ingest* = count of files in `new/`.)
 
 plus a one-line sweep tally: `daily sweep: staged N · dropped N · needs-clip N ·
 window <start>→<end>`.
 
 ## Change log
 
+- 2026-07-21 — fourth run. 15 staged, 188 dropped; six domains nil on positive evidence.
+  Sun 07-19 nil across all ten (fourth consecutive weekend). Folded in: **known-good/dead
+  listing paths** for itweb.co.za (`/rss` is the instrument — front page carries no URLs or
+  dates), subtelforum (`/news/` not `/category/news/`), datacentresafrica (`/news/` dead),
+  biometricupdate (`/tag/africa` stale → use `/author/ayangmacdonald`) and wearetech
+  (`/fr/fils/tech-stars` is a third separate tree); **a carve-out to the listing-over-search
+  ruling** — biometricupdate's listing structurally omits the Africa beat, so search is
+  primary *there*, while techafricanews' search recall is now measured at 97% miss;
+  **telecomreviewafrica ID probing fails for a second reason** (bare-ID URLs 404 without the
+  slug); **forward header-clock drift on article pages** at datacentresafrica. Query clusters
+  D1/D2 unchanged.
+  **Process note worth keeping:** one domain agent asserted its own subagent's search
+  findings before receiving them, then caught and corrected itself; the conclusion held. On a
+  sweep whose main output is an evidence claim about *absence*, invented corroboration is the
+  failure mode that matters most — a nil day and an unworked day are indistinguishable unless
+  the evidence is real. Report unverified figures as unverified, including when relaying.
 - 2026-07-19 — initial version.
 - 2026-07-19 — first live run. Added, all from that run's evidence: day-granular
   drop test (curator ruling); subtelforum.com aggregator treatment — key on its own

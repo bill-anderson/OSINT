@@ -9,7 +9,7 @@ entities: [[nimc], [npc]]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-22
-sources: [[2025-03-08-nigerias-first-biometric-census], [2025-03-31-mandatory-citizen-registration-regulation], [2025-07-03-sim-registration-halted-nimc-migration], [2025-02-04-kaduna-land-administration-software], [2025-03-20-fg-land-information-system-digitisation], [2025-06-24-lagos-digital-house-numbering-identity-project], [2026-07-22-npc-nationwide-digital-birth-death-registration]]
+sources: [[2025-03-08-nigerias-first-biometric-census], [2025-03-31-mandatory-citizen-registration-regulation], [2025-07-03-sim-registration-halted-nimc-migration], [2025-02-04-kaduna-land-administration-software], [2025-03-20-fg-land-information-system-digitisation], [2025-06-25-lagos-digital-house-numbering-identity-project], [2026-07-22-npc-nationwide-digital-birth-death-registration]]
 ---
 
 # Nigeria × Registries (population, land, address)
@@ -58,7 +58,7 @@ land and address — being digitised and biometrically anchored, much of it keye
   data, piloted in Eti-Osa, scaling to all 57 LGs/LCDAs (built with Interspatial on two years of
   aerial mapping) — to curb rental fraud, aid utilities/postal services and improve tax compliance.
   See [[digital.localgov]], [[nigeria--digital-localgov]]. Source:
-  [[2025-06-24-lagos-digital-house-numbering-identity-project]].
+  [[2025-06-25-lagos-digital-house-numbering-identity-project]].
 
 ## Reads
 

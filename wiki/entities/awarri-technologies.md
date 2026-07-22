@@ -7,7 +7,7 @@ topics: [tech.ai]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-19
-sources: [[2025-09-20-n-atlas-nigerian-llm-launch], [2025-02-13-nigeria-google-ai-alliance]]
+sources: [[2025-09-22-n-atlas-nigerian-llm-launch], [2025-02-13-nigeria-google-ai-alliance]]
 ---
 
 # Awarri Technologies

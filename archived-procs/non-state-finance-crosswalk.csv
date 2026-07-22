@@ -1,0 +1,62 @@
+cat_primary_name,n_records,mapped_slug,confidence,note
+Broadband Infrastructure & Services,203,infra.connect,high,
+Payment Systems and Digital Finance,141,dpi.pay,high,
+Financial Inclusion,118,dpi.pay,med,Digital-finance reach; consider include.access as secondary
+ICT Industry,67,tech.industry,high,
+DIGITAL ECONOMY,54,,review,Infer from title/description. 
+Disruptive and Transformative Technologies for Human Development Service Delivery,49,tech.innovate,review,
+Core Government Systems,43,dpi.govtech,high,Interoperability-heavy records → dpi.exchange
+"Digital Economy Strategy, Policy, Regulation and Enabling Environment",39,gov.policy,high,
+Data Centers,38,infra.store,high,
+(blank),37,,review,Infer from title/description. 
+Smart Industry and Smart Infrastructure,32,tech.industry,med,IoT/smart-infra; could be tech.innovate
+Identification Systems and Civil Registration,27,dpi.id,high,
+DIGITAL PUBLIC INFRASTRUCTURE,26,,review,Infer from title/description. 
+Intermediate and Advanced Digital Skills,23,capacity.training,high,
+Digital and Data-Driven Agriculture,19,dpi.mis,med,Agri MIS; could be digital.rural/data.satellite
+"E-commerce, Private Sector Platforms, and Cross-Border Digital Trade",15,,med,Infer from title/description. Cross-Border is data.exchange
+Broadband Enabling Environment,15,infra.connect,med,Regulatory framing could be gov.policy
+CYBERSECURITY,14,infra.cybersec,high,
+GOVTECH,11,dpi.govtech,high,
+Cloud Computing,11,infra.store,high,
+Development or Strengthening of Data Institutions,9,gov.policy,med,
+Closing the Gender Digital Divide,9,include.divides,high,
+DIGITAL INCLUSION,9,include.access,med,Could be include.divides
+Digital Device Access for All,9,include.access,high,
+DIGITAL USE CASES ACROSS SECTORS,9,dpi.mis,review,L1 umbrella — infer from description
+Public Service Delivery,7,dpi.govtech,high,
+DIGITAL SKILLS AND JOBS,7,capacity.training,high,
+Artificial Intelligence Foundations,7,tech.ai,high,
+"Spatial Data Creation, Analysis, Visualization, and Use",6,data.satellite,med,GIS/spatial; could be dpi.registry(land) or data.open
+Digital Jobs,6,tech.industry,med,Employment framing; could be capacity.training
+Cybersecurity and Data Privacy for Financial Sector,6,infra.cybersec,med,Privacy angle → gov.protect secondary
+Innovation and Technology Policy,5,gov.policy,med,
+"Data Sharing, Data Exchange and Interoperability",5,dpi.exchange,high,
+Digital Literacy,5,capacity.literacy,high,
+Artificial Intelligence Enablers,4,tech.ai,high,
+DATA PROTECTION AND PRIVACY,4,gov.protect,high,
+Citizen Engagement,4,include.access,med,
+Remote Sensing or Earth Observation Products or Services,4,data.satellite,high,
+Greening of Digital,4,infra.energy,med,Sustainable ICT/energy
+Capacity Building on Data or Statistics,4,data.statistics,med,Could be capacity.training
+Technology Adoption by Firms,3,tech.industry,high,
+Greening with Digital,3,tech.innovate,review,
+Data Strategy and Data Governance,3,gov.policy,med,Governance angle → gov.protect/gov.standards
+"Digital Solutions for Addressing Fragility, Conflict and Violence",3,include.access,review,Fuzzy; could be dpi.govtech
+Data Use by Government Officials,3,dpi.govtech,review,Could be data.open/data.statistics
+Digital Solutions for Displaced Persons and Host Communities,3,include.access,review,Refugee ID cases → dpi.id
+Collection of Data from Traditional Sources,3,data.statistics,high,
+Artificial Intelligence Services & Applications,3,tech.ai,high,
+"Data Platforms, Websites, Dashboards, or Information Systems (MISs)",2,dpi.mis,high,
+GovTech Enabling Environment,2,dpi.govtech,med,Could be gov.policy
+Capacity Building and Government Training,2,capacity.training,high,
+Data Methods,2,gov.standards,med,
+"INNOVATION, TECHNOLOGY, AND GREEN COMPETITIVENESS",2,tech.innovate,med,L1 umbrella
+Data Storage and Computing Infrastructure,2,infra.store,high,
+User-centric Service Delivery,1,dpi.govtech,high,
+Data Use by non-Government Actors,1,data.open,med,
+Data Economy and Data Markets,1,data.open,review,Could be gov.policy/tech.industry
+BROADBAND CONNECTIVITY,1,infra.connect,high,
+AI AND EMERGING TECHNOLOGIES,1,tech.ai,med,L1 umbrella; IoT/quantum → tech.innovate
+Leadership and Policy for Digital Public Services,1,gov.policy,med,Could be dpi.govtech
+"Other Emerging Technologies (IoT, Quantum, Blockchain, etc.)",1,tech.innovate,high,

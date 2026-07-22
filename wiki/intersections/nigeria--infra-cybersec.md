@@ -9,7 +9,7 @@ entities: [[ncc], [nitda], [ndpc], [bosun-tijani]]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-19
-sources: [[2025-01-09-nigeria-police-cybercrime-unit-interpol], [2025-02-27-local-cyber-insurance-products], [2025-05-28-nitda-cybersecurity-centre-kano-buk], [2025-08-01-cybercrime-act-misuse-n1-1trn], [2026-03-05-ncc-4-hour-cyber-incident-reporting-crf], [2026-03-23-finland-nigeria-cyber-digitalisation-mou], [2026-05-06-cybercrime-n12bn-90pct-data-offshore]]
+sources: [[2025-01-09-nigeria-police-cybercrime-unit-interpol], [2025-02-27-local-cyber-insurance-products], [2025-05-28-nitda-cybersecurity-centre-kano-buk], [2025-08-01-cybercrime-act-misuse-n1-1trn], [2026-03-05-ncc-4-hour-cyber-incident-reporting-crf], [2026-03-25-finland-nigeria-cyber-digitalisation-mou], [2026-05-06-cybercrime-n12bn-90pct-data-offshore]]
 ---
 
 # Nigeria × Cybersecurity
@@ -60,7 +60,7 @@ risk.
 - **Finland MoU (Mar 2026).** Nigeria and Finland signed a digitalisation/innovation MoU prioritising
   **cybersecurity**, digital governance and infrastructure — building on Helsinki talks around the Data
   Exchange Platform and Finnish (Finnvera/Finnfund) participation in Project BRIDGE. See [[geopol.eu]].
-  Source: [[2026-03-23-finland-nigeria-cyber-digitalisation-mou]].
+  Source: [[2026-03-25-finland-nigeria-cyber-digitalisation-mou]].
 
 ## Reads
 

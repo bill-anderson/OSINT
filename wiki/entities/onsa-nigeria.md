@@ -7,7 +7,7 @@ topics: [infra.cybersec, gov.legislate, dpi.id, infra.connect]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-20
-sources: [[2025-10-08-ncc-19000-fibre-cuts-eight-months], [2025-11-10-digital-economy-egovernance-bill-nitda], [2026-02-27 Who Protects Nigeria's Digital Citizens Unmasking Accountability Gaps in Digital Rights Governance], [2026-07-09 NIMC Enrols 136 Million Nigerians as Coker-Odusote Pushes Stronger Inter-Ministerial Partnership], [2026-07-20-nigeria-coordinated-regulatory-framework-virtual-assets]]
+sources: [[2025-10-08-ncc-19000-fibre-cuts-eight-months], [2025-11-11-digital-economy-egovernance-bill-nitda], [2026-02-27 Who Protects Nigeria's Digital Citizens Unmasking Accountability Gaps in Digital Rights Governance], [2026-07-09 NIMC Enrols 136 Million Nigerians as Coker-Odusote Pushes Stronger Inter-Ministerial Partnership], [2026-07-20-nigeria-coordinated-regulatory-framework-virtual-assets]]
 ---
 
 # Office of the National Security Adviser (ONSA, Nigeria)
@@ -24,7 +24,7 @@ which is what makes it load-bearing rather than merely named.
 - **Written into the digital-economy bill (2025-11-10).** The NITDA-backed Digital Economy and
   E-Governance Bill proposes a **National Digital Cooperation and Interoperability Framework**
   formalising coordination among NITDA, the NCC, the **[[ndpc]]** and ONSA. Source:
-  [[2025-11-10-digital-economy-egovernance-bill-nitda]].
+  [[2025-11-11-digital-economy-egovernance-bill-nitda]].
 - **The accountability question (2026-02-27).** Analysis of Nigeria's digital-rights governance
   places ONSA inside the cybersecurity and intelligence architecture operating alongside
   **Cybercrimes Act** enforcement — the point at which regulatory authority and security power

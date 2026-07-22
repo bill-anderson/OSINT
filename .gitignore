@@ -9,6 +9,7 @@
 *.docx
 *.xlsx
 *.zip
+.env
 .git-note
 .obsidian/
 .claude/

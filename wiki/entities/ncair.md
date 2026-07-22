@@ -7,7 +7,7 @@ topics: [tech.ai]
 lens: []
 status: active
 last_reviewed: 2026-07-19
-sources: [[2025-09-20-n-atlas-nigerian-llm-launch]]
+sources: [[2025-09-22-n-atlas-nigerian-llm-launch]]
 ---
 
 # National Centre for Artificial Intelligence and Robotics (NCAIR)

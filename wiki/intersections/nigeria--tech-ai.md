@@ -9,7 +9,7 @@ entities: [[nitda], [bosun-tijani], [awarri-technologies], [ncair], [google], [m
 lens: [sovereignty, colonialism]
 status: active
 last_reviewed: 2026-07-20
-sources: [[2025-02-03-ai-tool-public-service-efficiency], [2025-02-05-ai-connectivity-government-initiatives], [2025-02-06-ai-procurement-platform-states], [2025-02-13-nigeria-google-ai-alliance], [2025-02-19-microsoft-pledges-1m-ai-training], [2025-02-25-ai-chatbot-domestic-violence-portal], [2025-03-14-airtel-ai-spam-alert], [2025-06-30-anambra-ai-smartgov-lg-spending], [2025-07-24-google-37m-africa-ai-investment], [2025-09-20-n-atlas-nigerian-llm-launch], [2025-11-20-nigeria-ai-bill-control-innovation], [2025-11-28-google-n3bn-ai-training-programme], [2026-01-14-nigeria-plans-ai-regulations-bill], [2026-03-24-nigeria-470m-ai-surveillance-spend], [2026-07-17-decide-cafeone-enterprise-ai], [2026-07-17-codar-raises-1-5m-ai-education], [2026-07-18-ness-2026-nigeria-education-summit], [2025-11-26-pwc-africa-workforce-hopes-and-fears-survey-2025]]
+sources: [[2025-02-03-ai-tool-public-service-efficiency], [2025-02-05-ai-connectivity-government-initiatives], [2025-02-06-ai-procurement-platform-states], [2025-02-13-nigeria-google-ai-alliance], [2025-02-19-microsoft-pledges-1m-ai-training], [2025-02-25-ai-chatbot-domestic-violence-portal], [2025-03-14-airtel-ai-spam-alert], [2025-06-30-anambra-ai-smartgov-lg-spending], [2025-07-25-google-37m-africa-ai-investment], [2025-09-22-n-atlas-nigerian-llm-launch], [2025-11-20-nigeria-ai-bill-control-innovation], [2025-11-28-google-n3bn-ai-training-programme], [2026-01-14-nigeria-plans-ai-regulations-bill], [2026-03-24-nigeria-470m-ai-surveillance-spend], [2026-07-17-decide-cafeone-enterprise-ai], [2026-07-17-codar-raises-1-5m-ai-education], [2026-07-18-ness-2026-nigeria-education-summit], [2025-11-26-pwc-africa-workforce-hopes-and-fears-survey-2025]]
 ---
 
 # Nigeria × Artificial Intelligence
@@ -50,7 +50,7 @@ market is put at **~$434.4m by 2026** (44.2% CAGR) and a projected **$15bn in ec
   Hausa, Igbo and Nigerian-accented English**, built on Meta's **Llama-3 8B** and fine-tuned on **400m+
   tokens**, powered by **[[awarri-technologies]]** with [[nitda]] and [[ncair]]. Nigeria has 500+ native
   languages; the goal is government services and apps usable in local tongues. Source:
-  [[2025-09-20-n-atlas-nigerian-llm-launch]].
+  [[2025-09-22-n-atlas-nigerian-llm-launch]].
 
 ## Big-Tech capital — skills and research
 
@@ -59,7 +59,7 @@ market is put at **~$434.4m by 2026** (44.2% CAGR) and a projected **$15bn in ec
   provider [[awarri-technologies]]. Google later committed **$37m continent-wide** (Jul 2025 — incl. the
   **Masakhane African-languages hub**, 40+ languages) and **₦3bn to Nigeria** (Nov 2025) across five
   partners to embed AI curricula. Sources: [[2025-02-13-nigeria-google-ai-alliance]],
-  [[2025-07-24-google-37m-africa-ai-investment]], [[2025-11-28-google-n3bn-ai-training-programme]].
+  [[2025-07-25-google-37m-africa-ai-investment]], [[2025-11-28-google-n3bn-ai-training-programme]].
 - **Microsoft.** A **$1m to train 1m Nigerians** in AI over two years (Feb 2025) — though the **$1/
   trainee** ratio drew feasibility scepticism. See [[capacity.training]]. Source:
   [[2025-02-19-microsoft-pledges-1m-ai-training]].
