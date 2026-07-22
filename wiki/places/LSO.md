@@ -120,11 +120,11 @@ last_reviewed: 2026-07-20
 
 ## Financing
 
-*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-21**.*
+*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-22**.*
 
-**Non-state** — US$14m committed across 1 deal (2019–2019). Top financiers: African Development Bank (AfDB) (US$14m). Leading subjects: `dpi.govtech`, `dpi.pay`.
+**Non-state** — US$6.21bn committed across 2 deals (2019–2026). Top financiers: Convalt Energy (US) (US$6.20bn), African Development Bank (AfDB) (US$14m). Leading subjects: `dpi.govtech`, `dpi.pay`, `infra.store`.
 
-Instrument mix: Commercial loan 1.
+Instrument mix: Commercial loan 1, MoU 1.
 
 **Domestic state** — *(pending that dataset)*.
 

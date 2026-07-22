@@ -255,11 +255,11 @@ the payments, AML, civil-registry and e-ID-rollout threads.
 
 ## Financing
 
-*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-21**.*
+*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-22**.*
 
-**Non-state** — US$235m committed across 6 deals (2022–2025). Top financiers: World Bank Group (US$100m), IFC (International Finance Corporation) (US$54m), BMZ (German Federal Ministry for Economic Cooperation and Development) (US$39m). Leading subjects: `infra.connect`, `dpi.govtech`, `tech.innovate`.
+**Non-state** — US$255m committed across 8 deals (2022–2026). (1 further deal carries only a non-USD amount, not summed.) Top financiers: World Bank Group (US$120m), IFC (International Finance Corporation) (US$54m), BMZ (German Federal Ministry for Economic Cooperation and Development) (US$39m). Leading subjects: `dpi.govtech`, `infra.connect`, `tech.innovate`.
 
-Instrument mix: Grant 4, Commercial loan 1, Concessional loan 1. **1 record here still carries the capture's unverified `Concessional loan` label**, so the mix is indicative rather than established: the World Bank portal does not separate an IDA credit from an IDA grant.
+Instrument mix: Grant 4, Commercial loan 1, Concessional loan 1, Bilateral cooperation agreements 1. **1 record here still carries the capture's unverified `Concessional loan` label**, so the mix is indicative rather than established: the World Bank portal does not separate an IDA credit from an IDA grant.
 
 **Domestic state** — *(pending that dataset)*.
 

@@ -319,11 +319,11 @@ last_reviewed: 2026-07-21
 
 ## Financing
 
-*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-21**.*
+*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-22**.*
 
-**Non-state** — US$376m committed across 14 deals (2015–2024). Top financiers: Export-Import Bank of China (US$140m), World Bank Group (US$72m), China Construction Bank (CCB) (US$64m). Leading subjects: `infra.connect`, `dpi.pay`, `data.statistics`.
+**Non-state** — US$526m committed across 17 deals (2015–2025). (1 further deal carries only a non-USD amount, not summed.) Top financiers: World Bank (US$150m), Export-Import Bank of China (US$140m), World Bank Group (US$72m). Leading subjects: `infra.connect`, `dpi.pay`, `tech.innovate`.
 
-Instrument mix: Grant 7, Concessional loan 3, TA 2. **1 record here still carries the capture's unverified `Concessional loan` label**, so the mix is indicative rather than established: the World Bank portal does not separate an IDA credit from an IDA grant.
+Instrument mix: Grant 7, Concessional loan 3, TA 2, IDA grant 2, Commercial loan 1, Guarantee 1, Donation 1. **1 record here still carries the capture's unverified `Concessional loan` label**, so the mix is indicative rather than established: the World Bank portal does not separate an IDA credit from an IDA grant.
 
 **Domestic state** — *(pending that dataset)*.
 

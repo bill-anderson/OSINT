@@ -85,11 +85,11 @@ sovereignty; the target is digital **6% → 15% of GDP by 2030**.
 
 ## Financing
 
-*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-21**.*
+*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-22**.*
 
-**Non-state** — US$584m committed across 15 deals (2017–2024). Top financiers: Bank of China (BOC) (US$286m), World Bank Group (US$90m), African Development Bank (AfDB) (US$86m). Leading subjects: `dpi.govtech`, `tech.innovate`, `dpi.pay`.
+**Non-state** — US$867m committed across 18 deals (2017–2026). Top financiers: Bank of China (BOC) (US$286m), Export-Import Bank of the United States (EXIM) (US$283m), World Bank Group (US$90m). Leading subjects: `dpi.govtech`, `tech.innovate`, `dpi.pay`.
 
-Instrument mix: Commercial loan 6, Grant 3, Concessional loan 3. **2 records here still carry the capture's unverified `Concessional loan` label**, so the mix is indicative rather than established: the World Bank portal does not separate an IDA credit from an IDA grant.
+Instrument mix: Commercial loan 6, Grant 3, Concessional loan 3, Equity 3, Guarantee 2, Export finance 1. **2 records here still carry the capture's unverified `Concessional loan` label**, so the mix is indicative rather than established: the World Bank portal does not separate an IDA credit from an IDA grant.
 
 **Domestic state** — *(pending that dataset)*.
 

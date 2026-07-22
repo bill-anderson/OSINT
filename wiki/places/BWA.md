@@ -150,7 +150,7 @@ An **upper-middle-income, comparatively strong-performing** Southern-African dig
 
 ## Financing
 
-*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-21**.*
+*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-22**.*
 
 **Non-state** — US$5m committed across 2 deals (2015–2022). Top financiers: Unspecified Chinese Government Institution (US$3m), European Commission (US$2m). Leading subjects: `dpi.govtech`, `gov.policy`.
 

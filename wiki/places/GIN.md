@@ -141,11 +141,11 @@ early-stage build, not yet outcomes.
 
 ## Financing
 
-*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-21**.*
+*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-22**.*
 
-**Non-state** — US$482m committed across 4 deals (2023–2025). Top financiers: MIGA (Multilateral Investment Guarantee Agency) (US$400m), Export-Import Bank of China (US$54m), USAID (US$29m). Leading subjects: `tech.innovate`, `dpi.pay`, `infra.connect`.
+**Non-state** — US$542m committed across 5 deals (2023–2025). Top financiers: MIGA (Multilateral Investment Guarantee Agency) (US$400m), World Bank (US$60m), Export-Import Bank of China (US$54m). Leading subjects: `infra.connect`, `tech.innovate`, `gov.regional`.
 
-Instrument mix: Guarantee 2, Grant 1, Concessional loan 1.
+Instrument mix: Guarantee 2, Grant 1, IDA credit 1, Concessional loan 1.
 
 **Domestic state** — *(pending that dataset)*.
 

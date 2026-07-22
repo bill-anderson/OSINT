@@ -321,11 +321,11 @@ last_reviewed: 2026-07-21
 
 ## Financing
 
-*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-21**.*
+*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-22**.*
 
-**Non-state** — US$910m committed across 31 deals (2017–2025). Top financiers: Mastercard Foundation (US$276m), World Bank Group (US$234m), AIIB (Asian Infrastructure Investment Bank) (US$100m). Leading subjects: `tech.industry`, `dpi.govtech`, `dpi.pay`.
+**Non-state** — US$960m committed across 32 deals (2017–2026). Top financiers: Mastercard Foundation (US$276m), World Bank Group (US$234m), AIIB (Asian Infrastructure Investment Bank) (US$100m). Leading subjects: `tech.industry`, `dpi.govtech`, `dpi.pay`.
 
-Instrument mix: Grant 20, Concessional loan 5, TA 2. **3 records here still carry the capture's unverified `Concessional loan` label**, so the mix is indicative rather than established: the World Bank portal does not separate an IDA credit from an IDA grant.
+Instrument mix: Grant 20, Concessional loan 5, TA 2, Equity 2, Commercial loan 1, Guarantee 1, Funding + technology + technical support 1. **3 records here still carry the capture's unverified `Concessional loan` label**, so the mix is indicative rather than established: the World Bank portal does not separate an IDA credit from an IDA grant.
 
 **Domestic state** — *(pending that dataset)*.
 

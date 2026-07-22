@@ -120,9 +120,9 @@ transit position.
 
 ## Financing
 
-*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-21**.*
+*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-22**.*
 
-**Non-state** — US$110m committed across 5 deals (2015–2025). Top financiers: Islamic Development Bank (IsDB) (US$56m), China Ministry of Commerce (US$23m), World Bank Group (US$20m). Leading subjects: `infra.connect`, `tech.industry`, `tech.innovate`.
+**Non-state** — US$170m committed across 6 deals (2015–2025). Top financiers: Rand Merchant Bank (RMB) (US$60m), Islamic Development Bank (IsDB) (US$56m), China Ministry of Commerce (US$23m). Leading subjects: `infra.connect`, `tech.industry`, `tech.innovate`.
 
 Instrument mix: Commercial loan 2, Concessional loan 2, Grant 1. **1 record here still carries the capture's unverified `Concessional loan` label**, so the mix is indicative rather than established: the World Bank portal does not separate an IDA credit from an IDA grant.
 

@@ -229,11 +229,11 @@ fourth-tier cybersecurity ranking mark the distance still to travel.
 
 ## Financing
 
-*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-21**.*
+*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-22**.*
 
-**Non-state** — US$85m committed across 5 deals (2020–2024). Top financiers: EIB Global (European Investment Bank) (US$36m), World Bank Group (US$30m), China Ministry of Commerce (US$15m). Leading subjects: `infra.connect`, `gov.policy`, `tech.industry`.
+**Non-state** — US$195m committed across 8 deals (2020–2026). (1 further deal carries only a non-USD amount, not summed.) Top financiers: World Bank (US$60m), Islamic Development Bank (IsDB) (US$50m), EIB Global (European Investment Bank) (US$36m). Leading subjects: `infra.connect`, `gov.policy`, `tech.industry`.
 
-Instrument mix: Grant 2, Commercial loan 1, IDA development policy grant 1.
+Instrument mix: Grant 2, Commercial loan 1, IDA development policy grant 1, Concessional loan 1, IDA credit 1.
 
 **Domestic state** — *(pending that dataset)*.
 

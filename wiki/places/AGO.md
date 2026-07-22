@@ -41,11 +41,11 @@ The wiki has read Angola's stack as a **three-way courtship** (China / India / U
 
 ## Financing
 
-*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-21**.*
+*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-22**.*
 
-**Non-state** — US$1.08bn committed across 7 deals (2016–2024). Top financiers: Export-Import Bank of China (US$657m), World Bank Group (US$360m), JBIC (Japan Bank for International Cooperation) (US$66m). Leading subjects: `infra.connect`, `tech.industry`, `gov.policy`.
+**Non-state** — US$2.01bn committed across 12 deals (2016–2025). Top financiers: Export-Import Bank of China (US$657m), World Bank Group (US$360m), Société Générale (US$259m). Leading subjects: `infra.connect`, `dpi.id`, `dpi.registry`.
 
-Instrument mix: Commercial loan 2, IBRD loan — not concessional 2, Concessional loan 2.
+Instrument mix: Commercial loan 2, IBRD loan — not concessional 2, Concessional loan 2, Buyer's credit 1, Investment agreement 1, Financing agreements 1.
 
 **Domestic state** — *(pending that dataset)*.
 

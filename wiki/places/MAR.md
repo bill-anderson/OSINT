@@ -167,6 +167,16 @@ divide (~1,800 villages offline).
   [[2026-06-17 They're taking DPI to the world - The Times of India]],
   [[2026-06-01 Africa's Place in the AI Sovereignty Debate]]. See [[geopol.india]], [[tech.ai]], [[infra.energy]].
 
+## Financing
+
+*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-22**.*
+
+**Non-state** — US$1.77bn committed across 3 deals (2020–2026). Top financiers: Nexus Core Systems (US$1.20bn), World Bank (US$570m). Leading subjects: `dpi.pay`, `gov.policy`, `dpi.id`.
+
+Instrument mix: Development Policy Loan 1, MoU / private investment 1.
+
+**Domestic state** — *(pending that dataset)*.
+
 ## Active topics
 
 - [[dpi.id]] · [[dpi.registry]] — **[[dgsn-morocco|DGSN]]** e-national ID; **[[mon-e-id]]** app;

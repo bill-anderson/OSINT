@@ -94,11 +94,11 @@ blocs are entities: [[ecowas]], [[afcfta]], [[alliance-of-sahel-states]], [[watr
 
 ## Financing
 
-*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-21**.*
+*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-22**.*
 
-**Non-state** — US$1.37bn committed across 18 deals (2016–2026). Top financiers: World Bank Group (US$854m), Equinix (US$320m), e& (formerly Etisalat) (US$157m). Leading subjects: `dpi.pay`, `infra.connect`, `dpi.id`.
+**Non-state** — US$1.61bn committed across 23 deals (2016–2026). Top financiers: World Bank Group (US$854m), Equinix (US$320m), World Bank (US$240m). Leading subjects: `infra.connect`, `dpi.pay`, `gov.regional`.
 
-Instrument mix: Grant 9, Concessional loan 6, Equity 3. **6 records here still carry the capture's unverified `Concessional loan` label**, so the mix is indicative rather than established: the World Bank portal does not separate an IDA credit from an IDA grant.
+Instrument mix: Grant 9, Concessional loan 6, Equity 3, IDA grant 3, IDA credit 2. **6 records here still carry the capture's unverified `Concessional loan` label**, so the mix is indicative rather than established: the World Bank portal does not separate an IDA credit from an IDA grant.
 
 **Domestic state** — *(pending that dataset)*.
 

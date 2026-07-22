@@ -43,11 +43,11 @@ A **small Indian-Ocean archipelago building DPI from a very low base**, largely 
 
 ## Financing
 
-*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-21**.*
+*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-22**.*
 
-**Non-state** — US$106m committed across 3 deals (2018–2025). Top financiers: Export-Import Bank of China (US$93m), Islamic Development Bank (IsDB) (US$7m), African Development Bank (AfDB) (US$6m). Leading subjects: `infra.connect`, `gov.policy`, `dpi.govtech`.
+**Non-state** — US$188m committed across 5 deals (2018–2025). (1 further deal carries only a non-USD amount, not summed.) Top financiers: Export-Import Bank of China (US$93m), AXIAN Telecom (US$82m), Islamic Development Bank (IsDB) (US$7m). Leading subjects: `infra.connect`, `gov.policy`, `dpi.govtech`.
 
-Instrument mix: Concessional loan 1, TA 1, Commercial loan 1.
+Instrument mix: Concessional loan 1, TA 1, Loan 1, Commercial loan 1.
 
 **Domestic state** — *(pending that dataset)*.
 

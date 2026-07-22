@@ -99,11 +99,11 @@ offline, with a large rural divide.
 
 ## Financing
 
-*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-21**.*
+*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-22**.*
 
-**Non-state** — US$728m committed across 9 deals (2017–2023). Top financiers: World Bank Group (US$600m), Export-Import Bank of China (US$104m), Norfund (Norwegian Investment Fund for Developing Countries) (US$17m). Leading subjects: `infra.connect`, `dpi.id`, `dpi.pay`.
+**Non-state** — US$955m committed across 12 deals (2017–2025). Top financiers: World Bank Group (US$600m), Export-Import Bank of China (US$104m), European Investment Bank (EIB Global) (US$100m). Leading subjects: `infra.connect`, `dpi.pay`, `dpi.id`.
 
-Instrument mix: Concessional loan 5, Equity 1, Buyer's credit 1. **4 records here still carry the capture's unverified `Concessional loan` label**, so the mix is indicative rather than established: the World Bank portal does not separate an IDA credit from an IDA grant.
+Instrument mix: Concessional loan 5, IDA investment financing 1, Equity 1, Buyer's credit 1, TA 1, Guarantee 1, Financing package 1. **4 records here still carry the capture's unverified `Concessional loan` label**, so the mix is indicative rather than established: the World Bank portal does not separate an IDA credit from an IDA grant.
 
 **Domestic state** — *(pending that dataset)*.
 

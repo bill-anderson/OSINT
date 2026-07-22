@@ -210,7 +210,7 @@ market's velocity.
 
 ## Financing
 
-*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-21**.*
+*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-22**.*
 
 **Non-state** — US$186m committed across 9 deals (2015–2024). Top financiers: World Bank Group (US$166m), African Development Bank (AfDB) (US$6m), European Commission (US$5m). Leading subjects: `dpi.govtech`, `gov.policy`, `infra.connect`.
 

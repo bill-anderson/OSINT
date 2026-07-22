@@ -360,11 +360,11 @@ _Older dated developments (through early 2026) are preserved in their linked sou
 - **2026-05-21** — AI sovereignty as continental fault line: Nigeria, Egypt and Kenya draft AI policies naming US-tech dependence; a $60bn Africa AI Fund (Kigali). [[2026-05-21 Pushing back from Big Tech Africa's hard road to AI sovereignty]] · [[tech.ai]] · [[geopol.usa]]
 ## Financing
 
-*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-21**.*
+*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-22**.*
 
-**Non-state** — US$1.51bn committed across 167 deals (2015–2026). Top financiers: Bill & Melinda Gates Foundation (US$768m), Export-Import Bank of China (US$544m), European Commission (US$168m). Leading subjects: `dpi.pay`, `infra.connect`, `gov.policy`.
+**Non-state** — US$2.54bn committed across 171 deals (2015–2026). Top financiers: African Startup and Young Innovators Financing Fund (Algeria) (US$1.00bn), Bill & Melinda Gates Foundation (US$768m), Export-Import Bank of China (US$544m). Leading subjects: `dpi.pay`, `infra.connect`, `gov.policy`.
 
-Instrument mix: Grant 166, Commercial loan 1.
+Instrument mix: Grant 167, IDA grant 2, Commercial loan 1.
 
 **Domestic state** — *(pending that dataset)*.
 

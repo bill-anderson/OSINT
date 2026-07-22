@@ -169,6 +169,16 @@ and social protection, and a **submarine-cable / data-centre hub** position — 
   green hyperscale, Huawei Cloud region); **[[amazon-web-services|AWS]]** Cairo edge. See
   [[infra.connect]], [[infra.store]], [[egypt--infra-store]].
 
+## Financing
+
+*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-22**.*
+
+**Non-state** — US$3.94bn committed across 3 deals (2026–2026). Top financiers: Telecom Egypt, Vodafone Egypt, Orange Egypt, e& Egypt (four operators) (US$3.50bn), Hassan Allam Digital Infrastructure and Data Center Solutions (US$400m), Algebra Ventures (lead, Series A equity) (US$37m). Leading subjects: `dpi.pay`, `infra.connect`, `infra.store`.
+
+Instrument mix: Equity + debt facilities 1, Spectrum award 1, Investment under NTRA data-centre licence 1.
+
+**Domestic state** — *(pending that dataset)*.
+
 ## Active topics
 
 - [[dpi.govtech]] · [[gov.policy]] — **[[digital-egypt]]** platform & 2026 automation; GTMI Group A.

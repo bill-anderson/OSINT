@@ -137,7 +137,7 @@ all against very low connectivity (**internet penetration ~23% (2025)**).
 
 ## Financing
 
-*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-21**.*
+*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-22**.*
 
 **Non-state** — US$118m committed across 4 deals (2019–2022). Top financiers: World Bank Group (US$108m), Ministry of Foreign Affairs of the Netherlands (DGIS) (US$8m), MIGA (Multilateral Investment Guarantee Agency) (US$2m). Leading subjects: `dpi.pay`, `include.access`, `dpi.mis`.
 

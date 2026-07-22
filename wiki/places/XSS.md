@@ -95,11 +95,11 @@ home region. Roll-up by walking parents.
 
 ## Financing
 
-*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-21**.*
+*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-22**.*
 
-**Non-state** — US$19.53bn committed across 297 deals (2015–2027). Top financiers: Orange / Orange Digital Ventures Africa (US$3.36bn), Mastercard Foundation (US$2.11bn), Cassava Technologies / Liquid Intelligent Technologies (US$1.73bn). Leading subjects: `infra.connect`, `dpi.pay`, `tech.industry`.
+**Non-state** — US$19.73bn committed across 299 deals (2015–2027). Top financiers: Orange / Orange Digital Ventures Africa (US$3.36bn), Mastercard Foundation (US$2.11bn), Cassava Technologies / Liquid Intelligent Technologies (US$1.73bn). Leading subjects: `infra.connect`, `dpi.pay`, `tech.industry`.
 
-Instrument mix: Grant 125, Equity 96, Commercial loan 44.
+Instrument mix: Grant 125, Equity 102, Commercial loan 44, Bond 13, TA 9, Guarantee 2, Concessional loan 1, Mezzanine 1, Funding + technology + technical support 1, Loan 1.
 
 **Domestic state** — *(pending that dataset)*.
 

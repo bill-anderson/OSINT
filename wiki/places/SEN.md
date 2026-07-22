@@ -331,11 +331,11 @@ last_reviewed: 2026-07-21
 
 ## Financing
 
-*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-21**.*
+*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-22**.*
 
-**Non-state** — US$1.25bn committed across 26 deals (2015–2025). Top financiers: Export-Import Bank of China (US$416m), Mastercard Foundation (US$200m), World Bank Group (US$150m). Leading subjects: `tech.industry`, `infra.connect`, `dpi.govtech`.
+**Non-state** — US$1.39bn committed across 31 deals (2015–2026). (2 further deals carry only a non-USD amount, not summed.) Top financiers: Export-Import Bank of China (US$416m), Mastercard Foundation (US$200m), World Bank Group (US$150m). Leading subjects: `infra.connect`, `tech.industry`, `dpi.govtech`.
 
-Instrument mix: Grant 15, Commercial loan 5, Concessional loan 4. **1 record here still carries the capture's unverified `Concessional loan` label**, so the mix is indicative rather than established: the World Bank portal does not separate an IDA credit from an IDA grant.
+Instrument mix: Grant 17, Commercial loan 5, Concessional loan 4, Equity 1, Technical assistance / advisory 1, TA 1, Debt 1, Senior loan 1. **1 record here still carries the capture's unverified `Concessional loan` label**, so the mix is indicative rather than established: the World Bank portal does not separate an IDA credit from an IDA grant.
 
 **Domestic state** — *(pending that dataset)*.
 

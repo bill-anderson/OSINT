@@ -192,6 +192,16 @@ thing to watch.
   [[2024-01-08 Tunisia Unveils Digital Platform to Boost Education Transparency, Equity]]. See
   [[dpi.govtech]], [[include.divides]], [[digital.rural]].
 
+## Financing
+
+*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-22**.*
+
+**Non-state** — 2 deals held (2023–2024); amounts stated only in non-USD currencies, so no USD total is computed. Leading subjects: `infra.connect`.
+
+Instrument mix: CEF Digital co-funding 1, Senior development-linked loan 1.
+
+**Domestic state** — *(pending that dataset)*.
+
 ## Active topics
 
 - [[dpi.id]] — **[[e-houwiya]]** (live since Aug 2022; 200,000 subscribers as of Mar 2025) and the

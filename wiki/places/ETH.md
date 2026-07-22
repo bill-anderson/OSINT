@@ -343,11 +343,11 @@ last_reviewed: 2026-07-21
 
 ## Financing
 
-*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-21**.*
+*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-22**.*
 
-**Non-state** — US$3.16bn committed across 34 deals (2016–2025). Top financiers: MIGA (Multilateral Investment Guarantee Agency) (US$1.00bn), Mastercard Foundation (US$664m), World Bank Group (US$583m). Leading subjects: `dpi.pay`, `infra.connect`, `dpi.govtech`.
+**Non-state** — US$5.32bn committed across 36 deals (2016–2025). Top financiers: Vodacom Group (US$2.10bn), MIGA (Multilateral Investment Guarantee Agency) (US$1.00bn), Mastercard Foundation (US$664m). Leading subjects: `dpi.pay`, `infra.connect`, `dpi.govtech`.
 
-Instrument mix: Grant 19, Concessional loan 6, Equity 4. **3 records here still carry the capture's unverified `Concessional loan` label**, so the mix is indicative rather than established: the World Bank portal does not separate an IDA credit from an IDA grant.
+Instrument mix: Grant 19, Concessional loan 6, Equity 4, Commercial loan 3, Mezzanine 1, Guarantee 1, Equity acquisition 1. **3 records here still carry the capture's unverified `Concessional loan` label**, so the mix is indicative rather than established: the World Bank portal does not separate an IDA credit from an IDA grant.
 
 **Domestic state** — *(pending that dataset)*.
 

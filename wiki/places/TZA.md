@@ -169,11 +169,11 @@ intersections above.*
 
 ## Financing
 
-*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-21**.*
+*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-22**.*
 
-**Non-state** — US$629m committed across 29 deals (2015–2026). Top financiers: World Bank Group (US$150m), Economic Development Cooperation Fund (Korea Eximbank) (US$135m), Axian Group (US$100m). Leading subjects: `dpi.pay`, `infra.connect`, `tech.innovate`.
+**Non-state** — US$1.06bn committed across 35 deals (2015–2026). Top financiers: World Bank Group (US$150m), Economic Development Cooperation Fund (Korea Eximbank) (US$135m), Yas Fibre (Axian Telecom) (US$114m). Leading subjects: `dpi.pay`, `infra.connect`, `tech.innovate`.
 
-Instrument mix: Grant 19, Equity 4, Concessional loan 3. **1 record here still carries the capture's unverified `Concessional loan` label**, so the mix is indicative rather than established: the World Bank portal does not separate an IDA credit from an IDA grant.
+Instrument mix: Grant 19, Equity 4, Concessional loan 3, Buyer's credit 1, Commercial loan 1, Financing package 1, Guarantee 1, Corporate investment 1, Credit facility 1, Public-private partnership 1. **1 record here still carries the capture's unverified `Concessional loan` label**, so the mix is indicative rather than established: the World Bank portal does not separate an IDA credit from an IDA grant.
 
 **Domestic state** — *(pending that dataset)*.
 

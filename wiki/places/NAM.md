@@ -213,6 +213,16 @@ last_reviewed: 2026-07-20
   [[2025-03-03 Digital 2025 - Namibia (DataReportal)]],
   [[2023-09-01 Electrification of Rural Primary Schools in Namibia]].
 
+## Financing
+
+*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-22**.*
+
+**Non-state** — US$48m committed across 2 deals (2025–2026). Top financiers: Paratus Group (US$34m), Government of China (US$14m). Leading subjects: `infra.connect`, `dpi.govtech`, `tech.ai`.
+
+Instrument mix: Private investment 1.
+
+**Domestic state** — *(pending that dataset)*.
+
 ## Active topics
 
 - [[geopol.china]] · [[finance.new]] — Chinese-financed, Huawei-delivered digital build.

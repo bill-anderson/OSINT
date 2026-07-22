@@ -176,11 +176,11 @@ days, two days before a presidential election — reminding every layer above it
 
 ## Financing
 
-*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-21**.*
+*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-22**.*
 
-**Non-state** — US$889m committed across 17 deals (2017–2025). Top financiers: Export-Import Bank of China (US$295m), World Bank Group (US$213m), Mastercard Foundation (US$200m). Leading subjects: `infra.connect`, `dpi.pay`, `dpi.mis`.
+**Non-state** — US$952m committed across 18 deals (2017–2025). Top financiers: Export-Import Bank of China (US$295m), World Bank Group (US$213m), Mastercard Foundation (US$200m). Leading subjects: `infra.connect`, `dpi.pay`, `dpi.mis`.
 
-Instrument mix: Grant 7, Concessional loan 4, Equity 2. **2 records here still carry the capture's unverified `Concessional loan` label**, so the mix is indicative rather than established: the World Bank portal does not separate an IDA credit from an IDA grant.
+Instrument mix: Grant 7, Concessional loan 4, Equity 3, Commercial loan 2, TA 1, Guarantee 1. **2 records here still carry the capture's unverified `Concessional loan` label**, so the mix is indicative rather than established: the World Bank portal does not separate an IDA credit from an IDA grant.
 
 **Domestic state** — *(pending that dataset)*.
 

@@ -191,11 +191,11 @@ struggling to reach its own territory on the other.
 
 ## Financing
 
-*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-21**.*
+*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-22**.*
 
-**Non-state** — US$54m committed across 2 deals (2017–2022). Top financiers: World Bank Group (US$35m), African Development Bank (AfDB) (US$19m). Leading subjects: `infra.connect`, `dpi.govtech`.
+**Non-state** — US$204m committed across 3 deals (2017–2025). Top financiers: Greenline Technologies Inc. (US$150m), World Bank Group (US$35m), African Development Bank (AfDB) (US$19m). Leading subjects: `infra.connect`, `dpi.govtech`, `infra.store`.
 
-Instrument mix: Commercial loan 1, IDA grant 1.
+Instrument mix: Commercial loan 1, IDA grant 1, MoU / investment 1.
 
 **Domestic state** — *(pending that dataset)*.
 

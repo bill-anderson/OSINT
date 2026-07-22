@@ -316,11 +316,11 @@ doubles as the data protection authority** — there is no separate DPA.
 
 ## Financing
 
-*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-21**.*
+*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-22**.*
 
 **Non-state** — US$703m committed across 7 deals (2015–2023). Top financiers: China Development Bank (US$337m), Export-Import Bank of China (US$190m), ZTE (US$150m). Leading subjects: `infra.connect`, `infra.store`, `capacity.training`.
 
-Instrument mix: Concessional loan 2, Buyer's credit 2, Grant 2.
+Instrument mix: Concessional loan 2, Buyer's credit 2, Grant 2, Commercial loan 1.
 
 **Domestic state** — *(pending that dataset)*.
 

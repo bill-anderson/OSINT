@@ -293,11 +293,11 @@ but ahead of the governance frameworks meant to hold it.
 
 ## Financing
 
-*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-21**.*
+*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-22**.*
 
-**Non-state** — US$306m committed across 4 deals (2016–2024). Top financiers: Export-Import Bank of China (US$271m), China Ministry of Commerce (US$29m), Finnfund (Finnish Fund for Industrial Cooperation) (US$5m). Leading subjects: `capacity.training`, `tech.industry`, `infra.connect`.
+**Non-state** — US$311m committed across 5 deals (2016–2026). Top financiers: Export-Import Bank of China (US$271m), China Ministry of Commerce (US$29m), Finnfund (Finnish Fund for Industrial Cooperation) (US$5m). Leading subjects: `capacity.training`, `infra.connect`, `tech.industry`.
 
-Instrument mix: Grant 2, Commercial loan 1, Mezzanine 1.
+Instrument mix: Grant 2, Commercial loan 1, Mezzanine 1, Equity/follow-on investment 1.
 
 **Domestic state** — *(pending that dataset)*.
 

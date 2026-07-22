@@ -363,11 +363,11 @@ _Older dated developments (through early 2026) are preserved in their linked sou
 - **2026-05-23 / 2026-05-12** — [[via-africa-cable]], an [[orange]]-led 20,000km Atlantic subsea system, was announced at the Africa Forward Summit in Nairobi (Ruto, Macron). [[2026-05-23 Orange-backed subsea cable to connect Nigeria, 19 other countries]] · [[infra.connect]]
 ## Financing
 
-*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-21**.*
+*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-22**.*
 
-**Non-state** — US$2.12bn committed across 66 deals (2015–2025). Top financiers: Export-Import Bank of China (US$501m), World Bank Group (US$390m), Economic Development Cooperation Fund (Korea Eximbank) (US$230m). Leading subjects: `dpi.pay`, `infra.connect`, `tech.innovate`.
+**Non-state** — US$4.37bn committed across 71 deals (2015–2026). (2 further deals carry only a non-USD amount, not summed.) Top financiers: Vodacom Group (US$2.10bn), Export-Import Bank of China (US$501m), World Bank Group (US$390m). Leading subjects: `dpi.pay`, `infra.connect`, `tech.innovate`.
 
-Instrument mix: Grant 23, Equity 17, Commercial loan 15. **1 record here still carries the capture's unverified `Concessional loan` label**, so the mix is indicative rather than established: the World Bank portal does not separate an IDA credit from an IDA grant.
+Instrument mix: Grant 24, Equity 17, Commercial loan 15, Concessional loan 8, TA 2, Guarantee 1, Private investment 1, Equity acquisition 1, Senior loan 1. **1 record here still carries the capture's unverified `Concessional loan` label**, so the mix is indicative rather than established: the World Bank portal does not separate an IDA credit from an IDA grant.
 
 **Domestic state** — *(pending that dataset)*.
 

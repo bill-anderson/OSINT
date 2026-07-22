@@ -82,11 +82,11 @@ are arriving, though GSMA flags weak connectivity (18.8% unique mobile-internet 
 
 ## Financing
 
-*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-21**.*
+*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-22**.*
 
-**Non-state** — US$213m committed across 6 deals (2016–2022). Top financiers: World Bank Group (US$100m), African Development Bank (AfDB) (US$60m), EIB Global (European Investment Bank) (US$38m). Leading subjects: `infra.connect`, `dpi.govtech`, `dpi.pay`.
+**Non-state** — US$243m committed across 9 deals (2016–2025). (2 further deals carry only a non-USD amount, not summed.) Top financiers: World Bank Group (US$100m), African Development Bank (AfDB) (US$60m), EIB Global (European Investment Bank) (US$38m). Leading subjects: `dpi.govtech`, `infra.connect`, `dpi.pay`.
 
-Instrument mix: Commercial loan 2, Grant 2, Guarantee 1.
+Instrument mix: Grant 3, Commercial loan 2, Loan 1, Guarantee 1, IBRD loan — not concessional 1, Series B 1.
 
 **Domestic state** — *(pending that dataset)*.
 

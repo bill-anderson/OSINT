@@ -96,11 +96,11 @@ about commencement dates, enforcement reach and drafting gaps rather than covera
 
 ## Financing
 
-*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-21**.*
+*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-22**.*
 
-**Non-state** — US$100m committed across 2 deals (2019–2022). Top financiers: Trade and Development Bank (TDB) (US$100m). Leading subjects: `infra.connect`.
+**Non-state** — US$130m committed across 4 deals (2019–2025). Top financiers: Trade and Development Bank (TDB) (US$100m), World Bank (US$30m), Hustle Fund (US$350k). Leading subjects: `infra.connect`, `dpi.registry`, `include.access`.
 
-Instrument mix: Commercial loan 2.
+Instrument mix: Commercial loan 2, Program-for-Results 1, Pre-seed round 1.
 
 **Domestic state** — *(pending that dataset)*.
 

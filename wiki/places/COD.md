@@ -147,11 +147,11 @@ last_reviewed: 2026-07-18
 
 ## Financing
 
-*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-21**.*
+*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-22**.*
 
-**Non-state** — US$792m committed across 10 deals (2015–2025). Top financiers: World Bank Group (US$400m), Export-Import Bank of China (US$150m), Agence Française de Développement (AFD) (US$109m). Leading subjects: `infra.connect`, `dpi.id`, `dpi.govtech`.
+**Non-state** — US$2.89bn committed across 14 deals (2015–2026). Top financiers: Genew Technologies (China) (US$1.50bn), World Bank Group (US$400m), World Bank (International Development Association, IDA) (US$400m). Leading subjects: `infra.connect`, `dpi.id`, `dpi.pay`.
 
-Instrument mix: Commercial loan 3, Concessional loan 3, Guarantee 2. **1 record here still carries the capture's unverified `Concessional loan` label**, so the mix is indicative rather than established: the World Bank portal does not separate an IDA credit from an IDA grant.
+Instrument mix: Commercial loan 3, Concessional loan 3, Guarantee 2, Grant 1, Mezzanine 1, 20-year public-private partnership 1, IDA financing 1, MoU 1, Investment agreement 1. **1 record here still carries the capture's unverified `Concessional loan` label**, so the mix is indicative rather than established: the World Bank portal does not separate an IDA credit from an IDA grant.
 
 **Domestic state** — *(pending that dataset)*.
 

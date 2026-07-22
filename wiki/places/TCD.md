@@ -201,7 +201,7 @@ poverty through digital-enabled services within five years. Other accounts rende
 
 ## Financing
 
-*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-21**.*
+*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-22**.*
 
 **Non-state** — US$382m committed across 5 deals (2017–2024). Top financiers: Export-Import Bank of China (US$215m), World Bank Group (US$139m), China Ministry of Commerce (US$28m). Leading subjects: `infra.connect`, `gov.policy`, `dpi.govtech`.
 

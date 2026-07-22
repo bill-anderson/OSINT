@@ -6,6 +6,17 @@ Reporting): a few lines each, full detail in `log-archive.md` or git.
 
 ---
 
+## 2026-07-22 — finance compile: 58 hub Financing sections recomputed (as of 2026-07-22)
+
+Post-ingest compile over the full 1,210 deal records (was ~53 hubs / 1,109 records). Non-state totals now
+US$83.2bn across 1,210 records by literal place tag; largest: XSS US$19.7bn/299, ZAF US$9.36bn/62,
+LSO jumps to US$6.21bn on the Convalt Energy US$6.2bn AI-data-centre MoU (Pipeline). Instrument strings
+normalised (parentheticals stripped); non-USD-only deals now stated as uncounted rather than summed at 0;
+Material-deals lines preserved as held. Script exclusion audit: no record is fuzzy-self-excluded — all
+"not counted" phrases refer to cross-referenced non-record files. Revert: `git checkout <sha> -- wiki/places/`.
+
+contradictions - 0 ; acquisitions - 0 ; awaiting ingest - 0 ; decisions logged - 0
+
 ## 2026-07-22 — update-wiki iteration 2, reconcile: Cameroon video-surveillance Phase 1 resolved; `open/` drained
 
 1 researched, 1 resolved, 0 re-routed. The "44.9 vs 45.9 billion FCFA" conflict dissolved into three objects:

@@ -65,11 +65,11 @@ digital and "tech islands" hub** (**[[techpark-cv|TechPark CV]]**), backed by th
 
 ## Financing
 
-*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-21**.*
+*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-22**.*
 
 **Non-state** — US$255m committed across 13 deals (2017–2025). Top financiers: African Development Bank (AfDB) (US$133m), EIB Global (European Investment Bank) (US$65m), China Ministry of Commerce (US$23m). Leading subjects: `dpi.govtech`, `infra.connect`, `tech.industry`.
 
-Instrument mix: Commercial loan 4, TA 4, Grant 3. **1 record here still carries the capture's unverified `Concessional loan` label**, so the mix is indicative rather than established: the World Bank portal does not separate an IDA credit from an IDA grant.
+Instrument mix: Commercial loan 4, TA 4, Grant 3, Concessional loan 2. **1 record here still carries the capture's unverified `Concessional loan` label**, so the mix is indicative rather than established: the World Bank portal does not separate an IDA credit from an IDA grant.
 
 **Domestic state** — *(pending that dataset)*.
 

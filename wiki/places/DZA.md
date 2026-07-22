@@ -152,6 +152,16 @@ market, a sovereign-cloud and state-owned data-centre/AI-compute build-out — l
   systems. See [[infra.cybersec]], [[tech.ai]]. Source: [[2026-03-01 Smart City Surveillance in Africa (IDS 2026)]].
 - Parent region: [[XNA]] · continental: [[XAF]].
 
+## Financing
+
+*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-22**.*
+
+**Non-state** — US$1.49bn committed across 2 deals (2025–2025). Top financiers: African Startup and Young Innovators Financing Fund (Algeria) (US$1.00bn), Mobilis, Djezzy, Ooredoo Algeria (operators) (US$492m). Leading subjects: `tech.innovate`, `infra.connect`.
+
+Instrument mix: 5G spectrum licences 1.
+
+**Domestic state** — *(pending that dataset)*.
+
 ## Active topics
 
 - [[gov.policy]] · [[dpi.govtech]] — **[[digital-algeria-2030]]** (SNTN-2030, 7 pillars, 100% services

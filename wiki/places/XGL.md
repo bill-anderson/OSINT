@@ -145,7 +145,7 @@ matters for the African data landscape. Never a country's home region.
 
 ## Financing
 
-*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-21**.*
+*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-22**.*
 
 **Non-state** — US$178m committed across 37 deals (2017–2025). Top financiers: European Commission (US$123m), Bill & Melinda Gates Foundation (US$55m). Leading subjects: `dpi.pay`, `gov.policy`, `dpi.id`.
 

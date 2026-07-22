@@ -223,9 +223,9 @@ The rails exist; usage lags them.
 
 ## Financing
 
-*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-21**.*
+*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-22**.*
 
-**Non-state** — US$35m committed across 3 deals (2020–2026). Top financiers: World Bank Group (US$24m), India Exim Bank (US$10m). Leading subjects: `dpi.govtech`, `infra.store`, `infra.connect`.
+**Non-state** — US$55m committed across 4 deals (2020–2026). Top financiers: World Bank Group (US$24m), World Bank (US$20m), India Exim Bank (US$10m). Leading subjects: `dpi.govtech`, `dpi.mis`, `infra.store`.
 
 Instrument mix: Concessional loan 1, Line of credit 1, IDA credit 1. **1 record here still carries the capture's unverified `Concessional loan` label**, so the mix is indicative rather than established: the World Bank portal does not separate an IDA credit from an IDA grant.
 
