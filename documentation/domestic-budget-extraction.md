@@ -79,6 +79,18 @@ carried them, where they hid, what you looked for and didn't find.
 - **Didn't work:** AGSA direct PDF (bot-guard HTML even with UA + versioned URL); DCDT Phoca Download
   raw link (no href on page); guessing ENE chapter names other than Vote 30.
 
+**First extraction run (2026-07-22, ZAF/2024 — 8 of 9 documents extracted, FullENE deferred):**
+- **The appropriation statement's layout offsets row labels from values** under `pdftotext -layout`
+  (labels stack left, figures stack right) — decode by summing to the verified totals; every block in
+  this corpus reconciled exactly once the offset was understood.
+- **Vote 30 grain settled:** P5 records at subprogramme grain (Broadband = SA Connect carrier; BDM;
+  ICT Support), other programmes at programme grain; Administration and P5 Programme Management not
+  recorded (admin overhead). P4 recorded partial (SAPO/SABC in the transfers).
+- **Treasury's May-2025 "revised estimate" for Vote 30 (R3,854.8m) was far above the audited actual
+  (R2,915.2m)** — treat revised estimates as projections, never outturn evidence.
+- **The MTEF cliff is a lead-generator:** Broadband 1,894.6 → 267.4 (2025/26 estimate) exposed the
+  SA Connect Phase 2 funding question and produced a contradiction against Budget-2026 reporting.
+
 ### Template for an entry
 
 ```markdown

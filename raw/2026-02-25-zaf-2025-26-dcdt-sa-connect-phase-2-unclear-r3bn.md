@@ -68,6 +68,8 @@ https://www.businessday.co.za/economy/2026-02-26-government-allocates-r3bn-for-s
 
 ## Notes
 
+- **Contradiction filed 2026-07-22** (`reviews/contradictions/open/2026-07-22-zaf-sa-connect-phase-2-fy2025-26-scale.md`): the ENE 2024 MTEF puts the Broadband subprogramme's 2025/26 estimate at R267.4m and the department's whole FY2025/26 vote at ~R2.5bn — a single-FY ">R3bn" line is impossible; the figure is likely a multi-year Phase 2 total. Do not count this record in aggregates until reconciled.
+
 - scope_basis: explicit programme — SA Connect Phase 2 is a broadband-connectivity project; entirely digital; scope whole.
 - funding source unstated beyond "state coffers" — recorded domestic-state per the origin gate, flagged.
 - budget_stage: unclear — the article reports an "allocation" in the context of the 2026 budget speech but does not state whether the R3bn is the tabled 2026/27 proposal or the in-force 2025/26 appropriation; the source ties the figure to project completion in 2025/26, so the fiscal-year fields follow the source's 2025/26 anchor. WARNING: fiscal-year attribution is the source's, and is ambiguous against the budget-speech timing.

@@ -6,6 +6,27 @@ Reporting): a few lines each, full detail in `log-archive.md` or git.
 
 ---
 
+## 2026-07-22 — budget extract: ZAF/2024 drained — 14 records, the 42.2% finding, 1 contradiction
+
+First live run. **8 of 9 documents extracted and archived** (archetypes: A×1, B×2, C×1, D×1, E×1, F×1,
+s32 processed-no-records as the library predicted); **FullENE deliberately left in `new-budget/ZAF/2024/`**
+— its cross-vote purpose (Home Affairs ID, Treasury FMS lines) is undone work, correctly visible.
+**14 records staged** (7 appropriated + 7 audited; Vote 30: P2/P3/P6 + P4 partial at programme grain,
+P5 at subprogramme grain — Broadband/BDM/ICT Support; Administration + P5-management skipped as
+non-digital admin) + the AGSA ICT-findings source page (72 projects, 41 failing worth R12.1bn; 64% weak
+cyber). **Reconciliation held to the rand** across ENE↔B5↔AENE↔stats-annexure↔AR (3,968,611k five ways).
+**Headline: Broadband/SA Connect appropriated R1,894.6m → final R1,740.6m → actual R734.8m, 42.2%; vote
+73.5%; R145.9m vired into entity transfers (P4, 99.9%).** **Case-5 reset applied:** the speech-built
+proposed record retired, rebuilt as appropriated+audited pair, stem kept; speech's R1.858bn = project
+figure inside the subprogramme, not a contradiction. **1 contradiction filed:** FY2025/26 "SA Connect
+Ph2 >R3bn" impossible against MTEF R267.4m + vote R2.5bn — held record flagged, excluded from aggregates.
+Judgment: AENE virements (≤R1m, netting zero) folded as dev-history, no revised-stage records. Extracted
+tables committed as 7 CSVs in `budget-archive/ZAF/2024/`; manifest updated; notes appended.
+Revert: `git checkout <sha> -- new/ raw/ new-budget/ budget-archive/ reviews/ documentation/`.
+
+contradictions - 1 ; acquisitions - 0 ; awaiting ingest - 15 ; decisions logged - 3
+*(new-budget outstanding: ZAF/2024 FullENE pair — cross-vote extraction deferred)*
+
 ## 2026-07-22 — budget-extract review: two fixes applied, ready to test
 
 Read the whole chain (BUDGET-EXTRACT.md, strategy library, budget-archive/, reference §2, driver
