@@ -6,6 +6,16 @@ Reporting): a few lines each, full detail in `log-archive.md` or git.
 
 ---
 
+## 2026-07-22 — update-wiki: converged in 1 working iteration; cross-vote records live on the hub
+
+Passes: **ingest ×1, finance compile ×1, full lint ×1**; reconcile/acquire skipped (0 throughout).
+10 cross-vote records admitted (`raw/` domestic records: 42, ZAF 24). Compile: ZAF domestic-state now
+**R5.07bn appropriated across 16 clean lines FY2024/25** (Vote 30 R2.11bn + cross-vote R2.96bn), audited
+R908m/6 lines, execution rates unchanged, partials reported apart. Lint: baseline held exactly — no new
+defects (new records' entity tags are frontmatter tags, not links). Revert: `git checkout <sha> -- raw/ new/ wiki/`.
+
+contradictions - 0 ; acquisitions - 0 ; awaiting ingest - 0 ; decisions logged - 0
+
 ## 2026-07-22 — budget extract (cross-vote run): ZAF/2024 fully drained — 10 records from 6 votes, ~R2.96bn
 
 Step 4a's first execution over the FullENE (1,073pp, 42 votes indexed cleanly). **10 appropriated records
