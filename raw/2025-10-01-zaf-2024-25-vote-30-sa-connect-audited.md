@@ -60,6 +60,8 @@ AGSA-audited appropriation statement, Programme 5 subprogramme detail. The Broad
 
 ## Development history
 
+- **2025-10-07** — Portfolio Committee on Communications report gives the in-year path to this outturn: 46% of the vote spent at 2024-12-31 (underspend R1.6bn, 97% SA-Connect-driven); a planned R1.4bn January payment "to significantly reduce the slow[-spend]"; 73% spent at 2025-03-31 (underspend R1.1bn, 95% SA Connect); rollover requested under Treasury Regulation 6.4. [archived: budget-archive/ZAF/2025/2025-10-07-zaf-portfolio-committee-report-dcdt-budget-performance.pdf]
+
 
 ## Notes
 

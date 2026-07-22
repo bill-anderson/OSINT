@@ -6,6 +6,25 @@ Reporting): a few lines each, full detail in `log-archive.md` or git.
 
 ---
 
+## 2026-07-22 — budget extract: ZAF/2025 drained — 17 records; the rollover documented; DPA goes standalone
+
+All 7 documents extracted and archived (no new archetypes; 5 CSVs). **17 records staged** (8 Vote 30:
+7 appropriated + 1 revised; 9 cross-vote appropriated). The year's story at document grain:
+**Broadband/SA Connect appropriated R267.1m (the enacted cliff) → AENE rollover +R1,004,787k
+"for costs related to the rollout of the South Africa Connect project" → adjusted R1,250,986k**
+(vote-level delta exact: 2,545,626 → 3,550,413) — the document counterpart of the DG's
+R1.1bn-arrived-in-January account. **Information Regulator: R135.7m and a standalone public entity from
+2025-04-01** (Justice reprioritises R424.1m over the MTEF for the transition; the Regulator now an
+"Of which" agency earmark in B16). Cross-vote series all continue (DHA Transversal IT R1,146.6m with
+named kiosk/smart-ID/birth-automation/eTA components; Justice Modernisation R695.3m; Correctional IT
+R377.4m; StatsSA 63.3+149.4; dtic 20.6; DPSA 23.9; DHA Identification 175.8). Committee-report quarterly
+path annotated onto the held FY2024/25 audited record. **B16 earmark values column-displaced —
+`re_extract: YES` recorded** (pdfplumber candidate). FY2025/26 outturn/audit = calendar gaps for the
+year-later re-run. Revert: `git checkout <sha> -- new/ raw/ new-budget/ budget-archive/ documentation/`.
+
+contradictions - 0 ; acquisitions - 0 ; awaiting ingest - 19 ; decisions logged - 1
+*(new-budget outstanding: none)*
+
 ## 2026-07-22 — domestic finance sweep: ZAF 2025 → FY2025/26 — 7 documents + 2 prose staged
 
 Full enacted chain fetched by direct URL (the 2025 budget tabled three times; May "Budget 3.0" is the
