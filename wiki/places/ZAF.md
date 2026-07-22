@@ -596,7 +596,7 @@ linked source pages, the entity pages and the six [[south-africa--dpi-id|interse
 
 Instrument mix: Equity 36, Commercial loan 9, TA 5, Grant 2, Corporate capital investment 2, Guarantee 1, Buyer's credit 1, Syndicated loan 1, Loan 1, 50:50 joint venture 1.
 
-**Domestic state** — 1 budget line held (national; own-resource spend, reporting-sourced, first capture 2026-07-22). FY2025/26: R3bn at unstated stage. Amounts in the announcing state's own currency; stages as stated, never merged; no cross-year USD summation.
+**Domestic state** — 2 budget lines held (national; own-resource spend, reporting-sourced, first capture 2026-07-22). FY2024/25: R1.858bn proposed; FY2025/26: R3bn at unstated stage. Amounts in the announcing state's own currency; stages as stated, never merged; no cross-year USD summation.
 
 Material deals: [[2022-01-01-vodacom-zaf-spectrum-5g-2022-vodacom-south-africa-5g4g-spectrum-acquisition]], [[2024-01-01-actis-zaf-swiftnet-2024-actis-led-consortium-acquisition-of-swiftnet-telecom]], [[2022-01-01-mtn-zaf-spectrum-5g-2022-mtn-south-africa-5g4g-spectrum-acquisition]], [[2026-01-01-microsoft-zaf-azure-expansion-2026-microsoft-south-africa-329m-data-centre]], [[2025-01-01-microsoft-zaf-azure-expansion-2025-microsoft-azure-south-africa-zar-54b]], [[2024-01-01-aws-zaf-cloud-2024-aws-africa-south-africa-cloud-and]].
 

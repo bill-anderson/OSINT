@@ -7,7 +7,7 @@ topics: [dpi.govtech, gov.policy, include.divides, include.access, infra.connect
 lens: []
 status: active
 last_reviewed: 2026-07-14
-sources: [[2026-07-13 Digital-first must not become digital-only, says Malatsi], [2026-07-10 SOLLY MALATSI  Removing smartphone tax means access to opportunity]]
+sources: [[2026-07-13 Digital-first must not become digital-only, says Malatsi], [2026-07-10 SOLLY MALATSI  Removing smartphone tax means access to opportunity], [2024-07-15-zaf-malatsi-budget-vote-30-speech-2024-25]]
 ---
 
 # Department of Communications and Digital Technologies (DCDT, South Africa)

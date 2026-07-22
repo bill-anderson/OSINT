@@ -6,6 +6,22 @@ Reporting): a few lines each, full detail in `log-archive.md` or git.
 
 ---
 
+## 2026-07-22 — ingest (lint skipped per Bill): Malatsi speech filed; SA Connect FY2024/25 record built
+
+Drained `new/` (1): the ZAF budget-vote speech admitted to `raw/` (official-statement, appended to
+`dcdt-south-africa` + `sita` entity pages). §6 2a finance branch (domestic driver, capture mode) built
+**one record**: `zaf-2024-25-vote-30-sa-connect-proposed` — SA Connect Ph1+2, **R1.858bn, FY2024/25,
+stage `proposed`** (first proposed-stage exercise of Bill's ruling), whole-scope, case 4 with an explicit
+**case-5 reset pending** against the held ENE/AENE/Annual Report in `new-budget/ZAF/`. Series sibling of
+the held FY2025/26 record, not a duplicate. Not built (rule reasons noted on the record): the R3.969bn
+vote envelope, the R1.6bn mixed SOE-oversight transfers, the MTEF entity splits. Finance compile refreshed:
+ZAF domestic-state now 2 lines (FY2024/25 R1.858bn proposed; FY2025/26 R3bn unstated stage); BFA blend
+caveat re-applied after the recompile clobbered it — **note for the compile script: manual caveats inside
+compiled paragraphs don't survive recompiles; the caveat belongs in the generator or the record.**
+Revert: `git checkout <sha> -- raw/ new/ wiki/ documentation/`.
+
+contradictions - 0 ; acquisitions - 0 ; awaiting ingest - 0 ; decisions logged - 1
+
 ## 2026-07-22 — acquisitions: both ZAF items acquired via browser route; queue empty
 
 **2 attempted, 2 acquired, 0 dropped.** Direct fetches failed for both (bot-guard shell; Phoca POST gate),
