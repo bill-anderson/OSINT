@@ -91,6 +91,30 @@ carried them, where they hid, what you looked for and didn't find.
 - **The MTEF cliff is a lead-generator:** Broadband 1,894.6 → 267.4 (2025/26 estimate) exposed the
   SA Connect Phase 2 funding question and produced a contradiction against Budget-2026 reporting.
 
+**Cross-vote scan run (2026-07-22, ZAF/2024 FullENE, 42 votes — step 4a's first execution):**
+- **10 records from 6 votes outside Vote 30, totalling ~R2.96bn appropriated — 1.4× Vote 30's own
+  clean whole-scope total (R2.11bn).** The sector-vote bias was worse than the first scan suggested:
+  DHA's Transversal IT Management subprogramme alone is R1,190.1m (eVisa, kiosks, births automation,
+  smart-ID rollout named in the narrative), plus Identification Services R184.7m and a narrative-stated
+  R208m PNR line.
+- **Single-mandate carve-out first applied:** Information Regulator (Justice vote, Table 25.14) —
+  R110.9m FY2024/25, ramp R29.9m (2020/21) → R141.0m (2026/27 MTEF). The DPA funding trajectory is a
+  single row in the Justice chapter and invisible from the sector vote.
+- **Uniform grain rule adopted (logged decision):** an identifiable departmental IT/digital
+  subprogramme line records as whole (Correctional IT, StatsSA ICT, DHA Transversal IT) — Bill's own
+  scan set the precedent with Correctional's "Information Technology". What stays out: mixed non-IT
+  programmes and whole votes.
+- **Narrative-stated project allocations are recordable:** the volume itself names amount+year+purpose
+  for lines inside mixed subprogrammes (DHA PNR R208m; eVisa R100m within Transversal IT) — the chapter
+  narrative is part of the document, not reporting.
+- **Extraction failures (one attempt each, logged):** Science & Innovation "Various institutions: ICT"
+  transfer line and Treasury's Financial Systems (IFMS) subprogramme — both garbled under
+  `pdftotext -layout` column collapse; pdfplumber candidates for a future pass.
+- **Looked for, not found / not recorded:** no separately-appropriated national CSIRT line (the
+  Cybersecurity Hub is funded inside Vote 30's programmes, not a vote line); CPSI (Vote 42, R47.9m) is
+  general public-service innovation, not single-mandate digital; GCIS is communications, not digital
+  transformation.
+
 ### Template for an entry
 
 ```markdown

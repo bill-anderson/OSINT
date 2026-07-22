@@ -6,6 +6,27 @@ Reporting): a few lines each, full detail in `log-archive.md` or git.
 
 ---
 
+## 2026-07-22 — budget extract (cross-vote run): ZAF/2024 fully drained — 10 records from 6 votes, ~R2.96bn
+
+Step 4a's first execution over the FullENE (1,073pp, 42 votes indexed cleanly). **10 appropriated records
+staged from 6 votes beyond Vote 30, totalling ~R2.96bn — 1.4× the sector vote's own clean total**, proving
+the one-vote bias was worse than the first scan showed. Headliners: **DHA Transversal IT R1,190.1m**
+(eVisa R100m, kiosks R60m, births automation R15m, smart-ID rollout R15m named in-chapter) + Identification
+Services R184.7m + PNR R208m (narrative-stated project line); Justice Modernisation R661.2m; Correctional IT
+R358.0m; **Information Regulator R110.9m — the single-mandate carve-out's first application**, with the DPA
+funding ramp R29.9m→R141.0m (2020/21→MTEF) captured as a series. StatsSA ×2 (60.2 + 143.0); DPSA e-Gov
+programme R25.3m; dtic digital-market inquiry R20.1m. **Decisions:** uniform grain rule — identifiable
+departmental IT/digital subprogrammes record whole (precedent: Bill's own Correctional-IT scan line);
+narrative-stated allocations inside mixed subprogrammes are recordable (the narrative is part of the
+document). **Extraction failures ×2** (one attempt each): Science ICT transfers, Treasury IFMS — column
+collapse under -layout, pdfplumber candidates. Looked-for-not-found on the ZAF hub, dated: no
+separately-appropriated CSIRT line; CPSI not single-mandate digital. Scan CSV archived; FullENE pair
+archived; `new-budget/` **fully drained and empty**. Case 5: none (no non-document ZAF 2024/25 records
+remain). Revert: `git checkout <sha> -- new/ new-budget/ budget-archive/ wiki/ documentation/`.
+
+contradictions - 0 ; acquisitions - 0 ; awaiting ingest - 10 ; decisions logged - 2
+*(new-budget outstanding: none)*
+
 ## 2026-07-22 — cross-vote scan made required; identity/data-exchange and governance blocks; envelope carve-out
 
 **Bill's catch: the sweep only ever looked at the sector vote.** Track A's institution list is

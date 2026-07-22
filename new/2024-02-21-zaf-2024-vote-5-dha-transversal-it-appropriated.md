@@ -1,0 +1,59 @@
+---
+type: source
+title: "South Africa Vote 5 (Home Affairs) — Transversal Information Technology Management subprogramme, FY2024/25 appropriated: R1,190.1m"
+url: https://www.treasury.gov.za/documents/national%20budget/2024/ene/FullENE.pdf
+publisher: National Treasury (South Africa)
+published: 2024-02-21
+date_precision: day
+date_source: source
+topics: [dpi.id, dpi.govtech, finance.budget]
+entities: [[department-of-home-affairs-south-africa]]
+deal_id: zaf-2024-vote-5-dha-transversal-it-appropriated
+amount_total: 1190100000
+places: [ZAF]
+lens: []
+finance_origin: domestic-state
+state_level: national
+spending_tier_name: ""
+fiscal_year_label: "2024/25"
+fy_start: 2024-04-01
+fy_end: 2025-03-31
+budget_stage: appropriated
+budget_version: original
+source_tier: budget-document
+supplementary_basis: ""
+scope_confidence: whole
+is_transfer: false
+currency: ZAR
+ingested: 2026-07-22
+retrieved: 2026-07-22
+body_completeness: full
+---
+
+# South Africa Vote 5 (Home Affairs) — Transversal Information Technology Management subprogramme, FY2024/25 appropriated: R1,190.1m
+
+## Deal record
+
+| Field | Value |
+|---|---|
+| Deal ID | zaf-2024-vote-5-dha-transversal-it-appropriated |
+| Financier | National fisc — vote appropriation |
+| Vote | 5 Home Affairs |
+| Programme | Administration |
+| Subprogramme | Transversal Information Technology Management |
+| Appropriated | R1,190,100,000 |
+| doc_type | budget-estimates |
+| doc_locator | ENE 2024 full volume (FullENE.pdf) |
+| amount_scale | R million as printed — stored in units |
+| fy_calendar | gregorian |
+| funding_source | unstated (National Revenue Fund appropriation) |
+
+## Description
+
+ENE 2024, Vote 5. The DHA's IT and identity-systems delivery vehicle. Named 2024/25 components per the chapter narrative: eVisa expansion R100m; interactive self-service kiosks for smart-ID/passport applications at 250 non-modernised offices R60m; automation of birth registration in 41 health facilities R15m; smart-ID/passport application rollout to 5 further front offices R15m. Series: 872.1 / 1,033.8 / 1,086.6 / 1,317.6 (2023/24 adj) -> 1,190.1 / 1,241.0 / 1,300.2 (MTEF).
+
+## Development history
+
+## Notes
+
+The largest single cross-vote digital line — larger than any Vote 30 programme except P5. The identity-modernisation spend the sector-vote view missed entirely. *Cross-vote scan record (BUDGET-EXTRACT step 4a, 2026-07-22): outturn for this vote's lines is not held — the vote's own annual report is the acquirable outturn instrument.*

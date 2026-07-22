@@ -571,7 +571,14 @@ linked source pages, the entity pages and the six [[south-africa--dpi-id|interse
   ([[sa-digital-id-regulations]]). *The **PSC investigation report** on SITA (released 2026-07-06) is
   itself not held — an acquisition attempt on **2026-07-22** could not retrieve it (psc.gov.za serves a
   JavaScript publications gallery exposing no report PDF); the SITA figures above are as reported in
-  press/government statements, not compiled from the primary.*
+  press/government statements, not compiled from the primary.* *Cross-vote digital
+  spend established 2026-07-22 from the ENE 2024 full volume (42 votes): ~R2.96bn of identifiable
+  digital/IT lines in six votes beyond Vote 30 — led by Home Affairs' Transversal IT (R1,190.1m) and
+  Justice Modernisation (R661.2m) — with the **Information Regulator appropriated R110.9m** (FY2024/25,
+  ramping R29.9m→R141.0m over 2020/21–2026/27). Looked for and not found: a separately-appropriated
+  national CSIRT line (the Cybersecurity Hub sits inside Vote 30's programmes); Science & Innovation's
+  ICT-transfer line and Treasury's IFMS subprogramme resisted extraction — figures not established as
+  at 2026-07-22.*
 - **Cloud, AI and the hyperscalers** — **[[microsoft]]**'s **R5.4bn** SA commitment (announced
   **2025-03-06** at Bryanston by **Brad Smith** with **[[cyril-ramaphosa]]**, to be spent **by
   end-2027**, atop **R20.4bn** over the prior three years; allocation detailed 2026-04;

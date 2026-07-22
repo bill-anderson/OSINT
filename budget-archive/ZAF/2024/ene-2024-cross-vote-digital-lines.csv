@@ -1,0 +1,14 @@
+vote,line,grain,2024_25_Rm,recorded,note
+5 Home Affairs,Transversal Information Technology Management (Administration),subprogramme,1190.1,yes,"carries eVisa R100m, kiosks R60m, births automation R15m, smart-ID front-office rollout R15m (named in chapter narrative); series 872.1/1033.8/1086.6/1317.6 -> 1190.1/1241.0/1300.2"
+5 Home Affairs,Identification Services (Citizen Affairs),subprogramme,184.7,yes,national identity systems incl. ABIS; series 255.5/262.1/160.0/168.8 -> 184.7/194.6/202.9
+5 Home Affairs,Advance passenger information / passenger name record (Admissions Services),project line,208.0,yes,narrative-stated allocation in a mixed subprogramme
+11 Public Service and Administration,Programme 4: e-Government Services and Information Management,programme,25.3,yes,whole programme purpose is public-service ICT governance; Table 11.12
+14 Statistics South Africa,Business Modernisation,subprogramme,60.2,yes,Table 14.14; data and information management modernisation
+14 Statistics South Africa,"Information, Communication and Technology",subprogramme,143.0,yes,departmental ICT + data management across statistical series; Table 14.14
+22 Correctional Services,Information Technology,subprogramme,358.0,yes,series 205.6/301.9/297.1/370.6 -> 358.0/376.3/393.6
+25 Justice and Constitutional Development,Justice Modernisation,subprogramme,661.2,yes,integrated justice system; IT infrastructure and networks; Table 25.14
+25 Justice and Constitutional Development,Information Regulator,subprogramme (single-mandate body),110.9,yes,POPIA/PAIA authority - single-mandate carve-out; series 29.9/66.5/88.9/109.3 -> 110.9/135.7/141.0
+"39 Trade, Industry and Competition",Digital market inquiry,subprogramme,20.1,yes,competition governance of digital markets; series -/15.3/25.0/22.8 -> 20.1/20.6/21.1
+35 Science and Innovation,Various institutions: ICT (transfers),transfer line,,no,2024/25 cell not cleanly extractable from -layout (column collapse); pdfplumber candidate; extraction failed after one attempt
+8 National Treasury,Financial Systems (IFMS),subprogramme,,no,carries the integrated financial management system; value row garbled under -layout; future pass
+42 Centre for Public Service Innovation,(whole vote),vote,47.9,no,"general public-service innovation mandate, not single-mandate digital; not recorded"
