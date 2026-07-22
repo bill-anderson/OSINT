@@ -91,7 +91,7 @@ sovereignty; the target is digital **6% → 15% of GDP by 2030**.
 
 Instrument mix: Commercial loan 6, Grant 3, Concessional loan 3, Equity 3, Guarantee 2, Export finance 1. **2 records here still carry the capture's unverified `Concessional loan` label**, so the mix is indicative rather than established: the World Bank portal does not separate an IDA credit from an IDA grant.
 
-**Domestic state** — *(pending that dataset)*.
+**Domestic state** — 1 budget line held (national; own-resource spend, reporting-sourced, first capture 2026-07-22). FY2024–2025: FCFA 28bn at unstated stage. Amounts in the announcing state's own currency; stages as stated, never merged; no cross-year USD summation.
 
 Material deals: [[2018-01-01-boc-civ-001-bank-of-china-provides-cfa-532]].
 

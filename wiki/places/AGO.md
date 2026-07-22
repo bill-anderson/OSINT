@@ -47,7 +47,7 @@ The wiki has read Angola's stack as a **three-way courtship** (China / India / U
 
 Instrument mix: Commercial loan 2, IBRD loan — not concessional 2, Concessional loan 2, Buyer's credit 1, Investment agreement 1, Financing agreements 1.
 
-**Domestic state** — *(pending that dataset)*.
+**Domestic state** — 5 budget lines held (national; own-resource spend, reporting-sourced, first capture 2026-07-22). FY2025: Kz 278bn at unstated stage; FY2026: US$150m appropriated; FY2026: US$275m revised; FY2026: Kz 76bn at unstated stage; FY2026: €552,000 at unstated stage. Amounts in the announcing state's own currency; stages as stated, never merged; no cross-year USD summation.
 
 Material deals: [[2024-06-27-wb-ago-001-angola-digital-acceleration-project]], [[2023-01-01-eximbank-cn-ago-003-national-broadband-infrastructure-upgrading-project-rnbl]], [[2023-01-01-press-chn-ago-2023-001-national-broadband-infrastructure-upgrading-project]], [[2016-01-01-jbic-ago-sacs-submarine-cable-2016-export-credit-line-for-banco-de]].
 

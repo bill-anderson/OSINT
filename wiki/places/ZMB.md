@@ -436,7 +436,7 @@ The third is **evidentiary**: the headline numbers disagree. Penetration spans *
 
 Instrument mix: Commercial loan 3, Grant 3, Concessional loan 2, Equity 1, Buyer's credit 1, Guarantee 1, IDA grant 1. **1 record here still carries the capture's unverified `Concessional loan` label**, so the mix is indicative rather than established: the World Bank portal does not separate an IDA credit from an IDA grant.
 
-**Domestic state** — *(pending that dataset)*.
+**Domestic state** — 1 budget line held (national; own-resource spend, reporting-sourced, first capture 2026-07-22). FY2026: K255m at unstated stage. Amounts in the announcing state's own currency; stages as stated, never merged; no cross-year USD summation.
 
 Material deals: [[2017-01-01-eximbank-cn-zmb-005-china-eximbank-provides-3332-million-preferential]], [[2017-01-01-eximbank-cn-zmb-004-china-eximbank-provides-302-government-concessional]], [[2016-01-01-cdb-zmb-001-china-development-bank-provides-1785-million]], [[2017-05-04-wb-zmb-001-zambia-improved-rural-connectivity-project]], [[2015-01-01-bii-zmb-001-ihs-zambia-equity-investment-telecoms-tower]].
 

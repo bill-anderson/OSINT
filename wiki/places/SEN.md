@@ -337,7 +337,7 @@ last_reviewed: 2026-07-21
 
 Instrument mix: Grant 17, Commercial loan 5, Concessional loan 4, Equity 1, Technical assistance / advisory 1, TA 1, Debt 1, Senior loan 1. **1 record here still carries the capture's unverified `Concessional loan` label**, so the mix is indicative rather than established: the World Bank portal does not separate an IDA credit from an IDA grant.
 
-**Domestic state** — *(pending that dataset)*.
+**Domestic state** — 1 budget line held (national; own-resource spend, reporting-sourced, first capture 2026-07-22).  Reported apart from the headline: FCFA 58.2bn (2026, partial-scope) — partial/unclear scope, not folded into clean totals. Amounts in the announcing state's own currency; stages as stated, never merged; no cross-year USD summation.
 
 Material deals: [[2019-01-01-mcf-sen-youngafricaworks-2019-young-africa-works-in-senegal]], [[2018-01-01-eximbank-cn-sen-002-china-eximbank-provides-rmb-105-billion]], [[2023-02-09-wb-sen-001-senegal-digital-economy-acceleration-project]], [[2021-01-01-eximbank-cn-sen-003-diamniadio-data-centre-restructuring-and-smart]], [[2018-01-01-axian-sen-tigo-acquisition-2018-axian-consortium-acquisition-of-tigo-senegal]].
 

@@ -276,7 +276,7 @@ last_reviewed: 2026-07-11
 
 Instrument mix: Grant 6, Concessional loan 5. **2 records here still carry the capture's unverified `Concessional loan` label**, so the mix is indicative rather than established: the World Bank portal does not separate an IDA credit from an IDA grant.
 
-**Domestic state** — *(pending that dataset)*.
+**Domestic state** — 1 budget line held (national; own-resource spend, reporting-sourced, first capture 2026-07-22). FY2026: FCFA 12.3bn proposed. Amounts in the announcing state's own currency; stages as stated, never merged; no cross-year USD summation.
 
 Material deals: [[2019-07-01-wb-ben-001-digital-rural-transformation-project]].
 

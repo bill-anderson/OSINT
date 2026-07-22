@@ -6,6 +6,21 @@ Reporting): a few lines each, full detail in `log-archive.md` or git.
 
 ---
 
+## 2026-07-22 — ingest + first domestic-state compile: 19 admitted under Bill's temporary FY rule
+
+**Temporary rule (Bill, this ingest only, pending a proper change): only records pertaining to FY2024 /
+FY2024-25 onwards ingested; earlier or FY-undeterminable deleted.** Applied to the 23 staged: **4 deleted**
+— `egy-cbe-2020`, `egy-cbe-2021` (FY2020/21), `gnb-`/`mrt-wardip-sop1-counterpart` (2023 PAD financing-plan
+commitments). BFA ×3, COG-4G and BWA ×2 kept: FY label unstated but period established ≥2024 from event
+dates (2025–2026 / NDP 12 = FY2025/26 on). All 4 deletions recoverable from commit `73c996a2`.
+
+**19 admitted to `raw/`** (first `finance.budget` records; 1,229 deal records total). **First origin-split
+finance compile ran:** Domestic-state paragraphs written onto 10 hubs (AGO 5 lines, BFA 3, KEN/BWA/COG 2,
+BEN/CIV/SEN/ZAF/ZMB 1) — per-FY, per-stage, original currency, no cross-year USD sums; partial/unclear-scope
+reported apart; BFA hub carries the FASU/PACTDIGITAL blend caveat. Revert: `git checkout <sha> -- raw/ new/ wiki/`.
+
+contradictions - 0 ; acquisitions - 0 ; awaiting ingest - 0 ; decisions logged - 1
+
 ## 2026-07-22 — domestic finance back-swing: 894 sources screened, 23 records staged
 
 13 parallel workers over every `finance.*`-tagged `raw/` item without a `deal_id`. **~813 not domestic,

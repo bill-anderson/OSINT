@@ -1,79 +1,110 @@
 # Domestic-state finance sweep — procedure
 
-**Acquisition sweep for one country at a time**, gathering the material the
-domestic-state finance driver (`finance-load-domestic-state.md`) builds records
-from: budget documents, outturn and audit reports, ministerial statements, and
-on-the-record reporting of state digital spending.
+**Acquisition sweep for one country and one fiscal year**, gathering the material
+the domestic-state finance driver (`finance-load-domestic-state.md`) builds
+records from: budget documents, outturn and audit reports, ministerial statements,
+and on-the-record reporting of state digital spending.
 
-Run manually from Claude Code, one country per run. **Invocation: "run domestic
-finance sweep for `<country>`".**
+Run manually from Claude Code. **Invocation: "run domestic finance sweep for
+`<country>` `<fiscal year>`"** — e.g. *run domestic finance sweep for Kenya
+FY2025/26*.
+
+## The unit is country × fiscal year
+
+*(Bill's ruling, 2026-07-22.)* One country, one fiscal year, one run. This is what
+makes the sweep a reusable object rather than an open-ended trawl, and it earns
+its keep four ways:
+
+- **It has a completion state.** For a given country-year you either hold the
+  appropriation, the outturn and the audit, or you don't. That is a checklist. A
+  country-wide sweep has no end condition and would run until the cap stopped it,
+  which is not the same thing.
+- **It matches the record grain.** The driver's rule is one line, one year, one
+  stage. A sweep keyed to the same unit hands the driver a coherent set instead of
+  a pile.
+- **It is re-run as the year matures**, and this is the point: FY2025/26's
+  appropriation is publishable now, its outturn in late 2026, its audit in
+  2027–28. The same invocation, run again a year later, picks up the stages that
+  did not exist the first time. Nothing else in the wiki has that shape.
+- **Coverage becomes a matrix** — country × fiscal year × stage — so a gap is
+  statable: *no published FY2024/25 outturn for the ICT vote as at 2026-07-22*.
+  Per `CLAUDE.md` → *Currency*, a known vacuum is a finding, not a silence.
+
+**In scope from FY2024 / FY2024-25 onwards.** Earlier years are out of scope
+however easily found.
+
+### The fiscal year is a search target, not a filter on what gets built
+
+Two important qualifications, both learned from the back-swing.
+
+**A document covering several years is fetched once and kept whole.** Budget
+documents always state the prior year as comparator; MTEFs and development plans
+(Botswana's NDP 12, seen in the back-swing) span three or more. Record every year
+it covers in `fiscal_years_covered`, dedup on URL across runs, and let the driver
+build records for whichever years the document supports. The run's fiscal year
+scopes *what we go looking for*, never *what may be built from what we find*.
+
+**Statements and reporting are date-windowed, not fiscal-year-filtered.** The
+back-swing is unambiguous here: of its 24 domestic records, half carry no fiscal
+year at all and `budget_stage: unclear` is the modal value, because ministers,
+inauguration speeches and presidential despachos do not name fiscal years. A
+strict FY filter on the prose blocks would discard exactly the material that makes
+opaque budgets legible. So:
+
+- **Blocks 1–3 (documents)** — hard-scoped to the run's fiscal year.
+- **Blocks 4–7 (statements, reporting, scrutiny)** — scoped to a **date window**
+  running from six months before `fy_start` to twelve months after `fy_end`, and
+  the driver assigns the year where it can. Items that resist assignment are still
+  records; `fy` blank with the reason noted is honest and already the norm.
 
 ## Boundaries
 
-- **Acquisition, not record-building.** Output is candidate source files staged
-  for ingest. It applies no five-fact test, extracts no budget lines and builds no
-  deal records — that is the driver's job, downstream. The sweep's only question
-  is *is this document worth holding*.
-- **One country per run.** The vocabulary, institutions and fiscal calendar are
-  country-specific and are the substance of the procedure; a multi-country run
-  would degrade to generic queries, which is what makes open-web African budget
-  searches useless.
-- **Containment** (`reference.md` §7): writes only to `new/`, `new-queue/` and its
-  own `sweep/domestic/` state. Never to `raw/` or any `wiki/` page.
-- **Distinct from the daily trade-journal sweep and the digest.** Different
-  sources, different cadence, no overlap: those two never query fiscal
-  institutions, and this one never queries the trade journals.
-
-## Scope
-
-**Fiscal years 2024 / 2024-25 onwards only.** Earlier years are out of scope for
-this pass, however easily found.
-
-**This is a filter on the fiscal year a document is *about*, never on its
-publication date** — the two diverge in both directions and a publication-date
-filter gets it wrong at both ends:
-
-- FY2024/25 **estimates** are tabled and published in **early-to-mid 2024**, and
-  the medium-term framework naming them appears in **2023**.
-- FY2024 **outturn** is published in **2025**, and the **auditor-general's** report
-  on it lands in **2025–2027**. A `startPublishedDate` cut at 2024 keeps these; a
-  cut at 2025 would lose the estimates.
-
-So set any Exa date window **wide** — 2023-01-01 onwards — and screen on the
-fiscal year named *in the document*. A document covering both in-scope and
-out-of-scope years (an MTEF spanning FY2023/24–FY2025/26) is **in scope**; note
-which years are usable.
+- **Acquisition, not record-building.** No five-fact test, no budget lines, no
+  deal records — the driver does that downstream. The sweep's only question is
+  *is this document worth holding*.
+- **National tier only** *(Bill's ruling, 2026-07-22 — sub-national deferred)*.
+  Counties, states and provinces are in scope for the dataset but not for this
+  sweep yet; 47 Kenyan counties or 36 Nigerian states would swamp the cap and
+  drown the national documents. `state_level: sub-national` stays in the driver
+  against the day this is turned on. Own-source national bodies — universal
+  service funds, ICT levy bodies, regulators — **are** in scope here.
+- **Containment** (`reference.md` §7): writes only to `new/`, `new-budget/` and
+  its own `sweep/domestic/` state. Never to `raw/` or any `wiki/` page.
+- **Distinct from the daily trade-journal sweep and the digest** — different
+  sources, no overlap.
 
 ## Two tracks, because Exa does one of these well and one patchily
 
-**Be realistic about this.** Exa's neural search is strong on prose — news,
-speeches, press releases, analysis. It is weak on the target that matters most
-here: budget PDFs sitting on ministry-of-finance domains that are badly indexed,
-sometimes uncrawled, often behind a document-library page with no stable link.
-Expect the reporting track to succeed and the document track to be patchy, and do
-not read a thin document harvest as evidence that the documents don't exist.
+Exa's neural search is strong on prose: news, speeches, press releases, analysis.
+It is weak on the target that matters most here — budget PDFs on ministry-of-
+finance domains that are badly indexed, sometimes uncrawled, often behind a
+document-library page with no stable link. Expect the reporting track to succeed
+and the document track to be patchy, and **do not read a thin document harvest as
+evidence that the documents don't exist**.
 
 ### Track A — fiscal institutions, domain-scoped
 
-Domain-scope every query to the country's own fiscal and sector institutions.
-This is also the admissibility firewall: it keeps out the AI-synthesis blogs and
-content mirrors that dominate unscoped African budget queries.
-
-The institution list per country — this is the real payload of a country's
-section, more than any query string:
+Domain-scope every query to the country's own institutions. This is also the
+admissibility firewall: it keeps out the AI-synthesis blogs and content mirrors
+that dominate unscoped African budget queries.
 
 | Role | Typical holder |
 |---|---|
 | Budget authority | Ministry of Finance / Budget Office / Treasury |
-| Execution and release | Treasury; Controller of Budget or equivalent |
+| Execution and release | Treasury; budget controller |
 | Legislature | National Assembly / Parliament; parliamentary budget office |
 | Audit | Auditor-General / Cour des comptes |
 | Sector ministry | Ministry of ICT / Digital Economy / Communications |
 | Sector regulator | Communications/ICT regulator (own budget, spectrum-funded) |
 | Own-source funds | Universal service fund; ICT development levy body |
 | Programme owners | National ID authority; e-government agency; statistics office |
-| Sub-national | State/county/provincial treasuries — the largest gap in coverage |
+| **Procurement portal** | **Public-procurement authority — annual procurement plans** |
 | Portal | The government's own open-budget or IFMIS portal |
+
+The procurement portal is there on the back-swing's evidence: Angola's mandatory
+per-ministry PAC (Lei 41/20, Portal de Compras Públicas) turned out to be a
+recurring annual source, and procurement plans name systems and vendors that the
+vote structure never does.
 
 Also worth scoping: the country's **IMF Article IV and programme documents**,
 which frequently quote budget aggregates and execution rates the national
@@ -81,34 +112,33 @@ documents obscure.
 
 ### Track B — direct enumeration
 
-For the budget authority and the portal, go at the **document library page**
-directly rather than searching for the PDF: fetch the page, read its links, take
-the ones matching the in-scope fiscal years. Budget portals are usually a
-predictable directory. One fetch of an index page beats ten semantic queries.
+For the budget authority, the procurement portal and the open-budget portal, go at
+the **document library page** directly rather than searching for the PDF: fetch
+the page, read its links, take the ones matching the run's fiscal year. Budget
+portals are usually a predictable directory. One fetch of an index page beats ten
+semantic queries.
 
 A document that cannot be reached in one attempt goes to `reviews/acquisitions.md`
-per `CLAUDE.md` → *Working the base*. One attempt, then it is a stated absence,
-not a standing chore.
+per `CLAUDE.md` → *Working the base*. One attempt, then it is a stated absence.
 
 ## Semantic context — the query blocks
 
-Run these as **separate queries**, not one blended one. Blending "budget" with
-"digital" tends to return neither. Substitute the country's own vocabulary from
-its section below; in Francophone, Lusophone and Arabophone states **query in the
-document's language**, not in English — the terms are not translations of each
-other and an English query returns commentary rather than documents.
+Run these as **separate queries**, never one blended one; blending "budget" with
+"digital" returns neither. Substitute the country's own vocabulary from its
+section in the extraction notes. In Francophone, Lusophone and Arabophone states
+**query in the document's language** — the terms are not translations of each
+other, and an English query returns commentary rather than documents.
 
 **Block 1 — the appropriation.** *Approved budget estimates and appropriation act
 for the fiscal year, showing votes, heads and programme allocations by ministry,
-department and agency.* Scope: budget authority, legislature. Look for: the
-estimates volumes, the appropriation act as assented, the budget speech and its
-annexes.
+department and agency.* Scope: budget authority, legislature. Look for: estimates
+volumes, the act as assented, the budget speech and its annexes.
 
-**Block 2 — execution and outturn.** *Budget implementation and expenditure
-review reporting actual spending against approved allocations by ministry and
-programme, including exchequer releases and absorption rates.* Scope: treasury,
-budget controller, legislature. This is the material almost nobody publishes and
-everybody needs — weight the effort here.
+**Block 2 — execution and outturn.** *Budget implementation and expenditure review
+reporting actual spending against approved allocations by ministry and programme,
+including exchequer releases and absorption rates.* Scope: treasury, budget
+controller, legislature. The material almost nobody publishes and everybody needs
+— weight the effort here.
 
 **Block 3 — audit.** *Auditor-general's report on the financial statements of
 ministries and agencies, including irregularities in ICT and systems procurement.*
@@ -117,62 +147,97 @@ Scope: audit institution, legislature.
 **Block 4 — the digital line, from the sector side.** *Government allocation and
 spending on digital transformation, e-government, digital identity, national data
 centre, connectivity and ICT systems in the national budget.* Scope: sector
-ministry, regulator, funds, plus national press. This is the block that finds the
-line item when the budget document itself is opaque.
+ministry, regulator, funds, national press. This finds the line item when the
+budget document is opaque.
 
-**Block 5 — statements and clarifications.** *Minister's or permanent secretary's
-statement on funding allocated to a named digital programme, its cost, its
-disbursement and its implementation status.* Scope: sector ministry, budget
-authority, national press, parliamentary reporting. Case 3 and case 4 material in
-the driver — often the only place a line becomes legible.
+**Block 5 — statements and clarifications.** *Minister's, permanent secretary's or
+head-of-state's statement or decree authorising expenditure on a named digital
+programme — its cost, its funding source, its implementation status.* Scope:
+sector ministry, budget authority, presidency, national press. The back-swing's
+richest domestic seam by a wide margin. Include **executive instruments by their
+local name** — Angolan *despachos presidenciais*, procurement authorisations,
+supplementary-credit orders — which is how appropriations actually surface in
+several states.
 
-**Block 6 — own-source and sub-national.** *Universal service fund, ICT levy and
-regulator budgets; county, state or provincial ICT budgets and their approved
-estimates.* Scope: funds, regulator, sub-national treasuries, national press.
-The least-covered material on the continent and the reason `state_level` exists.
+**Block 6 — own-source bodies.** *Universal service fund, ICT levy and regulator
+budgets, their approved expenditure and their annual reports.* Scope: funds,
+regulator, sector ministry. Least-covered material on the continent.
 
 **Block 7 — contest and scrutiny.** *Parliamentary committee questioning,
 civil-society budget analysis or investigative reporting on digital-programme
 spending, cost overruns and procurement.* Scope: legislature, national press,
-national civil-society budget organisations. **Analysis here is a lead** — mine it
-for the primary it cites (`CLAUDE.md` → *The material*). Investigative reporting
-on the record is a source.
+national budget-transparency organisations. **Analysis is a lead** — mine it for
+the primary it cites (`CLAUDE.md` → *The material*). Investigative reporting on
+the record is a source.
+
+## What the back-swing already taught us — apply it at capture
+
+`documentation/domestic-budget-extraction.md` is the accumulating record and
+**must be read before querying**. Four of its findings change how this sweep is
+run, not just how records are built:
+
+- **Domestic figures hide mid-paragraph inside stories about something else** — an
+  MoU, a donor project, a summit speech. So query for the *phrases*, not the
+  headline: `allocated / also allocated / également alloué / financés à hauteur de
+  / a coûté / aprovou a despesa / autorizou a despesa / crédito adicional
+  suplementar`. Headline-led queries miss these.
+- **"Government invests" headlines are usually external money in state clothing**
+  — Eximbank, Chinese bank facilities, an SPV capitalised from an IDA credit, or a
+  vendor-financed DBFOT where no fisc money moves at signature. Not the sweep's
+  call to make, but stage the funding-source language in the companion page so the
+  driver's origin gate has something to work from.
+- **Ministry envelopes are the commonest near-miss.** A ministry's total vote is
+  not a record. Still stage the source — the envelope is context and sometimes
+  contains a stated programme split — but flag it, and do not spend cap on more of
+  them once the pattern is established for that country.
+- **Multi-year plan envelopes always fail as records.** The acquirable unit
+  underneath them is the annual finance law's programme annexe — Francophone
+  *loi de finances annexes*, Côte d'Ivoire's *lettres d'engagement*. **Add those
+  to `reviews/acquisitions.md` by name** when a plan envelope is all that surfaces.
+  Converting envelopes into lines is the single highest-value acquisition this
+  dataset has.
+
+Append to the country's section after every run, including what was searched and
+found nothing.
 
 ## Priority and stopping
 
-A single country's fiscal corpus is effectively unbounded. Take documents in this
-order and stop at the cap:
+**Cap: 40 items per country-year run.** Take documents in this order and stop
+early once tiers 1–3 are exhausted:
 
-1. Appropriation act / approved estimates, per in-scope FY
-2. Budget implementation / outturn report, per in-scope FY
-3. Auditor-general report covering an in-scope FY
-4. Budget speech and MTEF/fiscal strategy naming in-scope years
-5. Official statement on a named digital programme's funding
-6. Sub-national and own-source-fund budgets
+1. Appropriation act / approved estimates for the run's FY
+2. Budget implementation / outturn report for the run's FY
+3. Auditor-general report covering the run's FY
+4. Budget speech, MTEF or fiscal strategy naming the run's FY
+5. Executive instrument or official statement on a named digital programme
+6. Procurement plan; own-source-fund budgets and annual reports
 7. Reporting and scrutiny on any of the above
 
-**Cap: 40 items per country per run**, and stop early once tiers 1–3 are
-exhausted for every in-scope fiscal year. A run that returns eight documents
-covering two fiscal years' appropriation and outturn is a better run than one
-returning forty news items.
+A run returning eight documents covering the year's appropriation *and* outturn is
+better than one returning forty news items.
 
-**Dedup before fetching**: grep `raw/` for the document and for the programme
+**Dedup before fetching**: grep `raw/` and `new/` for the URL and the programme
 names. Sweep-time dedup is conservative — exact URL or confident re-crawl only
-(`reference.md` §7).
+(`reference.md` §7). On a re-run of the same country-year, most of tier 1 will
+already be held; that is success, not a wasted run.
 
-## Staging and frontmatter
+## Staging
 
 - **Markdown candidates → `new/`**, flat, date-prefixed, best-effort frontmatter.
-- **Binary and tabular artefacts (PDF, XLSX, CSV) → `new-queue/{ISO3}/`**, with a
-  **companion markdown source page in `new/`** carrying the frontmatter and
-  linking to the artefact, per the binary-artefact rule in `reference.md` §3.
-  Prefix both with the same date so they sort together. *(See the open question at
-  the foot of this file — `new-queue/` was retired for the daily sweep on
-  2026-07-21 and this reinstates it for binaries only.)*
-- Staged candidates carry `retrieved:` and never `ingested:` (`reference.md` §7).
+- **PDF / XLSX / CSV → `new-budget/{ISO3}/`** *(Bill's ruling, 2026-07-22)*, with
+  a **companion markdown source page in `new/`** carrying the frontmatter and
+  linking to the artefact (`reference.md` §3). Prefix both with the same date.
 
-Best-effort frontmatter on every candidate, validated at ingest, never a
-substitute for it:
+**`new-budget/` is deliberately outside the standard ingest path.** These
+documents need their own extraction pass — a 600-page appropriation act is not a
+source to be read and filed, it is a structure to be learned, and the first few
+are worth looking at by hand before any procedure is written for them. Naming the
+folder for what it holds, rather than reusing `new-queue/` (retired 2026-07-21),
+keeps that separation legible and stops anything draining it by accident. The
+companion page in `new/` ingests normally and carries the citation; the artefact
+waits.
+
+Staged candidates carry `retrieved:` and never `ingested:` (`reference.md` §7).
 
 ```yaml
 ---
@@ -188,98 +253,47 @@ topics: [finance.budget, <sector slug where evident>]
 entities: [[<institution-slug>]]
 lens: []
 retrieved: <YYYY-MM-DD>
-sweep_batch: domestic-finance-<ISO3>-<YYYY-MM-DD>
+sweep_batch: domestic-finance-<ISO3>-<fy-label>-<YYYY-MM-DD>
 fiscal_years_covered: ["2024/25", "2025/26"]
 doc_type: <appropriation-act | budget-estimates | mtef | implementation-report |
            audited-accounts | ifmis-extract | treasury-release | board-budget |
-           statement | reporting>
+           procurement-plan | statement | reporting>
 source_tier: <budget-document | official-statement | reporting>
+artefact: <path in new-budget/, where this is a companion page>
 body_completeness: <full | excerpt>
 ---
 ```
 
-`fiscal_years_covered` is the scope screen made explicit and is what the driver
-reads to know which years a document can support. `doc_type` and `source_tier`
-are staged here because the sweep knows them and the driver would otherwise have
-to re-derive them.
-
-**For a tabular artefact** (XLSX/CSV budget extract), the companion markdown also
-records the **sheet/tab, the header row, the printed scale and the currency** —
-the scale header is the 1,000× error the driver warns about, and it is far cheaper
-to capture at staging than to recover later.
-
-## Per-country vocabulary
-
-Each run reads and then appends to its country's section in
-**`documentation/domestic-budget-extraction.md`** — the accumulating record of what
-the digital lines are actually called and where they hide. **Read it before
-querying**; a second run on a country should never start from generic terms.
-
-Sketch of what a section holds, to be filled by the runs themselves:
-
-- **Fiscal year**: start/end months, the label form used (`2025/26`, `FY2025`).
-- **Budget vocabulary**: Anglophone *vote / head / sub-head / programme / MDA*;
-  Francophone *loi de finances / budget-programme / titre / chapitre / action /
-  crédits de paiement*; Lusophone *orçamento do estado / dotação / rubrica*.
-- **Digital vocabulary as that government writes it** — rarely "digital
-  transformation": an ICT vote, a named flagship, an agency's own line.
-- **Institutions and their domains**, per the Track A table.
-- **What was searched and found nothing.**
-
-### Worked example — Kenya (suggested pilot)
-
-Chosen because it exercises everything awkward and rewards it: a **July–June
-fiscal year** (so the padding and precision rules bite), a **published outturn**
-via the Controller of Budget's quarterly implementation reports (rare on the
-continent, and the whole point of `budget_stage`), **47 county budgets** for the
-sub-national tier, and named flagship programmes to anchor Block 4.
-
-In-scope years: **FY2024/25, FY2025/26, FY2026/27** (estimates).
-
-Institutions to domain-scope: National Treasury; Controller of Budget; Parliamentary
-Budget Office and the National Assembly; Office of the Auditor-General; Ministry of
-Information, Communications and the Digital Economy; Communications Authority;
-Universal Service Fund; ICT Authority; the county treasuries; and the Treasury's
-own budget-documents library for Track B enumeration.
-
-Block 4 and 5 terms to try: the digital superhighway and creative economy pillar;
-Maisha Namba and the national digital identity programme; the government's shared
-digital services platform; the national fibre backbone extension; digitisation of
-government services; county revenue-management systems.
-
-After the run, write back what the vote and programme actually turned out to be
-called — that is what makes the second country cheaper than the first.
-
-**Good next countries, for different reasons:** Nigeria (calendar FY, strong
-document availability, federal *and* 36 states, levy-funded NITDA); Ghana
-(programme-based budgeting, clear digital flagships); Rwanda (well-structured
-budget, explicit ICT programmes); Senegal or Côte d'Ivoire (to build the
-Francophone vocabulary early rather than late).
+**For a tabular or PDF artefact**, the companion page also records the
+**sheet/tab, header row, printed scale and currency**. The scale header — `N'000`,
+*en milliers*, "bilião" — is the 1,000× error the driver warns about and the
+back-swing already hit in Angolan reporting. Capture it at staging; recovering it
+later means reopening the document.
 
 ## Close
 
-Terse per `CLAUDE.md` → *Reporting*: documents staged by `doc_type` and fiscal
-year, fiscal years with no document found, items sent to acquisitions, and what
-was appended to the extraction notes. State plainly which in-scope fiscal years
-remain uncovered — **a known gap is a finding**, and for this dataset the gaps are
-half the story.
+Terse per `CLAUDE.md` → *Reporting*: documents staged by `doc_type`, items sent to
+acquisitions, what was appended to the extraction notes, and — the one that
+matters — **which of the run's fiscal-year stages remain uncovered**. For this
+dataset the gaps are half the story, and a country-year run that establishes *no
+outturn is published* has done its job.
 
 Then the status line.
 
 ---
 
-## Open questions for Bill
+## Notes for Bill
 
-1. **`new-queue/` was retired.** `reference.md` §7 records the
-   `new-queue/ → new/` promotion step as retired on 2026-07-21, with
-   `new-queue/done/` reserved to Bill and untouched by CC. Staging binaries there
-   reinstates it. Three options: reinstate deliberately (and amend §7);
-   put artefacts in `sweep/domestic/{ISO3}/` instead, which the containment rule
-   already permits and which keeps 40MB PDFs out of `new/`; or put artefact and
-   companion page both in `new/` per the existing §3 binary rule. This file
-   currently follows the instruction as given.
-2. **Do sub-national budgets belong in the same run**, or a separate pass? 47
-   Kenyan counties or 36 Nigerian states will swamp a 40-item cap and drown the
-   national documents.
-3. **Cap and cadence** — is 40 per run right, and is this a one-off per country or
-   re-run each fiscal year?
+- **`new-budget/` needs one line in `reference.md` §2 (folder structure) and §7
+  (containment)** so lint and ingest know it exists and know not to drain it. Not
+  written yet — `reference.md` is read by the passes and I've kept off live files.
+- **Sub-national is deferred, not dropped.** When it's turned on, the natural shape
+  is a separate invocation with its own cap, not a widening of this one — otherwise
+  one Nigerian run is 37 governments.
+- **Suggested first three runs:** Kenya FY2025/26 (July–June, published outturn via
+  the budget controller — the rare chance to exercise `budget_stage` end to end);
+  Angola FY2026 (the back-swing's richest seam, and the PAC procurement plans are a
+  known annual source); Benin or Côte d'Ivoire FY2026 (to build the Francophone
+  vocabulary and test whether the *lettres d'engagement* / finance-law annexes are
+  actually acquirable — if they are, the envelope problem is solved for a dozen
+  states at once).

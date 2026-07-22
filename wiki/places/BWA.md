@@ -156,7 +156,7 @@ An **upper-middle-income, comparatively strong-performing** Southern-African dig
 
 Instrument mix: Grant 2.
 
-**Domestic state** — *(pending that dataset)*.
+**Domestic state** — 2 budget lines held (national; own-resource spend, reporting-sourced, first capture 2026-07-22). NDP 12: P486m proposed. Reported apart from the headline: P4.13bn (NDP 12, partial-scope) — partial/unclear scope, not folded into clean totals. Amounts in the announcing state's own currency; stages as stated, never merged; no cross-year USD summation.
 
 ## Active topics
 
