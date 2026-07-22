@@ -8,8 +8,8 @@ topics: [dpi.registry, data.statistics, dpi.id, digital.rural]
 entities: [[nisr]]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-20
-sources: [[2026-04-21-rwanda-counting-everything-nisr-ktpress], [2026-06-17-kayonza-land-correction-28000-titles-realrwanda], [2026-07-05-eastern-province-land-registration-newtimes]]
+last_reviewed: 2026-07-21
+sources: [[2026-04-21-rwanda-counting-everything-nisr-ktpress], [2026-06-17-kayonza-land-correction-28000-titles-realrwanda], [2026-07-05-eastern-province-land-registration-newtimes], [2026-02-18-rwanda-land-disputes-ease-boundary-errors]]
 ---
 
 # Rwanda × Registries (CRVS, land)
@@ -29,7 +29,7 @@ Around the digital-ID spine ([[rwanda--dpi-id]]) Rwanda is completing the **civi
 
 ## Land registration
 
-- **Kayonza land-correction exercise (concluded 17 Jun 2026).** A six-month **LANDESA / [[national-land-authority-rwanda|National Land Authority]]**
+- **Kayonza land-correction exercise (concluded 17 Jun 2026).** A six-month **LANDESA / **National Land Authority****
   registration and boundary-correction exercise in **Kayonza District** issued **more than 28,000 land
   titles** (as of its conclusion, 17 Jun 2026), processing over 35,000 parcels across a target of 28,527
   hectares. About **4,700 parcels could not be titled** — ownership disputes, bank mortgages, and
@@ -38,11 +38,15 @@ Around the digital-ID spine ([[rwanda--dpi-id]]) Rwanda is completing the **civi
   including **Bugesera** follow in the next fiscal year. It complements Rwanda's June-2026 **e-Title**
   launch. See [[digital.rural]]. Source:
   [[2026-06-17-kayonza-land-correction-28000-titles-realrwanda]].
-  - *Figure scope, as of 2026-07-20:* the 28,000+ is this exercise's own yield, not Landesa's cumulative
-    Kayonza total. A February-2026 allAfrica report is understood to put ~37,000 Kayonza titles within a
-    ~54,000 three-district total — a **larger** number at an **earlier** date. **The wiki does not hold
-    that report**, so the discrepancy is unresolved and nothing here rests on it; it is queued as an
-    acquisition. Cite the figure scoped to this exercise.
+  - *Figure scope — **resolved 2026-07-21** (acquisition pass; the February-2026 report is now held):*
+    the 28,000+ is this exercise's own yield, and the larger February figure is a **different scope, not
+    a disagreement**. Landesa's is a **three-district total** — **~37,000 Kayonza + 21,000 Kirehe**, with
+    the remainder in **Nyagatare**. *Note the source is internally inconsistent: those two districts
+    alone already exceed the ~54,000 total it prints*, so carry the district figures rather than the
+    total. Also newly established from it: **222,423 plots with boundary errors corrected**, **582
+    villages prioritised by 2026**, an **Rwf 2.2bn budget across 825 villages**, and a **fee waiver for
+    systematic rectification** (previously at least **Rwf 25,000** per individual correction). Cite the
+    28,000+ scoped to this exercise. Source: [[2026-02-18-rwanda-land-disputes-ease-boundary-errors]].
 - **New Times coverage of the wider Eastern Province drive (5 Jul 2026).** The New Times reported that an
   Eastern Province land-registration drive delivered titles and reduced disputes. **No figures are
   established from it** — its body is not retrievable (client-side render; headline and caption only), so

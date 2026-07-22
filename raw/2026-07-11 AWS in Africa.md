@@ -13,6 +13,7 @@ places: [ZAF, NGA, GHA]
 topics: [infra.store, infra.capacity, capacity.training, tech.industry]
 entities: [[amazon-web-services]]
 lens: []
+body_completeness: excerpt
 ---
 
 <!-- Undated AWS Africa landing page - entity profile refreshing [[amazon-web-services]] (Cape Town region; re/Start cohorts ZAF/NGA/GHA Oct 2020). No dated event. -->

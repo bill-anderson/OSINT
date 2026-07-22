@@ -198,6 +198,7 @@ is a **deal entity**; this concept tracks the pattern.
 
 ## Sources
 
+- [[2026-07-21-ezi-remit-mastercard-cross-border-payments-africa]]
 - [[2026-07-17-zambia-revenue-authority-ictd-deal]]
 - [[2026-07-17-gabon-garantie-publique-huawei-start-up]]
 - [[2026-07-17-kenya-ict-officers-china-digital-trade]]

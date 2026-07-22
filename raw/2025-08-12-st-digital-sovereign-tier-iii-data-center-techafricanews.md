@@ -13,6 +13,7 @@ places: [CIV, CMR, GAB, TGO, GIN, SEN]
 topics: [infra.store, infra.energy, tech.ai, gov.policy, gov.standards, finance.new]
 entities: [[st-digital], [anthony-same], [steve-tchouaga], [ministry-of-digital-transition-and-digitalisation-cote-divoire], [roger-adom], [grant-thornton]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # ST Digital to Launch Côte d'Ivoire's First Sovereign Tier III Data Center

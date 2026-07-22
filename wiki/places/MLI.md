@@ -168,6 +168,18 @@ penetration 35.1% (2026)**) and a below-average e-government score.
   [[2007-06-01 Survey of ICT and Education in Africa - Mali Country Report (infoDev, World Bank)]],
   [[2023-01-01 Digital Economy for Mali - Country Diagnostic (World Bank)]].
 
+## Financing
+
+*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-21**.*
+
+**Non-state** — US$340m committed across 3 deals (2023–2025). Top financiers: e& (formerly Etisalat) (US$256m), IFC (International Finance Corporation) (US$79m), USAID (US$4m). Leading subjects: `infra.connect`, `gov.policy`, `dpi.pay`.
+
+Instrument mix: Grant 1, Equity 1, Commercial loan 1.
+
+**Domestic state** — *(pending that dataset)*.
+
+Material deals: [[2024-01-01-eand-mli-sotelma-licence-2024-sotelma-moov-africa-malitel-mali-telecoms]], [[2025-01-01-ifc-mli-001-orange-mali-sa-telecom-infrastructure-loan]].
+
 ## Active topics
 
 - [[infra.store]] · [[infra.cybersec]] · [[gov.regional]] — Tier III **National Data Centre**; sovereign

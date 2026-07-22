@@ -13,6 +13,7 @@ places: [XGL]
 topics: [dpi.govtech, data.open, gov.policy]
 entities: [[digital-data-driven-transformations-landscape-review-2025], [data-for-policy], [the-govlab]]
 lens: []
+body_completeness: excerpt
 ---
 <!-- Named-authorship scholarly landscape review (Data & Policy Vol 7 ≈ 2025) conceptualising "digital & data-driven transformations in governance"; scoping review, no new data. Global/theoretical — capture as reference shelf publication [[digital-data-driven-transformations-landscape-review-2025]], do NOT push abstractions into place/concept pages. -->
 

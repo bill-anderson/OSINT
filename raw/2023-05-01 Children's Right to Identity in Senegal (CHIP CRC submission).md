@@ -1,7 +1,8 @@
 ---
 type: source
 title: Children's Right to Identity in Senegal (CHIP submission to UN CRC, CRC/C/SEN/6-7)
-url: https://www.child-identity.org/
+url: https://www.child-identity.org/wp-content/uploads/2021/03/senegal.pdf
+url_note: "recovered 2026-07-21 (lint #14): byte-identical to the held artefact (529,302 bytes, sha256 8315ea3e...)"
 publisher: Child Identity Protection (CHIP / child-identity.org) — 95th CRC Pre-Sessional Working Group
 published: 2023-05-01
 date_precision: month
@@ -14,7 +15,6 @@ lens: []
 body_completeness: full
 artefact: "[[2023-05-01 senegal.pdf]]"
 ---
-<!-- url unrecovered as of 2026-07-20 -->
 
 # Children's Right to Identity in Senegal (CHIP submission to UN CRC)
 

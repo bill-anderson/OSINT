@@ -14,6 +14,7 @@ places: [CMR]
 topics: [dpi.exchange, digital.localgov, data.statistics]
 entities: [[minhdu-cameroon], [minepat-cameroon], [bucrep-cameroon], [ins-cameroon], [inc-cameroon], [world-bank], [un-habitat], [csea]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Gérer les données sur l'urbanisation : renforcer la gestion et l'interopérabilité pour des villes inclusives au Cameroun

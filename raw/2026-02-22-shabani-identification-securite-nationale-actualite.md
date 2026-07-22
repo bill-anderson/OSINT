@@ -13,6 +13,7 @@ places: [COD]
 topics: [dpi.id, dpi.registry, gov.policy, dpi.exchange, gov.protect]
 entities: [[onip-drc], [ceni-drc], [jacquemain-shabani-lukoo], [richard-ilunga], [felix-tshisekedi], [idemia], [afritech], [igf-drc]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 Le VPM de l'intérieur Jacquemain Shabani

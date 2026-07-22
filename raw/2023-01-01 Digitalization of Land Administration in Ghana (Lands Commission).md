@@ -1,7 +1,8 @@
 ---
 type: source
 title: "Digitalization of Land Administration in Ghana — Transforming Lands Commission"
-url: https://lc.gov.gh
+url: https://lc.gov.gh/landconference/materials/NLC-Fit-for-purpose%20cadastral.pdf
+url_note: "recovered 2026-07-21 (lint #14): byte-identical to the held artefact (5,806,184 bytes)"
 publisher: Lands Commission (Ghana)
 author: Ben Arthur (Deputy Executive Secretary, Lands Commission)
 published: 2023-01-01
@@ -15,7 +16,6 @@ lens: []
 body_completeness: full
 artefact: "2023-01-01 NLC-Fit-for-purpose cadastral.pdf"
 ---
-<!-- url unrecovered as of 2026-07-20 -->
 
 # Digitalization of Land Administration in Ghana (Lands Commission)
 

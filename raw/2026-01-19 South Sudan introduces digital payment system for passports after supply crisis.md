@@ -13,6 +13,7 @@ places: [SSD]
 topics: [dpi.pay, dpi.govtech, dpi.id, gov.protect]
 entities: [[south-sudan-national-revenue-authority]]
 lens: [sovereignty]
+body_completeness: excerpt
 ---
 
 <!-- South Sudan abolished cash at immigration offices for a bank-linked digital payment system for passports/national ID (Juba, ~19 Jan 2026; EU-supported). Follows a passport-booklet shortage (10,000 received after clearing supplier debts). Nov 2025 biometric registration of public servants (anti-ghost-worker). No unified interoperable national digital ID yet. -->

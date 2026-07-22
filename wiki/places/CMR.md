@@ -66,6 +66,18 @@ and rights as reality.**
   **open-budget** oversight in the East (2026-04). Sources: [[2025-10-01-lejour-north-region-weather-data-agriculture]],
   [[2026-04-16-leconomie-citizen-budget-oversight-east]].
 
+## Financing
+
+*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-21**.*
+
+**Non-state** — US$1.16bn committed across 12 deals (2015–2026). Top financiers: Export-Import Bank of China (US$868m), World Bank Group (US$147m), Bank of China (BOC) (US$135m). Leading subjects: `infra.connect`, `tech.industry`, `data.satellite`.
+
+Instrument mix: Concessional loan 7, Grant 2, Buyer's credit 1. **3 records here still carry the capture's unverified `Concessional loan` label**, so the mix is indicative rather than established: the World Bank portal does not separate an IDA credit from an IDA grant.
+
+**Domestic state** — *(pending that dataset)*.
+
+Material deals: [[2015-01-01-eximbank-cn-cmr-002-china-eximbank-provides-3371-million-preferential]], [[2026-01-01-eximbank-cn-cmr-006-cameroon-fibre-optic-transmission-backbone-extension]], [[2016-01-01-eximbank-cn-cmr-004-china-eximbank-provides-rmb-937500000-government]], [[2021-09-28-wb-cmr-001-acceleration-of-the-digital-transformation-of]].
+
 ## Active topics
 
 - **Digital identity & CRVS** → **[[cameroon--dpi-id]]**. Biometric CNI ([[dgsn-cameroon]]/[[augentic]] BOT,

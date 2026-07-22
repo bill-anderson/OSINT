@@ -6,7 +6,7 @@ parent: XEA
 place_kind: country
 topics: [dpi.id, dpi.pay, dpi.registry, dpi.exchange, dpi.govtech, dpi.mis, gov.protect, gov.legislate, gov.policy, gov.standards, gov.regional, infra.connect, infra.store, infra.capacity, infra.cybersec, include.access, include.divides, capacity.literacy, capacity.research, tech.ai, tech.innovate, tech.industry, data.statistics, data.satellite, digital.rural, finance.new, geopol.china, geopol.usa, geopol.gulf]
 status: active
-last_reviewed: 2026-07-20
+last_reviewed: 2026-07-21
 ---
 
 # Uganda (UGA)
@@ -173,6 +173,18 @@ days, two days before a presidential election — reminding every layer above it
   gazetted **18 September 2020**, carrying a **unique QR code**. Source:
   [[2024-01-01 Uganda Moves to Digital Certificates of Customary Ownership to secure land rights and improve land use]].
   See [[dpi.registry]], [[digital.rural]].
+
+## Financing
+
+*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-21**.*
+
+**Non-state** — US$889m committed across 17 deals (2017–2025). Top financiers: Export-Import Bank of China (US$295m), World Bank Group (US$213m), Mastercard Foundation (US$200m). Leading subjects: `infra.connect`, `dpi.pay`, `dpi.mis`.
+
+Instrument mix: Grant 7, Concessional loan 4, Equity 2. **2 records here still carry the capture's unverified `Concessional loan` label**, so the mix is indicative rather than established: the World Bank portal does not separate an IDA credit from an IDA grant.
+
+**Domestic state** — *(pending that dataset)*.
+
+Material deals: [[2020-01-01-mcf-uga-youngafricaworks-2020-young-africa-works-in-uganda]], [[2021-06-02-wb-uga-001-uganda-digital-acceleration-project---govnet]], [[2023-01-01-eximbank-cn-uga-002-national-data-transmission-backbone-infrastructure-and]], [[2023-01-01-press-chn-uga-2023-001-national-data-transmission-backbone-infrastructuree-government-infrastructure]], [[2022-01-01-miga-uga-airtel-mobile-money-2022-airtel-mobile-money-uganda-digital-financial]].
 
 ## Active topics
 

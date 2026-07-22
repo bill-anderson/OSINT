@@ -1,7 +1,8 @@
 ---
 type: source
 title: "National Data Policy 2025 — The Gambia (draft)"
-url: https://mocde.gov.gm
+url: https://mocde.gov.gm/wp-content/uploads/2025/06/National-Data-Policy-2025-The-Gambia-draft.docx
+url_note: "recovered 2026-07-21 (lint #14): canonical publisher URL, now 404 live; verified byte-identical to the held artefact (122,071 bytes) against the Wayback capture of 2025-07-10 (https://web.archive.org/web/20250710230356id_/https://mocde.gov.gm/wp-content/uploads/2025/06/National-Data-Policy-2025-The-Gambia-draft.docx)"
 publisher: Government of The Gambia (Ministry of Communications and Digital Economy)
 author: Government of The Gambia
 published: 2025-01-01
@@ -15,7 +16,6 @@ lens: []
 body_completeness: full
 artefact: "2025-01-01 National-Data-Policy-2025-The-Gambia-draft.docx"
 ---
-<!-- url unrecovered as of 2026-07-20 -->
 
 # National Data Policy 2025 — The Gambia (draft)
 

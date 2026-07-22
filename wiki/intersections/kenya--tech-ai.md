@@ -5,11 +5,11 @@ place: KEN
 topic: tech.ai
 places: [KEN, XEA]
 topics: [tech.ai, infra.store, infra.capacity, geopol.usa, geopol.gulf, gov.protect, gov.legislate]
-entities: [[microsoft-g42-kenya-datacenter], [technology-prosperity-deal], [servernah-cloud], [uae], [openai], [g42], [william-ruto], [jane-munga], [kenya-ai-bill-2026], [eu-ai-act], [alice-munyua], [africa-ai-declaration], [kenya-india-italy-sovereign-ai-partnership], [kenya-germany-ai-centre], [undp], [sama], [meta], [zerobionics], [norah-kimathi]]
+entities: [[microsoft-g42-kenya-datacenter], [technology-prosperity-deal], [servernah-cloud], [uae], [openai], [g42], [william-ruto], [jane-munga], [kenya-ai-bill-2026], [eu-ai-act], [alice-munyua], [africa-ai-declaration], [kenya-india-italy-sovereign-ai-partnership], [kenya-germany-ai-centre], [undp], [sama], [meta], [zerobionics], [norah-kimathi], [vumah-labs], [chepkemoi-chepkwony]]
 lens: [sovereignty, colonialism]
 status: active
-last_reviewed: 2026-07-19
-sources: [[2026-06-23 A Kenya Technology Prosperity Deal Could Help Washington Secure Durable AI Partnerships with Africa], [2026-07-09 Microsoft and G42 data center in Kenya stalled due to lack of power capacity], [2026-06-18 UAE-Kenya Tech Partnership Gains Momentum as AI Investments Grow], [2026-06-18 Kenya Eyes First OpenAI Academy in East Africa Following Ruto–Sam Altman Talks], [2026-05-19 GATEKEEPERS XIV], [2026-02-20 Kenya, India and Italy Launch Trilateral Sovereign AI Partnership for Africa], [2026-02-04 Kenya, Germany forge path for AI centre], [2026-04-17 Meta contract end sparks 1 100 Sama job cuts], [2026-07-17-zerobionics-sign-language-robots-kenya]]
+last_reviewed: 2026-07-21
+sources: [[2026-06-23 A Kenya Technology Prosperity Deal Could Help Washington Secure Durable AI Partnerships with Africa], [2026-07-09 Microsoft and G42 data center in Kenya stalled due to lack of power capacity], [2026-06-18 UAE-Kenya Tech Partnership Gains Momentum as AI Investments Grow], [2026-06-18 Kenya Eyes First OpenAI Academy in East Africa Following Ruto–Sam Altman Talks], [2026-05-19 GATEKEEPERS XIV], [2026-02-20 Kenya, India and Italy Launch Trilateral Sovereign AI Partnership for Africa], [2026-02-04 Kenya, Germany forge path for AI centre], [2026-04-17 Meta contract end sparks 1 100 Sama job cuts], [2026-07-17-zerobionics-sign-language-robots-kenya], [2026-07-21-chepkemoi-chepkwony-vumah-labs]]
 ---
 
 # Kenya × AI
@@ -107,6 +107,21 @@ that its power grid and jurisdiction keep qualifying.
   figure is held.* The consent and governance questions attaching to an open sign-language dataset
   are unaddressed in the held source. See [[include.access]], [[tech.innovate]], [[zerobionics]].
   Source: [[2026-07-17-zerobionics-sign-language-robots-kenya]].
+- **A Kenyan lab building the verification layer rather than the model layer — standing object,
+  profiled 2026-07-21.** **Vumah Labs**, founded **2023** by computer scientist **Chepkemoi Chepkwony**
+  (BSc Computer Science, Daystar University, 2012; previously Web3/blockchain research at Data Tech
+  Pivot and developer relations at blockchain platform **Aleo**), builds what it calls **trust
+  infrastructure** for governments, businesses and citizens, on a **privacy- and security-by-design**
+  premise. Two named products: **Kweli**, a platform for **detecting falsified content and verifying
+  the authenticity of digital media**, and the **Vumah Trust SDK** for **consent management** and
+  verification of confidential information. Worth a line because it sits on the opposite side of this
+  page's central tension: where Kenya's AI story is mostly **foreign compute and state surveillance
+  procurement**, this is domestic capability aimed at **detection, consent and provenance** — the
+  governance layer rather than the model layer. **No customer, deployment, revenue, funding or
+  independent evaluation figure is published in the profile** — capability claimed, **scale and
+  efficacy unestablished as of 2026-07-21**; nothing here is evidence that Kweli works. Below the
+  entity-page bar; revisit in the entity pass. See [[gov.protect]], [[tech.innovate]]. Source:
+  [[2026-07-21-chepkemoi-chepkwony-vumah-labs]].
 
 ## Reads
 

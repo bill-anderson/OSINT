@@ -11,6 +11,7 @@ places: [XAF, ZAF]
 topics: [tech.ai, finance.new, infra.capacity, infra.store, geopol.gulf]
 entities: [[uae], [uae-ai-for-development-initiative], [cyril-ramaphosa]]
 lens: []
+body_completeness: full
 ---
 
 ![General view of Abu Dhabi](https://www.reuters.com/resizer/v2/7HVHMMF7INM67DRFP6Q3AFHM3A.jpg?auth=fbe8d38b25cf6e89e79095aec948fe3f4e2db40ff9b4caf62983e8a88fc2b111&width=1200&quality=80)

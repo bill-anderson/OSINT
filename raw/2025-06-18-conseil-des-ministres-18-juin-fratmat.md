@@ -13,6 +13,7 @@ places: [CIV]
 topics: [gov.legislate, dpi.govtech, dpi.id, data.statistics]
 entities: [[systeme-statistique-national], [union-europeenne], [oeacp], [organisation-du-corridor-abidjan-lagos]]
 lens: []
+body_completeness: full
 ---
 
 # Communiqué du Conseil des ministres ce mercredi 18 juin 2025

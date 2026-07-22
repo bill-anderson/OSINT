@@ -3,11 +3,11 @@ type: concept
 title: China activities
 slug: geopol.china
 places: [BEN, AGO, XAF, XGL, NAM, ZAF, NGA, KEN, EGY, ZMB, SEN, ZWE, MOZ, DZA, UGA, RWA, GHA, GAB, SSD, ETH, MWI]
-entities: [[us-dfc], [huawei], [state-department-for-ict-and-the-digital-economy-kenya], [kenya-china-ecommerce-mou], [john-tanui], [gabon-huawei-kimba-connect-accord], [kimba-connect], [china-namibia-smart-city], [nucap], [ncc], [bosun-tijani], [zte], [hikvision], [ghana-national-ai-strategy], [kashifu-inuwa], [deepseek], [gabon-huawei-mou], [kenya-school-of-government]]
+entities: [[us-dfc], [huawei], [state-department-for-ict-and-the-digital-economy-kenya], [kenya-china-ecommerce-mou], [john-tanui], [gabon-huawei-kimba-connect-accord], [kimba-connect], [china-namibia-smart-city], [nucap], [ncc], [bosun-tijani], [zte], [hikvision], [ghana-national-ai-strategy], [kashifu-inuwa], [deepseek], [gabon-huawei-mou], [kenya-school-of-government], [exim-bank-china], [dahua], [cloudwalk]]
 lens: [sovereignty, colonialism]
 status: active
-last_reviewed: 2026-07-20
-sources: [[2026-06-23 Africa's Data Centre Boom Where The New Facilities Are Being Built], [2026-06-17 Priced out of the future Confronting the rising cost of AI in Africa], [2026-07-08 China funds Namibia digital infrastructure], [2026-06-08 Zambia, China deepen digital ties], [2026-06-11 The Case Against the EU's Tech Sovereignty Package], [2025-01-01 South African Digital Sovereignty at the Crossroad of Securitization and Development (Chapter 4) - Digital Sovereignty in the BRICS Countries], [2026-06-04 Chinese bank backs Nigeria towers project], [2026-05-21 Pushing back from Big Tech Africa's hard road to AI sovereignty], [2026-04-04 Chinese surveillance rolled out in Africa ZTE, Hikvision, Huawei at the helm], [2026-03-05 Ghana strikes AI training deal with Chinese multinational amid $250m tech investment push], [2026-04-02 Nations priced out of Big AI are building with frugal models], [2026-04-14 Nigeria Seeks Stronger Digital Sovereignty, National Software Infrastructure], [2026-03-01 Smart City Surveillance in Africa (IDS 2026)], [2026-03-12 China's DeepSeek gives US tech giants a run for their money as Microsoft and others expand AI push in Africa], [2026-01-05 Gabon and Huawei Forge Partnership to Boost National Digital Transformation], [2026-02-09 Huawei reconnects with South Sudan], [2026-02-13 Namibia gets  Chinese satellite ground station], [2026-04-20 117 - Payments Follow Trade], [2026-07-17-kenya-ict-officers-china-digital-trade], [2026-07-17-gabon-garantie-publique-huawei-start-up]]
+last_reviewed: 2026-07-21
+sources: [[2026-06-23 Africa's Data Centre Boom Where The New Facilities Are Being Built], [2026-06-17 Priced out of the future Confronting the rising cost of AI in Africa], [2026-07-08 China funds Namibia digital infrastructure], [2026-06-08 Zambia, China deepen digital ties], [2026-06-11 The Case Against the EU's Tech Sovereignty Package], [2025-01-01 South African Digital Sovereignty at the Crossroad of Securitization and Development (Chapter 4) - Digital Sovereignty in the BRICS Countries], [2026-06-04 Chinese bank backs Nigeria towers project], [2026-05-21 Pushing back from Big Tech Africa's hard road to AI sovereignty], [2026-04-04 Chinese surveillance rolled out in Africa ZTE, Hikvision, Huawei at the helm], [2026-03-05 Ghana strikes AI training deal with Chinese multinational amid $250m tech investment push], [2026-04-02 Nations priced out of Big AI are building with frugal models], [2026-04-14 Nigeria Seeks Stronger Digital Sovereignty, National Software Infrastructure], [2026-03-01 Smart City Surveillance in Africa (IDS 2026)], [2026-03-12 China's DeepSeek gives US tech giants a run for their money as Microsoft and others expand AI push in Africa], [2026-01-05 Gabon and Huawei Forge Partnership to Boost National Digital Transformation], [2026-02-09 Huawei reconnects with South Sudan], [2026-02-13 Namibia gets  Chinese satellite ground station], [2026-04-20 117 - Payments Follow Trade], [2026-07-17-kenya-ict-officers-china-digital-trade], [2026-07-17-gabon-garantie-publique-huawei-start-up], [2012-01-01-aiddata-kenya-cctv-100m-chinese-grant-project-30364], [2025-09-18-bagwandeen-huawei-african-data-sovereignty-georgetown], [2025-03-05-coloniality-chinese-surveillance-technologies-africa-ijriss]]
 # Source-linkage: the BRICS chapter notes China's Global Initiative on Data Security, the
 # TCP/IP-redesign proposal, and African reliance on Chinese networking kit as a standards
 # vector. Prose enrichment pending.
@@ -20,6 +20,45 @@ financing and the global AI-capacity race.
 
 ## Key material
 
+- **★ Analysis — the data-centre footprint, and "localisation is not sovereignty" from the China angle
+  (Bagwandeen, Georgetown Africa-China Initiative, 2025-09-18).** [[sovereignty]] [[colonialism]]
+  **Expert third-party analysis, cited by author, not evidence.** The argument: African governments
+  routinely **conflate digital sovereignty with data localisation** — believing control requires that
+  data, ICT infrastructure and all processing sit inside national borders — which is "China's
+  state-centric approach" imported wholesale. But localisation is hard in Africa (capital, technical
+  capacity, reliable power), so governments turn to foreign builders, and **[[huawei]] is the one that
+  packages hard infrastructure with services and Chinese policy-bank financing** (China EximBank, China
+  Development Bank) "to sweeten offers". The result is onshore servers on foreign-financed,
+  foreign-built, foreign-maintained stacks. *This is the same conclusion the wiki holds from
+  [[2026-07-20-eaves-data-localization-answer-what-question|Eaves on data localisation]], reached from
+  the opposite direction — worth reading the two together.*
+  **Scale, attributed:** Huawei has relationships with **over 25 African countries**, has secured
+  several data-centre projects over the past decade, and earmarked **over US$300m** for African
+  data-centre and cybersecurity investment **by end-2026**; **~700 new facilities** are projected
+  continent-wide over the next decade. Huawei-built data centres are named in **[[SEN]], [[ZWE]],
+  [[TZA]], [[ZAF]], [[MOZ]], [[NGA]], [[GHA]], [[EGY]], [[KEN]] and [[CMR]]**. The founding case is
+  **Senegal, June 2021** — first African state to replicate China's model, via the **US$18.2m
+  Diamniadio National Datacenter** (EximBank-financed, Huawei-built), after which **Macky Sall ordered
+  all state data repatriated** into it; detail on [[senegal--infra-store]].
+  **The security question, stated fairly:** Huawei's CCP ties drive Western fears that Chinese-built
+  infrastructure enables backdoor espionage, and the piece cites **cyber-espionage incidents targeting
+  the [[african-union|AU]] and the Kenyan government** — while noting **the US has done the same to
+  others, Africans included**, so the risk is of foreign dependency generally, not of one flag. Its
+  conclusion is the durable line: until African states hold the skills, the regulation and the finance,
+  **"achieving absolute data sovereignty for most African countries will remain a pipe dream."**
+  *All figures here are the author's citations to secondary sources and are **not independently
+  held**.* Source: [[2025-09-18-bagwandeen-huawei-african-data-sovereignty-georgetown]].
+- **Analysis — the digital-colonialism reading of Chinese surveillance (IJRISS, 2025-03-05).**
+  [[colonialism]] A **University of Zimbabwe** paper (five authors; DOI 10.47772/IJRISS.2025.9020107)
+  frames Chinese safe-city/smart-city exports as **digital colonialism**: facial recognition, video
+  analytics, mobile tracking and data fusion into centralised command centres, supplied by
+  **[[huawei]], [[hikvision]], Dahua and CloudWalk**, marketed as public safety and used — on the
+  human-rights critique it summarises — to surveil dissent, journalists and minorities under **lax data
+  protection**, with the added risk of **extraction and monetisation of civilian data by the vendors**.
+  Its contribution is the **framework**, not new fact: it is explicitly a **qualitative analysis of
+  secondary data**, and **IJRISS's standing as a journal is not established** by anything the wiki
+  holds — so cite it for the argument and trace facts to primaries. Source:
+  [[2025-03-05-coloniality-chinese-surveillance-technologies-africa-ijriss]].
 - **[[MWI]] Malawi — a proposed US$180m Huawei ICT plan (2026-06).** ICT Minister Namalomba presented, in China,
   a four-year **US$180m [[huawei]]** roadmap: a **one-stop digital-government portal** (passports, business
   registration, tax) and a **28-district high-speed ring-protected network** to power the Boma Lathu platform —
@@ -61,8 +100,18 @@ financing and the global AI-capacity race.
   create **institutional and technical lock-in**, not easily substituted once embedded in
   fibre/e-gov ecosystems. Marketed as public safety, systems were repurposed against
   opposition (facial-recognition fears in **[[ZWE]]**, cameras in Mozambican opposition
-  strongholds) with little legal oversight. Kenya was an early adopter (a $100m Chinese grant,
-  1,800 Huawei cameras post-Westgate). Lineage: China's Golden Shield. This is the sharpest
+  strongholds) with little legal oversight. Kenya was an early adopter — **1,800 Huawei cameras across
+  Nairobi and Mombasa**, correct as carried and **confirmed 2026-07-21 (reconcile)**. **But the money
+  needed separating.** The cameras were the **Integrated Public Safety Communication and Surveillance
+  System (IPSCSS)**, contracted to **[[safaricom]]** in **May 2014** at **KES 14.9bn (~US$169.6m,
+  2014)** — that is the contract value that bought them, and KES is the announcing party's currency.
+  The **~US$100m / KES 8.5bn** figure is a **separate, earlier Chinese Ministry of Commerce grant
+  committed in 2012**, implemented by **Nanjing Les Information Technology**, and **AidData states
+  explicitly that whether it financed the IPSCSS "is unclear" and "merits further investigation"** —
+  so the widely-repeated framing of "a $100m Chinese grant bought 1,800 cameras" **compresses two
+  separate commitments into one and asserts a link no source establishes**. The **US$219m** on
+  [[gov.protect]] is a third quantity again: IDS's **cumulative national spend**, not a contract.
+  Lineage: China's Golden Shield. This is the sharpest
   `colonialism`/`sovereignty` case of dependency-by-infrastructure. See [[infra.cybersec]],
   [[gov.protect]], [[infra.store]], [[KEN]], [[EGY]], [[ZMB]], [[SEN]], [[UGA]], [[DZA]],
   [[RWA]], [[MOZ]]. Sources: [[2026-03-01 Smart City Surveillance in Africa (IDS 2026)]] (the IDS report by

@@ -13,6 +13,7 @@ places: [DZA]
 topics: [dpi.registry, dpi.govtech, data.statistics, data.open]
 entities: [[ministry-of-foreign-trade-and-export-promotion-algeria], [kamel-rezig], [algerie-presse-service]]
 lens: []
+body_completeness: full
 ---
 
 # Algiers Targets Export Growth With National Data Platform

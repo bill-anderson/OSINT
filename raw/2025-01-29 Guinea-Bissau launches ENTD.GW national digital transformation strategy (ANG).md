@@ -13,6 +13,7 @@ lens: []
 retrieved: 2026-07-17
 ingested: 2026-07-18
 sweep_batch: GNB-2026-07-17
+body_completeness: full
 ---
 
 _Source note: ANG state news agency (government voice); capture is not endorsement. **SAME EVENT as material already held** — the ENTD.GW launch of 29 Jan 2025 (held: UNU-EGOV 2025-02-04 and the ENTD.GW project page). This is the domestic ANG account, adding PM Rui Duarte Barros and Minister Marciano Silva Barbeiro quotes. `published` proxy 2025-01-29 (UNDP dates the launch to 29 January 2025; article references the "Guiné-Bissau Digital" conference of "last June" = June 2024)._

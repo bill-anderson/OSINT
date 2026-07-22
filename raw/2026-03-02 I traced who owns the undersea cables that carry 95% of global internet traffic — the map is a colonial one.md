@@ -13,6 +13,7 @@ places: [XGL, XAF, COD, MDG]
 topics: [infra.connect, geopol.usa, geopol.china, geopol.gulf]
 entities: [[2africa-cable], [telegeography], [google]]
 lens: [colonialism, sovereignty]
+body_completeness: excerpt
 ---
 
 <!-- Named-analyst essay: 95% of intercontinental traffic via undersea cables (~550 systems, TeleGeography). 2Africa (Meta/China Mobile/MTN/Orange/Vodafone) lands in 33 countries; Google/Meta/Microsoft/Amazon own/lease ~70% of undersea bandwidth (Atlantic Council 2022); PEACE cable (Chinese-backed). Colonial-geography framing (former colonial ports as data nodes). Analysis; cite for framing. -->

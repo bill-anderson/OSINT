@@ -13,6 +13,7 @@ places: [CIV]
 topics: [gov.policy, gov.legislate, tech.ai, infra.cybersec, data.open]
 entities: [[ministry-of-digital-transition-cote-divoire], [civ-ai-strategy], [civ-data-governance-strategy], [parae], [padci]]
 lens: []
+body_completeness: excerpt
 ---
 
 <!-- Seminar (Yamoussoukro, 2026-04-12; Minister Djibril Ouattara) aligning national strategies: Digital Development, Cybersecurity, 'Zero Paper by 2030', Data Governance 2030, National AI Strategy. Donor programmes PADCI and PARAE. First substantive CIV hub material. -->

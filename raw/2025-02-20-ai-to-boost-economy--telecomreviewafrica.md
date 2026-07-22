@@ -13,6 +13,7 @@ places: [DZA]
 topics: [tech.ai, tech.innovate, finance.new, capacity.training, infra.cybersec, gov.policy]
 entities: [[algerie-telecom], [ministry-of-post-and-telecommunications-algeria], [sid-ali-zerrouki], [high-commission-digitalisation-algeria], [meriem-benmouloud], [national-commission-for-artificial-intelligence-algeria], [cto-forum-algeria]]
 lens: []
+body_completeness: full
 ---
 
 Algeria is turning to artificial intelligence (AI) to drive economic growth. The Minister of Post and Telecommunications, Sid Ali Zerrouki, announced his sector's ambition to achieve a 7% GDP contribution through AI by 2027. To support this goal, Algérie Télécom plans to launch an investment fund dedicated to startups specializing in AI, cybersecurity, and robotics.

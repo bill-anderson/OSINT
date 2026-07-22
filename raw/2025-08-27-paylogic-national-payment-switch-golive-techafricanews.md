@@ -14,6 +14,7 @@ topics: [dpi.pay, include.access, gov.regional]
 entities: [[paylogic], [bcc-comoros], [world-bank]]
 lens: []
 provenance_flag: pr-wire
+body_completeness: full
 ---
 
 # PayLogic Launches National Payment Switch in Comoros to Boost Digital Financial Inclusion

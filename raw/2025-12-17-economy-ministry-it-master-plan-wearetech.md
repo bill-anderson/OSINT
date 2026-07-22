@@ -13,6 +13,7 @@ places: [CIV]
 topics: [dpi.govtech, gov.policy, infra.cybersec, dpi.exchange, infra.connect, finance.new]
 entities: [[ministry-of-economy-planning-and-development-cote-divoire], [sndi-cote-divoire], [kaba-niale], [yeo-nahoua]]
 lens: []
+body_completeness: full
 ---
 
 # Ivorian Economy Ministry Sets 2026–2030 Roadmap for IT Modernization

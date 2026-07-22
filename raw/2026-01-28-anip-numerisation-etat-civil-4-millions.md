@@ -14,6 +14,7 @@ sweep_batch: BEN-2026-07-17
 places: [BEN]
 topics: [dpi.id, dpi.registry, dpi.govtech, include.access]
 entities: [[anip-benin]]
+body_completeness: full
 ---
 
 # Numérisation des documents de l'état civil au Bénin : 4 millions de citoyens servis par l'ANIP en 2025

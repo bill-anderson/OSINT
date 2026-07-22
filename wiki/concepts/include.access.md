@@ -233,3 +233,4 @@ private digital services as the test of infrastructure's value.
 - [[2026-01-15 Leveraging AI to Bypass the Smartphone Barrier and Advance Digital Inclusion in Africa]]
 - [[2026-06-25 Regulating for Africa's future digital economy – A draft agenda to speed things up]]
 - [[2026-07-17-zerobionics-sign-language-robots-kenya]]
+- [[2026-07-22-nigeria-credicorp-clickd-credit-ordinateurs-locaux]]

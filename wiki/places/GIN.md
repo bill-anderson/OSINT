@@ -139,6 +139,18 @@ early-stage build, not yet outcomes.
   [[2023-08-03 The modernisation of Guinea's civil registry inspired by Belgium's experience (Citizenship Rights in Africa)]].
   See [[dpi.registry]], [[include.access]].
 
+## Financing
+
+*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-21**.*
+
+**Non-state** — US$482m committed across 4 deals (2023–2025). Top financiers: MIGA (Multilateral Investment Guarantee Agency) (US$400m), Export-Import Bank of China (US$54m), USAID (US$29m). Leading subjects: `tech.innovate`, `dpi.pay`, `infra.connect`.
+
+Instrument mix: Guarantee 2, Grant 1, Concessional loan 1.
+
+**Domestic state** — *(pending that dataset)*.
+
+Material deals: [[2024-01-01-miga-gin-orange-guinea-2024-orange-guinea-telecoms-operator-guarantee-sonatel]].
+
 ## Active topics
 
 - [[dpi.pay]] · [[include.access]] · [[gov.regional]] — cash-preference crisis; **[[bcrg]]** SPI

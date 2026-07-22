@@ -13,6 +13,7 @@ entities: [[mastercard], [flash-drc], [mastercard-flash-drc-prepaid-partnership]
 lens: []
 retrieved: 2026-07-17
 sweep_batch: COD-2026-07-17
+body_completeness: full
 ---
 
 # Mastercard and Flash Partner to Expand Digital Financial Inclusion in DRC

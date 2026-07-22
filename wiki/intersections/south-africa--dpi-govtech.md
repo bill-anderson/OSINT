@@ -5,11 +5,11 @@ place: ZAF
 topic: dpi.govtech
 places: [ZAF]
 topics: [dpi.govtech, dpi.exchange, gov.policy, gov.standards, data.statistics]
-entities: [[mzansixchange], [mymzansi], [sa-digital-transformation-roadmap], [digital-services-unit-presidency-sa], [operation-vulindlela], [sita], [national-treasury-south-africa], [cyril-ramaphosa], [solly-malatsi], [gcis], [sars], [home-affairs-south-africa], [border-management-authority], [government-printing-works], [electoral-commission-of-south-africa], [dbsa], [city-of-cape-town]]
+entities: [[mzansixchange], [mymzansi], [sa-digital-transformation-roadmap], [digital-services-unit-presidency-sa], [operation-vulindlela], [sita], [national-treasury-south-africa], [cyril-ramaphosa], [solly-malatsi], [gcis], [sars], [home-affairs-south-africa], [border-management-authority], [government-printing-works], [electoral-commission-of-south-africa], [dbsa], [city-of-cape-town], [city-of-johannesburg], [action-sa], [south-africa-eta]]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-20
-sources: [[2025-10-10-mzansixchange-launch], [2025-11-05-govt-data-exchange-estonia-xroad], [2026-02-13-sona-2026-digital-mega-platform], [2026-04-23-operation-vulindlela-digital-transformation], [2026-07-06-sita-r2bn-irregular-spending], [2026-07-07-malatsi-sita-30-days-recovery], [2025-03-27-cabinet-statement-26-march-2025], [2025-04-03-sars-collaboration-agreements-dha-bma-gpw], [2026-07-20-top-ict-tenders-iec-tech-upgrades]]
+last_reviewed: 2026-07-21
+sources: [[2025-10-10-mzansixchange-launch], [2025-11-05-govt-data-exchange-estonia-xroad], [2026-02-13-sona-2026-digital-mega-platform], [2026-04-23-operation-vulindlela-digital-transformation], [2026-07-06-sita-r2bn-irregular-spending], [2026-07-07-malatsi-sita-30-days-recovery], [2025-03-27-cabinet-statement-26-march-2025], [2025-04-03-sars-collaboration-agreements-dha-bma-gpw], [2026-07-20-top-ict-tenders-iec-tech-upgrades], [2026-07-21-coj-squabbles-with-action-sa-over-call-centre-outage], [2026-07-21-home-affairs-expands-digital-visa-scheme-for-employers]]
 ---
 
 # South Africa × E-Government & Interoperability
@@ -97,6 +97,33 @@ has to run it.
   Agriculture (district-office server infrastructure). *The recurring admission across these is
   **capacity**, not strategy — the same diagnosis Cabinet recorded in 2025 and the PSC found at SITA.*
   See [[digital.localgov]]. Source for this section: [[2026-07-20-top-ict-tenders-iec-tech-upgrades]].
+
+## Municipal delivery — the layer below the national design
+
+- **Johannesburg's citizen call centre fails without a contingency (2026-07-21).** The **City of
+  Johannesburg**'s call centre — the main route for residents to report outages, leaks, spillages,
+  potholes and signal failures — was down for several days with **no published restoration estimate**;
+  the City says services were never suspended (alternative channels stayed open), that it was back
+  from the Friday, and that the downtime was "temporary" after "technical glitches". **Outage start,
+  duration, root cause and affected volumes are unestablished.** The opposition critique — that the
+  missing ETA points to "inadequate disaster recovery planning, poor ICT governance, or both" — is
+  **election-season politics** (November 2026 local government elections) and its "hundreds of millions
+  of rand annually" ICT-spend figure is **unsourced and not independently held**. The durable point is
+  structural and belongs on this page's paradox: the failure is in the **execution layer**, days after
+  a **[[2026-07-20-joburg-cisco-jozi-my-jozi-smart-city-mou|sensor-and-analytics smart-city MoU]]** was
+  announced for the same metro — whose own 2025/26 draft IDP concedes "fragmented initiatives and
+  insufficient governance structures". Governance context: an **Auditor-General** regression finding on
+  the City's audit outcomes (June 2026) and a subsequent
+  **[[national-treasury-south-africa|National Treasury]]** suspension of part of its funding over
+  persistent **PFMA** breaches. Source:
+  [[2026-07-21-coj-squabbles-with-action-sa-over-call-centre-outage]].
+- **Trusted Employer Scheme Phase II — a new channel before consolidation (2026-07-21).**
+  **[[home-affairs-south-africa|DHA]]** gazetted TES Phase II with **its own dedicated online
+  application process**, to be "ultimately integrated" into the **[[south-africa-eta|ETA]]**. Worth
+  logging here because it repeats the pattern the ETA exists to end — a parallel channel now,
+  consolidation promised without a date. **No integration timetable, cost or Phase I evaluation is
+  held.** Detail on [[south-africa--dpi-id]]. Source:
+  [[2026-07-21-home-affairs-expands-digital-visa-scheme-for-employers]].
 
 ## Reads
 

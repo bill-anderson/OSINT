@@ -111,6 +111,16 @@ and **[[starlink]]** satellite entry ([[guinea-bissau--infra-connect]]).
   gaps. Sources: [[2022-09-18 Guinea-Bissau Digital Economy Diagnostic (World Bank)]],
   [[2024-05-01 Guinea-Bissau - Further Improvements in Tax Compliance (IMF technical assistance)]].
 
+## Financing
+
+*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-21**.*
+
+**Non-state** — US$29m committed across 2 deals (2025–2025). Top financiers: MIGA (Multilateral Investment Guarantee Agency) (US$25m), UNDP (UN Development Programme) (US$3m). Leading subjects: `infra.connect`, `capacity.training`.
+
+Instrument mix: Guarantee 1, Grant 1.
+
+**Domestic state** — *(pending that dataset)*.
+
 ## Active topics
 
 - [[dpi.id]] · [[dpi.registry]] — **[[sirec]]** civil-registration digitization; UNDP "Building National

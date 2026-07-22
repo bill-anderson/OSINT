@@ -14,6 +14,7 @@ sweep_batch: BFA-2026-07-17
 places: [BFA]
 topics: [dpi.govtech, infra.connect, digital.localgov, capacity.training, finance.new, digital.rural]
 entities: [[pactdigital], [world-bank]]
+body_completeness: full
 ---
 
 # Transformation digitale au Burkina Faso: PACTDIGITAL outille les parties prenantes de la région de Tannounyan

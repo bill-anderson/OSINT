@@ -3,6 +3,7 @@ type: source
 title: "UXP Directory - Benin national data-exchange dashboard"
 publisher: Government of Benin
 url: https://statistiques.xroad.bj/
+url_note: "live dashboard served at the domain root - the bare domain IS the document-specific URL (lint #14 carve-out, confirmed 2026-07-21)"
 date_precision: day
 date_source: proxy
 author: unknown

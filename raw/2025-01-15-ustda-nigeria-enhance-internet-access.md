@@ -71,3 +71,5 @@ See allData CentersTelecom Egypt cancels Helios data center stake saleTelecom Eg
 More PodcastsFintechUsers first, always: How PiggyVest earned trust in fintechUsers first, always: How PiggyVest earned trust in fintechAIBeyond the hype: AI's real impact on African enterprisesBeyond the hype: AI's real impact on African enterprises
 
 More VideosAIIDFC's Khetha Cele on cybersecurity in the AI eraIDFC's Khetha Cele on cybersecurity in the AI eraAIFNB's Meshack Ndwandwe on AI's impact on the workforceFNB's Meshack Ndwandwe on AI's impact on the workforce
+
+**`published` is the commitment year, not the announcement date.** Lint #14 (2026-07-21) matched this cohort to USTDA's own announcements and found the gap is systematic and often large — the 2024 Nigeria backbone study was announced 2025-01-13, the 2023 Mombasa–Malaba study 2024-04-24, the 2021 Western Cape study 2022-05-03. `published` is left as the commitment year, which is what a finance deal record anchors on; the announcement date is not the event date for the commitment.

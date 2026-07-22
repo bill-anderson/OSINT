@@ -4,12 +4,12 @@ title: Zimbabwe × Connectivity & Broadband
 place: ZWE
 topic: infra.connect
 places: [ZWE]
-topics: [infra.connect, include.access, include.divides, data.statistics, digital.rural, finance.new, gov.regional, gov.policy]
-entities: [[potraz], [econet-wireless-zimbabwe], [netone], [telecel-zimbabwe], [telone], [liquid-intelligent-technologies], [starlink], [paratus], [mutapa-investment-fund], [ministry-of-health-and-child-care-zimbabwe], [ministry-of-ict-postal-and-courier-services-zimbabwe]]
+topics: [infra.connect, include.access, include.divides, data.statistics, digital.rural, finance.new, gov.regional, gov.policy, infra.energy, tech.ai]
+entities: [[potraz], [econet-wireless-zimbabwe], [netone], [telecel-zimbabwe], [telone], [liquid-intelligent-technologies], [starlink], [paratus], [mutapa-investment-fund], [ministry-of-health-and-child-care-zimbabwe], [ministry-of-ict-postal-and-courier-services-zimbabwe], [econet-infraco]]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-20
-sources: [[2026-04-29-potraz-abridged-sector-performance-report-q4-2025], [2025-05-21-potraz-approves-telco-tariff-raise], [2026-04-30-econet-5g-exceeds-netone-telecel-combined], [2026-05-07-liquid-fibre-price-war-starlink], [2026-05-19-over-50pc-fixed-broadband-now-wireless], [2026-06-29-govt-debt-to-telone-doubles], [2026-07-03-powertel-paratus-digital-highway], [2026-07-15-internet-traffic-surges-57pc-q1-2026], [2026-07-15-netone-at-30-digital-future], [2025-06-26-starlink-hype-cities-silence-rural], [2025-07-24-govt-donates-250-starlink-kits-local-authorities], [2026-05-16-govt-defends-starlink-rollout], [2026-05-19-starlink-broke-potraz-bandwidth-framework], [2026-07-17-starlink-kits-gather-dust-rural-hospitals], [2026-03-13-mavetera-84-55-internet-penetration-ai-strategy]]
+last_reviewed: 2026-07-21
+sources: [[2026-04-29-potraz-abridged-sector-performance-report-q4-2025], [2025-05-21-potraz-approves-telco-tariff-raise], [2026-04-30-econet-5g-exceeds-netone-telecel-combined], [2026-05-07-liquid-fibre-price-war-starlink], [2026-05-19-over-50pc-fixed-broadband-now-wireless], [2026-06-29-govt-debt-to-telone-doubles], [2026-07-03-powertel-paratus-digital-highway], [2026-07-15-internet-traffic-surges-57pc-q1-2026], [2026-07-15-netone-at-30-digital-future], [2025-06-26-starlink-hype-cities-silence-rural], [2025-07-24-govt-donates-250-starlink-kits-local-authorities], [2026-05-16-govt-defends-starlink-rollout], [2026-05-19-starlink-broke-potraz-bandwidth-framework], [2026-07-17-starlink-kits-gather-dust-rural-hospitals], [2026-03-13-mavetera-84-55-internet-penetration-ai-strategy], [2026-07-21-infraco-expands-ai-powered-towers]]
 ---
 
 # Zimbabwe × Connectivity & Broadband
@@ -172,9 +172,30 @@ is three unresolved tensions: **the urban/rural inversion, the measurement gap, 
   concerns, and pressed for local solutions (Mavetera pointing to the National AI Strategy's "AI Grand
   Challenge"). Source: [[2026-05-16-govt-defends-starlink-rollout]].
 
+## Energy as the binding constraint on the tower layer
+
+- **AI against diesel, and generation brought in-house (quarter ended May 2026, reported 2026-07-21).**
+  **[[econet-infraco|InfraCo]]** is applying AI to **predictive generator maintenance, fuel optimisation
+  and base-station reliability**, with an **AI Fuel Manager** credited with cutting energy consumption
+  and improving uptime — **no figure of any kind is published for the saving**, so the benefit is
+  **unquantified**. An **AI-enabled Remote Monitoring System** and a **digital twin** are described as
+  *advancing*, i.e. not yet operational. **90 new base stations** were deployed in the quarter and
+  **17% of revenue** reinvested in capital projects (**revenue base undisclosed**). Under **PowerCo**,
+  construction has begun on **Phase 1 of a 100MW solar farm** for **Econet Tech City**, Harare — a
+  five-year property development slated to contain a **data centre** — with PowerCo also supplying
+  **other commercial users**; **Phase 1 capacity, cost, financing and completion date are all
+  unstated**. Undated in the source, Econet CEO **Douglas Mboweni** is reported to have "recently" said
+  the operator is **retiring 2G/3G and refarming that spectrum to 4G and 5G**. *The structural read:*
+  because outages force diesel at the tower, energy — not spectrum or backhaul — is the effective limit
+  on coverage economics here, and one listed group is answering it by owning towers, generation,
+  property and a data centre together. That is resilience and concentration in the same move; compare
+  the Starlink-sovereignty argument above, which contests foreign ownership of the access layer while
+  the domestic alternative consolidates. Source: [[2026-07-21-infraco-expands-ai-powered-towers]].
+
 ## Links
 
 Place: [[ZWE]] · Region: [[XSA]] · Concepts: [[infra.connect]] · [[include.divides]] · [[data.statistics]] ·
+[[infra.energy]] · [[tech.ai]] ·
 Entities: [[potraz]] · [[econet-wireless-zimbabwe]] · [[netone]] · [[telone]] · [[liquid-intelligent-technologies]] ·
 [[starlink]] · [[paratus]]
 - Mentioned, not hubbed: Soda Zhemu (Info Minister); Raphael Mushanawani (NetOne CEO); Lawrence Nkala (TelOne

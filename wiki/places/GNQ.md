@@ -85,6 +85,18 @@ pronounced **island (Bioko/Malabo) vs continental (Bata)** and gender divide.
   complementing Ceiba-1 and ACE. Source:
   [[2018-06-06 Equatorial Guinea and Cameroon are now more connected - AFR-IX telecom]]. See [[infra.connect]], [[CMR]].
 
+## Financing
+
+*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-21**.*
+
+**Non-state** — US$530m committed across 2 deals (2015–2019). Top financiers: Export-Import Bank of China (US$451m), China Development Bank (US$79m). Leading subjects: `infra.connect`, `tech.industry`.
+
+Instrument mix: Commercial loan 2.
+
+**Domestic state** — *(pending that dataset)*.
+
+Material deals: [[2015-01-01-eximbank-cn-gnq-001-china-eximbank-provides-402-million-buyers]].
+
 ## Active topics
 
 - [[dpi.id]] · [[dpi.registry]] — **[[cnedoge]]** DIP/passport issuance; no digital-ID ecosystem yet

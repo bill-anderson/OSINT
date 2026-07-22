@@ -61,6 +61,16 @@ operationalise continental data governance at national level.
   (ANPDP). [[2024-01-01 São Tomé and Príncipe - Digital Regulations in the Metaverse Era (Data)]] ·
   [[gov.protect]] · [[gov.legislate]] · [[dpi.exchange]]
 
+## Financing
+
+*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-21**.*
+
+**Non-state** — US$25m committed across 2 deals (2017–2022). Top financiers: World Bank Group (US$22m), African Development Bank (AfDB) (US$3m). Leading subjects: `dpi.pay`, `infra.connect`.
+
+Instrument mix: Grant 1, IDA grant + GIF 1.
+
+**Domestic state** — *(pending that dataset)*.
+
 ## Active topics
 
 - [[gov.protect]] · [[gov.legislate]] — data protection under Law 03/2016

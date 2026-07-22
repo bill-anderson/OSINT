@@ -6,7 +6,7 @@ parent: XSA
 place_kind: country
 topics: [dpi.govtech, dpi.id, dpi.registry, dpi.pay, gov.standards, tech.industry, infra.store, infra.energy, infra.connect, tech.ai, gov.policy, gov.protect, gov.legislate, infra.cybersec, dpi.exchange, data.open, data.statistics, geopol.usa, geopol.eu, geopol.china, gov.regional, finance.new, infra.capacity, capacity.training, capacity.literacy, capacity.research, include.access, include.divides, digital.rural, geopol.gulf, data.satellite]
 status: active
-last_reviewed: 2026-07-20
+last_reviewed: 2026-07-22
 ---
 
 # South Africa (ZAF)
@@ -31,6 +31,24 @@ paid. **The government's arithmetic corroborates the plaintiffs.** Full case:
 
 ### Identity and civil registration
 
+- **2026-07-21** — **Trusted Employer Scheme Phase II gazetted — employer-accredited immigration, on a
+  path into the ETA.** **[[home-affairs-south-africa|DHA]]** gazetted **Phase II** of the **Trusted
+  Employer Scheme (TES)**, widening eligibility to companies in **strategic infrastructure projects**,
+  businesses **establishing regional or global headquarters in South Africa**, and **qualifying
+  financial-sector entities**. TES uses a **risk-based approach**: accredited employers get simplified
+  visa applications for critical skills, subject to demonstrating **meaningful investment**, employing
+  **predominantly South African citizens or permanent residents**, **investing in skills development**
+  and operating in **priority sectors**; applications are assessed by an **interdepartmental
+  committee**. **Expressions of interest run 2026-07-20 → 2026-09-04.** The governance payload is the
+  platform trajectory: Phase II ships with **its own dedicated online application process** that will
+  "**ultimately be integrated**" into the **[[south-africa-eta|Electronic Travel Authorisation]]** —
+  i.e. another standalone channel now, consolidation later, which is the same parallel-channel pattern
+  the ETA was meant to end. **No integration date, cost, accreditation volume or Phase I outcome
+  figure is given** — so "building on the success of the first phase" is **an unevidenced claim as of
+  2026-07-21**, and the wiki holds no Phase I evaluation. Minister **Leon Schreiber** frames it under
+  the "**Home Affairs @home**" digital-first vision. See [[dpi.govtech]], [[dpi.id]], [[gov.policy]],
+  [[south-africa--dpi-id]]. Source:
+  [[2026-07-21-home-affairs-expands-digital-visa-scheme-for-employers]].
 - **2026-07-20** — **A Cape Town verification vendor declares itself infrastructure.**
   **[[iidentifii]]** (founded **2018**; **$15m raised in 2022**, ~**R272m at the time** on the
   company's own conversion, billed as Africa's largest identity-verification Series A) named
@@ -42,10 +60,18 @@ paid. **The government's arithmetic corroborates the plaintiffs.** Full case:
   always-on identity check in South Africa: the population register, the banking sector's shared
   rails, or commercial platforms. The company attributes the shift to AI-enabled fraud, citing a
   **740% year-on-year increase in iOS injection-attack tradecraft** — **a vendor claim with no
-  disclosed methodology or baseline**. A longer same-day **ITWeb South Africa** twin with client-base
-  and market-sizing detail is **not held** and has been filed as an acquisition; its third-party
-  index and market-research figures are deliberately **not compiled here**. See [[dpi.id]],
-  [[tech.industry]], [[infra.cybersec]]. Source: [[2026-07-20-iidentifii-marco-wagener-ceo]].
+  disclosed methodology or baseline**. **★ The fuller ITWeb South Africa twin is now held (acquired
+  2026-07-21)** and adds: the client base (**banks, PSPs, MNOs and public-sector institutions across
+  South Africa, Africa and the UK**) and a **transition date of 2026-01-01**, plus a stated direction of
+  travel into **reusable verifiable credentials and identity-linked secure payment credentials**.
+  **On the survey figure, a caution that matters:** iiDENTIFii's **Identity Index 2024** is a
+  **vendor-commissioned World Wide Worx survey of n=200 medium and large South African enterprises,
+  2024 — South Africa only**, so it is not a continental measure. The Index itself sits behind a
+  lead-capture gate and **is not held**; the company's own launch release, which is, gives AI-driven
+  fraud as a critical threat at **63.2% (smaller firms) / 60.9% (larger)** and **contains no 59.2%
+  figure** — that number appears only in later press write-ups attributed to the firm, so treat it as an
+  **uncorroborated vendor claim**, not a finding. See [[dpi.id]],
+  [[tech.industry]], [[infra.cybersec]]. Sources: [[2026-07-20-iidentifii-marco-wagener-ceo]], [[2026-07-20-iidentifii-wagener-ceo-itweb-coza]], [[2024-11-26-iidentifii-identity-index-2024-launch]].
 - **2026-07-20** *(industry statements 2026-07-17; ministerial meeting 2026-03)* — **The SIM card
   becomes an identity credential: the first RICA overhaul in ~two decades.** Mobile operators and the
   **[[department-of-justice-south-africa|Department of Justice and Constitutional Development]]** have
@@ -68,9 +94,16 @@ paid. **The government's arithmetic corroborates the plaintiffs.** Full case:
   DHA-backed, always-on identity check on every SIM is, **as of 2026-07-20, unestablished**. Home
   Affairs Minister **[[leon-schreiber]]** positions DHA verification as feeding South Africa's
   developing digital-identity framework — i.e. this is the digital-ID programme arriving through
-  telecoms rather than through the still-unlaunched credential above. See [[south-africa--dpi-id]],
-  [[gov.legislate]], [[gov.protect]], [[infra.cybersec]]. Source:
-  [[2026-07-20-south-africa-sim-registration-rica-digital-id]].
+  telecoms rather than through the still-unlaunched credential above. **★ Corroborated and updated
+  2026-07-21 (Biometric Update, secondary):** the interim **framework's implementation started
+  2026-07-01** — a concrete operative date the fuller TechCabal primary does not give — pending the
+  deeper RICA reforms; **eSIMs** are named as a past facilitation vector for the fraud; and operators
+  including **MTN** are reported already **deploying tighter biometric verification** for SIM users.
+  The same piece notes a **Kenyan High Court** ruling earlier in 2026 that a SIM card represents a
+  person's digital identity (comparative, not an SA development). See [[south-africa--dpi-id]],
+  [[gov.legislate]], [[gov.protect]], [[infra.cybersec]]. Sources:
+  [[2026-07-20-south-africa-sim-registration-rica-digital-id]],
+  [[2026-07-21-south-africa-sim-registration-identity-fraud]].
 
 - **The digital-ID launch ladder — carried dated, not adjudicated; the spread is the finding.**
   **2025** (DHA, Feb 2025 — **missed**) · **2026** (**[[cyril-ramaphosa]]**, SONA **2026-02-12**:
@@ -195,6 +228,28 @@ paid. **The government's arithmetic corroborates the plaintiffs.** Full case:
 
 ### Government systems, procurement and smart cities
 
+- **2026-07-21** — **Johannesburg's call centre falls over, days after the smart-city MoU.**
+  The **City of Johannesburg**'s customer call centre — the primary channel for residents to report
+  electricity outages, water leaks, sewer spillages, potholes and traffic-signal failures — went
+  **offline for several days**, with **no estimated time of restoration** published. The City says it
+  was back up **from Friday** after "technical glitches experienced last week", calls the downtime
+  "**temporary**", and states that **at no stage were customer services suspended** because alternative
+  channels remained available. ****ActionSA**** (opposition; the statement is electioneering
+  ahead of **November 2026 local government elections**, and should be read as such) argues the absence
+  of a restoration estimate points to "**inadequate disaster recovery planning, poor ICT governance, or
+  both**", against a City that "allocates hundreds of millions of rand annually" to ICT and customer
+  management systems — **no figure is sourced, and the wiki holds no CoJ ICT budget line**, so the
+  spend claim is **unestablished**. *The reason this is worth a line rather than a shrug:* it lands
+  days after the **[[2026-07-20-joburg-cisco-jozi-my-jozi-smart-city-mou|Jozi My Jozi × Cisco
+  smart-city MoU]]** — sensors, cameras and analytics announced for a municipality whose existing
+  citizen-facing system failed without a contingency, and whose own 2025/26 draft IDP already blamed
+  "fragmented initiatives and insufficient governance structures". **Outage start date, duration, root
+  cause and affected volumes are all unestablished as of 2026-07-21.** Wider context: the
+  **Auditor-General** flagged a **regression in the City's audit outcomes** in June 2026 and warned of
+  weak financial controls, after which **[[national-treasury-south-africa|National Treasury]]**
+  **suspended part of Johannesburg's funding** over persistent **PFMA** breaches. See
+  [[digital.localgov]], [[dpi.govtech]], [[south-africa--dpi-govtech]]. Source:
+  [[2026-07-21-coj-squabbles-with-action-sa-over-call-centre-outage]].
 - **2026-07-20** *(reported; the Paris policy discussion and the policy's own adoption date are **not
   established** in the held source)* — **South Africa has adopted a National Open Science Policy.**
   Per the **[[dsti-south-africa|Department of Science, Technology and Innovation]]**, reported by ITWeb,
@@ -377,6 +432,31 @@ paid. **The government's arithmetic corroborates the plaintiffs.** Full case:
 
 ### Inclusion, connectivity and the digital economy
 
+- **2026-07-22** *(brève; round stage/date of close not disclosed)* — **Zazu raises from Launch Africa
+  Ventures.** SME financial-management fintech **[[zazu]]** (founded 2024; a single platform bundling
+  bank accounts, invoicing and accounting for African SMEs) secured funding from
+  **[[launch-africa-ventures]]** to refine its product and accelerate continental expansion. **Amount
+  undisclosed** in the held brève. See [[dpi.pay]], [[finance.new]], [[south-africa--dpi-pay]]. Source:
+  [[2026-07-22-afrique-du-sud-zazu-financement-launch-africa]].
+- **2026-07-21** — **eZi Remit adopts Mastercard Move for outbound remittances across 25 corridors.**
+  SA remittance fintech **[[ezi-remit]]** announced a collaboration with **[[mastercard]]** (Mastercard
+  Move) to send money from South Africa to **25 destination markets** — incl. Zimbabwe, Kenya, Ghana,
+  Mozambique, Malawi, Zambia, DRC, India, Bangladesh, Saudi Arabia, UAE, Turkey — paying out via bank
+  accounts, mobile wallets and cash-collection points, pitched at diaspora and underbanked users.
+  *Mastercard-led announcement — vendor-framed but a real corridor expansion.* Reference figures cited,
+  not promoted into page state: **SSA remittance fees average ~8.37%, bank transfers ~13.4% (World Bank,
+  cited 2026)** — the most expensive region globally. See [[dpi.pay]], [[finance.mou]],
+  [[south-africa--dpi-pay]]. Source:
+  [[2026-07-21-ezi-remit-mastercard-cross-border-payments-africa]].
+- **2026-07-21** *(analysis)* — **Stablecoins pitched as the AfCFTA settlement layer.** A TechCabal
+  analysis (Phathisani Moyo), sourced to **Ifelade Ayodele** (CEO, Blaaiz) and **Dr Wiehann Olivier**
+  (Forvis Mazars), argues intra-African payments still detour through correspondent banks and the US
+  dollar, and that fintechs — **[[onafriq]]**, **[[yellow-card]]**, Nigeria's **[[flutterwave]]** —
+  increasingly settle cross-border transactions in dollar-backed stablecoins behind the scenes; only
+  **~15–18% of South Africa's trade is intra-African (2026)**. The sharper claim: the binding barrier is
+  **exchange-control legislation, not crypto regulation**. Continental treatment: [[XAF]]. Cite as the
+  named analysts', not as an index. See [[dpi.pay]], [[gov.regional]], [[afcfta]]. Source:
+  [[2026-07-21-stablecoins-afcfta-cross-border-trade]].
 - **2026-07-17** *(comparative, via Kenya reporting)* — **South Africa's investor residence route as a
   regional benchmark.** South Africa introduced a **permanent-residence route for investors under the
   Immigration Act in 2002**, open to foreigners investing at least **R12 million (~$729,000)** — a
@@ -481,7 +561,10 @@ linked source pages, the entity pages and the six [[south-africa--dpi-id|interse
   (25.2% procurement attrition; contracts stuck >400 days); the **Sentech–BBI** state-broadband
   merger slipping to **2028/29** with BBI technically insolvent; the DHA's **APP** hosting deadline
   of **31 Mar 2027**; the draft **Identification Regulations** and Mark Burke's ultra-vires critique
-  ([[sa-digital-id-regulations]]).
+  ([[sa-digital-id-regulations]]). *The **PSC investigation report** on SITA (released 2026-07-06) is
+  itself not held — an acquisition attempt on **2026-07-22** could not retrieve it (psc.gov.za serves a
+  JavaScript publications gallery exposing no report PDF); the SITA figures above are as reported in
+  press/government statements, not compiled from the primary.*
 - **Cloud, AI and the hyperscalers** — **[[microsoft]]**'s **R5.4bn** SA commitment (announced
   **2025-03-06** at Bryanston by **Brad Smith** with **[[cyril-ramaphosa]]**, to be spent **by
   end-2027**, atop **R20.4bn** over the prior three years; allocation detailed 2026-04;
@@ -504,6 +587,18 @@ linked source pages, the entity pages and the six [[south-africa--dpi-id|interse
   [[fccpc]] probe over **[[google]]**'s ~**R688m/yr** SA news-publisher deal; Telkom's **$6.1m** AI
   Institute via [[partner2connect]]; **[[microsoft]]**'s 64 Power-Platform graduates across 11
   departments. Full case: [[south-africa--infra-connect]].
+
+## Financing
+
+*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-21**.*
+
+**Non-state** — US$7.28bn committed across 54 deals (2015–2029). Top financiers: Amazon / AWS (US$2.65bn), Microsoft (US$1.72bn), Actis (US$522m). Leading subjects: `infra.store`, `infra.connect`, `dpi.pay`.
+
+Instrument mix: Equity 36, Commercial loan 9, TA 5.
+
+**Domestic state** — *(pending that dataset)*.
+
+Material deals: [[2022-01-01-vodacom-zaf-spectrum-5g-2022-vodacom-south-africa-5g4g-spectrum-acquisition]], [[2024-01-01-actis-zaf-swiftnet-2024-actis-led-consortium-acquisition-of-swiftnet-telecom]], [[2022-01-01-mtn-zaf-spectrum-5g-2022-mtn-south-africa-5g4g-spectrum-acquisition]], [[2026-01-01-microsoft-zaf-azure-expansion-2026-microsoft-south-africa-329m-data-centre]], [[2025-01-01-microsoft-zaf-azure-expansion-2025-microsoft-azure-south-africa-zar-54b]], [[2024-01-01-aws-zaf-cloud-2024-aws-africa-south-africa-cloud-and]].
 
 ## Active topics
 

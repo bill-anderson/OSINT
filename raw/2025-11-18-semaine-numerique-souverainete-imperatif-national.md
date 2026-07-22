@@ -14,6 +14,7 @@ places: [BFA]
 topics: [gov.policy, tech.ai, infra.store, capacity.training]
 entities: [[ibrahim-traore], [aminata-zerbo-sabane]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # 20e édition semaine du numérique: La souveraineté numérique, un impératif national

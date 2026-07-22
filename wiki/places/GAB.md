@@ -88,6 +88,16 @@ substantially on foreign finance and vendors, and dogged by slow disbursement an
 - **2024-01-02** — Signs the **$68.5m World Bank [[digital-gabon-project]]** (P175987). Source:
   [[2024-01-02-world-bank-digital-gabon-68m-loan]].
 
+## Financing
+
+*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-21**.*
+
+**Non-state** — US$226m committed across 6 deals (2016–2024). Top financiers: World Bank Group (US$198m), MIGA (Multilateral Investment Guarantee Agency) (US$28m), US Department of State (US$1m). Leading subjects: `infra.connect`, `dpi.govtech`, `gov.policy`.
+
+Instrument mix: IBRD loan — not concessional 4, Guarantee 1, Grant 1.
+
+**Domestic state** — *(pending that dataset)*.
+
 ## Active topics
 
 ### Digital identity — [[dpi.id]]

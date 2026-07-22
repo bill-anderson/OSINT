@@ -13,6 +13,7 @@ places: [DZA, XAF]
 topics: [dpi.id, dpi.pay, dpi.exchange, gov.policy, gov.regional, gov.standards]
 entities: [[50-in-5], [high-commission-digitalisation-algeria], [algerie-poste]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Algeria emboldens DPI push with 50-in-5 campaign membership

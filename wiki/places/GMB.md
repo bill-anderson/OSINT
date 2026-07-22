@@ -6,7 +6,7 @@ parent: XWA
 place_kind: country
 topics: [dpi.id, dpi.pay, dpi.registry, dpi.mis, dpi.govtech, gov.protect, gov.policy, gov.legislate, include.access, digital.localgov, data.statistics, data.satellite, finance.new, tech.industry, gov.regional, infra.connect, data.open, capacity.training]
 status: active
-last_reviewed: 2026-07-18
+last_reviewed: 2026-07-21
 ---
 
 # The Gambia (GMB)
@@ -24,6 +24,25 @@ Digital Economy Master Plan 2024-2034.
 
 ## Recent developments
 
+- **2026-07-17** *(the source says the MoU was signed "on Friday" and was published Monday 2026-07-20;
+  **the date is derived, not stated** — treat as 2026-07-17 ±)* — **A home-grown payment platform is
+  wired into government revenue collection.** The **Office of the Accountant General** signed an MoU at
+  its Banjul conference hall integrating **SUTURA** — a Gambian digital payment platform built by
+  **Nifty ICT Solutions** with **GAMPOST** — into the **government's digital payment ecosystem**, so
+  citizens can pay **taxes, fees and public-service charges** through additional electronic channels.
+  Framed by Deputy Accountant General (Accounting and Reporting) **Clara Saine Mendy** as part of the
+  **Public Financial Management reform agenda** and a **cashless-economy / domestic-revenue-mobilisation**
+  drive; she says **several commercial banks and other payment channels are already integrated**.
+  GAMPOST (Head of Finance **Samba Ceesay**) supplies the doorstep/postal distribution layer; Nifty MD
+  **Jalamang Jobarteh** the technology. *Worth holding for one structural reason:* the revenue-collection
+  rail here is **domestically built and postal-distributed**, which is a different model from the
+  vendor-supplied G2P stacks that dominate the region — and it sits directly alongside the
+  **[[nims-gambia|NIMS]]** ID launch below, the two together being the state's payment and identity
+  spines arriving within weeks of each other. **Nothing is quantified**: no transaction volume, revenue
+  figure, fee structure, user count, go-live date, integration timetable or list of the already-connected
+  banks is given, and **no MoU text is held** — so this is an **announced intent, not a measured
+  capability**, as of 2026-07-21. See [[dpi.pay]], [[dpi.govtech]], [[gambia--dpi-pay]]. Source:
+  [[2026-07-20-gambia-accountant-general-sutura-digital-revenue-collection]].
 - **2026-07** — **Sovereign digital ID goes live.** President Barrow launched the **[[nims-gambia|NIMS]]**
   National Identity Management System and the **National Data Centre (Abuko)** — instant **GAM ID** built by
   **[[margins-id-group]]** on a BOT model; nationwide enrolment from 4 Aug. See [[gambia--dpi-id]]. Source:
@@ -107,6 +126,16 @@ Digital Economy Master Plan 2024-2034.
 - *(regional)* The Gambia is in the **[[wardip]]** cohort (WB/ECOWAS/Smart Africa); state operators
   Gamtel/Gamcel remain a "stranded" incumbent seeking rescue (Bankai judgment, 80% Y-Cell sale, Sysroad
   PPP). See [[XWA]], [[tech.industry]].
+
+## Financing
+
+*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-21**.*
+
+**Non-state** — US$13m committed across 4 deals (2016–2025). Top financiers: World Bank Group (US$5m), African Development Bank (AfDB) (US$4m), Bill & Melinda Gates Foundation (US$3m). Leading subjects: `dpi.govtech`, `dpi.pay`, `gov.policy`.
+
+Instrument mix: Grant 3, Concessional loan 1. **1 record here still carries the capture's unverified `Concessional loan` label**, so the mix is indicative rather than established: the World Bank portal does not separate an IDA credit from an IDA grant.
+
+**Domestic state** — *(pending that dataset)*.
 
 ## Active topics
 

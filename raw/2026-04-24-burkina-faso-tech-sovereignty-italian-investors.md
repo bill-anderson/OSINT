@@ -14,6 +14,7 @@ places: [BFA]
 topics: [geopol.eu, finance.new, infra.energy, digital.rural]
 entities: [[ministry-of-digital-transition-burkina-faso], [borlli-michel-some], [cyrille-ganou-badolo]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Burkina Faso Prioritizes Tech Sovereignty in Talks with Italian Investors

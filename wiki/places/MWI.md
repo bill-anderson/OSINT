@@ -6,12 +6,23 @@ parent: XSA
 place_kind: country
 topics: [dpi.govtech, dpi.exchange, dpi.id, infra.store, gov.protect, finance.new, dpi.mis, data.statistics, gov.policy, capacity.training, gov.standards, capacity.research, tech.ai, include.access, digital.localgov, dpi.pay, infra.cybersec, gov.legislate, geopol.china, infra.connect, include.divides, tech.industry, gov.regional, digital.rural, tech.innovate, finance.mou, data.open]
 status: active
-last_reviewed: 2026-07-20
+last_reviewed: 2026-07-21
 ---
 
 # Malawi (MWI)
 
 ## Recent developments
+
+- **2026-07-21** — **The regulator orders Airtel and TNM to refund customers.** [[gov.legislate]]
+  **[[macra-malawi|MACRA]]** ordered **[[airtel-malawi|Airtel Malawi]]** and **TNM** to refund
+  subscribers — a live enforcement action against both operators in a **duopoly the wiki already tracks
+  as the central problem** in Malawi's market (see the licensing record below: two further licensees,
+  neither launched). *Enforcement against incumbents is the test of whether the regulator has teeth the
+  licensing remedy has not given it.* **What is not established (2026-07-21):** the amount, the number
+  of subscribers affected, the conduct being remedied, the deadline and the enforcement mechanism —
+  the held account is a headline-level report and **no MACRA directive is held**. See
+  [[infra.connect]], [[malawi--infra-connect]]. Source:
+  [[2026-07-21-airtel-tnm-ordered-refund-malawi-customers]].
 
 - **2026-07-17** — **Government floats licensing more mobile operators — while three existing licences
   have never produced a network.** ICT minister **Shadric Namalomba**
@@ -22,9 +33,16 @@ last_reviewed: 2026-07-20
   reduction in spectrum licence fees** — *the regulator's own figure is **20%**, announced by
   **[[macra-malawi|MACRA]]** on **2025-06-23**; five contemporaneous accounts of that announcement say
   20%, no source records a further cut, and the minister's 50% is carried as a **misstatement of the
-  same measure**, not a second reduction (resolved 2026-07-20)* — and the **$150 million Digital Malawi
-  Acceleration Project** (**[[dmap]]**; *first USD figure the wiki holds for DMAP, as stated by the
-  minister 2026-07-17*), which is to expand tower infrastructure in underserved areas. **The licensing
+  same measure**, not a second reduction (resolved 2026-07-20)* — and the **"$150 million" Digital Malawi
+  Acceleration Project** (**[[dmap]]**), *"which is to expand tower infrastructure in underserved
+  areas"*. **★ Both halves of that corrected 2026-07-21, against the World Bank appraisal document now
+  held.** The **US$150m is the IDEA multi-phase programme's appraisal envelope**, not Malawi's project:
+  DMAP's **Total Operation Cost at approval (2024-06-27) was US$90.00m** — a **US$70m IDA grant plus
+  US$20m commercial**, all IDA grant on the Bank side, no IBRD. And **the project carries no
+  tower-infrastructure line**; the nearest component is **Sub-component 1.1, Rural Connectivity
+  (US$20m)**, matching finance toward private mobile-broadband rollout and 2G→4G/5G cell-site upgrades.
+  So the minister's framing overstates the project by two-thirds and mis-describes what it buys. Source:
+  [[2024-05-05-dmap-world-bank-appraisal-pid]]. **The licensing
   record is the finding**: **Access Communications** has held a licence since **2007** (trading as
   **Zero2**, small subscriber share, mainly in major cities); **Nyasa Mobile** was licensed in **2022**
   and **Malcel** licensed as the intended third major operator targeted a **late-2023** commercial
@@ -298,6 +316,18 @@ last_reviewed: 2026-07-20
   which all actors, including donors, must align. Source:
   [[2021-08-04 Health information systems in developing countries case of African countries]].
   See [[dpi.mis]], [[data.statistics]], [[gov.standards]], [[capacity.research]].
+
+## Financing
+
+*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-21**.*
+
+**Non-state** — US$376m committed across 14 deals (2015–2024). Top financiers: Export-Import Bank of China (US$140m), World Bank Group (US$72m), China Construction Bank (CCB) (US$64m). Leading subjects: `infra.connect`, `dpi.pay`, `data.statistics`.
+
+Instrument mix: Grant 7, Concessional loan 3, TA 2. **1 record here still carries the capture's unverified `Concessional loan` label**, so the mix is indicative rather than established: the World Bank portal does not separate an IDA credit from an IDA grant.
+
+**Domestic state** — *(pending that dataset)*.
+
+Material deals: [[2020-01-01-eximbank-cn-mwi-002-china-eximbank-provides-rmb-693-million]].
 
 ## Active topics
 

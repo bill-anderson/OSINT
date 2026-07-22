@@ -6,7 +6,7 @@ parent: XWA
 place_kind: country
 topics: [dpi.govtech, dpi.id, dpi.exchange, gov.protect, infra.store, infra.cybersec, gov.policy, dpi.mis, include.divides, infra.connect, tech.ai, tech.innovate, tech.industry, capacity.training, capacity.literacy, capacity.research, data.statistics, data.open, gov.legislate, gov.regional, gov.standards, finance.new, geopol.eu, geopol.usa, include.access]
 status: active
-last_reviewed: 2026-07-20
+last_reviewed: 2026-07-21
 ---
 
 # Cabo Verde (CPV)
@@ -62,6 +62,16 @@ digital and "tech islands" hub** (**[[techpark-cv|TechPark CV]]**), backed by th
   African average). See [[dpi.govtech]].
 - **Data-protection maturity.** One of the region's older regimes — **[[data-protection-law-cabo-verde|Law 133/V/2001]]**,
   GDPR-mirroring, with the independent **[[cnpd-cabo-verde|CNPD]]**. See [[gov.protect]].
+
+## Financing
+
+*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-21**.*
+
+**Non-state** — US$255m committed across 13 deals (2017–2025). Top financiers: African Development Bank (AfDB) (US$133m), EIB Global (European Investment Bank) (US$65m), China Ministry of Commerce (US$23m). Leading subjects: `dpi.govtech`, `infra.connect`, `tech.industry`.
+
+Instrument mix: Commercial loan 4, TA 4, Grant 3. **1 record here still carries the capture's unverified `Concessional loan` label**, so the mix is indicative rather than established: the World Bank portal does not separate an IDA credit from an IDA grant.
+
+**Domestic state** — *(pending that dataset)*.
 
 ## Active topics
 

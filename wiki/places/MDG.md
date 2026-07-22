@@ -97,6 +97,18 @@ offline, with a large rural divide.
   [[2020-09-04 Madagascar Digital Governance and Identification Management System Project - PAD (PRODIGY, World Bank)]],
   [[2021-01-01 Madagascar Financial Inclusion Project - Restructuring Paper (P161491, World Bank)]].
 
+## Financing
+
+*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-21**.*
+
+**Non-state** — US$728m committed across 9 deals (2017–2023). Top financiers: World Bank Group (US$600m), Export-Import Bank of China (US$104m), Norfund (Norwegian Investment Fund for Developing Countries) (US$17m). Leading subjects: `infra.connect`, `dpi.id`, `dpi.pay`.
+
+Instrument mix: Concessional loan 5, Equity 1, Buyer's credit 1. **4 records here still carry the capture's unverified `Concessional loan` label**, so the mix is indicative rather than established: the World Bank portal does not separate an IDA credit from an IDA grant.
+
+**Domestic state** — *(pending that dataset)*.
+
+Material deals: [[2023-03-30-wb-mdg-001-digital-and-energy-connectivity-for-inclusion]], [[2020-09-29-wb-mdg-002-digital-governance-and-identification-management-system]].
+
 ## Active topics
 
 - [[dpi.id]] · [[dpi.registry]] — **[[prodigy-madagascar|PRODIGY]]** biometric national ID (NUI) via

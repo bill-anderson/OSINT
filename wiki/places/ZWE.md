@@ -6,7 +6,7 @@ parent: XSA
 place_kind: country
 topics: [dpi.id, dpi.registry, dpi.govtech, dpi.exchange, dpi.pay, dpi.mis, gov.protect, gov.legislate, gov.policy, gov.standards, gov.regional, infra.connect, infra.capacity, infra.store, infra.energy, infra.cybersec, tech.ai, tech.industry, tech.innovate, include.access, include.divides, capacity.training, digital.rural, data.statistics, geopol.usa, geopol.china, finance.new]
 status: active
-last_reviewed: 2026-07-20
+last_reviewed: 2026-07-21
 ---
 
 # Zimbabwe (ZWE)
@@ -24,6 +24,30 @@ doubles as the data protection authority** — there is no separate DPA.
 
 ## Recent developments
 
+- **2026-07-21** *(trading update for the **quarter ended May 2026**; the report is dated 2026-07-21 —
+  the operating facts are Mar–May 2026, not July)* — **InfraCo runs AI against the grid, not against the
+  network.** **[[econet-infraco|InfraCo]]** (VFEX-listed; company secretary **Tatenda Alice Ngowe**)
+  reported deploying AI for **predictive generator maintenance, fuel-utilisation optimisation and base-
+  station reliability**. Its **AI Fuel Manager** is credited with **reducing energy consumption while
+  improving availability and uptime** — **no percentage, litre, cost or uptime figure is given**, so the
+  claimed gain is **unquantified as of 2026-07-21**. An **AI-enabled Remote Monitoring System** and a
+  **digital twin** for remote base-station monitoring and maintenance are described as *advancing*, i.e.
+  **not in production**. Operational figures for the quarter: **90 new base stations deployed**, and
+  **17% of revenue reinvested** into capital projects (**no revenue base disclosed**, so the ratio is not
+  convertible to a value). Forward priorities: tower-portfolio expansion and the **PowerCo** solar
+  programme — **construction has started on Phase 1 of a 100MW solar farm** supplying **Econet Tech
+  City** in Harare (a **five-year** development inside InfraCo's property segment, to include a **data
+  centre** and the plant itself); PowerCo also sells to **other commercial users**. **No Phase 1 capacity,
+  cost, financing or completion date is stated.** Separately and **undated in the source**, Econet CEO
+  **Douglas Mboweni** is reported as having "recently" said the operator is **retiring 2G and 3G sites and
+  reallocating that spectrum to 4G and 5G** — treat the refarming as reported, not dated. *Why this is a
+  data-governance item and not a utilities one:* Zimbabwe's power outages force diesel generation at the
+  tower layer, so **energy is the binding constraint on connectivity**, and the operator's answer is to
+  put an AI optimisation layer plus its own generation between the grid and the network — vertical
+  integration of power, towers, property and a data centre inside one listed group. See
+  [[infra.connect]], [[infra.energy]], [[tech.ai]], [[zimbabwe--infra-connect]]. **Kept both accounts** — a second same-day report frames the same trading update through the **VFEX listing**, tying the AI programme to the post-carve-out entity rather than to the operator. Sources:
+  [[2026-07-21-infraco-expands-ai-powered-towers]],
+  [[2026-07-21-econet-infraco-ai-telecom-infrastructure-vfex]].
 - **2026-07-17** — **The digital agenda repackaged as MSME policy — with a penetration claim that does
   not reconcile.** ICT Minister **Tatenda Annastacia Mavetera**
   ([[ministry-of-ict-postal-and-courier-services-zimbabwe]]) told the **inaugural National SMEs and
@@ -289,6 +313,18 @@ doubles as the data protection authority** — there is no separate DPA.
 - Zimbabwe's **National AI Strategy** is referenced in the Data Landscapers
   54-country review. Source: [[2026-03-31 Africa we have a data problem]].
   See [[tech.ai]].
+
+## Financing
+
+*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-21**.*
+
+**Non-state** — US$703m committed across 7 deals (2015–2023). Top financiers: China Development Bank (US$337m), Export-Import Bank of China (US$190m), ZTE (US$150m). Leading subjects: `infra.connect`, `infra.store`, `capacity.training`.
+
+Instrument mix: Concessional loan 2, Buyer's credit 2, Grant 2.
+
+**Domestic state** — *(pending that dataset)*.
+
+Material deals: [[2015-01-01-cdb-zwe-001-china-development-bank-and-zte-corporation]], [[2015-01-01-zte-zwe-econet-2015-zte-corporation-vendor-credit-share-of-usd]], [[2015-01-01-eximbank-cn-zwe-001-china-eximbank-provides-986-million-preferential]].
 
 ## Active topics
 

@@ -15,6 +15,7 @@ entities: [[starlink], [spacex], [cybastion], [cisco], [us-exim-bank], [abd-grou
 lens: [sovereignty]
 provenance_flag: pr-wire
 primary_to_source: U.S. Department of State / U.S. Embassy Abidjan press announcement by Assistant Secretary Frank R. Garcia, 16 July 2026 (Starlink authorisation, Cybastion $170m EXIM project, ABD Group $293m healthcare deal, NTELX port contract)
+body_completeness: excerpt
 ---
 
 # US Expands Côte d'Ivoire Tech Footprint with Starlink Approval and $170m Data Centre Project

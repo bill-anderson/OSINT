@@ -13,6 +13,7 @@ places: [CPV]
 topics: [capacity.training, tech.industry, include.divides]
 entities: [[skodji-digital]]
 lens: []
+body_completeness: full
 ---
 
 # Cabo Verde Bets on Digital Skills to Tackle Youth Unemployment

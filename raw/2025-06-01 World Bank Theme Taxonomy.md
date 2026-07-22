@@ -11,6 +11,7 @@ places: [XGL]
 topics: [gov.standards, gov.policy, finance.new]
 entities: [[world-bank], [world-bank-theme-taxonomy]]
 lens: []
+body_completeness: full
 ---
 <!-- This raw capture is the full text of a reference INSTRUMENT (a published
 classification framework), not a dated source of an event. Per CLAUDE.md it is captured

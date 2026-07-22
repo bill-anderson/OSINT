@@ -1,6 +1,8 @@
 ---
 type: source
 title: E-Government Systems Interoperability Challenges — Public Sector in Rwanda (MSc thesis)
+url: https://dr.ur.ac.rw/handle/123456789/1229
+url_note: "recovered 2026-07-21 (lint #14): University of Rwanda institutional repository item; its bitstream filename \"SYLVERE MUGUMYA Final Thesis book.pdf\" matches the held artefact exactly, and author, title and institution all match. Byte-comparison not possible - the repository host timed out repeatedly."
 author: Sylvere Mugumya
 publisher: University of Rwanda (College of Science and Technology, School of ICT)
 published: 2019-10-01
@@ -13,7 +15,6 @@ entities: [[nida-rwanda], [rwanda-information-society-authority], [rura-rwanda],
 lens: []
 body_completeness: full
 ---
-<!-- url unrecovered as of 2026-07-20 -->
 
 # E-Government Systems Interoperability Challenges: Public Sector in Rwanda (Mugumya, MSc thesis, 2019)
 

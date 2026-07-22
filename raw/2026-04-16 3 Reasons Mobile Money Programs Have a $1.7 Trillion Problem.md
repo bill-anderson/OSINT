@@ -13,6 +13,7 @@ places: [KEN, UGA, GHA, NGA, TZA, XSS]
 topics: [dpi.pay, tech.ai, gov.protect, include.divides, include.access, finance.new, gov.policy]
 entities: [[safaricom], [mtn-group], [airtel-africa], [gsma], [huawei]]
 lens: [colonialism]
+body_completeness: excerpt
 ---
 
 <!-- ICT4D evidence-audit citing GSMA/INTERPOL/Smile ID/CGAP primaries. Admissible as analysis; the embedded primary reports are leads. 2024: 2.1bn accounts, 108bn txns, $1.68tn. -->

@@ -14,6 +14,7 @@ places: [CMR]
 topics: [dpi.govtech]
 entities: [[dgi-cameroon], [minfi-cameroon], [sigit]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Digitalisation fiscale au Cameroun : La Direction Générale des Impôts opère sa mue

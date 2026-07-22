@@ -2,6 +2,7 @@
 type: source
 title: The Home of Business and IP Registrations, Administration and Regulation in Namibia
 url: https://www.bipa.na/
+url_note: "homepage capture of a standing-object reference — the bare domain IS the document-specific URL (lint #14 carve-out, confirmed 2026-07-21)"
 publisher: Business and Intellectual Property Authority (BIPA)
 published: 2026-07-16
 date_precision: day

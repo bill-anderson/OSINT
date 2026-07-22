@@ -268,6 +268,18 @@ last_reviewed: 2026-07-11
   [[2024-10-28 Benin receives 2,050 biometric terminals from World Bank to boost civil registration]].
   See [[dpi.id]], [[dpi.registry]], [[include.access]].
 
+## Financing
+
+*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-21**.*
+
+**Non-state** — US$327m committed across 10 deals (2015–2023). Top financiers: Export-Import Bank of China (US$165m), World Bank Group (US$110m), Millennium Challenge Corporation (MCC) (US$31m). Leading subjects: `tech.industry`, `infra.connect`, `dpi.mis`.
+
+Instrument mix: Concessional loan 5, Grant 5. **2 records here still carry the capture's unverified `Concessional loan` label**, so the mix is indicative rather than established: the World Bank portal does not separate an IDA credit from an IDA grant.
+
+**Domestic state** — *(pending that dataset)*.
+
+Material deals: [[2019-07-01-wb-ben-001-digital-rural-transformation-project]].
+
 ## Active topics
 
 - [[dpi.id]] · [[dpi.registry]] · [[include.access]] — ANIP national register (~98–99%, 10m+

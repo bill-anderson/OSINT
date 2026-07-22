@@ -2,6 +2,7 @@
 type: source
 title: Republic of Niger - National Electronic Identity (E-ID)
 url: https://nigeridentite.com/
+url_note: "portal homepage snapshot, no dated event - the bare domain IS the document-specific URL (lint #14 carve-out, confirmed 2026-07-21)"
 publisher: nigeridentite.com
 published: 2026-01-01
 date_precision: year

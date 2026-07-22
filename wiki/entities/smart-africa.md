@@ -6,8 +6,8 @@ places: [XAF, RWA, GHA, DJI, GIN, MAR, MLI]
 topics: [infra.connect, gov.regional, gov.standards, capacity.training, tech.ai, dpi.exchange, infra.cybersec, gov.policy, gov.protect]
 lens: [sovereignty, colonialism]
 status: active
-last_reviewed: 2026-07-18
-sources: [[2026-03-10-techafricanews-mali-smart-africa-mwc2026], [2026-07-09 Smart Africa and AFNIC Partner to Strengthen Africa's Internet Infrastructure], [2026-05-28 Building the same road twice], [2026-05-28 Estonia backs Africa digital infrastructure], [2026-04-27 Smart Africa drives cross-border data interoperability through SADX Technical Mission], [2026-04-16 Smart Africa, RealTyme join forces for data sovereignty], [2026-04-03 Ghana approves $250M AI Hub & National AI Strategy], [2026-05-21 Pushing back from Big Tech Africa's hard road to AI sovereignty], [2026-03-16 New $137M initiative to enable digital service access for millions in three ECOWAS nations], [2025-06-18 Benin envisages mobile wallet launch in inclusive national digital ID push], [2025-01-29 Deadline extended for Benin digital government transformation tender], [2025-11-04 The Double Standard Why Are Internet Governance Rules Different for Africa], [2026-07-13 Djibouti Seeks ITU, Smart Africa Support for Telecoms and AI Development], [2024-07-02 Ghana develops its National Data Strategy with Smart Africa and Team Europe], [2025-11-13 Transform Africa Summit 2025 opens in Conakry, epicentre of digital cooperation in Africa], [2025-11-19 Transform Africa Summit 2025 (Conakry) - Simandou 2040 Pillar 3, TELEMO, SANIA-SADX and the closing wrap], [2025-09-09 Get to know The Republic of Guinea Home of Transform Africa Summit 2025], [2025-07-14 Smart Africa co-creates Africa's first Cross-Border Data Exchange Guidelines (Rabat, ADD-chaired CAITA)], [2023-11-07-worldbank-dtfa-wardip-sop1-pad4756], [2026-07-16-lesotho-national-data-value-creation-blueprint-workshop]]
+last_reviewed: 2026-07-22
+sources: [[2026-03-10-techafricanews-mali-smart-africa-mwc2026], [2026-07-09 Smart Africa and AFNIC Partner to Strengthen Africa's Internet Infrastructure], [2026-05-28 Building the same road twice], [2026-05-28 Estonia backs Africa digital infrastructure], [2026-04-27 Smart Africa drives cross-border data interoperability through SADX Technical Mission], [2026-04-16 Smart Africa, RealTyme join forces for data sovereignty], [2026-04-03 Ghana approves $250M AI Hub & National AI Strategy], [2026-05-21 Pushing back from Big Tech Africa's hard road to AI sovereignty], [2026-03-16 New $137M initiative to enable digital service access for millions in three ECOWAS nations], [2025-06-18 Benin envisages mobile wallet launch in inclusive national digital ID push], [2025-01-29 Deadline extended for Benin digital government transformation tender], [2025-11-04 The Double Standard Why Are Internet Governance Rules Different for Africa], [2026-07-13 Djibouti Seeks ITU, Smart Africa Support for Telecoms and AI Development], [2024-07-02 Ghana develops its National Data Strategy with Smart Africa and Team Europe], [2025-11-13 Transform Africa Summit 2025 opens in Conakry, epicentre of digital cooperation in Africa], [2025-11-19 Transform Africa Summit 2025 (Conakry) - Simandou 2040 Pillar 3, TELEMO, SANIA-SADX and the closing wrap], [2025-09-09 Get to know The Republic of Guinea Home of Transform Africa Summit 2025], [2025-07-14 Smart Africa co-creates Africa's first Cross-Border Data Exchange Guidelines (Rabat, ADD-chaired CAITA)], [2023-11-07-worldbank-dtfa-wardip-sop1-pad4756], [2026-07-16-lesotho-national-data-value-creation-blueprint-workshop], [2025-11-17-smart-africa-inaugural-africa-ai-council]]
 ---
 
 # Smart Africa (Smart Africa Alliance)
@@ -64,9 +64,14 @@ listed as a "mentioned" body — hubbed here as it becomes the subject of a sour
   **US Cloud Act**, framed as "digital decolonisation" (claiming Africa faces a ~60% higher
   cyber-attack rate than the global average). See [[infra.cybersec]], [[gov.protect]]. Source:
   [[2026-04-16 Smart Africa, RealTyme join forces for data sovereignty]].
-- **Africa AI Council (2026-05).** Cited as having established the **Africa AI Council**
-  (Nov 2025) to pool AI resources, part of the continental AI-sovereignty push ($60bn Africa
-  AI Fund, Apr 2025 Kigali). See [[tech.ai]]. Source:
+- **Africa AI Council — formally established 2025-11-17 (Conakry).** [[tech.ai]] [[gov.regional]] The
+  Smart Africa **Board** formally established the **[[africa-ai-council|Africa AI Council]]** at Transform
+  Africa Summit, naming **15 members** (7 African ICT ministers + 8 independents) across six thematic areas,
+  selected by Smart Africa/AUC/ITU from 400+ applications. The body was **endorsed a year earlier** by the
+  Kigali **[[africa-ai-declaration|Africa AI Declaration]]** (Apr 2025), which placed it under the Smart Africa
+  Steering Committee **co-chaired by the AUC and [[itu|ITU]]**; the Board that unveiled it is Kagame-chaired.
+  Part of the continental AI-sovereignty push ($60bn Africa AI Fund, Apr 2025 Kigali). See [[XAF]]. Source
+  (primary): [[2025-11-17-smart-africa-inaugural-africa-ai-council]]; also
   [[2026-05-21 Pushing back from Big Tech Africa's hard road to AI sovereignty]].
 - **CAIGA — internet-governance capture critique (Munyua, 2025-11-04).** Munyua ("The Double
   Standard") charges that Smart Africa's **Continental Africa Internet Governance Architecture
@@ -138,3 +143,4 @@ listed as a "mentioned" body — hubbed here as it becomes the subject of a sour
 - [[2025-11-19 Transform Africa Summit 2025 (Conakry) - Simandou 2040 Pillar 3, TELEMO, SANIA-SADX and the closing wrap]]
 - [[2025-09-09 Get to know The Republic of Guinea Home of Transform Africa Summit 2025]]
 - [[2025-07-14 Smart Africa co-creates Africa's first Cross-Border Data Exchange Guidelines (Rabat, ADD-chaired CAITA)]]
+- [[2025-11-17-smart-africa-inaugural-africa-ai-council]]

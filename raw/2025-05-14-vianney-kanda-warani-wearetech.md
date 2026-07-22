@@ -14,6 +14,7 @@ entities: [[warani], [vianney-kanda]]
 lens: []
 retrieved: 2026-07-17
 sweep_batch: CAF-2026-07-17
+body_completeness: full
 ---
 
 **Staging note (sweep):** A "Tech Stars" profile piece — establishes a person

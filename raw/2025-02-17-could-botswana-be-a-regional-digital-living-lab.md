@@ -14,6 +14,7 @@ places: [BWA]
 topics: [tech.ai, tech.innovate, gov.policy]
 entities: []
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Could Botswana be a regional digital living lab for tech?

@@ -94,6 +94,18 @@ about commencement dates, enforcement reach and drafting gaps rather than covera
   subject to the Act in full. **No source held reports what happened at expiry** — whether
   compliance was achieved, extended, or simply not enforced.
 
+## Financing
+
+*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-21**.*
+
+**Non-state** — US$100m committed across 2 deals (2019–2022). Top financiers: Trade and Development Bank (TDB) (US$100m). Leading subjects: `infra.connect`.
+
+Instrument mix: Commercial loan 2.
+
+**Domestic state** — *(pending that dataset)*.
+
+Material deals: [[2019-01-01-tdb-syc-cws-acquisition-2019-cable-wireless-seychelles-acquisition-financing]], [[2022-01-01-tdb-syc-cws-refinancing-2022-cable-wireless-seychelles-debt-refinancing-and]].
+
 ## Active topics
 
 - [[gov.protect]] · [[gov.legislate]] — [[data-protection-act-2023-seychelles]], enforced by the

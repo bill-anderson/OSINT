@@ -21,6 +21,10 @@ Part of the [entities index](entities-index.md).
   Bomalathu platform; Africom Technologies PLC; ADIEP;
   UNESCO; AFD (French Development Agency); EIB; Claire Ma (Sign); Wim Vanhelleputte, Leo
   Chen; Prenesh Padayachee (Seacom).
+- **This ingest (identity chunk, 2026-07-22):** Verxid Technologies (NGA; V-Pass air-travel
+  biometric credential vendor with FAAN); FAAN (Federal Airports Authority of Nigeria; V-Pass); V-Pass
+  (NIN+face domestic air-travel credential); Barnks-forte Technologies Ltd (NGA; NPC e-CRVS/VitalReg
+  PPP technical partner); VitalReg (NPC nationwide birth/death registration platform).
 - **This ingest (infrastructure chunk, 2026-07-20):** Master Power Technologies (ZAF; R50m Midrand
   Customer Experience Centre — data-centre UPS/cooling supply chain, SURE/AIVA brands, Menno Parsons);
   Ministry of ICT and Postal Services (South Sudan); Eastern Africa Regional Digital Integration Project

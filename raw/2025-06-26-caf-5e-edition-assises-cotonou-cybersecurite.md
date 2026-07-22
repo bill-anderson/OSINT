@@ -14,6 +14,7 @@ places: [BEN]
 topics: [infra.cybersec, gov.protect, gov.policy, gov.regional]
 entities: [[cyber-africa-forum], [franck-kie], [aurelie-adam-soule-zoumarou], [malabo-convention], [budapest-convention]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # 5ème édition du Cyber Africa Forum : les assises de Cotonou pour le renforcement de la cybersécurité

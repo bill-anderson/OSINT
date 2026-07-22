@@ -6,7 +6,7 @@ parent: XEA
 place_kind: country
 topics: [dpi.id, dpi.registry, finance.mou, include.divides, dpi.pay, dpi.govtech, tech.ai, tech.innovate, gov.standards, dpi.exchange, gov.regional, dpi.mis, infra.energy, infra.store, infra.connect, gov.protect, gov.legislate, infra.cybersec, include.access, data.statistics, capacity.training, capacity.research, capacity.literacy, digital.rural, gov.policy, tech.industry, finance.new, geopol.china, geopol.usa, geopol.india]
 status: active
-last_reviewed: 2026-07-19
+last_reviewed: 2026-07-21
 ---
 
 # Ethiopia (ETH)
@@ -17,6 +17,30 @@ last_reviewed: 2026-07-19
 > across Fayda, payments, data protection, GovTech, infrastructure and health. Dated events, newest
 > first; they sit alongside the pre-existing entries below.
 
+- **2026-07-20** — **Ethiopia becomes a founding member of a Shanghai-headquartered AI governance body.**
+  [[sovereignty]] Innovation and Technology Minister **Belete Mola** signed the establishment agreement
+  of the **World Artificial Intelligence Cooperation Organization (WAICO)** at the **2026 World
+  Artificial Intelligence Conference** in **Shanghai**, making Ethiopia one of **29 founding states**.
+  WAICO is defined in the agreement as an **independent intergovernmental organisation** established in
+  line with the UN Charter's purposes, **headquartered in Shanghai**, operating on "extensive
+  consultation, joint contribution and shared benefits". Announced alongside it by **Xi Jinping**:
+  **5,000 AI training opportunities over five years**, support for **joint open-source model
+  development**, participation in **AI infrastructure investment**, and an **AI cooperation centre**.
+  *The governance point:* this is a **standards-and-governance venue** — not compute, not finance — and
+  Africa is being enrolled into it at founding-member level. Where the continent's AI diplomacy has so
+  far been read through **[[geopol.usa]]** compute deals and Gulf capital, WAICO is a **[[geopol.china]]**
+  bid to set the *rules* layer, with an intergovernmental legal form and a Chinese seat of
+  administration. Ethiopia's stated basis: the **Ethiopian Artificial Intelligence Institute**
+  (established **2020**), a **National Artificial Intelligence Policy adopted 2024**, an AI start-up
+  centre supporting **200 innovators**, and an **AI University Innovation Pod** with **[[undp|UNDP]]**
+  and **Addis Ababa University**. **What is not established (2026-07-21):** WAICO's **full founding
+  membership list**, its **powers, funding, voting rules or secretariat**, whether the agreement is
+  **binding or declaratory**, and any **ratification requirement** — the wiki holds **no WAICO
+  constitutive text** and no list of the 29. Sidebar headlines inside two unrelated held captures
+  indicate **[[CMR|Cameroon]]** and **[[SEN|Senegal]]** also joined as founding states, **but no article
+  body establishing either is held** — so African membership beyond Ethiopia is **unestablished and
+  worth a targeted look**. See [[tech.ai]], [[gov.standards]], [[gov.regional]]. Source:
+  [[2026-07-20-ethiopia-joins-waico-global-ai-alliance]].
 - **2026-02-05** — **Horizon Fiber binding agreement (Djibouti–Ethiopia–Sudan).** **Ethio Telecom**,
   **Djibouti Telecom** and the **Sudatel Group** converted their Dec-2024 Horizon Fiber MoU into a
   binding agreement, establishing a resilient terrestrial fibre corridor from Djibouti's subsea landing
@@ -316,6 +340,18 @@ last_reviewed: 2026-07-19
   (introduced 2018). Source:
   [[2023-05-11 Data for local decision-making, not a mere reporting requirement development of an index to measure facility-level use of HMIS data  Published in Journal of Global Health Reports]].
   See [[dpi.mis]], [[data.statistics]], [[capacity.research]].
+
+## Financing
+
+*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-21**.*
+
+**Non-state** — US$3.16bn committed across 34 deals (2016–2025). Top financiers: MIGA (Multilateral Investment Guarantee Agency) (US$1.00bn), Mastercard Foundation (US$664m), World Bank Group (US$583m). Leading subjects: `dpi.pay`, `infra.connect`, `dpi.govtech`.
+
+Instrument mix: Grant 19, Concessional loan 6, Equity 4. **3 records here still carry the capture's unverified `Concessional loan` label**, so the mix is indicative rather than established: the World Bank portal does not separate an IDA credit from an IDA grant.
+
+**Domestic state** — *(pending that dataset)*.
+
+Material deals: [[2023-01-01-miga-eth-safaricom-telecom-2023-safaricom-telecommunications-ethiopia-greenfield-telecoms-guarantee]], [[2023-12-13-wb-eth-001-ethiopia-digital-id-for-inclusion-and]], [[2019-01-01-mcf-eth-youngafricaworks-2019-young-africa-works-in-ethiopia-2019]], [[2021-04-21-wb-eth-002-ethiopia-digital-foundations-project]], [[2024-01-01-ifc-eth-003-safaricom-ethiopia-ifc-second-debt-facility]], [[2021-01-01-mcf-eth-youngafricaworks-2021-young-africa-works-in-ethiopia-2021]].
 
 ## Active topics
 

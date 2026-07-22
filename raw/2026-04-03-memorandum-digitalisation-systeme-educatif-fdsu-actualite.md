@@ -13,6 +13,7 @@ places: [COD]
 topics: [dpi.mis, finance.mou, infra.connect, include.divides, digital.rural, capacity.literacy, dpi.exchange]
 entities: [[minedu-nc-drc], [fdsu-drc]]
 lens: []
+body_completeness: full
 ---
 
 Signature de partenariat

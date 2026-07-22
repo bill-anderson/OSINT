@@ -47,6 +47,16 @@ One of the **world's poorest countries building digital public infrastructure al
   [[capacity.training]], [[finance.mou]], [[sovereignty]].
 - **2025-01→06** — **EAC digital integration + foundations.** Burundi joined the EAC **One Network Area** and ratified the **Regional Digital Integration** protocol ([[arct-burundi]]); the BRB set a (slipping) full-digitalisation aim; **land services** went digital ([[mediabox]]/DTFCN); **Merankabandi** migrated to **[[openimis]]** (1.25m beneficiaries); OBR ran regional tax-digitalisation exchanges. Sources: [[2025-01-21-burundi-embraces-eac-digital-integration-ict-growth]], [[2025-06-18 Burundi's Land Services Go Digital with New Integrated Platform]], [[2025-06-25-burundi-regional-cooperation-digital-tax-reforms]].
 
+## Financing
+
+*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-21**.*
+
+**Non-state** — US$107m committed across 3 deals (2021–2024). Top financiers: World Bank Group (US$107m). Leading subjects: `dpi.pay`, `dpi.id`, `infra.connect`.
+
+Instrument mix: Concessional loan 3. **3 records here still carry the capture's unverified `Concessional loan` label**, so the mix is indicative rather than established: the World Bank portal does not separate an IDA credit from an IDA grant.
+
+**Domestic state** — *(pending that dataset)*.
+
 ## Active topics
 
 - **Digital identity** → **[[burundi--dpi-id]]**. A repeatedly-delayed biometric national ID now "technically ready" but awaiting a law/decree ([[ministry-of-interior-burundi]]), a voter register produced amid coercion ([[ceni-burundi]]), a DP law passed to enable it, and **[[india-stack]]** cooperation being explored.

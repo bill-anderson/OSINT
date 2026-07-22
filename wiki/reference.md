@@ -36,9 +36,17 @@ Reject values outside the vocabularies.
   walking parents.
 - **The `XSS` rule.** `XSS` (Sub-Saharan Africa) is defined *by rule* as **all
   `XAF` children except `XNA`**, since no country points to it.
-- **`XGL` and `XSS` are tag-only groupings** — apply them to pan-SSA or
-  non-Africa-specific items. Neither is ever any country's home region, and
-  neither has a page (see §9 whitelist).
+- **`XGL` and `XSS` are groupings, never a country's home region** — apply them
+  to pan-SSA or non-Africa-specific items. **Both now have hub pages** and are
+  compiled like any other place *(Bill's ruling, 2026-07-21; the earlier "neither
+  has a page" and the §9 whitelist entries are withdrawn)*.
+- **Never roll sub-regions up into `XSS`.** Because `XSS` is defined by rule as
+  all `XAF` children except `XNA`, it *contains* `XEA`/`XWA`/`XSA`/`XCA` — so
+  summing those into an `XSS` total double-counts every deal already tagged
+  `XSS`. Aggregation is **by literal tag only**. The safeguard is on the tagging
+  side: an item scoped to **one** sub-region takes that sub-region's code, and
+  `XSS` is reserved for what is genuinely pan-SSA or spans **two or more**
+  sub-regions.
 - Tag a region only when the item is genuinely region-level.
 
 Region codes in `countries.csv` (54 ISO-3 countries + 8 `X__` regions = 62 codes):
@@ -124,8 +132,8 @@ local style. Lint #12 checks this.
 ## 2. Folder structure
 
 ```
-new/                      # unprocessed intake queue — clips land here; drained on ingest
-new-queue/                # sweep staging — candidates awaiting processing into new/
+new/                      # unprocessed intake queue — clips AND sweep candidates land here; drained on ingest
+new-queue/                # RETIRED as sweep target (2026-07-21); sweep now writes straight to new/
   done/                   # BILL'S. Human-owned; CC does not read, write or drain it
 sweep/                    # acquisition sweeps (upstream of new/):
                           #   daily-README.md  (daily trade-journal sweep procedure)
@@ -140,7 +148,7 @@ reviews/
   contradictions/
     open/                 # one file per unresolved contradiction — the reconcile worklist
     done/                 # resolved (last step)
-    research/             # quarantined external-research output — DO-NOT-INGEST
+                          # (no research/ — removed 2026-07-20; reconcile keeps no scratch on disk)
   acquisitions.md         # fetch list: specific known documents the wiki wants and lacks
 wiki/
   concepts/               # one page per SUBJECT topic
@@ -500,6 +508,25 @@ are `CLAUDE.md` → *Duplicates* (**drop / replace / keep both**); the mechanics
 When same-vs-new is genuinely unclear, prefer attaching to the existing page and
 note the uncertainty in `log.md` rather than creating a near-duplicate.
 
+**2a. Finance branch.** If the item carries `finance.new` or `finance.mou`, run
+`finance-news-driver.md` (capture mode) *before* continuing. It applies the
+**five-fact test** in `wiki/finance-record-spec.md` — financier, recipient place,
+commitment amount, event date, taxonomy-matchable purpose — and then:
+
+- **Passes, definite match to a held record** → merge into that record (one dated
+  attributed line in its `## Development history`; update status/disbursed).
+- **Passes, no match** → build a deal record into `new/`, to be admitted on the
+  next drain.
+- **Fails any fact** → no record. The item continues through the steps below as an
+  ordinary source with its `finance.*` tags. This is routing, not rejection — the
+  exception is a failure on the **date** fact, which goes to `_leads/` per the
+  spec's *Dates*.
+
+Either way, **finance items get no per-deal hub bullet at step 5** — their hub
+presence is compiled in aggregate by `FINANCE-COMPILE.md`. A piece on funding
+*trends* rather than a specific deal never enters this branch: it is an ordinary
+source carrying `finance.new`.
+
 **3. Create the source page** with full frontmatter, facet tags, and the source's
 **full verbatim body** — the whole article as published. This binds every route,
 including automated collection. Capture the full text from the page — never a
@@ -520,8 +547,10 @@ search-result excerpt or an AI paraphrase/summary.
 `sources:` list — a one-line append, *not* a re-synthesis. Do **not** create a
 page for a newly-named entity here, and do **not** re-synthesise existing pages
 inline: minting and refreshing live in the periodic **entity pass** (§5), off the
-ingest hot path. Deals/MoUs are recorded as dated facts on the pages they touch
-and become a `deal` entity page only when material.
+ingest hot path. A deal that passed the finance branch (2a) is already a record —
+do **not** also write it as a dated fact here. A deal or MoU that *failed* the
+five-fact test is recorded as a dated fact on the pages it touches, as before.
+Either becomes a `deal` entity page only when material.
 
 **5. For each place** — update the hub: add to **Recent developments**, ensure the
 topic section exists, link source + entities. Tag regions only when the item is
@@ -578,18 +607,18 @@ artefact, ensure its companion source page and the artefact share the prefix.
 
 ---
 
-## 7. Sweep intake (`new-queue/` and `sweep/`)
+## 7. Sweep intake (`new/` and `sweep/`)
 
-Acquisition sweeps run *upstream* of the wiki and stage into `new-queue/`.
+Acquisition sweeps run *upstream* of the wiki and stage into `new/`.
 
 - **Daily trade-journal sweep** (the workhorse) — procedure in
   **`sweep/daily-README.md`**. Run manually from CC; loops the journals in
   `wiki/trade-journals.csv` (read fresh each run) over a high-water-mark window;
-  stages **flat** candidate files into `new-queue/` (no per-place subfolders);
+  stages **flat** candidate files into `new/` (no per-place subfolders);
   keeps its state in `sweep/daily/`.
 - The universal sweep of everything *except* those journals (national press,
   think tanks) is the **digest**, run read-only from the
-  `africa-digital-policy-watch` skill — it never writes to `new-queue/`.
+  `africa-digital-policy-watch` skill — it never writes to `new/`.
 - **Phase-2 back-fill** (completed 2026-07-17) — the 2025→2026 national-press +
   trade-journal catch-up. Apparatus archived at **`sweep/archive/`** (procedure,
   query recipes, ledger, drop logs); it wrote `new-queue/{ISO3}/` folders, since
@@ -597,15 +626,16 @@ Acquisition sweeps run *upstream* of the wiki and stage into `new-queue/`.
 
 **Rules binding every sweep:**
 
-- **Containment boundary.** The sweep writes **only** to `new-queue/` (candidate
+- **Containment boundary.** The sweep writes **only** to `new/` (candidate
   source files with best-effort frontmatter) and to `sweep/` (its own
-  state/logs). It **never** writes to `new/`, `raw/`, or any `wiki/` page.
-- Candidates enter the base only by being **processed**: `new-queue/ → new/ →`
-  ingest `→ raw/`. **Bill promotes `new-queue/ → new/`** — reviewing raw sweep
-  candidates before they enter the pipeline is his (`new-queue/done/` is his review
-  area). This is the **one deliberate human gate** in the whole system; everywhere
-  else CC acts and logs. An unreviewed sweep result can never become a source by
-  accident. From `new/`, the filing rules in §6 apply unchanged.
+  state/logs). It **never** writes to `raw/` or any `wiki/` page.
+- Candidates enter the base only by being **processed**: `new/ →` ingest `→ raw/`.
+  The sweep stages straight to `new/`; ingest is the gate, so a raw sweep candidate
+  can never become a source by accident. *(The former `new-queue/ → new/` human
+  promotion step was retired 2026-07-21 — the sweep now feeds `new/` directly, and
+  the ingest workflow can be run manually or triggered by a sweep. `new-queue/done/`
+  remains Bill's, untouched by CC.)* From `new/`, the filing rules in §6 apply
+  unchanged.
 - **Sweep-time dedup is conservative** — exact URL or confident same-outlet
   re-crawl only, logged per run. Nothing is discarded silently. The aggressive
   pass is the post-ingest duplicate lint (#7), with full text in hand.
@@ -691,7 +721,9 @@ Example of the ≥10 band: `digital.rural`, ~70 refs.
 **Whitelist of intentionally-dead links** — controlled-vocabulary codes that are
 tags rather than pages, meant to have no page, and "dead" forever by design:
 
-- tag-only place codes: **`XSS`**, **`XGL`**
+- *(withdrawn 2026-07-21: `XSS` and `XGL` were listed here as tag-only codes with
+  no page. Both have hub pages and are compiled, so their links resolve and they
+  are no longer intentionally dead — see §1.)*
 - lens values: **`sovereignty`**, **`colonialism`**
 - taxonomy slugs used purely as tags
 
@@ -776,7 +808,7 @@ itself. A wrong auto-fix is a revert, not a review queue.
 
 Run: work the checks in order (dependencies resolve top-down — schema before
 vocabulary, orphans before dead-link triage). End with the tally
-(`contradictions - NN ; acquisitions - NN ; decisions logged - NN`) and, if any
+(`contradictions - NN ; acquisitions - NN ; awaiting ingest - NN ; decisions logged - NN`) and, if any
 check acted, a one-line-per-check count.
 
 ### Auto-fix — mechanical, one right answer, no output but a count
@@ -931,5 +963,5 @@ anything can be spot-checked or reverted. Headings:
 - **Flags** — anything low-confidence, proxy/low-precision dates added,
   middle-band dead links left uncreated, anything that looks shaky.
 
-Job wrap-up line (per `CLAUDE.md` → *Reporting*):
-`contradictions - NN ; acquisitions - NN ; decisions logged - NN`
+Job wrap-up line (per `CLAUDE.md` → *Reporting*; counts defined in `STATUS.md`):
+`contradictions - NN ; acquisitions - NN ; awaiting ingest - NN ; decisions logged - NN`

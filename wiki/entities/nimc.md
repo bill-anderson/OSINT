@@ -6,8 +6,8 @@ places: [NGA, KEN]
 topics: [dpi.id, gov.legislate, gov.policy, gov.protect, infra.cybersec, include.access, include.divides, digital.rural, dpi.registry]
 lens: [sovereignty, colonialism]
 status: active
-last_reviewed: 2026-07-13
-sources: [[2026-07-09 Nigeria seeks support to operationalize new digital ID law as NIN tops 136M], [2026-06-05 Nigeria looks beyond enrollment as digital ID passes 130 million], [2026-06-12 Beyond the AI Stack Why Governments Need Dynamic Digital Infrastructure], [2026-07-09 Nigerian Government Intensifies National Identity Enrolment Campaign (Voice of Nigeria)], [2026-07-09 NIMC Enrols 136 Million Nigerians as Coker-Odusote Pushes Stronger Inter-Ministerial Partnership], [2025-02-13 Digital ID necessity increases in Nigeria despite lingering challenges], [2026-03-29 When digital identity fails the citizen Who bears responsibility for NIN suspensions], [2026-04-07 NITDA Assumes Control Of NGEA Infrastructure], [2026-01-28 The Gender Gap in Rural Niger State's Digital Identity], [2026-03-03 Nigeria's Disharmonised Digital System Leaving Low-Income Farmers Behind], [2026-02-02 NIN, Party e-registration and the NDPA 2023 When politics meets privacy (and why Nigerians should care)], [2026-03-07 Nigerians Groan Under Digital Identity Regime That Turns Basic Rights into Privileges], [2026-02-27 Who Protects Nigeria's Digital Citizens Unmasking Accountability Gaps in Digital Rights Governance], [2026-02-02 How Strategic  Shift of NIBSS Is  Rewiring Nigeria's Payments System], [2026-07-10 FIJ Showed That INEC Broke Data Law. Digital Rights Lawyers Sue the Commission 10 Months Later], [2026-07-12 Agric Ministry adopts NIMC identity system to verify genuine farmers]]
+last_reviewed: 2026-07-22
+sources: [[2026-07-09 Nigeria seeks support to operationalize new digital ID law as NIN tops 136M], [2026-06-05 Nigeria looks beyond enrollment as digital ID passes 130 million], [2026-06-12 Beyond the AI Stack Why Governments Need Dynamic Digital Infrastructure], [2026-07-09 Nigerian Government Intensifies National Identity Enrolment Campaign (Voice of Nigeria)], [2026-07-09 NIMC Enrols 136 Million Nigerians as Coker-Odusote Pushes Stronger Inter-Ministerial Partnership], [2025-02-13 Digital ID necessity increases in Nigeria despite lingering challenges], [2026-03-29 When digital identity fails the citizen Who bears responsibility for NIN suspensions], [2026-04-07 NITDA Assumes Control Of NGEA Infrastructure], [2026-01-28 The Gender Gap in Rural Niger State's Digital Identity], [2026-03-03 Nigeria's Disharmonised Digital System Leaving Low-Income Farmers Behind], [2026-02-02 NIN, Party e-registration and the NDPA 2023 When politics meets privacy (and why Nigerians should care)], [2026-03-07 Nigerians Groan Under Digital Identity Regime That Turns Basic Rights into Privileges], [2026-02-27 Who Protects Nigeria's Digital Citizens Unmasking Accountability Gaps in Digital Rights Governance], [2026-02-02 How Strategic  Shift of NIBSS Is  Rewiring Nigeria's Payments System], [2026-07-10 FIJ Showed That INEC Broke Data Law. Digital Rights Lawyers Sue the Commission 10 Months Later], [2026-07-12 Agric Ministry adopts NIMC identity system to verify genuine farmers], [2026-06-26-state-house-tinubu-signs-nimc-act-2026], [2026-07-21-nigeria-nimc-new-duties-digital-ecosystem]]
 ---
 
 # National Identity Management Commission (NIMC)
@@ -18,11 +18,35 @@ Number (NIN) and the "one person, one identity" policy. Led by Director General
 
 ## Activity in this wiki
 
-- **NIMC Act 2026 (enacted June 2026 by President Tinubu).** Replaces the 19-year-old
-  NIMC Act 2007 (described as obsolete); recognises the NIN as the foundational
-  credential and underpins "trusted DPI." NIMC opened nationwide multi-stakeholder
-  consultations (including the Ministry of Budget & Economic Planning) in July 2026 to
-  build the enabling environment for full operationalization.
+- **NIMC Act 2026 — assented Friday 26 June 2026 (established 2026-07-21 from the Presidency's own
+  record).** Replaces the 19-year-old NIMC Act 2007 (described as obsolete); recognises the NIN as the
+  foundational credential and underpins "trusted DPI." Signed at the State House, Abuja, witnessed by
+  the Senate President, the Deputy Speaker, the Attorney-General, the Interior Minister, a **World
+  Bank** representative and DG **Abisoye Coker-Odusote**. NIMC opened nationwide multi-stakeholder
+  consultations (including the Ministry of Budget & Economic Planning) in July 2026 to build the
+  enabling environment for full operationalization. Source:
+  [[2026-06-26-state-house-tinubu-signs-nimc-act-2026]].
+
+  **Citation warning — "NIMC Act 2025" is the bill-year and is wrong for the statute.** Nigerian
+  reporting recurrently calls this the *NIMC Act, 2025*; the wiki uses **2026** and that is correct.
+  The legislative history explains the confusion and is worth holding, because the 2025 form will keep
+  reappearing: the bill began at the National Assembly on **2024-03-19**; the Senate passed the
+  **NIMC (Repeal and Enactment) Bill 2025** on **2025-10-15** (on rescission and re-committal);
+  **assent was declined on 2026-05-05** under **s.58(4) of the 1999 Constitution** over drafting
+  defects — including a Long Title that recited repeal of the 2007 Act without indicating
+  re-enactment; the corrected bill was re-passed and **assented 2026-06-26**. So the 2025 bill **never
+  became law**, and under the Acts Authentication Act an Act belongs to the year of assent. *(The
+  precise date of the corrective re-passage is **not established**.)* Resolved from contradiction
+  `2026-07-21-nimc-act-year-2025-vs-2026`.
+
+  **A vacuum worth stating, dated (2026-07-21): the Act's text is not public.** No **gazette
+  reference**, no **Act number** ("2026 No. __") and no commencement notice is on file or findable;
+  **NIMC has not published the Act**, and a Nigerian law firm was still writing a fortnight after
+  assent that "the full text of the legislation has not yet been made publicly available." The one
+  outlet with section-level detail describes its copy as exclusively obtained. **For a statute this
+  load-bearing — cited across four wiki pages, and now the stated legal basis for wiring digital
+  identity into healthcare — the absence of a public text is itself a governance finding**, not merely
+  a gap in the wiki's holdings. Queued for acquisition.
 - **Enrolment.** NIN registrations passed **136M** by July 2026 (up from 123.9M in
   Oct 2025 — 12M+ added), against a **180M target by 31 Dec 2026** (~44M still to issue).
   Enrolment is scaffolded by [[nigeria-id4d]] ([[world-bank]] / AFD / EIB financing). See
@@ -142,3 +166,4 @@ Number (NIN) and the "one person, one identity" policy. Led by Director General
 - [[2026-02-02 How Strategic  Shift of NIBSS Is  Rewiring Nigeria's Payments System]]
 - [[2026-07-10 FIJ Showed That INEC Broke Data Law. Digital Rights Lawyers Sue the Commission 10 Months Later]]
 - [[2026-07-12 Agric Ministry adopts NIMC identity system to verify genuine farmers]]
+- [[2026-07-21-nigeria-nimc-new-duties-digital-ecosystem]]

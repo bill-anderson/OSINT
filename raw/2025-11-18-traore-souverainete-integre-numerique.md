@@ -13,6 +13,7 @@ places: [BFA]
 topics: [infra.store, gov.policy, tech.ai, dpi.govtech, capacity.training, tech.innovate]
 entities: [[ibrahim-traore], [aminata-zerbo-sabane], [semaine-du-numerique-burkina-faso]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Le Président du Faso, le capitaine Ibrahim Traoré : « La question de souveraineté intègre impérativement celle du numérique »

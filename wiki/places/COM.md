@@ -41,6 +41,16 @@ A **small Indian-Ocean archipelago building DPI from a very low base**, largely 
 - **2024-08** — **PAPSS accession** — the **[[bcc-comoros]]** joined PAPSS (payments to other African states
   in Comorian francs). See [[dpi.pay]], [[gov.regional]]. Source: [[2024-08-23 Central Bank of Comoros commences PAPSS implementation]].
 
+## Financing
+
+*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-21**.*
+
+**Non-state** — US$106m committed across 3 deals (2018–2025). Top financiers: Export-Import Bank of China (US$93m), Islamic Development Bank (IsDB) (US$7m), African Development Bank (AfDB) (US$6m). Leading subjects: `infra.connect`, `gov.policy`, `dpi.govtech`.
+
+Instrument mix: Concessional loan 1, TA 1, Commercial loan 1.
+
+**Domestic state** — *(pending that dataset)*.
+
 ## Active topics
 
 - **Digital payments** → **[[com--dpi-pay]]** — the **[[paylogic]]** switch (dated award→go-live); the

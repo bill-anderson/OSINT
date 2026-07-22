@@ -13,6 +13,7 @@ places: [ZWE, ZMB, RWA, NGA, KEN, UGA, XAF]
 topics: [gov.protect, geopol.usa, dpi.mis, data.statistics, gov.regional]
 entities: [[america-first-global-health-strategy], [africa-cdc], [usaid]]
 lens: [sovereignty, colonialism]
+body_completeness: excerpt
 ---
 
 <!-- 26 bilateral US health MOUs signed with African govts under the America First Global Health Strategy; only 5 published. Each bundles Specimen-Sharing (25-yr access) + Data-Sharing (US access to national surveillance/lab DBs, 10-yr post-termination) agreements. Zimbabwe rejected ($367m); Rwanda $228m (2025-12-05, names Zipline+Ginkgo); Nigeria largest $5.1bn (Christian-healthcare conditionality); Kenya frozen by High Court. Africa CDC 'Health Security and Sovereignty Agenda' (Nov 2025). -->

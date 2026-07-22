@@ -6,7 +6,7 @@ parent: XEA
 place_kind: country
 topics: [infra.store, dpi.pay, dpi.id, dpi.exchange, include.access, include.divides, gov.protect, gov.policy, gov.standards, gov.regional, gov.legislate, tech.ai, tech.innovate, tech.industry, geopol.usa, geopol.gulf, geopol.china, geopol.eu, geopol.india, dpi.govtech, dpi.mis, infra.connect, infra.cybersec, finance.mou, finance.new, data.open, data.statistics, data.satellite, infra.capacity, infra.energy, capacity.training, capacity.research, capacity.literacy, digital.rural]
 status: active
-last_reviewed: 2026-07-20
+last_reviewed: 2026-07-22
 ---
 
 # Kenya (KEN)
@@ -41,6 +41,47 @@ last_reviewed: 2026-07-20
 >   [[2026-02-20-kenya-ict-budget-policy-statement-techafricanews]]; see [[european-union]],
 >   [[konza-technopolis]].
 
+- **2026-07-21** — **Draft AI & Emerging Technologies Policy opens for public comment.** [[gov.policy]]
+  [[tech.ai]] The **[[ministry-of-ict-digital-development-kenya|Ministry of ICT and Digital
+  Development]]**, via a multi-stakeholder committee, issued a notice (2026-07-21) inviting public and
+  stakeholder submissions on the draft **[[kenya-ai-emerging-technologies-policy|Kenya Artificial
+  Intelligence and Other Emerging Technologies Policy]]** — pitched as a national framework for the
+  governance, development, deployment and use of AI, to "promote innovation, strengthen infrastructure
+  and human capital... and enhance Kenya's economic resilience and strategic autonomy". Written
+  submissions on the prescribed template are due to the **Committee on AI and Other Emerging
+  Technologies by 4 August 2026** (aipolicy@moict.go.ke). *This is a distinct instrument from the Senate's
+  [[kenya-ai-bill-2026]] — a policy/executive track running alongside the legislative one — and marks the
+  first held instance of a public-participation window on Kenya's AI-governance framework.* **The draft
+  policy text itself is not held: an acquisition attempt on 2026-07-22 could not retrieve it — the
+  ict.go.ke notice and news coverage link only to the pre-existing National AI Strategy 2025–2030, a
+  distinct document, not the draft policy** — so the framework's content, risk model and enforcement
+  design cannot yet be read. See [[gov.legislate]],
+  [[kenya--tech-ai]], [[sovereignty]]. Source:
+  [[2026-07-21-kenya-ai-emerging-technologies-policy-public-consultation]].
+- **2026-07-21** — **A new licence class for telecom equipment distributors.** [[gov.legislate]]
+  Kenya introduced a **Communications Equipment Distributor (CED) licence**, gazetted under the
+  **Revised Telecommunications Market Structure** (**Gazette Notice 3335, 2026-03-06**), with penalties
+  of **KES 1 million or three years' imprisonment**. *The governance point is the widening of the
+  licensing perimeter:* the state is moving from licensing operators and services to licensing the
+  **distribution chain for equipment**, which is where device provenance, counterfeit control and — on
+  the wiki's standing SIM/identity thread — the physical layer of subscriber registration all sit.
+  **What is not established (2026-07-21):** the licence fee, who must hold one at what threshold, the
+  commencement date, and whether existing distributors are grandfathered — none is in the held account,
+  and **the gazette notice itself is not held**. See [[tech.industry]], [[infra.connect]]. Source:
+  [[2026-07-21-kenya-introduces-telecom-equipment-licence]].
+- **2026-07-21** — **A corporate skills programme reports a cumulative reach figure.**
+  [[capacity.training]] **[[safaricom]]**'s **Hook Circle** programme — launched **2023** for young
+  Kenyans **aged 10–24**, joined via **\*555#** or the Safaricom app — has reached **more than one
+  million young people (as of 2026-07-21)** across **Meru, Mombasa, Nairobi, Kakamega, Siaya and Nyeri
+  counties**, delivered with **DigiFarm** and **Power Learn Project**. The occasion was a two-day
+  session at **Kiambu National Polytechnic** covering digital skills, entrepreneurship and agritech.
+  *Recorded for the cumulative figure, not the event.* **It is a company self-report with no
+  independent verification, and "reached" is undefined** — no completion, certification, retention or
+  outcome measure is given, and no per-county breakdown or spend figure is disclosed, so this is a
+  **participation claim, not an outcome**. Set against the state's own **117 Jitume hubs** below, the
+  wiki now holds two digital-skills reach claims for Kenya from different sponsors, **neither
+  independently evaluated**. See [[capacity.literacy]], [[include.divides]]. Source:
+  [[2026-07-21-safaricom-youth-skills-drive-one-million-kenyans]].
 - **2026-07-20** — **117 Jitume digital hubs: a programme-scale figure enters the record for the first
   time.** [[include.access]] Kenya commissioned its **117th Jitume Digital Hub** at the Koibatek
   Agricultural Training Centre, **Eldama Ravine, Baringo County**. The hub was built by the
@@ -49,9 +90,36 @@ last_reviewed: 2026-07-20
   it offers digital-skills training, online-work access, innovation space and government digital
   services, and is framed as part of the **Digital Superhighway** agenda. Commissioned by Cabinet
   Secretary **Geoffrey Kiringa Ruku** with PS **John Kipchumba Tanui**. *The count is the payload.*
-  **117 hubs (as of 2026-07-20)** is the wiki's **first** figure for Jitume's scale — no earlier count,
-  budget, target, per-hub cost or utilisation figure is held, so this is a **baseline, not a
-  trajectory**, and the programme's reach in users rather than buildings remains **unestablished**. See
+  **★ Resolved 2026-07-21 — and the "117" is not a scale figure at all.** This entry originally called
+  117 "the wiki's first figure for Jitume's scale". **That was wrong.** There are **two parallel series**,
+  and the programme's own officials quote both:
+  - **Launch-ceremony ordinal:** 40th (2023-08-07) · 100th (2023) · **112th (2026-06-13)** · **117th
+    (2026-07-20)**.
+  - **Installed base:** 114 (2023-08-07) · **290 (2025-02-15)** · 284 (2025-04-25) · **~350 (2026-06)**.
+
+  The decisive evidence is a **single event on 2023-08-07** where two officials of the same ministry gave
+  both numbers in the same room: **CS Eliud Owalo** called it "**the 40th Jitume Digital Hub**" while
+  **PS John Tanui**, speaking at that event, said "**we have so far deployed 114 centres**" and
+  distinguished the **74 not yet launched** — i.e. *deployed* and *launched* are different verbs on
+  different subsets. **Carry the installed-base series (~350, 2026-06); treat any "Nth hub" as a ceremony
+  count, not a national total.** The divergence between them is plausibly real rather than clerical:
+  World Bank supervision reports record KDEAP procurement as near-stalled through 2024–25, so ceremonial
+  launches slowed while equipment deployment continued.
+
+  **The wider finding is about source quality, and it is the one to carry forward: Jitume's published
+  metrics are internally inconsistent on nearly every headline.** Youth trained, all from named
+  officials: **400,000** (Feb 2025) → **140,000** (Jun 2026) → **240,000** (May 2026). Job linkages:
+  **41,000**, **42,000** and **92,000** within weeks of each other in mid-2026. Programme start:
+  **December 2022** (KoTDA's own tender, first-hand) vs December 2023 (later coverage). Hub models:
+  **three** (tender) vs **four** (Tanui, 2025-05). Standard-model pilot: **50** (tender) vs **53**
+  (Tanui). *The press reported these accurately; the inconsistency is in the programme's communications.*
+  **No published hub register or results framework exists** — KoTDA's own hub sites are JavaScript
+  applications returning nothing to automated retrieval, and the KDEAP results framework tracks broadband
+  users, not hubs. **Programme reach in users rather than buildings therefore remains unestablished
+  (2026-07-21), and no Jitume figure should be cited without its date and its speaker.** Sources:
+  [[2023-08-07-jitume-40th-hub-114-centres-deployed-bizna]],
+  [[2026-06-13-jitume-112th-hub-ol-kalou-350-established-radio47]],
+  [[2024-03-07-kotda-jitume-hubs-prequalification-tender]]. See
   [[include.divides]], [[capacity.training]], [[digital.localgov]], [[dpi.govtech]]. Source:
   [[2026-07-20-kenya-117th-jitume-digital-hub-baringo]].
 - **2026-07-20** — **Safaricom's financial-services leadership empties out mid-build.** [[dpi.pay]]
@@ -68,9 +136,22 @@ last_reviewed: 2026-07-20
   appointments publicly but communicates departures internally** unless the CEO is involved — so
   continuity risk at the top of Kenya's systemically critical payment rail is, by design, the least
   visible thing about it. **No successor, and no stated effect on the M-PESA roadmap, is established
-  as of 2026-07-20.** See [[tech.industry]], [[infra.capacity]],
-  [[nairobi-securities-exchange]]. Source:
-  [[2026-07-20-safaricom-financial-services-chief-exits-mpesa]].
+  as of 2026-07-21** *(position unchanged on the second account a day later)*. **Fuller detail
+  (2026-07-21):** a second account of the same departure adds the product and partnership record the
+  first lacked — **Ziidi Trader launched 2026-02-10**, built with the
+  **[[nairobi-securities-exchange|NSE]]**, the **Capital Markets Authority**, **KASIB Kenya** and the
+  **Central Depository and Settlement Corporation**, letting customers (including diaspora investors)
+  trade NSE shares from an M-PESA mini-app **without a brokerage account, minimum one share**; the
+  **Ziidi** savings product **past 5 million users** *(company figure, as at 2026-07-21; basis
+  undefined — not comparable to M-PESA's 30-day-active series)*; **Daraja 3.0** named as the developer
+  platform on top of **Fintech 2.0**, explicitly so third parties can build on M-PESA **independently
+  of Safaricom's internal teams**; and **Pochi la Biashara** (separating trader business and personal
+  funds) plus **Tuunza Mapato** and device insurance. It also resolves the two other exits: the
+  outgoing M-PESA Africa MD left **2026-03-31** for a South African bank role, and the strategy officer
+  departs **2026-08-01**. Waititu joined **February 2023**. See [[tech.industry]],
+  [[infra.capacity]], [[nairobi-securities-exchange]], [[mpesa]]. Sources:
+  [[2026-07-20-safaricom-financial-services-chief-exits-mpesa]],
+  [[2026-07-21-safaricom-financial-services-chief-resigns]].
 - **2026-07-20** — **Kenya as the second leg of a Nigerian stablecoin B2B rail.** [[dpi.pay]]
   [[sovereignty]] **[[busha|Busha Business]]** and **[[tether]]** announced a collaboration giving
   African businesses USD₮ liquidity for cross-border payments and treasury. Kenya-specific figures on
@@ -280,6 +361,18 @@ _Older dated developments (through early 2026) are preserved in their linked sou
 - **2026-05-29** — Proposed taxes on mobile-money transactions risk pushing low-income users back to cash, even as M-Pesa gives KRA informal-economy traceability. [[2026-05-29 Africa's Mobile Money Networks Are Becoming Tax Infrastructure]] · [[dpi.pay]]
 - **2026-05-26** — As Starlink skims high-value customers, Kenyan operators reportedly balk at new spectrum or rural build-out — a "revenue leakage" warning. [[2026-05-26 Africa risks losing billions to satellite internet operators, report says]] · [[infra.connect]]
 - **2026-05-23 / 2026-05-12** — [[via-africa-cable]], an [[orange]]-led 20,000km Atlantic subsea system, was announced at the Africa Forward Summit in Nairobi (Ruto, Macron). [[2026-05-23 Orange-backed subsea cable to connect Nigeria, 19 other countries]] · [[infra.connect]]
+## Financing
+
+*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-21**.*
+
+**Non-state** — US$2.12bn committed across 66 deals (2015–2025). Top financiers: Export-Import Bank of China (US$501m), World Bank Group (US$390m), Economic Development Cooperation Fund (Korea Eximbank) (US$230m). Leading subjects: `dpi.pay`, `infra.connect`, `tech.innovate`.
+
+Instrument mix: Grant 23, Equity 17, Commercial loan 15. **1 record here still carries the capture's unverified `Concessional loan` label**, so the mix is indicative rather than established: the World Bank portal does not separate an IDA credit from an IDA grant.
+
+**Domestic state** — *(pending that dataset)*.
+
+Material deals: [[2023-03-31-wb-ken-001-kenya-digital-economy-acceleration-project]], [[2019-01-01-eximbank-cn-ken-003-china-eximbank-provides-rmb-1225-billion]], [[2021-01-01-adc-ken-nairobi-2021-africa-data-centres-kenya-nairobi-nbo1]], [[2025-01-01-eximbank-cn-ken-004-nairobi-intelligent-transport-system-its-project]], [[2023-01-01-edcf-ken-konza-digital-media-city-2023-kenya-konza-digital-media-city-development]], [[2016-01-01-eximbank-cn-ken-001-china-eximbank-provides-supplemental-rmb-650]].
+
 ## Active topics
 
 - [[dpi.pay]] · [[include.divides]] — M-Pesa as tax rail; KRA WhatsApp tax-filing chatbot;

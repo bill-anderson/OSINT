@@ -6,7 +6,7 @@ places: [SSD]
 topics: [infra.connect, infra.store, gov.legislate, gov.protect, gov.policy, infra.cybersec, gov.regional]
 status: active
 last_reviewed: 2026-07-20
-sources: [2026-07-20-south-sudan-national-spectrum-management-5g-strategy], [[2026-01-17 South Sudan NCA establishes gateway services and data centre oversight committee], [2025-10-17 Paradigm Initiative partners with Koneta Hub on data protection law in South Sudan], [2025-10-09-ssra-nca-ensoft-six-year-revenue-digitization-deal-eyeradio]]
+sources: [[2026-07-20-south-sudan-national-spectrum-management-5g-strategy], [2026-01-17 South Sudan NCA establishes gateway services and data centre oversight committee], [2025-10-17 Paradigm Initiative partners with Koneta Hub on data protection law in South Sudan], [2025-10-09-ssra-nca-ensoft-six-year-revenue-digitization-deal-eyeradio]]
 lens: [sovereignty]
 ---
 

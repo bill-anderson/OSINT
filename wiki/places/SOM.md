@@ -6,7 +6,7 @@ parent: XEA
 place_kind: country
 topics: [gov.protect, gov.legislate, dpi.govtech, dpi.pay, dpi.id, dpi.registry, dpi.exchange, infra.connect, infra.store, infra.cybersec, gov.regional, gov.policy, finance.new, finance.mou, tech.industry, include.access, tech.ai, capacity.research, capacity.training, tech.innovate]
 status: active
-last_reviewed: 2026-07-20
+last_reviewed: 2026-07-21
 ---
 
 # Somalia (SOM)
@@ -25,6 +25,38 @@ market's velocity.
 
 ## Recent developments
 
+- **2026-06** *(framework released **June 2026** — month precision; reported 2026-07-21. The
+  secondary's date is **not** the event date, and the exact release date is **unestablished** pending
+  the MoCT/NCA primary)* — **Somalia issues a National Cybersecurity Risk Management Framework — the
+  operative layer under the 2026 Cybersecurity Law.** Introduced by the
+  **[[somalia-ministry-communications-technology|MoCT]]** (Minister **Mohamed Adam Moalim**), with the
+  **[[nca-somalia|National Communications Authority]]** as **lead cybersecurity regulator** (DG
+  **Mustafa Yasin Sheikh**). This is the piece that turns [[somalia-cybersecurity-law|the Law]] from
+  architecture into obligation. **The binding requirement:** every public- *and* private-sector
+  organisation that **owns or operates Critical Information Infrastructure** must run the prescribed
+  risk-assessment process — identify and prioritise risks to **confidentiality, integrity and
+  availability**, assess **regularly**, and **submit annual risk-assessment reports to the NCA** under
+  the **Somalia Cybersecurity Act**. So Somalia now has a **named regulator, a reporting cadence and a
+  compliance population** where previously it had a statute. **Standards basis:** **ISO/IEC 27000** and
+  **ISO/IEC 27005**, with a structured process (asset identification → threat analysis → risk
+  evaluation → risk treatment) and assets grouped into **security domains**. It adds **sector-specific
+  business-impact models** for **defence, public safety, critical infrastructure and financial
+  services**, plus appendices covering a **national cybersecurity maturity model**, **emerging-technology
+  risk-management guidelines** and a **change-management strategy**. *Read against this page's standing
+  pattern — instruments passed, commencement unevidenced — the test is enforcement:* **no CII
+  designation list, no compliance deadline, no first reporting date, no penalty schedule and no
+  NCA supervisory capacity figure is established as of 2026-07-21**, and the wiki does not hold the
+  framework document itself. **★ Updated 2026-07-21 (acquisition pass): the framework was *published*
+  2026-07-19** per the NCA's own publication notice — so June 2026 is the finalisation date and the
+  release date is now day-precise. The notice also records that it was issued **alongside a second
+  instrument, a National Cybersecurity Compliance Framework**, which the wiki does not hold and had not
+  previously recorded at all. **Neither document was obtainable**: the NCA lists both only behind
+  `lnkd.in` shorteners that resolve to nothing fetchable, so **the framework text remains not held as of
+  2026-07-21**, and the CII designation list, compliance deadline, first reporting date and penalty
+  schedule stay unestablished. Backdrop the wiki already holds: the
+  **November 2025 e-visa platform breach** and an **ITU GCI 2024 Tier 4 of 5** placing (37.38/100). See
+  [[infra.cybersec]], [[gov.standards]], [[gov.policy]], [[somalia--gov-protect]]. Source:
+  [[2026-07-21-somalia-national-cybersecurity-risk-management-framework]].
 - **2026-07-20** — **Somali National University launches an AI Centre of Excellence.** **Somali National
   University (SNU)** launched the **Somali National Artificial Intelligence Centre (SNAIC)** at a
   ceremony in Mogadishu attended by government institutions, universities, research organisations and AI
@@ -175,6 +207,16 @@ market's velocity.
   al-Shabaab (which also exploits the same digital rails). Source:
   [[2026-01-07 Why Ethiopia, Somalia and Djibouti are starting to matter in digital Africa]].
   See [[dpi.pay]], [[include.access]], [[tech.industry]], [[finance.new]], [[XEA]].
+
+## Financing
+
+*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-21**.*
+
+**Non-state** — US$186m committed across 9 deals (2015–2024). Top financiers: World Bank Group (US$166m), African Development Bank (AfDB) (US$6m), European Commission (US$5m). Leading subjects: `dpi.govtech`, `gov.policy`, `infra.connect`.
+
+Instrument mix: Grant 4, Concessional loan 3, TA 2. **3 records here still carry the capture's unverified `Concessional loan` label**, so the mix is indicative rather than established: the World Bank portal does not separate an IDA credit from an IDA grant.
+
+**Domestic state** — *(pending that dataset)*.
 
 ## Active topics
 

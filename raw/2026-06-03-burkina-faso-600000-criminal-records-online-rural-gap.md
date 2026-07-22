@@ -14,6 +14,7 @@ sweep_batch: BFA-2026-07-17
 places: [BFA]
 topics: [dpi.govtech, include.divides, digital.rural, dpi.registry]
 entities: [[ministry-of-justice-burkina-faso], [world-bank]]
+body_completeness: full
 ---
 
 # Burkina Faso Issues 600,000 Criminal Records Online, but Rural Connectivity Gap Persists

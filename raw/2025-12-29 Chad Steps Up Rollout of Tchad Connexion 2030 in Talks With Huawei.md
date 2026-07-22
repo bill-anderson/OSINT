@@ -12,6 +12,7 @@ places: [TCD]
 topics: [infra.connect, geopol.china, include.divides, digital.rural, dpi.govtech, capacity.training, finance.mou]
 entities: [[huawei], [boukar-michel], [tchad-connexion-2030], [datareportal]]
 lens: [sovereignty]
+body_completeness: excerpt
 ---
 
 *Relays a DataReportal figure of 13.2% internet access at the start of 2025 — second-hand; the Digital 2025 Chad report itself is not held. Conflicts with Digital 2024: Chad (22.5%, Jan 2024). See reviews/contradictions/open/chad-internet-penetration-2024-2025.*

@@ -227,6 +227,16 @@ fourth-tier cybersecurity ranking mark the distance still to travel.
   broadband, and human capital / climate resilience. Cited, not absorbed. Source:
   [[2021-06-22 Mauritania Second Private Sector, Digital and Human Capital Reform DPF (P171238, World Bank)]].
 
+## Financing
+
+*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-21**.*
+
+**Non-state** — US$85m committed across 5 deals (2020–2024). Top financiers: EIB Global (European Investment Bank) (US$36m), World Bank Group (US$30m), China Ministry of Commerce (US$15m). Leading subjects: `infra.connect`, `gov.policy`, `tech.industry`.
+
+Instrument mix: Grant 2, Commercial loan 1, IDA development policy grant 1.
+
+**Domestic state** — *(pending that dataset)*.
+
 ## Active topics
 
 - [[dpi.id]] · [[dpi.registry]] · [[include.access]] — **[[anrpts-mauritania|ANRPTS]]** biometric register

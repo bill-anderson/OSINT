@@ -39,6 +39,18 @@ The wiki has read Angola's stack as a **three-way courtship** (China / India / U
 - **2019-11-08** — **Centro Nacional de Produção e Controlo do BI inaugurated** (Kilamba, Luanda; President [[joao-lourenco]]) — the delivery of the **$243m CEIEC contract of 2017-01-03**, *not* the contract award, as the wiki previously recorded. [[angola--dpi-id]]. Source: [[2019-11-10-angorussia-centro-producao-bi-243-milhoes]].
 - **2017-01-03** — ***Despacho Presidencial nº 8/17*** (José Eduardo dos Santos) selects **CEIEC** for a **$243m** contract to build the *Plataforma de Gestão Integrada da Identificação Civil e Criminal*, via [[ministerio-da-justica-e-dos-direitos-humanos-angola|MINJUSDH]] on a Chinese commercial credit line. [[angola--dpi-id]]. Source: [[2017-01-16-nj-chineses-apoiam-angola-emissao-bi-registo-nascimento]].
 
+## Financing
+
+*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-21**.*
+
+**Non-state** — US$1.08bn committed across 7 deals (2016–2024). Top financiers: Export-Import Bank of China (US$657m), World Bank Group (US$360m), JBIC (Japan Bank for International Cooperation) (US$66m). Leading subjects: `infra.connect`, `tech.industry`, `gov.policy`.
+
+Instrument mix: Commercial loan 2, IBRD loan — not concessional 2, Concessional loan 2.
+
+**Domestic state** — *(pending that dataset)*.
+
+Material deals: [[2024-06-27-wb-ago-001-angola-digital-acceleration-project]], [[2023-01-01-eximbank-cn-ago-003-national-broadband-infrastructure-upgrading-project-rnbl]], [[2023-01-01-press-chn-ago-2023-001-national-broadband-infrastructure-upgrading-project]], [[2016-01-01-jbic-ago-sacs-submarine-cable-2016-export-credit-line-for-banco-de]].
+
 ## Active topics
 
 - **Digital identity & the exclusion baseline** → **[[angola--dpi-id]]**, **[[angola--dpi-registry]]**. The BI is being made the sole legal ID even as **only 52.4% hold one (2025-11)**; a 15m-BI-by-2027 target drives provincial BI printing (all 21 provinces, 2026-07), BI-at-birth ("Nascer com Registo," EU/UNICEF), a proof-of-life BDCM registry (~$275m supplementary budget) and the 2027 electoral roll. The stack underneath is **Chinese-built** — CEIEC, contracted **2017-01-03**, production centre inaugurated **2019-11-08** — not Aadhaar-modelled; the Indian thread ([[angola-india-dpi-credit-line]]) remains an uncontracted pledge as of 2026-07-20. [[ima-angola]] interoperability.

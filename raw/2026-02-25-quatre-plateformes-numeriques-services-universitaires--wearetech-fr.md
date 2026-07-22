@@ -13,6 +13,7 @@ places: [DZA]
 topics: [dpi.govtech, dpi.registry, capacity.research, tech.innovate, gov.legislate, infra.cybersec]
 entities: [[ministry-of-higher-education-and-scientific-research-algeria], [kamel-baddari], [aunei]]
 lens: []
+body_completeness: excerpt
 ---
 
 # Algérie : 4 plateformes numériques pour renforcer les services universitaires

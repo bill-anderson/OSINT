@@ -12,6 +12,7 @@ places: [ZMB]
 topics: [dpi.id, dpi.mis, capacity.training, gov.standards, dpi.exchange, finance.new]
 entities: [[smart-zambia-institute], [mosip], [smartcare-pro], [ihm-southern-africa], [dzap]]
 lens: [sovereignty]
+body_completeness: excerpt
 ---
 
 *THE HIGHEST-VALUE CORRECTION IN THIS BATCH: the held zambia--dpi-id intersection dates Zambia's MOSIP thread from the March-2026 system-integrator procurement. This shows MOSIP work already live in January 2025 — developers trained, an EHR integration in flight. The SI hunt was not the start; the held page is missing its own prehistory. Also technically significant: the architecture allows integration with existing biometric databases with no full system replacement, and the training was explicitly aimed at letting Zambian developers maintain the platform independently.*

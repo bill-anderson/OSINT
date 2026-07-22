@@ -9,7 +9,7 @@ entities: [[sonatel], [orange], [starlink], [via-africa-cable], [artp-senegal], 
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-20
-sources: [2026-07-20-helios-towers-150-million-senegal-digital-infrastructure], [[2025-05-09-techafricanews-phase3-sonatel-fibre], [2026-01-05-techafricanews-sonatel-99-satellite], [2026-02-23-techafricanews-sonatel-2africa-cable], [2026-04-22-techafricanews-sonatel-ftth-annual-report], [2026-07-10-techafricanews-sonatel-gandoul-oneweb], [2026-02-04-lesoleil-starlink-5000-kits], [2026-02-14-seneweb-alioune-sall-clauses-starlink], [2026-02-26-lesoleil-internet-satellite-decisions-gouvernement], [2026-04-09-lesoleil-connectivite-universelle-tournee], [2026-04-11-lesoleil-alioune-sall-kolda-starlink], [2025-01-22-artp-sim-registration-warning]]
+sources: [[2026-07-20-helios-towers-150-million-senegal-digital-infrastructure], [2025-05-09-techafricanews-phase3-sonatel-fibre], [2026-01-05-techafricanews-sonatel-99-satellite], [2026-02-23-techafricanews-sonatel-2africa-cable], [2026-04-22-techafricanews-sonatel-ftth-annual-report], [2026-07-10-techafricanews-sonatel-gandoul-oneweb], [2026-02-04-lesoleil-starlink-5000-kits], [2026-02-14-seneweb-alioune-sall-clauses-starlink], [2026-02-26-lesoleil-internet-satellite-decisions-gouvernement], [2026-04-09-lesoleil-connectivite-universelle-tournee], [2026-04-11-lesoleil-alioune-sall-kolda-starlink], [2025-01-22-artp-sim-registration-warning]]
 ---
 
 # Senegal × Connectivity

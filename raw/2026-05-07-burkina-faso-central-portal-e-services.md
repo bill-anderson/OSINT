@@ -14,6 +14,7 @@ sweep_batch: BFA-2026-07-17
 places: [BFA]
 topics: [dpi.govtech, gov.policy, dpi.registry]
 entities: [[ministry-of-digital-transition-burkina-faso], [service-public-gov-bf]]
+body_completeness: full
 ---
 
 # Burkina Faso Launches Central Portal to Streamline E-Services

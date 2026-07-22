@@ -3,6 +3,7 @@ type: source
 title: "AI for Good Global Commission"
 publisher: ITU (AI for Good)
 url: https://commission.aiforgood.itu.int/
+url_note: "capture of the Commission’s own site as a standing-object reference - the bare domain IS the document-specific URL (lint #14 carve-out, confirmed 2026-07-21)"
 date_precision: day
 date_source: source
 author:

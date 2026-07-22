@@ -6,13 +6,35 @@ parent: XEA
 place_kind: country
 topics: [tech.ai, gov.regional, capacity.research, gov.policy, gov.legislate, finance.new, infra.connect, infra.store, dpi.exchange, gov.standards, infra.cybersec, dpi.id, dpi.mis, dpi.registry, gov.protect, include.access, geopol.china, geopol.usa, digital.rural, data.statistics, dpi.govtech, capacity.training, dpi.pay]
 status: active
-last_reviewed: 2026-07-19
+last_reviewed: 2026-07-21
 ---
 
 # Rwanda (RWA)
 
 ## Recent developments
 
+- **2025-08-04** *(analysis piece; a 2025 baseline, not current state — ingested 2026-07-21)* —
+  **Rwanda's digital model read as deliberate state strategy, with the accountability gap named.**
+  [[sovereignty]] A Modern Diplomacy analysis by **Nicholas Oakes** — **commentary, not research;
+  attribute, do not adopt** — assembles Rwanda's programme as a single state-led agenda rather than
+  scattered initiatives: a **National FinTech Strategy** (five-year; **US$200m** investment target,
+  **7,500 jobs by 2029**, **80% fintech adoption**), the **Rwanda Digital Acceleration Project**
+  (World Bank **P173373**, 2022–2026), the **2020 Smart City Rwanda Master Plan** and **Vision 2050**.
+  Delivery claims cited: RDAP had distributed **over 18,000 smart devices to just over 100 schools
+  across 8 regions**; the **E-Ubuzima** e-health platform centralising records under digital ID; and the
+  **US$2bn Kigali Innovation City** anchored by **Carnegie Mellon University Africa**. On the soft-power
+  side it notes the **2024 AI Governance Playbook co-published with Singapore under UN auspices** —
+  principles for small states on bias mitigation, transparency and inclusion — and reads Rwanda's
+  posture as **deliberate non-alignment**, taking US, Chinese and EU partnership without binding to any.
+  *The part worth keeping is the critique, because it is the one the wiki should test:* **the same
+  centralised model that produces execution speed removes the checks on it**. The piece notes Rwanda's
+  standing scrutiny over media freedom and argues that biometric ID, AI surveillance tools and
+  predictive policing offer real efficiency gains but that **"Rwanda's current governance has very few
+  independent institutions capable of raising questions about accountability in an increasingly
+  digitized state."** Read against **[[unwanted-witness|Unwanted Witness]]'s 2025 surveillance report**,
+  which lists **Rwanda among its seven case studies** (see [[gov.protect]]), that is not a hypothetical.
+  **None of the figures above is independently held** — all are the author's citations to secondary
+  sources. Source: [[2025-08-04-oakes-rwanda-digital-governance-smart-state]].
 - **2026-07-14** — **eKash full interoperability effective.** Rwanda declared the
   **[[ekash]]** interoperability programme complete (effective 14 Jul 2026) under **National
   Bank of Rwanda Directive No. 45/2026** ([[national-bank-of-rwanda]]): money moves across
@@ -296,6 +318,18 @@ last_reviewed: 2026-07-19
 - **2026-06-17** — Rwanda named (with Kenya) as having piloted AI-enabled health
   diagnostics, though national scaling remains financially challenging. Source:
   [[2026-06-17 Priced out of the future Confronting the rising cost of AI in Africa]]. See [[capacity.research]].
+
+## Financing
+
+*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-21**.*
+
+**Non-state** — US$910m committed across 31 deals (2017–2025). Top financiers: Mastercard Foundation (US$276m), World Bank Group (US$234m), AIIB (Asian Infrastructure Investment Bank) (US$100m). Leading subjects: `tech.industry`, `dpi.govtech`, `dpi.pay`.
+
+Instrument mix: Grant 20, Concessional loan 5, TA 2. **3 records here still carry the capture's unverified `Concessional loan` label**, so the mix is indicative rather than established: the World Bank portal does not separate an IDA credit from an IDA grant.
+
+**Domestic state** — *(pending that dataset)*.
+
+Material deals: [[2022-01-01-mcf-rwa-cmu-digital-2022-cmu-africa-center-for-inclusive-digital-transformation]], [[2021-11-30-wb-rwa-001-digital-acceleration-project]], [[2021-01-01-aiib-rwa-digital-acceleration-2021-rwanda-digital-acceleration-project-digital-investment]], [[2022-01-01-africa50-rwa-kigali-innovation-city-2022-kigali-innovation-city-kic-technopark-ppp]].
 
 ## Active topics
 

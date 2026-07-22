@@ -118,6 +118,16 @@ transit position.
   East-African expansion (with Ethiopia and Tanzania). See [[infra.store]], [[dpi.exchange]],
   [[gov.protect]], [[TZA]].
 
+## Financing
+
+*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-21**.*
+
+**Non-state** — US$110m committed across 5 deals (2015–2025). Top financiers: Islamic Development Bank (IsDB) (US$56m), China Ministry of Commerce (US$23m), World Bank Group (US$20m). Leading subjects: `infra.connect`, `tech.industry`, `tech.innovate`.
+
+Instrument mix: Commercial loan 2, Concessional loan 2, Grant 1. **1 record here still carries the capture's unverified `Concessional loan` label**, so the mix is indicative rather than established: the World Bank portal does not separate an IDA credit from an IDA grant.
+
+**Domestic state** — *(pending that dataset)*.
+
 ## Active topics
 
 - [[dpi.id]] · [[gov.protect]] — **[[mobile-id-djibouti|Mobile ID]]** foundational identity on the

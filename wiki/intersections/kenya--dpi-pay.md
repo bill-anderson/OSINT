@@ -8,8 +8,8 @@ topics: [dpi.pay, gov.protect, finance.new, finance.mou, tech.ai, infra.cybersec
 entities: [[safaricom], [central-bank-of-kenya], [moniepoint], [kenswitch], [nairobi-securities-exchange], [visa], [odpc-kenya], [busha], [tether], [kenya-revenue-authority], [meta]]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-20
-sources: [[2026-04-02 Safaricom Introduces My OneApp to Simplify Payments, Accounts, and Service Access], [2026-04-02 WhatsApp tax filing set to pull millions into Kenya's tax net], [2025-09-22-mpesa-biggest-upgrade-decade-techcabal], [2025-11-26-safaricom-daraja-30-api-itweb], [2026-01-13-mpesa-blockchain-partner-itweb], [2026-01-28-mpesa-too-big-to-fail-techcabal], [2026-02-10-safaricom-nse-share-trading-mpesa-connectingafrica], [2026-03-20-mpesa-stop-sharing-phone-numbers-techcabal], [2026-04-02-moniepoint-enters-kenya-connectingafrica], [2026-04-03-kenswitch-visa-national-switch-techcabal], [2026-04-23-safaricom-sued-ai-mpesa-decisions-nation], [2026-05-08-fuliza-14-trillion-loans-nation], [2026-07-01-mpesa-next-financial-gap-credit-techcabal], [2026-07-14-dtb-safaricom-sim-swap-fraud-nation], [2026-05-31-telcos-warn-33pc-excise-tax-nation], [2026-07-20-busha-business-tether-stablecoin-infrastructure-africa], [2026-07-20-safaricom-financial-services-chief-exits-mpesa], [2025-11-06-safaricom-hy26-results-booklet], [2026-05-07-safaricom-fy26-results-booklet]]
+last_reviewed: 2026-07-21
+sources: [[2026-04-02 Safaricom Introduces My OneApp to Simplify Payments, Accounts, and Service Access], [2026-04-02 WhatsApp tax filing set to pull millions into Kenya's tax net], [2025-09-22-mpesa-biggest-upgrade-decade-techcabal], [2025-11-26-safaricom-daraja-30-api-itweb], [2026-01-13-mpesa-blockchain-partner-itweb], [2026-01-28-mpesa-too-big-to-fail-techcabal], [2026-02-10-safaricom-nse-share-trading-mpesa-connectingafrica], [2026-03-20-mpesa-stop-sharing-phone-numbers-techcabal], [2026-04-02-moniepoint-enters-kenya-connectingafrica], [2026-04-03-kenswitch-visa-national-switch-techcabal], [2026-04-23-safaricom-sued-ai-mpesa-decisions-nation], [2026-05-08-fuliza-14-trillion-loans-nation], [2026-07-01-mpesa-next-financial-gap-credit-techcabal], [2026-07-14-dtb-safaricom-sim-swap-fraud-nation], [2026-05-31-telcos-warn-33pc-excise-tax-nation], [2026-07-20-busha-business-tether-stablecoin-infrastructure-africa], [2026-07-20-safaricom-financial-services-chief-exits-mpesa], [2025-11-06-safaricom-hy26-results-booklet], [2026-05-07-safaricom-fy26-results-booklet], [2026-07-21-safaricom-financial-services-chief-resigns]]
 ---
 
 # Kenya × Digital Payments
@@ -66,8 +66,14 @@ trying to build interoperability and oversight around it without breaking it.
   tracking: the churn sits on the team that delivered Fintech 2.0 and is executing the
   savings/credit/investments expansion below. Safaricom publicises appointments but handles
   departures internally unless the CEO is involved. **No permanent successor or roadmap impact is
-  established as of 2026-07-20.** Source:
-  [[2026-07-20-safaricom-financial-services-chief-exits-mpesa]].
+  established as of 2026-07-21** — unchanged on a second account a day later, which adds the
+  destinations: the M-PESA Africa MD (who had also **briefly acted as CFSO**) left **2026-03-31** for
+  **Absa Group**, as chief executive of personal and private banking in Johannesburg, and the strategy
+  officer becomes CEO of **Stanbic Bank Kenya and South Sudan** on **2026-08-01**. Both moves are
+  **into banks**, which is the reading worth keeping: the financial-services layer of a systemically
+  critical payment rail is losing its senior people to the incumbents it competes with. Waititu joined
+  **February 2023**. Sources: [[2026-07-20-safaricom-financial-services-chief-exits-mpesa]],
+  [[2026-07-21-safaricom-financial-services-chief-resigns]].
 - **Core re-platforming — "Fintech 2.0" (2025-09).** [[infra.store]] Safaricom completed M-Pesa's
   **biggest core migration in a decade**, moving to a **cloud-native, microservices architecture** (hosted
   locally in Huawei Cloud) processing **6,000 TPS** at launch (old ceiling ~4,500), with headroom to
@@ -88,9 +94,17 @@ trying to build interoperability and oversight around it without breaking it.
   shares and corporate bonds from one share up — extending M-Pesa into retail equities (M-Pesa revenue
   **KES 182.7bn, FY-ended Mar 2026**, +13.4% YoY, 45.6% of Safaricom's Kenya service revenue; prior
   **KES 161.1bn, FY-ended Mar 2025**). Wealth-management AUM more than doubled to **KES 21.0bn (31 Mar
-  2026)**, of which **KES 18.7bn** is Ziidi. Sources:
+  2026)**, of which **KES 18.7bn** is Ziidi. **Counterparties (established 2026-07-21):** the product
+  was built with the **[[nairobi-securities-exchange|NSE]]**, the **Capital Markets Authority**,
+  **KASIB Kenya** and the **Central Depository and Settlement Corporation** — i.e. the market
+  infrastructure and its regulator, not an NSE-only arrangement — and it reaches **diaspora investors**
+  without a brokerage account, **minimum one share**. Launch date is **2026-02-10**. A **5 million+**
+  user figure for the **Ziidi savings** product is attributed to the departing CFSO **(as at
+  2026-07-21)**; **basis undefined** — it is not on Safaricom's published 30-day-active series and is
+  not comparable to it, so carry it as a company claim, not as state. Sources:
   [[2026-02-10-safaricom-nse-share-trading-mpesa-connectingafrica]],
-  [[2026-05-07-safaricom-fy26-results-booklet]].
+  [[2026-05-07-safaricom-fy26-results-booklet]],
+  [[2026-07-21-safaricom-financial-services-chief-resigns]].
 - **Data minimisation — number masking (2026).** [[gov.protect]] Safaricom is extending **phone-number
   masking** from P2P (from 24 Mar 2026) to **merchant payments and bank transfers by end-2026**, cutting
   the main channel by which numbers leak into spam/fraud — a multi-year data-minimisation programme

@@ -243,6 +243,18 @@ supervision centre for critical digital infrastructure.
   declarations at point of occurrence, tied to the unique identifier. → [[burkina-faso--dpi-id]]. Source:
   [[2024-11-13 Burkina Faso - digitalisation of birth declarations and civil status (VENEEM)]].
 
+## Financing
+
+*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-21**.*
+
+**Non-state** — US$470m committed across 8 deals (2016–2024). Top financiers: World Bank Group (US$208m), Export-Import Bank of China (US$171m), Bank of China (BOC) (US$87m). Leading subjects: `infra.connect`, `dpi.govtech`, `dpi.pay`.
+
+Instrument mix: Concessional loan 5, Grant 2, Commercial loan 1. **3 records here still carry the capture's unverified `Concessional loan` label**, so the mix is indicative rather than established: the World Bank portal does not separate an IDA credit from an IDA grant.
+
+**Domestic state** — *(pending that dataset)*.
+
+Material deals: [[2024-01-23-wb-bfa-001-burkina-faso-digital-acceleration-project]], [[2019-01-01-boc-bfa-001-bank-of-china-provides-7735-million]].
+
 ## Active topics
 
 - [[gov.policy]] · [[dpi.govtech]] — **PACTDIGITAL-BF** (12 projects by 2030,

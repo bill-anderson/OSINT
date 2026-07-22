@@ -6,6 +6,764 @@ Reporting): a few lines each, full detail in `log-archive.md` or git.
 
 ---
 
+## 2026-07-22 — update-wiki iteration 1, ingest: back-swing batch admitted (110 → 101 records)
+
+Drained the 110 back-swing deal records from `new/`. **101 admitted to `raw/`** (now 1,210 deal records);
+**9 dropped after adjudication**: 8 definite matches merged into held records — WURI-P2→`wb-reg-004` (drop,
+nothing new), WARDIP2→`wb-reg-012` (status→Approved, published promoted to 2026-03-11/day, file renamed),
+PAIF-PME→`wb-bfa-003` (envelope note + results line), RMB-ADC→`adc-zaf-rmb-expansion-2024`,
+Wananchi→`axian-ken-wananchi-acquisition-2025` (promoted to 2025-11-05/day, renamed, +UGA),
+CMR fibre Phase IV→`eximbank-cn-cmr-006` (drop, held is fuller), E-PFMRP II→`afdb-cpv-007` (signature line),
+Fayda $54m→`wb-eth-001` — plus 1 intra-batch Greenline/SOCATEL twin merged into `greenline-technologies-caf-2025`.
+1 contradiction filed: Cameroon video-surveillance Phase 1 (FCFA 44.9bn/2018 vs 45.9bn/2017-decree);
+`bank-of-china-cmr-2017` admitted as fuzzy cross-ref, not aggregate-countable. Batch validation: 0 vocab/schema defects.
+
+**Decisions:** (1) Fayda US$54m Super Agent procurement is a component procurement under the held US$350m
+envelope (P179040), not a separate deal — merged as a dev-history line, record dropped (double-count risk).
+(2) Deal records get **no per-deal entity-page source appends** — the 1,109-record load set that convention;
+hub/entity presence is the aggregate compile's job. (3) Two held-record renames for date promotion
+(`wb-reg-012`, `axian-ken-wananchi-…`); referring link in `places/XWA.md` rewired.
+Revert: `git checkout <sha> -- raw/ new/ wiki/ reviews/`.
+
+contradictions - 1 ; acquisitions - 0 ; awaiting ingest - 0 ; decisions logged - 3
+
+## 2026-07-22 — finance back-swing: 893 held finance sources structured into deal records
+
+Ran `finance-news-driver.md` back-swing over all **893** `raw/` items tagged `finance.new`/`finance.mou`
+without a `deal_id`. 15 parallel batch agents applied the five-fact gate; a two-agent consolidation then
+deduped and merged.
+- **110 non-state deal records** into `new/`, awaiting ingest (match-or-create) + `FINANCE-COMPILE`.
+  (146 built → 9 cross-batch twins deduped → **27 domestic-state removed** per Bill's ruling below.)
+- **~671 failed the gate — ~91% on fact 3 (no committed amount)**: MoUs, partnerships, product launches,
+  "plans to invest"/targets, market-size/valuation/aggregate figures. Rest: fact 1 (unnamed financier),
+  fact 4 (undated commitment), fact 5 (out of scope — health aid, e-mobility). ~50 held-in-full duplicates.
+- **26 dated update lines folded into 22 held deal records** (`## Development history`) — PACTDIGITAL
+  `wb-bfa-001`, PAFEN `wb-bdi-002`, Fayda `wb-eth-001`, Digital Eswatini `wb-swz-001`, Nigeria ID4D
+  `wb-nga-001`, Ghana `wb-gha-001`, PATN `wb-cog-001`, WARDIP2 `wb-reg-012`, Madagascar DECIM/PRODIGY,
+  Chad PMICE, Gabon, Cassava/Google, Microsoft ZAF, etc.; `afdb-cpv-007` status Pipeline→Approved; 8
+  candidate lines dropped as already-held, 1 (Fundo Morabeza) left as its standing fuzzy cross-ref.
+- Congo CAB data-centre "$13m vs $57m" — **not a contradiction**: the €13.8m is the data-centre line-item
+  within the €52.47m AfDB CAB package (resolved from a fuller source, folded into `afdb-cog-001`).
+
+**Decisions (judgment calls to review):**
+- **Domestic-state records excluded** (Bill's ruling 2026-07-22). The back-swing over-produced 27
+  `finance_origin: domestic-state` records (state appropriations/budgets/guarantees, not financier→recipient
+  deals); all 27 deleted from `new/`. **`finance-news-driver.md` amended** with an *Origin screen*: this
+  driver builds non-state records only; a domestic-state item is skipped (not a failure), awaiting the
+  dedicated domestic-state driver — the record template needs adjusting before such items are admitted.
+- **ANGEO-1 satellite (€225m)** recorded with financier = **Société Générale** (the lender, non-state),
+  the state being the recipient — per the spec's definition of financier as the party providing the money.
+- **Financier-slug drift** normalised to held `wiki/entities/` slugs (`exim-bank-usa`,
+  `bf-ministry-digital-transition`, `government-of-cote-d-ivoire`).
+- **Tagging gap:** held WB PADs that report financing but carry no `finance.*` tag (ZRHCP `PADHI00410`,
+  DZAP PAD `P505094`) are invisible to the back-swing — they need tagging to get deal records.
+
+contradictions - 0 ; acquisitions - 0 ; awaiting ingest - 137 ; decisions logged - 4
+
+## 2026-07-22 — finance: five-fact test named, news driver written, ingest branch wired
+
+Bill's review found the detection gate for finance records didn't exist: the spec was source-agnostic and
+deferred to "a news driver" that was never written, and `reference.md` §6 had no finance branch — so a news
+item reporting a commitment ingested as an ordinary source and never became a record, contradicting the
+spec's own "ingest is match-or-create, not the news bullet path".
+
+- **`wiki/finance-record-spec.md`** — new **five-fact test** section (financier / recipient place /
+  commitment amount / event date / taxonomy-matchable purpose) as the single named admission gate; core-fields
+  list demoted to a build guide.
+- **`finance-news-driver.md`** (new, repo root) — prose driver, back-swing + capture modes; prose failure
+  table, publication-vs-event-date and announcement-vs-commitment traps, `deal_id` construction, merge/create.
+- **`wiki/reference.md`** — §6 **step 2a finance branch** invoking it; step 4 amended so a passed deal isn't
+  also written as a dated fact.
+
+**Decisions.** (1) Bill's five are the gate; **`instrument` demoted from required to record-if-stated** —
+news reporting routinely omits it and it would have rejected sound candidates. (2) **Disbursed-only no longer
+admits a record** — the spec accepted "commitment *or* disbursed"; a disbursement evidences money moved under
+a commitment the source hasn't stated. Tightening, may exclude some initial-load rows — check on back-swing.
+(3) **Fact 5 failure now blocks the record**, replacing "flag the record for classification" — same defect one
+step later. (4) **Failing the test routes, doesn't reject**: the item stays a source with `finance.*` tags,
+absent from aggregates; date-failure alone goes to `_leads/`. (5) Test reads **recipient place**, not
+recipient org — a blank org stays normal (30% of load rows).
+
+Revert: `git revert` this commit restores the pre-branch §6 and deletes the driver; no data touched, no
+records built yet.
+
+contradictions - 0 ; acquisitions - 0 ; awaiting ingest - 0 ; decisions logged - 5
+
+## 2026-07-22 — update-wiki (daily-sweep hand-off): converged in 2 iterations, cap not hit
+
+Drained 20 candidates in `new/` — the 07-22 daily sweep's 9 staged + 11 of Bill's web-clips. Passes fired:
+**ingest ×2, acquire ×1, full lint ×1**; reconcile skipped (0 contradictions throughout). Serial thematic
+ingest chunks (one writer at a time, since concept pages + the 3 indexes are shared).
+- **Ingest (20 → )**: **14 admitted to `raw/`**; **4 dropped** (LemFi/BVNK + Rank compressions, Burkina already
+  held ×2, Carnegie an exact re-clip of a held source); **4 parked to `_leads/`** (SA LinkedIn opinion,
+  data4sdgs blog, Intwari prescriptive essay, Infos-IT AI-rewrite — all inadmissible origin). One clip (NPC)
+  was a mis-clip → re-captured verbatim from source before filing.
+- **Acquire (5 wanted)**: **2 acquired** (Smart Africa's own Africa AI Council release; Zambia Cyber Crimes
+  Act gazetted text) → ingested iteration 2; **3 dropped** with dated not-held lines (Kenya draft AI policy,
+  SA PSC/SITA report, Bloomwit *Navigating Nigeria 2027* report).
+- **Lint**: 1 vocabulary fix (off-vocab `lens: [analysis]` → `[]`), else clean; 0 contradictions surfaced.
+- Highest-value outcomes: the Smart Africa primary set an authoritative two-stage dated record and resolved
+  the Nov-2025-vs-Jul-2026 "launch" question (same event), correcting a "Kagame-chaired Council" error on 5
+  pages; the Zambia statute enriched the entity with real provisions (s.10 + Part III), correctly keeping the
+  blanket-interception mandate on the unheld Act No. 3.
+
+contradictions - 0 ; acquisitions - 0 ; awaiting ingest - 0 ; decisions logged - 16
+
+## 2026-07-22 — lint pass (post-ingest, scoped to the 07-22 sweep run's 14 raw files + touched pages)
+
+Full 15-check run; footprint-scoped acting + cheap corpus-wide greps.
+- #2 vocabulary — **1 fix**: `raw/2026-07-21-stablecoins-afcfta-cross-border-trade` `lens: [analysis]` (off-vocab) → `lens: []`. All other topics/places/lens across the 14 files vocab-clean.
+- #1 schema — 0; all 14 carry the full required set.
+- #12 brackets — 0; all 14 canonical `[[a], [b]]` (corpus grep: no `[[[` in any raw `.md`).
+- #11 date-prefix — 0; all 14 prefixed, each `published` matches its prefix.
+- #15 body_completeness — 0; all 14 `full`. (Legacy finance-DB stubs missing the field are pre-existing, left blank per §15 — not this run's footprint.)
+- #14 url-quality — 0; Smart Africa / Zambia Act PDF / Kenya-policy all document-specific, no bare domains.
+- #7 duplicates — 0 pruned. SA-SIM keep-both stands: held 07-20 TechCabal is the richer primary interview, new 07-21 Biometric Update is secondary but carries distinct payload (firm 07-01 start, Kenyan court cross-ref) — not equal, no churn.
+- #4 orphans/dead-links — 0; `africa-ai-council` in entities-index-organisations; intersections `nigeria--dpi-registry` and `zambia--infra-cybersec` both linked from parent place + concept.
+- #3 freshness — 0; new intersections dated at bullet level, census budget in ₦, no African-party own-currency commitment rendered as bare USD.
+- #9 contradictions — 0 filed; Smart Africa Nov-2025/Jul-2026 already resolved (same event), Zambia Act No.3-vs-No.4 written as resolved narrative.
+
+contradictions - 0 ; acquisitions - 0 ; awaiting ingest - 0 ; decisions logged - 0
+
+## 2026-07-22 — ingest chunk: 2 acquired primaries (AI Council + Zambia Cyber Crimes Act)
+
+Both admitted to `raw/` as enrichment/keep-both of already-covered objects (higher tier than the
+trade-press held). Pages touched: entities `africa-ai-council`, `smart-africa`, `cyber-security-act-zambia`;
+`places/XAF.md`, `places/ZMB.md`; `intersections/zambia--infra-cybersec.md`; `concepts/tech.ai.md`,
+`concepts/gov.regional.md`.
+
+**Decisions:**
+- **Africa AI Council — authoritative record set, two dated stages; no contradiction filed.** Smart Africa's
+  own release (2025-11-17) = the *formal establishment* (15 members named, six thematic areas, Conakry); the
+  already-held Kigali **Africa AI Declaration (2025-04-04)** = the *endorsement* ("under the Smart Africa
+  Steering Committee, co-chaired by the AUC and the ITU"). The two reconcile: Kagame chairs the **Board**
+  over the Council; the Council is **AUC/ITU co-chaired**. Corrected the flat "Kagame-chaired" gloss on
+  `africa-ai-council`, `smart-africa`, XAF hub, and the `gov.regional`/`tech.ai` mentions. The July-2026
+  Infos-IT "first AI council" framing (parked `_leads/` rewrite, no event date) is a re-report of the same
+  Nov-2025 event — resolved, **no contradiction**. *Revert: restore the prior one-line council bullets.*
+- **Zambia Cyber Crimes Act No. 4 — gazetted text ingested as 2025-04-15 instrument baseline, does NOT
+  outrank the 2026-07-18 enforcement event.** Enriched `cyber-security-act-zambia` + `zambia--infra-cybersec`
+  with the actual provisions now readable: **s.10** (recording a private conversation without notifying
+  parties — the clause behind the enforcement warning) + court-gated Part III powers (ss.27/30/31/32). Kept
+  the "intercept all communications / Central Monitoring Centre" mandate attributed to **Act No. 3** (text
+  not held) — it is *not* a provision of Act No. 4. Updated the ZMB hub 2026-07-18 entry (was "gazetted text
+  still not held — queued for acquisition"). Added assent/gazette/commencement dates (8 Apr / 15 Apr / 12
+  May 2025). *Revert: restore the "still not held" phrasing and drop the provisions block.*
+- **Concept pages for the Zambia Act (gov.legislate/infra.cybersec/gov.protect) left untouched** — the Act
+  is country-specific and those concepts don't carry the thread; the intersection is its correct home
+  (build-to-depth-on-demand).
+
+`contradictions - (unchanged) ; acquisitions - 00 ; awaiting ingest - 00 ; decisions logged - 03`
+
+---
+
+## 2026-07-22 — acquisition pass (5 items, all `[untried]`)
+
+**2 acquired, 3 dropped.** Acquired → staged to `new/` (2 clips, awaiting ingest): Smart Africa's own
+inaugural Africa AI Council release (smartafrica.org, 2025-11-17 — confirms the Nov-2025 formal
+establishment/unveiling of the 15-member council; resolves the "Nov-2025 vs July-2026 launch" question in
+Smart Africa's favour), and the Zambia Cyber Crimes Act No. 4 of 2025 gazetted text (parliament.gov.zm PDF,
+published 2025-04-15, full verbatim statute). Dropped (one automated attempt each, no parking): Kenya draft
+AI policy — `not-retrievable` (ict.go.ke notice + press link only to the pre-existing National AI Strategy
+2025–2030, not the draft); PSC SITA report — `js-shell` (psc.gov.za publications gallery exposes no report
+PDF); Bloomwit *Navigating Nigeria 2027* — `gated` (resources page serves only a blurb). Dated not-held
+lines added to `wiki/places/KEN.md`, `wiki/places/ZAF.md`, `wiki/places/NGA.md`. `acquisitions.md` drained
+to header. *Revert: delete the 2 `new/` clips; restore the "queued for acquisition" phrasing on the 3 hubs.*
+
+`contradictions - (unchanged) ; acquisitions - 00 ; awaiting ingest - 02 ; decisions logged - 01`
+
+---
+
+## 2026-07-22 — ingest chunk C2: analysis/opinion cluster, 6 files
+
+2 admitted to `raw/`, 3 parked to `_leads/`, 1 dropped. Pages touched: `concepts/tech.ai.md`,
+`concepts/gov.regional.md`, `concepts/gov.policy.md`, `places/XGL.md`, `places/XAF.md`, entities
+`itu`, `ai-for-good-global-commission`, `african-union`, `afcfta-digital-trade-protocol`,
+`reviews/acquisitions.md` (1 item). No entity pages minted (all tags on existing pages or off-watchlist);
+no index changes (all topics/places already on the touched pages).
+
+**Decisions.**
+- **Carnegie "US–Kenya Technology Prosperity Deal" (Munga, 2026-06-23) — DROPPED as duplicate.** Exact
+  same clip already fully held at `raw/2026-06-23 A Kenya Technology Prosperity Deal…` (body `full`, richly
+  tagged, lens sovereignty+colonialism; already reflected in `tech.ai` entities). Adds nothing. *Revert:
+  restore file to `new/`.*
+- **Geneva Digital Week "Sovereignty through collaboration" (Schoemaker, Global Policy Journal, 2026-07-15)
+  — ADMITTED as analysis.** Named analyst (Global Digital Governance Lab). Global-governance piece but with
+  a real African-sovereignty nexus (regionalism-as-autonomy thesis; Kenyan CS + African linguistic blocs).
+  Tagged `XGL` (honestly global, not forced onto an African country), `tech.ai`/`gov.regional`/`gov.policy`,
+  lens sovereignty; cited by author not as fact. *Revert: delete raw + the 3 concept/2 hub/2 entity appends.*
+- **"Stories shaping Africa's AI future" (Nyamnjoh & Timcke, Africa Is a Country, 2026-07-20) — ADMITTED as
+  analysis.** Established publication, named authors, eight-frames essay. Distinct from held 2020
+  "Algorithmic Colonisation" (which it builds on). `XAF`, `tech.ai`/`gov.policy`, lens colonialism+sovereignty.
+  Date 2026-07-20 confirmed via fetch (URL gave month only). *Revert: delete raw + appends.*
+- **SA "Digital Leap" (LinkedIn, Thabo Mboweni) — PARKED to `_leads/`.** One person's LinkedIn opinion, not
+  reporting; not Bill's own work → inadmissible as a source. In scope. Mined its PSC/SITA July-2026 report
+  claim → acquisitions. MyMzansi (watchlist) not paged — no admissible source here. *Revert: delete lead.*
+- **data4sdgs "Data: missing link to food security" (Mulenga fellowship blog) — PARKED to `_leads/`.** Soft
+  fellowship-program feature recapping Global Data Festival panel remarks; no dated first-hand development.
+  No specific primary to acquire. *Revert: delete lead.*
+- **Intwari News "How Rwanda Is Building a Sovereign AI Future" — PARKED to `_leads/`.** Unattributed
+  prescriptive "how Rwanda can lead" essay of generic responsible-AI boilerplate (SEO FAQ); no author, no
+  development. In scope. Nothing to mine. *Revert: delete lead.*
+
+## 2026-07-22 — ingest chunk C1: AI governance & cyber, 5 files
+
+3 admitted to `raw/`, 1 parked to `_leads/`, 1 dropped. Pages touched: `places/KEN.md`, `places/ZMB.md`,
+`places/NGA.md`, `concepts/gov.policy.md`, `entities/cyber-security-act-zambia.md`, `reviews/acquisitions.md`
+(4 items added). No entity pages minted (tag-only, off-watchlist); no index changes.
+
+**Decisions.**
+- **Burkina SPIVTEN MPs-AI-training (wearetech, 2026-07-21) — DROPPED as duplicate.** The 15 Jul 2026
+  training is already held by two fuller sources: `raw/2026-07-15-ia-deputes-formes.md` (Sidwaya, primary,
+  named officials + quotes) and `raw/2026-07-16-lawmakers-ai-training-spivten.md` (TechAfrica). The
+  wearetech piece adds only marginal timeline colour (2025–26 SPIVTEN campaign dates), no new fact about
+  the event. Deleted, not `_leads/`. *Revert: restore file to `new/`.*
+- **Infos-IT "Africa's first AI Council" (infos-it.fr, 2026-07-21) — PARKED to `_leads/`, inadmissible
+  origin.** Author bio openly declares AI-assisted content; piece is an essay-style rewrite with a
+  "Sources" list citing others (afrimag et al) — second-hand synthesis, not first-hand reporting. The
+  [[smart-africa]] page already records an Africa AI Council (Nov 2025), so the "launch" framing needs the
+  primary to date/reconcile. Smart Africa AI Council primary → acquisitions. Event date (Conakry gathering)
+  not establishable from body. *Revert: delete `_leads/2026-07-21-africa-first-ai-council-smart-africa-infos-it.md`.*
+- **Kenya AI & Emerging-Tech Policy consultation (Kahawatungu, 2026-07-21) — ADMITTED.** First-hand
+  reporting of a govt notice (Ministry of ICT & Digital Development; submissions due 4 Aug 2026). Distinct
+  instrument from `kenya-ai-bill-2026`. Draft policy text → acquisitions. Tagged `ministry-of-ict-digital-
+  development-kenya`, `kenya-ai-emerging-technologies-policy` (both tag-only). KEN hub + gov.policy bullet.
+  *Revert: delete `raw/2026-07-21-kenya-ai-emerging-technologies-policy-public-consultation.md` + bullets.*
+- **Zambia Cyber Crimes Act enforcement (Africa Business Insight, 2026-07-21; event Sat 2026-07-18) —
+  ADMITTED as the dated enforcement-commencement report.** Straight reporting of a Ministry of Information
+  & Media statement; not on drop-list. Same-instrument update, not dup of the 2026-07-15 journalists item.
+  Appended to `cyber-security-act-zambia` (which already covers Act No. 4). Act's gazetted text →
+  acquisitions. ZMB hub bullet at event date 2026-07-18. *Revert: delete
+  `raw/2026-07-21-zambia-cyber-crimes-act-enforcement-begins.md` + ZMB bullet + sources append.*
+- **Nigeria Bloomwit deepfake report (TechTrends, 2026-07-18) — ADMITTED as reporting-about-a-report.**
+  Compiled as the dated development only; report figures attributed, not compiled (several garbled in
+  capture — noted in-file). Bloomwit *Navigating Nigeria 2027* → acquisitions. Tagged `bloomwit-africa`
+  (tag-only). NGA hub bullet. *Revert: delete `raw/2026-07-18-nigeria-deepfake-election-bloomwit-report.md`
+  + NGA bullet.*
+
+---
+
+## 2026-07-22 — ingest chunk B: payments & fintech (dpi.pay / finance), 6 files
+
+4 admitted to `raw/`, 2 dropped. Pages touched: `places/ZAF.md`, `places/XAF.md`, `places/NGA.md`,
+`concepts/dpi.pay.md`, `concepts/finance.mou.md`, `concepts/finance.new.md`, `concepts/gov.regional.md`,
+`concepts/include.access.md`, `concepts/tech.industry.md`. No entity pages minted; no index changes
+(no new pages; tag-only entities left to the entity pass).
+
+**Decisions.**
+- **eZi Remit × Mastercard (Tech Africa News, 2026-07-21) — admitted.** Mastercard-led/vendor-framed but
+  a real development: SA remittance fintech going live on Mastercard Move across 25 corridors. Tagged
+  `ezi-remit`, `mastercard`; ZAF. The ~8.37% SSA / 13.4% bank remittance-fee figures are World Bank
+  reference figures — cited dated, not promoted into page state. *Revert: delete
+  `raw/2026-07-21-ezi-remit-mastercard-cross-border-payments-africa.md` + ZAF bullet.*
+- **Stablecoins/AfCFTA (TechCabal, 2026-07-21) — admitted as analysis** (`lens: [analysis]`, kept per the
+  chunk brief). Named experts Ayodele (Blaaiz)/Olivier (Forvis Mazars); cited by author, not self-
+  corroborating. Genuine new payload over held stablecoin coverage: exchange-control-not-crypto-reg is
+  the real barrier; ~15–18% SA intra-African trade. Bullets on XAF + ZAF. *Note: `analysis` is not in the
+  reference.md lens vocab (sovereignty/colonialism); retained because the contract instructs tag-as-
+  analysis — flag for Bill. Revert: delete `raw/2026-07-21-stablecoins-afcfta-cross-border-trade.md` + 2
+  bullets.*
+- **Zazu (wearetech brève, 2026-07-22) — admitted, thin.** SME fintech funding fact from Launch Africa
+  Ventures; no amount/stage. Fixed malformed `entities:` brackets (`[[launch-africa-ventures]]`→canonical).
+  Not a dup. *Revert: delete `raw/2026-07-22-afrique-du-sud-zazu-financement-launch-africa.md` + ZAF line.*
+- **CREDICORP CLICKD (wearetech brève, 2026-07-22) — admitted.** Device-financing (locally-assembled
+  laptops, instalment credit) with the Ministry of Digital Economy — real digital-inclusion + local-ICT
+  layer, in scope. Used canonical slug `credicorp` (matches held `2025-06-17-credicorp-nin...`); added
+  `dpi.pay` tag. NGA bullet. *Revert: delete `raw/2026-07-22-nigeria-credicorp-clickd-credit-ordinateurs-locaux.md` + NGA bullet.*
+- **LemFi × BVNK (wearetech brève) — DROPPED (deleted).** Compression of a story the sweep already rejected
+  as inadmissible Partner/Press-Room PR (TechCabal/TC Daily); stablecoin-settled remittances already held
+  (Visa/Onafriq/Yellow Card). No independent payload. Untracked file, so hard-delete loses nothing.
+- **Rank tontines (wearetech brève) — DROPPED (deleted).** Compression of the fuller English original
+  already in `raw/2026-07-21-rank-community-finance-products-nigeria.md` (Money Circles/Tribe/Rank Perks,
+  $100M paid, AjoMoney acquisition). Adds nothing.
+
+contradictions - 0 ; acquisitions - 0 ; awaiting ingest - 11 ; decisions logged - 6
+
+---
+
+## 2026-07-22 — ingest chunk A: identity & civil registration (dpi.id / dpi.mis), 3 files
+
+Three admitted to `raw/`. Pages touched: `places/NGA.md`, `places/ZAF.md`,
+`concepts/dpi.id.md`, `intersections/nigeria--dpi-id.md`, `intersections/nigeria--dpi-registry.md`,
+entities `nimc`, `nitda`, `npc-nigeria`, `e-crvs-nigeria`, `act-south-africa`,
+`home-affairs-south-africa`, `entities-index-mentioned.md`.
+
+**Decisions.**
+- **NIMC (Biometric Update, 2026-07-21) — admitted, but most payload was already held.** Its ICAO-PKD
+  accession and NIMC-root-CA content duplicate held `2026-07-16` items, and NIN-health duplicates
+  `2026-07-19`. Admitted for the genuinely new payload: **V-Pass** (FAAN + Verxid air-travel NIN+face
+  credential) and the **NITDA→NIMC PKI/Root-CA handover** framing. Fixed malformed `entities:` brackets
+  to canonical form. *Revert: delete `raw/2026-07-21-nigeria-nimc-new-duties-digital-ecosystem.md` and
+  the two NGA-hub/intersection bullets.*
+- **NPC birth/death (Nigerian CommunicationWeek/NAN) — admitted as an update; body was a mis-clip.**
+  The web-clip's stored body was an unrelated PFIPC/CBN article; only its top excerpt matched. Re-captured
+  the **verbatim NAN wire text** from the URL and replaced the body (`body_completeness: full`).
+  `published:` was blank → established **2026-07-22** from the page dateline (briefing "Tuesday").
+  It is the **nationwide rollout** (from 2026-07-01) of the e-CRVS platform Tinubu launched Nov 2025 —
+  new facts: **VitalReg** platform name, **Barnks-forte Technologies** PPP, **4,011→8,000** centres,
+  **57% birth / <20% death** coverage (2026-07), ≥1-parent-NIN requirement. *Revert: delete
+  `raw/2026-07-22-npc-nationwide-digital-birth-death-registration.md` + entity/hub bullets.*
+- **SA SIM/RICA (Biometric Update, 2026-07-21) — kept both, not dropped.** It is a secondary
+  re-report of the held fuller primary `2026-07-20-south-africa-sim-registration-rica-digital-id`
+  (TechCabal, first-hand ACT-CEO interview), which it cites. Leaned drop, but it carries a genuine new
+  operative date — **framework implementation started 2026-07-01** — plus MTN biometric deployment and
+  the eSIM vector, and `new/` files are untracked (a drop-delete would be unrecoverable), so the
+  conservative call was keep-both: admitted and folded into the existing ZAF RICA entry. Fixed entity
+  slugs (`association-of-communications-and-technology`→`act-south-africa`,
+  `dept-home-affairs-south-africa`→`home-affairs-south-africa`); **dropped the `mtn` tag** (a one-line
+  example mention, not an actor). *Revert: delete `raw/2026-07-21-south-africa-sim-registration-identity-fraud.md`
+  + the ★ corroboration sentence on ZAF.*
+- **No entity pages minted.** NIMC crosses the ≥3-source bar and warrants eager upkeep, but minting is
+  the periodic entity pass, not the ingest hot path; tagged only. New tag-only entities (Verxid, FAAN,
+  Barnks-forte, V-Pass, VitalReg) recorded in the mentioned shard.
+
+contradictions - 0 ; acquisitions - 0 ; awaiting ingest - 17 ; decisions logged - 4
+
+---
+
+## 2026-07-21 — deal_id casing normalised
+
+22 `deal_id` values carried uppercase segments from the capture (`itu-REG-…`, `undp-ETH-…`, `PRESS-CHN-…`). Lowercased in frontmatter, in the `| Deal ID |` body row, and in the run log; **frontmatter and table now agree on all 1,109 records**, and no collisions arose. Filenames were already lowercase — the loader lowercased the filename but not the field — so nothing was renamed and no link broke.
+
+**Decisions.**
+- **Four verbatim mentions left as captured** — the capture's own prose ("see also REG row undp-REG-timbuktoo-2024", a Club of Mozambique note). Those are source words, not our key, and the verbatim rule covers them. It does mean a cross-reference inside a note still carries the old casing, so **lookups on `deal_id` should be case-insensitive**, not merely case-corrected.
+- **The source CSV is left untouched.** It is input, not our store of record; normalisation belongs at build.
+- **Loader fixed at four further comparison sites**, not just the build path. `done_ids` is now lowercased on both sides — otherwise the next resume would have failed to match an uppercase CSV id against a lowercased file and **rebuilt those 22 records as duplicates**. The same latent fault would have made a `DROP`/`RETAG` key silently miss.
+
+*Revert: 22 files plus the run log; each change is a pure case fold.*
+
+contradictions - 0 ; acquisitions - 0 ; awaiting ingest - 0 ; decisions logged - 3
+
+---
+
+## 2026-07-21 — XSS given full place status; 10 deals re-tagged off it
+
+Bill's ruling: `XSS` is not tag-only, provided it does not duplicate `XEA`/`XWA` and the rest.
+
+**Duplication checked first, and there is none.** Every finance record carries exactly **one** place tag, and the compile aggregates **by literal tag**, so `XSS`'s total is not also sitting in the sub-region hubs. Grand total held at **US$57.57bn** across all three re-compiles — money moved between hubs, none created or lost.
+
+**The real exposure is the rollup, not the page.** `XSS` is defined by rule as all `XAF` children except `XNA`, so it *contains* `XEA`/`XWA`/`XSA`/`XCA`. Anything that sums the sub-regions into an `XSS` total would double-count every deal already tagged `XSS`. Written into `reference.md` §1 as an explicit prohibition, with the safeguard placed on the tagging side.
+
+**Decisions.**
+- **`reference.md` §1 amended**: `XSS` and `XGL` are groupings with hub pages, compiled like any other place; the "neither has a page" clause is withdrawn. Tagging rule stated — an item scoped to **one** sub-region takes that sub-region's code; `XSS` is for genuinely pan-SSA items or those spanning **two or more**.
+- **§9 whitelist entry withdrawn** for both codes. All eight `X__` links now resolve, so they are no longer intentionally dead.
+- **10 deals re-tagged off `XSS`** to the sub-region they actually cover: 5 to `XWA` (Maroc Telecom West Africa cable, WAMZ, two WAEMU/UEMOA operations, Cauridor), 4 to `XEA` (three BMZ East Africa programmes, DIGEAT), 1 to `XCA` (ITU Central Africa benchmarking). `XSS` 307 → 297 deals, US$19.74bn → US$19.53bn; `XWA` 13 → 18; `XEA` 18 → 22; **`XCA` gains its first**, so the compile now covers **53** hubs.
+- **Deals spanning two or more sub-regions deliberately left on `XSS`** — the East-and-Central fibre roll-out, WIOCC East & Southern, "West Africa and Madagascar", COMESA, and the EU Eastern/Southern/Indian Ocean action. That is what `XSS` is for.
+
+*Revert: the ten `places:` lines, each of which carries a dated note explaining the move.*
+
+**Noted:** 22 `deal_id` values carry uppercase segments (`itu-REG-…`, `undp-ERI-…`), which broke a case-sensitive lookup during this work. Cosmetic, but worth normalising in the loader before the next load.
+
+contradictions - 0 ; acquisitions - 0 ; awaiting ingest - 0 ; decisions logged - 4
+
+---
+
+## 2026-07-21 — Finance compile: 52 place hubs
+
+First run of `FINANCE-COMPILE.md`. Aggregated the 1,109 non-state deal records in `raw/` onto **52** place hubs — every place carrying finance records already had a hub, so none was minted. `## Financing` inserted after `## Recent developments`, nothing else touched.
+
+**US$57.57bn committed across 1,109 deals**, each section dated *as of 2026-07-21* since totals are time-varying. Concentration: XSS US$19.74bn/307, ZAF US$7.28bn/54, NGA US$3.61bn/61, ETH US$3.16bn/34, KEN US$2.12bn/66, XAF US$1.51bn/167.
+
+**Aggregate, not bullets — which was the point.** 1,109 per-deal bullets would have broken §8 on five hubs at once. **105 individual deals** are named across all 52 hubs (2 per hub on average) at the §5 deal bar — ≥US$100m, or multi-party and ≥US$50m, capped at 6 — and all 105 links resolve. Largest hub after the compile is ZAF at 7,055 words, within where it already sat.
+
+**Decisions.**
+- **Instrument mix is published with its own caveat where it is not established.** 59 records still carry the capture's unverified `Concessional loan` label, so any hub containing them says the mix is indicative and why. A hub reporting "mostly concessional loans" would repeat the capture's guess as a finding.
+- **Disbursement deliberately not aggregated.** 410 records have no figure and 217 more carry an unaudited zero; a disbursement total would read as precise and would not be. The pass file asks only for committed, which is sound.
+- **Totals are a sum of the USD field only**, never a restatement across currencies — each record still carries its own `Original amount` in the announcing party's currency.
+
+**Noted, not acted on:** `reference.md` §9 lists `XSS` and `XGL` as tag-only codes "meant to have no page", but `wiki/places/XSS.md` exists and is now a compiled hub. The whitelist entry is stale for XSS.
+
+contradictions - 0 ; acquisitions - 0 ; awaiting ingest - 0 ; decisions logged - 3
+
+---
+
+## 2026-07-21 — Lint: full pass, 15 checks
+
+Run inside update-wiki after the finance ingest. Corpus is now **5,872** sources and 2,160 wiki pages.
+
+`#1 schema` 3 missing `url` (folded into #14) · `#2 vocabulary` clean · `#3 money` clean on the new corpus — the loader carries `Original amount` in the announcing party's currency beside every USD figure, so the narrow defect does not arise · `#4 dead links` 38 residue, band ≥10 **empty**, unchanged from this morning's closed pass; 272 of the 380 apparent refs are whitelisted `sovereignty`/`colonialism` · `#5 untagged` clean · `#6 inadmissible` none · `#7 duplicates` 1 cluster · `#8 bloat` 61 pages, unchanged · `#10 stranded` 0 · `#11 date prefix` clean · `#12 link lists` 6 normalised · `#13 leaks` 0 · `#14 url quality` 27 worked · `#15 body_completeness` 65 set.
+
+**Decisions.**
+- **The Malawi IDT4M pair is co-financing, not duplication** — the European Commission and UNDP each committed to the same programme. Both kept and cross-referenced; dropping either would have deleted a real commitment from the aggregate. *Revert: delete the cross-reference notes.*
+- **1,109 finance records deliberately left without `body_completeness`.** The spec omits the field where the primary was not fetched, and these are dataset-derived. Stamping `full` would assert a document capture that never happened — the value the paywall gate and the dedup tiebreak both trust.
+- **USTDA cohort: `published` left as the commitment year** though announcements run 6–18 months later. That is #3's business and the gap is systematic, so it is recorded on all 14 records rather than silently changed.
+- **The Giga US$47.6m is recorded as unestablished**, not as a contradiction: its `url` is a bare domain with no recoverable document, and the differing US$1.7bn figure sits in a source the wiki does not hold. Two figures that may measure different things, neither on file, is a vacuum — not a dispute.
+
+**Errors of mine, caught and fixed.**
+- **A `body_completeness` heuristic that was a guess, not marker evidence.** I added a "mid-sentence cut" test beside the sanctioned marker match; it fired on any body not ending in terminal punctuation, so complete articles ending in a byline or editor credit were labelled truncated. It produced 67 excerpt against 18 full — implausible enough to check. Re-run on markers alone: **48 of 49 excerpt calls were wrong**, corrected to 64 full / 1 excerpt.
+- **I declared a running subagent dead.** Its transcript file was 0 bytes and 17 minutes stale, so I reported it stalled and began redoing its work. It was mid-run and finished normally after ~19 minutes and 88 tool calls. Had I not been asked, I would have clobbered 15 verified URL recoveries. **A 0-byte transcript is not evidence of death.**
+
+**#14 in detail (27 files).** 7 standing-object carve-outs left with the bare domain, as the check requires. **15 recovered**, four by **byte-identity** against the held artefact — CHIP Senegal (529,302 bytes, confirmed live at 200), the Ghana Lands Commission deck, the Club de Madrid DPG paper, and the Gambia data policy, which 404s live and was proved through a Wayback capture. 5 left unrecovered with dated notes saying what was tried.
+
+**Two integrity findings from that work.**
+- **8 of 13 USTDA IATI identifiers resolve to nothing** while 5 in the same batch resolve normally, so the endpoint works and those identifiers do not. Records with a bare-domain URL *and* a non-resolving identifier have **no verifiable primary**; flagged as unconfirmed capture output rather than fact.
+- **The USTDA Ghana "Equatorial Telecom" record looks spurious** — USTDA's own Ghana IATI file holds no telecom activity at all, and the stored ID's `GH5` segment breaks the `GH1` pattern every sibling follows. Flagged whole, not just its URL.
+
+contradictions - 0 ; acquisitions - 0 ; awaiting ingest - 0 ; decisions logged - 4
+
+---
+
+## 2026-07-21 — update-wiki: 3 iterations, closed clean
+
+Manual run. **Iteration 1** — ingest skipped (`new/` empty), reconcile drained 4 contradictions, acquire skipped (queue empty at read time). **Iteration 2** — acquire drained the 3 items reconcile had added, staging 4 clips. **Iteration 3** — ingest drained those 4; all three queues read zero; loop broke. Then the full lint. Cap not hit.
+
+The loop earned itself this run: reconcile fed acquire, and acquire's retrieval then **overturned a reconcile resolution from the same day** — Mozambique EDGE's US$150m and its MCTES implementer both superseded by February-2025 restructuring papers. A single pass of the three would have left the wiki stating a figure that had been cancelled and an implementer that no longer exists.
+
+contradictions - 0 ; acquisitions - 0 ; awaiting ingest - 0 ; decisions logged - 4
+
+---
+
+## 2026-07-21 — Acquire: 3 items, 3 acquired, 0 dropped; then ingest of the 4 clips
+
+Acquisition pass on the three primaries reconcile surfaced. All three retrieved — the World Bank `documentdetail` portal serves a JS shell, but the WDS API yields the document GUID and the Bank's own text rendition serves the full body directly. Staged as **4** clips (the Mozambique item is two disclosed documents with separate GUIDs, filed separately) and ingested to `raw/`.
+
+**The acquisition overturned a resolution written earlier the same day.**
+- **Mozambique EDGE — US$150m is no longer current.** The February-2025 restructuring paper (RES00782) and the D906-MZ letter amendment cancel **US$4.2m** of unused CERC funds (SDR 105,000,000 → SDR 101,776,669.22, effective 10 Feb 2025), leaving a **net IDA commitment of US$137.85m (Feb 2025)** — the gap is wider than the cancellation because the SDR-denominated grant has drifted against the dollar since 2021. Also: **Component 3 (Govtech Business Ecosystem, US$30m) was dropped** at an earlier restructuring and the PDO revised, and **MCTES — which this morning's reconcile had just established as the implementer — has been disbanded**, its role passing to a new Ministry of Digital and Communications. `wiki/entities/edge-mozambique.md` rewritten dated; the deal record carries the supersession in its development history.
+- **Burundi — two measures, both right.** PAD5527's total project cost reads 61.00 + 42.00 = **US$103.0m**; the **IDA commitment** is 50 + 42 = **US$92m**. The parent's US$61m already includes US$11m of unguaranteed commercial financing. Recorded explicitly so the next reader does not treat them as a conflict.
+
+**Decisions.**
+- **Mozambique item filed as two sources, not one** — two disclosed records, separate GUIDs, different document types. `raw/` is one file per document.
+- **The press release's date is not the event date** — it reports a board approval PAD5527 dates to 6 December 2023, five weeks earlier. Recorded on the clip.
+- **A drafting error in the Bank's own letter preserved verbatim and flagged**: the operative paragraph says "the amounts allocated to Category (1)" then itemises a sum from Category (2). The withdrawal table and the restructuring paper both confirm Category 2. Not corrected in the capture — it is the source's error, and silently fixing it would misrepresent the document.
+
+contradictions - 0 ; acquisitions - 0 ; awaiting ingest - 0 ; decisions logged - 3
+
+---
+
+## 2026-07-21 — Reconcile: 4 researched, 4 resolved, 0 unresolved
+
+All four of the finance-load contradictions closed on primaries. One source ingested: the World Bank appraisal document for Digital Eswatini (PADHI01184, 8 June 2026), full verbatim.
+
+**Two of my four briefs framed the question wrongly, and the corrections are the useful part.**
+- **Eswatini** — US$19.7m was never a rival figure to US$65m; it is the **IDA credit slice** of a US$65.0m package (US$45.3m IBRD + US$19.7m IDA), and the record's approval date was right. The capture's provenance was sound, its scoping was not. The PID's US$65.16m was US$65.00m plus a US$0.16m gap that appraisal closed — the size never moved, so no dated prior is kept. Enrichment failed because the v2 projects API does not carry this operation; v3 WDS does.
+- **Burundi** — not the transcription slip the brief proposed. Parent P176396 is US$50m; additional financing **P180987** added US$42m in January 2024; 50 + 42 = 92 independently. **The World Bank files additional financings under their own project IDs, so a parent's `idacommamt` never absorbs them** — the record is right as a record of P176396 and was not overwritten. Any future finance load meets this pattern again.
+- **Mozambique** — neither competing value was right: the implementer is **MCTES**, with INAGE and INTIC supported rather than implementing. Digital identity is central to the project (PDO leads on legal identification; Component 2 is US$70m of US$150m), so `Digital ID flag` corrected to TRUE and `dpi.id`/`dpi.govtech` added — the deal had been absent from digital-identity views entirely. Instrument is an IDA grant, not a concessional loan.
+- **WARDIP SOP1** — record named seven countries, PAD4756 names four. Corrected, with the wrong text preserved inline. The same fault found on **wb-reg-003 and wb-reg-005**, where a neighbouring operation's or the next phase's roster was imported. **The feared propagation did not happen:** all regional records carry XWA/XEA place codes, never per-country, so no country hub was contaminated.
+
+**Decisions.**
+- **My own loader truncated enriched values at 120 characters**, silently cutting implementing-agency lists — Mozambique showed three of seven entries. Fixed in the loader; **14 other affected records flagged** to be re-read before use. *Revert: restore `[:120]`.*
+- **Three primaries found but not held** routed to acquisitions: PAD5527, the Burundi press release, and the Mozambique restructuring/partial-cancellation papers — the last because they may mean US$150m is no longer current.
+- **One conflict left open deliberately** on the Eswatini record: the PAD says Phase III, the Stakeholder Engagement Plan and the Bank's own practice director say Phase 2. That is a conflict inside World Bank materials and is recorded, not picked.
+
+contradictions - 0 ; acquisitions - 3 ; awaiting ingest - 0 ; decisions logged - 3
+
+---
+
+## 2026-07-21 — Ingest: 1,109 finance records admitted to `raw/`
+
+`new/` drained. Records admitted per `finance-record-spec.md` (*Ingest is match-or-create, not the news bullet path*) — **no per-deal hub bullets written**; hub presence is the compile's job.
+
+**Duplicate screen.** Zero genuine duplicates within the load. **23 definite matches** against held sources by shared project number, adjudicated on both sides: **18 real merges, 9 mention-only rejections**. The WARDIP appraisal document matched seven records but appraises only one — the rest are abbreviation-list and lessons-learned citations that the shared-key rule alone would have merged falsely. A further **10 definite and 8 fuzzy** matches came from a scored similarity pass over 235 remaining candidates (22 unrelated); fuzzy matches are cross-referenced, not merged, and are **not counted as distinct deals in the aggregate**. 24 records gained dated, attributed `## Development history` lines.
+
+**Decisions.**
+- **46 EC `project_id` values were Excel-corrupted to scientific notation** (`2.02E+12`, `2.02E+13`) — clean IDs in that series are 10-digit numbers, and the digits are unrecoverable. It is both a false value and a definite-match key: left alone it would have merged 38 unrelated EC projects into one deal. Suppressed with a flag on 38 admitted records; fixed in the loader. *Revert: restore `r['project_id']` in the deal table.*
+- **74 of 75 World Bank rows carried `Instrument: Concessional loan`** — a blanket capture label. Verified against the World Bank portal for all 75: **7 are IBRD loans and not concessional**, 1 is a pure grant. Corrected on 11 records where a portal or held primary establishes the instrument; **61 flagged unverified rather than reclassified**, because the portal's `idacommamt` does not separate an IDA credit from an IDA grant — CAR reads `ida=35m, grant=0` while its own PAD documents a grant. *This matters for the compile: an instrument mix reporting "mostly concessional loans" would repeat the capture's guess as a finding.*
+- **Three divergences treated as supersession, not contradiction** — Nigeria's closing date, WURI's partial status after the Guinea component closed early, Gabon's unsupported 2028 end year — noted dated on the records.
+
+**Contradictions opened — 4.** Digital Eswatini (US$65.16m and E1.2bn/~US$65m from two independent sources against the record's unverified US$19.7m; its portal lookup was one of only two failures in the load); WARDIP SOP1 participating countries (record names seven, PAD4756 names four, overlapping only on Guinea — would have pushed committed money onto six hubs that never received it); Burundi PAFEN US$50m vs a held "~$92m" that is the Chad figure from the same batch; Mozambique EDGE implementing agencies, where the record also carries `Digital ID flag: FALSE` for a project the PID centres on foundational identity.
+
+contradictions - 4 ; acquisitions - 0 ; awaiting ingest - 0 ; decisions logged - 3
+
+---
+
+## 2026-07-21 — Non-state finance load, rerun onto the new record shape
+
+`new/` cleared and rebuilt against the amended spec (`finance_origin`, `## Development history`) plus `FINANCE-COMPILE.md`. **1,109 records, 14 dropped, 0 errors**; the 25 leads from the first run were left in place and skipped as done. Nothing ingested.
+
+**Verification clean across all 1,109:** `finance_origin: non-state` on every record, `## Development history` on every record, zero invalid taxonomy slugs, zero invalid place codes, zero filename/`published` mismatches, zero records without a subject slug.
+
+**Enrichment:** 528 succeeded (456 d-portal, 72 WB search API), 41 failed, 540 had no route; 68 records at day precision, no year-disagreement rejections. The small shift against the first run (465 d-portal → 456) is the 14 out-of-scope rows no longer being fetched.
+
+**Decisions.**
+- **This morning's two rulings are now in the loader, not applied afterwards.** The 14 out-of-scope drops and the 26 curated subject slugs were hand-fixes on the first run, so a rerun would have silently reintroduced both. They are now tables in the build, and the no-match path leaves the subject blank with a `NEEDS CLASSIFICATION` flag instead of defaulting. Zero records hit that path — the table covers all 40. *Revert: drop the DROP/RETAG tables from the loader.*
+- **`disbursed_usd: 0` is suppressed on completed deals — 20 records.** 237 rows carry a zero; 20 of those are marked Completed, and a completed deal that disbursed nothing is not credible, so zero there is an unknown wearing a number (the CSV uses blank separately on 410 rows). Those render blank with a flag; a genuine zero on a live deal is kept. Spec: never write `0` for an unknown. *Revert: restore `usd(r['disbursed_usd'])` in the deal table.*
+
+**Flag for the compile pass.** `FINANCE-COMPILE.md` step 1 sums committed USD, which is sound. Disbursement is not yet safe to aggregate: 410 rows have no figure, 217 more carry an unaudited zero, and `amount_quality` mixes `Rounded` with exact values without the section saying so. A disbursement total would read as precise and would not be.
+
+contradictions - 0 ; acquisitions - 0 ; awaiting ingest - 1109 ; decisions logged - 2
+
+---
+
+## 2026-07-21 — Finance records: store, immutability, merging, rollup home
+
+Design rulings for the finance dataset (govern `finance-record-spec.md`).
+
+**Decisions.**
+- **Finance deal records live in `raw/` as the living store of record** — a scoped
+  exception to `raw/` immutability: they accrete later reporting rather than
+  spawning a page per event. *Revert: treat them as ordinary immutable sources.*
+- **Compilation is aggregate, in a hub Financing section** (total committed, count,
+  date range, top financiers, instrument/subject mix), never one bullet per deal;
+  individual deals surface only at the entity-page bar. The **forthcoming domestic
+  state-financing** dataset shares the *same* hub section, split by origin
+  (non-state vs domestic state) — the section is origin-neutral, both drivers feed
+  it.
+- **Merging later reporting: definite matches only.** Shared `project_id`/
+  `iati_project_id` or unambiguous same-deal identity → merge added-value detail
+  only (dated, attributed, in a `## Development history` section), contradictions
+  to reconcile. Fuzzy matches are cross-referenced, never merged, not counted in
+  the aggregate. Same rule governs initial-load overlaps with held finance.
+
+Spec updated (store-of-record/merging section, hub-Financing rollup,
+Development-history in template). No records moved yet; 1,109 still in `new/`
+awaiting the finance-compile pass.
+
+contradictions - 0 ; acquisitions - 0 ; awaiting ingest - 1109 ; decisions logged - 3
+
+---
+
+## 2026-07-21 — Non-state finance load: 1,109 records built into `new/`
+
+`finance-load-nonstate-csv.md` run over the whole 1,148-row CSV. **1,123 built, 25 leads, 0 build errors**; then a post-build scope and tagging pass removed 14 and re-tagged 26. **`new/` holds 1,109 finance records.** Nothing ingested yet.
+
+**Verification clean across all records:** zero invalid taxonomy slugs, zero invalid place codes, zero filename/`published` mismatches, zero proxy dates (`date_source: source` on all 1,123).
+
+**Enrichment:** 537 succeeded (465 d-portal, 72 WB search API), 41 failed, 545 had no route. 68 records raised to `date_precision: day` from a verified board-approval date whose year agreed with the source; **year-disagreement rejections: 0**. Remaining 1,055 stay at year precision.
+
+**Leads (25, not records):** 23 failed the provenance gate — `source_url` pointed at dropbox.com, i.e. the capture's own working store, not a primary; 2 had no commitment or start year (Bill's ruling this morning).
+
+**Decisions.**
+- **14 records deleted as out of scope**, not parked (CLAUDE.md → *The material*): 7 European Commission civil-society contracts (gender-based violence, counter-terrorism, natural-resource governance, social cohesion, women's economic empowerment) and 7 Gates/other grants on teen-girl health, maternal mortality, EU development-policy research and general advocacy. These carry no digital or data content; the CSV's scope is looser than the wiki's. *Revert: `git checkout` the 14 files listed in the run log with `enrich=dropped`.*
+- **26 records re-tagged off a defaulted slug.** The loader fell back to `tech.industry` where the crosswalk left the subject blank ("infer from title/description") and no keyword rule matched — a guess, which the spec forbids. Each now carries a slug justified by a quoted phrase from its own source text. *Revert: run log rows whose warnings say "slug inferred from source text".*
+- **Loader defaults are unsafe by construction.** Recorded as a spec point below; a no-match should flag, never fill.
+
+**Standing gaps.** 344 records (31%) have no recipient in the source — financier-only tag plus a `recipient unspecified` note, per this morning's ruling. 148 sit on `confidence=review` crosswalk rows. Four financier slugs are new to the wiki (`bank-of-china`, `enabel`, `isdb`, `proparco`) — entity-pass work, not ingest work.
+
+contradictions - 0 ; acquisitions - 0 ; awaiting ingest - 1109 ; decisions logged - 3
+
+---
+
+## 2026-07-21 — Daily sweep (run B) → update-wiki: 18 sources, 1 contradiction opened and closed
+
+First end-to-end chain: sweep staged **17** into `new/`, step 8 handed to update-wiki, **iteration 1** ingest → **iteration 2** reconcile (on a contradiction the ingest itself raised) → queues zero → lint.
+
+**★ The sweep's real output is a correction to this morning's run, not the yield.** 17 staged from an effective **4½-hour** slice — more than run A staged from **58 hours**. Two listings had served run A **stale renders indistinguishable from complete short days**:
+- **connectingafrica.com** — run A's standing flag is **withdrawn, not escalated**. The site publishes normally; the 07-18/19 gap was the weekend; and the **Monday 07-20 article was already live during run A**. Run A's seven cache-busted listings — *two with different tokens* — all returned the same 07-17 ceiling, so **a repeated identical ceiling across distinct cache-bust tokens is a pinned cache, not silence**. My "different tokens, therefore both live" inference to Bill was **invalid**.
+- **techafricanews.com** — an uncached date-archive fetch serves **10 items with pagination stripped**; cache-busted it returns **15 + a page-2 link**, true total **22** for 07-21 against the **10** run A recorded. **Six staged items were among the twelve the stale render hid.**
+
+**New standing rule, now in `daily-README.md`:** a nil or short day is established only when **two independent instruments agree**; a single listing, however cache-busted, never suffices. Search's worth is not yield (near-zero) but that it **exposes false ceilings** — it did so for itweb.africa on 07-20 and techafricanews on 07-21. Also corrected: **telecomreviewafrica has five section listings, not the seven run A reported** (dead: `telecom-vendors` plural, `telecom-technology`, `interviews`, `press-releases`), and has published **no editorial since Fri 17 Jul**.
+
+**★ Contradiction opened by the ingest, closed by the reconcile, in one run.** A second account of the Egypt–Eswatini central-bank meeting named the gold-bank partner as the **Export-Import Bank of Egypt** (national) against the held **Afreximbank** (multilateral). **The CBE's own release settles it: Afreximbank** — MoU **signed 2025-12-29** by Governor **Hassan Abdalla** and President **Dr George Elombi**. The held ITWeb account was right; the newer, longer, more primary-*looking* account was wrong. **Method note recorded in the closure: proximity to a primary is not accuracy** — a re-keyed release can garble a proper noun precisely because it reproduces at length. Fetch the primary; don't rank secondaries by how primary-ish they read. The primary also supplied what the wiki lacked — **feasibility-study stage**, a **designated Egyptian free zone**, an **accredited refinery and vaulting**, Egypt as hub *subject to the study* — and, in passing, **resolved the meeting date** the wiki had carried as unestablished (**2026-07-20**).
+
+**Compiled:** the Nigerian **DEON court ruling** (Suit FHC/L/CS/760/2026 — regulations upheld, FCCPC stripped of telecom licensing; ₦300–400bn airtime-credit market, ~40m users; **no FCCPC/NCC joint framework published**, which is the condition for a repeat), Kenya's **CED licence** (Gazette Notice 3335), **Egypt's 450-services-by-2030** target, **MACRA's refund order** against Airtel and TNM, **Starlink extended to Seychelles**, and **Helios Senegal** now reported as a *commitment* — carried still as announced intent, since nothing signed is held.
+
+**Decisions.** (1) **Standing scope exclusion recorded: ITWeb's Makate / "Please Call Me" series** — original reporting, but IP compensation and litigation funding, not data governance; **two agents dropped it independently today**, so it is ruled once rather than re-decided each run. (2) **SASSA payment-dates** dropped as second-hand synthesis — real payload but no original reporting, and its "~600,000 not switched" conflicts with other outlets' "1.3m", exactly the laundering the rule guards against. (3) Run B **treated run A's drop decisions as binding** rather than re-adjudicating — cheap and consistent, but **a wrong call in run A propagates silently**; flagged by the agent itself.
+
+**Close lint:** #1 2 · #2 clean on all 18 · #7 **0 duplicate clusters** · #10 all queues 0 · #11 clean · #12 clean · #14 14 (2 with `url_note`, rest the noted backlog) · #15 94 blank (deliberate).
+
+Revert: `git revert` this commit, then move the 18 sources out of `raw/` and restore `sweep/daily/state.json`.
+
+`contradictions - 0 ; acquisitions - 0 ; awaiting ingest - 0 ; decisions logged - 3`
+
+## 2026-07-21 — update-wiki: 2 iterations, 7 sources admitted, queues drained
+
+First run of the orchestrator. **Iteration 1** ingest (6 clips) → **iteration 2** acquire (3 items the ingest itself created) → statuses all zero → close lint. The loop behaved exactly as `UPDATE-WIKI.md` predicts: **ingest refilled acquisitions, so a single sweep of the three would not have sufficed.**
+
+**Ingest — a surveillance/sovereignty chunk, all 2025 material arriving late.** Six clips (CIPESA 2025-03-12; IJRISS/Univ. Zimbabwe 2025-03-05; Africa in Fact 2025-04-10; Unwanted Witness 2025-06-13; Modern Diplomacy 2025-08-04; Georgetown Africa-China Initiative 2025-09-18). **All six filenames carried the clip date (2026-07-21) against publication dates 5–16 months earlier** — renamed to publication date per the filename rule, and each written up as **a baseline, not news**.
+
+**★ The find: Senegal's Diamniadio data centre, which the wiki did not hold at all.** Senegal was the **first African state to replicate China's data-governance model (June 2021)** — the **US$18.2m DND**, China EximBank-financed, Huawei-built, framed as "guaranteeing Senegalese digital sovereignty", after which **Macky Sall ordered all national data repatriated** into it. This reframes `senegal--infra-store`: the New Deal's sovereignty pillar is **not a 2024–26 innovation** but the continuation of a 2021 localisation posture, and Google/Alibaba are **later entrants to a field China entered first**. It is also the sharpest African instance of the wiki's standing argument that **localisation is not sovereignty** — servers onshore, model and builder foreign.
+
+**★ Acquire corrected an error the same run's ingest had just introduced.** I compiled CIPESA's line that African governments spend **~US$1bn/year** on surveillance technology. The underlying **IDS release (2023-09-27)** is now held and shows the figure is **five named countries — NGA, GHA, MAR, MWI, ZMB — not the continent** — and is a **2023** figure. Corrected on `gov.protect`, which now also holds what the release adds: **Nigeria ≥US$2.7bn over a decade (~US$12/citizen)**, Ghana/Morocco/Zambia **each >US$250m** on Chinese safe cities, **Egypt running US firm Honeywell's** package, and **Malawi the only one of the five to reject** the Chinese offer. Its supply-chain finding is sharper than the "Chinese surveillance" frame: **the US and UK dominate social-media surveillance and political-marketing consultancy; Germany, Italy and Israel export the phone-hacking malware; China dominates public-space safe-city systems.** *Also distinguished: this 2023 IDS study is **not** the March-2026 IDS Smart City report — same lead author, different work.*
+
+**Acquire: 1 acquired, 2 dropped**, both with dated not-held lines on `gov.protect` — the Unwanted Witness report (`dead-url`) and the Spaces for Change Nigeria report (gated 74 MB download, page serves metadata only). Neither can be cited for its findings.
+
+**Decisions.** (1) IJRISS paper ingested as **published academic work** but flagged twice — it is a **qualitative analysis of secondary data** (cite for framework, not fact) and **IJRISS's standing as a journal is not established**. (2) Modern Diplomacy carried as **commentary, not research**. (3) Byline discrepancy on the Georgetown piece resolved to the **body byline (Bagwandeen)** over the clipper's (Young). (4) Every figure in the chunk written as **attributed, not adopted** — none is independently held.
+
+**Close lint (all 15).** #1 2 · #2 clean on all 7 new sources · #3 clean · #4 1 pre-existing dead link on a touched page · #5–#7 clean · #10 **all queues 0** · #11 clean (no clip-dated files left in `raw/`) · #12 clean · #14 14, of which 2 now carry `url_note` and the rest are the noted backlog · #15 94 blank (correct, deliberate residue).
+
+Revert: `git revert` this commit, then move the 7 sources out of `raw/`.
+
+`contradictions - 0 ; acquisitions - 0 ; awaiting ingest - 0 ; decisions logged - 4`
+
+## 2026-07-21 — Daily sweep chains into update-wiki
+
+Wired update-wiki as the daily sweep's **step 8** (was only a pointer in "Running it"): after
+staging + state-finalise, the sweep runs `update wiki` to ingest/reconcile/acquire/lint. Runs
+after step 7 so the high-water mark is set and the two never write concurrently. Manual-stage-
+only path preserved (stop after step 7). First manual update-wiki run reported working.
+Revert: `git revert` this commit.
+
+## 2026-07-21 — STATUS.md status object + process-announce convention
+
+Added `STATUS.md` (trigger **"wiki status"**) as the single source of truth for the three
+queue counts (with indicative commands), the standing tally line, and a new **announce-the-
+running-process** convention (a `▶ running: <pass> — iteration N` banner before each pass).
+Answers Bill's two questions: display which process is running (yes, now instructed), and
+factor status get+display into a recallable object (yes — it was defined in six places and had
+already drifted this session). Pointed UPDATE-WIKI.md, CLAUDE.md → Reporting and reference.md
+at it, removing the duplicate count definitions. **CLAUDE.md change (surfaced):** the Reporting
+section now points at `STATUS.md` and requires announcing each pass, replacing the inline
+awaiting-ingest gloss — net-neutral on length.
+
+Also: `country-ingest-workflow.md` moved to `archived-procs/` (Bill); swept the last stale
+`new-queue/` refs from the active tree (`wiki/index.md` folder table).
+Revert: `git revert` this commit.
+
+## 2026-07-21 — New orchestrator: UPDATE-WIKI.md
+
+Added `UPDATE-WIKI.md` at root — trigger **"update wiki"**, callable manually or as a
+sweep's hand-off step. It loops: read statuses → if all three queues empty, exit → else
+run ingest (new/ > 0), reconcile (contradictions > 0), acquire (acquisitions > 0), repeat →
+then full lint. It files nothing itself; only invokes the existing passes. Added a **10-iteration
+safety cap** (flag + exit to lint if hit) — not in Bill's spec, guards against a non-draining
+pass spinning. Pointers added: CLAUDE.md header pass list; daily-README "Running it" hand-off.
+Also brought the `awaiting ingest` field into the wrap-up status line in RECONCILE.md and
+ACQUIRE.md, which the earlier global edit had missed.
+
+Note (not acted): `country-ingest-workflow.md` still targets `/new-queue` — a separate
+draft-for-review process, left as-is.
+Revert: `git revert` this commit.
+
+## 2026-07-21 — Doctrine: sweep → new/, and status-line field
+
+**★ CLAUDE.md change (surfaced per doctrine).** Structure §: the sweep now writes candidates
+straight to `new/`, not to `new-queue/`. This **retires the `new-queue/ → new/` human-promotion
+gate** — the "one deliberate human gate" — ahead of an ingest workflow that can be run manually
+or triggered by a sweep. `new-queue/done/` stays Bill's, untouched.
+
+Also added **`awaiting ingest - NN`** (count of `new/`) to the standing status line, between
+acquisitions and decisions logged. Edited: CLAUDE.md (Reporting + Structure), reference.md
+(folder tree, §7 sweep intake, sweep containment rules, lint tally, reconcile/lint wrap-up lines),
+sweep/daily-README.md (all five `new-queue/` sweep-target refs + status line).
+
+`new-queue/` folder left in place (1 pre-existing candidate); its contents are Bill's to clear.
+Revert: `git revert` this commit.
+
+## 2026-07-21 — Lint, all 15 checks
+
+Run after four passes added **45 sources** and touched ~50 pages. Corpus: 4,729 raw `.md`, 2,159 wiki `.md`.
+
+**Counts.** #1 2 · #2 clean · #3 clean (0 pages stale, 0 missing `last_reviewed`) · #4 38 dead targets / 108 refs · #5 clean · #6 clean · #7 clean · #8 45 over 2,500 w (21 non-place) · #9 **0** · #10 **all queues 0** · #11 clean · #12 clean · #13 3 false positives · #14 14 (13 already noted or carved out; 1 fixed) · #15 94 blank (correct).
+
+**★ The finding that matters is about the lint tooling, not the corpus.** My first-pass checker split frontmatter on the first `---` anywhere in the file. **Several sources carry `---` inside a URL slug**, so the parser truncated their frontmatter mid-block and reported fields as missing that are plainly present. That produced **4 false schema defects and 2 false URL defects**, and had I auto-fixed on it I would have written duplicate keys into good files. Re-ran with a line-anchored parser (terminator = a line that is exactly `---`); real #1 count is **2**, not 4. **Any future lint must use the line-anchored split** — this is the second tooling bug in two passes to generate false positives at scale (yesterday's #3 money detector ran ~93% false-positive).
+
+**#4 — and a second measurement problem.** No target reached the ≥10 create band. Top of the 3–9 middle band is **`busha` (9 refs)** and **`tether` (6)** — but each is tagged in exactly **one** raw source. **The referrer count is inflated by one story compiled across four pages, not by nine developments.** §9 leans toward creating in that band; §5 sets the entity bar at ≥3 sources. **Decision: did not mint** — a page built from wiki prose derived from a single source is circular, and §5 is explicit that below the bar an entity living as a tag is expected, not a gap. **Referrer count is a poor materiality proxy when one event fans out across place hubs and intersections; source count is the honest test.**
+
+**Acted:** fixed the AAIGI bare-domain (`url_note`, document URL unrecoverable — publisher platform exposes no document path); added the #14 homepage carve-out note to the BIPA capture so it stops resurfacing; unlinked `national-land-authority-rwanda` (1-ref stray, no page, no close match); corrected `reference.md`, whose folder tree still listed the `contradictions/research/` directory removed on 2026-07-20 while the same file said elsewhere it was gone.
+
+**★ Naming collision caught, and it is a live conflation risk.** The **Africa AI Governance Index (AAIGI)** ingested today — Lawyers Hub / Africa AI Policy Lab, Nairobi, July 2026, 54 states — is **not** the **African AI Governance Index (AAGI)** — AAGI Foundation, Accra, March 2026 methodology report, 55 states, full index due Q4 2026, DOI 10.5281/zenodo.18895975. **Both use 8 pillars and 80 indicators.** A third series compounds it: the same Lawyers Hub platform publishes an **"AI Readiness Index" on a 0–100 scale** (Egypt 81, SA 76, Kenya 72) against AAIGI's **0–4** composite. Disambiguation table added to `africa-ai-governance-index.md` and a caution to the source page. **Always name the instrument and the scale.**
+
+**Not acted, with reason.** #8: 21 non-place pages over 2,500 words. Classified rather than churned — `tech.ai` and `infra.connect` are recorded in the sweep README as genuinely thematic and correctly long, and **`uganda--dpi-id` (6,084 w) has zero dated bullets and twelve thematic section headers** — a dense argument, not an append-log and not a matrix, so §8's "leave it" applies. #15: 94 blanks are yesterday's deliberate residue — blank asserts nothing, and setting `full` on an unchecked body would corrupt the paywalled-promotion gate. #13's three hits are `log.md`, `log-archive.md` and `reference.md` **describing** the quarantine rule, not citing it. The `[a`/`b` dead links are reference.md's own bracket-convention example.
+
+**#9: no contradictions surfaced.** Nothing in today's 45 ingests disagreed with held state; the duplicate scan over them found no same-date title cluster above 50% overlap. **#10: `new/`, `new-queue/`, `contradictions/open/` and `acquisitions.md` are all empty.**
+
+Revert: `git revert` this commit.
+
+`contradictions - 0 ; acquisitions - 0 ; decisions logged - 4`
+
+## 2026-07-21 — Reconcile (2nd pass): 2 researched, 2 resolved, `open/` empty
+
+Both items were the ones the acquisition pass re-routed. 3 primaries ingested. **Both resolutions correct framings CC itself wrote yesterday, and one corrects the brief CC wrote this morning.**
+
+**South Sudan visa fees — there is no 2026 instrument.** The schedule reported across African trade press in July 2026 as a new policy is the **December-2024** one: circular **RSS/SSRA/CG/SPECIAL/VOL.1/104 of 2024-12-03** under the **Financial Act 2024-25**, effective **2024-12-16**, signed by DG Maj. Gen. Simon Majur Pabek — single entry **US$100** (US$160 US citizens), 3-month **US$200** (US$125 regional), 6-month **US$350**, denominated in USD by the instrument itself and charged at the Central Bank rate. The story traces to a **social-media post**, not a document; no outlet in the chain cited a gazette or circular.
+
+**My brief was wrong twice.** (1) The "incompatible schemas" were **one portal table read two ways** — one outlet took the single-entry column, another the full row across three durations. (2) The 2019 directive is **not a fee schedule** at all; it grants **free visas to Tanzanians** under EAC Common Market Protocol art. 7, and I conflated it with the fee figures. Also corrected: South Sudan has charged EAC nationals since at least **2020**, so the "departure from EAC free movement" framing was six years late, and **Egypt's visa-free status is long-standing**. `SSD.md` carried the false 2026 framing as a dated development and has been rewritten. **Open horizon:** whether the 2019 Tanzania directive still operates — the Ministry neither confirmed nor revoked it.
+
+**Jitume — the "117" is a launch-ceremony ordinal, not a national count.** Two parallel series run throughout: **launch ordinal** (40th 2023-08-07 · 100th 2023 · 112th 2026-06-13 · 117th 2026-07-20) and **installed base** (114 · **290** 2025-02-15 · 284 · **~350** 2026-06). Decisive evidence: at **one event on 2023-08-07**, CS Owalo said "the **40th** Jitume Digital Hub" while PS Tanui, in the same room, said "we have so far **deployed 114 centres**" and distinguished the 74 not yet launched. My brief guessed the mechanism was hub models or TVET-vs-ward denominators — **it was neither**, and brand conflation is ruled out. **The wiki now carries the installed-base series and treats any "Nth hub" as a ceremony count.** The "first figure for Jitume's scale" framing I wrote on 2026-07-20 is withdrawn.
+
+**The finding worth keeping is about source quality:** Jitume's published metrics are internally inconsistent on nearly every headline — youth trained **400,000 → 140,000 → 240,000**, job linkages **41,000 / 42,000 / 92,000** within weeks, start date **Dec 2022 vs Dec 2023**, models **three vs four**, standard pilot **50 vs 53** — all from named officials. **The press reported them accurately; the inconsistency is in the programme's own communications.** No hub register or results framework exists (KoTDA's hub sites are JS apps; KDEAP's framework tracks broadband users and its Jun-2025 ISR records "no progress recorded on results indicators"). No Jitume figure should be cited without its date and speaker.
+
+**Shaky:** the US$50 regional single-entry band appears on the South Sudan portal and the DC embassy page but is **not attested in the 2024 circular as reported** — carried as portal-stated. Neither the 2019 directive nor the portal table itself could be captured (client-side render, no Wayback capture).
+
+Revert: `git revert` this commit, then move the 3 primaries out of `raw/` and the 2 briefs back from `done/` to `open/`.
+
+`contradictions - 0 ; acquisitions - 0 ; decisions logged - 2`
+
+## 2026-07-21 — Acquisitions: whole 48-item queue worked; 16 acquired, 32 dropped
+
+One attempt each, six parallel workers. `acquisitions.md` is back to its header. Drop classes: **not-locatable ~16, js-shell 6, 403/bot-block 2, paywall 2, wrong-document 2, cookie-wall 1, no-response 1, hand-clip-by-definition 1.** Gazettes, Hansard, ministry quarterly reports and regulator fee schedules failed almost uniformly; multilateral project documents and government press offices came back.
+
+**The pass's real yield was four corrections to held state, not the documents.**
+
+1. **★ The IMF's "95% of surveyed users" does not exist.** The IMF Country Focus article of that exact title is now held (2026-06-16, Schimmelpfennig & Zhao) and **reports no survey at all**. The figure reached the wiki through ITWeb's report-of-the-report and I compiled it yesterday with hedges; hedging was the wrong response — **it is struck from `NGA.md` and `nigeria--dpi-pay.md`**. The primary does settle the previously-unheld Chainalysis claim (**Nigeria 2nd in 2024, 6th in 2025**) and adds US$59bn inflows (Jul 2023–Jun 2024) and ~60% of SSA stablecoin inflows since 2019. Underlying analysis is **2026 Article IV Annex VII — not held**.
+2. **★ Malawi's DMAP is US$90m, not US$150m, and has no tower line.** The World Bank appraisal document shows **US$150m is the IDEA multi-phase envelope**; DMAP's **Total Operation Cost at approval (2024-06-27) was US$90.00m** (US$70m IDA grant + US$20m commercial). The minister's "expand tower infrastructure" framing is also wrong — the nearest component is **Sub-component 1.1 Rural Connectivity (US$20m)**. Corrected on `MWI.md`.
+3. **★ iiDENTIFii's 59.2% is not in the company's own release either.** Its launch release gives **63.2% / 60.9%**; 59.2% appears only in later press. Also established: the Identity Index 2024 is a **vendor-commissioned World Wide Worx survey, n=200, South Africa only** — not a continental measure. Corrected on `ZAF.md`.
+4. **Senegal's Faye–Greenwood meeting was 2026-07-16**, not the 07-20 publication date, and **Helios already ran 1,479 Senegalese sites in Q1 2026** — so the "first Senegal position" reading is superseded.
+
+**Two items re-routed to `reviews/contradictions/open/`** — they turned out to be disputes, not missing documents. **(a) South Sudan's visa-fee instrument:** the Ministry of Interior **denies issuing any directive or statutory instrument** and says the circulating document is a **leaked internal directive of 24 July 2019**; the reported fees are structurally incompatible across outlets (banded by nationality in one, by visa duration in another). **(b) Jitume hubs:** the wiki's "117th hub, 2026-07-20" sits against a **February-2025 report of 290 hubs** — a count running backwards. The newly-held KoTDA tender supplies the likely mechanism (three hub models, TVET *and* 1,450-ward denominators). **The 117 is flagged on `KEN.md` as not citable as a baseline until it closes** — that framing was mine, from yesterday.
+
+**Also resolved:** Rwanda's ~54,000 land-title figure is a **three-district scope difference**, not a disagreement (37,000 Kayonza + 21,000 Kirehe + Nyagatare) — though the source is internally inconsistent, printing a total its own components exceed, so carry the district figures. **Mozambique's December-2025 data-governance final is now held**, which unblocks the draft→final replace lint #7 could not execute. **Somalia's framework was published 2026-07-19** (day precision) **alongside a second instrument — a National Cybersecurity Compliance Framework — the wiki had not recorded at all**; neither text was obtainable (NCA publishes them only behind `lnkd.in` shorteners).
+
+**Judgment calls.** (i) Kept the **KoTDA tender** though it is not the hub register the item asked for — it is first-hand programme documentation covering the gap the item named, and the page says plainly it does not satisfy the register half. (ii) Kept the **Safaricom 2026 Annual Report** from a **third-party host** with no issuer-hosted PDF found; both that and the fact that the capture stops before the Kenya section are recorded in-file, and its **Group** 43.69m must not be read as the Kenya figure. (iii) Kept the **iiDENTIFii launch release** as a substitute for the gated Index, clearly marked as not being the Index.
+
+**Not held, stated dated on their pages:** Ghana's L.I. 2523 (absent from the NIA's own statute page), the NIMC Act text and gazette, Nigeria's Data Protection (Amendment) Bill, the CBN circulars, Algeria's ANPDP délibération n° 04, MACRA's fee schedule, Malawi Hansard, Eswatini's ICT quarterly report and World Bank PAD, the AfDB Phase I appraisal and Phase II progress report, and the IDS study PDF.
+
+Revert: `git revert` this commit, then move the 16 sources out of `raw/` and restore `reviews/acquisitions.md`; delete the two new contradiction files.
+
+`contradictions - 2 ; acquisitions - 0 ; decisions logged - 3`
+
+## 2026-07-21 — Reconcile: 5 researched, 5 resolved, `open/` empty
+
+**4 primaries ingested**, 5 acquisitions opened, 1 narrowed. No item re-routed, none closed unresolved.
+
+**Partech Kenya — settled without leaving the vault.** The held Partech release says **US$1.04bn** twice; it contains no 1,096. **The US$1,096m was never Partech's** — it is **AVCA's own asterisked alternative Kenya total**, and it reconciles exactly: AVCA's rooted **US$335m** + the **US$761m** its narrative attributes to Kenya-HQ'd multi-region companies = **US$1,096m**. It could not have been an AVCA 2025 figure either, since AVCA puts all East Africa at **US$426m**. The 3.8× ratio survives. **The by-product is better than the fix:** once AVCA attributes multi-region companies to Kenya, AVCA and Partech are **~5% apart, not 3.3×** — the headline chasm is an attribution-rule artefact, which is the argument that page already makes.
+
+**Nexus AI Factory — not a contradiction.** **500 MW is contracted renewable *power supply* from TAQA** (June-2025 consortium release); **36 MW is contracted *IT load*** across two phases (MTNRA release, 2026-04-08: MAD 5bn/16 MW Nouaceur + MAD 7bn/20 MW north). Different quantities, a year apart, welded together by one trade write-up. Also corrected: MAD 12bn is **phases 1–2 only**, ≈**US$1.29bn** at the signing-day rate — the wiki's undated **US$1.2bn** was press rounding. Supersession recorded: phase 1 went from "over 40 MW, Q1 2026" to **16 MW from 2027**.
+
+**TechPark CV — three figures, one pot of money.** Phase I €35.90m/€31.59m + Phase II €15.95m/€14.00m = **€51.85m project carrying €45.59m of AfDB financing**. Both sums are exact. €45.5m is €45.59m truncated in AfDB's own release. **USD dropped**: the Bank published **$50m** and **$57m** for the same money two days apart. **"Nearly 2% of GDP" struck** — in no AfDB or government document, and it sets a 2013–2025 capital programme against one year's GDP.
+
+**1,800 cameras — a transposition, and the money was three things.** Uganda's Kampala figure is **3,233 (of 5,552 nationwide)**, not 1,800; the analysis lifted three spend figures verbatim from the IDS press release — **which carries no camera counts** — and attached Kenya's count to Uganda's row. Kenya's 1,800 is right, but the cameras are the **IPSCSS, contracted to Safaricom May 2014 at KES 14.9bn**; the **~US$100m/KES 8.5bn** is a **separate 2012 Chinese grant** whose link AidData calls "unclear"; **US$219m** is IDS cumulative national spend. **Local currency exists for both** (UGX 458bn, KES 14.9bn), correcting the brief's assumption that neither had one.
+
+**NIMC — wiki was right, and the real finding is the vacuum.** Assent established from the Presidency's own record: **Friday 26 June 2026**. "2025" is the **bill-year** — the bill passed the Senate as the 2025 bill, **assent was declined 2026-05-05 under s.58(4)** over drafting defects, and the corrected bill was assented in June 2026. No page needed changing. But **the Act's text is still not public** — no gazette reference, no Act number, NIMC has not published it — for a statute cited on four pages and now the stated legal basis for wiring digital ID into healthcare. Stated as a dated vacuum on `nimc.md`.
+
+**Shaky / not established:** TechPark Phase I split is inferred from the Phase II back-reference plus three corroborations, never read directly; the Morocco MTNRA and consortium releases are **not held** (research findings only) — both queued; the IDS study PDF was **unfetchable**; NIMC's corrective re-passage date is unestablished.
+
+**Procedure fix, logged:** `RECONCILE.md` still instructed writing research to `reviews/contradictions/research/` and deleting it at pass end. That folder was removed 2026-07-20 and CLAUDE.md now says research earns its place only as an ingested primary. Amended step 3 and the closing section to forbid recreating it. Nothing was written outside `raw/`, `wiki/` and `reviews/`.
+
+Revert: `git revert` this commit, then move the 4 primaries out of `raw/` and the 5 briefs back from `reviews/contradictions/done/` to `open/`.
+
+`contradictions - 0 ; acquisitions - 48 ; decisions logged - 5`
+
+## 2026-07-21 — Ingest: manual collection, 11 promoted, 10 admitted, 1 dropped
+
+Bill's manual clip collection (9 markdown + 2 PDFs). Four thematic chunks. Touched **10 place hubs**, **2 concept pages**, **3 entity pages**; **1 entity page minted**; **1 contradiction filed**; **4 acquisitions added**. `new/` empty.
+
+**★ The one that closes an open question: Digital Eswatini is approved.** The Ministry of ICT's Q1 FY2026/27 report (via a single Eswatini outlet) confirms **World Bank approval in June 2026** — negotiations concluded 2026-05-18 — of **US$65m** for **[[digital-eswatini-project|P508948]]**, an **IBRD loan plus IDA credit**. The wiki had carried "**board approval remains unconfirmed in the corpus**" since the concept-stage PID; that is now superseded on both `SWZ` and the project page, with the *estimated* 2025-09-01 approval date shown to have **slipped ~9 months**. Components now held: **US$36m** broadband (incl. EPTC reform), **US$25m** GIYH (national digital ID, cybersecurity, data governance, e-payment gateway, 50+ services, 200k digital skills), **US$4m** management; plus a **US$2m** preparation grant closing Dec 2026. **Money carried in the Bank's own currency with the outlet's dated conversion at E16.37 = US$1 (2026-07-19)** — components sum exactly to US$65m and every conversion reproduces. Most useful line in it: the ministry's **own named risks are administrative** — IFMIS/World Bank reporting incompatibility, PIU capacity, grant expiry — not technical.
+
+**Contradiction filed (the queue's one addition).** Vanguard names Nigeria's enabling identity statute the **"NIMC Act, 2025"**; the wiki holds it as the **NIMC Act 2026, enacted June 2026**, across four pages. Filed rather than reconciled — the likely benign explanation (2025 passage, 2026 assent) is a hypothesis, not a finding. **The sharper finding is in the brief: the wiki holds no primary for *either* designation**, only press description, for a statute it cites repeatedly and has now attached a health-sector programme to.
+
+**Decisions.** (1) Dropped the Côte d'Ivoire clip — duplicate of a held TechAfricaNews capture that is **closer to the State Department primary** and already carries ABD Group, NTELX and the $570m framework. (2) Ingested both **analysis** pieces as expert third-party work **cited by author, not evidence** — Eaves on data localisation (→ `infra.store`) and Bright Simons/ODI on the verbal-vs-spatial AI split (→ `tech.ai`); their embedded McKinsey/GSMA/UNDP/NBT figures are recorded as **attributed, not adopted**. (3) The **Eurogroup memo** is Europe-specific and kept anyway, tagged `XGL`, because its interoperability-as-procurement-condition lever is the spine of the localisation argument — **its 65%/16%/2% market figures are flagged as European and must not read as African**. (4) **Africa AI Governance Index minted as an `instrument` entity** and handled as a reference study: 54-state scores deliberately **not** pushed onto place pages, and the report's own two cautions carried with it (the rubric "measures formalisation, not capability"; sub-region, not country, is its intended unit). (5) Two undated captures (AU–UNECA readout, Simons) filed `date_source: proxy` with the real date recorded as unestablished. (6) Gambia MoU event date **derived** as 2026-07-17 from "on Friday" + a Monday publication, and labelled as derived; filename follows the **publication** date per the filename rule.
+
+**Two threads worth noting for output.** Nigeria now has **data localisation arriving through several instruments at once** — the CBN fintech directive and the Data Protection (Amendment) Bill, whose platform-blocking powers RULAAC and SERAP oppose by reference to the 2021 Twitter suspension and the ECOWAS Court ruling — landing the same week the wiki ingested Eaves's argument that **localisation does not answer the CLOUD Act at all**. Separately, **WAICO** (Shanghai-headquartered, 29 founding states, Ethiopia signed) is a `geopol.china` bid at the **rules** layer rather than the compute layer; sidebar chrome in two held captures suggests Cameroon and Senegal also joined, but **no article body establishing that is held** — flagged as worth a targeted look.
+
+Revert: `git revert` this commit, then move the 10 sources (and 2 PDFs) back from `raw/` to `new/`; delete `wiki/entities/africa-ai-governance-index.md` and the contradiction file.
+
+`contradictions - 5 ; acquisitions - 43 ; decisions logged - 6`
+
+## 2026-07-21 — Ingest: 15 promoted, 11 admitted, 4 dropped as duplicates
+
+Drained `new/` in four thematic chunks (payments & monetary · digital ID & govtech · infrastructure · cyber, AI & capacity). Touched **7 place hubs** (NGA, KEN, EGY, SWZ, ZAF, ZWE, SOM), **8 intersections**, **1 entity page**. `new/` empty; all 11 filed to `raw/` with `ingested:` stamped. **0 contradictions raised** — nothing in this batch conflicted with held state.
+
+**4 dropped as duplicates, and the pattern is the finding.** Busha×Tether, VOVE ID and Launch Africa were all **wearetech `brèves`** — three-sentence compressions of stories the wiki already held **in full** from the originating outlet a day earlier (TechAfricaNews, BiometricUpdate/TechCabal, TechCabal respectively). The fourth, Cassava/ADC Azure ExpressRoute, was a **third capture of one press release** whose payload the held TechAfricaNews version already carries entirely. Meanwhile **both wearetech `tech-stars` items were ingested** — original founder profiles (Regxta, Vumah Labs) available nowhere else. So on this domain **brèves inflate the staged count and tech-stars carries the unique material**; folded into `daily-README.md` with the instruction to keep staging brèves anyway, since sweep dedup is deliberately conservative and ingest is where full text decides.
+
+**Decisions.** (1) Safaricom CFSO exit — **keep both**, not drop: the ITWeb 07-21 account adds Ziidi Trader's counterparties (NSE + **Capital Markets Authority**, **KASIB**, **CDSC**), its 2026-02-10 date, a **5m+ Ziidi savings users** company claim, and both other exits' destinations (**Absa**, **Stanbic**) — folded into the existing 07-20 bullets rather than spawning parallel entries. The 5m figure is carried as a **company claim with basis undefined**, explicitly not merged into Safaricom's published 30-day-active series, which `kenya--dpi-pay` already adjudicates. (2) **Somalia framework filed to its June 2026 event date, not the 07-21 report date** — month precision, exact date flagged unestablished pending the primary; the secondary's date was not allowed to become the event's "as of". (3) Egypt–Eswatini meeting date **not given in source** → recorded as unestablished rather than inferred from publication. (4) Valu–Wego ingested but written as a **commercial product integration, not a governance development**, with the absence of any regulator or licensing basis stated. (5) `[[action-sa]]` body link removed as a single-referrer stray (frontmatter tag kept); no page minted mid-ingest. (6) Regxta, Vumah Labs, Valu, Wego tagged only — **all below the ≥3-source entity bar**, left for the entity pass.
+
+**Two for the next lint.** `nigeria--dpi-pay` (2,767 w) and `dpi.pay` (3,937 w) are past the ~2,500 classify threshold — not acted on here, since a bloat pass is not ingest's job. Dead-link backlog measured at **37 distinct targets wiki-wide**, none created today except the one reverted above; **`busha` at 9 referrers** is one short of the ≥10 "create the wanted page" band.
+
+**Acquisitions +2:** the IMF's *Stablecoins in Nigeria: A Growing Cross-Border Channel* (the 95%-of-users figure rests on a report the wiki does not hold), and Somalia's *National Cybersecurity Risk Management Framework* (would settle the CII designation list, compliance deadline, first reporting date and penalty schedule — all currently unestablished).
+
+Revert: `git revert` this commit, then move the 11 files back from `raw/` to `new/` (they carry `sweep_batch: daily-2026-07-21`).
+
+`contradictions - 4 ; acquisitions - 39 ; decisions logged - 6`
+
+## 2026-07-21 — Daily trade-journal sweep (batch `daily-2026-07-21`)
+
+Window 07-19T00:00Z→07-21T09:55Z, ten domains, one agent each. **Staged 15 · dropped 188 · needs-clip 0.** Manifest: `sweep/daily/manifest-2026-07-21.md`. Yield: wearetech 5, ITWeb Africa 4, Tech Africa News 3, ITWeb SA 3; six domains nil, each on positive evidence. Sun 07-19 nil across all ten — fourth consecutive weekend confirming the weekday-publisher finding. Slugs and place codes validated; bodies 738–4,910 chars, all `full`.
+
+**The window earned its keep:** techafricanews' 07-20 archive held 24 items against 10 in `seen.csv` — the prior run's mid-day cut caught under half that day. Three of the 14 misses were in scope and are staged.
+
+**Decisions.** (1) Dropped `gtbank-kenya-begins-search-new-md` — bank officeholder churn, no digital payload; distinct from the Safaricom exec-exit staged 07-20, which is in scope on substance. (2) Dropped three ITWeb Africa Editor's-choice executive opinion columns — bylined opinion reporting no development. (3) Dropped ITWeb SA's two "Please Call Me" pieces — IP compensation and litigation funding, scope in doubt → reject. (4) **Staged** the Cassava/ADC ExpressRoute item despite being an "Issued by Africa Data Centres" press placement — the vendor-PR rule disqualifies items reporting *no development*, and a first-in-Africa designation is checkable; provenance noted in the body. (5) Split wearetech's tech-stars profiles on payload — kept Vumah Labs and Regxta, dropped roadside-assistance and classifieds apps. (6) Somalia framework: `published: 2026-07-21` is the source file's date; the **June 2026** event date is flagged in-body for ingest to establish from the MoCT/NCA primary, so the secondary's date never becomes the event's "as of".
+
+**Flag — Connecting Africa silent two full weekdays** (07-20, 07-21) against a near-daily cadence to 07-17; seven cache-busted listings and two searches all ceiling at 07-17. Recorded as non-publication. If 07-22 repeats it, that is a broken site or changed rendering, not an editorial pause — manual eyeball, not a third automated nil.
+
+**Process failure, disclosed.** The telecomreviewafrica agent's first report asserted search findings it had not yet received from its own subagent. It caught this itself, re-ran all four searches, and the conclusion held (ceiling 28997 @ 07-17). Recorded because on a run whose output is largely a claim about *absence*, invented corroboration is the failure mode that matters — a nil day and a lazy day look identical unless the evidence is real. No staged item depends on it. I relayed the unverified figures onward before the correction; that was mine.
+
+**Instrument findings folded into the manifest for the README:** biometricupdate `/tag/africa` stale → use `/author/ayangmacdonald`, and search was the *only* instrument seeing its Africa items (a real carve-out to "listing over search"); itweb.co.za → `/rss` is the usable path (front page has no URLs or dates), though incomplete; wearetech `/fr/fils/tech-stars` is a third separate tree; subtelforum `/category/news/` dead, `/news/` works; datacentresafrica `/news/` dead; telecomreviewafrica archive-column lag reproduced and ID probing unusable for a second reason.
+
+Revert: `git revert` this commit restores README/log/state/seen. **`new-queue/` is gitignored, so the 15 staged files are not in git** — delete them by tag: `grep -l "sweep_batch: daily-2026-07-21" new-queue/*.md`. Re-running is then clean, since `state.json` is what git restores.
+
+`contradictions - 4 ; acquisitions - 37 ; decisions logged - 6`
+
 ## 2026-07-20 — Full lint, all 15 checks (spec change to #14 and #15)
 
 **Spec (Bill):** #14 one-attempt limit dropped; #15 admits marker-matching. Both amended in `reference.md` §11, plus three findings folded in from the run — `source:`-first and byte-comparison for #14, bullet-level detection for #3.

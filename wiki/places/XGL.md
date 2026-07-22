@@ -6,7 +6,7 @@ parent:
 place_kind: region
 topics: [gov.standards, tech.industry, geopol.usa, geopol.china, infra.store, infra.connect, infra.cybersec, dpi.govtech, dpi.id, dpi.pay, dpi.exchange, dpi.mis, gov.policy, gov.protect, gov.regional, capacity.research, geopol.eu, geopol.india, tech.ai, data.open, data.statistics, infra.energy]
 status: active
-last_reviewed: 2026-07-19
+last_reviewed: 2026-07-22
 ---
 
 # Global / Developing Countries (XGL)
@@ -29,6 +29,20 @@ matters for the African data landscape. Never a country's home region.
   and treat **networks as critical infrastructure in national resilience planning**. *Reference study —
   cite, don't absorb; no Africa breakdown held.* See [[infra.energy]], [[infra.connect]]. Source:
   [[2026-07-17-gsma-mobile-net-zero-renewable-energy]].
+- **2026-07-15** *(analysis)* — **"Sovereignty through collaboration" — the case for reading regionalism
+  as autonomy, not fragmentation.** Writing on Geneva's Digital Week (the UN **Global Dialogue on AI
+  Governance**, 6–11 July 2026, alongside the WSIS Forum and ITU's AI for Good Summit), **Emrys
+  Schoemaker** (Global Digital Governance Lab, Graduate Institute; Global Policy Journal) argues that for
+  capacity-constrained states — limited compute, data, technical and regulatory capacity — AI sovereignty
+  is unachievable alone, so **regional and plurilateral arrangements are the practical form autonomy
+  takes**, not a failure mode. The multilingualism panel (Kenyan CS for the Digital Economy, Francophone
+  and Hispanophone blocs) is read as a bloc argument over who owns linguistic infrastructure. Second
+  thesis: **multistakeholder participation is a "continuity mechanism"** keeping a slow institution
+  connected to a fast technology between sessions (Geneva 2026 → New York May 2027), with industry and
+  civil society left outside the room while standards work migrates to technical venues (e.g. the **[[itu]]**
+  agentic-AI focus group, 9 July 2026). Directly bears on African digital-sovereignty framing. *Cite as
+  the named analyst's argument, not as established fact.* See [[tech.ai]], [[gov.regional]], [[gov.policy]].
+  Source: [[2026-07-15-sovereignty-through-collaboration-geneva-digital-week]].
 - **2026-07-10** — **Submarine-cable resilience: the ITU–ICPC advisory body reports, with Nigeria in the
   chair.** The **[[international-advisory-body-on-submarine-cable-resilience]]** approved its final report
   at WSIS Forum 2026, closing a two-year programme co-chaired by Nigeria's **[[bosun-tijani]]**. Cables
@@ -128,6 +142,16 @@ matters for the African data landscape. Never a country's home region.
   to settle in national currencies/CBDCs and bypass SWIFT/dollar-clearing, linking China's
   CIPS, Russian SWIFT-alternatives and India's UPI. Thin Africa relevance (South Africa,
   Ethiopia as members). Source: [[2026-07-12 BRICS portal]]. See [[dpi.pay]], [[gov.regional]].
+
+## Financing
+
+*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-21**.*
+
+**Non-state** — US$178m committed across 37 deals (2017–2025). Top financiers: European Commission (US$123m), Bill & Melinda Gates Foundation (US$55m). Leading subjects: `dpi.pay`, `gov.policy`, `dpi.id`.
+
+Instrument mix: Grant 37.
+
+**Domestic state** — *(pending that dataset)*.
 
 ## Active topics (global lens)
 

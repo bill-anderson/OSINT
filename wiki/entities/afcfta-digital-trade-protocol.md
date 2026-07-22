@@ -6,8 +6,8 @@ places: [XAF, SYC]
 topics: [gov.regional, dpi.exchange, dpi.id, gov.standards, gov.protect]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-12
-sources: [[2026-05-27 Africa's economic future hinges on breaking down silos. This ADLI cohort advances integration], [2026-07-09 Nigeria Takes AfCFTA Council Chair as Digital Forum Charts Roadmap for Implementation], [2026-07-10 Seychelles to Host AfCFTA Digital Trade Corridor Headquarters], [2025-09-22 Cross-border data flows in Africa An analysis of the alignment with AfCFTA]]
+last_reviewed: 2026-07-22
+sources: [[2026-05-27 Africa's economic future hinges on breaking down silos. This ADLI cohort advances integration], [2026-07-09 Nigeria Takes AfCFTA Council Chair as Digital Forum Charts Roadmap for Implementation], [2026-07-10 Seychelles to Host AfCFTA Digital Trade Corridor Headquarters], [2025-09-22 Cross-border data flows in Africa An analysis of the alignment with AfCFTA], [2026-07-20-stories-shaping-africas-ai-future]]
 ---
 
 # AfCFTA Digital Trade Protocol (and Digital Identity Annex)

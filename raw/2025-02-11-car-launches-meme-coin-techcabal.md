@@ -15,6 +15,7 @@ lens: [sovereignty]
 provenance_flag: newsletter-digest
 retrieved: 2026-07-17
 sweep_batch: CAF-2026-07-17
+body_completeness: full
 ---
 
 **Staging note (sweep):** *TechCabal Daily* is a newsletter digest; the CAR item

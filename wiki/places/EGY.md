@@ -6,7 +6,7 @@ parent: XNA
 place_kind: country
 topics: [dpi.govtech, dpi.id, dpi.pay, gov.protect, gov.legislate, dpi.mis, dpi.registry, dpi.exchange, tech.ai, gov.policy, infra.connect, infra.store, infra.cybersec, gov.regional, finance.new, include.access, tech.industry, tech.innovate, capacity.training, digital.rural, include.divides, geopol.china, geopol.usa]
 status: active
-last_reviewed: 2026-07-20
+last_reviewed: 2026-07-21
 ---
 
 # Egypt (EGY)
@@ -20,6 +20,39 @@ and social protection, and a **submarine-cable / data-centre hub** position — 
 
 ## Recent developments
 
+- **2026-07-21** — **Egypt targets 450 digital government services by 2030.** [[dpi.govtech]] A stated
+  national target for **[[digital-egypt|Digital Egypt]]** service coverage by **2030**, alongside
+  digital-ID and AI workstreams. *Recorded as a target, not an achievement* — **the current service
+  count, the baseline it grows from, the budget and the delivery mechanism are not established in the
+  held account**, so this cannot yet be read against the 2025-06 figures the page already carries. See
+  [[gov.policy]], [[dpi.id]], [[tech.ai]], [[egypt--dpi-govtech]]. Source:
+  [[2026-07-21-egypt-targets-450-digital-government-services-2030]].
+- **2026-07-21** — **Egypt sells its PAPSS experience southward — payments integration as foreign
+  policy.** The **[[central-bank-of-egypt|CBE]]** governor **Hassan Abdullah** met
+  **[[central-bank-of-eswatini|Central Bank of Eswatini]]** governor **Phil Mnisi**, with Eswatini
+  seeking to **leverage Egypt's [[papss|PAPSS]] experience to accelerate its accession** to the
+  platform. The CBE's own framing is explicit and is the point worth holding: the engagement "aligns
+  with **Egypt's broader strategy of strengthening relations with African countries** and supporting
+  continental economic and financial integration" — i.e. Egypt is positioning its payments-integration
+  know-how as an instrument of continental influence, from **[[XNA|North Africa]]** into
+  **[[XSA|Southern Africa]]**. Also on the agenda: the CBE's currency-circulation system and the
+  **Egyptian Currency Printing House** (an export offer in all but name), and a proposed
+  **[[afreximbank|Afreximbank]]×CBE pan-African gold bank** intended to strengthen central-bank
+  reserves, formalise African gold trading and **cut reliance on foreign refining hubs** — a proposal
+  only, with **no structure, capital, participants or timetable established as of 2026-07-21**. **✔ Resolved same day (2026-07-21) — partner confirmed as [[afreximbank|Afreximbank]]**, the multilateral, on the CBE's own release: **MoU signed 2025-12-29**, by Governor **Hassan Abdalla** and Afreximbank President **Dr George Elombi**, at the CBE. *(A second trade-press account had rendered it "Export-Import Bank of Egypt"; that was a mis-statement of the name.)* The release adds what the wiki lacked: the initiative is at **feasibility-study stage**, sited in a **designated free zone in Egypt**, and scoped to include an **internationally accredited refinery**, **secure vaulting** and associated trading services — with Egypt named as hub **subject to the study and subsequent approvals**. Worth holding alongside the sovereignty framing: **Egypt is Afreximbank's largest shareholder and its host**. Source: [[2025-12-30-cbe-afreximbank-mou-pan-african-gold-bank]].
+  **Meeting date established 2026-07-21 as 2026-07-20** (the CBE issued its statement that Monday), though a second account (Tech Africa News, 2026-07-21, reading as a near-verbatim rendering of the CBE's own release) establishes that **Mnisi was visiting Egypt**, and adds the visit's programme: a field tour of the **Money Printing House and Cash Centre in the New Administrative Capital** and the **Egyptian Banking Institute**, plus discussion of **Egypt's export-guarantee mechanisms** and banking-cadre capacity building. **Kept both accounts:** the ITWeb one carries the **CMA→TCIB low-value migration** the CBE text omits; the CBE-derived one carries the visit detail and the disputed gold-bank partner. See [[dpi.pay]],
+  [[gov.regional]], [[finance.mou]], [[egypt--dpi-pay]], [[SWZ]]. Sources:
+  [[2026-07-21-egypt-eswatini-deepen-banking-cooperation]],
+  [[2026-07-21-egypt-eswatini-central-banks-digital-payments]].
+- **2026-07-20** — **Consumer BNPL reaches travel booking.** **Valu**, an Egyptian-based MENA consumer
+  fintech, and **Wego**, a MENA online travel marketplace, announced a partnership letting Egyptian
+  travellers select Valu at checkout and **spread flight and accommodation costs over plans of up to
+  60 months**. A commercial product integration rather than a governance development, recorded for the
+  standing picture of Egypt's consumer-credit rails: **no volume, user, take-up, pricing or
+  interest-rate figure is disclosed**, and **no regulator or licensing basis is named** — so the
+  consumer-protection framing around 60-month instalment credit for discretionary spend is
+  **unestablished as of 2026-07-20**. See [[dpi.pay]], [[tech.industry]], [[egypt--dpi-pay]]. Source:
+  [[2026-07-20-valu-wego-travel-fintech-partnership-egypt]].
 - **2026-07-20** — **An Egyptian-founded AI-infrastructure team is acquired into a US platform — after
   the company had already left.** **Stakpak**, an AI-infrastructure startup **founded in Egypt in 2023**
   by **George Fahmy** to build "self-driving infrastructure" (AI agents automating deployment, DevOps

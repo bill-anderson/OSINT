@@ -13,6 +13,7 @@ places: [CIV]
 topics: [gov.protect, gov.standards]
 entities: [[artci], [certinum], [lakoun-ouattara]]
 lens: []
+body_completeness: full
 ---
 
 # Côte d’Ivoire : L’ARTCI lancera la plateforme CERTINUM le 2 juillet 2026

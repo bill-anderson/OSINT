@@ -1,6 +1,8 @@
 ---
 type: source
 title: "Governing Digital Public Goods"
+url: https://clubmadrid.org/wp-content/uploads/2026/06/CdM-APD-2026-Governing-Digital-Public-Goods-1.pdf
+url_note: "recovered 2026-07-21 (lint #14): byte-identical to the held artefact (3,875,330 bytes). A near-identical sibling ...-Goods.pdf (3,874,689 bytes) exists on the same host; the \"-1\" variant is the one held."
 publisher: Club de Madrid (Annual Policy Dialogue 2026)
 date_source: source
 author: Alison Gillwald (Research ICT Africa)
@@ -15,7 +17,6 @@ entities: [[research-ict-africa], [club-de-madrid]]
 lens: [sovereignty, colonialism]
 body_completeness: full
 ---
-<!-- url unrecovered as of 2026-07-20 -->
 
 <!-- Admissible: named institutional analysis (Research ICT Africa for Club de Madrid), primary authored work. -->
 

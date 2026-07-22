@@ -13,6 +13,7 @@ places: [NGA]
 topics: [dpi.id, dpi.govtech, gov.policy, infra.cybersec]
 entities: [[nira-nigeria], [nitda]]
 lens: [sovereignty]
+body_completeness: full
 ---
 <!-- .ng ccTLD (est. 2005, managed by NiRA) under-adopted as DPI/sovereignty pillar: ~237,266 active .ng registrations as of Dec 2025 vs .br >5M, .in >4M, .za >1M, .ke >100k. National Policy on Government Second-Level Domain (FEC 2022-02-16, enforced by NITDA) mandates .gov.ng migration; Anambra migrated ~95% MDAs. NiRA President Adesola Akinsanya, COO Seyi Onasanya. Attach: NGA hub, nira-nigeria (new), nitda. -->
 

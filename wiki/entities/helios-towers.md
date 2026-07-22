@@ -7,7 +7,7 @@ places: [TZA, COD, SEN, XAF]
 topics: [infra.connect, digital.rural, include.access, finance.new]
 status: active
 last_reviewed: 2026-07-20
-sources: [2026-07-20-helios-towers-150-million-senegal-digital-infrastructure], [[2026-04-13 Helios Towers completes 133 UCSAF sites to expand rural connectivity in Tanzania]]
+sources: [[2026-07-20-helios-towers-150-million-senegal-digital-infrastructure], [2026-04-13 Helios Towers completes 133 UCSAF sites to expand rural connectivity in Tanzania]]
 ---
 
 # Helios Towers

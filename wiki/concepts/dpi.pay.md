@@ -294,3 +294,7 @@ Continental rails and the sector-wide figures/theses are above. National payment
 - [[2026-07-17-nigeria-central-bank-digitises-forex-oversight]]
 - [[2026-07-20-nigeria-coordinated-regulatory-framework-virtual-assets]]
 - [[2026-07-20-cbn-rewriting-rules-nigeria-fintech-growth]]
+- [[2026-07-21-stablecoins-afcfta-cross-border-trade]] (analysis)
+- [[2026-07-21-ezi-remit-mastercard-cross-border-payments-africa]]
+- [[2026-07-22-afrique-du-sud-zazu-financement-launch-africa]]
+- [[2026-07-22-nigeria-credicorp-clickd-credit-ordinateurs-locaux]]

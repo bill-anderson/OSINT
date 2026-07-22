@@ -13,6 +13,7 @@ places: [BFA]
 topics: [gov.policy, tech.ai, infra.store, dpi.govtech]
 entities: [[ibrahim-traore]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Semaine du numérique (SN-2025) : le Président du Faso, le Capitaine Ibrahim TRAORE, patron de la 20e édition, rassure les acteurs du numérique de l'accompagnement des Autorités

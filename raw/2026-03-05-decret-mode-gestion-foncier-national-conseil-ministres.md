@@ -13,6 +13,7 @@ places: [BFA]
 topics: [gov.legislate, gov.policy, dpi.registry, dpi.govtech, digital.localgov, data.satellite]
 entities: [[ibrahim-traore]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Des innovations pour mieux gérer le foncier (Conseil des ministres)

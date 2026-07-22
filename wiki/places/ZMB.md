@@ -6,7 +6,7 @@ parent: XSA
 place_kind: country
 topics: [infra.connect, infra.cybersec, dpi.id, dpi.pay, dpi.exchange, dpi.govtech, capacity.training, gov.policy, gov.regional, finance.new, include.divides, data.open, gov.standards, geopol.china, dpi.registry, gov.protect, geopol.usa, dpi.mis, finance.mou, include.access, digital.rural, gov.legislate, tech.ai, digital.localgov, data.statistics, capacity.research]
 status: active
-last_reviewed: 2026-07-20
+last_reviewed: 2026-07-22
 ---
 
 # Zambia (ZMB)
@@ -39,6 +39,22 @@ The third is **evidentiary**: the headline numbers disagree. Penetration spans *
   e-Council platforms and is where their weakest security link sits. See [[capacity.training]],
   [[digital.localgov]], [[zambia--dpi-govtech]], [[infra.cybersec]]. Source:
   [[2026-07-20-smart-zambia-trains-146-district-officers-southern-province]].
+- **2026-07-18** *(statement issued Saturday 2026-07-18; reported 2026-07-21)* — **Cyber Crimes Act
+  enforcement declared open.** The **[[ministry-of-information-and-media-zambia|Ministry of Information
+  and Media]]** said the **[[cyber-security-act-zambia|Cyber Crimes Act No. 4 of 2025]]** is **now fully
+  operational** and warned that recording, publishing or distributing private communications without
+  authorisation could bring criminal prosecution; law-enforcement agencies would investigate where
+  sufficient evidence exists, following reports of secretly recorded meetings shared online. Framed by
+  government as protecting the digital economy (financial institutions, telcos, digital platforms, mobile
+  money, e-commerce all carry new compliance obligations); opposition parties, media bodies and digital-
+  rights advocates argue the provisions expand surveillance and chill expression — the same
+  democratic-vs-security fault line the wiki tracks around the **2026-08-13** election (cf. the 2026-04-01
+  and 2026-07-15 entries). *This dates the formal enforcement commencement; the **gazetted text of Act
+  No. 4 is now held** (assented 8 Apr, gazetted 15 Apr, commenced 12 May 2025 — a **2025-04-15 instrument
+  baseline**, not fresher news), which identifies the enforcement clause as **s.10** (recording a private
+  conversation without notifying the parties). Full provisions on [[cyber-security-act-zambia]] and
+  [[zambia--infra-cybersec]].* See [[gov.legislate]], [[infra.cybersec]], [[gov.protect]]. Sources:
+  [[2026-07-21-zambia-cyber-crimes-act-enforcement-begins]], [[2025-04-15-zambia-cyber-crimes-act-no-4-of-2025]].
 - **2026-07-17** — **Airtel Money Zambia changes MD.** **Kelvin Ndhlovu** became managing director of
   **Airtel Money Zambia**, succeeding **Andrew Chuma**, who moved to a group role within
   **[[airtel-africa|Airtel Africa]]**. Ndhlovu was previously group head of decision support for Airtel
@@ -411,6 +427,18 @@ The third is **evidentiary**: the headline numbers disagree. Penetration spans *
   after the **2026-08-13** general election.
 - **NRC coverage.** **"over 88 percent"** and **"89 percent"** of adults 16+ — *both in the same UNDP
   article (2024-09)* — against **~94% by 2021** (DZAP PAD).
+
+## Financing
+
+*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-21**.*
+
+**Non-state** — US$1.39bn committed across 11 deals (2015–2022). Top financiers: Export-Import Bank of China (US$805m), China Development Bank (US$211m), World Bank Group (US$200m). Leading subjects: `infra.connect`, `dpi.pay`, `infra.store`.
+
+Instrument mix: Commercial loan 3, Grant 3, Concessional loan 2. **1 record here still carries the capture's unverified `Concessional loan` label**, so the mix is indicative rather than established: the World Bank portal does not separate an IDA credit from an IDA grant.
+
+**Domestic state** — *(pending that dataset)*.
+
+Material deals: [[2017-01-01-eximbank-cn-zmb-005-china-eximbank-provides-3332-million-preferential]], [[2017-01-01-eximbank-cn-zmb-004-china-eximbank-provides-302-government-concessional]], [[2016-01-01-cdb-zmb-001-china-development-bank-provides-1785-million]], [[2017-05-04-wb-zmb-001-zambia-improved-rural-connectivity-project]], [[2015-01-01-bii-zmb-001-ihs-zambia-equity-investment-telecoms-tower]].
 
 ## Active topics
 

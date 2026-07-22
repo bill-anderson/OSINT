@@ -167,6 +167,18 @@ intersections above.*
   [[2021-09-13 The burden of recording and reporting health data in primary health care facilities in five low- and lower-middle income countries]].
   [[dpi.mis]] · [[data.statistics]] · [[MOZ]] · [[NGA]]
 
+## Financing
+
+*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-21**.*
+
+**Non-state** — US$629m committed across 29 deals (2015–2026). Top financiers: World Bank Group (US$150m), Economic Development Cooperation Fund (Korea Eximbank) (US$135m), Axian Group (US$100m). Leading subjects: `dpi.pay`, `infra.connect`, `tech.innovate`.
+
+Instrument mix: Grant 19, Equity 4, Concessional loan 3. **1 record here still carries the capture's unverified `Concessional loan` label**, so the mix is indicative rather than established: the World Bank portal does not separate an IDA credit from an IDA grant.
+
+**Domestic state** — *(pending that dataset)*.
+
+Material deals: [[2021-05-27-wb-tza-001-digital-tanzania-project]], [[2022-01-01-axian-tza-tigo-acquisition-2022-axian-rostam-consortium-acquisition-of-tigo-tanzania]].
+
 ## Active topics
 
 - [[dpi.id]] · [[gov.protect]] · [[dpi.registry]] · [[gov.legislate]] · [[gov.standards]] ·

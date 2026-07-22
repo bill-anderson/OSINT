@@ -6,7 +6,7 @@ parent: XWA
 place_kind: country
 topics: [gov.policy, infra.connect, infra.store, dpi.id, dpi.registry, dpi.govtech, dpi.pay, dpi.exchange, dpi.mis, gov.protect, gov.legislate, infra.cybersec, include.access, tech.ai, capacity.research, geopol.usa, geopol.eu, digital.rural, include.divides, data.satellite, finance.new, finance.mou, gov.regional, gov.standards, tech.industry]
 status: active
-last_reviewed: 2026-07-20
+last_reviewed: 2026-07-21
 ---
 
 # Senegal (SEN)
@@ -20,8 +20,13 @@ last_reviewed: 2026-07-20
   funding would help mobile operators extend coverage, including in underserved areas. **Carry the
   language precisely**: the source says *planning* and *proposed* throughout — **no signed agreement,
   no deployment schedule, no site count, no disbursement period and no counterparty operator are stated**,
-  and the **date of the meeting itself is not given** (only the publication date). The account is the
-  Presidency's; **no Helios Towers statement or filing is on file** (as of 2026-07-20). It would be
+  and the counterparty operator is not stated. **★ Date established 2026-07-21 (acquisition pass): the
+  meeting was Thursday 2026-07-16**, consistent across three independent accounts — so the 07-20 date
+  above is the publication date, not the event. Also established: Helios operated **1,479 sites in
+  Senegal in Q1 2026**, having acquired ~1,200 towers from Free on entering in 2021 — so this is **not**
+  a first Senegal position, and the line below to that effect is superseded. The account remains the
+  Presidency's; **the Presidency's own communiqué and any Helios statement or filing are still not
+  held** — the communiqué was issued via social media and did not surface (searched 2026-07-21). **Update 2026-07-21 (second daily sweep):** a trade-press account now reports the figure as a **commitment** ("Helios Towers commits $150m to Senegal expansion") rather than a plan. **Read the shift carefully — it is a reporting shift, not an evidenced one:** the account still traces to the Presidency, and **no signed agreement, deployment schedule, site count, disbursement period or Helios statement is held**. Until a company filing or an executed agreement appears, the wiki carries this as **announced intent**. Source: [[2026-07-21-helios-towers-commits-150m-to-senegal-expansion]]. It would be
   Helios's first Senegal position the wiki holds — the company's tracked footprint here is Tanzania and
   the DRC. Set against the **€270m EBRD/Yas** facility below, the passive-infrastructure layer is drawing
   capital alongside the active layer. See [[senegal--infra-connect]], [[finance.new]],
@@ -323,6 +328,18 @@ last_reviewed: 2026-07-20
   baseline for the onshore-cloud footprint the New Deal now builds on. Source:
   [[2024-05-30 Orange and AWS partner to deliver cloud services in Morocco and Senegal]]. See
   [[infra.store]], [[infra.connect]].
+
+## Financing
+
+*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-21**.*
+
+**Non-state** — US$1.25bn committed across 26 deals (2015–2025). Top financiers: Export-Import Bank of China (US$416m), Mastercard Foundation (US$200m), World Bank Group (US$150m). Leading subjects: `tech.industry`, `infra.connect`, `dpi.govtech`.
+
+Instrument mix: Grant 15, Commercial loan 5, Concessional loan 4. **1 record here still carries the capture's unverified `Concessional loan` label**, so the mix is indicative rather than established: the World Bank portal does not separate an IDA credit from an IDA grant.
+
+**Domestic state** — *(pending that dataset)*.
+
+Material deals: [[2019-01-01-mcf-sen-youngafricaworks-2019-young-africa-works-in-senegal]], [[2018-01-01-eximbank-cn-sen-002-china-eximbank-provides-rmb-105-billion]], [[2023-02-09-wb-sen-001-senegal-digital-economy-acceleration-project]], [[2021-01-01-eximbank-cn-sen-003-diamniadio-data-centre-restructuring-and-smart]], [[2018-01-01-axian-sen-tigo-acquisition-2018-axian-consortium-acquisition-of-tigo-senegal]].
 
 ## Active topics
 

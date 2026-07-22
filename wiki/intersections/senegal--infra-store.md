@@ -5,11 +5,11 @@ place: SEN
 topic: infra.store
 places: [SEN]
 topics: [infra.store, geopol.china, geopol.usa, finance.new, infra.capacity, dpi.exchange]
-entities: [[paix-data-centres], [senegal-numerique], [sonatel], [huawei], [google-senegal-sovereign-cloud]]
+entities: [[paix-data-centres], [senegal-numerique], [sonatel], [huawei], [google-senegal-sovereign-cloud], [exim-bank-china]]
 lens: [sovereignty, colonialism]
 status: active
-last_reviewed: 2026-07-20
-sources: [[2025-01-27-paix-dakar-data-center-connectingafrica], [2025-03-26-senum-sonatel-partnership], [2025-03-27-huawei-partnership-digital-sovereignty], [2025-06-27-lesoleil-senegal-huawei-accord], [2026-04-29-africabusinessinsight-senegal-alibaba-sovereign-cloud], [2024-10-04 Senegal launches sovereign cloud initiative with Google], [2025-01-23 PAIX Data Centres breaks ground on Dakar data center]]
+last_reviewed: 2026-07-21
+sources: [[2025-01-27-paix-dakar-data-center-connectingafrica], [2025-03-26-senum-sonatel-partnership], [2025-03-27-huawei-partnership-digital-sovereignty], [2025-06-27-lesoleil-senegal-huawei-accord], [2026-04-29-africabusinessinsight-senegal-alibaba-sovereign-cloud], [2024-10-04 Senegal launches sovereign cloud initiative with Google], [2025-01-23 PAIX Data Centres breaks ground on Dakar data center], [2025-09-18-bagwandeen-huawei-african-data-sovereignty-georgetown]]
 ---
 
 # Senegal × Data Centres & Sovereign Cloud
@@ -17,6 +17,29 @@ sources: [[2025-01-27-paix-dakar-data-center-connectingafrica], [2025-03-26-senu
 "Digital sovereignty" is the **first pillar** of the New Deal ([[senegal--gov-policy]]), and its
 concrete meaning is **onshore data centres and a sovereign cloud** to stop hosting Senegal's data
 abroad. The build is a **US–China contest**: Google/AWS on one side, Huawei/Alibaba on the other.
+
+## The founding move — Diamniadio, 2021 (added 2026-07-21)
+
+The page's US–China framing has an origin the wiki had not held: **Senegal was the first African state
+to replicate China's data-governance model**, in **June 2021**, requiring all servers to sit within
+national borders. The instrument was the **Diamniadio National Datacenter (DND)** — **US$18.2m**,
+**commissioned by the Senegalese government, financed by a China EximBank loan and built by
+[[huawei]]** — and it was framed explicitly as "guaranteeing Senegalese digital sovereignty". On its
+establishment **President Macky Sall instructed government to migrate all state data and digital
+platforms into it and to repatriate all national data hosted outside Senegal**. **Cheikh Bakhoum**, then
+director of **[[senegal-numerique|Sénégal Numérique]]**, said it let the country "better control its
+destiny and to definitively resolve the issue of its digital sovereignty."
+
+*Two things this reframes.* First, the New Deal's sovereignty pillar is **not a 2024–26 innovation** —
+it is the continuation of a 2021 localisation posture, and the Alibaba and Google arrangements the page
+tracks are **later entrants to a field China entered first**. Second, it makes Senegal the clearest
+African instance of the argument on [[infra.store]] that **localisation is not sovereignty**: the
+servers are onshore, but the financing, the build and the ongoing dependency are foreign — the model
+was adopted *from* China and *built by* a Chinese vendor, which is a different thing from controlling
+it. **Figures are attributed, not adopted:** the US$18.2m, the EximBank financing and the repatriation
+order come from a **Georgetown Africa-China Initiative analysis (2025-09-18)** citing secondary
+sources, and **no Senegalese primary is held for any of them**. Source:
+[[2025-09-18-bagwandeen-huawei-african-data-sovereignty-georgetown]].
 
 ## Data-centre capacity
 

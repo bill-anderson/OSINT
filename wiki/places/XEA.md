@@ -75,6 +75,18 @@ Uganda, Burundi, South Sudan and others (see [countries.csv](../countries.csv)).
   [[2025-09-24 Unveiling Seacom 2.0 - ​ ​A new digital renaissance and subsea network to power the Indian Ocean Basin's digital and AI future]].
   See [[infra.connect]], [[infra.capacity]], [[tech.ai]].
 
+## Financing
+
+*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-21**.*
+
+**Non-state** — US$447m committed across 22 deals (2015–2025). Top financiers: World Bank Group (US$377m), Bill & Melinda Gates Foundation (US$28m), BMZ (German Federal Ministry for Economic Cooperation and Development) (US$24m). Leading subjects: `dpi.pay`, `capacity.training`, `dpi.govtech`.
+
+Instrument mix: Grant 17, Concessional loan 3, Equity 1. **3 records here still carry the capture's unverified `Concessional loan` label**, so the mix is indicative rather than established: the World Bank portal does not separate an IDA credit from an IDA grant.
+
+**Domestic state** — *(pending that dataset)*.
+
+Material deals: [[2023-05-18-wb-reg-003-eastern-africa-regional-digital-integration-project]], [[2023-12-01-wb-reg-001-eastern-africa-regional-digital-integration-project]].
+
 ## Active topics
 
 - [[infra.connect]] · [[infra.capacity]] — Seacom terrestrial backbone; **Seacom 2.0**

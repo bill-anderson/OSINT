@@ -14,6 +14,7 @@ places: [BWA]
 topics: [infra.connect, tech.industry, capacity.training]
 entities: [[bofinet], [hexaract-network-experts], [comsoft-botswana]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # BoFiNet Entrusts P100M Internet Gateway Upgrade to Citizen-Owned Companies

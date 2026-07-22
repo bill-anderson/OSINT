@@ -35,6 +35,16 @@ region-level; country-specific detail lives on the country hubs.
   [[2026-07-11 BEAC joins PAPSS and accelerates cross-border payments integration in Central Africa]].
   See [[dpi.pay]], [[gov.regional]].
 
+## Financing
+
+*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-21**.*
+
+**Non-state** — US$1m committed across 1 deal (2021–2021). Top financiers: ITU (International Telecommunication Union) (US$1m). Leading subjects: `infra.connect`.
+
+Instrument mix: TA 1.
+
+**Domestic state** — *(pending that dataset)*.
+
 ## Active topics
 
 - [[dpi.pay]] · [[gov.regional]] — continental payment integration reaching CEMAC via

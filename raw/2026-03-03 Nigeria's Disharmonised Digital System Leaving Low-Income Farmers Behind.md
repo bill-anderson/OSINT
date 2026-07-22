@@ -13,6 +13,7 @@ places: [NGA, KEN, RWA, ETH]
 topics: [dpi.id, dpi.registry, include.divides, include.access, digital.rural, infra.connect]
 entities: [[nimc], [national-digital-farmers-registry-nigeria], [world-bank]]
 lens: [sovereignty]
+body_completeness: excerpt
 ---
 
 <!-- Field reporting: a rice farmer fails NIN+BVN verification for NIRSAL/GEEP loans as NIMC-NIN, CBN-BVN and SIM registration operate in silos. Only ~38% of Nigerians online (2024); the 2025 National Digital Farmers Registry (NIN-anchored) has duplications; World Bank's $500m BRIDGE project (90,000km fibre) approved Oct 2025. Comparators: India Agri Stack, Rwanda Smart Nkunganire, Ethiopia Fayda/NAFIR. Entity [[national-digital-farmers-registry-nigeria]]. -->

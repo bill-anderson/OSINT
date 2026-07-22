@@ -80,6 +80,18 @@ are arriving, though GSMA flags weak connectivity (18.8% unique mobile-internet 
   a **structural rural-cost problem** (backhaul spectrum 10× the SSA median); satellite running to
   **Eutelsat/OneWeb, not Starlink**. See [[congo--infra-connect]], [[congo--dpi-pay]], [[congo--dpi-id]].
 
+## Financing
+
+*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-21**.*
+
+**Non-state** — US$213m committed across 6 deals (2016–2022). Top financiers: World Bank Group (US$100m), African Development Bank (AfDB) (US$60m), EIB Global (European Investment Bank) (US$38m). Leading subjects: `infra.connect`, `dpi.govtech`, `dpi.pay`.
+
+Instrument mix: Commercial loan 2, Grant 2, Guarantee 1.
+
+**Domestic state** — *(pending that dataset)*.
+
+Material deals: [[2022-06-02-wb-cog-001-congo-digital-acceleration-project]].
+
 ## Active topics
 
 - **Digital identity** → **[[congo--dpi-id]]**. The **[[niu-congo]]** tax-number-turned-universal-biometric-ID;

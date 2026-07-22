@@ -253,6 +253,18 @@ the payments, AML, civil-registry and e-ID-rollout threads.
   [[2026-06-02 SIN, ST Digital to deploy cloud services at Lomé data center]]. See [[infra.store]],
   [[tech.ai]], [[gov.regional]].
 
+## Financing
+
+*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-21**.*
+
+**Non-state** — US$235m committed across 6 deals (2022–2025). Top financiers: World Bank Group (US$100m), IFC (International Finance Corporation) (US$54m), BMZ (German Federal Ministry for Economic Cooperation and Development) (US$39m). Leading subjects: `infra.connect`, `dpi.govtech`, `tech.innovate`.
+
+Instrument mix: Grant 4, Commercial loan 1, Concessional loan 1. **1 record here still carries the capture's unverified `Concessional loan` label**, so the mix is indicative rather than established: the World Bank portal does not separate an IDA credit from an IDA grant.
+
+**Domestic state** — *(pending that dataset)*.
+
+Material deals: [[2024-12-18-wb-tgo-001-togo-digital-acceleration-project]], [[2024-01-01-ifc-tgo-001-axian-togo-togocom-telecom-expansion-loan]].
+
 ## Active topics
 
 - [[dpi.id]] — MOSIP-based e-ID under [[anid-togo]] and [[wuri-programme]]; **over 6 million people

@@ -13,6 +13,7 @@ places: [CIV]
 topics: [tech.ai, gov.policy, geopol.eu]
 entities: [[smart-africa], [openai], [mistral-ai], [union-africaine], [onu], [commission-europeenne]]
 lens: []
+body_completeness: full
 ---
 
 # Sommet sur l'Intelligence artificielle à Paris : Une opportunité stratégique pour la Côte d'Ivoire

@@ -6,7 +6,7 @@ parent: XWA
 place_kind: country
 topics: [gov.policy, gov.legislate, gov.standards, gov.protect, gov.regional, tech.ai, tech.innovate, tech.industry, infra.cybersec, infra.connect, infra.store, infra.energy, data.open, data.statistics, data.satellite, dpi.govtech, dpi.exchange, dpi.id, dpi.registry, dpi.pay, dpi.mis, digital.localgov, digital.rural, capacity.training, capacity.literacy, capacity.research, finance.new, include.access, include.divides, geopol.usa, geopol.china, geopol.eu, geopol.gulf]
 status: active
-last_reviewed: 2026-07-20
+last_reviewed: 2026-07-21
 ---
 
 # Côte d'Ivoire (CIV)
@@ -34,6 +34,10 @@ sovereignty; the target is digital **6% → 15% of GDP by 2030**.
   Western Sahara) on a stated 2026 timeline, against a repeated pattern of slipped dates. See
   [[civ--infra-connect]], [[infra.connect]], [[starlink]], [[geopol.usa]]. Source:
   [[2026-07-17-starlink-launches-27th-african-country-ivory-coast]].
+  - *Corroborated and extended 2026-07-20:* a second account confirms Starlink live in Côte d'Ivoire
+    **and Seychelles**, so the CIV activation was part of a two-market step rather than a single one.
+    **[[SYC]] Seychelles is new to the wiki's Starlink record.** Source:
+    [[2026-07-20-starlink-live-cote-divoire-seychelles]].
 - **2026-07-18** — **100 electric ride-hailing cars in Abidjan — the first four-wheeler EV bet at scale.**
   **[[gocab]]**, the mobility fintech that owns **[[yango]]'s** largest CIV fleet, handed **100 fully
   electric vehicles** to driver-partners — the **first half of a 200-vehicle programme**, and one of
@@ -78,6 +82,18 @@ sovereignty; the target is digital **6% → 15% of GDP by 2030**.
   [[anssi-cote-divoire]].
 - **Counter-current** — **on-time birth registration is *falling*** (66.8% 2021 → 55.4% 2024), against the
   otherwise-positive ONECI/RNPP arc. See [[civ--dpi-id]].
+
+## Financing
+
+*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-21**.*
+
+**Non-state** — US$584m committed across 15 deals (2017–2024). Top financiers: Bank of China (BOC) (US$286m), World Bank Group (US$90m), African Development Bank (AfDB) (US$86m). Leading subjects: `dpi.govtech`, `tech.innovate`, `dpi.pay`.
+
+Instrument mix: Commercial loan 6, Grant 3, Concessional loan 3. **2 records here still carry the capture's unverified `Concessional loan` label**, so the mix is indicative rather than established: the World Bank portal does not separate an IDA credit from an IDA grant.
+
+**Domestic state** — *(pending that dataset)*.
+
+Material deals: [[2018-01-01-boc-civ-001-bank-of-china-provides-cfa-532]].
 
 ## Active topics
 

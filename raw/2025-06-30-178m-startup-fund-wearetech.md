@@ -13,6 +13,7 @@ places: [CIV]
 topics: [finance.new, tech.innovate, tech.industry, gov.policy]
 entities: [[ibrahim-kalil-konate], [startup-act-cote-divoire], [startup-boost-capital], [cote-divoire-numerique-2030]]
 lens: []
+body_completeness: full
 ---
 
 # Côte d'Ivoire Calls For $178M Fund to Boost Tech Startups

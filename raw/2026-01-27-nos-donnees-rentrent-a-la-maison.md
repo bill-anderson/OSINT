@@ -15,6 +15,7 @@ places: [BFA]
 topics: [infra.store, gov.policy, dpi.govtech, infra.cybersec, finance.new]
 entities: [[rimtalba-jean-emmanuel-ouedraogo], [ministere-transition-digitale-burkina-faso]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Nos données rentrent à la maison

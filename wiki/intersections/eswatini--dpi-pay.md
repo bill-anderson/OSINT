@@ -5,11 +5,11 @@ place: SWZ
 topic: dpi.pay
 places: [SWZ]
 topics: [dpi.pay, dpi.exchange, dpi.id, include.access, gov.policy, gov.regional, digital.localgov]
-entities: [[central-bank-of-eswatini], [eswatini-payment-switch], [eswatini-national-fintech-strategy], [mtn-eswatini], [paylogic]]
+entities: [[central-bank-of-eswatini], [eswatini-payment-switch], [eswatini-national-fintech-strategy], [mtn-eswatini], [paylogic], [central-bank-of-egypt], [papss], [afreximbank], [tcib]]
 lens: []
 status: active
-last_reviewed: 2026-07-20
-sources: [[2025-01-14 Phil Mnisi - Eswatini Payment Switch Fast Payments product launch], [2025-08-05 Robust DPI inevitable for Eswatini's economic, jobs boom - World Bank], [2025-09-28-eswatini-payment-switch-explainer], [2025-11-13-inside-eswatini-tackling-big-payments-challenges], [2025-11-16-eswatini-enters-africa-instant-payments-revolution], [2025-11-18-cbe-prioritises-broader-digital-ecosystem], [2025-12-05-fintech-to-reduce-cash-reliance], [2025-12-07-fintech-strategy-to-transform-eswatini-digital-future], [2025-09-26-eswatini-post-office-based-govt-payment-system], [2025-08-10-mobile-money-drives-financial-inclusion-growth], [2025-09-26-eswatini-national-ekyc-system]]
+last_reviewed: 2026-07-21
+sources: [[2025-01-14 Phil Mnisi - Eswatini Payment Switch Fast Payments product launch], [2025-08-05 Robust DPI inevitable for Eswatini's economic, jobs boom - World Bank], [2025-09-28-eswatini-payment-switch-explainer], [2025-11-13-inside-eswatini-tackling-big-payments-challenges], [2025-11-16-eswatini-enters-africa-instant-payments-revolution], [2025-11-18-cbe-prioritises-broader-digital-ecosystem], [2025-12-05-fintech-to-reduce-cash-reliance], [2025-12-07-fintech-strategy-to-transform-eswatini-digital-future], [2025-09-26-eswatini-post-office-based-govt-payment-system], [2025-08-10-mobile-money-drives-financial-inclusion-growth], [2025-09-26-eswatini-national-ekyc-system], [2026-07-21-egypt-eswatini-deepen-banking-cooperation], [2025-12-30-cbe-afreximbank-mou-pan-african-gold-bank], [2026-07-21-egypt-eswatini-central-banks-digital-payments]]
 ---
 
 # Eswatini × Digital Payments & Fintech
@@ -73,6 +73,28 @@ the **[[central-bank-of-eswatini|CBE]]** is closing by building **interoperabili
 - **Post offices as payment points.** **[[eptc|EPTC]]** and the Eswatini Revenue Service opened **35 post
   offices** for government-service payments — cutting travel for citizens. See [[digital.localgov]].
   Source: [[2025-09-26-eswatini-post-office-based-govt-payment-system]].
+
+## Cross-border rails
+
+- **PAPSS accession sought, not achieved (2026-07-21).** CBE governor **Phil Mnisi** met
+  **[[central-bank-of-egypt|Central Bank of Egypt]]** governor **Hassan Abdullah** to discuss how
+  Eswatini can **leverage Egypt's [[papss|PAPSS]] experience to accelerate its accession**. The plain
+  reading is that Eswatini is **not yet a PAPSS participant as of 2026-07-21**, and **no accession
+  date, target or application status is stated**. Also discussed: Egypt's currency-circulation system
+  and **Egyptian Currency Printing House**, and a proposed **[[afreximbank|Afreximbank]]×CBE
+  pan-African gold bank** (reserves and gold-trade formalisation) — a **proposal only**. **✔ Resolved same day (2026-07-21) — partner confirmed as [[afreximbank|Afreximbank]]**, the multilateral, on the CBE's own release: **MoU signed 2025-12-29**, by Governor **Hassan Abdalla** and Afreximbank President **Dr George Elombi**, at the CBE. *(A second trade-press account had rendered it "Export-Import Bank of Egypt"; that was a mis-statement of the name.)* The release adds what the wiki lacked: the initiative is at **feasibility-study stage**, sited in a **designated free zone in Egypt**, and scoped to include an **internationally accredited refinery**, **secure vaulting** and associated trading services — with Egypt named as hub **subject to the study and subsequent approvals**. Worth holding alongside the sovereignty framing: **Egypt is Afreximbank's largest shareholder and its host**. Source: [[2025-12-30-cbe-afreximbank-mou-pan-african-gold-bank]]. Prior
+  CBE–CBE(swatini) cooperation is described as covering **Basel standards, financial inclusion,
+  micro-enterprise funding and climate-risk management**. **The meeting date is not given; event date
+  unestablished.** Source: [[2026-07-21-egypt-eswatini-deepen-banking-cooperation]].
+- **CMA low-value flows migrating to [[tcib|TCIB]] (reported 2026-07-21).** Low-value transactions
+  within the **Common Monetary Area** are moving **off domestic electronic-funds-transfer rails onto
+  the TCIB scheme**, which the source says will affect **liquidity and transaction flows between
+  Eswatini, [[ZAF|South Africa]], [[LSO|Lesotho]] and [[NAM|Namibia]]**. **No timetable, volume, value
+  or mandating instrument is given** — this is the single most consequential item in the report for
+  Eswatini's own rails and it is the least specified. Worth tracking against the
+  **[[eswatini-payment-switch]]**: a domestic switch built interoperability-first, while the regional
+  low-value layer it interconnects with is itself being re-platformed. Source:
+  [[2026-07-21-egypt-eswatini-deepen-banking-cooperation]].
 
 ## Reads
 

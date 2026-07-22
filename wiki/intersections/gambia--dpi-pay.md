@@ -8,8 +8,8 @@ topics: [dpi.pay, dpi.govtech, include.access]
 entities: [[gamswitch], [yonna-wallet], [mojaloop]]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-16
-sources: [[2025-12-15 Gambia launches BANTABA 2.0, first real-time interoperable payment system], [2026-03-02 Gambia Gov't payments now digitalised live on Yonna Wallet app], [2025-07-09 Gambia Gov't launches Digital Tax Invoicing System (GRA)]]
+last_reviewed: 2026-07-21
+sources: [[2025-12-15 Gambia launches BANTABA 2.0, first real-time interoperable payment system], [2026-03-02 Gambia Gov't payments now digitalised live on Yonna Wallet app], [2025-07-09 Gambia Gov't launches Digital Tax Invoicing System (GRA)], [2026-07-20-gambia-accountant-general-sutura-digital-revenue-collection]]
 ---
 
 # The Gambia × Digital Payments

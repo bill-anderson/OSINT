@@ -189,6 +189,16 @@ struggling to reach its own territory on the other.
   [[2025-05-21-worldbank-project-paper-af-car-public-sector-digital-governance]].
   → [[caf--dpi-govtech]], [[caf--gov-protect]].
 
+## Financing
+
+*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-21**.*
+
+**Non-state** — US$54m committed across 2 deals (2017–2022). Top financiers: World Bank Group (US$35m), African Development Bank (AfDB) (US$19m). Leading subjects: `infra.connect`, `dpi.govtech`.
+
+Instrument mix: Commercial loan 1, IDA grant 1.
+
+**Domestic state** — *(pending that dataset)*.
+
 ## Active topics
 
 - **Digital identity & CRVS** → **[[caf--dpi-id]]**. Post-2013 rebuild of the CNI via

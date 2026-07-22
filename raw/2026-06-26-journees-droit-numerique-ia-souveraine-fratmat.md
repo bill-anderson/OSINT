@@ -13,6 +13,7 @@ places: [CIV]
 topics: [tech.ai, gov.legislate]
 entities: [[journees-du-droit-du-numerique], [djibril-ouattara], [kalil-konate], [charlemagne-dah]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Journées du Droit du Numérique 2026 : la Côte d’Ivoire ambitionne de bâtir une intelligence artificielle souveraine

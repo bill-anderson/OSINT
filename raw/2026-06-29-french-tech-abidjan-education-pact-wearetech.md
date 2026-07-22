@@ -13,6 +13,7 @@ places: [CIV]
 topics: [capacity.training, tech.innovate, tech.industry, include.divides, finance.mou]
 entities: [[french-tech-abidjan], [pietp-cote-divoire], [startup-act-cote-divoire], [international-finance-corporation]]
 lens: []
+body_completeness: full
 ---
 
 # Côte d'Ivoire Partners With Startups to Modernize Technical Education

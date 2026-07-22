@@ -14,6 +14,7 @@ entities: [[patn-congo], [caria-congo], [thales], [world-bank]]
 lens: [sovereignty]
 retrieved: 2026-07-17
 sweep_batch: COG-2026-07-17
+body_completeness: full
 ---
 
 # Congo Launches National Drive for Secure Digital Identity System

@@ -13,6 +13,7 @@ places: [CIV]
 topics: [geopol.china, tech.ai, digital.rural, data.satellite, tech.industry, geopol.eu]
 entities: [[huawei], [bruno-nabagne-kone], [benoit-wu], [ministry-of-agriculture-rural-development-and-food-production-cote-divoire]]
 lens: []
+body_completeness: full
 ---
 
 # Ivory Coast Eyes Huawei Partnership to Digitize Agriculture Sector

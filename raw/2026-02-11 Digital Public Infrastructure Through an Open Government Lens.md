@@ -12,6 +12,7 @@ places: [XSS]
 topics: [dpi.govtech, gov.policy, gov.protect, include.access]
 entities: [[open-government-partnership]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Digital Public Infrastructure Through an Open Government Lens

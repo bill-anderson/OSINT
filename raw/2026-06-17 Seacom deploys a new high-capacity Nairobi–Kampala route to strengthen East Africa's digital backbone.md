@@ -11,6 +11,7 @@ places: [KEN, UGA, XEA]
 topics: [infra.connect, infra.capacity, gov.regional]
 entities: [[seacom]]
 lens: []
+body_completeness: full
 ---
 
 ## Seacom deploys a new high-capacity Nairobi–Kampala route

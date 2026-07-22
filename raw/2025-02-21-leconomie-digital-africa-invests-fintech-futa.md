@@ -14,6 +14,7 @@ sweep_batch: CMR-2026-07-17
 places: [CMR]
 topics: [dpi.pay, finance.new, tech.innovate]
 entities: [[digital-africa], [futa], [agence-francaise-de-developpement]]
+body_completeness: full
 ---
 
 # Le Fonds d'amorçage français Digital Africa va investir dans la fintech camerounaise Futa

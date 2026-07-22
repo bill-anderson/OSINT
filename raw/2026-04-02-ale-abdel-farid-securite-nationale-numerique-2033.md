@@ -14,6 +14,7 @@ places: [BEN]
 topics: [infra.cybersec, gov.policy, dpi.id, infra.store, tech.ai]
 entities: [[ale-abdel-farid]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Sécurité nationale et transformation numérique : Ce que propose l'expert Ale Abdel Farid

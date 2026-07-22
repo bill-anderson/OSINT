@@ -2,12 +2,12 @@
 type: concept
 title: Regional collaboration
 slug: gov.regional
-places: [COG, COM, BDI, ZMB, XAF, NGA, KEN, RWA, NAM, AGO, ZWE, EGY, GHA, BEN, XEA, XWA, TGO, NER, BFA, MLI, TZA, UGA, MOZ, BWA, LBR, SLE, GIN, XSA, XCA, SYC, DZA, MAR, SOM, SDN, GNB]
+places: [COG, COM, BDI, ZMB, XAF, NGA, KEN, RWA, NAM, AGO, ZWE, EGY, GHA, BEN, XEA, XWA, TGO, NER, BFA, MLI, TZA, UGA, MOZ, BWA, LBR, SLE, GIN, XSA, XCA, SYC, DZA, MAR, SOM, SDN, GNB, XGL]
 entities: [[idea-mpa], [afcfta], [papss], [wamkele-mene], [equity-africanenda-gates-dpi-partnership], [ai-for-good-global-commission], [african-union], [us-auc-strategic-investment-working-group], [telecom-namibia], [powertel-paratus-fibre-corridor], [smart-africa], [afnic], [smart-africa-afnic-mou], [undp], [afcfta-digital-trade-protocol], [adli], [dial], [estdev-smart-africa-mou], [sadx], [eac], [afreximbank], [nafa], [african-development-bank], [seacom], [paula-ingabire], [watra], [wuri-programme], [ecowas], [alliance-of-sahel-states], [uneca], [gsma], [africa-data-centres], [cassava-technologies], [africa-cdc], [america-first-global-health-strategy], [sigmat], [wardip], [un-ai-scientific-panel], [gtmi], [onafriq], [vodacom], [bayobab-zambia], [cbn], [world-bank], [pesalink], [bank-of-ghana], [au-google-mou], [google], [beac], [eac-cross-border-payment-masterplan], [tips-tanzania], [rswitch-rwanda], [afcfta-digital-trade-corridor], [seychelles-afcfta-mou], [cross-border-data-flows-afcfta-ria-2025], [research-ict-africa], [caiga], [icann], [afrinic], [africa-ai-declaration], [itu], [alice-munyua], [comesa], [kenya-angola-ict-mou], [angola-mozambique-space-digital-mou], [nigeria-angola-space-cooperation], [anacom-angola-mission], [ministerio-das-telecomunicacoes-tecnologias-de-informacao-e-comunicacao-social-angola], [ggpen], [angosat-2]]
 lens: [sovereignty, colonialism]
 status: active
-last_reviewed: 2026-07-20
-sources: [[2026-07-10-itu-icpc-advisory-body-cable-resilience-report], [2026-07-15-watra-regional-subsea-resilience-plan], [2026-07-07 African nations recommit to operationalize AfCFTA digital single market framework], [2025-09-11 DZAP World Bank PAD], [2026-07-03 AfCFTA, Data Governance and the Hidden Legal Gaps Reshaping Africa's Digital Economy - P.M. News], [2026-07-07 Equity, AfricaNenda and Gates Foundation Partner to Advance Digital Public Infrastructure Across Africa], [2026-06-17 Priced out of the future Confronting the rising cost of AI in Africa], [2026-05-21 AI for Good Global Commission], [2026-01-28 Joint Statement of the United States and African Union on the Launch of a Strategic Investment Working Group], [2026-07-03 Study finds governance, not technology, is blocking digital ID interoperability], [2026-06-15 Telecom Namibia signs more satellite, subsea connectivity deals with Angola firms], [2026-07-06 Powertel, Paratus Zimbabwe switch on new digital highway], [2026-07-09 Smart Africa and AFNIC Partner to Strengthen Africa's Internet Infrastructure], [2026-01-01 Digital Public Infrastructure in Africa - UNDP], [2026-07-09 Nigeria Takes AfCFTA Council Chair as Digital Forum Charts Roadmap for Implementation], [2026-04-08 Africa's digital trade push requires 700 data centres, says AfCFTA chief], [2026-05-27 Africa's economic future hinges on breaking down silos. This ADLI cohort advances integration], [2026-05-28 Estonia backs Africa digital infrastructure], [2026-04-27 Smart Africa drives cross-border data interoperability through SADX Technical Mission], [2026-05-16 World Bank, African DPAs outline formula for trusted digital identity, DPI], [2026-05-30 Afreximbank Banks on Digital Payments to Unlock Africa's Trillion-Dollar Trade Potential], [2026-02-26 The AfDB's push for African financial sovereignty, and a tech investment rebound], [2026-05-26 AfDB says Africa must fund its own growth as aid model frays], [2025-09-24 Unveiling Seacom 2.0 - ​ ​A new digital renaissance and subsea network to power the Indian Ocean Basin's digital and AI future], [2026-03-31 EAC moves to create unified AI Sovereignty bloc], [2026-04-13 WATRA rallies Africa for region's $216b digital economy], [2026-03-30 ECOWAS, World Bank Advance West Africa Digital Identity], [2026-03-30 Focus on Sahel digital sovereignty gets clearer with Niger's new biometric ID card], [2026-04-13 Stakeholders urge shift in digital public infrastructure trajectory], [2026-03-19 African Digital Health Data Is a Condition of Global Health Funding], [2026-03-02 Pesalink and PAPSS link networks for African payments], [2026-02-05 Bank of Ghana Calls for Payment System Overhaul to Unlock AfCFTA Trade], [2026-02-20 AUC Signs Partnership With Google], [2026-07-14 Zambia and COMESA Launch AI Initiative to Advance Regional Digital Transformation]]
+last_reviewed: 2026-07-22
+sources: [[2026-07-10-itu-icpc-advisory-body-cable-resilience-report], [2026-07-15-watra-regional-subsea-resilience-plan], [2026-07-07 African nations recommit to operationalize AfCFTA digital single market framework], [2025-09-11 DZAP World Bank PAD], [2026-07-03 AfCFTA, Data Governance and the Hidden Legal Gaps Reshaping Africa's Digital Economy - P.M. News], [2026-07-07 Equity, AfricaNenda and Gates Foundation Partner to Advance Digital Public Infrastructure Across Africa], [2026-06-17 Priced out of the future Confronting the rising cost of AI in Africa], [2026-05-21 AI for Good Global Commission], [2026-01-28 Joint Statement of the United States and African Union on the Launch of a Strategic Investment Working Group], [2026-07-03 Study finds governance, not technology, is blocking digital ID interoperability], [2026-06-15 Telecom Namibia signs more satellite, subsea connectivity deals with Angola firms], [2026-07-06 Powertel, Paratus Zimbabwe switch on new digital highway], [2026-07-09 Smart Africa and AFNIC Partner to Strengthen Africa's Internet Infrastructure], [2026-01-01 Digital Public Infrastructure in Africa - UNDP], [2026-07-09 Nigeria Takes AfCFTA Council Chair as Digital Forum Charts Roadmap for Implementation], [2026-04-08 Africa's digital trade push requires 700 data centres, says AfCFTA chief], [2026-05-27 Africa's economic future hinges on breaking down silos. This ADLI cohort advances integration], [2026-05-28 Estonia backs Africa digital infrastructure], [2026-04-27 Smart Africa drives cross-border data interoperability through SADX Technical Mission], [2026-05-16 World Bank, African DPAs outline formula for trusted digital identity, DPI], [2026-05-30 Afreximbank Banks on Digital Payments to Unlock Africa's Trillion-Dollar Trade Potential], [2026-02-26 The AfDB's push for African financial sovereignty, and a tech investment rebound], [2026-05-26 AfDB says Africa must fund its own growth as aid model frays], [2025-09-24 Unveiling Seacom 2.0 - ​ ​A new digital renaissance and subsea network to power the Indian Ocean Basin's digital and AI future], [2026-03-31 EAC moves to create unified AI Sovereignty bloc], [2026-04-13 WATRA rallies Africa for region's $216b digital economy], [2026-03-30 ECOWAS, World Bank Advance West Africa Digital Identity], [2026-03-30 Focus on Sahel digital sovereignty gets clearer with Niger's new biometric ID card], [2026-04-13 Stakeholders urge shift in digital public infrastructure trajectory], [2026-03-19 African Digital Health Data Is a Condition of Global Health Funding], [2026-03-02 Pesalink and PAPSS link networks for African payments], [2026-02-05 Bank of Ghana Calls for Payment System Overhaul to Unlock AfCFTA Trade], [2026-02-20 AUC Signs Partnership With Google], [2026-07-14 Zambia and COMESA Launch AI Initiative to Advance Regional Digital Transformation], [2026-07-15-sovereignty-through-collaboration-geneva-digital-week]]
 ---
 
 # Regional collaboration (`gov.regional`)
@@ -16,6 +16,16 @@ Cross-border harmonisation of digital infrastructure, rules and markets.
 
 ## Key material
 
+- **Analysis — regionalism as "the practical form autonomy takes" (Schoemaker, Global Policy Journal,
+  2026-07).** [[sovereignty]] **Cited by author, not evidence.** Reflecting on the UN Global Dialogue on AI
+  Governance (Geneva, 6–11 July 2026), Emrys Schoemaker (Global Digital Governance Lab) inverts the usual
+  reading of regional AI governance as fragmentation: for a state with limited compute, data and regulatory
+  capacity, **AI sovereignty is unachievable alone**, so regional and plurilateral arrangements — pooling
+  regulatory expertise, negotiating collectively with model providers, building shared linguistic/data
+  infrastructure — are **the level at which agency can plausibly be assembled**, not a failure mode. A
+  directly relevant analytical frame for the [[eac]] AI-sovereignty bloc, the COMESA AI strategy work and
+  AU continental coordination. See [[tech.ai]], [[XGL]]. Source:
+  [[2026-07-15-sovereignty-through-collaboration-geneva-digital-week]].
 - **COMESA moves onto AI-policy harmonisation (2026-07).** **[[comesa]]** — coordinating REC for the
   **[[idea-mpa]]** programme — launched (with Zambia's Ministry of Technology and Science and the
   **[[world-bank]]**) an **AI Sensitisation Workshop** in Lusaka, the first structured step toward a
@@ -301,11 +311,14 @@ Cross-border harmonisation of digital infrastructure, rules and markets.
   ICANN would not apply to RIPE NCC/ARIN/APNIC. Regional coordination as a vector of capture, not
   harmonisation. See [[infra.connect]], [[sovereignty]], [[colonialism]]. Source:
   [[2025-11-04 The Double Standard Why Are Internet Governance Rules Different for Africa]].
-- **AU AI coordination — the Africa AI Council (Nagadya, 2026-05-04).** The April-2025 Kigali
-  **[[africa-ai-declaration]]** established an **Africa AI Council co-chaired by the AUC and the
-  [[itu]]** and a $60bn Africa AI Fund — read (with the AU Continental AI Strategy) as the continental
-  coordination layer whose shared blind spot is the informal economy. See [[tech.ai]]. Source:
-  [[2026-05-04 The World's Most Needed AI Governance Framework Doesn't Exist Yet. Africa Should Build It]].
+- **AU AI coordination — the [[africa-ai-council|Africa AI Council]] (Nagadya, 2026-05-04).** The April-2025 Kigali
+  **[[africa-ai-declaration]]** **endorsed** an **Africa AI Council under the Smart Africa Steering Committee,
+  co-chaired by the AUC and the [[itu]]**, alongside a $60bn Africa AI Fund — read (with the AU Continental AI
+  Strategy) as the continental coordination layer whose shared blind spot is the informal economy. Smart
+  Africa's Board then **formally established** it on **2025-11-17** (Conakry), naming 15 members. See
+  [[tech.ai]]. Sources:
+  [[2026-05-04 The World's Most Needed AI Governance Framework Doesn't Exist Yet. Africa Should Build It]],
+  [[2025-11-17-smart-africa-inaugural-africa-ai-council]].
 - **[[NGA]]/[[XWA]] Nigeria rolls out the ECOWAS biometric ID card (2025-11).** Nigeria launched the
   **[[enbic]]** (ENBIC), replacing the paper ECOWAS travel
   certificate with a biometric card for passport-free regional movement — the mutual-recognition ID
@@ -353,6 +366,7 @@ split per country. Two place-specific treatments were minted from the place side
 
 ## Sources
 
+- [[2026-07-21-stablecoins-afcfta-cross-border-trade]] (analysis — stablecoins as AfCFTA settlement layer)
 - [[2026-07-07 African nations recommit to operationalize AfCFTA digital single market framework]]
 - [[2025-09-11 DZAP World Bank PAD]]
 - [[2026-07-03 AfCFTA, Data Governance and the Hidden Legal Gaps Reshaping Africa's Digital Economy - P.M. News]]

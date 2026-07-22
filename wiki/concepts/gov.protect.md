@@ -3,11 +3,11 @@ type: concept
 title: Data protection
 slug: gov.protect
 places: [MRT, COM, CIV, CMR, BWA, BDI, AGO, XAF, CAF, NGA, KEN, MWI, COD, ZAF, MUS, BEN, UGA, LBR, ZWE, ZMB, SEN, NAM, COG, SOM, MOZ, RWA, STP, TZA, XGL, DJI, CPV, DZA, EGY, SSD, SLE, SWZ, SYC, TCD, TGO, SDN, MLI, GAB, BFA]
-entities: [[afcfta], [cbn], [ndpc], [meta], [ndpc-meta-settlement], [microsoft], [g42], [african-union], [popia], [research-ict-africa], [trendai], [ncc], [bosun-tijani], [fccpc], [sa-digital-id-regulations], [eac], [id4africa], [world-bank], [visa], [safaricom], [onafriq], [visa-mpesa-onafriq-drc-stablecoin-pilot], [america-first-global-health-strategy], [us-kenya-health-framework], [odpc-kenya], [zimbabwe-us-health-mou], [africa-cdc], [zte], [hikvision], [huawei], [cran], [starlink], [zambia-us-health-mou], [us-department-of-state], [national-personal-data-protection-commission-congo], [somalia-ministry-communications-technology], [intic-mozambique], [malawi-data-protection-act-2024], [dial], [nimc], [nigeria-data-protection-act-2023], [inec], [digital-rights-lawyers-initiative], [consumer-federation-of-kenya], [kenya-data-marketplace], [eu-ai-act], [au-data-policy-framework], [digital-policy-alert], [tech-hive-advisory], [code-for-africa], [d4d-hub], [auda-nepad], [kictanet], [pdpc-tanzania], [data-protection-act-2022-eswatini], [esccom], [apc], [smart-africa], [sadc], [data-protection-act-2023-seychelles], [information-commission-seychelles], [boukar-michel], [ipdcp-togo], [haac-togo], [haac-ipdcp-accord], [apdp-mali], [anpdp], [algeria-law-18-07], [rica-south-africa], [act-south-africa]]
+entities: [[afcfta], [cbn], [ndpc], [meta], [ndpc-meta-settlement], [microsoft], [g42], [african-union], [popia], [research-ict-africa], [trendai], [ncc], [bosun-tijani], [fccpc], [sa-digital-id-regulations], [eac], [id4africa], [world-bank], [visa], [safaricom], [onafriq], [visa-mpesa-onafriq-drc-stablecoin-pilot], [america-first-global-health-strategy], [us-kenya-health-framework], [odpc-kenya], [zimbabwe-us-health-mou], [africa-cdc], [zte], [hikvision], [huawei], [cran], [starlink], [zambia-us-health-mou], [us-department-of-state], [national-personal-data-protection-commission-congo], [somalia-ministry-communications-technology], [intic-mozambique], [malawi-data-protection-act-2024], [dial], [nimc], [nigeria-data-protection-act-2023], [inec], [digital-rights-lawyers-initiative], [consumer-federation-of-kenya], [kenya-data-marketplace], [eu-ai-act], [au-data-policy-framework], [digital-policy-alert], [tech-hive-advisory], [code-for-africa], [d4d-hub], [auda-nepad], [kictanet], [pdpc-tanzania], [data-protection-act-2022-eswatini], [esccom], [apc], [smart-africa], [sadc], [data-protection-act-2023-seychelles], [information-commission-seychelles], [boukar-michel], [ipdcp-togo], [haac-togo], [haac-ipdcp-accord], [apdp-mali], [anpdp], [algeria-law-18-07], [rica-south-africa], [act-south-africa], [cipesa], [unwanted-witness], [malabo-convention], [icnl], [thraets]]
 lens: [sovereignty, colonialism]
 status: active
-last_reviewed: 2026-07-20
-sources: [[2026-01-11 The Year of the Teeth Data Protection in Africa Roundup, 2025, Projections for 2026], [2026-05-05 Africa's data protection laws began to bite in 2025], [2026-07-03 AfCFTA, Data Governance and the Hidden Legal Gaps Reshaping Africa's Digital Economy - P.M. News], [2026-07-07 CBN's local data order puts Nigeria's data centres to test], [2026-07-07 Malawi integrates immigration e-services], [2026-06-09 Meta backs NDPC in landmark privacy initiative], [2026-06-08 The Promise and Limits of African Data Sovereignty], [2026-07-03 Study finds governance, not technology, is blocking digital ID interoperability], [2026-06-17 Government data silos threaten Nigeria's AI ambitions], [2025-01-01 South African Digital Sovereignty at the Crossroad of Securitization and Development (Chapter 4) - Digital Sovereignty in the BRICS Countries], [2026-07-09 Anthropic's Claude to bolster data sovereignty in SA], [2026-07-10 Kenya and U.S. Discuss Draft Data Governance Policy to Strengthen Digital Economy], [2026-07-08 FG Halts Enforcement of New Regulations on Internet Platforms], [2026-07-10 Nigeria tests data sovereignty as foreign tech firms facing probe], [2026-05-29 Opinion South Africa's Digital Identity Regulations A Governance Crossroads], [2026-05-16 World Bank, African DPAs outline formula for trusted digital identity, DPI], [2026-04-23 Africa's $205 Billion Digital Shift Is Redefining Money, and Central Banks Are Losing Control], [2026-03-04 Data Protection is the Next Frontier for Nigeria's Digital Economy, Says Samiat], [2026-02-02 NIN, Party e-registration and the NDPA 2023 When politics meets privacy (and why Nigerians should care)], [2026-02-27 Who Protects Nigeria's Digital Citizens Unmasking Accountability Gaps in Digital Rights Governance], [2026-03-07 Nigerians Groan Under Digital Identity Regime That Turns Basic Rights into Privileges], [2026-07-10 FIJ Showed That INEC Broke Data Law. Digital Rights Lawyers Sue the Commission 10 Months Later], [2026-07-10 Why Nigeria Is Investigating Meta, Google, X and AI Firms], [2026-07-10 CBN's Data Localisation Directive Puts Nigerian Fintechs In A Cloud Dilemma], [2026-07-14 OUT, PDPC Launch National Data Protection Programme], [2022-03-04 Eswatini Data Protection Act 2022 (Act No. 5 of 2022)], [2024-01-01 Data Protection Act 5 of 2022 - Eswatini], [2025-01-01 Role of ESCCOM as National Data Protection Agency], [2024-03-11 Eswatini strives for digital sovereignty amid technological advancements], [2024-07-22 Risk of human rights infringement as Eswatini rushes to regulate the ICT sector], [2025-07-25 RFP - Eswatini National Data Policy (Smart Africa)], [2025-07-31 Eswatini Economic Update - Digital Transformation Key to Unlocking Growth], [2024-03-25 Data Protection Law Now In Force In Seychelles], [2024-06-04 Review of Seychelles DPA], [2025-12-10 Chad Finalizes Digital Law to Align National Framework With Global Standards], [2025-12-12 Personal data and digital rights in Togo - HAAC and IPDCP seal institutional cooperation accord], [2023-12-21 ISR - WURI Phase 2 Seq 06 (P169594)], [2026-07-20-south-africa-sim-registration-rica-digital-id], [2026-07-20-algerie-anpdp-regles-publication-images-plateformes], [2026-07-02 Visa tests stablecoins in DRC for cross-border payments (The EastAfrican)], [2026-07-02 DR Congo becomes Africa's live test for dollar-settled mobile money (Ecofin)]]
+last_reviewed: 2026-07-21
+sources: [[2026-01-11 The Year of the Teeth Data Protection in Africa Roundup, 2025, Projections for 2026], [2026-05-05 Africa's data protection laws began to bite in 2025], [2026-07-03 AfCFTA, Data Governance and the Hidden Legal Gaps Reshaping Africa's Digital Economy - P.M. News], [2026-07-07 CBN's local data order puts Nigeria's data centres to test], [2026-07-07 Malawi integrates immigration e-services], [2026-06-09 Meta backs NDPC in landmark privacy initiative], [2026-06-08 The Promise and Limits of African Data Sovereignty], [2026-07-03 Study finds governance, not technology, is blocking digital ID interoperability], [2026-06-17 Government data silos threaten Nigeria's AI ambitions], [2025-01-01 South African Digital Sovereignty at the Crossroad of Securitization and Development (Chapter 4) - Digital Sovereignty in the BRICS Countries], [2026-07-09 Anthropic's Claude to bolster data sovereignty in SA], [2026-07-10 Kenya and U.S. Discuss Draft Data Governance Policy to Strengthen Digital Economy], [2026-07-08 FG Halts Enforcement of New Regulations on Internet Platforms], [2026-07-10 Nigeria tests data sovereignty as foreign tech firms facing probe], [2026-05-29 Opinion South Africa's Digital Identity Regulations A Governance Crossroads], [2026-05-16 World Bank, African DPAs outline formula for trusted digital identity, DPI], [2026-04-23 Africa's $205 Billion Digital Shift Is Redefining Money, and Central Banks Are Losing Control], [2026-03-04 Data Protection is the Next Frontier for Nigeria's Digital Economy, Says Samiat], [2026-02-02 NIN, Party e-registration and the NDPA 2023 When politics meets privacy (and why Nigerians should care)], [2026-02-27 Who Protects Nigeria's Digital Citizens Unmasking Accountability Gaps in Digital Rights Governance], [2026-03-07 Nigerians Groan Under Digital Identity Regime That Turns Basic Rights into Privileges], [2026-07-10 FIJ Showed That INEC Broke Data Law. Digital Rights Lawyers Sue the Commission 10 Months Later], [2026-07-10 Why Nigeria Is Investigating Meta, Google, X and AI Firms], [2026-07-10 CBN's Data Localisation Directive Puts Nigerian Fintechs In A Cloud Dilemma], [2026-07-14 OUT, PDPC Launch National Data Protection Programme], [2022-03-04 Eswatini Data Protection Act 2022 (Act No. 5 of 2022)], [2024-01-01 Data Protection Act 5 of 2022 - Eswatini], [2025-01-01 Role of ESCCOM as National Data Protection Agency], [2024-03-11 Eswatini strives for digital sovereignty amid technological advancements], [2024-07-22 Risk of human rights infringement as Eswatini rushes to regulate the ICT sector], [2025-07-25 RFP - Eswatini National Data Policy (Smart Africa)], [2025-07-31 Eswatini Economic Update - Digital Transformation Key to Unlocking Growth], [2024-03-25 Data Protection Law Now In Force In Seychelles], [2024-06-04 Review of Seychelles DPA], [2025-12-10 Chad Finalizes Digital Law to Align National Framework With Global Standards], [2025-12-12 Personal data and digital rights in Togo - HAAC and IPDCP seal institutional cooperation accord], [2023-12-21 ISR - WURI Phase 2 Seq 06 (P169594)], [2026-07-20-south-africa-sim-registration-rica-digital-id], [2026-07-20-algerie-anpdp-regles-publication-images-plateformes], [2026-07-02 Visa tests stablecoins in DRC for cross-border payments (The EastAfrican)], [2026-07-02 DR Congo becomes Africa's live test for dollar-settled mobile money (Ecofin)], [2018-08-02-uganda-cctv-cameras-finally-arrive-monitor], [2012-01-01-aiddata-kenya-cctv-100m-chinese-grant-project-30364], [2025-03-12-cipesa-surveillance-footprint-africa-privacy-data-protection], [2025-06-13-unwanted-witness-surveillance-spyware-report-launch], [2023-09-27-ids-mapping-supply-surveillance-technologies-africa-1bn]]
 ---
 
 # Data protection (`gov.protect`)
@@ -17,6 +17,52 @@ Personal-data regimes across African jurisdictions — and the friction their
 
 ## Key material — continental & thematic
 
+- **The surveillance side of the ledger — two 2025 civil-society baselines (ingested 2026-07-21).**
+  [[sovereignty]] *Both are 2025 sources arriving late: baselines, not current state.*
+  **CIPESA (2025-03-12, Edrine Wanyama)** reports a **Digital Rights Alliance Africa** learning session
+  on surveillance threats to civil society. DRAA was created by **ICNL** and **[[cipesa]]** in response
+  to rising digital authoritarianism and spans **more than 12 countries**. Three figures worth holding,
+  each dated and attributed: **Richard Ngamita (Thraets)** is reported putting African government
+  spending on surveillance technology at **~US$1bn annually**. **★ Corrected within this same run
+  (acquire, 2026-07-21) — the underlying IDS release is now held and the figure does not mean what the
+  secondary implies.** IDS's *Mapping the Supply of Surveillance Technologies to Africa*
+  (**2023-09-27**, Tony Roberts and 11 others, with the African Digital Rights Network) finds that
+  **five named countries — [[NGA]], [[GHA]], [[MAR]], [[MWI]] and [[ZMB]] — collectively spend at least
+  US$1bn a year**, on contracts with US, UK, Chinese, EU and Israeli suppliers. It is **not a
+  continental total**, and it is a **2023** figure, not a 2025 one. Carry it as *five-country, 2023*.
+  The same release gives figures the wiki did not hold: **Nigeria alone at ≥US$2.7bn** of known
+  contracts over a decade (**~US$12 per citizen**), the continent's largest buyer; **Ghana, Morocco and
+  Zambia each over US$250m** on Chinese safe-city packages; **[[EGY]]** running the **US firm
+  Honeywell's** safe-city package; and **Malawi the only one of the five to have rejected** the Chinese
+  offer. Its supply-chain finding is the sharper one: **US and European firms are losing their historic
+  dominance of phone and internet surveillance to [[huawei]] and [[zte]]**, while **the USA and UK
+  dominate social-media surveillance and "political marketing" consultancy**, and **Germany, Italy and
+  Israel are the major exporters of phone-hacking malware** — so "Chinese surveillance" names one layer
+  of a market the West still leads elsewhere. *Distinguish this 2023 study from IDS's separate
+  **March-2026** Smart City Surveillance report — same lead author, different work, different
+  figures.* Source: [[2023-09-27-ids-mapping-supply-surveillance-technologies-africa-1bn]];
+  the **[[malabo-convention|Malabo Convention]] stood at 16 ratifications of 55 states**; and **only 36
+  states had enacted specific data-protection laws** *(both as at 2025-03 — the wiki separately holds
+  Equatorial Guinea ratifying on 2026-03-25, so the ratification count has since moved)*. The framing
+  it supplies is the mechanism: surveillance is **"often facilitated by biometric data collection
+  systems"** — national ID, voter cards, travel documents, mandatory SIM registration, smart-city CCTV
+  — which places it directly on top of the DPI stack this wiki tracks, rather than beside it.
+  **[[unwanted-witness|Unwanted Witness]] (announced 2025-06-13; launched Harare 2025-06-10)**, with
+  **MISA Zimbabwe**, the **Open Society Foundations** and the **Ford Foundation**, released
+  *"Surveillance/Spyware: An Impediment to Civil Society, HRDs & Journalists in East & Southern
+  Africa"* — case studies in **[[KEN]], [[RWA]], [[UGA]], [[ETH]], [[ZWE]], [[ZAF]] and [[MWI]]**,
+  documenting **Pegasus, FinFisher, IMSI catchers, biometric systems and real-time communication
+  intercepts**, and the misuse of **cybersecurity and anti-terrorism law** to justify them. Executive
+  Director **Dorothy Mukasa**: *"this right is under siege as states and non-state actors deploy
+  increasingly sophisticated tools to monitor, intimidate, and silence dissent."* **The report itself
+  is not held** — this is the launch announcement only, and nothing here should be cited as its
+  findings. **Acquisition attempted and failed 2026-07-21** (`unwantedwitness.org` download path returns
+  not-found); **not held, and dropped rather than parked.** The **Spaces for Change** report on dual-use
+  surveillance in Nigeria, which CIPESA cites for its finding on weak regulation and unaccountable state
+  practice, was **also attempted and dropped the same day** — its page serves metadata only behind a
+  74 MB gated download (created 2024-10-28), so **that report is not held either**. Sources:
+  [[2025-03-12-cipesa-surveillance-footprint-africa-privacy-data-protection]],
+  [[2025-06-13-unwanted-witness-surveillance-spyware-report-launch]].
 - **Enforcement is the frontier, not legislation (2026 H1).** The gap is now implementation, not
   statute: Unwanted Witness’s **Privacy Scorecard 2025** ([[privacy-scorecard-report]]) puts
   continental compliance at just **46%** (health sector 22%), and a 13-CSO coalition led by
@@ -164,9 +210,22 @@ Personal-data regimes across African jurisdictions — and the friction their
   [[2026-04-04 Chinese surveillance rolled out in Africa ZTE, Hikvision, Huawei at the helm]].
 - **Facial recognition — build the rules the tech lacks (Nagadya, 2026-06).** Building on
   Buolamwini's bias research (34.7% error on dark-skinned women), Nagadya catalogues large African
-  biometric-surveillance spends with no legal safeguards: **Uganda $126m / 1,800 Kampala cameras**,
+  biometric-surveillance spends with no legal safeguards: **Uganda $126m**,
   **Nigeria >$470m**, **Kenya $219m**, across **11 African countries** — an **IDS (Institute of
   Development Studies) March-2026 report** finding *no adequate legal framework in any*.
+  **Corrected 2026-07-21 (reconcile).** This page previously carried "**1,800 Kampala cameras**"
+  alongside Uganda's $126m. **The 1,800 figure is Kenya's, not Uganda's**, and its appearance here was
+  a **transposition**: the analysis it came from lifted Uganda's $126m, Nigeria's >$470m and Kenya's
+  $219m verbatim from the IDS press release — **which carries no camera counts at all** — and attached
+  Kenya's camera count to Uganda's row. Uganda's own figures, from contemporaneous Ugandan reporting of
+  the police account: **5,552 cameras nationwide, of which 3,233 planned for Kampala Metropolitan**
+  (2018-08-02), under the **Uganda Police National CCTV Network Expansion Project** supplied by
+  **[[huawei]]**. On money: the police sought **UGX 458bn (then given as ~$124m)** in three
+  instalments; **US$126m is the figure that settled in later reporting (2019-08)** and is a
+  **conversion of the UGX contract value**, which is the announcing party's own currency. See
+  [[UGA]], [[geopol.china]]. Sources:
+  [[2018-08-02-uganda-cctv-cameras-finally-arrive-monitor]],
+  [[2012-01-01-aiddata-kenya-cctv-100m-chinese-grant-project-30364]].
   Counter-references: the **[[eu-ai-act]]** banned real-time public facial recognition for law
   enforcement (Feb 2025); Rwanda's AI policy carries a human-oversight requirement; Nigeria's CBN
   requires fintech AI explainability. She proposes pre-deployment accuracy testing on African faces,

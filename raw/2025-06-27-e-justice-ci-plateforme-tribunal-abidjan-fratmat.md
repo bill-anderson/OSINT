@@ -13,6 +13,7 @@ places: [CIV]
 topics: [dpi.govtech, dpi.id]
 entities: [[oneci], [ministere-de-la-justice-cote-divoire], [e-justice-ci]]
 lens: []
+body_completeness: full
 ---
 
 # Tribunal de 1re instance d'Abidjan : Le ministre Sansan Kambilé lance la plateforme digitale "e-justice.ci"

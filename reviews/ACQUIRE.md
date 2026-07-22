@@ -46,7 +46,7 @@ standing chore. Bill analyses the data; he does not manage the queue.
 Append **one terse entry** to `wiki/log.md` (a few lines): counts acquired /
 dropped (with reason class), pages that gained a dated not-held line. Then:
 
-`contradictions - NN ; acquisitions - NN ; decisions logged - NN`
+`contradictions - NN ; acquisitions - NN ; awaiting ingest - NN ; decisions logged - NN`
 
 `acquisitions - 00` is the expected end state.
 

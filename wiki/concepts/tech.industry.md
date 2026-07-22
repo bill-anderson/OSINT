@@ -220,3 +220,4 @@ Africa's emerging data-centre operators.
 - [[2026-04-16 The Long View - What ICT4D did for Africa and why that deep past matters for today]]
 - [[2026-02-23 111 - Winning But Losing - The Payments End Game]]
 - [[2026-06-05 Microsoft Build 2026 What Caught My Attention and What It Means for Africa]]
+- [[2026-07-22-nigeria-credicorp-clickd-credit-ordinateurs-locaux]]

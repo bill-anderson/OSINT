@@ -92,6 +92,18 @@ blocs are entities: [[ecowas]], [[afcfta]], [[alliance-of-sahel-states]], [[watr
   agenda. Source: [[2024-06-27 WURI digital ID project improving access to public services in Benin]]
   ([[BEN]], [[world-bank]], [[anip-benin]]). See [[dpi.id]], [[include.access]], [[gov.regional]].
 
+## Financing
+
+*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-21**.*
+
+**Non-state** — US$1.37bn committed across 18 deals (2016–2026). Top financiers: World Bank Group (US$854m), Equinix (US$320m), e& (formerly Etisalat) (US$157m). Leading subjects: `dpi.pay`, `infra.connect`, `dpi.id`.
+
+Instrument mix: Grant 9, Concessional loan 6, Equity 3. **6 records here still carry the capture's unverified `Concessional loan` label**, so the mix is indicative rather than established: the World Bank portal does not separate an IDA credit from an IDA grant.
+
+**Domestic state** — *(pending that dataset)*.
+
+Material deals: [[2022-01-01-equinix-reg-mainone-acq-2022-equinix-acquisition-of-mainone-west-africa]], [[2020-04-28-wb-reg-004-west-africa-unique-identification-for-regional]], [[2023-11-30-wb-reg-002-digital-transformation-for-africa-western-africa]], [[2021-01-01-eand-reg-west-africa-cable-2021-maroc-telecom-west-africa-submarine-fibre]], [[2026-03-11-wb-reg-012-western-africa-regional-digital-integration-program]], [[2018-06-05-wb-reg-005-west-africa-unique-identification-for-regional]].
+
 ## Active topics
 
 - [[gov.regional]] · [[gov.policy]] — ECOWAS Digital Single Market + Regional AI Governance

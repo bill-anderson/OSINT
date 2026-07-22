@@ -2,6 +2,7 @@
 type: source
 title: "DGSN Institutional Brochure (Morocco)"
 url: https://www.dgsn.gov.ma
+url_note: "url unrecovered as of 2026-07-21 (lint #14). dgsn.gov.ma refuses connections from outside Morocco and the Wayback CDX index holds no PDF captures for the host, so no document path can be established."
 publisher: DGSN (Direction Générale de la Sûreté Nationale, Morocco)
 author: DGSN
 published: 2024-09-18
@@ -15,7 +16,6 @@ lens: []
 body_completeness: full
 artefact: "2024-09-18 PlaquetteInstitutionnel DGSN Morocco (Ang).pdf"
 ---
-<!-- url unrecovered as of 2026-07-20 -->
 
 # DGSN Institutional Brochure (Morocco)
 

@@ -6,7 +6,7 @@ parent: XEA
 place_kind: country
 topics: [dpi.pay, dpi.exchange, dpi.govtech, dpi.id, dpi.registry, infra.connect, infra.energy, infra.store, infra.cybersec, geopol.china, gov.protect, gov.legislate, gov.policy, gov.regional, gov.standards, finance.new, include.divides, include.access, tech.industry]
 status: active
-last_reviewed: 2026-07-20
+last_reviewed: 2026-07-21
 ---
 
 # South Sudan (SSD)
@@ -41,22 +41,47 @@ but ahead of the governance frameworks meant to hold it.
   only the workshop. Notable that the process is **donor-scaffolded** (EA-RDIP) and consultant-led, the
   pattern already visible across South Sudan's digital build. See [[south-sudan--infra-connect]],
   [[gov.policy]], [[gov.regional]], [[infra.cybersec]]. Source: [[2026-07-20-south-sudan-national-spectrum-management-5g-strategy]].
-- **2026-07-20** — **E-visa fees imposed on four EAC neighbours, against the bloc's free-movement
-  commitments.** Revised charges **published on the national e-visa portal 2026-07-20** — implementing an
-  immigration policy introduced the previous week (*exact policy date not established in held material*) —
-  levy **USD 50** on citizens of **[[KEN]]**, **[[UGA]]**, **[[RWA]]** and **[[COD]]**, and **USD 100** on
-  Somali, Burundian and Nigerian citizens. **Tanzanians and Egyptians remain visa-free**; South Africans
-  visa-free under 30 days. Six of South Sudan's seven **[[eac|EAC]]** partner states therefore pay, and one
-  does not. South Sudan **joined the EAC in 2016**; the bloc's **Common Market Protocol** treats free
-  movement of persons, labour and services as a central pillar — so the schedule is a **reciprocity and
-  compliance question**, not merely a fee. Exposure falls hardest on Kenya and Uganda, South Sudan's main
-  route to regional markets (Mombasa-corridor logistics staff, and the accountants, engineers, teachers and
-  health workers who staff Juba); Kenyan lenders **[[equity-group-holdings|Equity Group]]**, KCB Group and
-  Stanbic Bank run subsidiaries there and rotate technology, risk, audit and compliance staff through
-  Nairobi–Juba. Applications are online-only, paid on the portal, **72-hour** stated processing. Lens
-  [[sovereignty]]: a state monetising the **digital** border channel it built for revenue purposes, and
-  in doing so pricing the regional labour mobility it signed up to. See [[south-sudan--dpi-govtech]],
-  [[gov.regional]]. Source: [[2026-07-20-south-sudan-e-visa-fee-eac-labour-mobility]].
+- **2024-12-16** *(the operative date; **corrected 2026-07-21** — this entry previously carried a
+  "2026-07-20" framing that was wrong on date, novelty and instrument)* — **South Sudan charges EAC
+  neighbours for visas — under a December-2024 fee schedule, not a 2026 policy.** The fees are set by
+  **circular No. RSS/SSRA/CG/SPECIAL/VOL.1/104 of 2024-12-03**, made under the **Financial Act 2024-25**
+  as approved by the Revitalized Transitional National Legislative Assembly, **effective 2024-12-16**,
+  signed by Director-General **Maj. Gen. Simon Majur Pabek**. Schedule: **single entry USD 100** (USD 160
+  for US citizens), **three-month multiple USD 200** (**USD 125 regional**), **six-month multiple USD
+  350**; passports USD 100 adult / USD 50 minor / USD 400 business / USD 200 diplomatic. A **USD 50
+  regional single-entry band** appears on the e-visa portal and the Washington embassy's page but **is
+  not attested in the 2024 circular as reported** — carry it as portal-stated, not instrument-stated.
+  **Money note:** the circular denominates in USD itself and directs charging at the **Central Bank's
+  prevailing rate**, so USD is the announcing party's own currency here.
+
+  **★ What was wrong, and why it matters.** In mid-July 2026 African trade press reported this as a
+  **new** policy "introduced the previous week", framed as a departure from EAC free-movement
+  commitments. **There is no 2026 instrument.** South Sudan's **Ministry of Interior denied it outright
+  on 2026-07-20**, stating that neither Minister **Gen. Aleu Ayieny Aleu** nor the Directorate issued
+  "any directive, policy decision, or statutory instrument", and that no revised fee schedule had been
+  approved. The story traces to a **social-media post**, not a document; no outlet in the chain cited a
+  gazette, order or circular. The figures came from the **e-visa portal table, visible since at least
+  2023**, which different outlets read differently — one reporting the **single-entry column**
+  ($50/$100), another the **full row across three durations** ($100/$200/$350). *Those were never two
+  incompatible schedules; they are one table read two ways* — which also corrects the wiki's own
+  contradiction brief on this point. And South Sudan has **charged EAC nationals visa fees since at
+  least 2020** (EABC complaint, Nov 2020), so the "departure from the EAC push" framing was six years
+  late.
+
+  The **substantive point survives the correction**: South Sudan **joined the EAC in 2016**, the
+  **Common Market Protocol** makes free movement of persons a central pillar, and a paying visa regime
+  for most EAC partners is a real **reciprocity and compliance question**. Exposure falls hardest on
+  **[[KEN]]** and **[[UGA]]**, South Sudan's main route to regional markets; Kenyan lenders
+  **[[equity-group-holdings|Equity Group]]**, KCB Group and Stanbic Bank run subsidiaries there.
+  Lens [[sovereignty]]: a state monetising the **digital** border channel it built for revenue purposes.
+  *Egypt's visa-free status is long-standing, not a 2026 grant.* **Open horizon:** a **24 July 2019**
+  internal directive granting free visas to Tanzanians resurfaced alongside the false story; the
+  Ministry **neither confirmed nor revoked it**, so whether it remains operational is **unestablished as
+  of 2026-07-21**, and the directive itself is not held. See [[south-sudan--dpi-govtech]],
+  [[gov.regional]]. Sources: [[2024-12-16-south-sudan-raises-fees-nationality-passports-visas]],
+  [[2026-07-20-south-sudan-dismisses-visa-free-claims-tanzania-egypt]],
+  [[2026-07-20-south-sudan-e-visa-fee-eac-labour-mobility]] *(the mis-framed trade-press account, kept
+  for the record of how the claim propagated)*.
 - **2026-06-22** — **The private revenue platform, identified: Crawford Capital Ltd** *(resolved
   2026-07-20; supersedes GAP-SSD-001)*. The "privately-owned national tax platform" the wiki has carried
   since Jan 2026 on a single secondary account is **Crawford Capital Ltd**, a **UK-registered** company
@@ -265,6 +290,18 @@ but ahead of the governance frameworks meant to hold it.
   *(A 2025-02-07 trade-press account overstating this as a launch is referred to in this
   wiki but is **not held**, as of 2026-07-20 — do not cite it.)*
   See [[dpi.pay]], [[gov.regional]], [[include.access]].
+
+## Financing
+
+*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-21**.*
+
+**Non-state** — US$306m committed across 4 deals (2016–2024). Top financiers: Export-Import Bank of China (US$271m), China Ministry of Commerce (US$29m), Finnfund (Finnish Fund for Industrial Cooperation) (US$5m). Leading subjects: `capacity.training`, `tech.industry`, `infra.connect`.
+
+Instrument mix: Grant 2, Commercial loan 1, Mezzanine 1.
+
+**Domestic state** — *(pending that dataset)*.
+
+Material deals: [[2018-01-01-eximbank-cn-ssd-001-china-eximbank-provides-2488-million-loan]].
 
 ## Active topics
 

@@ -78,6 +78,18 @@ The through-line across the ID work is **open standards and national ownership**
   baseline). Source:
   [[2024-03-28 Government Extends Deadline for Obtaining National Identity Cards]].
 
+## Financing
+
+*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-21**.*
+
+**Non-state** — US$258m committed across 10 deals (2018–2025). Top financiers: MIGA (Multilateral Investment Guarantee Agency) (US$111m), Millennium Challenge Corporation (MCC) (US$54m), World Bank Group (US$50m). Leading subjects: `infra.connect`, `tech.industry`, `dpi.id`.
+
+Instrument mix: Grant 6, Guarantee 2, Concessional loan 2. **1 record here still carries the capture's unverified `Concessional loan` label**, so the mix is indicative rather than established: the World Bank portal does not separate an IDA credit from an IDA grant.
+
+**Domestic state** — *(pending that dataset)*.
+
+Material deals: [[2018-01-01-miga-sle-orange-sierraleone-2018-sonatel-mobile-telecom-services-orange-sierra]].
+
 ## Active topics
 
 - **[[dpi.id]]** — NIN-centred foundational ID (93% coverage 2025; mandatory since Jan

@@ -12,6 +12,7 @@ places: [TCD]
 topics: [gov.legislate, gov.standards, gov.protect, infra.cybersec, gov.policy, tech.industry]
 entities: [[boukar-michel], [tchad-connexion-2030]]
 lens: [sovereignty]
+body_completeness: excerpt
 ---
 
 # Chad Finalizes Digital Law to Align National Framework With Global Standards

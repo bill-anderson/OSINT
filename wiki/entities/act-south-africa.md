@@ -6,8 +6,8 @@ places: [ZAF]
 topics: [dpi.id, gov.legislate, include.access, tech.industry]
 lens: []
 status: active
-last_reviewed: 2026-07-20
-sources: [[2026-01-27 SA's Telcos, Banks At War With Govt Over 6,500% ID Verification Fee Hike], [2026-07-20-south-africa-sim-registration-rica-digital-id]]
+last_reviewed: 2026-07-22
+sources: [[2026-01-27 SA's Telcos, Banks At War With Govt Over 6,500% ID Verification Fee Hike], [2026-07-20-south-africa-sim-registration-rica-digital-id], [2026-07-21-south-africa-sim-registration-identity-fraud]]
 ---
 
 # Association of Communications and Technology (ACT)
@@ -27,3 +27,5 @@ This dispute sits at the intersection of South Africa's digital-ID / population-
 
 ## Sources
 - [[2026-01-27 SA's Telcos, Banks At War With Govt Over 6,500% ID Verification Fee Hike]]
+- [[2026-07-20-south-africa-sim-registration-rica-digital-id]]
+- [[2026-07-21-south-africa-sim-registration-identity-fraud]]

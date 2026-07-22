@@ -6,7 +6,7 @@ parent: XSA
 place_kind: country
 topics: [gov.policy, gov.protect, gov.legislate, dpi.govtech, dpi.id, dpi.pay, dpi.registry, dpi.exchange, dpi.mis, infra.connect, infra.cybersec, infra.store, infra.energy, capacity.training, include.divides, tech.innovate, digital.rural, finance.new]
 status: active
-last_reviewed: 2026-07-20
+last_reviewed: 2026-07-21
 ---
 
 # Eswatini (SWZ)
@@ -27,6 +27,56 @@ The rails exist; usage lags them.
 
 ## Recent developments
 
+- **2026-07-19** *(reporting the Ministry of ICT's Q1 FY2026/27 performance report; **approval itself
+  was June 2026**, month precision)* — **★ Digital Eswatini is approved and funded — US$65m, and the
+  rails-vs-adoption tension now has money behind it.** [[finance.new]] The **[[world-bank]]** approved
+  financing for the **[[digital-eswatini-project|Digital Eswatini Project (P508948)]]** — an **IBRD
+  loan plus IDA credit**, with **grant negotiations concluded 2026-05-18 and loan approval in June
+  2026**. This **closes the wiki's standing open question**: the concept-stage PID's *estimated*
+  approval date of 2025-09-01 **slipped roughly nine months**, and until now nothing held confirmed
+  approval had occurred. Amounts are carried in the **World Bank's own currency**, with the Eswatini
+  outlet's **dated conversion at E16.37 = US$1 (2026-07-19)**: **US$65m total (~E1.06bn)**, split
+  **US$36m (~E589m) broadband** — including **financial stabilisation and reform of [[eptc]]**, backbone
+  extension to **schools, health centres and Tinkhundla centres**, and ICT legal/regulatory
+  strengthening — **US$25m (~E409m) for [[government-in-your-hand|GIYH]]** — a **national digital ID**,
+  cybersecurity, **data governance**, a **whole-of-government e-payment gateway**, **50+ priority
+  services** digitalised, and **digital skills for 200,000 citizens** (targeted at women and young
+  people) — and **US$4m (~E65.5m)** for programme management and safeguards. A separate **US$2m
+  (~E32.7m) preparation grant closes December 2026**. Aligned to the **COMESA IDEA Programme**.
+  *Two things worth holding.* First, **US$25m is now attached to the digital-ID and data-governance
+  layer this page has recorded as legislated-but-not-delivered since 2022** — including the PKI and
+  identity foundation whose absence the 2025 GIYH privacy failure exposed. Second, **the ministry's own
+  named risks are administrative, not technical**: incompatibility between government's **Integrated
+  Financial Management System** and World Bank reporting requirements, **PIU capacity constraints**, and
+  the **tight run-in before the preparation grant expires end-December**. Delivery so far is
+  preparatory — EPTC due diligence begun, Digital Transformation Roadmap procurement nearing
+  completion, **RSTP data centre** assessment progressing, a **six-member PIU** operational, and
+  Parliament's Portfolio Committee briefed with legislators pressing for **stronger cybersecurity and
+  protection of children and elderly citizens**. **Reaches the wiki through a single Eswatini outlet
+  reporting a government document; neither the ministry's report nor the World Bank PAD is held** —
+  both queued for acquisition, and the **IBRD/IDA split is unstated**. See [[dpi.govtech]], [[dpi.id]],
+  [[infra.connect]], [[capacity.training]]. Source:
+  [[2026-07-19-eswatini-1-06-billion-world-bank-digital-funding]].
+- **2026-07-21** — **Eswatini leans on Egypt to accelerate PAPSS accession, while its low-value
+  regional flows migrate rails.** The governor of the **[[central-bank-of-eswatini|Central Bank of
+  Eswatini]]**, **Phil Mnisi**, met **[[central-bank-of-egypt|CBE]]** governor **Hassan Abdullah** to
+  discuss how Eswatini can **leverage Egypt's [[papss|PAPSS]] experience to accelerate its own
+  accession** to the platform — so Eswatini is, as of this report, **not yet a PAPSS participant**,
+  and **no accession date or target is stated**. **Meeting date established 2026-07-21 as 2026-07-20** — the CBE issued its statement that Monday. Recorded alongside it, and arguably the more consequential item for Eswatini's
+  own rails: **low-value transactions within the Common Monetary Area are
+  migrating from domestic electronic-funds-transfer rails to the [[tcib|Transactions Cleared on an
+  Immediate Basis]] scheme**, which the source says will affect **liquidity and transaction flows
+  between Eswatini, [[ZAF|South Africa]], [[LSO|Lesotho]] and [[NAM|Namibia]]** — **no migration
+  timetable, volume or value is given**. Also discussed: the CBE's currency-circulation system and
+  **Egyptian Currency Printing House** capabilities, and a proposed **[[afreximbank|Afreximbank]]×CBE
+  pan-African gold bank** to bolster central-bank reserves and **reduce reliance on foreign refining
+  hubs** — a reserves-sovereignty play, still a proposal with **no structure, capital or timetable
+  established**. **✔ Resolved same day (2026-07-21) — partner confirmed as [[afreximbank|Afreximbank]]**, the multilateral, on the CBE's own release: **MoU signed 2025-12-29**, by Governor **Hassan Abdalla** and Afreximbank President **Dr George Elombi**, at the CBE. *(A second trade-press account had rendered it "Export-Import Bank of Egypt"; that was a mis-statement of the name.)* The release adds what the wiki lacked: the initiative is at **feasibility-study stage**, sited in a **designated free zone in Egypt**, and scoped to include an **internationally accredited refinery**, **secure vaulting** and associated trading services — with Egypt named as hub **subject to the study and subsequent approvals**. Worth holding alongside the sovereignty framing: **Egypt is Afreximbank's largest shareholder and its host**. Source: [[2025-12-30-cbe-afreximbank-mou-pan-african-gold-bank]]. Prior CBE–CBE(swatini) cooperation is described as covering Basel standards,
+  financial inclusion, micro-enterprise funding and climate-risk management. *Read against this page's
+  standing tension — rails ahead of adoption — this is more rail-building, not usage.* See
+  [[dpi.pay]], [[gov.regional]], [[finance.mou]], [[eswatini--dpi-pay]], [[EGY]]. Source:
+  [[2026-07-21-egypt-eswatini-deepen-banking-cooperation]].
+
 - **2026-02-23** — **Community health services go digital.** The **[[ministry-of-health-eswatini]]**,
   with World Bank support under the **[[eswatini-health-system-strengthening-project]]**,
   introduced the electronic **Community-Based Health Information System** ([[eswatini-cbhis]]) —
@@ -44,9 +94,10 @@ The rails exist; usage lags them.
   cybersecurity, digital skills and rural broadband; **funding amount not stated**. This
   corresponds to the World Bank's **[[digital-eswatini-project]]** (**P508948**), whose
   concept-stage PID (28 Jun 2025) proposes **US$65.16m** and gives *estimated* appraisal
-  (1 Aug 2025) and *estimated* approval (1 Sep 2025) dates. **No source held confirms actual
-  approval**, and the May-2026 report of live negotiations suggests those estimated dates had
-  slipped. Sources:
+  (1 Aug 2025) and *estimated* approval (1 Sep 2025) dates. **Superseded 2026-07-19 — approval is now
+  confirmed** (negotiations concluded 2026-05-18; loan approved June 2026; see the entry at the top of
+  this section). The estimated dates had indeed slipped, by roughly nine months, and this May-2026
+  report of live negotiations reads as the immediate run-up to approval. Sources:
   [[2026-05-18 Eswatini promotes digital transformation project through World Bank engagements]],
   [[2025-06-28 PID Concept Stage - Digital Eswatini (P508948)]],
   [[2025-01-01 ToR - Government in Your Hand Digital Government Implementation Roadmap (Digital Eswatini)]].
@@ -169,6 +220,16 @@ The rails exist; usage lags them.
   protests. Source:
   [[2024-03-11 Eswatini strives for digital sovereignty amid technological advancements]]. See
   [[gov.protect]], [[include.access]], [[sovereignty]].
+
+## Financing
+
+*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-21**.*
+
+**Non-state** — US$35m committed across 3 deals (2020–2026). Top financiers: World Bank Group (US$24m), India Exim Bank (US$10m). Leading subjects: `dpi.govtech`, `infra.store`, `infra.connect`.
+
+Instrument mix: Concessional loan 1, Line of credit 1, IDA credit 1. **1 record here still carries the capture's unverified `Concessional loan` label**, so the mix is indicative rather than established: the World Bank portal does not separate an IDA credit from an IDA grant.
+
+**Domestic state** — *(pending that dataset)*.
 
 ## Active topics
 

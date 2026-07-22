@@ -13,6 +13,7 @@ places: [ZAF, AGO, MOZ, MUS, XSA]
 topics: [infra.connect, gov.regional, include.divides, capacity.research]
 entities: [[jess-auerbach]]
 lens: [colonialism, sovereignty]
+body_completeness: excerpt
 ---
 
 <!-- Profile of Jess Auerbach (anthropologist, NWU; STIAS Iso Lomso fellow) and her forthcoming book project 'Capricious Connections' — an ethnography of an undersea cable across the South Atlantic/Indian Ocean; argues infrastructure is not neutral (City of London has 4x the DC capacity of southern Africa). Person [[jess-auerbach]]; book held pending publication. -->

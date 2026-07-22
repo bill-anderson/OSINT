@@ -15,6 +15,7 @@ entities: [[mtn-cote-divoire], [mtn-group], [eutelsat], [eutelsat-konnect], [bay
 lens: []
 provenance_flag: pr-wire
 primary_to_source: Eutelsat / MTN Côte d'Ivoire joint announcement of the multi-year EUTELSAT KONNECT capacity agreement (April 2026)
+body_completeness: full
 ---
 
 # MTN Côte d'Ivoire Partners Eutelsat to Boost Broadband Coverage with KONNECT Satellite Capacity

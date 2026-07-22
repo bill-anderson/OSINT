@@ -13,6 +13,7 @@ places: [DZA]
 topics: [dpi.govtech, dpi.exchange, gov.policy, digital.rural, include.access]
 entities: [[digital-algeria-2030], [high-commission-digitalisation-algeria], [meriem-benmouloud]]
 lens: []
+body_completeness: excerpt
 ---
 
 Algeria is fast-tracking its digital transformation efforts, unveiling an ambitious plan to implement over 500 projects between 2025 and 2026 as part of its 'Digital Algeria 2030' strategy.

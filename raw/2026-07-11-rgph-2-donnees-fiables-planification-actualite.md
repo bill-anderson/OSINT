@@ -13,6 +13,7 @@ places: [COD]
 topics: [data.statistics, gov.policy, capacity.training]
 entities: [[guylain-nyembo], [rgph-2-drc], [ministere-du-plan-drc], [drc-pnsd-2024-2028], [felix-tshisekedi]]
 lens: []
+body_completeness: full
 ---
 
 Kinshasa, boulevard Lumumba, commune de Limete

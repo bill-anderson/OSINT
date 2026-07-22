@@ -13,6 +13,7 @@ places: [CIV]
 topics: [tech.ai, dpi.govtech, include.access]
 entities: [[emy-101], [government-of-cote-divoire]]
 lens: []
+body_completeness: full
 ---
 
 # Côte d'Ivoire Launches EMY 101 AI Chatbot for Public Services

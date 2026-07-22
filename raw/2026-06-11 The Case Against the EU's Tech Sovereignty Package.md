@@ -11,6 +11,7 @@ places: [XGL]
 topics: [geopol.eu, geopol.usa, geopol.china, infra.store, tech.industry, gov.policy, infra.capacity]
 entities: [[pax-silica]]
 lens: [sovereignty]
+body_completeness: excerpt
 ---
 
 ![2026-07-10 The Case Against the EU’s Tech Sovereignty Package](https://cdn.sanity.io/images/03hnmfyj/production/b7a6d61a0c1c49d68fffad75b783ae1a80bc9043-1060x160.svg)

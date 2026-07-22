@@ -148,6 +148,16 @@ An **upper-middle-income, comparatively strong-performing** Southern-African dig
 - **2024-03** — **[[bocra]] mandatory SIM registration** for all users (CRA Act 2012). See [[dpi.id]]. Source:
   [[2024-03-11 Botswana - Mandatory SIM Card Registration public notice (BOCRA)]].
 
+## Financing
+
+*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-21**.*
+
+**Non-state** — US$5m committed across 2 deals (2015–2022). Top financiers: Unspecified Chinese Government Institution (US$3m), European Commission (US$2m). Leading subjects: `dpi.govtech`, `gov.policy`.
+
+Instrument mix: Grant 2.
+
+**Domestic state** — *(pending that dataset)*.
+
 ## Active topics
 
 - **Data protection** → **[[botswana--gov-protect]]**. The **[[botswana-data-protection-act-2024]]** (effective

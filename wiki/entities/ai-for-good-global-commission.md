@@ -6,8 +6,8 @@ places: [RWA, XGL]
 topics: [tech.ai, gov.regional]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-10
-sources: [[2026-05-21 AI for Good Global Commission], [2026-07-03 Kagame co-chairs global AI commission], [2026-07-10 Can the United Nations Bring the World Together on AI]]
+last_reviewed: 2026-07-22
+sources: [[2026-05-21 AI for Good Global Commission], [2026-07-03 Kagame co-chairs global AI commission], [2026-07-10 Can the United Nations Bring the World Together on AI], [2026-07-15-sovereignty-through-collaboration-geneva-digital-week]]
 ---
 
 # AI for Good Global Commission

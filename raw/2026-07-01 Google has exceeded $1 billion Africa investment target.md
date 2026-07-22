@@ -11,6 +11,7 @@ places: [ZAF, GHA, XAF]
 topics: [infra.connect, tech.ai, tech.innovate, finance.new, capacity.training, geopol.usa]
 entities: [[google]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 ![A Google Cloud logo](https://www.reuters.com/resizer/v2/IQBLYLYRBBPCZOOFE4ARYXQ5JI.jpg?auth=caddc2b78f2a293774f5bc66264d970d48069413554fcd9a1b0144ad22276b01&width=1200&quality=80)

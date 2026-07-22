@@ -312,6 +312,18 @@ last_reviewed: 2026-07-20
   [[2021-09-13 The burden of recording and reporting health data in primary health care facilities in five low- and lower-middle income countries]].
   See [[dpi.mis]], [[data.statistics]], [[gov.standards]].
 
+## Financing
+
+*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-21**.*
+
+**Non-state** — US$1.41bn committed across 19 deals (2015–2025). Top financiers: Export-Import Bank of China (US$685m), MTN Group (US$288m), World Bank Group (US$200m). Leading subjects: `infra.connect`, `dpi.pay`, `tech.industry`.
+
+Instrument mix: Equity 6, Grant 6, Concessional loan 3. **1 record here still carries the capture's unverified `Concessional loan` label**, so the mix is indicative rather than established: the World Bank portal does not separate an IDA credit from an IDA grant.
+
+**Domestic state** — *(pending that dataset)*.
+
+Material deals: [[2019-01-01-eximbank-cn-gha-002-china-eximbank-provides-1994-million-preferential]], [[2022-01-01-mtn-gha-capex-network-2022-mtn-ghana-scancom-plc-network-and]], [[2022-04-28-wb-gha-001-ghana-digital-acceleration-project]], [[2020-01-01-eximbank-cn-gha-004-china-eximbank-provides-eur-1408-million]], [[2020-01-01-eximbank-cn-gha-003-ghana-rural-telephony-and-digital-inclusion]], [[2018-01-01-eximbank-cn-gha-001-china-eximbank-provides-rmb-754-million]].
+
 ## Active topics
 
 - [[gov.policy]] · [[gov.legislate]] — RAM-guided strategy; Innovation & Startup framework.

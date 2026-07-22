@@ -145,6 +145,18 @@ last_reviewed: 2026-07-18
   [[2025-09-01 GSMA DRC Digital Economy Report 2025]]. See [[infra.connect]], [[tech.industry]],
   [[gov.policy]], [[include.access]].
 
+## Financing
+
+*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-21**.*
+
+**Non-state** — US$792m committed across 10 deals (2015–2025). Top financiers: World Bank Group (US$400m), Export-Import Bank of China (US$150m), Agence Française de Développement (AFD) (US$109m). Leading subjects: `infra.connect`, `dpi.id`, `dpi.govtech`.
+
+Instrument mix: Commercial loan 3, Concessional loan 3, Guarantee 2. **1 record here still carries the capture's unverified `Concessional loan` label**, so the mix is indicative rather than established: the World Bank portal does not separate an IDA credit from an IDA grant.
+
+**Domestic state** — *(pending that dataset)*.
+
+Material deals: [[2024-06-27-wb-cod-001-drc-digital-transformation-project]], [[2020-01-01-eximbank-cn-cod-001-modernization-and-digitization-of-finance-ministry]], [[2025-01-01-afd-cod-001-drc-digital-transformation-project]].
+
 ## Active topics
 
 - **Digital identity** → **[[drc--dpi-id]]**. The cancelled [[idemia]] $1.2bn contract → [[rdc-pass|DRCPass]]

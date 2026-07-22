@@ -118,6 +118,16 @@ last_reviewed: 2026-07-20
   [[2026-01-01 Starlink Partners with Airtel & Vodacom From Rival to Ally]]. See
   [[infra.connect]], [[data.satellite]].
 
+## Financing
+
+*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-21**.*
+
+**Non-state** — US$14m committed across 1 deal (2019–2019). Top financiers: African Development Bank (AfDB) (US$14m). Leading subjects: `dpi.govtech`, `dpi.pay`.
+
+Instrument mix: Commercial loan 1.
+
+**Domestic state** — *(pending that dataset)*.
+
 ## Active topics
 
 - [[dpi.registry]] · [[dpi.mis]] — **[[nissa-lesotho]]** social registry

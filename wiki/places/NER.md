@@ -135,6 +135,18 @@ all against very low connectivity (**internet penetration ~23% (2025)**).
   [[2024-12-01 Niger Civil Status (État Civil) Analysis Report 2023 (INS Niger)]],
   [[2004-06-25 STAR-UEMOA (BCEAO)]].
 
+## Financing
+
+*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-21**.*
+
+**Non-state** — US$118m committed across 4 deals (2019–2022). Top financiers: World Bank Group (US$108m), Ministry of Foreign Affairs of the Netherlands (DGIS) (US$8m), MIGA (Multilateral Investment Guarantee Agency) (US$2m). Leading subjects: `dpi.pay`, `include.access`, `dpi.mis`.
+
+Instrument mix: Concessional loan 2, Grant 1, Guarantee 1. **2 records here still carry the capture's unverified `Concessional loan` label**, so the mix is indicative rather than established: the World Bank portal does not separate an IDA credit from an IDA grant.
+
+**Domestic state** — *(pending that dataset)*.
+
+Material deals: [[2020-07-08-wb-ner-001-niger-smart-villages-for-rural-growth]].
+
 ## Active topics
 
 - [[dpi.id]] · [[dpi.registry]] · [[gov.regional]] — **two ID tracks**: the sovereignty-branded

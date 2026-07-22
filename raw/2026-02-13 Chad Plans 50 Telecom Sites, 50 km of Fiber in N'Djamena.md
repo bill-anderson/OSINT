@@ -12,6 +12,7 @@ ingested: 2026-07-17
 places: [TCD]
 topics: [infra.connect, infra.energy, gov.regional, tech.industry, finance.new, digital.rural]
 entities: [[sotel-tchad], [arcep-chad], [airtel-africa], [trans-saharan-fibre-backbone], [boukar-michel]]
+body_completeness: excerpt
 ---
 
 # Chad Plans 50 Telecom Sites, 50 km of Fiber in N'Djamena

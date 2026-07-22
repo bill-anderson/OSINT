@@ -13,6 +13,7 @@ places: [CIV]
 topics: [gov.policy, infra.connect, infra.cybersec, dpi.pay, include.divides, tech.innovate, finance.new]
 entities: [[djibril-ouattara], [ministry-of-digital-transition-and-technological-innovation-cote-divoire], [datareportal]]
 lens: []
+body_completeness: full
 ---
 
 # Côte d'Ivoire Targets Internet Expansion and Cybersecurity in 2026 Plan

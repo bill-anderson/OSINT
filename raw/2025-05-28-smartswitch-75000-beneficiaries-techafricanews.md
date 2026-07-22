@@ -14,6 +14,7 @@ sweep_batch: BWA-2026-07-17
 places: [BWA]
 topics: [dpi.pay, dpi.id, include.access, gov.standards]
 entities: [[smartswitch-botswana], [lesaka-technologies], [ministry-of-local-government-botswana], [universal-electronic-payment-system]]
+body_completeness: full
 ---
 
 # SmartSwitch Botswana Pioneers Dignified Digital Aid for 75,000+ Beneficiaries

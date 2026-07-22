@@ -3,6 +3,7 @@ type: source
 title: "Cybernetica (AS)"
 publisher: Cybernetica AS
 url: https://cyber.ee/
+url_note: "homepage capture of a standing-object reference (Cybernetica AS corporate site, no dated event) - the bare domain IS the document-specific URL (lint #14 carve-out, confirmed 2026-07-21)"
 date_precision: day
 date_source: source
 author: unknown

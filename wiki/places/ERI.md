@@ -84,6 +84,16 @@ state figures as government claims and opposition framing plainly.
   [[2025-03-03 Digital 2025 Eritrea (DataReportal)]].
 - Parent region: [[XEA]] · continental: [[XAF]].
 
+## Financing
+
+*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-21**.*
+
+**Non-state** — US$2m committed across 1 deal (2019–2019). Top financiers: UNDP (UN Development Programme) (US$2m). Leading subjects: `gov.policy`.
+
+Instrument mix: Grant 1.
+
+**Domestic state** — *(pending that dataset)*.
+
 ## Active topics
 
 - [[dpi.govtech]] · [[dpi.exchange]] — ASYCUDA World digital customs (source-code sovereignty).

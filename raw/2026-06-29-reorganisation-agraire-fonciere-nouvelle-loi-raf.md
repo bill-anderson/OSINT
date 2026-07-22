@@ -14,6 +14,7 @@ places: [BFA]
 topics: [gov.legislate, dpi.registry, dpi.govtech, digital.localgov, digital.rural, data.satellite]
 entities: [[direction-generale-des-impots-burkina-faso], [sycad], [ibrahim-traore], [onf-burkina-faso]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Réorganisation agraire et foncière : la nouvelle loi, un rempart contre les dérives

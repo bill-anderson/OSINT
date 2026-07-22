@@ -234,6 +234,16 @@ cross-border fintech and payments gateway into Africa.
   [[2015-01-01 Health 2015 - Seamless Continuity of Care (Mauritius eHealth strategy)]],
   [[2002-11-01 Mauritius e-Government Interoperability Framework v1.0]].
 
+## Financing
+
+*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-21**.*
+
+**Non-state** — US$90m committed across 2 deals (2018–2024). Top financiers: Export-Import Bank of China (US$80m), FMO (US$10m). Leading subjects: `tech.industry`, `dpi.pay`.
+
+Instrument mix: Buyer's credit 1, Equity 1.
+
+**Domestic state** — *(pending that dataset)*.
+
 ## Active topics
 
 - [[dpi.id]] · [[dpi.registry]] — **[[mauritius-mobile-id|Mobile ID]]** wallet (Thales, ISO-standard); NIC

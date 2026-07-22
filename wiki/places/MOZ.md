@@ -184,6 +184,18 @@ last_reviewed: 2026-07-18
   process — an early data point on land-registry modernisation needs. Source:
   [[2008-12-01 Land Reform in Mozambique (World Bank ARD Note 43)]]. See [[dpi.registry]], [[gov.legislate]].
 
+## Financing
+
+*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-21**.*
+
+**Non-state** — US$1.21bn committed across 11 deals (2017–2025). Top financiers: World Bank Group (US$693m), Export-Import Bank of China (US$464m), European Commission (US$32m). Leading subjects: `infra.connect`, `dpi.id`, `dpi.govtech`.
+
+Instrument mix: Grant 4, Concessional loan 4, IDA grant 1. **2 records here still carry the capture's unverified `Concessional loan` label**, so the mix is indicative rather than established: the World Bank portal does not separate an IDA credit from an IDA grant.
+
+**Domestic state** — *(pending that dataset)*.
+
+Material deals: [[2021-12-14-wb-moz-002-sustainable-energy-and-broadband-access-in]], [[2022-07-15-wb-moz-001-mozambique-digital-acceleration-project]], [[2025-01-01-eximbank-cn-moz-005-tmcel-telecommunications-network-second-expansion-financing]], [[2021-09-23-wb-moz-003-digital-governance-and-economy-project]], [[2020-01-01-eximbank-cn-moz-002-modernization-and-expansion-of-the-national]], [[2022-01-01-eximbank-cn-moz-004-tmcel-telecommunications-network-modernization-and-expansion]].
+
 ## Active topics
 
 - [[infra.cybersec]] · [[gov.legislate]] — 2026 Cyber Security + Cybercrime laws; INCM as

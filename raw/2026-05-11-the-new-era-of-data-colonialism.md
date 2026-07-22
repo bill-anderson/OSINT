@@ -14,6 +14,7 @@ places: [BWA]
 topics: [gov.protect, tech.ai, geopol.usa]
 entities: [[world-trade-organization]]
 lens: [colonialism, sovereignty]
+body_completeness: full
 ---
 
 # The new era of data colonialism

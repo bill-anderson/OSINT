@@ -13,6 +13,7 @@ sweep_batch: BFA-2026-07-17
 places: [BFA]
 topics: [dpi.registry, dpi.id, include.access, gov.policy, digital.localgov]
 entities: [[oni-burkina-faso]]
+body_completeness: full
 ---
 
 # Contrat d'objectifs 2025 : 121 000 actes d'Etat civil délivrés aux personnes déplacées internes

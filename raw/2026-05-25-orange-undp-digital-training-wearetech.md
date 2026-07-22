@@ -13,6 +13,7 @@ places: [CIV]
 topics: [capacity.training, include.divides, digital.rural, capacity.literacy, finance.mou, tech.innovate]
 entities: [[orange-cote-divoire], [undp], [orange-digital-center], [padci]]
 lens: []
+body_completeness: full
 ---
 
 # Orange Côte d'Ivoire and UNDP Launch Digital Training Initiative for Youth

@@ -13,6 +13,7 @@ places: [ZAF, NGA, KEN, XAF]
 topics: [tech.ai, infra.store, infra.connect, dpi.pay, dpi.exchange, geopol.usa, finance.new]
 entities: [[cassava-technologies], [cassava-ai-factories], [liquid-c2], [africa-data-centres], [strive-masiyiwa], [nvidia], [google], [microsoft]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 <!-- Secondary reporting (niche blog citing TIME's 2025 AI list). $720m / 3,000-GPU / 5-country

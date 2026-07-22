@@ -2,6 +2,7 @@
 type: source
 title: "The Regulator — Central Bank of Lesotho (July–September 2025)"
 url: https://www.centralbank.org.ls
+url_note: "url unrecovered as of 2026-07-21 (lint #14). CBL’s newsletters page lists only its \"CBL Reflections\" series; \"The Regulator\" appears nowhere on centralbank.org.ls, in its site search, or in the Wayback CDX index for the host."
 publisher: Central Bank of Lesotho
 author: Central Bank of Lesotho
 published: 2025-09-01
@@ -15,7 +16,6 @@ lens: []
 body_completeness: full
 artefact: "2025-09-01 The Regulator July-Sept 2025 (Central Bank of Lesotho).pdf"
 ---
-<!-- url unrecovered as of 2026-07-20 -->
 
 # The Regulator — Central Bank of Lesotho (July–September 2025)
 

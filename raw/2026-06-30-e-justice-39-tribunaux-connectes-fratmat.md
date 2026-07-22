@@ -13,6 +13,7 @@ places: [CIV]
 topics: [dpi.govtech]
 entities: [[e-justice-cote-divoire], [oneci], [asernum], [jean-sansan-kambile], [amede-koffi-kouakou]]
 lens: []
+body_completeness: full
 ---
 
 # E-Justice : Les 39 tribunaux de première instance désormais connectés au réseau numérique ivoirien

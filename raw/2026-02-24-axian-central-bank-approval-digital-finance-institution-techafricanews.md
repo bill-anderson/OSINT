@@ -14,6 +14,7 @@ topics: [dpi.pay, gov.legislate, finance.new, include.access]
 entities: [[axian], [bcc-comoros], [mvola]]
 lens: []
 provenance_flag: pr-wire
+body_completeness: full
 ---
 
 # AXIAN Gains Central Bank Approval to Launch Regulated Digital Finance Institution in Comoros

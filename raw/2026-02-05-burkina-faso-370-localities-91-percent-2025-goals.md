@@ -14,6 +14,7 @@ sweep_batch: BFA-2026-07-17
 places: [BFA]
 topics: [infra.connect, dpi.govtech, dpi.id, include.divides]
 entities: [[ministry-of-digital-transition-burkina-faso], [la-poste-burkina-faso], [rimtalba-jean-emmanuel-ouedraogo]]
+body_completeness: full
 ---
 
 # Burkina Faso Expands Digital Access to 370 Localities, Hits 91% of 2025 Goals

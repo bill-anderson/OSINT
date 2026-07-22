@@ -6,13 +6,146 @@ parent: XWA
 place_kind: country
 topics: [infra.store, infra.energy, infra.connect, infra.capacity, gov.protect, gov.legislate, gov.policy, dpi.id, dpi.registry, dpi.pay, dpi.govtech, dpi.mis, tech.ai, tech.industry, tech.innovate, dpi.exchange, infra.cybersec, include.access, include.divides, digital.rural, digital.localgov, finance.new, finance.mou, data.statistics, capacity.research, capacity.training, capacity.literacy, gov.standards, gov.regional, geopol.usa, geopol.china, geopol.eu]
 status: active
-last_reviewed: 2026-07-20
+last_reviewed: 2026-07-22
 ---
 
 # Nigeria (NGA)
 
 ## Recent developments
 
+- **2026-07-22** *(operational nationwide from 2026-07-01)* — **Civil registration goes nationwide and
+  digital: NPC's VitalReg platform.** The **[[npc-nigeria|National Population Commission]]** commenced
+  **nationwide** digital birth and death registration under its **[[e-crvs-nigeria|E-CRVS]]** system via
+  the **VitalReg** platform, announced at a Lokoja press briefing by federal commissioner **Afolabi
+  Yori**. This is the **nationwide rollout of the platform Tinubu launched in Nov 2025**, not a new
+  launch. Coverage, dated: **birth registration ~57%, death registration <20% (2026-07)**, against an
+  estimated **5 million births annually**; **4,011 registration centres** across the **774 LGAs**, with
+  a target of ~**8,000**. Run under a **Public-Private Partnership with [[barnks-forte-technologies]]
+  Ltd** as technical partner (system availability, cybersecurity). **The identity linkage is the
+  governance point:** newborn registration **requires at least one parent to hold a valid NIN**
+  ([[nimc]]) — wiring foundational ID into the entry point of legal identity, and raising the same
+  gatekeeper question the wiki already tracks on NIN. Framed to **SDG 16.9** (legal identity for all);
+  UNICEF credited as a development partner. See [[dpi.id]], [[dpi.mis]], [[dpi.registry]],
+  [[nigeria--dpi-registry]], [[nigeria--dpi-id]]. Source:
+  [[2026-07-22-npc-nationwide-digital-birth-death-registration]].
+- **2026-07-22** *(brève; event date not established — publication 2026-07-22)* — **CREDICORP's CLICKD
+  finances locally-assembled laptops on instalment credit.** The **[[credicorp|Nigerian Consumer Credit
+  Corporation]]** launched **CLICKD**, a scheme financing purchase of **locally-assembled laptops**
+  through affordable instalment payments, in partnership with the
+  **[[federal-ministry-communications-innovation-digital-economy-nigeria|Ministry of Digital Economy]]**.
+  Framed as lowering the financial barrier to device ownership to strengthen **digital inclusion** while
+  supporting the **domestic ICT-assembly industry** — device-financing as an access lever wired to
+  local-industry policy. **No volume, price band, loan terms or partner-manufacturer list disclosed** in
+  the held brève. Same CREDICORP whose NIN-linked consumer-credit push the wiki already tracks
+  ([[2025-06-17-credicorp-nin-credit-scores-bureau]]). See [[include.access]], [[tech.industry]],
+  [[dpi.pay]]. Source: [[2026-07-22-nigeria-credicorp-clickd-credit-ordinateurs-locaux]].
+- **2026-07-21** — **NIMC operationalises the Act: PKI formally handed over from NITDA, and identity
+  reaches air travel.** As it operationalises the **NIMC Act 2026**, **[[nimc]]** formally took the role
+  of **National Root Certification Authority (RCA)** **from [[nitda]]** at a ceremony at NITDA
+  headquarters (~mid-July 2026), consolidating the country's **public-key infrastructure (PKI)** —
+  encryption and digital signatures — under the digital-identity authority; the government cites reduced
+  duplication, and the handover frees NITDA to stand up its planned **regulatory sandbox**. *(The wiki
+  already held both NIMC's root-CA/digital-signature role and Nigeria's **ICAO Public Key Directory**
+  accession from 2026-07-16 — see [[nigeria--dpi-id]]; the new detail here is the **NITDA→NIMC
+  transfer** framing.)* **The genuinely new development is V-Pass:** **[[faan|FAAN]]** launched a
+  domestic air-travel credential with vendor **[[verxid-technologies]]**, letting travellers enrol
+  their **NIN + face biometrics** (foreigners enrol via biometrics + passport OCR) for digital security
+  checks and boarding. NIN enrolment target restated: **136M (2026-07) → 180M by 31 Dec 2026** (already
+  held). *Trade-press roundup (Biometric Update); most of its payload duplicates held items, V-Pass
+  excepted.* See [[dpi.id]], [[gov.legislate]], [[infra.cybersec]], [[nigeria--dpi-id]]. Source:
+  [[2026-07-21-nigeria-nimc-new-duties-digital-ecosystem]].
+- **2026-07-18** — **"Nigeria's first deepfake election": a private report frames 2027 as a
+  synthetic-media contest.** [[tech.ai]] Reporting on **Navigating Nigeria 2027**, a strategic-
+  communications report by **[[bloomwit-africa]]**, TechTrends records the firm's argument that the
+  **January 2027 general election** — brought forward to **16 January 2027**, the earliest since 1999 —
+  will be the first Nigerian vote held with generative-AI tools in wide circulation, with fabricated
+  audio/video of public figures already circulating. The report's structural claim: the cost of
+  *fabricating* and *distributing* a damaging falsehood has collapsed (much of it inside closed,
+  encrypted channels and in Hausa/Yoruba/Igbo before English), while the cost of *detecting and
+  correcting* it has not — so organisations are "watching the wrong room". It notes that Nigeria's
+  **electoral and data-protection authorities have publicly identified AI-generated disinformation,
+  deepfakes and political profiling as threats** to the process. *Reporting about a report: the
+  underlying Bloomwit document is not held — an acquisition attempt on 2026-07-22 found it gated on
+  bloomwitafrica.com (the resources page serves only a descriptive blurb, no downloadable text) — and its
+  penetration/usage figures are attributed to the report, some garbled in capture, not compiled here as
+  established fact.* A
+  disinformation/cyber counterpart to the AI items already on this page. See [[infra.cybersec]],
+  [[nigeria--tech-ai]]. Source: [[2026-07-18-nigeria-deepfake-election-bloomwit-report]].
+- **2026-07-19** *(statement issued Saturday **2026-07-18**; reported 2026-07-19)* — **Data
+  localisation as a censorship vector: civil society moves against the Data Protection (Amendment)
+  Bill.** [[sovereignty]] The **Rule of Law and Accountability Advocacy Centre (RULAAC)**, through
+  Executive Director **Okechukwu Nwanguma**, declared solidarity with **SERAP** (Socio-Economic Rights and Accountability Project) in opposing
+  provisions of the proposed **Nigeria Data Protection (Amendment) Bill, 2026**, urging the National
+  Assembly to **withdraw or substantially amend** them. **The specific objection is the one that
+  matters here:** provisions that would empower regulators to **prohibit or shut down digital
+  platforms for failing to comply with data-localisation requirements**. RULAAC's argument is that
+  this converts a data-protection instrument into a platform-blocking power — *"data protection cannot
+  become a pretext for expanding governmental control over digital spaces or introducing measures that
+  facilitate censorship through indirect means"* — and that broad administrative discretion to block
+  platforms **without robust judicial safeguards** fails the tests of **legality, necessity,
+  proportionality and legitimate purpose** under **s.39 of the 1999 Constitution**, **Article 9 of the
+  African Charter** and **Article 19 of the ICCPR**. The precedent it invokes is concrete: the
+  **2021 Twitter suspension**, which the **ECOWAS Court of Justice** found incompatible with freedom of
+  expression. *Read this against the localisation thread already on this page* — the **[[cbn]]'s
+  2026-07 data-localisation directive** for fintechs — and the shape becomes visible: **localisation
+  is arriving in Nigeria through several instruments at once, and enforcement powers are attaching to
+  it.** That is the governance question, distinct from where data physically sits. **What is not
+  established (2026-07-21):** the wiki **does not hold the Bill's text**, so the impugned clauses
+  cannot be read or cited directly, and **no section numbers are given in the source**; nor is any
+  government or NDPC response held. **Queued for acquisition.** See [[gov.protect]],
+  [[gov.legislate]], [[nigeria--gov-protect]]. Source:
+  [[2026-07-19-rulaac-nigeria-data-protection-amendment-bill-social-media]].
+- **2026-07-19** — **Digital ID enters the health stack: NIMC and Health agree to wire identity into
+  UHC.** **[[nimc]]** DG **Abisoye Coker-Odusote** and Coordinating Minister of Health and Social
+  Welfare **Muhammad Ali Pate** agreed to integrate **trusted digital identity** into Nigeria's health
+  reforms, linking identity to **patient records, health-insurance enrolment, disease surveillance and
+  service delivery**, with **interoperable electronic medical records** across facilities as the stated
+  goal, toward **Universal Health Coverage by 2030**. Pate directed the **immediate establishment of a
+  joint technical working group** — Federal Ministry of Health and Social Welfare, the **Health Data
+  and Digital Health Coordination Office**, health agencies and NIMC — to harmonise implementation and
+  build **performance dashboards**. The one hard figure: revitalised **Primary Healthcare Centres
+  record ~45 million patient visits per quarter (2026-07)**, which is the load any identity-linked
+  record system would have to carry. Pate also stated the initiative **must not exclude persons with
+  disabilities and other vulnerable populations** — an inclusion commitment stated, with **no mechanism
+  attached**. *The wiki's standing caution applies squarely:* Nigeria's identity programme is already
+  tracked for **exclusion and gatekeeper effects**, and making the NIN the key to healthcare raises the
+  cost of not having one — see [[nigeria--dpi-id]]. **Nothing here is built yet**: no budget, timeline,
+  architecture, data-protection impact assessment or NDPC involvement is stated, and **no enrolment
+  precondition for care is either confirmed or ruled out** as of 2026-07-21.
+  **Citation discrepancy, filed not resolved:** this source names the enabling statute the
+  **"NIMC Act, 2025"**, while the wiki holds the Act as the **NIMC Act 2026, enacted June 2026** — filed as a
+  contradiction (`reviews/contradictions/open/2026-07-21-nimc-act-year-2025-vs-2026.md`) rather than
+  silently reconciled — **and the sharper finding is that the wiki holds no primary for *either*
+  designation**, only press description, across four pages that cite the Act. See [[dpi.id]],
+  [[dpi.mis]], [[dpi.govtech]], [[include.access]]. Source:
+  [[2026-07-19-fg-digital-id-healthcare-uhc-2030]].
+- **2026-07-21** — **The IMF puts a name to the Busha trade: dollar-backed stablecoins as a
+  monetary-sovereignty problem.** [[sovereignty]] Reporting on an **[[imf|IMF]]** report,
+  ***Stablecoins in Nigeria: A Growing Cross-Border Channel***, ITWeb Africa records the Fund's
+  finding that the shift to dollar-linked stablecoins (**USDT**, **USDC**) in inflation-hit economies
+  is **weakening demand for local currencies and reducing the effectiveness of central banks' monetary
+  policy**. **The report itself is not held** — cited, not absorbed, and added to the acquisition
+  queue. **★ Correction 2026-07-21 (acquisition pass): the IMF article is now held, and the "95%" is not
+  in it.** ITWeb reported the Fund as finding that **up to 95% of surveyed users** in some African
+  markets prefer stablecoin payment over local fiat. The IMF Country Focus article of that exact title
+  (2026-06-16, Schimmelpfennig and Zhao) **contains no such figure and reports no survey at all** — so
+  the statistic is **not supported by the document it was attributed to**, and is struck rather than
+  re-hedged. What the IMF text does establish: Nigeria ranked **second globally on Chainalysis's 2024
+  Global Crypto Adoption Index and sixth in 2025** *(which also settles the undated ranking claim in the
+  2026-07-20 Busha release below — same underlying source)*; **US$59bn** of crypto-asset inflows
+  (Jul 2023–Jun 2024); and roughly **60% of sub-Saharan stablecoin inflows since 2019**. The underlying
+  analysis sits in the **2026 Nigeria Article IV report, Annex VII**, which is **not held**. Separately, **Rahul Sahni** (COO, TransFi) puts Sub-Saharan on-chain value at **>US$205bn in
+  the year to June 2025**, stablecoins **43% of transactions**, with Nigeria's **early-2025 naira
+  devaluation** lifting monthly volumes to **~US$25bn** — vendor figures, undated as to methodology and
+  **not independently held**. The analytical line worth keeping is the dissent: **Nosike Nwigene**
+  (AI-governance/RegTech) argues African central banks are targeting the wrong object — *"the biggest
+  risk is not stablecoins. It is weak monetary policy that pushes people towards them in the first
+  place"* — and every named expert urges **proportionate regulation over prohibition**. Reads directly
+  onto the coordination architecture created a day earlier by the
+  **[[virtual-assets-executive-order-2026|Virtual Assets Executive Order]]** and onto the
+  **[[busha]]×[[tether]]** rails below: the Fund is describing, at country level, the demand the private
+  deal is monetising. See [[dpi.pay]], [[gov.legislate]], [[nigeria--dpi-pay]]. Source:
+  [[2026-07-21-stablecoins-test-africas-monetary-future]], [[2026-06-16-imf-stablecoins-in-nigeria-cross-border-channel]].
 - **2026-07-20** — **Busha Business × Tether: dollarised settlement rails sold as an escape from
   dollar plumbing.** [[sovereignty]] **[[busha|Busha Business]]**, the B2B arm of the
   **[[sec-nigeria|SEC]]-licensed** Nigerian exchange **[[busha]]**, announced a collaboration with
@@ -364,6 +497,18 @@ _Full dated chronology (2025–mid-2026) lives in the linked source pages and th
 - **2026-05-23** — Nigeria a landing point for Orange-led **Via Africa** subsea cable (>20,000km, ~20 countries). [[2026-05-23 Orange-backed subsea cable to connect Nigeria, 19 other countries]] · [[via-africa-cable]]
 - **2026-06-05** — **NIN enrolment passes 130M** toward 180M by end-2026; ID4D ($430m) shifts to data integrity and service access. [[2026-06-05 Nigeria looks beyond enrollment as digital ID passes 130 million]] · [[nigeria--dpi-id]]
 - **2026-06-23** — **Lagos** emerges as West Africa's data-centre gravity (13 of 16 DCs); power the binding constraint. [[2026-06-23 Africa's Data Centre Boom Where The New Facilities Are Being Built]] · [[infra.store]]
+
+## Financing
+
+*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-21**.*
+
+**Non-state** — US$3.61bn committed across 61 deals (2015–2026). Top financiers: Mastercard Foundation (US$500m), Africa Finance Corporation (AFC) (US$405m), African Development Bank (AfDB) (US$373m). Leading subjects: `dpi.pay`, `infra.connect`, `tech.industry`.
+
+Instrument mix: Equity 28, Grant 14, Commercial loan 8. **2 records here still carry the capture's unverified `Concessional loan` label**, so the mix is indicative rather than established: the World Bank portal does not separate an IDA credit from an IDA grant.
+
+**Domestic state** — *(pending that dataset)*.
+
+Material deals: [[2020-01-01-mcf-nga-youngafricaworks-2020-young-africa-works-in-nigeria]], [[2022-01-01-mtn-nga-spectrum-5g-2022-mtn-nigeria-5g-spectrum-licence-35ghz]], [[2020-01-01-actis-nga-rackcentre-2020-actis-acquisition-of-controlling-stake-in]], [[2019-01-01-afc-nga-9mobile-loan-2019-9mobile-emts-turnaround-debt-facility]], [[2020-01-01-eib-nga-002-nigeria-digital-id]], [[2019-01-01-visa-nga-interswitch-equity-2019-visa-equity-investment-in-interswitch-nigeria]].
 
 ## Active topics
 

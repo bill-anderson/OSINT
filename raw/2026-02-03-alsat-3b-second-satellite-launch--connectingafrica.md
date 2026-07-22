@@ -13,6 +13,7 @@ places: [DZA, XAF]
 topics: [data.satellite, geopol.china, infra.capacity, tech.industry]
 entities: [[alsat-3b], [alsat-3a], [asal], [abdelmadjid-tebboune], [xi-jinping], [space-in-africa], [hong-kong-aerospace-technology-group]]
 lens: []
+body_completeness: full
 ---
 
 # Algeria launches second satellite in 2026

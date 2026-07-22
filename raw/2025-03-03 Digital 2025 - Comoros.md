@@ -13,6 +13,7 @@ places: [COM]
 topics: [infra.connect, include.divides]
 entities: [[datareportal]]
 lens: []
+body_completeness: full
 ---
 
 <!-- DataReportal Digital 2025 Comoros — early-2025 baseline for internet users, penetration, mobile connections and social-media use. Standing connectivity/inclusion reference for the Comoros (small Indian-Ocean archipelago). Headline figures on the source page. -->

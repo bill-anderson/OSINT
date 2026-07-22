@@ -13,6 +13,7 @@ places: [XGL, XAF, EGY, KEN]
 topics: [infra.connect, geopol.usa, geopol.china, infra.capacity]
 entities: [[cable-wars-abels-babic-2026], [submarine-cable-political-economy-dataset], [google], [2africa-cable]]
 lens: [sovereignty, colonialism]
+body_completeness: excerpt
 ---
 
 <!-- Scholarly publication (peer-reviewed): a dataset of 622 cable systems (OSF, open). Cables carry >97% of internet traffic; market ~$13bn (2022) -> >$30bn (2030). Google = single most prominent owner (16% of core cables); 'big four' suppliers (SubCom/ASN/NEC/HMN Tech) ~85%; HMN Tech share fell after US sanction (Dec 2021). 2Africa ~45,000km; PEACE cable the main Chinese trans-regional presence. Home for [[cable-wars-abels-babic-2026]]. -->

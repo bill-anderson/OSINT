@@ -6,7 +6,7 @@ parent: XNA
 place_kind: country
 topics: [dpi.id, dpi.registry, dpi.govtech, dpi.exchange, dpi.pay, dpi.mis, gov.policy, gov.legislate, gov.protect, gov.standards, gov.regional, infra.store, infra.connect, infra.cybersec, infra.energy, tech.ai, tech.industry, tech.innovate, geopol.india, geopol.usa, capacity.training, include.access, include.divides, data.statistics, data.open, finance.new, finance.mou]
 status: active
-last_reviewed: 2026-07-20
+last_reviewed: 2026-07-21
 ---
 
 # Morocco (MAR)
@@ -31,8 +31,10 @@ divide (~1,800 villages offline).
 > - **AI** — two legislative tracks (Jan-2025 AI bill; Digital X.0 law); CNDP sovereign responsible-AI
 >   LLMs; "AI Made in Morocco"/JAZARI; Orange AI programmes. Hub: [[morocco--tech-ai]].
 > - **Data centres** — #1 in Africa by DC count (overtaking SA); **[[nexus-ai-factory|Nexus AI Factory]]**
->   (**MAD 12bn**, ≈US$1.2bn at the sources' own undated conversion; capacity reported as
->   **500MW** vs **~36MW across two phases** — unresolved, 2026-07-20; TAQA/Nvidia); green DCs (Dakhla, Orange Tech); Oracle Agadir. Hub: [[morocco--infra-store]].
+>   (**MAD 12bn initial investment across two phases** — ≈**US$1.29bn** at the 2026-04-08 signing-day
+>   rate; **16 MW at Nouaceur then +20 MW in the north = 36 MW cumulative IT load by end-2027**, against
+>   a separate **500 MW renewable *power-supply* ceiling** contracted with TAQA — **resolved 2026-07-21:
+>   different quantities, not a conflict**); green DCs (Dakhla, Orange Tech); Oracle Agadir. Hub: [[morocco--infra-store]].
 > - **Connectivity** — 5G launch (Nov 2025, ANRT licensing); Maroc Telecom-Inwi FiberCo/TowerCo;
 >   Nokia-Medusa subsea. Hub: [[morocco--infra-connect]].
 > - **Cyber** — $1.2bn market (Ken Research, 2025-11); maCERT FortiBleed; Rabat as ANCA regional cyber hub. Hub:

@@ -13,6 +13,7 @@ places: [GHA]
 topics: [dpi.id, dpi.pay]
 entities: [[ghana-card]]
 lens: []
+body_completeness: excerpt
 ---
 
 <!-- *** RETRACTION *** TechCabal retracts its 2026-04-01 story claiming Ghana Cards now support payments â€” the claim is INCORRECT and the article was removed. Recorded so the wiki does not carry the reversed claim; verify no page asserts Ghana-Card payment functionality. -->

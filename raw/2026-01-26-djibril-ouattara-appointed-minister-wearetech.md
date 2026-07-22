@@ -13,6 +13,7 @@ places: [CIV]
 topics: [gov.policy, dpi.govtech, infra.connect, infra.cybersec, gov.protect]
 entities: [[djibril-ouattara], [ibrahim-kalil-konate], [ministry-of-digital-transition-and-technological-innovation-cote-divoire], [mtn], [robert-beugre-mambe]]
 lens: []
+body_completeness: full
 ---
 
 # Côte d'Ivoire Appoints Djibril Ouattara as Minister of Digital Transition

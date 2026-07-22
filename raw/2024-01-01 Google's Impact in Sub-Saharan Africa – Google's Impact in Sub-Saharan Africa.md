@@ -3,6 +3,7 @@ type: source
 title: "Google's Impact in Sub-Saharan Africa (Public First report)"
 publisher: Public First (for Google)
 url: https://googlessa.publicfirst.co.uk/
+url_note: "dedicated single-report microsite - the report is served at the domain root, so the bare domain IS the document-specific URL (lint #14 carve-out, confirmed 2026-07-21)"
 date_source: source
 author: Public First
 published: 2024

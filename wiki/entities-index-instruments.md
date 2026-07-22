@@ -12,6 +12,7 @@ about or from one becomes a normal source that cites it.
 
 | Instrument | Places | Topics | Page |
 |---|---|---|---|
+| Africa AI Governance Index (AAIGI), inaugural edition 2026 | XAF | tech.ai, gov.policy, gov.standards, gov.regional | [[africa-ai-governance-index]] |
 | Cyber Security Act No. 3 / Cyber Crimes Act No. 4 of 2025 (Zambia) | ZMB | infra.cybersec, gov.legislate, gov.protect | [[cyber-security-act-zambia]] |
 | Eswatini National FinTech Strategy (2025–2030) | SWZ | dpi.pay, gov.policy, finance.new, dpi.id | [[eswatini-national-fintech-strategy]] |
 | SNIAC (Sistema Nacional de Identificação e Autenticação Civil), Cabo Verde | CPV | dpi.id, dpi.registry, gov.legislate | [[sniac-cabo-verde]] |

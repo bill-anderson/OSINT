@@ -14,6 +14,7 @@ places: [GIN]
 topics: [dpi.id, gov.legislate, include.access]
 entities: [[mamadi-doumbouya], [oneci-guinea]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Guinée: Général Mamadi Doumbouya, président de la transition décrète la gratuité de la carte nationale biométrique

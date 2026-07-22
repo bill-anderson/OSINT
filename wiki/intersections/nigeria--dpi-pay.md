@@ -5,11 +5,11 @@ place: NGA
 topic: dpi.pay
 places: [NGA, XWA]
 topics: [dpi.pay, gov.policy, gov.regional, gov.standards, gov.legislate, dpi.govtech, tech.ai, tech.industry, include.access, finance.new, capacity.literacy]
-entities: [[cbn], [fx-bdc-purchase-tracker], [cbn-policy-insight-series-2025], [ecowas], [afcfta], [papss], [afreximbank], [beac], [mathesis-analytics], [first-ally-capital], [mathesis-analytics-first-ally-funding-2026], [skydd], [chituru-nsirim], [anu-oyeleye], [nigerian-exchange], [bamboo], [cowrywise], [meristem-securities], [afrinvest], [csl-stockbrokers], [richmond-bassey], [sec-nigeria], [ngx-regulation], [ngx-domestic-foreign-portfolio-investment-report], [virtual-assets-executive-order-2026], [nigeria-revenue-service], [nfiu], [onsa-nigeria], [cbn-payments-circular-2026], [flutterwave], [paystack], [moniepoint], [stripe], [mono], [busha], [tether], [imf]]
+entities: [[cbn], [fx-bdc-purchase-tracker], [cbn-policy-insight-series-2025], [ecowas], [afcfta], [papss], [afreximbank], [beac], [mathesis-analytics], [first-ally-capital], [mathesis-analytics-first-ally-funding-2026], [skydd], [chituru-nsirim], [anu-oyeleye], [nigerian-exchange], [bamboo], [cowrywise], [meristem-securities], [afrinvest], [csl-stockbrokers], [richmond-bassey], [sec-nigeria], [ngx-regulation], [ngx-domestic-foreign-portfolio-investment-report], [virtual-assets-executive-order-2026], [nigeria-revenue-service], [nfiu], [onsa-nigeria], [cbn-payments-circular-2026], [flutterwave], [paystack], [moniepoint], [stripe], [mono], [busha], [tether], [imf], [regxta], [rukayat-kolawole-bello], [waspan], [alton]]
 lens: []
 status: active
-last_reviewed: 2026-07-20
-sources: [[2026-07-17-nigeria-central-bank-digitises-forex-oversight], [2026-02-06 Nigeria just raised the bar for West African Fintech], [2026-02-05 Nigeria's fintech blueprint raises stakes for Kenya, Africa's digital economy], [2026-01-27 Nigeria's PAPSS cross-border payments falls 53% to N5.6bn], [2025-04-29-cbn-open-banking-august-launch], [2025-11-07-nibss-national-payment-stack-first-transaction], [2026-06-17-cbn-payments-system-vision-2028], [2025-02-10-busha-lists-cngn-stablecoin], [2026-02-04-onafriq-papss-naira-wallet-ghana], [2025-06-11-ussd-end-user-billing-model], [2025-10-09-nigeria-e-payments-256bn-cbn], [2025-12-23-siips-nigeria-instant-payments-2tn], [2026-06-15-cbn-data-localisation-beneficial-owners-2027], [2026-06-09-cbn-ai-fraud-detection-realtime], [2025-08-25-cbn-pos-geotag-iso20022], [2026-03-12-cbn-automated-aml-baseline-standards], [2026-01-12-tin-nin-crypto-tax-carf], [2026-01-15-fg-7-5-vat-electronic-banking], [2025-09-04-fccpc-deon-digital-lending-regulations], [2025-05-13-cbn-diaspora-nrbvn-platform], [2025-11-03-sec-cbn-efcc-freeze-illicit-wallets], [2025-01-23-visa-strategic-investment-moniepoint], [2026-04-21-cbn-ncc-tirms-telecom-data-banks], [2026-06-25-paystack-index-ai-checkout], [2025-05-09-isa-2025-crypto-securities], [2025-03-20-flutterwave-firs-tax-payments], [2026-07-17-mathesis-analytics-raises-funding-ai-lending], [2026-07-17-skydd-insure-fintech-leadership], [2026-07-18-nigeria-retail-investing-boom], [2008-12-01-cbn-bullion-nigerian-stock-market-global-financial-crisis], [2026-05-31-ngx-domestic-foreign-portfolio-investment-report-may-2026], [2026-07-20-nigeria-coordinated-regulatory-framework-virtual-assets], [2026-07-20-cbn-rewriting-rules-nigeria-fintech-growth], [2026-07-20-busha-business-tether-stablecoin-infrastructure-africa]]
+last_reviewed: 2026-07-21
+sources: [[2026-07-17-nigeria-central-bank-digitises-forex-oversight], [2026-02-06 Nigeria just raised the bar for West African Fintech], [2026-02-05 Nigeria's fintech blueprint raises stakes for Kenya, Africa's digital economy], [2026-01-27 Nigeria's PAPSS cross-border payments falls 53% to N5.6bn], [2025-04-29-cbn-open-banking-august-launch], [2025-11-07-nibss-national-payment-stack-first-transaction], [2026-06-17-cbn-payments-system-vision-2028], [2025-02-10-busha-lists-cngn-stablecoin], [2026-02-04-onafriq-papss-naira-wallet-ghana], [2025-06-11-ussd-end-user-billing-model], [2025-10-09-nigeria-e-payments-256bn-cbn], [2025-12-23-siips-nigeria-instant-payments-2tn], [2026-06-15-cbn-data-localisation-beneficial-owners-2027], [2026-06-09-cbn-ai-fraud-detection-realtime], [2025-08-25-cbn-pos-geotag-iso20022], [2026-03-12-cbn-automated-aml-baseline-standards], [2026-01-12-tin-nin-crypto-tax-carf], [2026-01-15-fg-7-5-vat-electronic-banking], [2025-09-04-fccpc-deon-digital-lending-regulations], [2025-05-13-cbn-diaspora-nrbvn-platform], [2025-11-03-sec-cbn-efcc-freeze-illicit-wallets], [2025-01-23-visa-strategic-investment-moniepoint], [2026-04-21-cbn-ncc-tirms-telecom-data-banks], [2026-06-25-paystack-index-ai-checkout], [2025-05-09-isa-2025-crypto-securities], [2025-03-20-flutterwave-firs-tax-payments], [2026-07-17-mathesis-analytics-raises-funding-ai-lending], [2026-07-17-skydd-insure-fintech-leadership], [2026-07-18-nigeria-retail-investing-boom], [2008-12-01-cbn-bullion-nigerian-stock-market-global-financial-crisis], [2026-05-31-ngx-domestic-foreign-portfolio-investment-report-may-2026], [2026-07-20-nigeria-coordinated-regulatory-framework-virtual-assets], [2026-07-20-cbn-rewriting-rules-nigeria-fintech-growth], [2026-07-20-busha-business-tether-stablecoin-infrastructure-africa], [2026-07-21-stablecoins-test-africas-monetary-future], [2026-07-20-rukayat-kolawole-bello-regxta], [2026-06-16-imf-stablecoins-in-nigeria-cross-border-channel], [2026-07-21-nigeria-court-deon-digital-lending-fccpc-ncc]]
 ---
 
 # Nigeria × Digital Payments
@@ -18,6 +18,37 @@ Nigeria's CBN fintech blueprint is pitched as a regional passporting template �
 
 ## What we know
 
+- **[[NGA]] The IMF frames dollarised stablecoin adoption as a monetary-sovereignty problem
+  (2026-07-21).** [[sovereignty]] An **[[imf|IMF]]** report, ***Stablecoins in Nigeria: A Growing
+  Cross-Border Channel***, is reported as finding that the move to dollar-linked stablecoins is
+  **weakening local-currency demand and blunting monetary policy**. **★ Corrected 2026-07-21: the IMF
+  article is now held and the "up to 95% of surveyed users" figure is not in it** — the text reports no
+  survey at all, so that statistic is **unsupported by the source it was attributed to** and is struck.
+  The held IMF article does give: Nigeria **2nd on Chainalysis's 2024 Global Crypto Adoption Index,
+  6th in 2025**; **US$59bn** crypto-asset inflows Jul 2023–Jun 2024; ~**60%** of sub-Saharan stablecoin
+  inflows since 2019. Its underlying analysis is **2026 Nigeria Article IV, Annex VII — not held**.
+  Third-party scale figures, **attributed and not adopted as state**: Sub-Saharan on-chain value
+  **>US$205bn in the year to June 2025** with stablecoins **43% of transactions**, and post-devaluation
+  Nigerian monthly volumes **~US$25bn in early 2025** — both from **Rahul Sahni** (COO, TransFi), a
+  vendor with a position in the trade, and **not independently held**. Practitioner consensus in the
+  same piece runs **against prohibition**: regulate reserves, disclosure and consumer protection.
+  **Nosike Nwigene** inverts the framing — *"the biggest risk is not stablecoins. It is weak monetary
+  policy that pushes people towards them in the first place"* — which places the causal arrow on FX and
+  inflation policy rather than on the instrument. Note the pairing: this lands **one day after** the
+  [[busha]]×[[tether]] B2B rails below and the
+  **[[virtual-assets-executive-order-2026|Virtual Assets Executive Order]]**, so the Fund's diagnosis
+  and Nigeria's coordination response and the private dollarised rail all date to the same week.
+  Sources: [[2026-06-16-imf-stablecoins-in-nigeria-cross-border-channel]] (the primary), [[2026-07-21-stablecoins-test-africas-monetary-future]].
+- **[[NGA]] Agent-network microfinance as the inclusion counter-current — a standing object, not a
+  development (profiled 2026-07-20).** **Regxta**, founded **2018** and led by co-founder/CEO
+  **Rukayat Kolawole-Bello** (ICAN-certified accountant, 2019), targets **microenterprises and the
+  historically unbanked** with savings accounts, **microcredit** and day-to-day trading tools,
+  distributed through a **network of trained local agents** working merchants in person. Worth holding
+  against the stablecoin material above: the same "traditional banking falls short" premise, answered
+  with **naira-denominated formalisation and credit access** rather than dollar substitution. No user,
+  loan-book or coverage figures are published in the profile — **scale unestablished as of 2026-07-20**.
+  Below the entity-page bar for now; revisit in the entity pass. Source:
+  [[2026-07-20-rukayat-kolawole-bello-regxta]].
 - **[[NGA]] [[KEN]] A licensed local exchange plugs into Tether's dollar liquidity for B2B
   cross-border settlement (2026-07-20).** [[sovereignty]] **[[busha|Busha Business]]**, the B2B arm of
   Nigerian exchange **[[busha]]**, announced a collaboration with **[[tether]]**, issuer of **USD₮**,
@@ -154,9 +185,26 @@ and crypto-formalisation** from the CBN, NIBSS and SEC.
   pre-clearing (fraud fell 51% to ₦25.85bn in 2025). Sources: [[2025-08-25-cbn-pos-geotag-iso20022]],
   [[2026-03-12-cbn-automated-aml-baseline-standards]], [[2026-06-09-cbn-ai-fraud-detection-realtime]],
   [[2026-04-21-cbn-ncc-tirms-telecom-data-banks]].
-- **Consumer-lending crackdown.** The FCCPC's **DEON 2025** regulations (eff. Jul 2025) rein in predatory digital
-  lenders (harassment, data abuse). See [[gov.legislate]]. Source:
-  [[2025-09-04-fccpc-deon-digital-lending-regulations]].
+- **Consumer-lending crackdown, and the jurisdictional fight it triggered.** The FCCPC's **DEON 2025**
+  regulations (eff. Jul 2025) rein in predatory digital lenders (harassment, data abuse). See
+  [[gov.legislate]]. Source: [[2025-09-04-fccpc-deon-digital-lending-regulations]].
+  - **★ Resolved in court, 2026-07-20 (judgment delivered Monday; reported 07-21).** In **Suit No.
+    FHC/L/CS/760/2026**, **Justice Ambrose Lewis-Allagoa** dismissed **WASPAN**'s suit to nullify the
+    DEON Regulations — **upholding them as valid and "fully operational and enforceable"** — while
+    agreeing with WASPAN's central point that **the [[fccpc|FCCPC]]'s consumer-protection powers do not
+    extend to licensing telecommunications operators or overseeing airtime lending**, which stay
+    exclusively with the **[[ncc|NCC]]**. *The principle is the transferable part: a consumer-protection
+    mandate does not absorb a sectoral licensing one — concurrency means coexistence, not displacement.*
+    **What it cost while unresolved:** in **April 2026** **[[mtn-nigeria|MTN]], [[airtel-africa|Airtel]]
+    and Glo suspended emergency airtime and data credit** after the FCCPC classified airtime advances as
+    digital loans; WASPAN then won an interim injunction in May, the FCCPC suspended implementation, and
+    services resumed. The judgment lifts that injunction. **Scale, attributed to ALTON via
+    TechCabal (2026-07-21):** airtime and data credit serve an estimated **40 million Nigerians** in a
+    market worth **₦300–400bn annually** *(the source's own undated conversion: US$217.4m–289.9m —
+    naira is the announcing party's currency and is what the wiki carries)*. **Unresolved and named as
+    such by the reporting:** the FCCPC and NCC have **no published joint framework** for how they will
+    co-supervise the market, which is the condition for a repeat. **The judgment text is not held** —
+    only this account of it. Source: [[2026-07-21-nigeria-court-deon-digital-lending-fccpc-ncc]].
 
 ### Crypto formalised; inclusion widened
 

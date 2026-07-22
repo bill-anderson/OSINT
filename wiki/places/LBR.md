@@ -109,6 +109,16 @@ last_reviewed: 2026-07-20
   [[2026-01-07 Digital driving licence coming to South Africa]]. See [[include.access]],
   [[dpi.govtech]], [[capacity.literacy]].
 
+## Financing
+
+*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-21**.*
+
+**Non-state** — US$149m committed across 7 deals (2015–2024). Top financiers: MIGA (Multilateral Investment Guarantee Agency) (US$93m), USAID (US$28m), World Bank Group (US$24m). Leading subjects: `infra.connect`, `tech.innovate`, `dpi.govtech`.
+
+Instrument mix: Grant 4, Guarantee 2, Concessional loan 1. **1 record here still carries the capture's unverified `Concessional loan` label**, so the mix is indicative rather than established: the World Bank portal does not separate an IDA credit from an IDA grant.
+
+**Domestic state** — *(pending that dataset)*.
+
 ## Active topics
 
 - [[gov.policy]] · [[infra.cybersec]] — **[[digital-liberia-strategy]]**

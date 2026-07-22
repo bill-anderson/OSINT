@@ -13,6 +13,7 @@ places: [CIV]
 topics: [capacity.training, capacity.research, tech.ai, gov.policy, infra.store, finance.new]
 entities: [[souleymane-diarrassouba], [pnd-2026-2030-cote-divoire], [national-artificial-intelligence-strategy-cote-divoire]]
 lens: [sovereignty]
+body_completeness: full
 ---
 
 # Côte d'Ivoire Plans AI University to Address Digital Skills Shortage

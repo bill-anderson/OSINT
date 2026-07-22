@@ -22,10 +22,13 @@ For each file in `open/`:
    the filing, the court record, the statistical release. Secondary reporting
    settles nothing that a primary can settle.
 
-3. **Ingest what you find.** Primaries go through `new/` and are filed as normal
-   sources — full verbatim body, date-prefixed filename, proper frontmatter.
-   **Research notes and search output are not sources**: they go to `research/`
-   and are never ingested. The page fix cites the primary, never the synthesis.
+3. **Ingest what you find.** Primaries are filed as normal sources — full verbatim
+   body, date-prefixed filename, proper frontmatter. **Research notes and search
+   output are not sources and are not written to disk at all**: they stay in the
+   session and are discarded. The page fix cites the primary, never the synthesis.
+   *(Amended 2026-07-21: the former `research/` quarantine folder was removed
+   2026-07-20 — do not recreate it. Anything worth keeping is worth ingesting as a
+   primary; anything not worth ingesting is not worth filing.)*
 
 4. **Apply the resolution** to every affected page. Prefer the newest value.
    Write the resolved figure dated, and keep at most one dated prior where the
@@ -64,16 +67,15 @@ than settling the two, that is a live contradiction: record it, don't pick.
 ## Ending the pass
 
 The durable resolution lives **on the affected page and in this log**. The `done/`
-file is only the closure marker, and `research/` is transient scratch —
-**delete `research/` at pass end** (hand the deletion to Bill if CC cannot), so it
-never accumulates as a fake store of record or a quarantine-leak surface for the
-next lint.
+file is only the closure marker. *(Amended 2026-07-21: the instruction to delete
+`research/` at pass end is withdrawn — the folder no longer exists and step 3 now
+forbids recreating it, so there is nothing to clean up.)*
 
 Append **one terse entry** to `wiki/log.md` (a few lines, not a narrative):
 counts researched / resolved / re-routed / closed-unresolved, primaries ingested,
 anything shaky. Then the tally:
 
-`contradictions - NN ; acquisitions - NN ; decisions logged - NN`
+`contradictions - NN ; acquisitions - NN ; awaiting ingest - NN ; decisions logged - NN`
 
 ## Concurrency
 

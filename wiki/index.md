@@ -46,8 +46,8 @@ Values outside the vocabularies are rejected.
 
 | Folder | Page type | Notes |
 |---|---|---|
-| `new/` | (intake queue) | Unprocessed clips land here; drained on ingest. Folder = state. |
-| `new-queue/`, `sweep/` | (staging) | Sweep candidates, upstream of `new/`. The sweep never writes past its own staging folder. |
+| `new/` | (intake queue) | Unprocessed clips **and sweep candidates** land here; drained on ingest. Folder = state. |
+| `sweep/` | (staging) | Sweep state/logs. The sweep writes candidates straight to `new/` (the `new-queue/ → new/` human gate was retired 2026-07-21); `new-queue/done/` remains Bill's. |
 | `raw/` | source | Admitted sources, flat, `YYYY-MM-DD`-prefixed; immutable after ingest (one bounded exception: verbatim fidelity re-capture). |
 | `_leads/` | (parked) | In-scope material not yet usable — to mine, not compile. Nothing else parks here. |
 | `wiki/concepts/` | concept | One page per subject slug. |

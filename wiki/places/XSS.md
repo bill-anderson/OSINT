@@ -93,6 +93,18 @@ home region. Roll-up by walking parents.
   [[2025-12-04 Is it a bird Is it plane No, Jim, it's an African mobile operator, but not as we know it 9]],
   [[2026-04-16 The Long View - What ICT4D did for Africa and why that deep past matters for today]].
 
+## Financing
+
+*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-21**.*
+
+**Non-state** — US$19.53bn committed across 297 deals (2015–2027). Top financiers: Orange / Orange Digital Ventures Africa (US$3.36bn), Mastercard Foundation (US$2.11bn), Cassava Technologies / Liquid Intelligent Technologies (US$1.73bn). Leading subjects: `infra.connect`, `dpi.pay`, `tech.industry`.
+
+Instrument mix: Grant 125, Equity 96, Commercial loan 44.
+
+**Domestic state** — *(pending that dataset)*.
+
+Material deals: [[2023-01-01-orange-reg-mea-capex-annual-2023-orange-mea-annual-network-capex-programme]], [[2022-01-01-orange-reg-mea-capex-annual-2022-orange-mea-annual-network-capex-programme]], [[2024-01-01-eand-reg-moov-africa-capex-2024-moov-africa-ssa-subsidiaries-annual-capex]], [[2021-01-01-cassava-reg-liquid-bond-2021-liquid-intelligent-technologies-usd-620-million]], [[2025-01-01-axian-reg-bond-2025-axian-telecom-usd-600-million-7250]], [[2021-01-01-adc-reg-500m-programme-2021-africa-data-centres-500-million-pan-african]].
+
 ## Active topics
 
 - [[include.divides]] · [[include.access]] — the usage/affordability gap; entry-handset

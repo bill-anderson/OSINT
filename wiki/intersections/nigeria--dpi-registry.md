@@ -8,8 +8,8 @@ topics: [dpi.registry, dpi.id, gov.legislate, digital.localgov]
 entities: [[nimc], [npc]]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-19
-sources: [[2025-03-08-nigerias-first-biometric-census], [2025-03-31-mandatory-citizen-registration-regulation], [2025-07-03-sim-registration-halted-nimc-migration], [2025-02-04-kaduna-land-administration-software], [2025-03-20-fg-land-information-system-digitisation], [2025-06-24-lagos-digital-house-numbering-identity-project]]
+last_reviewed: 2026-07-22
+sources: [[2025-03-08-nigerias-first-biometric-census], [2025-03-31-mandatory-citizen-registration-regulation], [2025-07-03-sim-registration-halted-nimc-migration], [2025-02-04-kaduna-land-administration-software], [2025-03-20-fg-land-information-system-digitisation], [2025-06-24-lagos-digital-house-numbering-identity-project], [2026-07-22-npc-nationwide-digital-birth-death-registration]]
 ---
 
 # Nigeria × Registries (population, land, address)
@@ -31,6 +31,18 @@ land and address — being digitised and biometrically anchored, much of it keye
   registrations, swaps, portability) during NIMC's migration to a **self-built, self-managed identity
   platform** (BlueSalt handling operator migration). NIMC has registered **120m+** Nigerians, targeting
   100m more toward a **95% coverage** goal. Source: [[2025-07-03-sim-registration-halted-nimc-migration]].
+
+## Civil registration and vital statistics (CRVS)
+
+- **e-CRVS goes nationwide — VitalReg (2026-07-22; operational from 2026-07-01).** The
+  **[[npc-nigeria|National Population Commission]]** commenced **nationwide** digital birth and death
+  registration on its **[[e-crvs-nigeria|E-CRVS]]** system via the **VitalReg** platform (announced at a
+  Lokoja briefing, federal commissioner Afolabi Yori) — the nationwide rollout of the platform Tinubu
+  launched in **Nov 2025**. Coverage, dated: **birth ~57%, death <20% (2026-07)** against ~**5m births/yr**;
+  **4,011 registration centres** across the **774 LGAs** → target ~**8,000**; run under a **PPP with
+  [[barnks-forte-technologies]] Ltd**. Newborn registration **requires ≥1 parent to hold a valid NIN**
+  ([[nimc]]) — the CRVS-to-foundational-ID link, framed to **SDG 16.9**. See [[dpi.id]], [[dpi.mis]],
+  [[nigeria--dpi-id]]. Source: [[2026-07-22-npc-nationwide-digital-birth-death-registration]].
 
 ## Land and address registries
 

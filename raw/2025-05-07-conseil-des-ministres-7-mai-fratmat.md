@@ -13,6 +13,7 @@ places: [CIV]
 topics: [gov.policy, tech.innovate]
 entities: [[ivoire-tech-forum], [union-africaine], [commission-electorale-independante], [banque-islamique-de-developpement], [fmi], [banque-mondiale]]
 lens: []
+body_completeness: full
 ---
 
 # Communiqué du Conseil des ministres du mercredi 7 mai 2025
