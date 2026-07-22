@@ -6,6 +6,25 @@ Reporting): a few lines each, full detail in `log-archive.md` or git.
 
 ---
 
+## 2026-07-22 — sweep + extract: ZAF 2026 → FY2026/27 — 13 records; the vote restructured; DHA earmark gone
+
+Sweep: ENE 2026 chain by direct URL (FullENE, Vote 30 chapter, B4-2026 — filename pattern changed, no
+brackets; a Special Appropriation Bill B3-2026 noted unfetched); May-2026 budget-vote speech staged
+(FY2026/27 **R2.549bn**; **the National AI Policy withdrawn over irresponsible generative-AI use in its
+drafting**, an expert review panel appointed — a wiki-grade governance event in its own right). Extract:
+**Vote 30 restructured** — six new programme names, series joined on function (Broadband persists in
+*Digital Infrastructure and Technologies*: year 4 = **R285.1m**; the broadcasting subprogramme's 2025/26
+comparator spikes to R896.7m = the Sentech dual-illumination/transmission one-offs, gone by 2026/27).
+Cross-vote series continue: Justice Modernisation **R727.9m**; **Information Regulator R145.9m, now a
+starred public-entity earmark** (year 3 of the DPA series); DHA Transversal IT R1,166.9m — with its
+2025/26 comparator **restated to R1,324.1m** (in-year additions; held AENE-2025 volume flagged for
+re-extract) and the B5/B16 modernisation earmark **absent from B4-2026**; dtic inquiry steps up to
+R33.8m. 2 rows unresolved (-layout; flagged `re_extract: YES`). 4 CSVs archived; `new-budget/` drained.
+Calendar gaps: AENE 2026 (~Nov), FY2025/26 outturn (~Oct). Revert: `git checkout <sha> -- new/ new-budget/ budget-archive/ documentation/ wiki/`.
+
+contradictions - 0 ; acquisitions - 0 ; awaiting ingest - 14 ; decisions logged - 2
+*(new-budget outstanding: none)*
+
 ## 2026-07-22 — update-wiki: converged in 1 iteration; ZAF two-year series live on the hub
 
 Passes: **ingest ×1, finance compile ×1, full lint ×1**; reconcile/acquire skipped (0). 17 records + 2 prose
