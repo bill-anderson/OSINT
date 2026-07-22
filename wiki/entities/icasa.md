@@ -7,7 +7,7 @@ places: [ZAF]
 topics: [gov.legislate, gov.policy, gov.standards, infra.connect]
 status: active
 last_reviewed: 2026-07-11
-sources: [[2026-04-12 Icasa moves to mandate national infrastructure database], [2026-02-18 Starlink pushes for SA license with advocacy campaign], [2026-07-17-starlink-launches-27th-african-country-ivory-coast]]
+sources: [[2026-04-12 Icasa moves to mandate national infrastructure database], [2026-02-18 Starlink pushes for SA license with advocacy campaign], [2026-07-17-starlink-launches-27th-african-country-ivory-coast], [2025-07-11-zaf-malatsi-budget-vote-30-speech-2025-26]]
 ---
 
 # Independent Communications Authority of South Africa (ICASA)

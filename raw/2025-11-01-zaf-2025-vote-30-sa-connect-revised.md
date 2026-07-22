@@ -55,6 +55,8 @@ AENE 2025: the 2024/25 SA Connect underspend returns as a R1.005bn rollover into
 
 ## Development history
 
+- **2026-06** — DG Jordan-Dyani's year-end account to the portfolio committee (via TechCentral, 2026-06-18): the in-year allocation collapsed from an expected R1.1bn to R116m; rollover cash available only from January 2026; hardware arrived end-March (Middle East shipping disruption); the department closed FY2025/26 at **R3.61bn spent of its R3.74bn budget**, shortfall mainly the stalled SA Connect Phase 2. 7,397 public facilities connected in-year (ahead of target); Wi-Fi at 101% of goal; ~7,500 sites via the telcos' spectrum social-obligations programme. [held: `raw/2026-06-18-zaf-techcentral-sa-connect-stalled-fy2025-26.md`]
+
 ## Notes
 
 Adjustment cell-mapping carries a ±R16m ambiguity between rollover/virement columns under -layout (one attempt; printed adjusted total carried, vote-level delta exact). The FY2025/26 outturn (DCDT AR, ~Oct 2026) will show how much of the R1.25bn was actually spent — the year-later sweep re-run's headline question.

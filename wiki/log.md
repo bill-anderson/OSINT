@@ -6,6 +6,18 @@ Reporting): a few lines each, full detail in `log-archive.md` or git.
 
 ---
 
+## 2026-07-22 — update-wiki: converged in 1 iteration; ZAF two-year series live on the hub
+
+Passes: **ingest ×1, finance compile ×1, full lint ×1**; reconcile/acquire skipped (0). 17 records + 2 prose
+admitted (`raw/` domestic records: 61, ZAF 43); speech figures already held at document tier (no records
+from prose); TechCentral year-end account annotated onto the revised SA Connect record (**FY2025/26 closed
+R3.61bn of R3.74bn**; outturn detail = the year-later re-run's question). Compile: ZAF hub now carries the
+**two-year stage-split series** — FY2024/25 appropriated R5.10bn / revised R1.11bn / audited R908m + the
+six execution rates; FY2025/26 appropriated R3.28bn (15 lines) / revised R1.25bn. Lint: baseline exact.
+Revert: `git checkout <sha> -- raw/ new/ wiki/`.
+
+contradictions - 0 ; acquisitions - 0 ; awaiting ingest - 0 ; decisions logged - 0
+
 ## 2026-07-22 — budget extract: ZAF/2025 drained — 17 records; the rollover documented; DPA goes standalone
 
 All 7 documents extracted and archived (no new archetypes; 5 CSVs). **17 records staged** (8 Vote 30:
