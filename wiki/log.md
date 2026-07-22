@@ -6,6 +6,22 @@ Reporting): a few lines each, full detail in `log-archive.md` or git.
 
 ---
 
+## 2026-07-22 — budget re-extract: b5/b14 reopened at cross-vote scope — 1 record, 3 annotations, 2 acquisitions
+
+First run of the re-extract mechanism, on its standing job. **b5-2024:** the DHA earmark confirmed —
+**"Information and Modernisation Systems: Operations" R736,994k**, nesting inside the held Transversal IT
+record (annotated, not double-recorded: earmark = ops share, projects ≈ R453m unearmarked); bill-wide
+earmark scan found one more prize — **the Science ICT transfer (R22,529k) legible in B5's schedule where
+the ENE table column-collapsed**, closing the first run's extraction failure with a **new record** (method
+note: check the bill before pdfplumber). **b14-2024:** in-year movements the sector view missed —
+**DHA +R1.6bn** (election year; Administration +R353.1m) and **Justice −R545.9m** hitting the programme
+housing Justice Modernisation and the Information Regulator; per-subprogramme impact not establishable at
+B14 grain → **Vote 5 + Vote 25 AENE chapters to acquisitions [untried]**; three held records annotated
+with dated dev-history lines, nothing overwritten. 2 additive CSVs archived; manifest: both bills →
+`extracted_scope: cross-vote`, `re_extract: no`. Revert: `git checkout <sha> -- new/ raw/ budget-archive/ new-budget/ reviews/ documentation/`.
+
+contradictions - 0 ; acquisitions - 2 ; awaiting ingest - 1 ; decisions logged - 1
+
 ## 2026-07-22 — update-wiki: converged in 1 working iteration; cross-vote records live on the hub
 
 Passes: **ingest ×1, finance compile ×1, full lint ×1**; reconcile/acquire skipped (0 throughout).
@@ -36,6 +52,39 @@ remain). Revert: `git checkout <sha> -- new/ new-budget/ budget-archive/ wiki/ d
 
 contradictions - 0 ; acquisitions - 0 ; awaiting ingest - 10 ; decisions logged - 2
 *(new-budget outstanding: none)*
+
+## 2026-07-22 — re-extract mode; manifest records extraction *scope*, not just date
+
+**The gap CC's "nothing has changed since the last extraction" exposed.** True of the run — the
+library gained the cross-vote scan *before* the ENE pass, so re-running found nothing. False of eight
+of the nine documents, which were extracted at Vote 30 scope *before* that capability existed. With
+only `extracted: <date>` on every row, per-run and per-document were indistinguishable.
+
+**Decisions:**
+
+- **`extracted_scope` and `re_extract` added to `new-budget/manifest.csv`** (17 cols).
+  `extracted_scope` = `sector-vote | cross-vote | narrative | n/a`; `re_extract` = `no` or a note
+  naming what is missing. A document read at sector-vote when that was all the library could do is an
+  honest record that becomes a work item automatically the moment the library grows — rather than
+  depending on someone remembering. Set at step 5a, while it is known. *Revert: two columns in the
+  manifest, step 5a.*
+- **Re-extract mode added** (`"run budget re-extract"`). Reads archived artefacts **in place** — the
+  state is still *extracted*, this is a second reading not a reprocessing — writes **additional**
+  CSVs beside the originals rather than overwriting (the first extraction remains a true record of
+  what that pass saw), and **definite-matches before creating**, because by construction this pass
+  re-reads documents the wiki has already mined and blind creation is how duplicates get made. A
+  figure disagreeing with a held record is a contradiction, not a newer-read-wins overwrite.
+  *Revert: the Re-extract section of `BUDGET-EXTRACT.md`.*
+
+**Standing job, ZAF 2024:** `b5-2024` and `b14-2024` flagged `re_extract: YES` for votes 5, 11, 14,
+22, 25, 39. B5 carries an enacted earmark under Home Affairs Programme 1 — *Information and
+Modernisation Systems: Operations*, **R736,994 thousand** — never read, and worth reconciling against
+the ENE's Transversal IT Management at R1,190.1m (different grain, possibly different scope). Ruled
+**not** candidates: the statistical annexure (vote-total granularity, cannot revise a subprogramme
+line) and the DCDT annual report (other votes' outturn needs *their* annual reports — an acquisition,
+not a re-extract).
+
+contradictions - 0 ; acquisitions - 0 ; awaiting ingest - 10 ; decisions logged - 2
 
 ## 2026-07-22 — cross-vote scan made required; identity/data-exchange and governance blocks; envelope carve-out
 

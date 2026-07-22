@@ -115,6 +115,17 @@ carried them, where they hid, what you looked for and didn't find.
   general public-service innovation, not single-mandate digital; GCIS is communications, not digital
   transformation.
 
+**Re-extract run (2026-07-22, b5-2024 + b14-2024 → cross-vote):**
+- **The Appropriation Bill rescues figures the ENE garbles**: the Science ICT transfer (R22,529k) was
+  illegible in the ENE's collapsed transfer table but legible in B5's schedule — when an ENE row fails,
+  check the bill's transfer detail before reaching for pdfplumber.
+- **B5's "Of which" earmarks are the enacted legal grain**: DHA "Information and Modernisation Systems:
+  Operations" R736,994k nests inside the ENE's Transversal IT subprogramme (R1,190.1m) — earmark = ops
+  share; the projects (~R453m) are not separately earmarked. Annotate, don't double-record.
+- **B14 exposes in-year movements the sector view misses**: DHA +R1.6bn (election year), Justice −R545.9m
+  hitting the programme that houses Justice Modernisation and the Information Regulator. Per-subprogramme
+  impact needs the per-vote AENE chapters — the standing acquirable for any vote with a material B14 move.
+
 ### Template for an entry
 
 ```markdown

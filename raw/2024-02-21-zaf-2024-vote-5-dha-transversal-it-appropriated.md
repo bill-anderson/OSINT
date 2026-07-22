@@ -54,6 +54,8 @@ ENE 2024, Vote 5. The DHA's IT and identity-systems delivery vehicle. Named 2024
 
 ## Development history
 
+- **2024 (enacted)** — Appropriation Act schedule (B5-2024) carries an "Of which" earmark under the Administration programme: **"Information and Modernisation Systems: Operations", R736,994k** — the legally-earmarked operations share of this subprogramme (balance ≈ R453m: the named projects incl. eVisa R100m, kiosks R60m, births automation R15m, smart-ID rollout R15m). [re-extract 2026-07-22, b5-2024-cross-vote-schedule.csv]
+- **2024-10-30** — B14-2024: Home Affairs received a **+R1.6bn in-year addition** (Administration +R353.1m; Citizen Affairs +R1,362.5m; Immigration −R115.6m) — election-year adjustment; whether this subprogramme's figure moved is **not established** at B14's grain (the Vote 5 AENE chapter is the acquirable instrument, filed to acquisitions). [re-extract 2026-07-22]
 ## Notes
 
 The largest single cross-vote digital line — larger than any Vote 30 programme except P5. The identity-modernisation spend the sector-vote view missed entirely. *Cross-vote scan record (BUDGET-EXTRACT step 4a, 2026-07-22): outturn for this vote's lines is not held — the vote's own annual report is the acquirable outturn instrument.*

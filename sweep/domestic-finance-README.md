@@ -331,7 +331,11 @@ it (`reference.md` §2, §7). The extraction pass empties and deletes the folder
 it is done, so **a `new-budget/` folder existing always means work outstanding**.
 Append a row to **`new-budget/manifest.csv`** for each document staged:
 
-`iso3, fiscal_year, doc_type, title, url, artefact_path, companion_path, retrieved, scale, currency, pages, notes`
+`iso3, fiscal_year, fiscal_years_covered, doc_type, title, url, artefact_path, companion_path, retrieved, scale, currency, pages, extracted, extracted_scope, re_extract, archive_path, notes`
+
+The sweep fills everything up to `pages` and leaves the rest blank;
+`BUDGET-EXTRACT.md` sets `extracted`, `extracted_scope`, `re_extract` and
+`archive_path`.
 
 That manifest is the standing record of what is held and unprocessed — and, read
 across a few countries, it is also the raw material for writing the extraction

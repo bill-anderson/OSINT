@@ -54,6 +54,7 @@ ENE 2024, Table 25.14. Subprogramme purpose (verbatim): "Justice Modernisation i
 
 ## Development history
 
+- **2024-10-30** — B14-2024: Vote 25 took a **−R545.9m in-year cut**, with the Auxiliary and Associated Services programme (this subprogramme's home) affected; the subprogramme split is not visible at B14's grain — the Vote 25 AENE chapter is the acquirable instrument (filed to acquisitions). [re-extract 2026-07-22]
 ## Notes
 
 Larger than four of Vote 30's six programmes — the flagship cross-vote digital line. *Cross-vote scan record (BUDGET-EXTRACT step 4a, 2026-07-22): outturn for this vote's lines is not held — the vote's own annual report is the acquirable outturn instrument.*

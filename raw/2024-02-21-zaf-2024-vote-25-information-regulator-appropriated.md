@@ -54,6 +54,7 @@ ENE 2024, Table 25.14. Subprogramme purpose (verbatim): "Information Regulator f
 
 ## Development history
 
+- **2024-10-30** — B14-2024: Vote 25 took a −R545.9m in-year cut affecting the Auxiliary and Associated Services programme; whether the Information Regulator transfer moved is not established at B14's grain (Vote 25 AENE chapter filed to acquisitions). [re-extract 2026-07-22]
 ## Notes
 
 **First application of the single-mandate carve-out** (driver → Scope, 2026-07-22): the body's entire statutory mandate is data protection and access to information, so its whole appropriation is the data-governance line; scope_basis = mandate test (POPIA + PAIA, single-purpose). The five-year ramp (R29.9m → R110.9m, with MTEF to R141.0m) is South Africa's data-protection-authority funding trajectory in one row — the least visible and most policy-relevant number in this dataset. *Cross-vote scan record (BUDGET-EXTRACT step 4a, 2026-07-22): outturn for this vote's lines is not held — the vote's own annual report is the acquirable outturn instrument.*

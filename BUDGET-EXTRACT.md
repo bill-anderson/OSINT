@@ -57,6 +57,61 @@ populated folder as an error state or clear it; drain it.
 
 Run over **every** country-year folder present, not just the one just swept.
 
+## Re-extract — reopening archived documents
+
+**Trigger: "run budget re-extract"**, optionally scoped
+(`run budget re-extract for South Africa 2024`).
+
+The strategy library is designed to grow, which means **every archived document is
+extracted against whatever the library could do on the day** — and improves
+nothing thereafter. Without a way back in, a capability added on Tuesday never
+reaches a document read on Monday.
+
+**The manifest is the record of what, not just when.** Two columns:
+
+- **`extracted_scope`** — what the extraction actually covered:
+  `sector-vote` | `cross-vote` | `narrative` | `n/a`.
+- **`re_extract`** — `no`, or a note naming what is missing and why.
+
+`extracted` alone cannot answer this. *(Learned the hard way, 2026-07-22: with
+only a date, "nothing has changed since the last extraction" was true of the run
+and false of eight of the nine documents, and there was no way to tell them
+apart.)*
+
+### The loop
+
+1. **Select** documents whose `re_extract` is not `no`. If the field is blank,
+   compare `extracted_scope` against what the library can now do and set it.
+2. **Read the archived artefact in place.** Do not move it back to `new-budget/` —
+   its state is still *extracted*; this is a second reading, not a reprocessing.
+3. **Extract only the newly-in-scope rows.** Write **additional** CSVs beside the
+   existing ones, named for the new scope
+   (`b5-2024-cross-vote-schedule.csv`), never overwriting the originals — the
+   first extraction is still a true record of what that pass saw.
+4. **Definite-match before creating** (spec → *Store of record*). A re-extract of
+   an all-vote document will re-encounter lines already held from another
+   document. Same `deal_id` stem → merge or drop; genuinely new line → create.
+   **Blind creation here is how duplicates get made**, since by construction this
+   pass reads documents the wiki has already mined.
+5. **A figure that disagrees with a held record is a contradiction**, filed, not
+   resolved by preferring the newer read. The point of a second document is that
+   it can disagree.
+6. **Update `extracted_scope` and set `re_extract: no`.** Nothing moves; the
+   artefact stays archived.
+
+### Standing job for ZAF 2024
+
+`b5-2024` and `b14-2024` are all-vote schedules extracted at Vote 30 only, before
+the cross-vote scan existed. B5 carries an enacted earmark under Home Affairs
+Programme 1 — *Information and Modernisation Systems: Operations*, R736,994
+thousand — never read, and worth reconciling against the ENE's Transversal IT
+Management at R1,190.1m, which is a different grain and may be a different scope.
+
+The statistical annexure is **not** a candidate: vote-total granularity only, so
+it cannot revise a subprogramme digital line. Nor is the DCDT annual report —
+other votes' outturn needs *their* annual reports, which is an acquisition, not a
+re-extract.
+
 ## When it runs
 
 **At the end of every domestic finance sweep** *(Bill's ruling, 2026-07-22, after
@@ -170,6 +225,17 @@ it**.
 
 This is the step that converts a thin news-built corpus into a documented one, and
 it is easy to forget because nothing prompts for it.
+
+### 5a. Record what was extracted, not just that it was
+
+Set **`extracted_scope`** on every document's manifest row — `sector-vote`,
+`cross-vote`, `narrative`, `n/a` — and **`re_extract`** to `no` or a note naming
+what was left. Do this as the extraction finishes, while it is known.
+
+A document read at `sector-vote` when the library could only do sector-vote is
+**not a failure**; it is an honest record that becomes a work item the moment the
+library grows. The columns are what make that transition automatic rather than
+dependent on someone remembering.
 
 ### 6. Archive
 
