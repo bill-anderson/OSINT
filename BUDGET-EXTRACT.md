@@ -121,6 +121,38 @@ the country's section of `domestic-budget-extraction.md`, and move on. A documen
 that only a hand-clip could crack is not a standing chore — the same discipline as
 the acquisition pass. Say so on the place hub as a dated absence if it matters.
 
+### 4a. Cross-vote scan — do not stop at the sector vote
+
+**Where the country-year holds a full estimates volume, scan every vote in it**,
+per *The cross-vote scan* in the strategy library. Required step, not enrichment.
+
+Digital money is not confined to the digital ministry. The ZAF FY2024 volume
+carries genuine digital lines in seven votes besides Vote 30 — justice
+modernisation R661.2m, correctional-services IT R358.0m, statistics business
+modernisation, public-service e-government, treasury digitisation and more. The
+two largest alone exceed R1bn against the sector vote's R3,968.6m total. **A total
+built from the sector vote is not a total.**
+
+Two categories need a deliberate hand-search of the volume's vote index rather
+than a keyword grep, because they are named for their function or their
+institution and never for their technology: **identity and data exchange**
+(population register, CRVS, biometric enrolment; interoperability layer,
+government service bus, single window) and **governance structures** (the data
+protection authority, the regulator, the CSIRT, the digital transformation unit —
+buried in *Administration* and *Policy* programmes, mostly staff costs, reading as
+overhead). Details in the strategy library.
+
+**End the scan with what was looked for and not found.** A data protection
+authority carrying no appropriation in a state that has enacted a data protection
+act is a finding, not a null result — the gap between legal and fiscal commitment
+is among the sharpest things this dataset can show. It reaches the place hub as a
+dated statement of what is not established, per `CLAUDE.md` → *Currency*.
+
+**Where no full volume is held**, say so in the close and on the place hub —
+*sector-vote coverage only; cross-vote digital spend not established as at
+&lt;date&gt;* — and add the volume to `reviews/acquisitions.md`. An understated total
+presented as a total is worse than a stated gap (`CLAUDE.md` → *Currency*).
+
 ### 5. Case 5 — reset records not built from a budget document
 
 Before finishing the country-year, find the held records this year's documents
@@ -170,6 +202,8 @@ Report terse (`CLAUDE.md` → *Reporting*):
 
 - documents processed, by archetype; archetypes added, if any
 - records built, by `budget_stage`
+- **cross-vote coverage**: which votes beyond the sector vote yielded lines, or
+  that the scan could not run for want of a full estimates volume
 - **execution rates found** — the headline output of this pass wherever both an
   appropriation and an outturn were held
 - reconciliation mismatches, and how each resolved

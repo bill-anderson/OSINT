@@ -107,6 +107,7 @@ that dominate unscoped African budget queries.
 | Sector regulator | Communications/ICT regulator (own budget, spectrum-funded) |
 | Own-source funds | Universal service fund; ICT development levy body |
 | Programme owners | National ID authority; e-government agency; statistics office |
+| **Other spending ministries** | **Justice, home affairs, revenue/customs, correctional services, health, education — they run large systems and never call it "digital" (Block 4b)** |
 | **Procurement portal** | **Public-procurement authority — annual procurement plans** |
 | Portal | The government's own open-budget or IFMIS portal |
 
@@ -158,6 +159,73 @@ spending on digital transformation, e-government, digital identity, national dat
 centre, connectivity and ICT systems in the national budget.* Scope: sector
 ministry, regulator, funds, national press. This finds the line item when the
 budget document is opaque.
+
+**Block 4b — the digital line in OTHER ministries.** *Allocations for case
+management and court modernisation, prison and border systems, tax and customs
+administration systems, integrated financial management, statistical
+modernisation, health and education information systems.* Scope: justice, home
+affairs, treasury/revenue, statistics, health, education, correctional services —
+**not** the ICT ministry.
+
+**Identity and data exchange are the two that matter most here, and they are
+almost never in the ICT vote.** Query them by their own names:
+
+- **Identity** — population register, civil registration and vital statistics,
+  CRVS, national identity card, biometric enrolment, ABIS, passport and travel
+  document systems, voter register, social-registry and beneficiary registries.
+  Usually home affairs, interior, or an autonomous identity authority; sometimes
+  the electoral commission or the social-protection ministry.
+- **Data exchange** — interoperability framework or layer, government service
+  bus, API gateway, data-sharing platform, integrated/shared services platform,
+  master data management, single window (trade), one-stop government portal.
+  Usually the finance ministry, the public-service ministry, or a
+  cross-government delivery unit rather than the ICT ministry, because it is
+  plumbing between departments and gets funded by whoever coordinates them.
+
+Both are DPI in the wiki's terms (`dpi.id`, `dpi.exchange`), and both are the kind
+of spend the sector-vote view misses entirely.
+
+*Added 2026-07-22 on Bill's catch.* Scanning all 42 votes of the ZAF FY2024
+estimates found real digital lines in **seven votes outside the sector vote** —
+justice modernisation R661.2m and correctional-services IT R358.0m alone exceeding
+R1bn against Vote 30's R3,968.6m. Track A's institution list is sector-scoped by
+construction, so without this block every run inherits a one-vote bias and every
+total understates. These ministries rarely call it "digital"; they call it
+modernisation, case management, or a named system.
+
+**Block 4c — governance structures and processes.** *(Bill's, 2026-07-22. The
+hardest of the lot and the most policy-relevant.)* *Budget of the data protection
+authority or information regulator; the ICT or communications regulator; the
+cybersecurity agency or national CSIRT; digital transformation, e-government
+coordination or delivery units; statistical governance; the cost of establishing a
+new authority, drafting legislation, standards work and public consultation.*
+
+Why this resists everything above:
+
+- **It is small money in overhead clothing.** Governance spend sits in
+  *Administration*, *Policy* or *Corporate services* programmes and is largely
+  compensation of employees — it looks like running costs, not digital
+  transformation, and no keyword in Blocks 1–4 will find it.
+- **For a single-mandate body the total budget *is* the digital line.** A data
+  protection authority does one thing; its whole appropriation is data-governance
+  spend. That collides with the envelope rule, which exists to stop us recording a
+  *ministry's* total — see the flag at the foot of this file.
+- **It is disproportionately donor-funded**, so much of it fails the origin gate
+  and lands as `non-state`. That is itself worth knowing: a data-protection
+  regime funded by external grant is a different governance fact from one funded
+  by the fisc, and the wiki can only say so if both are captured.
+- **Often it is not in the budget at all** — a regulator funded by licence fees or
+  levies (capture via Block 6), or an authority established in law and never
+  appropriated for.
+
+**That last case is the finding, not the failure.** An enacted data protection act
+with no line for its authority, or an authority appropriated a tenth of what the
+statute implies, is exactly the gap between legal commitment and fiscal commitment
+this wiki exists to show. **Record the absence, dated, on the place hub**
+(`CLAUDE.md` → *Currency*: a known vacuum is a finding). Search for it
+deliberately rather than noticing it by accident: if the country has a data
+protection law, look for the authority's line and say what you found — including
+nothing.
 
 **Block 5 — statements and clarifications.** *Minister's, permanent secretary's or
 head-of-state's statement or decree authorising expenditure on a named digital
@@ -214,6 +282,10 @@ found nothing.
 **Cap: 40 items per country-year run.** Take documents in this order and stop
 early once tiers 1–3 are exhausted:
 
+0. **The full estimates volume (all votes)** — promoted to first priority
+   2026-07-22. It is the only instrument for the cross-vote scan, and without it a
+   run can produce sector-vote coverage only. Fetch it even though its sector
+   chapter duplicates the standalone extract.
 1. Appropriation act / approved estimates for the run's FY
 2. Budget implementation / outturn report for the run's FY
 3. Auditor-general report covering the run's FY
@@ -311,6 +383,9 @@ matters — **which of the run's fiscal-year stages remain uncovered**. For this
 dataset the gaps are half the story, and a country-year run that establishes *no
 outturn is published* has done its job.
 
+State plainly **whether the full estimates volume was obtained**. If not, the run
+can only support sector-vote coverage, and every total downstream must say so.
+
 Then the status line.
 
 **Finish by running `BUDGET-EXTRACT.md`** *(Bill's ruling, 2026-07-22, after the
@@ -325,6 +400,11 @@ the one just swept.
 
 - *(Resolved 2026-07-22: `reference.md` §2, §6 and §7 now carry `new-budget/` —
   outside the ingest path, never drained, containment extended.)*
+- *(Resolved 2026-07-22: the **single-mandate carve-out** is now in
+  `finance-load-domestic-state.md` → *Scope*. A body whose entire statutory mandate
+  is data governance or digital transformation has its total appropriation recorded
+  at `scope_confidence: whole`. The test is the mandate, not the name — a regulator
+  that also does broadcasting content and posts stays an envelope.)*
 - **Sub-national is deferred, not dropped.** When it's turned on, the natural shape
   is a separate invocation with its own cap, not a widening of this one — otherwise
   one Nigerian run is 37 governments.

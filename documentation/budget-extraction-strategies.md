@@ -302,6 +302,31 @@ not context: a name like "Business Modernisation" gives no purpose. Confirm
 against the programme's narrative before recording, and mark
 `scope_confidence: unclear` where the volume never says what the money buys.
 
+**Two categories the keyword scan will miss by construction**, both worth a
+deliberate hand-search of the volume's contents page rather than a grep:
+
+- **Identity and data exchange.** Named for their function, never for their
+  technology — *population register*, *civil registration*, *national identity
+  card*, *biometric enrolment*, *passport systems*; *interoperability framework*,
+  *government service bus*, *shared services platform*, *single window*, *master
+  data management*. They sit in home affairs, interior, finance or a
+  cross-government delivery unit, because data exchange is plumbing between
+  departments and gets funded by whoever coordinates them.
+- **Governance structures and processes.** The regulator, the data protection
+  authority, the CSIRT, the digital transformation unit. These hide in
+  *Administration*, *Policy* and *Corporate services* programmes, are mostly
+  compensation of employees, and read as overhead. Find them by looking up the
+  **body** in the volume's vote index, not by searching for a digital term.
+  Where the body is a single-mandate authority, its whole appropriation is the
+  line — see the envelope carve-out flagged in
+  `sweep/domestic-finance-README.md` → *Notes for Bill*.
+
+**And record what the volume does *not* contain.** A data protection authority
+with no appropriation, in a state that has passed a data protection act, is a
+finding — arguably the sharpest this dataset produces. The scan should end with a
+short list of governance bodies looked for and not found, so the absence reaches
+the place hub as a dated statement rather than being lost as a null result.
+
 **This changes what the sweep must fetch.** A country-year without its full
 estimates volume can only produce sector-vote coverage, and any total built from
 it should say so on the page — an understated total presented as a total is worse

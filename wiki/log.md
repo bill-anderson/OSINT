@@ -6,6 +6,53 @@ Reporting): a few lines each, full detail in `log-archive.md` or git.
 
 ---
 
+## 2026-07-22 — cross-vote scan made required; identity/data-exchange and governance blocks; envelope carve-out
+
+**Bill's catch: the sweep only ever looked at the sector vote.** Track A's institution list is
+sector-scoped by construction, so 8 of the 9 ZAF documents were Vote 30 or all-vote and every run
+inherited a one-vote bias. Checked against the ZAF FY2024 full ENE (42 votes): **genuine digital lines
+in 7 votes besides Vote 30** — justice modernisation R661.2m, correctional-services IT R358.0m,
+statistics business modernisation R60.2m, public-service e-government R25.3m, science ICT R22.5m,
+trade digital-market inquiry R20.1m, treasury digitisation. The two largest exceed R1bn against Vote
+30's R3,968.6m, and the scan missed home affairs identity spend, so the true understatement is worse.
+**A total built from the sector vote is not a total.**
+
+**Decisions:**
+
+- **The cross-vote scan is a required extraction step** (step 4a of `BUDGET-EXTRACT.md`), not
+  enrichment. Where no full estimates volume is held, the run states *sector-vote coverage only* on
+  the place hub and sends the volume to acquisitions. **The full volume is promoted to priority 0 in
+  the sweep**, above the appropriation act — and my earlier "not worth extracting: redundant" note on
+  it is struck. That judgement was wrong in an instructive way: I compared its sector chapter to the
+  standalone and never asked what the other 41 chapters held. *Revert: the cross-vote section of
+  `budget-extraction-strategies.md`, step 4a, sweep priority 0.*
+- **Sweep Blocks 4b and 4c added** (Bill). 4b names **identity** (population register, CRVS,
+  biometric enrolment, ABIS, passports) and **data exchange** (interoperability layer, government
+  service bus, single window, master data management) explicitly — both are DPI, both sit outside the
+  ICT vote, and data exchange is funded by whoever coordinates departments rather than by the sector
+  ministry. 4c covers **governance structures and processes**: regulators, data protection
+  authorities, CSIRTs, transformation units. Hardest category — small money inside *Administration*
+  and *Policy* programmes, mostly compensation of employees, disproportionately donor-funded (so much
+  of it exits via the origin gate as `non-state`, which is itself a governance fact worth stating),
+  and often not appropriated at all.
+- **Absence is a required output, not a null result.** An enacted data protection act with no line
+  for its authority is the gap between legal and fiscal commitment — the sharpest thing this dataset
+  produces. Both the sweep and the extraction pass must close with what was looked for and not found,
+  dated onto the place hub (`CLAUDE.md` → *Currency*).
+- **Envelope rule gains a single-mandate carve-out** (Bill's problem, CC's wording, now in the
+  driver's *Scope*). Where a body's **entire statutory mandate** is data governance or digital
+  transformation, its total appropriation is a record at `scope_confidence: whole`. The envelope rule
+  exists because a *ministry* does many things; a single-purpose authority does one, and excluding it
+  would delete the one number saying what a state spends on governing data. **Test is the mandate,
+  not the name** — a regulator that also handles broadcasting content and posts stays an envelope.
+  *Revert: the carve-out block in the driver's Scope section.*
+
+**Trap recorded:** `ict` is a substring of `district`, `conflict`, `restrict` — 6 of 13 first-scan hits
+were district-health and conviction-rate rows. Cross-vote scanning needs word boundaries and should
+prefer longer terms over bare `ict`.
+
+contradictions - 0 ; acquisitions - 0 ; awaiting ingest - 0 ; decisions logged - 4
+
 ## 2026-07-22 — update-wiki: converged in 2 iterations; SA Connect R3bn contradiction resolved
 
 Passes: **ingest ×2, finance compile ×2, reconcile ×1, full lint ×1**; acquire skipped (0 throughout).

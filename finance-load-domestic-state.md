@@ -179,6 +179,24 @@ Two rules hold regardless:
   capture is the programme, sub-programme or project line whose stated purpose is
   a digital activity — not the ICT ministry's envelope.
 
+**One carve-out — the single-mandate body.** *(Curator ruling, 2026-07-22.)*
+**Where a body's entire statutory mandate falls within data governance or digital
+transformation, its total appropriation is a record at `scope_confidence: whole`,
+not an envelope.** A data protection authority, an information regulator, a
+national CSIRT or a digital transformation unit does one thing; its whole budget
+*is* the digital line, and the number is not recoverable from any sub-line.
+
+The envelope rule bars crediting a **multi-purpose vote** to digital because a
+ministry does many things. It does not bar recording a **single-purpose body**,
+and applying it there would delete the one figure that says what a state actually
+spends on governing data — the least visible and most policy-relevant spend in
+this dataset.
+
+The test is the **mandate, not the name**: a communications regulator that also
+licenses broadcasting content and runs postal regulation is multi-purpose and its
+total stays an envelope; record its digital programmes and mark the rest
+`partial`. State which test was applied in `scope_basis`.
+
 Every record therefore carries two fields:
 
 - **`scope_confidence`** — `whole` (the line's stated purpose is entirely a
