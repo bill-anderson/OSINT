@@ -6,6 +6,19 @@ Reporting): a few lines each, full detail in `log-archive.md` or git.
 
 ---
 
+## 2026-07-22 — update-wiki iteration 2, reconcile: Cameroon video-surveillance Phase 1 resolved; `open/` drained
+
+1 researched, 1 resolved, 0 re-routed. The "44.9 vs 45.9 billion FCFA" conflict dissolved into three objects:
+FCFA 45.9bn = **2017 authorisation envelope** (decree N°2017/297, 19 June 2017); US$41.78m/≈22.95bn = the
+**Phase-I loan signed 2018-02-22** (ratified decree N°2018/352, 100% disbursed by 2020-12-31); FCFA 44.9bn =
+a **separate June-2018 credit line** (held `boc-cmr-002`, no drawdowns per AidData). 2 primaries ingested
+(decree 2018/352 verbatim; AidData 58535). New record `bank-of-china-cmr-2018` created; retrospective-based
+`bank-of-china-cmr-2017` (admitted this run) deleted as superseded; 3 sibling tranche records rewired.
+**Corpus note:** retrospectives (Le Jour 2025, Investir au Cameroun 2025) equate Phase-1 financing with the
+45.9bn envelope — treat that figure as authorisation, never commitment. Revert: `git checkout <sha> -- raw/ reviews/`.
+
+contradictions - 0 ; acquisitions - 0 ; awaiting ingest - 0 ; decisions logged - 1
+
 ## 2026-07-22 — update-wiki iteration 1, ingest: back-swing batch admitted (110 → 101 records)
 
 Drained the 110 back-swing deal records from `new/`. **101 admitted to `raw/`** (now 1,210 deal records);

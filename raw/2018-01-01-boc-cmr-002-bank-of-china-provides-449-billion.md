@@ -55,6 +55,8 @@ https://global-factiva-com.proxy.wm.edu/redir/default.aspx?P=sa&an=APASENF020180
 
 Urban security/video surveillance system. Includes CCTV monitoring infrastructure; governance/rights concerns documented. | AidData staff note: nan
 
+**Resolved 2026-07-22 (reconcile):** this record is the FCFA 44.9bn **credit line** signed June 2018 — an instrument *in addition to* the Phase-I commercial loan of US$41.78m/≈FCFA 22.95bn signed 2018-02-22 (now held as `bank-of-china-cmr-2018`, ratified by decree N°2018/352 — see [[2018-06-05-decret-2018-352-ratification-pret-bank-of-china-videosurveillance]]). The FCFA 45.9bn figure that circulates in retrospectives is the **19 June 2017 authorisation envelope** (decree N°2017/297), not this credit line and not the signed loan. AidData identifies no drawdowns under this credit line (data to March 2021).
+
 Crosswalk confidence: **med**.
 
 Enrichment: not attempted.

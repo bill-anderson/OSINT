@@ -47,4 +47,4 @@ https://lejour.cm/un-emprunt-de-plus-de-39-milliards-fcfa-pour-la-videosurveilla
 
 ## Notes
 
-Third of four distinct loan tranches for the same project reported in one source (siblings: bank-of-china-cmr-2017, banco-santander-cmr-2024, china-citic-bank-cmr-2025). `finance_origin: non-state` — foreign commercial/export-credit lender to the Cameroon state.
+Third of four distinct loan tranches for the same project reported in one source (siblings: bank-of-china-cmr-2018, banco-santander-cmr-2024, china-citic-bank-cmr-2025). `finance_origin: non-state` — foreign commercial/export-credit lender to the Cameroon state.

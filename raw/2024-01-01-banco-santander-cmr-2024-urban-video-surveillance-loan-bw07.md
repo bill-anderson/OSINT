@@ -47,4 +47,4 @@ https://lejour.cm/un-emprunt-de-plus-de-39-milliards-fcfa-pour-la-videosurveilla
 
 ## Notes
 
-Second of four distinct loan tranches for the same project reported in one source (siblings: bank-of-china-cmr-2017, china-citic-bank-cmr-2024, china-citic-bank-cmr-2025). China Construction Bank (initial Phase II lender) withdrew in 2021 and financed no loan — not tagged. `finance_origin: non-state` — foreign commercial lender to the Cameroon state.
+Second of four distinct loan tranches for the same project reported in one source (siblings: bank-of-china-cmr-2018, china-citic-bank-cmr-2024, china-citic-bank-cmr-2025). China Construction Bank (initial Phase II lender) withdrew in 2021 and financed no loan — not tagged. `finance_origin: non-state` — foreign commercial lender to the Cameroon state.
