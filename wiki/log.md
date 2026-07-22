@@ -6,6 +6,22 @@ Reporting): a few lines each, full detail in `log-archive.md` or git.
 
 ---
 
+## 2026-07-22 — domestic finance sweep: South Africa 2024 → FY2024/25 (pilot run)
+
+**7 budget documents + companions staged to `new-budget/ZAF/`** (manifest rows appended): ENE 2024 Vote 30
+chapter + full volume, AENE 2024 Vote 30, Appropriation Bill B5-2024, Adjustments Bill B14-2024, year-end
+s32 statement (as at 2025-03-31), May-2025 Budget statistical annexure (FY2024/25 revised per vote).
+**1 prose source to `new/`** (Malatsi budget-vote speech, 2024-07-15 — FY2024/25 vote R3.969bn; **SA Connect
+Ph1+2 R1.858bn**, the case-5 test for the held `zaf-2025-26-dcdt-sa-connect-phase-2` record). **2 to
+acquisitions [blocked]**: AGSA PFMA GR 2024-25 (bot-guard), DCDT Annual Report 2024/25 (Phoca gate) — both
+browser-fetchable. Stage coverage: proposed/revised/actual-aggregate held; per-vote *released* figures are
+not published (a vacuum to state at extraction); audited layer waits on the two acquisitions.
+Track B (direct URL enumeration) beat search throughout; Treasury URL patterns, the 200-soft-404 trap and
+the ENE-R-million/AENE-R-thousand scale flip written to the extraction notes (ZAF stub → verified).
+Run state: `sweep/domestic/ZAF-2024-25-run-2026-07-22.md`. Revert: `git checkout <sha> -- new-budget/ new/ sweep/ documentation/ reviews/`.
+
+contradictions - 0 ; acquisitions - 2 ; awaiting ingest - 1 ; decisions logged - 0
+
 ## 2026-07-22 — domestic finance sweep procedure; fiscal-year resolution rule
 
 New `sweep/domestic-finance-README.md` — acquisition sweep, **one country × one fiscal year per run**
@@ -34,6 +50,13 @@ sub-national deferred (47 counties or 36 states would swamp the cap). Cap 40 ite
   On the back-swing's own evidence: half its records carry no FY and `stage: unclear` is modal,
   because ministers and despachos don't name fiscal years. A hard filter would discard exactly the
   material that makes opaque budgets legible. *Revert: the sweep's scope section.*
+
+**CC review nits, both closed:** `doc_type` consolidated to one canonical list in the driver (the
+sweep's staging enum had begun to drift; staging describes more kinds of thing, so the list is the
+union and the sweep now points at it) — gaining `executive-instrument` for despachos/decrees, the
+back-swing's richest seam. And `source_tier` gains **`project-document`** for the WB-PAD counterpart
+case: a financier's document evidencing domestic money, ranked below the state's own budget document
+and above reporting, so a later appropriation act still fires case 5's reset.
 
 Back-swing findings folded into the sweep as search strategy, not just record-building: query the
 phrases not the headlines; treat "government invests" as suspect; stop spending cap on ministry

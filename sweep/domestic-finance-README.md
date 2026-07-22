@@ -280,10 +280,9 @@ lens: []
 retrieved: <YYYY-MM-DD>
 sweep_batch: domestic-finance-<ISO3>-<fy-label>-<YYYY-MM-DD>
 fiscal_years_covered: ["2024/25", "2025/26"]
-doc_type: <appropriation-act | budget-estimates | mtef | implementation-report |
-           audited-accounts | ifmis-extract | treasury-release | board-budget |
-           procurement-plan | statement | reporting>
-source_tier: <budget-document | official-statement | reporting>
+doc_type: <one value from the canonical list in finance-load-domestic-state.md
+           → Source citation. Do not extend it here — one vocabulary, one home.>
+source_tier: <budget-document | official-statement | project-document | reporting>
 artefact: <sibling filename, where this is a companion page in new-budget/>
 body_completeness: <full | excerpt>
 ---

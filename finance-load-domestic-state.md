@@ -50,8 +50,18 @@ Leads, not sources, per `CLAUDE.md` → *The material*: AI syntheses, news
 aggregators and digests, third-party portal mirrors.
 
 **`source_tier`** records which we built from — `budget-document` |
-`official-statement` | `reporting` — because it decides what happens when a better
-source arrives.
+`official-statement` | `project-document` | `reporting` — because it decides what
+happens when a better source arrives.
+
+**`project-document`** is the fourth because the back-swing found the case and
+nothing held it *(added 2026-07-22 on CC's flag)*: a **financier's** appraisal
+document evidencing **domestic** money. A World Bank PAD's counterpart-funding
+row states the government's own share of a co-financed project — domestic-state
+by the origin gate's split, but sourced from a document the state did not write.
+It ranks **below** the state's own budget document and **above** reporting for
+case 5, so an appropriation act surfacing later still resets the record. Where it
+hides, per the extraction notes: the PROJECT FINANCING DATA block, with the
+mismatch between the component-cost and IDA-resources tables as the tell.
 
 ## The five cases
 
@@ -396,9 +406,20 @@ Filename per the spec: `{published}-{deal_id}-{short-title-slug}.md` in `new/`.
 Budget documents run to hundreds of pages, so a bare URL is not re-findable.
 Every record carries **`doc_type`** and **`doc_locator`**:
 
-- `doc_type` — `appropriation-act` | `budget-estimates` | `mtef` |
-  `implementation-report` | `audited-accounts` | `ifmis-extract` |
-  `treasury-release` | `board-budget`.
+- `doc_type` — **the canonical list, one vocabulary for both the record and the
+  sweep's staging frontmatter** *(consolidated 2026-07-22 on CC's flag: the two
+  had begun to drift)*. Staging describes more kinds of thing than a record does,
+  so the list is the union, and the sweep points here rather than keeping its own:
+
+  `appropriation-act` | `budget-estimates` | `mtef` | `implementation-report` |
+  `audited-accounts` | `ifmis-extract` | `treasury-release` | `board-budget` |
+  `procurement-plan` | `executive-instrument` | `project-document` | `statement` |
+  `reporting`
+
+  `executive-instrument` covers a decree, despacho or supplementary-credit order —
+  the form in which appropriations actually surface in several states, and the
+  back-swing's single richest seam. `project-document` is a financier's appraisal
+  or financing document (a World Bank PAD and the like).
 - `doc_locator` — page, table and line reference as printed
   (`p. 412, head 0522, line 23050113`).
 

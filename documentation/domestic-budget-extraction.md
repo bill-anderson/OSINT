@@ -48,33 +48,36 @@ carried them, where they hid, what you looked for and didn't find.
 ### World Bank PADs — the counterpart sliver (back-swing, 2026-07-22)
 - **Where it hides:** the PROJECT FINANCING DATA block, "Counterpart Funding / National Government" rows plus a footnote naming which country carries which share; the component-cost table includes it while the IDA Resources table excludes it — a small mismatch between the two tables (60.00 vs 60.50) is the tell.
 
-### South Africa — pre-run stub (sweep, FY2024/25) — *unverified, replace after the run*
+### South Africa — Treasury document chain, FY2024/25 (sweep, 2026-07-22)
 
-Written ahead of the first sweep run so it starts warm. **Everything here is to be
-confirmed against the documents, not trusted** — vote numbering in particular
-changes between administrations and must be read off the year's own estimates.
-
-- **Fiscal year:** April–March. "2024" resolves to **FY2024/25, 2024-04-01 to
-  2025-03-31**. Label form in the documents: `2024/25`.
-- **Expected document chain** — the reason this country is a good pilot: main
-  estimates published on budget day (February), an adjusted-estimates volume in
-  the second half of the year (the `revised` / `supplementary` case the driver
-  needs testing against), an outturn/annual-report layer, and an audit layer. If
-  this chain holds, one country-year exercises four of the six `budget_stage`
-  values.
-- **To establish on the run:** which vote carries communications and digital
-  technologies for this year; whether the estimates are published per-vote in a
-  machine-readable form alongside the PDF; whether the open-budget portal exposes
-  programme-level data directly; and how the state IT agency's own budget is
-  presented, since an agency funded by charging departments is a transfer question
-  (`is_transfer`) before it is a spending question.
-- **Known from the corpus already:** a Home Affairs ministry-envelope near-miss
-  (envelopes are not records); and one held record,
-  `zaf-2025-26-dcdt-sa-connect-phase-2` at `stage: unclear` with an FY attribution
-  ambiguous against budget-speech timing — **a direct test of whether documents
-  resolve what reporting could not.** If the FY2024/25 and FY2025/26 estimates
-  settle that record's year and stage, case 5 (*reset*) fires and the procedure is
-  validated end to end.
+- **Fiscal year:** April–March; "2024" = FY2024/25 (2024-04-01 → 2025-03-31); document label `2024/25`.
+- **Document chain confirmed and mostly fetchable by direct URL** (Track B beats search here):
+  ENE per-vote chapters at `treasury.gov.za/documents/national budget/{yyyy}/ene/Vote NN Name.pdf`
+  (Budget Day, late Feb); AENE per-vote at `/documents/mtbps/{yyyy}/aene/Vote NN Name.pdf` (MTBPS day,
+  late Oct); bills at `/legislation/bills/{yyyy}/[BN-yyyy] Name.pdf` — **exact filename matters**
+  (B14's real name is `[B14-2024] (Adjustments Appropriation).pdf`; the obvious guess soft-404s);
+  monthly s32 statements at `/comm_media/press/monthly/{yymm}/press.pdf` where **{yymm} is the
+  publication month, one–two months after the reporting month** (2505 = as at 31 March 2025).
+- **Soft-404 trap:** treasury.gov.za serves HTTP-200 HTML for wrong paths — check content-type,
+  never trust the status code. Home Affairs' ENE chapter name resisted guessing; use the FullENE
+  volume instead of probing.
+- **The digital vote is Vote 30 (DCDT)** in 2024: 6 programmes; the recordable lines are programme-level
+  (SA Connect under *ICT Infrastructure Development and Support*, R1,922.7m FY2024/25; entity transfers
+  under *ICT Enterprise and Public Entity Oversight*, R1,596.9m). Cross-vote digital spend (Home Affairs
+  digital ID, SITA via departments, SARS modernisation) needs the FullENE volume.
+- **Scale flips between documents in the same chain:** ENE chapter summary in **R million**, AENE in
+  **R thousand** — the 1,000× trap sits between the appropriation and its revision.
+- **Stage coverage available:** proposed (B5 bill + ENE), revised (AENE + B14: FY2024/25 total unchanged
+  at R3,968,611k, virement R2.789m CP→transfers), actual-aggregate (year-end s32; per-vote actuals NOT
+  in the 3-page press statement), revised-per-vote (May-2025 Budget statistical annexure, Table 4).
+  **Audited/outturn per vote sits in the DCDT Annual Report (Phoca-gated) and AGSA PFMA GR
+  (bot-guarded) — both in acquisitions.** AGSA's GR has a dedicated government-ICT-function section.
+- **Budget-vote speeches (July, post-GNU-formation in 2024) state programme allocations** the press
+  never carries: Malatsi 2024-07-15 gives SA Connect Ph1+2 = **R1.858bn FY2024/25** — the figure that
+  should case-5-test the held `zaf-2025-26-dcdt-sa-connect-phase-2` record (>R3bn, stage unclear,
+  FY ambiguous): the two may be different FYs of the same programme, to settle at extraction.
+- **Didn't work:** AGSA direct PDF (bot-guard HTML even with UA + versioned URL); DCDT Phoca Download
+  raw link (no href on page); guessing ENE chapter names other than Vote 30.
 
 ### Template for an entry
 

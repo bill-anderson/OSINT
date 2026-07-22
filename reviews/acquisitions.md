@@ -18,6 +18,9 @@ wall, JS shell, fetch-size limit) or **[untried]** (never yet fetched).
 
 ---
 
+- **[blocked]** AGSA Consolidated General Report on national and provincial audit outcomes 2024-25 (PFMA GR, tabled 2026-03-26) — `https://www.agsa.co.za/Portals/0/Reports/PFMA/2024-25/PFMA%20GR%202024-25%20Interactive%20W_compressed_compressed.pdf?ver=3OlKZPN3_6KOKRu9Ru5FzA%3D%3D` — bot-guard serves HTML shell to curl even with the versioned URL and UA; a browser fetch (claude-in-chrome) should get it. Wanted for `new-budget/ZAF/` (ZAF FY2024/25 audit stage; the AG's ICT-function findings). *(domestic finance sweep ZAF 2024, 2026-07-22)*
+- **[blocked]** DCDT Annual Report 2024/25 (8.87 MB PDF, published 2025-10-01) — landing page `https://www.dcdt.gov.za/documents/annual-reports/file/363-annual-report-2024-2025.html` — Joomla Phoca Download exposes no direct raw-file href on the page; needs the component's download endpoint or a browser click. Wanted for `new-budget/ZAF/` (ZAF FY2024/25 outturn + audited AFS for Vote 30). *(domestic finance sweep ZAF 2024, 2026-07-22)*
+
 *(Drained 2026-07-21 by the acquisition pass, then re-drained the same day inside update-wiki
 iteration 2: of 3 items added by that run's ingest, **1 acquired** (IDS surveillance-spend release —
 which corrected the figure the ingest had just compiled) and **2 dropped**: the Unwanted Witness report
