@@ -88,7 +88,7 @@ are arriving, though GSMA flags weak connectivity (18.8% unique mobile-internet 
 
 Instrument mix: Grant 3, Commercial loan 2, Loan 1, Guarantee 1, IBRD loan — not concessional 1, Series B 1.
 
-**Domestic state** — 2 budget lines held (national; own-resource spend, reporting-sourced, first capture 2026-07-22). FY2025: US$1.3m at unstated stage; FY unstated: US$3m at unstated stage. Amounts in the announcing state's own currency; stages as stated, never merged; no cross-year USD summation.
+**Domestic state** — 2 budget lines held (national; first capture 2026-07-22). FY2025: US$1.3m at unstated stage; FY unstated: US$3m at unstated stage. Amounts in the announcing state's own currency; stages as stated, never merged; no cross-year USD summation.
 
 Material deals: [[2022-06-02-wb-cog-001-congo-digital-acceleration-project]].
 

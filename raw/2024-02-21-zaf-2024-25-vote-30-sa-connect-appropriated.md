@@ -60,6 +60,7 @@ ENE 2024, Table 30.14: the Broadband subprogramme carries R1,894.6 million in 20
 
 ## Notes
 
+- **Reconciled 2026-07-22:** this R1,894.6m is the **2024/25 slice (announced as R1.9bn) of the R3 billion two-year SA Connect Phase 2 allocation announced at Budget 2023** (2023/24 R1.1bn, cut to R935m; Cabinet approved the revised Phase 2 model January 2022). Entity split per parliamentary answer NW3503: BBI R1.36bn core network, Sentech R566m access network, SITA R576m CPE/government facilities, balance to Phase-1 maintenance. The ">R3bn" figure in Budget-2026 reporting is this cumulative allocation cited retrospectively — the former FY2025/26 record built on that reading was retired.
 - **Case-5 reset (2026-07-22)** of `zaf-2024-25-vote-30-sa-connect-proposed` (built 2026-07-22 from the minister's budget-vote speech): rebuilt from the budget documents; stem kept; stage proposed → appropriated (the tabled estimates were enacted unchanged — B5-2024 schedule and AENE both carry the same figures). The superseded statement is the 2024-07-15 dev-history line below.
 - **Speech figure vs subprogramme figure — not filed as a contradiction:** the minister's "R1.858 billion to SA Connect Phase 1 and Phase 2 project" is a project-level figure inside this R1,894.6m subprogramme (which also carries other broadband items); different objects, both stand.
 - Audited-stage sibling: `zaf-2024-25-vote-30-sa-connect-audited` — final R1,740.6m after year-end virements, actual R734.8m, **42.2% execution**.

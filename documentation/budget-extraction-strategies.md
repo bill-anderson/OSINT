@@ -257,6 +257,56 @@ country-year**, and the ENE varies scale between tables in a single document.
 Read the stub of every table. Store normalised to units. Check
 capital + recurrent = total as the arithmetic proof that the scale was read right.
 
+## The cross-vote scan — required, not optional
+
+**Digital money is not in the digital ministry's vote.** *(Bill's catch,
+2026-07-22, confirmed against the ZAF FY2024 full ENE.)* Sector-vote-only capture
+systematically understates domestic digital spend, and by a lot: scanning all 42
+ZAF votes turned up genuine digital sub-programme lines in **seven votes outside
+Vote 30**.
+
+| Vote | Line | 2024/25 |
+|---|---|---|
+| 25 Justice and Constitutional Development | Justice Modernisation | R661.2m |
+| 22 Correctional Services | Information Technology | R358.0m |
+| 14 Statistics South Africa | Business Modernisation | R60.2m |
+| 11 Public Service and Administration | e-Government Services and Information | R25.3m |
+| 35 Science and Innovation | Various institutions: ICT | R22.5m |
+| 39 Trade, Industry and Competition | Digital market inquiry | R20.1m |
+| 8 National Treasury | Digitisation: Distribution capability; integrated financial management system | — |
+
+Justice Modernisation alone exceeds four of Vote 30's six programmes. The two
+largest come to over R1bn against Vote 30's R3,968.6m total — and that scan missed
+home affairs' identity spend, so the true understatement is worse.
+
+**So the cross-vote instrument is the full estimates volume** (archetype A × N),
+and it is not the redundant document an earlier draft of this file called it. Run
+this scan on **every** country-year that holds one:
+
+1. Index the vote chapters — in the ZAF volume, a line matching `^\s*Vote\s+\d+\s*$`
+   with the vote name on the next non-blank line. 42 found cleanly.
+2. Walk every line, attributing it to the vote chapter it falls in.
+3. Keep lines that carry a digital term **and** look like a budget row (a label
+   plus several money-shaped cells) — narrative mentions are not lines.
+4. Hand the survivors to the driver's scope test like any other candidate. Most
+   will be `whole`; some, like a modernisation programme mixing systems with
+   buildings, will be `partial`.
+
+**Trap — `ict` is a substring of `district`, `conflict` and `restrict`.** Six of
+thirteen hits in the first scan were district-health and conviction-rate rows.
+Match on word boundaries, and prefer the longer terms (`digitis`, `e-gov`,
+`information technology`, `broadband`, `modernisation`) over bare `ict`.
+
+**Trap — the sector vote is still the anchor.** The cross-vote scan finds lines,
+not context: a name like "Business Modernisation" gives no purpose. Confirm
+against the programme's narrative before recording, and mark
+`scope_confidence: unclear` where the volume never says what the money buys.
+
+**This changes what the sweep must fetch.** A country-year without its full
+estimates volume can only produce sector-vote coverage, and any total built from
+it should say so on the page — an understated total presented as a total is worse
+than a stated gap.
+
 ## Not worth extracting
 
 Recorded so later runs don't repeat the effort:
@@ -264,8 +314,8 @@ Recorded so later runs don't repeat the effort:
 - **Treasury cash-flow / s32-style statements** — aggregate revenue and
   expenditure only, no vote or programme detail. Support no record. The sweep
   should stop fetching them.
-- **The full ENE volume, when only the sector vote is wanted** — its per-vote
-  chapter is byte-identical to the standalone extract. Fetch it **only** for the
-  cross-vote scope question: digital money also sits in home affairs (identity),
-  treasury (financial management systems) and elsewhere, and the full volume is
-  the only way to find it.
+- ~~The full estimates volume~~ — **struck 2026-07-22.** An earlier draft called it
+  redundant because its sector-vote chapter duplicates the standalone extract.
+  That was wrong: the duplication is beside the point, and the other 41 chapters
+  are where a quarter or more of the spend turns out to live. It is a **required**
+  fetch and a required scan — see *The cross-vote scan* above.

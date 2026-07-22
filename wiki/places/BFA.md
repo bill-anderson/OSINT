@@ -251,7 +251,7 @@ supervision centre for critical digital infrastructure.
 
 Instrument mix: Concessional loan 5, Grant 2, Commercial loan 1, Public-private partnership 1, Competitive research grant 1. **3 records here still carry the capture's unverified `Concessional loan` label**, so the mix is indicative rather than established: the World Bank portal does not separate an IDA credit from an IDA grant.
 
-**Domestic state** — 3 budget lines held (national; own-resource spend, reporting-sourced, first capture 2026-07-22). FY unstated: FCFA 3bn actual; FY unstated: FCFA 53.5bn at unstated stage (2 lines — of which the FCFA 37.5bn zones-blanches state share is a stated FASU + PACTDIGITAL blend, PACTDIGITAL being IDA-financed, so this figure is not purely own-resource; see the record). Amounts in the announcing state's own currency; stages as stated, never merged; no cross-year USD summation.
+**Domestic state** — 3 budget lines held (national; first capture 2026-07-22). FY unstated: FCFA 3bn actual; FY unstated: FCFA 53.5bn at unstated stage (2 lines — of which the FCFA 37.5bn zones-blanches state share is a stated FASU + PACTDIGITAL blend, PACTDIGITAL being IDA-financed, so this figure is not purely own-resource; see the record). Amounts in the announcing state's own currency; stages as stated, never merged; no cross-year USD summation.
 
 Material deals: [[2024-01-23-wb-bfa-001-burkina-faso-digital-acceleration-project]], [[2019-01-01-boc-bfa-001-bank-of-china-provides-7735-million]].
 

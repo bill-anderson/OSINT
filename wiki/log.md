@@ -6,6 +6,23 @@ Reporting): a few lines each, full detail in `log-archive.md` or git.
 
 ---
 
+## 2026-07-22 — update-wiki: converged in 2 iterations; SA Connect R3bn contradiction resolved
+
+Passes: **ingest ×2, finance compile ×2, reconcile ×1, full lint ×1**; acquire skipped (0 throughout).
+**Ingest 1 (15):** 14 budget-extract records admitted (`raw/` domestic records now 33) + AGSA ICT-findings
+source (ZAF hub bullet, `sita` append). **Compile:** ZAF domestic-state now stage-split with execution
+rates on the hub (SA Connect 39% against appropriation; vote-wide picture on the page).
+**Reconcile:** the SA Connect ">R3bn" resolved — it is the **Budget-2023 two-year Phase 2 allocation**
+(2023/24 R1.1bn→R935m; 2024/25 R1.9bn = our extracted R1,894.6m line; entity split BBI/Sentech/SITA per
+parliamentary answer NW3503), cited retrospectively at Budget 2026; **never an FY2025/26 line** (NW5126:
+Phase 2 suspended FY2025/26 awaiting rollover, R710m MTEF). Held FY2025/26 record **retired**; context
+written onto the appropriated record; residual tension held dated (Budget Review declares Phase 2
+"complete" in the year officials describe it stalled). **Ingest 2 (3):** NW3503, NW5126, ITWeb Budget-2026
+admitted with entity appends. **Lint:** baseline held; +2 dead-link targets are today's deliberate
+below-bar tags (agsa, sentech); no defects. Revert: `git checkout <sha> -- raw/ new/ wiki/ reviews/`.
+
+contradictions - 0 ; acquisitions - 0 ; awaiting ingest - 0 ; decisions logged - 2
+
 ## 2026-07-22 — budget extract: ZAF/2024 drained — 14 records, the 42.2% finding, 1 contradiction
 
 First live run. **8 of 9 documents extracted and archived** (archetypes: A×1, B×2, C×1, D×1, E×1, F×1,

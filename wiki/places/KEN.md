@@ -369,7 +369,7 @@ _Older dated developments (through early 2026) are preserved in their linked sou
 
 Instrument mix: Grant 24, Equity 17, Commercial loan 15, Concessional loan 8, TA 2, Guarantee 1, Private investment 1, Equity acquisition 1, Senior loan 1. **1 record here still carries the capture's unverified `Concessional loan` label**, so the mix is indicative rather than established: the World Bank portal does not separate an IDA credit from an IDA grant.
 
-**Domestic state** — 2 budget lines held (national; own-resource spend, reporting-sourced, first capture 2026-07-22). FY2024/25: KSh 6.88bn at unstated stage. Reported apart from the headline: KSh 7.03bn (2024/25, partial-scope) — partial/unclear scope, not folded into clean totals. Amounts in the announcing state's own currency; stages as stated, never merged; no cross-year USD summation.
+**Domestic state** — 2 budget lines held (national; first capture 2026-07-22). FY2024/25: KSh 6.88bn at unstated stage. Reported apart from the headline: KSh 7.03bn (2024/25, partial-scope, unclear) — partial/unclear scope, not folded into clean totals. Amounts in the announcing state's own currency; stages as stated, never merged; no cross-year USD summation.
 
 Material deals: [[2023-03-31-wb-ken-001-kenya-digital-economy-acceleration-project]], [[2019-01-01-eximbank-cn-ken-003-china-eximbank-provides-rmb-1225-billion]], [[2021-01-01-adc-ken-nairobi-2021-africa-data-centres-kenya-nairobi-nbo1]], [[2025-01-01-eximbank-cn-ken-004-nairobi-intelligent-transport-system-its-project]], [[2023-01-01-edcf-ken-konza-digital-media-city-2023-kenya-konza-digital-media-city-development]], [[2016-01-01-eximbank-cn-ken-001-china-eximbank-provides-supplemental-rmb-650]].
 
