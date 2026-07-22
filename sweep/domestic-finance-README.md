@@ -314,9 +314,8 @@ Then the status line.
 
 ## Notes for Bill
 
-- **`new-budget/` needs one line in `reference.md` §2 (folder structure) and §7
-  (containment)** so lint and ingest know it exists and know not to drain it. Not
-  written yet — `reference.md` is read by the passes and I've kept off live files.
+- *(Resolved 2026-07-22: `reference.md` §2, §6 and §7 now carry `new-budget/` —
+  outside the ingest path, never drained, containment extended.)*
 - **Sub-national is deferred, not dropped.** When it's turned on, the natural shape
   is a separate invocation with its own cap, not a widening of this one — otherwise
   one Nigerian run is 37 governments.
