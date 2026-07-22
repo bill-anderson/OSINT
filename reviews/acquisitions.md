@@ -18,8 +18,9 @@ wall, JS shell, fetch-size limit) or **[untried]** (never yet fetched).
 
 ---
 
-- **[untried]** AENE 2024 — Vote 5 Home Affairs chapter — `https://www.treasury.gov.za/documents/mtbps/2024/aene/Vote%205%20Home%20Affairs.pdf` (URL pattern verified for Vote 30; exact chapter filename may differ — check content-type, the host soft-404s). Wanted: the programme/subprogramme split of the +R1.6bn in-year addition (B14), esp. whether Transversal IT Management moved. *(re-extract 2026-07-22)*
-- **[untried]** AENE 2024 — Vote 25 Justice and Constitutional Development chapter — `https://www.treasury.gov.za/documents/mtbps/2024/aene/Vote%2025%20Justice%20and%20Constitutional%20Development.pdf` (same pattern caveat). Wanted: the subprogramme split of the −R545.9m cut across Justice Modernisation and the Information Regulator. *(re-extract 2026-07-22)*
+*(Drained 2026-07-22 by the acquisition pass inside update-wiki: **both AENE items acquired** — Vote 25
+chapter directly; Vote 5 via the **FullAENE full volume** (412pp — per-vote filename not exposed by the
+index; the full volume also serves future votes). Staged to `new-budget/ZAF/2024/` for budget extract.)*
 
 *(Drained 2026-07-22 by the acquisition pass — the 2 items from the ZAF FY2024/25 domestic finance
 sweep, **both acquired** via the browser route after direct fetches failed. **AGSA PFMA GR 2024-25**

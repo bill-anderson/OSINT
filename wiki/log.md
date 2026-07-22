@@ -6,6 +6,22 @@ Reporting): a few lines each, full detail in `log-archive.md` or git.
 
 ---
 
+## 2026-07-22 — update-wiki: converged in 2 iterations; both B14 questions closed from acquired documents
+
+Passes: **ingest ×2, finance compile ×2, acquire ×1, budget extract ×1** (chain rule — acquired budget
+documents land in `new-budget/`, extract drains it), **full lint ×1**; reconcile skipped (0).
+**Acquire:** both AENE items — Vote 25 chapter directly; Vote 5 via the **FullAENE full volume** (412pp,
+per-vote filename unexposed; volume serves future votes too). **Extract:** both B14 questions closed —
+**Justice's −R545.9m cut spared both digital lines** (Justice Modernisation unchanged R661,157k;
+Information Regulator unchanged R110,860k, +R500k software capital for the Regulator in the internal
+virement); **DHA's +R1.6bn addition went to Corporate Services (+R505.0m) while Transversal IT was cut
+R79,462k → adjusted R1,110,636k** — a material movement, built as the dataset's second `revised` record
+(restated-total). 3 held records gained dated resolution lines; 2 CSVs archived; `new-budget/` drained
+and empty; manifest closed (cross-vote / no). Compile: ZAF 26 lines, revised stage now on the hub. Lint:
+baseline held. Revert: `git checkout <sha> -- raw/ new/ new-budget/ budget-archive/ wiki/ reviews/ documentation/`.
+
+contradictions - 0 ; acquisitions - 0 ; awaiting ingest - 0 ; decisions logged - 1
+
 ## 2026-07-22 — budget re-extract: b5/b14 reopened at cross-vote scope — 1 record, 3 annotations, 2 acquisitions
 
 First run of the re-extract mechanism, on its standing job. **b5-2024:** the DHA earmark confirmed —

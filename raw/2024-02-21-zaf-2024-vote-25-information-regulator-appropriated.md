@@ -53,6 +53,7 @@ body_completeness: full
 ENE 2024, Table 25.14. Subprogramme purpose (verbatim): "Information Regulator funds the Information Regulator, which is responsible for the promotion and protection of the right to privacy as it relates to the protection of personal information and the right of access to information, as enshrined in the Protection of Personal Information Act (2013) and Promotion of Access to Information Act (2000)." Series: 29.9 (2020/21) / 66.5 / 88.9 / 109.3 (2023/24 adj) -> 110.9 / 135.7 / 141.0 (MTEF).
 
 ## Development history
+- **2024-10-30 (resolved 2026-07-22 from the acquired Vote 25 AENE chapter)** — **unchanged at R110,860k** through the vote's −R545.9m cut; the programme's internal virement includes R500k of software capital for the Regulator.
 
 - **2024-10-30** — B14-2024: Vote 25 took a −R545.9m in-year cut affecting the Auxiliary and Associated Services programme; whether the Information Regulator transfer moved is not established at B14's grain (Vote 25 AENE chapter filed to acquisitions). [re-extract 2026-07-22]
 ## Notes

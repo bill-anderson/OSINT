@@ -53,6 +53,7 @@ body_completeness: full
 ENE 2024, Table 25.14. Subprogramme purpose (verbatim): "Justice Modernisation implements IT infrastructure and networks, and funds the integrated justice system programme, which seeks to re-engineer, automate and integrate business processes across the criminal justice value chain." Objective: increase departments/entities connected to the integrated justice system transversal platform from 11 (2023/24) to 12 (2024/25). Series: 478.9 / 575.7 / 597.4 / 697.8 (2023/24 adj) -> 661.2 / 695.3 / 731.7 (MTEF).
 
 ## Development history
+- **2024-10-30 (resolved 2026-07-22 from the acquired Vote 25 AENE chapter)** — the −R545.9m vote cut **spared this line: unchanged at R661,157k** (finer precision than the ENE's R661.2m). Only movement within the programme: an econ-class virement of R70.5m from goods-and-services to capital.
 
 - **2024-10-30** — B14-2024: Vote 25 took a **−R545.9m in-year cut**, with the Auxiliary and Associated Services programme (this subprogramme's home) affected; the subprogramme split is not visible at B14's grain — the Vote 25 AENE chapter is the acquirable instrument (filed to acquisitions). [re-extract 2026-07-22]
 ## Notes
