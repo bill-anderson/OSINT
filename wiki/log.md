@@ -6,6 +6,21 @@ Reporting): a few lines each, full detail in `log-archive.md` or git.
 
 ---
 
+## 2026-07-22 — acquisitions: both ZAF items acquired via browser route; queue empty
+
+**2 attempted, 2 acquired, 0 dropped.** Direct fetches failed for both (bot-guard shell; Phoca POST gate),
+then Bill enabled claude-in-chrome mid-pass and the browser route landed both: **AGSA PFMA GR 2024-25**
+(14.7 MB — browser surfaced AGSA's new site; its clean `/storage/app/media/reporting/pfma/` path fetches
+without the guard, pattern noted for future AGSA reports) and **DCDT Annual Report 2024/25** (9.3 MB,
+279 pp — Phoca form POST via page-context fetch → blob; Chrome held the saves for Bill's manual approval).
+Both staged to `new-budget/ZAF/` with companions + manifest rows. ZAF FY2024/25 now holds the full stage
+chain: proposed → revised → actual-aggregate → **per-programme outturn + audited** (the AR's appropriation
+statement closes the appropriated→actual execution chain for Vote 30; AGSA GR adds the government-ICT
+findings). A premature drop note (written while the extension was disconnected) reverted from
+`wiki/places/ZAF.md` and `acquisitions.md`. Revert: `git checkout <sha> -- new-budget/ reviews/ wiki/`.
+
+contradictions - 0 ; acquisitions - 0 ; awaiting ingest - 1 ; decisions logged - 0
+
 ## 2026-07-22 — domestic finance sweep: South Africa 2024 → FY2024/25 (pilot run)
 
 **7 budget documents + companions staged to `new-budget/ZAF/`** (manifest rows appended): ENE 2024 Vote 30
