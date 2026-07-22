@@ -6,6 +6,38 @@ Reporting): a few lines each, full detail in `log-archive.md` or git.
 
 ---
 
+## 2026-07-22 — domestic-state finance: driver written, spec extended
+
+New `finance-load-domestic-state.md` (budgets/expenditure), feeding the existing origin-neutral
+`wiki/finance-record-spec.md`. No new template — same record shape, extra driver-supplied fields.
+
+**Decisions** (all Bill's rulings this date except the last two, which are CC's):
+
+- **External financing on-budget is `non-state`, not `domestic-state`** (Bill). Origin tracks whose
+  money it is, not which document reports it. Externally-financed budget lines definite-match held
+  non-state records first and mostly become a `## Development history` line, not a new record — so
+  double-counting is prevented at capture, not netted off at compile. Domestic-state totals now mean
+  "own revenue and domestic borrowing". *Revert: the origin gate table in the driver.*
+- **Sub-national, SOEs, levy funds and regulators are in scope** (Bill), via `state_level`. `place`
+  stays the country ISO-3; the sub-national unit is an entity plus `spending_tier_name`.
+  `countries.csv` is not extended. *Revert: the State level section.*
+- **Digital shares are never computed** (Bill: extraction is a challenge for all evidence, to be
+  learned). Mixed lines are recorded whole with `scope_confidence` whole/partial/unclear and
+  `scope_basis`; partial/unclear are reported apart from the headline total. Method notes accumulate
+  in `documentation/domestic-budget-extraction.md`. *Revert: the Scope section.*
+- **`finance.budget` slug added** to `taxonomy.md` (CC) — an appropriation is neither an investment
+  nor an MoU. *Revert: one line in taxonomy.md, one in the spec's Subject tag §2.*
+- **MTEF outer-year projections fail fact 3** (CC) — indicative planning figures, the budget
+  equivalent of an "up to". Noted in a record, never built from. *Revert: spec fact 3.*
+
+Also: `FINANCE-COMPILE.md` domestic-state stub replaced — aggregate by fiscal year in original
+currency (never sum USD across years), split by `budget_stage` and report execution rate,
+partial-scope reported separately. Run log at `documentation/domestic-finance-run-log.csv`.
+
+Nothing captured yet; no records built, no hub touched.
+
+contradictions - 0 ; acquisitions - 0 ; awaiting ingest - 0 ; decisions logged - 5
+
 ## 2026-07-22 — update-wiki: converged in 2 working iterations, cap not hit; full lint closed
 
 Passes fired: **ingest ×1, reconcile ×1, finance compile ×1** (per the back-swing hand-off), **full lint ×1**;

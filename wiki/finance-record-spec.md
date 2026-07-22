@@ -10,6 +10,8 @@ pulls the fields out of a given source and hands them here.
 Reused by:
 
 - the non-state finance initial load — driver: `finance-load-nonstate-csv.md`
+- domestic-state budget and expenditure capture — driver:
+  `finance-load-domestic-state.md`
 - structuring existing `raw/` items that report finance (the back-swing) — driver:
   `finance-news-driver.md`, back-swing mode
 - ongoing capture of new finance items at ingest — same driver, capture mode, one
@@ -29,7 +31,10 @@ restating it.
 1. **The financier is identified.** A named party providing the money. Resolvable
    to a canonical slug against the wiki's entity set (a financier with no existing
    entity is minted one consistent new slug, not a failure — see *Entities*). "An
-   investor consortium", "development partners", "unnamed backers" — fail.
+   investor consortium", "development partners", "unnamed backers" — fail. For a
+   domestic-state record the financier is the **fisc** — a named treasury,
+   ministry of finance, sub-national government, levy fund or SOE spending its own
+   revenue — an institution, never the officeholder announcing it.
 2. **The recipient country or region is identified.** Must resolve to a
    `countries.csv` ISO-3 or `X__` region. This is the test, **not** the recipient
    organisation: a blank `recip_org` is normal (30% of the initial load) and is
@@ -43,6 +48,10 @@ restating it.
    figure that is neither — an "up to", an intention to invest, a mobilisation
    target, a valuation or market size. Carry the amount in the announcing party's
    own currency per `CLAUDE.md` → *Currency*.
+   For a domestic-state record, an **enacted appropriation** satisfies this, as
+   does any figure at a later stage (released, executed, audited) — the stage is
+   recorded, never conflated. **MTEF and medium-term outer-year projections fail**:
+   they are indicative planning figures, the budget equivalent of an "up to".
 4. **A date of the commitment is identified — a year is enough.** The
    commitment/approval/signature event, never the publication date. Padded to
    `YYYY-01-01` per *Dates*.
@@ -54,7 +63,12 @@ restating it.
    classification if the slug is genuinely uncertain. **What fails is an
    unspecified commitment**: money to a country with no stated use, or "digital
    transformation" as a bare slogan with no named activity. Never substitute a
-   default slug — see *Subject tag* §1.
+   default slug — see *Subject tag* §1. For a domestic-state record this is where
+   the **scope test** sits: the unit is the programme or project line whose stated
+   purpose is a digital activity, never a ministry's total vote, and a mixed line's
+   digital share is **never computed** — it is recorded whole and flagged
+   (`scope_confidence`), so it can be reported apart from the clean total rather
+   than silently inflating it.
 
 **Failing the test is a routing decision, not a rejection.** An admissible,
 in-scope item that fails any of the five is still a source: it takes the ordinary
@@ -76,6 +90,12 @@ start / end year**; disbursed USD; amount quality; **subject category**;
 digital-ID and digital-payments flags; native project ID; IATI ID; **source
 URL**; source type; access date; notes. Bold fields are the ones a record is
 built around.
+
+**A driver may add origin-specific fields**, and the record carries them as extra
+`## Deal record` rows without amending this list — the budget-cycle, fiscal-year,
+classification, FX and vendor fields in `finance-load-domestic-state.md` are the
+worked example. Only fields the compile and lint passes **filter on** go into
+frontmatter; everything else stays in the body table.
 
 **Admission is decided by the five-fact test above, not by this list.** `title`,
 `description` and `instrument` are recorded whenever the source states them and
@@ -115,7 +135,8 @@ lead, don't build a record. See `CLAUDE.md` → *The material*.
    deleted, not filed as a lead (`CLAUDE.md` → *The material*). A dataset's scope
    is not the wiki's.
 2. **Always add a finance tag:** `finance.new` for an investment/commitment,
-   `finance.mou` for an MoU, framework agreement or letter of intent.
+   `finance.mou` for an MoU, framework agreement or letter of intent,
+   `finance.budget` for a domestic budget appropriation or expenditure line.
 3. **Flag-derived:** `dpi.id` if the digital-ID flag is set, `dpi.pay` if the
    digital-payments flag is set.
 4. Valid `taxonomy.md` slugs only; dedupe; usually 2–3 slugs.

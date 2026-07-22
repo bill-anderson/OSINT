@@ -24,8 +24,8 @@ script and **write the result onto the page** — a compiled figure, not a
 query-time derivation (`CLAUDE.md` → *Working the base*). For **each place**
 (`places` value, country or `X__` region) that has finance records in `raw/`:
 
-1. **Aggregate its deal records, split by `finance_origin`** (**non-state** now;
-   **domestic-state** once that dataset lands — the section holds both):
+1. **Aggregate its deal records, split by `finance_origin`** (the section holds
+   both **non-state** and **domestic-state**):
    - total committed (USD), deal count, commitment-year range;
    - top financiers by committed amount;
    - instrument mix and top subject slugs.
@@ -33,6 +33,25 @@ query-time derivation (`CLAUDE.md` → *Working the base*). For **each place**
    Currency discipline (`CLAUDE.md` → *Currency*): totals are time-varying, so head
    the section **"as of `<compile date>`"**; sum the USD field only — never restate
    one commitment in three currencies.
+
+   **Domestic-state aggregates differently, and three rules override the above:**
+
+   - **Aggregate by fiscal year, in the original currency.** Never sum
+     `amount_usd` across fiscal years — a decade of naira lines converted at
+     their own dated rates and added together is not a quantity. Report per-year
+     figures in the state's own currency, with the USD conversion beside each as
+     a dated figure, and use `pct_of_total_budget` for any trend statement.
+   - **Split by `budget_stage`, never merge stages.** Report appropriated and
+     actual separately, and where the same line stem carries both, report the
+     **execution rate**. That gap is the finding this dataset exists to surface.
+   - **Report `scope_confidence: partial` and `unclear` records apart from the
+     headline total**, as a stated count and amount. A total mixing clean lines
+     with partial ones is worse than no total.
+
+   Externally-financed budget lines carry `finance_origin: non-state` by the
+   driver's origin gate and so land in the non-state total — they are **not**
+   counted as domestic state spend. Double-counting is prevented upstream, at
+   capture, not here.
 
 2. **Write/replace the `## Financing` section** on the place hub (after
    `## Recent developments`), origin-split, e.g.:
@@ -44,7 +63,12 @@ query-time derivation (`CLAUDE.md` → *Working the base*). For **each place**
    **Non-state** — US$X.Xbn committed across N deals (2016–2026). Top financiers:
    world-bank (US$…), gates-foundation (US$…), ifc (US$…). Mostly Grant/Equity;
    leading subjects: dpi.pay, infra.connect.
-   **Domestic state** — *(pending that dataset)*.
+
+   **Domestic state** — N budget lines across FY20XX–FY20XX, national and
+   sub-national. FY2025: NGN X.Xbn appropriated (US$… at NGN …/US$, FY average),
+   NGN Y.Ybn executed — Z% execution. Capital NGN …, recurrent NGN ….
+   Leading votes: …. A further N lines (NGN …) are partial- or unclear-scope and
+   are excluded from these totals.
 
    Material deals: [[…]], [[…]].
    ```

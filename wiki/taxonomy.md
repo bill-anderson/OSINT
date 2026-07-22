@@ -78,3 +78,4 @@ ISSUE-014 and ISSUE-017.)
 ### Finance
 - `finance.new` — New investments
 - `finance.mou` — MoUs and other agreements
+- `finance.budget` — Domestic budget appropriations and expenditure

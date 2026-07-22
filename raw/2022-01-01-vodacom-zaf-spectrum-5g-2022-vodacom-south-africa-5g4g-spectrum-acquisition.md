@@ -21,25 +21,25 @@ Vodacom / Vodafone committed US$357,000,000 to Independent Communications Author
 
 ## Deal record
 
-| Field | Value |
-|---|---|
-| Deal ID | vodacom-zaf-spectrum-5g-2022 |
-| Financier | Vodacom / Vodafone — Africa Digital |
-| Recipient | Independent Communications Authority of South Africa (ICASA) / Vodacom South Africa (ZAF) |
-| Beneficiary type | Private sector |
-| Instrument | Equity |
-| Status | Closed |
-| Commitment (USD) | US$357,000,000 |
-| Original amount | 5380000000 ZAR |
-| Lead financier | Vodacom Group |
-| Commitment year | 2022 |
-| Start year | 2022 |
-| End year | 2042 |
-| Disbursed (USD) | US$357,000,000 |
-| Amount quality | Exact |
-| WB DT category | Broadband Infrastructure & Services -> infra.connect |
-| Digital ID flag | FALSE |
-| Digital payments flag | FALSE |
+| Field                 | Value                                                                                     |
+| --------------------- | ----------------------------------------------------------------------------------------- |
+| Deal ID               | vodacom-zaf-spectrum-5g-2022                                                              |
+| Financier             | Vodacom / Vodafone — Africa Digital                                                       |
+| Recipient             | Independent Communications Authority of South Africa (ICASA) / Vodacom South Africa (ZAF) |
+| Beneficiary type      | Private sector                                                                            |
+| Instrument            | Equity                                                                                    |
+| Status                | Closed                                                                                    |
+| Commitment (USD)      | US$357,000,000                                                                            |
+| Original amount       | 5380000000 ZAR                                                                            |
+| Lead financier        | Vodacom Group                                                                             |
+| Commitment year       | 2022                                                                                      |
+| Start year            | 2022                                                                                      |
+| End year              | 2042                                                                                      |
+| Disbursed (USD)       | US$357,000,000                                                                            |
+| Amount quality        | Exact                                                                                     |
+| WB DT category        | Broadband Infrastructure & Services -> infra.connect                                      |
+| Digital ID flag       | FALSE                                                                                     |
+| Digital payments flag | FALSE                                                                                     |
 
 ## Description
 
