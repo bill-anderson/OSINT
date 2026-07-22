@@ -135,6 +135,14 @@ Committee budget-performance reports as dated PDFs (`pmg.org.za/files/…pccommr
 scrutiny with quarterly execution figures the budget documents never carry. FY2025/26 outturn/audit not
 yet published (DCDT AR ~Oct 2026; AGSA GR ~Mar 2027) — stage gaps, not acquisitions.
 
+**ZAF 2026 sweep (2026-07-22):** Budget 2026 (2026-02-25) under `/documents/National Budget/2026/ene/`;
+bill filename pattern changed to `B4-2026 (Appropriation).pdf` (no square brackets); a Special
+Appropriation Bill (B3-2026) also exists. **Vote 30 restructured** — programme names all change
+(Media and Content; Digital Communication, Access and Services; Digital Infrastructure and Technologies;
+Digital Society and Economy): join series on function, not name; the Broadband subprogramme persists
+inside Digital Infrastructure and Technologies. Budget-vote speeches moved to May (2026-05-12).
+AENE 2026 ~Nov 2026; FY2025/26 outturn (DCDT AR) ~Oct 2026 — the year-later re-runs' targets.
+
 ### Template for an entry
 
 ```markdown
