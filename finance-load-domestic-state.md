@@ -198,6 +198,23 @@ South Africa April–March, Ethiopia Hamle–Sene on the Ethiopian calendar. Tre
 "2025" as one comparable year across these is the single easiest way to produce a
 confidently wrong aggregate.
 
+### A bare year in an instruction means the year the fiscal year *begins*
+
+*(Bill's ruling, 2026-07-22.)* "FY2024", "2024", or "run … for 2024" all mean **the
+fiscal year beginning in 2024**, whatever that country calls it — so it resolves
+to `2024` in Nigeria and Zambia (calendar), `2024/25` in South Africa (Apr–Mar),
+Kenya, Uganda, Tanzania and Egypt (Jul–Jun), and the Ethiopian year beginning in
+July 2024. One instruction, one fiscal year, every country.
+
+This settles the scope cut too: **FY2024 onwards = fiscal years beginning on or
+after 1 January 2024**. Kenya's 2023/24 is therefore out and 2024/25 is its first
+in-scope year, even though 2023/24 ran halfway through 2024.
+
+The rule governs **instructions only**. The stored `fiscal_year_label` stays
+verbatim as the document writes it — the corpus already carries `2024/25`,
+`2024-2025`, `2025/26` and `NDP 12`, and normalising them would destroy the tie
+back to the source.
+
 Every record carries:
 
 - **`fiscal_year_label`** — verbatim as the document writes it (`2025/26`,

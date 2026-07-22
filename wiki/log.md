@@ -6,6 +6,45 @@ Reporting): a few lines each, full detail in `log-archive.md` or git.
 
 ---
 
+## 2026-07-22 — domestic finance sweep procedure; fiscal-year resolution rule
+
+New `sweep/domestic-finance-README.md` — acquisition sweep, **one country × one fiscal year per run**
+(Bill), which gives the object a completion state and a re-run trigger as later stages publish.
+Invocation: `"run domestic finance sweep for <country> <year>"`. National tier only for now;
+sub-national deferred (47 counties or 36 states would swamp the cap). Cap 40 items per run.
+
+**Decisions:**
+
+- **A bare year means the year the fiscal year begins** (Bill). "2024" = `2024` in Nigeria/Zambia,
+  `2024/25` in South Africa/Kenya/Uganda/Tanzania/Egypt. This **makes permanent the temporary FY rule
+  applied at the ingest below**: scope is *fiscal years beginning on or after 2024-01-01*, so Kenya's
+  2023/24 is out. Governs **instructions only** — stored `fiscal_year_label` stays verbatim, since the
+  corpus already carries `2024/25`, `2024-2025` and `NDP 12` and normalising breaks the tie to source.
+  *Revert: the fiscal-year sections of the driver and the sweep README.*
+- **Budget documents stage to `new-budget/{ISO3}/`**, not the retired `new-queue/` (Bill) — they need
+  their own extraction pass, and the first few want reading by hand before any procedure is written.
+  **The artefact and its companion markdown sit together there** (Bill's catch — the first draft put
+  the companion in `new/`, which was a bug: it would have filed a source page into `raw/` whose
+  `finance.budget` tag routes to the domestic-state driver with no budget lines in it to find, and
+  whose `[[link]]` pointed into a staging folder the artefact will later leave). `reference.md` §2, §6
+  and §7 updated: `new-budget/` is outside the ingest path, never drained, not counted as *awaiting
+  ingest*, not a third queue. `new-budget/manifest.csv` created as the standing record of what is
+  held and unprocessed. *Revert: the §2 block in reference.md and the sweep's Staging section.*
+- **FY hard-scopes the document blocks; statements and reporting are date-windowed instead** (CC).
+  On the back-swing's own evidence: half its records carry no FY and `stage: unclear` is modal,
+  because ministers and despachos don't name fiscal years. A hard filter would discard exactly the
+  material that makes opaque budgets legible. *Revert: the sweep's scope section.*
+
+Back-swing findings folded into the sweep as search strategy, not just record-building: query the
+phrases not the headlines; treat "government invests" as suspect; stop spending cap on ministry
+envelopes once a country's pattern is established; add finance-law annexes and *lettres d'engagement*
+to acquisitions by name when only a plan envelope surfaces.
+
+First run: **South Africa 2024 → FY2024/25** (Bill, on familiarity with the data). Pre-run stub added
+to the extraction notes, marked unverified.
+
+contradictions - 0 ; acquisitions - 0 ; awaiting ingest - 0 ; decisions logged - 3
+
 ## 2026-07-22 — ingest + first domestic-state compile: 19 admitted under Bill's temporary FY rule
 
 **Temporary rule (Bill, this ingest only, pending a proper change): only records pertaining to FY2024 /

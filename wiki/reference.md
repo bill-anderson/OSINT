@@ -135,6 +135,9 @@ local style. Lint #12 checks this.
 new/                      # unprocessed intake queue — clips AND sweep candidates land here; drained on ingest
 new-queue/                # RETIRED as sweep target (2026-07-21); sweep now writes straight to new/
   done/                   # BILL'S. Human-owned; CC does not read, write or drain it
+new-budget/               # budget documents awaiting their own extraction pass — NOT an ingest queue
+  {ISO3}/                 #   artefact (PDF/XLSX/CSV) + its companion markdown, together
+  manifest.csv            #   what is held and which country-year it belongs to
 sweep/                    # acquisition sweeps (upstream of new/):
                           #   daily-README.md  (daily trade-journal sweep procedure)
                           #   daily/           (its state)
@@ -172,6 +175,29 @@ queries/                  # read-only query workspace (§10)
 
 **`new-queue/done/` is Bill's.** Human-owned staging. CC does not read it, write to
 it, drain it, or count it in any tally.
+
+**`new-budget/` is outside the ingest path, deliberately.** It holds budget
+documents — appropriation acts, estimates volumes, outturn reports, IFMIS and
+procurement extracts — staged by the domestic finance sweep
+(`sweep/domestic-finance-README.md`) and waiting on an extraction procedure that
+has not been written yet.
+
+- **Ingest never drains it.** A 600-page appropriation act is not a source to be
+  read and filed; it is a structure to be learned, and the first documents are
+  meant to be looked at by hand before any procedure is committed to.
+- **The artefact and its companion markdown sit together**, same folder, same date
+  prefix — not split across `new-budget/` and `new/`. The companion is a
+  *description of a document not yet processed*, so filing it as a source would
+  put a page in `raw/` whose `finance.budget` tag routes it to the domestic-state
+  driver with no budget lines in it to find, and whose `[[link]]` points into a
+  staging folder the artefact will later move out of. The pair stays together
+  until the pair is processed.
+- **It is not counted as `awaiting ingest`** in `STATUS.md`, and it is not a
+  third queue in CLAUDE.md's sense — nothing drains it on a normal pass. The
+  sweep reports what it staged; `manifest.csv` is the standing record.
+- **Nothing enters `raw/` from here except through the extraction pass**, when
+  written. That pass will produce ordinary source pages and finance records into
+  `new/`, and ingest is still the only door.
 
 **`sweep/recapture/` is spent tooling**, not part of any standing procedure. It
 holds the scripts and ledger from the one-off verbatim re-capture run of 2026-07
@@ -458,6 +484,8 @@ files — `taxonomy.md`, `countries.csv`, `_watchlist.md` — which are never so
 
 ## 6. Filing rules — draining the `new/` queue
 
+*(`new/` only. `new-budget/` is not an ingest queue and is never drained here — §2.)*
+
 Process each item in `new/` through the steps below. The item's **move out of
 `new/` is the last step**, and where it moves is its classification: admitted
 sources → `raw/`, parked leads → `_leads/`, discards → deleted. "Moved out of
@@ -640,8 +668,9 @@ Acquisition sweeps run *upstream* of the wiki and stage into `new/`.
 **Rules binding every sweep:**
 
 - **Containment boundary.** The sweep writes **only** to `new/` (candidate
-  source files with best-effort frontmatter) and to `sweep/` (its own
-  state/logs). It **never** writes to `raw/` or any `wiki/` page.
+  source files with best-effort frontmatter), to `new-budget/` (budget documents
+  and their companion pages, which ingest does not drain — §2), and to `sweep/`
+  (its own state/logs). It **never** writes to `raw/` or any `wiki/` page.
 - Candidates enter the base only by being **processed**: `new/ →` ingest `→ raw/`.
   The sweep stages straight to `new/`; ingest is the gate, so a raw sweep candidate
   can never become a source by accident. *(The former `new-queue/ → new/` human

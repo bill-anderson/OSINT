@@ -48,6 +48,34 @@ carried them, where they hid, what you looked for and didn't find.
 ### World Bank PADs — the counterpart sliver (back-swing, 2026-07-22)
 - **Where it hides:** the PROJECT FINANCING DATA block, "Counterpart Funding / National Government" rows plus a footnote naming which country carries which share; the component-cost table includes it while the IDA Resources table excludes it — a small mismatch between the two tables (60.00 vs 60.50) is the tell.
 
+### South Africa — pre-run stub (sweep, FY2024/25) — *unverified, replace after the run*
+
+Written ahead of the first sweep run so it starts warm. **Everything here is to be
+confirmed against the documents, not trusted** — vote numbering in particular
+changes between administrations and must be read off the year's own estimates.
+
+- **Fiscal year:** April–March. "2024" resolves to **FY2024/25, 2024-04-01 to
+  2025-03-31**. Label form in the documents: `2024/25`.
+- **Expected document chain** — the reason this country is a good pilot: main
+  estimates published on budget day (February), an adjusted-estimates volume in
+  the second half of the year (the `revised` / `supplementary` case the driver
+  needs testing against), an outturn/annual-report layer, and an audit layer. If
+  this chain holds, one country-year exercises four of the six `budget_stage`
+  values.
+- **To establish on the run:** which vote carries communications and digital
+  technologies for this year; whether the estimates are published per-vote in a
+  machine-readable form alongside the PDF; whether the open-budget portal exposes
+  programme-level data directly; and how the state IT agency's own budget is
+  presented, since an agency funded by charging departments is a transfer question
+  (`is_transfer`) before it is a spending question.
+- **Known from the corpus already:** a Home Affairs ministry-envelope near-miss
+  (envelopes are not records); and one held record,
+  `zaf-2025-26-dcdt-sa-connect-phase-2` at `stage: unclear` with an FY attribution
+  ambiguous against budget-speech timing — **a direct test of whether documents
+  resolve what reporting could not.** If the FY2024/25 and FY2025/26 estimates
+  settle that record's year and stage, case 5 (*reset*) fires and the procedure is
+  validated end to end.
+
 ### Template for an entry
 
 ```markdown

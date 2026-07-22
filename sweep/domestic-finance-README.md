@@ -6,8 +6,14 @@ records from: budget documents, outturn and audit reports, ministerial statement
 and on-the-record reporting of state digital spending.
 
 Run manually from Claude Code. **Invocation: "run domestic finance sweep for
-`<country>` `<fiscal year>`"** — e.g. *run domestic finance sweep for Kenya
-FY2025/26*.
+`<country>` `<year>`"** — e.g. *run domestic finance sweep for South Africa 2024*.
+
+**A bare year means the year the fiscal year begins** *(Bill's ruling,
+2026-07-22)*. "2024" resolves to `2024` in Nigeria and Zambia, `2024/25` in South
+Africa, Kenya, Uganda, Tanzania and Egypt, and the Ethiopian year beginning July
+2024 — one instruction, one fiscal year, every country. **Resolve it and state the
+resolution at the top of the run** ("South Africa 2024 → FY2024/25, 2024-04-01 to
+2025-03-31") so the run is unambiguous in the log.
 
 ## The unit is country × fiscal year
 
@@ -30,8 +36,11 @@ its keep four ways:
   statable: *no published FY2024/25 outturn for the ICT vote as at 2026-07-22*.
   Per `CLAUDE.md` → *Currency*, a known vacuum is a finding, not a silence.
 
-**In scope from FY2024 / FY2024-25 onwards.** Earlier years are out of scope
-however easily found.
+**In scope: fiscal years beginning on or after 1 January 2024.** Earlier years are
+out of scope however easily found — and were deleted at the 2026-07-22 ingest, so
+staging one again is a regression, not a gap-fill. Note the edge this cuts: Kenya's
+2023/24 ran halfway through 2024 and is still **out**; its first in-scope year is
+2024/25.
 
 ### The fiscal year is a search target, not a filter on what gets built
 
@@ -223,21 +232,37 @@ already be held; that is success, not a wasted run.
 
 ## Staging
 
-- **Markdown candidates → `new/`**, flat, date-prefixed, best-effort frontmatter.
-- **PDF / XLSX / CSV → `new-budget/{ISO3}/`** *(Bill's ruling, 2026-07-22)*, with
-  a **companion markdown source page in `new/`** carrying the frontmatter and
-  linking to the artefact (`reference.md` §3). Prefix both with the same date.
+**The split is by what a thing is, not by its file extension.**
 
-**`new-budget/` is deliberately outside the standard ingest path.** These
-documents need their own extraction pass — a 600-page appropriation act is not a
-source to be read and filed, it is a structure to be learned, and the first few
-are worth looking at by hand before any procedure is written for them. Naming the
-folder for what it holds, rather than reusing `new-queue/` (retired 2026-07-21),
-keeps that separation legible and stops anything draining it by accident. The
-companion page in `new/` ingests normally and carries the citation; the artefact
-waits.
+- **Prose sources → `new/`** — news, statements, press releases, decrees,
+  investigative reporting. Flat, date-prefixed, best-effort frontmatter. These
+  ingest normally and are the driver's case-4 material.
+- **Budget documents → `new-budget/{ISO3}/`** *(Bill's ruling, 2026-07-22)* — the
+  artefact **and its companion markdown together, in the same folder, same date
+  prefix.** Both wait for the extraction pass.
 
-Staged candidates carry `retrieved:` and never `ingested:` (`reference.md` §7).
+**Why they sit together** *(Bill's catch, 2026-07-22 — the first draft split them,
+which was a bug).* A companion page describes a document that has not been
+processed. Sending it to `new/` alone would file a source page into `raw/` whose
+`finance.budget` tag routes it straight to the domestic-state driver — which would
+find a citation and no budget lines — and whose `[[link]]` would point into a
+staging folder the artefact is going to move out of. Neither the record nor the
+link would survive the extraction pass that hasn't been written yet. A file's
+folder is its state (`CLAUDE.md` → *Structure*); the pair's state is *held, not yet
+extracted*, so the pair stays together.
+
+**Nothing in `new-budget/` counts as `awaiting ingest`**, and ingest never drains
+it (`reference.md` §2, §7). Append a row to **`new-budget/manifest.csv`** for each
+document staged:
+
+`iso3, fiscal_year, doc_type, title, url, artefact_path, companion_path, retrieved, scale, currency, pages, notes`
+
+That manifest is the standing record of what is held and unprocessed — and, read
+across a few countries, it is also the raw material for writing the extraction
+procedure, since it shows what these documents actually look like before anyone
+commits to a method for reading them.
+
+Prose candidates carry `retrieved:` and never `ingested:` (`reference.md` §7).
 
 ```yaml
 ---
@@ -259,10 +284,15 @@ doc_type: <appropriation-act | budget-estimates | mtef | implementation-report |
            audited-accounts | ifmis-extract | treasury-release | board-budget |
            procurement-plan | statement | reporting>
 source_tier: <budget-document | official-statement | reporting>
-artefact: <path in new-budget/, where this is a companion page>
+artefact: <sibling filename, where this is a companion page in new-budget/>
 body_completeness: <full | excerpt>
 ---
 ```
+
+A companion page in `new-budget/` carries this frontmatter as a **head start for
+the extraction pass, not as an admitted source** — it has no `ingested:`, it is
+not linked from any wiki page, and it becomes a source only when the extraction
+pass emits one into `new/`.
 
 **For a tabular or PDF artefact**, the companion page also records the
 **sheet/tab, header row, printed scale and currency**. The scale header — `N'000`,
@@ -290,10 +320,18 @@ Then the status line.
 - **Sub-national is deferred, not dropped.** When it's turned on, the natural shape
   is a separate invocation with its own cap, not a widening of this one — otherwise
   one Nigerian run is 37 governments.
-- **Suggested first three runs:** Kenya FY2025/26 (July–June, published outturn via
-  the budget controller — the rare chance to exercise `budget_stage` end to end);
-  Angola FY2026 (the back-swing's richest seam, and the PAC procurement plans are a
-  known annual source); Benin or Côte d'Ivoire FY2026 (to build the Francophone
-  vocabulary and test whether the *lettres d'engagement* / finance-law annexes are
+- **First run: South Africa 2024 → FY2024/25** (Bill's choice, on familiarity with
+  the data — the right basis for a first run, since the value of run one is
+  calibrating the procedure against a corpus someone can check by eye). Good
+  properties for a pilot beyond that: an Apr–Mar year, so the resolution rule gets
+  exercised immediately; a genuinely published outturn and audit chain; and a
+  corpus already lightly touched — the wiki holds one ZAF record
+  (`zaf-2025-26-dcdt-sa-connect-phase-2`) and the extraction notes flag a Home
+  Affairs ministry-envelope near-miss.
+- **Good follow-ons, for different reasons:** Angola 2026 (the back-swing's richest
+  seam, and the PAC procurement plans are a known annual source); Kenya 2025 (the
+  budget controller's implementation reports are the rare chance to exercise
+  `budget_stage` end to end); Benin or Côte d'Ivoire 2026 (to build the Francophone
+  vocabulary and test whether the *lettres d'engagement* and finance-law annexes are
   actually acquirable — if they are, the envelope problem is solved for a dozen
   states at once).
