@@ -6,6 +6,33 @@ Reporting): a few lines each, full detail in `log-archive.md` or git.
 
 ---
 
+## 2026-07-22 — domestic finance back-swing: 894 sources screened, 23 records staged
+
+13 parallel workers over every `finance.*`-tagged `raw/` item without a `deal_id`. **~813 not domestic,
+52 domestic-but-failed (overwhelmingly fact 3 — instrument reported without the appropriation figure),
+28 records built → 23 after consolidation**, staged in `new/` awaiting ingest + finance compile.
+By country: AGO 4, BFA 3 (2 twin-pairs merged), KEN 2, EGY 2 (CBE PoS incentives — captured from the
+recipient's filings, flagged judgment), BWA 2, COG 2, CIV 1, BEN 1, SEN 1, ZAF 1, ZMB 1, GNB 1, MRT 1
+(WARDIP counterpart slivers from the held PAD). Stages: unclear 15, proposed 3, actual 3, appropriated 1,
+revised/supplementary 1. Extraction methods appended to `documentation/domestic-budget-extraction.md`
+(Angola despacho grep patterns; PAD counterpart-row tell; recipient-side capture; envelope near-miss taxonomy).
+
+**Decisions:**
+- **Ministry-envelope conflict resolved by the rule as written.** One worker built the CIV/BEN/GAB
+  digital-ministry votes as `partial` records; three others refused the identical class (one failed the
+  same CIV vote). The driver is categorical — 3 envelope records retired (in git, commit "raw worker
+  output"); BEN's genuine programme line kept. **For Bill:** for CIV/GAB the envelope is the only visible
+  number — if envelopes-at-partial are wanted, the driver needs an explicit rule; the SEN investment-slice
+  record shows where the current line sits.
+- **2 cross-batch twins merged** (BFA mini data centres ×2 sightings; BFA zéro zone blanche ×2 sources) —
+  fuller record kept, other folded as dated dev-history line.
+- **`source_tier` vocabulary gap:** PAD-sourced counterpart records forced into `official-statement`;
+  a `project-document` value may be wanted.
+- BFA zones-blanches record carries an explicit blend warning (FASU + IDA-financed PACTDIGITAL) — compile
+  must treat as blended, possible partial overlap with the held WB deal.
+
+contradictions - 0 ; acquisitions - 0 ; awaiting ingest - 23 ; decisions logged - 4
+
 ## 2026-07-22 — domestic-state driver: three rulings applied on Bill's review
 
 - **Proposed budgets pass fact 3** (Bill): a tabled figure is a record at `budget_stage: proposed`, not a

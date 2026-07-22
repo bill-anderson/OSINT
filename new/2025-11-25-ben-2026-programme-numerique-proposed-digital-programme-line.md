@@ -66,7 +66,7 @@ https://www.wearetech.africa/en/fils-uk/news/tech/benin-cuts-digital-budget-by-6
 
 ## Notes
 
-- **Programme line within the ministry envelope** — the envelope record is `ben-2026-numerique-digitalisation-ministry-vote-proposed` (scope partial, excluded from the clean total), so holding both does not double count.
+- **Programme line within the ministry envelope** — the ministry's total FY2026 vote (XOF 27.2bn: capital 17.4bn + recurrent 9.7bn, source's own USD conversion US$48m) is **not separately recorded** per the driver's ministry-envelope rule (consolidation decision, 2026-07-22; an envelope record built in the same pass was retired). This XOF 12.3bn "programme numérique et digitalisation" line is the capture unit.
 - **funding source unstated** — the ministry envelope is known to include external financing (the source attributes the year-on-year cut to a 12.22% drop in external financing) but no split by programme is given; recorded `domestic-state`, flagged, per the origin gate.
 - **scope_confidence: whole** — the line's stated purpose ("nationwide digital transformation") is entirely a digital activity.
 - **published** = 2025-11-25, the presentation event date as stated (article published 2025-11-27).
