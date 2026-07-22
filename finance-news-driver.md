@@ -43,13 +43,21 @@ predictably, so read for these:
 **Origin screen — this driver builds non-state records only.** A **domestic-state**
 item — the funder is the recipient country's own government, a ministry or an entity
 it owns (an annual ministry budget or appropriation, a sovereign guarantee, a
-state-agency allocation) — is **out of scope for this driver and gets no record.** It
-is not a gate failure and is not routed elsewhere: domestic-state financing is the job
-of the dedicated **domestic-state driver**, and the record template does not yet carry
-the fields those items need. Leave the source in `raw/` with its `finance.*` tags,
-log it as `origin: domestic-state — skipped`, and move on. *(Bill's ruling,
-2026-07-22: the first back-swing over-produced domestic-state records; the template
-must be adjusted before they are admitted.)*
+state-agency allocation) — is **out of scope for this driver, and is handed to
+`finance-load-domestic-state.md`**, which carries the budget-cycle, fiscal-year and
+classification fields those items need. It is not a gate failure. Prose is a
+legitimate source there, exactly as it is here: case 4 of that driver's *five
+cases* builds a record from reporting alone where the five-fact test passes.
+
+*(History: this driver's first back-swing over-produced domestic-state records
+against a template that could not hold them, and Bill's ruling of 2026-07-22
+suspended them. The template landed the same day; the suspension is lifted. The 27
+suspended records were deleted from `new/` before any commit and are **not** in
+git, and the skip was logged only in summary — the `raw/` source files carry no
+per-item marker. The domestic back-swing therefore starts from its own candidate
+definition — `raw/` items with a `finance.*` tag, domestic state spend and no
+`deal_id` — which re-finds every skipped item; the records are rebuilt, not
+restored.)*
 
 An item passing the test with **several distinct deals** yields one record each,
 provided each deal independently carries all five facts. A deal named only in

@@ -6,6 +6,25 @@ Reporting): a few lines each, full detail in `log-archive.md` or git.
 
 ---
 
+## 2026-07-22 — domestic-state driver: three rulings applied on Bill's review
+
+- **Proposed budgets pass fact 3** (Bill): a tabled figure is a record at `budget_stage: proposed`, not a
+  failure — the stage field carries the epistemic status. MTEF outer years still fail. *Spec fact 3.*
+- **SOEs: origin of the money decides** (Bill): an SOE spending non-budget income (commercial revenue, own
+  borrowing) is a **non-state** funder → news driver; this driver captures the **state → SOE flow** only,
+  fisc as financier, SOE as recipient, `state_level: soe`. Levy funds/regulators unchanged (levy/fee =
+  state revenue). *Driver: origin table, State level, Entities.*
+- **`pct_of_total_budget` removed** (Bill: meaningless). CC also removed sibling `pct_of_admin_head` —
+  same rationale bullet, same denominator problem; revert if wanted. Trend statements now compare per-year
+  original-currency figures. *Driver Amounts + frontmatter example; FINANCE-COMPILE trend sentence.*
+
+Earlier in the review: news-driver history note corrected (the 27 deleted records are **not** in git —
+built and deleted between commits; back-swing rebuilds them from its own candidate definition), and
+FINANCE-COMPILE's restated-total exclusion reworded (the **original** leaves the headline, not the
+supplementary). Nothing captured; no records built, no hub touched.
+
+contradictions - 0 ; acquisitions - 0 ; awaiting ingest - 0 ; decisions logged - 3
+
 ## 2026-07-22 — domestic-state finance: driver written, spec extended
 
 New `finance-load-domestic-state.md` (budgets/expenditure), feeding the existing origin-neutral
@@ -32,7 +51,37 @@ New `finance-load-domestic-state.md` (budgets/expenditure), feeding the existing
 
 Also: `FINANCE-COMPILE.md` domestic-state stub replaced — aggregate by fiscal year in original
 currency (never sum USD across years), split by `budget_stage` and report execution rate,
-partial-scope reported separately. Run log at `documentation/domestic-finance-run-log.csv`.
+partial-scope, transfers and restated supplementaries excluded from the headline and reported
+separately. Run log at `documentation/domestic-finance-run-log.csv`.
+
+**Correction (Bill, 2026-07-22).** A first draft of the driver made news reporting a *lead* for this
+dataset, admitting only budget documents. Wrong: this dataset is sourced from both, as the non-state one
+is — many budget documents are unpublished or obfuscate, and a ministerial statement is often the only
+legible account of a line. `CLAUDE.md` → *The material* already counts on-the-record reporting and
+official statements as first-hand; the lead rule targets AI syntheses and aggregators. Driver's
+*Provenance* rewritten, and the **five cases** added: (1) budget doc → build from it; (2) one line, one
+year, one stage per record, always; (3) both → doc is the record, reporting links in
+`## Development history`; (4) reporting only → build on the five-fact test, codes and locator left blank,
+never inferred; (5) doc surfaces later → **reset** the record from it, keep the `deal_id` stem, keep the
+superseded reporting as history, and file any disagreement as a contradiction. New `source_tier` field
+(`budget-document | official-statement | reporting`) carries which. *Revert: the Provenance and five-cases
+sections.*
+
+**The 27 domestic-state records deleted in this morning's back-swing were deleted against that wrong
+rule** — they are in git and the suspension is lifted. `finance-news-driver.md`'s origin screen now hands
+domestic items to this driver instead of skipping them, and the driver gains a **back-swing mode**:
+`"run domestic finance back-swing"`.
+
+Adversarial review caught four further double-count or collision paths, all now closed in the driver:
+intra-state transfers (`is_transfer`), supplementaries stating a restated total vs an increment
+(`supplementary_basis`), sub-national `deal_id` collisions (tier slug mandatory), and printed-scale
+misreads (`amount_scale` + capital+recurrent=total check). Knock-ons: `reference.md` §6 2a now
+triggers on any `finance.*` tag (a `finance.budget` record would otherwise have fallen through to the
+per-event hub-bullet path the spec forbids); §4 notes that finance drivers extend the source schema
+and that a tabular companion page stays `excerpt`; the spec's *Dates* now allows a known event date
+or period boundary at true precision instead of padding (a July–June FY padded to `YYYY-01-01` sorts
+six months from the event); a stated nil may be recorded as `0`; `UPDATE-WIKI.md` runs finance
+compile after any ingest admitting finance records, which was an existing gap.
 
 Nothing captured yet; no records built, no hub touched.
 

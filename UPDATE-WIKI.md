@@ -30,6 +30,8 @@ repeat:
         break                      # nothing left to do
 
     if awaiting ingest > 0:  run ingest      # reference.md §6 — drain new/
+      if ingest admitted any finance record:
+                             run finance compile   # FINANCE-COMPILE.md — hub Financing sections
     if contradictions  > 0:  run reconcile   # reviews/contradictions/RECONCILE.md
     if acquisitions    > 0:  run acquire     # reviews/ACQUIRE.md
 
@@ -43,6 +45,12 @@ it is always visible which process is executing.
 Order within an iteration is **ingest → reconcile → acquire**, as written: both
 reconcile and acquire feed `new/`, so the *next* iteration's ingest picks up
 whatever they produced.
+
+**Finance compile is not a queue-draining pass** and has no count in the status
+line — it recomputes hub Financing sections from what `raw/` already holds, and is
+idempotent. It runs immediately after any ingest that admitted a finance record,
+because those records are otherwise inert: admitted, but invisible on every hub
+until the aggregate is recomputed.
 
 ## Why a loop — the passes feed each other
 

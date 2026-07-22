@@ -5,9 +5,15 @@ documents**: appropriation acts, estimates, budget implementation reports,
 audited accounts, IFMIS and open-budget portal extracts. One record per budget
 line, per stage.
 
-Invocation: **"run domestic finance capture"** (one document at a time) or
-**"run domestic finance load"** (a prepared CSV of lines). Because extraction
-needs network and PDF handling, run it from Claude Code.
+— **and from reporting and official statements about them**, which for many
+countries is the only way the money is visible at all.
+
+Invocation: **"run domestic finance capture"** (one document or item at a time),
+**"run domestic finance load"** (a prepared CSV of lines), or
+**"run domestic finance back-swing"** (a pass over `raw/` items already carrying
+`finance.*` that report domestic state spend and have no `deal_id` — the
+counterpart to the news driver's back-swing). Because extraction needs network and
+PDF handling, run it from Claude Code.
 
 This driver only does what is peculiar to state budgets: identify the line,
 place it in the budget cycle, and settle origin. All record-shaping, tagging,
@@ -23,21 +29,61 @@ voted ever arrive?** That second half is why stage matters more than anything
 else here. An appropriation is a statement of intent by a legislature; an outturn
 is a fact. The wiki holds both and never silently conflates them.
 
-## Provenance
+## Provenance — budget documents *and* reporting
 
-The budget document itself is the primary. A budget-tracking portal, a
-civil-society budget analysis or a newspaper's summary of the estimates is a
-**lead**: mine it for the appropriation act or implementation report it works
-from, ingest that, discard the synthesis (`CLAUDE.md` → *The material*).
+**This dataset is built from both, exactly as the non-state one is.** Many budget
+documents are not published; some that are obfuscate; a minister's press release
+or a parliamentary report often clarifies what the tables hide. Treating anything
+short of the appropriation act as inadmissible would mean holding almost nothing
+for the countries where the question matters most. *(Bill's ruling, 2026-07-22,
+correcting a first draft of this driver that made news a lead.)*
 
-Two exceptions worth naming, because they look secondary and are not:
+Primary, all of them: the **budget document**; the government's **own statements**
+— ministry or treasury press releases, budget speeches, official portals;
+**auditor-general and parliamentary budget office reports**, which are first-hand
+institutional findings and frequently the only place an outturn is stated at all;
+**IFMIS / open-budget extracts** where the portal is the government's own (Kenya's
+Treasury portal, Nigeria's OpenTreasury, South Africa's Vulekamali); and
+**on-the-record reporting** of any of these.
 
-- **Auditor-general and parliamentary budget office reports** are primary. They
-  are first-hand institutional findings, not commentary, and they are frequently
-  the only place an outturn figure is stated at all.
-- **IFMIS / open-budget portal extracts** are primary where the portal is the
-  government's own (Kenya's Treasury portal, Nigeria's BudgIT-independent
-  OpenTreasury, South Africa's Vulekamali). A third-party mirror is a lead.
+Leads, not sources, per `CLAUDE.md` → *The material*: AI syntheses, news
+aggregators and digests, third-party portal mirrors.
+
+**`source_tier`** records which we built from — `budget-document` |
+`official-statement` | `reporting` — because it decides what happens when a better
+source arrives.
+
+## The five cases
+
+The unit is always **one budget line, one fiscal year, one stage** (see *Budget
+stage*). What varies is what we can see it through.
+
+1. **Budget document exists** — build from it. Full classification chain, codes,
+   scale, `doc_locator`. `source_tier: budget-document`.
+2. **Each line and each year is its own record.** A programme appearing in FY2024
+   and FY2025 is two records; appropriated and actual are two more. Never one
+   record updated in place — the series *is* the finding.
+3. **Both exist** — the budget document is the record; the reporting is **linked,
+   not merged into the fields**. Add it as a dated attributed line in
+   `## Development history` (spec → *Store of record*). This is where a minister's
+   clarification of an opaque line belongs, and it is often the only thing that
+   makes the line legible.
+4. **Only reporting exists** — build the record if it passes the spec's five-fact
+   test, no differently from the non-state driver. `source_tier: reporting`.
+   Classification codes, scale and `doc_locator` are **left blank, not inferred**;
+   `budget_stage` is recorded only if the source says which stage it is, else
+   `unclear`. A record with blanks is worth having; a record with guessed vote
+   codes is not.
+5. **A budget document later surfaces for a record built from reporting — reset.**
+   Rebuild the record from the document: it is a clear tier upgrade, so it
+   *replaces* rather than supplements (`CLAUDE.md` → *Duplicates*). Keep the
+   `deal_id` stem so the series holds; take every field from the document; and
+   keep the superseded reporting as a `## Development history` line rather than
+   discarding it — it is the evidence of what was public before the document was.
+   Log the reset. **A figure that disagrees is a contradiction**, filed to
+   `reviews/contradictions/`, not silently overwritten — a budget document
+   disagreeing with what a minister announced is precisely the kind of thing this
+   wiki exists to catch.
 
 ## Origin — the double-counting gate
 
@@ -54,27 +100,57 @@ Run this gate on every line, before building anything:
 
 | Budget line's stated funding source | `finance_origin` | Then |
 |---|---|---|
-| Domestic revenue; domestic borrowing; own-source (levy, SOE revenue) | `domestic-state` | build normally |
+| Domestic revenue; domestic borrowing; own-source (levy or fee income of a levy fund or regulator) | `domestic-state` | build normally |
 | External loan; external grant; development-partner financed | `non-state` | **definite-match first** (below) |
 | Counterpart / matching funds against an external project | **split** | see below |
 | Not stated | `domestic-state`, flagged | record `funding source unstated` in `## Notes` |
 
-**Externally-financed lines must be definite-matched before a record is created.**
-The wiki very likely already holds the deal from the financier's side. Match on
-`project_id` or `iati_project_id`, or unambiguous financier + recipient + project
-identity (spec → *Store of record*). On a definite match, **do not create a second
-record** — fold the budget's view into the held one as a dated line in
-`## Development history`, which is exactly the added value a budget document
-carries: `- **2025-06-12** — appropriated NGN 4.2bn in the FY2025 federal budget,
-vote 0522, against this project. [<url>]`. That single line is often the only
-public evidence that a donor commitment reached a national vote. Only where no
-held record matches is a new `non-state` record created.
+**`funding_source` vocabulary** (closed): `domestic-revenue` | `domestic-borrowing`
+| `own-source` | `external-loan` | `external-grant` | `counterpart` | `unstated`.
+
+**Externally-financed lines are definite-matched before anything is built.** The
+wiki very likely already holds the deal from the financier's side, so these
+usually merge rather than create — spec → *Store of record* governs; do not
+re-derive it here. What is worth saying is *why it matters*: the merged line is
+often the only public evidence that a donor commitment actually reached a
+national vote, and it is the added value a budget document uniquely carries.
+
+`- **2025-06-12** — appropriated NGN 4.2bn in the FY2025 federal budget, vote
+0522, against this project. [<url>]`
+
+A diverted line **drops `finance.budget` and carries `finance.new`** — it is a
+donor commitment that a budget document happens to evidence, and the tag must
+route it to the deal it belongs to, not back into this driver.
+
+Where no held record matches, a new `non-state` record is built — and its
+**financier is the external funder, not the treasury**. Budget documents often
+name it only as an instrument ("IDA credit", "AfDB loan", "JICA grant"); resolve
+that to the funding institution's existing entity slug. Where the line names no
+funder at all beyond "external", the record **fails fact 1** — route it as an
+ordinary source and say so, rather than tagging the fisc as financier for money
+that is not the state's.
 
 **Counterpart funding splits only where the document states both parts
 separately.** The government's own share is `domestic-state`; the external share
 is `non-state` and goes through the matching gate above. Where the document gives
 a combined figure only, record one line at its stated origin and note the
 blending — never apportion it ourselves.
+
+### Transfers inside the state — the second double-count
+
+The origin gate separates external money from domestic. It does not stop the same
+domestic naira being counted twice **within** `domestic-state`, which happens two
+ways: a national subvention appropriated to a levy fund, regulator or SOE that
+then appears again in that body's own board budget; and a national conditional
+grant to a county or state that is re-appropriated at the sub-national tier.
+
+**Capture at the spending end, once.** Where a line is a transfer to another body
+whose budget we also capture, set **`is_transfer: true`** and record the
+receiving body — the record stands (the transfer is itself a fact worth holding)
+but the compile pass excludes `is_transfer` lines from the total, counting the
+receiving body's own spend instead. Where we do *not* hold the receiving body's
+budget, the transfer line is the only record of the money and counts normally —
+set `is_transfer: false` and note why.
 
 ## Scope — which lines are digital
 
@@ -132,8 +208,14 @@ Every record carries:
 
 `published` anchors on the **appropriating or reporting event**: the date the
 appropriation act was assented to or the implementation report published, at day
-precision where stated; otherwise `fy_start`, `date_precision: year`. The
-document's own publication date is never the event date where the two differ
+precision where stated. Failing that, `published` = **`fy_start`** with
+**`date_precision: month`** — not `year`. A July–June fiscal year cannot be padded
+to `YYYY-01-01` without asserting a false event date and sorting a Kenyan FY2025/26
+line six months away from a Nigerian FY2025 one; `fy_start` at month precision is
+the honest form, and the spec's year-padding rule does not apply because the
+anchor here is a known fiscal-year boundary, not a bare year.
+
+The document's own publication date is never the event date where the two differ
 (`CLAUDE.md` → *Currency*).
 
 ## Budget stage and version
@@ -148,6 +230,15 @@ key stem, not one record overwritten.
 `audited` (auditor-general verified).
 
 **`budget_version`** — `original` | `supplementary-1`, `-2`, … | `revised`.
+
+**A supplementary states either an increment or a restated total, and which one
+must be recorded** — `supplementary_basis`: `increment` | `restated-total`. Two
+records at the same stage for the same line stem would otherwise be summed, which
+is the same double-count as external financing wearing different clothes. Where
+the basis is `restated-total`, the supplementary **supersedes** the original for
+totalling purposes; both records stand, per `CLAUDE.md` → *Currency*
+(supersession is not contradiction). Where the document does not make the basis
+clear, record `unclear` and exclude the line from totals rather than guessing.
 
 **MTEF outer-year projections are not records.** A medium-term expenditure
 framework's years 2 and 3 are indicative planning figures, not appropriations —
@@ -191,21 +282,34 @@ transfers). Verbatim; do not map to a house vocabulary.
   salaries and allowances versus actual build, and a "details" text field cannot
   answer it. Where the document gives only a combined figure, fill `amount_total`
   and leave the other two blank — never split them ourselves.
+- **`amount_scale`** — **the first thing to establish and the easiest error to
+  make.** Budget tables are printed in thousands or millions, stated once in a
+  column header or a note that may be three hundred pages from the line
+  (`N'000`, "in millions of Kenya shillings", `en milliers de FCFA`). Record the
+  scale as printed **and store all amounts normalised to units**. A missed scale
+  header is a 1,000× error that looks entirely plausible on the page. Check that
+  `amount_capital + amount_recurrent = amount_total` on every line where all
+  three are given; a mismatch means a scale or a column has been misread, and the
+  line is not recorded until it resolves.
 - **`currency`** — ISO-4217, the announcing state's own currency
-  (`CLAUDE.md` → *Currency*).
-- **`amount_usd`** — a **dated conversion**, carrying `fx_rate`, `fx_rate_date`
-  and `fx_rate_source` on the record. Use the **fiscal-year average rate** from a
-  named source (IMF IFS, or the central bank's own published average), not spot
-  at capture: spot-converting a 2019 naira line and a 2025 one and summing them
-  produces a number that means nothing.
-- **`pct_of_total_budget`** and **`pct_of_admin_head`** where the document states
-  the denominators. These are the comparisons that survive inflation and
-  depreciation, and across a decade of budget data they are more informative than
-  any USD series. Compute only from figures in the same document; never against a
-  denominator fetched from elsewhere.
-
+  (`CLAUDE.md` → *Currency*). **Redenominations break original-currency series**:
+  Sierra Leone's SLL→SLE (1,000:1, 2022), Ghana's and Zambia's earlier
+  redenominations. Record the code in force in that fiscal year — never
+  back-convert historic figures — and note the break where a series spans one.
+- **`amount_usd`** — a **dated conversion**, carrying `fx_rate`, `fx_rate_date`,
+  `fx_rate_source` and `fx_rate_basis` on the record. Use the **fiscal-year
+  average rate** from a named source (IMF IFS, or the central bank's own published
+  average), not spot at capture: spot-converting a 2019 naira line and a 2025 one
+  and summing them produces a number that means nothing. Two fallbacks, in order,
+  because a July–June year has no published calendar-year average and a current
+  year has no average at all: **(a)** the mean of the twelve monthly averages
+  spanning `fy_start`–`fy_end`, `fx_rate_basis: fy-average-computed`; **(b)** for
+  an incomplete fiscal year, the rate at `fy_start`, `fx_rate_basis: fy-start-spot`
+  — and that record's USD figure is provisional, to be recomputed when the year
+  closes. Where a state runs a multiple or heavily managed exchange rate, say
+  which rate was used; the official rate is often not the transacting one.
 **Never sum USD across fiscal years** in a compiled total. Aggregate within a
-year, or aggregate in original currency, or use the percentage fields.
+year, or aggregate in original currency.
 
 ## State level — what counts as domestic state
 
@@ -225,17 +329,27 @@ they are not appropriations would miss the money.
   vocabulary and is not being extended. The sub-national unit is an **entity**
   (`lagos-state-government`, `nairobi-city-county`) plus **`spending_tier_name`**
   verbatim.
-- For `soe`, `levy-fund` and `regulator`, `budget_stage` is usually `appropriated`
+- For `levy-fund` and `regulator`, `budget_stage` is usually `appropriated`
   (board-approved budget) or `actual`; funding source is `own-source` and origin
-  is `domestic-state`.
+  is `domestic-state` — a levy or licence fee is state revenue by another route.
+- **SOEs: the origin of the money decides.** *(Bill's ruling, 2026-07-22.)* An
+  SOE spending income that is not the state budget — commercial revenue, its own
+  borrowing — is a **non-state** funder: its investments belong to the news
+  driver, exactly as a private operator's do. What this driver captures is the
+  **state → SOE flow**: a subvention, recapitalisation or appropriation to an SOE
+  is a `domestic-state` record with the fisc as financier and the **SOE as
+  recipient**, `state_level: soe`. An SOE wholly dependent on budget transfers
+  has no own-spend to record separately.
 
 ## Entities
 
 Per `CLAUDE.md` → *Entities*, and the spec. Three actors here, not two:
 
 - **Financier** — the fisc: the national or sub-national treasury/ministry of
-  finance, or the levy fund / SOE spending its own revenue. An institution, never
-  the minister who read the budget speech.
+  finance, or the levy fund / regulator spending its own levy or fee income. An
+  institution, never the minister who read the budget speech. An SOE is a
+  recipient or spending entity here, never the financier — its own-revenue spend
+  is non-state, per *State level*.
 - **Spending entity** — the MDA. Resolve against `wiki/entities/`.
 - **`vendor`** — the contractor or supplier, **where the document names one**.
   Often it does not; where it does, this is the most valuable field on the record.
@@ -244,8 +358,17 @@ Per `CLAUDE.md` → *Entities*, and the spec. Three actors here, not two:
 
 ## Record key and filename
 
-`deal_id` stem: `{ISO3}-{fy_label}-{admin_head_code}-{programme_code}-{stage}`,
-lowercased, non-alphanumerics to hyphens — e.g. `nga-2025-0522-erp01-appropriated`.
+`deal_id` stem:
+`{ISO3}[-{tier-slug}]-{fy_label}-{admin_head_code}-{programme_code}-{stage}`,
+lowercased, non-alphanumerics to hyphens — e.g.
+`nga-2025-0522-erp01-appropriated`, `nga-lagos-state-2025-05-erp01-appropriated`.
+
+**The tier slug is mandatory for anything not `state_level: national`.** Without
+it, Lagos State and Kano State vote 05 programme ERP01 collide on one key — and
+since the stem is also the appropriation↔outturn join, a collision would silently
+merge two states' execution rates. Vote numbering is not comparable across
+sub-national units and must never be assumed unique.
+
 Where a code is genuinely absent, use a slug of the name and note it. The stem
 without `-{stage}` is what links appropriation to outturn.
 
@@ -262,27 +385,72 @@ Every record carries **`doc_type`** and **`doc_locator`**:
 - `doc_locator` — page, table and line reference as printed
   (`p. 412, head 0522, line 23050113`).
 
+`doc_type` and `doc_locator` apply to `source_tier: budget-document`. A record
+built from reporting or a statement cites that source normally, per the spec, and
+leaves both blank.
+
+### The budget document gets one companion source page
+
+A 600-page appropriation act cannot be a verbatim body, and forty records will
+cite the same document. So the document is stored **once**, as a companion source
+page per `reference.md` §3, holding the citation, the scope of the document, the
+classification structure and the scale/currency headers — with
+`body_completeness: excerpt` and a note that the body is a structured extract of a
+tabular document, not a withheld text. Every record from that document links to
+it. This is what stops lint #15 inferring `full` on a body that was never prose.
+
+Each record's own `## Description` carries the **line's stated purpose, verbatim**
+— the programme narrative or project description as printed — and nothing else.
+Where the document gives only a title, the description is blank; that is normal
+for budget data and must not be filled with the title reworded.
+
+**Capture the title and description in the document's own language.** Do not
+translate French, Portuguese or Arabic budget lines into English on the page —
+the spec's verbatim rule holds, and a translated programme title is unfindable
+against the source. Add a translation in `## Notes` where it aids the reader.
+
+**A budget document that cannot be fetched goes to `reviews/acquisitions.md`**,
+one automated attempt, per `CLAUDE.md` → *Working the base*. Records built from
+reporting stand meanwhile — they are not provisional, and they are not waiting on
+anything; if the document later arrives, case 5 resets them. If it stays
+unobtainable, state the absence on the place hub as a dated finding — "no
+published FY2025 outturn for the ICT vote as at 2026-07-22" is itself worth
+saying — and do not leave it as a standing chore.
+
 ## Additional frontmatter
 
-On top of the spec's schema:
+Frontmatter carries **what the compile pass aggregates or filters on**; everything
+else renders as rows in the `## Deal record` table. On top of the spec's schema:
 
 ```yaml
 finance_origin: domestic-state   # or non-state, per the origin gate above
-state_level: national
+state_level: national            # national | sub-national | soe | levy-fund | regulator
+spending_tier_name: ""           # verbatim, required unless state_level: national
 fiscal_year_label: "2025"
 fy_start: 2025-01-01
 fy_end: 2025-12-31
-fy_calendar: gregorian
-budget_stage: appropriated
+budget_stage: appropriated       # unclear, where a reporting source doesn't say
 budget_version: original
+source_tier: budget-document     # budget-document | official-statement | reporting
+supplementary_basis: ""          # increment | restated-total | unclear (supplementaries only)
 scope_confidence: whole          # whole | partial | unclear
-funding_source: domestic-revenue
-doc_type: appropriation-act
+is_transfer: false
+amount_total: 4200000000         # normalised to units, original currency
+amount_capital: 3100000000
+amount_recurrent: 1100000000
+currency: NGN
+amount_usd: 2734000
+fx_rate: 1536.0
+fx_rate_basis: fy-average        # fy-average | fy-average-computed | fy-start-spot
 ```
 
-The remaining fields (classification, amounts, FX, vendor, `scope_basis`,
-`doc_locator`) render as rows in the `## Deal record` table, not as frontmatter —
-frontmatter carries only what the compile and lint passes filter on.
+The amount and FX fields sit here because `FINANCE-COMPILE.md` sums them by
+script; putting them in a markdown table would force the compile to parse prose.
+
+In the body table, not frontmatter: `funding_source`, `fy_calendar`,
+`amount_scale`, `fx_rate_date`, `fx_rate_source`, the full
+classification chain and its labels, `econ_class`, `vendor`, `scope_basis`,
+`doc_type`, `doc_locator`.
 
 ## Loop
 
@@ -290,12 +458,21 @@ For each budget line: run the **scope** test → run the **origin gate** (extern
 lines divert to definite-match, and mostly to a merge, not a new record) → run the
 spec's five-fact test → map fields → hand to `wiki/finance-record-spec.md` → write
 one file to `new/` → append one line to `documentation/domestic-finance-run-log.csv`
-(`deal_id, file, country, fy, stage, origin, scope_confidence, amount_total,
-currency, matched_to, warnings`) → append any new extraction method to
+(`deal_id, file, country, state_level, fy, stage, version, origin,
+funding_source, scope_confidence, is_transfer, amount_total, currency,
+doc_locator, matched_to, warnings`) → append any new extraction method to
 `documentation/domestic-budget-extraction.md`. Moving the file into `new/` is the
 last step, so an interrupted run resumes on the lines not yet written.
 
 Work a document at a time, over all its digital lines at once, never a selection.
+
+**Back-swing mode.** Candidate set: `raw/` items carrying a `finance.*` tag that
+report domestic state spend and have no `deal_id` — including everything the news
+driver logged `origin: domestic-state — skipped`. Work the whole set in one pass.
+Each item runs the five cases: mostly case 4 (reporting only), sometimes case 3
+(the wiki already holds the budget document) or case 5 (it has since arrived).
+**The source page stays where it is and is not rewritten** — the record cites it.
+Log per item: `deal_id | source file | case | source_tier | failed-fact NN`.
 
 ## Close
 

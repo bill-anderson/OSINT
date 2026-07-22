@@ -102,8 +102,8 @@ Neither is a dated source nor a lead.
 
 ### Finance subject vs deal entity
 
-`finance.new` / `finance.mou` are **SUBJECT** tags meaning "this is about
-investment / agreements".
+`finance.new` / `finance.mou` / `finance.budget` are **SUBJECT** tags meaning
+"this is about investment / agreements / state budget allocation".
 
 - A *specific* transaction or MoU is recorded as a **dated fact** on the pages it
   touches (the parties' entity tags + `finance.mou` + places/topics).
@@ -258,6 +258,17 @@ body_completeness: full   # full | excerpt | paywalled
 | `excerpt` | verbatim *portion* kept when the full text is genuinely unavailable (fetch failure, hard paywall serving nothing usable) |
 | `paywalled` | HTTP-200 paywall serving only a free lede; kept **only** where the free body *excluding the title* adds value |
 | *(missing)* | **unverified** — completeness not asserted. New ingests always set the field; a blank is a legacy source, and `full` is never assumed of it. Backfilled from body evidence by lint #15. |
+
+**Finance records extend this schema.** A source built by a finance driver adds
+`deal_id`, `finance_origin` and whichever driver-supplied fields the compile pass
+aggregates — see `wiki/finance-record-spec.md` and the drivers. Lint neither
+validates nor strips them; they are sanctioned there, not here.
+
+**A structured extract of a tabular document is `excerpt` and stays `excerpt`.**
+The overwrite-with-fuller-text rule below targets paraphrase and truncation of
+*prose*. A budget document's companion source page holds its citation, structure
+and headers by design — the 600 pages of tables were never a body to withhold, and
+re-capturing them would not complete the record.
 
 **Paywalled-stub promotion gate.** A `paywalled` item whose payload depends on
 the withheld body needs a **manual subscriber clip before promotion**. One whose
@@ -508,8 +519,10 @@ are `CLAUDE.md` → *Duplicates* (**drop / replace / keep both**); the mechanics
 When same-vs-new is genuinely unclear, prefer attaching to the existing page and
 note the uncertainty in `log.md` rather than creating a near-duplicate.
 
-**2a. Finance branch.** If the item carries `finance.new` or `finance.mou`, run
-`finance-news-driver.md` (capture mode) *before* continuing. It applies the
+**2a. Finance branch.** If the item carries **any `finance.*` tag**, run the
+matching driver *before* continuing — `finance-news-driver.md` (capture mode) for
+`finance.new`/`finance.mou`, `finance-load-domestic-state.md` for
+`finance.budget`. It applies the
 **five-fact test** in `wiki/finance-record-spec.md` — financier, recipient place,
 commitment amount, event date, taxonomy-matchable purpose — and then:
 

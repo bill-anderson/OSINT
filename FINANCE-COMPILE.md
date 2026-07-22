@@ -40,13 +40,23 @@ query-time derivation (`CLAUDE.md` → *Working the base*). For **each place**
      `amount_usd` across fiscal years — a decade of naira lines converted at
      their own dated rates and added together is not a quantity. Report per-year
      figures in the state's own currency, with the USD conversion beside each as
-     a dated figure, and use `pct_of_total_budget` for any trend statement.
+     a dated figure; a trend statement compares per-year figures in the original
+     currency.
    - **Split by `budget_stage`, never merge stages.** Report appropriated and
      actual separately, and where the same line stem carries both, report the
      **execution rate**. That gap is the finding this dataset exists to surface.
    - **Report `scope_confidence: partial` and `unclear` records apart from the
      headline total**, as a stated count and amount. A total mixing clean lines
      with partial ones is worse than no total.
+
+   Three exclusions from the headline total, all set at capture, none inferred
+   here: `is_transfer: true` lines (counted at the receiving body instead); the
+   **original** line wherever a `supplementary_basis: restated-total`
+   supplementary exists for the same stem and stage — the supplementary
+   supersedes it and is counted in its place (an `increment` supplementary counts
+   *alongside* its original); and any line whose `supplementary_basis` is
+   `unclear`. Report each exclusion's count and amount rather than dropping it
+   silently.
 
    Externally-financed budget lines carry `finance_origin: non-state` by the
    driver's origin gate and so land in the non-state total — they are **not**

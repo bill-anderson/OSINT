@@ -48,13 +48,16 @@ restating it.
    figure that is neither — an "up to", an intention to invest, a mobilisation
    target, a valuation or market size. Carry the amount in the announcing party's
    own currency per `CLAUDE.md` → *Currency*.
-   For a domestic-state record, an **enacted appropriation** satisfies this, as
-   does any figure at a later stage (released, executed, audited) — the stage is
-   recorded, never conflated. **MTEF and medium-term outer-year projections fail**:
+   For a domestic-state record, a **budget figure at any stage** satisfies this —
+   proposed (tabled), appropriated, released, executed, audited — with the stage
+   recorded, never conflated: `budget_stage` carries the epistemic status, so a
+   tabled figure is a record at `proposed`, not a failure. *(Bill's ruling,
+   2026-07-22.)* **MTEF and medium-term outer-year projections still fail**:
    they are indicative planning figures, the budget equivalent of an "up to".
 4. **A date of the commitment is identified — a year is enough.** The
    commitment/approval/signature event, never the publication date. Padded to
-   `YYYY-01-01` per *Dates*.
+   `YYYY-01-01` per *Dates*, or carried at its true precision where the driver
+   knows one.
 5. **The purpose can be matched to our taxonomy.** The test is **mappability, not
    completed classification**. *(Curator ruling, 2026-07-22.)* The source must say
    what the money is *for*, in terms a `taxonomy.md` slug could be resolved from —
@@ -149,7 +152,8 @@ the vocabulary.
 
 ## Entities
 
-Tag two actors — the **financier** and the **recipient**.
+Tag two actors — the **financier** and the **recipient** — and a third, the
+**vendor/contractor**, where a driver supplies one and the source names it.
 
 - **Financier** — resolve to the slug the wiki already uses, by checking
   `wiki/entities/` and `entities-index-organisations.md` (so `world-bank`, not a
@@ -184,6 +188,12 @@ Anchor on the **commitment/approval event**, not a publication date:
 
 - `published` = commitment year, else start year, padded to `YYYY-01-01`;
   `date_precision: year`, `date_source: source`.
+- **Where the driver has a dated event or a known period boundary, use it at its
+  true precision** rather than padding: an appropriation act's assent date at
+  `day`, a fiscal-year start at `month`. Padding exists to stop a bare year
+  asserting a January event; it must not be applied to a date we actually know,
+  and a July–June fiscal year padded to `YYYY-01-01` would sort six months from
+  the event. `date_precision` states which case applies.
 - **If neither year exists, do not build a record — file the item to `_leads/`**
   and log it. *(Curator ruling, 2026-07-21. This replaces an earlier instruction to
   fall back to the access date with `date_source: proxy`, which contradicted the
@@ -248,8 +258,9 @@ type: source
 title: <title>
 url: <source_url — first URL only if several>
 publisher: <financier>
-published: <YYYY-01-01 from commitment|start year, else access date>
-date_precision: year        # year (a record always has an event year)
+published: <YYYY-01-01 from commitment|start year; or a known event date / period
+                             boundary at its true precision — see Dates>
+date_precision: year        # day | month | year — a record always has an event date
 date_source: source         # source (no proxy dating — see Dates)
 places: [<recip ISO-3>]
 topics: [<crosswalk/derived slug>, finance.new, <dpi.id/dpi.pay if flagged>]
@@ -313,8 +324,14 @@ line — only its genuine added detail, never its body:
 result, any drift or contradiction flag>
 ```
 
-Render only body-table rows that have a value; drop empty ones. `deal_id` is the
-one deal attribute kept in frontmatter, as the dedup/traceability key.
+Render only body-table rows that have a value; drop empty ones. `deal_id` is kept
+in frontmatter as the dedup/traceability key, alongside whichever driver-supplied
+fields the compile and lint passes filter on.
+
+**A recorded `0` is permitted where the source states nil** — and only there. The
+prohibition above is on writing `0` for an *unknown*; a stated nil is a fact, and
+in budget data often the most important one (voted, released nothing). Mark it
+`0` with the source's own wording in `## Notes`; leave genuinely unknown blank.
 
 ## Store of record, merging and compilation
 
