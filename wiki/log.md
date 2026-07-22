@@ -6,6 +6,93 @@ Reporting): a few lines each, full detail in `log-archive.md` or git.
 
 ---
 
+## 2026-07-22 — budget-extract review: two fixes applied, ready to test
+
+Read the whole chain (BUDGET-EXTRACT.md, strategy library, budget-archive/, reference §2, driver
+bare-year ruling, sweep chain-wiring, rebuilt manifest). Verdict: coherent; PDFs confirmed gitignored.
+**Fixes:** (1) **step 5's case-5 lookup would have missed the one record needing reset** — it read
+"run-log … `source_tier: reporting`", but the run-log has no source_tier column and
+`zaf-2024-25-vote-30-sa-connect-proposed` is `official-statement`; rewritten to grep `raw/` frontmatter
+for anything but `budget-document`. (2) manifest `retrieved` dates normalised DD/MM/YYYY → ISO.
+Revert: `git checkout <sha> -- BUDGET-EXTRACT.md new-budget/manifest.csv`.
+
+contradictions - 0 ; acquisitions - 0 ; awaiting ingest - 0 ; decisions logged - 2
+
+## 2026-07-22 — budget extraction starter pack, from the ZAF FY2024/25 corpus
+
+Inspected all 9 held ZAF documents and wrote the starter pack. **Nothing extracted yet** — no records
+built, no documents archived.
+
+- **`BUDGET-EXTRACT.md`** — CC's runnable pass (`"run budget extract"`): inspect → is the strategy
+  library fit → extract, or add one archetype then extract → **case-5 reset** of reporting-built
+  records → archive. Deliberately separate from the strategies (Bill).
+- **`documentation/budget-extraction-strategies.md`** — the growing library, **keyed to structural
+  archetypes, not countries or documents**, so it stays bounded rather than becoming case law.
+- **`budget-archive/{ISO3}/`** — extracted documents (Bill). Folder as state: `new-budget/` = held,
+  archive = done.
+
+**Findings that shaped the design:**
+
+- **All 9 have clean text layers; `pdftotext -layout` is sufficient.** No OCR, no ML table extraction,
+  pdfplumber not needed once. This is a text-processing problem.
+- **Nine documents, five archetypes** (per-vote programme chapter; consolidated appropriation
+  schedule; adjustments schedule; cross-vote statistical annexure; annual report with audited
+  appropriation statement), plus narrative audit — context and contradiction leads, **no records**.
+- **Cross-document reconciliation works to the rand** — R3,968,611k identical across ENE, B5, AENE,
+  stats annexure and the annual report. Made a required step, not a nicety.
+- **First real finding, from that chain:** Vote 30 Programme 5 (ICT Infrastructure) approved
+  R1,922.7m → final R1,768.9m after a R153.8m virement out → **actual R755.2m, 42.7% execution**.
+  Over a billion rand voted for broadband and unspent — invisible in any single document.
+- **Three scales in one country-year** (`R million` / `R thousand` / `R'000`), varying *between tables
+  in one document* → scale is read per table, proved by capital+recurrent=total.
+- **Sweep feedback:** the s32 treasury statement is aggregate-only and supports no record — stop
+  fetching it. The full ENE's Vote 30 chapter is byte-identical to the standalone, so redundant for
+  single-vote capture but the **only** tool for the cross-vote scope question (digital money also sits
+  in home affairs, treasury financial-management systems, etc.).
+
+**Decisions:**
+
+- **Binaries were already out of git** — the repo-wide `.gitignore` binary rule covers them, so Bill's
+  concern needed no new mechanism. **Extracted tables are committed as CSV**: a lost PDF is
+  re-fetchable from the manifest URL, a lost figure is not, and this keeps `doc_locator` checkable
+  even if the artefact goes. *Revert: budget-archive/README.md.*
+- **Strategy and judgement stay in separate files** (CC) — strategies get the table out;
+  `finance-load-domestic-state.md` and `domestic-budget-extraction.md` decide what it means.
+- **One modification attempt per stubborn document**, then log and move on — same discipline as the
+  acquisition pass, so step 4 cannot loop forever.
+
+- **Folders are `{ISO3}/{FY}/`** in both `new-budget/` and `budget-archive/` (Bill), so the path *is*
+  the country-year and two years of one country cannot mix in one reconciliation. Path answers *which
+  run acquired this*; the companion's `fiscal_years_covered` still answers *which years the document
+  supports*, which is often more. Bill is moving the existing ZAF files.
+- **`{FY}` is always the bare start year — `2024`, never `2024-25`** (Bill), meaning the fiscal year
+  beginning in it, so ZAF 2024/25 and NGA calendar 2024 share one form. Applies everywhere **CC**
+  names a year: invocation, folders, `sweep_batch`, run log, and the `{fy}` element of `deal_id`
+  (`zaf-2024-…`). **Exception: the stored `fiscal_year_label` stays verbatim** — it is the tie back
+  to the source. *Existing records carry mixed forms (`zaf-2024-25-…`, `civ-2024-2025-…`);
+  normalising them means renaming `raw/` files and rewiring links, so it is flagged as a separate
+  migration, not ridden along on a naming change.* *Revert: the Fiscal years and Record key sections
+  of the driver, §2 of reference.md.*
+- **Extract deletes emptied `new-budget/` folders** (Bill's question — yes). An empty folder there
+  asserts documents are waiting when none are, and git doesn't track empty dirs, so a leftover is
+  invisible in the repo and misleading on disk. Never deleted: `manifest.csv` rows, anything in
+  `budget-archive/`, and any folder still holding an unprocessed document.
+- **Budget extract runs at the end of every sweep** (Bill), after this pilot — staged documents are
+  inert until extracted, so the chain is **sweep → budget extract → ingest → finance compile**. It
+  drains *every* country-year in `new-budget/`, not only the one just swept. Multiple `{ISO3}/`
+  folders are a normal, harmless state: archiving is the last step, so anything left is unfinished
+  and the next run resumes on exactly that. **Country-year is read from `manifest.csv`, never from
+  the folder path** — folders have no year level, so a country swept for two years before either is
+  extracted holds both in one folder, and grouping by folder would mix years and break the
+  year-specific reconciliation checks.
+
+**Open for the first run:** the held record `zaf-2024-25-vote-30-sa-connect-proposed` says R1,858m
+from Malatsi's speech; the ENE shows Broadband sub-programme R1,894.6m and computer services within
+Programme 5 R1,859.5m. Three referents within R37m. Case 5 must pick one, say why, and file the rest
+as a contradiction.
+
+contradictions - 0 ; acquisitions - 0 ; awaiting ingest - 0 ; decisions logged - 3
+
 ## 2026-07-22 — ingest (lint skipped per Bill): Malatsi speech filed; SA Connect FY2024/25 record built
 
 Drained `new/` (1): the ZAF budget-vote speech admitted to `raw/` (official-statement, appended to

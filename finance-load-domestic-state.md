@@ -220,10 +220,21 @@ This settles the scope cut too: **FY2024 onwards = fiscal years beginning on or
 after 1 January 2024**. Kenya's 2023/24 is therefore out and 2024/25 is its first
 in-scope year, even though 2023/24 ran halfway through 2024.
 
-The rule governs **instructions only**. The stored `fiscal_year_label` stays
-verbatim as the document writes it — the corpus already carries `2024/25`,
-`2024-2025`, `2025/26` and `NDP 12`, and normalising them would destroy the tie
-back to the source.
+**The bare start year is the form used everywhere CC names a fiscal year**
+*(extended 2026-07-22)* — the invocation, the `new-budget/` and `budget-archive/`
+folders, `sweep_batch`, the run log, and the `{fy}` element of a `deal_id`. So
+`zaf-2024-…`, not `zaf-2024-25-…`. One form, so keys join across countries whose
+documents label years differently.
+
+**The stored `fiscal_year_label` is the exception and stays verbatim** as the
+document writes it — the corpus carries `2024/25`, `2024-2025`, `2025/26` and
+`NDP 12`. That field is the tie back to the source and normalising it would break
+the citation; the bare year is for *our* naming, not for quoting the document.
+
+*Records built before this ruling carry mixed `deal_id` year forms
+(`zaf-2024-25-…`, `civ-2024-2025-…`). Normalising them means renaming files in
+`raw/` and rewiring links — a migration in its own right, not a side-effect of a
+naming change. New records use the bare year; the back-fill is a separate job.*
 
 Every record carries:
 
@@ -386,9 +397,12 @@ Per `CLAUDE.md` → *Entities*, and the spec. Three actors here, not two:
 ## Record key and filename
 
 `deal_id` stem:
-`{ISO3}[-{tier-slug}]-{fy_label}-{admin_head_code}-{programme_code}-{stage}`,
+`{ISO3}[-{tier-slug}]-{fy}-{admin_head_code}-{programme_code}-{stage}`,
 lowercased, non-alphanumerics to hyphens — e.g.
 `nga-2025-0522-erp01-appropriated`, `nga-lagos-state-2025-05-erp01-appropriated`.
+
+**`{fy}` is the bare start year**, not the document's label: `zaf-2024-…` for
+FY2024/25. See *Fiscal years* above.
 
 **The tier slug is mandatory for anything not `state_level: national`.** Without
 it, Lagos State and Kano State vote 05 programme ERP01 collide on one key — and

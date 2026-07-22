@@ -237,9 +237,12 @@ already be held; that is success, not a wasted run.
 - **Prose sources → `new/`** — news, statements, press releases, decrees,
   investigative reporting. Flat, date-prefixed, best-effort frontmatter. These
   ingest normally and are the driver's case-4 material.
-- **Budget documents → `new-budget/{ISO3}/`** *(Bill's ruling, 2026-07-22)* — the
-  artefact **and its companion markdown together, in the same folder, same date
-  prefix.** Both wait for the extraction pass.
+- **Budget documents → `new-budget/{ISO3}/{FY}/`** *(Bill's ruling, 2026-07-22)* —
+  the artefact **and its companion markdown together, in the same folder, same date
+  prefix.** Both wait for the extraction pass. **`{FY}` is always the bare start
+  year** — `new-budget/ZAF/2024/`, never `2024-25` — the same year the invocation
+  names, so the path is the country-year and two years of one country never mix
+  (`reference.md` §2).
 
 **Why they sit together** *(Bill's catch, 2026-07-22 — the first draft split them,
 which was a bug).* A companion page describes a document that has not been
@@ -252,8 +255,9 @@ folder is its state (`CLAUDE.md` → *Structure*); the pair's state is *held, no
 extracted*, so the pair stays together.
 
 **Nothing in `new-budget/` counts as `awaiting ingest`**, and ingest never drains
-it (`reference.md` §2, §7). Append a row to **`new-budget/manifest.csv`** for each
-document staged:
+it (`reference.md` §2, §7). The extraction pass empties and deletes the folder when
+it is done, so **a `new-budget/` folder existing always means work outstanding**.
+Append a row to **`new-budget/manifest.csv`** for each document staged:
 
 `iso3, fiscal_year, doc_type, title, url, artefact_path, companion_path, retrieved, scale, currency, pages, notes`
 
@@ -278,7 +282,7 @@ topics: [finance.budget, <sector slug where evident>]
 entities: [[<institution-slug>]]
 lens: []
 retrieved: <YYYY-MM-DD>
-sweep_batch: domestic-finance-<ISO3>-<fy-label>-<YYYY-MM-DD>
+sweep_batch: domestic-finance-<ISO3>-<FY>-<YYYY-MM-DD>   # FY = bare start year, e.g. 2024
 fiscal_years_covered: ["2024/25", "2025/26"]
 doc_type: <one value from the canonical list in finance-load-domestic-state.md
            → Source citation. Do not extend it here — one vocabulary, one home.>
@@ -308,6 +312,12 @@ dataset the gaps are half the story, and a country-year run that establishes *no
 outturn is published* has done its job.
 
 Then the status line.
+
+**Finish by running `BUDGET-EXTRACT.md`** *(Bill's ruling, 2026-07-22, after the
+ZAF pilot)*. Documents staged here are inert until extracted, so the sweep does
+not end at staging — the chain is **sweep → budget extract → ingest → finance
+compile**. Extract drains every country-year sitting in `new-budget/`, not only
+the one just swept.
 
 ---
 

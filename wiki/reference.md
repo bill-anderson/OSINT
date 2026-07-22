@@ -135,9 +135,12 @@ local style. Lint #12 checks this.
 new/                      # unprocessed intake queue — clips AND sweep candidates land here; drained on ingest
 new-queue/                # RETIRED as sweep target (2026-07-21); sweep now writes straight to new/
   done/                   # BILL'S. Human-owned; CC does not read, write or drain it
-new-budget/               # budget documents awaiting their own extraction pass — NOT an ingest queue
-  {ISO3}/                 #   artefact (PDF/XLSX/CSV) + its companion markdown, together
+new-budget/               # budget documents awaiting extraction — NOT an ingest queue
+  {ISO3}/{FY}/            #   artefact (PDF/XLSX) + its companion markdown, together
   manifest.csv            #   what is held and which country-year it belongs to
+budget-archive/           # budget documents already extracted (BUDGET-EXTRACT.md)
+  {ISO3}/{FY}/            #   artefact + companion + the extracted tables as CSV
+                          #   artefacts untracked (binary .gitignore rule); CSVs tracked
 sweep/                    # acquisition sweeps (upstream of new/):
                           #   daily-README.md  (daily trade-journal sweep procedure)
                           #   daily/           (its state)
@@ -176,11 +179,25 @@ queries/                  # read-only query workspace (§10)
 **`new-queue/done/` is Bill's.** Human-owned staging. CC does not read it, write to
 it, drain it, or count it in any tally.
 
+**`{FY}` is always the bare start year — `2024`, never `2024-25`**
+*(Bill's ruling, 2026-07-22)*. It means the fiscal year *beginning* in that year,
+so `2024` is South Africa's and Kenya's 2024/25 and Nigeria's calendar 2024
+alike — the same resolution rule that governs instructions
+(`finance-load-domestic-state.md` → *Fiscal years*). One form everywhere: the
+instruction, the folder and the run identifier all read `2024`, and no country's
+folder needs a different shape from another's.
+
+The document's own `fiscal_year_label` stays **verbatim** in its frontmatter
+(`2024/25`, `2024-2025`, `2017 EFY`). The folder is a path, not a citation.
+
+`{ISO3}/{FY}/` applies to `new-budget/` and `budget-archive/` alike, so a document
+keeps its shape when it moves between them, and a country swept for several years
+cannot mix them.
+
 **`new-budget/` is outside the ingest path, deliberately.** It holds budget
 documents — appropriation acts, estimates volumes, outturn reports, IFMIS and
 procurement extracts — staged by the domestic finance sweep
-(`sweep/domestic-finance-README.md`) and waiting on an extraction procedure that
-has not been written yet.
+(`sweep/domestic-finance-README.md`) and drained by `BUDGET-EXTRACT.md`.
 
 - **Ingest never drains it.** A 600-page appropriation act is not a source to be
   read and filed; it is a structure to be learned, and the first documents are
@@ -195,9 +212,13 @@ has not been written yet.
 - **It is not counted as `awaiting ingest`** in `STATUS.md`, and it is not a
   third queue in CLAUDE.md's sense — nothing drains it on a normal pass. The
   sweep reports what it staged; `manifest.csv` is the standing record.
-- **Nothing enters `raw/` from here except through the extraction pass**, when
-  written. That pass will produce ordinary source pages and finance records into
-  `new/`, and ingest is still the only door.
+- **Nothing enters `raw/` from here except through the extraction pass**
+  (`BUDGET-EXTRACT.md`, "run budget extract"). That pass produces source pages and
+  finance records into `new/`, and ingest is still the only door. On completion it
+  moves the artefact and its companion to **`budget-archive/{ISO3}/{FY}/`**
+  alongside the tables it extracted as CSV — folder as state, as everywhere else —
+  and **removes the emptied `new-budget/` folders**, so a folder that still exists
+  always means work outstanding.
 
 **`sweep/recapture/` is spent tooling**, not part of any standing procedure. It
 holds the scripts and ledger from the one-off verbatim re-capture run of 2026-07
