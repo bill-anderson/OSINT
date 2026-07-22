@@ -6,6 +6,21 @@ Reporting): a few lines each, full detail in `log-archive.md` or git.
 
 ---
 
+## 2026-07-22 — domestic finance sweep: ZAF 2025 → FY2025/26 — 7 documents + 2 prose staged
+
+Full enacted chain fetched by direct URL (the 2025 budget tabled three times; May "Budget 3.0" is the
+cycle): FullENE 2025 (**priority 0, obtained** — cross-vote available), Vote 30 chapter, B16-2025,
+FullAENE 2025, AENE Vote 30, B27-2025 — plus a block-7 find, the **Portfolio Committee budget-performance
+report** (2025-10-07: FY2024/25 execution 46% at Q3 → 73% at year-end, underspend 95–97% SA-Connect-driven,
+the January R1.4bn payment plan, the Reg 6.4 rollover). Prose: Malatsi 2025 budget-vote speech (FY2025/26
+**R2.545bn**; SA Connect **R710m MTEF**) and the **TechCentral original** of the DG's year-end account
+(R1.1bn → R116m in-year collapse; dept outturn R3.61bn of R3.74bn; eriinfo confirmed a mirror). Stage
+coverage: proposed/revised held; **outturn/audit not yet published** (AR ~Oct 2026, AGSA ~Mar 2027) —
+calendar gaps for the year-later re-run, not acquisitions. Chain: budget extract next.
+
+contradictions - 0 ; acquisitions - 0 ; awaiting ingest - 2 ; decisions logged - 0
+*(new-budget outstanding: ZAF/2025 — 7 documents awaiting extract)*
+
 ## 2026-07-22 — update-wiki: converged in 2 iterations; both B14 questions closed from acquired documents
 
 Passes: **ingest ×2, finance compile ×2, acquire ×1, budget extract ×1** (chain rule — acquired budget

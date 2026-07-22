@@ -126,6 +126,15 @@ carried them, where they hid, what you looked for and didn't find.
   hitting the programme that houses Justice Modernisation and the Information Regulator. Per-subprogramme
   impact needs the per-vote AENE chapters — the standing acquirable for any vote with a material B14 move.
 
+**ZAF 2025 sweep (2026-07-22):** the 2025 budget was tabled **three times** (Feb withdrawn, Mar revised,
+**May enacted — "Budget 3.0", 2025-05-21**); the enacted chain lives under `/documents/National
+Budget/2025May/`. Bills: `[B16-2025] Appropriation.pdf`, `[B27-2025] Adjustments Appropriation Bill.pdf`.
+AENE 2025 under `/documents/mtbps/2025/aene/` incl. `FullAENE.pdf`. FullENE 2025 has a page-count
+metadata quirk (reports 30pp; actually full volume, 37 vote markers, 4.5M chars). PMG hosts Portfolio
+Committee budget-performance reports as dated PDFs (`pmg.org.za/files/…pccommreport.pdf`) — block-7
+scrutiny with quarterly execution figures the budget documents never carry. FY2025/26 outturn/audit not
+yet published (DCDT AR ~Oct 2026; AGSA GR ~Mar 2027) — stage gaps, not acquisitions.
+
 ### Template for an entry
 
 ```markdown
