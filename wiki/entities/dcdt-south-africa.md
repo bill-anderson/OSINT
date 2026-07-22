@@ -7,7 +7,7 @@ topics: [dpi.govtech, gov.policy, include.divides, include.access, infra.connect
 lens: []
 status: active
 last_reviewed: 2026-07-14
-sources: [[2026-07-13 Digital-first must not become digital-only, says Malatsi], [2026-07-10 SOLLY MALATSI  Removing smartphone tax means access to opportunity], [2024-07-15-zaf-malatsi-budget-vote-30-speech-2024-25], [2023-12-12-zaf-pmg-nw3503-sa-connect-phase-2-budget-split], [2025-09-19-zaf-pmg-nw5126-sa-connect-phase-2-suspension-rollover], [2026-02-25-zaf-itweb-budget-2026-sa-connect-phase-two-ends], [2025-07-11-zaf-malatsi-budget-vote-30-speech-2025-26], [2026-06-18-zaf-techcentral-sa-connect-stalled-fy2025-26]]
+sources: [[2026-07-13 Digital-first must not become digital-only, says Malatsi], [2026-07-10 SOLLY MALATSI  Removing smartphone tax means access to opportunity], [2024-07-15-zaf-malatsi-budget-vote-30-speech-2024-25], [2023-12-12-zaf-pmg-nw3503-sa-connect-phase-2-budget-split], [2025-09-19-zaf-pmg-nw5126-sa-connect-phase-2-suspension-rollover], [2026-02-25-zaf-itweb-budget-2026-sa-connect-phase-two-ends], [2025-07-11-zaf-malatsi-budget-vote-30-speech-2025-26], [2026-06-18-zaf-techcentral-sa-connect-stalled-fy2025-26], [2026-05-12-zaf-malatsi-budget-vote-30-speech-2026-27]]
 ---
 
 # Department of Communications and Digital Technologies (DCDT, South Africa)

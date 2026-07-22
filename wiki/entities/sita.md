@@ -7,7 +7,7 @@ topics: [dpi.govtech, gov.policy, tech.industry]
 lens: []
 status: active
 last_reviewed: 2026-07-11
-sources: [[2026-07-07 South Africa's state IT agency is slowing government tech rollout], [2026-04-28 State broadband merger limps into a second decade], [2026-03-08 South African police forced to track firearms with pen and paper after R1-billion system blunder], [2024-07-15-zaf-malatsi-budget-vote-30-speech-2024-25], [2026-03-26-zaf-agsa-pfma-2024-25-government-ict-findings], [2023-12-12-zaf-pmg-nw3503-sa-connect-phase-2-budget-split], [2025-07-11-zaf-malatsi-budget-vote-30-speech-2025-26]]
+sources: [[2026-07-07 South Africa's state IT agency is slowing government tech rollout], [2026-04-28 State broadband merger limps into a second decade], [2026-03-08 South African police forced to track firearms with pen and paper after R1-billion system blunder], [2024-07-15-zaf-malatsi-budget-vote-30-speech-2024-25], [2026-03-26-zaf-agsa-pfma-2024-25-government-ict-findings], [2023-12-12-zaf-pmg-nw3503-sa-connect-phase-2-budget-split], [2025-07-11-zaf-malatsi-budget-vote-30-speech-2025-26], [2026-05-12-zaf-malatsi-budget-vote-30-speech-2026-27]]
 ---
 
 # State Information Technology Agency (SITA)

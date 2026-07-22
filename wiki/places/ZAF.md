@@ -321,6 +321,15 @@ paid. **The government's arithmetic corroborates the plaintiffs.** Full case:
   data-governance question here is who holds and answers for the collected data.* See
   [[digital.localgov]], [[tech.ai]], [[finance.mou]], [[dpi.govtech]]. Source:
   [[2026-07-20-joburg-cisco-jozi-my-jozi-smart-city-mou]].
+- **2026-05-12** — **The National AI Policy is withdrawn — over AI.** Tabling the FY2026/27 budget
+  vote, Minister **Malatsi** confirmed the **Draft National AI Policy was withdrawn** after "the
+  revelation that generative AI was used irresponsibly during the drafting of this policy", announced an
+  internal responsible-AI-use policy for the department, and appointed an **Independent Expert Review
+  Panel** chaired by **Prof Benjamin Rosman** (with Vukosi Marivate, Alison Gildwald, Heather Irvine,
+  Tshepo Feela, Jabu Mtsweni, Lufuno Tshikalange) to rebuild it for re-consultation. Same speech: DBSA
+  puts the connectivity access gap at **2.2% of households**; REIT-regime extension to digital
+  infrastructure supported; partial privatisation of portfolio SOEs openly tabled. See [[tech.ai]],
+  [[gov.policy]]. Source: [[2026-05-12-zaf-malatsi-budget-vote-30-speech-2026-27]].
 - **2026-03-26** — **The AG audits the state's ICT function: R12.1bn of failing projects.** The
   **[[agsa]]** Consolidated General Report 2024-25 evaluated **72 ICT projects at 44 auditees**, reporting
   findings at 23 auditees on **41 projects with a combined value of R12.1bn** that failed time, cost,
@@ -610,7 +619,7 @@ linked source pages, the entity pages and the six [[south-africa--dpi-id|interse
 
 Instrument mix: Equity 36, Commercial loan 9, TA 5, Grant 2, Corporate capital investment 2, Guarantee 1, Buyer's credit 1, Syndicated loan 1, Loan 1, 50:50 joint venture 1.
 
-**Domestic state** — 43 budget lines held (national; first capture 2026-07-22). FY2024/25: R5.095bn appropriated (17 lines); FY2024/25: R908m audited (6 lines); FY2024/25: R1.111bn revised; FY2025/26: R3.283bn appropriated (15 lines); FY2025/26: R1.251bn revised. **Execution against appropriation (2024/25, 2025/26): vote 30 sa connect 39%; vote 30 p2 international 86%; vote 30 p3 policy research 65%; vote 30 p5 bdm 68%; vote 30 p5 ict support 69%; vote 30 p6 information society 87%.** Reported apart from the headline: R1.597bn (2024/25, partial-scope, appropriated); R1.769bn (2025/26, partial-scope, appropriated); R1.741bn (2024/25, partial-scope, audited) — partial/unclear scope, not folded into clean totals. Amounts in the announcing state's own currency; stages as stated, never merged; no cross-year USD summation.
+**Domestic state** — 56 budget lines held (national; first capture 2026-07-22). FY2024/25: R5.095bn appropriated (17 lines); FY2024/25: R908m audited (6 lines); FY2024/25: R1.111bn revised; FY2025/26: R3.283bn appropriated (15 lines); FY2025/26: R1.251bn revised; FY2026/27: R2.915bn appropriated (11 lines). **Execution against appropriation (2024/25, 2025/26, 2026/27): vote 30 sa connect 39%; vote 30 p2 international 86%; vote 30 p3 policy research 65%; vote 30 p5 bdm 68%; vote 30 p5 ict support 69%; vote 30 p6 information society 87%.** Reported apart from the headline: R1.597bn (2024/25, partial-scope, appropriated); R1.769bn (2025/26, partial-scope, appropriated); R1.741bn (2024/25, partial-scope, audited); R1.297bn (2026/27, partial-scope, appropriated); R396.9m (2026/27, partial-scope, appropriated) — partial/unclear scope, not folded into clean totals. Amounts in the announcing state's own currency; stages as stated, never merged; no cross-year USD summation.
 
 Material deals: [[2022-01-01-vodacom-zaf-spectrum-5g-2022-vodacom-south-africa-5g4g-spectrum-acquisition]], [[2024-01-01-actis-zaf-swiftnet-2024-actis-led-consortium-acquisition-of-swiftnet-telecom]], [[2022-01-01-mtn-zaf-spectrum-5g-2022-mtn-south-africa-5g4g-spectrum-acquisition]], [[2026-01-01-microsoft-zaf-azure-expansion-2026-microsoft-south-africa-329m-data-centre]], [[2025-01-01-microsoft-zaf-azure-expansion-2025-microsoft-azure-south-africa-zar-54b]], [[2024-01-01-aws-zaf-cloud-2024-aws-africa-south-africa-cloud-and]].
 

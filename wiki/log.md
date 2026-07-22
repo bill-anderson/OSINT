@@ -6,6 +6,19 @@ Reporting): a few lines each, full detail in `log-archive.md` or git.
 
 ---
 
+## 2026-07-22 — update-wiki: converged in 1 iteration; ZAF three-year series live
+
+Passes: **ingest ×1, finance compile ×1, full lint ×1**; reconcile/acquire skipped (0). 13 records + the
+May-2026 speech admitted (`raw/` domestic records: 74, ZAF 56). One hub bullet added (non-finance
+governance event): **the National AI Policy withdrawn over irresponsible generative-AI use in its
+drafting; expert review panel (Rosman) appointed** — plus DBSA's 2.2% access-gap figure and the
+partial-privatisation signal. Compile: the ZAF hub now carries the **three-year stage-split series** —
+FY2024/25 appropriated R5.10bn / revised R1.11bn / audited R908m (+6 execution rates); FY2025/26
+appropriated R3.28bn / revised R1.25bn; FY2026/27 appropriated R2.92bn (11 lines). Lint: baseline exact.
+Revert: `git checkout <sha> -- raw/ new/ wiki/`.
+
+contradictions - 0 ; acquisitions - 0 ; awaiting ingest - 0 ; decisions logged - 0
+
 ## 2026-07-22 — sweep + extract: ZAF 2026 → FY2026/27 — 13 records; the vote restructured; DHA earmark gone
 
 Sweep: ENE 2026 chain by direct URL (FullENE, Vote 30 chapter, B4-2026 — filename pattern changed, no
