@@ -8,7 +8,7 @@ has processed.
 This file is **the loop CC runs**. The knowledge of *how to read a shape of
 document* lives in `documentation/budget-extraction-strategies.md` (the strategy
 library) and is expected to grow every run. The knowledge of *what a figure means*
-lives in `finance-load-domestic-state.md` and
+lives in `wiki/finance-load-domestic-state.md` and
 `documentation/domestic-budget-extraction.md`. Three files, three jobs — do not
 merge them.
 
@@ -161,7 +161,7 @@ Follow the archetype's strategy. Then, before writing anything:
 - Write the extracted tables to `budget-archive/{ISO3}/` as CSV, one per source
   table, named for the document and table.
 
-Then hand each digital line to `finance-load-domestic-state.md` — the five-fact
+Then hand each digital line to `wiki/finance-load-domestic-state.md` — the five-fact
 test, the scope test, the origin gate and the record shape are all its job, not
 this pass's. Records land in `new/`.
 
@@ -301,4 +301,4 @@ ingest that admitted finance records.
 - **Feed the sweep back.** If a document turned out to support no record — the
   first corpus's treasury cash-flow statement — say so in the run log and in the
   strategy library's *Not worth extracting* section, so
-  `sweep/domestic-finance-README.md` can stop spending its cap on it.
+  `DOMESTIC-FINANCE-SWEEP.md` can stop spending its cap on it.

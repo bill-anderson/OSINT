@@ -9,11 +9,12 @@ pulls the fields out of a given source and hands them here.
 
 Reused by:
 
-- the non-state finance initial load — driver: `finance-load-nonstate-csv.md`
+- the non-state finance initial load — driver: `archived-procs/finance-load-nonstate-csv.md`
+  (one-off, finished; archived)
 - domestic-state budget and expenditure capture — driver:
-  `finance-load-domestic-state.md`
+  `wiki/finance-load-domestic-state.md`
 - structuring existing `raw/` items that report finance (the back-swing) — driver:
-  `finance-news-driver.md`, back-swing mode
+  `wiki/finance-news-driver.md`, back-swing mode
 - ongoing capture of new finance items at ingest — same driver, capture mode, one
   item at a time
 
@@ -96,7 +97,7 @@ built around.
 
 **A driver may add origin-specific fields**, and the record carries them as extra
 `## Deal record` rows without amending this list — the budget-cycle, fiscal-year,
-classification, FX and vendor fields in `finance-load-domestic-state.md` are the
+classification, FX and vendor fields in `wiki/finance-load-domestic-state.md` are the
 worked example. Only fields the compile and lint passes **filter on** go into
 frontmatter; everything else stays in the body table.
 
@@ -381,8 +382,8 @@ the wiki already holds (e.g. the dataset's `ifc-mli-001` vs a held
 **Ingest is match-or-create, not the news bullet path.** For each finance item:
 definite-match a held record → merge; no match but clearly a new deal → create a
 record; not deal-specific (a trend or multi-deal piece) → keep as a normal news
-source with `finance.*` tags. The standard §6 ingest must not drain these into the
-per-event bullet path.
+source with `finance.*` tags. The standard ingest (`INGEST.md`, step 2a) must not
+drain these into the per-event bullet path.
 
 ## Verification (per record)
 

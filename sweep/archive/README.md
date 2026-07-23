@@ -7,7 +7,7 @@ into `new-queue/done/` and ingested via `ingest-runbook.md`). Retained for
 provenance and its rich per-country notes.
 
 Nothing here is used by the ongoing **daily trade-journal sweep**
-(`sweep/daily-README.md`), which is self-contained and reads
+(`DAILY-SWEEP.md`), which is self-contained and reads
 `wiki/trade-journals.csv` fresh each run.
 
 Contents: `README.md` (Phase-2 sweep procedure), `query-recipes.md` (country /

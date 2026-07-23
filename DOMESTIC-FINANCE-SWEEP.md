@@ -1,7 +1,7 @@
 # Domestic-state finance sweep — procedure
 
 **Acquisition sweep for one country and one fiscal year**, gathering the material
-the domestic-state finance driver (`finance-load-domestic-state.md`) builds
+the domestic-state finance driver (`wiki/finance-load-domestic-state.md`) builds
 records from: budget documents, outturn and audit reports, ministerial statements,
 and on-the-record reporting of state digital spending.
 
@@ -360,7 +360,7 @@ lens: []
 retrieved: <YYYY-MM-DD>
 sweep_batch: domestic-finance-<ISO3>-<FY>-<YYYY-MM-DD>   # FY = bare start year, e.g. 2024
 fiscal_years_covered: ["2024/25", "2025/26"]
-doc_type: <one value from the canonical list in finance-load-domestic-state.md
+doc_type: <one value from the canonical list in wiki/finance-load-domestic-state.md
            → Source citation. Do not extend it here — one vocabulary, one home.>
 source_tier: <budget-document | official-statement | project-document | reporting>
 artefact: <sibling filename, where this is a companion page in new-budget/>
@@ -405,7 +405,7 @@ the one just swept.
 - *(Resolved 2026-07-22: `reference.md` §2, §6 and §7 now carry `new-budget/` —
   outside the ingest path, never drained, containment extended.)*
 - *(Resolved 2026-07-22: the **single-mandate carve-out** is now in
-  `finance-load-domestic-state.md` → *Scope*. A body whose entire statutory mandate
+  `wiki/finance-load-domestic-state.md` → *Scope*. A body whose entire statutory mandate
   is data governance or digital transformation has its total appropriation recorded
   at `scope_confidence: whole`. The test is the mandate, not the name — a regulator
   that also does broadcasting content and posts stays an envelope.)*

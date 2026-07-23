@@ -29,13 +29,13 @@ repeat:
     if contradictions == 0 and acquisitions == 0 and awaiting ingest == 0:
         break                      # nothing left to do
 
-    if awaiting ingest > 0:  run ingest      # reference.md §6 — drain new/
+    if awaiting ingest > 0:  run ingest      # INGEST.md — drain new/
       if ingest admitted any finance record:
                              run finance compile   # FINANCE-COMPILE.md — hub Financing sections
-    if contradictions  > 0:  run reconcile   # reviews/contradictions/RECONCILE.md
-    if acquisitions    > 0:  run acquire     # reviews/ACQUIRE.md
+    if contradictions  > 0:  run reconcile   # RECONCILE.md
+    if acquisitions    > 0:  run acquire     # ACQUIRE.md
 
-run full lint                                 # reference.md §11 — all 15 checks
+run full lint                                 # LINT.md — all 15 checks
 ```
 
 **Announce every pass before it runs** — one clear line naming the process and the
@@ -106,6 +106,6 @@ across the three queues:
 ## Running it — two entry points
 
 - **Manually:** `update wiki`.
-- **From a sweep:** the daily trade-journal sweep (`sweep/daily-README.md`) stages
+- **From a sweep:** the daily trade-journal sweep (`DAILY-SWEEP.md`) stages
   candidates flat into `new/`, then hands off to update-wiki, which processes them
   through ingest and drains any contradictions / acquisitions they surface.

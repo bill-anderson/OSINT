@@ -1,11 +1,19 @@
 # CLAUDE.md — Data Landscapers Intelligence Wiki
 
 *(In force from 2026-07-20. This file is principles; CC reasons from here.
-Operational detail — frontmatter schemas, lint checks, sweep and pass procedures —
-lives in `wiki/reference.md`. The runnable passes have their own procedure files:
-`reviews/contradictions/RECONCILE.md` ("run reconcile") and `reviews/ACQUIRE.md`
-("run acquisitions"). `UPDATE-WIKI.md` ("update wiki") is the orchestrator that
-loops ingest, reconcile and acquire until the queues are empty, then lints.)*
+**Every standalone runnable process lives in the repo root as its own procedure
+file; `wiki/` holds the drivers and specs those processes call, and
+`wiki/reference.md` holds the shared schemas, thresholds and vocabularies they draw
+on.** The root processes: `INGEST.md` ("run ingest"), `LINT.md` ("full lint"),
+`RECONCILE.md` ("run reconcile"), `ACQUIRE.md` ("run acquisitions"),
+`FINANCE-COMPILE.md` ("run finance compile"), `BUDGET-EXTRACT.md` ("run budget
+extract"), `DAILY-SWEEP.md` and `DOMESTIC-FINANCE-SWEEP.md` (the sweeps). The
+finance drivers — `wiki/finance-load-domestic-state.md`,
+`wiki/finance-news-driver.md` — feed `wiki/finance-record-spec.md` and are invoked
+by ingest, not triggered as top-level passes. `wiki/index.md` → *Processes* is the
+full directory. `UPDATE-WIKI.md` ("update wiki") is the orchestrator that loops
+ingest, reconcile and acquire until the queues are empty, then lints; `RUN-BATCH.md`
+("run the batch") runs a queued list of jobs one at a time.)*
 
 ## Purpose
 

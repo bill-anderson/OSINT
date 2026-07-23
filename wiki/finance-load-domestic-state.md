@@ -463,7 +463,7 @@ leaves both blank.
 
 A 600-page appropriation act cannot be a verbatim body, and forty records will
 cite the same document. So the document is stored **once**, as a companion source
-page per `reference.md` §3, holding the citation, the scope of the document, the
+page per `wiki/reference.md` §3, holding the citation, the scope of the document, the
 classification structure and the scale/currency headers — with
 `body_completeness: excerpt` and a note that the body is a structured extract of a
 tabular document, not a withheld text. Every record from that document links to

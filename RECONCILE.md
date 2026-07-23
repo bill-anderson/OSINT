@@ -1,7 +1,7 @@
 # RECONCILE.md — the reconcile pass
 
 Trigger: **"run reconcile"**. No argument, no selection, no scoping question.
-The pass takes **every item in `open/`**. If CC finds itself asking which items
+The pass takes **every item in `reviews/contradictions/open/`**. If CC finds itself asking which items
 to do, the answer is all of them.
 
 Rules governing the work are in `CLAUDE.md` (currency, admissibility, duplicates)
@@ -11,7 +11,7 @@ and `wiki/reference.md` (schemas, filing, lint). This file is only the loop.
 
 ## The loop
 
-For each file in `open/`:
+For each file in `reviews/contradictions/open/`:
 
 1. **Read the brief.** It states the claim, each competing value, who asserts
    each, and the source URLs the wiki already holds. Take the question from the
@@ -34,9 +34,9 @@ For each file in `open/`:
    Write the resolved figure dated, and keep at most one dated prior where the
    trajectory means something. Clear `needs-review`.
 
-5. **Close it.** Move the file to `done/` with the resolution and its date
+5. **Close it.** Move the file to `reviews/contradictions/done/` with the resolution and its date
    recorded in it. Moving the file is the **last** step, so an interrupted pass
-   resumes cleanly — whatever is still in `open/` is still open.
+   resumes cleanly — whatever is still in `reviews/contradictions/open/` is still open.
 
 ## When an item won't close
 
@@ -44,14 +44,14 @@ Do not carry it a third time. On the **second** failed attempt:
 
 - Write the position onto the page it bears on — dated, and honest about what is
   not established. A known vacuum is a finding, not a silence.
-- Move the file to `done/`, marked unresolved, with what was tried.
+- Move the file to `reviews/contradictions/done/`, marked unresolved, with what was tried.
 
 Record the attempt count in the brief so the next pass knows which attempt it is.
 
 ## Re-routing
 
 An item that turns out to be a **specific document the wiki simply doesn't hold**
-is not a contradiction. Strike it from `open/` and add it to
+is not a contradiction. Strike it from `reviews/contradictions/open/` and add it to
 `reviews/acquisitions.md` — a fetch list drained by the acquisition pass
 (`run acquisitions`), never by reconcile.
 
@@ -66,7 +66,7 @@ than settling the two, that is a live contradiction: record it, don't pick.
 
 ## Ending the pass
 
-The durable resolution lives **on the affected page and in this log**. The `done/`
+The durable resolution lives **on the affected page and in this log**. The `reviews/contradictions/done/`
 file is only the closure marker. *(Amended 2026-07-21: the instruction to delete
 `research/` at pass end is withdrawn — the folder no longer exists and step 3 now
 forbids recreating it, so there is nothing to clean up.)*
@@ -80,4 +80,4 @@ anything shaky. Then the tally:
 ## Concurrency
 
 One reconcile pass at a time, and no other CC session writing to the vault while
-it runs. `open/` is a shared worklist and a second writer corrupts it.
+it runs. `reviews/contradictions/open/` is a shared worklist and a second writer corrupts it.

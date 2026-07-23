@@ -13,7 +13,7 @@ is provisional and expected to be wrong in places — it improves by being run.
 where the numbers are, what breaks.
 
 **Not here: judgement.** Whether a line is digital, whether an envelope is a
-record, how to date or tag it — that is `finance-load-domestic-state.md` (the
+record, how to date or tag it — that is `wiki/finance-load-domestic-state.md` (the
 rules) and `documentation/domestic-budget-extraction.md` (per-country vocabulary,
 where digital lines hide). Restate either here and the two will drift.
 
@@ -319,7 +319,7 @@ deliberate hand-search of the volume's contents page rather than a grep:
   **body** in the volume's vote index, not by searching for a digital term.
   Where the body is a single-mandate authority, its whole appropriation is the
   line — see the envelope carve-out flagged in
-  `sweep/domestic-finance-README.md` → *Notes for Bill*.
+  `DOMESTIC-FINANCE-SWEEP.md` → *Notes for Bill*.
 
 **And record what the volume does *not* contain.** A data protection authority
 with no appropriation, in a state that has passed a data protection act, is a

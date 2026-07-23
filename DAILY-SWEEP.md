@@ -417,7 +417,7 @@ fixed so runs stay comparable; if you tune them, date the change in the log belo
 
 Manual, from Claude Code, one prompt:
 
-> Run the daily trade-journal sweep per `sweep/daily-README.md`.
+> Run the daily trade-journal sweep per `DAILY-SWEEP.md`.
 
 Cheap by design: ~9 domains × 2 clusters (+ a few FR/AR variants) ≈ 20 searches,
 then one fetch per survivor. Run it **inline in the main session**, or fan out at

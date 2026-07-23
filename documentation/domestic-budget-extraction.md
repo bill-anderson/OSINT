@@ -9,7 +9,7 @@ all evidence and won't be solved by a rule. It is learned, and the learning has 
 be written down somewhere it compounds. This is that file.)*
 
 Not a source and not a wiki page: it is procedure, read by
-`finance-load-domestic-state.md` at the start of a run.
+`wiki/finance-load-domestic-state.md` at the start of a run.
 
 ## How to use it
 

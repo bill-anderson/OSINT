@@ -42,6 +42,56 @@ Values outside the vocabularies are rejected.
 - `reviews/contradictions/` — the reconcile worklist.
 - `reviews/acquisitions.md` — the fetch list.
 
+## Processes
+
+Every runnable process, its trigger phrase, and what it does. Each has a procedure
+file that governs it; this table is only a directory. Orchestrators call the passes;
+the passes do the work.
+
+**Orchestrators & batch**
+
+| Trigger | File | Function |
+|---|---|---|
+| `update wiki` | [UPDATE-WIKI.md](../UPDATE-WIKI.md) | Loops ingest → reconcile → acquire until all three queues are empty, then runs the full lint. Files nothing itself. |
+| `run the batch` | [RUN-BATCH.md](../RUN-BATCH.md) | Drains the [JOBS.md](../reviews/JOBS.md) queue overnight, one job at a time, top-to-bottom. Manual "stop after current" brake and an optional `Budget:` in hours; halts on serious errors (e.g. lost connectivity). |
+| `wiki status` | [STATUS.md](../STATUS.md) | Reads and shows the three queue counts and the standing tally line. Single source of truth for the counts and the "which process is running" banner. |
+
+**Core passes** (each drains one queue)
+
+| Trigger | File | Function |
+|---|---|---|
+| `run ingest` | [INGEST.md](../INGEST.md) | Drains `new/` — admits candidates to `raw/`, parks leads in `_leads/`, or deletes. The only door into the base. Applies the schemas in [reference.md](reference.md). |
+| `run reconcile` | [RECONCILE.md](../RECONCILE.md) | Resolves the contradictions in `reviews/contradictions/open/`: researches, ingests primaries, applies a dated resolution. |
+| `run acquisitions` | [ACQUIRE.md](../ACQUIRE.md) | Works the whole `reviews/acquisitions.md` fetch list — one automated attempt per item, then ingest-and-strike or drop. |
+| `full lint` | [LINT.md](../LINT.md) | The 15 hygiene checks over the vault. Acts and logs; surfaces only genuine contradictions. Enforces the thresholds in [reference.md](reference.md). |
+
+**Finance**
+
+| Trigger | File | Function |
+|---|---|---|
+| `run finance compile` | [FINANCE-COMPILE.md](../FINANCE-COMPILE.md) | Recomputes each place hub's `## Financing` section from the finance records already in `raw/`. Aggregates only — ingests nothing. |
+| `run domestic finance capture` / `load` / `back-swing` | [wiki/finance-load-domestic-state.md](finance-load-domestic-state.md) | Builds domestic-state budget records (appropriations, outturns, audit findings) — one line, one fiscal year, one stage. Ongoing driver, fed by the domestic finance sweep. |
+| `run finance back-swing` | [wiki/finance-news-driver.md](finance-news-driver.md) | Extracts finance records from prose sources — news, releases, filings. |
+| `run budget extract` | [BUDGET-EXTRACT.md](../BUDGET-EXTRACT.md) | Extracts budget lines from documents staged in `new-budget/` (outside the ingest path). Optionally scoped. |
+
+**Sweeps** (acquire and stage candidates into `new/`)
+
+| Trigger | File | Function |
+|---|---|---|
+| `run the daily sweep` | [DAILY-SWEEP.md](../DAILY-SWEEP.md) | Scans the trade journals in `trade-journals.csv` for items since the last run, stages candidates into `new/`, then hands off to `update wiki`. State in `sweep/daily/`. |
+| `run domestic finance sweep for <country> <year>` | [DOMESTIC-FINANCE-SWEEP.md](../DOMESTIC-FINANCE-SWEEP.md) | Gathers the budget material (budget documents, outturn/audit reports, ministerial statements, reporting) for one country and one fiscal year. A bare year means the year the fiscal year begins. State in `sweep/domestic/`. |
+
+**Archived** ([archived-procs/](../archived-procs/) — kept for reference, not run)
+
+| Was | File | Why archived |
+|---|---|---|
+| `run non-state finance load` | [finance-load-nonstate-csv.md](../archived-procs/finance-load-nonstate-csv.md) | One-off initial load of the 1,148-row non-state deal CSV (`non-state-finance-v1.csv`). Load-only and finished; ongoing capture now runs through the spec, not this driver. |
+| Country ingest workflow | [country-ingest-workflow.md](../archived-procs/country-ingest-workflow.md) | Country-by-country procedure for turning the `external-datasets/` corpus into intake clips. Superseded. |
+
+The folder also holds those runs' data artefacts — the source CSVs, financier and
+subject crosswalks, run logs, `external-datasets/`, and `normalize_sources.py` — not
+processes, just their inputs and records.
+
 ## Page types & folders
 
 | Folder | Page type | Notes |

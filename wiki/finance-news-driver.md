@@ -15,7 +15,7 @@ Two modes, same logic:
 - **Back-swing** — a periodic pass over finance items already in `raw/`.
   Invocation: **"run finance back-swing"**.
 - **Capture** — one item at a time, invoked from the ingest branch
-  (`wiki/reference.md` §6 step 2a). Not separately triggered.
+  (`INGEST.md` step 2a). Not separately triggered.
 
 ## The gate
 
@@ -44,7 +44,7 @@ predictably, so read for these:
 item — the funder is the recipient country's own government, a ministry or an entity
 it owns (an annual ministry budget or appropriation, a sovereign guarantee, a
 state-agency allocation) — is **out of scope for this driver, and is handed to
-`finance-load-domestic-state.md`**, which carries the budget-cycle, fiscal-year and
+`wiki/finance-load-domestic-state.md`**, which carries the budget-cycle, fiscal-year and
 classification fields those items need. It is not a gate failure. Prose is a
 legitimate source there, exactly as it is here: case 4 of that driver's *five
 cases* builds a record from reporting alone where the five-fact test passes.

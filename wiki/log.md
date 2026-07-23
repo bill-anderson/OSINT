@@ -6,6 +6,46 @@ Reporting): a few lines each, full detail in `log-archive.md` or git.
 
 ---
 
+## 2026-07-23 — Finance drivers moved to wiki/ (root = standalone processes only)
+
+Bill's call: drivers and specs live in `wiki/`; the repo root holds only standalone runnable
+processes. `git mv` `finance-news-driver.md` and `finance-load-domestic-state.md` → `wiki/`, beside
+`finance-record-spec.md` (the spec they feed). Rationale: both are invoked by `INGEST.md` step 2a and
+feed the spec — drivers, not top-level passes (finance-news-driver's capture mode is "not separately
+triggered"). Repointed all live refs to `wiki/finance-…md`: INGEST.md, BUDGET-EXTRACT.md,
+DOMESTIC-FINANCE-SWEEP.md, documentation/{budget-extraction-strategies,domestic-budget-extraction}.md,
+wiki/reference.md (prose + §2 folder tree), wiki/finance-record-spec.md, wiki/index.md → Processes
+links. CLAUDE.md header rewritten: root = standalone processes; wiki/ = drivers + specs. FINANCE-COMPILE.md
+and BUDGET-EXTRACT.md stay in root (true triggerable passes). **Revert:** `git mv` back + revert refs.
+Old-path refs in log.md/raw/ left as history.
+
+## 2026-07-23 — All runnable processes consolidated in the repo root
+
+Bill's call: every standalone runnable process now lives in root, none in `reviews/` or `sweep/`.
+`git mv` (history preserved): `reviews/contradictions/RECONCILE.md` → `RECONCILE.md`; `reviews/ACQUIRE.md`
+→ `ACQUIRE.md`; `sweep/daily-README.md` → `DAILY-SWEEP.md`; `sweep/domestic-finance-README.md` →
+`DOMESTIC-FINANCE-SWEEP.md` (sweeps renamed to carry "sweep"). Internal relative paths in the moved
+files rebased to repo-root (`reviews/contradictions/open|done/`, `reviews/acquisitions.md`). Repointed
+all live callers: CLAUDE.md header, UPDATE-WIKI.md, wiki/index.md → Processes, reference.md (§2 folder
+tree + §7), reviews/acquisitions.md, reviews/contradictions/open/README.md, BUDGET-EXTRACT.md,
+documentation/budget-extraction-strategies.md, sweep/archive/README.md. `reviews/` = worklists only
+(acquisitions.md, contradictions/); `sweep/` = state only (daily/, domestic/, archive/, recapture/).
+`log.md`/`raw/`/manifest refs to old paths left as history. **Revert:** `git revert` / `git mv` back.
+*Note left for Bill: `finance-load-domestic-state.md` and `finance-news-driver.md` keep lowercase names
+— not renamed; flag if you want them uppercased to match.*
+
+## 2026-07-23 — CLAUDE.md rule change: every runnable pass is its own file
+
+Bill's call, for consistency (reconcile/acquire had files; ingest and lint didn't). Extracted
+`reference.md` §6 → **`INGEST.md`** ("run ingest") and §11 → **`LINT.md`** ("full lint"), step/check
+numbers preserved. §6/§11 left as **pointer stubs** so existing "§6 step N" / "§11" refs still
+resolve; `reference.md` keeps the schemas/thresholds the passes apply. Repointed UPDATE-WIKI.md,
+wiki/index.md → Processes, finance-news-driver.md, finance-record-spec.md. CLAUDE.md header rule
+rewritten: *every runnable pass has its own file; reference.md holds the shared
+schemas/thresholds*. Also added this session: `RUN-BATCH.md` + `reviews/JOBS.md` (overnight batch
+runner), and the *Processes* directory in index.md. **Revert if wrong:** `git revert` restores §6/§11
+bodies and the old header; no vault data touched. `log.md`/`raw/` refs to §6/§11 left as historical.
+
 ## 2026-07-23 — budget extract: OAG Summary FY2024/25 drained — the audit contradicts the absorption
 
 1 document (archetype F, narrative audit); 1 findings CSV; `new-budget/` empty. **The audit stage

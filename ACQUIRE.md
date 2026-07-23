@@ -11,7 +11,7 @@ Governing rules: `CLAUDE.md` (admissibility, currency) and `wiki/reference.md`
 
 ## The loop
 
-For each item in `acquisitions.md`:
+For each item in `reviews/acquisitions.md`:
 
 1. **Attempt the fetch — once, properly.** In order of what the item needs:
    - a direct document URL (government PDF, gazette, project document) → fetch it;
@@ -23,17 +23,17 @@ For each item in `acquisitions.md`:
 2. **Got it → ingest.** Stage the document in `new/` as a normal clip — full
    verbatim body, date-prefixed filename, proper frontmatter — and let the
    normal ingest file it to `raw/`. Then **strike the line** from
-   `acquisitions.md`.
+   `reviews/acquisitions.md`.
 
 3. **Couldn't get it → drop it.** Anything the one attempt cannot retrieve —
    paywall, cookie wall, 403, bot-block, subscriber-only, anything that would
-   need a hand-clip — is **deleted from `acquisitions.md`, not parked.** Where the
+   need a hand-clip — is **deleted from `reviews/acquisitions.md`, not parked.** Where the
    item bears on a specific page, add **one dated line** to that page recording
    the document is not held (e.g. "Gazetted text not held as of 2026-07-20").
    Where it maps to no page cleanly, just delete and log the drop. No manual
    queue, ever.
 
-There is no third state. After the pass, `acquisitions.md` holds only its header.
+There is no third state. After the pass, `reviews/acquisitions.md` holds only its header.
 
 ## Why dropping is correct
 

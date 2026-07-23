@@ -21,7 +21,7 @@ the file to `done/`.
 
 **Run the whole folder.** A reconcile pass takes every item in `open/`, not a
 selection — choosing a subset is a manual decision that buys nothing and stalls
-the queue. Procedure: `RECONCILE.md`.
+the queue. Procedure: `RECONCILE.md` (in the repo root).
 
 An item that cannot be closed after **two** reconcile attempts is not carried a third
 time: state the position on the page it bears on, dated and honest about what isn't

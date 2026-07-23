@@ -141,9 +141,10 @@ new-budget/               # budget documents awaiting extraction — NOT an inge
 budget-archive/           # budget documents already extracted (BUDGET-EXTRACT.md)
   {ISO3}/{FY}/            #   artefact + companion + the extracted tables as CSV
                           #   artefacts untracked (binary .gitignore rule); CSVs tracked
-sweep/                    # acquisition sweeps (upstream of new/):
-                          #   daily-README.md  (daily trade-journal sweep procedure)
-                          #   daily/           (its state)
+sweep/                    # acquisition-sweep STATE (procedures are root DAILY-SWEEP.md /
+                          #   DOMESTIC-FINANCE-SWEEP.md — upstream of new/):
+                          #   daily/           (daily trade-journal sweep state)
+                          #   domestic/        (domestic finance sweep state)
                           #   archive/         (completed Phase-2 back-fill apparatus)
                           #   recapture/       (SPENT TOOLING — see note below)
 raw/                      # admitted sources, flat — immutable after ingest (one bounded
@@ -172,6 +173,9 @@ wiki/
   entities-index.md       # faceted navigation by entity
   log.md                  # append-only operation log (Decisions live here)
   reference.md            # this file
+  finance-record-spec.md  # the finance record spec (store of record, merging, compile)
+  finance-load-domestic-state.md  # driver: domestic-state budgets/expenditure (invoked by ingest 2a)
+  finance-news-driver.md  # driver: finance from prose sources (invoked by ingest 2a; back-swing)
 queries/                  # read-only query workspace (§10)
   pending/  done/  results/
 ```
@@ -183,7 +187,7 @@ it, drain it, or count it in any tally.
 *(Bill's ruling, 2026-07-22)*. It means the fiscal year *beginning* in that year,
 so `2024` is South Africa's and Kenya's 2024/25 and Nigeria's calendar 2024
 alike — the same resolution rule that governs instructions
-(`finance-load-domestic-state.md` → *Fiscal years*). One form everywhere: the
+(`wiki/finance-load-domestic-state.md` → *Fiscal years*). One form everywhere: the
 instruction, the folder and the run identifier all read `2024`, and no country's
 folder needs a different shape from another's.
 
@@ -197,7 +201,7 @@ cannot mix them.
 **`new-budget/` is outside the ingest path, deliberately.** It holds budget
 documents — appropriation acts, estimates volumes, outturn reports, IFMIS and
 procurement extracts — staged by the domestic finance sweep
-(`sweep/domestic-finance-README.md`) and drained by `BUDGET-EXTRACT.md`.
+(`DOMESTIC-FINANCE-SWEEP.md`) and drained by `BUDGET-EXTRACT.md`.
 
 - **Ingest never drains it.** A 600-page appropriation act is not a source to be
   read and filed; it is a structure to be learned, and the first documents are
@@ -505,167 +509,14 @@ files — `taxonomy.md`, `countries.csv`, `_watchlist.md` — which are never so
 
 ## 6. Filing rules — draining the `new/` queue
 
-*(`new/` only. `new-budget/` is not an ingest queue and is never drained here — §2.)*
-
-Process each item in `new/` through the steps below. The item's **move out of
-`new/` is the last step**, and where it moves is its classification: admitted
-sources → `raw/`, parked leads → `_leads/`, discards → deleted. "Moved out of
-`new/`" is therefore not the same as "became a source" — draining the queue means
-routing each item to its correct destination.
-
-**1. Intake screen (do this first).** Check provenance against `CLAUDE.md` → *The
-material*.
-
-- Second-hand or AI-generated synthesis → do **not** compile it. Note it in
-  `log.md` as parked-inadmissible with a one-line reason, extract any primary
-  sources it references for separate ingestion, move it to `_leads/`, stop.
-- Reports no development but establishes or profiles a **standing object** of
-  OSINT value — organisation, company, government body, person,
-  project/initiative, data asset (database/dataset/registry/tool/portal), or
-  reference instrument (standard, taxonomy, framework, policy/legal instrument) →
-  capture it as the matching entity type rather than discarding it; never park it
-  as a lead.
-- **Discard (delete)** only the wiki's own config/vocabulary files and genuine
-  non-intelligence artefacts.
-- **Out of scope → reject and delete.** An item that is admissible and first-hand
-  but falls outside data governance + digital transformation — e.g. transport
-  electrification / e-mobility, or a borderline tech innovation carrying **no
-  real data or digital-platform layer** — is rejected and deleted
-  (git-reversible), **not** parked in `_leads/`. Distinguish the genuinely
-  in-scope case where the actor is itself a digital platform (e.g. Yango). When
-  scope is in doubt, reject and delete.
-- **Undated/unattributed but possibly important?** A parked lead lacking a dated,
-  attributable origin yet carrying **possibly-important information** (a
-  load-bearing claim, a first-of-kind development) is **also filed as a
-  provenance/corroboration hunt in `reviews/contradictions/open/`** — a research
-  brief for the reconcile pass to seek the original posting and dated primaries —
-  so it is actively worked rather than left inert in `_leads/`. It stays a lead
-  until reconcile surfaces admissible primaries.
-
-Only admissible, in-scope items proceed.
-
-**2. Deduplication check.** Before creating pages, decide whether this source
-reports an event already in the wiki or a genuinely new development. Match
-incoming sources against existing pages by **event + entities + date**. Outcomes
-are `CLAUDE.md` → *Duplicates* (**drop / replace / keep both**); the mechanics:
-
-- **Same event, same period** (another outlet on the same story) → do *not* spawn
-  parallel pages. Apply drop / replace / keep-both. On **drop**, note it in
-  `log.md` in one line. On **replace**, ingest the better source, rewire the
-  `sources:` citations, retire the held one. On **keep both**, create the source
-  page, attach it to the `sources` list of the pages the event already touches,
-  and fold in any detail, figure or quote the existing account lacks. If it
-  conflicts, apply step 7 rather than overwriting.
-- **Same story, later date** (the situation has moved) → an **update**, not a
-  duplicate: revise the affected pages, add the new source, keep the prior "as
-  of" statement dated rather than deleting it.
-- **Older publication, fresher state already held** (backfill) → a **historical
-  baseline**, not a development. File and date it, but it must **not overwrite or
-  out-rank fresher state** on synthesis pages. Ingest date is irrelevant here;
-  only `published` decides precedence.
-- **New event** → proceed normally.
-
-When same-vs-new is genuinely unclear, prefer attaching to the existing page and
-note the uncertainty in `log.md` rather than creating a near-duplicate.
-
-**2a. Finance branch.** If the item carries **any `finance.*` tag**, run the
-matching driver *before* continuing — `finance-news-driver.md` (capture mode) for
-`finance.new`/`finance.mou`, `finance-load-domestic-state.md` for
-`finance.budget`. It applies the
-**five-fact test** in `wiki/finance-record-spec.md` — financier, recipient place,
-commitment amount, event date, taxonomy-matchable purpose — and then:
-
-- **Passes, definite match to a held record** → merge into that record (one dated
-  attributed line in its `## Development history`; update status/disbursed).
-- **Passes, no match** → build a deal record into `new/`, to be admitted on the
-  next drain.
-- **Fails any fact** → no record. The item continues through the steps below as an
-  ordinary source with its `finance.*` tags. This is routing, not rejection — the
-  exception is a failure on the **date** fact, which goes to `_leads/` per the
-  spec's *Dates*.
-
-Either way, **finance items get no per-deal hub bullet at step 5** — their hub
-presence is compiled in aggregate by `FINANCE-COMPILE.md`. A piece on funding
-*trends* rather than a specific deal never enters this branch: it is an ordinary
-source carrying `finance.new`.
-
-**3. Create the source page** with full frontmatter, facet tags, and the source's
-**full verbatim body** — the whole article as published. This binds every route,
-including automated collection. Capture the full text from the page — never a
-search-result excerpt or an AI paraphrase/summary.
-
-- **Paywall serving a free lede** (HTTP 200, first 1–3 paragraphs): keep the
-  verbatim free portion, set `body_completeness: paywalled` — but **only where
-  that free content, excluding the title, adds value**. Headline-only → dropped,
-  not stored. The free-to-read text is the source's own words (first-hand, not a
-  summary), so it does not offend the AI-synthesis invariant.
-- **Text otherwise genuinely unavailable** (fetch failure, or a hard paywall
-  serving nothing usable): store the verbatim portion available, set
-  `body_completeness: excerpt`, flag for a manual clip.
-- Otherwise record `body_completeness: full`.
-
-**4. Entities — tag now, page later.** Tag the actors per `CLAUDE.md` →
-*Entities*. For any entity that **already has a page**, append this source to its
-`sources:` list — a one-line append, *not* a re-synthesis. Do **not** create a
-page for a newly-named entity here, and do **not** re-synthesise existing pages
-inline: minting and refreshing live in the periodic **entity pass** (§5), off the
-ingest hot path. A deal that passed the finance branch (2a) is already a record —
-do **not** also write it as a dated fact here. A deal or MoU that *failed* the
-five-fact test is recorded as a dated fact on the pages it touches, as before.
-Either becomes a `deal` entity page only when material.
-
-**5. For each place** — update the hub: add to **Recent developments**, ensure the
-topic section exists, link source + entities. Tag regions only when the item is
-genuinely region-level.
-
-**6. For each subject** — update the concept page. If place-specific and
-substantial, create/update the intersection and link from both sides.
-
-**7. Flag contradictions.** Never silently overwrite. Note it in `log.md`, set
-`needs-review` on affected pages, and add a **contradiction** item as a new file
-in `reviews/contradictions/open/` (one file per item). The item carries a
-**paste-ready external-research brief** — **wiki-agnostic** (no facets, slugs,
-page links or scope) — containing:
-
-- the claim in dispute;
-- each competing value;
-- who asserts each;
-- **the source URL(s) CC already holds for each assertion**, read from the source
-  pages' frontmatter.
-
-CC reports **only links it actually holds** — never suggests external or primary
-sources from its own knowledge. If a competing value has no clean source URL on
-file, say so; that absence is itself a provenance gap and is the finding. Close
-with a plain instruction, e.g. *"these sources report different values for X —
-investigate the discrepancy and suggest a resolution, recording an as-of date for
-each."*
-
-The brief goes with the `reviews/contradictions/` item, **not** into `queries/` —
-resolving a contradiction is external research, not a query against the base. The
-**reconcile pass** runs that research in-session, ingests the primaries it
-surfaces through `new/`, and applies a resolution to the affected pages. Research
-output is **not retained**: the page fix cites the primaries the pass surfaces, and
-the synthesis is discarded once the resolution is applied. It is never ingested.
-*(The former `reviews/contradictions/research/` quarantine was removed 2026-07-20 —
-its files were explicitly regenerable snapshots, never a store of record.)* Resolved items move to
-`reviews/contradictions/done/` as the last step.
-
-**8. Absences.** A specific known **document** the wiki wants and doesn't hold →
-add it to `reviews/acquisitions.md` (a fetch list drained by the acquisition pass,
-`run acquisitions`, never by reconcile). Anything else that can't be closed by
-either queue is a **horizon**, and belongs on the relevant page as a dated
-statement of what isn't established. [adapted: CLAUDE.md now governs — `reviews/gaps.md` and
-the structural-gap register are withdrawn.]
-
-**9. Update the indexes** — `topics-index.md`, `places-index.md`,
-`entities-index.md`.
-
-**10. Set `last_reviewed`** on every page touched; append to `log.md` (judgment
-calls under **Decisions**, with what was decided and why).
-
-**11. Last step: move the item from `new/` to `raw/`**, adding the `YYYY-MM-DD`
-prefix from its `published` date if not already present (§3). For a binary
-artefact, ensure its companion source page and the artefact share the prefix.
+*(**The ingest procedure moved to [`INGEST.md`](../INGEST.md)** — triggered by
+"run ingest", now a first-class pass alongside reconcile and acquire. Its numbered
+filing steps, including the **step-2a finance branch** and the **step-10
+`last_reviewed`** stamp, keep their numbers there, so existing "§6 step N"
+references still resolve. This heading is retained as the pointer; the schemas and
+folder rules those steps apply stay here — §2 folders, §3 filenames, §4
+frontmatter, §5 entity bar, §7 sweep intake, §8 hygiene. `new/` only —
+`new-budget/` is never drained, §2.)*
 
 ---
 
@@ -674,7 +525,7 @@ artefact, ensure its companion source page and the artefact share the prefix.
 Acquisition sweeps run *upstream* of the wiki and stage into `new/`.
 
 - **Daily trade-journal sweep** (the workhorse) — procedure in
-  **`sweep/daily-README.md`**. Run manually from CC; loops the journals in
+  **`DAILY-SWEEP.md`**. Run manually from CC; loops the journals in
   `wiki/trade-journals.csv` (read fresh each run) over a high-water-mark window;
   stages **flat** candidate files into `new/` (no per-place subfolders);
   keeps its state in `sweep/daily/`.
@@ -860,150 +711,12 @@ snapshots, not a second store of record. The base is canonical.
 
 ## 11. Lint
 
-**Lint acts and logs. It does not report.** Every check below has one correct
-action; lint takes it, in git, and records a count in `log.md`. It surfaces to
-Bill **one thing only**: a genuine contradiction it uncovered, filed to
-`reviews/contradictions/open/` and drained by the next reconcile. Everything else
-it settles itself — including equal duplicates, where it keeps one and drops the
-other without asking, because which copy survives does not matter. Never a to-do
-list. Same discipline as reconcile and acquire — the pass cleans up after
-itself. A wrong auto-fix is a revert, not a review queue.
-
-Run: work the checks in order (dependencies resolve top-down — schema before
-vocabulary, orphans before dead-link triage). End with the tally
-(`contradictions - NN ; acquisitions - NN ; awaiting ingest - NN ; decisions logged - NN`) and, if any
-check acted, a one-line-per-check count.
-
-### Auto-fix — mechanical, one right answer, no output but a count
-
-1. **Schema integrity** — add missing required frontmatter for the page's type
-   from what the page already carries; where a required value cannot be inferred,
-   that is the rare surface (see below), not a silent guess.
-2. **Vocabulary** — a `topics` slug absent from `taxonomy.md` or a place absent
-   from `countries.csv` is a typo or a stale slug: correct it to the controlled
-   value. A genuinely new vocabulary value needed is a judgment call — surface.
-4. **Orphans & dead links** — add absent pages to their indexes; rewire or
-   retire broken `[[links]]` per §9's referrer bands (≥10 create the wanted page,
-   1–2 fix or drop). The intentional-dead whitelist (§9) is never touched.
-5. **Untagged sources** — tag `raw/` items missing place/topic/entity tags per
-   `CLAUDE.md` → *Entities* (actors, not every mention; institutions, not
-   officeholders). Under-tagging of mere mentions is **not** a defect — do not
-   over-tag to satisfy the check.
-7. **Duplicates.** Cluster `raw/` items sharing **event + entities + date**; within
-   a cluster, where one source's in-scope payload is identical to another's
-   (boilerplate, framing and length don't count), resolve by `CLAUDE.md` →
-   *Duplicates*: **drop** the redundant copy, or **replace** the held one on a
-   clear tier upgrade (primary over secondary; canonical over syndicated; full
-   body over excerpt; finer `date_precision`) — quality beats primacy, never for
-   marginal betterness. Rewire `sources:` citations to the kept twin; log the
-   deletion (kept + pruned). **Where neither is clearly better, keep the first by
-   filename and drop the other — no decision, it doesn't matter which survives.**
-   Where payloads differ (a figure, date, quote one lacks) they are complementary
-   or contradictory, not duplicates — keep both, or route to #9. Git holds
-   deletions. [The old (a)–(d) earliest-publication keeper ladder is superseded.]
-11. **Missing date prefix** — rename any `raw/` source or artefact lacking a
-    `YYYY-MM-DD` prefix, updating links. Where the date is genuinely
-    unestablished, apply `date_source: proxy` at best precision per §3 rather than
-    inventing one.
-12. **Link-list convention** — normalise `sources:`/`entities:` frontmatter from
-    the non-canonical `[[[a]], [[b]]]` (or a malformed hybrid) to `[[a], [b]]`.
-13. **Quarantine leaks** — a `wiki/` page citing `reviews/contradictions/research/`,
-    `queries/results/`, or any `DO-NOT-INGEST` file: rewire to the ingested
-    primary, or remove the citation. These are scratch, never a store of record.
-14. **`url:` quality** — a `raw/` source whose `url:` is a **bare domain** (e.g.
-    `documents.worldbank.org`), **blank**, or **missing entirely**: recover the
-    canonical document-specific URL. A bare domain cites nothing and breaks the
-    dedup key.
-    - **Check the file's own `source:` key first** (also `canonical`/`origin`/
-      `source_url`), before any web research. It is cheap and sometimes decisive:
-      in the 2026-07-20 pass one capture cohort carried `source:` in 30 of 69 files,
-      matching every independently-researched URL and in three cases holding a URL
-      web search never surfaced. **It is a cohort convention, not a wiki-wide one** —
-      the other three worklists had it in zero files — so check, don't rely on it.
-    - **No attempt limit** — work the strategies until found or genuinely exhausted:
-      `source:` key, title search, document/project ID (World Bank docs reconstruct
-      from theirs; academic ones from a DOI), publisher site search, archive lookup.
-    - **Where a binary artefact is held, byte-compare it against the candidate
-      download.** For World Bank documents the WDS JSON API
-      (`search.worldbank.org/api/v3/wds`, filterable by `projectid`/`qterm`/date)
-      returns the document's real PDF filename, which often matches the stored
-      `artefact:` exactly. Byte-identity turns *plausible* into *proven*, and in the
-      2026-07-20 pass it recovered 53/53 and exposed three captures whose stored
-      title or date was simply wrong — including a slide deck filed as a report and
-      a date that was really the download timestamp.
-    - **Verify before writing.** The URL must be *that* document — match on title
-      and date. A plausible URL for a different report by the same publisher is
-      worse than no URL. Never construct one from an unconfirmed pattern. **A 200
-      response is not proof the document exists**: some hosts serve a soft-404 (a
-      landing page, or worse — `crvssystems.ca` returns 200 with injected gambling
-      spam for missing paths), so confirm the returned body *is* the document.
-    - **Homepage and entity-profile captures are NOT defects.** Where a source is a
-      capture of an organisation's own site as a standing-object reference, with no
-      dated event, the bare domain *is* the document-specific URL. Leave it, and do
-      not write an unrecovered note on it.
-    - Only once exhausted, leave a dated in-file note (`url unrecovered as of
-      YYYY-MM-DD`); never invent one. Where the recovered page's date disagrees with
-      stored `published`, do **not** edit `published` — that is #3's business.
-    *(One-attempt limit dropped, `source:`-first and homepage carve-out added,
-    2026-07-20.)*
-
-### Auto-resolve onto the page — no queue
-
-3. **Freshness** — for each: `last_reviewed` over **90 days**; a page whose newest
-   source is over **2 years** old while the topic carries sources under **6
-   months** old elsewhere; a time-varying figure in bare undated present tense; a
-   USD figure not written as a dated conversion, or money not in the announcing
-   party's own currency. **Fix in place**: date the figure, convert the phrasing,
-   or where the current value genuinely can't be established, write the dated
-   absence on the page (a known vacuum is a finding). Re-stamp `last_reviewed`.
-
-   **Detect at bullet level, not line level.** House style dates the bullet header,
-   so a figure inherits its bullet's date and is not a defect. A line-level scan for
-   undated money runs ~90% false-positive — the 2026-07-20 pass flagged 558
-   candidates, of which ~13 on concept pages were real. Test whether the *enclosing
-   bullet* carries a date anywhere, then screen what remains: a USD figure is
-   **correct** when USD is the announcing party's own currency (World Bank / IMF /
-   AfDB / DFC loans, a US company's own figure), when it is not a commitment at all
-   (a price point, a tracker series, an analyst market-size estimate), or when the
-   local-currency original is present in a form the scan missed (`Sh`, `₦`, `R`,
-   `GH₵`, `CFA`, `N$`, `XAF`). The real defect is narrow: **an African party's
-   own-currency commitment rendered into USD with no dated conversion.** Where the
-   source itself gives only USD, date it and record that the local original is not
-   established — never invent a rate. *(Added 2026-07-20 from that pass.)*
-6. **Inadmissible sources** — a compiled source whose origin is a second-hand/AI
-   synthesis, Bill's *unpublished* notes, or a publication that re-renders the
-   wiki's own pages: **downgrade in place** — demote to a lead, or strike the
-   citation and mark the claim for re-sourcing, recording it on the page. (Published
-   Data Landscapers work is admissible analysis — never flag it.)
-8. **Page bloat** — a synthesis page past ~2,500 words or reading as an append-log:
-   trim, or split the substantial per-country cells into an intersection and leave
-   the rest as index lines (per `CLAUDE.md` → *Structure*). Shard an oversized
-   index. Place-hub **Recent developments** sections are exempt — they are meant to
-   be dated logs.
-15. **`body_completeness` backfill — by evidence, never by guess.** A `raw/` source
-    missing the field: establish it from the stored body. **Marker-matching counts as
-    evidence** — a mechanical pass over the body for truncation and paywall markers
-    ("Read more", "Continue reading", "subscribe", "sign in to read", a mid-sentence
-    cut at the body's end) is a valid check, not a guess, and may set the field at
-    scale without per-file reading. Clean and untruncated → `full`; markers present →
-    `excerpt` or `paywalled`; **anything the markers leave genuinely ambiguous is
-    inspected, or left blank**. Missing means *unverified*, and blank asserts
-    nothing — never set `full` on a body no check has passed over, because the
-    paywalled-promotion gate and the `full > excerpt` dedup tiebreak both trust the
-    field. *(Marker-matching admitted 2026-07-20; the per-file-inspection-only
-    requirement is superseded.)*
-
-### Surface to Bill — the only output
-
-9. **Contradictions** — file any conflict the pass uncovered (sources disagreeing,
-   or a duplicate-cluster payload mismatch that is a real disagreement) to
-   `reviews/contradictions/open/` as a brief, drained by the next reconcile. Report
-   the count.
-10. **Stranded queue items** — anything left in `new/` after an ingest is
-    unfinished. Lint does **not** ingest it (that's a separate pass); it reports the
-    count so Bill knows the ingest didn't complete.
-
-Nothing else reaches him. Equal duplicates are settled by #7, not surfaced.
+*(**The lint pass moved to [`LINT.md`](../LINT.md)** — triggered by "full lint",
+now a first-class pass alongside reconcile and acquire. Its 15 numbered checks keep
+their numbers there, so existing "§11" references still resolve. This heading is
+retained as the pointer; the thresholds and schemas the checks enforce stay here —
+§3 filenames, §4 frontmatter schemas, §8 page hygiene and scaling, §9 dead-link
+triage — and the dedup rules are `CLAUDE.md` → *Duplicates*.)*
 
 ---
 
