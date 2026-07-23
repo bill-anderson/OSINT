@@ -76,7 +76,7 @@ alone (same principle as `new/ → raw/`). Markers:
 - [x] Run domestic finance sweep for AGO 2024 — 2 budget docs staged (outturn + fundamentação), 3 acquisitions, 0 records; full estimates volume not obtained; budget-extract deferred to checkpoint
 - [x] Run domestic finance sweep for AGO 2025 — 2 budget docs staged (IV-Trim 2025 outturn + Fundamentação), 3 prose (DP 169/25 ID USD 218.5M; OGE-2025 226bn digital sector; PAC actualização), 5 acquisitions, 1 contradiction (Angosat-3 278bn superseded); full estimates volume not obtained; budget-extract deferred to checkpoint
 - [x] Run domestic finance sweep for AGO 2026 — 1 budget doc staged (Fundamentação OGE 2026, 75pp, embeds full Lei articulado), 6 prose (Expansão comms 159,2mM −30,5% / 4G 62,7 / cyber 32,3; e-gov 136,7 / justiça 89,6; DP 12/26 9,2mM telecoms + DP 11/26 8,6mM Microsoft; Q1-2026 execução + Lei Identificação Civil e Criminal), 5 acquisitions, 0 contradictions; OGE 2026 = Lei 01/V/4.ª/2026-2027 (33,24bi, −4%); full estimates volume not obtained; budget-extract deferred to checkpoint
-- [ ] Update wiki
+- [~] Update wiki
 - [ ] Run domestic finance sweep for BDI 2024
 - [ ] Run domestic finance sweep for BDI 2025
 - [ ] Run domestic finance sweep for BDI 2026
