@@ -6,6 +6,20 @@ Reporting): a few lines each, full detail in `log-archive.md` or git.
 
 ---
 
+## 2026-07-23 — budget extract: OAG Summary FY2024/25 drained — the audit contradicts the absorption
+
+1 document (archetype F, narrative audit); 1 findings CSV; `new-budget/` empty. **The audit stage
+lands against the execution stage:** Vote 1122's connectivity line absorbed 95% (KSh 6.18bn) — and
+the OAG's physical verification found **70% of sampled County Connectivity offices with no
+internet at all**, the rest on unusable NOFBI; worst-affected are the identity-adjacent offices
+(Civil Registration, Lands, Police). e-GP's core contract surfaces: USD 2.98m (Apr 2022, 45% paid
+by Oct 2025) — the budget lines fund rollout, not build. NOFBI 2/2E maintenance split across two
+entities/ten contracts. Health equipment fee-for-service: suppliers paid 80–255% of SHA-insured
+revenue, no PPP approval. e-Citizen directive non-compliance (Judiciary, State Law Office).
+Dev-history appended to the connectivity-actual and e-GP records; KEN hub audited-stage line
+rewritten. Records built 0 (findings, not lines). No reconciliation mismatches. Revert:
+`git checkout <sha> -- raw/ budget-archive/ new-budget/ wiki/`.
+
 ## 2026-07-23 — batch run closed: 3/3 done, 0 failed, 0 not reached
 
 **RUN-BATCH first live run — completed.** Job 1: sweep+extract KEN FY2026/27 (ODPC line found).

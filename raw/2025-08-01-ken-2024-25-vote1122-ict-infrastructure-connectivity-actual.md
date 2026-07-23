@@ -55,3 +55,14 @@ Table 4.47): last-mile sites maintained 660 against a 770 target.
 
 **Stage context (the FY of the Finance Bill withdrawal):** gross national budget revised 4.49tn (original) -> 4.37tn (Supp I, Aug 2024) -> 4.64tn (Supp II) -> 4.37tn (Supp III, Jun 2025). Vote 1122 travelled 22,354.9m -> 19,998.0m -> 12,057.9m -> 16,456.8m; overall vote absorption 93% (COB BIRR).
 Appropriated-stage record: [[2024-06-01-ken-2024-25-vote1122-ict-infrastructure-connectivity-appropriated]].
+
+## Development history
+
+- **2026-07-23 — audit stage lands (OAG Summary FY2024/25, published ~May 2026).** Against the
+  95%-absorbed KSh 6.18bn, the Auditor-General's physical verification found **40 of 57 sampled
+  government offices (70%) with no internet connectivity at all** despite listing under the County
+  Connectivity Project, and the remaining 30% on NOFBI too unreliable to use — Civil Registration,
+  Lands Registries and Police offices worst-affected. A second finding: NOFBI 2/2E is one backbone
+  maintained by two entities under ten regional contracts — duplication the OAG links to
+  coordination failure and slow restoration. The money moved; the connectivity largely did not.
+  Source: `budget-archive/KEN/2024/2026-05-01-ken-oag-summary-report-national-government-fy2024-25.pdf`, §3.5.11.

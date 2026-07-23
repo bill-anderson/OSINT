@@ -56,3 +56,13 @@ in the same schedule were wiped: KRA ERP/CRM (KSh 3,436.2m -> 0), Government Dat
 equipment (600m -> 0), IFMIS Oracle licences (50m -> 0), IFMIS county connectivity (150m -> 0);
 Single Window Support cut 258.3m -> 100m. See
 [[2024-08-01-ken-2024-25-vote1071-kra-erp-crm-zeroed]].
+
+## Development history
+
+- **2026-07-23 — the underlying contract, from the audit (OAG Summary FY2024/25).** The E-GP
+  system contract: awarded **25 April 2022** to a consortium at **USD 2,981,289
+  (KSh 344,794,744)**, three years to 25 April 2025; only **45% paid** (USD 1,352,969) by
+  14 October 2025, with systemic/user/onboarding challenges and a supplier-registration backlog.
+  The budget lines (KSh 2,270m FY2024/25; 700m FY2025/26) are therefore an order of magnitude
+  above the core system contract — the lines fund the rollout programme, not the build. Source:
+  OAG Summary FY2024/25 (budget-archive/KEN/2024/), National Treasury section.

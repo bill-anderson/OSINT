@@ -417,8 +417,12 @@ unresolved pending the annual BIRR); the same supplementary moved identity **up*
 June 2024). Execution context: Article 223 withdrawals ran at **KSh 206.81bn in nine months,
 ~5× the prior year** (COB nine-month BIRR) — in-year absorption figures are distorted by
 extra-estimates funding. Full-year actual and audit: not yet published (calendar, not absence).
-**FY2024/25 audited stage not held as of 2026-07-23** (OAG summary in
-acquisitions). **The data-protection vacuum closed with the FY2026/27 restructure:** Vote 1122's new programme
+**FY2024/25 audited stage held (OAG Summary, acquired 2026-07-23):** the headline digital finding
+— **70% of sampled County Connectivity Project offices had no internet at all** against the
+95%-absorbed connectivity line, with Civil Registration, Lands and Police worst-affected; e-GP's
+core contract is USD 2.98m (45% paid by Oct 2025) against multi-billion rollout lines; a health
+equipment fee-for-service scheme paid suppliers 80–255% of SHA-insured service revenue with no PPP
+approval. Full Blue Book (630 MB) remains available-not-staged. **The data-protection vacuum closed with the FY2026/27 restructure:** Vote 1122's new programme
 0222000 gives **Data Protection Services its own line — KSh 917.3m appropriated (original, Jun
 2026)**, rising to a projected 1,328m by 2028/29, beside Cyber Space Management at 457.2m; through
 FY2025/26 the ODPC had no separately visible appropriation (the vacuum stated here until
