@@ -14,6 +14,7 @@ deal_id: jbic-ago-sacs-submarine-cable-2016
 finance_origin: non-state
 ingested: 2026-07-21
 retrieved: 2026-06-24
+body_completeness: excerpt
 ---
 # Export Credit Line for Banco de Desenvolvimento de Angola (SACS Submarine Cable System)
 

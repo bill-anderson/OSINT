@@ -14,6 +14,7 @@ deal_id: equinix-nga-lg3-2025
 finance_origin: non-state
 ingested: 2026-07-21
 retrieved: 2025-11-10
+body_completeness: excerpt
 ---
 # Equinix LG3 Lagos New Data Centre — $22 Million Investment
 

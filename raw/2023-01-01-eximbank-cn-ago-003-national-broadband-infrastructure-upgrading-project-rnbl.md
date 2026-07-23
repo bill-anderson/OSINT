@@ -15,6 +15,7 @@ finance_origin: non-state
 ingested: 2026-07-21
 retrieved: 2024-08-01
 last_reviewed: 2026-07-22
+body_completeness: excerpt
 ---
 # National Broadband Infrastructure Upgrading Project (RNBL)
 

@@ -14,6 +14,7 @@ deal_id: eximbank-cn-ago-001
 finance_origin: non-state
 ingested: 2026-07-21
 retrieved: 2023-09-01
+body_completeness: excerpt
 ---
 # Public Security Project Phase 2 - Anti-Crime Surveillance
 

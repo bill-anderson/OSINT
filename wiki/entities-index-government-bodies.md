@@ -382,6 +382,8 @@ Part of the [entities index](entities-index.md).
 | Ministério da Administração do Território (MAT) — Angola | AGO | dpi.registry, digital.localgov, dpi.id, finance.new | [[ministerio-da-administracao-do-territorio-angola]] |
 | Ministério da Justiça e dos Direitos Humanos (MINJUSDH) — Angola | AGO | dpi.id, dpi.registry, gov.legislate, include.access | [[ministerio-da-justica-e-dos-direitos-humanos-angola]] |
 | MINTTICS (Ministério das Telecomunicações, Tecnologias de Informação e Comunicação Social) | AGO | gov.policy, gov.regional, infra.connect, infra.store, dpi.govtech, data.satellite | [[ministerio-das-telecomunicacoes-tecnologias-de-informacao-e-comunicacao-social-angola]] |
+| Ministério das Finanças (MINFIN) — Angola | AGO | finance.budget, dpi.govtech, gov.policy, dpi.exchange | [[ministerio-das-financas-angola]] |
+| Presidência da República — Angola | AGO | finance.budget, gov.legislate, dpi.govtech | [[presidencia-da-republica-angola]] |
 | SINSE (Serviço de Inteligência e Segurança de Estado) | AGO | infra.cybersec, gov.protect | [[sinse-angola]] |
 | APDP (Autorité de Protection des Données à caractère Personnel) — Mali | MLI | gov.protect, gov.legislate, dpi.registry | [[apdp-mali]] |
 | AGETIC (Agence des Technologies de l'Information et de la Communication) — Mali | MLI | dpi.govtech, infra.cybersec, infra.connect | [[agetic]] |

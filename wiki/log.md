@@ -6,6 +6,34 @@ Reporting): a few lines each, full detail in `log-archive.md` or git.
 
 ---
 
+## 2026-07-23 — update wiki — closing entry (batch job 4/68)
+
+**2 iterations**, then lint. Iteration 1: ingest (9 AGO sources admitted, 7 finance records built).
+Iteration 2: ingest (7 records admitted) → finance compile (AGO) → reconcile (1 resolved) → acquire
+(2 acquired, 11 dropped). A fresh read then found all three queues empty, so the loop broke; cap not
+hit. Net for Angola: **17 sources into `raw/`**, domestic-state budget lines **5 → 11**, the first
+two **enacted OGE volumes** staged for extraction, one double-counted record retired, and two entity
+pages minted. Passes fired: ingest ×2, finance compile ×1, reconcile ×1, acquire ×1, lint ×1.
+contradictions - 0 ; acquisitions - 0 ; awaiting ingest - 0 ; decisions logged - 6
+
+## 2026-07-23 — full lint (update-wiki close, batch job 4/68)
+
+Scoped to the working set this run touched (65 AGO/finance files + the pages edited), not a vault
+sweep. Counts by check: **#1 schema** 0 · **#2 vocabulary** 0 (the 4 invalid slugs were fixed at
+intake) · **#4 orphans & dead links** **2 pages created** — `ministerio-das-financas-angola`
+(15 referrers, ≥10 band: the financier on every Angolan domestic-state record and the publisher of
+the budget documents the series rests on) and `presidencia-da-republica-angola` (9 referrers, middle
+band, created on material: the decree/despacho is *how* Angolan digital appropriations surface),
+both added to `entities-index-government-bodies.md`; `societe-generale` (6 referrers) left, thin ·
+**#5 untagged / tag drift** 1 — `[ministry-of-finance]` → `[ministerio-das-financas-angola]` on the
+AGO World Bank record (a country-less slug used on 3 records in 3 countries) · **#7 duplicates** 0 ·
+**#8 bloat** 0 — `AGO.md` is 3,826 words but 1,716 of those are the exempt *Recent developments*
+log; the rest is 2,253, under threshold · **#11 date prefixes** 0 · **#12 link-list convention** 0 ·
+**#15 body_completeness** **9 backfilled** to `excerpt` (legacy finance-load deal records whose
+bodies are structured dataset extracts, never prose — `reference.md` §4) · **#9 contradictions
+filed** 0 · **#10 stranded in `new/`** 0.
+contradictions - 0 ; acquisitions - 0 ; awaiting ingest - 0 ; decisions logged - 0
+
 ## 2026-07-23 — acquire — 13 AGO budget documents (update-wiki iteration 2, batch job 4/68)
 
 **2 acquired, 11 dropped**, one attempt each; queue now empty. The two acquired are the ones that

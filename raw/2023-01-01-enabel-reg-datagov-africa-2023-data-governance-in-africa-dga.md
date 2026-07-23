@@ -14,6 +14,7 @@ deal_id: enabel-reg-datagov-africa-2023
 finance_origin: non-state
 ingested: 2026-07-21
 retrieved: 2026-06-24
+body_completeness: excerpt
 ---
 # Data Governance in Africa (DGA)
 

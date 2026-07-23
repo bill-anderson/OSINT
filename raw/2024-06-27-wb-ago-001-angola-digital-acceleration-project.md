@@ -8,12 +8,13 @@ date_precision: day
 date_source: source
 places: [AGO]
 topics: [infra.connect, finance.new]
-entities: [[world-bank], [ministry-of-finance]]
+entities: [[world-bank], [ministerio-das-financas-angola]]
 lens: []
 deal_id: wb-ago-001
 finance_origin: non-state
 ingested: 2026-07-21
 retrieved: 2026-06-24
+body_completeness: excerpt
 ---
 # Angola Digital Acceleration Project
 

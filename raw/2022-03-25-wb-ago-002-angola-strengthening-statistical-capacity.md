@@ -14,6 +14,7 @@ deal_id: wb-ago-002
 finance_origin: non-state
 ingested: 2026-07-21
 retrieved: 2026-06-24
+body_completeness: excerpt
 ---
 # Angola Strengthening Statistical Capacity
 

@@ -14,6 +14,7 @@ deal_id: eximbank-cn-ago-002
 finance_origin: non-state
 ingested: 2026-07-21
 retrieved: 2024-06-17
+body_completeness: excerpt
 ---
 # China Eximbank provides $79.7 million loan for Phase 2 of the Public Security Project
 
