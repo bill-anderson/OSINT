@@ -79,8 +79,11 @@ the passes do the work.
 
 | Trigger | File | Function |
 |---|---|---|
-| `run the daily sweep` | [DAILY-SWEEP.md](../DAILY-SWEEP.md) | Scans the trade journals in `trade-journals.csv` for items since the last run, stages candidates into `new/`, then hands off to `update wiki`. State in `sweep/daily/`. |
+| `run the daily sweep` | [DAILY-SWEEP.md](../DAILY-SWEEP.md) | Scans the sources listed in `sweep-daily.csv` (trade journals today, but the list can hold anything) for items since the last run, stages candidates into `new/`, then hands off to `update wiki`. State in `sweep/daily/`. |
 | `run domestic finance sweep for <country> <year>` | [DOMESTIC-FINANCE-SWEEP.md](../DOMESTIC-FINANCE-SWEEP.md) | Gathers the budget material (budget documents, outturn/audit reports, ministerial statements, reporting) for one country and one fiscal year. A bare year means the year the fiscal year begins. State in `sweep/domestic/`. |
+| `run the journals sweep` | [CONTENT-SWEEP.md](../CONTENT-SWEEP.md) | Content sweep over `sweep-journals.csv` — new articles/papers since `last_swept_day` (day-only state in `sweep/journals/`), staged to `new/`, hands off to `update wiki`. |
+| `run the newspapers sweep` | [CONTENT-SWEEP.md](../CONTENT-SWEEP.md) | Content sweep over `sweep-newspapers.csv` — new stories (place from each row's `iso-3`); state in `sweep/newspapers/`. Same shared procedure. |
+| `run the organisations sweep` | [CONTENT-SWEEP.md](../CONTENT-SWEEP.md) | Content sweep over `sweep-organisations.csv` — each org's news/blogs/papers; state in `sweep/organisations/`. Same shared procedure. (Pruning dead orgs is manual.) |
 
 **Archived** ([archived-procs/](../archived-procs/) — kept for reference, not run)
 

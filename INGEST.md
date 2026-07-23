@@ -205,9 +205,15 @@ ingest — manual or sweep-triggered.
 
 - Append **one `## YYYY-MM-DD HH:MM` section** for this run at the **top** of the
   file (newest first).
-- **One row per source admitted to `raw/`** this run: its `place` facet(s) and its
-  verbatim title hyperlinked to the `raw/` file —
-  `| NGA | [title](../raw/2026-07-22-slug.md) |`. Multiple places → list them.
+- **One row per source admitted to `raw/`** this run. Read **both columns from the
+  admitted file's own frontmatter**, never from the filename or the deal:
+  - **Place** = the file's `place`/`places` facet — for a finance record the
+    **recipient** place (e.g. `COD`, `SEN`), never the financier's country (`CN`)
+    or an entity (`MOFCOM`). Multiple places → list them.
+  - **Title** = the file's `title:` value, **verbatim**, as the hyperlink text —
+    **never the filename, slug or `deal_id`** (`boc-civ-003` is a filename, not a
+    title).
+  - `| COD | [China Eximbank provides RMB 1.05 billion … ICT Modernization Project](../raw/eximbank-cn-cod-002-primary-companion.md) |`
 - List **only items that reached `raw/`** — not contradictions, acquisitions or
   deletions. A run that admitted nothing writes no section.
 - **Prune** any section older than **7 days** before saving. It is a view, not a

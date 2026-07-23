@@ -8,7 +8,7 @@ provenance and its rich per-country notes.
 
 Nothing here is used by the ongoing **daily trade-journal sweep**
 (`DAILY-SWEEP.md`), which is self-contained and reads
-`wiki/trade-journals.csv` fresh each run.
+`wiki/sweep-daily.csv` fresh each run.
 
 Contents: `README.md` (Phase-2 sweep procedure), `query-recipes.md` (country /
 newspaper / Arabic recipes), `ledger.csv` (per-country state + notes),

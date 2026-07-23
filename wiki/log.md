@@ -6,6 +6,37 @@ Reporting): a few lines each, full detail in `log-archive.md` or git.
 
 ---
 
+## 2026-07-23 — New shared content sweep: journals · newspapers · organisations
+
+`CONTENT-SWEEP.md` (root, standalone process): one parameterised procedure for three content-scoped
+(not time-scoped) sweeps. Triggers "run the {journals,newspapers,organisations} sweep". Per-sweep state
+`sweep/<target>/state.json` → **`last_swept_day`** (day only), initialised to **2026-06-30**; each run
+searches from `last_swept_day − 1 day` to today, then sets `last_swept_day = today` (last step, so an
+interrupt re-sweeps). Domain-scoped Exa (same firewall as the daily sweep), stages flat into `new/`,
+hands off to `update wiki`. Log line records **duration + window + staged count only** — no
+captured/dropped detail (that's `ingested_log.md`). Cadence is on-demand; Bill will tune frequency.
+Newspapers carry `iso-3` → place head-start. Wired into index Processes, CLAUDE.md header, reference.md
+(folder tree, CSV list, §7). **Organisations:** swept for news/blogs/papers like the others, but the
+"report orgs with no content" idea was dropped — pruning dead orgs is a manual job. **Revert:**
+`git rm CONTENT-SWEEP.md sweep/{journals,newspapers,organisations}/` + revert refs.
+
+## 2026-07-23 — Daily sweep input renamed: `trade-journals.csv` → `sweep-daily.csv`
+
+Bill's rename (part of the `sweep-*.csv` scheme ahead of new sweeps). Repointed live refs: DAILY-SWEEP.md
+(×6), wiki/index.md, wiki/reference.md (folder tree + §7), sweep/archive/README.md. History manifests
+left as-is. **Also reframed the sweep's scope**: no longer "journals only" — the list *defines* the
+sweep and can hold anything worth checking daily (incl. a temporary entry), journals for now. Updated
+DAILY-SWEEP.md title/intro/Boundaries and the index row. Revert: rename back + revert refs.
+
+## 2026-07-23 — ingested_log fix: both columns come from the admitted file's frontmatter
+
+First real ingest run wrote the finance rows wrong — link text = `deal_id`/filename ("boc-civ-003
+primary + record") and Place = financier (`CN`, `MOFCOM`) instead of recipient. Fixed the rule in
+INGEST.md → *Ending the run*: **Place** = the file's `place` facet (recipient, never the financier);
+**Title** = the file's verbatim `title:`, never the filename/slug/`deal_id`. Also corrected the 20
+existing rows in `ingested_log.md` (raw frontmatter confirms COD/SEN/NGA/GHA/ZAF etc.). Revert: n/a
+(correction).
+
 ## 2026-07-23 — New rolling view: `wiki/ingested_log.md`
 
 Bill wants to see what the automatic sweeps (esp. the news sweep) are admitting. New file

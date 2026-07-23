@@ -1,10 +1,16 @@
-# Daily trade-journal sweep — procedure
+# Daily sweep — procedure
 
 **Created 2026-07-19.** The daily workhorse: a lightweight, resumable acquisition
-sweep of the trade journals in `wiki/trade-journals.csv`, run manually from Claude
-Code. It brings the wiki's holdings up to date with journal stories published
+sweep of whatever sources are listed in `wiki/sweep-daily.csv`, run manually from
+Claude Code. It brings the wiki's holdings up to date with stories published
 **since the last run**, staging candidate source files into `new/` for the
 standard ingest pipeline.
+
+**The list defines the sweep, not a category.** `sweep-daily.csv` is trade journals
+today, but it can hold **anything** worth checking daily — a national outlet, a
+regulator's newsroom, or a site added **temporarily** while Bill is working on
+something, then removed. The procedure below is agnostic to what's on the list; it
+just sweeps the domains it finds there.
 
 This is *not* the Phase-2 back-fill (completed 2026-07-17; its apparatus is in
 `sweep/archive/`), and it is *not* the digest. See **Boundaries** below.
@@ -15,21 +21,22 @@ This is *not* the Phase-2 back-fill (completed 2026-07-17; its apparatus is in
   that feed the wiki. It is upstream of the base: it never writes to `raw/` or any
   `wiki/` page. Ingest is the only door to `raw/`. Staged frontmatter is a
   best-effort head-start, validated at ingest — never a substitute for it.
-- **Journals only.** Its whole world is `wiki/trade-journals.csv`. The *universal*
-  sweep of everything else — national press, think tanks, journals not in that CSV
-  — is the **digest**, run from the `africa-digital-policy-watch` skill in the
-  Claude app as a read-only briefing, **not** from here. The two are disjoint by
-  design: this sweep is scoped to those journal domains; the digest covers
-  everything except them. No double-searching, no competing procedures.
+- **The list is its whole world.** This sweep touches only the domains in
+  `wiki/sweep-daily.csv` — nothing else. The *universal* sweep of everything not on
+  the list — national press, think tanks, sources not in that CSV — is the
+  **digest**, run from the `africa-digital-policy-watch` skill in the Claude app as
+  a read-only briefing, **not** from here. The two are disjoint by design: this
+  sweep is scoped to the listed domains; the digest covers everything except them.
+  No double-searching, no competing procedures.
 - **Distinct from `africa-digital-sources`.** That skill's trade-press scan is a
   read-only digest over its own registry. This is an acquisition sweep that files
-  wiki candidates. `wiki/trade-journals.csv` is the authority for *this* sweep;
+  wiki candidates. `wiki/sweep-daily.csv` is the authority for *this* sweep;
   keep it as the single source of truth and sync the skill's list to it, not the
   reverse.
 
 ## Sources — read the CSV fresh, every run
 
-Read `wiki/trade-journals.csv` at the start of **every** run (it changes). Each
+Read `wiki/sweep-daily.csv` at the start of **every** run (it changes). Each
 line is `URL,Title`. **Domain-scope every Exa query to these domains** — this is
 also the admissibility firewall: querying the named journals directly keeps out
 the unattributed content-mirrors (e.g. Russian-network `*.news-pravda.com`) and
@@ -131,7 +138,7 @@ from the day *already* swept, not newly-indexed weekend items.
 
 0. **Recover state.** Read `sweep/daily/state.json` and `sweep/daily/seen.csv`.
    First run: initialise both (empty seen ledger; window per above).
-1. **Read sources.** Load `wiki/trade-journals.csv` fresh.
+1. **Read sources.** Load `wiki/sweep-daily.csv` fresh.
 2. **Compute the window** from the high-water mark (above).
 3. **Search.** For each journal domain, run the two daily clusters (D1, D2 below),
    domain-scoped `web_search_exa`, date-bounded to the window, `numResults` ~25.
@@ -356,7 +363,7 @@ from the day *already* swept, not newly-indexed weekend items.
 type: source
 title: ...
 url: https://...
-publisher: ...                 # journal Title from trade-journals.csv
+publisher: ...                 # source Title from sweep-daily.csv
 published: 2026-07-18
 date_precision: day            # day | month | year
 date_source: source            # source | proxy

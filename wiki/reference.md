@@ -142,9 +142,11 @@ budget-archive/           # budget documents already extracted (BUDGET-EXTRACT.m
   {ISO3}/{FY}/            #   artefact + companion + the extracted tables as CSV
                           #   artefacts untracked (binary .gitignore rule); CSVs tracked
 sweep/                    # acquisition-sweep STATE (procedures are root DAILY-SWEEP.md /
-                          #   DOMESTIC-FINANCE-SWEEP.md — upstream of new/):
-                          #   daily/           (daily trade-journal sweep state)
+                          #   DOMESTIC-FINANCE-SWEEP.md / CONTENT-SWEEP.md — upstream of new/):
+                          #   daily/           (daily sweep state)
                           #   domestic/        (domestic finance sweep state)
+                          #   journals/ newspapers/ organisations/   (content-sweep state:
+                          #     each holds state.json → last_swept_day)
                           #   archive/         (completed Phase-2 back-fill apparatus)
                           #   recapture/       (SPENT TOOLING — see note below)
 raw/                      # admitted sources, flat — immutable after ingest (one bounded
@@ -167,7 +169,10 @@ wiki/
   intersections/          # topic × place — created LAZILY, only when substantive
   taxonomy.md             # SUBJECT controlled vocabulary (authority)
   countries.csv           # PLACE controlled vocabulary (authority)
-  trade-journals.csv      # sweep input list (read fresh each run)
+  sweep-daily.csv         # daily sweep input list (read fresh each run)
+  sweep-journals.csv      # content sweep: journals (url, Title, Description)
+  sweep-newspapers.csv    # content sweep: newspapers (URL, iso-3, Title)
+  sweep-organisations.csv # content sweep: organisations (URL, Title, Primary Focus)
   index.md                # master table of contents
   topics-index.md         # faceted navigation by subject
   places-index.md         # faceted navigation by place
@@ -527,12 +532,16 @@ frontmatter, §5 entity bar, §7 sweep intake, §8 hygiene. `new/` only —
 
 Acquisition sweeps run *upstream* of the wiki and stage into `new/`.
 
-- **Daily trade-journal sweep** (the workhorse) — procedure in
-  **`DAILY-SWEEP.md`**. Run manually from CC; loops the journals in
-  `wiki/trade-journals.csv` (read fresh each run) over a high-water-mark window;
-  stages **flat** candidate files into `new/` (no per-place subfolders);
-  keeps its state in `sweep/daily/`.
-- The universal sweep of everything *except* those journals (national press,
+- **Daily sweep** (the workhorse) — procedure in **`DAILY-SWEEP.md`**. Run manually
+  from CC; loops the domains in `wiki/sweep-daily.csv` (read fresh each run) over a
+  high-water-mark window; stages **flat** candidate files into `new/` (no per-place
+  subfolders); keeps its state in `sweep/daily/`.
+- **Content sweeps** (journals, newspapers, organisations) — one shared procedure in
+  **`CONTENT-SWEEP.md`**, content-scoped rather than time-scoped. Each works a list
+  (`wiki/sweep-{journals,newspapers,organisations}.csv`) from a **day-only**
+  `last_swept_day` (state in `sweep/journals/` etc.), searching from one day before;
+  stages flat into `new/` and hands off to `update wiki`.
+- The universal sweep of everything *except* the listed domains (national press,
   think tanks) is the **digest**, run read-only from the
   `africa-digital-policy-watch` skill — it never writes to `new/`.
 - **Phase-2 back-fill** (completed 2026-07-17) — the 2025→2026 national-press +

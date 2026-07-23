@@ -7,7 +7,8 @@ file; `wiki/` holds the drivers and specs those processes call, and
 on.** The root processes: `INGEST.md` ("run ingest"), `LINT.md` ("full lint"),
 `RECONCILE.md` ("run reconcile"), `ACQUIRE.md` ("run acquisitions"),
 `FINANCE-COMPILE.md` ("run finance compile"), `BUDGET-EXTRACT.md` ("run budget
-extract"), `DAILY-SWEEP.md` and `DOMESTIC-FINANCE-SWEEP.md` (the sweeps). The
+extract"), and the sweeps — `DAILY-SWEEP.md`, `DOMESTIC-FINANCE-SWEEP.md`, and
+`CONTENT-SWEEP.md` (the shared journals / newspapers / organisations sweep). The
 finance drivers — `wiki/finance-load-domestic-state.md`,
 `wiki/finance-news-driver.md` — feed `wiki/finance-record-spec.md` and are invoked
 by ingest, not triggered as top-level passes. `wiki/index.md` → *Processes* is the
