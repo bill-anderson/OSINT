@@ -33,18 +33,29 @@ param(
   [string] $ClaudeExe = 'claude',            # on PATH; or full path e.g. C:\Users\bill\.local\bin\claude
   [int]    $MaxJobs   = 0,                    # 0 = drain all; 1 = test a single job
   [double] $BudgetHoursOverride = -1,         # <0 = take Budget: from the batch file
-  [string] $Model     = ''                    # '' = use the configured default model
+  [string] $Model     = '',                   # '' = use the configured default model
+  [string] $LogPath   = ''                    # '' = %TEMP%\run-overnight.log (kept OUT of Dropbox)
 )
 
 $ErrorActionPreference = 'Stop'
 Set-Location $RepoDir
 
-$LogFile = Join-Path $RepoDir 'run-overnight.log'
+# Log lives OUTSIDE Dropbox by default -- Dropbox locks synced files mid-append.
+$LogFile = if ($LogPath) { $LogPath } else { Join-Path ([System.IO.Path]::GetTempPath()) 'run-overnight.log' }
+
+function Write-LogRaw($text) {
+  for ($t = 0; $t -lt 6; $t++) {
+    try { Add-Content -LiteralPath $LogFile -Value $text -Encoding UTF8; return }
+    catch { Start-Sleep -Milliseconds 250 }   # transient lock -- retry
+  }
+  # give up on the file after retries; console output is not lost
+}
 function Log($msg) {
   $line = "[{0}] {1}" -f (Get-Date -Format 'yyyy-MM-dd HH:mm:ss'), $msg
   Write-Host $line
-  Add-Content -Path $LogFile -Value $line -Encoding UTF8
+  Write-LogRaw $line
 }
+Write-Host "log file: $LogFile"
 
 # --- helpers -------------------------------------------------------------
 function Read-Lines { Get-Content -LiteralPath $BatchFile -Encoding UTF8 }
@@ -79,7 +90,7 @@ function Invoke-Claude($prompt) {
   if ($Model) { $a += @('--model', $Model) }
   $out = & $ClaudeExe @a 2>&1 | Out-String
   $script:LastCode = $LASTEXITCODE
-  Add-Content -Path $LogFile -Value $out -Encoding UTF8
+  Write-LogRaw $out
   return $out
 }
 
