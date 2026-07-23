@@ -10,6 +10,7 @@ places: [AGO]
 topics: [finance.budget]
 entities: [[ministerio-das-financas-angola], [ministerio-das-telecomunicacoes-tecnologias-de-informacao-e-comunicacao-social-angola]]
 lens: []
+ingested: 2026-07-23
 retrieved: 2026-07-23
 sweep_batch: domestic-finance-AGO-2025-2026-07-23
 fiscal_years_covered: ["2025"]

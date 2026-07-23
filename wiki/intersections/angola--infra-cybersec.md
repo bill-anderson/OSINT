@@ -8,8 +8,8 @@ topics: [infra.cybersec, gov.legislate, gov.protect]
 entities: [[angola-cybersecurity-law], [national-cybersecurity-strategy-angola], [centro-nacional-de-ciberseguranca-angola], [cybastion], [angola-fake-news-law], [sinse-angola], [predator-spyware-angola]]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-20
-sources: [[2025-12-03-decreto-presidencial-256-25-estrategia-nacional-ciberseguranca-angola], [2025-12-03-decreto-presidencial-258-25-conselho-nacional-ciberseguranca-angola], [2025-12-10-angola-decreto-presidencial-263-25-centro-nacional-ciberseguranca], [2026-01-23-proposta-lei-ciberseguranca-aprovada-generalidade], [2026-07-07-divergencias-adiamento-lei-sobre-ciberseguranca], [2026-07-08-deputados-suspendem-discussao-lei-da-ciberseguranca], [2025-12-09-angola-unveils-national-cybersecurity-strategy], [2025-06-24-cybastion-angola-telecom-acordo-soberania-digital], [2025-06-25-cybastion-angola-telecom-170m-digital-sovereignty], [2025-06-30-angola-taps-us-firm-cybastion-to-boost-cybersecurity], [2026-05-21-lei-contra-fake-news-aprovada-definitivamente], [2026-02-26-sinse-adquiriu-spyware-predator-para-espiar-jornalista], [2026-03-03-joao-lourenco-cybercrime-desafio-da-justica]]
+last_reviewed: 2026-07-23
+sources: [[2025-11-06-ago-oge-2026-ciberseguranca-32bn], [2026-02-20-ago-oge-2026-comunicacoes-programa-corte], [2025-12-03-decreto-presidencial-256-25-estrategia-nacional-ciberseguranca-angola], [2025-12-03-decreto-presidencial-258-25-conselho-nacional-ciberseguranca-angola], [2025-12-10-angola-decreto-presidencial-263-25-centro-nacional-ciberseguranca], [2026-01-23-proposta-lei-ciberseguranca-aprovada-generalidade], [2026-07-07-divergencias-adiamento-lei-sobre-ciberseguranca], [2026-07-08-deputados-suspendem-discussao-lei-da-ciberseguranca], [2025-12-09-angola-unveils-national-cybersecurity-strategy], [2025-06-24-cybastion-angola-telecom-acordo-soberania-digital], [2025-06-25-cybastion-angola-telecom-170m-digital-sovereignty], [2025-06-30-angola-taps-us-firm-cybastion-to-boost-cybersecurity], [2026-05-21-lei-contra-fake-news-aprovada-definitivamente], [2026-02-26-sinse-adquiriu-spyware-predator-para-espiar-jornalista], [2026-03-03-joao-lourenco-cybercrime-desafio-da-justica]]
 ---
 
 # Angola × Cybersecurity
@@ -67,6 +67,8 @@ The **[[angola-fake-news-law]]** (Lei contra Informações Falsas na Internet) *
 
 The sharpest evidence is a **surveillance case**: Amnesty International's Security Lab gave the **first forensic confirmation** that Intellexa's **Predator** spyware ([[predator-spyware-angola]]) was **active on journalist Teixeira-candido]]'s phone on 4 May 2024**, with the state intelligence service **[[sinse-angola]]** named as the software's end-user in a contract dated to April 2021. Cândido filed a criminal complaint; this is the adversarial counter-story (reported by *Novo Jornal* / *Expresso*) to the state's digital-sovereignty framing.
 
+**And the money is going the other way (2025→2026).** While the institution build accelerated, the budget line for it was **cut 54%**: the OGE 2026 programme "melhoria da posição do país no Índice Global de Cibersegurança" is **Kz 32,3 mil milhões** (≈ USD 35 M at the source's stated BNA rate), down from **Kz 70,5 mil milhões** (≈ USD 76,4 M) in OGE 2025 — still the third-largest item inside "Expansão e Modernização das Comunicações" at ~20% of that programme, itself cut 30,5% to Kz 159,2 mil milhões. The figure is proposta-stage (read 2025-11-06, before the 15-Dec-2025 enactment), though the programme total it quoted matches the enacted number. A state standing up a regulator, a CSIRT, a national council and a strategy is doing so on **half the appropriation of the year before** — and Check Point's *Estado da Cibersegurança em 2025* places Angola among high-risk countries, with education and health the preferred data-theft targets. Sources: [[2025-11-06-ago-oge-2026-ciberseguranca-32bn]], [[2026-02-20-ago-oge-2026-comunicacoes-programa-corte]].
+
 **International cooperation.** President Lourenço reported (2026-03-03) that Angola has **signed the UN Convention against Cybercrime** (ratification pending) and that ~**$20m** in cybercrime-related assets were seized in 2025 (illegal crypto-mining, bank-system attacks, comms diversion).
 
 ## Links
@@ -88,3 +90,5 @@ Place: [[AGO]] · Concepts: [[infra.cybersec]] · [[gov.legislate]] · [[gov.pro
 - [[2026-05-21-lei-contra-fake-news-aprovada-definitivamente]]
 - [[2026-02-26-sinse-adquiriu-spyware-predator-para-espiar-jornalista]]
 - [[2026-03-03-joao-lourenco-cybercrime-desafio-da-justica]]
+- [[2025-11-06-ago-oge-2026-ciberseguranca-32bn]]
+- [[2026-02-20-ago-oge-2026-comunicacoes-programa-corte]]

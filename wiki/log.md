@@ -6,6 +6,50 @@ Reporting): a few lines each, full detail in `log-archive.md` or git.
 
 ---
 
+## 2026-07-23 — ingest — AGO domestic finance backlog (update-wiki iteration 1, batch job 4/68)
+
+Drained `new/` (9 AGO candidates from the AGO 2024/2025/2026 sweeps). **9 admitted to `raw/`**, 0
+deleted, 0 new contradictions, 0 new acquisitions (the AGO seams were already queued). Fixed 4
+invalid topic slugs at intake (`govtech`→`dpi.govtech` ×2, `cybersecurity`→`infra.cybersec`,
+`connectivity`→`infra.connect`) and renamed the DP 11/26 clip to its `published` date (2026-01-13 →
+2026-01-16). Entity tags corrected: `instituto-de-modernizacao-administrativa-angola` → held slug
+`ima-angola`; added `microsoft`, `presidencia-da-republica-angola`, `bilhete-de-identidade-angola`.
+**7 finance records built into `new/`** (driver case 4/reporting, plus two executive instruments) —
+FY2025 + FY2026 "Expansão e Modernização das Comunicações" (Kz 229,3 mM / 159,2 mM, appropriated);
+FY2026 e-gov Kz 136,7 mM and justice Kz 89,6 mM (proposed, `scope_confidence: partial`); DP 169/25
+USD 218,5 M BI crédito (revised/supplementary-1, increment); DP 12/26 Kz 9,2 mM and DP 11/26 Kz 8,6 mM
+(stage `unclear`). Pages touched: `wiki/places/AGO.md` (+7 Recent-developments entries, `finance.budget`
+added to topics), intersections `angola--dpi-id`, `angola--dpi-govtech`, `angola--infra-connect`,
+`angola--infra-cybersec`, `angola--data-satellite`; 5 entity `sources:` appends; `places-index.md`;
+the AngoSat contradiction brief; `documentation/domestic-finance-run-log.csv` (+7) and
+`domestic-budget-extraction.md`.
+
+**Decisions (5).**
+1. **Parent-line capture, not parent + children.** pti.ao reports the OGE communications *programme*
+   total and its named sub-lines (4G, 3G, cyber-index). Recorded the parent once, sub-lines in the
+   record body — recording both would double-count the same appropriation in the hub aggregate.
+2. **No records built from the corrected PAC 2025 lines.** Two corrected PAC lines match OGE 2025
+   programme figures *exactly* (banda larga Kz 107,8 mM = 4G; plataforma/centro de dados Kz 70,5 mM =
+   cyber-index), so the PAC looks re-based on the vote. Building both sets would double-count. The
+   correction went in as a dated `## Development history` line on the held AngoSat-3 record; the
+   `amount_total` was **not** overwritten — that is reconcile's call on the open contradiction, which
+   was updated with this new evidence.
+3. **Sector envelopes not recorded as finance.** The OGE 2025 "Comunicações e Tecnologias de
+   Informação" total (Kz 226,4 mM) and the OGE 2026 education (Kz 524,7 mM) / health (Kz 598,8 mM)
+   programmes are envelopes, not programme lines with a wholly-digital stated purpose. Carried as
+   dated figures on the AGO hub and the intersections; no digital share computed.
+4. **`amount_usd` left blank on the AOA records.** pti.ao states its own USD conversions "à luz da
+   taxa de câmbio do BNA" with no rate, date or basis — neither an FY average nor a documented spot
+   rate. Source figures held in the body; nothing promoted to a compiled field.
+5. **Origin risk flagged, not apportioned.** The OGE 4G line may carry the China Eximbank-financed
+   RNBL, which the origin gate would make `non-state`. No source on file states any OGE digital
+   line's funding source, so all default to `domestic-state`, flagged, and the Mapas
+   (`ago-oge2025-mapas`/`ago-oge2026-mapas`) are named as the arbiter on the records and pages.
+
+Also: `last_reviewed` was **not** bumped on the 5 entity pages — a one-line `sources:` append is not
+a substantive re-check (reference.md §4). Revert: this commit.
+contradictions - 1 ; acquisitions - 15 ; awaiting ingest - 7 ; decisions logged - 5
+
 ## 2026-07-23 — domestic finance sweep — AGO 2026 (batch job 3/68)
 
 AGO 2026 → FY2026 (calendar-year OGE), **in-year**. OGE 2026 = **Lei 01/V/4.ª/2026-2027** (aprovada

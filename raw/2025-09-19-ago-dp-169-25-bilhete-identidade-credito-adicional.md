@@ -10,6 +10,7 @@ places: [AGO]
 topics: [dpi.id, finance.budget]
 entities: [[ministerio-da-justica-e-dos-direitos-humanos-angola], [bilhete-de-identidade-angola], [ministerio-das-financas-angola]]
 lens: []
+ingested: 2026-07-23
 retrieved: 2026-07-23
 sweep_batch: domestic-finance-AGO-2025-2026-07-23
 fiscal_years_covered: ["2025"]

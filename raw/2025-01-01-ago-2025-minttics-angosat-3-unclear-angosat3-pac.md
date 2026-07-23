@@ -62,6 +62,8 @@ https://www.novojornal.co.ao/economia/detalhe/pac2025-minttics-com-despesas-de-6
 
 ## Development history
 
+- **2025-02-27** — MINTTICS **corrected the PAC 2025** (new document dated 27-Feb-2025, published 05-Mar-2025 on the Portal de Compras Públicas), keeping the same 29 projects but restating the contract estimates: the ministry total falls from Kz 616,7 biliões to **Kz 225,6 mil milhões**, "Construção e Lançamento de um Satélite Doméstico" from Kz 298,7 biliões to **Kz 712,7 milhões**, and "Sistema de Observação da Terra" from Kz 10,4 biliões to **Kz 77,7 milhões** (reclassified from a 2022 continuation to a "nova contratação"). The **Kz 278 bn figure this record carries is a first-PAC artefact**; it is left in place pending reconcile, not silently overwritten — see `reviews/contradictions/open/2026-07-23-ago-minttics-angosat3-pac-278bn-vs-712m.md`. [https://pti.ao/minttics-actualiza-pac-2025-despesas-caem-para-menos-de-230-mil-milhoes-de-kwanzas/]
+
 ## Notes
 
 - Translation of the description: MINTTICS has filed its 2025 Annual Contracting Plan (PAC) on the Public Procurement Portal, anticipating spending of around Kz 616.7 billion; almost half of that (Kz 278 billion) is to be spent on Angosat-3, the domestic earth-observation satellite intended to support agriculture and combat drought.

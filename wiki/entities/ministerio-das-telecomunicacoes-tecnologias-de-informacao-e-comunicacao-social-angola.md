@@ -7,7 +7,7 @@ topics: [gov.policy, gov.regional, infra.connect, infra.store, dpi.govtech, data
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-20
-sources: [[2026-04-28-pr-inaugura-novo-centro-de-dados-do-governo], [2026-03-26-minttics-projectos-estruturantes-base-tecnologica], [2025-11-04-kenya-and-angola-strengthen-digital-ties-luanda-summit], [2026-06-11-namibia-and-angola-join-forces-angotic-mou], [2023-05-17-minttics-matias-borges-22000km-rede-fibra-optica-terrestre], [2025-05-09-angola-minttics-2000km-fibra-optica-este-ano], [2025-11-28-angola-30000km-terrestrial-fibre-itu-wtdc-baku], [2026-06-30-unesco-ram-angola-28000km-fibra-prontidao-ia], [2026-07-07-divergencias-adiamento-lei-sobre-ciberseguranca], [2025-12-10-angola-decreto-presidencial-263-25-centro-nacional-ciberseguranca]]
+sources: [[2026-04-28-pr-inaugura-novo-centro-de-dados-do-governo], [2026-03-26-minttics-projectos-estruturantes-base-tecnologica], [2025-11-04-kenya-and-angola-strengthen-digital-ties-luanda-summit], [2026-06-11-namibia-and-angola-join-forces-angotic-mou], [2023-05-17-minttics-matias-borges-22000km-rede-fibra-optica-terrestre], [2025-05-09-angola-minttics-2000km-fibra-optica-este-ano], [2025-11-28-angola-30000km-terrestrial-fibre-itu-wtdc-baku], [2026-06-30-unesco-ram-angola-28000km-fibra-prontidao-ia], [2026-07-07-divergencias-adiamento-lei-sobre-ciberseguranca], [2025-12-10-angola-decreto-presidencial-263-25-centro-nacional-ciberseguranca], [2025-01-21-ago-oge-2025-comunicacoes-tecnologias-226bn], [2025-03-25-ago-minttics-pac-2025-actualizacao], [2025-11-06-ago-oge-2026-ciberseguranca-32bn], [2026-02-20-ago-oge-2026-comunicacoes-programa-corte]]
 ---
 
 # MINTTICS (Ministry of Telecommunications, Information Technologies and Social Communication)

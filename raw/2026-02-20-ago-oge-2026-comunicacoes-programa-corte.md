@@ -7,9 +7,10 @@ published: 2026-02-20
 date_precision: day
 date_source: source
 places: [AGO]
-topics: [finance.budget, connectivity]
+topics: [finance.budget, infra.connect]
 entities: [[ministerio-das-financas-angola], [ministerio-das-telecomunicacoes-tecnologias-de-informacao-e-comunicacao-social-angola]]
 lens: []
+ingested: 2026-07-23
 retrieved: 2026-07-23
 sweep_batch: domestic-finance-AGO-2026-2026-07-23
 fiscal_years_covered: ["2026"]

@@ -7,7 +7,7 @@ topics: [dpi.govtech, dpi.exchange, dpi.id, gov.policy, gov.legislate, gov.stand
 lens: []
 status: active
 last_reviewed: 2026-07-17
-sources: [[2024-06-27 Inclusive Digitalization in Eastern and Southern Africa Program - Angola], [2026-03-05-governo-aposta-reorganizacao-administracao-publica-governo-digital-2027], [2026-06-17-ima-tis-contrato-projecto-infra-estruturas-digitais-publicas], [2026-05-23-agt-eliminacao-gradual-documentos-em-papel]]
+sources: [[2024-06-27 Inclusive Digitalization in Eastern and Southern Africa Program - Angola], [2026-03-05-governo-aposta-reorganizacao-administracao-publica-governo-digital-2027], [2026-06-17-ima-tis-contrato-projecto-infra-estruturas-digitais-publicas], [2026-05-23-agt-eliminacao-gradual-documentos-em-papel], [2026-01-16-ago-dp-11-26-microsoft-licencas-8-6bn]]
 ---
 
 # IMA (Instituto de Modernização Administrativa)

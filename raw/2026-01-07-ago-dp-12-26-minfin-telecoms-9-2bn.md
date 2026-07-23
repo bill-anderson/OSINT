@@ -7,9 +7,10 @@ published: 2026-01-07
 date_precision: day
 date_source: source
 places: [AGO]
-topics: [finance.budget, govtech]
-entities: [[ministerio-das-financas-angola]]
+topics: [finance.budget, dpi.govtech]
+entities: [[presidencia-da-republica-angola], [ministerio-das-financas-angola]]
 lens: []
+ingested: 2026-07-23
 retrieved: 2026-07-23
 sweep_batch: domestic-finance-AGO-2026-2026-07-23
 fiscal_years_covered: ["2026"]

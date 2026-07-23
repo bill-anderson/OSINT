@@ -46,12 +46,25 @@ The held Kz 278 bn is therefore **not a competing estimate but a withdrawn one**
    appropriation arbiter.
 3. Does the corrected PAC total (Kz 225,6 mil milhões) reconcile with the OGE 2025 digital sector
    envelope (Kz 226,4 mil milhões, per the staged pti.ao piece)? The near-match suggests the
-   corrected PAC is scaled to the actual vote.
+   corrected PAC is scaled to the actual vote. **Strengthened at ingest, 2026-07-23:** two
+   corrected PAC lines match OGE 2025 programme lines *exactly* — "Implementação da Rede Nacional
+   de Banda Larga" **Kz 107,8 mil milhões** = the OGE "Expansão da rede 4G" line, and "Plataforma
+   Analítica, Centro de Dados Principal, Back Up e Plataforma Nacional de Nuvens" **Kz 70,5 mil
+   milhões** = the OGE "melhoria da posição no Índice Global de Cibersegurança" line
+   (`raw/2026-02-20-ago-oge-2026-comunicacoes-programa-corte.md`,
+   `raw/2025-11-06-ago-oge-2026-ciberseguranca-32bn.md`). Two exact coincidences are not chance:
+   the corrected PAC looks re-based on the enacted vote, with different line names. Settling this
+   also settles whether the OGE 4G line carries the **China Eximbank-financed** RNBL
+   (`raw/2023-01-01-eximbank-cn-ago-003-…`), which would move part of it to `non-state` origin.
 
 ## Affected
 
-- `raw/2025-01-01-ago-2025-minttics-angosat-3-unclear-angosat3-pac.md` — the Kz 278 bn record.
-- Corrective source staged: `new/2025-03-25-ago-minttics-pac-2025-actualizacao.md`.
+- `raw/2025-01-01-ago-2025-minttics-angosat-3-unclear-angosat3-pac.md` — the Kz 278 bn record;
+  the correction is now recorded as a dated line in its `## Development history` (ingest,
+  2026-07-23), **not** applied to `amount_total` — that is reconcile's call.
+- Corrective source admitted: `raw/2025-03-25-ago-minttics-pac-2025-actualizacao.md`.
+- No separate finance records were built from the corrected PAC lines (ingest, 2026-07-23), to
+  avoid double-counting them against the OGE programme records now held.
 - Full corrected PAC 2025 document queued in `reviews/acquisitions.md` (`ago-minttics-pac-2025`).
 
 **CC holds no PAC PDF on file** — both the first and corrected PAC are known only through pti.ao /

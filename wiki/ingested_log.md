@@ -1,5 +1,19 @@
 # ingested_log.md — what ingest admitted to `raw/` (rolling 7-day view)
 
+## 2026-07-23 21:05
+
+| Place | Source |
+|---|---|
+| AGO | [Governo 'aposta fichas' nas comunicações e tecnologias de informação com injecção de 226 mil milhões Kz no sector](../raw/2025-01-21-ago-oge-2025-comunicacoes-tecnologias-226bn.md) |
+| AGO | [MINTTICS actualiza PAC 2025 — despesas caem para menos de 230 mil milhões de kwanzas](../raw/2025-03-25-ago-minttics-pac-2025-actualizacao.md) |
+| AGO | [Decreto Presidencial n.º 169/25, de 19 de Setembro — Crédito Adicional Suplementar de USD 218 500 000,00 para a Implementação do Plano Estratégico para a Universalização do Bilhete de Identidade](../raw/2025-09-19-ago-dp-169-25-bilhete-identidade-credito-adicional.md) |
+| AGO | [OGE 2026: Executivo reduz verba para a melhoria da posição no Índice Global de Cibersegurança](../raw/2025-11-06-ago-oge-2026-ciberseguranca-32bn.md) |
+| AGO | [OGE 2026 aposta em ordenamento do território e modernização digital do Estado](../raw/2025-11-07-ago-oge-2026-modernizacao-digital-programas.md) |
+| AGO | [Despacho Presidencial n.º 12/26 — Autoriza a Despesa e Formaliza a Abertura do Procedimento de Concurso Público para a Aquisição de Serviços de Telecomunicações e Hospedagem de Infra-Estrutura para o Ministério das Finanças e Órgãos Superintendidos](../raw/2026-01-07-ago-dp-12-26-minfin-telecoms-9-2bn.md) |
+| AGO | [Governo autoriza 8,6 mil milhões de kwanzas para licenciamento de serviços Microsoft (Despacho Presidencial n.º 11/26)](../raw/2026-01-16-ago-dp-11-26-microsoft-licencas-8-6bn.md) |
+| AGO | [Governo 'corta' quase 50% da verba para o programa de expansão de Internet 4G](../raw/2026-02-20-ago-oge-2026-comunicacoes-programa-corte.md) |
+| AGO | [Estado angolano encaixa receitas de 9,36 biliões de kwanzas para OGE/2026](../raw/2026-04-29-ago-oge-2026-i-trimestre-execucao-lei-identificacao.md) |
+
 ## 2026-07-23 18:42
 
 | Place | Source |

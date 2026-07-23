@@ -283,3 +283,27 @@ than once, so a country section doesn't have to restate them)*
 - **DPI legislation catching up with the money:** the **Lei da Identificação Civil e Criminal**
   (Conselho de Ministros → Assembly, Apr-2026) sets the legal regime for BI + criminal-record data —
   the framework arriving a year after DP 169/25's USD 218,5 M ID crédito. Pair them on the AGO hub.
+
+### Angola — PAC procurement estimates track the OGE vote (ingest, 2026-07-23)
+
+- **The corrected MINTTICS PAC 2025 appears to be re-based on the enacted OGE, with different line
+  names.** Two lines match the OGE 2025 programme figures *exactly*: "Implementação da Rede Nacional
+  de Banda Larga" **Kz 107,8 mil milhões** = the OGE "Expansão da rede 4G" line, and "Plataforma
+  Analítica, Centro de Dados Principal, Back Up e Plataforma Nacional de Nuvens" **Kz 70,5 mil
+  milhões** = the OGE "melhoria da posição no Índice Global de Cibersegurança" line. The PAC total
+  (Kz 225,6 mil milhões) also near-matches the OGE digital sector envelope (Kz 226,4 mil milhões).
+  **Practical consequence: never build finance records from both the PAC and the OGE programme
+  table for the same fiscal year — they are the same money under two naming systems.** Prefer the
+  OGE line (it carries a budget stage); treat the PAC as procurement detail and as the vendor route.
+- **Corollary for scope:** the *cybersecurity-index* programme name is a policy target
+  ("improve the country's ranking on the Global Cybersecurity Index"), not a description of what is
+  bought. If the PAC equivalence holds, the money behind it is a **data centre / analytics / cloud**
+  procurement. Do not infer the object from a programme title alone.
+- **Parent/child double-count trap in the OGE programme table.** pti.ao reports both the programme
+  total ("Expansão e Modernização das Comunicações") and its named sub-lines (4G, 3G, cyber-index).
+  Recording both inflates the domestic total. Capture the **parent once**, hold the sub-lines in the
+  record body — until the Mapas give a clean per-project table.
+- **Origin risk to carry forward:** the OGE 4G line may be the China Eximbank-financed RNBL wearing
+  a domestic label. No source on file states the funding source of any OGE digital line, so the
+  origin gate defaults them to `domestic-state`, flagged. The Mapas (`ago-oge2025-mapas`,
+  `ago-oge2026-mapas`) are the arbiter — this is the single highest-value AGO acquisition.

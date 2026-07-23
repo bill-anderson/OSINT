@@ -7,9 +7,10 @@ published: 2026-01-16
 date_precision: day
 date_source: source
 places: [AGO]
-topics: [finance.budget, govtech]
-entities: [[instituto-de-modernizacao-administrativa-angola]]
+topics: [finance.budget, dpi.govtech]
+entities: [[presidencia-da-republica-angola], [ima-angola], [microsoft]]
 lens: []
+ingested: 2026-07-23
 retrieved: 2026-07-23
 sweep_batch: domestic-finance-AGO-2026-2026-07-23
 fiscal_years_covered: ["2026"]
