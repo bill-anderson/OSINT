@@ -1,5 +1,32 @@
 # ingested_log.md — what ingest admitted to `raw/` (rolling 7-day view)
 
+## 2026-07-23 14:20
+
+| Place | Source |
+|---|---|
+| CIV | [boc-civ-003 primary + record](../raw/boc-civ-003-primary-companion.md) |
+| CIV | [boc-civ-004 primary + record](../raw/boc-civ-004-primary-companion.md) |
+| CIV | [boc-civ-006 primary + record](../raw/boc-civ-006-primary-companion.md) |
+| CIV | [boc-civ-007 primary + record](../raw/boc-civ-007-primary-companion.md) |
+| CIV | [boc-civ-009 primary + record](../raw/boc-civ-009-primary-companion.md) |
+| CIV | [boc-civ-010 primary + record](../raw/boc-civ-010-primary-companion.md) |
+| CMR | [boc-cmr-001 primary + record](../raw/boc-cmr-001-primary-companion.md) |
+| MOFCOM | [china-mofcom-sen-001 primary + record](../raw/china-mofcom-sen-001-primary-companion.md) |
+| CN | [eximbank-cn-cod-002 primary + record](../raw/eximbank-cn-cod-002-primary-companion.md) |
+| CN | [eximbank-cn-cog-001 primary + record](../raw/eximbank-cn-cog-001-primary-companion.md) |
+| CN | [eximbank-cn-cog-003 primary + record](../raw/eximbank-cn-cog-003-primary-companion.md) |
+| CN | [eximbank-cn-gha-005 primary + record](../raw/eximbank-cn-gha-005-primary-companion.md) |
+| CN | [eximbank-cn-gha-006 primary + record](../raw/eximbank-cn-gha-006-primary-companion.md) |
+| CN | [eximbank-cn-gmb-001 primary + record](../raw/eximbank-cn-gmb-001-primary-companion.md) |
+| CN | [eximbank-cn-ken-002 primary + record](../raw/eximbank-cn-ken-002-primary-companion.md) |
+| CN | [eximbank-cn-mli-001 primary + record](../raw/eximbank-cn-mli-001-primary-companion.md) |
+| CN | [eximbank-cn-nga-001 primary + record](../raw/eximbank-cn-nga-001-primary-companion.md) |
+| CN | [eximbank-cn-uga-001 primary + record](../raw/eximbank-cn-uga-001-primary-companion.md) |
+| ZAF | [icbc-zaf-007 primary + record](../raw/icbc-zaf-007-primary-companion.md) |
+| CMR | [zte-cmr-001 primary + record](../raw/zte-cmr-001-primary-companion.md) |
+| XSS | [Google DeepMind AI Research Foundations (blog.google)](../raw/2026-03-17-google-deepmind-ai-research-foundations-africa.md) |
+| NGA | [CBN data-localisation circular account (COMPLYAN)](../raw/2026-06-24-complyan-cbn-data-localisation-directive.md) |
+
 ## 2026-07-23 13:55
 
 | Place | Source |

@@ -21,6 +21,11 @@ destruction (grid/telecom) and reconstruction, plus inclusion workarounds.
 
 ## Recent developments
 
+- **2026-07** *(reported; article not held)* — Sudan's Ministry of Digital Transformation reportedly
+  launched **28 digital services under the "Baldna" project** (SUNA). **The SUNA article is not
+  held as of 2026-07-23** — one capture was a navigation shell and a re-fetch timed out; the
+  services list and dates are unestablished.
+
 - **2026-07-04** — **Central bank revokes Al-Asjad's payment-switch licence, days after launch.**
   The **[[central-bank-of-sudan]]** cancelled the authorisation of **Al-Asjad Smart and Digital
   Solutions** (شركة العسجد للحلول الذكية والرقمية) to operate in electronic payment systems, on the

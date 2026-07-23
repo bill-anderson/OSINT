@@ -201,3 +201,14 @@ Place: [[NGA]] · Concepts: [[gov.protect]] · [[gov.legislate]] · [[infra.stor
 - [[2026-07-10 Why Nigeria Is Investigating Meta, Google, X and AI Firms]]
 - Corroborating primary (parked): the CBN circular of 2026-06-15, reproduced in
   `_leads/The CBN Data Localization Mandate - Cencori.md` — to be obtained directly.
+
+- **★ The localization mandate materialises: CBN circular PSS/DIR/PUB/CIR/001/004 (2026-06-15).**
+  Payment transaction data generated in Nigeria must be **stored and managed in Nigeria by
+  2027-01-01** (all licensed payment participants); plus UBO disclosure and market-concentration
+  caps (>25% issuing / >15% acquiring barred jointly; returns monthly; compliance 2026-12-31),
+  signed Rakiya Yusuf (Payments System Supervision). Whether foreign clouds' local availability
+  zones qualify is **not answered by the circular** (as of the held 2026-06-24 account). **The
+  circular text itself is not held as of 2026-07-23** — terms rest on a compliance-press account;
+  the earlier Cencori vendor flag on this page is superseded by this dated entry. Source:
+  [[2026-06-24-complyan-cbn-data-localisation-directive]].
+
