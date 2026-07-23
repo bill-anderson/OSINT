@@ -6,8 +6,8 @@ places: [NGA, XAF]
 topics: [gov.protect, gov.legislate, include.access]
 lens: []
 status: active
-last_reviewed: 2026-07-14
-sources: [[2026-01-29 Press release Paradigm Initiative applauds countries with data protection laws]]
+last_reviewed: 2026-07-23
+sources: [[2026-01-29 Press release Paradigm Initiative applauds countries with data protection laws], [2026-07-07-paradigm-1300-stakeholders], [2026-07-07-paradigm-ilo-convention]]
 ---
 
 # Paradigm Initiative (PIN)

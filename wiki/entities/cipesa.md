@@ -6,8 +6,8 @@ places: [UGA, XEA, XAF]
 topics: [gov.protect, tech.ai, dpi.exchange]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-14
-sources: [[2026-06-23 Towards Regulation of App-Based Health Data in Africa], [2025-07-28-lesotho-advances-digital-future-audpf-data-governance]]
+last_reviewed: 2026-07-23
+sources: [[2026-06-23 Towards Regulation of App-Based Health Data in Africa], [2025-07-28-lesotho-advances-digital-future-audpf-data-governance], [2026-07-08-cipesa-cybercrime-false-news], [2026-07-01-cipesa-foreign-malign-influence]]
 ---
 
 # CIPESA

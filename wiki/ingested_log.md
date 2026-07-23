@@ -1,5 +1,26 @@
 # ingested_log.md — what ingest admitted to `raw/` (rolling 7-day view)
 
+## 2026-07-23 18:40
+
+| Place | Source |
+|---|---|
+| ZAF | [Launch of the African Hub on AI Safety, Peace and Security](../raw/2025-09-28-uct-ai-safety-hub-launch.md) |
+| NGA | [The Government of Nigeria has joined the Digital Public Goods Alliance!](../raw/2025-10-07-nigeria-joins-dpga.md) |
+| XCA | [De la gouvernance des données à la gouvernance de l’IA au sein de la CEMAC : intégrer le cadre politique de l’UA en matière de données et de justice des données](../raw/2025-11-11-afroleadership-cemac-ai-governance.md) |
+| ZAF | [Lessons from SA's AI policy based on fake research](../raw/2026-05-04-wits-sa-ai-policy-fake-research.md) |
+| XSS | [Strengthening Young Africa’s AI Skills](../raw/2026-07-01-caribou-africa-ai-skills.md) |
+| XSS | [Navigating Digital Rights in Africa amidst Increasing Foreign Malign Influence](../raw/2026-07-01-cipesa-foreign-malign-influence.md) |
+| XSS | [The foundations of justice-centred AI governance: Recommendations for Southern African Member States](../raw/2026-07-01-ria-sadc-just-ai.md) |
+| XSS | [AfricaNenda, Gates Foundation and Equity Group Partner to Accelerate Digital Public Infrastructure Across Africa](../raw/2026-07-07-africanenda-equity-dpi.md) |
+| XSS | [PRESS RELEASE: Paradigm Initiative reaches over 1,300 stakeholders across 11 African countries in landmark digital rights and inclusion push](../raw/2026-07-07-paradigm-1300-stakeholders.md) |
+| XSS | [ILO’s Convention: A Win, But Not the Finish Line](../raw/2026-07-07-paradigm-ilo-convention.md) |
+| XSS | [Dr Pria Chetty delivers a statement to the UN Global AI Governance Dialogue](../raw/2026-07-07-ria-un-ai-dialogue.md) |
+| XSS | [Cybercrime Laws, “False News” Offences, and Online Expression in Africa](../raw/2026-07-08-cipesa-cybercrime-false-news.md) |
+| XSS | [How Local Peering Is Strengthening Africa’s Internet](../raw/2026-07-13-isoc-local-peering-africa.md) |
+| XSS | [Bridging governance and growth: Datasphere Initiative launches pioneering report on AI sandboxes and the private sector](../raw/2026-07-15-datasphere-ai-sandboxes.md) |
+| KEN | [Kenya wants your input on its AI policy, deadline August 4](../raw/2026-07-22-kictanet-kenya-ai-policy.md) |
+| RWA | [How Rwanda Is Using Data to Deliver Better Health Care](../raw/2026-07-23-tbi-rwanda-health-data.md) |
+
 ## 2026-07-23 18:20
 
 | Place | Source |

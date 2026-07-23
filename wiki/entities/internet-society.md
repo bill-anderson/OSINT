@@ -6,8 +6,8 @@ places: [XAF, XGL]
 topics: [infra.connect, include.access, gov.standards]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-14
-sources: [[2026-05-25 Local Infrastructure Lower Costs How Peering Is Moving the Needle on Internet Affordability], [2026-06-09 Beyond the Homepage Measuring What It Really Takes to Keep Web Traffic Local]]
+last_reviewed: 2026-07-23
+sources: [[2026-05-25 Local Infrastructure Lower Costs How Peering Is Moving the Needle on Internet Affordability], [2026-06-09 Beyond the Homepage Measuring What It Really Takes to Keep Web Traffic Local], [2026-07-13-isoc-local-peering-africa]]
 ---
 
 # Internet Society (ISOC)

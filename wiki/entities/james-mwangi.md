@@ -7,7 +7,7 @@ topics: [dpi.pay, dpi.id, include.access, gov.regional]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-10
-sources: [[2026-07-07 Equity, AfricaNenda and Gates Foundation Partner to Advance Digital Public Infrastructure Across Africa]]
+sources: [[2026-07-07-africanenda-equity-dpi]]
 ---
 
 # James Mwangi
@@ -26,4 +26,4 @@ Managing Director and CEO of **[[equity-group-holdings]]**; appointed inaugural
 
 ## Sources
 
-- [[2026-07-07 Equity, AfricaNenda and Gates Foundation Partner to Advance Digital Public Infrastructure Across Africa]]
+- [[2026-07-07-africanenda-equity-dpi]]

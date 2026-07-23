@@ -6,8 +6,8 @@ places: [KEN, XAF]
 topics: [finance.mou, dpi.pay, dpi.id, dpi.exchange, include.access, gov.regional]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-10
-sources: [[2026-07-07 Equity, AfricaNenda and Gates Foundation Partner to Advance Digital Public Infrastructure Across Africa]]
+last_reviewed: 2026-07-23
+sources: [[2026-07-07-africanenda-equity-dpi], [2026-07-07-africanenda-equity-dpi]]
 ---
 
 # Equity–AfricaNenda–Gates DPI Partnership (MoU)
@@ -37,4 +37,4 @@ Mojaloop Foundation, DPI4Africa (Robert Karanja) — DPI ecosystem, not yet hubb
 
 ## Sources
 
-- [[2026-07-07 Equity, AfricaNenda and Gates Foundation Partner to Advance Digital Public Infrastructure Across Africa]]
+- [[2026-07-07-africanenda-equity-dpi]]

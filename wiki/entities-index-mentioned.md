@@ -17,6 +17,12 @@ Part of the [entities index](entities-index.md).
   MoCTI (Sierra Leone); Ethiopia National ID Program (Yodahe Zemichael); Malawi Dept of
   E-Government; Kenya State Dept of ICT (John Tanui); Ghana Ministry of Communication,
   Digital Technology and Innovations.
+- **This ingest (organisations sweep, 2026-07-23):** Datasphere Initiative (AI-sandboxes
+  mapping); AfroLeadership (CEMAC data/AI governance); NHIC Rwanda (now TBI-documented);
+  Global Center on AI Governance + UCT African Hub on AI Safety, Peace & Security (AI4D,
+  FCDO/IDRC, launched 2025-09); Digital Public Goods Alliance (Nigeria member 2025-10);
+  ILO Decent Work in the Platform Economy Convention 2026 (adopted 2026-06-12); UN Global
+  Dialogue on AI Governance (inaugural session Geneva 2026-07-06/07).
 - **This ingest (newspapers sweep, 2026-07-23):** WASPAN (NGA wireless-app providers, DEON
   appellant); Tech Hive Advisory (Legal Basis Project, w/ Meta); HAC Gabon (social-media
   suspension author); WAICO (World AI Cooperation Organization, Shanghai — SEN founding member,

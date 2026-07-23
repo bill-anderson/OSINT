@@ -6,8 +6,8 @@ places: [KEN, ZMB]
 topics: [dpi.id, dpi.govtech, gov.standards, gov.policy, finance.mou]
 lens: [colonialism]
 status: active
-last_reviewed: 2026-07-20
-sources: [[2026-03-09 Cybernetica, Tony Blair Institute pilot digital credential wallet in Kenya], [2025-11-20-undp-tbi-mou-zambia]]
+last_reviewed: 2026-07-23
+sources: [[2026-03-09 Cybernetica, Tony Blair Institute pilot digital credential wallet in Kenya], [2025-11-20-undp-tbi-mou-zambia], [2026-07-23-tbi-rwanda-health-data]]
 ---
 
 The **Tony Blair Institute for Global Change (TBI)** is a policy and advisory organisation founded by former UK Prime Minister Tony Blair that works with governments — heavily across Africa — on digital government, digital ID and technology-enabled public-sector reform. In the OSINT domain it recurs as an external advisor and delivery partner on national digital-transformation and digital-identity programmes.

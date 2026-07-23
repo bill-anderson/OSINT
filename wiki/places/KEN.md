@@ -13,6 +13,11 @@ last_reviewed: 2026-07-23
 
 ## Recent developments
 
+- **2026-07-22** — **Draft national AI policy opened for public comment — deadline 2026-08-04**
+  (Ministry of ICT; nine thematic areas from research/commercialisation to data protection, ethics
+  and national sovereignty; [[kictanet|KICTANet]] coordinated the drafting). Runs alongside the
+  contested Senate **AI Bill 2026** — KICTANet has urged pausing enactment until the policy lands.
+  Source: [[2026-07-22-kictanet-kenya-ai-policy]].
 - **2026-07-18** — **President's official website defaced in ransom attack.** Hackers took over
   president.go.ke demanding 5 BTC (~Sh41.3m); [[ict-authority-kenya|ICT Authority]] incident
   response activated, no evidence of sensitive-data access (CS statement), site restored by

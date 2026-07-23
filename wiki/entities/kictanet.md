@@ -6,8 +6,8 @@ places: [KEN, XAF]
 topics: [gov.policy, gov.protect, gov.regional, capacity.training]
 lens: []
 status: active
-last_reviewed: 2026-07-14
-sources: [[2026-07-13 D4D Hub on Sao Tome and Principe], [2025-07-28-lesotho-advances-digital-future-audpf-data-governance]]
+last_reviewed: 2026-07-23
+sources: [[2026-07-13 D4D Hub on Sao Tome and Principe], [2025-07-28-lesotho-advances-digital-future-audpf-data-governance], [2026-07-22-kictanet-kenya-ai-policy]]
 ---
 
 # KICTANet

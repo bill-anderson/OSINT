@@ -6,8 +6,8 @@ places: [XAF, KEN]
 topics: [dpi.pay, dpi.exchange, include.access, gov.regional, finance.mou]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-20
-sources: [[2026-07-07 Equity, AfricaNenda and Gates Foundation Partner to Advance Digital Public Infrastructure Across Africa], [2026-02-02 How Strategic  Shift of NIBSS Is  Rewiring Nigeria's Payments System], [2025-12-05 From Access to Empowerment Introducing Rwanda's Instant Payment System — eKash], [2026-02-23 111 - Winning But Losing - The Payments End Game], [2025-02-05-africanenda-boss-nips-announcement]]
+last_reviewed: 2026-07-23
+sources: [[2026-07-07-africanenda-equity-dpi], [2026-02-02 How Strategic  Shift of NIBSS Is  Rewiring Nigeria's Payments System], [2025-12-05 From Access to Empowerment Introducing Rwanda's Instant Payment System — eKash], [2026-02-23 111 - Winning But Losing - The Payments End Game], [2025-02-05-africanenda-boss-nips-announcement], [2026-07-07-africanenda-equity-dpi]]
 ---
 
 # AfricaNenda Foundation
@@ -59,7 +59,7 @@ African foundation advancing instant, inclusive payment systems and DPI; works w
 
 ## Sources
 
-- [[2026-07-07 Equity, AfricaNenda and Gates Foundation Partner to Advance Digital Public Infrastructure Across Africa]]
+- [[2026-07-07-africanenda-equity-dpi]]
 - [[2026-02-02 How Strategic  Shift of NIBSS Is  Rewiring Nigeria's Payments System]]
 - [[2025-12-05 From Access to Empowerment Introducing Rwanda's Instant Payment System — eKash]]
 - [[2026-02-23 111 - Winning But Losing - The Payments End Game]]

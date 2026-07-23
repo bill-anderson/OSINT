@@ -1,0 +1,37 @@
+---
+type: source
+title: How Rwanda Is Using Data to Deliver Better Health Care
+url: https://institute.global/insights/public-services/how-rwanda-is-using-data-to-deliver-better-health-care
+publisher: Tony Blair Institute
+published: 2026-07-23
+date_precision: day
+date_source: source
+places: [RWA]
+topics: [dpi.mis, tech.ai]
+entities: [[tony-blair-institute], [nhic-rwanda]]
+lens: []
+retrieved: 2026-07-23
+ingested: 2026-07-23
+sweep_batch: organisations-2026-07-23
+body_completeness: full
+---
+
+Collecting health data isn’t enough – the data needs to be put to work in a way that improves health care for citizens and ultimately saves lives. In Rwanda, TBI has supported a multi-year effort to integrate data across the health system. The goal is simple: faster decisions, better care and improved outcomes.
+Plenty of Data – But Not in One Place
+In recent years, Rwanda has significantly expanded health facilities, halved maternal mortality and delivered a rapid rise in life expectancy. But the sector faces challenges, including capacity constraints in primary health care, specialist shortages, fragmented information systems and rising prevalence of non-communicable diseases.
+Almost all Rwandans are covered by subsidised health insurance, a programme that ties funding to measurable results. That means facilities and programmes collect data to track outcomes, generating rich streams of information. However, the data has traditionally sat across multiple systems, varied in quality and required manual processing, limiting the provision of timely information.
+The Covid-19 pandemic exposed these constraints. It highlighted the importance of integrating data so that leaders could see, in real time, how the health system as a whole was functioning and where need was greatest. With better visibility, resources – clinicians, medicines, equipment – could be deployed more quickly and targeted more effectively.
+It was clear that a centralised data hub providing an up-to-date view across the health landscape was urgently needed. The government began working on a detailed implementation strategy for the project and TBI was brought in to provide technical expertise.
+Putting Data at the Heart of Health Management
+TBI’s work is rooted in our framework for modern governance – a Reimagined State that leverages digital technologies to redesign public services around people. In Rwanda, we had already built a strong partnership with the government, grounded in our commitment to centring national priorities, tackling pain points and prioritising delivery.
+We began supporting the project on two levels: shaping the strategic framing and advising on the technical requirements. Over time, together with ministry partners and other stakeholders, we worked through high-level complexities around the hub’s mandate, cross-agency coordination and data governance.
+Meanwhile, in line with our hands-on approach, we embedded our data scientist in the team designing the system architecture. He worked side by side with ministry personnel to refine the model and led multiple retreats to troubleshoot challenges.
+The National Health Intelligence Center (NHIC), a hub integrating real-time data from hospitals, health centres, supply chains, workforce management and other sources, was officially launched in April 2025 – and we can already see its impact. For example, it used to take two months to turn data from the various systems used across the country into insights that were actionable at national level. At the end of each month, facility managers spent two or three days manually recording their data to send to the Ministry of Health, which then collated and analysed it. Now, these records can flow directly into the NHIC, where they can provide a faster, clearer view of trends and pressure points, enabling more responsive decisions.
+The centre sits on top of a secure data warehouse, the design of which was supported by TBI through an embedded advisor. Next steps include integrating more data streams, using AI tools to extract greater value from the data, and positioning the centre as a national and regional research hub.
+The government’s ambition to create an integrated digital backbone that lays foundations for predictive analytics and more intelligent, system-wide health management is being realised – and TBI has been proud to support this journey.
+The Patient Experience: Using Data to Fight Delays
+Embedding data at the heart of the system will be transformative – but it can play an equally important role on the front line. In Kigali, King Faisal Hospital Rwanda provides a wide range of care to patients referred from other facilities. Before 2024, it used multiple systems for scheduling, insurance and billing, as well as for clinical areas such as imaging and the laboratory. That led to long waits for patients, due to delays and bottlenecks across these separate, sometimes paper-based systems.
+The government believed better use of data could improve things. So, in partnership with the ministries of health and ICT, we supported the government’s vision of “one patient, one record” and created a system that brought all this information together. TBI helped assess the project’s strategic needs and then advised on the design of the new solution. We also developed local capacity at the hospital to ensure that the project was successfully delivered and would be sustainable in the long term.
+Now, the Integrated Health Management Information System combines data from administrative and clinical areas into one secure platform. It streamlines registration and payments, and allows patients to receive SMS notifications about appointments and test results through its patient portal. Each patient has a single, joined-up record and, because the system functions more efficiently, average waiting times – across registration, triage and outpatient consultation – have been reduced by 60 per cent. Patients have welcomed the convenience of the new system, and the success of this project has given the government a clear blueprint to roll out a national system of electronic medical records, e-Buzima, to all hospitals and health centres.
+Turning Strategy Into Delivery
+Collectively, these projects show what is possible when vision, leadership and delivery come together. Through these initiatives, and others, a unified health-data infrastructure is emerging in Rwanda, linking medical records, national databases and policy dashboards. This infrastructure is already driving tangible improvements and can serve as the foundation for AI-enabled innovation, helping resources go further and ensuring more people receive the care that they need. Having seen these efforts firsthand, I believe TBI’s greatest impact lies in helping governments move from aspiration to action.

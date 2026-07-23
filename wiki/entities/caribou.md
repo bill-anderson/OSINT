@@ -6,8 +6,8 @@ places: [KEN, XAF, XGL]
 topics: [dpi.id, gov.protect, include.access]
 lens: [sovereignty, colonialism]
 status: active
-last_reviewed: 2026-07-14
-sources: [[2026-02-01 Digital Identity and Migration Struggles for Equitable Technology Governance]]
+last_reviewed: 2026-07-23
+sources: [[2026-02-01 Digital Identity and Migration Struggles for Equitable Technology Governance], [2026-07-01-caribou-africa-ai-skills]]
 ---
 
 # Caribou (Caribou Digital)

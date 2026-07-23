@@ -344,7 +344,8 @@ paid. **The government's arithmetic corroborates the plaintiffs.** Full case:
   Tshepo Feela, Jabu Mtsweni, Lufuno Tshikalange) to rebuild it for re-consultation. Same speech: DBSA
   puts the connectivity access gap at **2.2% of households**; REIT-regime extension to digital
   infrastructure supported; partial privatisation of portfolio SOEs openly tabled. See [[tech.ai]],
-  [[gov.policy]]. Source: [[2026-05-12-zaf-malatsi-budget-vote-30-speech-2026-27]].
+  [[gov.policy]]. Source: [[2026-05-12-zaf-malatsi-budget-vote-30-speech-2026-27]], [[2026-05-04-wits-sa-ai-policy-fake-research]] (Wits analysis: gazetted 2026-04-10, halted after 16 days; epistemic/information-integrity framing).
+
 - **2026-03-26** — **The AG audits the state's ICT function: R12.1bn of failing projects.** The
   **[[agsa]]** Consolidated General Report 2024-25 evaluated **72 ICT projects at 44 auditees**, reporting
   findings at 23 auditees on **41 projects with a combined value of R12.1bn** that failed time, cost,

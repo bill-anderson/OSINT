@@ -21,8 +21,12 @@ last_reviewed: 2026-07-23
   The tour showcased the **National Health Intelligence Center (NHIC)** — the government's real-time
   health-data hub (hospitals, health centres, CHWs), in its first operational year credited with
   faster ambulance dispatch and disease surveillance, now expanding toward **predictive health
-  intelligence** with foundation support. See [[dpi.govtech]], [[dpi.mis]]. Sources:
-  [[2026-07-22-bill-gates-rwanda-dpi-visit]], [[2026-07-21-rwanda-nhic-health-data-gates]].
+  intelligence** with foundation support. TBI's own account (2026-07-23) dates the NHIC launch to
+  **April 2025**, discloses a **TBI embedded advisor** in the data-warehouse design, and claims
+  national data-to-insight latency fell from **~2 months to near-real-time** — partner-reported,
+  not independently verified. See [[dpi.govtech]], [[dpi.mis]]. Sources:
+  [[2026-07-22-bill-gates-rwanda-dpi-visit]], [[2026-07-21-rwanda-nhic-health-data-gates]],
+  [[2026-07-23-tbi-rwanda-health-data]].
 - **2026-07-22** — **Norebase report: Rwanda among Africa's fastest incorporation markets.** The
   *State of Expansions in Africa 2026* report finds businesses can incorporate in Rwanda within
   **24–72 hours (Jul 2026)** through the **Rwanda Development Board**'s

@@ -396,7 +396,7 @@ rule, is all `XAF` children except `XNA`; `XGL` is for non-Africa-specific/globa
   See [[afcfta]], [[gov.regional]], [[gov.standards]], [[dpi.exchange]].
 - **2026-07-07** — [[equity-group-holdings]] × [[africanenda]] × [[gates-foundation]] MoU
   to scale DPI across 20–30 markets; James Mwangi named Continental DPI Champion. Source:
-  [[2026-07-07 Equity, AfricaNenda and Gates Foundation Partner to Advance Digital Public Infrastructure Across Africa]]. See [[dpi.pay]], [[include.access]].
+  [[2026-07-07-africanenda-equity-dpi]]. See [[dpi.pay]], [[include.access]].
 - **2026-07-03** — AfCFTA data-governance gap: commercial integration outrunning
   regulatory integration ([[gov.protect]], [[gov.legislate]]). Source:
   [[2026-07-03 AfCFTA, Data Governance and the Hidden Legal Gaps Reshaping Africa's Digital Economy - P.M. News]].

@@ -6,6 +6,19 @@ Reporting): a few lines each, full detail in `log-archive.md` or git.
 
 ---
 
+## 2026-07-23 — update-wiki close (organisations hand-off): ingest 16/17, lint clean
+
+One drop (ODI Simons piece — same URL already held from the 07-21 daily sweep). One **replace**:
+the AfricaNenda/Gates/Equity DPI-partnership techafricanews syndication retired for AfricaNenda's
+own release — canonical over syndicated; 13 citing pages rewired. 4 out-of-window items admitted
+as dated baselines (Nigeria-DPGA 2025-10, UCT AI-safety hub 2025-09, AfroLeadership CEMAC 2025-11,
+Wits AI-policy analysis 2026-05 — attached to the held ZAF withdrawal account). Hub updates: KEN
+(AI-policy comment window to 08-04), RWA (TBI NHIC detail folded), NGA (DPGA membership, dated),
+ZAF (analysis attach). 13 entity source-appends. No finance record (partnership MoU carries no
+amount — five-fact fail, ordinary source). Lint over the batch: 0 problems; queues empty.
+Revert: this commit.
+contradictions - 0 ; acquisitions - 0 ; awaiting ingest - 0 ; decisions logged - 3
+
 ## 2026-07-23 — content sweep — organisations
 
 content sweep — organisations: window 2026-06-29→2026-07-23, took 7m, staged 17.
