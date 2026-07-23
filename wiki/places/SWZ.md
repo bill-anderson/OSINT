@@ -6,7 +6,7 @@ parent: XSA
 place_kind: country
 topics: [gov.policy, gov.protect, gov.legislate, dpi.govtech, dpi.id, dpi.pay, dpi.registry, dpi.exchange, dpi.mis, infra.connect, infra.cybersec, infra.store, infra.energy, capacity.training, include.divides, tech.innovate, digital.rural, finance.new]
 status: active
-last_reviewed: 2026-07-21
+last_reviewed: 2026-07-23
 ---
 
 # Eswatini (SWZ)

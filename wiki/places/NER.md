@@ -6,7 +6,7 @@ parent: XWA
 place_kind: country
 topics: [dpi.id, dpi.registry, gov.regional, gov.legislate, gov.protect, infra.store, infra.cybersec, infra.connect, dpi.govtech, dpi.pay, data.statistics, include.access, geopol.usa, include.divides, tech.industry, gov.standards, tech.ai, tech.innovate, digital.rural, capacity.training, data.open, dpi.mis, dpi.exchange, finance.mou, geopol.india]
 status: active
-last_reviewed: 2026-07-19
+last_reviewed: 2026-07-23
 ---
 
 # Niger (NER)

@@ -6,7 +6,7 @@ parent: XCA
 place_kind: country
 topics: [dpi.id, dpi.pay, dpi.govtech, dpi.registry, dpi.mis, dpi.exchange, gov.policy, gov.protect, gov.legislate, infra.store, infra.connect, infra.cybersec, tech.innovate, tech.ai, finance.new, finance.mou, include.access, capacity.training, digital.localgov, geopol.usa, geopol.china]
 status: active
-last_reviewed: 2026-07-20
+last_reviewed: 2026-07-23
 ---
 
 # Gabon (GAB)
@@ -19,9 +19,6 @@ substantially on foreign finance and vendors, and dogged by slow disbursement an
 
 ## Recent developments
 
-- **2026-07-14** — **Kimba Connect: first national open-innovation challenge launched** to source
-  local digital solutions for public-service transformation. Source:
-  [[2026-07-14-kimba-connect-gabon]].
 - **2026-07-11** — **Civil-society coalition demands abrogation of the social-media suspension.**
   Nine organisations (declaration read in Libreville) call **HAC decision n°0002/HAC/2026** —
   in force ~5 months "jusqu'à nouvel ordre" — unconstitutional and ultra vires, and link mass VPN
@@ -42,8 +39,8 @@ substantially on foreign finance and vendors, and dogged by slow disbursement an
   AI and software development, and Huawei certifying kits ([[gabon-huawei-kimba-connect-accord]]).
   Kimba Connect targets an ecosystem **estimated at 150–200 start-ups (2026-07)**, offering finance,
   technology, **labellisation** and market access; applications closed **2026-07-24**, final **2026-08-04**.
-  **No terms published for either accord.** Full treatment: **[[gabon--tech-innovate]]**. Source:
-  [[2026-07-17-gabon-garantie-publique-huawei-start-up]].
+  **No terms published for either accord.** Full treatment: **[[gabon--tech-innovate]]**. Sources:
+  [[2026-07-17-gabon-garantie-publique-huawei-start-up]], [[2026-07-14-kimba-connect-gabon]] (launch-day account).
 - **2026-07-03** — Inaugurates its **first national Tier III data centre** ([[gabon-national-datacenter]],
   built by **[[st-digital-gabon]]** in the Nkok SEZ; President Oligui Nguema) — **$14m / 8bn CFA**, 92 racks,
   3,000 m², 1 MW, peered to ACE + SAT-3/WACS — against **~95% of Gabon's data hosted abroad**, reviewed with the

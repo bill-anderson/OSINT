@@ -6,7 +6,7 @@ parent: XWA
 place_kind: country
 topics: [dpi.pay, dpi.id, dpi.registry, dpi.govtech, dpi.mis, infra.connect, infra.store, gov.policy, gov.regional, gov.legislate, gov.protect, gov.standards, include.access, include.divides, tech.ai, capacity.training, data.statistics, digital.localgov, finance.mou]
 status: active
-last_reviewed: 2026-07-18
+last_reviewed: 2026-07-23
 ---
 
 # Guinea (GIN)

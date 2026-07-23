@@ -6,7 +6,7 @@ parent: XSA
 place_kind: country
 topics: [infra.connect, infra.store, gov.protect, dpi.id, dpi.pay, dpi.govtech, dpi.exchange, data.statistics, gov.regional, gov.legislate, tech.innovate, include.access]
 status: active
-last_reviewed: 2026-07-20
+last_reviewed: 2026-07-23
 ---
 
 # Botswana (BWA)

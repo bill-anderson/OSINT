@@ -6,7 +6,7 @@ parent: XNA
 place_kind: country
 topics: [dpi.pay, dpi.id, dpi.registry, dpi.govtech, dpi.exchange, gov.policy, gov.protect, infra.connect, infra.cybersec, infra.store, data.open, data.statistics, include.access, digital.localgov, geopol.china, finance.mou]
 status: active
-last_reviewed: 2026-07-20
+last_reviewed: 2026-07-23
 ---
 
 # Libya (LBY)

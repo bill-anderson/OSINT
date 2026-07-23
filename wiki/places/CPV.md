@@ -6,7 +6,7 @@ parent: XWA
 place_kind: country
 topics: [dpi.govtech, dpi.id, dpi.exchange, gov.protect, infra.store, infra.cybersec, gov.policy, dpi.mis, include.divides, infra.connect, tech.ai, tech.innovate, tech.industry, capacity.training, capacity.literacy, capacity.research, data.statistics, data.open, gov.legislate, gov.regional, gov.standards, finance.new, geopol.eu, geopol.usa, include.access]
 status: active
-last_reviewed: 2026-07-21
+last_reviewed: 2026-07-23
 ---
 
 # Cabo Verde (CPV)

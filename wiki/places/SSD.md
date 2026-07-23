@@ -6,7 +6,7 @@ parent: XEA
 place_kind: country
 topics: [dpi.pay, dpi.exchange, dpi.govtech, dpi.id, dpi.registry, infra.connect, infra.energy, infra.store, infra.cybersec, geopol.china, gov.protect, gov.legislate, gov.policy, gov.regional, gov.standards, finance.new, include.divides, include.access, tech.industry]
 status: active
-last_reviewed: 2026-07-21
+last_reviewed: 2026-07-23
 ---
 
 # South Sudan (SSD)

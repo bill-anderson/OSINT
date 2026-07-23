@@ -6,7 +6,7 @@ parent: XWA
 place_kind: country
 topics: [gov.policy, capacity.training, gov.legislate, tech.innovate, finance.new, tech.ai, dpi.pay, infra.store, geopol.china, geopol.usa, include.divides, include.access, dpi.id, dpi.registry, dpi.govtech, dpi.mis, data.statistics, gov.standards, gov.protect, infra.connect, infra.cybersec, tech.industry, gov.regional, dpi.exchange, finance.mou, digital.rural, digital.localgov, data.satellite]
 status: active
-last_reviewed: 2026-07-20
+last_reviewed: 2026-07-23
 ---
 
 # Ghana (GHA)

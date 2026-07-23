@@ -6,7 +6,7 @@ parent: XEA
 place_kind: country
 topics: [dpi.id, dpi.registry, dpi.govtech, dpi.exchange, gov.legislate, gov.policy, gov.protect, dpi.pay, tech.ai, infra.cybersec, include.access, digital.rural, infra.connect, infra.energy, data.satellite, data.statistics, finance.new, finance.mou, capacity.research]
 status: active
-last_reviewed: 2026-07-18
+last_reviewed: 2026-07-23
 ---
 
 # Madagascar (MDG)

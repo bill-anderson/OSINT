@@ -6,7 +6,7 @@ parent: XEA
 place_kind: country
 topics: [dpi.pay, infra.store, dpi.id, gov.protect, dpi.govtech, dpi.exchange, gov.regional, infra.connect, include.access, include.divides, tech.ai, tech.innovate, tech.industry, capacity.training, capacity.literacy, dpi.mis, data.statistics, data.satellite, gov.standards, gov.legislate, gov.policy, digital.localgov, geopol.china, geopol.eu, geopol.usa, finance.new]
 status: active
-last_reviewed: 2026-07-18
+last_reviewed: 2026-07-23
 ---
 
 # Comoros (COM)

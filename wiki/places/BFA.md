@@ -6,7 +6,7 @@ parent: XWA
 place_kind: country
 topics: [gov.policy, infra.store, infra.cybersec, dpi.govtech, dpi.id, dpi.registry, gov.regional, gov.legislate, finance.mou, finance.new, tech.ai, tech.innovate, capacity.training, dpi.pay, infra.connect, include.access, include.divides, digital.rural, digital.localgov]
 status: active
-last_reviewed: 2026-07-20
+last_reviewed: 2026-07-23
 ---
 
 # Burkina Faso (BFA)

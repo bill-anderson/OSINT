@@ -6,7 +6,7 @@ parent: XWA
 place_kind: country
 topics: [dpi.exchange, dpi.govtech, gov.protect, dpi.id, dpi.registry, gov.standards, gov.regional, gov.policy, data.statistics, dpi.pay, include.access, include.divides, infra.cybersec, infra.connect, finance.new, capacity.training, tech.ai]
 status: active
-last_reviewed: 2026-07-11
+last_reviewed: 2026-07-23
 ---
 
 # Benin (BEN)

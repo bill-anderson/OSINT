@@ -6,7 +6,7 @@ parent: XWA
 place_kind: country
 topics: [gov.policy, gov.standards, infra.connect, infra.cybersec, dpi.govtech, dpi.exchange, dpi.id, dpi.registry, dpi.pay, gov.protect, gov.legislate, gov.regional, include.access, include.divides, capacity.literacy, data.statistics, finance.new, finance.mou, tech.ai]
 status: active
-last_reviewed: 2026-07-20
+last_reviewed: 2026-07-23
 ---
 
 # Liberia (LBR)

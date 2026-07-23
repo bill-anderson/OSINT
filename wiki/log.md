@@ -6,6 +6,14 @@ Reporting): a few lines each, full detail in `log-archive.md` or git.
 
 ---
 
+## 2026-07-23 — update-wiki close (newspapers hand-off): 1 iteration, lint clean
+
+Ingest only fired (reconcile/acquire queues were already empty); cap not hit. Full lint: 49 new
+sources pass schema/vocab; 0 dead hub links; link-list convention clean; `last_reviewed` bumped on
+22 hubs; one fold (GAB Kimba bullet merged into the earlier fuller account). GHA Non-state
+recompiled (finance record admitted). Revert: this and the seven chunk commits.
+contradictions - 0 ; acquisitions - 0 ; awaiting ingest - 0 ; decisions logged - 4
+
 ## 2026-07-23 — ingest: newspapers-sweep drain — 49 admitted, 19 dropped
 
 68 staged → 49 to `raw/` (incl. one non-state finance record, **mtn-gha-fibre-home-2026**,

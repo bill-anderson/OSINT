@@ -6,7 +6,7 @@ parent: XNA
 place_kind: country
 topics: [dpi.id, dpi.pay, dpi.exchange, dpi.govtech, dpi.registry, gov.protect, gov.legislate, gov.standards, gov.policy, infra.connect, infra.capacity, infra.store, infra.cybersec, include.access, include.divides, tech.ai, tech.innovate, tech.industry, capacity.literacy, digital.rural, data.open, data.statistics, geopol.eu, geopol.china, finance.new]
 status: active
-last_reviewed: 2026-07-20
+last_reviewed: 2026-07-23
 ---
 
 # Tunisia (TUN)
