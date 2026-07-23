@@ -6,6 +6,16 @@ Reporting): a few lines each, full detail in `log-archive.md` or git.
 
 ---
 
+## 2026-07-23 — content sweep — journals
+
+content sweep — journals: window 2026-06-29→2026-07-23, took 3m, staged 2.
+All 36 domains swept (first run; state at the 2026-06-30 default). Academic cadence: most
+surfaced work pre-window (2024–2025 vintages; Data & Policy Ghana AI-services paper resolved to
+Dec-2025 online publication — skipped). Staged: SAJIM e-signature-conveyancing barriers (ZAF,
+07-14) and an undated Internet Policy Review op-ed on platform ID-verification exclusion
+(year-precision proxy date, honest note). Hand-off to update wiki follows.
+Revert: delete the two staged files, reset `sweep/journals/state.json` to 2026-06-30.
+
 ## 2026-07-23 — update-wiki close (organisations hand-off): ingest 16/17, lint clean
 
 One drop (ODI Simons piece — same URL already held from the 07-21 daily sweep). One **replace**:
