@@ -6,6 +6,15 @@ Reporting): a few lines each, full detail in `log-archive.md` or git.
 
 ---
 
+## 2026-07-23 — content sweep — newspapers
+
+content sweep — newspapers: window 2026-07-13→2026-07-23, took 21m, staged 68.
+All 104 domains swept. Boundary exceptions staged (GMB 07-10/07-01 — initialization
+gap); 1 candidate resolved out-of-window (GNB cybersecurity studies, 2025-01-22,
+date_note set); 2 Standard Media JS-rendered pages recovered by direct fetch.
+Hand-off to update wiki follows. Revert: delete `new/*sweep_batch: newspapers*`,
+reset `sweep/newspapers/state.json` to 2026-07-14.
+
 ## 2026-07-23 — two missing sweep run files written retrospectively; run file now mandatory
 
 Bill caught it: the ZAF FY2026/27 (07-22) and KEN FY2026/27 (today, batch job 1 — my
@@ -41,6 +50,16 @@ log/ingested_log division of labour; newspapers state pre-set to 2026-07-14, bou
 first window (105 domains). **Observation, no change:** content sweeps carry no window cap (daily
 has 10 days) — first journals/organisations runs span ~3.5 weeks × 37/53 domains; the mandated
 duration-logging is the right instrument to price that empirically.
+
+## 2026-07-23 — Batch runner archives + clears JOBS.md on completion
+
+Bill's request. On a fully-completed run (no `[ ]` left), RUN-BATCH now copies the run record to
+`reviews/jobs-archive/jobs-YYYY-MM-DD-HHMM.md` (no colon — illegal on Windows) and empties the
+`## Queue` back to its placeholder, resetting `Stop: no` (Budget left as set). Halted/early-stopped runs
+do **not** archive/clear — unreached `[ ]` lines stay for resume. Updated RUN-BATCH.md (loop + *After the
+run*), JOBS.md (Rules), reference.md tree. Also applied it now: archived the last completed run
+(Kenya 2026 / Senegal 2024 / update wiki) to `jobs-2026-07-23-1753.md` and cleared the queue. Revert:
+drop the archive step + restore lines from git.
 
 ## 2026-07-23 — Ingest self-triggers finance compile (no more "pending compile")
 
