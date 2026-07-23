@@ -6,6 +6,23 @@ Reporting): a few lines each, full detail in `log-archive.md` or git.
 
 ---
 
+## 2026-07-23 — domestic finance sweep — AGO 2024 (batch job 1/68)
+
+AGO 2024 → FY2024 (calendar-year OGE). First AGO run. Staged **2 budget docs** to
+`new-budget/AGO/2024/`: IV-Trimestre-2024 execução report (**FY2024 outturn**, 58pp) + OGE 2024
+Relatório de Fundamentação (fiscal strategy, 68pp). minfin CMS walled on local DNS — fetched via
+DoH IP-pin (20.87.80.66 + curl --resolve), now the standing AGO Track-B route (recorded in
+extraction notes). 3 to acquisitions (Mapas Orçamentais estimates volume; Lei 15/23; MINTTICS PAC
+2024). 0 records built. Full estimates volume NOT obtained — outturn + envelope only until the
+Mapas land. Run file: `sweep/domestic/AGO-2024-run-2026-07-23.md`.
+
+**Decision:** budget extract **deferred, not run per-job**. The procedure ends a single sweep with
+BUDGET-EXTRACT, but running it after each of 68 jobs re-scans all of `new-budget/` ~17× and
+multiplies cost for no gain (the `extracted` flag already blocks re-work). Extraction will run at a
+batch checkpoint / the periodic pass instead. Conservative + cost-aware (cf. the earlier cost stop).
+Revert: this commit; `new-budget/AGO/2024/` + 2 manifest rows + 3 acquisition lines + extraction-notes/run-file.
+contradictions - 0 ; acquisitions - 3 ; awaiting ingest - 0 ; decisions logged - 1
+
 ## 2026-07-23 — update-wiki close (journals hand-off): 2 admitted, queues empty
 
 SAJIM e-signature-conveyancing (ZAF, research — no hub bullet, tagged dpi.govtech/gov.legislate)

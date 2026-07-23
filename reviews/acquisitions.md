@@ -131,3 +131,13 @@ compliance-press account is held, the circular PDF itself is **dropped** (no ver
 URL surfaced in one attempt) with the absence dated on `nigeria--gov-protect`; **SUNA Baldna
 dropped** (fetch timeout on a page whose earlier capture was already a nav shell) — absence dated
 on the SDN hub.)*
+
+### Added 2026-07-23 by domestic finance sweep AGO 2024 (batch job 1/68)
+
+*(minfin CMS is IP-pinnable — DoH `cms.minfin.gov.ao`→20.87.80.66, `curl --resolve` — but the
+estimates volume and PAC download links were not resolved to a direct asset URL in one attempt;
+browser/next-pass targets. The two OGE-package docs that WERE fetched are staged, not queued.)*
+
+- **[untried]** [AGO] `ago-oge2024-mapas` — *Mapas Orçamentais OGE 2024 — Dotações Orçamentais por Órgãos (estimates volume, per-organ × programa × projecto)* — the only route to AGO FY2024 digital programme/project lines. minfin CMS (`/api/assets/portal-minfin/<uuid>/`; per-organ SIGFE PDFs seen e.g. b38de8a9-…). IP-pin required.
+- **[untried]** [AGO] `ago-lei-15-23` — *Lei n.º 15/23 (OGE 2024 appropriation act)*, Diário da República I Série (29-Dec-2023) — appropriation-act PDF. Text on angolex/lexlink; DR PDF via faolex/minfin.
+- **[untried]** [AGO] `ago-minttics-pac-2024` — *MINTTICS Plano Anual de Contratação 2024*, Portal de Compras Públicas (compraspublicas.minfin.gov.ao) — 2024 digital procurement lines (banda larga, centro de dados, satélite). IP-pin/browser.

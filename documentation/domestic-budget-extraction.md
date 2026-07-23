@@ -195,3 +195,27 @@ than once, so a country section doesn't have to restate them)*
 - **SOE stories in the sweep are all own-revenue or inbound money** — no state→SOE subvention appeared in 894 sources. Privatisation proceeds and spectrum sales are state *revenue*, not spend. Sovereign guarantees (Cabo Verde aval for CV Telecom) involve no cash outlay.
 - **Multi-year plan envelopes (PND, "Digital Nation", Tchad Connexion 2030) always fail** — MTEF-like indicative figures; the capture target is the annual loi de finances line beneath them. Supplementaries (DRC collectif budgétaire) are where deferred figures eventually surface.
 - **Ministry-envelope near-misses are the commonest domestic signal** (CIV, BEN, GAB, BFA, SEN, SA Home Affairs). Rule held: envelopes are not records; a source-stated *investment slice* tied to digital priorities (SEN) or a *programme line* (BEN) is.
+
+### Angola — OGE package via minfin CMS, FY2024 (sweep, 2026-07-23)
+- **minfin CMS is IP-pinnable, not locally resolvable.** `cms.minfin.gov.ao` fails on local DNS
+  (curl exit 6); DoH→`20.87.80.66` + `curl --resolve cms.minfin.gov.ao:443:20.87.80.66` fetches the
+  OGE-package PDFs directly. Assets are UUID-keyed `/api/assets/portal-minfin/<uuid>/` (also
+  `portal-sncp` for the procurement portal). This is the Track-B entry for every AGO year — the
+  portal exposes Fundamentação, Mapas Orçamentais, and the **Relatório de Execução Trimestral**
+  (quarterly; the **IV Trimestre = full-year outturn**, the prize, SIGFE-sourced).
+- **Scale trap confirmed at source:** Portuguese **`bilião` = 10¹²**, `mil milhões` = 10⁹; tables use
+  full values with **decimal comma + space thousands** (`24 715 263 134 196,00`). Novo Jornal's
+  "bilião" is unreliable (back-swing note) — but the *ministry's own* documents are consistent 10¹².
+- **Digital lines are NOT in the Fundamentação** (functional envelope only: dívida 57,8%, social
+  20,1%, …). They live in the **Mapas Orçamentais** (Dotações por Órgãos × programa × projecto — in
+  acquisitions) and the outturn's **ANEXO 13 (por projecto)** / **ANEXO 12/16 (por UO)** — extract
+  there for named systems (Angosat, redes, plataformas, identificação) under MINTTICS / MAT /
+  Interior / Justiça.
+- **In-year appropriation surfaces via decretos, not a revised volume:** créditos adicionais
+  suplementares + **DP 278/24** contrapartidas intersectoriais (saldos ociosos). The Assembly does
+  not re-vote a *revisão* — reconcile revised vs initial through the trimestral execução reports.
+- **Procurement portal (SNCP):** the **RACPA** (Relatório Anual da Contratação Pública Angolana,
+  `portal-sncp/…`) gives per-ministry PCP counts (2024: MINTTICS 41 procedures, 80,3 mil M Kz); the
+  per-EPC **PAC** (mandatory under Lei 41/20, art. 442) carries the project-level digital lines —
+  MINTTICS PAC is the recurring annual seam (2025 PAC: Angosat-3 278 bi, banda larga, centro de
+  dados — heavily reported by pti.ao / Novo Jornal; the *actualização* corrects wild scale swings).
