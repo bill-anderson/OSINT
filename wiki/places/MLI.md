@@ -170,9 +170,9 @@ penetration 35.1% (2026)**) and a below-average e-government score.
 
 ## Financing
 
-*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-22**.*
+*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-23**.*
 
-**Non-state** — US$340m committed across 3 deals (2023–2025). Top financiers: e& (formerly Etisalat) (US$256m), IFC (International Finance Corporation) (US$79m), USAID (US$4m). Leading subjects: `infra.connect`, `gov.policy`, `dpi.pay`.
+**Non-state** — US$527m committed across 4 deals (2018–2025). Top financiers: e& (formerly Etisalat) — Africa Digital Infrastructure (US$256m); Export-Import Bank of China (US$187m); IFC (International Finance Corporation) (US$79m).
 
 Instrument mix: Grant 1, Equity 1, Commercial loan 1.
 

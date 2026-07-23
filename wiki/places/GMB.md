@@ -129,9 +129,9 @@ Digital Economy Master Plan 2024-2034.
 
 ## Financing
 
-*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-22**.*
+*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-23**.*
 
-**Non-state** — US$113m committed across 8 deals (2016–2026). (2 further deals carry only a non-USD amount, not summed.) Top financiers: World Bank (US$50m), SYSROAD SA HOLDING (US$50m), World Bank Group (US$5m). Leading subjects: `infra.connect`, `dpi.govtech`, `dpi.pay`.
+**Non-state** — US$142m committed across 7 deals (2016–2026). (2 further deals carry only a non-USD amount, not summed.) Top financiers: World Bank (US$50m); SYSROAD SA HOLDING (US$50m); Export-Import Bank of China (US$30m).
 
 Instrument mix: Grant 3, Concessional loan 1, IDA grant 1, Equity + infrastructure investment 1, Public-Private Partnership 1, Equity + capex commitment 1. **1 record here still carries the capture's unverified `Concessional loan` label**, so the mix is indicative rather than established: the World Bank portal does not separate an IDA credit from an IDA grant.
 

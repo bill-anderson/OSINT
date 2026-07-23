@@ -314,9 +314,9 @@ last_reviewed: 2026-07-20
 
 ## Financing
 
-*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-22**.*
+*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-23**.*
 
-**Non-state** — US$1.41bn committed across 19 deals (2015–2025). Top financiers: Export-Import Bank of China (US$685m), MTN Group (US$288m), World Bank Group (US$200m). Leading subjects: `infra.connect`, `dpi.pay`, `tech.industry`.
+**Non-state** — US$1.70bn committed across 21 deals (2015–2025). Top financiers: Export-Import Bank of China (US$973m); MTN Group (US$288m); World Bank Group — IDA/IBRD (Digital Economy for Africa, DE4A) (US$200m).
 
 Instrument mix: Equity 6, Grant 6, Concessional loan 3, Buyer's credit 2, Commercial loan 1, TA 1. **1 record here still carries the capture's unverified `Concessional loan` label**, so the mix is indicative rather than established: the World Bank portal does not separate an IDA credit from an IDA grant.
 

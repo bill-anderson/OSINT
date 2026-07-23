@@ -394,7 +394,7 @@ _Older dated developments (through early 2026) are preserved in their linked sou
 
 *Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-23**.*
 
-**Non-state** — US$4.37bn committed across 71 deals (2015–2026). (2 further deals carry only a non-USD amount, not summed.) Top financiers: Vodacom Group (US$2.10bn), Export-Import Bank of China (US$501m), World Bank Group (US$390m). Leading subjects: `dpi.pay`, `infra.connect`, `tech.innovate`.
+**Non-state** — US$4.44bn committed across 70 deals (2015–2026). (2 further deals carry only a non-USD amount, not summed.) Top financiers: Vodacom Group (US$2.10bn); Export-Import Bank of China (US$576m); World Bank Group — IDA/IBRD (Digital Economy for Africa, DE4A) (US$390m).
 
 Instrument mix: Grant 24, Equity 17, Commercial loan 15, Concessional loan 8, TA 2, Guarantee 1, Private investment 1, Equity acquisition 1, Senior loan 1. **1 record here still carries the capture's unverified `Concessional loan` label**, so the mix is indicative rather than established: the World Bank portal does not separate an IDA credit from an IDA grant.
 

@@ -82,9 +82,9 @@ and rights as reality.**
 
 ## Financing
 
-*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-22**.*
+*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-23**.*
 
-**Non-state** — US$2.89bn committed across 23 deals (2015–2026). (5 further deals carry only a non-USD amount, not summed.) Top financiers: Export-Import Bank of China (US$868m), African Development Bank (US$710m), World Bank (US$710m). Leading subjects: `infra.connect`, `infra.cybersec`, `tech.industry`.
+**Non-state** — US$1.52bn committed across 18 deals (2015–2026). (7 further deals carry only a non-USD amount, not summed.) Top financiers: Export-Import Bank of China (US$868m); MTN Cameroon (US$225m); Bank of China (BOC) (US$180m).
 
 Instrument mix: Concessional loan 7, Grant 3, Loan 3, Commercial loan 2, Buyer's credit 1, Line of credit 1, Trade finance facility 1, Syndicated financing 1, Grant-funded procurement 1. **3 records here still carry the capture's unverified `Concessional loan` label**, so the mix is indicative rather than established: the World Bank portal does not separate an IDA credit from an IDA grant.
 

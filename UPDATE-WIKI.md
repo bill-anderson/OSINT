@@ -30,8 +30,8 @@ repeat:
         break                      # nothing left to do
 
     if awaiting ingest > 0:  run ingest      # INGEST.md — drain new/
-      if ingest admitted any finance record:
-                             run finance compile   # FINANCE-COMPILE.md — hub Financing sections
+                                             #   (ingest self-runs finance compile if it
+                                             #    admitted any finance record — see INGEST.md)
     if contradictions  > 0:  run reconcile   # RECONCILE.md
     if acquisitions    > 0:  run acquire     # ACQUIRE.md
 
@@ -50,7 +50,9 @@ whatever they produced.
 line — it recomputes hub Financing sections from what `raw/` already holds, and is
 idempotent. It runs immediately after any ingest that admitted a finance record,
 because those records are otherwise inert: admitted, but invisible on every hub
-until the aggregate is recomputed.
+until the aggregate is recomputed. **That trigger is owned by ingest itself**
+(`INGEST.md` → *Ending the run*), so it fires however ingest was invoked —
+update-wiki does not call it separately.
 
 ## Why a loop — the passes feed each other
 

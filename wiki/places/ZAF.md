@@ -691,7 +691,7 @@ linked source pages, the entity pages and the six [[south-africa--dpi-id|interse
 
 *Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-23**.*
 
-**Non-state** — US$9.36bn committed across 62 deals (2015–2029). (3 further deals carry only a non-USD amount, not summed.) Top financiers: Amazon / AWS (US$2.65bn), Microsoft (US$1.72bn), MTN Group (MTN SA) (US$1.30bn). Leading subjects: `infra.store`, `infra.connect`, `dpi.pay`.
+**Non-state** — US$9.43bn committed across 61 deals (2015–2029). (3 further deals carry only a non-USD amount, not summed.) Top financiers: Amazon / AWS — Cape Town Region & SSA Expansion (US$2.65bn); Microsoft — Africa Development Centres & Cloud/AI (US$1.72bn); MTN Group (MTN SA) (US$1.30bn).
 
 Instrument mix: Equity 37, Commercial loan 9, TA 5, Grant 2, Corporate capital investment 2, Guarantee 1, Buyer's credit 1, Syndicated loan 1, Loan 1, 50:50 joint venture 1.
 

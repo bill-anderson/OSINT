@@ -11,6 +11,9 @@ merge / fuzzy cross-reference) is the **ingest** pass's job, governed by
 `CLAUDE.md` (*Duplicates*). The one finance rule ingest must honour is: admit these
 to `raw/` but **do not write per-deal hub bullets** — their hub presence is built
 here, in aggregate. So the order is: ingest admits → **then** run finance compile.
+**Ingest runs this automatically** whenever it admits a finance record (`INGEST.md`
+→ *Ending the run*), so the sequence is never left half-done; the standalone
+`run finance compile` trigger is for a manual recompute.
 
 Governing rules: `CLAUDE.md` (currency, §8 hygiene via `wiki/reference.md`) and the
 spec. This file is only the aggregation loop.

@@ -6,6 +6,20 @@ Reporting): a few lines each, full detail in `log-archive.md` or git.
 
 ---
 
+## 2026-07-23 — finance compile: the pending recomputation closed — 12 hubs rewritten
+
+The leads-drain compile debt paid: Non-state Financing paragraphs recomputed from all 1,232
+deal_id-deduplicated non-state records for CIV (US$1.29bn/24 — the six BOC digital-education/
+security loans land), CMR, SEN, COD, COG, GHA, GMB, KEN (US$4.44bn/70), MLI, NGA (US$4.48bn/65),
+UGA, ZAF (US$9.43bn/61). **Validation before writing:** MAR reconciled exactly; ZAF's small delta
+vs the 07-22 print (61/9.43 vs 62/9.36) traced and accepted — the new rules are stricter
+(deal_id dedup kills merge-companion double-counts; USD-only summation puts absa/Google-region/
+Pepkor correctly in the non-USD bucket) — a rule improvement, not drift. Parser now reads all
+three amount-row labels (Commitment (USD) / Commitment / Original amount), USD-bearing cells only.
+**Instrument-mix lines left at their 07-22 state** (paragraph totals recomputed; mix refresh needs
+the same per-record instrument normalisation — noted for the next full compile). Revert:
+`git checkout <sha> -- wiki/places/`.
+
 ## 2026-07-23 — content sweeps reviewed: confirmed, zero defects
 
 Review of the CONTENT-SWEEP addition on request. Full-vault check found **no stale references**

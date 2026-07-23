@@ -196,12 +196,27 @@ artefact, ensure its companion source page and the artefact share the prefix.
 
 ---
 
-## Ending the run — write the ingested view
+## Ending the run
 
-After the run, record what reached `raw/` in **`wiki/ingested_log.md`** — a rolling
-view so Bill can see what is coming in, especially from the automatic news sweep.
-This is in **addition** to the `log.md` Decisions entry, and applies to **every**
-ingest — manual or sweep-triggered.
+### Recompute finance hubs, if finance records were admitted
+
+**If this run admitted *any* finance record to `raw/`, run finance compile
+(`FINANCE-COMPILE.md`) before finishing — automatically, not as a logged to-do.**
+Finance records carry no per-deal hub bullet (step 5), so until the aggregate is
+recomputed they are admitted but **invisible** on every place hub. Compile is
+idempotent and reads only what `raw/` already holds, so running it is always safe.
+
+This is owned by ingest, so it fires **however ingest was invoked** — standalone,
+a sweep hand-off, the batch runner, or the `update-wiki` loop. Never leave finance
+compile "pending": a run that admits finance records and does not compile is
+half-done, not logged-and-deferred.
+
+### Write the ingested view
+
+Record what reached `raw/` in **`wiki/ingested_log.md`** — a rolling view so Bill
+can see what is coming in, especially from the automatic news sweep. This is in
+**addition** to the `log.md` Decisions entry, and applies to **every** ingest —
+manual or sweep-triggered.
 
 - Append **one `## YYYY-MM-DD HH:MM` section** for this run at the **top** of the
   file (newest first).
