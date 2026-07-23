@@ -332,6 +332,61 @@ estimates volume can only produce sector-vote coverage, and any total built from
 it should say so on the page — an understated total presented as a total is worse
 than a stated gap.
 
+## Archetype G — Kenya Programme Based Budget (PBB) chapter, and its supplementary form
+
+*Seen as: Kenya PBB FY2024/25 (1,149pp), PBB Supplementary I/III (977/740pp), all June 2024 – June 2025.*
+
+**Layout.** One chapter per vote: Parts A–E are mandate, narrative and performance indicators
+(no money except targets); **Part F** is the money summary — programme and sub-programme ×
+year — and **Part H** repeats each sub-programme × economic classification. The original
+estimates carry columns `Baseline 2023/24 | Estimates 2024/25 | two projection years`; a
+**supplementary** PBB carries `Approved | Supplementary | Change` — and its Approved column is
+the *previous* supplementary's outcome, so **Supp III's Approved column recovers Supp II's
+values** even when the Supp II volume itself is lost. Absolute KShs, no scale factor.
+
+**Strategy.** `grep -n "Total Expenditure for Vote <n>"` → read ~35 lines back for the whole
+Part F block. Sub-programme codes are 7-digit (`0210010`), programmes end in `000`. Reconcile:
+sub-programmes must sum to the programme row and programmes to the vote total (exact, no
+rounding — confirmed on Vote 1122: 278,922,194 + 17,388,445,150 + 4,687,513,408 = 22,354,880,752).
+
+**Traps.**
+
+- **Supplementary Part F rows wrap badly under `-layout`**: programme labels stack in one column
+  and figures in another, offset by several lines — map by *order*, then verify each mapped
+  triple satisfies `approved + change = supplementary`. Any row that fails the arithmetic is a
+  misread, not a finding.
+- Part G (vote × economic classification) scrambles worse than Part F under `-layout`; prefer
+  Part H (per-sub-programme) where the split matters.
+- Parentheses are minus signs; `-` is nil.
+
+**Companion form 2B (Kenya development/recurrent books, incl. supplementaries).** Itemised
+project heads (`1071108500`) with `GROSS | A-I-A | NET` under Approved and Amended blocks. Same
+wrap problem, same defence: `approved + amendment = amended` must hold per row.
+
+**What it yields.** `appropriated` (original) and `revised` (each supplementary) at
+sub-programme grain; combined with the COB BIRR (Archetype H) it gives the full
+stage-split series.
+
+## Archetype H — Kenya COB Budget Implementation Review Report (BIRR)
+
+*Seen as: NG-BIRR FY2024/25 annual (409pp, 102MB, scanned + OCR).*
+
+**Layout.** Per-MDA sections: narrative stating the vote's full revision chain verbatim
+("original ... revised to ... in Supplementary Estimates I/II/III"), then a
+programme/sub-programme table `Revised Estimates (rec/dev/total) | Expenditure (rec/dev/total) |
+Absorption %`, then a non-financial KPI table.
+
+**Strategy.** `grep -n "<State Department name>"` → the section narrative is the cleanest carrier
+of the four stage totals; take absorption percentages from the table; cross-foot actuals against
+the stated overall absorption before recording.
+
+**Traps.** OCR noise corrupts digits in tables ("l2.06", "16.,l5") — trust the narrative's
+letters-and-context reading, verify any table digit by arithmetic (rec + dev = total;
+actual/revised = stated %). Where a table digit cannot be made to cross-foot, do not record it.
+
+**What it yields.** `released` (exchequer issues incl. Article 223) and `actual` stages with
+absorption — the execution half of the series, which Kenya uniquely publishes four-monthly.
+
 ## Not worth extracting
 
 Recorded so later runs don't repeat the effort:

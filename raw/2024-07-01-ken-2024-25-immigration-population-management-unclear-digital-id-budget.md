@@ -75,3 +75,9 @@ https://www.biometricupdate.com/202406/kenya-dedicates-117m-to-digital-id-relate
 - amount_usd 53,300,000 is the source's own stated conversion (Biometric Update); rate basis unknown; not recomputed.
 - This line is one of three sub-lines of the State Department for Immigration's KES 15.13bn allocation (population management 6.88bn + migration and citizen services 7.03bn + general administration 1.22bn). The 15.13bn departmental envelope is deliberately not recorded as its own line (it would double-count the sub-lines, and a departmental envelope is not a programme line); the 1.22bn general-administration sub-line is not digital-transformation finance and is not recorded. Sibling record: ken-2024-25-immigration-migration-citizen-services-unclear.
 - deal_id uses name-slugs (no vote/programme codes in reporting), per driver.
+
+## Development history
+
+- **Superseded 2026-07-23 (case-5 reset):** the FY2024/25 PBB now documents this line; the
+  budget-document record is `ken-2024-25-immigration-population-management-appropriated` (stage appropriated, exact figures). This news-built
+  record stays as the capture trail of the ministry's own June-2024 announcement.

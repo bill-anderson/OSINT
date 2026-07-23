@@ -6,6 +6,24 @@ Reporting): a few lines each, full detail in `log-archive.md` or git.
 
 ---
 
+## 2026-07-23 — budget extract: KEN/2024 drained — 10 records; the four-value year; Supp II recovered from Supp III
+
+9 documents processed (2 new archetypes added: **G** Kenya PBB chapter + supplementary form, **H**
+COB BIRR); 5 CSVs to `budget-archive/KEN/2024/`; `new-budget/` empty. **Records built 10** (5
+appropriated, 3 revised, 2 actual), incl. 2 **case-5 resets** of the back-swing's news-built
+Vote 1024 records (stage unclear → appropriated, figures confirmed as rounded PBB totals).
+**Findings:** Vote 1122 series 22.35→20.00→12.06→16.46bn, absorption 93% — **E-Government spent
+105% of a thrice-cut allocation (COB: "possible irregular budget reallocation")**; Vote 1024
+absorption 102%; **Supp II quadrupled e-Citizen to KSh 2.61bn while 3,458 of 11,000 services
+onboarded**; cross-vote: Treasury e-GP 2.27bn survived untouched, **KRA ERP/CRM 3.44bn zeroed**,
+Gov-DC DRC 600m zeroed, Single Window cut to 100m; KNBS census 1,474.3m. **Supp II values
+recovered from Supp III's Approved column** — the dead-linked volume's content is no longer lost.
+**Contradiction filed:** `kenya-iprs-fy2024-25-revised-estimate` (BIRR 255.9m vs PBB 232.2m; BIRR
+internally consistent). Reconciliation: Vote 1122 sub-programmes sum exactly to vote total ✓.
+Not extracted (manifest re_extract notes): CA/USF ch.9 financials, BIRR other-MDA sections,
+identity-vote project heads. ODPC: no separate line at PBB grain — sits inside Vote 1122; a
+dated absence for the hub. Revert: `git checkout <sha> -- new/ budget-archive/ new-budget/ documentation/ reviews/`.
+
 ## 2026-07-23 — domestic finance sweep: Kenya 2024 → FY2024/25 — 9 documents + 5 prose staged
 
 KEN/2024 → FY2024/25 (Jul–Jun). **9 budget documents** to `new-budget/KEN/2024/` (PBB original +

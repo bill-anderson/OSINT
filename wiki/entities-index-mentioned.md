@@ -158,3 +158,6 @@ Part of the [entities index](entities-index.md).
 - **Prior:** ZICTA, Bank of Zambia, ID4D, IFC, MIGA, COMESA, UNHCR; hyperscalers
   AWS / Azure / Google Cloud / IBM; JEDI, Gaia-X / EuroStack, India Digit, UK GOV.UK
   Pay/Notify/Forms, SA MyMzansi. Create pages when a source is substantively about them.
+- **Kenya fiscal/identity institutions:** National Treasury (KEN), Controller of Budget,
+  Auditor-General (Gathungu), KRA, State Department for Immigration & Citizen Services,
+  Social Health Authority, ICTA, KoTDA/KAIST, ODPC, Communications Authority / USF.

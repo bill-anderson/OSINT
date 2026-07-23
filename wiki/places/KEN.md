@@ -13,6 +13,19 @@ last_reviewed: 2026-07-23
 
 ## Recent developments
 
+- **2025-03-04** *(audit findings reported; system operational Oct 2024; compiled 2026-07-23)* —
+  **The Sh104.9bn SHA health-IT system: the state neither owns nor controls it.** The
+  Auditor-General's FY2023/24 report found the Healthcare Information Technology Digitisation
+  system (Social Health Authority) procured **unbudgeted, outside the MTEF, non-competitively**
+  (Specially Permitted Procurement Procedure), with **all IP and ownership ceded to the private
+  consortium** and disputes routed to London arbitration; only the **Sh7.02bn**
+  installation/training slice is fisc-side. The government's defence (Ndii, on the record): fully
+  outsourced 10-year **user-fee** model — "GoK has not spent one Ksh on it" (~Sh10bn/yr, Sh50 per
+  hospital visit). Not a budget line — the origin gate keeps it out of the domestic-state totals;
+  the governance fact is the record. See [[dpi.mis]], [[gov.protect]]. Sources:
+  [[2025-03-04-eastleighvoice-sha-system-audit-sh104bn]],
+  [[2025-03-04-ynews-sha-digital-platform-cost-defence]].
+
 - **2026-07-22** — **M-KOPA passes 10 million customers.** The Nairobi-based asset-financing
   fintech reached **10 million customers (Jul 2026)** across its five markets, six years after
   its first million (2020). Kenya payload: the company's Nairobi smartphone assembly plant —
@@ -379,13 +392,27 @@ _Older dated developments (through early 2026) are preserved in their linked sou
 - **2026-05-23 / 2026-05-12** — [[via-africa-cable]], an [[orange]]-led 20,000km Atlantic subsea system, was announced at the Africa Forward Summit in Nairobi (Ruto, Macron). [[2026-05-23 Orange-backed subsea cable to connect Nigeria, 19 other countries]] · [[infra.connect]]
 ## Financing
 
-*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-22**.*
+*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-23**.*
 
 **Non-state** — US$4.37bn committed across 71 deals (2015–2026). (2 further deals carry only a non-USD amount, not summed.) Top financiers: Vodacom Group (US$2.10bn), Export-Import Bank of China (US$501m), World Bank Group (US$390m). Leading subjects: `dpi.pay`, `infra.connect`, `tech.innovate`.
 
 Instrument mix: Grant 24, Equity 17, Commercial loan 15, Concessional loan 8, TA 2, Guarantee 1, Private investment 1, Equity acquisition 1, Senior loan 1. **1 record here still carries the capture's unverified `Concessional loan` label**, so the mix is indicative rather than established: the World Bank portal does not separate an IDA credit from an IDA grant.
 
-**Domestic state** — 2 budget lines held (national; first capture 2026-07-22). FY2024/25: KSh 6.88bn at unstated stage. Reported apart from the headline: KSh 7.03bn (2024/25, partial-scope, unclear) — partial/unclear scope, not folded into clean totals. Amounts in the announcing state's own currency; stages as stated, never merged; no cross-year USD summation.
+**Domestic state** — 12 budget lines held (national; stage-split series first compiled 2026-07-23
+from the FY2024/25 document chain — PBB + Supplementaries I/III + COB BIRR). **FY2024/25
+appropriated (original, Jun 2024):** KSh 35.88bn across 7 clean lines — Vote 1122 (ICT & Digital
+Economy): ICT Infrastructure Connectivity KSh 9.56bn, ICT & BPO Development KSh 7.82bn,
+E-Government Services KSh 4.69bn; Vote 1024 (Immigration & Citizen Services): Population
+Management KSh 6.84bn, Migration & Citizen Services KSh 6.97bn. **Revised (the Finance Bill
+withdrawal year — four budget values):** Vote 1122 travelled 22.35bn → 20.00bn → 12.06bn →
+16.46bn final; Vote 1024 14.96bn → 14.27bn → 20.12bn → 20.22bn final; e-Citizen quadrupled
+mid-year to KSh 2.61bn; Treasury's e-GP e-procurement KSh 2.27bn survived untouched while KRA's
+ERP/CRM KSh 3.44bn was zeroed. **Actual (COB BIRR, Aug 2025):** Vote 1122 absorption 93% —
+E-Government spent 105% of its thrice-cut allocation (COB: "possible irregular budget
+reallocation"); Vote 1024 absorption 102%. Amounts in KES; stages as stated, never merged; no
+cross-year USD summation. **Audited stage not held as of 2026-07-23** (OAG summary in
+acquisitions). The ODPC carries no separately visible appropriation at PBB programme grain (it
+sits inside Vote 1122) — its funded scale is not established as of 2026-07-23.
 
 Material deals: [[2023-03-31-wb-ken-001-kenya-digital-economy-acceleration-project]], [[2019-01-01-eximbank-cn-ken-003-china-eximbank-provides-rmb-1225-billion]], [[2021-01-01-adc-ken-nairobi-2021-africa-data-centres-kenya-nairobi-nbo1]], [[2025-01-01-eximbank-cn-ken-004-nairobi-intelligent-transport-system-its-project]], [[2023-01-01-edcf-ken-konza-digital-media-city-2023-kenya-konza-digital-media-city-development]], [[2016-01-01-eximbank-cn-ken-001-china-eximbank-provides-supplemental-rmb-650]].
 

@@ -1,0 +1,11 @@
+head_code,head,approved_gross_2024_25,net_amendment,amended_gross,notes
+1071102700,Enterprise Resource Planning (ERP) and CRM - KRA - BETA,3436200000,-3436200000,0,zeroed in Supp I
+1071102800,Establishment of Secure & Coordinated Border Control Points - KRA - BETA,40000000,-40000000,0,
+1071103000,Construction of alternate Data Recovery Centre - KRA - BETA,17000000,-17000000,0,second 61m line adjacent also zeroed (wrap ambiguity)
+1071103500,"Upgrading, Integration of Pensions Management Information System",744300000,-394300000,350000000,
+1071104000,"Renewal of Oracle Licenses, Annual Support for IFMIS Apps, Hardware",50000000,-50000000,0,
+1071104300,Installation/Operationalisation of DRC Equipment - Government Data Centre,600000000,-600000000,0,row-wrap read; confirm at re-extract
+1071104800,Procurement of county point-to-point connectivity for IFMIS system,150000000,-150000000,0,
+1071104900,Document management system,70000000,-70000000,0,
+1071105700,Single Window Support Project - BETA,258300000,-158300000,100000000,confirmed by explicit amendment row
+1071108500,Implementation of e-Procurement System for the Govt. of Kenya - BETA,2270000000,0,2270000000,unchanged through Supp I
