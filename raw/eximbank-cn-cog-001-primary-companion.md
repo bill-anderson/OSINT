@@ -14,6 +14,7 @@ deal_id: eximbank-cn-cog-001
 finance_origin: non-state
 retrieved: 2026-07-23
 ingested: 2026-07-23
+ingested: 2026-07-23
 sweep_batch: leads-drain-acquire-2026-07-23
 artefact: eximbank-cn-cog-001-primary.pdf
 body_completeness: excerpt

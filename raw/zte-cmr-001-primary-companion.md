@@ -14,6 +14,7 @@ deal_id: zte-cmr-001
 finance_origin: non-state
 retrieved: 2026-07-23
 ingested: 2026-07-23
+ingested: 2026-07-23
 sweep_batch: leads-drain-acquire-2026-07-23
 artefact: zte-cmr-001-primary.pdf
 body_completeness: excerpt

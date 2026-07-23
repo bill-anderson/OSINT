@@ -14,6 +14,7 @@ deal_id: boc-civ-004
 finance_origin: non-state
 retrieved: 2026-07-23
 ingested: 2026-07-23
+ingested: 2026-07-23
 sweep_batch: leads-drain-acquire-2026-07-23
 artefact: boc-civ-004-primary.pdf
 body_completeness: excerpt
