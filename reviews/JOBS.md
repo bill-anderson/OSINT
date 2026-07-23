@@ -74,7 +74,7 @@ alone (same principle as `new/ → raw/`). Markers:
 <!-- Add jobs below, one per line, each starting with "- [ ] ". -->
 
 - [x] Run domestic finance sweep for AGO 2024 — 2 budget docs staged (outturn + fundamentação), 3 acquisitions, 0 records; full estimates volume not obtained; budget-extract deferred to checkpoint
-- [ ] Run domestic finance sweep for AGO 2025
+- [~] Run domestic finance sweep for AGO 2025
 - [ ] Run domestic finance sweep for AGO 2026
 - [ ] Update wiki
 - [ ] Run domestic finance sweep for BDI 2024
