@@ -26,7 +26,18 @@ The queue file's format, markers and editing rules are defined in `reviews/JOBS.
 
 ```
 read reviews/JOBS.md  →  note the start time and the Budget: value (if any)
-for each line, top to bottom:
+
+# --- launch checks ---
+# Job lines are read from the "## Queue" section ONLY. The [ ] lines in the
+# documentation above it (the format examples) are inert — never execute them.
+# A leftover [~] at launch means a previous run was interrupted mid-job:
+# verify that job's actual state from log.md and git, then re-mark it
+# [x] — <outcome> if it in fact completed, or [ ] to retry it. Never start
+# the loop with a [~] still standing.
+# A leftover [stop] whose cause is now fixed: re-mark it [ ] — it halted on
+# the environment, not on its merits, and must be retried, not skipped.
+
+for each line in the ## Queue section, top to bottom:
     skip blank lines and lines starting with '#'
     skip lines already marked [x], [!], or [stop]   # resume cleanly
     take the next [ ] line as the current job
@@ -131,4 +142,6 @@ followed by the batch tally:
 
 Finished (`[x]`) and failed (`[!]`) lines stay in `JOBS.md` as the run record;
 Bill clears them after review (or asks CC to "clear finished jobs"). A `[stop]`
-run is resumed by fixing the cause and re-issuing the trigger.
+run is resumed by fixing the cause, **re-marking the `[stop]` line `[ ]`** (it
+halted on the environment, not on its merits — the launch check does this if
+forgotten), and re-issuing the trigger.

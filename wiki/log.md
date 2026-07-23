@@ -6,6 +6,16 @@ Reporting): a few lines each, full detail in `log-archive.md` or git.
 
 ---
 
+## 2026-07-23 — RUN-BATCH reviewed: three resume/parse gaps fixed before first test
+
+Bill's new batch runner (`RUN-BATCH.md` + `reviews/JOBS.md` + template) reviewed on request.
+Design confirmed consistent (loop-only, marker-is-state, same concurrency and stop-don't-shred
+rules as the passes). **Three fixes applied:** (1) loop scoped to the `## Queue` section — a
+literal top-to-bottom read would have executed the format examples as real jobs; (2) launch check
+for a leftover `[~]` (interrupted mid-job — today's failure mode): verify from log/git, re-mark;
+(3) `[stop]` lines re-queued at resume — an environmental halt is not a judgment on the job.
+Revert: `git checkout <sha> -- RUN-BATCH.md reviews/JOBS.md reviews/JOBS-template.md`.
+
 ## 2026-07-23 — budget extract: KEN/2025 drained — 5 records; identity up, infrastructure down
 
 9 documents processed under archetypes G/H (no new archetypes — the library held); 2 CSVs to
