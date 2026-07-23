@@ -84,3 +84,11 @@ not-held lines added to `wiki/places/KEN.md`, `wiki/places/ZAF.md`, `wiki/places
   **Note, not queued:** the full FY2024/25 Blue Book (630.03 MB) *is* fetchable at
   `https://libraryir.parliament.go.ke/items/3ad33490-54b9-49f0-b434-048b549121be` — not staged on
   size (decision logged 2026-07-23); pull it if per-vote audit opinions are needed at extraction.
+
+### Added 2026-07-23 by the domestic finance sweep (Kenya 2025 → FY2025/26)
+
+- **[blocked]** (dead-link) Kenya National Treasury — *Budget Highlights: The Mwananchi Guide for
+  the FY 2025/26 Budget* (the citizen guide with the digital thematic table; the FY2024/25 and
+  FY2026/27 editions are both live, this one 404s at the pattern path
+  `/sites/default/files/Mwananchi/Budget-Highlights-The-Mwananchi-Guide-for-the-FY-2025-26-Budget.pdf`
+  as of 2026-07-23). Payload substitute held: Eastleigh Voice per-line budget-day breakdown.

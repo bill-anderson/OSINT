@@ -6,6 +6,19 @@ Reporting): a few lines each, full detail in `log-archive.md` or git.
 
 ---
 
+## 2026-07-23 — domestic finance sweep: Kenya 2025 → FY2025/26 — 9 documents + 2 prose staged
+
+KEN/2025 → FY2025/26 (Jul–Jun; second Kenya run). **9 budget documents** to `new-budget/KEN/2025/`:
+full estimates chain (PBB + Supp I Apr-2026 + Supp II Jun-2026 — only two supplementaries), Dev
+Vols I+III + Dev Supp I Vol II, **both in-year COB BIRRs (6-month + 9-month, native PDFs)**, Budget
+Statement via **KIPPRA repository API** (Treasury copy dead). **Route wins:** cob.go.ke DNS failure
+→ DoH + `--resolve`; wpdm JS gate → `?wpdmdl=<id>` — both in extraction notes; no hand-clips.
+**2 prose**: Eastleigh Voice 12.7bn digital thematic (−22% YoY, per-line); Citizen Digital on the
+9-month BIRR — **Article 223 at KSh 206.81bn in nine months, ~5× prior year** (the year's reading
+frame). Acquisitions +1 (Mwananchi FY2025/26 dead-link). Stage coverage: all held except full-year
+actual + audit — calendar gaps, re-run picks them up. Run file:
+`sweep/domestic/KEN-2025-26-run-2026-07-23.md`. Revert: `git checkout <sha> -- new-budget/ new/ sweep/ reviews/ documentation/`.
+
 ## 2026-07-23 — budget extract: KEN/2024 drained — 10 records; the four-value year; Supp II recovered from Supp III
 
 9 documents processed (2 new archetypes added: **G** Kenya PBB chapter + supplementary form, **H**
