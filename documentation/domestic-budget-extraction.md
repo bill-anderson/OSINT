@@ -219,3 +219,33 @@ than once, so a country section doesn't have to restate them)*
   per-EPC **PAC** (mandatory under Lei 41/20, art. 442) carries the project-level digital lines —
   MINTTICS PAC is the recurring annual seam (2025 PAC: Angosat-3 278 bi, banda larga, centro de
   dados — heavily reported by pti.ao / Novo Jornal; the *actualização* corrects wild scale swings).
+
+### Angola — OGE 2025 package, FY2025 (sweep, 2026-07-23)
+- **Same Track-B route holds:** DoH `cms.minfin.gov.ao`→20.87.80.66, UUID-keyed
+  `/api/assets/portal-minfin/<uuid>/`. **Exa surfaces the asset UUIDs directly** — one search
+  returned the whole 2025 execução-trimestral series: I `df341d44-…`, II `37498c08-…`, III
+  `b5aa3d45-…`, **IV `6fb282a3-…` (the full-year outturn, finalised 12-Mar-2026)**. The 2025
+  Fundamentação minfin canonical UUID did NOT surface (2024 was `b95da7f3-…`); the reachable copy
+  is the **CABRI BIA mirror** (`cabri-sbo.org/uploads/bia/Angola_2025_Formulation_…4db698.pdf`,
+  ~6 MB) — MINFIN's own document, fetchable by plain curl+UA.
+- **The IV-Trimestre report is NARRATIVE ONLY (57pp).** ANEXO 13 (por projecto) and ANEXO 16 (por
+  UO) are **TOC-listed but not printed** in it — a *separate anexos volume*. So the outturn PDF gives
+  aggregate + functional/sector taxas de execução, but **no per-project/UO digital lines**. Same
+  almost certainly true of the 2024 IV-Trim already staged: to get executed digital lines you need
+  the anexos volume, not the report. **This changes the acquisition target** — queue the anexos, not
+  just the Mapas.
+- **The digital envelope is in reporting, not the Fundamentação:** pti.ao read the OGE 2025 MINFIN
+  document and gives the **Comunicações e Tecnologias de Informação sector = Kz 226,4 mil milhões
+  (~7× OGE 2024)** and the programme **"Expansão e Modernização das Comunicações" Kz 229,3 mil
+  milhões**. The Fundamentação carries only the functional envelope (confirmed again). Grep pti.ao by
+  programme/rubrica name for the appropriated split before the Mapas land.
+- **PAC scale-trap realised at source:** the first MINTTICS PAC 2025 (21-Jan) totalled Kz 616,7
+  *biliões* — larger than the whole OGE (34 bi). The **actualização (27-Fev, pub. 05-Mar)** corrected
+  it to Kz 225,6 *mil milhões*; satellite Kz 298,7 bi → 712,7 M, earth-obs 10,4 bi → 77,7 M. **Always
+  take the actualização, never the first PAC** — the held Angosat-3 278 bn record is a first-PAC
+  artefact (contradiction filed 2026-07-23).
+- **Identity money surfaces as a despacho, not a vote:** **DP 169/25 (19-Set-2025)** opened a
+  crédito adicional suplementar of **USD 218,5 M** for the Bilhete de Identidade universalisation,
+  afecto ao **Min. Justiça** — stated in USD, in OGE 2025. lex.ao reproduces DR text verbatim (good
+  Block-5 source). Grep lex.ao / DR by "Crédito Adicional Suplementar" + programme name for the
+  in-year DPI appropriations the vote structure hides.

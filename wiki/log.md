@@ -6,6 +6,26 @@ Reporting): a few lines each, full detail in `log-archive.md` or git.
 
 ---
 
+## 2026-07-23 — domestic finance sweep — AGO 2025 (batch job 2/68)
+
+AGO 2025 → FY2025 (calendar-year OGE = Lei 18/24, Kz 34,63 bi, +40% on 2024). Staged **2 budget
+docs** to `new-budget/AGO/2025/`: IV-Trimestre-2025 execução (**FY2025 outturn**, 57pp, `6fb282a3-…`,
+via DoH IP-pin) + OGE 2025 Fundamentação (fiscal strategy, CABRI mirror). Staged **3 prose** to
+`new/`: **DP 169/25** (ID-card universalisation crédito adicional, **USD 218,5 M**, Min. Justiça —
+`dpi.id`), pti.ao OGE-2025 digital sector envelope (Kz 226,4 mil milhões, ~7× 2024), pti.ao MINTTICS
+PAC-2025 actualização. **5 to acquisitions** (Mapas; IV-Trim anexos volume; Lei 18/24; corrected PAC;
+DP 169/25 DR PDF). **1 contradiction filed** — held Angosat-3 record (278 bn) superseded by corrected
+PAC (712,7 M). Key learning: the IV-Trim report is narrative-only; the per-project/UO digital anexos
+are a separate volume — queue the anexos, not just the Mapas (extraction notes updated). Full
+estimates volume NOT obtained. Run file: `sweep/domestic/AGO-2025-run-2026-07-23.md`.
+
+**Decision:** budget extract stays **deferred to the batch checkpoint** (job-1 rule, still in force —
+running it per-job re-scans `new-budget/` ~17×). Also logged: staged 3 prose sources this run (2024
+staged none) because AGO 2025 surfaced strong in-window primaries with hard figures — the DPI/identity
+despacho especially. Revert: this commit removes `new-budget/AGO/2025/`, `new/2025-*ago-*` (×3), the
+2 manifest rows, 5 acquisition lines, the contradiction brief, and the run-file/extraction-notes edits.
+contradictions - 1 ; acquisitions - 9 ; awaiting ingest - 3 ; decisions logged - 1
+
 ## 2026-07-23 — domestic finance sweep — AGO 2024 (batch job 1/68)
 
 AGO 2024 → FY2024 (calendar-year OGE). First AGO run. Staged **2 budget docs** to

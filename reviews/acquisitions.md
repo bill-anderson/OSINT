@@ -141,3 +141,16 @@ browser/next-pass targets. The two OGE-package docs that WERE fetched are staged
 - **[untried]** [AGO] `ago-oge2024-mapas` — *Mapas Orçamentais OGE 2024 — Dotações Orçamentais por Órgãos (estimates volume, per-organ × programa × projecto)* — the only route to AGO FY2024 digital programme/project lines. minfin CMS (`/api/assets/portal-minfin/<uuid>/`; per-organ SIGFE PDFs seen e.g. b38de8a9-…). IP-pin required.
 - **[untried]** [AGO] `ago-lei-15-23` — *Lei n.º 15/23 (OGE 2024 appropriation act)*, Diário da República I Série (29-Dec-2023) — appropriation-act PDF. Text on angolex/lexlink; DR PDF via faolex/minfin.
 - **[untried]** [AGO] `ago-minttics-pac-2024` — *MINTTICS Plano Anual de Contratação 2024*, Portal de Compras Públicas (compraspublicas.minfin.gov.ao) — 2024 digital procurement lines (banda larga, centro de dados, satélite). IP-pin/browser.
+
+### Added 2026-07-23 by domestic finance sweep AGO 2025 (batch job 2/68)
+
+*(minfin CMS IP-pin route works — DoH `cms.minfin.gov.ao`→20.87.80.66, `curl --resolve`; Exa
+surfaces the asset UUIDs. The IV-Trimestre 2025 outturn and Fundamentação 2025 were fetched and
+are staged, not queued. What remains: the per-project/per-UO detail tables that carry the digital
+lines, and the gazetted primaries.)*
+
+- **[untried]** [AGO] `ago-oge2025-mapas` — *Mapas Orçamentais OGE 2025 — Dotações Orçamentais por Órgãos (Anexo 6; per-organ × programa × projecto)* — the appropriated-side route to AGO FY2025 digital programme/project lines (MINTTICS "Expansão e Modernização das Comunicações" Kz 229,3 mil milhões; the ~Kz 226,4 mil milhões digital sector envelope). minfin CMS SIGFE per-organ PDFs (`/api/assets/portal-minfin/<uuid>/`, format seen e.g. b38de8a9-…) or the CIPRA transparency platform (`plataformacipra.gov.ao/public/ficheiros/arquivos/Gov_AngolaOGE…pdf`). IP-pin required; per-organ, no single volume.
+- **[untried]** [AGO] `ago-execucao-iv-2025-anexos` — *Relatório de Execução Trimestral IV Trimestre 2025 — ANEXO 13 (despesa por projecto) + ANEXO 16 (execução das UO a nível central)* — the executed-side digital lines (MINTTICS/Justiça/Interior/MAT UO rows). TOC-listed but NOT in the staged 57pp narrative report — a separate anexos volume on minfin CMS. IP-pin (DoH 20.87.80.66).
+- **[untried]** [AGO] `ago-lei-18-24` — *Lei n.º 18/24 (OGE 2025 appropriation act; promulgada 24-Dez-2024)*, Diário da República I Série n.º 244 (30-Dez-2024) — the gazetted appropriation-act PDF. Full text on angolex.com; DR PDF via minfin/faolex.
+- **[untried]** [AGO] `ago-minttics-pac-2025` — *MINTTICS Plano Anual de Contratação 2025 (actualizado, 27-Fev-2025, publicado 05-Mar-2025)*, Portal de Compras Públicas (SNCP) — the 29-project corrected PAC (banda larga 107,8 mil milhões; plataforma/centro de dados 70,5 mil milhões; satélite 712,7 milhões). The corrective primary behind the held reporting and the AngoSat-3 contradiction. IP-pin/browser.
+- **[untried]** [AGO] `ago-dp-169-25-dr` — *Decreto Presidencial n.º 169/25, de 19-Set-2025 (DR I Série n.º 178, pág. 20385)* — the gazetted PDF of the USD 218,5 M crédito adicional for the Bilhete de Identidade universalisation (Min. Justiça). Verbatim text already held (via lex.ao) and staged in `new/`; this queues the official DR artefact only.
