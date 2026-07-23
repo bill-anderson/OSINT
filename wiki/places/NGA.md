@@ -13,6 +13,10 @@ last_reviewed: 2026-07-23
 
 ## Recent developments
 
+- **2026-07-23** — **WASPAN appeals the DEON judgment.** Notice of Appeal (dated 2026-07-21, nine
+  grounds) asks the Court of Appeal to set aside the 2026-07-20 FHC decision and declare the DEON
+  regulations inapplicable to telecom operators — renewing the s.90 Communications Act exclusivity
+  argument for the **NCC**. Source: [[2026-07-23-waspan-deon-appeal]].
 - **2026-07-22** — **FCCPC resumes digital-lending enforcement after the DEON judgment.** Following
   the Federal High Court's 2026-07-20 judgment in Suit No. FHC/L/CS/760/2026 dismissing
   **WASPAN**'s challenge and upholding the **DEON Regulations 2025** as validly issued, the

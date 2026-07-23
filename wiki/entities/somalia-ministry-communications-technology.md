@@ -6,8 +6,8 @@ title: Somalia Ministry of Communications and Technology
 places: [SOM]
 topics: [gov.policy, gov.protect, dpi.govtech]
 status: active
-last_reviewed: 2026-07-20
-sources: [[2026-02-06 Somalia adopts data regulatory framework], [2026-01-29 Mogadishu to Host First National Digital Public Infrastructure Summit; Key Agencies to Map Out Digital Transformation Strategy], [2024-04-28-moct-national-data-center-tour], [2025-05-06-moct-national-data-center-nearing-completion]]
+last_reviewed: 2026-07-23
+sources: [[2026-02-06 Somalia adopts data regulatory framework], [2026-01-29 Mogadishu to Host First National Digital Public Infrastructure Summit; Key Agencies to Map Out Digital Transformation Strategy], [2024-04-28-moct-national-data-center-tour], [2025-05-06-moct-national-data-center-nearing-completion], [2026-07-22-somalia-whatsapp-usernames]]
 ---
 
 # Somalia Ministry of Communications and Technology

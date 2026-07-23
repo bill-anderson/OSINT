@@ -1,10 +1,19 @@
 ---
+type: source
 title: Why WhatsApp usernames could upset Somalia's anti-terror fight
-published: 2026-07-22
-publisher: Hiiraan Online
 url: https://www.hiiraan.com/news4/2026/Jul/205760/why_whatsapp_usernames_could_upset_somalias_antiterror_fight.aspx
+publisher: Hiiraan Online
+published: 2026-07-22
+date_precision: day
+date_source: source
 places: [SOM]
+topics: [gov.protect, infra.cybersec]
+entities: [[nca-somalia], [meta], [somalia-ministry-communications-technology]]
+lens: []
+retrieved: 2026-07-23
+ingested: 2026-07-23
 sweep_batch: newspapers-2026-07-23
+body_completeness: full
 ---
 
 Basillioh Rukangaand Priyanka Sippy, Focus on Africa podcast

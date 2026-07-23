@@ -13,6 +13,11 @@ last_reviewed: 2026-07-20
 
 ## Recent developments
 
+- **2026-07-22** — **Digital-ID access-transparency design confirmed.** MICT (minister, at AI for
+  Good, Geneva) says the planned e-ID will let citizens see who accessed their personal data, why,
+  and object; the ministry confirms the system operates under the **Civil Registration and
+  Identification Act** safeguards and is **not dependent on the pending data-protection bill**.
+  Source: [[2026-07-22-namibia-digital-id-transparency]].
 - **2024-11-30** *(reference baseline; ingested 2026-07-23 from the `_leads/` drain)* — **IDEA
   Democracy Tracker on the Nov-2024 election.** International IDEA's Global State of Democracy
   tracker records the general election: **Nandi-Ndaitwah 58.1%, SWAPO 51/96 directly elected

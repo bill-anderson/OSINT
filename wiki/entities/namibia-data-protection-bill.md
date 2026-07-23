@@ -6,8 +6,8 @@ places: [NAM]
 topics: [gov.protect, gov.legislate]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-19
-sources: [[2025-08-14-govt-to-introduce-data-protection-bill-september-namibian], [2025-08-17-data-protection-bill-returns-to-parliament-namibiansun], [2026-07-14-namibia-pushes-cyber-security-reforms-itweb]]
+last_reviewed: 2026-07-23
+sources: [[2025-08-14-govt-to-introduce-data-protection-bill-september-namibian], [2025-08-17-data-protection-bill-returns-to-parliament-namibiansun], [2026-07-14-namibia-pushes-cyber-security-reforms-itweb], [2026-07-22-namibia-digital-id-transparency]]
 ---
 
 # Namibia Data Protection Bill

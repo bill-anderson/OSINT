@@ -1,10 +1,19 @@
 ---
+type: source
 title: Data protection office bets on global quality standards amid rising cyber threats
-published: 2026-07-22
-publisher: The Standard (Kenya)
 url: https://www.standardmedia.co.ke/sci-tech/article/2001553485/data-protection-office-bets-on-global-quality-standards-amid-rising-cyber-threats
+publisher: The Standard (Kenya)
+published: 2026-07-22
+date_precision: day
+date_source: source
 places: [KEN]
+topics: [gov.protect]
+entities: [[odpc-kenya]]
+lens: []
+retrieved: 2026-07-23
+ingested: 2026-07-23
 sweep_batch: newspapers-2026-07-23
+body_completeness: full
 ---
 
 Audio By Vocalize

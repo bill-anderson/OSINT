@@ -6,8 +6,8 @@ places: [NGA]
 topics: [infra.connect, gov.policy, gov.legislate, gov.standards]
 lens: []
 status: active
-last_reviewed: 2026-07-16
-sources: [[2026-07-15 Nigeria records surge in fibre cuts (NCC)], [2026-07-08 FG Halts Enforcement of New Regulations on Internet Platforms], [2026-05-22 Why global hyperscalers are avoiding Nigeria despite Africa's biggest market], [2026-06-04 Chinese bank backs Nigeria towers project], [2025-02-13 Digital ID necessity increases in Nigeria despite lingering challenges], [2026-01-15 Amazon Leo secures landing permit in Nigeria], [2026-01-13 Spacecoin strikes major deals to launch satellite internet], [2026-06-25 Regulating for Africa's future digital economy – A draft agenda to speed things up]]
+last_reviewed: 2026-07-23
+sources: [[2026-07-15 Nigeria records surge in fibre cuts (NCC)], [2026-07-08 FG Halts Enforcement of New Regulations on Internet Platforms], [2026-05-22 Why global hyperscalers are avoiding Nigeria despite Africa's biggest market], [2026-06-04 Chinese bank backs Nigeria towers project], [2025-02-13 Digital ID necessity increases in Nigeria despite lingering challenges], [2026-01-15 Amazon Leo secures landing permit in Nigeria], [2026-01-13 Spacecoin strikes major deals to launch satellite internet], [2026-06-25 Regulating for Africa's future digital economy – A draft agenda to speed things up], [2026-07-23-waspan-deon-appeal]]
 ---
 
 # Nigerian Communications Commission (NCC)

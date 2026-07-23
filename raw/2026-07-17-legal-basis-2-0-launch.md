@@ -1,10 +1,19 @@
 ---
+type: source
 title: Legal Basis 2.0 unveiled to strengthen data protection compliance in Nigeria
-published: 2026-07-17
-publisher: Vanguard
 url: https://www.vanguardngr.com/2026/07/legal-basis-2-0-unveiled-to-strengthen-data-protection-compliance-in-nigeria/
+publisher: Vanguard
+published: 2026-07-17
+date_precision: day
+date_source: source
 places: [NGA]
+topics: [gov.protect, capacity.literacy]
+entities: [[ndpc], [meta], [tech-hive-advisory]]
+lens: []
+retrieved: 2026-07-23
+ingested: 2026-07-23
 sweep_batch: newspapers-2026-07-23
+body_completeness: full
 ---
 
 The second phase of the Legal Basis Project (Legal Basis 2.0), an initiative aimed at strengthening compliance with Nigeria’s data protection laws, has been unveiled in Abuja, with regulators and industry stakeholders reaffirming their commitment to protecting the privacy rights of data subjects.

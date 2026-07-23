@@ -6,8 +6,8 @@ title: Office of the Data Protection Commissioner (ODPC), Kenya
 places: [KEN]
 topics: [gov.protect, dpi.id, gov.legislate]
 status: active
-last_reviewed: 2026-07-12
-sources: [[2026-03-27 Kenya's Health Deal Is a Stress Test for the America First Global Health Strategy], [2026-01-12 (3) Africa's Digital Policy Review 2025 in Perspective and Outlook for 2026], [2026-06-08 Kenyan Citizens Took A $2.5 Billion Deal With America To Court To Fight For Their Health Data], [2025-12-15 THE GATEKEEPERS PART V The New Maps of Africa], [2026-06-08 Kenya Wants to Sell Your Data. But It's Complicated], [2026-05-19 GATEKEEPERS XIV]]
+last_reviewed: 2026-07-23
+sources: [[2026-03-27 Kenya's Health Deal Is a Stress Test for the America First Global Health Strategy], [2026-01-12 (3) Africa's Digital Policy Review 2025 in Perspective and Outlook for 2026], [2026-06-08 Kenyan Citizens Took A $2.5 Billion Deal With America To Court To Fight For Their Health Data], [2025-12-15 THE GATEKEEPERS PART V The New Maps of Africa], [2026-06-08 Kenya Wants to Sell Your Data. But It's Complicated], [2026-05-19 GATEKEEPERS XIV], [2026-07-22-odpc-quality-standards]]
 ---
 
 # Office of the Data Protection Commissioner (ODPC), Kenya

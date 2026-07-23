@@ -1,10 +1,19 @@
 ---
+type: source
 title: WASPAN Appeals Judgement Upholding FCCPC’s DEON Regulations, Seeks to Restore NCC’s Exclusive Telecom Powers
-published: 2026-07-23
-publisher: THISDAY
 url: https://www.thisdaylive.com/2026/07/23/waspan-appeals-judgement-upholding-fccpcs-deon-regulations-seeks-to-restore-nccs-exclusive-telecom-powers/
+publisher: THISDAY
+published: 2026-07-23
+date_precision: day
+date_source: source
 places: [NGA]
+topics: [gov.legislate, dpi.pay]
+entities: [[fccpc], [ncc], [waspan]]
+lens: []
+retrieved: 2026-07-23
+ingested: 2026-07-23
 sweep_batch: newspapers-2026-07-23
+body_completeness: full
 ---
 
 Latest Headlines

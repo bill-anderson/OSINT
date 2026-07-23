@@ -160,6 +160,8 @@ reviews/
     done/                 # resolved (last step)
                           # (no research/ — removed 2026-07-20; reconcile keeps no scratch on disk)
   acquisitions.md         # fetch list: specific known documents the wiki wants and lacks
+  JOBS.md                 # the batch queue (RUN-BATCH.md drains it)
+  jobs-archive/           # completed batch runs: jobs-YYYY-MM-DD-HHMM.md (archived on completion)
 wiki/
   concepts/               # one page per SUBJECT topic
   places/                 # country + region hub pages (one page type)

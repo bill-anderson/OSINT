@@ -6,8 +6,8 @@ places: [NAM]
 topics: [dpi.id, dpi.registry, dpi.govtech, include.access]
 lens: []
 status: active
-last_reviewed: 2026-07-19
-sources: [[2025-06-09 Home affairs to introduce electronic IDs to curb identity fraud], [2025-04-29 Namibia prepares to roll out national digital ID system], [2025-09-03 Season 3 - Namibia's Digital Identity Journey - From Vision to Reality (UNDP)], [2024-10-28 Promoting Digital Inclusion through Legal Identity Governance in Namibia (UNDP Part 3)], [2020-01-24 Namibia Case Study Highlights Importance of Data Policy Alignment for SDG 16.9], [2019-01-01 Identity and Electronic-Digital Government - Namibia (presentation, Melanie Tjijenda)], [2025-05-12 Namibia to step up civil registration efforts with $9M budget], [2025-06-09-namibia-to-launch-groundbreaking-e-id-namibiansun], [2025-06-12-namibia-roll-out-digital-id-card-july-2026-biometricupdate], [2026-03-16-namibia-expedites-electronic-ids-issuance-itweb], [2026-06-20-iipumbu-dismisses-e-id-microchip-tracking-namibian], [2026-07-01-delay-e-id-rollout-until-backlog-cleared-namibiansun]]
+last_reviewed: 2026-07-23
+sources: [[2025-06-09 Home affairs to introduce electronic IDs to curb identity fraud], [2025-04-29 Namibia prepares to roll out national digital ID system], [2025-09-03 Season 3 - Namibia's Digital Identity Journey - From Vision to Reality (UNDP)], [2024-10-28 Promoting Digital Inclusion through Legal Identity Governance in Namibia (UNDP Part 3)], [2020-01-24 Namibia Case Study Highlights Importance of Data Policy Alignment for SDG 16.9], [2019-01-01 Identity and Electronic-Digital Government - Namibia (presentation, Melanie Tjijenda)], [2025-05-12 Namibia to step up civil registration efforts with $9M budget], [2025-06-09-namibia-to-launch-groundbreaking-e-id-namibiansun], [2025-06-12-namibia-roll-out-digital-id-card-july-2026-biometricupdate], [2026-03-16-namibia-expedites-electronic-ids-issuance-itweb], [2026-06-20-iipumbu-dismisses-e-id-microchip-tracking-namibian], [2026-07-01-delay-e-id-rollout-until-backlog-cleared-namibiansun], [2026-07-22-namibia-digital-id-transparency]]
 ---
 
 # Namibia national digital ID / e-ID

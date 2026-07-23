@@ -25,6 +25,11 @@ market's velocity.
 
 ## Recent developments
 
+- **2026-07-22** — **Somalia asks Meta to delay the WhatsApp usernames rollout** (NCA statement
+  2026-07-06; minister interview 2026-07-22). Cited risks: impersonation/fraud against the
+  mobile-money ecosystem (~155m transactions, US$2.7bn/month, 2026) and loss of phone-number
+  traceability in the al-Shabab fight — the second country after India to request a pause.
+  Source: [[2026-07-22-somalia-whatsapp-usernames]].
 - **2026-07-22** — **National startup network launched under the EU/UNIDO BIC Somali Project.** A national
   startup network was unveiled at the **BIC Somali Innovation Forum** (Mogadishu), under the **BIC Somali
   Project** — funded by the **[[european-union]]**, implemented by **[[unido]]** — to connect startups with

@@ -58,7 +58,9 @@ for each line in the ## Queue section, top to bottom:
 
     commit JOBS.md (and let the job's own work commit as it normally would)
 
-when no [ ] lines remain (or halted, or early-stop): write closing log + status line
+when no [ ] lines remain:     write closing log + status; then ARCHIVE & CLEAR
+when halted or early-stopped:  write closing log + status; leave JOBS.md as-is
+                               (unreached [ ] lines stay for resume — do NOT archive/clear)
 ```
 
 **Re-read the Control block from `JOBS.md` on every iteration**, not just at
@@ -138,10 +140,22 @@ followed by the batch tally:
 
 `batch: N done ; N failed ; N not reached`
 
-## After the run
+## After the run — archive and clear
 
-Finished (`[x]`) and failed (`[!]`) lines stay in `JOBS.md` as the run record;
-Bill clears them after review (or asks CC to "clear finished jobs"). A `[stop]`
-run is resumed by fixing the cause, **re-marking the `[stop]` line `[ ]`** (it
-halted on the environment, not on its merits — the launch check does this if
-forgotten), and re-issuing the trigger.
+**On a fully-completed run** (every queued job terminal — `[x]` or `[!]` — with no
+`[ ]` left), the runner **archives the run record and clears the queue**, so Bill
+always starts the next batch from a clean `JOBS.md`:
+
+1. Copy the run record to **`reviews/jobs-archive/jobs-YYYY-MM-DD-HHMM.md`** — the
+   date + time the batch finished (no colon in the filename; it is illegal on
+   Windows). The archive holds: a dated heading, the `Control` values used, the
+   completed job lines with their `[x]`/`[!]` outcomes, and the batch tally.
+2. Empty the `## Queue` section of `JOBS.md` back to just its placeholder comment,
+   and reset `Stop:` to `no` (leave `Budget:` as Bill set it). Everything above the
+   Queue (the docs and Control block) is untouched.
+
+**A halted (`[stop]`) or early-stopped run does NOT archive or clear** — its
+unreached `[ ]` lines must stay in `JOBS.md` so the run resumes. Resume it by fixing
+the cause, **re-marking any `[stop]` line `[ ]`** (it halted on the environment, not
+on its merits — the launch check does this if forgotten), and re-issuing the
+trigger. It archives and clears only once it finally completes with an empty queue.

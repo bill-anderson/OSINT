@@ -19,6 +19,12 @@ substantially on foreign finance and vendors, and dogged by slow disbursement an
 
 ## Recent developments
 
+- **2026-07-11** — **Civil-society coalition demands abrogation of the social-media suspension.**
+  Nine organisations (declaration read in Libreville) call **HAC decision n°0002/HAC/2026** —
+  in force ~5 months "jusqu'à nouvel ordre" — unconstitutional and ultra vires, and link mass VPN
+  use to a surge in account piracy; they demand immediate lifting and a concerted moderation
+  dialogue, noting a social-media regulation bill awaiting promulgation.
+  Source: [[2026-07-13-gabon-social-media-suspension]].
 - **2026-06-02** — **First public CNIE coverage figures.** Interior Minister **Adrien Nguema Mba** tells
   the National Assembly that **335,384 people have been enrolled** since the 2024 launch, **164,944 cards
   produced** and **147,224 collected**, leaving **17,720 uncollected**; **92,614 files are in processing**

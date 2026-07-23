@@ -6,8 +6,8 @@ places: [SOM]
 topics: [infra.connect, gov.legislate, gov.standards, infra.capacity]
 lens: []
 status: active
-last_reviewed: 2026-07-20
-sources: [[2025-04-14-starlink-license-somalia], [2026-06-22-somalia-ifc-submarine-cable-working-group], [2026-06-12-somalia-ipv6-migration], [2024-04-28-moct-national-data-center-tour]]
+last_reviewed: 2026-07-23
+sources: [[2025-04-14-starlink-license-somalia], [2026-06-22-somalia-ifc-submarine-cable-working-group], [2026-06-12-somalia-ipv6-migration], [2024-04-28-moct-national-data-center-tour], [2026-07-22-somalia-whatsapp-usernames]]
 ---
 
 # NCA (National Communications Authority, Somalia)

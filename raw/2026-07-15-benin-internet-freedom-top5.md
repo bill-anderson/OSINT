@@ -1,10 +1,19 @@
 ---
+type: source
 title: "Liberté d'internet en 2026 : le Bénin dans le top 5 africain"
-published: 2026-07-15
-publisher: La Nation Bénin
 url: https://www.lanation.bj/numerique/liberte-dinternet-en-2026-le-benin-dans-le-top-5-africain
+publisher: La Nation Bénin
+published: 2026-07-15
+date_precision: day
+date_source: source
 places: [BEN]
+topics: [gov.policy, include.access]
+entities: []
+lens: []
+retrieved: 2026-07-23
+ingested: 2026-07-23
 sweep_batch: newspapers-2026-07-23
+body_completeness: full
 ---
 
 La Nation Bénin...

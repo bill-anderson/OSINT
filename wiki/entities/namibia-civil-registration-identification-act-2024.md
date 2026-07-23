@@ -6,8 +6,8 @@ places: [NAM]
 topics: [dpi.registry, dpi.id, gov.legislate, gov.protect]
 lens: []
 status: active
-last_reviewed: 2026-07-16
-sources: [[2024-12-30 Civil Registration and Identification Act, 2024], [2024-04-01 Namibia navigates biometric data privacy pending civil registration bill], [2024-09-09 Namibia's new CRVS, national ID system reflects key data protection aspects], [2025-04-29 Namibia prepares to roll out national digital ID system], [2025-05-12 Namibia to step up civil registration efforts with $9M budget], [2025-09-03 Season 3 - Namibia's Digital Identity Journey - From Vision to Reality (UNDP)]]
+last_reviewed: 2026-07-23
+sources: [[2024-12-30 Civil Registration and Identification Act, 2024], [2024-04-01 Namibia navigates biometric data privacy pending civil registration bill], [2024-09-09 Namibia's new CRVS, national ID system reflects key data protection aspects], [2025-04-29 Namibia prepares to roll out national digital ID system], [2025-05-12 Namibia to step up civil registration efforts with $9M budget], [2025-09-03 Season 3 - Namibia's Digital Identity Journey - From Vision to Reality (UNDP)], [2026-07-22-namibia-digital-id-transparency]]
 ---
 
 # Namibia Civil Registration and Identification Act, 2024

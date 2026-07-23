@@ -7,7 +7,7 @@ topics: [gov.legislate, gov.protect, tech.industry]
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-23
-sources: [[2026-07-10 Nigeria tests data sovereignty as foreign tech firms facing probe], [2026-07-10 Why Nigeria Is Investigating Meta, Google, X and AI Firms], [2026-07-22-fccpc-deon-digital-lending-resumes]]
+sources: [[2026-07-10 Nigeria tests data sovereignty as foreign tech firms facing probe], [2026-07-10 Why Nigeria Is Investigating Meta, Google, X and AI Firms], [2026-07-22-fccpc-deon-digital-lending-resumes], [2026-07-23-waspan-deon-appeal]]
 ---
 
 # Federal Competition and Consumer Protection Commission (FCCPC), Nigeria

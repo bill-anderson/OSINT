@@ -1,10 +1,19 @@
 ---
+type: source
 title: "Gabon | Cinq mois de silence numérique : quand le remède devient le poison"
-published: 2026-07-13
-publisher: Gabonreview
 url: https://www.gabonreview.com/gabon-cinq-mois-de-silence-numerique-quand-le-remede-devient-le-poison/
+publisher: Gabonreview
+published: 2026-07-13
+date_precision: day
+date_source: source
 places: [GAB]
+topics: [gov.legislate, include.access, infra.cybersec]
+entities: [[hac-gabon]]
+lens: []
+retrieved: 2026-07-23
+ingested: 2026-07-23
 sweep_batch: newspapers-2026-07-23
+body_completeness: full
 ---
 
 Gabon | Cinq mois de silence numérique : quand le remède devient le poison

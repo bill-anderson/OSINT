@@ -6,7 +6,12 @@ top-to-bottom, one at a time** — never two at once.
 
 Each line is a natural-language command, exactly as you would type it into a fresh
 CC turn. The runner does not know what the jobs mean; it just executes each line
-in order. So anything CC can do from a single instruction is a valid job:
+in order. So anything CC can do from a single instruction is a valid job.
+
+**Jobs go only in the `## Queue` section at the bottom of this file — that is the
+only live section.** Everything above it is documentation; the runner never
+executes it. The only thing you edit up top is the **Control** block (below), and
+only if you want a time budget or a manual stop.
 
 ## Control
 
@@ -21,18 +26,11 @@ so either one always lets the job in flight finish before the run stops):
   finishes the job in flight and stops. `no` = keep going.
 
 ```
-Budget: none
+Budget: 8h
 Stop: no
 ```
 
 Both leave the unreached jobs `[ ]`, so the run resumes on the next "run the batch".
-
-```
-- [x] Run domestic finance sweep Kenya 2026 — 6 docs + 1 prose staged+extracted; 4 records; first data-protection line found (917.3m); thematic cut to 8.6bn
-- [x] Run domestic finance sweep Senegal 2024 — DGB transport-walled: 4 documents to acquisitions w/ verified URLs; 3 prose + 1 record (numerique slice 16.1 mds) via press
-- [x] Update wiki — converged in 1 iteration: IPRS contradiction closed (dual-value resolution); acquisitions 8→0 (OAG summary FY2024/25 acquired via DoH route, 7 dropped w/ dated absences); lint clean
-
-```
 
 ## The marker is the state
 
@@ -55,10 +53,12 @@ alone (same principle as `new/ → raw/`). Markers:
 - A `[~]` or `[stop]` found at launch is an interrupted run: the runner verifies
   the job's real state and re-marks it before starting (see `RUN-BATCH.md`).
 - Blank lines and `#` comment lines are ignored — use them to group jobs.
-- Add new jobs by appending `[ ]` lines; you can queue the next batch while one is
-  finished but not yet cleared.
-- Completed (`[x]`) and failed (`[!]`) lines are left in place as the run record.
-  Clear them yourself when you've reviewed them, or tell CC to "clear finished jobs".
+- Add new jobs by appending `[ ]` lines.
+- **On a fully-completed run, the runner archives and clears for you.** When the
+  queue is fully drained (no `[ ]` left), it copies the run record to
+  `reviews/jobs-archive/jobs-YYYY-MM-DD-HHMM.md` and empties the `## Queue` here,
+  so you always start the next batch from a clean queue. An early-stop or `[stop]`
+  halt does **not** archive/clear — the unreached `[ ]` lines stay for resume.
 - The runner ends on the standing status line (see `STATUS.md`) plus a batch
   summary: jobs done / failed / not reached.
 
@@ -68,6 +68,56 @@ alone (same principle as `new/ → raw/`). Markers:
 
 <!-- Add jobs below, one per line, each starting with "- [ ] ". -->
 
-- [x] Run domestic finance sweep Kenya 2026 — 6 docs + 1 prose staged+extracted; 4 records; first data-protection line found (917.3m); thematic cut to 8.6bn
-- [x] Run domestic finance sweep Senegal 2024 — DGB transport-walled: 4 documents to acquisitions w/ verified URLs; 3 prose + 1 record (numerique slice 16.1 mds) via press
-- [x] Update wiki — converged in 1 iteration: IPRS contradiction closed (dual-value resolution); acquisitions 8→0 (OAG summary FY2024/25 acquired via DoH route, 7 dropped w/ dated absences); lint clean
+- [ ] Run domestic finance sweep for AGO 2024
+- [ ] Run domestic finance sweep for AGO 2025
+- [ ] Run domestic finance sweep for AGO 2026
+- [ ] Run domestic finance sweep for BDI 2024
+- [ ] Run domestic finance sweep for BDI 2025
+- [ ] Run domestic finance sweep for BDI 2026
+- [ ] Run domestic finance sweep for BEN 2024
+- [ ] Run domestic finance sweep for BEN 2025
+- [ ] Run domestic finance sweep for BEN 2026
+- [ ] Run domestic finance sweep for BFA 2024
+- [ ] Run domestic finance sweep for BFA 2025
+- [ ] Run domestic finance sweep for BFA 2026
+- [ ] Run domestic finance sweep for BWA 2024
+- [ ] Run domestic finance sweep for BWA 2025
+- [ ] Run domestic finance sweep for BWA 2026
+- [ ] Run domestic finance sweep for CAF 2024
+- [ ] Run domestic finance sweep for CAF 2025
+- [ ] Run domestic finance sweep for CAF 2026
+- [ ] Run domestic finance sweep for CIV 2024
+- [ ] Run domestic finance sweep for CIV 2025
+- [ ] Run domestic finance sweep for CIV 2026
+- [ ] Run domestic finance sweep for CMR 2024
+- [ ] Run domestic finance sweep for CMR 2025
+- [ ] Run domestic finance sweep for CMR 2026
+- [ ] Run domestic finance sweep for COD 2024
+- [ ] Run domestic finance sweep for COD 2025
+- [ ] Run domestic finance sweep for COD 2026
+- [ ] Run domestic finance sweep for COG 2024
+- [ ] Run domestic finance sweep for COG 2025
+- [ ] Run domestic finance sweep for COG 2026
+- [ ] Run domestic finance sweep for COM 2024
+- [ ] Run domestic finance sweep for COM 2025
+- [ ] Run domestic finance sweep for COM 2026
+- [ ] Run domestic finance sweep for CPV 2024
+- [ ] Run domestic finance sweep for CPV 2025
+- [ ] Run domestic finance sweep for CPV 2026
+- [ ] Run domestic finance sweep for DJI 2024
+- [ ] Run domestic finance sweep for DJI 2025
+- [ ] Run domestic finance sweep for DJI 2026
+- [ ] Run domestic finance sweep for DZA 2024
+- [ ] Run domestic finance sweep for DZA 2025
+- [ ] Run domestic finance sweep for DZA 2026
+- [ ] Run domestic finance sweep for EGY 2024
+- [ ] Run domestic finance sweep for EGY 2025
+- [ ] Run domestic finance sweep for EGY 2026
+- [ ] Run domestic finance sweep for ERI 2024
+- [ ] Run domestic finance sweep for ERI 2025
+- [ ] Run domestic finance sweep for ERI 2026
+- [ ] Run domestic finance sweep for ETH 2024
+- [ ] Run domestic finance sweep for ETH 2025
+- [ ] Run domestic finance sweep for ETH 2026
+
+

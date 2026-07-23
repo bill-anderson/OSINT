@@ -13,6 +13,12 @@ last_reviewed: 2026-07-23
 
 ## Recent developments
 
+- **2026-07-14** — **ODPC begins ISO 9001:2015 quality-management implementation** (launched
+  2026-07-14, phased toward certification), developed with World Bank **KDEAP** support via the ICT
+  Authority; the same report carries the CA's estimate of **KSh 29bn/yr lost to cyber threats
+  (2026)**. Source: [[2026-07-22-odpc-quality-standards]].
+- **2026-07-14** — **DTB and Safaricom held liable for a Sh4.4m SIM-swap fraud loss** (court
+  ruling). Source: [[2026-07-14-ken-simswap-ruling]].
 - **2025-03-04** *(audit findings reported; system operational Oct 2024; compiled 2026-07-23)* —
   **The Sh104.9bn SHA health-IT system: the state neither owns nor controls it.** The
   Auditor-General's FY2023/24 report found the Healthcare Information Technology Digitisation
