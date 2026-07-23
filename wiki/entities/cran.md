@@ -6,8 +6,8 @@ places: [NAM]
 topics: [gov.legislate, gov.protect, infra.connect, include.access]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-19
-sources: [[2026-03-26 Starlink blocked from operating in Namibia], [2026-03-24 Namibia puts foot down against Musk's Starlink], [2026-02-02 Namibian regulator proposes tax breaks on 4G devices], [2026-06-24-namibian-regulator-rejects-starlink-again-connectingafrica], [2026-03-24-cran-rejects-starlink-licence-namibian], [2026-03-31-starlink-says-cran-denial-unjustified-namibiansun], [2026-07-14-namibia-pushes-cyber-security-reforms-itweb]]
+last_reviewed: 2026-07-23
+sources: [[2026-03-26 Starlink blocked from operating in Namibia], [2026-03-24 Namibia puts foot down against Musk's Starlink], [2026-02-02 Namibian regulator proposes tax breaks on 4G devices], [2026-06-24-namibian-regulator-rejects-starlink-again-connectingafrica], [2026-03-24-cran-rejects-starlink-licence-namibian], [2026-03-31-starlink-says-cran-denial-unjustified-namibiansun], [2026-07-14-namibia-pushes-cyber-security-reforms-itweb], [2026-07-22-namcsirt-q2-vulnerabilities]]
 ---
 
 # Communications Regulatory Authority of Namibia (CRAN)

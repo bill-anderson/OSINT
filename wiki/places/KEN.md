@@ -13,6 +13,11 @@ last_reviewed: 2026-07-23
 
 ## Recent developments
 
+- **2026-07-18** — **President's official website defaced in ransom attack.** Hackers took over
+  president.go.ke demanding 5 BTC (~Sh41.3m); [[ict-authority-kenya|ICT Authority]] incident
+  response activated, no evidence of sensitive-data access (CS statement), site restored by
+  2026-07-20. Follows the Nov-2025 coordinated defacements (e-Citizen and ministry sites).
+  Source: [[2026-07-18-kabogo-website-hack]].
 - **2026-07-14** — **ODPC begins ISO 9001:2015 quality-management implementation** (launched
   2026-07-14, phased toward certification), developed with World Bank **KDEAP** support via the ICT
   Authority; the same report carries the CA's estimate of **KSh 29bn/yr lost to cyber threats

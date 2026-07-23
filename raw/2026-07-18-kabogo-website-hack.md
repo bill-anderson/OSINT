@@ -1,10 +1,19 @@
 ---
+type: source
 title: Kabogo: No sensitive data accessed after President's website hack
-published: 2026-07-18
-publisher: The Standard (Kenya)
 url: https://www.standardmedia.co.ke/national/article/2001553147/kabogo-no-sensitive-data-accessed-after-presidents-website-hack
+publisher: The Standard (Kenya)
+published: 2026-07-18
+date_precision: day
+date_source: source
 places: [KEN]
+topics: [infra.cybersec]
+entities: [[ict-authority-kenya]]
+lens: []
+retrieved: 2026-07-23
+ingested: 2026-07-23
 sweep_batch: newspapers-2026-07-23
+body_completeness: full
 ---
 
 Audio By Vocalize

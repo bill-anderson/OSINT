@@ -6,7 +6,7 @@ places: [BFA]
 topics: [gov.protect, gov.legislate]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-18
+last_reviewed: 2026-07-23
 sources: [[2025-03-19-cil-sollicite-accompagnement-premier-ministre-jnpdp], [2025-07-28-cadres-ministere-administration-territoriale-outilles], [2025-09-04-burkina-faso-strengthens-data-protection-digital-transition], [2025-07-01-premier-ministre-lance-campagne-sensibilisation-administration]]
 ---
 

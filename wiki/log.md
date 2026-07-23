@@ -13,7 +13,10 @@ All 104 domains swept. Boundary exceptions staged (GMB 07-10/07-01 — initializ
 gap); 1 candidate resolved out-of-window (GNB cybersecurity studies, 2025-01-22,
 date_note set); 2 Standard Media JS-rendered pages recovered by direct fetch.
 Hand-off to update wiki follows. Revert: delete `new/*sweep_batch: newspapers*`,
-reset `sweep/newspapers/state.json` to 2026-07-14.
+reset `sweep/newspapers/state.json` to 2026-07-17.
+*(Amended same day: the pre-run state 2026-07-14 was entered in error — the ground was last
+swept 2026-07-17 (per-country batches AGO/BFA/GMB-2026-07-17). Window was a superset; the
+overlap re-surfaced ~11 already-held items, all dropped by ingest dedup. Nothing missed.)*
 
 ## 2026-07-23 — two missing sweep run files written retrospectively; run file now mandatory
 

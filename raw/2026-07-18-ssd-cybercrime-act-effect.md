@@ -1,10 +1,19 @@
 ---
+type: source
 title: Controversial Cybercrime Act takes effect amid free expression concerns
-published: 2026-07-18
-publisher: Eye Radio
 url: https://www.eyeradio.org/controversial-cybercrime-act-takes-effect-amid-free-expression-concerns/
+publisher: Eye Radio
+published: 2026-07-18
+date_precision: day
+date_source: source
 places: [SSD]
+topics: [gov.legislate, infra.cybersec]
+entities: [[south-sudan-cybercrime-bill-2025]]
+lens: []
+retrieved: 2026-07-23
+ingested: 2026-07-23
 sweep_batch: newspapers-2026-07-23
+body_completeness: full
 ---
 
 You are here: Home | Crime and law | National News | News | Technology | Controversial Cybercrime Act takes effect amid free expression concerns

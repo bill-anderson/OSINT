@@ -1,10 +1,19 @@
 ---
+type: source
 title: Digital trust crisis looming if fraud concerns are ignored - John Awuah warns
-published: 2026-07-22
-publisher: MyJoyOnline
 url: https://www.myjoyonline.com/digital-trust-crisis-looming-if-fraud-concerns-are-ignored-john-awuah-warns/
+publisher: MyJoyOnline
+published: 2026-07-22
+date_precision: day
+date_source: source
 places: [GHA]
+topics: [dpi.pay, infra.cybersec]
+entities: [[ghana-association-of-banks]]
+lens: []
+retrieved: 2026-07-23
+ingested: 2026-07-23
 sweep_batch: newspapers-2026-07-23
+body_completeness: full
 ---
 
 Audio By Carbonatix

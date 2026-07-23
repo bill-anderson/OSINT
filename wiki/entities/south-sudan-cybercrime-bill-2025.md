@@ -6,8 +6,8 @@ title: Cybercrime and Abuse of Computer Bill 2025 (South Sudan)
 places: [SSD]
 topics: [infra.cybersec, gov.legislate]
 status: active
-last_reviewed: 2026-07-16
-sources: [[2025-12-11 South Sudan to get data protection bill in 2026, says minister]]
+last_reviewed: 2026-07-23
+sources: [[2025-12-11 South Sudan to get data protection bill in 2026, says minister], [2026-07-18-ssd-cybercrime-act-effect]]
 ---
 
 # Cybercrime and Abuse of Computer Bill 2025 (South Sudan)

@@ -13,6 +13,11 @@ last_reviewed: 2026-07-20
 
 ## Recent developments
 
+- **2026-07-22** — **Nam-CSIRT Q2: 513,921 vulnerabilities (+39.8% q/q), 161,547 cyber events
+  (+56.7%).** [[cran|CRAN]] urges patching of exposed remote-management/legacy services (open CWMP
+  320,778 detections); new ransomware groups (Bavacai, Black X) noted; the **national cybersecurity
+  incident management guidelines 2026** launched as the response framework.
+  Source: [[2026-07-22-namcsirt-q2-vulnerabilities]].
 - **2026-07-22** — **Digital-ID access-transparency design confirmed.** MICT (minister, at AI for
   Good, Geneva) says the planned e-ID will let citizens see who accessed their personal data, why,
   and object; the ministry confirms the system operates under the **Civil Registration and

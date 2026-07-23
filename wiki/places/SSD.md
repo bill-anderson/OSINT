@@ -25,6 +25,13 @@ but ahead of the governance frameworks meant to hold it.
 
 ## Recent developments
 
+- **2026-07-18** — **Cybercrime Act enforcement begins.** Following a presidential directive and a
+  National Cyber-Security Task Force meeting at the Office of the President (chaired by the NSS
+  Internal Security Bureau deputy DG), implementation of the
+  **[[south-sudan-cybercrime-bill-2025|Cybercrime and Computer Misuse Act, 2026]]** formally began,
+  guided by a steering committee under the Justice Minister; rights groups warn the vague provisions
+  (up to 5 years for cyberbullying/harassment, false-information offences) could chill speech ahead
+  of the December 2026 elections. Source: [[2026-07-18-ssd-cybercrime-act-effect]].
 - **2026-07-20** — **Spectrum management and a 5G strategy begin — the governance layer arriving with the
   technology, for once.** The **[[national-communication-authority-south-sudan|NCA]]** concluded a **two-day
   inception workshop** starting development of a **National Spectrum Management and 5G Strategy**, with the
