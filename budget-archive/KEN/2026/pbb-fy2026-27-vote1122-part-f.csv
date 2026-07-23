@@ -1,0 +1,14 @@
+programme_code,programme,baseline_fy2025_26_supp_i,original_2026_06,proj_2027_28,proj_2028_29,notes
+0207000,General Administration Planning and Support Services,410428424,420307522,452370902,524583270,
+0210010,ICT Infrastructure Connectivity,7321229557,9956567158,21199100856,24545191950,
+0210020,ICT Technical Support Services (was: ICT and BPO Development),1813034408,150000000,0,0,restructure - Konza/BPO capital transfers gone from this line
+0210000,ICT Infrastructure Development (programme),9134263965,10106567158,21199100856,24545191950,
+0217010,E-Government Services,2670435543,53000000,0,0,restructure
+0217020,Data Management and Digitalization of Services,0,372557544,464864051,528926689,new
+0217030,Digital Skilling & ICT Investments,0,432257231,559413995,722885083,new
+0217040,"Emerging Technologies, Research & Innovation",0,4592231,5956763,6169851,new
+0217000,E-Government & Digital Economy (programme; was E-Government Services),2670435543,862407006,1030234809,1257981623,
+0222010,Cyber Space Management,0,457232531,492293433,555243157,new programme
+0222020,Data Protection Services,0,917270000,1153000000,1328000000,FIRST separately visible data-protection line (ODPC)
+0222000,ICT Security & Data Protection Services (programme),0,1374502531,1645293433,1883243157,new
+TOTAL,Vote 1122,12215127932,12763784217,,,total = sum of programmes; baseline reconciles exactly with FY2025/26 Supp I - corroborates Supp II left 1122 unamended

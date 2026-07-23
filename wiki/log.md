@@ -6,6 +6,20 @@ Reporting): a few lines each, full detail in `log-archive.md` or git.
 
 ---
 
+## 2026-07-23 — batch job 1/3: sweep + extract KEN/2026 → FY2026/27 — 6 documents, 4 records, ODPC vacuum closed
+
+Early-cycle run (year 3 weeks old): PBB + Dev Vols I/III + Statement (2026-06-11) + Mwananchi +
+Budget Summary staged, extracted, archived; 1 prose (Business Daily). **Findings:** Vote 1122
+**restructured** — new programme 0222000 gives **Data Protection Services its first-ever own line
+(KSh 917.3m)**, closing the dated ODPC vacuum on the KEN hub; digital thematic cut again (16.3 →
+12.7 → **8.6bn**), half now World Bank KDEAP (origin gate; definite-match to the held KDEAP record
+at full extract); Konza/BPO capital line gone, **no Konza DC/KAIST allocation disclosed** — dated
+absence on the hub; e-Citizen's first decline (5.59 → 3.61bn). **Cross-year:** baselines =
+FY2025/26 Supp I exactly — corroborates Supp II left 1122 unamended (KEN/2025 flag softened; BIRR
+still confirms) and recovers Vote 1024 Supp I totals (29.26bn). Records 4 (all appropriated);
+CSVs 2; supplementaries/BIRRs/audit are calendar gaps. No new archetypes. Revert:
+`git checkout <sha> -- raw/ budget-archive/ new-budget/ documentation/ wiki/`.
+
 ## 2026-07-23 — RUN-BATCH reviewed: three resume/parse gaps fixed before first test
 
 Bill's new batch runner (`RUN-BATCH.md` + `reviews/JOBS.md` + template) reviewed on request.

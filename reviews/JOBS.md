@@ -28,7 +28,7 @@ Stop: no
 Both leave the unreached jobs `[ ]`, so the run resumes on the next "run the batch".
 
 ```
-- [ ] Run domestic finance sweep Kenya 2026
+- [x] Run domestic finance sweep Kenya 2026 — 6 docs + 1 prose staged+extracted; 4 records; first data-protection line found (917.3m); thematic cut to 8.6bn
 - [ ] Run domestic finance sweep Senegal 2024
 - [ ] Update wiki
 
@@ -68,6 +68,6 @@ alone (same principle as `new/ → raw/`). Markers:
 
 <!-- Add jobs below, one per line, each starting with "- [ ] ". -->
 
-- [ ] Run domestic finance sweep Kenya 2026
+- [x] Run domestic finance sweep Kenya 2026 — 6 docs + 1 prose staged+extracted; 4 records; first data-protection line found (917.3m); thematic cut to 8.6bn
 - [ ] Run domestic finance sweep Senegal 2024
 - [ ] Update wiki

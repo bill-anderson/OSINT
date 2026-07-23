@@ -418,8 +418,16 @@ June 2024). Execution context: Article 223 withdrawals ran at **KSh 206.81bn in 
 ~5× the prior year** (COB nine-month BIRR) — in-year absorption figures are distorted by
 extra-estimates funding. Full-year actual and audit: not yet published (calendar, not absence).
 **FY2024/25 audited stage not held as of 2026-07-23** (OAG summary in
-acquisitions). The ODPC carries no separately visible appropriation at PBB programme grain (it
-sits inside Vote 1122) — its funded scale is not established as of 2026-07-23.
+acquisitions). **The data-protection vacuum closed with the FY2026/27 restructure:** Vote 1122's new programme
+0222000 gives **Data Protection Services its own line — KSh 917.3m appropriated (original, Jun
+2026)**, rising to a projected 1,328m by 2028/29, beside Cyber Space Management at 457.2m; through
+FY2025/26 the ODPC had no separately visible appropriation (the vacuum stated here until
+2026-07-23). **FY2026/27 (proposed/appropriated, Jun 2026):** the digital thematic takes its
+second consecutive cut (16.3 → 12.7 → **8.6bn**), and half of it is the World Bank-backed KDEAP
+(4.3bn — external at the origin gate); Vote 1122 restructured to 12.76bn with the Konza/BPO
+capital line gone (successor line 150m; **no Konza DC/KAIST allocation disclosed at budget day —
+not established whether moved or ended, as of 2026-07-23**); e-Citizen declines for the first time
+(5.59bn Supp I → 3.61bn proposed); Population Management holds at 10.99bn.
 
 Material deals: [[2023-03-31-wb-ken-001-kenya-digital-economy-acceleration-project]], [[2019-01-01-eximbank-cn-ken-003-china-eximbank-provides-rmb-1225-billion]], [[2021-01-01-adc-ken-nairobi-2021-africa-data-centres-kenya-nairobi-nbo1]], [[2025-01-01-eximbank-cn-ken-004-nairobi-intelligent-transport-system-its-project]], [[2023-01-01-edcf-ken-konza-digital-media-city-2023-kenya-konza-digital-media-city-development]], [[2016-01-01-eximbank-cn-ken-001-china-eximbank-provides-supplemental-rmb-650]].
 
