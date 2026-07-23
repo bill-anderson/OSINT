@@ -6,6 +6,18 @@ Reporting): a few lines each, full detail in `log-archive.md` or git.
 
 ---
 
+## 2026-07-23 — ingest + finance compile — AGO records (update-wiki iteration 2, batch job 4/68)
+
+Admitted the **7 AGO finance records** built in iteration 1 to `raw/` (no definite match to any held
+record — all creates), appended them to 5 entity `sources:` lists, and ran **finance compile** on
+`AGO`. Domestic-state total goes 5 → **12 budget lines**, FY2025–FY2026. The rewritten `## Financing`
+section reports by fiscal year in original currency, splits by `budget_stage`, holds the 2 partial-scope
+FY2026 lines (Kz 226,3 mM) out of the headline, and states two dated absences: **no execution rate is
+computable** (no `released`/`actual`/`audited` line for any Angolan digital stem), and **no source
+states the funding source of any OGE digital line** (origin-gate default, with the possible China
+Eximbank RNBL overlap named). No per-deal hub bullets written. `new/` is empty.
+contradictions - 1 ; acquisitions - 15 ; awaiting ingest - 0 ; decisions logged - 0
+
 ## 2026-07-23 — ingest — AGO domestic finance backlog (update-wiki iteration 1, batch job 4/68)
 
 Drained `new/` (9 AGO candidates from the AGO 2024/2025/2026 sweeps). **9 admitted to `raw/`**, 0

@@ -57,13 +57,19 @@ The wiki has read Angola's stack as a **three-way courtship** (China / India / U
 
 ## Financing
 
-*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-22**.*
+*Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-23**.*
 
 **Non-state** — US$2.01bn committed across 12 deals (2016–2025). Top financiers: Export-Import Bank of China (US$657m), World Bank Group (US$360m), Société Générale (US$259m). Leading subjects: `infra.connect`, `dpi.id`, `dpi.registry`.
 
 Instrument mix: Commercial loan 2, IBRD loan — not concessional 2, Concessional loan 2, Buyer's credit 1, Investment agreement 1, Financing agreements 1.
 
-**Domestic state** — 5 budget lines held (national; first capture 2026-07-22). FY2025: Kz 278bn at unstated stage; FY2026: US$150m appropriated; FY2026: US$275m revised; FY2026: Kz 76bn at unstated stage; FY2026: €552,000 at unstated stage. Amounts in the announcing state's own currency; stages as stated, never merged; no cross-year USD summation.
+**Domestic state** — **12 budget lines** held, all `state_level: national`, across **FY2025–FY2026**. Amounts in the announcing party's own currency; stages are reported separately and never merged; no cross-year USD summation.
+
+- **FY2025** — *appropriated* **Kz 229,3 mil milhões** (the "Expansão e Modernização das Comunicações" programme); *revised / supplementary (increment)* **US$218,5m** (DP 169/25, Bilhete de Identidade universalisation); *stage unclear* **Kz 278 mil milhões** (MINTTICS AngoSat-3 line — **an open contradiction**: the ministry's own corrected PAC restates it at Kz 712,7 milhões, so this figure should be read as withdrawn pending reconcile).
+- **FY2026** — *appropriated* **Kz 159,2 mil milhões** (communications programme, −30,5% on FY2025) and **US$150m** (IMA/TIS "Digitais Públicas" PIP line); *revised / supplementary (increment)* **US$275m** (MAT, BDCM proof-of-life); *stage unclear* **Kz 93,8 mil milhões** across three presidential despachos (MINDCOM network Kz 76 mM; MINFIN telecoms/hosting Kz 9,2 mM; Microsoft licences via IMA Kz 8,6 mM) plus **€552,000** (AGT FATCA software licence).
+- **Excluded from the totals above** — **2 lines, Kz 226,3 mil milhões**, both FY2026 at `proposed` stage and `scope_confidence: partial`: *Capacitação e Modernização da Administração Pública* (Kz 136,7 mM) and *Reforma e Modernização da Administração da Justiça* (Kz 89,6 mM). Each names digital projects but also funds non-digital reform, and no digital share is computed.
+- **No execution rate is computable**: the wiki holds no `released`, `actual` or `audited` line for any Angolan digital stem. The first per-organ execution table (Q1 2026, MINTTICS at 3%) is reported but the document itself is not held — `ago-execucao-i-2026` in `reviews/acquisitions.md`. That gap, as at 2026-07-23, is the finding.
+- **Origin caveat, dated 2026-07-23:** no source on file states the funding source of any Angolan OGE digital line, so all default to `domestic-state` under the origin gate, flagged. The FY2025/FY2026 4G line may overlap the China Eximbank-financed Rede Nacional de Banda Larga already counted under *Non-state*; the OGE Mapas Orçamentais (queued in acquisitions) are the arbiter.
 
 Material deals: [[2024-06-27-wb-ago-001-angola-digital-acceleration-project]], [[2023-01-01-eximbank-cn-ago-003-national-broadband-infrastructure-upgrading-project-rnbl]], [[2023-01-01-press-chn-ago-2023-001-national-broadband-infrastructure-upgrading-project]], [[2016-01-01-jbic-ago-sacs-submarine-cable-2016-export-credit-line-for-banco-de]].
 

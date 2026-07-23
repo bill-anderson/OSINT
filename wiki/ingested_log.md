@@ -1,5 +1,17 @@
 # ingested_log.md — what ingest admitted to `raw/` (rolling 7-day view)
 
+## 2026-07-23 21:40
+
+| Place | Source |
+|---|---|
+| AGO | [OGE 2025 — Programa "Expansão e Modernização das Comunicações" (Kz 229,3 mil milhões)](../raw/2025-01-01-ago-2025-minttics-expansao-modernizacao-comunicacoes-appropriated-programa.md) |
+| AGO | [OGE 2025 — Crédito Adicional Suplementar USD 218,5 M para a Universalização do Bilhete de Identidade (DP 169/25)](../raw/2025-09-19-ago-2025-minjusdh-bilhete-identidade-revised-credito-suplementar.md) |
+| AGO | [Proposta OGE 2026 — Programa "Capacitação e Modernização da Administração Pública" (Kz 136,7 mil milhões)](../raw/2026-01-01-ago-2026-capacitacao-modernizacao-administracao-publica-proposed-e-gov.md) |
+| AGO | [OGE 2026 — Programa "Expansão e Modernização das Comunicações" (Kz 159,2 mil milhões, −30,5%)](../raw/2026-01-01-ago-2026-minttics-expansao-modernizacao-comunicacoes-appropriated-programa.md) |
+| AGO | [Proposta OGE 2026 — Programa "Reforma e Modernização da Administração da Justiça" (Kz 89,6 mil milhões)](../raw/2026-01-01-ago-2026-reforma-modernizacao-administracao-justica-proposed-justica.md) |
+| AGO | [Despacho Presidencial n.º 12/26 — Kz 9,2 mil milhões para serviços de telecomunicações e hospedagem de infra-estrutura do MINFIN](../raw/2026-01-07-ago-2026-minfin-telecomunicacoes-hospedagem-unclear-acordo-quadro.md) |
+| AGO | [Despacho Presidencial n.º 11/26 — Kz 8,6 mil milhões para licenciamento Microsoft de toda a Administração Pública (IMA)](../raw/2026-01-13-ago-2026-ima-licencas-microsoft-unclear-licenciamento.md) |
+
 ## 2026-07-23 21:05
 
 | Place | Source |
