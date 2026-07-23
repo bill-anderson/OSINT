@@ -92,3 +92,22 @@ not-held lines added to `wiki/places/KEN.md`, `wiki/places/ZAF.md`, `wiki/places
   FY2026/27 editions are both live, this one 404s at the pattern path
   `/sites/default/files/Mwananchi/Budget-Highlights-The-Mwananchi-Guide-for-the-FY-2025-26-Budget.pdf`
   as of 2026-07-23). Payload substitute held: Eastleigh Voice per-line budget-day breakdown.
+
+
+### Added 2026-07-23 by the domestic finance sweep (Senegal 2024 → FY2024)
+
+- **[blocked]** (transport) Sénégal DGB — **Loi n°2023-18 du 15 décembre 2023 portant loi de
+  finances pour l'année 2024** (LFI 2024).
+  `https://budget.sec.gouv.sn/documents/public_download/65a7055d-e038-4c83-a5f2-46870a2a028a/telechargement`
+- **[blocked]** (transport) Sénégal DGB — **Annexe au projet de loi de finances pour l'année 2024**
+  (the per-programme annexe — the envelope-solver document).
+  `https://budget.sec.gouv.sn/documents/public_download/65298af8-7928-47a8-9250-ccc20a2a028a/telechargement`
+- **[blocked]** (transport) Sénégal DGB — **Loi de finances rectificative (LFR) 2024** (Loi
+  n°2024-16 du 31 décembre 2024).
+  `https://budget.sec.gouv.sn/telecharger-le-document/67850be9-0084-4e0a-92da-48350a2a028a/telechargement`
+- **[blocked]** (not-located) Sénégal MFB — **Rapport trimestriel d'exécution budgétaire (RTEB), 4e
+  trimestre 2024** (actuals: 6,506.16 mds dépenses / 103.7%). budget.sec.gouv.sn is
+  transport-blocked; the vie-publique.sn and archives.sn mirrors are reachable but their 2024 RTEB
+  page did not surface in one search — try their document indexes directly.
+  *(All four: budget.sec.gouv.sn TLS handshake fails from this network even with DoH-pinned IP
+  (160.0.176.81) — Exa crawls it fine, so a browser session or another network gets them.)*

@@ -6,6 +6,18 @@ Reporting): a few lines each, full detail in `log-archive.md` or git.
 
 ---
 
+## 2026-07-23 — batch job 2/3: domestic finance sweep Senegal 2024 — the transport wall run
+
+First Francophone run. **0 budget documents staged** — budget.sec.gouv.sn (a model UUID document
+library) fails TLS from this network even DoH-pinned; **4 instruments queued in acquisitions with
+verified URLs** (LFI 2024/Loi 2023-18, per-programme annexe, LFR n°2024-16, RTEB Q4-2024).
+**Held via press (3 prose + 1 record):** LFI 7,003.6 mds adopted 2023-11-18; Q4 actuals 6,506.16
+mds (103.7%, >500 mds arrears folded); **MCTN 2024 envelope 42.7 mds with Économie Numérique slice
+16.1 mds** → record `sen-2024-mctn-economie-numerique-appropriated` (SEN slice rule; case-5 target
+once the annexe lands). Traps logged: finances.ml is Mali. Senegal section added to extraction
+notes. Sector-slice coverage only — stated in run file
+(`sweep/domestic/SEN-2024-run-2026-07-23.md`). Revert: `git checkout <sha> -- raw/ reviews/ sweep/ documentation/`.
+
 ## 2026-07-23 — batch job 1/3: sweep + extract KEN/2026 → FY2026/27 — 6 documents, 4 records, ODPC vacuum closed
 
 Early-cycle run (year 3 weeks old): PBB + Dev Vols I/III + Statement (2026-06-11) + Mwananchi +

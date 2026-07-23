@@ -31,6 +31,13 @@ carried them, where they hid, what you looked for and didn't find.
 - **Blending:** universal-service spend blends FASU (own-source levy) with World Bank PACTDIGITAL money, parts never separable — record whole, flag the overlap against the held WB deal.
 - **False positive:** the ministry's CASEM-approved Annual Work Plan budget (late Dec) is headlined as a "digital projects budget" but is the full ministry envelope including postal activities.
 
+### Senegal — DGB document library behind a transport wall (sweep, 2026-07-23)
+- **budget.sec.gouv.sn is the model Track-B target**: one listing page enumerates LFI/LFR/PLF/annexes for every year as UUID download links (`/documents/public_download/<uuid>/telechargement`). But **TLS fails from this network even IP-pinned** — Exa crawls it; curl cannot. Verified UUIDs go to acquisitions for a browser session.
+- **Mirrors that ARE reachable:** vie-publique.sn (dashboards + document pages per year) and archives.sn/docs/budget. Their per-year indexes are the entry point when DGB is walled.
+- **RTEB (rapport trimestriel d'exécution budgétaire)** is Senegal's execution series — quarterly, actuals vs LFR. Q4-2024: dépenses 6,506.16 mds (103.7%), >500 mds arrears folded in.
+- **The MCTN envelope splits into three sectors** (Communication / Économie Numérique / Postal) and the split surfaces in Assembly finance-committee reporting each December — the digital slice is recordable per the SEN slice rule; the per-programme annexe converts it to lines.
+- **Trap: finances.ml is Mali.** Its RTEB format is near-identical to Senegal's and surfaces in Senegal-phrased searches.
+
 ### Kenya — budget-speech sub-programme reporting (back-swing, 2026-07-22)
 - **Digital lines found under:** State-Department sub-programme names ("population management services", "migration and citizen services") in tech-press coverage at budget-speech time (June), with source-stated USD conversions.
 - **Didn't work:** the reporting never states tabled-vs-enacted → stage lands `unclear`.
