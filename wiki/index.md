@@ -54,7 +54,7 @@ the passes do the work.
 | Trigger | File | Function |
 |---|---|---|
 | `update wiki` | [UPDATE-WIKI.md](../UPDATE-WIKI.md) | Loops ingest → reconcile → acquire until all three queues are empty, then runs the full lint. Files nothing itself. |
-| `run the batch` | [RUN-BATCH.md](../RUN-BATCH.md) | Drains the [JOBS.md](../reviews/JOBS.md) queue overnight, one job at a time, top-to-bottom. Manual "stop after current" brake and an optional `Budget:` in hours; halts on serious errors (e.g. lost connectivity). |
+| `run the batch` / `run weekly jobs` | [RUN-BATCH.md](../RUN-BATCH.md) | Drains a batch file one job at a time, top-to-bottom: [JOBS.md](../reviews/JOBS.md) (one-off — archived + emptied on completion) or [weekly_jobs.md](../reviews/weekly_jobs.md) (standing — archived + re-armed). Manual "stop after current" brake and an optional `Budget:` in hours; halts on serious errors. |
 | `wiki status` | [STATUS.md](../STATUS.md) | Reads and shows the three queue counts and the standing tally line. Single source of truth for the counts and the "which process is running" banner. |
 
 **Core passes** (each drains one queue)

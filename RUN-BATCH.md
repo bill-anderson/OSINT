@@ -1,15 +1,21 @@
 # RUN-BATCH.md — the overnight batch runner
 
-Trigger: **"run the batch"** / **"run jobs"** / **"drain the job queue"**.
+Trigger: **"run the batch"** / **"run jobs"** / **"drain the job queue"** →
+`reviews/JOBS.md` (the default). **"run weekly jobs"** / **"run the weekly batch"**
+→ `reviews/weekly_jobs.md`. Any future batch file works the same way — this file is
+**target-agnostic**; it drains whichever batch file the trigger names.
 
-Runs the jobs listed in `reviews/JOBS.md` **strictly in order, one at a time**.
-This file runs no research and files nothing itself — like `UPDATE-WIKI.md`, it is
+Runs the jobs in the target batch file **strictly in order, one at a time**. This
+file runs no research and files nothing itself — like `UPDATE-WIKI.md`, it is
 **only a loop**. Each job line is a natural-language command that CC executes
 exactly as if Bill had typed it in a fresh turn; every rule governing the actual
 work lives in that job's own procedure and in `CLAUDE.md` / `wiki/reference.md`.
 
-The queue file's format, markers and editing rules are defined in `reviews/JOBS.md`
-— the single source of truth for the queue; don't redefine them here.
+The batch file's format, markers and editing rules are defined in `reviews/JOBS.md`
+— the single source of truth for the queue; don't redefine them here. Every batch
+file shares that format and declares a **`Mode:`** in its Control block —
+`one-off` (archive then empty the queue, e.g. `JOBS.md`) or `standing` (archive
+then re-arm for reuse, e.g. `weekly_jobs.md`). See *After the run*.
 
 ---
 
@@ -58,7 +64,7 @@ for each line in the ## Queue section, top to bottom:
 
     commit JOBS.md (and let the job's own work commit as it normally would)
 
-when no [ ] lines remain:     write closing log + status; then ARCHIVE & CLEAR
+when no [ ] lines remain:     write closing log + status; ARCHIVE, then CLEAR (one-off) or RE-ARM (standing)
 when halted or early-stopped:  write closing log + status; leave JOBS.md as-is
                                (unreached [ ] lines stay for resume — do NOT archive/clear)
 ```
@@ -140,22 +146,30 @@ followed by the batch tally:
 
 `batch: N done ; N failed ; N not reached`
 
-## After the run — archive and clear
+## After the run — archive, then clear or re-arm (by `Mode`)
 
 **On a fully-completed run** (every queued job terminal — `[x]` or `[!]` — with no
-`[ ]` left), the runner **archives the run record and clears the queue**, so Bill
-always starts the next batch from a clean `JOBS.md`:
+`[ ]` left), the runner first **archives the run record**, then acts on the batch
+file's `Mode:`.
 
-1. Copy the run record to **`reviews/jobs-archive/jobs-YYYY-MM-DD-HHMM.md`** — the
-   date + time the batch finished (no colon in the filename; it is illegal on
-   Windows). The archive holds: a dated heading, the `Control` values used, the
-   completed job lines with their `[x]`/`[!]` outcomes, and the batch tally.
-2. Empty the `## Queue` section of `JOBS.md` back to just its placeholder comment,
-   and reset `Stop:` to `no` (leave `Budget:` as Bill set it). Everything above the
-   Queue (the docs and Control block) is untouched.
+1. **Archive** — copy the run record to
+   **`reviews/jobs-archive/<filestem>-YYYY-MM-DD-HHMM.md`** (e.g. `jobs-…` or
+   `weekly_jobs-…`), the date + time the batch finished (no colon in the filename;
+   it is illegal on Windows). The archive holds: a dated heading, the `Control`
+   values used, the completed job lines with their `[x]`/`[!]` outcomes, and the
+   batch tally.
+2. **Then, by `Mode:`**
+   - **`one-off`** (e.g. `JOBS.md`) — **empty** the `## Queue` back to its
+     placeholder comment, so the next batch starts clean.
+   - **`standing`** (e.g. `weekly_jobs.md`) — **re-arm**: reset every job line to
+     `[ ]` (strip the outcome text), keeping the jobs, so the list is ready to run
+     again next week. Do **not** empty it.
+   - Either way, reset `Stop:` to `no` (leave `Budget:` and `Mode:` as set).
+   Everything above the Queue (the docs and Control block) is otherwise untouched.
 
-**A halted (`[stop]`) or early-stopped run does NOT archive or clear** — its
-unreached `[ ]` lines must stay in `JOBS.md` so the run resumes. Resume it by fixing
+**A halted (`[stop]`) or early-stopped run does NOT archive, clear or re-arm** — its
+unreached `[ ]` lines must stay in the file so the run resumes. Resume it by fixing
 the cause, **re-marking any `[stop]` line `[ ]`** (it halted on the environment, not
 on its merits — the launch check does this if forgotten), and re-issuing the
-trigger. It archives and clears only once it finally completes with an empty queue.
+trigger. It archives and clears/re-arms only once it finally completes with an empty
+queue.

@@ -26,11 +26,16 @@ so either one always lets the job in flight finish before the run stops):
   finishes the job in flight and stops. `no` = keep going.
 
 ```
+Mode: one-off
 Budget: 8h
 Stop: no
 ```
 
-Both leave the unreached jobs `[ ]`, so the run resumes on the next "run the batch".
+`Mode: one-off` — on completion the runner archives the run and **empties** this
+queue (see `RUN-BATCH.md` → *After the run*). The standing counterpart is
+`reviews/weekly_jobs.md` (`Mode: standing`), re-armed rather than emptied.
+
+Both `Budget:`/`Stop:` leave the unreached jobs `[ ]`, so the run resumes on the next "run the batch".
 
 ## The marker is the state
 

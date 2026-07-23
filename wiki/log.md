@@ -114,6 +114,16 @@ first window (105 domains). **Observation, no change:** content sweeps carry no 
 has 10 days) — first journals/organisations runs span ~3.5 weeks × 37/53 domains; the mandated
 duration-logging is the right instrument to price that empirically.
 
+## 2026-07-23 — Second batch file: `weekly_jobs.md` (standing) + Mode-aware runner
+
+Content sweeps turned out quick → weekly. New `reviews/weekly_jobs.md`, a **standing** batch (the three
+content sweeps: newspapers, organisations, journals) run via **"run weekly jobs"** — no more copy-paste
+into JOBS.md. Made RUN-BATCH **target-agnostic**: it drains whichever batch file the trigger names, and
+each file declares a **`Mode:`** in its Control block — `one-off` (JOBS.md: archive then empty) or
+`standing` (weekly_jobs.md: archive then **re-arm** all jobs to `[ ]` for reuse). Archive filename now
+`<filestem>-YYYY-MM-DD-HHMM.md`. Updated RUN-BATCH.md (trigger, loop, *After the run*), JOBS.md (added
+`Mode: one-off`), index Processes, reference.md tree. Revert: `git rm reviews/weekly_jobs.md` + revert refs.
+
 ## 2026-07-23 — Batch runner archives + clears JOBS.md on completion
 
 Bill's request. On a fully-completed run (no `[ ]` left), RUN-BATCH now copies the run record to
