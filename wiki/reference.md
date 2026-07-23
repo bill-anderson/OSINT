@@ -150,7 +150,8 @@ sweep/                    # acquisition-sweep STATE (procedures are root DAILY-S
 raw/                      # admitted sources, flat — immutable after ingest (one bounded
                           #   exception: verbatim fidelity re-capture, §4)
   2026-06-16-cassava-nvidia-deal.md
-_leads/                   # parked in-scope material not yet usable — to mine, not compile
+                          # (no _leads/ — abolished 2026-07-23; ingest has four dispositions,
+                          #  raw / contradiction / acquisition / delete — no parking folder)
 reviews/
   contradictions/
     open/                 # one file per unresolved contradiction — the reconcile worklist
@@ -172,6 +173,7 @@ wiki/
   places-index.md         # faceted navigation by place
   entities-index.md       # faceted navigation by entity
   log.md                  # append-only operation log (Decisions live here)
+  ingested_log.md         # rolling 7-day view of what ingest admitted to raw/ (temporary, pruned)
   reference.md            # this file
   finance-record-spec.md  # the finance record spec (store of record, merging, compile)
   finance-load-domestic-state.md  # driver: domestic-state budgets/expenditure (invoked by ingest 2a)
@@ -233,8 +235,9 @@ if another bulk re-capture is ever needed. Nothing reads it on a normal pass. Un
 CLAUDE.md's month rule it is a deletion candidate — git holds it.
 
 **The intake pipeline is physical.** A file's folder *is* its state: `new/` = not
-yet processed, `raw/` = admitted as a source, `_leads/` = parked to mine. The web
-clipper points at `new/`. "What's new" is then just the contents of `new/` — no
+yet processed, `raw/` = admitted as a source. Everything not admitted leaves `new/`
+by deletion (its residual value captured first as a contradiction brief or an
+acquisition line) — there is no parking folder. The web clipper points at `new/`. "What's new" is then just the contents of `new/` — no
 diffing against the log. Each item's move out of `new/` is the **last** step of
 processing it, so an interrupted run leaves exactly the unfinished items in
 `new/` and re-running resumes cleanly.
@@ -661,7 +664,7 @@ queries/
   results/   # CC writes one result per query here
 ```
 
-This sits **outside** the ingest pipeline (`new/ → raw/ → _leads/`). It is a read
+This sits **outside** the ingest pipeline (`new/ → raw/`). It is a read
 workspace, not a store of record.
 
 ### Query file (`queries/pending/`)

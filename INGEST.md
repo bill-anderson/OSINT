@@ -1,8 +1,20 @@
 # INGEST.md — the ingest pass
 
-Trigger: **"run ingest"**. Drains the `new/` queue: each item is routed to `raw/`
-(admitted source), `_leads/` (parked lead), or deleted (discard / out-of-scope).
-It is **the only door into the base** — candidates become sources only here.
+Trigger: **"run ingest"**. Drains the `new/` queue. Every item ends in exactly one
+of **four dispositions** — there is no parking limbo:
+
+1. **`raw/`** — admitted as a source.
+2. **Contradiction** — a provenance/research brief filed to
+   `reviews/contradictions/open/` for the reconcile pass; the item itself is then
+   deleted once its claim and any held URL are captured in the brief.
+3. **Acquisition** — a line added to `reviews/acquisitions.md` naming a specific
+   document to fetch; the item itself is then deleted.
+4. **Delete** — discard outright (out-of-scope, config/junk, or a second-hand
+   synthesis once mined).
+
+A source (disposition 1) may *also* spawn a contradiction or acquisition as a
+side-effect (steps 7–8). It is **the only door into the base** — candidates become
+sources only here.
 
 A first-class pass alongside reconcile and acquire. This file is **only the
 procedure**; the schemas, filename rules and folder pipeline the steps apply live
@@ -17,40 +29,43 @@ references still resolve.
 
 ---
 
-Process each item in `new/` through the steps below. The item's **move out of
-`new/` is the last step**, and where it moves is its classification: admitted
-sources → `raw/`, parked leads → `_leads/`, discards → deleted. "Moved out of
-`new/`" is therefore not the same as "became a source" — draining the queue means
-routing each item to its correct destination.
+Process each item in `new/` through the steps below. The item's **exit from `new/`
+is the last step**, and how it exits is its disposition: an admitted source is
+moved to `raw/`; everything else is **deleted** — after, where warranted, its
+residual value is captured as a contradiction brief (`reviews/contradictions/open/`)
+or an acquisition line (`reviews/acquisitions.md`). "Left `new/`" is therefore not
+the same as "became a source" — draining the queue means routing each item to one
+of the four dispositions above, never leaving it parked.
 
 **1. Intake screen (do this first).** Check provenance against `CLAUDE.md` → *The
 material*.
 
-- Second-hand or AI-generated synthesis → do **not** compile it. Note it in
-  `log.md` as parked-inadmissible with a one-line reason, extract any primary
-  sources it references for separate ingestion, move it to `_leads/`, stop.
+- Second-hand or AI-generated synthesis → do **not** compile it. **Mine it**:
+  extract the primaries it cites and stage those into `new/` for their own
+  ingestion; where a cited primary is a specific document the wiki can't fetch
+  now, add it to `reviews/acquisitions.md`. Then **delete** the synthesis (note it
+  in `log.md` in one line). The husk is never kept — mining is the value, the
+  synthesis itself is inadmissible.
 - Reports no development but establishes or profiles a **standing object** of
   OSINT value — organisation, company, government body, person,
   project/initiative, data asset (database/dataset/registry/tool/portal), or
   reference instrument (standard, taxonomy, framework, policy/legal instrument) →
-  capture it as the matching entity type rather than discarding it; never park it
-  as a lead.
+  capture it as the matching entity type rather than discarding it.
 - **Discard (delete)** only the wiki's own config/vocabulary files and genuine
   non-intelligence artefacts.
 - **Out of scope → reject and delete.** An item that is admissible and first-hand
   but falls outside data governance + digital transformation — e.g. transport
   electrification / e-mobility, or a borderline tech innovation carrying **no
-  real data or digital-platform layer** — is rejected and deleted
-  (git-reversible), **not** parked in `_leads/`. Distinguish the genuinely
-  in-scope case where the actor is itself a digital platform (e.g. Yango). When
-  scope is in doubt, reject and delete.
-- **Undated/unattributed but possibly important?** A parked lead lacking a dated,
+  real data or digital-platform layer** — is rejected and deleted (git-reversible).
+  Distinguish the genuinely in-scope case where the actor is itself a digital
+  platform (e.g. Yango). When scope is in doubt, reject and delete.
+- **Undated/unattributed but possibly important?** An item lacking a dated,
   attributable origin yet carrying **possibly-important information** (a
-  load-bearing claim, a first-of-kind development) is **also filed as a
+  load-bearing claim, a first-of-kind development) is **filed as a
   provenance/corroboration hunt in `reviews/contradictions/open/`** — a research
-  brief for the reconcile pass to seek the original posting and dated primaries —
-  so it is actively worked rather than left inert in `_leads/`. It stays a lead
-  until reconcile surfaces admissible primaries.
+  brief for the reconcile pass to seek the original posting and dated primaries,
+  carrying the claim and any URL the item holds. The item itself is then
+  **deleted**: the brief is what reconcile works, and the claim survives in it.
 
 Only admissible, in-scope items proceed.
 
@@ -90,9 +105,11 @@ commitment amount, event date, taxonomy-matchable purpose — and then:
 - **Passes, no match** → build a deal record into `new/`, to be admitted on the
   next drain.
 - **Fails any fact** → no record. The item continues through the steps below as an
-  ordinary source with its `finance.*` tags. This is routing, not rejection — the
-  exception is a failure on the **date** fact, which goes to `_leads/` per the
-  spec's *Dates*.
+  ordinary source with its `finance.*` tags. This is routing, not rejection. A
+  failure on the **date** fact is no longer a special case: the item still takes
+  the ordinary `raw/` route, with the event date **recorded as unestablished** per
+  `CLAUDE.md` → *Currency* (mark it unknown, dated) — no record, not counted in any
+  aggregate. If the date is worth chasing, also file a provenance hunt (step 7).
 
 Either way, **finance items get no per-deal hub bullet at step 5** — their hub
 presence is compiled in aggregate by `FINANCE-COMPILE.md`. A piece on funding
@@ -176,3 +193,22 @@ calls under **Decisions**, with what was decided and why).
 **11. Last step: move the item from `new/` to `raw/`**, adding the `YYYY-MM-DD`
 prefix from its `published` date if not already present (§3). For a binary
 artefact, ensure its companion source page and the artefact share the prefix.
+
+---
+
+## Ending the run — write the ingested view
+
+After the run, record what reached `raw/` in **`wiki/ingested_log.md`** — a rolling
+view so Bill can see what is coming in, especially from the automatic news sweep.
+This is in **addition** to the `log.md` Decisions entry, and applies to **every**
+ingest — manual or sweep-triggered.
+
+- Append **one `## YYYY-MM-DD HH:MM` section** for this run at the **top** of the
+  file (newest first).
+- **One row per source admitted to `raw/`** this run: its `place` facet(s) and its
+  verbatim title hyperlinked to the `raw/` file —
+  `| NGA | [title](../raw/2026-07-22-slug.md) |`. Multiple places → list them.
+- List **only items that reached `raw/`** — not contradictions, acquisitions or
+  deletions. A run that admitted nothing writes no section.
+- **Prune** any section older than **7 days** before saving. It is a view, not a
+  record — git and a query (`queries/`) reconstruct any audit, so nothing is lost.

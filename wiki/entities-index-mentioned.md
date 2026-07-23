@@ -164,3 +164,6 @@ Part of the [entities index](entities-index.md).
 - **Senegal fiscal institutions:** Ministère des Finances et du Budget (Cheikh Diba), DGB,
   Assemblée nationale (SEN), MCTN (Alioune Sall), Cour des comptes (SEN); ODPC (Kenya, now with
   its own budget line).
+- **Analysis institutions / orgs (leads-drain 2026-07-23):** International IDEA (Democracy
+  Tracker), Institute for Security Studies / ISS African Futures, New Commons, Contactable (ZA
+  identity vendor).

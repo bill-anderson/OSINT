@@ -71,8 +71,8 @@ The loop keeps going until a fresh read finds **all three empty**.
 Each pass is self-draining and anti-recurrence **by design**, so the queues
 strictly shrink and the loop converges:
 
-- **ingest** always moves every item out of `new/` (routed to `raw/`, `_leads/`,
-  or deleted).
+- **ingest** always moves every item out of `new/` (admitted to `raw/`, or deleted
+  after any contradiction brief / acquisition line is filed).
 - **reconcile** closes every `open/` item to `done/` — resolved, or marked
   unresolved after its **second** attempt (it never carries an item a third
   time).

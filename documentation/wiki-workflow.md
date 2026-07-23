@@ -36,7 +36,6 @@ flowchart TB
     NEW["new/<br/>unprocessed queue"]
     SCREEN{"Intake screen<br/>+ dedup + file"}
     RAW[("raw/ — sources<br/>store of record · immutable")]
-    LEADS["_leads/<br/>AI syntheses to mine"]
     DISC(["discard"])
   end
 
@@ -71,8 +70,8 @@ flowchart TB
   H_clip --> NEW --> SCREEN
   SCREEN -->|"admissible source"| RAW
   SCREEN -->|"entity profile"| PAGES
-  SCREEN -->|"AI synthesis"| LEADS
-  SCREEN -->|"non-intel"| DISC
+  SCREEN -->|"AI synthesis — mine then discard"| DISC
+  SCREEN -->|"non-intel / out-of-scope"| DISC
   RAW --> PAGES
   SCREEN -. "flag contradiction" .-> COPEN
   SCREEN -. "flag gap" .-> GAPS

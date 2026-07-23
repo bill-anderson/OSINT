@@ -1,14 +1,25 @@
 ---
+type: source
 title: "South Africa's operators solved fintech. Digital identity is next"
-source: "https://techcentral.co.za/south-africas-operators-solved-fintech-digital-identity-is-next/282458/"
-author:
-  - "[[Contactable]]"
-published: 2026-06-09
-created: 2026-07-10
-description: "Contactable CEO Shaun Strydom argues that telecoms operators, not banks, will drive digital identity adoption."
-tags:
-  - "clippings"
+url: https://techcentral.co.za/south-africas-operators-solved-fintech-digital-identity-is-next/282458/
+publisher: TechCentral (Contactable promoted content)
+published: 2026-07-10
+date_precision: day
+date_source: source
+places: [ZAF]
+topics: [dpi.id, dpi.pay]
+entities: [[vodacom], [contactable]]
+lens: []
+retrieved: 2026-07-16
+ingested: 2026-07-23
+sweep_batch: leads-drain-2026-07-23
+body_completeness: full
 ---
+
+# South Africa's operators solved fintech. Digital identity is next
+
+*Vendor-promoted analysis (Contactable imagery/links throughout — treat as industry positioning, not neutral analysis): argues telcos, not banks, will drive SA digital-identity adoption via Rica-derived reusable trust. Dated figures it carries: Vodacom fintech US$525.6bn transaction value FY to Mar-2026 (+16.6%), 103m active financial-services customers incl. Safaricom; MTN MoMo US$500.3bn.*
+
 **For years, the** digital identity debate assumed banks would drive adoption. They have regulatory depth, compliance maturity and longstanding customer trust. The evidence now points elsewhere.
 
 In fact, the organisations best positioned to accelerate digital identity adoption may be the same ones that already transformed payments and financial services across Africa: telecommunications operators.

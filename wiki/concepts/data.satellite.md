@@ -18,6 +18,13 @@ data harvested from it.
 
 ## Key material
 
+- **Analysis — satellites as the health-tech enabler in rural Africa (TechAfrica News, 2026-03-12).**
+  Thematic explainer: GEO/LEO connectivity (Starlink, OneWeb) as the precondition for rural
+  telemedicine, EHR and mHealth; carries **Africa CDC** Chief Digital Advisor **Nsengimana**'s
+  on-the-record position that telemedicine investment is the accelerant for UHC-2030. See
+  [[dpi.mis]], [[include.access]]. Source:
+  [[2026-03-12-techafricanews-satellites-health-tech-rural-africa]].
+
 - **From last resort to core infrastructure (2026-03).** An ST Engineering iDirect
   interview (Omar Diab) argues satellite has shifted from expensive fallback to an
   integral layer of a hybrid, multi-orbit connectivity stack — LEO for high-volume data,

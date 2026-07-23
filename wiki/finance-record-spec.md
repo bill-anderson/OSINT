@@ -77,9 +77,11 @@ restating it.
 **Failing the test is a routing decision, not a rejection.** An admissible,
 in-scope item that fails any of the five is still a source: it takes the ordinary
 `raw/` route with its `finance.*` subject tags and its entity tags, and simply has
-no deal record. It is **not** counted in any hub aggregate. The one exception is
-failure on **fact 4**, which routes to `_leads/` per *Dates* — an item of unknown
-vintage is not a dated fact at all.
+no deal record. It is **not** counted in any hub aggregate. This holds for **fact 4**
+too: an item of unknown vintage still takes the `raw/` route, but with the event
+date **recorded as unestablished** (`CLAUDE.md` → *Currency*) — it asserts no dated
+fact, and the date is a candidate for a reconcile provenance hunt. *(No longer
+parked: `_leads/` was abolished 2026-07-23; see `INGEST.md`.)*
 
 Record which fact failed, in one line. A pattern of failures on the same fact from
 the same kind of source is worth knowing.
@@ -195,13 +197,14 @@ Anchor on the **commitment/approval event**, not a publication date:
   asserting a January event; it must not be applied to a date we actually know,
   and a July–June fiscal year padded to `YYYY-01-01` would sort six months from
   the event. `date_precision` states which case applies.
-- **If neither year exists, do not build a record — file the item to `_leads/`**
-  and log it. *(Curator ruling, 2026-07-21. This replaces an earlier instruction to
-  fall back to the access date with `date_source: proxy`, which contradicted the
-  core-fields rule above that a commitment or start year "must be present" — and
-  which would have dated an item of unknown vintage to the day it was scraped,
-  sorting it among current material. A finance record with no event year is not a
-  dated fact.)*
+- **If neither year exists, do not build a record.** The underlying item still
+  takes the ordinary `raw/` route (source, no deal record) with its event date
+  recorded as unestablished, and the missing date is a candidate for a reconcile
+  provenance hunt. Never fall back to the access date with `date_source: proxy` —
+  that would date an item of unknown vintage to the day it was scraped, sorting it
+  among current material. A finance record with no event year is not a dated fact.
+  *(Curator ruling 2026-07-21; updated 2026-07-23 when `_leads/` was abolished — the
+  item is no longer parked, it takes the `raw/` route with a dated absence.)*
 - The filename date prefix equals `published`, so `new/` sorts by commitment year.
 - Record the specific years in the body table regardless — they carry the
   currency discipline onto the page.

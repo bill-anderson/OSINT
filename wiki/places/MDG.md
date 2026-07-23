@@ -20,6 +20,14 @@ offline, with a large rural divide.
 
 ## Recent developments
 
+- **2026-07-16** *(analysis pair; ingested 2026-07-23)* — **ISS takes Madagascar's
+  digital-governance turn seriously.** Two ISS pieces land together: an ISS Today analysis on
+  technology transforming governance in Madagascar, and an African Futures scenario ("Madagascar
+  2044") sketching a governance model built on digitalisation. Analysis, cited by institution/author
+  — not evidence of any single development. Sources:
+  [[2026-07-16-iss-technology-transform-governance-madagascar]],
+  [[2026-07-16-iss-african-futures-madagascar-2044]].
+
 > **2026-07-18 MDG sweep batch (34 sources)** — L'Express + Midi Madagasikara + 8 SSA journals + French
 > supplements, consolidated into thematic intersections. Anchors:
 > - **Digital ID (dominant story)** — PRODIGY/RECI mass biometric enrolment (IN Groupe/Laxton; NUI,

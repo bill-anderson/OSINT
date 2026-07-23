@@ -6,6 +6,42 @@ Reporting): a few lines each, full detail in `log-archive.md` or git.
 
 ---
 
+## 2026-07-23 — New rolling view: `wiki/ingested_log.md`
+
+Bill wants to see what the automatic sweeps (esp. the news sweep) are admitting. New file
+`wiki/ingested_log.md`: every `run ingest` appends a `## YYYY-MM-DD HH:MM` section (newest at top)
+with one row per source admitted to `raw/` — place facet + verbatim title hyperlinked to the `raw/`
+file. **Temporary view, not a store of record:** pruned to the last 7 days on every write; audits go
+through `queries/`. Added the write step to INGEST.md (*Ending the run*); listed the file in
+reference.md §2 folder tree and index.md → Operations. **Revert:** `git rm wiki/ingested_log.md` +
+drop the INGEST step.
+
+## 2026-07-23 — `_leads/` abolished; ingest now has four dispositions
+
+Bill's call: `_leads/` was a black hole — items entered, nothing drained it, and its fill rules were
+self-contradictory (CLAUDE.md said "mine then discard" syntheses; INGEST said "park to `_leads/`").
+New model: every `new/` item ends in exactly one of four dispositions — **`raw/` (admit) · contradiction
+brief · acquisition line · delete** — no parking folder. Rewrites: INGEST.md (header, intro, step-1
+synthesis/out-of-scope/undated bullets, step-2a date failure); CLAUDE.md (*The material* out-of-scope,
+*Structure*); wiki/reference.md (folder tree, two pipeline lines); wiki/finance-record-spec.md (fact-4
++ missing-year now take the `raw/` route with a dated absence, not `_leads/`); wiki/index.md (ingest row
++ folder table); UPDATE-WIKI.md; documentation/{PROJECT-NOTES,wiki-workflow}.md. Substantive rule changes:
+(1) second-hand/AI synthesis is **mined then deleted**, never parked; (2) undated-but-important → a
+contradiction brief, then the husk is deleted (claim survives in the brief); (3) finance date/year
+failure takes the ordinary `raw/` route with the event date recorded unestablished.
+**Next (Bill):** move the 64 `_leads/` files into `new/` and run ingest to sort them; then `git rm -r`
+the empty folder. **Downstream:** 6 content pages still cite `_leads/` for specific items
+(cbn, nigeria--gov-protect, RWA, ekash, south-africa--infra-store, africa-ai-council) — they'll be
+corrected as those items re-ingest. wiki-workflow.md diagram to be redone later (also still shows the
+retired `gaps`). **Revert:** `git revert`.
+
+## 2026-07-23 — CLAUDE.md: index.md → Processes must be kept current
+
+Bill's instruction. Folded a maintenance obligation into the existing directory clause of the header
+(no new rule/section, per "no new rule without deleting one"): the *Processes* table in `wiki/index.md`
+is kept current whenever a process is added, moved or retired — the same edit that creates/moves the
+file updates the index. **Revert:** drop the added clause.
+
 ## 2026-07-23 — Finance drivers moved to wiki/ (root = standalone processes only)
 
 Bill's call: drivers and specs live in `wiki/`; the repo root holds only standalone runnable

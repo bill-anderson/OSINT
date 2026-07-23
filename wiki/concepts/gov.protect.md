@@ -17,6 +17,13 @@ Personal-data regimes across African jurisdictions — and the friction their
 
 ## Key material — continental & thematic
 
+- **Analysis — "surveilled into compliance" (Justin Brown, Silicon Canals, 2026-02-27).**
+  [[colonialism]] Contributed op-ed: biometric ID, cashless rails and AI credit scoring across the
+  Global South as surveillance infrastructure presented as inclusion — data flowing to Silicon
+  Valley, populations unable to opt out. Cited by author; polemical about systems, on the wiki's
+  standing lens. See [[dpi.id]], [[include.access]]. Source:
+  [[2026-02-27-siliconcanals-surveilled-into-compliance]].
+
 - **The surveillance side of the ledger — two 2025 civil-society baselines (ingested 2026-07-21).**
   [[sovereignty]] *Both are 2025 sources arriving late: baselines, not current state.*
   **CIPESA (2025-03-12, Edrine Wanyama)** reports a **Digital Rights Alliance Africa** learning session

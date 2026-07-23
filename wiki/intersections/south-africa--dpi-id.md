@@ -259,3 +259,12 @@ Place: [[ZAF]] · Concepts: [[dpi.id]] · [[gov.protect]] · [[gov.legislate]] �
 - [[2026-03-31 Concerns over South Africa's proposed digital ID system from traditional leaders]]
 - [[2026-03-09 Home affairs launches Smart ID partnership with banks]]
 - [[2026-02-24 South Africa makes the ETA the cornerstone of its visa reform]]
+
+- **Analysis — the operators-will-carry-identity thesis (TechCentral, 2026-07-10; vendor-promoted).**
+  A Contactable-promoted TechCentral piece argues telcos, not banks, will drive SA digital-identity
+  adoption — Rica-derived "reusable trust" atop the fintech rails (its dated figures: Vodacom
+  fintech **US$525.6bn** transaction value FY to Mar-2026, **103m** active financial-services
+  customers incl. Safaricom; MTN MoMo **US$500.3bn**). Industry positioning, not neutral analysis —
+  held for the argument, not the forecast. Source:
+  [[2026-07-10-techcentral-operators-fintech-digital-identity-next]].
+

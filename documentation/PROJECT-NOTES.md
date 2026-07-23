@@ -28,8 +28,10 @@ analysis. Obsidian is the viewer, git the history, Claude Code the agent.
   Governance/transformation live in the taxonomy; OSINT is a method, not a lens.
 - **Taxonomy**: slugs are the tag (`gov.protect`), never labels. Single-parent
   tree; cross-listing by multi-tagging, never by two parents.
-- **Three-state pipeline**: `new/` → `raw/` (flat) → `_leads/`, all at root.
-  Folder = state. Move out of `new/` is always the last step.
+- **Intake pipeline**: `new/` → `raw/` (flat), at root. Folder = state; move out of
+  `new/` is always the last step. Ingest has four dispositions — `raw/`,
+  contradiction brief, acquisition line, or delete — and no parking folder
+  (`_leads/` abolished 2026-07-23).
 - **`reviews/`** = everything held for the human:
   `contradictions/{open,done,research}/` (fixes), `gaps.md` (sourcing leads) +
   `issues.md` (decisions). **`log.md`** = append-only record of what happened.

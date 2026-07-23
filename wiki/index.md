@@ -39,6 +39,7 @@ Values outside the vocabularies are rejected.
 ## Operations
 
 - [log.md](log.md) — operation log and decisions.
+- [ingested_log.md](ingested_log.md) — rolling 7-day view of what ingest admitted to `raw/` (temporary; watch the news sweep here).
 - `reviews/contradictions/` — the reconcile worklist.
 - `reviews/acquisitions.md` — the fetch list.
 
@@ -60,7 +61,7 @@ the passes do the work.
 
 | Trigger | File | Function |
 |---|---|---|
-| `run ingest` | [INGEST.md](../INGEST.md) | Drains `new/` — admits candidates to `raw/`, parks leads in `_leads/`, or deletes. The only door into the base. Applies the schemas in [reference.md](reference.md). |
+| `run ingest` | [INGEST.md](../INGEST.md) | Drains `new/` — each item ends in one of four dispositions: admitted to `raw/`, a contradiction brief, an acquisition line, or deleted. The only door into the base. Applies the schemas in [reference.md](reference.md). |
 | `run reconcile` | [RECONCILE.md](../RECONCILE.md) | Resolves the contradictions in `reviews/contradictions/open/`: researches, ingests primaries, applies a dated resolution. |
 | `run acquisitions` | [ACQUIRE.md](../ACQUIRE.md) | Works the whole `reviews/acquisitions.md` fetch list — one automated attempt per item, then ingest-and-strike or drop. |
 | `full lint` | [LINT.md](../LINT.md) | The 15 hygiene checks over the vault. Acts and logs; surfaces only genuine contradictions. Enforces the thresholds in [reference.md](reference.md). |
@@ -99,7 +100,6 @@ processes, just their inputs and records.
 | `new/` | (intake queue) | Unprocessed clips **and sweep candidates** land here; drained on ingest. Folder = state. |
 | `sweep/` | (staging) | Sweep state/logs. The sweep writes candidates straight to `new/` (the `new-queue/ → new/` human gate was retired 2026-07-21); `new-queue/done/` remains Bill's. |
 | `raw/` | source | Admitted sources, flat, `YYYY-MM-DD`-prefixed; immutable after ingest (one bounded exception: verbatim fidelity re-capture). |
-| `_leads/` | (parked) | In-scope material not yet usable — to mine, not compile. Nothing else parks here. |
 | `wiki/concepts/` | concept | One page per subject slug. |
 | `wiki/places/` | place | Country and region hubs (one type). |
 | `wiki/entities/` | entity | Companies, orgs, gov bodies, initiatives, people, deals, resources, instruments. |

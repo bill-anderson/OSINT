@@ -13,6 +13,12 @@ last_reviewed: 2026-07-20
 
 ## Recent developments
 
+- **2024-11-30** *(reference baseline; ingested 2026-07-23 from the `_leads/` drain)* — **IDEA
+  Democracy Tracker on the Nov-2024 election.** International IDEA's Global State of Democracy
+  tracker records the general election: **Nandi-Ndaitwah 58.1%, SWAPO 51/96 directly elected
+  seats** (polling extended to 30 Nov in some areas). Reference study — cited, not absorbed.
+  Source: [[2024-11-30-idea-gsod-namibia-november-2024]].
+
 - **2026-07-14** — **Cyber-law reforms: Cybercrime + Data Protection Bills finalising.** Minister
   **[[emma-theofelus]]** (at CRAN's new board's inaugural meeting) said the **Cybercrime Bill** and **Data
   Protection Bill** are being finalised to combat cybercrime, digital violence and protect personal data — with

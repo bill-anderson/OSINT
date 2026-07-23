@@ -19,6 +19,11 @@ vendor-neutral publication of foundational reference data.
 
 ## Key material
 
+- **Analysis — what a data-commons repository reveals in the AI era (New Commons, 2026-07-15).**
+  The organisation's own research note on patterns across its data-commons repository — commons
+  governance under AI-training demand. Cited as New Commons's own analysis. Source:
+  [[2026-07-15-newcommons-repository-data-commons-ai-era]].
+
 - **Open *science* as the other openness track — South Africa (2026-07-20, [[ZAF]]).** South Africa's
   **[[dsti-south-africa|DSTI]]** says it has adopted a **National Open Science Policy** aligned to the
   **2021 UNESCO Recommendation on Open Science**, widening access to publicly-funded research while

@@ -11,7 +11,8 @@ extract"), `DAILY-SWEEP.md` and `DOMESTIC-FINANCE-SWEEP.md` (the sweeps). The
 finance drivers — `wiki/finance-load-domestic-state.md`,
 `wiki/finance-news-driver.md` — feed `wiki/finance-record-spec.md` and are invoked
 by ingest, not triggered as top-level passes. `wiki/index.md` → *Processes* is the
-full directory. `UPDATE-WIKI.md` ("update wiki") is the orchestrator that loops
+full directory, and is **kept current** whenever a process is added, moved or
+retired — the same edit that creates or moves the file updates the index. `UPDATE-WIKI.md` ("update wiki") is the orchestrator that loops
 ingest, reconcile and acquire until the queues are empty, then lints; `RUN-BATCH.md`
 ("run the batch") runs a queued list of jobs one at a time.)*
 
@@ -74,10 +75,12 @@ standalone articles are admitted. Paid placement, awards PR and vendor
 thought-leadership report no development — tag any standing object they name,
 then discard.
 
-**Out of scope is rejected and deleted, not parked.** A first-hand, admissible item
-that falls outside data governance and digital transformation is deleted, not put
-in `_leads/`. When scope is in doubt, reject. `_leads/` is for items that are in
-scope but not yet usable, nothing else.
+**Out of scope is rejected and deleted.** A first-hand, admissible item that falls
+outside data governance and digital transformation is deleted (git-reversible).
+When scope is in doubt, reject. **There is no parking folder.** An item that isn't
+admitted as a source is turned into a contradiction brief or an acquisition line if
+it has residual value, and otherwise deleted — nothing is held in limbo. (See
+`INGEST.md` → the four dispositions.)
 
 **Bill's published work is expert third-party analysis** — cited by author,
 tagged as analysis not evidence, and free to shape the wiki's framing like any
@@ -125,7 +128,7 @@ AU or ECOWAS are entities, not places. Reject values outside the vocabularies.
 `new/ → raw/` is a physical pipeline: a file's folder is its state, and moving it
 out of `new/` is the last step of processing it, so an interrupted run resumes
 cleanly. Sources in `raw/` are named by publication date and are immutable.
-Parked leads go to `_leads/`. **The sweep writes candidates to `new/`** (with
+**The sweep writes candidates to `new/`** (with
 best-effort frontmatter) and state/logs to its own `sweep/` — never straight to
 `raw/` or any `wiki/` page. Candidates enter the base only by being processed
 through ingest, so a raw sweep result can never become a source by accident.
