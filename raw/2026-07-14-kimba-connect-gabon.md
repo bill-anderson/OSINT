@@ -1,10 +1,19 @@
 ---
+type: source
 title: "Kimba Connect : le Gabon lance son premier défi national d'Open Innovation pour accélérer la transformation numérique"
-published: 2026-07-14
-publisher: Gabonreview
 url: https://www.gabonreview.com/kimba-connect-le-gabon-lance-son-premier-defi-national-dopen-innovation-pour-accelerer-la-transformation-numerique/
+publisher: Gabonreview
+published: 2026-07-14
+date_precision: day
+date_source: source
 places: [GAB]
+topics: [tech.innovate]
+entities: []
+lens: []
+retrieved: 2026-07-23
+ingested: 2026-07-23
 sweep_batch: newspapers-2026-07-23
+body_completeness: full
 ---
 
 Kimba Connect : le Gabon lance son premier défi national d’Open Innovation pour accélérer la transformation numérique

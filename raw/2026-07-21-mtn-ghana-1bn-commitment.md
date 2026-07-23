@@ -1,10 +1,19 @@
 ---
+type: source
 title: MTN commits $1billion to digital infrastructure
-published: 2026-07-21
-publisher: Graphic Online (Daily Graphic)
 url: https://www.graphic.com.gh/news/general-news/ghana-news-mtn-commits-1billion-to-digital-infrastructure.html
+publisher: Graphic Online (Daily Graphic)
+published: 2026-07-21
+date_precision: day
+date_source: source
 places: [GHA]
+topics: [infra.connect, finance.new]
+entities: [[mtn-ghana], [mtn-group]]
+lens: []
+retrieved: 2026-07-23
+ingested: 2026-07-23
 sweep_batch: newspapers-2026-07-23
+body_completeness: full
 ---
 
 MTN Ghana has committed to investing US$1 billion in digital infrastructure, describing the investment as a vote of confidence in the country’s economy and a major step towards accelerating the country’s digital transformation.

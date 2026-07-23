@@ -1,10 +1,19 @@
 ---
+type: source
 title: "Télécommunications : La Côte d'Ivoire mobilisée à Abuja pour renforcer son leadership"
-published: 2026-07-21
-publisher: Fraternité Matin (FratMat.info)
 url: https://www.fratmat.info/article/2643400/economie/telecommunications-la-cote-divoire-mobilisee-a-abuja-pour-renforcer-son-leadership
+publisher: Fraternité Matin (FratMat.info)
+published: 2026-07-21
+date_precision: day
+date_source: source
 places: [CIV]
+topics: [gov.regional]
+entities: [[african-telecommunications-union]]
+lens: []
+retrieved: 2026-07-23
+ingested: 2026-07-23
 sweep_batch: newspapers-2026-07-23
+body_completeness: full
 ---
 
 Télécommunications : La Côte d'Ivoire mobilisée à Abuja pour renforcer son leadership

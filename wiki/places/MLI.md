@@ -22,6 +22,8 @@ penetration 35.1% (2026)**) and a below-average e-government score.
 
 ## Recent developments
 
+- **2026-07-23** — **Moov Africa Malitel announces ADSL retirement — FTTH migration by end-2026**
+  (operator communiqué). Source: [[2026-07-23-malitel-adsl-ftth]].
 - **2026-07-09** — **First continental AI-governance commitment (Niyel framework).** Mali joined **six
   Francophone West African states** (with Benin, Burkina Faso, Côte d'Ivoire, Guinea, Senegal) adopting shared
   AI-governance guidelines led by advocacy org **[[niyel]]**, announced at the UN's inaugural Global AI Dialogue

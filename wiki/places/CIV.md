@@ -24,6 +24,9 @@ sovereignty; the target is digital **6% → 15% of GDP by 2030**.
 
 ## Recent developments
 
+- **2026-07-21** — **CIV works the UAT plenipotentiary in Abuja** — delegation lobbying for
+  regional telecom positions and its ITU Council campaign, via the
+  [[african-telecommunications-union|UAT/ATU]]. Source: [[2026-07-21-civ-uat-abuja]].
 - **2026-07-17** — **Starlink live in Côte d'Ivoire — SpaceX's 27th African market.** Reported available
   by **2026-07-17**, completing the arc from the **June 2026** 12-month provisional licence. Residential
   pricing at launch: hardware **XOF 148,148** (Mini) / **XOF 247,466** (Standard); service **XOF 28,746/mo**

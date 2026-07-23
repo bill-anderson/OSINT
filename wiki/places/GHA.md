@@ -13,6 +13,10 @@ last_reviewed: 2026-07-20
 
 ## Recent developments
 
+- **2026-07-20** — **[[mtn-ghana|MTN Ghana]] announces a US$1bn digital-infrastructure commitment**
+  (Mission 2030; fibre/home broadband focus; announcement-stage — no timeframe or breakdown stated).
+  Deal record: [[2026-07-20-mtn-gha-fibre-home-2026-record]]; source:
+  [[2026-07-21-mtn-ghana-1bn-commitment]].
 - **2026-07-17** — **Private escrow rails for cross-border trade: [[kutanapay]].** The Accra startup
   (founded 2023, Nicholas Murphy and Samuel Opoku) runs a **milestone-gated escrow platform** for
   cross-border B2B trade — funds released only when both parties validate shipment or delivery —

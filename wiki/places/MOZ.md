@@ -13,6 +13,13 @@ last_reviewed: 2026-07-23
 
 ## Recent developments
 
+- **2026-07-23** — **Bubble opens a second availability zone under [[intic-mozambique|INTIC]]'s
+  first advanced-category licence** — two domestic data centres now serving its cloud platform, a
+  digital-sovereignty/local-hosting marker. Source: [[2026-07-23-bubble-data-centers-moz]].
+- **2026-07-16** — **Visabeira notifies ARC of moving to 80% of TV Cabo and Televisa** (buying
+  TMCEL's residual 30% in each, exercising post-2023 structures; 15-day public consultation opened).
+  Consolidates a Portuguese group's exclusive control of a major fixed operator plus its network
+  engineering arm — no transaction amount disclosed. Source: [[2026-07-16-visabeira-tvcabo-moz]].
 > **2026-07-18 MOZ sweep batch (39 sources)** — Club of Mozambique + 6 SSA journals, consolidated into
 > thematic intersections. Anchors:
 > - **Digital ID** — mass free civil-registration drive (7M/500 brigades); mobile digital-ID + e-signature

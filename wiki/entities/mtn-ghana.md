@@ -6,8 +6,8 @@ title: MTN Ghana
 places: [GHA]
 topics: [infra.connect, infra.store, dpi.pay, tech.ai]
 status: active
-last_reviewed: 2026-07-11
-sources: [[2026-02-23 MTN Ghana secures $1.1bn boost as AI push deepens]]
+last_reviewed: 2026-07-23
+sources: [[2026-02-23 MTN Ghana secures $1.1bn boost as AI push deepens], [2026-07-21-mtn-ghana-1bn-commitment], [2026-07-20-mtn-gha-fibre-home-2026-record]]
 ---
 
 # MTN Ghana

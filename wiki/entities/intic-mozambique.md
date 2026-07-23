@@ -6,8 +6,8 @@ places: [MOZ]
 topics: [gov.protect, infra.cybersec, dpi.govtech]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-11
-sources: [[2026-02-06 Mozambique intros data breach platform]]
+last_reviewed: 2026-07-23
+sources: [[2026-02-06 Mozambique intros data breach platform], [2026-07-23-bubble-data-centers-moz]]
 ---
 
 # INTIC (National Institute of Information and Communication Technologies, Mozambique)

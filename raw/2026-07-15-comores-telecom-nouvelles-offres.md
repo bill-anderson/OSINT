@@ -1,10 +1,19 @@
 ---
+type: source
 title: "Télécommunications | Comores Télécom lance de nouvelles offres"
-published: 2026-07-15
-publisher: Al-Watwan
 url: https://alwatwan.net/societe/télécommunications-i-comores-télécom-lance-de-nouvelles-offres.html
+publisher: Al-Watwan
+published: 2026-07-15
+date_precision: day
+date_source: source
 places: [COM]
+topics: [infra.connect]
+entities: [[comores-telecom]]
+lens: []
+retrieved: 2026-07-23
+ingested: 2026-07-23
 sweep_batch: newspapers-2026-07-23
+body_completeness: full
 date_note: page shows no explicit publication date; body says the launch took place "hier, lundi 15 juillet" — internally inconsistent (15 July 2026 was a Wednesday). Publication date kept as listed (2026-07-15); precision uncertain, likely 15-16 July 2026.
 ---
 

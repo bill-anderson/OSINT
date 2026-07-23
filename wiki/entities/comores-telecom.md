@@ -6,8 +6,8 @@ places: [COM]
 topics: [infra.connect, tech.industry, dpi.pay]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-18
-sources: [[2025-06-04-comores-telecom-5g-launch-wttx-lagazette], [2025-02-01-comores-telecom-2024-results-5g-wttx-plans-alwatwan], [2025-05-08-cctld-km-transfer-comores-telecom-to-anaden-alwatwan]]
+last_reviewed: 2026-07-23
+sources: [[2025-06-04-comores-telecom-5g-launch-wttx-lagazette], [2025-02-01-comores-telecom-2024-results-5g-wttx-plans-alwatwan], [2025-05-08-cctld-km-transfer-comores-telecom-to-anaden-alwatwan], [2026-07-15-comores-telecom-nouvelles-offres]]
 ---
 
 # Comores Télécom

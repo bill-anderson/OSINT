@@ -15,6 +15,8 @@ A **small Indian-Ocean archipelago building DPI from a very low base**, largely 
 
 ## Recent developments
 
+- **2026-07-15** — **Comores Télécom launches new offers including eSIM.** Source:
+  [[2026-07-15-comores-telecom-nouvelles-offres]].
 - **2025–26 national-press sweep** — Al-Watwan + La Gazette + trade press add, for a country this small, a
   strikingly complete picture: **[[genkey|GenKey]] officially replaced Semlex (Apr 2026) and repatriated
   biometric data from Belgium to domestic storage** (a data-sovereignty event); the **`.km` ccTLD moved to

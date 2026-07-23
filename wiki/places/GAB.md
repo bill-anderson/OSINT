@@ -19,6 +19,9 @@ substantially on foreign finance and vendors, and dogged by slow disbursement an
 
 ## Recent developments
 
+- **2026-07-14** — **Kimba Connect: first national open-innovation challenge launched** to source
+  local digital solutions for public-service transformation. Source:
+  [[2026-07-14-kimba-connect-gabon]].
 - **2026-07-11** — **Civil-society coalition demands abrogation of the social-media suspension.**
   Nine organisations (declaration read in Libreville) call **HAC decision n°0002/HAC/2026** —
   in force ~5 months "jusqu'à nouvel ordre" — unconstitutional and ultra vires, and link mass VPN
