@@ -6,6 +6,17 @@ Reporting): a few lines each, full detail in `log-archive.md` or git.
 
 ---
 
+## 2026-07-23 — content sweeps reviewed: confirmed, zero defects
+
+Review of the CONTENT-SWEEP addition on request. Full-vault check found **no stale references**
+(tree/index/CLAUDE.md all already updated; old names survive only in dated run manifests,
+correctly). Verified: day-granularity state with one-day overlap and update-last ordering (house
+resumability discipline); dedup deferred to ingest (consistent with INGEST step 2);
+log/ingested_log division of labour; newspapers state pre-set to 2026-07-14, bounding the heaviest
+first window (105 domains). **Observation, no change:** content sweeps carry no window cap (daily
+has 10 days) — first journals/organisations runs span ~3.5 weeks × 37/53 domains; the mandated
+duration-logging is the right instrument to price that empirically.
+
 ## 2026-07-23 — New shared content sweep: journals · newspapers · organisations
 
 `CONTENT-SWEEP.md` (root, standalone process): one parameterised procedure for three content-scoped
