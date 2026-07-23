@@ -1,0 +1,12 @@
+programme_code,line,baseline_fy2024_25_final,original_2025_06,supp_i_2026_04,supp_i_change,notes
+0605010,Population Registration Services,23633445,27221918,30853178,3631260,
+0605020,Immigration Services,9492429206,8810313115,9599836116,789523001,
+0605030,Refugee Affairs,138137143,184319546,192734179,8414633,
+0605050,e-Citizen Services,2607650722,3897457065,5585867517,1688410452,third consecutive rise; 690m (FY24/25 orig) -> 2.61bn (final) -> 3.90bn -> 5.59bn
+0605000,Migration & Citizen Services (programme),12261850516,12919311644,15409290990,2489979346,
+0626010,National Registration Bureau,4786423261,5768586159,8668760147,2900173988,identity surge: +2.9bn in Supp I
+0626020,Civil Registration Services,1738720569,1883831201,1941516757,57685556,
+0626030,Integrated Personal Registration Services,232235383,433143568,463715357,30571789,
+0626000,Population Management Services (programme),6757379213,8085560928,,,Supp I programme total not captured (row wrap) - in re_extract
+0631000,General Administration and Planning,1201742484,1339837081,,,
+TOTAL,Vote 1024,20220972213,22344709653,,,Supp I vote total not cleanly captured - re_extract

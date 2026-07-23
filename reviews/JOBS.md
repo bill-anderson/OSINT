@@ -8,6 +8,25 @@ Each line is a natural-language command, exactly as you would type it into a fre
 CC turn. The runner does not know what the jobs mean; it just executes each line
 in order. So anything CC can do from a single instruction is a valid job:
 
+## Control
+
+Two optional controls, both read by the runner **between jobs** (never mid-job —
+so either one always lets the job in flight finish before the run stops):
+
+- `Budget:` — a time limit in hours for the whole run. Set it before you launch.
+  Once that many hours have elapsed, CC **finishes the current job and stops**
+  without starting another. Blank or `none` = run to completion.
+- `Stop:` — the manual brake. Change it to `after current` **while the batch is
+  running** (just edit and save this file); at its next between-jobs check CC
+  finishes the job in flight and stops. `no` = keep going.
+
+```
+Budget: none
+Stop: no
+```
+
+Both leave the unreached jobs `[ ]`, so the run resumes on the next "run the batch".
+
 ```
 - [ ] Run domestic finance sweep Senegal 2024
 - [ ] Run domestic finance sweep Senegal 2025

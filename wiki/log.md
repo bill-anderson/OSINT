@@ -6,6 +6,20 @@ Reporting): a few lines each, full detail in `log-archive.md` or git.
 
 ---
 
+## 2026-07-23 — budget extract: KEN/2025 drained — 5 records; identity up, infrastructure down
+
+9 documents processed under archetypes G/H (no new archetypes — the library held); 2 CSVs to
+`budget-archive/KEN/2025/`; `new-budget/` empty. **Records built 5** (3 appropriated, 2 revised).
+**Findings:** Vote 1122 16.19bn → 12.22bn (Supp I, −3.97bn, **ICT & BPO/Konza −59%**) while the
+same instrument raised **NRB +2.9bn and e-Citizen +1.69bn** — the FY2025/26 priority signal:
+registries and the fee-collecting platform over connectivity build. e-Citizen line series now runs
+690m → 2.61bn → 3.90bn → 5.59bn across two years. **Cross-year reconciliation exact**: FY2024/25
+Supp III finals = FY2025/26 baselines, all lines ✓. **Unresolved, flagged not guessed:** Supp II
+PBB has no Vote 1122 chapter but a scrambled summary row may carry +4.1bn dev — manifest
+`re_extract` note; the annual BIRR (~Aug 2026) settles it. Not read this pass (re_extract notes):
+dev volumes' project heads, BIRR MDA sections, 6-month BIRR. KEN hub Financing extended with the
+FY2025/26 series + Article 223 execution warning. Revert: `git checkout <sha> -- raw/ new/ budget-archive/ new-budget/ documentation/ wiki/`.
+
 ## 2026-07-23 — domestic finance sweep: Kenya 2025 → FY2025/26 — 9 documents + 2 prose staged
 
 KEN/2025 → FY2025/26 (Jul–Jun; second Kenya run). **9 budget documents** to `new-budget/KEN/2025/`:

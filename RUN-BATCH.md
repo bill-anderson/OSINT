@@ -25,11 +25,16 @@ The queue file's format, markers and editing rules are defined in `reviews/JOBS.
 ## The loop
 
 ```
-read reviews/JOBS.md
+read reviews/JOBS.md  →  note the start time and the Budget: value (if any)
 for each line, top to bottom:
     skip blank lines and lines starting with '#'
     skip lines already marked [x], [!], or [stop]   # resume cleanly
     take the next [ ] line as the current job
+
+    # --- between-jobs stop checks (re-read the Control block each time) ---
+    if Stop: is "after current"            → early-stop  ("manual")
+    if Budget set and elapsed ≥ Budget     → early-stop  ("N-hour budget reached")
+    # both leave this and all following lines [ ]; nothing in flight is cut off
 
     mark it [~] in JOBS.md and save            # the marker is the state
     announce it:  ▶ running: batch job N/T — "<the job text>"
@@ -42,8 +47,13 @@ for each line, top to bottom:
 
     commit JOBS.md (and let the job's own work commit as it normally would)
 
-when no [ ] lines remain (or halted): write the closing log entry + status line
+when no [ ] lines remain (or halted, or early-stop): write closing log + status line
 ```
+
+**Re-read the Control block from `JOBS.md` on every iteration**, not just at
+launch — the whole point of the manual brake is that Bill edits `Stop:` *while the
+batch is running*, and CC only sees it by re-reading. The `Budget:` value is fixed
+at launch; only the elapsed-time comparison changes.
 
 **Announce every job before it runs** — one clear line naming the job and its
 position, in the `STATUS.md` house style:
@@ -54,6 +64,29 @@ position, in the `STATUS.md` house style:
 
 Jobs run **sequentially, never concurrently** — do not start job N+1 until job N
 has fully finished and its marker is written. This is the whole point of the queue.
+
+## Stopping early — the graceful brake (manual or time budget)
+
+Two controls in `JOBS.md` end the run **cleanly**, distinct from a failure halt.
+Both are checked **between jobs only**, so the job in flight always runs to
+completion first (exactly as Bill specified — "finish the job you are running, then
+stop"):
+
+- **Manual** — Bill sets `Stop: after current` in `JOBS.md` while the batch runs.
+  At the next between-jobs check CC finishes the current job, does not start the
+  next, and stops. (If Bill instead types the request into chat, honour it at the
+  next between-jobs check the same way — but the file flag is the reliable channel,
+  since a running batch may not see chat until it next pauses.)
+- **Time budget** — `Budget: <N>h` caps the whole run. CC records the start time
+  and, before starting each new job, checks elapsed time; once elapsed ≥ N hours it
+  finishes nothing new and stops. A job that itself overruns the budget is never
+  interrupted — the check is between jobs, so at most one job runs past the deadline.
+
+A graceful stop is **not** a failure: the completed job is `[x]`, everything below
+stays `[ ]`, and the run is resumed simply by re-issuing "run the batch" (clear or
+reset `Stop:` first). Record it in the closing log entry as an early stop with its
+reason (`manual` / `N-hour budget`) and how many jobs were not reached. Do **not**
+use the `[stop]` marker for this — that marker is reserved for serious-error halts.
 
 ## Ordinary failure vs. serious failure
 
@@ -83,8 +116,10 @@ not.
 
 Each job writes its **own** terse `log.md` entry and status line as it always does
 — the runner neither suppresses nor duplicates that. At the end, RUN-BATCH appends
-**one** terse closing entry: how many jobs were done / failed / not reached,
-whether it halted and why, then the standing status line (per `STATUS.md`):
+**one** terse closing entry: how many jobs were done / failed / not reached, and
+how the run ended — `completed`, `early stop (manual)`, `early stop (N-hour
+budget)`, or `halted (<serious reason>)` — then the standing status line (per
+`STATUS.md`):
 
 `contradictions - NN ; acquisitions - NN ; awaiting ingest - NN ; decisions logged - NN`
 

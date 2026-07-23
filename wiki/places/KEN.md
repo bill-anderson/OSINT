@@ -410,7 +410,14 @@ mid-year to KSh 2.61bn; Treasury's e-GP e-procurement KSh 2.27bn survived untouc
 ERP/CRM KSh 3.44bn was zeroed. **Actual (COB BIRR, Aug 2025):** Vote 1122 absorption 93% —
 E-Government spent 105% of its thrice-cut allocation (COB: "possible irregular budget
 reallocation"); Vote 1024 absorption 102%. Amounts in KES; stages as stated, never merged; no
-cross-year USD summation. **Audited stage not held as of 2026-07-23** (OAG summary in
+cross-year USD summation. **FY2025/26 (compiled 2026-07-23, year just closed):** Vote 1122 appropriated
+KSh 16.19bn → revised 12.22bn (Supp I, Apr 2026 — the Konza/BPO line cut 59%; Supp II position
+unresolved pending the annual BIRR); the same supplementary moved identity **up**: NRB
+5.77bn → 8.67bn (+2.9bn), e-Citizen 3.90bn → 5.59bn (its third consecutive rise from 690m in
+June 2024). Execution context: Article 223 withdrawals ran at **KSh 206.81bn in nine months,
+~5× the prior year** (COB nine-month BIRR) — in-year absorption figures are distorted by
+extra-estimates funding. Full-year actual and audit: not yet published (calendar, not absence).
+**FY2024/25 audited stage not held as of 2026-07-23** (OAG summary in
 acquisitions). The ODPC carries no separately visible appropriation at PBB programme grain (it
 sits inside Vote 1122) — its funded scale is not established as of 2026-07-23.
 
