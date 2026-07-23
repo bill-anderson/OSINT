@@ -6,6 +6,19 @@ Reporting): a few lines each, full detail in `log-archive.md` or git.
 
 ---
 
+## 2026-07-23 — ingest: newspapers-sweep drain — 49 admitted, 19 dropped
+
+68 staged → 49 to `raw/` (incl. one non-state finance record, **mtn-gha-fibre-home-2026**,
+US$1bn announced; GHA Non-state recompiled US$1.70bn/21 → **US$2.70bn/22 deals**). 19 dropped:
+16 duplicates (the mis-set window re-covered the 07-17 country-sweep and daily-sweep ground) and
+3 no-development items (LSO summit talk, TCD PATN workshop, UGA CSR donation). 27 hub bullets on
+26 hubs; source-appends on 31 entity pages; mentioned-entities index extended.
+**Decisions:** Conecta Angola 20,000 (ANGOP) vs ~4,000 (trade, ANGOSAT-2/TVWS) carried as
+different measures with own scopes, not filed as a contradiction; Liberia summit — Observer +
+allAfrica pieces kept both (different articles, distinct payloads); Somalia WhatsApp bullet dated
+2026-07-22 (interview) with the 2026-07-06 NCA statement dated inside.
+Revert: `git revert` the seven `ingest chunk N/7` commits.
+
 ## 2026-07-23 — content sweep — newspapers
 
 content sweep — newspapers: window 2026-07-13→2026-07-23, took 21m, staged 68.

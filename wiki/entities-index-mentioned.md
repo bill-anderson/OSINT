@@ -17,6 +17,16 @@ Part of the [entities index](entities-index.md).
   MoCTI (Sierra Leone); Ethiopia National ID Program (Yodahe Zemichael); Malawi Dept of
   E-Government; Kenya State Dept of ICT (John Tanui); Ghana Ministry of Communication,
   Digital Technology and Innovations.
+- **This ingest (newspapers sweep, 2026-07-23):** WASPAN (NGA wireless-app providers, DEON
+  appellant); Tech Hive Advisory (Legal Basis Project, w/ Meta); HAC Gabon (social-media
+  suspension author); WAICO (World AI Cooperation Organization, Shanghai — SEN founding member,
+  ETH acceded); Atuge (TUN diaspora assoc., AI Livre Blanc); Bubble (MOZ cloud, first INTIC
+  advanced licence); Visabeira / TV Cabo / Televisa / TMCEL / ARC (MOZ 80% consolidation);
+  Moov Africa Malitel; DGI Niger; Ministry of Economy and Trade Libya (UEN Decision 348/2026 +
+  National Council); Holberton Guinée; NHIC Rwanda (health-data hub); NISR; ZIMSTAT; Letshego
+  Eswatini (digital-bank transition); Botswana child-welfare/basic-education ministry + Emeritus
+  Training Academy (P654m tender); MICT Namibia; Diamond Trust Bank (KEN SIM-swap liability);
+  Ghana Association of Banks (Awuah); Nam-CSIRT; WFP ETC (Guidan Fasaha Tahoua).
 - **This ingest (2026-07):** Nigeria DC operators OADC/WIOCC, Kasi Cloud, Galaxy Backbone;
   Bomalathu platform; Africom Technologies PLC; ADIEP;
   UNESCO; AFD (French Development Agency); EIB; Claire Ma (Sign); Wim Vanhelleputte, Leo

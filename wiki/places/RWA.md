@@ -30,6 +30,10 @@ last_reviewed: 2026-07-23
   (2026)**; incorporation costs (~US$50–800 range, Jul 2026) rank among the continent's cheapest.
   See [[dpi.registry]]. Source: [[2026-07-22-norebase-state-of-expansions-report]].
 
+- **2026-07-20** — **ICT is the fastest-growing employment sector** — NISR Labour Force Survey Q2
+  2026: sector employment 12,000 → 19,000 y/y (**+62.6%**, vs +2.7% economy-wide), still ~0.4% of
+  total employment; framed against the ICT Sector Strategic Plan 2024–2029's 50,000-digital-jobs
+  target. Source: [[2026-07-20-rwanda-tech-jobs-lfs]].
 - **2025-08-04** *(analysis piece; a 2025 baseline, not current state — ingested 2026-07-21)* —
   **Rwanda's digital model read as deliberate state strategy, with the accountability gap named.**
   [[sovereignty]] A Modern Diplomacy analysis by **Nicholas Oakes** — **commentary, not research;

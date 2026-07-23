@@ -27,6 +27,10 @@ The rails exist; usage lags them.
 
 ## Recent developments
 
+- **2026-07-22** — **Letshego outlines its digital-bank transition** under a
+  [[central-bank-of-eswatini|CBE]] provisional banking licence — branchless, basic-mobile-phone
+  reach targeted at the unbanked; savings/deposit products to follow full licensing.
+  Source: [[2026-07-22-letshego-digital-banking]].
 - **2026-07-20** — **ESCCOM proposes raising the minimum internet speed 2→10Mbps** (Notice 08/2026,
   minimum service standards review) — framed on affordability holding via competition and oversight.
   Proposal stage, not yet in force. Source: [[2026-07-20-eswatini-esccom-10mbps]].

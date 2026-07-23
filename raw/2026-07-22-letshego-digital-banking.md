@@ -1,10 +1,19 @@
 ---
+type: source
 title: Letshego targets unbanked with digital banking push
-published: 2026-07-22
-publisher: Times of Eswatini
 url: https://times.co.sz/39406/business/letshego-targets-unbanked-with-digital-banking-push/
+publisher: Times of Eswatini
+published: 2026-07-22
+date_precision: day
+date_source: source
 places: [SWZ]
+topics: [dpi.pay, include.access]
+entities: [[letshego-eswatini], [central-bank-of-eswatini]]
+lens: []
+retrieved: 2026-07-23
+ingested: 2026-07-23
 sweep_batch: newspapers-2026-07-23
+body_completeness: full
 ---
 
 MBABANE – Letshego Eswatini has outlined plans to deepen financial inclusion by expanding digital banking services to the country’s unbanked and under-banked population.

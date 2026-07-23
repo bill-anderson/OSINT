@@ -1,10 +1,19 @@
 ---
+type: source
 title: Why Tech Is Rwanda's Fastest-Growing Source of New Jobs
-published: 2026-07-20
-publisher: KT Press
 url: https://www.ktpress.rw/2026/07/why-tech-is-rwandas-fastest-growing-source-of-new-jobs/
+publisher: KT Press
+published: 2026-07-20
+date_precision: day
+date_source: source
 places: [RWA]
+topics: [data.statistics, tech.industry]
+entities: [[nisr]]
+lens: []
+retrieved: 2026-07-23
+ingested: 2026-07-23
 sweep_batch: newspapers-2026-07-23
+body_completeness: full
 ---
 
 KIGALI, Rwanda — Rwanda’s information and communication sector remains one of the country’s smallest employers, but it is now growing faster than any other part of the economy, according to new data.

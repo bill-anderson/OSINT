@@ -320,7 +320,7 @@ last_reviewed: 2026-07-20
 
 *Aggregate of tracked digital-transformation finance, compiled from the deal records in `raw/`. Totals are time-varying — **as of 2026-07-23**.*
 
-**Non-state** — US$1.70bn committed across 21 deals (2015–2025). Top financiers: Export-Import Bank of China (US$973m); MTN Group (US$288m); World Bank Group — IDA/IBRD (Digital Economy for Africa, DE4A) (US$200m).
+**Non-state** — US$2.70bn committed across 22 deals (2015–2026). Top financiers: MTN Ghana (Scancom PLC) (US$1.00bn); Export-Import Bank of China (US$973m); MTN Group (US$288m).
 
 Instrument mix: Equity 6, Grant 6, Concessional loan 3, Buyer's credit 2, Commercial loan 1, TA 1. **1 record here still carries the capture's unverified `Concessional loan` label**, so the mix is indicative rather than established: the World Bank portal does not separate an IDA credit from an IDA grant.
 

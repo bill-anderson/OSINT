@@ -20,20 +20,23 @@ all against very low connectivity (**internet penetration ~23% (2025)**).
 
 ## Recent developments
 
-- **2026-07-15** — **DGI convenes a national tax-digitalisation seminar** (SISIC / E-SISIC / SECeF
-  systems back at full operation post-sanctions; recommendations sought toward a 24/7 digital tax
-  administration; finance minister presiding). Source: [[2026-07-16-dgi-tax-digitalisation]].
-- **2026-07-13** — **ARCEP puts all four operators on formal notice over QoS.** After an April–May
-  Niamey control campaign, the [[arcep-niger|ARCEP]] council (CNRCEP session 2026-06-10) served
-  **mises en demeure** on Celtel, Moov Africa, Niger Telecoms and Zamani Com — voice and mobile-data
-  quality failures across the board; Zamani Com additionally below 4G-coverage thresholds; one month
-  to comply before sanctions, re-test to follow. Source: [[2026-07-13-arcep-mise-en-demeure]].
 - **2026-07-16** — **AES biometric e-passport phase launched (Tiani first enrollee).** After the ID card, Niger
   opened enrolment for the **AES biometric passport** (President Tiani first), a second phase (launched Aug 2025)
   with **five categories** — ordinary, service, diplomatic, refugee and an innovative **Hadj** passport —
   produced by the **Police DST** with **[[al-itissal-al-jadeed|Al Itissal Al Jadeed]]** + local partner HASDI.
   Source: [[2026-07-16-aes-biometric-passport-tiani-first-enrollee-actuniger]]. See
   [[niger--dpi-id]], [[dpi.id]], [[gov.regional]].
+- **2026-07-15** — **DGI convenes a national tax-digitalisation seminar** (SISIC / E-SISIC / SECeF
+  systems back at full operation post-sanctions; recommendations sought toward a 24/7 digital tax
+  administration; finance minister presiding). Source: [[2026-07-16-dgi-tax-digitalisation]].
+- **2026-07-15** — **WFP inaugurates the Guidan Fasaha community digital centre in Tahoua** (second
+  ETC centre after Diffa; 100 computers, 50kW solar; Luxembourg-funded) — donor-built digital
+  inclusion for youth, women and displaced people. Source: [[2026-07-16-pam-guidan-fasaha-tahoua]].
+- **2026-07-13** — **ARCEP puts all four operators on formal notice over QoS.** After an April–May
+  Niamey control campaign, the [[arcep-niger|ARCEP]] council (CNRCEP session 2026-06-10) served
+  **mises en demeure** on Celtel, Moov Africa, Niger Telecoms and Zamani Com — voice and mobile-data
+  quality failures across the board; Zamani Com additionally below 4G-coverage thresholds; one month
+  to comply before sanctions, re-test to follow. Source: [[2026-07-13-arcep-mise-en-demeure]].
 - **2026-07-09** — **National e-Health Master Plan 2025-2029 validated.** The Health Ministry (Min. Garba
   Hakimi) validated the budgeted roadmap of the **[[niger-ehealth-masterplan|Schéma Directeur National de la
   e-Santé 2025-2029]]** — **27 structuring projects** (HMIS, interoperability, epidemiological surveillance,

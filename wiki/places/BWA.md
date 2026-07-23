@@ -15,6 +15,13 @@ An **upper-middle-income, comparatively strong-performing** Southern-African dig
 
 ## Recent developments
 
+- **2026-06-25 (award; reported 2026-07-21)** — **P654.4m STEAM e-learning contract awarded via
+  direct procurement — adjudicated and approved the same day.** The child-welfare/basic-education
+  ministry awarded the integrated e-learning/coding/robotics contract to Emeritus Training Academy
+  Botswana six months after a Court of Appeal ruling cleared the route; Sunday Standard documents
+  same-day financial evaluation, adjudication and approval (published 2026-07-08). Procurement-
+  integrity question over the flagship digital-education spend; **paywalled — free lede held only**.
+  Source: [[2026-07-21-p654m-elearning-tender]].
 - **2026-03-18** — **Digital Services Act + Digital Services Authority; 1Gov-1Citizen at 52 services.**
   [[dpi.govtech]] Minister **David Tshere**'s FY2026/27 plan makes government **"digital-by-default"** via a
   **[[digital-services-act-botswana|Digital Services Act]]** and a new **Digital Services Authority** —

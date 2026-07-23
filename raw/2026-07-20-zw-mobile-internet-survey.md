@@ -1,10 +1,19 @@
 ---
+type: source
 title: Mobile internet access surges as Zimbabwe embraces digital shift
-published: 2026-07-20
-publisher: NewsDay Zimbabwe
 url: https://www.newsday.co.zw/local-news/article/200058521/mobile-internet-access-surges-as-zimbabwe-embraces-digital-shift
+publisher: NewsDay Zimbabwe
+published: 2026-07-20
+date_precision: day
+date_source: source
 places: [ZWE]
+topics: [data.statistics, include.divides]
+entities: [[potraz], [zimstat]]
+lens: []
+retrieved: 2026-07-23
+ingested: 2026-07-23
 sweep_batch: newspapers-2026-07-23
+body_completeness: full
 ---
 
 HARARE, Jul. 20 (NewsDay Live) – Zimbabwe’s digital transformation is accelerating, with internet access and mobile phone ownership reaching record levels, although a widening gap in computer ownership underscores the country’s growing reliance on smartphones as the primary gateway to the digital economy.

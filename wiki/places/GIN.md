@@ -23,6 +23,9 @@ early-stage build, not yet outcomes.
 
 ## Recent developments
 
+- **2026-07-16** — **Holberton Guinée officially launched in Conakry** — the software-engineering
+  school's Guinean campus, a private tech-skills capacity addition.
+  Source: [[2026-07-17-holberton-guinee-launch]].
 - **2025–26 — biometric electoral file & free ID.** The **[[pn-ravec-guinea|PN-RAVEC]]** administrative census
   (from 15 Apr 2025) feeds the **RNPP**, now the **single official source** for a **permanent biometric electoral
   file** (**6.95m electors / 23,681 stations** for the 31 May 2026 coupled elections; **RGPH-4 population

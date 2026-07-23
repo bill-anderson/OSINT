@@ -13,6 +13,11 @@ last_reviewed: 2026-07-21
 
 ## Recent developments
 
+- **2026-07-15** — **Airtel/UNICEF school-connectivity expansion.** [[airtel-malawi|Airtel]]'s Nzeru
+  Connect has connected **36 schools (2026)**, 9 more due in 2026; 12 local e-learning sites
+  zero-rated; 32,000+ learners reached — one national track of the **US$57m** Airtel Africa
+  Foundation/[[unicef|UNICEF]] programme (3,296 schools, 13 countries since 2021).
+  Source: [[2026-07-15-airtel-malawi-schools]].
 - **2026-07-21** — **The regulator orders Airtel and TNM to refund customers.** [[gov.legislate]]
   **[[macra-malawi|MACRA]]** ordered **[[airtel-malawi|Airtel Malawi]]** and **TNM** to refund
   subscribers — a live enforcement action against both operators in a **duopoly the wiki already tracks

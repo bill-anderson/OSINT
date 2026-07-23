@@ -7,7 +7,7 @@ topics: [infra.connect, infra.store, dpi.pay, include.access]
 lens: []
 status: active
 last_reviewed: 2026-07-23
-sources: [[2021-10-20 Africell opens high-tech data center in Angola], [2023-06-26 Mobile Money in Angola - How Afrimoney is paving the way], [2026-07-22-africell-afrigpt-web]]
+sources: [[2021-10-20 Africell opens high-tech data center in Angola], [2023-06-26 Mobile Money in Angola - How Afrimoney is paving the way], [2026-07-22-africell-afrigpt-web], [2026-07-17-africell-kidzonet-drc]]
 ---
 
 # Africell

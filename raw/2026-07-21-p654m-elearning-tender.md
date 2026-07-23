@@ -1,11 +1,19 @@
 ---
+type: source
 title: P654 million tender adjudicated & awarded same day
-published: 2026-07-21
-publisher: Sunday Standard
 url: https://www.sundaystandard.info/p654-million-tender-adjudicated-awarded-same-day/
+publisher: Sunday Standard
+published: 2026-07-21
+date_precision: day
+date_source: source
 places: [BWA]
+topics: [capacity.training]
+entities: [[ministry-of-child-welfare-and-basic-education-botswana]]
+lens: []
+retrieved: 2026-07-23
+ingested: 2026-07-23
 sweep_batch: newspapers-2026-07-23
-capture: partial-free-lede
+body_completeness: paywalled
 ---
 
 The Ministry of Child Welfare and Basic Education has awarded a P654.4 million contract for the implementation of an integrated STEAM e-learning, coding and robotics programme to Emeritus Training Academy Botswana (Pty) Ltd through direct procurement, six months after the Court of Appeal cleared the way for the ministry to proceed with the company.

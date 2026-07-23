@@ -21,6 +21,11 @@ The wiki has read Angola's stack as a **three-way courtship** (China / India / U
   version, priced at **300 kwanzas/month (2026)**, pitched at student research; Africell claims **7m
   clients (2026)** across five provinces. Source: [[2026-07-22-africell-afrigpt-web]].
 - **2026-07-16** — **BNA completes migration to ISO 20022** (as of 2026-07-10) across EMIS, BODIVA and SPTR. [[angola--dpi-pay]]. Source: [[2026-07-16-bna-conclui-migracao-iso-20022]].
+- **2026-07-13** — **Conecta Angola: 20,000 students claimed as beneficiaries** (ANGOP; 6
+  universities, 300+ localities). The held 2026-07-14 trade account reports **~4,000 students
+  connected via ANGOSAT-2/TVWS** — different measures (programme beneficiaries vs
+  satellite-connected), both dated; carry each with its own scope. Source:
+  [[2026-07-13-conecta-angola-20k-students]].
 - **2026-07-07** — The **cybersecurity bill stalls**: parliament unanimously suspends the committee discussion over drafting "inconsistencies" in the preamble and chapters 1–2 — UNITA warning a redraft this deep may require a wholly new bill and fresh procedure. The law is stuck as the window closes, against a parallel executive Cybersecurity Strategy track already in force. [[angola--infra-cybersec]]. Sources: [[2026-07-07-divergencias-adiamento-lei-sobre-ciberseguranca]] (Angop, same-day), [[2026-07-08-deputados-suspendem-discussao-lei-da-ciberseguranca]] (Novo Jornal, next-day).
 - **2026-07-07** — **[[unitel]] opens a 15% IPO** (~294bn kwanza / ~$320m; offer 6–24 July), tracing to the 2022 seizure of Isabel dos Santos's stake. Source: [[2026-07-07-unitel-opens-angola-share-offering]].
 - **2026-06-26** — **APD fines two tech firms >Kz 600m in total** — deliberations seen by Valor Económico sanction **Crescer Tech** (US$505,000 ≈ Kz 549m: no notification, no prior authorisation, and **international transfer without permission via cloud servers outside Angola**) and **Fast Digital Center** (US$112,000 ≈ Kz 110m: weak technical/organisational safeguards, no notification/authorisation). Follows the **TAAG (US$100k)** and **BDA (US$75k)** cases divulged September 2025. The enforcement track stays active while the Law 22/11 revision is pending. [[angola--gov-protect]]. Source: [[2026-06-26-apd-aplica-multas-milionarias-crescer-tech-fast-digital-center]].

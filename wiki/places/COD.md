@@ -13,6 +13,8 @@ last_reviewed: 2026-07-18
 
 ## Recent developments
 
+- **2026-07-17** — **[[africell|Africell]] launches Kidzonet child-online-safety service in DRC.**
+  Source: [[2026-07-17-africell-kidzonet-drc]].
 - **2026-07-14** — **Liquid names permanent DRC CEO.** **[[liquid-c2]]** (Liquid Intelligent
   Technologies, a **[[cassava-technologies]]** business) appointed **Bernard Beya** CEO of its DRC
   operations (effective 1 Apr 2026, acting since Nov 2025; ex-CFO from Sept 2022). Liquid frames the

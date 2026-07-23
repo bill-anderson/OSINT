@@ -6,8 +6,8 @@ places: [MWI]
 topics: [infra.connect, dpi.pay, include.divides, capacity.training]
 lens: []
 status: active
-last_reviewed: 2026-07-20
-sources: [[2026-07-20-malawi-seeks-new-telecom-competition], [2026-05-22-airtel-satellite-connectivity-agm-techafricanews], [2026-06-24-airtel-money-admarc-farmer-payments-itweb], [2026-01-07-airtel-nzeru-fund-stem-scholarships-malawi24], [2026-07-17-macra-airtel-malawi-tnm-tariff-compensation], [2026-07-17-malawi-macra-telecom-tariff-compliance]]
+last_reviewed: 2026-07-23
+sources: [[2026-07-20-malawi-seeks-new-telecom-competition], [2026-05-22-airtel-satellite-connectivity-agm-techafricanews], [2026-06-24-airtel-money-admarc-farmer-payments-itweb], [2026-01-07-airtel-nzeru-fund-stem-scholarships-malawi24], [2026-07-17-macra-airtel-malawi-tnm-tariff-compensation], [2026-07-17-malawi-macra-telecom-tariff-compliance], [2026-07-15-airtel-malawi-schools]]
 ---
 
 # Airtel Malawi Plc

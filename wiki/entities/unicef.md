@@ -7,8 +7,8 @@ places: [XGL, XAF]
 topics: [dpi.id, dpi.registry, include.access, dpi.mis]
 lens: []
 status: active
-last_reviewed: 2026-07-16
-sources: []
+last_reviewed: 2026-07-23
+sources: [[2026-07-15-airtel-malawi-schools]]
 ---
 
 # UNICEF

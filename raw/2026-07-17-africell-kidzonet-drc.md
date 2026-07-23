@@ -1,10 +1,19 @@
 ---
+type: source
 title: "RDC : Africell lance « Kidzonet » pour renforcer la protection des enfants sur internet"
-published: 2026-07-17
-publisher: Actualite.cd
 url: https://actualite.cd/2026/07/17/rdc-africell-lance-kidzonet-pour-renforcer-la-protection-des-enfants-sur-internet
+publisher: Actualite.cd
+published: 2026-07-17
+date_precision: day
+date_source: source
 places: [COD]
+topics: [infra.cybersec, include.access]
+entities: [[africell]]
+lens: []
+retrieved: 2026-07-23
+ingested: 2026-07-23
 sweep_batch: newspapers-2026-07-23
+body_completeness: full
 ---
 
 Catégorie

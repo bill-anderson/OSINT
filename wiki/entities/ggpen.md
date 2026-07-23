@@ -6,8 +6,8 @@ places: [AGO]
 topics: [data.satellite, infra.connect, tech.ai]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-17
-sources: [[2025-12-23-angola-launches-commercial-access-to-angosat-2], [2026-06-11-angola-referencia-africana-em-tecnologias-espaciais], [2026-06-07-angola-secretary-of-state-budget-visits-ggpen], [2026-03-16-arranque-do-projecto-angeo-1-airbus], [2026-06-12-ggpen-africell-memorando-expandir-servicos-angosat]]
+last_reviewed: 2026-07-23
+sources: [[2025-12-23-angola-launches-commercial-access-to-angosat-2], [2026-06-11-angola-referencia-africana-em-tecnologias-espaciais], [2026-06-07-angola-secretary-of-state-budget-visits-ggpen], [2026-03-16-arranque-do-projecto-angeo-1-airbus], [2026-06-12-ggpen-africell-memorando-expandir-servicos-angosat], [2026-07-13-conecta-angola-20k-students]]
 ---
 
 # GGPEN — Gabinete de Gestão do Programa Espacial Nacional

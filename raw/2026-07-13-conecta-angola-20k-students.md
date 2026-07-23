@@ -1,10 +1,19 @@
 ---
+type: source
 title: Vinte mil estudantes beneficiam do projecto Conecta Angola
-published: 2026-07-13
-publisher: ANGOP
 url: https://angop.ao/noticias/economia/vinte-mil-estudantes-beneficiam-do-projecto-conecta-angola/
+publisher: ANGOP
+published: 2026-07-13
+date_precision: day
+date_source: source
 places: [AGO]
+topics: [include.access, infra.connect]
+entities: [[ggpen]]
+lens: []
+retrieved: 2026-07-23
+ingested: 2026-07-23
 sweep_batch: newspapers-2026-07-23
+body_completeness: full
 ---
 
 Ramiros – Vinte mil estudantes de todo o país beneficiam de acesso à Internet, no âmbito do projecto Conecta Angola, revelou esta segunda-feira, em Luanda, o ministro das Telecomunicações, Tecnologias de Informação e Comunicação Social, Mário Oliveira.

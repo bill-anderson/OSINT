@@ -6,8 +6,8 @@ title: Postal and Telecommunications Regulatory Authority of Zimbabwe (POTRAZ)
 places: [ZWE]
 topics: [gov.protect, gov.legislate, infra.connect, gov.standards, infra.cybersec]
 status: active
-last_reviewed: 2026-07-20
-sources: [[2022-03-11-zimbabwe-cyber-and-data-protection-act-chapter-12-07], [2024-09-13-zimbabwe-si-155-2024-licensing-data-controllers-dpo-regulations], [2026-04-29-potraz-abridged-sector-performance-report-q4-2025], [2025-06-30 Zimbabwe's Cyber and Data Protection Act - Overview], [2026-07-06 Powertel, Paratus Zimbabwe switch on new digital highway], [2026-01-01-zimra-data-privacy-week-data-protection-officers]]
+last_reviewed: 2026-07-23
+sources: [[2022-03-11-zimbabwe-cyber-and-data-protection-act-chapter-12-07], [2024-09-13-zimbabwe-si-155-2024-licensing-data-controllers-dpo-regulations], [2026-04-29-potraz-abridged-sector-performance-report-q4-2025], [2025-06-30 Zimbabwe's Cyber and Data Protection Act - Overview], [2026-07-06 Powertel, Paratus Zimbabwe switch on new digital highway], [2026-01-01-zimra-data-privacy-week-data-protection-officers], [2026-07-20-zw-mobile-internet-survey]]
 ---
 
 # Postal and Telecommunications Regulatory Authority of Zimbabwe (POTRAZ)

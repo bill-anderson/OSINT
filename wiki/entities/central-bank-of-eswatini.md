@@ -6,8 +6,8 @@ title: Central Bank of Eswatini (CBE)
 places: [SWZ]
 topics: [dpi.pay, gov.standards, gov.regional, include.access]
 status: active
-last_reviewed: 2026-07-17
-sources: [[2025-01-14 Phil Mnisi - Eswatini Payment Switch Fast Payments product launch]]
+last_reviewed: 2026-07-23
+sources: [[2025-01-14 Phil Mnisi - Eswatini Payment Switch Fast Payments product launch], [2026-07-22-letshego-digital-banking]]
 ---
 
 # Central Bank of Eswatini (CBE)

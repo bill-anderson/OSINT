@@ -24,6 +24,11 @@ doubles as the data protection authority** — there is no separate DPA.
 
 ## Recent developments
 
+- **2026-07-20** — **ZIMSTAT/[[potraz|POTRAZ]] 2025 ICT household survey: internet access 75.5% of
+  households** (2025; up from 50.1% in 2020); mobile ownership 96.4%; **computer ownership fell to
+  11.2%** (from 14.2% in 2020; urban 21.2% vs rural 4.7%) — a mobile-first economy hardening, with
+  the minister citing local device manufacture and duty-free imports as the response; feeds NDS2 and
+  the ICT Policy 2026–2030. Source: [[2026-07-20-zw-mobile-internet-survey]].
 - **2026-07-21** *(trading update for the **quarter ended May 2026**; the report is dated 2026-07-21 —
   the operating facts are Mar–May 2026, not July)* — **InfraCo runs AI against the grid, not against the
   network.** **[[econet-infraco|InfraCo]]** (VFEX-listed; company secretary **Tatenda Alice Ngowe**)

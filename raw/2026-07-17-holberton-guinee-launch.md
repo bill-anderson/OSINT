@@ -1,10 +1,19 @@
 ---
+type: source
 title: "Numérique et IA : Holberton Guinée officiellement lancée, à Conakry"
-published: 2026-07-17
-publisher: Mediaguinee
 url: https://mediaguinee.com/2026/07/numerique-et-ia-holberton-guinee-officiellement-lancee-a-conakry/
+publisher: Mediaguinee
+published: 2026-07-17
+date_precision: day
+date_source: source
 places: [GIN]
+topics: [capacity.training]
+entities: [[holberton-guinee]]
+lens: []
+retrieved: 2026-07-23
+ingested: 2026-07-23
 sweep_batch: newspapers-2026-07-23
+body_completeness: full
 ---
 
 Fondée en 2015 dans la Silicon Valley, aux États-Unis d’Amérique, Holberton School, l’école d’informatique internationale ouvre ses portes en Guinée. Holberton Guinée a été officiellement lancée ce jeudi 16 juillet, à Conakry, autour du thème « Le Numérique et l’IA au service de tous les métiers ». A travers cette initiative, les promoteurs ambitionnent de former une nouvelle génération de talents capables d’accompagner la transformation numérique du pays, en phase avec les ambitions du programme Simandou 2040.

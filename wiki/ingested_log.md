@@ -1,5 +1,59 @@
 # ingested_log.md — what ingest admitted to `raw/` (rolling 7-day view)
 
+## 2026-07-23 18:20
+
+| Place | Source |
+|---|---|
+| NER | [Télécommunications : après un contrôle de la qualité des réseaux mobiles à Niamey, l'ARCEP met les quatre opérateurs en demeure de corriger leurs insuffisances](../raw/2026-07-13-arcep-mise-en-demeure.md) |
+| AGO | [Vinte mil estudantes beneficiam do projecto Conecta Angola](../raw/2026-07-13-conecta-angola-20k-students.md) |
+| GAB | [Gabon | Cinq mois de silence numérique : quand le remède devient le poison](../raw/2026-07-13-gabon-social-media-suspension.md) |
+| MUS | [Can Mauritians Still Trust the Privacy of Their Communications?](../raw/2026-07-13-mauritius-privacy-communications.md) |
+| KEN | [DTB, Safaricom liable for Sh4.4m SIM-swap fraud loss, court rules](../raw/2026-07-14-ken-simswap-ruling.md) |
+| GAB | [Kimba Connect : le Gabon lance son premier défi national d'Open Innovation pour accélérer la transformation numérique](../raw/2026-07-14-kimba-connect-gabon.md) |
+| BFA | [Intelligence artificielle : la Primature outille ses responsables pour un usage éthique](../raw/2026-07-14-primature-ai-ethics-training.md) |
+| MWI | [Airtel targets more Malawi schools with internet](../raw/2026-07-15-airtel-malawi-schools.md) |
+| BEN | [Liberté d'internet en 2026 : le Bénin dans le top 5 africain](../raw/2026-07-15-benin-internet-freedom-top5.md) |
+| COM | [Télécommunications | Comores Télécom lance de nouvelles offres](../raw/2026-07-15-comores-telecom-nouvelles-offres.md) |
+| CPV | [Ministro da Saúde defende que Inteligência Artificial pode aproximar os cuidados especializados de todas as ilhas](../raw/2026-07-16-cabo-verde-health-ai.md) |
+| NER | [Digitalisation de l'administration fiscale nigérienne : La DGI réunit les acteurs pour bâtir une trajectoire de modernisation maitrisée et progressive](../raw/2026-07-16-dgi-tax-digitalisation.md) |
+| NER | [Tahoua : le PAM inaugure « Guidan Fasaha », un espace communautaire pour faire du numérique un nouveau levier de résilience, d'innovation et d'inclusion](../raw/2026-07-16-pam-guidan-fasaha-tahoua.md) |
+| MOZ | [Portuguese group Visabeira strengthens its bet on telecommunications in Mozambique](../raw/2026-07-16-visabeira-tvcabo-moz.md) |
+| COD | [RDC : Africell lance « Kidzonet » pour renforcer la protection des enfants sur internet](../raw/2026-07-17-africell-kidzonet-drc.md) |
+| BEN | [Infrastructures publiques numériques au Bénin : La feuille de route lancée pour une transformation digitale plus poussée](../raw/2026-07-17-benin-dpi-roadmap.md) |
+| BEN | [Usages de l'IA dans l'Administration publique : Un cadre de gouvernance envisagé](../raw/2026-07-17-benin-genai-governance.md) |
+| GIN | [Numérique et IA : Holberton Guinée officiellement lancée, à Conakry](../raw/2026-07-17-holberton-guinee-launch.md) |
+| NGA | [Legal Basis 2.0 unveiled to strengthen data protection compliance in Nigeria](../raw/2026-07-17-legal-basis-2-0-launch.md) |
+| TZA | [Brazil, Poland back Dar’s push for digital growth](../raw/2026-07-17-tza-brazil-poland-wsis-mous.md) |
+| KEN | [Kabogo: No sensitive data accessed after President's website hack](../raw/2026-07-18-kabogo-website-hack.md) |
+| LBY | [Libyan Government Issues Decision on Implementation of Unified Economic Number Project](../raw/2026-07-18-libya-unified-economic-number.md) |
+| SSD | [Controversial Cybercrime Act takes effect amid free expression concerns](../raw/2026-07-18-ssd-cybercrime-act-effect.md) |
+| TUN | [Internet et mobile : la Tunisie parmi les pays arabes où les services numériques coûtent le moins cher](../raw/2026-07-18-tunisie-internet-abordabilite.md) |
+| SEN | [Intelligence artificielle : le Sénégal parmi les 29 États fondateurs de la WAICO](../raw/2026-07-19-senegal-waico-founding.md) |
+| SWZ | [Eswatini set for major digital leap](../raw/2026-07-20-eswatini-esccom-10mbps.md) |
+| GHA | [MTN Ghana US$1 billion digital-infrastructure commitment (Mission 2030, home broadband)](../raw/2026-07-20-mtn-gha-fibre-home-2026-record.md) |
+| RWA | [Why Tech Is Rwanda's Fastest-Growing Source of New Jobs](../raw/2026-07-20-rwanda-tech-jobs-lfs.md) |
+| TZA | [Samia’s Russia visit opens new tech frontier for Tanzania’s digital future](../raw/2026-07-20-tza-russia-tech-frontier.md) |
+| ZWE | [Mobile internet access surges as Zimbabwe embraces digital shift](../raw/2026-07-20-zw-mobile-internet-survey.md) |
+| CIV | [Télécommunications : La Côte d'Ivoire mobilisée à Abuja pour renforcer son leadership](../raw/2026-07-21-civ-uat-abuja.md) |
+| MDG | [ADMINISTRATION - Le numérique redynamise les services publics](../raw/2026-07-21-madagascar-fat-numerique.md) |
+| GHA | [MTN commits $1billion to digital infrastructure](../raw/2026-07-21-mtn-ghana-1bn-commitment.md) |
+| BWA | [P654 million tender adjudicated & awarded same day](../raw/2026-07-21-p654m-elearning-tender.md) |
+| RWA | [Rwanda Showcases Real-Time Health Data System During Bill Gates Visit](../raw/2026-07-21-rwanda-nhic-health-data-gates.md) |
+| AGO | [Africell lança AfriGPT na versão Web](../raw/2026-07-22-africell-afrigpt-web.md) |
+| GHA | [Digital trust crisis looming if fraud concerns are ignored - John Awuah warns](../raw/2026-07-22-awuah-digital-trust.md) |
+| SWZ | [Letshego targets unbanked with digital banking push](../raw/2026-07-22-letshego-digital-banking.md) |
+| LBR | [Boakai Declares July 21 'Liberia Technology Summit Day' to Drive Digital Transformation](../raw/2026-07-22-liberia-tech-summit-day.md) |
+| NAM | [Cyber threats surge as Namibia records half a million vulnerabilities](../raw/2026-07-22-namcsirt-q2-vulnerabilities.md) |
+| NAM | [Digital ID to reveal who sees your data](../raw/2026-07-22-namibia-digital-id-transparency.md) |
+| KEN | [Data protection office bets on global quality standards amid rising cyber threats](../raw/2026-07-22-odpc-quality-standards.md) |
+| MLI | [Métiers au Numérique : Orange Met 350 Jeunes Talents sur le Marché du Travail](../raw/2026-07-22-orange-odc-350-graduates.md) |
+| SEN | [Le numérique au service de la santé : SENUM S.A. et la SEN-CSU unissent leurs forces pour rapprocher la Couverture Sanitaire Universelle des citoyens](../raw/2026-07-22-senum-sen-csu-convention.md) |
+| SOM | [Why WhatsApp usernames could upset Somalia's anti-terror fight](../raw/2026-07-22-somalia-whatsapp-usernames.md) |
+| TUN | [Tunisia Global Forum 2026 : La Tunisie face au défi stratégique de l’intelligence artificielle](../raw/2026-07-22-tgf-2026-livre-blanc-ia.md) |
+| MOZ | [Bubble strengthens services with two data centers in Mozambique](../raw/2026-07-23-bubble-data-centers-moz.md) |
+| MLI | [Moov Africa Malitel tourne la page de l'ADSL : la migration vers la fibre optique FTTH lancée d'ici fin 2026](../raw/2026-07-23-malitel-adsl-ftth.md) |
+| NGA | [WASPAN Appeals Judgement Upholding FCCPC’s DEON Regulations, Seeks to Restore NCC’s Exclusive Telecom Powers](../raw/2026-07-23-waspan-deon-appeal.md) |
+
 ## 2026-07-23 14:20
 
 | Place | Source |

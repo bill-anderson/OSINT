@@ -6,8 +6,8 @@ places: [MLI]
 topics: [infra.connect, dpi.pay, include.divides, data.satellite]
 lens: []
 status: active
-last_reviewed: 2026-07-18
-sources: [[2025-05-07-techafricanews-orange-mali-intelsat-4g-satellite], [2025-11-17-ifc-orange-mali-80m-loan-4g-fibre], [2025-06-11-maliweb-orange-money-orabank-mastercard-prepaid]]
+last_reviewed: 2026-07-23
+sources: [[2025-05-07-techafricanews-orange-mali-intelsat-4g-satellite], [2025-11-17-ifc-orange-mali-80m-loan-4g-fibre], [2025-06-11-maliweb-orange-money-orabank-mastercard-prepaid], [2026-07-22-orange-odc-350-graduates]]
 ---
 
 # Orange Mali
