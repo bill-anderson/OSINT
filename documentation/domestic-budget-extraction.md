@@ -249,3 +249,37 @@ than once, so a country section doesn't have to restate them)*
   afecto ao **Min. Justiça** — stated in USD, in OGE 2025. lex.ao reproduces DR text verbatim (good
   Block-5 source). Grep lex.ao / DR by "Crédito Adicional Suplementar" + programme name for the
   in-year DPI appropriations the vote structure hides.
+
+### Angola — OGE 2026 package, FY2026 in-year (sweep, 2026-07-23)
+- **Same Track-B route holds:** DoH `cms.minfin.gov.ao`→20.87.80.66, UUID-keyed
+  `/api/assets/portal-minfin/<uuid>/`. **Exa surfaced the Fundamentação OGE 2026 UUID directly**
+  (`8983392b-8784-45d7-a23d-1aa35cf938b4`; native PDF, 75pp). But the **I-Trimestre 2026 execução
+  UUID did NOT surface** (Exa returns only the prior-year 2025 quarterly series — I `df341d44`, II
+  `37498c08`, III `b5aa3d45`, IV `6fb282a3`); the current-year execution report lags the search
+  index → queued, not fetched. Lesson: for an in-year run, the appropriation doc is Exa-findable but
+  the just-published quarterly execution is not — expect to queue it.
+- **The 2026 Fundamentação embeds the full Lei articulado** (ARTIGO 1-33 + fiscal measures + DR
+  summary + media note), unlike the 2024/2025 Fundamentações (fiscal-strategy narrative only). One
+  fetch gives both the exposição de motivos AND the OGE-2026 law text. Still **no programme/project
+  digital lines** — functional envelope only; the Mapas remain the acquirable for per-organ detail.
+- **OGE 2026 total FELL:** Kz 33,24 biliões, −4% vs OGE 2025 (34,63 bi) — first drop in the series
+  (24,72 → 34,63 → 33,24). Enacted 15-Dez-2025 as **Lei 01/V/4.ª/2026-2027** (proposta total held).
+- **The digital communications programme was cut, not grown:** "Expansão e Modernização das
+  Comunicações" **159,2 mil milhões** (−30,5% vs 229,3 in 2025); 4G 62,7 (−42%); cyber-index
+  programme 32,3 (−54%); "Cobertura 3G" line removed. The 2025 ~7× spike partly reversed —
+  reporting reads the OGE "Despesa por Programa Detalhado" rubric (pti.ao by programme name).
+- **In-year appropriations surface as January despachos, well before the execution-rules decree:**
+  **DP 12/26 (7-Jan, Kz 9,2 mM telecoms/hosting MINFIN)** and **DP 11/26 (13-Jan, Kz 8,6 mM Microsoft
+  licences whole admin via IMA)** were both signed *before* the OGE-2026 execution rules (DP 74/26,
+  23-Abr) existed, so they cite the *prior year's* rules (DP 42/25). angolex.com reproduces despacho
+  text verbatim (as lex.ao does) — grep angolex/lex.ao by "É autorizada a despesa" + January of the
+  FY year for the earliest in-year digital appropriations. The Microsoft one is a **cross-government**
+  e-gov line (via IMA), invisible from the MINTTICS vote.
+- **The Q1 execution report is newly per-organ:** for FY2026 MINFIN published, "for the first time",
+  a *quadro detalhado de Execução Financeira por Órgão do Governo* — the per-ministry Q1 execution
+  (MINTTICS 3%; 20/50 programmes <5%), reported by Diário dos Negócios / Expansão. This is the
+  per-organ executed-digital route in-year, ahead of the IV-Trim anexos — worth acquiring the report
+  (`ago-execucao-i-2026`) for the MINTTICS/Justiça/Interior rows.
+- **DPI legislation catching up with the money:** the **Lei da Identificação Civil e Criminal**
+  (Conselho de Ministros → Assembly, Apr-2026) sets the legal regime for BI + criminal-record data —
+  the framework arriving a year after DP 169/25's USD 218,5 M ID crédito. Pair them on the AGO hub.

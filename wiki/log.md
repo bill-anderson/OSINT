@@ -6,6 +6,28 @@ Reporting): a few lines each, full detail in `log-archive.md` or git.
 
 ---
 
+## 2026-07-23 — domestic finance sweep — AGO 2026 (batch job 3/68)
+
+AGO 2026 → FY2026 (calendar-year OGE), **in-year**. OGE 2026 = **Lei 01/V/4.ª/2026-2027** (aprovada
+15-Dez-2025), Kz **33,24 biliões**, **−4%** on 2025 — first drop in the series. Staged **1 budget doc**
+to `new-budget/AGO/2026/`: Fundamentação OGE 2026 (`8983392b-…`, 75pp, via DoH IP-pin) — embeds the
+full Lei articulado, but functional envelope only. Staged **6 prose** to `new/`: digital programme
+lines (Expansão e Modernização das Comunicações **159,2 mM**, −30,5%; 4G 62,7; cyber-index 32,3, −54%),
+cross-vote (e-gov 136,7 mM, justiça 89,6 mM), two primary despachos (**DP 12/26** 9,2 mM telecoms
+MINFIN; **DP 11/26** 8,6 mM Microsoft licences whole admin via IMA), and Angop Q1-2026 execution
+(9,36/9,12 bi) + **Lei da Identificação Civil e Criminal**. **5 to acquisitions** (Mapas 2026; I-Trim
+2026 execução; Lei DR; PAC 2026; despacho DRs). **0 contradictions** (2025 Angosat-3 stands). Learning:
+in-year, the appropriation doc is Exa-findable but the just-published Q1 execução UUID is not — queue
+it (extraction notes updated). Full estimates volume NOT obtained; outturn Q1-partial, IV-Trim 2026 +
+CGE audit are dated stage gaps. Run file: `sweep/domestic/AGO-2026-run-2026-07-23.md`.
+
+**Decision:** budget extract stays **deferred to the batch checkpoint** (job-1/2 rule, still in force).
+Staged 6 prose this run (vs 3 for 2025, 0 for 2024) because the freshly-enacted OGE 2026 surfaced an
+unusually rich in-year seam — detailed programme reporting + two January despacho primaries with hard
+figures. Revert: this commit removes `new-budget/AGO/2026/`, `new/2025-11-*`/`2026-*ago-*` (×6), the 1
+manifest row, 5 acquisition lines, and the run-file/extraction-notes edits.
+contradictions - 1 ; acquisitions - 14 ; awaiting ingest - 9 ; decisions logged - 1
+
 ## 2026-07-23 — domestic finance sweep — AGO 2025 (batch job 2/68)
 
 AGO 2025 → FY2025 (calendar-year OGE = Lei 18/24, Kz 34,63 bi, +40% on 2024). Staged **2 budget
