@@ -6,6 +6,15 @@ Reporting): a few lines each, full detail in `log-archive.md` or git.
 
 ---
 
+## 2026-07-23 — content sweep — organisations
+
+content sweep — organisations: window 2026-06-29→2026-07-23, took 7m, staged 17.
+All 46 domains swept (first run of this sweep; state was at the 2026-06-30 initialisation
+default). 4 date-checks resolved out-of-window (AfroLeadership CEMAC 2025-11, Nigeria-DPGA
+2025-10, Wits AI-policy analysis 2026-05, UCT AI-safety hub 2025-09) — staged as dated
+baselines for ingest to judge. Hand-off to update wiki follows. Revert: delete
+`new/*sweep_batch: organisations*`, reset `sweep/organisations/state.json` to 2026-06-30.
+
 ## 2026-07-23 — update-wiki close (newspapers hand-off): 1 iteration, lint clean
 
 Ingest only fired (reconcile/acquire queues were already empty); cap not hit. Full lint: 49 new
