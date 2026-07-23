@@ -181,3 +181,44 @@ records:
 - *(the two `ago-oge…-mapas` lines are counted under the acquisitions above, not here)*
 
 **`acquisitions - 0`.** Nothing is carried.)*
+
+---
+
+### Added 2026-07-23 by the domestic finance sweep — Burundi FY2024/25 (batch job 5/68)
+
+Burundi's ministry library (`finances.gov.bi`, DoH → 41.79.224.90 + `curl --resolve`)
+and the procurement authority (`armp.gov.bi`) both yielded their FY2024/25 chains. These
+five are the identified gaps.
+
+- **`bdi-loi-reglement-2024-2025`** *[untried]* — **Loi portant règlement et compte rendu
+  budgétaire, exercice 2024/2025**, adopted unanimously by the Assemblée nationale on
+  13 May 2026. Not on `finances.gov.bi` (its *lois* category holds the FY2023/24 règlement
+  post, whose link in fact serves the **2022-2023** PDF — a mislabelled link on the
+  ministry site, worth noting to whoever fetches). Try: `finances.gov.bi/index.php/category/lois/`
+  for a later post; `obr.bi` → *Lois et règlements*; `assemblee.bi`. **This is where the
+  per-ministry FY2024/25 actuals live** — reporting gives whole-budget aggregates only.
+- **`bdi-mincotim-ppm-2024-2025`** *[untried]* — **Plan Prévisionnel de Passation des
+  Marchés Publics du MINCOTIM (Ministère de la Communication, des Technologies de
+  l'Information et des Médias), exercice 2024-2025**. Absent from ARMP's 80-post FY2024/25
+  listing (`armp.gov.bi/plan-de-passation-des-marches-2024-2025-2/`, pages 1–8) although
+  Finances, Intérieur, the FSU and ONATEL are all there. MINCOTIM's vote tripled to
+  **131,7 milliards FBu** in FY2024/25; this plan is where that money is named. Try the
+  FY2025/26 and FY2026/27 sections for a late upload, and `mincotim.gov.bi`.
+- **`bdi-pap-ministeriels-2024-2025`** *[untried]* — **Projets Annuels de Performance
+  (PAP) ministériels, exercice 2024/2025**. Named in the *Exposé des motifs* as part of the
+  programme-budget instrument set (with DPBEP, PIP 2024-2027, CDMT, SDMT); none found
+  published. The PAP attaches objectives and indicators to each budget programme and is
+  the natural home of a digital programme's rationale — the Burundian equivalent of the
+  Francophone *annexe par programme* that converts envelopes into lines.
+- **`bdi-dpbep-pip-cdmt-2024-2027`** *[untried]* — **DPBEP / PIP 2024-2027 / CDMT
+  ministériels**, the medium-term frame named in the same passage. Not on the ministry
+  site's *budget* or *ptba* indexes. Try `plan.gov.bi` / `vision-burundi.gov.bi`.
+- **`bdi-arct-rapport-annuel-2024-2025`** *[untried]* — **ARCT annual report for exercise
+  2024-2025**, carrying the Fonds de Service Universel position table (facturation /
+  recouvrement / solde). `arct.gov.bi/rapports-annuels/` stops at **2021-2022**; the FSU
+  balance then was 6 384 534 076 FBU. Note `arct.bi` does not resolve — use `arct.gov.bi`.
+
+*Not queued, because they are not documents that exist:* the Cour des comptes' report on
+the FY2024/25 loi de règlement (`PLR2024_2025.pdf` **and** `PLR2023_2024.pdf` both 404 —
+the series stops at FY2022/23). That absence is stated on the run file and belongs on
+`wiki/places/BDI.md`, not here.

@@ -6,6 +6,36 @@ Reporting): a few lines each, full detail in `log-archive.md` or git.
 
 ---
 
+## 2026-07-23 — domestic finance sweep — Burundi FY2024/25 (batch job 5/68)
+
+BDI 2024 → **FY2024/25 (1 Jul 2024 – 30 Jun 2025)**. **9 budget documents staged** to
+`new-budget/BDI/2024/`, **7 prose to `new/`**, **5 to acquisitions**, 0 records built.
+**Full estimates volume OBTAINED** — the PTBA (*ventilation par programme ou dotation*) for both
+the initial and revised positions, so appropriated *and* revised are held at programme grain; a
+first for this series. Actuals aggregate-only (loi de règlement reported, text unpublished);
+**audited not published** — Cour des comptes' PLR series stops at FY2022/23, so Parliament adopted
+the FY2024/25 règlement law on 13 May 2026 with no audit report on it. Run file:
+`sweep/domestic/BDI-2024-run-2026-07-23.md`.
+
+**Decisions (3).** *(1)* Staged the Cour des comptes **RPGA 2024** with
+`fiscal_years_covered: ["unknown"]` — the series is calendar-labelled against a July–June fisc and
+the artefact is a scan, so its period could not be read at staging; extraction establishes it and
+drops the file if wholly pre-FY2024/25. Revert = delete the artefact + companion + manifest row.
+*(2)* Did **not** stage the data protection law (Loi n°1/03 du 10 mars 2026) — a regulation, not
+finance; noted as a CONTENT-SWEEP lead. *(3)* Did not queue the missing PLR2024_2025 as an
+acquisition: it does not appear to exist, so it is a stated absence for `wiki/places/BDI.md`, not a
+fetch.
+
+**Two things to carry.** Burundi's **entire budget chain is image-only** — only the exposé des
+motifs and two ministry procurement plans are native text; BDI extraction needs OCR, which the
+toolchain still lacks (same wall as the enacted Angolan OGE volumes, but chain-wide). And the
+substantive finding: **the fisc buys hardware, the World Bank buys the systems** — PAFEN (US$92m)
+carries SIGFP_BI, e-KORI, e-gov strategy and the identity work, while FY2024/25 fisc digital lines
+are computers, network maintenance and a police biometrics package in the hundreds of millions BIF.
+Any BDI domestic total must say so. `armp.gov.bi` is the Angola-PAC analogue and the richest
+fisc-side seam; its **LITERA** classification strings are the join key back to PTBA programmes.
+contradictions - 0 ; acquisitions - 5 ; awaiting ingest - 7 ; decisions logged - 3
+
 ## 2026-07-23 — update wiki — closing entry (batch job 4/68)
 
 **2 iterations**, then lint. Iteration 1: ingest (9 AGO sources admitted, 7 finance records built).

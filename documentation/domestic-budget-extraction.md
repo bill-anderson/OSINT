@@ -333,3 +333,70 @@ than once, so a country section doesn't have to restate them)*
 - **Still closed after one attempt:** `compraspublicas.minfin.gov.ao` (the PAC portal) times out —
   no Angolan Plano Anual de Contratação is held for any year; and the minfin CMS exposes the 2025
   quarterly execution reports by UUID but **no anexos volume and no 2026 series at all**.
+
+### Burundi — the whole chain is a scan, and the digital line is donor-side (sweep, 2026-07-23)
+
+- **Fiscal year is July–June**; documents label it `2024/2025`. Programme budget since the
+  **loi organique n°1/20 du 20 juin 2022**: credits are voted by *programme* (≈5 per ministry,
+  one transversal) or, for Présidence/Primature/Ombudsman, by simple *dotation*.
+- **`finances.gov.bi` is a clean WordPress document library behind the same local-DNS wall as
+  Kenya, Senegal and Angola.** DoH (`cloudflare-dns.com/dns-query`) → **41.79.224.90**, then
+  `curl --resolve finances.gov.bi:443:41.79.224.90`. Categories `/index.php/category/lois/`,
+  `/index.php/budget/`, `/index.php/ptba/`; each post carries exactly one
+  `wp-content/uploads/YYYY/MM/<Name>.pdf` link. One category fetch = the whole per-year chain.
+- **The estimates volume is called the PTBA** (*Plan de Travail et Budget Annuel*), published as
+  *"Ventilation des dépenses par programme ou dotation sur les ressources nationales"*. It is
+  the per-programme volume and the only route to a cross-vote scan — **but it covers domestic
+  resources only** (*sur les ressources nationales*), so donor-financed digital spend is out of
+  it by construction. An initial and a *modifié* volume are published per year, the second after
+  the loi de finances rectificative; they are **differently produced scans** (265 MB vs 44 MB at
+  more page objects) — do not assume shared layout or scale.
+- **OCR is a hard precondition for Burundi.** Of nine FY2024/25 documents captured, only the
+  **Exposé des motifs** (12 pp) and the two **ministry procurement plans** are native PDFs. The
+  appropriation act (462 MB), the rectificative (246 MB), both PTBA volumes, the FSU plan and
+  the Cour des comptes RPGA are image-only — `pdftotext` returns a few hundred bytes across
+  hundreds of pages. Same wall as the enacted Angolan OGE volumes, but here it covers the
+  *entire* chain rather than just the gazette scans.
+- **Verify every large fetch against `Content-Length`.** The first PTBA download silently
+  truncated at 41.5 MB of 265.4 MB and still began `%PDF` — size-check, don't magic-byte-check.
+- **The procurement portal is the richest fisc-side seam, and it is the Angola-PAC analogue.**
+  `armp.bi` 403s to curl ("This website has been deactivated"); the live host is
+  **`armp.gov.bi`**. Its *Plan de Passation des Marchés <FY>* section paginates over 8 pages of
+  `/archives/<id>` posts, one per spending unit, each linking one PDF. The ministry plans are
+  **native text**, give **Budget prévu in full BIF units**, name the **Source de financement**
+  (`Budget de l'Etat` vs project), and — the key — section themselves under a **LITERA budget
+  classification string**, e.g. `LITERA: 11 00 002 00 4 21450 11 000 0311 01`. *That string is
+  the join key from a procurement line back to a PTBA programme.* Capture it with every line.
+  Successive revisions of the same year's plan are published (`révisé 3`, `révisé 6`); take the
+  highest.
+- **What the fisc actually buys (FY2024/25):** MININTER — *logiciel de biométrie pour la gestion
+  de carrière* 791 990 000 BIF, *matériel et équipements informatiques* for the **Commissariat
+  Général Migrations** 721 245 000, police network training 50 169 500. MFBPE — ordinateurs
+  489 500 000, *maintenance du réseau informatique* 356 506 000, équipements informatiques
+  226 200 000, entretien/réparation 435 884 000 (**gré à gré**). All `Budget de l'Etat`.
+  Hardware and maintenance, not systems.
+- **The systems are donor money and they are not in the budget documents at all.** PAFEN
+  (World Bank P176396, IDA US$50m + US$42m AF) carries the IFMIS **SIGFP_BI** (~US$30m), the
+  tax platform **e-KORI**, the e-government strategy, the identity diagnostic and the SETIC
+  site — procured on `pafen.gov.bi`, not through ARMP. A BDI domestic-state total that does not
+  state this reads as near-zero digital spending. **The CNI biométrique crosses to the fisc only
+  in FY2026/27** (16 milliards BIF in the budget bill; ~15 mds stated as whole-project cost).
+- **Own-source:** the **Fonds de Service Universel des TIC** (décret n°100/186 du 16 octobre
+  2017, restructured by **décret n°100/054 du 29 mars 2024** — own directorate, `fsu.gov.bi`)
+  levies **1% of operators' turnover**. Its FY2024/25 procurement plan is on ARMP but is a scan.
+  Watch the origin phrasing: an FSU tender states *« financé à 100% Par le Fonds de Service
+  Universel sur le budget général de l'exercice 2024-2025 »* — own-source fund, *sur le budget
+  général*, in one sentence.
+- **Audit: the fiscal-year instrument is the PLR, and it has stopped.** Cour des comptes
+  publishes `courdescomptes.bi/assets/images/PLR<YYYY>_<YYYY>.pdf` (report on the projet de loi
+  de règlement). The series ends at **PLR2022_2023**; PLR2023_2024 and PLR2024_2025 both 404 as
+  at 2026-07-23 — so Parliament adopted the FY2024/25 règlement law with no published audit of
+  it. The **RPGA** (`rpga<YYYY>.pdf`, latest rpga2024) is a *calendar-labelled* annual report
+  against a July–June fisc: never assume which fiscal year an RPGA edition covers.
+- **Searched, found nothing:** a data protection authority budget line (the law is **Loi n°1/03
+  du 10 mars 2026** — no DPA existed in FY2024/25, and no supervisory authority is publicly
+  identified even now); any national CSIRT/cybersecurity agency appropriation; a MINCOTIM
+  FY2024/25 procurement plan (absent from ARMP though other ministries' are there); the PAP /
+  DPBEP / PIP / CDMT instrument set named in the exposé des motifs.
+- **Trap:** `arct.bi` does not resolve — the regulator is `arct.gov.bi`, and its annual-report
+  series stops at 2021-2022.
