@@ -6,6 +6,17 @@ Reporting): a few lines each, full detail in `log-archive.md` or git.
 
 ---
 
+## 2026-07-23 — two missing sweep run files written retrospectively; run file now mandatory
+
+Bill caught it: the ZAF FY2026/27 (07-22) and KEN FY2026/27 (today, batch job 1 — my
+batch-compressed flow) sweeps completed fully but left no run-state file in `sweep/domestic/`,
+so a completed run read as a missing one and was nearly re-swept. Both files written
+retrospectively from git/log/manifest (marked as such), with stage-coverage tables and re-run
+triggers (ZAF: Q1 s32 ~Aug, AENE ~Nov; KEN: 3-month BIRR ~Nov, the FY2025/26 annual BIRR ~Aug/Sep
+settles the Supp II question). `DOMESTIC-FINANCE-SWEEP.md` → *Close* now names the run file as the
+mandatory first close step — it is the state object the re-run reads. Revert:
+`git checkout <sha> -- sweep/domestic/ DOMESTIC-FINANCE-SWEEP.md`.
+
 ## 2026-07-23 — finance compile: the pending recomputation closed — 12 hubs rewritten
 
 The leads-drain compile debt paid: Non-state Financing paragraphs recomputed from all 1,232
@@ -30,6 +41,18 @@ log/ingested_log division of labour; newspapers state pre-set to 2026-07-14, bou
 first window (105 domains). **Observation, no change:** content sweeps carry no window cap (daily
 has 10 days) — first journals/organisations runs span ~3.5 weeks × 37/53 domains; the mandated
 duration-logging is the right instrument to price that empirically.
+
+## 2026-07-23 — Ingest self-triggers finance compile (no more "pending compile")
+
+The `_leads` ingest admitted 20 non-state finance records across ~13 places but left finance compile
+**pending** (logged as a to-do) because the auto-trigger lived only in the update-wiki loop, and that
+run was a standalone ingest. Fixed: **ingest now runs finance compile itself** whenever it admits any
+finance record (`INGEST.md` → *Ending the run*), so it fires however ingest is invoked — standalone,
+sweep hand-off, batch, or update-wiki. Removed update-wiki's separate compile step (now ingest-owned;
+idempotent so no double-work concern) and squared the wording in UPDATE-WIKI.md and FINANCE-COMPILE.md.
+A run that admits finance records and doesn't compile is half-done, never logged-and-deferred.
+**Outstanding:** the ~13 hubs from the `_leads` run still need one compile — run `finance compile` once.
+Revert: restore the update-wiki compile step + drop the INGEST *Ending* subsection.
 
 ## 2026-07-23 — New shared content sweep: journals · newspapers · organisations
 

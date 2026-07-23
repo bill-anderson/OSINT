@@ -381,7 +381,13 @@ later means reopening the document.
 
 ## Close
 
-Terse per `CLAUDE.md` → *Reporting*: documents staged by `doc_type`, items sent to
+**Write the run file first — it is the run's state object, not a report.**
+`sweep/domestic/<ISO3>-<FY>-run-<date>.md`: what was staged, the stage-coverage
+table, and the re-run triggers. It is how "has this country-year run, and what's
+missing?" is answered without archaeology — a completed run with no run file reads
+as a missing run (learned 2026-07-23: two runs skipped it and were nearly re-swept).
+
+Then terse per `CLAUDE.md` → *Reporting*: documents staged by `doc_type`, items sent to
 acquisitions, what was appended to the extraction notes, and — the one that
 matters — **which of the run's fiscal-year stages remain uncovered**. For this
 dataset the gaps are half the story, and a country-year run that establishes *no
