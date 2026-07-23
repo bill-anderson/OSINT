@@ -307,3 +307,29 @@ than once, so a country section doesn't have to restate them)*
   a domestic label. No source on file states the funding source of any OGE digital line, so the
   origin gate defaults them to `domestic-state`, flagged. The Mapas (`ago-oge2025-mapas`,
   `ago-oge2026-mapas`) are the arbiter — this is the single highest-value AGO acquisition.
+
+### Angola — enacted OGE volumes come from mirrors, not the ministry (acquisition, 2026-07-23)
+
+- **Three sweep passes failed to surface a minfin CMS UUID for any enacted OGE volume. Two mirrors
+  delivered them on one attempt each** — and both use plain, unguarded, directly `curl`-able paths:
+  - **CABRI Budget Information Archive** — `cabri-sbo.org/uploads/bia/<Country>_<year>_<stage>_…pdf`.
+    Gave **Lei n.º 18/24 (OGE 2025), 671 pp, 68.1 MB**, and previously the OGE 2025 Fundamentação.
+    The country profile (`/en/countries/angola`) is the index; **for Angola it holds 2025 only** — no
+    2024 or 2026. Try CABRI **first** for any African enacted budget before fighting a ministry CMS.
+  - **Development Workshop Angola** — `dw.angonet.org/wp-content/uploads/<YYYYMMDD>-Lei-…pdf`. Gave
+    **Lei n.º 15/23 (OGE 2024), 94.5 MB** as a gazette scan. A civil-society document library is a
+    live route for Angolan gazette PDFs.
+- **Both enacted volumes are scanned — no text layer at all.** `pdftotext` returns form-feeds only
+  across sampled pages. The budget tables are legible to a reader and useless to the current
+  toolchain (`pdftotext`, no `pdfplumber`, no OCR). **Extraction of Angolan enacted budgets needs an
+  OCR step that does not yet exist**; acquiring the document is no longer the bottleneck.
+  Contrast the Fundamentação reports and quarterly execution reports, which are **native PDFs** with
+  clean text — which is why the narrative side of Angola is well covered and the tabular side is not.
+- **Naming correction:** the OGE 2026 appropriation act is **Lei n.º 14/25** (aprovada 15-Dez-2025,
+  Kz 33 240 843 683 427,00). The string "Lei 01/V/4.ª/2026-2027" recorded by the AGO 2026 sweep is
+  the **Assembly's *diário* reference** (DIÁRIO II SÉRIE N.º 01-V-4.ª-2025-2026), not a law number.
+  Angolan budget laws run `15/23` → `18/24` → `14/25`; take the number from angolex/lex.ao, not from
+  the parliamentary diário filename.
+- **Still closed after one attempt:** `compraspublicas.minfin.gov.ao` (the PAC portal) times out —
+  no Angolan Plano Anual de Contratação is held for any year; and the minfin CMS exposes the 2025
+  quarterly execution reports by UUID but **no anexos volume and no 2026 series at all**.

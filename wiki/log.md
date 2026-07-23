@@ -6,6 +6,30 @@ Reporting): a few lines each, full detail in `log-archive.md` or git.
 
 ---
 
+## 2026-07-23 — acquire — 13 AGO budget documents (update-wiki iteration 2, batch job 4/68)
+
+**2 acquired, 11 dropped**, one attempt each; queue now empty. The two acquired are the ones that
+matter: the **enacted OGE volumes for FY2024 (Lei n.º 15/23, 94.5 MB) and FY2025 (Lei n.º 18/24,
+671 pp, 68.1 MB)**, which three sweep passes had failed to get from the minfin CMS. Both came from
+mirrors on plain `curl`-able paths — **CABRI's Budget Information Archive** (2025) and **Development
+Workshop Angola** (2024). Staged to `new-budget/AGO/{2024,2025}/` with companions + manifest rows.
+They also close `ago-oge2024-mapas` / `ago-oge2025-mapas`: the *Dotações Orçamentais por Órgãos* are
+*peças integrantes* of these very laws. Drops by class: `not-retrievable` ×4 (OGE 2026 tables + DR;
+both execution-anexos items), `transport` ×3 (the PAC portal times out — **no MINTTICS procurement
+plan is held for any year**), `js-shell` ×2 (gazette PDFs of DP 169/25 and DP 11-12/26 — their
+operative texts are already held, so the loss is small).
+
+**Flag — the real bottleneck moved.** Both enacted volumes are **scanned PDFs with no text layer**
+(`pdftotext` returns form-feeds only). Acquisition is no longer what blocks Angola's per-organ
+digital lines; **OCR is**, and the toolchain has none. Recorded on both companions, in the manifest,
+and in `documentation/domestic-budget-extraction.md`.
+
+**Correction made in passing:** the OGE 2026 appropriation act is **Lei n.º 14/25** (aprovada
+15-Dez-2025). "Lei 01/V/4.ª/2026-2027", recorded by the AGO 2026 sweep, is the Assembly's *diário*
+reference, not a law number. Fixed on the AGO hub and in the extraction notes.
+Dated not-held lines added to `wiki/places/AGO.md`. Revert: this commit.
+contradictions - 0 ; acquisitions - 0 ; awaiting ingest - 0 ; decisions logged - 0
+
 ## 2026-07-23 — reconcile — AngoSat-3 / PAC 2025 (update-wiki iteration 2, batch job 4/68)
 
 1 open item, **1 researched, 1 resolved, 0 re-routed, 0 closed-unresolved**. 1 primary ingested
