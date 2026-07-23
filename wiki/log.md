@@ -6,6 +6,13 @@ Reporting): a few lines each, full detail in `log-archive.md` or git.
 
 ---
 
+## 2026-07-23 — update-wiki close (journals hand-off): 2 admitted, queues empty
+
+SAJIM e-signature-conveyancing (ZAF, research — no hub bullet, tagged dpi.govtech/gov.legislate)
+and the IPR deplatforming op-ed (XSS, lens analysis, year-proxy date). No dups, no finance, lint
+trivial-clean. Revert: this commit.
+contradictions - 0 ; acquisitions - 0 ; awaiting ingest - 0 ; decisions logged - 1
+
 ## 2026-07-23 — content sweep — journals
 
 content sweep — journals: window 2026-06-29→2026-07-23, took 3m, staged 2.
