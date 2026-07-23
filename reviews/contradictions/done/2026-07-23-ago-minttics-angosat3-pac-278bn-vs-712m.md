@@ -2,9 +2,53 @@
 type: contradiction
 id: 2026-07-23-ago-minttics-angosat3-pac-278bn-vs-712m
 opened: 2026-07-23
+closed: 2026-07-23
 shape: supersession
-status: open
-attempt: 0
+status: resolved
+attempt: 1
+---
+
+## Resolution — 2026-07-23 (reconcile, attempt 1)
+
+**The held Kz 278 bn record is retired, not re-based.** Two findings settle it.
+
+1. **The figure was withdrawn, not disputed.** *Novo Jornal* identified the surplus zeros in the
+   first PAC, contacted the Portal de Compras Públicas so the ministry would be alerted, and
+   reported on **2025-02-21** that the document was still uncorrected — ingested this pass as
+   `raw/2025-02-21-nj-minttics-ainda-nao-corrigiu-pac-2025-zeros-a-mais.md`. The ministry then
+   published the corrected PAC (dated 27-Feb-2025). A withdrawn number does not compete with the
+   value that replaced it.
+2. **The line is externally financed, so it was never domestic-state money.** "AngoSat-3" and
+   "ANGEO-1" are the same Earth-observation satellite: the Angolan government portal filed the
+   September 2024 financing announcement under the tag *angosat-3*
+   (`governo.gov.ao/noticias/1845/tecnologia/angosat-3/…`) while MINTTICS announced the identical
+   decision as ANGEO-1 (`minttics.gov.ao/ao/noticias/governo-angolano-autoriza-a-construcao-do-satelite-de-observacao-da-terra-angeo-1/`)
+   — **Despacho Presidencial n.º 206/24**, a **€189,988,694** export credit under **Bpifrance AE**
+   cover plus **€35,268,507** down-payment financing, i.e. the **€225,257,201 Société Générale**
+   package the wiki already holds as the non-state record `societe-generale-ago-2025`. Under the
+   origin gate an externally-financed line is `non-state`; holding it also as domestic-state
+   double-counted it. This is the same fold already applied once to this project (the retired
+   `government-of-angola-ago-2026` twin).
+
+**Applied:** `raw/2025-01-01-ago-2025-minttics-angosat-3-unclear-angosat3-pac.md` deleted (git-reversible);
+its evidence folded as two dated `## Development history` lines and a Notes paragraph on
+`raw/2025-01-01-societe-generale-ago-2025-angola-earth-observation-satellite-bw02.md`; the AGO hub
+Financing section recompiled (domestic-state 12 → 11 lines, FY2025 `unclear` line removed);
+`angola--data-satellite` and the AGO hub Recent developments rewritten; run-log row annotated.
+
+**Left unresolved, and stated on the pages rather than carried:** (a) which corrected line the
+"AngoSat-3" reporting maps to — the corrected PAC separates *Construção e Lançamento de um Satélite
+Doméstico* (Kz 712,7 milhões) from *Sistema de Observação da Terra* (Kz 77,7 milhões); (b) the
+pre-correction figure itself, which the two accounts give as Kz **278** biliões (Novo Jornal) and
+Kz **298,7** biliões (the corrected-PAC reporting). **No PAC document is on file** — both versions
+are known only through reporting, and the primary stays queued as `ago-minttics-pac-2025`. Neither
+gap changes the disposition: the line is non-state either way.
+
+**Question 3 answered:** yes — the corrected PAC does appear re-based on the enacted vote. Its total
+(Kz 225,6 mil milhões) near-matches the OGE 2025 digital sector envelope (Kz 226,4 mil milhões), and
+two of its lines match OGE 2025 programme figures exactly (banda larga Kz 107,8 mM = the 4G line;
+plataforma/centro de dados Kz 70,5 mM = the cybersecurity-index line).
+
 ---
 
 # MINTTICS AngoSat-3 / satellite line in the PAC 2025: Kz 278 bn, or Kz 712,7 million?

@@ -6,6 +6,30 @@ Reporting): a few lines each, full detail in `log-archive.md` or git.
 
 ---
 
+## 2026-07-23 — reconcile — AngoSat-3 / PAC 2025 (update-wiki iteration 2, batch job 4/68)
+
+1 open item, **1 researched, 1 resolved, 0 re-routed, 0 closed-unresolved**. 1 primary ingested
+(`raw/2025-02-21-nj-minttics-ainda-nao-corrigiu-pac-2025-zeros-a-mais.md`). Exa research settled it
+two ways: (a) Novo Jornal documented the first PAC's surplus zeros *as it happened*, alerted the
+procurement portal, and reported the document still uncorrected on 2025-02-21 — so Kz 278bn is a
+**withdrawn** figure, not a competing one; (b) **"AngoSat-3" and "ANGEO-1" are the same satellite** —
+the government portal filed the Sept-2024 financing announcement under the tag *angosat-3* while
+MINTTICS announced the same decision as ANGEO-1 (**DP 206/24**: €189,988,694 export credit under
+Bpifrance cover + €35,268,507 down payment = the €225,257,201 Société Générale package already held
+as `societe-generale-ago-2025`).
+
+**Decision:** the domestic-state record `ago-2025-minttics-angosat-3-unclear` was **retired**, not
+re-based. An externally-financed line is `non-state` under the origin gate, so holding it also as
+domestic-state double-counted the same money — the identical fold already applied to this project's
+`government-of-angola-ago-2026` twin. Evidence folded into the Société Générale record as two dated
+`## Development history` lines + a Notes paragraph; AGO Financing recompiled (domestic-state 12 → 11
+lines); `angola--data-satellite` and the AGO hub rewritten; run-log row annotated. **Stated, not
+resolved** (on the pages, dated): which corrected PAC line the reporting maps to, and the
+pre-correction figure itself (Kz 278 biliões per Novo Jornal vs Kz 298,7 biliões per the
+corrected-PAC reporting). No PAC document is on file; `ago-minttics-pac-2025` stays queued. Neither
+gap changes the disposition. Revert: this commit restores `raw/2025-01-01-ago-2025-minttics-angosat-3-unclear-angosat3-pac.md`.
+contradictions - 0 ; acquisitions - 15 ; awaiting ingest - 0 ; decisions logged - 1
+
 ## 2026-07-23 — ingest + finance compile — AGO records (update-wiki iteration 2, batch job 4/68)
 
 Admitted the **7 AGO finance records** built in iteration 1 to `raw/` (no definite match to any held

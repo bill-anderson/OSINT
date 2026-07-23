@@ -1,5 +1,11 @@
 # ingested_log.md — what ingest admitted to `raw/` (rolling 7-day view)
 
+## 2026-07-23 22:15
+
+| Place | Source |
+|---|---|
+| AGO | [MINTTICS ainda não corrigiu PAC 2025 — Documento mantém-se com zeros a mais e despesas na ordem dos biliões de kwanzas](../raw/2025-02-21-nj-minttics-ainda-nao-corrigiu-pac-2025-zeros-a-mais.md) |
+
 ## 2026-07-23 21:40
 
 | Place | Source |
