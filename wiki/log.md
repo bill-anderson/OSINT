@@ -6,6 +6,22 @@ Reporting): a few lines each, full detail in `log-archive.md` or git.
 
 ---
 
+## 2026-07-23 — domestic finance sweep: Kenya 2024 → FY2024/25 — 9 documents + 5 prose staged
+
+KEN/2024 → FY2024/25 (Jul–Jun). **9 budget documents** to `new-budget/KEN/2024/` (PBB original +
+Supp I + Supp III, Dev Vol III (ICT votes) + Dev Supp I Vol I (identity votes), **COB annual BIRR
+(actual stage, 102MB via Parliament's DSpace mirror — cob.go.ke/oagkenya.go.ke unresolvable)**,
+Budget Statement, Mwananchi Guide, CA annual report with USF financial statements); **5 prose** to
+`new/` (Techweez ICT 16.3bn breakdown; Supp Appropriation No.2 assent; Supp II ICT cuts 20→12.2bn;
+SHA Sh104.9bn system audit + Ndii user-fee defence). **Acquisitions +3** (Dev Vol I original and
+Supp II PBB — dead links on Treasury's own site; OAG Summary FY2024/25). Stage coverage: all held
+except **audited**. Key year fact: Finance Bill withdrawal → four budget values (4.49→4.37→4.64→
+4.37tn) — stage labels mandatory. **Decisions:** OAG Blue Book (630MB) noted-not-staged on size,
+URL recorded; SHA Sh104.9bn flagged as outsourced user-fee contract, not an appropriation —
+extraction gate warning written into run file + extraction notes. Kenya section added to
+`documentation/domestic-budget-extraction.md`. Run file: `sweep/domestic/KEN-2024-25-run-2026-07-23.md`.
+Revert: `git checkout <sha> -- new-budget/ new/ sweep/ reviews/ documentation/`.
+
 ## 2026-07-23 — update-wiki converged (resumed run); lint clean
 
 Loop closed at 0/0/0 after 4 iterations (1–2 pre-failure, 3–4 resumed). Lint scoped to the run's

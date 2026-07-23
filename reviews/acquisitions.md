@@ -61,3 +61,26 @@ AI policy (`not-retrievable`: ict.go.ke notice and press link only to the pre-ex
 Strategy 2025–2030, not the draft), PSC SITA report (`js-shell`: psc.gov.za publications gallery exposes
 no report PDF), Bloomwit *Navigating Nigeria 2027* (`gated`: resources page serves only a blurb). Dated
 not-held lines added to `wiki/places/KEN.md`, `wiki/places/ZAF.md`, `wiki/places/NGA.md`.)*
+
+### Added 2026-07-23 by the domestic finance sweep (Kenya 2024 → FY2024/25)
+
+- **[blocked]** (dead-link) Kenya National Treasury — *FY2024/25 Estimates of Development
+  Expenditure, Volume I (Votes D1011–D1083)* (original June-2024 edition; the identity votes'
+  project-level lines at **proposed** stage). All three URL paths on treasury.go.ke serve a Drupal
+  404 as of 2026-07-23 (`/sites/default/files/...`, `/index.php/sites/...`, legacy
+  `/wp-content/uploads/2024/07/...`). The revised-stage substitute (Supp I Vol. I) is held at
+  `new-budget/KEN/2024/`.
+- **[blocked]** (dead-link) Kenya National Treasury — *FY2024/25 Approved Supplementary II PBB
+  (1011–2151)* (the KSh 4.64tn mid-year expansion, tabled Feb 2025). Listed on
+  treasury.go.ke/index.php/budget-books but the file URL
+  (`/wp-content/uploads/2025/05/FY24-25-Approved-Supplementary-II-PBB-1011-2151.pdf`) serves a
+  Drupal 404 on both hosts as of 2026-07-23. Aggregates recoverable from the held BIRR; Supp III
+  supersedes it as final revised.
+- **[blocked]** (host-unresolvable) Office of the Auditor-General (Kenya) — *Auditor-General's
+  Summary Report on National Government 2024/2025* (audit stage, cross-cutting findings).
+  oagkenya.go.ke does not resolve from this network and the direct PDF URL never surfaced in
+  search; the FY2023/24 edition follows
+  `/wp-content/uploads/2025/04/Auditor-Generals-summary-Report-on-National-Government-2023-2024.pdf`.
+  **Note, not queued:** the full FY2024/25 Blue Book (630.03 MB) *is* fetchable at
+  `https://libraryir.parliament.go.ke/items/3ad33490-54b9-49f0-b434-048b549121be` — not staged on
+  size (decision logged 2026-07-23); pull it if per-vote audit opinions are needed at extraction.
