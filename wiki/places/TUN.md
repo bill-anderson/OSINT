@@ -30,6 +30,11 @@ thing to watch.
 
 ## Recent developments
 
+- **2026-07-21/22** — **Tunisia Global Forum: an open-source AI Livre Blanc.** The diaspora
+  association **Atuge**'s third TGF (Tunis) presented a **Livre Blanc on AI** — six months' work by
+  20+ Tunisian experts, published open-source as the seed of a proposed national AI programme;
+  infrastructure/data-centre gaps and governance framing dominated.
+  Source: [[2026-07-22-tgf-2026-livre-blanc-ia]].
 - **2026-02-23** — **Mobile payments up 81% in 2025.** The **[[central-bank-of-tunisia]]** reported
   **8.4 million** mobile payment transactions worth **TND 1,769 million** in 2025, growth the CBT
   called **"explosive"**; active digital wallets rose to **815,000 (2025)** from **595,000 (2024)**;

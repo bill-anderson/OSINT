@@ -1,10 +1,19 @@
 ---
+type: source
 title: Rwanda Showcases Real-Time Health Data System During Bill Gates Visit
-published: 2026-07-21
-publisher: KT Press
 url: https://www.ktpress.rw/2026/07/rwanda-showcases-real-time-health-data-system-during-bill-gates-visit/
+publisher: KT Press
+published: 2026-07-21
+date_precision: day
+date_source: source
 places: [RWA]
+topics: [dpi.mis, tech.ai]
+entities: [[gates-foundation], [nhic-rwanda]]
+lens: []
+retrieved: 2026-07-23
+ingested: 2026-07-23
 sweep_batch: newspapers-2026-07-23
+body_completeness: full
 ---
 
 KIGALI — Bill Gates, founder and chair of the Gates Foundation, visited Rwanda’s National Health Intelligence Center (NHIC) on Tuesday, where officials showcased the country’s use of real-time health data to improve healthcare delivery and prepare for future disease threats.

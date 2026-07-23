@@ -20,6 +20,10 @@ digital and "tech islands" hub** (**[[techpark-cv|TechPark CV]]**), backed by th
 
 ## Recent developments
 
+- **2026-07-15** — **Cabo Verde pitches itself as a CPLP laboratory for AI in health.** Health
+  minister (WHO global AI-in-health conference, Lisbon) proposes CPV host lusophone pilot projects
+  integrating AI with telemedicine, and calls for cooperation on skills, digital infrastructure,
+  interoperability and an ethical/regulatory framework. Source: [[2026-07-16-cabo-verde-health-ai]].
 - **2025–26 national-press sweep** — A Nação + Expresso das Ilhas + trade press (a genuine prior blind
   spot) fill in the picture: **CRVS–ID interoperability ([[autentika-cabo-verde|Autentika]]) drove birth
   registration to ~99%** (UIN at birth); a **National 5G Strategy** (Resolution 33/2026) bundling a

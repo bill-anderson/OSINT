@@ -18,7 +18,11 @@ last_reviewed: 2026-07-23
   public infrastructure**, framing the country as a model for innovation-driven development and citing a
   20+-year foundation partnership. A visibility marker for the foundation's DPI engagement (see its
   Horizon1000 Rwanda pilot, already tracked), not a new commitment — no programme or figure announced.
-  See [[dpi.govtech]]. Source: [[2026-07-22-bill-gates-rwanda-dpi-visit]].
+  The tour showcased the **National Health Intelligence Center (NHIC)** — the government's real-time
+  health-data hub (hospitals, health centres, CHWs), in its first operational year credited with
+  faster ambulance dispatch and disease surveillance, now expanding toward **predictive health
+  intelligence** with foundation support. See [[dpi.govtech]], [[dpi.mis]]. Sources:
+  [[2026-07-22-bill-gates-rwanda-dpi-visit]], [[2026-07-21-rwanda-nhic-health-data-gates]].
 - **2026-07-22** — **Norebase report: Rwanda among Africa's fastest incorporation markets.** The
   *State of Expansions in Africa 2026* report finds businesses can incorporate in Rwanda within
   **24–72 hours (Jul 2026)** through the **Rwanda Development Board**'s

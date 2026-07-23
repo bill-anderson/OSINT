@@ -6,8 +6,8 @@ places: [BEN]
 topics: [dpi.govtech, dpi.exchange, infra.cybersec, dpi.id, gov.policy]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-18
-sources: [[2025-06-23 Benin shares its X-Road-inspired DPI interoperability experience in peer learning webinar], [2025-09-01 Benin boosts digital inclusion, govt service access with cooperation deals], [2026-01-27 Cybastion Advances Digital Government Solutions, Supports Benin's SECUROUTE Infrastructure Upgrade], [2024-05-29 Marc-Andre Loko - Benin's digital strategy involves a diversified portfolio of partners], [2025-11-27 Benin Cuts Digital Budget by 6.32% Despite Expanding Tech Ambitions], [2026-02-15 Digital - Benin outlines its strategic vision for 2031], [2025-07-17-techafricanews-benin-asin-trust-services-agreements], [2026-07-01-pasi-pdaie-architecture-systemes-etat]]
+last_reviewed: 2026-07-23
+sources: [[2025-06-23 Benin shares its X-Road-inspired DPI interoperability experience in peer learning webinar], [2025-09-01 Benin boosts digital inclusion, govt service access with cooperation deals], [2026-01-27 Cybastion Advances Digital Government Solutions, Supports Benin's SECUROUTE Infrastructure Upgrade], [2024-05-29 Marc-Andre Loko - Benin's digital strategy involves a diversified portfolio of partners], [2025-11-27 Benin Cuts Digital Budget by 6.32% Despite Expanding Tech Ambitions], [2026-02-15 Digital - Benin outlines its strategic vision for 2031], [2025-07-17-techafricanews-benin-asin-trust-services-agreements], [2026-07-01-pasi-pdaie-architecture-systemes-etat], [2026-07-17-benin-genai-governance]]
 ---
 
 # Agence des Systèmes d'Information et du Numérique (ASIN)

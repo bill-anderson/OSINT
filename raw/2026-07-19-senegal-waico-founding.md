@@ -1,10 +1,19 @@
 ---
+type: source
 title: "Intelligence artificielle : le Sénégal parmi les 29 États fondateurs de la WAICO"
-published: 2026-07-19
-publisher: Seneweb
 url: https://www.seneweb.com/fr/news/Technologie/intelligence-artificielle-le-senegal-parmi-les-29-etats-fondateurs-de-la-waico_n_498704.html
+publisher: Seneweb
+published: 2026-07-19
+date_precision: day
+date_source: source
 places: [SEN]
+topics: [tech.ai, gov.regional]
+entities: [[waico]]
+lens: []
+retrieved: 2026-07-23
+ingested: 2026-07-23
 sweep_batch: newspapers-2026-07-23
+body_completeness: full
 ---
 
 Intelligence artificielle : le Sénégal parmi les 29 États fondateurs de la WAICO

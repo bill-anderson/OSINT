@@ -1,10 +1,19 @@
 ---
+type: source
 title: "Intelligence artificielle : la Primature outille ses responsables pour un usage éthique"
-published: 2026-07-14
-publisher: Sidwaya
 url: https://www.sidwaya.info/intelligence-artificielle-la-primature-outille-ses-responsables-pour-un-usage-ethique/
+publisher: Sidwaya
+published: 2026-07-14
+date_precision: day
+date_source: source
 places: [BFA]
+topics: [tech.ai, capacity.training]
+entities: []
+lens: []
+retrieved: 2026-07-23
+ingested: 2026-07-23
 sweep_batch: newspapers-2026-07-23
+body_completeness: full
 ---
 
 Le directeur de cabinet du Premier ministre, chef du gouvernement, le camarade Mamadou Dembélé, a présidé, ce lundi 13 juillet 2026 à Ouagadougou, la cérémonie d’ouverture d’une session de formation au profit des responsables de la Primature. Prévue les 13 et 14 juillet 2026, cette session est placée sur le thème : « Outils de management pour une intelligence artificielle éthique et responsable ». Elle s’inscrit dans la dynamique de modernisation de l’administration publique et dans la vision du Gouvernement en matière de transformation numérique.

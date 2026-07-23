@@ -13,6 +13,11 @@ last_reviewed: 2026-07-11
 
 ## Recent developments
 
+- **2026-07-16/17** — **DPI roadmap process launched; genAI governance framework for public
+  administration envisaged.** [[asin-benin|ASIN]] (with DIAL) opened the workshop to draft a
+  **national DPI roadmap** — digital ID, payments, secure data exchange, "Once Only" — and
+  separately signalled a **governance framework for generative-AI use in public administration**.
+  Sources: [[2026-07-17-benin-dpi-roadmap]], [[2026-07-17-benin-genai-governance]].
 - **2026-04→05 — New government; digital portfolio renamed and re-scoped on AI.** The **12 April 2026
   presidential poll** (electoral roll compiled/managed by [[anip-benin]]; ECOWAS + AU missions assessed
   preparedness) returned a **new government under President Romuald Wadagni** (ex-Minister of State for

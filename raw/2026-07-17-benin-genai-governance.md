@@ -1,10 +1,19 @@
 ---
+type: source
 title: "Usages de l'IA dans l'Administration publique : Un cadre de gouvernance envisagé"
-published: 2026-07-17
-publisher: La Nation Bénin
 url: https://www.lanation.bj/actualites/usages-de-lia-dans-ladministration-publique-un-cadre-de-gouvernance-envisage
+publisher: La Nation Bénin
+published: 2026-07-17
+date_precision: day
+date_source: source
 places: [BEN]
+topics: [tech.ai, gov.policy]
+entities: [[asin-benin]]
+lens: []
+retrieved: 2026-07-23
+ingested: 2026-07-23
 sweep_batch: newspapers-2026-07-23
+body_completeness: full
 ---
 
 La Nation Bénin...

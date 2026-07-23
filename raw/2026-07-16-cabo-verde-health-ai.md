@@ -1,10 +1,19 @@
 ---
+type: source
 title: Ministro da Saúde defende que Inteligência Artificial pode aproximar os cuidados especializados de todas as ilhas
-published: 2026-07-16
-publisher: A Nação (Cabo Verde)
 url: https://www.anacao.cv/noticia/2026/07/16/ministro-da-saude-defende-que-inteligencia-artificial-pode-aproximar-os-cuidados-especializados-de-todas-as-ilhas001/
+publisher: A Nação (Cabo Verde)
+published: 2026-07-16
+date_precision: day
+date_source: source
 places: [CPV]
+topics: [tech.ai, dpi.mis]
+entities: [[ministry-health-cabo-verde]]
+lens: []
+retrieved: 2026-07-23
+ingested: 2026-07-23
 sweep_batch: newspapers-2026-07-23
+body_completeness: full
 ---
 
 O ministro da saúde de Cabo Verde, Lúcio Fernandes, participou nesta quarta-feira, 15, em Lisboa, Portugal, numa conferência global da Organização Mundial da Saúde (OMS) sobre Inteligência Artificial (IA) na Saúde.

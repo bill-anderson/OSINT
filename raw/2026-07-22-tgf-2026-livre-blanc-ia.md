@@ -1,10 +1,19 @@
 ---
+type: source
 title: "Tunisia Global Forum 2026 : La Tunisie face au défi stratégique de l’intelligence artificielle"
-published: 2026-07-22
-publisher: La Presse de Tunisie
 url: https://www.lapresse.tn/2026/07/22/tunisia-global-forum-2026-la-tunisie-face-au-defi-strategique-de-lintelligence-artificielle/
+publisher: La Presse de Tunisie
+published: 2026-07-22
+date_precision: day
+date_source: source
 places: [TUN]
+topics: [tech.ai, gov.policy]
+entities: [[atuge]]
+lens: []
+retrieved: 2026-07-23
+ingested: 2026-07-23
 sweep_batch: newspapers-2026-07-23
+body_completeness: full
 ---
 
 Tunisia Global Forum 2026 : La Tunisie face au défi stratégique de l’intelligence artificielle

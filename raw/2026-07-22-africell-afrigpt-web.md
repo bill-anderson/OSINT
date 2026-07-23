@@ -1,10 +1,19 @@
 ---
+type: source
 title: Africell lança AfriGPT na versão Web
-published: 2026-07-22
-publisher: ANGOP
 url: https://angop.ao/noticias/economia/africell-lanca-afrigpt-na-versao-web/
+publisher: ANGOP
+published: 2026-07-22
+date_precision: day
+date_source: source
 places: [AGO]
+topics: [tech.ai, include.access]
+entities: [[africell]]
+lens: []
+retrieved: 2026-07-23
+ingested: 2026-07-23
 sweep_batch: newspapers-2026-07-23
+body_completeness: full
 ---
 
 Luanda - A operadora de telefonia móvel Africell lançou, esta quarta-feira, na FILDA/2026, a versão Web do sistema de Inteligência Artificial (IA) designada AfriGPT, para a execução de tarefas complexas a partir de dispositivos com acesso à Internet.
