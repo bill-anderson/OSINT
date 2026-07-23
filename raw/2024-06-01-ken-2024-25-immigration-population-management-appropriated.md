@@ -55,8 +55,10 @@ June-2024 X statement rounded this to "KSh 6.88 billion for population managemen
 **Stage context:** Vote 1024 travelled 14,959.8m (original) -> 14,270.5m (Supp I) -> 20,121.0m (Supp II) -> 20,221.0m (Supp III, final); overall vote absorption 102% - COB attributes the excess to Supplementary III cutting allocations against already-incurred expenditure.
 Later stages: Supp I 6,441.4m; NRB gained +100m in Supp III (4,686.4m -> 4,786.4m). Absorption
 (BIRR Table 4.104): NRB 100% (actual ~4,775.8m), Civil Registration 99%, IPRS 102%.
-**Reconciliation flag filed:** BIRR shows IPRS revised at KSh 255.87m where the Supp III PBB
-carries 232.24m - contradiction filed 2026-07-23.
+**IPRS reconciliation resolved 2026-07-23:** the Supp III print (232.24m, confirmed at page
+grain) and COB's operative revised (255.87m, confirmed by its own absorption arithmetic) both
+stand — an in-year adjustment outside the printed estimates; COB's figure is the execution
+comparator, the print is the appropriation record.
 
 ## Development history
 

@@ -161,3 +161,6 @@ Part of the [entities index](entities-index.md).
 - **Kenya fiscal/identity institutions:** National Treasury (KEN), Controller of Budget,
   Auditor-General (Gathungu), KRA, State Department for Immigration & Citizen Services,
   Social Health Authority, ICTA, KoTDA/KAIST, ODPC, Communications Authority / USF.
+- **Senegal fiscal institutions:** Ministère des Finances et du Budget (Cheikh Diba), DGB,
+  Assemblée nationale (SEN), MCTN (Alioune Sall), Cour des comptes (SEN); ODPC (Kenya, now with
+  its own budget line).

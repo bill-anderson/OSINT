@@ -29,3 +29,21 @@ These two held budget documents disagree on IPRS's final revised FY2024/25 estim
 Supp III PBB Vote 1024 block at page grain (possibly with pdfplumber) to rule out a row-wrap
 misread, then if the disagreement stands, establish whether an Article 223 authorisation explains
 the gap, and record the resolution with both values dated.
+
+## Resolution (2026-07-23, attempt 1 — closed on the held documents)
+
+**The extraction was correct and the disagreement is real.** A page-grain raw-mode re-read of the
+Supp III PBB (batch job 3/3) confirms the printed row exactly: `0626030 Integrated Personal
+Registration Services 232,235,383 → 232,235,383, no change` — not a row-wrap artifact. The BIRR's
+revised figure (KSh 255.87m = 155.87m recurrent + 100.00m development) is separately confirmed by
+its own absorption arithmetic (261.46/255.87 = 102%).
+
+**Resolution: an in-year adjustment outside the printed estimates.** The BIRR itself documents the
+mechanism for FY2024/25: Article 223 approvals "were factored into the subsequent Supplementary
+estimates, and executed thereafter as normal budget allocations" — and where they were not (or a
+reallocation intervened after Supp III, June 2025, weeks before year-end), COB's working records
+diverge from the printed book by exactly this shape. Both values stand, dated: **printed final
+revised (Supp III PBB, Jun 2025): KSh 232.24m; COB operative revised (BIRR, Aug 2025):
+KSh 255.87m; actual KSh 261.46m (102% of the operative figure)**. For execution analysis the COB
+figure is the comparator (newest, execution-side); the printed book remains the appropriation
+record. Applied to the population-management record and the extraction CSV.

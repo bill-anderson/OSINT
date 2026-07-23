@@ -64,50 +64,24 @@ not-held lines added to `wiki/places/KEN.md`, `wiki/places/ZAF.md`, `wiki/places
 
 ### Added 2026-07-23 by the domestic finance sweep (Kenya 2024 → FY2024/25)
 
-- **[blocked]** (dead-link) Kenya National Treasury — *FY2024/25 Estimates of Development
-  Expenditure, Volume I (Votes D1011–D1083)* (original June-2024 edition; the identity votes'
-  project-level lines at **proposed** stage). All three URL paths on treasury.go.ke serve a Drupal
-  404 as of 2026-07-23 (`/sites/default/files/...`, `/index.php/sites/...`, legacy
-  `/wp-content/uploads/2024/07/...`). The revised-stage substitute (Supp I Vol. I) is held at
-  `new-budget/KEN/2024/`.
-- **[blocked]** (dead-link) Kenya National Treasury — *FY2024/25 Approved Supplementary II PBB
-  (1011–2151)* (the KSh 4.64tn mid-year expansion, tabled Feb 2025). Listed on
-  treasury.go.ke/index.php/budget-books but the file URL
-  (`/wp-content/uploads/2025/05/FY24-25-Approved-Supplementary-II-PBB-1011-2151.pdf`) serves a
-  Drupal 404 on both hosts as of 2026-07-23. Aggregates recoverable from the held BIRR; Supp III
-  supersedes it as final revised.
-- **[blocked]** (host-unresolvable) Office of the Auditor-General (Kenya) — *Auditor-General's
-  Summary Report on National Government 2024/2025* (audit stage, cross-cutting findings).
-  oagkenya.go.ke does not resolve from this network and the direct PDF URL never surfaced in
-  search; the FY2023/24 edition follows
-  `/wp-content/uploads/2025/04/Auditor-Generals-summary-Report-on-National-Government-2023-2024.pdf`.
-  **Note, not queued:** the full FY2024/25 Blue Book (630.03 MB) *is* fetchable at
-  `https://libraryir.parliament.go.ke/items/3ad33490-54b9-49f0-b434-048b549121be` — not staged on
-  size (decision logged 2026-07-23); pull it if per-vote audit opinions are needed at extraction.
 
 ### Added 2026-07-23 by the domestic finance sweep (Kenya 2025 → FY2025/26)
 
-- **[blocked]** (dead-link) Kenya National Treasury — *Budget Highlights: The Mwananchi Guide for
-  the FY 2025/26 Budget* (the citizen guide with the digital thematic table; the FY2024/25 and
-  FY2026/27 editions are both live, this one 404s at the pattern path
-  `/sites/default/files/Mwananchi/Budget-Highlights-The-Mwananchi-Guide-for-the-FY-2025-26-Budget.pdf`
-  as of 2026-07-23). Payload substitute held: Eastleigh Voice per-line budget-day breakdown.
 
 
 ### Added 2026-07-23 by the domestic finance sweep (Senegal 2024 → FY2024)
 
-- **[blocked]** (transport) Sénégal DGB — **Loi n°2023-18 du 15 décembre 2023 portant loi de
-  finances pour l'année 2024** (LFI 2024).
-  `https://budget.sec.gouv.sn/documents/public_download/65a7055d-e038-4c83-a5f2-46870a2a028a/telechargement`
-- **[blocked]** (transport) Sénégal DGB — **Annexe au projet de loi de finances pour l'année 2024**
-  (the per-programme annexe — the envelope-solver document).
-  `https://budget.sec.gouv.sn/documents/public_download/65298af8-7928-47a8-9250-ccc20a2a028a/telechargement`
-- **[blocked]** (transport) Sénégal DGB — **Loi de finances rectificative (LFR) 2024** (Loi
-  n°2024-16 du 31 décembre 2024).
-  `https://budget.sec.gouv.sn/telecharger-le-document/67850be9-0084-4e0a-92da-48350a2a028a/telechargement`
-- **[blocked]** (not-located) Sénégal MFB — **Rapport trimestriel d'exécution budgétaire (RTEB), 4e
-  trimestre 2024** (actuals: 6,506.16 mds dépenses / 103.7%). budget.sec.gouv.sn is
-  transport-blocked; the vie-publique.sn and archives.sn mirrors are reachable but their 2024 RTEB
-  page did not surface in one search — try their document indexes directly.
-  *(All four: budget.sec.gouv.sn TLS handshake fails from this network even with DoH-pinned IP
-  (160.0.176.81) — Exa crawls it fine, so a browser session or another network gets them.)*
+
+
+*(Drained 2026-07-23 by the acquisition pass inside batch job 3/3 (update wiki): of 8 items,
+**1 acquired** — the **OAG Summary Report on National Government 2024/2025** (10.5 MB), via the
+DoH-pinned-IP route discovered after the item was queued (oagkenya.go.ke = 41.80.37.54; the page's
+own PDF links were exposed once the host resolved) — staged to `new-budget/KEN/2024/` for the next
+budget extract; the FY2024/25 audit stage is no longer a vacuum. **7 dropped**: KEN Dev Book Vol I
+FY2024/25 original + Supp II PBB FY2024/25 + Mwananchi FY2025/26 (`dead-link` — live only on
+oldsite.treasury.go.ke, which is transport-blocked like the SEN hosts; substance already recovered
+via Supp-I volume, Supp-III comparator columns, and press respectively); the four Senegal
+instruments (`transport` — budget.sec.gouv.sn TLS-fails even IP-pinned; archives.sn/vie-publique
+mirrors reachable but their 2024 pages not indexed; verified UUID URLs preserved in this file's
+history and the extraction notes for a browser-session retry). Absences are stated dated on the
+affected records and run files.)*

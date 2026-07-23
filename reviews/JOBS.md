@@ -30,7 +30,7 @@ Both leave the unreached jobs `[ ]`, so the run resumes on the next "run the bat
 ```
 - [x] Run domestic finance sweep Kenya 2026 — 6 docs + 1 prose staged+extracted; 4 records; first data-protection line found (917.3m); thematic cut to 8.6bn
 - [x] Run domestic finance sweep Senegal 2024 — DGB transport-walled: 4 documents to acquisitions w/ verified URLs; 3 prose + 1 record (numerique slice 16.1 mds) via press
-- [ ] Update wiki
+- [x] Update wiki — converged in 1 iteration: IPRS contradiction closed (dual-value resolution); acquisitions 8→0 (OAG summary FY2024/25 acquired via DoH route, 7 dropped w/ dated absences); lint clean
 
 ```
 
@@ -70,4 +70,4 @@ alone (same principle as `new/ → raw/`). Markers:
 
 - [x] Run domestic finance sweep Kenya 2026 — 6 docs + 1 prose staged+extracted; 4 records; first data-protection line found (917.3m); thematic cut to 8.6bn
 - [x] Run domestic finance sweep Senegal 2024 — DGB transport-walled: 4 documents to acquisitions w/ verified URLs; 3 prose + 1 record (numerique slice 16.1 mds) via press
-- [ ] Update wiki
+- [x] Update wiki — converged in 1 iteration: IPRS contradiction closed (dual-value resolution); acquisitions 8→0 (OAG summary FY2024/25 acquired via DoH route, 7 dropped w/ dated absences); lint clean

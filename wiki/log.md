@@ -6,6 +6,23 @@ Reporting): a few lines each, full detail in `log-archive.md` or git.
 
 ---
 
+## 2026-07-23 — batch run closed: 3/3 done, 0 failed, 0 not reached
+
+**RUN-BATCH first live run — completed.** Job 1: sweep+extract KEN FY2026/27 (ODPC line found).
+Job 2: sweep SEN FY2024 (transport wall; slice record). Job 3: update wiki — converged in 1
+working iteration. **Reconcile 1/1:** IPRS closed on the held documents — page-grain raw re-read
+confirms the Supp III print (232.24m); COB's 255.87m stands as the operative execution comparator
+(in-year adjustment outside the printed estimates); both dated on the record. **Acquire 8: 1
+acquired, 7 dropped** — the **OAG Summary FY2024/25 landed via the DoH route** (audit stage closed;
+staged to `new-budget/KEN/2024/`, extraction pending — the one item of outstanding work on disk);
+drops: 3 KEN dead-links (substance already recovered via comparators/press) + 4 SEN transport
+(verified URLs preserved for a browser-session retry). Lint: delta clean; Senegal/ODPC entity index
+line added. **Decisions:** IPRS dual-value resolution; drop-over-park for the 7 with absences
+dated; OAG staged-not-extracted (next budget-extract drains it).
+Revert: `git checkout <sha> -- reviews/ new-budget/ raw/ wiki/ budget-archive/`.
+
+batch: 3 done ; 0 failed ; 0 not reached
+
 ## 2026-07-23 — batch job 2/3: domestic finance sweep Senegal 2024 — the transport wall run
 
 First Francophone run. **0 budget documents staged** — budget.sec.gouv.sn (a model UUID document
