@@ -20,6 +20,11 @@ all against very low connectivity (**internet penetration ~23% (2025)**).
 
 ## Recent developments
 
+- **2026-07-13** — **ARCEP puts all four operators on formal notice over QoS.** After an April–May
+  Niamey control campaign, the [[arcep-niger|ARCEP]] council (CNRCEP session 2026-06-10) served
+  **mises en demeure** on Celtel, Moov Africa, Niger Telecoms and Zamani Com — voice and mobile-data
+  quality failures across the board; Zamani Com additionally below 4G-coverage thresholds; one month
+  to comply before sanctions, re-test to follow. Source: [[2026-07-13-arcep-mise-en-demeure]].
 - **2026-07-16** — **AES biometric e-passport phase launched (Tiani first enrollee).** After the ID card, Niger
   opened enrolment for the **AES biometric passport** (President Tiani first), a second phase (launched Aug 2025)
   with **five categories** — ordinary, service, diplomatic, refugee and an innovative **Hadj** passport —

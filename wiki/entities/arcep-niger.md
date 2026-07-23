@@ -6,8 +6,8 @@ places: [NER]
 topics: [infra.connect, gov.legislate, gov.standards]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-19
-sources: [[2026-01-29-arcep-continuous-mobile-network-monitoring-platform-lesahel], [2025-09-09-arcep-crackdown-pirate-starlink-wifi-zones-actuniger]]
+last_reviewed: 2026-07-23
+sources: [[2026-01-29-arcep-continuous-mobile-network-monitoring-platform-lesahel], [2025-09-09-arcep-crackdown-pirate-starlink-wifi-zones-actuniger], [2026-07-13-arcep-mise-en-demeure]]
 ---
 
 # ARCEP Niger

@@ -27,6 +27,9 @@ The rails exist; usage lags them.
 
 ## Recent developments
 
+- **2026-07-20** — **ESCCOM proposes raising the minimum internet speed 2→10Mbps** (Notice 08/2026,
+  minimum service standards review) — framed on affordability holding via competition and oversight.
+  Proposal stage, not yet in force. Source: [[2026-07-20-eswatini-esccom-10mbps]].
 - **2026-07-19** *(reporting the Ministry of ICT's Q1 FY2026/27 performance report; **approval itself
   was June 2026**, month precision)* — **★ Digital Eswatini is approved and funded — US$65m, and the
   rails-vs-adoption tension now has money behind it.** [[finance.new]] The **[[world-bank]]** approved

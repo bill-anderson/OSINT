@@ -1,10 +1,19 @@
 ---
+type: source
 title: "Internet et mobile : la Tunisie parmi les pays arabes où les services numériques coûtent le moins cher"
-published: 2026-07-18
-publisher: La Presse de Tunisie
 url: https://www.lapresse.tn/2026/07/18/internet-et-mobile-la-tunisie-parmi-les-pays-arabes-ou-les-services-numeriques-coutent-le-moins-cher/
+publisher: La Presse de Tunisie
+published: 2026-07-18
+date_precision: day
+date_source: source
 places: [TUN]
+topics: [include.access, infra.connect, data.statistics]
+entities: [[instance-nationale-des-telecommunications-tunisia]]
+lens: []
+retrieved: 2026-07-23
+ingested: 2026-07-23
 sweep_batch: newspapers-2026-07-23
+body_completeness: full
 ---
 
 La Tunisie affiche une bonne performance en matière d’accessibilité financière des services numériques. Selon un récent rapport de l’Instance nationale des télécommunications (INT), basé sur les données de l’Union internationale des télécommunications (UIT), le pays se classe deuxième au Maghreb et huitième dans le monde arabe en termes de rapport entre le coût des services numériques et le revenu national brut (RNB) par habitant.

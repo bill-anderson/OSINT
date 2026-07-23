@@ -35,6 +35,10 @@ thing to watch.
   20+ Tunisian experts, published open-source as the seed of a proposed national AI programme;
   infrastructure/data-centre gaps and governance framing dominated.
   Source: [[2026-07-22-tgf-2026-livre-blanc-ia]].
+- **2026-07-18** — **INT affordability report: digital basket at 1.53% of GNI per capita** (ITU
+  data) — 2nd in the Maghreb (behind Libya), 8th of 22 Arab states, 32nd/219 by nominal cost
+  (US$5.31/month); under the UN Broadband Commission's 2% threshold, against an African average of
+  8% (2026). Source: [[2026-07-18-tunisie-internet-abordabilite]].
 - **2026-02-23** — **Mobile payments up 81% in 2025.** The **[[central-bank-of-tunisia]]** reported
   **8.4 million** mobile payment transactions worth **TND 1,769 million** in 2025, growth the CBT
   called **"explosive"**; active digital wallets rose to **815,000 (2025)** from **595,000 (2024)**;

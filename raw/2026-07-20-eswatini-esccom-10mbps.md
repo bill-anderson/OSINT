@@ -1,10 +1,19 @@
 ---
+type: source
 title: Eswatini set for major digital leap
-published: 2026-07-20
-publisher: Times of Eswatini
 url: https://times.co.sz/39355/technology-today/eswatini-set-for-major-digital-leap/
+publisher: Times of Eswatini
+published: 2026-07-20
+date_precision: day
+date_source: source
 places: [SWZ]
+topics: [gov.legislate, infra.connect, include.access]
+entities: [[esccom]]
+lens: []
+retrieved: 2026-07-23
+ingested: 2026-07-23
 sweep_batch: newspapers-2026-07-23
+body_completeness: full
 ---
 
 Reliable internet is no longer a luxury.

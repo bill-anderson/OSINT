@@ -6,8 +6,8 @@ places: [SWZ]
 topics: [gov.protect, gov.legislate, gov.standards, infra.cybersec, infra.connect]
 lens: [sovereignty]
 status: active
-last_reviewed: 2026-07-17
-sources: [[2025-01-01 Role of ESCCOM as National Data Protection Agency], [2024-01-01 Data Protection Act 5 of 2022 - Eswatini], [2022-03-04 Eswatini Data Protection Act 2022 (Act No. 5 of 2022)], [2024-03-11 Eswatini strives for digital sovereignty amid technological advancements], [2024-07-22 Risk of human rights infringement as Eswatini rushes to regulate the ICT sector], [2025-07-31 Eswatini Economic Update - Digital Transformation Key to Unlocking Growth]]
+last_reviewed: 2026-07-23
+sources: [[2025-01-01 Role of ESCCOM as National Data Protection Agency], [2024-01-01 Data Protection Act 5 of 2022 - Eswatini], [2022-03-04 Eswatini Data Protection Act 2022 (Act No. 5 of 2022)], [2024-03-11 Eswatini strives for digital sovereignty amid technological advancements], [2024-07-22 Risk of human rights infringement as Eswatini rushes to regulate the ICT sector], [2025-07-31 Eswatini Economic Update - Digital Transformation Key to Unlocking Growth], [2026-07-20-eswatini-esccom-10mbps]]
 ---
 
 # Eswatini Communications Commission (ESCCOM)

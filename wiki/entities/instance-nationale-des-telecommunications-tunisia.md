@@ -6,8 +6,8 @@ places: [TUN]
 topics: [infra.connect, gov.standards, tech.industry]
 lens: []
 status: active
-last_reviewed: 2026-07-19
-sources: [[2025-04-11-techafricanews-telecom-data-driven-growth]]
+last_reviewed: 2026-07-23
+sources: [[2025-04-11-techafricanews-telecom-data-driven-growth], [2026-07-18-tunisie-internet-abordabilite]]
 ---
 
 # Instance Nationale des Télécommunications (INT)
