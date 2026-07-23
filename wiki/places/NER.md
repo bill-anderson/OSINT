@@ -20,6 +20,9 @@ all against very low connectivity (**internet penetration ~23% (2025)**).
 
 ## Recent developments
 
+- **2026-07-15** — **DGI convenes a national tax-digitalisation seminar** (SISIC / E-SISIC / SECeF
+  systems back at full operation post-sanctions; recommendations sought toward a 24/7 digital tax
+  administration; finance minister presiding). Source: [[2026-07-16-dgi-tax-digitalisation]].
 - **2026-07-13** — **ARCEP puts all four operators on formal notice over QoS.** After an April–May
   Niamey control campaign, the [[arcep-niger|ARCEP]] council (CNRCEP session 2026-06-10) served
   **mises en demeure** on Celtel, Moov Africa, Niger Telecoms and Zamani Com — voice and mobile-data

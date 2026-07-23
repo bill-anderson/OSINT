@@ -6,8 +6,8 @@ places: [TZA]
 topics: [tech.ai, tech.innovate, capacity.training, gov.policy]
 lens: []
 status: active
-last_reviewed: 2026-07-19
-sources: [[2025-07-29-tanzania-charts-path-responsible-ai]]
+last_reviewed: 2026-07-23
+sources: [[2025-07-29-tanzania-charts-path-responsible-ai], [2026-07-20-tza-russia-tech-frontier]]
 ---
 
 # Tanzania ICT Commission (ICTC)

@@ -1,10 +1,19 @@
 ---
+type: source
 title: Brazil, Poland back Dar’s push for digital growth
-published: 2026-07-17
-publisher: Daily News (Tanzania)
 url: https://dailynews.co.tz/brazil-poland-back-dars-push-for-digital-growth/
+publisher: Daily News (Tanzania)
+published: 2026-07-17
+date_precision: day
+date_source: source
 places: [TZA]
+topics: [finance.mou, gov.regional]
+entities: [[micit-tanzania]]
+lens: []
+retrieved: 2026-07-23
+ingested: 2026-07-23
 sweep_batch: newspapers-2026-07-23
+body_completeness: full
 ---
 
 Brazil, Poland back Dar’s push for digital growth

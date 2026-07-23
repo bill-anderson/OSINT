@@ -1,10 +1,19 @@
 ---
+type: source
 title: "Le numérique au service de la santé : SENUM S.A. et la SEN-CSU unissent leurs forces pour rapprocher la Couverture Sanitaire Universelle des citoyens"
-published: 2026-07-22
-publisher: Seneweb
 url: https://www.seneweb.com/fr/news/Sante/le-numerique-au-service-de-la-sante-senum-sa-et-la-sen-csu-unissent-leurs-forces-pour-rapprocher-la-couverture-sanitaire-universelle-des-citoyens_n_499078.html
+publisher: Seneweb
+published: 2026-07-22
+date_precision: day
+date_source: source
 places: [SEN]
+topics: [dpi.govtech, include.access, dpi.mis]
+entities: [[senegal-numerique]]
+lens: []
+retrieved: 2026-07-23
+ingested: 2026-07-23
 sweep_batch: newspapers-2026-07-23
+body_completeness: full
 ---
 
 Le numérique au service de la santé : SENUM S.A. et la SEN-CSU unissent leurs forces pour rapprocher la Couverture Sanitaire Universelle des citoyens

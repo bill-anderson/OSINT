@@ -13,6 +13,9 @@ last_reviewed: 2026-07-21
 
 ## Recent developments
 
+- **2026-07-23** — **[[senegal-numerique|SENUM S.A.]] and SEN-CSU sign a digital universal-health
+  convention** — CSU enrolment and services carried over the Espaces Sénégal Services network
+  (announced 2026-07-22, signing 2026-07-23). Source: [[2026-07-22-senum-sen-csu-convention]].
 - **2026-07-20** *(meeting date not stated in held material)* — **Helios Towers signals a $150m tower
   investment — an intention, not a commitment.** **[[helios-towers]]** CEO **Tom Greenwood**, meeting
   President **Bassirou Diomaye Diakhar Faye**, outlined a plan to invest **USD 150 million** in Senegal to

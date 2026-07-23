@@ -7,7 +7,7 @@ topics: [dpi.govtech, dpi.exchange, gov.policy, gov.standards, infra.cybersec, g
 lens: [sovereignty]
 status: active
 last_reviewed: 2026-07-23
-sources: [[2026-04-29-executive-order-163-digital-government-ndmi-observer], [2026-07-22-liberia-boakai-digital-transformation-agenda-summit]]
+sources: [[2026-04-29-executive-order-163-digital-government-ndmi-observer], [2026-07-22-liberia-boakai-digital-transformation-agenda-summit], [2026-07-22-liberia-tech-summit-day]]
 ---
 
 # OTDI / NDMI (Liberia digital-government reform)

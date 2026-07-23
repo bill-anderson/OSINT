@@ -60,6 +60,13 @@ intersections above.*
   pitched as bridging classroom and industry for the national backbone's future workforce. No intake
   number or programme cadence is published. Source: [[2026-07-23-ttcl-dit-nictbb-training]].
   [[capacity.training]] · [[infra.connect]]
+- **2026-07-15→20** — **Three bilateral digital-cooperation tracks opened in one week.** At WSIS
+  (Geneva) minister Kairuki agreed cooperation frameworks with **Brazil** (AI strategy, Gov.br, PIX
+  experience; MoU proposed; investment invited into data centres) and **Poland** (cybersecurity,
+  digital government, AI research; MoU proposed); follow-up talks in Dar es Salaam with **Russia's
+  Rosmolodyozh** ([[ict-commission-tanzania|ICTC]]) drafted youth/tech-skills agreements. All
+  intent-stage — no signed instrument, amount or timetable held. Sources:
+  [[2026-07-17-tza-brazil-poland-wsis-mous]], [[2026-07-20-tza-russia-tech-frontier]].
 - **2026-07-10** — **First EAC cross-border instant-payment corridor.** A technical meeting in
   Zanzibar on a proof of concept interlinking [[tips-tanzania]] with Rwanda's
   **[[rswitch-rwanda]]** — the first corridor under the

@@ -71,53 +71,70 @@ alone (same principle as `new/ → raw/`). Markers:
 - [ ] Run domestic finance sweep for AGO 2024
 - [ ] Run domestic finance sweep for AGO 2025
 - [ ] Run domestic finance sweep for AGO 2026
+- [ ] Update wiki
 - [ ] Run domestic finance sweep for BDI 2024
 - [ ] Run domestic finance sweep for BDI 2025
 - [ ] Run domestic finance sweep for BDI 2026
+- [ ] Update wiki
 - [ ] Run domestic finance sweep for BEN 2024
 - [ ] Run domestic finance sweep for BEN 2025
 - [ ] Run domestic finance sweep for BEN 2026
+- [ ] Update wiki
 - [ ] Run domestic finance sweep for BFA 2024
 - [ ] Run domestic finance sweep for BFA 2025
 - [ ] Run domestic finance sweep for BFA 2026
+- [ ] Update wiki
 - [ ] Run domestic finance sweep for BWA 2024
 - [ ] Run domestic finance sweep for BWA 2025
 - [ ] Run domestic finance sweep for BWA 2026
+- [ ] Update wiki
 - [ ] Run domestic finance sweep for CAF 2024
 - [ ] Run domestic finance sweep for CAF 2025
 - [ ] Run domestic finance sweep for CAF 2026
+- [ ] Update wiki
 - [ ] Run domestic finance sweep for CIV 2024
 - [ ] Run domestic finance sweep for CIV 2025
 - [ ] Run domestic finance sweep for CIV 2026
+- [ ] Update wiki
 - [ ] Run domestic finance sweep for CMR 2024
 - [ ] Run domestic finance sweep for CMR 2025
 - [ ] Run domestic finance sweep for CMR 2026
+- [ ] Update wiki
 - [ ] Run domestic finance sweep for COD 2024
 - [ ] Run domestic finance sweep for COD 2025
 - [ ] Run domestic finance sweep for COD 2026
+- [ ] Update wiki
 - [ ] Run domestic finance sweep for COG 2024
 - [ ] Run domestic finance sweep for COG 2025
 - [ ] Run domestic finance sweep for COG 2026
+- [ ] Update wiki
 - [ ] Run domestic finance sweep for COM 2024
 - [ ] Run domestic finance sweep for COM 2025
 - [ ] Run domestic finance sweep for COM 2026
+- [ ] Update wiki
 - [ ] Run domestic finance sweep for CPV 2024
 - [ ] Run domestic finance sweep for CPV 2025
 - [ ] Run domestic finance sweep for CPV 2026
+- [ ] Update wiki
 - [ ] Run domestic finance sweep for DJI 2024
 - [ ] Run domestic finance sweep for DJI 2025
 - [ ] Run domestic finance sweep for DJI 2026
+- [ ] Update wiki
 - [ ] Run domestic finance sweep for DZA 2024
 - [ ] Run domestic finance sweep for DZA 2025
 - [ ] Run domestic finance sweep for DZA 2026
+- [ ] Update wiki
 - [ ] Run domestic finance sweep for EGY 2024
 - [ ] Run domestic finance sweep for EGY 2025
 - [ ] Run domestic finance sweep for EGY 2026
+- [ ] Update wiki
 - [ ] Run domestic finance sweep for ERI 2024
 - [ ] Run domestic finance sweep for ERI 2025
 - [ ] Run domestic finance sweep for ERI 2026
+- [ ] Update wiki
 - [ ] Run domestic finance sweep for ETH 2024
 - [ ] Run domestic finance sweep for ETH 2025
 - [ ] Run domestic finance sweep for ETH 2026
+- [ ] Update wiki
 
 

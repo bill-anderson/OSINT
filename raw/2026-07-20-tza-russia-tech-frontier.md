@@ -1,10 +1,19 @@
 ---
+type: source
 title: Samia’s Russia visit opens new tech frontier for Tanzania’s digital future
-published: 2026-07-20
-publisher: The Citizen
 url: https://www.thecitizen.co.tz/tanzania/news/national/samia-s-russia-visit-opens-new-tech-frontier-for-tanzania-s-digital-future-5532062
+publisher: The Citizen
+published: 2026-07-20
+date_precision: day
+date_source: source
 places: [TZA]
+topics: [finance.mou, capacity.training]
+entities: [[ict-commission-tanzania]]
+lens: []
+retrieved: 2026-07-23
+ingested: 2026-07-23
 sweep_batch: newspapers-2026-07-23
+body_completeness: full
 ---
 
 Dar es Salaam. Tanzania’s efforts to build a digital-driven economy are gaining fresh momentum as the country moves to deepen technology cooperation with Russia, with new partnerships expected to unlock opportunities for young innovators, startups and digital entrepreneurs.

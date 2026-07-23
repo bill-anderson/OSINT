@@ -6,8 +6,8 @@ places: [GHA, XAF, NGA, TZA, ZAF, RWA, KEN, ETH, CMR, MWI, ERI, ZMB]
 topics: [gov.policy, capacity.training, tech.ai, finance.new, dpi.id, dpi.pay, dpi.exchange, gov.regional, include.divides, dpi.registry, capacity.research, data.statistics, finance.mou]
 lens: [sovereignty, colonialism]
 status: active
-last_reviewed: 2026-07-20
-sources: [[2026-07-07 Ghana and UNDP Strengthen Partnership on Digital Transformation Projects], [2026-01-01 Digital Public Infrastructure in Africa - UNDP], [2026-02-19 Ethiopia launches AI UniPod to drive innovation], [2026-01-13 Cameroon intros digital system for civil documents], [2026-02-20 Malawi validates AI strategy, digital transformation policy - CAJ News Africa], [2026-02-20 Kenya, India and Italy Launch Trilateral Sovereign AI Partnership for Africa], [2026-05-08 Eritrea strengthens data systems with EPHS 2025 (UNDP)], [2024-11-13-undp-eswatini-dra-results-launch]]
+last_reviewed: 2026-07-23
+sources: [[2026-07-07 Ghana and UNDP Strengthen Partnership on Digital Transformation Projects], [2026-01-01 Digital Public Infrastructure in Africa - UNDP], [2026-02-19 Ethiopia launches AI UniPod to drive innovation], [2026-01-13 Cameroon intros digital system for civil documents], [2026-02-20 Malawi validates AI strategy, digital transformation policy - CAJ News Africa], [2026-02-20 Kenya, India and Italy Launch Trilateral Sovereign AI Partnership for Africa], [2026-05-08 Eritrea strengthens data systems with EPHS 2025 (UNDP)], [2024-11-13-undp-eswatini-dra-results-launch], [2026-07-21-madagascar-fat-numerique]]
 ---
 
 # United Nations Development Programme (UNDP)

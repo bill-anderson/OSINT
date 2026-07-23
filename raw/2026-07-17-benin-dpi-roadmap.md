@@ -1,10 +1,19 @@
 ---
+type: source
 title: "Infrastructures publiques numériques au Bénin : La feuille de route lancée pour une transformation digitale plus poussée"
-published: 2026-07-17
-publisher: La Nation Bénin
 url: https://www.lanation.bj/actualites/infrastructures-publiques-numeriques-au-benin-la-feuille-de-route-lancee-pour-une-transformation-digitale-plus-poussee
+publisher: La Nation Bénin
+published: 2026-07-17
+date_precision: day
+date_source: source
 places: [BEN]
+topics: [dpi.exchange, dpi.id, gov.policy]
+entities: [[asin-benin]]
+lens: []
+retrieved: 2026-07-23
+ingested: 2026-07-23
 sweep_batch: newspapers-2026-07-23
+body_completeness: full
 ---
 
 La Nation Bénin...

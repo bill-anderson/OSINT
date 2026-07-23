@@ -20,6 +20,9 @@ offline, with a large rural divide.
 
 ## Recent developments
 
+- **2026-07-20** — **FAT administration-modernisation programme launched** (with [[undp|UNDP]]
+  support, 2026–2030) — public-service digitalisation framed as re-energising service delivery.
+  Source: [[2026-07-21-madagascar-fat-numerique]].
 - **2026-07-16** *(analysis pair; ingested 2026-07-23)* — **ISS takes Madagascar's
   digital-governance turn seriously.** Two ISS pieces land together: an ISS Today analysis on
   technology transforming governance in Madagascar, and an African Futures scenario ("Madagascar

@@ -28,6 +28,9 @@ last_reviewed: 2026-07-20
   the **Orange Liberia LRD 4m SIM-privacy fine** (see [[liberia--gov-protect]]). See
   [[infra.connect]], [[gov.legislate]]. Source:
   [[2026-07-22-liberia-strips-starcell-of-operating-license]].
+- **2026-07-21** — **Boakai declares July 21 "Liberia Technology Summit Day"** (proclamation tied to
+  the national technology summit and the digital-transformation push under **Executive Order 163** /
+  [[otdi-liberia|OTDI]]). Source: [[2026-07-22-liberia-tech-summit-day]].
 
 - **2026-07-21 — The Technology Summit is held: Boakai puts EO 163 at the centre of a
   whole-of-government digital agenda.** [[gov.policy]] President **Joseph Nyuma Boakai** opened the

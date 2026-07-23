@@ -6,8 +6,8 @@ title: Ministry of Information, Communication and Information Technology (MICIT)
 places: [TZA]
 topics: [gov.policy, dpi.registry, dpi.govtech, tech.industry, digital.localgov]
 status: active
-last_reviewed: 2026-07-20
-sources: [[2024-07-10 Tanzania ramps up national physical address registration], [2026-02-09 Tanzania registers 12 million housing addresses to boost digital governance], [2024-01-01 Tanzania Digital Economy Strategic Framework 2024-2034 (MICIT)], [2024-08-27-mfumo-jamii-x-change-kuunganisha-mifumo-tehama], [2024-10-18-hakikisheni-mnapata-namba-ya-nida-jamii-namba-majaliwa]]
+last_reviewed: 2026-07-23
+sources: [[2024-07-10 Tanzania ramps up national physical address registration], [2026-02-09 Tanzania registers 12 million housing addresses to boost digital governance], [2024-01-01 Tanzania Digital Economy Strategic Framework 2024-2034 (MICIT)], [2024-08-27-mfumo-jamii-x-change-kuunganisha-mifumo-tehama], [2024-10-18-hakikisheni-mnapata-namba-ya-nida-jamii-namba-majaliwa], [2026-07-17-tza-brazil-poland-wsis-mous]]
 ---
 
 # Ministry of Information, Communication and Information Technology (MICIT), Tanzania

@@ -22,6 +22,11 @@ government reports, national root servers). Much of this reform is entangled wit
 
 ## Recent developments
 
+- **2026-07-17** — **Decision 348/2026: Unified Economic Number implementation begins.** The Tripoli
+  government authorised the Ministry of Economy and Trade to roll out a **single national identifier
+  for all economic/commercial/investment entities**, with a National Council (Economy Minister chair)
+  to govern it — database interconnection across ministries framed as the mechanism. A
+  business-registry DPI move. Source: [[2026-07-18-libya-unified-economic-number]].
 > **2026-07-18 LBY sweep batch (32 sources)** — a Libya Herald + Alwasat (AR) press tranche since
 > 2025-01, consolidated into thematic intersections. Anchors:
 > - **Payments** (strongest theme) — CBL e-payments **LD 389bn / +186% (2025)**, EPAIX 2026 (SoftPOS,
