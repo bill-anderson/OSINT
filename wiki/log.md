@@ -131,6 +131,20 @@ first window (105 domains). **Observation, no change:** content sweeps carry no 
 has 10 days) — first journals/organisations runs span ~3.5 weeks × 37/53 domains; the mandated
 duration-logging is the right instrument to price that empirically.
 
+## 2026-07-23 — Headless batch driver: `run-overnight.ps1`
+
+Big-batch inline runs exhaust one session's context long before the wall-clock Budget bites (context-bound,
+not time-bound). New `run-overnight.ps1` (repo root): a thin PowerShell outer loop that spawns a **fresh
+headless `claude -p` session per job** (clean context each time; now the Budget cap actually governs). Each
+session does one job per RUN-BATCH's *Single-job (headless) contract* — resolve leftover `[~]`, take next
+`[ ]`, mark `[~]`+commit, run, mark `[x]`/`[!]`/`[stop]`+commit, exit — and the script never edits JOBS.md
+itself. Driver owns the loop + Stop/Budget checks + serious-fail halt (2 no-progress sessions → stop) +
+a finalise session (archive + clear/re-arm). Uses `--dangerously-skip-permissions` (vault is git+Dropbox
+versioned). **Exa MCP caveat:** the claude.ai-authed `claude_ai_Exa` server may be absent headless; a
+session that finds it gone marks the job `[stop]` rather than degrading to weak built-in search. **Test one
+job first:** `run-overnight.ps1 -MaxJobs 1`, confirm Exa was used, then drain all 68. Added RUN-BATCH.md
+"Two ways to run" + contract; `run-overnight.log` gitignored. Revert: `git rm run-overnight.ps1`.
+
 ## 2026-07-23 — Second batch file: `weekly_jobs.md` (standing) + Mode-aware runner
 
 Content sweeps turned out quick → weekly. New `reviews/weekly_jobs.md`, a **standing** batch (the three

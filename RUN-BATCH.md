@@ -173,3 +173,45 @@ the cause, **re-marking any `[stop]` line `[ ]`** (it halted on the environment,
 on its merits — the launch check does this if forgotten), and re-issuing the
 trigger. It archives and clears/re-arms only once it finally completes with an empty
 queue.
+
+## Two ways to run: inline vs the headless driver
+
+**Inline** — CC works the whole loop itself in one session. Fine for a handful of
+light jobs. But a large batch of *heavy* jobs (many domain-scoped Exa passes, PDF
+downloads, extraction) exhausts a single session's context long before the wall-clock
+`Budget:` bites, forcing repeated compaction. Inline is context-bound, not time-bound.
+
+**Headless driver** — `run-overnight.ps1` in the repo root. Use this for large or
+heavy batches. It is a thin outer loop that spawns a **fresh headless `claude` session
+per job**, so every job starts with clean context and only wall-clock time accumulates
+— which is exactly what the `Budget:` cap was designed for. Each session does **one
+job and exits**; the driver re-invokes until the queue is drained, then finalises.
+
+### Single-job (headless) contract
+
+When invoked by the driver, a session does **exactly one job**, per the marker-is-state
+rule:
+
+1. **Resolve any leftover `[~]`** first — a `[~]` at start means a prior session
+   crashed mid-job. Establish its true state from git/`log.md` and re-mark it
+   (`[x]`/`[!]` if it in fact finished, else `[ ]` to retry).
+2. Take the **first `[ ]`** in `## Queue`. Mark it `[~]`, commit.
+3. Run the job text to completion, following the repo's procedures.
+4. Mark it `[x] — <outcome>` (or `[!]` ordinary failure / `[stop]` serious), commit.
+5. **Stop — never start a second job**, and do not run the end-of-run archive/clear
+   (the driver calls a final session for that once the queue is empty).
+
+The driver owns the outer loop and, **between jobs**, the `Stop:`/`Budget:` checks and
+serious-failure halt (two no-progress sessions in a row → stop and leave state for
+resume).
+
+### Before a big drain: confirm the Exa MCP
+
+The finance sweeps depend on the **`claude_ai_Exa` web-search MCP**, which is
+claude.ai-authenticated and **may be absent in a headless `claude -p` run** (as the
+ingest runbook warns of interactively-authenticated servers). Without it, jobs would
+fall back to built-in WebSearch/WebFetch — weaker on Francophone/Lusophone budget
+portals. So a session that finds Exa **unavailable marks the job `[stop]` ("Exa MCP
+absent")** rather than silently producing degraded captures, which halts the batch for
+a human look. **Always test one job first** (`run-overnight.ps1 -MaxJobs 1`) and check
+it actually used Exa before launching the full drain.
