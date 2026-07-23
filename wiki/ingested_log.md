@@ -1,5 +1,12 @@
 # ingested_log.md — what ingest admitted to `raw/` (rolling 7-day view)
 
+## 2026-07-23 18:42
+
+| Place | Source |
+|---|---|
+| ZAF | [Barriers to electronic signature adoption in South African conveyancing](../raw/2026-07-14-sajim-esignature-conveyancing.md) |
+| XSS | [Deplatformed and disconnected: How big tech platforms are locking Africans out of the digital economy](../raw/2026-01-01-policyreview-deplatformed-africa.md) |
+
 ## 2026-07-23 18:40
 
 | Place | Source |

@@ -1,4 +1,5 @@
 ---
+type: source
 title: Barriers to electronic signature adoption in South African conveyancing
 published: 2026-07-14
 date_precision: day
@@ -7,6 +8,12 @@ publisher: South African Journal of Information Management (SAJIM)
 url: https://sajim.co.za/index.php/sajim/article/view/2139/3668
 places: [ZAF]
 sweep_batch: journals-2026-07-23
+topics: [dpi.govtech, gov.legislate]
+entities: []
+lens: []
+retrieved: 2026-07-23
+ingested: 2026-07-23
+body_completeness: full
 ---
 
 | 

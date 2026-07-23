@@ -1,4 +1,5 @@
 ---
+type: source
 title: "Deplatformed and disconnected: How big tech platforms are locking Africans out of the digital economy"
 published: 2026-01-01
 date_precision: year
@@ -8,6 +9,12 @@ publisher: Internet Policy Review (op-ed)
 url: https://policyreview.info/articles/news/deplatformed-and-disconnected
 places: [XSS]
 sweep_batch: journals-2026-07-23
+topics: [dpi.id, include.access, gov.protect]
+entities: []
+lens: [analysis]
+retrieved: 2026-07-23
+ingested: 2026-07-23
+body_completeness: full
 ---
 
 Deplatformed and disconnected: How big tech platforms are locking Africans out of the digital economy
